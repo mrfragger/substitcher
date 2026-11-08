@@ -1,0 +1,61 @@
+{
+  "title": "Echo oszustwa",
+  "intro": "Więź pokrewieństwa została wystawiona na próbę przez falę zazdrości. Powstał tajny plan, który zapoczątkował ciąg wydarzeń, które miały trwać latami i przemierzyć ogromne odległości. Działania tej grupy doprowadziły do ​​głębokiego rozstania i smutku, ale historia na tym się nie skończyła. To opowieść o oszustwie, żalu i ostatecznym spełnieniu boskiego planu. Czy potrafisz odkryć tożsamość tych osób, których wybory odbijały się echem przez pokolenia?",
+  "clues": [
+    "Byliśmy zżerani zazdrością o uczucia okazane jednemu z naszych.",
+    "Z zazdrości sprzysięgliśmy się i wrzuciliśmy naszego brata do ciemnej studni.",
+    "Aby ukryć nasz czyn, podarowaliśmy naszemu ojcu szatę poplamioną fałszywą krwią.",
+    "Wiele lat później, dotkliwy głód zmusił nas do podróży do Egiptu w poszukiwaniu żywności.",
+    "Tam stanęliśmy przed potężnym gubernatorem, który – o czym nie wiedzieliśmy – był tym samym rodzeństwem, któremu wyrządziliśmy krzywdę.",
+    "Ostatnim sprawdzianem, jakiego doświadczyliśmy, było sprowadzenie naszego najmłodszego brata, Benjamina, co doprowadziło do ujawnienia naszej przeszłości i faktu, że naszym ojcem był prorok Jakub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Synowie Adama (Kabil i Habil)",
+        "Uczniowie proroka Izajasza",
+        "Bracia Proroka Jusufa",
+        "Ludzie Madyanu",
+        "Magowie z Fir'awn"
+      ],
+      "answer": "Bracia Proroka Jusufa"
+    },
+    "trial": {
+      "label": "Jakie było nasze główne przewinienie?",
+      "options": [
+        "Budowa złotego cielca do oddawania czci",
+        "Żądanie bezpośredniego spotkania z Allahem",
+        "Naśmiewanie się z proroka za zbudowanie arki",
+        "Oszukanie ojca i porzucenie brata",
+        "Łamanie szabatu przez łowienie ryb"
+      ],
+      "answer": "Oszukanie ojca i porzucenie brata"
+    },
+    "location": {
+      "label": "Jaki obiekt był centralnym punktem naszego oszustwa?",
+      "options": [
+        "Zestaw tabliczek z inskrypcjami",
+        "Koszula poplamiona sztuczną krwią",
+        "Złoty cielec",
+        "Piękny ptak (dudek)",
+        "Laska, która zamieniła się w węża"
+      ],
+      "answer": "Koszula poplamiona sztuczną krwią"
+    },
+    "outcome": {
+      "label": "Jaki był ostateczny wynik naszej historii?",
+      "options": [
+        "Zostaliśmy zniszczeni przez potężną powódź",
+        "Zamieniono nas w małpy",
+        "Zostaliśmy pochłonięci przez ziemię",
+        "Wybaczono nam i zjednoczono się z naszą rodziną",
+        "Utonęliśmy w morzu"
+      ],
+      "answer": "Wybaczono nam i zjednoczono się z naszą rodziną"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

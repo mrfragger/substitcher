@@ -1,0 +1,61 @@
+{
+  "title": "Dubbatee Jiraachuutti",
+  "intro": "Fakkiin tokko seenaa qulqulluu keessaa kan ba’u yoo ta’u, dinqii sirna uumamaa morme qabate. Lubbuun kun ajaja waaqaa tokkoon dhufte, warra tokko himannaa cimaa irraa ittistee, osoo sansalatni lafaa isaan hin hidhin addunyaa kana irraa baate. Seenaan kun daa’ima gad of qabuu irraa kaasee hanga samii gubbaatti kan hammatudha. Kun eenyu ta'uu danda'a?",
+  "clues": [
+    "Ijoollee Israa’eliif mallattoo fi rahmata Rabbiin biraa ta’ee ergame.",
+    "Dhufaatiin koo kan kanaan duraa kan biraa irraa adda ture — jecha waaqummaa 'Ta'i!' abbaa lafaa malee.",
+    "Warri koo maqaa balleessii gara jabeessa isa mudate, garuu mul’anni qulqulluun qulqullummaa isaanii labsuu fi buufata isaanii ol kaasuuf gadi bu’e.",
+    "Daa'ima reefuu dhalate waan ta'eef, maqaa warra koo qulqulleessuuf siree koo irraa ifatti dubbachuudhaan namoota naannoo koo jiran ajaa'ibsiiseera.",
+    "Hayyama Rabbiitiin suphee lubbuu hin qabne irraa jireenya bocee, nama jaamaa ija kennee, nama dhukkuba nadaayii tuqeen fayyise.",
+    "Miidhaan osoo na hin tuqin gara samiitti ol kaafameera, Sa’aatiin dhumaa osoo hin dhufin gara addunyaa kanaatti nan deebi’a."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Isaa",
+        "Nabi Muusaa",
+        "Nabi Ibraahim",
+        "Nabi Yuusuf",
+        "Nabi Daawud"
+      ],
+      "answer": "Nabi Isaa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Daa'ima ta'ee siree irraa dubbachuu",
+        "Garaa qurxummii guddaa keessaa lubbuun jiraachuu",
+        "Ibidda boba’aa keessa darbatamuu",
+        "Lolaan dura doonii guddaa ijaaruu",
+        "Falfala mana murtii Fara'oon fuulduratti"
+      ],
+      "answer": "Daa'ima ta'ee siree irraa dubbachuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Injeel (Wangeela) .",
+        "Tawraan (Toora) .",
+        "Zabur (Faarfannaa) .",
+        "Suhuf (Maacaawwan Ibraahim) .",
+        "Ulee galaana addaan qoodu"
+      ],
+      "answer": "Injeel (Wangeela) ."
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Gara samiitti ol kaafame, Guyyaa Qiyaamaa dura ni deebi'a",
+        "Ilmaan Israa'el Gibxii keessaa baase",
+        "Mootii jinnii, namaa fi simbirroota irratti ol’aantummaa qabu ta’e",
+        "Amantoota wajjin lolaa guddaa irraa hafe",
+        "Makkaatti mana qulqulluu ijaare"
+      ],
+      "answer": "Gara samiitti ol kaafame, Guyyaa Qiyaamaa dura ni deebi'a"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lagið sem færði fjöllin",
+  "intro": "Þú ert að fara að afhjúpa sögu einstaks þjóns Allahs. Í landi sendiboða og stjórnenda var þessi persóna blessuð með guðlegri bók, öflugri rödd og styrk yfir járni. Geturðu borið kennsl á hver þetta gæti verið þegar þú lest vísbendingarnar?",
+  "clues": [
+    "Ég var þjónn Allahs sem fékk sérstaka bók.",
+    "Ég hafði fagra rödd og lofgjörð mín var svo vinsæl að jafnvel hæðirnar og fuglarnir tóku undir með mér.",
+    "Ég mætti ​​ógnarsterkum andstæðingi í frægri orrustu og þrátt fyrir að vera minni sigraði ég.",
+    "Járn var gert sveigjanlegt fyrir mig, sem gerði mér kleift að smíða brynjur með mínum eigin höndum.",
+    "Ég var gjörður stjórnandi yfir mikilli þjóð, og viska mín í dómgreind varð fræg.",
+    "Sonur minn, sem einnig var spámaður, fékk stjórn yfir vindinum og djinnunum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Dawud (Davíð)",
+        "Spámaðurinn Súlaiman (Salómon)",
+        "Spámaðurinn Músa (Móse)",
+        "Spámaðurinn Harún (Aron)",
+        "Spámaðurinn Ilyas (Elías)"
+      ],
+      "answer": "Spámaðurinn Dawud (Davíð)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Sigraði Golíat (Jalut)",
+        "Kljúfaði hafið",
+        "Lifði af hvalnum",
+        "Var kastað í eld",
+        "Smíðaði örkina"
+      ],
+      "answer": "Sigraði Golíat (Jalut)"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Zabur (Sálmar)",
+        "Tóran (Tawrat)",
+        "Guðspjallið (Injil)",
+        "Skrúlurnar eftir Ibrahim",
+        "Kóraninn"
+      ],
+      "answer": "Zabur (Sálmar)"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Varð spámaður og konungur Ísraels",
+        "Varð stjórnandi Egyptalands",
+        "Var upphefður til himins",
+        "Var eyðilagður í stormi",
+        "Varð félagi hellisins"
+      ],
+      "answer": "Varð spámaður og konungur Ísraels"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "harta karun yang tenggelam di bawah kesombongan",
+  "intro": "Bayangkan Anda berdiri di hadapan tumpukan kekayaan yang begitu besar sehingga hanya membawa kuncinya saja akan membuat sekelompok orang kuat kelelahan. Di sekitar Anda, suara-suara mendesak kerendahan hati dan rasa syukur, namun kesombongan tumbuh lebih keras daripada rasa terima kasih. Apa yang terjadi ketika kelimpahan menjadi ujian dan kesombongan menentukan hasilnya?",
+  "clues": [
+    "Aku termasuk kaum Musa, namun aku melanggar perintah mereka.",
+    "Aku dianugerahi harta karun yang begitu besar sehingga kunci-kuncinya akan menjadi beban bagi sekelompok pria kuat.",
+    "Aku dinasihati oleh kaumku agar tidak terlalu berbangga diri dan mencari kehidupan akhirat tanpa melupakan bagianku di dunia ini.",
+    "Saya menyatakan bahwa apa yang saya miliki diberikan kepada saya semata-mata karena pengetahuan yang saya miliki.",
+    "Aku berparade di hadapan kaumku dengan perhiasan, dan mereka yang menginginkan kehidupan duniawi mendambakan hal yang sama seperti yang kumiliki.",
+    "Aku ditelan bumi bersama tempat tinggalku, dan tak seorang pun dapat menolongku, begitu pula aku tak dapat menolong diriku sendiri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Membual tentang kekayaan dan mengingkari nikmat Allah meskipun telah diberi nasihat.",
+        "Menantang Ibrahim tentang memberi hidup dan mati",
+        "Memimpin pasukan melawan Talut dan Dawud",
+        "Patung-patung ukiran untuk disembah oleh masyarakat.",
+        "Membunuh saudara karena iri hati atas sebuah persembahan."
+      ],
+      "answer": "Membual tentang kekayaan dan mengingkari nikmat Allah meskipun telah diberi nasihat."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Kunci menuju harta karun yang sangat besar",
+        "Tabut Perjanjian",
+        "Anak lembu emas sebagai hiasan",
+        "Sebuah bendungan di antara dua gunung",
+        "Sebelas bintang dalam mimpi"
+      ],
+      "answer": "Kunci menuju harta karun yang sangat besar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Ditelan bumi bersama tempat tinggal dan kekayaan",
+        "Tenggelam di laut saat mengejar Musa",
+        "Terjatuh terkena lemparan batu dari ketapel Dawud",
+        "Hancur oleh ledakan dahsyat karena melumpuhkan seekor unta betina.",
+        "Diubah menjadi kera karena melanggar hari Sabat"
+      ],
+      "answer": "Ditelan bumi bersama tempat tinggal dan kekayaan"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

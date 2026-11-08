@@ -1,0 +1,61 @@
+{
+  "title": "Valdnieks, kurš pieprasīja dievišķību",
+  "intro": "Varens un augstprātīgs valdnieks uzskatīja, ka neviens nestāv pāri viņa tronim. Viņi dzina bēgošu grupu pāri plašam ūdenstilpnei, taču piedzīvoja dramatisku galu. Šī valdnieka stāsts atbalsojas daudzās Korāna vietās, kalpojot kā brīdinājums visiem.",
+  "clues": [
+    "Es biju varens valdnieks, kurš neuzskatīja, ka zemēs, kuras pārvaldīju, neviena vara nepārspēj manējo.",
+    "Man bija uzticams vezīrs vārdā Hamans, kurš man palīdzēja īstenot grandiozus arhitektūras projektus.",
+    "Es sasaucu labākos savas zemes burvjus, lai apstrīdētu vēstneša zīmes, kurš man pretojās.",
+    "Es atteicos ļaut aiziet tautai, kas bija paverdzināta manā valstībā, neskatoties uz mēri un skaidriem brīdinājumiem.",
+    "Es vajāju viņus pāri plašai jūrai ar visu savu armiju un ratiem.",
+    "Tā pati jūra aizvērās pār mani un maniem spēkiem, noslīcinot mūs visus, kamēr viņi droši šķērsoja to."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Fir'awn (faraons)",
+        "Namrud",
+        "Abu Lahābs",
+        "Hamans",
+        "Abu Džahls"
+      ],
+      "answer": "Fir'awn (faraons)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Mokas un konfrontācija ar Musu (Mozu)",
+        "Šķirsta būvēšana pirms lieliem plūdiem",
+        "Cīņa pret Džalutu ielejā",
+        "Valis norīts",
+        "Godīgu tirdzniecības svaru aizstāvēšana"
+      ],
+      "answer": "Mokas un konfrontācija ar Musu (Mozu)"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Augsti torņi un mieti",
+        "Liela koka šķirsta",
+        "Zelta teļš",
+        "Personāla, kas pārvērtās par čūsku",
+        "Milzīgs valis"
+      ],
+      "answer": "Augsti torņi un mieti"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Noslīka jūrā kopā ar armiju",
+        "Glābts ar Allāha žēlastību un pacietību, atalgots",
+        "Atkal kopā ar ģimeni pēc gadiem ilgām grūtībām",
+        "Zeme norīja",
+        "Sadega ugunsgrēkā"
+      ],
+      "answer": "Noslīka jūrā kopā ar armiju"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

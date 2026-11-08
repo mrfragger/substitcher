@@ -1,0 +1,61 @@
+{
+  "title": "Helligdommens bønnfallende",
+  "intro": "I nattens stille timer ropte en hengiven sjel til Den Barmhjertige innenfor de hellige murene på et hellig sted. År med urokkelig tro og tålmodighet skulle snart bli belønnet med et mirakel som ville bringe glede og en arv av profetskap.",
+  "clues": [
+    "Jeg tilbrakte dager og netter i hengivenhet i et hellig tempel, og bønnfalt stadig til min Herre.",
+    "Jeg ble gammel, og min kone var ufruktbar, men jeg mistet aldri håpet om Allahs nåde.",
+    "Jeg fikk en sønn, som het Yahya, som ble en profet og et fyrtårn for rettferdighet.",
+    "Jeg var selv en profet, sendt for å veilede Israels barn.",
+    "Jeg var en etterkommer av profeten Harun og tjente som prest i tempelet.",
+    "Jeg ble betrodd omsorgen for Maryam, Isas mor, og var vitne til hennes mirakler."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Zakariyya",
+        "Profeten Yahya",
+        "Profeten Ilyas",
+        "Profeten Ishaq",
+        "Profeten Ya'qub"
+      ],
+      "answer": "Profeten Zakariyya"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Skjenket en sønn i alderdommen",
+        "Reddet fra en voldsom brann",
+        "Reddet fra magen til en fisk",
+        "Overlevde en stor flom",
+        "Helbredet fra en alvorlig sykdom"
+      ],
+      "answer": "Skjenket en sønn i alderdommen"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Mihrab (bønnenisjen)",
+        "Kabaen",
+        "Den brennende busken",
+        "Paktens ark",
+        "De syv sovendes hule"
+      ],
+      "answer": "Mihrab (bønnenisjen)"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Fikk en rettferdig sønn som ble profet",
+        "Ødelagt av en voldsom storm",
+        "Druknet i havet",
+        "Spart for å bli brent",
+        "Vendte tilbake til sitt folk etter å ha blitt reddet fra en fisk"
+      ],
+      "answer": "Fikk en rettferdig sønn som ble profet"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

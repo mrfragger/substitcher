@@ -1,0 +1,61 @@
+{
+  "title": "Ang Arkitekto ng Maling Ambisyon",
+  "intro": "Isang pigura na may dakilang awtoridad ang dating naglingkod sa isa sa pinakakilalang mga malupit na pinuno sa kasaysayan sa sinaunang Ehipto. Ang indibidwal na ito ay pinagkatiwalaan ng isang matapang na utos — ang magtayo ng isang istrukturang nilalayong sumalungat sa kalangitan. Ang kanilang kwento ay nagsisilbing isang kapansin-pansing aral sa Quran tungkol sa kung paano ang bulag na pagsunod sa kayabangan ay humahantong lamang sa kapahamakan.",
+  "clues": [
+    "Naglingkod ako sa korte ng isang makapangyarihang pinuno na nag-aangkin ng pagka-diyos sa mga lupain.",
+    "Naghawak ako ng mataas na posisyon sa ministeryo, na nagpapayo sa pinakamayabang na tirano noong aking panahon.",
+    "Ang aking pinuno ay abala sa paghamon sa Diyos ni Moises, na kanilang tinanggihang kilalanin.",
+    "Inutusan akong magtayo ng isang tore na yari sa mga ladrilyong niluto sa apoy upang ang aking pinuno ay makaakyat sa kalangitan.",
+    "Ang tore ay hindi umabot sa langit, at ang aking pagkaalipin sa kayabangan ay nagdulot sa akin ng walang hanggang kahihiyan.",
+    "Namatay akong kasama ng sinundan ko, at ang pangalan ko ay naging isang walang hanggang babala laban sa mga taong nagbibigay-daan sa mga malupit na pinuno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Haman",
+        "Azar (ama ni Ibrahim)",
+        "Illyas (isang propeta)",
+        "Dhu al-Kifl",
+        "Harut (isa sa dalawang anghel sa Babilonia)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Inutusang magtayo ng isang matayog na gusali upang maabot ang kalangitan",
+        "Hiniling na bigyang-kahulugan ang isang panaginip na ipinadala mula sa banal",
+        "Itinapon sa nagliliyab na apoy bilang pagsubok sa pananampalataya",
+        "Napilitang pumili sa pagitan ng trono at katotohanan",
+        "Hinamon sa isang paligsahan ng pangkukulam"
+      ],
+      "answer": "Inutusang magtayo ng isang matayog na gusali upang maabot ang kalangitan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang tore ng mga ladrilyong niluto sa apoy",
+        "Isang tungkod na naging ahas",
+        "Isang barkong naglalayag sa gitna ng isang malaking baha",
+        "Isang hardin na napapalibutan ng matataas na pader",
+        "Isang trono na pinalamutian ng mga rubi at ginto"
+      ],
+      "answer": "Isang tore ng mga ladrilyong niluto sa apoy"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalunod sa tabi ng mapang-api sa dagat",
+        "Naging makapangyarihang monarko ng malawak na lupain",
+        "Nakaligtas sa nagliliyab na apoy nang walang pinsala",
+        "Nagtayo ng isang maunlad na kaharian ng karunungan",
+        "Muling nakasama ang pamilya pagkatapos ng maraming taon ng pagkatapon"
+      ],
+      "answer": "Nalunod sa tabi ng mapang-api sa dagat"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

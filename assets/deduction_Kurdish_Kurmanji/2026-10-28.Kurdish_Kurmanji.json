@@ -1,0 +1,61 @@
+{
+  "title": "Soza ku li ser agir hat dayîn",
+  "intro": "Hûn li kêleka agirê çolê radiwestin dema ku emberên wê bi baldarî têne belavkirin. Mêvan ji bo hevdîtinekê di bêdengiyê de tên, û peyamek tenê çîrokeke soz, surprîz û pêşerojek ku hîn pêk nehatiye vedike.",
+  "clues": [
+    "Me dûrî derbas kir da ku em bigihîjin xulamekî dilsoz li çolê.",
+    "Me xwest ku ji bo amadekirina agir embar bên belavkirin.",
+    "Me bi yekî re axivî ku ji bo sarbûn û ewlehiyê gazî agir kiribû.",
+    "Me mizgîniya nûbûyîyekê ji kesekî re anî ku temenê zarokanînê derbas kiribû.",
+    "Me navê zarokê sozdayî danî Îshaq.",
+    "Me mizgîniya kurekî ji Îbrahîm re anî û ev xebera ecêb Îbrahîm keniya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Firîşteyên ku mizgîniya Îshaq ji Îbrahîm re anîn",
+        "Firîşteyên ku Lût hişyar kirin",
+        "Milyaketên Texthilgir",
+        "Firîşteyên Cehenemê",
+        "Melekên ku ji Nûh re hatine şandin"
+      ],
+      "answer": "Firîşteyên ku mizgîniya Îshaq ji Îbrahîm re anîn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Mizgîniya jidayikbûna Îshaq ji Îbrahîm re tîne",
+        "Hişyarkirina Lût berî cezakirina gelê wî",
+        "Jidayikbûna Yehya ji Zekeriya re radigihîne",
+        "Hilgirtina Text di Roja Qiyametê de",
+        "Mizgîniya jidayikbûna Îsa ji Meryemê re"
+      ],
+      "answer": "Mizgîniya jidayikbûna Îshaq ji Îbrahîm re tîne"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Agirekî ji emberên belavbûyî hatiye amadekirin",
+        "Keştiyek li ser ava lehiyê diherike",
+        "Şikeftek bi kevirekî gêrkirî hatiye girtin",
+        "Çiyayekî ji axê ku bi şorê hişk bûye",
+        "Pêpelûkek ber bi asîman ve dirêj dibe"
+      ],
+      "answer": "Agirekî ji emberên belavbûyî hatiye amadekirin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Mizgîniya kurekî bi navê Îshaq",
+        "Mizgîniya kurekî bi navê Yahya",
+        "Hilbijartina Talut wek hukumdarê li ser Zarokên Îsraîl",
+        "Hişyariyek beriya cezakirina gelê Lût",
+        "Fermanek ji bo çêkirina keştîyê berî Tofanê"
+      ],
+      "answer": "Mizgîniya kurekî bi navê Îshaq"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

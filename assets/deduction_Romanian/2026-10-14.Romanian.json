@@ -1,0 +1,61 @@
+{
+  "title": "Încălcătorii Legământului Exilați",
+  "intro": "În primele zile ale unei comunități aflate la început de drum, un trib trăia odată în locuințe fortificate, legați printr-un pact. Când acel pact a fost trădat, consecințele au răsunat în paginile Coranului. Cine erau acești oameni și ce s-a întâmplat cu casele și livezile lor?",
+  "clues": [
+    "Locuiam în fortărețe care ne dădeau un fals sentiment de siguranță.",
+    "Am fost oameni ai Scripturii, totuși am încălcat legământul nostru.",
+    "Am complotat împotriva mesagerului după ce a venit la noi, dar planul nostru a eșuat.",
+    "Palmierii noștri au fost tăiați la porunca lui Allah, un semn al puterii Sale.",
+    "Am fost alungați din casele noastre, ca pedeapsă pentru sfidarea noastră.",
+    "Coranul ne menționează în capitolul adunării, iar povestea noastră servește drept avertisment pentru cei care încalcă pactele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Oamenii din Madyan",
+        "Oamenii din Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Asediul și expulzarea din casele lor",
+        "Înecându-se în mare",
+        "Fiind înghițit de pământ",
+        "Distrugerea provocată de o furtună",
+        "Fiind transformați în maimuțe"
+      ],
+      "answer": "Asediul și expulzarea din casele lor"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Palmieri tăiați",
+        "Personalul",
+        "Arca",
+        "Fântâna cu apă",
+        "Peștera"
+      ],
+      "answer": "Palmieri tăiați"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Exilați și bunurile lor confiscate",
+        "S-a întors victorios",
+        "Au fost iertați și au rămas",
+        "A intrat imediat în paradis",
+        "Au fost loviți de o ciumă"
+      ],
+      "answer": "Exilați și bunurile lor confiscate"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

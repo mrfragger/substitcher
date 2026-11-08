@@ -1,0 +1,61 @@
+{
+  "title": "Konspirator Nu Diselubungkeun",
+  "intro": "Anjeun mendakan diri anjeun aya dina ayana tokoh anu kuat ti jaman wahyu. Jalmi ieu dikenal ku kapinteran, kabeungharan, sareng statusna di antara rahayatna. Nalika tanda-tanda anu jelas sumping, aranjeunna ngakuan kaéndahanana tapi milih ngalawan tibatan tunduk. Naon anu ngadorong jiwa ieu pikeun ngarencanakeun dina poék, sareng kumaha nasib pamungkasna?",
+  "clues": [
+    "Kuring diberkahan ku sumber daya jeung pangaruh anu loba, ngajadikeun kecap kuring beurat di majelis-majelis.",
+    "Nalika kecap-kecap suci dibacakeun, kuring teu bisa mungkir kana kefasihan maranéhna, tapi kasombongan kuring teu ngidinan kuring pikeun tunduk.",
+    "Kuring ngumpulkeun para panaséhat, ngasingkeun diri pikeun mikirkeun cara pikeun ngadiskreditkeun éta pesen.",
+    "Saatos mikir panjang, kuring nyatakeun éta ngan ukur 'sihir anu diturunkeun ti jaman baheula' pikeun ngusir jalma.",
+    "Wahyu éta teras langsung ka abdi: 'Tinggalkeun Abdi sareng anu diciptakeun ku Abdi nyalira.' Abdi disingkirkeun kusabab rencana abdi.",
+    "Moal lami deui, seuneu anu geus dibéjaan ka kuring bakal nyengat buuk kuring, sarta kuring moal bisa lolos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Al-Walid bin al-Mughira",
+        "Abu Lahab",
+        "Abu Jahal",
+        "Uqbah bin Abi Mu'ayt",
+        "An-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid bin al-Mughira"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Ngarencanakeun pikeun maehan Nabi",
+        "Ngalaksanakeun boikot ngalawan umat Islam",
+        "Ngumpulkeun hiji déwan pikeun nyebatkeun Al-Qur'an salaku sihir",
+        "Ngarencanakeun pikeun ngusir Nabi ti Mekah",
+        "Teu daék ngabagikeun kakayaanana ka anak yatim"
+      ],
+      "answer": "Ngumpulkeun hiji déwan pikeun nyebatkeun Al-Qur'an salaku sihir"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Wahyu",
+        "Déwan",
+        "Jambul",
+        "Kabeungharan",
+        "Pulpen"
+      ],
+      "answer": "Jambul"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Anjeunna tobat sareng ngagem agama Islam",
+        "Anjeunna hijrah ka Abyssinia",
+        "Anjeunna katarajang panyakit anu fatal",
+        "Anjeunna maot dina perang ngalawan umat Islam",
+        "Anjeunna dihukum ka Naraka"
+      ],
+      "answer": "Anjeunna dihukum ka Naraka"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

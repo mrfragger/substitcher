@@ -1,0 +1,61 @@
+{
+  "title": "Tiếng nói bị bỏ quên qua nhiều thế kỷ",
+  "intro": "Vào thời xa xưa trước khi những thành phố lớn mọc lên, một tâm hồn cô độc đã trỗi dậy giữa một dân tộc quay lưng lại với chân lý. Sự ngoan cố của họ chỉ có thể sánh được với lòng kiên nhẫn của người kêu gọi đơn độc này, người đã khẩn cầu qua nhiều thế hệ mà không hề nao núng. Khi mọi lời cảnh báo đều không được lắng nghe, một sự trừng phạt chưa từng có đã định hình lại chính trái đất. Ngày nay, tiếng vang của câu chuyện đó vẫn còn lan tỏa trong mỗi lời kể. Bạn có thể nhận ra tâm hồn kiên định này không?",
+  "clues": [
+    "Tôi lớn lên giữa một cộng đồng tôn thờ những thần tượng giả và phớt lờ những dấu hiệu xung quanh, thế nhưng tôi lại được chọn để thức tỉnh họ khỏi sự thờ ơ đó.",
+    "Tôi liên tục kêu gọi người dân của mình, nhưng họ lại cáo buộc tôi chẳng khác gì một người bình thường như họ, chế giễu thông điệp của tôi và bịt tai lại.",
+    "Ngày đêm, tôi khẩn thiết khuyên nhủ họ bằng sự khôn ngoan và những lời nhắc nhở nhẹ nhàng, nhưng lời nói của tôi dường như tan vào không khí, không được nghe thấy và không được chú ý đến.",
+    "Theo chỉ dẫn của thần linh, tôi đã đóng một con tàu khổng lồ bằng gỗ và ván trên đất liền, và dân chúng chế giễu tôi như một kẻ mất trí.",
+    "Khi trận đại hồng thủy ập đến như đã được dự báo, chính con trai tôi đã từ chối lên thuyền cùng tôi, vì tin rằng một ngọn núi sẽ che chở cậu khỏi dòng nước dâng cao.",
+    "Tôi đã trở thành tộc trưởng của một khởi đầu mới trên trái đất, và câu chuyện của tôi được lưu giữ trong một chương của kinh Qur'an mang chính tên tôi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Nuh",
+        "Tiên tri Ibrahim",
+        "Tiên tri Musa",
+        "Tiên tri Lut",
+        "Tiên tri Hud"
+      ],
+      "answer": "Tiên tri Nuh"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Trận đại hồng thủy đã định hình lại trái đất.",
+        "Bị những kẻ thờ thần tượng ném vào lửa cháy.",
+        "Cuộc đối đầu với các pháp sư của Pharaoh tại cung điện",
+        "Những khu vườn tươi tốt bị tàn phá bởi một cơn bão trên trời.",
+        "Sự lật đổ của những người sống trong chiến hào"
+      ],
+      "answer": "Trận đại hồng thủy đã định hình lại trái đất."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah được đóng bằng gỗ và ván.",
+        "Ngôi nhà linh thiêng được xây dựng trên nền móng cổ xưa.",
+        "Cây gậy biến thành rắn",
+        "Hang động của những thanh niên đang ngủ",
+        "Ngai vàng được một sinh vật hùng mạnh mang vác."
+      ],
+      "answer": "Con tàu Noah được đóng bằng gỗ và ván."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Những kẻ không tin đã chết đuối, trong khi những người tin đạo được cứu sống trên con tàu.",
+        "Ngọn lửa đã nguội và an toàn, người gọi điện thoại đã thoát ra ngoài an toàn.",
+        "Các pháp sư phủ phục và chấp nhận đức tin.",
+        "Khu vườn được ban cho người láng giềng chính trực tại vị trí đó.",
+        "Những người ngủ say tỉnh dậy sau nhiều thế kỷ, biến đổi hoàn toàn."
+      ],
+      "answer": "Những kẻ không tin đã chết đuối, trong khi những người tin đạo được cứu sống trên con tàu."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

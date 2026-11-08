@@ -1,0 +1,61 @@
+{
+  "title": "Kan Samii keessaa baafame",
+  "intro": "Uumama dhoksaa ta’e tokko qaxxaamuraa uumaa fi diduu irra dhaabata. Seenaan isaanii of tuulummaa gita hin qabnee fi dhuma irratti ajaja waaqaa mormuudha. Filannoon isaanii dhaloota hundumaa keessatti sagalee dhageessisa, lubbuu addunyaa kana keessatti dhalatte hundaaf qormaata ta’a. Mormituu bara baraa kana adda baasuu dandeessaa?",
+  "clues": [
+    "Taatee hiika koosmii qabu tokko irratti argameen ture, yeroo uumamni haaraan suphee irraa uumamee Hafuura Rahmataatiin jireenya kenne.",
+    "Ani mataan koo biyyee sana irraa adda ta’ee, elementii boba’aa tokko irraa gara jiraachuutti fidame.",
+    "Ajajni buufata koo jala jedhee fudhadhe naaf kenname.",
+    "Of tuuluun natti dhiitaʼee, ajaja sana raawwachuu cimsee dide.",
+    "Kaayyoo warra kaan dogoggorsuuf labse akkan hordofuuf, hanga Guyyaan murtaa’e naaf kennamutti harkifannaa.",
+    "Ani diina labsame warra lafa irra deeman hundaati, gowwoomsaa hasaasaa fi karaa qajeelaa irraa sossoba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ibliis (Seexana) .",
+        "Fara'oon (Fir'awn) .",
+        "Hamaan",
+        "Abuu Jahl",
+        "Saamirii"
+      ],
+      "answer": "Ibliis (Seexana) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Addaam duratti jilbeenfachuu dide",
+        "Waaqummaa sobaan himate",
+        "Waaqeffannaaf re'ee warqee tolche",
+        "Inaaffaa irraa kan ka'e obboleessa isaa ajjeese",
+        "Mormitoota mushrik Makkaatti hooggane"
+      ],
+      "answer": "Addaam duratti jilbeenfachuu dide"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Jannata (Jannaa) .",
+        "Masaraa Fara'oon Gibxii",
+        "Gammoojjii qulqulluu Tuwaa",
+        "Gad fageenya galaanaa",
+        "Iddoo biqiltuu Sheebaa"
+      ],
+      "answer": "Jannata (Jannaa) ."
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Hanga Guyyaa Qiyaamaatti boqonnaan kennameef",
+        "Waraana waliin galaana keessatti liqimfame",
+        "Qabeenya waliin lafaan liqimfame",
+        "Sanbata cabsuu isaatiin gara hantuutaatti jijjiirame",
+        "Dhagaa samii irraa darbatameen gubate"
+      ],
+      "answer": "Hanga Guyyaa Qiyaamaatti boqonnaan kennameef"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

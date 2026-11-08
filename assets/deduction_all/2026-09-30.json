@@ -1,0 +1,61 @@
+{
+  "title": "The Patient One",
+  "intro": "Long ago, in the earliest days of human history, two souls stood before their Creator with offerings. One was accepted, one was not. What followed would become the first great tragedy between siblings - one act of patient restraint and one act of bitter vengeance. Can you uncover who I am?",
+  "clues": [
+    "I was born in the very first days of human existence on earth",
+    "I was a child of the very first pair of humans to ever walk this earth",
+    "I once offered a sacrifice from the best of my flock to please my Creator",
+    "My offering was accepted from above, while my sibling's offering was rejected",
+    "When threatened with death, I chose not to lift my hand against my sibling",
+    "I became the first person in all of human history to be wrongfully killed by another"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Habil (Abel), son of Adam",
+        "Qabil (Cain), son of Adam",
+        "Adam, the first human",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), son of Adam"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The first murder in human history",
+        "The great flood of Nuh",
+        "The destruction of Fir'awn's army",
+        "The sacrifice of Ismail by Ibrahim",
+        "The battle against Jalut (Goliath)"
+      ],
+      "answer": "The first murder in human history"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A sheep offered as a pleasing sacrifice",
+        "A great wooden ark",
+        "A staff that turned into a serpent",
+        "A hoopoe bird carrying a royal message",
+        "A blazing trench of fire"
+      ],
+      "answer": "A sheep offered as a pleasing sacrifice"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Became the first victim of murder in human history",
+        "Survived a great flood inside a wooden vessel",
+        "Lived inside the belly of a great fish",
+        "Ruled over jinn, humans, and the wind",
+        "Wandered for forty years in a vast wilderness"
+      ],
+      "answer": "Became the first victim of murder in human history"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

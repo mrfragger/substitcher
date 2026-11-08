@@ -1,0 +1,60 @@
+{
+  "title": "Te Mea Ngaro o te Torona Tawhiti",
+  "intro": "I tūtaki tētahi kuini mana nui, he kuini nō tētahi whenua tawhiti, ki tētahi wero motuhake. I whai te kuini ki te whakaatu i te mana atua me te whakaaro nui, mā te whakatū i tētahi kaupapa whakamiharo i whakahē i ngā ture o te wā me te wāhi. Ka taea e koe te whakatau i ngā taipitopito o tēnei mahi whakamiharo?",
+  "clues": [
+    "I whakawhiwhia ki tētahi rangatira te mana nui, tae atu ki te whakahaere i ngā mea kāore e kitea, me te kaha hoki ki te whakahau i ngā hau.",
+    "I tae mai ngā kōrero ki tēnei rangatira mō tētahi kuīni whai rawa i karakia ki te rā, ā, ka whakatau ia ki te tono i a ia ki te kooti.",
+    "I mua i te taenga mai o te kuīni, i whakaatu te rangatira i tana hiahia ki te kawe mai i tōna torona whakahīhī mai i tōna kingitanga tawhiti.",
+    "I tuku tetahi jinn nui ki te tiki i te taonga i mua i te ara ake o te rangatira i tana kaunihera.",
+    "Heoi anō, nā te mea he mōhiotanga hōhonu tōna ki te Karaipiture Tapu, i tere ake te kimi i te mahi, ā, i roto i te kemo o te kanohi ka oti.",
+    "I tōna taenga atu, ka whakahaua e te rangatira kia whakarerekētia te taonga hei whakamātautau i te hinengaro me te tirohanga a te kuīni ina tae ia ki te whare kingi."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Poropiti/Tangata",
+      "options": [
+        "Poropiti a Mohi",
+        "Poropiti Rawiri",
+        "Poropiti Ihāperama",
+        "Poropiti a Yusuf",
+        "Poropiti a Sulaimana"
+      ],
+      "answer": "Poropiti a Sulaimana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te Wehenga o te Moana",
+        "Te Manawanui i roto i te Pōuri",
+        "Te Hanganga o te Kaaba",
+        "Te Whakamātautau o ngā Māra",
+        "Te kawe mai i te torona o te kuīni"
+      ],
+      "answer": "Te kawe mai i te torona o te kuīni"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Maunga",
+        "Te Puna",
+        "Te Torona"
+      ],
+      "answer": "Te Torona"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "He patunga tapu nui",
+        "He kingitanga i whakatūria",
+        "He iwi i whiua",
+        "He kawenata hou",
+        "Te Tukunga a te Kuini ki a Allah"
+      ],
+      "answer": "Te Tukunga a te Kuini ki a Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

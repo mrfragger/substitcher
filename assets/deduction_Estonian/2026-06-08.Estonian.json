@@ -1,0 +1,61 @@
+{
+  "title": "Varjupaiga paluja",
+  "intro": "Öö vaiksetel tundidel hüüdis pühendunud hing püha paiga pühitsetud müüride vahel Kõigehalastavama poole. Aastaid kestnud vankumatu usk ja kannatlikkus pidid saama tasuks ime, mis tooks rõõmu ja prohvetliku pärandi.",
+  "clues": [
+    "Veetsin oma päevad ja ööd pühas templis pühendunult, pidevalt oma Issanda poole palvetades.",
+    "Ma sain vanaks ja mu naine oli viljatu, kuid ma ei kaotanud kunagi lootust Allahi halastuses.",
+    "Mulle anti poeg nimega Yahya, kellest sai prohvet ja õigluse majakas.",
+    "Ma olin ise prohvet, läkitatud Iisraeli lapsi juhatama.",
+    "Ma olin prohvet Haruni järeltulija ja teenisin templis preestrina.",
+    "Mulle usaldati Maryami, Isa ema, hoole alla ja ma olin tunnistajaks tema imedele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Zakariyya",
+        "Prohvet Jahja",
+        "Prohvet Ilja",
+        "Prohvet Iisak",
+        "Prohvet Ya'qub"
+      ],
+      "answer": "Prohvet Zakariyya"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kingiti vanaduspõlves poeg",
+        "Päästetud lõõmavast tulekahjust",
+        "Päästetud kala kõhust",
+        "Elas üle suure üleujutuse",
+        "Raskest haigusest terveks saanud"
+      ],
+      "answer": "Kingiti vanaduspõlves poeg"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Mihrab (palvekoht)",
+        "Kaaba",
+        "Põlev põõsas",
+        "Lepingulaegas",
+        "Seitsme magaja koobas"
+      ],
+      "answer": "Mihrab (palvekoht)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Andis õiglase poja, kellest sai prohvet",
+        "Hävis vägivaldne torm",
+        "Uppus merre",
+        "Põletamisest pääsenud",
+        "Pärast kala käest päästmist naasid oma rahva juurde"
+      ],
+      "answer": "Andis õiglase poja, kellest sai prohvet"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Piedāvājums, kas mainīja likteni",
+  "intro": "Cilvēces pirmsākumos dvēsele piedāvāja dāvanu ar tīriem nodomiem. Tomēr skaudība slēpās pieņemšanas ēnā. Atklājiet šīs personības stāstu, kuras dievbijība un traģiskais gals ir iemūžināti dievišķā atklāsmē.",
+  "clues": [
+    "Es biju viena no pašām pirmajām cilvēces paaudzēm.",
+    "Es pienesu savam Kungam upuri, un tas tika pieņemts ar labvēlību.",
+    "Mana brāļa piedāvājums tika noraidīts, un skaudība aptumšoja viņa sirdi.",
+    "Es viņam teicu: “Ja tu izstiepsi savu roku pret mani, lai mani nogalinātu, es neizstiepšu savu roku, lai nogalinātu tevi; patiesi, es bīstos Allāhu, pasauļu Kungu.”",
+    "Es kļuvu par pirmās slepkavības upuri uz zemes.",
+    "Manas asinis kliedza, un es biju pirmais nevainības moceklis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Habils (Ābels)",
+        "Kabils (Kains)",
+        "Vīrs no Ja-Sinas",
+        "Samiri",
+        "Lukmans"
+      ],
+      "answer": "Habils (Ābels)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Viņa piedāvājums tika pieņemts, izraisot brāļa skaudību un viņa slepkavību.",
+        "Viņš tika iemests degošā krāsnī, bet iznāca ārā neskarts",
+        "Viņš dievišķā vadībā uzbūvēja milzīgu kuģi",
+        "Viņu aprija liela zivs, un viņš palika tumsā.",
+        "Viņš vadīja savu tautu cauri pašķīrušai jūrai"
+      ],
+      "answer": "Viņa piedāvājums tika pieņemts, izraisot brāļa skaudību un viņa slepkavību."
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Pieņemts piedāvājums",
+        "Personāla pārvēršanās par čūsku",
+        "Kamielis kā dievišķa zīme",
+        "Ūdensvīrs nes ziņas",
+        "Pielūgts zelta teļš"
+      ],
+      "answer": "Pieņemts piedāvājums"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Pirmā slepkavība vēsturē; viņa brālis tika notiesāts",
+        "Zeme viņu norīja kopā ar savu bagātību",
+        "Pārkāpuma dēļ pārveidoti par pērtiķiem",
+        "Iznīcinājis spēcīgs, ledains vējš",
+        "Noslīka lielos plūdos kā sods"
+      ],
+      "answer": "Pirmā slepkavība vēsturē; viņa brālis tika notiesāts"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

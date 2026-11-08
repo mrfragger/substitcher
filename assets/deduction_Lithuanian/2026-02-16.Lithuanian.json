@@ -1,0 +1,61 @@
+{
+  "title": "Absoliučios valdžios teiginys",
+  "intro": "Senovėje galingas asmuo iškilo ir užvaldė didžiulę žemę ir jos gyventojus. Šios asmenybės valdymas pasižymėjo didžiuliu pasididžiavimu ir dideliu iššūkiu dieviškajai valdžiai. Pasiruoškite atskleisti sielos, kurios galutinis likimas tapo ilgalaike pamoka visoms kartoms, tapatybę.",
+  "clues": [
+    "Aš valdžiau galingą imperiją, kur mano žodis buvo įstatymas.",
+    "Pasiskelbiau aukščiausiąja dievybe, reikalaudamas garbinimo iš visų savo valdomų.",
+    "Aš engiau konkrečią bendruomenę, pavergdamas juos ir įsakydamas žudyti jų kūdikius berniukus.",
+    "Mane ne kartą susuko nuolankus Dievo pasiuntinys, kuris prieš mane ir mano magus atliko aiškius stebuklus.",
+    "Aš atkakliai atmečiau tiesą, kaltindamas pasiuntinį burtininkavimu ir rezgdamas sąmokslą jį ir jo pasekėjus sunaikinti.",
+    "Visa mano armija ir aš buvome paskendę jūroje, negailestingai persekiodami tuos, kurie buvo išlaisvinti iš mano gniaužtų."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Nimrodas",
+        "Abu Džahlas",
+        "Iblis",
+        "Fir'awn",
+        "Hamanas"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Didysis potvynis",
+        "Deganti ugnis",
+        "Engėjo nuskendimas",
+        "Vėjo sunaikinimas",
+        "Netikėjimo žemės drebėjimas"
+      ],
+      "answer": "Engėjo nuskendimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Nojaus arka",
+        "Mozės lazda",
+        "Auksinis stabas",
+        "Zamzamo šulinys",
+        "Bilqio sostas"
+      ],
+      "answer": "Mozės lazda"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteikė didžiulę karalystę",
+        "Kūnas išsaugotas kaip ženklas",
+        "Atleista po atgailos",
+        "Išaukštintas iki pranašystės",
+        "Jo žmonės tapo pamaldūs"
+      ],
+      "answer": "Kūnas išsaugotas kaip ženklas"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

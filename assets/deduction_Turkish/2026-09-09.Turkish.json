@@ -1,0 +1,61 @@
+{
+  "title": "Ayağa Kalkacak İlk Ruh",
+  "intro": "Herhangi bir peygamber yeryüzünde dolaşmadan çok önce, herhangi bir kutsal kitap vahyedilmeden önce, eşi benzeri olmayan bir varlık ortaya çıktı. Bu ruh, ilahi eller tarafından şekillendirildi, eşsiz güzellikte bir yere yerleştirildi ve tüm insanlık tarihine yankılanacak bir şekilde sınandı. Ardından zayıflık, samimi tövbe ve yaratılışın seyrini sonsuza dek değiştirecek bir kader öyküsü geldi. Bunun kim olduğunu tahmin edebilir misiniz?",
+  "clues": [
+    "Ben, en merhametli olanın elleriyle, toprağın tozundan yaratıldım.",
+    "Bana eşsiz güzellikte bir yuva verildi, orada açlık ya da yorgunluk bana dokunamazdı.",
+    "Bana tek bir ağaca bile yaklaşmamam emredildi, çünkü bu yasaktı.",
+    "Arkadaşım ve ben aldanarak, Rabbimizin emrine karşı gelerek yasak ağaca yaklaştık.",
+    "Bizler samimi bir tövbeyle Rabbimize döndük ve günahlarımız bağışlandı.",
+    "Tüm insanlık bizden türedi; ben bu yeryüzünde yürüyen ilk insanım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Adem",
+        "Peygamber Musa",
+        "Peygamber Nuh",
+        "Peygamber Yusuf",
+        "Peygamber İsa"
+      ],
+      "answer": "Peygamber Adem"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yasak ağacın ayartması",
+        "Firavunla Yüzleşme",
+        "Büyük Nuh'un Gemisi'nin İnşası",
+        "Sevgili evladın kurban edilmesi",
+        "Büyük bir ateşe atılmak"
+      ],
+      "answer": "Yasak ağacın ayartması"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yasak Ağaç",
+        "Yanan Çalı",
+        "Altın Asa",
+        "Büyük Gemi",
+        "Altın Buzağı"
+      ],
+      "answer": "Yasak Ağaç"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İnsanlığın ilk koruyucusu olarak dünyaya gönderildi.",
+        "Firavun ve ordusu denizde boğuldu.",
+        "Büyük tufan kötüleri yok etti.",
+        "Ateş soğudu ve huzur buldu.",
+        "Mısır krallığı üzerinde yetki verildi."
+      ],
+      "answer": "İnsanlığın ilk koruyucusu olarak dünyaya gönderildi."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Veľké podrobenie sa panovníka",
+  "intro": "Ocitáte sa v krajine starovekých zázrakov a hlbokých zjavení. Mocná vládkyňa, ktorá čelí nečakanému pozvaniu, sa vydáva na cestu, ktorá zmení smer jej osudu a vieru jej ľudu. Dokážete odhaliť identitu tejto majestátnej postavy?",
+  "clues": [
+    "Vládol som nad prosperujúcim kráľovstvom, ozdobeným nesmiernym bohatstvom a nádherným trónom.",
+    "Môj ľud a ja sme uctievali nebeské teleso a verili sme, že je naším pánom, hoci som v srdci prechovával pochybnosti.",
+    "Zvláštny posol, vták, mi doručil list, v ktorom mňa a môj ľud vyzýval k podriadenosti Jedinému Bohu.",
+    "Konzultoval som so svojimi poradcami, ktorí boli nesmierne silní, ako reagovať na toto bezprecedentné posolstvo.",
+    "Rozhodol som sa poslať cenný dar tomu, kto poslal list, v nádeji, že zhodnotím jeho moc a úmysly.",
+    "Po mojom príchode ma ohromil palác so sklenenou podlahou, ktorá vyzerala ako vodný bazén, a vtedy som vyhlásil svoju odovzdanosť Pánovi všetkého stvorenia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Faraón",
+        "Kráľovná zo Sáby",
+        "Dhu al-Qarnayn",
+        "Lukmán",
+        "Prorok Júsuf"
+      ],
+      "answer": "Kráľovná zo Sáby"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Rozštiepenie mora",
+        "Veľká povodeň",
+        "Cesta za stretnutím s prorokom Sulaymanom",
+        "Zničenie Lutovho ľudu",
+        "Upálenie proroka Ibrahima"
+      ],
+      "answer": "Cesta za stretnutím s prorokom Sulaymanom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Archa",
+        "Zamestnanci",
+        "Trón",
+        "Hora",
+        "Oheň"
+      ],
+      "answer": "Trón"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Stal sa prorokom",
+        "Bol zničený Alahom",
+        "Prijal islam",
+        "Viedla svoj ľud do vojny",
+        "Postavil veľkolepý chrám"
+      ],
+      "answer": "Prijal islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

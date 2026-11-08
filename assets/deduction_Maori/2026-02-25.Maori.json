@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakamātautau o te Toka Pākarukaru",
+  "intro": "Nā tētahi hapori pūkenga, whakahīhī hoki i whakairo tō rātou taonga tuku iho ki roto i ngā maunga. Engari i te taenga mai o tētahi tohu mārama ki a rātou, he whakamātautau i te whakapono me te manawanui, ka arahina rātou e tō rātou whakapehapeha ki te ara e kore e hoki mai. Ka taea e koe te tautuhi i tēnei rōpū me te hua o tā rātou whakakeke?",
+  "clues": [
+    "He tohunga mātou ki te kōhatu, i whakairo mātou i ngā whare whakahīhī ki ngā taha o ngā maunga.",
+    "I tae mai ki a mātou tētahi karere i roto i tō mātou iwi, e karanga ana i a mātou kia karakia ki te Atua Pono Kotahi.",
+    "I tono mātou i tētahi tohu hei whakaū i āna kupu, ā, i puta mai tētahi mea ahurei hei whakamātautau mā mātou.",
+    "I homai he whakahau māmā ki a mātou: kia tohaina te puna wai ki tēnei mea hanga, kia inu i te rā kua tohua mōna.",
+    "I roto i tō mātou whakapehapeha, ka whakatakoto whakaaro ētahi o mātou, ā, ka whakakeke mātou ki te whakatūpato, ka patua e mātou te mea hanga i whakaarohia hei tohu mō mātou.",
+    "E toru ngā rā i tukuna mai ki a mātou i mua i tō mātou aituā, kātahi ka pā mai tētahi pahūtanga nui ki a mātou i roto i ō mātou kāinga, ka mate mātou, ka hurihia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā tāngata o 'Ad",
+        "Ngā tāngata o Madyan",
+        "Te iwi o Thamud",
+        "Ngā tāngata o Saba",
+        "Te iwi o Ruta"
+      ],
+      "answer": "Te iwi o Thamud"
+    },
+    "trial": {
+      "label": "He aha tā mātou whakamātautau matua?",
+      "options": [
+        "Te hanga i tētahi āka hei oranga mō te waipuke",
+        "Te ātete i te hiahia ki te hī ika i te Rāhoroi",
+        "Te whakarērea o ngā mahi pakihi tinihanga",
+        "Te tiaki i tētahi kamera uha whakamiharo",
+        "Te manawanui ki te matekai e whitu tau te roa"
+      ],
+      "answer": "Te tiaki i tētahi kamera uha whakamiharo"
+    },
+    "location": {
+      "label": "He aha te kaupapa matua o tā mātou kōrero?",
+      "options": [
+        "Te Kuao Kau Koura",
+        "Te Kāmera Wahine",
+        "Te Rākau o te Poropiti a Mohi",
+        "Te Pā Nui o Ma'rib",
+        "Te Tēpu i Horahia mai i te Rangi"
+      ],
+      "answer": "Te Kāmera Wahine"
+    },
+    "outcome": {
+      "label": "He aha tō tātou mutunga mutunga?",
+      "options": [
+        "I toremi i roto i te waipuke nui",
+        "I hurihia hei makimaki me hei poaka",
+        "I pāngia e te hau nui",
+        "I mararahia e te pakaru o te tāke",
+        "I whakangaromia e te pahūtanga/rū whenua nui"
+      ],
+      "answer": "I whakangaromia e te pahūtanga/rū whenua nui"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

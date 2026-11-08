@@ -1,0 +1,61 @@
+{
+  "title": "Rüzgar ve Alevin Egemenliği",
+  "intro": "Rüzgarın bile tek bir hükümdara itaat ettiği, en küçük canlıların seslerinin bile ağırlık taşıdığı ve sıradan gözlerin göremediği güçlerin özenle hizmetinde tutulduğu bir krallığı hayal edin. Bu figür, sevilen bir selefinden olağanüstü bir krallık miras aldı ve elementler ile cinler üzerinde güç sahibiydi. Ancak büyük otorite, büyük sınavlarla birlikte geldi ve son an, yaşamın ve ölümün doğası hakkında şaşırtıcı bir şeyi ortaya çıkaracaktı.",
+  "clues": [
+    "Sevgili babamdan, kendisi de bir peygamber ve Allah'ın kulu olan birinden, büyük bir krallık miras aldım.",
+    "Allah bana rüzgâr üzerinde yetki verdi; rüzgârı bir sabahta bir aylık yolculuk mesafesini katetmeye gönderdi.",
+    "En küçük canlılar bile yaklaşımımı fark ederdi ve ben de onların bu farkındalığına hayranlıkla bakardım.",
+    "Önümde düzenli sıralar halinde dizilmiş, cinlerden, insanlardan ve kuşlardan oluşan muazzam bir orduya komuta ediyordum.",
+    "Uzak bir hükümdar beni zorlu bir sınavla sınamaya geldi ve ben daha ziyaretçi yerinden kalkmadan o hükümdarın tahtını sarayıma getirttim.",
+    "Bir bastona yaslanarak ayakta durdum, ta ki küçük bir toprak yaratığı bastonumu kemirip parçalayana kadar; ancak o zaman çevremdekiler öldüğümü anladılar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Süleyman (Solomon)",
+        "Peygamber Davud (David)",
+        "Peygamber İsa (İsa)",
+        "Peygamber Muhammed ﷺ",
+        "Peygamber Musa (Musa)"
+      ],
+      "answer": "Peygamber Süleyman (Solomon)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Doğaüstü yollarla uzak bir kraliçenin tahtını getirmek",
+        "Çocukken derin bir kuyuya indirilmek",
+        "Bir tiranın sihirbazlarıyla mucizevi işaretlerle yüzleşmek",
+        "Anne onurunu savunmak için beşikten konuşmak",
+        "Kutsal bir dağda son vahyedilen kutsal yazıları almak"
+      ],
+      "answer": "Doğaüstü yollarla uzak bir kraliçenin tahtını getirmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Termit tarafından kemirilmiş tahta bir asa",
+        "Dünya çapında bir tufana karşı koymak için inşa edilmiş büyük bir gemi.",
+        "Bir tiranın önünde yılana dönüşen bir asa",
+        "Görme engellileri iyileştirmek için kullanılan bir bez parçası.",
+        "Bir vahyin ilk kez alındığı kutsal mağara"
+      ],
+      "answer": "Termit tarafından kemirilmiş tahta bir asa"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Ziyaretçi soylu bir hükümdar, bazı işaretlere tanık olduktan sonra inancı benimsedi.",
+        "Büyük bir tufan, gemideki sadıklar dışında herkesi yok etti.",
+        "Bir firavun ve ordusu denizde helak oldu.",
+        "Dürüst bir dost göklere yükseltildi.",
+        "Zalim bir kral ve şehri devrildi ve yok edildi."
+      ],
+      "answer": "Ziyaretçi soylu bir hükümdar, bazı işaretlere tanık olduktan sonra inancı benimsedi."
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

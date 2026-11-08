@@ -1,0 +1,61 @@
+{
+  "title": "Pacientul neclintit",
+  "intro": "În analele istoriei profetice, puțini au îndurat o pierdere atât de profundă și o suferință fizică atât de mare cu o credință de nezdruncinat. Povestea acestui personaj este o lecție atemporală de răbdare și încredere în înțelepciunea divină. Cine este acest suflet?",
+  "clues": [
+    "Am fost ales de Allah să transmit un mesaj, dar cea mai mare încercare a mea nu a venit prin respingere, ci printr-o calamitate personală.",
+    "Averea, vitele și copiii mi-au fost luate, unul câte unul.",
+    "Corpul meu era acoperit de răni și am fost lăsat singur, cu excepția sprijinului soțului meu.",
+    "Am strigat către Domnul meu, recunoscându-mi suferința și căutând mila Lui.",
+    "Mi s-a spus să lovesc pământul cu piciorul și un izvor răcoritor a țâșnit.",
+    "Allah mi-a redat sănătatea și mi-a dat o nouă familie și chiar mai multă bogăție decât aveam înainte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Ayyub",
+        "Profetul Ibrahim",
+        "Profetul Musa",
+        "Profetul Isa",
+        "Profetul Nuh"
+      ],
+      "answer": "Profetul Ayyub"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Pierderea averii și a familiei",
+        "A fi aruncat în foc",
+        "A fi înghițit de un pește",
+        "A fi separat de familie și vândut ca sclav",
+        "Fiind testat cu un vițel de aur"
+      ],
+      "answer": "Pierderea averii și a familiei"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un izvor de apă",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O arcă de lemn",
+        "Un vițel topit",
+        "Un palmier"
+      ],
+      "answer": "Un izvor de apă"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Restaurarea familiei și a averii",
+        "Înălțarea la cer",
+        "A deveni rege",
+        "A fi salvat de o balenă",
+        "Primirea unui fiu la bătrânețe"
+      ],
+      "answer": "Restaurarea familiei și a averii"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "De reisende fra det grønne feltet",
+  "intro": "I oldtiden pleiet to personer naboland. Stiene deres var sammenflettet, men hjertene deres ledet dem mot vidt forskjellige destinasjoner. Den ene gikk den rette veien, mens den andre forvillet seg inn i fornektelsens mørke. Kan du løse mysteriet med disse to vokterne av innhøstingen?",
+  "clues": [
+    "Jeg hadde rikelig med avlinger, frodige høstinger som blendet tilskuernes øyne.",
+    "Min nabo eide enda større rikdom enn meg, men jeg begjærte deres del mer enn min egen.",
+    "Jeg foreslo at vi skulle ødelegge avlingene deres fullstendig, for å konsolidere alt under min kontroll.",
+    "Jeg ødela også min egen avling ved å ødelegge alt i mine tåpelige planer.",
+    "Jeg sto hjelpeløs mens avlingene mine visnet og rikdommen min ble til støv på én natt.",
+    "Jeg hadde ingen del i det hinsidige, og mitt siste bosted ble en brennende ildgrop."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Mannen som fornektet oppstandelsen og dommen",
+        "Herskeren som undertrykte den rettferdige bonden",
+        "Den velstående grunneieren som manglet takknemlighet",
+        "Bonden som begjærte naboens jord",
+        "Den forræderske partneren som planla ødeleggelse"
+      ],
+      "answer": "Bonden som begjærte naboens jord"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Testen på å motta guddommelig åpenbaring",
+        "Utfordringen med rikdom og tålmodighet",
+        "Fristelsen til å ødelegge en rettferdig persons levebrød",
+        "Budet om å dele arven rettferdig",
+        "Kampen mot en tyranns undertrykkelse"
+      ],
+      "answer": "Fristelsen til å ødelegge en rettferdig persons levebrød"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Paradisets frodige hager",
+        "To nærliggende åkre med avlinger",
+        "Fjellene som var vitne til ødeleggelse",
+        "Det hellige stedet i Mekka",
+        "Elvebreddene til et velsignet land"
+      ],
+      "answer": "To nærliggende åkre med avlinger"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Evig paradis som belønning for rettferdighet",
+        "Fullstendig ødeleggelse av begge avlingene i dette livet",
+        "Eksil og vandring til døden",
+        "Midlertidig velstand etterfulgt av evig ild",
+        "En mirakuløs restaurering og doblet dusør"
+      ],
+      "answer": "Fullstendig ødeleggelse av begge avlingene i dette livet"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

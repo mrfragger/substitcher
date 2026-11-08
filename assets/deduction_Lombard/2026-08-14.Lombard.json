@@ -1,0 +1,61 @@
+{
+  "title": "I man maledet",
+  "intro": "Te ste in di vicoli tortuos de la vègia Mecca, indué un’anema de influenza e de richeza una volta se s’è slanzà de la ciamada de la verità. La storia de quest figüra chi l’è ün ricurd che i ligam de sang pöden no superà i caden de l’orgœgli. Chi l’è quest che el sò nomm el fà eco al fœuch che l’aspeta?",
+  "clues": [
+    "Caminavi per i strad de la Mecca cunt un orgœuj che m’ha orb a la verità, anca se el messagger l’era del me sàang.",
+    "I me ben l’eran grand, ma sun diventà una malediziun inveci de un scudo.",
+    "El liber de la guida parla de la mè ruina, e dichiara che i mè man e la mè persòna periran.",
+    "La mia sposa la s’è unida a la mia campagna de nemicizia, racogliend spini per spantegar sül camin de quel che g’ha ciamà Allah.",
+    "In del dì del giudizi, sarè s’ciopà denter de un fœuch de flama ardent, e el me coniug g’havarà una corda de fibra de palma intorn al còll.",
+    "Sun cognussü cunt un nomm che vœur dì “pà de la flama”, un nomm che preved la mia dimora eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova o event ciaf",
+      "options": [
+        "S’è opost al Profeta e l’è stà maledet in del Coran",
+        "Guidad un esercit per distrugg la Kaaba",
+        "Tentà de mazà el Profeta bütand di sass",
+        "Refudà de creder a la scissiun de la lüna",
+        "Costruì una torr per rivà in del ciel"
+      ],
+      "answer": "S’è opost al Profeta e l’è stà maledet in del Coran"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El fœg ardent del Infern",
+        "El personal de Musa",
+        "L'Arca de Nuh",
+        "El pozz de Zamzam",
+        "El vitell d'or"
+      ],
+      "answer": "El fœg ardent del Infern"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "L’entrà in del Fœuch ardent, e la sò richeza g’he servirà minga",
+        "El s’è pentì e l’è diventà credent",
+        "L’è stà perdonad dopu avegh refudà",
+        "L’è mort martir",
+        "L’è stà purtà in del ciel"
+      ],
+      "answer": "L’entrà in del Fœuch ardent, e la sò richeza g’he servirà minga"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

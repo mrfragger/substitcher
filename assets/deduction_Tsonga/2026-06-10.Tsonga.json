@@ -1,0 +1,61 @@
+{
+  "title": "Varindzi va Ntanga",
+  "intro": "Ejarateni leri tlhumeke, vaaki va endle xihlambanyo lexi xiximekaka. Kambe ku tiyimisela ka vona ku ringiwile loko ku navela ka Xikwembu ku nghenelela, ku hundzula vunyingi bya vona byi va tiko leri nga riki na nchumu.",
+  "clues": [
+    "Hi katekisiwile hi ntanga wo tala, kambe hi sungule ku tikukumuxa.",
+    "Hi endle pulani yo tshovela handle ko avelana ni swisiwana.",
+    "Hi suke nimixo swinene, hi tiyiseka eka rhengu ra hina.",
+    "Kambe loko hi fika, hi kume leswaku ntanga wa hina wu onhiwile hi vusiku byin’we.",
+    "Hi xi xiyile xihoxo xa hina kutani hi sungula ku solana.",
+    "Eku heteleleni hi hundzukile, kambe dyondzo yi dyondziwe endzhaku ka nkarhi swinene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Vanhu va Ntanga",
+        "Vanhu va le Bako",
+        "Vanhu va Ndlopfu",
+        "Vanhu va le Thamud",
+        "Vanhu va 'Ad"
+      ],
+      "answer": "Vanhu va Ntanga"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ntanga wu hundzuke nkuma",
+        "Ndhambi leyi onheke hinkwaswo",
+        "Ndlala leyi hlaseleke tiko",
+        "Vuthu ra swinyenyana leri hlaselaka",
+        "Moya lowukulu lowu a wu tsuvula mirhi"
+      ],
+      "answer": "Ntanga wu hundzuke nkuma"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ntanga",
+        "Bako ra kona",
+        "Xikepe",
+        "Ntshava",
+        "Xigodlho"
+      ],
+      "answer": "Ntanga"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Va hundzukile kambe va lahlekeriwe hi ntanga wa vona",
+        "Va lovisiwile hi ku helela",
+        "Va hundzuriwe tindlopfu",
+        "Va ponisiwile hi ripfumelo",
+        "Va ve vafumi"
+      ],
+      "answer": "Va hundzukile kambe va lahlekeriwe hi ntanga wa vona"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

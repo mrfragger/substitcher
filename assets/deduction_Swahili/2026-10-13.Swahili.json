@@ -1,0 +1,61 @@
+{
+  "title": "Adui wa Moto",
+  "intro": "Katika siku za mwanzo za ufunuo, mtu mmoja alijitokeza kama mpinzani mkaidi wa ukweli. Akiwa amebarikiwa utajiri na hadhi, roho hii ilichagua kiburi badala ya mwongozo, na hadithi yao ikawa onyo kali katika mistari ya mwisho ya sura.",
+  "clues": [
+    "Niliishi katika mji uleule na Mtume, na nilikuwa miongoni mwa jamaa zake wa karibu zaidi, lakini kiburi changu kiliniweka mbali na ukweli.",
+    "Nilikuwa na utajiri mwingi na mali nyingi, na nilidhani rasilimali zangu zingenilinda kila wakati.",
+    "Ujumbe ulipofunuliwa, niliudhihaki hadharani na nikageuka, nikijiona kuwa bora kuliko waumini.",
+    "Uadui wangu ulikuwa mbaya sana kiasi kwamba surah ya Quran ilinielekeza moja kwa moja, ikiniita kwa jina ambalo wengine walinijua.",
+    "Nilionywa kwamba utajiri wangu na mapato yangu hayangenifaa, na ningetupwa kwenye moto unaowaka.",
+    "Ninajulikana kama baba wa moto, na mke wangu hubeba kuni akiwa amejifunga kamba ya mtende shingoni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alikataa Uislamu na kumpinga Mtume waziwazi",
+        "Walipanga kumuua Mtume",
+        "Aliongoza mgomo wa kijamii dhidi ya Waislamu",
+        "Alipigana katika Vita vya Badr",
+        "Aliteswa Bilal ibn Rabah"
+      ],
+      "answer": "Alikataa Uislamu na kumpinga Mtume waziwazi"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kamba ya nyuzi za mitende",
+        "Upanga mkali",
+        "Mnyororo mzito",
+        "Fimbo ya mbao",
+        "Mjeledi wa ngozi"
+      ],
+      "answer": "Kamba ya nyuzi za mitende"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Itaungua katika moto mkali",
+        "Alitubu na akawa mwenzake",
+        "Alipoteza utajiri wake lakini alikufa kwa heshima",
+        "Alikimbilia Abyssinia",
+        "Kuzama baharini"
+      ],
+      "answer": "Itaungua katika moto mkali"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

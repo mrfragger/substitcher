@@ -1,0 +1,61 @@
+{
+  "title": "Jõele usaldatud usaldus",
+  "intro": "Hing seisis silmitsi võimatu otsusega, kus vastsündinu elu rippus kaalul. Jumaliku inspiratsiooni juhtimisel kuuletusid nad meeleheitlikule käsule ja kallihinnaline saladus pandi voolu triivima, et siis ootamatul viisil tagasi tulla.",
+  "clues": [
+    "Ma elasin türanni varjus, kes käskis vastsündinud poisslapsi tappa.",
+    "Mind tabas jumalik inspiratsioon, mis juhendas mind ette võtma meeleheitliku ja südantlõhestava teo.",
+    "Panin oma kalli lapse altku ja asetasin voolavale jõele.",
+    "Mu süda muutus tühjaks ja ma peaaegu avaldasin saladuse, aga Allah tugevdas mu otsusekindlust.",
+    "Saatsin kellegi lapse teekonda allavoolu jälgima, samal ajal kui hoovus rinda minema viis.",
+    "Türanni majapidamine leidis lapse ja lõpuks sain oma lapsega taas kokku ning minust sai lapsehoidja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Musa ema",
+        "Asiya (vaarao naine)",
+        "Maryam (prohvet Isa ema)",
+        "Prohvet Luti naine",
+        "Prohvet Yahya ema (Zakariya naine)"
+      ],
+      "answer": "Prohvet Musa ema"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Ta pani oma lapse rinnale ja asetas selle jõele",
+        "Ta peitis oma lapse koopasse",
+        "Ta hülgas oma lapse kõrbes",
+        "Ta viskas oma lapse tulle",
+        "Ta jättis oma lapse mošee ukse taha"
+      ],
+      "answer": "Ta pani oma lapse rinnale ja asetas selle jõele"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Jõel hõljuv rindkere",
+        "Põlev põõsas",
+        "Personal, mis muutus maoks",
+        "Taeva toiduga kaetud laud",
+        "Märgina saadetud emane kaamel"
+      ],
+      "answer": "Jõel hõljuv rindkere"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Ta taasühines oma lapsega ja imetas teda",
+        "Ta ei näinud oma last enam kunagi",
+        "Türann hukkas ta",
+        "Temast sai Egiptuses kuninganna",
+        "Ta kolis teisele maale ja elas paguluses"
+      ],
+      "answer": "Ta taasühines oma lapsega ja imetas teda"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

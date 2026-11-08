@@ -1,0 +1,61 @@
+{
+  "title": "Te Mana o te Hau me te Ahi",
+  "intro": "Whakaarohia he rangatiratanga e whakautu ana te hau ki tētahi rangatira kotahi, e kawe ana ngā reo o ngā mea iti rawa i te taumaha, ā, e pupuri ana ngā mana kāore e kitea e ngā kanohi noa i roto i te mahi atawhai. I riro mai i tēnei tangata tētahi rangatiratanga whakamiharo mai i tētahi o ōna mua e arohaina ana, e mau ana te mana ki runga i ngā āhuatanga o te rangi me ngā jinn. Engari i tae mai te mana nui me ngā whakamātautau nui - ā, i te wā whakamutunga ka whakakitea he mea whakamiharo mō te āhua o te ora me te mate tonu.",
+  "clues": [
+    "I riro mai i ahau tētahi rangatiratanga nui i tētahi mātua arohaina, he poropiti, he pononga hoki nā Allah.",
+    "I homai e Atua ki ahau te mana whakahaere i te hau, i tukuna mai ki ahau mō ngā mahi o te marama e haere ana i te ata kotahi.",
+    "Ahakoa ngā mea hanga iti rawa ka kōrero mō taku whakatata atu, ā, ka tū ahau ki te miharo ki tō rātou mōhio.",
+    "I whakahaua e au tētahi ope nui o ngā jinn, o ngā tāngata, me ngā manu, i whakaritea katoatia ki ō rātou tūnga i mua i ahau.",
+    "I haere mai tētahi rangatira i tawhiti ki te whakamātautau i ahau ki tētahi wero uaua, ā, i kawea mai e ahau taua torona ki tōku marae i mua i te tūnga ake o te manuhiri i tōna nohoanga.",
+    "I tū tonu ahau, me te whakawhirinaki ki tētahi tokotoko, ā, ka ngaua rawatia e tētahi mea nohinohi o te whenua — kātahi anō ka mōhio te hunga i tōku taha kua hipa ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Sulaimana (Hōromona)",
+        "Poropiti a Rawiri (David)",
+        "Poropiti a Ihaia (Ihu)",
+        "Poropiti Muhammad ﷺ",
+        "Poropiti a Mohi (Mōhi)"
+      ],
+      "answer": "Poropiti a Sulaimana (Hōromona)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te kawe mai i te torona o te kuīni tawhiti mā roto i ngā tikanga tipua",
+        "Te tukunga ki roto i te poka hohonu i a ia e tamariki ana",
+        "Te tū atu ki ngā tohunga makutu a te kaitukino me ngā tohu whakamiharo",
+        "Te kōrero mai i te kōhungahunga hei tiaki i te honore o te whaea",
+        "Te whiwhinga i te karaipiture whakamutunga i whakakitea i runga i te maunga tapu"
+      ],
+      "answer": "Te kawe mai i te torona o te kuīni tawhiti mā roto i ngā tikanga tipua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "I ngaua e te moko te tokotoko rakau",
+        "He āka nui i hangaia hei ārai i te waipuke o te ao whānui",
+        "He tokotoko i huri hei nakahi i mua i te tangata nanakia",
+        "He wahi kakahu hei whakaora i te matapo",
+        "He ana tapu i riro tuatahi mai ai te whakakitenga"
+      ],
+      "answer": "I ngaua e te moko te tokotoko rakau"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakapono te rangatira manuhiri rangatira i muri i tana kitenga i ngā tohu",
+        "I whakangaromia katoatia te hunga pono i runga i te āka e te waipuke nui",
+        "I mate te Parao me tana ope taua i te moana",
+        "I hikitia tētahi hoa tika ki te rangi",
+        "I hurihia, i whakangaromia hoki te kingi nanakia me tōna tāone"
+      ],
+      "answer": "I whakapono te rangatira manuhiri rangatira i muri i tana kitenga i ngā tohu"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

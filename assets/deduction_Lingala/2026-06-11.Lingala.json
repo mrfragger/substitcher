@@ -1,0 +1,61 @@
+{
+  "title": "Village oyo ezali na libongo ya procès",
+  "intro": "Omimoni na mboka moko oyo ezali pembenipembeni ya mbu, epai makɛlɛlɛ ya mbonge esangani na mongongo ya nse ya bato oyo babosani. Bapesaki bango etinda ya kopema, kasi lokoso na bango ememaki na etumbu oyo tii lelo balobelaka yango na mongongo ya nkuku. Okoki kobimisa soki bazalaki banani?",
+  "clues": [
+    "Tozalaki kofanda pembeni ya libongo mpe bapesaki biso etinda ya kotosa mokolo ya bopemi.",
+    "Na mokolo yango, mbisi ezalaki koya epai na biso ebele, kasi bapekisaki biso tómɛla yango.",
+    "Basusu kati na biso bakebisaki mpo na kobuka mobeko, kasi basusu basalaki likita mpo na koboma mbisi ata ndenge nini.",
+    "Tobukaki etinda ya bule mpe tomimemaki etumbu ya makasi.",
+    "Etumbu na biso ezalaki mbongwana oyo etikalaki biso na lolenge ya mabe mpe na nsoni.",
+    "Tobongolamaki na banyoka, elembo mpo na bato nyonso oyo bakoya nsima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Sabata",
+        "Bato ya Thamud",
+        "Bato ya 'Ad",
+        "Bato ya Libulu",
+        "Bato ya Nkoi"
+      ],
+      "answer": "Bato ya Sabata"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Koboma mbisi na mokolo ya Sabata",
+        "Kosambela mwana ya ngɔmbɛ ya wolo",
+        "Kowangana nsango ya Hud",
+        "Koboma kamela ya mwasi",
+        "Kotonga ndako molai mpo na kokende na likoló"
+      ],
+      "answer": "Koboma mbisi na mokolo ya Sabata"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mbisi yango",
+        "Kamela moko ya mwasi",
+        "Mosali moko ya mosala",
+        "Masuwa moko",
+        "Elanga moko"
+      ],
+      "answer": "Mbisi yango"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ebongwanaki na ba singes",
+        "Ebebisamaki na mpela",
+        "Ebebisamaki na mɔ́tɔ oyo ezalaki kopela mɔ́tɔ",
+        "Emelami na mabele",
+        "Epalangani na mopɛpɛ moko"
+      ],
+      "answer": "Ebongwanaki na ba singes"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

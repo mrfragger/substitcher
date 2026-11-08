@@ -1,0 +1,61 @@
+{
+  "title": "Kylančios saulės vartų sargas",
+  "intro": "Visame Korane tam tikros sielos keliauja po žemę, palikdamos išminties ir nuostabos pėdsakus. Viena tokia asmenybė nukeliavo į tolimiausius kūrinijos taškus – kur saulė teka ir leidžiasi, kur barjeras sulaiko patį chaosą. Šiam Alacho tarnui buvo suteikta karalystė, kurios niekas daugiau niekada nevaldys. Per tris skirtingas keliones šio asmens tikslas tapo aiškus. Ar galite atpažinti šį legendinį klajūną istorijos šešėliuose?",
+  "clues": [
+    "Gailestingiausias man suteikė valdžią valdyti žemę taip, kaip niekas kitas niekada nebuvo pasiekęs.",
+    "Keliavau į vakarus, kol pasiekiau vietą, kur leidžiasi saulė, radau ją besileidžiančią drumstame pavasarį ir pamačiau ten žmones.",
+    "Keliavau į rytus, kol pasiekiau vietą, kur teka saulė, ir radau ją tekančią virš žmonių, kuriems Mes nebuvome suteikę nuo jos jokios pastogės.",
+    "Keliavau tarp šių dviejų kraštutinių taškų, kol pasiekiau slėnį tarp dviejų kalnų, kur radau žmones, kurie vos suprato kalbą.",
+    "Kalne radau dvi kietas geležines užtvaras, einančias į dešinę ir į kairę, o tarp jų – siaurą praėjimą. Šie žmonės paprašė manęs pralaužti užtvarą, sulaikančią chaosą.",
+    "Pasiėmiau savo atsargas ir tariau: „Kai barjeras pralaužs, tarp mūsų ir šių žmonių bus aiškus skirtumas.“ Atėjus nustatytam laikui, stebėjau, kaip barjeras pagaliau buvo pralaužtas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Pranašas Suleimanas",
+        "Pranašas Ibrahimas",
+        "Ghassaniyah karalius",
+        "Dhul-Qarnain klajūnas"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pralaužiant geležinę užtvarą Jadžudžo ir Madžudžo žmonėms",
+        "Laivo statyba vadovaujant pranašui",
+        "Šventyklos statyba Jeruzalėje",
+        "Perėjimas per Raudonąją jūrą su tikinčiais žmonėmis",
+        "Užtvankos statyba siekiant apsaugoti teisią tautą"
+      ],
+      "answer": "Pralaužiant geležinę užtvarą Jadžudžo ir Madžudžo žmonėms"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Geležinė užtvara tarp dviejų kalnų",
+        "Laivas inkaravosi ant kalno",
+        "Šventieji garbinimo namai Jeruzalėje",
+        "Upė Egipto žemėje",
+        "Palaiminimų šaltinis Madjane"
+      ],
+      "answer": "Geležinė užtvara tarp dviejų kalnų"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Atėjus nustatytam laikui, barjeras buvo pralaužtas ir kilo chaosas",
+        "Netikintieji nuskendo, o tikintieji buvo išgelbėti",
+        "Teisieji buvo vedami į amžinąjį rojų",
+        "Miestą sunaikino smarkus vėjas",
+        "Stabai buvo sudaužyti ir žmonės atgailavo"
+      ],
+      "answer": "Atėjus nustatytam laikui, barjeras buvo pralaužtas ir kilo chaosas"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

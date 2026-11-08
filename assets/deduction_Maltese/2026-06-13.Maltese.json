@@ -1,0 +1,61 @@
+{
+  "title": "Il-Veridi ta’ Mekka",
+  "intro": "Fil-bidu tar-rivelazzjoni, meta l-messaġġ tal-verità ffaċċja oppożizzjoni ħarxa, ċerti erwieħ baqgħu sodi fil-konvinzjoni tagħhom. Dawn il-kredenti ffaċċjaw krudeltà inkonċepibbli minn dawk li ppruvaw jitfu d-dawl tal-fidi. It-turment tagħhom kien sever, it-tbatija tagħhom immensa—iżda lsienhom qatt ma waqaf jipproklama l-Unità ta’ Alla. Anke meta mitfugħin fil-fond tad-disperazzjoni, il-protezzjoni divina dawrithom, u ttrasformat il-prova tagħhom f’testment etern ta’ fidi. Ejjew nesploraw il-vjaġġ ta’ dawn l-erwieħ notevoli.",
+  "clues": [
+    "Ġejna ttestjati b'kastig sever talli rrifjutajna li nabbandunaw il-fidi tagħna f'Alla l-Wieħed",
+    "In-nies tagħna ma setgħux ikissru r-riżoluzzjoni tagħna, irrispettivament minn kemm saret kreattiva l-krudeltà tagħhom.",
+    "Konna mdendlin minn bir binhar, iżda l-għajnuna divina kienet dejjem fil-qrib",
+    "Is-sodizza tagħna stagħġbet anke lil dawk li raw ir-reżistenza tagħna",
+    "Ħafna f’Mekka ppruvaw iġegħluna nirtiraw, imma aħna bqajna determinati",
+    "Meta kollox deher mitluf, il-libertà tagħna waslet permezz ta’ intervent divin mirakoluż"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Battalja kontra l-Profeta",
+        "Persekuzzjoni talli rrifjutaw li jqimu l-idoli",
+        "Test tal-fidi rigward l-inċident tan-nar",
+        "Prova tal-vjaġġ maqsum bil-lejl",
+        "Test tal-qerda tal-ġnien"
+      ],
+      "answer": "Persekuzzjoni talli rrifjutaw li jqimu l-idoli"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-muntanja ta' Uhud",
+        "Il-preċint sagru tal-Kabah",
+        "Il-bir ta' Abu Sufyan",
+        "Il-palazz tal-Quraysh",
+        "Il-belt ta’ Medina"
+      ],
+      "answer": "Il-bir ta' Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Rebħa f'battalja kbira",
+        "Liberazzjoni permezz ta' intervent divin",
+        "Il-martirju fit-triq ta’ Alla",
+        "Aċċettazzjoni diretta fil-ġenna",
+        "Migrazzjoni lejn art imbierka"
+      ],
+      "answer": "Liberazzjoni permezz ta' intervent divin"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

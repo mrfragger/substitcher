@@ -1,0 +1,60 @@
+{
+  "title": "Zagadka dalekiego tronu",
+  "intro": "Potężny monarcha, obdarzony niezwykłą władzą, stanął przed osobliwym wyzwaniem, w którym uczestniczyła królowa z dalekiej krainy. Monarcha pragnął zademonstrować boską moc i mądrość, inicjując niezwykłe wydarzenie, które przeczyło prawom czasu i przestrzeni. Czy potrafisz wywnioskować szczegóły tego cudownego wydarzenia?",
+  "clues": [
+    "Władca zyskiwał ogromną władzę, m.in. kontrolę nad niewidzialnymi istotami i zdolność panowania nad wiatrami.",
+    "Władca ten otrzymał wieści o bogatej królowej, która czciła słońce, i postanowił zaprosić ją na dwór.",
+    "Przed przybyciem królowej władca wyraził chęć przeniesienia jej wspaniałej siedziby władzy z odległego królestwa.",
+    "Potężny dżinn zaproponował, że odzyska przedmiot, zanim władca zdąży powrócić ze swojej rady.",
+    "Jednakże ktoś, kto posiadał głęboką wiedzę o Piśmie Świętym, zaoferował jeszcze szybsze odzyskanie informacji, wykonując zadanie w mgnieniu oka.",
+    "Po przybyciu władca rozkazał zmienić obiekt, aby przetestować inteligencję i spostrzegawczość królowej, gdy w końcu dotrze do pałacu."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prorok/Osoba",
+      "options": [
+        "Prorok Mojżesz",
+        "Prorok Dawid",
+        "Prorok Ibrahim",
+        "Prorok Yusuf",
+        "Prorok Sulayman"
+      ],
+      "answer": "Prorok Sulayman"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Rozdzielenie morza",
+        "Cierpliwość w przeciwnościach losu",
+        "Budowa Kaaby",
+        "Test Ogrodów",
+        "Przyniesienie tronu królowej"
+      ],
+      "answer": "Przyniesienie tronu królowej"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Góra",
+        "Studnia",
+        "Tron"
+      ],
+      "answer": "Tron"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wielka ofiara",
+        "Ustanowiono królestwo",
+        "Ludzie ukarani",
+        "Nowe przymierze",
+        "Poddanie się królowej Allahowi"
+      ],
+      "answer": "Poddanie się królowej Allahowi"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

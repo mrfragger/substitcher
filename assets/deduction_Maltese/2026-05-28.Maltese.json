@@ -1,0 +1,61 @@
+{
+  "title": "Il-Pazjent Sod Wieħed",
+  "intro": "Fl-annali tal-istorja profetika, ftit huma dawk li ssaportew telfa u tbatija fiżika daqshekk profonda b’fidi soda. L-istorja ta’ din il-figura hija lezzjoni bla żmien fil-paċenzja u l-fiduċja fl-għerf divin. Min hi din ir-ruħ?",
+  "clues": [
+    "Jiena ġejt magħżul minn Alla biex inwassal messaġġ, iżda l-akbar prova tiegħi ma ġietx permezz ta' rifjut, iżda permezz ta' kalamità personali.",
+    "Il-ġid tiegħi, il-bhejjem tiegħi, u wliedi ttieħdu mingħandi, wieħed wara l-ieħor.",
+    "Ġismi kien mgħotti bil-ġrieħi, u bqajt waħdi ħlief għall-appoġġ ta’ marti.",
+    "Għajjatt lill-Mulej tiegħi, għaraft it-tbatija tiegħi u fittixt il-ħniena Tiegħu.",
+    "Ġejt istruwit biex inħabbat l-art b’sieqi, u nixxiegħa rifreskanti f’daqqa waħda.",
+    "Alla reġa’ tani saħħti u tani familja ġdida u saħansitra aktar ġid milli kelli qabel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Ayyub",
+        "Profeta Ibrahim",
+        "Il-Profeta Musa",
+        "Profeta Isa",
+        "Profeta Nuh"
+      ],
+      "answer": "Il-Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Telf ta’ ġid u familja",
+        "Li tintrema fin-nar",
+        "Li tinbela’ minn ħuta",
+        "Li tkun separat mill-familja u mibjugħ fil-jasar",
+        "Li tiġi ttestjat ma’ għoġol tad-deheb"
+      ],
+      "answer": "Telf ta’ ġid u familja"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Għajn ta' ilma",
+        "Bastun li nbidel f’serp",
+        "Arka tal-injam",
+        "Għoġol imdewweb",
+        "Siġra tal-palm"
+      ],
+      "answer": "Għajn ta' ilma"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ir-restawr tal-familja u l-ġid",
+        "Tlugħ lejn is-sema",
+        "Issir sultan",
+        "Li tiġi salvat minn baliena",
+        "Li tirċievi iben fix-xjuħija"
+      ],
+      "answer": "Ir-restawr tal-familja u l-ġid"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

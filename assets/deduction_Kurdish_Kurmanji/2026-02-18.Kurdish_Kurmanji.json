@@ -1,0 +1,61 @@
+{
+  "title": "Şahidê Bêdeng",
+  "intro": "Çîrokeke kûr derdikeve holê, biryardariya bê şik û guman a civatekê li hember zulmeke mezin eşkere dike. Çîroka wan wekî şahidiyek ji bo baweriyê xizmet dike, tewra dema ku ew bi qurbanîdana herî dawî re rû bi rû dimînin jî. Ev serpêhatî hêza baweriyê li dijî zulma zêde tîne bîra me.",
+  "clues": [
+    "Em komek bûn ku çîroka wan di sûreyek kurt û bihêz de tê vegotin û li dijî zilmê hişyarî dide.",
+    "Em bi hukumdarekî re rû bi rû man ku dixwest baweriya me bi yek Xwedayê, Xwedayê Arş, yê pesindar ji holê rake.",
+    "Em rastî ceribandineke tirsnak hatin ku tê de çalek mezin di erdê de hatibû kolandin.",
+    "Me temaşe kir çawa bawermend, tevî pitikan, di nav wê çalê de hatin avêtin nav dojehê.",
+    "Êşkencekarên me ji ber kirinên xwe hatin nifirkirin, di heman demê de ji me re soza xelatek mezin ji bo sebira me hat dayîn.",
+    "Hewldana hukumdar a ji bo vemirandina baweriya me, tenê cihê me wekî şehîdan li ber çavên Xwedayê ku şahidê her tiştî ye, xurt kir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Gelê Semûdê",
+        "Gelê Adê",
+        "Xelkê Xendekê",
+        "Gelê Lûtê",
+        "Gelê Fîl"
+      ],
+      "answer": "Xelkê Xendekê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Tofana Mezin",
+        "Dara Dişewite",
+        "Xeniqîna di Deryayê de",
+        "Çala Agir",
+        "Erdhej"
+      ],
+      "answer": "Çala Agir"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keşti",
+        "Karmend",
+        "Xendek",
+        "Çiya",
+        "Bîra"
+      ],
+      "answer": "Xendek"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Padîşahtî hat dayîn",
+        "Bi mûcîzeyek xilas bûn",
+        "Şehîdî û bihuşt bi dest xist",
+        "Li seranserê welatan belav bûn",
+        "Dewlemendiyeke mezin dan wan"
+      ],
+      "answer": "Şehîdî û bihuşt bi dest xist"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

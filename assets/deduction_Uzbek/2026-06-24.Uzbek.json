@@ -1,0 +1,61 @@
+{
+  "title": "So'nmas olov qo'riqchisi",
+  "intro": "Ko'rinmas dunyoning eng qo'rqinchli joyining ostonasida bir qiyofada turibdi, unga boshqa hech bir mavjudot xohlamaydigan vazifa yuklatilgan. Azob chekayotgan ruhlar rahm-shafqat so'raganda, olov kameralari orqali qattiq javob aks-sado beradi. Bu abadiy qo'riqchining kimligini ochib bera olasizmi?",
+  "clues": [
+    "Men ko'rinmas dahshatli jazo maskanining kirish qismida turibman.",
+    "Yonayotgan, so'nmas olov mening tantanali burchimning markaziy qismidir.",
+    "Azob chekayotgan ruhlar cheksiz azoblaridan xalos bo'lishlarini so'rab, mening ismimni chaqirishadi.",
+    "Ular yolvorishganda, men ular hech qachon ketmasliklarini e'lon qilaman.",
+    "Men inson ham, jin ham emasman — men sof itoatkorlik bilan yaratilgan mavjudotman.",
+    "Men do'zaxning abadiy qo'riqchisi etib tayinlangan bosh farishtaman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Malik",
+        "Jibril",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Do'zax ahli azoblarining tugashini so'rashadi",
+        "Qiyomat kunini bildirish uchun karnay chalinadi",
+        "Qur'on Payg'ambarning qalbiga nozil qilingan",
+        "Payg'ambar o'z qavmi tomonidan katta olovga tashlanmoqda",
+        "Buzuq xalqni sig'dirish uchun qudratli devor qurilgan"
+      ],
+      "answer": "Do'zax ahli azoblarining tugashini so'rashadi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Do'zax olovi (Jahannam)",
+        "Jannat chegarasidagi Lot daraxti",
+        "Teshuvchi karnay",
+        "Ilonga aylanadigan tayoq",
+        "Ajoyib ilohiy taxt"
+      ],
+      "answer": "Do'zax olovi (Jahannam)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Do'zax ahliga abadiy qolishlari aytiladi",
+        "Do'zax aholisi kechiriladi va ozod qilinadi",
+        "Do'zax aholisiga imonda ikkinchi imkoniyat beriladi",
+        "Do'zax aholisi salqin joyga ko'chiriladi",
+        "Do'zax aholisi chaqmoq chaqishi bilan butunlay vayron qilinadi"
+      ],
+      "answer": "Do'zax ahliga abadiy qolishlari aytiladi"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

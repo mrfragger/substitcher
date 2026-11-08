@@ -1,0 +1,61 @@
+{
+  "title": "Die Dorp aan die Oewers van die Verhoor",
+  "intro": "Jy bevind jouself in 'n kusdorpie, waar die geluid van golwe meng met die fluisteringe van 'n vergete volk. Hulle is 'n bevel tot rus gegee, maar hul gierigheid het gelei tot 'n straf waaroor steeds in gedempte toon gepraat word. Kan jy ontbloot wie hulle was?",
+  "clues": [
+    "Ons het by die kus gewoon en is 'n opdrag gegee om 'n rusdag te onderhou.",
+    "Op daardie dag sou daar in oorvloed vis na ons toe kom, maar ons was verbied om dit te vang.",
+    "Sommige van ons het teen oortreding gewaarsku, maar ander het saamgesweer om in elk geval te visvang.",
+    "Ons het die heilige gebod oortree en onsself 'n swaar straf gebring.",
+    "Ons straf was 'n transformasie wat ons misvormd en in skande gelaat het.",
+    "Ons is in ape verander, 'n teken vir almal wat daarna sou kom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie is ek?",
+      "options": [
+        "Mense van die Sabbat",
+        "Mense van Thamud",
+        "Mense van 'Ad",
+        "Mense van die Grot",
+        "Mense van die Olifant"
+      ],
+      "answer": "Mense van die Sabbat"
+    },
+    "trial": {
+      "label": "Proefneming/Gebeurtenis",
+      "options": [
+        "Visvang op die Sabbat",
+        "Aanbidding van 'n goue kalf",
+        "Ontkenning van die boodskap van Hud",
+        "Die kameelmeisie doodmaak",
+        "Bou 'n toring na die hemel"
+      ],
+      "answer": "Visvang op die Sabbat"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Die vis",
+        "'n Kameelwyfie",
+        "'n Personeel",
+        "'n Boot",
+        "'n Tuin"
+      ],
+      "answer": "Die vis"
+    },
+    "outcome": {
+      "label": "Uitkoms",
+      "options": [
+        "Verander in ape",
+        "Vernietig deur 'n vloed",
+        "Vernietig deur 'n brandende vuur",
+        "Deur die aarde ingesluk",
+        "Verstrooi deur 'n wind"
+      ],
+      "answer": "Verander in ape"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

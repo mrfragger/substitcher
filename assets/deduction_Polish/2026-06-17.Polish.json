@@ -1,0 +1,61 @@
+{
+  "title": "Echo z krańca miasta",
+  "intro": "W mieście, które odwróciło się od boskiego przewodnictwa, z przedmieść wyłoniła się samotna postać, niosąc przesłanie nadziei i ostrzeżenia. Ta zapomniana dusza miała stać się wiecznym symbolem niezachwianej wiary.",
+  "clues": [
+    "Widziałem, jak posłańcy zostali wysłani do mojego miasta, ale moi ludzie odrzucili ich, traktując ich jak zwykłych ludzi.",
+    "Uwierzyłem w ich przesłanie i poczułem, że prawda rezonuje w moim wnętrzu.",
+    "Wezwałem swój lud do posłuszeństwa posłańcom, którzy nie żądali żadnej nagrody.",
+    "Pobiegłem z najdalszego końca miasta, usilnie próbując przemówić im do rozsądku.",
+    "Mój lud powstał przeciwko mnie i zostałem zabity, ale znalazłem wieczny spokój.",
+    "Allah powiedział do mnie: „Wejdź do Raju”, a ja życzyłem sobie, aby mój lud mógł być świadkiem zaszczytu, jakim mnie obdarzył."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Wierzący Jasina",
+        "Uzair Pytający",
+        "Al-Khidr Przewodnik",
+        "Wierzący z rodziny faraona",
+        "Namrud Tyran"
+      ],
+      "answer": "Wierzący Jasina"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Stając twarzą w twarz z niewierzącym ludem, który go zabił",
+        "Wrzucenie do płonącego ognia",
+        "Być połkniętym przez wielką rybę",
+        "Budowa ogromnej arki",
+        "Ucieczka przed armią tyrana"
+      ],
+      "answer": "Stając twarzą w twarz z niewierzącym ludem, który go zabił"
+    },
+    "location": {
+      "label": "Kluczowa lokalizacja",
+      "options": [
+        "Najdalszy koniec miasta",
+        "Góra Tur",
+        "Dolina Mrówek",
+        "Brzegi Nilu",
+        "Jaskinia jaskini"
+      ],
+      "answer": "Najdalszy koniec miasta"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Męczeństwo i natychmiastowe wejście do Raju",
+        "Ucieczka i zbawienie",
+        "Wniebowstąpienie",
+        "Tonąc w morzu",
+        "Zamieniając się w kamień"
+      ],
+      "answer": "Męczeństwo i natychmiastowe wejście do Raju"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

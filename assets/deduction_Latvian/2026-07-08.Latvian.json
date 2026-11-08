@@ -1,0 +1,61 @@
+{
+  "title": "Izredzēto nodevēji",
+  "intro": "Visas vēstures gaitā cilvēces vidū ir staigājuši dievišķi vēstneši, un daži no viņiem tuvākajiem nespēja atpazīt gaismu. Šis stāsts vēsta par divām dvēselēm, kuru tuvums pravietībai kļuva par viņu pārbaudījumu, un viņu mantojums – par mūžīgu mācību.",
+  "clues": [
+    "Mēs dzīvojām dižu praviešu laikos, tomēr mūsu acis palika aizvērtas uz patiesību, ko viņi atnesa.",
+    "Mūsu mājas bija piepildītas ar dievišķu atklāsmi, bet mūsu sirdis bija nocietinātas.",
+    "Mēs bijām precējušies ar vīriešiem, kuri bija izraudzīti, lai brīdinātu savu tautu.",
+    "Kad nāca sods, mēs nemeklējām patvērumu šķirstā un nebēgām no dedzinošā lietus, jo mēs izsmējām brīdinājumus.",
+    "Korānā mēs esam minēti kā piemērs tiem, kas netic, parādot, ka pat ciešas attiecības ar pravieti neglābj.",
+    "Mēs esam Nuha un Luta sievas, kuras viņus nodeva un tādējādi tika nosodītas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Nuha un Luta sievas",
+        "Ibrahima un Ismaīla sievas",
+        "Musas un Haruna sievas",
+        "Davuda un Suleimana sievas",
+        "Ajūba un Junusa sievas"
+      ],
+      "answer": "Nuha un Luta sievas"
+    },
+    "trial": {
+      "label": "Kāds bija viņu tiesas process?",
+      "options": [
+        "Viņi bija precējušies ar praviešiem, bet neticēja",
+        "Viņi bija neauglīgi un vainoja praviešus",
+        "Viņi bija bagāti un augstprātīgi",
+        "Ibliss viņus kārdināja pamest savas mājas",
+        "Viņi pielūdza Zelta teļu"
+      ],
+      "answer": "Viņi bija precējušies ar praviešiem, bet neticēja"
+    },
+    "location": {
+      "label": "Ar ko bija saistīts viņu liktenis?",
+      "options": [
+        "Plūdi un akmeņu lietus",
+        "Spēcīgs vējš",
+        "Zemestrīce",
+        "Siseņu mēris",
+        "Jūras sadalīšana"
+      ],
+      "answer": "Plūdi un akmeņu lietus"
+    },
+    "outcome": {
+      "label": "Kāds bija viņu gals?",
+      "options": [
+        "Viņi gāja bojā kopā ar neticīgajiem",
+        "Viņi nožēloja grēkus un tika izglābti",
+        "Viņi palika bez bērniem",
+        "Viņi tika izsūtīti uz visiem laikiem",
+        "Viņi tika pārveidoti par pērtiķiem un cūkām"
+      ],
+      "answer": "Viņi gāja bojā kopā ar neticīgajiem"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

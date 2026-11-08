@@ -1,0 +1,61 @@
+{
+  "title": "Vyvrheľ zlatého teľaťa",
+  "intro": "Postava spomenutá v Koráne zviedla veľké množstvo ľudí k odklonu počas neprítomnosti vznešeného proroka. Niečo vyrobené zo zlata si získalo srdcia celého národa – ale príbeh tejto osoby končí samotou a zvláštnou kliatbou. Kto by mohol byť týmto vyvrheľom?",
+  "clues": [
+    "Vynoril som sa počas neprítomnosti veľkého proroka, ktorý vystúpil na nebesia, aby prijal božské vedenie.",
+    "Zviedol som na scestie veľký dav niečím, čo som vytvoril vlastnými rukami.",
+    "Zlatý výtvor, ktorý som vytvoril, akoby mal život a vydával zvuky, ktoré fascinovali tých, ktorí ho nasledovali.",
+    "Tvrdil som, že som videl to, čo iní nemohli vnímať – letmý pohľad do neviditeľného.",
+    "Vytiahol som niečo zo stôp božského posla a odlial to do roztaveného kovu.",
+    "Bol som odsúdený blúdiť sám, s jedinečnou kliatbou, že nikto sa nesmie dotknúť mojej pokožky a ja sa nedotknem ich."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Samiri",
+        "Háman",
+        "Faraón (Fir'awn)",
+        "Abú Laháb",
+        "Prorok Sálih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Vytvoril zlaté teľa na uctievanie",
+        "Postavil vežu siahajúcu až do nebies",
+        "Vyzval egyptských čarodejníkov",
+        "Viedol armádu s lietajúcimi zvieratami",
+        "Rozštiepenie mesiaca ako dôkaz proroctva"
+      ],
+      "answer": "Vytvoril zlaté teľa na uctievanie"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zlaté teľa",
+        "Palica, ktorá sa premenila na hada",
+        "Horiaci ker na hore",
+        "Archa spočívajúca na vrchole",
+        "Priekopa naplnená planúcim ohňom"
+      ],
+      "answer": "Zlaté teľa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Vyhnanec, so zákazom dotýkania sa ho alebo iných",
+        "Utopil sa v mori spolu s armádou",
+        "Upálený zaživa za odmietnutie viery",
+        "Zrazený prudkým, burácajúcim vetrom",
+        "Odpustené a povýšené na vysoké miesto"
+      ],
+      "answer": "Vyhnanec, so zákazom dotýkania sa ho alebo iných"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

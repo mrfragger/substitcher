@@ -1,0 +1,61 @@
+{
+  "title": "Den, der ringer fra dybet",
+  "intro": "Forestil dig en sjæl, der er betroet et guddommeligt budskab, men som i et hastigt øjeblik forlod sit folk uden udtrykkelig tilladelse. Denne rejse førte dem ind i en ekstraordinær prøvelse, en dyb prøvelse af tålmodighed og tillid til den Højeste. Hvem er denne person, hvis historie lærer os om omvendelse og Allahs enorme barmhjertighed?",
+  "clues": [
+    "Jeg blev sendt til en stor nation, men deres første afvisning forårsagede mig ulykke.",
+    "Jeg forlod mit folk i den tro, at min mission var fuldført, før jeg modtog en klar ordre om at afrejse.",
+    "Jeg søgte ombord på et skib, men en kraftig storm og lodtrækning førte til en alvorlig situation.",
+    "Jeg blev kastet i havet, og et mægtigt væsen fra dybet slugte mig hel.",
+    "I dens mørke maves råbte jeg til Allah, indrømmede min forseelse og bad om Hans tilgivelse.",
+    "Allah befalede væsenet at kaste mig på kysten, og jeg blev helbredt igen under en unik plante."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Yusuf (Josef)",
+        "Profeten Nuh (Noah)",
+        "Profeten Yunus (Jonas)",
+        "Profeten Sulaiman (Salomon)",
+        "Profeten Ayyub (Job)"
+      ],
+      "answer": "Profeten Yunus (Jonas)"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Havets opdeling",
+        "Nimrods ild",
+        "At blive slugt af en stor fisk",
+        "Oversvømmelsen",
+        "Ødelæggelsen af ​​en by med sten"
+      ],
+      "answer": "At blive slugt af en stor fisk"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Arken",
+        "Personalet",
+        "Fiskens mave",
+        "Brønden",
+        "Den brændende busk"
+      ],
+      "answer": "Fiskens mave"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev en stor hersker",
+        "Byggede Kaabaen",
+        "Vendte tilbage for at vejlede en angrende nation",
+        "Fik herredømme over djinn",
+        "Ledte folk gennem ørkenen"
+      ],
+      "answer": "Vendte tilbage for at vejlede en angrende nation"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

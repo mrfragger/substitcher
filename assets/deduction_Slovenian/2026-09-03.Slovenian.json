@@ -1,0 +1,61 @@
+{
+  "title": "Prestol, ki je potoval v trenutku",
+  "intro": "Bogatemu kraljestvu, blagoslovljenemu z neizmernim bogastvom, je vladal človek z izjemno avtoriteto. Ko se je pojavil nepričakovan izziv, se ta vladar ni soočil s preizkušnjo mečev, temveč modrosti in vere. Kar se je zgodilo, ga je od vrha posvetne moči pripeljalo do globoke preobrazbe srca.",
+  "clues": [
+    "Vladal sem kraljestvu, blagoslovljenemu z bogastvom in blaginjo, ki presega domišljijo",
+    "Bil sem močan monarh, ki je prejel drzno pismo, v katerem so zahtevali podreditev",
+    "Moji plemiči so mi svetovali, ali naj se borim ali sklenem mir s tem daljnim kraljem",
+    "Z veličastnimi darili sem se odpravil na srečanje s tem oddaljenim kraljem.",
+    "Moj kraljevski prestol je bil v hipu prenesen v daljno deželo, preden sem se lahko vrnil",
+    "Ko sem vstopil v palačo s tlemi, gladkimi kot steklo, sem končno razglasil svojo predanost Alahu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Bilkis, kraljica iz Sabe",
+        "Žena faraona",
+        "Žena Al-Aziza",
+        "Marjam, Imranova hči",
+        "Žena preroka Luta"
+      ],
+      "answer": "Bilkis, kraljica iz Sabe"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Prejem drznega pisma z zahtevo po predložitvi",
+        "Biti vržen v plameneči ogenj",
+        "Biti pogoltnjen s strani velike ribe",
+        "Vztrajna leta boleče bolezni",
+        "Priča uničenju ljudstva zaradi poplave"
+      ],
+      "answer": "Prejem drznega pisma z zahtevo po predložitvi"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Veličasten kraljevski prestol iz zlata in draguljev",
+        "Palica, ki je razdelila morje",
+        "Barka počiva na gori",
+        "Sveta hiša čaščenja v Meki",
+        "Zlato tele, ki ga častijo ljudje"
+      ],
+      "answer": "Veličasten kraljevski prestol iz zlata in draguljev"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Predanost Alahu skupaj s prerokom",
+        "Utopitev v morju med lovom na sovražnika",
+        "Čudežno rešen pred plamenečim ognjem",
+        "Izgnanstvo iz vrta večne blaženosti",
+        "Prejem kraljestva neizmerne moči"
+      ],
+      "answer": "Predanost Alahu skupaj s prerokom"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

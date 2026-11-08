@@ -1,0 +1,61 @@
+{
+  "title": "Salehlərin Yuxusu",
+  "intro": "İmanın təhlükəli olduğu və güclülərin inancı əzməyə çalışdığı bir dövrdə, gənc ruhların kiçik bir qrupu əsrlər boyu əks-səda verəcək bir seçim etdi. Bildikləri hər şeydən qaçaraq, dağın gizli qaranlığına sığındılar və tamamilə Allaha təvəkkül etdilər. Bundan sonra baş verənlər düşünənlər üçün zamansız bir əlamətə çevriləcəkdi.",
+  "clues": [
+    "Biz Rəbbimizə iman gətirən bir qrup gənc idik və O, bizə hidayətini artırdı.",
+    "Biz xalqımızın qarşısında dayandıq və Allahdan başqa heç bir tanrıya ibadət etməyəcəyimizi bildirdik.",
+    "Biz bir mağaraya sığındıq və dedik: “Ey Rəbbimiz, bizə Öz tərəfindən mərhəmət bəxş et və işimizdə bizə doğru yolu göstər”.",
+    "Biz uzun illər yatdıq və günəş mağaramızdan uzaqlaşıb bizə toxunmadı.",
+    "İtimiz mağaranın ağzında uzanıb sanki növbətçi kimi bizi qoruyurdu.",
+    "Oyandığımız zaman nə qədər qaldığımızı düşündük və birimizə yemək almaq üçün gümüş sikkələr göndərildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Mağara Əhli",
+        "Xəndək İnsanları",
+        "Şənbə günü insanları",
+        "Fil Xalqı",
+        "Meşə Əshabları"
+      ],
+      "answer": "Mağara Əhli"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İmanlarına görə təqiblərdən qaçmaq üçün mağaraya qaçdılar",
+        "Şiddətli küləklə məhv edildi",
+        "Torpaq tərəfindən udulmuş",
+        "Dənizdə boğuldu",
+        "Daş fırtınası ilə vurulub"
+      ],
+      "answer": "İmanlarına görə təqiblərdən qaçmaq üçün mağaraya qaçdılar"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Mağaranın girişini qoruyan it",
+        "Böyük bir gəmi",
+        "İlana çevrilən bir əsa",
+        "Şanapipik quş",
+        "Qızıl buzov"
+      ],
+      "answer": "Mağaranın girişini qoruyan it"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Onlar mağarada 309 il qaldılar və sonra bir əlamət olaraq qaldırıldılar.",
+        "Onlar meymunlara çevrildilər",
+        "Onlar daşqın nəticəsində məhv edildi",
+        "Onlar dənizi keçmək üçün məcbur edildilər",
+        "Onlara bir padşahlıq verildi"
+      ],
+      "answer": "Onlar mağarada 309 il qaldılar və sonra bir əlamət olaraq qaldırıldılar."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

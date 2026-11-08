@@ -1,0 +1,61 @@
+{
+  "title": "Ny Feo Alohan'ny Oram-baratra",
+  "intro": "Nisy olona iray tany an'efitra nitsangana mba hiantso firenena matanjaka iray hiverina amin'ny fahamarinana. Nalaza noho ny tranobeny mahafinaritra sy ny heriny tsy manam-paharoa ny vahoaka. Kanefa ny avonavony no nanajamba azy ireo, ary tsy nety nihaino izy ireo. Tamin'ny farany, dia nisy sazy mahatsiravina nihatra tamin'izy ireo, ka vitsy ny mpino sisa no voatsimbina.",
+  "clues": [
+    "Nirahina ho any amin'ny vahoaka mahery izay nonina tany an-tsaha aho ary fantatra noho ny heriny.",
+    "Nanenjika firenena lehibe iray hafa izay efa rava ny oloko.",
+    "Nanana rafitra kanto sy tilikambo avo be izy ireo.",
+    "Niantso azy ireo aho mba hivavaka amin'Andriamanitra Tokana, saingy tsy nety nandao ny sampiny izy ireo.",
+    "Nisy sazy mafy namely azy ireo, ka ireo izay nino niaraka tamiko ihany no voatsimbina.",
+    "Izaho no nirahina ho any amin'ny vahoaka mahery fantatra amin'ny anarana hoe Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Hoda",
+        "Mpaminany Salih",
+        "Mpaminany Shu'aib",
+        "Mpaminany Noa",
+        "Mpaminany Ibrahim"
+      ],
+      "answer": "Mpaminany Hoda"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny tondra-drano lehibe",
+        "Rivotra mahery mirohondrohona",
+        "Horohoron-tany sy fitarainana mahatsiravina",
+        "Orana vato mirehitra",
+        "Afo avy any an-danitra"
+      ],
+      "answer": "Rivotra mahery mirohondrohona"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Sambofiara lehibe naorina teo an-tendrombohitra",
+        "Ramevavavy tsy manam-paharoa",
+        "Tehina izay lasa menarana",
+        "Trano avo sy rafitra avo be",
+        "Dobo mirehitra"
+      ],
+      "answer": "Trano avo sy rafitra avo be"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Rendrika tao anaty tondra-drano lehibe avokoa izy rehetra",
+        "Ravan'ny rivotra mahery ny oloko, fa izaho kosa voavonjy",
+        "Tratran'ny horohoron-tany ny oloko ka nitomany izy ireo",
+        "Nitoraka vato avy any an-danitra ny oloko",
+        "Ny oloko dia natsipy tao anaty afo mirehitra"
+      ],
+      "answer": "Ravan'ny rivotra mahery ny oloko, fa izaho kosa voavonjy"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

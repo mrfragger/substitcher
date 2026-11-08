@@ -1,0 +1,61 @@
+{
+  "title": "Momemi ya Bilembo Libwa",
+  "intro": "Elilingi moko etombolaki uta na ebandeli ya komikitisa koleka, na destin moko ekomami na bolingi ya bonzambe. Babombamaki mosika na bomwana mpe kotombolama na kati ya bifelo ya mokonzi mpenza oyo alukaki kobebisa bato na bango, molimo oyo nsukansuka ebengamaki mpo na misio moko ya nguya. Lokola bazalaki na eloko mosusu te bobele kondima mpe lingenda ya mobateli ya mpate ya komikitisa, batɛlɛmaki liboso ya mokonzi oyo aleki nguya na eleko wana mpe bazalaki kosɛnga bonsomi mpo na baoyo bazalaki baombo. Mokili yango moko emonanaki lokola ete ezalaki kotambola na etinda na bango — mai ekabwanaki, lola elobaki, mpe bokonzi moko ekweaki.",
+  "clues": [
+    "Mikolo na ngai ya ebandeli ezalaki na bobangi —bana mike lokola ngai bazalaki kobundisama na mbotama na mokonzi moko ya mawa te oyo azalaki kobanga mikolo mizali koya.",
+    "Nabikisamaki na mai mpe nabɔkwamaki na kati ya ndako ya mokonzi mpenza oyo alukaki libebi na ngai.",
+    "Nakimaki mboka na ngai nsima ya likambo moko ya mbalakaka, mpe nakómaki mobateli ya mpate ya komikitisa na mboka moko ya mosika.",
+    "Nazongaki mpo na kokutana na mokonzi wana ya nguya na lingenda ya pete mpe nsango ya polele, kosenga bonsomi ya bato na ngai.",
+    "Nakabolaki mai monene mpo na baoyo balandaki ngai, mpe natalaki ntango mai wana emelaki monguna na ngai mobimba.",
+    "Namataki ngomba moko mosantu mpo na kozwa litambwisi ya bonzambe epai ya Allah, mpe bapesaki ngai bilembo libwa ya polele lokola elembeteli ya bosolo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Musa",
+        "Mosakoli Nuh",
+        "Mosakoli Ibrahim",
+        "Mosakoli Yusuf",
+        "Mosakoli Luta"
+      ],
+      "answer": "Mosakoli Musa"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kokutana na Farao na ndako na ye",
+        "Kotonga Sanduku mpo na kobika na mpela monene",
+        "Kobwakama na mɔ́tɔ oyo ezali kopela na basali ya bikeko",
+        "Kokita na libulu ya mozindo na bandeko na ngai",
+        "Koluka kopekisa bato na ngai etamboli ya mbindo"
+      ],
+      "answer": "Kokutana na Farao na ndako na ye"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nzete oyo ebongwanaki nyoka",
+        "Sanduku ya Nuh",
+        "Kiti ya bokonzi ya Bilqis",
+        "Bague oyo ezalaki ko contrôler mopepe na ba jinn",
+        "Bafungola ya biloko ya motuya oyo ebombami kilo boye"
+      ],
+      "answer": "Nzete oyo ebongwanaki nyoka"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akambaki bato na ngai na kokatisa mai oyo ekabwanaki mpo na kokende na bonsomi",
+        "Abikisamaki na mpela monene na kati ya Sanduku moko",
+        "Azongaki na nzoto kolɔngɔnɔ mpe na libota nsima ya mpasi makasi",
+        "Abwakama libanda ya mbisi monene na bomoi",
+        "Atongaki miboko ya Ndako Mosantu"
+      ],
+      "answer": "Akambaki bato na ngai na kokatisa mai oyo ekabwanaki mpo na kokende na bonsomi"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

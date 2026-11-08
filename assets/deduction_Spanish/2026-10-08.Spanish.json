@@ -1,0 +1,61 @@
+{
+  "title": "Los talladores de piedra del antiguo valle",
+  "intro": "Imagina una civilización que surgió en los valles rocosos de Arabia, experta en esculpir magníficas casas en las laderas de las montañas. Florecieron con fuerza y ​​maestría, pero su historia está marcada por un escalofriante desafío a la advertencia divina. Al adentrarte en su relato, descubrirás a un pueblo cuya arrogancia los condujo a su completa aniquilación. ¿Quiénes eran?",
+  "clues": [
+    "Heredamos una tierra de llanuras rocosas y acantilados imponentes, donde construimos nuestras viviendas con una habilidad inigualable.",
+    "Éramos conocidos por excavar hogares seguros en las montañas, sintiéndonos a salvo de cualquier peligro.",
+    "Nos llegó un mensajero de entre nosotros mismos, recordándonos los favores de Alá y advirtiéndonos del castigo.",
+    "Pedimos una señal, y una camella milagrosa emergió de la roca, una clara prueba de Alá.",
+    "Desobedecimos la advertencia y mutilamos a la camella, burlándonos del mensajero y desafiando el castigo.",
+    "Una sola explosión nos sorprendió en nuestras casas, y por la mañana yacíamos postrados, como si nunca hubiéramos vivido allí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Gente de Thamud",
+        "Gente de 'Anuncio'",
+        "Pueblo de Madyan",
+        "Pueblo de Nuh",
+        "Pueblo de Lut"
+      ],
+      "answer": "Gente de Thamud"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La camella quedó paralizada",
+        "Quebrantó el sábado",
+        "Adoraban al becerro de oro.",
+        "Mataron al profeta que les fue enviado.",
+        "Construyó una torre para alcanzar el cielo."
+      ],
+      "answer": "La camella quedó paralizada"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La camella",
+        "El Arca",
+        "El personal",
+        "La mano blanca",
+        "El maná y las codornices"
+      ],
+      "answer": "La camella"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruido por una explosión.",
+        "Salvado de la destrucción",
+        "Se transformaron en simios",
+        "Ahogado en el mar",
+        "Engullido por la tierra"
+      ],
+      "answer": "Destruido por una explosión."
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

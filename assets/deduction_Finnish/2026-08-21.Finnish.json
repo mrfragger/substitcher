@@ -1,0 +1,61 @@
+{
+  "title": "Valtaistuimen takana oleva varjo",
+  "intro": "Seisot mahtavan muinaisen kuningaskunnan hovissa, jossa voimakas hallitsija on julistautunut kaikkien kansojen jumalaksi. Hallitsijan vieressä seisoo omistautunut palvelija, jolle on uskottu kuningaskunnan suurimmat tavoitteet. Yhdessä he suunnittelevat ja juonittelevat kieltäytyen kuuntelemasta heitä opastamaan lähetetyn sanansaattajan varoituksia. Pystytkö paljastamaan kuka tämä uskollinen palvelija oli?",
+  "clues": [
+    "Elin mahtavassa valtakunnassa, jota hallitsi vaikutusvaltainen henkilö, joka väitti olevansa kaikkien ihmisten jumaluus.",
+    "Toimin tämän hallitsijan luottoministerinä ja toteutin heidän kaikki heidän tavoitteensa ja käskynsä.",
+    "Kun Allahin lähettiläs tuli maallemme kutsuen meitä totuuteen, hallitsijani ja minä kieltäydyimme kuuntelemasta.",
+    "Minua käskettiin sytyttämään suuri tuli ja valmistamaan savitiiliä suurta rakennustyötä varten.",
+    "Hallitsijani halusi pystyttää niin korkean tornin, että se ulottuisi taivaisiin asti.",
+    "Lopulta hallitsijani, armeijamme ja minut pyyhkäistiin pois ja hukkuivat meren syvyyksiin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Tornin rakentaminen taivaisiin pääsemiseksi",
+        "Heitetään liekehtivään tuleen",
+        "Kansan herättäminen kivisten epäjumalien palvonnasta",
+        "Kuun jakaminen jumalallisena merkkinä",
+        "Mahtavan kaupungin valloitus jumalallisella käskyllä"
+      ],
+      "answer": "Tornin rakentaminen taivaisiin pääsemiseksi"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Paistetuista savitiilistä tehty torni",
+        "Valaan vatsa",
+        "Pyhä lähde autiomaassa",
+        "Palava pensas pyhällä vuorella",
+        "Arkki, joka kuljettaa valittua perhettä"
+      ],
+      "answer": "Paistetuista savitiilistä tehty torni"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hukkui meren syvyyksiin",
+        "Nostettu turvaan upeaan palatsiin",
+        "Pelastettu suuren kalan vatsasta",
+        "Kuninkaalla ja jumalallisella viisaudella kunnioitettu",
+        "Lävistävän huudon tomuksi muuttama"
+      ],
+      "answer": "Hukkui meren syvyyksiin"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

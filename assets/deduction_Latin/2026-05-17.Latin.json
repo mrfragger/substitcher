@@ -1,0 +1,61 @@
+{
+  "title": "Architecti Lapidis",
+  "intro": "Finge tibi civilizationem potentem, robore et arte praeditam, domos magnificas in latera montium exsculpentem. Hic grex immensam prosperitatem et singularem dexteritatem architecturae possidebat. Attamen, quamquam clara monita acceperant, viam elegerunt quae ad exitum dramaticum et memorabilem duceret. Potesne hunc gregem agnoscere cuius historia omnibus qui cogitant tamquam profunda lectio est?",
+  "clues": [
+    "Robur et ars nobis data sunt, quae nobis permiserunt domos magnificas directe in montes exsculpere.",
+    "Signum manifestum ab Allah nobis datum est, creatura unica quae imperturbabilis ad pascendum relinquenda erat.",
+    "Communitas nostra arrogans facta est, nuntium divinum a nuntio e nostris allatum impugnans.",
+    "Coniuravimus ut signum miraculosum laederemus, monitis de gravi poena non obstantibus.",
+    "Mandatum ut bestia specialis ex puteo nostro alternis diebus biberet, contempsimus.",
+    "Finem vastantem experti sumus, uno ac terrifico flatu post actum nostrum transgressionis percussi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Populus 'Ad",
+        "Populus Madian",
+        "Populus Elephantis",
+        "Populus Thamudensis",
+        "Populus Lut"
+      ],
+      "answer": "Populus Thamudensis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum Nostrum Magnum",
+      "options": [
+        "Diluvium quod terram obruit",
+        "Maris divisio",
+        "Destructio uno ictu/clamore",
+        "Incendium urbis",
+        "Conversio montis in pulverem"
+      ],
+      "answer": "Destructio uno ictu/clamore"
+    },
+    "location": {
+      "label": "Elementum Clave in Historia Nostra",
+      "options": [
+        "Vitulus aureus",
+        "Camelus mirabilis",
+        "Rubus ardens",
+        "Avis loquens",
+        "Thronus maiestosus"
+      ],
+      "answer": "Camelus mirabilis"
+    },
+    "outcome": {
+      "label": "Exitus Noster Ultimus",
+      "options": [
+        "Immensis divitiis et potestate concessis",
+        "Ad prophetiam evectus",
+        "Exstinctio absoluta poena divina",
+        "Condonatur post sinceram paenitentiam",
+        "Per terram dispersi ut vagentur"
+      ],
+      "answer": "Exstinctio absoluta poena divina"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lời kêu gọi vượt thời gian",
+  "intro": "Hãy tưởng tượng một linh hồn đơn độc chống lại cả một nền văn minh, quyết tâm dẫn dắt họ thoát khỏi sự lầm lạc với ý chí kiên định. Trong nhiều thế kỷ, thông điệp bị từ chối, chế giễu và gạt bỏ—nhưng nỗ lực không bao giờ ngừng lại. Cuối cùng, một sự phán xét lớn đã đến, và chỉ một số ít người được cứu rỗi cùng với linh hồn kiên định này. Bạn có thể nhận ra nhân vật này trong Kinh Qur'an không?",
+  "clues": [
+    "Tôi được phái đến như một người cảnh báo cho một dân tộc đang lạc lối trong chính lối sống của họ.",
+    "Tôi đã mời họ tìm kiếm sự tha thứ và từ bỏ những lỗi lầm của mình, nhưng họ đã quay lưng.",
+    "Theo lệnh của thần linh, tôi đã chế tạo một con tàu khổng lồ trong khi người dân của tôi đứng nhìn và chế giễu tôi.",
+    "Tôi không ngừng cầu nguyện với Chúa, cuối cùng Ngài đã đáp lời, và nước từ trên trời đổ xuống như thác lũ.",
+    "Tôi đã lên thuyền cùng những người có niềm tin khi nước lũ dâng cao tràn bờ.",
+    "Tôi kêu gọi một người ở lại tìm nơi trú ẩn trên núi, nhưng sắc lệnh đã được ban hành rồi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Nuh",
+        "Tiên tri Ibrahim",
+        "Tiên tri Musa",
+        "Tiên tri Hud",
+        "Tiên tri Salih"
+      ],
+      "answer": "Tiên tri Nuh"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Xây dựng con tàu lớn và sống sót sau trận lụt toàn cầu.",
+        "Bị ném vào ngọn lửa đang cháy.",
+        "Đối đầu với một bạo chúa và những pháp sư quyền năng của hắn.",
+        "Bị một con cá lớn nuốt chửng",
+        "Chứng kiến ​​cảnh giết một con lạc đà cái linh thiêng."
+      ],
+      "answer": "Xây dựng con tàu lớn và sống sót sau trận lụt toàn cầu."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một con thuyền gỗ khổng lồ giữa dòng nước lũ dữ dội.",
+        "Một thung lũng linh thiêng với những tàn tích đá cổ xưa.",
+        "Một hang động sâu thẳm, nơi các tín đồ đã ngủ suốt nhiều thế kỷ.",
+        "Bụng của một con cá voi khổng lồ dưới đáy đại dương.",
+        "Một ngọn núi đá hùng vĩ giữa vùng hoang dã"
+      ],
+      "answer": "Một con thuyền gỗ khổng lồ giữa dòng nước lũ dữ dội."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được cứu sống cùng với những người có đức tin trên con tàu.",
+        "Được cứu thoát khỏi đám cháy mà không hề hấn gì nhờ mệnh lệnh thiêng liêng.",
+        "Đã dẫn dắt một cuộc xuất hành vĩ đại ra khỏi một vương quốc hùng mạnh.",
+        "Bị trôi dạt từ con cá lên một bờ biển hoang vắng.",
+        "Dẫn dắt mọi người tránh xa con đường sai trái bằng một dấu hiệu kỳ diệu."
+      ],
+      "answer": "Được cứu sống cùng với những người có đức tin trên con tàu."
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

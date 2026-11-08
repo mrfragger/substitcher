@@ -1,0 +1,61 @@
+{
+  "title": "Arkiteektii Hawwii Sobaa",
+  "intro": "Namni aangoo guddaa qabu tokko yeroo tokko Gibxii durii keessatti abbaa irree seenaa keessatti maqaa gaarii hin qabne keessaa tokko tajaajilaa ture. Namni dhuunfaa kun ajaja ija jabinaan itti kenname — caasaa samii mormuuf yaadame ijaaruuf. Seenaan isaanii akkamitti of tuulummaaf ajajamuun jaamaa ta’uun gara badiisa qofa akka geessu barumsa nama dinqisiisu ta’ee Qur’aana keessatti dhaabata.",
+  "clues": [
+    "Manneen murtii bulchaa humna guddaa qabuu fi lafa sana irratti waaqummaa himatu tokkoo keessattin tajaajilaa ture.",
+    "Yeroo kootti abbaa irree of tuulummaa guddaa qabu gorsaa, bakka tajaajilaa olaanaa qabadheen ture.",
+    "Bulchaan koo Waaqa Musee isa isaan beekamtii kennuu didan mormuudhaan kan guutame ture.",
+    "Bulchaan koo gara samiitti akka ol baʼuuf masaraa cilee ibiddaan bilcheefame akkan ijaaru na ajajame.",
+    "Masaraan sun gonkumaa samii hin geenye, of tuulummaaf garbummaan koos salphina bara baraa naaf argamsiiseera.",
+    "Kan hordofe waliin bade, maqaan koos warra gabroomfatoota dandeessisan irratti akeekkachiisa waaraa ta’e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Hamaan",
+        "Azar (abbaa Ibraahim) .",
+        "Iliyaas (nabi) .",
+        "Dhu al-Kifl jedhamuun beekama",
+        "Harut (ergamoota lamaan Baabilon keessa jiran keessaa tokko) ."
+      ],
+      "answer": "Hamaan"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Caasaa olka'aa samii ga'uuf akka ijaaramu ajajame",
+        "Abjuu waaqa irraa ergame akka hiikuuf gaafatame",
+        "Qormaata amantii ta’ee ibidda boba’aa keessatti darbatame",
+        "Teessoo fi dhugaa gidduutti filachuuf dirqame",
+        "Dorgommii falfalaa irratti mormame"
+      ],
+      "answer": "Caasaa olka'aa samii ga'uuf akka ijaaramu ajajame"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Masaraa cilee ibiddaan bilcheefame",
+        "Ulee gara bofaatti jijjiirame",
+        "Doonii lolaa guddaa keessa deemtu",
+        "Iddoo biqiltuu dallaa olka’aadhaan marfame",
+        "Teessoo ruubii fi warqeen faayame"
+      ],
+      "answer": "Masaraa cilee ibiddaan bilcheefame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Galaana keessatti cunqursaa cinaa liqimfame",
+        "Mootii humna guddaa qabu lafa bal'aa ta'e",
+        "Ibidda boba'aa irraa osoo hin miidhamiin miliqe",
+        "Mootummaa ogummaa badhaate ijaare",
+        "Waggootaaf baqattummaa erga turee booda maatii waliin walitti makame"
+      ],
+      "answer": "Galaana keessatti cunqursaa cinaa liqimfame"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

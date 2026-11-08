@@ -1,0 +1,61 @@
+{
+  "title": "A gát, amely áttört egy királyságot",
+  "intro": "Egy föld, ahol folyók, két zöld kert és páratlan jólét uralkodik – lakói azonban közömbössé váltak Arra, aki megáldotta őket. Amikor emlékeztetők érkeztek, amelyek visszahívták őket, elfordultak. Ami ezt követte, az egy büntetés volt, amely még ma is figyelmeztetésként visszhangzik. Kik voltak ezek az ősi közösségek?",
+  "clues": [
+    "Egy olyan áldott földön éltünk, hogy otthonunk két zöldellő kert között feküdt.",
+    "Élveztük a földjeinken átfolyó folyókat és az otthonainkat eltöltő bőséges termést.",
+    "Mégis, amikor hálára és engedelmességre szólított fel minket Urunk, büszkén elfordultunk.",
+    "Gazdagságunk és jólétünk miatt elfelejtettük Azt, aki mindezt megadta nekünk.",
+    "Aztán hirtelen jött egy áradat, amely áttörte a nagy akadályt, amelyre támaszkodtunk.",
+    "Mi Saba népe vagyunk, akiknek földje a nagy Ma'rib-gátról volt híres."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Saba népe",
+        "Az Árok Emberei",
+        "A kút társai",
+        "Tubba népe",
+        "Midián népe"
+      ],
+      "answer": "Saba népe"
+    },
+    "trial": {
+      "label": "A bukásunk",
+      "options": [
+        "Árvíz egy átszakadó gátból",
+        "Erős szél fújt az égből",
+        "Tűzárokban égve",
+        "Egy hatalmas földrengés",
+        "Fulladás egy nagy árvízben"
+      ],
+      "answer": "Árvíz egy átszakadó gátból"
+    },
+    "location": {
+      "label": "Kulcs helye",
+      "options": [
+        "A Ma'rib-gát",
+        "Sínai-hegy",
+        "A hét alvó barlangja",
+        "Az égő csipkebokor",
+        "A tenger kettéhasadása"
+      ],
+      "answer": "A Ma'rib-gát"
+    },
+    "outcome": {
+      "label": "A sorsunk",
+      "options": [
+        "Két keserű kert váltotta fel buja kertjeinket",
+        "A kertjeink még bujábbak lettek",
+        "A föld a tenger alá süllyedt",
+        "Vulkáni hamu temett el minket",
+        "Nemzetünk tizenkét törzsre szakadt"
+      ],
+      "answer": "Két keserű kert váltotta fel buja kertjeinket"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

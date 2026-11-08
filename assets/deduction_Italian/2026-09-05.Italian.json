@@ -1,0 +1,61 @@
+{
+  "title": "Lo splendore che affondò",
+  "intro": "Immaginate questa scena: un'anima avvolta in abiti sontuosi e circondata da tesori inimmaginabili. Quest'individuo credeva che la sua ricchezza fosse frutto del proprio genio, senza mai riconoscere la vera fonte del sostentamento. Camminando tra i seguaci di un potente profeta, questa persona rifiutò ogni invito all'umiltà. Oggi sveliamo l'identità di una figura la cui magnifica fortuna divenne il suo luogo di riposo finale.",
+  "clues": [
+    "Ho vissuto all'epoca di un profeta che chiamava alla verità una nazione ostinata.",
+    "Facevo parte di una comunità eletta, eppure il mio cuore si è allontanato dal messaggio.",
+    "L'oro e l'argento mi affascinavano più di qualsiasi comandamento divino.",
+    "I miei caveau del tesoro divennero così vasti che un gruppo di uomini robusti riusciva a malapena a sollevare le chiavi.",
+    "Mi vantavo di aver acquisito la mia ricchezza grazie alla mia conoscenza.",
+    "Alla fine, io e tutta la mia abitazione fummo inghiottiti dalla terra come monito."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Arroganza per la ricchezza e rifiuto della carità",
+        "Forgiare un idolo d'oro da gioielli fusi",
+        "Dichiarare la divinità su un regno potente",
+        "Persecuzione dei primi credenti alla Mecca",
+        "Guidare una campagna per distruggere la Casa Sacra"
+      ],
+      "answer": "Arroganza per la ricchezza e rifiuto della carità"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Tesori le cui chiavi gravavano su molti uomini forti",
+        "Un vitello dorato che produceva suono",
+        "Un trono glorioso proveniente da una terra lontana",
+        "Una trincea piena di fiamme ardenti",
+        "Un possente esercito di elefanti da guerra"
+      ],
+      "answer": "Tesori le cui chiavi gravavano su molti uomini forti"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Inghiottito dalla terra insieme all'abitazione",
+        "Annegato in mare con un esercito",
+        "Bruciato vivo in una fossa di fuoco",
+        "Distrutto da un vento ululante e impetuoso",
+        "Colpito da un singolo, potente colpo"
+      ],
+      "answer": "Inghiottito dalla terra insieme all'abitazione"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

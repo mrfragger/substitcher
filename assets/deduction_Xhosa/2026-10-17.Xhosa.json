@@ -1,0 +1,61 @@
+{
+  "title": "Ulangazelelo kwiGumbi eliNgcwele",
+  "intro": "Ungena kwindawo engcwele ezolileyo uze ubone umkhonzi ka-Allah ozinikeleyo emi ethandaza. Izandla zabo ziphakanyisiwe, amehlo abo aphakanyisiwe, kwaye iintliziyo zabo zithwele umnqweno oye waqhubeka ubomi babo bonke. Ngubani lo mphefumlo onomonde okholose ku-Allah olungazange lugungqiswe?",
+  "clues": [
+    "Ndichithe iminyaka emininzi ndinqula kwaye ndithandaza, ndibona imimangaliso eyaqinisa ukholo lwam.",
+    "Ndanikwa uxanduva lokunyamekela umphefumlo oselula osikelelekileyo kwindawo engcwele.",
+    "Njengoko ndandikhula, eyona ntlungu yam yayikukuba ndandingenamntwana, kuba umfazi wam wayeyinyumba kwaye sobabini sasisele sikhulile.",
+    "Ndathandaza eNkosini yam ukuba ndifumane umlandeli ovela kusapho lwam, umntu owayeza kuqhubeka nelifa lobuprofeti.",
+    "Ndithe ndimi kwindawo yokuthandaza, iingelosi zandibiza, zisithi, ‘UAllah ukunike iindaba ezimnandi’, ndaza ndoyika kakhulu.",
+    "Ndaxelelwa ukuba ndiza kuba nonyana ogama linguYahya, igama elingazange linikwe mntu ngaphambili, kwaye njengomqondiso wokuba andizukuthetha nabantu kangangeentsuku ezintathu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uZakariya",
+        "Umprofeti uYahya",
+        "Umprofeti uIsa",
+        "Umprofeti uDawud",
+        "ULuqman Isilumko"
+      ],
+      "answer": "Umprofeti uZakariya"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukungafumani bantwana nokwaluphala ngelixa unqwenela indlalifa elungileyo",
+        "Ukuphoswa emlilweni ovuthayo",
+        "Ukuginywa yintlanzi enkulu",
+        "Ukulahlekelwa bubukumkani ngumtyholi",
+        "Ukugxothwa kwilizwe lakowenu"
+      ],
+      "answer": "Ukungafumani bantwana nokwaluphala ngelixa unqwenela indlalifa elungileyo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Indawo yokuthandaza (i-mihrab)",
+        "Inqanawa enkulu (iTyeya)",
+        "Isihlahla esitshayo",
+        "Intonga eyajika yaba yinyoka",
+        "Inkamela yenkamela ka-Allah"
+      ],
+      "answer": "Indawo yokuthandaza (i-mihrab)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Wanikwa unyana olilungisa waza wathetha kwakhona emva kweentsuku ezintathu zokuthula",
+        "Utshatyalaliswe ngumkhukula ngenxa yokungakholelwa",
+        "Unikwe ubukumkani obukhulu kunye nolawulo lomoya",
+        "Uhlangulwe esiswini sentlanzi",
+        "Iginywe ngumhlaba"
+      ],
+      "answer": "Wanikwa unyana olilungisa waza wathetha kwakhona emva kweentsuku ezintathu zokuthula"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

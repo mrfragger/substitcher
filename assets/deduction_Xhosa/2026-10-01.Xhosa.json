@@ -1,0 +1,61 @@
+{
+  "title": "Ukuthetha Kuye",
+  "intro": "Kuvela umntu kwimbali engcwele, ephethe imimangaliso eyayichasene nomyalelo wendalo. Lo mphefumlo ufike ngomyalelo omnye kaThixo, wakhusela umzali kwizityholo ezinzulu, waza wemka kweli hlabathi ngaphambi kokuba amatyathanga asemhlabeni awabophe. Ibali liqala ebuntwaneni obuphantsi ukuya emazulwini aphezulu. Ngubani lo?",
+  "clues": [
+    "Ndithunywe njengomqondiso nenceba evela kuAllah kuBantwana bakwaSirayeli.",
+    "Ukufika kwam kwakungafani nakuqala — ndazalwa ligama likaThixo elithi 'Yiba!' ngaphandle kotata wasemhlabeni.",
+    "Umzali wam wadibana nokuhletywa okuqatha, kodwa isityhilelo esingcwele sehla ukuze sivakalise ubumsulwa babo size siphakamise isikhundla sabo.",
+    "Njengosana olusandul’ ukuzalwa, ndabamangalisa abo babendingqongile ngokuthetha ngokucacileyo ukususela ebuntwaneni bam ukuze ndihlambulule igama lomzali wam.",
+    "Ngemvume ka-Allah, ndabumba ubomi ngodongwe olungaphiliyo, ndavula amehlo kwiimfama, ndaza ndaphilisa umntu oneqhenqa ngokumchukumisa kwam.",
+    "Ndanyuselwa ezulwini ngaphambi kokuba ingozi indichaphazele, kwaye ndiza kubuyela kweli hlabathi ngaphambi kokuba iXesha lokugqibela lifike."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uIsa",
+        "Umprofeti uMusa",
+        "Umprofeti uIbrahim",
+        "Umprofeti uYusuf",
+        "Umprofeti uDawud"
+      ],
+      "answer": "Umprofeti uIsa"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuthetha ukususela ebuntwaneni bakhe njengosana",
+        "Ukusinda esiswini sentlanzi enkulu",
+        "Ukuphoswa emlilweni ovuthayo",
+        "Ukwakha umkhombe omkhulu ngaphambi komkhukula",
+        "Ukujamelana nobugqwirha benkundla kaFaro"
+      ],
+      "answer": "Ukuthetha ukususela ebuntwaneni bakhe njengosana"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "I-Injeel (IiVangeli)",
+        "I-Tawrah (iTorah)",
+        "I-Zabur (iiNdumiso)",
+        "ISuhuf (Imiqulu ka-Ibrahim)",
+        "Intonga eyahlula ulwandle"
+      ],
+      "answer": "I-Injeel (IiVangeli)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Unyuselwe emazulwini, uya kubuya ngaphambi koMhla woMgwebo",
+        "Wakhokela abantwana bakwaSirayeli ukuba baphume eJiputa",
+        "Waba ngukumkani olawula iijin, abantu neentaka",
+        "Ndasinda kwisikhukula esikhulu kunye nabantu abathembekileyo",
+        "Wakha indlu engcwele eMecca"
+      ],
+      "answer": "Unyuselwe emazulwini, uya kubuya ngaphambi koMhla woMgwebo"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

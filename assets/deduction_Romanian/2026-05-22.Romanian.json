@@ -1,0 +1,61 @@
+{
+  "title": "Ascensiunea Visătorului",
+  "intro": "Un suflet destinat măreției, dar testat prin încercări severe, a pornit într-o călătorie extraordinară. Calea acestui individ a fost marcată de gelozie, separare și suferință nedreaptă, doar pentru a culmina într-o poziție de imensă responsabilitate și o profundă reuniune. Poți identifica această figură remarcabilă din Coran?",
+  "clues": [
+    "Am fost odată invidiat de cei mai apropiați mie, ceea ce a dus la o separare profundă de părinții mei și de casă.",
+    "Am trecut printr-o perioadă de mari dificultăți, inclusiv prin faptul că am fost vândut pe un preț mic de către călători.",
+    "Am fost acuzat pe nedrept de o faptă rea și am petrecut ani de zile în închisoare, totuși credința mea a rămas neclintită.",
+    "Mi s-a acordat o abilitate unică de a interpreta viziuni complexe, care s-a dovedit a fi esențială în drumul meu spre libertate.",
+    "Înțelepciunea și integritatea mea m-au condus în cele din urmă la o poziție de mare autoritate și încredere într-o țară străină.",
+    "Printr-o serie de evenimente, m-am reunit cu părintele și frații mei în vârstă după o absență lungă și dureroasă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Sulaiman",
+        "Profetul Isa",
+        "Profetul Yusuf",
+        "Profetul Dawud",
+        "Profetul Yahya"
+      ],
+      "answer": "Profetul Yusuf"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A fi înghițit de un pește mare",
+        "Construirea unei Arche pentru a salva creația",
+        "Îndurarea acuzațiilor false și a închisorii",
+        "Confruntarea unui conducător tiran cu miracole",
+        "Testarea unei boli severe și a pierderii"
+      ],
+      "answer": "Îndurarea acuzațiilor false și a închisorii"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un rug aprins",
+        "O pasăre vorbitoare",
+        "O fântână",
+        "Un toiag care se transformă într-un șarpe",
+        "O cămilă ca semn"
+      ],
+      "answer": "O fântână"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Conducând o migrație către un tărâm făgăduit",
+        "Devenind un ministru puternic în Egipt",
+        "Primirea judecății divine asupra unui popor arogant",
+        "Conducând un vast regat cu înțelepciune și dreptate",
+        "Înălțându-se spre ceruri"
+      ],
+      "answer": "Devenind un ministru puternic în Egipt"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

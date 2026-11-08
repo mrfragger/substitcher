@@ -1,0 +1,61 @@
+{
+  "title": "Antzinako Haraneko Harri-tailatzaileak",
+  "intro": "Imajinatu Arabiako haran harritsuetan sortu zen zibilizazio bat, mendi-hegaletatik etxe bikainak zizelkatzen trebea. Indarrez eta artez loratu ziren, baina haien istorioa jainkozko abisuari egindako desafio hotzak markatuta dago. Haien istorioan murgiltzen zarenean, haien harrokeriak erabat suntsitzea ekarri zuen herri bat aurkituko duzu. Nor ziren?",
+  "clues": [
+    "Lautada harritsu eta amildegi garaiez osatutako lurralde bat jaso genuen oinordetzan, eta bertan gure etxebizitzak trebetasun paregabeaz eraiki genituen.",
+    "Mendietan etxe seguruak zizelkatzeagatik ginen ezagunak, edozein kaltetatik babestuta sentitzeagatik.",
+    "Gure artetik mezulari bat etorri zitzaigun, Alaren mesedeak gogoraraziz eta zigorraz ohartaraziz.",
+    "Seinale bat eskatu genuen, eta gamelu eme miragarri bat agertu zen harkaitzetik, Allahrengandik froga argi bat.",
+    "Abisuari muzin egin eta gamelu emeari hankak moztu genizkion, mezularia iseka eginez eta zigorra auzitan jarriz.",
+    "Eztanda bakar batek harrapatu gintuen gure etxeetan, eta goizerako lurrera etzanda geunden, inoiz bertan bizi izan ez bagina bezala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Thamudeko jendea",
+        "'Ad-eko jendea",
+        "Madyango jendea.",
+        "Nuh-eko jendea",
+        "Luteko jendea."
+      ],
+      "answer": "Thamudeko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gamelu emeari izterrak moztu zizkion",
+        "Sabatua hautsi zuen",
+        "Urrezko zekorra gurtu zuen",
+        "Bidali zien profeta hil zuten",
+        "Dorre bat eraiki zuen zerura iristeko"
+      ],
+      "answer": "Gamelu emeari izterrak moztu zizkion"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Gamelu emea",
+        "Arka",
+        "Langileak",
+        "Esku zuria.",
+        "Mana eta galeperrak"
+      ],
+      "answer": "Gamelu emea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Eztanda batek suntsitu zuen",
+        "Suntsipenetik salbatua.",
+        "Tximino bihurtuta.",
+        "Itsasoan itota.",
+        "Lurrak irentsia."
+      ],
+      "answer": "Eztanda batek suntsitu zuen"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Rösten från utkanten",
+  "intro": "Du står i en stad där tre budbärare har kommit med tydliga tecken, men folket hånar dem och klamrar sig fast vid sina gamla vanor. Från stadens yttersta del springer en gestalt mot folkmassan, andfådd och beslutsam, för att tala sanning inför avvisandet. Vem är denna själ som riskerade allt för ett budskap som inte var sitt eget?",
+  "clues": [
+    "Jag bodde bland ett folk som hade tagit emot budbärare med tydliga tecken, men de vände sig bort i arroganthet.",
+    "Jag kom springande från den yttersta delen av staden när jag hörde budbärarnas rop.",
+    "Jag sade till mitt folk: \"O mitt folk, följ budbärarna. Följ dem som inte begär någon belöning av er, ty de är rätt vägledda.\"",
+    "Jag var ingen profet, men jag trodde på budbärarna och uppmanade mitt folk att göra detsamma.",
+    "Mitt folk hånade mitt råd och anklagade mig för att vara extremist.",
+    "När de dödade mig, sa Allah åt mig att komma in i paradiset, och jag önskade att mitt folk kunde känna till den förlåtelse och ära jag fick."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Mannen från den avlägsna delen av staden (Ya-Sin)",
+        "En av de tre budbärarna som skickades till staden",
+        "En framstående köpman i staden",
+        "En härskare över staden",
+        "Ledaren för de icke-troende"
+      ],
+      "answer": "Mannen från den avlägsna delen av staden (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Predikar för sitt folk att följa budbärarna",
+        "Bygga ett skepp för att rädda troende från en översvämning",
+        "Att kastas i eld för trons skull",
+        "Att bli uppslukad av en val",
+        "Att få ett rike och visdom"
+      ],
+      "answer": "Predikar för sitt folk att följa budbärarna"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Den längst borta delen av staden",
+        "Arken",
+        "Brunnen",
+        "Den brinnande busken",
+        "Grottan"
+      ],
+      "answer": "Den längst borta delen av staden"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gick in i paradiset och önskade att hans folk kunde känna hans förlåtelse",
+        "Drunknade med sitt folk för att de avvisade budskapet",
+        "Fick ett mirakel av honkamelen",
+        "Blev härskare efter sin rättegång",
+        "Räddades av Allah och förblev hos sitt folk"
+      ],
+      "answer": "Gick in i paradiset och önskade att hans folk kunde känna hans förlåtelse"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Nagtakuban nga Konspirador",
+  "intro": "Makita nimo ang imong kaugalingon sa presensya sa usa ka gamhanang tawo gikan sa mga adlaw sa pagpadayag. Kini nga indibidwal nailhan tungod sa ilang kaalam, bahandi, ug kahimtang taliwala sa ilang katawhan. Sa dihang miabot ang klaro nga mga timaan, ilang giila ang katahum apan gipili ang pagsukol kaysa pagpasakop. Unsa ang nagtukmod niining kalag sa pagplano sa kangitngit, ug unsa ang ilang katapusang kapalaran?",
+  "clues": [
+    "Gipanalanginan ako og daghang mga kahinguhaan ug impluwensya, nga nagpabug-at sa akong pulong diha sa mga asembliya.",
+    "Sa dihang gilitok ang mga pulong sa diosnon, dili ko ikalimod ang ilang kabatid sa pagsulti, apan ang akong garbo wala motugot kanako sa pagpasakop.",
+    "Gitigom nako ang akong mga magtatambag, gilain ang akong kaugalingon aron maghunahuna og paagi aron pamatud-an nga sayop ang mensahe.",
+    "Human sa taas nga paghunahuna, akong giingon nga kini usa lamang ka 'mahika nga gipasa gikan sa nangagi' aron sa pagpatalikod sa mga tawo.",
+    "Ang pagpadayag direktang misulti kanako: 'Pasagdi Ako uban sa usa nga akong gibuhat nga mag-inusara.' Gipili ako tungod sa akong paglaraw.",
+    "Sa dili madugay, ang kalayo nga akong gipasidaan mosakmit sa akong agtang, ug wala na akoy kaikyasan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Nagkunsabo sa pagpatay sa Propeta",
+        "Nanguna sa boycott batok sa mga Muslim",
+        "Nagtigom og konseho aron ilhon ang Quran nga mahika",
+        "Nagplano sa pagpapahawa sa Propeta gikan sa Makkah",
+        "Nagdumili sa pagpaambit sa iyang bahandi sa mga ilo"
+      ],
+      "answer": "Nagtigom og konseho aron ilhon ang Quran nga mahika"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Pagpadayag",
+        "Ang Konseho",
+        "Ang Forelock",
+        "Ang Bahandi",
+        "Ang Bolpen"
+      ],
+      "answer": "Ang Forelock"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naghinulsol siya ug midawat sa Islam",
+        "Mibalhin siya sa Abyssinia",
+        "Nataptan siya sa usa ka makamatay nga sakit",
+        "Namatay siya sa gubat batok sa mga Muslim",
+        "Gisilotan siya sa Impyerno"
+      ],
+      "answer": "Gisilotan siya sa Impyerno"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

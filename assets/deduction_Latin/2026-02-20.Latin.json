@@ -1,0 +1,61 @@
+{
+  "title": "Testis Ignis",
+  "intro": "Homo profundus, realitati ultimae detegendae dedicatus, iter inventionis spiritualis suscepit. Eorum firma persuasio eum ad normas constitutas provocandas impugnavit, immensis probationibus subeundo quae limites fidei tentabant. Historia huius animae testimonium est divinae protectionis et ducatus.",
+  "clues": [
+    "Benedectus sum titulo singulari a Domino meo, significans vinculum profundum et speciale.",
+    "Prima vita mea inter populum qui simulacris artificiosis adorabat acta est, sed cor meum ad unum Deum verum desiderabat.",
+    "Corpora coelestia, solem, lunam et stellas observavi, eorum ortum et occasum contemplans, concludens ea Dominum meum esse non posse.",
+    "In actu contemptus polytheismi late diffusi, falsos deos obstiti, solitarium, maiorem, intactum, quasi accusatorem tacitum relinquens.",
+    "Provocatio mea ad idololatriam ad gravem poenam duxit, cum damnatus sim ad infernum furentem praecipitandum.",
+    "Attamen, iussu Creatoris mei, flammae intensae in fontem refrigerationis et salutis conversae sunt, vitam meam servantes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Musa",
+        "Propheta Nuh",
+        "Propheta Ibrahim",
+        "Propheta Isaias",
+        "Propheta Iosue"
+      ],
+      "answer": "Propheta Ibrahim"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Transitus Maris Rubri",
+        "Diluvium",
+        "Sacrificium Filii",
+        "Ardens Experimentum",
+        "Venter Balaenae"
+      ],
+      "answer": "Ardens Experimentum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Tuba",
+        "Ignis",
+        "Puteus"
+      ],
+      "answer": "Ignis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Homines ad salutem duxit",
+        "Magnum regnum hereditate accepit",
+        "A pisce deglutitus est",
+        "Servatus est ab incendio",
+        "Tabulas accepi"
+      ],
+      "answer": "Servatus est ab incendio"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

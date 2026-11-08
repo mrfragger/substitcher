@@ -1,0 +1,61 @@
+{
+  "title": "Pasyan an",
+  "intro": "Sa gen lontan, nan premye jou listwa limanite, de nanm te kanpe devan Kreyatè yo a ak ofrann. Youn te aksepte, lòt la pa t aksepte. Sa ki te vin apre a t ap vin premye gwo trajedi ant frè ak sè - yon zak kontwòl pasyans ak yon zak revanj anmè. Èske ou ka dekouvri kiyès mwen ye?",
+  "clues": [
+    "Mwen fèt nan premye jou egzistans limanite sou tè a",
+    "Mwen te pitit premye pè moun ki te janm mache sou tè sa a",
+    "Yon fwa mwen te ofri yon sakrifis nan pi bon mouton m yo pou m te fè Kreyatè m nan plezi.",
+    "Yo te aksepte ofrann mwen an ki soti anwo a, alòske yo te rejte ofrann frè ak sè mwen an.",
+    "Lè m te menase lanmò, m te chwazi pou m pa leve men m sou frè m ak sè m nan.",
+    "Mwen vin premye moun nan tout listwa limanite ki te mouri enjisteman pa yon lòt moun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Abil (Abèl), pitit gason Adan",
+        "Qabil (Kayen), pitit gason Adan",
+        "Adan, premye moun nan",
+        "Nouh (Noe)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Abil (Abèl), pitit gason Adan"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Premye asasina nan listwa limanite",
+        "Gwo inondasyon Nouh la",
+        "Destriksyon lame Fir'awn nan",
+        "Sakrifis Ismail pa Ibrahim",
+        "Batay kont Jalut (Golyat)"
+      ],
+      "answer": "Premye asasina nan listwa limanite"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon mouton yo ofri kòm yon sakrifis ki fè plezi",
+        "Yon gwo lach an bwa",
+        "Yon baton ki tounen yon sèpan",
+        "Yon zwazo hoopoe k ap pote yon mesaj wayal",
+        "Yon twou dife k ap flache"
+      ],
+      "answer": "Yon mouton yo ofri kòm yon sakrifis ki fè plezi"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Li te vin premye viktim asasina nan listwa limanite",
+        "Siviv yon gwo inondasyon andedan yon veso an bwa",
+        "Te viv nan vant yon gwo pwason",
+        "Te dirije sou djinn, moun, ak van an",
+        "Mwen te mache pandan karant ane nan yon gwo dezè"
+      ],
+      "answer": "Li te vin premye viktim asasina nan listwa limanite"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

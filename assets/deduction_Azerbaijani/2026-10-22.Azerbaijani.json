@@ -1,0 +1,61 @@
+{
+  "title": "İlk Günahın İcması",
+  "intro": "Qədim şəhərlər diyarında bir vaxtlar bir xalq çiçəklənirdi. Onlara aydın bir çağırışla bir elçi gəlmişdi, lakin onlar üz döndərib heç kimin getmədiyi bir yola davam etdilər. Onların hekayəsi üsyankarlıq, pozğunluq və vətənlərini düşünən hər kəs üçün bir ibrət olaraq tərk edən bir cəza haqqındadır. Bu ruhlar kimlərdir?",
+  "clues": [
+    "Biz düzənlik şəhərlərində yaşayırdıq, peyğəmbərimiz bizi haqqa çağırırdı.",
+    "Biz bütün aləmlərdə heç kimin etmədiyi bir iyrəncliyi edən ilk insanlar olduq.",
+    "Biz səyyahları yoldan çıxardıq və məclislərimizdə açıq-aşkar pislik etdik.",
+    "Bizə göndərilən elçini rədd etdik və onu torpağımızdan qovmaqla hədələdik.",
+    "Biz onun evinə qaçdıq və qonaqlarını bizə təslim etməsini tələb etdik.",
+    "Cəzamız daş yağışı kimi yağdı və şəhərimiz alt-üst oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Lut qövmü",
+        "Nuh qövmü",
+        "Ad xalqı",
+        "Səmud xalqı",
+        "Mədyən xalqı"
+      ],
+      "answer": "Lut qövmü"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İlk sodomiya aktını törətdi",
+        "İbadət edilən bütlər",
+        "Ticarətdə aldadılıb",
+        "Peyğəmbərlərini öldürdülər",
+        "Valideynlərinə itaətsizlik etdilər"
+      ],
+      "answer": "İlk sodomiya aktını törətdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Düzənlik şəhəri",
+        "Quyu şəhəri",
+        "Xəndək şəhəri",
+        "Fil şəhəri",
+        "Bağ şəhəri"
+      ],
+      "answer": "Düzənlik şəhəri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Daşlarla yağdı və aşdı",
+        "Daşqın nəticəsində boğulub",
+        "Şiddətli küləklə məhv edildi",
+        "Torpaq tərəfindən udulmuş",
+        "Güclü bir partlayışın təsirindən"
+      ],
+      "answer": "Daşlarla yağdı və aşdı"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

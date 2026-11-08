@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kairangahau Pono Whakaiti",
+  "intro": "I tētahi whenua o te mana tawhito me te makutu, ka puta he pakanga nui. Kei tētahi taha te mana o ngā tohu atua, ko tētahi taha ia e ngana ana ki te whakataurite i te mea kāore e taea. Mā te mutunga ka huri te huarahi o te hītori ake ake. Ka taea e koe te hura i te tuakiri o te hunga i kite i te pono mutungakore, ā, i whakaiti i a rātou anō ki mua i a ia?",
+  "clues": [
+    "I kite mātou i ngā tohu i tua atu i ngā mahi tinihanga a te makutu",
+    "I takoto katoa mātou, kāore i taea te whakakahore i te pono",
+    "I mōhio mātou i ahu mai ēnei tohu i te Atua Pono Kotahi",
+    "Ko mātou te hapori tuatahi ki te awhi i te whakapono i roto i tēnei huarahi whakamiharo",
+    "I whakaaria mai ki a tātou te rangimārie hei utu mō tō tātou whakapono",
+    "I rite ā mātou taura me ā mātou tokotoko ki ngā nakahi i mua i ō mātou kanohi, heoi i whiriwhiria e mātou te ngohengohe"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā tohunga makutu a Parao",
+        "Te iwi o te Poropiti a Ihāperahāma",
+        "Te hunga e rapu ana i te pono me te ngākau mahaki",
+        "Te Iwi o te Ana",
+        "Te iwi o Kuini Bilqis"
+      ],
+      "answer": "Ngā tohunga makutu a Parao"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tūtakitanga ki te tokotoko a te Poropiti a Mohi",
+        "Te whakamātautau i te hau o te Poropiti a Huta",
+        "Te wero mai i te kamera uha a te Poropiti a Salih",
+        "I tukuna mai e te waipuke nui ki runga i tētahi poropiti",
+        "Te haerenga a te poropiti i roto i te tohorā"
+      ],
+      "answer": "Te tūtakitanga ki te tokotoko a te Poropiti a Mohi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Īhipa Tawhito",
+        "Te whare tapu i Makkah",
+        "Te tāone o Miriana",
+        "Te koraha o te Thamud",
+        "Te ana o ngā moe tawhito"
+      ],
+      "answer": "Īhipa Tawhito"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Pararaiha hei utu mō rātou",
+        "Te whiu i te urupā",
+        "Te ngaronga o ā rātou māra momona",
+        "Te whakangaromanga e te rū whenua ohorere",
+        "Te whakaoranga mai i tētahi tohorā nui"
+      ],
+      "answer": "Pararaiha hei utu mō rātou"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

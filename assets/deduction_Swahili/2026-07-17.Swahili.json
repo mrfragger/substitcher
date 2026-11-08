@@ -1,0 +1,61 @@
+{
+  "title": "Waumini Walioahidiwa",
+  "intro": "Nabii aliyeheshimiwa alitembea miongoni mwa watu, akiwaita kuelekea ukweli. Wengi waligeuka kwa ukaidi, lakini kundi dogo la watu waliojitolea waliitikia wito huo na kujiapiza kwa moyo wote. Walijaribiwa kwa mashaka na wakathubutu kutafuta riziki ya mbinguni. Ujitoaji wao usioyumba ukawa somo lisilopitwa na wakati katika imani. Walikuwa akina nani?",
+  "clues": [
+    "Tulikuwa kikundi kidogo kilichoinuka kuunga mkono utume wa kimungu katika wakati wa kutoamini kulioenea.",
+    "Nabii mheshimiwa alikuja na kutuita tusimame kama washirika katika njia ya Mwenyezi Mungu.",
+    "Mtume alipouliza ni nani atakayekuwa wafuasi wa Mungu, tulijibu bila kusita.",
+    "Tulithubutu kuomba karamu ya kimiujiza itumwe kutoka mbinguni ili kuimarisha mioyo yetu.",
+    "Nabii wetu alitukumbusha kumheshimu Mwenyezi Mungu ikiwa tulikuwa waumini wa kweli, lakini ombi letu la unyenyekevu liliheshimiwa.",
+    "Tulikuwa wandani waliojitolea walioahidi imani isiyoyumba pamoja na Isa, mwana wa Maryam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Hawariyyun (Wanafunzi wa Isa)",
+        "Ashab al-Kahf (Watu wa Pango)",
+        "Watu wa Madyan",
+        "Watu wa Thamud",
+        "Masahaba wa Talut (Sauli)"
+      ],
+      "answer": "Hawariyyun (Wanafunzi wa Isa)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuombwa kuwa wafuasi wa njia ya Mwenyezi Mungu",
+        "Kushuhudia mjadala wa mtawala na nabii",
+        "Kuamriwa kumwachilia ngamia jike wa kimiujiza",
+        "Kukimbilia pangoni ili kuepuka mateso",
+        "Kuvuka mto kujaribu utii"
+      ],
+      "answer": "Kuombwa kuwa wafuasi wa njia ya Mwenyezi Mungu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Meza iliyopangwa kutoka mbinguni (Mawlidah)",
+        "Safina kubwa juu ya maji ya gharika",
+        "Ngamia jike aliyetoka kwenye mwamba",
+        "Fimbo iliyobadilika na kuwa nyoka",
+        "Jumba lililoinuliwa linalofikia angani"
+      ],
+      "answer": "Meza iliyopangwa kutoka mbinguni (Mawlidah)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Tukawa waumini imara na wenye ushindi",
+        "Tuliangamizwa kwa adhabu kutoka juu",
+        "Tulizama katika mafuriko makubwa",
+        "Tulilala pangoni kwa mamia ya miaka",
+        "Tulizuiliwa kuingia katika nchi takatifu"
+      ],
+      "answer": "Tukawa waumini imara na wenye ushindi"
+    }
+  },
+  "verseRef": "61:14",
+  "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+  "verse": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant. (61:14)"
+}

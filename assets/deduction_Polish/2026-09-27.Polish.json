@@ -1,0 +1,61 @@
+{
+  "title": "Ogród, który zniknął z dnia na dzień",
+  "intro": "Wyobraź sobie bujny ogród, uginający się pod ciężarem dojrzewających owoców i otoczony strzelistymi drzewami. Ci, którzy go pielęgnowali, uważali się za sprytnych, planując zbiory w ciszy przed świtem, z dala od oczu potrzebujących. Ale Ten, który nigdy nie śpi, miał inne plany co do ich ukrytego bogactwa. Czy zgadniesz, kto stoi za tą przestrogą z Koranu?",
+  "clues": [
+    "Kiedyś mieliśmy ogród tak bujny i pełen kwiatów, że był obiektem zazdrości wszystkich przechodniów.",
+    "Podczas planowania szeptaliśmy do siebie już wczesnym rankiem, oświadczając, że tego dnia żadna potrzebująca dusza nie będzie wpuszczona na teren ośrodka.",
+    "Byliśmy ludźmi zamożnymi, a nasze serca stały się ślepe na prawa biednych wokół nas.",
+    "Gdy nastał świt planowanych zbiorów, zbliżyliśmy się do naszego ogrodu, który w ciągu nocy zamienił się w poczerniałą ruinę.",
+    "Weszła w życie katastrofalna ustawa, po której w miejscu, gdzie kiedyś wisiały grona dojrzałych owoców, pozostał jedynie popiół.",
+    "Nasza opowieść jest surowym ostrzeżeniem zapisanym w Koranie, gdzie jesteśmy znani jako właściciele ogrodu, którzy odmawiali dawania jałmużny potrzebującym."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Właściciele ogrodu",
+        "Ludzie jaskini",
+        "Uczniowie Izajasza",
+        "Towarzysze Lasu",
+        "Goście Ibrahima"
+      ],
+      "answer": "Właściciele ogrodu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Potajemne zbieranie owoców i blokowanie dostępu biednym",
+        "Spanie przez stulecia w jaskini",
+        "Odmowa wykonania wielbłądzicy z kamienia",
+        "Oddawanie czci złotemu cielcowi na górze Synaj",
+        "Budowa wielkiej arki, aby uciec przed potopem"
+      ],
+      "answer": "Potajemne zbieranie owoców i blokowanie dostępu biednym"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Otoczony murem ogród pełen palm i winorośli",
+        "Ciemna jaskinia głęboko w górach",
+        "Miasto nawiedzone przez boski huragan",
+        "Święta dolina w pobliżu Domu Allaha",
+        "Brzegi płynącej rzeki"
+      ],
+      "answer": "Otoczony murem ogród pełen palm i winorośli"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Ogród został strawiony przez palący wyrok z nieba",
+        "Spali spokojnie przez 309 lat księżycowych",
+        "Zmiażdżył ich deszcz kamieni",
+        "Utonęli pod falami wielkiej powodzi",
+        "Rozproszył ich podmuch zimnego, wściekłego wiatru"
+      ],
+      "answer": "Ogród został strawiony przez palący wyrok z nieba"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

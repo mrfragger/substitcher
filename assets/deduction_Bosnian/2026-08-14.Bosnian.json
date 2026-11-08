@@ -1,0 +1,61 @@
+{
+  "title": "Proklete ruke",
+  "intro": "Stojite u krivudavim uličicama drevne Meke, gdje se duša od utjecaja i bogatstva nekada okrenula od poziva istine. Priča ove osobe je oštar podsjetnik da krvne veze ne mogu nadvladati okove ponosa. Ko je ovaj čije ime odjekuje vatrom koja čeka?",
+  "clues": [
+    "Hodao sam ulicama Meke s ponosom koji me je zaslijepio za istinu, iako je glasnik bio moje krvi.",
+    "Moje imetke su bile ogromne, ali su postale prokletstvo, a ne štit.",
+    "Knjiga smjernica govori o mojoj propasti, proglašavajući da će moje ruke i moje tijelo propasti.",
+    "Moj suprug se pridružio mojoj neprijateljskoj kampanji, skupljajući trnje kako bi ga posijao po putu onoga koji je pozivao Allaha.",
+    "Na dan suda, bit ću bačen u plamteću vatru, a moj suprug će imati uže od palminih vlakana oko vrata.",
+    "Poznat sam po imenu koje znači 'otac plamena' - ime koje predviđa moje vječno prebivalište."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ebu Lehab",
+        "Ebu Džehl",
+        "Ebu Talib",
+        "Ebu Sufjan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Ebu Lehab"
+    },
+    "trial": {
+      "label": "Ključno suđenje ili događaj",
+      "options": [
+        "Suprotstavio se Poslaniku i bio je proklet u Kur'anu",
+        "Predvodio je vojsku da uništi Kabu",
+        "Pokušao je ubiti Poslanika bacanjem kamenja",
+        "Odbijao je vjerovati u cijepanje Mjeseca",
+        "Izgradio je toranj da dosegne nebesa"
+      ],
+      "answer": "Suprotstavio se Poslaniku i bio je proklet u Kur'anu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Plamteća vatra pakla",
+        "Musin štap",
+        "Nuhova barka",
+        "Bunar Zemzam",
+        "Zlatno tele"
+      ],
+      "answer": "Plamteća vatra pakla"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ući će u goruću vatru i bogatstvo mu neće biti od koristi.",
+        "Pokajao se i postao vjernik",
+        "Oprošteno mu je nakon što se odrekao",
+        "Umro je kao mučenik",
+        "Bio je uznesen na nebesa"
+      ],
+      "answer": "Ući će u goruću vatru i bogatstvo mu neće biti od koristi."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

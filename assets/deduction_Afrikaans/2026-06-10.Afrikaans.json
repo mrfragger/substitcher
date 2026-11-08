@@ -1,0 +1,61 @@
+{
+  "title": "Die Tuin se Bewakers",
+  "intro": "In 'n welige tuin het 'n gemeenskap 'n plegtige gelofte afgelê. Maar hul vasberadenheid is getoets toe goddelike wil ingegryp en hul oorvloed in 'n dorre land omskep het.",
+  "clues": [
+    "Ons was geseën met 'n oorvloedige tuin, maar ons het arrogant geword.",
+    "Ons het 'n plan gemaak om te oes sonder om met die armes te deel.",
+    "Ons het vroegoggend vertrek, vol vertroue in ons plan.",
+    "Maar toe ons daar aankom, het ons gevind dat ons tuin oornag vernietig is.",
+    "Ons het ons fout besef en mekaar begin blameer.",
+    "Ons het uiteindelik berou getoon, maar die les is te laat geleer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie is ons?",
+      "options": [
+        "Mense van die Tuin",
+        "Mense van die Grot",
+        "Mense van die Olifant",
+        "Mense van Thamud",
+        "Mense van 'Ad"
+      ],
+      "answer": "Mense van die Tuin"
+    },
+    "trial": {
+      "label": "Proefneming/Gebeurtenis",
+      "options": [
+        "'n Tuin het in as verander",
+        "'n Vloed wat alles vernietig het",
+        "'n Hongersnood wat die land getref het",
+        "'n Leër van voëls wat aanval",
+        "'n Groot wind wat bome ontwortel het"
+      ],
+      "answer": "'n Tuin het in as verander"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "'n Tuin",
+        "'n Grot",
+        "'n Skip",
+        "'n Berg",
+        "'n Paleis"
+      ],
+      "answer": "'n Tuin"
+    },
+    "outcome": {
+      "label": "Uitkoms",
+      "options": [
+        "Hulle het berou getoon, maar hulle tuin verloor",
+        "Hulle is heeltemal vernietig",
+        "Hulle is in ape verander",
+        "Hulle is deur geloof gered",
+        "Hulle het heersers geword"
+      ],
+      "answer": "Hulle het berou getoon, maar hulle tuin verloor"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

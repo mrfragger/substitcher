@@ -1,0 +1,61 @@
+{
+  "title": "Auzitegia isilarazi zuen egia",
+  "intro": "Ukazioa nagusi zen eta boterea absolutua zen jauregi batean, praktikatzaile trebeen talde bat ustekabeko erronka baten aurrean zegoen. Airea irrikaz txinpartatzen zen, gezurraren eta egiaren bi bideak talka egitear zeudela. Bildutakoek ez zekiten topaketa honek betiko eraldatuko zituela beren bizitzak eta beren istorioa testu sakratuan grabatuko zuela.",
+  "clues": [
+    "Ilusioetan genuen trebetasunagatik ginen ezagunak eta agintari boteretsu batek bildu gintuen erronkari bati aurre egiteko.",
+    "Unea iritsi zenean, gure instrumentuak bota eta emaitzaren zain egon ginen, gure ofizioan konfiantzaz.",
+    "Baina ikusi genuenak gure gailuak jostailu hutsak balira bezala utzi zituen, eta gure bihotzek ukaezina zen egia aitortu zuten.",
+    "Lurrera erori ginen aho bete hortz, Moises eta Aaronen Jaunarengan sinesten genuela aldarrikatuz, agintariaren haserrea gorabehera.",
+    "Agintari hark zigorrik basatienarekin mehatxatu gintuen, gurutziltzatu eta gorputz-adarrak kontrako norabideetan moztuko zizkigula zin eginez.",
+    "Irmo mantendu ginen, gure Jaunaren epaia nahiago genuela esanez munduko edozein ondorio baino, eta gure fedeagatik martirizatuak izan ginen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Faraoiaren aztiak.",
+        "Kobazuloko jendea",
+        "Basoko Lagunak.",
+        "Isa-ren dizipuluak",
+        "Elefantearen Jendea"
+      ],
+      "answer": "Faraoiaren aztiak."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Musaren aurkako magia lehiaketa",
+        "Sua bota diete gainera",
+        "Uholde batek ito zituen",
+        "Lehortea eta gosetea.",
+        "Lurrikara bat"
+      ],
+      "answer": "Musaren aurkako magia lehiaketa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Suge bihurtu ziren makilak eta sokak",
+        "Sasi erretzen ari den bat",
+        "Gamelu eme bat",
+        "Egurrezko kutxa bat.",
+        "Balea bat"
+      ],
+      "answer": "Suge bihurtu ziren makilak eta sokak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Fedeagatik exekutatua, Paradisua agindu zuen",
+        "Itsasoan itota.",
+        "Egiptoko agintari bihurtu ziren",
+        "Faraoiaren jarraitzaile geratu zirenak",
+        "Lurra heredatu zuen."
+      ],
+      "answer": "Fedeagatik exekutatua, Paradisua agindu zuen"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

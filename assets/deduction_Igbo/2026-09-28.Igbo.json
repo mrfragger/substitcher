@@ -1,0 +1,61 @@
+{
+  "title": "Kpakpando Iri na Otu Ndị Kpọọrọ Isi",
+  "intro": "E nyere onye a hụrụ n'ime Quran ọhụụ miri emi n'oge ọ bụ nwata - nrọ nke ihe ndị dị n'eluigwe na-ehulata n'ụzọ nsọpụrụ. Afọ ga-agafe site na mgbara, nkewa, ebubo ụgha, na mkpọrọ tupu ọhụụ a emee. Ònye bụ mkpụrụ obi a siri ike nke akụkọ ya dị n'isiakwụkwọ kachasị ogologo na Quran?",
+  "clues": [
+    "Mgbe m dị obere, a gọziri m nrọ pụrụ iche nke ọbụna nna m dọrọ m aka ná ntị ka m ghara izochi onwe m.",
+    "Ụmụnne m, ndị anyaụfụ kpuchiri anya ha, kpachara nkata megide m wee tụba m n'ime olulu mmiri gbara ọchịchịrị.",
+    "E bugara m n'ala dị anya wee ree m n'ụlọ otu onye ọrụ ọchịchị dị elu, ebe m nwetara ihu ọma ma nweta ibu ọrụ.",
+    "Ebubo ụgha dugara n'ịtụ m mkpọrọ n'ụzọ na-ezighị ezi, mana n'ebe gbara ọchịchịrị ahụ, enwetara m nkasi obi site n'ekpere na ịkpọ isiala nye Allah.",
+    "Allah gọziri m site n'ike pụrụ iche nke ịkọwa nrọ, nke mechara kpọga m n'ihu onye na-achị ala ahụ ma bulie m elu n'ọkwá dị elu nke ntụkwasị obi.",
+    "Mgbe ọtụtụ afọ nkewachara m, e jikọtara m na ezinụlọ m hụrụ n'anya, nrọ m mgbe m bụ kpakpando iri na otu, anyanwụ, na ọnwa na-akpọ isiala nye m mechara mezuo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Josef",
+        "Onye Amụma Salih",
+        "Onye Amụma Ilyas",
+        "Tubba', onye na-achị Himyar oge ochie",
+        "Onye ọzụzụ atụrụ dị umeala n'obi si n'ugwu Palestine"
+      ],
+      "answer": "Onye Amụma Josef"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ụmụnna na-enwere anyaụfụ tụbara n'ime olulu mmiri miri emi, gbara ọchịchịrị",
+        "Nnukwu anụ ọhịa nke oké osimiri miri emi loro ya",
+        "Ndị na-ekpere arụsị tụbara ha n'ọkụ na-ere ọkụ",
+        "Ịbụ onye ifufe mbibi Chineke kpụpụrụ",
+        "Ịlanarị nnukwu idei mmiri nke kpuchiri ala ahụ dum"
+      ],
+      "answer": "Ụmụnna na-enwere anyaụfụ tụbara n'ime olulu mmiri miri emi, gbara ọchịchịrị"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Olulu mmiri kpọrọ nkụ n'ọzara ebe a gbahapụrụ m",
+        "Azụ̀ dị ukwuu nke oké osimiri miri emi",
+        "Ụgbọ buru ibu e wuru n'iwu Chineke",
+        "Ụlọ elu e wuru iji ruo eluigwe",
+        "Ọkụ dị nsọ nke jụrụ ire ọkụ"
+      ],
+      "answer": "Olulu mmiri kpọrọ nkụ n'ọzara ebe a gbahapụrụ m"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "M laghachiri azụ na ezinụlọ m mgbe ọtụtụ afọ nkewa gasịrị ma ghọọ onye ụkọchukwu a pụrụ ịtụkwasị obi",
+        "Duru ndị m si n'oké osimiri gbapụ nke ukwuu",
+        "Dọrọ mba m aka ná ntị maka mbibi na-abịa nke ga-ebibi ha",
+        "Wuru ụlọ nsọ nke ghọrọ ebe nsọ maka mmadụ niile",
+        "O si n'afọ nnukwu ihe e kere eke pụta n'enweghị nsogbu mgbe ụbọchị atọ gachara"
+      ],
+      "answer": "M laghachiri azụ na ezinụlọ m mgbe ọtụtụ afọ nkewa gasịrị ma ghọọ onye ụkọchukwu a pụrụ ịtụkwasị obi"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lõppväljapaneku päev",
+  "intro": "Kutsutud suurejoonelisele võimudemonstratsioonile, leidis grupp osavaid esinejaid end ootamatu tõe ees, mis muutis nende elu igaveseks.",
+  "clues": [
+    "Me olime tuntud oma oskuste poolest, illusioonide ja pettuste meistrid.",
+    "Valitseja kutsus meid vastamisi väljakutsujaga, kellel oli käes lihtne kepp.",
+    "Kui me tõde nägime, langesime põlvili ja kuulutasime usku maailmade Issandasse.",
+    "Türann ähvardas meid ränga karistusega, aga me ei kõhelnud.",
+    "Me olime esimeste seas, kes pärast selge märgi nägemist sõnumisse uskusid.",
+    "Meid suri märtriks oma usu pärast, aga me oleme esimesed, kes sisenevad paradiisi koos õigemeelsetega."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Vaarao võlurid",
+        "Iisraellased",
+        "Thamudi rahvas",
+        "Jesa jüngrid",
+        "Abraha armee"
+      ],
+      "answer": "Vaarao võlurid"
+    },
+    "trial": {
+      "label": "Prooviversioon / üritus",
+      "options": [
+        "Võistlus prohvet Musaga",
+        "Torni ehitamine",
+        "Suur üleujutus",
+        "Rohutirtsukate katk",
+        "Lõhenev meri"
+      ],
+      "answer": "Võistlus prohvet Musaga"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Festivalipäev",
+        "Tuwa org",
+        "Irami linn",
+        "Igaviku aed",
+        "Arafati tasandik"
+      ],
+      "answer": "Festivalipäev"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Nad löödi avalikult risti",
+        "Nad uppusid merre",
+        "Nad said prohveti järgijateks",
+        "Nad saadeti eksiili",
+        "Nad hävitati tules"
+      ],
+      "answer": "Nad löödi avalikult risti"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

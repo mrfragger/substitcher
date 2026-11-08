@@ -1,0 +1,61 @@
+{
+  "title": "O suplicante do santuario",
+  "intro": "Nas tranquilas horas da noite, unha alma devota invocou ao Máis Misericordioso dentro dos muros sagrados dun lugar sagrado. Anos de fe e paciencia inquebrantables estaban a piques de ser recompensados ​​cun milagre que traería alegría e un legado de profecía.",
+  "clues": [
+    "Pasei os meus días e as miñas noites en devoción dentro dun santuario sagrado, suplicando constantemente ao meu Señor.",
+    "Envellecín e a miña muller era estéril, pero nunca perdín a esperanza na misericordia de Alá.",
+    "Concedéronme un fillo, chamado Yahya, que se converteu nun profeta e nun faro de xustiza.",
+    "Eu mesmo fun un profeta, enviado para guiar os fillos de Israel.",
+    "Eu era descendente do profeta Harun e servía como sacerdote no Templo.",
+    "Confiáronme o coidado de Maryam, a nai de Isa, e fun testemuña dos seus milagres."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Zacarias",
+        "Profeta Yahya",
+        "Profeta Ilyas",
+        "Profeta Ishaq",
+        "Profeta Ya'qub"
+      ],
+      "answer": "Profeta Zacarias"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Concedéulle un fillo na vellez",
+        "Salvado dun incendio abrasador",
+        "Rescatado da barriga dun peixe",
+        "Sobreviviu a unha gran inundación",
+        "Curado dunha grave enfermidade"
+      ],
+      "answer": "Concedéulle un fillo na vellez"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O Mihrab (nicho de oración)",
+        "A Kaaba",
+        "A Sarza Ardente",
+        "A Arca da Alianza",
+        "A Cova dos Sete Durmientes"
+      ],
+      "answer": "O Mihrab (nicho de oración)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Concedéuselle un fillo xusto que se converteu en profeta",
+        "Destruído por unha violenta tormenta",
+        "Afogado no mar",
+        "Salvado de ser queimado",
+        "Volveron coa súa xente despois de seren salvados dun peixe"
+      ],
+      "answer": "Concedéuselle un fillo xusto que se converteu en profeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

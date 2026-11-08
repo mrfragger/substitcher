@@ -1,0 +1,61 @@
+{
+  "title": "La veu que cridava a la justícia",
+  "intro": "A l'antiga terra de Madian, on el comerç prosperava i les caravanes viatjaven per vasts deserts, un profeta d'Al·là va sorgir entre la gent que s'havia desviat del camí de la justícia. Aquest servent d'Al·là va ser enviat amb una missió divina que posaria a prova la fe de tota una comunitat. A través de proves de paciència i perseverança, aquesta ànima es va mantenir ferma en donar un avís que ressonaria al llarg de la història. Pots desentranyar el misteri d'aquest missatger inquebrantable?",
+  "clues": [
+    "Vaig ser escollit per Al·là per guiar un poble que havia oblidat els principis de justícia i honestedat en els seus tractes.",
+    "Vaig lliurar un missatge cridant la meva comunitat a adorar només Al·là i a parlar amb veritat en tots els assumptes.",
+    "Vaig advertir específicament contra la pràctica corrupta de consumir riquesa a través de mitjans il·legals i vaig emfatitzar la importància de pesos i mesures justes.",
+    "El meu poble va respondre als meus avisos amb burla, amenaçant d'expulsar-me de la seva terra si continuava amb el meu missatge.",
+    "Vaig romandre decidit en la meva missió malgrat la seva hostilitat, declarant que la meva recompensa és només amb Al·là.",
+    "El meu poble va ser castigat per un càstig devastador, mentre que jo vaig ser salvat per la misericòrdia del meu Senyor, ja que la meva missió es va complir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Xuaib",
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Lut",
+        "Profeta Mahoma (la pau i les pau siguin amb ell)"
+      ],
+      "answer": "Profeta Xuaib"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Enfrontant-se a un poble que va rebutjar la veritat i va amenaçar amb càstigs per transmetre el missatge d'Al·là",
+        "Presenciant el Gran Diluvi que va destruir els incrèduls d'una nació",
+        "Rebre revelacions mentre viatja per la vall de 笃",
+        "La prova de fe quan un governant opressor va intentar silenciar la crida al monoteisme",
+        "Una nació demanant pluja durant una greu sequera després d'anys de desobediència"
+      ],
+      "answer": "Enfrontant-se a un poble que va rebutjar la veritat i va amenaçar amb càstigs per transmetre el missatge d'Al·là"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La terra de Madian, on el meu poble feia el seu comerç",
+        "La coberta d'un gran vaixell que va salvar els creients d'una inundació catastròfica",
+        "Una cova en una muntanya rocosa on set joves van buscar refugi de la persecució",
+        "La ciutat sagrada de Jerusalem on em van portar en un viatge nocturn",
+        "Un palau a Saba on un gran regne es preparava per presenciar un senyal diví"
+      ],
+      "answer": "La terra de Madian, on el meu poble feia el seu comerç"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "El meu poble va ser castigat per un càstig terrible mentre jo estava salvat, perquè havia complert el meu deure envers Al·là",
+        "Els incrèduls es van convertir en simis quan van violar els límits sagrats d'Al·là",
+        "Els meus enemics van abraçar la fe després de presenciar una transformació miraculosa",
+        "La terra va ser beneïda amb pluja abundant i prosperitat després que el poble es penedís",
+        "Vaig ser martiritzat pel meu propi poble per negar-me a abandonar la meva missió"
+      ],
+      "answer": "El meu poble va ser castigat per un càstig terrible mentre jo estava salvat, perquè havia complert el meu deure envers Al·là"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

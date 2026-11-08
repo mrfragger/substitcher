@@ -1,0 +1,61 @@
+{
+  "title": "an cuardach réaltach ar chinnteacht",
+  "intro": "Samhlaigh tú féin i do sheasamh faoi spéir ollmhór na hoíche, ag breathnú ar shoilse geala ag éirí agus ansin ag imeacht agus tú ag cuardach an rud atá tuillte ag dílseacht i ndáiríre. Timpeall ort, faigheann íomhánna snoite ciúine moladh agus ofrálacha, ach ceistíonn réasún soiléir a gcumhacht. Tá guth gan eagla ar tí dúshlán a thabhairt don traidisiún oidhreachta agus díriú i dtreo Chruthaitheoir na bhflaitheas agus na talún.",
+  "clues": [
+    "D’fhéach mé ar na réaltaí, ar an ngealach, agus ar an ngrian, agus réasúnaigh mé nach bhféadfaidís a bheith i mo Thiarna mar go dtéann siad faoi agus as imíonn siad.",
+    "Shéan mé go hoscailte gach a ndearna mo mhuintir adhradh seachas Allah agus d'iarr mé orthu adhradh a thabhairt don Chruthaitheoir amháin.",
+    "Phléigh mé rialóir boastúil a mhaígh go dtugann sé beatha agus bás, agus d’fhreagair mé trí lua Allah ag tabhairt na gréine ón oirthear.",
+    "Bhuail mé na hiodail agus bhris mé iad, ag fágáil na cinn ba mhó ina measc ionas go bhféadfadh na daoine filleadh orthu.",
+    "Ghabh agus dhaor mo mhuintir mé, a dúirt leo struchtúr a thógáil agus mé a chaitheamh isteach sa tine lasrach.",
+    "Sábháladh mé nuair a d’ordaigh Allah don tine fionnuar agus sábháilteacht a thabhairt dom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Ibrahim (Abraham)",
+        "An Fáidh Yahya (Eoin)",
+        "An Fáidh Al-Yasa (Elisha)",
+        "An Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "An Fáidh Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Thug sé aghaidh ar adhradh íol agus phléigh sé brí na gcorp neamhaí",
+        "Slogadh é ag iasc mór tar éis dó imeacht i bhfeirg",
+        "Threoraigh lucht leanúna trí fharraige a scoilt Allah",
+        "Tógadh beo chun na bhflaitheas gan bhlas a fháil den bhás",
+        "Chodail sé i bpluais le compánaigh ar feadh blianta fada"
+      ],
+      "answer": "Thug sé aghaidh ar adhradh íol agus phléigh sé brí na gcorp neamhaí"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tine lasrach a rinne Allah fionnuar agus sábháilte",
+        "An áirc a thug creidmhigh tríd an tuile",
+        "An fhoireann a d’éirigh ina nathair",
+        "Scaip an tábla ó neamh",
+        "An camall baineann a seoladh mar chomhartha"
+      ],
+      "answer": "Tine lasrach a rinne Allah fionnuar agus sábháilte"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Cosanta ó thine agus sliocht fíréanta bronnta air",
+        "Báite le séantóirí i dtuilte móra",
+        "Claochlaithe as an tSabóid a shárú",
+        "Scriosta ag éin a bhí ag iompar clocha cré",
+        "Slogtha ag an talamh le seoda"
+      ],
+      "answer": "Cosanta ó thine agus sliocht fíréanta bronnta air"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

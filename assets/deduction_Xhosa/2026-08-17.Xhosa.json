@@ -1,0 +1,61 @@
+{
+  "title": "Ukugqitha eLwandle",
+  "intro": "Umi phezu kwentlabathi yonxweme olulityaliweyo, apho amaza ehlebeza uluntu oluvavanywa ngumyalelo kaThixo. Umoya unzima ngenkumbulo yokwaphulwa komthetho okwakhokelela kutshintsho olumangalisayo. Yayingoobani le miphefumlo, kwaye yayiluhlobo luni lovavanyo lwabo?",
+  "clues": [
+    "Sasiluluntu olwalufumene umyalelo ocacileyo kwiNkosi yethu, kodwa safumana iindlela zokuwuchasa.",
+    "Sasihlala kufutshane namanzi amaninzi, kwaye indlela esasiphila ngayo yayixhomekeke kwizidalwa zawo.",
+    "Uvavanyo lwafika kuthi ngomhla esayalelwa ukuba sizikhwebule kwizinto zehlabathi.",
+    "Izidalwa zasemanzini zeza kuthi ngobuninzi ngaloo mini, zisilinga ngendlela engaphaya kokunyamezela.",
+    "Saceba iqhinga lokweqa umyalelo kaThixo, sicinga ukuba singawudlula ngobulumko loo myalelo.",
+    "Ukwaphulwa kwethu komthetho kwakhokelela kutshintsho oluhlazisayo; saba ziinkawu ezidelekileyo ngomyalelo ka-Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu beSabatha",
+        "Abantu baseRass",
+        "Abantu baseTubba",
+        "Abantu Bomqolomba",
+        "Amaqabane oMgxobhozo"
+      ],
+      "answer": "Abantu beSabatha"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuvela kweentlanzi ngeSabatha",
+        "Unyaka wembalela enkulu",
+        "Umkhosi weentaka uthunyelwe kubo",
+        "Umkhukula owabagubungelayo",
+        "Inyikima enamandla"
+      ],
+      "answer": "Ukuvela kweentlanzi ngeSabatha"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ulwandle",
+        "Intaba",
+        "Umqolomba",
+        "Intlambo yasentlango",
+        "Isixeko esinqatyisiweyo"
+      ],
+      "answer": "Ulwandle"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Yaguquka yaba ziinkawu",
+        "Iginywe ngumhlaba",
+        "Itshatyalaliswe ngumoya okhwazayo",
+        "Nditshonile elwandle",
+        "Ubethwe yimvula yamatye"
+      ],
+      "answer": "Yaguquka yaba ziinkawu"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mai Shelar Zunubi Ba Tare Da Taba Tunawa Ba",
+  "intro": "Wasu labarai a cikin Alqur'ani suna bayyana zurfin ɓarnar da al'umma gaba ɗaya za ta iya faɗawa ciki. Wannan manzon ya tsaya shi kaɗai, yana roƙon mutanen da suka nutse cikin ɓarnar da babu wata al'umma da ta taɓa bi a gabansu. Duk da gargaɗin da aka yi musu shekaru da yawa, zukata sun taurare, kuma hukuncin Allah ya zo da wani yanayi mai ban tsoro. Za ku iya gane wannan manzon Allah mai daraja?",
+  "clues": [
+    "An aiko ni a matsayin mai gargaɗi ga mutanen da suka shagaltu da ɓarna wadda babu wata al'umma da ta taɓa aikata ta a gabansu.",
+    "Mutanena sun kira ni maƙaryaci kuma sun yi barazanar korar ni da mabiyana daga ƙasar.",
+    "Baƙi masu daraja sun zo gidana a cikin siffar samari masu ban mamaki, kuma na ji matuƙar damuwa game da lafiyarsu.",
+    "Mutanena sun nemi in miƙa musu baƙi, ba tare da sanin cewa waɗannan baƙi mala'iku ne da Allah ya aiko ba.",
+    "Matata ba ta yarda da addinina ba, kuma ta zaɓi ta ci gaba da zama tare da waɗanda aka kashe.",
+    "An cece ni da 'ya'yana mata da asubahi, yayin da ruwan sama mai tsanani ya faɗo kuma biranenmu suka ruguje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Lutu",
+        "Annabi Shu'aib",
+        "Annabi Hud",
+        "Annabi Nuhu",
+        "Annabi Salihu"
+      ],
+      "answer": "Annabi Lutu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Babban ambaliya ta mamaye duniya",
+        "Rashin gani daga dogon wahala",
+        "Azzalumi mai da'awar allahntaka",
+        "Ana jefa shi cikin wuta mai zafi",
+        "Ana buƙatar a miƙa wa baƙi masu daraja"
+      ],
+      "answer": "Ana buƙatar a miƙa wa baƙi masu daraja"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Babban jirgi da aka gina da hannu",
+        "Sanda da ta raba teku",
+        "Raƙumi mai ban mamaki",
+        "Wuta mai ci",
+        "Birane da aka birkice"
+      ],
+      "answer": "Birane da aka birkice"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An nutsar da ni yayin da ake bin masu bi",
+        "An cece shi daga tanderun wuta ba tare da ya ji rauni ba",
+        "An ɗaga shi sama da rai",
+        "Iyali sun halaka a cikin ambaliyar ruwa mai girma",
+        "Iyali sun tsira sai dai matar da ba ta da aminci"
+      ],
+      "answer": "Iyali sun tsira sai dai matar da ba ta da aminci"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

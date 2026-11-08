@@ -1,0 +1,61 @@
+{
+  "title": "Te Hara i te Takutai",
+  "intro": "E tū ana koe i runga i te onepū o te takutai kua warewaretia, kei reira ngā ngaru e kōrero ana mō tētahi hapori kua whakamatautauria e te whakahau a te Atua. E taumaha ana te hau i te mahara ki tētahi takahi i arahi ki tētahi panonitanga ohorere. Ko wai ēnei wairua, ā, he aha te āhua o tā rātou whakamātautau?",
+  "clues": [
+    "He hapori mātou i whiwhi i tētahi ture mārama mai i tō mātou Ariki, heoi i kitea e mātou he huarahi hei whakahē i taua ture.",
+    "I noho mātou i te taha o tētahi wai, ā, i whakawhirinaki tō mātou oranga ki ngā mea ora o reira.",
+    "I tae mai te whakamātautau ki a tātou i te rā i whakahaua ai tātou kia kaua e whai i ngā mea o te ao.",
+    "I taua rā anō ka tae mai ngā mea hanga o te wai ki a mātou, he tini ke atu, ā, ka whakamatautauria mātou, nui atu i tō mātou kaha ki te manawanui.",
+    "I titoa e mātou tētahi mahi tinihanga hei karo i te ture a te Atua, i te whakaaro ka taea e mātou te tinihanga i te ture.",
+    "Nā tō mātou hara i huri ai mātou hei tangata whakama; i meinga mātou hei makimaki whakarihariha i runga i te whakahau a Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Iwi o te Hāpati",
+        "Te Iwi o Rass",
+        "Te Iwi o Tubba",
+        "Te Iwi o te Ana",
+        "Ngā Hoa o te Awaawa"
+      ],
+      "answer": "Te Iwi o te Hāpati"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te putanga mai o ngā ika i te Hāpati",
+        "He tau o te tauraki nui",
+        "He ope manu i tukuna ki a rātou",
+        "He waipuke i taupokina ai rātou",
+        "He rū whenua nui"
+      ],
+      "answer": "Te putanga mai o ngā ika i te Hāpati"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te moana",
+        "He maunga",
+        "He ana",
+        "He awaawa koraha",
+        "He tāone pakari"
+      ],
+      "answer": "Te moana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua hurihia hei makimaki",
+        "Horomia e te whenua",
+        "I whakangaromia e te hau e hamama ana",
+        "I toremi ki te moana",
+        "I pāngia e te ua o ngā kōhatu"
+      ],
+      "answer": "Kua hurihia hei makimaki"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

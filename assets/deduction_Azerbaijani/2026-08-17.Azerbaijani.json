@@ -1,0 +1,61 @@
+{
+  "title": "Sahildəki Günah",
+  "intro": "Siz ilahi əmrlə sınaqdan keçirilmiş bir icmanın dalğalarının pıçıldadığı unudulmuş bir sahilin qumlarında dayanırsınız. Hava heyrətamiz bir dəyişikliyə səbəb olan bir pozuntunun xatirəsi ilə ağırdır. Bu ruhlar kimlər idi və onların sınaqlarının mahiyyəti nə idi?",
+  "clues": [
+    "Biz Rəbbimizdən açıq-aydın bir əmr almış bir ümmət idik, amma buna qarşı çıxmağın yollarını tapdıq.",
+    "Biz su hövzəsinin yaxınlığında yaşayırdıq və dolanışığımız oradakı canlılardan asılı idi.",
+    "Dünya işlərindən çəkinməyimiz əmr olunduğu gün bizə bir sınaq gəldi.",
+    "Elə həmin gün su canlıları çoxlu sayda yanımıza gəldi və bizi dözə bilməyəcəyimiz qədər sınağa çəkdi.",
+    "Biz ilahi nizamı pozmaq üçün hiyləgər bir hiylə qurduq, çünki fərmanı dəf edə biləcəyimizi düşündük.",
+    "Bizim günahımız alçaldıcı bir dəyişikliyə səbəb oldu; Allahın əmri ilə biz nifrət edilən meymunlara çevrildik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şənbə günü əhli",
+        "Rass xalqı",
+        "Tubba xalqı",
+        "Mağara Əhli",
+        "Xəndək Əshabı"
+      ],
+      "answer": "Şənbə günü əhli"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Şənbə günü balıqların görünməsi",
+        "Şiddətli quraqlıq ili",
+        "Onların üzərinə quşlar ordusu göndərildi",
+        "Onları bürüyən bir sel",
+        "Şiddətli zəlzələ"
+      ],
+      "answer": "Şənbə günü balıqların görünməsi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dəniz",
+        "Bir dağ",
+        "Mağara",
+        "Səhra vadisi",
+        "Möhkəmləndirilmiş bir şəhər"
+      ],
+      "answer": "Dəniz"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Meymunlara çevrildi",
+        "Torpaq tərəfindən udulmuş",
+        "Qışqırıqlı küləklə məhv edildi",
+        "Dənizdə boğuldu",
+        "Daş yağışı ilə vurulub"
+      ],
+      "answer": "Meymunlara çevrildi"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

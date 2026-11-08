@@ -1,0 +1,61 @@
+{
+  "title": "La vetlla dels dolguts",
+  "intro": "Esteu a punt de trobar-vos amb una ànima posada a prova per la separació més profunda, els ulls de la qual coneixien el llenguatge de les llàgrimes però el cor de la qual mai va perdre l'esperança. En una història d'engany, anhel i reunió final, aquest noble servent d'Al·là es va convertir en un símbol de paciència per sempre. Qui va suportar els anys de dolor ocult, només per recuperar la vista i l'alegria en un sol instant?",
+  "clues": [
+    "Sóc un profeta, el nom del qual es va convertir en un símbol de paciència davant de grans pèrdues.",
+    "Vaig tenir molts fills, però un me'l van prendre per la gelosia dels altres.",
+    "El meu amor per aquell ésser perdut era tan profund que els meus ulls es van tornar blancs de dolor, i tot i així mai em vaig queixar excepte a Al·là.",
+    "Vaig enviar els meus fills a buscar el que havia perdut i el seu germà, instant-los que no perdessin l'esperança.",
+    "Quan va arribar el portador de les bones noves, em van tapar la cara amb una camisa i, de sobte, el món va tornar a ser clar.",
+    "Sóc conegut com a Israel, i dels meus dotze fills van sorgir les dotze tribus d'una gran nació."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Ya'qub (Jacob)",
+        "Profeta Yusuf (Joseph)",
+        "Profeta Ishaq (Isaac)",
+        "Profeta Ibrahim (Abraham)",
+        "Profeta Ayyub (Job)"
+      ],
+      "answer": "Profeta Ya'qub (Jacob)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Separació d'un fill estimat durant molts anys",
+        "Ser llançat a un foc ardent",
+        "Engolit per un gran peix",
+        "Afectat per una greu malaltia de la pell",
+        "No tenir fills fins a la vellesa"
+      ],
+      "answer": "Separació d'un fill estimat durant molts anys"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La camisa de Yusuf",
+        "El personal de Musa",
+        "L'arca de Nuh",
+        "La camella de Salih",
+        "L'anell de Sulayman"
+      ],
+      "answer": "La camisa de Yusuf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La vista recuperada i reunit amb el seu fill",
+        "Victòria concedida sobre un rei tirà",
+        "Elevat als cels viu",
+        "Nomenat governant sobre Egipte",
+        "Donat un fill a la vellesa com un miracle"
+      ],
+      "answer": "La vista recuperada i reunit amb el seu fill"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

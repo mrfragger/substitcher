@@ -1,0 +1,61 @@
+{
+  "title": "Lo Resson del Bòrd de la Vila",
+  "intro": "Dins una vila que se desvièt de l'orientacion divina, una figura solitària emergiguèt de la periferia, en corrent amb un messatge d'espèr e d'avertiment. Aquela anma oblidada vendriá un simbòl eternal de fe ferma.",
+  "clues": [
+    "Vegèri de messatgièrs mandats dins ma vila, mas mon pòble los descartèt coma d'umans ordinaris.",
+    "Cresiái dins lor messatge e sentiguèri la vertat ressonar dins mon èsser.",
+    "Cridèri mon pòble a obediéncia als messatgièrs que demandavan pas de recompensa.",
+    "Corriguèri de l'extrèm mai luènh de la vila, en ensajar urgentament de lor far veire la rason.",
+    "Mon pòble se levèt contra ieu, e foguèri tuat, mas trobèri la patz eternala.",
+    "Allah me diguèt, 'Dintratz dins lo Paradís,' e desiravi que mon pòble poguèsse èsser testimòni de l'onor que me foguèt balhat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo Cresent de Ya-Sin",
+        "Uzair l'Interrogador",
+        "Al-Khidr lo Guida",
+        "Lo cresent de la familha del faraon",
+        "Namrud lo Tiran"
+      ],
+      "answer": "Lo Cresent de Ya-Sin"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "En s'afrontant a un pòble incrédul que lo tuèt",
+        "Èsser getat dins un fuòc ardent",
+        "Èsser engolit per un grand peis",
+        "Construccion d'una arca massissa",
+        "Fugir de l'armada d'un tiran"
+      ],
+      "answer": "En s'afrontant a un pòble incredul que lo tuèt"
+    },
+    "location": {
+      "label": "Emplaçament clau",
+      "options": [
+        "L'extrèm mai luènh de la vila",
+        "La montanha de Tur",
+        "La Val de las Formigas",
+        "Las ribas del Nil",
+        "La cauna de la cauna"
+      ],
+      "answer": "L'extrèm mai luènh de la vila"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Martiri e dintrada immediata dins lo Paradís",
+        "Escapament e salvacion",
+        "Ascension als cèls",
+        "Afogar dins la mar",
+        "Se convertir en pèira"
+      ],
+      "answer": "Martiri e dintrada immediata dins lo Paradís"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

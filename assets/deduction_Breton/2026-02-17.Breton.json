@@ -1,0 +1,61 @@
+{
+  "title": "Had an tabutoù",
+  "intro": "A-raok ma vefe anavezet gant ar bed un emgann ledan, e oa bet digoret un amprouenn vras ​​a feiz hag a sentidigezh. An danevell-mañ a ergerzh an dibaboù graet gant un den, hag a laka e oberoù ur skouer evit ar rummadoù da zont. Prientiñ da zizoleiñ istor un ene o stourm ouzh ar gwarizi vras ​​hag he heuliadoù spontus.",
+  "clues": [
+    "E-touez ar re gentañ o kerzhout war an douar e oan, ur bugel eus ar c'houblad denel kentañ.",
+    "Gourc'hemennet e oa bet din ha d'am breur kinnig un aberzh da Allah, un amprouenn eus hor gwirionded.",
+    "Ne voe ket degemeret ma c'hinnig, tra ma oa bet degemeret hini ma breur, ar pezh a leunias ma c'halon gant un emouestl spontus.",
+    "Lavaret em eus gerioù gourdrouz d'am breur, kaset gant c'hwervder an nac'hadenn.",
+    "Ma breur a respontas gant furnez ha doujañs, o lakaat ac'hanon da soñjal e justis Allah hag e doujañs outañ.",
+    "Daoust da gomzoù dous va breur ha d'e youl da bardoniñ, em eus kemeret ur vuhez, o vezañ unan eus ar re gollet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Adam",
+        "Iblis",
+        "Profed Nuh",
+        "Kabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "An dour-beuz bras",
+        "Rannadur ar mor |",
+        "Savadur ar C'haaba",
+        "Kinnig an aberzhoù",
+        "An temptadur el liorzh"
+      ],
+      "answer": "Kinnig an aberzhoù"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "An Arc'h",
+        "Ar skipailh",
+        "Menez Safa",
+        "An aberzh",
+        "Ar vodenn o teviñ"
+      ],
+      "answer": "An aberzh"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Deuet eo da vezañ ur c'hannad",
+        "Beuzet e oa bet",
+        "Savet eur rouantelez vras",
+        "Deuet eo da vezañ ur skouer a geuz",
+        "Pinvidigezh divent a voe roet dezhañ"
+      ],
+      "answer": "Deuet eo da vezañ ur skouer a geuz"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

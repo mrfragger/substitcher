@@ -1,0 +1,61 @@
+{
+  "title": "Ang Singgit Gikan sa Kahiladman",
+  "intro": "Usa ka alagad sa Labing Maloloy-on ang gikapoy sa usa ka gahig ulo nga nasud ug mibiya sa wala pa gihatag ang pagtugot. Kini nga indibidwal natapos sa usa ka lugar nga wala pa sukad naadtoan sa tawo, diin ang tawag sa Balaan katingad-an nga naglanog sa mga lut-od sa kangitngit. Nagmaluya apan nabag-o, kini nga kalag nahimong usa ka walay katapusan nga leksyon sa pailub, sinsero nga paghinulsol, ug sa walay kinutuban nga kalooy sa Magbubuhat. Mahimo ba nimo nga masulbad ang misteryo?",
+  "clues": [
+    "Gipadala ako isip mensahero ngadto sa akong katawhan, apan sila milapas sa tanang utlanan sa ilang kawalay pagtuo ug nagdumili sa pagpamati.",
+    "Nasuko ako sa ilang pagsalikway ug mikalagiw gikan sa akong katawhan sa wala pa moabot ang sugo ni Allah.",
+    "Nisakay ko sa barko nga puno kaayo, ug nagripa mi aron mahibal-an kung kinsa ang ilabay.",
+    "Gilabay ako sa nagngulob nga dagat ug gilamoy sa usa ka dakong isda.",
+    "Natanggong sa tulo ka lut-od sa kangitngit — ang tiyan, ang lawom nga dagat, ug ang yuta sa ilalom — nanawag ako sa akong Ginoo uban ang kinasingkasing nga paghinulsol.",
+    "Migawas ako gikan sa isda ngadto sa lapad nga baybayon, luya ug gikapoy, ug usa ka tanom nga tabayag ang mitubo sa ibabaw nako. Ang akong katawhan, usa ka gatos ka libo o labaw pa, sa katapusan mituo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Yunus",
+        "Propeta Ayyub",
+        "Propeta Yusuf",
+        "Propeta Musa",
+        "Propeta Sulaiman"
+      ],
+      "answer": "Propeta Yunus"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gitulon sa usa ka dakong isda",
+        "Gilabay ngadto sa nagdilaab nga kalayo",
+        "Natanggong sa ilawom sa atabay",
+        "Nalumos sa dakong baha",
+        "Gibilanggo nga dili makatarunganon sa usa ka hari"
+      ],
+      "answer": "Gitulon sa usa ka dakong isda"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang tiyan sa usa ka dakong isda",
+        "Ang sagrado nga walog duol sa Kaaba",
+        "Usa ka arka nga nagpahulay sa bukid",
+        "Usa ka sungkod nga nahimo nga bitin",
+        "Usa ka trono nga walay sama nga kahalangdon"
+      ],
+      "answer": "Ang tiyan sa usa ka dakong isda"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang iyang katawhan, usa ka gatos ka libo o labaw pa, mituo",
+        "Gibanhaw nga buhi ngadto sa langit",
+        "Nahimong magmamando sa usa ka walay kapantay nga gingharian",
+        "Gilaglag sa usa ka naglagiting nga singgit gikan sa langit",
+        "Natumba tungod sa usa ka makalilisang nga linog"
+      ],
+      "answer": "Ang iyang katawhan, usa ka gatos ka libo o labaw pa, mituo"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

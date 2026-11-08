@@ -1,0 +1,61 @@
+{
+  "title": "A Saudade na Câmara Sagrada",
+  "intro": "Você entra no santuário silencioso e vê um servo devoto de Alá em oração. Suas mãos estão erguidas, seus olhos elevados, e seu coração carrega uma saudade que atravessa uma vida inteira. Quem é essa alma paciente cuja fé em Alá jamais vacilou?",
+  "clues": [
+    "Passei longos anos em adoração e oração, testemunhando milagres que fortaleceram minha fé.",
+    "Recebi a responsabilidade de cuidar de uma jovem alma abençoada no santuário.",
+    "À medida que envelhecia, minha maior tristeza era não ter filhos, pois minha esposa era estéril e ambos éramos de idade avançada.",
+    "Rezei ao meu Senhor por um sucessor da minha própria família, alguém que desse continuidade ao legado da profecia.",
+    "Enquanto eu estava no nicho de oração, os anjos me chamaram, dizendo: 'Alá te dá boas novas', e fui tomado por medo e reverência.",
+    "Disseram-me que eu teria um filho chamado Yahya, um nome que nunca havia sido dado a ninguém antes, e como sinal, eu não falaria com ninguém durante três dias."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Zacarias",
+        "Profeta Yahya",
+        "Profeta Isa",
+        "Profeta Dawud",
+        "Luqman, o Sábio"
+      ],
+      "answer": "Profeta Zacarias"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Infertilidade e velhice, ao mesmo tempo que se deseja um herdeiro legítimo.",
+        "Ser atirado em um fogo ardente.",
+        "Ser engolido por um peixe enorme",
+        "Perder um reino para um tirano",
+        "Ser exilado da própria terra natal"
+      ],
+      "answer": "Infertilidade e velhice, ao mesmo tempo que se deseja um herdeiro legítimo."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O nicho de oração (mihrab)",
+        "O grande navio (Arca)",
+        "A sarça ardente",
+        "O cajado que se transformou em serpente",
+        "A camela de Alá"
+      ],
+      "answer": "O nicho de oração (mihrab)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Concedeu-lhe um filho justo e falou novamente após três dias de silêncio.",
+        "Destruído por uma inundação por descrença",
+        "Dado um vasto reino e controle sobre o vento",
+        "Retirado da barriga de um peixe",
+        "Engolido pela terra"
+      ],
+      "answer": "Concedeu-lhe um filho justo e falou novamente após três dias de silêncio."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

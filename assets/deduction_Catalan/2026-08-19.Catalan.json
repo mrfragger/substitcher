@@ -1,0 +1,61 @@
+{
+  "title": "La nació que va desafiar l'ordre natural",
+  "intro": "En una regió la història de la qual ressona a través dels segles, una comunitat vivia en oberta rebel·lió contra les lleis de la puresa. Les seves accions van ser tan sense precedents que són recordades com un avís per a tota la humanitat. Qui eren aquestes ànimes i quin destí les va sobreviure?",
+  "clues": [
+    "Havíem en una terra al costat d'una ruta per la qual els viatgers passaven sovint, però nosaltres fèiem que el seu viatge fos perillós.",
+    "Vam cometre actes indecents que ningú al món havia comès mai abans.",
+    "Un missatger d'entre nosaltres ens va cridar a abandonar els nostres camins, però el vam rebutjar i vam exigir el càstig si era sincer.",
+    "Quan van arribar hostes atractius a la nostra ciutat, vam intentar atacar-los, sense saber que eren missatgers de la destrucció.",
+    "Ens van advertir d'un càstig terrible si no desistim, però ens vam burlar de l'advertència i vam romandre en el nostre pecat.",
+    "Una pluja de pedres del cel va caure sobre nosaltres, i les nostres cases van ser enderrocades, sense deixar cap rastre excepte un senyal per a aquells que reflexionen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent de Lut",
+        "Gent de Thamud",
+        "Gent d'A'ad",
+        "Gent de Madyan",
+        "Gent de Saba"
+      ],
+      "answer": "Gent de Lut"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va cometre una immoralitat sense precedents i va obstruir carreteres",
+        "Adorava un vedell d'or",
+        "Va matar la camella sagrada",
+        "Van enganyar en el comerç i van estafar la gent",
+        "Va construir una torre elevada per desafiar el cel"
+      ],
+      "answer": "Va cometre una immoralitat sense precedents i va obstruir carreteres"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Àngels disfressats de convidats atractius",
+        "Una camella sortint d'una roca",
+        "Un bastó que es transforma en una serp",
+        "Un vaixell construït a la muntanya",
+        "Un foc que es va tornar fresc i pacífic"
+      ],
+      "answer": "Àngels disfressats de convidats atractius"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruït per una pluja de pedres del cel",
+        "Engolit per la terra",
+        "Ofegat en una gran inundació",
+        "Colpejat per un crit de ràfega",
+        "Transformats en simis"
+      ],
+      "answer": "Destruït per una pluja de pedres del cel"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

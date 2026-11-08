@@ -1,0 +1,61 @@
+{
+  "title": "An Tnúth sa Seomra Naofa",
+  "intro": "Téann tú isteach sa tearmann ciúin agus feiceann tú seirbhíseach dílis Allah ina sheasamh ag guí. Tá a lámha ardaithe, a súile ardaithe, agus tá fonn ar a gcroí a mhair ar feadh a saoil. Cé hé an t-anam foighneach seo nár bhog a mhuinín in Allah riamh?",
+  "clues": [
+    "Chaith mé blianta fada ag adhradh agus ag paidir, ag finné míorúiltí a neartaigh mo chreideamh.",
+    "Tugadh an fhreagracht dom aire a thabhairt d’anam óg beannaithe sa tearmann.",
+    "De réir mar a d’éirigh mé sean, ba é an brón ba mhó a bhí orm nárbh raibh leanbh agam, óir bhí mo bhean neamhthorrach agus bhí muid beirt ard in aois.",
+    "Ghuigh mé chuig mo Thiarna ar son comharba ó mo theaghlach féin, duine a leanfadh oidhreacht na fáidheachta ar aghaidh.",
+    "Agus mé i mo sheasamh sa nead paidir, ghlaoigh na haingil orm, ag rá, ‘Tugann Dia dea-scéal duit’, agus bhuail eagla agus uafás mé.",
+    "Dúradh liom go mbeadh mac agam darbh ainm Yahya, ainm nár tugadh d’aon duine riamh cheana, agus mar chomhartha nach labhróinn le daoine ar feadh trí lá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Zakariyya",
+        "An Fáidh Yahya",
+        "Fáidh Íosa",
+        "Fáidh Dawud",
+        "Luqman an Críonna"
+      ],
+      "answer": "Fáidh Zakariyya"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Aineolas agus seanaois agus fonn oidhre ​​​​fíréanta air",
+        "Á chaitheamh isteach i tine lasrach",
+        "Á shlogadh ag iasc mór",
+        "Ríocht a chailleadh do thírean",
+        "A bheith díbeartha óna thír dhúchais"
+      ],
+      "answer": "Aineolas agus seanaois agus fonn oidhre ​​​​fíréanta air"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An áit urnaí (mihrab)",
+        "An long mhór (An Áirc)",
+        "An tor dóite",
+        "An bhata a d’iompaigh ina nathair",
+        "Camall baineann Allah"
+      ],
+      "answer": "An áit urnaí (mihrab)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bronnadh mac fíréanta air agus labhair sé arís tar éis trí lá tost",
+        "Scriosta ag tuile mar gheall ar éagumas",
+        "Tugadh ríocht ollmhór agus smacht ar an ngaoth dó",
+        "Seachadta ó bholg éisc",
+        "Slogtha ag an talamh"
+      ],
+      "answer": "Bronnadh mac fíréanta air agus labhair sé arís tar éis trí lá tost"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

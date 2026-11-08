@@ -1,0 +1,61 @@
+{
+  "title": "Le compagnon qui s'est détourné",
+  "intro": "Vous êtes sur le point de découvrir l'histoire d'une âme qui, vivant dans l'ombre de la prophétie, a choisi une voie menant à sa perte. Cet homme partageait un foyer avec l'un des messagers élus d'Allah, mais a échoué à l'épreuve de la foi. Qui est ce compagnon perdu ?",
+  "clues": [
+    "J'ai vécu parmi des gens qui rejetaient l'appel à la justice, et je ne me suis pas opposé à eux.",
+    "J'étais mariée à un prophète d'Allah, mais je ne partageais pas sa croyance.",
+    "Lorsque les messagers sont venus chez moi avec un avertissement, je ne les ai pas crus.",
+    "Mon conjoint reçut l'ordre de quitter la ville avec les croyants, et je n'étais pas parmi eux.",
+    "Le châtiment s'est abattu sur mon peuple, et j'ai péri avec lui.",
+    "Je suis mentionnée dans le Coran comme un exemple d'incroyance, aux côtés de l'épouse de Noé, dans la sourate At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "L'épouse du prophète Noé",
+        "L'épouse du prophète Lot",
+        "L'épouse du prophète Ibrahim",
+        "L'épouse du prophète Moïse",
+        "Épouse du prophète Ayyub"
+      ],
+      "answer": "L'épouse du prophète Lot"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Elle a trahi son mari en ne croyant pas",
+        "Il a rejeté le message du prophète Hud",
+        "Des idoles étaient vénérées ouvertement dans la Kaaba",
+        "Elle a comploté contre la mission de son mari",
+        "Elle a refusé d'accepter la prophétie de son fils"
+      ],
+      "answer": "Elle a trahi son mari en ne croyant pas"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La ville de Sodome",
+        "La ville de Madyan",
+        "La ville d'Iram",
+        "La ville de Babylone",
+        "La ville de Jérusalem"
+      ],
+      "answer": "La ville de Sodome"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Sauvée avec son mari",
+        "Détruits avec les incrédules",
+        "Exilé dans un pays lointain",
+        "Il s'est repenti et a été pardonné.",
+        "Je suis devenu croyant plus tard."
+      ],
+      "answer": "Détruits avec les incrédules"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

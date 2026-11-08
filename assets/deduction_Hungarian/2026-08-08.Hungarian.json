@@ -1,0 +1,61 @@
+{
+  "title": "A vihar előtti hang",
+  "intro": "Egy alak emelkedett fel a sivatagban, hogy visszahívjon egy hatalmas nemzetet az igazsághoz. Az emberek híresek voltak nagyszerű épületeikről és páratlan erejükről. Mégis a büszkeségük elvakította őket, és nem voltak hajlandók hallgatni. Végül pusztító büntetés sújtotta őket, amely csak egy kis csoport hívőt kímélt meg.",
+  "clues": [
+    "Egy hatalmas néphez küldtek, akik a nyílt földeken éltek, és hatalmukról voltak ismertek.",
+    "Népem egy másik, elpusztult nagy nemzet után jött.",
+    "Pompás építményeik voltak és magas tornyokat építettek.",
+    "Arra hívtam őket, hogy egy Istent imádjanak, de ők nem voltak hajlandók elhagyni bálványaikat.",
+    "Kegyetlen büntetés érte őket, csak azokat kímélték meg, akik velem együtt hittek.",
+    "Én vagyok az, akit egy hatalmas néphez küldtek, akit Aadnak hívnak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Hud próféta",
+        "Szálih próféta",
+        "Su'aib próféta",
+        "Nuh próféta",
+        "Ibrahim próféta"
+      ],
+      "answer": "Hud próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A nagy árvíz",
+        "Egy tomboló, erőszakos szél",
+        "Földrengés és egy rémisztő kiáltás",
+        "Égő kövek esője",
+        "Mennyei tűz felülről"
+      ],
+      "answer": "Egy tomboló, erőszakos szél"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy hegyre épített hatalmas bárka",
+        "Egy különleges nőstény teve",
+        "Egy bot, ami kígyóvá változott",
+        "Magas épületek és magas építmények",
+        "Lángoló máglya"
+      ],
+      "answer": "Magas épületek és magas építmények"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Mindannyian elfulladtak egy nagy árvízben",
+        "Népemet heves szél pusztította el, míg én megmenekültem",
+        "Földrengés sújtotta népemet, és sírnak",
+        "Égből kövekkel dobálták népemet",
+        "Népemet lángoló tűzbe vetik"
+      ],
+      "answer": "Népemet heves szél pusztította el, míg én megmenekültem"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

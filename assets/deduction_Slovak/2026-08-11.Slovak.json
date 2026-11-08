@@ -1,0 +1,61 @@
+{
+  "title": "Sľub maternice",
+  "intro": "V tichých komnatách srdca oddaného Božstvu sa zrodil posvätný sľub. Tento sľub sa sústredil na život, ktorý ešte len mal vydýchnuť, a jeho naplnenie malo navždy zmeniť smerovanie duchovného odkazu. Vkročte do tajomstva duše, ktorej sľub sa ozýval večnosťou.",
+  "clues": [
+    "Žil som v domácnosti známej svojou zbožnosťou a túžil som po dare, ktorý by ma priblížil k Alahovi.",
+    "Uzavrel som slávnostnú zmluvu so svojím Pánom ohľadom toho, čo bolo vo mne skryté, a sľúbil som, že to úplne zasvätím Jeho službe.",
+    "Keď prišiel okamih odhalenia, to, čo som dostal, bolo nečakané, ale zveril som túto záležitosť Vševediacemu.",
+    "Dal som svojmu dieťaťu meno, ktoré vyjadruje oddanosť, a prosil som o ochranu pre ňu a jej potomkov pred prekliatym.",
+    "Moje dieťa bolo umiestnené v posvätnej svätyni pod dohľadom proroka z Áronovho rodu.",
+    "Moja dcéra sa stala známou pre svoju čistotu a bola vyvolená spomedzi všetkých žien, neskôr sa stala matkou veľkého proroka, hoci zostala nedotknutá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Imranova manželka",
+        "Matka Musu",
+        "Manželka faraóna",
+        "Manželka Al-Aziza",
+        "Matka Isy"
+      ],
+      "answer": "Imranova manželka"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Sľub zasvätiť svoje nenarodené dieťa chrámu",
+        "Skúška trpezlivosti počas dlhej choroby",
+        "Cesta do ďalekej krajiny kvôli viere",
+        "Konfrontácia s tyranským kráľom",
+        "Zázračné zásobovanie jedlom z neba"
+      ],
+      "answer": "Sľub zasvätiť svoje nenarodené dieťa chrámu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Dieťa menom Maryam",
+        "Zamestnanec, ktorý sa premenil na hada",
+        "Zlaté teľa",
+        "Studňa Zamzam",
+        "Noemova archa"
+      ],
+      "answer": "Dieťa menom Maryam"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Jej dieťa bolo prijaté Alahom a vyrastalo pod prorockou starostlivosťou.",
+        "Jej dieťa sa stalo prorokom a dostalo písmo",
+        "Jej dieťa bolo pozdvihnuté do nebies",
+        "Jej dieťa postavilo posvätný dom",
+        "Jej dieťaťu bola udelená nesmierna múdrosť a bohatstvo"
+      ],
+      "answer": "Jej dieťa bolo prijaté Alahom a vyrastalo pod prorockou starostlivosťou."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

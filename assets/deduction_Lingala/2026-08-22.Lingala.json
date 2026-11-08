@@ -1,0 +1,61 @@
+{
+  "title": "Mboka Oyo Endimaki Tango",
+  "intro": "Na ba annals ya ngolu ya bonzambe, ezali na communauté oyo point de retour na yango ezalaki moment ya réalisation collective. Ozali pene ya kobimisa lisolo na bango﻿—lisapo ya likebisi, ya boyamboli, mpe ya bopemi oyo ekesenisaki bango na nsuka ya bikolo mosusu.",
+  "clues": [
+    "Tozalaki bato oyo batindaki momemi-nsango, mpe tobalukaki na ebandeli na libiangi na ye.",
+    "Ntango bilembo ya etumbu oyo ezalaki koya emonanaki polele, tososolaki bosolo ya likebisi na ye.",
+    "Tobalukaki epai ya Nkolo na biso na boyamboli ya sembo, mpe kondima na biso endimami.",
+    "Etumbu oyo epesamaki likolo na biso elongolamaki mpo na bondimi na biso.",
+    "Lisolo na biso etangami lokola exception kati na bingumba oyo endimaki sima ya komona etumbu.",
+    "Tozalaki bato ya profeta oyo baleine ameli ye, nzokande tobikisamaki na libebi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Yunus",
+        "Bato ya Nuh",
+        "Bato ya Hud",
+        "Bato ya Salih",
+        "Bato ya Lut"
+      ],
+      "answer": "Bato ya Yunus"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mpela moko ya kobebisa",
+        "Mopɛpɛ makasi",
+        "Etumbu ya nsɔni oyo ezalaki koya oyo epekisamaki",
+        "Mabele komela bango",
+        "Mbula ya mabanga"
+      ],
+      "answer": "Etumbu ya nsɔni oyo ezalaki koya oyo epekisamaki"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku yango",
+        "Kamela ya mwasi",
+        "Engumba ya bato nkóto nkama moko",
+        "Ba staff ya Musa",
+        "Esika ya kobomba biloko ya Qarun"
+      ],
+      "answer": "Engumba ya bato nkóto nkama moko"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Babebisamaki mobimba",
+        "Bapesaki bango esengo mpo na mwa ntango",
+        "Babongwanaki bango na ba singes",
+        "Bazindaki na mai",
+        "Bameli bango na mabele"
+      ],
+      "answer": "Bapesaki bango esengo mpo na mwa ntango"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

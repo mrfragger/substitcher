@@ -1,0 +1,61 @@
+{
+  "title": "Say Managpikasi na Santuaryo",
+  "intro": "Diad mareen iran oras na labi, sakey a debosyonadon kamarerwa so tinmawag ed Sankamapangasi diad loob na saray masanton padir na sakey a sagradon pasen. Saray taon ya ag-onkupas a pananisia tan anos so ngalngali la natumangan na sakey a milagro ya mangitarok na liket tan tawir na inkapropeta.",
+  "clues": [
+    "Inusar ko ray agew tan labi ko ed debosyon ed loob na masanton santuaryo, ya naynay ya manpipikasi ed Katawan ko.",
+    "Tinmakken ak, tan say asawak et lepes, balet agkon balot naandiay ilalo ed panangasi nen Allah.",
+    "Niiter ed siak so sakey ya anak a laki, a manngaran na Yahya, a nagmaliw a propita tan silew na inkatunong.",
+    "Sakey ak a propeta, ya imbaki pian mangigiya ed saray anak na Israel.",
+    "Kabyangay boleg ak nen Propeta Harun tan nanlingkur ak bilang pari ed Timplo.",
+    "Nimatalek ed siak so pangasikaso ed si Maryam, say ina nen Isa, tan anengneng ko ray milagro to."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Zakariyya",
+        "Propeta Yahya",
+        "Propeta Ilyas",
+        "Propeta Ishaq",
+        "Propeta Ya'qub"
+      ],
+      "answer": "Propeta Zakariyya"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Niiter so anak a laki nen masiken la",
+        "Nisalba ed manliob ya apoy",
+        "Nisalba ed eges na sira",
+        "Akaliktar ed baleg a delap",
+        "Inmabig ed graben sakit"
+      ],
+      "answer": "Niiter so anak a laki nen masiken la"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say Mihrab (prayer niche)",
+        "Say Kaaba",
+        "Say Manpopoolan a Kiew",
+        "Say Kaban na Sipanan",
+        "Say Ungeb na Pitoran Manaugip"
+      ],
+      "answer": "Say Mihrab (prayer niche)"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Niiter so matunong ya anak a nagmaliw a propeta",
+        "Dineral na maksil a bagyo",
+        "Nalner ed dayat",
+        "Ag napoolan",
+        "Pinmawil ed saray totoo ra kayari ran niliktar ed sakey a sira"
+      ],
+      "answer": "Niiter so matunong ya anak a nagmaliw a propeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yaakaar gi indi tiitaange",
+  "intro": "Benn bis, ci benn dëkk bu bari soxor, benn surga bu gëm dafa am gan yu mu xamul woon. Ndax waa dëkk bi dafa jaaxle ci seen kaaraange, muni dañu leen di aar, waaye waa dëkk bi laaj nañu ko lu ruslu. Bi ñu ko artu ci musiba buy waaja ñëw, surga bi daw moom ak ay mbokkam ci biir lëndëm, bàyyi fa dëkk bu ñu nara yàq. Kan mooy gëm-gëm bu wéet bii?",
+  "clues": [
+    "Dañu ma yónnee ma nekk ndaw ci askan wu def jëf yu ñaaw.",
+    "Dafa am gan yu ñëw ci sama kër te xamuma ko woon, seen kaaraange moo gënoon jaaxal sama bopp.",
+    "Sama askan bëggoon nañu ma gis samay gan ndax dañu am yéene yu bon, ma jéema waxtaan ak ñoom.",
+    "Ñi ma ñëwoon dañu wane seen bopp ni ay malaaka, ba noppi ñu wax ma ma yóbbaale sama njaboot dem ci guddi gi.",
+    "Sama jabar dégluwul wooteb daw, mu jànkoonte ak musiba ni sama askan.",
+    "Sama dëkk dafa daanu ndax taw bu bari xeer yu ñu defaree ban, barab yi gëna kawe dañu wàcci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Luut Yàlla",
+        "Boroom bi Musa",
+        "Yonent-Yàlla Ibraahim",
+        "Yonent-Yàlla Nuh",
+        "Boroom bi Hud"
+      ],
+      "answer": "Luut Yàlla"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Sama askan bëgg ñu jege samay way wuyusi yi ci anam wu bon",
+        "Xaajaloo géej gi ngir rëcci ab jaay doole",
+        "Tabax gaal gu mag ci biir ñaawal",
+        "Sarax sama doom ngir natt ngëm",
+        "Jën wu mag wann la"
+      ],
+      "answer": "Sama askan bëgg ñu jege samay way wuyusi yi ci anam wu bon"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Dëkk bu taaru bu sama askan",
+        "Tund wi ma jote kàddu yu Yàlla",
+        "Gaal gi jaar ci mbënd mu mag",
+        "Gaam bu jigéen bi génn ci xeer wi",
+        "Jardin bi am gan gu jub gu nëbbu"
+      ],
+      "answer": "Dëkk bu taaru bu sama askan"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Mucc nañu ma ak sama njaboot balaa ñuy tas sama dëkk",
+        "Ma yóbbu sama askan ci moom sa bopp, jàll géej gi",
+        "Dama tabax gaal gu rëy, ba noppi mucc ci mbënd bu metti",
+        "Dañu ma jox kiliftéef ci ngelaw yi ak jinn yi",
+        "Ma muñ tiis, ñu neexal ma ak sama njaboot"
+      ],
+      "answer": "Mucc nañu ma ak sama njaboot balaa ñuy tas sama dëkk"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

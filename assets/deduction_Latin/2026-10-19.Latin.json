@@ -1,0 +1,61 @@
+{
+  "title": "Prodigus Caelorum",
+  "intro": "Ens quoddam mysteriosum in bivio creationis et reiectionis stat. Historia eorum est una arrogantiae incomparabilis et summae detestationis mandati divini. Electio eorum per quamque generationem resonat, facta experimentum omni animae in hunc mundum natae. Potesne hunc adversarium aeternum agnoscere?",
+  "clues": [
+    "Adfui evento significationis cosmicae, cum novum ens ex luto formatum est et Spiritu Misericordis vivificatum est.",
+    "Ipse ex uno flammeo elemento in existentiam productus sum, dissimilis illi pulveris.",
+    "Mandatum mihi datum est quod infra dignitatem meam esse existimavi.",
+    "Superbia in me crevit, et imperio illi parere pertinaciter recusavi.",
+    "Dilatio mihi donec Dies constitutus concessa est, ut propositum meum declaratum alios decipiendi persequi possem.",
+    "Hostis declaratus sum omnium qui terram perambulant, fallacias susurrans et a recta via eos abducens."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Iblis (Satanas)",
+        "Pharao (Fire)",
+        "Aman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satanas)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Recusavit se inclinare ante Adamum",
+        "Divinitatem falso professus est",
+        "Vitulum aureum ad cultum finxit",
+        "Invidiae causa fratrem interfecit",
+        "Duxit oppositionem polytheistarum Meccae"
+      ],
+      "answer": "Recusavit se inclinare ante Adamum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Paradisus (Jannah)",
+        "Palatium Pharaonis in Aegypto",
+        "Vallis sacra Tuwae",
+        "Profunda maris",
+        "Hortus Sabae"
+      ],
+      "answer": "Paradisus (Jannah)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Requies concessa usque ad diem iudicii",
+        "Una cum exercitu in mari submersus",
+        "A terra absorptus una cum thesauris",
+        "In simias transformati propter sabbatum violandum",
+        "Lapidibus e caelo iactis combustus"
+      ],
+      "answer": "Requies concessa usque ad diem iudicii"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

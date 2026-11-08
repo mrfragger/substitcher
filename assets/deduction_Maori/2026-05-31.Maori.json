@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaiwhakaatu i Mate",
+  "intro": "I ngā wā o mua, i noho tētahi hapori i tētahi whenua e whakawhiti ana i ngā emepaea. I karangahia rātou e tā rātou poropiti ki te ara o te pono, heoi i piri tonu rātou ki te kore whakapono me te tukino. Ka mutu tēnei kōrero i te whiu a te Atua. Ka taea e koe te tautuhi i tēnei iwi me tō rātou mutunga mai i ngā tohu i raro nei?",
+  "clues": [
+    "I whakakahoretia e te iwi te whakatūpato i kawea mai e tētahi o ā rātou ake karere.",
+    "I karanga mai te karere kia karakia ki a Allah anake, ā, i whakatūpato hoki kia kaua e pirau.",
+    "Ko tā tātou hara he whakakahore i te poropiti i tonoa mai ki a tātou me te tika.",
+    "I ruarua mātou i te mana o te karere, ā, i whakapae mātou i a ia mō te tinihanga.",
+    "I pā mai te whiu ki a mātou i a mātou e noho humarie ana i roto i ō mātou kāinga.",
+    "I whakangaromia tātou mō te whakakahore i tō tātou poropiti, me te whakatoi i te hunga whakapono."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Hu'aib",
+        "Ihārama",
+        "Rūta",
+        "Nō",
+        "Mūsa"
+      ],
+      "answer": "Hu'aib"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whiwhi i tētahi poropiti i karanga ki te tika",
+        "Te whakamatautauria ki te matekai",
+        "Te whakamaoritanga o te moemoeā",
+        "Te whiwhi i te Torah",
+        "Te haereere i roto i te moana"
+      ],
+      "answer": "Te whiwhi i tētahi poropiti i karanga ki te tika"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Miriana",
+        "Papurona",
+        "Horoma",
+        "Te Moana Whero",
+        "Te Āraka"
+      ],
+      "answer": "Miriana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia te iwi mō te kore whakapono",
+        "I ripeneta te iwi, ā, i arahina rātou",
+        "I tomo te iwi ki Pararaiha",
+        "I ora te iwi, ā, i tupu nui",
+        "I heke te iwi ki tētahi whenua hou"
+      ],
+      "answer": "I whakangaromia te iwi mō te kore whakapono"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

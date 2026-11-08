@@ -1,0 +1,61 @@
+{
+  "title": "Sesupo se se mo gare ga matlapa",
+  "intro": "Mo lefatsheng le dithaba di neng di gabilwe mo go lone go nna matlo, morongwa o ne a goroga ka sesupo sa kgakgamatso se se tswang kwa go Allah. Batho ba ne ba batla bosupi, mme ba ne ba amogela sebopiwa se se tswang mo lefikeng le le tiileng. Mme boikgogomoso jwa bone bo ne jwa dira gore ba se ka ba dumalana le tlhagiso eo, mme seno sa tshwaya phelelo ya bone.",
+  "clues": [
+    "Ke ne ka romelwa kwa bathong ba ba neng ba nna mo matlong a a betlilweng mo dithabeng.",
+    "Ba ne ba nkgwetlha gore ke tle le sesupo, ka jalo ke ne ka ntsha kamela mo lefikeng.",
+    "Ke ne ka ba laela gore ba tlogele kamela e nwe ka kgololesego mme ba se ka ba e utlwisa botlhoko.",
+    "Ba ne ba sa utlwe mme ba kgaola kamela marapo, ba sa dumalane le tlhagiso ya me.",
+    "Ke ne ka itsise gore kotlhao e tla tla morago ga malatsi a le mararo.",
+    "Mo mosong, go thunya go go maatla go ne ga ba nyeletsa, mme nna le balatedi ba me re ne ra falola."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Salih",
+        "Moporofeti Hud",
+        "Moporofeti Lute",
+        "Moporofeti Shu'ayb",
+        "Moporofeti Ibrahime"
+      ],
+      "answer": "Moporofeti Salih"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go batliwa kamela e namagadi go tswa mo lefikeng",
+        "Go batliwa namane ya gauta",
+        "Go batliwa ga tafole e e anameng go tswa kwa legodimong",
+        "Tlhokego ya morwalela",
+        "Go batla thobane gore e fetoge noga"
+      ],
+      "answer": "Go batliwa kamela e namagadi go tswa mo lefikeng"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Kamela e namagadi le namane ya yone",
+        "Areka ya ga Noa",
+        "Lore lwa ga Moshe",
+        "Namane ya Gauta",
+        "Molelo wa ga Ibrahime"
+      ],
+      "answer": "Kamela e namagadi le namane ya yone"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E sentswe ke go thunya go go maatla",
+        "O nwetse mo morwaleleng",
+        "E meditswe ke lefatshe",
+        "E fetogile ditshwene",
+        "E sentswe ke phefo e e bogale"
+      ],
+      "answer": "E sentswe ke go thunya go go maatla"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

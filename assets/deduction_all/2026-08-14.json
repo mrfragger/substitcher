@@ -1,0 +1,61 @@
+{
+  "title": "The Cursed Hands",
+  "intro": "You stand in the winding alleys of ancient Makkah, where a soul of influence and wealth once turned away from the call of truth. This figure's story is a stark reminder that ties of blood cannot overcome the chains of pride. Who is this one whose name echoes with the fire that awaits?",
+  "clues": [
+    "I walked the streets of Makkah with a pride that blinded me to the truth, though the messenger was of my own blood.",
+    "My possessions were vast, but they became a curse rather than a shield.",
+    "The book of guidance speaks of my ruin, declaring that my hands and my person will perish.",
+    "My spouse joined my campaign of enmity, gathering thorns to spread on the path of the one who called to Allah.",
+    "On the day of judgment, I will be plunged into a fire of blazing flame, and my spouse will have a rope of palm fiber around the neck.",
+    "I am known by a name that means 'father of flame' — a name that foretells my eternal abode."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Key Trial or Event",
+      "options": [
+        "Opposed the Prophet and was cursed in the Quran",
+        "Led an army to destroy the Kaaba",
+        "Attempted to kill the Prophet by throwing stones",
+        "Refused to believe in the splitting of the moon",
+        "Built a tower to reach the heavens"
+      ],
+      "answer": "Opposed the Prophet and was cursed in the Quran"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The blazing Fire of Hell",
+        "The Staff of Musa",
+        "The Ark of Nuh",
+        "The Well of Zamzam",
+        "The Golden Calf"
+      ],
+      "answer": "The blazing Fire of Hell"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "He will enter the blazing Fire, and his wealth will not avail him",
+        "He repented and became a believer",
+        "He was forgiven after recanting",
+        "He died as a martyr",
+        "He was taken up to the heavens"
+      ],
+      "answer": "He will enter the blazing Fire, and his wealth will not avail him"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

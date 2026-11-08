@@ -1,0 +1,61 @@
+{
+  "title": "La Veglia a la Porta Ardent",
+  "intro": "Una multitudin muta e formidabil la varda a un limit teribil, senza gustar mai mangià, bef o ripusà. Creà de una sustanza diferent de la argila del òmm, spetan un ünich fin teribil, e g’han mai disubbidiu nanca a un comand del luur Signur.",
+  "clues": [
+    "Num sem vesser diferents dei vesser uman, creads de una sostanza qe la se magna miga, la bev miga o la se stanca miga.",
+    "El noster numer esatt l’è cognussü e rivelà in del Liber: sem minga innumerabil né una moltitudin.",
+    "Num g’hem mai disubbidid al noster Creatur, e g’hem mai parlà prima de vèss cumandà.",
+    "Quand che riva el Dì, i incredul seran purtà vers de nun en grupp, e nuèter derverem i port per luur.",
+    "Num ghe dumanderem: “Sun minga vegnuu di messagg de la vostra specie che v’han avvertì de chestu dì?”",
+    "Custodem un post da induè nissuna anima la vegn mai fœura: un domini ardent de puniziun eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "I custodi del fœuch del infern (Zabaniyah)",
+        "I Portador del Tron de Allah",
+        "The Recording Angels (Kiraman Katibin)",
+        "I angel de la mort",
+        "I Porter del Paradis"
+      ],
+      "answer": "I custodi del fœuch del infern (Zabaniyah)"
+    },
+    "trial": {
+      "label": "El noster dover primari",
+      "options": [
+        "Guardiar i port del Fœuch del Infern",
+        "Registrar ogni azion umana",
+        "Portar el Tron de Allah",
+        "Prendendo l'anima dei defunti",
+        "Comandar i vent e i nivul"
+      ],
+      "answer": "Guardiar i port del Fœuch del Infern"
+    },
+    "location": {
+      "label": "Cossa guardem?",
+      "options": [
+        "El fœg del infern",
+        "El Tron de Allah",
+        "I rull di fatt",
+        "I fiumm del Paradis",
+        "I Montagn de la Terra"
+      ],
+      "answer": "El fœg del infern"
+    },
+    "outcome": {
+      "label": "El destin di quei che sun in del noster dumini",
+      "options": [
+        "Resteran per sempre e partiran mai",
+        "A la fin saran perdonad e liberà",
+        "Sarà purificà in del temp",
+        "Seran trasfurmà en olter furm",
+        "Se alternaràn intra l’Inferno e el Paradis"
+      ],
+      "answer": "Resteran per sempre e partiran mai"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

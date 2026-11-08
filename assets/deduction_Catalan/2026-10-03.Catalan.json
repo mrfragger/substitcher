@@ -1,0 +1,61 @@
+{
+  "title": "La Vetlla a la Porta Flamejant",
+  "intro": "Una multitud silenciosa i formidable vigila un llindar temible, sense tastar mai menjar, beure ni descansar. Formats d'una substància diferent de l'argila humana, esperen un únic i terrible propòsit, i mai han desobeït ni una sola ordre del seu Senyor.",
+  "clues": [
+    "Som éssers diferents dels humans, creats a partir d'una substància que no menja, no beu ni es cansa.",
+    "El nostre nombre exacte es coneix i es revela al Llibre: no som ni incomptables ni una multitud.",
+    "Mai hem desobeït el nostre Creador, ni parlem mai abans de rebre ordres.",
+    "Quan arribi el Dia, els incrèduls seran conduïts cap a nosaltres en grups, i els obrirem les portes.",
+    "Els preguntarem: «No us van venir missatgers de la vostra pròpia espècie, advertint-vos d'aquest Dia?»",
+    "Guardem un lloc d'on no surt mai cap ànima: un domini ardent de càstig etern."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Els guardians del foc infernal (Zabaniyah)",
+        "Els portadors del tron ​​d'Al·là",
+        "Els àngels de la gravació (Kiraman Katibin)",
+        "Els àngels de la mort",
+        "Els guardians del paradís"
+      ],
+      "answer": "Els guardians del foc infernal (Zabaniyah)"
+    },
+    "trial": {
+      "label": "El nostre deure principal",
+      "options": [
+        "Custodiant les portes de l'Infern de Foc",
+        "Registrant cada acció humana",
+        "Portant el Tron d'Al·là",
+        "Recollint les ànimes dels difunts",
+        "Dominant els vents i els núvols"
+      ],
+      "answer": "Custodiant les portes de l'Infern de Foc"
+    },
+    "location": {
+      "label": "Què protegim?",
+      "options": [
+        "El Foc Infernal",
+        "El Tron d'Al·là",
+        "Els rotllos de fets",
+        "Els rius del paradís",
+        "Les muntanyes de la Terra"
+      ],
+      "answer": "El Foc Infernal"
+    },
+    "outcome": {
+      "label": "El destí d'aquells que estan sota el nostre domini",
+      "options": [
+        "Es quedaran per sempre i no marxaran mai",
+        "Finalment seran indultats i alliberats",
+        "Es purificaran amb el temps",
+        "Es transformaran en altres formes",
+        "Alternaran entre l'Infern i el Paradís"
+      ],
+      "answer": "Es quedaran per sempre i no marxaran mai"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

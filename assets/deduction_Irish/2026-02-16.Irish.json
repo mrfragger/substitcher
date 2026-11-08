@@ -1,0 +1,61 @@
+{
+  "title": "Éileamh Údarás Iomlán",
+  "intro": "I sean-amanna, d’éirigh duine cumhachtach i réim ar thír ollmhór agus ar a áitritheoirí. Bhí réimeas an fhigiúir seo tréithrithe ag bród ollmhór agus dúshlán mór d’údarás diaga. Ullmhaigh chun céannacht anama a nochtadh a raibh a chinniúint deiridh ina ceacht buan do gach glúin.",
+  "clues": [
+    "Bhí smacht agam ar impireacht chumhachtach, áit a raibh mo bhriathar ina dhlí.",
+    "D’fhógair mé mé féin mar an dia uachtarach, ag éileamh adhradh ó gach duine faoi mo riail.",
+    "Chuir mé cosc ​​ar phobal ar leith, chuir mé sclábhaíocht orthu agus d’ordaigh mé marú a gcuid naíonán fireann.",
+    "Bhí teachtaire umhal Dé ag tabhairt aghaidh orm arís agus arís eile, a rinne míorúiltí soiléire os mo chomhair agus os mo chomhair draoithe.",
+    "Dhiúltaigh mé don fhírinne go righin, ag cúiseamh an teachtaire i ndraíocht agus i gcomhcheilg chun é féin agus a lucht leanúna a scrios.",
+    "Bhí mé féin agus mo arm ar fad gafa ag an bhfarraige agus muid ag tóraíocht gan stad orthu siúd a saoradh ó mo ghreim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An Tuilte Mór",
+        "An Tine Dóite",
+        "Báthadh an Fhorghabhálaí",
+        "An Scriosadh ag an nGaoth",
+        "Crith Talún an Mhíchreidimh"
+      ],
+      "answer": "Báthadh an Fhorghabhálaí"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Áirc Naoi",
+        "Foireann Mhaois",
+        "An Idol Órga",
+        "Tobar Zamzam",
+        "Ríchathaoir Bilqis"
+      ],
+      "answer": "Foireann Mhaois"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bronnadh ríocht mhór air",
+        "Corp caomhnaithe mar chomhartha",
+        "Maithiúnas tar éis aithrí",
+        "Ardaithe go fáidhiúlacht",
+        "Tháinig a mhuintir chun bheith cráifeach"
+      ],
+      "answer": "Corp caomhnaithe mar chomhartha"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Iwi i Whakahē i te Tikanga Taiao",
+  "intro": "I tētahi rohe e mau tonu ana te kōrero i ngā tau kua pahure ake nei, i noho tētahi hapori i roto i te tutu tūwhera ki ngā ture o te parakore. He mahi kāore i kitea i mua ā rātou mahi, ā, e maumaharatia ana hei whakatūpato mō te tangata katoa. Ko wai ēnei wairua, ā, he aha te aituā i pā ki a rātou?",
+  "clues": [
+    "I noho mātou i tētahi whenua i te ara i haerea e te hunga haereere, engari i meinga e mātou tō rātou haerenga kia mōrearea.",
+    "I mahia e mātou ngā mahi whakarihariha kāore anō kia mahia e tetahi i te ao katoa i mua.",
+    "I karanga mai tētahi karere i roto i a mātou kia whakarērea ā mātou tikanga, engari i whakakahoretia e mātou, ā, i tonoa kia whiua mēnā he pono ia.",
+    "I te taenga mai o ngā manuhiri ātaahua ki tō mātou tāone, ka ngana mātou ki te whakaeke i a rātou, kāore mātou i te mōhio he karere whakangaro rātou.",
+    "I whakatūpatohia tātou mō tētahi whiu whakamataku mēnā kāore tātou e mutu, heoi i tawai tātou ki te whakatūpato, ā, i noho tonu i roto i ō tātou hara.",
+    "I tau iho te ua kōhatu i te rangi ki runga ki a mātou, ā, i hurihia ō mātou whare, kāhore he tohu i mahue, he tohu anake mā te hunga e whakaaroaro ana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te iwi o Ruta",
+        "Te iwi o Thamud",
+        "Te iwi o Āta",
+        "Ngā tāngata o Madyan",
+        "Ngā tāngata o Saba"
+      ],
+      "answer": "Te iwi o Ruta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I mahi i ngā mahi hē onge, ā, i aukati i ngā rori",
+        "I karakia ki tētahi kuao kau koura",
+        "I patua te kamera wahine tapu",
+        "I tinihanga i roto i te hokohoko, ā, i whakaiti i te iwi",
+        "I hanga he pourewa teitei hei wero i te rangi"
+      ],
+      "answer": "I mahi i ngā mahi hē onge, ā, i aukati i ngā rori"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā anahera e whakaahua ana i a rātou anō he manuhiri ataahua",
+        "He kamera uha e puta mai ana i te toka",
+        "He tokotoko e huri ana hei nakahi",
+        "He poti i hangaia ki runga i te maunga",
+        "He ahi i whakamatao, i rangimārie hoki"
+      ],
+      "answer": "Ngā anahera e whakaahua ana i a rātou anō he manuhiri ataahua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia e te ua kōhatu i te rangi",
+        "Horomia e te whenua",
+        "I toremi i roto i te waipuke nui",
+        "I pāngia e te pahūtanga hamama",
+        "Kua hurihia hei makimaki"
+      ],
+      "answer": "I whakangaromia e te ua kōhatu i te rangi"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

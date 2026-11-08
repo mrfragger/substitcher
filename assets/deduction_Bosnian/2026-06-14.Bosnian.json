@@ -1,0 +1,61 @@
+{
+  "title": "Plamen koji je otkrio naslijeđe",
+  "intro": "U analima otpora, stoji ličnost čije je samo ime postalo upozorenje do kraja vremena. Ova osoba je izabrala neprijateljstvo umjesto srodstva, prkos umjesto pokornosti i usprotivila se pozivu na milosrđe. Pažljivo slušajte odjeke drevne proglasa dok otkrivamo identitet ove ozloglašene duše.",
+  "clues": [
+    "Rođen sam u istom klanu kao i posljednji Allahov poslanik, ali sam im se suprotstavljao na svakom koraku.",
+    "Moje ime je nosilo značenje – ime koje znači 'otac plamena', ime koje će nagovijestiti moju vječnu sudbinu.",
+    "Nanio sam zlo nosiocu istine, pa se čak i moje vlastito domaćinstvo pridružilo ovoj kampanji okrutnosti.",
+    "Koristio sam svoje bogatstvo i utjecaj da utišam poziv Allahu, vjerujući da novac može ugasiti božansko svjetlo.",
+    "Allah mi je posvetio cijelo poglavlje – poglavlje toliko kratko da se može izrecitovati za nekoliko sekundi, ali njegova težina ostaje do Sudnjeg dana.",
+    "Moj drug na Ahiretu hoda iza mene, vezan konopcem od vlakana oko vrata, noseći upravo ono trnje koje su oni nekada širili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ebu Lehab",
+        "Ebu Džehl",
+        "Waraqah ibn Nawfal",
+        "Umaja ibn Halef",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Ebu Lehab"
+    },
+    "trial": {
+      "label": "Definisanje konfrontacije",
+      "options": [
+        "Predvodeći opoziciju protiv Poslanika u Meki",
+        "Migracija u Abesiniju kako bi se izbjegao progon",
+        "Izgradnja Kabe s prorokom Ibrahimom",
+        "Prihvatanje islama na samrti",
+        "Sklapanje Hudejbijskog sporazuma"
+      ],
+      "answer": "Predvodeći opoziciju protiv Poslanika u Meki"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Žena koja je nosila trnje i drva za ogrjev",
+        "Štap koji se pretvorio u zmiju",
+        "Prsten sa Solomonovim pečatom",
+        "Zlatno tele koje su ljudi obožavali",
+        "Izvor koji je šikljao vodom"
+      ],
+      "answer": "Žena koja je nosila trnje i drva za ogrjev"
+    },
+    "outcome": {
+      "label": "Konačni obračun",
+      "options": [
+        "Objavljena je cijela sura koja proglašava potpuno uništenje",
+        "Postao je vođa muslimanske zajednice",
+        "Primio oproštaj u trenutku smrti",
+        "Izgradio veliku džamiju u Medini",
+        "Uskrsnuo je među pravednicima"
+      ],
+      "answer": "Objavljena je cijela sura koja proglašava potpuno uništenje"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Elanqaba Ukuphelelwa Yithemba",
+  "intro": "Ngena endlini lapho ukulahlekelwa kulandela ukulahlekelwa, kodwa izwi elilodwa elizolile lenqaba ukuphelelwa yithemba. Ubizo olulodwa ku-Qur'an luguqula ukubekezela kube yindawo yokuguquka; ungakwazi yini ukulandelela izinkomba kumuntu ongemuva kwalelo zwi?",
+  "clues": [
+    "Ngangiyizwi lokubekezela endlini lapho izibusiso zazivivinywa khona yinhlekelele.",
+    "Ngahlala endlini engenamuntu ngenxa yokulahlekelwa yingcebo nezingane.",
+    "Bengazi ukuthi ukugula kwakumhlasele nalowo mngane wakhe, umzimba wakhe wawuhluphekile.",
+    "Lapho usizi luba lubi kakhulu, ngamemeza ngikhumbuza u-Allah.",
+    "Nganikeza isimemezelo esisodwa: U-Allah uyiqiniso, ngakho-ke hlala ubekezele.",
+    "Ngabiza u-Ayyub ngegama; ngemva kwalokho, u-Allah wasusa ukuhlupheka futhi wabuyisela umndeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UmkaMprofethi u-Ayyub",
+        "UmkaMprofethi uNuh",
+        "UmkaMprofethi u-Ibrahim",
+        "UmkaMprofethi uYa'qub",
+        "Indodakazi kaFaro"
+      ],
+      "answer": "UmkaMprofethi u-Ayyub"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlala no-Ayyub phakathi nokulahlekelwa nokugula, bese kudinga ukubekezela",
+        "Isexwayiso sesithunywa esilungile ukuba sishiye umphakathi owonakele",
+        "Ukuthandazela ukuzalwa kozalo lwesikhathi esizayo",
+        "Ukuhumusha amaphupho ngaphakathi ejele lasebukhosini",
+        "Ukuthola ingane ephathisiwe eceleni komfula"
+      ],
+      "answer": "Ukuhlala no-Ayyub phakathi nokulahlekelwa nokugula, bese kudinga ukubekezela"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isimemezelo sokuthi u-Allah uyiqiniso futhi kudingeka ukubekezela",
+        "Umuthi wesundu eceleni komthombo",
+        "Ubizo lokwakha umkhumbi kude namagagasi",
+        "Iphupho lezinkanyezi eziyishumi nanye kanye nelanga eliphumayo",
+        "Ibhasikidi elithwalwe emfuleni iNayile"
+      ],
+      "answer": "Isimemezelo sokuthi u-Allah uyiqiniso futhi kudingeka ukubekezela"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukuhlupheka kuka-Ayyub kwasuswa futhi umndeni wakhe walulama",
+        "Ingane ebilindelwe isikhathi eside yanikezwa ngemuva komthandazo ongenabantwana",
+        "Umbusi osemusha wachaza iminyaka eyisikhombisa yenala nokuntuleka",
+        "Ingane ephathisiwe isindiswe emanzini agobhozayo",
+        "Isexwayiso sangaphambi kwesikhukhula esibhubhisayo"
+      ],
+      "answer": "Ukuhlupheka kuka-Ayyub kwasuswa futhi umndeni wakhe walulama"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "O Arquiteto da Arrogância",
+  "intro": "Em uma terra ancestral governada por um poder desafiador, um indivíduo-chave ocupava uma posição de influência. Essa alma foi fundamental nos grandes planos do governante, contribuindo para seu reinado opressor e desafiando a mensagem divina. Seu legado está intrinsecamente ligado à busca por poder mundano e à negação da verdade.",
+  "clues": [
+    "Eu servi a um governante formidável que oprimiu um povo por gerações.",
+    "Meu nome é frequentemente mencionado no Livro Divino ao lado desse poderoso líder.",
+    "Fui incumbido de um grandioso projeto de construção, uma estrutura imponente que deveria alcançar os céus.",
+    "Aconselhei meu senhor a matar os filhos dos Filhos de Israel e poupar suas filhas.",
+    "Estive envolvido em tramas e conspirações contra um poderoso mensageiro de Alá.",
+    "Meu fim, junto com o do meu mestre e seu exército, chegou nas águas de um vasto mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Golias",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Ser testado com imensa riqueza",
+        "Liderar um exército contra uma casa sagrada",
+        "Construindo uma torre para alcançar Deus",
+        "Serem atirados ao fogo por causa de sua crença.",
+        "Ser atirado num poço pelos irmãos"
+      ],
+      "answer": "Construindo uma torre para alcançar Deus"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Arca",
+        "A equipe",
+        "A Montanha",
+        "A Torre",
+        "A Baleia"
+      ],
+      "answer": "A Torre"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ter a imensa sabedoria concedida",
+        "Tornando-se um profeta",
+        "Sendo engolido pela terra",
+        "Receber um reino como recompensa",
+        "Afogando-se no mar"
+      ],
+      "answer": "Afogando-se no mar"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

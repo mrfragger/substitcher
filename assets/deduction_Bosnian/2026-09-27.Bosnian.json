@@ -1,0 +1,61 @@
+{
+  "title": "Vrt koji je nestao preko noći",
+  "intro": "Zamislite bujni vrt, pun zrelog voća i okružen visokim drvećem. Oni koji su ga obrađivali mislili su da su pametni, planirajući svoju žetvu u tihim satima prije zore, daleko od očiju onih kojima je potrebna. Ali Onaj koji nikad ne spava imao je druge planove za njihovo skriveno blago. Možete li pogoditi ko stoji iza ove opominjuće priče iz Kur'ana?",
+  "clues": [
+    "Nekada smo imali vrt tako bujan i bogat da je bio zavist svih prolaznika.",
+    "Tokom planiranja, rano ujutro smo šaputali jedni drugima, izjavljujući da nijednoj duši u potrebi neće biti dozvoljen ulazak tog dana.",
+    "Bili smo bogati ljudi, a naša srca su postala slijepa za prava siromašnih oko nas.",
+    "Kada je stigla zora naše planirane žetve, približili smo se našem vrtu samo da bismo ga preko noći zatekli pretvorenog u pocrnjelu ruševinu.",
+    "Razorna uredba je prošla, ostavljajući samo pepeo tamo gdje su nekada visili grozdovi zrelog voća.",
+    "Naša priča je strogo upozorenje zabilježeno u Kur'anu, gdje smo poznati kao vlasnici vrta koji su uskratili milostinju onima kojima je potrebna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Vlasnici vrta",
+        "Ljudi iz pećine",
+        "Učenici Ise",
+        "Šumski pratioci",
+        "Ibrahimovi gosti"
+      ],
+      "answer": "Vlasnici vrta"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Tajno beru voće i zabranjuju pristup siromašnima",
+        "Spavanje u pećini vekovima",
+        "Odbijanje da se deva napravi od kamena",
+        "Obožavanje zlatnog teleta na gori Sinaj",
+        "Izgradnja velike arke za izbjegavanje poplave"
+      ],
+      "answer": "Tajno beru voće i zabranjuju pristup siromašnima"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ograđeni vrt ispunjen palmama i vinovom lozom",
+        "Mračna pećina duboko u planinama",
+        "Grad koji je zahvatio božanski uragan",
+        "Sveta dolina u blizini Alahove kuće",
+        "Obale tekuće rijeke"
+      ],
+      "answer": "Ograđeni vrt ispunjen palmama i vinovom lozom"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Vrt je progutala žestoka nebeska uredba",
+        "Mirno su spavali 309 lunarnih godina.",
+        "Zdrobila ih je kiša kamenja",
+        "Utopili su se pod valovima velike poplave",
+        "Raspršio ih je udar hladnog, bijesnog vjetra"
+      ],
+      "answer": "Vrt je progutala žestoka nebeska uredba"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

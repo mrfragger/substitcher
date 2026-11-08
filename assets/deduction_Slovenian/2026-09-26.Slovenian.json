@@ -1,0 +1,61 @@
+{
+  "title": "Zanikanje sredi obilja",
+  "intro": "Znašli ste se med ljudstvom, čigar tržnice mrgolijo od trgovine, a se njihova tehtnica nepošteno nagiba. K njim je prišel sel z jasnimi opozorili, a se smejijo in obrnejo stran, prepričani v svojo blaginjo. Nebo se začne temniti, a oni to vidijo kot blagoslov dežja. Kdo so ti ljudje?",
+  "clues": [
+    "Uspevali smo v deželah trgovine in obilja, a naša srca so postala brezčutna.",
+    "K nam je prišel poslanec z znamenji našega Gospodarja, vendar smo se posmehovali njegovim opozorilom.",
+    "Znani smo bili po svoji obrti, vendar smo bili površni in smo goljufali ljudi.",
+    "Živeli smo med gostimi drevesi in bujnim rastlinjem, vendar smo svoje blagoslove jemali kot samoumevne.",
+    "Ko se je bližal temen oblak, smo se veselili, saj smo mislili, da bo prinesel dež v našo izsušeno deželo.",
+    "Namesto tega je ta oblak sprožil žgočo kazen in zajela nas je muka dneva sence."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Ashab al-Aykah (Gozdni tovariši)",
+        "Ljudje iz Thamuda",
+        "Ljudje iz 'Ad",
+        "Lutovi ljudje",
+        "Ljudje Nuha"
+      ],
+      "answer": "Ashab al-Aykah (Gozdni tovariši)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zavrnili so svojega poslanca in goljufali v trgovini",
+        "Častili so zlato tele in se dali zavesti",
+        "Izvajali so sodomijo in napadali popotnike",
+        "Zgradili so visoke stolpe in izzivali Boga",
+        "Niso hoteli deliti vode in so poškodovali kamelo."
+      ],
+      "answer": "Zavrnili so svojega poslanca in goljufali v trgovini"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Gost gozd ali goščava",
+        "Gora, vklesana v bivališča",
+        "Mesto ob morju",
+        "Puščavska dolina z vodnjaki",
+        "Rodoviten vrt z mnogimi sadeži"
+      ],
+      "answer": "Gost gozd ali goščava"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Uničen s senčnim oblakom ognja",
+        "Utopila jih je velika poplava",
+        "Požrl potres",
+        "Zadet od močnega vetra",
+        "Spremenjen v kamen"
+      ],
+      "answer": "Uničen s senčnim oblakom ognja"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

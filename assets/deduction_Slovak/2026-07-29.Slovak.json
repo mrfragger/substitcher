@@ -1,0 +1,61 @@
+{
+  "title": "Dvorské prenasledovanie",
+  "intro": "V chodbách moci sa vysokopostavená osoba zaľúbila do sluhy, ktorej krása bola nadpozemská. Táto zaľúbenosť viedla k sérii udalostí, ktoré preverili lojalitu, odhalili skryté pravdy a nakoniec potvrdili sluhovu nevinu.",
+  "clues": [
+    "Býval som v krajine Nílu, v paláci veľkého vplyvu.",
+    "Do môjho domu vošiel mladý muž a jeho prítomnosť mi znepokojila svet.",
+    "Snažil som sa ho zviesť, ale on hľadal útočisko u svojho Pána.",
+    "Roztrhol som mu odev zozadu, ale dôkazy poukazovali na moju klamstvo.",
+    "Aby som umlčal klebety šľachtičných, pozval som ich na zhromaždenie a vložil som im do rúk ostré predmety.",
+    "Nakoniec som verejne priznal svoju chybu a uznal pravdu pred kráľom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Manželka Al-Aziza",
+        "Ásia (manželka faraóna)",
+        "Bilqis (kráľovná zo Sáby)",
+        "Maryam (Matka Isu)",
+        "Matka Músu"
+      ],
+      "answer": "Manželka Al-Aziza"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Pokúsila sa zviesť proroka Jusufa",
+        "Pokúsila sa zabiť proroka Musu",
+        "Tvrdila, že je bohyňa",
+        "Postavila vežu, aby vyzvala Alaha",
+        "Viedla armádu proti Mekke"
+      ],
+      "answer": "Pokúsila sa zviesť proroka Jusufa"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Košeľa roztrhnutá odzadu",
+        "Zlaté teľa",
+        "Palica, ktorá sa premenila na hada",
+        "Ťava",
+        "Lampa"
+      ],
+      "answer": "Košeľa roztrhnutá odzadu"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Priznala sa a uznala pravdu",
+        "Utopila sa so svojou armádou",
+        "Premenila sa na soľný stĺp",
+        "Pohltila ju zem",
+        "Zničil ju kričiaci vietor"
+      ],
+      "answer": "Priznala sa a uznala pravdu"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

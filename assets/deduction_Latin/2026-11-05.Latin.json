@@ -1,0 +1,61 @@
+{
+  "title": "melodia montium ad crepusculum",
+  "intro": "Audi valles laudibus resonantes iuxta servum electum Dei. Vox melodia donata, iudicium a disputantibus in conclavi petitum, et metallum divino imperio mollitum inventionem exspectant. Quaenam figura cultus et iusti imperii per haec signa loquitur?",
+  "clues": [
+    "Ab Allah munificentia et voce melodiosa laudis benedictus sum.",
+    "Ab Allah doctus sum intellegere linguam iusti iudicii inter disputantes.",
+    "Gigantem bellatorem in proelio offendi, et voluntate Dei eum vici.",
+    "Sapientia, auctoritas, et scriptura psalmorum revelata ab Allah mihi data est.",
+    "Montes et aves mihi iuncti sunt ut Deum mecum vespere et ortu solis glorificarent.",
+    "Ab Allah doctus sum loricas ex ferro mihi mollis factus facere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Daud (David)",
+        "Propheta Ismail (Ismael)",
+        "Propheta Yahya (Ioannes)",
+        "Dhul-Kifl",
+        "Propheta Al-Yasa (Eliseus)"
+      ],
+      "answer": "Propheta Daud (David)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Jalut (Goliath) in proelio voluntate Dei vicit.",
+        "Arcam aedificavit ut diluvium magnum superviveret",
+        "In ignem quem Allah refrigeravit coniectus est",
+        "Ab magno pisce in mari deglutitus est",
+        "Ad caelum elevatus est sine gustatione mortis"
+      ],
+      "answer": "Jalut (Goliath) in proelio voluntate Dei vicit."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Montes et aves in laudem Dei coniungentes",
+        "Baculus qui in serpentem conversus est",
+        "Ignis qui frigidus et pacificus factus est",
+        "Camela in signum populo missa",
+        "Arca lignea in monte Judi quiescens"
+      ],
+      "answer": "Montes et aves in laudem Dei coniungentes"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Regnum, sapientiam, et Zabur (Psalmos) concessi",
+        "Filium in senectute concessum post serias preces",
+        "Salus in spelunca per multos annos concessa",
+        "Concessus fons Zamzam in deserto",
+        "Concessum est exercitus in mari submersus"
+      ],
+      "answer": "Regnum, sapientiam, et Zabur (Psalmos) concessi"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

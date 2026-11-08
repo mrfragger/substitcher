@@ -1,0 +1,61 @@
+{
+  "title": "Az emésztő irigység",
+  "intro": "Egy történet, amely idősebb minden királyságnál vagy szentírásnál – az első, féltékenységből született emberi tragédia. Egy lélek, az első szülőktől született két gyermek közül az idősebb, dühösen nézte, ahogy fiatalabb testvére olyan kegyben részesül, amelyet megtagadtak tőle. Ami ezután következett, az a legsötétebb döntés volt, maga mögött hagyva az első vérontást a földön. Vajon fel tudod fedezni a kilétét, a megpróbáltatást és a keserű megbánást?",
+  "clues": [
+    "Az első emberpár egyikéből születtem, akik a Földön jártak.",
+    "Egyszer felajánlottam Allahnak, de nem fogadták el tőlem.",
+    "A testvérem felajánlását elfogadták, míg az enyémet elutasították – ezt nem bírtam elviselni.",
+    "A saját testvéremet fenyegettem meg azzal, hogy elpusztítom.",
+    "Én voltam az első, aki gyilkosságot követett el ezen a földön, elvette a saját testvérem életét.",
+    "Allah elküldött egy földi teremtményt – egy fekete madarat, amely a földbe ásta magát –, hogy megtanítson eltitkolni tettemet, és nem maradt más, csak megbánás."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Qabil (Káin)",
+        "Habil (Ábel)",
+        "Jakub próféta",
+        "Mózes próféta",
+        "Ádám próféta"
+      ],
+      "answer": "Qabil (Káin)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Allah elutasította az áldozatot",
+        "Nagy tűzbe vetve",
+        "Csecsemőként elhagyva egy folyóban",
+        "Egy hatalmas királysággal tesztelve",
+        "Parancsolták feláldozni a fiát"
+      ],
+      "answer": "Allah elutasította az áldozatot"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az Allah által küldött varjú",
+        "Az aranyborjú",
+        "A bárka a hegyen",
+        "Az égő csipkebokor",
+        "A sziklából faragott nőstény teve"
+      ],
+      "answer": "Az Allah által küldött varjú"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megbánással telve a vesztesek között lettem",
+        "Elnyelődött a földbe kincsekkel együtt",
+        "Allah nemes hírnöke lett",
+        "Isteni irgalmasságból bejutott a Paradicsomba",
+        "Páratlan királyság felett uralkodott"
+      ],
+      "answer": "Megbánással telve a vesztesek között lettem"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

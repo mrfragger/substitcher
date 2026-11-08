@@ -1,0 +1,61 @@
+{
+  "title": "An Comhartha i measc na gCloch",
+  "intro": "I dtír inar snoíodh sléibhte ina dtithe, tháinig teachtaire le comhartha míorúilteach ó Allah. D'éiligh na daoine cruthúnas, agus fuair siad créatúr as carraig sholadach. Ach mar gheall ar a n-uabhar, shéan siad an rabhadh, rud a shéalaigh a gcinniúint.",
+  "clues": [
+    "Cuireadh mé chuig pobal a bhí ina gcónaí in áitribh snoite as sléibhte.",
+    "D’iarr siad orm comhartha a thabhairt liom, agus mar sin thóg mé camall as carraig.",
+    "D’ordaigh mé dóibh ligean don chamall ól go saor agus gan dochar a dhéanamh dó.",
+    "Níor umhlaigh siad agus ghearr siad bacainní an chamaill, ag sárú mo rabhaidh.",
+    "D’fhógair mé go dtiocfadh pionós i ndiaidh trí lá.",
+    "Ar maidin, scrios pléasc mór iad, ach sábháladh mise agus mo lucht leanúna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Salih",
+        "Fáidh Hud",
+        "Fáidh Lút",
+        "Fáidh Shu'ayb",
+        "Fáidh Ibrahim"
+      ],
+      "answer": "Fáidh Salih"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Éileamh ar chamall baineann ó charraig",
+        "Éileamh ar lao órga",
+        "Scaip an t-éileamh ar bhord ó neamh",
+        "Éileamh ar thuilte",
+        "Éileamh ar fhoireann a bheith ina nathair"
+      ],
+      "answer": "Éileamh ar chamall baineann ó charraig"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An camall baineann agus a lao",
+        "Áirc Naoi",
+        "Foireann Mhaois",
+        "An Lao Órga",
+        "Tine Ibrahim"
+      ],
+      "answer": "An camall baineann agus a lao"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosta ag pléascadh mór",
+        "Báite sa tuile",
+        "Slogtha ag an talamh",
+        "Iompú ina n-apaí",
+        "Scriosta ag gaoth ghéar"
+      ],
+      "answer": "Scriosta ag pléascadh mór"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

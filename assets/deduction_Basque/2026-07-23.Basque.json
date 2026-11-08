@@ -1,0 +1,61 @@
+{
+  "title": "Flying Clay-ek topo egin zion armada",
+  "intro": "Mahoma profetaren aurreko garaian, Yemengo agintari boteretsu batek kanpaina militar bat abiarazi zuen Mekako santutegi sakratu bat suntsitzeko helburuarekin. Etsai honek gerra-elefanteez osatutako armada zabal bat zuzendu zuen, bere indarrean eta kopuruan konfiantzaz. Hala ere, haien bidaia bat-batean amaituko zen ustekabeko jainkozko esku-hartze batekin topo egin zutenean. Identifika al dezakezu nork egin zion aurre kontu harrigarri honi?",
+  "clues": [
+    "Armada erraldoi batekin eta gerra-elefante indartsuekin abiatu ginen etxe sakraturantz.",
+    "Errukitsuenaren zerbitzariek eraikitako gurtza-leku bat errotik kendu eta suntsitzea genuen helburu.",
+    "Txori txiki multzo bat bidali zuten gure aurka, mokoan eta atzaparretan buztinezko harriak zeramatzatela",
+    "Harriak botatzen zizkigun soinu bat entzun genuen, zapaldutako hondakin bihurtuz.",
+    "Yemengo lurraldekoa nintzen eta santutegi sakratua mantentzea bilatzen zuen agintari baten agindupean zerbitzatu nuen.",
+    "Ala-ren santutegia desafiatzera ausartzen direnentzat adibide bihurtu gintuzten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Abraha al-Ashram-eko Armada",
+        "Etiopiako Indarrak.",
+        "Persiar konkistatzaileak",
+        "Erromatar legioak",
+        "Beduinoen erasotzaileak"
+      ],
+      "answer": "Abraha al-Ashram-eko Armada"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Basamortuko gotorleku baten setioa",
+        "Mekako santutegi sakratuaren inbasioa",
+        "Itsas gudu bat itsasoan",
+        "Errege tirano baten aurkako matxinada",
+        "Profeta galdu baten bilaketa"
+      ],
+      "answer": "Mekako santutegi sakratuaren inbasioa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Meka ondoko Mina harana",
+        "Sana'ako jauregia, Yemenen",
+        "Tihamah mendiak.",
+        "Jerusalemgo antzinako hiria",
+        "Itsaso Gorriaren kostaldeak"
+      ],
+      "answer": "Meka ondoko Mina harana"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Etxe sakratuaren garaipena eta suntsipena",
+        "Buztinezko harriak zeramatzaten hegaztien porrota",
+        "Bake-errendizioa eta bihurketa",
+        "Gosetea eta hondamendi naturala",
+        "Euri jasa handien ondorioz atzera egin du"
+      ],
+      "answer": "Buztinezko harriak zeramatzaten hegaztien porrota"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

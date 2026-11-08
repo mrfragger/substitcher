@@ -1,0 +1,61 @@
+{
+  "title": "Roho Inayoaminika ya Ufunuo",
+  "intro": "Katika ulimwengu usioonekana, kiumbe mwenye nuru safi hutembea kwa usahihi, akitekeleza kila amri bila kusita. Mtu huyu amezungumza na watumishi waliochaguliwa, ameleta maneno ya mwongozo, na ameshuhudia kufunuliwa kwa amri za Mungu katika vizazi vyote. Nafsi hii yenye heshima ni nani?",
+  "clues": [
+    "Mimi ni kiumbe mwenye nuru safi, nimeumbwa kutokana na nuru, na sijawahi kuasi amri hata moja ya Mola wangu.",
+    "Ninatembea kati ya mbingu na ardhi, nikishuka na amri za Mwenye kurehemu.",
+    "Nilitumwa kwa bikira mtukufu katika patakatifu, nikimtangazia mwana msafi.",
+    "Mimi ni roho wa utakatifu, na nilimsaidia nabii aliyepewa ishara zilizo wazi na Injili.",
+    "Nilifika kwenye pango juu ya mlima kutoa maneno ya kwanza ya kisomo ambayo yangehifadhiwa milele.",
+    "Mimi ndiye roho mwaminifu, na ni mimi niliyeishusha Quran moyoni mwa mjumbe wa mwisho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Jibril (Gabrieli)",
+        "Mikail (Mikaeli)",
+        "Malaika wa Kifo",
+        "Malik (Mlinzi wa Kuzimu)",
+        "Harut (mmoja wa malaika wawili huko Babeli)"
+      ],
+      "answer": "Jibril (Gabrieli)"
+    },
+    "trial": {
+      "label": "Dhamira/Jukumu Muhimu",
+      "options": [
+        "Kutoa ufunuo kwa manabii",
+        "Kupiga tarumbeta Siku ya Hukumu",
+        "Kulinda milango ya kuzimu",
+        "Kurekodi matendo ya wanadamu",
+        "Kusababisha mvua kunyesha"
+      ],
+      "answer": "Kutoa ufunuo kwa manabii"
+    },
+    "location": {
+      "label": "Sifa au Kichwa Muhimu",
+      "options": [
+        "Roho Mtakatifu (Ruh al-Qudus)",
+        "Roho wa Nguvu",
+        "Roho wa Rehema",
+        "Roho ya Mwongozo",
+        "Roho wa Ukweli"
+      ],
+      "answer": "Roho Mtakatifu (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Matokeo ya Misheni",
+      "options": [
+        "Quran ilifunuliwa kwa Mtume Muhammad",
+        "Tarumbeta ilipigwa Siku ya Hukumu",
+        "Kuzimu kulindwa na milango yake ilikuwa imefungwa",
+        "Kitabu cha Matendo kiliwasilishwa kwa Mwenyezi Mungu",
+        "Mvua ilinyesha duniani"
+      ],
+      "answer": "Quran ilifunuliwa kwa Mtume Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

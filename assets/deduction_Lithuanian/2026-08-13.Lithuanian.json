@@ -1,0 +1,61 @@
+{
+  "title": "Šventųjų namų kantri siela",
+  "intro": "Korano puslapiuose iš didžio pranašo giminės išnyra asmenybė, apdovanota kaip dovana senatvėje. Ši siela švenčiama už nepajudinamą teisingumą ir svarbų vaidmenį kuriant šventovę, kuri tapo tikėjimo švyturiu. Skaitydami užuominas, atidžiai klausykite balso iš praeities, nes jis kalba pirmuoju asmeniu.",
+  "clues": [
+    "Korane esu minimas kartu su kitu pranašu kaip dovana, suteikta pagyvenusiam pasiuntiniui.",
+    "Aš buvau vienas iš dviejų palikuonių, padovanotų tam pranašui vėlesniais jo gyvenimo metais.",
+    "Korane esu giriamas už ištikimybę savo žodžiui.",
+    "Aš turėjau pranašystės garbę ir buvau pasiųstas kaip pasiuntinys.",
+    "Prisijungiau prie tėvo kėlimo Šventųjų Namų pamatams.",
+    "Esu prisimenamas kaip vienas iš kantriųjų, o šventi namai, kuriuos pastatėme, tapo žmonių sugrįžimo ir saugumo vieta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ismailas",
+        "Pranašas Išakas",
+        "Pranašas Jakubas",
+        "Pranašas Zakarija",
+        "Pranašas Jahja"
+      ],
+      "answer": "Pranašas Ismailas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Kaabos pamatų kėlimas su Ibrahimu",
+        "Įmetimas į ugnį",
+        "Banginio prarytas",
+        "Izraelitų išvedimas iš Egipto",
+        "Arkos statyba"
+      ],
+      "answer": "Kaabos pamatų kėlimas su Ibrahimu"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Kaaba",
+        "Sinajaus kalnas",
+        "Raudonoji jūra",
+        "Auksinis veršelis",
+        "Edeno sodas"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Įskaitytas tarp pacientų",
+        "Priskirtas prie nusikaltėlių",
+        "Priskiriamas prie magų",
+        "Priskirtas prie netikinčiųjų",
+        "Priskirtas prie veidmainių"
+      ],
+      "answer": "Įskaitytas tarp pacientų"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

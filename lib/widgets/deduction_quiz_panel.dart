@@ -1,5 +1,9 @@
+import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../quiz/deduction_model.dart';
+import '../quiz/deduction_strings.dart';
 import '../quiz/daily_quiz_index.dart';
 import '../quran/quran_index.dart';
 import '../services/allah_highlighter.dart';
@@ -34,6 +38,22 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
   bool _showArabic = false;
   int _revealedHints = 0;
 
+  // --- Languages ---
+  // Assets live in assets/deduction_<Language>/<date>.<Language>.json (plus the
+  // English source in assets/deduction_all/<date>.json). The set of languages
+  // available for each date is discovered from the asset manifest.
+  static const String _defaultLanguage = 'English';
+  static const String _languagePrefKey = 'deduction_language';
+  Map<String, Set<String>> _languagesByDate = {};
+  String _preferredLanguage = _defaultLanguage; // remembered choice
+  String _activeLanguage = _defaultLanguage;    // what is shown right now
+  DeductionData? _englishData; // used to keep saved guesses language-independent
+
+  // Titles for the left-hand list in the chosen language (date -> title).
+  // Dates without a translation fall back to the English title from DailyQuizEntry.
+  final Map<String, Map<String, String>> _titleCache = {}; // language -> titles
+  Map<String, String> _titles = {};
+
   @override
   void initState() {
     super.initState();
@@ -49,7 +69,153 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
 
   Color _categoryColor(int index) => _categoryColors[index % _categoryColors.length];
 
+  Future<void> _loadLanguageIndex() async {
+    final map = <String, Set<String>>{};
+    try {
+      final manifest = await AssetManifest.loadFromAssetBundle(rootBundle);
+      final perLanguage =
+          RegExp(r'^assets/deduction_([^/]+)/(\d{4}-\d{2}-\d{2})\.(.+)\.json$');
+      final englishSource = RegExp(r'^assets/deduction_all/(\d{4}-\d{2}-\d{2})\.json$');
+      for (final path in manifest.listAssets()) {
+        final a = englishSource.firstMatch(path);
+        if (a != null) {
+          map.putIfAbsent(a.group(1)!, () => {}).add(_defaultLanguage);
+          continue;
+        }
+        final m = perLanguage.firstMatch(path);
+        // English always comes from deduction_all, never a per-language folder.
+        if (m != null && m.group(1) == m.group(3) && m.group(1) != _defaultLanguage) {
+          map.putIfAbsent(m.group(2)!, () => {}).add(m.group(1)!);
+        }
+      }
+    } catch (_) {
+      // No manifest / unreadable: fall back to English only.
+    }
+    _languagesByDate = map;
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      _preferredLanguage = prefs.getString(_languagePrefKey) ?? _defaultLanguage;
+    } catch (_) {}
+  }
+
+  List<String> _languagesFor(DateTime date) {
+    final others = (_languagesByDate[_fmtDate(date)] ?? <String>{})
+        .where((l) => l != _defaultLanguage)
+        .toList()
+      ..sort();
+    return [_defaultLanguage, ...others];
+  }
+
+  String _languageLabel(String l) => l.replaceAll('_', ' ');
+
+  Future<DeductionData?> _loadLanguage(DateTime date, String lang) async {
+    final d = _fmtDate(date);
+    final paths = lang == _defaultLanguage
+        ? ['assets/deduction_all/$d.json']
+        : ['assets/deduction_$lang/$d.$lang.json'];
+    for (final p in paths) {
+      try {
+        final decoded = jsonDecode(await rootBundle.loadString(p));
+        if (decoded is Map<String, dynamic>) {
+          // Extracted files hold just the deduction object; the model expects
+          // the full day structure, so re-wrap it.
+          final parsed = DeductionData.tryParse({'deduction': decoded});
+          if (parsed != null) return parsed;
+        }
+      } catch (_) {
+        // try next path
+      }
+    }
+    if (lang == _defaultLanguage) {
+      // Legacy: pull English straight from the daily quiz file.
+      try {
+        return DeductionData.tryParse(await DailyQuizIndex.loadDay(date));
+      } catch (_) {}
+    }
+    return null;
+  }
+
+  DeductionCategory? _catByKey(DeductionData? d, String key) =>
+      d?.categories.where((c) => c.key == key).firstOrNull;
+
+  /// Maps an option from one language to the same-position option in another.
+  /// Uses the file order (originalOptions), since displayed options are shuffled.
+  String? _convertOption(DeductionCategory? from, DeductionCategory? to, String option) {
+    if (from == null || to == null) return null;
+    final i = from.originalOptions.indexOf(option);
+    if (i < 0 || i >= to.originalOptions.length) return null;
+    return to.originalOptions[i];
+  }
+
+  /// Guesses are saved in English so they survive language switches.
+  Map<String, String> _selectionsForSave() {
+    final out = <String, String>{};
+    _selections.forEach((key, value) {
+      if (_activeLanguage == _defaultLanguage) {
+        out[key] = value;
+        return;
+      }
+      final eng = _convertOption(_catByKey(_data, key), _catByKey(_englishData, key), value);
+      if (eng != null) out[key] = eng;
+    });
+    return out;
+  }
+
+  Future<void> _loadTitles(String lang) async {
+    if (lang == _defaultLanguage) {
+      if (mounted) setState(() => _titles = {});
+      return;
+    }
+    var titles = _titleCache[lang];
+    if (titles == null) {
+      final loaded = <String, String>{};
+      await Future.wait(_entries.map((e) async {
+        final d = _fmtDate(e.date);
+        if (!(_languagesByDate[d]?.contains(lang) ?? false)) return;
+        try {
+          final decoded =
+              jsonDecode(await rootBundle.loadString('assets/deduction_$lang/$d.$lang.json'));
+          final t = decoded is Map ? decoded['title'] : null;
+          if (t is String && t.trim().isNotEmpty) loaded[d] = t;
+        } catch (_) {}
+      }));
+      titles = loaded;
+      _titleCache[lang] = titles;
+    }
+    // Ignore if the user switched language again while this was loading.
+    if (!mounted || lang != _preferredLanguage) return;
+    setState(() => _titles = titles!);
+  }
+
+  Future<void> _changeLanguage(String lang) async {
+    final date = _selectedDate;
+    if (date == null || lang == _activeLanguage) return;
+    final newData = (lang == _defaultLanguage ? _englishData : null) ??
+        await _loadLanguage(date, lang);
+    if (newData == null || !mounted) return;
+    final old = _data;
+    setState(() {
+      final remapped = <String, String>{};
+      _selections.forEach((key, value) {
+        final m = _convertOption(_catByKey(old, key), _catByKey(newData, key), value);
+        if (m != null) remapped[key] = m;
+      });
+      _selections
+        ..clear()
+        ..addAll(remapped);
+      _data = newData;
+      _activeLanguage = lang;
+      _preferredLanguage = lang;
+    });
+    _loadTitles(lang);
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      await prefs.setString(_languagePrefKey, lang);
+    } catch (_) {}
+  }
+
   Future<void> _init() async {
+    await _loadLanguageIndex();
     final entries = await DailyQuizIndex.availableEntries();
     if (!mounted) return;
     setState(() {
@@ -57,6 +223,7 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
       _loadingList = false;
     });
     if (entries.isEmpty) return;
+    _loadTitles(_preferredLanguage); // fire and forget; list shows English meanwhile
 
     final lastDate = await DailyQuizPrefs.loadLastDate();
     final resumeEntry = lastDate != null
@@ -89,22 +256,40 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
       _revealedHints = 0;
     });
     try {
-      final dayJson = await DailyQuizIndex.loadDay(date);
-      final data = DeductionData.tryParse(dayJson);
+      final english = await _loadLanguage(date, _defaultLanguage);
+      final wanted = _languagesFor(date).contains(_preferredLanguage)
+          ? _preferredLanguage
+          : _defaultLanguage;
+      var shown = wanted;
+      DeductionData? data;
+      if (wanted == _defaultLanguage) {
+        data = english;
+      } else {
+        data = await _loadLanguage(date, wanted);
+        if (data == null) {
+          data = english;
+          shown = _defaultLanguage;
+        }
+      }
       if (!mounted) return;
       setState(() {
+        _englishData = english;
         _data = data;
+        _activeLanguage = shown;
         _loadingDay = false;
       });
       if (data != null) {
+        // Saved guesses are stored in English; convert to the language on screen.
         final saved = await QuizSelectionPrefs.loadSelections(date);
         if (saved != null && mounted) {
           setState(() {
-            for (final cat in data.categories) {
-              final answer = saved[cat.key];
-              if (answer != null) {
-                _selections[cat.key] = answer;
-              }
+            for (final cat in data!.categories) {
+              final englishAnswer = saved[cat.key];
+              if (englishAnswer == null) continue;
+              final answer = shown == _defaultLanguage
+                  ? englishAnswer
+                  : _convertOption(_catByKey(english, cat.key), cat, englishAnswer);
+              if (answer != null) _selections[cat.key] = answer;
             }
           });
         }
@@ -130,8 +315,7 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
   void _selectOption(String categoryKey, String option) {
     setState(() => _selections[categoryKey] = option);
     if (_selectedDate != null) {
-      QuizSelectionPrefs.saveSelections(
-          _selectedDate!, Map<String, String>.from(_selections));
+      QuizSelectionPrefs.saveSelections(_selectedDate!, _selectionsForSave());
     }
   }
 
@@ -182,9 +366,9 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
           child: _loadingDay
               ? const Center(child: CircularProgressIndicator(color: Colors.deepPurple))
               : _data == null
-                  ? const Center(
-                      child: Text('No deduction puzzle for this day',
-                          style: TextStyle(color: Colors.white38)))
+                  ? Center(
+                      child: Text(DeductionStrings.noPuzzle(_activeLanguage),
+                          style: const TextStyle(color: Colors.white38)))
                   : _buildQuiz(),
         ),
       ],
@@ -199,27 +383,35 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
       itemBuilder: (context, i) {
         final e = _entries[i];
         final isSelected = _selectedDate != null && _sameDay(e.date, _selectedDate!);
+        final title = _titles[_fmtDate(e.date)] ?? e.title;
+        // Only flip layout when this row's title really is in the RTL language.
+        final rtl = _titles.containsKey(_fmtDate(e.date)) &&
+            _isRtlLanguage(_preferredLanguage);
         return InkWell(
           onTap: () => _selectDate(e.date),
           child: Container(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
             color: isSelected ? Colors.deepPurple.withAlpha(60) : null,
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(_fmtDate(e.date),
-                    style: TextStyle(
-                      color: isSelected ? Colors.purple[200] : Colors.white38,
-                      fontSize: 11,
-                    )),
-                const SizedBox(height: 2),
-                Text(e.title,
-                    style: TextStyle(
-                      color: isSelected ? Colors.white : Colors.white70,
-                      fontSize: 13,
-                      fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
-                    )),
-              ],
+            child: Directionality(
+              textDirection: rtl ? TextDirection.rtl : TextDirection.ltr,
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(_fmtDate(e.date),
+                      textDirection: TextDirection.ltr,
+                      style: TextStyle(
+                        color: isSelected ? Colors.purple[200] : Colors.white38,
+                        fontSize: 11,
+                      )),
+                  const SizedBox(height: 2),
+                  Text(title,
+                      style: TextStyle(
+                        color: isSelected ? Colors.white : Colors.white70,
+                        fontSize: 13,
+                        fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                      )),
+                ],
+              ),
             ),
           ),
         );
@@ -245,7 +437,8 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
                 foregroundColor: Colors.deepPurple[200],
                 side: BorderSide(color: Colors.deepPurple.withAlpha(160)),
               ),
-              child: Text('Reveal Hint ${revealedCount + 1} of $total'),
+              child: Text(DeductionStrings.revealHint(
+                  _activeLanguage, revealedCount + 1, total)),
             ),
           ),
         for (int i = 0; i < revealedCount; i++)
@@ -280,7 +473,7 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
           Padding(
             padding: const EdgeInsets.only(top: 4, bottom: 4),
             child: Text(
-              '$_revealedHints hint${_revealedHints == 1 ? '' : 's'} used',
+              DeductionStrings.hintsUsed(_activeLanguage, _revealedHints),
               style: const TextStyle(color: Colors.white38, fontSize: 12),
             ),
           ),
@@ -288,7 +481,20 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
     );
   }
 
+  // Languages written right-to-left. Reuses the app-wide set and adds the two
+  // translation names it doesn't cover (Kurdish_Sorani, Yiddish).
+  bool _isRtlLanguage(String lang) =>
+      isRtlQuranLanguage(lang) || lang == 'Kurdish_Sorani' || lang == 'Yiddish';
+
   Widget _buildQuiz() {
+    return Directionality(
+      textDirection:
+          _isRtlLanguage(_activeLanguage) ? TextDirection.rtl : TextDirection.ltr,
+      child: _buildQuizContent(),
+    );
+  }
+
+  Widget _buildQuizContent() {
     final data = _data!;
     return ListView(
       padding: const EdgeInsets.all(16),
@@ -301,12 +507,13 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
                   style: const TextStyle(
                       color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold)),
             ),
+            _buildLanguagePicker(),
             if (_selections.isNotEmpty)
               TextButton.icon(
                 onPressed: _clearGuesses,
                 icon: const Icon(Icons.refresh, size: 16, color: Colors.white54),
-                label: const Text('Clear Guesses',
-                    style: TextStyle(color: Colors.white54, fontSize: 12)),
+                label: Text(DeductionStrings.clearGuesses(_activeLanguage),
+                    style: const TextStyle(color: Colors.white54, fontSize: 12)),
               ),
           ],
         ),
@@ -321,6 +528,34 @@ class _DeductionQuizPanelState extends State<DeductionQuizPanel> {
             .entries
             .map((e) => _buildCategory(e.value, _categoryColor(e.key))),
       ],
+    );
+  }
+
+  Widget _buildLanguagePicker() {
+    final date = _selectedDate;
+    if (date == null) return const SizedBox.shrink();
+    final langs = _languagesFor(date);
+    if (langs.length < 2) return const SizedBox.shrink();
+    return Padding(
+      padding: const EdgeInsets.only(left: 8),
+      child: DropdownButton<String>(
+        value: langs.contains(_activeLanguage) ? _activeLanguage : _defaultLanguage,
+        isDense: true,
+        underline: const SizedBox.shrink(),
+        dropdownColor: const Color(0xFF2A2A2A),
+        icon: const Padding(
+          padding: EdgeInsets.only(left: 4),
+          child: Icon(Icons.language, size: 16, color: Colors.white54),
+        ),
+        style: const TextStyle(color: Colors.white70, fontSize: 12),
+        items: [
+          for (final l in langs)
+            DropdownMenuItem<String>(value: l, child: Text(_languageLabel(l))),
+        ],
+        onChanged: (l) {
+          if (l != null) _changeLanguage(l);
+        },
+      ),
     );
   }
 

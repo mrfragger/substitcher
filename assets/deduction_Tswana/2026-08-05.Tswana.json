@@ -1,0 +1,61 @@
+{
+  "title": "Letsatsi la Pontsho ya Bofelo",
+  "intro": "E re ka setlhopha sa badiragatsi ba ba nang le bokgoni se ne se biditswe go tla go bontsha maatla a magolo, se ne sa iphitlhela se lebane le boammaaruri jo bo neng bo sa lebelelwa jo bo neng bo tla fetola matshelo a bone go ya go ile.",
+  "clues": [
+    "Re ne re itsege ka tiro ya rona ya diatla, re le beng ba go tsietsa le go tsietsa.",
+    "Re ne ra bidiwa ke mmusi gore re lebane le mogwetlhani yo o neng a tshwere thobane e e sa raraanang.",
+    "Fa re bona boammaaruri, re ne ra wela fa fatshe ka go khubama, re bolela tumelo mo Moreneng wa mafatshe.",
+    "Mogateledi yono o ne a re tshosetsa ka kotlhao e e botlhoko, mme ga re a ka ra okaoka.",
+    "Re ne re le bangwe ba batho ba ntlha go dumela mo molaetseng morago ga go bona sesupo se se bonalang sentle.",
+    "Re ne ra bolaelwa tumelo ya rona, mme re tla nna ba ntlha go tsena mo Paradaiseng le basiami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Maselamose a ga Faro",
+        "Baiseraele",
+        "Batho ba Thamude",
+        "Barutwa ba ga Isa",
+        "Mophato wa ga Abraha"
+      ],
+      "answer": "Maselamose a ga Faro"
+    },
+    "trial": {
+      "label": "Teko / Tiragalo",
+      "options": [
+        "Kgaisano le Moporofeti Musa",
+        "Go Aga Tora",
+        "Morwalela o Mogolo",
+        "Sebetso sa Tsie",
+        "Lewatle le le Kgaoganang"
+      ],
+      "answer": "Kgaisano le Moporofeti Musa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Letsatsi la Moletlo",
+        "Mokgatšha wa Tuwa",
+        "Motse wa Irame",
+        "Tshingwana ya Bosakhutleng",
+        "Lebala la Arafat"
+      ],
+      "answer": "Letsatsi la Moletlo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ba ne ba bapolwa phatlalatsa",
+        "Ba ne ba nwela mo lewatleng",
+        "Ba ne ba dirwa balatedi ba moporofeti .",
+        "Ba ne ba romelwa botshwarwa",
+        "Ba ne ba jewa ke molelo"
+      ],
+      "answer": "Ba ne ba bapolwa phatlalatsa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'impedimento presso l'antica casa",
+  "intro": "Nella città sacra, una figura potente ribolliva di rabbia mentre un nuovo messaggio cominciava a diffondersi. Quest'individuo, il cui nome divenne sinonimo di opposizione alla verità, vide la propria influenza sgretolarsi sotto il peso della rivelazione divina. Chi era quest'anima, il cui destino fu sigillato tra le sabbie di un celebre campo di battaglia?",
+  "clues": [
+    "Ero un capo tra il mio popolo, noto per la mia ricchezza e la mia influenza in una città che ospitava un antico santuario.",
+    "Quando un uomo della mia tribù cominciò a proclamare il messaggio di un unico Dio, io lo derisi, insieme alle sue rivelazioni, definendole semplici racconti del passato.",
+    "Ho affrontato quell'uomo mentre pregava vicino alla struttura sacra, minacciando di interrompere il suo culto con la forza, se necessario.",
+    "Ero tra i leader che complottarono per mettere a tacere la nuova fede, opponendosi ai suoi seguaci sia con le parole che con le armi.",
+    "Ho marciato con un esercito verso un luogo chiamato Badr, fiducioso che avremmo annientato il piccolo gruppo di credenti.",
+    "Ma su quel campo di battaglia la mia vita giunse al termine, e la mia morte divenne una lezione per coloro che persistono nell'incredulità di fronte a segni inequivocabili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Impedire al Profeta di pregare alla Kaaba",
+        "La costruzione della Kaaba",
+        "Scrivere il Corano",
+        "Guidando l'esercito degli elefanti",
+        "Dividere la luna"
+      ],
+      "answer": "Impedire al Profeta di pregare alla Kaaba"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La Kaaba",
+        "L'Arca del profeta Nuh",
+        "Il bastone del profeta Mosè",
+        "Il vitello d'oro",
+        "Il trono della regina di Saba"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Ucciso nella battaglia di Badr",
+        "Si pentì e si convertì all'Islam.",
+        "Fuggì in Abissinia",
+        "Morì nell'anno dell'Elefante",
+        "Divenne un compagno del Profeta"
+      ],
+      "answer": "Ucciso nella battaglia di Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

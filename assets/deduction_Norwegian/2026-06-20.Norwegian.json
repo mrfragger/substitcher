@@ -1,0 +1,61 @@
+{
+  "title": "De utstøtte fra hagen",
+  "intro": "Et mystisk vesen dvelte en gang i skapelsens høyeste lag, nærmere det guddommelige enn mange kunne fatte. Likevel slo stolthet rot, og en enkelt trasshandling endret eksistensens gang. Nå vandrer dette vesenet som en svoren fiende, hvisker og legger planer inntil en lovet dag kommer. Kan du avsløre identiteten til denne falne?",
+  "clues": [
+    "Jeg var en gang blant dem som var nærmest den guddommelige nærvær, opphøyd over mye av skapelsen.",
+    "Jeg ble skapt av et brennende element, ikke av jord eller leire.",
+    "Da jeg ble beordret til å bøye meg for en ny skapning, nektet jeg – drevet av det jeg trodde var min egen overlegenhet.",
+    "Jeg ble kastet ut og forbannet, men til slutt fikk jeg utsettelse inntil en kjent, fastsatt tid.",
+    "Jeg sverget å villede så mange som jeg kunne, og nærme meg Adams avkom fra alle kanter.",
+    "Jeg er den åpenlyse, erklærte fienden av hele menneskeheten, alltid i ferd med å konspirere og hviske inntil den fastsatte enden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Profeten Ilyas",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Prøve / Arrangement",
+      "options": [
+        "Nektelse av å bøye seg for Adam",
+        "Å bygge en gullkalv som folket kan tilbe",
+        "Lære trolldom til folket i Babylon",
+        "Å kløyve havet med en stav",
+        "Bære dronningen av Sabas trone på et øyeblikk"
+      ],
+      "answer": "Nektelse av å bøye seg for Adam"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Edens hage",
+        "Tur-fjellet",
+        "Rass' brønn",
+        "Faraos palass",
+        "De sovendes hule"
+      ],
+      "answer": "Edens hage"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Frist innvilget frem til dommedag",
+        "Druknet i havet med en hær",
+        "Levende begravet under et kollapsende palass",
+        "Forvandlet til en ape eller apekatt",
+        "Hevet til en høyere rang"
+      ],
+      "answer": "Frist innvilget frem til dommedag"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

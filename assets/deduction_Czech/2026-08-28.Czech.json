@@ -1,0 +1,61 @@
+{
+  "title": "Překážka ve Starobylém domě",
+  "intro": "V posvátném městě vřela mocná postava hněvem, když se začalo šířit nové poselství. Tato osoba, jejíž jméno se stalo synonymem pro odpor k pravdě, sledovala, jak se její vliv hroutí pod tíhou božského zjevení. Kdo byla tato duše, jejíž osud byl zpečetěn v píscích slavného bojiště?",
+  "clues": [
+    "Byl jsem náčelníkem svého lidu, známým pro své bohatství a vliv ve městě, kde se nacházela starobylá svatyně.",
+    "Když jeden muž z mého kmene začal hlásat poselství o jednom Bohu, zesměšňoval jsem ho i jeho zjevení a nazýval jsem je pouhými příběhy z minulosti.",
+    "Konfrontoval jsem toho muže, když se modlil poblíž posvátné stavby, a vyhrožoval jsem, že v případě potřeby jeho bohoslužbu zastavím násilím.",
+    "Patřil jsem mezi vůdce, kteří plánovali umlčet novou víru a stavěli se proti jejím stoupencům slovy i zbraněmi.",
+    "Pochodoval jsem s armádou na místo zvané Badr s jistotou, že rozdrtíme malou skupinu věřících.",
+    "Ale na tomto bojišti můj život skončil a má smrt se stala ponaučením pro ty, kteří setrvávají v nevíře po jasných znameních."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Abu Džahl",
+        "Abú Sufján ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umajja ibn Chalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Džahl"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Zabránění Prorokovi v modlitbě u Kaaby",
+        "Stavba Kaaby",
+        "Psaní Koránu",
+        "Vedení armády slonů",
+        "Rozdělení Měsíce"
+      ],
+      "answer": "Zabránění Prorokovi v modlitbě u Kaaby"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Kaaba",
+        "Archa proroka Nuha",
+        "Hůl proroka Musy",
+        "Zlaté tele",
+        "Trůn královny ze Sáby"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Padl v bitvě u Badru",
+        "Činil pokání a stal se muslimem",
+        "Uprchl do Habeše",
+        "Zemřel v roce slona",
+        "Stal se společníkem Proroka"
+      ],
+      "answer": "Padl v bitvě u Badru"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

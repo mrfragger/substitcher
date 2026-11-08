@@ -1,0 +1,61 @@
+{
+  "title": "Igazi Lokuqala Elachitheka Ngomona",
+  "intro": "Cabanga ngezinsuku zokuqala zesintu, lapho umhlaba wonke wawungumndeni owodwa. Ubukela njengoba iminikelo emibili ibekwa phambi kuka-Allah - omunye wamukelwa, omunye wenqatshwa. Umona uyagxila enhliziyweni, futhi usongo luhletshwa ngentukuthelo. Okulandelayo kuzoshiya uphawu emlandweni kuze kube phakade, ngisho nenyoni encane iyoba umfundisi.",
+  "clues": [
+    "Ngingowomndeni wokuqala emhlabeni.",
+    "Nganikela umnikelo ku-Allah, kodwa owami awuzange wamukelwe ngenkathi omunye umnikelo usamukelwa.",
+    "Ngakhuluma ngomona futhi ngasongela ngokuzibulala.",
+    "Ngabulala abantu bokuqala ngokungafanele emhlabeni.",
+    "Ngabona igwababa likhwehlela phansi ukuze lingibonise ukuthi singasifihla kanjani isidumbu.",
+    "Ngasala ngigcwele ukuzisola futhi ngaba phakathi kwabalahlekelwe yilokho izandla zami ezazikwenzile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UQabil (uKhayini), indodana ka-Adamu",
+        "USamiri, umenzi wethole",
+        "UNamrud, umbusi owayephikisana no-Ibrahim",
+        "U-Azar, umenzi wezithombe",
+        "UKan'an, indodana kaNuh eyayiminze emanzini"
+      ],
+      "answer": "UQabil (uKhayini), indodana ka-Adamu"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukubulawa komfowabo ngenxa yomona ngemva kokwenqatshwa kwesipho",
+        "Ukwakha umbhoshongo ophakeme ukuze ubuke amazulu",
+        "Ukwakha ithole legolide lokukhulekelwa",
+        "Ukufuna itafula elibekwe ezulwini",
+        "Ukuhola ibutho lezindlovu ukubhubhisa iKaaba"
+      ],
+      "answer": "Ukubulawa komfowabo ngenxa yomona ngemva kokwenqatshwa kwesipho"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Igwababa liklwebha umhlaba ukuze libonise ukungcwatshwa",
+        "Ithole legolide elikhalayo",
+        "Umkhumbi omkhulu phezu kwamanzi kazamcolo",
+        "Intonga eyaba yinyoka",
+        "Itafula elinokudla okuvela ezulwini"
+      ],
+      "answer": "Igwababa liklwebha umhlaba ukuze libonise ukungcwatshwa"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waba nokuzisola futhi waba phakathi kwabalahlekile",
+        "Waminza esikhukhuleni esikhulu",
+        "Wagwinywa umhlaba ngengcebo",
+        "Washaywa ngochoko iminyaka eyisikhombisa",
+        "Wanikwa umbuso olawula imimoya"
+      ],
+      "answer": "Waba nokuzisola futhi waba phakathi kwabalahlekile"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

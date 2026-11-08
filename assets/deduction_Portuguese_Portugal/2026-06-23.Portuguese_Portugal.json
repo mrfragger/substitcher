@@ -1,0 +1,61 @@
+{
+  "title": "O Guardião à Beira do Rio",
+  "intro": "Em uma terra onde o decreto de um tirano trouxe tristeza a muitos lares, uma alma recebeu uma mensagem que desafiou todo o medo. Com o coração cheio de confiança, embarcou em um ato de fé que mudaria o rumo de uma nação. Enquanto as águas carregavam uma carga preciosa, a esperança se misturava às correntes.",
+  "clues": [
+    "Vivi em uma época de opressão e medo.",
+    "Recebi uma inspiração divina que me deu coragem.",
+    "Recebi a ordem de não temer nem me entristecer.",
+    "Coloquei meu filho em um baú e o posicionei sobre a água.",
+    "Meu filho foi encontrado pela casa do governante, mas meu outro filho o seguiu.",
+    "Reencontrei meu filho para amamentá-lo, exatamente como Alá prometeu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A Mãe de Moisés",
+        "A esposa do faraó",
+        "A irmã de Moisés",
+        "A Mãe de Jesus",
+        "A Rainha de Sabá"
+      ],
+      "answer": "A Mãe de Moisés"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Sentindo-me inspirada a atirar uma criança num rio.",
+        "Ser desafiado para um duelo de magia",
+        "Sendo perseguido por um exército",
+        "Atravessando um mar que se dividia",
+        "Construindo uma casa sagrada"
+      ],
+      "answer": "Sentindo-me inspirada a atirar uma criança num rio."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Um baú colocado no rio",
+        "Uma sarça ardente",
+        "Um cajado que se transformou em cobra.",
+        "Um bezerro de ouro",
+        "Um trono"
+      ],
+      "answer": "Um baú colocado no rio"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A criança foi devolvida em segurança à enfermeira.",
+        "A criança se perdeu para sempre.",
+        "A criança foi levada para uma terra distante.",
+        "A criança tornou-se governante imediatamente.",
+        "A criança foi adotada por um rico comerciante."
+      ],
+      "answer": "A criança foi devolvida em segurança à enfermeira."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

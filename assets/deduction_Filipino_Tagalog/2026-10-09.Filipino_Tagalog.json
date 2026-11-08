@@ -1,0 +1,61 @@
+{
+  "title": "Ang Hindi Pinakinggan na Panawagan sa Lupain ng Mayabang",
+  "intro": "Nakatayo ka sa mga guho ng isang dating dakilang kabihasnan, kung saan ang kapangyarihan at pagmamataas ay walang hangganan. Isang mensahero ang lumakad sa gitna nila, nananawagan sa katotohanan, ngunit ang kanilang mga puso ay tumigas. Ang babala ay hindi pinansin, at ang langit mismo ay naging instrumento ng poot. Sino ang mensaherong ito, at ano ang nangyari sa mga tumanggi sa panawagan?",
+  "clues": [
+    "Ako ay isinugo sa isang bayang walang kapantay ang lakas at nagtayo ng isang bantayog sa bawat matataas na lugar.",
+    "Itinuring ng aking bayan ang kanilang sarili na hindi matatalo at sinabi, 'Sino ang mas makapangyarihan kaysa sa amin sa lakas?'",
+    "Inaanyayahan ko sila na sumamba lamang kay Allah, ngunit inakusahan nila ako ng kahangalan at pagsisinungaling.",
+    "Hinamon nila akong ilapat ang parusang ipinangako ko kung magiging tapat ako.",
+    "Nagpadala ang Allah sa kanila ng isang tigang na hangin na hindi nagpabaya sa anumang dumating.",
+    "Ako at ang mga sumampalataya kasama ko ay naligtas sa awa ng Allah, samantalang ang mga hindi sumasampalataya ay lubos na nawasak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Hud",
+        "Propeta Salih",
+        "Propeta Shuaib",
+        "Propeta Lut",
+        "Propeta Noah"
+      ],
+      "answer": "Propeta Hud"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Isang mapaminsalang hangin ang sumira sa mga hindi naniniwala",
+        "Isang malaking baha ang bumalot sa mga hindi naniniwala",
+        "Isang ulan ng mga bato ang bumuhos",
+        "Isang malakas na sigaw ang bumalot sa mga hindi naniniwala",
+        "Isang lindol ang tumama sa mga hindi naniniwala"
+      ],
+      "answer": "Isang mapaminsalang hangin ang sumira sa mga hindi naniniwala"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Walang humpay na hangin",
+        "Isang kaban na gawa sa kahoy",
+        "Isang babaeng kamelyo",
+        "Isang ulan ng mga batong luwad",
+        "Isang nagliliyab na apoy"
+      ],
+      "answer": "Walang humpay na hangin"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Si Hud at ang mga mananampalataya ay naligtas, at ang mga hindi mananampalataya ay nalipol",
+        "Si Hud ay itinaas sa isang mataas na antas",
+        "Pinatay si Hud ng kaniyang mga tao",
+        "Nagsisi ang mga tao ni Hud at naligtas sila",
+        "Iniwan ni Hud ang kanyang mga tao bago pa man maparusahan"
+      ],
+      "answer": "Si Hud at ang mga mananampalataya ay naligtas, at ang mga hindi mananampalataya ay nalipol"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

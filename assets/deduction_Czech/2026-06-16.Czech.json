@@ -1,0 +1,61 @@
+{
+  "title": "Hlas, který volal k spravedlnosti",
+  "intro": "Ve starověké zemi Midján, kde vzkvétal obchod a karavany putovaly rozlehlými poušti, se mezi lidmi, kteří sešli z cesty spravedlnosti, objevil Alláhův prorok. Tento Alláhův služebník byl vyslán s božským posláním, které mělo prověřit víru celé komunity. Prostřednictvím trpělivosti a vytrvalosti tato duše pevně stála a přednesla varování, které se bude ozývat dějinami. Dokážete rozluštit tajemství tohoto neochvějného posla?",
+  "clues": [
+    "Byl jsem vyvolen Alláhem, abych vedl lid, který zapomněl na zásady spravedlnosti a čestnosti ve svém jednání.",
+    "Přednesl jsem poselství, v němž jsem vyzýval svou komunitu, aby uctívala jen Alláha a ve všech záležitostech mluvila pravdu.",
+    "Výslovně jsem varoval před zkorumpovanou praxí konzumace bohatství nezákonnými prostředky a zdůraznil jsem důležitost spravedlivých měr a vah.",
+    "Můj lid reagoval na má varování výsměchem a vyhrožoval mi vyhnáním ze své země, pokud budu ve svém poselství pokračovat.",
+    "Navzdory jejich nepřátelství jsem zůstal ve svém poslání neochvějný a prohlašoval jsem, že moje odměna patří pouze Alláhovi.",
+    "Můj lid byl zasažen zničujícím trestem, zatímco já jsem byl zachráněn milosrdenstvím mého Pána, neboť mé poslání bylo splněno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Šu'aib",
+        "Prorok Hud",
+        "Prorok Sálih",
+        "Prorok Lut",
+        "Prorok Muhammad ﷺ"
+      ],
+      "answer": "Prorok Šu'aib"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Tváří v tvář lidem, kteří odmítli pravdu a vyhrožovali trestem za předávání Alláhova poselství",
+        "Svědectví o velké potopě, která zničila nevěřící národa",
+        "Přijetí zjevení během cestování údolím 笃",
+        "Zkouška víry, když se utlačující vládce pokusil umlčet volání po monoteismu",
+        "Národ prosí o déšť během velkého sucha po letech neposlušnosti"
+      ],
+      "answer": "Tváří v tvář lidem, kteří odmítli pravdu a vyhrožovali trestem za předávání Alláhova poselství"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Země Midjánu, kde můj lid provozoval svůj obchod a komerciální činnost",
+        "Paluba velké lodi, která zachránila věřící před katastrofální povodní",
+        "Jeskyně ve skalnaté hoře, kde sedm mladíků hledalo útočiště před pronásledováním",
+        "Posvátné město Jeruzalém, kam jsem byl každou noc vzat na cestu",
+        "Palác v Sábě, kde se velké království připravovalo na svědectví o božském znamení"
+      ],
+      "answer": "Země Midjánu, kde můj lid provozoval svůj obchod a komerciální činnost"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Můj lid byl postižen strašlivým trestem, zatímco já jsem byl zachráněn, neboť jsem splnil svou povinnost vůči Alláhovi",
+        "Nevěřící byli proměněni v opice, protože porušovali posvátné hranice Alláha",
+        "Moji nepřátelé přijali víru poté, co byli svědky zázračné proměny",
+        "Země byla požehnána hojným deštěm a prosperitou poté, co lidé činili pokání",
+        "Byl jsem umučen vlastním lidem za to, že jsem odmítl opustit své poslání"
+      ],
+      "answer": "Můj lid byl postižen strašlivým trestem, zatímco já jsem byl zachráněn, neboť jsem splnil svou povinnost vůči Alláhovi"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

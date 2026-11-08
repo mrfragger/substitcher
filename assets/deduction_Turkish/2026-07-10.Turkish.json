@@ -1,0 +1,61 @@
+{
+  "title": "Dokuz İşaretin Taşıyıcısı",
+  "intro": "En mütevazı başlangıçlardan yükselen, kaderi ilahi iradeyle yazılmış bir figür. Bebekken gizlenmiş ve halkını yok etmeye çalışan hükümdarın duvarları içinde büyütülmüş bu ruh, sonunda büyük bir göreve çağrıldı. Sadece inanç ve mütevazı bir çoban değneğiyle donanmış olarak, çağın en güçlü hükümdarının karşısına çıktı ve köleleştirilmiş olanlar için özgürlük talep etti. Sanki dünyanın kendisi onun emriyle hareket etti; sular ayrıldı, gökler konuştu ve bir krallık yıkıldı.",
+  "clues": [
+    "Çocukluk günlerim korkuyla geçti; benim gibi bebekler, geleceğinden korkan acımasız bir hükümdar tarafından doğduklarından itibaren avlanıyordu.",
+    "Su tarafından kurtarıldım ve beni yok etmeyi amaçlayan hükümdarın sarayında büyütüldüm.",
+    "Ani bir olaydan sonra vatanımı terk ettim ve uzak bir diyarda mütevazı bir çoban oldum.",
+    "O güçlü hükümdarın karşısına sade bir asa ve net bir mesajla geri döndüm ve halkımın özgürlüğünü talep ettim.",
+    "Beni takip edenler için büyük bir su kütlesini ikiye ayırdım ve o suların düşmanımı tamamen yutmasını izledim.",
+    "Allah'tan ilahi rehberlik almak için kutsal bir dağa çıktım ve bana gerçeğin kanıtı olarak dokuz açık işaret verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Musa",
+        "Peygamber Nuh",
+        "Peygamber İbrahim",
+        "Peygamber Yusuf",
+        "Peygamber Lut"
+      ],
+      "answer": "Peygamber Musa"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Firavunla sarayında yüzleşmek",
+        "Büyük bir tufandan kurtulmak için Nuh'un Gemisi'ni inşa etmek",
+        "Putperestler tarafından alev alev yanan bir ateşe atılmak",
+        "Kardeşlerim tarafından derin bir kuyuya indiriliyorum.",
+        "Halkımı ahlaksız davranışlardan alıkoymaya çalışıyorum."
+      ],
+      "answer": "Firavunla sarayında yüzleşmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yılana dönüşen asa",
+        "Nuh'un Gemisi",
+        "Bilqis'in Tahtı",
+        "Rüzgarı ve cinleri kontrol eden yüzük",
+        "Saklanan hazinelerin anahtarları çok ağır."
+      ],
+      "answer": "Yılana dönüşen asa"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Halkımı ayrılmış suların ötesine, özgürlüğe götürdüm.",
+        "Nuh'un Gemisi'nin içinde büyük bir selden kurtarıldı.",
+        "Uzun süren acıların ardından sağlığına kavuştu ve ailesine yeniden kavuştu.",
+        "Büyük bir balığın içinden canlı olarak dışarı atıldı.",
+        "Kutsal Ev'in temellerini attı."
+      ],
+      "answer": "Halkımı ayrılmış suların ötesine, özgürlüğe götürdüm."
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

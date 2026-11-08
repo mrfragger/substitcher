@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tagapagbalita ng Isang Walang Katulad na Kasalanan",
+  "intro": "Ang ilang mga kuwento sa Quran ay nagpapakita ng lalim ng katiwalian na maaaring mapunta sa isang buong lipunan. Ang mensaherong ito ay nag-iisang tumayo, nakikiusap sa isang bayang nalunod sa isang kalikuan na hindi pa nasusunod ng sinumang bansa bago sila. Sa kabila ng mga taon ng babala, nanatiling matigas ang mga puso, at ang banal na utos ay dumating sa isang napakasindak na paraan. Makikilala mo ba ang marangal na mensaherong ito ng Allah?",
+  "clues": [
+    "Ako ay isinugo bilang tagapagbabala sa mga taong lunod sa isang kalikuan na hindi pa nagagawa ng sinumang bansa bago sa kanila.",
+    "Tinawag akong sinungaling ng aking mga kababayan at pinagbantaan na palalayasin ako at ang aking mga tagasunod mula sa lupain.",
+    "Dumating sa aking tahanan ang mga pinarangalan na bisita sa anyo ng mga kabataang lalaki na nagwewelga, at nakaramdam ako ng matinding pagkabalisa para sa kanilang kaligtasan.",
+    "Hiniling ng aking mga tao na isuko ko sa kanila ang aking mga panauhin, kahit na hindi nila alam na ang mga panauhing ito ay mga anghel na isinugo ni Allah.",
+    "Ang sarili kong asawa ay hindi nakiisa sa aking pananampalataya at piniling manatili kasama ng mga mapapahamak.",
+    "Naligtas ako kasama ang aking mga anak na babae kaninang madaling araw, nang bumuhos ang isang mapaminsalang ulan ng mga bato at giniba ang aming mga lungsod."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Lut",
+        "Propeta Shu'aib",
+        "Propeta Hud",
+        "Propeta Noah",
+        "Propeta Salih"
+      ],
+      "answer": "Propeta Lut"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Isang malaking baha na lumukob sa lupa",
+        "Pagkawala ng paningin dahil sa matagal na pagdurusa",
+        "Isang malupit na nag-aangkin ng pagka-diyos",
+        "Itinapon sa nagliliyab na apoy",
+        "Hinihiling na isuko ang mga pinarangalan na panauhin"
+      ],
+      "answer": "Hinihiling na isuko ang mga pinarangalan na panauhin"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang dakilang arka na ginawa gamit ang kamay",
+        "Isang tungkod na humahati sa dagat",
+        "Isang mahimalang kamelyong babae",
+        "Isang nagliliyab na apoy",
+        "Mga binaligtad na lungsod"
+      ],
+      "answer": "Mga binaligtad na lungsod"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalunod habang hinahabol ang mga mananampalataya",
+        "Nailigtas mula sa hurno ng apoy nang walang pinsala",
+        "Itinaas sa langit nang buhay",
+        "Pamilyang namatay sa isang malaking baha",
+        "Naligtas ang pamilya maliban sa isang taksil na asawa"
+      ],
+      "answer": "Naligtas ang pamilya maliban sa isang taksil na asawa"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

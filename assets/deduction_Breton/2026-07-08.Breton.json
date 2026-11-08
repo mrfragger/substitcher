@@ -1,0 +1,61 @@
+{
+  "title": "Treitourien an Dibabet",
+  "intro": "A-hed an istor e oa bet kannaded doueel o kerzhout e-touez an denelezh, ha lod eus ar re tostañ dezho n'o doa ket anavezet ar sklêrijenn. An istor-mañ a dremen tro-dro da zaou ene a zo deuet o tostaat ouzh ar brofeded da vezañ o amprouenn, hag o hêrezh ur gentel diamzeret.",
+  "clues": [
+    "Bevet hon eus e amzer ar brofeded vras, koulskoude e chomas serret hon daoulagad ouzh ar wirionez a zegasent.",
+    "Leuniet e oa hon tiez gant diskuliadur doueel, met kaletaet e oa hon c'halonoù.",
+    "Dimezet e oamp gant tud a oa bet dibabet evit kelaouiñ o fobl.",
+    "Pa zeuas ar c'hastiz, ne glasjomp ket repu en arc'h na tec'het diouzh ar glav tev, rak goap a reomp eus an evezhiadennoù.",
+    "Meneget omp er C'horan evel skouer evit ar re na gredont ket, o tiskouez ne savete ket an darempredoù tost gant ur profed zoken.",
+    "Gwragez Nuh ha Lut omp, o deus o gwerzhet hag o deus bet kondaonet evel-se."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Gwragez Nuh ha Lut",
+        "Gwragez Ibrahim hag Isma'il",
+        "Gwragez Musa hag Harun",
+        "Gwragez Dawud ha Sulayman",
+        "Gwragez Ayyub ha Yunus"
+      ],
+      "answer": "Gwragez Nuh ha Lut"
+    },
+    "trial": {
+      "label": "Petra oa o prosez ?",
+      "options": [
+        "Dimezet e oant da brofeded met ne gredent ket",
+        "Difrouezh e oant ha tamall a raent ar brofeded",
+        "Pinvidik ha lorc'hus e oant",
+        "Temptet e voent gant Iblis da guitaat o zi",
+        "Azeuliñ a raent al Leue aour"
+      ],
+      "answer": "Dimezet e oant da brofeded met ne gredent ket"
+    },
+    "location": {
+      "label": "Ouzh petra e oa liammet o tonkadur ?",
+      "options": [
+        "Al liñvadenn hag ar glav mein",
+        "Un avel garv",
+        "Ur c'hren-douar |",
+        "Gwalenn ar c'hilheien",
+        "Rannadur ar mor |"
+      ],
+      "answer": "Al liñvadenn hag ar glav mein"
+    },
+    "outcome": {
+      "label": "Petra oa o fin ?",
+      "options": [
+        "Koll a rejont gant an dud diskredik",
+        "Keuz a rejont hag e voent salvet",
+        "Divugel e voent chomet",
+        "Divroet e voent da viken",
+        "Treuzfurmet e voent e marmouzed ha moc'h"
+      ],
+      "answer": "Koll a rejont gant an dud diskredik"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

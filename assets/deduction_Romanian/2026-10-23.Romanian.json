@@ -1,0 +1,61 @@
+{
+  "title": "Misiunea în Orașul Antic",
+  "intro": "Un oraș antic prăfuit, cu locuitorii înrădăcinați în negare și un ultim avertisment care a rămas neascultat. Astăzi, intrați în rolul celor trimiși de Allah pentru a transmite un mesaj unui popor încăpățânat. O poveste despre respingere, o voce singulară a credinței și un final pecetluit de un decret devastator. Cine vorbește prin aceste indicii?",
+  "clues": [
+    "Am fost trimiși de Allah într-un oraș al cărui popor se îndepărtase de adevăr",
+    "Doi dintre noi au venit primii, apoi s-a alăturat un al treilea pentru a ne consolida misiunea.",
+    "Locuitorii orașului ne-au respins, spunând că nu suntem decât oameni ca ei.",
+    "Un singur suflet din cel mai îndepărtat capăt al orașului a alergat să le spună oamenilor să ne urmeze",
+    "I-am implorat, dar și-au împietrit inimile și s-au întors împotriva noastră",
+    "Într-un strigăt devastator din ceruri, întregul nostru oraș a fost redus la tăcere"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Mesagerii orașului din Sura Ya-Sin",
+        "Hawwariyyun (Ucenicii lui Isa)",
+        "Vrăjitorii de la Curtea Faraonului",
+        "Companionii Sabatului",
+        "Oamenii elefantului"
+      ],
+      "answer": "Mesagerii orașului din Sura Ya-Sin"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Respinsi și numiți mincinoși de către locuitorii orașului",
+        "Ars de viu într-un foc mare și arzător",
+        "Înghițit de un pește mare în adâncul mării",
+        "Forțat să muncească construind un pilon impunător",
+        "Torturat într-un șanț de foc violent"
+      ],
+      "answer": "Respinsi și numiți mincinoși de către locuitorii orașului"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Orașul antic (al-Qaryah)",
+        "Un cuptor mare și aprins",
+        "Burta unui pește mare",
+        "Stâlpul înalt care atinge cerul",
+        "Casa sacră (Kaaba)"
+      ],
+      "answer": "Orașul antic (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Orașul a fost distrus de un singur strigăt devastator (Sayha)",
+        "Tiranul și armata sa s-au înecat în marea despărțită",
+        "Oamenii au fost transformați în maimuțe și ursuleți",
+        "O ploaie de pietre din cer a distrus orașul",
+        "O inundație violentă a măturat întreaga comunitate"
+      ],
+      "answer": "Orașul a fost distrus de un singur strigăt devastator (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

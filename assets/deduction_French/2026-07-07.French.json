@@ -1,0 +1,61 @@
+{
+  "title": "La Voix des Abysses",
+  "intro": "Le Coran nous livre un récit de patience et de la miséricorde infinie du Divin. Un messager fut envoyé dans une grande cité, mais ses habitants rejetèrent l'avertissement et refusèrent la vérité. Désemparé, il repartit, pour être éprouvé par la mer déchaînée et englouti dans les profondeurs les plus obscures. Du cœur des ténèbres s'éleva une humble supplication, à laquelle le Tout-Miséricordieux répondit. Qui est cette âme qui en ressortit transformée, et dont le peuple allait devenir une communauté de plus de cent mille croyants ?",
+  "clues": [
+    "J'ai été envoyé comme avertisseur dans une grande ville dont les habitants s'étaient égarés du chemin de la foi.",
+    "J'ai appelé mon peuple à la vérité à maintes reprises, mais ils se sont moqués de mon message et l'ont rejeté.",
+    "Frustré, je les ai quittés avant même d'avoir obtenu l'autorisation et me suis dirigé vers le large.",
+    "Une violente tempête s'est levée et j'ai été jeté par-dessus bord, puis avalé tout entier par une créature marine gigantesque.",
+    "Dans les profondeurs obscures — les abysses de l'océan, le ventre de la créature et les abysses abyssaux — j'ai crié : « Il n'y a de dieu que Toi ; gloire à Toi ; j'étais du nombre des malfaiteurs. »",
+    "Allah m'a délivré des profondeurs, et à mon retour, plus de cent mille des miens avaient embrassé la vérité."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Yunus (Jonas)",
+        "Prophète Moussa (Moïse)",
+        "Le prophète Ibrahim (Abraham)",
+        "Prophète Zacharie",
+        "Le prophète Idris (Énoch)"
+      ],
+      "answer": "Prophète Yunus (Jonas)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Être avalé par une créature marine massive",
+        "Affronter un tyran et ses magiciens",
+        "Être jeté dans un brasier par un roi en colère",
+        "Apprendre la bonne nouvelle de la naissance d'un fils alors qu'on est vieux et incapable",
+        "Assister à la destruction d'une nation par une inondation dévastatrice"
+      ],
+      "answer": "Être avalé par une créature marine massive"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le ventre d'une grande créature marine dans les profondeurs de l'océan",
+        "Une maison sacrée entourée de montagnes dans une vallée aride",
+        "Un feu flamboyant qui s'est refroidi et a trouvé la paix",
+        "Un magnifique jardin avec des rivières sinueuses et de l'ombre",
+        "Une arche massive reposant au sommet d'une montagne"
+      ],
+      "answer": "Le ventre d'une grande créature marine dans les profondeurs de l'océan"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Délivrés des ténèbres, une grande multitude crut",
+        "Libérée d'un brasier dévastateur, les flammes se refroidissant",
+        "Il devint le dirigeant d'une nation puissante et la libéra de l'oppression.",
+        "Après des années de prières, j'ai obtenu un enfant à un âge avancé.",
+        "Doté d'une immense sagesse, d'un royaume et du pouvoir sur les vents et les djinns"
+      ],
+      "answer": "Délivrés des ténèbres, une grande multitude crut"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Les jardins fanés de la prospérité",
+  "intro": "Dans une terre comblée de bienfaits, une communauté prospérait, vivant sous le signe de la grâce divine. Leur prospérité témoignait de la faveur du Seigneur, un don destiné à inspirer gratitude et obéissance. Pourtant, malgré ces signes évidents de bénédiction, un événement tragique survint, remettant en question leur reconnaissance envers la source de leur immense richesse et de leur confort.",
+  "clues": [
+    "Nous avions la chance d'avoir deux jardins, un à droite et un à gauche, regorgeant de fruits et légumes.",
+    "Il nous a été ordonné de nous nourrir des dons de notre Seigneur et de lui être reconnaissants pour une bonne terre et un Seigneur miséricordieux.",
+    "Nous sommes devenus arrogants et avons abandonné la voie de la gratitude, nous vantant de notre richesse et de notre pouvoir.",
+    "Nous avons exigé que notre Seigneur augmente la distance entre nos voyages, manifestant notre mépris pour la facilité qu'il nous avait accordée.",
+    "Un messager nous avait avertis, mais nous avons rejeté le message et persisté dans notre insouciance.",
+    "Notre grand barrage, qui assurait notre prospérité, a finalement cédé, provoquant une inondation dévastatrice."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple de Thamud",
+        "Peuple de Madian",
+        "Peuple d'Aad",
+        "Peuple de Lut",
+        "Peuple de Saba"
+      ],
+      "answer": "Peuple de Saba"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "famine et sécheresse",
+        "Invasion par une puissante armée",
+        "Un tremblement de terre dévastateur",
+        "Une inondation dévastatrice provoquée par la rupture d'un barrage",
+        "L'oppression par un dirigeant tyrannique"
+      ],
+      "answer": "Une inondation dévastatrice provoquée par la rupture d'un barrage"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un veau doré",
+        "Une chamelle miraculeuse",
+        "Un grand barrage",
+        "Un édifice imposant",
+        "Un puits profond"
+      ],
+      "answer": "Un grand barrage"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Nous avons été transformés en singes et en cochons.",
+        "Nous avons été sauvés et avons migré vers une nouvelle terre",
+        "Nous avons été dispersés et notre terre est devenue stérile.",
+        "Nous sommes montés au ciel",
+        "Nous avons construit un royaume nouveau et plus prospère"
+      ],
+      "answer": "Nous avons été dispersés et notre terre est devenue stérile."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

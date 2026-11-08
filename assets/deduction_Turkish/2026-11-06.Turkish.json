@@ -1,0 +1,61 @@
+{
+  "title": "Kıskançlıktan Dökülen İlk Kan",
+  "intro": "İnsanlığın en eski günlerini, tüm dünyanın tek bir aile olduğu zamanları hayal edin. Allah'ın huzuruna iki kurban konulduğunu görüyorsunuz; biri kabul ediliyor, diğeri reddediliyor. Kıskançlık kalplerde kök salıyor ve öfkeyle bir tehdit fısıldanıyor. Bundan sonra yaşanacaklar tarihe sonsuza dek iz bırakacak ve küçük bir kuş bile öğretmen olacak.",
+  "clues": [
+    "Ben yeryüzündeki ilk aileye mensubum.",
+    "Allah'a bir kurban sundum, fakat benim kurbanım kabul edilmedi, diğer kurban ise kabul edildi.",
+    "Kıskançlıkla konuştum ve birini öldürmekle tehdit ettim.",
+    "Yeryüzündeki ilk haksız cinayeti ben işledim.",
+    "Bir karganın bana bir cesedi nasıl saklayacağını göstermek için yeri eşelediğini gördüm.",
+    "Yaptıklarım yüzünden büyük bir pişmanlık duydum ve kaybedenler arasına katıldım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Kabil (Kain), Âdem oğlu",
+        "Samiri, buzağıyı yapan kişi",
+        "İbrahim'le tartışan zalim Namrud",
+        "Azar, put yapımcısı",
+        "Nuh'un boğularak ölen oğlu Kan'an"
+      ],
+      "answer": "Kabil (Kain), Âdem oğlu"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Teklifin reddedilmesi üzerine kıskançlık yüzünden kardeş öldürülmesi",
+        "Gökyüzünü seyretmek için yüksek bir kule inşa etmek",
+        "Tapınma için altın bir buzağı yapmak",
+        "Cennetten bir sofra düzeni istemek",
+        "Kabe'yi yıkmak için fillerden oluşan bir orduya önderlik etmek"
+      ],
+      "answer": "Teklifin reddedilmesi üzerine kıskançlık yüzünden kardeş öldürülmesi"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir karga, gömülme izini göstermek için toprağı eşeliyor.",
+        "Böğüren altın bir buzağı",
+        "Tufan suları üzerinde büyük bir gemi",
+        "Yılana dönüşen bir asa",
+        "Cennetten gelen yiyeceklerle donatılmış bir sofra."
+      ],
+      "answer": "Bir karga, gömülme izini göstermek için toprağı eşeliyor."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Pişman oldu ve kaybedenler arasına katıldı.",
+        "Büyük selde boğuldu",
+        "Hazineyle birlikte toprak tarafından yutuldu.",
+        "Yedi yıl boyunca cüzzam hastalığına yakalandı.",
+        "Rüzgarları kontrol etme yetkisine sahip bir krallık kendisine verildi."
+      ],
+      "answer": "Pişman oldu ve kaybedenler arasına katıldı."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

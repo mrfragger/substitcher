@@ -1,0 +1,61 @@
+{
+  "title": "De slumrende sannhetssøkerne",
+  "intro": "Tenk deg en tid da tro ble utfordret, og en gruppe sjeler valgte urokkelig overbevisning fremfor verdslig komfort. Stilt overfor et skremmende valg søkte de tilflukt og la ut på en reise som førte til en ekstraordinær søvn. Historien deres er et vitnesbyrd om guddommelig beskyttelse og troens kraft mot undertrykkelse. Kan du skjelne identiteten til disse bemerkelsesverdige individene?",
+  "clues": [
+    "Vi var en liten forsamling, forent av en dyp tro på den ene Skaperen.",
+    "Vi levde i en tid da en mektig hersker krevde tilbedelse av andre enn Allah.",
+    "For å bevare troen vår bestemte vi oss for å forlate hjemmene våre og flykte fra undertrykkelsen.",
+    "En lojal følgesvenn, en jordisk skapning, fulgte oss på reisen vår.",
+    "Vi fant tilflukt på et avsidesliggende sted, hvor Allah lot oss falle i en dyp, langvarig søvn.",
+    "Da vi våknet, trodde vi at bare en dag eller en del av en dag hadde gått, men århundrer hadde virkelig gått."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i grøften",
+        "Folket i Thamud",
+        "Folket på Saba",
+        "Folket i hulen",
+        "Folket i Madyan"
+      ],
+      "answer": "Folket i hulen"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Blir testet med et goldt land",
+        "Står overfor en stor flom",
+        "Søker tilflukt fra en tyrannisk hersker",
+        "Å bli kastet inn i en brennende ild",
+        "Å utfordre en trollmanns magi"
+      ],
+      "answer": "Søker tilflukt fra en tyrannisk hersker"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Et storslått palass",
+        "Et skip/en ark",
+        "En dyp brønn",
+        "En hule",
+        "Et ruvende fjell"
+      ],
+      "answer": "En hule"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Å bli tildelt et kongerike",
+        "En mirakuløs søvn i århundrer",
+        "Å bli slukt av jorden",
+        "Å bli reddet fra en ødeleggende storm",
+        "Å bli forsynt med et himmelsk bord"
+      ],
+      "answer": "En mirakuløs søvn i århundrer"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

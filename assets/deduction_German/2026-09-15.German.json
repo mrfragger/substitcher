@@ -1,0 +1,61 @@
+{
+  "title": "Die Gastfreundschaft, die Angst brachte",
+  "intro": "In einer von Bosheit geplagten Stadt erhielt ein treuer Diener eines Tages unerwarteten Besuch. Besorgt um ihre Sicherheit bot er ihnen Schutz an, doch die Stadtbewohner verlangten etwas Schändliches. Von drohendem Unheil gewarnt, floh der Diener mit seiner Familie im Schutze der Dunkelheit und ließ eine dem Untergang geweihte Stadt zurück. Wer ist dieser einsame Gläubige?",
+  "clues": [
+    "Ich wurde als Bote zu einem Volk gesandt, das schändliche Taten begangen hatte.",
+    "Unerwartete Besucher kamen zu mir nach Hause, und ich sorgte mich mehr um deren Sicherheit als um meine eigene.",
+    "Mein Volk verlangte, meine Gäste zu sehen, weil es ihnen böse Absichten unterstellte, und ich versuchte, mit ihnen zu reden.",
+    "Meine Besucher offenbarten sich als Engel und befahlen mir, meine Familie zu nehmen und in der Nacht zu gehen.",
+    "Meine Frau hat den Aufruf zur Flucht nicht befolgt und ist dem gleichen Verderben wie mein Volk zum Opfer gefallen.",
+    "Meine Stadt wurde von einem Regen aus geschichteten Lehmsteinen umgeworfen, ihre höchsten Teile wurden in den tiefsten Punkt gestürzt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Lut",
+        "Prophet Musa",
+        "Prophet Ibrahim",
+        "Prophet Nuh",
+        "Prophet Hud"
+      ],
+      "answer": "Prophet Lut"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Forderung meines Volkes, meinen Gästen auf boshafte Weise zu begegnen",
+        "Die Teilung des Meeres, um einem Tyrannen zu entkommen",
+        "Der Bau einer großen Arche inmitten des Spottes",
+        "Das Opfer meines Sohnes in einer Glaubensprüfung",
+        "Das Erlebnis, von einem großen Fisch verschluckt zu werden"
+      ],
+      "answer": "Die Forderung meines Volkes, meinen Gästen auf boshafte Weise zu begegnen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die umgestürzte Stadt meines Volkes",
+        "Der Berg, wo ich göttliche Rede empfing",
+        "Die Arche, die durch eine große Flut fuhr",
+        "Die Kamelstute, die aus dem Felsen auftauchte",
+        "Der Garten mit einem verborgenen, rechtschaffenen Besucher"
+      ],
+      "answer": "Die umgestürzte Stadt meines Volkes"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ich und meine Familie wurden gerettet, bevor meine Stadt zerstört wurde.",
+        "Ich führte mein Volk über das Meer in die Freiheit.",
+        "Ich baute eine große Arche und überlebte eine gewaltige Flut.",
+        "Mir wurde die Herrschaft über die Winde und Dschinn gegeben.",
+        "Ich ertrug das Leid geduldig und wurde mit Familie belohnt."
+      ],
+      "answer": "Ich und meine Familie wurden gerettet, bevor meine Stadt zerstört wurde."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

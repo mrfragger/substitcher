@@ -1,0 +1,61 @@
+{
+  "title": "Walinzi wa Mavuno ya Siri",
+  "intro": "Katika nchi yenye majani mengi, kundi la watu lilipanga mpango wa siri chini ya kivuli cha giza. Walishiriki kusudi moja, lakini nia yao haikuwa ya haki hata kidogo. Hawakujua kwamba mabadiliko ya kimungu yalikuwa yakiwangoja walipokuwa wamelala.",
+  "clues": [
+    "Tulifanya azimio thabiti, tukifikiri mpango wetu haukuwa na dosari.",
+    "Tulikusudia kutoka mapema, kabla wengine hawajaanza kuhama.",
+    "Tulianzisha shamba lenye rutuba, tukiwa na uhakika na mahitaji yetu.",
+    "Tulipofika mahali petu, tuliiona kuwa tasa na ukiwa, kwa hivyo tulidhani tumepotea njia.",
+    "Kisha tukagundua kuwa ilikuwa mahali petu kweli, na tukalia kwa kukata tamaa, tukilaumiana kwa hasara yetu.",
+    "Tulikuwa tumeapa asubuhi hiyo kuwatenga maskini kutoka kwa mavuno yetu, lakini adhabu ya Mwenyezi Mungu ilitujia tulipokuwa tumelala, na kugeuza bustani yetu kuwa magofu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Wamiliki wa Bustani katika Sura ya 68",
+        "Watu wa Saba",
+        "Masahaba wa Pango",
+        "Watu wa Tembo",
+        "Watu wa Handaki"
+      ],
+      "answer": "Wamiliki wa Bustani katika Sura ya 68"
+    },
+    "trial": {
+      "label": "Jaribio Letu",
+      "options": [
+        "Bustani yetu iliharibiwa na janga kutoka angani",
+        "Bustani yetu iliharibiwa na mafuriko",
+        "Bustani yetu ilichomwa moto na adui",
+        "Bustani yetu ilikuwa imejaa nzige",
+        "Bustani yetu ilimezwa na tetemeko la ardhi"
+      ],
+      "answer": "Bustani yetu iliharibiwa na janga kutoka angani"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Tuliapa kuchuma matunda yake asubuhi",
+        "Tulijenga bwawa la kumwagilia bustani yetu",
+        "Tulitafuta kimbilio pangoni kwa ajili ya ulinzi",
+        "Tuliandaa jeshi kushinda ufalme",
+        "Tulisafiri kwa meli ili kuvuka bahari"
+      ],
+      "answer": "Tuliapa kuchuma matunda yake asubuhi"
+    },
+    "outcome": {
+      "label": "Hatima Yetu",
+      "options": [
+        "Tulitubu na kutarajia rehema kutoka kwa Mwenyezi Mungu",
+        "Tuliangamizwa kabisa na hatujatubu kamwe",
+        "Tulikimbia nchi na hatukurudi tena",
+        "Tukawa na nguvu na utajiri tena",
+        "Tuliadhibiwa kwa kugeuzwa kuwa nyani"
+      ],
+      "answer": "Tulitubu na kutarajia rehema kutoka kwa Mwenyezi Mungu"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

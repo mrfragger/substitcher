@@ -1,0 +1,61 @@
+{
+  "title": "Ur bromesa lavaret a-us d'an tan-gwall",
+  "intro": "Sevel a rez e-kichen un tan en dezerzh e-keit ma vez skignet e vrec'h gant evezh. Dont a ra ar weladennerien evit un emgav er sioulder, hag ur gemennadenn hepken a zigor un istor a bromesa, a souezh hag un dazont n'eo ket bet sevenet c'hoazh.",
+  "clues": [
+    "Treuziñ a reomp ar pellder evit tizhout ur servijer fidel en dezerzh.",
+    "Goulenn a reomp ma vefe skignet tan evit prientiñ un tan.",
+    "Komzet hon eus gant unan en doa galvet ur flamm evit ar freskder hag ar surentez.",
+    "Degas a reomp keloù eus ur bugel nevez-ganet d'un den en doa tremenet an oad da gaout bugale.",
+    "Anvet hon eus ar bugel prometet Izaak.",
+    "Degas a reomp keloù mat eus ur mab da Ibrahim, hag ar c'heloù souezhus a lakaas Ibrahim da c'hoarzhin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "An aeled o deus degaset keloù mat Izaak da Ibrahim",
+        "An Aeled o deus diwallet Lut",
+        "An Aeled o tougen an tron",
+        "Aeled an Ifern",
+        "An aeled kaset da Noe"
+      ],
+      "answer": "An aeled o deus degaset keloù mat Izaak da Ibrahim"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Degas keloù mat eus ganedigezh Izaak da Ibrahim",
+        "Diwall Lut a-raok kastizañ e bobl",
+        "Embann ganedigezh Yahya da Zakariyya",
+        "Dougen an tron ​​da zeiz ar varn",
+        "Embann a ra ganedigezh Isa da Maryam"
+      ],
+      "answer": "Degas keloù mat eus ganedigezh Izaak da Ibrahim"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Un tan prientet diwar tanioù strewet",
+        "Un arc'h o nijal war an dour-beuz",
+        "Ur c'hev siellet gant ur maen o ruilhal",
+        "Ur menez pri kaletaet gant holen",
+        "Ur skalier en em astenn war-zu an oabl"
+      ],
+      "answer": "Un tan prientet diwar tanioù strewet"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Keloù mat eus ur mab anvet Izaak",
+        "Keloù mat eus ur mab anvet Yahya",
+        "Dibab Talut evel rener war Mibien Israel",
+        "Ur c'hemenn a-raok kastizañ tud Lut",
+        "Ur gourc'hemenn da sevel un arc'h a-raok al liñvadenn"
+      ],
+      "answer": "Keloù mat eus ur mab anvet Izaak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

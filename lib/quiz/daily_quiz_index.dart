@@ -48,8 +48,15 @@ class DailyQuizIndex {
     final entries = <DailyQuizEntry>[];
     for (final d in dates) {
       try {
-        final dayJson = await loadDay(d);
-        final ded = dayJson['deduction'];
+        // The deduction section now lives in assets/deduction_all/<date>.json;
+        // fall back to the daily file for any not yet split out.
+        Object? ded;
+        try {
+          ded = json.decode(
+              await rootBundle.loadString('assets/deduction_all/${_fmt(d)}.json'));
+        } catch (_) {
+          ded = (await loadDay(d))['deduction'];
+        }
         if (ded is Map && ded['title'] != null) {
           entries.add(DailyQuizEntry(date: d, title: ded['title'] as String));
         }

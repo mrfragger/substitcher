@@ -1,0 +1,61 @@
+{
+  "title": "Skugginn á bak við hásætið",
+  "intro": "Þú stendur í hirð voldugs fornríkis þar sem öflugur stjórnandi hefur lýst sig sem guð yfir öllu fólki. Við hlið þessa stjórnanda stendur hollur þjónn, sem hefur verið falið að stjórna stórkostlegustu metnaði ríkisins. Saman leggja þeir á ráðin og skipuleggja og neita að hlusta á viðvaranir sendiboða sem sendur var til að leiðbeina þeim. Geturðu uppgötvað hver þessi trúi þjónn var?",
+  "clues": [
+    "Ég bjó í voldugu ríki sem stjórnað var af voldugri persónu sem krafðist guðdómleika yfir öllu fólki.",
+    "Ég þjónaði sem traustur ráðherra þessa valdhafa og framkvæmdi allar metnaðarfullar væntingar þeirra og skipanir.",
+    "Þegar sendiboði Allahs kom til lands okkar og kallaði okkur til sannleikans, neituðum ég og stjórnandi minn að hlusta.",
+    "Mér var fyrirskipað að kveikja mikinn eld og undirbúa leirsteina fyrir stórfenglega byggingu.",
+    "Höfðingi minn vildi reisa svo háa byggingu að hún næði til himins sjálfs.",
+    "Að lokum sópuðumst ég, stjórnandi minn og herir okkar burt og drukknuðum í djúpi hafsins."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harút"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að byggja turn til að ná til himins",
+        "Að vera kastað í logandi eld",
+        "Að vekja fólk frá tilbeiðslu á steinskurðgoðum",
+        "Að kljúfa tunglið sem guðlegt tákn",
+        "Að sigra volduga borg með guðlegri skipun"
+      ],
+      "answer": "Að byggja turn til að ná til himins"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Turn úr bökuðum leirsteinum",
+        "Magi hvala",
+        "Heilög uppspretta í eyðimörkinni",
+        "Brennandi runni á helgu fjalli",
+        "Örk sem ber útvalda fjölskyldu"
+      ],
+      "answer": "Turn úr bökuðum leirsteinum"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Drukknaði í djúpi hafsins",
+        "Lyft í öruggt skjól í stórkostlegri höll",
+        "Bjargað úr maga stórfisks",
+        "Heiðraður með konungdómi og guðlegri visku",
+        "Breytt í ryk af stingandi ópi"
+      ],
+      "answer": "Drukknaði í djúpi hafsins"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

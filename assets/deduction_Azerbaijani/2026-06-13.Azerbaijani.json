@@ -1,0 +1,61 @@
+{
+  "title": "Məkkənin doğruçuları",
+  "intro": "Vəhy gələn ilk günlərdə, həqiqət mesajı şiddətli müqavimətlə qarşılaşdıqda, bəzi ruhlar öz əqidələrində sarsılmaz qaldılar. Bu möminlər iman nurunu söndürməyə çalışanların ağlasığmaz qəddarlığı ilə üzləşdilər. Onların əzabı şiddətli, əzabları isə böyük idi - lakin dilləri Allahın birliyini elan etməkdən heç vaxt əl çəkmədi. Hətta ümidsizliyin dərinliklərinə atıldıqda belə, ilahi qoruma onları əhatə etdi və sınaqlarını əbədi iman vəsiyyətinə çevirdi. Gəlin bu heyrətamiz ruhların səyahətini araşdıraq.",
+  "clues": [
+    "Tək Tanrıya olan imanımızdan imtina etdiyimiz üçün şiddətli bir əzabla sınandıq",
+    "Xalqımız qəddarlığı nə qədər yaradıcı olsa da, qətiyyətimizi qıra bilmədi",
+    "Gündüzlər quyudan asılı qalırdıq, amma ilahi kömək həmişə yaxınlıqda idi",
+    "Dözümlülüyümüz hətta dözümlülüyümüzün şahidi olanları belə heyrətləndirdi",
+    "Məkkədə çoxları bizi öz niyyətimizdən dönməyə məcbur etməyə çalışdı, amma biz qətiyyətli qaldıq",
+    "Hər şey itirilmiş kimi göründüyü zaman azadlığımız möcüzəvi ilahi müdaxilə sayəsində gəldi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Bilal əl-Həbəşi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn əl-Əsvəd",
+        "Xabbab ibn əl-Ərat",
+        "Salman əl-Farsi"
+      ],
+      "answer": "Bilal əl-Həbəşi"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Peyğəmbərə qarşı döyüş",
+        "Bütlərə ibadət etməkdən imtina etdiklərinə görə təqiblər",
+        "Yanğın hadisəsi ilə bağlı iman sınağı",
+        "Gecə səyahətinin iki yerə bölünməsinin sınağı",
+        "Bağçanın məhv edilməsinin sınağı"
+      ],
+      "answer": "Bütlərə ibadət etməkdən imtina etdiklərinə görə təqiblər"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Uhud dağı",
+        "Kəbənin müqəddəs məkanı",
+        "Əbu Süfyanın quyusu",
+        "Qureyş sarayı",
+        "Mədinə şəhəri"
+      ],
+      "answer": "Əbu Süfyanın quyusu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Böyük bir döyüşdə qələbə",
+        "İlahi müdaxilə yolu ilə azadlıq",
+        "Allah yolunda şəhidlik",
+        "Cənnətə birbaşa qəbul",
+        "Mübarək bir diyara köç"
+      ],
+      "answer": "İlahi müdaxilə yolu ilə azadlıq"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

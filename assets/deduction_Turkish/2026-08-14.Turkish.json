@@ -1,0 +1,61 @@
+{
+  "title": "Lanetli Eller",
+  "intro": "Antik Mekke'nin dolambaçlı sokaklarında duruyorsunuz; bir zamanlar nüfuz ve zenginliğin sahibi bir kişi, hakikatin çağrısından yüz çevirmişti. Bu kişinin hikayesi, kan bağlarının gurur zincirlerini aşamayacağının çarpıcı bir hatırlatıcısıdır. Adı, bekleyen ateşle yankılanan bu kişi kimdir?",
+  "clues": [
+    "Kendi kanımdan olan bir elçiyle karşı karşıya kaldığım halde, Mekke sokaklarında beni gerçeği görmekten alıkoyan bir gururla yürüdüm.",
+    "Sahip olduğum mallar çok fazlaydı, ama bunlar bir kalkan olmaktan çok bir lanete dönüştü.",
+    "Rehber kitap benim yıkımımı anlatıyor ve ellerimin ve bedenimin helak olacağını bildiriyor.",
+    "Eşim, Allah'a davet edenin yoluna dikenler serpmek için düşmanlık kampanyama katıldı.",
+    "Kıyamet günü, ben alev alev yanan bir ateşe atılacağım ve eşimin boynunda palmiye lifinden bir ip olacak.",
+    "Benim adım 'alevlerin babası' anlamına geliyor; bu isim, ebedi ikametgahımı önceden haber veriyor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Ebu Lahab",
+        "Ebu Cehl",
+        "Ebu Talib",
+        "Ebu Sufyan",
+        "El-Valid ibn el-Muğira"
+      ],
+      "answer": "Ebu Lahab"
+    },
+    "trial": {
+      "label": "Önemli Deneme veya Olay",
+      "options": [
+        "Peygambere karşı çıktı ve Kur'an'da lanetlendi.",
+        "Kabe'yi yıkmak için bir orduya önderlik etti.",
+        "Peygamberi taş atarak öldürmeye teşebbüs ettiler.",
+        "Ayın ikiye ayrılması olayına inanmayı reddetti.",
+        "Gökyüzüne ulaşmak için bir kule inşa ettiler."
+      ],
+      "answer": "Peygambere karşı çıktı ve Kur'an'da lanetlendi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Cehennemin alev alev yanan ateşi",
+        "Musa'nın Asası",
+        "Nuh'un Gemisi",
+        "Zemzem Kuyusu",
+        "Altın Buzağı"
+      ],
+      "answer": "Cehennemin alev alev yanan ateşi"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "O, alevli ateşe girecek ve serveti ona hiçbir fayda sağlamayacak.",
+        "Tövbe etti ve imanlı oldu.",
+        "Sözlerinden vazgeçtikten sonra affedildi.",
+        "Şehit olarak öldü.",
+        "O, göklere yükseltildi."
+      ],
+      "answer": "O, alevli ateşe girecek ve serveti ona hiçbir fayda sağlamayacak."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La voce che ha sfidato il regno di un idolo",
+  "intro": "Tra i messaggeri dell'Onnipotente vi era un servo fedele che si levò in mezzo a una nazione ostinata per portare la verità. Il suo popolo aveva adottato una divinità inventata, allontanandosi dal Creatore di tutto ciò che esiste. Con incrollabile determinazione, quest'uomo li richiamò a sé, ma il messaggio fu accolto con negazione e rifiuto. Segui gli indizi per scoprire chi era questo devoto servitore.",
+  "clues": [
+    "Sono stato inviato come messaggero presso un popolo ostinato che si era allontanato molto dalla retta via.",
+    "Sono venuto per ricordare alla mia nazione Colui che ha creato tutto ciò che esiste: il migliore di tutti i creatori.",
+    "Il mio popolo si era rivolto a un falso idolo che venerava e invocava giorno e notte.",
+    "Li ho sfidati apertamente, chiedendo loro perché adorassero una divinità inventata e abbandonassero il loro vero Signore.",
+    "Mi hanno rinnegato, si sono rifiutati di ascoltarmi e si sono aggrappati alla loro menzogna, eppure il mio Signore mi ha preservato.",
+    "Io sono Ilia, e la pace mi è stata concessa, e sono stato annoverato tra i servi credenti del Misericordioso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Ilia",
+        "Il profeta Idris",
+        "Il profeta Alyasa",
+        "Profeta Dhul-Kifl",
+        "Profeta Nuh"
+      ],
+      "answer": "Il profeta Ilia"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Richiamare un popolo lontano dal culto di Baal",
+        "Affrontare un tiranno che si proclamava dio",
+        "Avvertire la popolazione di un'imminente alluvione",
+        "Essere gettati in un grande fuoco ardente",
+        "Guidare un esodo dalla terra della schiavitù"
+      ],
+      "answer": "Richiamare un popolo lontano dal culto di Baal"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'idolo chiamato Ba'al",
+        "Una grande arca costruita con legno robusto",
+        "Un bastone che divise un vasto mare",
+        "Un indumento sacro macchiato di sangue",
+        "Un roveto ardente su un monte sacro"
+      ],
+      "answer": "L'idolo chiamato Ba'al"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Concessa la pace e annoverato tra i servi eletti di Allah",
+        "Condotti in paradiso mentre tutti gli altri venivano distrutti",
+        "Salvato da un grande incendio che si è raffreddato e messo in sicurezza",
+        "Ha ottenuto il dominio sui jinn, sull'umanità e sul vento.",
+        "Corpo conservato come segno duraturo per i secoli"
+      ],
+      "answer": "Concessa la pace e annoverato tra i servi eletti di Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

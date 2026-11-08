@@ -1,0 +1,61 @@
+{
+  "title": "Kutsu pyhästä laaksosta",
+  "intro": "Historian sivujen takana on tarina sielusta, joka seisoi mahtavan hallitsijan ja kokonaisen orjuutetun kansan välissä. Tämä henkilö kutsuttiin vapauttamaan kansakunta tyranniasta, tehden ihmeitä, jotka uhmasivat kaikkia luonnonlakeja. Pyhästä vuoresta ihmeisiin vesillä, tämä Allahin palvelija todisti merkkejä, jotka kaikuisivat läpi aikojen. Tehtäväsi tänään on tunnistaa tämä merkittävä hahmo, jonka perintö muovasi ihmiskunnan historian kulkua.",
+  "clues": [
+    "Synnyin aikana, jolloin kansani kohtasi kuolettavan tuomion, ja perheeni upotti minut veteen pelastaakseen henkeni.",
+    "Minut löydettiin ja kasvoin sen hallitsijan taloudessa, joka oli määrännyt lajitoverini kuolemaan.",
+    "Pakenin pyhälle vuorelle, jossa näin tulen palavan puussa, joka ei ollut kulunut, ja ääni puhui minulle siitä.",
+    "Minut lähetettiin takaisin tuon saman hallitsijan luo ihmeiden kanssa vaatimaan orjuutetun kansani vapautta.",
+    "Minä löin sauvalla merta, ja se jakautui kuiviksi poluiksi ja nielaisi kansaani ajavat takaa-ajajat.",
+    "Seurustelin Herrani kanssa vuorella neljäkymmentä yötä, ja minulle annettiin jumalallisen opastuksen taulut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Musa",
+        "Profeetta Harun",
+        "Profeetta Ibrahim",
+        "Profeetta Yusuf",
+        "Profeetta Daavid"
+      ],
+      "answer": "Profeetta Musa"
+    },
+    "trial": {
+      "label": "Minun määrittelevä koettelemukseni",
+      "options": [
+        "Meren jakautuminen",
+        "Suuren arkin rakentaminen",
+        "Koettelemus liekehtivässä tulessa",
+        "Sulkeutuminen valaan vatsaan",
+        "Egyptiläisen virkamiehen vangitseminen"
+      ],
+      "answer": "Meren jakautuminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Paimenen sauva",
+        "Suuri puinen arkki",
+        "Luola, jossa aika nukkui",
+        "Kahden lähteen puutarha",
+        "Kullalla koristeltu valtaistuin"
+      ],
+      "answer": "Paimenen sauva"
+    },
+    "outcome": {
+      "label": "Lopputulos",
+      "options": [
+        "Kansani ylitti meren turvaan",
+        "Suuri tulva tuhosi uskottomat",
+        "Tyrannin tuli viilensi ja rauhoitti",
+        "Meri heitti vankinsa rannalle",
+        "Vangista tuli Egyptin rahastonhoitaja"
+      ],
+      "answer": "Kansani ylitti meren turvaan"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Ārai i te Whare Tawhito",
+  "intro": "I roto i te tāone tapu, i mura te riri o tētahi tangata whai mana i te tīmatanga o te horapa o tētahi karere hou. Ko tēnei tangata, nōna nei te ingoa i mōhiotia whānuitia hei whakahē i te pono, i mātakitaki i te hinganga o tō rātou mana i raro i te taumaha o te whakakitenga tapu. Ko wai tēnei wairua, nōna nei te mutunga i hiritia ki te onepu o tētahi papa pakanga rongonui?",
+  "clues": [
+    "He rangatira ahau i roto i tōku iwi, i mōhiotia mō ōku taonga me tōku mana i roto i tētahi tāone i reira tētahi wāhi tapu tawhito.",
+    "I te tīmatanga o tētahi tangata o tōku iwi ki te kauwhau i te karere a te Atua kotahi, ka tawai ahau ki a ia me āna whakakitenga, ka kī he kōrero noa iho ēnei nō mua.",
+    "I tū atu ahau ki taua tangata i a ia e inoi ana i te taha o te whare tapu, me te whakawehi ka mutu tana karakia mā te kaha mēnā e tika ana.",
+    "I roto ahau i ngā kaiārahi i whakatakoto mahere hei whakamutu i te whakapono hou, i te whakahē i ōna akonga ki ngā kupu me ngā patu.",
+    "I haere tahi mātou me tētahi ope taua ki tētahi wāhi e kiia nei ko Pātara, me te u o te whakaaro ka taea e mātou te patu i te rōpū iti o te hunga whakapono.",
+    "Engari i taua pakanga, ka mutu tōku ora, ā, ka waiho tōku matenga hei akoranga mā te hunga e tohe tonu ana ki te kore whakapono i muri i ngā tohu mārama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Āpu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Āpu Jahl"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te aukati i te Poropiti ki te inoi i te Kaaba",
+        "Te Hanga i te Kaaba",
+        "Te tuhi i te Quran",
+        "Te ārahi i te ope taua arewhana",
+        "Te wehewehe i te marama"
+      ],
+      "answer": "Te aukati i te Poropiti ki te inoi i te Kaaba"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Kaaba",
+        "Te Āka a te Poropiti a Noa",
+        "Te Rākau o te Poropiti a Mohi",
+        "Te Kuao Kau Koura",
+        "Te Torona o te Kuīni o Hepa"
+      ],
+      "answer": "Te Kaaba"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I mate i te Pakanga o Pātara",
+        "I ripeneta, ā, i riro hei Mahometa",
+        "I rere ki Āpihia",
+        "I mate i te tau o te arewhana",
+        "I riro hei hoa mō te Poropiti"
+      ],
+      "answer": "I mate i te Pakanga o Pātara"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

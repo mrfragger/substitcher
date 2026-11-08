@@ -1,0 +1,61 @@
+{
+  "title": "Kaldet fra den hellige dal",
+  "intro": "Ud over historiens sider ligger historien om en sjæl, der stod mellem en magtfuld hersker og et helt slavebundet folk. Denne person blev kaldet til at befri en nation fra tyranni og udførte undere, der trodsede enhver naturlov. Fra et helligt bjerg til et mirakel på vandet var denne Allahs tjener vidne til tegn, der ville give genlyd gennem tiderne. Din opgave i dag er at identificere denne bemærkelsesværdige figur, hvis arv formede menneskehedens historie.",
+  "clues": [
+    "Jeg blev født i en tid, hvor mit folk stod over for en dødbringende kendelse, og min familie satte mig i vandet for at redde mit liv.",
+    "Jeg blev fundet og opvokset i selve husstanden hos den hersker, der havde beordret min slags død.",
+    "Jeg flygtede til et helligt bjerg, hvor jeg så ild på et træ, som ikke blev fortæret, og en stemme talte til mig fra det.",
+    "Jeg blev sendt tilbage til netop den hersker med mirakler og krævede mit slavebundne folks frihed.",
+    "Jeg slog havet med min stav, og det delte sig i tørre stier og slugte forfølgerne, der fulgte mit folk.",
+    "Jeg talte med min Herre på et bjerg i fyrre nætter og fik tavler med guddommelig vejledning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Harun",
+        "Profeten Ibrahim",
+        "Profeten Yusuf",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Musa"
+    },
+    "trial": {
+      "label": "Min definerende prøvelse",
+      "options": [
+        "Havets deling",
+        "Bygger den store ark",
+        "Prøvelse ved en flammende ild",
+        "Indespærring i en hvals mave",
+        "Fængsling af en egyptisk embedsmand"
+      ],
+      "answer": "Havets deling"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En hyrdestav",
+        "En stor træark",
+        "En hule hvor tiden sov",
+        "En have med to kilder",
+        "En trone prydet med guld"
+      ],
+      "answer": "En hyrdestav"
+    },
+    "outcome": {
+      "label": "Resultatet",
+      "options": [
+        "Mit folk krydsede havet i sikkerhed",
+        "En stor oversvømmelse ødelagde de vantro",
+        "En tyrans ild blev kølig og fredelig",
+        "Havet kastede sin fange på kysten",
+        "Fangen blev Ægyptens skatmester"
+      ],
+      "answer": "Mit folk krydsede havet i sikkerhed"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

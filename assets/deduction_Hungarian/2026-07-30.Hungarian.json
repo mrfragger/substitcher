@@ -1,0 +1,61 @@
+{
+  "title": "Egy fallal körülvett város különös látogatói",
+  "intro": "Egy csoport érkezett egy olyan város kapujához, amelynek lakói soha nem ismerték az igazságot. Üzenetet hoztak, de a lakosok ellenségessé váltak, erőszakkal fenyegetőzve. Mégis, egy váratlan helyről egyetlen hang emelkedett fel, hogy megvédje az idegeneket, előkészítve a terepet az események drámai fordulatához.",
+  "clues": [
+    "Beléptünk egy városba, melynek lakói hitetlenkedéstől hajtva fogadták a látottakat.",
+    "Gyanakodva néztek ránk, és azt mondták: „Ti csak olyan hétköznapi lények vagytok, mint mi.”",
+    "Figyelmeztettük őket, de köveket emeltek ránk.",
+    "Egy férfi rohant oda a város legtávolabbi végéből, hogy megerősítse az igazságunkat.",
+    "Kijelentette népének: „Miért ne imádnám azt, aki teremtett engem?”",
+    "A város tagadása egyetlen robbanással véget ért, és csend telepedett oda, ahol egykor gúnyolódtak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Ya-Sin hírnökei",
+        "Isa tanítványai",
+        "Az Árok Emberei",
+        "A fáraó varázslói",
+        "A Ya-Sin hívője"
+      ],
+      "answer": "Ya-Sin hírnökei"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Elutasítás és megkövezéssel való fenyegetés",
+        "Heves tűzbe vetve",
+        "Türelempróba egy elveszett gyermekkel",
+        "Egy kert, amely pusztulást szenvedett",
+        "Egy utazás a tengeren át"
+      ],
+      "answer": "Elutasítás és megkövezéssel való fenyegetés"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A város legtávolabbi vége",
+        "A Vörös-tenger",
+        "A tűz árka",
+        "A menedék barlangja",
+        "Az egyiptomi börtön"
+      ],
+      "answer": "A város legtávolabbi vége"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egyetlen kiáltás pusztította el a várost",
+        "A tenger kettévált és elnyelte a sereget",
+        "A tűz lehűlt és biztonságossá vált",
+        "A kertet mennyei tűz emésztette fel",
+        "A bálna visszavitte a férfit a partra"
+      ],
+      "answer": "Egyetlen kiáltás pusztította el a várost"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

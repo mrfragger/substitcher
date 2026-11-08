@@ -1,0 +1,61 @@
+{
+  "title": "Kurora që sfidoi qiejt",
+  "intro": "Në korridoret e mbretërive të lashta, emri i një sundimtari u bë fjalë e ndyrë për tiraninë dhe arrogancën. Kur një shërbëtor i përulur i Allahut mbërriti duke mbajtur shenja të pamohueshme, ky sovran i fuqishëm refuzoi t'i dorëzohej së vërtetës. Sot, detyra juaj është të identifikoni këtë figurë legjendare, sundimi i së cilës u shkërmoq dhe fati i së cilës u vulos nën dallgë.",
+  "clues": [
+    "Unë jam sundimtari më i frikshëm, emri i të cilit ende jehon si paralajmërim përgjatë shekujve.",
+    "I urdhërova një populli të tërë të punonte në zinxhirë, duke ngritur monumente që shpallnin lavdinë time.",
+    "Kur një i dërguar i Allahut erdhi para meje me shenja të pamohueshme, unë refuzova të përulesha dhe e quajta këtë magji.",
+    "Dekretova vrasjen e djemve të mitur midis një populli të robëruar, duke shpresuar t'ua shtypja shpirtin përpara se të ngriheshin.",
+    "Qëndrova para oborrit tim dhe deklarova: “Unë jam zoti juaj më i lartë”, duke kërkuar adhurim si një zot.",
+    "Me kryeministrin tim pranë meje, ndërtova një strukturë madhështore që synonte të ngjitej përtej qiejve."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Faraoni (Faraoni)",
+        "Nemrud",
+        "Haman",
+        "Ebu Leheb",
+        "El-Valid ibn el-Mughira"
+      ],
+      "answer": "Faraoni (Faraoni)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Mbytja në Detin e Kuq",
+        "Deveja e dërguar te populli i Themudit",
+        "Përmbytja e madhe e Nuhut",
+        "Ndëshkimi i Shokëve të Hendekut",
+        "Shkatërrimi i ushtrisë së Abrahas nga zogjtë"
+      ],
+      "answer": "Mbytja në Detin e Kuq"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Struktura madhështore e ndërtuar me Hamanin",
+        "Arka që lundroi mbi përmbytjen",
+        "Viçi i artë i krijuar nga Samiri",
+        "Froni i Bilqis, Mbretëreshës së Shebës",
+        "Shpella e të rinjve që flenë"
+      ],
+      "answer": "Struktura madhështore e ndërtuar me Hamanin"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U mbyt në det; trupi i ruajtur si paralajmërim",
+        "I dëbuar dhe i detyruar të bredhë në shkretëtirë",
+        "Të transformuar në majmunë si ndëshkim",
+        "I goditur nga një tërmet i fuqishëm",
+        "I djegur nga një shi gurësh nga qielli"
+      ],
+      "answer": "U mbyt në det; trupi i ruajtur si paralajmërim"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

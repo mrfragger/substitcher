@@ -1,0 +1,61 @@
+{
+  "title": "Soxta ambitsiyaning me'mori",
+  "intro": "Qadimgi Misrda buyuk hokimiyatga ega bo'lgan shaxs tarixning eng mashhur zolimlaridan biriga xizmat qilgan. Bu shaxsga jasur buyruq — osmonga qarshi chiqish uchun mo'ljallangan inshoot qurish ishonib topshirilgan edi. Ularning hikoyasi Qur'onda takabburlikka ko'r-ko'rona itoat qilish faqat halokatga olib kelishi haqida ajoyib saboq sifatida keltirilgan.",
+  "clues": [
+    "Men yerlar ustidan ilohiylikni da'vo qilgan qudratli hukmdorning saroyida xizmat qildim.",
+    "Men yuqori vazirlik lavozimida ishlaganman va davrimdagi eng takabbur zolimga maslahat berganman.",
+    "Mening hukmdorim Musoning Xudosiga qarshi chiqish bilan band edi, ular tan olishdan bosh tortdilar.",
+    "Menga hukmdorim osmonga ko'tarilishi uchun olovda pishirilgan g'ishtdan minora qurish buyurildi.",
+    "Minora hech qachon osmonga yetmadi va takabburlikka qulligim menga abadiy sharmandalikni keltirdi.",
+    "Men ergashganim bilan birga halok bo'ldim va mening ismim zolimlarga yo'l qo'yuvchilarga qarshi abadiy ogohlantirishga aylandi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Xomon",
+        "Azar (Ibrohimning otasi)",
+        "Illyos (payg'ambar)",
+        "Zul-Kifl",
+        "Harut (Bobildagi ikki farishtadan biri)"
+      ],
+      "answer": "Xomon"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Osmonga yetib borish uchun baland bino qurish buyurildi",
+        "Ilohiydan yuborilgan tushni talqin qilishni so'rashdi",
+        "Imon sinovi sifatida alangali olovga tashlandi",
+        "Taxt va haqiqat o'rtasida tanlov qilishga majbur bo'ldi",
+        "Sehrgarlik musobaqasida qiyinchiliklarga duch keldi"
+      ],
+      "answer": "Osmonga yetib borish uchun baland bino qurish buyurildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Olovda pishirilgan g'ishtlardan yasalgan minora",
+        "Ilonga aylangan tayoq",
+        "Katta suv toshqini paytida suzib ketayotgan kema",
+        "Baland devorlar bilan o'ralgan bog'",
+        "Yoqut va oltin bilan bezatilgan taxt"
+      ],
+      "answer": "Olovda pishirilgan g'ishtlardan yasalgan minora"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Dengizda zolim bilan birga cho'kib ketdi",
+        "Keng yerlarning qudratli monarxiga aylandi",
+        "Yonayotgan olovdan sog'-salomat qochib qutuldi",
+        "Donolikning gullab-yashnagan shohligini qurdi",
+        "Yillar davomida surgunda bo'lganidan keyin oilasi bilan yana birlashdi"
+      ],
+      "answer": "Dengizda zolim bilan birga cho'kib ketdi"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

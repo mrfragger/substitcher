@@ -1,0 +1,61 @@
+{
+  "title": "Kõrgete sammaste ehitajad",
+  "intro": "Sa seisad majesteetliku iidse linna varemete ees, mille kõrged sambad on nüüdseks langenud. Tuul ulgub läbi tühjade tänavate, kandes mälestust võimsast rahvast, kes kunagi neid maid valitses. Kes nad olid?",
+  "clues": [
+    "Me olime tohutu jõu ja oskustega rahvas, tuntud oma suurepäraste hoonete ja arenenud tsivilisatsiooni poolest.",
+    "Me elasime liivaluidete ja kaljuste küngaste maal ning uskusime, et keegi ei suuda meid jalule seada.",
+    "Meie juurde tuli sõnumitooja meie endi sugulaste seast, kutsudes meid üksnes Allahi kummardama, aga me hülgasime ja naeruvääristasime teda.",
+    "Me kiitlesime: „Kes on meist tugevam?” ja jätkasime oma ülbuse ja ebajumalakummardamisega.",
+    "Allah saatis meie peale raevuka tuule, mis puhus seitse ööd ja kaheksa päeva, hävitades kõik.",
+    "Me olime Aadi rahvas, Irami ehitajad, ja meie saatus sai hoiatuseks kõigile, kes pärast meid tulid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "'Redi inimesed",
+        "Thamudi rahvas",
+        "Madjani rahvas",
+        "Tubba rahvas",
+        "Al-Rassi rahvas"
+      ],
+      "answer": "'Redi inimesed"
+    },
+    "trial": {
+      "label": "Milline karistus neile määrati?",
+      "options": [
+        "Hävitav tuul",
+        "Kivide sadam",
+        "Valju plahvatus",
+        "Uppumine üleujutuse tõttu",
+        "Maa poolt neelatud"
+      ],
+      "answer": "Hävitav tuul"
+    },
+    "location": {
+      "label": "Mis on nende legendaarse linna nimi?",
+      "options": [
+        "Iram",
+        "Soodom",
+        "Midjan",
+        "Paabel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Mis oli nende lõplik saatus?",
+      "options": [
+        "Nad hävitati ja nende jäänustest sai õppetund",
+        "Nad parandasid meelt ja said päästetud",
+        "Nad muudeti ahvideks",
+        "Nad uppusid merre",
+        "Nad mattusid maalihke alla"
+      ],
+      "answer": "Nad hävitati ja nende jäänustest sai õppetund"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Os habitantes dos dous xardíns",
+  "intro": "Nunha terra onde as bendicións fluían abundantemente, unha comunidade gozou outrora da abundancia de dous magníficos xardíns. As súas vidas eran un testemuño do favor divino, pero a súa historia deu un xiro cando a gratitude esvaeceu, o que levou a unha transformación que se convertería nun sinal duradeiro para todos os que reflexionan.",
+  "clues": [
+    "Eramos un pobo bendicido cunha terra de facilidade e abundancia.",
+    "O noso Señor concedeunos dous espléndidos xardíns, exuberantes e frutíferos por todas partes.",
+    "Ordenáronnos ser agradecidos, pero escollemos a ingratitude e demos a volta.",
+    "Unha gran presa retivo as augas que lle deron vida á nosa terra.",
+    "Cando persistimos na nosa maldade, a presa rebentou e as augas da inundación arrasaron.",
+    "Os nosos outrora exuberantes xardíns foron substituídos por froitos amargos, tamariscos e unhas cantas árbores de loto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A xente de Saba",
+        "A xente de Thamud",
+        "A xente de Madyan",
+        "Os compañeiros da cova",
+        "A xente do elefante"
+      ],
+      "answer": "A xente de Saba"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Un vento violento durante sete noites",
+        "Unha chuvia de pedras do ceo",
+        "Unha inundación destrutiva pola rotura dunha presa",
+        "Un forte berro dende o ceo",
+        "Afogándose no mar"
+      ],
+      "answer": "Unha inundación destrutiva pola rotura dunha presa"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A gran presa de Ma'rib",
+        "O val de Wadi al-Qura",
+        "O xardín de Iram",
+        "O pozo de Zamzam",
+        "O monte Sinaí"
+      ],
+      "answer": "A gran presa de Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Os nosos xardíns foron substituídos por froitos amargos e árbores dispersas",
+        "Fomos tragados pola terra nun terremoto",
+        "Transformámonos en monos e porcos",
+        "Afogámonos nunha gran inundación",
+        "Fomos destruídos por unha chuvia de pedras"
+      ],
+      "answer": "Os nosos xardíns foron substituídos por froitos amargos e árbores dispersas"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

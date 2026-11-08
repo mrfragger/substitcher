@@ -1,0 +1,61 @@
+{
+  "title": "Entre la Tierra y el Cielo",
+  "intro": "Un alma misteriosa te aguarda en las sagradas páginas de la historia divina, portadora de señales y prodigios que aún resuenan a través de los siglos. Siguiendo el rastro de las pistas, emprenderás un viaje a través de una historia marcada por milagros: desde un comienzo prodigioso hasta una ascensión más allá del cielo. ¿Podrás identificar a este siervo bendito antes de la pista final?",
+  "clues": [
+    "Fui enviado como mensajero a los hijos de Israel con nuevas de misericordia y luz.",
+    "Mi nacimiento fue una señal milagrosa: vine a este mundo sin padre, por mandato del Todopoderoso.",
+    "Hablé siendo aún una niña pequeña, defendiendo el honor de mi madre contra las acusaciones de su pueblo.",
+    "Con el permiso de Alá, modelé pájaros de arcilla y les insuflé vida; volaron lejos ante los ojos de quienes los observaban.",
+    "Curé a los ciegos de nacimiento, sané a los leprosos e incluso resucité a los muertos; sin embargo, cada milagro fue con el permiso de Alá, no por mi cuenta.",
+    "Cuando mis enemigos conspiraron para destruirme, Alá me elevó a los cielos y prometió mi regreso antes del Día del Juicio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Isa (Jesús)",
+        "Profeta Musa (Moisés)",
+        "Profeta Ibrahim (Abraham)",
+        "El profeta Mahoma",
+        "Profeta Yusuf (José)"
+      ],
+      "answer": "Profeta Isa (Jesús)"
+    },
+    "trial": {
+      "label": "El momento decisivo",
+      "options": [
+        "Fui elevado a los cielos",
+        "Me arrojaron a un fuego abrasador.",
+        "Me enfrenté al poderoso ejército del faraón.",
+        "Fui engullido por una gran ballena.",
+        "Construí un arca sobre la montaña."
+      ],
+      "answer": "Fui elevado a los cielos"
+    },
+    "location": {
+      "label": "Se realiza el signo sagrado",
+      "options": [
+        "Moldeé pájaros de arcilla.",
+        "Convertí un bastón en una serpiente.",
+        "Partí la luna en dos",
+        "Yo controlaba el viento y a los genios.",
+        "Saqué una camella de una roca."
+      ],
+      "answer": "Moldeé pájaros de arcilla."
+    },
+    "outcome": {
+      "label": "¿Qué fue de mí?",
+      "options": [
+        "Elevado a los cielos; prometió regresar",
+        "Se convirtió en un gran gobernante de un imperio.",
+        "Saqué a mi pueblo del cautiverio.",
+        "Se le concedió una riqueza terrenal sin igual.",
+        "Me reuní con mi familia después de una larga separación."
+      ],
+      "answer": "Elevado a los cielos; prometió regresar"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

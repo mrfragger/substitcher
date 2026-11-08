@@ -1,0 +1,61 @@
+{
+  "title": "Üzüntüyü aşan sabır",
+  "intro": "Sabrı efsaneleşmiş, kederden görme yetisi zayıflamış, ancak ilahi plana olan inancı asla sarsılmamış bir ihtiyar. Bu kişi, on iki oğlunun kabilelerin temellerini oluşturmasını izlemiş, çok sevdiği bir çocuğunun acı kaybını yaşamış ve ezici keder karşısında güzel bir sabrın zamansız bir sembolü olmuştur. Hikayesi vahiy sayfalarında anlatılan saygıdeğer bir ruh. Bu figürü Kur'an'dan tanıyabilir misiniz?",
+  "clues": [
+    "Ben, Kur'an'ın önemli bir suresinde hikayesi ayrıntılı olarak anlatılan bir peygamberdim.",
+    "Benim on iki oğlum vardı ve onlar Beni İsrail kabilelerinin ataları oldular.",
+    "Oğullarıma, tek bir halk olarak tanınmamaları için farklı kapılardan girmelerini söyledim.",
+    "Sevgili çocuğumu kaybetmenin ardından durmaksızsız ağlamaktan gözlerim bembeyaz olmuştu.",
+    "Diğer oğullarım beni umutsuzluğa kapılmaya zorlasalar bile, \"Ben sadece Allah'a şikayet ederim\" diyerek umutsuzluğa kapılmayı reddettim.",
+    "Ben, adı Arapçada 'artırıcı' anlamına gelen peygamber Yusuf'un babasıyım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yakup",
+        "Peygamber Yusuf",
+        "Peygamber İbrahim",
+        "Peygamber Musa",
+        "Peygamber Davud"
+      ],
+      "answer": "Peygamber Yakup"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Sevgili evladımızı kaybettik.",
+        "Bütün bir halkı yutan büyük sel.",
+        "Ateşe tapan bir krallıktan göç",
+        "Mısır'ın güçlü bir tiranıyla yüzleşme",
+        "Balinanın karnına sürgün"
+      ],
+      "answer": "Sevgili evladımızı kaybettik."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Sahte kanla lekelenmiş bir gömlek",
+        "Yılana dönüşen bir asa",
+        "Bir dağın üzerine inşa edilmiş bir gemi.",
+        "Kayadan oyulmuş dişi deve",
+        "altın buzağı"
+      ],
+      "answer": "Sahte kanla lekelenmiş bir gömlek"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Sevgili oğlunun gömleği yüzüne örtülünce görme yetisi geri geldi.",
+        "Büyük bir balığın karnına atıldıktan sonra kurtuluş",
+        "Allah'tan Halilullah unvanını almak",
+        "Kölelikten kurtulmuş bir halkla denizi geçmek",
+        "Sel felaketinin ardından umudun simgesi olarak beliren gökkuşağı."
+      ],
+      "answer": "Sevgili oğlunun gömleği yüzüne örtülünce görme yetisi geri geldi."
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

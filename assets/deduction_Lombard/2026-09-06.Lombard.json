@@ -1,0 +1,61 @@
+{
+  "title": "L’escluss del vitell d’or",
+  "intro": "Una figüra menziunada in del Coran g’ha purtà una grand multitudin en deviaziun durant l’assenza de un nobil profet. Quaicos de artigianal d’or g’ha caturà el cœur de una naziun intera, ma la storia de chestu individuo la finìs in de la solitudin e in una stran malediziun. Chi podaria vèss chestu emarginà?",
+  "clues": [
+    "Son vegnuu fœura durant l’assenza de un grand profet che l’era salì per ricef una guida divina.",
+    "Ho fait perder una granda folla con vergot qe ho cread cond i me man.",
+    "La creaziun d’or che g’ho prodott pareva avegh la vita, e la faseva di sun che impazzinavan tüt quei che la seguivan.",
+    "Disevi de avegh vist chel che i olter pudevan minga percepir: un sguard in del invisibil.",
+    "Ho tirad fœra quaicos de le piste del messagger divin e l’ho bütà in del metal fonduu.",
+    "Sun stà cundannà a vagabondà da per mi, cunt una malediziun unica che nissun pudeva tuccà la me pel e gnanca mi tuccà la luur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Samiri",
+        "Aman",
+        "Faraon (Fir'aun)",
+        "Abu Lahab",
+        "Profeta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Creà un vitell d’or per venerà",
+        "Costruì una torr che rivava in del ciel",
+        "Sfidà i stregun del Egit",
+        "Guidava un esercit cun besti che svolavan",
+        "Sparti la lüna cuma prœuva de la profezia"
+      ],
+      "answer": "Creà un vitell d’or per venerà"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El vitell dorà",
+        "Un bastun che s’è trasfurmà en serpent",
+        "Un busc in früsa sü una muntagna",
+        "Un'arca che se pogia sü una cima",
+        "Una fossa piena de fœg ardent"
+      ],
+      "answer": "El vitell dorà"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Esilià, vietà de vèss tucà o de tuccà i olter",
+        "Anegad in del mar insema a un esercit",
+        "Brusà vif per avegh refudà la fed",
+        "Colpì giò de un vent viulent e ruggent",
+        "Perdonad e alzà a una staziun volta"
+      ],
+      "answer": "Esilià, vietà de vèss tucà o de tuccà olter"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

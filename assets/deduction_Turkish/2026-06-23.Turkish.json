@@ -1,0 +1,61 @@
+{
+  "title": "Nehir Kenarındaki Bekçi",
+  "intro": "Bir tiranın fermanının birçok eve keder getirdiği bir diyarda, bir ruh tüm korkuları alt eden bir mesaj aldı. Güvenle dolu bir kalple, bir ulusun gidişatını değiştirecek bir inanç eylemine giriştiler. Sular değerli bir yük taşırken, umut akıntılarla karıştı.",
+  "clues": [
+    "Baskı ve korku dolu bir dönemde yaşadım.",
+    "Bana cesaret veren ilahi bir ilham aldım.",
+    "Bana korkmamam ve üzülmemem emredildi.",
+    "Çocuğumu bir sandığa koydum ve sandığı suyun üzerine bıraktım.",
+    "Çocuğum hükümdarın maiyeti tarafından bulundu, ancak diğer çocuğum onları takip etti.",
+    "Allah'ın vaat ettiği gibi, çocuğuma kavuştum ve onu emzirmeye başladım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Musa'nın Annesi",
+        "Firavunun Karısı",
+        "Musa'nın Kız Kardeşi",
+        "İsa'nın Annesi",
+        "Saba Kraliçesi"
+      ],
+      "answer": "Musa'nın Annesi"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bir çocuğu nehre atmaktan ilham almak",
+        "Büyü düellosuna davet edilmek",
+        "Bir ordu tarafından takip edilmek",
+        "Yarılmış bir denizi geçmek",
+        "kutsal bir ev inşa etmek"
+      ],
+      "answer": "Bir çocuğu nehre atmaktan ilham almak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nehre bırakılmış bir sandık.",
+        "Yanan bir çalı",
+        "Yılana dönüşen bir asa",
+        "altın buzağı",
+        "Bir taht"
+      ],
+      "answer": "Nehre bırakılmış bir sandık."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Çocuk güvenli bir şekilde hemşireye teslim edildi.",
+        "Çocuk sonsuza dek kayboldu.",
+        "Çocuk uzak bir ülkeye götürüldü.",
+        "Çocuk anında yönetici oldu.",
+        "Çocuk zengin bir tüccar tarafından evlat edinildi."
+      ],
+      "answer": "Çocuk güvenli bir şekilde hemşireye teslim edildi."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

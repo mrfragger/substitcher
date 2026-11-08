@@ -1,0 +1,61 @@
+{
+  "title": "Anbizio Handiaren Eromena",
+  "intro": "Ekarri bidaia batean ausartak diren planek ustekabeko amaiera boteretsua izan duten entitate kolektibo baten nortasuna argitzeko. Narrazio honek jainkozko boterearen eta munduko boterearen hauskortasunaren oroigarri sakona da, sakratuaren aurka egiten duenean. Argitu talde honen misterioa, zeinaren istorioa Koranean grabatuta dagoen, legea hausten saiatzen diren guztientzat abisu gisa.",
+  "clues": [
+    "Anbizio handi bat geneukan, gure indarra paregabea zela sinetsita, eta helburu argi eta suntsitzaile batekin bidaia bati ekin genion.",
+    "Gure buruzagiak, harrokeriaz beteta, askok gurtzen zuten Etxe sakratu bat zikintzen saiatu zen, erromesaldia guk eraikitako egitura batera desbideratzeko asmoz.",
+    "Lurralde urrun batetik, indar izugarri batekin abiatu ginen, Hiri Santuko eraikin zaharra desegiteko gai ginela ziur.",
+    "Gure armada ikaragarria zen, izaki zoragarriek gidatuta, inbaditu genuen lurraldeko biztanleek gutxitan, edo inoiz ez, ikusi duten ikuskizuna halako kanpaina batean.",
+    "Helmugara iritsi ginenean, jainkozko esku-hartze bat gertatu zen; izaki hegodun txikiak agertu ziren, buztin egosizko harriak jaurtiz gintuzten.",
+    "Gure espedizio osoak amaiera suntsitzailea izan zuen, gure indar ikaragarria erabat suntsituta utziz, lasto mastekatua bezala, gure plan handia hauts bihurtuta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Thamudeko jendea",
+        "'Ad-eko jendea",
+        "Sodomako jendea",
+        "Elefantearen jendea.",
+        "Lorategiko jendea."
+      ],
+      "answer": "Elefantearen jendea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde Handia",
+        "Kaabaren aurkako kanpaina",
+        "Idoloen suntsipena.",
+        "Itsasoaren zatiketa.",
+        "Midiango lurrikara"
+      ],
+      "answer": "Kaabaren aurkako kanpaina"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Kaaba",
+        "Urrezko Txahala",
+        "Sua"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Jainkozko salbazioa",
+        "Oparotasun aldi luzea.",
+        "Islamera bihurtzea",
+        "Suntsipen osoa.",
+        "Beren lurraldetik erbesteratuak"
+      ],
+      "answer": "Suntsipen osoa."
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

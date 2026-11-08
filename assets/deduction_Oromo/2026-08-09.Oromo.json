@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Dhugaa Bara Durii",
+  "intro": "Qur’aana keessatti lubbuun seenaan ishee keeyyata muraasa qofa keessatti himame tokko jira, ta’us amaloonni isaanii kabajamoo ifa ifa ta’een ifa ta’an ni ibsa. Safuu addaatiin Rabbii olta’aatiin kan faarfame, hojjetaan durii kan rahmata godhaa kun fuula mul’ata keessatti bakka qaba. Hojiin kee lakkoofsa dinqisiisaa kana adda baasuudha. Eenyu akka ta'an tilmaamuun ni danda'amaa?",
+  "clues": [
+    "Nabiyyii Rabbii dhaloota jalqabaa dhala namaa keessa jiraadheedha.",
+    "Rabbiin Kitaaba Isaa keessatti nabiyyoota biroo wajjin na kaase, hundi isaanii safuu kabajamaa wal fakkaatuun faarfamaniiru.",
+    "Qur'aana keessatti nama dhugaa ta'ee ibsameera.",
+    "Rabbiin bakka ol’aanaa namoonni muraasni irra ga’an na kaase.",
+    "Maqaan koo suuraa Al-Anbiyaa keessatti caqafameera, nabiyyoota biroo lama obsa isaaniitiin faarfaman waliin gurmaa’ee jira.",
+    "Ani Idriis, nabiyyii dhugaa dubbatuu fi olka’aa dha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Idriis",
+        "Nabi Nuh",
+        "Nabi Ibraahim",
+        "Nabi Muusaa",
+        "Nabi Ismaa'el"
+      ],
+      "answer": "Nabi Idriis"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Obsaa fi dhugaa qabaachuu, sana booda gara buufata ol’aanaatti ol kaafamuu",
+        "Taabota guddaa ijaaruun amantoota lolaa hamaa irraa baraaruuf",
+        "Ibidda boba’aa keessa darbatamee guutummaatti osoo hin miidhamiin ba’uu",
+        "Mootii jabaa tokko waliin wal dura dhaabbachuun waraana falfaltootaa isaa injifachuu",
+        "Garaa qurxummii guddaa gadi fageenya galaanaa keessaa lubbuun jiraachuu"
+      ],
+      "answer": "Obsaa fi dhugaa qabaachuu, sana booda gara buufata ol’aanaatti ol kaafamuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Buufata ol aanaa fi ol aanaa Rabbiin biraa",
+        "Doonii guddaa pilaanii irraa ijaaramee fi daakuun dhaabbate",
+        "Ibidda boba’aa waaqeffattoota waaqa tolfamaa mootii hamaa tokkootiin boba’e",
+        "Galaana bal’aa karaa goggogaa ta’ee gargar ba’e",
+        "Garaan dukkanaa'aa qurxummii guddaa galaana jala jiru"
+      ],
+      "answer": "Buufata ol aanaa fi ol aanaa Rabbiin biraa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Qajeelota keessaa tokko ta'ee rahmata Rabbii keessa seene",
+        "Amantoota hundumaa wajjin lolaa addunyaa guutuu irraa fayye",
+        "Ibiddi osoo hin tuqamne abidda keessaa ba'e",
+        "Ijoollee Israa'el galaana ce'ee gara bilisummaatti nagaan geggeesse",
+        "Rakkoo waggoota dheeraa booda maatii isaanii jaallatamaa wajjin walitti makaman"
+      ],
+      "answer": "Qajeelota keessaa tokko ta'ee rahmata Rabbii keessa seene"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Toshlar orasidagi belgi",
+  "intro": "Tog'lar uylarga o'yib qurilgan yurtda, Allohdan mo''jizaviy alomat bilan bir elchi keldi. Odamlar dalil talab qilishdi va ular qattiq toshdan bir jonzotni olishdi. Ammo ularning takabburligi ularni ogohlantirishga qarshi chiqishga va taqdirlarini hal qilishga majbur qildi.",
+  "clues": [
+    "Men tog'lardan o'yilgan uylarda yashovchi qavmga yuborildim.",
+    "Ular mendan belgi olib kelishimni so'rashdi, shuning uchun men toshdan tuya chiqardim.",
+    "Men ularga tuyani bemalol suvga qo'yib yuborishni va unga zarar yetkazmaslikni buyurdim.",
+    "Ular mening ogohlantirishimga quloq solmay, itoatsizlik qilishdi va tuyaning sonlarini kesib tashlashdi.",
+    "Men jazo uch kundan keyin kelishini e'lon qildim.",
+    "Ertalab kuchli bir ofat ularni qirib tashladi, ammo men va mening izdoshlarim najot topdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Solih",
+        "Payg'ambar Hud",
+        "Lut payg'ambar",
+        "Payg'ambar Shu'ayb",
+        "Ibrohim payg'ambar"
+      ],
+      "answer": "Payg'ambar Solih"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Toshdan urg'ochi tuya talab qilish",
+        "Oltin buzoqqa talab",
+        "Osmondan yoyilgan dasturxon talabi",
+        "Toshqin talabi",
+        "Tayoqning ilonga aylanishini talab qilish"
+      ],
+      "answer": "Toshdan urg'ochi tuya talab qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Urg'ochi tuya va uning buzog'i",
+        "Nuhning kemasi",
+        "Musoning tayoqchasi",
+        "Oltin buzoq",
+        "Ibrohimning olovi"
+      ],
+      "answer": "Urg'ochi tuya va uning buzog'i"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Kuchli portlash bilan vayron qilingan",
+        "To'fonda cho'kib ketdi",
+        "Yer tomonidan yutib yuborilgan",
+        "Maymunlarga aylangan",
+        "Kuchli shamol tomonidan vayron qilingan"
+      ],
+      "answer": "Kuchli portlash bilan vayron qilingan"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

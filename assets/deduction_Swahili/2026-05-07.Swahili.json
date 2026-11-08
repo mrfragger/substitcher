@@ -1,0 +1,61 @@
+{
+  "title": "Mwitaji kutoka Kina",
+  "intro": "Hebu fikiria nafsi iliyokabidhiwa ujumbe wa kimungu, lakini ambayo, kwa haraka, iliwaacha watu wake bila ruhusa ya wazi. Safari hii iliwaongoza kwenye jaribio la ajabu, jaribio kubwa la uvumilivu na kumtegemea Aliye Juu. Ni nani huyu mtu ambaye hadithi yake inatufundisha kuhusu toba na ukubwa wa rehema ya Mwenyezi Mungu?",
+  "clues": [
+    "Nilitumwa kwa taifa kubwa, lakini kukataliwa kwao mwanzoni kulinisababishia dhiki.",
+    "Niliacha watu wangu, nikiamini kwamba misheni yangu ilikuwa imekamilika, kabla ya kupokea amri iliyo wazi ya kuondoka.",
+    "Nilitafuta njia ya kupanda meli, lakini dhoruba kali na kura zilisababisha hali mbaya.",
+    "Nilitupwa baharini, na kiumbe mwenye nguvu kutoka vilindini akanimeza mzima.",
+    "Ndani ya giza la tumbo lake, nilimwita Mwenyezi Mungu, nikikiri makosa yangu na kuomba msamaha wake.",
+    "Mwenyezi Mungu aliamuru kiumbe huyo anitupe ufukweni, nami nikarudishwa kwenye afya chini ya mmea wa kipekee."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Yusufu (Yusufu)",
+        "Nabii Nuh (Nuhu)",
+        "Nabii Yunus (Yona)",
+        "Nabii Sulemani (Sulemani)",
+        "Nabii Ayyub (Ayubu)"
+      ],
+      "answer": "Nabii Yunus (Yona)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kugawanyika kwa bahari",
+        "Moto wa Nimrodi",
+        "Kumezwa na samaki mkubwa",
+        "Mafuriko",
+        "Kuharibiwa kwa mji kwa mawe"
+      ],
+      "answer": "Kumezwa na samaki mkubwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Tumbo la samaki",
+        "Kisima",
+        "Kichaka kinachowaka moto"
+      ],
+      "answer": "Tumbo la samaki"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa mtawala mkuu",
+        "Alijenga Kaaba",
+        "Kurudi kuongoza taifa lililotubu",
+        "Alipewa mamlaka juu ya majini",
+        "Waliwaongoza watu kuvuka jangwa"
+      ],
+      "answer": "Kurudi kuongoza taifa lililotubu"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

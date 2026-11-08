@@ -1,0 +1,61 @@
+{
+  "title": "Pacient ena",
+  "intro": "Davno tega, v najzgodnejših dneh človeške zgodovine, sta dve duši stali pred svojim Stvarnikom z daritvami. Ena je bila sprejeta, druga ne. Kar je sledilo, je postala prva velika tragedija med brati in sestrami – eno dejanje potrpežljivega zadrževanja in eno dejanje grenkega maščevanja. Ali lahko odkrijete, kdo sem?",
+  "clues": [
+    "Rodil sem se v prvih dneh človeškega obstoja na zemlji",
+    "Bil sem otrok prvega para ljudi, ki sta kdaj hodila po tej zemlji.",
+    "Nekoč sem daroval žrtev od najboljših živali iz svoje črede, da bi ugajal svojemu Stvarniku",
+    "Moja daritev je bila sprejeta od zgoraj, medtem ko je bila daritev mojega brata ali sestre zavrnjena.",
+    "Ko so mi grozili s smrtjo, sem se odločil, da ne bom dvignil roke proti svojemu bratu/sestri.",
+    "Postal sem prva oseba v vsej človeški zgodovini, ki jo je nekdo drug neupravičeno ubil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Habil (Abel), sin Adamov",
+        "Kabil (Kajn), sin Adamov",
+        "Adam, prvi človek",
+        "Nuh (Noe)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), sin Adamov"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Prvi umor v zgodovini človeštva",
+        "Velika poplava Nuha",
+        "Uničenje Faraonove vojske",
+        "Ibrahimovo žrtvovanje Ismaila",
+        "Bitka proti Jalutu (Goljatu)"
+      ],
+      "answer": "Prvi umor v zgodovini človeštva"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ovca, darovana kot prijetna žrtev",
+        "Velika lesena barka",
+        "Palica, ki se je spremenila v kačo",
+        "Ptica hoopo, ki nosi kraljevo sporočilo",
+        "Plameneči ognjeni jarek"
+      ],
+      "answer": "Ovca, darovana kot prijetna žrtev"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal je prva žrtev umora v zgodovini človeštva",
+        "Preživel veliko poplavo v leseni ladji",
+        "Živel v trebuhu velike ribe",
+        "Vladal je džinom, ljudem in vetru",
+        "Štirideset let je taval po prostrani divjini"
+      ],
+      "answer": "Postal je prva žrtev umora v zgodovini človeštva"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

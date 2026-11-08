@@ -1,0 +1,61 @@
+{
+  "title": "Resenärerna på det grönskande fältet",
+  "intro": "I forntiden odlade två individer grannländer. Deras vägar var sammanflätade, men deras hjärtan ledde dem mot vitt skilda destinationer. Den ene gick den raka vägen, medan den andra förvirrade sig in i förnekelsens mörker. Kan du reda ut mysteriet med dessa två skördens väktare?",
+  "clues": [
+    "Jag ägde rikliga skördar, frodiga skördar som bländade åskådarnas ögon.",
+    "Min granne ägde ännu större överflöd än jag, men jag åtrådde deras del mer än min egen.",
+    "Jag föreslog att vi skulle förstöra deras grödor helt och hållet, för att konsolidera allt under min kontroll.",
+    "Jag fördärvade också min egen skörd och förstörde allt i mina dåraktiga planer.",
+    "Jag stod hjälplös medan mina grödor vissnade och min rikedom förvandlades till stoft på en enda natt.",
+    "Jag hade ingen del i livet efter detta, och min sista boning blev en grop av flammande eld."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Mannen som förnekade uppståndelsen och domen",
+        "Härskaren som förtryckte den rättfärdige bonden",
+        "Den förmögne markägaren som saknade tacksamhet",
+        "Bonden som åtrådde sin grannes mark",
+        "Den förrädiske partnern som planerade förstörelse"
+      ],
+      "answer": "Bonden som åtrådde sin grannes mark"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Testet att ta emot gudomlig uppenbarelse",
+        "Utmaningen med rikedom och tålamod",
+        "Frestelsen att förstöra en rättfärdig persons försörjning",
+        "Budet att fördela arvet rättvist",
+        "Kampen mot en tyranns förtryck"
+      ],
+      "answer": "Frestelsen att förstöra en rättfärdig persons försörjning"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Paradisets grönskande trädgårdar",
+        "Två angränsande odlingsfält",
+        "Bergen som bevittnade förstörelse",
+        "Meckas heliga helgedom",
+        "Flodstränderna i ett välsignat land"
+      ],
+      "answer": "Två angränsande odlingsfält"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Det eviga paradiset som belöning för rättfärdighet",
+        "Fullständig förstörelse av båda skördarna i detta liv",
+        "Exil och vandring till döden",
+        "Tillfällig välstånd följt av evig eld",
+        "En mirakulös återställelse och fördubblad belöning"
+      ],
+      "answer": "Fullständig förstörelse av båda skördarna i detta liv"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

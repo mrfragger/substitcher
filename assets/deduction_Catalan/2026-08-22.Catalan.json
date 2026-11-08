@@ -1,0 +1,61 @@
+{
+  "title": "El poble que creia en el temps",
+  "intro": "En els annals de la misericòrdia divina, hi ha una comunitat el punt d'inflexió de la qual va ser un moment de comprensió col·lectiva. Esteu a punt de descobrir la seva història: una història d'advertència, penediment i un indult que els va diferenciar del destí d'altres nacions.",
+  "clues": [
+    "Érem un poble a qui es va enviar un missatger, i al principi ens vam allunyar de la seva crida.",
+    "Quan els signes del càstig imminent es van fer evidents, ens vam adonar de la veracitat del seu avís.",
+    "Ens vam dirigir al nostre Senyor amb sincer penediment, i la nostra fe va ser acceptada.",
+    "El càstig que s'havia decretat sobre nosaltres va ser aixecat a causa de la nostra creença.",
+    "La nostra història és citada com una excepció entre els pobles que van creure després de veure el càstig.",
+    "Érem el poble del profeta que va ser engolit per la balena, però vam ser salvats de la destrucció."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent de Yunus",
+        "Gent de Nuh",
+        "Gent de Hud",
+        "Gent de Salih",
+        "Gent de Lut"
+      ],
+      "answer": "Gent de Yunus"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Una inundació devastadora",
+        "Una forta tempesta de vent",
+        "Un càstig imminent de desgràcia que es va evitar",
+        "La terra que se'ls engoleix",
+        "Una pluja de pedres"
+      ],
+      "answer": "Un càstig imminent de desgràcia que es va evitar"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'arca",
+        "La camella",
+        "Una ciutat de cent mil",
+        "El personal de Musa",
+        "El tresor de Qarun"
+      ],
+      "answer": "Una ciutat de cent mil"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Van ser completament destruïts",
+        "Se'ls va donar gaudi durant un temps",
+        "Es van transformar en simis",
+        "Es van ofegar.",
+        "Van ser engolits per la terra"
+      ],
+      "answer": "Se'ls va donar gaudi durant un temps"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

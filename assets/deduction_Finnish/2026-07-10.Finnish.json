@@ -1,0 +1,61 @@
+{
+  "title": "Yhdeksän merkin kantaja",
+  "intro": "Hahmo nousi vaatimattomimmista lähtökohdista, ja hänen kohtalonsa oli kirjoitettu jumalalliseen tahtoon. Tämä sielu, joka oli piilossa lapsuudessaan ja kasvanut juuri sen hallitsijan muurien sisällä, joka pyrki tuhoamaan heidän kansansa, kutsuttiin lopulta mahtavaan tehtävään. Varustautuneena pelkällä uskolla ja nöyrällä paimenen sauvalla, he seisoivat aikansa mahtavimman hallitsijan edessä ja vaativat vapautta orjuutetuille. Maailma itsessään näytti liikkuvan heidän käskystään – vedet jakautuivat, taivaat puhuivat ja valtakunta kukistui.",
+  "clues": [
+    "Varhaisimpia päiviäni leimasi pelko – minunlaisiani vauvoja metsästi syntymässä armoton hallitsija, joka pelkäsi tulevaisuutta.",
+    "Veden pelastamana minut kasvoin juuri sen hallitsijan palatsissa, joka tavoitteli tuhoani.",
+    "Pakenin kotimaastani äkillisen tapahtuman jälkeen ja minusta tuli nöyrä paimen kaukaisessa maassa.",
+    "Palasin kohtaamaan tuon mahtavan hallitsijan yksinkertaisen sauvan ja selkeän viestin kanssa vaatien kansani vapautta.",
+    "Halkaisin suuren vesialueen seuraajilleni ja katselin, kuinka nuo vedet nielaisivat viholliseni kokonaisena.",
+    "Kiipesin pyhälle vuorelle saadakseni jumalallista ohjausta Allahilta, ja minulle annettiin yhdeksän selkeää merkkiä totuuden todisteeksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Musa",
+        "Profeetta Nooa",
+        "Profeetta Ibrahim",
+        "Profeetta Yusuf",
+        "Profeetta Lut"
+      ],
+      "answer": "Profeetta Musa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kohtaamassa faaraon hänen hovissaan",
+        "Arkin rakentaminen selviytymään suuresta tulvasta",
+        "Epäjumalantekijöiden heittämä liekehtivään tuleen",
+        "Veljeni laskevat minut syvään kaivoon",
+        "Yritän estää kansaani moraalittomasta käytöksestä"
+      ],
+      "answer": "Kohtaamassa faaraon hänen hovissaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Sauva, joka muuttui käärmeeksi",
+        "Noan arkki",
+        "Bilqisin valtaistuin",
+        "Sormus, joka hallitsi tuulta ja džinniä",
+        "Avaimet hamstrattuihin aarteisiin niin painavia"
+      ],
+      "answer": "Sauva, joka muuttui käärmeeksi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Johdin kansani jakautuneiden vesien yli vapauteen",
+        "Pelastui suuresta tulvasta arkin sisällä",
+        "Palasi terveyteen ja perheeseen syvän kärsimyksen jälkeen",
+        "Heitettiin elävältä ulos suuresta kalasta",
+        "Rakensi Pyhän Talon perustukset"
+      ],
+      "answer": "Johdin kansani jakautuneiden vesien yli vapauteen"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

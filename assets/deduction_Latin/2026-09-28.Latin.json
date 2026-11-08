@@ -1,0 +1,61 @@
+{
+  "title": "Undecim Stellae Quae Inclinatae Sunt",
+  "intro": "Cuidam persona ex Corano in pueritia visionem profundam accepit — somnium corporum caelestium in reverentiam se inclinantium. Anni per proditionem, separationem, falsam accusationem, et carcerem transirent antequam haec visio vera fieret. Quis est haec anima tenax cuius historia longissimum caput Corani occupat?",
+  "clues": [
+    "Olim iuvenis eram, somnio quodam mirabili beatus, quod etiam pater meus me monuit ut secretum servarem.",
+    "Mei ipsi fratres, invidia excaecati, contra me insidiati sunt et me in puteum profundum et obscurum coniecerunt.",
+    "In terram longinquam abductus et in domum nobilis officialis venditus sum, ubi gratiam nactus et in officio crevi.",
+    "Falsa accusatio ad iniustam meam carcerem duxit, attamen in illo loco obscuro solacium in prece et prostratione ad Allah inveni.",
+    "Deus me rara facultate somnia interpretandi beavit, quae me tandem coram principe terrae adduxit et ad altum fiduciae gradum evexit.",
+    "Post longos annos separationis, cum dilectissima familia mea iterum coniunctus sum, et somnium puerile meum de undecim stellis, sole et luna mihi inclinantibus tandem impletum est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Iosue",
+        "Propheta Salih",
+        "Propheta Ilyas",
+        "Tubba, Himyar antiquitatis princeps",
+        "Pastor humilis de montibus Palaestinae"
+      ],
+      "answer": "Propheta Iosue"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "A fratribus zelotypis in puteum profundum et obscurum coniectus",
+        "Absorpti a magna creatura maris profundi",
+        "Ab idololatris in ignem ardentem conicitur",
+        "A divino vento destructionis abrepti",
+        "Superstes diluvii magni qui totam terram implevit"
+      ],
+      "answer": "A fratribus zelotypis in puteum profundum et obscurum coniectus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Puteus siccus in deserto ubi derelictus sum",
+        "Magnus piscis maris profundi",
+        "Arca ingens iussu divino constructa",
+        "Turris aedificata ad caelum pertingendum",
+        "Ignis sacer qui ardere recusavit"
+      ],
+      "answer": "Puteus siccus in deserto ubi derelictus sum"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Post annos separationis cum familia iterum coniunctus et minister fidus factus est",
+        "Magnum exodum populi mei trans mare divisum duxi",
+        "Nationem meam de imminente clade, quae eos consumeret, monuit",
+        "Domum sacram aedificavit quae omnibus sanctuarium facta est",
+        "Post tres dies tuto e ventre magnae bestiae emersit"
+      ],
+      "answer": "Post annos separationis cum familia iterum coniunctus et minister fidus factus est"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

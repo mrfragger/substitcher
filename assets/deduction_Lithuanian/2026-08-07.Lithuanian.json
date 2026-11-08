@@ -1,0 +1,61 @@
+{
+  "title": "Tikėjimas už sosto",
+  "intro": "Kai kurias sielas išbando ne ugnis ar potvynis, o lėtas gyvenimo tirono rūmuose spaudimas. Ši figūra stovėjo šalia valdovo, kuris skelbė esąs dieviškas savo žmonėms, tačiau slapta laikėsi tikėjimo Vieninteliu Tikruoju Dievu. Kai jų atsidavimas buvo atskleistas, atėjo kančia – bet taip pat ir dieviškas pažadas. Ar galite atspėti, kas tai?",
+  "clues": [
+    "Gyvenau po galingiausio savo šalies valdovo stogu, tokioje padėtyje, kokią mažai kas galėtų įsivaizduoti.",
+    "Mano sutuoktinis stojo prieš žmones ir pasiskelbė dievu, bet mano širdis priklausė Vienam Tikrajam Viešpačiui.",
+    "Slapta šnabždėjau maldas, bijodama bausmės, kuri ištiktų visus, kurie nepakluso mano sutuoktiniui.",
+    "Kai mano tikėjimas buvo atskleistas, mane suėmė ir kankino – tačiau mano liežuvis niekada neištarė nė žodžio, reiškiančio netikėjimą.",
+    "Išliejau savo širdį Viešpačiui, prašydamas namų Rojuje, toli nuo visų nedorybių.",
+    "Aš esu Asija bint Muzahim – faraono, kuris priešinosi Musai ir Harūnui, žmona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Asiya bint Muzahim (faraono žmona)",
+        "Hava (Ieva), pirmoji moteris",
+        "Sara, pirmoji Ibrahimo žmona",
+        "Hagara, Izmailo motina",
+        "Maryamos (Imrano žmonos) motina"
+      ],
+      "answer": "Asiya bint Muzahim (faraono žmona)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Kankinami už atsisakymą išsižadėti tikėjimo",
+        "Išgyvenimas didelės žuvies pilve",
+        "Statant didžiulį laivą, kad išvengtų potvynio",
+        "Įmestas į liepsnojančią ugnį",
+        "Didžiosios jūros atsiskyrimo liudininkas"
+      ],
+      "answer": "Kankinami už atsisakymą išsižadėti tikėjimo"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Jiems Rojuje pastatytas namas",
+        "Lazdelė, kuri virto gyvate",
+        "Arka, gabenanti visų būtybių poras",
+        "Auksinis veršis, kurį garbino tauta",
+        "Svaidyklė, naudojama nugalėti milžinišką karį"
+      ],
+      "answer": "Jiems Rojuje pastatytas namas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Garbė gyventi Rojuje kartu su teisiaisiais",
+        "Nuskendo po bangomis kartu su savo armija",
+        "Sudegė liepsnose, bet išgelbėtas dieviškosios pagalbos dėka",
+        "Prarytas didžiojo padaro, o tada išmestas į krantą",
+        "Tapo turtingiausiu savo laikų žmogumi"
+      ],
+      "answer": "Garbė gyventi Rojuje kartu su teisiaisiais"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

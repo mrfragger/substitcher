@@ -1,0 +1,61 @@
+{
+  "title": "Il Portatore dei Nove Segni",
+  "intro": "Una figura emerse dalle origini più umili, con un destino scritto nella volontà divina. Nascosta fin dall'infanzia e cresciuta tra le mura del sovrano che cercava di distruggere il suo popolo, quest'anima fu infine chiamata a una missione grandiosa. Armata solo di fede e di un umile bastone da pastore, si presentò al cospetto del sovrano più potente dell'epoca e reclamò la libertà per coloro che erano ridotti in schiavitù. Il mondo stesso sembrò muoversi al suo comando: le acque si divisero, i cieli parlarono e un regno cadde.",
+  "clues": [
+    "I miei primi giorni di vita furono segnati dalla paura: i neonati come me venivano braccati alla nascita da un sovrano spietato che temeva il futuro.",
+    "Sono stato salvato dalle acque e cresciuto nel palazzo dello stesso sovrano che aveva cercato di distruggermi.",
+    "Sono fuggito dalla mia patria dopo un incidente improvviso, diventando un umile pastore in una terra lontana.",
+    "Tornai per affrontare quel potente sovrano con un semplice bastone e un messaggio chiaro, esigendo la libertà del mio popolo.",
+    "Ho aperto una grande distesa d'acqua per coloro che mi seguivano e ho visto quelle acque inghiottire interamente il mio nemico.",
+    "Sono salito su una montagna sacra per ricevere la guida divina da Allah, e mi sono stati concessi nove segni inequivocabili a riprova della verità."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Mosè",
+        "Profeta Nuh",
+        "Profeta Ibrahim",
+        "Il profeta Yusuf",
+        "Profeta Lutero"
+      ],
+      "answer": "Profeta Mosè"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Affrontare il faraone alla sua corte",
+        "Costruire l'Arca per sopravvivere a un grande diluvio",
+        "Essere gettati in un fuoco ardente dai creatori di idoli",
+        "Essere calato in un pozzo profondo dai miei fratelli",
+        "Sto cercando di impedire alla mia gente di comportarsi in modo immorale."
+      ],
+      "answer": "Affrontare il faraone alla sua corte"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il bastone che si trasformò in un serpente",
+        "L'Arca di Nuh",
+        "Il Trono di Bilqis",
+        "L'Anello che controllava il vento e i jinn",
+        "Chiavi di tesori nascosti così pesanti"
+      ],
+      "answer": "Il bastone che si trasformò in un serpente"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Condussi il mio popolo attraverso le acque divise verso la libertà",
+        "Fu salvato da una grande alluvione all'interno di un'arca",
+        "È tornato in salute e alla famiglia dopo una profonda sofferenza.",
+        "Fu gettato fuori da un grande pesce vivo",
+        "Ha costruito le fondamenta della Casa Sacra"
+      ],
+      "answer": "Condussi il mio popolo attraverso le acque divise verso la libertà"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

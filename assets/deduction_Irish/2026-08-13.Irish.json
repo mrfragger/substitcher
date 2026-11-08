@@ -1,0 +1,61 @@
+{
+  "title": "Anam Foighneach an Tí Naofa",
+  "intro": "I leathanaigh an Choráin, tagann figiúr chun cinn ó shliocht fáidh mhóir, a bronnadh mar bhronntanas i seanaois. Déantar ceiliúradh ar an anam seo as a fhírinne dhochloíte agus as ról domhain i mbunú tearmainn a bheadh ​​ina sholas creidimh. Agus tú ag léamh na leideanna, éist go cúramach leis an nguth ón am atá thart, mar labhraíonn sé sa chéad phearsa.",
+  "clues": [
+    "Luaitear mé sa Corán in éineacht le fáidh eile mar bhronntanas a bronnadh ar theachtaire scothaosta.",
+    "Ba mise duine de bheirt shliocht a bronnadh ar an bhfáidh sin ina bhlianta ina dhiaidh sin.",
+    "Moltar mé sa Choran as a bheith dílis do mo bhriathar.",
+    "Bhí onóir na fáidheachta orm agus cuireadh chugam mar theachtaire.",
+    "Chuaigh mé le m'athair agus mé ag tógáil bunsraitheanna an Tí Naofa.",
+    "Cuimhnítear orm mar dhuine de na daoine foighneacha, agus ba áit filleadh agus slándála do dhaoine an teach naofa a thógamar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ismail",
+        "Fáidh Ishaq",
+        "an Fáidh Yaqub",
+        "Fáidh Zakariya",
+        "An Fáidh Yahya"
+      ],
+      "answer": "Fáidh Ismail"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag tógáil bunús an Kaaba le Ibrahim",
+        "Á chaitheamh isteach sa tine",
+        "Á shlogadh ag míol mór",
+        "Ag treorú na nIosraeilíteach amach as an Éigipt",
+        "Ag tógáil áirce"
+      ],
+      "answer": "Ag tógáil bunús an Kaaba le Ibrahim"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Kaaba",
+        "Sliabh Shíonáí",
+        "An Mhuir Rua",
+        "An Lao Órga",
+        "Gairdín Éidin"
+      ],
+      "answer": "An Kaaba"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Áireamh i measc na n-othar",
+        "Áireamh i measc na mí-iompróirí",
+        "Áireamh i measc na ndraíodóirí",
+        "Áireamh i measc na n-easchreidmheach",
+        "Áireamh i measc na gcreannmhar"
+      ],
+      "answer": "Áireamh i measc na n-othar"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

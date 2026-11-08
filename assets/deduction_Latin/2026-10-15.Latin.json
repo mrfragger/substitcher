@@ -1,0 +1,61 @@
+{
+  "title": "Iustitia Inter Mercatores",
+  "intro": "Coram populo illecebris lucri absorpto stabat figura quaedam, ad honestatem et aequitatem in negotiis suis vocans. Hic servus Dei monuit ne mensura brevi daretur et statera adulteraretur. Populus audire recusavit, minitans se hunc hominem e terra sua expellere. Ipsa terra in iudicium contra eos surgeret. Quis est haec figura quae pro iustitia inter mercatores stetit?",
+  "clues": [
+    "Missus sum nuntius ad populum qui in commercio et mercatura alte immersus erat.",
+    "Populus meus mensuram brevem praebebat cum res pro aliis ponderarent.",
+    "Minati sunt se me e terra expulturos esse si in eos ad fidem vocando perseverarem.",
+    "In memoria habeo ut orator eloquentissimus inter prophetas.",
+    "Populus meus terrae motu violento correptus est, qui eos in domibus suis exanimes reliquit.",
+    "Ad populum Madyan in Hijaz septentrionali missus sum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Shu'ayb",
+        "Propheta Isaac",
+        "Propheta Ismael",
+        "Propheta Zacharias",
+        "Propheta Yahya"
+      ],
+      "answer": "Propheta Shu'ayb"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Expulsione e terra minati",
+        "In ignem ardentem a populo meo coniectus",
+        "Magos potentis pharaonis oppugnavit",
+        "Postulatum camelam ex saxo producendi obstitit",
+        "Destructionem urbis meae ab angelica multitudine vidi"
+      ],
+      "answer": "Expulsione e terra minati"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Terra Madyani",
+        "Terra Aegypti",
+        "Mons Sinai",
+        "Urbs Sodomae",
+        "Terra Chanaan"
+      ],
+      "answer": "Terra Madyani"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populus meus terrae motu violento correptus est",
+        "Populus meus in magna inundatione submersus est",
+        "Mei populi in simias transformati sunt",
+        "Populus meus vento stridente dispersus est",
+        "Servatus sum dum in ventre piscis magni eram"
+      ],
+      "answer": "Populus meus terrae motu violento correptus est"
+    }
+  },
+  "verseRef": "11:87",
+  "arabic": "قَالُوا۟ يَـٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَـٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+  "verse": "They said, \"O Shuʿayb, does your prayer [i.e., religion] command you that we should leave what our fathers worship or not do with our wealth what we please? Indeed, you are the forbearing, the discerning!\" (11:87)"
+}

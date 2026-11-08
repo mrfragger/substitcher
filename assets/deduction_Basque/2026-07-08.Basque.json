@@ -1,0 +1,61 @@
+{
+  "title": "Aukeratutakoen traidoreak",
+  "intro": "Historian zehar, jainkozko mezulariak gizateriaren artean ibili dira, eta haiengandik hurbilen zeuden batzuek ez zuten argia ezagutu. Kontakizun hau bi arimen inguruan kokatzen da, eta haien profeta izateko hurbiltasuna proba bihurtu zen, eta haien ondarea ikasgai betiereko.",
+  "clues": [
+    "Profeta handien garaian bizi izan ginen, baina gure begiak itxita egon ziren haiek ekarritako egiarekiko.",
+    "Gure etxeak jainkozko errebelazioz beteta zeuden, baina gure bihotzak gogortuta zeuden.",
+    "Beren herria ohartarazteko aukeratu zituzten gizonekin ezkonduta geunden.",
+    "Zigorra iritsi zenean, ez genuen arkan aterperik bilatu ezta euri erretzailetik ihes egin ere, abisuak iseka egin genituelako.",
+    "Koranean aipatzen gaituzte sinesten ez dutenentzako adibide gisa, profeta batekin harreman estua izateak ere ez duela salbatzen erakutsiz.",
+    "Nuh eta Luten emazteak gara, haiek traizionatu eta horrela kondenatu gintuztenak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Nuh eta Luten emazteak",
+        "Ibrahim eta Ismailen emazteak",
+        "Musa eta Harunen emazteak",
+        "Dawud eta Sulaymanen emazteak",
+        "Ayyuben eta Yunusen emazteak"
+      ],
+      "answer": "Nuh eta Luten emazteak"
+    },
+    "trial": {
+      "label": "Zein izan zen haien epaiketa?",
+      "options": [
+        "Profetekin ezkondu ziren, baina ez zuten sinesten",
+        "Antzuak ziren eta profetei leporatu zieten",
+        "Aberatsak eta harroputzak ziren",
+        "Iblisek tentatu zituen etxetik alde egitera",
+        "Urrezko Txahala gurtzen zuten"
+      ],
+      "answer": "Profetekin ezkondu ziren, baina ez zuten sinesten"
+    },
+    "location": {
+      "label": "Zeri lotuta zegoen haien patua?",
+      "options": [
+        "Uholdea eta harri-euria",
+        "Haize bortitz bat.",
+        "Lurrikara bat",
+        "Matxinsaltoen izurritea.",
+        "Itsasoaren zatiketa."
+      ],
+      "answer": "Uholdea eta harri-euria"
+    },
+    "outcome": {
+      "label": "Zein izan zen haien amaiera?",
+      "options": [
+        "Sinesgabeekin batera hil ziren",
+        "Damutu eta salbatu ziren",
+        "Seme-alabarik gabe geratu ziren",
+        "Betiko erbesteratu zituzten",
+        "Tximino eta txerri bihurtu ziren"
+      ],
+      "answer": "Sinesgabeekin batera hil ziren"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

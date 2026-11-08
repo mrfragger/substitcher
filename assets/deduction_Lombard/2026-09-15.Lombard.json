@@ -1,0 +1,61 @@
+{
+  "title": "L'ospitalità che g'ha purtà pagüra",
+  "intro": "In una cità consumada de malvagità, un servitur fedel g’ha ricevü di visitadur che g’ha minga spetà un dì. Preocupad per la sò sicurezza, quest individuo chi ufriva proteziün, ma la gent de la cità dumandava quaicos de vergognos. Avvertì de una destinaziun imminent, el servitur l’è scapà cun la sò famèja sotta cupertura del buio, lassà drée una cità segnada per la distruziun. Chi l’è chestu credent solitari?",
+  "clues": [
+    "Sun stà mandà cuma messagger a un popul che s’era impegnà in di att vergognos.",
+    "Visitatür che g’ho minga spetà sunt rivà a cà mia e mi l’eri püsee preocupà per la sò sicurezza che per la mia.",
+    "La me gent la dumandava de vedè i me ospit per intenziun catif e mi cercavi de ragiunà cun lür.",
+    "I me visitadur se sun rivelà cuma angel e g’han cumandà de purtà la me familia e de nà via de nott.",
+    "La mia dona l’ha minga tegnü cunt de la ciamada per scapà e l’ha afruntà la stess distruziun del me popul.",
+    "La mia cità l’è stada rubada giò cunt una piœuva de sass de argila stratificada, i sò part püsee volt sun stà purtà püsee bas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Lut",
+        "Profeta Musa",
+        "El prufeta Ibrahim",
+        "Profeta Nuh",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "La dumanda del me popul de avvicinass ai me ospit en mod malvagi",
+        "La divisiun del mar per scapà da un tiranno",
+        "La costruziun de una grand arca in mezz a burla",
+        "El sacrifici de me fiœl ind una prova de fede",
+        "L'esperienza de vèss engutì de un grand pess"
+      ],
+      "answer": "La dumanda del me popul de avvicinass ai me ospit en mod malvagi"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La cità ruvinada del me popul",
+        "La montagna indué g’ho ricevü el discurs divin",
+        "L’arca che l’è navigada travers de un grand diluvio",
+        "La camel che l’è vegnuda fœura de la ròca",
+        "El giardin cunt un visitadur giüst scondù"
+      ],
+      "answer": "La cità ruvinada del me popul"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Sun stà salvà cun la me famèja prima che la me cità la fudess ribaltada",
+        "G’ho purtà el me popul a la libertà travers del mar",
+        "G’ho costruì una grand arca e sun soravissuu a un grand diluvio",
+        "Me sun dà el domini süi vent e süi jinn",
+        "G’ho suportà cun pazienza la suferenza e sun stà ricumpensà cun la familia"
+      ],
+      "answer": "Sun stà salvà cun la me famèja prima che la me cità la fudess ribaltada"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

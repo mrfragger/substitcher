@@ -1,0 +1,61 @@
+{
+  "title": "Ognjeni nasprotnik",
+  "intro": "V zgodnjih dneh razodetja se je pojavila oseba, ki je bila trmast nasprotnik resnice. Blagoslovljena z bogastvom in statusom, je ta duša izbrala ponos pred vodstvom in njihova zgodba je postala ostro opozorilo v zadnjih verzih sure.",
+  "clues": [
+    "Živel sem v istem mestu kot prerok in bil sem med njegovimi najbližjimi sorodniki, vendar me je moj ponos oddaljil od resnice.",
+    "Imel sem veliko bogastvo in številna premoženja ter mislil sem, da me bodo moja sredstva vedno zaščitila.",
+    "Ko je bilo sporočilo razodeto, sem se mu odkrito posmehoval in se obrnil stran, saj sem se imel za višjega od vernikov.",
+    "Moje sovraštvo je bilo tako razvpito, da me je neka sura iz Korana neposredno nagovorila in me imenovala po imenu, po katerem so me poznali drugi.",
+    "Opozorili so me, da mi moje bogastvo in zaslužek ne bosta koristila in da me bodo vrgli v plameneči ogenj.",
+    "Znan sem kot oče plamena, moja žena pa bo nosila drva z vrvjo iz palmovih vlaken okoli vratu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Abu Lahab",
+        "Abu Džahl",
+        "Abu Sufjan",
+        "Al-Valid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zavrnil islam in odkrito nasprotoval preroku",
+        "Načrtoval atentat na preroka",
+        "Vodil je družbeni bojkot proti muslimanom",
+        "Boril se je v bitki pri Badru",
+        "Mučeni Bilal ibn Rabah"
+      ],
+      "answer": "Zavrnil islam in odkrito nasprotoval preroku"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrv iz palmovih vlaken",
+        "Oster meč",
+        "Težka veriga",
+        "Leseno osebje",
+        "Usnjen bič"
+      ],
+      "answer": "Vrv iz palmovih vlaken"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Zgorel bo v plamenečem ognju",
+        "Pokesal se je in postal spremljevalec",
+        "Izgubil je bogastvo, a umrl častno",
+        "Pobegnil v Abesinijo",
+        "Utopljen v morju"
+      ],
+      "answer": "Zgorel bo v plamenečem ognju"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yr Enaid Cyntaf i Sefyll",
+  "intro": "Ymhell cyn i unrhyw negesydd gerdded y ddaear, cyn i unrhyw ysgrythur gael ei datgelu, daeth bod gwahanol i unrhyw un arall i fodolaeth. Cafodd yr enaid hwn ei lunio gan ddwylo dwyfol, ei roi lle o harddwch heb ei ail, a'i brofi mewn ffordd a fyddai'n adleisio drwy holl hanes dynolryw. Yr hyn a ddilynodd oedd stori o wendid, edifeirwch diffuant, a thynged a fyddai'n newid cwrs y greadigaeth am byth. Allwch chi ddyfalu pwy yw hwn?",
+  "clues": [
+    "Cefais fy llunio gan ddwylo'r Mwyaf Trugarog o lwch y ddaear",
+    "Cefais gartref o harddwch heb ei ail, lle na allai newyn na blinder fy nghyffwrdd",
+    "Gorchmynnwyd i mi beidio byth â mynd at un goeden, oherwydd roedd wedi'i wahardd",
+    "Cawsom fy nghydymaith a minnau ein twyllo a nesáu at y goeden waharddedig, yn erbyn gorchymyn ein Harglwydd.",
+    "Troesom yn ôl at ein Harglwydd gydag edifeirwch diffuant, a chawsom faddeuant am ein camwedd",
+    "Oddi wrthym ni, disgynnodd yr holl ddynoliaeth; fi yw'r cyntaf i gerdded ar y ddaear hon"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Adam",
+        "Proffwyd Musa",
+        "Proffwyd Nuh",
+        "Proffwyd Yusuf",
+        "Proffwyd Isa"
+      ],
+      "answer": "Proffwyd Adam"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Temtasiwn gan y goeden waharddedig",
+        "Gwrthdaro â Pharo",
+        "Adeiladu'r Arch fawr",
+        "Aberth y mab annwyl",
+        "Cael eich taflu i dân mawr"
+      ],
+      "answer": "Temtasiwn gan y goeden waharddedig"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y Goeden Waharddedig",
+        "Y Llwyn Llosgi",
+        "Y Staff Aur",
+        "Yr Arch Fawr",
+        "Y Llo Aur"
+      ],
+      "answer": "Y Goeden Waharddedig"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i anfon i lawr i'r ddaear fel gofalwr cyntaf dynoliaeth",
+        "Boddodd Pharo a'i fyddin yn y môr",
+        "Dinistriodd y llifogydd mawr y drygionus",
+        "Daeth y tân yn oer ac yn heddychlon",
+        "Rhoddwyd awdurdod iddo dros deyrnas yr Aifft"
+      ],
+      "answer": "Wedi'i anfon i lawr i'r ddaear fel gofalwr cyntaf dynoliaeth"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

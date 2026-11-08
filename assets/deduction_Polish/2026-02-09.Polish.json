@@ -1,0 +1,60 @@
+{
+  "title": "Proces pod falami",
+  "intro": "Prorok, obciążony swoją misją, podjął decyzję, która oddaliła go od jego ludu i postawiła przed nieoczekiwaną próbą. Jego podróż przybrała dramatyczny obrót, wystawiając jego wiarę i cierpliwość na najgłębszą próbę. Czy potrafisz wywnioskować szczegóły tego niezwykłego wydarzenia na podstawie podanych wskazówek?",
+  "clues": [
+    "Prorok został posłany do ludu, ale odszedł w pośpiechu, odczuwając frustrację z powodu odrzucenia.",
+    "Jego podróż zaprowadziła go na morze, gdzie wsiadł na ciężko załadowany statek, aby znaleźć przejście.",
+    "Rozpętała się potężna burza, która zagroziła statkowi, i podjęto decyzję o wyrzuceniu jednej osoby za burtę, aby odciążyć statek. Decyzja została podjęta drogą losowania.",
+    "Został połknięty przez istotę głębinową, było to cudowne wydarzenie zgodne z wolą Bożą.",
+    "Wewnątrz brzucha stworzenia wołał on do swego Pana, żałował i wychwalał Allaha w ciemności.",
+    "Po okresie intensywnych modlitw został wyrzucony na jałowy brzeg, słaby, ale żywy, a później powrócił, aby odkryć, że jego lud w końcu uwierzył."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prorok/Osoba",
+      "options": [
+        "Prorok Noh",
+        "Prorok Lut",
+        "Prorok Musa",
+        "Prorok Yunus",
+        "Prorok Yusuf"
+      ],
+      "answer": "Prorok Yunus"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Potop Nuh",
+        "Zniszczenie Sodomy",
+        "Podróż w brzuchu wielkiej ryby",
+        "Rozdzielenie morza",
+        "Objawienie płonącego krzewu"
+      ],
+      "answer": "Podróż w brzuchu wielkiej ryby"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Góra Synaj",
+        "Laska Musy",
+        "Wielka Ryba",
+        "Studnia Yusufa"
+      ],
+      "answer": "Wielka Ryba"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Nowe przymierze z ludzkością",
+        "Cudowne narodziny dla jego ludu",
+        "Królestwo ustanowione dla jego rodu",
+        "Powrót do swojego ludu, który wtedy uwierzył",
+        "Zwycięstwo nad tyranem"
+      ],
+      "answer": "Powrót do swojego ludu, który wtedy uwierzył"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

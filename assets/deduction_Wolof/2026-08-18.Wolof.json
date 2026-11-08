@@ -1,0 +1,61 @@
+{
+  "title": "Kiy Gaññee Suura",
+  "intro": "Xalaatal xel mu woyof mu jege kenn ci Yonenti Yàlla yi ak xol bu fees dell ak dëggu ak bëgg-bëgg gu xóot ci jàng. Waaye ci saa boobu, amna nit ku am xaalis, ku am doole, mu daal di xool Yonent bi, mu siggil ki ko doon wër. Li ci topp amul lenn ludul benn chapitre ci Al Quran, ñu yónnee ko ngir jubbanti Yonent bi, sargal ruuh gi ñëw di wër.",
+  "clues": [
+    "Ma ñëw ci Yonent Yàlla ak xol bu ubbeeku ak bëgg-bëgg gu xóot ngir am ndigal .",
+    "Amuma woon benn xeetu àdduna buma mëna jox, amul lenn ludul xol bu woyof buy wut dëgg",
+    "Samay bët mënu ñu woon gis, waaye samay gis-gis ci ngëm leer nañu",
+    "Ma yegsi ci jamono ju jaarul yoon, bi Yonent bi jaxasoo ak nit ku am doole",
+    "Ñu wëlbatiku ci man, waaye Yàlla tontu ma ci njubte bu Yàlla",
+    "Man maay Abdullah ibn Umm Maktum, di àndadoo bu baax bi jaar-jaaram inspiré Surah Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Abdullah ibn umm maktum",
+        "Bilaal ibn Rabah",
+        "Muhaad ben Jabal",
+        "Zayd ibn Sabit",
+        "Salmaan al Farisi"
+      ],
+      "answer": "Abdullah ibn umm maktum"
+    },
+    "trial": {
+      "label": "Jàngat / Xew-xew",
+      "options": [
+        "Yonent bi dàq ko ngir nit ku am xaalis",
+        "Noon yi sànni leen ci safara gu tàng",
+        "Ñu jaay ko, sonal ko ni jaam",
+        "Xarekat bu am doole daf lay woo ci duel",
+        "Jën wu mag wann ko"
+      ],
+      "answer": "Yonent bi dàq ko ngir nit ku am xaalis"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Al Quran chapitre bu tàmbali ci kanam (Surah Abasa)",
+        "Dafa sedd te wóor",
+        "Baton bu xaaj géej gu mag",
+        "Gaal giñ tabax ci kaw tundu wu kawe",
+        "picc buñ defaree ban bu dëgër"
+      ],
+      "answer": "Al Quran chapitre bu tàmbali ci kanam (Surah Abasa)"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Yallah wàcce na benn surah Al Quran di ma taxawu",
+        "Yallah defal ma safara seddal te wóor ci man",
+        "Yalla xaaj na géej gi ngir muccal ma ci topp",
+        "Yalla may ma ngurou bu mag ak xam xam .",
+        "Yallah yobbu nama asamaan duma dee"
+      ],
+      "answer": "Yallah wàcce na benn surah Al Quran di ma taxawu"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

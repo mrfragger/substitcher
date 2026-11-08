@@ -1,0 +1,61 @@
+{
+  "title": "Ukryty wierzący",
+  "intro": "W bogatych salach władzy, gdzie panowały niedowierzanie i tyrania, samotny głos prawdy przemówił z nieoczekiwanego miejsca. Postać ta zakwestionowała władzę ochrony posłańca, ryzykując własne bezpieczeństwo, by głosić prawdę.",
+  "clues": [
+    "Żyłem w kraju wielkiej tyranii, służąc władcy, który twierdził, że jest bogiem.",
+    "Przez wiele lat ukrywałem swoje prawdziwe przekonania, bojąc się konsekwencji ich ujawnienia.",
+    "Gdy przybył posłaniec z jasnymi znakami, uwierzyłem, lecz mój lud sprzysiągł się przeciwko niemu.",
+    "Stanąłem przed tyranem i jego radą, argumentując, że nie powinni zabijać niewinnego posłańca.",
+    "Ostrzegałem ich przed karą dla narodów, które odrzuciły prawdę, jak ludzie Noego i Ad.",
+    "Bóg ocalił mnie przed ich złymi intrygami i byłem świadkiem upadku uciskającego reżimu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Wierzący z rodziny faraona",
+        "Magik Faraona",
+        "Wezyr faraona",
+        "Żona Faraona",
+        "Skarbnik Faraona"
+      ],
+      "answer": "Wierzący z rodziny faraona"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Obrona proroka przed egzekucją",
+        "Wyzwanie sztuczek iluzjonisty",
+        "Budowa wieży, aby sięgnąć nieba",
+        "Rozstąpienie się morza w celu ucieczki",
+        "Interpretacja snu króla"
+      ],
+      "answer": "Obrona proroka przed egzekucją"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Dwór Faraona",
+        "Płonący krzew",
+        "Złoty cielec",
+        "Studnia Madianu",
+        "Arka Proroka Noego"
+      ],
+      "answer": "Dwór Faraona"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Ocalony od krzywdy, podczas gdy ciemiężyciele zostali zniszczeni",
+        "Stał się potężnym władcą",
+        "Został wrzucony do ognia i wyszedł z niego bez szwanku",
+        "Został pochłonięty przez ziemię",
+        "Błądziłem po pustyni przez czterdzieści lat"
+      ],
+      "answer": "Ocalony od krzywdy, podczas gdy ciemiężyciele zostali zniszczeni"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

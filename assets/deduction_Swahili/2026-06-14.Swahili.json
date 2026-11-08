@@ -1,0 +1,61 @@
+{
+  "title": "Moto Uliofichua Urithi",
+  "intro": "Katika kumbukumbu za upinzani, kuna mtu ambaye jina lake lilikuwa onyo hadi mwisho wa wakati. Mtu huyu alichagua uadui badala ya undugu, ukaidi badala ya utii, na alipinga wito wa rehema. Sikiliza kwa makini mwangwi wa tangazo la kale tunapogundua utambulisho wa nafsi hii mbaya.",
+  "clues": [
+    "Nilizaliwa katika ukoo mmoja na mjumbe wa mwisho wa Mwenyezi Mungu, lakini nilisimama dhidi yao kila upande.",
+    "Jina langu lilikuwa na maana—jina linalomaanisha 'baba wa moto,' jina ambalo lingeonyesha hatima yangu ya milele.",
+    "Nilimdhuru mtoa ukweli, na hata familia yangu mwenyewe ilijiunga na kampeni hii ya ukatili.",
+    "Nilitumia utajiri na ushawishi wangu kunyamazisha wito kwa Mwenyezi Mungu, nikiamini kwamba pesa zinaweza kuzima nuru ya Mungu.",
+    "Mwenyezi Mungu alinipa sura nzima—sura fupi sana kiasi kwamba inaweza kusomwa kwa sekunde chache, lakini uzito wake unabaki hadi Siku ya Hukumu.",
+    "Mwenzangu wa Akhera anatembea nyuma yangu, amefungwa kamba ya nyuzi shingoni, akiwa amebeba miiba waliyokuwa wakiisambaza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Kufafanua Makabiliano",
+      "options": [
+        "Kuongoza upinzani dhidi ya Mtume huko Makka",
+        "Kuhamia Abyssinia ili kuepuka mateso",
+        "Kujenga Kaaba kwa Nabii Ibrahim",
+        "Kukubali Uislamu kwenye kitanda cha mauti",
+        "Kuunda Mkataba wa Hudaybiyyah"
+      ],
+      "answer": "Kuongoza upinzani dhidi ya Mtume huko Makka"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mke aliyebeba miiba na kuni",
+        "Fimbo iliyobadilika na kuwa nyoka",
+        "Pete yenye muhuri wa Sulemani",
+        "Ndama wa dhahabu anayeabudiwa na watu",
+        "Chemchemi iliyobubujika maji"
+      ],
+      "answer": "Mke aliyebeba miiba na kuni"
+    },
+    "outcome": {
+      "label": "Hesabu ya Mwisho",
+      "options": [
+        "Sura nzima ilifunua kutangaza uharibifu kamili",
+        "Akawa kiongozi wa jamii ya Waislamu",
+        "Alipokea msamaha wakati wa kifo",
+        "Kujengwa msikiti mzuri huko Medina",
+        "Alifufuka miongoni mwa wenye haki"
+      ],
+      "answer": "Sura nzima ilifunua kutangaza uharibifu kamili"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

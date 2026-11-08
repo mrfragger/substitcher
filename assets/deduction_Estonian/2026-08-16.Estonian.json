@@ -1,0 +1,61 @@
+{
+  "title": "Vaikne hääl saalis",
+  "intro": "Kaua aega tagasi kajas püha kambri vaikuses palve, mis tõusis vananevast hingest, igatsedes seda, mida maailm oli võimatuks kuulutanud. See eakas ja tuleviku pärast murest koormatud kuju pöördus oma Issanda poole isikliku palvega. Sellele järgnes jumalik vastus, mis trotsis kõiki loomulikke ootusi – tunnistus selle halastuse kohta, kes vastab meeleheitlikule kutsele.",
+  "clues": [
+    "Ma pöördusin oma Issanda poole üksinda, tõmbudes kambrisse, kus ma pühendusin Tema kummardamisele.",
+    "Ma tunnistasin oma Issandale, et kartsin nende pärast, kes tulevad pärast mind, ja muretsesin oma rahva juhatuse pärast pärast minu lahkumist.",
+    "Vanadus oli mind tabanud – mu luud olid nõrgaks jäänud ja valged juuksed olid üle pea levinud.",
+    "Mu abikaasa oli terve elu viljatu olnud, kuid ma palusin ikkagi oma Issandal mulle pärija omaenda palge seest.",
+    "Ma palusin märki ja mu Issand vastas sellega, et takistas mul kolme öö jooksul kellegagi rääkimast, kuni ma jäin füüsiliselt terveks.",
+    "Mulle lubati poega, kelle nimeks saab Yahya – nime, mida mu isand kuulutas, polnud kellelegi varem antud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Zakariya",
+        "Prohvet Noa",
+        "Prohvet Musa",
+        "Prohvet Yusuf",
+        "Prohvet Dawud"
+      ],
+      "answer": "Prohvet Zakariya"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Palvetamine pärija eest vanemas eas viljatu abikaasaga",
+        "Lõõmavasse tulle visatud",
+        "Pimeduses suure kala poolt alla neelatud",
+        "Perekonna, rikkuse ja tervise kaotuse talumine",
+        "Käsk ehitada suur laev"
+      ],
+      "answer": "Palvetamine pärija eest vanemas eas viljatu abikaasaga"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Palvekamber (mihrab)",
+        "Personali, mis muutus maoks",
+        "Suur puust laev",
+        "Aed ainulaadse allikaga",
+        "Mägi, kus linnud kogunesid"
+      ],
+      "answer": "Palvekamber (mihrab)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Andis imekombel nime saanud pojale vaatamata äärmisele kõrgele eale",
+        "Jumaliku käsu läbi lõõmavast tulest päästetud",
+        "Suur veeuputus hävitas uskmatud",
+        "Kannatlikkuse abil taastatud perekond, rikkus ja tervis",
+        "Vaarao ja tema armee uppusid merre"
+      ],
+      "answer": "Andis imekombel nime saanud pojale vaatamata äärmisele kõrgele eale"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

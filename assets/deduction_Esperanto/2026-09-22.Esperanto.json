@@ -1,0 +1,61 @@
+{
+  "title": "La Konstruantoj de la Altaj Kolonoj",
+  "intro": "Vi staras antaŭ la ruinoj de majesta antikva urbo, kies altaj kolonoj nun falis. La vento ululas tra la malplenaj stratoj, portante la memoron pri potenca popolo, kiu iam regis ĉi tiujn landojn. Kiuj ili estis?",
+  "clues": [
+    "Ni estis popolo de grandega forto kaj lerteco, konataj pro niaj grandaj konstruaĵoj kaj progresinta civilizo.",
+    "Ni loĝis en lando de sablodunoj kaj rokaj montetoj, kaj ni kredis, ke neniu povus superforti nin.",
+    "Mesaĝisto venis al ni el nia propra parencoj, vokante nin adori nur Alaho'n, sed ni malakceptis kaj mokis lin.",
+    "Ni fanfaronis, 'Kiu estas pli forta ol ni?' kaj ni daŭrigis en nia aroganteco kaj idolkultado.",
+    "Alaho sendis sur nin furiozan venton, kiu blovis dum sep noktoj kaj ok tagoj, detruante ĉion.",
+    "Ni estis la popolo de 'Ad, la konstruantoj de Iram, kaj nia sorto fariĝis averto por ĉiuj, kiuj venis poste."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Homoj de 'Ad",
+        "Homoj de Thamud",
+        "Homoj de Madyan",
+        "Homoj de Tubba'",
+        "Homoj de al-Rass"
+      ],
+      "answer": "Homoj de 'Ad"
+    },
+    "trial": {
+      "label": "Kia estis la puno sendita sur ilin?",
+      "options": [
+        "Detruiga vento",
+        "Pluvo de ŝtonoj",
+        "Laŭta eksplodo",
+        "Dronado pro inundo",
+        "Englutita de la tero"
+      ],
+      "answer": "Detruiga vento"
+    },
+    "location": {
+      "label": "Kio estas la nomo de ilia legenda urbo?",
+      "options": [
+        "Iram",
+        "Sodomo",
+        "Midiano",
+        "Babelo",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Kia estis ilia finfina sorto?",
+      "options": [
+        "Ili estis detruitaj kaj iliaj restaĵoj fariĝis leciono",
+        "Ili pentis kaj estis savitaj",
+        "Ili estis transformitaj en simiojn",
+        "Ili dronis en la maro",
+        "Ili estis enterigitaj sub terglito"
+      ],
+      "answer": "Ili estis detruitaj kaj iliaj restaĵoj fariĝis leciono"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

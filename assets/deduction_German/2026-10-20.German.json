@@ -1,0 +1,61 @@
+{
+  "title": "Der Architekt falscher Ambitionen",
+  "intro": "Eine hochangesehene Persönlichkeit diente einst einem der berüchtigtsten Tyrannen der Geschichte im alten Ägypten. Ihr wurde ein kühner Auftrag anvertraut: den Bau eines Bauwerks, das den Himmel herausfordern sollte. Ihre Geschichte findet sich im Koran als eindringliches Beispiel dafür, wie blinder Gehorsam gegenüber Arroganz nur ins Verderben führt.",
+  "clues": [
+    "Ich diente am Hof ​​eines mächtigen Herrschers, der behauptete, über das Land göttlich zu sein.",
+    "Ich bekleidete ein hohes Ministeramt und beriet den arrogantesten Tyrannen meiner Zeit.",
+    "Mein Herrscher war ganz damit beschäftigt, den Gott des Moses herauszufordern, den sie nicht anerkennen wollten.",
+    "Mir wurde befohlen, einen Turm aus gebrannten Ziegeln zu errichten, damit mein Herrscher in den Himmel aufsteigen konnte.",
+    "Der Turm reichte nie bis zum Himmel, und meine Unterwürfigkeit gegenüber der Arroganz brachte mir ewige Schande ein.",
+    "Ich bin mit demjenigen, dem ich gefolgt bin, umgekommen, und mein Name wurde zu einer bleibenden Warnung gegen diejenigen, die Tyrannen unterstützen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Haman",
+        "Azar (Vater von Ibrahim)",
+        "Illyas (ein Prophet)",
+        "Dhu al-Kifl",
+        "Harut (einer der beiden Engel in Babylon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er erhielt den Auftrag, ein turmhohes Bauwerk zu errichten, das bis in den Himmel reichen sollte.",
+        "Ich wurde gebeten, einen Traum zu deuten, der von der göttlichen Seite gesandt wurde.",
+        "Als Glaubensprobe in ein loderndes Feuer geworfen.",
+        "Gezwungen, zwischen Thron und Wahrheit zu wählen",
+        "Herausgefordert in einem Zauberwettstreit"
+      ],
+      "answer": "Er erhielt den Auftrag, ein turmhohes Bauwerk zu errichten, das bis in den Himmel reichen sollte."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Turm aus gebrannten Ziegeln",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein Schiff, das durch eine große Flut segelt",
+        "Ein von hohen Mauern umschlossener Garten.",
+        "Ein mit Rubinen und Gold verzierter Thron."
+      ],
+      "answer": "Ein Turm aus gebrannten Ziegeln"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ertrunken zusammen mit dem Unterdrücker im Meer",
+        "Wurde zu einem mächtigen Monarchen über riesige Ländereien.",
+        "Entkam unverletzt einem lodernden Feuer",
+        "Er errichtete ein blühendes Königreich der Weisheit",
+        "Wurde nach Jahren im Exil mit seiner Familie wiedervereint"
+      ],
+      "answer": "Ertrunken zusammen mit dem Unterdrücker im Meer"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "utafutaji wa uhakika wa mwanga wa nyota",
+  "intro": "Fikiria umesimama chini ya anga kubwa la usiku, ukiangalia taa angavu zikichomoza na kisha kufifia huku ukitafuta kile kinachostahili ibada kweli. Kukuzunguka, sanamu zilizochongwa kimya hupokea sifa na sadaka, lakini akili iliyo wazi inatilia shaka nguvu zake. Sauti isiyo na woga iko karibu kupinga mila iliyorithiwa na kuelekeza kwa Muumba wa mbingu na dunia.",
+  "clues": [
+    "Niliangalia nyota, mwezi, na jua, na nikafikiri haziwezi kuwa Bwana wangu kwa sababu zinatua na kutoweka.",
+    "Nilikana waziwazi kile ambacho watu wangu walikiabudu badala ya Mwenyezi Mungu na kuwaita wamwabudu Muumba pekee.",
+    "Nilimjadili mtawala mwenye majivuno aliyedai kutoa uhai na kifo, nami nikamjibu kwa kumtaja Mwenyezi Mungu anayeleta jua kutoka mashariki.",
+    "Nilizipiga sanamu na kuzivunja-vunja, nikiacha kubwa zaidi kati yao ili watu waweze kurudi humo.",
+    "Nilikamatwa na kuhukumiwa na watu wangu, ambao walisema nijenge jengo na kunitupa kwenye moto unaowaka.",
+    "Niliokolewa Mwenyezi Mungu alipoamuru moto uwe baridi na usalama kwangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ibrahim (Abrahamu)",
+        "Nabii Yahya (Yohana)",
+        "Nabii Al-Yasa (Elisha)",
+        "Msamiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Nabii Ibrahim (Abrahamu)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alikabiliana na ibada ya sanamu na kujadili maana ya miili ya mbinguni",
+        "Alimezwa na samaki mkubwa baada ya kuondoka kwa hasira",
+        "Wafuasi walioongozwa kupitia bahari iliyotengwa na Mwenyezi Mungu",
+        "Alifufuliwa akiwa hai mbinguni bila kuonja kifo",
+        "Nililala pangoni na wenzangu kwa miaka mingi"
+      ],
+      "answer": "Alikabiliana na ibada ya sanamu na kujadili maana ya miili ya mbinguni"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Moto unaowaka uliopozwa na Mwenyezi Mungu",
+        "Safina iliyowabeba waumini kupitia gharika",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Meza imetawanyika kutoka mbinguni",
+        "Ngamia jike aliyetumwa kama ishara"
+      ],
+      "answer": "Moto unaowaka uliopozwa na Mwenyezi Mungu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kulindwa kutokana na moto na kupewa wazao wenye haki",
+        "Kuzama na wakanushaji katika mafuriko makubwa",
+        "Alibadilishwa kwa kuvunja Sabato",
+        "Kuharibiwa na ndege waliobeba mawe ya udongo",
+        "Imemezwa na dunia na hazina"
+      ],
+      "answer": "Kulindwa kutokana na moto na kupewa wazao wenye haki"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

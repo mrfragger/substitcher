@@ -1,0 +1,61 @@
+{
+  "title": "La melodia che mosse le montagne",
+  "intro": "Stai per scoprire la storia di uno straordinario servitore di Allah. In una terra di messaggeri e governanti, questa figura fu benedetta con un libro divino, una voce potente e una forza inaudita. Leggendo gli indizi, riesci a identificare di chi si tratta?",
+  "clues": [
+    "Ero un servo di Allah a cui era stato concesso un libro speciale.",
+    "Avevo una voce meravigliosa e le mie lodi erano così apprezzate che persino le colline e gli uccelli si univano a me.",
+    "In una famosa battaglia ho affrontato un avversario formidabile e, nonostante fossi più piccolo, ho prevalso.",
+    "Il ferro è stato reso malleabile per me, permettendomi di forgiare armature con le mie stesse mani.",
+    "Fui costituito governatore di una grande nazione e la mia saggezza nel giudizio fu rinomata.",
+    "A mio figlio, anch'egli profeta, fu concesso il controllo sul vento e sui jinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Dawud (Davide)",
+        "Il profeta Salomone",
+        "Il profeta Musa (Mosè)",
+        "Profeta Harun (Aaron)",
+        "Profeta Ilia (Elia)"
+      ],
+      "answer": "Profeta Dawud (Davide)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Sconfisse Golia (Jalut)",
+        "Dividere il mare",
+        "È sopravvissuto alla balena",
+        "Fu gettato nel fuoco",
+        "Costruirono l'Arca"
+      ],
+      "answer": "Sconfisse Golia (Jalut)"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Lo Zabur (Salmi)",
+        "La Torah (Tawrat)",
+        "Il Vangelo (Injil)",
+        "I rotoli di Ibrahim",
+        "Il Corano"
+      ],
+      "answer": "Lo Zabur (Salmi)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Divenne profeta e re d'Israele",
+        "Divenne il sovrano d'Egitto",
+        "Fu elevato al cielo",
+        "È stato distrutto da una tempesta",
+        "Divenne un compagno della caverna"
+      ],
+      "answer": "Divenne profeta e re d'Israele"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

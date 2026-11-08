@@ -1,0 +1,61 @@
+{
+  "title": "Tõkete ehitaja",
+  "intro": "Läbi avarate maade asus võimas inimene rea ekspeditsioonidele, saades tohutu autoriteedi ja vahendid. See hing kohtas mitmesuguseid kogukondi ja seisis silmitsi ainulaadsete väljakutsetega, jättes oma tegude ja tarkusega püsiva jälje ajalukku ja usku, tunnistades samal ajal oma jõu tõelist allikat.",
+  "clues": [
+    "Mulle anti võim ja vahendid kõige üle ning ma järgisin teed.",
+    "Mu teekond viis mind päikeseloojangu paika, kus ma kohtasin rahvast.",
+    "Kohtasin kahe mäe vahel elavat kogukonda, kes vaevu kõnest aru sai.",
+    "Mul paluti ehitada barjäär, mitte isikliku kasu saamiseks, vaid kaitsmiseks hävitava jõu eest.",
+    "Ma kuulutasin, et selle tohutu müüri ehitamise jõud tuleb Allahilt ja see püsib lubatud ajani.",
+    "Minu nimi, mida sageli tõlgitakse kui „Kahe Sarvega“, sümboliseerib minu ulatust üle maa või ehk kahe erineva ajastu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Musa",
+        "Prohvet Sulayman",
+        "Dhul-Qarnayn",
+        "Vaarao",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Ilmutuse saamine",
+        "Türanniga silmitsi seistes",
+        "Suure laeva ehitamine",
+        "Võimsa barjääri ehitamine",
+        "Kala alla neelamine"
+      ],
+      "answer": "Võimsa barjääri ehitamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Raudne barjäär",
+        "Niiluse jõgi",
+        "Troon"
+      ],
+      "answer": "Raudne barjäär"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Päästmine veeuputusest",
+        "Suureks kuningriigiks saamine",
+        "Kaitse rahvale",
+        "Rõhuja hävitamine",
+        "Kestev tarkus"
+      ],
+      "answer": "Kaitse rahvale"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

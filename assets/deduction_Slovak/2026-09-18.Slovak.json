@@ -1,0 +1,61 @@
+{
+  "title": "Volanie z Posvätného údolia",
+  "intro": "Za stránkami histórie sa skrýva príbeh duše, ktorá stála medzi mocným vládcom a celým zotročeným ľudom. Táto osoba bola povolaná vyslobodiť národ z tyranie a konať zázraky, ktoré popierali všetky prírodné zákony. Od posvätnej hory až po zázrak na vodách, tento služobník Alaha bol svedkom znamení, ktoré sa ozývali naprieč vekmi. Vašou úlohou dnes je identifikovať túto pozoruhodnú postavu, ktorej odkaz formoval smerovanie ľudských dejín.",
+  "clues": [
+    "Narodil som sa v čase, keď môj ľud čelil smrteľnému dekrétu a moja rodina ma ponorila do vôd, aby mi zachránila život.",
+    "Bol som nájdený a vychovaný v domácnosti vládcu, ktorý nariadil smrť môjho druhu.",
+    "Utiekol som na posvätnú horu, kde som uvidel oheň na strome, ktorý nezhorel, a z neho ku mne prehovoril hlas.",
+    "Bol som poslaný späť k tomu istému vládcovi so zázrakmi, požadujúc slobodu môjho zotročeného ľudu.",
+    "Udrel som palicou do mora a ono sa rozdelilo na suché chodníky, ktoré pohltili prenasledovateľov, ktorí nasledovali môj ľud.",
+    "Štyridsať nocí som sa rozprával s mojím Pánom na vrchu a boli mi udelené tabuľky božského vedenia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Músa",
+        "Prorok Harun",
+        "Prorok Ibrahim",
+        "Prorok Júsuf",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Músa"
+    },
+    "trial": {
+      "label": "Moja rozhodujúca skúška",
+      "options": [
+        "Rozdelenie mora",
+        "Stavba Veľkej archy",
+        "Skúška plápolajúcim ohňom",
+        "Uväznenie v bruchu veľryby",
+        "Uväznenie egyptským úradníkom"
+      ],
+      "answer": "Rozdelenie mora"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Pastiersky personál",
+        "Veľká drevená archa",
+        "Jaskyňa, kde spal čas",
+        "Záhrada s dvoma prameňmi",
+        "Trón ozdobený zlatom"
+      ],
+      "answer": "Pastiersky personál"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Môj ľud prešiel cez more do bezpečia",
+        "Veľká potopa zničila neveriacich",
+        "Tyranov oheň sa stal chladným a pokojným",
+        "More vrhlo svojho zajatca na breh",
+        "Zajatec sa stal egyptským pokladníkom"
+      ],
+      "answer": "Môj ľud prešiel cez more do bezpečia"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

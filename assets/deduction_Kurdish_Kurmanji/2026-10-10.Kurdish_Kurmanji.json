@@ -1,0 +1,61 @@
+{
+  "title": "Skoutê Perî",
+  "intro": "Di padîşahiyekê de ku ji hêla kesekî ku serweriya li ser bayê, hebûnên nedîtî û mexlûqên ezmanan wergirtiye ve tê rêvebirin, endamekî biçûk û bilez ji refên wî winda bû - tenê ji bo ku bi eşkerekirinên ku dê çarenûsa neteweyek dûr ji nû ve şekil bidin vegere. Vê agahdarê çavtûj rastî anî ronîkirinê li cihê ku nezanî lê kok dabû. Ez kî me?",
+  "clues": [
+    "Min li dadgehekê xizmet kir ku mirov, hebûnên nedîtî û mexlûqên ezmanan li ber hukumdarekî jîr ku fermanên bayê jî dida, berpirsiyar bûn.",
+    "Ez demekê li ser karê xwe ne amade bûm, û eger ez sedemek têrker nedim, soz hatibû dayîn ku ez ê hêrsa waliyê bişkînim.",
+    "Ez afirîdekî biçûk ê firînê me, bi çavên tûj tê nasîn, û cureyê min bi navkirina rasterast di rûpelên wehyê de hat rûmetdarkirin.",
+    "Dema ez vegeriyam, min nûçeyek ji welatekî dûr anî ku tê de mirov ji rojê re secde dibûn, ji Yê ku erd û ezman afirandibû kor bûn.",
+    "Min jinek dît ku li ser padîşahiyek mezin hukumdarî dikir, li ser textekî mezin rûniştibû, bêyî ku berê rastiyê zanibe.",
+    "Ez ew kes im ku welatê Sebe' keşif kir û nameyek vexwendinê ji padîşah-pêxember ku li ser bayê hukumdarî lê hatibû dayîn, hilgirt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Hudhud",
+        "Morî ji Geliyê Silêman",
+        "Asif ibn Berxiya",
+        "Ifrît Cin",
+        "Melekekî Textê"
+      ],
+      "answer": "Hudhud"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Sefera ber bi Keyaniya Seba (Şeba) ve",
+        "Rûbirûbûna bi sêrbazên Fîrewn re",
+        "Tofana Pêxember Nûh",
+        "Wêrankirina gelê Ad",
+        "Parçekirina Deryaya Sor"
+      ],
+      "answer": "Sefera ber bi Keyaniya Seba (Şeba) ve"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Welatê Seba (Şeba)",
+        "Çiyayê Sînayê",
+        "Keştiya Pêxember Nûh",
+        "Şikefta Eshabêl Kehf",
+        "Qesra Fîrewn"
+      ],
+      "answer": "Welatê Seba (Şeba)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bilqis teslîmî dadgeha Silêman bû.",
+        "Fîrewn û artêşa wî di deryayê de xeniqîn",
+        "Gelê Ad ji ber bayekî dijwar wêran bûn",
+        "Sêrbazên Fîrewn baweriya xwe bi Pêxember Mûsa anîn",
+        "Tofaneke mezin kafiran xwar"
+      ],
+      "answer": "Bilqis teslîmî dadgeha Silêman bû."
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

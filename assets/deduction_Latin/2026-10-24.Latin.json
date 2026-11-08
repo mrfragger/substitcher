@@ -1,0 +1,61 @@
+{
+  "title": "Monitum Sub Terra",
+  "intro": "Finge te iuxta foveam profundam stare, dum voces sub divo assurgunt et mundus desuper silet. Alcoranus hanc scenam tamquam monitionem servat: communitas respuit quae nuntii afferunt, poena appropinquat, et etiam rugitus eius pars testimonii fit. Quis grex per hos versus loquitur?",
+  "clues": [
+    "In Alcorano commemoramur ut collectivus uno fato communi potius quam nomine singulari definitus.",
+    "Nuntium a nuntiis allatum repudiavimus, quamquam vera erant quae dixerunt.",
+    "Memoria nostra identitas profundo quodam terrae incisuro alligata est, et ea nota pars nominis nostri facta est.",
+    "Die constituto, educti et ad ignem tracti sumus.",
+    "Contra poenam nos defendere non poteramus, neque eius rugitum audire poteramus.",
+    "Facies nostrae in ignem converterentur, et nos in eum impelleremur; cum interrogaremur, diceremus nos inter eos esse qui respondere non possent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Socii Fossae",
+        "Gens a Magno Diluvio Liberata",
+        "Adoratores Vituli Aurei",
+        "Grex Intra Speluncam Montanam Se Refugit",
+        "Communitas e Fornace Ignis Liberata"
+      ],
+      "answer": "Socii Fossae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Tractus et in ignem coniectus",
+        "Liberatus ex camino ardenti",
+        "Tuto per magnum diluvium portatus",
+        "Per saecula intra speluncam protectus",
+        "Servatus postquam in puteum coniectus est"
+      ],
+      "answer": "Tractus et in ignem coniectus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Fossa vel fovea",
+        "Magnum mare",
+        "Spelunca montana",
+        "Palatium altum",
+        "Puteus deserti"
+      ],
+      "answer": "Fossa vel fovea"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Se defendere incapaces et rugitum ignis audire incapaces",
+        "Servatus et aditus in hortos aeternos concessus",
+        "Tuto per diluvium perniciosum liberatus",
+        "Longo somno intra speluncam protectus",
+        "Regno perpetuo honoratus"
+      ],
+      "answer": "Se defendere incapaces et rugitum ignis audire incapaces"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

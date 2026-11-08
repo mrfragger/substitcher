@@ -1,0 +1,61 @@
+{
+  "title": "Paslėptas tikintysis",
+  "intro": "Prabangiose valdžios menėse, kur viešpatavo netikėjimas ir tironija, iš netikėtos vietos prabilo vienišas tiesos balsas. Ši figūra metė iššūkį valdžiai apsaugoti pasiuntinį, rizikuodama savo pačių saugumu, kad paskelbtų tiesą.",
+  "clues": [
+    "Gyvenau didelės tironijos šalyje, tarnaudamas valdovui, kuris skelbė esąs dievas.",
+    "Daugelį metų slėpiau savo tikruosius įsitikinimus, bijodamas pasekmių, jei juos atskleisčiau.",
+    "Kai pasiuntinys atėjo su aiškiais ženklais, aš patikėjau, bet mano žmonės surengė prieš jį sąmokslą.",
+    "Stovėjau prieš tironą ir jo tarybą, įrodinėdamas, kad jie neturėtų žudyti nekalto pasiuntinio.",
+    "Aš juos perspėjau apie bausmę praeities tautoms, kurios atmetė tiesą, kaip antai Nojaus ir Popiežiaus žmonėms.",
+    "Alachas išgelbėjo mane nuo jų piktų kėslų, ir aš mačiau, kaip sunaikino represinį režimą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Faraono šeimos tikintis",
+        "Faraono magas",
+        "Faraono viziris",
+        "Faraono žmona",
+        "Faraono iždininkas"
+      ],
+      "answer": "Faraono šeimos tikintis"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pranašo gynimas nuo egzekucijos",
+        "Iššūkis mago triukams",
+        "Pastatyti bokštą, kad pasiektum dangų",
+        "Perskiriant jūrą pabėgimui",
+        "Karaliaus sapno aiškinimas"
+      ],
+      "answer": "Pranašo gynimas nuo egzekucijos"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Faraono dvaras",
+        "Degantis krūmas",
+        "Auksinis veršis",
+        "Madjano šulinys",
+        "Pranašo Nuho arka"
+      ],
+      "answer": "Faraono dvaras"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Išgelbėtas nuo žalos, kol engėjai buvo sunaikinti",
+        "Tapo galingu valdovu",
+        "Buvo įmestas į ugnį ir išėjo nenukentėjęs",
+        "Buvo prarijęs žemės",
+        "Keturiasdešimt metų klajojo dykumoje"
+      ],
+      "answer": "Išgelbėtas nuo žalos, kol engėjai buvo sunaikinti"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

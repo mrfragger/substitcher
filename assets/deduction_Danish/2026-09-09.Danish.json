@@ -1,0 +1,61 @@
+{
+  "title": "Den første sjæl, der står",
+  "intro": "Længe før nogen budbringer vandrede på jorden, før nogen skrift blev åbenbaret, opstod et væsen ulig noget andet. Denne sjæl blev formet af guddommelige hænder, givet et sted med uovertruffen skønhed og testet på en måde, der ville give genlyd gennem hele menneskets historie. Det, der fulgte, var en historie om svaghed, oprigtig omvendelse og en skæbne, der ville ændre skabelsens gang for evigt. Kan du gætte, hvem det er?",
+  "clues": [
+    "Jeg blev formet af den Barmhjertiges hænder af jordens støv",
+    "Jeg fik et hjem af uovertruffen skønhed, hvor ingen sult eller træthed kunne røre mig",
+    "Jeg fik befaling om aldrig at nærme mig et eneste træ, for det var forbudt",
+    "Min ledsager og jeg blev bedraget og nærmede os det forbudte træ, imod vor Herres befaling.",
+    "Vi vendte tilbage til vor Herre med oprigtig anger, og vi fik tilgivelse for vores overtrædelser",
+    "Fra os nedstammer hele menneskeheden; jeg er den allerførste, der vandrer på denne jord"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Adam",
+        "Profeten Musa",
+        "Profeten Nuh",
+        "Profeten Yusuf",
+        "Profeten Isa"
+      ],
+      "answer": "Profeten Adam"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Fristelse ved det forbudte træ",
+        "Konfrontation med Farao",
+        "Bygger den store Ark",
+        "Den elskede søns offer",
+        "At blive kastet ind i en stor ild"
+      ],
+      "answer": "Fristelse ved det forbudte træ"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Det forbudte træ",
+        "Den brændende busk",
+        "Den Gyldne Stav",
+        "Den store ark",
+        "Den gyldne kalv"
+      ],
+      "answer": "Det forbudte træ"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Sendt ned til jorden som menneskehedens første vogter",
+        "Farao og hans hær druknede i havet",
+        "Den store oversvømmelse ødelagde de onde",
+        "Ilden blev kølig og fredelig",
+        "Fik tildelt myndighed over kongeriget Egypten"
+      ],
+      "answer": "Sendt ned til jorden som menneskehedens første vogter"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Jainkotasuna eskatu zuen subiranoa",
+  "intro": "Agintari boteretsu eta harroputz batek uste zuen inor ez zegoela bere tronuaren gainetik. Iheslari talde bat atzetik joan zuten ur-masa zabal batean zehar, amaiera dramatikoa izan arte. Subirano honen istorioa Koraneko pasarte askotan oihartzuna du, guztientzat abisu gisa balioz.",
+  "clues": [
+    "Agintari boteretsua nintzen, eta uste nuen gobernatzen nituen lurraldeetan inongo autoritatek ez zuela nirea gainditzen.",
+    "Haman izeneko bisir fidagarri bat nuen, arkitektura-proiektu handiak burutzen laguntzen zidana.",
+    "Nire herrialdeko mago onenak deitu nituen nire aurka zegoen mezulari baten seinaleei aurre egiteko.",
+    "Izurriteak eta abisu argiak gorabehera, ez nion nire erreinuan esklabo bihurtutako herri bati alde egiten utzi.",
+    "Itsaso zabal batean zehar jarraitu nien nire armada osoarekin eta gurdiekin.",
+    "Itsaso horrek berak itxi gintuen ni eta nire indarren gainean, denok itoz, segurtasunez zeharkatu bitartean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Fir'awn (Faraoia)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Faraoia)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Izurriak eta Musarekin (Moisesekin) liskarra",
+        "Uholde handi baten aurretik arka bat eraikitzea",
+        "Jaluten aurkako borroka haranean",
+        "Balea batek irentsi izana",
+        "Merkataritza zintzoaren pisuak defendatzea"
+      ],
+      "answer": "Izurriak eta Musarekin (Moisesekin) liskarra"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Dorre altuak eta hesolak",
+        "Egurrezko kutxa handi bat",
+        "Urrezko txahal bat",
+        "Suge bihurtu zen makila",
+        "Balea erraldoi bat"
+      ],
+      "answer": "Dorre altuak eta hesolak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Armadarekin itsasoan itota",
+        "Alaren errukiak eta pazientziak salbatua, saritua",
+        "Urteetako zailtasunen ondoren, familiarekin elkartu da berriro",
+        "Lurrak irentsia.",
+        "Sute batean erreta."
+      ],
+      "answer": "Armadarekin itsasoan itota"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

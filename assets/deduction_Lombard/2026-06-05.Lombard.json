@@ -1,0 +1,61 @@
+{
+  "title": "I umil cercadur de la verità",
+  "intro": "In una terra de vècc podè e stregoneria, se desvilupa una grand cunfrontaziun. Una part la g’ha l’autoritaa dei segn divin, intant qe l’oltra la prœva a corisponder a l’impossibel. El risultà cambiarà per semper el curs de la storia. Pœdet descüvrir l’identidà di quei che g’han vist la verità ultima e se sun umilià davaant a lee?",
+  "clues": [
+    "G’hem vist di segn che andavan olter i truchett de la stregoneria",
+    "Sem tüt cascà en prostraziun, senza pudè negar la verità",
+    "G’hem recognossud qe qests segn vegniven de l’Unic Ver Dé",
+    "Serem la prima comunità a ciapà la fed inscì dramatich",
+    "G’hem prometü el paradis cuma ricompensa per la noster convinziun",
+    "I noster cord e i noster bastun sun diventà serpent davaant ai noster œucc, ma g’hem scernì la sottomisiun"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "I magi del Faraon",
+        "El popul del Profeta Ibrahim",
+        "I umil cercadur de la verità",
+        "La gent de la caverna",
+        "La nazion de la regina Bilqis"
+      ],
+      "answer": "I magi del Faraon"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "L'inconter cunt el persunal del Profeta Musa",
+        "El prucess del vent del Profeta Hud",
+        "La sfida de la camel del Profeta Salih",
+        "El grand diluvi mandà sü un prufet",
+        "El viagg de un profeta denter de una balena"
+      ],
+      "answer": "L'inconter cunt el persunal del Profeta Musa"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Antic Egitt",
+        "La cà sacra a Mecca",
+        "La cità de Madian",
+        "El desert de Tamud",
+        "La caverna dei antichi dormitori"
+      ],
+      "answer": "Antic Egitt"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "El paradis cuma luur ricompensa",
+        "Castig in de la tomba",
+        "Perdita di luur giardin abundant",
+        "Distruziun per un terremot impruvis",
+        "Salvament de una grand balena"
+      ],
+      "answer": "El paradis cuma luur ricompensa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den tilslørte konspiratoren",
+  "intro": "Du befinner deg i nærvær av en mektig skikkelse fra åpenbaringens dager. Denne personen var kjent for sitt intellekt, sin rikdom og sin status blant folket. Da de klare tegnene kom, gjenkjente de skjønnheten, men valgte trass fremfor underkastelse. Hva drev denne sjelen til å konspirere i mørket, og hva ble deres endelige skjebne?",
+  "clues": [
+    "Jeg var velsignet med rikelig med ressurser og innflytelse, noe som gjorde mitt ord tungt i forsamlingene.",
+    "Da det guddommeliges ord ble resitert, kunne jeg ikke benekte deres veltalenhet, men min stolthet tillot meg ikke å underkaste meg.",
+    "Jeg samlet rådgiverne mine og isolerte meg for å tenke over en måte å diskreditere budskapet på.",
+    "Etter mye overveielse erklærte jeg at det ikke var annet enn «magi nedarvet fra fortiden» for å vende folk bort.",
+    "Åpenbaringen henvendte seg deretter direkte til meg: «La meg være i fred med den jeg skapte.» Jeg ble pekt ut for mine intriger.",
+    "Snart vil den samme ilden jeg ble advart om gripe tak i panneluggen min, og jeg vil ikke ha noen fluktmulighet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Konspirerte for å myrde profeten",
+        "Ledet en boikott mot muslimer",
+        "Samlet et råd for å stemple Koranen som magi",
+        "Planla å utvise profeten fra Mekka",
+        "Nektet å dele rikdommen sin med foreldreløse barn"
+      ],
+      "answer": "Samlet et råd for å stemple Koranen som magi"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Åpenbaringen",
+        "Rådet",
+        "Pannelokken",
+        "Rikdommen",
+        "Pennen"
+      ],
+      "answer": "Pannelokken"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Han omvendte seg og omfavnet islam",
+        "Han emigrerte til Abessinia",
+        "Han ble rammet av en dødelig sykdom",
+        "Han døde i kamp mot muslimer",
+        "Han ble dømt til helvete"
+      ],
+      "answer": "Han ble dømt til helvete"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

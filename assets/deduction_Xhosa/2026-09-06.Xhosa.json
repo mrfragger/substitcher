@@ -1,0 +1,61 @@
+{
+  "title": "Umgxothwa wethole legolide",
+  "intro": "Umntu okhankanywe kwiQuran wakhokelela isihlwele esikhulu ekuphambukeni ngexesha lokungabikho komprofeti ohloniphekileyo. Into eyenziwe ngegolide yathimba iintliziyo zesizwe sonke - kodwa ibali lalo mntu liphela ngokuba wedwa nesiqalekiso esingaqhelekanga. Ngubani lo mntu ugxothiweyo?",
+  "clues": [
+    "Ndaphuma ngexesha lokungabikho komprofeti omkhulu owayenyukile ukuze afumane ulwalathiso lukaThixo.",
+    "Ndibangele ukuba isihlwele esikhulu siphambuke ngento endiyenzileyo ngezandla zam.",
+    "Indalo yegolide endayivelisayo yayibonakala ngathi inobomi, ivelisa izandi ezazibamangalisa abo bayilandelayo.",
+    "Ndithi ndibone into abanye abantu abangayiboniyo—ukubona into engabonakaliyo.",
+    "Ndakhupha into ethile kwimizila yesithunywa sikaThixo ndayiphosa kwisinyithi esinyibilikisiweyo.",
+    "Ndagwetyelwa ukuzulazula ndedwa, ndinesiqalekiso esikhethekileyo sokuba akukho mntu unokuchukumisa ulusu lwam kwaye nam ndingachukumisi olwabo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "IsiSamiri",
+        "UHaman",
+        "UFaro (uFir'awn)",
+        "U-Abu Lahab",
+        "Umprofeti uSalih"
+      ],
+      "answer": "IsiSamiri"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wadala ithole legolide ukuze linqulwe",
+        "Wakha inqaba efikelela emazulwini",
+        "Wacela umngeni kubenzi bomlingo baseYiputa",
+        "Wakhokela umkhosi onezilwanyana ezibhabhayo",
+        "Yahlula inyanga njengobungqina bokuba ngumprofeti"
+      ],
+      "answer": "Wadala ithole legolide ukuze linqulwe"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ithole legolide",
+        "Intonga eyajika yaba yinyoka",
+        "Isihlahla esivuthayo entabeni",
+        "Umkhombe uphumle encotsheni",
+        "Umsele ozele ngumlilo ovuthayo"
+      ],
+      "answer": "Ithole legolide"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukugxothwa, ukungavunyelwa ukuba kuchukunyiswe okanye kuchukunyiswe abanye",
+        "Batshoniswe elwandle kunye nomkhosi",
+        "Watshiswa ephila ngenxa yokungakholwa",
+        "Ubethwe ngumoya onamandla, ovuthuzayo",
+        "Uxolelwe waza waphakanyiselwa kwisikhundla esiphezulu"
+      ],
+      "answer": "Ukugxothwa, ukungavunyelwa ukuba kuchukunyiswe okanye kuchukunyiswe abanye"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

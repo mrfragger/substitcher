@@ -1,0 +1,61 @@
+{
+  "title": "Hitri prinašalec prestola",
+  "intro": "Na dvoru mogočnega vladarja je bila postavljena nemogoča zahteva in mnogi so se borili, da bi dokazali svojo vrednost. Vendar je nalogo lahko izpolnil le nekdo, čigar povezanost z božanskim znanjem je presegla vso fizično moč in razkrila trenutek, ki bo odmeval skozi stoletja.",
+  "clues": [
+    "Bil sem v službi velikega kralja, ki je bil tudi prerok, in sem bil del njegovega najbolj zaupanja vrednega kroga.",
+    "Nisem bil bitje ognja ali bitje velike fizične moči, ampak sem imel v sebi nekaj veliko močnejšega.",
+    "Ko je kralj prosil, naj mu iz daljne dežele pripeljejo prestol, sem točno vedel, kaj storiti.",
+    "Spregovoril sem o znanju, ki sem ga imel iz Knjige, in preden se je kdorkoli lahko odzval, je bil prestol postavljen pred kralja.",
+    "Moje dejanje ni bilo po moji lastni moči, temveč dokaz, da pravo znanje prihaja samo od Alaha.",
+    "Jaz sem tisti, ki je v trenutku prinesel prestol kraljice iz Sabe, kot je zapisano v suri An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Tisti, ki je poznal Knjigo",
+        "Mogočni džin Ifrit",
+        "Ptica hoopo iz Sulaymana",
+        "Prerok Sulejman",
+        "Kraljica iz Sabe"
+      ],
+      "answer": "Tisti, ki je poznal Knjigo"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "V hipu prinese prestol kraljice iz Sabe",
+        "Razdelitev Rdečega morja za Izraelce",
+        "Gradnja Kaabe s sinom",
+        "Preživetje v ognjeni peči",
+        "Rešen iz trebuha kita"
+      ],
+      "answer": "V hipu prinese prestol kraljice iz Sabe"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Bilkisov prestol",
+        "Musajevo osebje",
+        "Nuhova skrinja",
+        "Ogenj Namruda",
+        "Kit iz Yunusa"
+      ],
+      "answer": "Bilkisov prestol"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Prestol se je v trenutku pojavil pred Sulejmanom kot preizkus hvaležnosti.",
+        "Kraljica je takoj sprejela islam",
+        "Džin je bil zaprt zaradi neuspeha",
+        "Sulejman se je odpovedal svojemu kraljestvu",
+        "Prestol je bil razbit na koščke"
+      ],
+      "answer": "Prestol se je v trenutku pojavil pred Sulejmanom kot preizkus hvaležnosti."
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

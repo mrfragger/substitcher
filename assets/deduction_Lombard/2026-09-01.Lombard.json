@@ -1,0 +1,61 @@
+{
+  "title": "La vus de le periferie",
+  "intro": "Te ste in d’una cità indué tri messagger sun rivà cun di segn ciar, ma la gent la se burla e la se taca ai luur vècc mod. Da la part pusè luntana de la cità, una figüra la cur vers la gent, senza fià e determinada, per parlà la verità davaant del refudà. Chi l’è chesta anima che g’ha rischià tüt per un messaj minga el sò?",
+  "clues": [
+    "Vivevi intra un popul che g’haveva ricevü messagger cun segn ciar, ma lür se sun voltà via cun arroganza.",
+    "Son vegnuu de corsa de la part püsee luntan de la cità quand che g’ho sentì la ciamada di messagger.",
+    "Ho dit al me popul: O me popul, segui i messagger. Segui quei che te dumandan no una recumpensa, perché sun guidà giüstament.’",
+    "Mi l’eri minga un profeta, ma credevi in ​​di messagg e urgevi el me popul a fac istess.",
+    "La me gent la ciapava in gir i me cunsigli e la m’ha acusad de vess ün estremista.",
+    "Quand che m’han copà, Allah m’ha dit de entrà in del Paradis, e mi desiderava che el me popul pudeva cognoss el perdun e l’onor che g’ho ricevü."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "L’òmm de la part püsee luntan de la cità (Ya-Sin)",
+        "Un di tri messagger mandà in cità",
+        "Un impurtant mercant de la cità",
+        "Un suvran de la cità",
+        "El capo dei increduli"
+      ],
+      "answer": "L’òmm de la part püsee luntan de la cità (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Predicand al sò popul per segutar i messagg",
+        "Costruir una barca per salvar i credent de un diluvio",
+        "Vesser butad ind un fœg per la fed",
+        "Vesser inglutid da una balena",
+        "Vesser dat un regn e savieza"
+      ],
+      "answer": "Predicand al sò popul per segutar i messagg"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La part püsee luntan de la cità",
+        "L'arca",
+        "El pozz",
+        "El busc in früsa",
+        "La caverna"
+      ],
+      "answer": "La part püsee luntan de la cità"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "L’è entrà in del Paradis e g’ha desiderà che el sò popul pudeva cognoss el sò perdun",
+        "Anegad con la soa popola per refudar el messaj",
+        "L’è stada dada un miracul de la camel",
+        "L’è diventà suvran dopu el sò prucess",
+        "L’è stà salvà de Allah e l’è restà cunt el sò popul"
+      ],
+      "answer": "L’è entrà in del Paradis e g’ha desiderà che el sò popul pudeva cognoss el sò perdun"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

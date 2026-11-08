@@ -1,0 +1,61 @@
+{
+  "title": "Zaupanja vreden duh razodetja",
+  "intro": "V nevidnih kraljestvih se bitje čiste svetlobe giblje natančno in brez oklevanja izpolnjuje vsak ukaz. Ta podoba je govorila z izbranimi služabniki, prinašala besede vodstva in bila priča uresničevanju božanskih odlokov skozi stoletja. Kdo je ta častna duša?",
+  "clues": [
+    "Sem bitje čiste svetlobe, ustvarjeno iz svetlobe, in nikoli nisem prestopil niti ene zapovedi svojega Gospoda.",
+    "Gibam se med nebesi in zemljo, spuščam se z odredbami Najusmiljenejšega.",
+    "Poslan sem bil k plemeniti devici v svetišču, da bi ji oznanil čistega sina.",
+    "Jaz sem duh svetosti in podpiral sem preroka, ki mu je bila dana jasna znamenja in evangelij.",
+    "Prišel sem v jamo na gori, da bi izrekel prve besede recitacije, ki se bo ohranila za vedno.",
+    "Jaz sem zaupanja vreden duh in jaz sem tisti, ki je spustil Koran v srce zadnjega poslanca."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Džibril (Gabriel)",
+        "Mikail (Michael)",
+        "Angel smrti",
+        "Malik (Varuh pekla)",
+        "Harut (eden od dveh angelov v Babilonu)"
+      ],
+      "answer": "Džibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Ključno poslanstvo/vloga",
+      "options": [
+        "Posredovanje razodetja prerokom",
+        "Trobentanje na sodni dan",
+        "Varovanje vrat pekla",
+        "Zapisovanje človeških dejanj",
+        "Povzroča, da dež padne"
+      ],
+      "answer": "Posredovanje razodetja prerokom"
+    },
+    "location": {
+      "label": "Ključni atribut ali naslov",
+      "options": [
+        "Sveti Duh (Ruh al-Qudus)",
+        "Duh moči",
+        "Duh usmiljenja",
+        "Duh vodstva",
+        "Duh resnice"
+      ],
+      "answer": "Sveti Duh (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Izid misije",
+      "options": [
+        "Koran je bil razodet preroku Mohamedu",
+        "Na sodni dan je zatrobila trobenta",
+        "Pekel je bil varovan in njegova vrata so bila zaprta",
+        "Knjiga dejanj je bila predstavljena Allahu",
+        "Dež je bil poslan na zemljo"
+      ],
+      "answer": "Koran je bil razodet preroku Mohamedu"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

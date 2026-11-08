@@ -1,0 +1,61 @@
+{
+  "title": "A alma vixiante á beira do río",
+  "intro": "Unha alma nova foi encargada dunha misión secreta: observar desde unha distancia segura como o destino se despregaba nas augas. Invisible e insospeitada, esta figura xogaría un papel fundamental na alteración do curso da historia dunha nación.",
+  "clues": [
+    "A miña nai encargoume unha tarefa, unha que requería sigilo e vixilancia.",
+    "Os meus ollos seguiron un pequeno berce que se deixaba levar pola corrente, co corazón apoderado de preocupación.",
+    "Cando foi atopado por alguén inesperado, achegueime, cheo de trepidación.",
+    "Vin a súa desesperación por un coidador e ofrecín unha solución sen revelar a verdade.",
+    "A miña oportuna intervención devolveu unha alma enfermeira a quen máis a necesitaba.",
+    "Nos xulgados dos poderosos, dixen: \"Debería indicarche unha familia que o nutra e o coide con esmero?\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A irmá de Musa",
+        "A nai de Musa",
+        "A esposa do faraón",
+        "Unha matrona",
+        "A filla de Shuaib"
+      ],
+      "answer": "A irmá de Musa"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "O lanzamento dun neno ao río",
+        "A separación do mar",
+        "A queima do becerro",
+        "A construción da arca",
+        "A praga das lagostas"
+      ],
+      "answer": "O lanzamento dun neno ao río"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O río",
+        "O deserto",
+        "A montaña",
+        "O palacio",
+        "O lume"
+      ],
+      "answer": "O río"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ela reuniu o neno coa súa nai",
+        "Ela salvouse dos soldados do faraón",
+        "Ela converteuse en raíña",
+        "Foi castigada por espionaxe",
+        "Ela liderou os israelitas"
+      ],
+      "answer": "Ela reuniu o neno coa súa nai"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

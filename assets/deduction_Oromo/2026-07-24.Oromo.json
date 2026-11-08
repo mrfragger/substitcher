@@ -1,0 +1,61 @@
+{
+  "title": "Shira Haguugame",
+  "intro": "Bara mul'ata irraa kaasee nama humna guddaa qabu tokko duratti of argatta. Namni dhuunfaa kun sammuu, qabeenya, fi sadarkaa ummata isaanii biratti qabuun beekama ture. Mallattoon ifa ta’e yeroo dhufu bareedina sana hubataniiru ta’us bitamuu irra mormii filataniiru. Lubbuu kana dukkana keessatti shira akka xaxu kan taasise maali, hireen isaanii inni dhumaa maali?",
+  "clues": [
+    "Qabeenyaa fi dhiibbaa baay’ee waanan argadheef, walga’iiwwan irratti dubbiin koo akka ulfaatu godheera.",
+    "Jechoonni waaqummaa yeroo dubbifaman, dandeettii dubbii isaanii haaluu hin dandeenye, garuu of tuuluun koo akkan gadi bu’u naaf hin hayyamu ture.",
+    "Gorsitoota koo walitti qabeen, karaa ergaa sana maqaa balleessuu danda’u irratti xiinxaluuf of adda baasee.",
+    "Erga baay'ee yaadee booda, namoota ofirraa deebisuuf 'falfala darbe irraa darbu' malee homaa akka hin taane labse.",
+    "Mul’anni sun achiis kallattiin akkas jedhee natti dubbate: ‘Isa ani uume sanaan na dhiisi’ jedheera. Shira kootiin adda baafame.",
+    "Yeroo dhiyootti, ibiddi ani akeekkachiifame sun fuula duraatiin na qabata, miliquus hin qabu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Al-Waliid ibnu al-Mughira",
+        "Abuu Lahaab",
+        "Abuu Jahl",
+        "Uqbah ibnu Abii Mu'aayit",
+        "Al-Nadr ibnu al-Hariis jedhamuun beekama"
+      ],
+      "answer": "Al-Waliid ibnu al-Mughira"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Nabiyyii ajjeesuuf shira xaxe",
+        "Muslimoota irratti uggura geggeesse",
+        "Qur'aana akka falfalaatti maqaa itti moggaasuuf mana maree walitti qabe",
+        "Nabiyyii Makkaa keessaa baasuuf shira xaxame",
+        "Qabeenya isaa daa'imman abbaa fi haadha hin qabneef qooduu dide"
+      ],
+      "answer": "Qur'aana akka falfalaatti maqaa itti moggaasuuf mana maree walitti qabe"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Mul'ata",
+        "Manni Marichaa",
+        "Kan Forelock jedhamu",
+        "Qabeenya",
+        "Qalama"
+      ],
+      "answer": "Kan Forelock jedhamu"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Towbatee Islaamummaa fudhate",
+        "Gara Abisiniyaatti godaane",
+        "Dhukkuba lubbuu namaa galaafatutu rukutame",
+        "Lola Muslimoota irratti godhame irratti du'e",
+        "Ibidda Si'oolitti itti murtaa'e"
+      ],
+      "answer": "Ibidda Si'oolitti itti murtaa'e"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

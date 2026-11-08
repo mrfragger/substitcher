@@ -1,0 +1,61 @@
+{
+  "title": "Wspaniałość, która zatonęła",
+  "intro": "Wyobraź sobie: duszę odzianą w piękne szaty i otoczoną skarbami przekraczającymi wszelkie wyobrażenia. Ten człowiek wierzył, że jego bogactwo zostało zdobyte dzięki własnej błyskotliwości, nigdy nie dostrzegając źródła prawdziwego zaopatrzenia. Krocząc wśród wyznawców potężnego proroka, ten człowiek odrzucił wszelkie wezwania do pokory. Dziś odkrywamy tożsamość postaci, której wspaniały majątek stał się miejscem jej wiecznego spoczynku.",
+  "clues": [
+    "Żyłem w czasach proroka, który wzywał uparty naród do prawdy.",
+    "Należałem do wybranej społeczności, jednak moje serce odwróciło się od przesłania.",
+    "Złoto i srebro urzekły mnie bardziej, niż jakikolwiek boski nakaz.",
+    "Moje skarbce stały się tak wielkie, że silna grupa mężczyzn ledwo mogła podnieść klucze.",
+    "Chwaliłem się, że bogactwo, które zdobyłem, zawdzięczam własnej wiedzy.",
+    "Na koniec ja i całe moje mieszkanie zostaliśmy pochłonięci przez ziemię, jako ostrzeżenie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Karun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Arogancja w stosunku do bogactwa i odmowa jałmużny",
+        "Wykuwanie złotego bożka z roztopionej biżuterii",
+        "Deklarowanie boskości nad potężnym królestwem",
+        "Prześladowanie pierwszych wierzących w Mekce",
+        "Prowadzenie kampanii mającej na celu zniszczenie Domu Świętego"
+      ],
+      "answer": "Arogancja w stosunku do bogactwa i odmowa jałmużny"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Skarby, których klucze obciążały wielu silnych mężczyzn",
+        "Złoty cielec, który wydawał dźwięk",
+        "Chwalebny tron ​​z dalekiej krainy",
+        "Rów wypełniony płonącym ogniem",
+        "Potężna armia słoni bojowych"
+      ],
+      "answer": "Skarby, których klucze obciążały wielu silnych mężczyzn"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pochłonięty przez ziemię wraz z mieszkaniem",
+        "Utonął w morzu z armią",
+        "Spalony żywcem w dole ognia",
+        "Zniszczony przez wyjący, szalejący wiatr",
+        "Powalony przez jeden potężny wybuch"
+      ],
+      "answer": "Pochłonięty przez ziemię wraz z mieszkaniem"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

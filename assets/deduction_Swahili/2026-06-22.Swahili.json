@@ -1,0 +1,61 @@
+{
+  "title": "Muumini Aliyefichwa",
+  "intro": "Katika kumbi za kifahari za mamlaka, ambapo kutoamini na udhalimu kulitawala, sauti pekee ya ukweli ilizungumza kutoka mahali pasipotarajiwa. Mtu huyu alipinga mamlaka ya kumlinda mjumbe, akihatarisha usalama wake ili kutangaza ukweli.",
+  "clues": [
+    "Niliishi katika nchi yenye udhalimu mkubwa, nikimtumikia mtawala aliyedai uungu.",
+    "Nilificha imani zangu za kweli kwa miaka mingi, nikiogopa matokeo ya kuzifichua.",
+    "Alipokuja Mtume na dalili zilizo wazi, niliamini, lakini watu wangu walimfanyia njama.",
+    "Nilisimama mbele ya mtawala dhalimu na baraza lake, nikibishana kwamba hawapaswi kumuua mjumbe asiye na hatia.",
+    "Niliwaonya kuhusu adhabu ya mataifa yaliyopita yaliyokataa ukweli, kama watu wa Nuhu na Ad.",
+    "Mwenyezi Mungu aliniokoa kutokana na njama zao mbaya, na nilishuhudia uharibifu wa utawala dhalimu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mwamini wa Familia ya Farao",
+        "Mchawi wa Farao",
+        "Mhudumu wa Farao",
+        "Mke wa Farao",
+        "Mweka Hazina wa Farao"
+      ],
+      "answer": "Mwamini wa Familia ya Farao"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kumtetea nabii dhidi ya kuuawa",
+        "Kupinga mbinu za mchawi",
+        "Kujenga mnara ili kufikia angani",
+        "Kugawanya bahari kwa ajili ya kutoroka",
+        "Kutafsiri ndoto ya mfalme"
+      ],
+      "answer": "Kumtetea nabii dhidi ya kuuawa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Baraza la Farao",
+        "Kichaka kinachowaka moto",
+        "Ndama wa dhahabu",
+        "Kisima cha Madyan",
+        "Sanduku la Nabii Nuh"
+      ],
+      "answer": "Baraza la Farao"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuokolewa kutokana na madhara huku wakandamizaji wakiangamizwa",
+        "Akawa mtawala mwenye nguvu",
+        "Alitupwa motoni na akatoka bila kujeruhiwa",
+        "Alimezwa na ardhi",
+        "Alitangatanga jangwani kwa miaka arobaini"
+      ],
+      "answer": "Kuokolewa kutokana na madhara huku wakandamizaji wakiangamizwa"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Faire ag an nGeata Lasrach",
+  "intro": "Seasann slua ciúin, uafásach ag faire ar thairseach scanrúil, gan blas bia, deoch ná scíthe a fháil orthu riamh. Déanta as substaint nach cosúil le cré dhaonna, tá siad ag fanacht le cuspóir uafásach amháin - agus níor sháraigh siad fiú ordú amháin óna dTiarna riamh.",
+  "clues": [
+    "Is créatúir muid murab ionann agus daoine, cruthaithe as substaint nach n-itheann, nach n-ólann ná nach dtuirsíonn.",
+    "Tá ár líon beacht ar eolas agus nochtaithe sa Leabhar—níl muid gan áireamh ná i slua.",
+    "Níor easumhlaíomar ár gCruthaitheoir riamh, agus ní labhraímid riamh sula dtugtar orduithe dúinn.",
+    "Nuair a thiocfaidh an Lá, tiomáinfear na neamhchreidmhigh chugainn i ngrúpaí, agus osclóidh muid na geataí dóibh.",
+    "Cuirfimid ceist orthu: ‘Nach dtáinig teachtairí chugaibh ó bhur gcineál féin, ag tabhairt rabhaidh daoibh faoin Lá seo?’",
+    "Déanaimid cosaint ar áit nach dtagann aon anam amach as choíche—réimse lasrach pionóis shíoraí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Coimeádaithe Ifrinn (Zabaniyah)",
+        "Iompróirí Ríchathaoir Allah",
+        "Na hAingil Taifeadta (Kiraman Katibin)",
+        "Aingil an Bháis",
+        "Geatóirí Pharthais"
+      ],
+      "answer": "Coimeádaithe Ifrinn (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Ár bPríomhdhualgas",
+      "options": [
+        "Ag cosaint geataí Ifrinn",
+        "Taifeadadh gach gníomh daonna",
+        "Ag Iompar Ríchathaoir Allah",
+        "Ag glacadh anamacha na marbh",
+        "Ag ordú na gaoithe agus na scamaill"
+      ],
+      "answer": "Ag cosaint geataí Ifrinn"
+    },
+    "location": {
+      "label": "Cad a Chosnaímid?",
+      "options": [
+        "An Tine Ifrinn",
+        "Ríchathaoir Allah",
+        "Scrollaí na nGníomhas",
+        "Aibhneacha na Parthais",
+        "Sléibhte an Domhain"
+      ],
+      "answer": "An Tine Ifrinn"
+    },
+    "outcome": {
+      "label": "Cinniúint na ndaoine inár réimse",
+      "options": [
+        "Fanfaidh siad go deo agus ní imeoidh siad choíche",
+        "Tabharfar maithiúnas dóibh sa deireadh agus scaoilfear saor iad",
+        "Glanfar iad le himeacht ama",
+        "Déanfar iad a chlaochlú i bhfoirmeacha eile",
+        "Beidh siad ag malartú idir Ifreann agus Parthas"
+      ],
+      "answer": "Fanfaidh siad go deo agus ní imeoidh siad choíche"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

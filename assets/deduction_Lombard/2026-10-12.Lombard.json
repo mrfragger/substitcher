@@ -1,0 +1,61 @@
+{
+  "title": "El Voto del Non Nato",
+  "intro": "Un’anema sincera l’ha fait una promessa sacra inanz de l’ariv de un fiœl. La storia de qesta figura la sa desvilupa dedent dei mur de un santuari, indove la devozion la incontra l'acetazion divina. Chi l’è chestu servitur de Allah?",
+  "clues": [
+    "Fasevi part de una famiglia onorada in del Corano.",
+    "Ho fait un voto solenn de dedicar el me fiœl qe l’era ancamò miga nassud al servizi de Allah.",
+    "Quand g’ho parturì, sun stà surpres de truvà che l’era una tüsa, anca se m’eri spetà un bagaj.",
+    "Ho ciamà el me fiœl Maryam, un nomm che rifleteva la devoziun e el servizi.",
+    "Ho cercad la protezion de Allah per el me fiœl e i so discendents dal maledet Satana.",
+    "El me fiœl l’è stà acetà del Signur e mettuu sotta la cura del Profeta Zakariya in del santuari."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "La dona de Imran (Mader de Maryam)",
+        "Asiya, dona del faraon",
+        "Maryam, mader de Isa",
+        "La mader del Profeta Musa",
+        "La regina de Saba"
+      ],
+      "answer": "La dona de Imran (Mader de Maryam)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Giurand de dedicà el sò fiœul al tempi",
+        "Vesser butad ind un fœg",
+        "Traversà el mar sü terra secca",
+        "Costruir una grand arca",
+        "Vesser inglutid da un pess gross"
+      ],
+      "answer": "Giurand de dedicà el sò fiœul al tempi"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Ol santuari (mihrab) indove ‘l é stait metud ol sœ fiœl",
+        "L'arca de l'alleanza",
+        "El vitell dorà",
+        "El bastun che s’è trasfurmà en serpent",
+        "La palma da dat sotta la qual la se riposava"
+      ],
+      "answer": "Ol santuari (mihrab) indove ‘l é stait metud ol sœ fiœl"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "El sò bagaj l’è stà acetà e metü sotta la cura del Profeta Zakariya",
+        "L’è stada salvada da la puniziun de un tirann",
+        "G’ha ricevü un bagaj che se ciamava Yahya",
+        "La sò gent l’è stada distrutta da una tempesta",
+        "L’è diventada una regina de un grand regn"
+      ],
+      "answer": "El sò bagaj l’è stà acetà e metü sotta la cura del Profeta Zakariya"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

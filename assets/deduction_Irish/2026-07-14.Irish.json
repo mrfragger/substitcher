@@ -1,0 +1,61 @@
+{
+  "title": "Anamacha an Trinse",
+  "intro": "Taistealaíonn tú ar ais go dtí ré nuair a d’éiligh rialóir cruálach dílseacht iomlán do dhéithe bréagacha. Dhiúltaigh pobal beag d’anamacha dílse, agus tugadh pionós chomh dian sin dóibh gur mallacht shíoraí a bhí orthu. Macallaíonn a scéal tríd an gCorán mar fhianaise ar chreideamh neamhchlaonta. An féidir leat an grúpa daingean seo a aithint?",
+  "clues": [
+    "Bhí cónaí orainn i dtír faoi thiorantas rialóra a d'éiligh adhradh déithe bréige",
+    "Bhí géarleanúint throm ar ár bpobal mar gheall ar ár gcreideamh in Allah amháin",
+    "D’ordaigh an rialóir go ndéanfaí trinse mhór a thochailt agus go gcuirfí lasracha fíochmhara ina áit.",
+    "Ós rud é gur dhiúltaíomar ár gcreideamh a thréigean, caitheadh ​​isteach sa pholl lasrach sin sinn duine ar dhuine.",
+    "Rinneadh cuid den Quran dár scéal, agus cuireadh mallacht shíoraí orthu siúd a rinne géarleanúint orainn.",
+    "Ainmnítear an surah a thaifeadann ár n-anró i ndiaidh na gcomharthaí móra neamhaí sa spéir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Compánaigh an Trinse (Ashab al-Ukhdud)",
+        "Muintir na hUaimhe (Ashab al-Kahf)",
+        "Muintir na Sabóide",
+        "Muintir A'ad",
+        "Muintir Thamud"
+      ],
+      "answer": "Compánaigh an Trinse (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Ár dTriail",
+      "options": [
+        "A bheith dóite beo i bpoll tine",
+        "Séalaithe i bpluais ar feadh blianta fada",
+        "Iascaireacht ar lá naofa na scíthe",
+        "Á scriosadh ag gaoth uafásach",
+        "Ag marú camall baineann naofa"
+      ],
+      "answer": "A bheith dóite beo i bpoll tine"
+    },
+    "location": {
+      "label": "An Príomhghné",
+      "options": [
+        "Trinse tine lasrach",
+        "Uaimh i bhfolach le madra dílis",
+        "Piléir arda de chathair ársa atá i mbaol a bheith caillte",
+        "Áiteanna sléibhe snoite i n-aillte cloiche",
+        "Machaire oscailte scuabtha ag gaotha foréigneacha"
+      ],
+      "answer": "Trinse tine lasrach"
+    },
+    "outcome": {
+      "label": "Ár dToradh",
+      "options": [
+        "Cuireadh chun báis sinn agus cuireadh mallacht shíoraí ar na géarleantóirí",
+        "Dhúisíomar tar éis codladh ar feadh 309 bliain",
+        "Claochlaíodh sinn ina apaí mar gheall ar ár gcionta.",
+        "Scrios gaoth mhór uafásach sinn uile",
+        "Scrios aon ghlao tubaisteach amháin ár saol"
+      ],
+      "answer": "Cuireadh chun báis sinn agus cuireadh mallacht shíoraí ar na géarleantóirí"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

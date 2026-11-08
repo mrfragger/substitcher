@@ -1,0 +1,61 @@
+{
+  "title": "Nyimbo Iliyoisukuma Milima",
+  "intro": "Uko karibu kufichua hadithi ya mtumishi wa ajabu wa Mwenyezi Mungu. Katika nchi ya wajumbe na watawala, mtu huyu alibarikiwa na kitabu cha kimungu, sauti yenye nguvu, na nguvu kuliko chuma. Unaposoma vidokezo, je, unaweza kumtambua huyu anaweza kuwa nani?",
+  "clues": [
+    "Nilikuwa mtumishi wa Mwenyezi Mungu ambaye nilipewa kitabu maalum.",
+    "Nilikuwa na sauti nzuri, na sifa zangu zilipendwa sana kiasi kwamba hata vilima na ndege walijiunga nami.",
+    "Nilikabiliana na mpinzani hodari katika vita maarufu, na licha ya kuwa mdogo, nilishinda.",
+    "Chuma kilifanywa kuwa laini kwa ajili yangu, na kuniruhusu kutengeneza silaha kwa mikono yangu mwenyewe.",
+    "Nilifanywa mtawala juu ya taifa kubwa, na hekima yangu katika hukumu ilijulikana.",
+    "Mwanangu, ambaye pia ni nabii, alipewa mamlaka juu ya upepo na majini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Dawud (Daudi)",
+        "Nabii Sulemani (Sulemani)",
+        "Nabii Musa (Musa)",
+        "Nabii Harun (Haruni)",
+        "Nabii Ilyas (Eliya)"
+      ],
+      "answer": "Nabii Dawud (Daudi)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alimshinda Goliathi (Jalut)",
+        "Iligawanya bahari",
+        "Alinusurika nyangumi",
+        "Alitupwa motoni",
+        "Kujenga Safina"
+      ],
+      "answer": "Alimshinda Goliathi (Jalut)"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Zaburi (Zaburi)",
+        "Torati (Tawrat)",
+        "Injili (Injil)",
+        "Vitabu vya Ibrahimu",
+        "Qur'ani"
+      ],
+      "answer": "Zaburi (Zaburi)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa nabii na mfalme wa Israeli",
+        "Akawa mtawala wa Misri",
+        "Aliinuliwa mbinguni",
+        "Iliharibiwa na dhoruba",
+        "Akawa mwenzi wa pango"
+      ],
+      "answer": "Akawa nabii na mfalme wa Israeli"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

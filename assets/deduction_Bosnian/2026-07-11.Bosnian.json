@@ -1,0 +1,61 @@
+{
+  "title": "Putnici zelenog polja",
+  "intro": "U davna vremena, dvije osobe su obrađivale susjedne zemlje. Njihovi putevi su bili isprepleteni, ali su ih srca vodila ka sasvim različitim odredištima. Jedna je išla pravim putem, dok je druga zalutala u tamu poricanja. Možete li razotkriti misteriju ova dva čuvara žetve?",
+  "clues": [
+    "Posjedovao sam obilne urode, raskošne žetve koje su zasljepljivale oči posmatrača.",
+    "Moj komšija je posjedovao još veće blago od mene, ali sam njihov dio želio više nego svoj.",
+    "Predložio sam da im potpuno uništimo usjeve, kako bismo učvrstili sve pod mojom kontrolom.",
+    "Uništio sam i vlastitu žetvu, uništivši sve svojim glupim planovima.",
+    "Stajao sam bespomoćno dok su mi usjevi venuli, a bogatstvo se pretvaralo u prah u jednoj noći.",
+    "Nisam imao udjela u zagrobnom životu, a moje posljednje prebivalište postalo je jama plamteće vatre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Čovjek koji je negirao uskrsnuće i sud",
+        "Vladar koji je tlačio pravednog farmera",
+        "Bogati zemljoposjednik kojem je nedostajala zahvalnost",
+        "Farmer koji je žudio za zemljom svog susjeda",
+        "Podmukli partner koji je planirao uništenje"
+      ],
+      "answer": "Farmer koji je žudio za zemljom svog susjeda"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Test primanja božanskog otkrivenja",
+        "Izazov bogatstva i strpljenja",
+        "Iskušenje da se uništi egzistencija pravednika",
+        "Zapovijed o pravednoj podjeli nasljedstva",
+        "Borba protiv ugnjetavanja tiranina"
+      ],
+      "answer": "Iskušenje da se uništi egzistencija pravednika"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zeleni rajski vrtovi",
+        "Dva susjedna polja usjeva",
+        "Planine koje su svjedočile uništenju",
+        "Sveto utočište Meke",
+        "Obale rijeka blagoslovljene zemlje"
+      ],
+      "answer": "Dva susjedna polja usjeva"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Vječni raj kao nagrada za pravednost",
+        "Potpuno uništenje obje žetve u ovom životu",
+        "Izgnanstvo i lutanje do smrti",
+        "Privremeni prosperitet nakon kojeg slijedi vječna vatra",
+        "Čudesna restauracija i dvostruka nagrada"
+      ],
+      "answer": "Potpuno uništenje obje žetve u ovom životu"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

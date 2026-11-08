@@ -1,0 +1,61 @@
+{
+  "title": "Ametslariaren Igoera.",
+  "intro": "Handitasunerako jaiotako arima bat, baina proba gogorren proban egon zena, bidaia aparteko bati ekin zion. Pertsona honen bidea jeloskortasunak, banantzeak eta sufrimendu bidegabeak markatu zuten, erantzukizun handiko eta berrelkartze sakoneko posizio batera iritsi arte. Identifika al dezakezu Koraneko pertsonaia bikain hau?",
+  "clues": [
+    "Behin, nire ingurukoen inbidia izan zen, eta horrek gurasoengandik eta etxetik sakonki banandu ninduen.",
+    "Zailtasun handiko garaia bizi izan nuen, bidaiariek prezio eskasean saldu ninduten barne.",
+    "Bidegabeki gaizki jokatzeaz akusatu ninduten eta urteak eman nituen espetxean, baina nire fedea tinko mantendu zen.",
+    "Ikuspegi konplexuak interpretatzeko gaitasun paregabea eman zidaten, eta hori funtsezkoa izan zen askatasunerako bidean.",
+    "Nire jakinduriak eta osotasunak, azkenean, autoritate eta konfiantza handiko posizio batera eraman ninduten atzerriko lurralde batean.",
+    "Gertaera batzuen bidez, nire guraso eta anai-arreba adinekoekin elkartu nintzen berriro, absentzia luze eta mingarri baten ondoren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sulaiman profeta",
+        "Isa profeta",
+        "Yusuf profeta",
+        "Dawud profeta",
+        "Yahya profeta"
+      ],
+      "answer": "Yusuf profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Arrain handi batek irentsi izana",
+        "Arka bat eraikitzea sorkuntza salbatzeko",
+        "Salaketa faltsuak eta espetxeratzea jasan",
+        "Mirariekin agintari tirano bati aurre egitea",
+        "Gaixotasun larriarekin eta galerarekin probatua izatea"
+      ],
+      "answer": "Salaketa faltsuak eta espetxeratzea jasan"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sasi erretzen ari den bat",
+        "Txori hiztun bat",
+        "Putzu bat",
+        "Suge bihurtzen den makila",
+        "Gamelu eme bat seinale gisa"
+      ],
+      "answer": "Putzu bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurralde promestu baterako migrazio bat gidatzea",
+        "Egiptoko ministro boteretsu bihurtzea",
+        "Jainkozko epaiketa jasotzea herri harroputzen gainean",
+        "Erresuma zabal bat jakinduriaz eta justiziaz gobernatzea",
+        "Zeruetara igotzen."
+      ],
+      "answer": "Egiptoko ministro boteretsu bihurtzea"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

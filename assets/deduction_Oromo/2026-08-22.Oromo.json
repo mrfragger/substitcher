@@ -1,0 +1,61 @@
+{
+  "title": "Magaalaa Yerootti Amanne",
+  "intro": "Seenaa araara waaqayyoo keessatti hawaasni jijjiiramni isaa yeroo waloo dhugoomsuu ture jira. Seenaa isaanii saaxiluudhaaf jirta-oduu akeekkachiisaa, gaabbii fi yeroo turtii hiree saboota biroo irraa adda isaan godhu.",
+  "clues": [
+    "Ummata ergamaan itti ergamu waan turreef, jalqaba waamicha isaa irraa garagalle.",
+    "Mallattoon adabbii dhufuuf jiru yommuu ifa taʼu, akeekkachiisni isaa dhugaa taʼuusaa hubanneerra.",
+    "Towbaa garaa qulqulluudhaan gara Gooftaa keenyaatti deebine, amantiin keenyas fudhatama argate.",
+    "Adabbiin nurratti murtaa’ee ture sababa amantaa keenyaan ka’e.",
+    "Seenaan keenya magaalota adabbii erga arganii booda amanan keessaa akka waan adda ta’etti caqasameera.",
+    "Nuti namoota raajii qurxummii galaanaatiin liqimfame sanaa turre, ta’us badiisa irraa baraaramne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata Yunus",
+        "Ummata Nuh",
+        "Ummata Hud",
+        "Ummata Saalih",
+        "Ummata Luut"
+      ],
+      "answer": "Ummata Yunus"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Lolaa hamaa",
+        "Bubbee hamaa",
+        "Adabbii salphina dhufu kan irraa fagaate",
+        "Lafti isaan liqimsuu",
+        "Roobni dhagaa"
+      ],
+      "answer": "Adabbii salphina dhufu kan irraa fagaate"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Taabotni",
+        "Gaala dubaraa",
+        "Magaalaa kuma dhibbaa",
+        "Hojjettoonni Muusaa",
+        "Kuusaa Qarun"
+      ],
+      "answer": "Magaalaa kuma dhibbaa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Guutumaan guututti diigamaniiru",
+        "Yeroodhaaf gammachuun isaaniif kenname",
+        "Isaanis gara hantuutaatti jijjiiraman",
+        "Isaanis bishaaniin liqimfaman",
+        "Lafaan liqimfame"
+      ],
+      "answer": "Yeroodhaaf gammachuun isaaniif kenname"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vankumatu tunnistaja",
+  "intro": "Sügav lugu hargneb lahti, paljastades kogukonna vankumatu otsusekindluse tohutu türannia ees. Nende lugu on tunnistuseks usust, isegi kui nad seisavad silmitsi ülima ohverdusega. See ülestähendus tuletab meile meelde usu jõudu ülekaaluka rõhumise vastu.",
+  "clues": [
+    "Me olime grupp, kelle lugu on jutustatud lühikeses, kuid mõjusas suuras, mis hoiatab tagakiusamise eest.",
+    "Me seisime silmitsi valitsejaga, kes soovis hävitada meie usu ühte Jumalasse, trooni isandasse, kiiduväärsesse.",
+    "Meid tabas kohutav katsumus, mis hõlmas maasse kaevatud tohutu auguga.",
+    "Me vaatasime pealt, kuidas usklikke, sealhulgas imikuid, heideti sellesse auku raevukasse põrgusse.",
+    "Meie piinajaid needti nende tegude pärast, samas kui meile lubati tohutut tasu meie vankumatuse eest.",
+    "Valitseja katse meie usku kustutada vaid kindlustas meie kohta märtritena Allahi silmis, kes on kõige tunnistaja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Thamudi rahvas",
+        "'Redi inimesed",
+        "Kraavi inimesed",
+        "Luti rahvas",
+        "Elevandi rahvas"
+      ],
+      "answer": "Kraavi inimesed"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur üleujutus",
+        "Põlev põõsas",
+        "Uppumine meres",
+        "Tuline auk",
+        "Maavärin"
+      ],
+      "answer": "Tuline auk"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Kraav",
+        "Mägi",
+        "Kaev"
+      ],
+      "answer": "Kraav"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Neile anti kuningriik",
+        "Päästeti ime läbi",
+        "Saavutatud märtrisurm ja paradiis",
+        "Olid laiali mööda maad",
+        "Neile anti tohutu rikkus"
+      ],
+      "answer": "Saavutatud märtrisurm ja paradiis"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Anima Vigilans ad Ripam Fluminis",
+  "intro": "Anima iuveni mandatum secretum accepit, ut e tuto spatio fatum in aquis evolvendum observaret. Invisa et insuspecta, haec persona partes maximas actura erat in cursu historiae gentis mutando.",
+  "clues": [
+    "A matre mea mihi munus datum est, quod furtim et vigilantiam requirebat.",
+    "Oculi mei parva cunabula secundum flumen ferentia secuti sunt, corde sollicitudine grave.",
+    "Cum ab inopinato quodam inventum esset, prope, trepidatione plenus.",
+    "Desperationem eorum pro custode vidi et remedium obtuli sine veritate revelanda.",
+    "Mea opportuna interventio animam lactantem ad eum qui maxime ea egebat reduxit.",
+    "In atriis potentium dixi: 'Num te ad familiam dirigam quae eum nutriat et curam gerat?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Soror Musae",
+        "Mater Musae",
+        "Uxor Pharaonis",
+        "Obstetrix",
+        "Filia Shuaib"
+      ],
+      "answer": "Soror Musae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "De infante in flumen proiecto",
+        "Maris divisio",
+        "Combustio vituli",
+        "Aedificatio arcae",
+        "Pestis locustarum"
+      ],
+      "answer": "De infante in flumen proiecto"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Flumen",
+        "Desertum",
+        "Mons",
+        "Palatium",
+        "Ignis"
+      ],
+      "answer": "Flumen"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Puerum cum matre iterum coniunxit",
+        "Se a militibus Pharaonis servavit",
+        "Regina facta est",
+        "Poena ob speculationem facta est.",
+        "Ducebat Israelitas"
+      ],
+      "answer": "Puerum cum matre iterum coniunxit"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

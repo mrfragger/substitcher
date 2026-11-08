@@ -1,0 +1,61 @@
+{
+  "title": "A kopár szikla próbája",
+  "intro": "Egy képzett és büszke közösség véste örökségét a hegyekbe. De amikor egyértelmű jel érkezett hozzájuk, hitük és önuralmuk próbája, arroganciájuk egy visszafordíthatatlan útra vezette őket. Be tudod azonosítani ezt a csoportot és dacolásuk következményeit?",
+  "clues": [
+    "Kőművesek voltunk, csodálatos lakhelyeket faragtunk közvetlenül a hegyoldalakba.",
+    "Egy hírnök jött el hozzánk a saját népünk közül, és arra hívott minket, hogy imádjuk az Egy Igaz Istent.",
+    "Jelt követeltünk szavai bizonyítására, és egy különleges teremtményt hoztak létre próbára számunkra.",
+    "Egyszerű parancsot kaptunk: osszuk meg a vízforrásunkat ezzel a lénnyel, és igyunk belőle a kijelölt napon.",
+    "Arroganciánkban néhányan összeesküdtünk, de mi dacoltunk a figyelmeztetéssel, és lesújtottunk arra a teremtményre, amelynek a jelünknek kellett volna lennie.",
+    "Három napot kaptunk a végzetünk előtt, majd egy hatalmas robbanás ragadott el minket otthonainkban, élettelenül és földre hullatva minket."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "'Ad emberei",
+        "Madyan népe",
+        "Thamud népe",
+        "Saba népe",
+        "Lut népe"
+      ],
+      "answer": "Thamud népe"
+    },
+    "trial": {
+      "label": "Mi volt az elsődleges tesztünk?",
+      "options": [
+        "Bárkaépítés az özönvíz túlélésére",
+        "Ellenállni a sabbatnapi horgászat késztetésének",
+        "A csalárd üzleti gyakorlatok feladása",
+        "Egy csodálatos nőstény teve védelme",
+        "Hét évig tartó éhínség átvészelése"
+      ],
+      "answer": "Egy csodálatos nőstény teve védelme"
+    },
+    "location": {
+      "label": "Mi volt a történetünk központi eleme?",
+      "options": [
+        "Az aranyborjú",
+        "A nőstény teve",
+        "Mózes próféta botja",
+        "A Ma'rib nagy gátja",
+        "A mennyből terített asztal"
+      ],
+      "answer": "A nőstény teve"
+    },
+    "outcome": {
+      "label": "Mi volt a végső sorsunk?",
+      "options": [
+        "Egy hatalmas özönvízbe fulladt",
+        "Majmokká és disznókká változtak",
+        "Elárasztotta egy dühös szél",
+        "Szétszórva egy gát átszakadása által",
+        "Egy hatalmas robbanás/földrengés pusztította el"
+      ],
+      "answer": "Egy hatalmas robbanás/földrengés pusztította el"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

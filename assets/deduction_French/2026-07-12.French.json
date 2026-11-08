@@ -1,0 +1,61 @@
+{
+  "title": "La Cité Perdue d'une Majesté Inégalée",
+  "intro": "Une puissante civilisation dominait jadis de vastes étendues terrestres, célèbre pour ses édifices colossaux qui s'élevaient vers le ciel. Pourtant, sous cette grandeur, un déni obstiné s'est développé : un refus d'écouter l'avertissement divin envoyé au sein même de la communauté. L'orgueil et l'arrogance allaient bientôt attirer un châtiment tel que ni la terre ni les cieux n'en avaient jamais connu.",
+  "clues": [
+    "Nous avons jadis régné sur de vastes étendues de la terre, fiers d'une force que nous pensions qu'aucune autre civilisation ne pouvait égaler.",
+    "Notre royaume était célèbre pour ses édifices imposants aux piliers puissants qui se dressaient sans égal sur toutes les terres connues.",
+    "Un élève de notre propre communauté s'est levé pour nous avertir, nous exhortant chacun à nous soumettre à l'Unique Créateur.",
+    "Nous avons rejeté le message qui nous a été transmis et avons refusé d'abandonner la voie que nous avions héritée.",
+    "Un vent furieux et hurlant d'une violence inouïe s'est déchaîné contre nous, nous laissant totalement sans défense.",
+    "Nous avons été laissés comme des troncs de palmiers évidés, dispersés et oubliés, comme une leçon pour chaque génération suivante."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple d'A'ad",
+        "Le peuple de Nuh",
+        "Peuple de Lut",
+        "Les habitants de Madyan",
+        "Les habitants de Tubba'"
+      ],
+      "answer": "Peuple d'A'ad"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Un vent implacable de châtiment sévère",
+        "Une inondation qui a recouvert tous les sommets des montagnes",
+        "Une pluie de pierres d'argile brûlantes tombant du ciel",
+        "Un cri terrifiant venu des cieux",
+        "Un violent tremblement de terre qui a fendu le pays"
+      ],
+      "answer": "Un vent implacable de châtiment sévère"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Iram, la ville aux hautes colonnes",
+        "Une arche massive en bois construite sur une montagne",
+        "Une chamelle qui a émergé miraculeusement de la pierre",
+        "Le mont Sinaï, lieu où les commandements divins sont descendus",
+        "Un palais de cristal et de verre fin surplombant des eaux vives"
+      ],
+      "answer": "Iram, la ville aux hautes colonnes"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Laissés comme des troncs de palmiers creux, éparpillés et sans vie",
+        "Noyés sous les vagues déferlantes d'une grande inondation",
+        "Transformés en créatures ressemblant à des singes et des porcs",
+        "Écrasés sous une pluie de pierres d'argile durcie",
+        "Consumé dans un cri assourdissant qui transperça l'âme"
+      ],
+      "answer": "Laissés comme des troncs de palmiers creux, éparpillés et sans vie"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

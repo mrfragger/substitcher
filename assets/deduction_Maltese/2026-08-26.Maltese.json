@@ -1,0 +1,61 @@
+{
+  "title": "L-Għira li Kkonsmat",
+  "intro": "Storja eqdem minn kwalunkwe saltna jew skrittura—l-ewwel traġedja umana mwielda mill-għira. Ruħ waħda, l-akbar minn żewġt itfal imwielda mill-ewwel ġenituri, rat b’rabja hekk kif ħuha iżgħar irċieva favur li kien miċħud. Dak li segwa kien l-aktar għażla mudlama, u ħalla warajha l-ewwel demm li qatt inxtered fuq l-art. Tista’ tikxef l-identità, il-prova, u d-dispjaċir morr?",
+  "clues": [
+    "Jiena twilidt mill-ewwel par ta' bnedmin li mxew fuq l-art.",
+    "Darba għamilt offerta lil Alla, iżda ma ġietx aċċettata mingħandi.",
+    "L-offerta ta’ ħija ġiet aċċettata, filwaqt li tiegħi ġiet miċħuda—xi ħaġa li ma stajtx niflaħ.",
+    "Heddedt lil ħija stess bil-qerda.",
+    "Jiena sirt l-ewwel wieħed li wettaqt qtil fuq din l-art, billi ħadt il-ħajja ta' ħija stess.",
+    "Alla bagħat kreatura tad-dinja—għasfur iswed li jħaffer fl-art—biex jgħallimni kif naħbi dak li kont għamilt, u ma bqajt b’xejn ħlief dispjaċir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Qabil (Kajin)",
+        "Ħabil (Abel)",
+        "Profeta Yaqub",
+        "Il-Profeta Musa",
+        "Il-Profeta Adam"
+      ],
+      "answer": "Qabil (Kajin)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Offerta miċħuda minn Alla",
+        "Mitfugħ f’nar kbir",
+        "Abbandunat bħala tarbija fix-xmara",
+        "Ittestjat b'renju immens",
+        "Kmandat biex jissagrifika lil ibnu"
+      ],
+      "answer": "Offerta miċħuda minn Alla"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-kurva mibgħuta minn Alla",
+        "L-għoġol tad-deheb",
+        "L-arka fuq il-muntanja",
+        "L-għollieq jaqbad",
+        "Il-ġemela mnaqqxa mill-blat"
+      ],
+      "answer": "Il-kurva mibgħuta minn Alla"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Imtela b’dispjaċir u kien fost it-telliefa",
+        "Mibela’ fl-art flimkien mat-teżori",
+        "Sar messaġġier nobbli ta’ Alla",
+        "Daħal fil-Ġenna permezz tal-ħniena divina",
+        "Ħakem fuq saltna mhux imqabbla"
+      ],
+      "answer": "Imtela b’dispjaċir u kien fost it-telliefa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

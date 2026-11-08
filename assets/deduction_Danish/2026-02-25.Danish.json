@@ -1,0 +1,61 @@
+{
+  "title": "Testen af ​​den golde klippe",
+  "intro": "Et dygtigt og stolt samfund huggede deres arv ind i selve bjergene. Men da et klart tegn blev sendt til dem, en prøve på tro og tilbageholdenhed, førte deres arrogance dem ned ad en vej uden vej tilbage. Kan du identificere denne gruppe og konsekvensen af ​​deres trodsighed?",
+  "clues": [
+    "Vi var mestre i sten og huggede storslåede boliger direkte ind i bjergsiderne.",
+    "Et sendebud fra vores eget folk kom til os og opfordrede os til at tilbede den ene sande Gud.",
+    "Vi krævede et tegn til at bevise hans ord, og en enestående skabning blev frembragt som en prøve for os.",
+    "Vi fik en simpel kommando: at dele vores vandkilde med denne skabning og lade den drikke på dens angivne dag.",
+    "I vores arrogance konspirerede nogle få iblandt os, og vi trodsede advarslen og slog den skabning ihjel, der skulle være vores tegn.",
+    "Vi fik tre dage til vores undergang, og så greb en voldsom vindstød os i vores hjem og efterlod os livløse og væltede omkuld."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Folk fra 'Ad",
+        "Folk i Madyan",
+        "Folket i Thamud",
+        "Sabas folk",
+        "Luts folk"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Hvad var vores primære test?",
+      "options": [
+        "At bygge en ark for at overleve en oversvømmelse",
+        "Modstå trangen til at fiske på sabbatten",
+        "Opgive svigagtige forretningsmetoder",
+        "Beskyttelse af en mirakuløs hunkamel",
+        "Udholde en syvårig hungersnød"
+      ],
+      "answer": "Beskyttelse af en mirakuløs hunkamel"
+    },
+    "location": {
+      "label": "Hvad var det centrale element i vores historie?",
+      "options": [
+        "Den gyldne kalv",
+        "Hunkamelen",
+        "Profeten Musas stav",
+        "Den store dæmning ved Ma'rib",
+        "Bordet dækket fra himlen"
+      ],
+      "answer": "Hunkamelen"
+    },
+    "outcome": {
+      "label": "Hvad var vores endelige skæbne?",
+      "options": [
+        "Druknet i en stor syndflod",
+        "Forvandlet til aber og svin",
+        "Overvældet af en voldsom vind",
+        "Spredt af en dæmnings brud",
+        "Ødelagt af et voldsomt jordskælv/eksplosion"
+      ],
+      "answer": "Ødelagt af et voldsomt jordskælv/eksplosion"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

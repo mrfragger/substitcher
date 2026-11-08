@@ -1,0 +1,61 @@
+{
+  "title": "A láng az arrogancia palotájában",
+  "intro": "Az ókori világ leghatalmasabb palotájának grandiózus falai mögött egy alak élt, akinek a szíve olyan titkot hordozott, amelyet semmilyen királyi rendelet nem tudott elhallgattatni. Míg körülötte mindenki hamis istenek előtt hódolt, ez a lélek csendes hitet tartott magában. Annak a földnek az uralkodója isteninek hitte magát, mégis ez az egyén az igazságot választotta a kényelem helyett, az odaadást pedig a biztonság helyett. Ma a feladatod az, hogy felfedezd, ki volt ez a bátor lélek, akinek a története a rendíthetetlen hit egyik legerőteljesebb példája.",
+  "clues": [
+    "Egy hatalmas gazdagságú és páratlan pompájú helyen éltem, ahol az ország uralkodója abszolút hatalmat gyakorolt ​​mindenek felett.",
+    "Míg körülöttem a többiek hamis istenek előtt hódoltak, én a hit csendes fényét őriztem a szívemben.",
+    "Felfedeztem és örökbe fogadtam egy gyermeket, aki szokatlan módon jutott el hozzám – nem születése, hanem egy nagy folyó vize révén.",
+    "Imádkoztam az Úrhoz, otthont kérve Hozzá közel a Paradicsomban, és üdvösséget a körülöttem lévő zsarnokságtól.",
+    "A gyermekem, akit felneveltem, úgy nőtt fel, hogy szembeszálljon azzal az uralkodóval, aki a sorsomat irányította, és én akkor is szilárdan kitartottam a hitemben, amikor fenyegetés érte.",
+    "Én vagyok az, akinek a nevét a Korán a hit példaképeként tiszteli, és én magának a fáraónak a palotájában éltem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Asija, a fáraó felesége",
+        "Maryam, Isa anyja",
+        "Bilqis, Sába királynője",
+        "Lut próféta felesége",
+        "Imrán felesége"
+      ],
+      "answer": "Asija, a fáraó felesége"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy elhagyott csecsemő felfedezése és felnevelése, akiből nagy próféta lett",
+        "Egy zsarnok nagy tűzbe veti",
+        "Egy hatalmas árvíz tanúja volt, amely elpusztított egy népet",
+        "Datolyapálma-rázogatás és táplálék nyújtása",
+        "Fiú fogantatása idős kor ellenére"
+      ],
+      "answer": "Egy elhagyott csecsemő felfedezése és felnevelése, akiből nagy próféta lett"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Páratlan pompájú királyi palota",
+        "Egy hatalmas hajó, amelyet árvíz ellen építettek",
+        "Egy mély barlang rejtőzik a hegyekben",
+        "Lángoló tűz rakott egy hegytetőn",
+        "Falakkal körülvett kert"
+      ],
+      "answer": "Páratlan pompájú királyi palota"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Allah akaratából otthont kaptak a Paradicsomban",
+        "Egy nagy árvíz elpusztította egy ősi nemzet hitetlenjeit",
+        "Egy hatalmas hatalommal és tekintéllyel bíró királyságot adományoztak ebben a világban",
+        "Egy hatalmas sereget szórtak szét a repülő madarak",
+        "Egy zsarnok, aki isteninek vallotta magát, tengerbe fulladt"
+      ],
+      "answer": "Allah akaratából otthont kaptak a Paradicsomban"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

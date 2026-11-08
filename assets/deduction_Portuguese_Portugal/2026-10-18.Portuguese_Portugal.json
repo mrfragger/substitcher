@@ -1,0 +1,61 @@
+{
+  "title": "As Boas Novas na Velhice",
+  "intro": "Você está testemunhando um momento em que a esperança se renova. Um casal, já bem além da idade de ter filhos, recebe uma promessa que desafia as leis da natureza. Em seu meio, ergue-se uma figura cuja própria existência é um sinal da misericórdia divina — uma alma destinada à profecia, carregando um legado que perdurará por gerações. Quem é esse indivíduo extraordinário?",
+  "clues": [
+    "Nasci de pais idosos que não tinham filhos.",
+    "Meu nascimento foi anunciado por anjos que vieram como convidados para minha família.",
+    "Recebi sabedoria e profecia, e sou mencionado entre os pacientes.",
+    "Meu pai era chamado de amigo de Alá, e eu fui um presente para ele em seus últimos anos.",
+    "Eu tinha um irmão que também era profeta, e ambos fomos abençoados por nosso Senhor.",
+    "Meu filho também foi profeta, e meus descendentes receberam as escrituras e a profecia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Ishaq (Isaac)",
+        "Profeta Ismail (Ismael)",
+        "Profeta Yaqub (Jacó)",
+        "Profeta Yahya (João)",
+        "Profeta Uzair (Esdras)"
+      ],
+      "answer": "Profeta Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Nascido de pais idosos",
+        "Atirado no fogo",
+        "Dado um reino e riquezas",
+        "Liderou seu povo para fora do Egito.",
+        "Construíram uma arca para salvar os crentes."
+      ],
+      "answer": "Nascido de pais idosos"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "As boas novas de um filho",
+        "A sarça ardente",
+        "O bezerro de ouro",
+        "A arca da aliança",
+        "O cajado da profecia"
+      ],
+      "answer": "As boas novas de um filho"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tornou-se um profeta, pertencente a uma linhagem de profetas.",
+        "Tornou-se um rei rico",
+        "Seu povo foi destruído por causa da descrença.",
+        "Ele foi salvo do incêndio.",
+        "Ele recebeu a capacidade de falar ainda bebê."
+      ],
+      "answer": "Tornou-se um profeta, pertencente a uma linhagem de profetas."
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

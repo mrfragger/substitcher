@@ -1,0 +1,61 @@
+{
+  "title": "O aliado inquebrantable nunha proba de ouro",
+  "intro": "Á sombra dun gran profeta, unha alma elocuente e de fe foi escollida para axudar nunha misión monumental. Esta figura mantívose firme cando as masas vacilaron, predicando contra unha transgresión flagrante que ameazaba o núcleo mesmo do monoteísmo. Cando o profeta volveu para presenciar o lapso do pobo, a defensa desta figura non foi de culpa, senón de deber e medo á división. Quen é este servo devoto de Alá?",
+  "clues": [
+    "Fun escollido por Alá para un deber sagrado xunto a outro, e o meu papel era de apoio e proclamación.",
+    "Concedéronseme claridade de fala e acompañei a un mensaxeiro para enfrontarme a un poderoso opresor.",
+    "Durante unha viaxe crítica, o mensaxeiro subiu só a unha montaña, deixándome a min vixiar da xente.",
+    "Na súa ausencia, o pobo elaborou unha imaxe de ouro, e eu supliqueilles que permanecesen fieis, pero rexeitaron o meu consello.",
+    "Cando o mensaxeiro volveu, cheo de ira e dor, apoderáronse de min, pero expliqueille que me vira dominado e que temía causar discordia entre eles.",
+    "Eu son o profeta que estivo xunto a Musa, o meu irmán, compartindo a súa carga e permanecendo firme contra a idolatría."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Harún",
+        "Profeta Moisés",
+        "Profeta Isa",
+        "Profeta Dawud",
+        "Profeta Zacarias"
+      ],
+      "answer": "Profeta Harún"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A xente adoraba un becerro de ouro a pesar das advertencias",
+        "A xente botoume a un lume abrasador",
+        "Tragoume un gran peixe",
+        "Fun encarcerado por cargos falsos",
+        "Fun exiliado da miña cidade por predicar"
+      ],
+      "answer": "A xente adoraba un becerro de ouro a pesar das advertencias"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O Becerro de Ouro",
+        "A Sarza Ardente",
+        "O bastón que se converteu nunha serpe",
+        "As táboas da alianza",
+        "A Arca da Alianza"
+      ],
+      "answer": "O Becerro de Ouro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fun exonerado e continuei a miña misión profética",
+        "Fun castigado polo pecado do pobo",
+        "Déronme unha nova nación para guiar",
+        "Fun levado vivo ao ceo",
+        "Fun nomeado gobernante dun reino"
+      ],
+      "answer": "Fun exonerado e continuei a miña misión profética"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

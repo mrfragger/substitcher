@@ -1,0 +1,61 @@
+{
+  "title": "Engainuaren Oihartzuna",
+  "intro": "Inbidia eztanda batek ahaidetasun lotura bat proban jarri zuen. Plan sekretu bat sortu zen, urteak iraungo zituen eta distantzia handiak zeharkatuko zituen gertaera-kate bat martxan jarriz. Talde honen ekintzek banantze eta atsekabe sakonera eraman zuten, baina istorioa ez zen hor amaitu. Engainu, damu eta jainkozko plan baten azken garapenaren istorioa da. Belaunaldiz belaunaldi oihartzuna izan zuten aukeren nortasuna argitu al dezakezu?",
+  "clues": [
+    "Gure arteko bati erakusten genion maitasunak jeloskortasunak jotzen gintuen.",
+    "Gure inbidiaz, elkarrekin konspiratu eta gure anaia putzu baten iluntasunera bota genuen.",
+    "Gure ekintza ezkutatzeko, odol faltsuz zikindutako jantzi bat eman genion gure aitari.",
+    "Urte batzuk geroago, gosete larri batek Egiptora bidaiatzera behartu gintuen hornigaien bila.",
+    "Han, gobernadore boteretsu baten aurrean agertu ginen, eta guk ez genuen jakin, guk bidegabeki egin genion anai-arreba bera zen.",
+    "Gure azken proba gure anaia gazteena, Binyamin, ekartzea izan zen, eta horrek gure iragana eta gure aita Ya'qub profeta zela agerian utzi zuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor gara gu?",
+      "options": [
+        "Adamen semeak (Qabil eta Habil)",
+        "Isa profetaren dizipuluak",
+        "Yusuf profetaren anaiak",
+        "Madyango jendea.",
+        "Fir'awneko magoak"
+      ],
+      "answer": "Yusuf profetaren anaiak"
+    },
+    "trial": {
+      "label": "Zein izan zen gure gaiztakeria nagusia?",
+      "options": [
+        "Urrezko txahal bat eraikitzea gurtzarako",
+        "Ala zuzenean ikusteko eskaera",
+        "Arka bat eraikitzeagatik profeta bati iseka egitea",
+        "Gure aita engainatzea eta gure anaia abandonatzea",
+        "Sabbatua haustea arrantza eginez"
+      ],
+      "answer": "Gure aita engainatzea eta gure anaia abandonatzea"
+    },
+    "location": {
+      "label": "Zein objektu izan zen gure engainuaren erdigunea?",
+      "options": [
+        "Inskripziozko tableta multzo bat",
+        "Odol faltsuz zikindutako alkandora bat",
+        "Urrezko txahal bat",
+        "Txori eder bat (Upupa)",
+        "Suge bihurtu zen makila"
+      ],
+      "answer": "Odol faltsuz zikindutako alkandora bat"
+    },
+    "outcome": {
+      "label": "Zein izan zen gure istorioaren azken emaitza?",
+      "options": [
+        "Uholde handi batek suntsitu gintuen",
+        "Tximino bihurtu ginen.",
+        "Lurrak irentsi gintuen",
+        "Barkatu eta gure familiarekin elkartu ginen",
+        "Itsasoan ito ginen."
+      ],
+      "answer": "Barkatu eta gure familiarekin elkartu ginen"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dispensator Sapientiae Aeternitatis",
+  "intro": "Persona venerabilis, ob profundas perspicacias et consilia sagacia nota, olim consilia praebuit quae generationes transcendunt. Verba eorum, in sacris scripturis scripta, homines ad gratiam, patientiam, et rectam agendi rationem ducunt.",
+  "clues": [
+    "Sapientia mihi, non prophetia, donatus est.",
+    "Filio meo de maximo peccato monui: socios cum Allah associare.",
+    "De pondere factorum, etiam de valore grani sinapis, docui, et quomodo Allah id producet.",
+    "Gratitudinem erga Deum et parentes exercui, labores educandi filium agnoscens.",
+    "Consilium meum comprehendit precationem instituere, bonum praecipere, malum prohibere, et patienter tolerare quae alicui accidat.",
+    "Caput in Alcorano ex meo nomine appellatur, doctrinas meas et lectiones quas communicavi continens."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Sulaiman",
+        "Propheta Dawud",
+        "Propheta Yahya",
+        "Luqman",
+        "Propheta Musa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Thema Centrale",
+      "options": [
+        "Aedificatio Kaabae",
+        "Mare scindens",
+        "Sapientiam impartens",
+        "Superstes inundationi",
+        "A pisce deglutiri"
+      ],
+      "answer": "Sapientiam impartens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Mons Tur",
+        "Filius eius",
+        "Vitulus Aureus"
+      ],
+      "answer": "Filius eius"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populus eius deletus est",
+        "Sapientia eius dux facta est",
+        "Regnum ei concessum est",
+        "Ad caelum evectus est",
+        "Ei divitiae immensae donatae sunt"
+      ],
+      "answer": "Sapientia eius dux facta est"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

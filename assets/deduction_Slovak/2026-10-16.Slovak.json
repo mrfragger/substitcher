@@ -1,0 +1,61 @@
+{
+  "title": "Komunita, ktorá ignorovala Deň odpočinku",
+  "intro": "Vkročte do pobrežnej osady, kde božský príkaz vyhradil jeden deň na uctievanie a zdržanlivosť. Skupina v tejto komunite sa rozhodla otestovať hranice tohto príkazu prefíkaným plánom, ktorý viedol k premene, ktorá sa ozývala vekami. Kto boli tieto duše a čo sa s nimi stalo?",
+  "clues": [
+    "Bývali sme blízko pobrežia, kde nám more poskytovalo živobytie.",
+    "Bolo nám prikázané ctiť si jeden deň v týždni a odložiť ho od svetských záujmov.",
+    "V ten deň k nám priplávali ryby vo veľkom množstve, akoby nás pokúšali porušiť príkaz.",
+    "Vymysleli sme plán, ako chytiť ryby do pasce v predvečer posvätného dňa a potom ich pozbierať, keď uplynie.",
+    "Keď niektorí z nás varovali pred týmto podvodom, ignorovali sme ich radu a vytrvali sme.",
+    "Za náš priestupok sme boli premenení na opice, opovrhovaní a odmietnutí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia Sabatu",
+        "Ľudia z priekopy",
+        "Ľudia z lesa",
+        "Ľudia zo záhrady",
+        "Ľudia slona"
+      ],
+      "answer": "Ľudia Sabatu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Rybolov v sobotu",
+        "Stavba vznešenej veže",
+        "Zabitie posvätnej ťavy",
+        "Popieranie proroka, ktorý im bol poslaný",
+        "Porušenie obchodných váh"
+      ],
+      "answer": "Rybolov v sobotu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "More a jeho ryby",
+        "Oheň, ktorý vychladol",
+        "Palica, ktorá sa premenila na hada",
+        "Archa spásy",
+        "Kamenné tabuľky"
+      ],
+      "answer": "More a jeho ryby"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Premenené na opice",
+        "Pohltený zemou",
+        "Zničené prudkým vetrom",
+        "Utopený v mori",
+        "Zasiahnutý spŕškou kameňov"
+      ],
+      "answer": "Premenené na opice"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

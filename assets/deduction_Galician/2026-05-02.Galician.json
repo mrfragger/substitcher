@@ -1,0 +1,61 @@
+{
+  "title": "O portador dunha mensaxe sepulcral",
+  "intro": "Unha alma xusta foi enviada para guiar a un pobo perdido en transgresións sen precedentes. Este mensaxeiro mantívose firme, dando unha clara advertencia contra unha corrupción que desafiaba a orde natural. A pesar das ferventes súplicas, a comunidade afundiuse na escuridade, preparando o escenario para un xuízo divino como ningún outro. Podes identificar este servo inquebrantable de Alá?",
+  "clues": [
+    "Eu era parente doutro gran profeta e emigrei con el, deixando atrás a nosa terra natal.",
+    "Fun enviado a un pobo cuxa maldade era única, unha transgresión que ningunha creación cometera antes deles.",
+    "A miña propia casa estaba dividida; un membro da miña familia próxima púxose do lado dos incrédulos en segredo.",
+    "Anxos, en forma de fermosos mozos, viñeron á miña casa como hóspedes, causándome unha gran angustia pola súa seguridade.",
+    "Ofrecín as miñas propias fillas en matrimonio ao meu pobo nun intento desesperado de apartalos dos seus actos vergoñentos.",
+    "O meu pobo foi destruído por un berro terrible e unha choiva de pedras de arxila cocida, mentres que eu e a miña familia, agás un, salvamosnos marchando na escuridade da noite."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Shu'ayb",
+        "Profeta Salih",
+        "Profeta Lut",
+        "Profeta Hud",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Cal foi a miña proba principal?",
+      "options": [
+        "Convencendo a un rei tirano de que non me queime no lume.",
+        "Lidiar cos celos dos meus irmáns e ser botado a un pozo.",
+        "Enfrontarse a un pobo involucrado nunha inmoralidade sexual sen precedentes.",
+        "Liderando ao meu pobo para sacalo da escravitude dun poderoso faraón.",
+        "Construíndo un barco enorme para salvar os crentes dun gran diluvio."
+      ],
+      "answer": "Enfrontarse a un pobo involucrado nunha inmoralidade sexual sen precedentes."
+    },
+    "location": {
+      "label": "Cal foi a localización da miña misión?",
+      "options": [
+        "A cidade de Madyan",
+        "A antiga cidade de Iram",
+        "A terra de Exipto baixo o faraón",
+        "As cidades de Sodoma e Gomorra",
+        "A cidade de Nínive"
+      ],
+      "answer": "As cidades de Sodoma e Gomorra"
+    },
+    "outcome": {
+      "label": "Cal foi o resultado final?",
+      "options": [
+        "As cidades foron derrubadas e cubertas con pedras de arxila cocida.",
+        "O meu pobo foi tragado pola terra xunto co seu rico líder.",
+        "O meu pobo foi destruído por un vento violento durante sete noites e oito días.",
+        "O meu pobo foi aflixido por pragas como lagostas, piollos e ras.",
+        "Un peixe xigante tragoume despois de que abandonase a miña misión."
+      ],
+      "answer": "As cidades foron derrubadas e cubertas con pedras de arxila cocida."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

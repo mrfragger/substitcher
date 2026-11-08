@@ -1,0 +1,61 @@
+{
+  "title": "Baagi ba Ditshingwana Tse Pedi",
+  "intro": "Mo lefatsheng le masego a neng a elela ka bontsi mo go lone, setšhaba sengwe se kile sa bo se itumelela ditshingwana tse pedi tse dintlentle tse dintsintsi. Matshelo a bone e ne e le bosupi jwa kamogelo ya bomodimo, le fa go ntse jalo kgang ya bone e ne ya fetoga fa tebogo e ne e fokotsega, ya felela ka phetogo e e neng e tla nna sesupo se se nnelang ruri mo go botlhe ba ba akanyang.",
+  "clues": [
+    "Re ne re le batho ba ba segofaditsweng ka lefatshe la bonolo le letlotlo.",
+    "Morena wa rona o ne a re naya ditshingwana tse pedi tse dintle, tse di tlhogang e bile di na le maungo mo matlhakoreng otlhe.",
+    "Re ne re laetswe go leboga, mme re ne ra tlhopha go tlhoka tebogo mme ra fapoga.",
+    "Letamo le legolo le ne la thibela metsi a a neng a naya lefatshe la rona botshelo.",
+    "Fa re ne re ganelela mo tirong ya rona e e sa siamang, letamo le ne la thunya mme metsi a morwalela a ne a gogola.",
+    "Ditshingwana tsa rona tse di kileng tsa bo di le matlhatsa di ne tsa emisediwa ka maungo a a bogalaka, di- tamarisk le ditlhare di le mmalwa tsa lote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Saba",
+        "Batho ba Thamude",
+        "Batho ba Madyan",
+        "Batsala ba Logaga",
+        "Batho ba Tlou"
+      ],
+      "answer": "Batho ba Saba"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Phefo e e bogale masigo a le supa",
+        "Pula ya matlapa go tswa kwa loaping",
+        "Morwalela o o senyang o o tswang mo letamong le le thubegang",
+        "Go goa go go kwa godimo go tswa kwa loaping",
+        "Go nwela mo lewatleng"
+      ],
+      "answer": "Morwalela o o senyang o o tswang mo letamong le le thubegang"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Letamo le legolo la Ma'rib",
+        "Mokgatšha wa Wadi al-Qura",
+        "Tshimo ya Irame",
+        "Sediba sa Sazame",
+        "Thaba ya Sinai"
+      ],
+      "answer": "Letamo le legolo la Ma'rib"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ditshingwana tsa rona di ne tsa emisediwa ka maungo a a botlhoko le ditlhare tse di sesane",
+        "Re meditswe ke lefatshe ka thoromo ya lefatshe",
+        "Re ne ra fetolwa go nna ditshwene le dikolobe",
+        "Re ne ra nwediwa ke morwalela o mogolo",
+        "Re sentswe ke pula ya matlapa"
+      ],
+      "answer": "Ditshingwana tsa rona di ne tsa emisediwa ka maungo a a botlhoko le ditlhare tse di sesane"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

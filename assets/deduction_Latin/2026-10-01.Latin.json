@@ -1,0 +1,61 @@
+{
+  "title": "In Esse Locutus",
+  "intro": "Figura ex historia sacra emergit, miracula portans quae ordinem naturalem spreverunt. Haec anima per unum divinum mandatum advenit, parentem a gravibus accusationibus defendit, et ex hoc mundo migravit antequam vincula terrena eam ligare possent. Fabula ab humilibus cunabulis ad superos extenditur. Quis hic esse potest?",
+  "clues": [
+    "Missus sum in signum et misericordiam ab Allah filiis Israel.",
+    "Adventus meus nulli antea dissimilis erat — divino verbo \"Esto!\" sine patre terreno ortus sum.",
+    "Parentes mei crudeli calumniae affectus sunt, sed sacra revelatio descendit ut innocentiam eorum declararet et statum eorum extolleret.",
+    "Infans recens natus, eos qui me circumdabant stupefaciebam ab cunis clare loquendo ut nomen parentum meorum purgarem.",
+    "Allah permittente, ex luto inani vitam formavi, caeco visum reddidi, et leprosum tactu meo sanavi.",
+    "In caelos evectus sum antequam malum me tangere posset, et in hunc mundum revertar antequam Hora ultima adveniat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Isaias",
+        "Propheta Musa",
+        "Propheta Ibrahim",
+        "Propheta Iosue",
+        "Propheta Dawud"
+      ],
+      "answer": "Propheta Isaias"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "A cunis infantis loquens",
+        "Superstes in ventre piscis magni",
+        "In ignem ardentem coniectus",
+        "Arcam magnam ante diluvium aedificans",
+        "Contra magiam aulae Pharaonis"
+      ],
+      "answer": "A cunis infantis loquens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Evangelium (Injeel)",
+        "Tawrah (Torah)",
+        "Zabur (Psalmi)",
+        "Suhuf (cartis Ibrahim)",
+        "Baculus qui mare scindit"
+      ],
+      "answer": "Evangelium (Injeel)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ad caelos elevatus, ante diem iudicii redibit",
+        "Eduxit filios Israel ex Aegypto",
+        "Rex factus est cum dominio super jinn, homines et aves",
+        "Diluvium magnum cum fidelibus supervixit",
+        "Domum sacram Meccae aedificavit"
+      ],
+      "answer": "Ad caelos elevatus, ante diem iudicii redibit"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

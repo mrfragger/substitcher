@@ -1,0 +1,61 @@
+{
+  "title": "Miasto, które wierzyło w czas",
+  "intro": "W annałach Bożego miłosierdzia jest wspólnota, której punktem zwrotnym był moment zbiorowego uświadomienia. Wkrótce odkryjesz jej historię – opowieść o ostrzeżeniu, pokucie i ułaskawieniu, które odróżniało ją od losu innych narodów.",
+  "clues": [
+    "Byliśmy ludem, do którego został wysłany posłaniec, lecz na początku odwróciliśmy się od jego wezwania.",
+    "Kiedy oznaki zbliżającej się kary stały się wyraźne, zrozumieliśmy prawdziwość jego ostrzeżenia.",
+    "Zwróciliśmy się do naszego Pana ze szczerą skruchą i nasza wiara została przyjęta.",
+    "Kara, która została na nas nałożona, została cofnięta ze względu na naszą wiarę.",
+    "Nasza historia jest cytowana jako wyjątek wśród miast, które uwierzyły po zobaczeniu kary.",
+    "Byliśmy ludem proroka, którego połknął wieloryb, a mimo to zostaliśmy uratowani przed zagładą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie Yunus",
+        "Ludzie Nuh",
+        "Ludzie Hud",
+        "Ludzie Salih",
+        "Ludzie Lutu"
+      ],
+      "answer": "Ludzie Yunus"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Niszczycielska powódź",
+        "Silna wichura",
+        "Zbliżająca się kara hańby, której udało się uniknąć",
+        "Ziemia ich pochłania",
+        "Deszcz kamieni"
+      ],
+      "answer": "Zbliżająca się kara hańby, której udało się uniknąć"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Wielbłądzica",
+        "Miasto stu tysięcy",
+        "Pracownicy Musy",
+        "Skarb Karuna"
+      ],
+      "answer": "Miasto stu tysięcy"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zostały całkowicie zniszczone",
+        "Przez jakiś czas dawano im przyjemność",
+        "Zostali przemienieni w małpy",
+        "Utonęli",
+        "Zostali pochłonięci przez ziemię"
+      ],
+      "answer": "Przez jakiś czas dawano im przyjemność"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umklami Wokuzikhukhumeza",
+  "intro": "Ezweni lasendulo elalibuswa amandla aphikisayo, umuntu obalulekile wayenesikhundla sethonya. Lo mphefumulo wawubalulekile emacebweni amakhulu ombusi, ufaka isandla ekubuseni kwawo okucindezelayo futhi uphonsela inselelo isigijimi saphezulu. Ifa labo lihambisana nokuphishekela amandla ezwe kanye nokuphika iqiniso.",
+  "clues": [
+    "Ngakhonza umbusi onamandla owayecindezela isizwe izizukulwane ngezizukulwane.",
+    "Igama lami livame ukukhulunywa ngalo eNcwadini Engcwele kanye nalo mholi onamandla.",
+    "Nganikwa umsebenzi omkhulu wokwakha, isakhiwo eside esasihloselwe ukufinyelela ezulwini.",
+    "Ngiyeluleka inkosi yami ukuba ibulale amadodana abantwana bakwa-Israyeli futhi isindise amadodakazi abo.",
+    "Ngangihileleke emacebweni nasemaqenjini okulwa nesithunywa sika-Allah esinamandla.",
+    "Ukuphela kwami, kanye nenkosi yami nebutho layo, kwafika emanzini olwandle olukhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "uNimrod",
+        "U-Abraha",
+        "UGoliyati",
+        "I-Iblis",
+        "UHamani"
+      ],
+      "answer": "UHamani"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlolwa ngengcebo enkulu",
+        "Ukuhola ibutho ngokumelene nendlu engcwele",
+        "Ukwakha umbhoshongo ukuze kufinyelelwe kuNkulunkulu",
+        "Ukuphonswa emlilweni ngenxa yenkolelo yabo",
+        "Ukuphonswa emthonjeni yizingane zakubo"
+      ],
+      "answer": "Ukwakha umbhoshongo ukuze kufinyelelwe kuNkulunkulu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "UMphongolo",
+        "Abasebenzi",
+        "Intaba",
+        "Umbhoshongo",
+        "Umkhomo"
+      ],
+      "answer": "Umbhoshongo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukunikezwa ukuhlakanipha okukhulu",
+        "Ukuba umprofethi",
+        "Ukugwinywa umhlaba",
+        "Ukunikezwa umbuso",
+        "Ukuminza olwandle"
+      ],
+      "answer": "Ukuminza olwandle"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

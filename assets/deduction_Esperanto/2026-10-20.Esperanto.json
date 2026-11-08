@@ -1,0 +1,61 @@
+{
+  "title": "La Arkitekto de Falsa Ambicio",
+  "intro": "Iam granda aŭtoritatulo servis unu el la plej konataj tiranoj de la historio en antikva Egiptio. Ĉi tiu individuo ricevis aŭdacan ordonon — konstrui strukturon celitan spiti la ĉielon. Ilia rakonto staras en la Korano kiel frapa leciono pri kiel blinda obeo al aroganteco kondukas nur al ruino.",
+  "clues": [
+    "Mi servis en la kortegoj de potenca reganto, kiu pretendis esti dieca super la teroj.",
+    "Mi tenis altan ministran postenon, konsilante la plej arogantan tiranon de mia tempo.",
+    "Mia reganto estis konsumita de defiado de la Dio de Moseo, kiun ili rifuzis agnoski.",
+    "Mi ricevis ordonon konstrui turon el fajrobakitaj brikoj, por ke mia reganto povu supreniri al la ĉielo.",
+    "La turo neniam atingis la ĉielon, kaj mia sklaveco al aroganteco gajnis al mi eternan malhonoron.",
+    "Mi pereis kun tiu, kiun mi sekvis, kaj mia nomo fariĝis daŭra averto kontraŭ tiuj, kiuj ebligas tiranojn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Haman",
+        "Azar (patro de Ibrahim)",
+        "Ilias (profeto)",
+        "Dhu al-Kifl",
+        "Harut (unu el la du anĝeloj en Babilono)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Ordonita konstrui altegan strukturon por atingi la ĉielon",
+        "Petita interpreti sonĝon senditan de la diaĵo",
+        "Ĵetita en flamantan fajron kiel testo de fido",
+        "Devigita elekti inter trono kaj vero",
+        "Defiita en konkurso de sorĉado"
+      ],
+      "answer": "Ordonita konstrui altegan strukturon por atingi la ĉielon"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Turo el fajrobakitaj brikoj",
+        "Bastono kiu transformiĝis en serpenton",
+        "Ŝipo velanta tra granda inundo",
+        "Ĝardeno ĉirkaŭbarita de altaj muroj",
+        "Trono ornamita per rubenoj kaj oro"
+      ],
+      "answer": "Turo el fajrobakitaj brikoj"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Dronis apud la subpremanto en la maro",
+        "Fariĝis potenca monarko de vastaj landoj",
+        "Eskapis flamantan fajron senvunde",
+        "Konstruis prosperan regnon de saĝo",
+        "Reunuiĝis kun familio post jaroj da ekzilo"
+      ],
+      "answer": "Dronis apud la subpremanto en la maro"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

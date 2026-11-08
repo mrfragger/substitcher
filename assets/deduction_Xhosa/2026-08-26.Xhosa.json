@@ -1,0 +1,61 @@
+{
+  "title": "Umona Owawudlayo",
+  "intro": "Ibali elidala kunalo naliphi na ubukumkani okanye isibhalo—intlekele yokuqala yomntu ezelwe ngumona. Omnye umntu, omdala kubantwana ababini abazelwe ngabazali bokuqala, wabukela ngomsindo njengoko umntakwabo omncinci efumana uncedo olwaliwayo. Okwalandela yayikukukhetha okubi kakhulu, eshiya igazi lokuqala elakha lachithwa emhlabeni. Ungatyhila ubuwena, uvavanyo, kunye nokuzisola okukrakra?",
+  "clues": [
+    "Ndazalwa ngabantu bokuqala ukuhamba emhlabeni.",
+    "Ndakha ndenza umnikelo kuAllah, kodwa awuzange wamkelwe kum.",
+    "Umnikelo womntakwethu wam wamkelwa, ngelixa owam walahlwa—into endandingenakuyinyamezela.",
+    "Ndasongela umnakwethu ngokutshabalalisa.",
+    "Ndaba ngowokuqala ukubulala emhlabeni, ndibulala umntakwethu.",
+    "UAllah wathumela isidalwa somhlaba—intaka emnyama eyayimba emhlabeni—ukuze indifundise indlela yokufihla into endiyenzileyo, ndaza ndasala ndizisola kuphela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UQabil (uKayin)",
+        "UHabil (uAbheli)",
+        "Umprofeti uYaqub",
+        "Umprofeti uMusa",
+        "Umprofeti uAdam"
+      ],
+      "answer": "UQabil (uKayin)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umnikelo uyaliwa nguAllah",
+        "Iphoswe emlilweni omkhulu",
+        "Washiywa njengosana emlanjeni",
+        "Uvavanywe ngobukumkani obukhulu",
+        "Umyalelo wokuba umntu anikele ngonyana wakhe"
+      ],
+      "answer": "Umnikelo uyaliwa nguAllah"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Igwababa elithunyelwe nguAllah",
+        "Ithole legolide",
+        "Ityeya phezu kwentaba",
+        "Isihlahla esitshayo",
+        "Inkamela eyimazi eqingqwe eliweni"
+      ],
+      "answer": "Igwababa elithunyelwe nguAllah"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ndazaliswa kukuzisola ndaza ndaphakathi kwabo balahlekileyo",
+        "Iginywe emhlabeni kunye nobutyebi",
+        "Waba ngumthunywa ohloniphekileyo ka-Allah",
+        "Wangena eParadesi ngenceba kaThixo",
+        "Walawula ubukumkani obungenakuthelekiswa nanto"
+      ],
+      "answer": "Ndazaliswa kukuzisola ndaza ndaphakathi kwabo balahlekileyo"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

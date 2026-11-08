@@ -1,0 +1,61 @@
+{
+  "title": "Architecte ya Ambition ya lokuta",
+  "intro": "Mokolo moko moto moko ya bokonzi monene azalaki kosalela moko ya bakonzi ya bokonzi oyo bayebani mingi na lisoló ya bato na Ezipito ya kala. Moto oyo apesamaki mokumba ya etinda ya mpiko — kotonga structure oyo elingaki koboya lola. Lisolo na bango etelemi na Coran lokola liteya ya kobenda likebi na ntina ya lolenge nini botosi ya miso ekufá na lolendo ememaka kaka na kobebisama.",
+  "clues": [
+    "Nasalaki na batribinale ya mokonzi moko ya nguya oyo azalaki koloba ete azali bonzambe likoló ya mikili yango.",
+    "Nazalaki na ebonga monene ya ministre, kopesaka toli na mobulu oyo azalaki na lolendo koleka na ntango na ngai.",
+    "Mokonzi na ngai asilaki kotɛmɛla Nzambe ya Moize, oyo baboyaki kondima.",
+    "Bapesaki ngai etinda ya kotonga linɔ́ngi ya babriki oyo batumbaki na mɔ́tɔ mpo ete mokonzi na ngai amata na likoló.",
+    "Linɔ́ngi yango ekómaki na likoló ata mokolo moko te, mpe bowumbu na ngai epai ya lolendo epesaki ngai nsɔni ya seko.",
+    "Nakufaki elongo na oyo nalandaki, mpe nkombo na ngai ekómaki likebisi ya koumela mpo na bato oyo bapesaka nzela na bakonzi ya mabe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Hamane",
+        "Azar (tata ya Ibrahim) .",
+        "Illyas (mosakoli moko) .",
+        "Dhu al-Kifl azali moto ya mayele",
+        "Harut (moko ya baanzelu mibale na Babilone) ."
+      ],
+      "answer": "Hamane"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bapesaki mitindo ete bátonga ndako molai mpo na kokóma na likoló",
+        "Basengaki kolimbola ndoto oyo batindaki uta na bonzambe",
+        "Babwakami na mɔ́tɔ oyo ezali kopela lokola komekama ya kondima",
+        "Kotindama na makasi mpo na kopona kati na kiti ya bokonzi mpe solo",
+        "Bamekaki ye na momekano ya bondɔki"
+      ],
+      "answer": "Bapesaki mitindo ete bátonga ndako molai mpo na kokóma na likoló"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Linɔ́ngi ya babriki oyo batumbaki na mɔtɔ",
+        "Nzete oyo ebongwanaki nyoka",
+        "Masuwa oyo ezali koleka na mpela monene",
+        "Elanga oyo ezingami na bifelo milai",
+        "Kiti ya bokonzi oyo ekembisami na rubi mpe wolo"
+      ],
+      "answer": "Linɔ́ngi ya babriki oyo batumbaki na mɔtɔ"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bazindaki pembeni ya monyokoli na mbu",
+        "Akómaki mokonzi ya nguya ya mikili minene",
+        "Akimaki mɔ́tɔ oyo ezalaki kopela mpe azokaki te",
+        "Atongaki bokonzi ya mayele oyo ezalaki na bomengo",
+        "Akutanaki lisusu na libota nsima ya bambula mingi ya boombo"
+      ],
+      "answer": "Bazindaki pembeni ya monyokoli na mbu"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

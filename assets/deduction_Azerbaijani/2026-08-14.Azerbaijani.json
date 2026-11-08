@@ -1,0 +1,61 @@
+{
+  "title": "Lənətlənmiş Əllər",
+  "intro": "Siz qədim Məkkənin dolama küçələrində dayanırsınız, burada nüfuz və sərvət sahibi bir ruh bir vaxtlar həqiqət çağırışından üz döndərmişdi. Bu şəxsiyyətin hekayəsi qan bağlarının qürur zəncirlərini dəf edə bilməyəcəyini açıq şəkildə xatırladır. Adı gözləyən atəşlə əks-səda verən bu kimdir?",
+  "clues": [
+    "Məkkə küçələrində həqiqəti görməməyimə mane olan bir qürurla gəzirdim, baxmayaraq ki, elçi öz qanımdan idi.",
+    "Mal-mülküm çox böyük idi, amma onlar qalxan yox, lənətə çevrildi.",
+    "Rəhbərlik kitabı mənim məhvimdən bəhs edir, əllərimin və bədənimin məhv olacağını bildirir.",
+    "Həyat yoldaşım da mənim düşmənçilik kampaniyama qoşuldu, Allaha çağıranın yoluna tikanlar səpmək üçün tikanlar topladı.",
+    "Qiyamət günü mən alovlu bir oda atılacağam və həyat yoldaşımın boynunda xurma lifindən bir ip olacaq.",
+    "Mən “alov atası” mənasını verən bir adla tanınıram - bu ad mənim əbədi məskənimi xəbər verir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əbu Ləhəb",
+        "Əbu Cəhil",
+        "Əbu Talib",
+        "Əbu Süfyan",
+        "Əl-Valid ibn əl-Muğira"
+      ],
+      "answer": "Əbu Ləhəb"
+    },
+    "trial": {
+      "label": "Əsas Sınaq və ya Hadisə",
+      "options": [
+        "Peyğəmbərə qarşı çıxdı və Quranda lənətləndi",
+        "Kəbəni dağıtmaq üçün bir orduya rəhbərlik etdi",
+        "Peyğəmbəri daşlayaraq öldürməyə cəhd etdi",
+        "Ayın bölünməsinə inanmaqdan imtina etdi",
+        "Göylərə çatmaq üçün bir qüllə tikdi"
+      ],
+      "answer": "Peyğəmbərə qarşı çıxdı və Quranda lənətləndi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Cəhənnəmin alovlu odu",
+        "Musanın əsası",
+        "Nuhun gəmisi",
+        "Zəmzəm Quyusu",
+        "Qızıl buzov"
+      ],
+      "answer": "Cəhənnəmin alovlu odu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "O, alovlu oda girəcək və var-dövləti ona heç bir fayda verməyəcək.",
+        "O, tövbə etdi və iman gətirdi",
+        "O, imtina etdikdən sonra bağışlandı",
+        "O, şəhid kimi öldü",
+        "O, göylərə qaldırıldı"
+      ],
+      "answer": "O, alovlu oda girəcək və var-dövləti ona heç bir fayda verməyəcək."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muqaddas xonadagi sog'inch",
+  "intro": "Siz tinch ma'badga qadam qo'yasiz va Allohning sadoqatli bandasini ibodatda turgan holda ko'rasiz. Ularning qo'llari ko'tarilgan, ko'zlari ko'tarilgan va qalblarida umr bo'yi davom etgan sog'inch bor. Allohga bo'lgan ishonchi hech qachon so'nmagan bu sabrli qalb kim?",
+  "clues": [
+    "Men uzoq yillar davomida ibodat va ibodatda bo'ldim, imonimni mustahkamlagan mo''jizalarga guvoh bo'ldim.",
+    "Menga muqaddas joyda muborak yosh qalbga g'amxo'rlik qilish vazifasi yuklatilgan edi.",
+    "Qarigan sari, eng katta qayg'uim farzandim yo'qligi edi, chunki xotinim bepusht edi va ikkalamiz ham qarib qolgan edik.",
+    "Men Parvardigorimdan o'z oilamdan voris, payg'ambarlik merosini davom ettiradigan bir kishini so'rab duo qildim.",
+    "Men namoz o'qiladigan joyda turganimda, farishtalar meni chaqirib: \"Alloh senga xushxabar bermoqda\", dedilar. Shunda men qo'rquv va hayratga to'ldim.",
+    "Menga Yahyo ismli o'g'lim bo'lishi aytildi, bu ism ilgari hech kimga berilmagan edi va men uch kun davomida odamlar bilan gaplashmasligimni aytdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Zakariyo payg'ambar",
+        "Yahyo payg'ambar",
+        "Payg'ambar Iso",
+        "Payg'ambar Dovud",
+        "Luqmoni donishmand"
+      ],
+      "answer": "Zakariyo payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Solih merosxo'rni orzu qilish bilan birga bepushtlik va qarilik",
+        "Yonayotgan olovga tashlanmoqda",
+        "Katta baliq tomonidan yutib yuborilmoqda",
+        "Zolimga qirollikni yo'qotish",
+        "O'z vatanidan surgun qilinish"
+      ],
+      "answer": "Solih merosxo'rni orzu qilish bilan birga bepushtlik va qarilik"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Namoz o'rni (mihrab)",
+        "Buyuk kema (Ark)",
+        "Yonayotgan buta",
+        "Ilonga aylangan tayoq",
+        "Allohning urg'ochi tuyasi"
+      ],
+      "answer": "Namoz o'rni (mihrab)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Solih o'g'il berdi va uch kunlik sukutdan keyin yana gapirdi",
+        "Ishonchsizlik tufayli suv toshqini natijasida vayron bo'lgan",
+        "Keng qirollik va shamol ustidan nazorat berilgan",
+        "Baliq qornidan qutqarilgan",
+        "Yer tomonidan yutib yuborilgan"
+      ],
+      "answer": "Solih o'g'il berdi va uch kunlik sukutdan keyin yana gapirdi"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

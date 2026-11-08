@@ -1,0 +1,61 @@
+{
+  "title": "Az első irigységből kiontott vér",
+  "intro": "Képzeld el az emberiség legkorábbi napjait, amikor az egész világ egy család volt. Látod, ahogy két áldozatot tesznek Allah elé – az egyiket elfogadják, a másikat elutasítják. Az irigység gyökeret ver a szívben, és a fenyegetés dühösen suttogva hangzik el. Ami ezután következik, örök nyomot hagy a történelemben, és még egy kismadár is tanítóvá válik.",
+  "clues": [
+    "A földkerekség legelső családjához tartozom.",
+    "Áldozatot mutattam be Allahnak, de az enyémet nem fogadták el, míg a másik áldozatot igen.",
+    "Irigységből hangot adtam a hangomnak, és azzal fenyegetőztem, hogy elvesek valakit.",
+    "Én követtem el az első igazságtalan gyilkosságot a földön.",
+    "Láttam egy varjút, ami a földet kapargatta, hogy megmutassa, hogyan rejtsek el egy holttestet.",
+    "Tele voltam megbánással, és a vesztesek között lettem azért, amit a kezeim tettek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Qabil (Káin), Ádám fia",
+        "Samiri, a borjú készítője",
+        "Namrud, a zsarnok, aki vitatkozott Ibrahimmal",
+        "Azar, a bálványok készítője",
+        "Kán, Núh megfulladt fia"
+      ],
+      "answer": "Qabil (Káin), Ádám fia"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy testvér meggyilkolása irigységből, miután elutasították a felajánlást",
+        "Magas tornyot építve, hogy az eget nézhesd",
+        "Aranyborjú készítése imádat céljából",
+        "Mennyből terített asztalt követelve",
+        "Elefántokból álló sereg vezetése a Kába elpusztítására"
+      ],
+      "answer": "Egy testvér meggyilkolása irigységből, miután elutasították a felajánlást"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy varjú kaparja a földet, hogy megmutassa a temetkezést",
+        "Egy aranyborjú, amely bőgött",
+        "Egy hatalmas bárka az özönvíz felett",
+        "Egy bot, ami kígyóvá változott",
+        "Mennyei ételekkel megterített asztal"
+      ],
+      "answer": "Egy varjú kaparja a földet, hogy megmutassa a temetkezést"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Bűnbánóvá vált, és a vesztesek között volt",
+        "Elfulladt a nagy árvízben",
+        "Elnyelte a föld kincsekkel",
+        "Hét évig leprás volt",
+        "Királyságot kapott, amely uralma alá helyezte a szeleket"
+      ],
+      "answer": "Bűnbánóvá vált, és a vesztesek között volt"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

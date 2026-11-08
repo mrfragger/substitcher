@@ -1,0 +1,61 @@
+{
+  "title": "aliance, která slibovala zkázu",
+  "intro": "Představte si, že jste ukryti pod stejnou střechou jako zjevení, ale přesto si zvolíte jinou loajalitu. Tato postava žila v blízké blízkosti pravdy a proroctví, ale obrátila se k těm, kteří je odmítli. Jejich příběh je vážným varováním, že pouhá blízkost ke spravedlnosti nemůže zachránit duši, která zradí důvěru.",
+  "clues": [
+    "Žil jsem v domácnosti proroka, kterého si vyvolil Alláh.",
+    "Znala jsem pravdu, kterou kázal můj manžel, přesto jsem jí doopravdy nevěřila.",
+    "Zradil jsem jeho důvěru tím, že jsem se postavil na stranu jeho odmítajících lidí a pomáhal jim proti němu.",
+    "Jsem zmíněn spolu s manželkou jiného proroka, která také zradila, jako příklad pro nevěřící.",
+    "Můj příběh je vyprávěn v súře At-Tahrím jako varování, že příbuzenství s proroky neposkytuje žádnou ochranu.",
+    "Zahynul jsem s nespravedlivci, když Alláh zničil lid Lutův a zůstal jsem s těmi, kdož zůstali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Manželka proroka Luta",
+        "Asiya, manželka faraona",
+        "Imranova manželka",
+        "Sára, manželka proroka Ibráhíma",
+        "Manželka Al-Azize"
+      ],
+      "answer": "Manželka proroka Luta"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Zradil proroka tím, že proti němu pomáhal nevěřícím",
+        "Hoďte dítě v košíku do řeky, abyste ho zachránili",
+        "Požadoval, aby bylo během prorokovy nepřítomnosti postaveno zlaté tele",
+        "Obvinil spravedlivého ministra z provinění a uvěznil ho",
+        "Vedl armádu slonů, aby zničili Kaabu"
+      ],
+      "answer": "Zradil proroka tím, že proti němu pomáhal nevěřícím"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zvrácená města Lutova lidu",
+        "Archa postavená na božský příkaz",
+        "Oheň Ibrahimovi ochladil",
+        "Jeskyně útočiště pro spící mladíky",
+        "Řeka, kde byl nalezen košík s dítětem"
+      ],
+      "answer": "Zvrácená města Lutova lidu"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zahynul s nevěřícími navzdory sňatku s prorokem",
+        "Byl spasen s věřícími a v pokoji vstoupil do ráje",
+        "Byl proměněn v sloup jako znamení pro pozdější generace",
+        "Byl pohlcen zemí s nesmírnými poklady",
+        "Ve stáří se mu narodilo zázračné dítě"
+      ],
+      "answer": "Zahynul s nevěřícími navzdory sňatku s prorokem"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

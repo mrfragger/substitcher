@@ -1,0 +1,61 @@
+{
+  "title": "Nizo urug'i",
+  "intro": "Dunyo keng tarqalgan mojarolarni bilmasdan oldin, imon va itoatkorlikning chuqur sinovi boshlandi. Ushbu hikoya kelajak avlodlar uchun namuna bo'lgan shaxsning tanlovlarini o'rganadi. Katta hasad va uning halokatli oqibatlari bilan kurashayotgan qalb haqidagi hikoyani ochishga tayyorlaning.",
+  "clues": [
+    "Men yer yuzida yurgan birinchi avlodlar qatorida edim, eng birinchi inson juftligining farzandi edim.",
+    "Akam bilan menga samimiyligimiz sinovi sifatida Allohga qurbonlik qilish buyurilgan edi.",
+    "Mening qurbonligim qabul qilinmadi, akamniki esa qabul qilindi, bu esa qalbimni dahshatli tuyg'uga to'ldirdi.",
+    "Rad etishning achchiqligidan akamga tahdid soladigan so'zlarni aytdim.",
+    "Akam donolik va taqvo bilan javob berib, menga Allohning adolatini va Undan qo'rqishni eslatdi.",
+    "Akamning yumshoq so'zlari va kechirishga tayyorligiga qaramay, men bir jonni qurbon qildim va yutqazganlardan biriga aylandim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Odam",
+        "Iblis",
+        "Nuh payg'ambar",
+        "Qobil (Qobil)",
+        "Fir'avn"
+      ],
+      "answer": "Qobil (Qobil)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buyuk toshqin",
+        "Dengizning ikkiga bo'linishi",
+        "Ka'ba binosi",
+        "Qurbonliklarni keltirish",
+        "Bog'dagi vasvasa"
+      ],
+      "answer": "Qurbonliklarni keltirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Safo tog'i",
+        "Qurbonlik",
+        "Yonayotgan buta"
+      ],
+      "answer": "Qurbonlik"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Xabarchi bo'ldi",
+        "Cho'kib ketgan",
+        "Buyuk shohlik qurdi",
+        "Afsuslanishning namunasiga aylandi",
+        "Unga ulkan boylik berilgan"
+      ],
+      "answer": "Afsuslanishning namunasiga aylandi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

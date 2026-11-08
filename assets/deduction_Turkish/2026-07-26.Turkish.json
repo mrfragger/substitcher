@@ -1,0 +1,61 @@
+{
+  "title": "Gökyüzüne Meydan Okuyan Taç",
+  "intro": "Eski krallıkların koridorlarında, bir hükümdarın adı zulüm ve kibirle eş anlamlı hale gelmişti. Allah'ın mütevazı bir kulu, inkar edilemez delillerle geldiğinde, bu kudretli hükümdar gerçeğe teslim olmayı reddetti. Bugün göreviniz, egemenliği yıkılan ve kaderi dalgaların altında mühürlenen bu efsanevi şahsiyeti tespit etmektir.",
+  "clues": [
+    "Ben, adı çağlar boyunca bir uyarı olarak yankılanan, en çok korkulan hükümdarım.",
+    "Bütün bir halka zincirlere vurularak çalıştırılmasını ve benim şanımı ilan eden anıtlar diktirilmesini emrettim.",
+    "Allah'ın bir elçisi bana inkar edilemez delillerle geldiğinde, secde etmeyi reddettim ve onu büyücülük olarak nitelendirdim.",
+    "Esir aldığım halk arasında henüz bebek olan erkek çocukların öldürülmesini emrettim; böylece onların ayaklanmadan önce ruhlarını ezmeyi umuyordum.",
+    "Mahkememin önünde durdum ve 'Ben sizin en yüce efendinizim' diyerek, bir tanrı gibi tapınma talep ettim.",
+    "Başbakanım yanımda olmak üzere, gökyüzünün ötesine uzanmayı hedefleyen görkemli bir yapı inşa ettim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Firavun (Firavun)",
+        "Namrud",
+        "Haman",
+        "Ebu Lahab",
+        "El-Valid ibn el-Muğira"
+      ],
+      "answer": "Firavun (Firavun)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kızıldeniz'de boğulma",
+        "Thamud halkına gönderilen dişi deve",
+        "Nuh tufanı",
+        "Siperdeki Yoldaşların Cezalandırılması",
+        "Abraha'nın ordusunun kuşlar tarafından yok edilmesi"
+      ],
+      "answer": "Kızıldeniz'de boğulma"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Haman ile inşa edilen görkemli yapı.",
+        "Tufanın üzerinde yolculuk eden gemi",
+        "Samiriler tarafından yapılan altın buzağı.",
+        "Saba Kraliçesi Bilkis'in tahtı",
+        "Uyuyan gençlerin mağarası"
+      ],
+      "answer": "Haman ile inşa edilen görkemli yapı."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Denizde boğuldu; cesedi ibret olsun diye muhafaza edildi.",
+        "Sürgüne gönderildi ve vahşi doğada dolaşmaya zorlandı.",
+        "Ceza olarak maymuna dönüştürüldüler",
+        "Şiddetli bir depremle yerle bir oldu",
+        "Gökyüzünden yağan taş yağmuruyla yanmış"
+      ],
+      "answer": "Denizde boğuldu; cesedi ibret olsun diye muhafaza edildi."
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

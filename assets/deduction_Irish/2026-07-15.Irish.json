@@ -1,0 +1,61 @@
+{
+  "title": "An Tearmann Uaigneach",
+  "intro": "I stair fhabhar Dé, tá anam ann d’íonacht gan sárú, scartha óna muintir chun uaigneas a lorg i dtreo naofa. Ní raibh a fhios acu go mbeadh comhartha ag baint leis an uaigneas seo do gach saol, triail creidimh a labhrófaí faoi go deo.",
+  "clues": [
+    "Bhí mé tiomanta do shaol seirbhíse roimh mo bhreith.",
+    "Cuireadh mé faoi chaomhnóireacht fáidh uasal.",
+    "Fuair ​​mé tacaíocht ó Allah a chuir iontas ar mo chaomhnóir.",
+    "Tharraing mé siar ó mo theaghlach go háit thoir.",
+    "Tháinig aingeal chugam i bhfoirm fir fhoirfe, ag tabhairt scéala faoi mhac íon.",
+    "Nuair a d’fhill mé le mo nuabheirthe, chuir mo mhuintir cúiseamh orm, ach labhair an naíonán ar mo shon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Máire (Máire)",
+        "Asiyah (bean chéile an Fharó)",
+        "Hájar (máthair Ismail)",
+        "Sárá (bean chéile Ibrahim)",
+        "Máthair Mhúsa"
+      ],
+      "answer": "Máire (Máire)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Coincheap míorúilteach agus breith mic",
+        "Á chaitheamh isteach sa tine",
+        "Á shlogadh ag iasc ollmhór",
+        "Ag tógáil áirc mhóir",
+        "Ag trasnú na farraige"
+      ],
+      "answer": "Coincheap míorúilteach agus breith mic"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Áit iargúlta thoir",
+        "An tor dóite",
+        "An Mhuir Rua",
+        "An charraig as ar shreabh uisce",
+        "An míol mór"
+      ],
+      "answer": "Áit iargúlta thoir"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Labhair naíonán ar son a máthar",
+        "Roinneadh an fharraige",
+        "D’éirigh an tine fionnuar agus sábháilte",
+        "D’urlac an míol mór ar an gcladach",
+        "Tháinig an áirc i dtír ar shliabh"
+      ],
+      "answer": "Labhair naíonán ar son a máthar"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

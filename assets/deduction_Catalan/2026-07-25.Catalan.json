@@ -1,0 +1,61 @@
+{
+  "title": "Els habitants dels dos jardins",
+  "intro": "En una terra on les benediccions afloraven abundantment, una comunitat va gaudir de la generositat de dos magnífics jardins. Les seves vides eren un testimoni del favor diví, però la seva història va fer un gir quan la gratitud va disminuir, donant lloc a una transformació que es convertiria en un signe durador per a tots els que reflexionen.",
+  "clues": [
+    "Érem un poble beneït amb una terra de facilitat i abundància.",
+    "El nostre Senyor ens va concedir dos jardins esplèndids, exuberants i fructífers per tots els costats.",
+    "Ens van manar estar agraïts, però vam triar la ingratitud i vam girar la cara.",
+    "Una gran presa va retenir les aigües que donaven vida a la nostra terra.",
+    "Quan vam persistir en la nostra maldat, la presa va rebentar i les aigües de la inundació van passar.",
+    "Els nostres jardins, abans exuberants, van ser substituïts per fruits amargs, tamarius i uns quants lotus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La gent de Saba",
+        "La gent de Thamud",
+        "El poble de Madyan",
+        "Els companys de la cova",
+        "La gent de l'elefant"
+      ],
+      "answer": "La gent de Saba"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Un vent violent durant set nits",
+        "Una pluja de pedres del cel",
+        "Una inundació destructiva per l'esclat d'una presa",
+        "Un fort crit des del cel",
+        "Ofegant-se al mar"
+      ],
+      "answer": "Una inundació destructiva per l'esclat d'una presa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La gran presa de Ma'rib",
+        "La vall de Wadi al-Qura",
+        "El jardí d'Iram",
+        "El pou de Zamzam",
+        "La muntanya del Sinaí"
+      ],
+      "answer": "La gran presa de Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Els nostres jardins van ser substituïts per fruits amargs i arbres escassos",
+        "Ens va engolir la terra en un terratrèmol",
+        "Ens vam transformar en simis i porcs",
+        "Ens vam ofegar en una gran inundació",
+        "Vam ser destruïts per una pluja de pedres"
+      ],
+      "answer": "Els nostres jardins van ser substituïts per fruits amargs i arbres escassos"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

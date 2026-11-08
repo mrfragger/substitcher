@@ -1,0 +1,61 @@
+{
+  "title": "Das Opfer, das das Schicksal veränderte",
+  "intro": "In den Anfängen der Menschheit bot eine Seele in reiner Absicht ein Geschenk an. Doch Neid lauerte im Schatten der Annahme. Entdecken Sie die Geschichte dieser Gestalt, deren Frömmigkeit und tragisches Ende in der göttlichen Offenbarung verewigt sind.",
+  "clues": [
+    "Ich gehörte zu den allerersten Generationen der Menschheit.",
+    "Ich brachte meinem Herrn ein Opfer dar, und es wurde wohlgefällig angenommen.",
+    "Das Opfer meines Bruders wurde zurückgewiesen, und Neid verdunkelte sein Herz.",
+    "Ich sagte zu ihm: „Wenn du deine Hand nach mir ausstreckst, um mich zu töten, werde ich meine Hand nicht nach dir ausstrecken; wahrlich, ich fürchte Allah, den Herrn der Welten.“",
+    "Ich wurde Opfer des ersten Mordes auf Erden.",
+    "Mein Blut schrie auf, und ich war der erste Märtyrer der Unschuld."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Kain)",
+        "Der Mann aus Ya-Sin",
+        "Der Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Sein Opfer wurde angenommen, was den Neid seines Bruders und dessen Ermordung zur Folge hatte.",
+        "Er wurde in einen glühenden Ofen geworfen, kam aber unverletzt wieder heraus.",
+        "Unter göttlicher Führung baute er ein gewaltiges Schiff.",
+        "Er wurde von einem großen Fisch verschluckt und blieb in der Dunkelheit.",
+        "Er führte sein Volk durch ein geteiltes Meer"
+      ],
+      "answer": "Sein Opfer wurde angenommen, was den Neid seines Bruders und dessen Ermordung zur Folge hatte."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein angenommenes Angebot",
+        "Ein Stab, der sich in eine Schlange verwandelt",
+        "Eine Kamelstute als göttliches Zeichen",
+        "Ein Wiedehopf bringt Neuigkeiten",
+        "Ein goldenes Kalb wurde verehrt"
+      ],
+      "answer": "Ein angenommenes Angebot"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Erster Mord der Geschichte; sein Bruder wurde verurteilt.",
+        "Von der Erde verschlungen, zusammen mit seinem Reichtum",
+        "Wegen eines Regelverstoßes in Affen verwandelt",
+        "Zerstört von einem heftigen, eisigen Wind",
+        "Zur Strafe in einer großen Flut ertränkt."
+      ],
+      "answer": "Erster Mord der Geschichte; sein Bruder wurde verurteilt."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

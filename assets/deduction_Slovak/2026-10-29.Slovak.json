@@ -1,0 +1,61 @@
+{
+  "title": "Malé varovanie pred pochodujúcim zástupom",
+  "intro": "Vkročte do údolia, kam sa blíži mocný vládca a jeho obrovské vojsko, a predstavte si malého pútnika, ktorý dáva varovanie, ktoré zachráni celú komunitu. Keď sa ohrozená komunita dostane do úkrytu, nebezpečenstvo pominie. Sledujte indície, aby ste identifikovali prehliadnutú postavu skrytú za týmto varovaním.",
+  "clues": [
+    "Patrím medzi malé stvorenia spojené s kráľovstvom vládcu.",
+    "Moja komunita žije v obydliach v údolí, kde jeden z nás môže volať ostatným.",
+    "Čelíme hrozbe zo strany tohto vládcu a armád cestujúcich s vládcom.",
+    "Ja som ten, kto volá svoju komunitu, aby vstúpila do svojich príbytkov a varuje nás, aby sme sa nenechali nevedomky utláčať.",
+    "Vládcom je Sulajmán a môj druh patrí medzi tvory, ktoré sú pod jeho velením.",
+    "Ja som mravec toho údolia; po mojom varovaní sme vošli do svojich obydlí a unikli sme drveniu, ktoré by nás inak zastihlo nepripravených."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Mravec z údolia",
+        "Dudok",
+        "Vrana",
+        "Had",
+        "Mulica"
+      ],
+      "answer": "Mravec z údolia"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Varovanie, ktoré ušetrilo mravčiu komunitu",
+        "Žiadosť o prsteň od ryby",
+        "Hľadanie strateného trónu",
+        "Záchrana ukradnutých očí",
+        "Odmietnutie jesť jedlo vládcu"
+      ],
+      "answer": "Varovanie, ktoré ušetrilo mravčiu komunitu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Údolie mravcov",
+        "Sulajmánsky pečatný prsteň",
+        "Krvavo zafarbená košeľa Jusufa",
+        "Zlaté teľa z Exodusu",
+        "Zamestnanci Músu"
+      ],
+      "answer": "Údolie mravcov"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Komunita bola ušetrená po tom, čo sa ukryla",
+        "Komunita bola zničená bez toho, aby sa ľudia ukryli",
+        "Komunita bola ušetrená, pretože armáda ustúpila",
+        "Komunita bola odmenená kontrolou nad vtákmi",
+        "Komunita bola odvedená do zajatia na kráľovský dvor"
+      ],
+      "answer": "Komunita bola ušetrená po tom, čo sa ukryla"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

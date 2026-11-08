@@ -1,0 +1,61 @@
+{
+  "title": "Taxt-taca çatan əks-səda",
+  "intro": "Ədalət kürsüsünə ağır bir sima yaxınlaşırdı, səsləri qorxudan deyil, ümiddən titrəyirdi. Məsələ şəxsi idi, amma onun həlli zamanla əks-səda verəcək, zülmkar bir ənənəni dağıdacaqdı. Şikayəti ulduzların o tayında eşidilən bu ruh kim idi?",
+  "clues": [
+    "Dilimi bağlayan bir məsələdə ədalət axtararaq ağır bir ürəklə gəldim.",
+    "Mənim yalvarışım sadəcə bir elçiyə deyildi; o, hər şeyi eşidənə, daha da irəli getdi.",
+    "Mənə qarşı deyilən sözlər qədim keçmişin zəncirləri kimi idi.",
+    "Ləyaqətim naminə göz yaşları və məntiqlə mübahisə etdim və mühakimə yürütdüm.",
+    "Köhnə adətləri susduran və ağrımı etiraf edən bir vəhy nazil oldu.",
+    "Məni ərim haqqında mübahisə edən adlandırırlar və adım məni azad edən fəslin sinoniminə çevrildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İmranın həyat yoldaşı (Məryəmin anası)",
+        "Əri barəsində mübahisə edən qadın (Xavlə bint Sa'ləba)",
+        "Səba Kraliçası (Bilqis)",
+        "Musanın anası",
+        "Fironun (Asiya) arvadı"
+      ],
+      "answer": "Əri barəsində mübahisə edən qadın (Xavlə bint Sa'ləba)"
+    },
+    "trial": {
+      "label": "Məhkəmə və ya Hadisə",
+      "options": [
+        "O, yalandan əxlaqsızlıqda ittiham edildi",
+        "O, sonsuz idi və uşaq arzusunda idi",
+        "O, zalım bir boşanma adəti ilə üzləşdi",
+        "O, peyğəmbərlə danışıqlar aparan bir kraliça idi",
+        "O, uşağını zalımdan gizlətdi"
+      ],
+      "answer": "O, zalım bir boşanma adəti ilə üzləşdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qızıl buzov",
+        "Möhtəşəm bir taxt",
+        "Zihar təcrübəsi",
+        "Çayda bir səbət",
+        "Müqəddəs bir həsr andı"
+      ],
+      "answer": "Zihar təcrübəsi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Qocalıqda bir övladla xoşbəxt oldu",
+        "O, boğulmaqdan xilas oldu",
+        "O, adəti ləğv edən ilahi bir vəhy aldı",
+        "O, bir imtahandan sonra kraliça oldu",
+        "Ona peyğəmbər olan bir oğul verildi"
+      ],
+      "answer": "O, adəti ləğv edən ilahi bir vəhy aldı"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Stad, déi un d'Zäit gegleeft huet",
+  "intro": "An den Annalen vun der göttlecher Barmhäerzegkeet gëtt et eng Gemeinschaft, där hiren Wendepunkt e Moment vun der kollektiver Erkenntnis war. Dir sidd amgaang hir Geschicht opzedecken - eng Geschicht vu Warnung, Reue an enger Erliichterung, déi se vum Schicksal vun aneren Natiounen ofgesondert huet.",
+  "clues": [
+    "Mir waren e Vollek, zu deem e Bote geschéckt gouf, a mir hunn eis ufanks vu sengem Ruff ofgewend.",
+    "Wéi d'Zeeche vun enger bevirstehender Strof kloer goufen, hu mir d'Wourecht vu senger Warnung erkannt.",
+    "Mir hunn eis mat oprichteger Reue un eisen Här gewand, an eise Glawen gouf ugeholl.",
+    "D'Strof, déi eis verurteelt gi war, gouf wéinst eisem Glawen opgehuewen.",
+    "Eis Geschicht gëtt als Ausnam ënnert de Stied genannt, déi nodeem se d'Strofe gesinn hunn, gegleeft hunn.",
+    "Mir waren d'Vollek vum Prophet, dee vum Wal verschléckt gouf, awer mir goufe virun der Zerstéierung gerett."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Leit vum Yunus",
+        "D'Leit vun Nuh",
+        "Leit vun Hud",
+        "D'Leit vu Salih",
+        "Leit vu Lut"
+      ],
+      "answer": "D'Leit vum Yunus"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Eng zerstéierend Iwwerschwemmung",
+        "E schwéiere Wandstuerm",
+        "Eng bevirstehend Strof vun der Schand, déi verhënnert gouf",
+        "D'Äerd verschléckt se",
+        "E Reen vu Steng"
+      ],
+      "answer": "Eng bevirstehend Strof vun der Schand, déi verhënnert gouf"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark",
+        "D'Kamel",
+        "Eng Stad mat honnertdausend",
+        "D'Mataarbechter vum Musa",
+        "De Schatz vum Qarun"
+      ],
+      "answer": "Eng Stad mat honnertdausend"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si goufen komplett zerstéiert",
+        "Si kruten eng Zäit laang Freed",
+        "Si goufen an Affen transforméiert",
+        "Si sinn erdronk",
+        "Si goufe vun der Äerd verschléckt"
+      ],
+      "answer": "Si kruten eng Zäit laang Freed"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

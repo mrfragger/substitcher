@@ -1,0 +1,61 @@
+{
+  "title": "Det villige offer",
+  "intro": "I en tid med guddommelige prøvelser blev en sjæl kaldet til den ultimative handling af underkastelse. Opvokset i et goldt land voksede denne figur til at legemliggøre tro og tålmodighed. Når en vision beordrede et offer, vaklede de ikke. Deres historie er en hjørnesten i hengivenhed.",
+  "clues": [
+    "Jeg var svaret på en længe ventet bøn fra en stor profet.",
+    "Min mor og jeg blev efterladt i en øde dal med kun forsyninger af dadler og vand.",
+    "Jeg voksede op og blev en profet kendt for min sandfærdighed og tålmodighed.",
+    "Jeg hjalp min far med at rejse fundamentet til et helligt hus dedikeret til Allah.",
+    "Da min far fortalte mig om en drøm om at ofre mig, svarede jeg: \"Gør, som du er blevet befalet.\"",
+    "Allah ærede min underkastelse ved at sende en vædder fra himlen for at løse mig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Ismail",
+        "Profeten Ishaq",
+        "Profeten Ya'qub",
+        "Profeten Ibrahim",
+        "Profeten Yusuf"
+      ],
+      "answer": "Profeten Ismail"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Villigt at underkaste sig at blive ofret",
+        "At blive kastet ind i en flammende ild",
+        "At blive slugt af en stor fisk",
+        "At blive solgt som slave",
+        "At blive testet med en alvorlig sygdom"
+      ],
+      "answer": "Villigt at underkaste sig at blive ofret"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Zamzams brønd",
+        "Nuhs ark",
+        "Nimrods ild",
+        "Den gyldne kalv",
+        "Musas stab"
+      ],
+      "answer": "Zamzams brønd"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev løskøbt med en stor vædder",
+        "Blev reddet fra branden",
+        "Blev reddet fra oversvømmelsen",
+        "Blev taget ud af hvalen",
+        "Fik givet et kongerige og visdom"
+      ],
+      "answer": "Blev løskøbt med en stor vædder"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

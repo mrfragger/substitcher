@@ -1,0 +1,61 @@
+{
+  "title": "Mouezh ar gondaonidigezh kuzhet",
+  "intro": "E kalon ul lez-varn tiranek, e-lec'h ma oa an diskred lezenn ar vro, e kerzhe un ene digenvez war ur gordenn strizh a feiz hag a spont. An den-se, tost ouzh kreiz ar galloud, a selaoue kemennadenn ur profed a veze degemeret gant dispriz ha gourdrouz. Erruout a reas ur pennadig gwirionez, o rediañ an den-se da zibab etre chom hep komz ha lâret ur wirionez dañjerus. Ha gallout a rit dizoleiñ piv eo an difennour kalonek-se ?",
+  "clues": [
+    "Bevañ a raen e-barzh tiegezh un tiran, o welet dre ma daoulagad an lorc'h a nac'he ar sinoù doueel.",
+    "Miret em eus va feiz e kuzh, un teñzor kuzhet en ur palez a idolatriezh.",
+    "Klevet em eus ar penn am eus servijet o klask lazhañ ur c'hannad eus Allah, un den anvet Musa.",
+    "Goulenn a ran o lojik, o lakaat anezho da soñjal e tonkad tud Nuh, 'Ad ha Thamud.",
+    "Goulenn a ran ur goulenn kriz ouzh ma fobl : « Mard eo ur gaouiad, e gaou a zo warnañ ; met ma 'z eo gwirion, lod eus ar pezh a bromesa a vo skoet ganeoc'h.'",
+    "Kontet eo ma istor evel ur skouer a feiz er surah anvet 'The Forgiver', ma'm eus diwallet ma fobl a-enep raktresoù ar re c'halloudus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar C'hredenn eus Tiegezh Fir'awn",
+        "Haman",
+        "Hudourien Fir'awn",
+        "Qarun",
+        "Ar Samiri"
+      ],
+      "answer": "Ar C'hredenn eus Tiegezh Fir'awn"
+    },
+    "trial": {
+      "label": "Petra oa ma prosez?",
+      "options": [
+        "Difenn ar profed Musa e lez an tirant",
+        "Sevel un tour uhel evit tizhout an neñvoù",
+        "Bezañ taolet en un tan flamm",
+        "Bezañ lonket gant ur pesk ramzel",
+        "Koll pep pinvidigezh ha yec'hed"
+      ],
+      "answer": "Difenn ar profed Musa e lez an tirant"
+    },
+    "location": {
+      "label": "Petra oa tem ma arguzenn?",
+      "options": [
+        "Heuliad nac'hañ kemennadenn ur profed",
+        "Ar goulenn evit ur sin eus ur wezenn sakr",
+        "Krouidigezh ul leue diwar bravigoù teuzet",
+        "Burzhud ur c'hañval diwar ar roc'h",
+        "Displegadenn huñvreoù ur rener"
+      ],
+      "answer": "Heuliad nac'hañ kemennadenn ur profed"
+    },
+    "outcome": {
+      "label": "Petra oa an disoc'h ?",
+      "options": [
+        "Allah en deus saveteet an den-se diouzh e implj fall",
+        "Al lez a-bezh a zegemeras kerkent an Islam",
+        "An tirant a reas keuz d'ar mare ma voe beuzet",
+        "An tirant a oe lonket gant an douar",
+        "Harluet e voe an hinienn d'ur vro bell"
+      ],
+      "answer": "Allah en deus saveteet an den-se diouzh e implj fall"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

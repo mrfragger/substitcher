@@ -1,0 +1,61 @@
+{
+  "title": "Ngọn lửa bên trong cung điện của sự kiêu ngạo",
+  "intro": "Ẩn mình sau những bức tường nguy nga của cung điện quyền lực nhất thế giới cổ đại là một nhân vật mang trong lòng một bí mật mà không sắc lệnh hoàng gia nào có thể dập tắt. Trong khi tất cả mọi người xung quanh cúi đầu trước những vị thần giả dối, linh hồn này vẫn giữ vững một niềm tin cháy bỏng trong lòng. Người cai trị vùng đất đó tự cho mình là thần thánh, nhưng cá nhân này lại chọn chân lý hơn sự thoải mái, và lòng tận tụy hơn sự an toàn. Hôm nay, nhiệm vụ của bạn là khám phá xem linh hồn dũng cảm này là ai, người mà câu chuyện của ông vẫn là một trong những tấm gương mạnh mẽ nhất về niềm tin kiên định.",
+  "clues": [
+    "Tôi từng sống ở một nơi vô cùng giàu có và tráng lệ, nơi người cai trị nắm giữ quyền lực tuyệt đối.",
+    "Trong khi những người xung quanh tôi cúi đầu trước những vị thần giả, tôi vẫn giữ vững ngọn lửa đức tin thầm lặng trong lòng.",
+    "Tôi đã phát hiện và nhận nuôi một đứa trẻ được đưa đến với tôi theo một cách khác thường - không phải bằng cách sinh ra, mà thông qua dòng nước của một con sông lớn.",
+    "Tôi đã cầu nguyện với Thượng Đế, xin Ngài ban cho tôi một nơi ở gần Ngài trong Thiên đường và sự cứu rỗi khỏi ách áp bức đang bao vây tôi.",
+    "Đứa con mà tôi nuôi dạy đã lớn lên và thách thức chính kẻ cai trị nắm giữ vận mệnh của tôi, và tôi vẫn kiên định với đức tin của mình ngay cả khi bị đe dọa.",
+    "Tôi là người có tên được tôn vinh trong kinh Qur'an như một tấm gương về đức tin, và tôi đã sống trong cung điện của chính Pharaoh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Asiya, vợ của Pharaoh",
+        "Maryam, mẹ của Isa",
+        "Bilqis, Nữ hoàng Sheba",
+        "Vợ của nhà tiên tri Lut",
+        "Vợ của Imran"
+      ],
+      "answer": "Asiya, vợ của Pharaoh"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Phát hiện và nuôi dưỡng một đứa trẻ bị bỏ rơi, người sau này trở thành một vị tiên tri vĩ đại.",
+        "Bị một bạo chúa ném vào một ngọn lửa lớn.",
+        "Chứng kiến ​​trận đại hồng thủy tàn phá cả một dân tộc.",
+        "Chứng kiến ​​cây chà là rung rinh và cung cấp dưỡng chất.",
+        "Sinh con trai ở tuổi cao"
+      ],
+      "answer": "Phát hiện và nuôi dưỡng một đứa trẻ bị bỏ rơi, người sau này trở thành một vị tiên tri vĩ đại."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một cung điện hoàng gia với vẻ tráng lệ vô song.",
+        "Một con tàu lớn được chế tạo để chống chọi với trận lụt.",
+        "Một hang động sâu hun hút ẩn mình trong núi.",
+        "Một ngọn lửa bùng cháy trên đỉnh núi.",
+        "Một khu vườn được bao quanh bởi tường."
+      ],
+      "answer": "Một cung điện hoàng gia với vẻ tráng lệ vô song."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Theo ý muốn của Allah, một ngôi nhà đã được ban cho ở Thiên đường.",
+        "Một trận đại hồng thủy đã tiêu diệt những kẻ không tin vào Chúa của một quốc gia cổ đại.",
+        "Một vương quốc với quyền lực và uy thế vô song đã được ban tặng trên thế giới này.",
+        "Một đạo quân hùng mạnh đã bị chim chóc đánh tan tác.",
+        "Một bạo chúa tự xưng là thần thánh đã bị dìm chết dưới biển."
+      ],
+      "answer": "Theo ý muốn của Allah, một ngôi nhà đã được ban cho ở Thiên đường."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

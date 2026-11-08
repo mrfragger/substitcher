@@ -1,0 +1,61 @@
+{
+  "title": "El Retiro Solitari",
+  "intro": "En els annals del favor diví, existeix una ànima de puresa inigualable, separada del seu poble per buscar la solitud en una direcció sagrada. No sabien que aquest aïllament portaria un signe per a tots els mons, una prova de fe de la qual es parlaria per a l'eternitat.",
+  "clues": [
+    "Vaig estar dedicat a una vida de servei abans del meu naixement.",
+    "Vaig ser posat sota la tutela d'un noble profeta.",
+    "Vaig ser sostingut amb provisions d'Al·là que van meravellar el meu tutor.",
+    "Em vaig retirar de la meva família a un lloc oriental.",
+    "Un àngel se'm va aparèixer en la forma d'un home perfecte, portant notícies d'un fill pur.",
+    "Quan vaig tornar amb el meu nadó, la meva gent em va acusar, però el nadó va parlar en la meva defensa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Maria (Maria)",
+        "Asiyah (esposa del faraó)",
+        "Hajar (mare d'Ismail)",
+        "Sara (esposa d'Ibrahim)",
+        "La mare de Musa"
+      ],
+      "answer": "Maria (Maria)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Concepció miraculosa i naixement d'un fill",
+        "Ser llançat al foc",
+        "Ser engolit per un peix gegant",
+        "Construint una gran arca",
+        "Creuant el mar"
+      ],
+      "answer": "Concepció miraculosa i naixement d'un fill"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un lloc aïllat de l'est",
+        "L'arbust ardent",
+        "El Mar Roig",
+        "La roca d'on brollava aigua",
+        "La balena"
+      ],
+      "answer": "Un lloc aïllat de l'est"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Un nadó va parlar en defensa d'una mare",
+        "El mar es va obrir",
+        "El foc es va tornar fred i segur",
+        "La balena va vomitar a la riba",
+        "L'arca va aterrar a una muntanya"
+      ],
+      "answer": "Un nadó va parlar en defensa d'una mare"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

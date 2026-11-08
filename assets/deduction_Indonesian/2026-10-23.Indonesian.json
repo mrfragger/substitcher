@@ -1,0 +1,61 @@
+{
+  "title": "Misi di Kota Kuno",
+  "intro": "Sebuah kota kuno yang berdebu, penduduknya terperangkap dalam penyangkalan, dan peringatan terakhir yang diabaikan. Hari ini, berperanlah sebagai orang-orang yang diutus Allah untuk menyampaikan pesan kepada orang-orang yang keras kepala. Sebuah kisah penolakan, suara iman yang unik, dan akhir yang ditandai dengan dekrit yang menghancurkan. Siapa yang berbicara melalui petunjuk-petunjuk ini?",
+  "clues": [
+    "Kami diutus oleh Allah ke sebuah kota yang penduduknya telah berpaling dari kebenaran.",
+    "Dua dari kami datang lebih dulu, kemudian yang ketiga bergabung untuk memperkuat misi kami.",
+    "Penduduk kota menolak kami, mengatakan bahwa kami hanyalah manusia biasa seperti mereka.",
+    "Seorang pria dari ujung kota yang paling jauh berlari untuk memberitahu orang-orang agar mengikuti kami.",
+    "Kami memohon kepada mereka, tetapi mereka mengeraskan hati mereka dan berbalik melawan kami.",
+    "Dalam satu jeritan dahsyat dari langit, seluruh kota kami terdiam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Para Utusan Kota dalam Surah Ya-Sin",
+        "Hawwariyyun (Murid Isa)",
+        "Para Penyihir di Istana Firaun",
+        "Sahabat-sahabat Sabat",
+        "Orang-orang Gajah"
+      ],
+      "answer": "Para Utusan Kota dalam Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Ditolak dan disebut pembohong oleh penduduk kota",
+        "Terbakar hidup-hidup dalam kobaran api yang besar.",
+        "Ditelan oleh ikan besar di laut dalam",
+        "Dipaksa bekerja membangun pilar yang menjulang tinggi.",
+        "Disiksa di parit yang diliputi kobaran api"
+      ],
+      "answer": "Ditolak dan disebut pembohong oleh penduduk kota"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Kota kuno (al-Qaryah)",
+        "Sebuah tungku besar yang menyala-nyala",
+        "Perut ikan besar",
+        "Pilar menjulang tinggi yang menyentuh langit.",
+        "Rumah Suci (Ka'bah)"
+      ],
+      "answer": "Kota kuno (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kota itu hancur oleh satu teriakan dahsyat (Sayha)",
+        "Sang tiran dan pasukannya tenggelam di laut yang terbelah.",
+        "Orang-orang itu berubah menjadi kera dan monyet.",
+        "Hujan batu dari langit menghancurkan kota itu.",
+        "Banjir dahsyat menyapu seluruh komunitas."
+      ],
+      "answer": "Kota itu hancur oleh satu teriakan dahsyat (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

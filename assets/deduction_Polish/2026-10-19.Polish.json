@@ -1,0 +1,61 @@
+{
+  "title": "Wygnaniec Niebios",
+  "intro": "Tajemnicza istota stoi na rozdrożu stworzenia i odrzucenia. Jej historia to opowieść o bezprecedensowej arogancji i ostatecznym sprzeciwie wobec boskiego nakazu. Jej wybór odbija się echem w każdym pokoleniu, stając się testem dla każdej duszy przychodzącej na ten świat. Czy potrafisz zidentyfikować tego odwiecznego przeciwnika?",
+  "clues": [
+    "Byłem świadkiem wydarzenia o kosmicznym znaczeniu, gdy z gliny powstała nowa istota, którą Tchnienie Miłosiernego obdarzyło życiem.",
+    "Ja sam zostałem powołany do istnienia z pojedynczego, płonącego elementu, w odróżnieniu od istoty z prochu.",
+    "Wydano mi rozkaz, który uznałem za nieodpowiedni dla mojego stanowiska.",
+    "Poczułem ogromną dumę i stanowczo odmówiłem wykonania tego polecenia.",
+    "Wyznaczono mi odroczenie do wyznaczonego dnia, abym mógł zrealizować swój zamierzony cel wprowadzenia innych w błąd.",
+    "Jestem zaprzysiężonym wrogiem wszystkich, którzy chodzą po ziemi, szerzącym oszustwa i odwodzącym od prostej ścieżki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Iblis (Szatan)",
+        "Faraon (Firawn)",
+        "Haman",
+        "Abu Dżahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Szatan)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Odmówił pokłonu przed Adamem",
+        "Fałszywie twierdził, że jest boski",
+        "Wykuto złotego cielca do oddawania czci",
+        "Zabił brata z zazdrości",
+        "Przewodził politeistycznej opozycji w Mekce"
+      ],
+      "answer": "Odmówił pokłonu przed Adamem"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Raj (Jannah)",
+        "Pałac faraona w Egipcie",
+        "Święta dolina Tuwa",
+        "Głębiny morza",
+        "Ogród Szeby"
+      ],
+      "answer": "Raj (Jannah)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Udzielono wytchnienia do Dnia Sądu",
+        "Utonął wraz z armią w morzu",
+        "Pochłonięty przez ziemię wraz ze skarbami",
+        "Zamienieni w małpy za złamanie szabatu",
+        "Spalone kamieniami rzucanymi z nieba"
+      ],
+      "answer": "Udzielono wytchnienia do Dnia Sądu"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

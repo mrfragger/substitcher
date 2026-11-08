@@ -1,0 +1,61 @@
+{
+  "title": "Yr Aberth Ewyllysgar",
+  "intro": "Mewn cyfnod o brofion dwyfol, galwyd enaid i'r weithred eithaf o ymostwng. Wedi'i fagu mewn tir diffaith, tyfodd y ffigur hwn i ymgorffori ffydd ac amynedd. Pan orchmynnodd gweledigaeth aberth, ni wnaethant betruso. Mae eu stori yn gonglfaen ymroddiad.",
+  "clues": [
+    "Fi oedd yr ateb i weddi hir-ddisgwyliedig proffwyd mawr.",
+    "Gadawyd fy mam a minnau mewn dyffryn diffaith gyda dim ond cyflenwadau o ddyddiadau a dŵr.",
+    "Tyfais i fyny i ddod yn broffwyd a oedd yn adnabyddus am fy ngwirionedd a'm hamynedd.",
+    "Fe helpais i fy nhad i godi sylfeini tŷ cysegredig sydd wedi'i gysegru i Allah.",
+    "Pan ddywedodd fy nhad wrthyf am freuddwyd i'm haberthu, atebais, 'Gwnewch fel y gorchmynnwyd i chi.'",
+    "Anrhydeddodd Allah fy ymostyngiad trwy anfon hwrdd o'r awyr i'm gwario'n bridwerth."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Isma'il",
+        "Proffwyd Ishaq",
+        "y Proffwyd Ya'qub",
+        "Proffwyd Ibrahim",
+        "Proffwyd Yusuf"
+      ],
+      "answer": "Proffwyd Isma'il"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Yn fodlon ildio i gael ei aberthu",
+        "Cael eich taflu i dân llachar",
+        "Cael eich llyncu gan bysgodyn mawr",
+        "Cael eich gwerthu i gaethwasiaeth",
+        "Cael eich profi gyda salwch difrifol"
+      ],
+      "answer": "Yn fodlon ildio i gael ei aberthu"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Ffynnon Zamzam",
+        "Arch Nuh",
+        "Tân Nimrod",
+        "Y Llo Aur",
+        "Staff Musa"
+      ],
+      "answer": "Ffynnon Zamzam"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cafodd ei bridwerthu â hwrdd mawr",
+        "Cafodd ei achub rhag y tân",
+        "Cafodd ei achub rhag y llifogydd",
+        "Cafodd ei dynnu allan o'r morfil",
+        "Rhoddwyd teyrnas a doethineb iddo"
+      ],
+      "answer": "Cafodd ei bridwerthu â hwrdd mawr"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

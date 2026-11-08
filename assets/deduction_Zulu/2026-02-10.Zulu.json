@@ -1,0 +1,60 @@
+{
+  "title": "Ukulala Kwezikhathi Ezivamile",
+  "intro": "Usuzoqala uhambo ngokuhamba kwesikhathi, uhlangana nemfihlakalo ejulile yokholo namandla aphezulu. Cabanga ngeqembu labantu abaphikisana nezindinganiso zomphakathi wabo, bebambelele ekukholweni kukaNkulunkulu oyedwa ezweni lokukhulekela onkulunkulu abaningi. Indaba yabo iwubufakazi bekhono lika-Allah lokuvikela izinceku zaKhe ezilungile ngezindlela ezingavamile kakhulu. Ungakwazi yini ukuhlukanisa ukuthi bangobani laba bantu abaphawulekayo?",
+  "clues": [
+    "Sasiyiqembu elincane lezinsizwa ezazikholelwa kuNkulunkulu oyedwa, naphezu kobuningi babantu bakithi.",
+    "Sabalekela umbusi ononya owayesisongela ngenxa yokholo lwethu, esaba ukushushiswa nokufa.",
+    "Safuna indawo yokukhosela endaweni engasese, sinethemba lomusa nesivikelo sika-Allah kubacindezeli bethu.",
+    "INkosi yethu yasenza salala ubuthongo obukhulu, ubuthongo obumangalisayo obungamelana nokuhamba kwesikhathi.",
+    "Lapho sivuka, sasikholelwa ukuthi siphumule usuku noma ingxenye yosuku kuphela, singazi isikhathi eside esasidlulile ngempela.",
+    "I-Quran ikhuluma ngokuthi sahlala kulesi simo iminyaka engamakhulu amathathu, sadlula ngeyisishiyagalolunye, saba uphawu kubantu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu baseMgodini",
+        "Abantu baseThamud",
+        "Abantu Bomhume",
+        "Abantu baseMadyan",
+        "Abangane Bendlovu"
+      ],
+      "answer": "Abantu Bomhume"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukubhekana nozamcolo omkhulu",
+        "Ukugwinywa umhlaba",
+        "Ukulala okuyisimangaliso okude",
+        "Ukubhujiswa komuzi wabo",
+        "Ukuhlukana kolwandle"
+      ],
+      "answer": "Ukulala okuyisimangaliso okude"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isihlahla esivuthayo",
+        "Intaba",
+        "Isikebhe",
+        "Umhume",
+        "Umthombo"
+      ],
+      "answer": "Umhume"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Banikwa ingcebo enkulu namandla",
+        "Baguqulwa baba izinkawu nezingulube",
+        "Bavuswa ebuthongweni njengesibonakaliso esijulile",
+        "Baminza ngozamcolo omkhulu",
+        "Bakha umbuso omuhle kakhulu"
+      ],
+      "answer": "Bavuswa ebuthongweni njengesibonakaliso esijulile"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Txingarren gainean esandako promesa bat",
+  "intro": "Basamortuko su baten ondoan zaude, txingarrak arretaz zabaltzen diren bitartean. Bisitariak isiltasunean topaketa bat egitera iristen dira, eta mezu bakar batek promesa, sorpresa eta oraindik bete ez den etorkizun baten istorio bat irekitzen du.",
+  "clues": [
+    "Basamortuan zerbitzari leial batengana iristeko distantzia zeharkatu genuen.",
+    "Sua prestatzeko txingarrak zabaltzeko eskatu genuen.",
+    "Freskotasun eta segurtasun eske sugar bati dei egin zion batekin hitz egin genuen.",
+    "Jaioberri baten berri eman genion seme-alabak izateko adina gainditu zuen norbaiti.",
+    "Promesa egin zitzaion haurrari Isaak izena jarri genion.",
+    "Seme baten berri pozgarria ekarri genion Ibrahimi, eta berri harrigarriak Ibrahim barrez utzi zuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Isaaken berri ona Ibrahimi ekarri zioten aingeruak",
+        "Lut ohartarazi zuten aingeruak",
+        "Tronua daramaten aingeruak",
+        "Infernuko Aingeruak",
+        "Noeri bidalitako aingeruak"
+      ],
+      "answer": "Isaaken berri ona Ibrahimi ekarri zioten aingeruak"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Isaaken jaiotzaren berri ona emanez Ibrahimi",
+        "Lut abisua bere herriaren zigorra baino lehen",
+        "Yahyaren jaiotza iragartzea Zakariyyari",
+        "Tronua eramatea Judizioaren Egunean",
+        "Isaren jaiotza iragartzea Maryam-i"
+      ],
+      "answer": "Isaaken jaiotzaren berri ona emanez Ibrahimi"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Txingar sakabanatuekin prestatutako sua",
+        "Uholde-uretan flotatzen ari den arka bat",
+        "Harri birakari batek zigilatutako kobazuloa",
+        "Gatzunak gogortutako buztinezko mendia",
+        "Zerurantz luzatzen den eskailera bat"
+      ],
+      "answer": "Txingar sakabanatuekin prestatutako sua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Isaak izeneko seme baten berri ona",
+        "Yahya izeneko seme baten berri ona",
+        "Talut Israelgo seme-alaben agintari gisa hautatzea",
+        "Lut-en herriaren zigorra baino lehen abisua",
+        "Uholdearen aurretik arka bat eraikitzeko agindua"
+      ],
+      "answer": "Isaak izeneko seme baten berri ona"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

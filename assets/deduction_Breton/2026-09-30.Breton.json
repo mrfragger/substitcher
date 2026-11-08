@@ -1,0 +1,61 @@
+{
+  "title": "An hini klañv",
+  "intro": "Pell zo, en deizioù kentañ istor mab-den, e oa div ene o sevel dirak o C'hrouer gant oferennoù. Unan a oa bet degemeret, unan ne oa ket. Ar pezh a c'hoarvezas da heul a zeuas da vezañ an drajedienn vras ​​kentañ etre breudeur ha c'hoarezed - un ober a zalc'h pasianted hag un ober a veñjañs c'hwerv. Gallout a rit dizoleiñ piv on ?",
+  "clues": [
+    "Ganet on bet e deizioù kentañ buhez mab-den war an douar",
+    "Bugel e oan d'ar c'houblad tud kentañ o kerzhout war an douar-mañ",
+    "Gwechall em eus kinniget un aberzh eus ar re wellañ eus va dropell evit plijout d'am C'hrouer",
+    "Degemeret eo bet ma c'hinnig eus an nec'h, tra ma oa bet nac'het kinnig ma c'hoar",
+    "Pa oan gourdrouzet gant ar marv, em eus dibabet chom hep sevel ma dorn a-enep ma c'hoar",
+    "Deuet on da vezañ an den kentañ en istor mab-den da vezañ lazhet dre fazi gant unan all"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Habil (Abel), mab Adam",
+        "Kabil (Kain), mab Adam",
+        "Adam, an den kentañ",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), mab Adam"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Ar muntr kentañ en istor mab-den |",
+        "Liñvadenn vras ​​Nuh",
+        "Distruj arme Fir'awn",
+        "Aberzh Ismail gant Ibrahim",
+        "An emgann a-enep Jalut (Goliad)"
+      ],
+      "answer": "Ar muntr kentañ en istor mab-den |"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Un dañvad kinniget evel aberzh plijus",
+        "Un arc'h koad bras",
+        "Ur vazh hag a zo deuet da vezañ un naer",
+        "Un evn hoopoe o tougen ur gemennadenn roueel",
+        "Ur foz tan flamm"
+      ],
+      "answer": "Un dañvad kinniget evel aberzh plijus"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Deuet eo da vezañ ar c'hentañ den lazhet en istor mab-den",
+        "Tremenet dreist un dour-beuz bras e-barzh ul lestr koad",
+        "Bevañ a rae e-barzh kof ur pesk bras",
+        "Renet war ar jinn, an dud hag an avel",
+        "Beajet e-pad daou-ugent vloaz en ur gouelec'h divent"
+      ],
+      "answer": "Deuet eo da vezañ ar c'hentañ den lazhet en istor mab-den"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

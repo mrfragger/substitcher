@@ -1,0 +1,61 @@
+{
+  "title": "Moun ki t ap koute kache yo ki te kwè",
+  "intro": "Nan silans yon rasanbleman sakre, yon asanble remakab te rive soti nan yon wayòm envizib. Atire pa chichotman yon bagay mèveye, yo te koute resitasyon ki t ap sele sò yo pou tout tan. Temwayaj yo rete youn nan pi inik nan ekriti diven yo.",
+  "clues": [
+    "Nou se èt ki soti nan yon wayòm pifò moun pa wè, epi nou te vini kòm yon gwoup.",
+    "Nou te vwayaje nan direksyon yon rasanbleman pou nou te tande yon bagay remakab.",
+    "Lè nou rive, nou te koute yon resitasyon ki te kite nou sezi.",
+    "Nou te rekonèt ouvètman ke gen kèk nan nou ki jis e gen lòt ki pa jis.",
+    "Nou te konnen nou pa t kapab chape anba dekrè diven an sou tè a, ni pa vòl nan syèl la.",
+    "Lè nou te tande gidans lan, nou te kwè nan li; nenpòt moun ki kwè nan Senyè yo p ap pè pèt oswa chay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Yon gwoup djinn",
+        "Moun Iram yo",
+        "Moun Tubba yo",
+        "Anpi Women an",
+        "Tribi Quraysh la"
+      ],
+      "answer": "Yon gwoup djinn"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Ap koute yon resitasyon sakre",
+        "Bati gwo poto nan vil nou an",
+        "Lachas yon bèl chamo femèl",
+        "Yo detwi nou paske nou touye pwofèt nou yo",
+        "Miltipliye richès san mezi"
+      ],
+      "answer": "Ap koute yon resitasyon sakre"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon rasanbleman resitasyon sakre",
+        "Yon vil ki gen gwo poto (Iram)",
+        "Yon pi nan dezè a",
+        "Yon gran palè an lò",
+        "Yon gwòt sakre nan mòn yo"
+      ],
+      "answer": "Yon rasanbleman resitasyon sakre"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Nou te kwè epi nou te avèti pèp nou an",
+        "Detwi pa yon gwo eksplozyon ki soti nan syèl la",
+        "Pini pa yon van boule ak destriktif",
+        "Yo te ba li gwo richès ak pouvwa",
+        "Li te rete fèm nan enkredilite"
+      ],
+      "answer": "Nou te kwè epi nou te avèti pèp nou an"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Oyma Dağların Peygamberi",
+  "intro": "Antik Arabistan'ın çorak çöllerinde, olağanüstü el sanatlarıyla tanınan insanlar arasında bir figür ortaya çıktı. Evleri sağlam kayadan yükseliyordu, ancak kalpleri oydukları dağlardan daha sertti. İlahi bir elçi tek bir mucizevi işaretle geldi; ancak gurur ve meydan okuma, hızlı ve korkunç sonuçlara yol açtı. Halkı yol göstermek yerine yıkımı seçen bu soylu hizmetkarı tanıyabilir misiniz?",
+  "clues": [
+    "Ben, halkımı uyarmak ve onları tek Tanrı'ya ibadete çağırmak için gönderildim.",
+    "Halkım, etkileyici kaya oluşumlarının arasında yaşadı ve dağ yamaçlarına muhteşem konutlar oydu.",
+    "Duam üzerine, mucizevi bir şekilde sert kayanın içinden bir dişi deve çıktı; bu, Yüce Allah'tan gelen açık bir işaretti.",
+    "Halkıma bu dişi deveyle suyu paylaşmalarını ve ona zarar vermemelerini söyledim.",
+    "Halkım dişi deveye karşı komplo kurdu ve onu sakat bırakarak kendi yıkımlarını hazırladı.",
+    "Halkımı korkunç bir deprem vurdu ve evlerinde hareketsiz kaldılar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Salih",
+        "Peygamber Hud",
+        "Peygamber Şuayb",
+        "Peygamber Nuh",
+        "Peygamber Musa"
+      ],
+      "answer": "Peygamber Salih"
+    },
+    "trial": {
+      "label": "En belirleyici dava hangisiydi?",
+      "options": [
+        "Mucizevi bir dişi devenin bacağının sakatlanması",
+        "Alay konusu olan bir ortamda büyük bir gemi inşa etmek",
+        "Zalim bir firavunla yüzleşmek",
+        "Alev alev yanan bir ateşe atılmak",
+        "Şabat antlaşmasının bozulması"
+      ],
+      "answer": "Mucizevi bir dişi devenin bacağının sakatlanması"
+    },
+    "location": {
+      "label": "Merkezi unsur neydi?",
+      "options": [
+        "Kayadan çıkan dişi bir deve",
+        "Büyük bir ahşap gemi",
+        "Denizi ikiye ayıran bir asa",
+        "Dev bir balina",
+        "Başımızın üzerinde asılı duran bir dağ"
+      ],
+      "answer": "Kayadan çıkan dişi bir deve"
+    },
+    "outcome": {
+      "label": "Onların nihai kaderi ne oldu?",
+      "options": [
+        "Gökyüzünden ani bir deprem",
+        "büyük bir selde boğuldu",
+        "Şehirleri ilahi emirle yerle bir edildi.",
+        "Yakıcı bir rüzgar tarafından kavrulmuş",
+        "Toprak tarafından yutuldu"
+      ],
+      "answer": "Gökyüzünden ani bir deprem"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Zázrak tichého důkazu",
+  "intro": "Setkáte se s postavou zahalenou příběhem božského zásahu. Příběhem zázračného opatření a němé obrany, který se ozývá časem. Dokážete odhalit, kdo čelil této mimořádné zkoušce?",
+  "clues": [
+    "Dostal jsem božské poselství, které mě ohromilo",
+    "Můj lid zpochybnil mou čistotu, když jsem se vrátil s dítětem",
+    "Bylo mi přikázáno, abych se po určitou dobu postil a nemluvil",
+    "Pramen vody a datle mě během mé zkoušky posilovaly",
+    "Můj Pán způsobil zázračný třáseň stromu, aby se o mě postaral",
+    "Zjevil se mi anděl v podobě dokonalého muže"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Maryam",
+        "Asiya",
+        "Hawa",
+        "Sára",
+        "Chadídža"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Rodit sama pod palmou",
+        "Tváří v tvář smrtelnému hladomoru",
+        "Být vhozen do ohnivé jámy",
+        "Útěk před tyranským vládcem",
+        "Stráž posvátné relikvie"
+      ],
+      "answer": "Rodit sama pod palmou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Palma",
+        "Hořící keř",
+        "Kamenný chrám",
+        "Řeka Nil",
+        "Hora Sinaj"
+      ],
+      "answer": "Palma"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Moje nevina byla prokázána, když promluvil můj malý syn",
+        "Stala jsem se uctívanou královnou",
+        "Můj lid byl zničen božím trestem",
+        "Vedl jsem svůj národ k vítězství",
+        "Zázračná studna se trvale objevila"
+      ],
+      "answer": "Moje nevina byla prokázána, když promluvil můj malý syn"
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

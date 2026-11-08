@@ -1,0 +1,61 @@
+{
+  "title": "Olu nke Jụrụ Nkụda Obi",
+  "intro": "Banye n'ezinụlọ ebe mfu na-esochi mfu, mana otu olu dị jụụ na-ajụ ịda mbà n'obi. Otu oku dị na Quran na-eme ka ndidi ghọọ ihe na-agbanwe agbanwe; ị nwere ike ịchọpụta ihe ndị na-egosi onye nọ n'azụ olu ahụ?",
+  "clues": [
+    "Abụ m onye nwere ndidi n'ime ezinụlọ ebe ọdachi na-anwale ngọzi.",
+    "Anọ m n'ezinụlọ ebe ihe onwunwe na ụmụ tọgbọ chakoo.",
+    "Amaara m na ọrịa ahụ emetụkwala enyi ahụ, onye ahụ ya na-arịa ọrịa.",
+    "Mgbe nsogbu ahụ siri ike, m kpọrọ oku na-echetara Allah.",
+    "Ekwuru m otu nkwupụta: Allah bụ Eziokwu, yabụ nọgide na-enwe ndidi.",
+    "Akpọrọ m Ayyub aha; mgbe nke ahụ gasịrị, Allah wepụrụ nsogbu ahụ ma weghachi ezinụlọ ahụ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Nwunye nke onye amụma Ayyub",
+        "Nwunye Onye Amụma Nuh",
+        "Nwunye nke onye amụma Ibrahim",
+        "Nwunye Onye Amụma Jekọb",
+        "Ada Fero"
+      ],
+      "answer": "Nwunye nke onye amụma Ayyub"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịnọgide na Ayyub n'oge mfu na ọrịa, wee chọọ ndidi",
+        "Ịdọ onye ozi ezi omume aka ná ntị ka ọ hapụ obodo rụrụ arụ",
+        "Ekpere maka ọmụmụ nke usoro ọmụmụ n'ọdịnihu",
+        "Ịkọwa nrọ n'ime ụlọ mkpọrọ eze",
+        "Ịchọta nwatakịrị a tụkwasịrị obi n'akụkụ osimiri"
+      ],
+      "answer": "Ịnọgide na Ayyub n'oge mfu na ọrịa, wee chọọ ndidi"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Nkwupụta na Allah bụ Eziokwu na ndidi dị mkpa",
+        "Osisi nkwụ dị n'akụkụ isi iyi",
+        "Oku iji wuo ụgbọ mmiri dị anya site na ebili mmiri",
+        "Nrọ nke kpakpando iri na otu na anyanwụ na-awa",
+        "Nkata e bufere n'akụkụ osimiri Naịl"
+      ],
+      "answer": "Nkwupụta na Allah bụ Eziokwu na ndidi dị mkpa"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E wepụrụ nsogbu Ayyub ma weghachi ezinụlọ ya",
+        "E nyere otu nwatakịrị a na-atụ anya ya ogologo oge mgbe o kpesịrị ekpere na-enweghị isi",
+        "Onye ọchịchị na-eto eto kọwara afọ asaa nke ụba na ụkọ",
+        "A napụtara nwatakịrị a tụkwasịrị obi n'ime mmiri na-asọ asọ",
+        "Ịdọ aka ná ntị tupu idei mmiri mbibi emee"
+      ],
+      "answer": "E wepụrụ nsogbu Ayyub ma weghachi ezinụlọ ya"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

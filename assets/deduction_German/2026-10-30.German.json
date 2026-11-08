@@ -1,0 +1,61 @@
+{
+  "title": "Die Totenwache",
+  "intro": "Du wirst nun einer Seele begegnen, die von tiefster Trennung geprüft wurde, deren Augen die Sprache der Tränen kannten, deren Herz aber niemals die Hoffnung verlor. In einer Geschichte von Täuschung, Sehnsucht und schließlich Wiedervereinigung wurde dieser edle Diener Allahs zu einem Symbol der Geduld für alle Zeiten. Wer ertrug die Jahre verborgenen Schmerzes, nur um in einem einzigen Augenblick wieder sehen und Freude erfahren zu können?",
+  "clues": [
+    "Ich bin ein Prophet, dessen Name zum Symbol der Geduld angesichts großen Verlustes geworden ist.",
+    "Ich wurde mit vielen Söhnen gesegnet, aber einer wurde mir durch die Eifersucht anderer genommen.",
+    "Meine Liebe zu dem Verstorbenen war so tief, dass meine Augen vor Kummer weiß wurden, doch ich klagte nie, außer bei Allah.",
+    "Ich schickte meine Söhne zurück, um nach dem Vermissten und seinem Bruder zu suchen, und ermahnte sie eindringlich, die Hoffnung nicht aufzugeben.",
+    "Als der Überbringer der guten Nachricht eintraf, wurde mir ein Hemd über das Gesicht geworfen, und plötzlich wurde die Welt wieder klar.",
+    "Ich bin als Israel bekannt, und von meinen zwölf Söhnen stammen die zwölf Stämme eines großen Volkes ab."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ya'qub (Jakob)",
+        "Prophet Yusuf (Joseph)",
+        "Prophet Ishaq (Isaak)",
+        "Prophet Ibrahim (Abraham)",
+        "Prophet Ayyub (Hiob)"
+      ],
+      "answer": "Prophet Ya'qub (Jakob)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Trennung von einem geliebten Sohn über viele Jahre",
+        "In ein loderndes Feuer geworfen werden",
+        "Verschluckt von einem großen Fisch",
+        "Er leidet an einer schweren Hautkrankheit",
+        "Bis ins hohe Alter kinderlos bleiben"
+      ],
+      "answer": "Die Trennung von einem geliebten Sohn über viele Jahre"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Hemd von Yusuf",
+        "Die Mitarbeiter von Musa",
+        "Die Arche Nuh",
+        "Die Kamelstute von Salih",
+        "Der Ring von Sulayman"
+      ],
+      "answer": "Das Hemd von Yusuf"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sein Augenlicht wurde wiederhergestellt und er wurde mit seinem Sohn wiedervereint",
+        "Er errang den Sieg über einen Tyrannenkönig.",
+        "Lebendig in den Himmel erhoben",
+        "Zum Herrscher über Ägypten ernannt",
+        "Im hohen Alter einen Sohn geschenkt bekommen – ein Wunder"
+      ],
+      "answer": "Sein Augenlicht wurde wiederhergestellt und er wurde mit seinem Sohn wiedervereint"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

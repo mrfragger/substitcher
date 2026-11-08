@@ -1,0 +1,61 @@
+{
+  "title": "Guyyaa Agarsiisa Xumuraa",
+  "intro": "Gareen namoota ogummaa qaban agarsiisa aangoo guddaa irratti kan waamaman, dhugaa hin eegamne kan jireenya isaanii bara baraan jijjiiru tokko isaan mudate.",
+  "clues": [
+    "Ogummaa keenyaan, gooftota fakkeessaa fi malaan beekamna turre.",
+    "Morkataa ulee salphaa qabate tokko akka wal dura dhaabbannu bulchaan nu waamame.",
+    "Dhugaa yommuu arginu, Gooftaa adunyaatti amanuu labsinee sujuuda keessatti kufne.",
+    "Abbaan irree sun adabbii cimaa nu doorsise, nuti garuu hin raafamne.",
+    "Mallattoo ifa ta’e erga arginee booda ergaa sanatti warra jalqaba amanne keessaa tokko turre.",
+    "Amantii keenyaaf wareegamne, garuu warra qajeelota waliin Jannata seenuuf jalqaba taana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Falfaltoota Fara'oon",
+        "Israa’eloonni",
+        "Ummata Thamud",
+        "Duuka Buutonni Isa",
+        "Waraana Abrahaa"
+      ],
+      "answer": "Falfaltoota Fara'oon"
+    },
+    "trial": {
+      "label": "Yaali / Taatee",
+      "options": [
+        "Dorgommii Nabi Muusaa waliin",
+        "Ijaarsa Masaraa",
+        "Bishaan Badiisaa Guddaa",
+        "Dha'icha Awwaannisaa",
+        "Galaana Qoqqoodamu"
+      ],
+      "answer": "Dorgommii Nabi Muusaa waliin"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Guyyaa Ayyaanaa",
+        "Gammoojjii Tuwaa",
+        "Magaalaa Iram",
+        "Iddoo Biqiltuu Bara Baraa",
+        "Dirree Arafaa"
+      ],
+      "answer": "Guyyaa Ayyaanaa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Ummata duratti fannifamaniiru",
+        "Galaana keessatti liqimfaman",
+        "Isaanis duuka buutota raajichaa taasifaman",
+        "Gara baqaatti ergaman",
+        "Isaanis ibiddaan gubataniiru"
+      ],
+      "answer": "Ummata duratti fannifamaniiru"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

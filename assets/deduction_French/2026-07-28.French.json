@@ -1,0 +1,61 @@
+{
+  "title": "L'épreuve de la créature sacrée",
+  "intro": "Un signe fut envoyé à une nation égarée. Au cœur de leur existence paisible, un avertissement survint, accompagné d'une créature extraordinaire qui allait mettre leur foi à l'épreuve. Leur réponse scellerait leur destin à jamais. Saurez-vous découvrir qui a transmis cet avertissement et ce qu'il advint de ceux qui le rejetèrent ?",
+  "clues": [
+    "Nous étions un peuple guidé par des messagers qui nous avaient précédés.",
+    "Une créature magnifique émergea de la montagne, signe de notre Seigneur pour cette nation.",
+    "Je leur ai dit : « C'est une chamelle appartenant à Allah, laissez-la donc se nourrir de la terre d'Allah et ne lui faites aucun mal. »",
+    "Mais le peuple m’a mutilé la chamelle, bravant ainsi l’ordre de leur Seigneur.",
+    "Je ne suis qu'un messager de votre Seigneur, envoyé avec la vérité ; je suis un prophète et un serviteur digne de confiance.",
+    "Quant aux malfaiteurs, notre Seigneur les frappa d'un bruit de tonnerre, et ils restèrent immobiles dans leurs demeures."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Hud du peuple d'A'ad",
+        "Le prophète Salih, du peuple de Thamud",
+        "Le prophète Shu'aib de Madian",
+        "Le prophète Lout, du peuple de Sodome",
+        "Le prophète Noé de l'Arche"
+      ],
+      "answer": "Le prophète Salih, du peuple de Thamud"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le Déluge qui a englouti une nation incrédule",
+        "Le tremblement de terre qui a détruit une ville pécheresse",
+        "La chamelle envoyée comme signe et épreuve divins",
+        "La tempête qui a puni le peuple de Madian",
+        "La destruction du peuple de Lot par lapidation"
+      ],
+      "answer": "La chamelle envoyée comme signe et épreuve divins"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La ville de Sodome dans la vallée du Jourdain",
+        "La vallée d'Al-Hijr, entre le Hedjaz et la Syrie",
+        "L'ancien pays d'A'ad dans le sud de l'Arabie",
+        "Les forêts de Madian près de la mer Rouge",
+        "Les plaines du mont Judi en Mésopotamie"
+      ],
+      "answer": "La vallée d'Al-Hijr, entre le Hedjaz et la Syrie"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Ils furent sauvés après s'être repentis et avoir cru.",
+        "Une pluie de pierres les a complètement détruits.",
+        "Un bruit tonitruant les frappa, immobiles.",
+        "Ils furent emportés par un vent violent.",
+        "Un tremblement de terre les a engloutis sous terre"
+      ],
+      "answer": "Un bruit tonitruant les frappa, immobiles."
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

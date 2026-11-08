@@ -1,0 +1,61 @@
+{
+  "title": "Încercarea Flăcării Sacre",
+  "intro": "Într-un ținut străvechi în care devotamentul față de piatra sculptată prinsese rădăcini în fiecare casă, o persoană a stat deoparte. Datorită unei convingeri neclintite și protecției divine, a înfruntat ceea ce ar fi trebuit să fie o moarte sigură - și a scăpat nevătămați. Poți descoperi identitatea acestui suflet remarcabil?",
+  "clues": [
+    "Am fost crescut printre oameni care se închinau idolilor pe care îi sculptaseră cu propriile mâini, crezând că aceste obiecte dețineau putere divină.",
+    "Când le-am contestat convingerile, la început m-au respins, dar nu am putut să tac în fața adevărului pe care îl știam.",
+    "În ziua în care au fost adunați, le-am distrus idolii, lăsând neatins doar pe cel mai mare.",
+    "Când s-au întors și au văzut ce făcusem, conducătorii lor au poruncit să se construiască un rug mare, cu intenția de a mă arunca în flăcări.",
+    "M-au aruncat în focul arzător, dar Domnul lumilor a poruncit să se răcorească și să fie în siguranță pentru mine.",
+    "Am ieșit din flăcări complet teafăr, în timp ce cei care au complotat împotriva mea se confruntau cu ruina totală."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Ibrahim",
+        "Profetul Musa",
+        "Profetul Nuh",
+        "Profetul Isa",
+        "Profetul Yusuf"
+      ],
+      "answer": "Profetul Ibrahim"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Fiind aruncat într-un foc arzător",
+        "Fiind înghițit de o balenă uriașă",
+        "Supraviețuirea unei mari inundații",
+        "A fi aruncat într-o fântână adâncă",
+        "Confruntarea magicienilor unui rege"
+      ],
+      "answer": "Fiind aruncat într-un foc arzător"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un rug imens de lemne arzând",
+        "O mare arcă de lemn",
+        "O statuie a unui vițel de aur",
+        "Un coș plutitor pe un râu",
+        "Un tron ​​magnific"
+      ],
+      "answer": "Un rug imens de lemne arzând"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Allah a făcut focul rece și sigur",
+        "Arca a aterizat în siguranță pe un munte",
+        "Idolul de aur s-a topit sub ochii lor",
+        "Un tiran și armata sa s-au înecat în mare",
+        "Un orb a fost redat vederii"
+      ],
+      "answer": "Allah a făcut focul rece și sigur"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

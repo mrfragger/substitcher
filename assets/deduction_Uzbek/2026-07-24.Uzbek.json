@@ -1,0 +1,61 @@
+{
+  "title": "Yashirin fitnachi",
+  "intro": "Siz o'zingizni vahiy kelgan davrdagi qudratli shaxsning huzurida topasiz. Bu shaxs o'zining aql-zakovati, boyligi va xalqi orasida mavqei bilan mashhur edi. Aniq alomatlar kelganda, ular go'zallikni tan olishdi, ammo itoatkorlikdan ko'ra qarshilikni tanladilar. Bu qalbni zulmatda fitna uyushtirishga nima undadi va ularning yakuniy taqdiri qanday bo'ldi?",
+  "clues": [
+    "Menga mo'l-ko'l resurslar va ta'sir ko'rsatildi, bu esa yig'ilishlarda so'zlarimni og'irlashtirdi.",
+    "Ilohiy so'zlar tilovat qilinganda, men ularning notiqligini inkor eta olmadim, lekin mag'rurligim menga bo'ysunishga yo'l qo'ymadi.",
+    "Men maslahatchilarimni to'pladim, xabarni obro'sizlantirish yo'lini o'ylab, o'zimni izolyatsiya qildim.",
+    "Ko'p o'ylagandan so'ng, men buni odamlarni mendan yuz o'girish uchun \"o'tmishdan meros qolgan sehr\"dan boshqa narsa emasligini e'lon qildim.",
+    "Keyin vahiy menga to'g'ridan-to'g'ri murojaat qildi: \"Meni yaratgan zot bilan yolg'iz qoldir.\" Men hiyla-nayranglarim uchun tanlab olindim.",
+    "Tez orada, menga ogohlantirilgan olovning o'zi peshona soqolimdan ushlab oladi va men qochib qutula olmayman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Valid ibn al-Mug'ira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqba ibn Abi Mu'ayt",
+        "Nadr ibn al-Horis"
+      ],
+      "answer": "Valid ibn al-Mug'ira"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Payg'ambarga suiqasd uyushtirishga til biriktirgan",
+        "Musulmonlarga qarshi boykot e'lon qildi",
+        "Qur'onni sehr deb atash uchun kengash yig'ildi",
+        "Payg'ambarni Makkadan quvib chiqarish uchun fitna uyushtirildi",
+        "Boyligini yetimlar bilan bo'lishishdan bosh tortdi"
+      ],
+      "answer": "Qur'onni sehr deb atash uchun kengash yig'ildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Vahiy",
+        "Kengash",
+        "Peshona sochlari",
+        "Boylik",
+        "Qalam"
+      ],
+      "answer": "Peshona sochlari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "U tavba qildi va Islomni qabul qildi",
+        "U Habashistonga ko'chib o'tdi",
+        "U o'limga olib keladigan kasallikka chalingan edi",
+        "U musulmonlarga qarshi jangda halok bo'lgan",
+        "U do'zaxga mahkum qilindi"
+      ],
+      "answer": "U do'zaxga mahkum qilindi"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A ofrenda que alterou o destino",
+  "intro": "Nos primeiros días da humanidade, unha alma ofrecía un agasallo con intencións puras. Con todo, a envexa acechaba na sombra da aceptación. Descubre a historia desta figura cuxa piedade e tráxico final están inmortalizados na revelación divina.",
+  "clues": [
+    "Eu fun unha das primeiras xeracións da humanidade.",
+    "Presentei unha ofrenda ao meu Señor, e foi recibida con favor.",
+    "A ofrenda do meu irmán foi rexeitada, e a envexa escureceu o seu corazón.",
+    "Díxenlle: «Se estendes a túa man cara a min para matarme, eu non a estenderei para matarte; de ​​verdade temo a Alá, Señor dos mundos».",
+    "Convertinme na vítima do primeiro acto de asasinato na terra.",
+    "O meu sangue clamou, e eu fun o primeiro mártir da inocencia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Caín)",
+        "O home de Ya-Sin",
+        "O Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A súa ofrenda foi aceptada, causando a envexa do seu irmán e o seu asasinato.",
+        "Foi lanzado a un forno ardente, pero saíu ileso",
+        "Construíu un barco enorme baixo a guía divina",
+        "Foi tragado por un gran peixe e permaneceu na escuridade",
+        "Guiou o seu pobo a través dun mar dividido"
+      ],
+      "answer": "A súa ofrenda foi aceptada, causando a envexa do seu irmán e o seu asasinato."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha oferta aceptada",
+        "Un bastón que se converte nunha serpe",
+        "Unha cameloa como sinal divino",
+        "Unha pupa que trae novas",
+        "Un becerro de ouro adorado"
+      ],
+      "answer": "Unha oferta aceptada"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Primeiro asasinato da historia; o seu irmán foi condenado",
+        "Engulido pola terra xunto coa súa riqueza",
+        "Transformados en monos debido á transgresión",
+        "Destruído por un vento feroz e xeado",
+        "Afogado nunha gran inundación como castigo"
+      ],
+      "answer": "Primeiro asasinato da historia; o seu irmán foi condenado"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

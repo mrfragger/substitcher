@@ -1,0 +1,61 @@
+{
+  "title": "Re'ee Warqee keessaa baafame",
+  "intro": "Fakkiin Qur’aana keessatti caqafame tokko yeroo nabiyyiin kabajamaan tokko hin jirretti namoota baay’ee gara karaa irraa maquutti geesse. Wanti warqee irraa hojjetame tokko onnee saba guutuu booji’e — garuu seenaan nama dhuunfaa kanaa kophummaa fi abaarsa ajaa’ibaatiin xumurama. Namni biyyaa baafame kun eenyu taʼuu dandaʼa?",
+  "clues": [
+    "Yeroo raajiin guddaan qajeelfama waaqaa argachuuf ol ba’e hin jirrettin mul’adhe.",
+    "Waan harka kootiin hojjedheen namoota baay’ee akka karaa irraa maqan taasiseera.",
+    "Uumamni warqee ani oomishes jireenya waan qabu fakkaata, sagalee warra isa hordofan booji’u oomishaa ture.",
+    "Waan warri kaan hubachuu hin dandeenye argeera jedheen himadhe — waan hin mul’anne ilaaluu.",
+    "Waan tokko daandii ergamaa waaqaa irraa kaaseen sibiilaa baqfameetti nan darbadhe.",
+    "Kophaa koo akkan naanna’u itti murtaa’e, abaarsa addaa kan namni tokkollee gogaa koo tuquu akka hin dandeenye, anis gogaa isaanii tuquu akka hin dandeenye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Saamirii",
+        "Hamaan",
+        "Fara'oon (Fir'awn) .",
+        "Abuu Lahaab",
+        "Nabi Saalih"
+      ],
+      "answer": "Saamirii"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Waaqeffannaaf re'ee warqee uume",
+        "Masaraa samii gahu ijaare",
+        "Falfaltoota Gibxii morme",
+        "Waraana bineensota balali'an waliin geggeesse",
+        "Ji'a akka ragaa raajiitti qoodi"
+      ],
+      "answer": "Waaqeffannaaf re'ee warqee uume"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Re'ee warqee",
+        "Ulee gara bofaatti jijjiirame",
+        "Bosona gaara irratti gubaa jiru",
+        "Doonii fiixee tokko irratti boqote",
+        "Boolla ibidda boba'een guutame"
+      ],
+      "answer": "Re'ee warqee"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Baqatamanii, tuqamuu ykn tuquu irraa dhoowwame",
+        "Waraana waliin galaana keessatti liqimfame",
+        "Amantii ganeef lubbuun gubate",
+        "Qilleensi hamaa fi boo'aa ta'een rukutamee gadi bu'e",
+        "Dhiifama godhamee gara buufata ol’aanaatti ol guddate"
+      ],
+      "answer": "Baqatamanii, tuqamuu ykn tuquu irraa dhoowwame"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

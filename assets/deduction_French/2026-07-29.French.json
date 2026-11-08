@@ -1,0 +1,61 @@
+{
+  "title": "La poursuite courtoise",
+  "intro": "Dans les cercles du pouvoir, un personnage de haut rang s'éprit d'une servante d'une beauté surnaturelle. Cette passion déclencha une série d'événements qui mirent à l'épreuve les loyautés, révélèrent des vérités cachées et, finalement, confirmèrent l'innocence de la servante.",
+  "clues": [
+    "J'ai vécu au pays du Nil, dans un palais d'une grande influence.",
+    "Un jeune homme est entré dans ma maison, et sa présence a bouleversé mon monde.",
+    "J'ai tenté de le séduire, mais il a cherché refuge auprès de son Seigneur.",
+    "J'ai déchiré ses vêtements par derrière, mais les preuves ont démontré ma tromperie.",
+    "Pour faire taire les commérages des dames de la noblesse, je les ai invitées à une réunion et j'ai placé des objets pointus dans leurs mains.",
+    "Finalement, j'ai publiquement avoué ma faute, reconnaissant la vérité devant le roi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "L'épouse d'Al-Aziz",
+        "Asiya (épouse du Pharaon)",
+        "Bilqis (Reine de Saba)",
+        "Marie (Mère d'Isa)",
+        "La mère de Moussa"
+      ],
+      "answer": "L'épouse d'Al-Aziz"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Elle a tenté de séduire le prophète Yusuf",
+        "Elle a tenté de tuer le prophète Moïse",
+        "Elle prétendait être une déesse",
+        "Elle a construit une tour pour défier Allah",
+        "Elle a mené une armée contre La Mecque"
+      ],
+      "answer": "Elle a tenté de séduire le prophète Yusuf"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une chemise déchirée dans le dos",
+        "Un veau doré",
+        "Un bâton qui se transforma en serpent",
+        "Une chamelle",
+        "Une lampe"
+      ],
+      "answer": "Une chemise déchirée dans le dos"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Elle a avoué et reconnu la vérité",
+        "Elle s'est noyée avec son armée",
+        "Elle se transforma en une statue de sel",
+        "Elle fut engloutie par la terre",
+        "Elle fut détruite par un vent hurlant"
+      ],
+      "answer": "Elle a avoué et reconnu la vérité"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

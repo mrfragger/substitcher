@@ -1,0 +1,61 @@
+{
+  "title": "Melodien der flyttede bjergene",
+  "intro": "Du er ved at afdække historien om en bemærkelsesværdig tjener for Allah. I et land med budbringere og herskere var denne figur velsignet med en guddommelig bog, en kraftfuld stemme og styrke over jern. Kan du identificere, hvem dette kunne være, mens du læser ledetrådene?",
+  "clues": [
+    "Jeg var en Allahs tjener, som fik tildelt en særlig bog.",
+    "Jeg havde en smuk stemme, og min lovsang var så elsket, at selv bakkerne og fuglene sluttede sig til mig.",
+    "Jeg stod over for en formidabel modstander i en berømt kamp, ​​og på trods af at jeg var mindre, sejrede jeg.",
+    "Jern blev gjort smidigt for mig, så jeg kunne lave rustning med mine egne hænder.",
+    "Jeg blev gjort til hersker over et stort folk, og min visdom i dømmekraft var berømt.",
+    "Min søn, også en profet, fik kontrol over vinden og djinnerne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Dawud (David)",
+        "Profeten Sulaiman (Salomon)",
+        "Profeten Musa (Moses)",
+        "Profeten Harun (Aaron)",
+        "Profeten Ilyas (Elias)"
+      ],
+      "answer": "Profeten Dawud (David)"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Besejrede Goliat (Jalut)",
+        "Delte havet",
+        "Overlevede hvalen",
+        "Blev kastet i bålet",
+        "Byggede Arken"
+      ],
+      "answer": "Besejrede Goliat (Jalut)"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Zabur (Salmer)",
+        "Toraen (Tawrat)",
+        "Evangeliet (Injil)",
+        "Ibrahims skriftruller",
+        "Koranen"
+      ],
+      "answer": "Zabur (Salmer)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev profet og konge af Israel",
+        "Blev hersker over Egypten",
+        "Blev ophøjet til himlen",
+        "Blev ødelagt af en storm",
+        "Blev en ledsager af hulen"
+      ],
+      "answer": "Blev profet og konge af Israel"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

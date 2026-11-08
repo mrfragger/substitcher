@@ -1,0 +1,61 @@
+{
+  "title": "Tanlanganlarning xoinlari",
+  "intro": "Tarix davomida ilohiy elchilar insoniyat orasida yurishgan va ularga eng yaqin bo'lganlarning ba'zilari nurni taniy olmagan. Bu hikoya payg'ambarlikka yaqinligi ularning sinoviga va merosi abadiy saboq bo'lgan ikki qalb haqida.",
+  "clues": [
+    "Biz buyuk payg'ambarlar davrida yashagan bo'lsak ham, ular olib kelgan haqiqatga ko'zimiz yumilgan edi.",
+    "Uylarimiz ilohiy vahiyga to'la edi, ammo qalblarimiz tosh bo'lib qolgan edi.",
+    "Biz o'z xalqini ogohlantirish uchun tanlangan erkaklarga uylangan edik.",
+    "Jazo kelganida, biz kemada panoh topmadik va yonayotgan yomg'irdan qochmadik, chunki biz ogohlantirishlarni masxara qildik.",
+    "Qur'onda biz kofirlar uchun namuna sifatida tilga olinganmiz va hatto payg'ambar bilan yaqin munosabatlar ham qutqarmasligini ko'rsatamiz.",
+    "Biz Nuh va Lutning xotinlarimiz, ularga xiyonat qilgan va shuning uchun hukm qilinganlar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Nuh va Lutning xotinlari",
+        "Ibrohim va Ismoilning xotinlari",
+        "Muso va Horunning xotinlari",
+        "Dovud va Sulaymonning xotinlari",
+        "Ayyub va Yunusning xotinlari"
+      ],
+      "answer": "Nuh va Lutning xotinlari"
+    },
+    "trial": {
+      "label": "Ularning sud jarayoni qanday bo'ldi?",
+      "options": [
+        "Ular payg'ambarlarga uylangan edilar, lekin kofir edilar",
+        "Ular bepusht edilar va payg'ambarlarni aybladilar",
+        "Ular boy va takabbur edilar",
+        "Ularni Iblis vasvasaga soldi va uylarini tark etishga undadi.",
+        "Ular Oltin Buzoqqa sig'inishdi"
+      ],
+      "answer": "Ular payg'ambarlarga uylangan edilar, lekin kofir edilar"
+    },
+    "location": {
+      "label": "Ularning taqdiri nima bilan bog'liq edi?",
+      "options": [
+        "Toshlar va toshqin yomg'iri",
+        "Shiddatli shamol",
+        "Zilzila",
+        "Chigirtkalar vabosi",
+        "Dengizning ikkiga bo'linishi"
+      ],
+      "answer": "Toshlar va toshqin yomg'iri"
+    },
+    "outcome": {
+      "label": "Ularning oxiri nima bo'ldi?",
+      "options": [
+        "Ular kofirlar bilan birga halok bo'lishdi.",
+        "Ular tavba qilishdi va najot topishdi",
+        "Ular farzandsiz qoldilar",
+        "Ular abadiy surgun qilindi",
+        "Ular maymunlar va cho'chqalarga aylantirildi"
+      ],
+      "answer": "Ular kofirlar bilan birga halok bo'lishdi."
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

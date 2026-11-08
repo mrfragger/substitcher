@@ -1,0 +1,61 @@
+{
+  "title": "Udręczona dusza Nilu",
+  "intro": "W czasach wielkiego ucisku, gdy tyran rządził krajem z absolutnym okrucieństwem, jedna dusza wybrała ścieżkę wiary zamiast komfortu królewskiego. Ta postać mieszkała w sercu władzy, a jednak odnalazła prawdę w przesłaniu pokornego proroka. Ich podróż stała się ponadczasową lekcją cierpliwości, poświęcenia i niezachwianego przekonania. Czy potrafisz rozpoznać tę niezwykłą osobę, która przedkładała boską przyjemność nad doczesność?",
+  "clues": [
+    "Mieszkałem w pałacu wielkiej władzy, jednak moje serce odnalazło prawdę w pokornym przesłaniu.",
+    "Postanowiłem posłuchać rady Musy, wiedząc, jakie to ze sobą niesie konsekwencje.",
+    "Byłam żoną najpotężniejszego tyrana moich czasów, a mimo to odrzuciłam jego fałszywych bogów.",
+    "Moje cierpienie było wielkie, gdyż zostałem ukarany za wiarę w Jednego Boga.",
+    "Nigdy nie zachwiałem się w swojej wierze, nawet gdy stawałem w obliczu najcięższych cierpień.",
+    "Mojemu Panu spodobała się moja cierpliwość i wybrał mnie na zaszczytne miejsce w Raju."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Matka proroka Musy",
+        "Żona faraona",
+        "Siostra proroka Musy",
+        "Królowa starożytnego Egiptu",
+        "Sługa Izraelitów"
+      ],
+      "answer": "Żona faraona"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Walcząc w imię Allaha z armią",
+        "Stawienie czoła faraonowi i wyznanie wiary",
+        "Budowa miejsc kultu w Egipcie",
+        "Podróż przez morze z Musą",
+        "Otrzymanie objawienia od Allaha"
+      ],
+      "answer": "Stawienie czoła faraonowi i wyznanie wiary"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Pustynia Midianu",
+        "Pałac królewski w Egipcie",
+        "Brzegi rzeki Nil",
+        "Góra Synaj",
+        "Ziemia Kanaan"
+      ],
+      "answer": "Pałac królewski w Egipcie"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Po wielu latach został prorokiem",
+        "Wyprowadził Izraelitów z Egiptu",
+        "Otrzymał suwerenność nad Egiptem",
+        "Został zamęczony i uhonorowany przez Allaha",
+        "Dożył starości w komforcie"
+      ],
+      "answer": "Został zamęczony i uhonorowany przez Allaha"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

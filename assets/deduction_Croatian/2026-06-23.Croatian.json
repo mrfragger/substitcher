@@ -1,0 +1,61 @@
+{
+  "title": "Čuvar na rubu rijeke",
+  "intro": "U zemlji gdje je tiranin dekret donio tugu mnogim domovima, jedna je duša primila poruku koja je prkosila svakom strahu. Sa srcem ispunjenim povjerenjem, krenuli su u čin vjere koji će promijeniti tijek nacije. Dok su vode nosile dragocjeni teret, nada se miješala sa strujama.",
+  "clues": [
+    "Živio sam u vremenu ugnjetavanja i straha.",
+    "Primio sam božansko nadahnuće koje mi je dalo hrabrost.",
+    "Bilo mi je zapovijeđeno da se ne bojim niti tugujem.",
+    "Stavila sam svoje dijete u škrinju i spustila ga na vodu.",
+    "Moje dijete je pronašla vladareva kuća, ali moje drugo dijete je pošlo za njim.",
+    "Ponovno sam se spojila sa svojim djetetom da ga dojim, baš kao što je Allah obećao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Mojsijeva majka",
+        "Faraonova žena",
+        "Mojsijeva sestra",
+        "Isusova majka",
+        "Kraljica od Sabe"
+      ],
+      "answer": "Mojsijeva majka"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti inspiriran da baci dijete u rijeku",
+        "Izazov na magični dvoboj",
+        "Progon od strane vojske",
+        "Prelazeći more koje se razdvojilo",
+        "Izgradnja svete kuće"
+      ],
+      "answer": "Biti inspiriran da baci dijete u rijeku"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Škrinja postavljena u rijeku",
+        "Gorući grm",
+        "Štap koji se pretvorio u zmiju",
+        "Zlatno tele",
+        "Prijestolje"
+      ],
+      "answer": "Škrinja postavljena u rijeku"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dijete je sigurno vraćeno medicinskoj sestri",
+        "Dijete je zauvijek izgubljeno",
+        "Dijete je odvedeno u daleku zemlju",
+        "Dijete je odmah postalo vladar",
+        "Dijete je posvojio bogati trgovac"
+      ],
+      "answer": "Dijete je sigurno vraćeno medicinskoj sestri"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

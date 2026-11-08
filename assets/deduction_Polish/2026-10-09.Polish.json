@@ -1,0 +1,61 @@
+{
+  "title": "Niezauważone wezwanie w Krainie Arogancji",
+  "intro": "Stoisz w ruinach niegdyś wielkiej cywilizacji, gdzie władza i pycha nie znały granic. Posłaniec chodził między nimi, wzywając do prawdy, lecz ich serca były zatwardziałe. Ostrzeżenie pozostało niezauważone, a samo niebo stało się narzędziem gniewu. Kim był ten posłaniec i co stało się z tymi, którzy odrzucili wezwanie?",
+  "clues": [
+    "Zostałem posłany do ludu, który nie miał sobie równych pod względem siły i który na każdym wzniesieniu zbudował pomnik.",
+    "Mój lud uważał się za niezwyciężonego i pytał: „Któż jest od nas potężniejszy pod względem siły?”",
+    "Wezwałem ich, aby czcili wyłącznie Allaha, ale oskarżyli mnie o głupotę i kłamstwo.",
+    "Wyzwali mnie, żebym wymierzył im karę, którą obiecałem, jeśli będę mówił prawdę.",
+    "Bóg zesłał na nich jałowy wiatr, który nie oszczędzał niczego, na co natrafiał.",
+    "Ja i ci, którzy uwierzyli wraz ze mną, zostaliśmy uratowani dzięki miłosierdziu Allaha, natomiast niewierni zostali całkowicie zniszczeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Salih",
+        "Prorok Szuajb",
+        "Prorok Lut",
+        "Prorok Noh"
+      ],
+      "answer": "Prorok Hud"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Niszczycielski wiatr zniszczył niewiernych",
+        "Wielka powódź pochłonęła niewierzących",
+        "Spadł deszcz kamieni",
+        "Głośny krzyk porwał niewierzących",
+        "Trzęsienie ziemi dotknęło niewiernych"
+      ],
+      "answer": "Niszczycielski wiatr zniszczył niewiernych"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Nieustanny wiatr",
+        "Drewniana arka",
+        "Wielbłądzica",
+        "Deszcz glinianych kamieni",
+        "Płonący ogień"
+      ],
+      "answer": "Nieustanny wiatr"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Hud i wierzący zostali ocaleni, a niewierzący zostali zniszczeni",
+        "Hud został wyniesiony na wysokie stanowisko",
+        "Hud został zabity przez swój lud",
+        "Ludzie Huda okazali skruchę i zostali oszczędzeni",
+        "Hud opuścił swój lud przed jakąkolwiek karą"
+      ],
+      "answer": "Hud i wierzący zostali ocaleni, a niewierzący zostali zniszczeni"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

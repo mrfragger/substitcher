@@ -1,0 +1,61 @@
+{
+  "title": "L-Inċiżuri tal-Ġebel tal-Wied Antik",
+  "intro": "Immaġina ċivilizzazzjoni li nibtet fil-widien tal-blat tal-Arabja, tas-sengħa fit-tinqix ta’ djar magnifiċi mill-ġnub tal-muntanji. Huma ffjorixxew bis-saħħa u l-arti, iżda l-istorja tagħhom hija mmarkata minn sfida tal-biża’ għat-twissija divina. Hekk kif tidħol fil-fond fl-istorja tagħhom, se tiskopri poplu li l-arroganza tiegħu wasslet għall-annihilazzjoni totali tagħhom. Min kienu?",
+  "clues": [
+    "Wirtna art ta’ pjanuri tal-blat u rdumijiet għoljin, fejn bnejna d-djar tagħna b’ħila bla paragun.",
+    "Konna magħrufin għat-tnaqqxin ta’ djar siguri fil-muntanji, u nħossuna protetti minn kwalunkwe periklu.",
+    "Messaġġier ġie għandna minn fostna, fakkarna fil-favuri ta’ Alla u jwissina dwar il-kastig.",
+    "Tlabna sinjal, u kamela mirakoluża ħarġet mill-blata, prova ċara mingħand Alla.",
+    "Aħna sfidajna t-twissija u qtajna l-ġwienaħ lill-ġemela, billi żbaljajna lill-messaġġier u sfidajna l-kastig.",
+    "Splużjoni waħda laħqitna fi djarna, u sa filgħodu konna mixħutin mal-art, bħallikieku qatt ma konna għexna hemm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Nies ta' Thamud",
+        "Nies ta' 'Ad",
+        "Nies ta' Madyan",
+        "Nies ta' Nuh",
+        "Nies ta' Lut"
+      ],
+      "answer": "Nies ta' Thamud"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ħammeġ il-ġemela",
+        "Kiser is-Sabat",
+        "Qimu l-għoġol tad-deheb",
+        "Qatlu lill-profeta li bagħat lilhom",
+        "Bnejt torri biex nilħaq is-sema"
+      ],
+      "answer": "Ħammeġ il-ġemela"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-ġemela",
+        "L-Arka",
+        "L-istaff",
+        "L-id bajda",
+        "Il-manna u s-summien"
+      ],
+      "answer": "Il-ġemela"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Meqrud minn splużjoni",
+        "Salvat mill-qerda",
+        "Mibdula f'xadini",
+        "Għerqet fil-baħar",
+        "Mibela’ mill-art"
+      ],
+      "answer": "Meqrud minn splużjoni"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

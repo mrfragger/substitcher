@@ -1,0 +1,61 @@
+{
+  "title": "Tuuta Bade",
+  "intro": "Sagalee hawaasa seenaan isaa dalga keessatti barreeffame dura dhaabbatta. Lubbuuwwan kun waamicha dhaga’anii, mormii filatanii, bu’aa lafa irra deebi’ee boce isaan mudate. Isaan eenyu, addunyaan isaanii maal ta'e?",
+  "clues": [
+    "Bara dheeraa dura jiraannee, ergamaan tokko of keessaa nutti dhufe.",
+    "Waaqolii tolfamoo shan waaqeffannee dhiisuu didde.",
+    "Ergamaa sanatti qoosnee karaa irraa maqe jennee himatne.",
+    "Yoo dhugaa dubbate adabbii akka fidu gaafanne.",
+    "Samiin rooba roobsee lafti burqaa akka dhangalaasu argine.",
+    "Miliquuf gara iddoowwan olkaʼaatti ol baane, dalgaa garuu nu bira gaʼe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Ummata Nuh",
+        "Namoonni 'Ad",
+        "Ummata Thamud",
+        "Ummata Luut",
+        "Ummata Madyan"
+      ],
+      "answer": "Ummata Nuh"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Lolaa guddaa keessa liqimfamne",
+        "Obomboleettiidhaan barbadaa'e",
+        "Dhohinsa guddaa tokkoon ajjeefamne",
+        "Lafaan liqimfamne",
+        "Samii irraa dhagaan nu rukutame"
+      ],
+      "answer": "Lolaa guddaa keessa liqimfamne"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Lolaa guddaa",
+        "Qilleensi cimaan",
+        "Dhagaa rooba",
+        "Dhohinsa abiddaa",
+        "Kirkira lafaa"
+      ],
+      "answer": "Lolaa guddaa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Nuhun wajjiin amantoota malee hundi keenya badne",
+        "Gara hantuutaatti jijjiiramne",
+        "Imaltootaaf diigama taanee hafne",
+        "Gara soogiddatti jijjiiramne",
+        "Boqonnaan nuuf kenname"
+      ],
+      "answer": "Nuhun wajjiin amantoota malee hundi keenya badne"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Quốc gia thách thức trật tự tự nhiên",
+  "intro": "Tại một vùng đất có lịch sử vang vọng qua nhiều thế kỷ, có một cộng đồng sống trong sự nổi loạn công khai chống lại các luật lệ về sự thanh khiết. Hành động của họ chưa từng có tiền lệ đến nỗi chúng được ghi nhớ như một lời cảnh báo cho toàn nhân loại. Những con người này là ai, và số phận nào đã chờ đợi họ?",
+  "clues": [
+    "Chúng tôi sinh sống ở một vùng đất bên con đường mà các lữ khách thường xuyên đi qua, nhưng chúng tôi đã khiến hành trình của họ trở nên đầy nguy hiểm.",
+    "Chúng ta đã phạm phải những hành vi vô đạo đức mà chưa ai trên thế giới từng làm trước đây.",
+    "Một sứ giả từ giữa chúng ta đã kêu gọi chúng ta từ bỏ lối sống cũ, nhưng chúng ta đã bác bỏ lời kêu gọi đó và đòi hỏi sự trừng phạt nếu lời nói của ông ta là sự thật.",
+    "Khi những vị khách đẹp trai đến thành phố chúng ta, chúng ta đã tìm cách tấn công họ, mà không biết rằng họ là sứ giả của sự hủy diệt.",
+    "Chúng tôi đã được cảnh báo về một hình phạt khủng khiếp nếu không từ bỏ tội lỗi, nhưng chúng tôi đã chế nhạo lời cảnh báo và tiếp tục phạm tội.",
+    "Một trận mưa đá từ trên trời trút xuống, nhà cửa chúng tôi bị đảo lộn, không còn dấu vết gì ngoài một dấu hiệu dành cho những ai biết suy ngẫm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người dân Lut",
+        "Người dân Thamud",
+        "Người dân A'ad",
+        "Người dân Madyan",
+        "Người dân Saba"
+      ],
+      "answer": "Người dân Lut"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Đã phạm phải những hành vi vô đạo đức chưa từng có và gây cản trở giao thông.",
+        "Thờ cúng con bê vàng",
+        "Giết chết con lạc đà cái thiêng liêng",
+        "Gian lận trong buôn bán và bóc lột người dân.",
+        "Xây dựng một tòa tháp cao chót vót để thách thức cả bầu trời."
+      ],
+      "answer": "Đã phạm phải những hành vi vô đạo đức chưa từng có và gây cản trở giao thông."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Những thiên thần hóa thân thành những vị khách đẹp trai",
+        "Một con lạc đà cái chui ra từ tảng đá.",
+        "Một cây gậy biến thành con rắn",
+        "Một chiếc thuyền được đóng trên núi.",
+        "Ngọn lửa đã nguội lạnh và trở nên yên bình."
+      ],
+      "answer": "Những thiên thần hóa thân thành những vị khách đẹp trai"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị phá hủy bởi cơn mưa đá từ trên trời rơi xuống.",
+        "Bị đất nuốt chửng",
+        "Chết đuối trong trận lụt lớn",
+        "Bị trúng một tiếng nổ chói tai",
+        "Biến thành vượn"
+      ],
+      "answer": "Bị phá hủy bởi cơn mưa đá từ trên trời rơi xuống."
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Alovlu Düşmən",
+  "intro": "Vəhy dövrünün ilk dövrlərində həqiqətin inadkar bir əleyhdarı kimi bir şəxs ortaya çıxdı. Var-dövlət və statusla bəxti gətirən bu ruh, rəhbərlikdənsə, qüruru seçdi və onların hekayəsi bir surənin son ayələrində ciddi bir xəbərdarlıq oldu.",
+  "clues": [
+    "Mən Peyğəmbərlə eyni şəhərdə yaşayırdım və ona ən yaxın qohumlardan biri idim, amma qürurum məni həqiqətdən uzaqlaşdırırdı.",
+    "Böyük sərvətim və çoxlu mülküm var idi və düşünürdüm ki, sərvətim məni həmişə qoruyacaq.",
+    "Mesaj nazil olduqda, mən onu açıq şəkildə lağa qoydum və özümü möminlərdən üstün hesab edərək üz döndərdim.",
+    "Düşmənçiliyim o qədər məşhur idi ki, Quranın bir surəsi birbaşa mənə müraciət edir, məni başqalarının tanıdığı adla çağırırdı.",
+    "Mənə xəbərdar edildilər ki, nə var-dövlətim, nə də qazancım mənə fayda verməyəcək və mən alovlu oda atılacağam.",
+    "Mən alovun atası kimi tanınıram və həyat yoldaşım boynunda xurma lifindən ip gəzdirərək odun daşıyacaq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əbu Ləhəb",
+        "Əbu Cəhil",
+        "Əbu Süfyan",
+        "Əl-Valid ibn əl-Muğira",
+        "Əl-As ibn Vail"
+      ],
+      "answer": "Əbu Ləhəb"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İslamı rədd etdi və açıq şəkildə Peyğəmbərə qarşı çıxdı",
+        "Peyğəmbərə sui-qəsd planı",
+        "Müsəlmanlara qarşı sosial boykot təşkil etdi",
+        "Bədr döyüşündə vuruşmuş",
+        "Bilal ibn Rəbah işgəncəyə məruz qalıb"
+      ],
+      "answer": "İslamı rədd etdi və açıq şəkildə Peyğəmbərə qarşı çıxdı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Xurma lifindən bir ip",
+        "İti bir qılınc",
+        "Ağır bir zəncir",
+        "Taxta bir çubuq",
+        "Dəri qamçı"
+      ],
+      "answer": "Xurma lifindən bir ip"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Alovlu bir odda yanacaq",
+        "Tövbə etdi və yoldaş oldu",
+        "Sərvətini itirdi, amma şərəflə öldü",
+        "Həbəşistana qaçdı",
+        "Dənizdə boğuldu"
+      ],
+      "answer": "Alovlu bir odda yanacaq"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

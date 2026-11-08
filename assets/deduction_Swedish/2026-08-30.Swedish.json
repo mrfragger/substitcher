@@ -1,0 +1,61 @@
+{
+  "title": "Uppenbarelsens betrodda ande",
+  "intro": "I de osynliga sfärerna rör sig en varelse av rent ljus med precision och utför varje befallning utan att tveka. Denna figur har talat till utvalda tjänare, kommit med vägledande ord och bevittnat hur gudomliga dekret utvecklats genom tiderna. Vem är denna ärade själ?",
+  "clues": [
+    "Jag är en varelse av rent ljus, skapad av ljus, och jag har aldrig trotsat en enda befallning från min Herre.",
+    "Jag rör mig mellan himlarna och jorden, stigande ner med den Barmhärtiges påbud.",
+    "Jag sändes till en ädel jungfru i helgedomen och förkunnade för henne en ren son.",
+    "Jag är helighetens ande, och jag stödde en profet som fick tydliga tecken och evangeliet.",
+    "Jag kom till en grotta på ett berg för att framföra de första orden i en recitation som skulle bevaras för alltid.",
+    "Jag är den pålitliga anden, och det var jag som lät Koranen komma ner över den sista budbärarens hjärta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "Dödens ängel",
+        "Malik (Helvetets väktare)",
+        "Harut (en av de två änglarna i Babylon)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Huvuduppdrag/roll",
+      "options": [
+        "Att ge uppenbarelser till profeterna",
+        "Att blåsa i trumpeten på domens dag",
+        "Vaktar helvetets portar",
+        "Att dokumentera människors gärningar",
+        "Får regnet att falla"
+      ],
+      "answer": "Att ge uppenbarelser till profeterna"
+    },
+    "location": {
+      "label": "Nyckelattribut eller titel",
+      "options": [
+        "Den Helige Ande (Ruh al-Qudus)",
+        "Kraftens ande",
+        "Barmhärtighetens Ande",
+        "Vägledningens ande",
+        "Sanningens Ande"
+      ],
+      "answer": "Den Helige Ande (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Resultatet av uppdraget",
+      "options": [
+        "Koranen uppenbarades för profeten Muhammed",
+        "Trumpeten blåstes på domens dag",
+        "Helvetet var bevakat och dess portar var stängda",
+        "Gärningarnas bok presenterades för Allah",
+        "Regnet skickades ner till jorden"
+      ],
+      "answer": "Koranen uppenbarades för profeten Muhammed"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

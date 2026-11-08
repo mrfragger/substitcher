@@ -1,0 +1,60 @@
+{
+  "title": "Dalgaların Altındaki Dava",
+  "intro": "Görev yükünün ağırlığı altında ezilen bir peygamber, kendisini halkından uzaklaştıran ve beklenmedik bir imtihana sürükleyen bir karar aldı. Yolculuğu dramatik bir dönüş aldı ve inancını ve sabrını en derin şekilde sınadı. Verilen ipuçlarından bu olağanüstü olayın ayrıntılarını çıkarabilir misiniz?",
+  "clues": [
+    "Bir halka bir peygamber gönderildi, ancak halkın reddinden duyduğu hayal kırıklığıyla aceleyle oradan ayrıldı.",
+    "Yolculuğu onu denize götürdü ve orada ağır yük taşıyan bir gemiye binerek yolculuk yapmaya başladı.",
+    "Gemiyi tehdit eden büyük bir fırtına çıktı ve yükü hafifletmek için kura ile belirlenecek şekilde bir kişinin denize atılmasına karar verildi.",
+    "O, derinliklerden bir yaratık tarafından yutuldu; bu, ilahi iradenin takdir ettiği mucizevi bir olaydı.",
+    "Yaratığın karnının içinde, karanlıkta tövbe ederek ve Allah'ı yücelterek Rabbine seslendi.",
+    "Yoğun bir yakarış döneminden sonra, bitkin ama hayatta bir halde çorak bir kıyıya bırakıldı ve daha sonra halkının sonunda ona inandığını görmek için geri döndü."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Peygamber/Kişi",
+      "options": [
+        "Peygamber Nuh",
+        "Peygamber Lut",
+        "Peygamber Musa",
+        "Peygamber Yunus",
+        "Peygamber Yusuf"
+      ],
+      "answer": "Peygamber Yunus"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Nuh tufanı",
+        "Sodom'un yıkımı",
+        "Büyük balığın karnındaki yolculuk",
+        "Denizin yarılması",
+        "Yanan çalı vahyi"
+      ],
+      "answer": "Büyük balığın karnındaki yolculuk"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Sina Dağı",
+        "Musa'nın Asası",
+        "Büyük Balık",
+        "Yusuf Kuyusu"
+      ],
+      "answer": "Büyük Balık"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İnsanlıkla yeni bir antlaşma",
+        "Halkı için mucizevi bir doğum",
+        "Soyu için kurulmuş bir krallık.",
+        "O zamanlar inanan halkının yanına geri döndü.",
+        "Zalim bir hükümdara karşı kazanılan zafer"
+      ],
+      "answer": "O zamanlar inanan halkının yanına geri döndü."
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

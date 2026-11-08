@@ -1,0 +1,61 @@
+{
+  "title": "Ruhê Êşbir ê Nîlê",
+  "intro": "Di serdemeke zilm û zorê de, dema ku zalimek bi hovîtîyeke bêdawî welêt hukum dikir, giyanek rêya baweriyê li ser rehetiya padîşahiyê hilbijart. Ev kesayetî di dilê desthilatdariyê de dijiya lê dîsa jî rastî di peyama pêxemberekî dilnizm de dît. Rêwîtiya wan dê bibe dersek bêdem a sebir, fedakarî û baweriya bêdawî. Hûn dikarin vî kesê berbiçav ê ku kêfa îlahî li ser statuya dinyayî tercîh kir, nas bikin?",
+  "clues": [
+    "Ez di qesreke bi hêzeke mezin de dijîm, lê dîsa jî dilê min rastî di peyameke dilnizm de dît.",
+    "Min biryar da ku rêberiya Mûsa bişopînim, ji ber ku min dizanibû ez ê bi encamên ku ez ê pê re rû bi rû bimînim.",
+    "Ez bi tîranê herî bihêz ê serdema xwe re zewicî bûm, lê min xwedayên wî yên sexte red kirin.",
+    "Êşa min giran bû, ji ber ku ez ji ber baweriya xwe bi Xwedayê yekane hatim cezakirin.",
+    "Min qet di baweriya xwe de lerizî, tewra dema ku ez rastî îşkenceyên herî dijwar hatim jî.",
+    "Rebê min ji sebra min razî bû û min ji bo cihekî bi rûmet di bihuştê de hilbijart."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Dayika Pêxember Mûsa",
+        "Jina Fîrewn",
+        "Xwişka Pêxember Mûsa",
+        "Şahbanûyek Misira kevnar",
+        "Xizmetkarê Îsraêliyan"
+      ],
+      "answer": "Jina Fîrewn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Şerkirina di rêya Xwedê de bi leşkerekî",
+        "Rûbirûbûna bi Fîrewn re û ragihandina baweriyê",
+        "Avakirina cihên îbadetê li Misrê",
+        "Sefera li ser deryayê bi Mûsa re",
+        "Wergirtina wehyê ji Xwedê"
+      ],
+      "answer": "Rûbirûbûna bi Fîrewn re û ragihandina baweriyê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Çola Midyanê",
+        "Qesra padîşahî ya Misrê",
+        "Qeraxên Çemê Nîlê",
+        "Çiyayê Sînayê",
+        "Erdê Kenanê"
+      ],
+      "answer": "Qesra padîşahî ya Misrê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Piştî gelek salan bû pêxember",
+        "Îsraêliyan ji Misirê derxist",
+        "Serweriya li ser Misrê hate dayîn",
+        "Şehîd hat û ji aliyê Xwedê ve hat şerefkirin",
+        "Di aştiyê de heta pîrbûnê jiya"
+      ],
+      "answer": "Şehîd hat û ji aliyê Xwedê ve hat şerefkirin"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

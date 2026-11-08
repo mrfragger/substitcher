@@ -1,0 +1,61 @@
+{
+  "title": "Şikayət Səs-küyün Üstündə Eşidildi",
+  "intro": "Zülmün adi hala gəldiyi bir cəmiyyətdən yüksələn bir səs eşidirsiniz. Heç bir güc nümayişi şikayətə cavab vermir; əksinə, birbaşa müraciət Allaha çatır və cavab ibadətin özəyinə zərbə vurur. Bu şikayəti kim etdi, hansı sualdan sonra gəldi və hansı həqiqət təsdiqləndi?",
+  "clues": [
+    "Ətrafımdakı insanların zülmündən narahat oldum.",
+    "Mən bu şikayətimi birbaşa Allaha şəxsi şikayətimdə bildirdim.",
+    "Allah şikayətimi eşitdi və öz inancımla bağlı bir sualla cavab verdi.",
+    "Cavabda soruşulurdu ki, necə ola bilər ki, tək və qüdrətli olan Allaha inanmayım.",
+    "Sonra soruşdum ki, Allah niyə kafir olan bir qövmə lütf etməlidir?",
+    "Mən Zuxruf surəsində adı çəkilən Üzeyirəm, Allahın şikayətimi eşitdiyi şəxs kimi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Üzeyir",
+        "Böyük daşqında üzən yoldaş",
+        "Suyun üzərində gəzən xidmətçi",
+        "Yatan mağarada qorunurdu",
+        "Çaya daş gətirən qulluqçu"
+      ],
+      "answer": "Üzeyir"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İnsanlara edilən zülmdən Allaha şikayət etmək",
+        "Fırtına zamanı suyun üzərində gəzmək",
+        "Susuz bir çaya daş daşımaq",
+        "Gəmidə böyük bir daşqından keçmək",
+        "Böyük bir xəzinənin açarını almaq"
+      ],
+      "answer": "İnsanlara edilən zülmdən Allaha şikayət etmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Allaha ünvanlanmış birbaşa şikayət",
+        "İlana çevrilən bir əsa",
+        "Sərin və dinc bir soba",
+        "Daşqın sularının üzərində üzən bir gəmi",
+        "Balıq xidmətçini udur"
+      ],
+      "answer": "Allaha ünvanlanmış birbaşa şikayət"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Allah şikayəti eşitdi və ilahi birliyi və ali lordu təsdiqlədi",
+        "Fırtına zamanı su üzərində təhlükəsiz gəzmək",
+        "Gəmidə böyük bir daşqından sağ-salamat keçmək",
+        "Təkəbbür sarayında yenidən mənzərənin üzə çıxması",
+        "Şərqdən Qərbə qədər uzanan hökmranlığı qəbul etmək"
+      ],
+      "answer": "Allah şikayəti eşitdi və ilahi birliyi və ali lordu təsdiqlədi"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

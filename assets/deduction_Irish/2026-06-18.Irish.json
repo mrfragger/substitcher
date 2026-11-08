@@ -1,0 +1,61 @@
+{
+  "title": "An Chéad Duine a Lorg Maithiúnas",
+  "intro": "Téigh siar go dtí an t-am roimh an gcéad éirí gréine, sular shiúil aon duine básmhar ar an domhan. Rinneadh figiúr as na hábhair is ísle, tugadh stádas os cionn na n-aingeal dó, agus cuireadh i ngairdín naofa é le rabhadh soiléir. Ach i nóiméad amháin, rinneadh rogha - ceann a mhacallafeadh stair an chine dhaonna ar fad. Cé hé an figiúr seo?",
+  "clues": [
+    "Rugadh mé ar an saol ar bhealach nach raibh a leithéid ann riamh — cruthaíodh mé as deannach na talún agus tugadh anam beo dom ó lámh an Chruthaitheora.",
+    "Bronnadh eolas chomh domhain sin orm gur chuir fiú na haingil thuas iontas air.",
+    "Ordaíodh do gach duine ar neamh claonadh os mo chomhair, agus ghéill siad go léir — ach amháin duine amháin, a dhiúltaigh as bród.",
+    "Cuireadh mé i ngairdín naofa, áit chompord agus soláthair shíoraí — ach le cosc ​​dian amháin.",
+    "D’éirigh liom dearmad a dhéanamh, shleamhnaigh mé, agus níor umhlaigh mé — agus bhraith mé meáchan mo bhotúin go domhain.",
+    "Chas mé ar mo Thiarna le focail ó chroí, agus ghlac Sé le m’aithrí, óir is É an Té is Maithiúnaí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ádhamh",
+        "Fáidh Dawud",
+        "Fáidh Muhammad",
+        "Iblis",
+        "an Fáidh Yaqub"
+      ],
+      "answer": "Fáidh Ádhamh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ordaíodh do na haingil géilleadh",
+        "Seoladh an Tuilte Mór",
+        "Rinneadh tine mhór fionnuar agus sábháilte",
+        "Báthadh rialóir sotalach sa bhfarraige",
+        "Scriosadh arm eilifintí"
+      ],
+      "answer": "Ordaíodh do na haingil géilleadh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gairdín na hAoise",
+        "Sliabh Shíonáí",
+        "An Mosc Naofa",
+        "Abhainn na Níle",
+        "An Uaimh"
+      ],
+      "answer": "Gairdín na hAoise"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Glacadh leis an aithrí ag Allah",
+        "Báite sa bhfarraige",
+        "Slogtha ag iasc mór",
+        "Bhuail pléascadh mór an náisiún",
+        "Dóite ag gaoth theas"
+      ],
+      "answer": "Glacadh leis an aithrí ag Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

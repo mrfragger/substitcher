@@ -1,0 +1,61 @@
+{
+  "title": "Somnus Ultra Tempus",
+  "intro": "Finge tempus quo veritas silentio suppressa est et fideles venati sunt. Parvus grex refugium deditioni praefert, perfugium in locis improbabilibus inveniens — loco qui per saecula innumerabilia quies eorum fieret. Cum tandem experrecti sunt, mundus circa eos transformatus erat. Quaenam sunt hae animae dormientes?",
+  "clues": [
+    "Iuvenes eramus in urbe antiqua habitantes.",
+    "Communitas nostra postulavit ut una cum eis adoraremus, sed recusavimus.",
+    "Ex urbe fugimus, refugium ab eis qui nostris sententiis adversabantur quaesientes.",
+    "Fidelis comes quadrupes ad introitum latibuli nostri mansit.",
+    "Allah nos dormire fecit per trecentos novem annos.",
+    "Cum tandem experrecti essemus, urbs nostra olim persecutrix fidem amplexa erat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Ashab al-Kahf (Populus Speluncae)",
+        "Ashab al-Fil (Exercitus Elephantis)",
+        "Ashab al-Ukhdud (Socii Fossae)",
+        "The Hawariyyun (Disciples of Isa)",
+        "Yajuj wa Majuj (Gog et Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Populus Speluncae)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "In speluncam nos recepimus et per saecula dormivimus",
+        "Ex igne ardenti servati sumus",
+        "A magno pisce devorati sumus",
+        "Camelā mirabili probati sumus",
+        "Novem signa manifesta nobis data sunt"
+      ],
+      "answer": "In speluncam nos recepimus et per saecula dormivimus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Spelunca profunda in montibus",
+        "Navis in mari aperto",
+        "Structura turris ad caelum pertingens",
+        "Hortus inter duos rivales divisus",
+        "Obiex ferri et aeris"
+      ],
+      "answer": "Spelunca profunda in montibus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Expergefacti invenimus urbem nostram ad fidem conversam esse",
+        "Ignis ardens frigidus et pacificus factus est",
+        "Exercitus hostilis in mari submersus est",
+        "Aves lapides portantes hostem deleverunt",
+        "Magnus piscis nos ad litus emisit"
+      ],
+      "answer": "Expergefacti invenimus urbem nostram ad fidem conversam esse"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Zaupanje, zaupano reki",
+  "intro": "Duša se je soočila z nemogočo odločitvijo, kjer je bilo na nitki življenje novorojenčka. Vodena z božanskim navdihom je ubogala obupan ukaz in dragocena skrivnost je bila prepuščena toku, le da se je vrnila na nepredviden način.",
+  "clues": [
+    "Živel sem v senci tirana, ki je ukazoval ubijanje novorojenih dečkov.",
+    "Prejel me je božanski navdih, ki mi je naročil, naj storim obupan in srce parajoč ukrep.",
+    "Svojega dragocenega otroka sem položila v skrinjo in ga postavila na tekočo reko.",
+    "Moje srce se je izpraznilo in skoraj sem razkril skrivnost, toda Alah je okrepil mojo odločnost.",
+    "Poslal sem nekoga, da je sledil otrokovi poti navzdol, saj je tok odnašal skrinjo.",
+    "Otroka je našla tirana družina in sčasoma sem se spet združila z njim ter postala varuška."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Mati preroka Muse",
+        "Asija (žena faraona)",
+        "Marjam (mati preroka Isa)",
+        "Žena preroka Luta",
+        "Mati preroka Yahye (žena Zakarije)"
+      ],
+      "answer": "Mati preroka Muse"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Svojega otroka je položila v skrinjo in jo postavila na reko",
+        "Skrila je svojega otroka v jamo",
+        "Svojega otroka je pustila v puščavi",
+        "Vrgla je svojega otroka v ogenj",
+        "Svojega otroka je pustila pred vrati mošeje"
+      ],
+      "answer": "Svojega otroka je položila v skrinjo in jo postavila na reko"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja, postavljena na plavajočo reko",
+        "Goreči grm",
+        "Palica, ki se je spremenila v kačo",
+        "Miza, pogrnjena z nebeško hrano",
+        "Kamela, poslana kot znamenje"
+      ],
+      "answer": "Skrinja, postavljena na plavajočo reko"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Ponovno se je združila s svojim otrokom in ga dojila",
+        "Nikoli več ni videla svojega otroka",
+        "Usmrtil jo je tiran",
+        "Postala je kraljica v Egiptu",
+        "Izselila se je v drugo deželo in živela v izgnanstvu"
+      ],
+      "answer": "Ponovno se je združila s svojim otrokom in ga dojila"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

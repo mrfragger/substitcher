@@ -1,0 +1,61 @@
+{
+  "title": "Die Durstprobe",
+  "intro": "Eine Gemeinschaft, die sich nach einer Führung sehnte, die ihre Sache verteidigen sollte, bat um die Einsetzung eines Befehlshabers. Als ihrem Antrag stattgegeben wurde, begegnete man dem Auserwählten mit Skepsis, denn dieser besaß nicht den erwarteten weltlichen Status. Vor der entscheidenden Konfrontation sollte dieser neue Anführer die Disziplin der Armee mit einer einfachen, aber tiefgreifenden Prüfung der Selbstbeherrschung auf die Probe stellen.",
+  "clues": [
+    "Ich wurde zum Kommandanten ernannt, nachdem mein Volk einen Anführer gefordert hatte, der für die Sache Allahs kämpfen sollte.",
+    "Viele meiner eigenen Leute stellten meine Ernennung zunächst in Frage und verwiesen auf meinen Mangel an Reichtum und adliger Abstammung.",
+    "Ich wurde auserwählt, weil Allah mir ein Übermaß an Wissen und eine imposante Körpergröße verliehen hatte.",
+    "Ein klares Zeichen meiner göttlichen Berufung war die Rückkehr der Bundeslade, getragen von Engeln, die den Herzen der Gläubigen Frieden brachte.",
+    "Als ich mit meinen Soldaten losmarschierte, verkündete ich, dass wir an einem Fluss auf die Probe gestellt würden.",
+    "Ich befahl meiner Armee, dass derjenige, der reichlich aus dem Fluss trank, nicht zu meiner Truppe gehörte, während diejenigen, die nur eine einzige Schöpfkelle in die Hand nahmen, in meiner Truppe bleiben würden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Jalut (Goliath)",
+        "Talut (Saul)",
+        "Prophet Dawud",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Was war mein Hauptprozess?",
+      "options": [
+        "Errichtung einer Barriere gegen Gog und Magog",
+        "Im Einzelkampf einem Riesen gegenübertreten",
+        "Die Gehorsamkeit einer Armee an einem Fluss testen",
+        "Er führt ein Heer von Dschinn und Vögeln an.",
+        "Das Überleben, nachdem man in ein Feuer geworfen wurde"
+      ],
+      "answer": "Die Gehorsamkeit einer Armee an einem Fluss testen"
+    },
+    "location": {
+      "label": "Was war ein wichtiges Zeichen meiner Autorität?",
+      "options": [
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein Kamel, das aus einem Felsen auftauchte",
+        "Ein Kettenhemd aus weichgekochtem Eisen",
+        "Die Bundeslade (At-Tabut)",
+        "Ein Tisch voller himmlischer Speisen"
+      ],
+      "answer": "Die Bundeslade (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Wie war das Ergebnis meiner Kampagne?",
+      "options": [
+        "Die Armee von Jalut (Goliath) besiegen",
+        "Das Rote Meer teilen, um einem Tyrannen zu entkommen",
+        "Eine langlebige Dynastie in meinem Namen begründen",
+        "Der Bau der heiligen Kaaba in Mekka",
+        "Ohne zu sterben, in den Himmel erhoben werden"
+      ],
+      "answer": "Die Armee von Jalut (Goliath) besiegen"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

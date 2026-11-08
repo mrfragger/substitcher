@@ -1,0 +1,61 @@
+{
+  "title": "hazina iliyozama chini ya kiburi",
+  "intro": "Hebu fikiria kusimama mbele ya rundo la utajiri mkubwa kiasi kwamba kubeba funguo tu kungechosha kundi la watu wenye nguvu. Sauti zinazokuzunguka zinahimiza unyenyekevu na ukumbusho, lakini kiburi kinaongezeka zaidi kuliko shukrani. Nini hutokea wakati fadhila inakuwa mtihani na kiburi kinafunga matokeo?",
+  "clues": [
+    "Mimi nilikuwa miongoni mwa watu wa Musa, lakini niliwaasi.",
+    "Nilipewa hazina kubwa sana kiasi kwamba funguo zake zingelemea kundi la watu wenye nguvu.",
+    "Watu wangu walinishauri nisifurahi na kutafuta Akhera bila kusahau sehemu yangu ya ulimwengu huu.",
+    "Nilidai kwamba kile nilichokuwa nacho nilipewa kwa sababu tu ya ujuzi niliokuwa nao.",
+    "Nilitembea mbele ya watu wangu nikiwa nimevaa pambo, na wale waliotamani maisha ya dunia walitamani kama nilivyo nayo mimi.",
+    "Nilimezwa na ardhi pamoja na makao yangu, na hakuna aliyeweza kunisaidia wala kujisaidia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alijivunia utajiri na akakataa neema ya Mwenyezi Mungu licha ya ushauri",
+        "Alimpinga Ibrahim kuhusu kutoa uhai na kifo",
+        "Aliongoza jeshi dhidi ya Talut na Dawud",
+        "Sanamu zilizochongwa kwa ajili ya watu kuabudu",
+        "Alimuua ndugu kwa wivu kwa ajili ya sadaka"
+      ],
+      "answer": "Alijivunia utajiri na akakataa neema ya Mwenyezi Mungu licha ya ushauri"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Funguo za hazina kubwa",
+        "Sanduku la Agano",
+        "Ndama wa dhahabu wa mapambo",
+        "Bwawa kati ya milima miwili",
+        "Nyota kumi na moja katika ndoto"
+      ],
+      "answer": "Funguo za hazina kubwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imemezwa na ardhi na makao na utajiri",
+        "Kuzama baharini huku nikimfuatilia Musa",
+        "Alipigwa na jiwe kutoka kwa kombeo la Dawud",
+        "Aliangamizwa na mlipuko mkubwa kwa kumkata ngamia jike",
+        "Aligeuka kuwa nyani kwa kuvunja Sabato"
+      ],
+      "answer": "Imemezwa na ardhi na makao na utajiri"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

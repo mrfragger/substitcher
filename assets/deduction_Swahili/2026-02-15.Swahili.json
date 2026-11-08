@@ -1,0 +1,61 @@
+{
+  "title": "Sauti ya Uthabiti",
+  "intro": "Mtu huyu anakumbukwa kwa hekima na mwongozo wa kina, akitoa ushauri unaopita vizazi vingi. Maneno yao ni ushuhuda wa uchamungu na umuhimu wa kutambua baraka na majaribu kutoka kwa Mungu. Tambua utambulisho wa nafsi hii inayoheshimiwa.",
+  "clues": [
+    "Sikuwa nabii, lakini hekima yangu imethibitishwa katika Maandiko Matakatifu.",
+    "Ushauri wangu kwa mtoto wangu ulisisitiza shukrani kwa Mwenyezi Mungu na kuepuka shirk.",
+    "Nilifundisha kuhusu umuhimu wa sala, kuamrisha mema, na kukataza maovu.",
+    "Nilionya dhidi ya kiburi na kutembea kwa dharau duniani.",
+    "Jina langu limepewa sura nzima katika Quran, ikisisitiza mafundisho yangu.",
+    "Ushauri wangu ulijumuisha uvumilivu katika shida, kwani kwa kweli, hiyo ni kutoka kwa mambo yenye uamuzi mkubwa zaidi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Idris",
+        "Nabii Yahya",
+        "Luqman",
+        "Imran",
+        "Nabii Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Mafundisho/Mwongozo Muhimu",
+      "options": [
+        "Kujenga safina",
+        "Kukabiliana na jeshi lenye nguvu",
+        "Kutoa hekima na ushauri wa maadili",
+        "Kutafsiri ndoto",
+        "Kuongoza taifa kwenye ushindi"
+      ],
+      "answer": "Kutoa hekima na ushauri wa maadili"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kichaka kinachowaka moto",
+        "Samaki mkubwa",
+        "Mlima maalum",
+        "Ushauri wa busara kwa mtoto",
+        "Jumba kubwa la kifalme"
+      ],
+      "answer": "Ushauri wa busara kwa mtoto"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa mfalme",
+        "Alipewa unabii",
+        "Hekima yake iliandikwa katika Quran",
+        "Aliwaongoza watu wake katika nchi mpya",
+        "Alipewa utajiri mkubwa"
+      ],
+      "answer": "Hekima yake iliandikwa katika Quran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

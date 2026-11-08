@@ -1,0 +1,61 @@
+{
+  "title": "Sub la Ombro de la Daktilujo",
+  "intro": "Rakonto disvolviĝas pri animo apartigita antaŭ la naskiĝo, nutrata ene de sanktaj muroj, kaj elektita por porti signon, kiun la mondo neniam antaŭe vidis. Kiam akuzo ekestis el ĉiu direkto, voĉo venis el la plej neverŝajna loko por silentigi ĉian dubon. Ĉu vi povas malkovri, kiu marŝis sub la ombro de daktilujo?",
+  "clues": [
+    "Mi estis dediĉita al la servo de la Ĉiopova antaŭ ol mi eĉ ne enspiris, ĵuro farita de tiu, kiu portis min.",
+    "Mi kreskis sub la atenta zorgo de justa gardanto ene de la sanktaj ĉambroj de didomo.",
+    "Kiam ajn mia gardanto venis al mian ĉambron, li trovis ĉe mi provizojn el sezonoj, kiuj ne devus esti.",
+    "Mi ricevis ĝojan novaĵon pri filo, kvankam miaj cirkonstancoj lasis nenian spacon por tio, kio estis promesita.",
+    "Mi retiriĝis al malproksima loko, kaj tie daktilujo ofertis al mi ombron dum rivereto fluis sube.",
+    "Kiam akuzoj venis kaj demandoj ĉirkaŭis min, mi montris al mia novnaskita infano — kaj li parolis el la lulilo por silentigi ĉiun dubon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Mariam",
+        "Sara",
+        "Hawwa",
+        "Umm Musa",
+        "La edzino de Nuh"
+      ],
+      "answer": "Mariam"
+    },
+    "trial": {
+      "label": "Testo / Okazaĵo",
+      "options": [
+        "Naskinte miraklan filon en izoliteco",
+        "Estante ĵetita en flamantan fajron fare de idolanoj",
+        "Postvivante la grandan inundon kun malmultaj elektitoj",
+        "Esti apartigita de bebo ĵetita en la riveron",
+        "Alfrontante la potencan reganton de Egiptujo"
+      ],
+      "answer": "Naskinte miraklan filon en izoliteco"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Daktilujo kaj fluanta rivereto sub ĝi",
+        "Potenca arkeo sur altaj ondoj",
+        "Bastono kiu dividis grandan maron en du",
+        "Flamanta fajro celita konsumi fidelan animon",
+        "Ora trono ornamita per altvaloraj ŝtonoj"
+      ],
+      "answer": "Daktilujo kaj fluanta rivereto sub ĝi"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Honorita kiel la plej ekzaltita el ĉiuj virinoj",
+        "Reunuiĝinta kun amata infano post longa disiĝo",
+        "Gvidis tutan nacion el la sklaveco de tirano",
+        "Avertis popolon perditan en malmoraleco",
+        "Donita regado super ĝino, la homaro, kaj la ventoj"
+      ],
+      "answer": "Honorita kiel la plej ekzaltita el ĉiuj virinoj"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

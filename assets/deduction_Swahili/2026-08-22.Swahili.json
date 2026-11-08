@@ -1,0 +1,61 @@
+{
+  "title": "Mji Ulioamini Wakati",
+  "intro": "Katika kumbukumbu za rehema ya Mungu, kuna jumuiya ambayo mabadiliko yake yalikuwa wakati wa utambuzi wa pamoja. Uko karibu kufichua hadithi yao—hadithi ya onyo, toba, na ahueni inayowatenganisha na hatima ya mataifa mengine.",
+  "clues": [
+    "Tulikuwa watu ambao mjumbe alitumwa kwao, na tuligeuka kutoka kwa wito wake mwanzoni.",
+    "Wakati dalili za adhabu iliyokuwa ikikaribia zilipoonekana wazi, tuligundua ukweli wa onyo lake.",
+    "Tulimgeukia Bwana wetu kwa toba ya kweli, na imani yetu ikakubaliwa.",
+    "Adhabu iliyokuwa imeamriwa juu yetu iliondolewa kwa sababu ya imani yetu.",
+    "Hadithi yetu imetajwa kama tofauti kati ya miji iliyoamini baada ya kuona adhabu.",
+    "Tulikuwa watu wa nabii aliyemezwa na nyangumi, lakini tuliokolewa kutokana na uharibifu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Yunus",
+        "Watu wa Nuh",
+        "Watu wa Hud",
+        "Watu wa Salih",
+        "Watu wa Lut"
+      ],
+      "answer": "Watu wa Yunus"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mafuriko makubwa",
+        "Dhoruba kali ya upepo",
+        "Adhabu ya aibu iliyokaribia ambayo iliepukwa",
+        "Ardhi inawameza",
+        "Mvua ya mawe"
+      ],
+      "answer": "Adhabu ya aibu iliyokaribia ambayo iliepukwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Safina",
+        "Ngamia jike",
+        "Mji wenye watu laki moja",
+        "Fimbo ya Musa",
+        "Hesabu ya Qarun"
+      ],
+      "answer": "Mji wenye watu laki moja"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Waliangamizwa kabisa",
+        "Walipewa furaha kwa muda",
+        "Walibadilishwa kuwa nyani",
+        "Walizama",
+        "Walimezwa na ardhi"
+      ],
+      "answer": "Walipewa furaha kwa muda"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

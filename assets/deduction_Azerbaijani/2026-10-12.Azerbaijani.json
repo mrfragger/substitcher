@@ -1,0 +1,61 @@
+{
+  "title": "Doğulmamışın əhdi",
+  "intro": "Səmimi bir ruh uşağın dünyaya gəlməsindən əvvəl müqəddəs bir vəd vermişdi. Bu fiqurun hekayəsi sədaqətin ilahi qəbulla qarşılaşdığı bir müqəddəs məkanın divarları arasında cərəyan edir. Bu Allahın qulu kimdir?",
+  "clues": [
+    "Mən Quranda şərəfləndirilən bir ailəyə mənsub idim.",
+    "Doğulmamış uşağımı Allaha xidmət etməyə həsr edəcəyimə təntənəli bir and içdim.",
+    "Doğuş edəndə qız uşağı olduğunu görüb təəccübləndim, baxmayaraq ki, oğul gözləyirdim.",
+    "Uşağıma sədaqət və xidməti əks etdirən Məryəm adını verdim.",
+    "Mən Allahdan övladımı və onun nəslini lənətlənmiş şeytandan qorumasını istədim.",
+    "Uşağım Rəbb tərəfindən qəbul edildi və müqəddəs məkanda Zəkəriyyə peyğəmbərin himayəsinə verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İmranın (Məryəmin anası) həyat yoldaşı",
+        "Fironun həyat yoldaşı Asiya",
+        "İsanın anası Məryəm",
+        "Musa peyğəmbərin anası",
+        "Səba kraliçası"
+      ],
+      "answer": "İmranın (Məryəmin anası) həyat yoldaşı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Uşağını məbədə həsr etməyə and içir",
+        "Oda atılmaq",
+        "Dənizi quruda keçmək",
+        "Böyük bir gəmi tikmək",
+        "Böyük bir balıq tərəfindən udulur"
+      ],
+      "answer": "Uşağını məbədə həsr etməyə and içir"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Uşağının yerləşdiyi müqəddəs yer (mihrab)",
+        "Əhd sandığı",
+        "Qızıl buzov",
+        "İlana çevrilən əsa",
+        "Onun altında dincəldiyi xurma ağacı"
+      ],
+      "answer": "Uşağının yerləşdiyi müqəddəs yer (mihrab)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Uşağı qəbul edildi və Zəkəriyyə peyğəmbərin himayəsinə verildi.",
+        "O, zalımın cəzasından xilas oldu",
+        "Ona Yəhya adlı bir oğul bəxş edildi",
+        "Onun xalqı fırtına nəticəsində məhv oldu",
+        "O, böyük bir səltənət üzərində kraliça oldu"
+      ],
+      "answer": "Uşağı qəbul edildi və Zəkəriyyə peyğəmbərin himayəsinə verildi."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

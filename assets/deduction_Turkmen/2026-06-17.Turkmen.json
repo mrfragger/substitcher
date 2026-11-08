@@ -1,0 +1,61 @@
+{
+  "title": "Şäheriň gyrasyndan ýaňlanma",
+  "intro": "Ylahy ýolbaşçylykdan ýüz öwüren şäherde, çetden umyt we duýduryş habary bilen ylgaýan ýekeje bir adam peýda boldy. Bu unudylan jan berk imanyň ebedi nyşanyna öwrülerdi.",
+  "clues": [
+    "Men şäherime çaparlaryň iberilýändigini gördüm, ýöne halkym olary adaty adamlar hökmünde ret etdi.",
+    "Men olaryň habaryna ynanýardym we hakykatyň içimde ýaňlanýandygyny duýýardym.",
+    "Men halkymy hiç hili sylag soramaýan ilçilere gulak asmaga çagyrdym.",
+    "Men şäheriň iň çetinden ylgap, olara sebäbini görkezmäge synanyşdym.",
+    "Halkym maňa garşy çykdy, men öldürildim, ýöne ebedi parahatçylyk tapdym.",
+    "Allatagala maňa: \"Jennete gir\" diýdi we men kowumymyň maňa berlen hormata şaýat bolmagyny isledim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ýa-Sine ynanýan",
+        "Sorag beriji Üzeýr",
+        "El-Hyzr ýol görkezijisi",
+        "Fyrownyň maşgalasynyň imanly adamy",
+        "Zalym Namrud"
+      ],
+      "answer": "Ýa-Sine ynanýan"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ony öldüren imansyz bir kowum bilen ýüzbe-ýüz bolmak",
+        "Ýanýan oda taşlanmak",
+        "Uly balyk tarapyndan ýuwutulýar",
+        "Ägirt uly gämi gurmak",
+        "Zalymyň goşunyndan gaçmak"
+      ],
+      "answer": "Ony öldüren imansyz bir kowum bilen ýüzbe-ýüz bolmak"
+    },
+    "location": {
+      "label": "Esasy ýerleşýän ýeri",
+      "options": [
+        "Şäheriň iň çetki ujuna",
+        "Tur dagy",
+        "Garynjalar jülgesi",
+        "Nil derýasynyň kenarlary",
+        "Magaraň gowagy"
+      ],
+      "answer": "Şäheriň iň çetki ujuna"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Şehitlik we derhal Jennete girmek",
+        "Gaçyp we halas bolmak",
+        "Göklere göteriliş",
+        "Deňizde gark bolmak",
+        "Daşa öwrülmek"
+      ],
+      "answer": "Şehitlik we derhal Jennete girmek"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Stemmen i det gamle sand",
+  "intro": "Blandt Allahs tidligste sendebud var der én, hvis navn kort, men betydningsfuldt optræder i Koranen. Denne person levede længe før mange store profeter blev sendt, og var kendt for urokkelig sandfærdighed og tålmodighed. Deres historie er kort, men deres arv lever videre i den evige optegnelse. Hvem er denne ædle sjæl?",
+  "clues": [
+    "Jeg er en af ​​de tidligste budbringere, nævnt kort, men meningsfuldt i Koranen.",
+    "Min karakter var defineret af en urokkelig forpligtelse over for sandheden.",
+    "Jeg er i Allahs bog husket blandt dem, der var standhaftige og tålmodige.",
+    "Kun et par korte vers i Koranen fortæller min historie.",
+    "Allah ærede mig på en måde, der er unik for mig, og som ikke deles med andre profeter.",
+    "Jeg blev ophøjet til en høj stilling, en enestående ære i Koranen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Idris",
+        "Profeten Ilyas",
+        "Dhul-Kifl",
+        "Profeten Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Profeten Idris"
+    },
+    "trial": {
+      "label": "Definerende øjeblik",
+      "options": [
+        "Jeg blev ophøjet til en høj stilling af Allah",
+        "Jeg byggede en stor ark for at frelse mit folk",
+        "Jeg udfordrede Faraos troldmænd",
+        "Jeg blev kastet i en grav af mine brødre",
+        "Jeg mistede mit syn af sorg over min søn"
+      ],
+      "answer": "Jeg blev ophøjet til en høj stilling af Allah"
+    },
+    "location": {
+      "label": "Hellig reference",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Guddommelig ære",
+      "options": [
+        "En høj station ulig nogen anden",
+        "Herredømme over jinn og vindene",
+        "Et kongerige af uovertruffen herlighed",
+        "En arving fra min alderdom",
+        "En pagt beseglet med Allah"
+      ],
+      "answer": "En høj station ulig nogen anden"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

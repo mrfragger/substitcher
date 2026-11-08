@@ -1,0 +1,61 @@
+{
+  "title": "Nenosauktā dvēsele, kas nostājās pret netaisnīgu tautu",
+  "intro": "Korāna lappusēs ir minētas personas, kuru vārdi tika slēpti, lai mēs varētu pārdomāt viņu mācības. Viena šāda dvēsele piedzima tautā, kas bija noraidījusi savus vēstnešus, tomēr šim indivīdam piemita slēpta ticība, kas viņus atšķīra. Kad tuvojās iznīcība, šī persona stingri turējās pie savas slepenās pārliecības. Vai varat atklāt šīs noslēpumainās personas identitāti, kas brīdina savu tautu pirms pēdējā sprieduma pienākšanas?",
+  "clues": [
+    "Es dzīvoju starp cilvēkiem, kas atkārtoti bija nolieguši Allāha sūtītos vēstnešus.",
+    "Atšķirībā no manas tautas, es atpazinu patiesību, kad ieradās vēstnesis ar skaidrām zīmēm no mana Kunga.",
+    "Es slēpu savu ticību no apspiedējiem, zinot, ka viņi man nodarīs ļaunumu, ja atklās manu pārliecību.",
+    "Kad tuvojās soda pavēle, es atklāti paziņoju savu uzticību un brīdināju savu tautu glābt sevi.",
+    "Es viņiem atgādināju, ka esmu uzticams vēstnesis, kas neatšķiras no iepriekš sūtītajiem, un ka viņiem nevajadzētu pielūgt neko citu kā vien Allāhu.",
+    "Mani ļaudis mani apsūdzēja burvestībās un neprātā, tomēr sods, par kuru viņi tika brīdināti, galu galā viņus pārspēja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Huds, vēstnesis Aādas tautai",
+        "Ticīgs vīrs no pravieša Huda tautas, kurš tika nogalināts mocekļa nāvē",
+        "Aada tautas valdnieks, kurš noraidīja patiesību",
+        "Pravieša Saliha biedrs, kurš apšaubīja dievišķās zīmes",
+        "Eņģelis, kas sūtīts, lai iznīcinātu Aada tautu"
+      ],
+      "answer": "Ticīgs vīrs no pravieša Huda tautas, kurš tika nogalināts mocekļa nāvē"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sausuma un bada pārbaudījums, kas pārbaudīja viņu pacietību",
+        "Ticības apliecināšanas pārbaudījums apspiedošas neticīgas tautas priekšā",
+        "Kuģa būvniecības izmēģinājums, lai izvairītos no lieliem plūdiem",
+        "Pārbaudījums par iemešanu ugunī par ticību Allāham",
+        "Pārbaudījums ar bagātību un labklājību"
+      ],
+      "answer": "Ticības apliecināšanas pārbaudījums apspiedošas neticīgas tautas priekšā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Mekas pilsēta, kur tika uzcelta svētā māja",
+        "Nācijas tuksneša līdzenumi, kas noliedza savu vēstnesi",
+        "Midiānas kalni, kur tika sūtīts pravietis Šuaibs",
+        "Ēģiptes upes krasts, kur tika atrasts pravietis Musa",
+        "Aada tautas ieleja, ko skāris spēcīgs vējš"
+      ],
+      "answer": "Nācijas tuksneša līdzenumi, kas noliedza savu vēstnesi"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Es tiku izglābts kuģī un dzīvoju, līdz Allāhs to gribēja",
+        "Mani ļaudis pēc manis ticēja un tika vadīti pa taisno ceļu",
+        "Mani nogalināja mani cilvēki, bet manu dvēseli paņēma Allāha žēlastība.",
+        "Es nožēloju grēkus pēc pārbaudījuma, un Allāhs pieņēma manu grēku nožēlu.",
+        "Pēc manas nāves es kļuvu par elku, ko pielūdza mana tauta"
+      ],
+      "answer": "Mani nogalināja mani cilvēki, bet manu dvēseli paņēma Allāha žēlastība."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

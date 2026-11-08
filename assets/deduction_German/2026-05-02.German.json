@@ -1,0 +1,61 @@
+{
+  "title": "Der Überbringer einer ernsten Botschaft",
+  "intro": "Ein rechtschaffener Mensch wurde gesandt, um ein Volk, das in beispiellosen Sünden verloren war, zu leiten. Dieser Bote blieb standhaft und warnte eindringlich vor einer Verderbnis, die der natürlichen Ordnung widersprach. Trotz eindringlicher Bitten versank die Gemeinschaft immer tiefer in Finsternis und bereitete so den Boden für ein göttliches Gericht, wie es es noch nie gegeben hatte. Können Sie diesen standhaften Diener Allahs identifizieren?",
+  "clues": [
+    "Ich war mit einem anderen großen Propheten verwandt und bin mit ihm ausgewandert, wobei wir unsere Heimat zurückließen.",
+    "Ich wurde zu einem Volk gesandt, dessen Bosheit einzigartig war, eine Übertretung, die vor ihnen keine Schöpfung begangen hatte.",
+    "Auch in meinem eigenen Haushalt gab es eine Spaltung; ein naher Verwandter hatte sich heimlich auf die Seite der Ungläubigen gestellt.",
+    "Engel in Gestalt schöner junger Männer kamen als Gäste in mein Haus und bereiteten mir große Sorgen um ihr Wohlergehen.",
+    "In einem verzweifelten Versuch, mein Volk von seinen schändlichen Taten abzubringen, bot ich meine eigenen Töchter zur Ehe an.",
+    "Mein Volk wurde durch einen furchtbaren Schrei und einen Regen aus gebrannten Lehmsteinen vernichtet, während ich und meine Familie, bis auf eine Person, durch die Flucht mitten in der Nacht gerettet wurden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Shu'ayb",
+        "Prophet Salih",
+        "Prophet Lut",
+        "Prophet Hud",
+        "Prophet Nuh"
+      ],
+      "answer": "Prophet Lut"
+    },
+    "trial": {
+      "label": "Was war mein Hauptverfahren?",
+      "options": [
+        "Einen tyrannischen König davon zu überzeugen, mich nicht im Feuer zu verbrennen.",
+        "Mit der Eifersucht meiner Brüder umgehen und in einen Brunnen geworfen werden.",
+        "Konfrontation mit einem Volk, das sich in beispielloser sexueller Unmoral verstrickt hat.",
+        "Ich führte mein Volk aus der Knechtschaft eines mächtigen Pharaos.",
+        "Ein riesiges Schiff soll gebaut werden, um die Gläubigen vor einer großen Flut zu retten."
+      ],
+      "answer": "Konfrontation mit einem Volk, das sich in beispielloser sexueller Unmoral verstrickt hat."
+    },
+    "location": {
+      "label": "Wo fand meine Mission statt?",
+      "options": [
+        "Die Stadt Madyan",
+        "Die antike Stadt Iram",
+        "Das Land Ägypten unter dem Pharao",
+        "Die Städte Sodom und Gomorra",
+        "Die Stadt Ninive"
+      ],
+      "answer": "Die Städte Sodom und Gomorra"
+    },
+    "outcome": {
+      "label": "Was war das Endergebnis?",
+      "options": [
+        "Die Städte wurden umgestürzt und mit Steinen aus gebranntem Lehm überschüttet.",
+        "Mein Volk wurde zusammen mit seinem reichen Anführer von der Erde verschlungen.",
+        "Mein Volk wurde sieben Nächte und acht Tage lang von einem heftigen Wind verwüstet.",
+        "Mein Volk wurde von Plagen wie Heuschrecken, Läusen und Fröschen heimgesucht.",
+        "Ein riesiger Fisch hat mich verschluckt, nachdem ich meine Mission abgebrochen hatte."
+      ],
+      "answer": "Die Städte wurden umgestürzt und mit Steinen aus gebranntem Lehm überschüttet."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

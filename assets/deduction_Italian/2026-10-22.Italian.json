@@ -1,0 +1,61 @@
+{
+  "title": "La comunità della prima trasgressione",
+  "intro": "Nella terra delle antiche città, un tempo prosperava un popolo. Giunse un messaggero con un chiaro invito, ma essi si voltarono indietro e intrapresero un sentiero mai percorso prima. La loro storia è una storia di sfida, depravazione e una punizione che lasciò la loro patria come monito per tutti coloro che riflettono. Chi sono queste anime?",
+  "clues": [
+    "Abitavamo in città di pianura, dove il nostro profeta ci chiamava alla giustizia.",
+    "Siamo stati i primi a commettere un atto indecente che nessuno al mondo aveva mai compiuto prima.",
+    "Tendevamo imboscate ai viaggiatori e commettevamo il male apertamente durante i nostri raduni.",
+    "Abbiamo respinto il messaggero che ci era stato inviato e lo abbiamo minacciato di cacciarlo dalla nostra terra.",
+    "Ci siamo precipitati a casa sua, intimandogli di consegnarci i suoi ospiti.",
+    "La nostra punizione fu una pioggia di pietre e la nostra città fu messa sottosopra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Popolo di Lutero",
+        "Popolo di Nuh",
+        "Persone di 'Ad",
+        "Popolo di Thamud",
+        "Popolo di Madyan"
+      ],
+      "answer": "Popolo di Lutero"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ha commesso il primo atto di sodomia",
+        "Idoli venerati",
+        "Truffato nel commercio",
+        "Hanno ucciso il loro profeta",
+        "Hanno disobbedito ai genitori"
+      ],
+      "answer": "Ha commesso il primo atto di sodomia"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La città della pianura",
+        "La città del pozzo",
+        "La città del fossato",
+        "La città dell'elefante",
+        "La città del giardino"
+      ],
+      "answer": "La città della pianura"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Pioggia di pietre e rovesciato",
+        "Annegato da un'alluvione",
+        "Distrutto da un vento violento",
+        "Inghiottito dalla terra",
+        "Colpito da una forte esplosione"
+      ],
+      "answer": "Pioggia di pietre e rovesciato"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

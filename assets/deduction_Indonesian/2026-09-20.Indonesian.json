@@ -1,0 +1,61 @@
+{
+  "title": "Orang Beriman yang Berkerudung di Istana Sang Tirani",
+  "intro": "Di dalam aula-aula berhias emas milik penguasa paling arogan yang dikenal dalam Al-Quran—di mana penentangan terhadap Tuhan mendefinisikan setiap titah—ada satu jiwa yang berjalan di antara orang-orang istimewa, menyembunyikan rahasia paling berbahaya di depan mata. Individu ini memegang keyakinan yang begitu terlarang di dalam tembok-tembok itu sehingga penemuannya akan berarti kematian yang pasti. Namun keyakinan itu membara seperti nyala api di bawah abu, dan ketika saatnya tiba, kebenaran berkumandang dengan keberanian yang mengguncang fondasi istana sang tiran.",
+  "clues": [
+    "Aku hidup di lingkaran dalam penguasa paling berkuasa dan arogan pada masaku, dikelilingi kemewahan dan pengaruh.",
+    "Aku menyembunyikan keyakinanku yang sebenarnya jauh di dalam hatiku, karena takut akan nyawaku dari mereka yang memerintah dengan kejam dan menindas.",
+    "Ketika umatku ragu dan bimbang di hadapan kebenaran, aku maju untuk memperingatkan mereka tentang nasib tragis yang telah menimpa bangsa-bangsa terdahulu yang menolak utusan Tuhan mereka.",
+    "Aku mengingatkan rakyatku tentang kisah seorang pemimpi muda yang dicintai, yang dikucilkan oleh keluarganya sendiri namun bangkit mencapai kekuasaan besar di negeri yang jauh.",
+    "Aku mendesak umatku untuk tidak menaati penguasa yang menyesatkan mereka, melainkan mengajak mereka untuk mengikutiku di jalan kebenaran dan petunjuk.",
+    "Saya secara terbuka mengatakan kebenaran meskipun para pengikut tiran itu mengancam akan melempari saya dengan batu atau mengusir saya dari negeri ini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang Beriman yang Tersembunyi dari Keluarga Firaun",
+        "Seorang Patriark yang Sabar yang Menangis Tanpa Henti Hingga Putranya Kembali",
+        "Seorang Hamba Setia yang Penyakit Kulitnya Akhirnya Sembuh",
+        "Seorang Anak Berdosa yang Menolak Undangan Seorang Nabi untuk Naik ke Bahtera Nuh",
+        "Seorang Tiran Kejam yang Mengklaim Ketuhanan untuk Diri Sendiri"
+      ],
+      "answer": "Orang Beriman yang Tersembunyi dari Keluarga Firaun"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Menyembunyikan iman di istana seorang tiran.",
+        "Menderita kebutaan akibat menangis bertahun-tahun",
+        "Diuji oleh kehilangan keluarga dan penderitaan yang berat",
+        "Membangun kapal besar sambil diejek",
+        "Menahan teriknya api yang besar"
+      ],
+      "answer": "Menyembunyikan iman di istana seorang tiran."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Istana Firaun",
+        "Puncak gunung tempat bahtera itu dibangun.",
+        "Lembah suci di bawah Gunung Sinai",
+        "Sebuah taman yang megah dengan dua aliran sungai.",
+        "Singgasana kristal di atas sungai bawah tanah."
+      ],
+      "answer": "Istana Firaun"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Perlindungan ilahi saat para penindas menemui kehancuran mereka.",
+        "Bertemu kembali dengan keluarga setelah terpisah selama beberapa dekade.",
+        "Diberi kesabaran, kesehatannya pulih, dan keluarganya bertambah besar.",
+        "Diselamatkan di atas perahu sementara seluruh dunia tenggelam.",
+        "Diselamatkan tanpa cedera dari kobaran api atas perintah Allah."
+      ],
+      "answer": "Perlindungan ilahi saat para penindas menemui kehancuran mereka."
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

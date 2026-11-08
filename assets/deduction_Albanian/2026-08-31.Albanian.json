@@ -1,0 +1,61 @@
+{
+  "title": "Zëri i Heshtur i Luginës",
+  "intro": "Kthehuni pas në kohë, te një popull i fuqishëm që dikur mori një mrekulli të gjallë si provë. Arroganca dhe kokëfortësia vulosën fatin e tyre. A mund ta ndiqni historinë dhe të zbuloni se çfarë ndodhi në këtë pikë kthese dramatike?",
+  "clues": [
+    "U dërgova si një sprovë hyjnore për një popull të fuqishëm të njohur për forcën dhe sfidën e tyre.",
+    "Isha një mrekulli unike—njerëz si unë nuk ishin shfaqur kurrë midis tyre.",
+    "Ndaja ujë të pijshëm nga një pus me njerëzit e mi çdo ditë me radhë.",
+    "Ata u paralajmëruan se çdo dëm kundër meje do të sillte ndëshkim të shpejtë.",
+    "Më të guximshmit prej tyre e injoruan paralajmërimin dhe më prenë para kohe.",
+    "Pas vdekjes sime, një britmë e vetme gjëmuese nga lart shkatërroi të gjithë popullin tim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Deveja e Salihut",
+        "Lopa e Musës",
+        "Anija e Nuhut",
+        "Shkopi i Musës",
+        "Froni i Bilqisit"
+      ],
+      "answer": "Deveja e Salihut"
+    },
+    "trial": {
+      "label": "Fati im",
+      "options": [
+        "I paralizuar dhe i vrarë",
+        "I therur si sakrificë",
+        "I transformuar në një gjarpër",
+        "I ruajtur gjatë një përmbytjeje të madhe",
+        "U soll shpejt nëpër një mbretëri"
+      ],
+      "answer": "I paralizuar dhe i vrarë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një pus me ujë",
+        "Një pllakë guri",
+        "Një kaçubë që digjet",
+        "Një arkë prej druri",
+        "Një fron prej ari dhe argjendi"
+      ],
+      "answer": "Një pus me ujë"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Shkatërrohet nga një britmë e vetme",
+        "U mbyt në një përmbytje të madhe",
+        "I djegur nga një shi gurësh",
+        "I shkatërruar nga një erë e fortë",
+        "Gëlltitur nga toka"
+      ],
+      "answer": "Shkatërrohet nga një britmë e vetme"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

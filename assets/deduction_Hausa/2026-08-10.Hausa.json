@@ -1,0 +1,61 @@
+{
+  "title": "Masu Kula da Girbin Sirri",
+  "intro": "A cikin ƙasa mai yawan ciyayi, wasu mutane sun yi wani shiri na sirri a cikin duhu. Sun kasance suna da manufa ɗaya, amma manufarsu ba ta da adalci. Ba su san cewa wata karkatacciyar hanya ta Allah tana jiran su ba yayin da suke barci.",
+  "clues": [
+    "Mun yanke shawara mai ƙarfi, muna tunanin shirinmu ba shi da aibi.",
+    "Mun yi niyyar fita da wuri, kafin wasu ma su yi ta ihu.",
+    "Mun kafa wani fili mai albarka, muna da yakinin wadatar da muke da ita.",
+    "Yayin da muka isa inda muke, muka same shi babu kowa, don haka muka yi tunanin mun ɓace.",
+    "Sai muka fahimci cewa lallai wurinmu ne, sai muka yi kuka cikin damuwa, muna zargin junanmu da rashin da muka yi.",
+    "Mun rantse a safiyar nan cewa za mu ware talakawa daga girbinmu, amma azabar Allah ta zo mana yayin da muke barci, ta mayar da gonarmu ta zama kango."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Masu Lambu a cikin Sura ta 68",
+        "Mutanen Saba",
+        "Ma'abota Kogo",
+        "Mutanen Giwa",
+        "Mutanen Madatsar Ruwa"
+      ],
+      "answer": "Masu Lambu a cikin Sura ta 68"
+    },
+    "trial": {
+      "label": "Gwajinmu",
+      "options": [
+        "An lalata lambunmu da bala'i daga sama",
+        "Ambaliyar ruwa ta share lambunmu",
+        "Gobara daga wani maƙiyi ta ƙone lambunmu",
+        "Lambunmu ya cika da fara",
+        "Girgizar ƙasa ta haɗiye lambunmu"
+      ],
+      "answer": "An lalata lambunmu da bala'i daga sama"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Mun rantse za mu girbe 'ya'yan itacensa da safe",
+        "Mun gina madatsar ruwa don ban ruwa a lambunmu.",
+        "Mun nemi mafaka a cikin kogo don kariya",
+        "Mun shirya sojoji don cin nasara a kan mulki",
+        "Mun yi tafiya da jirgin ruwa don ketare teku"
+      ],
+      "answer": "Mun rantse za mu girbe 'ya'yan itacensa da safe"
+    },
+    "outcome": {
+      "label": "Ƙaddararmu",
+      "options": [
+        "Mun tuba kuma mun yi fatan rahama daga Allah",
+        "An halaka mu gaba ɗaya kuma ba mu taɓa tuba ba",
+        "Mun gudu daga ƙasar kuma ba mu sake dawowa ba",
+        "Mun sake zama masu ƙarfi da arziki",
+        "An hukunta mu ta hanyar mayar da mu birai"
+      ],
+      "answer": "Mun tuba kuma mun yi fatan rahama daga Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

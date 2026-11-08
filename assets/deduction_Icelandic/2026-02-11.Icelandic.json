@@ -1,0 +1,60 @@
+{
+  "title": "Byrði auðæfanna",
+  "intro": "Þú stendur frammi fyrir sögu um gífurlega auðæfi, líf skreytt gulli og valdi, en í raun og veru er þetta varnaðarlexía fyrir alla sem sækjast eftir veraldlegri mikilleika. Geturðu ráðið fram hver þessi persóna er, en sagan hennar endurómar í gegnum tímann, vitnisburður um hverfulleika veraldlegra eigna?",
+  "clues": [
+    "Ég var af þjóð mikils spámanns, en ég valdi leið hroka og kúgunar.",
+    "Allah veitti mér mikinn auð, svo mikinn að lyklarnir að fjársjóðum mínum voru þung byrði fyrir sterkan hóp manna.",
+    "Fólk mitt ráðlagði mér að gleðjast ekki yfir auðæfum mínum og minnti mig á að Allah elskar ekki þá sem gleðjast.",
+    "Ég hélt því hrokafullur fram að gífurleg auðæfi mín væru eigin þekkingu og fyrirhöfn að þakka, ekki blessun frá Allah.",
+    "Mér var varað við spillingu og minnt á að leita lífsins eftir dauðann með því sem Allah hafði gefið mér, en ég neitaði að hlusta og hélt áfram í stolti mínu.",
+    "Að lokum lét Allah jörðina gleypa mig og bústað minn og skildi mig eftir án hjálpara gegn tilskipun hans."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Faraó",
+        "Haman",
+        "Qarun",
+        "Abú Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Klofingin í hafinu",
+        "Eldur Nimrods",
+        "Flóðið",
+        "Að gleypa af jörðinni",
+        "Engisprettuplágan"
+      ],
+      "answer": "Að gleypa af jörðinni"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Örkina",
+        "Starfsfólkið",
+        "Gullkalfurinn",
+        "Fjársjóðirnir/Lyklarnir",
+        "Brunnurinn í Zamzam"
+      ],
+      "answer": "Fjársjóðirnir/Lyklarnir"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Veittur konungdómur",
+        "Bjargað frá eyðileggingu",
+        "Gleypt af jörðinni",
+        "Varð spámaður",
+        "Lést friðsamlega"
+      ],
+      "answer": "Gleypt af jörðinni"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

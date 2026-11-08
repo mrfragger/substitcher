@@ -1,0 +1,61 @@
+{
+  "title": "Le Souverain qui exigeait la Divinité",
+  "intro": "Un souverain puissant et arrogant, persuadé d'être intouchable, poursuivit un groupe de fuyards à travers une vaste étendue d'eau, pour finalement connaître une fin tragique. L'histoire de ce souverain se retrouve dans de nombreux passages du Coran, servant d'avertissement à tous.",
+  "clues": [
+    "J'étais un souverain puissant qui croyait qu'aucune autorité ne surpassait la mienne sur les terres que je gouvernais.",
+    "J'avais un vizir de confiance nommé Haman qui m'a aidé à mener à bien de grands projets architecturaux.",
+    "J'ai convoqué les meilleurs magiciens de mon pays pour contester les signes d'un messager qui s'opposait à moi.",
+    "J'ai refusé de laisser partir un peuple réduit en esclavage sur mon territoire, malgré les fléaux et les avertissements clairs.",
+    "Je les ai poursuivis à travers une vaste mer avec toute mon armée et mes chars.",
+    "Cette même mer s'est refermée sur moi et mes troupes, nous engloutissant tous, tandis qu'eux traversaient sains et saufs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Fir'awn (Pharaon)",
+        "Namrud",
+        "Abou Lahab",
+        "Haman",
+        "Abou Jahl"
+      ],
+      "answer": "Fir'awn (Pharaon)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Les plaies et la confrontation avec Moïse",
+        "Construire une arche avant un grand déluge",
+        "Bataille contre Jalut dans la vallée",
+        "Être avalé par une baleine",
+        "Défendre des poids commerciaux honnêtes"
+      ],
+      "answer": "Les plaies et la confrontation avec Moïse"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Hautes tours et pieux",
+        "Une grande arche en bois",
+        "Un veau doré",
+        "Un bâton qui se transforma en serpent",
+        "Une baleine massive"
+      ],
+      "answer": "Hautes tours et pieux"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Noyé en mer avec l'armée",
+        "Sauvé par la miséricorde et la patience d'Allah, récompensé.",
+        "Retrouvailles avec sa famille après des années de difficultés",
+        "Englouti par la terre",
+        "Brûlé dans un incendie"
+      ],
+      "answer": "Noyé en mer avec l'armée"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

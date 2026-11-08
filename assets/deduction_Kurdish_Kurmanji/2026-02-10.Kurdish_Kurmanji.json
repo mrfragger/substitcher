@@ -1,0 +1,60 @@
+{
+  "title": "Xewa Serdemê",
+  "intro": "Hûn ê dest bi rêwîtiyek di demê de bikin, û rastî sirrek kûr a bawerî û hêza îlahî werin. Komek kesan xeyal bikin ku li dijî normên civaka xwe derketine û di cîhanek pirxwedayî de xwe bi yekxwedayîtiyê ve girêdidin. Çîroka wan şahidiyek e ji bo şiyana Xwedê ya parastina xulamên xwe yên rast bi awayên herî ecêb. Hûn dikarin nasnameya van kesayetiyên berbiçav eşkere bikin?",
+  "clues": [
+    "Em komeke biçûk ji xortan bûn ku baweriya xwe bi yek Xwedê dianîn, tevî pirxwedayetiya berbelav a gelê me.",
+    "Em ji hukumdarekî zalim reviyan ku ji ber baweriya me gef li me dixwar, ji tirsa zilm û mirinê.",
+    "Me xwe li cihekî dûr girt, bi hêviya rehmet û parastina Xwedê ji zalimên me.",
+    "Xudanê me em xistin xeweke kûr, xeweke mûcîzeyî ku li hember derbasbûna demê derket.",
+    "Dema em şiyar bûn, me bawer dikir ku me tenê rojek an jî beşek ji rojê bêhna xwe vedabû, bêyî ku em hay ji heyama berfireh a ku bi rastî derbas bûbû hebin.",
+    "Quran behs dike ku em sêsed salan di vê rewşa xwe de man û neh salan ji wê zêdetir man, ku ev yek ji bo mirovahiyê bûye nîşanek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Xelkê Xendekê",
+        "Gelê Semûdê",
+        "Xelkê Şikeftê",
+        "Gelê Medyenê",
+        "Hevalên Fîl"
+      ],
+      "answer": "Xelkê Şikeftê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bi lehiyek mezin re rû bi rû ne",
+        "Ji aliyê erdê ve tê daqurtandin",
+        "Xewa dirêj a mûcîzeyî",
+        "Wêrankirina bajarê wan",
+        "Parçekirina deryayê"
+      ],
+      "answer": "Xewa dirêj a mûcîzeyî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Dareke dişewite",
+        "Çiyayekî",
+        "Qeyik",
+        "Şikeftek",
+        "Bîr"
+      ],
+      "answer": "Şikeftek"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Serweta û desthilateke mezin ji wan re hat dayîn",
+        "Ew bûne meymûn û beraz",
+        "Ew wek nîşanek kûr ji xewê hatin rakirin",
+        "Ew di lehiyek mezin de xeniqîn",
+        "Wan padîşahiyek mezin ava kir"
+      ],
+      "answer": "Ew wek nîşanek kûr ji xewê hatin rakirin"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

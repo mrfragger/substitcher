@@ -1,0 +1,61 @@
+{
+  "title": "Melodia care a mutat munții din loc",
+  "intro": "Ești pe cale să descoperi povestea unui slujitor remarcabil al lui Allah. Într-o țară a mesagerilor și conducătorilor, această figură a fost binecuvântată cu o carte divină, o voce puternică și putere asupra fierului. Pe măsură ce citești indiciile, poți identifica cine ar putea fi?",
+  "clues": [
+    "Am fost un slujitor al lui Allah căruia i s-a dat o carte specială.",
+    "Aveam o voce frumoasă și laudele mele erau atât de îndrăgite, încât chiar și dealurile și păsările mi s-au alăturat.",
+    "M-am confruntat cu un adversar formidabil într-o bătălie faimoasă și, deși eram mai mic de statură, am învins.",
+    "Fierul a fost făcut maleabil pentru mine, permițându-mi să confecționez armuri cu propriile mâini.",
+    "Am fost pus conducător peste un neam mare și înțelepciunea mea în judecată a fost renumită.",
+    "Fiului meu, și el profet, i s-a acordat controlul asupra vântului și a djinnilor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Dawud (David)",
+        "Profetul Sulaiman (Solomon)",
+        "Profetul Musa (Moise)",
+        "Profetul Harun (Aaron)",
+        "Profetul Ilia (Elia)"
+      ],
+      "answer": "Profetul Dawud (David)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "L-a învins pe Goliat (Jalut)",
+        "A despărțit marea",
+        "A supraviețuit balenei",
+        "A fost aruncat în foc",
+        "A construit Arca"
+      ],
+      "answer": "L-a învins pe Goliat (Jalut)"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Zaburul (Psalmii)",
+        "Tora (Tawrat)",
+        "Evanghelia (Injil)",
+        "Sulurile lui Ibrahim",
+        "Coranul"
+      ],
+      "answer": "Zaburul (Psalmii)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A devenit profet și rege al lui Israel",
+        "A devenit conducătorul Egiptului",
+        "A fost înălțat la ceruri",
+        "A fost distrusă de o furtună",
+        "A devenit un tovarăș al peșterii"
+      ],
+      "answer": "A devenit profet și rege al lui Israel"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

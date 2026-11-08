@@ -1,0 +1,61 @@
+{
+  "title": "Piiramine äkilise taeva all",
+  "intro": "Sa seisad võimsa armee ees, mis läheneb austatud pühapaigale, kõik relvad valmis ja võit näib kindel olevat. Enne rünnaku algust ilmub pea kohale ootamatu jõud ja võitlus võtab ettearvamatu pöörde.",
+  "clues": [
+    "Me marssisime enesekindlusega, mida ükski maine jõud ei suutnud kõigutada.",
+    "Me tõime kaasa vägevad elevandid ja meie vägi näis olevat nende ümber koondunud.",
+    "Me olime tulnud lammutama austatud pühamut, uskudes, et meie võit on juba kindel.",
+    "Kui me kohale jõudsime, lendas meie kohal taevast läbi parv.",
+    "Linnud loopisid meie sõdalaste pihta kõvastunud savikive.",
+    "Meid löödi nii täielikult, et meie võimas vägi varises kokku ja hajus laiali nagu tuhk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Elevandi rahvas",
+        "Kaks printsi",
+        "Joosepi vennad",
+        "Allahi teener Dhul-Kiflis",
+        "Õige mehe kaaslased"
+      ],
+      "answer": "Elevandi rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Elevantide juhitud rünnak Kaabale",
+        "Meri lahkneb kohale toimetatud grupi ees",
+        "Türanlik rahvas konfiskeerib Laeka",
+        "Öine teekond kahe mošee vahel",
+        "Pidalitõbise tervendamine jumaliku väe läbi"
+      ],
+      "answer": "Elevantide juhitud rünnak Kaabale"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Linnud kannavad savigraanuleid",
+        "Goferpuust laev",
+        "Personali muutus maoks",
+        "Märgiga pitseeritud kivi",
+        "Põlev põõsas"
+      ],
+      "answer": "Linnud kannavad savigraanuleid"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Nende võimas jõud varises kokku nagu tuhk",
+        "Nad ületasid mere turvaliselt",
+        "Nad kõndisid vigastusteta läbi lõõmava ahju",
+        "Nad sisenesid paradiisi paarikaupa",
+        "Nad magasid koopas 309 aastat"
+      ],
+      "answer": "Nende võimas jõud varises kokku nagu tuhk"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

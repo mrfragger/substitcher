@@ -1,0 +1,61 @@
+{
+  "title": "Ntiyiso Lowu Nga Miyeta Huvo",
+  "intro": "Eka xigodlho laha ku kaneta a ku fuma naswona matimba a ma ri lama heleleke, nhlengeletano ya vatirhi lava nga ni vutshila a yi yime emahlweni ka ntlhontlho lowu a wu nga languteriwanga. Moya a wu rhurhumela hi ku langutela loko tindlela timbirhi ta mavunwa ni ntiyiso ti ri kusuhi ni ku tlumbana. Lava a va hlengeletanile a va nga swi tivi leswaku ku hlangana loku a ku ta hundzula vutomi bya vona hilaha ku nga heriki ni ku tsala xitori xa vona eka tsalwa ro kwetsima.",
+  "clues": [
+    "A hi dume hi vutshila bya hina byo endla swilo leswi nga riki swa xiviri naswona a hi hlengeletiwa hi mufumi wa matimba leswaku hi langutana ni muphikizani.",
+    "Loko nkarhi wu fika, hi hoxe swichayachayana swa hina naswona hi rindzele vuyelo bya kona, hi tiyiseka hi vutshila bya hina.",
+    "Kambe leswi hi swi voneke swi endle leswaku switirhisiwa swa hina vini swi vonaka onge i switoyi ntsena, naswona timbilu ta hina ti xiye ntiyiso lowu nga kanetekiki.",
+    "Hi wele ehansi hi nkhinsama, hi tivisa ripfumelo ra hina eka Hosi ya Muxe na Aroni, hambileswi mufumi a a hlundzukile.",
+    "Mufumi yoloye u hi xungetile hi ku xupuriwa hi tihanyi swinene, a hlambanya leswaku u ta hi vamba ni ku hi tsema swirho hi tindlela leti hambaneke.",
+    "Hi tshamile hi tiyile, hi vula leswaku hi tsakela ku avanyisa ka Hosi ya hina ku tlula vuyelo byihi na byihi bya misava, naswona hi dlayiwile hikwalaho ka ripfumelo ra hina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Valoyi va Faro",
+        "Vanhu va le Bako",
+        "Vaseketeri va Tihunyi",
+        "Vadyondzisiwa va Esa",
+        "Vanhu va Ndlopfu"
+      ],
+      "answer": "Valoyi va Faro"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Mphikizano wa masalamusi na Musa",
+        "Ndzilo wu hoxiwe ehenhla ka vona",
+        "Ndhambi leyi va nweleke",
+        "Dyandza ni ndlala",
+        "Ku tsekatseka ka misava"
+      ],
+      "answer": "Mphikizano wa masalamusi na Musa"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Tinhonga na tintambhu leti hundzukeke tinyoka",
+        "Xihlahla lexi pfurhaka",
+        "Kamela ya xisati",
+        "Areka ya mapulanga",
+        "Xiharhi lexi vuriwaka whale"
+      ],
+      "answer": "Tinhonga na tintambhu leti hundzukeke tinyoka"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U dlayiwile hikwalaho ka ripfumelo, u tshembise Paradeyisi",
+        "Ku nwela elwandle",
+        "Va ve vafumi va tiko ra Egipta",
+        "Va tshame va ri valandzeri va Faro",
+        "U kume ndzhaka ya tiko"
+      ],
+      "answer": "U dlayiwile hikwalaho ka ripfumelo, u tshembise Paradeyisi"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

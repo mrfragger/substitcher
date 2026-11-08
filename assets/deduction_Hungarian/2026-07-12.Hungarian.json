@@ -1,0 +1,61 @@
+{
+  "title": "A páratlan fenség elveszett városa",
+  "intro": "Egykor egy hatalmas civilizáció uralta a föld hatalmas területeit, melyet az ég felé nyúló tornyosuló építményeiről híresítettek. Mégis, e nagyszerűség alatt makacs tagadás nőtt – a közösségből küldött isteni figyelmeztető üzenet meghallgatásának elutasítása. A büszkeség és az arrogancia hamarosan olyan büntetést von maga után, amilyet sem a föld, sem az ég nem látott még soha.",
+  "clues": [
+    "Egykor hatalmas földterületek felett uralkodtunk, olyan erővel dicsekedve, amelyről azt hittük, egyetlen más civilizáció sem veheti fel a versenyt velünk.",
+    "Birodalmunk híres volt hatalmas oszlopokkal ellátott, magasodó építményeiről, amelyeknek párjuk sem volt az egész ismert országban.",
+    "Egy figyelmeztető állt fel a saját közösségünkből, és arra buzdított mindannyiunkat, hogy egyedül az Egyetlen Teremtőnek rendeljük alá magunkat.",
+    "Elutasítottuk a nekünk küldött üzenetet, és nem voltunk hajlandóak elhagyni az örökségünkre örökölt utat.",
+    "Egy dühös, üvöltő, elsöprő erejű szél csapott ránk, teljesen védtelenné téve minket.",
+    "Úgy maradtunk ott, mint a pálmafák üreges törzsei, szétszórva és elfeledve, tanulságul minden utána következő generáció számára."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A'ad népe",
+        "Nuh népe",
+        "Lut népe",
+        "Madyan népe",
+        "Tubba népe"
+      ],
+      "answer": "A'ad népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A súlyos büntetés kérlelhetetlenül tomboló szele",
+        "Egy árvíz, amely minden hegycsúcsot ellepett",
+        "Égő agyagkövek esője ömlik alá felülről",
+        "Egyetlen rémisztő sikoly hallatszott az égből",
+        "Egy heves földrengés, amely kettészakította a földet"
+      ],
+      "answer": "A súlyos büntetés kérlelhetetlenül tomboló szele"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Irám, a magas oszlopok városa",
+        "Egy hegyre épített hatalmas, fából készült bárka",
+        "Egy nőstény teve, amely csodával határos módon emelkedett ki a kőből",
+        "A Sínai-hegy, ahol az isteni parancsok leereszkedtek",
+        "Kristályból és finom üvegből készült palota, amely a folyó vizekre néz"
+      ],
+      "answer": "Irám, a magas oszlopok városa"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Mint a pálmafák üreges törzsei, szétszórtan és élettelenül",
+        "Egy hatalmas árvíz elsöprő hullámai alá fulladva",
+        "Majmokra és disznókra emlékeztető lényekké alakultak át",
+        "Megkeményedett agyagkövek esője alatt összetörve",
+        "Egyetlen fülsiketítő sikoly emésztette fel, mely áthatolta a lelket"
+      ],
+      "answer": "Mint a pálmafák üreges törzsei, szétszórtan és élettelenül"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

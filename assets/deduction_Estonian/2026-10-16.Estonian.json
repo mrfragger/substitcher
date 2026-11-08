@@ -1,0 +1,61 @@
+{
+  "title": "Kogukond, mis trotsis puhkepäeva",
+  "intro": "Astu rannikuäärsesse asulasse, kus jumalik käsk eraldas ühe päeva jumalateenistuseks ja ohjeldamiseks. Selle kogukonna liikmed otsustasid kavala plaaniga selle käsu piire proovile panna, mis viis muutumiseni, mis kajab läbi aegade. Kes need hinged olid ja mis neist sai?",
+  "clues": [
+    "Me elasime ranniku lähedal, kus meri pakkus meile elatist.",
+    "Meile kästi austada ühte nädalapäeva, pannes selle ilmalikest ettevõtmistest kõrvale.",
+    "Sel päeval tuli kalu meie juurde hulgaliselt, justkui ahvatledes meid käsku rikkuma.",
+    "Me mõtlesime välja plaani kalad püha päeva eelõhtul lõksu püüda ja pärast selle möödumist need kokku korjata.",
+    "Kui mõned meie seast hoiatasid selle pettuse eest, ignoreerisime nende nõu ja jäime endale kindlaks.",
+    "Oma üleastumise pärast muudeti meid ahvideks, põlati ja hüljati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Hingamispäeva rahvas",
+        "Kraavi rahvas",
+        "Metsa rahvas",
+        "Aia rahvas",
+        "Elevandi rahvas"
+      ],
+      "answer": "Hingamispäeva rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kalapüük hingamispäeval",
+        "Kõrge torni ehitamine",
+        "Püha emase kaameli tapmine",
+        "Neile saadetud prohveti eitamine",
+        "Kaubanduskaalude ületamine"
+      ],
+      "answer": "Kalapüük hingamispäeval"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Meri ja selle kalad",
+        "Tuli, mis jahedaks tehti",
+        "Personal, mis muutus maoks",
+        "Päästeark",
+        "Kivitahvlid"
+      ],
+      "answer": "Meri ja selle kalad"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Muutunud ahvideks",
+        "Maa poolt neelatud",
+        "Hävitas tugev tuul",
+        "Uppus merre",
+        "Kivisadu tabas"
+      ],
+      "answer": "Muutunud ahvideks"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

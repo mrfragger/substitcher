@@ -1,0 +1,61 @@
+{
+  "title": "Kompanjonen som vände sig bort",
+  "intro": "Du är på väg att avslöja historien om en själ som levde i profetskapets skugga men valde en väg som ledde till undergång. Denna figur delade hem med en av Allahs utvalda budbärare men misslyckades med trosprovet. Vem är denne förlorade följeslagare?",
+  "clues": [
+    "Jag levde bland människor som förkastade kallelsen till rättfärdighet, och jag motsatte mig dem inte.",
+    "Jag var gift med en av Allahs profeter, men jag delade inte den tron.",
+    "När budbärarna kom hem till mig med en varning, trodde jag dem inte.",
+    "Min make/maka beordrades att lämna staden med de troende, och jag var inte bland dem.",
+    "Straffet föll över mitt folk, och jag förintades tillsammans med dem.",
+    "Jag nämns i Koranen som ett exempel på otro, tillsammans med Nuhs hustru, i Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Nuhs hustru",
+        "Profeten Luts hustru",
+        "Profeten Ibrahims hustru",
+        "Profeten Musas hustru",
+        "Profeten Ayyubs hustru"
+      ],
+      "answer": "Profeten Luts hustru"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Förrådde sin man genom att inte tro",
+        "Förkastade profeten Huds budskap",
+        "Dyrkade avgudar öppet i Kaba",
+        "Planerade mot sin mans uppdrag",
+        "Vägrade att acceptera sin sons profetskap"
+      ],
+      "answer": "Förrådde sin man genom att inte tro"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Staden Sodom",
+        "Staden Madyan",
+        "Staden Iram",
+        "Staden Babylon",
+        "Staden Jerusalem"
+      ],
+      "answer": "Staden Sodom"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Sparad med sin man",
+        "Förstörda med de icke-troende",
+        "Förvisad till ett avlägset land",
+        "Omvände sig och blev förlåten",
+        "Blev senare troende"
+      ],
+      "answer": "Förstörda med de icke-troende"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

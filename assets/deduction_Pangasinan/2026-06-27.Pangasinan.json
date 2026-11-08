@@ -1,0 +1,61 @@
+{
+  "title": "Say Sagradon Kiwawala",
+  "intro": "Diad labas na saray bunton na panaon, walay istorya na ag-onkupas a debosyon tan panagmatalek ya ambelat a nayarin nabuyak komon so kamarerwa ya mangaawit ed satan. Diad sakey a bekta nen saray totoo so linma ed kakulangkulang tan balitok, sakey a pigura so tinmalindeg a malet—tinawag to ra lamet, akikasi parad anos, tan inawit toy belat na sagradon sipan. Saya so istorya na sakey ya pinili bilang katulongan, vizier, tan managbantay na pananisia legan na sakey a sagradon kiwawala. Sarag mon naamtaan so pakabidbiran na sayan malet a kamarerwa?",
+  "clues": [
+    "Inabang ko so dala na sakey a baleg a propeta ya pinilin mitongtong ed si Allah a direkta diad sakey a sagradon palandey.",
+    "Aminsan et kinmerew na tulong so agik ed si Allah pian makapansalita na malinew ed sakey a baleg a managpairap.",
+    "Pinili ak nen Allah ya onalagey ed abay na agik bilang katulongan tan vizier.",
+    "Sankaiba min inarap so sakey a maruksan manuley ya labay toy tawagen ya sankatageyan ed saray dirios.",
+    "Legan ya mitotongtong so agik ed si Allah diad palandey, saray totoo mi et nanggawa na idolo parad sarili da manlapud balitok da.",
+    "Siak so agi nen Moises, ya tinuro nen Allah bilang vizier to, ya abitla ed ngaran ko ed Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Harun (Aaron)",
+        "Propeta Musa",
+        "Propeta Dawud",
+        "Propeta Yaqub",
+        "Propeta Ishaq"
+      ],
+      "answer": "Propeta Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Say Krisis ed Panagdayew ed Kilaw a Baka",
+        "Say Baleg a Delap ed Nuh",
+        "Say bakal ed Badr",
+        "Say inkaderal nen Thamud",
+        "Say Inkaderal na Sodoma"
+      ],
+      "answer": "Say Krisis ed Panagdayew ed Kilaw a Baka"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say Balitok a Baka",
+        "Say Biong nen Noe",
+        "Say Manpopoolan a Kiew",
+        "Say Ungeb nen Hira",
+        "Say trono na Sheba"
+      ],
+      "answer": "Say Balitok a Baka"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Say inka-inosente et akumpirma nen Allah",
+        "Inkalner na Faraon",
+        "Say Impaalagey na Kaaba",
+        "Maligen ya Ibaliw ed Dayat",
+        "Insegep ed Tawen"
+      ],
+      "answer": "Say inka-inosente et akumpirma nen Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

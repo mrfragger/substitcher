@@ -1,0 +1,61 @@
+{
+  "title": "Arhitectul ambiției false",
+  "intro": "O figură cu o mare autoritate a servit cândva unuia dintre cei mai notorii tirani ai istoriei din Egiptul antic. Acestui individ i s-a încredințat o comandă îndrăzneață - să construiască o structură menită să sfideze cerurile. Povestea lor stă în Coran ca o lecție remarcabilă despre cum ascultarea oarbă față de aroganță duce doar la ruină.",
+  "clues": [
+    "Am slujit la curtea unui conducător puternic care se pretindea divin asupra pământurilor.",
+    "Am deținut o înaltă funcție ministerială, sfătuindu-l pe cel mai arogant tiran al timpului meu.",
+    "Conducătorul meu era obsedat să-L sfideze pe Dumnezeul lui Moise, pe care refuzaseră să-L recunoască.",
+    "Mi s-a poruncit să construiesc un turn din cărămizi arse în foc, pentru ca conducătorul meu să se poată înălța la ceruri.",
+    "Turnul nu a atins niciodată cerul, iar robia mea față de aroganță mi-a adus ocară veșnică.",
+    "Am pierit împreună cu cel pe care l-am urmat, iar numele meu a devenit un avertisment durabil împotriva celor care permit tiranilor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Haman",
+        "Azar (tatăl lui Ibrahim)",
+        "Ilia (un profet)",
+        "Dhu al-Kifl",
+        "Harut (unul dintre cei doi îngeri din Babilon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ordonat să construiască o structură impunătoare care să ajungă la ceruri",
+        "Cerut să interpreteze un vis trimis de divinitate",
+        "Aruncat într-un foc arzător ca o încercare a credinței",
+        "Obligat să aleagă între tron ​​și adevăr",
+        "Provocat într-un concurs de vrăjitorie"
+      ],
+      "answer": "Ordonat să construiască o structură impunătoare care să ajungă la ceruri"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un turn de cărămizi arse în foc",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O corabie care navighează printr-o mare inundație",
+        "O grădină împrejmuită de ziduri înalte",
+        "Un tron ​​împodobit cu rubine și aur"
+      ],
+      "answer": "Un turn de cărămizi arse în foc"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Înecat alături de asupritor în mare",
+        "A devenit un monarh puternic al unor vaste ținuturi",
+        "A scăpat nevătămat dintr-un incendiu arzător",
+        "A construit un regat prosper al înțelepciunii",
+        "S-a reunit cu familia după ani de exil"
+      ],
+      "answer": "Înecat alături de asupritor în mare"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Prawda, która uciszyła sąd",
+  "intro": "W pałacu, gdzie panowało zaprzeczenie, a władza była absolutna, grupa doświadczonych praktyków stanęła przed nieoczekiwanym wyzwaniem. Powietrze trzeszczało z oczekiwania, gdy dwie ścieżki fałszu i prawdy miały się zetknąć. Zebrani nie wiedzieli, że to spotkanie odmieni ich życie na zawsze i zapisze ich historię w świętym tekście.",
+  "clues": [
+    "Słynęliśmy ze swoich umiejętności w tworzeniu iluzji, a potężny władca zgromadził nas, aby stawić czoła przeciwnikowi.",
+    "Gdy nadeszła ta chwila, złożyliśmy instrumenty i czekaliśmy na wynik, pewni swojego rzemiosła.",
+    "Jednak to, czego byliśmy świadkami, sprawiło, że nasze urządzenia wydały się zwykłymi zabawkami, a nasze serca rozpoznały niezaprzeczalną prawdę.",
+    "Padliśmy na ziemię, oddając pokłon, wyznając naszą wiarę w Pana Mojżesza i Aarona, pomimo gniewu władcy.",
+    "Ten władca groził nam najokrutniejszą karą, przysięgając, że nas ukrzyżuje i poćwiartuje w przeciwnych kierunkach.",
+    "Pozostaliśmy niezłomni, twierdząc, że przedkładamy osąd naszego Pana nad wszelkie doczesne konsekwencje, i zostaliśmy zamordowani za naszą wiarę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Czarodzieje Faraona",
+        "Ludzie jaskini",
+        "Towarzysze Lasu",
+        "Uczniowie Izajasza",
+        "Ludzie Słonia"
+      ],
+      "answer": "Czarodzieje Faraona"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Konkurs magiczny przeciwko Musie",
+        "Rzucono na nich ogień",
+        "Powódź, która ich utopiła",
+        "Susza i głód",
+        "Trzęsienie ziemi"
+      ],
+      "answer": "Konkurs magiczny przeciwko Musie"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Kije i liny, które zamieniły się w węże",
+        "Płonący krzew",
+        "Wielbłądzica",
+        "Arka z drewna",
+        "Wieloryb"
+      ],
+      "answer": "Kije i liny, które zamieniły się w węże"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Stracony za wiarę, obiecany Raj",
+        "Utonął w morzu",
+        "Zostali władcami Egiptu",
+        "Pozostali zwolennicy faraona",
+        "Odziedziczył ziemię"
+      ],
+      "answer": "Stracony za wiarę, obiecany Raj"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

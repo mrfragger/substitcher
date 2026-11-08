@@ -1,0 +1,61 @@
+{
+  "title": "Ruhê Bawermend ê Peyxama Yûhenna",
+  "intro": "Di cîhanên nedîtî de, hebûnek ji ronahiya paqij bi rastbûn tevdigere, bêyî dudilî her fermanekê bicîh tîne. Vê kesayetiyê bi xulamên bijartî re axiviye, gotinên rêberiyê aniye û şahidiya eşkerekirina fermanên îlahî di seranserê serdeman de kiriye. Ev giyanê birûmet kî ye?",
+  "clues": [
+    "Ez hebûnek ji ronahiya paqij im, ji ronahiyê hatime afirandin, û min qet yek fermana Rebbê xwe binpê nekiriye.",
+    "Ez di navbera erd û asîmanan de diçim û bi fermana Xwedayê herî dilovan dadikevim.",
+    "Ez li perestgehê ji bo keçikeke esilzade hatim şandin, da ku kurekî pak jê re mizgîn bikim.",
+    "Ez ruhê pîroziyê me, û min piştgirî da pêxemberekî ku nîşanên zelal û Încîl jê re hatibûn dayîn.",
+    "Ez hatim şikeftekê li ser çiyayekî da ku peyvên pêşîn ên xwendina xwe ku dê heta hetayê bihata parastin, pêşkêş bikim.",
+    "Ez ruhê pêbawer im, û ez bûm yê ku Quran daxist ser dilê pêxemberê dawî."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Cîbrîl (Cabriel)",
+        "Mîkaîl (Mîkaîl)",
+        "Melekê Mirinê",
+        "Malik (Parêzvanê Dojehê)",
+        "Harût (yek ji du milyaketên li Babîlê)"
+      ],
+      "answer": "Cîbrîl (Cabriel)"
+    },
+    "trial": {
+      "label": "Mîsyon/Rola Sereke",
+      "options": [
+        "Radestkirina wehyê ji pêxemberan re",
+        "Lêdana boriyê di Roja Qiyametê de",
+        "Parastina deriyên Cehenemê",
+        "Tomarkirina kirinên mirovan",
+        "Sedema baranê"
+      ],
+      "answer": "Radestkirina wehyê ji pêxemberan re"
+    },
+    "location": {
+      "label": "Taybetmendiya Sereke an Sernav",
+      "options": [
+        "Ruhê Pîroz (Ruh el-Qudus)",
+        "Ruhê Hêzê",
+        "Ruhê Dilovaniyê",
+        "Ruhê Rêberiyê",
+        "Ruhê Rastiyê"
+      ],
+      "answer": "Ruhê Pîroz (Ruh el-Qudus)"
+    },
+    "outcome": {
+      "label": "Encama Mîsyonê",
+      "options": [
+        "Quran ji Pêxember Muhemmed re hatiye şandin",
+        "Li sûrmê di Roja Qiyametê de lê da",
+        "Dojeh hate parastin û deriyên wê hatin girtin",
+        "Pirtûka emelan ji Xwedê re hat pêşkêşkirin",
+        "Baran li ser erdê hat şandin"
+      ],
+      "answer": "Quran ji Pêxember Muhemmed re hatiye şandin"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

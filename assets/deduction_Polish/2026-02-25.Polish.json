@@ -1,0 +1,61 @@
+{
+  "title": "Test jałowej skały",
+  "intro": "Społeczność, utalentowana i dumna, wyryła swoje dziedzictwo w samych górach. Ale gdy zesłano im wyraźny znak, próbę wiary i opanowania, ich arogancja poprowadziła ich ścieżką bez powrotu. Czy potrafisz zidentyfikować tę grupę i konsekwencje jej buntu?",
+  "clues": [
+    "Byliśmy mistrzami obróbki kamienia i rzeźbienia wspaniałych domów bezpośrednio w zboczach gór.",
+    "Do nas przybył posłaniec spośród naszego ludu, wzywając nas do oddawania czci Jedynemu Prawdziwemu Bogu.",
+    "Zażądaliśmy znaku, który by potwierdził jego słowa. I sprowadzono wyjątkowe stworzenie, aby nas wypróbować.",
+    "Dostaliśmy proste polecenie: podzielić się naszym źródłem wody z tym stworzeniem i pozwolić mu pić w wyznaczonym dniu.",
+    "W naszej arogancji kilku z nas zmówiło się i zlekceważyliśmy ostrzeżenie, zabijając stworzenie, które miało być naszym znakiem.",
+    "Dano nam trzy dni na zagładę, a potem potężna eksplozja porwała nas w naszych domach, pozostawiając nas martwymi i przewróconymi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ludzie z „Ad”",
+        "Ludzie Madyanu",
+        "Ludzie z Thamud",
+        "Ludzie Saby",
+        "Ludzie Lutu"
+      ],
+      "answer": "Ludzie z Thamud"
+    },
+    "trial": {
+      "label": "Jaki był nasz główny test?",
+      "options": [
+        "Budowa arki, aby przetrwać potop",
+        "Opieranie się pokusie łowienia ryb w szabat",
+        "Porzucenie oszukańczych praktyk biznesowych",
+        "Ochrona cudownej wielbłądzicy",
+        "Znoszenie siedmioletniego głodu"
+      ],
+      "answer": "Ochrona cudownej wielbłądzicy"
+    },
+    "location": {
+      "label": "Jaki był główny element naszej historii?",
+      "options": [
+        "Złoty cielec",
+        "Wielbłądzica",
+        "Laska Proroka Musy",
+        "Wielka Tama Ma'rib",
+        "Stół zastawiony z nieba"
+      ],
+      "answer": "Wielbłądzica"
+    },
+    "outcome": {
+      "label": "Jaki był nasz ostateczny los?",
+      "options": [
+        "Utonął w wielkim potopie",
+        "Zamienieni w małpy i świnie",
+        "Przytłoczony przez wściekły wiatr",
+        "Rozproszone przez pęknięcie tamy",
+        "Zniszczony przez potężny wybuch/trzęsienie ziemi"
+      ],
+      "answer": "Zniszczony przez potężny wybuch/trzęsienie ziemi"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

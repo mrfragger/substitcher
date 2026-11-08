@@ -1,0 +1,61 @@
+{
+  "title": "Duubatti Deebi'uu Kophaa",
+  "intro": "Seenaa tola waaqayyoo keessatti lubbuun qulqullummaa gita hin qabne, kallattii qulqulluutti kophummaa barbaaduuf saba isaanii irraa adda baafame jira. Kophaa ta’uun kun addunyaa hundumaaf mallattoo, qormaata amantii bara baraan dubbatamu akka fidu hin beekan turan.",
+  "clues": [
+    "Dhaloota koo dura jireenya tajaajilaaf of kenneera.",
+    "Eegduu raajii kabajamaa jala kaa'ame.",
+    "Rabbiin irraa rizqii eegduu kiyya ajaa’ibsiiseen jiraachise.",
+    "Maatii koo irraa gara bakka bahaatti of baase.",
+    "Ergamaan tokko bifa nama mudaa hin qabneen oduu ilma qulqulluu fidee natti mul’ate.",
+    "Yeroon daa'ima koo reefuu wajjin deebi'u sabni koo na himate, garuu daa'imni sun naaf falmuuf dubbate."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Maariyaam (Maariyaam) .",
+        "Asiyah (haadha manaa Fara'oon) .",
+        "Hajar (haadha Ismaa'eel) .",
+        "Saaraa (haadha warraa Ibraahim) .",
+        "Haati Muusaa"
+      ],
+      "answer": "Maariyaam (Maariyaam) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ulfa dinqii fi dhala ilma",
+        "Ibiddatti darbatamuu",
+        "Qurxummii guddaa tokkoon liqimfamuu",
+        "Taabota guddaa ijaaruu",
+        "Galaana qaxxaamuruu"
+      ],
+      "answer": "Ulfa dinqii fi dhala ilma"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Bakka bahaa kophaa ta'e",
+        "Bosona gubaa jiru",
+        "Galaana Diimaa",
+        "Dhagaa bishaan keessaa dhangala'e",
+        "Qurxummii galaanaa"
+      ],
+      "answer": "Bakka bahaa kophaa ta'e"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Daa'imni tokko haadha tokko ittisuuf dubbatte",
+        "Galaanni gargar ba'e",
+        "Ibiddi qabbanaa'ee fi nageenya qabu ta'e",
+        "Qurxummiin galaanaa kun qarqara galaanaa irratti garaa kaasaa ture",
+        "Taabonni sun gaara tokkorra buʼe"
+      ],
+      "answer": "Daa'imni tokko haadha tokko ittisuuf dubbatte"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

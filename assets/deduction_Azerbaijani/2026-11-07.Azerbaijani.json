@@ -1,0 +1,61 @@
+{
+  "title": "Ulduzlu işıqda əminlik axtarışı",
+  "intro": "Geniş bir gecə səmasının altında dayanıb, parlaq işıqların yüksəlib sönməsini seyr edərək, həqiqətən sədaqətə layiq olanı axtarırsınız. Ətrafınızda səssiz oyma təsvirlər tərif və təqdimlər alır, lakin aydın səbəb onların gücünü şübhə altına alır. Qorxmaz bir səs miras qalmış ənənəyə meydan oxumaq və göylərin və yerin Yaradanına işarə etmək üzrədir.",
+  "clues": [
+    "Ulduzlara, aya və günəşə baxdım və düşündüm ki, onlar batıb yox olduqları üçün mənim Rəbbim ola bilməzlər.",
+    "Mən qövmümün Allahdan başqa ibadət etdiklərini açıq şəkildə inkar etdim və onları yalnız Yaradana ibadət etməyə çağırdım.",
+    "Mən həm həyat, həm də ölüm verdiyini iddia edən lovğa bir hökmdarla mübahisə etdim və cavab olaraq Allahın günəşi şərqdən gətirdiyini qeyd etdim.",
+    "Mən bütləri vurub parça-parça etdim, aralarında yalnız ən böyüyünü saxladım ki, insanlar yenidən bütlərə qayıtsınlar.",
+    "Xalqım məni tutub məhkum etdi, dedi ki, bir bina tikib alovlu oda atsınlar.",
+    "Allah odun mənim üçün sərinlik və təhlükəsizlik olmasını əmr etdikdə nicat tapdım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İbrahim peyğəmbər (İbrahim)",
+        "Yəhya peyğəmbər (ə)",
+        "Peyğəmbər Əl-Yəsa (Elişa)",
+        "Samiri",
+        "Nəmrud (Nimrud)"
+      ],
+      "answer": "İbrahim peyğəmbər (İbrahim)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Bütpərəstliklə qarşılaşdı və səma cisimlərinin mənasını müzakirə etdi",
+        "Qəzəblə yola düşəndən sonra böyük bir balıq tərəfindən uduldu",
+        "Allahın iki yerə böldüyü dənizdə ardıcıllarını idarə etdilər",
+        "Ölüm dadmadan diri-diri göylərə qaldırıldı",
+        "Uzun illər əshabı ilə birlikdə mağarada yatdı"
+      ],
+      "answer": "Bütpərəstliklə qarşılaşdı və səma cisimlərinin mənasını müzakirə etdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Allah tərəfindən sərin və təhlükəsiz edilmiş alovlu bir atəş",
+        "Möminləri daşqından keçirən gəmi",
+        "İlana çevrilən əsa",
+        "Süfrə göydən yayıldı",
+        "Bir əlamət olaraq göndərilən dişi dəvə"
+      ],
+      "answer": "Allah tərəfindən sərin və təhlükəsiz edilmiş alovlu bir atəş"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Oddan qorunub saleh nəsillər bəxş etdi",
+        "Böyük bir seldə inkarçılarla birlikdə boğuldu",
+        "Şənbə gününü pozduğuna görə dəyişdirilib",
+        "Gil daşları daşıyan quşlar tərəfindən məhv edildi",
+        "Xəzinələrlə yer üzü tərəfindən udulmuş"
+      ],
+      "answer": "Oddan qorunub saleh nəsillər bəxş etdi"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

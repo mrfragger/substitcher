@@ -1,0 +1,61 @@
+{
+  "title": "Njàngalem Boroom bi",
+  "intro": "Danga fekk sa bopp ci réew mu bari ay yéeme yu yàgg ak feeñu yu xóot. Benn njiit bu am doole, bimu jànkoonte ak invite bumu xamul woon, mu dem tukki bu nara soppi ëlëgam ak ngëmu askanam. Ndax mën nga wane nit ku mag kii?",
+  "clues": [
+    "Maa ngi jiitewoon réew mu am xaalis, bari alal ak jal bu rafet.",
+    "Man ak sama askan danu daan jaamu mbindéef bu nekk ci asamaan si, gëm ni mooy sunu boroom, doonte daa am sikki-sakka ci sama xol.",
+    "Benn ndaw bu amul fenn, di picc, yónnee ma bataaxal, di woo man ak sama askan ñu déggal benn Yàlla.",
+    "Ma laaj samay xalaatkat, ñoom ñépp am doole, ñu xam naka lañu wara toppatoo bataaxal bu musul am bii.",
+    "Ma jël dogal ni damay yónnee ki ma yónnee bataaxal bi kado bu am solo, ndax dinaa xam dooleem ak mébetam.",
+    "Bima yegsee, ma yéemu ci palaas bu am dër bu ñu defaree weer, mu nuru benn lëmu ndox, ci noonu ma wax ni damay topp Boroom biy sàkk lépp."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Firawna",
+        "Reine de Saba",
+        "Zu al-qarnayn",
+        "Luqman",
+        "Yonent bi Yuusuf"
+      ],
+      "answer": "Reine de Saba"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Xaajaloo géej gi",
+        "Mbënd mu mag mi",
+        "Tukki bi ngir daje ak Seydina Sulaymaan",
+        "Talkub waa Lut .",
+        "Takk Yonent Yalla Ibrahim"
+      ],
+      "answer": "Tukki bi ngir daje ak Seydina Sulaymaan"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Ark bi",
+        "Ndaw yi",
+        "Galluwaay gi",
+        "Tund wi",
+        "Safara si"
+      ],
+      "answer": "Galluwaay gi"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekk na yonent",
+        "Yàlla moo ko yàq",
+        "Dañu nangu Islam",
+        "Yobbu askanam ci xare",
+        "Tabax barabu jaamukaay bu mag"
+      ],
+      "answer": "Dañu nangu Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

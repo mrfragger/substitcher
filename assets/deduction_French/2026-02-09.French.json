@@ -1,0 +1,60 @@
+{
+  "title": "Le procès sous les vagues",
+  "intro": "Un prophète, accablé par sa mission, prit une décision qui le mena loin de son peuple et vers une épreuve inattendue. Son voyage prit un tournant dramatique, mettant à rude épreuve sa foi et sa patience. Saurez-vous reconstituer les détails de cet événement extraordinaire à partir des indices fournis ?",
+  "clues": [
+    "Un prophète fut envoyé à un peuple, mais il repartit précipitamment, frustré par leur rejet.",
+    "Son voyage le mena jusqu'à la mer, où il embarqua à bord d'un navire lourdement chargé, en quête d'un passage.",
+    "Une violente tempête s'est levée, menaçant le navire, et il a été décidé, par tirage au sort, de jeter une personne par-dessus bord pour alléger la charge.",
+    "Il fut englouti par une créature des profondeurs, un événement miraculeux décrété par la volonté divine.",
+    "Au fond du ventre de la créature, il implora son Seigneur, se repentant et glorifiant Allah dans les ténèbres.",
+    "Après une période de supplications intenses, il fut abandonné sur un rivage désert, faible mais vivant, et revint plus tard pour constater que son peuple avait finalement cru."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prophète/Personne",
+      "options": [
+        "Prophète Noé",
+        "Le prophète Lout",
+        "Le prophète Moïse",
+        "Prophète Yunus",
+        "Prophète Yusuf"
+      ],
+      "answer": "Prophète Yunus"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le déluge de Noé",
+        "La destruction de Sodome",
+        "Le voyage dans le ventre du grand poisson",
+        "La séparation de la mer",
+        "La révélation du buisson ardent"
+      ],
+      "answer": "Le voyage dans le ventre du grand poisson"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Mont Sinaï",
+        "Le bâton de Moïse",
+        "Le Grand Poisson",
+        "Le puits de Yusuf"
+      ],
+      "answer": "Le Grand Poisson"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Une nouvelle alliance avec l'humanité",
+        "Une naissance miraculeuse pour son peuple",
+        "Un royaume établi pour sa lignée",
+        "Un retour auprès de son peuple qui croyait alors",
+        "Une victoire sur un dirigeant tyrannique"
+      ],
+      "answer": "Un retour auprès de son peuple qui croyait alors"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

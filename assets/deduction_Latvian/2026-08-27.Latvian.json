@@ -1,0 +1,61 @@
+{
+  "title": "Artikulētā Izredzētā",
+  "intro": "Kalna ēnā, kur nolaidās dievišķi vārdi, tautas ticība svārstījās zem zelta mirdzuma. Viena dvēsele, apveltīta ar daiļrunību, stāvēja kā atbalsts lielākai misijai, tomēr saskārās ar dziļa pārbaudījuma brīdi. Kad izredzētais vēstnesis devās svētā amatā, šī figūra palika, lūdzot nemierīgo tautu. Kas ir šī nelokāmā dvēsele, kuras balss pacēlās pret elkdievību?",
+  "clues": [
+    "Allahs mani izvēlējās par pravieti, lai gan mans stāsts bieži tiek stāstīts līdzās kādam citam.",
+    "Mani sūtīja pie tirāna valdnieka, bet mana loma bija atbalstīt, nevis vadīt.",
+    "Man bija dota daiļrunība, un mani vārdi bija domāti, lai mīkstinātu sirdis.",
+    "Kad mans biedrs devās uz svētu tikšanos, man tika atstāts vadīt nemierīgus ļaudis.",
+    "Savā nepacietībā viņi no savām rotaslietām izkala attēlu, un es lūdzu viņus palikt uzticīgiem Allāham.",
+    "Mans biedrs atgriezās un mani satvēra, bet es paskaidroju, ka ļaudis mani pārspēja un gandrīz nogalināja; es nebiju starp pārkāpējiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Musa",
+        "Pravietis Haruns",
+        "Pravietis Isa",
+        "Pravietis Jahja",
+        "Pravietis Zakarija"
+      ],
+      "answer": "Pravietis Haruns"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Tiekot iemests ugunī",
+        "Iemešana akā",
+        "Saskaroties ar zelta teļa incidentu",
+        "Smagas slimības pārbaude",
+        "Bagātības un bērnu zaudēšanas pārbaudījums"
+      ],
+      "answer": "Saskaroties ar zelta teļa incidentu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš",
+        "Personāls",
+        "Derības šķirsts",
+        "Tabletes",
+        "Degošais krūms"
+      ],
+      "answer": "Zelta teļš"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Bargi sodīts",
+        "Piedots un attaisnots",
+        "Padarīja par karali",
+        "Paņemts debesīs",
+        "Dots jauns Svēto Rakstu pants"
+      ],
+      "answer": "Piedots un attaisnots"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

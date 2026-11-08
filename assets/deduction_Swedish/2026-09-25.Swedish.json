@@ -1,0 +1,61 @@
+{
+  "title": "Dammen som bröt ett kungarike",
+  "intro": "Ett land med flödande floder, två grönskande trädgårdar och oöverträffat välstånd – men dess invånare blev oberörda av den som välsignade dem. När påminnelser kom och kallade dem tillbaka, vände de sig bort. Det som följde var ett straff som fortfarande ekar som en varning. Vem var detta forntida samhälle?",
+  "clues": [
+    "Vi levde i ett så välsignat land att vårt hem låg mellan två grönskande trädgårdar.",
+    "Vi njöt av floder som flödade genom våra marker och rikliga skördar som fyllde våra hem.",
+    "Ändå när vi kallades till tacksamhet och lydnad mot vår Herre, vände vi oss bort i stolthet.",
+    "Vår rikedom och bekvämlighet fick oss att glömma den som hade gett oss allt.",
+    "Sedan kom en plötslig ström som bröt igenom den stora barriär vi hade förlitat oss på.",
+    "Vi är folket på Saba, vars land var känt för den stora Ma'rib-dammen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Sabas folk",
+        "Folket i skyttegraven",
+        "Brunnens följeslagare",
+        "Folket i Tubba'",
+        "Midjans folk"
+      ],
+      "answer": "Sabas folk"
+    },
+    "trial": {
+      "label": "Vårt fall",
+      "options": [
+        "Översvämning från en sprängande damm",
+        "En våldsam vind från himlen",
+        "Brinner i en eldgrav",
+        "En massiv jordbävning",
+        "Drunknade i en stor översvämning"
+      ],
+      "answer": "Översvämning från en sprängande damm"
+    },
+    "location": {
+      "label": "Nyckelplats",
+      "options": [
+        "Ma'rib-dammen",
+        "Sinaiberget",
+        "De sju sovarnas grotta",
+        "Den brinnande busken",
+        "Havets delning"
+      ],
+      "answer": "Ma'rib-dammen"
+    },
+    "outcome": {
+      "label": "Vårt öde",
+      "options": [
+        "Två bittra trädgårdar ersatte våra frodiga",
+        "Våra trädgårdar blev ännu frodigare",
+        "Landet sjönk under havet",
+        "Vi begravdes i vulkanaska",
+        "Vår nation delades upp i tolv stammar"
+      ],
+      "answer": "Två bittra trädgårdar ersatte våra frodiga"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

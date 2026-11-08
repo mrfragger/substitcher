@@ -1,0 +1,61 @@
+{
+  "title": "Taron Makoki na Masu Makoki",
+  "intro": "Za ku haɗu da wata rai da aka gwada ta hanyar rabuwar zuci, wadda idanunta suka san harshen hawaye amma zuciyarta ba ta taɓa rasa bege ba. A cikin labarin yaudara, sha'awa, da kuma sake haɗuwa daga ƙarshe, wannan bawan Allah mai daraja ya zama alamar haƙuri har abada. Wanene ya jure wa shekaru na baƙin ciki na ɓoye, sai kawai ya sami gani da farin ciki a cikin ɗan lokaci guda?",
+  "clues": [
+    "Ni annabi ne wanda sunansa ya zama alamar haƙuri a gaban babban rashi.",
+    "Na sami 'ya'ya maza da yawa, amma ɗaya daga cikinsu kishin wasu ne ya ɗauke shi.",
+    "Soyayyata ga wanda ya ɓace ta yi zurfi sosai har idanuna suka yi fari saboda baƙin ciki, duk da haka ban taɓa yin gunaguni ba sai ga Allah.",
+    "Na mayar da 'ya'yana maza su nemi wanda na rasa da kuma ɗan'uwansa, ina roƙonsu kada su yanke ƙauna.",
+    "Da mai bushara ya iso, sai aka yi mini riga, sai kwatsam duniya ta sake bayyana.",
+    "An san ni da Isra'ila, kuma daga 'ya'yana maza goma sha biyu ne aka fito da ƙabilu goma sha biyu na babbar al'umma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Ya'qub (Annabi Ya'qub)",
+        "Annabi Yusuf (Annabi Yusuf)",
+        "Annabi Ishaku (Ishaku)",
+        "Annabi Ibrahim (Annabi Ibrahim)",
+        "Annabi Ayuba (Ayuba)"
+      ],
+      "answer": "Annabi Ya'qub (Annabi Ya'qub)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Rabuwa da ɗa ƙaunatacce tsawon shekaru da yawa",
+        "Ana jefa shi cikin wuta mai zafi",
+        "Wani babban kifi ya haɗiye shi",
+        "Tana fama da mummunar cutar fata",
+        "Kasancewa ba tare da ɗa ba har sai tsufa"
+      ],
+      "answer": "Rabuwa da ɗa ƙaunatacce tsawon shekaru da yawa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Rigar Yusufu",
+        "Ma'aikatan Musa",
+        "Jirgin Nuhu",
+        "Raƙumar Salih",
+        "Zoben Sulaiman"
+      ],
+      "answer": "Rigar Yusufu"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An dawo da ganinsa kuma ya sake haɗuwa da ɗansa",
+        "An ba da nasara a kan azzalumin sarki",
+        "An ɗaga shi zuwa sama da rai",
+        "An naɗa shi a matsayin mai mulki a Masar",
+        "Ba wa ɗa a tsufa a matsayin mu'ujiza"
+      ],
+      "answer": "An dawo da ganinsa kuma ya sake haɗuwa da ɗansa"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

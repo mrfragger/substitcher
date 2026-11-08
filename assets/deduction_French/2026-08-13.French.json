@@ -1,0 +1,61 @@
+{
+  "title": "L'âme patiente de la maison sacrée",
+  "intro": "Dans les pages du Coran, une figure issue de la lignée d'un grand prophète se révèle, reçue en don à un âge avancé. Cette âme est célébrée pour sa sincérité inébranlable et son rôle fondamental dans l'établissement d'un sanctuaire qui deviendrait un phare de la foi. En lisant les indices, écoutez attentivement la voix du passé, car elle s'exprime à la première personne.",
+  "clues": [
+    "Je suis mentionné dans le Coran aux côtés d'un autre prophète, comme un don accordé à un messager âgé.",
+    "J'étais l'un des deux enfants donnés à ce prophète dans ses dernières années.",
+    "Je suis loué dans le Coran pour avoir tenu parole.",
+    "J'ai porté l'honneur de la prophétie et j'ai été envoyé comme messager.",
+    "J'ai rejoint mon père pour ériger les fondations de la Maison Sacrée.",
+    "On se souvient de moi comme d'une personne patiente, et la maison sacrée que nous avons construite est devenue un lieu de retour et de sécurité pour les gens."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ismaïl",
+        "Prophète Ishaq",
+        "Prophète Yaqub",
+        "Prophète Zakariya",
+        "Prophète Yahya"
+      ],
+      "answer": "Le prophète Ismaïl"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Ériger les fondations de la Kaaba avec Ibrahim",
+        "Être jeté dans le feu",
+        "Être avalé par une baleine",
+        "Conduire les Israélites hors d'Égypte",
+        "Construire une arche"
+      ],
+      "answer": "Ériger les fondations de la Kaaba avec Ibrahim"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La Kaaba",
+        "Mont Sinaï",
+        "La mer Rouge",
+        "Le veau d'or",
+        "Le jardin d'Éden"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Compté parmi les patients",
+        "Comptés parmi les malfaiteurs",
+        "Compté parmi les magiciens",
+        "Comptés parmi les incrédules",
+        "Compté parmi les hypocrites"
+      ],
+      "answer": "Compté parmi les patients"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vyvrheľ nebies",
+  "intro": "Záhadná bytosť stojí na križovatke stvorenia a odmietnutia. Ich príbeh je príbehom bezprecedentnej arogancie a konečného vzdoru voči božskému príkazu. Ich voľba sa ozýva každou generáciou a stáva sa skúškou pre každú dušu narodenú na tomto svete. Dokážete identifikovať tohto večného protivníka?",
+  "clues": [
+    "Bol som prítomný pri udalosti kozmického významu, keď sa z hliny sformovala nová bytosť a Dych Milosrdného jej dal život.",
+    "Ja sám som vznikol z jediného horiaceho elementu, na rozdiel od toho, že je z prachu.",
+    "Bol mi vydaný rozkaz, ktorý som považoval za pod moje postavenie.",
+    "Premohla ma pýcha a ja som neústupne odmietol poslúchnuť tento príkaz.",
+    "Bol mi daný odklad do určeného dňa, aby som mohol splniť svoj vyhlásený cieľ, ktorým je zavádzanie ostatných.",
+    "Som vyhlásený nepriateľ všetkých, ktorí chodia po zemi, šepkám im klamstvá a lákam ich z priamej cesty."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Iblis (Satan)",
+        "Faraón (Fir'awn)",
+        "Háman",
+        "Abu Džahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Odmietol sa pokloniť pred Adamom",
+        "Falošne tvrdil o božstve",
+        "Ukoval zlaté teľa na uctievanie",
+        "Zabil svojho brata zo závisti",
+        "Viedol polyteistickú opozíciu v Mekke"
+      ],
+      "answer": "Odmietol sa pokloniť pred Adamom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Raj (Džanna)",
+        "Faraónov palác v Egypte",
+        "Posvätné údolie Tuwa",
+        "Hĺbky mora",
+        "Záhrada zo Sáby"
+      ],
+      "answer": "Raj (Džanna)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Udelený oddych až do Súdneho dňa",
+        "Utopil sa spolu s armádou v mori",
+        "Pohltený zemou spolu s pokladmi",
+        "Premenení na opice za porušenie Sabatu",
+        "Spálený kameňmi vrhanými z neba"
+      ],
+      "answer": "Udelený oddych až do Súdneho dňa"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

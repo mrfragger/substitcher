@@ -1,0 +1,61 @@
+{
+  "title": "Al'ummar da ta saba wa Tsarin Halitta",
+  "intro": "A yankin da labarinsa ya yi ta yawo a tsawon tarihi, wata al'umma ta rayu cikin tawaye a fili ga dokokin tsarki. Ayyukansu sun kasance ba a taɓa ganin irinsu ba har ana tunawa da su a matsayin gargaɗi ga dukkan bil'adama. Su waye waɗannan rayuka, kuma wace ƙaddara ce ta same su?",
+  "clues": [
+    "Mun zauna a ƙasar da ke kan hanyar da matafiya ke bi sau da yawa, amma mun sanya tafiyarsu ta zama mai haɗari.",
+    "Mun aikata ayyukan rashin kunya da babu wanda ya taɓa aikatawa a duniya a da.",
+    "Wani manzo daga cikinmu ya kira mu mu bar hanyoyinmu, amma muka ƙi shi muka nemi hukuncin idan yana da gaskiya.",
+    "Lokacin da kyawawan baƙi suka zo birninmu, mun nemi mu kai musu hari, ba tare da mun san cewa manzannin halaka ne ba.",
+    "An yi mana gargaɗi game da mummunan hukunci idan ba mu daina ba, amma mun yi ba'a ga gargaɗin kuma muka ci gaba da kasancewa cikin zunubinmu.",
+    "Ruwan duwatsu ya faɗo mana daga sama, gidajenmu suka ruguje, babu wata alama sai alama ga waɗanda suka yi tunani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Lutu",
+        "Mutanen Samudawa",
+        "Mutanen A'ad",
+        "Mutanen Madyana",
+        "mutanen Saba"
+      ],
+      "answer": "Mutanen Lutu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ya aikata rashin da'a da ba a taɓa gani ba kuma ya toshe hanyoyin",
+        "Ya bauta wa ɗan maraƙi na zinariya",
+        "An kashe raƙumin alfarma",
+        "An yi wa mutane cin hanci da rashawa kuma an yi wa kasuwanci katutu",
+        "Gina hasumiya mai tsayi domin ƙalubalantar sammai"
+      ],
+      "answer": "Ya aikata rashin da'a da ba a taɓa gani ba kuma ya toshe hanyoyin"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Mala'iku sun yi kama da kyawawan baƙi",
+        "Raƙumi yana fitowa daga dutse",
+        "Sanda da ke rikidewa ta zama maciji",
+        "Jirgin ruwa da aka gina a kan dutse",
+        "Wutar da ta zama mai sanyi da kwanciyar hankali"
+      ],
+      "answer": "Mala'iku sun yi kama da kyawawan baƙi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ruwan duwatsu daga sama ya lalata shi",
+        "Ƙasa ta haɗiye ta",
+        "An nutsar da shi cikin ambaliyar ruwa mai girma",
+        "An buge shi da wata ƙara mai ƙarfi",
+        "An canza shi zuwa birai"
+      ],
+      "answer": "Ruwan duwatsu daga sama ya lalata shi"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

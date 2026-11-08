@@ -1,0 +1,61 @@
+{
+  "title": "L'escartat de l'òrt",
+  "intro": "Un èsser misteriós demorava un còp dins los rengs mai nauts de la creacion, mai pròche del Divin que fòrça poirián comprene. Pasmens l'orgulh s'enrasiguèt, e un sol acte de desfís alterèt lo cors de l'existéncia. Ara, aquel èsser vaga coma un enemic jurat, murmurant e complotant fins qu'arriba un jorn prometut. Podètz descobrir l'identitat d'aqueste tombat?",
+  "clues": [
+    "Èri un còp demest los mai pròches de la preséncia Divina, elevat al dessús de la màger part de la creacion.",
+    "Foguèri creat a partir d'un element ardent, pas de tèrra o d'argila.",
+    "Quand me demandèron de m'inclinar davant una novèla creacion, refusèri — menat per çò que cresiái èsser ma pròpria superioritat.",
+    "Foguèri fòrabandit e maudit, mas fin finala foguèri concedit un relambi fins a un moment conegut e fixat.",
+    "Prometèri de desviar lo mai que podiái, en s'aprochant de la descendéncia d'Adam de totas las direccions.",
+    "Soi l'enemic dobèrt e declarat de tota l'umanitat, que complòta e murmura totjorn fins a la fin fixada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Lo profèta Ilyas",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Ensag / Eveniment",
+      "options": [
+        "Refús de se prostrar davant Adam",
+        "Bastir un vedèl d'aur per que lo pòble l'adore",
+        "Ensenhar la bruèissa al pòble de Babilònia",
+        "Fendant la mar amb un baston",
+        "Portant lo tròn de la Reina de Saba en un instant"
+      ],
+      "answer": "Refús de se prostrar davant Adam"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'òrt d'Edèn",
+        "La montanha de Tur",
+        "Lo potz de Rass .",
+        "Lo palais de faraon",
+        "La cauna dels dormidors"
+      ],
+      "answer": "L'òrt d'Edèn"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Respècte concedit fins al jorn del jutjament",
+        "Afogat dins la mar amb una armada",
+        "Enterrat viu jos un palais en esfondrament",
+        "Transformat en un simi o un mono",
+        "Pujat a un reng mai naut"
+      ],
+      "answer": "Respècte concedit fins al jorn del jutjament"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

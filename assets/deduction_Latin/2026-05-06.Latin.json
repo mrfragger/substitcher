@@ -1,0 +1,61 @@
+{
+  "title": "Vox de Rubo Ardente",
+  "intro": "Detege identitatem personae gravissimae cuius iter miraculoso congressu coepit et cuius fatum cum liberatione populi oppressi intertextum erat. Hic homo ad munus ingens electus est, immensis provocationibus cum auxilio divino obviam eundum.",
+  "clues": [
+    "Natus sum tempore magnae oppressionis, ubi infantes populi mei necabantur.",
+    "Prima vita mea a parente in flumen deiectus est, attamen in ipsa domo oppressoris populi mei inventus et educatus sum.",
+    "Olim ex urbe fugi postquam mortem hominis inconsulto in rixa effeci.",
+    "Nuntium divinum et baculum miraculosum in loco sacro accepi, ubi mihi mandatum est ut principem potentem aggrediar.",
+    "Frater meus, propter impedimentum quod in oratione mea perceptum, mihi in missione mea adiutor adscitus est.",
+    "Populum meum trans mare divisum duxi, fugam facientes exercitus tyranni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Iosue",
+        "Propheta Isaias",
+        "Propheta Musa",
+        "Propheta Nuh",
+        "Propheta Ibrahim"
+      ],
+      "answer": "Propheta Musa"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Perennes annos siccitatis",
+        "Arcae Aedificatio",
+        "Pharaonem eiusque maleficos oppugnans",
+        "In fornacem ignis coniectus",
+        "Destructio populi Thamud"
+      ],
+      "answer": "Pharaonem eiusque maleficos oppugnans"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Kaaba",
+        "Murus Ferreus",
+        "Officium",
+        "Navis Nuh",
+        "Anulus Sulaimani"
+      ],
+      "answer": "Officium"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Urbs Sodomae eversa est",
+        "Populus a terra absorptus est",
+        "Magnum diluvium terram obruit",
+        "Pharao et exercitus eius submersi sunt",
+        "Muri urbis ex clamore corruerunt"
+      ],
+      "answer": "Pharao et exercitus eius submersi sunt"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

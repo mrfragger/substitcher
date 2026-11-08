@@ -1,0 +1,61 @@
+{
+  "title": "Muryar Daga Abyss",
+  "intro": "Labarin haƙuri da rahamar Allah mara iyaka ya bayyana a cikin Alƙur'ani. An aika da manzo zuwa wani babban birni, amma mutanensu sun ƙi gargaɗin kuma suka ƙi gaskiya. Cikin takaici, wannan rai ta tafi - sai kawai aka jarabce shi da teku mai ƙarfi aka haɗiye shi cikin duhun zurfi. Daga cikin cikin duhu, roƙo mai tawali'u ya taso, kuma Mai rahama ya amsa. Wanene wannan rai da ya fito ya canza, wanda mutanensa za su zama masu imani da sama da dubu ɗari?",
+  "clues": [
+    "An aiko ni a matsayin mai gargaɗi zuwa ga babban birni wanda mazaunansa suka kauce daga tafarkin imani.",
+    "Na kira mutanena zuwa ga gaskiya akai-akai, amma sun yi ba'a kuma sun ƙi saƙona.",
+    "Na rabu da su cikin takaici kafin a ba ni izini, na nufi bakin teku.",
+    "Babban guguwa ta taso, sai aka jefa ni cikin ruwa — sannan wani babban halittar ruwa ya haɗiye ni gaba ɗaya.",
+    "A cikin duhu mai zurfi — zurfin teku, cikin halittar, da kuma zurfin ƙasan teku — na yi ihu: 'Babu wani abin bautawa sai Kai; tsarki ya tabbata a gare Ka; Na kasance cikin azzalumai.'",
+    "Allah ya cece ni daga zurfin ƙasa, kuma lokacin da na dawo, sama da mutane dubu ɗari daga cikin mutanena sun rungumi gaskiya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Yunus (Annabi Yunus)",
+        "Annabi Musa (Annabi Musa)",
+        "Annabi Ibrahim (Annabi Ibrahim)",
+        "Annabi Zakariyya (Zakariya)",
+        "Annabi Idris (Enoch)"
+      ],
+      "answer": "Annabi Yunus (Annabi Yunus)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Babban halittar ruwa ya haɗiye ta",
+        "Fuskantar da azzalumi da masu sihirinsa",
+        "Sarki mai fushi ya jefa shi cikin wuta mai zafi",
+        "Jin bushara game da ɗa tun yana tsufa kuma bai iya ba",
+        "Shaidar wata ƙasa da ambaliyar ruwa ta lalata"
+      ],
+      "answer": "Babban halittar ruwa ya haɗiye ta"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Cikin wani babban halittar teku a cikin zurfin teku",
+        "Gida mai tsarki da ke kewaye da tsaunuka a cikin kwari mara ciyawa",
+        "Wuta mai ci da aka sanya ta mai sanyi da kwanciyar hankali",
+        "Lambu mai ban sha'awa mai koguna da inuwa masu gudana",
+        "Babban jirgin ruwa yana kan kololuwar dutse"
+      ],
+      "answer": "Cikin wani babban halittar teku a cikin zurfin teku"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An cece su daga duhu; taron jama'a masu yawa sun yi imani",
+        "An 'yantar da shi daga wuta mai ci, harshen wuta kuma ya yi sanyi",
+        "Ya zama shugaban wata ƙasa mai ƙarfi kuma ya 'yantar da su daga zalunci",
+        "An ba wa yaro bayan shekaru da yawa yana addu'a",
+        "An ba shi hikima mai yawa, mulki, da kuma mulkin iskoki da aljanu"
+      ],
+      "answer": "An cece su daga duhu; taron jama'a masu yawa sun yi imani"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

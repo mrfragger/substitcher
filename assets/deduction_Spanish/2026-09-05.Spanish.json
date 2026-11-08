@@ -1,0 +1,61 @@
+{
+  "title": "El esplendor que se hundió",
+  "intro": "Imagínese esto: un alma ataviada con finas vestiduras y rodeada de tesoros inimaginables. Esta persona creía que su riqueza provenía de su propio talento, sin reconocer jamás la verdadera fuente de su sustento. Caminando entre los seguidores de un poderoso profeta, rechazó toda muestra de humildad. Hoy, descubrimos la identidad de una figura cuya magnífica fortuna se convirtió en su lugar de descanso final.",
+  "clues": [
+    "Viví en la época de un profeta que llamó a una nación obstinada a la verdad.",
+    "Yo formaba parte de una comunidad elegida, pero mi corazón se apartó de ese mensaje.",
+    "El oro y la plata me cautivaron más que cualquier mandato divino.",
+    "Mis cámaras del tesoro se hicieron tan enormes que un grupo de hombres fuertes apenas podía levantar las llaves.",
+    "Me jactaba de que mi riqueza me había sido otorgada gracias a mi propio conocimiento.",
+    "Al final, la tierra me engulló a mí y a toda mi vivienda como advertencia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Qarun",
+        "Hamán",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saúl)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Arrogancia por la riqueza y rechazo a la caridad",
+        "Forjar un ídolo de oro a partir de joyas fundidas",
+        "Declarar la divinidad sobre un poderoso reino.",
+        "Persecución de los primeros creyentes en La Meca",
+        "Liderando una campaña para destruir la Casa Sagrada."
+      ],
+      "answer": "Arrogancia por la riqueza y rechazo a la caridad"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Tesoros cuyas llaves pesaban sobre muchos hombres fuertes.",
+        "Un becerro de oro que producía sonido",
+        "Un trono glorioso de una tierra lejana",
+        "Una trinchera llena de fuego ardiente",
+        "Un poderoso ejército de elefantes de guerra"
+      ],
+      "answer": "Tesoros cuyas llaves pesaban sobre muchos hombres fuertes."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Engullido por la tierra junto con la vivienda.",
+        "Ahogado en el mar con un ejército",
+        "Quemado vivo en una fosa de fuego",
+        "Destruido por un viento aullante y furioso.",
+        "Derribado por una sola y poderosa explosión."
+      ],
+      "answer": "Engullido por la tierra junto con la vivienda."
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umbra din spatele tronului",
+  "intro": "Te afli în curțile unui regat străvechi și puternic, unde un conducător puternic s-a proclamat zeu peste tot poporul. Lângă acest conducător stă un slujitor devotat, căruia i s-au încredințat cele mai mărețe ambiții ale regatului. Împreună, ei complotează și plănuiesc, refuzând să ia aminte la avertismentele unui mesager trimis să-i călăuzească. Poți descoperi cine a fost acest slujitor loial?",
+  "clues": [
+    "Am trăit într-un regat puternic, condus de o figură puternică care se pretindea divină asupra tuturor oamenilor.",
+    "Am servit ca ministru de încredere al acestui conducător, îndeplinind fiecare ambiție și poruncă a sa.",
+    "Când un mesager al lui Allah a venit în țara noastră chemându-ne la adevăr, eu și conducătorul meu am refuzat să ascultăm.",
+    "Mi s-a poruncit să aprind un foc mare și să pregătesc cărămizi de lut pentru o construcție grandioasă.",
+    "Conducătorul meu voia să ridice o structură impunătoare atât de înaltă încât să ajungă până la ceruri.",
+    "În cele din urmă, conducătorul meu, armatele noastre și cu mine am fost măturați și înecați în adâncurile mării."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Construirea unui turn pentru a ajunge la ceruri",
+        "Fiind aruncat într-un foc arzător",
+        "Trezirea unui popor de la închinarea la idoli de piatră",
+        "Despicarea lunii ca semn divin",
+        "Cucerirea unui oraș puternic prin poruncă divină"
+      ],
+      "answer": "Construirea unui turn pentru a ajunge la ceruri"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un turn din cărămizi de lut ars",
+        "Burta unei balene",
+        "Un izvor sacru în deșert",
+        "Un rug aprins pe un munte sfânt",
+        "O arcă care transportă o familie aleasă"
+      ],
+      "answer": "Un turn din cărămizi de lut ars"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Înecat în adâncurile mării",
+        "Ridicat în siguranță într-un palat magnific",
+        "Salvat din burta unui pește mare",
+        "Onorat cu regalitate și înțelepciune divină",
+        "Prefăcut în praf de un strigăt pătrunzător"
+      ],
+      "answer": "Înecat în adâncurile mării"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

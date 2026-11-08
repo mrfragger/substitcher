@@ -1,0 +1,61 @@
+{
+  "title": "Ukazioa ugaritasunaren artean",
+  "intro": "Merkataritzaz betetako merkatuak dituen herri baten artean aurkitzen zara, baina haien balantza bidegabeki okertzen da. Mezulari bat etorri zaie abisu argiekin, baina barre egin eta alde egin dute, beren oparotasunean konfiantzaz. Zerua iluntzen hasten da, baina euriaren bedeinkapen gisa ikusten dute. Nor dira jende hauek?",
+  "clues": [
+    "Merkataritza eta ugaritasuneko lurraldeetan loratu ginen, baina gure bihotzak gogortu egin ziren.",
+    "Mezulari bat etorri zitzaigun gure Jaunaren seinaleekin, baina haren abisuak iseka egin genituen.",
+    "Gure merkataritzagatik ginen ezagunak, baina neurri laburra ematen genuen eta jendea engainatzen genuen.",
+    "Zuhaitz trinko eta landaretza oparoaren artean bizi ginen, baina gure bedeinkazioak berez ematen genituen.",
+    "Hodei ilun bat hurbildu zenean, poztu ginen, gure lur idorretara euria ekarriko zuela pentsatuz.",
+    "Horren ordez, hodei horrek zigor ikaragarria askatu zuen, eta itzalaren eguneko tormentuak harrapatu gintuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Ashab al-Aykah (Basoko Lagunak)",
+        "Thamudeko jendea",
+        "'Ad-eko jendea",
+        "Luteko jendea.",
+        "Nuh-eko jendea"
+      ],
+      "answer": "Ashab al-Aykah (Basoko Lagunak)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Beren mezularia arbuiatu eta merkataritzan iruzur egin zuten",
+        "Urrezko zekor bat gurtu zuten eta bidetik engainatu zituzten",
+        "Sodomia praktikatzen zuten eta bidaiariak erasotzen zituzten",
+        "Dorre altuak eraiki eta Jainkoari erronka bota zioten",
+        "Ura partekatzeari uko egin zioten eta gamelu eme bati kalte egin zioten"
+      ],
+      "answer": "Beren mezularia arbuiatu eta merkataritzan iruzur egin zuten"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Baso edo sastraka trinkoa",
+        "Etxebizitzetan zizelkatutako mendi bat",
+        "Itsasertzeko hiri bat.",
+        "Basamortuko haran bat putzuekin",
+        "Fruitu asko dituen lorategi emankorra"
+      ],
+      "answer": "Baso edo sastraka trinkoa"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Suzko itzal-hodei batek suntsitua",
+        "Uholde handi batek itota",
+        "Lurrikara batek irentsia.",
+        "Haize bortitz batek jota",
+        "Harri bihurtuta."
+      ],
+      "answer": "Suzko itzal-hodei batek suntsitua"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

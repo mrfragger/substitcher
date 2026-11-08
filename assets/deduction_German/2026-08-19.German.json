@@ -1,0 +1,61 @@
+{
+  "title": "Die Nation, die sich der natürlichen Ordnung widersetzte",
+  "intro": "In einer Region, deren Geschichte durch die Jahrhunderte hallt, lebte eine Gemeinschaft in offener Rebellion gegen die Reinheitsgesetze. Ihre Taten waren so beispiellos, dass sie als Warnung für die gesamte Menschheit in Erinnerung geblieben sind. Wer waren diese Menschen, und welches Schicksal ereilte sie?",
+  "clues": [
+    "Wir wohnten in einem Land an einer Route, die Reisende oft passierten, aber wir machten ihnen die Reise gefährlich.",
+    "Wir begingen solche Unzuchtstaten, wie sie noch nie zuvor jemand auf der Welt begangen hatte.",
+    "Ein Bote aus unserer Mitte rief uns auf, von unseren Wegen abzulassen; wir aber wiesen ihn zurück und forderten die Bestrafung, falls er die Wahrheit sagte.",
+    "Als stattliche Gäste in unsere Stadt kamen, versuchten wir, sie anzugreifen, ohne zu wissen, dass sie Boten der Zerstörung waren.",
+    "Uns wurde eine schreckliche Strafe angedroht, falls wir nicht davon ablassen würden, aber wir spotteten über die Warnung und blieben in unserer Sünde.",
+    "Ein Steinhagel vom Himmel fiel auf uns herab, und unsere Häuser wurden umgestoßen, sodass keine Spur zurückblieb außer einem Zeichen für diejenigen, die darüber nachdenken."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Volk von Lut",
+        "Volk der Thamud",
+        "Menschen von A'ad",
+        "Menschen von Madyan",
+        "Die Bevölkerung von Saba"
+      ],
+      "answer": "Volk von Lut"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Beging beispiellose Unmoral und blockierte Straßen",
+        "Verehrte ein goldenes Kalb",
+        "Die heilige Kamelstute getötet",
+        "Er hat im Handel betrogen und die Bevölkerung um ihren Lohn gebracht.",
+        "Er baute einen hohen Turm, um den Himmel herauszufordern."
+      ],
+      "answer": "Beging beispiellose Unmoral und blockierte Straßen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Engel, die sich als gutaussehende Gäste verkleiden",
+        "Eine Kamelstute, die aus einem Felsen auftaucht",
+        "Ein Stab, der sich in eine Schlange verwandelt",
+        "Ein auf einem Berg gebautes Boot",
+        "Ein Feuer, das erkaltet und friedlich geworden war"
+      ],
+      "answer": "Engel, die sich als gutaussehende Gäste verkleiden"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Zerstört durch einen Steinhagel vom Himmel",
+        "Von der Erde verschluckt",
+        "Ertrunken in einer großen Flut",
+        "Von einem ohrenbetäubenden Knall getroffen",
+        "In Affen verwandelt"
+      ],
+      "answer": "Zerstört durch einen Steinhagel vom Himmel"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

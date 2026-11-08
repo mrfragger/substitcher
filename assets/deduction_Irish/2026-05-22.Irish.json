@@ -1,0 +1,61 @@
+{
+  "title": "Dreapadh an Bhrionglóidí",
+  "intro": "Anam a bhí i ndán don mhórgacht, ach a ndearnadh tástáil uirthi le trialacha diana, chuaigh ar thuras neamhghnách. Bhí cosán an duine seo marcáilte ag éad, scaradh, agus fulaingt éagórach, ach chríochnaigh sé i riocht freagrachta ollmhóir agus athcheangal domhain. An féidir leat an figiúr suntasach seo a aithint ón gCorán?",
+  "clues": [
+    "Bhíodh éad orm tráth ag na daoine ba ghaire dom, rud a d’fhág go raibh scaradh domhain idir mé féin agus mo thuismitheoirí agus mo bhaile.",
+    "Bhí tréimhse mhór dheacrachta agam, lena n-áirítear gur dhíol taistealaithe mé ar phraghas an-bheag.",
+    "Cuireadh cúiseamh éagórach i mo leith as mí-iompar agus chaith mé blianta i bpríosún, ach d’fhan mo chreideamh gan staonadh.",
+    "Bronnadh cumas uathúil orm físí casta a léirmhíniú, rud a chruthaigh gur uirlis í ar mo chosán chun saoirse.",
+    "Ar deireadh thiar, mar thoradh ar mo chuid eagna agus ionracais, bhain mé post údaráis agus muiníne mór amach i dtír iasachta.",
+    "Trí shraith imeachtaí, athaontaíodh mé le mo thuismitheoir scothaosta agus mo dheartháireacha agus deirfiúracha i ndiaidh easláithreachta fada agus pianmhar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Sulaiman",
+        "Fáidh Íosa",
+        "Fáidh Iósaf",
+        "Fáidh Dawud",
+        "An Fáidh Yahya"
+      ],
+      "answer": "Fáidh Iósaf"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á shlogadh ag iasc mór",
+        "Áirc á tógáil chun an chruthú a shábháil",
+        "Líomhaintí bréagacha agus príosúnacht a fhulaingt",
+        "Ag tabhairt aghaidh ar rialóir tíoránta le míorúiltí",
+        "Ag tástáil le tinneas agus caillteanas tromchúiseach"
+      ],
+      "answer": "Líomhaintí bréagacha agus príosúnacht a fhulaingt"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tor dóite",
+        "Éan ag caint",
+        "Tobar",
+        "Sraith ag casadh ina nathair",
+        "Camall baineann mar chomhartha"
+      ],
+      "answer": "Tobar"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ag treorú imirce go dtí an tír gheallta",
+        "Ag éirí ina aire cumhachtach san Éigipt",
+        "Breithiúnas Dé a fháil ar phobal sotalach",
+        "Ag rialú ríocht ollmhór le heagna agus le ceartas",
+        "Ag dul suas go dtí na flaithis"
+      ],
+      "answer": "Ag éirí ina aire cumhachtach san Éigipt"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

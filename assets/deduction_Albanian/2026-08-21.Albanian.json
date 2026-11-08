@@ -1,0 +1,61 @@
+{
+  "title": "Hija Pas Fronit",
+  "intro": "Ju qëndroni brenda oborreve të një mbretërie të lashtë e të fuqishme, ku një sundimtar i fuqishëm e ka shpallur veten si zot mbi të gjithë njerëzit. Pranë këtij sundimtari qëndron një shërbëtor i përkushtuar, të cilit i janë besuar ambiciet më të mëdha të mbretërisë. Së bashku, ata komplotojnë dhe planifikojnë, duke refuzuar t'u kushtojnë vëmendje paralajmërimeve të një lajmëtari të dërguar për t'i udhëhequr. A mund ta zbuloni se kush ishte ky shërbëtor besnik?",
+  "clues": [
+    "Unë jetoja në një mbretëri të fuqishme të sunduar nga një figurë e fuqishme që pretendonte hyjni mbi të gjithë njerëzit.",
+    "Unë shërbeva si një ministër i besuar i këtij sundimtari, duke zbatuar çdo ambicie dhe urdhër të tyre.",
+    "Kur një i dërguar i Allahut erdhi në tokën tonë duke na thirrur në të vërtetën, unë dhe sundimtari im refuzuam ta dëgjonim.",
+    "Më urdhëruan të ndizja një zjarr të madh dhe të përgatisja tulla prej balte për një ndërtim madhështor.",
+    "Sundimtari im donte të ngrinte një strukturë gjigante aq të lartë sa të arrinte deri në qiell.",
+    "Në fund, unë, sundimtari im dhe ushtritë tona u rrëmbyem dhe u mbytëm në thellësitë e detit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Xhibrili",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ndërtimi i një kulle për të arritur qiellin",
+        "Duke u hedhur në një zjarr të ndezur",
+        "Zgjimi i një populli nga adhurimi i idhujve prej guri",
+        "Ndarja e hënës si një shenjë hyjnore",
+        "Pushtimi i një qyteti të fuqishëm me urdhër hyjnor"
+      ],
+      "answer": "Ndërtimi i një kulle për të arritur qiellin"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një kullë me tulla argjile të pjekura",
+        "Barku i një balene",
+        "Një burim i shenjtë në shkretëtirë",
+        "Një kaçubë që digjet në një mal të shenjtë",
+        "Një arkë që mbante një familje të zgjedhur"
+      ],
+      "answer": "Një kullë me tulla argjile të pjekura"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U mbytën në thellësitë e detit",
+        "U ngritën në siguri në një pallat madhështor",
+        "Shpëtuar nga barku i një peshku të madh",
+        "I nderuar me mbretëri dhe mençuri hyjnore",
+        "U shndërrua në pluhur nga një britmë therëse"
+      ],
+      "answer": "U mbytën në thellësitë e detit"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

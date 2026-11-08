@@ -1,0 +1,61 @@
+{
+  "title": "Ndërtuesi i Patundur i Shpëtimit",
+  "intro": "Një figurë me durim të jashtëzakonshëm dhe bindje të palëkundur, ky individ i kushtoi vite të panumërta një misioni hyjnor, duke u përballur me përbuzje dhe refuzim të pamëshirshëm. Historia e tyre është një dëshmi e fuqishme e besimit përballë mosbesimit dërrmues, që kulmoi në një ngjarje të rëndësishme që riformësoi botën.",
+  "clues": [
+    "I kushtova një periudhë jashtëzakonisht të gjatë të jetës sime duke i thirrur njerëzit e mi në adhurimin e Allahut.",
+    "Populli im më tallte dhe më akuzonte për gabim të qartë dhe çmenduri.",
+    "Më urdhëruan të ndërtoja diçka që dukej e pazakontë për komunitetin tim të izoluar nga toka.",
+    "Vetëm pak veta besuan dhe na u bashkuan mua dhe familjes sime në këtë ndërtim unik.",
+    "Mbajta në anije çifte nga çdo krijesë e gjallë, siç më kishte udhëzuar Allahu.",
+    "Një përmbytje e madhe përfshiu tokën, duke shpëtuar vetëm ata që ishin me mua në enën time, ndërsa djali im u zhduk për shkak të mosbesimit të tij."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Salih",
+        "Profeti Hud",
+        "Profeti Nuh",
+        "Profeti Davud",
+        "Profeti Sulejman"
+      ],
+      "answer": "Profeti Nuh"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Shkatërrimi nga një tërmet",
+        "Ndarja e detit",
+        "Përmbytja e madhe",
+        "Zjarri i Nimrodit",
+        "Murtaja e bretkosave"
+      ],
+      "answer": "Përmbytja e madhe"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Shkurre që digjet",
+        "Arka",
+        "Pusi i ujit",
+        "Viçi i artë",
+        "Mali i Turit"
+      ],
+      "answer": "Arka"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Mori një mbretëri",
+        "Populli i tij u shndërrua në majmunë",
+        "Populli i tij u shpëtua nga një mrekulli",
+        "Populli i tij u mbytën",
+        "Populli i tij u godit nga një rrufe"
+      ],
+      "answer": "Populli i tij u mbytën"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

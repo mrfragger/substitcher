@@ -1,0 +1,61 @@
+{
+  "title": "Test Świętego Stworzenia",
+  "intro": "Znak został wysłany do narodu, który zbłądził. Pośród ich wygodnego życia nadeszło ostrzeżenie – wraz z niezwykłym stworzeniem, które miało stać się ostatecznym testem ich wiary. Ich odpowiedź przypieczętowała ich los na zawsze. Czy potrafisz odkryć, kto przekazał to ostrzeżenie i co stało się z tymi, którzy je odrzucili?",
+  "clues": [
+    "Byliśmy ludem, który był prowadzony przez poprzednich posłańców.",
+    "Z góry wyłoniło się wspaniałe stworzenie, znak od naszego Pana dla tego narodu.",
+    "Powiedziałem im: „To jest wielbłądzica należąca do Allaha, pozwólcie jej więc jeść z ziemi Allaha i nie róbcie jej krzywdy”.",
+    "Lecz ludzie okaleczyli moją wielbłądzicę, lekceważąc rozkaz swego Pana.",
+    "Jestem tylko posłańcem twojego Pana, posłanym z prawdą. Jestem prorokiem i sługą godnym zaufania.",
+    "A co do grzeszników, nasz Pan uderzył ich z wielkim hukiem, tak że zamarli w swych domach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Hud z ludu Ad",
+        "Prorok Salih z ludu Thamud",
+        "Prorok Szu’ajb z Midianu",
+        "Prorok Lut z ludu Sodomy",
+        "Prorok Nuh z Arki"
+      ],
+      "answer": "Prorok Salih z ludu Thamud"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Potop, który zatopił niewierzący naród",
+        "Trzęsienie ziemi, które zniszczyło grzeszne miasto",
+        "Wielbłądzica wysłana jako znak boski i próba",
+        "Burza, która ukarała mieszkańców Midianu",
+        "Zniszczenie ludu Lota kamieniami"
+      ],
+      "answer": "Wielbłądzica wysłana jako znak boski i próba"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Miasto Sodoma w Dolinie Jordanu",
+        "Dolina Al-Hidżr między Hidżazem a Syrią",
+        "Starożytna kraina Aad w południowej Arabii",
+        "Lasy Midianu w pobliżu Morza Czerwonego",
+        "Równiny góry Judi w Mezopotamii"
+      ],
+      "answer": "Dolina Al-Hidżr między Hidżazem a Syrią"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zostali zbawieni po tym, jak się nawrócili i uwierzyli",
+        "Deszcz kamieni zniszczył je całkowicie",
+        "Ogłuszający dźwięk sprawił, że stanęli bez ruchu",
+        "Zostały porwane przez gwałtowny wiatr",
+        "Trzęsienie ziemi pochłonęło ich"
+      ],
+      "answer": "Ogłuszający dźwięk sprawił, że stanęli bez ruchu"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

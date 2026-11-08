@@ -1,0 +1,61 @@
+{
+  "title": "Die Erbauer der hohen Säulen",
+  "intro": "Du stehst vor den Ruinen einer einst majestätischen Stadt, deren hohe Säulen nun eingestürzt sind. Der Wind heult durch die leeren Straßen und trägt die Erinnerung an ein mächtiges Volk, das einst über dieses Land herrschte. Wer waren sie?",
+  "clues": [
+    "Wir waren ein Volk von immenser Stärke und Geschicklichkeit, bekannt für unsere großartigen Bauwerke und unsere hochentwickelte Zivilisation.",
+    "Wir lebten in einem Land aus Sanddünen und felsigen Hügeln und glaubten, niemand könne uns besiegen.",
+    "Ein Gesandter aus unseren eigenen Reihen kam zu uns und rief uns auf, nur Allah anzubeten; wir aber wiesen ihn zurück und verspotteten ihn.",
+    "Wir prahlten: „Wer ist stärker als wir?“ und verharrten weiterhin in unserer Arroganz und Götzenverehrung.",
+    "Allah sandte über uns einen gewaltigen Wind, der sieben Nächte und acht Tage lang wehte und alles verwüstete.",
+    "Wir waren das Volk von 'Ad, die Erbauer von Iram, und unser Schicksal wurde zur Warnung für alle, die nach uns kamen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Leute von 'Ad",
+        "Volk der Thamud",
+        "Menschen von Madyan",
+        "Leute von Tubba",
+        "Menschen von al-Rass"
+      ],
+      "answer": "Leute von 'Ad"
+    },
+    "trial": {
+      "label": "Welche Strafe wurde über sie verhängt?",
+      "options": [
+        "Ein verheerender Wind",
+        "Ein Steinhagel",
+        "Ein lauter Knall",
+        "Ertrinken durch Überschwemmung",
+        "Von der Erde verschluckt"
+      ],
+      "answer": "Ein verheerender Wind"
+    },
+    "location": {
+      "label": "Wie heißt ihre legendäre Stadt?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Was war ihr endgültiges Schicksal?",
+      "options": [
+        "Sie wurden zerstört, und ihre Überreste wurden zu einer Lehre.",
+        "Sie bereuten und wurden gerettet.",
+        "Sie wurden in Affen verwandelt.",
+        "Sie ertranken im Meer",
+        "Sie wurden unter einem Erdrutsch verschüttet."
+      ],
+      "answer": "Sie wurden zerstört, und ihre Überreste wurden zu einer Lehre."
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

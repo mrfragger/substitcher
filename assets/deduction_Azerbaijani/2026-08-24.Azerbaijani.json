@@ -1,0 +1,61 @@
+{
+  "title": "İman edən Gizli Dinləyicilər",
+  "intro": "Müqəddəs bir toplantının sükutu içində, görünməz bir aləmdən əlamətdar bir toplantı gəldi. Möcüzəli bir şeyin pıçıltıları ilə müşayiət olunan bu toplantı, taleyini əbədi olaraq həll edəcək tilavəti dinlədilər. Onların şəhadətləri ilahi müqəddəs kitablardakı ən unikal şəhadətlərdən biri olaraq qalır.",
+  "clues": [
+    "Biz əksəriyyət tərəfindən görünməyən bir aləmdən gələn varlıqlarıq və bir qrup olaraq gəlmişik.",
+    "Qeyri-adi bir şey eşitmək üçün bir toplantıya tərəf getdik.",
+    "Biz çatanda bizi heyrətləndirən bir qiraət dinlədik.",
+    "Biz açıq şəkildə etiraf etdik ki, aramızda bəzilərimiz saleh, bəzilərimiz isə saleh deyil.",
+    "Biz bilirdik ki, nə yerdə ilahi fərmandan qaça bilərik, nə də göyə uça bilərik.",
+    "Biz hidayəti eşidəndə ona iman gətirdik; Rəbbinə iman gətirən kəs nə zərərdən, nə də yükdən qorxar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Bir qrup cin",
+        "İrəm xalqı",
+        "Tubba xalqı",
+        "Roma İmperiyası",
+        "Qureyş qəbiləsi"
+      ],
+      "answer": "Bir qrup cin"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Müqəddəs bir tilavəti dinləmək",
+        "Şəhərimizdə uca sütunlar tikmək",
+        "Möhtəşəm dişi dəvə ovlamaq",
+        "Peyğəmbərlərimizi öldürdükləri üçün məhv edilirlər",
+        "Sərvəti ölçüdən artıq artırmaq"
+      ],
+      "answer": "Müqəddəs bir tilavəti dinləmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Müqəddəs tilavət məclisi",
+        "Hündür sütunlu bir şəhər (İrəm)",
+        "Səhrada bir quyu",
+        "Qızıldan hazırlanmış möhtəşəm bir saray",
+        "Dağlarda müqəddəs bir mağara"
+      ],
+      "answer": "Müqəddəs tilavət məclisi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Biz inandıq və xalqımızı xəbərdar etdik",
+        "Göydən gələn güclü bir partlayışla məhv edildi",
+        "Yandırıcı, dağıdıcı bir küləklə cəzalandırılıb",
+        "Böyük sərvət və güc bəxş etdi",
+        "İnamsızlıqda möhkəm qaldı"
+      ],
+      "answer": "Biz inandıq və xalqımızı xəbərdar etdik"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

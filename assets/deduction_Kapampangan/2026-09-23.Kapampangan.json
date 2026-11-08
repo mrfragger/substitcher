@@ -1,0 +1,61 @@
+{
+  "title": "Ing tawag na linabas keng edad",
+  "intro": "Isipan me ing metung a kaladwa na makatalakad magdili-dili laban keng mabilug a sibilisasyun, determinadu yang gabayan la pabalik ibat keng pamagkamali a maki alang patugut a determinasyun. kilub ning dakal a siglu, ing mensahi me-reject ya, me-more ya, at me-dismiss ya—pero ing upaya e ya tinuknang. Kabud-abud, dinatang ing maragul a pamibilang, at ditak la mu ding sinake king kaligtasan kayabe na niting matatag a kaladwa. Malyari meng akilala ining pigura ibat keng Quran?",
+  "clues": [
+    "Mitubud ku bilang babala karing taung melili king karelang sariling dalan.",
+    "Inagkat ku lang maniawad kapatawaran at magbalik king depat dang e ustu, oneng tinalikuran da la.",
+    "King lalam ning banal a utus, ginawa kung maragul a saken kabang ding tau ku manalbe la at magmulala kanaku.",
+    "Inaus ke ing Ginu ku alang patugut—king bandang tauli mekibat ya, at ing danum mibubusbus ya ibat banua keng sapa.",
+    "Sinake ku king saken kayabe da ring talasalpantaya inyang ing albug tinas ya babo ning gabun.",
+    "kinulisak ku keng metung a menatili, inaus ku karela na magsantung la keng bunduk, pero ing kautusan milabas na."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Propeta Nuh",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Hud",
+        "Propeta Salih"
+      ],
+      "answer": "Propeta Nuh"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "gagawang maragul a daung ampo makaligtas keng albug keng mabilug a yatu",
+        "Miyugse ya keng milalablab a api",
+        "pamakipaglaban keng metung a tirano ampo reng kayang mayupayang salamangkero",
+        "Melaso ya keng maragul a asan",
+        "Saksi king pamakamate king metung a sagradung babaing kamelyu"
+      ],
+      "answer": "gagawang maragul a daung ampo makaligtas keng albug keng mabilug a yatu"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Metung a maragul a daung a gawa keng dutung keng albug",
+        "Metung a sagradung libis a maki lumang batu",
+        "Metung a malalam a kueba nung nukarin la matudtud deng kayabe kilub ning dakal a siglu",
+        "Ing atian ning higanting balyena keng kalalaman ning karagatan",
+        "Metung a matas a bunduk a batu king ilang"
+      ],
+      "answer": "Metung a maragul a daung a gawa keng dutung keng albug"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Miligtas ya kareng talasalpantaya a makasake keng saken",
+        "Meligtas yang alang sugatan keng api kapamilatan ning banal a utus",
+        "menimuna yang maragul a pamaglakbe ibat keng metung a mayupayang kayarian",
+        "Iyugse me ing asan papunta keng pampang a alang tanaman",
+        "Tinuki no reng tau king e ustu kapamilatan ning metung a makapagmulalang tanda"
+      ],
+      "answer": "Miligtas ya kareng talasalpantaya a makasake keng saken"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

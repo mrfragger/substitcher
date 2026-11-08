@@ -1,0 +1,61 @@
+{
+  "title": "L'architetto dell'arroganza",
+  "intro": "In un'antica terra governata da un potere ribelle, un individuo chiave occupava una posizione di grande influenza. Quest'anima fu determinante nei grandi piani del sovrano, contribuendo al suo regno oppressivo e sfidando il messaggio divino. La sua eredità è indissolubilmente legata alla ricerca del potere terreno e alla negazione della verità.",
+  "clues": [
+    "Ho servito un sovrano formidabile che ha oppresso un popolo per generazioni.",
+    "Il mio nome viene spesso menzionato nel Libro Divino insieme a quello di questo potente leader.",
+    "Mi fu affidato un grandioso progetto di costruzione, una struttura imponente destinata a raggiungere il cielo.",
+    "Ho consigliato al mio padrone di uccidere i figli maschi dei figli d'Israele e di risparmiare le loro figlie.",
+    "Sono stato coinvolto in complotti e cospirazioni contro un potente messaggero di Allah.",
+    "La mia fine, insieme a quella del mio padrone e del suo esercito, giunse nelle acque di un vasto mare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Nimrod",
+        "Abraah",
+        "Golia",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Essere messi alla prova con immense ricchezze",
+        "Guidare un esercito contro una casa sacra",
+        "Costruire una torre per raggiungere Dio",
+        "Essere gettati nel fuoco per la loro fede",
+        "Essere gettati in un pozzo dai fratelli"
+      ],
+      "answer": "Costruire una torre per raggiungere Dio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca",
+        "Lo staff",
+        "La Montagna",
+        "La Torre",
+        "La balena"
+      ],
+      "answer": "La Torre"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Essendo stata concessa un'immensa saggezza",
+        "Diventare un profeta",
+        "Essere inghiottito dalla terra",
+        "Essendo stato concesso un regno",
+        "Annegare in mare"
+      ],
+      "answer": "Annegare in mare"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

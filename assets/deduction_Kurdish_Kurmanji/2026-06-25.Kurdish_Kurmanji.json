@@ -1,0 +1,61 @@
+{
+  "title": "Guhdarvanên ji Nedîtî",
+  "intro": "Li pişt perdeya cîhana xuya, komeke veşartî di tariyê de kom bû, ber bi dengekî ve çû ku ji her tiştê ku ew dizanibûn bêtir aciz dibû. Ew bi dirêjahiya salan bê rêberiya rastîn geriyan, heta ku dengek di bêdengiya cîhana wan a nedîtî de derbas bû û tiştek di hundurê wan de tevlihev kir. Îşev, hûn hatine vexwendin ku hûn ji siya wêdetir biçin û nasnameya vê koma nepenî eşkere bikin, ku hevdîtina wan bi gotinên îlahî re wan wekî hişyarkerên rastiyek ku nayê kontrolkirin vegerand cem gelê xwe.",
+  "clues": [
+    "Em hebûnên kevnar in, demek dirêj berî gelek miletên ku we li ser wan xwendiye hebûn, lê di çîrokên mirovan de kêm caran behsa me tê kirin.",
+    "Xwezaya me ne wekî ya te ye, ji hêmanên nedîtî hatiye hunandin, û hêzên me hene ku ji yên asayî derdikevin.",
+    "Bi dirêjahî, em bêyî rêberiya rastîn geriyan, heta ku dengek gihîşt me ku tiştek di kûrahiya dilê me de tevizand.",
+    "Me vegotinek bihîst ku me qet nebihîstibû, peyvên ku giraniya wan ji her axaftinê wêdetir bû.",
+    "Em bi dizî nêzîkî hev bûn, em ferman dan ên xwe ku bêdeng bimînin, û dema ayet bi dawî bûn, em nekarîn bêdeng bimînin.",
+    "Em vegeriyan cem gelê xwe û me got: 'Ey gelê me, me pirtûkek bihîst ku piştî Mûsa hatiye hinartin, ku ya berî xwe piştrast dike û rêberiya rastiyê dike.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Hawariyyun (Şagirtên Îsa)",
+        "Cinên ku piştî bihîstina Quranê bawerî anîn",
+        "Hevalên Şikeftê",
+        "Firîşteyên ezmanê herî nizm",
+        "Gelê Fîrewn ku rêya wî şopandin"
+      ],
+      "answer": "Cinên ku piştî bihîstina Quranê bawerî anîn"
+    },
+    "trial": {
+      "label": "Ceribandin / Bûyer",
+      "options": [
+        "Em ji ber ku red kirin ku li ber hebûnek nû afirandî serê xwe bitewînin, hatin avêtin",
+        "Em sê sed û neh salan di şikeftekê de hatin mohrkirin",
+        "Emrê me hat dayîn ku em ji deryayekê derbas bibin ku li ber me qelişî",
+        "Em ji bo fêrbûna sêrbaziyê hatin şandin welatekî sêrbaziyê",
+        "Me bi dizî guhdarîya xwendinê kir û pê ve em hatin guhertin"
+      ],
+      "answer": "Me bi dizî guhdarîya xwendinê kir û pê ve em hatin guhertin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Golikekî zêrîn ku ji xemlên gelekî hatiye çêkirin",
+        "Şikeftek ku xew bi nifşan tê de dom kir",
+        "Du milyaket li Babîlê ku zanîna qedexe hîn dikirin",
+        "Pirtûkek ku piştî Mûsa hatiye şandin û Tewratê piştrast dike.",
+        "Dareke dişewite li ser çiyayekî pîroz"
+      ],
+      "answer": "Pirtûkek ku piştî Mûsa hatiye şandin û Tewratê piştrast dike."
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Em heta Roja Qiyametê nifir lê bûn",
+        "Me li dijî hukumdarekî bihêz rabû û li erdê dîwarekî ava kir",
+        "Em bûn meymûn û beraz",
+        "Em wek hişyarker vegeriyan ba gelê xwe, û bawerî îlan kirin",
+        "Em li gel serokê xwe di deryayê de xeniqîn"
+      ],
+      "answer": "Em wek hişyarker vegeriyan ba gelê xwe, û bawerî îlan kirin"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

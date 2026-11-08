@@ -1,0 +1,61 @@
+{
+  "title": "Ostrzeżenie pod ziemią",
+  "intro": "Wyobraź sobie, że stoisz obok głębokiego wykopu, gdy z dołu dochodzą głosy, a świat na górze milknie. Koran zachowuje tę scenę jako ostrzeżenie: społeczność odrzuca to, co przynoszą posłańcy, kara się zbliża, a nawet jej ryk staje się częścią świadectwa. Która wspólnota przemawia tymi wersetami?",
+  "clues": [
+    "W Koranie jesteśmy wspominani jako zbiorowość zdefiniowana przez wspólny los, a nie przez imię jednostki.",
+    "Odrzuciliśmy wiadomość, którą przynieśli posłańcy, chociaż to, co powiedzieli, było prawdą.",
+    "Nasza pamiętana tożsamość jest związana z głębokim wyżłobieniem w ziemi, a ten element stał się częścią naszej nazwy.",
+    "W wyznaczonym dniu wyprowadzono nas i zaciągnięto w stronę pożaru.",
+    "Nie mogliśmy się obronić przed karą, nie mogliśmy też usłyszeć jej ryku.",
+    "Odwracano nasze twarze w stronę ognia i wpędzano nas w ogień; gdy nas pytano, mówiliśmy, że jesteśmy wśród tych, którzy nie potrafią odpowiedzieć."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Towarzysze Okopu",
+        "Naród uratowany z Wielkiej Powodzi",
+        "Czciciele Złotego Cielca",
+        "Grupa schroniła się w jaskini górskiej",
+        "Społeczność wyrwana z ognistego pieca"
+      ],
+      "answer": "Towarzysze Okopu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wciągnięci i wrzuceni w ogień",
+        "Wydobyte z rozpalonego pieca",
+        "Przeniesiony bezpiecznie przez wielką powódź",
+        "Schroniony przez wieki w jaskini",
+        "Uratowany po wrzuceniu do studni"
+      ],
+      "answer": "Wciągnięci i wrzuceni w ogień"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Rów lub dół",
+        "Wielkie morze",
+        "Jaskinia górska",
+        "Wysoki pałac",
+        "Studnia pustynna"
+      ],
+      "answer": "Rów lub dół"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Nie mogąc się bronić i nie słysząc ryku Ognia",
+        "Uratowany i obdarzony wstępem do wiecznych ogrodów",
+        "Dostarczono bezpiecznie przez niszczycielską powódź",
+        "Chroniony przez długi sen w jaskini",
+        "Uhonorowany wiecznym królestwem"
+      ],
+      "answer": "Nie mogąc się bronić i nie słysząc ryku Ognia"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

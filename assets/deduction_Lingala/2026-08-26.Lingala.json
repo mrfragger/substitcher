@@ -1,0 +1,61 @@
+{
+  "title": "Envie Oyo Esilisaki",
+  "intro": "Lisapo moko ya kala koleka bokonzi to makomi nyonso —mawa ya liboso ya bato oyo ebotamaki na zuwa. Molimo moko, nkulutu ya bana mibale oyo babotaki baboti ya liboso, azalaki kotala na nkanda ntango ndeko moko ya leki azalaki kozwa boboto oyo baboyaki. Oyo elandaki ezalaki maponi ya molili koleka, kotikaka makila ya yambo oyo esopamaki na mabele. Okoki kobimisa bomoto, komekama, mpe mawa ya bololo?",
+  "clues": [
+    "Nabotamaki na babalani ya liboso mpenza ya bato oyo batambolaki na mabele.",
+    "Mokolo moko napesaki likabo epai ya Allah, kasi endimami epai na ngai te.",
+    "Libonza ya ndeko na ngai endimami, nzokande oyo ya ngai eboyamaki​—likambo oyo nakokaki kokanga motema te.",
+    "Nabangisaki ndeko na ngai moko ya mobali ete akobomama.",
+    "Nakomaki moto ya yambo ya koboma na mabele oyo, kozwaka bomoi ya ndeko na ngai moko.",
+    "Allah atindaki ekelamu moko ya mabele —ndeke ya moindo oyo ezali kotimola na mabele —mpo na koteya ngai ndenge ya kobomba oyo nasalaki, mpe natikalaki na eloko mosusu te kaka mawa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Kabil (Kaina) .",
+        "Habil (Abele) .",
+        "Mosakoli Yaqub",
+        "Mosakoli Musa",
+        "Mosakoli Adama"
+      ],
+      "answer": "Kabil (Kaina) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Libonza oyo Allah aboyi",
+        "Babwakami na mɔtɔ monene",
+        "Basundolami lokola bebe na ebale",
+        "Emekamaki na bokonzi moko monene",
+        "Apesameli mitindo ya kopesa mwana na ye mbeka"
+      ],
+      "answer": "Libonza oyo Allah aboyi"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Corbeau oyo Allah atindaki",
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Sanduku oyo ezali likoló ya ngomba",
+        "Nzete oyo ezali kozika",
+        "Kamela ya mwasi oyo eyemami na mabanga"
+      ],
+      "answer": "Corbeau oyo Allah atindaki"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki kotonda na mawa mpe kati na bato oyo babungisaki",
+        "Emelamaki na mabele elongo na biloko ya motuya",
+        "Akomaki momemi-nsango ya lokumu ya Allah",
+        "Akɔtaki na Paladiso na nzela ya mawa ya Nzambe",
+        "Ayangelaki bokonzi oyo ekokani na mosusu te"
+      ],
+      "answer": "Akómaki kotonda na mawa mpe kati na bato oyo babungisaki"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

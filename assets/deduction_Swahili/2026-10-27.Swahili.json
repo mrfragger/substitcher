@@ -1,0 +1,61 @@
+{
+  "title": "Kuzingirwa Chini ya Anga ya Ghafla",
+  "intro": "Unasimama mbele ya jeshi lenye nguvu linalokaribia mahali patakatifu pa kuheshimiwa, huku kila silaha ikiwa tayari na ushindi ukionekana kuwa wa uhakika. Kabla ya shambulio kuanza, nguvu isiyotarajiwa inaonekana juu, na pambano linachukua zamu ambayo hakuna mtu aliyeiona.",
+  "clues": [
+    "Tulitembea tukiwa na imani kwamba hakuna nguvu yoyote ya kidunia ingeweza kutikisika.",
+    "Tulileta tembo hodari, na nguvu yetu ilionekana kujengwa kuwazunguka.",
+    "Tulikuwa tumekuja kubomoa patakatifu pa heshima, tukiamini ushindi wetu ulikuwa tayari umehakikishwa.",
+    "Tulipofika hapo, kundi la wanyama lilipita angani juu yetu.",
+    "Ndege walirusha mawe ya udongo mgumu kwa mashujaa wetu.",
+    "Tulishindwa kabisa kiasi kwamba jeshi letu kubwa lilivunjika na kutawanyika kama majivu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Tembo",
+        "Wakuu Wawili",
+        "Ndugu za Yusufu",
+        "Mtumishi wa Mwenyezi Mungu katika Dhul-Kifl",
+        "Masahaba wa Mtu Mwema"
+      ],
+      "answer": "Watu wa Tembo"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Shambulio lililoongozwa na tembo kwenye Kaaba",
+        "Bahari ikitengana mbele ya kundi lililowasilishwa",
+        "Kukamatwa kwa Sanduku na watu wakorofi",
+        "Safari ya usiku kati ya misikiti miwili",
+        "Uponyaji wa mwenye ukoma kwa nguvu za Mungu"
+      ],
+      "answer": "Shambulio lililoongozwa na tembo kwenye Kaaba"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndege wakibeba chembechembe za udongo",
+        "Sanduku la mti wa gopher",
+        "Fimbo iliyogeuzwa kuwa nyoka",
+        "Jiwe lililofungwa kwa ishara",
+        "Kichaka kinachowaka moto"
+      ],
+      "answer": "Ndege wakibeba chembechembe za udongo"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Nguvu yao kubwa ilivunjika kama majivu",
+        "Walivuka bahari salama",
+        "Walitembea bila madhara kupitia tanuru inayowaka moto",
+        "Waliingia Peponi wawili wawili",
+        "Walilala pangoni kwa miaka 309"
+      ],
+      "answer": "Nguvu yao kubwa ilivunjika kama majivu"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

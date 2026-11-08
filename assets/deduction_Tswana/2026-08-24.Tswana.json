@@ -1,0 +1,61 @@
+{
+  "title": "Bareetsi ba ba Fitlhegileng ba ba neng ba Dumela",
+  "intro": "Mo tidimalong ya kokoano e e boitshepo, go ne ga goroga kokoano e e gakgamatsang e e tswang kwa lefelong le le sa bonweng. Ba gogilwe ke go sebaseba ga sengwe se se gakgamatsang, ba ne ba reetsa go boeletswa go go neng go tla tshwaya phelelo ya bone ka bosakhutleng. Bopaki jwa bone bo sala e le bongwe jwa jo bo kgethegileng thata mo lokwalong lwa bomodimo.",
+  "clues": [
+    "Re ditshedi tse di tswang mo lefelong le le sa bonweng ke bontsi, mme re tlile re le setlhopha.",
+    "Re ne ra tsaya loeto re ya kwa kokoanong nngwe go ya go utlwa sengwe se se gakgamatsang.",
+    "Fa re goroga koo, re ne ra reetsa go bolelwa ga puo e e neng ya re tlogela re gakgametse.",
+    "Re ne ra dumela phatlalatsa gore bangwe mo gare ga rona ba siame mme bangwe ga ba a siama.",
+    "Re ne re itse gore re ka se falole taelo ya bomodimo mo lefatsheng, le fa e le ka go tshabela kwa loaping.",
+    "Fa re utlwa kaelo, re ne ra dumela mo go yone; yo o dumelang mo Moreneng wa bone ga a kitla a tshaba tatlhegelo kgotsa morwalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Setlhopha sa Jinn",
+        "Batho ba Irame",
+        "Batho ba Tubba'.",
+        "Mmusomogolo wa Roma",
+        "Morafe wa Quraysh"
+      ],
+      "answer": "Setlhopha sa Jinn"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go reetsa poeletso e e boitshepo",
+        "Go aga dipilara tse di kwa godimo mo toropong ya rona",
+        "Go tsoma kamela e namagadi e ntle thata",
+        "Go senngwa ka ntlha ya go bolaya baporofeti ba rona",
+        "Go atisa khumo go feta selekanyo"
+      ],
+      "answer": "Go reetsa poeletso e e boitshepo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Kokoano ya go buisa dilo tse di boitshepo",
+        "Motse wa dipilara tse ditelele (Irame) .",
+        "Sediba se se mo sekakeng",
+        "Ntlo e kgolo ya segosi ya gouta",
+        "Logaga lo lo boitshepo mo dithabeng"
+      ],
+      "answer": "Kokoano ya go buisa dilo tse di boitshepo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Re dumetse ra tlhagisa batho ba rona",
+        "E sentswe ke go thunya go go maatla go tswa kwa loaping",
+        "O otlhaiwa ke phefo e e fisang, e e senyang",
+        "Go newa khumo e e seng kana ka sepe le maatla",
+        "O ne a nna a nitame mo go sa dumeleng"
+      ],
+      "answer": "Re dumetse ra tlhagisa batho ba rona"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

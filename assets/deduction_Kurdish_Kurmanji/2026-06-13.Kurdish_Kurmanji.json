@@ -1,0 +1,61 @@
+{
+  "title": "Rastgoyên Mekkeyê",
+  "intro": "Di rojên destpêkê yên wehyê de, dema ku peyama rastiyê rastî dijberiyeke dijwar hat, hin giyan di baweriya xwe de bê şik û guman sekinîn. Ev bawermend ji aliyê kesên ku dixwestin ronahiya baweriyê vemirînin ve rastî hovîtiyeke bêhempa hatin. Êşa wan dijwar bû, azarên wan pir mezin bûn - lê zimanên wan qet dev ji ragihandina Yekîtîya Xwedê bernedan. Tewra dema ku di kûrahiya bêhêvîtiyê de hatin avêtin jî, parastina îlahî wan dorpêç kir, ceribandina wan veguherand wesiyeteke herheyî ya baweriyê. Werin em rêwîtiya van giyanên berbiçav bikolin.",
+  "clues": [
+    "Em bi cezayên giran hatin ceribandin ji ber ku me red kir ku em baweriya xwe bi yek Xwedayê berdin.",
+    "Gelê me nikarîbû biryardariya me bişkîne, çi qas hovîtiya wan afirîner be jî",
+    "Em bi roj ji bîrekê daliqandî bûn, lê alîkariya xwedayî her gav li nêzîk bû",
+    "Berxwedana me, heta ew kesên ku şahidê berxwedana me bûn jî matmayî hişt.",
+    "Gelek kes li Mekkeyê hewl dan ku me neçar bikin ku em dev ji baweriya xwe berdin, lê em bi israr li bendê man",
+    "Dema ku her tişt winda xuya dikir, azadiya me bi destwerdana xwedayî ya mûcîzeyî hat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Bîlal el-Hebaşî",
+        "Emmar ibn Yasir",
+        "Mîqdad ibn el-Eswed",
+        "Xebab ibn el-Eratt",
+        "Selman el-Farsî"
+      ],
+      "answer": "Bîlal el-Hebaşî"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Şerê li dijî Pêxember",
+        "Zilm ji ber redkirina perestina pûtan",
+        "Testa baweriyê derbarê bûyera agir de",
+        "Ceribandina rêwîtiya şevê ya parçekirî",
+        "Testa wêrankirina baxçeyê"
+      ],
+      "answer": "Zilm ji ber redkirina perestina pûtan"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Çiyayê Uhudê",
+        "Cihê pîroz ê Kebabê",
+        "Kaniya Ebû Sufyan",
+        "Qesra Qureyşiyan",
+        "Bajarê Medînê"
+      ],
+      "answer": "Kaniya Ebû Sufyan"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Serkeftin di şerekî mezin de",
+        "Rizgarbûn bi destwerdana xwedayî",
+        "Şehîd di rêya Xwedê de",
+        "Qebûlkirina rasterast bo bihuştê",
+        "Koçberî bo welatekî pîroz"
+      ],
+      "answer": "Rizgarbûn bi destwerdana xwedayî"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

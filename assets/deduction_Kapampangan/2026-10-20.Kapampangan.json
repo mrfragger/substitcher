@@ -1,0 +1,61 @@
+{
+  "title": "Ing Arkitektu ning Maling Ambisyun",
+  "intro": "Metung a tau a maki maragul a awtoridad ing misan migsilbi king metung kareng pekakilalang tiranu king minunang Ehipto. Ing indibidwal ayni mipagkatiwalan ya keng metung a matapang a utus — para gawang istruktura na makayagpang keng banua. Ing karelang istorya makatalakad ya keng Quran bilang metung a makabaldugan a aral nung makananu ing bulag a pamamintu keng kayabangan magdalang kasiran.",
+  "clues": [
+    "Sinuyu ku karing husgadu ning metung a mayupayang pamuntuk a sasabing dios ya karing gabun.",
+    "Atin kung matas a posisyun bilang ministro, at payu ku keng peka mayabang a tiranu keng panaun ku.",
+    "Ing kanakung pamuntuk mebigu ya king pamakipagsapalaran king Dios nang Moises, a e ra buring kilalanan.",
+    "Inutus da kanaku ing patalakad kung metung a tore a gawa king ladrilyu a melutu king api ban ing kakung manimuna makaakyat ya banua.",
+    "E ya miras banua ing tore, at ing panga-alipan ku king kayabangan dininan nakung alang anggang kamarinayan.",
+    "mewala ku kayabe na ning metung a tinuki ku, at ing lagyu ku meging yang alang anggang babala laban kareng taung magpaganaka kareng tiranu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Haman",
+        "Azar (tatang nang Ibrahim)",
+        "Illyas (metung a propeta)",
+        "Dhu al-Kifl",
+        "Harut (metung ya karing aduang anghel king Babilonia)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Inutus da ing mitalakad yang matas a istruktura para miras ya banua",
+        "Inawad na ing kabaldugan ning metung a paninap a peparala na ning maka-Dyos",
+        "Miyugse king milalablab a api bilang kapagsubukan king kasalpantayanan",
+        "mapilitan yang mamili keng tronu ampo keng katutwan",
+        "metung yang paligsahan ning pamagsalamangka"
+      ],
+      "answer": "Inutus da ing mitalakad yang matas a istruktura para miras ya banua"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "metung a tore ning ladrilyu a melutu keng api",
+        "metung a tukud na meging ubingan",
+        "Metung a barkung maglayag king maragul a albug",
+        "metung a hardin a makapadurut kareng matas a pader",
+        "Metung a tronu a makalamutian karing rubi at gintu"
+      ],
+      "answer": "metung a tore ning ladrilyu a melutu keng api"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "linub ya keng siping ning mapang-api keng dagat",
+        "Meging mayupaya yang ari kareng malawak a gabun",
+        "Mekatakas ya keng masilab a api na alang mesugat",
+        "Mitalakad yang masagana a kayarian ning kabiasnan",
+        "Mibalik ya keng pamilya kaybat ning dakal a banuang panga-exile"
+      ],
+      "answer": "linub ya keng siping ning mapang-api keng dagat"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

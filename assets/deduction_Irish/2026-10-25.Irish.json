@@ -1,0 +1,61 @@
+{
+  "title": "An Gearán a Chuala Os Cionn an Torainn",
+  "intro": "Cloiseann tú guth ag teacht ó shochaí ina bhfuil an t-éagóir ina gnáthrud. Ní fhreagraíonn aon taispeántas cumhachta don ghearán; ina ionad sin, sroicheann achomharc díreach Allah, agus buaileann an freagra croílár an adhartha féin. Cé a rinne an gearán sin, cén cheist a lean, agus cén fhírinne a dearbhaíodh?",
+  "clues": [
+    "Tháinig imní orm faoi leatrom na ndaoine mórthimpeall orm.",
+    "Chuir mé an gearán sin in iúl go díreach do Allah i ngearán pearsanta.",
+    "Chuala Allah an gearán agus d’fhreagair sé le dúshlán faoi mo chreideamh féin.",
+    "D’fhiafraigh an freagra conas a d’fhéadfainn mainneachtain a chreidiúint in Allah, atá Aon agus Uachtarach.",
+    "Ansin d’fhiafraigh mé cén fáth ar chóir d’Allah fabhar a thabhairt do phobal nach raibh ag creidiúint.",
+    "Is mise Uzair, a ainmnítear i Surah Az-Zukhruf mar an té a ndearna Allah gearán a chloisteáil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Uzair",
+        "An compánach a sheol ar an tuile mhór",
+        "An seirbhíseach a shiúil ar uisce",
+        "An codladóir faoi chosaint laistigh de uaimh",
+        "An seirbhíseach a thug clocha chuig abhainn"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag gearán le Allah faoi leatrom na ndaoine",
+        "Ag siúl ar uisce le linn stoirme",
+        "Ag iompar clocha chuig abhainn gan uisce",
+        "Ag seoladh trí thuile mhór ar bord na hÁirce",
+        "Ag fáil eochair do stór ollmhór"
+      ],
+      "answer": "Ag gearán le Allah faoi leatrom na ndaoine"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gearán díreach dírithe chuig Allah",
+        "Sloinne a d’éirigh ina nathair",
+        "Foirnéis déanta fionnuar agus síochánta",
+        "Áirc ag snámh os cionn uiscí tuile",
+        "Iasc ag slogadh seirbhíseach"
+      ],
+      "answer": "Gearán díreach dírithe chuig Allah"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Chuala Allah an gearán agus dhearbhaigh sé Aontacht Dhiaga agus Tiarnas Uachtarach",
+        "Ag siúl go sábháilte ar uisce le linn stoirme",
+        "Ag trasnú tuile mhóir go sábháilte ar bord na hÁirce",
+        "Ag fáil radharc ar ais laistigh de phálás uabhar",
+        "Ag fáil ceannas ag síneadh ón Oirthear go dtí an tIarthar"
+      ],
+      "answer": "Chuala Allah an gearán agus dhearbhaigh sé Aontacht Dhiaga agus Tiarnas Uachtarach"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

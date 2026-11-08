@@ -1,0 +1,61 @@
+{
+  "title": "El Guardian in riva al bord del fiumm",
+  "intro": "Ind una terra indove un decret de tirann al portava dolor a tante cà, un'anema la riceveva un messaj qe al sfidava tuta la pagura. Cunt un cœur pien de fiducia, g’han cumincià un att de fede che g’havaria cambià el curs de una naziun. Menter i aque purtavan un cargo prezius, la speranza se mes’ciava cunt i corrent.",
+  "clues": [
+    "Ho vissuu in un temp de opresiun e de paura.",
+    "G’ho ricevü l’ispiraziun divina che m’ha dà curag.",
+    "Me l’è stait comandad de no haver-g pagüra o de dolor.",
+    "Ho mettuu el me fiœul en un petto e l’ho mettuu sü l’aqua.",
+    "El me fiœl l’è stà truvà de la cà del suvran, ma el me olter fiœul l’è vegnuu dopu.",
+    "Mi sun stà riunid cunt el me fiœul per dargh del latt, propri cuma Allah g’haveva prumetü."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "La Mader de Mosé",
+        "La dona del faraon",
+        "La surela de Mosé",
+        "La Mader de Gesù",
+        "La regina de Saba"
+      ],
+      "answer": "La Mader de Mosé"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Vèss ispirà a bütà un fiœul en un fiümm",
+        "Vesser sfidad a un duel de magia",
+        "Vèss perseguì de un esercit",
+        "Traversà un mar che se divideva",
+        "Costruir una cà sacra"
+      ],
+      "answer": "Vèss ispirà a bütà un fiœul en un fiümm"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un coffre metü in del fiümm",
+        "Un busc in früsa",
+        "Un bastun che s’è trasfurmà en serpent",
+        "Un vitell dorà",
+        "Un tron"
+      ],
+      "answer": "Un coffre metü in del fiümm"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "El fiœl l’è stait tornad in manera segura a l’infermiera",
+        "El fiœl l'è stait perdud per sempre",
+        "El fiœl l'è stait portad in una terra luntana",
+        "El fiœl l’è diventad subit un suvran",
+        "El fiœul l’è stà adutà de un mercant ricco"
+      ],
+      "answer": "El fiœl l’è stait tornad in manera segura a l’infermiera"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

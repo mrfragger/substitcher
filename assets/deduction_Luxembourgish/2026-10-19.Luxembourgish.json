@@ -1,0 +1,61 @@
+{
+  "title": "Déi Ausgestossene vum Himmel",
+  "intro": "E mysteriéist Wiesen steet op der Kräizung tëscht Kreatioun an Ofleenung. Hir Geschicht ass eng vun ongegläicher Arroganz an dem ultimativen Trotz vun engem göttleche Gebot. Hir Wiel widderhallt sech duerch all Generatioun a gëtt zu engem Test fir all Séil, déi op dës Welt gebuer gëtt. Kënnt Dir dësen éiwege Géigner identifizéieren?",
+  "clues": [
+    "Ech war bei engem Event vu kosmescher Bedeitung dobäi, wéi en neit Wiesen aus Lehm geformt gouf a vum Otem vum Barmhäerzege Liewen geschenkt gouf.",
+    "Ech selwer sinn aus engem eenzegen flammende Element entstanen, am Géigesaz zu deem Wiesen aus Stëbs.",
+    "Mir gouf en Uerder ginn, deen ech als ënner menger Positioun gehalen hunn.",
+    "Stolz huet a mir opgeschwollen, an ech hunn vehement refuséiert, dësem Uerder ze follegen.",
+    "Mir gouf eng Verspéidung bis en ernannten Dag zougestanen, fir datt ech mäin erkläerten Zweck, anerer ze täuschen, verfollege kéint.",
+    "Ech sinn den deklaréierte Feind vun all deenen, déi op der Äerd liewen, flüsteren Täuschungen a lackelen se vum riichte Wee ewech."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Iblis (Satan)",
+        "Pharao (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Refuséiert sech virum Adam ze béien",
+        "Falsch behaapt Göttlechkeet",
+        "E gëllent Kalb fir d'Veréierung geschmied",
+        "Huet säi Brudder aus Näid ëmbruecht",
+        "Huet d'polytheistesch Oppositioun zu Mekka ugefouert"
+      ],
+      "answer": "Refuséiert sech virum Adam ze béien"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Paradäis (Jannah)",
+        "De Palais vum Pharao an Ägypten",
+        "Dat hellegt Dall vun Tuwa",
+        "D'Déifte vum Mier",
+        "De Gaart vun der Scheba"
+      ],
+      "answer": "Paradäis (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Zäitverloscht bis zum Uerteelsdag zougestanen",
+        "Zesumme mat der Arméi am Mier erdronk",
+        "Vun der Äerd zesumme mat Schätz verschléckt",
+        "An Affen transforméiert well se de Sabbat verletzt hunn",
+        "Verbrannt duerch Steng, déi vum Himmel gehäit goufen"
+      ],
+      "answer": "Zäitverloscht bis zum Uerteelsdag zougestanen"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

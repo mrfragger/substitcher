@@ -1,0 +1,61 @@
+{
+  "title": "o tesouro que se afundiu baixo o orgullo",
+  "intro": "Imaxina estar de pé ante moreas de riqueza tan vastas que o simple feito de levar as chaves esgotaría a un grupo de persoas fortes. Ao teu redor, as voces instan á humildade e á lembranza, pero o orgullo medra máis que a gratitude. Que ocorre cando a xenerosidade se converte nunha proba e a arrogancia sela o resultado?",
+  "clues": [
+    "Eu era do pobo de Moisés, e porén transgredín contra eles.",
+    "Concedéronseme tesouros tan inmensos que as chaves deles serían unha carga para unha banda de homes fortes.",
+    "O meu pobo aconselloume que non me regocixase e que buscase o Máis Alá sen esquecer a miña parte deste mundo.",
+    "Afirmaba que o que posuía me fora dado só polo coñecemento que tiña.",
+    "Desfilei diante do meu pobo adornado, e aqueles que desexaban a vida mundana desexaban algo semellante ao que eu tiña.",
+    "Fun tragado pola terra xunto coa miña vivenda, e ninguén puido axudarme nin eu puiden axudarme a min mesmo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Presumiu de riqueza e negou o favor de Alá a pesar do consello",
+        "Desafiou a Ibrahim sobre dar a vida e a morte",
+        "Liderou un exército contra Talut e Dawud",
+        "Ídolos tallados para que a xente os adorase",
+        "Matou a un irmán por envexa por unha ofrenda"
+      ],
+      "answer": "Presumiu de riqueza e negou o favor de Alá a pesar do consello"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Chaves para inmensos tesouros",
+        "A Arca da Alianza",
+        "Un becerro de ouro con adornos",
+        "Unha presa entre dúas montañas",
+        "Once estrelas nun soño"
+      ],
+      "answer": "Chaves para inmensos tesouros"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tragado pola terra con vivenda e riqueza",
+        "Afogouse no mar mentres perseguía a Musa",
+        "Derribado por unha pedra da fonda de Dawud",
+        "Destruído por unha poderosa explosión por cortarlle os tendóns a unha cameloa",
+        "Convertidos en simios por romper o sábado"
+      ],
+      "answer": "Tragado pola terra con vivenda e riqueza"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

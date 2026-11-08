@@ -1,0 +1,61 @@
+{
+  "title": "Déi verflucht Hänn",
+  "intro": "Dir stinn an de schlängelenden Gaassen vum antike Mekka, wou eng Séil vun Afloss a Räichtum sech fréier vum Ruff vun der Wourecht ewechgedréit huet. D'Geschicht vun dëser Figur ass eng staark Erënnerung drun, datt Bluttsverbindungen d'Ketten vum Stolz net iwwerwannen kënnen. Wien ass dësen, deem säin Numm mam Feier widderhallt, dat waart?",
+  "clues": [
+    "Ech sinn duerch d'Stroosse vu Mekka gaangen, mat engem Stolz, deen mech fir d'Wourecht blann gemaach huet, obwuel de Botschafter aus mengem eegene Blutt war.",
+    "Mäi Besëtz war enorm, awer si sinn zu engem Fluch anstatt zu engem Schëld ginn.",
+    "D'Buch vun der Leedung schwätzt vu mengem Ënnergang a seet, datt meng Hänn a mäi Kierper vergoe wäerten.",
+    "Mäi Partner huet sech menger Feindschaftskampagne ugeschloss, andeems hien Dären gesammelt huet, fir se um Wee vun deem ze verdeelen, deen Allah geruff huet.",
+    "Um Dag vum Uerteel ginn ech an e Feier vu flammender Flamen gestürzt, a mäi Partner wäert e Seel aus Palmfaser ëm den Hals hunn.",
+    "Ech sinn ënner engem Numm bekannt, deen 'Papp vun der Flam' bedeit - en Numm, deen mäin éiwegt Wunnsëtz viraussoet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Schlësselversuch oder Event",
+      "options": [
+        "Huet sech géint de Prophet ausgeschwat a gouf am Koran verflucht",
+        "Eng Arméi ugefouert fir d'Kaaba ze zerstéieren",
+        "Versuch, de Prophet mat Steng ëmzebréngen",
+        "Refuséiert un d'Spléckung vum Mound ze gleewen",
+        "En Tuerm gebaut fir an den Himmel ze kommen"
+      ],
+      "answer": "Huet sech géint de Prophet ausgeschwat a gouf am Koran verflucht"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Dat brennend Feier vun der Hell",
+        "D'Mataarbechter vum Musa",
+        "D'Ark vum Nuh",
+        "De Brunn vum Zamzam",
+        "Dat gëllent Kalb"
+      ],
+      "answer": "Dat brennend Feier vun der Hell"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hie wäert an dat flammend Feier eragoen, a säi Räichtum wäert him näischt bréngen",
+        "Hie huet sech bekéiert a gouf gleeweg",
+        "Hie gouf verginn nodeems hien seng Aussoen zréckgezunn hat",
+        "Hie stierft als Märtyrer",
+        "Hie gouf an den Himmel opgeholl"
+      ],
+      "answer": "Hie wäert an dat flammend Feier eragoen, a säi Räichtum wäert him näischt bréngen"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

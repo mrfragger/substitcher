@@ -1,0 +1,61 @@
+{
+  "title": "Mufoyineri la nga tsekatsekiki wa Ntiyiso",
+  "intro": "Murhumiwa u yime a ri yexe exikarhi ka vanhu lava nonon’hwaka, a va vitana eka Xikwembu Xin’we xa Ntiyiso loko va ri karhi va namarhela swifaniso swa mavunwa. Muprofeta loyi u rhwale vito leri twalaka hi nhlamuselo ya matimba—‘loyi a lavaka nsirhelelo’—kambe u kuma ku ariwa ni ku landzula ntsena. Hi ku khorwisa hi ku olova ni xilemukiso lexi tiyeke, moya-xiviri lowu wu rhwala rungula ra Xikwembu leri vuako hinkwabyo byi nga ta ri tiyisekisa eku heteleleni. Xana u nga swi kota ku vona xifaniso lexi xo tiya lexi yimelaka xin’wana xa switlhokovetselo swa khale swinene eka matsalwa ya Vuislem?",
+  "clues": [
+    "Vanhu va mina a va gandzela swikwembu swo tala, kasi mina a ndzi va vitana ku tirhela Loyi a tumbuluxeke matilo ni misava.",
+    "Ndzi yime emahlweni ka tiko ra ka hina kutani ndzi tivisa leswaku a ku na hakelo leyi ndzi nga ta yi lava eka vona—ku navela ka mina ntsena a ku ri nkongomiso wa vona wa ku lulama.",
+    "Moya lowukulu wu rhumeriwile eka vanhu va mina tanihi nxupulo wa Xikwembu, moya lowu Quran yi vulavulaka ha wona hi swivumbeko swa vunyingi na swa xisati.",
+    "Ku hambana na vaprofeta van’wana, a ndzi nyikiwanga nsati kumbe vana lava boxiweke swinene eka xitori xa mina, hikuva vurhumiwa bya mina a ku ri ku vitana vanhu va mina ndzi ri ndzexe.",
+    "Vito ra mina ri ni nhlamuselo leyi dzikeke—leyi fambisanaka ni mianakanyo ya nsirhelelo ni vutumbelo leyi munhu a yi lavaka.",
+    "Vanhu va ka hina a va tiviwa hi rito ro karhi ra ntivo-misava leri vulaka nkova lowu a va tshama eka wona, naswona misava ya vona a yi hlamuseriwa hi ku delela ngopfu hikwalaho ka ku pfumaleka ka yona ka swimilana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Hud",
+        "Muprofeta Salih",
+        "Muprofeta Shu’aib",
+        "Muprofeta Nuh",
+        "Muprofeta Hudayb"
+      ],
+      "answer": "Muprofeta Hud"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ndhambi ya misava",
+        "Moya lowu pfurhaka",
+        "Ku tsekatseka ka misava ka ndzoviso",
+        "Dyandza ni ndlala",
+        "Ku nwela elwandle"
+      ],
+      "answer": "Moya lowu pfurhaka"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Nkova lowu noneke wa le Yemen",
+        "Mananga ya sava ya Midiyani",
+        "Nkova lowu nga ni maribye wa Thamud",
+        "Tiko ra khale ra vanhu va 'Ad",
+        "Xifundzha xa le ribuweni ra lwandle xa Egipta"
+      ],
+      "answer": "Tiko ra khale ra vanhu va 'Ad"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Vanhu va mina va hundzukile kutani va nghena eparadeyisini",
+        "Ku hava ni un’we wa vanhu va mina loyi a poneke nxupulo wolowo",
+        "Ndzi tekiwile ndzi hanya ku fana na makwerhu Yunus",
+        "Ndzi rhurhele ni valandzeri va mina etikweni leri katekisiweke",
+        "Moya wu lovise lava nga pfumeriki ntsena kasi vapfumeri va ponile"
+      ],
+      "answer": "Ku hava ni un’we wa vanhu va mina loyi a poneke nxupulo wolowo"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

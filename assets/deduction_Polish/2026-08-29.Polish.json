@@ -1,0 +1,61 @@
+{
+  "title": "Cierpliwość, która przetrwała smutek",
+  "intro": "Starszy, którego cierpliwość stała się legendarna, którego wzrok przygasł z powodu smutku, a którego wiara w boski plan nigdy nie zachwiała się. Ten człowiek obserwował, jak dwunastu synów staje się podwalinami plemion, cierpiał bolesną stratę ukochanego dziecka i stał się ponadczasowym symbolem pięknej cierpliwości w obliczu przytłaczającego smutku. Czcigodna dusza, której historia jest opowiedziana na kartach objawienia. Czy potrafisz rozpoznać tę postać z Koranu?",
+  "clues": [
+    "Byłem prorokiem, a jego historię szczegółowo opisano w jednej z głównych sur Koranu.",
+    "Miałem dwunastu synów, którzy stali się ojcami plemion Bani Izraela.",
+    "Powiedziałem moim synom, żeby wchodzili przez różne bramy, aby nikt nie rozpoznał, że to jeden lud.",
+    "Moje oczy zbielały od nieustannego płaczu nad ukochanym dzieckiem, które mi odebrano.",
+    "Nie poddałem się rozpaczy, nawet gdy namawiali mnie do tego pozostali synowie, mówiąc, że skarżę się tylko Allahowi.",
+    "Jestem ojcem proroka Yusufa, którego imię w języku arabskim oznacza „ten, który wzmacnia”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Jakub (Jakub)",
+        "Prorok Yusuf",
+        "Prorok Ibrahim",
+        "Prorok Musa",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Jakub (Jakub)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Strata ukochanego syna w studni",
+        "Wielka powódź, która pochłonęła cały naród",
+        "Migracja z królestwa, w którym czczono ogień",
+        "Konfrontacja z potężnym tyranem Egiptu",
+        "Wygnanie do brzucha wieloryba"
+      ],
+      "answer": "Strata ukochanego syna w studni"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Koszula poplamiona sztuczną krwią",
+        "Laska, która zamieniła się w węża",
+        "Arka zbudowana na górze",
+        "Wielbłądzica wyrzeźbiona w skale",
+        "Złoty cielec"
+      ],
+      "answer": "Koszula poplamiona sztuczną krwią"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przywrócono wzrok, gdy na twarz ukochanego syna nałożono koszulę",
+        "Zbawienie po wrzuceniu do brzucha wielkiej ryby",
+        "Otrzymanie tytułu Khalilullah od Allaha",
+        "Przejście przez morze z ludem uwolnionym z niewoli",
+        "Tęcza pojawiająca się jako znak nadziei po potopie"
+      ],
+      "answer": "Przywrócono wzrok, gdy na twarz ukochanego syna nałożono koszulę"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

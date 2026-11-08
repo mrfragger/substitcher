@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tinig sa Sinaunang Buhangin",
+  "intro": "Kabilang sa mga pinakaunang sugo ng Allah, mayroong isa na ang pangalan ay maikli ngunit makabuluhan sa Quran. Ang indibidwal na ito ay nabuhay bago pa man isinugo ang maraming dakilang propeta, at kilala sa matibay na katapatan at pagtitiis. Maikli lamang ang kanilang kwento ngunit ang kanilang pamana ay nananatili sa walang hanggang talaan. Sino ang marangal na kaluluwang ito?",
+  "clues": [
+    "Isa ako sa mga pinakaunang mensahero, na nabanggit nang maikli ngunit makabuluhan sa Quran.",
+    "Ang aking pagkatao ay nailalarawan sa pamamagitan ng isang matibay na pangako sa katotohanan.",
+    "Ako ay naaalala sa aklat ng Allah kasama ng mga taong matatag at matiisin.",
+    "Iilang maiikling talata lamang sa Quran ang nagkukuwento ng aking karanasan.",
+    "Pinarangalan ako ng Allah sa paraang natatangi para sa akin, na hindi ibinahagi sa ibang mga propeta.",
+    "Ako ay itinaas sa isang mataas na katayuan, isang natatanging karangalan sa Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Idris",
+        "Propeta Ilyas",
+        "Dhul-Kifl",
+        "Propeta Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Propeta Idris"
+    },
+    "trial": {
+      "label": "Pagtukoy sa Sandali",
+      "options": [
+        "Itinaas ako ni Allah sa isang mataas na antas",
+        "Gumawa ako ng isang malaking arka upang iligtas ang aking bayan",
+        "Hinamon ko ang mga salamangkero ni Paraon",
+        "Inihagis ako sa hukay ng aking mga kapatid",
+        "Nawalan ako ng paningin dahil sa kalungkutan para sa aking anak"
+      ],
+      "answer": "Itinaas ako ni Allah sa isang mataas na antas"
+    },
+    "location": {
+      "label": "Sagradong Sanggunian",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Banal na Karangalan",
+      "options": [
+        "Isang mataas na posisyon na hindi katulad ng iba",
+        "Kapangyarihan sa jinn at sa mga hangin",
+        "Isang kaharian na walang kapantay ang kaluwalhatian",
+        "Isang tagapagmana mula sa aking katandaan",
+        "Isang tipan na tinatakan kay Allah"
+      ],
+      "answer": "Isang mataas na posisyon na hindi katulad ng iba"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

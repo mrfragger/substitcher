@@ -1,0 +1,61 @@
+{
+  "title": "Neiskorišteni glas vijekova",
+  "intro": "U vremenu mnogo prije nego što su se uzdigli veliki gradovi, usamljena duša se uzdigla među ljudima koji su se okrenuli od istine. Njihova tvrdoglavost mogla se mjeriti samo sa strpljenjem ovog usamljenog pozivaoca, koji je molio kroz generacije ne gubeći odlučnost. Kada su sva upozorenja pala na gluhe uši, neviđeno obračunavanje preoblikovalo je samu zemlju. Danas, odjeci te priče i dalje odjekuju kroz svako recitovanje. Možete li prepoznati ovu odlučnu dušu?",
+  "clues": [
+    "Odrastao sam među ljudima koji su obožavali lažne idole i ignorirali znakove oko sebe, ali sam ipak izabran da ih probudim iz njihove nepažnje.",
+    "Zvao sam svoj narod iznova i iznova, ali su me optuživali da sam samo osoba poput njih, da se rugaju mojoj poruci i da im se začepljuju uši.",
+    "Danju i noću sam ih molio mudro i nježno podsjećao, ali moje riječi kao da su nestajale u zraku, nečuvene i neopažene.",
+    "Po božanskoj uputi, sagradio sam ogromnu lađu od drveta i dasaka na suhom, a moj narod mi se smijao kao nekome ko je izgubio razum.",
+    "Kada je došla velika poplava, kako je i obećano, moj sin je odbio da se ukrca na brod sa mnom, vjerujući da će ga planina zaštititi od nadolazeće vode.",
+    "Postao sam patrijarh novog početka na Zemlji, a moja priča je sačuvana u poglavlju Kur'ana koje nosi moje ime."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Nuh",
+        "Poslanik Ibrahim",
+        "Poslanik Musa",
+        "Poslanik Lut",
+        "Poslanik Hud"
+      ],
+      "answer": "Poslanik Nuh"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Veliki potop koji je preoblikovao Zemlju",
+        "Biti bačen u plamteću vatru od strane idolopoklonika",
+        "Sukob s faraonovim čarobnjacima u palači",
+        "Uništenje bogatih vrtova nebeskom olujom",
+        "Prevrtanje stanovnika rovova"
+      ],
+      "answer": "Veliki potop koji je preoblikovao Zemlju"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Arka izgrađena od drveta i dasaka",
+        "Sveta kuća izgrađena na drevnim temeljima",
+        "Štap koji se pretvorio u zmiju",
+        "Pećina usnulih mladića",
+        "Prijestolje koje nosi moćno stvorenje"
+      ],
+      "answer": "Arka izgrađena od drveta i dasaka"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Nevjernici su se utopili, dok su vjernici spašeni na brodu.",
+        "Vatra se ohladila i postala sigurna, a pozivalac je izašao neozlijeđen",
+        "Mađioničari su pali ničice i prihvatili vjeru",
+        "Vrt je dodijeljen pravednom komšiji umjesto njega.",
+        "Spavači su se probudili nakon vijekova, transformisani"
+      ],
+      "answer": "Nevjernici su se utopili, dok su vjernici spašeni na brodu."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

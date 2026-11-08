@@ -1,0 +1,61 @@
+{
+  "title": "Cuộc truy đuổi cung đình",
+  "intro": "Trong những hành lang quyền lực, một nhân vật có địa vị cao đã say mê một người hầu gái sở hữu vẻ đẹp phi thường. Sự say mê này dẫn đến một loạt sự kiện thử thách lòng trung thành, hé lộ những sự thật bị che giấu, và cuối cùng khẳng định sự vô tội của người hầu gái.",
+  "clues": [
+    "Tôi từng sống ở vùng đất sông Nile, trong một cung điện đầy quyền lực.",
+    "Một chàng trai trẻ bước vào nhà tôi, và sự hiện diện của anh ta đã làm đảo lộn thế giới của tôi.",
+    "Tôi đã cố gắng quyến rũ anh ta, nhưng anh ta đã tìm đến sự nương tựa nơi Đức Chúa Trời của mình.",
+    "Tôi xé áo hắn từ phía sau, nhưng bằng chứng lại cho thấy tôi đã lừa dối.",
+    "Để dập tắt những lời đồn đại của các quý bà, tôi đã mời họ đến một buổi gặp mặt và đặt những vật sắc nhọn vào tay họ.",
+    "Cuối cùng, tôi đã công khai thú nhận lỗi lầm của mình, thừa nhận sự thật trước mặt nhà vua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Vợ của Al-Aziz",
+        "Asiya (Vợ của Pharaoh)",
+        "Bilqis (Nữ hoàng Sheba)",
+        "Maryam (Mẹ của Isa)",
+        "Mẹ của Musa"
+      ],
+      "answer": "Vợ của Al-Aziz"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Bà ta đã cố gắng quyến rũ Tiên tri Yusuf.",
+        "Bà ta đã cố gắng giết Tiên tri Musa.",
+        "Cô ta tự xưng là nữ thần.",
+        "Bà ta đã xây một tòa tháp để thách thức Thượng đế.",
+        "Bà ta đã dẫn một đội quân tấn công Mecca."
+      ],
+      "answer": "Bà ta đã cố gắng quyến rũ Tiên tri Yusuf."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một chiếc áo sơ mi bị rách từ phía sau.",
+        "Con bê vàng",
+        "Một cây gậy biến thành rắn",
+        "Một con lạc đà cái",
+        "Một chiếc đèn"
+      ],
+      "answer": "Một chiếc áo sơ mi bị rách từ phía sau."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Cô ấy đã thú nhận và thừa nhận sự thật.",
+        "Bà ta đã chết đuối cùng với quân đội của mình.",
+        "Cô ấy biến thành một cột muối.",
+        "Cô ấy bị đất nuốt chửng",
+        "Cô ấy đã bị một cơn gió gào thét thiêu rụi."
+      ],
+      "answer": "Cô ấy đã thú nhận và thừa nhận sự thật."
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

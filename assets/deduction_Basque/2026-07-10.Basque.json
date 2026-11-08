@@ -1,0 +1,61 @@
+{
+  "title": "Bederatzi zeinuen eramailea",
+  "intro": "Hasiera xumeenetik altxatu zen figura bat, jainkozko borondatean idatzitako patua zuena. Haurtzaroan ezkutatuta eta bere herria suntsitu nahi zuen agintari beraren harresien artean hazita, arima hau azkenean misio handi batera deitu zuten. Fedeaz eta artzain-makila xume batez hornituta, garaiko agintari boteretsuenaren aurrean agertu ziren eta esklabo zirenentzako askatasuna eskatu zuten. Mundua bera haien aginduz mugitzen ari zela zirudien: urak zabaldu ziren, zeruak hitz egin zuen eta erreinu bat erori zen.",
+  "clues": [
+    "Nire lehen egunak beldurrak markatu zituen — ni bezalako haurtxoak jaiotzean ehizatzen zituen etorkizunaren beldur zen agintari gupidagabe batek.",
+    "Urak salbatu ninduen eta nire suntsipena bilatzen zuen agintari beraren jauregian hazi nintzen.",
+    "Bat-bateko gertakari baten ondoren nire sorterritik ihesi joan nintzen, lurralde urrun batean artzain apal bihurtuz.",
+    "Agintari boteretsu horri aurre egitera itzuli nintzen, makila soil batekin eta mezu argi batekin, nire herriaren askatasuna eskatuz.",
+    "Ur-masa handi bat zabaldu nuen nire atzetik zihoazenentzat, eta ur horiek nire etsaia osorik irensten ikusi nuen.",
+    "Alaren jainkozko gidaritza jasotzeko mendi sakratu batera igo nintzen, eta bederatzi seinale argi eman zizkidaten egiaren froga gisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musa profeta",
+        "Nuh profeta",
+        "Ibrahim profeta",
+        "Yusuf profeta",
+        "Lut profeta"
+      ],
+      "answer": "Musa profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Faraoiari bere gortean aurre egitea",
+        "Uholde handi bati aurre egiteko Arka eraikitzea",
+        "Idolo-egileek su bizian botata izatea",
+        "Nire anaiek putzu sakon batera jaisten naute",
+        "Nire herria jokabide immoraletik geldiarazten saiatzen ari naiz"
+      ],
+      "answer": "Faraoiari bere gortean aurre egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Suge bihurtu zen makila",
+        "Nuh-ren Arka",
+        "Bilqisen tronua",
+        "Haizea eta jinnak kontrolatzen zituen eraztuna",
+        "Altxor gordeen giltzak, hain astunak"
+      ],
+      "answer": "Suge bihurtu zen makila"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Nire herria ur zatituen gainetik askatasunera eraman nuen",
+        "Uholde handi batetik salbatu zen Arka baten barruan",
+        "Sufrimendu sakon baten ondoren, osasunera eta familiara itzuli zen",
+        "Arrain handi batetik bizirik bota zuten",
+        "Etxe Sakratuaren oinarriak eraiki zituen"
+      ],
+      "answer": "Nire herria ur zatituen gainetik askatasunera eraman nuen"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

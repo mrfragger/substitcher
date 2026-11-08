@@ -1,0 +1,61 @@
+{
+  "title": "Mfukuzwa kutoka Bustani",
+  "intro": "Kiumbe cha ajabu kiliwahi kuishi katika safu za juu zaidi za uumbaji, karibu zaidi na Mungu kuliko wengi wangeweza kuelewa. Lakini kiburi kiliota mizizi, na kitendo kimoja cha ukaidi kilibadilisha mwelekeo wa maisha. Sasa, kiumbe huyu anatangatanga kama adui aliyeapa, akinong'ona na kupanga njama hadi siku iliyoahidiwa ifike. Je, unaweza kufichua utambulisho wa huyu aliyeanguka?",
+  "clues": [
+    "Wakati mmoja nilikuwa miongoni mwa wale walio karibu zaidi na uwepo wa Mungu, nikiwa nimeinuliwa juu ya sehemu kubwa ya uumbaji.",
+    "Niliumbwa kutokana na kitu kinachoungua, si kutokana na udongo au udongo.",
+    "Nilipoamriwa kuinama mbele ya kiumbe kipya, nilikataa — nikisukumwa na kile nilichoamini kuwa ubora wangu mwenyewe.",
+    "Nilifukuzwa na kulaaniwa, lakini hatimaye nilipewa ahueni hadi wakati uliowekwa na kujulikana.",
+    "Niliapa kuwapotosha wengi niwezavyo, nikikaribia uzao wa Adamu kutoka kila upande.",
+    "Mimi ni adui aliye wazi, aliyetangazwa kuwa wa wanadamu wote, nikipanga njama na kunong'ona kila wakati hadi mwisho uliopangwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Nabii Ilyas",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Kesi / Tukio",
+      "options": [
+        "Kukataa kusujudu mbele ya Adamu",
+        "Kujenga ndama wa dhahabu kwa ajili ya watu kuabudu",
+        "Kufundisha uchawi kwa watu wa Babeli",
+        "Kugawanya bahari kwa fimbo",
+        "Kubeba kiti cha enzi cha Malkia wa Sheba mara moja"
+      ],
+      "answer": "Kukataa kusujudu mbele ya Adamu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bustani ya Edeni",
+        "Mlima wa Tur",
+        "Kisima cha Rass",
+        "Jumba la Farao",
+        "Pango la wanaolala"
+      ],
+      "answer": "Bustani ya Edeni"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Muhula uliotolewa hadi Siku ya Hukumu",
+        "Kuzama baharini na jeshi",
+        "Alizikwa akiwa hai chini ya jumba lililokuwa likiporomoka",
+        "Alibadilika kuwa nyani au tumbili",
+        "Imepandishwa cheo hadi kiwango cha juu zaidi"
+      ],
+      "answer": "Muhula uliotolewa hadi Siku ya Hukumu"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

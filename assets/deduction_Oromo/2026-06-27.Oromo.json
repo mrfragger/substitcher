@@ -1,0 +1,61 @@
+{
+  "title": "Dhabuu Qulqulluu",
+  "intro": "Duune yeroo bira darbee, oduu durii of kennuu hin raafamnee fi imaanaa baay’ee ulfaataa ta’ee fi lubbuun isa baattee jirtu cabsuu dandeessi turte tokkotu jira. Yeroo ummanni gara gowwummaa fi warqeetti garagalanitti, fakkiin tokko jabaatee dhaabbate, kunis isaan waamee, obsa akka qabaatan kadhachaa fi ulfaatina abdii qulqulluu baatee ture. Kun seenaa nama yeroo qulqulluu hin jirretti gargaaraa, vizier fi eegduu amantii ta’ee filatameedha. Eenyummaa lubbuu jabaatte kanaa saaxiluu dandeessaa?",
+  "clues": [
+    "Dhiiga nabiyyii guddaa gaara qulqulluu irratti kallattiin Rabbiin waliin haasa'uuf filatame tokkon qooddadha.",
+    "Obboleessi koo yeroo tokko cunqursaa guddaa tokkotti ifatti dubbachuuf gargaarsa Rabbiin kadhate.",
+    "Ani Rabbiin filatee akkan obboleessa koo cinaa akkan gargaartuu fi wazii ta’ee dhaabadhu.",
+    "Waliin taanee bulchaa abbaa irree waaqolii hunda caalu jedhamee akka waamamu gaafatu nu mudate.",
+    "Obboleessi koo gaara irratti Rabbiin waliin osoo wal qunnamu, ummanni keenya warqee isaanii irraa waaqa tolfamaa ofiif tolche.",
+    "Ani obboleessa Muusaa, Rabbiin waizira isaa godhee muude, Qur’aana keessatti maqaan eerameera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Haaruun (Aaron) .",
+        "Nabi Muusaa",
+        "Nabi Daawud",
+        "Nabi Yaqub",
+        "Nabi Ishaaq"
+      ],
+      "answer": "Nabi Haaruun (Aaron) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Rakkoo Waaqeffannaa Re'ee",
+        "Bishaan Badiisaa Guddaa Nuh",
+        "Lola Badr",
+        "Badiisa Thamud",
+        "Badiisa Sodoom"
+      ],
+      "answer": "Rakkoo Waaqeffannaa Re'ee"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Re'ee Warqee",
+        "Taabotni Nohi",
+        "Bosona Gubaa jiru",
+        "Holqa Hiraa",
+        "Teessoo Sheebaa"
+      ],
+      "answer": "Re'ee Warqee"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Qulqullummaa Rabbiin Mirkaneesse",
+        "Fara'oon bishaaniin liqimfamuu",
+        "Ijaarsa Kaabaa",
+        "Nageenyaan Qaxxaamuraa Galaanaa",
+        "Gara Samiitti ol bahuu"
+      ],
+      "answer": "Qulqullummaa Rabbiin Mirkaneesse"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

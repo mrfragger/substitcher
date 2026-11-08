@@ -1,0 +1,61 @@
+{
+  "title": "İki Ufuk Arasındaki Fatih",
+  "intro": "İlahi rehberliğin kayıtlarında, hem güçlü bir hükümdar hem de Allah'ın mütevazı bir kulu olarak öne çıkan bir figür vardır. Bu kişi, dünyanın en uzak köşelerine seyahat ederek, sıra dışı bir halkın üzerinde güneşin doğuşuna ve karanlık, bulanık bir pınarda batışına şahit olmuştur. En dikkat çekici olanı ise, bu kulun büyük bir fesatlık içinde olan bir millete karşı olağanüstü bir bariyer inşa etmekle görevlendirilmiş olmasıdır. Kur'an'daki bu efsanevi figürü tanıyabilir misiniz?",
+  "clues": [
+    "Bana, En Merhametli olan tarafından yeryüzünde güç ve nüfuz bahşedildi.",
+    "Güneşin doğduğu ve battığı yere yolculuk ettim.",
+    "Neredeyse tek kelime bile anlamayan bir halka ulaştım.",
+    "Bana demir kullanarak devasa bir bariyer inşa etme emri verildi.",
+    "İki sarp dağ arasındaki boşluğu erimiş metal ile kapattım.",
+    "Ben ne bir melek ne de bir peygamberdim, fakat Allah'ın kendisine lütfettiği bir kuldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Zülkarneyn (İki Boynuzlu Olan)",
+        "Kral Süleyman (Solomon)",
+        "Peygamber Zül-Kifl",
+        "Zülnûn (Balık Arkadaşı)",
+        "Bariyerin Meleği"
+      ],
+      "answer": "Zülkarneyn (İki Boynuzlu Olan)"
+    },
+    "trial": {
+      "label": "Büyük Görev",
+      "options": [
+        "Cennete doğru bir kule inşa etmek",
+        "Yecüc ve Mecüc'e karşı devasa bir demir bariyer inşa etmek.",
+        "Yargı için altın bir taht yaratmak",
+        "Dürüstler için derin bir kuyu kazmak",
+        "Büyük bir sel sırasında gemi inşa etmek"
+      ],
+      "answer": "Yecüc ve Mecüc'e karşı devasa bir demir bariyer inşa etmek."
+    },
+    "location": {
+      "label": "Ortam",
+      "options": [
+        "İki nehir arasında kalan Uzair diyarı",
+        "Güneşin doğduğu yer ve siyah çamurlu kaynak.",
+        "Mekke'nin kutsal vadisi",
+        "Madyan çölü",
+        "Kıbrıs adası"
+      ],
+      "answer": "Güneşin doğduğu yer ve siyah çamurlu kaynak."
+    },
+    "outcome": {
+      "label": "İlahi Vaat",
+      "options": [
+        "Sonsuz cennet anında bahşedildi.",
+        "Ülke sıcak bir rüzgarla yerle bir edildi.",
+        "Bu engel Kıyamet Gününe kadar sürecektir.",
+        "Tüm inananlar için ölümden kurtuluş",
+        "Sonsuz bir krallık"
+      ],
+      "answer": "Bu engel Kıyamet Gününe kadar sürecektir."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

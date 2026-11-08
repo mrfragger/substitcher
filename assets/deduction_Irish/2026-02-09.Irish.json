@@ -1,0 +1,60 @@
+{
+  "title": "An Triail Faoi na Tonnta",
+  "intro": "Rinne fáidh, a raibh ualach a mhisin air, cinneadh a threoraigh é i bhfad óna mhuintir agus isteach i dtriail gan choinne. Thóg a thuras casadh drámatúil, ag tástáil a chreidimh agus a fhoighne ar an mbealach is doimhne. An féidir leat sonraí an eachtra urghnách seo a bhaint as na leideanna a cuireadh ar fáil?",
+  "clues": [
+    "Cuireadh fáidh chuig pobal, ach d’imigh sé go sciobtha, agus é frustrach faoina ndiúltú.",
+    "Threoraigh a thuras é go dtí an fharraige, áit ar chuaigh sé ar bord soithigh throm-ualaithe ag lorg pasáiste.",
+    "D’éirigh stoirm mhór, ag bagairt na loinge, agus rinneadh cinneadh duine amháin a chaitheamh thar bord chun an t-ualach a éadromú, arna chinneadh le crannchur.",
+    "Slogadh é ag créatúr an domhain, eachtra mhíorúilteach a d'ordaigh toil Dhiaga.",
+    "Laistigh de theorainneacha bholg an chréatúir, ghlaoigh sé ar a Thiarna, ag déanamh aithrí agus ag glóiriú Allah sa dorchadas.",
+    "Tar éis tréimhse achainí dian, caitheadh ​​ar chladach lom é, lag ach beo, agus d’fhill sé ina dhiaidh sin agus fuair sé amach go raibh a mhuintir tar éis creidiúint faoi dheireadh."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Fáidh/Duine",
+      "options": [
+        "Fáidh Nuh",
+        "Fáidh Lút",
+        "an Fáidh Músa",
+        "Fáidh Yunus",
+        "Fáidh Iósaf"
+      ],
+      "answer": "Fáidh Yunus"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Tuile Nuh",
+        "Scriosadh Shodom",
+        "An turas i mbolg an éisc mhóir",
+        "Scoilteadh na farraige",
+        "An nochtadh faoin tor dóite"
+      ],
+      "answer": "An turas i mbolg an éisc mhóir"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "Sliabh Shíonáí",
+        "Foireann Mhúsa",
+        "An tIasc Mór",
+        "Tobar Iósuf"
+      ],
+      "answer": "An tIasc Mór"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Conradh nua leis an gcine daonna",
+        "Breith mhíorúilteach dá mhuintir",
+        "Ríocht bunaithe dá shliocht",
+        "Filleadh ar a mhuintir a chreid ansin",
+        "Bua thar rialóir tíoránta"
+      ],
+      "answer": "Filleadh ar a mhuintir a chreid ansin"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

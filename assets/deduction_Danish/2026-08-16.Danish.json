@@ -1,0 +1,61 @@
+{
+  "title": "Den stille stemme i salen",
+  "intro": "En bøn genlød i stilheden i et helligt kammer for længe siden, opstået fra en aldrende sjæl, der længtes efter det, verden havde erklæret umuligt. Denne skikkelse, fremskreden i årevis og tynget af bekymring for fremtiden, vendte sig til deres Herre med en personlig bøn. Det, der fulgte, var et guddommeligt svar, der trodsede enhver naturlig forventning – et vidnesbyrd om barmhjertigheden hos den, der besvarer det desperate kald.",
+  "clues": [
+    "Jeg påkaldte min Herre i fred og trak mig tilbage til et kammer, hvor jeg viede mig til Hans tilbedelse.",
+    "Jeg indrømmede over for min Herre, at jeg frygtede for dem, der ville komme efter mig, og bekymrede mig om mit folks vejledning, når jeg først var taget afsted.",
+    "Alderdommen havde overtaget mig – mine knogler var blevet svage, og hvidt hår havde bredt sig over mit hoved.",
+    "Min ægtefælle havde været ufrugtbar hele sit liv, men jeg bad stadig min Herre om at give mig en arving fra hans egen nærhed.",
+    "Jeg bad om et tegn, og min Herre svarede ved at forhindre mig i at tale med nogen i tre nætter, mens jeg forblev fysisk rask.",
+    "Jeg blev lovet en søn, hvis navn skulle være Yahya, et navn som min Herre erklærede aldrig var blevet givet til nogen før."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Zakariyah",
+        "Profeten Nuh",
+        "Profeten Musa",
+        "Profeten Yusuf",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Zakariyah"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "At bede for en arving i alderdommen med en ufrugtbar ægtefælle",
+        "At blive kastet ind i en flammende ild",
+        "At blive slugt af en stor fisk i mørket",
+        "At udholde tabet af familie, rigdom og helbred",
+        "Får befaling om at bygge en stor ark"
+      ],
+      "answer": "At bede for en arving i alderdommen med en ufrugtbar ægtefælle"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Bønnekammeret (mihrab)",
+        "En stav, der forvandlede sig til en slange",
+        "En stor træark",
+        "En have med en unik kilde",
+        "Et bjerg hvor fuglene samledes"
+      ],
+      "answer": "Bønnekammeret (mihrab)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Fik en mirakuløst navngivet søn trods ekstrem alderdom",
+        "Reddet fra en flammende ild ved guddommelig befaling",
+        "En stor oversvømmelse ødelagde de vantro",
+        "Genoprettet til familie, rigdom og sundhed efter tålmodighed",
+        "Farao og hans hær druknede i havet"
+      ],
+      "answer": "Fik en mirakuløst navngivet søn trods ekstrem alderdom"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

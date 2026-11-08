@@ -1,0 +1,61 @@
+{
+  "title": "Ualach Bronntanais Dhiúltaithe",
+  "intro": "I mbreacadh stair an chine dhaonna, nuair a bhí an domhan fós óg agus an chéad anáil á coinneáil ag an domhan, sheas anam os comhair an Chruthaitheora le tairiscint umhal. Meádh an tairiscint sin i meá glactha Dé - agus fuarthas in easnamh í. Ní scéal maithiúnais a bhí ina dhiaidh sin, ach croí a bhí á chaitheamh ag éad, rud a d’fhág go raibh gníomh dochúlaithe ann a bheadh ​​ag macalla ar feadh an ama. Seo scéal duine a raibh a ainm comhchiallach leis an gcéad éagóir thromchúiseach a rinneadh riamh.",
+  "clues": [
+    "Tháinig mé ar an saol mar dhuine de na chéad leanaí riamh a rugadh, rugadh mé do thuismitheoir a bhfuil a scéal ar eolas agat go maith.",
+    "D’ofráil mé íobairt d’Allah uair amháin, ach níor glacadh léi uaimse — cé gur glacadh le híobairt mo dhearthár/deirfiúr le grásta.",
+    "Ghlac éad agus fearg fréamhacha i mo chroí, agus bhagair mé deireadh a chur le saol mo ghaolta féin.",
+    "Thug mo dheartháir nó deirfiúr rabhadh dom eagla a bheith orm faoi Allah, ach ní ligfeadh mo bhród dom éisteacht.",
+    "I nóiméad laige uafásaí, rinne mé gníomh dochreidte ar mo dheartháir féin.",
+    "Ina dhiaidh sin, ní raibh a fhios agam fiú conas a cheilt a raibh déanta agam — go dtí gur seoladh créatúr den talamh chun mé a mhúineadh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Ábal)",
+        "Mac an Fháidh Nuh",
+        "Fáidh Isma'il",
+        "Fáidh Iósaf"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Íobairt a ofráil a diúltaíodh, rud a d’fhág gur tharla an chéad dúnmharú",
+        "Ag tógáil túir ard chun na flaithis a bhaint amach",
+        "A bheith caite i dtine mhór ar son a chreidimh",
+        "Íobairt a mhic féin mar ómós do Allah",
+        "A bheith slogtha ag iasc mór as teitheadh ​​óna dhualgas"
+      ],
+      "answer": "Íobairt a ofráil a diúltaíodh, rud a d’fhág gur tharla an chéad dúnmharú"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Préachán a sheol Allah chun adhlacadh a léiriú",
+        "Tuile mhór a bháigh pobal ar fad",
+        "Sraith a d’iompaigh ina nathair bheo",
+        "Camall baineann a tháinig amach as sliabh carraige",
+        "Ríchathaoir iontach á hiompar ag gaotha cumhachtacha"
+      ],
+      "answer": "Préachán a sheol Allah chun adhlacadh a léiriú"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Tháinig sé chun bheith ina cheann de na daoine aiféalacha, faoi ualach an chéad choir a rinneadh riamh",
+        "Maithiúnas tugtha dó ag Allah agus Parthas síoraí bronnta air",
+        "Ardaíodh go dtí ard-stádas fáistine agus eagna é",
+        "Sábháladh le trócaire Dé é tar éis glaoch amach ó dhoimhneacht an dorchadais.",
+        "Tugadh smacht dó ar na jinn, an ghaoth agus na farraigí"
+      ],
+      "answer": "Tháinig sé chun bheith ina cheann de na daoine aiféalacha, faoi ualach an chéad choir a rinneadh riamh"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

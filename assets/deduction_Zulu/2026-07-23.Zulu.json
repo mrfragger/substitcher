@@ -1,0 +1,61 @@
+{
+  "title": "Ibutho Elahlangatshezwa YiFlying Clay",
+  "intro": "Esikhathini sangaphambi koMprofethi uMuhammad, umbusi onamandla waseYemen waqala umkhankaso wezempi ohlose ukubhubhisa indawo engcwele eMakkah. Lesi sitha sahola ibutho elikhulu elinezindlovu zempi, siqiniseka ngamandla azo kanye nenani lazo. Kodwa-ke, uhambo lwazo lwaluzophela ngokuzumayo njengoba zihlangana nokungenelela kwaphezulu okungalindelekile. Ungabona ukuthi obani ababebhekene nalolu daba olumangalisayo?",
+  "clues": [
+    "Sahamba nebutho elikhulu nezindlovu zempi ezinamandla saya endlini engcwele",
+    "Sasihlose ukugumbuqela nokubhidliza indawo yokukhulekela eyakhiwe yizinceku zoMuntu Onomusa",
+    "Kwathunyelwa umhlambi wezinyoni ezincane kithi, zithwele amatshe obumba emilonyeni nasezinzipho zawo",
+    "Sahlangatshezwa umsindo owasijikijela ngamatshe, wasiguqula saba yizinsalela ezinyathelwe phansi",
+    "Ngangivela ezweni laseYemen futhi ngakhonzwa ngaphansi kombusi owayefuna ukuvakashela indawo engcwele engcwele.",
+    "Senziwe isibonelo salabo abanesibindi sokususa indlu engcwele ka-Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Ibutho lika-Abraha al-Ashram",
+        "Amabutho aseTopiya",
+        "Abanqobi BasePheresiya",
+        "Amabutho aseRoma",
+        "Abahlaseli beBedouin"
+      ],
+      "answer": "Ibutho lika-Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuvinjezelwa kwenqaba yasehlane",
+        "Ukuhlaselwa kwendlu engcwele eMakkah",
+        "Impi yasemanzini olwandle",
+        "Ukuvukela inkosi eyisihluku",
+        "Ukufuna umprofethi olahlekile"
+      ],
+      "answer": "Ukuhlaselwa kwendlu engcwele eMakkah"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isigodi saseMina eduze neMakkah",
+        "Isigodlo saseSana'a eYemen",
+        "Izintaba zaseTihamah",
+        "Umuzi wasendulo waseJerusalema",
+        "Ugu loLwandle Olubomvu"
+      ],
+      "answer": "Isigodi saseMina eduze neMakkah"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukunqoba nokubhujiswa kwendlu engcwele",
+        "Ukunqotshwa yizinyoni eziphethe amatshe obumba",
+        "Ukuzinikela ngokuthula nokuguquka",
+        "Indlala kanye nenhlekelele yemvelo",
+        "Ukubuyela emuva ngenxa yemvula enkulu"
+      ],
+      "answer": "Ukunqotshwa yizinyoni eziphethe amatshe obumba"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

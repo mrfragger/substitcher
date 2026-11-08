@@ -1,0 +1,61 @@
+{
+  "title": "L'âme patiente",
+  "intro": "Dans les annales de la prophétie, il existait une âme dont la patience était inscrite au plus profond de son être. À travers les larmes et le temps, elle s'est accrochée à l'espoir, devenant un exemple intemporel de confiance en la sagesse divine. Saurez-vous percer le mystère de cette figure inébranlable ?",
+  "clues": [
+    "Je suis né dans une famille de prophètes, pourtant ma plus grande épreuve m'est venue de l'enfant que j'aimais le plus.",
+    "J'ai reçu un avertissement de jalousie à travers un rêve partagé par mon fils, et j'ai craint pour sa sécurité.",
+    "Mes yeux se sont embués de chagrin, mais je n'ai jamais perdu foi en la miséricorde d'Allah.",
+    "L'odeur de mon enfant disparu me parvint de loin, et je sus alors que les retrouvailles étaient proches.",
+    "Ma famille s'est inclinée en signe de gratitude lorsque le vœu d'antan s'est réalisé et que ma vue a été rétablie.",
+    "C’est moi qu’on a présenté une chemise tachée de sang, pour ensuite recevoir une chemise qui m’a rendu la vue."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ibrahim",
+        "Prophète Ishaq",
+        "Prophète Yaqub",
+        "Prophète Yusuf",
+        "Prophète Ayyub"
+      ],
+      "answer": "Prophète Yaqub"
+    },
+    "trial": {
+      "label": "Le procès crucial",
+      "options": [
+        "Séparation d'un enfant bien-aimé et perte de la vue",
+        "Être jeté dans un feu ardent",
+        "Être avalé par un grand poisson",
+        "Endurer la perte de biens, d'enfants et de santé",
+        "Trahi par ses frères et jeté dans un puits"
+      ],
+      "answer": "Séparation d'un enfant bien-aimé et perte de la vue"
+    },
+    "location": {
+      "label": "L'objet symbolique",
+      "options": [
+        "Une chemise qui d'abord dissimulait la vérité, puis la révélait.",
+        "Un bâton qui se transforma en serpent",
+        "Une baleine qui a avalé un prophète",
+        "Un feu qui s'est refroidi",
+        "Une paire de sandales au buisson ardent"
+      ],
+      "answer": "Une chemise qui d'abord dissimulait la vérité, puis la révélait."
+    },
+    "outcome": {
+      "label": "La résolution divine",
+      "options": [
+        "Retrouvailles avec un être cher disparu et recouvrement de la vue",
+        "Sauvetage d'une nation d'oppression",
+        "Délivrance du ventre d'un poisson",
+        "Le salut face à un feu dévorant",
+        "L'ascension à un grand trône"
+      ],
+      "answer": "Retrouvailles avec un être cher disparu et recouvrement de la vue"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

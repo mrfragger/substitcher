@@ -1,0 +1,61 @@
+{
+  "title": "Az éber lélek a folyóparton",
+  "intro": "Egy fiatal lélekre titkos küldetést bíztak: biztonságos távolságból figyelje, ahogy a sors kibontakozik a vizeken. Láthatatlanul és gyanútlanul ez a személy kulcsszerepet játszik majd egy nemzet történelmének megváltoztatásában.",
+  "clues": [
+    "Anyámtól kaptam egy feladatot, ami lopakodást és éberséget igényelt.",
+    "Tekintetem egy apró bölcsőt követett, ahogy sodródott az áramlattal, szívem nehéz volt az aggodalomtól.",
+    "Amikor egy váratlan személy megtalálta, aggodalommal teli közeledtem.",
+    "Láttam a kétségbeesett gondnoki vágyukat, és megoldást kínáltam anélkül, hogy felfedtem volna az igazságot.",
+    "Időbeni beavatkozásom egy ápoló lelket hozott vissza ahhoz, akinek a legnagyobb szüksége volt rá.",
+    "A hatalmasok udvarában így szóltam: „Irányítsalak-e egy családhoz, akik táplálják és gondoskodnak róla?”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes húga",
+        "Mózes anyja",
+        "A fáraó felesége",
+        "Egy szülésznő",
+        "Suaib lánya"
+      ],
+      "answer": "Mózes húga"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy gyermek folyóba dobása",
+        "A tenger kettéválása",
+        "A borjú elégetése",
+        "A bárka építése",
+        "A sáskák csapása"
+      ],
+      "answer": "Egy gyermek folyóba dobása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A folyó",
+        "A sivatag",
+        "A hegy",
+        "A palota",
+        "A tűz"
+      ],
+      "answer": "A folyó"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Újra összehozta a gyereket az anyjával",
+        "Megmentette magát a fáraó katonáitól",
+        "Királynő lett belőle",
+        "Megbüntették kémkedésért",
+        "Ő vezette az izraelitákat"
+      ],
+      "answer": "Újra összehozta a gyereket az anyjával"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

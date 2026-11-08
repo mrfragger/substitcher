@@ -1,0 +1,61 @@
+{
+  "title": "L'âme anonyme qui s'est dressée contre une nation injuste",
+  "intro": "Dans les pages du Coran, des figures demeurent tues afin que nous puissions méditer sur leurs enseignements. L'une d'elles naquit au sein d'une nation qui avait rejeté ses messagers, et pourtant, elle possédait une foi secrète qui la distinguait. Face à la menace de destruction, elle resta ferme dans ses convictions. Saurez-vous percer le mystère de cette figure qui avertit son peuple avant le jugement dernier ?",
+  "clues": [
+    "J'ai vécu au milieu d'un peuple qui avait renié à maintes reprises les messagers qu'Allah leur avait envoyés.",
+    "Contrairement à ma nation, j'ai reconnu la vérité lorsqu'un messager est arrivé avec des signes clairs de mon Seigneur.",
+    "J'ai caché ma foi à mes oppresseurs, sachant qu'ils me feraient du mal s'ils découvraient mes croyances.",
+    "Lorsque l'ordre de châtiment s'est approché, j'ai ouvertement déclaré mon allégeance et j'ai averti mon peuple de se sauver.",
+    "Je leur ai rappelé que je suis un messager de confiance, semblable à ceux envoyés avant moi, et qu'ils ne doivent adorer qu'Allah.",
+    "Mon peuple m'a accusé de sorcellerie et de folie, pourtant le châtiment dont on les avait avertis a fini par les atteindre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Hud, messager auprès du peuple d'Aad",
+        "Un croyant de la nation du prophète Hud, qui a été martyrisé",
+        "Le souverain du peuple d'Aad qui a rejeté la vérité",
+        "Un compagnon du prophète Salih qui doutait des signes divins",
+        "Un ange envoyé pour détruire le peuple d'Aad"
+      ],
+      "answer": "Un croyant de la nation du prophète Hud, qui a été martyrisé"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "L'épreuve de la sécheresse et de la famine qui a mis leur patience à l'épreuve",
+        "L'épreuve de déclarer sa foi devant une nation incrédule et oppressive",
+        "L'épreuve de la construction d'un navire pour échapper à une grande inondation",
+        "L'épreuve d'être jeté dans le feu pour avoir cru en Allah",
+        "L'épreuve d'être mis à l'épreuve par la richesse et la prospérité"
+      ],
+      "answer": "L'épreuve de déclarer sa foi devant une nation incrédule et oppressive"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La ville de La Mecque où fut construite la maison sainte",
+        "Les plaines désertiques de la nation qui a renié son messager",
+        "Les montagnes de Madian où le prophète Shu'aib fut envoyé",
+        "La rive du Nil en Égypte où fut découvert le prophète Moïse",
+        "La vallée du peuple d'Aad, frappée par un vent violent"
+      ],
+      "answer": "Les plaines désertiques de la nation qui a renié son messager"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "J'ai été sauvé sur un navire et j'ai vécu jusqu'à ce qu'Allah le veuille.",
+        "Mon peuple a cru en moi et a été guidé sur le droit chemin.",
+        "J'ai été tué par les miens, mais mon âme a été recueillie par la miséricorde d'Allah.",
+        "Après avoir été mis à l'épreuve, je me suis repenti et Allah a accepté mon repentir.",
+        "Après ma mort, je suis devenu une idole vénérée par mon peuple."
+      ],
+      "answer": "J'ai été tué par les miens, mais mon âme a été recueillie par la miséricorde d'Allah."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

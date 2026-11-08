@@ -1,0 +1,61 @@
+{
+  "title": "Te Oati a te Mea Kāore anō kia Whānau",
+  "intro": "I mua i te taenga mai o tētahi tamaiti, i oati te wairua pono i tētahi kupu tapu. Kei roto i ngā pakitara o tētahi wāhi tapu te kōrero mō tēnei tangata, te wāhi e tūtaki ai te aroha ki te manako o te Atua. Ko wai tēnei pononga a Allah?",
+  "clues": [
+    "Nō tētahi whānau ahau i whakanuia i roto i te Quran.",
+    "I oati ahau ki te whakatapua i taku tamaiti kāore anō kia whānau ki te mahi ki a Allah.",
+    "I taku whānautanga, i miharo ahau i te kitenga he tamāhine, ahakoa i tumanako ahau he tama.",
+    "I tapaina e au tāku tamaiti ko Meriama, he ingoa e whakaatu ana i te aroha me te mahi.",
+    "I rapu ahau i te tiaki a Allah mō taku tamaiti me āna uri i te rewera kua kanga.",
+    "I manakohia taku tamaiti e te Ariki, ā, i tukuna ki raro i te tiaki a te Poropiti, a Hakaraia, i roto i te whare tapu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te wahine a Imran (Whaea o Meriama)",
+        "Asiya, te wahine a Parao",
+        "Ko Meriama, te whaea o Īha",
+        "Te whaea o te Poropiti a Mohi",
+        "Te Kuīni o Sheba"
+      ],
+      "answer": "Te wahine a Imran (Whaea o Meriama)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te oati ki te whakatapua i tana tamaiti ki te temepara",
+        "Te maka ki roto i te ahi",
+        "Te whiti i te moana i runga i te whenua maroke",
+        "Te hanga i tētahi āka nui",
+        "Te horomia e te ika nui"
+      ],
+      "answer": "Te oati ki te whakatapua i tana tamaiti ki te temepara"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te wāhi tapu (mihrab) i whakatakotoria ai tana tamaiti",
+        "Te aaka o te kawenata",
+        "Te kuao kau koura",
+        "Te tokotoko i huri hei nakahi",
+        "Te nikau tāte i okioki ai ia"
+      ],
+      "answer": "Te wāhi tapu (mihrab) i whakatakotoria ai tana tamaiti"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaaetia tana tamaiti, ā, i tukuna ki raro i te tiaki a te Poropiti, a Hakaraia.",
+        "I whakaorangia ia i te whiu a te kaitukino",
+        "I whānau mai he tama ki a ia, ko Yahya tōna ingoa",
+        "I whakangaromia tōna iwi e te tupuhi",
+        "I noho ia hei kuini mō tētahi rangatiratanga nui"
+      ],
+      "answer": "I whakaaetia tana tamaiti, ā, i tukuna ki raro i te tiaki a te Poropiti, a Hakaraia."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

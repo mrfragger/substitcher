@@ -1,0 +1,61 @@
+{
+  "title": "A presa que rompeu un reino",
+  "intro": "Unha terra de ríos caudalosos, dous xardíns verdes e unha prosperidade sen igual, pero os seus habitantes descoñeceron a Aquel que os bendiciu. Cando chegaron os recordatorios chamándoos de volta, deron a volta. O que seguiu foi un castigo que aínda resoa como unha advertencia. Quen era esta antiga comunidade?",
+  "clues": [
+    "Vivíamos nunha terra tan bendicida que o noso fogar estaba entre dous xardíns frondosos.",
+    "Gozabamos dos ríos que corrían polas nosas terras e das abundantes colleitas que enchían os nosos fogares.",
+    "Con todo, cando fomos chamados á gratitude e á obediencia ao noso Señor, afastámonos con orgullo.",
+    "A nosa riqueza e facilidade fixéronnos esquecer Aquel que nolo concedera todo.",
+    "Entón chegou un torrente repentino que rompeu a gran barreira na que confiáramos.",
+    "Somos o pobo de Saba', cuxa terra era coñecida pola gran presa de Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Xente de Saba",
+        "Xente da trincheira",
+        "Compañeiros do Pozo",
+        "Xente de Tubba'",
+        "Xente de Madián"
+      ],
+      "answer": "Xente de Saba"
+    },
+    "trial": {
+      "label": "A nosa caída",
+      "options": [
+        "Inundación por rotura dunha presa",
+        "Un vento violento do ceo",
+        "Ardendo nunha trincheira de lume",
+        "Un terremoto masivo",
+        "Afogándose nunha gran inundación"
+      ],
+      "answer": "Inundación por rotura dunha presa"
+    },
+    "location": {
+      "label": "Localización clave",
+      "options": [
+        "A presa de Ma'rib",
+        "Monte Sinaí",
+        "A Cova dos Sete Durmientes",
+        "A Sarza Ardente",
+        "A división do mar"
+      ],
+      "answer": "A presa de Ma'rib"
+    },
+    "outcome": {
+      "label": "O noso destino",
+      "options": [
+        "Dous xardíns amargos substituíron os nosos exuberantes",
+        "Os nosos xardíns fixéronse aínda máis exuberantes",
+        "A terra afundiuse baixo o mar",
+        "Fomos enterrados en cinza volcánica",
+        "A nosa nación dividiuse en doce tribos"
+      ],
+      "answer": "Dous xardíns amargos substituíron os nosos exuberantes"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

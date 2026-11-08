@@ -1,0 +1,61 @@
+{
+  "title": "Tiếng nói từ vùng ngoại ô",
+  "intro": "Bạn đứng giữa một thành phố nơi ba sứ giả đến với những dấu hiệu rõ ràng, nhưng người dân lại chế giễu họ và bám víu vào lối sống cũ. Từ nơi xa xôi nhất của thành phố, một bóng người lao về phía đám đông, thở hổn hển nhưng đầy quyết tâm, để nói lên sự thật bất chấp sự phản đối. Người đàn ông này là ai mà dám liều lĩnh tất cả vì một thông điệp không phải của riêng mình?",
+  "clues": [
+    "Tôi sống giữa một dân tộc đã nhận được những sứ giả mang đến những dấu hiệu rõ ràng, nhưng họ lại quay lưng đi trong sự kiêu ngạo.",
+    "Tôi chạy từ nơi xa nhất của thành phố đến khi nghe thấy tiếng gọi của những người đưa tin.",
+    "Tôi nói với dân ta rằng: 'Hỡi dân ta, hãy đi theo các sứ giả. Hãy đi theo những người không đòi hỏi phần thưởng nào từ các ngươi, vì họ được hướng dẫn đúng đường.'",
+    "Tôi không phải là nhà tiên tri, nhưng tôi tin tưởng vào các sứ giả và khuyên người dân của mình cũng làm như vậy.",
+    "Người dân của tôi đã chế giễu lời khuyên của tôi và buộc tội tôi là người cực đoan.",
+    "Khi họ giết tôi, Allah bảo tôi được vào Thiên đường, và tôi ước người dân của tôi có thể biết được sự tha thứ và vinh dự mà tôi đã nhận được."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người đàn ông đến từ vùng xa nhất của thành phố (Ya-Sin)",
+        "Một trong ba sứ giả được phái đến thành phố.",
+        "Một thương gia nổi tiếng của thành phố",
+        "Một người cai trị thành phố",
+        "Người lãnh đạo của những kẻ không tin"
+      ],
+      "answer": "Người đàn ông đến từ vùng xa nhất của thành phố (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Ông thuyết giảng cho dân chúng hãy tuân theo các sứ giả.",
+        "Xây dựng một con tàu để cứu những người tin Chúa khỏi trận lụt",
+        "Bị ném vào lửa vì đức tin",
+        "Bị cá voi nuốt chửng",
+        "Được ban cho một vương quốc và sự khôn ngoan."
+      ],
+      "answer": "Ông thuyết giảng cho dân chúng hãy tuân theo các sứ giả."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Phần xa nhất của thành phố",
+        "Con tàu Noah",
+        "Giếng",
+        "Bụi cây bốc cháy",
+        "Hang động"
+      ],
+      "answer": "Phần xa nhất của thành phố"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Ông đã vào Thiên đường và ước ao người dân của mình có thể biết được sự tha thứ của ông.",
+        "Ông ta chết đuối cùng với người dân của mình vì đã từ chối thông điệp.",
+        "Đã được ban cho phép màu về con lạc đà cái.",
+        "Ông ta trở thành người cai trị sau phiên tòa xét xử.",
+        "Được Allah cứu sống và ở lại với dân tộc mình."
+      ],
+      "answer": "Ông đã vào Thiên đường và ước ao người dân của mình có thể biết được sự tha thứ của ông."
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

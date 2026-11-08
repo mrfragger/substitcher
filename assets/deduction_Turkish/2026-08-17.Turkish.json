@@ -1,0 +1,61 @@
+{
+  "title": "Kıyıdaki İhlal",
+  "intro": "Unutulmuş bir kıyının kumlarında duruyorsunuz; dalgalar, ilahi bir emirle sınanan bir topluluğun fısıltılarını taşıyor. Hava, şaşırtıcı bir dönüşüme yol açan bir ihlalin hatırasıyla ağırlaşmış durumda. Bu ruhlar kimdi ve sınanmalarının niteliği neydi?",
+  "clues": [
+    "Biz, Rabbimizden açık bir emir almış bir topluluktuk, yine de ona karşı gelmenin yollarını bulduk.",
+    "Su kenarında yaşıyorduk ve geçimimiz oradaki canlılara bağlıydı.",
+    "Dünyevi uğraşlardan uzak durmamız emredildiği gün, önümüze bir imtihan geldi.",
+    "O gün su canlıları büyük sayılarla bize doğru geldiler ve bizi dayanılmaz bir şekilde cezbetmeye çalıştılar.",
+    "İlahi emri alt üst edebileceğimizi düşünerek kurnazca bir hileye başvurduk.",
+    "İşlediğimiz günah, aşağılayıcı bir dönüşüme yol açtı; Allah'ın emriyle hor görülen maymunlar olduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Şabat Halkı",
+        "Rass Halkı",
+        "Tubba Halkı",
+        "Mağara Halkı",
+        "Hendek Yoldaşları"
+      ],
+      "answer": "Şabat Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Şabat günü balıkların görünmesi",
+        "Şiddetli kuraklığın yaşandığı bir yıl.",
+        "Onlara karşı gönderilen bir kuş ordusu",
+        "Onları altüst eden bir sel",
+        "Şiddetli bir deprem"
+      ],
+      "answer": "Şabat günü balıkların görünmesi"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "deniz",
+        "Bir dağ",
+        "Bir mağara",
+        "Bir çöl vadisi",
+        "Bir surla çevrili şehir"
+      ],
+      "answer": "deniz"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Maymunlara dönüştüler",
+        "Toprak tarafından yutuldu",
+        "Uğultulu bir rüzgar tarafından yerle bir edildi",
+        "Denizde boğuldu",
+        "Bir taş yağmuruna yakalandı"
+      ],
+      "answer": "Maymunlara dönüştüler"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

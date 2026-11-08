@@ -1,0 +1,61 @@
+{
+  "title": "Jaribio la Mwamba Tasa",
+  "intro": "Jumuiya, wenye ujuzi na fahari, ilichonga urithi wao katika milima yenyewe. Lakini ishara iliyo wazi ilipotumwa kwao, mtihani wa imani na kujizuia, kiburi chao kiliwaongoza kwenye njia isiyoweza kurudi. Je, unaweza kutambua kundi hili na matokeo ya uasi wao?",
+  "clues": [
+    "Tulikuwa mafundi wa mawe, tukichonga nyumba nzuri sana moja kwa moja kwenye vilima.",
+    "Mjumbe kutoka miongoni mwa watu wetu alikuja kwetu, akituita tumwabudu Mungu Mmoja wa Kweli.",
+    "Tulidai ishara ili kuthibitisha maneno yake, na kiumbe wa kipekee akaletwa kama mtihani kwetu.",
+    "Tulipewa amri rahisi: kushiriki chanzo chetu cha maji na kiumbe huyu, tukimruhusu anywe siku yake iliyopangwa.",
+    "Katika kiburi chetu, wachache miongoni mwetu walikula njama na tukakataa onyo hilo, tukimpiga chini kiumbe aliyekusudiwa kuwa ishara yetu.",
+    "Tulipewa siku tatu kabla ya maangamizi yetu, na kisha mlipuko mkubwa ukatupata majumbani mwetu, na kutuacha bila uhai na kupinduliwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Watu wa 'Ad",
+        "Watu wa Madyan",
+        "Watu wa Thamud",
+        "Watu wa Saba",
+        "Watu wa Lut"
+      ],
+      "answer": "Watu wa Thamud"
+    },
+    "trial": {
+      "label": "Mtihani Wetu Mkuu Ulikuwa Upi?",
+      "options": [
+        "Kujenga safina ili kuokoka gharika",
+        "Kupinga hamu ya kuvua samaki siku ya Sabato",
+        "Kuacha mazoea ya biashara ya ulaghai",
+        "Kulinda ngamia jike wa kimiujiza",
+        "Kuvumilia njaa ya miaka saba"
+      ],
+      "answer": "Kulinda ngamia jike wa kimiujiza"
+    },
+    "location": {
+      "label": "Ni Kipengele Kipi Kilichokuwa Kikubwa Katika Hadithi Yetu?",
+      "options": [
+        "Ndama wa Dhahabu",
+        "Ngamia-Jike",
+        "Fimbo ya Nabii Musa",
+        "Bwawa Kubwa la Ma'rib",
+        "Meza Iliyopangwa Kutoka Mbinguni"
+      ],
+      "answer": "Ngamia-Jike"
+    },
+    "outcome": {
+      "label": "Hatima Yetu ya Mwisho Ilikuwa Nini?",
+      "options": [
+        "Kuzama katika gharika kubwa",
+        "Aligeuka kuwa nyani na nguruwe",
+        "Kuzidiwa na upepo mkali",
+        "Imetawanywa na kupasuka kwa bwawa",
+        "Kuharibiwa na mlipuko mkubwa/tetemeko la ardhi"
+      ],
+      "answer": "Kuharibiwa na mlipuko mkubwa/tetemeko la ardhi"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

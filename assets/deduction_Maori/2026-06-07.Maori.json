@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Mamae o te Naera",
+  "intro": "I te wā o te tukino nui, i te wā i whakahaerea ai te whenua e te kaitukino me te nanakia rawa, kotahi te wairua i whiriwhiri i te ara o te whakapono, kaua te whakamarie o te rangatiratanga. I noho tēnei tangata i roto i te ngākau o te mana, engari i kitea te pono i roto i te karere a te poropiti whakaiti. Ka waiho tā rātou haerenga hei akoranga mutunga kore mō te manawanui, te patunga tapu, me te whakapono pumau. Ka taea e koe te tautuhi i tēnei tangata whakamiharo i pai ake ki te ahuareka o te Atua i te mana o te ao?",
+  "clues": [
+    "I noho ahau i roto i te whare rangatira nui, heoi i kitea e tōku ngākau te pono i roto i tētahi karere whakaiti.",
+    "I whiriwhiria e au te whai i ngā tohutohu a Mōsa, me te mōhio ki ngā hua ka pā ki ahau.",
+    "I marenatia ahau ki te rangatira whakakeke tino kaha o tōku wā, heoi i whakakahoretia e ahau ana atua teka.",
+    "Nui atu te mamae i pā mai ki ahau, i whiua hoki ahau mō taku whakapono ki te Atua Kotahi.",
+    "Kāore au i ruarua i roto i tōku whakapono, ahakoa te wā i pāngia ai ahau e te whakamamae tino kino.",
+    "I koa tōku Ariki ki tōku manawanui, ā, i whiriwhiria ahau e ia mō tētahi wāhi honore i Pararaiha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te whaea o te Poropiti a Mohi",
+        "Te wahine a Parao",
+        "Te tuahine o te Poropiti a Mohi",
+        "He kuini o Īhipa onamata",
+        "He pononga nā ngā Iharaira"
+      ],
+      "answer": "Te wahine a Parao"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whawhai i te ara o Allah me te ope taua",
+        "Te tū atu ki a Parao me te whakapuaki i te whakapono",
+        "Te hanga i ngā whare karakia i Ihipa",
+        "Te haereere i te moana me Musa",
+        "Te whiwhi whakakitenga mai i a Allah"
+      ],
+      "answer": "Te tū atu ki a Parao me te whakapuaki i te whakapono"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te koraha o Miriana",
+        "Te whare kingi o Ihipa",
+        "Ngā tahataha o te awa o Nile",
+        "Maunga Hinai",
+        "Te whenua o Kanaana"
+      ],
+      "answer": "Te whare kingi o Ihipa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I muri i ngā tau maha, ka noho hei poropiti",
+        "I arahina e ia ngā Iharaira i waho i Ihipa",
+        "I whakawhiwhia ki te mana motuhake mō Īhipa",
+        "I whakamatea, ā, i whakahonoretia e Allah",
+        "I noho pai, ā tae noa ki te kaumātuatanga"
+      ],
+      "answer": "I whakamatea, ā, i whakahonoretia e Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

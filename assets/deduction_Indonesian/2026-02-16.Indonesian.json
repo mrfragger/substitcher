@@ -1,0 +1,61 @@
+{
+  "title": "Klaim Otoritas Mutlak",
+  "intro": "Di zaman kuno, seorang individu yang berkuasa naik ke tampuk kekuasaan atas wilayah yang luas dan penduduknya. Pemerintahan tokoh ini ditandai dengan kebanggaan yang luar biasa dan tantangan yang mendalam terhadap otoritas ilahi. Bersiaplah untuk mengungkap identitas jiwa yang nasib akhirnya menjadi pelajaran abadi bagi semua generasi.",
+  "clues": [
+    "Aku memegang kekuasaan atas sebuah kerajaan yang perkasa, di mana perkataanku adalah hukum.",
+    "Aku menyatakan diriku sebagai dewa tertinggi, menuntut penyembahan dari semua yang berada di bawah kekuasaanku.",
+    "Saya menindas komunitas tertentu, memperbudak mereka dan memerintahkan pembunuhan bayi laki-laki mereka.",
+    "Aku berulang kali dihadapkan oleh seorang utusan Tuhan yang rendah hati, yang melakukan mukjizat nyata di hadapanku dan para ahli sihirku.",
+    "Aku dengan keras kepala menolak kebenaran, menuduh utusan itu melakukan sihir dan bersekongkol untuk menghancurkannya dan para pengikutnya.",
+    "Seluruh pasukan saya dan saya ditelan oleh laut saat kami tanpa henti mengejar mereka yang telah dibebaskan dari cengkeraman saya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Banjir Besar",
+        "Api yang Berkobar",
+        "Tenggelamnya Sang Penindas",
+        "Kehancuran oleh Angin",
+        "Gempa Ketidakpercayaan"
+      ],
+      "answer": "Tenggelamnya Sang Penindas"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Bahtera Nuh",
+        "Tongkat Musa",
+        "Patung Emas",
+        "Sumur Zamzam",
+        "Takhta Bilqis"
+      ],
+      "answer": "Tongkat Musa"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diberikan kerajaan yang luas",
+        "Tubuh diawetkan sebagai tanda",
+        "Diampuni setelah bertobat",
+        "Diangkat menjadi nabi",
+        "Umatnya menjadi saleh"
+      ],
+      "answer": "Tubuh diawetkan sebagai tanda"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

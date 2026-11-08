@@ -1,0 +1,61 @@
+{
+  "title": "Atbalss caur klintīm",
+  "intro": "Iedomājieties ieleju, kur mājokļi ir izcirsti klintīs, un gaiss nes atmiņas par neievērotu brīdinājumu. Kādreiz šeit uzplauka tauta, svētīta, bet nepaklausīga, līdz no pašas klints, kurai viņi uzticējās, parādījās zīme.",
+  "clues": [
+    "Mēs bijām tauta, kas kalnos izcirta drošas mājas, jūtoties droši savās akmeņainajās mājvietās.",
+    "Mēs dzīvojām līdzenumu un akmeņu zemē, svētītā ar dārziem un avotiem.",
+    "No mūsu vidus atnāca vēstnesis, aicinot mūs atteikties no saviem viltus dieviem un pielūgt Vienīgo patieso Radītāju.",
+    "Mēs augstprātīgi izvirzījām ticības nosacījumu: unikālu zīmi, kas parādītos no pašiem mūsu izgrebtajiem akmeņiem.",
+    "Kad no klints parādījās apsolītā kamieļu mātīte, kas bija skaidra zīme, mūsu elite tomēr atteicās un pārgrieza tai šķipsnas, neskatoties uz brīdinājumu par gaidāmo likteni.",
+    "Trīs dienas pēc mūsu bojāejas ielejā atbalsojās spēcīgs pērkona dārds, un mēs bijām pārvērtušies par sabrukušām drupām, mūsu mājas par mūsu kapiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Adas iedzīvotāji",
+        "Tamudas ļaudis",
+        "Madjanas iedzīvotāji",
+        "Birzs ļaudis",
+        "Alas ļaudis"
+      ],
+      "answer": "Tamudas ļaudis"
+    },
+    "trial": {
+      "label": "Mūsu izmēģinājuma/galvenais notikums",
+      "options": [
+        "Allāha kamieļa cīpslas sastiepums",
+        "Zelta teļa pielūgšana",
+        "Sabata laušana",
+        "Torņa celtniecība debesīs",
+        "Praviešu nogalināšana"
+      ],
+      "answer": "Allāha kamieļa cīpslas sastiepums"
+    },
+    "location": {
+      "label": "Galvenais elements mūsu stāstā",
+      "options": [
+        "Allāha kamielis",
+        "Musas personāls",
+        "Nū šķirsts",
+        "Musas baltā roka",
+        "¿Isas putns"
+      ],
+      "answer": "Allāha kamielis"
+    },
+    "outcome": {
+      "label": "Mūsu rezultāts",
+      "options": [
+        "Iznīcināšana ar apdullinošu sprādzienu",
+        "Akmeņu lietus no debesīm",
+        "Plūdi, kas pārklāja zemi",
+        "Spēcīgs vējš, kas mūs izrāva no zemes",
+        "Zeme mūs aprij"
+      ],
+      "answer": "Iznīcināšana ar apdullinošu sprādzienu"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

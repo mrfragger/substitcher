@@ -1,0 +1,61 @@
+{
+  "title": "Tron Prawdy",
+  "intro": "Potężny władca, znany z wielkiej mądrości i wspaniałego tronu, otrzymuje tajemniczą wiadomość z nieznanego źródła. Ta nieoczekiwana wiadomość podważa jego przekonania i autorytet, stawiając go w dyplomatycznej podróży, która wystawi na próbę jego intelekt i ostatecznie doprowadzi do głębokiego duchowego przebudzenia. Czy potrafisz odkryć tożsamość tego władcy i wydarzenia, które odmieniły całe jego królestwo?",
+  "clues": [
+    "Ja i mój lud czciliśmy słońce, podążając śladami naszych przodków.",
+    "Ptak, dudek, okazał się nieoczekiwanym posłańcem, który przyniósł mi list od potężnego przywódcy.",
+    "Aby sprawdzić mądrość nadawcy, wysłałem mu cenne podarunki, ale zostały one zwrócone, ponieważ nadawca otrzymał od Allaha o wiele większe bogactwo.",
+    "Jeszcze zanim dotarłem na dwór nadawcy, mój wspaniały tron ​​w mgnieniu oka został tam cudownie przeniesiony.",
+    "Po przybyciu na miejsce zapytano mnie, czy przeniesiony tron ​​jest mój, a ja odpowiedziałem: „To tak, jakby to był ten sam tron”.",
+    "Wszedłem do wielkiej sali, której podłogę wziąłem za zbiornik wodny, i w chwili zachwytu poddałem się wraz z prorokiem Salomonem Allahowi, Panu światów."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Królowa Saby",
+        "Zulaikha (Żona Al-Aziza)",
+        "Asiya (żona faraona)",
+        "Matka Musy",
+        "Maryam (Matka Isy)"
+      ],
+      "answer": "Królowa Saby"
+    },
+    "trial": {
+      "label": "Wydarzenie centralne",
+      "options": [
+        "Otrzymanie listu od proroka Sulejmana",
+        "Wrzucenie do ognia",
+        "Budowa arki, aby przetrwać potop",
+        "Rozstąpienie Morza Czerwonego",
+        "Oskarżony o nieskromność"
+      ],
+      "answer": "Otrzymanie listu od proroka Sulejmana"
+    },
+    "location": {
+      "label": "Kluczowy obiekt",
+      "options": [
+        "Wspaniały tron",
+        "Złoty cielec",
+        "Płaszcz w wielu kolorach",
+        "Laska, która zamieniła się w węża",
+        "Statek z desek i gwoździ"
+      ],
+      "answer": "Wspaniały tron"
+    },
+    "outcome": {
+      "label": "Ostateczny wynik",
+      "options": [
+        "Poddanie się jedynemu prawdziwemu Bogu (Allahowi)",
+        "Zmienić się w słup soli",
+        "Zbudowanie wysokiej wieży, aby dotrzeć do Boga",
+        "Być połkniętym przez wielką rybę",
+        "Utrata ogromnego bogactwa jako kara"
+      ],
+      "answer": "Poddanie się jedynemu prawdziwemu Bogu (Allahowi)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

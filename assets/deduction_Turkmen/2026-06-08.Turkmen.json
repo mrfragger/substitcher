@@ -1,0 +1,61 @@
+{
+  "title": "Mukaddes ýeriň dilegçisi",
+  "intro": "Gijäniň asuda sagatlarynda, mukaddes ýeriň mukaddes diwarlarynyň içinde wepaly bir jan Rehmana ýüzlendi. Ýyllarboýy sarsmaz ynam we sabyrlylyk şatlyk we pygamberlik mirasyny getirjek gudrat bilen sylaglanjakdy.",
+  "clues": [
+    "Men gündizlerimi we gijälerimi mukaddes ýerde ybadat bilen geçirdim, Rebbime yzygiderli ýalbardym.",
+    "Men garradym, aýalym bolsa çaga dogurmady, ýöne men hiç haçan Allanyň rehiminden umydymy üzmedim.",
+    "Maňa Ýahýa atly bir ogul berildi, ol pygamber we dogrulygyň çyragy boldy.",
+    "Men özüm hem Ysraýyl ogullaryna ýol görkezmek üçin iberilen pygamberdim.",
+    "Men Harun pygamberiň neslindendim we Ybadathanada ruhany bolup hyzmat etdim.",
+    "Maňa Isanyň ejesi Merýemiň idegi ynanyldy we onuň gudratlaryna şaýat boldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Zekeriýa pygamber",
+        "Ýahýa pygamber",
+        "Ylýas pygamber",
+        "Yshak pygamber",
+        "Ýakup pygamber"
+      ],
+      "answer": "Zekeriýa pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Garrylykda ogul bagyş etdi",
+        "Ýanýan otdan halas boldy",
+        "Balygyň garnyndan halas edildi",
+        "Uly sil suwundan aman galdy",
+        "Agyr keselden sagaldy"
+      ],
+      "answer": "Garrylykda ogul bagyş etdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Mihrab (namaz ojagy)",
+        "Käbe",
+        "Ýanýan Çala",
+        "Äht sandyk",
+        "Ýedi Uklap Ýatanlaryň Magara"
+      ],
+      "answer": "Mihrab (namaz ojagy)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Pygamber bolan salyh ogul berildi",
+        "Güýçli tupandan weýran boldy",
+        "Deňizde gark boldy",
+        "Ýanmakdan halas boldy",
+        "Balykdan halas bolandan soň, öz halkyna gaýdyp geldiler"
+      ],
+      "answer": "Pygamber bolan salyh ogul berildi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

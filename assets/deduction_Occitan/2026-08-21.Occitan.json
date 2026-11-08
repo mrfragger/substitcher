@@ -1,0 +1,61 @@
+{
+  "title": "L'ombra darrièr lo tròn",
+  "intro": "Sètz dins las corts d'un poderós reialme ancian, ont un governant poderós s'es proclamat coma un dieu sus tot lo pòble. A costat d'aquel sobeiran se tròba un servicial devot, confiat de las mai grandas ambicions del reialme. Ensems, complòtan e planifican, en refusant d'escotar los avertiments d'un messatgièr mandat per los guidar. Podètz descobrir qual èra aquel servicial leial?",
+  "clues": [
+    "Visquèri dins un reialme poderós governat per una figura poderosa que revendicava la divinitat sus totes los pòbles.",
+    "Serviguèri coma ministre de fisança d'aquel sobeiran, en menant a tèrme tota lor ambicion e comandament.",
+    "Quand un messatgièr d'Allah venguèt sus nòstra tèrra en nos cridant a la vertat, mon governant e ieu refusèrem d'escotar.",
+    "Foguèri comandat d'alucar un grand fuòc e de preparar de bricas d'argila per una granda construccion.",
+    "Mon regent voliá erigir una estructura imponenta tan nauta qu'arribariá als quites cèls.",
+    "A la fin, mon regent, nòstras armadas, e ieu foguèrem escombrats e afogats dins las prigondors de la mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Aman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Bastir una torre per aténher los cèls",
+        "Èsser getat dins un fuòc ardent",
+        "Desvelhar un pòble de l'adoracion de las idòlas de pèira",
+        "Fendir la luna coma un signe divin",
+        "Conquistar una vila poderosa per comandament divin"
+      ],
+      "answer": "Bastir una torre per aténher los cèls"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una torre de bricas d'argila cuèchas",
+        "Un ventre de balena",
+        "Una font sacrada dins lo desèrt",
+        "Un arbust ardent sus una montanha santa",
+        "Una arca portant una familha causida"
+      ],
+      "answer": "Una torre de bricas d'argila cuèchas"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Afogat dins las prigondors de la mar",
+        "Levat en seguretat dins un palais magnific",
+        "Salvat del ventre d'un grand peis",
+        "Honrat ab regne e ab sapiencia divinal .",
+        "Convertit en posca per un crit traucaire"
+      ],
+      "answer": "Afogat dins las prigondors de la mar"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

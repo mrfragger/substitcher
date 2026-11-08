@@ -1,0 +1,61 @@
+{
+  "title": "Bustani za Ustawi Zinazofifia",
+  "intro": "Katika nchi iliyobarikiwa kwa wingi wa neema, jamii ilistawi, ikiishi katikati ya ishara za neema ya Mungu. Ustawi wao ulikuwa ushuhuda wa neema ya Mola wao, zawadi iliyokusudiwa kuhamasisha shukrani na utii. Hata hivyo, licha ya dalili dhahiri za baraka zao, hatua ya mabadiliko ilifika, ikipinga uthamini wao kwa chanzo cha utajiri wao mkubwa na faraja.",
+  "clues": [
+    "Tulibarikiwa na bustani mbili, moja upande wa kulia na nyingine upande wa kushoto, zikiwa na mazao mengi.",
+    "Tuliamriwa kula riziki ya Mola wetu na kumshukuru kwa ardhi nzuri na Mola mwenye kusamehe.",
+    "Tulijivuna na kuiacha njia ya shukrani, tukijisifu kwa utajiri na mamlaka yetu.",
+    "Tulidai kwamba Mola wetu aongeze umbali kati ya safari zetu, tukionyesha dharau kwa urahisi alioutoa.",
+    "Tulionywa na mjumbe, lakini tulikataa ujumbe huo na tukaendelea na kutojali kwetu.",
+    "Bwawa letu kubwa, ambalo lilidumisha ustawi wetu, hatimaye lilivunjika, na kusababisha mafuriko makubwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Thamud",
+        "Watu wa Midiani",
+        "Watu wa 'Aad",
+        "Watu wa Lut",
+        "Watu wa Saba"
+      ],
+      "answer": "Watu wa Saba"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Njaa na ukame",
+        "Uvamizi wa jeshi lenye nguvu",
+        "Tetemeko la ardhi lenye uharibifu mkubwa",
+        "Mafuriko yenye uharibifu kutoka kwa bwawa lililovunjika",
+        "Ukandamizaji kutoka kwa mtawala dhalimu"
+      ],
+      "answer": "Mafuriko yenye uharibifu kutoka kwa bwawa lililovunjika"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa dhahabu",
+        "Ngamia jike wa kimiujiza",
+        "Bwawa kubwa",
+        "Jengo refu",
+        "Kisima kirefu"
+      ],
+      "answer": "Bwawa kubwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Tulibadilishwa kuwa nyani na nguruwe",
+        "Tuliokolewa na kuhamia nchi mpya",
+        "Tulitawanyika na nchi yetu ikawa tasa",
+        "Tulipanda mbinguni",
+        "Tulijenga ufalme mpya na wenye mafanikio zaidi"
+      ],
+      "answer": "Tulitawanyika na nchi yetu ikawa tasa"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

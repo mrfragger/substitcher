@@ -1,0 +1,61 @@
+{
+  "title": "Déi isoléiert Réckzuch",
+  "intro": "An den Annalen vun der göttlecher Gunst gëtt et eng Séil vun onvergläichlecher Rengheet, déi vun hirem Vollek ofgesot ass, fir d'Eenheet an enger helleger Richtung ze sichen. Si woussten net, datt dës Ofsonderung e Zeechen fir all Welte brénge géif, eng Glaawensprüfung, vun där fir d'Éiwegkeet geschwat géif ginn.",
+  "clues": [
+    "Ech war virun menger Gebuert engem Liewen am Déngscht gewidmet.",
+    "Ech gouf ënner d'Vormundschaft vun engem noblen Prophet gestallt.",
+    "Ech gouf mat Versuergung vun Allah ënnerstëtzt, déi mäi Bewaacher erstaunt hunn.",
+    "Ech hunn mech vu menger Famill zréckgezunn an hunn mech op eng Plaz am Osten zréckgezunn.",
+    "En Engel ass mir a Gestalt vun engem perfekte Mann erschéngen an huet d'Noriicht vun engem reinen Jong bruecht.",
+    "Wéi ech mat mengem Neigebuerene zréckkoum, hunn meng Leit mech virgeworf, awer de Puppelchen huet sech zu menger Verteidegung verdeedegt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Maryam (Maria)",
+        "Asiyah (Fra vum Pharao)",
+        "Hajar (Mamm vum Ismail)",
+        "Sarah (Fra vum Ibrahim)",
+        "D'Mamm vum Musa"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Wonnerbar Empfängnis a Gebuert vun engem Jong",
+        "An e Feier gehäit ginn",
+        "Vun engem risege Fësch verschléckt ginn",
+        "Eng grouss Ark bauen",
+        "D'Mier iwwerquéieren"
+      ],
+      "answer": "Wonnerbar Empfängnis a Gebuert vun engem Jong"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng ofgeleeën Plaz am Osten",
+        "De brennende Busch",
+        "D'Rout Mier",
+        "De Fiels, aus deem Waasser gesprongen ass",
+        "De Wal"
+      ],
+      "answer": "Eng ofgeleeën Plaz am Osten"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "E Puppelchen huet sech zur Verdeedegung vun enger Mamm ausgeschwat",
+        "D'Mier gouf gedeelt",
+        "D'Feier ass kill a sécher ginn",
+        "De Wal huet sech op d'Ufer gekotzt",
+        "D'Ark ass op engem Bierg gelant"
+      ],
+      "answer": "E Puppelchen huet sech zur Verdeedegung vun enger Mamm ausgeschwat"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

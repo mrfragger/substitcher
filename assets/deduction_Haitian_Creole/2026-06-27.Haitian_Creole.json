@@ -1,0 +1,61 @@
+{
+  "title": "Absans Sakre a",
+  "intro": "Pi lwen pase pil sab tan yo, gen yon istwa sou yon devosyon san fay ak yon konfyans tèlman lou ke nanm ki t ap pote l la te ka kraze. Nan yon moman kote pèp la te vin fou epi li te vin gen lò, te gen yon moun ki te kanpe fèm—li t ap rele yo tounen, li t ap mande pasyans, epi li t ap pote pwa yon pwomès sakre. Sa a se istwa yon moun yo te chwazi kòm yon asistan, yon vizir, ak yon gadyen lafwa pandan yon absans sakre. Èske ou ka dekouvri idantite nanm fèm sa a?",
+  "clues": [
+    "Mwen pataje san yon gran pwofèt ki te chwazi pou pale ak Allah dirèkteman sou yon mòn sakre.",
+    "Yon fwa, frè m nan te sipliye Allah pou l ede l pale klè ak yon gwo opresè.",
+    "Allah te chwazi mwen pou m kanpe bò kote frè mwen kòm yon asistan ak vizir.",
+    "Ansanm, nou te fè fas ak yon chèf tiran ki te egzije pou yo rele l pi gran dye yo.",
+    "Pandan frè m nan t ap pale ak Allah sou mòn nan, pèp nou an te fè yon zidòl ak lò yo te genyen an.",
+    "Mwen se frè Moyiz, Allah te nonmen kòm vizir li, mwen mansyone non li nan Koran an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Aroun (Aaron)",
+        "Pwofèt Moïse",
+        "Pwofèt Daoud",
+        "Pwofèt Yaqub",
+        "Pwofèt Ishak"
+      ],
+      "answer": "Pwofèt Aroun (Aaron)"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Kriz Adorasyon Ti Bèf la",
+        "Gran Delij Nouh la",
+        "Batay Badr la",
+        "Destriksyon Thamud la",
+        "Destriksyon Sodòm nan"
+      ],
+      "answer": "Kriz Adorasyon Ti Bèf la"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Ti bèf an lò a",
+        "Lach Noe a",
+        "Ti touf bwa ​​ki ap boule a",
+        "Gwòt Hira a",
+        "Twòn Saba a"
+      ],
+      "answer": "Ti bèf an lò a"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Inosans konfime pa Allah",
+        "Nwaye Farawon an",
+        "Konstriksyon Kaaba a",
+        "Travèse Lanmè a an sekirite",
+        "Asansyon nan syèl la"
+      ],
+      "answer": "Inosans konfime pa Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

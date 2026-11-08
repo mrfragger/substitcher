@@ -1,0 +1,61 @@
+{
+  "title": "Basupi ba ba Nitameng",
+  "intro": "Akanya fela ka nako ya fa tumelo e ne e lekwa ka molelo, mme go tlhatswega pelo go go sa reketleng go ne ga nna selo se se neng se ka ganetsa thata. O neilwe tiro ya go ribolola boitshupo jwa setlhopha se kgang ya sone e anelwang gape mo Quran, e leng kanelo ya tumelo e e tseneletseng kgatlhanong le bosetlhogo jo bo fekeetsang. Rarabolola dintlha go lemoga gore mewa eno e ne e le bomang, le maemo a a sa tlwaelegang a ba neng ba lebane le one.",
+  "clues": [
+    "Re ne ra ema re nitame mo go dumeleng ga rona, le fa re ne re gatelelwa thata gore re itatole tumelo ya rona.",
+    "Re ne re tlhasetswe ke mmusi yo o maatla yo o neng a batla go tima lesedi la bodumedi jwa Modimo a le mongwe fela.",
+    "Re ne ra bona ditshupo le dikgakgamatso tse dikgolo, le fa go ntse jalo bagateledi ba rona ba ne ba nna ba sa tlhokomele.",
+    "Re ne ra itshokela mokgwa o o setlhogo wa pogiso o o neng o diretswe go tshosa ba bangwe gore ba ineele.",
+    "Re ne ra latlhelwa mo diheleng tse di tukang, le fa go ntse jalo go tlhomama ga rona go ne ga dira gore re nne le maemo a a kwa godimo le Allah.",
+    "Kgang ya rona e anelwa gape mo Surah e e bidiwang ka ditlhopha tsa dinaledi tsa selegodimo, e tlhagisa ka phelelo ya ba ba bogisang badumedi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batho ba Thamude",
+        "Batho ba 'Ad",
+        "Batho ba Mosele",
+        "Batho ba Midiane",
+        "Batho ba Tlou"
+      ],
+      "answer": "Batho ba Mosele"
+    },
+    "trial": {
+      "label": "Pogiso ya Rona",
+      "options": [
+        "Go nwelwa ke morwalela",
+        "Go jewa ke phefo e e fisang",
+        "Go latlhelwa mo mosimeng wa molelo",
+        "Go komediwa ke lefatshe",
+        "Go fetolwa go nna ditshwene"
+      ],
+      "answer": "Go latlhelwa mo mosimeng wa molelo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Morwalela o mogolo",
+        "Thoromo e kgolo ya lefatshe",
+        "Mosele o o boteng o o tukang",
+        "Setshwantsho se se maatla",
+        "Komelelo e e senyang"
+      ],
+      "answer": "Mosele o o boteng o o tukang"
+    },
+    "outcome": {
+      "label": "Phelelo ya Rona",
+      "options": [
+        "Ba ne ba newa bogosi mo lefatsheng.",
+        "Ba ne ba bolokwa ke go falola ka kgakgamatso.",
+        "Ba ne ba fitlhelela loso lwa tumelo le tuelo e e sa khutleng.",
+        "Ba ne ba fetolwa go nna mofuta o o farologaneng.",
+        "Ba ne ba newa khumo e e seng kana ka sepe le katlego."
+      ],
+      "answer": "Ba ne ba fitlhelela loso lwa tumelo le tuelo e e sa khutleng."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

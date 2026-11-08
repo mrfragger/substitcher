@@ -1,0 +1,61 @@
+{
+  "title": "Diwallerien al Liorzh",
+  "intro": "En ul liorzh frondus, ur gumuniezh a reas ur gouestl solennel. Met o youl a voe amprouet pa voe embreget youl doueel, o treuzfurmiñ o madoù en un douar difrouezh.",
+  "clues": [
+    "Benniget e oamp gant ul liorzh fonnus, met deuet omp da vezañ lorc'hus.",
+    "Graet hon eus ur raktres da eostiñ hep rannañ gant ar beorien.",
+    "Mont a reomp kuit abred diouzh ar mintin, sur eus hon raktres.",
+    "Met pa'z omp erruet, hon eus kavet e oa bet distrujet hor liorzh diouzh an noz.",
+    "Komprenet hon eus hor fazi ha kroget hon eus da damall an eil egile.",
+    "A-benn ar fin hon eus keuz, met re ziwezhat eo bet desket ar gentel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Tud al liorzh |",
+        "Tud ar C'hev |",
+        "Tud an Olifant",
+        "Tud Thamud",
+        "Tud 'Ad"
+      ],
+      "answer": "Tud al liorzh |"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Ul liorzh troet da ludu",
+        "Un dour-beuz hag a zistrujas pep tra",
+        "Un naonegezh a skoas war ar vro",
+        "Un arme a evned o tagañ",
+        "Un avel vras ​​hag a ziwriziennet ar gwez"
+      ],
+      "answer": "Ul liorzh troet da ludu"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ul liorzh",
+        "Ur c'hev",
+        "Ul lestr",
+        "Ur menez",
+        "Ur palez"
+      ],
+      "answer": "Ul liorzh"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Keuz a rejont met koll a rejont o liorzh",
+        "Distrujet e voent penn-da-benn",
+        "Troet e oant bet e marmouzed",
+        "Saveteet int bet dre ar feiz",
+        "Dont a rejont da vezañ renerien"
+      ],
+      "answer": "Keuz a rejont met koll a rejont o liorzh"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

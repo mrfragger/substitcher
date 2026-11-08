@@ -1,0 +1,61 @@
+{
+  "title": "Mayuman Encargasqa Fideicomiso",
+  "intro": "Huk almaqa mana atikuq kamachikuywanmi tuparqan, chaypin chayllaraq naceq wawaq kawsayninqa balanzapi warkusqa karqan. Diospa yuyaychasqanwan pusasqa, huk sinchi kamachikuytan kasukurqanku, huk ancha chaniyoq pakasqataq corrientepi ch’akichisqa karqan, ichaqa mana yuyaykusqa hina kutichisqa karqan.",
+  "clues": [
+    "Chayraq naceq qarikunata wañuchinankupaq kamachikuq tiranopa llantuyninpim kawsarqani.",
+    "Huk divina inspiracionmi hamuwarqan, kamachiwaspa huk desesperada hinallataq sonqo nanachiq ruwayta ruwanaypaq.",
+    "Ancha valorniyoq wawayta huk cajaman churaspaymi mayu pataman churarqani.",
+    "Sonqoymi ch’usaqman tukupurqan, yaqapaschá pakasqa kaqta sut’incharqani, ichaqa Allahmi kallpachawarqan decidisqayta.",
+    "Pitapas kacharqanim warmapa urayman puriyninta qatipananpaq, chay corrienteqa sinqanta apachkaptin.",
+    "Chay wawataqa chay tirano runaq wasinmi tarirqanku, qhepamantaq, wawaywan hukmanta tuparqani, hinaspan enfermera kapurqani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Musapa maman",
+        "Asiya (Faraonpa warmin) .",
+        "Maryam (Profeta Isapa maman) .",
+        "Profeta Lutpa warmin",
+        "Profeta Yahyapa maman (Zakariyapa warmin) ."
+      ],
+      "answer": "Profeta Musapa maman"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Wawanta huk cajaman churaspa mayu pataman churarqa",
+        "Wawantaqa huk machaypi pakaykusqa",
+        "Chunniqpi wawanta saqirqa",
+        "Wawanta ninaman wikch’uykusqa",
+        "Wawantaqa mezquita punkupin saqerqan"
+      ],
+      "answer": "Wawanta huk cajaman churaspa mayu pataman churarqa"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Mayu patapi unupi phawaykachasqa sinqa",
+        "Ruphachkaq sacha",
+        "Mach’aqwayman tikrakuq k’aspi",
+        "Hanaq pachamanta mikhuykunawan mast’arisqa mesa",
+        "Huk warmi camello señal hina kachasqa"
+      ],
+      "answer": "Mayu patapi unupi phawaykachasqa sinqa"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Payqa wawanwanmi hukmanta tuparuspan ñuñuchirqa",
+        "Manañam wawantaqa rikurqañachu",
+        "Paytaqa chay tirano wañuchirqan",
+        "Payqa Egipto nacionpin reina kapurqan",
+        "Huk nacionman astakuspanmi exiliopi tiyaran"
+      ],
+      "answer": "Payqa wawanwanmi hukmanta tuparuspan ñuñuchirqa"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

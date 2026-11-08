@@ -1,0 +1,61 @@
+{
+  "title": "D'Flam am Palais vun der Arroganz",
+  "intro": "Hannert de grousse Mauere vum mächtegste Palais vun der Antik Welt huet eng Figur gelieft, där hiert Häerz e Geheimnis gedroen huet, dat kee kinneklecht Dekret konnt stëllen. Wärend jiddereen sech virun de falsche Götter verbeugt huet, huet dës Séil e rouege Glawen a sech gebrannt. Den Herrscher vun deem Land huet sech selwer göttlech gegleeft, awer dës Persoun huet d'Wourecht iwwer de Komfort an d'Hingabe iwwer d'Sécherheet gewielt. Haut ass Är Aufgab et erauszefannen, wien dës couragéiert Séil war, där hir Geschicht ee vun de mächtegste Beispiller vun engem onerschütterleche Glawen ass.",
+  "clues": [
+    "Ech hunn op enger Plaz vun immensem Räichtum a onerreechbarer Gréisst gelieft, wou den Herrscher vum Land absolut Muecht iwwer alles hat.",
+    "Wärend déi ronderëm mech sech virun falschen Götter verbeugt hunn, hunn ech e rouegt Liicht vum Glawen a mengem Häerz behalen.",
+    "Ech hunn e Kand entdeckt an adoptéiert, dat mir op eng ongewéinlech Aart a Weis bruecht gouf - net duerch Gebuert, mä duerch d'Waasser vun engem grousse Floss.",
+    "Ech hunn zu mengem Här gebiet a gefrot, ob hien am Paradäis bei Him kéint wunnen a mech virun der Tyrannei ëmginn hätt.",
+    "D'Kand, dat ech opgezu hunn, ass opgewuess fir de selwechte Herrscher ze erausfuerderen, deen mäi Schicksal kontrolléiert huet, an ech sinn och fest a mengem Glawen bliwwen, wéi ech bedroht gouf.",
+    "Ech sinn deen, deem säin Numm am Koran als Virbild vum Glawen geéiert gëtt, an ech hunn am Palais vum Pharao selwer gelieft."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Asiya, d'Fra vum Pharao",
+        "Maryam, d'Mamm vum Isa",
+        "Bilqis, d'Kinnigin vu Scheba",
+        "D'Fra vum Prophet Lut",
+        "D'Fra vum Imran"
+      ],
+      "answer": "Asiya, d'Fra vum Pharao"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Entdeckung an d'Erzéiung vun engem verloossene Puppelchen, dat zu engem grousse Prophet gouf",
+        "Vun engem Tyrann an e grousst Feier gehäit ginn",
+        "Zeie vun enger grousser Iwwerschwemmung, déi e Vollek zerstéiert huet",
+        "Zeie vun engem Dattelpalm-Shake a suergt fir Nährstoffer",
+        "E Jong kréien trotz héijem Alter"
+      ],
+      "answer": "D'Entdeckung an d'Erzéiung vun engem verloossene Puppelchen, dat zu engem grousse Prophet gouf"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E kinneklecht Palais vun oniwwertraffem Glanz",
+        "E grousst Schëff, dat gebaut gouf, fir enger Iwwerschwemmung standzehalen",
+        "Eng déif Höhl verstoppt an de Bierger",
+        "E blëtzend Feier, dat op enger Biergspëtz gebaut gouf",
+        "E Gaart, deen duerch Maueren ëmginn ass"
+      ],
+      "answer": "E kinneklecht Palais vun oniwwertraffem Glanz"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "En Heem gouf am Paradäis duerch de Wëlle vun Allah geschenkt",
+        "Eng grouss Iwwerschwemmung huet déi Ongleeweg vun enger aler Natioun zerstéiert",
+        "E Kinnekräich mat immenser Muecht an Autoritéit gouf op dëser Welt geschenkt",
+        "Eng mächteg Arméi gouf vu Vullen am Fluch zerstreet",
+        "En Tyrann, deen d'Göttlechkeet behaapt huet, ass am Mier erdronk"
+      ],
+      "answer": "En Heem gouf am Paradäis duerch de Wëlle vun Allah geschenkt"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bir Surə Qazanan",
+  "intro": "Təsəvvür edin ki, təvazökar bir ruh Allah elçilərindən birinə səmimiyyətlə dolu bir ürək və dərin bir öyrənmə həvəsi ilə yaxınlaşır. Lakin elə həmin anda varlı və nüfuzlu bir şəxs Elçinin diqqətini cəlb etdi və axtaran şəxsə qaşqabaqlı bir ifadə ünvanlandı. Ardınca isə, Elçini islah etmək və axtaran ruhu şərəfləndirmək üçün göndərilən Quranın bütöv bir surəsi gəldi.",
+  "clues": [
+    "Mən açıq ürək və dərin bir hidayət arzusu ilə Allah Elçisinin yanına gəldim.",
+    "Təklif edə biləcəyim dünyəvi status yox idi, sadəcə həqiqəti axtaran təvazökar bir ruh idim",
+    "Fiziki gözlərim görə bilmirdi, amma mənəvi görmə qabiliyyətim aydın idi",
+    "Mən əlverişsiz bir anda gəldim, Elçi böyük nüfuza malik bir şəxslə məşğul idi.",
+    "Qaşqabaqlı bir baxış mənə tərəf çevrildi, amma Allah ilahi bir düzəlişlə cavab verdi",
+    "Mən Abdullah ibn Ümmü Məktum, hekayəsi Əbəsə surəsinə ilham verən sadiq səhabəyəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Abdullah ibn Ümmü Məktum",
+        "Bilal ibn Rəbah",
+        "Muaz ibn Cəbəl",
+        "Zeyd ibn Sabit",
+        "Salman əl-Farisi"
+      ],
+      "answer": "Abdullah ibn Ümmü Məktum"
+    },
+    "trial": {
+      "label": "Sınaq / Tədbir",
+      "options": [
+        "Varlı bir şəxs üçün Peyğəmbər tərəfindən rədd edilmək",
+        "Düşmənlər tərəfindən şiddətli bir oda atılmaq",
+        "Kölə kimi satılıb təqib olunmaq",
+        "Qüdrətli bir döyüşçü tərəfindən duelə çağırılır",
+        "Böyük bir balığın udması"
+      ],
+      "answer": "Varlı bir şəxs üçün Peyğəmbər tərəfindən rədd edilmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qaşqabaqlı bir Quran surəsi (Əbəsə surəsi)",
+        "Sərin və təhlükəsiz bir od",
+        "Qüdrətli bir dənizi yarıb keçən bir əsa",
+        "Yüksək bir dağın üzərində tikilmiş bir gəmi",
+        "Bərkimiş gildən formalaşdırılmış quş"
+      ],
+      "answer": "Qaşqabaqlı bir Quran surəsi (Əbəsə surəsi)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Allah məni müdafiə edən bir Quran surəsi nazil etdi",
+        "Allah odu mənim üçün sərin və təhlükəsiz etdi",
+        "Allah məni təqibdən xilas etmək üçün dənizi yardı",
+        "Allah mənə böyük bir səltənət və hikmət bəxş etdi",
+        "Allah məni ölümsüz cənnətə apardı"
+      ],
+      "answer": "Allah məni müdafiə edən bir Quran surəsi nazil etdi"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L-Aħbar it-Tajba fix-Xjuħija",
+  "intro": "Qed tixhed mument fejn it-tama terġa’ titqajjem. Koppja, li ilhom ma jsiru ġenituri, tirċievi wegħda li tisfida l-liġijiet tan-natura. F’nofshom hemm figura li l-eżistenza tagħha stess hija sinjal ta’ ħniena divina—ruħ destinata għall-profezija, li ġġorr wirt li se jkopri ġenerazzjonijiet sħaħ. Min hu dan l-individwu notevoli?",
+  "clues": [
+    "Twelidt minn ġenituri li kienu xjuħew u ma kellhomx tfal.",
+    "It-twelid tiegħi tħabbar minn anġli li ġew bħala mistednin għand il-familja tiegħi.",
+    "Ingħatajt l-għerf u l-profezija, u jien imsemmi fost il-pazjenti.",
+    "Missieri kien imsejjaħ il-ħabib ta’ Alla, u jien kont rigal għalih fi snin aħħarin.",
+    "Kelli ħija li wkoll kien profeta, u t-tnejn li aħna konna mberkin mill-Mulej tagħna.",
+    "Ibni kien ukoll profeta, u d-dixxendenti tiegħi ngħataw l-iskrittura u l-profezija."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Iżakk (Isaak)",
+        "Il-Profeta Ismail (Iżmael)",
+        "Profeta Yaqub (Ġakobb)",
+        "Profeta Yahya (Ġwanni)",
+        "Il-Profeta Użair (Esdra)"
+      ],
+      "answer": "Il-Profeta Iżakk (Isaak)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Imwieled minn ġenituri anzjani",
+        "Mitfugħ fin-nar",
+        "Mogħti saltna u ġid",
+        "Mexxa lill-poplu tiegħu 'l barra mill-Eġittu",
+        "Bnew arka biex isalvaw lill-kredenti"
+      ],
+      "answer": "Imwieled minn ġenituri anzjani"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-aħbar it-tajba ta’ iben",
+        "L-għollieq jaqbad",
+        "L-għoġol tad-deheb",
+        "L-arka tal-patt",
+        "Il-bastun tal-profezija"
+      ],
+      "answer": "L-aħbar it-tajba ta’ iben"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Sar profeta b'nisel ta' profeti",
+        "Sar sultan għani",
+        "Il-poplu tiegħu nqered minħabba n-nuqqas ta’ twemmin",
+        "Huwa ġie salvat min-nar",
+        "Ingħata l-abbiltà li jitkellem meta kien għadu tarbija"
+      ],
+      "answer": "Sar profeta b'nisel ta' profeti"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

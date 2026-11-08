@@ -1,0 +1,61 @@
+{
+  "title": "Tsholofetso e e Buiwang mo godimo ga Malakabe",
+  "intro": "O eme fa thoko ga molelo wa sekaka fa magala a one a anamisiwa ka kelotlhoko. Baeng ba goroga go tla go kopana mo tidimalong, mme molaetsa o le mongwe fela o bula kgang ya tsholofetso, go gakgamala, le isagwe e e iseng e diragadiwe.",
+  "clues": [
+    "Re ne ra kgabaganya sekgala go fitlha kwa motlhankeng mongwe yo o ikanyegang kwa sekakeng.",
+    "Re ne ra kopa gore go gasame magale go baakanyetsa molelo.",
+    "Re ne ra bua le mongwe yo o neng a biditse kgabo gore go tsidifale le go babalesega.",
+    "Re ne ra tlisa dikgang tsa ngwana yo o sa tswang go tsholwa mo mothong yo o neng a fetile dingwaga tsa go nna le bana.",
+    "Re ne ra raya ngwana yo o solofeditsweng leina la Isaka.",
+    "Re ne ra tlisetsa Ibrahim dikgang tse di itumedisang tsa morwa, mme dikgang tse di gakgamatsang tseno di ne tsa tlogela Ibrahim a tshega."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Baengele ba ba neng ba tlisetsa Ibrahime Mafoko a a Itumedisang a ga Isake",
+        "Baengele ba ba Tlhagisitseng Lute",
+        "Baengele ba ba Rwetseng Setulo sa Bogosi",
+        "Baengele ba Dihele",
+        "Baengele ba ba Rometsweng kwa go Noa"
+      ],
+      "answer": "Baengele ba ba neng ba tlisetsa Ibrahime Mafoko a a Itumedisang a ga Isake"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go tlisetsa Ibrahim dikgang tse di itumedisang tsa botsalo jwa ga Isake",
+        "Go tlhagisa Lute pele ga batho ba gagwe ba otlhaiwa",
+        "Go itsise botsalo jwa ga Yahya go Zakariyya",
+        "Go rwala Setulo sa Bogosi ka Letsatsi la Katlholo",
+        "Go itsise botsalo jwa ga Isa go Maryam"
+      ],
+      "answer": "Go tlisetsa Ibrahim dikgang tse di itumedisang tsa botsalo jwa ga Isake"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Molelo o o apeilweng go tswa mo magaleng a a gasameng",
+        "Areka e e kokobetseng mo metsing a morwalela",
+        "Logaga lo lo tswaletsweng ke letlapa le le bidikamang",
+        "Thaba ya letsopa le le thatafaditsweng ke letswai",
+        "Lere e e yang kwa loaping"
+      ],
+      "answer": "Molelo o o apeilweng go tswa mo magaleng a a gasameng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Dikgang tse di itumedisang tsa morwa yo o bidiwang Isaac",
+        "Dikgang tse di itumedisang tsa morwa yo o bidiwang Yahya",
+        "Go tlhophiwa ga ga Talute go nna mmusi wa Bana ba Iseraele",
+        "Tlhagiso pele ga kotlhao ya batho ba ga Lute",
+        "Taelo ya go aga araka pele ga Morwalela"
+      ],
+      "answer": "Dikgang tse di itumedisang tsa morwa yo o bidiwang Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

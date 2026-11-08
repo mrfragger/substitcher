@@ -1,0 +1,61 @@
+{
+  "title": "Y Gwarcheidwad wrth Lan yr Afon",
+  "intro": "Mewn gwlad lle daeth gorchymyn gormeswr â thristwch i lawer o gartrefi, derbyniodd enaid neges a heriodd bob ofn. Gyda chalon yn llawn ymddiriedaeth, fe gychwynnon nhw ar weithred o ffydd a fyddai'n newid cwrs cenedl. Wrth i'r dyfroedd gario cargo gwerthfawr, cymysgodd gobaith â'r ceryntau.",
+  "clues": [
+    "Roeddwn i'n byw mewn cyfnod o orthrwm ac ofn.",
+    "Cefais ysbrydoliaeth ddwyfol a roddodd ddewrder i mi.",
+    "Gorchmynnwyd i mi beidio ag ofni na galaru.",
+    "Rhoddais fy mhlentyn mewn cist a'i osod ar y dŵr.",
+    "Cafwyd fy mhlentyn gan deulu'r llywodraethwr, ond dilynodd fy mhlentyn arall.",
+    "Cefais fy ailymuno â fy mhlentyn i'w fwydo, yn union fel yr addawodd Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Mam Moses",
+        "Gwraig y Pharo",
+        "Chwaer Moses",
+        "Mam Iesu",
+        "Brenhines Sheba"
+      ],
+      "answer": "Mam Moses"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Cael eich ysbrydoli i daflu plentyn i afon",
+        "Cael eich herio i ornest hud",
+        "Yn cael ei erlid gan fyddin",
+        "Croesi môr a wahanodd",
+        "Adeiladu tŷ cysegredig"
+      ],
+      "answer": "Cael eich ysbrydoli i daflu plentyn i afon"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Cist wedi'i gosod yn yr afon",
+        "Llwyn yn llosgi",
+        "Staff a drodd yn neidr",
+        "Llo aur",
+        "Gorsedd"
+      ],
+      "answer": "Cist wedi'i gosod yn yr afon"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Dychwelwyd y plentyn yn ddiogel i'r nyrs",
+        "Collwyd y plentyn am byth",
+        "Aethpwyd â'r plentyn i wlad bell",
+        "Daeth y plentyn yn rheolwr ar unwaith",
+        "Mabwysiadwyd y plentyn gan fasnachwr cyfoethog"
+      ],
+      "answer": "Dychwelwyd y plentyn yn ddiogel i'r nyrs"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Olovli Dushman",
+  "intro": "Vahiyning dastlabki kunlarida haqiqatga qarshi o'jar bir shaxs paydo bo'ldi. Boylik va mavqega ega bo'lgan bu qalb rahbarlikdan ko'ra mag'rurlikni afzal ko'rdi va ularning hikoyasi suraning so'nggi oyatlarida keskin ogohlantirishga aylandi.",
+  "clues": [
+    "Men Payg'ambar bilan bir shaharda yashardim va u zotga eng yaqin qarindoshlaridan biri edim, ammo mag'rurligim meni haqiqatdan uzoqlashtirdi.",
+    "Menda katta boylik va ko'plab mulklar bor edi va men resurslarim meni doim himoya qiladi deb o'ylardim.",
+    "Xabar nozil bo'lganida, men uni ochiqchasiga masxara qildim va o'zimni mo'minlardan ustun deb bilgan holda yuz o'girdim.",
+    "Mening adovatim shu qadar mashhur ediki, Qur'onning bir surasi menga to'g'ridan-to'g'ri murojaat qilib, meni boshqalar biladigan ism bilan chaqirdi.",
+    "Menga mol-mulkim va topgan daromadim foyda bermasligi va olovga tashlanishim haqida ogohlantirildi.",
+    "Men olov otasi sifatida tanilganman va xotinim bo'yniga palma tolasidan arqon osib, o'tinni ko'tarib yuradi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyon",
+        "Valid ibn al-Mug'ira",
+        "Al-As ibn Voil"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Islomni rad etdi va Payg'ambarga ochiqchasiga qarshi chiqdi",
+        "Payg'ambarga suiqasd uyushtirish rejasi tuzilgan",
+        "Musulmonlarga qarshi ijtimoiy boykot uyushtirdi",
+        "Badr jangida qatnashgan",
+        "Bilol ibn Rabohni qiynoqqa solishdi"
+      ],
+      "answer": "Islomni rad etdi va Payg'ambarga ochiqchasiga qarshi chiqdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Palma tolasidan yasalgan arqon",
+        "O'tkir qilich",
+        "Og'ir zanjir",
+        "Yog'och tayoq",
+        "Charm qamchi"
+      ],
+      "answer": "Palma tolasidan yasalgan arqon"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Yonayotgan olovda yonadi",
+        "Tavba qildi va hamroh bo'ldi",
+        "Boyligini yo'qotdi, lekin sharaf bilan vafot etdi",
+        "Habashistonga qochib ketdi",
+        "Dengizda cho'kib ketdi"
+      ],
+      "answer": "Yonayotgan olovda yonadi"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

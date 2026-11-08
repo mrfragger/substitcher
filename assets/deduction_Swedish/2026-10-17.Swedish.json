@@ -1,0 +1,61 @@
+{
+  "title": "Längtan i den heliga kammaren",
+  "intro": "Du kliver in i den tysta helgedomen och ser en hängiven tjänare till Allah stå i bön. Deras händer är upplyfta, deras ögon lyfta, och deras hjärtan bär på en längtan som har sträckt sig över ett helt liv. Vem är denna tålmodiga själ vars tillit till Allah aldrig vacklade?",
+  "clues": [
+    "Jag tillbringade långa år i tillbedjan och bön och bevittnade mirakel som stärkte min tro.",
+    "Jag fick ansvaret att ta hand om en välsignad ung själ i helgedomen.",
+    "När jag blev gammal var min största sorg att jag inte hade några barn, ty min hustru var ofruktsam och vi båda var högt uppsatta.",
+    "Jag bad till min Herre om en efterträdare från min egen familj, någon som skulle föra profetskapets arv vidare.",
+    "Medan jag stod i bönenischen kallade änglarna på mig och sade: \"Allah ger dig glada budskap\", och jag greps av fruktan och vördnad.",
+    "Jag fick veta att jag skulle få en son som skulle heta Yahya, ett namn som aldrig hade givits till någon tidigare, och som ett tecken skulle jag inte prata med folk på tre dagar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Zakariyya",
+        "Profeten Yahya",
+        "Profeten Isa",
+        "Profeten Dawud",
+        "Luqman den vise"
+      ],
+      "answer": "Profeten Zakariyya"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Ofruktsamhet och ålderdom medan man önskar en rättfärdig arvinge",
+        "Att kastas in i en brinnande eld",
+        "Att bli uppslukad av en stor fisk",
+        "Att förlora ett kungarike till en tyrann",
+        "Att bli förvisad från sitt hemland"
+      ],
+      "answer": "Ofruktsamhet och ålderdom medan man önskar en rättfärdig arvinge"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Böneskanchen (mihrab)",
+        "Det stora skeppet (Arken)",
+        "Den brinnande busken",
+        "Staven som förvandlades till en orm",
+        "Allahs honkamel"
+      ],
+      "answer": "Böneskanchen (mihrab)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Beviljade en rättfärdig son och talade igen efter tre dagars tystnad",
+        "Förstördes av en översvämning för misstro",
+        "Givet ett stort kungarike och kontroll över vinden",
+        "Levererad från en fisks mage",
+        "Slukad av jorden"
+      ],
+      "answer": "Beviljade en rättfärdig son och talade igen efter tre dagars tystnad"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

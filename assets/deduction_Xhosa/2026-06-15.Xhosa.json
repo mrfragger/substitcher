@@ -1,0 +1,61 @@
+{
+  "title": "Ulawulo Lomoya Nelangatye",
+  "intro": "Khawucinge ngolawulo apho umoya ngokwawo wawuphendula kumlawuli omnye, apho amazwi ezidalwa ezincinci ayenobunzima, nalapho amandla angabonakaliyo emehlweni aqhelekileyo ayegcinwa khona ngenkonzo ecokisekileyo. Lo mfanekiso wazuza ubukumkani obungaqhelekanga kumntu owayemthanda, enegunya phezu kwezinto kunye neejinn. Kodwa igunya elikhulu lafika novavanyo olukhulu - kwaye umzuzu wokugqibela wawuya kutyhila into emangalisayo malunga nohlobo lobomi nokufa ngokwako.",
+  "clues": [
+    "Ndizuze ilifa lobukumkani obukhulu kumzali endimthandayo owayengumprofeti nomkhonzi ka-Allah.",
+    "U-Allah undinike igunya phezu komoya, ewuthumela kwimisebenzi yohambo lwenyanga yonke ngentsasa enye.",
+    "Nezidalwa ezincinci bezithetha ngendlela endizisebenzisa ngayo, ndize ndime kancinci ukuze ndimangaliswe kukwazi kwazo.",
+    "Ndingumlawuli wemikhosi emikhulu yeejinn, abantu, neentaka, zonke zicwangciswe ngolungelelwano phambi kwam.",
+    "Umlawuli okude weza kundivavanya ngomngeni onzima, ndaza ndathi itrone yaloo mlawuli iziswe enkundleni yam ngaphambi kokuba undwendwe luphakame nakwisihlalo.",
+    "Ndahlala ndimile, ndixhomekeke kwintonga, de kwathi gqi isidalwa esincinci somhlaba sayikrwitsha—kwaza ke kuphela apho abo babendingqongile baqonda ukuba ndidlulile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uSlayman (uSolomon)",
+        "Umprofeti uDawud (uDavide)",
+        "Umprofeti uIsa (uYesu)",
+        "UMprofeti uMuhammad ﷺ",
+        "Umprofeti uMusa (uMoses)"
+      ],
+      "answer": "Umprofeti uSlayman (uSolomon)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuzisa itrone yokumkanikazi okude ngeendlela ezingaphaya kwendalo",
+        "Ukuthotywa emthonjeni onzulu njengomntwana",
+        "Ukujongana nezazi zomntu olawulayo ngemiqondiso emangalisayo",
+        "Ukuthetha kwasebuntwaneni ukukhusela imbeko kamama",
+        "Ukufumana isibhalo sokugqibela esityhiliweyo entabeni engcwele"
+      ],
+      "answer": "Ukuzisa itrone yokumkanikazi okude ngeendlela ezingaphaya kwendalo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intonga yomthi etyiwe yintubi",
+        "Umkhombe omkhulu owakhelwe ukusinda kumkhukula wehlabathi lonke",
+        "Intonga eyaguquka yaba yinyoka phambi komtyholi",
+        "Ilaphu elisetyenziselwa ukuphilisa iimfama",
+        "Umqolomba ongcwele apho kwaqala ukufunyanwa khona isityhilelo"
+      ],
+      "answer": "Intonga yomthi etyiwe yintubi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Umlawuli ohloniphekileyo otyeleleyo wamkela ukholo emva kokubona imiqondiso",
+        "Umkhukula omkhulu watshabalalisa bonke abantu ababesemkhombeni ngaphandle kwabathembekileyo",
+        "UFaro nomkhosi wakhe batshabalala elwandle",
+        "Iqabane elilungileyo laphakanyiswa laya emazulwini",
+        "Ukumkani ongqongqo kunye nesixeko sakhe babhukuqwa baza batshatyalaliswa"
+      ],
+      "answer": "Umlawuli ohloniphekileyo otyeleleyo wamkela ukholo emva kokubona imiqondiso"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

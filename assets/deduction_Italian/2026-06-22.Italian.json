@@ -1,0 +1,61 @@
+{
+  "title": "Il credente nascosto",
+  "intro": "Nelle sontuose sale del potere, dove regnavano l'incredulità e la tirannia, una voce solitaria di verità si levò da un luogo inaspettato. Questa figura sfidò l'autorità per proteggere un messaggero, rischiando la propria incolumità per proclamare la verità.",
+  "clues": [
+    "Vivevo in una terra di grande tirannia, al servizio di un sovrano che si proclamava divino.",
+    "Ho tenuto nascoste le mie vere convinzioni per molti anni, temendo le conseguenze del rivelarle.",
+    "Quando un messaggero giunse con segni evidenti, io credetti, ma il mio popolo cospirò contro di lui.",
+    "Mi presentai davanti al tiranno e al suo consiglio, sostenendo che non avrebbero dovuto uccidere un messaggero innocente.",
+    "Li ho avvertiti della punizione inflitta alle nazioni del passato che avevano rifiutato la verità, come il popolo di Noè e di Ad.",
+    "Allah mi ha salvato dai loro malvagi complotti e ho assistito alla distruzione del regime oppressivo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il credente della famiglia del faraone",
+        "Il mago del faraone",
+        "Il visir del faraone",
+        "La moglie del faraone",
+        "Il Tesoriere del Faraone"
+      ],
+      "answer": "Il credente della famiglia del faraone"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Difendere un profeta dall'esecuzione",
+        "Sfida i trucchi di un mago",
+        "Costruire una torre per raggiungere il cielo",
+        "Dividere il mare per fuggire",
+        "Interpretare il sogno di un re"
+      ],
+      "answer": "Difendere un profeta dall'esecuzione"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La corte del faraone",
+        "Il roveto ardente",
+        "Il vitello d'oro",
+        "Il pozzo di Madyan",
+        "L'arca del profeta Nuh"
+      ],
+      "answer": "La corte del faraone"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Salvati dal pericolo mentre gli oppressori venivano distrutti",
+        "Divenne un sovrano potente",
+        "Fu gettato nel fuoco e ne uscì illeso.",
+        "Fu inghiottito dalla terra",
+        "Ha vagato nella natura selvaggia per quarant'anni"
+      ],
+      "answer": "Salvati dal pericolo mentre gli oppressori venivano distrutti"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

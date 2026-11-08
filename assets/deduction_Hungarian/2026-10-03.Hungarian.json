@@ -1,0 +1,61 @@
+{
+  "title": "A virrasztás a lángoló kapunál",
+  "intro": "Egy néma, félelmetes sokaság áll őrködve egy félelmetes küszöbön, soha nem kóstolnak ételt, italt vagy pihenést. Emberi agyagtól eltérő anyagból formálva egyetlen rettenetes célra várnak – és soha egyetlen parancsot sem szegtek meg Uruktól.",
+  "clues": [
+    "Mi, emberektől eltérő lények vagyunk, egy olyan anyagból teremtve, ami nem eszik, nem iszik és nem fárad el.",
+    "Pontos számunk ismert és ki van nyilatkoztatva a Könyvben – sem megszámlálhatatlanok, sem sokaság nem vagyunk.",
+    "Soha nem voltunk engedetlenek a Teremtőnk iránt, és soha nem szólalunk meg anélkül, hogy parancsot kapnánk.",
+    "Amikor eljön a Nap, a hitetleneket csoportokban hozzánk özönlik majd, és mi megnyitjuk előttük a kapukat.",
+    "Meg fogjuk kérdezni tőlük: „Nem jöttek-e hozzátok a saját fajtátok közül küldöttek, hogy figyelmeztessenek titeket erre a Napra?”",
+    "Egy olyan helyet őrizünk, ahonnan soha lélek nem lép ki – az örök büntetés lángoló birodalmát."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "A Pokol Tüzének Őrzői (Zabaniyah)",
+        "Allah trónjának hordozói",
+        "The Recording Angels (Kiraman Katibin)",
+        "A halál angyalai",
+        "A Paradicsom kapuőrei"
+      ],
+      "answer": "A Pokol Tüzének Őrzői (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Elsődleges kötelességünk",
+      "options": [
+        "A Pokol tüzének kapuit őrizve",
+        "Minden emberi cselekedet feljegyzése",
+        "Allah trónjának hordozása",
+        "Az elhunytak lelkének elvétele",
+        "Uralkodva a szeleken és a felhőkön"
+      ],
+      "answer": "A Pokol tüzének kapuit őrizve"
+    },
+    "location": {
+      "label": "Mit Őrizünk?",
+      "options": [
+        "A Pokoltűz",
+        "Allah trónja",
+        "A tettek tekercsei",
+        "A Paradicsom folyói",
+        "A Föld hegyei"
+      ],
+      "answer": "A Pokoltűz"
+    },
+    "outcome": {
+      "label": "A birtokunkban lévők sorsa",
+      "options": [
+        "Örökké maradnak és soha nem mennek el",
+        "Végül kegyelmet kapnak és szabadon engedik őket",
+        "Idővel megtisztulnak",
+        "Más formákká fognak alakulni",
+        "Felváltva fognak Pokol és Paradicsom között"
+      ],
+      "answer": "Örökké maradnak és soha nem mennek el"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

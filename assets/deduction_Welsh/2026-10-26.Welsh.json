@@ -1,0 +1,61 @@
+{
+  "title": "Y Sibrwd yn y Gwynt",
+  "intro": "Dychmygwch deyrnas lle mae'r anweledig a'r gweladwy yn cydblethu, ac rydych chi'n sefyll o flaen ffigur yng nghanol teyrnas wahanol i unrhyw un arall. Mae'r enaid hwn yn meddu ar wybodaeth y tu hwnt i gyrraedd cyffredin, gan orchymyn grymoedd na allai eraill ond eu dychmygu. Eto, gall hyd yn oed y mwyaf nerthol gael eu darostwng gan greadur bach, a gall y gwir aros yn gudd tan yr amser penodedig. Pwy yw'r ffigur hwn y mae ei etifeddiaeth yn atseinio trwy'r oesoedd?",
+  "clues": [
+    "Rhoddwyd i mi deyrnas na fyddai gan neb ar fy ôl i.",
+    "Etifeddais wybodaeth a doethineb gan riant annwyl.",
+    "Roedd y gwynt dan fy ngorchymyn, yn teithio yn ôl fy ngorchymyn lle bynnag y dymunwn.",
+    "Roeddwn i'n gallu deall lleferydd yr adar, ac fe wnaethon nhw wasanaethu yn fy myddin.",
+    "Cefais newyddion gan aderyn bach am frenhines oedd yn addoli'r haul.",
+    "Arhosodd fy marwolaeth yn gudd nes i greadur o'r ddaear ddifa fy ffon, a dim ond wedyn y sylweddolodd y jinn nad oeddent yn gwybod yr anweledig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Y Proffwyd Sulayman (Solomon)",
+        "Y Proffwyd Dawud (Dafydd)",
+        "Y Proffwyd Musa (Moses)",
+        "Y Proffwyd Isa (Iesu)",
+        "Y Proffwyd Nuh (Noah)"
+      ],
+      "answer": "Y Proffwyd Sulayman (Solomon)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Ymweliad Brenhines Sheba",
+        "Cael eich taflu i dân",
+        "Gwahanu'r môr",
+        "Adeiladu arch",
+        "Cael eich llyncu gan forfil"
+      ],
+      "answer": "Ymweliad Brenhines Sheba"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y staff a fwyteir gan greadur y ddaear",
+        "Y staff a drodd yn sarff",
+        "Y gamel fenywaidd",
+        "Yr arch",
+        "Y morfil"
+      ],
+      "answer": "Y staff a fwyteir gan greadur y ddaear"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cuddiwyd ei farwolaeth rhag y jinn nes i'w staff gael ei fwyta",
+        "Cafodd ei godi i'r nefoedd yn fyw",
+        "Cafodd ei achub rhag y tân trwy orchymyn Allah",
+        "Rhoddwyd y Torah iddo",
+        "Cafodd ei achub rhag y morfil"
+      ],
+      "answer": "Cuddiwyd ei farwolaeth rhag y jinn nes i'w staff gael ei fwyta"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

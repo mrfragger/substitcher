@@ -1,0 +1,61 @@
+{
+  "title": "Rõõmus sõnum vanas eas",
+  "intro": "Oled tunnistajaks hetkele, mil lootus taas süttib. Paar, kes on ammu lapsevanemaks saamise east möödas, saab lubaduse, mis trotsib loodusseadusi. Nende keskel seisab tegelane, kelle olemasolu on märk jumalikust halastusest – hing, kes on määratud prohvetiks ja kannab endas pärandit, mis ulatub põlvkondade taha. Kes on see tähelepanuväärne inimene?",
+  "clues": [
+    "Ma sündisin vanematele, kes olid jõudnud vanaduspõlve ja kellel polnud lapsi.",
+    "Minu sündi kuulutasid välja inglid, kes tulid mu perele külalisteks.",
+    "Mulle anti tarkust ja prohvetlikkust ning mind mainitakse kannatlike seas.",
+    "Mu isa kutsuti Allahi sõbraks ja mina olin talle kingitus tema hilisematel aastatel.",
+    "Mul oli vend, kes oli samuti prohvet, ja Issand õnnistas meid mõlemaid.",
+    "Mu poeg oli samuti prohvet ja minu järeltulijatele anti pühakiri ja prohvetiameti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Iisak (Iisak)",
+        "Prohvet Ismail (Ismael)",
+        "Prohvet Yaqub (Jaakob)",
+        "Prohvet Jahja (Johannes)",
+        "Prohvet Uzair (Esra)"
+      ],
+      "answer": "Prohvet Iisak (Iisak)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Eakatele vanematele sündinud",
+        "Tulle visatud",
+        "Kuningriik ja rikkus antud",
+        "Juhtis oma rahva Egiptusest välja",
+        "Ehitas laeva usklike päästmiseks"
+      ],
+      "answer": "Eakatele vanematele sündinud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Poja rõõmusõnum",
+        "Põlev põõsas",
+        "Kuldvasikas",
+        "Lepingulaegas",
+        "Prohvetiteenistuse personal"
+      ],
+      "answer": "Poja rõõmusõnum"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai prohvetiks prohvetite suguvõsaga",
+        "Sai rikkaks kuningaks",
+        "Tema rahvas hävitati uskmatuse pärast",
+        "Ta päästeti tulest",
+        "Talle anti imikueas kõnevõime"
+      ],
+      "answer": "Sai prohvetiks prohvetite suguvõsaga"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

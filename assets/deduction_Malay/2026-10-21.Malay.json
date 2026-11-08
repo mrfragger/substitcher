@@ -1,0 +1,61 @@
+{
+  "title": "Rasul yang Menentang Orang-orang Musyrik",
+  "intro": "Pada zaman di mana ketaatan telah menyimpang, seorang utusan bangkit dengan seruan untuk kembali menyembah Tuhan sekalian alam. Tokoh ini berdiri teguh menentang kaum yang bertapak dalam penyembahan dewa-dewa palsu, mengingatkan mereka tentang Pencipta mereka yang sebenar dan Tuhan nenek moyang mereka. Namun, kaum itu lalai dan menolak amaran itu, sekaligus menentukan nasib mereka sendiri. Siapakah penyeru yang teguh ini?",
+  "clues": [
+    "Aku diutus kepada suatu kaum yang telah menyimpang dari jalan Tuhan Yang Maha Esa.",
+    "Aku bertanya kepada kaumku, \"Tidakkah kamu bertakwa kepada Allah?\"",
+    "Aku menyeru mereka supaya meninggalkan penyembahan mereka kepada dewa palsu yang bernama Baal.",
+    "Umat-Ku menolak seruan-Ku dan terus-menerus menyembah berhala.",
+    "Kerana penafian mereka, mereka pasti akan dibawa untuk dihukum.",
+    "Tuhanku telah mengurniakanku keamanan dan ingatan yang penuh berkah di kalangan generasi-generasi yang kemudian."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Ilyas",
+        "Nabi Yahya",
+        "Nabi Dzul Kifli",
+        "Nabi Yusuf",
+        "Nabi Syu'aib"
+      ],
+      "answer": "Nabi Ilyas"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Menyeru umatnya untuk meninggalkan Baal",
+        "Membina bahtera untuk menyelamatkan orang-orang yang beriman",
+        "Dicampakkan ke dalam api",
+        "Melarikan diri dari Firaun yang zalim",
+        "Memukul batu untuk mengeluarkan air"
+      ],
+      "answer": "Menyeru umatnya untuk meninggalkan Baal"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dikurniakan ketenangan dan kenangan yang penuh barakah",
+        "Ditelan bumi",
+        "Musnah akibat ribut yang dahsyat",
+        "Berubah menjadi batu",
+        "Lemas di laut"
+      ],
+      "answer": "Dikurniakan ketenangan dan kenangan yang penuh barakah"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

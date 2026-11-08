@@ -1,0 +1,61 @@
+{
+  "title": "Bayoki Babombami Oyo Bandimaki",
+  "intro": "Na kimia ya liyangani moko ya bule, liyangani moko ya kokamwa eyaki uta na mokili moko oyo emonanaki te. Lokola babendamaki na mongongo ya nse ya likambo moko ya kokamwa, bayokaki kozongela oyo ekokanga nsuka na bango mpo na libela. Litatoli na bango etikali moko ya oyo ekeseni na makomi ya bonzambe.",
+  "clues": [
+    "Tozali bikelamu oyo euti na bokonzi oyo bato mingi bamonaka te, mpe toyaki lokola etuluku.",
+    "Tosalaki mobembo epai ya liyangani moko mpo na koyoka likambo moko ya kokamwa.",
+    "Ntango tokómaki kuna, toyokaki maloba moko oyo bazalaki kozongela mpe yango etikaki biso kokamwa.",
+    "Tondimaki polele ete bamosusu kati na biso bazali sembo mpe bamosusu bazali sembo te.",
+    "Toyebaki ete tokokaki te kokima mobeko ya bonzambe na mabele, to mpe na kopumbwa na lola.",
+    "Ntango toyokaki litambwisi, tondimaki yango; oyo andimi Nkolo na bango akobanga bobungisi to bozito te."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Etuluku moko ya bato ya Jinn",
+        "Bato ya Iram",
+        "Bato ya Tubba'.",
+        "Bokonzi ya Loma",
+        "Libota ya Quraysh"
+      ],
+      "answer": "Etuluku moko ya bato ya Jinn"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Koyoka récitation moko ya bule",
+        "Kotonga makonzí milai na engumba na biso",
+        "Kobundisa kamela ya mwasi moko ya kokamwa",
+        "Kobebisama mpo na koboma basakoli na biso",
+        "Kobakisa bozwi na ndenge oyo eleki ndelo"
+      ],
+      "answer": "Koyoka récitation moko ya bule"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Liyangani ya botangi ya bule",
+        "Engumba ya makonzí milai (Iram) .",
+        "Libulu moko na esobe",
+        "Palais moko monene ya wolo",
+        "Libulu mosantu na bangomba"
+      ],
+      "answer": "Liyangani ya botangi ya bule"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Tondimaki mpe tokebisaki bato na biso",
+        "Ebebisamaki na mopɛpɛ makasi oyo eutaki na likoló",
+        "Bapesaki ye etumbu na mopɛpɛ oyo ezalaki kozika mpe oyo ebebisaka",
+        "Epesamaki bozwi mpe nguya monene mpenza",
+        "Atikalaki ngwi na kozanga kondima"
+      ],
+      "answer": "Tondimaki mpe tokebisaki bato na biso"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

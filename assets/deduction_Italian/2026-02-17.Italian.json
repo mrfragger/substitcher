@@ -1,0 +1,61 @@
+{
+  "title": "Il seme della discordia",
+  "intro": "Prima che il mondo conoscesse un conflitto diffuso, si dispiegò una profonda prova di fede e obbedienza. Questa narrazione esplora le scelte compiute da un individuo, le cui azioni hanno creato un precedente per le generazioni future. Preparatevi a svelare la storia di un'anima alle prese con un'immensa gelosia e le sue devastanti conseguenze.",
+  "clues": [
+    "Ero tra i primi esseri umani a camminare sulla Terra, figlio della primissima coppia umana.",
+    "A me e a mio fratello fu comandato di offrire un sacrificio ad Allah, una prova della nostra sincerità.",
+    "La mia offerta non fu accettata, mentre quella di mio fratello sì, e questo mi riempì il cuore di un'emozione terribile.",
+    "Ho rivolto parole minacciose a mio fratello, spinto dall'amarezza del rifiuto.",
+    "Mio fratello ha risposto con saggezza e devozione, ricordandomi la giustizia di Allah e il timore di Lui.",
+    "Nonostante le gentili parole di mio fratello e la sua disponibilità a perdonare, ho tolto una vita, diventando uno dei perdenti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Adamo",
+        "Iblis",
+        "Profeta Nuh",
+        "Qabil (Caino)",
+        "Abete"
+      ],
+      "answer": "Qabil (Caino)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il grande diluvio",
+        "La divisione del mare",
+        "La costruzione della Kaaba",
+        "L'offerta dei sacrifici",
+        "La tentazione nel giardino"
+      ],
+      "answer": "L'offerta dei sacrifici"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca",
+        "Lo staff",
+        "La montagna di Safa",
+        "Il sacrificio",
+        "Il roveto ardente"
+      ],
+      "answer": "Il sacrificio"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Divenne un messaggero",
+        "È annegato",
+        "Costruì un grande regno",
+        "Divenne un esempio di rimpianto",
+        "Gli fu concessa un'immensa ricchezza"
+      ],
+      "answer": "Divenne un esempio di rimpianto"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kontsumitu zuen inbidia",
+  "intro": "Edozein erreinu edo idatzi baino zaharragoa den istorioa: jeloskortasunak sortutako lehen giza tragedia. Arima batek, lehenengo gurasoengandik jaiotako bi seme-alabetatik zaharrenak, amorruz ikusi zuen nola anai-arreba gazteago batek ukatutako mesedea jasotzen zuen. Ondoren etorri zena aukerarik ilunena izan zen, lurrean isuritako lehen odola atzean utziz. Aurkitu al dezakezu nortasuna, proba eta damu mingotsa?",
+  "clues": [
+    "Lurra ibili zen lehenengo gizaki bikotetik jaio nintzen.",
+    "Behin eskaintza bat egin nion Alahi, baina ez zidaten onartu.",
+    "Nire anai-arrebaren eskaintza onartu zuten, eta nirea, berriz, ukatu —nik ezin nuen jasan—.",
+    "Nire anaia suntsitzearekin mehatxatu nuen.",
+    "Lur honetan hilketa egiten lehena izan nintzen, nire anai-arrebaren bizitza kenduz.",
+    "Alak lurreko izaki bat bidali zuen —lurrean zulatzen ari zen txori beltz bat— egindakoa nola ezkutatu irakasteko, eta damua baino ez zitzaidan geratu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Yaqub profeta",
+        "Musa profeta",
+        "Adam profeta"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Ala-k ukatutako eskaintza",
+        "Su handi batera botata.",
+        "Ibaian haurtxo gisa abandonatua",
+        "Erresuma izugarri batekin probatua",
+        "Norberaren semea sakrifikatzeko agindua eman zioten"
+      ],
+      "answer": "Ala-k ukatutako eskaintza"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ala-k bidalitako belea",
+        "Urrezko txahala",
+        "Mendiaren gaineko arka.",
+        "Sasi erretzailea",
+        "Harkaitzetik zizelkatutako gamelu emea"
+      ],
+      "answer": "Ala-k bidalitako belea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Damuz bete zen eta galtzaileen artean geratu zen",
+        "Lurrera irentsi altxorrekin batera",
+        "Alaren mezulari noble bihurtu zen",
+        "Jainkozko errukiaren bidez sartu zen Paradisuan",
+        "Erreinu paregabe baten gainean gobernatu zuen"
+      ],
+      "answer": "Damuz bete zen eta galtzaileen artean geratu zen"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

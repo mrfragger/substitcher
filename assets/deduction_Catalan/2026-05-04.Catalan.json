@@ -1,0 +1,61 @@
+{
+  "title": "L'arquitecte de l'arrogància",
+  "intro": "En una terra antiga governada per un poder desafiant, un individu clau ocupava una posició d'influència. Aquesta ànima va ser instrumental en els grans plans del governant, contribuint al seu regnat opressor i desafiant el missatge diví. El seu llegat està entrellaçat amb la recerca del poder mundan i la negació de la veritat.",
+  "clues": [
+    "Vaig servir a un governant formidable que va oprimir un poble durant generacions.",
+    "El meu nom s'esmenta sovint al Llibre Diví juntament amb aquest poderós líder.",
+    "Em van encarregar un gran projecte de construcció, una estructura imponent destinada a arribar al cel.",
+    "Vaig aconsellar al meu amo que matés els fills dels fills d'Israel i que perdonés les seves filles.",
+    "Vaig estar involucrat en complots i conspiracions contra un poderós missatger d'Al·là.",
+    "La meva fi, juntament amb el meu amo i el seu exèrcit, va arribar a les aigües d'un vast mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliat",
+        "Iblis",
+        "Aman"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Sent posat a prova amb una immensa riquesa",
+        "Liderant un exèrcit contra una casa sagrada",
+        "Construint una torre per arribar a Déu",
+        "Ser llançats al foc per la seva creença",
+        "Ser llançat a un pou pels seus germans"
+      ],
+      "answer": "Construint una torre per arribar a Déu"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "La muntanya",
+        "La Torre",
+        "La balena"
+      ],
+      "answer": "La Torre"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Se li concedeix una immensa saviesa",
+        "Esdevenir profeta",
+        "Ser engolit per la terra",
+        "Rebre un regne",
+        "Ofegant-se al mar"
+      ],
+      "answer": "Ofegant-se al mar"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

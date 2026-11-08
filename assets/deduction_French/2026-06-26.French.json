@@ -1,0 +1,61 @@
+{
+  "title": "Le poids d'un cadeau refusé",
+  "intro": "Aux origines de l'humanité, alors que la terre était encore jeune et que le monde retenait son souffle, une âme se présenta devant le Créateur, humblement prête à faire une offrande. Cette offrande fut pesée dans la balance de l'agrément divin – et jugée insuffisante. Ce qui suivit ne fut pas une histoire de pardon, mais celle d'un cœur consumé par la jalousie, menant à un acte irréversible dont les répercussions se feraient sentir à travers les âges. Voici l'histoire de celui dont le nom devint synonyme de la première injustice grave jamais commise.",
+  "clues": [
+    "Je suis venu au monde comme l'un des tout premiers enfants jamais nés, d'un parent dont vous connaissez bien l'histoire.",
+    "J'ai moi-même offert un sacrifice à Allah, mais il n'a pas été accepté – alors que l'offrande de mon frère/ma sœur a été reçue avec grâce.",
+    "L'envie et la rage s'enracinèrent dans mon cœur, et je menaçai de mettre fin à la vie de mes propres proches.",
+    "Mon frère/ma sœur m'a mis en garde contre la crainte d'Allah, mais mon orgueil m'empêchait d'écouter.",
+    "Dans un moment de terrible faiblesse, j'ai commis un acte innommable sur mon propre frère.",
+    "Après cela, je ne savais même plus comment dissimuler ce que j'avais fait — jusqu'à ce qu'une créature de la terre soit envoyée pour me l'enseigner."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Qabil (Caïn)",
+        "Habil (Abel)",
+        "Le fils du prophète Noé",
+        "Le prophète Ismaïl",
+        "Prophète Yusuf"
+      ],
+      "answer": "Qabil (Caïn)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Offrir un sacrifice qui fut rejeté, ce qui mena au premier meurtre",
+        "Construire une tour vertigineuse pour atteindre les cieux",
+        "Être jeté dans un brasier déchaîné pour sa foi",
+        "Sacrifier son propre fils en obéissance à Allah",
+        "Être avalé par un grand poisson pour avoir fui son devoir"
+      ],
+      "answer": "Offrir un sacrifice qui fut rejeté, ce qui mena au premier meurtre"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un corbeau envoyé par Allah pour illustrer l'enterrement",
+        "Un grand déluge qui a englouti tout un peuple",
+        "Un bâton qui s'est transformé en serpent vivant",
+        "Une chamelle qui a émergé d'une montagne de rochers",
+        "Un trône magnifique porté par des vents puissants"
+      ],
+      "answer": "Un corbeau envoyé par Allah pour illustrer l'enterrement"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il devint un homme plein de regrets, accablé par le premier crime qu'il ait jamais commis.",
+        "Allah lui a pardonné et lui a accordé le paradis éternel.",
+        "Il fut élevé à un haut rang de prophétie et de sagesse.",
+        "Sauvé par la miséricorde divine après avoir crié du haut des ténèbres",
+        "Il reçut le pouvoir sur les djinns, le vent et les mers."
+      ],
+      "answer": "Il devint un homme plein de regrets, accablé par le premier crime qu'il ait jamais commis."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

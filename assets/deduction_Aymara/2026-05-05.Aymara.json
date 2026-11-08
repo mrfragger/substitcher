@@ -1,0 +1,61 @@
+{
+  "title": "Uraqin Jark’aqasiñapa",
+  "intro": "Mä jachʼa yantʼanakanjja, mä uñtʼat jaqeruw akapachankir walja yänak churapjjäna, ukajj yuspärasirïñapataki ukat altʼat chuymanïñapatakiw yantʼäna. Aka chimpun saräwipax mä jach’a yatichäwiwa, kunatix yänakax mä juk’a pachatakikiwa, ukat jach’a jach’a tukuñax kuna jan walt’awinakas utjaspa uka tuqita. Aka almax khitïpachas uk uñt’ayapxam, khititix sarnaqäwipax jiwasan manqhankir uraqin qillqt’atawa.",
+  "clues": [
+    "Mä jachʼa yatiyirin irpata mä marka taypinwa jakasiyäta.",
+    "Allah jupax jach’a qamir yänak churitu, ukat tesoros ukanakan llavenakapax walja ch’aman jaqinakatakix mä jach’a q’ipipunïnwa.",
+    "Jaqinakajax qamirïtax yatisinx iwxt’apxituwa, kunatix Allah-ax churkitu ukampiw Akhira jakañ utar thaqhañajataki ukat akapachan chikanchasiñax jan armañajataki, ukat askinak lurañajataki kunjamatix Allah-ax nayar askinak lurkitu ukhama.",
+    "Nayajj jachʼa jachʼa tukusaw akham sista: “Nayan yatiñajampi ukat chʼamachasitajampikiw jachʼa qamirïtajajj jikjjatasiyäta, Diosan kuna khuyapayasiñapsa janiw munkayätti.",
+    "Allah-an jach’a jach’a tukutapat yanapt’añajataki jan ukax uñt’ayasiñatak mayipkäna ukhax jach’a jach’a tukusaw jan munkti, kunatix yänakajax nayankiwa sasaw amuyayäta.",
+    "Nayan sinti jach’a jach’a tukutajata ukhamarak t’aqhisiyatajatxa, Allah jupax aka uraqiruw jist’arañapatak mayïna ukat nayaru ukhamarak jakañ utajar manq’antañapataki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Khitis nayajja?",
+      "options": [
+        "Fir'awn satänwa",
+        "Iblis ukat juk’ampinaka",
+        "Amán chacha",
+        "Abu Lahab jupax ukham sataynawa",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Yant’awi/Evento",
+      "options": [
+        "Ninar jaquntatäña",
+        "Lamar qutan umamp chhaqhayasiña",
+        "Mä jardinat jaqsutäña",
+        "Mä monor tukuña",
+        "Uraqin manq’antatäña"
+      ],
+      "answer": "Uraqin manq’antatäña"
+    },
+    "location": {
+      "label": "Elemento Clave ukax mä juk’a pachanakanwa",
+      "options": [
+        "Mä quri vaca qallu",
+        "Mä jachʼa arca",
+        "Mä parli jamach’i",
+        "Mä milagro lurir thujru",
+        "Jachʼa tesoronaka ukat llavenaka"
+      ],
+      "answer": "Jachʼa tesoronaka ukat llavenaka"
+    },
+    "outcome": {
+      "label": "Utjiri",
+      "options": [
+        "Jach’a apnaqirir tukuña",
+        "Diosan qhanañchäwip katuqaña",
+        "Alaxpachar makhataña",
+        "Diosar yupaychañ tuqit jaya tiempo jakaña",
+        "Jachʼa jachʼa tukuñat qʼal tʼunjatäña"
+      ],
+      "answer": "Jachʼa jachʼa tukuñat qʼal tʼunjatäña"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

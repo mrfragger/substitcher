@@ -1,0 +1,61 @@
+{
+  "title": "Pelanggaran di Tepi Pantai",
+  "intro": "Kau berdiri di atas pasir pantai yang terlupakan, tempat ombak berbisik tentang sebuah komunitas yang diuji oleh perintah ilahi. Udara terasa berat dengan kenangan akan pelanggaran yang menyebabkan transformasi yang mengejutkan. Siapakah jiwa-jiwa ini, dan apa hakikat cobaan yang mereka alami?",
+  "clues": [
+    "Kami adalah komunitas yang menerima perintah yang jelas dari Tuhan kami, namun kami menemukan cara untuk menentangnya.",
+    "Kami tinggal di dekat sebuah perairan, dan mata pencaharian kami bergantung pada makhluk-makhluk di dalamnya.",
+    "Ujian datang kepada kita pada hari kita diperintahkan untuk menjauhi urusan duniawi.",
+    "Makhluk-makhluk air datang kepada kami dalam jumlah besar pada hari itu juga, menggoda kami hingga melampaui batas ketahanan kami.",
+    "Kami merancang sebuah trik licik untuk menghindari perintah ilahi, berpikir bahwa kami bisa mengakali ketetapan tersebut.",
+    "Pelanggaran kita menyebabkan transformasi yang memalukan; kita menjadi kera yang hina atas perintah Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Umat ​​Sabat",
+        "Penduduk Rass",
+        "Penduduk Tubba",
+        "Orang-orang Gua",
+        "Para Sahabat Parit"
+      ],
+      "answer": "Umat ​​Sabat"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Kemunculan ikan pada hari Sabat",
+        "Setahun kekeringan parah",
+        "Sekumpulan burung dikirim untuk melawan mereka",
+        "Banjir yang melanda mereka",
+        "Gempa bumi dahsyat"
+      ],
+      "answer": "Kemunculan ikan pada hari Sabat"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Laut",
+        "Sebuah gunung",
+        "Sebuah gua",
+        "Lembah gurun",
+        "Kota berbenteng"
+      ],
+      "answer": "Laut"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Berubah menjadi kera",
+        "Ditelan oleh bumi",
+        "Hancur oleh angin yang menderu",
+        "Tenggelam di laut",
+        "Terkena hujan batu"
+      ],
+      "answer": "Berubah menjadi kera"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

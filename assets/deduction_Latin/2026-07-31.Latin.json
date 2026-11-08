@@ -1,0 +1,61 @@
+{
+  "title": "Echo Quod Thronum Pervenit",
+  "intro": "Figura onusta ad iustitiae sedem appropinquabat, voce non timore sed spe tremente. Res erat personalis, tamen eius solutio per tempus resonaret, traditionem opprimentem dissolvens. Quis erat haec anima cuius querela ultra astra audiebatur?",
+  "clues": [
+    "Gravi corde veni, iustitiam petens in re quae linguam meam vinculavit.",
+    "Precatio mea non solum ad nuntium erat; ultra ascendit, ad Eum qui omnia audit.",
+    "Verba contra me dicta velut vincula antiqui praeteriti erant.",
+    "Pro dignitate mea, cum lacrimis et logica, disputavi et ratiocinatus sum.",
+    "Revelatio descendit, mores veteres silentium imponens et dolorem meum agnoscens.",
+    "Me vocant eam quae de marito meo disputavit, et nomen meum factum est synonymum cum capitulo quod me liberavit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Uxor Imran (Mater Mariae)",
+        "Mulier quae de marito suo disputabat (Khawla bint Tha'laba)",
+        "Regina Sabae (Bilqis)",
+        "Mater Moysis",
+        "Uxor Pharaonis (Asiyah)"
+      ],
+      "answer": "Mulier quae de marito suo disputabat (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "Iudicium vel Eventum",
+      "options": [
+        "Falso impudicitiae accusata est",
+        "Sterilis erat et filium desiderabat",
+        "More divortii oppressivo obstabat.",
+        "Regina erat cum propheta loquens",
+        "Filium suum a tyranno celavit"
+      ],
+      "answer": "More divortii oppressivo obstabat."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus aureus",
+        "Thronus magnificus",
+        "Usus Zihar",
+        "Calathus in flumine",
+        "Votum sacrum dedicationis"
+      ],
+      "answer": "Usus Zihar"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Filio in senectute benedicta est",
+        "A submersione servata est",
+        "Revelationem divinam accepit, morem abolens",
+        "Regina post probationem facta est",
+        "Ei concessum est filium qui propheta factus est"
+      ],
+      "answer": "Revelationem divinam accepit, morem abolens"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Aldatmanın Sədası",
+  "intro": "Qohumluq bağı paxıllıq dalğası ilə sınağa çəkildi. İllər boyu davam edəcək və uzaq məsafələri qət edəcək hadisələr zəncirini hərəkətə gətirən gizli bir plan quruldu. Bu qrupun hərəkətləri dərin ayrılığa və kədərə səbəb oldu, lakin hekayə bununla bitmədi. Bu, aldatma, peşmançılıq və ilahi bir planın son anda açılması hekayəsidir. Seçimləri nəsillər boyu əks-səda verən bu şəxslərin kimliyini aça bilərsinizmi?",
+  "clues": [
+    "Özümüzdən birinə göstərilən sevgiyə görə qısqanclıq bizi bürümüşdü.",
+    "Paxıllığımız içində birləşib qardaşımızı quyunun qaranlığına atdıq.",
+    "Cinayətimizi gizlətmək üçün atamıza yalançı qanla ləkələnmiş bir paltar təqdim etdik.",
+    "İllər sonra şiddətli bir aclıq bizi azuqə axtarmaq üçün Misirə getməyə məcbur etdi.",
+    "Orada, tanımadığımız, haqsızlığa məruz qaldığımız qardaşımız olan güclü bir qubernatorun qarşısına çıxdıq.",
+    "Son sınaqımız ən kiçik qardaşımız Binyaminlə birlikdə dünyaya gəlmək idi. Bu, keçmişimizin və atamızın Yəqub peyğəmbər olduğunun aşkarlanmasına səbəb oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Adəmin oğulları (Qabil və Habil)",
+        "İsa peyğəmbərin şagirdləri",
+        "Yusif peyğəmbərin qardaşları",
+        "Mədyən xalqı",
+        "Fironun sehrbazları"
+      ],
+      "answer": "Yusif peyğəmbərin qardaşları"
+    },
+    "trial": {
+      "label": "Əsas günahımız nə idi?",
+      "options": [
+        "İbadət üçün qızıl buzov düzəltmək",
+        "Allahı birbaşa görməyi tələb etmək",
+        "Peyğəmbəri gəmi tikdiyinə görə lağa qoymaq",
+        "Atamızı aldadıb qardaşımızı tərk etmək",
+        "Balıq tutmaqla Şənbə gününü pozmaq"
+      ],
+      "answer": "Atamızı aldadıb qardaşımızı tərk etmək"
+    },
+    "location": {
+      "label": "Aldatmağımızın əsas məqsədi nə idi?",
+      "options": [
+        "Yazılı lövhələr dəsti",
+        "Saxta qanla ləkələnmiş köynək",
+        "Qızıl buzov",
+        "Gözəl bir quş (Hündürbün)",
+        "İlana çevrilən bir əsa"
+      ],
+      "answer": "Saxta qanla ləkələnmiş köynək"
+    },
+    "outcome": {
+      "label": "Hekayəmizin son nəticəsi nə oldu?",
+      "options": [
+        "Bizi güclü bir sel məhv etdi",
+        "Biz meymuna çevrildik",
+        "Bizi yer üzü uddu",
+        "Bağışlandıq və ailəmizlə yenidən qovuşduq",
+        "Biz dənizdə boğulduq"
+      ],
+      "answer": "Bağışlandıq və ailəmizlə yenidən qovuşduq"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

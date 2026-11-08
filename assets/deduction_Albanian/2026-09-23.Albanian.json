@@ -1,0 +1,61 @@
+{
+  "title": "Thirrja që i rezistoi kohës",
+  "intro": "Imagjinoni një shpirt që qëndronte i vetëm kundër një qytetërimi të tërë, i vendosur ta orientonte atë nga devijimi me vendosmëri të palëkundur. Për shekuj me radhë, mesazhi u refuzua, u tall dhe u shpërfill - megjithatë përpjekja nuk pushoi kurrë. Përfundimisht, erdhi një llogaridhënie e madhe dhe vetëm disa arritën shpëtimin përkrah këtij shpirti të palëkundur. A mund ta identifikoni këtë figurë nga Kurani?",
+  "clues": [
+    "Unë u dërgova si paralajmërues për një popull të humbur në rrugët e veta.",
+    "I ftova të kërkonin falje dhe të ktheheshin nga gabimet e tyre, por ata u larguan.",
+    "Nën urdhrin hyjnor, ndërtova një anije gjigante ndërsa populli im më shikonte dhe më tallte.",
+    "E thirra Zotin tim pa pushim—më në fund Ai u përgjigj dhe uji ra nga qielli me rrëke.",
+    "Hipa në anije me ata që besuan kur ujërat e përmbytjes u ngritën mbi tokë.",
+    "I thirra dikujt që kishte mbetur prapa, duke i kërkuar të strehohej në një mal, por dekreti tashmë kishte kaluar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Nuh",
+        "Profeti Ibrahim",
+        "Profeti Musa",
+        "Profeti Hud",
+        "Profeti Salih"
+      ],
+      "answer": "Profeti Nuh"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ndërtimi i një arke të madhe dhe mbijetesa e një përmbytjeje botërore",
+        "Duke u hedhur në një zjarr të ndezur",
+        "Përballja me një tirani dhe magjistarët e tij të fuqishëm",
+        "Të gëlltitur nga një peshk i madh",
+        "Duke qenë dëshmitar i vrasjes së një deveje të shenjtë"
+      ],
+      "answer": "Ndërtimi i një arke të madhe dhe mbijetesa e një përmbytjeje botërore"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një arkë masive prej druri mbi ujërat e rrëmbyeshme të përmbytjes",
+        "Një luginë e shenjtë me rrënoja të lashta guri",
+        "Një shpellë e thellë ku shokët flinin për shekuj me radhë",
+        "Barku i një balene gjigante në thellësitë e oqeanit",
+        "Një mal i lartë prej guri në shkretëtirë"
+      ],
+      "answer": "Një arkë masive prej druri mbi ujërat e rrëmbyeshme të përmbytjes"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I shpëtuar me besimtarët në bordin e anijes",
+        "Shpëtuar të padëmtuar nga zjarri me anë të urdhrit hyjnor",
+        "Udhëhoqi një eksod të madh nga një mbretëri e fuqishme",
+        "Hidheni nga peshqit në një breg të shkretë",
+        "I largoi njerëzit nga keqbërja nëpërmjet një shenje të mrekullueshme"
+      ],
+      "answer": "I shpëtuar me besimtarët në bordin e anijes"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

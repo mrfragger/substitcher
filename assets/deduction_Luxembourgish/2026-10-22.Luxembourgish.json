@@ -1,0 +1,61 @@
+{
+  "title": "D'Gemeinschaft vun der Éischter Iwwertrëtt",
+  "intro": "Am Land vun den antike Stied huet eemol e Vollek gebléit. Si goufe vun engem Bote mat engem kloere Ruff besicht, awer si hunn sech ewechgedréit a sinn engem Wee gaangen, op deen nach keen jee gaangen ass. Hir Geschicht ass eng vun Trotz, Verdorwenheet an enger Strof, déi hir Heemecht als Zeeche fir all déi hannerlooss huet, déi nodenken. Wien sinn dës Séilen?",
+  "clues": [
+    "Mir hunn a Stied vun der Plage gelieft, wou eise Prophet eis zur Gerechtegkeet geruff huet.",
+    "Mir waren déi Éischt, déi eng Onanstännegkeet begaangen hunn, déi nach keen op all de Welten jee virdru gemaach hat.",
+    "Mir hunn Reesender iwwerfalen a bei eise Versammlungen ëffentlech Béises begaangen.",
+    "Mir hunn de Bote refuséiert, deen eis geschéckt gouf, a gedreet, hien aus eisem Land ze verdreiwen.",
+    "Mir sinn op säin Haus gerannt a gefuerdert, datt hie seng Gäscht eis ausgëtt.",
+    "Eis Strof war e Reen vu Steng, an eis Stad gouf op d'Kopp gehäit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "Leit vu Lut",
+        "D'Leit vun Nuh",
+        "Leit vun 'Ad",
+        "Leit vun Thamud",
+        "D'Leit vu Madyan"
+      ],
+      "answer": "Leit vu Lut"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Huet den éischten Akt vun der Sodomie begaangen",
+        "Veréiert Gëtzen",
+        "Beim Handel bedrunn",
+        "Hire Prophet ëmbruecht",
+        "Hunn hiren Elteren net gefollegt"
+      ],
+      "answer": "Huet den éischten Akt vun der Sodomie begaangen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Stad vun der Fläch",
+        "D'Stad vum Brunn",
+        "D'Stad vum Gruef",
+        "D'Stad vum Elefant",
+        "D'Stad vum Gaart"
+      ],
+      "answer": "D'Stad vun der Fläch"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mat Steng gereent an ëmgekippt",
+        "Erdronk vun enger Iwwerschwemmung",
+        "Vun engem gewaltege Wand zerstéiert",
+        "Vun der Äerd verschléckt",
+        "Vun engem haarde Spreng getraff"
+      ],
+      "answer": "Mat Steng gereent an ëmgekippt"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

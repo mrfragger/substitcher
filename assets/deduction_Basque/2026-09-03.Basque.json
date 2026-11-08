@@ -1,0 +1,61 @@
+{
+  "title": "Berehala Bidaiatu Zuen Tronua",
+  "intro": "Aginte handiko figura batek neurrigabeko aberastasunez bedeinkatutako erreinu aberats bat gobernatu zuen. Ustekabeko erronka bat sortu zenean, agintari honek ez zuen ezpata-proba bat izan, baizik eta jakinduriaren eta fedearena. Gertatutakoak munduko boterearen gailurretik bihotzaren eraldaketa sakon batera eramango zuen.",
+  "clues": [
+    "Imajinaez haratagoko aberastasun eta oparotasunez bedeinkatutako erreinu baten gainean gobernatu nuen",
+    "Monarka boteretsu bat nintzen, men egitea eskatzen zuen gutun ausart bat jaso nuena",
+    "Nire nobleek aholkatu zidaten urruneko errege honekin borrokatu edo bakea egin behar nuen ala ez.",
+    "Opari bikainak eskuetan hartuta abiatu nintzen urrutiko errege honekin topo egitera",
+    "Nire errege-tronua urrutiko lurralde batera eraman zuten begi-bistan, itzuli aurretik",
+    "Kristalezko zorua bezain leuna zuen jauregi batera sartu nintzenean, azkenean Alaren aurrean men egiten nuela aldarrikatu nuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Bilqis, Sabako erregina",
+        "Faraoiaren emaztea.",
+        "Al-Azizen emaztea",
+        "Maryam, Imranen alaba",
+        "Lut profetaren emaztea"
+      ],
+      "answer": "Bilqis, Sabako erregina"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Aurkezpena eskatzen duen gutun lodi bat jasotzea",
+        "Su bizian sartuta egotea",
+        "Arrain handi batek irentsi izana",
+        "Urteetako gaixotasun mingarria jasanez",
+        "Uholde batek herri bat suntsitzen ikustea"
+      ],
+      "answer": "Aurkezpena eskatzen duen gutun lodi bat jasotzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko eta harribitxizko errege-tronu bikaina",
+        "Itsasoa zatitu zuen langile batek",
+        "Mendi baten gainean dagoen arka bat",
+        "Meka-ko gurtza-etxe sakratu bat",
+        "Herri batek gurtzen zuen urrezko txahal bat"
+      ],
+      "answer": "Urrezko eta harribitxizko errege-tronu bikaina"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Profeta baten ondoan Ala-ri men egitea",
+        "Etsai baten atzetik zihoala itsasoan itotzea",
+        "Sute bizitik mirariz salbatua izana",
+        "Betiko zoriontasun lorategi batetik erbesteratua",
+        "Botere izugarrizko erreinua jasotzea"
+      ],
+      "answer": "Profeta baten ondoan Ala-ri men egitea"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

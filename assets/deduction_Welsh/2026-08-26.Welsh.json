@@ -1,0 +1,61 @@
+{
+  "title": "Y Genfigen a Fwytaodd",
+  "intro": "Stori hŷn nag unrhyw deyrnas neu ysgrythur—y drasiedi ddynol gyntaf a aned o genfigen. Gwyliodd un enaid, yr hynaf o ddau o blant a aned i'r rhieni cyntaf, mewn cynddaredd wrth i frawd neu chwaer iau dderbyn ffafr a wrthodwyd. Yr hyn a ddilynodd oedd y dewis tywyllaf, gan adael y gwaed cyntaf erioed i gael ei dywallt ar y ddaear ar ei ôl. A allwch chi ddatgelu'r hunaniaeth, y treial, a'r edifeirwch chwerw?",
+  "clues": [
+    "Cefais fy ngeni o'r pâr cyntaf un o fodau dynol i gerdded y ddaear.",
+    "Unwaith, rhoddais offrwm i Allah, ond ni chafodd ei dderbyn gennyf.",
+    "Derbyniwyd offrwm fy brawd neu chwaer, tra gwrthodwyd fy un i—rhywbeth na allwn ei ddioddef.",
+    "Bygythiais fy mrawd fy hun â dinistr.",
+    "Fi oedd y cyntaf i gyflawni llofruddiaeth ar y ddaear hon, gan gymryd bywyd fy brawd neu chwaer fy hun.",
+    "Anfonodd Allah greadur o'r ddaear—aderyn du yn cloddio yn y ddaear—i'm dysgu sut i guddio'r hyn a wnes i, a doedd gen i ddim byd ond edifeirwch."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "y Proffwyd Yaqub",
+        "Proffwyd Musa",
+        "Proffwyd Adam"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Offrwm wedi'i wrthod gan Allah",
+        "Wedi'i daflu i dân mawr",
+        "Wedi'i adael fel babi mewn afon",
+        "Wedi'i brofi gyda theyrnas enfawr",
+        "Gorchmynnwyd i aberthu ei fab"
+      ],
+      "answer": "Offrwm wedi'i wrthod gan Allah"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y frân a anfonwyd gan Allah",
+        "Y llo aur",
+        "Yr arch ar y mynydd",
+        "Y llwyn llosgi",
+        "Y gamel fenyw wedi'i cherfio o graig"
+      ],
+      "answer": "Y frân a anfonwyd gan Allah"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Daeth yn llawn edifeirwch ac ymhlith y collwyr",
+        "Wedi'i lyncu i'r ddaear ynghyd â thrysorau",
+        "Daeth yn negesydd bonheddig i Allah",
+        "Aeth i mewn i Baradwys trwy drugaredd ddwyfol",
+        "Yn rheoli dros deyrnas heb ei hail"
+      ],
+      "answer": "Daeth yn llawn edifeirwch ac ymhlith y collwyr"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

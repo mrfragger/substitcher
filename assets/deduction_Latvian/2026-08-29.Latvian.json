@@ -1,0 +1,61 @@
+{
+  "title": "Pacietība, kas pārspēja bēdas",
+  "intro": "Vecākais, kura pacietība kļuva leģendāra, kura vīzija izgaisa bēdu dēļ, tomēr kura ticība dievišķajam plānam nekad nešaubījās. Šis cilvēks vēroja, kā divpadsmit dēli izauga par cilšu pamatiem, piedzīvoja sāpīgu mīļotā bērna zaudējumu un kļuva par mūžīgu skaistas pacietības simbolu milzīgu bēdu priekšā. Godājama dvēsele, kuras stāsts ir aprakstīts atklāsmes lappusēs. Vai vari atpazīt šo tēlu no Korāna?",
+  "clues": [
+    "Es biju pravietis, kura stāsts ir detalizēti aprakstīts vienā no galvenajām Korāna surām.",
+    "Man bija divpadsmit dēli, kas kļuva par Bani Israēla cilšu tēviem.",
+    "Es teicu saviem dēliem ieiet pa dažādiem vārtiem, lai viņus neatpazītu kā vienu tautu.",
+    "Manas acis izbalēja no nemitīgām raudāšanām par mīļoto bērnu, kas man tika atņemts.",
+    "Es atteicos krist izmisumā pat tad, kad mani citi dēli mani mudināja to darīt, sakot, ka es sūdzos tikai Allāham.",
+    "Esmu pravieša Jusufa tēvs, kura vārds arābu valodā nozīmē “palielinātājs”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Jakubs (Jēkabs)",
+        "Pravietis Jusufs",
+        "Pravietis Ibrahims",
+        "Pravietis Musa",
+        "Pravietis Davuds"
+      ],
+      "answer": "Pravietis Jakubs (Jēkabs)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Mīļotā dēla zaudējums akā",
+        "Lielie plūdi, kas pārņēma veselu tautu",
+        "Migrācija no uguns pielūdzējas valstības",
+        "Konfrontācija ar varenu Ēģiptes tirānu",
+        "Trimda vaļa vēderā"
+      ],
+      "answer": "Mīļotā dēla zaudējums akā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Krekls, kas notraipīts ar viltus asinīm",
+        "Personāla, kas pārvērtās par čūsku",
+        "Kalnā celta šķirsta",
+        "No klints izgrebta kamieļu mātīte",
+        "Zelta teļš"
+      ],
+      "answer": "Krekls, kas notraipīts ar viltus asinīm"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Redze atjaunota, kad mīļotā dēla sejai uzlikts krekls",
+        "Glābšana pēc iemetšanas lielas zivs vēderā",
+        "Halilullas titula saņemšana no Allāha",
+        "Jūras šķērsošana ar tautu, kas atbrīvota no verdzības",
+        "Varavīksne, kas parādās kā cerības zīme pēc plūdiem"
+      ],
+      "answer": "Redze atjaunota, kad mīļotā dēla sejai uzlikts krekls"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

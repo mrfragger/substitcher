@@ -1,0 +1,61 @@
+{
+  "title": "Loyi Muvabyi",
+  "intro": "Khale, emasikwini yo sungula ya matimu ya vanhu, mimoya-xiviri yimbirhi a yi yime emahlweni ka Muvumbi wa yona yi ri ni magandzelo. Un’wana u amukeriwile, un’wana a nga amukeriwanga. Leswi landzeleke a swi ta va khombo ro sungula lerikulu exikarhi ka vamakwavo - xiendlo xin’we xo tikhoma hi ku lehisa mbilu na xiendlo xin’we xo rihisela hi ndlela yo vava. Xana u nga paluxa leswi ndzi nga swona?",
+  "clues": [
+    "Ndzi velekiwe emasikwini yo sungula swinene ya vukona bya munhu emisaveni",
+    "A ndzi ri n’wana wa mpatswa wo sungula swinene wa vanhu lowu tshameke wu famba emisaveni leyi",
+    "Ndzi tshame ndzi endla gandzelo leri humaka eka lavanene ngopfu eka ntlhambi wa mina leswaku ndzi tsakisa Muvumbi wa mina",
+    "Gandzelo ra mina ri amukeriwe ku suka ehenhla, kasi gandzelo ra makwerhu ri ariwile",
+    "Loko ndzi xungetiwa hi rifu, ndzi hlawule ku nga tlakusi voko ra mina eka makwerhu wa mina",
+    "Ndzi ve munhu wo sungula ematin’wini hinkwawo ya vanhu ku dlayiwa hi ndlela leyi hoxeke hi un’wana"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Habili (Abele), n’wana wa Adamu",
+        "Kabil (Kayini), n’wana wa Adamu",
+        "Adamu, munhu wo sungula",
+        "Nuh (Nowa) .",
+        "Ibrahim (Abrahama) ."
+      ],
+      "answer": "Habili (Abele), n’wana wa Adamu"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku dlaya ko sungula ematin’wini ya vanhu",
+        "Ndhambi leyikulu ya Nuh",
+        "Ku lovisiwa ka vuthu ra Fir'awn",
+        "Ku gandzeriwa ka Ismail hi Ibrahim",
+        "Nyimpi yo lwisana na Jalut (Goliat) ."
+      ],
+      "answer": "Ku dlaya ko sungula ematin’wini ya vanhu"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Nyimpfu leyi nyikeriweke tanihi gandzelo leri tsakisaka",
+        "Areka leyikulu ya mapulanga",
+        "Nhonga leyi hundzukeke nyoka",
+        "Xinyenyana xa hoopoe lexi rhwaleke rungula ra vuhosi",
+        "Mugodi lowu pfurhaka wa ndzilo"
+      ],
+      "answer": "Nyimpfu leyi nyikeriweke tanihi gandzelo leri tsakisaka"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U ve muhlaseriwa wo sungula wa ku dlayiwa ematin’wini ya vanhu",
+        "U ponile eka ndhambi leyikulu endzeni ka xikepe xa mapulanga",
+        "A a tshama endzeni ka khwiri ra nhlampfi leyikulu",
+        "U fume majini, vanhu ni moya",
+        "U rhendzelekile malembe ya makume mune emananga lamakulu"
+      ],
+      "answer": "U ve muhlaseriwa wo sungula wa ku dlayiwa ematin’wini ya vanhu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

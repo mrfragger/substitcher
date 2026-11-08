@@ -1,0 +1,61 @@
+{
+  "title": "Încredințarea râului",
+  "intro": "Un suflet s-a confruntat cu un decret imposibil, în care viața unui nou-născut atârna în balanță. Ghidați de inspirație divină, o poruncă disperată a fost ascultată, iar un secret prețios a fost lăsat în voia curentului, doar pentru a fi returnat într-un mod neprevăzut.",
+  "clues": [
+    "Am trăit sub umbra unui tiran care a ordonat uciderea nou-născuților.",
+    "O inspirație divină a venit la mine, îndrumându-mă să iau o măsură disperată și sfâșietoare.",
+    "Mi-am pus prețiosul copil într-o cufăr și l-am așezat pe râul care curgea.",
+    "Inima mi s-a golit și aproape am dezvăluit secretul, dar Allah mi-a întărit hotărârea.",
+    "Am trimis pe cineva să urmărească călătoria copilului în aval, în timp ce curentul ducea cufărul departe.",
+    "Copilul a fost găsit de casa tiranului și, în cele din urmă, m-am reunit cu copilul meu și am devenit bonă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Mama profetului Musa",
+        "Asiya (Soția faraonului)",
+        "Maryam (mama profetului Isa)",
+        "Soția profetului Lut",
+        "Mama profetului Yahya (soția lui Zakariya)"
+      ],
+      "answer": "Mama profetului Musa"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Și-a pus copilul într-un cufăr și l-a așezat pe râu",
+        "Și-a ascuns copilul într-o peșteră",
+        "Și-a abandonat copilul în deșert",
+        "Și-a aruncat copilul în foc",
+        "Și-a lăsat copilul la ușa unei moschei"
+      ],
+      "answer": "Și-a pus copilul într-un cufăr și l-a așezat pe râu"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un cufăr așezat pe râu",
+        "Un rug aprins",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O masă pregătită cu mâncare din ceruri",
+        "O cămilă trimisă ca semn"
+      ],
+      "answer": "Un cufăr așezat pe râu"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "S-a reunit cu copilul ei și l-a alăptat",
+        "Nu și-a mai văzut niciodată copilul",
+        "Ea a fost executată de tiran",
+        "Ea a devenit regină în Egipt",
+        "Ea a migrat într-o altă țară și a trăit în exil"
+      ],
+      "answer": "S-a reunit cu copilul ei și l-a alăptat"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

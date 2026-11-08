@@ -1,0 +1,61 @@
+{
+  "title": "Ihe Mgbochi n'Ụlọ Ochie",
+  "intro": "N'obodo nsọ ahụ, otu onye dị ike were iwe nke ukwuu ka ozi ọhụrụ malitere ịgbasa. Onye a, onye aha ya ghọrọ ihe nnọchianya megide eziokwu, lere ka mmetụta ha daa n'okpuru ibu nke mkpughe Chineke. Ònye bụ mkpụrụ obi a, onye akara aka ya dị n'ájá nke agha a ma ama?",
+  "clues": [
+    "Abụ m onyeisi n'etiti ndị m, a maara m maka akụnụba na mmetụta m n'obodo ebe obibi ochie dị.",
+    "Mgbe otu nwoke si n'agbụrụ m malitere ikwusa ozi nke otu Chineke, achịrị m ya na mkpughe ya ọchị, na-akpọ ha akụkọ mgbe ochie.",
+    "M zutere nwoke ahụ ka ọ na-ekpe ekpere n'akụkụ ụlọ nsọ ahụ, na-eyi egwu na m ga-akwụsị ofufe ya site n'ike ma ọ bụrụ na ọ dị mkpa.",
+    "Eso m n'ime ndị ndu kpara nkata imechi okpukpe ọhụrụ ahụ, na-emegide ndị na-eso ya site n'okwu ọnụ na ngwa ọgụ.",
+    "M gara ije na ndị agha gaa ebe a na-akpọ Badr, na-enwe obi ike na anyị ga-ebibi obere ìgwè ndị kwere ekwe.",
+    "Ma n'ọgbọ agha ahụ, ndụ m kwụsịrị, ọnwụ m ghọkwara ihe mmụta nye ndị nọgidere na-ekweghị na Chineke mgbe ihe ịrịba ama doro anya gasịrị."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Igbochi onye amụma ikpe ekpere na Kaaba",
+        "Iwuli Kaaba",
+        "Ide Quran",
+        "Na-edu ndị agha nke enyí",
+        "Ịkewa ọnwa"
+      ],
+      "answer": "Igbochi onye amụma ikpe ekpere na Kaaba"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Kaaba",
+        "Ụgbọ Onye Amụma Nuh",
+        "Mkpanaka nke Onye Amụma Musa",
+        "Nwa Ehi Ọlaedo ahụ",
+        "Ocheeze Eze Nwanyị Sheba"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E gburu n'agha Badr",
+        "Chegharịrị wee ghọọ onye Alakụba",
+        "Gbagara Abyssinia",
+        "Nwụrụ n'Afọ Enyí",
+        "M ghọrọ enyi nke onye amụma"
+      ],
+      "answer": "E gburu n'agha Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

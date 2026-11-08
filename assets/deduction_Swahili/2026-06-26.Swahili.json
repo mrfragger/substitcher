@@ -1,0 +1,61 @@
+{
+  "title": "Mzigo wa Zawadi Iliyokataliwa",
+  "intro": "Mwanzoni mwa historia ya mwanadamu, dunia ilipokuwa bado changa na ulimwengu ukiwa na pumzi yake ya kwanza, roho ilisimama mbele ya Muumba ikiwa na sadaka ya unyenyekevu. Sadaka hiyo ilipimwa katika mizani ya kukubalika kwa Mungu - na kupatikana ikiwa imepungukiwa. Kilichofuata haikuwa hadithi ya msamaha, bali ya moyo uliojaa wivu, na kusababisha kitendo kisichoweza kurekebishwa ambacho kingerudiwa kila wakati. Hii ni hadithi ya mtu ambaye jina lake lilikuja kuwa sawa na dhuluma ya kwanza kubwa kuwahi kufanywa.",
+  "clues": [
+    "Nilizaliwa kama mmoja wa watoto wa kwanza kabisa kuzaliwa, nilizaliwa na mzazi ambaye unaijua vyema hadithi yake.",
+    "Niliwahi kutoa dhabihu kwa Mwenyezi Mungu, lakini haikukubaliwa kutoka kwangu — ingawa sadaka ya ndugu yangu ilipokelewa kwa neema.",
+    "Wivu na ghadhabu viliota mizizi moyoni mwangu, na nikatishia kuwakatisha maisha jamaa zangu.",
+    "Ndugu yangu alinionya nimwogope Mwenyezi Mungu, lakini kiburi changu hakikuniruhusu nisikilize.",
+    "Katika wakati wa udhaifu mbaya, nilimtendea kaka yangu kitendo kisichoelezeka.",
+    "Baadaye, sikujua hata jinsi ya kuficha nilichokuwa nimefanya — hadi kiumbe wa dunia alipotumwa kunifundisha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Qabil (Kaini)",
+        "Habili (Abeli)",
+        "Mwana wa Nabii Nuh",
+        "Nabii Ismail",
+        "Nabii Yusufu"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutoa dhabihu ambayo ilikataliwa, na kusababisha mauaji ya kwanza",
+        "Kujenga mnara mrefu ili kufikia mbinguni",
+        "Kutupwa kwenye moto mkali kwa ajili ya imani ya mtu",
+        "Kumtoa mwanawe mwenyewe kwa kumtii Mwenyezi Mungu",
+        "Kumezwa na samaki mkubwa kwa sababu ya kutoroka wajibu wako"
+      ],
+      "answer": "Kutoa dhabihu ambayo ilikataliwa, na kusababisha mauaji ya kwanza"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kunguru aliyetumwa na Mwenyezi Mungu kuonyesha mazishi",
+        "Mafuriko makubwa yaliyowazamisha watu wote",
+        "Fimbo iliyogeuka kuwa nyoka hai",
+        "Ngamia jike aliyetoka kwenye mlima wa mwamba",
+        "Kiti cha enzi kizuri sana kinachobebwa na upepo mkali"
+      ],
+      "answer": "Kunguru aliyetumwa na Mwenyezi Mungu kuonyesha mazishi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa wa kujuta, akiwa amelemewa na uhalifu wa kwanza kufanywa",
+        "Alisamehewa na Mwenyezi Mungu na kupewa Pepo ya milele",
+        "Aliinuliwa hadi cheo cha juu cha unabii na hekima",
+        "Niliokolewa kwa rehema ya Mungu baada ya kuita kutoka kwenye vilindi vya giza",
+        "Alipewa mamlaka juu ya majini, upepo, na bahari"
+      ],
+      "answer": "Akawa wa kujuta, akiwa amelemewa na uhalifu wa kwanza kufanywa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

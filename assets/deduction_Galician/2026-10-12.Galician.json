@@ -1,0 +1,61 @@
+{
+  "title": "O voto dos non nacidos",
+  "intro": "Unha alma sincera fixo unha promesa sagrada antes da chegada dun neno. A historia desta figura desenvólvese entre os muros dun santuario, onde a devoción se atopa coa aceptación divina. Quen é este servo de Alá?",
+  "clues": [
+    "Pertencía a unha familia honrada no Corán.",
+    "Fixen un voto solemne de dedicar o meu fillo non nacido ao servizo de Alá.",
+    "Cando dei a luz, sorprendeume descubrir que era unha filla, aínda que eu esperaba un fillo.",
+    "Chamei á miña filla Maryam, un nome que reflicte devoción e servizo.",
+    "Busquei a protección de Alá para a miña filla e os seus descendentes do maldito Satán.",
+    "O meu fillo foi aceptado polo Señor e posto baixo o coidado do profeta Zakariya no santuario."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A esposa de Imran (nai de Maryam)",
+        "Asiya, esposa do faraón",
+        "María, nai de Isa",
+        "A nai do profeta Moisés",
+        "A raíña de Saba"
+      ],
+      "answer": "A esposa de Imran (nai de Maryam)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Xurando dedicar o seu fillo ao templo",
+        "Ser lanzado a un lume",
+        "Cruzando o mar en terra firme",
+        "Construíndo unha gran arca",
+        "Ser tragado por un peixe grande"
+      ],
+      "answer": "Xurando dedicar o seu fillo ao templo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O santuario (mihrab) onde foi depositado o seu fillo",
+        "A arca da alianza",
+        "O becerro de ouro",
+        "O bastón que se converteu nunha serpe",
+        "A palmeira datileira baixo a que descansaba"
+      ],
+      "answer": "O santuario (mihrab) onde foi depositado o seu fillo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O seu fillo foi aceptado e posto baixo o coidado do profeta Zacarias",
+        "Ela foi salvada do castigo dun tirano",
+        "Déronlle un fillo chamado Yahya",
+        "O seu pobo foi destruído por unha tormenta",
+        "Converteuse en raíña dun gran reino"
+      ],
+      "answer": "O seu fillo foi aceptado e posto baixo o coidado do profeta Zacarias"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

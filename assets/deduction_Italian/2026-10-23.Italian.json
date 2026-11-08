@@ -1,0 +1,61 @@
+{
+  "title": "La missione nella città antica",
+  "intro": "Un'antica città polverosa, i suoi abitanti trincerati nella negazione e un ultimo avvertimento rimasto inascoltato. Oggi, vesti i panni di coloro che sono stati inviati da Allah per recapitare un messaggio a un popolo ostinato. Una storia di rifiuto, una voce di fede unica e un finale suggellato da un decreto devastante. Chi parla attraverso questi indizi?",
+  "clues": [
+    "Siamo stati inviati da Allah in una città i cui abitanti si erano allontanati dalla verità.",
+    "Inizialmente eravamo in due, poi si è unito un terzo per rafforzare la nostra missione.",
+    "Gli abitanti del villaggio ci hanno respinto, dicendo che non eravamo altro che esseri umani come loro.",
+    "Un'anima sola, dall'estremità più remota della città, corse a dire alla gente di seguirci",
+    "Li abbiamo supplicati, ma hanno indurito i loro cuori e si sono rivoltati contro di noi.",
+    "Con un grido devastante proveniente dal cielo, l'intera nostra città è stata messa a tacere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "I messaggeri della città nella Sura Ya-Sin",
+        "Gli Hawwariyyun (Discepoli di Isa)",
+        "Gli stregoni della corte del faraone",
+        "I Compagni del Sabato",
+        "Il popolo dell'elefante"
+      ],
+      "answer": "I messaggeri della città nella Sura Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Respinti e definiti bugiardi dagli abitanti del paese",
+        "Bruciato vivo in un grande incendio",
+        "Inghiottito da un grosso pesce nelle profondità marine",
+        "Costretto a lavorare alla costruzione di un'imponente colonna",
+        "Torturato in una trincea di fuoco furioso"
+      ],
+      "answer": "Respinti e definiti bugiardi dagli abitanti del paese"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'antica città (al-Qaryah)",
+        "Una grande fornace ardente",
+        "Il ventre di un grande pesce",
+        "L'imponente pilastro che sfiora il cielo",
+        "La Casa Sacra (Kaaba)"
+      ],
+      "answer": "L'antica città (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "La città fu distrutta da un unico grido devastante (Sayha)",
+        "Il tiranno e il suo esercito annegarono nel mare aperto",
+        "Le persone furono trasformate in scimmie e primati.",
+        "Una pioggia di pietre dal cielo distrusse la città",
+        "Una violenta alluvione ha spazzato via l'intera comunità"
+      ],
+      "answer": "La città fu distrutta da un unico grido devastante (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

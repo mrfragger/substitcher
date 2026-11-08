@@ -1,0 +1,61 @@
+{
+  "title": "Vanema ootamatu toitmine",
+  "intro": "Allahi koja pühades paikades koges eakas Jumala teener sügavat müsteeriumi, mis trotsis kõiki ootusi. See pühendunud inimene, kes oli juba ammu lapsevanemaks olemise aastatest möödas, oli tunnistajaks millelegi erakordsele, mis ilmutas jumaliku piiritut halastust. Mõistatus seisneb selle prohvetite eludest unustatud hetke paljastamises.",
+  "clues": [
+    "Minu rahvast tunti Iisraelina, vana aja suure patriarhi järeltulijatena.",
+    "Veetsin oma ööd palves, kummardades oma Issanda ees templis.",
+    "Mulle kingiti vanas eas poeg, kingitus, mille eest ma ei lakanud Allahit ülistamast.",
+    "Minu katsumus hõlmas toidu leidmist, mis ilmus mu hoole all olevale noorele hingele.",
+    "Ma olin prohvet nimega Zakariyya, kelle ülesandeks oli hoolitseda Maryami eest Bayt al-Maqdises.",
+    "Vastus peitub salmis, kus Allah võttis Maryami vastu ja hoolitses tema eest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet, kes hoolitses templis Maryami eest",
+        "Prohvet, kes ehitas püha koja",
+        "Suur kala neelas prohveti alla",
+        "Prohvet, kes põgenes oma rahva eest",
+        "Prohvet, kes rääkis otse Allahiga"
+      ],
+      "answer": "Prohvet, kes hoolitses templis Maryami eest"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Aastatepikkune põud paneb proovile",
+        "Noorele hoolealusele salapäraselt elatise leidmine",
+        "Kuulutades rahvale, kes hülgas jumaliku juhatuse",
+        "Oma rahva poolt auku viskamine",
+        "Ilmutuse saamine nägemuste kaudu"
+      ],
+      "answer": "Noorele hoolealusele salapäraselt elatise leidmine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laudadest ja naeltest ehitatud laev",
+        "Jeruusalemma püha tempel",
+        "Aed, mis hävitati",
+        "Õiglase kuninga ehitatud linn",
+        "Ookeani sügavused"
+      ],
+      "answer": "Jeruusalemma püha tempel"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Inimesed uskusid ja järgisid sõnumitoojat",
+        "Jumalik heakskiit ja halastus neile, kes on pühendunud kummardamisele",
+        "Karistus tabas uskmatuid",
+        "Poeg sündis vanas eas, nagu lubatud",
+        "Turvaline läbipääs läbi kõnnumaa"
+      ],
+      "answer": "Jumalik heakskiit ja halastus neile, kes on pühendunud kummardamisele"
+    }
+  },
+  "verseRef": "3:37",
+  "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+  "verse": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\" (3:37)"
+}

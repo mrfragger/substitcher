@@ -1,0 +1,61 @@
+{
+  "title": "Malo upozorenje pred marširajućom vojskom",
+  "intro": "Zakoračite u dolinu u koju se približavaju moćni vladar i ogromna vojska i zamislite malog putnika koji daje upozorenje koje spašava cijelu zajednicu. Dok ugrožena zajednica stiže u sklonište, opasnost prolazi. Slijedite tragove kako biste prepoznali previđenu figuru iza tog upozorenja.",
+  "clues": [
+    "Ja sam među malim stvorenjima povezanim s kraljevstvom vladara.",
+    "Moja zajednica živi u nastambama unutar doline, gdje jedan od nas može dozivati ​​ostale.",
+    "Suočavamo se s prijetnjom od tog vladara i vojski koje putuju s vladarom.",
+    "Ja sam onaj koji poziva svoju zajednicu da uđe u svoje domove i upozorava nas da ne budemo zgnječeni nesvjesno.",
+    "Vladar je Sulejman, a moja vrsta je među stvorenjima stavljenim pod njegovu zapovjedništvo.",
+    "Ja sam mrav te doline; nakon mog upozorenja, ušli smo u svoje nastambe i izbjegli gnječenje koje bi nas inače iznenadilo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Mrav iz doline",
+        "Pupavac",
+        "Vrana",
+        "Zmija",
+        "Mazga"
+      ],
+      "answer": "Mrav iz doline"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Upozorenje koje je poštedjelo zajednicu mrava",
+        "Zahtjev za prsten od ribe",
+        "Potraga za nestalim prijestoljem",
+        "Spašavanje ukradenih očiju",
+        "Odbijanje jedenja vladareve hrane"
+      ],
+      "answer": "Upozorenje koje je poštedjelo zajednicu mrava"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dolina mrava",
+        "Sulejmanov pečatnjački prsten",
+        "Jusufova krvlju umrljana košulja",
+        "Zlatno tele iz Egzodusa",
+        "Musin štap"
+      ],
+      "answer": "Dolina mrava"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Zajednica je pošteđena nakon što se sklonila",
+        "Zajednica je uništena bez skloništa",
+        "Zajednica je pošteđena jer se vojska povukla",
+        "Zajednica je nagrađena kontrolom nad pticama",
+        "Zajednica je odvedena u zarobljeništvo na kraljevski dvor"
+      ],
+      "answer": "Zajednica je pošteđena nakon što se sklonila"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

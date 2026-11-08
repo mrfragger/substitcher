@@ -1,0 +1,61 @@
+{
+  "title": "Obljuba, izrečena čez žerjavico",
+  "intro": "Stojite ob puščavskem ognju, medtem ko se njegova žerjavica skrbno razprostira. Obiskovalci prispejo na srečanje v tišini in eno samo sporočilo odpre zgodbo o obljubi, presenečenju in prihodnosti, ki se še ni izpolnila.",
+  "clues": [
+    "Prečkali smo razdaljo, da bi dosegli zvestega služabnika v puščavi.",
+    "Prosili smo, naj razprostrejo žerjavico za pripravo ognja.",
+    "Pogovarjali smo se z nekom, ki je klical k plamenu, da bi ga ohladil in našel varnost.",
+    "Nekomu, ki je že presegel starost, ko lahko ima otroke, smo prinesli novico o novorojenčku.",
+    "Obljubljenemu otroku smo dali ime Izak.",
+    "Ibrahimu smo prinesli veselo novico o sinu in osupljiva novica ga je nasmejala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Angeli, ki so Ibrahimu prinesli veselo novico o Izaku",
+        "Angeli, ki so posvarili Luta",
+        "Angeli, ki nosijo prestol",
+        "Angeli pekla",
+        "Angeli, poslani k Noetu"
+      ],
+      "answer": "Angeli, ki so Ibrahimu prinesli veselo novico o Izaku"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ibrahimu prinaša veselo novico o Izakovem rojstvu",
+        "Opozorilo Luta pred kaznovanjem njegovega ljudstva",
+        "Oznanitev rojstva Yahye Zakariyyi",
+        "Nošenje prestola na sodni dan",
+        "Oznanitev rojstva Isa Maryam"
+      ],
+      "answer": "Ibrahimu prinaša veselo novico o Izakovem rojstvu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ogenj, pripravljen iz razpršenega žerjavja",
+        "Barka, ki plava na poplavni vodi",
+        "Jama, zapečatena s kotalijočim se kamnom",
+        "Gora gline, utrjene s slanico",
+        "Lestev, ki se razteza v nebo"
+      ],
+      "answer": "Ogenj, pripravljen iz razpršenega žerjavja"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vesela novica o sinu po imenu Izak",
+        "Vesela novica o sinu po imenu Yahya",
+        "Izbira Taluta za vladarja nad Izraelovimi otroki",
+        "Opozorilo pred kaznijo Lutovega ljudstva",
+        "Ukaz za gradnjo barke pred potopom"
+      ],
+      "answer": "Vesela novica o sinu po imenu Izak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

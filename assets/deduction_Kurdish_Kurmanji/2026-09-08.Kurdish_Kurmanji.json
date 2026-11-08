@@ -1,0 +1,61 @@
+{
+  "title": "Ceribandina Agirê Pîroz",
+  "intro": "Li welatekî kevnar ku dilsoziya bi kevirên neqişandî re di her malê de kok dabû, kesek ji yên din cuda bû. Bi saya baweriya bêdawî û parastina îlahî, ew bi tiştê ku divê mirineke teqez bûya re rû bi rû man - û bê zirar çûn. Hûn dikarin nasnameya vê giyanê berbiçav eşkere bikin?",
+  "clues": [
+    "Ez di nav mirovan de mezin bûm ku ji pûtên ku wan bi destên xwe çêkiribûn re ditewandin, bi baweriya ku ev tişt xwedî hêzek îlahî ne.",
+    "Dema min baweriyên wan kir şik, wan di destpêkê de min red kir, lê ez nikarim li ser rastiya ku ez dizanibû bêdeng bimînim.",
+    "Roja ku ew hatin komkirin, min pûtên wan wêran kirin, tenê yê herî mezin bê dest ma.",
+    "Dema ku ew vegeriyan û dîtin ku min çi kiribû, serokên wan ferman dan ku agirê mezin bê çêkirin, ji bo ku min bavêjin nav agir.",
+    "Wan ez avêtim nav agirê geş, lê Xwedayê aleman ferman da ku ew ji bo min sar û ewle be.",
+    "Ez ji nav agir bi tevahî bê zirar derketim, di heman demê de ewên ku li dijî min komployan dikirin bi hilweşînek tevahî re rû bi rû bûn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îbrahîm",
+        "Pêxember Mûsa",
+        "Pêxember Nûh",
+        "Pêxember Îsa",
+        "Pêxember Yûsif"
+      ],
+      "answer": "Pêxember Îbrahîm"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Tê avêtin nav agirê geş",
+        "Ji aliyê balînayek mezin ve tê daqurtandin",
+        "Ji lehiyê mezin xilasbûn",
+        "Tê avêtin nav bîreke kûr",
+        "Rûbirûbûna bi sêrbazên padîşahekî re"
+      ],
+      "answer": "Tê avêtin nav agirê geş"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Agirekî mezin ê darê dişewite",
+        "Keştiyek darîn a mezin",
+        "Peykerê golikekî zêrîn",
+        "Sepetek li ser çemekî diherike",
+        "Textekî bi heybet"
+      ],
+      "answer": "Agirekî mezin ê darê dişewite"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Xwedê agir sar û ewle kir",
+        "Keştiya bi ewlehî li ser çiyayekî daket",
+        "Pûtê zêrîn li ber çavên wan heliya",
+        "Zalimek û artêşa wî di deryayê de xeniqîn",
+        "Çavê mirovekî kor dîsa hat vegerandin"
+      ],
+      "answer": "Xwedê agir sar û ewle kir"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

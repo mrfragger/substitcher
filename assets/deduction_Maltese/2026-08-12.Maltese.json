@@ -1,0 +1,61 @@
+{
+  "title": "Il-Mibgħuta tal-Ħniena u l-Qawwa",
+  "intro": "Immaġina waranofsinhar kwiet interrott mill-wasla ta’ vjaġġaturi mhux familjari. Id-dehra tagħhom hija ordinarja, iżda l-iskop tagħhom huwa kollox ħlief dan. Huma jġorru messaġġ divin li se jbiddel ir-rotta ta’ żewġ nazzjonijiet, u jġib id-daħk f’dar sterili u t-terrur f’belt midneb. Min huma dawn il-viżitaturi misterjużi?",
+  "clues": [
+    "Intbagħtuna għand qaddej devot ta' Alla, magħruf għall-ospitalità bla limitu tiegħu.",
+    "Wasalna taħt l-iskuża ta’ barranin, iżda min ospitana ħass xi ħaġa ta’ dinja oħra dwar il-preżenza tagħna.",
+    "Ġabna aħbar li ġiegħlet mara anzjana tidħaq bl-inkredulità, u ħabtet wiċċha stess bl-istagħġib.",
+    "Konna inkarigati li nipproteġu familja ġusta waqt li nxerrdu l-qerda fuq belt mimlija korruzzjoni.",
+    "Irrifjutajna li nieħdu sehem fl-ikla li offrewlna, u dan biss kabbar is-suspett ta’ min ospitana.",
+    "Aħna żvelajna n-natura vera tagħna biss qabel ma tlaqna, billi għedna, 'Tabilħaqq, aħna messaġġiera tal-Mulej tiegħek.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Il-Mistiedna ta’ Abraham",
+        "Id-Dixxipli ta’ Ġesù",
+        "Il-Kumpanji tal-Għar",
+        "L-Armata ta' Abraha",
+        "Il-Messaġġiera ta’ Ya-Sin"
+      ],
+      "answer": "Il-Mistiedna ta’ Abraham"
+    },
+    "trial": {
+      "label": "Il-Missjoni Tagħna",
+      "options": [
+        "Biex tittestja l-fidi ta’ Abraham rigward ibnu",
+        "Biex twassal l-iskrittura lil Abraham",
+        "Biex iħabbar it-twelid ta’ Iżakk u l-qerda tal-poplu ta’ Lot",
+        "Biex tiggwida lil Abraham lejn il-Kaaba",
+        "Biex isalva lil Abraham min-nar"
+      ],
+      "answer": "Biex iħabbar it-twelid ta’ Iżakk u l-qerda tal-poplu ta’ Lot"
+    },
+    "location": {
+      "label": "Post tad-Dehra",
+      "options": [
+        "Fl-art tal-Eġittu",
+        "Fil-belt ta’ Ur",
+        "Fid-dar ta’ Abraham",
+        "Fil-ġnien tal-Eden",
+        "Fil-bir ta’ Zamzam"
+      ],
+      "answer": "Fid-dar ta’ Abraham"
+    },
+    "outcome": {
+      "label": "Ir-Riżultat",
+      "options": [
+        "Abraham sar sultan",
+        "Abraham bena l-Kaaba",
+        "Sara wildet lil Iżakk u n-nies ta’ Lot inqerdu",
+        "Abraham emigra lejn il-Palestina",
+        "Il-poplu ta’ Abraham ġie salvat minn dilluvju kbir"
+      ],
+      "answer": "Sara wildet lil Iżakk u n-nies ta’ Lot inqerdu"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

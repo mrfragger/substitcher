@@ -1,0 +1,61 @@
+{
+  "title": "Test neplodne stijene",
+  "intro": "Zajednica, vješta i ponosna, uklesala je svoje nasljeđe u same planine. Ali kada im je poslan jasan znak, ispit vjere i suzdržanosti, njihova arogancija ih je odvela putem bez povratka. Možete li identificirati ovu skupinu i posljedice njihovog prkosa?",
+  "clues": [
+    "Bili smo majstori kamena, klesajući veličanstvene nastambe direktno u planinske obronke.",
+    "Došao nam je glasnik iz našeg naroda, pozivajući nas da obožavamo Jedinog Istinskog Boga.",
+    "Zahtijevali smo znak koji će dokazati njegove riječi, a jedinstveno stvorenje nam je dovedeno kao iskušenje.",
+    "Dobili smo jednostavnu naredbu: podijeliti naš izvor vode s ovim stvorenjem, dopuštajući mu da pije na svoj određeni dan.",
+    "U svojoj aroganciji, nekolicina nas je skovala zavjeru i prkosili smo upozorenju, uništivši stvorenje koje je trebalo biti naš znak.",
+    "Dobili smo tri dana prije propasti, a onda nas je snažna eksplozija zahvatila u našim domovima, ostavivši nas bez života i prevrnuvši nas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko smo mi?",
+      "options": [
+        "Ljudi iz 'Ad",
+        "Ljudi iz Madyana",
+        "Ljudi iz Semuda",
+        "Ljudi iz Sabe",
+        "Ljudi Luta"
+      ],
+      "answer": "Ljudi iz Semuda"
+    },
+    "trial": {
+      "label": "Koji je bio naš primarni test?",
+      "options": [
+        "Izgradnja arke za preživljavanje poplave",
+        "Odoljeti porivu za ribolovom u subotu",
+        "Odustajanje od prijevarnih poslovnih praksi",
+        "Zaštita čudesne deve",
+        "Izdržavanje sedmogodišnje gladi"
+      ],
+      "answer": "Zaštita čudesne deve"
+    },
+    "location": {
+      "label": "Koji je bio središnji element naše priče?",
+      "options": [
+        "Zlatno tele",
+        "Deva",
+        "Štap proroka Muse",
+        "Velika brana Ma'riba",
+        "Stol postavljen s neba"
+      ],
+      "answer": "Deva"
+    },
+    "outcome": {
+      "label": "Kakva je bila naša konačna sudbina?",
+      "options": [
+        "Utopljen u velikoj poplavi",
+        "Pretvoreni u majmune i svinje",
+        "Preplavljen bijesnim vjetrom",
+        "Raspršeni pucanjem brane",
+        "Uništeno snažnom eksplozijom/potresom"
+      ],
+      "answer": "Uništeno snažnom eksplozijom/potresom"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

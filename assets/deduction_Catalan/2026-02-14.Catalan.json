@@ -1,0 +1,61 @@
+{
+  "title": "El constructor de barreres",
+  "intro": "A través de vastes terres, un individu poderós va emprendre una sèrie d'expedicions, a les quals se li va atorgar una autoritat i uns mitjans immensos. Aquesta ànima es va trobar amb comunitats diverses i es va enfrontar a reptes únics, deixant una empremta duradora en la història i la fe a través de les seves accions i saviesa, tot reconeixent la veritable font de la seva força.",
+  "clues": [
+    "Em van concedir poder i mitjans sobre tot, i vaig seguir un camí.",
+    "El meu viatge em va portar al lloc on es pon el sol, on vaig trobar un poble.",
+    "Vaig trobar una comunitat que amb prou feines entenia la parla, que vivia entre dues muntanyes.",
+    "Em van demanar que construís una barrera, no per benefici personal, sinó per protegir-me contra una força destructiva.",
+    "Vaig declarar que la força per construir aquest enorme mur provenia d'Al·là, i que duraria fins a un temps promès.",
+    "El meu nom, sovint traduït com a \"El de dues banyes\", significa el meu abast a través de la terra o potser dues èpoques diferents."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Musa",
+        "Profeta Sulayman",
+        "Dhul-Qarnayn",
+        "Faraó",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Rebre revelació",
+        "Enfrontant-se a un tirà",
+        "Construint un gran vaixell",
+        "Construint una barrera poderosa",
+        "Ser engolit per un peix"
+      ],
+      "answer": "Construint una barrera poderosa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "La barrera de ferro",
+        "El riu Nil",
+        "El Tron"
+      ],
+      "answer": "La barrera de ferro"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Salvació de la inundació",
+        "Convertint-se en un gran regne",
+        "Protecció per a un poble",
+        "Destrucció d'un opressor",
+        "Saviesa perdurable"
+      ],
+      "answer": "Protecció per a un poble"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

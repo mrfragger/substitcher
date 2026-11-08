@@ -1,0 +1,61 @@
+{
+  "title": "Udhëtarët e fushës së gjelbër",
+  "intro": "Në një kohë të lashtë, dy individë kujdeseshin për tokat fqinje. Shtigjet e tyre ishin të ndërthurura, megjithatë zemrat e tyre i çonin drejt destinacioneve shumë të ndryshme. Njëri eci në rrugën e drejtë, ndërsa tjetri u zhduk në errësirën e mohimit. A mund ta zbuloni misterin e këtyre dy kujdestarëve të të korrave?",
+  "clues": [
+    "Zotëroja të korra të bollshme, të korra të harlisura që i verbonin sytë e shikuesve.",
+    "Fqinji im zotëronte begati edhe më të mëdha se unë, megjithatë unë e lakmoja pjesën e tyre më shumë sesa timen.",
+    "Unë sugjerova që t’ua shkatërronim tërësisht të mbjellat, për të konsoliduar gjithçka nën kontrollin tim.",
+    "I solla rrënim edhe të korrave të mia, duke shkatërruar gjithçka me intrigat e mia të pamenda.",
+    "Qëndrova i pafuqishëm ndërsa të korrat e mia u thanë dhe pasuria ime u shndërrua në pluhur brenda një nate të vetme.",
+    "Unë nuk kisha pjesë në Jetën e Përtejme dhe vendbanimi im i fundit u bë një gropë me zjarr të ndezur fort."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Njeriu që mohoi ringjalljen dhe gjykimin",
+        "Sundimtari që shtypi fermerin e drejtë",
+        "Pronari i pasur i tokës që nuk ishte mirënjohës",
+        "Fermeri që lakmoi tokën e fqinjit të tij",
+        "Partneri i pabesë që komplotoi shkatërrimin"
+      ],
+      "answer": "Fermeri që lakmoi tokën e fqinjit të tij"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Prova e marrjes së zbulesës hyjnore",
+        "Sfida e pasurisë dhe durimit",
+        "Tundimi për të shkatërruar jetesën e një personi të drejtë",
+        "Urdhri për të ndarë trashëgiminë në mënyrë të drejtë",
+        "Lufta kundër shtypjes së një tirani"
+      ],
+      "answer": "Tundimi për të shkatërruar jetesën e një personi të drejtë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Kopshtet e gjelbërta të parajsës",
+        "Dy fusha të lashta fqinje",
+        "Malet që dëshmuan shkatërrimin",
+        "Vendi i shenjtë i Mekës",
+        "Brigjet e lumit të një toke të bekuar"
+      ],
+      "answer": "Dy fusha të lashta fqinje"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Parajsë e përjetshme si shpërblim për drejtësinë",
+        "Shkatërrim i plotë i të dy të korrave në këtë jetë",
+        "Mërgim dhe endje deri në vdekje",
+        "Prosperitet i përkohshëm i ndjekur nga zjarri i përjetshëm",
+        "Një restaurim i mrekullueshëm dhe një shpërblim i dyfishuar"
+      ],
+      "answer": "Shkatërrim i plotë i të dy të korrave në këtë jetë"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

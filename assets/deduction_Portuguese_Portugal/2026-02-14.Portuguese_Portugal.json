@@ -1,0 +1,61 @@
+{
+  "title": "O Construtor de Barreiras",
+  "intro": "Em vastas terras, um indivíduo poderoso embarcou em uma série de expedições, dotado de imensa autoridade e recursos. Essa alma encontrou diversas comunidades e enfrentou desafios únicos, deixando uma marca indelével na história e na fé por meio de suas ações e sabedoria, sempre reconhecendo a verdadeira fonte de sua força.",
+  "clues": [
+    "Recebi poder e meios sobre tudo, e segui um caminho.",
+    "Minha jornada me levou ao lugar onde o sol se põe, onde encontrei um povo.",
+    "Deparei-me com uma comunidade que mal conseguia entender a fala, residindo entre duas montanhas.",
+    "Me pediram para construir uma barreira, não para ganho pessoal, mas para proteger contra uma força destrutiva.",
+    "Declarei que a força para construir este muro maciço vinha de Alá, e que ele permaneceria de pé até o tempo prometido.",
+    "Meu nome, frequentemente traduzido como 'O de Dois Chifres', significa meu alcance pela Terra ou talvez duas eras distintas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Moisés",
+        "Profeta Sulayman",
+        "Dhul-Qarnayn",
+        "faraó",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Recebendo revelação",
+        "Enfrentando um tirano",
+        "Construindo um grande navio",
+        "Construindo uma barreira poderosa",
+        "Ser engolido por um peixe"
+      ],
+      "answer": "Construindo uma barreira poderosa"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Arca",
+        "A equipe",
+        "A Barreira de Ferro",
+        "O Rio Nilo",
+        "O Trono"
+      ],
+      "answer": "A Barreira de Ferro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Salvação do dilúvio",
+        "Tornando-se um grande reino",
+        "Proteção para um povo",
+        "Destruição de um opressor",
+        "Sabedoria duradoura"
+      ],
+      "answer": "Proteção para um povo"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

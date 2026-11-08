@@ -1,0 +1,61 @@
+{
+  "title": "Ailtirí na Cloiche",
+  "intro": "Samhlaigh sibhialtacht chumhachtach, bronnta le neart agus scileanna, ag snoíodóireacht áitribh mhóra i leaca sléibhe. Bhí rathúnas ollmhór agus cumas ailtireachta uathúil ag an gcomhchoiteann seo. Ach, in ainneoin rabhaidh shoiléire a fháil, roghnaigh siad cosán a mbeadh críoch drámatúil agus dodhearmadta mar thoradh air. An féidir leat an grúpa seo a aithint a bhfuil a scéal ina cheacht domhain do gach duine a mhachnaíonn?",
+  "clues": [
+    "Bronnadh neart agus scileanna orainn, rud a chuir ar ár gcumas tithe iontacha a shnoí go díreach sna sléibhte.",
+    "Tugadh comhartha soiléir dúinn ó Allah, créatúr uathúil a bhí le fágáil gan cur isteach air le bheith ag innilt.",
+    "D’éirigh ár bpobal sotalach, ag cur dúshlán na teachtaireachta diaga a thug teachtaire uainn.",
+    "Rinneamar comhcheilg chun dochar a dhéanamh don chomhartha míorúilteach, in ainneoin na rabhaidh faoi phionós dian.",
+    "Sháraíomar an t-ordú ligean don chréatúr speisialta deoch a ól as ár dtobar gach malartach lá.",
+    "Bhuaileadh deireadh tubaisteach orainn, buailte le pléascadh scanrúil amháin i ndiaidh ár ngníomh ciontachta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Muintir 'Ad",
+        "Muintir Mhidiáin",
+        "Muintir an Eilifint",
+        "Muintir Thamud",
+        "Muintir Lut"
+      ],
+      "answer": "Muintir Thamud"
+    },
+    "trial": {
+      "label": "Ár dTriail/Imeacht Mhór",
+      "options": [
+        "An tuile a shlog an talamh",
+        "Scoilteadh na farraige",
+        "An scrios le pléasc/béic amháin",
+        "Dóiteán cathrach",
+        "Ag casadh sléibhe ina dheannach"
+      ],
+      "answer": "An scrios le pléasc/béic amháin"
+    },
+    "location": {
+      "label": "Gné Lárnach inár Scéal",
+      "options": [
+        "Lao órga",
+        "Camall baineann míorúilteach",
+        "Tor dóite",
+        "Éan ag caint",
+        "Ríchathaoir maorga"
+      ],
+      "answer": "Camall baineann míorúilteach"
+    },
+    "outcome": {
+      "label": "Ár dToradh Deiridh",
+      "options": [
+        "Bronnadh saibhreas agus cumhacht ollmhór air",
+        "Ardaithe go fáidhiúlacht",
+        "Scriosadh iomlán le pionós diaga",
+        "Maithiúnas tar éis aithrí ó chroí",
+        "Scaipthe ar fud an domhain le fánaíocht"
+      ],
+      "answer": "Scriosadh iomlán le pionós diaga"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

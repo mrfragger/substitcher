@@ -1,0 +1,61 @@
+{
+  "title": "Letamo le le Thubileng Bogosi",
+  "intro": "Lefatshe la dinoka tse di elelang, ditshingwana tse pedi tse ditala, le katlego e e senang selekanyo — mme banni ba lone ba ne ba gola ba sa tlhokomele Ene yo o neng a ba segofatsa. Fa dikgopotso di tla di ba bitsa gape, ba ne ba fapoga. Se se neng sa latela e ne e le kotlhao e e sa ntseng e utlwala e le tlhagiso. Setšhaba seno sa bogologolo e ne e le bomang?",
+  "clues": [
+    "Re ne re nna mo lefatsheng le le segofaditsweng thata jaana mo e leng gore legae la rona le ne le le fa gare ga ditshingwana tse pedi tse ditala.",
+    "Re ne re itumelela dinoka tse di neng di elela mo mafatsheng a rona le thobo e ntsi e e neng e tlala mo matlong a rona.",
+    "Le fa go ntse jalo fa re bidiwa go leboga le go ikobela Morena wa rona, re ne ra fapoga ka boikgogomoso.",
+    "Khumo le go nna motlhofo ga rona go ne ga dira gore re lebale Ene yo o neng a di neile tsotlhe.",
+    "Go tswa foo go ne ga tla molatswana wa tshoganyetso o o neng wa thuba sekgoreletsi se segolo se re neng re ikaegile ka sone.",
+    "Re batho ba Saba', ba lefatshe la bone le neng le itsege ka Letamo le legolo la Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batho ba Saba",
+        "Batho ba Mosele",
+        "Batsala ba Sediba",
+        "Batho ba Tubba'.",
+        "Batho ba Midiana"
+      ],
+      "answer": "Batho ba Saba"
+    },
+    "trial": {
+      "label": "Go wa ga Rona",
+      "options": [
+        "Morwalela o o tswang mo letamong le le thubegang",
+        "Phefo e e maatla e e tswang kwa loaping",
+        "Go tuka mo mosimeng wa molelo",
+        "Thoromo e kgolo ya lefatshe",
+        "Go nwela mo morwaleleng o mogolo"
+      ],
+      "answer": "Morwalela o o tswang mo letamong le le thubegang"
+    },
+    "location": {
+      "label": "Lefelo la Botlhokwa",
+      "options": [
+        "Letamo la Ma'rib",
+        "Thaba ya Sinai",
+        "Logaga lwa Baroko ba le Supa",
+        "Setlhatshana se se Fisang",
+        "Go Kgaogana ga Lewatle"
+      ],
+      "answer": "Letamo la Ma'rib"
+    },
+    "outcome": {
+      "label": "Phelelo ya Rona",
+      "options": [
+        "Ditshingwana tse pedi tse di botlhoko di ne tsa emisetsa tsa rona tse ditala",
+        "Ditshingwana tsa rona di ne tsa gola le go feta",
+        "Lefatshe le ne la nwela ka fa tlase ga lewatle",
+        "Re ne re fitlhilwe mo moloreng wa lekgwamolelo",
+        "Morafe wa rona o ne wa kgaogana ka merafe e le lesome le bobedi"
+      ],
+      "answer": "Ditshingwana tse pedi tse di botlhoko di ne tsa emisetsa tsa rona tse ditala"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

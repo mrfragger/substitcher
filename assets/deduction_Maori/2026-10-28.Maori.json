@@ -1,0 +1,61 @@
+{
+  "title": "He Kupu Whakapuaki i Kōrerotia i Runga i ngā Waro",
+  "intro": "E tū ana koe i te taha o te ahi koraha i a ia e horahia ana ōna mura ahi. Ka tae mai ngā manuhiri ki tētahi tūtakitanga i roto i te marino, ā, kotahi te karere e whakatuwhera ana i tētahi kōrero o te kupu whakaari, te ohorere, me tētahi heke mai kāore anō kia tutuki.",
+  "clues": [
+    "I whiti mātou i te tawhiti kia tae atu ki tētahi pononga pono i te koraha.",
+    "I tono mātou kia horahia ngā ngarahu hei whakarite ahi.",
+    "I kōrero mātou ki tētahi i karanga ki te mura mō te matao me te haumaru.",
+    "I kawea e mātou he rongo mō tētahi whānau hou ki tētahi kua hipa te tau e kore ai e taea te whānau tamariki.",
+    "I tapaina e mātou te tamaiti i whakaaria mai ko Ihaka.",
+    "I kawea e mātou he rongo pai mō tētahi tama ki a Āperahama, ā, i kata a Āperahama i te rongo whakamiharo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā Anahera i kawe mai i ngā rongo pai mō Ihaka ki a Āperahama",
+        "Ngā Anahera i Whakatūpato i a Ruta",
+        "Ngā Anahera e Mau Ana i te Torona",
+        "Ngā Anahera o te Reinga",
+        "Ngā Anahera i tonoa ki a Noa"
+      ],
+      "answer": "Ngā Anahera i kawe mai i ngā rongo pai mō Ihaka ki a Āperahama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te kawe mai i te rongo pai mō te whānautanga o Ihaka ki a Āperahama",
+        "Te whakatūpato i a Ruta i mua i te whiunga o tōna iwi",
+        "Te kauwhau i te whānautanga o Yahya ki a Zakariyya",
+        "Te amo i te torona i te rā whakawa",
+        "Te kauwhau i te whānautanga o Īha ki a Meriama"
+      ],
+      "answer": "Te kawe mai i te rongo pai mō te whānautanga o Ihaka ki a Āperahama"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He ahi i hangaia mai i ngā mura e horapa ana",
+        "He āka e mānu ana i runga i te waipuke",
+        "He ana i hiritia e te kōhatu hurihuri",
+        "He maunga uku i whakapakeketia e te tote",
+        "He arawhata e toro atu ana ki te rangi"
+      ],
+      "answer": "He ahi i hangaia mai i ngā mura e horapa ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "He rongo pai mō tētahi tama ko Ihaka tōna ingoa",
+        "He rongo pai mō tētahi tama ko Yahya tōna ingoa",
+        "Te whiriwhiringa o Talut hei rangatira mō ngā tamariki a Iharaira",
+        "He whakatūpato i mua i te whiunga o te iwi o Rutu",
+        "He whakahau kia hanga he āka i mua i te Waipuke"
+      ],
+      "answer": "He rongo pai mō tētahi tama ko Ihaka tōna ingoa"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

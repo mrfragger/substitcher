@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimme, die sich der Verzweiflung widersetzte",
+  "intro": "Betreten Sie einen Haushalt, in dem sich Verluste häufen, doch eine ruhige Stimme widersetzt sich der Verzweiflung. Ein einziger Aufruf im Koran verwandelt Geduld in einen Wendepunkt; können Sie die Hinweise auf die Person hinter dieser Stimme finden?",
+  "clues": [
+    "Ich war die Stimme der Geduld in einem Haushalt, in dem Segnungen durch Unglück auf die Probe gestellt wurden.",
+    "Ich blieb in einem Haushalt zurück, der durch den Verlust von Reichtum und Kindern leer geworden war.",
+    "Ich wusste, dass auch dieser Begleiter von der Krankheit befallen war, sein Körper war betroffen.",
+    "Als die Not unerträglich wurde, rief ich um Hilfe bei Allah.",
+    "Ich gab eine Erklärung ab: Allah ist die Wahrheit, also bleibt geduldig.",
+    "Ich rief Ayyub beim Namen; daraufhin beseitigte Allah das Leid und stellte die Familie wieder zusammen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Frau des Propheten Ayyub",
+        "Die Frau des Propheten Nuh",
+        "Die Frau des Propheten Ibrahim",
+        "Die Frau des Propheten Ya'qub",
+        "Die Tochter des Pharaos"
+      ],
+      "answer": "Die Frau des Propheten Ayyub"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "In Zeiten des Verlustes und der Krankheit bei Ayyub bleiben und dann um Geduld bitten",
+        "Warnung an einen gerechten Boten, eine korrupte Gemeinschaft zu verlassen",
+        "Für die Geburt einer zukünftigen Dynastie beten",
+        "Traumdeutung im königlichen Gefängnis",
+        "Ein anvertrautes Kind am Ufer eines Flusses finden"
+      ],
+      "answer": "In Zeiten des Verlustes und der Krankheit bei Ayyub bleiben und dann um Geduld bitten"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Erklärung, dass Allah die Wahrheit ist, und Geduld sind erforderlich.",
+        "Eine Palme neben einer Quelle",
+        "Ein Aufruf zum Bau eines Schiffes fernab der Wellen",
+        "Ein Traum von elf Sternen und einer aufgehenden Sonne",
+        "Ein Korb, der den Nil entlanggetragen wird"
+      ],
+      "answer": "Die Erklärung, dass Allah die Wahrheit ist, und Geduld sind erforderlich."
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ayyubs Leiden wurde geheilt und seine Familie wiederhergestellt.",
+        "Nach einem erfolglosen Gebet wurde der lang ersehnte Kinderwunsch erfüllt.",
+        "Ein junger Herrscher interpretierte sieben Jahre des Überflusses und der Knappheit",
+        "Ein anvertrautes Kind wurde aus fließendem Wasser gerettet.",
+        "Einer verheerenden Flut ging eine Warnung voraus."
+      ],
+      "answer": "Ayyubs Leiden wurde geheilt und seine Familie wiederhergestellt."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Easpa Naofa",
+  "intro": "Taobh thiar de dhumhcha an ama, luíonn scéal faoi dhílseacht dhochloíte agus muinín chomh trom sin gur bhris an t-anam a bhí á hiompar. I nóiméad nuair a chas na daoine i dtreo na baoise agus an óir, sheas figiúr amháin go daingean—ag glaoch orthu ar ais, ag impí ar fhoighne, agus ag iompar meáchan gealltanais naofa. Seo scéal duine a roghnaíodh mar chúntóir, mar vizier, agus mar chaomhnóir creidimh le linn easláithreachta naofa. An féidir leat céannacht an anama dhílis seo a nochtadh?",
+  "clues": [
+    "Roinnim fuil fáidh mhóir a roghnaíodh chun labhairt le Allah go díreach ar shliabh naofa.",
+    "D’impigh mo dheartháir nó deirfiúr ar Allah uair amháin ar chabhair chun labhairt go soiléir le fear-leithscrios mór.",
+    "Roghnaigh Allah mé chun seasamh taobh le mo dheartháir nó deirfiúr mar chúntóir agus mar vizier.",
+    "Le chéile bhíomar os comhair rialóir tíoránta a d'éiligh go nglaofaí air an déithe is airde.",
+    "Agus mo dheartháir nó deirfiúr ag caint le Allah ar an sliabh, rinne ár muintir dealbh dóibh féin as a n-ór.",
+    "Is mise deartháir Mhaois, ceaptha ag Allah mar a vizier, a luaitear de réir ainm sa Corán."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Harun (Aaron)",
+        "an Fáidh Músa",
+        "Fáidh Dawud",
+        "an Fáidh Yaqub",
+        "Fáidh Ishaq"
+      ],
+      "answer": "An Fáidh Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Géarchéim Adhartha na Lao",
+        "An Tuilte Mór de Nuh",
+        "Cath Badr",
+        "Scriosadh Thamud",
+        "Scriosadh Shodom"
+      ],
+      "answer": "Géarchéim Adhartha na Lao"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Lao Órga",
+        "Áirc Naoi",
+        "An Tor Dóite",
+        "Uaimh Hira",
+        "Ríchathaoir Sheba"
+      ],
+      "answer": "An Lao Órga"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Neamhchiontacht deimhnithe ag Allah",
+        "Báthadh an Fharó",
+        "Foirgneamh an Kaaba",
+        "Trasnú Sábháilte na Farraige",
+        "Ardú go dtí na Neamh"
+      ],
+      "answer": "Neamhchiontacht deimhnithe ag Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

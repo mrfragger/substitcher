@@ -1,0 +1,61 @@
+{
+  "title": "Na Lorgóirí Fírinne atá ina gCodladh",
+  "intro": "Samhlaigh am nuair a cuireadh dúshlán ar chreideamh, agus nuair a roghnaigh grúpa anamacha a ndíograis gan staonadh thar chompord an tsaoil. Agus rogha scanrúil rompu, lorg siad tearmann, ag dul ar thuras a thug codladh neamhghnách orthu. Is fianaise ar chosaint dhiaga agus ar chumhacht an chreidimh i gcoinne an fhoréigin a scéal. An féidir leat céannacht na ndaoine suntasacha seo a aithint?",
+  "clues": [
+    "Tionól beag a bhí ionainn, aontaithe ag creideamh domhain san Aon Chruthaitheoir Aonair.",
+    "Bhí cónaí orainn i ré inar éiligh rialóir cumhachtach adhradh do dhaoine eile seachas Allah.",
+    "Chun ár gcreideamh a chaomhnú, shocraíomar ár dtithe a thréigean agus teitheadh ​​ón bhforéigean.",
+    "Bhí compánach dílis, créatúr an domhain, linn ar ár dturas.",
+    "Fuaireamar tearmann in áit iargúlta, áit ar chuir Allah codladh domhain fada orainn.",
+    "Nuair a dhúisíomar, chreid muid nach raibh ach lá nó cuid de lá caite, ach go raibh na céadta bliain imithe thart i ndáiríre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir na Díge",
+        "Muintir Thamud",
+        "Muintir Saba",
+        "Muintir na hUaimhe",
+        "Muintir Madyan"
+      ],
+      "answer": "Muintir na hUaimhe"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á thástáil le talamh lom",
+        "Ag tabhairt aghaidh ar thuilte móra",
+        "Ag lorg tearmainn ó rialóir tíoránta",
+        "Á chaitheamh isteach i tine dhóite",
+        "Ag cur dúshlán draíocht draoi"
+      ],
+      "answer": "Ag lorg tearmainn ó rialóir tíoránta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Pálás mór",
+        "Long/áirc",
+        "Tobar domhain",
+        "Uaimh",
+        "Sliabh ard"
+      ],
+      "answer": "Uaimh"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ríocht a bhronnadh",
+        "Codladh míorúilteach le céadta bliain",
+        "Á shlogadh ag an talamh",
+        "Á shábháil ó stoirm millteach",
+        "Bord neamhaí á sholáthar"
+      ],
+      "answer": "Codladh míorúilteach le céadta bliain"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

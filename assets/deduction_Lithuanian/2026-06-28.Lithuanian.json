@@ -1,0 +1,61 @@
+{
+  "title": "Vyresniojo netikėtas maitinimas",
+  "intro": "Šventose Alacho namų vietose pagyvenęs Dievo tarnas patyrė gilią paslaptį, pranokusią visus lūkesčius. Šis atsidavęs asmuo, jau seniai peržengęs natūralios tėvystės metus, tapo nepaprasto dalyko, atskleidžiančio beribį Dievo gailestingumą, liudininku. Mįslė slypi šios pamirštos pranašų gyvenimo akimirkos atskleidime.",
+  "clues": [
+    "Mano tauta buvo žinoma kaip Izraelis, didžio senovės patriarcho palikuonys.",
+    "Naktis leisdavau maldoje, puldamas kniūbsčias prieš savo Viešpatį šventykloje.",
+    "Senatvėje man gimė sūnus – dovana, už kurią niekada nenustojau šlovinti Alachą.",
+    "Mano išbandymas buvo susijęs su maisto atradimu jaunai sielai, kuria rūpinausi.",
+    "Aš buvau pranašas, vardu Zakariyya, kuriam buvo pavesta rūpintis Maryam Bayt al-Maqdis.",
+    "Atsakymas slypi eilutėje, kurioje Alachas priėmė Maryam ir pasirūpino ja išlaikymo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas, kuris rūpinosi Marija šventykloje",
+        "Pranašas, kuris pastatė šventus namus",
+        "Pranašą prarijo didelė žuvis",
+        "Pranašas, pabėgęs nuo savo tautos",
+        "Pranašas, kuris kalbėjo tiesiogiai su Alachu"
+      ],
+      "answer": "Pranašas, kuris rūpinosi Marija šventykloje"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Išbandomas sausros metais",
+        "Paslaptingai rastas jaunam globotiniui aprūpintas maistas",
+        "Pamokslavimas tautai, kuri atmetė Dievo vadovavimą",
+        "Būti įmestu į duobę savųjų žmonių",
+        "Apreiškimo gavimas per vizijas"
+      ],
+      "answer": "Paslaptingai rastas jaunam globotiniui aprūpintas maistas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Laivas, pastatytas iš lentų ir vinių",
+        "Šventoji Jeruzalės šventykla",
+        "Sodas, kuris buvo sunaikintas",
+        "Teisingo karaliaus pastatytas miestas",
+        "Vandenyno gelmės"
+      ],
+      "answer": "Šventoji Jeruzalės šventykla"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Žmonės tikėjo ir sekė pasiuntiniu",
+        "Dieviškas priėmimas ir gailestingumas tiems, kurie atsidavę garbinimui",
+        "Bausmė ištiko netikinčiuosius",
+        "Sūnus gimė senatvėje, kaip ir buvo žadėta",
+        "Saugus kelias per dykumą"
+      ],
+      "answer": "Dieviškas priėmimas ir gailestingumas tiems, kurie atsidavę garbinimui"
+    }
+  },
+  "verseRef": "3:37",
+  "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+  "verse": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\" (3:37)"
+}

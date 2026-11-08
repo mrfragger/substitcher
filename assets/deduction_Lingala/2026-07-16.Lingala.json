@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo Oyo Ezalaki Kotelemela Bokonzi Ya Ekeko",
+  "intro": "Kati na bamemi-nsango ya Mozwi-ya-Nguya-Nyonso ezalaki na mosaleli moko ya molende oyo atɛlɛmaki kati na ekólo moko ya motó makasi mpo na kobikisa solo. Bato na bango bazwaki nzambe moko ya mayele mabe, batikaki Mozalisi ya biloko nyonso oyo ezali. Na mokano ya kotengatenga te, moto oyo abengaki bango lisusu — kasi nsango ekutanaki na koboya mpe koboya. Lita na kati ya bilembo mpo na koyeba nani mosaleli oyo amipesaki.",
+  "clues": [
+    "Natindamaki lokola momemi-nsango epai ya bato moko ya motó makasi oyo bayengayenga mosika na nzela ya semba.",
+    "Nayaki kokundolisa ekolo na ngai Moto oyo akelaki nionso oyo ezali — oyo eleki malamu koleka bakelasi nionso.",
+    "Bato na ngai babalukaki epai ya ekeko ya lokuta oyo bazalaki kokumisa mpe kobelela butu moi.",
+    "Na mpiko nyonso natɛmɛlaki bango, natunaki bango mpo na nini bakosambela nzambe moko ya mayele mpe bakotika Nkolo na bango ya solo.",
+    "Bawanganaki ngai, baboyaki koyoka, mpe basimbaki makasi na lokuta na bango — nzokande Nkolo na ngai abatelaki ngai.",
+    "Nazali Ilyas — mpe kimia epesamelaki ngai, mpe natangamaki kati na basali bandimi ya Mozwi-ya-Mawa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ilyas",
+        "Mosakoli Idris",
+        "Mosakoli Alyasa",
+        "Mosakoli Dhul-Kifl",
+        "Mosakoli Nuh"
+      ],
+      "answer": "Mosakoli Ilyas"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobenga bato moko mosika na losambo ya Baala",
+        "Kokutana na mokonzi moko ya mobulu oyo azalaki koloba ete azali nzambe",
+        "Kokebisa bato moko mpo na mpela oyo ezali koya",
+        "Kobwakama na mɔ́tɔ monene oyo ezali kopela",
+        "Kokamba kobima na mboka ya bowumbu"
+      ],
+      "answer": "Kobenga bato moko mosika na losambo ya Baala"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ekeko yango ezalaki na nkombo Baala",
+        "Masuwa monene oyo etongamaki na mabaya ya makasi",
+        "Nzete oyo ekabolaki mbu monene",
+        "Elamba ya bulɛɛ oyo ekɔti na makila",
+        "Nzete moko oyo ezali kozika na ngomba mosantu"
+      ],
+      "answer": "Ekeko yango ezalaki na nkombo Baala"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Apesaki kimia mpe atangamaki na kati ya basali baponami ya Allah",
+        "Memamaki na paradiso wana basusu nyonso babebisamaki",
+        "Babikisamaki na mɔ́tɔ monene oyo ekómaki malili mpe ya libateli",
+        "Bapesaki bokonzi likoló ya ba jinn, bomoto, mpe mopɛpɛ",
+        "Nzoto ebatelami lokola elembo ya koumela mpo na bileko"
+      ],
+      "answer": "Apesaki kimia mpe atangamaki na kati ya basali baponami ya Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Momemi ya Kiti ya Bokonzi ya Noki",
+  "intro": "Na lopango ya mokonzi moko ya nguya, basɛngaki likambo moko oyo ekoki kosalema te, mpe bato mingi bazalaki kowelana mpo na komonisa ete bazali na ntina. Kasi, mosala yango ekokaki kokokisama bobele na moto oyo boyokani na ye na boyebi ya Nzambe elekaki makoki nyonso ya nzoto, komonisáká mwa ntango oyo ekoyokana na boumeli ya bileko.",
+  "clues": [
+    "Nazalaki na mosala ya mokonzi moko monene oyo azalaki mpe profeta, mpe natɛlɛmaki kati na etuluku na ye oyo azalaki kotyela motema mingi.",
+    "Nazalaki ekelamu ya mɔ́tɔ te to ekelamu ya makasi monene ya nzoto te, kasi nasimbaki eloko moko ya nguya mingi koleka.",
+    "Ntango mokonzi asɛngaki ete bámema kiti ya bokonzi longwa na mboka moko ya mosika, nayebaki mpenza nini nasengelaki kosala.",
+    "Nalobelaki boyebi nazalaki na yango uta na Buku, mpe yambo moto moko asala, kiti ya bokonzi etiamaki liboso ya mokonzi.",
+    "Mosala na ngai ezalaki na nguya na ngai moko te, kasi ezalaki kolakisa ete boyebi ya solo ewutaka na Allah kaka.",
+    "Nazali moto oyo amemaki kiti ya bokonzi ya Mokonzi-mwasi ya Sheba na kongɛnga ya liso, ndenge ekomami na Surah An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Oyo azalaki na boyebi ya Buku",
+        "Ba jinn ya nguya Ifrit",
+        "Ndeke ya hoopoe ya Sulayman",
+        "Mosakoli Sulayman",
+        "Mokonzi-mwasi ya Seba"
+      ],
+      "answer": "Oyo azalaki na boyebi ya Buku"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Komema kiti ya bokonzi ya Mokonzi-mwasi ya Seba na mbala moko",
+        "Kokabola Mbu Motane mpo na Bayisraele",
+        "Kotonga Kaaba na mwana na ye",
+        "Kobika na litumbu ya mɔ́tɔ",
+        "Kobikisama na libumu ya baleine"
+      ],
+      "answer": "Komema kiti ya bokonzi ya Mokonzi-mwasi ya Seba na mbala moko"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Kiti ya bokonzi ya Bilqis",
+        "Ba Staff ya Musa",
+        "Sanduku ya Nuh",
+        "Mɔtɔ ya Namrud",
+        "Baleine ya Yunus"
+      ],
+      "answer": "Kiti ya bokonzi ya Bilqis"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Kiti ya bokonzi ebimaki mbala moko liboso ya Sulayman lokola momekano ya botondi",
+        "Mokonzi-mwasi yango ayambaki mbala moko Lingomba ya Bamizilma",
+        "Batyaki jinn yango na bolɔkɔ mpo alongaki te",
+        "Sulayman atikaki bokonzi na ye",
+        "Kiti ya bokonzi ebukanaki na biteni"
+      ],
+      "answer": "Kiti ya bokonzi ebimaki mbala moko liboso ya Sulayman lokola momekano ya botondi"
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

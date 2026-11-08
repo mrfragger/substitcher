@@ -1,0 +1,61 @@
+{
+  "title": "Ang Anino sa Luyo sa Trono",
+  "intro": "Nagbarog ka sulod sa mga sawang sa usa ka gamhanang karaang gingharian, diin ang usa ka gamhanang magmamando nagproklamar sa ilang kaugalingon isip diyos sa tanang katawhan. Sa tupad niining magmamando nagbarog ang usa ka debotadong sulugoon, nga gisaligan sa labing dakong mga ambisyon sa gingharian. Magkauban silang nagplano ug nagplano, nga nagdumili sa pagsunod sa mga pasidaan sa usa ka mensahero nga gipadala aron sa paggiya kanila. Mahibal-an ba nimo kung kinsa kining matinud-anon nga sulugoon?",
+  "clues": [
+    "Nagpuyo ako sa usa ka gamhanang gingharian nga gimandoan sa usa ka gamhanang tawo nga nag-angkon nga siya ang diosnon sa tanang katawhan.",
+    "Nagserbisyo ako isip usa ka sinaligan nga ministro niining magmamando, nga nagtuman sa ilang tanan nga ambisyon ug sugo.",
+    "Sa dihang miabot ang mensahero sa Allah sa among yuta nga nanawag kanamo sa kamatuoran, ako ug ang akong magmamando wala maminaw.",
+    "Gisugo ako sa paghaling ug dakong kalayo ug pag-andam ug mga tisa nga yutang kulonon alang sa usa ka dakong konstruksyon.",
+    "Gusto sa akong magmamando nga magtukod og habog kaayong estruktura nga moabot sa langit mismo.",
+    "Sa katapusan, ang akong magmamando, ang among mga kasundalohan, ug ako nangaanod ug nalumos sa kahiladman sa dagat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagtukod og tore aron makaabot sa langit",
+        "Gitambog ngadto sa nagdilaab nga kalayo",
+        "Pagpukaw sa katawhan gikan sa pagsimba sa mga diosdios nga bato",
+        "Ang pagbahin sa bulan isip usa ka balaan nga timaan",
+        "Pagsakop sa usa ka gamhanang siyudad pinaagi sa balaang sugo"
+      ],
+      "answer": "Pagtukod og tore aron makaabot sa langit"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka tore nga hinimo sa linuto nga mga tisa nga yutang kulonon",
+        "Tiyan sa balyena",
+        "Usa ka sagrado nga tubod sa disyerto",
+        "Usa ka nagdilaab nga sapinit sa usa ka balaan nga bukid",
+        "Usa ka arka nga nagdala sa piniling pamilya"
+      ],
+      "answer": "Usa ka tore nga hinimo sa linuto nga mga tisa nga yutang kulonon"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalumos sa kahiladman sa dagat",
+        "Gidala ngadto sa kaluwasan sa usa ka matahum nga palasyo",
+        "Naluwas gikan sa tiyan sa usa ka dakong isda",
+        "Gipasidunggan uban ang pagkahari ug diosnon nga kaalam",
+        "Nahimong abog tungod sa usa ka mahait nga singgit"
+      ],
+      "answer": "Nalumos sa kahiladman sa dagat"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

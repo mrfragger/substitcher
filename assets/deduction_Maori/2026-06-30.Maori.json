@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Taonga i Pātai ki te Mana",
+  "intro": "I roto i ngā pukapuka o te Quran, i noho tētahi tangata rongonui, ā, ko ōna taonga me ōna mātauranga i rongonui ai. I puta mai tēnei wairua i te whenua me ōna whakapaipai me ōna taonga i miharo ai te hunga mātakitaki, engari i whakakake tōna ngākau i te whakapehapeha. Hono mai ki a mātou i a mātou e wetewete ana i te mea ngaro o tētahi o ngā kōrero whakatūpato o te Quran, te wāhi e tūtaki ai te rangatira o te ao ki te mutunga whakaiti i raro i te whenua i whānau ai ō rātou taonga.",
+  "clues": [
+    "I puta mai ahau i te whenua, he mea whakapaipai ki ngā whakapaipai i hopu i te titiro a te katoa.",
+    "He nui te taonga i a au, ā, he hohonu hoki te mātauranga i wehewehe ai ahau i ētahi atu.",
+    "I te taenga mai o tētahi karere ki te karanga i te iwi ki a Allah, ka whakahē ahau i tō rātou mana me te whakapehapeha.",
+    "I kōrero pōhēhē te hunga i tōku taha, ehara i te atawhai o Allah te pūtake o ōku taonga.",
+    "I miharo tōku iwi ki tōku nui, ā, i hiahia kia rite tō rātou mutunga ki tōku.",
+    "I horomia katoatia aku hanganga whakahīhī ki te whenua hei whiu atua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Shu'aib",
+        "Karauna (Kora)",
+        "Te hoa whai rawa o te Poropiti a Mohi",
+        "Parama ibn Ba'ura",
+        "Minita a Zul-Qarnain"
+      ],
+      "answer": "Karauna (Kora)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hanga i te kuao kau koura mō te karakia",
+        "Te whakahē whakapehapeha i te mana o te poropiti",
+        "Te kohi taonga mai i tētahi iwi e pāngia ana e te matekai",
+        "Te kore e pai ki te whakapuaki i te mātauranga ki ngā tohunga",
+        "Te tono ki tētahi poropiti kia homai he taunakitanga ā-kanohi mō te aranga mai"
+      ],
+      "answer": "Te whakahē whakapehapeha i te mana o te poropiti"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tāone o Miriana",
+        "Ngā whare rangatira i toremi ki te moana",
+        "Ngā whakapaipai me ngā taonga",
+        "Te rakau e mura ana o Maunga Hinai",
+        "Ngā mania onepu o Ihipa onamata"
+      ],
+      "answer": "Ngā whakapaipai me ngā taonga"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua hurihia hei pou tote",
+        "Maka ki te moana i waenganui i te whatitiri me ngā ngaru",
+        "Horomia ana e te whenua me ana taonga katoa",
+        "I whakaarahia oratia ki te rangi hei tohu",
+        "I kainga e te whenua me te pouri pumau"
+      ],
+      "answer": "Horomia ana e te whenua me ana taonga katoa"
+    }
+  },
+  "verseRef": "29:39",
+  "arabic": "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَـٰبِقِينَ",
+  "verse": "And [We destroyed] Qārūn and Pharaoh and Hāmān. And Moses had already come to them with clear evidences, and they were arrogant in the land, but they were not outrunners [of Our punishment]. (29:39)"
+}

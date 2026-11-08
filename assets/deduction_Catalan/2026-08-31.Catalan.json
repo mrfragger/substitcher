@@ -1,0 +1,61 @@
+{
+  "title": "La veu silenciosa de la vall",
+  "intro": "Retrocedeix en el temps fins a un poble poderós que una vegada va rebre una meravella vivent com a prova. L'arrogància i la tossuderia van segellar el seu destí. Pots resseguir la història i descobrir què va passar en aquest dramàtic punt d'inflexió?",
+  "clues": [
+    "Vaig ser enviat com a prova divina a un poble poderós conegut per la seva força i desafiament.",
+    "Jo era una meravella única; mai no havia aparegut ningú com jo entre ells.",
+    "Compartia aigua potable d'un pou amb la meva gent en dies alterns.",
+    "Els van advertir que qualsevol dany contra mi comportaria un càstig ràpid.",
+    "El més atrevit d'ells va ignorar l'advertència i em va paralitzar els genolls.",
+    "Després de la meva mort, un crit eixordador des de dalt va destruir tot el meu poble."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La camella de Salih",
+        "La vaca de Musa",
+        "El vaixell de Nuh",
+        "El bastó de Musa",
+        "El Tron de Bilqis"
+      ],
+      "answer": "La camella de Salih"
+    },
+    "trial": {
+      "label": "El meu destí",
+      "options": [
+        "Tendonat i mort",
+        "Immolat com a sacrifici",
+        "Transformat en una serp",
+        "Preservat durant una gran inundació",
+        "Portat ràpidament a través d'un regne"
+      ],
+      "answer": "Tendonat i mort"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un pou d'aigua",
+        "Una tauleta de pedra",
+        "Un arbust ardent",
+        "Una arca de fusta",
+        "Un tron ​​d'or i plata"
+      ],
+      "answer": "Un pou d'aigua"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruït per un sol crit",
+        "Ofegat en una gran inundació",
+        "Cremat per una pluja de pedres",
+        "Assotat per un vent violent",
+        "Engolit per la terra"
+      ],
+      "answer": "Destruït per un sol crit"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

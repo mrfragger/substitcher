@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tinig na Tumanggi sa Kawalan ng Pag-asa",
+  "intro": "Pumasok sa isang sambahayan kung saan ang kawalan ay kasunod ng pagkawala, ngunit isang mahinahong boses ang tumatanggi sa kawalan ng pag-asa. Isang panawagan sa Qur'an ang nagpapabago sa pasensya; matutunton mo ba ang mga pahiwatig sa taong nasa likod ng boses na iyon?",
+  "clues": [
+    "Ako ang tinig ng pagtitiis sa loob ng isang sambahayan kung saan ang mga biyaya ay sinusubok ng kalamidad.",
+    "Nanatili ako sa isang sambahayang nawalan ng kayamanan at mga anak.",
+    "Alam kong dinapuan din ng sakit ang kasama kong iyon, na ang katawan ay may sakit.",
+    "Nang lumala ang paghihirap, ako ay tumawag na may paalala kay Allah.",
+    "Isang pahayag lamang ang aking ipinahayag: Si Allah ang Katotohanan, kaya't manatiling matiyaga.",
+    "Tinawag ko si Ayyub sa pangalan; pagkatapos, inalis ni Allah ang paghihirap at ibinalik ang pamilya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang Asawa ni Propeta Ayyub",
+        "Ang Asawa ni Propeta Noah",
+        "Ang Asawa ni Propeta Ibrahim",
+        "Ang Asawa ni Propeta Ya'qub",
+        "Ang Anak na Babae ng Paraon"
+      ],
+      "answer": "Ang Asawa ni Propeta Ayyub"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang pananatili kay Ayyub sa gitna ng pagkawala at pagkakasakit, pagkatapos ay nananawagan ng pasensya",
+        "Babala sa isang matuwid na mensahero na talikuran ang isang tiwaling komunidad",
+        "Panalangin para sa pagsilang ng isang lahi sa hinaharap",
+        "Pagbibigay-kahulugan sa mga panaginip sa loob ng isang maharlikang bilangguan",
+        "Paghahanap ng isang pinagkakatiwalaang anak sa tabi ng ilog"
+      ],
+      "answer": "Ang pananatili kay Ayyub sa gitna ng pagkawala at pagkakasakit, pagkatapos ay nananawagan ng pasensya"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang pagpapahayag na si Allah ang Katotohanan at ang pagtitiis ay kinakailangan",
+        "Isang puno ng palma sa tabi ng bukal",
+        "Isang panawagan para bumuo ng isang sasakyang-dagat na malayo sa mga alon",
+        "Isang panaginip ng labing-isang bituin at isang sumisikat na araw",
+        "Isang basket na dinadala sa tabi ng Nile"
+      ],
+      "answer": "Ang pagpapahayag na si Allah ang Katotohanan at ang pagtitiis ay kinakailangan"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naalis ang paghihirap ni Ayyub at naibalik ang kanyang pamilya",
+        "Isang batang matagal nang hinihintay ang ipinagkaloob matapos ang isang baog na panalangin",
+        "Isang batang pinuno ang nagbigay-kahulugan sa pitong taon ng kasaganaan at kakapusan",
+        "Isang batang ipinagkatiwala ang nailigtas mula sa umaagos na tubig",
+        "Isang babala ang nauna sa isang mapaminsalang baha"
+      ],
+      "answer": "Naalis ang paghihirap ni Ayyub at naibalik ang kanyang pamilya"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

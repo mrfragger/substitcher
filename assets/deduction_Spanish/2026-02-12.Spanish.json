@@ -1,0 +1,60 @@
+{
+  "title": "El milagro de la prueba silenciosa",
+  "intro": "Te encuentras con una figura envuelta en una historia de intervención divina. Un relato de provisión milagrosa y una defensa silenciosa que resuena a través del tiempo. ¿Podrás descubrir quién se enfrentó a esta extraordinaria prueba?",
+  "clues": [
+    "Recibí un mensaje divino que me dejó asombrado.",
+    "Mi gente cuestionó mi pureza cuando regresé con un niño.",
+    "Se me ordenó ayunar sin hablar durante un período",
+    "Un manantial de agua y dátiles me sustentaron durante mi prueba.",
+    "Mi Señor hizo que un árbol milagroso se sacudiera para proveerme.",
+    "Un ángel se me apareció con la forma de un hombre perfecto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "María",
+        "Asiya",
+        "Hawa",
+        "Sarah",
+        "Khadijah"
+      ],
+      "answer": "María"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Dar a luz sola bajo una palmera",
+        "Ante una hambruna mortal",
+        "Ser arrojado a un pozo de fuego",
+        "Huyendo de un gobernante tiránico",
+        "Custodiar una reliquia sagrada"
+      ],
+      "answer": "Dar a luz sola bajo una palmera"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Palmera",
+        "Zarza ardiente",
+        "Templo de piedra",
+        "Río Nilo",
+        "Monte Sinaí"
+      ],
+      "answer": "Palmera"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Mi inocencia quedó demostrada cuando mi hijo pequeño habló.",
+        "Me convertí en una reina venerada.",
+        "Mi pueblo fue destruido por el castigo divino.",
+        "Yo conduje a mi nación a la victoria.",
+        "Apareció un pozo milagroso de forma permanente."
+      ],
+      "answer": "Mi inocencia quedó demostrada cuando mi hijo pequeño habló."
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

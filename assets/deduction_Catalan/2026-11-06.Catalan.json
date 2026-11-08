@@ -1,0 +1,61 @@
+{
+  "title": "La primera sang vessada per enveja",
+  "intro": "Imagineu-vos els primers dies de la humanitat, quan el món sencer era una sola família. Veieu com es presenten dues ofrenes davant d'Al·là: una acceptada i l'altra rebutjada. L'enveja arrela en un cor i es xiuxiueja una amenaça amb ràbia. El que segueix deixarà una empremta a la història per sempre, i fins i tot un petit ocell es convertirà en un mestre.",
+  "clues": [
+    "Pertanyo a la primera família del món.",
+    "Vaig presentar una ofrena a Al·là, però la meva no va ser acceptada mentre que l'altra ofrena sí que ho va ser.",
+    "Vaig parlar amb enveja i vaig amenaçar amb treure'm la vida.",
+    "Vaig cometre el primer assassinat injust a la terra.",
+    "Vaig veure un corb que gratava a terra per ensenyar-me com amagar un cadàver.",
+    "Em vaig quedar ple de penediment i vaig passar a ser un dels perdedors pel que havien fet les meves mans."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Qabil (Caín), fill d'Adam",
+        "Samiri, el fabricant del vedell",
+        "Namrud, el tirà que va discutir amb Ibrahim",
+        "Azar, el fabricant d'ídols",
+        "Kan'an, el fill ofegat de Nuh"
+      ],
+      "answer": "Qabil (Caín), fill d'Adam"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Assassinat d'un germà per enveja després d'una oferta rebutjada",
+        "Construint una torre elevada per contemplar el cel",
+        "Fabricació d'un vedell d'or per al culte",
+        "Exigint una taula parada del cel",
+        "Liderant un exèrcit d'elefants per destruir la Kaaba"
+      ],
+      "answer": "Assassinat d'un germà per enveja després d'una oferta rebutjada"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un corb gratant la terra per mostrar enterrament",
+        "Un vedell d'or que va mugir",
+        "Una gran arca sobre les aigües del diluvi",
+        "Un bastó que es va convertir en una serp",
+        "Una taula parada amb menjar del cel"
+      ],
+      "answer": "Un corb gratant la terra per mostrar enterrament"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va penedir i es va trobar entre els perdedors",
+        "Es va ofegar en la gran inundació",
+        "Va ser engolit per la terra amb el tresor",
+        "Va estar afectat per la lepra durant set anys",
+        "Se li va concedir un regne amb control dels vents"
+      ],
+      "answer": "Es va penedir i es va trobar entre els perdedors"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

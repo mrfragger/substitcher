@@ -1,0 +1,61 @@
+{
+  "title": "I Whakamātauria te Kīngitanga e te Awa",
+  "intro": "I ngā wā onamata, ka ara ake tētahi rangatira i runga i te ture a te Atua. Kāore i tīmata te kingitanga o tēnei rangatira me te kororia, engari me te whakamātautau i raro i ngā wai e rere ana. Ka werohia e tētahi hoariri kaha tā rātou ope taua, ā, mā te mutunga ka huri te huarahi o te hītori. Ka taea e koe te matapae ko wai tēnei tangata?",
+  "clues": [
+    "I whiriwhiria ahau hei kaiārahi i tētahi iwi nui, engari i ahu mai te whakatūnga i runga, ehara i te iwi.",
+    "I whakahokia mai tētahi taonga tapu ki tōku iwi hei tohu whakaū i tōku rangatiratanga.",
+    "I whakamatauria e au aku hōia ki te awa — he tokomaha i inu i te awa, ā, i rahua.",
+    "I haere mai ki te whawhai ki a mātou tētahi toa kaha, ko Jalut tōna ingoa, me tana ope nui.",
+    "Nā tetahi taitama nōku ake i patu a Jalut, ko te whakapono anake ōna pū.",
+    "I muri i tō mātou wikitoria, ka tukua te kingitanga ki taua toa taitamariki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Talut (Saul)",
+        "Jalut (Koriata)",
+        "Poropiti a Rawiri",
+        "Poropiti a Mohi",
+        "Poropiti Haruna"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakamatautauria ki te awa",
+        "I maka ki roto i te ahi mura",
+        "I whakahaua kia patua he tama",
+        "I whakahaua kia hanga he āka nui",
+        "I horomia e te ika nui"
+      ],
+      "answer": "I whakamatautauria ki te awa"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āka o te Kawenata",
+        "He tokotoko hei wehewehe i te moana",
+        "He kotaha me ngā kōhatu maeneene",
+        "He whakapakoko kuao kau koura",
+        "He torona whakahīhī"
+      ],
+      "answer": "Te Āka o te Kawenata"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tukuna te rangatiratanga ki te toa taitamariki (Dawud)",
+        "I toremi tahi me te ope taua i te moana",
+        "I toia haumaru mai i te ahi mura",
+        "Horomia ana e te whenua me ngā taonga",
+        "I tahuna oratia i roto i te awaawa mura"
+      ],
+      "answer": "I tukuna te rangatiratanga ki te toa taitamariki (Dawud)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

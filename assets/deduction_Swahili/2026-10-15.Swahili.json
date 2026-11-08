@@ -1,0 +1,61 @@
+{
+  "title": "Haki Miongoni mwa Wafanyabiashara",
+  "intro": "Mtu mmoja alisimama mbele ya watu waliomezwa na mvuto wa faida, akiwaita wawe waaminifu na waadilifu katika shughuli zao. Mtumishi huyu wa Mwenyezi Mungu alionya dhidi ya kutoa kipimo kifupi na kuchezea mizani. Watu walikataa kusikiliza, wakitishia kumfukuza mtu huyu kutoka katika nchi yao. Ardhi yenyewe ingeinuka katika hukumu dhidi yao. Ni nani mtu huyu aliyesimama kwa ajili ya haki miongoni mwa wafanyabiashara?",
+  "clues": [
+    "Nilitumwa kama mjumbe kwa watu waliokuwa wamezama sana katika biashara na biashara.",
+    "Watu wangu walitoa kipimo kifupi wakati wa kupimia bidhaa kwa wengine.",
+    "Walitishia kunifukuza kutoka nchini humo ikiwa ningeendelea kuwaita kwenye imani.",
+    "Nakumbukwa kama mzungumzaji fasaha zaidi miongoni mwa manabii.",
+    "Watu wangu walitekwa na tetemeko kubwa la ardhi lililowaacha bila uhai majumbani mwao.",
+    "Nilitumwa kwa watu wa Madyan kaskazini mwa Hijaz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Shu'ayb",
+        "Nabii Ishaq",
+        "Nabii Ismail",
+        "Nabii Zakaria",
+        "Nabii Yahya"
+      ],
+      "answer": "Nabii Shu'ayb"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutishiwa kufukuzwa kutoka nchi hiyo",
+        "Watu wangu watatupwa kwenye moto unaowaka",
+        "Alikabiliana na wachawi wa Farao mwenye nguvu",
+        "Alikabiliwa na hitaji la kutengeneza ngamia jike kutoka kwenye mwamba",
+        "Nilishuhudia uharibifu wa jiji langu na jeshi la malaika"
+      ],
+      "answer": "Kutishiwa kufukuzwa kutoka nchi hiyo"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Nchi ya Madyan",
+        "Nchi ya Misri",
+        "Mlima Sinai",
+        "Mji wa Sodoma",
+        "Nchi ya Kanaani"
+      ],
+      "answer": "Nchi ya Madyan"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu wangu walitekwa na tetemeko la ardhi kali",
+        "Watu wangu walizama katika mafuriko makubwa",
+        "Watu wangu walibadilishwa kuwa nyani",
+        "Watu wangu walitawanyika kwa upepo mkali",
+        "Niliokolewa nikiwa ndani ya tumbo la samaki mkubwa"
+      ],
+      "answer": "Watu wangu walitekwa na tetemeko la ardhi kali"
+    }
+  },
+  "verseRef": "11:87",
+  "arabic": "قَالُوا۟ يَـٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَـٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+  "verse": "They said, \"O Shuʿayb, does your prayer [i.e., religion] command you that we should leave what our fathers worship or not do with our wealth what we please? Indeed, you are the forbearing, the discerning!\" (11:87)"
+}

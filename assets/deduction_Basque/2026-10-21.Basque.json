@@ -1,0 +1,61 @@
+{
+  "title": "Idolatrei aurre egin zien mezularia",
+  "intro": "Debozioa galdu zen garai batean, mezulari bat altxatu zen munduen Jaunaren gurtzara itzultzeko dei batekin. Figura honek irmo eutsi zion jainko faltsu baten gurtzan errotutako herri bati, beren benetako Sortzailea eta arbasoen Jauna gogoraraziz. Hala ere, jendeak ez zuen jaramonik egin eta abisua baztertu zuen, beren patua zigilatuz. Nor zen deitzaile irmo hori?",
+  "clues": [
+    "Jainko Egiazko Bakarraren bidetik aldendu zen herri batengana bidali ninduten.",
+    "Nire herriari galdetu nion: \"Ez al duzue Allahren beldur izango?\"",
+    "Baal izeneko jainko faltsu baten gurtza uzteko deitu nien.",
+    "Nire herriak nire deia arbuiatu zuen eta bere idolatrian jarraitu zuen.",
+    "Ukazioagatik, zigortzeko ekarriko dituzte ziur aski.",
+    "Jaunak bakea eta oroitzapen bedeinkatua eman zizkidan ondorengo belaunaldien artean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ilyas profeta",
+        "Yahya profeta",
+        "Dhul-Kifl profeta",
+        "Yusuf profeta",
+        "Shu'ayb profeta"
+      ],
+      "answer": "Ilyas profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Baal uzteko deitu zion bere herriari",
+        "Arka bat eraiki zuten sinestunak salbatzeko",
+        "Sutara bota zuten.",
+        "Faraoi tiranoarengandik ihesi",
+        "Ura ateratzeko harkaitz bat jo zuen"
+      ],
+      "answer": "Baal uzteko deitu zion bere herriari"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bakea eta oroitzapen bedeinkatua eman zizkigun",
+        "Lurrak irentsia.",
+        "Ekaitz bortitz batek suntsitu zuen",
+        "Harri bihurtuta.",
+        "Itsasoan itota."
+      ],
+      "answer": "Bakea eta oroitzapen bedeinkatua eman zizkigun"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

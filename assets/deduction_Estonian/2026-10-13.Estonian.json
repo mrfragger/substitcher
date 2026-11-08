@@ -1,0 +1,61 @@
+{
+  "title": "Tuline vastane",
+  "intro": "Ilmutuse algusaegadel kerkis esile üks tegelane, kes oli tõe kangekaelne vastane. Rikkuse ja staatusega õnnistatud hing valis juhatuse asemel uhkuse ning tema loost sai karm hoiatus sura viimastes salmides.",
+  "clues": [
+    "Ma elasin prohvetiga samas linnas ja olin tema lähimate sugulaste seas, kuid mu uhkus hoidis mind tõest eemal.",
+    "Mul oli suur rikkus ja arvukalt valdusi ning ma arvasin, et mu ressursid kaitsevad mind alati.",
+    "Kui sõnum avalikuks tuli, pilkasin seda avalikult ja pöördusin selja, pidades end usklikest kõrgemaks.",
+    "Mu vaen oli nii kurikuulus, et üks Koraani surah pöördus otse minu poole, kutsudes mind nimepidi, millega teised mind tundsid.",
+    "Mind hoiatati, et mu rikkus ja sissetulekud ei too mulle mingit kasu ning mind heidetakse lõõmavasse tulle.",
+    "Mind tuntakse leegi isana ja mu naine kannab küttepuid palmikiust köis kaelas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Hülgas islami ja oli avalikult prohveti vastu",
+        "Plaanis prohveti mõrva",
+        "Juhtis moslemite vastu suunatud sotsiaalset boikotti",
+        "Võitles Badri lahingus",
+        "Piinatud Bilal ibn Rabah"
+      ],
+      "answer": "Hülgas islami ja oli avalikult prohveti vastu"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Palmikiu köis",
+        "Terav mõõk",
+        "Raske kett",
+        "Puidust personal",
+        "Nahkne piits"
+      ],
+      "answer": "Palmikiu köis"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Põleb lõõmavas tules",
+        "Parandas meelt ja sai kaaslaseks",
+        "Kaotas oma varanduse, aga suri austatuna",
+        "Põgenes Abessiiniasse",
+        "Uppus merre"
+      ],
+      "answer": "Põleb lõõmavas tules"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lo Pacient",
+  "intro": "Fa longtemps, dins los primièrs jorns de l'istòria umana, doas anmas se pausèron davant lor Creator amb d'ofèrtas. Un èra acceptat, un èra pas. Çò que seguiguèt vendriá la primièra granda tragèdia entre fraires e sòrres - un acte de retenéncia pacienta e un acte de venjança amara. Podètz descobrir qui soi?",
+  "clues": [
+    "Nasquèri dins los primièrs jorns de l'existéncia umana sus tèrra",
+    "Èri un enfant del primièr parelh d'umans a caminar sus aquela tèrra",
+    "Un còp ofriguèri un sacrifici del melhor de mon tropèl per far plaser a mon Creator",
+    "Mon ofèrta foguèt acceptada de naut, del temps que l'ofèrta de mon fraire foguèt refusada",
+    "Quand èri menaçat de mòrt, causiguèri de pas levar ma man contra mon fraire",
+    "Venguèri la primièra persona dins tota l'istòria umana a èsser tuada a tòrt per un autre"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Habil (Abèl), filh d'Adam",
+        "Qabil (Caïn), filh d'Adam",
+        "Adam, lo primièr uman",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abèl), filh d'Adam"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Lo primièr murtre de l'istòria de l'umanitat",
+        "Lo grand inondacion de Nuh",
+        "La destruccion de l'armada de Fir'awn",
+        "Lo sacrifici d'Ismail per Ibrahim",
+        "La batalla contra Jalut (Goliath)"
+      ],
+      "answer": "Lo primièr murtre de l'istòria de l'umanitat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una feda ofèrta coma sacrifici agradiu",
+        "Una granda arca de fusta",
+        "Un baston que se transformèt en sèrp",
+        "Un aucèl hoopoe portant un messatge reial",
+        "Una trincheta ardenta de fuòc"
+      ],
+      "answer": "Una feda ofèrta coma sacrifici agradiu"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Venguèt la primièra victima d'assassinat de l'istòria de l'umanitat",
+        "Subrevisquèt a una granda inondacion dins un vaissèl de fusta",
+        "Visquèt dins lo ventre d'un grand peis",
+        "Governat suls jinn, los umans, e lo vent",
+        "Errat pendent quaranta ans dins un vast desèrt"
+      ],
+      "answer": "Venguèt la primièra victima d'assassinat de l'istòria de l'umanitat"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

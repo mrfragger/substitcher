@@ -1,0 +1,61 @@
+{
+  "title": "A titkos aratás őrzői",
+  "intro": "Egy zöldellő vidéken egy csoport ember titkos tervet szőtt a sötétség leple alatt. Közös céljuk volt, de szándékuk korántsem volt igazságos. Nem is sejtették, hogy isteni fordulat vár rájuk alvás közben.",
+  "clues": [
+    "Szilárdan elhatároztuk, hogy a tervünk hibátlan.",
+    "Korán akartunk kimenni, mielőtt mások egyáltalán megmozdulhatnának.",
+    "Termékeny földterületre érkeztünk, bízva az ellátmányunkban.",
+    "Amikor elértük úti célunkat, kopárnak és sivárnak találtuk, ezért azt hittük, eltévedtünk.",
+    "Aztán rájöttünk, hogy valóban a mi helyünk, és kétségbeesetten felkiáltottunk, egymást hibáztatva a veszteségünkért.",
+    "Azon a reggelen megesküdtünk, hogy kizárjuk a szegényeket az aratásból, de Allah büntetése alvás közben sújtott minket, és kertünket rommá változtatta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "A kert tulajdonosai a 68. szúrában",
+        "Saba népe",
+        "A barlang társai",
+        "Az elefánt népe",
+        "Az Árok Emberei"
+      ],
+      "answer": "A kert tulajdonosai a 68. szúrában"
+    },
+    "trial": {
+      "label": "A mi próbatételünk",
+      "options": [
+        "Kertünket egy égi csapás pusztította el",
+        "A kertünket elsodorta az árvíz",
+        "Kertünket ellenséges tűz égette le",
+        "A kertünk tele volt sáskákkal",
+        "Kertünket elnyelte egy földrengés"
+      ],
+      "answer": "Kertünket egy égi csapás pusztította el"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Megesküdtünk, hogy reggel leszedjük a gyümölcsét",
+        "Gátat építettünk a kertünk öntözésére",
+        "Egy barlangban kerestünk menedéket, védelmet",
+        "Felkészítettünk egy sereget egy királyság meghódítására",
+        "Hajóval átkeltünk a tengeren"
+      ],
+      "answer": "Megesküdtünk, hogy reggel leszedjük a gyümölcsét"
+    },
+    "outcome": {
+      "label": "A sorsunk",
+      "options": [
+        "Megbántuk bűneinket és Allah irgalmát reméltük",
+        "Teljesen elpusztultunk, és soha nem bántuk meg",
+        "Elmenekültünk a földről, és soha nem tértünk vissza",
+        "Újra hatalmasak és gazdagok lettünk",
+        "Azzal büntettek minket, hogy majmokká változtattak minket"
+      ],
+      "answer": "Megbántuk bűneinket és Allah irgalmát reméltük"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

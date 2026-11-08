@@ -1,0 +1,61 @@
+{
+  "title": "A chamada desoída na terra da arrogancia",
+  "intro": "Atópaste entre as ruínas dunha civilización outrora grande, onde o poder e o orgullo non coñecían límites. Un mensaxeiro camiñou entre eles, chamando á verdade, pero os seus corazóns estaban endurecidos. O aviso non foi escoitado e o propio ceo converteuse nun instrumento de ira. Quen era este mensaxeiro e que foi dos que rexeitaron a chamada?",
+  "clues": [
+    "Enviáronme a un pobo que non tiña parangón en forza e que construíu un monumento en cada lugar alto.",
+    "O meu pobo considerábase invencible e dicía: \"Quen é máis poderoso ca nós en forza?\"",
+    "Chameinos a adorar só a Alá, pero acusáronme de tolemia e mentira.",
+    "Desafiáronme a inflixir o castigo que prometín se dicía a verdade.",
+    "Alá enviou sobre eles un vento estéril que non perdoou nada do que atopou.",
+    "Eu e os que creron comigo fomos salvados pola misericordia de Alá, mentres que os incrédulos foron completamente destruídos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shuaib",
+        "Profeta Lut",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Un vento devastador destruíu os incrédulos",
+        "Unha gran inundación asolagou os incrédulos",
+        "Unha chuvia de pedras caeu",
+        "Un forte berro apoderouse dos incrédulos",
+        "Un terremoto azoutou os incrédulos"
+      ],
+      "answer": "Un vento devastador destruíu os incrédulos"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un vento implacable",
+        "Unha arca de madeira",
+        "Unha cameloa",
+        "Unha choiva de pedras de arxila",
+        "Un lume abrasador"
+      ],
+      "answer": "Un vento implacable"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Hud e os crentes foron salvados, e os incrédulos foron destruídos",
+        "Hud foi elevado a unha alta posición",
+        "Hud foi asasinado polo seu pobo",
+        "O pobo de Hud arrepentiuse e salvouse",
+        "Hud abandonou o seu pobo antes de calquera castigo"
+      ],
+      "answer": "Hud e os crentes foron salvados, e os incrédulos foron destruídos"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

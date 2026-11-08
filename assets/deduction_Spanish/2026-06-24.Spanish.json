@@ -1,0 +1,61 @@
+{
+  "title": "El Guardián de la Llama Inextinguible",
+  "intro": "Una figura se alza en el umbral del lugar más temido de lo invisible, investida de una misión que ningún otro ser desea. Cuando las almas atormentadas claman por misericordia, una severa respuesta resuena en las cámaras de fuego. ¿Podrás descubrir la identidad de este guardián eterno?",
+  "clues": [
+    "Me encuentro a la entrada de un lugar de castigo aterrador, oculto a la vista.",
+    "Un fuego ardiente e inextinguible es la pieza central de mi solemne deber.",
+    "Las almas que sufren claman mi nombre, implorando alivio a su tormento interminable.",
+    "Cuando supliquen, declaro que no se irán jamás.",
+    "No soy humano, ni genio; soy un ser creado de pura obediencia.",
+    "Soy el ángel principal designado como guardián eterno del Fuego Infernal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Miguel",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Los habitantes del infierno suplican que se acabe su tormento.",
+        "Se toca la trompeta para anunciar el Día del Juicio Final.",
+        "El Corán es revelado al corazón del Profeta.",
+        "Un profeta es arrojado a un gran fuego por su pueblo.",
+        "Se levanta un muro imponente para contener a una nación corrupta."
+      ],
+      "answer": "Los habitantes del infierno suplican que se acabe su tormento."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El fuego del infierno (Jahannam)",
+        "El árbol de loto en el límite del Paraíso",
+        "Una trompeta penetrante",
+        "Un bastón que se transforma en serpiente",
+        "Un magnífico trono divino"
+      ],
+      "answer": "El fuego del infierno (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A los habitantes del infierno se les dice que permanecerán allí eternamente.",
+        "Los habitantes del infierno son perdonados y liberados.",
+        "A los habitantes del infierno se les concede una segunda oportunidad de fe.",
+        "Los habitantes del infierno son trasladados a un lugar fresco.",
+        "Los habitantes del infierno son completamente destruidos por un rayo."
+      ],
+      "answer": "A los habitantes del infierno se les dice que permanecerán allí eternamente."
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

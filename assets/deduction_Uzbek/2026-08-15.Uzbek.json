@@ -1,0 +1,61 @@
+{
+  "title": "Soxta og'irliklarga qarshi ovoz",
+  "intro": "Tarozilar qiyshayib, o'lchovlar qisqartirilgan yurtda savdogarlar va savdogarlar orasida sodiq qalb tarbiyalangan edi. Bu shaxs butun bir xalqning yolg'onchiligiga qarshi yakka o'zi turib, ularni adolatga va yagona Haq Xudoga sig'inishga chaqirdi. Xabar aniq va chaqiriq adolatli bo'lsa-da, odamlar quloq solishdan bosh tortdilar va halokatli taqdirga duch kelishdi. Qur'ondagi bu olijanob elchini aniqlay olasizmi?",
+  "clues": [
+    "Men tirikchiligi savdo va tijorat bilan bog'liq bo'lgan qavmga elchi sifatida yuborildim.",
+    "Mening qavmim butun yurt bo'ylab o'lchovni kam qilish va tortishda xato qilish bilan mashhur edi.",
+    "Ular yo'lda sayohatchilarni qo'rqitdilar va butun yer yuzida buzg'unchilikni yoydilar.",
+    "Men ularni yolg'iz Allohga ibodat qilishga va boshqalar bilan muomala qilishda mutlaqo halol bo'lishga undadim.",
+    "Ular mening xabarimni rad etishdi va meni va men bilan birga iymon keltirganlarni bu yerdan quvib chiqarish bilan qo'rqitishdi.",
+    "Alloh meni va izdoshlarimni O'z rahmati bilan qutqardi, zolimlar esa dahshatli azobga duchor bo'lishdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Shuayb",
+        "Lut payg'ambar",
+        "Payg'ambar Hud",
+        "Payg'ambar Solih",
+        "Nuh payg'ambar"
+      ],
+      "answer": "Payg'ambar Shuayb"
+    },
+    "trial": {
+      "label": "Xalqimning gunohi",
+      "options": [
+        "Og'irlik va o'lchovlarda aldash",
+        "Osmonga qaragan baland minora qurish",
+        "Toshdan urg'ochi tuya talab qilish",
+        "Ularga yuborilgan payg'ambarlarni urish",
+        "Chaqaloq qizlarni tiriklayin ko'mish"
+      ],
+      "answer": "Og'irlik va o'lchovlarda aldash"
+    },
+    "location": {
+      "label": "Mening xalqim",
+      "options": [
+        "Madyan xalqi",
+        "Od qavmi",
+        "Samud qavmi",
+        "Fir'avn qavmi",
+        "Shabbat ahli"
+      ],
+      "answer": "Madyan xalqi"
+    },
+    "outcome": {
+      "label": "Ularning oxiri",
+      "options": [
+        "Kechasi ularni qattiq qichqiriq qamrab oldi",
+        "Kuchli suv toshqini ularning hammasini g'arq qildi",
+        "Kuchli sovuq shamol ularni vayron qildi",
+        "Ularning ustiga pishgan loydan toshlar yog'di",
+        "Ular tosh ustunlarga aylantirildi"
+      ],
+      "answer": "Kechasi ularni qattiq qichqiriq qamrab oldi"
+    }
+  },
+  "verseRef": "11:94",
+  "arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+  "verse": "And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone (11:94)"
+}

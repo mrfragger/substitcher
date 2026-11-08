@@ -1,0 +1,61 @@
+{
+  "title": "harrotasunaren azpian hondoratu zen altxorra",
+  "intro": "Imajinatu hain aberastasun pila erraldoien aurrean zutik zaudela, ezen giltzak eramate hutsak pertsona sendo talde bat nekatuko lukeen. Zure inguruan, ahotsek apaltasuna eta oroitzapena eskatzen dute, baina harrotasuna esker ona baino ozenagoa da. Zer gertatzen da oparotasuna proba bihurtzen denean eta harrokeriak emaitza zigilatzen duenean?",
+  "clues": [
+    "Musa herrikoia nintzen, baina haien aurka hautsi nuen.",
+    "Hain altxorrak eman zizkidaten, non haien giltzak gizon indartsu talde baten zama izango liratekeen.",
+    "Nire jendeak aholkatu zidan ez pozteko eta Hurrengoa bilatzeko mundu honetako nire partea ahaztu gabe.",
+    "Neure ezagutzari esker bakarrik eman zidatela aldarrikatu nuen.",
+    "Apaingarriekin desfilatu nuen nire herriaren aurrean, eta mundu honetako bizitza nahi zutenek nik nuenaren antzekoa nahi zuten.",
+    "Lurrak irentsi ninduen nire etxearekin batera, eta inork ezin izan zidan lagundu, ezta nik ere neure buruari lagundu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Aberastasunaz harrotu eta Alaren faborea ukatu zuen aholkuak izan arren",
+        "Bizitza eta heriotza emateari buruz erronka bota zion Ibrahimi",
+        "Talut eta Dawud-en aurkako armada bat zuzendu zuen",
+        "Jendeak gurtzeko zizelkatutako idoloak",
+        "Eskaintza baten inbidiaz anaia bat hil zuen"
+      ],
+      "answer": "Aberastasunaz harrotu eta Alaren faborea ukatu zuen aholkuak izan arren"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Altxor izugarrien giltzak",
+        "Itunaren Arka",
+        "Apaingarriz osatutako urrezko txahal bat",
+        "Bi mendiren arteko presa bat",
+        "Hamaika izar amets batean"
+      ],
+      "answer": "Altxor izugarrien giltzak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurrak irentsi du etxebizitza eta aberastasunarekin",
+        "Musaren atzetik zihoala itsasoan ito zen",
+        "Dawud-en haba-harri batek jota",
+        "Gamelu eme bati izterraren izterra moztu izanagatik eztanda bortitz batek suntsitu zuen",
+        "Sabbatua hausteagatik tximino bihurtu ziren"
+      ],
+      "answer": "Lurrak irentsi du etxebizitza eta aberastasunarekin"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

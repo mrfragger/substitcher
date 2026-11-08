@@ -1,0 +1,61 @@
+{
+  "title": "Muqaddas Uyga qarshi chiqqan millat",
+  "intro": "Qadim zamonlarda qudratli bir xalq dindorlar hurmat qiladigan muqaddas joyga hujum qilishga qaror qilgan. Bu guruh boy, qudratli va o'zining harbiy kuchiga ishongan edi. Ular o'zlari bilan urush quroli bo'lib xizmat qiladigan ulkan jonzotni olib kelishgan. Ularning maqsadi aniq edi: muqaddas uyni buzish va uning xalqining imonini yo'q qilish. Ammo ularning takabburligi yuqoridan halokatli javobga duch kelish arafasida edi. Bu tarixiy voqea undan keyin kelganlarning barchasi uchun belgi va saboq bo'ldi. Siz bu guruhni ishoralardan aniqlay olasizmi?",
+  "clues": [
+    "Biz boylik va harbiy mahoratga ega xalq edik.",
+    "Biz kuchlarimizni to'pladik va kampaniyamizda foydalanish uchun ulkan hayvonni olib keldik.",
+    "Bizning nishonimiz butunlay vayron qilmoqchi bo'lgan muqaddas ma'bad edi.",
+    "Biz kuchimiz har qanday ilohiy himoyani yengish uchun yetarli bo'lishiga ishongan edik.",
+    "Lekin Rabbimiz bizga osmondan kutmagan azobni yubordi.",
+    "Biz bir zumda yo'q bo'lib ketdik, singan somon kabi sochilib ketdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fil xalqi",
+        "Samud qavmi",
+        "Od qavmi",
+        "G'or egalari",
+        "Payg'ambar Hudning qavmi"
+      ],
+      "answer": "Fil xalqi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Filni muqaddas uyni vayron qilish uchun unga qarab yurish",
+        "Osmonga yetib borish uchun minora qurish",
+        "Ibodat uchun oltin but yasash",
+        "Allohning elchisiga quloq solishdan bosh tortish",
+        "Mo'minlarga zarar yetkazish uchun quduq qazish"
+      ],
+      "answer": "Filni muqaddas uyni vayron qilish uchun unga qarab yurish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Fil",
+        "Oltin buzoq",
+        "Musoning tayoqchasi",
+        "Yunusning balig'i",
+        "Dovudning temiri"
+      ],
+      "answer": "Fil"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ular toshlar bilan qushlar suruvi tomonidan yo'q qilindi",
+        "Ular katta suv toshqinida cho'kib ketishdi",
+        "Ular maymun va cho'chqalarga aylantirildi",
+        "Ular tog'dan qulagan toshlar ostida ko'milgan edilar",
+        "Ular osmondan tushgan olov bilan kuyib ketishdi"
+      ],
+      "answer": "Ular toshlar bilan qushlar suruvi tomonidan yo'q qilindi"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

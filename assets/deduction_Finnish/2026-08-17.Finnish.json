@@ -1,0 +1,61 @@
+{
+  "title": "Rannikkorikkomus",
+  "intro": "Seisot unohdetun rannan hiekalla, jossa aallot kuiskivat jumalallisen käskyn koettelemasta yhteisöstä. Ilma on raskas muistosta rikkomuksesta, joka johti hämmästyttävään muutokseen. Keitä nämä sielut olivat, ja millainen oli heidän koettelemuksensa luonne?",
+  "clues": [
+    "Olimme yhteisö, joka sai selkeän käskyn Herraltamme, mutta löysimme tapoja uhmata sitä.",
+    "Asuimme vesistön lähellä, ja toimeentulomme riippui sen elävistä eläimistä.",
+    "Meitä koetteli sinä päivänä, kun meitä käskettiin pidättäytymään maailmallisista pyrkimyksistä.",
+    "Veden eläimet tulivat luoksemme sankoin joukoin juuri sinä päivänä ja kiusasivat meitä sietokyvyn yli.",
+    "Keksin ovelan tempun kiertääksemme jumalallista käskyä, ajatellen voivamme päihittää sen.",
+    "Rikkomuksemme johti nöyryyttävään muutokseen; meistä tuli halveksittuja apinoita Allahin käskystä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Sapatin kansa",
+        "Rassin kansa",
+        "Tubban kansa",
+        "Luolan ihmiset",
+        "Ojan seuralaiset"
+      ],
+      "answer": "Sapatin kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kalojen ilmestyminen sapattina",
+        "Vuosi vakavaa kuivuutta",
+        "Lintujen armeija lähetettiin heitä vastaan",
+        "Tulva, joka hukutti heidät",
+        "Voimakas maanjäristys"
+      ],
+      "answer": "Kalojen ilmestyminen sapattina"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Meri",
+        "Vuori",
+        "Luola",
+        "Aavikkolaakso",
+        "Linnoitettu kaupunki"
+      ],
+      "answer": "Meri"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Muuttuivat apinoiksi",
+        "Maan nielaisema",
+        "Tuuli kirkuu tuhoutuneena",
+        "Hukkui mereen",
+        "Kivisade iski"
+      ],
+      "answer": "Muuttuivat apinoiksi"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

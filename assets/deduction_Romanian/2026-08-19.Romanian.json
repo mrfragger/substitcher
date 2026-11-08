@@ -1,0 +1,61 @@
+{
+  "title": "Națiunea care a sfidat ordinea naturală",
+  "intro": "Într-o regiune a cărei poveste răsună de-a lungul veacurilor, o comunitate trăia într-o rebeliune deschisă împotriva legilor purității. Faptele lor au fost atât de fără precedent încât sunt amintite ca un avertisment pentru întreaga umanitate. Cine erau aceste suflete și ce soartă le-a abătut?",
+  "clues": [
+    "Am locuit într-o țară situată lângă un drum prin care călătorii treceau adesea, dar noi le-am făcut călătoria periculoasă.",
+    "Am comis astfel de acte indecente pe care nimeni în lume nu le mai comisese vreodată.",
+    "Un mesager dintre noi ne-a chemat să ne părăsim căile, dar l-am respins și i-am cerut pedeapsa dacă era sincer.",
+    "Când au venit oaspeți chipeși în orașul nostru, am căutat să-i atacăm, fără să știm că erau mesageri ai distrugerii.",
+    "Am fost avertizați despre o pedeapsă teribilă dacă nu ne abținem, dar am batjocorit avertismentul și am rămas în păcatul nostru.",
+    "O ploaie de pietre din cer a căzut peste noi, iar casele noastre au fost răsturnate, fără a lăsa nicio urmă în afară de un semn pentru cei care reflectează."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din Lut",
+        "Oamenii din Thamud",
+        "Oamenii din A'ad",
+        "Oamenii din Madyan",
+        "Oamenii din Saba"
+      ],
+      "answer": "Oamenii din Lut"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A comis o imoralitate fără precedent și a blocat drumuri",
+        "S-a închinat unui vițel de aur",
+        "A ucis cămila sacră",
+        "A înșelat în comerț și a dezonorat oamenii",
+        "A construit un turn înalt pentru a provoca cerurile"
+      ],
+      "answer": "A comis o imoralitate fără precedent și a blocat drumuri"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Îngeri deghizați în oaspeți frumoși",
+        "O cămilă care iese dintr-o stâncă",
+        "Un toiag care se transformă într-un șarpe",
+        "O barcă construită pe un munte",
+        "Un foc care a devenit răcoros și pașnic"
+      ],
+      "answer": "Îngeri deghizați în oaspeți frumoși"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Distrus de o ploaie de pietre din cer",
+        "Înghițit de pământ",
+        "Înecat într-o mare inundație",
+        "Lovit de o explozie urlătoare",
+        "Transformați în maimuțe"
+      ],
+      "answer": "Distrus de o ploaie de pietre din cer"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

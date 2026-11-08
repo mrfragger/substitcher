@@ -1,0 +1,61 @@
+{
+  "title": "He Whakatūpato Iti i mua i te Hoia Hīkoi",
+  "intro": "Eke atu ki tētahi awaawa kei reira tētahi rangatira nui me tētahi ope nui e whakatata mai ana, ka whakaarohia tētahi kaihaerere iti e tuku ana i tētahi whakatūpato e whakaora ana i tētahi hapori katoa. I te taenga atu o te hapori e mōrearea ana ki tētahi piringa, ka pahemo atu te tūpono. Whāia ngā tohu hei tautuhi i te āhua i ngaro i muri i taua whakatūpato.",
+  "clues": [
+    "Kei roto ahau i ngā mea hanga ririki e hono ana ki te rangatiratanga o tētahi rangatira.",
+    "E noho ana tōku hapori i roto i ngā whare i roto i te awaawa, ka taea e tētahi o tātou te karanga ki tētahi atu.",
+    "Kei te tūtaki tātou ki tētahi tūmomo whakawehi mai i taua rangatira me ngā taua e haere tahi ana me ia.",
+    "Ko au te tangata e karanga ana i taku hapori kia tomo ki roto i ō rātou kāinga, e whakatūpato ana hoki i a tātou kia kaua e tukinotia tātou me te kore mōhio.",
+    "Ko Sulayman te rangatira, ā, ko tōku momo kei roto i ngā mea hanga i raro i tana mana.",
+    "Ko ahau te pōpokorua o taua awaawa; i muri i taku whakatūpato, ka tomo mātou ki ō mātou kāinga, ā, ka mawhiti atu i te kuru e kore nei e mōhiotia e mātou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Pōpokorua o te Raorao",
+        "Te Hupō",
+        "Te Kākāriki",
+        "Te Nakahi",
+        "Te Muera"
+      ],
+      "answer": "Te Pōpokorua o te Raorao"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "He whakatūpato i whakaora i te hapori pōpokorua",
+        "He tono mō tētahi mowhiti mai i tētahi ika",
+        "He rapunga mō te torona ngaro",
+        "Te whakaoranga o ngā kanohi i tahaetia",
+        "Te whakahē i te kai a te rangatira"
+      ],
+      "answer": "He whakatūpato i whakaora i te hapori pōpokorua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Raorao o ngā Pōpokorua",
+        "Te Mowhiti Waitohu a Sulayman",
+        "Te Hāte Toto o Yusuf",
+        "Te Kuao Kau Koura o te Whakapuakanga",
+        "Ngā Rākau o Musa"
+      ],
+      "answer": "Te Raorao o ngā Pōpokorua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia te hapori i muri i te piringa",
+        "I whakangaromia te hapori, kāore i kimi piringa",
+        "I whakaorangia te hapori nā te mea i hoki whakamuri te ope taua",
+        "I whakawhiwhia te hapori ki te mana whakahaere i ngā manu",
+        "I haria hereheretia te hapori ki te kooti kingi"
+      ],
+      "answer": "I whakaorangia te hapori i muri i te piringa"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

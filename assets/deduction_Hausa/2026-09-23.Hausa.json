@@ -1,0 +1,61 @@
+{
+  "title": "Kiran da ya shawo kan shekaru",
+  "intro": "Ka yi tunanin wata rai da ta tsaya shi kaɗai a kan wata wayewa, ta ƙuduri aniyar shiryar da ita daga ɓata da jajircewa mara misaltuwa. Tsawon ƙarni, an ƙi saƙon, an yi masa ba'a, an kuma yi watsi da shi - duk da haka ƙoƙarin bai ƙare ba. Daga ƙarshe, babban lissafi ya zo, kuma kaɗan ne kawai suka sami ceto tare da wannan rai mai tawali'u. Za ka iya gane wannan mutum daga Alƙur'ani?",
+  "clues": [
+    "An aiko ni a matsayin mai gargaɗi ga mutane waɗanda suka ɓace ta hanyarsu.",
+    "Na gayyace su su nemi gafara su kuma juyo daga kurakuransu, amma suka juya baya.",
+    "A ƙarƙashin umarnin Allah, na gina wani babban jirgin ruwa yayin da mutanena ke kallo kuma suna yi mini ba'a.",
+    "Na kira Ubangijina ba tare da tsayawa ba—daga ƙarshe ya amsa, sai ruwa ya zubo daga sama da ruwa mai ƙarfi.",
+    "Na hau jirgin ruwa tare da waɗanda suka yi imani lokacin da ambaliyar ruwa ta yi ta tashi sama da ƙasa.",
+    "Na yi kuka ga wanda ya tsaya a baya, ina roƙonsu da su nemi mafaka a kan dutse, amma dokar ta riga ta zartar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Nuhu",
+        "Annabi Ibrahim",
+        "Annabi Musa",
+        "Annabi Hud",
+        "Annabi Salihu"
+      ],
+      "answer": "Annabi Nuhu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Gina babban jirgi da kuma tsira daga ambaliyar ruwa ta duniya",
+        "Ana jefa shi cikin wuta mai ƙuna",
+        "Fuskantar da azzalumi da masu sihirinsa masu ƙarfi",
+        "Babban kifi ya haɗiye shi",
+        "Shaidar kisan raƙumi mai tsarki"
+      ],
+      "answer": "Gina babban jirgi da kuma tsira daga ambaliyar ruwa ta duniya"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Babban jirgin katako a kan ambaliyar ruwa mai ƙarfi",
+        "Kwarin tsarki mai tsohon kango na duwatsu",
+        "Kogo mai zurfi inda sahabbai suka yi barci tsawon ƙarni da yawa",
+        "Cikin babban kifin whale a cikin zurfin teku",
+        "Babban dutse mai tsayi a cikin daji"
+      ],
+      "answer": "Babban jirgin katako a kan ambaliyar ruwa mai ƙarfi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An cece shi tare da masu bi a cikin jirgin ruwa",
+        "An cece shi ba tare da ya ji rauni ba daga wuta ta hanyar umarnin Allah",
+        "Jagoranci babban gudun hijira daga wata masarauta mai ƙarfi",
+        "A jefar da shi daga kifin a kan bakin teku mara hayaniya",
+        "Ya nisantar da mutane daga aikata mugunta ta hanyar wata alama ta mu'ujiza"
+      ],
+      "answer": "An cece shi tare da masu bi a cikin jirgin ruwa"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

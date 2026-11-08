@@ -1,0 +1,61 @@
+{
+  "title": "Le Souverain qui a parcouru les confins de la Terre",
+  "intro": "Imaginez un souverain puissant, investi de force et d'autorité sur son territoire. Ce personnage entreprend des voyages extraordinaires, atteignant les confins du monde, rencontrant des peuples étranges et faisant face à un grand défi lancé par deux nations corrompues. Qui est ce leader énigmatique ?",
+  "clues": [
+    "J'étais un souverain investi de l'autorité et des moyens d'atteindre les confins de la terre.",
+    "J'ai voyagé vers l'ouest et j'ai assisté au coucher du soleil dans une brume printanière.",
+    "J'ai rencontré un peuple près du soleil levant, sans aucun abri contre sa chaleur.",
+    "Une autre communauté m'a demandé de l'aide contre deux nations corruptrices connues sous le nom de Gog et Magog.",
+    "J'ai construit une barrière en utilisant du fer et du cuivre en fusion pour les contenir.",
+    "J'ai déclaré que cette barrière était une miséricorde de mon Seigneur, et qu'elle resterait en place jusqu'au moment fixé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Prophète Sulaiman",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Construire une barrière contre Gog et Magog",
+        "Survivre à une grande inondation",
+        "Être jeté dans le feu",
+        "Traverser la mer",
+        "Combattre un géant"
+      ],
+      "answer": "Construire une barrière contre Gog et Magog"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une barrière de fer et de cuivre",
+        "Un bâton qui s'est transformé en serpent",
+        "Un navire en bois",
+        "Un palais de verre",
+        "Un jardin de palmiers dattiers"
+      ],
+      "answer": "Une barrière de fer et de cuivre"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Gog et Magog furent retenus prisonniers jusqu'au moment convenu.",
+        "Il devint prophète",
+        "Il a été puni pour son arrogance.",
+        "Il a conquis le monde entier",
+        "Il a vécu éternellement"
+      ],
+      "answer": "Gog et Magog furent retenus prisonniers jusqu'au moment convenu."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

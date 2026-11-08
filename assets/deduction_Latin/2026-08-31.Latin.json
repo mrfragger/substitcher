@@ -1,0 +1,61 @@
+{
+  "title": "Vox Tacita Vallis",
+  "intro": "Retrocede in tempus ad populum potentem qui olim miraculum vivum quasi experimentum accepit. Arrogantia et pertinacia fatum eorum signaverunt. Potesne fabulam persequi et invenire quid in hoc dramatico momento mutationis evenerit?",
+  "clues": [
+    "Missus sum quasi divina probatio ad populum potentem, ob fortitudinem et contumaciam notum.",
+    "Miraculum singulare eram—numquam similes mihi inter eos apparuerant.",
+    "Aquam potabilem ex puteo cum meis alternis diebus communicavi.",
+    "Moniti sunt omnem iniuriam mihi illatam celerem poenam allaturam esse.",
+    "Audacissimi eorum monitum neglexerunt et me impediverunt.",
+    "Post mortem meam, unus clamor tonitruans desuper totum populum meum delevit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Camella Salih",
+        "Vacca Musae",
+        "Navis Nuh",
+        "Baculus Musae",
+        "Thronus Bilqis"
+      ],
+      "answer": "Camella Salih"
+    },
+    "trial": {
+      "label": "Fatum Meum",
+      "options": [
+        "Lacertis et occisus",
+        "Mactatum ut sacrificium",
+        "In serpentem transformatus",
+        "Per magnum diluvium servatus",
+        "Cito per regnum ductus"
+      ],
+      "answer": "Lacertis et occisus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Puteus aquae",
+        "Tabula lapidea",
+        "Rubus ardens",
+        "Arca lignea",
+        "Thronus aureus et argenteus"
+      ],
+      "answer": "Puteus aquae"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Uno clamore deleta",
+        "In magna inundatione submersus",
+        "Imbri lapidum adustus",
+        "Vento vehementi percussus",
+        "A terra absorptus"
+      ],
+      "answer": "Uno clamore deleta"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vladavina, preizkušena zaradi reke",
+  "intro": "V davnih časih se je po božjem odloku povzpel voditelj. Vladavina tega vladarja se ni začela s slavo, temveč s preizkušnjo na tekočih vodah. Močan sovražnik je izzval njihovo vojsko, izid pa je spremenil potek zgodovine. Ali lahko uganete, kdo je ta figura?",
+  "clues": [
+    "Izbran sem bil, da vodim velik narod, toda imenovanje je prišlo od zgoraj, ne od ljudstva.",
+    "Mojemu ljudstvu je bil vrnjen sveti predmet kot znak, ki potrjuje mojo vladavino.",
+    "Svoje vojake sem preizkusil z reko – večina jih je pila iz nje in ni uspela.",
+    "Nasproti nas je prišel mogočen bojevnik po imenu Jalut z ogromno vojsko.",
+    "Mladenič iz mojih vrst, oborožen le z vero, je premagal Jaluta.",
+    "Po naši zmagi je bilo kraljestvo končno zaupano temu mlademu prvaku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Talut (Saul)",
+        "Džalut (Goljat)",
+        "Prerok Davud",
+        "Prerok Musa",
+        "Prerok Harun"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Preizkušeno z reko",
+        "Vržen v plameneči ogenj",
+        "Ukazano žrtvovati sina",
+        "Ukazano zgraditi veliko barko",
+        "Pogoltnila ga je velika riba"
+      ],
+      "answer": "Preizkušeno z reko"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja zaveze",
+        "Palica, ki je razcepila morje",
+        "Prača in gladki kamni",
+        "Zlati telečji idol",
+        "Veličasten prestol"
+      ],
+      "answer": "Skrinja zaveze"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Kraljestvo preneseno na mladega prvaka (Dawuda)",
+        "Utopil se je z vojsko v morju",
+        "Varno rešen iz divjega požara",
+        "Požrta od zemlje z zakladi",
+        "Živ zgorel v gorečem jarku"
+      ],
+      "answer": "Kraljestvo preneseno na mladega prvaka (Dawuda)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

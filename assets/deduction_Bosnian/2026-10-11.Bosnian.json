@@ -1,0 +1,61 @@
+{
+  "title": "Glas u drevnim pijescima",
+  "intro": "Među najranijim Allahovim poslanicima, bio je jedan čije ime kratko, ali značajno sija u Kur'anu. Ova osoba je živjela mnogo prije nego što su poslani mnogi veliki proroci i bila je poznata po nepokolebljivoj istinoljubivosti i strpljenju. Njihova priča je kratka, ali njihovo naslijeđe traje u vječnim zapisima. Ko je ova plemenita duša?",
+  "clues": [
+    "Ja sam jedan od najranijih poslanika, kratko, ali značajno spomenut u Kur'anu.",
+    "Moj karakter je odlikovala nepokolebljiva posvećenost istini.",
+    "U Allahovoj knjizi sam spomenut među onima koji su bili strpljivi i postojani.",
+    "Samo nekoliko kratkih ajeta u Kur'anu priča moju priču.",
+    "Allah me je počastio na način koji je jedinstveno moj, a ne dijelim ga s drugim prorocima.",
+    "Bio sam uzdignut na visok položaj, što je jedinstvena čast u Kur'anu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Idris",
+        "Poslanik Iljas",
+        "Zul-kifl",
+        "Prorok Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Poslanik Idris"
+    },
+    "trial": {
+      "label": "Odlučujući trenutak",
+      "options": [
+        "Allah me je uzdigao na visok položaj",
+        "Sagradio sam veliku arku da spasim svoj narod",
+        "Izazvao sam faraonove čarobnjake",
+        "Braća su me bacila u jamu",
+        "Izgubio/la sam vid od tuge za sinom"
+      ],
+      "answer": "Allah me je uzdigao na visok položaj"
+    },
+    "location": {
+      "label": "Sveta referenca",
+      "options": [
+        "Sura El-Anbija",
+        "Sura El-Kehf",
+        "Sura Taha",
+        "Sura Aš-Šu'ara",
+        "Sura Jasin"
+      ],
+      "answer": "Sura El-Anbija"
+    },
+    "outcome": {
+      "label": "Božanska čast",
+      "options": [
+        "Visoka stanica kakva nijedna druga nije",
+        "Vladavina nad džinima i vjetrovima",
+        "Kraljevstvo neusporedive slave",
+        "Nasljednik iz moje starosti",
+        "Zavjet zapečaćen s Allahom"
+      ],
+      "answer": "Visoka stanica kakva nijedna druga nije"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

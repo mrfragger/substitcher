@@ -1,0 +1,61 @@
+{
+  "title": "Umqambi Wezimbozo",
+  "intro": "Uzithola uphambi komuntu onamandla kusukela ezinsukwini zokwambulwa. Lo muntu wayaziwa ngokuhlakanipha kwakhe, ingcebo, kanye nesikhundla sakhe phakathi kwabantu bakhe. Lapho kufika izimpawu ezicacile, baqaphela ubuhle kodwa bakhetha ukungalaleli kunokuzithoba. Yini eyashukumisela lo mphefumulo ukuba ucebe ebumnyameni, futhi sasiyini isiphetho sabo sokugcina?",
+  "clues": [
+    "Ngabusiswa ngezinsiza eziningi kanye nethonya, okwenza izwi lami laba nzima emabandleni.",
+    "Lapho amazwi aphezulu ephindwa, angikwazanga ukuphika ukugqama kwawo, kodwa ukuqhosha kwami ​​​​akungivumeli ukuba ngizithobe.",
+    "Ngaqoqa abeluleki bami, ngazihlukanisa ukuze ngicabange ngendlela yokuhlambalaza umyalezo.",
+    "Ngemva kokucabanga kakhulu, ngamemezela ukuthi 'kungumlingo odluliselwe esikhathini esidlule' wokuxosha abantu.",
+    "Isambulo sabe sesingibhekisa ngqo: ‘Ngishiyeni nalowo engamdala ngedwa.’ Ngakhethwa ngenxa yamaqhinga ami.",
+    "Maduze nje, wona kanye umlilo engaxwayiswa ngawo uzongibamba ngenduku, futhi ngeke ngibe nandawo yokuphunyuka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "U-Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "U-Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "U-Al-Nadr ibn al-Harith"
+      ],
+      "answer": "U-Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Uzungu lokubulala uMprofethi",
+        "Wahola ukubhikisha ngokumelene namaSulumane",
+        "Waqoqa umkhandlu ukuze aqambe i-Quran njengomlingo",
+        "Kuhlelwe ukuxosha uMprofethi eMakkah",
+        "Wenqaba ukwabelana ngengcebo yakhe nezintandane"
+      ],
+      "answer": "Waqoqa umkhandlu ukuze aqambe i-Quran njengomlingo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "IsAmbulo",
+        "UMkhandlu",
+        "I-Forelock",
+        "Ingcebo",
+        "Ipeni"
+      ],
+      "answer": "I-Forelock"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waphenduka futhi wamukela ubuSulumane",
+        "Wathuthela e-Abyssinia",
+        "Wahlaselwa yisifo esibulalayo",
+        "Wafa empini namaSulumane",
+        "Wagwetshelwa esihogweni somlilo"
+      ],
+      "answer": "Wagwetshelwa esihogweni somlilo"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

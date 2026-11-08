@@ -1,0 +1,60 @@
+{
+  "title": "O peso das riquezas",
+  "intro": "Atópaste ante unha historia de inmensa fortuna, unha vida adornada con ouro e poder, pero en definitiva unha lección para todos os que buscan a grandeza mundana. Poderás desentrañar a identidade desta figura cuxa historia resoa no tempo, un testemuño da natureza fugaz das posesións mundanas?",
+  "clues": [
+    "Eu era do pobo dun gran Profeta, pero elixín un camiño de arrogancia e opresión.",
+    "Alá concedeume unha riqueza inmensa, tanta que as chaves dos meus tesouros eran unha carga pesada para un grupo de homes fortes.",
+    "O meu pobo aconselloume que non me alborotase coas miñas riquezas, lembrándome que Alá non ama aos exultantes.",
+    "Afirmei arrogantemente que a miña vasta fortuna se debía ao meu propio coñecemento e esforzo, non a unha bendición de Alá.",
+    "Advertironme contra a corrupción e lembráronme de buscar o Máis Alá co que Alá me dera, pero negueime a escoitar e seguín no meu orgullo.",
+    "Finalmente, Alá fixo que a terra me tragase a min e á miña morada, deixándome sen axudantes en contra do Seu decreto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Faraón",
+        "Amán",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A división do mar",
+        "O lume de Nimrod",
+        "A inundación",
+        "A deglución pola terra",
+        "A praga das lagostas"
+      ],
+      "answer": "A deglución pola terra"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Arca",
+        "O persoal",
+        "O Becerro de Ouro",
+        "Os tesouros/Chaves",
+        "O pozo de Zamzam"
+      ],
+      "answer": "Os tesouros/Chaves"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Reinado outorgado",
+        "Salvado da destrución",
+        "Tragado pola terra",
+        "Converteuse en profeta",
+        "Morreu en paz"
+      ],
+      "answer": "Tragado pola terra"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

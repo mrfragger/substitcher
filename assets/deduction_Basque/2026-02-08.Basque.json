@@ -1,0 +1,60 @@
+{
+  "title": "Tronu Urruneko Enigma",
+  "intro": "Monarka boteretsu batek, aparteko aginteaz bedeinkatua, erronka berezi bati aurre egin behar izan zion, lurralde urrun bateko erregina bati buruzkoa. Monarkak jainkozko boterea eta jakinduria erakutsi nahi zituen, denboraren eta espazioaren legeak desafiatzen zituen gertaera sinestezin bat martxan jarriz. Gertaera miragarri honen xehetasunak ondoriozta ditzakezu?",
+  "clues": [
+    "Agintari bati botere izugarria ematen zitzaion, izaki ikusezinen gaineko kontrola eta haizeak agintzeko gaitasuna barne.",
+    "Agintari honek eguzkia gurtzen zuen erregina aberats baten berri jaso zuen, eta gortera gonbidatzea erabaki zuen.",
+    "Erregina iritsi baino lehen, agintariak bere botere-eserleku bikaina bere erreinu urrunetik ekartzeko nahia adierazi zuen.",
+    "Jinn boteretsu batek objektua berreskuratzeko eskaintza egin zuen agintaria bere kontseilutik altxatu aurretik.",
+    "Hala ere, Jainkozko Eskritura sakonki ezagutzen zuen batek berreskuratze are azkarragoa eskaini zuen, begi-kliska batean zeregina osatuz.",
+    "Iritsi zenean, agintariak objektua aldatzeko agindu zuen, erreginaren adimena eta pertzepzioa probatzeko, jauregira iritsi zenean."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Pertsona",
+      "options": [
+        "Moises profeta",
+        "David profeta",
+        "Ibrahim profeta",
+        "Yusuf profeta",
+        "Sulayman profeta"
+      ],
+      "answer": "Sulayman profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsasoaren zatiketa.",
+        "Pazientzia Zailtasunean",
+        "Kaabaren eraikuntza",
+        "Lorategien proba.",
+        "Erreginaren tronua ekartzea"
+      ],
+      "answer": "Erreginaren tronua ekartzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Mendia",
+        "Putzua",
+        "Tronua"
+      ],
+      "answer": "Tronua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Sakrifizio handia.",
+        "Erreinu bat ezarri zen",
+        "Zigortutako herria.",
+        "Itun berri bat.",
+        "Erreginaren Alahi men egitea"
+      ],
+      "answer": "Erreginaren Alahi men egitea"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umyili weZikhukhumaliso",
+  "intro": "Kwilizwe lamandulo elalilawulwa ngamandla avukelayo, umntu obalulekileyo wayenesikhundla sokuba nempembelelo. Lo mphefumlo wawubalulekile kwizicwangciso ezinkulu zomlawuli, unegalelo kulawulo lwabo olucinezelayo kwaye uphikisa umyalezo kaThixo. Ilifa labo lidibene nokufuna amandla ehlabathi kunye nokukhanyela inyaniso.",
+  "clues": [
+    "Ndikhonze umlawuli onamandla owayecinezela abantu kangangezizukulwana ngezizukulwana.",
+    "Igama lam likhankanywa rhoqo kwiNcwadi yoBungcwele kunye nale nkokeli inamandla.",
+    "Ndanikwa umsebenzi omkhulu wokwakha, isakhiwo esiphakamileyo esenzelwe ukufikelela emazulwini.",
+    "Ndiyicebisile inkosi yam ukuba ibulale oonyana babantwana bakwaSirayeli ize isindise iintombi zabo.",
+    "Ndandibandakanyeka kumacebo kunye namacebo okulwa nomthunywa onamandla ka-Allah.",
+    "Isiphelo sam, kunye nenkosi yam nomkhosi wayo, safika emanzini olwandle olukhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "uNimrod",
+        "UAbraham",
+        "uGoliyati",
+        "I-Iblis",
+        "UHaman"
+      ],
+      "answer": "UHaman"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuvavanywa ngobutyebi obukhulu",
+        "Ukukhokela umkhosi nxamnye nendlu engcwele",
+        "Ukwakha inqaba yokufikelela kuThixo",
+        "Ukuphoswa emlilweni ngenxa yenkolelo yabo",
+        "Ukuphoswa equleni ngabazalwana noodade"
+      ],
+      "answer": "Ukwakha inqaba yokufikelela kuThixo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Abasebenzi",
+        "Intaba",
+        "Inqaba",
+        "Umnenga"
+      ],
+      "answer": "Inqaba"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukunikwa ubulumko obukhulu",
+        "Ukuba ngumprofeti",
+        "Ukuginywa ngumhlaba",
+        "Ukunikwa ubukumkani",
+        "Ukuntywiliselwa elwandle"
+      ],
+      "answer": "Ukuntywiliselwa elwandle"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

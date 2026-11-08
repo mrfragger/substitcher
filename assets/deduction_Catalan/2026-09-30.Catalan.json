@@ -1,0 +1,61 @@
+{
+  "title": "El pacient",
+  "intro": "Fa molt de temps, en els primers dies de la història de la humanitat, dues ànimes es van presentar davant del seu Creador amb ofrenes. Una va ser acceptada, l'altra no. El que va seguir es convertiria en la primera gran tragèdia entre germans: un acte de pacient contenció i un acte de venjança amarga. Pots descobrir qui sóc?",
+  "clues": [
+    "Vaig néixer en els primers dies de l'existència humana a la Terra",
+    "Vaig ser fill de la primera parella d'humans que va caminar per aquesta terra",
+    "Una vegada vaig oferir un sacrifici del millor del meu ramat per complaure el meu Creador",
+    "La meva ofrena va ser acceptada des de dalt, mentre que l'ofrena del meu germà va ser rebutjada",
+    "Quan vaig ser amenaçat de mort, vaig optar per no aixecar la mà contra el meu germà",
+    "Vaig ser la primera persona en tota la història de la humanitat a ser assassinada injustament per una altra persona"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Habil (Abel), fill d'Adam",
+        "Qabil (Caín), fill d'Adam",
+        "Adam, el primer humà",
+        "Nuh (Noè)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), fill d'Adam"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "El primer assassinat de la història de la humanitat",
+        "El gran diluvi de Nuh",
+        "La destrucció de l'exèrcit de Fir'awn",
+        "El sacrifici d'Ismaïl per Ibrahim",
+        "La batalla contra Jalut (Goliat)"
+      ],
+      "answer": "El primer assassinat de la història de la humanitat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una ovella oferta com a sacrifici agradable",
+        "Una gran arca de fusta",
+        "Un bastó que es va convertir en una serp",
+        "Una puput que porta un missatge reial",
+        "Una trinxera de foc ardent"
+      ],
+      "answer": "Una ovella oferta com a sacrifici agradable"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va convertir en la primera víctima d'assassinat de la història de la humanitat",
+        "Va sobreviure a una gran inundació dins d'una embarcació de fusta",
+        "Vivia dins del ventre d'un gran peix",
+        "Governava sobre els djins, els humans i el vent",
+        "Va vagar durant quaranta anys per un vast desert"
+      ],
+      "answer": "Es va convertir en la primera víctima d'assassinat de la història de la humanitat"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tiding bu neex ci mag",
+  "intro": "Yaa ngi seede jamono ju yaakaar di yeesalaat. Jëkkër ak jabar, yu weesu at yu bari ngir nekk waajur, ñu am dige bu dëddu yooni nature bi. Ci seen digg amna nit ku nekk ci seen biir, muy màndargaal yërmaande Yàlla—ruuh buñ nara nekk yonent, yor ndono luy yàgg ci ay jamono. Kan mooy nit ku am solo kii?",
+  "clues": [
+    "Maa ngi juddoo ci waajur yu màgget te amul doom.",
+    "Malaaka yi ñëwoon ci sama njaboot ngir yëgle sama juddu.",
+    "Jox nañu ma xel ak yonent, ñu tuddee ma ci ñi muñ.",
+    "Sama pàppa dañu ko doon woowe xaritu Yàlla, man maa ko jox kado bimu màggee.",
+    "Dama amoon benn rakk bu doon Yonent itam, ñu ñaar ñaar ñépp sunu Boroom barkeel nanu ko.",
+    "Sama doom itam yonent la woon, te samay doom jox nañu ko mbind mi ak nekk yonent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Yonent Ishaq (Isaac)",
+        "Yalla ismail (ismail)",
+        "Yaqub (Jacob)",
+        "Yahya Yahya",
+        "Uzair (Ezra)"
+      ],
+      "answer": "Yonent Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Waajur yu mag lañu juddoo",
+        "sànni ci safara",
+        "Jox nañu ko buur ak alal",
+        "Yobbu na askanam ci Egypt",
+        "Defar na gaal ngir muccal gëmkat yi"
+      ],
+      "answer": "Waajur yu mag lañu juddoo"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Xibaar bu neex bi am doom",
+        "Bush buy tàkk",
+        "Nagu wurus bi",
+        "Gaalu kóllëre ga",
+        "Batu yonent bi"
+      ],
+      "answer": "Xibaar bu neex bi am doom"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekk na yonent bu am xeetu yonent",
+        "Nekk na buur bu am xaalis",
+        "Nit ñi yàqu nañu ci ñàkka gëm",
+        "Dafa mucc ci safara si",
+        "Dañu ko jox kàttanu wax bimu nekkee liir"
+      ],
+      "answer": "Nekk na yonent bu am xeetu yonent"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Oltin Buzoqning Quvg'in qilinishi",
+  "intro": "Qur'onda tilga olingan bir shaxs ulug' payg'ambar yo'qligida ko'p olomonni yo'ldan ozdirdi. Oltindan yasalgan narsa butun bir xalqning qalbini zabt etdi - ammo bu shaxsning hikoyasi yolg'izlik va g'alati la'nat bilan tugaydi. Bu quvg'in kim bo'lishi mumkin?",
+  "clues": [
+    "Men ilohiy yo'l-yo'riq olish uchun yuksalgan buyuk payg'ambar yo'qligida paydo bo'ldim.",
+    "Men oʻz qoʻllarim bilan yasagan narsam bilan juda koʻp odamlarni yoʻldan ozdirdim.",
+    "Men yaratgan oltin rangdagi asar hayotga ega bo'lib tuyuldi, uni kuzatuvchilarni maftun etadigan tovushlarni chiqardi.",
+    "Men boshqalar ko'ra olmaydigan narsani ko'rganimni da'vo qildim - ko'rinmas narsaga bir nazar.",
+    "Men ilohiy xabarchining izlaridan bir narsa chiqarib, uni eritilgan metallga tashladim.",
+    "Men yolg'iz kezib yurishga mahkum edim, hech kim mening terimga tegmasligi kerak bo'lgan, men esa ularning terisiga tegmasligim kerak bo'lgan o'ziga xos la'nat bilan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Samiri",
+        "Xomon",
+        "Fir'avn (Fir'avn)",
+        "Abu Lahab",
+        "Payg'ambar Solih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ibodat qilish uchun oltin buzoq yaratdi",
+        "Osmonga yetib boradigan minora qurdi",
+        "Misr sehrgarlariga qarshi chiqdi",
+        "Uchib yuruvchi hayvonlar bilan qo'shin boshqardi",
+        "Payg'ambarlikning isboti sifatida oyni ikkiga bo'ling"
+      ],
+      "answer": "Ibodat qilish uchun oltin buzoq yaratdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Ilonga aylangan tayoq",
+        "Tog'dagi yonayotgan buta",
+        "Cho'qqida yotgan kema",
+        "Yonayotgan olov bilan to'ldirilgan xandaq"
+      ],
+      "answer": "Oltin buzoq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Surgun qilingan, boshqalarga tegish yoki ularga tegish taqiqlangan",
+        "Dengizda qo'shin bilan birga cho'kib ketdi",
+        "Imonni rad etgani uchun tiriklayin yoqib yuborildi",
+        "Kuchli, bo'kirib turgan shamol urdi",
+        "Kechirildi va yuqori mavqega ko'tarildi"
+      ],
+      "answer": "Surgun qilingan, boshqalarga tegish yoki ularga tegish taqiqlangan"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

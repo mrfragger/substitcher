@@ -1,0 +1,61 @@
+{
+  "title": "Przysięga Macicy",
+  "intro": "W cichych komnatach serca oddanego Boskości zrodziła się święta przysięga. Ta przysięga koncentrowała się na życiu, które jeszcze nie zaczerpnęło tchu, a jej spełnienie miało na zawsze odmienić bieg duchowego dziedzictwa. Zanurz się w tajemnicę duszy, której obietnica rozbrzmiewała echem przez całą wieczność.",
+  "clues": [
+    "Mieszkałem w domu, w którym panowała pobożność, i pragnąłem daru, który przybliżyłby mnie do Allaha.",
+    "Zawarłem uroczystą umowę z moim Panem dotyczącą tego, co ukryte we mnie, ślubując poświęcić to całkowicie Jego służbie.",
+    "Gdy nadeszła chwila odsłonięcia, otrzymałem coś, czego się nie spodziewałem, ale powierzyłem tę sprawę Wszechwiedzącemu.",
+    "Nadałem mojemu dziecku imię symbolizujące oddanie i błagałem o ochronę dla niej i jej potomków przed przeklętym.",
+    "Moje dziecko zostało umieszczone w świętym sanktuarium pod opieką proroka z rodu Aarona.",
+    "Moja córka zasłynęła ze swej czystości i została wybrana ponad wszystkie kobiety, a później została matką wielkiego proroka, choć pozostała nieskalana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Żona Imrana",
+        "Matka Musy",
+        "Żona faraona",
+        "Żona Al-Aziza",
+        "Matka Isy"
+      ],
+      "answer": "Żona Imrana"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Ślubowanie poświęcenia nienarodzonego dziecka świątyni",
+        "Próba cierpliwości w czasie długiej choroby",
+        "Podróż do dalekiej krainy w imię wiary",
+        "Konfrontacja z królem-tyranem",
+        "Cudowne zaopatrzenie w żywność z nieba"
+      ],
+      "answer": "Ślubowanie poświęcenia nienarodzonego dziecka świątyni"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Dziecko o imieniu Maryam",
+        "Personel, który zamienił się w węża",
+        "Złoty cielec",
+        "Studnia Zamzam",
+        "Arka Noego"
+      ],
+      "answer": "Dziecko o imieniu Maryam"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Jej dziecko zostało przyjęte przez Allaha i dorastało pod opieką proroka",
+        "Jej dziecko zostało prorokiem i otrzymało Pismo Święte",
+        "Jej dziecko zostało wniebowzięte",
+        "Jej dziecko zbudowało święty dom",
+        "Jej dziecko otrzymało ogromną mądrość i bogactwo"
+      ],
+      "answer": "Jej dziecko zostało przyjęte przez Allaha i dorastało pod opieką proroka"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

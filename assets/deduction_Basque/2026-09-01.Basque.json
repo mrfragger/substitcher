@@ -1,0 +1,61 @@
+{
+  "title": "Kanpoaldeko Ahotsa",
+  "intro": "Hiru mezulari seinale argiekin etorri diren hiri batean zaude, baina jendeak iseka egiten die eta beren ohitura zaharrei eusten die. Hiriko urrunenetik, figura bat jendetzarantz korrika doa, arnasestuka eta erabakita, egia esateko errefusaren aurrean. Nor da berea ez den mezu batengatik dena arriskatu duen arima hau?",
+  "clues": [
+    "Seinale argiak zituzten mezulariak onartu zituen herri baten artean bizi nintzen, baina harrokeriaz alde egin zuten.",
+    "Hiriko urrunenetik korrika etorri nintzen mezularien deiaren berri izan nuenean.",
+    "Nire herriari esan nion: «Ene herri, jarraitu mezulariei. Jarraitu saririk eskatzen ez dizuetenei, ondo gidatuta baitaude».",
+    "Ez nintzen profeta, baina mezulariengan sinesten nuen eta nire herriari gauza bera egiteko eskatu nion.",
+    "Nire jendeak nire aholkuak iseka egin eta muturrekoa izateaz leporatu zidan.",
+    "Hil nindutenean, Alak Paradisura sartzeko esan zidan, eta nahi nuen nire herriak jaso nuen barkamena eta ohorea jakin zezan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hiriko urruneneko gizona (Ya-Sin)",
+        "Hirira bidalitako hiru mezularietako bat",
+        "Hiriko merkatari ospetsu bat",
+        "Hiriko agintari bat.",
+        "Sinesgabeen buruzagia."
+      ],
+      "answer": "Hiriko urruneneko gizona (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Bere herriari mezulariei jarraitzeko predikatzen",
+        "Uholde batetik sinestunak salbatzeko itsasontzi bat eraikitzea",
+        "Fedeagatik sutara botata izatea",
+        "Balea batek irentsi izana",
+        "Erreinua eta jakinduria emanez"
+      ],
+      "answer": "Bere herriari mezulariei jarraitzeko predikatzen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Hiriko alderik urrunena",
+        "Arka",
+        "Putzua",
+        "Sasi erretzailea",
+        "Kobazuloa"
+      ],
+      "answer": "Hiriko alderik urrunena"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Paradisuan sartu eta bere herriak bere barkamena ezagutzea nahi izan zuen",
+        "Mezua baztertzeagatik bere herriarekin ito zen",
+        "Gamelu emearen miraria eman zioten",
+        "Epaiketaren ondoren agintari bihurtu zen",
+        "Ala-k salbatu zuen eta bere herriarekin geratu zen"
+      ],
+      "answer": "Paradisuan sartu eta bere herriak bere barkamena ezagutzea nahi izan zuen"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

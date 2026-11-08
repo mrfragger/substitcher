@@ -1,0 +1,61 @@
+{
+  "title": "Der Eroberer zwischen zwei Horizonten",
+  "intro": "In den Annalen der göttlichen Führung ragt eine Gestalt als mächtiger Herrscher und zugleich demütiger Diener Allahs heraus. Dieser Mann reiste bis an die Enden der Erde, erlebte den Sonnenaufgang über einem ungewöhnlichen Volk und den Sonnenuntergang in einem düsteren Frühling. Am bemerkenswertesten ist jedoch, dass ihm die Aufgabe übertragen wurde, eine gewaltige Barriere gegen ein Volk voller Unheil zu errichten. Können Sie diese legendäre Gestalt aus dem Koran identifizieren?",
+  "clues": [
+    "Mir wurde vom Allerbarmer Macht und Einfluss auf Erden verliehen.",
+    "Ich reiste zu dem Ort, wo die Sonne aufgeht und wo sie untergeht",
+    "Ich erreichte ein Volk, das kaum ein Wort verstand.",
+    "Ich erhielt den Befehl, eine gewaltige Barriere aus Eisen zu errichten.",
+    "Ich habe den Spalt zwischen zwei steilen Bergen mit geschmolzenem Metall abgedichtet.",
+    "Ich war weder ein Engel noch ein Prophet, sondern ein Diener, dem Allah seine Gunst erwiesen hat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Dhu al-Qarnayn (Der mit den zwei Hörnern)",
+        "König Suleiman (Salomo)",
+        "Prophet Dhul-Kifl",
+        "Dhu al-Nun (Der Fischgefährte)",
+        "Der Engel der Barriere"
+      ],
+      "answer": "Dhu al-Qarnayn (Der mit den zwei Hörnern)"
+    },
+    "trial": {
+      "label": "Die große Aufgabe",
+      "options": [
+        "Einen Turm zum Himmel bauen",
+        "Errichtung einer massiven Eisenbarriere gegen Yajuj und Majuj",
+        "Erschaffung eines goldenen Thrones für das Gericht",
+        "Einen tiefen Brunnen für die Gerechten graben.",
+        "Der Bau eines Schiffes während einer großen Flut"
+      ],
+      "answer": "Errichtung einer massiven Eisenbarriere gegen Yajuj und Majuj"
+    },
+    "location": {
+      "label": "Die Kulisse",
+      "options": [
+        "Das Land Uzair zwischen zwei Flüssen",
+        "Der Ort des Sonnenaufgangs und der schwarzen, schlammigen Quelle",
+        "Das heilige Tal von Mekka",
+        "Die Wüste von Madyan",
+        "Die Insel Zypern"
+      ],
+      "answer": "Der Ort des Sonnenaufgangs und der schwarzen, schlammigen Quelle"
+    },
+    "outcome": {
+      "label": "Das göttliche Versprechen",
+      "options": [
+        "Das ewige Paradies wird sofort gewährt",
+        "Die Nation wurde von einem heißen Wind zerstört",
+        "Die Barriere wird bis zum Jüngsten Tag bestehen bleiben.",
+        "Freiheit vom Tod für alle Gläubigen",
+        "Ein ewiges Königreich ohne Ende"
+      ],
+      "answer": "Die Barriere wird bis zum Jüngsten Tag bestehen bleiben."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

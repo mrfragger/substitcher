@@ -1,0 +1,61 @@
+{
+  "title": "Daga Zurfin Rijiyar",
+  "intro": "Tafiyar wani matashin rai ta fara da wahayi mai ƙarfi na jikin sama suna durƙusawa cikin girmamawa. Rayuwar wannan mutumin ta kasance cikin babban cin amana daga waɗanda suka fi kusa, sannan shekaru na bauta da ɗaurin kurkuku ba bisa ƙa'ida ba. Duk da haka ta hanyar imani mara misaltuwa da jagorancin Allah, wannan mutum ya tashi daga mafi ƙasƙanci zuwa ga zama ɗaya daga cikin mutane mafi ƙarfi a cikin babbar daula. Za ku iya gano asalin wannan bawan Allah mai ban mamaki?",
+  "clues": [
+    "An nuna mini wahayi na taurari goma sha ɗaya, rana, da wata suna sujada a gabana.",
+    "Ni ne ɗan da iyayena suka ƙaunace ni sosai, wanda ya haifar da kishi a tsakanin 'yan'uwana",
+    "'Yan'uwana suka kama ni, suka cire min riga, aka jefa ni cikin wani babban rijiya mai duhu.",
+    "An sayar da ni a matsayin kaya a kasuwa kuma aka ɗauke ni daga ƙasarmu nesa da ƙasarmu",
+    "Wata mace mai iko ta yi ƙoƙarin ɓata min suna, sai aka jefa ni a kurkuku saboda ƙin amincewa da buƙatarta.",
+    "An albarkace ni da baiwar fassarar mafarki, kuma na tashi daga fursunan da aka manta zuwa babban ministan Masar"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Yusufu",
+        "Annabi Musa",
+        "Annabi Dawuda",
+        "Annabi Ayyub",
+        "Annabi Sulaiman"
+      ],
+      "answer": "Annabi Yusufu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "'Yan'uwan mutum sun jefa shi cikin rijiya mai zurfi",
+        "Tsira daga ambaliyar ruwa mai girma a duniya",
+        "A jefa shi cikin tanderu mai zafi",
+        "Yaƙi da wani babban jarumi a fagen fama",
+        "Babban kifi ya haɗiye shi"
+      ],
+      "answer": "'Yan'uwan mutum sun jefa shi cikin rijiya mai zurfi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Rijiya mai zurfi da bushewa a cikin daji",
+        "Babban jirgin katako a saman dutse",
+        "Sanda wadda ta rikide ta zama maciji",
+        "Kursi mai girma mai girma",
+        "Majajjawa da duwatsu biyar masu santsi"
+      ],
+      "answer": "Rijiya mai zurfi da bushewa a cikin daji"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama babban ministan Masar kuma ya sake haɗuwa da ƙaunatattun 'yan uwa",
+        "Ya gina babban jirgi ya kuma kira mutane zuwa ga imani",
+        "Ya fitar da al'umma gaba ɗaya daga kangin bauta a Masar",
+        "An ba shi mulki da iko a kan abubuwan da ba a gani ba",
+        "An ba shi haƙuri ta hanyar rashin lafiya mai tsanani kuma an warkar da shi"
+      ],
+      "answer": "Ya zama babban ministan Masar kuma ya sake haɗuwa da ƙaunatattun 'yan uwa"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

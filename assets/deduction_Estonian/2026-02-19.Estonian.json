@@ -1,0 +1,61 @@
+{
+  "title": "Suure ambitsiooni rumalus",
+  "intro": "Asu teekonnale, et paljastada kollektiivse üksuse identiteet, kelle julged plaanid leidsid ootamatu ja võimsa lõpu. See lugu on sügav meeldetuletus jumalikust väest ja maise võimu haprusest, kui see on vastuolus pühadusega. Lahenda selle grupi müsteerium, kelle lugu on Koraani sööbinud hoiatuseks kõigile, kes püüavad reegleid rikkuda.",
+  "clues": [
+    "Meil oli suur ambitsioon, uskudes, et meie vägi on võrratu, ja asusime teekonnale selge, hävitava eesmärgiga.",
+    "Meie ülbuse täis juht püüdis rüvetada paljude poolt austatud püha koda, eesmärgiga suunata palverännakud meie ehitatud ehitisse.",
+    "Kaugelt maalt marssisime tohutu jõuga, olles kindlad oma võimes lammutada Püha Linna iidne ehitis.",
+    "Meie armee oli võimas, eesotsas võimsate olenditega – vaatepilt, mida meie vallutatud maa elanikud sellises kampaanias harva, kui üldse, nägid.",
+    "Kui me sihtkohta jõudsime, toimus jumalik sekkumine; ilmusid väikesed tiivulised olendid, kes meid küpsetatud savikividega loobisid.",
+    "Kogu meie ekspeditsioon sai laastava lõpu, jättes meie võimsa väe täiesti hävitatuks nagu näritud õlekõrred, meie suurejoonelise plaani tolmuks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Thamudi rahvas",
+        "'Redi inimesed",
+        "Soodoma rahvas",
+        "Elevandi rahvas",
+        "Aia rahvas"
+      ],
+      "answer": "Elevandi rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur üleujutus",
+        "Kampaania Kaaba vastu",
+        "Ebajumalate hävitamine",
+        "Mere lõhenemine",
+        "Midjani maavärin"
+      ],
+      "answer": "Kampaania Kaaba vastu"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Kaaba",
+        "Kuldvasikas",
+        "Tuli"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Jumalik pääste",
+        "Pikk õitsengu periood",
+        "Islami usku pöördumine",
+        "Täielik häving",
+        "Pagulus oma maalt"
+      ],
+      "answer": "Täielik häving"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

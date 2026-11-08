@@ -1,0 +1,61 @@
+{
+  "title": "Un piccolo avvertimento prima di una schiera in marcia",
+  "intro": "Immaginate di entrare in una valle dove un potente sovrano e un immenso esercito si stanno avvicinando, e visualizzate un minuscolo viaggiatore che lancia un avvertimento che salverà un'intera comunità. Mentre la comunità minacciata raggiunge un rifugio, il pericolo si allontana. Seguite gli indizi per identificare la figura spesso trascurata che si cela dietro quell'avvertimento.",
+  "clues": [
+    "Io sono tra le piccole creature associate al regno di un sovrano.",
+    "La mia comunità vive in abitazioni all'interno di una valle, dove uno di noi può chiamare gli altri.",
+    "Siamo minacciati da quel sovrano e dagli eserciti che lo accompagnano.",
+    "Sono io che invito la mia comunità a rientrare nelle proprie case e ci avverto di non farci schiacciare inavvertitamente.",
+    "Il sovrano è Sulayman, e la mia specie è tra le creature poste sotto il suo comando.",
+    "Io sono la formica di quella valle; dopo il mio avvertimento, siamo entrati nelle nostre abitazioni e siamo scampati allo schiacciamento che altrimenti ci avrebbe colti di sorpresa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La formica della valle",
+        "L'upupa",
+        "Il Corvo",
+        "Il Tevere",
+        "Il mulo"
+      ],
+      "answer": "La formica della valle"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Un avvertimento che ha risparmiato una comunità di formiche",
+        "Una richiesta di anello da un pesce",
+        "Alla ricerca di un trono perduto",
+        "Il salvataggio degli occhi rubati",
+        "Il rifiuto di mangiare il cibo di un sovrano"
+      ],
+      "answer": "Un avvertimento che ha risparmiato una comunità di formiche"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La valle delle formiche",
+        "L'anello con sigillo di Sulayman",
+        "La camicia insanguinata di Yusuf",
+        "Il vitello d'oro dell'Esodo",
+        "Lo staff di Musa"
+      ],
+      "answer": "La valle delle formiche"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "La comunità è stata risparmiata dopo essersi rifugiata",
+        "La comunità è stata distrutta senza che nessuno riuscisse a mettersi al riparo.",
+        "La comunità fu risparmiata perché l'esercito si ritirò",
+        "La comunità è stata ricompensata con il controllo sugli uccelli",
+        "La comunità fu condotta prigioniera alla corte reale."
+      ],
+      "answer": "La comunità è stata risparmiata dopo essersi rifugiata"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

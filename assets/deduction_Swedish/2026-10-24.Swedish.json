@@ -1,0 +1,61 @@
+{
+  "title": "Varningen under marken",
+  "intro": "Tänk dig att stå bredvid en djup utgrävning medan röster stiger nerifrån och världen ovanför tystnar. Koranen bevarar denna scen som en varning: ett samhälle förkastar vad budbärarna kommer med, straffet närmar sig, och till och med dess dån blir en del av vittnesbördet. Vilket kollektiv talar genom dessa verser?",
+  "clues": [
+    "Vi är ihågkomna i Koranen som ett kollektiv definierat av ett gemensamt öde snarare än av ett individuellt namn.",
+    "Vi förkastade budskapet som sändebuden förde med sig, trots att det de sade var sant.",
+    "Vår ihågkomna identitet är knuten till ett djupt snitt i jorden, och det kännetecknet blev en del av vårt namn.",
+    "På den utsatta dagen fördes vi ut och släpades mot elden.",
+    "Vi kunde inte försvara oss mot straffet, och vi kunde inte höra dess dån.",
+    "Våra ansikten skulle vända sig mot elden, och vi skulle drivas in i den; när vi tillfrågades skulle vi säga att vi var bland dem som inte kunde svara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Skyttegravens följeslagare",
+        "Nationen räddad från den stora översvämningen",
+        "Guldkalvens dyrkare",
+        "Gruppen skyddade sig inuti bergsgrottan",
+        "Samhället befriat från den brinnande ugnen"
+      ],
+      "answer": "Skyttegravens följeslagare"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Släpad och kastad i elden",
+        "Befriad från en brinnande ugn",
+        "Säkert burna genom en stor översvämning",
+        "Skyddad i århundraden inuti en grotta",
+        "Räddad efter att ha kastats ner i en brunn"
+      ],
+      "answer": "Släpad och kastad i elden"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En dike eller grop",
+        "Ett stort hav",
+        "En bergsgrotta",
+        "Ett högt palats",
+        "En ökenbrunn"
+      ],
+      "answer": "En dike eller grop"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Oförmögna att försvara sig och oförmögna att höra Eldens dån",
+        "Räddad och beviljad tillträde till eviga trädgårdar",
+        "Säkert levererade genom en förödande översvämning",
+        "Skyddad av en lång sömn inuti en grotta",
+        "Ärad med ett evigt rike"
+      ],
+      "answer": "Oförmögna att försvara sig och oförmögna att höra Eldens dån"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

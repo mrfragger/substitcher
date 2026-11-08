@@ -1,0 +1,61 @@
+{
+  "title": "A Comunidade da Primeira Transgresión",
+  "intro": "Na terra das cidades antigas, un pobo prosperou unha vez. Recibiu a visita dun mensaxeiro cunha chamada clara, pero deron a volta e seguiron un camiño que ninguén xamais percorrera. A súa historia é unha historia de desafío, depravación e un castigo que deixou a súa terra natal como un sinal para todos os que reflexionan. Quenes son estas almas?",
+  "clues": [
+    "Vivíamos en cidades da chaira, onde o noso profeta nos chamou á xustiza.",
+    "Fomos os primeiros en cometer unha indecencia que ninguén en tódolos mundos cometera xamais antes.",
+    "Acosabamos os viaxeiros e cometemos o mal abertamente nas nosas reunións.",
+    "Rexeitamos o mensaxeiro que nos enviou e ameazamos con expulsalo da nosa terra.",
+    "Corremos á súa casa esixíndolle que nos entregase os seus hóspedes.",
+    "O noso castigo foi unha choiva de pedras, e a nosa cidade quedou patas arriba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Xente de Lut",
+        "Xente de Nuh",
+        "Xente de 'Ad",
+        "Xente de Thamud",
+        "Xente de Madyan"
+      ],
+      "answer": "Xente de Lut"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Cometeu o primeiro acto de sodomía",
+        "Ídolos adorados",
+        "Enganado no comercio",
+        "Mataron ao seu profeta",
+        "Desobedeceron aos seus pais"
+      ],
+      "answer": "Cometeu o primeiro acto de sodomía"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A cidade da chaira",
+        "A cidade do pozo",
+        "A cidade da gabia",
+        "A cidade do elefante",
+        "A cidade do xardín"
+      ],
+      "answer": "A cidade da chaira"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Choveu con pedras e derrubou",
+        "Afogado por unha inundación",
+        "Destruído por un vento violento",
+        "Tragado pola terra",
+        "Golpeado por unha forte explosión"
+      ],
+      "answer": "Choveu con pedras e derrubou"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "ziurtasunaren bilaketa izartsuetan",
+  "intro": "Imajinatu gaueko zeru zabal baten azpian zutik zaudela, argi distiratsuak igotzen eta gero desagertzen ikusten, benetan debozioa merezi duenaren bila. Zure inguruan, isilpeko irudi zizelkatuek laudorioak eta eskaintzak jasotzen dituzte, baina arrazoimen argiak haien boterea zalantzan jartzen du. Ahots ausart batek oinordetzan jasotako tradizioa zalantzan jarri eta zeruaren eta lurraren Sortzailea seinalatzear dago.",
+  "clues": [
+    "Izarrei, ilargiari eta eguzkiari begiratu nien, eta arrazoitu nuen ezin zirela nire Jauna izan, sartu eta desagertzen baitira.",
+    "Argi eta garbi ukatu nuen nire herriak Ala ez dena gurtzen zuena eta Sortzailea bakarrik gurtzera deitu nien.",
+    "Bizitza eta heriotza ematen zituela esaten zuen agintari harroputz batekin eztabaidatu nuen, eta Ala-k ekialdetik eguzkia ekartzen zuela aipatuz erantzun nion.",
+    "Idoloak jo eta hautsi nituen, handienak bakarrik utziz, jendea hara itzul dadin.",
+    "Nire herriak atxilotu eta kondenatu ninduen, egitura bat eraiki eta su bizian botatzeko esanez.",
+    "Salbatu egin nintzen Alak sua niretzat freskotasun eta segurtasun izan zedin agindu zuenean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ibrahim (Abraham) profeta",
+        "Yahya (Joan) profeta",
+        "Al-Yasa (Eliseo) profeta",
+        "Samiriarrak",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Ibrahim (Abraham) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Idoloen gurtzari aurre egin eta zeruko gorputzen esanahia eztabaidatu zuen",
+        "Haserre alde egin ondoren, arrain handi batek irentsi zuen",
+        "Alak zatitutako itsaso batetik gidatu zituen jarraitzaileak",
+        "Heriotza dastatu gabe zerura bizirik piztu zen",
+        "Urte askotan lagunekin kobazulo batean lo egin zuen"
+      ],
+      "answer": "Idoloen gurtzari aurre egin eta zeruko gorputzen esanahia eztabaidatu zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ala-k fresko eta seguru bihurtutako su bizia",
+        "Uholdearen bidez sinestunak eraman zituen arka",
+        "Suge bihurtu zen makila",
+        "Zerutik mahaia zabalduta",
+        "Gamelu emea seinale gisa bidalia"
+      ],
+      "answer": "Ala-k fresko eta seguru bihurtutako su bizia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Sutik babestuta eta ondorengo zuzenak emanak",
+        "Uholde handi batean ukatzaileekin itota",
+        "Sabbatua hausteagatik eraldatua",
+        "Buztinezko harriak zeramatzaten hegaztiek suntsituta",
+        "Lurrak altxorrez irentsia"
+      ],
+      "answer": "Sutik babestuta eta ondorengo zuzenak emanak"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

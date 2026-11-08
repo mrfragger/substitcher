@@ -1,0 +1,61 @@
+{
+  "title": "Hoiatus maa all",
+  "intro": "Kujutage ette, et seisate sügava kaevetöö kõrval, kui altpoolt kostuvad hääled ja ülalpool olev maailm vaikib. Koraan säilitab selle stseeni hoiatusena: kogukond lükkab tagasi sõnumitoojate toodud sõnumi, karistus läheneb ja isegi selle möirgamine saab osaks tunnistusest. Milline kollektiiv nende salmide kaudu räägib?",
+  "clues": [
+    "Koraanis mäletatakse meid kui kollektiivi, mida määratleb üks ühine saatus, mitte üksiknimi.",
+    "Me lükkasime tagasi sõnumitoojate toodud sõnumi, kuigi see, mida nad rääkisid, oli tõsi.",
+    "Meie mäletatav identiteet on seotud sügava maasse raiutud auguga ja see tunnusjoon sai osaks meie nimest.",
+    "Kokkulepitud päeval toodi meid välja ja lohistati tule poole.",
+    "Me ei saanud end karistuse eest kaitsta ega kuulda selle möirgamist.",
+    "Meie näod pöörati tulele ja meid aeti sinna sisse; kui meilt küsiti, ütlesime, et kuulume nende hulka, kes ei suutnud vastata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Kaeviku kaaslased",
+        "Suurest veeuputusest pääsenud rahvas",
+        "Kuldvasika kummardajad",
+        "Grupp peitis end mägikoopa sisse",
+        "Tulisest ahjust pääsenud kogukond"
+      ],
+      "answer": "Kaeviku kaaslased"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Lohistatud ja tulle visatud",
+        "Tuliahjust välja toodud",
+        "Ohutult läbi suure üleujutuse",
+        "Sajandeid koopas varjul olnud",
+        "Päästetud pärast kaevu viskamist"
+      ],
+      "answer": "Lohistatud ja tulle visatud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kaevik või auk",
+        "Suur meri",
+        "Mägikoobas",
+        "Kõrge palee",
+        "Kõrbekaev"
+      ],
+      "answer": "Kaevik või auk"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Suutmata end kaitsta ja kuulda tule möirgamist",
+        "Päästetud ja saanud sissepääsu igavestesse aedadesse",
+        "Ohutult toimetatud läbi hävitava üleujutuse",
+        "Kaitstud pika unega koopas",
+        "Austatud igavese kuningriigiga"
+      ],
+      "answer": "Suutmata end kaitsta ja kuulda tule möirgamist"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

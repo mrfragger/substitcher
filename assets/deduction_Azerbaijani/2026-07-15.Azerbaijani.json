@@ -1,0 +1,61 @@
+{
+  "title": "Tək Gizlənmə",
+  "intro": "İlahi lütf salnamələrində misilsiz saflığa malik bir ruh mövcuddur və müqəddəs bir istiqamətdə tənhalıq axtarmaq üçün öz xalqından ayrılmışdır. Onlar bu tənhalığın bütün aləmlər üçün bir əlamət, əbədiyyət üçün danışılacaq bir iman sınağı gətirəcəyini bilmirdilər.",
+  "clues": [
+    "Doğulmazdan əvvəl xidmət həyatına həsr olunmuşdum.",
+    "Mən nəcib bir peyğəmbərin himayəsi altına alındım.",
+    "Allah tərəfindən mənə elə bir ruzi verildi ki, o, məni heyrətə saldı.",
+    "Ailəmdən ayrılıb şərqdəki bir yerə çəkildim.",
+    "Kamil bir insan qiyafəsində mənə bir mələk zühur etdi və pak bir oğul xəbərini gətirdi.",
+    "Yeni doğulmuş körpəmlə qayıdanda qohumlarım məni günahlandırdılar, amma körpə məni müdafiə etmək üçün danışdı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Məryəm (Məryəm)",
+        "Asiya (Fironun arvadı)",
+        "Həcər (İsmayılın anası)",
+        "Sara (İbrahimin həyat yoldaşı)",
+        "Musanın anası"
+      ],
+      "answer": "Məryəm (Məryəm)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Möcüzəvi şəkildə hamiləlik və oğulun doğulması",
+        "Oda atılmaq",
+        "Nəhəng bir balıq tərəfindən udulur",
+        "Böyük bir gəmi tikmək",
+        "Dənizi keçmək"
+      ],
+      "answer": "Möcüzəvi şəkildə hamiləlik və oğulun doğulması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Şərqin tənha bir yeri",
+        "Yanan kol",
+        "Qırmızı dəniz",
+        "Suyun fışqırdığı qaya",
+        "Balina"
+      ],
+      "answer": "Şərqin tənha bir yeri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Körpə anasını müdafiə edərək danışdı",
+        "Dəniz iki yerə bölündü",
+        "Atəş sərin və təhlükəsiz oldu",
+        "Balina sahilə qusdu",
+        "Gəmi bir dağa qondu"
+      ],
+      "answer": "Körpə anasını müdafiə edərək danışdı"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

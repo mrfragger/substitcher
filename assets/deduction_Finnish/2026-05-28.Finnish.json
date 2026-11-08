@@ -1,0 +1,61 @@
+{
+  "title": "Horjumaton potilas",
+  "intro": "Profeetallisen historian aikakirjoissa harvat ovat kestäneet niin syvän menetyksen ja fyysisen ahdingon horjumattomalla uskolla. Tämän hahmon tarina on ajaton oppitunti kärsivällisyydestä ja luottamuksesta jumalalliseen viisauteen. Kuka tämä sielu on?",
+  "clues": [
+    "Allah valitsi minut viemään viestiä, mutta suurin koettelemukseni ei tullut torjunnan, vaan henkilökohtaisen onnettomuuden kautta.",
+    "Minulta vietiin omaisuuteni, karjani ja lapseni, yksi toisensa jälkeen.",
+    "Ruumiini oli täynnä haavoja, ja minut jätettiin yksin puolisoni tukea lukuun ottamatta.",
+    "Huusin Herrani puoleen, tunnustin kärsimykseni ja pyysin Hänen armoaan.",
+    "Minua käskettiin lyömään maata jalallani, ja virkistävä lähde pulppusi esiin.",
+    "Allah palautti terveyteni ja antoi minulle uuden perheen ja vielä enemmän omaisuutta kuin minulla oli ennen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ayyub",
+        "Profeetta Ibrahim",
+        "Profeetta Musa",
+        "Profeetta Isa",
+        "Profeetta Nooa"
+      ],
+      "answer": "Profeetta Ayyub"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Varallisuuden ja perheen menetys",
+        "Heitetään tuleen",
+        "Kalan nielaiseminen",
+        "Erottaminen perheestä ja myyminen orjaksi",
+        "Kultaisen vasikan kanssa koeteltuna"
+      ],
+      "answer": "Varallisuuden ja perheen menetys"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Vesilähde",
+        "Sauva, joka muuttui käärmeeksi",
+        "Puinen arkki",
+        "Sula vasikka",
+        "Palmu"
+      ],
+      "answer": "Vesilähde"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Perheen ja varallisuuden palauttaminen",
+        "Nousu taivaaseen",
+        "Kuninkaaksi tuleminen",
+        "Pelastuminen valaan kynsistä",
+        "Pojan saaminen vanhuudessa"
+      ],
+      "answer": "Perheen ja varallisuuden palauttaminen"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

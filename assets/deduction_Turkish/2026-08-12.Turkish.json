@@ -1,0 +1,61 @@
+{
+  "title": "Merhamet ve Kudret Elçileri",
+  "intro": "Sessiz bir öğleden sonranın, tanımadık yolcuların gelişiyle kesintiye uğradığını hayal edin. Görünüşleri sıradan, ancak amaçları hiç de öyle değil. İki ulusun kaderini değiştirecek, çorak bir eve neşe, günahkar bir şehre ise dehşet getirecek ilahi bir mesaj taşıyorlar. Bu gizemli ziyaretçiler kim?",
+  "clues": [
+    "Biz, sınırsız misafirperverlikleriyle tanınan, Allah'ın sadık bir kulunun yanına gönderildik.",
+    "Yabancı kılığında geldik, ancak ev sahibimiz varlığımızda uhrevi bir şey sezdi.",
+    "Yaşlı bir kadının inanmazlıkla gülmesine, hatta şaşkınlıktan kendi yüzüne vurmasına neden olan bir haber getirdik.",
+    "Bizim görevimiz, yolsuzluğa batmış bir şehre yıkım yağdırırken dürüst bir aileyi korumaktı.",
+    "Bize sunulan yemeği yemeyi reddettik, bu da ev sahibinin şüphelerini daha da artırdı.",
+    "Biz, ayrılmadan önce gerçek kimliğimizi ortaya koyarak, 'Şüphesiz biz Rabbinizin elçileriyiz' dedik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "İbrahim'in Misafirleri",
+        "İsa'nın Öğrencileri",
+        "Mağara Yoldaşları",
+        "Abraha Ordusu",
+        "Ya-Sin'in Elçileri"
+      ],
+      "answer": "İbrahim'in Misafirleri"
+    },
+    "trial": {
+      "label": "Misyonumuz",
+      "options": [
+        "İbrahim'in oğluna olan inancını sınamak için",
+        "İbrahim'e kutsal yazıları iletmek",
+        "İshak'ın doğumunu ve Lut'un halkının yok oluşunu duyurmak için.",
+        "İbrahim'i Kâbe'ye götürmek için",
+        "İbrahim'i ateşten kurtarmak için"
+      ],
+      "answer": "İshak'ın doğumunu ve Lut'un halkının yok oluşunu duyurmak için."
+    },
+    "location": {
+      "label": "Göründüğü Yer",
+      "options": [
+        "Mısır topraklarında",
+        "Ur şehrinde",
+        "Abraham'ın evinde",
+        "Cennet bahçesinde",
+        "Zemzem kuyusunda"
+      ],
+      "answer": "Abraham'ın evinde"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İbrahim kral oldu.",
+        "İbrahim Kâbe'yi inşa etti.",
+        "Sarah, İshak'ı doğurdu ve Lut'un halkı yok edildi.",
+        "İbrahim Filistin'e göç etti.",
+        "İbrahim'in kavmi büyük bir tufandan kurtarıldı."
+      ],
+      "answer": "Sarah, İshak'ı doğurdu ve Lut'un halkı yok edildi."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

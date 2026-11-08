@@ -1,0 +1,61 @@
+{
+  "title": "Mai i ngā Hōhonutanga o te Puna",
+  "intro": "I tīmata te haerenga a te wairua taitamariki me te kitenga kaha o ngā tinana o te rangi e piko ana me te whakaute. I kitea te oranga o tēnei tangata i te tinihanga hohonu rawa atu a te hunga tata, ā, i muri mai ko ngā tau o te herehere me te mauheretanga hē. Heoi, nā te whakapono pumau me te arataki a te Atua, i ara ake tēnei tangata i te rua raro rawa hei tētahi o ngā tāngata tino mana i roto i tētahi emepaea nui. Ka taea e koe te hura i te tuakiri o tēnei pononga whakamiharo a Allah?",
+  "clues": [
+    "I whakakitea mai ki ahau he kitenga o ngā whetu tekau mā tahi, te rā, me te marama e piko ana ki mua i ahau",
+    "Ko au te tamaiti tino arohaina e ōku mātua, ā, nā tēnei i whakatupu te hae i waenganui i ōku tuakana",
+    "I hopukia ahau e ōku ake teina, i tangohia tōku kākahu, ā, i maka ahau ki roto i tētahi poka hohonu, pōuriuri",
+    "I hokona ahau hei taonga hokohoko, ā, i haria atu ahau i tawhiti atu i tōku whenua tupu",
+    "I ngana tētahi wahine whai mana ki te whakararu i tōku honore, ā, i maka ahau ki te whare herehere mō te whakakore i āna tono",
+    "I manaakitia ahau ki te taonga o te whakamaoritanga o ngā moemoeā, ā, i ara ake ahau i te herehere kua warewaretia hei minita matua o Ihipa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Yusuf",
+        "Poropiti a Mohi",
+        "Poropiti a Rawiri",
+        "Poropiti a Ayyub",
+        "Poropiti a Sulaimana"
+      ],
+      "answer": "Poropiti a Yusuf"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I makaia ki roto i te poka hohonu e ōna ake tuakana",
+        "Te ora i tētahi waipuke nui o te ao whānui",
+        "Te maka ki roto i te oumu mura",
+        "Te whawhai ki tētahi toa nui i te papa pakanga",
+        "Te horomia e te ika nui"
+      ],
+      "answer": "I makaia ki roto i te poka hohonu e ōna ake tuakana"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He puna hohonu, maroke i te koraha",
+        "He āka rakau nui i runga i te maunga",
+        "He tokotoko i huri hei nakahi",
+        "He torona whakahīhī, he kororia nui",
+        "He kotaha me ngā kōhatu maeneene e rima"
+      ],
+      "answer": "He puna hohonu, maroke i te koraha"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Ko Rose te tumuaki minita o Ihipa, ā, ka tūtaki anō ki te whānau aroha",
+        "I hanga e ia tētahi kaipuke nui, ā, i karanga i te iwi ki te whakapono",
+        "I ārahi i te iwi katoa i waho i te herehere i Ihipa",
+        "I tukuna he rangatiratanga me te mana ki runga i te mea kāore e kitea",
+        "I whakamanawanuitia i roto i te mate kino, ā, i ora"
+      ],
+      "answer": "Ko Rose te tumuaki minita o Ihipa, ā, ka tūtaki anō ki te whānau aroha"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

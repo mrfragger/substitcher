@@ -1,0 +1,61 @@
+{
+  "title": "Yakuniy namoyish kuni",
+  "intro": "Kuchning ulkan namoyishiga chaqirilgan bir guruh mohir ijrochilar hayotlarini abadiy o'zgartiradigan kutilmagan haqiqatga duch kelishdi.",
+  "clues": [
+    "Biz o'z mahoratimiz, illyuziya va hiyla-nayrang ustalarimiz bilan mashhur edik.",
+    "Bizni hukmdor oddiy tayoq bilan kurashgan raqibga qarshi turishga chaqirdi.",
+    "Haqiqatni ko'rganimizda, olamlarning Parvardigoriga iymon keltirib, sajda qildik.",
+    "Zolim bizni qattiq jazolash bilan qo'rqitdi, ammo biz ikkilanmadik.",
+    "Biz aniq belgini ko'rganimizdan so'ng, xabarga birinchi bo'lib iymon keltirganlardan bo'ldik.",
+    "Biz iymonimiz uchun shahid bo'ldik, ammo solihlar bilan birga jannatga birinchi bo'lib kiramiz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Fir'avnning sehrgarlari",
+        "Isroilliklar",
+        "Samud qavmi",
+        "Iso payg'ambarning shogirdlari",
+        "Abraha armiyasi"
+      ],
+      "answer": "Fir'avnning sehrgarlari"
+    },
+    "trial": {
+      "label": "Sinov / Tadbir",
+      "options": [
+        "Muso payg'ambar bilan musobaqa",
+        "Minora qurish",
+        "Buyuk To'fon",
+        "Chigirtkalar vabosi",
+        "Yorilayotgan dengiz"
+      ],
+      "answer": "Muso payg'ambar bilan musobaqa"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Festival kuni",
+        "Tuva vodiysi",
+        "Iram shahri",
+        "Abadiylik bog'i",
+        "Arafat tekisligi"
+      ],
+      "answer": "Festival kuni"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ular omma oldida xochga mixlangan",
+        "Ular dengizda cho'kib ketishdi",
+        "Ular payg'ambarning izdoshlari bo'lishdi",
+        "Ular surgunga jo'natildi",
+        "Ular olov bilan yonib ketdi"
+      ],
+      "answer": "Ular omma oldida xochga mixlangan"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

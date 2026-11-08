@@ -1,0 +1,61 @@
+{
+  "title": "Hääl kuristikust",
+  "intro": "Koraanis avaneb lugu kannatlikkusest ja jumaliku piiritust halastusest. Suurde linna saadeti sõnumitooja, kuid nende rahvas lükkas hoiatuse tagasi ja keeldus tõest. Pettumuses see hing lahkus – vaid selleks, et raevukas meri teda proovile paneks ja ta neelaks pimedaimasse sügavikku. Pimeduse kõhust kerkis alandlik palve ja Kõigehalastavam vastas. Kes on see hing, kes muutusena esile kerkis, kelle rahvast said usklikud enam kui saja tuhande seast?",
+  "clues": [
+    "Mind saadeti hoiatajana suurde linna, mille elanikud olid usu teelt kõrvale kaldunud.",
+    "Ma kutsusin oma rahvast korduvalt tõe juurde, aga nad pilkasid ja hülgasid mu sõnumi.",
+    "Lahkusin pettunult enne loa saamist nende juurest ja suundusin avamere poole.",
+    "Tõusis suur torm ja mind heideti üle parda – seejärel neelas mind tervelt alla tohutu mereelukas.",
+    "Pimeduse kihtides – ookeani sügavustes, olendite kõhus ja sügavas merepõhjas – hüüdsin ma: „Pole teist jumalat peale Sinu; au olgu Sulle; mina olin ülekohtutegijate seas.“",
+    "Allah päästis mind sügavikest ja kui ma tagasi tulin, oli üle saja tuhande mu rahvast tõe omaks võtnud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Junus (Joona)",
+        "Prohvet Musa (Mooses)",
+        "Prohvet Ibrahim (Aabraham)",
+        "Prohvet Zakariyya (Sakarja)",
+        "Prohvet Idris (Eenok)"
+      ],
+      "answer": "Prohvet Junus (Joona)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Hiiglasliku mereeluka allaneelamine",
+        "Türanni ja tema võluritega silmitsi seismine",
+        "Vihastanud kuninga poolt lõõmavasse tulle heidetud",
+        "Kuuldes rõõmusõnumit pojast, kui ta oli vana ja võimetu",
+        "Nähes rahvast, mille hävitas laastav üleujutus"
+      ],
+      "answer": "Hiiglasliku mereeluka allaneelamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Suure mereeluka kõht ookeani sügavustes",
+        "Püha maja, mida ümbritsevad mäed viljatus orus",
+        "Lõõmav tuli, mis muudeti jahedaks ja rahulikuks",
+        "Suurepärane aed voolavate jõgede ja varjuga",
+        "Mäe tipul puhkav tohutu laev"
+      ],
+      "answer": "Suure mereeluka kõht ookeani sügavustes"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Pimedusest vabastatud; suur hulk uskus",
+        "Vabanenud lõõmavast tulest, leegid jahtuvad",
+        "Sai võimsa rahva juhiks ja vabastas nad rõhumisest",
+        "Pärast aastaid palvetamist anti lapsele vanas eas",
+        "Antud tohutu tarkus, kuningriik ja valitsus tuulte ja džinnide üle"
+      ],
+      "answer": "Pimedusest vabastatud; suur hulk uskus"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

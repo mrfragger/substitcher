@@ -1,0 +1,61 @@
+{
+  "title": "Go Robala ga Basiami",
+  "intro": "Mo nakong e tumelo e neng e le kotsi mme ba ba maatla ba batla go thubaganya tumelo, setlhopha se sennye sa mewa e mesha se ne sa dira tlhopho e e neng e tla boeletsa mo dingwageng. Ba tshaba tsotlhe tse ba neng ba di itse, ba ne ba batla botshabelo mo lefifing le le fitlhegileng la thaba mme ba ikanya Allah gotlhelele. Se se neng sa direga morago ga moo e ne e tla nna sesupo se se sa feleng mo go ba ba akanyang.",
+  "clues": [
+    "Re ne re le setlhopha sa basha ba ba neng ba dumela mo Moreneng wa rona, mme a re oketsa ka kaelo.",
+    "Re ne ra ema fa pele ga batho ba rona mme ra bolela gore ga re kitla re bitsa modimo ope kwantle ga Allah.",
+    "Re ne ra batla botshabelo mo logageng, re re, 'Morena wa rona, re neye kutlwelobotlhoko e e tswang mo go wena mme o re kaele sentle mo kgannyeng ya rona.'",
+    "Re ne re robala dingwaga di le dintsi thata, mme letsatsi le ne le tla sekama go tswa mo logageng lwa rona mme le sa re ame.",
+    "Ntša ya rona e ne e robetse e otlologile fa kgorong ya logaga, e re disa jaaka e kete e re disitse.",
+    "Fa re tsosiwa, ra ipotsa gore re diegile lobaka lo lo kana kang, mongwe wa rona a rongwa ka madi a selefera go ya go reka dijo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Logaga",
+        "Batho ba Mosele",
+        "Batho ba Sabata",
+        "Batho ba Tlou",
+        "Batsala ba Dikgong"
+      ],
+      "answer": "Batho ba Logaga"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Ba ne ba tshabela kwa logageng gore ba se ka ba bogisiwa ka ntlha ya tumelo ya bone",
+        "E sentswe ke phefo e e maatla",
+        "E meditswe ke lefatshe",
+        "O nwetse mo lewatleng",
+        "A itewa ke setsuatsue sa matlapa"
+      ],
+      "answer": "Ba ne ba tshabela kwa logageng gore ba se ka ba bogisiwa ka ntlha ya tumelo ya bone"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ntša e e disang botseno jwa logaga",
+        "Areka e kgolo",
+        "Lore lo lo neng lwa fetoga noga",
+        "Nonyane ya hoopoe",
+        "Namane ya gauta"
+      ],
+      "answer": "Ntša e e disang botseno jwa logaga"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ba ne ba nna mo logageng dingwaga di le 309 mme morago ga moo ba ne ba tsosiwa e le sesupo .",
+        "Ba ne ba fetolwa go nna ditshwene",
+        "Ba ne ba senngwa ke morwalela",
+        "Ba ne ba dirilwe gore ba kgabaganye lewatle",
+        "Ba newa bogosi ."
+      ],
+      "answer": "Ba ne ba nna mo logageng dingwaga di le 309 mme morago ga moo ba ne ba tsosiwa e le sesupo ."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'âme vigilante au bord du fleuve",
+  "intro": "Une jeune âme se vit confier une mission secrète : observer, à distance, le cours du destin sur les flots. Invisible et insoupçonnée, cette figure allait jouer un rôle déterminant dans l'histoire d'une nation.",
+  "clues": [
+    "Ma mère m'a confié une tâche qui exigeait discrétion et vigilance.",
+    "Mes yeux suivaient un petit berceau dérivant au fil du courant, le cœur lourd d'inquiétude.",
+    "Lorsqu'il fut découvert par une personne inattendue, je m'approchai, plein d'appréhension.",
+    "J'ai constaté leur désespoir de trouver un soignant et leur ai proposé une solution sans révéler la vérité.",
+    "Mon intervention opportune a permis de redonner aux soins infirmiers ce qu'ils méritaient le plus.",
+    "Dans les cours des puissants, j'ai dit : « Voulez-vous que je vous indique une famille qui le nourrira et prendra soin de lui avec attention ? »"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "La sœur de Moussa",
+        "La mère de Moussa",
+        "L'épouse du pharaon",
+        "Une sage-femme",
+        "La fille de Shu'aib"
+      ],
+      "answer": "La sœur de Moussa"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le fait de jeter un enfant dans la rivière",
+        "La séparation de la mer",
+        "Le veau brûlé",
+        "La construction de l'arche",
+        "Le fléau des sauterelles"
+      ],
+      "answer": "Le fait de jeter un enfant dans la rivière"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La rivière",
+        "Le désert",
+        "La montagne",
+        "Le palais",
+        "Le feu"
+      ],
+      "answer": "La rivière"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Elle a réuni l'enfant avec sa mère",
+        "Elle s'est sauvée elle-même des soldats du pharaon",
+        "Elle devint reine",
+        "Elle a été punie pour espionnage.",
+        "Elle a conduit les Israélites"
+      ],
+      "answer": "Elle a réuni l'enfant avec sa mère"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

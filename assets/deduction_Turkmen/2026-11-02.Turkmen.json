@@ -1,0 +1,61 @@
+{
+  "title": "Altyn synagynda üýtgewsiz ýaran",
+  "intro": "Beýik pygamberiň kölegesinde, uly missiýa kömek etmek üçin söz ussatlygy we imanly bir jan saýlandy. Bu şahsyýet köpçüligiň ikirjiňlenmegi bilen berk durup, ýekehudaýlygyň özenine howp salýan açyk bir günä garşy wagyz etdi. Pygamber halkyň heläkçiligine şaýat bolmak üçin gaýdyp gelende, bu şahsyýetiň goragy günä däl-de, borç we bölünmekden gorkmakdy. Allanyň bu wepaly guly kim?",
+  "clues": [
+    "Men Alla tarapyndan başga biriniň ýanynda mukaddes borç üçin saýlandym we meniň wezipäm goldaw bermek we yglan etmekdi.",
+    "Maňa aýdyň sözleýiş berildi we men güýçli zalym bilen ýüzbe-ýüz bolmak üçin bir çapar bilen gitdim.",
+    "Kyn ýolda çapar meni adamlara gözegçilik etmäge goýup, ýeke özi daga çykdy.",
+    "Olar ýok wagty, halk altyn heýkel ýasady we men olardan wepaly galmaklaryny haýyş etdim, ýöne olar meniň maslahatymy ret etdiler.",
+    "Habarçy gahar-gazap we gam-gussa bilen gaýdyp gelende, men özümi ele aldym, ýöne men özümden üstün çykandygymy we olaryň arasynda dawa döretmekden gorkýandygymy düşündirdim.",
+    "Men doganym Musanyň ýanynda durup, onuň ýüküni paýlaşyp, butparazlyga garşy berk duran pygamber."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Harun pygamber",
+        "Musa pygamber",
+        "Isa pygamber",
+        "Dawut pygamber",
+        "Zekeriýa pygamber"
+      ],
+      "answer": "Harun pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Adamlar duýduryşlara garamazdan altyn göle sežde etdiler",
+        "Adamlar meni ýanyp duran oda taşladylar",
+        "Meni uly balyk ýuwutdy",
+        "Meni ýalan aýyplamalar bilen türmä basdylar",
+        "Men wagyz edenim üçin şäherimden sürgün edildim"
+      ],
+      "answer": "Adamlar duýduryşlara garamazdan altyn göle sežde etdiler"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Altyn göle",
+        "Ýanýan Çala",
+        "Ýylana öwrülen taýajyk",
+        "Äht ýazgylary",
+        "Äht sandyk"
+      ],
+      "answer": "Altyn göle"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Men aklandym we pygamberlik missiýamy dowam etdirdim",
+        "Men halkyň günäsi üçin jezalandyryldym",
+        "Maňa ýol görkezmek üçin täze millet berildi",
+        "Men diri göge göterildim",
+        "Men bir patyşalygyň hökümdary edilip bellendim"
+      ],
+      "answer": "Men aklandym we pygamberlik missiýamy dowam etdirdim"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

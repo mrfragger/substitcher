@@ -1,0 +1,61 @@
+{
+  "title": "Likambo ya kosɛnga bokonzi ya solosolo",
+  "intro": "Na ntango ya kala, moto moko ya nguya atɛlɛmaki mpo na koyangela mokili monene mpe bafandi na yango. Bokonzi ya motángo yango ezalaki na lolendo monene mpe mokakatano monene mpo na bokonzi ya Nzambe. Bomilengela mpo na kobimisa bomoto ya molimo oyo nsuka na yango ya nsuka ekomaki liteya ya koumela mpo na bankola nyonso.",
+  "clues": [
+    "Nazalaki na bokonzi likoló na bokonzi moko ya nguya, epai liloba na ngai ezalaki mobeko.",
+    "Namilobaki ete nazali nzambe oyo aleki bato nyonso, mpe nazalaki kosɛnga bato nyonso oyo bazalaki koyangela ngai básambela ngai.",
+    "Nanyokolaki lisangá moko boye, nazalaki kosala bango baombo mpe kopesa mitindo ete báboma bana na bango ya mibali oyo bazalaki bana mike.",
+    "Mbala na mbala nakutanaki na momemi-nsango moko ya komikitisa ya Nzambe, oyo asalaki makamwisi ya polele liboso na ngai mpe banganga-nkisi na ngai.",
+    "Naboyaki solo na motó makasi, nafundaki momemi-nsango yango ete azali na bondɔki mpe nazalaki kosala mwango mpo na koboma ye mpe balandi na ye.",
+    "Limpinga na ngai mobimba mpe ngai tozipamaki na mbu ntango tozalaki kolanda kozanga kotika baoyo balongolamaki na maboko na ngai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Nimilode",
+        "Abu Jahl azali moto ya mayele",
+        "Iblis, oyo azali",
+        "Fir'awn na likambo yango",
+        "Hamane"
+      ],
+      "answer": "Fir'awn na likambo yango"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mpela Monene",
+        "Mɔtɔ oyo ezali kopela",
+        "Kozinda ya Monyokoli",
+        "Kobebisama na Mopɛpɛ",
+        "Koningana ya Mabele ya kozanga kondima"
+      ],
+      "answer": "Kozinda ya Monyokoli"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku ya Noa",
+        "Likonzí ya Moize",
+        "Ekeko ya wolo",
+        "Libulu ya Zamzam",
+        "Kiti ya bokonzi ya Bilqis"
+      ],
+      "answer": "Likonzí ya Moize"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Epesamaki bokonzi monene",
+        "Nzoto oyo ebatelami lokola elembo",
+        "Balimbisami nsima ya koyambola",
+        "Totombolami na bosakoli",
+        "Bato na ye bakómaki bato ya losambo"
+      ],
+      "answer": "Nzoto oyo ebatelami lokola elembo"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

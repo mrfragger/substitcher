@@ -1,0 +1,61 @@
+{
+  "title": "Parlat en l'ésser",
+  "intro": "Una figura emergeix de la història sagrada, portadora de miracles que van desafiar l'ordre natural. Aquesta ànima va arribar per un únic manament diví, va defensar un pare o mare de greus acusacions i va deixar aquest món abans que les cadenes terrenals poguessin lligar-la. La història s'estén des d'un humil bressol fins al cel. Qui podria ser?",
+  "clues": [
+    "Vaig ser enviat com a signe i misericòrdia d'Al·là als fills d'Israel.",
+    "La meva arribada no s'assemblava a cap altra: vaig néixer per la paraula divina «Sigues!» sense un pare terrenal.",
+    "El meu pare va ser objecte de calúmnies cruels, però la revelació sagrada va descendir per declarar la seva innocència i elevar la seva posició.",
+    "De nounat, vaig sorprendre els que m'envoltaven parlant clar des del bressol per netejar el nom dels meus pares.",
+    "Amb el permís d'Al·là, vaig donar forma a la vida a partir d'argila sense vida, vaig donar la vista als cecs i vaig curar el leprós amb el meu toc.",
+    "Vaig ser elevat als cels abans que el mal em pogués tocar, i tornaré a aquest món abans que arribi l'Hora final."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Isa",
+        "Profeta Musa",
+        "Profeta Ibrahim",
+        "Profeta Iússuf",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Isa"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Parlant des del bressol de petit",
+        "Sobreviure al ventre d'un gran peix",
+        "Ser llançat a un foc ardent",
+        "Construint una gran arca abans d'un diluvi",
+        "Enfrontant-se a la bruixeria de la cort del faraó"
+      ],
+      "answer": "Parlant des del bressol de petit"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Injeel (Evangeli)",
+        "La Tawrah (Torà)",
+        "El Zabur (Salms)",
+        "El Suhuf (Rodelles d'Ibrahim)",
+        "Un bastó que va partir el mar"
+      ],
+      "answer": "L'Injeel (Evangeli)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Elevat als cels, tornarà abans del Dia del Judici",
+        "Va conduir els fills d'Israel fora d'Egipte",
+        "Es va convertir en un rei amb domini sobre djins, humans i ocells",
+        "Va sobreviure a una inundació massiva amb els fidels",
+        "Va construir la casa sagrada a la Meca"
+      ],
+      "answer": "Elevat als cels, tornarà abans del Dia del Judici"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

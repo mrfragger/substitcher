@@ -1,0 +1,61 @@
+{
+  "title": "Spanje pravičnih",
+  "intro": "V času, ko je bila vera nevarna in so si močni prizadevali zatreti prepričanje, je majhna skupina mladih duš sprejela odločitev, ki bo odmevala skozi stoletja. Bežali so pred vsem, kar so poznali, in poiskali zatočišče v skriti temi gore ter popolnoma zaupali Alahu. Kar se je zgodilo zatem, je postalo brezčasno znamenje za tiste, ki razmišljajo.",
+  "clues": [
+    "Bili smo skupina mladih, ki smo verjeli v našega Gospoda, in On nas je bolj vodil.",
+    "Stali smo pred svojim ljudstvom in izjavili, da ne bomo nikoli klicali nobenega božanstva razen Alaha.",
+    "Zatekli smo se v jamo in rekli: »Gospod naš, daj nam milost od Sebe in nas vodi na pravi poti.«",
+    "Spali smo veliko let, sonce pa se je nagibalo stran od naše jame in se nas ni dotaknilo.",
+    "Naš pes je ležal iztegnjen pri vhodu v jamo in nas stražil, kot da bi bil na straži.",
+    "Ko so nas zbudili, smo se spraševali, kako dolgo smo se že zadržali, in enega od nas so poslali s srebrniki, da kupi hrano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz jame",
+        "Ljudje iz jarka",
+        "Ljudje sobote",
+        "Ljudje slona",
+        "Spremljevalci gozda"
+      ],
+      "answer": "Ljudje iz jame"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zbežali so v jamo, da bi se izognili preganjanju zaradi svoje vere",
+        "Uničeno zaradi močnega vetra",
+        "Požrla ga je zemlja",
+        "Utopljen v morju",
+        "Zadet od nevihte kamenja"
+      ],
+      "answer": "Zbežali so v jamo, da bi se izognili preganjanju zaradi svoje vere"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Pes, ki varuje vhod v jamo",
+        "Velika barka",
+        "Palica, ki se je spremenila v kačo",
+        "Ptica hoopoe",
+        "Zlato tele"
+      ],
+      "answer": "Pes, ki varuje vhod v jamo"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "V jami so ostali 309 let, nato pa so jih vzdignili kot znamenje.",
+        "Spremenili so jih v opice",
+        "Uničila jih je poplava",
+        "Prisiljeni so bili prečkati morje",
+        "Dali so jim kraljestvo"
+      ],
+      "answer": "V jami so ostali 309 let, nato pa so jih vzdignili kot znamenje."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An ene pasiant",
+  "intro": "E-barzh annaloù ar brofeded e oa un ene hag a oa engravet e basianted e-barzh e gwiad e-unan. Dre an daeloù hag an amzer e talc'hjont start d'an esperañs, o vezañ ur skouer diamzeret a fiziañs er furnez doueel. Ha gallout a rit dizoloiñ kevrin ar skeudenn dic'hortoz-se ?",
+  "clues": [
+    "Ganet on bet en ur familh profeded, met ma amprouenn vrasañ a zeuas dre ar bugel a gare ar muiañ.",
+    "Resevet em eus ur c'hemenn gwarizi diwar un hunvre en doa rannet ma mab, ha spontet on bet evit e surentez.",
+    "Gwenn e voe ma daoulagad gant ar glac'har, met ne'm eus ket kollet ma feiz e trugarez Allah.",
+    "C'hwezh ma bugel kollet a zeuas betek ennon a-bell, ha gouzout a ran neuze e oa tost an emgav.",
+    "Ma familh a stouas en ur drugarekaat pa voe sevenet ar weledigezh kozh, ha pa voe adsavet ma gweled.",
+    "Me eo an hini a oa bet kinniget din ur roched gwad, hep resev diwezhatoc'h ur roched a yac'haas ma gweled."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Ibrahim",
+        "Ar profed Ishaq",
+        "Ar profed Yaqub",
+        "Ar profed Yusuf",
+        "Ar profed Ayyub"
+      ],
+      "answer": "Ar profed Yaqub"
+    },
+    "trial": {
+      "label": "Ar prosez pennañ",
+      "options": [
+        "Dispartiañ diouzh ur bugel karet ha koll ar gwel",
+        "Bezañ taolet en un tan flamm",
+        "Bezañ lonket gant ur pesk bras",
+        "Gouzañv koll madoù, bugale ha yec'hed",
+        "Beza trahizet gant he vreudeur ha taolet en eur puñs"
+      ],
+      "answer": "Dispartiañ diouzh ur bugel karet ha koll ar gwel"
+    },
+    "location": {
+      "label": "An ergorenn arouezel",
+      "options": [
+        "Ur roched a guzhe ar wirionez da gentañ hag a ziskulie anezhi",
+        "Ur vazh deuet da vezañ un naer",
+        "Ur balum he deus lonket ur profed",
+        "Un tan a zeuas da vezañ fresk",
+        "Ur c'houblad sandalennoù ouzh ar vodenn o teviñ"
+      ],
+      "answer": "Ur roched a guzhe ar wirionez da gentañ hag a ziskulie anezhi"
+    },
+    "outcome": {
+      "label": "An diviz doueel",
+      "options": [
+        "Adkavout un den karet kollet ha gweled en-dro",
+        "Dieubiñ diouzh ur vroad gwasket",
+        "Dieubidigezh eus kof ur pesk",
+        "Silvidigezh diouzh un tan flamm",
+        "Pignat war un tron ​​bras"
+      ],
+      "answer": "Adkavout un den karet kollet ha gweled en-dro"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

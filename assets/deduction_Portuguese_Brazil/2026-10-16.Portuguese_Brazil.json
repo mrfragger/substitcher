@@ -1,0 +1,61 @@
+{
+  "title": "A comunidade que desafiou o dia de descanso.",
+  "intro": "Adentre um povoado costeiro onde um mandamento divino reservou um dia para adoração e silêncio. Um grupo dessa comunidade decidiu testar os limites desse mandamento com um plano astuto, levando a uma transformação que reverberaria através dos tempos. Quem eram essas almas e o que aconteceu com elas?",
+  "clues": [
+    "Morávamos perto da costa, onde o mar nos proporcionava o sustento.",
+    "Fomos instruídos a honrar um dia da semana, reservando-o das atividades mundanas.",
+    "Naquele dia, os peixes vieram até nós em grande número, como se nos tentassem a desobedecer à ordem.",
+    "Elaboramos um plano para capturar os peixes na véspera do dia sagrado e, em seguida, recolhê-los depois que a data passasse.",
+    "Quando alguns de nós nos alertaram contra esse engano, ignoramos seus conselhos e persistimos.",
+    "Por nossa transgressão, fomos transformados em macacos, desprezados e rejeitados."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O povo do sábado",
+        "O Povo da Valeta",
+        "O Povo da Floresta",
+        "O Povo do Jardim",
+        "O Povo do Elefante"
+      ],
+      "answer": "O povo do sábado"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Pescar no sábado",
+        "Construindo uma torre imponente",
+        "Matar uma camela sagrada",
+        "Negando um profeta que lhes foi enviado.",
+        "Transgredindo em pesos comerciais"
+      ],
+      "answer": "Pescar no sábado"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O mar e seus peixes",
+        "O fogo que foi resfriado",
+        "O cajado que se transformou em serpente",
+        "A arca da salvação",
+        "As tábuas de pedra"
+      ],
+      "answer": "O mar e seus peixes"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Transformados em macacos",
+        "Engolido pela terra",
+        "Destruído por um vento feroz.",
+        "Afogado no mar",
+        "Atingido por uma chuva de pedras"
+      ],
+      "answer": "Transformados em macacos"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

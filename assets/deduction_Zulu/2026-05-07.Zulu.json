@@ -1,0 +1,61 @@
+{
+  "title": "Umshayeli Ovela Ekujuleni",
+  "intro": "Cabanga ngomphefumulo ophathiswe isigijimi saphezulu, kodwa lowo, ngokuphazima kweso, washiya abantu bakubo ngaphandle kwemvume ecacile. Lolu hambo lwabaholela ekulingweni okungavamile, isivivinyo esijulile sokubekezela nokuthembela koPhezukonke. Ungubani lo muntu ondaba yakhe isifundisa ngokuphenduka kanye nobukhulu besihe sika-Allah?",
+  "clues": [
+    "Ngathunyelwa esizweni esikhulu, kodwa ukwenqatshwa kwabo ekuqaleni kwangibangela ukucindezeleka.",
+    "Ngashiya abantu bakithi, ngikholelwa ukuthi umsebenzi wami usuphelile, ngaphambi kokuthola umyalo ocacile wokuthi ngihambe.",
+    "Ngafuna indawo yokugibela umkhumbi, kodwa isiphepho esinamandla kanye nokudweba inkatho kwaholela esimweni esibi.",
+    "Ngaphonswa olwandle, isidalwa esinamandla sasolwandle sangigwinya ngiphelele.",
+    "Ngaphakathi kobumnyama besisu sayo, ngamemeza ku-Allah, ngivuma ububi bami futhi ngicela intethelelo Yakhe.",
+    "U-Allah wayala isidalwa ukuba singiphonse ogwini, futhi ngabuyiselwa empilweni ngaphansi kwesitshalo esiyingqayizivele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uYusuf (uJosefa)",
+        "Umprofethi uNuh (uNowa)",
+        "Umprofethi uYunus (uJona)",
+        "Umprofethi uSulaiman (uSolomoni)",
+        "Umprofethi u-Ayyub (uJobe)"
+      ],
+      "answer": "Umprofethi uYunus (uJona)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlukana kolwandle",
+        "Umlilo kaNimrod",
+        "Ukugwinywa yinhlanzi enkulu",
+        "Isikhukhula",
+        "Ukubhujiswa komuzi ngamatshe"
+      ],
+      "answer": "Ukugwinywa yinhlanzi enkulu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "UMphongolo",
+        "Abasebenzi",
+        "Isisu senhlanzi",
+        "Umthombo",
+        "Isihlahla esivuthayo"
+      ],
+      "answer": "Isisu senhlanzi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waba umbusi omkhulu",
+        "Wakha iKaaba",
+        "Wabuyela ukuzohola isizwe esiphendukile",
+        "Wanikwa ukubusa phezu kwama-jinn",
+        "Bahola abantu ngaphesheya kogwadule"
+      ],
+      "answer": "Wabuyela ukuzohola isizwe esiphendukile"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

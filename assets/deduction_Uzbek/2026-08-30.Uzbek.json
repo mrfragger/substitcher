@@ -1,0 +1,61 @@
+{
+  "title": "Vahiyning ishonchli ruhi",
+  "intro": "Ko'rinmas olamlarda sof nurli mavjudot aniqlik bilan harakat qiladi, har bir buyruqni ikkilanmasdan bajaradi. Bu shaxs tanlangan xizmatkorlar bilan gaplashgan, yo'l-yo'riq so'zlarini keltirgan va asrlar davomida ilohiy farmonlarning ochilishiga guvoh bo'lgan. Bu sharafli ruh kim?",
+  "clues": [
+    "Men nurdan yaratilgan sof nurli mavjudotman va hech qachon Robbimning birorta ham amriga itoat qilmaganman.",
+    "Men osmonlar va yer orasida harakatlanaman, Rahmonning taqdiri bilan tushaman.",
+    "Meni muqaddas joyda olijanob bokira qizga yuborishdi, unga sof o'g'il tug'ilishini e'lon qilishdi.",
+    "Men muqaddaslik ruhiman va men aniq mo''jizalar va Injil berilgan payg'ambarni qo'llab-quvvatladim.",
+    "Men abadiy saqlanib qoladigan tilovatning birinchi so'zlarini aytish uchun tog'dagi g'orga keldim.",
+    "Men ishonchli ruhman va Qur'onni oxirgi elchining qalbiga tushirgan menman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Jibril (Jabroil)",
+        "Mikail (Maykl)",
+        "O'lim farishtasi",
+        "Malik (Do'zax qo'riqchisi)",
+        "Harut (Bobildagi ikki farishtadan biri)"
+      ],
+      "answer": "Jibril (Jabroil)"
+    },
+    "trial": {
+      "label": "Asosiy vazifa/rol",
+      "options": [
+        "Payg'ambarlarga vahiy yetkazish",
+        "Qiyomat kunida surnay chalish",
+        "Do'zax darvozalarini qo'riqlash",
+        "Insonlarning qilmishlarini qayd etish",
+        "Yomg'ir yog'ishiga sabab bo'lmoqda"
+      ],
+      "answer": "Payg'ambarlarga vahiy yetkazish"
+    },
+    "location": {
+      "label": "Kalit atribut yoki sarlavha",
+      "options": [
+        "Muqaddas Ruh (Ruh al-Qudus)",
+        "Quvvat Ruhi",
+        "Rahm-shafqat ruhi",
+        "Yo'l-yo'riq ruhi",
+        "Haqiqat Ruhi"
+      ],
+      "answer": "Muqaddas Ruh (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Missiya natijasi",
+      "options": [
+        "Qur'on Muhammad payg'ambarga nozil qilingan",
+        "Qiyomat kuni surnay chalindi",
+        "Do'zax qo'riqlanardi va uning darvozalari yopiq edi",
+        "Amallar kitobi Allohga taqdim etildi",
+        "Yomg'ir yerga yog'dirildi"
+      ],
+      "answer": "Qur'on Muhammad payg'ambarga nozil qilingan"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

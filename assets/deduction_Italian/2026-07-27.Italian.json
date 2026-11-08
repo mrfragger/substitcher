@@ -1,0 +1,61 @@
+{
+  "title": "L'offerta che alterò il destino",
+  "intro": "Agli albori dell'umanità, un'anima offrì un dono con pure intenzioni. Eppure, l'invidia si celava nell'ombra dell'accettazione. Scopri la storia di questa figura la cui pietà e la cui tragica fine sono immortalate nella rivelazione divina.",
+  "clues": [
+    "Io facevo parte delle primissime generazioni dell'umanità.",
+    "Ho presentato un'offerta al mio Signore, ed essa è stata accolta con favore.",
+    "L'offerta di mio fratello fu respinta e l'invidia gli oscurò il cuore.",
+    "Gli dissi: \"Se tu stendi la mano verso di me per uccidermi, io non la tenderò per ucciderti; in verità, io temo Allah, Signore dei mondi\".",
+    "Sono diventato la vittima del primo omicidio sulla Terra.",
+    "Il mio sangue gridò, e io fui il primo martire dell'innocenza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Caino)",
+        "L'uomo di Ya-Sin",
+        "I Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La sua offerta fu accettata, provocando l'invidia del fratello e il suo assassinio.",
+        "Fu gettato in una fornace ardente, ma ne uscì illeso.",
+        "Costruì un'enorme nave sotto la guida divina",
+        "Fu inghiottito da un grosso pesce e rimase nell'oscurità",
+        "Condusse il suo popolo attraverso un mare aperto"
+      ],
+      "answer": "La sua offerta fu accettata, provocando l'invidia del fratello e il suo assassinio."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un'offerta accettata",
+        "Un bastone che si trasforma in un serpente",
+        "Una cammella come segno divino",
+        "Un'upupa che porta notizie",
+        "Un vitello d'oro adorato"
+      ],
+      "answer": "Un'offerta accettata"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il primo omicidio della storia; suo fratello fu condannato",
+        "Inghiottito dalla terra insieme alle sue ricchezze",
+        "Trasformati in scimmie a causa di una trasgressione",
+        "Distrutto da un vento gelido e impetuoso",
+        "Annegato in una grande alluvione come punizione"
+      ],
+      "answer": "Il primo omicidio della storia; suo fratello fu condannato"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

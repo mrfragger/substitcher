@@ -1,0 +1,61 @@
+{
+  "title": "Glas prikrivene osude",
+  "intro": "U srcu tiranskog dvora, gdje je nevjerovanje bilo zakon zemlje, usamljena duša hodala je po žici vjere i straha. Ova osoba, blizu centra moći, slušala je kako se prorokova poruka susreće s prezirom i prijetnjama. Stigao je trenutak istine, prisiljavajući ovu osobu da bira između tihe sigurnosti i izgovaranja opasne istine. Možete li otkriti identitet ovog hrabrog zagovornika?",
+  "clues": [
+    "Živio sam u samom kućanstvu tiranina, svjedočeći iz prve ruke aroganciji koja je odbacivala božanske znakove.",
+    "Svoju sam vjeru čuvao u tajnosti, kao skriveno blago u palači idolopoklonstva.",
+    "Čuo sam vođu kojem sam služio kako planira ubiti Allahovog poslanika, čovjeka po imenu Musa.",
+    "Doveo sam u pitanje njihovu logiku, podsjećajući ih na sudbinu naroda Nuha, Ada i Semuda.",
+    "Postavio sam ključno pitanje svom narodu: 'Ako je lažljivac, njegova laž je na njemu; ali ako je istinit, neka od njegovih obećanja će vas pogoditi.'",
+    "Moja priča je ispričana kao primjer vjere u suri pod nazivom 'Onaj koji oprašta', gdje sam upozorio svoj narod na spletke moćnika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Vjernik iz Faraonove obitelji",
+        "Haman",
+        "Faraonovi čarobnjaci",
+        "Karun",
+        "Samiri"
+      ],
+      "answer": "Vjernik iz Faraonove obitelji"
+    },
+    "trial": {
+      "label": "Kakvo je bilo moje iskušenje?",
+      "options": [
+        "Braneći proroka Musu na dvoru tiranina",
+        "Gradeći uzvišeni toranj da dosegne nebesa",
+        "Biti bačen u plamteću vatru",
+        "Biti progutan od strane divovske ribe",
+        "Gubitak sveg bogatstva i zdravlja"
+      ],
+      "answer": "Braneći proroka Musu na dvoru tiranina"
+    },
+    "location": {
+      "label": "Koja je bila tema moje rasprave?",
+      "options": [
+        "Posljedice odbacivanja prorokove poruke",
+        "Zahtjev za znakom sa svetog drveta",
+        "Stvaranje teleta od rastopljenog nakita",
+        "Čudo deve iz stijene",
+        "Tumačenje vladarovih snova"
+      ],
+      "answer": "Posljedice odbacivanja prorokove poruke"
+    },
+    "outcome": {
+      "label": "Kakav je bio ishod?",
+      "options": [
+        "Allah je spasio ovu osobu od njihove zle spletke",
+        "Cijeli dvor je odmah prihvatio islam",
+        "Tiranin se pokajao u trenutku utapanja",
+        "Tiranina je progutala zemlja",
+        "Pojedinac je bio prognan u daleku zemlju"
+      ],
+      "answer": "Allah je spasio ovu osobu od njihove zle spletke"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

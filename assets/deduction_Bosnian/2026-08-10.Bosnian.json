@@ -1,0 +1,61 @@
+{
+  "title": "Čuvari tajne žetve",
+  "intro": "U zelenom kraju, grupa pojedinaca je pod okriljem tame skovala tajni plan. Dijelili su zajednički cilj, ali njihova namjera je bila daleko od pravedne. Nisu ni slutili da ih dok spavaju čeka božanski preokret.",
+  "clues": [
+    "Donijeli smo čvrstu odluku, misleći da je naš plan besprijekoran.",
+    "Namjeravali smo izaći rano, prije nego što se drugi uopće mogu pomaknuti.",
+    "Naselili smo plodno zemljište, sigurni u svoje zalihe.",
+    "Kada smo stigli na odredište, zatekli smo ga pusto i neplodno, pa smo pomislili da smo se izgubili.",
+    "Tada smo shvatili da je to zaista naše mjesto i plakali smo u očaju, krivili jedni druge za naš gubitak.",
+    "Tog jutra smo se zakleli da ćemo siromašne isključiti iz naše žetve, ali Allahova kazna nas je stigla dok smo spavali, pretvorivši našu baštu u ruševinu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko smo mi?",
+      "options": [
+        "Vlasnici vrta u suri 68",
+        "Narod Sabe",
+        "Pratitelji pećine",
+        "Narod slona",
+        "Ljudi iz rova"
+      ],
+      "answer": "Vlasnici vrta u suri 68"
+    },
+    "trial": {
+      "label": "Naše suđenje",
+      "options": [
+        "Naš vrt je uništen nepogodom s neba",
+        "Našu baštu je poplavila",
+        "Naš vrt je izgorio u požaru od neprijatelja",
+        "Naš vrt je bio pun skakavaca",
+        "Naš vrt je progutao zemljotres"
+      ],
+      "answer": "Naš vrt je uništen nepogodom s neba"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zakleli smo se da ćemo ujutro brati njegove plodove",
+        "Izgradili smo branu za navodnjavanje našeg vrta",
+        "Potražili smo utočište u pećini radi zaštite",
+        "Pripremili smo vojsku da osvojimo kraljevstvo",
+        "Plovili smo brodom da pređemo more"
+      ],
+      "answer": "Zakleli smo se da ćemo ujutro brati njegove plodove"
+    },
+    "outcome": {
+      "label": "Naša sudbina",
+      "options": [
+        "Pokajali smo se i nadali se milosti od Allaha",
+        "Bili smo potpuno uništeni i nikada se nismo pokajali",
+        "Pobjegli smo iz zemlje i nikada se nismo vratili",
+        "Postali smo ponovo moćni i bogati",
+        "Kažnjeni smo tako što smo pretvoreni u majmune"
+      ],
+      "answer": "Pokajali smo se i nadali se milosti od Allaha"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

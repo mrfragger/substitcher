@@ -1,0 +1,61 @@
+{
+  "title": "Gedintųjų budėjimas",
+  "intro": "Netrukus susidursite su siela, išbandyta giliausio išsiskyrimo, kurios akys mokėjo ašarų kalbą, tačiau širdis niekada neprarado vilties. Apgaulės, ilgesio ir galiausiai susijungimo istorijoje šis kilnus Alacho tarnas tapo visų laikų kantrybės simboliu. Kas ištvėrė paslėpto skausmo metus, kad tik akimirksniu sugrąžintų regėjimą ir džiaugsmą?",
+  "clues": [
+    "Esu pranašas, kurio vardas tapo kantrybės simboliu susidūrus su didele netektimi.",
+    "Buvau palaimintas daugybe sūnų, bet vieną iš manęs atėmė kitų pavydas.",
+    "Mano meilė tam pražuvusiajam buvo tokia stipri, kad mano akys pabalo iš sielvarto, tačiau aš niekada nesiskundžiau, išskyrus Alachą.",
+    "Pasiunčiau sūnus ieškoti to, kurį buvau pametęs, ir jo brolio, ragindamas juos neprarasti vilties.",
+    "Kai atvyko gerosios žinios nešėjas, man ant veido buvo užmesti marškiniai, ir pasaulis staiga vėl tapo aiškus.",
+    "Aš esu žinomas kaip Izraelis, o iš mano dvylikos sūnų kilo dvylika didelės tautos genčių."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Jakubas (Jokūbas)",
+        "Pranašas Jusufas (Juozapas)",
+        "Pranašas Ishaqas (Izaokas)",
+        "Pranašas Ibrahimas (Abraomas)",
+        "Pranašas Ayyubas (Jobas)"
+      ],
+      "answer": "Pranašas Jakubas (Jokūbas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Ilgus metus skyrium nuo mylimo sūnaus",
+        "Įmestas į liepsnojančią ugnį",
+        "Prarijo didelė žuvis",
+        "Serga sunkia odos liga",
+        "Būti bevaikiu iki senatvės"
+      ],
+      "answer": "Ilgus metus skyrium nuo mylimo sūnaus"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Jusufo marškiniai",
+        "Musos personalas",
+        "Nuho arka",
+        "Saliha kupranugarė",
+        "Sulaymano žiedas."
+      ],
+      "answer": "Jusufo marškiniai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Regėjimas atkurtas ir vėl susitiko su sūnumi",
+        "Suteikta pergalė prieš tironą karalių",
+        "Gyvas pakeltas į dangų",
+        "Paskirtas Egipto valdovu",
+        "Stebuklu padovanotas sūnus senatvėje"
+      ],
+      "answer": "Regėjimas atkurtas ir vėl susitiko su sūnumi"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

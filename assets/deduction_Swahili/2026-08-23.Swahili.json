@@ -1,0 +1,61 @@
+{
+  "title": "Umati Uliotoweka",
+  "intro": "Unasimama mbele ya mwangwi wa jamii ambayo hadithi yake imeandikwa kwenye mawimbi. Nafsi hizi zilisikia wito, zikachagua uasi, na zikakabiliwa na matokeo yaliyobadilisha umbo la dunia. Wao ni akina nani, na nini kilitokea kwa ulimwengu wao?",
+  "clues": [
+    "Tuliishi zamani sana, na mjumbe akatujia kutoka miongoni mwetu.",
+    "Tuliabudu sanamu tano na tukakataa kuziacha.",
+    "Tulimdhihaki mjumbe na kumtuhumu kwa kupotea.",
+    "Tulidai alete adhabu ikiwa alikuwa mkweli.",
+    "Tuliona mbingu zikimwagika mvua na ardhi ikibubujika chemchemi.",
+    "Tulipanda hadi sehemu za juu ili kutoroka, lakini mawimbi yalitupita."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Watu wa Nuh",
+        "Watu wa 'Ad",
+        "Watu wa Thamud",
+        "Watu wa Lut",
+        "Watu wa Madyan"
+      ],
+      "answer": "Watu wa Nuh"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Tulizama katika mafuriko makubwa",
+        "Tuliharibiwa na kimbunga",
+        "Tuliuawa na mlipuko mkubwa",
+        "Tulimezwa na ardhi",
+        "Tulipigwa mawe kutoka angani"
+      ],
+      "answer": "Tulizama katika mafuriko makubwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mafuriko makubwa",
+        "Upepo mkali",
+        "Mvua ya mawe",
+        "Mlipuko wa moto",
+        "Tetemeko la ardhi"
+      ],
+      "answer": "Mafuriko makubwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Sote tuliangamia isipokuwa waumini pamoja na Nuh",
+        "Tulibadilishwa kuwa nyani",
+        "Tuliachwa kama magofu kwa wasafiri",
+        "Tuligeuzwa kuwa chumvi",
+        "Tulipewa mapumziko"
+      ],
+      "answer": "Sote tuliangamia isipokuwa waumini pamoja na Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

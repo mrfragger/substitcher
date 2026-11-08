@@ -1,0 +1,61 @@
+{
+  "title": "Baat bi ci suuf yu yàgg yi",
+  "intro": "Ci ndawi Yàlla yu njëkk ya, amoon na kenn ku turam feeñ ci Al Quran ci lu gàtt waaye am lu muy tekki. Nit kooku mingi dundu bu yàgg balaa ñuy yónnee yonent yu mag yu bari, ñu xamee ko ci dëggu ak muñ gu mat sëkk. Seen jaar-jaar gàtt na waaye seen erf du yàgg ba fàww. Kan mooy ruuh bu baax bii?",
+  "clues": [
+    "Man maay kenn ci ndaw yi njëkka am, ñu wax ci Al Quran ci lu gàtt waaye ci anam wu am solo.",
+    "Li gënoon fës ci sama jikko mooy gëm dëgg te baña xàddi.",
+    "Maa ngi fàttaliku ci téeré Yàlla ci ña doon takku tey muñ.",
+    "Ay aaya yu gàtt yu néew ci Al Quran ñoo nettali sama jaar-jaar.",
+    "Allah daf ma sargal ci anam wu amul benn yoon buma bokkul ak yeneen yonent yi.",
+    "Dañu ma yar ci rang bu kawe, muy xeetu ngor bu amul fenn ci Al Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Seydina Idris",
+        "Ilyas",
+        "Dul-Kifl",
+        "Yalla Alyasa",
+        "Asif ben barkhiya"
+      ],
+      "answer": "Seydina Idris"
+    },
+    "trial": {
+      "label": "Moment buy màndargaal",
+      "options": [
+        "Yallah ma yékkati ci barab bu kawe",
+        "Dama tabax gaal gu mag ngir muccal sama askan",
+        "Ma laaj luxuskat yu Firawna",
+        "Samay rak ñoo ma sànni ci benn pax",
+        "Dama ñàkk samay bët ndax naqar sama doom"
+      ],
+      "answer": "Yallah ma yékkati ci barab bu kawe"
+    },
+    "location": {
+      "label": "Royuwaay bu sell",
+      "options": [
+        "Sourate al anbiya",
+        "Souratu Kahf",
+        "Sauraat Taha",
+        "Sourate Ash-Suhara",
+        "Sour Yasin"
+      ],
+      "answer": "Sourate al anbiya"
+    },
+    "outcome": {
+      "label": "ngor Yàlla",
+      "options": [
+        "Gaaraas bu kawe bu wuute ak yeneen yi",
+        "Nguuru jinne yi ak ngelaw yi",
+        "Royaume bu amul fenn",
+        "Sama ndono ci sama màgget",
+        "Kóllóre guñu tënk ak Yàlla"
+      ],
+      "answer": "Gaaraas bu kawe bu wuute ak yeneen yi"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

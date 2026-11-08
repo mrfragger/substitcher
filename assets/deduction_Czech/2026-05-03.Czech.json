@@ -1,0 +1,61 @@
+{
+  "title": "Spící hledači pravdy",
+  "intro": "Představte si dobu, kdy byla víra zpochybněna a skupina duší si dala přednost neochvějnému přesvědčení před světským pohodlím. Tváří v tvář skličující volbě hledali útočiště a vydali se na cestu, která vedla k mimořádnému spánku. Jejich příběh je důkazem božské ochrany a síly víry proti útlaku. Dokážete rozpoznat identitu těchto pozoruhodných jedinců?",
+  "clues": [
+    "Byli jsme malé shromáždění, sjednocené hlubokou vírou v Jediného Stvořitele.",
+    "Žili jsme v době, kdy mocný vládce požadoval uctívání i někoho jiného než Alláha.",
+    "Abychom si zachovali víru, rozhodli jsme se opustit své domovy a uprchnout před útlakem.",
+    "Na naší cestě nás doprovázel věrný společník, tvor země.",
+    "Našli jsme útočiště na odlehlém místě, kde nám Alláh způsobil hluboký a dlouhý spánek.",
+    "Když jsme se probudili, mysleli jsme si, že uplynul jen den nebo část dne, ale ve skutečnosti uplynula staletí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z příkopu",
+        "Lidé z Thamudu",
+        "Lidé ze Saby",
+        "Lidé z jeskyně",
+        "Lidé z Madyanu"
+      ],
+      "answer": "Lidé z jeskyně"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být zkoušen neúrodnou zemí",
+        "Tváří v tvář velké povodni",
+        "Hledání útočiště před tyranským vládcem",
+        "Být uvržen do hořícího ohně",
+        "Zpochybnění magie čaroděje"
+      ],
+      "answer": "Hledání útočiště před tyranským vládcem"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Velkolepý palác",
+        "Loď/archa",
+        "Hluboká studna",
+        "Jeskyně",
+        "Tyčící se hora"
+      ],
+      "answer": "Jeskyně"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Udělení království",
+        "Zázračný spánek po staletí",
+        "Být pohlcen zemí",
+        "Zachráněn před ničivou bouří",
+        "Být opatřen nebeským stolem"
+      ],
+      "answer": "Zázračný spánek po staletí"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

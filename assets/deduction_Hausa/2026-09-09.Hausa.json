@@ -1,0 +1,61 @@
+{
+  "title": "Rai na Farko da Ya Tsaya",
+  "intro": "Tun kafin wani manzo ya yi tafiya a duniya, kafin a bayyana wani littafi, wani abu da ba kamar wani ba ya wanzuwa. An siffanta wannan rai da hannun Allah, an ba shi wuri mai kyau mara misaltuwa, kuma an gwada shi ta hanyar da zai yi ta maimaitawa a duk tarihin ɗan adam. Abin da ya biyo baya shi ne labarin rauni, tuba ta gaskiya, da kuma ƙaddara wadda za ta canza hanyar halitta har abada. Za ku iya tsammanin wanene wannan?",
+  "clues": [
+    "An siffanta ni da hannun Mai rahama daga ƙurar ƙasa.",
+    "An ba ni gida mai kyau mara misaltuwa, inda babu yunwa ko gajiya da za ta taɓa ni",
+    "An umarce ni da kada in taɓa kusantar itace ɗaya, domin an haramta shi.",
+    "Ni da abokina mun yaudare mu muka kusanci bishiyar da aka haramta, ba tare da umarnin Ubangijinmu ba.",
+    "Mun koma ga Ubangijinmu da tuba ta gaskiya, kuma an gafarta mana laifinmu",
+    "Daga gare mu ne dukkan bil'adama suka fito; Ni ne farkon wanda ya yi tafiya a wannan duniya"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Adamu",
+        "Annabi Musa",
+        "Annabi Nuhu",
+        "Annabi Yusufu",
+        "Annabi Isa"
+      ],
+      "answer": "Annabi Adamu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Jaraba ta wurin itacen da aka haramta",
+        "Muhawara da Fir'auna",
+        "Gina babban jirgin ruwa",
+        "Hadayar ɗan da aka ƙaunace shi",
+        "Ana jefa shi cikin babbar wuta"
+      ],
+      "answer": "Jaraba ta wurin itacen da aka haramta"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Itacen da aka Haramta",
+        "Dajin da ke Konewa",
+        "Ma'aikatan Zinare",
+        "Babban Jirgin Ruwa",
+        "Ɗan Maraƙin Zinare"
+      ],
+      "answer": "Itacen da aka Haramta"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An saukar da shi duniya a matsayin mai kula da ɗan adam na farko",
+        "Fir'auna da rundunarsa sun nutse a cikin teku",
+        "Babban ambaliyar ruwa ta halaka miyagu",
+        "Wutar ta yi sanyi kuma ta yi natsuwa",
+        "An ba shi iko a kan masarautar Masar"
+      ],
+      "answer": "An saukar da shi duniya a matsayin mai kula da ɗan adam na farko"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

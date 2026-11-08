@@ -1,0 +1,61 @@
+{
+  "title": "A voz da zarza ardente",
+  "intro": "Desvela a identidade dunha figura profunda cuxa viaxe comezou cun encontro milagroso e cuxo destino estivo entrelazado coa liberación dun pobo oprimido. Este individuo foi escollido para unha tarefa monumental, enfrontándose a inmensos desafíos co apoio divino.",
+  "clues": [
+    "Nacín nunha época de gran opresión, onde os nenos do meu pobo eran asasinados.",
+    "A miña infancia consistiu en ser botada nun río polos meus pais, pero fun atopada e criada no mesmo fogar do opresor do meu pobo.",
+    "Unha vez fuxin dunha cidade despois de causar a morte involuntariamente dunha persoa durante unha disputa.",
+    "Recibín unha mensaxe divina e un bastón milagroso nun lugar sagrado, onde me ordenaron enfrontarme a un poderoso gobernante.",
+    "O meu irmán foi nomeado meu axudante na miña misión, debido a un impedimento percibido na miña fala.",
+    "Liderei o meu pobo a través dun mar dividido, escapando da persecución dun exército tiránico."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Yusuf",
+        "Profeta Isa",
+        "Profeta Moisés",
+        "Profeta Nuh",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Moisés"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Anos de seca duradeiras",
+        "Construíndo a Arca",
+        "Enfrontándose ao faraón e aos seus magos",
+        "Ser lanzado a un forno ardente",
+        "A destrución do pobo de Thamud"
+      ],
+      "answer": "Enfrontándose ao faraón e aos seus magos"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Kaaba",
+        "O Muro de Ferro",
+        "O persoal",
+        "O barco de Nuh",
+        "O Anel de Sulaimán"
+      ],
+      "answer": "O persoal"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A cidade de Sodoma foi derrubada",
+        "A xente foi tragada pola terra",
+        "A gran inundación asolagou a terra",
+        "Faraón e o seu exército afogáronse",
+        "As murallas da cidade derrubáronse por un berro"
+      ],
+      "answer": "Faraón e o seu exército afogáronse"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

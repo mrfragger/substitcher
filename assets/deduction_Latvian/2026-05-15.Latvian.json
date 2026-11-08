@@ -1,0 +1,61 @@
+{
+  "title": "Dievišķās zīmes glabātājs",
+  "intro": "Dziļi svētā svētnīcā dievišķā aprūpē tika lolota svētīta dvēsele. Šim cilvēkam bija lemts spēlēt izšķirošu lomu brīnumainā notikumā, kļūstot par Allāha bezgalīgās varas un gudrības apliecinājumu. Viņu ceļojums atklāja dziļu patiesību, izaicinot uztveri un radot unikālu zīmi visai cilvēcei.",
+  "clues": [
+    "Allāhs mani izvēlējās un šķīstīja vairāk nekā visas mana laika sievietes.",
+    "Mani nodeva taisnīga pravieša aizbildnībā, kurš brīnumainā kārtā atrada iztiku manā lūgšanu kambarī.",
+    "Es norobežojos no savas ģimenes privātā vietā, lai pielūgtu Allāhu.",
+    "Eņģelis man parādījās pilnīga cilvēka izskatā, nesot vēsti par šķīstu dēlu, lai gan es nepazinu nevienu vīrieti.",
+    "Pēc dzemdību mokām man lika pakratīt palmas stumbru, lai atrastu svaigu barību.",
+    "Kad es atgriezos pie saviem ļaudīm, nesot savu jaundzimušo, viņi mani iztaujāja, bet mans zīdainis brīnumainā kārtā jau no šūpuļa runāja mani aizstāvot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Sāra (pravieša Ibrahima sieva)",
+        "Hadžara (pravieša Ismaila māte)",
+        "Bilkise (Šebas karaliene)",
+        "Asija (faraona sieva)",
+        "Marija (Marija)"
+      ],
+      "answer": "Marija (Marija)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lieli plūdi, kas iznīcināja neticīgu tautu",
+        "Iemests liesmojošā ugunī par elku noliegšanu",
+        "Brīnumainā bērna piedzimšana bez tēva",
+        "Tikt norītam vaļam par misijas pamešanu",
+        "Pilsētas iznīcināšana amorālu darbību dēļ"
+      ],
+      "answer": "Brīnumainā bērna piedzimšana bez tēva"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš",
+        "Derības šķirsts",
+        "Svētā lūgšanu telpa (Mihrabs)",
+        "Runājošs putns (Hudhuds)",
+        "Personāla, kas pārvērtās par čūsku"
+      ],
+      "answer": "Svētā lūgšanu telpa (Mihrabs)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Lieliska tempļa celtniecība",
+        "Jūras sadalīšana, lai tauta to šķērsotu",
+        "Bērns, kurš jau no šūpuļa aizstāvēja savus vecākus",
+        "Dievišķas grāmatas atklāsme cilvēces vadīšanai",
+        "Valstība, svētīta ar vēju un džinu"
+      ],
+      "answer": "Bērns, kurš jau no šūpuļa aizstāvēja savus vecākus"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

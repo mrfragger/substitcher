@@ -1,0 +1,61 @@
+{
+  "title": "Przeszkoda w starożytnym domu",
+  "intro": "W świętym mieście potężna postać kipiała gniewem, gdy nowe przesłanie zaczęło się rozprzestrzeniać. Ten człowiek, którego imię stało się synonimem sprzeciwu wobec prawdy, obserwował, jak jego wpływy kruszą się pod ciężarem boskiego objawienia. Kim była ta dusza, której los został przypieczętowany piaskami słynnego pola bitwy?",
+  "clues": [
+    "Byłem wodzem swego ludu, znanym ze swego bogactwa i wpływów w mieście, w którym znajdowało się starożytne sanktuarium.",
+    "Kiedy pewien człowiek z mojego plemienia zaczął głosić przesłanie o jednym Bogu, wyśmiałem go i jego objawienia, nazywając je zwykłymi opowieściami z przeszłości.",
+    "Zatrzymałem tego mężczyznę, gdy modlił się w pobliżu świętej budowli, grożąc, że jeśli zajdzie taka potrzeba, siłą przerwiemy jego nabożeństwo.",
+    "Należałem do przywódców, którzy spiskowali, aby uciszyć nową wiarę, sprzeciwiając się jej wyznawcom zarówno słowem, jak i bronią.",
+    "Wyruszyłem z armią do miejsca zwanego Badr, pewien, że zmiażdżymy małą grupę wierzących.",
+    "Ale na polu bitwy moje życie dobiegło końca, a moja śmierć stała się lekcją dla tych, którzy uparcie trwają w niedowierzaniu pomimo wyraźnych znaków."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Abu Dżahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umajja ibn Chalaf",
+        "Utba ibn Rabi'ah"
+      ],
+      "answer": "Abu Dżahl"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Zabranianie Prorokowi modlitwy w Kaabie",
+        "Budowa Kaaby",
+        "Pisanie Koranu",
+        "Prowadzenie armii słoni",
+        "Rozdzielenie księżyca"
+      ],
+      "answer": "Zabranianie Prorokowi modlitwy w Kaabie"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Kaaba",
+        "Arka Proroka Noego",
+        "Laska Proroka Musy",
+        "Złoty cielec",
+        "Tron Królowej Saby"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zabity w bitwie pod Badr",
+        "Nawróciłem się i zostałem muzułmaninem",
+        "Uciekł do Abisynii",
+        "Zmarł w Roku Słonia",
+        "Został towarzyszem Proroka"
+      ],
+      "answer": "Zabity w bitwie pod Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

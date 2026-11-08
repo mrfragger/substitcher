@@ -1,0 +1,61 @@
+{
+  "title": "Trpezlivá duša posvätného domu",
+  "intro": "Na stránkach Koránu sa vynára postava z rodu veľkého proroka, udeleného ako dar v starobe. Táto duša je oslavovaná pre svoju neochvejnú pravdovravnosť a hlbokú úlohu pri budovaní svätyne, ktorá sa stala majákom viery. Pri čítaní indícií pozorne počúvajte hlas z minulosti, pretože hovorí v prvej osobe.",
+  "clues": [
+    "V Koráne som spomenutý spolu s iným prorokom ako dar udelený staršiemu poslovi.",
+    "Bol som jedným z dvoch potomkov, ktorí boli tomuto prorokovi darovaní v jeho neskorších rokoch.",
+    "V Koráne som chválený za to, že som verný svojmu slovu.",
+    "Niesol som česť prorokovania a bol som vyslaný ako posol.",
+    "Pridal som sa k otcovi pri budovaní základov Svätého domu.",
+    "Pamätajú si ma ako jedného z trpezlivých a posvätný dom, ktorý sme postavili, sa stal pre ľudí miestom návratu a bezpečia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Ismail",
+        "Prorok Izák",
+        "Prorok Jakub",
+        "Prorok Zakariya",
+        "Prorok Jahja"
+      ],
+      "answer": "Prorok Ismail"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Položenie základov Kaaby s Ibrahimom",
+        "Byť hodený do ohňa",
+        "Byť prehltnutý veľrybou",
+        "Vyvedenie Izraelitov z Egypta",
+        "Stavba archy"
+      ],
+      "answer": "Položenie základov Kaaby s Ibrahimom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Kaaba",
+        "Hora Sinaj",
+        "Červené more",
+        "Zlaté teľa",
+        "Rajská záhrada"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Započítaný medzi pacientov",
+        "Počítaný medzi páchateľov hriešnikov",
+        "Počítaný medzi kúzelníkov",
+        "Počítaný medzi neveriacich",
+        "Počítaný medzi pokrytcov"
+      ],
+      "answer": "Započítaný medzi pacientov"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

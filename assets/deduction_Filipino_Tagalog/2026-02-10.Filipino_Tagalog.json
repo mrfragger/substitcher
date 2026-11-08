@@ -1,0 +1,60 @@
+{
+  "title": "Ang Pagtulog ng mga Panahon",
+  "intro": "Malapit ka nang magsimula ng isang paglalakbay sa panahon, na makakaharap ang isang malalim na misteryo ng pananampalataya at banal na kapangyarihan. Isipin ang isang grupo ng mga indibidwal na sumuway sa mga pamantayan ng kanilang lipunan, na kumakapit sa monoteismo sa isang mundo ng politeismo. Ang kanilang kwento ay isang patunay sa kakayahan ni Allah na protektahan ang Kanyang mga matuwid na lingkod sa mga pinaka-pambihirang paraan. Matutukoy mo ba ang pagkakakilanlan ng mga kahanga-hangang pigurang ito?",
+  "clues": [
+    "Kami ay isang maliit na grupo ng mga kabataang lalaki na naniniwala sa iisang Diyos, sa kabila ng laganap na politeismo ng aming mga kababayan.",
+    "Tumakas kami mula sa isang malupit na pinuno na nagbanta sa amin dahil sa aming pananampalataya, dahil sa takot sa pag-uusig at kamatayan.",
+    "Naghanap kami ng kanlungan sa isang liblib na lugar, umaasa sa awa at proteksyon ni Allah mula sa aming mga mapang-api.",
+    "Pinahimbing tayo ng ating Panginoon, isang mahimalang pagkakatulog na sumasalungat sa paglipas ng panahon.",
+    "Nang magising kami, inakala naming isang araw o bahagi lang ng isang araw ang aming napahinga, hindi namamalayan ang napakahabang panahong tunay na lumipas.",
+    "Binanggit sa Quran na tayo ay nanatili sa ating kalagayan sa loob ng tatlong daang taon, at lumampas ng siyam na taon, na naging isang tanda para sa sangkatauhan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang mga Tao ng Ditch",
+        "Ang mga Tao ng Thamud",
+        "Ang mga Tao ng Kweba",
+        "Ang mga Tao ng Madyan",
+        "Ang mga Kasama ng Elepante"
+      ],
+      "answer": "Ang mga Tao ng Kweba"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagharap sa isang malaking baha",
+        "Nilalamon ng lupa",
+        "Ang mahaba at mahimalang pagtulog",
+        "Ang pagkawasak ng kanilang lungsod",
+        "Ang paghahati ng dagat"
+      ],
+      "answer": "Ang mahaba at mahimalang pagtulog"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang nasusunog na palumpong",
+        "Isang bundok",
+        "Isang bangka",
+        "Isang kuweba",
+        "Isang balon"
+      ],
+      "answer": "Isang kuweba"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Binigyan sila ng napakalaking kayamanan at kapangyarihan",
+        "Sila ay naging mga unggoy at baboy",
+        "Sila ay binuhay mula sa pagkakatulog bilang isang malalim na tanda",
+        "Nalunod sila sa isang malaking baha",
+        "Nagtayo sila ng isang kahanga-hangang kaharian"
+      ],
+      "answer": "Sila ay binuhay mula sa pagkakatulog bilang isang malalim na tanda"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

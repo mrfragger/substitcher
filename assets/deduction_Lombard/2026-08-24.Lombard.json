@@ -1,0 +1,61 @@
+{
+  "title": "I ascoltadur ascüs che credevan",
+  "intro": "In de la quiete de una riuniun sacra, ün assemblea straordinaria l’è ruvada da ün regn invisibil. Attirà di susurr de quaicos de meraviglius, ascultavan la recitaziun che g’havaria segnalà el luur destin per semper. La luur testimunianza resta una di püsee ünich in de la scritüra divina.",
+  "clues": [
+    "Sem di vesser de un regn invisibil de la magiur part, e sem rivà cuma grupp.",
+    "Viagiàm vers una riuniun per ascultà quaicos de straordinari.",
+    "Quand sem rivà, g’hem ascultà una recitaziun che g’ha lassà stupì.",
+    "G’hem recognossü apert che quaivun intra de nun l’è giüst e quaivun minga.",
+    "Num savem che pudevim minga scapà dal decret divin sü la terra, né cunt el sgol in del ciel.",
+    "Quand che g’hem sentiu la guida, g’hem credü; chi cred in del sò Signur g’ha minga pagüra de perdita o de peso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Un grupp de Jinn",
+        "El popul de Iram",
+        "El popul de Tubba'",
+        "L'Imper Roman",
+        "La tribù di Quraysh"
+      ],
+      "answer": "Un grupp de Jinn"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Ascoltar una recitazion sacra",
+        "Costruir di pilaster volt in de la noster cità",
+        "Cacia a una magnifica camel",
+        "Vèss distrutt per avegh copà i noster prufet",
+        "Moltiplicà la richeza olter la misura"
+      ],
+      "answer": "Ascoltar una recitazion sacra"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una riuniun de recitaziun sacra",
+        "Una cità de pilaster volt (Iram)",
+        "Un pozz in del desert",
+        "Un grand palazz d'or",
+        "Una caverna sacra in di muntagn"
+      ],
+      "answer": "Una riuniun de recitaziun sacra"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "G’hem credü e g’hem avvertì la noster gent",
+        "Distrut da una fort esplusiun del ciel",
+        "Punid da un vent brusant e distrutif",
+        "Concedü immens richeza e podè",
+        "Resta ferm in incredulità"
+      ],
+      "answer": "G’hem credü e g’hem avvertì la noster gent"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

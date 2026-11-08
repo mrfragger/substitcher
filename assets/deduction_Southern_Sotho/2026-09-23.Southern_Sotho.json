@@ -1,0 +1,61 @@
+{
+  "title": "Pitso e ileng ea mamella lilemo tse ngata",
+  "intro": "Ak'u nahane ka moea o neng o eme o le mong khahlanong le tsoelo-pele eohle, o ikemiselitse ho ba tataisa ho tloha thetsong ka boikemisetso bo sa thekeseleng. Ka makholo a lilemo, molaetsa o ile oa haneloa, oa songoa, 'me oa qheleloa ka thoko—empa boiteko boo ha boa ka ba fela. Qetellong, ho ile ha tla kahlolo e kholo, 'me ke ba seng bakae feela ba ileng ba pholoha hammoho le moea ona o tiileng. Na u ka khetholla motho enoa ho tsoa Quran?",
+  "clues": [
+    "Ke rometsoe ho ba mohlalosi ho batho ba lahlehileng litseleng tsa bona.",
+    "Ke ile ka ba mema hore ba kope tšoarelo le ho furalla liphoso tsa bona, empa ba ile ba furalla.",
+    "Ka taelo ea Molimo, ke ile ka haha ​​sekepe se seholo ha batho ba heso ba ntse ba nchebile 'me ba ntšeha.",
+    "Ke ile ka bitsa Morena oa ka ke sa khaotse—qetellong a araba, 'me metsi a tšoloha leholimong ka lipula tse ngata.",
+    "Ke ile ka palama sekepe le ba neng ba lumela ha metsi a moroallo a phahama holim'a naha.",
+    "Ke ile ka hoeletsa ho e mong ea neng a setse morao, ka ba kopa hore ba tšabele thabeng, empa taelo e ne e se e fetile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Nuh",
+        "Moprofeta Ibrahim",
+        "Moprofeta Musa",
+        "Moprofeta Hud",
+        "Moprofeta Salih"
+      ],
+      "answer": "Moprofeta Nuh"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho haha ​​areka e kholo le ho pholoha moroallo oa lefatše lohle",
+        "Ho lahleloa mollong o tukang",
+        "Ho tobana le mohatelli le baloi ba hae ba matla",
+        "Ho metsoa ke tlhapi e kholo",
+        "Ho bona polao ea kamele e tšehali e halalelang"
+      ],
+      "answer": "Ho haha ​​areka e kholo le ho pholoha moroallo oa lefatše lohle"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Areka e kgolo ya lehong hodima metsi a matla a moroallo",
+        "Phula e halalelang e nang le lithako tsa majoe tsa boholo-holo",
+        "Lehaha le tebileng leo metsoalle e neng e robala ho lona ka makholo a lilemo",
+        "Mpa ea leruarua le leholo botebong ba leoatle",
+        "Thaba e telele ea majoe lefeelleng"
+      ],
+      "answer": "Areka e kgolo ya lehong hodima metsi a matla a moroallo"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Ba pholositsoe le balumeli ba palameng sekepe",
+        "Ke pholositsoe mollong ke sa tsoa kotsi ka taelo ea Molimo",
+        "O ile a etella pele ho falla ho hoholo ho tsoa 'musong o matla",
+        "Lahlela tlhapi lebopong le se nang letho",
+        "O ile a tataisa batho hole le bokhopo ka pontšo ea mohlolo"
+      ],
+      "answer": "Ba pholositsoe le balumeli ba palameng sekepe"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

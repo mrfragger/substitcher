@@ -1,0 +1,61 @@
+{
+  "title": "El sueño más allá del tiempo",
+  "intro": "Imagina una época en la que la verdad era silenciada y los creyentes perseguidos. Un pequeño grupo optó por la retirada en lugar de la rendición, encontrando refugio en el lugar más insospechado: un lugar que se convertiría en su morada durante siglos. Cuando finalmente despertaron, el mundo se había transformado a su alrededor. ¿Quiénes eran estas almas dormidas?",
+  "clues": [
+    "Éramos jóvenes que vivíamos en una ciudad antigua.",
+    "Nuestra comunidad exigió que rindiéramos culto junto a ellos, pero nos negamos.",
+    "Huimos de la ciudad en busca de refugio de aquellos que se oponían a nuestras creencias.",
+    "Un fiel compañero de cuatro patas permanecía en la entrada de nuestro escondite.",
+    "Alá nos hizo dormir durante trescientos nueve años.",
+    "Cuando finalmente despertamos, nuestra ciudad, que antes nos perseguía, había abrazado la fe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Ashab al-Kahf (La gente de la cueva)",
+        "Ashab al-Fil (El Ejército del Elefante)",
+        "Ashab al-Ukhdud (Los Compañeros de la Trinchera)",
+        "Los Hawariyyun (Discípulos de Isa)",
+        "Yajuj wa Majuj (Gog y Magog)"
+      ],
+      "answer": "Ashab al-Kahf (La gente de la cueva)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Nos refugiamos en una cueva y dormimos durante siglos.",
+        "Nos salvamos de un incendio voraz.",
+        "Fuimos engullidos por un pez enorme.",
+        "Fuimos puestos a prueba con una camella milagrosa.",
+        "Nos dieron nueve señales claras"
+      ],
+      "answer": "Nos refugiamos en una cueva y dormimos durante siglos."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una profunda cueva en las montañas",
+        "Un barco en alta mar",
+        "Una imponente estructura que alcanza el cielo.",
+        "Un jardín dividido entre dos rivales",
+        "Una barrera de hierro y cobre"
+      ],
+      "answer": "Una profunda cueva en las montañas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Despertamos y descubrimos que nuestra ciudad se había volcado a la fe.",
+        "Un fuego abrasador se volvió fresco y pacífico.",
+        "Un ejército enemigo se ahogó en el mar.",
+        "Los pájaros que transportaban piedras destruyeron al enemigo.",
+        "Un gran pez nos soltó en la orilla."
+      ],
+      "answer": "Despertamos y descubrimos que nuestra ciudad se había volcado a la fe."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

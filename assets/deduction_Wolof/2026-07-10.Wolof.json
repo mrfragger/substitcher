@@ -1,0 +1,61 @@
+{
+  "title": "Ki yor juróom ñeenti màndarga yi",
+  "intro": "Ab nit ku juddoo ci ndoorte lu woyof, am ëlëg guñ bind ci bëgg-bëggu Yàlla. Ñu nëbb ko bimu nekkee xale bu ndaw, ñu yar ko ci biir miiru njiit li doon jéema yàq seen askan, ñu mujjee ko woo ci liggéey bu am solo. Amu ñu woon lenn ludul ngëm ak yetu sàmmkat bu woyof, ñu taxaw ci kanamu njiit li gëna am doole ci jamono jooju, di sàkku ñu bàyyi ñi ñu jàpp. Àdduna bi ci boppam melni dafay yëngu ci seen ndigal — ndox mi dafa xaajaloo, asamaan yi wax, réew mu daanu.",
+  "clues": [
+    "Samay fan yu njëkk dañu ànd ak tiitaange — xale yu melni man, njiit lu amul yërmaande la daan rëbb bi ñuy judd, di ragal ëlëg.",
+    "Ndox moo ma muccal, ma juddoo ci biir kër buur bi bëggoon ma yàq.",
+    "Dama daw sama réew ginaaw bima amee musiba ci lu gaaw, ma nekk sàmmkat bu woyof ci réew mu sori.",
+    "Ma dellusi ngir jànkoonte ak njiit lu am doole jooju, yor benn yatt bu woyof ak bataaxal bu leer, di sàkku moom sa bopp ci sama askan.",
+    "Ma séddale ndox mu bari ngir ñi ma topp, ma xool ndox mi wann sama noon lëmm.",
+    "Ma yéeg ci tundu wu sell ngir am ndigal bu jóge ci Yàlla, ñu jox ma juróom ñeenti màndarga yu leer yuy firndeel dëgg gi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Boroom bi Musa",
+        "Yonent-Yàlla Nuh",
+        "Yonent-Yàlla Ibraahim",
+        "Yonent bi Yuusuf",
+        "Luut Yàlla"
+      ],
+      "answer": "Boroom bi Musa"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Janoo ak Firawna ci këram",
+        "Tabax gaal ngir mucc ci mbënd mu mag",
+        "Defarkati yàlla yi sànni leen ci safara gu tàng",
+        "Samay rak wàcce ma ci bënn bu xóot",
+        "Jéem naa tere sama askan def lu ñaaw"
+      ],
+      "answer": "Janoo ak Firawna ci këram"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Baton bi soppiku nekk jaan",
+        "Gaalu Nuh",
+        "Galluwaayu Bilqis",
+        "Bague bi yor ngelaw li ak jinne yi",
+        "Caabi alal juñ denc diis lool"
+      ],
+      "answer": "Baton bi soppiku nekk jaan"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Yobbu sama askan ci ndox mu xaajaloo ngir moom seen bopp",
+        "Mucc nañu ko ci mbënd mu mag ci biir gaal",
+        "Ñu dellu ci wérgi-yaram ak seen njaboot ginaaw tiis wu metti",
+        "Ñu sànni ko ci jën wu mag muy dundu",
+        "Tabax nañu fondaasioŋu kër gu sell gi"
+      ],
+      "answer": "Yobbu sama askan ci ndox mu xaajaloo ngir moom seen bopp"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

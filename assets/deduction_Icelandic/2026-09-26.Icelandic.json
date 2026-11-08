@@ -1,0 +1,61 @@
+{
+  "title": "Afneitunin mitt í gnægðinni",
+  "intro": "Þú ert meðal fólks þar sem markaðir iða af viðskiptum, en vogarskálar þeirra halla óheiðarlega. Sendiboði hefur komið til þeirra með skýrar viðvaranir, en þeir hlæja og snúa sér undan, öruggir um velgengni sína. Himininn byrjar að dimma, en þeir sjá það sem blessun regnsins. Hverjir eru þessir?",
+  "clues": [
+    "Við blómstruðum í löndum viðskipta og gnægðar, en hjörtu okkar urðu harðlaus.",
+    "Sendiboði kom til okkar með tákn frá Drottni okkar, en við hæddumst að viðvörunum hans.",
+    "Við vorum þekktir fyrir iðn okkar, en við gáfum stutt mál og svikuðum fólkið.",
+    "Við bjuggum meðal þéttra trjáa og gróskumikillar gróðri, en við tókum blessanir okkar sem sjálfsagða.",
+    "Þegar dimmt ský nálgaðist fögnuðum við, og hugsuðum að það myndi færa regn í þurrlendi okkar.",
+    "Í staðinn sleppti þetta ský sviðandi refsingu og við vorum gripin af kvölum skuggadagsins."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hverjir erum við?",
+      "options": [
+        "Ashab al-Aykah (Félagar skógarins)",
+        "Fólkið í Thamud",
+        "Fólkið í 'Ad",
+        "Fólkið í Lút",
+        "Fólkið í Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Félagar skógarins)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Þeir höfnuðu sendiboða sínum og svindluðu í viðskiptum",
+        "Þeir tilbáðu gullkálf og voru leiddir afvega",
+        "Þeir stunduðu sodómískt samræði og réðust á ferðalanga",
+        "Þeir reistu háa turna og ögruðu Guði",
+        "Þau neituðu að deila vatni og meiddu úlfalda."
+      ],
+      "answer": "Þeir höfnuðu sendiboða sínum og svindluðu í viðskiptum"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Þéttur skógur eða kjarr",
+        "Fjall höggvið í íbúðarhúsnæði",
+        "Borg við sjóinn",
+        "Eyðimerkurdalur með brunnum",
+        "Frjósamur garður með mörgum ávöxtum"
+      ],
+      "answer": "Þéttur skógur eða kjarr"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Eyðilagður af skuggaskýi af eldi",
+        "Drukknaði í miklu flóði",
+        "Gleypt af jarðskjálfta",
+        "Slegið af ofsafengnum vindi",
+        "Breytt í stein"
+      ],
+      "answer": "Eyðilagt af skuggaskýi af eldi"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

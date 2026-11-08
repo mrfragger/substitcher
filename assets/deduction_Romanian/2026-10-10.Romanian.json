@@ -1,0 +1,61 @@
+{
+  "title": "Cercetașul cu pene",
+  "intro": "Într-un regat condus de cineva căruia i s-a acordat stăpânire asupra vânturilor, ființelor nevăzute și creaturilor cerului, un membru mic și rapid a dispărut din rânduri - doar pentru a se întoarce cu revelații care aveau să remodeleze soarta unei națiuni îndepărtate. Acest informator cu ochi perspicace a adus adevărul la lumină acolo unde ignoranța prinsese rădăcini. Cine sunt eu?",
+  "clues": [
+    "Am slujit la o curte unde oamenii, ființele nevăzute și creaturile cerului răspundeau unui singur conducător înțelept care stăpânea chiar și vânturile.",
+    "Am lipsit din post o vreme, iar mânia conducătorului era promisă dacă nu reușeam să ofer un motiv satisfăcător.",
+    "Sunt o mică creatură zburătoare, cunoscută pentru vederea sa ageră, iar semenii mei au fost onorați cu un nume direct în paginile revelației.",
+    "Când m-am întors, am adus vești despre o țară îndepărtată unde oamenii se prosternau la soare, orbi față de Cel care a creat cerurile și pământul.",
+    "Am găsit o femeie domnind peste un mare regat, șezând pe un tron ​​magnific, fără să fi cunoscut adevărul înainte.",
+    "Eu sunt cel care a descoperit tărâmul Saba și am dus o scrisoare de invitație de la un rege-profet căruia i s-a dat stăpânire asupra vântului."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Pupăza (Hudhud)",
+        "Furnica din Valea lui Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit djinnul",
+        "Un înger al tronului"
+      ],
+      "answer": "Pupăza (Hudhud)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Expediția în Regatul Saba (Sheba)",
+        "Confruntarea cu vrăjitorii faraonului",
+        "Potopul profetului Nuh",
+        "Distrugerea Poporului din 'Ad",
+        "Despărțirea Mării Roșii"
+      ],
+      "answer": "Expediția în Regatul Saba (Sheba)"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Țara Saba (Sheba)",
+        "Muntele Sinai",
+        "Arca profetului Nuh",
+        "Peștera lui Ashab al-Kahf",
+        "Palatul Faraonului"
+      ],
+      "answer": "Țara Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Bilqis s-a supus curții lui Sulaiman",
+        "Faraonul și armata sa s-au înecat în mare",
+        "Oamenii din 'Ad au fost distruși de un vânt violent",
+        "Vrăjitorii faraonului credeau în profetul Moise",
+        "O mare inundație i-a mistuit pe necredincioși"
+      ],
+      "answer": "Bilqis s-a supus curții lui Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

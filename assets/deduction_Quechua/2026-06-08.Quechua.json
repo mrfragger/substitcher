@@ -1,0 +1,61 @@
+{
+  "title": "Santuario nisqamanta mañakuq",
+  "intro": "Tuta ch’in horakunapin huk sapaqchasqa alma huk ch’uya cheqaspa ch’uya perqankuna ukhupi Ancha Khuyapayakuqta waqyakurqan. Watakuna mana kuyuriq iñiywan pacienciawan premiasqa kanan karqan huk milagrowan, chaymi kusikuyta apamunqa, profeta kay herenciatapas.",
+  "clues": [
+    "P’unchayniykunata tutaykunatapas ch’uya santuario ukhupi devocionpin pasarqani, sapa kutillanmi Señorniyta mañakuspay.",
+    "Machuyarqanim, warmiypas mana wachakuqmi karqa, chaywanpas manam haykapipas Allahpa khuyapayakuyninpiqa suyakuytaqa chinkachirqanichu.",
+    "Huk churitan qowarqanku, Yahya sutiyoq, paymi profetaman tukupurqan, chanin kaypa k’anchayninmanwan.",
+    "Ñoqa kikiymi profeta karqani, Israelpa Churinkunata pusanaypaq kachasqa.",
+    "Profeta Harunpa mirayninmi karqani, Yupaychana Wasipitaq sacerdote hina llank’arqani.",
+    "Isapa maman Maryamta cuidanaypaqmi encargawaranku, milagrokuna ruwasqantapas rikurqanin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Zakariyya sutiyuq runa",
+        "Profeta Yahya sutiyuq runa",
+        "Profeta Ilyas sutiyuq runa",
+        "Profeta Ishaq sutiyuq runa",
+        "Profeta Ya'qub"
+      ],
+      "answer": "Profeta Zakariyya sutiyuq runa"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Machuyaypi huk churita quykurqa",
+        "Nina rawraymanta qispichisqa",
+        "Challwapa wiksanmanta qispichisqa",
+        "Hatun unu hunt’aymantan kawsarqan",
+        "Sinchi unquymanta hampisqa"
+      ],
+      "answer": "Machuyaypi huk churita quykurqa"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Mihrab (mañakuy nichu) nisqa.",
+        "Chay Kaaba",
+        "Ruphaq Sach’a",
+        "Rimanakuy Arca",
+        "Qanchis Puñuqpa Machay"
+      ],
+      "answer": "Mihrab (mañakuy nichu) nisqa."
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Profeta kapuq chanin churi qosqa",
+        "Sinchi wayra-parawan chinkachisqa",
+        "Lamar quchapi yakupi chinkasqa",
+        "Ruphachisqa kasqanmanta qespichisqa",
+        "Huk challwamanta qespichisqa kaspanku llaqtankuman kutipurqanku"
+      ],
+      "answer": "Profeta kapuq chanin churi qosqa"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

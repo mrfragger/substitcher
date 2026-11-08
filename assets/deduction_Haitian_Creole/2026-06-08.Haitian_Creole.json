@@ -1,0 +1,61 @@
+{
+  "title": "Sipliyan nan Sanktyè a",
+  "intro": "Nan lè trankil lannwit lan, yon nanm devwe te rele Bondye ki gen plis mizèrikòd la nan miray sakre yon kote sakre. Plizyè ane lafwa ak pasyans san fay te pral rekonpanse ak yon mirak ki t ap pote lajwa ak yon eritaj pwofesi.",
+  "clues": [
+    "Mwen te pase jounen m ak nwit mwen yo nan devosyon nan yon sanktyè sakre, mwen t ap sipliye Senyè mwen an san rete.",
+    "Mwen te vin vye, epi madanm mwen te esteril, men mwen pa janm pèdi espwa nan mizèrikòd Allah.",
+    "Yo te ban mwen yon pitit gason, ki te rele Yahya, ki te vin tounen yon pwofèt ak yon limyè jistis.",
+    "Mwen te yon pwofèt mwen menm, yo te voye m pou gide pitit Izrayèl yo.",
+    "Mwen te yon desandan pwofèt Aroun epi mwen te sèvi kòm prèt nan Tanp lan.",
+    "Yo te konfye m swen Maryam, manman Isa, epi mwen te temwen mirak li yo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Zakariyya",
+        "Pwofèt Yahya",
+        "Pwofèt Ilyas",
+        "Pwofèt Ishak",
+        "Pwofèt Ya'qub"
+      ],
+      "answer": "Pwofèt Zakariyya"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Li te bay yon pitit gason nan vyeyès li",
+        "Sove anba yon gwo dife",
+        "Sove nan vant yon pwason",
+        "Siviv yon gwo inondasyon",
+        "Geri anba yon maladi grav"
+      ],
+      "answer": "Li te bay yon pitit gason nan vyeyès li"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Mihrab la (nich lapriyè a)",
+        "Kaaba a",
+        "Ti touf bwa ​​ki ap boule a",
+        "Lach Alyans lan",
+        "Gwòt Sèt Dòmi yo"
+      ],
+      "answer": "Mihrab la (nich lapriyè a)"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Yo te ba li yon pitit gason jis ki te vin tounen yon pwofèt",
+        "Detwi pa yon gwo tanpèt",
+        "Nwaye nan lanmè a",
+        "Sove anba boule",
+        "Yo te retounen jwenn pèp yo apre yo te fin sove yo anba yon pwason."
+      ],
+      "answer": "Yo te ba li yon pitit gason jis ki te vin tounen yon pwofèt"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

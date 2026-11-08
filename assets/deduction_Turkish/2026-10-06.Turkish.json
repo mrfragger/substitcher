@@ -1,0 +1,61 @@
+{
+  "title": "Mahkemeyi Susturan Gerçek",
+  "intro": "İnkarın hüküm sürdüğü ve gücün mutlak olduğu bir sarayda, yetenekli uygulayıcılardan oluşan bir topluluk beklenmedik bir meydan okumayla karşı karşıya kaldı. Yalan ve hakikat yollarının çarpışması an meselesiyken, havada büyük bir heyecan vardı. Toplananlar, bu karşılaşmanın hayatlarını sonsuza dek değiştireceğini ve hikayelerini kutsal metinlere kazıyacağını bilmiyorlardı.",
+  "clues": [
+    "Bizler illüzyon alanındaki yeteneklerimizle ünlüydük ve güçlü bir hükümdar tarafından bir rakiple yüzleşmek üzere bir araya getirildik.",
+    "O an geldiğinde, aletlerimizi hazırladık ve ustalığımıza güvenerek sonucu bekledik.",
+    "Ancak şahit olduklarımız, kendi cihazlarımızı sadece birer oyuncak gibi gösterdi ve kalplerimiz inkar edilemez gerçeği kabul etti.",
+    "Hükümdarın öfkesine rağmen, Musa ve Harun'un Rabbine olan inancımızı ilan ederek yere kapanıp secde ettik.",
+    "O hükümdar bize en acımasız cezayı vermekle tehdit etti, bizi çarmıha germek ve uzuvlarımızı zıt yönlerde kesmekle yemin etti.",
+    "Bizler, Rabbimizin hükmünü dünyevi her türlü sonuçtan üstün tuttuğumuzu söyleyerek sebat ettik ve imanımız uğruna şehit olduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Firavunun Büyücüleri",
+        "Mağara Halkı",
+        "Ormanın Yoldaşları",
+        "İsa'nın Öğrencileri",
+        "Fil Halkı"
+      ],
+      "answer": "Firavunun Büyücüleri"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Musa'ya karşı sihir yarışması",
+        "Üzerlerine atılan bir ateş",
+        "Onları boğan bir sel",
+        "Kuraklık ve kıtlık",
+        "Bir deprem"
+      ],
+      "answer": "Musa'ya karşı sihir yarışması"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yılanlara dönüşen sopalar ve ipler",
+        "Yanan bir çalı",
+        "Dişi bir deve",
+        "Ahşap bir sandık",
+        "Bir balina"
+      ],
+      "answer": "Yılanlara dönüşen sopalar ve ipler"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İnanç uğruna idam edildi, cennete kavuşacağı vaat edildi.",
+        "Denizde boğuldu",
+        "Mısır'ın yöneticileri oldular.",
+        "Firavunun sadık takipçileri olarak kaldılar.",
+        "Araziyi miras yoluyla devraldı."
+      ],
+      "answer": "İnanç uğruna idam edildi, cennete kavuşacağı vaat edildi."
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

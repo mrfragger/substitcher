@@ -1,0 +1,61 @@
+{
+  "title": "L-Irqad Lil hinn mill-Ħin",
+  "intro": "Immaġina żmien meta l-verità kienet imsikkta u dawk li jemmnu kienu mfittxija. Grupp żgħir għażel l-irtirar milli l-ċediment, u sab kenn fl-aktar post improbabbli — post li kien se jsir l-art ta’ mistrieħ tagħhom għal sekli sħaħ bla għadd. Meta fl-aħħar qamu, id-dinja kienet inbidlet madwarhom. Min huma dawn l-erwieħ reqdin?",
+  "clues": [
+    "Konna żgħażagħ li ngħixu f'belt antika.",
+    "Il-komunità tagħna talbet li nqimu magħhom, iżda aħna rrifjutajna.",
+    "Ħrabna mill-belt infittxu kenn minn dawk li kienu jopponu t-twemmin tagħna.",
+    "Sieħeb leali b'erba' saqajn baqa' fid-daħla tal-moħba tagħna.",
+    "Alla ġagħalna norqdu għal tliet mija u disa’ snin.",
+    "Meta fl-aħħar qomna, il-belt tagħna li darba kienet tippersegwitana kienet ħaddnet il-fidi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Ashab al-Kahf (In-Nies tal-Għar)",
+        "Ashab al-Fil (L-Armata tal-Iljunfant)",
+        "Ashab al-Ukhdud (Il-Kumpanji tat-Trinka)",
+        "Il-Hawariyyun (Dixxipli ta’ Isa)",
+        "Yajuj wa Majuj (Gog u Magog)"
+      ],
+      "answer": "Ashab al-Kahf (In-Nies tal-Għar)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Irtirajna f'għar u rqadna għal sekli sħaħ",
+        "Ġejna salvati minn nar qawwi",
+        "Belgħetna ħuta kbira",
+        "Ġejna ttestjati b'ġemela mirakoluża",
+        "Ingħatajna disa’ sinjali ċari"
+      ],
+      "answer": "Irtirajna f'għar u rqadna għal sekli sħaħ"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Għar fond fil-muntanji",
+        "Dgħajsa fil-baħar miftuħ",
+        "Struttura għolja li tilħaq is-smewwiet",
+        "Ġnien maqsum bejn żewġ rivali",
+        "Barriera tal-ħadid u r-ram"
+      ],
+      "answer": "Għar fond fil-muntanji"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Qomna biex insibu li l-belt tagħna kienet daret għall-fidi",
+        "Nar qawwi sar frisk u paċifiku",
+        "Armata tal-għadu għerqet fil-baħar",
+        "Għasafar li jġorru l-ġebel qerdu lill-għadu",
+        "Ħuta kbira ħelsitna fuq ix-xatt"
+      ],
+      "answer": "Qomna biex insibu li l-belt tagħna kienet daret għall-fidi"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

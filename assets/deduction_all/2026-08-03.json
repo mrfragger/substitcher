@@ -1,0 +1,61 @@
+{
+  "title": "The Spring Beneath the Sand",
+  "intro": "In the annals of the Quran, a figure of immense patience faced a trial that would break the stoutest hearts. Everything was stripped away - wealth, family, and health. Yet from the depths of despair, a humble prayer was answered in the most unexpected way. Can you identify this soul whose story of restoration echoes through the ages?",
+  "clues": [
+    "I was tested with a trial so severe that it is remembered throughout the ages.",
+    "I lost everything that mattered - my wealth, my children, and my health.",
+    "My body was covered with painful sores, and I was shunned by all.",
+    "In my desperation, I called to Allah, saying that Satan had touched me with hardship and torment.",
+    "Allah answered me and commanded me to strike the earth with my foot.",
+    "From that very spot, a cool spring burst forth, and Allah restored my family and doubled them as a mercy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Ayyub",
+        "Prophet Musa",
+        "Prophet Ilyas",
+        "Prophet Sulayman",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Ayyub"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Severe illness and loss of family and wealth",
+        "Being swallowed by a great whale",
+        "Exile from the city of Makkah",
+        "Imprisonment in a deep well",
+        "Confrontation with an arrogant ruler"
+      ],
+      "answer": "Severe illness and loss of family and wealth"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A cool spring from the earth",
+        "A boat upon a great flood",
+        "A staff that split the sea",
+        "An elevated throne of glass",
+        "A walled cave for sleep"
+      ],
+      "answer": "A cool spring from the earth"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Family and wealth restored and doubled",
+        "Exit from the belly of a fish",
+        "Safe passage through parted waters",
+        "A kingdom given to rule",
+        "A son's miraculous birth in old age"
+      ],
+      "answer": "Family and wealth restored and doubled"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

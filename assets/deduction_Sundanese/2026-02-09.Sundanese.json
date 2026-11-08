@@ -1,0 +1,60 @@
+{
+  "title": "Uji Coba Di Handapeun Ombak",
+  "intro": "Saurang nabi, anu kabeungbeuratan ku misina, nyieun kaputusan anu ngajauhkeun anjeunna ti umatna sareng kana cocoba anu teu disangka-sangka. Lalampahanna ngalaman parobahan anu dramatis, nguji iman sareng kasabaranana ku cara anu paling jero. Dupi anjeun tiasa nyimpulkeun sacara rinci kajadian anu luar biasa ieu tina petunjuk anu disayogikeun?",
+  "clues": [
+    "Saurang nabi diutus ka hiji kaum, tapi anjeunna buru-buru angkat, ngarasa frustasi ku panolakan ti aranjeunna.",
+    "Lalampahanna ngarah anjeunna ka laut, dimana anjeunna naék kapal anu pinuh ku muatan pikeun milarian jalan.",
+    "Badai gedé datang, ngancam kapal, sarta kaputusan dijieun pikeun ngalungkeun hiji jalma ka laut pikeun ngurangan muatan, ditangtukeun ku undian.",
+    "Anjeunna ditelan ku mahluk ti jero, hiji kajadian ajaib anu ditangtukeun ku kahoyong Ilahi.",
+    "Di jero beuteung mahluk éta, anjeunna ngajerit ka Pangéranna, tobat sareng ngagungkeun Allah dina poék mongkleng.",
+    "Saatos sakedap neneda, anjeunna dialungkeun ka basisir anu tandus, lemah tapi hirup kénéh, teras uih deui mendakan yén rahayatna tungtungna parantos percanten."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nabi/Jalma",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Luth as",
+        "Nabi Musa",
+        "Nabi Yunus",
+        "Nabi Yusuf"
+      ],
+      "answer": "Nabi Yunus"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Banjir Nuh",
+        "Karusakan Sodom",
+        "Perjalanan dina beuteung lauk ageung",
+        "Beulahna laut",
+        "Wahyu rungkun anu ngaduruk"
+      ],
+      "answer": "Perjalanan dina beuteung lauk ageung"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Bahtera",
+        "Gunung Sinai",
+        "Staf Musa",
+        "Lauk Agung",
+        "Sumur Yusuf"
+      ],
+      "answer": "Lauk Agung"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Perjanjian anyar jeung umat manusa",
+        "Kalahiran anu ajaib pikeun umatna",
+        "Karajaan anu diadegkeun pikeun silsilahna",
+        "Mulang ka kaumna anu harita percaya",
+        "Kameunangan ngalawan pamingpin tirani"
+      ],
+      "answer": "Mulang ka kaumna anu harita percaya"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

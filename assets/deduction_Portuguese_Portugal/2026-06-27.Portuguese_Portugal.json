@@ -1,0 +1,61 @@
+{
+  "title": "A Sagrada Ausência",
+  "intro": "Além das dunas do tempo, existe uma história de devoção inabalável e uma confiança tão pesada que a alma que a carregava poderia ter se quebrado. Num momento em que o povo se voltou para a loucura e o ouro, uma figura permaneceu firme — chamando-os de volta, implorando por paciência e carregando o peso de uma promessa sagrada. Esta é a história daquele que foi escolhido como auxiliar, vizir e guardião da fé durante uma ausência sagrada. Você consegue descobrir a identidade dessa alma inabalável?",
+  "clues": [
+    "Compartilho o sangue de um grande profeta que foi escolhido para falar diretamente com Alá em um monte sagrado.",
+    "Meu irmão ou irmã certa vez implorou a Alá por ajuda para falar claramente com um grande opressor.",
+    "Fui escolhido por Alá para estar ao lado do meu irmão como ajudante e conselheiro.",
+    "Juntos, enfrentamos um governante tirano que exigia ser chamado de o mais elevado dos deuses.",
+    "Enquanto meu irmão se comunicava com Alá na montanha, nosso povo fez para si um ídolo com seu ouro.",
+    "Sou o irmão de Moisés, designado por Alá como seu vizir, mencionado nominalmente no Alcorão."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Harun (Aarão)",
+        "Profeta Moisés",
+        "Profeta Dawud",
+        "Profeta Yaqub",
+        "Profeta Ishaq"
+      ],
+      "answer": "Profeta Harun (Aarão)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A crise da adoração ao bezerro",
+        "O Grande Dilúvio de Noé",
+        "A Batalha de Badr",
+        "A destruição de Thamud",
+        "A destruição de Sodoma"
+      ],
+      "answer": "A crise da adoração ao bezerro"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Bezerro de Ouro",
+        "Arca de Noé",
+        "A Sarça Ardente",
+        "A Caverna de Hira",
+        "O Trono de Sabá"
+      ],
+      "answer": "O Bezerro de Ouro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Inocência confirmada por Alá",
+        "Afogamento do Faraó",
+        "A construção da Caaba",
+        "Travessia Segura do Mar",
+        "Ascensão aos Céus"
+      ],
+      "answer": "Inocência confirmada por Alá"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

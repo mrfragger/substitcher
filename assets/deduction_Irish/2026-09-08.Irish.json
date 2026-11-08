@@ -1,0 +1,61 @@
+{
+  "title": "Triail na Lasrach Naofa",
+  "intro": "I dtír ársa inar ghlac dílseacht don chloch shnoite fréamh i ngach teach, sheas duine aonair ar leithligh. Trí chreideamh gan staonadh agus cosaint dhiaga, d’aghaidh siad ar an rud ba cheart a bheith ina bhás cinnte - agus shiúil siad leo gan dochar. An féidir leat céannacht an anama iontach seo a nochtadh?",
+  "clues": [
+    "Tógadh mé i measc daoine a chromadh d’íodail a shnoigh siad lena lámha féin, agus iad den tuairim go raibh cumhacht dhiaga ag na rudaí seo.",
+    "Nuair a chuir mé ceist ar a gcreideamh, dhiúltaigh siad dom ar dtús, ach ní raibh mé in ann fanacht ciúin faoin bhfírinne a bhí ar eolas agam.",
+    "Lá a bailíodh iad, scrios mé a n-íodail, agus níor fhág mé ach an ceann ba mhó gan teagmháil.",
+    "Nuair a d’fhill siad agus a chonaic siad a raibh déanta agam, d’ordaigh a gceannairí carn mór a thógáil, agus é ar intinn acu mé a chaitheamh sna lasracha.",
+    "Chaith siad isteach sa tine lasrach mé, ach d’ordaigh Tiarna an domhain é a fhuarú agus a shábháil dom.",
+    "Tháinig mé amach as na lasracha gan dochar ar bith, agus bhí scrios iomlán i ndán dóibh siúd a chomhcheilg i mo choinne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ibrahim",
+        "an Fáidh Músa",
+        "Fáidh Nuh",
+        "Fáidh Íosa",
+        "Fáidh Iósaf"
+      ],
+      "answer": "Fáidh Ibrahim"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á chaitheamh i dtine lasrach",
+        "Á shlogadh ag míol mór mór",
+        "Ag maireachtáil tuile mhóir",
+        "Á chaitheamh isteach i dtobar domhain",
+        "Ag tabhairt aghaidh ar dhraoithe rí"
+      ],
+      "answer": "Á chaitheamh i dtine lasrach"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Créacán ollmhór adhmaid dóite",
+        "Áirc adhmaid mhór",
+        "Dealbh lao órga",
+        "Ciseán ar snámh ar abhainn",
+        "Ríchathaoir iontach"
+      ],
+      "answer": "Créacán ollmhór adhmaid dóite"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinne Allah an tine fionnuar agus sábháilte",
+        "Tháinig an áirc i dtír go sábháilte ar shliabh",
+        "Leagh an dealbh órga os comhair a súl",
+        "Bádh tíoránach agus a arm sa bhfarraige",
+        "Athchóiríodh radharc fear daill"
+      ],
+      "answer": "Rinne Allah an tine fionnuar agus sábháilte"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pazemīgie patiesības meklētāji",
+  "intro": "Senās varas un burvestību zemē risinās liela konfrontācija. Viena puse izmanto dievišķo zīmju autoritāti, bet otra mēģina sasniegt neiespējamo. Iznākums uz visiem laikiem mainīs vēstures gaitu. Vai varat atklāt to cilvēku identitāti, kuri bija liecinieki galīgajai patiesībai un pazemojās tās priekšā?",
+  "clues": [
+    "Mēs redzējām zīmes, kas pārsniedza burvestību trikus",
+    "Mēs visi kritām zemē, nespēdami noliegt patiesību",
+    "Mēs atpazinām, ka šīs zīmes nāca no Vienīgā Patiesā Dieva",
+    "Mēs bijām pirmā kopiena, kas pieņēma ticību tik dramatiskā veidā",
+    "Mums tika apsolīta paradīze kā atlīdzība par mūsu ticību",
+    "Mūsu virves un nūjas mūsu acu priekšā pārvērtās par čūskām, tomēr mēs izvēlējāmies pakļaušanos"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Faraona burvji",
+        "Pravieša Ibrahima tauta",
+        "Pazemīgie patiesības meklētāji",
+        "Alas ļaudis",
+        "Karalienes Bilkī nācija"
+      ],
+      "answer": "Faraona burvji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Tikšanās ar pravieša Musas personālu",
+        "Pravieša Huda vēja pārbaudījums",
+        "Pravieša Saleha kamieļmātes izaicinājums",
+        "Lielie plūdi, kas tika sūtīti pār pravieti",
+        "Pravieša ceļojums vaļa iekšienē"
+      ],
+      "answer": "Tikšanās ar pravieša Musas personālu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Senā Ēģipte",
+        "Svētā māja Mekā",
+        "Midiānas pilsēta",
+        "Tamudas tuksnesis",
+        "Seno gulētāju ala"
+      ],
+      "answer": "Senā Ēģipte"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Paradīze kā viņu atlīdzība",
+        "Sods kapā",
+        "Viņu bagātīgo dārzu zaudēšana",
+        "Iznīcināšana pēkšņas zemestrīces dēļ",
+        "Glābšana no liela vaļa"
+      ],
+      "answer": "Paradīze kā viņu atlīdzība"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

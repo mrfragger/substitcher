@@ -1,0 +1,61 @@
+{
+  "title": "Deng di Qûmên Kevnar de",
+  "intro": "Di nav pêxemberên herî pêşîn ên Xwedê de, yek hebû ku navê wî di Quranê de bi kurtî lê bi watedarî dibiriqe. Ev kes demek dirêj berî şandina gelek pêxemberên mezin jiyaye û bi rastî û sebira xwe ya bêdawî dihat nasîn. Çîroka wan kurt e lê mîrata wan di tomarên herheyî de dimîne. Ev giyanê esilzade kî ye?",
+  "clues": [
+    "Ez yek ji pêxemberên herî pêşîn im, ku di Quranê de bi kurtî lê bi watedar behsa min tê kirin.",
+    "Kesayetiya min bi pabendbûneke bêdawî ya bi rastiyê re dihat pênasekirin.",
+    "Ez di kitêba Xwedê de di nav wan kesên ku sebir û aram bûne de têm bîranîn.",
+    "Tenê çend ayetên kurt di Quranê de çîroka min vedibêjin.",
+    "Xwedê min bi awayekî bêhempa rûmet kir ku bi pêxemberên din re nayê parvekirin, ne ya min e.",
+    "Ez gihîştim meqameke bilind, ku di Quranê de rûmeteke bêhempa ye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îdrîs",
+        "Pêxember Îlyas",
+        "Dhul-Kifl",
+        "Pêxember Elyasa",
+        "Asif ibn Berxiya"
+      ],
+      "answer": "Pêxember Îdrîs"
+    },
+    "trial": {
+      "label": "Dema Diyarker",
+      "options": [
+        "Ez ji aliyê Xwedê ve bi meqameke bilind hatim hildan",
+        "Min keştîyek mezin ava kir da ku gelê xwe xilas bikim",
+        "Min sêrbazên Fîrewn dan ber çavan",
+        "Ez ji aliyê birayên xwe ve hatim avêtin nav çalê",
+        "Ji ber xemgîniya kurê xwe min çavên xwe winda kirin"
+      ],
+      "answer": "Ez ji aliyê Xwedê ve bi meqameke bilind hatim hildan"
+    },
+    "location": {
+      "label": "Referansa Pîroz",
+      "options": [
+        "Sûreya El-Enbiya",
+        "Sûreya Kehf",
+        "Sûreya Taha",
+        "Sûreya Eş-Şu'era",
+        "Sûreya Yasîn"
+      ],
+      "answer": "Sûreya El-Enbiya"
+    },
+    "outcome": {
+      "label": "Rûmeta Îlahî",
+      "options": [
+        "Stasyoneke bilind mîna yên din",
+        "Serdestî li ser cin û bayê",
+        "Padîşahiyek bi rûmetek bêhempa",
+        "Mîratgirek ji temenê min ê pîrbûnê",
+        "Peymanek bi Xwedê re hatiye morkirin"
+      ],
+      "answer": "Stasyoneke bilind mîna yên din"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

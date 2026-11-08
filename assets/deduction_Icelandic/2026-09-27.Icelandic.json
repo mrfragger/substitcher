@@ -1,0 +1,61 @@
+{
+  "title": "Garðurinn sem hvarf á einni nóttu",
+  "intro": "Ímyndaðu þér gróskumikla garða, þungan af þroskuðum ávöxtum og umkringdan turnháum trjám. Þeir sem önnuðust hann töldu sig vera klárir og skipulögðu uppskeru sína á kyrrlátum stundum fyrir dögun, fjarri augum þeirra sem þurftu á því að halda. En Sá sem aldrei sefur hafði aðrar áætlanir fyrir huldu auðæfi þeirra. Geturðu giskað á hver stendur á bak við þessa viðvörunarsögu úr Kóraninum?",
+  "clues": [
+    "Við áttum eitt sinn svo gróskumikinn og stækkan garð að allir sem fram hjá gengu öfunduðu hann.",
+    "Í skipulagningunni hvísluðum við hvert að öðru snemma morguns og lýstum því yfir að engum þurfandi sál yrði hleypt inn þann dag.",
+    "Við vorum auðugt fólk og hjörtu okkar höfðu blindast fyrir réttindum hinna fátæku í kringum okkur.",
+    "Þegar dögun fyrirhugaðrar uppskeru okkar nálguðumst við garðinn okkar aðeins til að sjá að hann hafði umbreyst í svartlitaða rúst á einni nóttu.",
+    "Eyðileggjandi úrskurður gekk í gildi og skildi ekkert eftir nema ösku þar sem klasar af þroskuðum ávöxtum höfðu eitt sinn hangið.",
+    "Saga okkar er hörð viðvörun skráð í Kóraninum, þar sem við erum þekkt sem eigendur garðsins sem héldu aftur ölmusu frá þurfandi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Eigendur garðsins",
+        "Fólkið í hellinum",
+        "Lærisveinar Jesaja",
+        "Félagar skógarins",
+        "Gestir Ibrahims"
+      ],
+      "answer": "Eigendur garðsins"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að tína ávexti í leyni og útiloka fátæka",
+        "Að sofa í aldir inni í helli",
+        "Neitaði að framleiða úlfalda úr steini",
+        "Að tilbiðja gullkálf við Sínaífjall",
+        "Að smíða mikla örk til að komast undan flóði"
+      ],
+      "answer": "Að tína ávexti í leyni og útiloka fátæka"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Umgirtur garður fullur af pálmatrjám og vínviði",
+        "Dimmur hellir djúpt í fjöllunum",
+        "Borg sem guðlegur fellibylur hefur yfirbugað",
+        "Heilagur dalur nálægt húsi Allahs",
+        "Bakkar rennandi árinnar"
+      ],
+      "answer": "Umgirtur garður fullur af pálmatrjám og vínviði"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Garðurinn var eyddur af brennandi himneskri skipun",
+        "Þau sváfu friðsamlega í 309 tunglár",
+        "Þau voru kramin niður af steinregni",
+        "Þau drukknuðu undan miklum flóðbylgjum",
+        "Þau voru dreifð í köldum, ofsafengnum vindi"
+      ],
+      "answer": "Garðurinn var eyddur af brennandi himneskri skipun"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

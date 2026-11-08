@@ -1,0 +1,61 @@
+{
+  "title": "Melodija, kas pārvietoja kalnus",
+  "intro": "Jūs tūlīt atklāsiet stāstu par ievērojamu Allāha kalpu. Vēstnešu un valdnieku zemē šī persona bija svētīta ar dievišķu grāmatu, spēcīgu balsi un spēku pār dzelzi. Lasot pavedienus, vai varat noteikt, kas tas varētu būt?",
+  "clues": [
+    "Es biju Allāha kalps, kuram bija piešķirta īpaša grāmata.",
+    "Man bija skaista balss, un mana slava bija tik mīļa, ka pat kalni un putni man pievienojās.",
+    "Slavenā kaujā es saskāros ar spēcīgu pretinieku, un, neskatoties uz to, ka biju mazāks, es uzvarēju.",
+    "Dzelzs man kļuva lokana, ļaujot man savām rokām izgatavot bruņas.",
+    "Es tiku iecelts par valdnieku pār lielu tautu, un mana gudrība spriedumos bija slavena.",
+    "Manam dēlam, kurš arī bija pravietis, tika piešķirta vara pār vēju un džiniem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Dāvids",
+        "Pravietis Sulaimans (Salamans)",
+        "Pravietis Mūsa (Mozus)",
+        "Pravietis Haruns (Ārons)",
+        "Pravietis Iļja (Eliass)"
+      ],
+      "answer": "Pravietis Dāvids"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sakauts Goliāts (Džaluts)",
+        "Šķīra jūru",
+        "Izdzīvoja vali",
+        "Tika iemests ugunī",
+        "Uzbūvēja šķirstu"
+      ],
+      "answer": "Sakauts Goliāts (Džaluts)"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zaburs (Psalmi)",
+        "Tora (Taura)",
+        "Evaņģēlijs (Injil)",
+        "Ibrahima tīstokļi",
+        "Korāns"
+      ],
+      "answer": "Zaburs (Psalmi)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva par pravieti un Izraēla ķēniņu",
+        "Kļuva par Ēģiptes valdnieku",
+        "Tika pacelts debesīs",
+        "Tika iznīcināts vētras laikā",
+        "Kļuva par alas pavadoni"
+      ],
+      "answer": "Kļuva par pravieti un Izraēla ķēniņu"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

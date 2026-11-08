@@ -1,0 +1,61 @@
+{
+  "title": "Die frohe Botschaft im Alter",
+  "intro": "Sie erleben einen Moment, in dem neue Hoffnung keimt. Ein Paar, längst über das Elternalter hinaus, erhält ein Versprechen, das den Gesetzen der Natur trotzt. In ihrer Mitte steht eine Gestalt, deren bloße Existenz ein Zeichen göttlicher Gnade ist – eine Seele, die zum Prophetentum berufen ist und ein Erbe trägt, das Generationen überdauern wird. Wer ist dieser außergewöhnliche Mensch?",
+  "clues": [
+    "Ich wurde als Kind von Eltern geboren, die ein hohes Alter erreicht hatten und keine Kinder mehr hatten.",
+    "Meine Geburt wurde von Engeln verkündet, die als Gäste in meine Familie kamen.",
+    "Mir wurden Weisheit und Prophetie verliehen, und ich werde unter den Patienten erwähnt.",
+    "Mein Vater wurde der Freund Allahs genannt, und ich war ihm in seinen späteren Jahren ein Geschenk.",
+    "Ich hatte einen Bruder, der ebenfalls ein Prophet war, und wir beide wurden von unserem Herrn gesegnet.",
+    "Mein Sohn war ebenfalls ein Prophet, und meinen Nachkommen wurde die Heilige Schrift und das Prophetentum zuteil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ishaq (Isaak)",
+        "Prophet Ismail (Ismael)",
+        "Prophet Yaqub (Jakob)",
+        "Prophet Yahya (Johannes)",
+        "Prophet Uzair (Ezra)"
+      ],
+      "answer": "Prophet Ishaq (Isaak)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Als Kind älterer Eltern geboren",
+        "Ins Feuer geworfen",
+        "Ein Königreich und Reichtum wurden ihm gegeben",
+        "Führte sein Volk aus Ägypten",
+        "Er baute eine Arche, um Gläubige zu retten"
+      ],
+      "answer": "Als Kind älterer Eltern geboren"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die frohe Botschaft eines Sohnes",
+        "Der brennende Dornbusch",
+        "Das goldene Kalb",
+        "Die Bundeslade",
+        "Der Stab der Prophetie"
+      ],
+      "answer": "Die frohe Botschaft eines Sohnes"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde ein Prophet aus einer Prophetenfamilie",
+        "Wurde ein reicher König",
+        "Sein Volk wurde wegen Unglaubens vernichtet.",
+        "Er wurde aus dem Feuer gerettet.",
+        "Ihm wurde bereits als Säugling die Fähigkeit zu sprechen verliehen."
+      ],
+      "answer": "Wurde ein Prophet aus einer Prophetenfamilie"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

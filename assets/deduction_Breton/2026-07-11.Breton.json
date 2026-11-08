@@ -1,0 +1,61 @@
+{
+  "title": "Beajourien ar park glas",
+  "intro": "En amzer gozh e veze daou zen o sellet ouzh an douaroù tost. Etrebroadel e oa o hentoù, met o c'halonoù a gase anezho war-du lec'hioù disheñvel-tre. Unan a gerzhe war an hent eeun, e-keit ma kerzhe egile e teñvalijenn an nac'hadenn. Ha gallout a rit dizoleiñ kevrin an daou gward-se eus an eost ?",
+  "clues": [
+    "Kalz eostoù am boa, eostoù pinvidik a skede daoulagad an arvesterien.",
+    "Ma amezeg en doa muioc'h a vadoù egedon, met c'hoantaet em eus o lod muioc'h eget ma hini.",
+    "Kinnig a ran distrujañ o eostoù penn-da-benn, evit kreñvaat pep tra dindan ma c'hontrol.",
+    "Distrujet em eus va eost va-unan ivez, o tistrujañ pep tra gant ma ijin sot.",
+    "Chom a raen hep sikour e-keit ma oa sec'het ma eostoù ha ma oa deuet ma pinvidigezh da vezañ poultr en ur nozvezh hepken.",
+    "N'em boa lod ebet en Afer, ha ma chomlec'h diwezhañ a zeuas da vezañ ur poull tan flamm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "An den en deus nac'het an adsavidigezh hag ar varnedigezh",
+        "Ar rener a waske al labourer-douar reizh",
+        "Ar perc'henn douar pinvidik a vanke dezhañ an anaoudegezh",
+        "Al labourer-douar a c'hoantae douaroù e nesañ",
+        "Ar c'hevread treitour en doa raktreset an distruj"
+      ],
+      "answer": "Al labourer-douar a c'hoantae douaroù e nesañ"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "An test da resev diskuliadur doueel",
+        "Defi ar pinvidigezh hag ar basianted",
+        "An temptadur da zistrujañ buhez un den reizh",
+        "Ar gourc'hemenn da rannañ an hêrezh en un doare reizh",
+        "Ar stourm a-enep gwaskerezh un tiran"
+      ],
+      "answer": "An temptadur da zistrujañ buhez un den reizh"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Liorzhoù glas ar baradoz",
+        "Daou dachenn eost tost",
+        "Ar menezioù o deus gwelet an distruj",
+        "Santual sakr Mekka",
+        "Ribloù stêrioù un douar benniget"
+      ],
+      "answer": "Daou dachenn eost tost"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Ar baradoz peurbadus evel gopr evit ar reizhder",
+        "Distruj klok an daou eost er vuhez-mañ",
+        "Divroañ ha vagañ betek ar marv",
+        "Pinvidigezh amzerel heuliet gant tan peurbadus",
+        "Un adkempenn burzhudus hag ur madelezh doublet"
+      ],
+      "answer": "Distruj klok an daou eost er vuhez-mañ"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

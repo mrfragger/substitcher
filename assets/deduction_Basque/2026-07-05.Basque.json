@@ -1,0 +1,61 @@
+{
+  "title": "Tronuaren Ekarri Azkarra",
+  "intro": "Agintari boteretsu baten gortean, eskaera ezinezkoa egin zen, eta askok lehiatu ziren beren balioa frogatzeko. Hala ere, zeregina jainkozko ezagutzarekin zuen lotura trebetasun fisiko guztiak gainditzen zituen norbaitek bakarrik bete zezakeen, mendeetan zehar oihartzuna izango zuen une bat agerian utziz.",
+  "clues": [
+    "Profeta ere bazen errege handi baten zerbitzura nengoen, eta haren zirkulu fidagarrienaren artean nengoen.",
+    "Ez nintzen suzko izaki bat edo indar fisiko handiko izaki bat, baina askoz boteretsuagoa zen zerbait nuen eskuetan.",
+    "Erregeak urrutiko lurralde batetik tronu bat ekartzeko eskatu zuenean, zehazki zer egin banekien.",
+    "Liburutik neukan ezagutzaz hitz egin nuen, eta inork erreakzionatu aurretik, tronua erregearen aurrean jarri zen.",
+    "Nire ekintza ez zen nire indarrez izan, benetako ezagutza Allahgandik bakarrik datorrelako frogapen bat baizik.",
+    "Ni naiz Sabako erreginaren tronua begi-keinu batean ekarri duena, An-Naml suran jasota dagoen bezala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Liburuaren ezagutza zuena",
+        "Ifrit jinn boteretsua",
+        "Sulaymaneko upupa txoria",
+        "Sulayman profeta",
+        "Sabako erregina"
+      ],
+      "answer": "Liburuaren ezagutza zuena"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Sabako erreginaren tronua keinu batean ekartzea",
+        "Itsaso Gorria israeldarrentzat zatitzea",
+        "Kaaba eraikitzen bere semearekin",
+        "Labe sutsuan bizirik irautea",
+        "Balearen sabeletik salbatua izatea"
+      ],
+      "answer": "Sabako erreginaren tronua keinu batean ekartzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Bilqisen tronua",
+        "Musaren langileak",
+        "Nuh-ren Arka",
+        "Namrud-eko sua.",
+        "Yunusen balea"
+      ],
+      "answer": "Bilqisen tronua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Tronua berehala agertu zen Sulaymanen aurrean esker oneko froga gisa.",
+        "Erreginak berehala besarkatu zuen Islama",
+        "Jinna porrot egiteagatik espetxeratu zuten",
+        "Sulaymanek bere erreinua utzi zuen",
+        "Tronua zatitan hautsi zen"
+      ],
+      "answer": "Tronua berehala agertu zen Sulaymanen aurrean esker oneko froga gisa."
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

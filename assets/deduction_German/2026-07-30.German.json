@@ -1,0 +1,61 @@
+{
+  "title": "Die seltsamen Besucher einer ummauerten Stadt",
+  "intro": "Eine Gruppe erreichte die Tore einer Stadt, deren Bewohner die Wahrheit nie gekannt hatten. Sie brachten eine Botschaft, doch die Einwohner reagierten feindselig und drohten mit Gewalt. Doch unerwartet erhob sich eine Stimme, um die Fremden zu verteidigen und damit den Grundstein für eine dramatische Wendung der Ereignisse zu legen.",
+  "clues": [
+    "Wir betraten eine Stadt, deren Bevölkerung von Ungläubigkeit erfasst war.",
+    "Sie blickten uns misstrauisch an und sagten: „Ihr seid doch nur gewöhnliche Wesen wie wir.“",
+    "Wir haben sie gewarnt, aber sie haben Steine ​​gegen uns erhoben.",
+    "Ein Mann eilte vom anderen Ende der Stadt herbei, um unsere Wahrheit zu bestätigen.",
+    "Er erklärte seinem Volk: „Warum sollte ich den nicht verehren, der mich erschaffen hat?“",
+    "Die Verleugnung der Stadt endete mit einer einzigen Explosion, und Stille herrschte dort, wo einst gejohlt wurde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Die Boten von Ya-Sin",
+        "Die Jünger von Jesa",
+        "Die Menschen des Schützengrabens",
+        "Die Magier des Pharao",
+        "Der Gläubige von Ya-Sin"
+      ],
+      "answer": "Die Boten von Ya-Sin"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Ablehnung und Androhung der Steinigung",
+        "In ein heftiges Feuer geworfen werden",
+        "Eine Geduldsprobe mit einem verlorenen Kind",
+        "Ein Garten, der Zerstörung erlitten hat",
+        "Eine Reise durch das Meer"
+      ],
+      "answer": "Ablehnung und Androhung der Steinigung"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das äußerste Ende der Stadt",
+        "Das Rote Meer",
+        "Der Feuergraben",
+        "Die Zufluchtshöhle",
+        "Das Gefängnis von Ägypten"
+      ],
+      "answer": "Das äußerste Ende der Stadt"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Die Stadt wurde durch einen einzigen Schrei zerstört.",
+        "Das Meer teilte sich und ertränkte das Heer",
+        "Das Feuer war abgekühlt und sicher.",
+        "Der Garten wurde von einem himmlischen Feuer verzehrt",
+        "Der Wal brachte die Person zurück ans Ufer"
+      ],
+      "answer": "Die Stadt wurde durch einen einzigen Schrei zerstört."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

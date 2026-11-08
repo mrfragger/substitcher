@@ -1,0 +1,61 @@
+{
+  "title": "Abantu Abaneqiniso BaseMakkah",
+  "intro": "Ezinsukwini zokuqala zesambulo, lapho isigijimi seqiniso sibhekene nokuphikiswa okukhulu, imiphefumulo ethile yema iqinile ekuqinisekeni kwayo. Laba bakholwa babhekana nonya olungenakucatshangwa oluvela kulabo ababefuna ukucima ukukhanya kokholo. Ukuhlupheka kwabo kwakunzima, ukuhlupheka kwabo kwakukhulu—kodwa izilimi zabo azizange ziyeke ukumemezela ubunye buka-Allah. Ngisho nalapho bephonswa ekujuleni kokuphelelwa yithemba, isivikelo saphezulu sabazungezile, siguqula ukuvivinywa kwabo kwaba ubufakazi bokholo baphakade. Ake sihlole uhambo lwale miphefumulo emangalisayo.",
+  "clues": [
+    "Savivinywa ngesijeziso esinzima ngokwenqaba ukulahla ukholo lwethu kuNkulunkulu oyedwa",
+    "Abantu bethu babengenakukwazi ukuphula isinqumo sethu, kungakhathaliseki ukuthi unya lwabo lwaba ludala kangakanani",
+    "Sasimiswa emthonjeni emini, kodwa usizo lukaNkulunkulu lwaluseduze njalo",
+    "Ukuqina kwethu kwamangaza ngisho nalabo ababona ukukhuthazela kwethu",
+    "Abaningi eMakkah bafuna ukusiphoqa ukuba sihoxe, kodwa sahlala siqinile",
+    "Lapho konke kubonakala sengathi kulahlekile, inkululeko yethu yafika ngokungenelela okumangalisayo kwaphezulu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UBilal al-Habashi",
+        "U-Ammar ibn Yasir",
+        "UMiqdad ibn al-Aswad",
+        "UKhabbab ibn al-Aratt",
+        "USalman al-Farsi"
+      ],
+      "answer": "UBilal al-Habashi"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Impi ngokumelene noMprofethi",
+        "Ukushushiswa ngenxa yokwenqaba ukukhonza izithombe",
+        "Ukuhlolwa kokholo mayelana nesigameko somlilo",
+        "Isivivinyo sohambo lwasebusuku oluhlukanisiwe",
+        "Ukuhlolwa kokubhujiswa kwengadi"
+      ],
+      "answer": "Ukushushiswa ngenxa yokwenqaba ukukhonza izithombe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Intaba yase-Uhud",
+        "Indawo engcwele yeKabah",
+        "Umthombo ka-Abu Sufyan",
+        "Isigodlo samaQuraysh",
+        "Idolobha laseMadina"
+      ],
+      "answer": "Umthombo ka-Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukunqoba empini enkulu",
+        "Ukukhululwa ngokungenelela kwaphezulu",
+        "Ukufela ukholo endleleni ka-Allah",
+        "Ukwamukelwa epharadesi ngqo",
+        "Ukuthuthela ezweni elibusisiwe"
+      ],
+      "answer": "Ukukhululwa ngokungenelela kwaphezulu"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

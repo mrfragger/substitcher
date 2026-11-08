@@ -1,0 +1,61 @@
+{
+  "title": "Ysbryd Dibynadwy'r Datguddiad",
+  "intro": "Yn y bydoedd anweledig, mae bod o olau pur yn symud yn fanwl gywir, gan gyflawni pob gorchymyn heb betruso. Mae'r ffigur hwn wedi siarad â gweision etholedig, wedi dod â geiriau canllaw, ac wedi gweld datblygiad gorchmynion dwyfol ar draws yr oesoedd. Pwy yw'r enaid anrhydeddus hwn?",
+  "clues": [
+    "Creawd o olau pur ydw i, wedi'i greu o olau, ac nid wyf erioed wedi anufuddhau i unrhyw orchymyn gan fy Arglwydd.",
+    "Rwy'n symud rhwng y nefoedd a'r ddaear, gan ddisgyn gyda dedfrydau'r Mwyaf Trugarog.",
+    "Anfonwyd fi at forwyn fonheddig yn y cysegr, gan gyhoeddi iddi fab pur.",
+    "Myfi yw ysbryd sancteiddrwydd, ac fe wnes i gefnogi proffwyd a gafodd arwyddion clir a'r Efengyl.",
+    "Deuthum i ogof ar fynydd i draddodi geiriau cyntaf adrodd a fyddai'n cael ei gadw am byth.",
+    "Myfi yw'r ysbryd dibynadwy, a myfi a ddaeth â'r Coran i lawr ar galon y negesydd olaf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "Angel y Farwolaeth",
+        "Malik (Ceidwad Uffern)",
+        "Harut (un o'r ddau angel ym Mabilon)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Cenhadaeth/Rôl Allweddol",
+      "options": [
+        "Cyflwyno datguddiad i'r proffwydi",
+        "Chwythu'r utgorn ar Ddydd y Farn",
+        "Gwarchod pyrth Uffern",
+        "Cofnodi gweithredoedd bodau dynol",
+        "Achosi i'r glaw ddisgyn"
+      ],
+      "answer": "Cyflwyno datguddiad i'r proffwydi"
+    },
+    "location": {
+      "label": "Priodoledd neu Deitl Allweddol",
+      "options": [
+        "Yr Ysbryd Glân (Ruh al-Qudus)",
+        "Ysbryd y Pŵer",
+        "Ysbryd Trugaredd",
+        "Ysbryd yr Arweiniad",
+        "Ysbryd y Gwirionedd"
+      ],
+      "answer": "Yr Ysbryd Glân (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Canlyniad y Genhadaeth",
+      "options": [
+        "Datgelwyd y Quran i'r Proffwyd Muhammad",
+        "Chwythwyd yr utgorn ar Ddydd y Farn",
+        "Roedd uffern wedi'i gwarchod a'i phyrth wedi'u cau",
+        "Cyflwynwyd Llyfr y Gweithredoedd i Allah",
+        "Anfonwyd y glaw i lawr i'r ddaear"
+      ],
+      "answer": "Datgelwyd y Quran i'r Proffwyd Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

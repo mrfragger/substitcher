@@ -1,0 +1,61 @@
+{
+  "title": "Narod, ki je kljuboval naravnemu redu",
+  "intro": "V regiji, katere zgodba odmeva skozi stoletja, je skupnost živela v odkritem uporu proti zakonom čistosti. Njihova dejanja so bila tako brez primere, da se jih spominjamo kot opozorilo za vse človeštvo. Kdo so bile te duše in kakšna usoda jih je doletela?",
+  "clues": [
+    "Bivali smo v deželi ob poti, po kateri so pogosto hodili popotniki, vendar smo njihovo potovanje naredili nevarno.",
+    "Zagrešili smo takšna nespodobna dejanja, ki jih še nihče na svetu ni storil.",
+    "Poslanec izmed nas nas je pozval, naj opustimo svoje poti, vendar smo ga zavrnili in zahtevali kazen, če je bil resnicoljuben.",
+    "Ko so v naše mesto prišli čedni gostje, smo jih poskušali napasti, ne da bi vedeli, da so glasniki uničenja.",
+    "Opozorjeni smo bili na strašno kazen, če ne bomo odnehali, vendar smo se posmehovali opozorilu in ostali v svojem grehu.",
+    "Dež kamenja je z neba padel na nas in naše hiše so bile podrte, ne da bi pustile sledi, razen znamenja za tiste, ki razmišljajo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Lutovi ljudje",
+        "Ljudje iz Thamuda",
+        "Ljudje iz A'ada",
+        "Ljudje iz Madyana",
+        "Ljudje iz Sabe"
+      ],
+      "answer": "Lutovi ljudje"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zagrešil je neprimerljivo nemoralnost in oviral ceste",
+        "Častil je zlato tele",
+        "Ubil je sveto kamelo",
+        "Goljufali so v trgovini in ljudem prikrajšali",
+        "Zgradil je vzvišen stolp, da bi izzval nebesa"
+      ],
+      "answer": "Zagrešil je neprimerljivo nemoralnost in oviral ceste"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Angeli, preoblečeni v čedne goste",
+        "Kamela, ki se dviga iz skale",
+        "Palica, ki se spremeni v kačo",
+        "Čoln, zgrajen na gori",
+        "Ogenj, ki je postal hladen in miren"
+      ],
+      "answer": "Angeli, preoblečeni v čedne goste"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Uničeno z dežjem kamenja z neba",
+        "Požrla ga je zemlja",
+        "Utopil se v veliki poplavi",
+        "Zadet od kričeče eksplozije",
+        "Preobrazili se v opice"
+      ],
+      "answer": "Uničeno z dežjem kamenja z neba"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

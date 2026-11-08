@@ -1,0 +1,61 @@
+{
+  "title": "An Choróin a Thug Dúshlán do na Spéartha",
+  "intro": "I gconairí na ríochtaí ársa, rinneadh comhfhocal de thíriúlacht agus uabhar rialóra amháin. Nuair a tháinig seirbhíseach umhal Allah agus comharthaí doshéanta aige, dhiúltaigh an flaitheas cumhachtach seo géilleadh don fhírinne. Inniu, is é an tasc atá agat ná an figiúr finscéalach seo a aithint a raibh a cheannas ag titim as a chéile agus a raibh a chinniúint séalaithe faoi na tonnta.",
+  "clues": [
+    "Is mise an rialóir is mó eagla a bhfuil a ainm fós le cloisteáil mar rabhadh trí na haoiseanna.",
+    "D’ordaigh mé do phobal iomlán saothrú i slabhraí, ag ardú séadchomharthaí a d’fhógair mo ghlóir.",
+    "Nuair a tháinig teachtaire ó Allah os mo chomhair le comharthaí doshéanta, dhiúltaigh mé umhlú agus thug mé draíocht air.",
+    "D’ordaigh mé marú naíonán mac i measc pobail a bhí i mbraighdeanas, ag súil go mbrisfinn a spiorad sula bhféadfaidís éirí.",
+    "Sheas mé os comhair mo chúirte agus d’fhógair mé, ‘Is mise bhur dtiarna is airde,’ ag éileamh adhradh mar dhia.",
+    "Le mo phríomh-aire in aice liom, thóg mé struchtúr ard a raibh sé mar aidhm aige dreapadh níos faide ná na flaithis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Faraó (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraó (Fir'awn)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An báthadh sa Mhuir Rua",
+        "An camall baineann a seoladh chuig muintir Thamud",
+        "An tuile mhór de Nuh",
+        "Pionós Chomrádaithe an Trinse",
+        "Scriosadh arm Abraha ag éin"
+      ],
+      "answer": "An báthadh sa Mhuir Rua"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An struchtúr ard a tógadh le Haman",
+        "An áirc a sheol ar an tuile",
+        "An lao órga a chum na Samiri",
+        "Ríchathaoir Bilqis, Banríon Sheba",
+        "Uaimh na n-ógánach ina gcodladh"
+      ],
+      "answer": "An struchtúr ard a tógadh le Haman"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Báite sa bhfarraige; corp caomhnaithe mar rabhadh",
+        "Deoraithe agus iallach orthu fánaíocht a dhéanamh san fhiántas",
+        "Claochlaithe ina n-apaí mar phionós",
+        "Buailte síos ag crith talún foréigneach",
+        "Dóite ag báisteach cloch ón spéir"
+      ],
+      "answer": "Báite sa bhfarraige; corp caomhnaithe mar rabhadh"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

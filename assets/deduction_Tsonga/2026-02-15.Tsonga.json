@@ -1,0 +1,61 @@
+{
+  "title": "Rito Ra Ku Tiyisela",
+  "intro": "Munhu loyi u tsundzukiwa hi vutlhari lebyikulu ni nkongomiso, a nyikela ndzayo leyi tlulaka tinxaka. Marito ya vona i vumbhoni bya ku chava Xikwembu na nkoka wo lemuka mikateko na miringo leyi humaka eka Vukwembu. Pfuxeta vumunhu bya moya-xiviri lowu lowu xiximiwaka.",
+  "clues": [
+    "A ndzi nga ri muprofeta, kambe vutlhari bya mina byi nga fi eka Matsalwa ya Vukwembu.",
+    "Xitsundzuxo xa mina eka n’wana wa mina a xi kandziyisa ku nkhensa Allah ni ku papalata ku shirk.",
+    "Ndzi dyondzise hi nkoka wa xikhongelo, ku lerisa leswinene ni ku yirisa leswo biha.",
+    "Ndzi tsundzuxe hi ku tikukumuxa ni ku famba hi ku tikukumuxa emisaveni.",
+    "Vito ra mina ri nyikiwile ndzima hinkwayo ya Quran, ri kandziyisa tidyondzo ta mina.",
+    "Xitsundzuxo xa mina a xi katsa ku lehisa mbilu eka maxangu, hikuva hakunene, sweswo swi huma eka timhaka leti tiyimiseleke swinene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Idris",
+        "Muprofeta Yahya",
+        "Luqman",
+        "Imran",
+        "Muprofeta Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Dyondzo/Nkongomiso wa Nkoka",
+      "options": [
+        "Ku aka ngalava",
+        "Ku langutana ni vuthu ra matimba",
+        "Ku nyika vutlhari ni switsundzuxo swa mahanyelo",
+        "Ku hlamusela milorho",
+        "Ku rhangela rixaka ku ya eku hluleni"
+      ],
+      "answer": "Ku nyika vutlhari ni switsundzuxo swa mahanyelo"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xihlahla lexi pfurhaka",
+        "Nhlampfi leyikulu",
+        "Ntshava yo karhi",
+        "Xitsundzuxo xa vutlhari eka n’wana",
+        "Xigodlho lexikulu"
+      ],
+      "answer": "Xitsundzuxo xa vutlhari eka n’wana"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U ve hosi",
+        "U nyikiwe vuprofeta",
+        "Vutlhari bya yena byi tsariwile eka Quran",
+        "U rhangele vanhu va yena etikweni lerintshwa",
+        "U nyikiwe rifuwo lerikulu swinene"
+      ],
+      "answer": "Vutlhari bya yena byi tsariwile eka Quran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

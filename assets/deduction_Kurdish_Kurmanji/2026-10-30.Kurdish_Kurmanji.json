@@ -1,0 +1,61 @@
+{
+  "title": "Nobeta Şînê",
+  "intro": "Tu li ber e ku rastî giyanekî werî ku bi veqetîna herî kûr hatiye ceribandin, çavên wî zimanê hêstiran dizanibin lê dilê wî qet hêviya wî winda nekiriye. Di çîrokeke xapandin, hesret û yekbûna dawî de, ev xizmetkarê hêja yê Xwedê bû sembola sebirê ji bo her demê. Kî bi salan êşa veşartî tehemûl kir, lê di kêliyekê de dîtin û kêfxweşiya wî vegeriya?",
+  "clues": [
+    "Ez pêxemberek im ku navê wî bûye sembola sebirê li hember windahiyên mezin.",
+    "Ez bi gelek kurên xwe bextewar bûm, lê yek ji wan ji ber çavnebariya yên din ji min hat standin.",
+    "Evîna min ji bo wî yê winda ewqas kûr bû ku çavên min ji xemgîniyê spî bûn, lê min ji bilî Xwedê gazind nekir.",
+    "Min kurên xwe şandin da ku li yê ku min winda kiribû û birayê wî bigerin, û ji wan rica kir ku hêviya xwe winda nekin.",
+    "Dema mizgînvan gihîşt, kiras li ser rûyê min hat rijandin û ji nişkê ve dinya dîsa zelal bû.",
+    "Ez bi navê Îsraîl têm nasîn, û ji diwanzdeh kurên min diwanzdeh eşîrên miletekî mezin derketine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Yaqûb (Yaqûb)",
+        "Pêxember Yûsif (Yûsif)",
+        "Pêxember Îshaq (Îshaq)",
+        "Pêxember Îbrahîm (Birahîm)",
+        "Pêxember Eyûb (Eyûb)"
+      ],
+      "answer": "Pêxember Yaqûb (Yaqûb)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Veqetandina ji kurê hezkirî ji bo gelek salan",
+        "Têne avêtin nav agirê geş",
+        "Ji aliyê masiyek mezin ve hat daqurtandin",
+        "Bi nexweşiyeke giran a çerm ketiye",
+        "Bêzarok bimînim heta pîrbûnê"
+      ],
+      "answer": "Veqetandina ji kurê hezkirî ji bo gelek salan"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kirasê Yusuf",
+        "Karmendên Mûsa",
+        "Keştiya Nûh",
+        "Deveya Salih",
+        "Zengila Silêman"
+      ],
+      "answer": "Kirasê Yusuf"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Çavê wî vegeriya û bi kurê xwe re vegeriya",
+        "Serkeftin li ser padîşahê zalim hat dayîn",
+        "Zindî ber bi asîmanan ve hat hildan",
+        "Wekî serwerê Misrê hat tayînkirin",
+        "Di pîrbûnê de wekî mûcîzeyekê kurek hat dayîn"
+      ],
+      "answer": "Çavê wî vegeriya û bi kurê xwe re vegeriya"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

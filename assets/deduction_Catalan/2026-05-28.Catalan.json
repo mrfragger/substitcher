@@ -1,0 +1,61 @@
+{
+  "title": "El pacient inquebrantable",
+  "intro": "En els annals de la història profètica, pocs han suportat una pèrdua tan profunda i una aflicció física amb una fe inquebrantable. La història d'aquest personatge és una lliçó eterna de paciència i confiança en la saviesa divina. Qui és aquesta ànima?",
+  "clues": [
+    "Vaig ser escollit per Al·là per transmetre un missatge, però la meva prova més gran no va arribar a través del rebuig, sinó a través d'una calamitat personal.",
+    "Em van prendre la meva riquesa, el meu bestiar i els meus fills, un rere l'altre.",
+    "Tenia el cos cobert de nafres i em vaig quedar sola excepte pel suport de la meva esposa.",
+    "Vaig clamar al meu Senyor, reconeixent el meu sofriment i demanant la seva misericòrdia.",
+    "Em van ordenar que colpegés a terra amb el peu, i va brollar una font refrescant.",
+    "Al·là em va restaurar la salut i em va donar una nova família i encara més riquesa de la que tenia abans."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Ayyub",
+        "Profeta Ibrahim",
+        "Profeta Musa",
+        "Profeta Isa",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Pèrdua de riquesa i família",
+        "Ser llançat al foc",
+        "Ser engolit per un peix",
+        "Separats de la família i venuts com a esclaus",
+        "Sent provat amb un vedell d'or"
+      ],
+      "answer": "Pèrdua de riquesa i família"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una font d'aigua",
+        "Un bastó que es va convertir en una serp",
+        "Una arca de fusta",
+        "Un vedell fos",
+        "Una palmera"
+      ],
+      "answer": "Una font d'aigua"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Restauració de la família i la riquesa",
+        "Ascensió al cel",
+        "Convertir-se en rei",
+        "Ser salvat d'una balena",
+        "Rebre un fill a la vellesa"
+      ],
+      "answer": "Restauració de la família i la riquesa"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

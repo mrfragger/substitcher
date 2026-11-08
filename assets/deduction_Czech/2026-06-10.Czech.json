@@ -1,0 +1,61 @@
+{
+  "title": "Strážci zahrady",
+  "intro": "V bujné zahradě složila komunita slavnostní slib. Jejich odhodlání však bylo prověřeno, když zasáhla božská vůle a proměnila jejich štědrost v neúrodnou zemi.",
+  "clues": [
+    "Byli jsme požehnáni hojnou zahradou, ale stali jsme se arogantními.",
+    "Naplánovali jsme si sklizeň, aniž bychom se o ni dělili s chudými.",
+    "Vyrazili jsme brzy ráno, plní důvěry v náš plán.",
+    "Ale když jsme dorazili, zjistili jsme, že naše zahrada byla přes noc zničená.",
+    "Uvědomili jsme si svou chybu a začali jsme se navzájem vinit.",
+    "Nakonec jsme činili pokání, ale ponaučení jsme si osvojili příliš pozdě."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Lidé ze zahrady",
+        "Lidé z jeskyně",
+        "Lidé slona",
+        "Lidé z Thamudu",
+        "Lidé z 'Ad"
+      ],
+      "answer": "Lidé ze zahrady"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Zahrada proměněná v popel",
+        "Povodeň, která zničila všechno",
+        "Hladomor, který zasáhl zemi",
+        "Útočí armáda ptáků",
+        "Silný vítr, který vyvracel stromy"
+      ],
+      "answer": "Zahrada proměněná v popel"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zahrada",
+        "Jeskyně",
+        "Loď",
+        "Hora",
+        "Palác"
+      ],
+      "answer": "Zahrada"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Činili pokání, ale přišli o svou zahradu",
+        "Byly úplně zničeny",
+        "Byli proměněni v opice",
+        "Byli spaseni vírou",
+        "Stali se vládci"
+      ],
+      "answer": "Činili pokání, ale přišli o svou zahradu"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

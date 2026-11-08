@@ -1,0 +1,61 @@
+{
+  "title": "O primeiro sangue derramado por inveja.",
+  "intro": "Imagine os primórdios da humanidade, quando o mundo inteiro era uma só família. Você observa duas oferendas sendo colocadas diante de Alá — uma aceita, a outra rejeitada. A inveja se instala em um coração, e uma ameaça é sussurrada em meio à raiva. O que se segue deixará uma marca na história para sempre, e até mesmo um pequeno pássaro se tornará um mestre.",
+  "clues": [
+    "Eu pertenço à primeira família da Terra.",
+    "Apresentei uma oferenda a Alá, mas a minha não foi aceita, enquanto a outra foi.",
+    "Falei movido pela inveja e ameacei tirar uma vida.",
+    "Cometi o primeiro assassinato injusto na Terra.",
+    "Vi um corvo arranhando o chão para me mostrar como esconder um corpo.",
+    "Fiquei cheio de arrependimento e me tornei um dos perdedores pelo que minhas mãos fizeram."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Caim (Qabil), filho de Adão",
+        "Samiri, o fabricante do bezerro",
+        "Namrud, o tirano que discutiu com Ibrahim.",
+        "Azar, o fabricante de ídolos",
+        "Canã, o filho afogado de Noé"
+      ],
+      "answer": "Caim (Qabil), filho de Adão"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Assassinato de um irmão por inveja após oferta rejeitada",
+        "Construir uma torre imponente para contemplar os céus",
+        "Confeccionando um bezerro de ouro para adoração.",
+        "Exigindo uma mesa posta dos céus",
+        "Liderando um exército de elefantes para destruir a Caaba."
+      ],
+      "answer": "Assassinato de um irmão por inveja após oferta rejeitada"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Um corvo arranhando a terra para indicar um enterro.",
+        "Um bezerro de ouro que mugia",
+        "Uma grande arca sobre as águas da enchente",
+        "Um cajado que se transformou em serpente.",
+        "Uma mesa farta com comida dos céus"
+      ],
+      "answer": "Um corvo arranhando a terra para indicar um enterro."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Sentiu remorso e ficou entre os perdedores.",
+        "Foi afogado na grande enchente.",
+        "Foi engolido pela terra com seu tesouro.",
+        "Sofreu de lepra durante sete anos.",
+        "Foi-lhe concedido um reino com controle sobre os ventos."
+      ],
+      "answer": "Sentiu remorso e ficou entre os perdedores."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

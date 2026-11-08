@@ -1,0 +1,61 @@
+{
+  "title": "A Comunidade da Primeira Transgressão",
+  "intro": "Na terra das cidades antigas, um povo outrora prosperou. Um mensageiro os visitou com um chamado claro, mas eles se afastaram e seguiram um caminho jamais trilhado. Sua história é de desafio, depravação e punição, deixando sua terra natal como um sinal para todos que refletem. Quem são essas almas?",
+  "clues": [
+    "Vivíamos em cidades da planície, onde nosso profeta nos chamava à justiça.",
+    "Fomos os primeiros a cometer uma indecência que ninguém em todo o mundo jamais havia cometido antes.",
+    "Emboscávamos viajantes e cometíamos atrocidades abertamente em nossas reuniões.",
+    "Rejeitamos o mensageiro que nos foi enviado e ameaçamos expulsá-lo de nossa terra.",
+    "Corremos para a casa dele exigindo que nos entregasse os seus convidados.",
+    "Nosso castigo foi uma chuva de pedras, e nossa cidade foi virada de cabeça para baixo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Povo de Lut",
+        "Povo de Noé",
+        "Pessoas de 'Ad",
+        "Povo de Thamud",
+        "Povo de Madyan"
+      ],
+      "answer": "Povo de Lut"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Cometeu o primeiro ato de sodomia",
+        "Ídolos adorados",
+        "Enganado na negociação",
+        "Mataram o profeta deles.",
+        "Desobedeceram aos pais."
+      ],
+      "answer": "Cometeu o primeiro ato de sodomia"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A cidade da planície",
+        "A cidade do poço",
+        "A cidade da vala",
+        "A cidade do elefante",
+        "A cidade do jardim"
+      ],
+      "answer": "A cidade da planície"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Choveu com pedras e virou tudo.",
+        "Afogado por uma enchente",
+        "Destruído por um vento violento",
+        "Engolido pela terra",
+        "Atingido por uma forte explosão"
+      ],
+      "answer": "Choveu com pedras e virou tudo."
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

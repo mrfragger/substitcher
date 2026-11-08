@@ -1,0 +1,61 @@
+{
+  "title": "The Unwavering Ally in a Trial of Gold",
+  "intro": "In the shadow of a great prophet, a soul of eloquence and faith was chosen to assist in a monumental mission. This figure stood firm when the masses wavered, preaching against a glaring transgression that threatened the very core of monotheism. When the prophet returned to witness the people's lapse, this figure's defense was not one of guilt but of duty and fear of division. Who is this devoted servant of Allah?",
+  "clues": [
+    "I was chosen by Allah for a sacred duty alongside another, and my role was one of support and proclamation.",
+    "I was granted clarity of speech, and I accompanied a messenger to confront a powerful oppressor.",
+    "During a critical journey, the messenger ascended a mountain alone, leaving me to watch over the people.",
+    "In their absence, the people crafted a golden image, and I pleaded with them to remain faithful, but they refused my counsel.",
+    "When the messenger returned, filled with anger and grief, I was seized, but I explained that I had been overpowered and feared causing discord among them.",
+    "I am the prophet who stood beside Musa, my brother, sharing his burden and remaining steadfast against idolatry."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Harun",
+        "Prophet Musa",
+        "Prophet Isa",
+        "Prophet Dawud",
+        "Prophet Zakariyya"
+      ],
+      "answer": "Prophet Harun"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "People worshipped a golden calf despite warnings",
+        "People threw me into a blazing fire",
+        "I was swallowed by a great fish",
+        "I was imprisoned on false charges",
+        "I was exiled from my city for preaching"
+      ],
+      "answer": "People worshipped a golden calf despite warnings"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The Golden Calf",
+        "The Burning Bush",
+        "The Staff that turned into a serpent",
+        "The Tablets of the Covenant",
+        "The Ark of the Covenant"
+      ],
+      "answer": "The Golden Calf"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "I was exonerated and continued my prophetic mission",
+        "I was punished for the people's sin",
+        "I was given a new nation to guide",
+        "I was taken up to heaven alive",
+        "I was made a ruler over a kingdom"
+      ],
+      "answer": "I was exonerated and continued my prophetic mission"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

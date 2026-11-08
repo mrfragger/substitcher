@@ -1,0 +1,61 @@
+{
+  "title": "Người cai quản ngọn lửa bất diệt",
+  "intro": "Một bóng người đứng sừng sững ở ngưỡng cửa nơi đáng sợ nhất trong thế giới vô hình, được giao phó một nhiệm vụ mà không một sinh vật nào khác muốn gánh vác. Khi những linh hồn đau khổ kêu than xin lòng thương xót, một tiếng đáp trả nghiêm khắc vang vọng khắp những căn phòng lửa. Liệu bạn có thể khám phá ra danh tính của vị thần hộ mệnh vĩnh hằng này?",
+  "clues": [
+    "Tôi đang đứng trước lối vào một nơi trừng phạt kinh hoàng nằm ở thế giới vô hình.",
+    "Ngọn lửa rực cháy, không bao giờ tắt, chính là trọng tâm của nhiệm vụ thiêng liêng của tôi.",
+    "Những linh hồn đau khổ gọi tên tôi, cầu xin được giải thoát khỏi sự giày vò vô tận của họ.",
+    "Khi chúng van xin, ta tuyên bố rằng chúng sẽ không bao giờ được rời đi.",
+    "Tôi không phải con người, cũng không phải thần linh — tôi là một sinh vật được tạo ra với lòng vâng phục tuyệt đối.",
+    "Ta là thiên thần tối cao được bổ nhiệm làm người canh giữ vĩnh cửu của Hỏa ngục."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Những người ở Địa ngục cầu xin chấm dứt sự hành hạ của họ.",
+        "Tiếng kèn được thổi lên để báo hiệu Ngày Phán Xét.",
+        "Kinh Qur'an được mặc khải đến trái tim của Nhà tiên tri.",
+        "Một vị tiên tri bị chính dân tộc mình ném vào ngọn lửa lớn.",
+        "Một bức tường hùng vĩ được xây dựng để ngăn chặn một quốc gia tham nhũng."
+      ],
+      "answer": "Những người ở Địa ngục cầu xin chấm dứt sự hành hạ của họ."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Hỏa ngục (Jahannam)",
+        "Cây sen ở ranh giới của Thiên đường",
+        "Tiếng kèn chói tai",
+        "Một cây gậy có thể biến hình thành rắn.",
+        "Một ngai vàng thần thánh tráng lệ"
+      ],
+      "answer": "Hỏa ngục (Jahannam)"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Những người ở Địa ngục được cho biết họ sẽ ở đó vĩnh viễn.",
+        "Những người ở địa ngục được tha thứ và phóng thích.",
+        "Những người ở Địa ngục được ban cho cơ hội thứ hai để tìm lại đức tin.",
+        "Những người sống ở Địa ngục được chuyển đến một nơi mát mẻ.",
+        "Cư dân địa ngục bị tiêu diệt hoàn toàn bởi một tia sét."
+      ],
+      "answer": "Những người ở Địa ngục được cho biết họ sẽ ở đó vĩnh viễn."
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

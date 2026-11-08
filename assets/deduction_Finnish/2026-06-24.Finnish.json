@@ -1,0 +1,61 @@
+{
+  "title": "Sammumattoman liekin vartija",
+  "intro": "Hahmo seisoo näkymättömän pelätyimmän paikan kynnyksellä, jolle on uskottu velvollisuus, jota kukaan muu ei halua. Kun kärsivät sielut huutavat armoa, ankara vastaus kaikuu tulisissa kammioissa. Pystytkö paljastamaan tämän ikuisen suojelijan henkilöllisyyden?",
+  "clues": [
+    "Seison kauhistuttavan, näkymättömän rangaistuksen paikan portilla.",
+    "Liekehtivä, sammumaton tuli on juhlallisen velvollisuuteni keskipiste.",
+    "Kärsivät sielut huutavat nimeäni ja anelevat helpotusta loputtomaan tuskaansa.",
+    "Kun he anelevat, julistan, etteivät he koskaan lähde.",
+    "En ole ihminen enkä džinni – olen puhtaasti kuuliainen luotu olento.",
+    "Olen pääenkeli, joka on nimitetty Helvetin tulen ikuiseksi vartijaksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Helvetin asukkaat anovat piinansa loppua",
+        "Trumpettiin puhalletaan tuomiopäivän merkiksi",
+        "Koraani paljastetaan profeetan sydämelle",
+        "Profeetta heitetään kansansa toimesta suureen tuleen",
+        "Mahtava muuri rakennetaan turmeltuneen kansakunnan hillitsemiseksi"
+      ],
+      "answer": "Helvetin asukkaat anovat piinansa loppua"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Helvetin tuli (Jahannam)",
+        "Lootuspuu paratiisin rajalla",
+        "Lävistävä trumpetti",
+        "Sauva, joka muuttuu käärmeeksi",
+        "Upea jumalallinen valtaistuin"
+      ],
+      "answer": "Helvetin tuli (Jahannam)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Helvetin asukkaille kerrotaan, että he pysyvät siellä ikuisesti",
+        "Helvetin asukkaat saavat anteeksi ja vapautetaan",
+        "Helvetin asukkaille annetaan toinen mahdollisuus uskoon",
+        "Helvetin asukkaat siirretään viileään paikkaan",
+        "Helvetin asukkaat tuhoutuvat täysin ukkoseniskun seurauksena"
+      ],
+      "answer": "Helvetin asukkaille kerrotaan, että he pysyvät siellä ikuisesti"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

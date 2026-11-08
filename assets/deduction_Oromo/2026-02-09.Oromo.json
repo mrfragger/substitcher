@@ -1,0 +1,60 @@
+{
+  "title": "Qormaata Dambalii Jala Jiru",
+  "intro": "Raajiin tokko ergama isaatiin ba’aa ta’ee, murtoo saba isaa irraa fageessuu fi qormaata hin eegamne keessa isa geessu murteesse. Imalli isaa jijjiirama guddaa kan fudhate yoo ta’u, amantii fi obsa isaa karaa hunda caalaa gadi fagoo ta’een qoreera. Bal’ina taatee addaa kanaa ragaalee kennaman irraa hubachuu dandeessaa?",
+  "clues": [
+    "Raajiin tokko ummata tokkotti ergame, garuu diduu isaaniitiin mufannaa itti dhaga’amee ariitiin ba’e.",
+    "Imalli isaa gara galaanaatti kan isa geesse siʼa taʼu, achitti doonii feʼumsa guddaa qabdu yaabbatee karaa barbaadaa deeme.",
+    "Obomboleettiin guddaan ka’ee doonicha balaadhaaf saaxilee, fe’umsa salphisuuf nama tokko galaana irratti darbachuuf murtoon godhame, kunis carraadhaan murtaa’e.",
+    "Inni uumama gadi fagoo, taatee dinqii fedha Waaqaatiin murtaa’een liqimfame.",
+    "Daangaa garaa uumama sanaa keessatti towbaa fi dukkana keessatti Rabbiin ulfina godhee Rabbii isaatti iyye.",
+    "Yeroodhaaf kadhannaa cimaa erga godhee booda, qarqara galaanaa lafa hin qabne, dadhabaa taʼus lubbuun jirutti gatamee, boodarra deebiʼee sabni isaa dhumarratti akka amanan arge."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nabi/Nama",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Luut",
+        "Nabi Muusaa",
+        "Nabi Yunus",
+        "Nabi Yuusuf"
+      ],
+      "answer": "Nabi Yunus"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Lolaa Nuh",
+        "Badiisa Sodoom",
+        "Imala garaa qurxummii guddaa keessa",
+        "Gargar bahuun galaanaa",
+        "Mul'ata bosona gubaa jiru"
+      ],
+      "answer": "Imala garaa qurxummii guddaa keessa"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Taabota",
+        "Tulluu Siinaa",
+        "Ulee Muusaa",
+        "Qurxummii Guddaa",
+        "Boolla Yuusuf"
+      ],
+      "answer": "Qurxummii Guddaa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Kakuu haaraa dhala namaa wajjin",
+        "Dhaloota dinqii saba isaatiif",
+        "Mootummaa hidda dhaloota isaatiif hundeeffame",
+        "Ummata isaa isa sana booda amane sanatti deebi'uu",
+        "Injifannoo bulchaa abbaa irree irratti"
+      ],
+      "answer": "Ummata isaa isa sana booda amane sanatti deebi'uu"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

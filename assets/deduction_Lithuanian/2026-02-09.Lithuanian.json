@@ -1,0 +1,60 @@
+{
+  "title": "Išbandymas po bangomis",
+  "intro": "Pranašas, prislėgtas savo misijos, priėmė sprendimą, kuris nuvedė jį toli nuo savo žmonių ir į netikėtą išbandymą. Jo kelionė pasisuko dramatiškai, giliausiai išbandydama jo tikėjimą ir kantrybę. Ar galite iš pateiktų užuominų suprasti šio nepaprasto įvykio detales?",
+  "clues": [
+    "Pranašas buvo pasiųstas pas žmones, bet išvyko skubiai, jausdamas nusivylimą dėl jų atstūmimo.",
+    "Jo kelionė nuvedė jį prie jūros, kur jis įsėdo į sunkiai pakrautą laivą, ieškantį galimybės plaukti.",
+    "Kilo didelė audra, grasinusi laivui, ir burtų keliu buvo nuspręsta vieną žmogų išmesti už borto, kad palengvintų krovinį.",
+    "Jį prarijo gelmių padaras – stebuklingas įvykis, nulemtas dieviškos valios.",
+    "Būtybės pilve jis šaukėsi savo Viešpaties, atgailaudamas ir šlovindamas Alachą tamsoje.",
+    "Po ilgų maldų jis buvo išmestas į nederlingą krantą, silpnas, bet gyvas, ir vėliau grįžęs pamatė, kad jo žmonės pagaliau įtikėjo."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Pranašas/Asmuo",
+      "options": [
+        "Pranašas Nuh",
+        "Pranašas Lutas",
+        "Pranašas Musa",
+        "Pranašas Junusas",
+        "Pranašas Jusufas"
+      ],
+      "answer": "Pranašas Junusas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Nuho potvynis",
+        "Sodomos sunaikinimas",
+        "Kelionė didžiosios žuvies pilve",
+        "Jūros padalijimas",
+        "Degančio krūmo apreiškimas"
+      ],
+      "answer": "Kelionė didžiosios žuvies pilve"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Sinajaus kalnas",
+        "Musos personalas",
+        "Didžioji žuvis",
+        "Jusufo šulinys"
+      ],
+      "answer": "Didžioji žuvis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nauja sandora su žmonija",
+        "Stebuklingas jo tautos gimimas",
+        "Jo giminei įkurta karalystė",
+        "Sugrįžimas pas savo žmones, kurie tada tikėjo",
+        "Pergalė prieš tironišką valdovą"
+      ],
+      "answer": "Sugrįžimas pas savo žmones, kurie tada tikėjo"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

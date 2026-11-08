@@ -1,0 +1,61 @@
+{
+  "title": "Díbeartha na bhFlaitheas",
+  "intro": "Seasann créatúr mistéireach ag crosbhóthar na cruthaithe agus an diúltaithe. Is scéal é a scéal faoi uabhar gan sárú agus faoi shárú deiridh ordaithe diaga. Macallaíonn a rogha trí gach glúin, ag éirí ina thástáil do gach anam a bheirtear ar an saol seo. An féidir leat an namhaid síoraí seo a aithint?",
+  "clues": [
+    "Bhí mé i láthair ag ócáid ​​a raibh tábhacht chosmach léi, nuair a cruthaíodh créatúr nua as cré agus a tugadh beatha dó ag Anáil an Trócaire.",
+    "Tugadh mise féin ar an saol ó aon dúil lasrach amháin, murab ionann agus an créatúr deannaigh sin.",
+    "Eisíodh ordú dom a mheas mé a bheith faoi bhun mo stádais.",
+    "Líonadh an bród ionam, agus dhiúltaigh mé go daingean géilleadh don ordú sin.",
+    "Moill go dtí go ndeonófaí Lá ceaptha dom, ionas go bhféadfainn mo chuspóir dearbhaithe a leanúint maidir le daoine eile a chur amú.",
+    "Is mise namhaid dearbhaithe gach duine a shiúlann an domhan, ag cogarnaigh meabhlaireachta agus á mealladh ón gcosán díreach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Iblis (Sátan)",
+        "Faraó (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Sátan)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Dhiúltaigh sé umhlú os comhair Ádhaimh",
+        "D'éiligh diagacht go bréagach",
+        "Rinne lao órga a ghaibhniú le haghaidh adhartha",
+        "Mharaigh sé a dheartháir as éad",
+        "Bhí sé i gceannas ar an bhfreasúra il-dhiach i Mecca"
+      ],
+      "answer": "Dhiúltaigh sé umhlú os comhair Ádhaimh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Parthas (Jannah)",
+        "Pálás an Pharaoh san Éigipt",
+        "Gleann naofa Tuwa",
+        "Doimhneacht na farraige",
+        "Gairdín Sheba"
+      ],
+      "answer": "Parthas (Jannah)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Faoiseamh tugtha go dtí Lá an Bhreithiúnais",
+        "Báite in éineacht leis an arm sa bhfarraige",
+        "Slogtha ag an talamh mar aon le seoda",
+        "Claochlaithe ina n-apaí as an tSabóid a shárú",
+        "Dóite ag clocha a caitheadh ​​ón spéir"
+      ],
+      "answer": "Faoiseamh tugtha go dtí Lá an Bhreithiúnais"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

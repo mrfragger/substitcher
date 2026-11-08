@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Elaphonsela Inselele Ukubusa Kwesithombe",
+  "intro": "Phakathi kwezithunywa zikaSomandla kwakukhona inceku eqotho eyavuka phakathi kwesizwe esilukhuni ukuze ilethe iqiniso. Abantu babo base bethathe unkulunkulu oqanjiwe, befulathela uMdali wakho konke okukhona. Ngesinqumo esiqinile, lo muntu wababiza ukuba babuyele emuva - kodwa umyalezo wahlangatshezwa ukwenqatshwa nokwenqatshwa. Ngena ezinkombeni ukuze uthole ukuthi ubani le nceku ezinikele.",
+  "clues": [
+    "Ngathunyelwa njengesithunywa kubantu abanenkani ababephambuke kude nendlela eqondile.",
+    "Ngize ukuzokhumbuza isizwe sami ngaLowo owadala konke okukhona — umdali omuhle kunabo bonke.",
+    "Abantu bami babephendukele esithombeni samanga ababesihlonipha futhi besibiza imini nobusuku.",
+    "Ngabaphonsela inselelo ngesibindi, ngibabuza ukuthi kungani bezokhulekela unkulunkulu oqanjiwe bese beshiya iNkosi yabo yeqiniso.",
+    "Bangiphikile, benqaba ukulalela, futhi babambelela emangeni abo — kodwa iNkosi yami yangilondoloza.",
+    "Ngingu-Ilyas — futhi ukuthula kwanikwa phezu kwami, futhi ngabalwa phakathi kwezinceku ezikholwayo zoMuntu Onomusa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Ilyas",
+        "Umprofethi u-Idris",
+        "Umprofethi u-Alyasa",
+        "Umprofethi uDhul-Kifl",
+        "Umprofethi uNuh"
+      ],
+      "answer": "Umprofethi u-Ilyas"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukubiza abantu ukuba basuke ekukhulekeleni uBhali",
+        "Ukubhekana nombusi owayethi ungunkulunkulu",
+        "Isexwayiso kubantu mayelana nozamcolo ozayo",
+        "Ukuphonswa emlilweni omkhulu ovuthayo",
+        "Ukuhola ufuduko ezweni lobugqila"
+      ],
+      "answer": "Ukubiza abantu ukuba basuke ekukhulekeleni uBhali"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isithixo esibizwa ngokuthi uBhali",
+        "Umkhumbi omkhulu owakhiwe ngokhuni oluqinile",
+        "Intonga eyahlukanisa ulwandle olukhulu",
+        "Ingubo engcwele egcotshwe ngegazi",
+        "Isihlahla esivuthayo entabeni engcwele"
+      ],
+      "answer": "Isithixo esibizwa ngokuthi uBhali"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukuthula kunikezwe futhi kubalwa phakathi kwezinceku ezikhethiwe zika-Allah",
+        "Baholelwa epharadesi kuyilapho bonke abanye bebhujiswa",
+        "Ngisindiswe emlilweni omkhulu owaba pholile futhi waphephile",
+        "Unikezwe ubukhosi phezu kwama-jinn, isintu, nomoya",
+        "Umzimba ugcinwe njengophawu oluhlala njalo iminyaka eminingi"
+      ],
+      "answer": "Ukuthula kunikezwe futhi kubalwa phakathi kwezinceku ezikhethiwe zika-Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

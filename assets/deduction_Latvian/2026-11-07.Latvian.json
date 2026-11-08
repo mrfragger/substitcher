@@ -1,0 +1,61 @@
+{
+  "title": "zvaigžņu apspīdēta pārliecības meklēšana",
+  "intro": "Iztēlojieties sevi stāvam zem plašām nakts debesīm, vērojot spožas gaismas uzlecam un tad izgaistam, meklējot to, kas patiesi ir pelnījis pielūgsmi. Apkārt klusi cirsti tēli saņem slavu un upurus, tomēr skaidrs saprāts apšauba to spēku. Bezbailīga balss gatavojas apstrīdēt mantotās tradīcijas un norādīt uz debesu un zemes Radītāju.",
+  "clues": [
+    "Es paskatījos uz zvaigznēm, mēnesi un sauli un nodomāju, ka tie nevar būt mans Kungs, jo tie noriet un pazūd.",
+    "Es atklāti noliedzu to, ko mani cilvēki pielūdza bez Allāha, un aicināju viņus pielūgt tikai Radītāju.",
+    "Es debatēju ar lielīgu valdnieku, kurš apgalvoja, ka dod dzīvību un nāvi, un atbildēju, pieminot Allāhu, ka viņš nes sauli no austrumiem.",
+    "Es satriecu elkus un satricināju tos, atstājot tikai lielākos no tiem, lai ļaudis varētu pie tiem atgriezties.",
+    "Mani sagrāba un nosodīja mani ļaudis, kas teica, lai uzceļu ēku un iemetu mani liesmojošā ugunī.",
+    "Es tiku izglābts, kad Allāhs pavēlēja ugunij būt par vēsumu un drošību man."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Ibrahims (Ābrahāms)",
+        "Pravietis Jahja (Jānis)",
+        "Pravietis Al-Jasa (Elīsa)",
+        "Samiri",
+        "Namruds (Nimrods)"
+      ],
+      "answer": "Pravietis Ibrahims (Ābrahāms)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Konfrontējās ar elku pielūgsmi un diskutēja par debess ķermeņu nozīmi",
+        "Pēc dusmām aiziešanas viņu norijusi liela zivs",
+        "Vadīja sekotājus caur jūru, ko Allāhs pāršķēla",
+        "Tika dzīvs augšāmcelts debesīs, nepieredzējis nāvi",
+        "Daudzus gadus gulēja alā ar biedriem"
+      ],
+      "answer": "Konfrontējās ar elku pielūgsmi un diskutēja par debess ķermeņu nozīmi"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Liesmojoša uguns, ko Allahs padarījis vēsu un drošu",
+        "Šķirsts, kas iznesa ticīgos cauri plūdiem",
+        "Personāla daļa, kas pārvērtās par čūsku",
+        "Galds tika klāts no debesīm",
+        "Kamielis sūtīts kā zīme"
+      ],
+      "answer": "Liesmojoša uguns, ko Allahs padarījis vēsu un drošu"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Aizsargāts no uguns un piešķirts taisnīgiem pēcnācējiem",
+        "Noslīka kopā ar noliedzējiem lielos plūdos",
+        "Pārveidots par sabata pārkāpšanu",
+        "Iznīcinājuši putni, kas nes māla akmeņus",
+        "Zeme aprijusi dārgumus"
+      ],
+      "answer": "Aizsargāts no uguns un piešķirts taisnīgiem pēcnācējiem"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

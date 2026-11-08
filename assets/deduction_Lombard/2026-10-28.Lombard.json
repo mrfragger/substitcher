@@ -1,0 +1,61 @@
+{
+  "title": "Una promessa parlada süi bras",
+  "intro": "Te ste visin a un fœg del desert menter i sò brasi se spantegan cun atenziun. I visitador a i ruven par un incontro ind ella quiete e un sol messaj ‘l derva una storia de promessa, sorpresa e un futur qe ‘l é minga anc’mò compiud.",
+  "clues": [
+    "G’hem traversà la distanza per rivà a un servitur fedel in del desert.",
+    "G’hem dumandà de spantegà i brasi per preparà un fööch.",
+    "G’hem parlà cun vun che g’haveva ciamà una flama per fresc e sicureza.",
+    "G’hem purtà la notizia de un neonato a quaivun che l’era superà l’età de avegh di fiœui.",
+    "G’hem ciamà el fiœl prometü Isaac.",
+    "G’hem purtà una bona notizia de un fiœul a Ibrahim, e la notizia stupente l’ha lassà Ibrahim a rìder."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "I angel che g’han purtà la bona nutizia de Isaac a Ibrahim",
+        "I angel che g’han avvertì Lut",
+        "I angel che portan el tron",
+        "I angel del infern",
+        "I angel mandà a Noè"
+      ],
+      "answer": "I angel che g’han purtà la bona nutizia de Isaac a Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Purtà la bona notizia de la nassita de Isaac a Ibrahim",
+        "Avvertir Lut prima de la puniziun del sò popul",
+        "Anunciand la nassita de Yahya a Zakariyya",
+        "Portar el Tron in del Dì del Giudizi",
+        "Anunciand la nassita de Isa a Maryam"
+      ],
+      "answer": "Purtà la bona notizia de la nassita de Isaac a Ibrahim"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un fœg preparad de brase spantegade",
+        "Un'arca che gallegia sü l'aqua d'inondaziun",
+        "Una caverna sigillada da una pedra rullada",
+        "Una muntagna de argila indurida de salmura",
+        "Una scala che se slarga in del ciel"
+      ],
+      "answer": "Un fœg preparad de brase spantegade"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Buona notizia de un fiœl che se ciamava Isaac",
+        "Buona notizia de un fiœl che se ciama Yahya",
+        "La seleziun de Talut cuma suvran süi fiœui de Israel",
+        "Un avvertiment prima de la puniziun del popul de Lut",
+        "Un comand per costruir un'arca prima del Diluvio"
+      ],
+      "answer": "Buona notizia de un fiœl che se ciamava Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Aginte irmoa",
+  "intro": "Antzinako lurraldeetan, botere handiko agintaritza batek nagusi izan zen, baliabide izugarriak eta pertsona askoren bizitzak kontrolatuz. Seinale eta abisu argiak izan arren, agintari honek desafioaren bidea aukeratu zuen, denboran zehar oihartzuna izango zuen konfrontazio sakon batera eramanez.",
+  "clues": [
+    "Domeinu zabal baten gaineko botere eta autoritate gorena aldarrikatu nuen.",
+    "Erreinu guztietako Jaunak bidalitako mezulari xume bati erronka egin nion.",
+    "Nire herria egitura handien eta gure zibilizazioa sostengatzen zuen ibaiaren maisutasunagatik zen ezaguna.",
+    "Seinale mirari askoren lekuko izan nintzen, besteak beste, suge bihurtzen zen makila bat eta distira egiten zuen esku bat.",
+    "Jainkozko aginduak gorabehera, esklabo talde bati nire lurraldea uzten uztea ukatu nion.",
+    "Alde egiten ari zen jendearen jazarpenak itsaso zatitu baten bihotzera eraman ninduen, ni eta nire armadak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yusuf profeta",
+        "Talut erregea",
+        "Fir'awn (Faraoia)",
+        "Dawud profeta",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraoia)"
+    },
+    "trial": {
+      "label": "Gako Konfrontazioa",
+      "options": [
+        "Lurra irentsi zuen uholdeak",
+        "Itsasoaren zatiketa.",
+        "Sasi erretzailea",
+        "Kaabaren eraikuntza",
+        "Haize bortitz batek eragindako suntsipena"
+      ],
+      "answer": "Itsasoaren zatiketa."
+    },
+    "location": {
+      "label": "Alderdi definitzailea",
+      "options": [
+        "Animalia hiztun bat",
+        "Langilaria eta esku distiratsu bat",
+        "Jaiotza miragarri bat.",
+        "Alfonbra hegalaria.",
+        "Ur gaineko tronu dotorea"
+      ],
+      "answer": "Langilaria eta esku distiratsu bat"
+    },
+    "outcome": {
+      "label": "Azken Patua",
+      "options": [
+        "Zeruetara igo da.",
+        "Lurrak irentsia.",
+        "Itsasoan itota.",
+        "Tximino bihurtuta.",
+        "Aberastasun eta botere izugarria emanda"
+      ],
+      "answer": "Itsasoan itota."
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

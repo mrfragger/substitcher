@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanahy Voalohany Nijoro",
+  "intro": "Ela be talohan'ny nandehanan'ny iraka teto an-tany, talohan'ny nanambarana ny soratra masina, dia nisy zavaboary tsy manan-tsahala nipoitra. Noforonin'ny tanan'Andriamanitra ity fanahy ity, nomena toerana tsy manan-tsahala, ary nosedraina tamin'ny fomba izay hanakoako manerana ny tantaran'ny olombelona rehetra. Ny tohiny dia tantaran'ny fahalemena, fibebahana marina, ary lahatra izay hanova mandrakizay ny lalan'ny famoronana. Azonao an-tsaina ve hoe iza ity?",
+  "clues": [
+    "Noforonin'ny tanan'Ilay Be Famindrampo indrindra avy tamin'ny vovoky ny tany aho",
+    "Nomena trano tsara tarehy tsy manam-paharoa aho, izay tsy nahafahan'ny hanoanana na ny havizanana nikasika ahy",
+    "Nodidiana aho mba tsy hanatona hazo iray akory, satria voarara izany",
+    "Voafitaka izaho sy ny namako ka nanatona ilay hazo voarara, na dia tsy nandidian'ny Tompontsika aza.",
+    "Niverina tamin'ny Tompontsika tamin'ny fibebahana marina izahay, ary voavela ny helokay",
+    "Avy amintsika no nipoiran'ny olombelona rehetra; Izaho no voalohany indrindra mandeha eto an-tany"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Adama",
+        "Mpaminany Musa",
+        "Mpaminany Noa",
+        "Mpaminany Yusuf",
+        "Mpaminany Isa"
+      ],
+      "answer": "Mpaminany Adama"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Fakam-panahy tamin'ny hazo voarara",
+        "Fifanandrinana tamin'i Farao",
+        "Fananganana ny Sambofiara lehibe",
+        "Ny sorona nataon'ny zanaka malala",
+        "Atsipy ao anaty afo lehibe"
+      ],
+      "answer": "Fakam-panahy tamin'ny hazo voarara"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Hazo Voarara",
+        "Ny kirihitra mirehitra",
+        "Ny Tehina Volamena",
+        "Ny Fiara Lehibe",
+        "Ilay Ombilahy Kely Volamena"
+      ],
+      "answer": "Ny Hazo Voarara"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nalefa tetỳ an-tany ho mpikarakara voalohany ny olombelona",
+        "Farao sy ny tafiny maty an-drano tao an-dranomasina",
+        "Nandringana ny ratsy fanahy ny safodrano lehibe",
+        "Nangatsiaka sy nilamina ny afo",
+        "Nomena fahefana teo amin'ny fanjakan'i Ejipta"
+      ],
+      "answer": "Nalefa tetỳ an-tany ho mpikarakara voalohany ny olombelona"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i ngā Oneone Tawhito",
+  "intro": "I roto i ngā karere tuatahi a Allah, i reira tētahi tangata nona te ingoa e kitea poto ana engari he mea nui i roto i te Quran. I ora tēnei tangata i mua noa atu i te tononga mai o ngā poropiti nunui, ā, i mōhiotia ia mō tōna pono me tōna manawanui. He poto noa iho tā rātou kōrero engari kei roto tonu i ngā tuhinga mutunga kore tō rātou taonga tuku iho. Ko wai tēnei wairua rangatira?",
+  "clues": [
+    "Ko ahau tētahi o ngā karere tuatahi, he poto noa ngā whakahuahua engari he nui te tikanga i roto i te Quran.",
+    "I tautuhia tōku āhua e te whakapau kaha ki te pono.",
+    "E maumaharatia ana ahau i roto i te pukapuka a Allah i roto i te hunga i u, i manawanui.",
+    "He torutoru noa ngā whiti poto o te Quran e kōrero ana i taku kōrero.",
+    "I whakahonoretia ahau e Allah i tētahi ara nōku anake, kāore i rite ki ētahi atu poropiti.",
+    "I whakaarahia ahau ki tētahi tūranga teitei, he honore nui rawa atu i roto i te Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Idris",
+        "Poropiti a Iria",
+        "Dhul-Kifli",
+        "Poropiti Alyasa",
+        "Āsif ibn Barkhiya"
+      ],
+      "answer": "Poropiti Idris"
+    },
+    "trial": {
+      "label": "Te Wā Whakamārama",
+      "options": [
+        "I whakaarahia ahau e Allah ki te tūranga teitei",
+        "I hanga e au tētahi āka nui hei whakaora i tōku iwi",
+        "I wero ahau i ngā tohunga makutu a Parao",
+        "I maka ahau ki roto i te poka e ōku tuakana",
+        "I ngaro taku tirohanga i te pouri mō taku tama"
+      ],
+      "answer": "I whakaarahia ahau e Allah ki te tūranga teitei"
+    },
+    "location": {
+      "label": "Tohutoro Tapu",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Te Whakahonoretanga Atua",
+      "options": [
+        "He tūranga teitei kāore i rite ki tētahi atu",
+        "Te rangatiratanga o ngā jinn me ngā hau",
+        "He rangatiratanga o te kororia e kore e rite",
+        "He uri nōku i tōku koroheketanga",
+        "He kawenata i hiritia ki a Allah"
+      ],
+      "answer": "He tūranga teitei kāore i rite ki tētahi atu"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Para Utusan Rahmat sareng Kakawasaan",
+  "intro": "Bayangkeun hiji sonten anu sepi kaganggu ku datangna wisatawan anu teu wawuh. Penampilan aranjeunna biasa waé, tapi tujuanana béda pisan. Aranjeunna mawa pesen ilahi anu bakal ngarobah jalanna dua bangsa, mawa seuri ka bumi anu tandus sareng pikasieuneun ka kota anu pinuh ku dosa. Saha sémah misterius ieu?",
+  "clues": [
+    "Kami diutus ka hiji hamba Allah anu satia, anu kawéntar ku kasomeahanana anu teu aya watesna.",
+    "Kami sumping bari pura-pura jadi jalma asing, tapi nu boga imah ngarasa aya hal nu anéh ngeunaan ayana kami.",
+    "Kami mawa beja anu matak seuri hiji awéwé kolot bari teu percaya, bari ngagebeg beungeutna sorangan bari reuwas.",
+    "Kami dibéré tugas pikeun ngajaga kulawarga anu soleh bari ngahujankeun karusakan ka kota anu pinuh ku korupsi.",
+    "Kami nolak ngiringan tuangeun anu ditawarkeun ka kami, anu ngan saukur ngajantenkeun langkung curiga ka nu boga bumi kami.",
+    "Kami ngan ukur ngungkabkeun sipat asli kami sateuacan angkat, bari nyarios, 'Saéstuna kami téh utusan Gusti anjeun.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Urang?",
+      "options": [
+        "Para Tamu Ibrahim",
+        "Murid-murid Yesus",
+        "Para Sahabat Gua",
+        "Tentara Abrahah",
+        "Para Rasul Ya-Sin"
+      ],
+      "answer": "Para Tamu Ibrahim"
+    },
+    "trial": {
+      "label": "Misi Kami",
+      "options": [
+        "Pikeun nguji kaimanan Ibrahim ka putrana",
+        "Pikeun nepikeun kitab suci ka Ibrahim",
+        "Pikeun ngumumkeun kalahiran Ishak sareng karuksakan bangsa Lut",
+        "Pikeun nungtun Ibrahim ka Ka'bah",
+        "Pikeun nyalametkeun Ibrahim tina seuneu"
+      ],
+      "answer": "Pikeun ngumumkeun kalahiran Ishak sareng karuksakan bangsa Lut"
+    },
+    "location": {
+      "label": "Tempat Penampilan",
+      "options": [
+        "Di tanah Mesir",
+        "Di kota Ur",
+        "Di bumi Ibrahim",
+        "Di taman Eden",
+        "Di sumur Zamzam"
+      ],
+      "answer": "Di bumi Ibrahim"
+    },
+    "outcome": {
+      "label": "Hasilna",
+      "options": [
+        "Ibrahim janten raja",
+        "Ibrahim ngawangun Ka'bah",
+        "Sarah ngalahirkeun Ishak sareng bangsa Lot diancurkeun",
+        "Ibrahim hijrah ka Palestina",
+        "Umat ​​Ibrahim disalametkeun tina banjir ageung"
+      ],
+      "answer": "Sarah ngalahirkeun Ishak sareng bangsa Lot diancurkeun"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

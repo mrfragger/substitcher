@@ -1,0 +1,61 @@
+{
+  "title": "El prim saang versà per invidia",
+  "intro": "Figürate i prim dì de l’umanità, quand el mund l’era una sola fameja. Vardet cuma dü ofèrt sun mettuu davaant a Allah - una acetada, l’oltra refüdada. L’invidia la se radica in del cœur e una menaza l’è sussurrada in de la rabia. Quel che vegn dopu lassarà una marca in de la storia per semper, e anca un œsel piscinin diventarà un maester.",
+  "clues": [
+    "Mi fac part de la prima famiglia sü la terra.",
+    "Ho presentad un’oferta a Allah, ma la mia l’è stada minga acetada mentre l’oltra oferta l’era.",
+    "G’ho parlà cun invidia e g’ho minacià de cupàm la vita.",
+    "Ho commess el prim omicidio ingiusto sü la terra.",
+    "Ho vist un corv che gratava la terra per mustram cuma sconder un corp.",
+    "Sun restà pien de rimpiant e sun diventà intra i perdent per chel che g’havevan fà i me man."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Qabil (Cain), fiœl de Adam",
+        "Samiri, el creatur del vitell",
+        "Namrud, el tirann che g’ha discutì cun Ibrahim",
+        "Azar, el creatur di idol",
+        "Kan'an, el fiœl affogad de Nuh"
+      ],
+      "answer": "Qabil (Cain), fiœl de Adam"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Omicidio de un fradel per invidia dopu l'oferta refudada",
+        "Costruir una tor volta per vardar el ciel",
+        "Crear un vitell d’or per el cult",
+        "Dumandand una taula spantegada del ciel",
+        "Guida un esercit de elefant per distrugg la Kaaba"
+      ],
+      "answer": "Omicidio de un fradel per invidia dopu l'oferta refudada"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un corv che grata la terra per mustrar la sepeliziun",
+        "Un vitell d’or che s’è sbassà",
+        "Una grand arca sü l’aqua di diluviun",
+        "Un bastun che l’è diventà un serpent",
+        "Una taula spantegada cunt el magnà del ciel"
+      ],
+      "answer": "Un corv che grata la terra per mustrar la sepeliziun"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Diventà rimors e intra i perdent",
+        "L’è stà affogad in del grand diluvio",
+        "L’è stada inglutida de la terra cunt el tesoro",
+        "L’è stà colpì de lepra per sett ànn",
+        "G’ha ricevü un regn cunt el cuntrol di vent"
+      ],
+      "answer": "Diventà rimors e intra i perdent"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nuskendęs spindesys",
+  "intro": "Įsivaizduokite: siela, apsirengusi puikiais drabužiais ir apsupta neįsivaizduojamų lobių. Šis asmuo tikėjo, kad jo turtas buvo užsitarnautas jo paties genialumu, niekada nepripažindamas tikrojo aprūpinimo šaltinio. Vaikščiodamas tarp galingo pranašo pasekėjų, šis asmuo atmesdavo kiekvieną kvietimą būti nuolankiam. Šiandien atskleidžiame asmenybės, kurios didingas turtas tapo jo paskutiniu poilsio kampeliu, tapatybę.",
+  "clues": [
+    "Aš gyvenau pranašo, kuris pašaukė užsispyrusią tautą į tiesą, laikais.",
+    "Buvau išrinktosios bendruomenės dalis, tačiau mano širdis nusisuko nuo žinios.",
+    "Auksas ir sidabras mane žavėjo labiau nei bet koks dieviškas įsakymas.",
+    "Mano lobių saugyklos išaugo tokios didžiulės, kad stipri vyrų grupė vos galėjo pakelti raktus.",
+    "Gyriausi, kad mano turtas man buvo duotas dėl mano paties žinių.",
+    "Galiausiai mane ir visą mano būstą prarijo žemė kaip įspėjimą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Qarun",
+        "Hamanas",
+        "Samiri",
+        "Bilqis",
+        "Talutas (Saulius)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Arogancija dėl turto ir labdaros atsisakymas",
+        "Auksinio stabo kalimas iš išlydytų papuošalų",
+        "Dieviškumo paskelbimas galingoje karalystėje",
+        "Pirmųjų tikinčiųjų persekiojimas Mekoje",
+        "Vadovaujant kampanijai, kuria siekiama sunaikinti Šventuosius Namus"
+      ],
+      "answer": "Arogancija dėl turto ir labdaros atsisakymas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Lobiai, kurių raktai slegia daugybę stiprių vyrų",
+        "Auksinis veršis, kuris skleidė garsą",
+        "Šlovingas sostas iš tolimos šalies",
+        "Tranšėja, užpildyta liepsnojančia ugnimi",
+        "Galinga karo dramblių armija"
+      ],
+      "answer": "Lobiai, kurių raktai slegia daugybę stiprių vyrų"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Prarytas žemės kartu su būstu",
+        "Nuskendo jūroje su armija",
+        "Sudegintas gyvas laužo duobėje",
+        "Sunaikintas siaučiančio, siaučiančio vėjo",
+        "Nukrito vieno galingo sprogimo"
+      ],
+      "answer": "Prarytas žemės kartu su būstu"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

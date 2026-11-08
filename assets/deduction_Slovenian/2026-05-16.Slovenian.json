@@ -1,0 +1,61 @@
+{
+  "title": "Neomajni graditelj odrešenja",
+  "intro": "Ta oseba neizmerne potrpežljivosti in neomajnega prepričanja je nešteto let posvetila božanskemu poslanstvu, pri čemer se je soočala z neusmiljenim prezirom in zavrnitvijo. Njihova zgodba je močan dokaz vere kljub prevladujočemu neverovanju, ki je dosegla vrhunec v pomembnem dogodku, ki je preoblikoval svet.",
+  "clues": [
+    "Neverjetno dolgo obdobje svojega življenja sem posvetil pozivanju svojega ljudstva k čaščenju Alaha.",
+    "Moji ljudje so se mi posmehovali in me obtoževali očitne napake in norosti.",
+    "Ukazano mi je bilo, naj zgradim nekaj, kar se je zdelo nenavadno za mojo skupnost brez izhoda na morje.",
+    "Le redki so verjeli in se mi in moji družini pridružili pri tej edinstveni gradnji.",
+    "Na krov sem nosil pare vsakega živega bitja, kot mi je naročil Alah.",
+    "Velika poplava je zajela zemljo in rešila le tiste, ki so bili z mano v moji posodi, medtem ko je moj sin zaradi svoje nevere umrl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Salih",
+        "Prerok Hud",
+        "Prerok Nuh",
+        "Prerok Davud",
+        "Prerok Sulejman"
+      ],
+      "answer": "Prerok Nuh"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Uničenje zaradi potresa",
+        "Razcep morja",
+        "Velika poplava",
+        "Nimrodov ogenj",
+        "Kuga žab"
+      ],
+      "answer": "Velika poplava"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Goreči grm",
+        "Skrinja",
+        "Vodnjak vode",
+        "Zlato tele",
+        "Gora Tur"
+      ],
+      "answer": "Skrinja"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Prejel kraljestvo",
+        "Njegovo ljudstvo se je spremenilo v opice",
+        "Njegovo ljudstvo je bilo rešeno po čudežu",
+        "Njegovo ljudstvo se je utopilo",
+        "Njegovo ljudstvo je zadela strela"
+      ],
+      "answer": "Njegovo ljudstvo se je utopilo"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

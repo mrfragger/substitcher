@@ -1,0 +1,61 @@
+{
+  "title": "Bäraren av nio tecken",
+  "intro": "En gestalt reste sig från den ödmjukaste av begynnelser, med ett öde skrivet i gudomlig vilja. Gömd i sin spädbarnsålder och uppvuxen inom väggarna hos just den härskare som försökte förgöra sitt folk, kallades denna själ så småningom till ett mäktigt uppdrag. Utrustade med ingenting annat än tro och en ödmjuk herdestav stod de inför tidens mäktigaste härskare och krävde frihet för de som var förslavade. Världen själv tycktes röra sig på deras befallning – vattnet delade sig, himlarna talade och ett kungarike föll.",
+  "clues": [
+    "Mina tidigaste dagar präglades av rädsla – spädbarn som jag jagades vid födseln av en skoningslös härskare som fruktade framtiden.",
+    "Jag räddades av vatten och uppfostrades i palatset hos just den härskare som ville förgöra mig.",
+    "Jag flydde mitt hemland efter en plötslig händelse och blev en ödmjuk herde i ett avlägset land.",
+    "Jag återvände för att konfrontera den mäktige härskaren med en enkel stav och ett tydligt budskap och krävde mitt folks frihet.",
+    "Jag delade en stor vattenmängd för dem som följde mig, och såg hur vattnet svalde min fiende hel.",
+    "Jag besteg ett heligt berg för att ta emot gudomlig vägledning från Allah, och jag fick nio tydliga tecken som bevis på sanningen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Nuh",
+        "Profeten Ibrahim",
+        "Profeten Yusuf",
+        "Profeten Lut"
+      ],
+      "answer": "Profeten Musa"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att konfrontera faraon vid hans hov",
+        "Bygga Arken för att överleva en stor översvämning",
+        "Att kastas in i en flammande eld av avgudamakare",
+        "Att bli nedsänkt i en djup brunn av mina bröder",
+        "Försöker hindra mitt folk från omoraliskt beteende"
+      ],
+      "answer": "Att konfrontera faraon vid hans hov"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Staven som förvandlades till en orm",
+        "Nuhs ark",
+        "Bilqis tron",
+        "Ringen som kontrollerade vind och djinn",
+        "Nycklar till hamstrade skatter så tunga"
+      ],
+      "answer": "Staven som förvandlades till en orm"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ledde mitt folk över delade vatten till frihet",
+        "Räddades från en stor översvämning inuti en ark",
+        "Återställdes till hälsa och familj efter djupt lidande",
+        "Kastades levande ut ur en stor fisk",
+        "Byggde grunden till det heliga huset"
+      ],
+      "answer": "Ledde mitt folk över delade vatten till frihet"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

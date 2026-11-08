@@ -1,0 +1,61 @@
+{
+  "title": "Dzemdes solījums",
+  "intro": "Dievišķajam veltītas sirds klusajos kambaros tika iedvests svēts solījums. Šis solījums bija vērsts uz vēl aizvien gaidāmo dzīvi, un tā piepildījums uz visiem laikiem mainītu garīgā mantojuma gaitu. Iepazīsti dvēseles noslēpumu, kuras solījums atbalsojas mūžībā.",
+  "clues": [
+    "Es dzīvoju ģimenē, kas bija pazīstama ar savu dievbijību, un ilgojos pēc dāvanas, kas mani tuvinātu Allāham.",
+    "Es noslēdzu svinīgu derību ar savu Kungu par to, kas manī bija apslēpts, zvērēdams to pilnībā veltīt Viņa kalpošanai.",
+    "Kad pienāca atklāsmes brīdis, tas, ko saņēmu, bija negaidīti, bet es uzticēju šo lietu Viszinošajam.",
+    "Es devu savam bērnam vārdu, kas simbolizē dievbijību, un lūdzu aizsardzību viņai un viņas pēcnācējiem no nolādētās.",
+    "Mans bērns tika ievietots svētajā svētnīcā, pravieša no Ārona dzimtas aizbildnībā.",
+    "Mana meita kļuva pazīstama ar savu šķīstību un tika izvēlēta pār visām sievietēm, vēlāk kļūstot par dižena pravieša māti, lai gan palika neskarta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Imrana sieva",
+        "Musas māte",
+        "Faraona sieva",
+        "Al-Aziza sieva",
+        "Īsas māte"
+      ],
+      "answer": "Imrana sieva"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Solījums veltīt savu nedzimušo bērnu templim",
+        "Pacietības pārbaudījums ilgstošas ​​slimības laikā",
+        "Ceļojums uz tālu zemi ticības vārdā",
+        "Konfrontācija ar tirānu karali",
+        "Brīnumains pārtikas sagādājums no debesīm"
+      ],
+      "answer": "Solījums veltīt savu nedzimušo bērnu templim"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Bērns vārdā Maryam",
+        "Personāls, kas pārvērtās par čūsku",
+        "Zelta teļš",
+        "Zamzama aka",
+        "Noasa šķirsts"
+      ],
+      "answer": "Bērns vārdā Maryam"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņas bērnu pieņēma Allāhs, un viņš auga pravietiskā aprūpē.",
+        "Viņas bērns kļuva par pravieti un saņēma Svētos Rakstus",
+        "Viņas bērns tika pacelts debesīs",
+        "Viņas bērns uzcēla svētu māju",
+        "Viņas bērnam tika piešķirta milzīga gudrība un bagātība"
+      ],
+      "answer": "Viņas bērnu pieņēma Allāhs, un viņš auga pravietiskā aprūpē."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

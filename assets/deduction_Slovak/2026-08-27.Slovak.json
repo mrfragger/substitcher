@@ -1,0 +1,61 @@
+{
+  "title": "Articulate Choice One",
+  "intro": "V tieni hory, kde zostupovali božské slová, viera ľudu kolísala pod leskom zlata. Jedna duša, obdarená výrečnosťou, stála ako opora väčšieho poslania, no čelila momentu hlbokej skúšky. Keď vyvolený posol vystúpil na posvätné miesto, táto postava zostala pozadu a prosila nepokojný národ. Kto je táto neochvejná duša, ktorej hlas sa zdvihol proti modlárstvu?",
+  "clues": [
+    "Bol som vyvolený Alahom za proroka, hoci môj príbeh sa často rozpráva spolu s iným.",
+    "Poslali ma k tyranskému vládcovi, ale mojou úlohou bolo podporovať, nie viesť.",
+    "Bol som obdarený výrečnosťou a moje slová mali obmäkčiť srdcia.",
+    "Keď môj spoločník odišiel na posvätnú schôdzku, ja som zostal viesť nepokojný ľud.",
+    "Vo svojej netrpezlivosti si z ozdôb vytvorili obraz a ja som ich prosil, aby zostali verní Alahovi.",
+    "Môj spoločník sa vrátil a chytil ma, ale ja som mu vysvetlil, že ma ľudia premohli a takmer ma zabili; ja som nebol medzi páchateľmi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Músa",
+        "Prorok Harun",
+        "Prorok Isa",
+        "Prorok Jahja",
+        "Prorok Zakariya"
+      ],
+      "answer": "Prorok Harun"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Byť hodený do ohňa",
+        "Byť hodený do studne",
+        "Tvárou v tvár incidentu so zlatým teľaťom",
+        "Skúška ťažkou chorobou",
+        "Skúška straty bohatstva a detí"
+      ],
+      "answer": "Tvárou v tvár incidentu so zlatým teľaťom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zlaté teľa",
+        "Zamestnanci",
+        "Archa zmluvy",
+        "Tablety",
+        "Horiaci ker"
+      ],
+      "answer": "Zlaté teľa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Prísne potrestaný",
+        "Odpustené a oslobodené",
+        "Urobil kráľa",
+        "Vzatý do neba",
+        "Dostal nové písmo"
+      ],
+      "answer": "Odpustené a oslobodené"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

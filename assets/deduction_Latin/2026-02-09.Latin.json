@@ -1,0 +1,60 @@
+{
+  "title": "Iudicium Sub Undis",
+  "intro": "Propheta, missione sua onustus, consilium cepit quod eum longe a populo suo et in inexpectatam probationem duxit. Iter eius dramaticum cursum cepit, fidem eius et patientiam modo profundissimo probans. Potesne singula huius extraordinarii eventus ex indiciis datis deducere?",
+  "clues": [
+    "Propheta ad populum missus est, sed festinanter abiit, frustratione affectus ob repudiationem eorum.",
+    "Iter eum ad mare duxit, ubi navem onustam conscendit, transitum quaerens.",
+    "Magna tempestas orta est, navem minans, et sorte decretum est unum hominem in mare proicere ad onus alleviandum.",
+    "Absorptus est a creatura profundi, eventu mirabili divina voluntate decreto.",
+    "Intra ventris creaturae clausi, Dominum suum invocavit, paenitentiam agens et Deum in tenebris glorificans.",
+    "Post tempus supplicationis intensae, in litus sterile proiectus est, infirmus sed vivus, et postea rediit ut inveniret suos tandem credidisse."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Propheta/Persona",
+      "options": [
+        "Propheta Nuh",
+        "Propheta Lut",
+        "Propheta Musa",
+        "Propheta Yunus",
+        "Propheta Iosue"
+      ],
+      "answer": "Propheta Yunus"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Diluvium Nuh",
+        "Destructio Sodomae",
+        "Iter in ventre piscis magni",
+        "Maris divisio",
+        "Revelatio Rubi Ardentis"
+      ],
+      "answer": "Iter in ventre piscis magni"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Mons Sinai",
+        "Baculus Musae",
+        "Magnus Piscis",
+        "Puteus Yusufi"
+      ],
+      "answer": "Magnus Piscis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Novum foedus cum genere humano",
+        "Nativitas mirabilis pro populo suo",
+        "Regnum pro stirpe eius constitutum",
+        "Reditus ad populum suum qui tunc credidit",
+        "Victoria de principe tyranno"
+      ],
+      "answer": "Reditus ad populum suum qui tunc credidit"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

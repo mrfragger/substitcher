@@ -1,0 +1,61 @@
+{
+  "title": "Poslušalci iz nevidnega",
+  "intro": "Onkraj tančice vidnega sveta se je v temi zbrala skrita skupina, privlečena k zvoku, ki je kljuboval vsemu, kar so poznali. Stoletja so tavali brez pravega vodstva, dokler ni glas prebil tišino njihovega nevidnega kraljestva in vzbudil nekaj globoko v njih. Nocoj ste vabljeni, da stopite izven senc in odkrijete identiteto te skrivnostne skupine, katere srečanje z božanskimi besedami jih je pripeljalo nazaj k njihovemu ljudstvu kot opozorilnike resnice, ki je ni bilo mogoče zadržati.",
+  "clues": [
+    "Smo starodavna bitja, ki smo obstajali veliko pred mnogimi narodi, o katerih ste brali, a vendar se o nas v človeških zgodbah le redko govori.",
+    "Naša narava je drugačna od tvoje, stkana iz elementov nevidnega, in imamo moči, ki kljubujejo običajnemu.",
+    "Dolga leta smo tavali brez pravega vodstva, dokler nas ni dosegel zvok, ki je prebudil nekaj globoko v nas.",
+    "Slišali smo recitacijo, kakršne še nismo slišali, besede, ki so imele težo, ki presega vsakršen govor.",
+    "Na skrivaj smo se stisnili tesno drug k drugemu in svojim zapovedali, naj utihnejo, in ko so se verzi končali, nismo mogli ostati pri miru.",
+    "Vrnili smo se k našemu ljudstvu in rekli: »O naše ljudstvo, slišali smo Knjigo, razodeto po Mojzesu, ki potrjuje tisto, kar je bilo pred njo, in vodi k resnici.«"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Hawariyyun (Isovi učenci)",
+        "Džini, ki so verjeli po tem, ko so slišali Koran",
+        "Spremljevalci jame",
+        "Angeli najnižjih nebes",
+        "Faraonovo ljudstvo, ki je sledilo njegovi poti"
+      ],
+      "answer": "Džini, ki so verjeli po tem, ko so slišali Koran"
+    },
+    "trial": {
+      "label": "Preizkus / dogodek",
+      "options": [
+        "Izgnani smo bili, ker se nismo hoteli pokloniti novo ustvarjenemu bitju",
+        "Tristo devet let smo bili zaprti v jami",
+        "Ukazano nam je bilo, da prečkamo morje, ki se je pred nami razcepilo",
+        "Poslali so nas v deželo čarovnije, da bi se učili čarovništva",
+        "Na skrivaj smo poslušali recitacijo in nas je preobrazila"
+      ],
+      "answer": "Na skrivaj smo poslušali recitacijo in nas je preobrazila"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlato tele, izdelano iz okraskov ljudstva",
+        "Jama, v kateri je spanec trajal več generacij",
+        "Dva angela v Babilonu, ki sta učila prepovedano znanje",
+        "Knjiga, razodeta po Mojzesu, ki potrjuje Toro",
+        "Goreči grm na vrhu svete gore"
+      ],
+      "answer": "Knjiga, razodeta po Mojzesu, ki potrjuje Toro"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Prekleti smo bili do sodnega dne",
+        "Uprli smo se mogočnemu vladarju in zgradili pregrado v deželi",
+        "Spremenili so nas v opice in prašiče",
+        "Vrnili smo se k našemu ljudstvu kot svarilci, oznanjali vero",
+        "Utopili smo se v morju skupaj z našim vodjo"
+      ],
+      "answer": "Vrnili smo se k našemu ljudstvu kot svarilci, oznanjali vero"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

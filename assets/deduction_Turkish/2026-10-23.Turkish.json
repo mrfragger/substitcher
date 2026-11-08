@@ -1,0 +1,61 @@
+{
+  "title": "Antik Kentteki Misyon",
+  "intro": "Tozlu, kadim bir şehir, inkâra saplanmış halkı ve dikkate alınmayan son bir uyarı. Bugün, Allah tarafından inatçı bir halka mesaj iletmek üzere gönderilenlerin rolüne bürünün. Bir reddedilme öyküsü, tek bir iman sesi ve yıkıcı bir hükümle mühürlenmiş bir son. Bu ipuçları aracılığıyla kim konuşuyor?",
+  "clues": [
+    "Bizler, Allah tarafından, halkı hakikatten yüz çevirmiş bir şehre gönderildik.",
+    "Önce ikimiz geldik, sonra misyonumuzu güçlendirmek için üçüncü bir kişi katıldı.",
+    "Kasaba halkı bizi reddetti ve bizlerin de onlar gibi sıradan insanlar olduğumuzu söyledi.",
+    "Şehrin en ücra köşesinden tek bir kişi koşarak insanlara bizi takip etmelerini söyledi.",
+    "Onlara yalvardık, ama kalplerini katılaştırdılar ve bize sırt çevirdiler.",
+    "Gökyüzünden yükselen yıkıcı bir çığlıkla, tüm şehrimiz sustu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Yasin Suresi'ndeki Şehrin Elçileri",
+        "Havwariyyun (İsa'nın Müritleri)",
+        "Firavun Sarayının Büyücüleri",
+        "Şabat Yoldaşları",
+        "Fil Halkı"
+      ],
+      "answer": "Yasin Suresi'ndeki Şehrin Elçileri"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kasaba halkı tarafından reddedildiler ve yalancı olarak nitelendirildiler.",
+        "Büyük bir alevler içinde diri diri yakıldı.",
+        "Derin denizde büyük bir balık tarafından yutuldu.",
+        "Yüksek bir sütun inşa etmek için zorla çalıştırıldılar.",
+        "Alevler içinde yanan bir siperde işkence gördü."
+      ],
+      "answer": "Kasaba halkı tarafından reddedildiler ve yalancı olarak nitelendirildiler."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Antik kent (el-Kariye)",
+        "Büyük, alev alev yanan bir fırın",
+        "Büyük bir balığın karnı",
+        "Yüksek, göğe uzanan sütun",
+        "Kutsal Ev (Kâbe)"
+      ],
+      "answer": "Antik kent (el-Kariye)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Şehir tek bir yıkıcı çığlıkla (Sayha) yerle bir edildi.",
+        "Zalim hükümdar ve ordusu, yarılan denizde boğuldu.",
+        "İnsanlar maymunlara ve primatlara dönüştürüldü.",
+        "Gökyüzünden yağan taş yağmuru şehri yerle bir etti.",
+        "Şiddetli bir sel tüm topluluğu alıp götürdü."
+      ],
+      "answer": "Şehir tek bir yıkıcı çığlıkla (Sayha) yerle bir edildi."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

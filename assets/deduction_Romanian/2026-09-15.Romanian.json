@@ -1,0 +1,61 @@
+{
+  "title": "Ospitalitatea care a adus frică",
+  "intro": "Într-un oraș mistuit de răutate, un slujitor credincios a primit într-o zi vizitatori neașteptați. Grijă pentru siguranța lor, această persoană le-a oferit protecție, dar locuitorii orașului au cerut ceva rușinos. Avertizat de o soartă iminentă, slujitorul a fugit cu familia la adăpostul întunericului, lăsând în urmă un oraș destinat distrugerii. Cine este acest singuratic credincios?",
+  "clues": [
+    "Am fost trimis ca mesager la un popor care săvârșise acte rușinoase.",
+    "Au venit vizitatori neașteptați la mine acasă și eram mai îngrijorat pentru siguranța lor decât pentru a mea.",
+    "Oamenii mei au cerut să-i vadă pe oaspeții mei din motive rele, iar eu am încercat să-i înțeleg.",
+    "Vizitatorii mei s-au revelat ca îngeri și mi-au poruncit să-mi iau familia și să plec noaptea.",
+    "Soția mea nu a ascultat apelul de a scăpa și s-a confruntat cu aceeași distrugere ca și poporul meu.",
+    "Orașul meu a fost răsturnat de o ploaie de pietre de lut stratificat, iar părțile sale cele mai înalte au fost aduse la coborâre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Lut",
+        "Profetul Musa",
+        "Profetul Ibrahim",
+        "Profetul Nuh",
+        "Profetul Hud"
+      ],
+      "answer": "Profetul Lut"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Cerința poporului meu de a-mi aborda oaspeții cu răutate",
+        "Despărțirea mării pentru a scăpa de un tiran",
+        "Construirea unei mari arce în mijlocul batjocurii",
+        "Jertfa fiului meu într-o încercare a credinței",
+        "Experiența de a fi înghițit de un pește mare"
+      ],
+      "answer": "Cerința poporului meu de a-mi aborda oaspeții cu răutate"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Orașul răsturnat al poporului meu",
+        "Muntele unde am primit discurs divin",
+        "Arca care a navigat printr-un mare potop",
+        "Cămila care a ieșit din stâncă",
+        "Grădina cu un vizitator drept ascuns"
+      ],
+      "answer": "Orașul răsturnat al poporului meu"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Am fost salvat împreună cu familia mea înainte ca orașul meu să fie răsturnat.",
+        "Mi-am condus poporul spre libertate peste mare",
+        "Am construit o arcă mare și am supraviețuit unui potop puternic",
+        "Mi s-a dat stăpânire asupra vânturilor și djinnilor",
+        "Am îndurat cu răbdare suferința și am fost răsplătit cu o familie."
+      ],
+      "answer": "Am fost salvat împreună cu familia mea înainte ca orașul meu să fie răsturnat."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

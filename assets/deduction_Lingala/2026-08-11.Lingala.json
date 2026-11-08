@@ -1,0 +1,61 @@
+{
+  "title": "Elaka ya Libumu",
+  "intro": "Na ba chambre ya kimia ya motema oyo epesamaki na Bonzambe, ndai ya bule ekanisamaki. Ndai oyo etalelaki mingimingi bomoi oyo esengelaki naino kopema, mpe kokokisama na yango ekobongola nzela ya libula ya elimo mpo na libela. Kota na libombami ya molimo oyo elaka na yango eyokanaki na boseko.",
+  "clues": [
+    "Nazalaki kofanda na ndako oyo eyebani mpo na ezaleli na yango ya kobanga Nzambe, mpe nazalaki na mposa makasi ya likabo oyo ekomema ngai penepene na Allah.",
+    "Nasalaki boyokani ya lokumu elongo na Nkolo na ngai na ntina ya oyo ebombamaki na kati na ngai, kolakaka ete nakopesa yango mobimba na mosala na Ye.",
+    "Ntango ngonga ya kofungola ekómaki, oyo nazwaki ezalaki likambo oyo nakanisaki te, kasi napesaki likambo yango epai ya Moto oyo ayebi Nyonso.",
+    "Napesaki mwana na ngai nkombo oyo ezali komonisa komipesa, mpe nabondelaki ete bábatela ye mpe bakitani na ye na oyo alakelama mabe.",
+    "Mwana na ngai atiamaki na esika mosantu, na nse ya bokengeli ya profeta moko ya libota ya Alona.",
+    "Mwana na ngai ya mwasi ayebanaki mpo na bopeto na ye mpe aponama likolo ya basi banso, na nsima akómaki mama ya mosakoli moko monene, atako atikalaki kosimbama te."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mwasi ya Imran",
+        "Maman ya Musa",
+        "Mwasi ya Farao",
+        "Mwasi ya Al-Aziz",
+        "Mama ya Yis"
+      ],
+      "answer": "Mwasi ya Imran"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Ndai ya komipesa mwana na ye oyo azali na libumu na tempelo",
+        "Momekano ya motema molai na nzela ya maladi oyo eumelaki mingi",
+        "Mobembo na mboka moko ya mosika mpo na bolamu ya kondima",
+        "Bokutani na mokonzi moko ya mobulu",
+        "Ebongiseli ya likamwisi ya bilei oyo euti na likoló"
+      ],
+      "answer": "Ndai ya komipesa mwana na ye oyo azali na libumu na tempelo"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mwana yango nkombo na ye Maryam",
+        "Nzete oyo ebongwanaki nyoka",
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Libulu ya Zamzam",
+        "Masuwa ya Noa"
+      ],
+      "answer": "Mwana yango nkombo na ye Maryam"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mwana na ye andimami na Allah mpe akolaki na nse ya bobateli ya esakweli",
+        "Mwana na ye akomaki profeta mpe azwaki makomi",
+        "Mwana na ye asekwamaki na likoló",
+        "Mwana na ye atongaki ndako mosantu",
+        "Bapesaki mwana na ye bwanya mpe bozwi mingi mpenza"
+      ],
+      "answer": "Mwana na ye andimami na Allah mpe akolaki na nse ya bobateli ya esakweli"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

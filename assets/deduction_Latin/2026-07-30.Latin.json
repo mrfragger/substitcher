@@ -1,0 +1,61 @@
+{
+  "title": "Visitatores Mirabiles Urbis Muratae",
+  "intro": "Grex quidam ad portas urbis pervenit cuius populus veritatem numquam cognoverat. Nuntium attulerunt, sed incolae hostiles facti sunt, violentiam minitantes. Attamen, ex loco inopinato, vox una exorta est ad peregrinos defendendos, scaenam parans eventibus dramaticis.",
+  "clues": [
+    "Urbem ingressi sumus cuius populus incredulitate occupatus erat.",
+    "Suspiciose nos aspexerunt et dixerunt, \"Vos estis tantum homines vulgares sicut nos.\"",
+    "Monuimus eos, sed lapides contra nos sustulerunt.",
+    "Vir quidam ab extremo urbis fine cucurrit ut veritatem nostram affirmaret.",
+    "Populo suo declaravit, \"Cur non adorabo Eum qui me creavit?\"",
+    "Negatio urbis uno fragore finita est, et silentium regnavit ubi olim irridebant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Nuntii Ya-Sin",
+        "Discipuli Isae",
+        "Populus Fossae",
+        "Magi Pharaonis",
+        "Fidelis Ya-Sin"
+      ],
+      "answer": "Nuntii Ya-Sin"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Reiectio et minae lapidationis",
+        "In ignem vehementem coniectus",
+        "Examen patientiae cum puero amissu",
+        "Hortus qui destructionem passus est",
+        "Iter per mare"
+      ],
+      "answer": "Reiectio et minae lapidationis"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Extremus urbis finis",
+        "Mare Rubrum",
+        "Fossa ignis",
+        "Spelunca refugii",
+        "Carcer Aegypti"
+      ],
+      "answer": "Extremus urbis finis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Urbs uno clamore deleta est",
+        "Mare disruptum est et exercitum submersit",
+        "Ignis frigidus et tutus factus est",
+        "Hortus igne caelesti consumpsus est",
+        "Balaena hominem ad litus reduxit."
+      ],
+      "answer": "Urbs uno clamore deleta est"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

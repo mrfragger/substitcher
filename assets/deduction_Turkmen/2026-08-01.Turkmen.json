@@ -1,0 +1,61 @@
+{
+  "title": "Iki uftyň arasyndaky ýeňiji",
+  "intro": "Ylahy ýolbaşçylygyň ýyl ýazgylarynda bir şahsyýet güýçli hökümdar we Allanyň pespäl hyzmatkäri hökmünde tapawutlanýar. Bu şahsyýet ýer ýüzüniň iň çetlerine syýahat edip, günüň adatdan daşary bir halkyň üstüne dogup, gara bulanyk çeşmä batandygyny görüpdir. Iň esasysy, bu hyzmatkäre uly betbagtçylykly milletiň garşysyna adatdan daşary bir päsgelçilik gurmak wezipesi tabşyrylypdyr. Bu rowaýata öwrülen şahsyýeti Gurhandan tanap bilersiňizmi?",
+  "clues": [
+    "Maňa ýer ýüzünde güýç we täsir iň Rehimli tarapyndan berildi",
+    "Men günüň dogýan we batýan ýerine syýahat etdim",
+    "Men bir sözi asla düşünip bilmeýän bir adama ýetdim",
+    "Maňa demir ulanyp ägirt uly böwet gurmak tabşyryldy",
+    "Men iki dik dagyň arasyndaky boşlugy ereýän metal bilen ýapdym",
+    "Men perişde hem, pygamber hem däldim, ýöne Allanyň ne'mat beren bendesidim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Zulkarneýn (Iki şahly)",
+        "Süleýman patyşa (Süleýman)",
+        "Zul-Kifl pygamber",
+        "Zul-Nun (Balyk ýoldaşy)",
+        "Päsgelçiligiň perişdesi"
+      ],
+      "answer": "Zulkarneýn (Iki şahly)"
+    },
+    "trial": {
+      "label": "Beýik wezipe",
+      "options": [
+        "Jennete diň gurmak",
+        "Ýajuj we Majujyň garşysyna ägirt uly demir böwet gurmak",
+        "Höküm üçin altyn tagt döretmek",
+        "Dogruçyl adamlar üçin çuňňur guýy gazmak",
+        "Beýik sil wagtynda gämi gurmak"
+      ],
+      "answer": "Ýajuj we Majujyň garşysyna ägirt uly demir böwet gurmak"
+    },
+    "location": {
+      "label": "Sazlama",
+      "options": [
+        "Iki derýanyň arasyndaky Uzeýr ýurdy",
+        "Gün dogýan ýer we gara palçyk çeşme",
+        "Mekkäniň mukaddes jülgesi",
+        "Madýan çöli",
+        "Kipr adasy"
+      ],
+      "answer": "Gün dogýan ýer we gara palçyk çeşme"
+    },
+    "outcome": {
+      "label": "Ylahy Wada",
+      "options": [
+        "Baky jennet derrew berildi",
+        "Millet gyzgyn ýel bilen ýok edildi",
+        "Bu päsgelçilik kyýamat gününe çenli dowam eder",
+        "Ähli ynanýanlar üçin ölümden azatlyk",
+        "Soňy bolmadyk ebedi patyşalyk"
+      ],
+      "answer": "Bu päsgelçilik kyýamat gününe çenli dowam eder"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

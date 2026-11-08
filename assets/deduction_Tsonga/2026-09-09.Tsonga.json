@@ -1,0 +1,61 @@
+{
+  "title": "Moya-xiviri wo Sungula ku Yima",
+  "intro": "Khale swinene loko murhumiwa wihi na wihi a nga si famba emisaveni, tsalwa rihi na rihi ri nga si paluxiwa, xivumbiwa lexi nga fani ni xin’wana xi ve kona. Moya-xiviri lowu wu vumbiwile hi mavoko ya Xikwembu, wu nyikiwe ndhawu ya ku saseka loku nga ringanisiwiki na nchumu, naswona wu ringiwile hi ndlela leyi a yi ta twala eka matimu hinkwawo ya vanhu. Leswi landzeleke a ku ri xitori xa ku tsana, ku hundzuka loku humaka embilwini ni vumundzuku lebyi a byi ta cinca ndlela ya ntumbuluko hilaha ku nga heriki. Xana u nga swi kota ku ringanyeta leswaku loyi i mani?",
+  "clues": [
+    "Ndzi vumbiwile hi mavoko ya Loyi a nga ni Tintswalo swinene hi ntshuri wa misava",
+    "Ndzi nyikiwe kaya ra ku saseka loku nga ringanisiwiki na nchumu, laha ku nga riki na ndlala kumbe ku karhala loku nga ndzi khumbaka",
+    "Ndzi lerisiwe leswaku ndzi nga tshuki ndzi tshinelela murhi ni wun’we, hikuva a swi yirisiwile",
+    "Mina na munghana wa mina hi kanganyisiwile kutani hi tshinelela murhi lowu yirisiweke, ku lwisana na xileriso xa Hosi ya hina",
+    "Hi tlhelele endzhaku eka Hosi ya hina hi ku hundzuka loku humaka embilwini, naswona hi rivaleriwile ku tlula nawu ka hina",
+    "Eka hina, vumunhu hinkwabyo byi xike; Hi mina wo sungula ku famba emisaveni leyi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Adamu",
+        "Muprofeta Musa",
+        "Muprofeta Nuh",
+        "Muprofeta Yusuf",
+        "Muprofeta Esa"
+      ],
+      "answer": "Muprofeta Adamu"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku ringiwa hi murhi lowu yirisiweke",
+        "Ku lwisana na Faro",
+        "Ku aka Areka leyikulu",
+        "Gandzelo ra n’wana la rhandzekaka",
+        "Ku lahleriwa endzilweni lowukulu"
+      ],
+      "answer": "Ku ringiwa hi murhi lowu yirisiweke"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Murhi lowu yirisiweke",
+        "Xihlahla Lexi Hisaka",
+        "Nhonga ya Nsuku",
+        "Areka Leyikulu",
+        "Rhole ra Nsuku"
+      ],
+      "answer": "Murhi lowu yirisiweke"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U rhumeriwe ehansi emisaveni tanihi muhlayisi wo sungula wa vanhu",
+        "Faro ni vuthu rakwe va nwile elwandle",
+        "Ndhambi leyikulu yi lovise lavo homboloka",
+        "Ndzilo wu sungule ku kufumela ni ku rhula",
+        "U nyikiwe vulawuri bya mfumo wa Egipta"
+      ],
+      "answer": "U rhumeriwe ehansi emisaveni tanihi muhlayisi wo sungula wa vanhu"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

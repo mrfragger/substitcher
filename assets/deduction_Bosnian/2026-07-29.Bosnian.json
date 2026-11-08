@@ -1,0 +1,61 @@
+{
+  "title": "Dvorska potjera",
+  "intro": "U hodnicima moći, osoba visokog statusa zaljubila se u sluškinju čija je ljepota bila natprirodna. Ova zaluđenost dovela je do niza događaja koji će testirati odanost, otkriti skrivene istine i na kraju potvrditi sluškinjinu nevinost.",
+  "clues": [
+    "Živio sam u zemlji Nila, u palati velikog utjecaja.",
+    "Jedan mladić je ušao u moju kuću i njegovo prisustvo je poremetilo moj svijet.",
+    "Pokušao sam ga zavesti, ali on je potražio utočište kod svog Gospodara.",
+    "Pocijepao sam mu odjeću s leđa, ali dokazi su ukazivali na moju prevaru.",
+    "Da bih utišao tračeve plemkinja, pozvao sam ih na okupljanje i stavio im oštre predmete u ruke.",
+    "Na kraju sam javno priznao svoju grešku, priznajući istinu pred kraljem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Supruga Al-Aziza",
+        "Asija (Faraonova supruga)",
+        "Bilkis (Kraljica od Sabe)",
+        "Merjem (Isaova majka)",
+        "Musina majka"
+      ],
+      "answer": "Supruga Al-Aziza"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Pokušala je zavesti proroka Jusufa",
+        "Pokušala je ubiti proroka Musu",
+        "Tvrdila je da je boginja",
+        "Sagradila je kulu da izazove Alaha",
+        "Predvodila je vojsku protiv Meke"
+      ],
+      "answer": "Pokušala je zavesti proroka Jusufa"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Majica pocijepana s leđa",
+        "Zlatno tele",
+        "Štap koji se pretvorio u zmiju",
+        "Ženka deve",
+        "Lampa"
+      ],
+      "answer": "Majica pocijepana s leđa"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Priznala je i priznala istinu",
+        "Utopila se sa svojom vojskom",
+        "Pretvorila se u stub soli",
+        "Progutala ju je zemlja",
+        "Uništio ju je vrišteći vjetar"
+      ],
+      "answer": "Priznala je i priznala istinu"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

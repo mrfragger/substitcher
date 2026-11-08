@@ -1,0 +1,61 @@
+{
+  "title": "Välståndets försvinnande trädgårdar",
+  "intro": "I ett land välsignat med överflöd blomstrade ett samhälle som levde bland tecken på gudomlig nåd. Deras välstånd var ett bevis på deras Herres ynnest, en gåva avsedd att inspirera tacksamhet och lydnad. Ändå, trots de tydliga tecknen på deras välsignelser, kom en vändpunkt som utmanade deras uppskattning för källan till deras enorma rikedom och komfort.",
+  "clues": [
+    "Vi var välsignade med två trädgårdar, en till höger och en till vänster, rikliga på frukt och grönsaker.",
+    "Vi befalldes att äta av vår Herres försörjning och vara tacksamma mot Honom för ett gott land och en förlåtande Herre.",
+    "Vi blev arroganta och vände oss bort från tacksamhetens väg, och skröt om vår rikedom och makt.",
+    "Vi krävde att vår Herre skulle öka avståndet mellan våra resor och visade förakt för den lätthet Han hade gett dem.",
+    "Vi blev varnade av ett budbärare, men vi avvisade budskapet och fortsatte i vår likgiltighet.",
+    "Vår stora damm, som upprätthöll vårt välstånd, bröts slutligen, vilket ledde till en förödande översvämning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Folket i Thamud",
+        "Midjans folk",
+        "Folket i 'Aad",
+        "Luts folk",
+        "Sabas folk"
+      ],
+      "answer": "Sabas folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Svält och torka",
+        "Invasion av en mäktig armé",
+        "En förödande jordbävning",
+        "En förödande översvämning från en trasig damm",
+        "Förtryck av en tyrannisk härskare"
+      ],
+      "answer": "En förödande översvämning från en trasig damm"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En gyllene kalv",
+        "En mirakulös honkamel",
+        "En fantastisk damm",
+        "En hög byggnad",
+        "En djup brunn"
+      ],
+      "answer": "En fantastisk damm"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vi förvandlades till apor och grisar",
+        "Vi blev frälsta och flyttade till ett nytt land",
+        "Vi blev kringspridda och vårt land blev ofruktbart",
+        "Vi steg upp till himlen",
+        "Vi byggde ett nytt, mer välmående kungarike"
+      ],
+      "answer": "Vi blev kringspridda och vårt land blev ofruktbart"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

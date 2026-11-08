@@ -1,0 +1,61 @@
+{
+  "title": "Cel Pacient",
+  "intro": "Cu mult timp în urmă, în primele zile ale istoriei omenirii, două suflete au stat în fața Creatorului lor cu ofrande. Unul a fost acceptat, celălalt nu. Ceea ce a urmat avea să devină prima mare tragedie între frați - un act de răbdare și un act de răzbunare amară. Poți descoperi cine sunt?",
+  "clues": [
+    "M-am născut chiar în primele zile ale existenței umane pe pământ",
+    "Am fost copilul primei perechi de oameni care au pășit vreodată pe acest pământ.",
+    "Am adus odată o jertfă din cea mai bună parte a turmei mele ca să-I fac pe plac Creatorului meu",
+    "Oferta mea a fost acceptată de sus, în timp ce oferta fratelui meu a fost respinsă.",
+    "Când am fost amenințat cu moartea, am ales să nu ridic mâna împotriva fratelui meu.",
+    "Am devenit prima persoană din toată istoria omenirii ucisă pe nedrept de altcineva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Habil (Abel), fiul lui Adam",
+        "Qabil (Cain), fiul lui Adam",
+        "Adam, primul om",
+        "Nuh (Noe)",
+        "Ibrahim (Avraam)"
+      ],
+      "answer": "Habil (Abel), fiul lui Adam"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Prima crimă din istoria omenirii",
+        "Marele potop al lui Nuh",
+        "Distrugerea armatei lui Fir'awn",
+        "Jertfa lui Ismail de către Ibrahim",
+        "Bătălia împotriva lui Jalut (Goliath)"
+      ],
+      "answer": "Prima crimă din istoria omenirii"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O oaie adusă ca jertfă plăcută",
+        "O mare arcă de lemn",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O pupăză care poartă un mesaj regal",
+        "Un șanț de foc arzător"
+      ],
+      "answer": "O oaie adusă ca jertfă plăcută"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A devenit prima victimă a unei crime din istoria omenirii",
+        "A supraviețuit unei mari inundații într-o navă de lemn",
+        "A trăit în burta unui pește mare",
+        "A domnit peste djinni, oameni și vânt",
+        "A rătăcit timp de patruzeci de ani într-o vastă pustietate"
+      ],
+      "answer": "A devenit prima victimă a unei crime din istoria omenirii"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Järkymätön auktoriteetti",
+  "intro": "Muinaisilla mailla hallitsi aikoinaan voimakas auktoriteetti, joka hallitsi valtavia resursseja ja lukemattomien ihmisten elämää. Selkeistä merkeistä ja varoituksista huolimatta tämä hallitsija valitsi uhmakkuuden tien, mikä johti syvään yhteenottoon, joka kaikui läpi aikojen.",
+  "clues": [
+    "Väitin ​​itselleni äärimmäisen vallan ja auktoriteetin laajan alueen yli.",
+    "Haastin nöyrän sanansaattajan, jonka oli lähettänyt kaikkien valtakuntien Herra.",
+    "Kansani tunnettiin suurten rakennelmien ja sivilisaatiotamme ylläpitäneen joen mestaruudesta.",
+    "Näin monia ihmeellisiä merkkejä, mukaan lukien sauvan muuttumisen käärmeeksi ja kirkkaasti hehkuvan käden.",
+    "Kieltäydyin päästämästä orjuutettua ihmisryhmää lähtemään maaltani jumalallisista käskyistä huolimatta.",
+    "Lähtevien ihmisten takaa-ajo johdatti minut ja armeijani jakautuneen meren sydämeen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Yusuf",
+        "Kuningas Talut",
+        "Fir'awn (faarao)",
+        "Profeetta Daavid",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (faarao)"
+    },
+    "trial": {
+      "label": "Keskeinen vastakkainasettelu",
+      "options": [
+        "Tulva, joka hukutti maan",
+        "Meren jakautuminen",
+        "Palava pensas",
+        "Kaaban rakentaminen",
+        "Voimakkaan tuulen aiheuttama tuho"
+      ],
+      "answer": "Meren jakautuminen"
+    },
+    "location": {
+      "label": "Määrittelevä näkökulma",
+      "options": [
+        "Puhuva eläin",
+        "Sauva ja hehkuva käsi",
+        "Ihmeellinen syntymä",
+        "Lentävä matto",
+        "Majesteettinen valtaistuin veden päällä"
+      ],
+      "answer": "Sauva ja hehkuva käsi"
+    },
+    "outcome": {
+      "label": "Lopullinen kohtalo",
+      "options": [
+        "Nousi taivaisiin",
+        "Maan nielaisema",
+        "Hukkui mereen",
+        "Muuttunut apinaksi",
+        "Annettu valtava vauraus ja valta"
+      ],
+      "answer": "Hukkui mereen"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

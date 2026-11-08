@@ -1,0 +1,61 @@
+{
+  "title": "Tëscht Äerd a Himmel",
+  "intro": "Eng mystesch Séil waart op Iech an den hellege Säite vun der gëttlecher Geschicht, déi Zeeche a Wonner dréit, déi nach ëmmer duerch d'Jore widderhallen. Wann Dir der Spuer vun Hiweiser folgt, reest Dir duerch eng Geschicht, déi vu Wonner geprägt ass - vun engem wonnerbaren Ufank bis zu engem Opstig iwwer den Himmel. Kënnt Dir dëse geseenten Dénger identifizéieren, ier de leschten Hiweis erschéngt?",
+  "clues": [
+    "Ech gouf als Bote un d'Kanner vun Israel geschéckt mat enger Noriicht vu Barmhäerzegkeet a Liicht.",
+    "Meng Gebuert war e wonnerbart Zeechen - ech sinn ouni Papp op dës Welt komm, op Uerder vum Allmächtegen.",
+    "Ech hunn geschwat, wéi ech nach e Puppelchen war, a meng Mamm hir Éier géint d'Virwërf vun hirem Vollek verdeedegt.",
+    "Mat der Erlaabnes vun Allah hunn ech Vigel aus Lehm geformt a si zum Liewen ageootmet - si sinn virun den Ae vun deenen, déi zougekuckt hunn, fortgeflunn.",
+    "Ech hunn déi geheelt, déi blann gebuer goufen, déi aussätzeg geheelt, an och déi Doudeg erëmbelieft - awer all Wonner war mat Allahs Erlaabnes, net meng eegen.",
+    "Wéi meng Feinde geplot hunn, mech ze zerstéieren, huet Allah mech an den Himmel erhuewen a meng Réckrees virum Dag vum Uerteel versprach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Isa (Jesus)",
+        "Prophet Musa (Moses)",
+        "De Prophet Ibrahim (Abraham)",
+        "Prophet Mohammed",
+        "Prophet Yusuf (Joseph)"
+      ],
+      "answer": "De Prophet Isa (Jesus)"
+    },
+    "trial": {
+      "label": "De definéierende Moment",
+      "options": [
+        "Ech sinn an den Himmel opgewuess",
+        "Ech gouf an e brennend Feier gehäit",
+        "Ech hunn dem Pharao senger mächteger Arméi konfrontéiert",
+        "Ech gouf vun engem grousse Wal verschléckt",
+        "Ech hunn eng Ark um Bierg gebaut"
+      ],
+      "answer": "Ech sinn an den Himmel opgewuess"
+    },
+    "location": {
+      "label": "Hellegt Zeechen ausgefouert",
+      "options": [
+        "Ech hunn Vigel aus Leem geformt",
+        "Ech hunn e Staff an eng Schlaang verwandelt",
+        "Ech hunn de Mound an zwee gedeelt",
+        "Ech hunn dem Wand an dem Djinn befielt",
+        "Ech hunn eng Kamell aus engem Fiels erausbruecht"
+      ],
+      "answer": "Ech hunn Vigel aus Leem geformt"
+    },
+    "outcome": {
+      "label": "Wat aus mir ginn ass",
+      "options": [
+        "An den Himmel erhuewen; versprach zréckzekommen",
+        "Ass e grousse Herrscher vun engem Räich ginn",
+        "Mäi Vollek aus der Gefaangenschaft gefouert",
+        "Gouf oniwwertraffene ierdesche Räichtum geschenkt",
+        "Nodeem ech laang Zäit getrennt war, sinn ech mat menger Famill erëm zesummekomm"
+      ],
+      "answer": "An den Himmel erhuewen; versprach zréckzekommen"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

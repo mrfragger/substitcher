@@ -1,0 +1,60 @@
+{
+  "title": "Ny Fitsapana eo Ambanin'ny Onja",
+  "intro": "Mpaminany iray, izay vesaran'ny iraka nampanaovina azy, no nandray fanapahan-kevitra izay nitondra azy lavitra ny vahoakany sy niditra tamin'ny fitsapana tsy nampoizina. Niova tanteraka ny diany, nitsapa ny finoany sy ny faharetany tamin'ny fomba lalina indrindra. Azonao tsoahina ve ny antsipirian'ity zava-nitranga miavaka ity avy amin'ireo fanoroana nomena?",
+  "clues": [
+    "Nisy mpaminany nirahina ho any amin'ny vahoaka iray, saingy niala haingana izy, satria nahatsiaro ho diso fanantenana noho ny fandavana azy ireo.",
+    "Nitondra azy tany an-dranomasina ny diany, ary tao izy no niondrana an-tsambo feno entana nitady lalana.",
+    "Nisy tafio-drivotra mahery namely ny sambo, ary tapaka ny hevitra fa hanipy olona iray any an-dranomasina mba hanamaivanana ny entana, izay nozaraina tamin'ny filokana.",
+    "Natelin'ny zavaboary avy any amin'ny lalina izy, zava-mahagaga voatendrin'ny sitrapon'Andriamanitra.",
+    "Tao anatin'ny kibon'ilay zavaboary no niantsoany ny Tompony, nibebaka sy nanome voninahitra an'i Allah tao anatin'ny haizina.",
+    "Rehefa avy nitalaho mafy nandritra ny fotoana kelikely izy, dia natsipy teny amoron-dranomasina ngazana, osa nefa velona, ​​ary niverina taty aoriana ka nahita fa nino ihany ny vahoakany."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Mpaminany/Olona",
+      "options": [
+        "Mpaminany Noa",
+        "Mpaminany Lota",
+        "Mpaminany Musa",
+        "Mpaminany Yunus",
+        "Mpaminany Yusuf"
+      ],
+      "answer": "Mpaminany Yunus"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny tondra-dranon'i Noa",
+        "Ny faharavan'i Sodoma",
+        "Ny dia tao an-kibon'ilay trondro lehibe",
+        "Ny fisarahan'ny ranomasina",
+        "Ny fanambarana ny kirihitra mirehitra"
+      ],
+      "answer": "Ny dia tao an-kibon'ilay trondro lehibe"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Fiara",
+        "Tendrombohitra Sinay",
+        "Ny Tehin'i Musa",
+        "Ny Trondro Lehibe",
+        "Ny Fantsakan'i Yusuf"
+      ],
+      "answer": "Ny Trondro Lehibe"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Fanekena vaovao amin'ny olombelona",
+        "Fahaterahana mahagaga ho an'ny olony",
+        "Fanjakana naorina ho an'ny taranany",
+        "Fiverenana any amin'ny olony izay nino tamin'izany fotoana izany",
+        "Fandresena tamin'ny mpitondra jadona"
+      ],
+      "answer": "Fiverenana any amin'ny olony izay nino tamin'izany fotoana izany"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

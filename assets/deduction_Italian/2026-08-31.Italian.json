@@ -1,0 +1,61 @@
+{
+  "title": "La voce silenziosa della valle",
+  "intro": "Fate un salto indietro nel tempo e scoprite un popolo potente che un tempo ricevette una meraviglia vivente come prova. L'arroganza e l'ostinazione segnarono il loro destino. Riuscirete a ricostruire la storia e a scoprire cosa accadde in questo drammatico punto di svolta?",
+  "clues": [
+    "Sono stato inviato come prova divina presso un popolo potente, noto per la sua forza e il suo spirito indomito.",
+    "Ero una meraviglia unica: nessuno come me era mai apparso tra loro.",
+    "Condividevo l'acqua potabile di un pozzo con la mia gente a giorni alterni.",
+    "Erano stati avvertiti che qualsiasi danno arrecato nei miei confronti avrebbe comportato una punizione immediata.",
+    "I più audaci tra loro hanno ignorato l'avvertimento e mi hanno paralizzato.",
+    "Dopo la mia morte, un unico, fragoroso grido dall'alto distrusse tutto il mio popolo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La cammella di Salih",
+        "La mucca di Musa",
+        "La nave di Nuh",
+        "Lo staff di Musa",
+        "Il Trono di Bilqis"
+      ],
+      "answer": "La cammella di Salih"
+    },
+    "trial": {
+      "label": "Il mio destino",
+      "options": [
+        "Mutilato e ucciso",
+        "Macellato come sacrificio",
+        "Trasformato in un serpente",
+        "Conservato durante una grande alluvione",
+        "Portato rapidamente attraverso un regno"
+      ],
+      "answer": "Mutilato e ucciso"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un pozzo d'acqua",
+        "Una tavoletta di pietra",
+        "Un roveto ardente",
+        "Un'arca di legno",
+        "Un trono d'oro e d'argento"
+      ],
+      "answer": "Un pozzo d'acqua"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Distrutto da un singolo urlo",
+        "Annegato in una grande alluvione",
+        "Bruciato da una pioggia di pietre",
+        "Schiacciato da un vento violento",
+        "Inghiottito dalla terra"
+      ],
+      "answer": "Distrutto da un singolo urlo"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

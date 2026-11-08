@@ -1,0 +1,61 @@
+{
+  "title": "Bangewazê Bêdawî yê Rastiyê",
+  "intro": "Peyamek bi tena serê xwe di nav gelek serhişk de radiweste, wan gazî Xwedayê Rastîn dike dema ku ew bi pûtên derewîn ve girêdayî ne. Ev pêxember navekî hildigire ku bi wateyek bihêz deng vedide - 'yê ku li parastinê digere' - lê tenê redkirin û înkarkirinê distîne. Bi rêya razîkirina nerm û hişyariya xurt, ev giyan peyamek îlahî hildigire ku gerdûn bi xwe di dawiyê de wê rast bike. Hûn dikarin vê kesayetiya sabît ku yek ji vegotinên herî kevnar ên di nivîsarên pîroz ên Îslamî de temsîl dike, nas bikin?",
+  "clues": [
+    "Gelê min gelek xwedayan diheband, di heman demê de min ew gazî kirin ku ji bo Xwedayê ku erd û ezman afirandiye xizmetê bikin.",
+    "Ez li ber miletê xwe rawestiyam û min ragihand ku ez ê ji wan ti xelatê nexwazim - tenê daxwaza min rêberiya wan ber bi rastdariyê ve bû.",
+    "Bayekî mezin wek cezayek îlahî li ser gelê min hat şandin, bayekî ku Quran hem bi şiklê pirjimar û hem jî bi şiklê mê behs dike.",
+    "Berevajî hin pêxemberan, di çîroka min de ne jinek û ne jî zarokên ku bi awayekî berbiçav behs bikin, nedan min, ji ber ku erkê min ew bû ku bi tenê gazî gelê xwe bikim.",
+    "Navê min wateyeke kûr hildigire - bi têgeha parastin û penagehê ve girêdayî ye ku mirov lê digere.",
+    "Gelê min bi navekî cografîk ê taybetî ji bo geliyê ku lê dijiyan dihat nasîn, û axa wan bi nefretek taybetî ji ber nebûna nebatan dihat wesifandin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Hûd",
+        "Pêxember Salih",
+        "Pêxember Şû'eyb",
+        "Pêxember Nûh",
+        "Pêxember Hudeyb"
+      ],
+      "answer": "Pêxember Hûd"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Lehiya erdê",
+        "Bayê germ",
+        "Erdheja wêrankirinê",
+        "Bêaramî û birçîbûnê",
+        "Nîvbûna di deryayê de"
+      ],
+      "answer": "Bayê germ"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Geliyê bereket ê Yemenê",
+        "Çola qûmî ya Midyanê",
+        "Geliyê kevirî yê Semûdê",
+        "Welatê kevnar ê gelê Ad",
+        "Herêma peravê ya Misrê"
+      ],
+      "answer": "Welatê kevnar ê gelê Ad"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Gelê min tobe kir û çû bihuştê",
+        "Ti kes ji gelê min ji cezayê xelas nebû",
+        "Ez mîna birayê xwe Yunus sax hatim hildan",
+        "Ez bi peyrewên xwe re koçî welatekî pîroz kirim",
+        "Bayê tenê kafir wêran kirin, lê bawermend sax man"
+      ],
+      "answer": "Ti kes ji gelê min ji cezayê xelas nebû"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

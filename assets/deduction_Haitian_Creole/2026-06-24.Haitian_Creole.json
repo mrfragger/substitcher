@@ -1,0 +1,61 @@
+{
+  "title": "Gadyen Flanm Entèdib la",
+  "intro": "Yon figi kanpe nan papòt kote ki pi pè nan lemonn envizib la, li konfye l yon devwa okenn lòt èt pa ta vle. Lè nanm k ap soufri yo rele pou mande padon, yon repons sevè rezone nan chanm dife yo. Èske ou ka dekouvri idantite gadyen etènèl sa a?",
+  "clues": [
+    "Mwen kanpe nan papòt yon kote pinisyon terib nan envizib la.",
+    "Yon dife byen cho, ki pa ka etenn, se sant devwa solanèl mwen an.",
+    "Nanm k ap soufri yo rele non mwen, y ap mande soulajman anba touman san fen yo a.",
+    "Lè yo sipliye, mwen deklare yo p ap janm kite m.",
+    "Mwen pa moun, ni djinn — mwen se yon èt kreye nan obeyisans pi.",
+    "Mwen se zanj prensipal la ki te nonmen kòm gadyen etènèl dife lanfè a."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Malik",
+        "Jibril",
+        "Mikaèl",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Moun Lanfè yo ap plede pou touman yo fini",
+        "Yo soufle twonpèt la pou anonse Jou Jijman an",
+        "Koran an revele nan kè pwofèt la",
+        "Pèp la jete yon pwofèt nan yon gwo dife.",
+        "Yo bati yon gwo miray pou kenbe yon nasyon kòwonpi"
+      ],
+      "answer": "Moun Lanfè yo ap plede pou touman yo fini"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Dife Lanfè a (Jahannam)",
+        "Pye lotus la nan limit Paradi a",
+        "Yon twonpèt ki pèse",
+        "Yon baton ki transfòme an sèpan",
+        "Yon bèl twòn diven"
+      ],
+      "answer": "Dife Lanfè a (Jahannam)"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Moun ki rete nan lanfè yo di y ap rete pou tout tan",
+        "Moun ki rete nan lanfè yo padone epi yo libere",
+        "Moun ki rete nan lanfè yo resevwa yon dezyèm chans pou yo gen lafwa.",
+        "Moun ki rete nan lanfè yo deplase nan yon kote ki fre",
+        "Moun ki rete nan lanfè yo detwi nèt pa yon kout zeklè."
+      ],
+      "answer": "Moun ki rete nan lanfè yo di y ap rete pou tout tan"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

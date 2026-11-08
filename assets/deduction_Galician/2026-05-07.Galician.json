@@ -1,0 +1,61 @@
+{
+  "title": "O Chamador das Profundidades",
+  "intro": "Imaxina unha alma á que se lle confía unha mensaxe divina, pero que, nun momento de présa, se afastou do seu pobo sen permiso explícito. Esta viaxe levounos a unha proba extraordinaria, unha profunda proba de paciencia e confianza no Altísimo. Quen é este individuo cuxa historia nos ensina sobre o arrepentimento e a inmensidade da misericordia de Alá?",
+  "clues": [
+    "Enviáronme a unha gran nación, pero o seu rexeitamento inicial causoume angustia.",
+    "Deixei á miña xente, crendo que a miña misión estaba completa, antes de recibir unha orde clara de partir.",
+    "Busquei unha pasaxeira nun barco, pero unha forte tormenta e un sorteo resultaron nunha situación terrible.",
+    "Fun lanzado ao mar, e unha poderosa criatura das profundidades tragoume enteiro.",
+    "Na escuridade das súas entrañas, invoquei a Alá, admitindo o meu erro e pedindo o seu perdón.",
+    "Alá ordenoulle á criatura que me botase á praia, e recuperei a saúde baixo unha planta única."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Yusuf (Xosé)",
+        "Profeta Nuh (Noé)",
+        "Profeta Yunus (Xonás)",
+        "Profeta Sulaimán (Salomón)",
+        "Profeta Ayyub (Xob)"
+      ],
+      "answer": "Profeta Yunus (Xonás)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A división do mar",
+        "O lume de Nimrod",
+        "Ser tragado por un gran peixe",
+        "A inundación",
+        "A destrución dunha cidade por pedras"
+      ],
+      "answer": "Ser tragado por un gran peixe"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Arca",
+        "O persoal",
+        "A barriga do peixe",
+        "O pozo",
+        "A sarza ardente"
+      ],
+      "answer": "A barriga do peixe"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Converteuse nun gran gobernante",
+        "Construíu a Kaaba",
+        "Volveu para guiar unha nación arrepentida",
+        "Foi dado dominio sobre os djinns",
+        "Guiou á xente polo deserto"
+      ],
+      "answer": "Volveu para guiar unha nación arrepentida"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

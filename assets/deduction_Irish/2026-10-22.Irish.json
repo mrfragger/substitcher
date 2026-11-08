@@ -1,0 +1,61 @@
+{
+  "title": "Pobal an Chéad Chionta",
+  "intro": "I dtír na gcathracha ársa, bhí borradh faoi phobal tráth. Thug teachtaire le glaoch soiléir cuairt orthu, ach d’iompaigh siad uathu agus lean siad cosán nár shiúil aon duine riamh. Is scéal é a scéal faoi dhúchas, faoi dhíobháil, agus faoi phionós a d’fhág a dtír dhúchais mar chomhartha do chách a mhachnaíonn. Cé hiad na hanamacha seo?",
+  "clues": [
+    "Bhí cónaí orainn i gcathracha an mhachaire, áit ar ghlaoigh ár bhfáidh orainn chun fíréantachta.",
+    "Ba muidne na chéad daoine a rinne mígheanas nár dhein aon duine ar domhan riamh cheana.",
+    "Rinneamar ruaig ar thaistealaithe agus rinneamar olc go hoscailte inár gcruinnithe.",
+    "Dhiúltaíomar don teachtaire a seoladh chugainn agus bhagair muid é a dhíbirt as ár dtír.",
+    "Rith muid go dtí a theach ag éileamh air a chuid aíonna a thabhairt suas dúinn.",
+    "Báisteach cloch a bhí inár bpionós, agus cuireadh ár gcathair bun os cionn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Muintir Lut",
+        "Muintir Nuh",
+        "Muintir 'Ad",
+        "Muintir Thamud",
+        "Muintir Madyan"
+      ],
+      "answer": "Muintir Lut"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Rinne an chéad ghníomh sodamaíochta",
+        "Íodail adhraithe",
+        "Mealladh sa trádáil",
+        "Mharaigh siad a bhfáidh",
+        "Níor umhlaíodh a dtuismitheoirí"
+      ],
+      "answer": "Rinne an chéad ghníomh sodamaíochta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cathair an mhachaire",
+        "Cathair an tobair",
+        "Cathair na díge",
+        "Cathair an eilifint",
+        "Cathair an ghairdín"
+      ],
+      "answer": "Cathair an mhachaire"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Cuireadh clocha agus cuireadh bun os cionn leis",
+        "Báite ag tuile",
+        "Scriosta ag gaoth fhoréigneach",
+        "Slogtha ag an talamh",
+        "Buailte ag pléascadh mór"
+      ],
+      "answer": "Cuireadh clocha agus cuireadh bun os cionn leis"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

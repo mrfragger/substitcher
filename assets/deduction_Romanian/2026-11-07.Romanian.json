@@ -1,0 +1,61 @@
+{
+  "title": "căutarea certitudinii înstelate",
+  "intro": "Imaginează-ți cum stăi sub un cer vast al nopții, privind lumini strălucitoare cum se ridică și apoi se sting, în timp ce cauți ceea ce merită cu adevărat devoțiune. În jurul tău, imagini sculptate silențioase primesc laude și ofrande, însă rațiunea limpede le pune la îndoială puterea. O voce neînfricată este pe cale să conteste tradiția moștenită și să indice spre Creatorul cerurilor și al pământului.",
+  "clues": [
+    "M-am uitat la stele, la lună și la soare și am considerat că nu puteau fi Domnul meu, pentru că apun și dispar.",
+    "Am respins în mod deschis ceea ce venera poporul meu în afară de Allah și i-am chemat să-L venereze doar pe Creator.",
+    "Am dezbătut un conducător lăudăros care pretindea că dăruiește viața și moartea, iar eu i-am răspuns menționând că Allah aduce soarele dinspre est.",
+    "Am lovit idolii și i-am sfărâmat, lăsând doar pe cei mai mari dintre ei, pentru ca oamenii să se poată întoarce la ei.",
+    "Am fost prins și condamnat de poporul meu, care mi-a spus să construiesc o structură și să mă arunc în focul arzător.",
+    "Am fost mântuit când Allah a poruncit focului să fie răcoare și siguranță pentru mine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Ibrahim (Avraam)",
+        "Profetul Yahya (Ioan)",
+        "Profetul Al-Yasa (Elisei)",
+        "Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Profetul Ibrahim (Avraam)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A confruntat cultul idolilor și a dezbătut semnificația corpurilor cerești",
+        "A fost înghițit de un pește mare după ce a plecat furios",
+        "I-a condus pe adepții săi printr-o mare despărțită de Allah",
+        "A fost înviat viu la ceruri fără să fi gustat moartea",
+        "A dormit într-o peșteră cu tovarăși timp de mulți ani"
+      ],
+      "answer": "A confruntat cultul idolilor și a dezbătut semnificația corpurilor cerești"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un foc arzător, răcoros și sigur, făcut de Allah",
+        "Arca care i-a purtat pe credincioși prin potop",
+        "Toiagul care s-a transformat într-un șarpe",
+        "Masa așezată din ceruri",
+        "Cămila trimisă ca semn"
+      ],
+      "answer": "Un foc arzător, răcoros și sigur, făcut de Allah"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Protejat de foc și cu urmași drepți",
+        "Înecat alături de negaționisti într-o mare inundație",
+        "Transformați pentru încălcarea Sabatului",
+        "Distruse de păsări care cărau pietre de lut",
+        "Înghițit de pământ cu comori"
+      ],
+      "answer": "Protejat de foc și cu urmași drepți"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

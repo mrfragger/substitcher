@@ -1,0 +1,61 @@
+{
+  "title": "Go Atlarela ga Lefatshe",
+  "intro": "Mo nakong ya diteko tse dikgolo, motho yo o tumileng o ne a newa letlotlo le legolo la lefatshe, e leng teko ya go leboga le go ikokobetsa. Leeto la motho yono le dira jaaka thuto e e tseneletseng ya gore dithoto tse di bonalang di feta ka bonako le ditlamorago tsa go itseela kwa godimo. Ribolola boitshupo jwa mowa ono o kgang ya one e gabilweng mo mmung o o ka fa tlase ga rona.",
+  "clues": [
+    "Ke ne ke tshela mo gare ga batho ba ba neng ba kaelwa ke morongwa yo mogolo.",
+    "Allah o ne a nnaya dikhumo tse dintsi thata jaana mo e leng gore dinotlolo tsa matlotlo a me e ne e le morwalo o o bokete mo bathong ba le bantsi ba ba nonofileng.",
+    "Batho ba me, ka go itse khumo ya me, ba nkgakolola gore ke batle bonno jwa Morago ga Loso ka se Allah a se nneileng mme ke se ka ka lebala kabelo ya me ya lefatshe, le go dira molemo jaaka Allah a ntiretse molemo.",
+    "Ke ne ka bolela ka boikgogomoso gore khumo ya me e e seng kana ka sepe e ne ya fitlhelelwa fela ka kitso le maiteko a me, ke gana kamogelo epe ya bomodimo.",
+    "Fa ke ne ke kopiwa go ntsha moneelo kgotsa go amogela bopelotshweu jwa ga Allah, ke ne ka gana ka boikgogomoso, ke dumela gore dithoto tsa me e ne e le tsa me fela.",
+    "Ka ntlha ya boikgogomoso jwa me jo bo feteletseng le kgatelelo, Allah o ne a laela lefatshe gore le bulege le go kometsa nna le bonno jwa me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Hamane",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go latlhelwa mo molelong",
+        "Go nwela mo lewatleng",
+        "Go lelekwa mo tshingwaneng",
+        "Go fetolwa go nna tshwene",
+        "Go komediwa ke lefatshe"
+      ],
+      "answer": "Go komediwa ke lefatshe"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Namane ya gauta",
+        "Areka e e nonofileng",
+        "Nonyane e e buang",
+        "Lere le le gakgamatsang",
+        "Matlotlo a magolo le dinotlolo"
+      ],
+      "answer": "Matlotlo a magolo le dinotlolo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go nna mmusi yo mogolo",
+        "Go amogela tshenolo ya bomodimo",
+        "Go tlhatlogela kwa magodimong",
+        "Go tshela botshelo jo boleele jwa poifomodimo",
+        "Tshenyego e e feletseng ka ntlha ya boikgogomoso"
+      ],
+      "answer": "Tshenyego e e feletseng ka ntlha ya boikgogomoso"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

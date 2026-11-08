@@ -1,0 +1,61 @@
+{
+  "title": "A Nação que Desafiou a Ordem Natural",
+  "intro": "Em uma região cuja história ecoa através dos tempos, uma comunidade viveu em aberta rebelião contra as leis da pureza. Seus atos foram tão inéditos que são lembrados como um alerta para toda a humanidade. Quem eram essas almas e qual destino as acometeu?",
+  "clues": [
+    "Habitávamos uma terra situada numa rota por onde os viajantes frequentemente passavam, mas nós tornávamos a sua jornada perigosa.",
+    "Cometemos atos de indecência que ninguém no mundo jamais havia cometido.",
+    "Um mensageiro dentre nós nos chamou a abandonar nossos maus caminhos, mas nós o rejeitamos e exigimos punição caso ele estivesse falando a verdade.",
+    "Quando hóspedes ilustres chegavam à nossa cidade, procurávamos atacá-los, sem saber que eram mensageiros da destruição.",
+    "Fomos avisados ​​de um castigo terrível se não desistíssemos, mas zombamos do aviso e permanecemos em nosso pecado.",
+    "Uma chuva de pedras caiu do céu sobre nós, e nossas casas foram destruídas, não deixando vestígio algum, exceto um sinal para aqueles que refletem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Povo de Lut",
+        "Povo de Thamud",
+        "Povo de A'ad",
+        "Povo de Madyan",
+        "Povo de Sabá"
+      ],
+      "answer": "Povo de Lut"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Cometeram atos de imoralidade sem precedentes e obstruíram estradas.",
+        "Adoravam um bezerro de ouro",
+        "Matou a camela sagrada.",
+        "Enganaram nas transações comerciais e lesaram o povo.",
+        "Construiu uma torre imponente para desafiar os céus."
+      ],
+      "answer": "Cometeram atos de imoralidade sem precedentes e obstruíram estradas."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Anjos disfarçados de convidados elegantes",
+        "Uma camela emergindo de uma rocha",
+        "Um cajado se transformando em serpente.",
+        "Um barco construído em uma montanha",
+        "Um fogo que se tornou frio e pacífico."
+      ],
+      "answer": "Anjos disfarçados de convidados elegantes"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruída por uma chuva de pedras do céu",
+        "Engolido pela terra",
+        "Afogado em uma grande enchente",
+        "Atingido por uma explosão ensurdecedora",
+        "Transformados em macacos"
+      ],
+      "answer": "Destruída por uma chuva de pedras do céu"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

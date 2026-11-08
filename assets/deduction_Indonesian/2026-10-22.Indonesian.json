@@ -1,0 +1,61 @@
+{
+  "title": "Komunitas Pelanggaran Pertama",
+  "intro": "Di negeri kota-kota kuno, pernah ada suatu bangsa yang berkembang. Mereka dikunjungi oleh seorang utusan dengan seruan yang jelas, namun mereka berpaling dan menempuh jalan yang belum pernah dilalui siapa pun. Kisah mereka adalah kisah pembangkangan, kebejatan, dan hukuman yang meninggalkan tanah air mereka sebagai tanda bagi semua yang merenung. Siapakah jiwa-jiwa ini?",
+  "clues": [
+    "Kami tinggal di kota-kota di dataran, tempat nabi kami menyeru kami kepada kebenaran.",
+    "Kami adalah yang pertama melakukan tindakan tidak senonoh yang belum pernah dilakukan siapa pun di seluruh dunia sebelumnya.",
+    "Kami mencegat para pelancong dan melakukan kejahatan secara terang-terangan dalam perkumpulan kami.",
+    "Kami menolak utusan yang dikirim kepada kami dan mengancam akan mengusirnya dari tanah kami.",
+    "Kami bergegas ke rumahnya dan menuntut agar dia menyerahkan tamu-tamunya kepada kami.",
+    "Hukuman kami adalah hujan batu, dan kota kami dibantai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Orang-orang Lut",
+        "Orang-orang Nuh",
+        "Orang-orang 'Ad",
+        "Orang-orang Tsamud",
+        "Penduduk Madyan"
+      ],
+      "answer": "Orang-orang Lut"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Melakukan tindakan sodomi pertama",
+        "Berhala yang disembah",
+        "Ditipu dalam perdagangan",
+        "Membunuh nabi mereka",
+        "Tidak taat kepada orang tua mereka"
+      ],
+      "answer": "Melakukan tindakan sodomi pertama"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Kota di dataran",
+        "Kota sumur",
+        "Kota parit",
+        "Kota gajah",
+        "Kota taman"
+      ],
+      "answer": "Kota di dataran"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Dihujani batu dan terbalik",
+        "Tenggelam akibat banjir",
+        "Hancur akibat angin kencang.",
+        "Ditelan oleh bumi",
+        "Terkena ledakan keras"
+      ],
+      "answer": "Dihujani batu dan terbalik"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

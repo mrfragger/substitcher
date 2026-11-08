@@ -1,0 +1,61 @@
+{
+  "title": "Vwa veridik tan lontan yo",
+  "intro": "Gen yon nanm nan Koran an ki gen istwa rakonte nan jis kèk vèsè, men kalite nòb li yo klere avèk yon klète briyan. Louwanj Toupisan an pou yon vèti espesyal, ansyen sèvitè sa a nan Trè Mizèrikòdye a kenbe yon plas nan paj revelasyon yo. Travay ou se idantifye figi remakab sa a. Èske ou ka devine kiyès yo ye?",
+  "clues": [
+    "Mwen se yon pwofèt Allah ki te viv nan mitan premye jenerasyon limanite yo.",
+    "Allah mansyone m nan Liv Li a ansanm ak lòt pwofèt yo, yo tout te fè lwanj pou menm nòb vèti a.",
+    "Nan Koran an, yo dekri mwen kòm yon nonm verite.",
+    "Allah te leve m' nan yon nivo ki wo ke anpil lòt moun pa janm rive atenn.",
+    "Yo mansyone non mwen nan Sourat Al-Anbiya, ansanm ak de lòt pwofèt yo te fè lwanj pou pasyans yo.",
+    "Mwen se Idris, pwofèt ki veridik la epi ki elve a."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Idris",
+        "Pwofèt Nouh",
+        "Pwofèt Ibrahim",
+        "Pwofèt Moïse",
+        "Pwofèt Ismayèl"
+      ],
+      "answer": "Pwofèt Idris"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Kenbe pasyans ak verasite, answit elve nan yon estasyon ki wo",
+        "Konstwi yon gwo lach pou sove kwayan yo anba yon gwo delij.",
+        "Yo jete l nan yon gwo dife epi yo soti san okenn domaj.",
+        "Konfwonte yon wa puisan epi defèt lame majisyen li yo",
+        "Siviv andedan vant yon gwo pwason nan fon lanmè a"
+      ],
+      "answer": "Kenbe pasyans ak verasite, answit elve nan yon estasyon ki wo"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon pozisyon ki wo ak elve pa Allah",
+        "Yon gwo bato ki te konstwi ak planch epi ki te kouvri ak goudwon",
+        "Yon dife ki byen boule, alimante pa moun k ap adore zidòl yon wa mechan",
+        "Yon gwo lanmè ki fann an de chemen sèk",
+        "Vant nwa yon gwo balèn nan fon oseyan an"
+      ],
+      "answer": "Yon pozisyon ki wo ak elve pa Allah"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Admèt nan mizèrikòd Allah kòm youn nan moun ki jis yo",
+        "Sove ansanm ak tout kwayan yo anba yon delij mondyal",
+        "Mwen soti nan flanm dife a san dife pa touche l",
+        "Mennen pitit Izrayèl yo an sekirite nan libète lòt bò lanmè a",
+        "Reyini ak fanmi yo renmen anpil la apre plizyè ane difikilte"
+      ],
+      "answer": "Admèt nan mizèrikòd Allah kòm youn nan moun ki jis yo"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

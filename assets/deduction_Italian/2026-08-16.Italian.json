@@ -1,0 +1,61 @@
+{
+  "title": "La voce silenziosa nella camera",
+  "intro": "Molto tempo fa, nel silenzio di una camera sacra, risuonò una preghiera, levata da un'anima anziana che anelava a ciò che il mondo aveva dichiarato impossibile. Questa figura, avanzata negli anni e oppressa dalle preoccupazioni per il futuro, si rivolse al Signore con una supplica personale. Ciò che seguì fu una risposta divina che sfidava ogni aspettativa umana: una testimonianza della misericordia di Colui che risponde alle chiamate disperate.",
+  "clues": [
+    "Ho invocato il mio Signore in privato, ritirandomi in una stanza dove mi sono dedicato alla Sua adorazione.",
+    "Ho confessato al mio Signore di temere per coloro che sarebbero venuti dopo di me, preoccupato per la guida del mio popolo dopo la mia dipartita.",
+    "La vecchiaia mi aveva sopraffatto: le mie ossa si erano indebolite e i capelli bianchi si erano diffusi sulla mia testa.",
+    "Mia moglie era stata sterile per tutta la vita, eppure ho chiesto al Signore di concedermi un erede dalla Sua presenza.",
+    "Ho chiesto un segno e il Signore mi ha risposto impedendomi di parlare con chiunque per tre notti, pur rimanendo fisicamente illeso.",
+    "Mi era stato promesso un figlio di nome Yahya, un nome che il mio Signore dichiarò non essere mai stato dato a nessuno prima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Zakariya",
+        "Profeta Nuh",
+        "Profeta Mosè",
+        "Il profeta Yusuf",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Zakariya"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Prego per avere un erede in vecchiaia se la mia moglie è sterile.",
+        "Essere gettati in un fuoco ardente",
+        "Essere inghiottito da un grosso pesce nell'oscurità",
+        "Sopportare la perdita della famiglia, del patrimonio e della salute",
+        "Ricevere l'ordine di costruire una grande arca"
+      ],
+      "answer": "Prego per avere un erede in vecchiaia se la mia moglie è sterile."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La camera di preghiera (mihrab)",
+        "Un bastone che si trasforma in un serpente",
+        "Una grande arca di legno",
+        "Un giardino con una sorgente unica",
+        "Una montagna dove si radunavano gli uccelli"
+      ],
+      "answer": "La camera di preghiera (mihrab)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Gli fu concesso un figlio dal nome miracoloso nonostante l'età estremamente avanzata",
+        "Salvato da un incendio divampante per volere divino.",
+        "Una grande alluvione distrusse gli increduli",
+        "Riconquistato la famiglia, la ricchezza e la salute dopo tanta pazienza",
+        "Il faraone e il suo esercito annegarono nel mare"
+      ],
+      "answer": "Gli fu concesso un figlio dal nome miracoloso nonostante l'età estremamente avanzata"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

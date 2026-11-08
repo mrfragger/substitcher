@@ -1,0 +1,61 @@
+{
+  "title": "L'architetto della falsa ambizione",
+  "intro": "Nell'antico Egitto, una figura di grande autorità servì uno dei tiranni più famigerati della storia. A quest'individuo fu affidato un compito audace: costruire una struttura destinata a sfidare i cieli. La sua storia, narrata nel Corano, è un monito eloquente su come l'obbedienza cieca all'arroganza conduca solo alla rovina.",
+  "clues": [
+    "Ho prestato servizio alla corte di un potente sovrano che rivendicava la divinità su quelle terre.",
+    "Ho ricoperto un'alta carica ministeriale, consigliando il tiranno più arrogante del mio tempo.",
+    "Il mio sovrano era ossessionato dal sfidare il Dio di Mosè, che essi si rifiutavano di riconoscere.",
+    "Mi fu ordinato di costruire una torre di mattoni cotti nel fuoco affinché il mio sovrano potesse ascendere al cielo.",
+    "La torre non raggiunse mai il cielo, e la mia sottomissione all'arroganza mi procurò un'eterna vergogna.",
+    "Sono perito con colui che ho seguito, e il mio nome è diventato un monito eterno contro coloro che favoriscono i tiranni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Haman",
+        "Azar (padre di Ibrahim)",
+        "Illia (un profeta)",
+        "Dhu al-Kifl",
+        "Harut (uno dei due angeli di Babilonia)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ricevette l'ordine di costruire una struttura imponente che raggiungesse il cielo.",
+        "Incaricato di interpretare un sogno inviato dal divino",
+        "Gettato in un fuoco ardente come prova di fede",
+        "Costretto a scegliere tra il trono e la verità",
+        "Sfida in una gara di stregoneria"
+      ],
+      "answer": "Ricevette l'ordine di costruire una struttura imponente che raggiungesse il cielo."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una torre di mattoni cotti al forno",
+        "Un bastone che si trasforma in un serpente",
+        "Una nave che naviga attraverso una grande alluvione",
+        "Un giardino racchiuso da alte mura",
+        "Un trono ornato di rubini e oro"
+      ],
+      "answer": "Una torre di mattoni cotti al forno"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Annegato insieme all'oppressore nel mare",
+        "Divenne un potente monarca di vaste terre",
+        "È scampato illeso a un incendio divampato.",
+        "Costruì un prospero regno di saggezza",
+        "Si è ricongiunto alla famiglia dopo anni di esilio."
+      ],
+      "answer": "Annegato insieme all'oppressore nel mare"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

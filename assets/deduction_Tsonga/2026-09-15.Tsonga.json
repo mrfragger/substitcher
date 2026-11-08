@@ -1,0 +1,61 @@
+{
+  "title": "Malwandla lama tiseke ku chava",
+  "intro": "Edorobeni leri dyiweke hi vuhomboloki, nandza wo tshembeka u amukele vaendzi lava a va nga va langutelanga siku rin’wana. Hi ku karhateka hi vuhlayiseki bya vona, munhu loyi u nyikele nsirhelelo, kambe vanhu va doroba leri va lave nchumu lowu khomisaka tingana. Hi ku tsundzuxiwa hi khombo leri tshinelaka, nandza u balekile ni ndyangu wa yena ehansi ka munyama, a siya muti lowu funghiweke ku lovisiwa. I mani mupfumeri loyi a ri yexe?",
+  "clues": [
+    "Ndzi rhumeriwe ku va murhumiwa eka vanhu lava a va endla swiendlo leswi khomisaka tingana.",
+    "Vaendzi lava nga languteriwangiki va tile ekaya ra mina, naswona a ndzi karhateka ngopfu hi vuhlayiseki bya vona ku tlula bya mina.",
+    "Vanhu va mina a va lava ku vona vaendzi va mina hikwalaho ka swikongomelo swo biha, naswona ndzi ringete ku anakanya na vona.",
+    "Vaendzi va mina va tikombise tanihi tintsumi kutani va ndzi lerisa leswaku ndzi teka ndyangu wa mina ndzi famba nivusiku.",
+    "Nsati wa mina a nga xi yingisanga xirhambo xo baleka naswona u langutane ni ndzoviso lowu fanaka ni wa vanhu va mina.",
+    "Doroba ra ka hina ri mbundzumuxiwile hi mpfula ya maribye ya vumba lebyi nga ni swiphemuphemu, swiphemu swa rona leswi tlakukeke swi tisiwe ehansi swinene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Lut",
+        "Muprofeta Musa",
+        "Muprofeta Ibrahim",
+        "Muprofeta Nuh",
+        "Muprofeta Hud"
+      ],
+      "answer": "Muprofeta Lut"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku laveka ka vanhu va mina ku tshinelela vaendzi va mina hi ndlela yo biha",
+        "Ku hambanisiwa ka lwandle leswaku u balekela mufumi wa tihanyi",
+        "Ku akiwa ka ngalava leyikulu exikarhi ka ku hlekuriwa",
+        "Gandzelo ra n’wana wa mina eka ndzingo wa ripfumelo",
+        "Ntokoto wa ku mitiwa hi nhlampfi leyikulu"
+      ],
+      "answer": "Ku laveka ka vanhu va mina ku tshinelela vaendzi va mina hi ndlela yo biha"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Muti lowu mbundzumuxiweke wa vanhu va mina",
+        "Ntshava leyi ndzi amukeleke nkulumo ya Xikwembu eka yona",
+        "Ngalava leyi fambeke hi xikepe exikarhi ka ndhambi leyikulu",
+        "Kamela ya xisati leyi humeke eribyeni",
+        "Ntanga lowu nga ni muendzi wo lulama la fihliweke"
+      ],
+      "answer": "Muti lowu mbundzumuxiweke wa vanhu va mina"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ndzi ponisiwile ni ndyangu wa ka hina muti wa ka hina wu nga si mbundzumuxiwa",
+        "Ndzi rhangele vanhu va mina eka ntshunxeko ku tsemakanya lwandle",
+        "Ndzi ake ngalava leyikulu kutani ndzi pona ndhambi leyikulu",
+        "Ndzi nyikiwe vulawuri ehenhla ka mimoya ni majini",
+        "Hi ku lehisa mbilu ndzi tiyisele ku xaniseka naswona ndzi hakeriwe hi ndyangu"
+      ],
+      "answer": "Ndzi ponisiwile ni ndyangu wa ka hina muti wa ka hina wu nga si mbundzumuxiwa"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

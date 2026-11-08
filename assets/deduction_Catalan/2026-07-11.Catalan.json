@@ -1,0 +1,61 @@
+{
+  "title": "Els viatgers del camp verd",
+  "intro": "En l'antiguitat, dues persones conreaven terres veïnes. Els seus camins estaven entrellaçats, però els seus cors els portaven cap a destinacions molt diferents. Un va caminar pel camí recte, mentre que l'altre es va desviar cap a la foscor de la negació. Pots desentranyar el misteri d'aquests dos guardians de la collita?",
+  "clues": [
+    "Posseïa collites abundants, collites exuberants que enlluernaven els ulls dels espectadors.",
+    "El meu veí posseïa encara més generositat que jo, però jo cobejava la seva porció més que la meva.",
+    "Vaig suggerir que destruíssim completament els seus cultius, per consolidar-ho tot sota el meu control.",
+    "També vaig portar la ruïna a la meva pròpia collita, destruint-ho tot amb els meus absurds plans.",
+    "Vaig quedar-me indefens mentre les meves collites es marcien i la meva riquesa es convertia en pols en una sola nit.",
+    "No vaig tenir part en l'altra vida, i la meva morada final es va convertir en un pou de foc ardent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "L'home que va negar la resurrecció i el judici",
+        "El governant que va oprimir el pagès just",
+        "El ric terratinent que no tenia gratitud",
+        "El pagès que cobejava la terra del seu veí",
+        "El soci traïdor que va planejar la destrucció"
+      ],
+      "answer": "El pagès que cobejava la terra del seu veí"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "La prova de rebre la revelació divina",
+        "El repte de la riquesa i la paciència",
+        "La temptació de destruir el mitjà de vida d'una persona justa",
+        "El manament de dividir l'herència de manera justa",
+        "La lluita contra l'opressió d'un tirà"
+      ],
+      "answer": "La temptació de destruir el mitjà de vida d'una persona justa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Els verds jardins del paradís",
+        "Dos camps de conreu veïns",
+        "Les muntanyes que van ser testimonis de la destrucció",
+        "El santuari sagrat de la Meca",
+        "Les ribes d'una terra beneïda"
+      ],
+      "answer": "Dos camps de conreu veïns"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "El paradís etern com a recompensa per la justícia",
+        "Destrucció completa d'ambdues collites en aquesta vida",
+        "Exili i vagar fins a la mort",
+        "Prosperitat temporal seguida de foc etern",
+        "Una restauració miraculosa i una recompensa duplicada"
+      ],
+      "answer": "Destrucció completa d'ambdues collites en aquesta vida"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

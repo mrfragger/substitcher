@@ -1,0 +1,61 @@
+{
+  "title": "Morongwa yo o neng a lebana le baobamedi ba medimo ya disetwa",
+  "intro": "Mo nakong e boineelo bo neng bo fapogile, morongwa o ne a tsoga ka pitso ya go boela kwa kobamelong ya Morena wa mafatshe. Setshwantsho seno se ne se eme sentle kgatlhanong le batho ba ba neng ba tseneletse mo kobamelong ya modimo wa maaka, se ba gakolola ka Mmopi wa bone wa boammaaruri le Morena wa borraabonemogologolwane. Le fa go ntse jalo batho ba ne ba sa tlhokomele mme ba gana tlhagiso, ba tshwaya phelelo ya bone. Moletsi yono yo o sa reketleng e ne e le mang?",
+  "clues": [
+    "Ke ne ka romelwa kwa bathong ba ba neng ba fapogile tsela ya Modimo o le Mongwe wa Boammaaruri.",
+    "Ke ne ka botsa batho ba me ka re, \"A ga lo kitla lo boifa Allah?\"",
+    "Ke ne ka ba bitsa gore ba tlogele kobamelo ya bone ya modimo wa maaka o o bidiwang Baale.",
+    "Batho ba me ba ne ba gana pitso ya me mme ba ganelela mo kobamelong ya bone ya medimo ya disetwa.",
+    "Ka ntlha ya go itatola ga bone, ruri ba tla ntshediwa kotlhao.",
+    "Morena wa me o ne a nnaya kagiso le segopotso se se segofaditsweng mo gare ga dikokomana tsa moragonyana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Ilyas",
+        "Moporofeti Yahya",
+        "Moporofeti Dul-Kifl",
+        "Moporofeti Yusuf",
+        "Moporofeti Shu'ayb"
+      ],
+      "answer": "Moporofeti Ilyas"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O ne a bitsa batho ba gagwe gore ba tlogele Baale .",
+        "A aga araka go boloka badumedi",
+        "O latlhetswe mo molelong",
+        "O ne a tshaba Faro wa mogateledi",
+        "A itaya lefika go ntsha metsi"
+      ],
+      "answer": "O ne a bitsa batho ba gagwe gore ba tlogele Baale ."
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Baale",
+        "Botlhe",
+        "Ale-Usa",
+        "Manate",
+        "Hubale"
+      ],
+      "answer": "Baale"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go newa kagiso le segopotso se se segofaditsweng",
+        "E meditswe ke lefatshe",
+        "E sentswe ke setsuatsue se segolo",
+        "E fetogile letlapa",
+        "O nwetse mo lewatleng"
+      ],
+      "answer": "Go newa kagiso le segopotso se se segofaditsweng"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

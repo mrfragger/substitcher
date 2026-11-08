@@ -1,0 +1,61 @@
+{
+  "title": "Erreinua ibai batek probatua",
+  "intro": "Antzinaroan, jainkozko dekretuz altxatzen da lider bat. Agintari honen erregealdia ez zen aintzaz hasi, baizik eta ur korronteekin egindako proba batekin. Etsai ikaragarri batek erronka egingo zion haien armadari, eta emaitzak historiaren bidea aldatuko zuen. Asmatuko al duzu nor den pertsonaia hau?",
+  "clues": [
+    "Nazio handi bat gidatzeko aukeratu ninduten, baina izendapena goitik etorri zen, ez herriarengandik.",
+    "Objektu sakratu bat itzuli zioten nire herriari, nire agintea berresteko seinale gisa.",
+    "Nire soldaduak ibai batekin probatu nituen — gehienek bertatik edan eta huts egin zuten.",
+    "Jalut izeneko gerlari ikaragarri bat etorri zen gure aurka armada handi batekin.",
+    "Nire lerroetako gazte batek, fedeaz bakarrik armatuta, Jalut garaitu zuen.",
+    "Gure garaipenaren ondoren, erreinua azkenean txapeldun gazte hari eman zitzaion."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Talut (Saul)",
+        "Jalut (Goliat)",
+        "Dawud profeta",
+        "Musa profeta",
+        "Harun profeta"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Ibai batekin probatu da",
+        "Su bizian botata.",
+        "Seme bat sakrifikatzeko agindua eman zioten",
+        "Arka handi bat eraikitzeko agindua eman zioten",
+        "Arrain handi batek irentsi du"
+      ],
+      "answer": "Ibai batekin probatu da"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Itunaren Arka",
+        "Itsasoa zatitu zuen makila bat",
+        "Honda bat eta harri leunak",
+        "Urrezko txahal idolo bat",
+        "Tronu bikaina."
+      ],
+      "answer": "Itunaren Arka"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erresuma txapeldun gazteari (Dawud) transferitu zitzaion",
+        "Itsasoan armadarekin itota",
+        "Sute bortitz batetik segurtasunez aterata",
+        "Lurrak altxorrez irentsia",
+        "Bizirik erreta sutan zegoen lubaki batean"
+      ],
+      "answer": "Erresuma txapeldun gazteari (Dawud) transferitu zitzaion"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

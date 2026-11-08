@@ -1,0 +1,61 @@
+{
+  "title": "Jedanaest zvijezda koje su se poklonile",
+  "intro": "Lik iz Kur'ana dobio je u djetinjstvu duboku viziju - san o nebeskim tijelima koja se klanjaju u znak poštovanja. Prošle su godine kroz izdaju, razdvajanje, lažne optužbe i zatvor prije nego što se ta vizija ostvarila. Tko je ta otporna duša čija priča zauzima najduže poglavlje Kur'ana?",
+  "clues": [
+    "Nekad sam bio mlad, blagoslovljen izvanrednim snom za koji me čak i vlastiti otac upozorio da ga zadržim za sebe.",
+    "Moja vlastita braća, zaslijepljena ljubomorom, skovala su zavjeru protiv mene i bacila me u duboki, mračni bunar.",
+    "Odveden sam u daleku zemlju i prodan u kućanstvo plemenitog dužnosnika, gdje sam stekao naklonost i uzdigao se u odgovornosti.",
+    "Lažna optužba dovela je do mog nepravednog zatočenja, no u tom mračnom mjestu pronašao sam utjehu u molitvi i sedždi Allahu.",
+    "Allah me blagoslovio rijetkom sposobnošću tumačenja snova, što me je na kraju dovelo pred vladara zemlje i uzdiglo na visok položaj povjerenja.",
+    "Nakon dugih godina razdvojenosti, ponovno sam se ujedinio sa svojom voljenom obitelji, a moj dječji san o jedanaest zvijezda, suncu i mjesecu koji mi se klanjaju konačno se ispunio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Jusuf",
+        "Poslanik Salih",
+        "Poslanik Iljas",
+        "Tubba', vladar drevnog Himyara",
+        "Ponizni pastir s palestinskih brda"
+      ],
+      "answer": "Poslanik Jusuf"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti bačen u duboki, mračni bunar od strane ljubomorne braće",
+        "Biti progutan od strane velikog stvorenja iz dubokih mora",
+        "Biti bačen u plamteću vatru od strane idolopoklonika",
+        "Biti odnesen božanskim vjetrom uništenja",
+        "Preživjeti veliku poplavu koja je prekrila cijelu zemlju"
+      ],
+      "answer": "Biti bačen u duboki, mračni bunar od strane ljubomorne braće"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Suhi bunar u pustinji gdje sam bio napušten",
+        "Velika riba dubokih mora",
+        "Masivna arka izgrađena po božanskoj zapovijedi",
+        "Toranj izgrađen da dosegne nebesa",
+        "Sveta vatra koja je odbijala gorjeti"
+      ],
+      "answer": "Suhi bunar u pustinji gdje sam bio napušten"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ponovno se ujedinio s obitelji nakon godina razdvojenosti i postao pouzdani svećenik",
+        "Predvodio sam veliki egzodus svog naroda preko razdvojenog mora",
+        "Upozorio sam svoju naciju na nadolazeću propast koja ih je proždirala",
+        "Izgradio je svetu kuću koja je postala utočište za sve",
+        "Sigurno izašao iz utrobe velikog stvorenja nakon tri dana"
+      ],
+      "answer": "Ponovno se ujedinio s obitelji nakon godina razdvojenosti i postao pouzdani svećenik"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

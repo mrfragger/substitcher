@@ -1,0 +1,61 @@
+{
+  "title": "Umthwali Wesigidimi Esibalulekileyo",
+  "intro": "Umphefumlo olungileyo wathunyelwa ukukhokela abantu abalahlekileyo kwizigqitho ezingazange zibonwe ngaphambili. Lo mthunywa wema eqinile, enika isilumkiso esiqatha nxamnye nokonakala okwakuchasene nomyalelo wendalo. Nangona kwakucelwe ngokunyaniseka, uluntu lwangena nzulu ebumnyameni, lubeka isiseko sokuba uThixo aphendule ngendlela engafaniyo nezinye. Ungamfumana na lo mkhonzi ka-Allah othembekileyo?",
+  "clues": [
+    "Ndandisisihlobo somnye umprofeti omkhulu, ndaza ndafudukela naye, ndishiya ilizwe lethu.",
+    "Ndathunyelwa kubantu ababubi babo bungaqhelekanga, isiphambeko esingazange senziwe yindalo ngaphambi kwabo.",
+    "Indlu yam yayahlukene; ilungu losapho elisondeleyo laxhasa abantu abangakholwayo ngasese.",
+    "Iingelosi, ezikwimo yamadodana amahle, zeza ekhayeni lam njengeendwendwe, zindibangela usizi olukhulu ngenxa yokhuseleko lwazo.",
+    "Ndanikela ngeentombi zam kubantu bakowethu ukuze ndibathintele kwizenzo zabo ezihlazisayo.",
+    "Abantu bam batshatyalaliswa sisikhalo esibi nemvula yamatye odongwe olutshisiweyo, ngelixa mna nosapho lwam, ngaphandle komnye, sasindiswa ngokuphuma ebusuku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uShu'ayb",
+        "Umprofeti uSalih",
+        "Umprofeti uLut",
+        "Umprofeti uHud",
+        "Umprofeti uNuh"
+      ],
+      "answer": "Umprofeti uLut"
+    },
+    "trial": {
+      "label": "Yayiyintoni isilingo sam esiphambili?",
+      "options": [
+        "Ukweyisela ukumkani ongqongqo ukuba anganditshisi emlilweni.",
+        "Ukujongana nomona wabantakwethu nokuphoswa equleni.",
+        "Ukujongana nabantu abenza izinto ezingafanelekanga ngokwesondo ngendlela engazange ibonwe ngaphambili.",
+        "Ukukhokela abantu bam ukuba baphume ebukhobokeni kuFaro onamandla.",
+        "Ukwakha inqanawa enkulu yokusindisa amakholwa kwisikhukula esikhulu."
+      ],
+      "answer": "Ukujongana nabantu abenza izinto ezingafanelekanga ngokwesondo ngendlela engazange ibonwe ngaphambili."
+    },
+    "location": {
+      "label": "Yayiphi Indawo Yothumo Lwam?",
+      "options": [
+        "Isixeko saseMadyan",
+        "Isixeko samandulo sase-Iram",
+        "Ilizwe laseYiputa phantsi koFaro",
+        "Izixeko zaseSodom naseGomora",
+        "Isixeko saseNineve"
+      ],
+      "answer": "Izixeko zaseSodom naseGomora"
+    },
+    "outcome": {
+      "label": "Yayiyintoni iMpumo Eyokugqibela?",
+      "options": [
+        "Izixeko zabhukuqwa zaza zahlanjwa ngamatye odongwe olutshisiweyo.",
+        "Abantu bam baginywa ngumhlaba kunye nenkokeli yabo etyebileyo.",
+        "Abantu bam batshatyalaliswa ngumoya onamandla kangangeentsuku ezisixhenxe neentsuku ezisibhozo.",
+        "Abantu bam babethwa ziinkumbi, iintwala, namasele.",
+        "Intlanzi enkulu yandiginya emva kokuba ndishiye umsebenzi wam."
+      ],
+      "answer": "Izixeko zabhukuqwa zaza zahlanjwa ngamatye odongwe olutshisiweyo."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

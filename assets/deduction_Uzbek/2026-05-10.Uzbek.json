@@ -1,0 +1,61 @@
+{
+  "title": "Minoralar quruvchilari",
+  "intro": "Uzoq o'tmishda o'zining ta'sirchan qurilish yutuqlari va ulkan kuchi bilan ajralib turadigan qudratli tsivilizatsiya paydo bo'ldi. Bu jamoaga mo'l-ko'l resurslar va jismoniy kuch berilgan edi, ammo ular o'zlarini boshqarish uchun yuborilgan ilohiy xabarga qarshi chiqish yo'lini tanladilar. Ularning hikoyasi tarix yilnomalarida chuqur saboq, haqiqatni rad etishning oqibatlarining isboti bo'lib xizmat qiladi.",
+  "clues": [
+    "Bizga zamonamizdagi boshqa odamlarga o'xshamaydigan ulkan jismoniy kuch va qaddi-qomat berilgan edi.",
+    "Biz abadiy yashaymiz deb o'ylab, har bir baland joyda ulkan inshootlar va baland ustunlar qurish bilan mashhur edik.",
+    "Bizni yolg'iz Allohga ibodat qilishga va butlarimizdan voz kechishga chaqirib, o'zimizdan bir payg'ambar yuborildi.",
+    "Biz elchimizdan kibr bilan so'radik, ular bizga faqat Allohga ibodat qilish va ota-bobolarimiz sig'ingan narsalarni tark etish uchun kelganmi, deb so'radik.",
+    "Bizning yerimiz bog'lar, buloqlar va unumdor dalalar bilan barakali edi, lekin biz farovonligimizni Yaratguvchimizga emas, balki o'z kuchimizga bog'ladik.",
+    "Bizning doimiy ishonchsizligimiz va masxara qilishimiz tufayli, biz oxir-oqibat ko'p kunlar va tunlar davomida esib turgan dahshatli, shiddatli shamol tomonidan yo'q qilindik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Samud qavmi",
+        "Fir'avn qavmi",
+        "Nuh qavmi",
+        "Madyan xalqi",
+        "Ad qavmi"
+      ],
+      "answer": "Ad qavmi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Muayyan tuyani qurbon qilish so'ralmoqda",
+        "Qur'onga o'xshash o'nta sura keltirishga chaqirilish",
+        "Dengizning ikkiga bo'linishi ko'rsatilmoqda",
+        "Payg'ambar tomonidan yaqinlashib kelayotgan to'fon haqida ogohlantirilmoqda",
+        "Haddan tashqari qurilish va butlarga sig'inishdan ogohlantirgan payg'ambarni rad etish"
+      ],
+      "answer": "Haddan tashqari qurilish va butlarga sig'inishdan ogohlantirgan payg'ambarni rad etish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Olov",
+        "Sodom shahri",
+        "Baland ustunlar va mustahkam uylar"
+      ],
+      "answer": "Baland ustunlar va mustahkam uylar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Katta suv toshqinida cho'kib ketdi",
+        "Yer tomonidan yutib yuborilgan",
+        "Maymun va cho'chqaga aylangan",
+        "Momaqaldiroqli portlash bilan vayron qilingan",
+        "Shiddatli, vayronkor shamol tomonidan yo'q qilindi"
+      ],
+      "answer": "Shiddatli, vayronkor shamol tomonidan yo'q qilindi"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

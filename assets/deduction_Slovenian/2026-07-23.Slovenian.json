@@ -1,0 +1,61 @@
+{
+  "title": "Vojska, ki jo je srečala leteča glina",
+  "intro": "V času pred prerokom Mohamedom je močan jemenski vladar sprožil vojaško kampanjo, katere cilj je bil uničiti sveto svetišče v Meki. Ta sovražnik je vodil ogromno vojsko, vključno z bojnimi sloni, prepričan v njihovo moč in število. Vendar se je njihovo potovanje nenadoma končalo, ko so naleteli na nepričakovano božje posredovanje. Ali lahko prepoznate, kdo se je soočil s to izjemno preizkušnjo?",
+  "clues": [
+    "Z ogromno vojsko in mogočnimi bojnimi sloni smo korakali proti sveti hiši",
+    "Nameravali smo izruvati in uničiti bogoslužni prostor, ki so ga zgradili služabniki Najbolj Usmiljenega",
+    "Proti nam je bila poslana jata majhnih ptic, ki so v kljunih in krempljih nosile glinene kamne.",
+    "Srečal nas je zvok, ki je na nas metal kamenje in nas spremenil v poteptane ostanke",
+    "Bil sem iz Jemna in sem služil pod vladarjem, ki si je prizadeval ohraniti sveto svetišče.",
+    "Postavljeni smo bili za zgled tistim, ki si drznejo opustošiti Alahovo svetišče."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Vojska Abraha al-Ašrama",
+        "Etiopske sile",
+        "Perzijski osvajalci",
+        "Rimske legije",
+        "Beduinski plenilci"
+      ],
+      "answer": "Vojska Abraha al-Ašrama"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Obleganje puščavske trdnjave",
+        "Vdor v sveto svetišče v Meki",
+        "Pomorska bitka na morju",
+        "Upor proti tiranskemu kralju",
+        "Iskanje izgubljenega preroka"
+      ],
+      "answer": "Vdor v sveto svetišče v Meki"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dolina Mina blizu Meke",
+        "Palača v Sani v Jemnu",
+        "Gore Tihama",
+        "Starodavno mesto Jeruzalem",
+        "Obale Rdečega morja"
+      ],
+      "answer": "Dolina Mina blizu Meke"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Zmaga in uničenje svete hiše",
+        "Poraz s pticami, ki nosijo glinene kamne",
+        "Mirna predaja in spreobrnitev",
+        "Lakota in naravne nesreče",
+        "Umik zaradi močnega deževja"
+      ],
+      "answer": "Poraz s pticami, ki nosijo glinene kamne"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

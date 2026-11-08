@@ -1,0 +1,61 @@
+{
+  "title": "Zkouška posvátného tvora",
+  "intro": "Znamení bylo posláno národu, který sešel z cesty. Uprostřed jejich pohodlného života přišlo varování – doprovázené pozoruhodným tvorem, který se stal konečnou zkouškou jejich víry. Jejich reakce měla navždy zpečetiti jejich osud. Dokážete odhalit, kdo toto varování přinesl a co se stalo s těmi, kteří ho odmítli?",
+  "clues": [
+    "Byli jsme lidem, který byl veden předchozími posly před námi.",
+    "Z hory se vynořil velkolepý tvor, znamení od našeho Pána pro tento národ.",
+    "Řekl jsem jim: „Toto je velbloudice patřící Alláhovi, nechte ji tedy jíst z Alláhovy země a nedotýkejte se jí ublížit.“",
+    "Ale lid podřízl mé velbloudici žilami, vzpíraje se příkazu svého Pána.",
+    "Já jsem jen posel od Pána tvého, vyslaný s pravdou – já jsem důvěryhodný prorok a služebník.",
+    "A ty, kdož se dopouštěli provinění, Pán náš je udeřil ohlušujícím zvukem a oni se ve svých domovech znehybněli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Hud z lidu A'ad",
+        "Prorok Sálih z lidu Thámudu",
+        "Prorok Šu'aib z Midjánu",
+        "Prorok Lut ze Sodomy",
+        "Prorok Nuh z Archy"
+      ],
+      "answer": "Prorok Sálih z lidu Thámudu"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Potopa, která utopila nevěřící národ",
+        "Zemětřesení, které zničilo hříšné město",
+        "Velbloudice poslána jako božské znamení a zkouška",
+        "Bouře, která potrestala obyvatele Midianu",
+        "Zničení Lotova lidu kameny"
+      ],
+      "answer": "Velbloudice poslána jako božské znamení a zkouška"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Město Sodoma v údolí Jordánu",
+        "Údolí Al-Hidžr mezi Hidžázem a Sýrií",
+        "Starověká země A'ad v jižní Arábii",
+        "Midjánské lesy poblíž Rudého moře",
+        "Roviny hory Judi v Mezopotámii"
+      ],
+      "answer": "Údolí Al-Hidžr mezi Hidžázem a Sýrií"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byli spaseni poté, co činili pokání a uvěřili",
+        "Déšť kamení je úplně zničil",
+        "Ohlušující zvuk je zasáhl a znehybnil",
+        "Byli unášeni prudkým větrem",
+        "Zemětřesení je pohltilo do země"
+      ],
+      "answer": "Ohlušující zvuk je zasáhl a znehybnil"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

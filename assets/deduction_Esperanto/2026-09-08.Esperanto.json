@@ -1,0 +1,61 @@
+{
+  "title": "La Testo de Sankta Flamo",
+  "intro": "En antikva lando, kie sindonemo al ĉizitaj ŝtonoj enradikiĝis en ĉiu hejmo, unu individuo staris aparte. Per neŝancelebla konvinko kaj dia protekto, ili alfrontis tion, kio devus esti certa morto — kaj foriris senvundaj. Ĉu vi povas malkovri la identecon de ĉi tiu rimarkinda animo?",
+  "clues": [
+    "Mi estis edukita inter homoj, kiuj kliniĝis al idoloj, kiujn ili mem skulptis, kredante, ke tiuj objektoj enhavis dian potencon.",
+    "Kiam mi defiis iliajn kredojn, ili komence malakceptis min, sed mi ne povis silenti pri la vero, kiun mi sciis.",
+    "En la tago, kiam ili estis kolektitaj, Mi detruis iliajn idolojn, lasante nur la plej grandan netuŝita.",
+    "Kiam ili revenis kaj vidis kion mi faris, iliaj estroj ordonis konstrui grandan ŝtipagon, intencante ĵeti min en la flamojn.",
+    "Ili ĵetis min en la flamantan fajron, sed la Sinjoro de la mondoj ordonis, ke ĝi fariĝu malvarmeta kaj sekura por mi.",
+    "Mi eliris el la flamoj tute senvunda, dum tiuj, kiuj konspiris kontraŭ mi, alfrontis kompletan ruinon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Ibrahim",
+        "Profeto Moseo",
+        "Profeto Nuh",
+        "Profeto Isa",
+        "Profeto Jusuf"
+      ],
+      "answer": "Profeto Ibrahim"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Estante ĵetita en flamantan fajron",
+        "Estante englutita de granda baleno",
+        "Supervivante grandan inundon",
+        "Esti ĵetita en profundan puton",
+        "Alfrontante la magiistojn de reĝo"
+      ],
+      "answer": "Estante ĵetita en flamantan fajron"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Grandega aŭtodafeo de brulanta ligno",
+        "Granda ligna arkeo",
+        "Statuo de ora bovido",
+        "Flosanta korbo sur rivero",
+        "Grandioza trono"
+      ],
+      "answer": "Grandega aŭtodafeo de brulanta ligno"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Alaho igis la fajron malvarmeta kaj sekura",
+        "La arkeo alteriĝis sekure sur monton",
+        "La ora idolo fandiĝis antaŭ iliaj okuloj",
+        "Tirano kaj lia armeo dronis en la maro",
+        "La vidkapablo de blindulo estis restarigita"
+      ],
+      "answer": "Alaho igis la fajron malvarmeta kaj sekura"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

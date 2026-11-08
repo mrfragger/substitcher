@@ -1,0 +1,61 @@
+{
+  "title": "Gli umili cercatori di verità",
+  "intro": "In una terra di antico potere e stregoneria, si scatena un grande scontro. Una fazione brandisce l'autorità dei segni divini, mentre l'altra tenta di eguagliare l'impossibile. L'esito cambierà per sempre il corso della storia. Riuscirai a scoprire l'identità di coloro che furono testimoni della verità suprema e si umiliarono di fronte ad essa?",
+  "clues": [
+    "Abbiamo assistito a segni che andavano oltre i trucchi della stregoneria.",
+    "Siamo caduti tutti in prostrazione, incapaci di negare la verità",
+    "Abbiamo riconosciuto che questi segni provenivano dall'Unico Vero Dio",
+    "Siamo stati la prima comunità ad abbracciare la fede in modo così eclatante.",
+    "Ci è stato promesso il paradiso come ricompensa per la nostra fede",
+    "Le nostre corde e i nostri bastoni si trasformarono in serpenti davanti ai nostri occhi, eppure scegliemmo la sottomissione."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "I maghi del faraone",
+        "Il popolo del profeta Ibrahim",
+        "Gli umili cercatori di verità",
+        "Il popolo della caverna",
+        "La nazione della regina Bilqis"
+      ],
+      "answer": "I maghi del faraone"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "L'incontro con il bastone del profeta Mosè",
+        "La prova del vento del profeta Hud",
+        "La sfida della cammella del profeta Salih",
+        "Il grande diluvio inviato su un profeta",
+        "Il viaggio di un profeta dentro una balena"
+      ],
+      "answer": "L'incontro con il bastone del profeta Mosè"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Antico Egitto",
+        "La casa sacra alla Mecca",
+        "La città di Midian",
+        "Il deserto di Thamud",
+        "La grotta degli antichi dormienti"
+      ],
+      "answer": "Antico Egitto"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il Paradiso come loro ricompensa",
+        "Punizione nella tomba",
+        "La perdita dei loro rigogliosi giardini",
+        "Distruzione causata da un terremoto improvviso",
+        "Salvataggio da una grande balena"
+      ],
+      "answer": "Il Paradiso come loro ricompensa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

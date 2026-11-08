@@ -1,0 +1,61 @@
+{
+  "title": "Strážca Brány vychádzajúceho slnka",
+  "intro": "V Koráne putujú po zemi určité duše a zanechávajú po sebe stopy múdrosti a úžasu. Jedna takáto postava cestovala do najvzdialenejších miest stvorenia – tam, kde vychádza a zapadá slnko, kde bariéra zadržiava samotný chaos. Tento Alahov služobník dostal kráľovstvo, ktoré už nikto nikdy nevlastní. Prostredníctvom troch odlišných ciest sa cieľ tejto osoby vyjasnil. Dokážete identifikovať tohto legendárneho pútnika spomedzi tieňov histórie?",
+  "clues": [
+    "Najmilosrdnejší mi udelil moc vládnuť nad zemou spôsobom, aký nikto iný nikdy nedosiahol.",
+    "Cestoval som na západ, až kým som nedosiahol miesto, kde slnko zapadá, a zistil som, že zapadá v kalnom prameni, kde som bol svedkom ľudí.",
+    "Putoval som na východ, až kým som nedosiahol miesto, kde vychádza slnko, a zistil som, že vychádza nad ľuďmi, ktorým sme pred ním neposkytli žiadne útočisko.",
+    "Putoval som medzi týmito dvoma extrémnymi bodmi, až kým som nedorazil do údolia medzi dvoma horami, kde som našiel ľudí, ktorí sotva rozumeli reči.",
+    "Na vrchu hory som našiel dve tvrdé železné bariéry siahajúce napravo a naľavo a medzi nimi úzky priechod. Títo ľudia ma požiadali, aby som prerazil bariéru, ktorá brzdila chaos.",
+    "Vzal som si zásoby a povedal som: „Keď sa bariéra prelomí, bude to jasné oddelenie medzi nami a týmto ľudom.“ A keď prišiel určený čas, sledoval som, ako bola bariéra konečne prelomená."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Prorok Sulajmán",
+        "Prorok Ibrahim",
+        "Kráľ Ghassaniyah",
+        "Pútnik Dhul-Qarnain"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Prelomenie železnej bariéry pre obyvateľov Yajuj a Majuj",
+        "Stavba lode pod vedením proroka",
+        "Výstavba chrámu v Jeruzaleme",
+        "Prekročenie Červeného mora s veriacim ľudom",
+        "Výstavba priehrady na ochranu spravodlivého národa"
+      ],
+      "answer": "Prelomenie železnej bariéry pre obyvateľov Yajuj a Majuj"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Železná bariéra medzi dvoma horami",
+        "Loď zakotvila na hore",
+        "Posvätný dom uctievania v Jeruzaleme",
+        "Rieka v egyptskej krajine",
+        "Studňa požehnaní v Madyane"
+      ],
+      "answer": "Železná bariéra medzi dvoma horami"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Bariéra bola prelomená, keď prišiel určený čas, a rozpútal sa chaos",
+        "Neveriaci sa utopili, zatiaľ čo veriaci boli zachránení",
+        "Spravodliví boli vedení do večného raja",
+        "Mesto zničil kričiaci vietor",
+        "Modly boli rozbité a ľudia činili pokánie"
+      ],
+      "answer": "Bariéra bola prelomená, keď prišiel určený čas, a rozpútal sa chaos"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

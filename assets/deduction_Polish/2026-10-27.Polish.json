@@ -1,0 +1,61 @@
+{
+  "title": "Oblężenie pod nagłym niebem",
+  "intro": "Stoisz przed potężną armią zbliżającą się do czczonego sanktuarium, z bronią w pogotowiu i pozornie pewnym zwycięstwem. Zanim atak się rozpocznie, nad tobą pojawia się niespodziewana siła, a walka przybiera obrót, którego nikt nie przewidział.",
+  "clues": [
+    "Maszerowaliśmy z pewnością siebie, której żadna ziemska siła nie była w stanie zachwiać.",
+    "Przywieźliśmy ze sobą potężne słonie, a nasze siły zdawały się być zbudowane wokół nich.",
+    "Przybyliśmy, by zburzyć czczone sanktuarium, wierząc, że nasze zwycięstwo jest już pewne.",
+    "Gdy tam dotarliśmy, stado ptaków przeleciało nad nami przez niebo.",
+    "Ptaki rzucały w naszych wojowników kamieniami z utwardzonej gliny.",
+    "Zostaliśmy tak doszczętnie pokonani, że nasza potężna siła rozsypała się i rozproszyła niczym popiół."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie Słonia",
+        "Dwóch Książąt",
+        "Bracia Józefa",
+        "Sługa Allaha w Dhul-Kifl",
+        "Towarzysze Sprawiedliwego Człowieka"
+      ],
+      "answer": "Ludzie Słonia"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Atak słoni na Kaabę",
+        "Morze rozstąpiło się przed dostarczoną grupą",
+        "Zajęcie Arki przez lud tyraniczny",
+        "Nocna podróż między dwoma meczetami",
+        "Uzdrowienie trędowatego mocą Bożą"
+      ],
+      "answer": "Atak słoni na Kaabę"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ptaki niosące kulki gliny",
+        "Arka z drewna goferowego",
+        "Laska zamieniona w węża",
+        "Kamień zapieczętowany znakiem",
+        "Płonący krzew"
+      ],
+      "answer": "Ptaki niosące kulki gliny"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Ich potężna siła rozpadła się jak popiół",
+        "Bezpiecznie przepłynęli morze",
+        "Przeszli bez szwanku przez płonący piec",
+        "Weszli do Raju parami",
+        "Spali w jaskini przez 309 lat"
+      ],
+      "answer": "Ich potężna siła rozpadła się jak popiół"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ny Scout Vorona",
+  "intro": "Tao anatin'ny fanjakana iray nofehezin'ny olona iray nomena fahefana hifehy ny rivotra, ny zavaboary tsy hita maso, ary ny zavaboary eny amin'ny lanitra, dia nisy mpikambana kely sy haingam-pandeha iray nanjavona tsy ho eo amin'ny laharana — saingy niverina nitondra fanambarana izay hanova ny hoavin'ny firenena lavitra. Ity mpilaza vaovao matsilo maso ity dia nitondra ny fahamarinana teo amin'ny toerana efa niorim-paka ny tsy fahalalana. Iza moa aho?",
+  "clues": [
+    "Niasa tao amin'ny lapa iray aho, izay naneken'ny olombelona, ​​​​zavamananaina tsy hita maso, ary ny zavaboary eny amin'ny lanitra ny tenin'ny mpitondra hendry tokana izay nibaiko ny rivotra.",
+    "Tsy tao amin'ny toeram-piasako aho nandritra ny fotoana kelikely, ary nampanantenaina fa hiharan'ny fahatezeran'ny mpitondra raha tsy manome antony mahafa-po aho.",
+    "Biby kely manidina aho, fantatra amin'ny fahitana maranitra, ary ny karazana ahy dia nohajaina tamin'ny fanomezana anarana mivantana ao amin'ny pejin'ny fanambarana.",
+    "Rehefa niverina aho dia nitondra vaovao momba ny tany lavitra iray izay niankohoka teo anoloan'ny masoandro ny olona, ​​jamba teo anatrehan'Ilay nahary ny lanitra sy ny tany.",
+    "Nahita vehivavy iray nanapaka fanjakana lehibe aho, nipetraka teo ambonin'ny seza fiandrianana kanto, izay mbola tsy nahalala ny marina mihitsy teo aloha.",
+    "Izaho no nahita ny fanjakan'i Saba' ary nitondra taratasy fanasana avy amin'ny mpaminany sady mpanjaka iray izay nomena fahefana tamin'ny rivotra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny Hoopoe (Hudhud)",
+        "Ny Vitsika avy any amin'ny Lohasahan'i Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit ny Jinn",
+        "Anjelin'ny Seza Fiandrianana"
+      ],
+      "answer": "Ny Hoopoe (Hudhud)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny dia tany amin'ny Fanjakan'i Saba' (Sheba)",
+        "Ny fifandonana tamin'ireo mpamosavy an'i Farao",
+        "Ny tondra-dranon'ny Mpaminany Noa",
+        "Ny faharavan'ny vahoakan'i 'Ad",
+        "Ny fisarahan'ny Ranomasina Mena"
+      ],
+      "answer": "Ny dia tany amin'ny Fanjakan'i Saba' (Sheba)"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny tanin'i Saba' (Sheba)",
+        "Tendrombohitra Sinay",
+        "Ny Fiaran'ny Mpaminany Noa",
+        "Ny Lava-bato ao Ashab al-Kahf",
+        "Ny lapan'i Farao"
+      ],
+      "answer": "Ny tanin'i Saba' (Sheba)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nanaiky ny lapan'i Sulaiman i Bilqis",
+        "Farao sy ny tafiny maty an-drano tao an-dranomasina",
+        "Rava tamin'ny rivotra mahery ny vahoakan'i 'Ad",
+        "Nino an'i Mosesy mpaminany ireo mpamosavy an'i Farao",
+        "Safodrano lehibe no nandringana ireo tsy mpino"
+      ],
+      "answer": "Nanaiky ny lapan'i Sulaiman i Bilqis"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

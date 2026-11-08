@@ -1,0 +1,61 @@
+{
+  "title": "Wioska na brzegach próby",
+  "intro": "Znajdujesz się w nadmorskiej wiosce, gdzie szum fal miesza się z szeptami zapomnianego ludu. Dano im nakaz odpoczynku, ale ich chciwość doprowadziła do kary, o której wciąż mówi się szeptem. Czy potrafisz odkryć, kim byli?",
+  "clues": [
+    "Mieszkaliśmy nad brzegiem morza i otrzymaliśmy nakaz przestrzegania dnia odpoczynku.",
+    "Tego dnia ryby napływały do ​​nas w dużych ilościach, ale nie wolno nam było ich łowić.",
+    "Niektórzy z nas ostrzegali przed przekraczaniem granic, ale inni i tak spiskowali, aby łowić ryby.",
+    "Złamaliśmy święte przykazanie i ściągnęliśmy na siebie srogą karę.",
+    "Naszą karą była przemiana, która nas oszpeciła i zhańbiła.",
+    "Zamieniono nas w małpy, co było znakiem dla wszystkich, którzy mieli przyjść po nas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie szabatu",
+        "Ludzie z Thamud",
+        "Ludzie z „Ad”",
+        "Ludzie jaskini",
+        "Ludzie Słonia"
+      ],
+      "answer": "Ludzie szabatu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wędkowanie w szabat",
+        "Oddawanie czci złotemu cielcowi",
+        "Zaprzeczanie przesłaniu Huda",
+        "Zabicie wielbłądzicy",
+        "Budowanie wieży do nieba"
+      ],
+      "answer": "Wędkowanie w szabat"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ryba",
+        "Wielbłądzica",
+        "Personel",
+        "Łódź",
+        "Ogród"
+      ],
+      "answer": "Ryba"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zamienieni w małpy",
+        "Zniszczony przez powódź",
+        "Zniszczony przez płonący ogień",
+        "Pochłonięty przez ziemię",
+        "Rozproszone przez wiatr"
+      ],
+      "answer": "Zamienieni w małpy"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Atsekabea gainditu zuen pazientzia",
+  "intro": "Pazientzia mitiko bihurtu zen agure bat, atsekabeak ikuspegia itzali zion arren, jainkozko planean zuen fedea inoiz ez zen flakatu. Pertsona honek hamabi seme tribuen oinarrietara hazten ikusi zituen, seme maite baten galera mingarria jasan zuen eta atsekabe izugarriaren aurrean pazientzia eder baten sinbolo bihurtu zen. Arima gurtua, zeinaren istorioa errebelazio orrialdeetan zehar kontatzen den. Identifika al dezakezu figura hau Koranetik?",
+  "clues": [
+    "Koraneko sura nagusi batean xehetasunez kontatzen den profeta bat nintzen.",
+    "Hamabi seme izan nituen, Bani Israelgo leinuen aitak bihurtu zirenak.",
+    "Semeei ate desberdinetatik sartzeko esan nien, herri bakar gisa ezagutuak ez izateko.",
+    "Begiak zuritu zitzaizkidan maite dudan haurragatik etengabeko negarrez.",
+    "Uko egin nion etsitzeari, beste semeek Alari bakarrik kexatzen nintzela esanez ere.",
+    "Yusuf profetaren aita naiz, eta bere izenak berak 'handitzailea' esan nahi du arabieraz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yaqub (Jakob) profeta",
+        "Yusuf profeta",
+        "Ibrahim profeta",
+        "Musa profeta",
+        "Dawud profeta"
+      ],
+      "answer": "Yaqub (Jakob) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Seme maite baten galera putzu batean",
+        "Herri oso bat irentsi zuen uholde handia",
+        "Sua gurtzen zuen erreinu batetik migrazioa",
+        "Egiptoko tirano boteretsu batekin izandako liskarra",
+        "Balearen sabelerako erbesteratzea"
+      ],
+      "answer": "Seme maite baten galera putzu batean"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Odol faltsuz zikindutako alkandora bat",
+        "Suge bihurtu zen makila",
+        "Mendi baten gainean eraikitako arka bat",
+        "Harkaitzetik zizelkatutako gamelu eme bat",
+        "Urrezko txahal bat"
+      ],
+      "answer": "Odol faltsuz zikindutako alkandora bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ikusmena berreskuratu zen maite nuen semearen alkandora aurpegian jarri zutenean",
+        "Arrain handi baten sabelean sartu ondoren salbazioa",
+        "Khalilullah titulua Alah-rengandik jasotzea",
+        "Itsasoa zeharkatzen esklabutzatik askatutako herri batekin",
+        "Uholdearen ondoren itxaropenaren seinale gisa agertzen den ortzadarra"
+      ],
+      "answer": "Ikusmena berreskuratu zen maite nuen semearen alkandora aurpegian jarri zutenean"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

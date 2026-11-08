@@ -1,0 +1,61 @@
+{
+  "title": "Czuwanie pogrążonych w żałobie",
+  "intro": "Spotkasz duszę wystawiona na próbę najgłębszego rozstania, której oczy znały język łez, a serce nigdy nie straciło nadziei. W historii o oszustwie, tęsknocie i ostatecznym zjednoczeniu, ten szlachetny sługa Allaha stał się symbolem cierpliwości na wieki. Kto przetrwał lata ukrytego bólu, by w jednej chwili odzyskać wzrok i radość?",
+  "clues": [
+    "Jestem prorokiem, którego imię stało się symbolem cierpliwości w obliczu wielkiej straty.",
+    "Bóg obdarzył mnie wieloma synami, ale jednego straciłem z powodu zazdrości innych.",
+    "Moja miłość do tej utraconej osoby była tak głęboka, że ​​moje oczy zrobiły się białe ze smutku, jednakże nigdy nie skarżyłem się, jak tylko do Allaha.",
+    "Wysłałem moich synów z powrotem, aby poszukali tego, którego straciłem, i jego brata, wzywając ich, aby nie tracili nadziei.",
+    "Gdy przybył zwiastun dobrej nowiny, zakryto mi twarz koszulą i nagle świat znów stał się przejrzysty.",
+    "Jestem znany jako Izrael, a od moich dwunastu synów pochodzi dwanaście plemion wielkiego narodu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Jakub (Jakub)",
+        "Prorok Jusuf (Józef)",
+        "Prorok Izaak (Izaak)",
+        "Prorok Ibrahim (Abraham)",
+        "Prorok Ajjub (Hiob)"
+      ],
+      "answer": "Prorok Jakub (Jakub)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Rozłąka z ukochanym synem na wiele lat",
+        "Wrzucenie do płonącego ognia",
+        "Połknięty przez wielką rybę",
+        "Dotknięty ciężką chorobą skóry",
+        "Bycie bezdzietnym do późnej starości"
+      ],
+      "answer": "Rozłąka z ukochanym synem na wiele lat"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Koszula Yusufa",
+        "Pracownicy Musy",
+        "Arka Noego",
+        "Wielbłądzica Salih",
+        "Pierścień Sulaymana"
+      ],
+      "answer": "Koszula Yusufa"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przywrócony wzrok i ponowne połączenie z synem",
+        "Przyznane zwycięstwo nad królem tyranem",
+        "Podniesiony żywy do nieba",
+        "Wyznaczony na władcę Egiptu",
+        "Dano syna w podeszłym wieku jako cud"
+      ],
+      "answer": "Przywrócony wzrok i ponowne połączenie z synem"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

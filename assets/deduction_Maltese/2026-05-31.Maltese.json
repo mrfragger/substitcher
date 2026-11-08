@@ -1,0 +1,61 @@
+{
+  "title": "Ix-Xhieda li Mietu",
+  "intro": "Fi żmien imgħoddi, komunità kienet tgħix f'salib it-toroq bejn imperi. Il-profeta tagħhom sejħilhom lejn it-triq tal-verità, iżda huma żammew man-nuqqas ta' twemmin u l-oppressjoni. Din l-istorja tintemm b'vendetta divina. Tista' tidentifika din in-nazzjon u d-destin tagħhom mill-ħjiel t'hawn taħt?",
+  "clues": [
+    "Poplu ċaħad it-twissija miġjuba minn wieħed mill-messaġġiera tiegħu stess.",
+    "Il-messaġġier sejħilna biex naduraw lil Alla biss u wissa kontra l-korruzzjoni.",
+    "It-trasgressjoni tagħna kienet li ċaħdu l-profeta mibgħut fostna bit-tjieba.",
+    "Iddubjajna l-awtorità tal-messaġġier u akkużajnieh b'qerq.",
+    "Il-kastig laħaqna waqt li konna ngħammu fis-sigurtà fi djarna.",
+    "Ġejna meqrudin talli ċħadna lill-profeta tagħna u ppersegwitajna lil dawk li jemmnu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuħ",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Nirċievu profeta li sejjaħ għall-ġustizzja",
+        "Li tkun ittestjat bil-ġuħ",
+        "Li jkollok ħolma interpretata",
+        "Nirċievu t-Torah",
+        "Nivvjaġġaw fil-baħar"
+      ],
+      "answer": "Nirċievu profeta li sejjaħ għall-ġustizzja"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Midjan",
+        "Babilonja",
+        "Sodoma",
+        "Il-Baħar l-Aħmar",
+        "L-Arka"
+      ],
+      "answer": "Midjan"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "In-nies ġew meqruda minħabba n-nuqqas ta’ twemmin",
+        "In-nies nidmu u ġew iggwidati",
+        "In-nies daħlu fil-Ġenna",
+        "In-nies baqgħu ħajjin u rnexxew",
+        "In-nies emigraw lejn art ġdida"
+      ],
+      "answer": "In-nies ġew meqruda minħabba n-nuqqas ta’ twemmin"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

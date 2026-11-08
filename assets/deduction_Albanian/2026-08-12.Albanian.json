@@ -1,0 +1,61 @@
+{
+  "title": "Të Dërguarit e Mëshirës dhe Fuqisë",
+  "intro": "Imagjinoni një pasdite të qetë të ndërprerë nga mbërritja e udhëtarëve të panjohur. Pamja e tyre është e zakonshme, por qëllimi i tyre është gjithçka tjetër përveç kësaj. Ata mbartin një mesazh hyjnor që do të ndryshojë rrjedhën e dy kombeve, duke sjellë të qeshura në një shtëpi të shkretë dhe tmerr në një qytet mëkatar. Kush janë këta vizitorë misteriozë?",
+  "clues": [
+    "Ne u dërguam te një shërbëtor i përkushtuar i Allahut, i njohur për mikpritjen e tij të pakufishme.",
+    "Ne mbërritëm të maskuar si të huaj, megjithatë mikpritësi ynë ndjeu diçka të çuditshme në praninë tonë.",
+    "Ne sollëm lajme që e bënë një grua të moshuar të qeshte me mosbesim, duke goditur fytyrën e saj nga habia.",
+    "Ne u ngarkuam me detyrën për të mbrojtur një familje të drejtë, ndërkohë që hidhnim shkatërrime mbi një qytet të zhytur në korrupsion.",
+    "Ne refuzuam të merrnim pjesë në vaktin që na u ofrua, gjë që vetëm sa e thelloi dyshimin e mikpritësit tonë.",
+    "Ne e zbuluam natyrën tonë të vërtetë vetëm para se të niseshim, duke thënë: “Vërtet, ne jemi të dërguar të Zotit tënd.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush Jemi Ne?",
+      "options": [
+        "Të ftuarit e Abrahamit",
+        "Dishepujt e Jezusit",
+        "Shokët e Shpellës",
+        "Ushtria e Abrahas",
+        "Lajmëtarët e Ya-Sin"
+      ],
+      "answer": "Të ftuarit e Abrahamit"
+    },
+    "trial": {
+      "label": "Misioni ynë",
+      "options": [
+        "Për të vënë në provë besimin e Abrahamit në lidhje me të birin",
+        "Për t'ia dorëzuar shkrimin e shenjtë Abrahamit",
+        "Për të shpallur lindjen e Isakut dhe shkatërrimin e popullit të Lotit",
+        "Për ta udhëzuar Abrahamin për në Qabe",
+        "Për ta shpëtuar Abrahamin nga zjarri"
+      ],
+      "answer": "Për të shpallur lindjen e Isakut dhe shkatërrimin e popullit të Lotit"
+    },
+    "location": {
+      "label": "Vendi i shfaqjes",
+      "options": [
+        "Në tokën e Egjiptit",
+        "Në qytetin e Urit",
+        "Në shtëpinë e Abrahamit",
+        "Në kopshtin e Edenit",
+        "Te pusi i Zemzemit"
+      ],
+      "answer": "Në shtëpinë e Abrahamit"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Abrahami u bë mbret",
+        "Abrahami e ndërtoi Qaben",
+        "Sara lindi Isakun dhe populli i Lotit u shkatërrua",
+        "Abrahami emigroi në Palestinë",
+        "Populli i Abrahamit u shpëtua nga një përmbytje e madhe"
+      ],
+      "answer": "Sara lindi Isakun dhe populli i Lotit u shkatërrua"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lefelo la Boikhutso la Bonosi",
+  "intro": "Mo dibukeng tsa ditiragalo tsa kamogelo ya bomodimo, go na le moya wa bophepa jo bo senang selekanyo, o o kgaogantsweng le batho ba bone go batla go nna o le nosi mo ntlheng e e boitshepo. Ba ne ba sa itse gore go itlhaola gono go ne go tla tlisa sesupo sa mafatshe otlhe, teko ya tumelo e go neng go tla buiwa ka yone go ya go ile.",
+  "clues": [
+    "Ke ne ke ineetse mo botshelong jwa tirelo pele ga ke tsholwa.",
+    "Ke ne ka bewa ka fa tlase ga tlhokomelo ya moporofeti yo o tlotlegang.",
+    "Ke ne ke tshegediwa ka dijo tse di tswang kwa go Allah tse di neng tsa gakgamatsa motlhokomedi wa me.",
+    "Ke ne ka ikgogela morago mo lelapeng la gaetsho go ya kwa lefelong le le kwa botlhaba.",
+    "Moengele o ne a bonala mo go nna a le mo sebopegong sa monna yo o itekanetseng, a tlisa dikgang tsa morwa yo o itshekileng.",
+    "Fa ke boa le lesea la me le le sa tswang go tsholwa, batho ba gaetsho ba ne ba ntatofatsa, mme lesea le ne la bua go nphemela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Maryam (Marea)",
+        "Asiyah (mosadi wa ga Faro)",
+        "Hajar (mmaagwe Ismail)",
+        "Sara (mosadi wa ga Ibrahime)",
+        "Mmaagwe Musa"
+      ],
+      "answer": "Maryam (Marea)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go ima ka kgakgamatso le go tsholwa ga ngwana wa mosimane",
+        "Go latlhelwa mo molelong",
+        "Go mediwa ke tlhapi e kgolo",
+        "Go aga araka e kgolo",
+        "Go kgabaganya lewatle"
+      ],
+      "answer": "Go ima ka kgakgamatso le go tsholwa ga ngwana wa mosimane"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Lefelo le le kwa thoko kwa botlhaba",
+        "Setlhatshana se se tukang",
+        "Lewatle le Lehibidu",
+        "Lefika le metsi a neng a tshologa mo go lone",
+        "Leruarua"
+      ],
+      "answer": "Lefelo le le kwa thoko kwa botlhaba"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Lesea le buile go femela mmè",
+        "Lewatle le ne la kgaoganngwa",
+        "Molelo o ne wa tsidifala e bile o babalesegile",
+        "Leruarua le ne la kgwa mo lotshitshing lwa lewatle",
+        "Areka e ne ya wela mo thabeng"
+      ],
+      "answer": "Lesea le buile go femela mmè"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

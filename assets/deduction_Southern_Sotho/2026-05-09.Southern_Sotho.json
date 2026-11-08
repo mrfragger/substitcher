@@ -1,0 +1,61 @@
+{
+  "title": "Lirapa tse Felang tsa Katleho",
+  "intro": "Naheng e hlohonolofalitsoeng ka bongata ba lintho tse ngata, sechaba se ile sa atleha, se phela har'a lipontšo tsa mohau oa bomolimo. Katleho ea bona e ne e le bopaki ba mohau oa Morena oa bona, mpho e reretsoeng ho susumetsa teboho le kutlo. Leha ho le joalo, ho sa tsotellehe matšoao a hlakileng a litlhohonolofatso tsa bona, phetoho e ile ea fihla, e phephetsang kananelo ea bona bakeng sa mohloli oa leruo la bona le leholo le boiketlo.",
+  "clues": [
+    "Re hlohonolofalitsoe ka lirapa tse peli, e 'ngoe ka letsohong le letona le e 'ngoe ka letsohong le letšehali, tse tletseng litholoana.",
+    "Re laetsoe ho ja lijo tse tsoang ho Morena oa rona le ho mo leboha ka naha e ntle le Morena ea tšoarelang.",
+    "Re ile ra ikhohomosa 'me ra furalla tsela ea teboho, ra ithorisa ka leruo le matla a rona.",
+    "Re ile ra batla hore Morena oa rona a eketse sebaka se pakeng tsa maeto a rona, re bontša ho nyelisa boiketlo boo a neng a bo file.",
+    "Re ile ra lemosoa ke lenģosa, empa ra hana molaetsa 'me ra tsoela pele ka ho se ele hloko ha rona.",
+    "Letamo la rona le leholo, le ileng la re thusa ho boloka katleho ea rona, qetellong le ile la robeha, la lebisa moroallong o senyang."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba Thamud",
+        "Batho ba Midiane",
+        "Batho ba 'Aad",
+        "Batho ba Lute",
+        "Batho ba Saba"
+      ],
+      "answer": "Batho ba Saba"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Tlala le komello",
+        "Tlhaselo ea lebotho le matla",
+        "Tšisinyeho ea lefatše e senyang",
+        "Moroallo o senyang o tsoang letamong le robehileng",
+        "Khatello ke 'musi ea hatellang"
+      ],
+      "answer": "Moroallo o senyang o tsoang letamong le robehileng"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Namane ea khauta",
+        "Kamele e tšehali e makatsang",
+        "Letamo le leholo",
+        "Moaho o molelele",
+        "Seliba se tebileng"
+      ],
+      "answer": "Letamo le leholo"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Re ile ra fetoloa hore re be litšoene le likolobe",
+        "Re pholositsoe 'me ra fallela naheng e ncha",
+        "Re ne re qhalane 'me naha ea rona e se e le letsoatlare",
+        "Re nyolohetse maholimong",
+        "Re hahile 'muso o mocha, o atlehileng haholoanyane"
+      ],
+      "answer": "Re ne re qhalane 'me naha ea rona e se e le letsoatlare"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

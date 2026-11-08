@@ -1,0 +1,61 @@
+{
+  "title": "Užkariautojas tarp dviejų horizontų",
+  "intro": "Dieviškojo vedimo metraščiuose viena asmenybė išsiskiria kaip galingas valdovas ir nuolankus Alacho tarnas. Šis asmuo nukeliavo į tolimiausius žemės kampelius, stebėjo, kaip saulė teka virš neįprastos tautos ir leidžiasi juodą, drumstą pavasarį. Svarbiausia, kad šiam tarnui buvo pavesta pastatyti nepaprastą barjerą nuo didelio piktadarystės kamuojamos tautos. Ar galite atpažinti šią legendinę asmenybę iš Korano?",
+  "clues": [
+    "Gailestingiausias man suteikė galią ir įtaką žemėje",
+    "Keliavau ten, kur saulė teka ir kur leidžiasi",
+    "Pasiekiau žmones, kurie vos galėjo suprasti nė žodžio",
+    "Man buvo įsakyta pastatyti didžiulę užtvarą iš geležies",
+    "Aš užsandarinau erdvę tarp dviejų stačių kalnų išlydytu metalu",
+    "Aš nebuvau nei angelas, nei pranašas, o tarnas, kuriam Alachas suteikė malonę"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Dhu al-Qarnayn (Dviejų ragų dievas)",
+        "Karalius Suleimanas (Saliamonas)",
+        "Pranašas Dhul-Kifl",
+        "Dhu al-Nun (Žuvų palydovas)",
+        "Barjero angelas"
+      ],
+      "answer": "Dhu al-Qarnayn (Dviejų ragų dievas)"
+    },
+    "trial": {
+      "label": "Didžioji užduotis",
+      "options": [
+        "Statant bokštą į dangų",
+        "Statoma didžiulė geležinė užtvara prieš Jadžudžą ir Madžužą",
+        "Auksinio sosto kūrimas teismui",
+        "Kasant gilų šulinį teisiesiems",
+        "Laivo statyba didelio potvynio metu"
+      ],
+      "answer": "Statoma didžiulė geležinė užtvara prieš Jadžudžą ir Madžužą"
+    },
+    "location": {
+      "label": "Nustatymas",
+      "options": [
+        "Uzairo žemė tarp dviejų upių",
+        "Saulėtekio ir juodo purvino šaltinio vieta",
+        "Šventasis Mekos slėnis",
+        "Madjano dykuma",
+        "Kipro sala"
+      ],
+      "answer": "Saulėtekio ir juodo purvino šaltinio vieta"
+    },
+    "outcome": {
+      "label": "Dieviškasis pažadas",
+      "options": [
+        "Amžinas rojus suteikiamas nedelsiant",
+        "Tautą sunaikino karštas vėjas",
+        "Barjeras tęsis iki Teismo dienos",
+        "Išsivadavimas iš mirties visiems tikintiesiems",
+        "Amžina karalystė be pabaigos"
+      ],
+      "answer": "Barjeras tęsis iki Teismo dienos"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

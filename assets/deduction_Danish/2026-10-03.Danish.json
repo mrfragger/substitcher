@@ -1,0 +1,61 @@
+{
+  "title": "Vagten ved den flammende port",
+  "intro": "En tavs, formidabel folkemængde står vagt ved en frygtindgydende tærskel, uden at smage mad, drikke eller hvile. Formet af et stof ulig menneskelig ler, venter de på et enkelt frygtindgydende formål - og de har aldrig overtrådt så meget som én befaling fra deres Herre.",
+  "clues": [
+    "Vi er væsener i modsætning til mennesker, skabt af et stof, der ikke spiser, drikker eller bliver træt.",
+    "Vores nøjagtige antal er kendt og åbenbaret i Bogen – vi er hverken utallige eller en mængde.",
+    "Vi har aldrig været ulydige mod vores Skaber, og vi taler aldrig, før vi får befaling.",
+    "Når Dagen kommer, vil de vantro blive drevet til os i grupper, og vi vil åbne portene for dem.",
+    "Vi vil spørge dem: \"Kom der ikke budbringere fra jeres egen slags til jer, der advarede jer om denne dag?\"",
+    "Vi vogter et sted, hvorfra ingen sjæl nogensinde kommer ud – et flammende domæne af evig straf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Helvedesildens Vogtere (Zabaniyah)",
+        "Bærerne af Allahs trone",
+        "The Recording Angels (Kiraman Katibin)",
+        "Dødens Engle",
+        "Paradisets portvogter"
+      ],
+      "answer": "Helvedesildens Vogtere (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Vores primære pligt",
+      "options": [
+        "Bevogter Helvedes porte",
+        "Registrering af enhver menneskelig gerning",
+        "At bære Allahs trone",
+        "At tage de afdødes sjæle",
+        "At kommandere over vind og skyer"
+      ],
+      "answer": "Bevogter Helvedes porte"
+    },
+    "location": {
+      "label": "Hvad bevogter vi?",
+      "options": [
+        "Helvedesilden",
+        "Allahs trone",
+        "Skødeskriftrullerne",
+        "Paradisets floder",
+        "Jordens bjerge"
+      ],
+      "answer": "Helvedesilden"
+    },
+    "outcome": {
+      "label": "Skæbnen for dem i vores domæne",
+      "options": [
+        "De vil forblive for evigt og aldrig forlade",
+        "De vil til sidst blive benådet og løsladt",
+        "De vil blive renset med tiden",
+        "De vil blive omdannet til andre former",
+        "De vil skifte mellem Helvede og Paradis"
+      ],
+      "answer": "De vil forblive for evigt og aldrig forlade"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

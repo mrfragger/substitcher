@@ -1,0 +1,61 @@
+{
+  "title": "A láthatatlan hallgatói",
+  "intro": "A látható világ fátyla mögött egy rejtett gyülekezet gyűlt össze a sötétségben, egy olyan hang vonzotta őket, amely dacolt mindennel, amit ismertek. Korszakokig vándoroltak igazi útmutatás nélkül, mígnem egy hang áthatolt láthatatlan birodalmuk csendjén, és megrázott valamit mélyen bennük. Ma este meghívunk, hogy lépj ki az árnyékból, és fedezd fel ennek a titokzatos csoportnak a kilétét, akiknek az isteni szavakkal való találkozása visszavezette őket népükhöz, mint egy elfojthatatlan igazság figyelmeztetői.",
+  "clues": [
+    "Ősi lények vagyunk, jóval azelőtt léteztünk, hogy sok nemzet létezett volna, amiről olvastál, mégis ritkán esik szó rólunk az emberi mesékben.",
+    "A mi természetünk különbözik a tiétektől, a láthatatlan elemekből szőtt, és olyan erőkkel rendelkezünk, amelyek dacolnak a hétköznapokkal.",
+    "Korszakokon át barangoltunk igazi útmutatás nélkül, mígnem egy hang elért minket, ami megmozgatott valamit legbelül.",
+    "Olyan szavalást hallottunk, amilyet még soha nem hallottunk, szavakat, amelyeknek súlya meghaladta minden beszéd súlyát.",
+    "Titokban közeledtünk egymáshoz, csendet parancsolva a sajátjainknak, és amikor a versek véget értek, nem tudtunk nyugton maradni.",
+    "Visszatértünk népünkhöz, és kijelentettük: „Ó, népünk, hallottunk egy Könyvet, amely Mózes után kinyilatkoztatott, megerősítve azt, ami előtte volt, és elvezetve az igazsághoz.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A Hawariyyun (Isa tanítványai)",
+        "A dzsinnek, akik a Korán meghallgatása után hittek",
+        "A barlang társai",
+        "A legalacsonyabb mennyország angyalai",
+        "A fáraó népe, amely az ő útját követte"
+      ],
+      "answer": "A dzsinnek, akik a Korán meghallgatása után hittek"
+    },
+    "trial": {
+      "label": "Próba / Esemény",
+      "options": [
+        "Kiűztek minket, mert nem voltunk hajlandóak meghajolni egy újonnan teremtett lény előtt",
+        "Háromszázkilenc évig voltunk bezárva egy barlangba",
+        "Azt a parancsot kaptuk, hogy keljünk át egy tengeren, amely kettévált előttünk",
+        "Egy varázslatos földre küldtek minket, hogy varázslatot tanuljunk",
+        "Titokban hallgattunk meg egy szavalást, és átalakultunk általa"
+      ],
+      "answer": "Titokban hallgattunk meg egy szavalást, és átalakultunk általa"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy nép ékszereiből faragott aranyborjú",
+        "Egy barlang, amelyben generációkon át aludtak",
+        "Két angyal Babilonban, akik tiltott tudást tanítottak",
+        "Egy Mózes után kinyilatkoztatott könyv, amely megerősíti a Tórát",
+        "Egy égő csipkebokor a szent hegy tetején"
+      ],
+      "answer": "Egy Mózes után kinyilatkoztatott könyv, amely megerősíti a Tórát"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Átkozottak voltunk az ítélet napjáig",
+        "Felkeltünk egy hatalmas uralkodó ellen és védőfalat építettünk a földön",
+        "Majmokká és disznókká változtunk",
+        "Figyelmeztetőként tértünk vissza népünkhöz, hitet hirdetve",
+        "A vezetőnkkel együtt a tengerbe fulladtunk"
+      ],
+      "answer": "Figyelmeztetőként tértünk vissza népünkhöz, hitet hirdetve"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

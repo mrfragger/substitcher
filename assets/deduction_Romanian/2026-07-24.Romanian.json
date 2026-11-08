@@ -1,0 +1,61 @@
+{
+  "title": "Conspiratorul voalat",
+  "intro": "Te afli în prezența unei figuri puternice din zilele revelației. Această persoană era cunoscută pentru intelectul, bogăția și statutul său în rândul poporului său. Când au venit semnele clare, au recunoscut frumusețea, dar au ales sfidarea în locul supunerii. Ce a determinat acest suflet să comploteze în întuneric și care a fost soarta sa finală?",
+  "clues": [
+    "Am fost binecuvântat cu resurse și influență abundente, făcând ca cuvântul meu să fie greu în adunări.",
+    "Când cuvintele divinului erau recitate, nu puteam să le neg elocvența, dar mândria mea nu-mi permitea să mă supun.",
+    "Mi-am adunat consilierii, izolându-mă pentru a reflecta asupra unei modalități de a discredita mesajul.",
+    "După îndelungi gândiri, am declarat că nu este nimic altceva decât „magie transmisă din trecut” menită să îndepărteze oamenii.",
+    "Revelația mi s-a adresat apoi direct: „Lasă-Mă în pace cu cel pe care l-am creat.” Am fost criticat pentru intriga mea.",
+    "În curând, chiar focul despre care am fost avertizat mă va apuca de șuviță și nu voi mai avea scăpare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A conspirat să-l asasineze pe Profet",
+        "A condus un boicot împotriva musulmanilor",
+        "A adunat un consiliu pentru a eticheta Coranul drept magie",
+        "Complotat pentru a-l expulza pe Profet din Mecca",
+        "A refuzat să-și împartă averea cu orfanii"
+      ],
+      "answer": "A adunat un consiliu pentru a eticheta Coranul drept magie"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Revelația",
+        "Consiliul",
+        "Bucla",
+        "Bogăția",
+        "Stiloul"
+      ],
+      "answer": "Bucla"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "S-a pocăit și a îmbrățișat Islamul",
+        "A migrat în Abisinia",
+        "A fost lovit de o boală mortală",
+        "A murit în lupta împotriva musulmanilor",
+        "El a fost condamnat la Iad"
+      ],
+      "answer": "El a fost condamnat la Iad"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

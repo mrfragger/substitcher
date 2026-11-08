@@ -1,0 +1,61 @@
+{
+  "title": "Cludwr y Naw Arwydd",
+  "intro": "Cododd ffigur o'r dechreuad mwyaf gostyngedig, gyda thynged wedi'i hysgrifennu yn ewyllys ddwyfol. Wedi'i guddio yn ei fabandod a'i fagu o fewn muriau'r union lywodraethwr a geisiodd ddinistrio ei bobl, galwyd yr enaid hwn yn y pen draw i genhadaeth nerthol. Wedi'u cyfarparu â dim byd ond ffydd a ffon bugail ostyngedig, safasant o flaen llywodraethwr mwyaf pwerus yr oes a mynnu rhyddid i'r rhai a oedd wedi'u caethiwo. Ymddangosai'r byd ei hun yn symud wrth eu gorchymyn - rhannodd y dyfroedd, llefarodd y nefoedd, a chwympodd teyrnas.",
+  "clues": [
+    "Roedd fy nyddiau cynharaf wedi'u nodweddu gan ofn — cafodd babanod fel fi eu hela ar enedigaeth gan reolwr didrugaredd a oedd yn ofni'r dyfodol.",
+    "Cefais fy achub gan ddŵr a'm codi ym mhalas yr union rheolwr a geisiodd fy ninistrio.",
+    "Ffoes i o fy mamwlad ar ôl digwyddiad sydyn, gan ddod yn fugail gostyngedig mewn gwlad bell.",
+    "Dychwelais i wynebu'r llywodraethwr pwerus hwnnw gyda ffon syml a neges glir, gan fynnu rhyddid fy mhobl.",
+    "Rhannais gorff mawr o ddŵr i'r rhai a'm nilynodd, a gwyliais wrth i'r dyfroedd hynny lyncu fy ngelyn yn gyfan gwbl.",
+    "Dringais fynydd cysegredig i dderbyn arweiniad dwyfol gan Allah, a chefais naw arwydd clir fel prawf o wirionedd."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Musa",
+        "Proffwyd Nuh",
+        "Proffwyd Ibrahim",
+        "Proffwyd Yusuf",
+        "Proffwyd Lut"
+      ],
+      "answer": "Proffwyd Musa"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Wynebu'r Pharo yn ei lys",
+        "Adeiladu'r Arch i oroesi llifogydd mawr",
+        "Cael eich bwrw i dân llosg gan wneuthurwyr eilunod",
+        "Cael fy gostwng i ffynnon ddofn gan fy mrodyr",
+        "Ceisio atal fy mhobl rhag ymddygiad anfoesol"
+      ],
+      "answer": "Wynebu'r Pharo yn ei lys"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y Staff a drodd yn sarff",
+        "Arch Nuh",
+        "Gorsedd Bilqis",
+        "Y Fodrwy a oedd yn rheoli gwynt a jinn",
+        "Allweddi i drysorau wedi'u hordio mor drwm"
+      ],
+      "answer": "Y Staff a drodd yn sarff"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Arweiniodd fy mhobl ar draws dyfroedd gwahanedig i ryddid",
+        "Cafodd ei achub rhag llifogydd mawr y tu mewn i Arch",
+        "Adferwyd iechyd a theulu ar ôl dioddefaint dwfn",
+        "Cafodd ei fwrw allan o bysgodyn mawr yn fyw",
+        "Adeiladodd sylfeini'r Tŷ Cysegredig"
+      ],
+      "answer": "Arweiniodd fy mhobl ar draws dyfroedd gwahanedig i ryddid"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

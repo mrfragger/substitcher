@@ -1,0 +1,61 @@
+{
+  "title": "Pyhä poissaolo",
+  "intro": "Ajan dyynien takana piilee tarina horjumattomasta omistautumisesta ja niin raskaasta luottamuksesta, että sitä kantava sielu olisi voinut murtua. Hetkellä, jolloin ihmiset kääntyivät kohti hulluutta ja kultaa, yksi hahmo seisoi lujana – kutsuen heidät takaisin, anoen kärsivällisyyttä ja kantaen pyhän lupauksen painoa. Tämä on tarina miehestä, joka valittiin auttajaksi, visiiriksi ja uskon vartijaksi pyhän poissaolon aikana. Voitko paljastaa tämän horjumattoman sielun henkilöllisyyden?",
+  "clues": [
+    "Jaan suuren profeetan veren, joka valittiin puhumaan Allahin kanssa suoraan pyhällä vuorella.",
+    "Sisareni kerran pyysi Allahilta apua puhuakseen selkeästi suurelle sortajalle.",
+    "Allah valitsi minut seisomaan sisarukseni rinnalla auttajana ja visiirinä.",
+    "Yhdessä kohtasimme tyrannimaisen hallitsijan, joka vaati tulla kutsutuksi jumalista korkeimmaksi.",
+    "Samalla kun sisareni keskusteli Allahin kanssa vuorella, kansamme teki itselleen kullastaan ​​epäjumalan.",
+    "Olen Mooseksen veli, Allahin nimittämä visiirikseen, ja minut mainitaan nimeltä Koraanissa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Harun (Aaron)",
+        "Profeetta Musa",
+        "Profeetta Daavid",
+        "Profeetta Yaqub",
+        "Profeetta Ishaq"
+      ],
+      "answer": "Profeetta Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Vasikan palvonnan kriisi",
+        "Nuhin suuri tulva",
+        "Badrin taistelu",
+        "Thamudin tuho",
+        "Sodoman tuho"
+      ],
+      "answer": "Vasikan palvonnan kriisi"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kultainen vasikka",
+        "Nooan arkki",
+        "Palava pensas",
+        "Hiran luola",
+        "Saban valtaistuin"
+      ],
+      "answer": "Kultainen vasikka"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Allahin vahvistama viattomuus",
+        "Faaraon hukkuminen",
+        "Kaaban rakentaminen",
+        "Turvallinen meren ylitys",
+        "Nousu taivaisiin"
+      ],
+      "answer": "Allahin vahvistama viattomuus"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

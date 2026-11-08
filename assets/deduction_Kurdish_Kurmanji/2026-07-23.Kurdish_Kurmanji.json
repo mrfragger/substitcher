@@ -1,0 +1,61 @@
+{
+  "title": "Artêşa ku bi gilê firîner re rû bi rû ma",
+  "intro": "Di serdema berî Pêxember Muhemmed de, hukumdarekî bihêz ji Yemenê dest bi kampanyayeke leşkerî kir ku armanc ew bû ku cihekî pîroz li Mekkeyê hilweşîne. Ev dijmin bi hêz û hejmara xwe bawer bû û artêşeke mezin ji fîlên şer pêk dihat. Lêbelê, rêwîtiya wan ji nişka ve bi dawî bû ji ber ku ew rastî destwerdaneke xwedayî ya neçaverêkirî hatin. Hûn dikarin nas bikin ka kî bi vê hesabpirsîna berbiçav re rû bi rû maye?",
+  "clues": [
+    "Em bi artêşeke mezin û fîlên şer ên bihêz ber bi mala pîroz ve meşiyan",
+    "Me niyet kir ku em cihekî perestgehê ku ji hêla ebdên Xwedayê Mezin ve hatibû avakirin, ji kokê ve hilweşînin û wêran bikin.",
+    "Keriyek çûkên biçûk li dijî me hatin şandin, ku di çeng û pençeyên xwe de kevirên axê hildigirtin",
+    "Dengek li me hat ku kevir avêt ser me û me kir bermahiyên tepeserkirî.",
+    "Ez ji welatê Yemenê bûm û di bin destê hukumdarekî de xizmet dikir ku dixwest cihê pîroz bibîne.",
+    "Em ji bo wan ên ku wê cesaret dikin ku perestgeha Xwedê bişkînin, bûne mînak"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Artêşa Ebraha el-Eşram",
+        "Hêzên Etiyopyayê",
+        "Dagirkerên Farisî",
+        "Lejyonên Romayî",
+        "Êrîşkarên Bedewî"
+      ],
+      "answer": "Artêşa Ebraha el-Eşram"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Dorpêçkirina keleheke çolê",
+        "Êrîşkirina li ser cihê pîroz ê Mekkeyê",
+        "Şerê deryayî li deryayê",
+        "Serhildanek li dijî padîşahê zalim",
+        "Lêgerîna pêxemberekî windabûyî"
+      ],
+      "answer": "Êrîşkirina li ser cihê pîroz ê Mekkeyê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Geliyê Mînayê li nêzîkî Mekkeyê",
+        "Qesra Sana'a li Yemenê",
+        "Çiyayên Tihamayê",
+        "Bajarê kevnar ê Orşelîmê",
+        "Peravên Deryaya Sor"
+      ],
+      "answer": "Geliyê Mînayê li nêzîkî Mekkeyê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Serkeftin û wêrankirina mala pîroz",
+        "Têkçûna ji aliyê çûkên ku kevirên axê hildigirin ve",
+        "Teslîmbûn û veguherîna aştiyane",
+        "Birçîbûn û karesatên xwezayî",
+        "Ji ber barana zêde vekişîn"
+      ],
+      "answer": "Têkçûna ji aliyê çûkên ku kevirên axê hildigirin ve"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

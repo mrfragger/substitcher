@@ -1,0 +1,61 @@
+{
+  "title": "Te Kupu Whakamana o te Kōpū",
+  "intro": "I roto i ngā rūma wahangu o te ngākau i whakatapua ki te Atua, i whakaarohia he oati tapu. Ko te kaupapa o tēnei oati he oranga kāore anō kia manawa, ā, mā tōna whakatutukitanga e whakarerekē te huarahi o te taonga tuku iho wairua ake ake. Eke atu ki te mea ngaro o te wairua nāna nei te oati e tangi tonu ana i te ao mutunga kore.",
+  "clues": [
+    "I noho ahau i roto i tētahi whare e mōhiotia ana mō tōna karakia, ā, i hiahia ahau ki tētahi taonga hei whakatata atu i ahau ki a Allah.",
+    "I whakarite kawenata nui ahau ki tōku Ariki mō ngā mea i huna i roto i ahau, me te oati ka whakatapua katoatia e ahau ki tāna mahi.",
+    "I te taenga mai o te wā o te huraina, kāore i tumanakohia te mea i tae mai ki ahau, engari i tukua e ahau te mea nei ki te Mana-Mārama.",
+    "I tapaina e au taku tamaiti he ingoa e tohu ana i te aroha, ā, i inoi ahau kia tiakina ia me āna uri i te mea kua kanga.",
+    "I whakanohoia taku tamaiti ki te wāhi tapu, i raro i te mana tiaki o tētahi poropiti nō te uri o Arona.",
+    "I mōhiotia taku tamāhine mō tōna parakore, ā, i whiriwhiria ia i runga ake i ngā wāhine katoa, ā, i muri mai ka noho ko ia hei whaea o tētahi poropiti nui, ahakoa kāore i pāngia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te wahine a Imran",
+        "Te whaea o Musa",
+        "Te wahine a Parao",
+        "Te wahine a Al-Aziz",
+        "Ko te whaea o Īha"
+      ],
+      "answer": "Te wahine a Imran"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "He kupu taurangi ki te whakatapua i tana tamaiti kāore anō kia whānau ki te temepara",
+        "He whakamātautau i te manawanui i roto i te mate roa",
+        "He haerenga ki tētahi whenua tawhiti mō te whakapono",
+        "He pakanga ki tētahi kīngi nanakia",
+        "He kai whakamiharo mai i te rangi"
+      ],
+      "answer": "He kupu taurangi ki te whakatapua i tana tamaiti kāore anō kia whānau ki te temepara"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te tamaiti ko Maryam tōna ingoa",
+        "Te tokotoko i huri hei nakahi",
+        "Te kuao kau koura",
+        "Te puna o Zamzam",
+        "Te āka a Noa"
+      ],
+      "answer": "Ko te tamaiti ko Maryam tōna ingoa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I manakohia tana tamaiti e Allah, ā, i tipu ake i raro i te manaakitanga poropiti.",
+        "I riro tana tamaiti hei poropiti, ā, i whiwhi ia i tētahi karaipiture",
+        "I whakaarahia tana tamaiti ki te rangi",
+        "Nāna i hanga te whare tapu e tana tamaiti",
+        "I whakawhiwhia tana tamaiti ki te whakaaro nui me te taonga nui"
+      ],
+      "answer": "I manakohia tana tamaiti e Allah, ā, i tipu ake i raro i te manaakitanga poropiti."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

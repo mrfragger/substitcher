@@ -1,0 +1,61 @@
+{
+  "title": "Głos ukrytego przekonania",
+  "intro": "W sercu tyrańskiego dworu, gdzie niewiara była prawem ziemi, samotna dusza balansowała na granicy wiary i strachu. Ten człowiek, blisko centrum władzy, słuchał, jak przesłanie proroka spotykało się z pogardą i groźbami. Nadeszła chwila prawdy, zmuszając go do wyboru między cichym bezpieczeństwem a wypowiedzeniem niebezpiecznej prawdy. Czy potrafisz odkryć tożsamość tego odważnego obrońcy?",
+  "clues": [
+    "Mieszkałem w domu tyrana i byłem naocznym świadkiem arogancji, która odrzucała boskie znaki.",
+    "Utrzymywałem swoją wiarę w tajemnicy, jako ukryty skarb w pałacu bałwochwalstwa.",
+    "Słyszałem, że przywódca, któremu służyłem, planował zabić posłańca Allaha, człowieka o imieniu Musa.",
+    "Poddawałem w wątpliwość ich logikę, przypominając im los ludów Noe, Ad i Samud.",
+    "Zadałem swemu ludowi ważne pytanie: „Jeśli jest kłamcą, to kłamstwo jest na niego spadło, lecz jeśli jest prawdomówny, niektóre z jego obietnic was uderzą”.",
+    "Moja historia została opowiedziana jako przykład wiary w surze „Wybaczający”, w której ostrzegałem swój lud przed intrygami możnych."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Wierzący z rodziny Fir'awna",
+        "Haman",
+        "Magowie z Fir'awn",
+        "Karun",
+        "Samiri"
+      ],
+      "answer": "Wierzący z rodziny Fir'awna"
+    },
+    "trial": {
+      "label": "Na czym polegał mój proces?",
+      "options": [
+        "Obrona proroka Musy na dworze tyrana",
+        "Zbudowanie wysokiej wieży, aby sięgnąć nieba",
+        "Wrzucenie w płonący ogień",
+        "Połknięcie przez gigantyczną rybę",
+        "Utrata całego bogactwa i zdrowia"
+      ],
+      "answer": "Obrona proroka Musy na dworze tyrana"
+    },
+    "location": {
+      "label": "Jaki był temat mojej argumentacji?",
+      "options": [
+        "Konsekwencje odrzucenia przesłania proroka",
+        "Żądanie znaku od świętego drzewa",
+        "Tworzenie cielęcia z roztopionej biżuterii",
+        "Cud wielbłąda ze skały",
+        "Interpretacja snów władcy"
+      ],
+      "answer": "Konsekwencje odrzucenia przesłania proroka"
+    },
+    "outcome": {
+      "label": "Jaki był wynik?",
+      "options": [
+        "Bóg ocalił tę osobę przed ich złym planem",
+        "Cały dwór natychmiast przyjął islam",
+        "Tyran żałował w chwili utonięcia",
+        "Tyran został pochłonięty przez ziemię",
+        "Jednostka została zesłana do odległego kraju"
+      ],
+      "answer": "Bóg ocalił tę osobę przed ich złym planem"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

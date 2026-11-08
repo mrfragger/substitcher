@@ -1,0 +1,61 @@
+{
+  "title": "O proscrito dos ceos",
+  "intro": "Un ser misterioso atópase na encrucillada entre a creación e o rexeitamento. A súa historia é de arrogancia sen igual e desafío absoluto a unha orde divina. A súa elección resoa en cada xeración, converténdose nunha proba para cada alma nacida neste mundo. Podes identificar este adversario eterno?",
+  "clues": [
+    "Estiven presente nun evento de significado cósmico, cando un novo ser foi formado a partir de arxila e recibiu vida polo Alento do Misericordioso.",
+    "Eu mesmo fun traído á existencia a partir dun único elemento abrasador, a diferenza dese ser de po.",
+    "Déronme unha orde que considerei inferior á miña condición.",
+    "O orgullo inchou dentro de min e negueime rotundamente a cumprir esa orde.",
+    "Concedéuseme un atraso ata que se me sinalase un Día, para que puidese perseguir o meu propósito declarado de enganar aos demais.",
+    "Son o inimigo declarado de todos os que camiñan pola terra, susurrando enganos e afastándoos do camiño recto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Iblis (Satanás)",
+        "Faraón (Fir'awn)",
+        "Amán",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satanás)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Negouse a inclinarse ante Adán",
+        "Afirmou falsamente a divindade",
+        "Forxou un becerro de ouro para o culto",
+        "Matou ao seu irmán por envexa",
+        "Liderou a oposición politeísta na Meca"
+      ],
+      "answer": "Negouse a inclinarse ante Adán"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Paraíso (Jannah)",
+        "Palacio do faraón en Exipto",
+        "O val sagrado de Tuwa",
+        "As profundidades do mar",
+        "O xardín de Saba"
+      ],
+      "answer": "Paraíso (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Concedéuselle un respiro ata o Día do Xuízo",
+        "Afogado xunto co exército no mar",
+        "Tragado pola terra xunto con tesouros",
+        "Transformados en simios por violar o sábado",
+        "Queimado por pedras lanzadas do ceo"
+      ],
+      "answer": "Concedéuselle un respiro ata o Día do Xuízo"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

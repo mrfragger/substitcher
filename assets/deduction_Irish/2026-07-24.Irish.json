@@ -1,0 +1,61 @@
+{
+  "title": "An Comhcheilgeoir faoi Cheilt",
+  "intro": "Bíonn tú i láthair duine cumhachtach ó laethanta an nochta. Bhí an duine seo aitheanta as a intinn, a shaibhreas agus a stádas i measc a muintire. Nuair a tháinig na comharthaí soiléire, d’aithin siad an áilleacht ach roghnaigh siad dúshlán thar géilleadh. Cad a spreag an t-anam seo chun comhcheilg a dhéanamh sa dorchadas, agus cad a bhí ina chinniúint deiridh?",
+  "clues": [
+    "Bhí mé beannaithe le hacmhainní agus tionchar flúirseach, rud a d’fhág go raibh mo bhriathar trom sna tionóil.",
+    "Nuair a dúradh briathra an diaga, ní raibh mé in ann a n-eispéireas labhartha a shéanadh, ach ní ligfeadh mo bhród dom géilleadh.",
+    "Bhailigh mé mo chomhairleoirí le chéile, ag aonrú mé féin le machnamh a dhéanamh ar bhealach chun an teachtaireacht a dhíbhe.",
+    "Tar éis go leor machnaimh, dhearbhaigh mé nach raibh ann ach 'draíocht a tháinig anuas ón am atá thart' chun daoine a chasadh ar shiúl.",
+    "Ansin, labhair an nochtadh go díreach liom: ‘Fág Mise leis an té a chruthaigh mé i m’aonar.’ Roghnaíodh mé mar gheall ar mo chleasaíocht.",
+    "Go luath, greimeoidh an tine chéanna ar tugadh rabhadh dom fúithi mo mhullach, agus ní bheidh aon éalú agam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Comhcheilg chun an Fáidh a fheallmharú",
+        "Threoraigh siad baghcat i gcoinne na Moslamach",
+        "Bhailigh comhairle le chéile chun an Corán a bhrandáil mar dhraíocht",
+        "Comhcheilg chun an Fáidh a dhíbirt as Mecca",
+        "Dhiúltaigh sé a shaibhreas a roinnt le dílleachtaí"
+      ],
+      "answer": "Bhailigh comhairle le chéile chun an Corán a bhrandáil mar dhraíocht"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Nochtadh",
+        "An Chomhairle",
+        "An Forelock",
+        "An Saibhreas",
+        "An Peann"
+      ],
+      "answer": "An Forelock"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinne sé aithrí agus ghlac sé le hIoslam",
+        "D’imigh sé go dtí an Aibéisinia",
+        "Bhuail galar marfach é",
+        "Fuair ​​sé bás i gcath in aghaidh na Moslamach",
+        "Daoradh chun Ifrinn é"
+      ],
+      "answer": "Daoradh chun Ifrinn é"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Melodija, kuri judino kalnus",
+  "intro": "Netrukus sužinosite nepaprasto Alacho tarno istoriją. Pasiuntinių ir valdovų šalyje ši asmenybė buvo palaiminta dieviška knyga, galingu balsu ir jėga prieš geležį. Skaitydami užuominas, ar galite atpažinti, kas tai galėtų būti?",
+  "clues": [
+    "Buvau Alacho tarnas, kuriam buvo duota ypatinga knyga.",
+    "Turėjau gražų balsą, o mano šlovinimas buvo toks mylimas, kad net kalvos ir paukščiai prisijungė prie manęs.",
+    "Garsioje kovoje susidūriau su grėsmingu priešininku ir, nepaisant to, kad buvau mažesnis, nugalėjau.",
+    "Geležis man tapo lanki, leido man savo rankomis pasigaminti šarvus.",
+    "Buvau paskirtas didelės tautos valdovu, ir mano išmintis sprendimuose buvo garsi.",
+    "Mano sūnui, taip pat pranašui, buvo suteikta vėjo ir džinų valdžia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Dawudas (Dovydas)",
+        "Pranašas Sulaimanas (Saliamonas)",
+        "Pranašas Mozė (Mozė)",
+        "Pranašas Harunas (Aaronas)",
+        "Pranašas Iljas (Elijas)"
+      ],
+      "answer": "Pranašas Dawudas (Dovydas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Nugalėjo Galijotą (Džalutą)",
+        "Perskyrė jūrą",
+        "Išgyveno banginį",
+        "Buvo įmestas į ugnį",
+        "Pastatė Arką"
+      ],
+      "answer": "Nugalėjo Galijotą (Džalutą)"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Zaburas (Psalmės)",
+        "Tora (Taurat)",
+        "Evangelija (Injil)",
+        "Ibrahimo ritiniai",
+        "Koranas"
+      ],
+      "answer": "Zaburas (Psalmės)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapo pranašu ir Izraelio karaliumi",
+        "Tapo Egipto valdovu",
+        "Buvo pakeltas į dangų",
+        "Buvo sunaikintas audros",
+        "Tapo olos palydovu"
+      ],
+      "answer": "Tapo pranašu ir Izraelio karaliumi"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

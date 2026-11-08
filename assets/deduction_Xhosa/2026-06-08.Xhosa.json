@@ -1,0 +1,61 @@
+{
+  "title": "Umceli weNdawo Engcwele",
+  "intro": "Ngeeyure ezizolileyo zobusuku, umphefumlo ozinikeleyo wabiza uSozinceba ngaphakathi kweendonga ezingcwele zendawo engcwele. Iminyaka yokholo olungagungqiyo nomonde yayiza kuvuzwa ngommangaliso owawuza kuzisa uvuyo kunye nelifa lobuprofeti.",
+  "clues": [
+    "Ndichithe imini nobusuku bam ndizinikele kwindawo engcwele engcwele, ndithandaza rhoqo eNkosini yam.",
+    "Ndaluphala, umfazi wam wayengenabantwana, kodwa andizange ndilahle ithemba kwinceba ka-Allah.",
+    "Ndanikwa unyana, ogama linguYahya, owaba ngumprofeti nesibane sobulungisa.",
+    "Nam ndandingumprofeti, ndithunywe ukukhokela abantwana bakwaSirayeli.",
+    "Ndandingumzukulwana woMprofeti uHarun kwaye ndandingumbingeleli eTempile.",
+    "Ndaphathiswa umsebenzi wokunyamekela uMaryam, unina ka-Isa, ndaza ndayibona imimangaliso yakhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uZakariya",
+        "Umprofeti uYahya",
+        "Umprofeti uIlyas",
+        "Umprofeti uIshaq",
+        "Umprofeti uYa'qub"
+      ],
+      "answer": "Umprofeti uZakariya"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wanikwa unyana ebudaleni",
+        "Ndisindiswe emlilweni ovuthayo",
+        "Uhlangulwe esiswini sentlanzi",
+        "Wasinda kumkhukula omkhulu",
+        "Uphiliswe kwisifo esinzima"
+      ],
+      "answer": "Wanikwa unyana ebudaleni"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "I-Mihrab (indawo yokuthandaza)",
+        "IKaaba",
+        "Isihlahla Esitshayo",
+        "Ityeya yomnqophiso",
+        "Umqolomba Wabalele Abasixhenxe"
+      ],
+      "answer": "I-Mihrab (indawo yokuthandaza)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Unikwe unyana olungileyo owaba ngumprofeti",
+        "Itshatyalaliswe sisivuthuvuthu esinamandla",
+        "Nditshonile elwandle",
+        "Ndisindisiwe ekutshisweni",
+        "Babuyela kubantu babo emva kokusindiswa kwintlanzi"
+      ],
+      "answer": "Unikwe unyana olungileyo owaba ngumprofeti"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

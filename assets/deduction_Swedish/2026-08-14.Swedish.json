@@ -1,0 +1,61 @@
+{
+  "title": "De förbannade händerna",
+  "intro": "Du står i de slingrande gränderna i det forntida Mecka, där en inflytelserik och rik själ en gång vände sig bort från sanningens kallelse. Denna figurs berättelse är en skarp påminnelse om att blodsband inte kan övervinna stolthetens kedjor. Vem är denne vars namn ekar med den eld som väntar?",
+  "clues": [
+    "Jag vandrade på Meckas gator med en stolthet som förblindade mig för sanningen, fastän budbäraren var av mitt eget blod.",
+    "Mina ägodelar var stora, men de blev en förbannelse snarare än en sköld.",
+    "Vägledningen talar om min undergång och förkunnar att mina händer och min person skall förgås.",
+    "Min make/maka anslöt sig till min fiendskapskampanj och samlade törnen för att sprida på vägen för den som åkallade Allah.",
+    "På domens dag skall jag kastas in i en flammande eld, och min make skall ha ett rep av palmfiber runt halsen.",
+    "Jag är känd under ett namn som betyder 'flammans far' – ett namn som förutsäger min eviga boning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Viktig prövning eller händelse",
+      "options": [
+        "Motsatte sig profeten och blev förbannad i Koranen",
+        "Ledde en armé för att förstöra Kaba",
+        "Försökte döda profeten genom att kasta stenar",
+        "Vägrade att tro på månens delning",
+        "Byggde ett torn för att nå himlen"
+      ],
+      "answer": "Motsatte sig profeten och blev förbannad i Koranen"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Helvetets flammande eld",
+        "Musas personal",
+        "Nuhs ark",
+        "Zamzams brunn",
+        "Guldkalven"
+      ],
+      "answer": "Helvetets flammande eld"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Han skall träda in i den flammande Elden, och hans rikedom skall inte gagna honom",
+        "Han omvände sig och blev troende",
+        "Han blev förlåten efter att ha återtagit sina vittnesmål",
+        "Han dog som martyr",
+        "Han togs upp till himlen"
+      ],
+      "answer": "Han skall träda in i den flammande Elden, och hans rikedom skall inte gagna honom"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

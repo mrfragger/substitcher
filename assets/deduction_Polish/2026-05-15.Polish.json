@@ -1,0 +1,61 @@
+{
+  "title": "Strażnik Boskiego Znaku",
+  "intro": "Głęboko w świętym sanktuarium, błogosławiona dusza była pielęgnowana pod boską opieką. Ta osoba miała odegrać kluczową rolę w cudownym wydarzeniu, stając się świadectwem bezgranicznej mocy i mądrości Allaha. Ich podróż odsłoniła głęboką prawdę, podważając postrzeganie i ustanawiając wyjątkowy znak dla całej ludzkości.",
+  "clues": [
+    "Zostałam wybrana i oczyszczona przez Allaha ponad wszystkie kobiety moich czasów.",
+    "Zostałem oddany pod opiekę sprawiedliwego proroka, który w cudowny sposób znalazł pożywienie w mojej komnacie modlitewnej.",
+    "Odizolowałem się od rodziny i udałem się do prywatnego miejsca, aby czcić Allaha.",
+    "Anioł ukazał mi się w postaci doskonałego człowieka i przyniósł mi nowinę o czystym synu, chociaż nie znałam wcześniej żadnego mężczyzny.",
+    "Po bólach porodu powiedziano mi, że mam potrząsnąć pniem palmy, aby znaleźć świeże pożywienie.",
+    "Gdy wróciłam do swoich bliskich, niosąc w ramionach noworodka, zaczęli mnie przesłuchiwać, ale mój synek w cudowny sposób przemówił z kołyski, stając w mojej obronie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Sara (żona proroka Ibrahima)",
+        "Hadżar (matka proroka Ismaela)",
+        "Bilqis (Królowa Saby)",
+        "Asiya (żona faraona)",
+        "Maryam (Maryja)"
+      ],
+      "answer": "Maryam (Maryja)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wielka powódź, która zniszczyła naród niewierzący",
+        "Wrzucenie w płonący ogień za odrzucenie bożków",
+        "Cudowne narodziny dziecka bez ojca",
+        "Połknięcie przez wieloryba za porzucenie misji",
+        "Zniszczenie miasta za niemoralne praktyki"
+      ],
+      "answer": "Cudowne narodziny dziecka bez ojca"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec",
+        "Arka Przymierza",
+        "Święta komnata modlitewna (Mihrab)",
+        "Mówiący ptak (Hudhud)",
+        "Laska, która zamieniła się w węża"
+      ],
+      "answer": "Święta komnata modlitewna (Mihrab)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Budowa wspaniałej świątyni",
+        "Rozstąpienie się morza, aby ludzie mogli przejść",
+        "Dziecko, które od kołyski broniło swoich rodziców",
+        "Objawienie boskiej księgi, która ma prowadzić ludzkość",
+        "Królestwo obdarzone wiatrem i dżinami"
+      ],
+      "answer": "Dziecko, które od kołyski broniło swoich rodziców"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

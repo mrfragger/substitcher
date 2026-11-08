@@ -1,0 +1,61 @@
+{
+  "title": "Tas, kuris užsitarnavo surą",
+  "intro": "Įsivaizduokite nuolankią sielą, kuri artėja prie vieno iš Alacho Pasiuntinių su nuoširdumo kupina širdimi ir giliu troškimu mokytis. Tačiau tą pačią akimirką turtingas ir statusą turintis asmuo patraukė Pasiuntinio dėmesį, o ieškotojas suraukė antakius. Po to sekė ne kas kita, kaip visas Korano skyrius, pasiųstas pataisyti Pasiuntinį ir pagerbti ieškančią sielą.",
+  "clues": [
+    "Atėjau pas Alacho Pasiuntinį atvira širdimi ir giliu vadovavimo troškimu",
+    "Neturėjau jokio žemiško statuso, kurį galėčiau pasiūlyti, tik nuolankią sielą, ieškančią tiesos.",
+    "Mano fizinės akys nematė, bet dvasinis regėjimas buvo aiškus",
+    "Atvykau nepatogiu metu, kai Pasiuntinys buvo užsiėmęs su labai įtakingu asmeniu",
+    "Į mane buvo nukreiptas susiraukimas, bet Alachas atsakė dievišku pataisymu",
+    "Aš esu Abdullah ibn Umm Maktum, atsidavęs draugas, kurio istorija įkvėpė Surą Abasą"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Abdullah ibn Umm Maktumas",
+        "Bilalas ibn Rabahas",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salmanas al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktumas"
+    },
+    "trial": {
+      "label": "Bandomasis / Įvykis",
+      "options": [
+        "Pranašo atstumtas dėl turtingo žmogaus",
+        "Būti įmestam į priešų siaučiančią ugnį",
+        "Parduodamas ir persekiojamas kaip vergas",
+        "Galingo kario iššūkis dvikovai",
+        "Praryti didelės žuvies"
+      ],
+      "answer": "Pranašo atstumtas dėl turtingo žmogaus"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Korano skyrius, prasidedantis suraukta antakiu (Sura Abasa)",
+        "Ugnis, sukurta vėsiai ir saugiai",
+        "Lazdą, perskėlusią galingą jūrą",
+        "Arka, pastatyta ant aukšto kalno",
+        "Iš sukietėjusio molio suformuotas paukštis"
+      ],
+      "answer": "Korano skyrius, prasidedantis suraukta antakiu (Sura Abasa)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Alachas atskleidė mane ginančią Korano surą",
+        "Alachas padarė ugnį man vėsią ir saugią",
+        "Alachas perskyrė jūrą, kad išgelbėtų mane nuo persekiojimo",
+        "Alachas suteikė man didelę karalystę ir išmintį",
+        "Alachas mane paėmė į dangų be mirties"
+      ],
+      "answer": "Alachas atskleidė mane ginančią Korano surą"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

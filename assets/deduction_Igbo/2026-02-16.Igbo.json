@@ -1,0 +1,61 @@
+{
+  "title": "Nkwupụta nke Ike zuru oke",
+  "intro": "N'oge ochie, otu onye dị ike biliri ịchị nnukwu ala na ndị bi na ya. Ọchịchị onye a jupụtara n'oke mpako na nnukwu ihe ịma aka nye ikike Chineke. Kwadebe onwe gị ikpughe njirimara nke mkpụrụ obi nke akara aka ya ghọrọ ihe mmụta na-adịgide adịgide maka ọgbọ niile.",
+  "clues": [
+    "Achịchara m alaeze ukwu dị ike, ebe okwu m bụ iwu.",
+    "Akpọrọ m onwe m chi kachasị elu, na-achọ ka ndị niile nọ n'okpuru ọchịchị m fee ya ofufe.",
+    "Egburu m otu obodo kpọmkwem, mee ka ha bụrụ ohu ma nye iwu ka e gbuo ụmụ nwoke ha dị obere.",
+    "Otu onye ozi Chineke dị umeala n'obi zutere m ugboro ugboro, onye rụrụ ọrụ ebube doro anya n'ihu mụ na ndị dibịa anwansi m.",
+    "Eji m isi ike jụ eziokwu ahụ, na-ebo onye ozi ahụ ebubo ịgba afa ma na-akpa nkata ibibi ya na ndị na-eso ụzọ ya.",
+    "Oké osimiri kpuchiri mụ na ndị agha m niile ka anyị na-achụso ndị a tọhapụrụ n'aka m n'esepụghị aka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Nimrọd",
+        "Abu Jahl",
+        "Iblis",
+        "Fero",
+        "Haman"
+      ],
+      "answer": "Fero"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Oké Iju Mmiri ahụ",
+        "Ọkụ Na-ere Ọkụ",
+        "Mmiri nke Onye Mmegbu",
+        "Mbibi nke Ifufe",
+        "Ala Ọma Jijiji nke Ekweghị N'Ekwe"
+      ],
+      "answer": "Mmiri nke Onye Mmegbu"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ụgbọ Noa",
+        "Mkpanaka Mozis",
+        "Arụsị Ọlaedo ahụ",
+        "Olulu Mmiri Zamzam",
+        "Ocheeze Bilqis"
+      ],
+      "answer": "Mkpanaka Mozis"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E nyere ya nnukwu alaeze",
+        "Ahụ dị ka ihe ịrịba ama",
+        "A gbaghaara ya mgbe nchegharị gasịrị",
+        "E buliri ya elu ruo n'ịbụ onye amụma",
+        "Ndị ya ghọrọ ndị nsọ"
+      ],
+      "answer": "Ahụ dị ka ihe ịrịba ama"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

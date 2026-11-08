@@ -1,0 +1,61 @@
+{
+  "title": "Usingizi Zaidi ya Wakati",
+  "intro": "Hebu fikiria wakati ambapo ukweli ulinyamazishwa na waumini waliwindwa. Kundi dogo lilichagua kujificha badala ya kujisalimisha, wakitafuta kimbilio katika sehemu zisizotarajiwa — mahali ambapo pangekuwa mahali pao pa kupumzika kwa karne nyingi zisizohesabika. Hatimaye walipoamka, ulimwengu ulikuwa umebadilika kuwazunguka. Nafsi hizi zinazolala ni akina nani?",
+  "clues": [
+    "Tulikuwa vijana tukiishi katika mji wa kale.",
+    "Jumuiya yetu ilidai tuabudu pamoja nao, lakini tulikataa.",
+    "Tulikimbia jiji hilo kutafuta kimbilio kutoka kwa wale waliopinga imani yetu.",
+    "Mwenzangu mwaminifu mwenye miguu minne alibaki kwenye mlango wa maficho yetu.",
+    "Mwenyezi Mungu alitufanya tulale kwa miaka mia tatu na tisa.",
+    "Hatimaye tulipoamka, jiji letu lililokuwa likiteswa hapo awali lilikuwa limekubali imani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Ashab al-Kahf (Watu wa Pango)",
+        "Ashab al-Fil (Jeshi la Tembo)",
+        "Ashab al-Ukhdud (Maswahaba wa Handaki)",
+        "Hawariyyun (Wanafunzi wa Isa)",
+        "Yajuj wa Majuj (Yajuj na Maajuj)"
+      ],
+      "answer": "Ashab al-Kahf (Watu wa Pango)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Tulijificha ndani ya pango na kulala kwa karne nyingi",
+        "Tuliokolewa kutoka kwa moto mkali",
+        "Tulimezwa na samaki mkubwa",
+        "Tulijaribiwa kwa ngamia jike wa kimiujiza",
+        "Tulipewa ishara tisa zilizo wazi"
+      ],
+      "answer": "Tulijificha ndani ya pango na kulala kwa karne nyingi"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Pango refu milimani",
+        "Mashua kwenye bahari ya wazi",
+        "Jengo refu linalofikia mbingu",
+        "Bustani iliyogawanywa kati ya wapinzani wawili",
+        "Kizuizi cha chuma na shaba"
+      ],
+      "answer": "Pango refu milimani"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Tuliamka na kugundua kuwa jiji letu lilikuwa limegeukia imani",
+        "Moto mkali ukawa baridi na utulivu",
+        "Jeshi la adui lilizama baharini",
+        "Ndege waliokuwa wamebeba mawe waliwaangamiza adui",
+        "Samaki mkubwa alituachilia ufukweni"
+      ],
+      "answer": "Tuliamka na kugundua kuwa jiji letu lilikuwa limegeukia imani"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

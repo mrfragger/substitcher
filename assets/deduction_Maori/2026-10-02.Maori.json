@@ -1,0 +1,61 @@
+{
+  "title": "Te Ariki i Whakawhiti i ngā Pito o te Ao",
+  "intro": "Whakaarohia tētahi rangatira kaha, i whakawhiwhia ki te kaha me te mana whakahaere mō te whenua. I tīmata tēnei tangata i ngā haerenga whakamiharo, i tae atu ki te wāhi e torengi ai te rā me te wāhi e whiti ai, i tūtaki ki ngā iwi tauhou, ā, i tūtaki ki tētahi wero nui mai i ngā iwi kino e rua. Ko wai tēnei rangatira ngaro?",
+  "clues": [
+    "He rangatira ahau i whakawhiwhia ki te mana me ngā tikanga hei toro atu ki ngā pito rawa o te ao.",
+    "I haere ahau ki te hauauru, ā, i kite ahau i te tōnga o te rā i roto i te puna pouri.",
+    "I tūtaki ahau ki tētahi iwi e tata ana ki te rā e whiti ana, kāore nei ō rātou piringa i tōna werawera.",
+    "I tono mai tētahi atu hapori ki ahau kia āwhina i a rātou ki te whawhai ki ngā iwi pirau e rua e mōhiotia nei ko Koka rāua ko Makoka.",
+    "I hanga e au he ārai mā te whakamahi i te rino me te parahi rewa hei pupuri i a rātou.",
+    "I kī atu ahau he tohu aroha tēnei ārai nā tōku Ariki, ā, ka mau tonu ki te wā kua whakaritea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Poropiti a Sulaimana",
+        "Karauna",
+        "Taluta",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hanga i tētahi ārai hei ārai i a Koka rāua ko Makoka",
+        "Te ora i te waipuke nui",
+        "Te maka ki roto i te ahi",
+        "Te whiti i te moana",
+        "Te whawhai ki tētahi tangata nunui"
+      ],
+      "answer": "Te hanga i tētahi ārai hei ārai i a Koka rāua ko Makoka"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He ārai rino me te parahi",
+        "He tokotoko i huri hei nakahi",
+        "He kaipuke rakau",
+        "He whare karāhe",
+        "He māra o ngā nikau tāte"
+      ],
+      "answer": "He ārai rino me te parahi"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I puritia a Koka rāua ko Makoka tae noa ki te wā i whakaritea",
+        "I riro ia hei poropiti",
+        "I whiua ia mō te whakapehapeha",
+        "I toa ia i te ao katoa",
+        "I ora ia ake ake"
+      ],
+      "answer": "I puritia a Koka rāua ko Makoka tae noa ki te wā i whakaritea"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

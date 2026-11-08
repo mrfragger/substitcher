@@ -1,0 +1,61 @@
+{
+  "title": "A paciência que sobreviveu à dor.",
+  "intro": "Um ancião cuja paciência se tornou lendária, cuja visão se desvaneceu pela tristeza, mas cuja fé no plano divino jamais vacilou. Este indivíduo viu doze filhos crescerem e se tornarem os alicerces de tribos, sofreu a dolorosa perda de um filho muito amado e se tornou um símbolo atemporal de bela paciência diante da dor avassaladora. Uma alma reverenciada cuja história é contada nas páginas da revelação. Você consegue identificar essa figura no Alcorão?",
+  "clues": [
+    "Eu fui um profeta cuja história é contada em detalhes em uma importante surata do Alcorão.",
+    "Tive doze filhos que se tornaram os patriarcas das tribos de Bani Israel.",
+    "Eu disse aos meus filhos para entrarem por portões diferentes, para que não fossem reconhecidos como um único povo.",
+    "Meus olhos embranqueceram de tanto chorar incessantemente pela perda de um filho amado que me foi tirado.",
+    "Recusei-me a desesperar, mesmo quando meus outros filhos me instaram a fazê-lo, dizendo que eu só reclamava com Alá.",
+    "Eu sou o pai do profeta Yusuf, cujo próprio nome significa 'aquele que aumenta' em árabe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Yaqub (Jacó)",
+        "Profeta Yusuf",
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Yaqub (Jacó)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Perda de um filho querido devido a um poço",
+        "A grande inundação que engolfou um povo inteiro.",
+        "A migração de um reino adorador do fogo",
+        "O confronto com um poderoso tirano do Egito",
+        "O exílio para o ventre de uma baleia"
+      ],
+      "answer": "Perda de um filho querido devido a um poço"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma camisa manchada com sangue falso.",
+        "Um cajado que se transformou em serpente.",
+        "Uma arca construída em uma montanha",
+        "Uma camela esculpida em rocha",
+        "Um bezerro de ouro"
+      ],
+      "answer": "Uma camisa manchada com sangue falso."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A visão foi restaurada quando a camisa de um filho querido foi colocada sobre o rosto.",
+        "Salvação após ser lançado na barriga de um grande peixe",
+        "Receber o título de Khalilullah de Allah",
+        "Atravessando o mar com um povo liberto da escravidão.",
+        "Um arco-íris surge como sinal de esperança após a enchente."
+      ],
+      "answer": "A visão foi restaurada quando a camisa de um filho querido foi colocada sobre o rosto."
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

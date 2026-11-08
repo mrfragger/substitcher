@@ -1,0 +1,61 @@
+{
+  "title": "Den beslöjade konspiratorn",
+  "intro": "Du befinner dig i närvaro av en mäktig figur från uppenbarelsetiden. Denna individ var känd för sitt intellekt, sin rikedom och sin status bland sitt folk. När de tydliga tecknen kom, insåg de skönheten men valde trots framför underkastelse. Vad drev denna själ att konspirera i mörkret, och vad blev hennes slutliga öde?",
+  "clues": [
+    "Jag var välsignad med rikliga resurser och inflytande, vilket gjorde mitt ord tungt i församlingarna.",
+    "När de gudomligas ord reciterades, kunde jag inte förneka deras vältalighet, men min stolthet tillät mig inte att underkasta mig.",
+    "Jag samlade mina rådgivare och isolerade mig för att fundera över ett sätt att misskreditera budskapet.",
+    "Efter mycket funderande förklarade jag att det inte var något annat än \"magi som nedärvts från det förflutna\" för att avvisa folk.",
+    "Uppenbarelsen riktade sig sedan direkt till mig: \"Lämna mig ensam med den jag skapade.\" Jag blev utpekad för mina intriger.",
+    "Snart kommer just den eld jag blev varnad för att gripa tag i mig i pannluggen, och jag kommer inte att ha någon flyktväg."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Konspirerade för att mörda profeten",
+        "Ledde en bojkott mot muslimer",
+        "Samlade ett råd för att stämpla Koranen som magi",
+        "Planerade att utvisa profeten från Mecka",
+        "Vägrade att dela sin rikedom med föräldralösa barn"
+      ],
+      "answer": "Samlade ett råd för att stämpla Koranen som magi"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Uppenbarelsen",
+        "Rådet",
+        "Pannlocken",
+        "Rikedomen",
+        "Pennan"
+      ],
+      "answer": "Pannlocken"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Han ångrade sig och omfamnade islam",
+        "Han emigrerade till Abessinien",
+        "Han drabbades av en dödlig sjukdom",
+        "Han dog i strid mot muslimer",
+        "Han dömdes till helvetet"
+      ],
+      "answer": "Han dömdes till helvetet"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

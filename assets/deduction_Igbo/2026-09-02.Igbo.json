@@ -1,0 +1,61 @@
+{
+  "title": "Ụra Gafere Oge",
+  "intro": "Chee echiche banyere oge e mechiri eziokwu ọnụ ma chụpụ ndị kwere ekwe. Otu obere ìgwè họọrọ ịlaghachi azụ karịa inyefe onwe ha, na-achọ ebe mgbaba n'ebe ndị a na-atụghị anya ya — ebe ga-aghọ ebe izu ike ha ruo ọtụtụ narị afọ a na-apụghị ịgụta ọnụ. Mgbe ha tetara n'ikpeazụ, ụwa agbanweela gburugburu ha. Olee ndị bụ mkpụrụ obi ndị a na-arahụ ụra?",
+  "clues": [
+    "Anyị bụ ndị ntorobịa bi n'obodo ochie.",
+    "Ndị obodo anyị chọrọ ka anyị soro ha fee ofufe, mana anyị jụrụ.",
+    "Anyị si n'obodo ahụ gbapụ n'ihi ndị na-emegide nkwenkwe anyị.",
+    "Onye enyi anyị kwesịrị ntụkwasị obi nwere ụkwụ anọ nọrọ n'ọnụ ụzọ ebe anyị zoro.",
+    "Allah mere ka anyị hie ụra ruo afọ narị atọ na itoolu.",
+    "Mgbe anyị tetara n'ụra, obodo anyị nke a na-akpagbubu anabatala okwukwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka anyị bụ?",
+      "options": [
+        "Ashab al-Kahf (Ndị nọ n'ọgba)",
+        "Ashab al-Fil (Ndị Agha nke Enyí)",
+        "Ashab al-Ukhdud (Ndị Enyi nke Ọgbà ahụ)",
+        "Hawariyyun (Ndị na-eso ụzọ Isa)",
+        "Yajuj wa Majuj (Gog na Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Ndị nọ n'ọgba)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Anyị gbapụrụ n'ọgba wee hie ụra ruo ọtụtụ narị afọ",
+        "A zọpụtara anyị n'ọkụ na-ere ọkụ",
+        "Azụ dị egwu loro anyị",
+        "E ji nne kamel dị ebube nwalee anyị",
+        "E nyere anyị ihe ịrịba ama itoolu doro anya"
+      ],
+      "answer": "Anyị gbapụrụ n'ọgba wee hie ụra ruo ọtụtụ narị afọ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ọgba miri emi n'ugwu",
+        "Ụgbọ mmiri n'oké osimiri mepere emepe",
+        "Ụlọ dị elu nke ruru eluigwe",
+        "Ubi kewara n'etiti ndị iro abụọ",
+        "Ihe mgbochi nke ígwè na ọla kọpa"
+      ],
+      "answer": "Ọgba miri emi n'ugwu"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Anyị tetara wee chọpụta na obodo anyị aghọọla okwukwe",
+        "Ọkụ na-ere ọkụ ghọrọ oyi ma dị jụụ",
+        "E riri usuu ndị agha iro n'oké osimiri",
+        "Nnụnụ ndị bu okwute bibiri onye iro ahụ",
+        "Azụ̀ dị egwu kpọpụtara anyị n'ụsọ oké osimiri"
+      ],
+      "answer": "Anyị tetara wee chọpụta na obodo anyị aghọọla okwukwe"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

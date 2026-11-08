@@ -1,0 +1,61 @@
+{
+  "title": "The Community of the First Transgression",
+  "intro": "In the land of ancient cities, a people once thrived. They were visited by a messenger with a clear call, yet they turned away and pursued a path no one had ever walked. Their tale is one of defiance, depravity, and a punishment that left their homeland as a sign for all who reflect. Who are these souls?",
+  "clues": [
+    "We lived in cities of the plain, where our prophet called us to righteousness.",
+    "We were the first to commit an indecency that no one in all the worlds had ever done before.",
+    "We waylaid travelers and committed evil openly in our gatherings.",
+    "We rejected the messenger sent to us and threatened to drive him out of our land.",
+    "We rushed to his house demanding he surrender his guests to us.",
+    "Our punishment was a rain of stones, and our city was turned upside down."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "People of Lut",
+        "People of Nuh",
+        "People of 'Ad",
+        "People of Thamud",
+        "People of Madyan"
+      ],
+      "answer": "People of Lut"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Committed the first act of sodomy",
+        "Worshipped idols",
+        "Cheated in trade",
+        "Killed their prophet",
+        "Disobeyed their parents"
+      ],
+      "answer": "Committed the first act of sodomy"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The city of the plain",
+        "The city of the well",
+        "The city of the ditch",
+        "The city of the elephant",
+        "The city of the garden"
+      ],
+      "answer": "The city of the plain"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Rained with stones and overturned",
+        "Drowned by a flood",
+        "Destroyed by a violent wind",
+        "Swallowed by the earth",
+        "Struck by a loud blast"
+      ],
+      "answer": "Rained with stones and overturned"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

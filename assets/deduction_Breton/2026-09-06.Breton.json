@@ -1,0 +1,61 @@
+{
+  "title": "Skarzhet ar C'halc'h Aour",
+  "intro": "Ur skeudenn meneget er C'horan a lakaas ur bern tud da vont en-dro e-pad ma ne oa ket ur profed nobl. Un dra bennak savet diwar aour en deus tapet kalonoù ur bobl a-bezh — met istor an den-se a echu gant an digenvezded hag ur mallozh iskis. Piv a c'hellfe bezañ an den skarzhet-se ?",
+  "clues": [
+    "Dont a ran war wel e-pad ma ne oa ket ur profed bras hag a oa pignet evit resev ur skoazell doueel.",
+    "Lakaet em eus un niver bras a dud da vont da goll gant un dra am eus savet gant va daouarn va-unan.",
+    "Ar grouidigezh alaouret am eus produet a seblante kaout buhez, o produiñ sonioù a blije d'ar re a heulie anezhi.",
+    "Lavaret em eus em boa gwelet ar pezh na c'halle ket ar re all gwelet — ur sell war an diwelus.",
+    "Tennet em eus un dra bennak eus roudoù ar c'hannad doueel ha taolet em eus anezhañ e metal teuzet.",
+    "Kondaonet e oan da vale va-unan, gant ur mallozh dibar ma ne c'halle den ebet touchout ouzh ma c'hroc'hen na me touchout ouzh o hini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraon (Fir'awn)",
+        "Abu Lahab",
+        "Ar profed Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Krouet ul leue aour evit e azeulerezh",
+        "Savet un tour o tizhout an neñvoù",
+        "Sorserien Egipt a oa bet lakaet da dalvezout",
+        "Renet un arme gant loened o nijal",
+        "Rannañ al loar evel prouenn ar brofeded"
+      ],
+      "answer": "Krouet ul leue aour evit e azeulerezh"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Al leue aour",
+        "Ur vazh hag a zo deuet da vezañ un naer",
+        "Ur vodenn o teviñ war ur menez",
+        "Un arc'h o tiskuizhañ war ur beg",
+        "Ur foz leun a dan flamm"
+      ],
+      "answer": "Al leue aour"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Divroet, difennet outañ bezañ touchet pe stekiñ ouzh ar re all",
+        "Beuzet er mor asambles gant un arme",
+        "Devet bev evit bezañ nac'het ar feiz",
+        "Tapet gant un avel feuls ha ruz",
+        "Pardonet ha savet d'ur renk uhel"
+      ],
+      "answer": "Divroet, difennet outañ bezañ touchet pe stekiñ ouzh ar re all"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

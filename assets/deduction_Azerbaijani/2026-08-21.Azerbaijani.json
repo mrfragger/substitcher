@@ -1,0 +1,61 @@
+{
+  "title": "Taxtın Arxasındakı Kölgə",
+  "intro": "Siz qüdrətli qədim bir krallığın həyətində dayanırsınız, burada güclü bir hökmdar özünü bütün xalq üzərində tanrı elan edib. Bu hökmdarın yanında krallığın ən böyük ambisiyaları həvalə edilmiş sadiq bir xidmətçi dayanır. Birlikdə onlar hiylə qurur və plan qururlar, onlara rəhbərlik etmək üçün göndərilən bir elçinin xəbərdarlıqlarına qulaq asmaqdan imtina edirlər. Bu sadiq xidmətçinin kim olduğunu aşkar edə bilərsinizmi?",
+  "clues": [
+    "Mən bütün insanlar üzərində ilahilik iddia edən güclü bir şəxsiyyətin idarə etdiyi qüdrətli bir krallıqda yaşayırdım.",
+    "Mən bu hökmdarın etibarlı bir naziri kimi xidmət edir, onların hər bir ambisiyasını və əmrini yerinə yetirirdim.",
+    "Allahın elçisi ölkəmizə gəlib bizi haqqa çağıranda mən və hökmdarım qulaq asmaqdan imtina etdik.",
+    "Mənə böyük bir od qalamaq və möhtəşəm bir tikinti üçün gil kərpic hazırlamaq əmri verildi.",
+    "Hökmdarım göylərə çatacaq qədər hündür bir bina tikmək istəyirdi.",
+    "Sonda hökmdarım, ordumuz və mən dənizin dərinliklərində suya batdıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Haman",
+        "Zül-Kifl",
+        "Cəbrail",
+        "Mikayıl",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Göylərə çatmaq üçün bir qüllə tikmək",
+        "Alovlu bir oda atılmaq",
+        "Bir xalqı daş bütlərə ibadətdən ayıltmaq",
+        "Ayın ilahi bir əlamət olaraq bölünməsi",
+        "İlahi əmrlə qüdrətli bir şəhəri fəth etmək"
+      ],
+      "answer": "Göylərə çatmaq üçün bir qüllə tikmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Bişmiş gil kərpicdən hazırlanmış bir qüllə",
+        "Balinanın qarnı",
+        "Səhrada müqəddəs bir bulaq",
+        "Müqəddəs dağda yanan bir kol",
+        "Seçilmiş bir ailəni daşıyan bir gəmi"
+      ],
+      "answer": "Bişmiş gil kərpicdən hazırlanmış bir qüllə"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Dənizin dərinliklərində boğuldu",
+        "Möhtəşəm bir sarayda təhlükəsiz yerə qaldırıldı",
+        "Böyük bir balığın qarnından xilas oldu",
+        "Padşahlıq və ilahi hikmətlə şərəfləndirilmişdir",
+        "Kəskin bir fəryadla toza çevrildi"
+      ],
+      "answer": "Dənizin dərinliklərində boğuldu"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

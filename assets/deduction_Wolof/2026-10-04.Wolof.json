@@ -1,0 +1,61 @@
+{
+  "title": "Burden bi indi wér",
+  "intro": "Ruuh buñu natt bamu ëpp doole, dañu ko xañoon mbégte, wéttal ak dooley yaram. Jaamu Yàlla bi nekkoon ci ay jafe-jafe yu metti, mu wëlbatiku rek ci Yàlla. Ci muñ gu mat sëkk ak ñaan gu dëggu, yërmaande gu mag gi yegsi na lu ëpp li ñu yaakaaroon ni dina am. Kan mooy nit ki devotion ubbi buntu defaraat?",
+  "clues": [
+    "Jaamu Yàlla bu baax laa woon, am alal ju bari, kër gu neex, am wérgi-yaram ci samay jamono.",
+    "Ci la fitna wàcci: alal dem, ñi ma bëgg dem, te sama yaram dafa dundu lu metti lool.",
+    "Ñi ma jegewoon mënu ñu woon muñ sama dundu, ñu bàyyi ma ma wéet, sama yaram fees dell ak tiis.",
+    "Ma woo sama Boroom, di wax ni Seytaane laal nama ak coono ak yar.",
+    "Tontu bi dafa ñëw — ñu digal ma dóor sama tànk ci suuf, mu génn ci ndox mu sedd ngir wéral.",
+    "Sama Boroom dindi na jafe-jafe yi yépp, delloosi ma sama njaboot, ñu bari, muy màndarga yërmaande ci ñiy xalaat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Ayyub Yalla",
+        "Boroom bi Musa",
+        "Yonent bi Yuusuf",
+        "Yunus boroom bi",
+        "Yonent-Yàlla Ibraahim"
+      ],
+      "answer": "Ayyub Yalla"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Feebaru tar ak ñàkk lépp",
+        "sànni nañu ko ci safara ci ndigalu ab jaay doole",
+        "Ay mbokk tëj nañu ko ci pax mu xóot",
+        "Jën wu mag wann ko ci géej gi",
+        "Doxantu ci exile ci sa réew"
+      ],
+      "answer": "Feebaru tar ak ñàkk lépp"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Puur bu sedd biy wal ci suuf si",
+        "Safara bu sedd te am jàmm",
+        "Ark bi dafa tëdd ci kaw benn tundu",
+        "Baton bi xaajale géej gi",
+        "Ndab giy féey ci kaw dex gi"
+      ],
+      "answer": "Puur bu sedd biy wal ci suuf si"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Family ak barkeb delloosi, ñaari yoon",
+        "Dafa rëcci ci lakk bu tàng bi te dara dalu ko",
+        "Dafa yéeg ba ci liggéey bi gëna kawe ci réew mi",
+        "Dafa génn ci biiru jën wu mag dem ci barab bu wóor",
+        "Yobbu na askan ci géej gu xaajaloo"
+      ],
+      "answer": "Family ak barkeb delloosi, ñaari yoon"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

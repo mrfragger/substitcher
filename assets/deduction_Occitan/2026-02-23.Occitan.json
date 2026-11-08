@@ -1,0 +1,61 @@
+{
+  "title": "La votz de la conviccion amagada",
+  "intro": "Al còr d'una cort tiranica, ont l'incredulitat èra la lei de la tèrra, una anma sola caminava una còrda de fe e de paur. Aquel individú, pròche del centre del poder, escotava coma lo messatge d'un profèta èra recebut amb de mesprètz e de menaças. Un moment de vertat arribèt, forçant aquela persona a causir entre la seguretat silenciosa e parlar una vertat perilhosa. Podètz descobrir l'identitat d'aquel defensor valent?",
+  "clues": [
+    "Viviái dins lo quite ostal d'un tiran, en assistissent de primièra man l'arrogància que refusava los signes divins.",
+    "Gardèri ma fe en secret, un tresaur amagat dins un palais d'idolatria.",
+    "Ausiguèri lo cap que serviguèri complotar per tuar un messatgièr d'Allah, un òme nomenat Musa.",
+    "Questionèri lor logica, en lor remembrant lo destin de las gents de Nuh, 'Ad, e Thamud.",
+    "Pausèri una question critica a mon pòble: 'S'es un mentire, sa mentida es sus el; mas s'es vertadièr, qualques unas de çò que promet vos tustaràn.'",
+    "Mon istòria es contada coma un exemple de fe dins la sura nomenada 'Lo Perdonaire,' ont avertiguèri mon pòble contra los esquèmas dels poderoses."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo cresent de la familha de Fir'awn",
+        "Aman",
+        "Los Magos de Fir'awn",
+        "Qarun",
+        "Lo Samiri"
+      ],
+      "answer": "Lo cresent de la familha de Fir'awn"
+    },
+    "trial": {
+      "label": "Quin foguèt mon jutjament?",
+      "options": [
+        "Defenent lo profèta Musa dins la cort del tiran",
+        "Bastir una torre elevada per aténher los cèls",
+        "Èsser getat dins un fuòc ardent",
+        "Èsser engolit per un peis gigant",
+        "Perdre tota riquesa e santat"
+      ],
+      "answer": "Defenent lo profèta Musa dins la cort del tiran"
+    },
+    "location": {
+      "label": "Quin èra lo tèma de mon argument?",
+      "options": [
+        "La consequéncia de refusar lo messatge d'un profèta",
+        "La demanda d'un signe d'un arbre sacrat",
+        "La creacion d'un vedèl a partir de joièls fonduts",
+        "Lo miracle d'un camèl de ròca",
+        "La interpretacion de los sueños de un gobernante"
+      ],
+      "answer": "La consequéncia de refusar lo messatge d'un profèta"
+    },
+    "outcome": {
+      "label": "Quin foguèt lo resultat?",
+      "options": [
+        "Allah salvèt aquel individú de lor complòt marrit",
+        "Tota la cort acceptèt immediatament l'islam",
+        "Lo tiran se repentèt al moment de l'afogament",
+        "Lo tiran foguèt engolit per la tèrra",
+        "L'individú foguèt exiliat cap a una tèrra luènha"
+      ],
+      "answer": "Allah salvèt aquel individú de lor complòt marrit"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

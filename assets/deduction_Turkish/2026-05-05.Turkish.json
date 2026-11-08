@@ -1,0 +1,61 @@
+{
+  "title": "Dünyanın Kucaklaması",
+  "intro": "Büyük zorlukların yaşandığı bir dönemde, tanınmış bir kişiye muazzam bir dünyevi zenginlik bahşedildi; bu, şükran ve tevazu sınavıydı. Bu şahsiyetin yolculuğu, maddi varlıkların geçici doğası ve kibirin sonuçları hakkında derin bir ders niteliğindedir. Hikayesi ayaklarımızın altındaki toprağa kazınmış olan bu ruhun kimliğini keşfedin.",
+  "clues": [
+    "Büyük bir elçi tarafından yönlendirilen bir halkın arasında yaşadım.",
+    "Allah bana öylesine büyük zenginlikler bahşetti ki, hazinelerimin anahtarları bile birçok güçlü insan için ağır bir yük olurdu.",
+    "Zenginliğimi bilen halkım, Allah'ın bana verdiğiyle ahiret yurdunu aramamı, dünyadaki payımı unutmamamı ve Allah'ın bana yaptığı iyiliğe karşılık iyilik yapmamı tavsiye etti.",
+    "Kibirli bir şekilde, muazzam servetimin yalnızca kendi bilgim ve çabam sayesinde elde edildiğini, ilahi bir lütuf olmadığını ilan ettim.",
+    "Allah'ın nimetlerine ortak olmam veya şükretmem istendiğinde, sahip olduklarımın yalnızca bana ait olduğuna inanarak gururla reddettim.",
+    "Aşırı kibirim ve zulmüm sonucunda Allah, yerin yarılmasını ve beni ve evimi yutmasını emretti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Fir'awn",
+        "İblis",
+        "Haman",
+        "Ebu Lahab",
+        "Karun"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "ateşe atılmak",
+        "Denizde boğulmak",
+        "Bir bahçeden sürgün edilmek",
+        "Maymuna dönüştürülmek",
+        "Yer tarafından yutulmak"
+      ],
+      "answer": "Yer tarafından yutulmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "altın buzağı",
+        "Muazzam bir gemi",
+        "konuşan bir kuş",
+        "Mucizevi bir asa",
+        "Muazzam hazineler ve anahtarlar"
+      ],
+      "answer": "Muazzam hazineler ve anahtarlar"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Büyük bir hükümdar olmak",
+        "İlahi vahiy almak",
+        "Göğe yükseliş",
+        "Uzun ve dindar bir hayat yaşamak",
+        "Kibir yüzünden tam bir yıkım"
+      ],
+      "answer": "Kibir yüzünden tam bir yıkım"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

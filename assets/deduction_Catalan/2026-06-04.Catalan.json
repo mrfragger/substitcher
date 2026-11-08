@@ -1,0 +1,61 @@
+{
+  "title": "El senyal entre les pedres",
+  "intro": "En una terra on les muntanyes estaven esculpides com a cases, va arribar un missatger amb un signe miraculós d'Al·là. La gent va exigir proves i van rebre una criatura feta de roca sòlida. Però la seva arrogància els va portar a desafiar l'advertència, segellant el seu destí.",
+  "clues": [
+    "Em van enviar a un poble que vivia en habitatges excavats a les muntanyes.",
+    "Em van desafiar a portar un senyal, així que vaig treure un camell d'una roca.",
+    "Els vaig ordenar que deixessin beure el camell lliurement i que no li fessin mal.",
+    "Van desobeir i van tallar els jarrets del camell, desafiant el meu advertiment.",
+    "Vaig anunciar que el càstig arribaria al cap de tres dies.",
+    "Al matí, una forta explosió els va destruir, però jo i els meus seguidors ens vam salvar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Lut",
+        "Profeta Shu'ayb",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Demanda d'una camella d'una roca",
+        "Demanda d'un vedell d'or",
+        "Demanda d'una taula parada des del cel",
+        "Demanda per inundacions",
+        "Demanda d'un bastó per convertir-se en una serp"
+      ],
+      "answer": "Demanda d'una camella d'una roca"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La camella i el seu vedell",
+        "L'Arca de Noè",
+        "El bastó de Moisès",
+        "El vedell d'or",
+        "El foc d'Ibrahim"
+      ],
+      "answer": "La camella i el seu vedell"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruït per una poderosa explosió",
+        "Ofegat a la inundació",
+        "Engolit per la terra",
+        "Convertits en simis",
+        "Destruït per un vent ferotge"
+      ],
+      "answer": "Destruït per una poderosa explosió"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Komunitas Pelanggaran Kahiji",
+  "intro": "Di nagri kota-kota kuno, aya hiji jalma anu hirup subur makmur. Aranjeunna didatangan ku utusan anu mawa panggero anu jelas, tapi aranjeunna malik sareng ngudag jalan anu teu acan kantos dijugjug ku saha waé. Carita aranjeunna nyaéta carita ngeunaan pembangkangan, kajahatan, sareng hukuman anu ninggalkeun tanah airna salaku tanda pikeun sadayana anu mikir. Saha jiwa-jiwa ieu?",
+  "clues": [
+    "Kami cicing di kota-kota di dataran, dimana nabi kami ngajak kami kana kabeneran.",
+    "Kami anu mimiti ngalakukeun kajahatan anu teu acan pernah dilakukeun ku saha waé di dunya ieu.",
+    "Kami ngahalangan jalma-jalma nu ngumbara sareng ngalakukeun kajahatan sacara terang-terangan dina riungan kami.",
+    "Kami nolak utusan anu diutus ka kami sareng ngancam bakal ngusir anjeunna ti tanah kami.",
+    "Kami buru-buru ka imahna nungtut anjeunna mikeun tamu-tamuna ka kami.",
+    "Hukuman urang nyaéta hujan batu, jeung kota urang dijungkirbalikkeun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Urang?",
+      "options": [
+        "Kaum Luth",
+        "Kaum Nabi Nuh",
+        "Kaum 'Ad",
+        "Kaom Tsamud",
+        "Urang Madyan"
+      ],
+      "answer": "Kaum Luth"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Ngalakukeun tindakan sodomi anu munggaran",
+        "Berhala anu disembah",
+        "Ditipu dina dagang",
+        "Maéhan nabi maranéhanana",
+        "Teu nurut ka kolotna"
+      ],
+      "answer": "Ngalakukeun tindakan sodomi anu munggaran"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Kota dataran",
+        "Kota sumur éta",
+        "Kota solokan",
+        "Kota gajah éta",
+        "Kota kebon"
+      ],
+      "answer": "Kota dataran"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Dihujanan ku batu sareng dibalikkeun",
+        "Kakeueum ku banjir",
+        "Ancur ku angin nu tarik",
+        "Dileueut ku bumi",
+        "Dihantam ku sora ledakan anu tarik pisan"
+      ],
+      "answer": "Dihujanan ku batu sareng dibalikkeun"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

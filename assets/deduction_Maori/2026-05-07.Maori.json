@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaikaranga mai i te Hōhonu",
+  "intro": "Whakaarohia tētahi wairua i tukua ki a ia tētahi karere atua, engari i roto i tētahi wā ohorere, ka wehe atu i tōna iwi me te kore whakaaetanga mārama. Nā tēnei haerenga rātou i ārahi ki tētahi whakamātautau whakaharahara, he whakamātautau hohonu o te manawanui me te whakawhirinaki ki te Runga Rawa. Ko wai tēnei tangata e ako ana i a tātou mō te ripeneta me te whānuitanga o te aroha noa o Allah?",
+  "clues": [
+    "I tonoa ahau ki tētahi iwi nui, engari i pā mai te pouri ki ahau i tō rātou whakakorenga tuatahi.",
+    "I whakarērea e au tōku iwi, me te whakapono kua oti taku misioni, i mua i te whiwhinga o tētahi whakahau mārama kia haere.",
+    "I rapu huarahi ahau i runga i te kaipuke, engari nā te tupuhi nui me te tukinga rota i arahi ki tētahi āhuatanga kino.",
+    "I maka ahau ki te moana, ā, i horomia katoatia ahau e tetahi mea nui o te rire.",
+    "I roto i te pōuri o tōna puku, ka karanga ahau ki a Allah, me te whaki i aku mahi hē, me te rapu i tāna murunga hara.",
+    "I whakahau a Atua i te mea hanga kia maka ahau ki uta, ā, i ora anō ahau i raro i tētahi tipu ahurei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hohepa (Yusup)",
+        "Poropiti a Noa (Noa)",
+        "Poropiti a Yunus (Hona)",
+        "Poropiti a Sulaimana (Hōromona)",
+        "Poropiti a Ayyub (Hōpa)"
+      ],
+      "answer": "Poropiti a Yunus (Hona)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te wehenga o te moana",
+        "Te ahi a Nimirota",
+        "Te horomia e te ika nui",
+        "Te waipuke",
+        "Te whakangaromanga o te tāone ki ngā kōhatu"
+      ],
+      "answer": "Te horomia e te ika nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te puku o te ika",
+        "Te puna",
+        "Te rakau e mura ana"
+      ],
+      "answer": "Te puku o te ika"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I riro hei rangatira nui",
+        "I hanga te Kaaba",
+        "I hoki mai ki te ārahi i tētahi iwi ripeneta",
+        "I tukuna te mana ki runga i ngā jinn",
+        "I ārahi i te iwi puta noa i te koraha"
+      ],
+      "answer": "I hoki mai ki te ārahi i tētahi iwi ripeneta"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

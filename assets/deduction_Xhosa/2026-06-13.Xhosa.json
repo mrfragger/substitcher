@@ -1,0 +1,61 @@
+{
+  "title": "Abanyanisekileyo baseMakkah",
+  "intro": "Kwimihla yokuqala yesityhilelo, xa isigidimi senyaniso sasijongene nenkcaso eqatha, imiphefumlo ethile yema ingenakushukunyiswa kwinkolelo yayo. La makholwa ajongene nenkohlakalo engenakucingelwa ngabo babefuna ukucima ukukhanya kokholo. Intlungu yabo yayinzima, ukubandezeleka kwabo kwakukukhulu—kodwa iilwimi zabo azizange ziyeke ukuvakalisa ubunye buka-Allah. Nokuba baphoswa ezinzulwini zokuphelelwa lithemba, ukhuselo lukaThixo lwabangqongile, luguqula uvavanyo lwabo lwaba bubungqina bokholo olungunaphakade. Makhe sihlolisise uhambo lwale miphefumlo imangalisayo.",
+  "clues": [
+    "Savavanywa ngesohlwayo esiqatha ngenxa yokwala ukulahla ukholo lwethu kuThixo omnye",
+    "Abantu bethu babengenakukwazi ukusiphula isigqibo sethu, nokuba uburhalarhume babo babunokuba nobuchule kangakanani na",
+    "Sasixhonywa emthonjeni emini, kodwa uncedo lukaThixo lwalusoloko lukufuphi",
+    "Ukuqina kwethu kwabamangalisa kwanabo bakubonayo ukunyamezela kwethu",
+    "Abaninzi eMakkah bazama ukusinyanzela ukuba sirhoxe, kodwa sahlala siqinile",
+    "Xa konke kwakubonakala ngathi kulahlekile, inkululeko yethu yafika ngokungenelela okumangalisayo kukaThixo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UBilal al-Habashi",
+        "UAmmar ibn Yasir",
+        "UMiqdad ibn al-Aswad",
+        "UKhabbab ibn al-Aratt",
+        "USalman al-Farsi"
+      ],
+      "answer": "UBilal al-Habashi"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Imfazwe nxamnye noMprofeti",
+        "Ukutshutshiswa ngenxa yokwala ukunqula izithixo",
+        "Uvavanyo lokholo malunga nesiganeko somlilo",
+        "Uvavanyo lohambo lwasebusuku oluhlukeneyo",
+        "Uvavanyo lokutshatyalaliswa kwegadi"
+      ],
+      "answer": "Ukutshutshiswa ngenxa yokwala ukunqula izithixo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intaba yaseUhud",
+        "Indawo engcwele yeKabah",
+        "Iqula lika-Abu Sufyan",
+        "Ibhotwe lamaQuraysh",
+        "Isixeko saseMadinah"
+      ],
+      "answer": "Iqula lika-Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uloyiso kwidabi elikhulu",
+        "Inkululeko ngokungenelela kukaThixo",
+        "Ukufela ukholo endleleni ka-Allah",
+        "Ukwamkelwa eparadesi ngqo",
+        "Ukufudukela kwilizwe elisikelelekileyo"
+      ],
+      "answer": "Inkululeko ngokungenelela kukaThixo"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

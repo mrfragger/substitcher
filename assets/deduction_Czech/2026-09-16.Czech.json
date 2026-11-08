@@ -1,0 +1,61 @@
+{
+  "title": "Vláda zkoušená řekou",
+  "intro": "V dávných dobách povstává vůdce z božského rozkazu. Vláda tohoto vládce nezačala slávou, ale zkouškou tekoucí vodou. Impozantní nepřítel vyzval jejich armádu a výsledek změnil běh dějin. Uhodnete, kdo je tato postava?",
+  "clues": [
+    "Byl jsem vybrán, abych vedl velký národ, ale jmenování přišlo shůry, ne od lidu.",
+    "Mému lidu byl vrácen posvátný předmět jako znamení potvrzující mou vládu.",
+    "Zkoušel jsem své vojáky řekou – většina z ní pila a neuspěla.",
+    "Proti nám vytáhl impozantní válečník jménem Džalut s obrovskou armádou.",
+    "Mladý muž z mých řad, vyzbrojený pouze vírou, srazil Jaluta.",
+    "Po našem vítězství bylo království nakonec svěřeno onomu mladému šampionovi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Talut (Saul)",
+        "Džalut (Goliáš)",
+        "Prorok Dawud",
+        "Prorok Músa",
+        "Prorok Harun"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Testováno s řekou",
+        "Vhozen do planoucího ohně",
+        "Přikázáno obětovat syna",
+        "Nařízeno postavit velkou archu",
+        "Spolknuto velkou rybou"
+      ],
+      "answer": "Testováno s řekou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Archa úmluvy",
+        "Hůl, která rozdělila moře",
+        "Prak a hladké kameny",
+        "Zlatý idol telete",
+        "Velkolepý trůn"
+      ],
+      "answer": "Archa úmluvy"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Království převedeno na mladého šampiona (Dawuda)",
+        "Utopen s armádou v moři",
+        "Bezpečně vytažen z zuřícího požáru",
+        "Pohlceni zemí s poklady",
+        "Zaživa upálen v hořícím příkopu"
+      ],
+      "answer": "Království převedeno na mladého šampiona (Dawuda)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

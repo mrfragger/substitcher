@@ -1,0 +1,61 @@
+{
+  "title": "Fidelis Occultus",
+  "intro": "In opulentis potestatis aulis, ubi incredulitas et tyrannis regnabant, sola vox veritatis ex loco inopinato locuta est. Haec persona auctoritatem ad nuntium protegendum provocavit, propriam salutem periclitans ut veritatem praedicaret.",
+  "clues": [
+    "In terra magnae tyrannidis habitavi, rectori qui divinitatem sibi vindicabat serviens.",
+    "Veras meas opiniones per multos annos celavi, veritus consequentias revelationis earum.",
+    "Cum nuntius venit cum signis manifestis, credidi, sed populus meus contra eum coniuravit.",
+    "Coram tyranno eiusque concilio steti, argumentans ne nuntium innocentem interficerent.",
+    "De poena gentium praeteritarum quae veritatem reiecerunt, sicut populus Noe et Ad, eos monui.",
+    "Allah me ab insidiis eorum nefariis servavit, et destructionem regiminis oppressivi vidi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Fidelis Familiae Pharaonis",
+        "Magus Pharaonis",
+        "Vizier Pharaonis",
+        "Uxor Pharaonis",
+        "Quaestor Pharaonis"
+      ],
+      "answer": "Fidelis Familiae Pharaonis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Defendens prophetam a supplicio",
+        "Provocatio artificiorum magi",
+        "Turrim aedificans ut caelum attingat",
+        "Mare divisum ad effugium",
+        "Interpretatio somnii regis"
+      ],
+      "answer": "Defendens prophetam a supplicio"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Aula Pharaonis",
+        "Rubus ardens",
+        "Vitulus aureus",
+        "Puteus Madyani",
+        "Arca prophetae Noah"
+      ],
+      "answer": "Aula Pharaonis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Servati a malo dum oppressores deleti sunt",
+        "Potens princeps factus est",
+        "In ignem coniectus et incolumis evasit",
+        "A terra absorptus est",
+        "Quadraginta annos in deserto erravit"
+      ],
+      "answer": "Servati a malo dum oppressores deleti sunt"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

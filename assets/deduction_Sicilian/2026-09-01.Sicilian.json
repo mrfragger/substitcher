@@ -1,0 +1,61 @@
+{
+  "title": "La vuci dî pirifirìi",
+  "intro": "Tu stai nta na città unni arrivaru tri messaggeri cu segni chiari, ma lu pòpulu li burla e s'aggrappa ê so vecchi modi. Dâ parti cchiù luntana dâ città, na figura sprint versu la folla, senza fiatu e ditirminata, pi parrari la virità davanti ô rifiutu. Chi è st'ànima ca arriscàu tuttu pi nu messaggiu ca non era sò?",
+  "clues": [
+    "Vivìa ntra nu pòpulu ca avìa ricivutu messaggeri cu segni chiari, ma iḍḍi si vutaru cu l'arrucanza.",
+    "Arrivàu di cursa dâ parti cchiù luntana dâ città quannu sintìa la chiamata dî messaggeri.",
+    "Dissi ô me pòpulu: \"O pòpulu meu, segui li missaggeri\". Segui chiḍḍi ca non ti chiedunu na ricumpenza, picchì sunnu guidati giustamenti.\"",
+    "Non ero nu prufeta, ma cridìa nnî messaggeri e esortava u me pòpulu a fari u stissu.",
+    "Lu me pòpulu si burlàu dî me cunsigghi e m’accusò di èssiri n’estremista.",
+    "Quannu m’ammazzaru, Allah mi dissi di trasiri ntô Paradisu, e vulìa ca lu me pòpulu putìa canùsciri lu pirdunu e l’unuri ca ricivìa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sugnu iu?",
+      "options": [
+        "L'omu dâ parti cchiù luntana dâ cità (Ya-Sin)",
+        "Unu di li tri missaggeri mannati ntâ città",
+        "Nu mircanti mpurtanti dâ citati",
+        "Nu suvranu dâ cità",
+        "Lu capu di li nun cridenti"
+      ],
+      "answer": "L'omu dâ parti cchiù luntana dâ cità (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Pruva/Eventu",
+      "options": [
+        "Pridicannu a lu sò pòpulu di seguiri li missaggeri",
+        "Costruiri na navi pi sarvari li cridenti di n'alluvioni",
+        "Essiri ghittatu ntô focu pâ fidi",
+        "Essiri nghiuttutu di na balena",
+        "Essiri dunatu un regnu e saggizza"
+      ],
+      "answer": "Pridicannu a lu sò pòpulu di seguiri li missaggeri"
+    },
+    "location": {
+      "label": "Elementu chiavi",
+      "options": [
+        "La parti cchiù luntana dâ cità",
+        "L'arca",
+        "Lu puzzu",
+        "Lu rusceddu ardenti",
+        "La grutta"
+      ],
+      "answer": "La parti cchiù luntana dâ cità"
+    },
+    "outcome": {
+      "label": "Risurtatu",
+      "options": [
+        "Trasìu ntô Paradisu e vulìa ca lu sò pòpulu putìa canùsciri lu sò pirdunu",
+        "Annegatu cu lu sò pòpulu p'aviri rifiutatu lu missaggiu",
+        "Fu datu nu miraculu dâ camidda",
+        "Addivintau suvranu doppu lu sò prucessu",
+        "Fu sarbatu di Allah e arristau cu lu sò pòpulu"
+      ],
+      "answer": "Trasìu ntô Paradisu e vulìa ca lu sò pòpulu putìa canùsciri lu sò pirdunu"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

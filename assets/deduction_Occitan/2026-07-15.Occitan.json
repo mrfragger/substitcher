@@ -1,0 +1,61 @@
+{
+  "title": "La Retirada Solitària",
+  "intro": "Dins los annals del favor divin, existís una anma de puretat sens egal, separada de son pòble per cercar la solitud dins una direccion sacrada. Sabián pas qu'aquela reclusion portariá un signe per totes los monds, una espròva de fe que se ne parlariá per l'eternitat.",
+  "clues": [
+    "Me consacrèri a una vida de servici abans ma naissença.",
+    "Foguèri plaçat jos la tutèla d'un nòble profèta.",
+    "Foguèri sostengut amb de provisions d'Allah qu'estonèron mon gardian.",
+    "Me retirèri de ma familha dins un luòc oriental.",
+    "Un angel me apareguèt jos la forma d'un òme perfièch, portant de novèlas d'un filh pur.",
+    "Quand tornèri amb mon novèl nascut, mon pòble m'acusèt, mas l'enfant parlèt en ma defensa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Maryam (Maria)",
+        "Asiyah (esposa de faraon)",
+        "Hajar (maire d'Ismail)",
+        "Sarah (esposa d'Ibrahim)",
+        "La maire de Musa"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Concepcion miraculosa e naissença d'un filh",
+        "Èsser getat dins un fuòc",
+        "Èsser engolit per un peis gigant",
+        "Bastir una granda arca",
+        "Traversar la mar"
+      ],
+      "answer": "Concepcion miraculosa e naissença d'un filh"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un luòc oriental isolat",
+        "L'arbust ardent",
+        "La Mar Roja",
+        "La ròca d'ont s'escampava l'aiga",
+        "La balena"
+      ],
+      "answer": "Un luòc oriental isolat"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Un nenon parlèt en defensa d'una maire",
+        "La mar se despartiguèt .",
+        "Lo fuòc venguèt fresc e segur",
+        "La balena vomiguèt sus la riba",
+        "L'arca aterrèt sus una montanha"
+      ],
+      "answer": "Un nenon parlèt en defensa d'una maire"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

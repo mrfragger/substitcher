@@ -1,0 +1,61 @@
+{
+  "title": "Znamenie medzi kameňmi",
+  "intro": "V krajine, kde boli domy vytesané do hôr, prišiel posol so zázračným znamením od Alaha. Ľudia požadovali dôkaz a dostali tvora z pevnej skaly. Ale ich arogancia ich priviedla k tomu, že ignorovali varovanie a spečatili si tak osud.",
+  "clues": [
+    "Bol som poslaný k ľudu, ktorý žil v obydliach vytesaných v horách.",
+    "Vyzvali ma, aby som priniesol znamenie, a tak som zo skaly vytiahol ťavu.",
+    "Prikázal som im, aby nechali ťavu voľne piť a neubližovali jej.",
+    "Neposlúchli a podrezali ťave žily, ignorovali moje varovanie.",
+    "Oznámil som, že trest príde o tri dni.",
+    "Ráno ich zničil silný výbuch, ale ja a moji sprievodcovia sme boli zachránení."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Sálih",
+        "Prorok Hud",
+        "Prorok Lut",
+        "Prorok Šu'ayb",
+        "Prorok Ibrahim"
+      ],
+      "answer": "Prorok Sálih"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Dopyt po ťave zo skaly",
+        "Dopyt po zlatom teľaťovi",
+        "Dopyt po stole sa šíril z neba",
+        "Dopyt po povodni",
+        "Požiadavka, aby sa personál stal hadom"
+      ],
+      "answer": "Dopyt po ťave zo skaly"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Ťava a jej mláďa",
+        "Noemova archa",
+        "Mojžišova palica",
+        "Zlaté teľa",
+        "Oheň Ibrahima"
+      ],
+      "answer": "Ťava a jej mláďa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zničené silným výbuchom",
+        "Utopený v povodni",
+        "Pohltený zemou",
+        "Premenené na opice",
+        "Zničené prudkým vetrom"
+      ],
+      "answer": "Zničené silným výbuchom"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

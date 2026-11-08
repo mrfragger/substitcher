@@ -1,0 +1,61 @@
+{
+  "title": "Ang Unang Kaluluwa na Tumayo",
+  "intro": "Matagal bago pa man lumakad ang sinumang sugo sa mundo, bago pa man maipahayag ang anumang banal na kasulatan, isang nilalang na hindi katulad ng iba ang umiral. Ang kaluluwang ito ay hinubog ng mga banal na kamay, binigyan ng isang lugar na may walang kapantay na kagandahan, at sinubukan sa paraang mag-uumalingawngaw sa buong kasaysayan ng tao. Ang sumunod ay isang kuwento ng kahinaan, taos-pusong pagsisisi, at isang tadhana na magpapabago sa takbo ng paglikha magpakailanman. Mahuhulaan mo ba kung sino ito?",
+  "clues": [
+    "Hinubog ako ng mga kamay ng Pinakamaawain mula sa mismong alabok ng lupa",
+    "Binigyan ako ng isang tahanan na may walang kapantay na kagandahan, kung saan walang gutom o pagod ang makakaapekto sa akin",
+    "Inutusan ako na huwag lumapit sa kahit isang puno, dahil ipinagbabawal ito",
+    "Nalinlang kami ng aking kasama at lumapit sa ipinagbabawal na puno, laban sa utos ng ating Panginoon",
+    "Nagbalik-loob kami sa aming Panginoon nang may taos-pusong pagsisisi, at pinatawad ang aming mga pagsalangsang",
+    "Mula sa atin nagmula ang lahat ng sangkatauhan; Ako ang pinakaunang lumakad sa mundong ito"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Adan",
+        "Propeta Musa",
+        "Propeta Noah",
+        "Propeta Yusuf",
+        "Propeta Isa"
+      ],
+      "answer": "Propeta Adan"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Tukso sa pamamagitan ng ipinagbabawal na puno",
+        "Paghaharap kay Paraon",
+        "Paggawa ng Dakilang Arko",
+        "Sakripisyo ng minamahal na anak",
+        "Itinapon sa isang malaking apoy"
+      ],
+      "answer": "Tukso sa pamamagitan ng ipinagbabawal na puno"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Ipinagbabawal na Puno",
+        "Ang Nasusunog na Palumpong",
+        "Ang Ginintuang Tauhan",
+        "Ang Dakilang Kaban",
+        "Ang Ginintuang Guya"
+      ],
+      "answer": "Ang Ipinagbabawal na Puno"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ipinadala pababa sa lupa bilang unang tagapag-alaga ng sangkatauhan",
+        "Nalunod sa dagat ang Paraon at ang kanyang hukbo",
+        "Ang malaking baha ay sumira sa masasama",
+        "Ang apoy ay naging malamig at mapayapa",
+        "Binigyan ng awtoridad sa kaharian ng Ehipto"
+      ],
+      "answer": "Ipinadala pababa sa lupa bilang unang tagapag-alaga ng sangkatauhan"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Alamar Tsakanin Duwatsu",
+  "intro": "A ƙasar da aka sassaka tsaunuka a gidaje, wani manzo ya zo da wata alama ta mu'ujiza daga Allah. Mutane sun nemi hujja, kuma suka sami wata halitta daga dutse mai ƙarfi. Amma girman kansu ya sa suka ƙi gargaɗin, yana rufe makomarsu.",
+  "clues": [
+    "An aiko ni zuwa ga mutanen da ke zaune a gidajen da aka sassaka daga duwatsu.",
+    "Sun ƙalubalance ni da in kawo wata alama, don haka na samar da raƙumi daga dutse.",
+    "Na umarce su da su bar raƙumi ya sha ruwa ba tare da wata illa ba.",
+    "Sun yi rashin biyayya suka kuma yanke rakumin, suna ƙin gargaɗina.",
+    "Na sanar da cewa hukuncin zai zo bayan kwana uku.",
+    "Da safe, wata babbar fashewa ta lalata su, amma ni da mabiyana muka tsira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Salihu",
+        "Annabi Hud",
+        "Annabi Lutu",
+        "Annabi Shu'aib",
+        "Annabi Ibrahim"
+      ],
+      "answer": "Annabi Salihu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Buƙatar raƙumi daga dutse",
+        "Bukatar ɗan maraƙi na zinariya",
+        "Buƙatar teburi daga sama ta yaɗu",
+        "Bukatar ambaliyar ruwa",
+        "Bukatar sanda don ta zama maciji"
+      ],
+      "answer": "Buƙatar raƙumi daga dutse"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Raƙumar da ɗanta",
+        "Jirgin Nuhu",
+        "Sanda Musa",
+        "Ɗan Maraƙin Zinare",
+        "Wutar Ibrahim"
+      ],
+      "answer": "Raƙumar da ɗanta"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An lalata shi da wata babbar fashewa",
+        "Ambaliyar ta nutse cikin ruwa",
+        "Ƙasa ta haɗiye ta",
+        "Ya zama birrai",
+        "Iska mai ƙarfi ta halaka"
+      ],
+      "answer": "An lalata shi da wata babbar fashewa"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

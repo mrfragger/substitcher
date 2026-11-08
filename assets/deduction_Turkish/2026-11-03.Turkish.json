@@ -1,0 +1,61 @@
+{
+  "title": "Dürüstlerin Uykusu",
+  "intro": "İnancın tehlikeli olduğu ve güçlülerin inancı ezmeye çalıştığı bir dönemde, küçük bir grup genç ruh, çağlar boyunca yankılanacak bir seçim yaptı. Bildikleri her şeyden kaçarak, bir dağın gizli karanlığına sığındılar ve tüm güvenlerini Allah'a bıraktılar. Bundan sonra yaşananlar, düşünenler için zamansız bir işaret olacaktır.",
+  "clues": [
+    "Bizler, Rabbimize inanan bir grup gençtik ve O da bize doğru yolu gösterdi.",
+    "Halkımızın önünde durup, Allah'tan başka hiçbir ilaha tapmayacağımızı ilan ettik.",
+    "Bir mağaraya sığındık ve şöyle dedik: 'Ey Rabbimiz, bize kendi katından rahmet eyle ve işlerimizde bize doğru yolu göster.'",
+    "Uzun yıllar boyunca uyuduk ve güneş mağaramızdan uzaklaşıp bize hiç dokunmadı.",
+    "Köpeğimiz mağaranın girişinde uzanmış, sanki nöbet tutuyormuş gibi bizi gözetliyordu.",
+    "Uyandığımızda ne kadar zamandır burada kaldığımızı merak ettik ve içimizden biri yiyecek almak için gümüş paralarla gönderildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Mağara Halkı",
+        "Siperdeki İnsanlar",
+        "Şabat Halkı",
+        "Fil Halkı",
+        "Ormanın Yoldaşları"
+      ],
+      "answer": "Mağara Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İnançları nedeniyle gördükleri zulümden kaçmak için bir mağaraya sığındılar.",
+        "Şiddetli bir rüzgar tarafından yıkıldı",
+        "Toprak tarafından yutuldu",
+        "Denizde boğuldu",
+        "Taş fırtınasına yakalandı"
+      ],
+      "answer": "İnançları nedeniyle gördükleri zulümden kaçmak için bir mağaraya sığındılar."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Mağara girişini koruyan bir köpek",
+        "Büyük bir gemi",
+        "Yılana dönüşen bir asa",
+        "Çavuş kuşu",
+        "altın buzağı"
+      ],
+      "answer": "Mağara girişini koruyan bir köpek"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "309 yıl boyunca mağarada kaldılar ve daha sonra bir işaret olarak yukarı çıkarıldılar.",
+        "Onlar maymuna dönüştürüldüler.",
+        "Sel felaketi sonucu yok oldular.",
+        "Onlar denizi geçmek zorunda bırakıldılar.",
+        "Onlara bir krallık verildi."
+      ],
+      "answer": "309 yıl boyunca mağarada kaldılar ve daha sonra bir işaret olarak yukarı çıkarıldılar."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Teisiųjų miegas",
+  "intro": "Laikais, kai tikėjimas buvo pavojingas, o galingieji siekė jį sutriuškinti, maža jaunų sielų grupė priėmė sprendimą, kuris aidės per amžius. Bėgdami nuo visko, ką pažinojo, jie ieškojo prieglobsčio kalno tamsoje ir visiškai pasitikėjo Alachu. Tai, kas įvyko toliau, taps amžinu ženklu tiems, kurie apmąstys.",
+  "clues": [
+    "Buvome grupė jaunų žmonių, kurie tikėjo mūsų Viešpačiu, ir Jis mus sustiprino vadovavimu.",
+    "Mes stovėjome prieš savo žmones ir pareiškėme, kad niekada nesišauksime jokios kitos dievybės, išskyrus Alachą.",
+    "Mes ieškojome prieglobsčio oloje, sakydami: „Viešpatie, suteik mums savo gailestingumą ir vesk mus teisingai mūsų reikaluose.“",
+    "Mes miegojome daugelį metų, o saulė nusileisdavo nuo mūsų olos ir mūsų neliesdavo.",
+    "Mūsų šuo gulėjo išsitiesęs prie olos įėjimo, saugodamas mus tarsi budėdamas.",
+    "Kai buvome pažadinti, svarstėme, kiek laiko užtrukome, ir vienas iš mūsų buvo pasiųstas su sidabrinėmis monetomis pirkti maisto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Olos žmonės",
+        "Tranšėjos žmonės",
+        "Šabo žmonės",
+        "Dramblio žmonės",
+        "Miško palydovai"
+      ],
+      "answer": "Olos žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pabėgo į olą, kad išvengtų persekiojimo dėl savo tikėjimo",
+        "Sunaikintas smarkaus vėjo",
+        "Prarytas žemės",
+        "Nuskendo jūroje",
+        "Užkluptas akmenų audros"
+      ],
+      "answer": "Pabėgo į olą, kad išvengtų persekiojimo dėl savo tikėjimo"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Šuo saugo olos įėjimą",
+        "Didžioji arka",
+        "Personalas, kuris virto gyvate",
+        "Kukutis",
+        "Auksinis veršelis"
+      ],
+      "answer": "Šuo saugo olos įėjimą"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jie oloje išbuvo 309 metus, o tada buvo iškelti kaip ženklas",
+        "Jie buvo paversti beždžionėmis",
+        "Juos sunaikino potvynis",
+        "Jie buvo priversti kirsti jūrą",
+        "Jiems buvo duota karalystė"
+      ],
+      "answer": "Jie oloje išbuvo 309 metus, o tada buvo iškelti kaip ženklas"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

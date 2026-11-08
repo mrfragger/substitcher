@@ -1,0 +1,61 @@
+{
+  "title": "An daouarn milliget",
+  "intro": "Emaoc'h o sevel e straedoù tro-dro Makkah kozh, e-lec'h ma oa un ene levezonet ha pinvidik o tistreiñ diouzh galv ar wirionez. Istor an dudenn-mañ a laka da soñjal ne c'hell ket al liammoù gwad trec'hiñ chadennoù ar lorc'h. Piv eo an hini-se hag a adkaver e anv gant an tan a c'hortoz ?",
+  "clues": [
+    "Kerzhout a ran dre straedoù Mekka gant ur lorc'h a dalle ac'hanon ouzh ar wirionez, daoust ma oa ar c'hannad eus ma gwad.",
+    "Va madoù a oa bras-meurbet, met deuet int da vezañ ur mallozh kentoc'h eget ur skoed.",
+    "Levr ar c'helenn a gomz eus va distruj, o tisklêriañ e vo kollet va daouarn ha va c'horf.",
+    "Ma c'hoar a gemeras perzh e-barzh ma c'houlzad enebiezh, o tastum spern da skignañ war hent an hini en deus galvet Allah.",
+    "Deiz ar varn e vin taolet en un tan flamm flamm, ha va pried en devo ur gordenn e gwiad palmez en-dro d'e c'houzoug.",
+    "Anavezet on gant un anv a dalvez 'tad ar flamm' — un anv a zispleg ma chomlec'h peurbadus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prosez pe darvoud alc'hwez",
+      "options": [
+        "Enebet ouzh ar profed ha milliget e voe er C'horan",
+        "Kaset un arme da zistrujañ ar C'haaba",
+        "Klasket en deus lazhañ ar profed o teurel mein",
+        "Nac'het krediñ e rann al loar",
+        "Savet un tour evit tizhout an neñvoù"
+      ],
+      "answer": "Enebet ouzh ar profed ha milliget e voe er C'horan"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Tan flamm an Ifern",
+        "Staff Musa",
+        "Arc'h Nuh",
+        "Puñs Zamzam",
+        "Al Leue Aour"
+      ],
+      "answer": "Tan flamm an Ifern"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Mont a raio en tan flamm, hag e vadoù ne servijo ket dezhañ",
+        "Keuz a reas hag e teuas da vezañ kredennour",
+        "Pardonet e voe dezhañ goude bezañ distroet",
+        "Mervel a reas evel merzher",
+        "Savet e voe betek an neñvoù"
+      ],
+      "answer": "Mont a raio en tan flamm, hag e vadoù ne servijo ket dezhañ"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

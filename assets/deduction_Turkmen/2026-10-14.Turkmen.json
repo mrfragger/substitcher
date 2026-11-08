@@ -1,0 +1,61 @@
+{
+  "title": "Sürgün edilen Ähti bozanlar",
+  "intro": "Täze dörän jemgyýetiň ilkinji günlerinde bir taýpa bir wagtlar berk jaýlarda ýaşaýardy we şertnama baglaşýardy. Şol şertnama bozulanda, netijeleri Gurhanyň sahypalarynda ýaňlandy. Bu adamlar kimlerdi we olaryň öýleri we baglary näme boldy?",
+  "clues": [
+    "Biz bize ýalan howpsuzlyk duýgusyny berýän berk galalarda ýaşadyk.",
+    "Biz Mukaddes Ýazgylaryň adamlarydyk, ýöne ähtimizi bozduk.",
+    "Elçi bize geleninden soň, biz oňa garşy dildüwşük gurduk, ýöne biziň planymyz başa barmady.",
+    "Palma agaçlarymyz Allanyň emri bilen, Onuň güýjüniň alamaty hökmünde kesildi.",
+    "Biz garşylygymyz üçin jeza hökmünde öýümizden çykaryldyk we hiç haçan gaýdyp gelmedik.",
+    "Kuran-y kerimde biziň barada ýygnak bölüminde agzalýar we biziň hekaýamyz ähtnamany bozanlar üçin duýduryş bolup hyzmat edýär."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Banu Nadir",
+        "Banu Kuraýza",
+        "Banu Kaýnuka",
+        "Madýan halky",
+        "Semud halky"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Gabaw we öýlerinden kowulmak",
+        "Deňizde gark bolmak",
+        "Ýer tarapyndan ýuwutulmak",
+        "Tupandan weýrançylyk",
+        "Maýmynlara öwrülmek"
+      ],
+      "answer": "Gabaw we öýlerinden kowulmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Palma agaçlary kesildi",
+        "Işgärler",
+        "Gämi",
+        "Suw guýusy",
+        "Magara"
+      ],
+      "answer": "Palma agaçlary kesildi"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Sürgün edildi we emlägi elinden alyndy",
+        "Ýeňiş bilen gaýdyp geldi",
+        "Bagyşlandylar we galdylar",
+        "Derrew jennete girdi",
+        "Biz waba keseline uçradyk"
+      ],
+      "answer": "Sürgün edildi we emlägi elinden alyndy"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

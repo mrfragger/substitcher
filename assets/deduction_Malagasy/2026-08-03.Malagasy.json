@@ -1,0 +1,61 @@
+{
+  "title": "Ny Lohataona eo Ambanin'ny Fasika",
+  "intro": "Ao amin'ny tantaran'ny CORAN, olona iray manana faharetana lehibe no niatrika fitsapana izay handrava ny fo matanjaka indrindra. Nesorina avokoa ny zava-drehetra - harena, fianakaviana ary fahasalamana. Kanefa avy tao anatin'ny fahakiviana lalina dia novaliana tamin'ny fomba tsy nampoizina ny vavaka feno fanetren-tena. Azonao fantarina ve ity fanahy ity izay mbola mivelona mandritra ny taona maro ny tantaran'ny famerenana amin'ny laoniny?",
+  "clues": [
+    "Nosedraina mafy aho ka tsaroana mandritra ny taona maro izany.",
+    "Very izay rehetra manan-danja aho - ny fananako, ny zanako ary ny fahasalamako.",
+    "Feno fery nanaintaina ny vatako, ary nolavin'ny rehetra aho.",
+    "Tao anatin'ny fahakiviana lalina dia niantso an'i Allah aho ka nilaza fa nikasika ahy tamin'ny fahoriana sy ny fijaliana i Satana.",
+    "Namaly ahy Andriamanitra ary nandidy ahy hamely ny tany amin'ny tongotro.",
+    "Avy teo amin'io toerana io indrindra no nipoahan'ny loharano mangatsiaka, ary naverin'Andriamanitra tamin'ny laoniny ny fianakaviako ary naveriny avo roa heny ho famindram-po izy ireo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ayyub",
+        "Mpaminany Musa",
+        "Mpaminany Ilyas",
+        "Mpaminany Sulayman",
+        "Mpaminany Davida"
+      ],
+      "answer": "Mpaminany Ayyub"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Aretina mafy sy fahaverezan'ny fianakaviana sy ny harena",
+        "Voatelin'ny trozona lehibe",
+        "Fandroahana avy tao an-tanànan'i Makkah",
+        "Figadrana tao anaty lavadrano lalina",
+        "Fifandonana amin'ny mpitondra miavonavona"
+      ],
+      "answer": "Aretina mafy sy fahaverezan'ny fianakaviana sy ny harena"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Loharano mangatsiaka avy amin'ny tany",
+        "Sambo iray eo ambonin'ny tondra-drano lehibe",
+        "Tehina iray izay nampisaraka ny ranomasina",
+        "Seza fiandrianana fitaratra avo lenta",
+        "Lava-bato misy rindrina ho an'ny torimaso"
+      ],
+      "answer": "Loharano mangatsiaka avy amin'ny tany"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Naverina tamin'ny laoniny ny fianakaviana sy ny harena ary avo roa heny",
+        "Fivoahana avy ao an-kibon'ny trondro",
+        "Fandalovana soa aman-tsara amin'ny rano misasaka",
+        "Fanjakana nomena mba hanjaka",
+        "Fahaterahan'ny zanakalahy iray mahagaga rehefa antitra"
+      ],
+      "answer": "Naverina tamin'ny laoniny ny fianakaviana sy ny harena ary avo roa heny"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

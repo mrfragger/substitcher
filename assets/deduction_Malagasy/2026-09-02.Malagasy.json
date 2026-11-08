@@ -1,0 +1,61 @@
+{
+  "title": "Ny torimaso ankoatra ny fotoana",
+  "intro": "Alaivo sary an-tsaina ny fotoana iray izay nanginana ny fahamarinana ary nohazaina ny mpino. Nisy vondrona kely nisafidy ny hitokana toy izay hitolo-batana, nitady fialofana tany amin'ny toerana tsy nampoizina indrindra — toerana izay ho lasa toeram-pialan-tsasatra ho azy ireo mandritra ny taonjato maro tsy tambo isaina. Rehefa nifoha ihany izy ireo dia niova izao tontolo izao nanodidina azy ireo. Iza moa ireo fanahy matory ireo?",
+  "clues": [
+    "Tanora nipetraka tao amin'ny tanàna tranainy iray izahay.",
+    "Nitaky anay hiara-mivavaka amin'izy ireo ny vondrom-piarahamoninay, saingy nandà izahay.",
+    "Nandositra ny tanàna izahay mba hitady fialofana tamin'ireo nanohitra ny finoanay.",
+    "Nisy biby fiompy nahatoky manan-tongotra efatra nijanona teo am-baravaran'ny toeram-piafenanay.",
+    "Nampatory antsika nandritra ny sivy amby telonjato taona Andriamanitra.",
+    "Rehefa nifoha izahay nony farany, dia efa nanaiky ny finoana ilay tanànanay izay nanenjika anay taloha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Ashab al-Kahf (Ireo Vahoakan'ny Lava-bato)",
+        "Ashab al-Fil (Ny Tafiky ny Elefanta)",
+        "Ashab al-Ukhdud (Ireo mpiara-dia amin'ny hady)",
+        "Ny Hawariyyun (Mpianatr’Isa)",
+        "Yajuj wa Majuj (Goga sy Magoga)"
+      ],
+      "answer": "Ashab al-Kahf (Ireo Vahoakan'ny Lava-bato)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Niditra tao anaty lava-bato izahay ary natory nandritra ny taonjato maro",
+        "Voavonjy tamin'ny afo mirehitra izahay",
+        "Natelin'ny trondro lehibe iray izahay",
+        "Notsapaina tamin'ny ramevavavy mahagaga isika",
+        "Nomena famantarana mazava sivy izahay"
+      ],
+      "answer": "Niditra tao anaty lava-bato izahay ary natory nandritra ny taonjato maro"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Lava-bato lalina any an-tendrombohitra",
+        "Sambo iray eny an-dranomasina",
+        "Trano avo be mahatratra ny lanitra",
+        "Zaridaina nozaraina teo amin'ny mpifanandrina roa",
+        "Sakana vy sy varahina"
+      ],
+      "answer": "Lava-bato lalina any an-tendrombohitra"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nifoha izahay ary nahita fa niova ho amin'ny finoana ny tanànanay",
+        "Nanjary nangatsiaka sy nilamina ny afo nirehitra",
+        "Nisy tafika fahavalo maty an-drano tao an-dranomasina",
+        "Nandringana ny fahavalo ny vorona nitondra vato",
+        "Nisy trondro lehibe iray nandefa anay ho any amoron-dranomasina"
+      ],
+      "answer": "Nifoha izahay ary nahita fa niova ho amin'ny finoana ny tanànanay"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

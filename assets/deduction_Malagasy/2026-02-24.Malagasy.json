@@ -1,0 +1,61 @@
+{
+  "title": "Ny Akom-pamitahana",
+  "intro": "Notsapaina tamin'ny alalan'ny fialonana ny fifamatorana. Nisy drafitra miafina noforonina, izay nanomboka ny rojo fisehoan-javatra izay haharitra an-taonany maro sy hiampita halavirana lavitra. Nitarika fisarahana sy alahelo lalina ny fihetsik'ity vondrona ity, saingy tsy nifarana teo ny tantara. Tantaran'ny fitaka, nenina ary ny fivelaran'ny drafitra masina izany. Azonao fantarina ve ny mombamomba ireo olona ireo izay nanakoako nandritra ny taranaka maro ny safidiny?",
+  "clues": [
+    "Difotry ny fialonana izahay noho ny fitiavana naseho tamin'ny iray taminay.",
+    "Noho ny fialonanay dia niara-nikomy izahay ka nanipy ny iray tampo aminay tao anaty haizina.",
+    "Mba hanafenana ny nataonay, dia nanolotra akanjo ho an'ny rainay izahay, izay voaloton'ny ra sandoka.",
+    "Taona maro taty aoriana, dia nisy mosary mafy nanery anay handeha tany Ejipta hitady vatsy.",
+    "Tany izahay no niseho teo anatrehan'ny governora mahery iray, izay tsy fantatray akory, dia ilay iray tampo aminay mihitsy no natao ratsy taminay.",
+    "Ny fitsapana farany nataonay dia ny nitondra an'i Benjamina zandrinay faralahy, izay nitarika ho amin'ny fanambarana ny lasanay sy ny rainay izay i Jakoba mpaminany."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Ireo Zanakalahin'i Adama (Qabil sy Habil)",
+        "Ireo mpianatr'i Isaia mpaminany",
+        "Ireo rahalahin'ny Mpaminany Yusuf",
+        "Ny Vahoakan'i Madyana",
+        "Ireo mpanao majika an'i Fir'awn"
+      ],
+      "answer": "Ireo rahalahin'ny Mpaminany Yusuf"
+    },
+    "trial": {
+      "label": "Inona no ratsy voalohany indrindra nataontsika?",
+      "options": [
+        "Fanamboarana ombilahy volamena ho an'ny fanompoam-pivavahana",
+        "Mitaky ny hahita mivantana an'i Allah",
+        "Maneso mpaminany iray noho ny fanamboarana sambo fiara",
+        "Mamitaka ny raintsika sy mandao ny rahalahintsika",
+        "Fandikana ny Sabata amin'ny fanjonoana"
+      ],
+      "answer": "Mamitaka ny raintsika sy mandao ny rahalahintsika"
+    },
+    "location": {
+      "label": "Inona no zavatra fototra nahatonga ny famitahana antsika?",
+      "options": [
+        "Takelaka misy soratra",
+        "Lobaka voaloton'ny ra sandoka",
+        "Ombilahy kely volamena",
+        "Vorona tsara tarehy (ny Hoopoe)",
+        "Tehina niova ho menarana"
+      ],
+      "answer": "Lobaka voaloton'ny ra sandoka"
+    },
+    "outcome": {
+      "label": "Inona no vokatra farany azo tamin'ny tantarantsika?",
+      "options": [
+        "Ravan'ny tondra-drano mahery vaika izahay",
+        "Novaina ho rajako izahay",
+        "Natelin'ny tany izahay",
+        "Voavela heloka izahay ary tafaray indray amin'ny fianakavianay",
+        "Natsipy an-dranomasina izahay"
+      ],
+      "answer": "Voavela heloka izahay ary tafaray indray amin'ny fianakavianay"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

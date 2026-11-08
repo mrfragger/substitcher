@@ -1,0 +1,61 @@
+{
+  "title": "Ciddi Bir Mesajın Taşıyıcısı",
+  "intro": "Daha önce benzeri görülmemiş günahlar içinde kaybolmuş bir halkı doğru yola yönlendirmek için salih bir ruh gönderildi. Bu elçi, doğal düzeni altüst eden bir yozlaşmaya karşı sert bir uyarıda bulunarak dimdik durdu. Samimi yakarışlara rağmen, toplum daha da karanlığa gömüldü ve eşi benzeri görülmemiş bir ilahi hesaplaşmanın zeminini hazırladı. Allah'ın bu sarsılmaz kulunu tanıyabilir misiniz?",
+  "clues": [
+    "Ben başka bir büyük peygamberin akrabasıydım ve onunla birlikte vatanımızı geride bırakarak hicret ettim.",
+    "Ben, kötülükleri eşsiz olan, daha önce hiçbir yaratılışın işlemediği bir günah işleyen bir halka gönderildim.",
+    "Benim ev halkım da ikiye bölünmüştü; yakın bir aile üyesi gizlice inanmayanların safına geçmişti.",
+    "Yakışıklı genç adamlar kılığındaki melekler, misafir olarak evime geldiler ve onların güvenliği konusunda büyük endişe duydum.",
+    "Halkımı utanç verici eylemlerinden vazgeçirmek için çaresiz bir girişimle kendi kızlarımı onlara eş olarak teklif ettim.",
+    "Halkım korkunç bir çığlık ve pişmiş kilden taşların yağmasıyla yok edildi, ben ve ailemden bir kişi hariç herkes gece yarısı kaçarak kurtuldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Şuayb",
+        "Peygamber Salih",
+        "Peygamber Lut",
+        "Peygamber Hud",
+        "Peygamber Nuh"
+      ],
+      "answer": "Peygamber Lut"
+    },
+    "trial": {
+      "label": "Birincil Yargılamam Neydi?",
+      "options": [
+        "Zalim bir kralı beni ateşte yakmaktan vazgeçirmek.",
+        "Kardeşlerimin kıskançlığıyla başa çıkmak ve bir kuyuya atılmak.",
+        "Daha önce benzeri görülmemiş cinsel ahlaksızlıklarla meşgul bir halkla yüzleşmek.",
+        "Halkımı güçlü bir firavunun esaretinden kurtarıyorum.",
+        "İnananları büyük bir tufandan kurtarmak için devasa bir gemi inşa etmek."
+      ],
+      "answer": "Daha önce benzeri görülmemiş cinsel ahlaksızlıklarla meşgul bir halkla yüzleşmek."
+    },
+    "location": {
+      "label": "Görevimin yeri neresiydi?",
+      "options": [
+        "Madyan şehri",
+        "İram'ın antik kenti",
+        "Firavun yönetimindeki Mısır toprakları",
+        "Sodom ve Gomorra şehirleri",
+        "Ninova şehri"
+      ],
+      "answer": "Sodom ve Gomorra şehirleri"
+    },
+    "outcome": {
+      "label": "Nihai Sonuç Ne Oldu?",
+      "options": [
+        "Şehirler yerle bir edildi ve üzerlerine pişmiş kilden taşlar yağdı.",
+        "Halkım, zengin liderleriyle birlikte yerin dibine girdi.",
+        "Halkım yedi gece sekiz gün boyunca şiddetli bir rüzgar tarafından harap edildi.",
+        "Halkım çekirge, bit ve kurbağa gibi zararlılarla boğuşuyordu.",
+        "Görevimi terk ettikten sonra dev bir balık beni yuttu."
+      ],
+      "answer": "Şehirler yerle bir edildi ve üzerlerine pişmiş kilden taşlar yağdı."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

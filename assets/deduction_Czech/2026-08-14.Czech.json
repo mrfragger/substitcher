@@ -1,0 +1,61 @@
+{
+  "title": "Prokleté ruce",
+  "intro": "Stojíte v klikatých uličkách starověké Mekky, kde se kdysi vlivná a bohatá duše odvrátila od volání pravdy. Příběh této postavy je drsnou připomínkou toho, že pokrevní pouta nemohou překonat okovy pýchy. Kdo je ten, jehož jméno se ozývá ohněm, který čeká?",
+  "clues": [
+    "Kráčel jsem ulicemi Mekky s hrdostí, která mi zaslepovala pravdu, ačkoli posel byl z mé vlastní krve.",
+    "Můj majetek byl obrovský, ale stal se spíše kletbou než štítem.",
+    "Kniha vedení mluví o mé zkáze a prohlašuje, že mé ruce i moje tělo zahynou.",
+    "Můj manžel se připojil k mé nepřátelské kampani a sbíral trní, aby ho rozložil na cestu toho, kdo vzýval Alláha.",
+    "V den soudu budu ponořen do planoucího ohně a můj manžel bude mít kolem krku provaz z palmových vláken.",
+    "Jsem známý pod jménem, ​​které znamená „otec plamene“ – jméno, které předpovídá můj věčný příbytek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Abú Laháb",
+        "Abu Džahl",
+        "Abú Tálib",
+        "Abú Sufján",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abú Laháb"
+    },
+    "trial": {
+      "label": "Klíčová studie nebo událost",
+      "options": [
+        "Postavil se proti Prorokovi a byl proklet v Koránu",
+        "Vedl armádu ke zničení Kaaby",
+        "Pokusil se zabít Proroka házením kamenů",
+        "Odmítl věřit v rozdělení Měsíce",
+        "Postavil věž, aby dosáhl nebes"
+      ],
+      "answer": "Postavil se proti Prorokovi a byl proklet v Koránu"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Planoucí oheň pekla",
+        "Musova hůl",
+        "Archa Noe",
+        "Studna Zamzam",
+        "Zlaté tele"
+      ],
+      "answer": "Planoucí oheň pekla"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Vstoupí do ohně plápolajícího a jeho bohatství mu nebude k ničemu.",
+        "Činil pokání a stal se věřícím",
+        "Bylo mu odpuštěno poté, co se odvolal",
+        "Zemřel jako mučedník",
+        "Byl vzat do nebes"
+      ],
+      "answer": "Vstoupí do ohně plápolajícího a jeho bohatství mu nebude k ničemu."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

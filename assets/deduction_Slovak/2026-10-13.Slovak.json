@@ -1,0 +1,61 @@
+{
+  "title": "Ohnivý protivník",
+  "intro": "V raných dobách zjavenia sa objavila postava tvrdohlavého odporcu pravdy. Táto duša, obdarená bohatstvom a postavením, si dala prednosť pýche pred vedením a jej príbeh sa stal drsným varovaním v záverečných veršoch súry.",
+  "clues": [
+    "Býval som v tom istom meste ako Prorok a patril som k jeho najbližším príbuzným, no moja pýcha ma držala ďaleko od pravdy.",
+    "Vlastnil som veľké bohatstvo a početné majetky a myslel som si, že ma moje zdroje vždy ochránia.",
+    "Keď bolo toto posolstvo zjavené, verejne som sa mu vysmieval a odvrátil som sa, považujúc sa za nadradeného veriacim.",
+    "Moje nepriateľstvo bolo také notoricky známe, že jedna súra Koránu sa priamo obracala na mňa a nazývala ma menom, ktorým ma ostatní poznali.",
+    "Bol som varovaný, že moje bohatstvo a moje zárobky mi nebudú užitočné a budem uvrhnutý do planúceho ohňa.",
+    "Som známy ako otec plameňa a moja žena bude nosiť palivové drevo s lanom z palmových vlákien okolo krku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Abú Laháb",
+        "Abu Džahl",
+        "Abú Sufjan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abú Laháb"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Odmietol islam a otvorene sa postavil proti Prorokovi",
+        "Plánoval atentát na Proroka",
+        "Viedol spoločenský bojkot moslimov",
+        "Bojoval v bitke pri Badr",
+        "Mučený Bilal ibn Rabah"
+      ],
+      "answer": "Odmietol islam a otvorene sa postavil proti Prorokovi"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Lano z palmových vlákien",
+        "Ostrý meč",
+        "Ťažký reťazec",
+        "Drevený personál",
+        "Kožený bič"
+      ],
+      "answer": "Lano z palmových vlákien"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Bude horieť v planúcom ohni",
+        "Činil pokánie a stal sa spoločníkom",
+        "Stratil bohatstvo, ale zomrel so cťou",
+        "Utiekol do Habeša",
+        "Utopený v mori"
+      ],
+      "answer": "Bude horieť v planúcom ohni"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

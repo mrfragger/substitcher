@@ -1,0 +1,61 @@
+{
+  "title": "Komuniteti i Shkeljes së Parë",
+  "intro": "Në tokën e qyteteve të lashta, një popull dikur lulëzonte. Ata u vizituan nga një lajmëtar me një thirrje të qartë, megjithatë ata u larguan dhe ndoqën një rrugë që askush nuk e kishte ecur kurrë. Historia e tyre është një histori sfide, shthurjeje dhe një ndëshkimi që la atdheun e tyre si një shenjë për të gjithë ata që reflektojnë. Kush janë këta shpirtra?",
+  "clues": [
+    "Ne jetonim në qytete të fushës, ku profeti ynë na thirri në drejtësi.",
+    "Ne ishim të parët që kryenim një gjë të pahijshme që askush në të gjitha botët nuk e kishte bërë më parë.",
+    "Ne u zumë pritë udhëtarëve dhe kryenim të këqija haptazi në tubimet tona.",
+    "Ne e refuzuam të dërguarin që na u dërgua dhe e kërcënuam se do ta dëbonim nga toka jonë.",
+    "Ne nxituam për në shtëpinë e tij duke i kërkuar që të na i dorëzonte mysafirët e tij.",
+    "Ndëshkimi ynë ishte një shi gurësh dhe qyteti ynë u përmbys."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush Jemi Ne?",
+      "options": [
+        "Populli i Lutit",
+        "Populli i Nuhut",
+        "Populli i Adit",
+        "Populli i Themudit",
+        "Njerëzit e Medjenit"
+      ],
+      "answer": "Populli i Lutit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Kryeu aktin e parë të sodomisë",
+        "Idhuj të adhuruar",
+        "I mashtruar në tregti",
+        "E vranë profetin e tyre",
+        "Nuk iu bindën prindërve të tyre"
+      ],
+      "answer": "Kryeu aktin e parë të sodomisë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Qyteti i fushës",
+        "Qyteti i pusit",
+        "Qyteti i hendekut",
+        "Qyteti i elefantit",
+        "Qyteti i kopshtit"
+      ],
+      "answer": "Qyteti i fushës"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Ra shi me gurë dhe u përmbys",
+        "I mbytur nga një përmbytje",
+        "Shkatërrohet nga një erë e fortë",
+        "Gëlltitur nga toka",
+        "I goditur nga një shpërthim i fuqishëm"
+      ],
+      "answer": "Ra shi me gurë dhe u përmbys"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Vuċi mill-Periferiji",
+  "intro": "Inti wieqaf f'belt fejn ġew tliet messaġġiera b'sinjali ċari, iżda n-nies jiddieħku bihom u jżommu mal-modi qodma tagħhom. Mill-iktar parti mbiegħda tal-belt, figura tiġri lejn il-folla, bla nifs u determinata, biex tgħid il-verità quddiem ir-rifjut. Min hi din ir-ruħ li rriskjat kollox għal messaġġ li mhux tagħha?",
+  "clues": [
+    "Għext fost poplu li kien laqa’ messaġġiera b’sinjali ċari, iżda huma daru lura bl-arroganza.",
+    "Ġejt niġri mill-iktar parti mbiegħda tal-belt meta smajt bis-sejħa tal-messaġġiera.",
+    "Jiena għedt lill-poplu tiegħi, “O poplu tiegħi, segwu l-messaġġiera. Segwu lil dawk li ma jitolbukx premju, għax huma ggwidati sew.”",
+    "Ma kontx profeta, imma kont nemmen fil-messaġġiera u ħeġġiġt lin-nies tiegħi biex jagħmlu l-istess.",
+    "In-nies tiegħi waqqgħu għaċ-ċajt il-parir tiegħi u akkużawni li jien estremist.",
+    "Meta qatluni, Alla qalli biex nidħol fil-Ġenna, u xtaqt li n-nies tiegħi jkunu jafu l-maħfra u l-unur li rċevejt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Ir-raġel mill-iktar parti 'l bogħod tal-belt (Ya-Sin)",
+        "Wieħed mit-tliet messaġġiera mibgħuta lejn il-belt",
+        "Negozjant prominenti tal-belt",
+        "Mexxej tal-belt",
+        "Il-mexxej tal-inkreduli"
+      ],
+      "answer": "Ir-raġel mill-iktar parti 'l bogħod tal-belt (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Jipprietka lill-poplu tiegħu biex isegwu l-messaġġiera",
+        "Il-bini ta’ vapur biex isalva lill-fidili minn għargħar",
+        "Mitfugħ fin-nar minħabba l-fidi",
+        "Nibla’ minn baliena",
+        "Li tingħata saltna u għerf"
+      ],
+      "answer": "Jipprietka lill-poplu tiegħu biex isegwu l-messaġġiera"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-iktar parti 'l bogħod tal-belt",
+        "L-arka",
+        "Il-bir",
+        "L-għollieq jaqbad",
+        "L-għar"
+      ],
+      "answer": "L-iktar parti 'l bogħod tal-belt"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Daħal fil-Ġenna u xtaq li n-nies tiegħu jkunu jafu l-maħfra tiegħu",
+        "Għereq man-nies tiegħu talli ċaħdu l-messaġġ",
+        "Ingħata miraklu tal-ġemela",
+        "Sar ħakkiem wara l-proċess tiegħu",
+        "Ġie salvat minn Alla u baqa’ mal-poplu tiegħu"
+      ],
+      "answer": "Daħal fil-Ġenna u xtaq li n-nies tiegħu jkunu jafu l-maħfra tiegħu"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

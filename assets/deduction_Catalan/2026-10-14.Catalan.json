@@ -1,0 +1,61 @@
+{
+  "title": "Els Trencadors del Pacte Exiliats",
+  "intro": "En els primers dies d'una comunitat incipient, una tribu vivia en habitatges fortificats, lligats per un pacte. Quan aquest pacte va ser traït, les conseqüències van ressonar a les pàgines de l'Alcorà. Qui eren aquestes persones i què va ser de les seves cases i horts?",
+  "clues": [
+    "Vivíem en fortaleses que ens donaven una falsa sensació de seguretat.",
+    "Érem gent de les Escriptures, però vam trencar el nostre pacte.",
+    "Vam conspirar contra el missatger després que vingués a nosaltres, però el nostre pla va fracassar.",
+    "Les nostres palmeres van ser tallades per ordre d'Al·là, un signe del seu poder.",
+    "Ens van expulsar de casa nostra, per no tornar-hi mai més, com a càstig per la nostra rebel·lió.",
+    "L'Alcorà ens esmenta al capítol de la reunió, i la nostra història serveix d'advertència per a aquells que trenquen els pactes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Gent de Madyan",
+        "Gent de Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Setge i expulsió de les seves llars",
+        "Ofegant-se al mar",
+        "Ser engolit per la terra",
+        "Destrucció per una tempesta",
+        "Convertir-se en simis"
+      ],
+      "answer": "Setge i expulsió de les seves llars"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Palmeres tallades",
+        "El personal",
+        "L'arca",
+        "El pou d'aigua",
+        "La cova"
+      ],
+      "answer": "Palmeres tallades"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Exiliats i els seus béns confiscats",
+        "Va tornar victoriós",
+        "Van ser perdonats i van romandre",
+        "Va entrar al paradís immediatament",
+        "Van ser afectats per una pesta"
+      ],
+      "answer": "Exiliats i els seus béns confiscats"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

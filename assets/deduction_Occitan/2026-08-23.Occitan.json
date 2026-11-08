@@ -1,0 +1,61 @@
+{
+  "title": "La multitud desapareguda",
+  "intro": "Te pausas davant los ressons d'una comunautat que son istòria es escricha dins las ondas. Aquelas anmas ausiguèron una crida, causiguèron lo desfís, e afrontèron una consequéncia que remodelèt la tèrra. Qui son, e qué se passèt amb lor mond?",
+  "clues": [
+    "Visquèrem fa gaire, e un messatgièr nos venguèt d'entre nosautres.",
+    "Adorèrem cinc idòlas e refusèrem de las abandonar.",
+    "Nos trufèrem del messatgièr e l'acusèrem d'èsser errant.",
+    "Exigiguèrem que portèsse lo castig s'èra verai.",
+    "Vegèrem los cèls tombar de pluèja e la tèrra s'escampar de fonts.",
+    "Pugèrem als luòcs nauts per s'escapar, mas las ondas nos despassèron."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Gent de Nuh",
+        "Personas de 'Ad",
+        "Pòble de Thamud",
+        "Gent de Lut",
+        "Gent de Madyan"
+      ],
+      "answer": "Gent de Nuh"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Foguèrem afogats dins una granda inondacion",
+        "Foguèrem destruits per un auragan",
+        "Foguèrem tuats per un còp fòrt",
+        "Foguèrem engolits per la tèrra",
+        "Foguèrem lançats de pèiras del cèl"
+      ],
+      "answer": "Foguèrem afogats dins una granda inondacion"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una granda inondacion",
+        "Un vent violent",
+        "Una pluèja de pèiras",
+        "Un còp de fuòc",
+        "Un tèrratrem"
+      ],
+      "answer": "Una granda inondacion"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Totes periguèrem levat los cresents amb Nuh",
+        "Foguèrem transformats en monins",
+        "Foguèrem daissats coma de roïnas pels viatjaires",
+        "Foguèrem transformats en sal",
+        "Nos donèron un respècte"
+      ],
+      "answer": "Totes periguèrem levat los cresents amb Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

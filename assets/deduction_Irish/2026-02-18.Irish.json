@@ -1,0 +1,61 @@
+{
+  "title": "An Finné Seasmhach",
+  "intro": "Nochtar scéal domhain, ag nochtadh rún daingean pobail i bhfianaise tíorántachta uafásaí. Is fianaise ar chreideamh a scéal, fiú nuair a bhíonn an íobairt dheiridh rompu. Cuireann an cuntas seo cumhacht an chreidimh i gcuimhne dúinn i gcoinne an fhoréigin mhóir.",
+  "clues": [
+    "Ba ghrúpa muid a bhfuil a scéal á insint i surah gearr, cumhachtach, ag tabhairt rabhaidh i gcoinne géarleanúna.",
+    "Bhíomar os comhair rialóra a bhí ag iarraidh ár gcreideamh san Aon Dia amháin, Tiarna na Ríchathaoir, an té atá Inmholta, a dhíothú.",
+    "Cuireadh tástáil uafásach orainn a bhain le poll ollmhór a tochailt sa talamh.",
+    "D’fhéachamar ar chreidmhigh, naíonáin san áireamh, á gcaitheamh isteach i n-ifreann buile laistigh den pholl sin.",
+    "Cuireadh mallacht ar ár gcéasadóirí as a ngníomhartha, agus gealladh luach saothair ollmhór dúinn as ár ndíograis.",
+    "Ní dhearna iarracht an rialóra ár gcreideamh a mhúchadh ach ár n-áit mar mhairtírigh i radharc Allah, atá ina fhinné ar gach ní, a dhaingniú."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir Thamud",
+        "Muintir 'Ad",
+        "Muintir na Díge",
+        "Muintir Lut",
+        "Muintir an Eilifint"
+      ],
+      "answer": "Muintir na Díge"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An Tuilte Mór",
+        "An Tor Dóite",
+        "An Báthadh sa Mhuir",
+        "An Poll Dóite",
+        "An Crith Talún"
+      ],
+      "answer": "An Poll Dóite"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "An Díog",
+        "An Sliabh",
+        "An Tobar"
+      ],
+      "answer": "An Díog"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bronnadh ríocht orthu",
+        "Sábháladh iad le míorúilt",
+        "Bhain sé amach mairtíreach agus Parthas",
+        "Scaipthe ar fud na dtíortha",
+        "Bronnadh saibhreas ollmhór orthu"
+      ],
+      "answer": "Bhain sé amach mairtíreach agus Parthas"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

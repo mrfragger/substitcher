@@ -1,0 +1,61 @@
+{
+  "title": "Hamba Allah yang Agung",
+  "intro": "Kalian mendengar bisikan tentang sosok dari zaman kuno, seorang hamba Allah yang diangkat ke kedudukan di atas orang biasa. Individu ini dikenal karena kesabarannya yang tak tergoyahkan dan kejujurannya yang mutlak, dan diutus kepada kaum yang berpaling dari pesan tersebut. Siapakah jiwa yang mulia ini?",
+  "clues": [
+    "Aku dipilih oleh Allah sebagai seorang nabi dan disebutkan dalam Al-Quran.",
+    "Saya dikenal karena kesabaran dan kejujuran saya, sifat-sifat yang dipuji Allah.",
+    "Aku menyeru umatku untuk menyembah Tuhan Yang Esa, tetapi banyak yang menolakku.",
+    "Kedudukanku ditinggikan oleh Allah, dan aku dianugerahi pangkat yang tinggi.",
+    "Nama saya sering disebut-sebut bersama nabi-nabi lain seperti Ismail dan Dzul-Kifl.",
+    "Allah berfirman tentangku: 'Dan Kami mengangkatnya ke kedudukan yang tinggi.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Idris",
+        "Nabi Elia",
+        "Nabi Dhu al-Kifl",
+        "Nabi Al-Yasa",
+        "Nabi Hud"
+      ],
+      "answer": "Nabi Idris"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Menyeru manusia untuk menyembah Allah",
+        "Membangun bahtera",
+        "Berperang melawan Firaun",
+        "Diuji karena sakit parah",
+        "Dilemparkan ke dalam api"
+      ],
+      "answer": "Menyeru manusia untuk menyembah Allah"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Pangkat tinggi/kedudukan tinggi",
+        "Bahtera",
+        "Staf",
+        "Api",
+        "Sumur"
+      ],
+      "answer": "Pangkat tinggi/kedudukan tinggi"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diangkat ke status tinggi",
+        "Tenggelam dalam banjir",
+        "Ditelan oleh paus",
+        "Selamat dari kebakaran",
+        "Menjadi raja"
+      ],
+      "answer": "Diangkat ke status tinggi"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

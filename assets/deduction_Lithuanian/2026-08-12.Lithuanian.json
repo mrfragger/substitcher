@@ -1,0 +1,61 @@
+{
+  "title": "Gailestingumo ir galios pasiuntiniai",
+  "intro": "Įsivaizduokite ramią popietę, kurią nutraukia nepažįstamų keliautojų atvykimas. Jų išvaizda įprasta, bet jų tikslas visai kitoks. Jie neša dievišką žinią, kuri pakeis dviejų tautų gyvenimo kelią, įnešdama juoko į nevaisingus namus ir siaubo į nuodėmingą miestą. Kas tie paslaptingi lankytojai?",
+  "clues": [
+    "Mus pasiuntė pas atsidavusį Alacho tarną, žinomą dėl savo beribio svetingumo.",
+    "Atvykome tarsi nepažįstami žmonės, tačiau šeimininkas pajuto kažką nežemiško mūsų buvime.",
+    "Mes atnešėme žinią, kuri privertė pagyvenusią moterį netikinčiai juoktis ir iš nuostabos trinktelėti sau į veidą.",
+    "Mums buvo pavesta apsaugoti teisią šeimą ir tuo pačiu metu sviesti sunaikinimą ant korupcijos apimto miesto.",
+    "Mes atsisakėme dalyvauti mums pasiūlytame valgyje, o tai tik sustiprino mūsų šeimininko įtarimą.",
+    "Savo tikrąją prigimtį atskleidėme tik prieš išvykdami, sakydami: „Iš tiesų, mes esame jūsų Viešpaties pasiuntiniai.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Abraomo svečiai",
+        "Jėzaus mokiniai",
+        "Olos palydovai",
+        "Abrahos armija",
+        "Ja-Sino pasiuntiniai"
+      ],
+      "answer": "Abraomo svečiai"
+    },
+    "trial": {
+      "label": "Mūsų misija",
+      "options": [
+        "Išbandyti Abraomo tikėjimą dėl savo sūnaus",
+        "Kad perduotų Raštą Abraomui",
+        "Paskelbti Izaoko gimimą ir Loto tautos sunaikinimą",
+        "Kad nuvestų Abraomą į Kaabą",
+        "Kad išgelbėtų Abraomą nuo ugnies"
+      ],
+      "answer": "Paskelbti Izaoko gimimą ir Loto tautos sunaikinimą"
+    },
+    "location": {
+      "label": "Pasirodymo vieta",
+      "options": [
+        "Egipto žemėje",
+        "Ūro mieste.",
+        "Abraomo namuose.",
+        "Edeno sode",
+        "Prie Zamzamo šulinio"
+      ],
+      "answer": "Abraomo namuose."
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Abraomas tapo karaliumi",
+        "Abraomas pastatė Kaabą",
+        "Sara pagimdė Izaoką, o Loto tauta buvo sunaikinta",
+        "Abraomas persikėlė į Palestiną",
+        "Abraomo tauta buvo išgelbėta nuo didelio tvano"
+      ],
+      "answer": "Sara pagimdė Izaoką, o Loto tauta buvo sunaikinta"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

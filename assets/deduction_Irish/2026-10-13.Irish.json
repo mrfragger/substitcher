@@ -1,0 +1,61 @@
+{
+  "title": "An Naimhde Teinteach",
+  "intro": "I laethanta tosaigh an nochta, tháinig figiúr chun cinn mar chéile comhraic righin i gcoinne na fírinne. Beannaithe le saibhreas agus stádas, roghnaigh an t-anam seo bród thar threoir, agus ba rabhadh géar a scéal i véarsaí deiridh surah.",
+  "clues": [
+    "Bhí cónaí orm sa chathair chéanna leis an bhFáidh, agus bhí mé i measc na ngaolta ba ghaire dó, ach choinnigh mo bhród mé i bhfad ón bhfírinne.",
+    "Bhí saibhreas mór agus maoin iomadúil agam, agus shíl mé go gcosnódh mo chuid acmhainní mé i gcónaí.",
+    "Nuair a nochtadh an teachtaireacht, rinne mé magadh fúithi go hoscailte agus chas mé uaim, ag meas mé féin a bheith níos fearr ná na creidmhigh.",
+    "Bhí mo naimhdeas chomh clúiteach sin gur labhair surah den Quran go díreach liom, ag glaoch orm leis an ainm a raibh aithne ag daoine eile orm.",
+    "Tugadh rabhadh dom nach mbeadh mo shaibhreas ná mo thuilleamh chun tairbhe dom, agus go gcaithfí i tine lasrach mé.",
+    "Is mise athair na lasrach, agus iompróidh mo bhean an t-adhmad tine le rópa snáithín pailme timpeall a muiníl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Dhiúltaigh sé don Ioslam agus chuir sé i gcoinne an Fháidh go hoscailte",
+        "Pléasctha chun an Fáidh a mharú",
+        "Bhí siad i gceannas ar bhaghcat sóisialta i gcoinne Moslamaigh",
+        "Throid i gCath Badr",
+        "Céasadh Bilal ibn Rabah"
+      ],
+      "answer": "Dhiúltaigh sé don Ioslam agus chuir sé i gcoinne an Fháidh go hoscailte"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Rópa snáithín pailme",
+        "Claíomh géar",
+        "Slabhra trom",
+        "Sloinne adhmaid",
+        "Fuip leathair"
+      ],
+      "answer": "Rópa snáithín pailme"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Dófaidh sé i tine lasrach",
+        "Rinne sé aithrí agus rinneadh compánach de",
+        "Chaill sé a shaibhreas ach fuair sé bás le honóir",
+        "Theith sé go dtí an Aibéisin",
+        "Báite sa bhfarraige"
+      ],
+      "answer": "Dófaidh sé i tine lasrach"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

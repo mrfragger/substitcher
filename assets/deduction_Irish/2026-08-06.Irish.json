@@ -1,0 +1,61 @@
+{
+  "title": "An t-Anam Faireachail cois Bruach na hAbhann",
+  "intro": "Tugadh misean rúnda d’anam óg, chun breathnú ó achar sábháilte agus cinniúint ag teacht chun cinn ar na huiscí. Gan a bheith le feiceáil ná gan amhras, bheadh ​​ról lárnach ag an bhfigiúr seo i gcúrsa stair náisiúin a athrú.",
+  "clues": [
+    "Thug mo mháthair tasc dom, ceann a d'éiligh rúndacht agus airdeall.",
+    "Lean mo shúile cliabhán beag ag imeacht feadh an tsrutha, mo chroí trom le himní.",
+    "Nuair a fuair dream gan choinne é, tháinig mé i mo ghar, lán le heagla.",
+    "Chonaic mé a n-éadóchas i leith cúramóra agus thairg mé réiteach gan an fhírinne a nochtadh.",
+    "Thug mo idirghabháil thráthúil anam altranais ar ais chuig an té a raibh an gá ba mhó aige leis.",
+    "I gcúirteanna na ndaoine cumhachtach, labhair mé: ‘An dtreoróidh mé thú chuig teaghlach a chothóidh é agus a thabharfaidh aire dó go cúramach?’"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Deirfiúr Mhúsa",
+        "Máthair Mhúsa",
+        "Bean chéile an Fharó",
+        "Bean chabhrach",
+        "Iníon Shu'aib"
+      ],
+      "answer": "Deirfiúr Mhúsa"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Caitheamh linbh isteach san abhainn",
+        "Scaradh na farraige",
+        "Dó an laoigh",
+        "Tógáil na háirce",
+        "Plá na lócaistí"
+      ],
+      "answer": "Caitheamh linbh isteach san abhainn"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An abhainn",
+        "An fásach",
+        "An sliabh",
+        "An pálás",
+        "An tine"
+      ],
+      "answer": "An abhainn"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Chuir sí an leanbh ar ais lena mháthair",
+        "Shábháil sí í féin ó shaighdiúirí Pharaoh",
+        "Rinneadh banríon di",
+        "Gearradh pionós uirthi as spiaireacht a dhéanamh",
+        "Bhí sí i gceannas ar na hIosraeilítigh"
+      ],
+      "answer": "Chuir sí an leanbh ar ais lena mháthair"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

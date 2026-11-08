@@ -1,0 +1,61 @@
+{
+  "title": "Il-Prova tal-Għatx",
+  "intro": "Komunità, li xtaqet tmexxija biex tiddefendi l-kawża tagħha, talbet biex jinħatar kmandant fuqhom. Meta t-talba tagħhom ġiet imwieġba, il-magħżul intlaqa’ b’xettiċiżmu, għax dan l-individwu ma kellux l-istatus dinji li kienu qed jistennew. Qabel il-konfrontazzjoni aħħarija, dan il-mexxej il-ġdid kien se jittestja d-dixxiplina stess tal-armata b’prova sempliċi, iżda profonda, ta’ trażżin.",
+  "clues": [
+    "Ġejt maħtur bħala kmandant wara li l-poplu tiegħi talab mexxej biex jiġġieled fil-kawża ta' Alla.",
+    "Ħafna min-nies tiegħi inizjalment iddubitaw mill-ħatra tiegħi, billi semmew in-nuqqas ta' ġid u ta' nisel nobbli tiegħi.",
+    "Jiena ġejt magħżul għax Alla kien tani abbundanza ta’ għarfien u statura fiżika qawwija.",
+    "Sinjal ċar tal-ħatra divina tiegħi kien ir-ritorn tal-Arka tal-Patt, miġjuba mill-anġli, li ġabet il-paċi fil-qlub tal-fidili.",
+    "Hekk kif immarċjajt mas-suldati tiegħi, ħabbart li konna se niġu ttestjati ħdejn xmara.",
+    "Jiena ordnajt lill-armata tiegħi biex kull min jixrob sew mix-xmara ma jkunx mill-kumpanija tiegħi, filwaqt li dawk li jieħdu biss mgħarfa waħda f'idejhom jibqgħu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Jalut (Golija)",
+        "Talut (Sawl)",
+        "Il-Profeta Dawud",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Sawl)"
+    },
+    "trial": {
+      "label": "X'Kienet il-Prova Prinċipali Tiegħi?",
+      "options": [
+        "Il-bini ta’ barriera kontra Gog u Magog",
+        "Niffaċċjaw ġgant f'ġlied waħdieni",
+        "Ittestjar tal-ubbidjenza ta' armata ħdejn xmara",
+        "Mexxi armata ta’ jinn u għasafar",
+        "Li tibqa’ ħaj wara li tintefa’ fin-nar"
+      ],
+      "answer": "Ittestjar tal-ubbidjenza ta' armata ħdejn xmara"
+    },
+    "location": {
+      "label": "X'Kien Sinjal Ewlieni tal-Awtorità Tiegħi?",
+      "options": [
+        "Bastun li nbidel f’serp",
+        "Ġemel li ħareġ minn blata",
+        "Kowt tal-ħadid imrattab",
+        "L-Arka tal-Patt (At-Tabut)",
+        "Mejda ta’ ikel mis-smewwiet"
+      ],
+      "answer": "L-Arka tal-Patt (At-Tabut)"
+    },
+    "outcome": {
+      "label": "X'kien ir-Riżultat tal-Kampanja Tiegħi?",
+      "options": [
+        "Jegħleb l-armata ta’ Jalut (Golija)",
+        "Jiftaħ il-Baħar l-Aħmar biex jaħrab minn tirann",
+        "Nistabilixxi dinastija fit-tul f'ismi",
+        "Il-bini tal-Kaaba sagra f'Mekka",
+        "Li tittella’ s-smewwiet mingħajr ma tmut"
+      ],
+      "answer": "Jegħleb l-armata ta’ Jalut (Golija)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

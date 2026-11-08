@@ -1,0 +1,61 @@
+{
+  "title": "Ang Arkitekto sa Pagkamapahitas-on",
+  "intro": "Sa usa ka karaang yuta nga gimandoan sa usa ka masukihon nga gahum, usa ka importanteng indibidwal ang naghupot ug usa ka posisyon nga maimpluwensya. Kining kalaga nakatabang sa dagkong mga laraw sa magmamando, nga nakatampo sa ilang mapig-oton nga pagmando ug naghagit sa balaang mensahe. Ang ilang kabilin nalambigit sa pagpangita sa kalibutanong gahum ug paglimod sa kamatuoran.",
+  "clues": [
+    "Nag-alagad ako sa usa ka makalilisang nga magmamando nga nagdaugdaug sa usa ka katawhan sa daghang henerasyon.",
+    "Ang akong ngalan kanunayng gihisgutan sa Balaang Libro uban niining gamhanang lider.",
+    "Gitahasan ko sa usa ka dakong proyekto sa pagtukod, usa ka habog nga estruktura nga gituyo nga makaabot sa kalangitan.",
+    "Gitambagan nako ang akong agalon nga pamatyon ang mga anak nga lalaki sa mga anak sa Israel ug buhian ang ilang mga anak nga babaye.",
+    "Nalambigit ako sa mga laraw ug konspirasyon batok sa usa ka gamhanang mensahero sa Allah.",
+    "Ang akong kataposan, uban sa akong agalon ug sa iyang kasundalohan, miabot sa katubigan sa halapad nga dagat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gisulayan sa dakong bahandi",
+        "Nanguna sa usa ka kasundalohan batok sa usa ka sagrado nga balay",
+        "Pagtukod og tore aron makaabot sa Diyos",
+        "Gilabay sa kalayo tungod sa ilang pagtuo",
+        "Gilabay sa atabay sa mga igsoon"
+      ],
+      "answer": "Pagtukod og tore aron makaabot sa Diyos"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Arka",
+        "Ang mga kawani",
+        "Ang Bukid",
+        "Ang Tore",
+        "Ang Balyena"
+      ],
+      "answer": "Ang Tore"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Gihatagan og dakong kaalam",
+        "Pagkahimong usa ka propeta",
+        "Gilamoy sa yuta",
+        "Gihatagan og gingharian",
+        "Pagkalumos sa dagat"
+      ],
+      "answer": "Pagkalumos sa dagat"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

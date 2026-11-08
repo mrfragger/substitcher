@@ -1,0 +1,61 @@
+{
+  "title": "Spánek za hranicemi času",
+  "intro": "Představte si dobu, kdy byla pravda umlčována a věřící pronásledováni. Malá skupina lidí si dala přednost ústupu před kapitulací a našla útočiště na tom nejméně pravděpodobném místě – místě, které se stalo jejich útočištěm na nespočet staletí. Když se konečně probudili, svět kolem nich se proměnil. Kdo jsou tyto spící duše?",
+  "clues": [
+    "Byli jsme mladí lidé žijící ve starobylém městě.",
+    "Naše komunita požadovala, abychom se s nimi modlili, ale my jsme odmítli.",
+    "Uprchli jsme z města a hledali útočiště před těmi, kteří se stavěli proti našemu přesvědčení.",
+    "U vchodu do našeho úkrytu zůstal věrný čtyřnohý společník.",
+    "Alláh nám dal spát tři sta devět let.",
+    "Když jsme se konečně probudili, naše kdysi pronásledované město přijalo víru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Ashab al-Kahf (Lidé z jeskyně)",
+        "Ashab al-Fil (Armáda slonů)",
+        "Ashab al-Ukhdud (Společníci z příkopu)",
+        "Hawariyyun (učedníci Isa)",
+        "Yajuj wa Majuj (Gog a Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Lidé z jeskyně)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Uchýlili jsme se do jeskyně a spali jsme po staletí",
+        "Byli jsme zachráněni před planoucím požárem",
+        "Spolkla nás velká ryba",
+        "Byli jsme zkoušeni zázračnou velbloudicí",
+        "Dostali jsme devět jasných znamení"
+      ],
+      "answer": "Uchýlili jsme se do jeskyně a spali jsme po staletí"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Hluboká jeskyně v horách",
+        "Loď na otevřeném moři",
+        "Tyčící se struktura dosahující k nebesům",
+        "Zahrada rozdělená mezi dva soupeře",
+        "Bariéra ze železa a mědi"
+      ],
+      "answer": "Hluboká jeskyně v horách"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Probudili jsme se a zjistili, že se naše město obrátilo k víře",
+        "Planoucí oheň se stal chladným a klidným",
+        "Nepřátelská armáda se utopila v moři",
+        "Ptáci nesoucí kameny zničili nepřítele",
+        "Velká ryba nás vypustila na břeh"
+      ],
+      "answer": "Probudili jsme se a zjistili, že se naše město obrátilo k víře"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

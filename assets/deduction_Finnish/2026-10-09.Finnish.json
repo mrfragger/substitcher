@@ -1,0 +1,61 @@
+{
+  "title": "Kuuntelematon kutsu ylimielisyyden maassa",
+  "intro": "Seisot kerran suuren sivilisaation raunioilla, joissa vallalla ja ylpeydellä ei ollut rajoja. Heidän joukossaan kulki sanansaattaja, joka kutsui totuutta, mutta heidän sydämensä olivat paatuneet. Varoitusta ei kuunneltu, ja taivaasta itsestään tuli vihan väline. Kuka oli tämä sanansaattaja, ja mitä tapahtui niille, jotka hylkäsivät kutsun?",
+  "clues": [
+    "Minut lähetettiin kansan luo, jolla oli vertaansa vailla oleva voima ja joka rakensi jokaiselle kukkulalle muistomerkin.",
+    "Kansani piti itseään voittamattomana ja sanoi: \"Kuka on meitä voimakkaampi?\"",
+    "Kutsuin heitä palvomaan yksin Allahia, mutta he syyttivät minua tyhmyydestä ja valehtelusta.",
+    "He haastoivat minut toteuttamaan lupaamani rangaistuksen, jos olisin totuudenmukainen.",
+    "Allah lähetti heidän päälleen karun tuulen, joka ei säästellyt mitään osuessaan.",
+    "Minä ja ne, jotka uskoivat minun kanssani, pelastuimme Allahin armosta, kun taas uskottomat tuhottiin täysin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Hud",
+        "Profeetta Salih",
+        "Profeetta Shuaib",
+        "Profeetta Lut",
+        "Profeetta Nooa"
+      ],
+      "answer": "Profeetta Hud"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Tuhoisa tuuli tuhosi uskottomat",
+        "Suuri tulva peitti uskottomat",
+        "Kivisade satoi alas",
+        "Kova kirkaisu valtasi epäuskoiset",
+        "Maanjäristys iski epäuskoisiin"
+      ],
+      "answer": "Tuhoisa tuuli tuhosi uskottomat"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Armoton tuuli",
+        "Puinen arkki",
+        "Naaraskameli",
+        "Savikivisade",
+        "Liekehtivä tuli"
+      ],
+      "answer": "Armoton tuuli"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hud ja uskovat pelastuivat, ja uskottomat tuhoutuivat",
+        "Hud nostettiin korkeaan asemaan",
+        "Hudin kansansa tappoi hänet",
+        "Hudin kansa katui ja säästyi",
+        "Hud jätti kansansa ennen rangaistusta"
+      ],
+      "answer": "Hud ja uskovat pelastuivat, ja uskottomat tuhoutuivat"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

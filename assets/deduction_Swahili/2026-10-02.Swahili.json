@@ -1,0 +1,61 @@
+{
+  "title": "Mfalme Aliyevuka Miisho ya Dunia",
+  "intro": "Hebu fikiria mtawala mwenye nguvu, aliyepewa nguvu na mamlaka juu ya nchi. Mtu huyu alianza safari za ajabu, akifika mahali jua linapotua na mahali linapochomoza, akikutana na watu wa ajabu na kukabiliana na changamoto kubwa kutoka kwa mataifa mawili yanayopotosha. Kiongozi huyu mwenye utata ni nani?",
+  "clues": [
+    "Nilikuwa mtawala aliyepewa mamlaka na njia za kufikia pembe za mbali zaidi za dunia.",
+    "Nilisafiri kuelekea magharibi na kushuhudia jua likitua katika chemchemi yenye giza.",
+    "Nilikutana na watu karibu na jua linalochomoza ambao hawakuwa na mahali pa kujikinga na joto lake.",
+    "Jumuiya nyingine iliniomba msaada dhidi ya mataifa mawili yenye ufisadi yanayojulikana kama Gogu na Magogu.",
+    "Nilijenga kizuizi kwa kutumia chuma na shaba iliyoyeyushwa ili kuzizuia.",
+    "Nilitangaza kwamba kizuizi hiki kilikuwa rehema kutoka kwa Mola wangu, na kitabaki hadi wakati uliowekwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Nabii Suleiman",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujenga kizuizi dhidi ya Gogu na Magogu",
+        "Kunusurika mafuriko makubwa",
+        "Kutupwa motoni",
+        "Kuvuka bahari",
+        "Kupambana na jitu"
+      ],
+      "answer": "Kujenga kizuizi dhidi ya Gogu na Magogu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kizuizi cha chuma na shaba",
+        "Fimbo ambayo ikawa nyoka",
+        "Meli ya mbao",
+        "Jumba la kioo",
+        "Bustani ya mitende"
+      ],
+      "answer": "Kizuizi cha chuma na shaba"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Gogu na Magogu walizuiliwa hadi wakati uliowekwa",
+        "Akawa nabii",
+        "Aliadhibiwa kwa kiburi",
+        "Alishinda ulimwengu wote",
+        "Aliishi milele"
+      ],
+      "answer": "Gogu na Magogu walizuiliwa hadi wakati uliowekwa"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

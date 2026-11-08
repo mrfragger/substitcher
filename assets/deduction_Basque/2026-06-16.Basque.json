@@ -1,0 +1,61 @@
+{
+  "title": "Zuzenbidera deitu zuen ahotsa",
+  "intro": "Antzinako Midian lurraldean, merkataritza loratu eta karabanak basamortu zabaletan zehar bidaiatzen zuten lekuan, Alaren profeta bat agertu zen justiziaren bidetik aldendu ziren pertsonen artean. Alaren zerbitzari hau komunitate oso baten fedea probatuko zuen jainkozko misio batekin bidali zuten. Pazientzia eta iraunkortasun proben bidez, arima honek historian zehar oihartzuna izango zuen abisua eman zuen. Argitu al dezakezu mezulari sendo honen misterioa?",
+  "clues": [
+    "Alak aukeratu ninduen beren harremanetan zuzentasun eta zintzotasun printzipioak ahaztu zituzten herri bat gidatzeko.",
+    "Mezu bat eman nuen nire komunitateari Ala bakarrik gurtzera eta gai guztietan egiaz hitz egitera deituz.",
+    "Bereziki ohartarazi nuen aberastasuna legez kanpo kontsumitzeko praktika ustelen aurka, eta pisu eta neurri justuen garrantzia azpimarratu nuen.",
+    "Nire herriak iseka eginez erantzun zien nire abisuei, nire mezua jarraitzen banuen beren lurraldetik kanporatuko nituela mehatxatuz.",
+    "Haien etsaitasuna gorabehera, nire misioan tinko jarraitu nuen, nire saria Ala-rekin bakarrik dagoela adieraziz.",
+    "Nire herria zigor suntsitzaile batek hartu zuen, eta ni, berriz, Jaunaren errukiak salbatu ninduen, nire misioa bete baitzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Shu'aib profeta",
+        "Hud profeta",
+        "Salih profeta",
+        "Lut profeta",
+        "Mahoma profeta (la paz eta lah)"
+      ],
+      "answer": "Shu'aib profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Egia ukatu eta Alaren mezua helarazteagatik zigorra mehatxatu zuen herri bati aurre egitea",
+        "Nazio bateko sinesgabeak suntsitu zituen Uholde Handiaren lekuko izatea",
+        "笃 haranean zehar bidaiatzen ari zela errebelazioa jasotzea",
+        "Fedearen proba, agintari zapaltzaile batek monoteismorako deia isilarazten saiatu zenean.",
+        "Nazio bat lehorte larri batean euria eskatzen, urteetako desobedientziaren ondoren"
+      ],
+      "answer": "Egia ukatu eta Alaren mezua helarazteagatik zigorra mehatxatu zuen herri bati aurre egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Midian lurraldea, nire herriak bere merkataritza eta merkataritza egiten zuen tokia",
+        "Sinestunak uholde hondamendi batetik salbatu zituen itsasontzi handi baten kubierta",
+        "Mendi harritsu bateko kobazulo bat, non zazpi gaztek jazarpenetik babesa bilatu zuten",
+        "Jerusalemgo hiri sakratua, gaueroko bidaian eraman ninduten tokia",
+        "Sabako jauregia, non erreinu handi bat jainkozko seinale baten lekuko izateko prestatzen zen"
+      ],
+      "answer": "Midian lurraldea, nire herriak bere merkataritza eta merkataritza egiten zuen tokia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Nire herria zigor izugarri batek hartu zuen ni salbatu nintzen bitartean, Ala-rekiko nire betebeharra bete nuelako.",
+        "Sinesgabeak tximino bihurtu ziren Alaren muga sakratuak hautsi zituztenean.",
+        "Nire etsaiek fedea bereganatu zuten eraldaketa miragarri bat ikusi ondoren",
+        "Lurra euri ugariz eta oparotasunez bedeinkatu zen herria damutu ondoren",
+        "Nire herriak martirizatu ninduen nire misioa uzteari uko egiteagatik."
+      ],
+      "answer": "Nire herria zigor izugarri batek hartu zuen ni salbatu nintzen bitartean, Ala-rekiko nire betebeharra bete nuelako."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

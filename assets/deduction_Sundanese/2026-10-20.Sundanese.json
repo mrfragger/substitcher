@@ -1,0 +1,61 @@
+{
+  "title": "Arsiték Ambisi Palsu",
+  "intro": "Hiji tokoh anu miboga kakawasaan anu ageung kantos ngajabat salah sahiji tiran anu paling kasohor dina sajarah di Mesir kuno. Jalmi ieu dipercaya ku paréntah anu wani — pikeun ngawangun struktur anu dimaksudkeun pikeun ngalawan langit. Carita aranjeunna nangtung dina Al-Quran salaku palajaran anu pikaresepeun ngeunaan kumaha kataatan buta kana adigung ngan ukur ngarah kana karusakan.",
+  "clues": [
+    "Abdi ngajabat di karaton saurang pamingpin anu kuat anu ngaku jadi tuhan di nagri-nagri éta.",
+    "Kuring nyepeng kalungguhan menteri anu luhur, méré saran ka tiran anu paling adigung dina jaman kuring.",
+    "Pamingpin kuring ambek pisan nangtang Allahna Musa, anu ku maranéhna ditolak.",
+    "Abdi diparentahkeun pikeun ngadamel menara tina bata anu dipanggang dina seuneu supados pamingpin abdi tiasa naék ka sawarga.",
+    "Menara éta teu kungsi nepi ka langit, jeung kalakuan kuring nu adigung ngajadikeun kuring ngarasa aib salamina.",
+    "Kuring binasa bareng jeung anu kuring turutan, sarta ngaran kuring jadi pépéling anu langgeng ngalawan jalma-jalma anu méré kasempetan ka para tiran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Haman",
+        "Azar (rama Ibrahim)",
+        "Ilyas (nabi)",
+        "Dhu al-Kifl",
+        "Harut (salah sahiji ti dua malaikat di Babilonia)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Diparentahkeun pikeun ngawangun wangunan anu jangkung pikeun ngahontal langit",
+        "Dipénta pikeun napsirkeun impian anu dikirim ti ilahi",
+        "Dilebur kana seuneu anu ngagedur salaku ujian iman",
+        "Dipaksa milih antara tahta jeung bebeneran",
+        "Ditantang dina kontes sihir"
+      ],
+      "answer": "Diparentahkeun pikeun ngawangun wangunan anu jangkung pikeun ngahontal langit"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Menara bata anu dibeuleum ku seuneu",
+        "Tongkat anu robah jadi oray",
+        "Kapal anu ngaliwat banjir ageung",
+        "Kebon anu dikurilingan ku témbok anu jangkung",
+        "Tahta anu dihias ku batu mirah jeung emas"
+      ],
+      "answer": "Menara bata anu dibeuleum ku seuneu"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Tilelep di gigireun penindas di laut",
+        "Janten raja anu kuat di tanah anu lega",
+        "Kabur tina seuneu anu ngagedur tanpa cilaka",
+        "Ngawangun karajaan anu makmur tur pinuh ku hikmah",
+        "Tepang deui sareng kulawarga saatos mangtaun-taun diasingkeun"
+      ],
+      "answer": "Tilelep di gigireun penindas di laut"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

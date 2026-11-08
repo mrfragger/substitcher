@@ -1,0 +1,61 @@
+{
+  "title": "La font jos la sabla",
+  "intro": "Dins los annals de l'Alcoran, una figura d'immensa paciéncia afrontèt un jutjament que trencariá los còrs mai fòrts. Tot foguèt despolhat - riquesa, familha, e santat. Pasmens dempuèi las prigondors del desespèr, una pregària umila foguèt responduda del biais mai inesperat. Podètz identificar aquela anma que son istòria de restauracion fa resson dins los sègles?",
+  "clues": [
+    "Foguèri testat amb un ensag tan grèu que se remembra al cors dels sègles.",
+    "Perdèri tot çò qu'importava - ma riquesa, mos enfants, e ma santat.",
+    "Mon còrs èra cobèrt de nafraduras dolorosas, e èri esquivat per totes.",
+    "Dins mon desespèr, cridèri a Allah, en disent que Satan m'aviá tocat amb de dificultats e de torments.",
+    "Allah me respondèt e me comandèt de tustar la tèrra amb mon pè.",
+    "D'aquel quite endrech, una font fresca esclatèt, e Allah restabliguèt ma familha e las doblèt coma una pietat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Ayyub",
+        "Lo profèta Musa",
+        "Lo profèta Ilyas",
+        "Lo profèta Sulayman",
+        "Lo profèta Dawud"
+      ],
+      "answer": "Lo profèta Ayyub"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Malautiá grèva e pèrda de familha e de riquesa",
+        "Èsser engolit per una granda balena",
+        "Exili de la ciutat de Meca",
+        "Empresonament dins un potz prigond",
+        "Confrontacion amb un governant arrogant"
+      ],
+      "answer": "Malautiá grèva e pèrda de familha e de riquesa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una font fresca de la tèrra",
+        "Una barca sus una granda inondacion",
+        "Un baston que fendèt la mar",
+        "Un tròn elevat de veire",
+        "Una cauna murada per dormir"
+      ],
+      "answer": "Una font fresca de la tèrra"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La familha e la riquesa restauradas e dobladas",
+        "Sortida del ventre d'un peis",
+        "Passatge segur a travèrs d'aigas separadas",
+        "Un reialme donat per governar",
+        "La naissença miraculosa d'un filh dins la vielhesa"
+      ],
+      "answer": "La familha e la riquesa restauradas e dobladas"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

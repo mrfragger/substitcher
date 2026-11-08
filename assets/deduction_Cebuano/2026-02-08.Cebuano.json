@@ -1,0 +1,60 @@
+{
+  "title": "Ang Enigma sa Layong Trono",
+  "intro": "Usa ka gamhanang monarko, nga gipanalanginan og talagsaong dominyo, miatubang og usa ka talagsaon nga hagit nga naglambigit sa usa ka rayna gikan sa halayong yuta. Ang monarko naningkamot sa pagpakita sa balaang gahum ug kaalam, nga nagsugod sa usa ka talagsaong panghitabo nga misupak sa mga balaod sa panahon ug kawanangan. Makahinapos ka ba sa mga detalye niining milagrosong panghitabo?",
+  "clues": [
+    "Ang usa ka magmamando gihatagan ug dakong gahom, lakip ang pagkontrolar sa dili makita nga mga binuhat ug ang abilidad sa pagmando sa mga hangin.",
+    "Nakadawat og balita kining magmamando bahin sa usa ka adunahang rayna nga nagsimba sa adlaw, ug nakahukom nga dapiton siya sa korte.",
+    "Sa wala pa moabot ang rayna, ang magmamando nagpahayag sa iyang tinguha nga dad-on ang iyang mahimayaong trono sa gahum gikan sa iyang halayong gingharian.",
+    "Usa ka gamhanang jinn ang mitanyag nga kuhaon ang butang sa dili pa makatindog ang magmamando gikan sa iyang konseho.",
+    "Apan, ang usa nga adunay lawom nga kahibalo sa Balaang Kasulatan nagtanyag og mas paspas nga pagsabot, nga nakakompleto sa buluhaton diha-diha dayon.",
+    "Pag-abot niini, gimando sa magmamando nga usbon ang butang aron masulayan ang salabutan ug panabut sa rayna sa dihang makaabot na siya sa palasyo."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Propeta/Tawo",
+      "options": [
+        "Propeta Moises",
+        "Propeta David",
+        "Propeta Ibrahim",
+        "Propeta Yusuf",
+        "Propeta Sulayman"
+      ],
+      "answer": "Propeta Sulayman"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang Pagkabahin sa Dagat",
+        "Ang Pasensya sa Kalisod",
+        "Ang Pagtukod sa Kaaba",
+        "Ang Pagsulay sa mga Hardin",
+        "Pagdala sa Trono sa Reyna"
+      ],
+      "answer": "Pagdala sa Trono sa Reyna"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Arka",
+        "Ang mga kawani",
+        "Ang Bukid",
+        "Ang Atabay",
+        "Ang Trono"
+      ],
+      "answer": "Ang Trono"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Usa ka dakong sakripisyo",
+        "Usa ka gingharian nga natukod",
+        "Usa ka katawhan ang gisilotan",
+        "Usa ka bag-ong pakigsaad",
+        "Ang Pagpaubos sa Reyna ngadto kang Allah"
+      ],
+      "answer": "Ang Pagpaubos sa Reyna ngadto kang Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

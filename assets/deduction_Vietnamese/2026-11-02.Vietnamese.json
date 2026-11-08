@@ -1,0 +1,61 @@
+{
+  "title": "Người đồng minh kiên định trong cuộc thử thách vàng.",
+  "intro": "Dưới bóng vị tiên tri vĩ đại, một tâm hồn hùng biện và đức tin vững vàng đã được chọn để hỗ trợ trong một sứ mệnh trọng đại. Nhân vật này đã đứng vững khi quần chúng dao động, lên án một tội lỗi trắng trợn đe dọa đến tận cốt lõi của chủ nghĩa độc thần. Khi vị tiên tri trở lại chứng kiến ​​sự sa ngã của dân chúng, lời bào chữa của nhân vật này không phải là sự hối hận mà là bổn phận và nỗi sợ hãi về sự chia rẽ. Vị tôi tớ tận tụy này của Allah là ai?",
+  "clues": [
+    "Tôi được Allah chọn để thực hiện một nhiệm vụ thiêng liêng cùng với một người khác, và vai trò của tôi là hỗ trợ và truyền bá.",
+    "Tôi được ban cho khả năng nói năng lưu loát, và tôi đã cùng một sứ giả đối đầu với một kẻ áp bức quyền lực.",
+    "Trong một chuyến đi quan trọng, người đưa tin đã một mình leo núi, để tôi ở lại trông coi mọi người.",
+    "Trong lúc họ vắng mặt, dân chúng đã làm một bức tượng vàng, và tôi khẩn cầu họ hãy giữ vững đức tin, nhưng họ đã từ chối lời khuyên của tôi.",
+    "Khi người đưa tin trở về, lòng đầy giận dữ và đau buồn, tôi bị bắt giữ, nhưng tôi giải thích rằng mình đã bị áp đảo và sợ gây ra bất hòa giữa họ.",
+    "Tôi là vị tiên tri đã sát cánh bên Musa, anh trai tôi, cùng chia sẻ gánh nặng với anh ấy và kiên định chống lại sự thờ cúng thần tượng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Harun",
+        "Tiên tri Musa",
+        "Tiên tri Isa",
+        "Tiên tri Dawud",
+        "Tiên tri Zakariyya"
+      ],
+      "answer": "Tiên tri Harun"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Người dân vẫn thờ cúng con bê vàng bất chấp những lời cảnh báo.",
+        "Người ta ném tôi vào một đám cháy dữ dội.",
+        "Tôi bị một con cá lớn nuốt chửng.",
+        "Tôi bị giam giữ với những cáo buộc sai trái.",
+        "Tôi bị trục xuất khỏi thành phố vì tội rao giảng."
+      ],
+      "answer": "Người dân vẫn thờ cúng con bê vàng bất chấp những lời cảnh báo."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con bê vàng",
+        "Bụi cây bốc cháy",
+        "Cây gậy biến thành rắn",
+        "Các Tấm Bảng Giao Ước",
+        "Hòm Giao Ước"
+      ],
+      "answer": "Con bê vàng"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Tôi được minh oan và tiếp tục sứ mệnh tiên tri của mình.",
+        "Tôi bị trừng phạt vì tội lỗi của dân chúng.",
+        "Tôi được giao trọng trách dẫn dắt một quốc gia mới.",
+        "Tôi được đưa lên thiên đường khi còn sống.",
+        "Tôi được phong làm người cai trị một vương quốc."
+      ],
+      "answer": "Tôi được minh oan và tiếp tục sứ mệnh tiên tri của mình."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den orubbliga upproparen till sanningen",
+  "intro": "En budbärare står ensam bland ett envist folk och kallar dem till den ende sanne Guden medan de förblir fästa vid falska avgudar. Denna profet bär ett namn som ekar av en kraftfull betydelse – \"den som söker skydd\" – men som bara får avvisande och förnekande. Genom mild övertalning och bestämda varningar bär denna själ ett gudomligt budskap som universum självt slutligen kommer att rättfärdiga. Kan du identifiera denna ståndaktiga figur som representerar en av de äldsta berättelserna i islamisk skrift?",
+  "clues": [
+    "Mitt folk dyrkade många gudar, medan jag kallade dem att tjäna honom som skapat himlarna och jorden.",
+    "Jag stod inför mitt folk och förklarade att jag inte skulle begära någon belöning från dem – min enda önskan var deras vägledning till rättfärdighet.",
+    "En väldig vind sändes över mitt folk som gudomligt straff, en vind som Koranen talar om i både plural och feminin form.",
+    "Till skillnad från vissa profeter fick jag inte en hustru eller några barn som nämns framträdande i min berättelse, för mitt uppdrag var att allena kalla mitt folk.",
+    "Mitt namn har en djup betydelse – relaterad till konceptet med skydd och tillflykt som man söker.",
+    "Mitt folk var känt under en specifik geografisk term för dalen de bebodde, och deras land beskrevs med särskilt förakt för dess brist på vegetation."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Hud",
+        "Profeten Salih",
+        "Profeten Shu'aib",
+        "Profeten Nuh",
+        "Profeten Hudayb"
+      ],
+      "answer": "Profeten Hud"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Jordens översvämning",
+        "Den brännande vinden",
+        "Förstörelsens jordbävning",
+        "Torkan och hungersnöden",
+        "Drunkningen i havet"
+      ],
+      "answer": "Den brännande vinden"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Jemens bördiga dal",
+        "Midjans sandöken",
+        "Thamuds klippiga dal",
+        "Ad-folkets forntida land",
+        "Egyptens kustregion"
+      ],
+      "answer": "Ad-folkets forntida land"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mitt folk omvände sig och kom in i paradiset",
+        "Ingen av mitt folk överlevde straffet",
+        "Jag togs upp levande liksom min bror Yunus",
+        "Jag emigrerade med mina följare till ett välsignat land",
+        "Vinden förintade endast de icke-troende medan de troende överlevde"
+      ],
+      "answer": "Ingen av mitt folk överlevde straffet"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

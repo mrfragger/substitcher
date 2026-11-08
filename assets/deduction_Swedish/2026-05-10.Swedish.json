@@ -1,0 +1,61 @@
+{
+  "title": "Byggarna av torn",
+  "intro": "För länge sedan uppstod en mäktig civilisation, utmärkt av sina imponerande konstruktionsbedrifter och sin formidabel styrka. Denna kollektiva enhet fick rikliga resurser och fysisk skicklighet, men de valde en väg av trots mot det gudomliga budskapet som sänts för att vägleda dem. Deras historia tjänar som en djupgående läxa i historiens annaler, ett bevis på konsekvenserna av att förkasta sanningen.",
+  "clues": [
+    "Vi gavs enorm fysisk styrka och storlek, till skillnad från alla andra folk i vår tid.",
+    "Vi var kända för att bygga stora byggnader och höga pelare på varje höjd, i tron ​​att vi skulle leva för evigt.",
+    "En budbärare från oss sändes för att varna oss och uppmanade oss att dyrka Allah allena och att överge våra avgudar.",
+    "Vi ifrågasatte arrogant vår budbärare och frågade om de bara kom till oss för att få oss att dyrka Allah och överge det som våra förfäder dyrkade.",
+    "Vårt land var välsignat med trädgårdar, källor och bördiga fält, men vi tillskrev vårt välstånd vår egen kraft, inte vår Skapare.",
+    "För vår ihärdiga misstro och hån blev vi slutligen förintade av en skrämmande, rasande vind som rasade i många dagar och nätter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Folket i Thamud",
+        "Fir'auns folk",
+        "Folket i Nuh",
+        "Människor i Madyan",
+        "Folket i 'Ad"
+      ],
+      "answer": "Folket i 'Ad"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att bli ombedd att offra en specifik kamel",
+        "Utmanas att producera tio suror som Koranen",
+        "Visas havets delning",
+        "Varnad av en profet om den annalkande översvämningen",
+        "Att förkasta en profet som varnade för att bygga överdrivet mycket och dyrka avgudar"
+      ],
+      "answer": "Att förkasta en profet som varnade för att bygga överdrivet mycket och dyrka avgudar"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken",
+        "Personalen",
+        "Elden",
+        "Staden Sodom",
+        "Höga pelare och starka boningar"
+      ],
+      "answer": "Höga pelare och starka boningar"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Drunknade i en stor översvämning",
+        "Slukad av jorden",
+        "Förvandlades till apor och svin",
+        "Förstördes av en dånande explosion",
+        "Förintad av en rasande, förödande vind"
+      ],
+      "answer": "Förintad av en rasande, förödande vind"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

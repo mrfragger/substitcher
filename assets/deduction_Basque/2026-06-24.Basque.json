@@ -1,0 +1,61 @@
+{
+  "title": "Sugar Itzaliezinaren Zaindaria",
+  "intro": "Irudi bat ikusezin den lekurik beldurgarrienaren atarian dago, beste inork nahi ez duen betebehar batekin arduratuta. Arima sufritzaileek errukia eskatzen dutenean, erantzun zorrotz bat oihartzun egiten du suzko ganberetan. Aurkitu al dezakezu betiko zaindari honen nortasuna?",
+  "clues": [
+    "Zigor leku beldurgarri baten sarreran nago, ikusezin batean.",
+    "Su bizi eta itzali ezina da nire betebehar solemnearen erdigunea.",
+    "Arima sufritzaileek nire izena oihukatzen dute, beren tormentu amaigabetik arintzeko eskatuz.",
+    "Otoitz egiten dutenean, adierazten dut ez direla inoiz alde egingo.",
+    "Ez naiz gizakia, ezta jinn-a ere — obedientzia hutsez sortutako izaki bat naiz.",
+    "Infernuko Suaren betiko zaindari izendatutako aingeru nagusia naiz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikel",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Infernuko jendeak bere tortura amaitzeko eskatzen du",
+        "Tronpeta jotzen da Judizioaren Eguna adierazteko",
+        "Korana Profetaren bihotzera agerian geratzen da",
+        "Profeta bat bere herriak su handi batera bota du",
+        "Harresi indartsu bat eraiki da nazio ustel bat edukitzeko"
+      ],
+      "answer": "Infernuko jendeak bere tortura amaitzeko eskatzen du"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Infernuko Sua (Jahannam)",
+        "Paradisuko mugan dagoen loto-arbola",
+        "Tronpeta zulatzaile bat",
+        "Suge bihurtzen den makila",
+        "Jainkozko tronu bikaina"
+      ],
+      "answer": "Infernuko Sua (Jahannam)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Infernuko biztanleei betiko geratuko direla esaten zaie",
+        "Infernuko biztanleak barkatuak eta askatuak dira",
+        "Infernuko biztanleei bigarren aukera ematen zaie fedean",
+        "Infernuko biztanleak leku fresko batera eramaten dituzte",
+        "Infernuko biztanleak tximista batek erabat suntsitzen ditu"
+      ],
+      "answer": "Infernuko biztanleei betiko geratuko direla esaten zaie"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

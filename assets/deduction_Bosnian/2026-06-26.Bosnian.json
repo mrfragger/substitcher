@@ -1,0 +1,61 @@
+{
+  "title": "Teret odbijenog dara",
+  "intro": "U zoru ljudske historije, kada je Zemlja još bila mlada i svijet zadržavao svoj prvi dah, jedna duša je stala pred Stvoritelja sa skromnom žrtvom. Ta žrtva je vagana na vagi božanskog prihvatanja - i utvrđeno je da je manjkava. Ono što je uslijedilo nije bila priča o oprostu, već o srcu proždiranom ljubomorom, što je dovelo do nepovratnog čina koji će odjekivati ​​kroz sva vremena. Ovo je priča o nekome čije je ime postalo sinonim za prvu tešku nepravdu ikada počinjenu.",
+  "clues": [
+    "Na svijet sam došao kao jedno od prve djece ikada rođene, od roditelja čiju priču dobro poznaješ.",
+    "Jednom sam prinio žrtvu Allahu, ali ona nije bila prihvaćena od mene - iako je žrtva mog brata ili sestre primljena s milošću.",
+    "Zavist i bijes su se ukorijenili u mom srcu, i prijetio sam da ću okončati život vlastite rodbine.",
+    "Moj brat me je upozorio da se bojim Allaha, ali mi ponos nije dozvoljavao da ga poslušam.",
+    "U trenutku strašne slabosti, počinio sam neopisivo djelo nad vlastitim bratom.",
+    "Nakon toga, nisam znao ni kako da sakrijem šta sam učinio - sve dok nije poslano stvorenje sa zemlje da me poduči."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Sin proroka Nuha",
+        "Poslanik Ismail",
+        "Poslanik Jusuf"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Prinošenje žrtve koja je odbijena, što je dovelo do prvog ubistva",
+        "Gradeći uzvišenu kulu da dosegne nebesa",
+        "Biti bačen u bijesnu vatru zbog vlastite vjere",
+        "Žrtvovanje vlastitog sina u znak poslušnosti Allahu",
+        "Biti progutan od strane velike ribe zbog izbjegavanja dužnosti"
+      ],
+      "answer": "Prinošenje žrtve koja je odbijena, što je dovelo do prvog ubistva"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrana koju je Allah poslao da demonstrira sahranu",
+        "Velika poplava koja je potopila cijeli narod",
+        "Štap koji se pretvorio u živu zmiju",
+        "Kamila koja je izašla iz kamene planine",
+        "Veličanstveni tron ​​nošen moćnim vjetrovima"
+      ],
+      "answer": "Vrana koju je Allah poslao da demonstrira sahranu"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postao od onih koji žale, opterećenih prvim ikada počinjenim zločinom",
+        "Allah mu je oprostio i podario mu vječni Raj",
+        "Uzdignut je na visok položaj proročanstva i mudrosti",
+        "Spašen je božanskom milošću nakon što je pozvao iz dubina tame",
+        "Data mu je vlast nad džinima, vjetrom i morima"
+      ],
+      "answer": "Postao od onih koji žale, opterećenih prvim ikada počinjenim zločinom"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

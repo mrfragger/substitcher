@@ -1,0 +1,61 @@
+{
+  "title": "El paesin sü la spunda del prucess",
+  "intro": "Te te truvet in d’un paesin de la costa, indué el son di onde se mes’cia cunt i susurr de un popul desmentegà. G’han ricevü el cumand de ripòs, ma la sò avidità g’ha purtà a una puniziun che se parla ancamò in di ton bass. Pœdet descüvrir chi l’eran?",
+  "clues": [
+    "Vivem in riva a la riva e g’hem ricevü el comand de osservar un dì de ripòs.",
+    "In quel dì, i pess vegnivan da noi in abundanza, ma a noi l’era vietà de ciapal.",
+    "Quaivun intra de nun g’ha avvertì cuntra la transgresiun, ma olter g’han cospirad per pescà inscì.",
+    "G’hem violad el comand sacr e g’hem purtà sü de nun una puniziun severa.",
+    "La noster puniziun l’è stada una trasformaziun che g’ha lassà sfigurà e disgrazià.",
+    "Sem stad trasfurmà en scimie, un segn per tüt quei che sarèsen vegnuu dopu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Gent del Sabat",
+        "Popol de Thamud",
+        "Gent de 'Ad",
+        "Gent de la Caverna",
+        "La gent del elefant"
+      ],
+      "answer": "Gent del Sabat"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Pescà in del Sabat",
+        "Adorà un vitell d’or",
+        "Negar el messaj de Hud",
+        "Matar la camel",
+        "Costruir una torr per el ciel"
+      ],
+      "answer": "Pescà in del Sabat"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El pess",
+        "Una camel",
+        "Un personal",
+        "Una barca",
+        "Un giardin"
+      ],
+      "answer": "El pess"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Trasfurmà en scimi",
+        "Distrutt de un’inondaziun",
+        "Distrutt de un fœuch ardent",
+        "Inglutì de la terra",
+        "Sparpagnà de un vent"
+      ],
+      "answer": "Trasfurmà en scimi"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

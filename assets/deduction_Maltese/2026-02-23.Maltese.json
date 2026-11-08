@@ -1,0 +1,61 @@
+{
+  "title": "Il-Leħen tal-Konvinzjoni Moħbija",
+  "intro": "Fil-qalba ta’ qorti tirannika, fejn in-nuqqas ta’ twemmin kien il-liġi tal-pajjiż, ruħ waħedha mxiet fuq ħabel irqiq ta’ fidi u biża’. Dan l-individwu, qrib iċ-ċentru tal-poter, sema’ l-messaġġ ta’ profeta li ntlaqa’ b’disprezz u theddid. Wasal mument ta’ verità, u ġiegħel lil din il-persuna tagħżel bejn is-sigurtà fis-skiet u li titkellem verità perikoluża. Tista’ tiskopri l-identità ta’ dan l-avukat kuraġġuż?",
+  "clues": [
+    "Għext fid-dar stess ta’ tirann, u rajt b’għajnejja stess l-arroganza li ċaħdet sinjali divini.",
+    "Żammejt il-fidi tiegħi sigrieta, teżor moħbi f’palazz ta’ idolatrija.",
+    "Smajt li l-mexxej li kont naqdi fih jippjana li joqtol messaġġier ta' Alla, raġel jismu Musa.",
+    "Jiena ddubitajt il-loġika tagħhom, u fakkarthom fid-destin tan-nies ta' Nuh, 'Ad, u Thamud.",
+    "Jiena staqsejt mistoqsija kritika lill-poplu tiegħi: 'Jekk hu giddieb, il-gidba tiegħu tinsab fuqu; imma jekk hu sinċier, xi wħud minn dak li jwiegħed se jolqtuk.'",
+    "L-istorja tiegħi hija rrakkuntata bħala eżempju ta’ fidi fis-surah bl-isem ‘Il-Maħfer,’ fejn wissejt lin-nies tiegħi kontra l-pjanijiet ta’ dawk fil-poter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Kredent mill-Familja ta' Fir'awn",
+        "Ħaman",
+        "Il-Maġi ta’ Fir'awn",
+        "Qarun",
+        "Is-Samiri"
+      ],
+      "answer": "Il-Kredent mill-Familja ta' Fir'awn"
+    },
+    "trial": {
+      "label": "X’Kienet il-Prova Tiegħi?",
+      "options": [
+        "Id-difiża tal-Profeta Musa fil-qorti tat-tirann",
+        "Nibnu torri għoli biex nilħqu s-smewwiet",
+        "Mitfugħ f’nar qawwi",
+        "Jinbela’ minn ħuta ġganteska",
+        "It-telf tal-ġid u s-saħħa kollha"
+      ],
+      "answer": "Id-difiża tal-Profeta Musa fil-qorti tat-tirann"
+    },
+    "location": {
+      "label": "X'kienet it-tema tal-argument tiegħi?",
+      "options": [
+        "Il-konsegwenza tar-rifjut tal-messaġġ ta’ profeta",
+        "It-talba għal sinjal minn siġra sagra",
+        "Il-ħolqien ta’ għoġol minn ġojjellerija mdewba",
+        "Il-miraklu tal-ġemel mill-blat",
+        "L-interpretazzjoni tal-ħolm ta’ ħakkiem"
+      ],
+      "answer": "Il-konsegwenza tar-rifjut tal-messaġġ ta’ profeta"
+    },
+    "outcome": {
+      "label": "X'kien ir-Riżultat?",
+      "options": [
+        "Alla salva lil dan l-individwu mill-pjan ħażin tagħhom",
+        "Il-qorti kollha aċċettat l-Islam immedjatament",
+        "It-tirann nidem fil-mument tal-għarqa",
+        "It-tirann inbela’ mill-art",
+        "L-individwu ġie eżiljat lejn art imbiegħda"
+      ],
+      "answer": "Alla salva lil dan l-individwu mill-pjan ħażin tagħhom"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

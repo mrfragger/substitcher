@@ -1,0 +1,61 @@
+{
+  "title": "Los arquitectos de la piedra",
+  "intro": "Imagina una civilización poderosa, dotada de fuerza y ​​habilidad, que esculpía grandiosas moradas en las laderas de las montañas. Este colectivo gozaba de una inmensa prosperidad y una destreza arquitectónica única. Sin embargo, a pesar de las claras advertencias, eligieron un camino que los llevaría a un final dramático e inolvidable. ¿Puedes identificar a este grupo cuya historia constituye una profunda lección para todos los que reflexionan?",
+  "clues": [
+    "Se nos concedió fuerza y ​​habilidad, lo que nos permitió esculpir magníficas casas directamente en las montañas.",
+    "Recibimos una señal clara de Alá: una criatura única que debía ser dejada pastar sin ser molestada.",
+    "Nuestra comunidad se volvió arrogante, desafiando el mensaje divino traído por un mensajero de entre nosotros.",
+    "Conspiramos para dañar la señal milagrosa, a pesar de las advertencias de un castigo severo.",
+    "Desobedecimos la orden de dejar que la criatura especial bebiera de nuestro pozo en días alternos.",
+    "Tuvimos un final devastador, abatidos por una sola y aterradora explosión tras nuestro acto de transgresión."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Gente de 'Anuncio'",
+        "Pueblo de Madián",
+        "Gente del elefante",
+        "Gente de Thamud",
+        "Pueblo de Lut"
+      ],
+      "answer": "Gente de Thamud"
+    },
+    "trial": {
+      "label": "Nuestro principal juicio/evento",
+      "options": [
+        "La inundación que asoló la tierra",
+        "La división del mar",
+        "La destrucción causada por una sola explosión/grito",
+        "El incendio de una ciudad",
+        "La transformación de una montaña en polvo"
+      ],
+      "answer": "La destrucción causada por una sola explosión/grito"
+    },
+    "location": {
+      "label": "Un elemento clave en nuestra historia",
+      "options": [
+        "Un becerro de oro",
+        "Una camella milagrosa",
+        "Una zarza ardiente",
+        "Un pájaro parlante",
+        "Un trono majestuoso"
+      ],
+      "answer": "Una camella milagrosa"
+    },
+    "outcome": {
+      "label": "Nuestro resultado final",
+      "options": [
+        "Se le concedió una inmensa riqueza y poder.",
+        "Elevado a la categoría de profeta",
+        "Aniquilación total por castigo divino",
+        "Perdonado tras un arrepentimiento sincero.",
+        "Dispersos por la tierra para vagar"
+      ],
+      "answer": "Aniquilación total por castigo divino"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

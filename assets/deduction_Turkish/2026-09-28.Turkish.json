@@ -1,0 +1,61 @@
+{
+  "title": "Eğilen On Bir Yıldız",
+  "intro": "Kur'an'da anlatılan bir şahsiyet, çocukluğunda gök cisimlerinin saygıyla eğildiği bir rüya görmüştür. Bu rüyanın gerçekleşmesi için yıllar boyunca ihanet, ayrılık, haksız suçlama ve hapis cezası yaşanmıştır. Kur'an'ın en uzun bölümünde yer alan bu dirençli ruh kimdir?",
+  "clues": [
+    "Bir zamanlar gençtim ve babamın bile bana gizli tutmamı söylediği olağanüstü bir hayalim vardı.",
+    "Kıskançlıktan gözleri kör olmuş öz kardeşlerim bana karşı komplo kurdular ve beni derin, karanlık bir kuyuya attılar.",
+    "Uzak bir diyara götürüldüm ve soylu bir memurun evine satıldım; orada itibar kazandım ve sorumluluklarım arttı.",
+    "Asılsız suçlamalar haksız yere hapse atılmama yol açtı, ancak o karanlık yerde Allah'a dua ve secde ederek teselli buldum.",
+    "Allah bana rüyaları yorumlama gibi nadir bir yetenek bahşetti; bu yetenek sonunda beni ülkenin hükümdarının huzuruna çıkardı ve beni yüksek bir güven makamına yükseltti.",
+    "Uzun yıllar süren ayrılığın ardından, sevgili ailemle yeniden bir araya geldim ve çocukluk hayalim olan on bir yıldızın, güneşin ve ayın bana saygı göstermesi nihayet gerçekleşti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yusuf",
+        "Peygamber Salih",
+        "Peygamber İlyas",
+        "Antik Himyar'ın hükümdarı Tubba'",
+        "Filistin tepelerinden mütevazı bir çoban."
+      ],
+      "answer": "Peygamber Yusuf"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kıskanç kardeşler tarafından derin, karanlık bir kuyuya atılmak",
+        "Derin denizlerin büyük bir yaratığı tarafından yutulmak",
+        "Putperestler tarafından alev alev yanan bir ateşe atılmak",
+        "İlahi bir yıkım rüzgarı tarafından sürüklenmek",
+        "Tüm toprakları kaplayan büyük bir selden sağ kurtulmak"
+      ],
+      "answer": "Kıskanç kardeşler tarafından derin, karanlık bir kuyuya atılmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Çölde terk edildiğim yerde kuru bir kuyu.",
+        "Derin denizlerin büyük bir balığı",
+        "İlahi emir üzerine inşa edilmiş devasa bir gemi.",
+        "Gökyüzüne ulaşmak için inşa edilmiş bir kule",
+        "Yanmayı reddeden kutsal bir ateş"
+      ],
+      "answer": "Çölde terk edildiğim yerde kuru bir kuyu."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Yıllar süren ayrılığın ardından ailesiyle yeniden bir araya geldi ve güvenilir bir din görevlisi oldu.",
+        "Halkımın büyük bir göçüne önderlik ettim, denizi yarıp geçtim.",
+        "Milletimi onları yok edecek olan yaklaşan felaket konusunda uyardım.",
+        "Herkes için bir sığınak haline gelen kutsal bir ev inşa edildi.",
+        "Üç gün sonra büyük bir yaratığın karnından sağ salim çıktım."
+      ],
+      "answer": "Yıllar süren ayrılığın ardından ailesiyle yeniden bir araya geldi ve güvenilir bir din görevlisi oldu."
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

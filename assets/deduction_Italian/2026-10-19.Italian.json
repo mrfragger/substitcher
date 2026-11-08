@@ -1,0 +1,61 @@
+{
+  "title": "Il reietto dei cieli",
+  "intro": "Un essere misterioso si erge al crocevia tra la creazione e il rifiuto. La sua storia è intrisa di un'arroganza senza pari e di una sfida estrema a un comando divino. La sua scelta riecheggia in ogni generazione, diventando una prova per ogni anima che nasce in questo mondo. Riuscirai a identificare questo eterno avversario?",
+  "clues": [
+    "Ero presente a un evento di importanza cosmica, quando un nuovo essere venne formato dall'argilla e ricevette la vita dal Soffio del Misericordioso.",
+    "Io stesso sono stato generato da un unico elemento fiammeggiante, a differenza di quell'essere di polvere.",
+    "Mi fu impartito un comando che ritenni al di sotto del mio grado.",
+    "L'orgoglio mi gonfiò dentro e mi rifiutai categoricamente di obbedire a quell'ordine.",
+    "Mi è stata concessa una proroga fino a un giorno stabilito, affinché potessi perseguire il mio dichiarato scopo di ingannare gli altri.",
+    "Io sono il nemico dichiarato di tutti coloro che camminano sulla terra, sussurro inganni e li allontano dalla retta via."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Iblis (Satana)",
+        "Faraone (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satana)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Si rifiutò di inchinarsi davanti ad Adamo",
+        "Ha affermato falsamente di essere divino",
+        "Forgiato un vitello d'oro per il culto",
+        "Ha ucciso suo fratello per invidia",
+        "Guidò l'opposizione politeista alla Mecca"
+      ],
+      "answer": "Si rifiutò di inchinarsi davanti ad Adamo"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Paradiso (Jannah)",
+        "Il palazzo del faraone in Egitto",
+        "La valle sacra di Tuwa",
+        "Le profondità del mare",
+        "Il giardino di Saba"
+      ],
+      "answer": "Paradiso (Jannah)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Concessa tregua fino al Giorno del Giudizio",
+        "Annegati insieme all'esercito in mare",
+        "Inghiottito dalla terra insieme ai tesori",
+        "Trasformati in scimmie per aver violato il sabato",
+        "Bruciato dalle pietre scagliate dal cielo"
+      ],
+      "answer": "Concessa tregua fino al Giorno del Giudizio"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

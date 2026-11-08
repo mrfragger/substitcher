@@ -1,0 +1,61 @@
+{
+  "title": "La melodia che g’ha spustà i montagn",
+  "intro": "Te l’è drèe a descoverzer la storia de un servidor notevol de Allah. Ind una tera de messajer e governants, qesta figura l’è staita benedeta cond un liber divin, una vus potent e una forza sora el ferr. Menter leget i indizi, pœdet identificar chi podaria vèss?",
+  "clues": [
+    "Mi l’eri un servitur de Allah che g’ha ricevü un liber special.",
+    "G’havevi una vus bella, e i me ludi l’eran inscì amad che anca i culin e i usèi se univan a mi.",
+    "Ho afruntà ün aversari formidabil in una famusa bataja, e anca se l’eri pusè piscinin, ho vinciü.",
+    "El ferr l’è stà rendü flessibil per mi, e me permeteva de fabricà un’armadüra cunt i mè man.",
+    "Mi sun stà fatt suvran sü una grand naziun, e la me savieza in del giudizi l’era famusa.",
+    "Mio fiœl, anca lü un profeta, g’ha ricevü el cuntrol del vent e di jinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El prufeta Dawud (David)",
+        "Profeta Sulaiman (Salomon)",
+        "Profeta Musa (Mosè)",
+        "Profeta Arun (Aaron)",
+        "Profeta Ilia (Elia)"
+      ],
+      "answer": "El prufeta Dawud (David)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Scunfitt Goliat (Jalut)",
+        "Separava el mar",
+        "Soravissü a la balena",
+        "L’è stà butà denter del fööch",
+        "Costruì l'Arca"
+      ],
+      "answer": "Scunfitt Goliat (Jalut)"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El Zabur (Salmi)",
+        "La Tora (Tawrat)",
+        "El Vangel (Injil)",
+        "I rull de Ibrahim",
+        "El Coran"
+      ],
+      "answer": "El Zabur (Salmi)"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "L’è diventà un prufet e re de Israel",
+        "L’è diventà el suvran del Egitt",
+        "L’è stà levà sü in del ciel",
+        "L’è stada distrutta de una tempesta",
+        "Diventà compagn de la caverna"
+      ],
+      "answer": "L’è diventà un prufet e re de Israel"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

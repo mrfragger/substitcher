@@ -1,0 +1,61 @@
+{
+  "title": "El pazient",
+  "intro": "Tant temp fa, in di primi temp de la storia del òmm, dü anim se truvavan davaant al luur Creatur cun ofèrt. Un l’è stà acetà, un l’è stà no. Quel che l’è vegnü dopu l’è diventad la prima tragedia tra i fradell e surel, ün att de freno pazient e ün att de vendetta. Pœdet descüvrir chi sun?",
+  "clues": [
+    "Sun nassuu in di primi dì del esistenza del òmm sü la terra",
+    "Mi l’eri un bagaj de la prima copia de gent che g’ha mai camminà sü la terra",
+    "Una volta g’ho ufrì un sacrifici del mej del me gregg per fär piasè al me Creatur",
+    "La mia ufèrta l’è stada acetada de sora, mentre chela di me fradèi l’è stada refüdada",
+    "Quand sunt stad minaciad de mort, g’ho decidü de alzà no la man cuntra i me fradell e surel.",
+    "Sun diventà la prima persuna in de la storia del òmm a vess copà per sbagli da un olter"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Habil (Abel), fiœl de Adam",
+        "Qabil (Cain), fiœl de Adam",
+        "Adam, el prim òmm",
+        "Nuh (Noè)",
+        "Ibrahimo (Abrahimo)"
+      ],
+      "answer": "Habil (Abel), fiœl de Adam"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "El prim omicidio in de la storia del òmm",
+        "El grand diluvio de Nuh",
+        "La distruziun del esercit de Fir'awn",
+        "El sacrifici de Ismail de Ibrahim",
+        "La bataja contra Jalut (Goliat)"
+      ],
+      "answer": "El prim omicidio in de la storia del òmm"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una pégora ufrida cuma sacrifici piacevul",
+        "Una grand arca de legn",
+        "Un bastun che s’è trasfurmà en serpent",
+        "Un usèll che purtava un messagg real",
+        "Una fossa de fœg ardent"
+      ],
+      "answer": "Una pégora ufrida cuma sacrifici piacevul"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "L’è diventada la prima vitima de omicidio in de la storia del òmm",
+        "Soravissü a una grand inondaziun denter de un vass de legn",
+        "Viveva denter del panza de un grand pess",
+        "Guvernava süi jinn, süi òmm e sül vent",
+        "Vagabond per quaranta an in d’un vast deserto"
+      ],
+      "answer": "L’è diventada la prima vitima de omicidio in de la storia del òmm"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Murhwali wa Swikombiso swa Nhungu",
+  "intro": "Xifaniso xi pfukile eka masungulo yo titsongahata swinene, na vumundzuku lebyi tsariweke hi ku navela ka Xikwembu. Leswi a a tumbele ekule loko a ha ri ricece naswona a kurisiwe endzeni ka marhangu ya mufumi loyi a a lava ku lovisa vanhu va vona, moya-xiviri lowu wu hetelele wu vitaniwile eka vurhumiwa bya matimba. Leswi a va nga hlomisi nchumu handle ka ripfumelo ni nhonga ya murisi leyi titsongahataka, a va yima emahlweni ka mufumi wa matimba swinene wa nguva yoleyo naswona a va lava ntshunxeko eka lava a va ri mahlonga. Misava hi yoxe a yi vonaka yi famba hi ku lerisa ka vona — mati ma hambanile, matilo ma vulavula, kutani mfumo wu wa.",
+  "clues": [
+    "Masiku ya mina yosungula aya funghiwe hiku chava — tincece tofana na mina ati hlotiwa loko titswariwa hi mufumi loyi angari na tintswalo loyi a chava vumundzuku.",
+    "Ndzi ponisiwile hi mati kutani ndzi kurisiwa endzeni ka xigodlho xa mufumi loyi a a lava ku lovisiwa ka mina.",
+    "Ndzi balekile etikweni ra rikwavo endzhaku ka xiendlakalo xa xitshuketa, ndzi va murisi la titsongahataka etikweni ra le kule.",
+    "Ndzi tlhelele ndzi ya langutana ni mufumi yoloye wa matimba hi nhonga yo olova ni rungula leri nga erivaleni, ndzi lava ntshunxeko wa vanhu va mina.",
+    "Ndzi avanyise ntsumbu lowukulu wa mati eka lava a va ndzi landzela, ndzi languta loko mati wolawo ma mita nala wa mina a helerile.",
+    "Ndzi khandziye ntshava yo kwetsima leswaku ndzi kuma nkongomiso wa Xikwembu lowu humaka eka Allah, naswona ndzi nyikiwe swikombiso swa nhungu leswi nga erivaleni tanihi vumbhoni bya ntiyiso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Musa",
+        "Muprofeta Nuh",
+        "Muprofeta Ibrahim",
+        "Muprofeta Yusuf",
+        "Muprofeta Lut"
+      ],
+      "answer": "Muprofeta Musa"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku langutana na Faro ehubyeni ya yena",
+        "Ku aka Areka leswaku u pona ndhambi leyikulu",
+        "Ku hoxiwa endzilweni lowu pfurhaka hi vaendli va swifaniso",
+        "Ku ehlisiwa exihlobyeni lexi dzimeke hi vamakwerhu",
+        "Ku ringeta ku sivela vanhu va mina ku tikhoma hi ndlela yo biha"
+      ],
+      "answer": "Ku langutana na Faro ehubyeni ya yena"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Nhonga leyi hundzukeke nyoka",
+        "Areka ya Nuh",
+        "Xiluvelo xa Bilqis",
+        "Ring leyi a yi lawula moya na jinn",
+        "Swilotlelo swa rifuwo leri hlengeletiweke swi tika swinene"
+      ],
+      "answer": "Nhonga leyi hundzukeke nyoka"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U rhangele vanhu va mina va tsemakanya mati lama avaneke va ya eku ntshunxeni",
+        "U ponisiwile eka ndhambi leyikulu endzeni ka Areka",
+        "U vuyisiwile eka rihanyo na ndyangu endzhaku ka ku xaniseka lokukulu",
+        "U hlongoriwile eka nhlampfi leyikulu a ha hanya",
+        "U ake masungulo ya Yindlu yo Kwetsima"
+      ],
+      "answer": "U rhangele vanhu va mina va tsemakanya mati lama avaneke va ya eku ntshunxeni"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

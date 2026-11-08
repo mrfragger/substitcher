@@ -1,0 +1,61 @@
+{
+  "title": "Déi grouss Ënneruerdnung vum Souverän",
+  "intro": "Dir fannt Iech an engem Land vun antike Wonner a profunder Offenbarung. Eng mächteg Herrscherin, déi mat enger onerwaarter Invitatioun konfrontéiert ass, huet sech op eng Rees begéint, déi de Verlaf vun hirem Schicksal an de Glawe vun hirem Vollek verännere géif. Kënnt Dir d'Identitéit vun dëser majestéitescher Figur entdecken?",
+  "clues": [
+    "Ech hunn iwwer e räicht Kinnekräich regéiert, dat mat immense Räichtum an engem prächtegen Troun gepréiert war.",
+    "Mäi Vollek an ech hunn en Himmelskierper ugebiet, a gegleeft, datt et eisen Här wier, obwuel ech Zweiwel a mengem Häerz gehat hunn.",
+    "E besonnesche Bote, e Vugel, huet mir e Bréif geliwwert, an deem hien mech a mäi Vollek zur Ënneruerdnung dem Eenzege Gott opgeruff huet.",
+    "Ech hunn meng Beroder, déi mächteg a staark waren, konsultéiert, wéi ech op dës ongehéiert Botschaft reagéiere soll.",
+    "Ech hunn decidéiert, deem, deen de Bréif geschéckt huet, e wäertvollt Kaddo ze schécken, an der Hoffnung, seng Muecht a seng Intentiounen ze moossen.",
+    "Bei menger Arrivée war ech vun engem Palais mat engem Buedem aus Glas erstaunt, deen ausgesinn huet wéi e Waasserlach, an do hunn ech meng Ënneruerdnung dem Här vun der ganzer Schöpfung erkläert."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Pharao",
+        "Kinnigin vu Scheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Prophet Yusuf"
+      ],
+      "answer": "Kinnigin vu Scheba"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Spaltung vum Mier",
+        "Déi grouss Iwwerschwemmung",
+        "D'Rees fir de Prophet Sulayman ze treffen",
+        "D'Zerstéierung vum Vollek vu Lut",
+        "D'Verbrennung vum Prophet Ibrahim"
+      ],
+      "answer": "D'Rees fir de Prophet Sulayman ze treffen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark",
+        "D'Personal",
+        "Den Troun",
+        "De Bierg",
+        "D'Feier"
+      ],
+      "answer": "Den Troun"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ass e Prophet ginn",
+        "Gouf vun Allah zerstéiert",
+        "Den Islam akzeptéiert",
+        "Hir Leit an de Krich gefouert",
+        "E groussen Tempel gebaut"
+      ],
+      "answer": "Den Islam akzeptéiert"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

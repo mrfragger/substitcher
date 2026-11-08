@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Ringa Kanga",
+  "intro": "Kei te tū koe i ngā ara piko o Makkah onamata, te wāhi i tahuri ke ai te wairua whai mana me te whai rawa i te karanga o te pono. He whakamahara nui te kōrero a tēnei tangata kāore e taea e ngā hononga toto te wikitoria i ngā mekameka o te whakapehapeha. Ko wai tēnei tangata e haruru ana tōna ingoa i roto i te ahi e tatari ana?",
+  "clues": [
+    "I hikoi ahau i ngā tiriti o Makkah me te whakapehapeha i whakamatapo i ahau ki te pono, ahakoa nōku ake te karere.",
+    "He nui rawa aku taonga, engari i riro hei kanga, ehara i te whakangungu rakau.",
+    "E kōrero ana te pukapuka arataki mō tōku whakangaromanga, e kī ana ka ngaro ōku ringa me tōku tinana.",
+    "I uru atu taku hoa rangatira ki taku pakanga mauahara, i kohikohi tataramoa hei hora i te ara o te tangata i karanga ki a Allah.",
+    "I te rā o te whakawa, ka rukuhia ahau ki te ahi mura, ā, ka herea taku hoa rangatira ki te taura muka nikau hei whitiki mō tōna kaki.",
+    "E mōhiotia ana ahau i tētahi ingoa ko tōna tikanga ko 'matua o te mura' — he ingoa e tohu ana i tōku kāinga mutunga kore."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Āpu Rāhapi",
+        "Āpu Jahl",
+        "Āpu Tāripi",
+        "Āpu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Āpu Rāhapi"
+    },
+    "trial": {
+      "label": "Whakamātautau Matua, Takahanga rānei",
+      "options": [
+        "I whakahē i te Poropiti, ā, i kanga i roto i te Quran",
+        "I ārahi i tētahi ope taua ki te whakangaro i te Kaaba",
+        "I ngana ki te patu i te Poropiti mā te maka kohatu",
+        "I whakakahore ki te whakapono ki te wehenga o te marama",
+        "I hanga he pourewa hei eke ki te rangi"
+      ],
+      "answer": "I whakahē i te Poropiti, ā, i kanga i roto i te Quran"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Ahi mura o te Reinga",
+        "Ngā Rākau o Musa",
+        "Te Āka o Noa",
+        "Te Puna o Zamzam",
+        "Te Kuao Kau Koura"
+      ],
+      "answer": "Te Ahi mura o te Reinga"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Ka tomo ia ki te ahi mura, ā, e kore ana taonga e whai hua ki a ia",
+        "I ripeneta ia, ā, ka whakapono",
+        "I murua tana hara i muri i tana whakarēreatanga",
+        "I mate ia hei mātārai",
+        "I tangohia ia ki te rangi"
+      ],
+      "answer": "Ka tomo ia ki te ahi mura, ā, e kore ana taonga e whai hua ki a ia"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

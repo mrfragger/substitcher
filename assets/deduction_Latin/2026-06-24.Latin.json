@@ -1,0 +1,61 @@
+{
+  "title": "Custos Flammae Inextinguibilis",
+  "intro": "Figura stat ad limen loci occultissimi formidulosissimi, officio cui nulla alia creatura optat commissa est. Cum animae dolentes misericordiam implorant, responsio severa per cubicula ignis resonat. Potesne identitatem huius aeterni custodis detegere?",
+  "clues": [
+    "Ad introitum loci supplicii terribilis in invisibili sto.",
+    "Ignis ardens et inextinguibilis est centrum sollemnis officii mei.",
+    "Animae dolentes nomen meum invocant, levamen ab infinito cruciatu suo implorantes.",
+    "Cum obsecrabunt, profiteor eos numquam discessuros esse.",
+    "Non sum homo, nec jinn — sum ens creatum purae oboedientiae.",
+    "Ego sum angelus princeps qui aeternus custos Inferni constitutus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Michael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Populus Inferni implorat ut tormenta sua finem accipiant",
+        "Tuba inflatur ad diem iudicii significandum",
+        "Alcoranus cordi Prophetae revelatur",
+        "Propheta in magnum ignem a populo suo coniicitur",
+        "Murus ingens aedificatur ad continendam gentem corruptam"
+      ],
+      "answer": "Populus Inferni implorat ut tormenta sua finem accipiant"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ignis Infernalis (Jahannam)",
+        "Arbor Lotus ad finem Paradisi",
+        "Tuba penetrans",
+        "Baculus qui in serpentem se transformat",
+        "Magnificum thronum divinum"
+      ],
+      "answer": "Ignis Infernalis (Jahannam)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Incolis Inferni dicitur se in aeternum mansuros esse",
+        "Incolae Inferni veniam accipiunt et liberantur",
+        "Incolis Inferni secunda occasio fidei conceditur",
+        "Incolae Inferni in locum frigidum transferuntur",
+        "Incolae Inferorum fulmine penitus delentur"
+      ],
+      "answer": "Incolis Inferni dicitur se in aeternum mansuros esse"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

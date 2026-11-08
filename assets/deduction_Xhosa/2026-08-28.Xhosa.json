@@ -1,0 +1,61 @@
+{
+  "title": "Isithintelo kwiNdlu yamandulo",
+  "intro": "Kwisixeko esingcwele, umntu onamandla wayevutha ngumsindo njengoko umyalezo omtsha wawuqala ukusasazeka. Lo mntu, ogama lakhe laziwa ngokuba yinkcaso yenyaniso, wabukela impembelelo yakhe idilika phantsi kobunzima besityhilelo sikaThixo. Yayingubani lo mphefumlo, owathi ikamva lakhe lavalwa entlabathini yedabi elidumileyo?",
+  "clues": [
+    "Ndandiyinkosi phakathi kwabantu bakowethu, ndisaziwa ngobutyebi bam nangempembelelo kwisixeko esasinendawo yokusabela yakudala.",
+    "Xa indoda yesizwe sam yaqala ukuvakalisa umyalezo kaThixo omnye, ndayihleka yena kunye nezityhilelo zakhe, ndizibiza ngokuba ngamabali nje exesha elidlulileyo.",
+    "Ndajongana naloo ndoda njengoko yayithandaza kufutshane nesakhiwo esingcwele, ndisongela ngokuyimisa ngenkani inkonzo yayo ukuba kuyimfuneko.",
+    "Ndandiphakathi kweenkokheli ezaziceba ukuthulisa olu nqulo lutsha, zichasa abalandeli balo ngamazwi nangezixhobo.",
+    "Ndahamba nomkhosi ndaya kwindawo ebizwa ngokuba yiBadr, ndiqinisekile ukuba siza kutyumza iqela elincinci lamakholwa.",
+    "Kodwa kuloo dabi, ubomi bam baphela, ukufa kwam kwaba sisifundo kwabo baqhubeka bengakholwa emva kwemiqondiso ecacileyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "U-Abu Jahl",
+        "U-Abu Sufyan ibn Harb",
+        "U-Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "U-Abu Jahl"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuthintela uMprofeti ukuba athandaze eKaaba",
+        "Ukwakha iKaaba",
+        "Ukubhala iQuran",
+        "Ukukhokela umkhosi wendlovu",
+        "Ukwahlula inyanga"
+      ],
+      "answer": "Ukuthintela uMprofeti ukuba athandaze eKaaba"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "IKaaba",
+        "Ityeya yoMprofeti uNuh",
+        "Intonga yoMprofeti uMusa",
+        "Ithole Legolide",
+        "Itrone yoKumkanikazi waseShebha"
+      ],
+      "answer": "IKaaba"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Wabulawa kwiMfazwe yaseBadr",
+        "Ndaguquka ndaza ndaba ngumSilamsi",
+        "Wabalekela eAbyssinia",
+        "Wafa Ngonyaka weNdlovu",
+        "Waba liqabane loMprofeti"
+      ],
+      "answer": "Wabulawa kwiMfazwe yaseBadr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ukukhanyela Phakathi Kobuninzi",
+  "intro": "Uzifumana uphakathi kwabantu abaneemarike ezigcwele urhwebo, kodwa izikali zabo zitsho ngokungathembekanga. Umthunywa ufikile kubo enezilumkiso ezicacileyo, kodwa bayahleka baze bajike, beqinisekile ngempumelelo yabo. Isibhakabhaka siqala ukuba mnyama, kodwa basibona njengentsikelelo yemvula. Ngoobani aba bantu?",
+  "clues": [
+    "Sachuma kumazwe orhwebo nobutyebi, kodwa iintliziyo zethu zaba lukhuni.",
+    "Isithunywa size kuthi nemiqondiso evela eNkosini yethu, kodwa sahlekisa ngezilumkiso zakhe.",
+    "Sasisaziwa ngomsebenzi wethu, kodwa sasibaqhatha abantu ngokukhawuleza.",
+    "Sasihlala phakathi kwemithi exineneyo nezityalo eziluhlaza, kodwa sazithatha lula iintsikelelo zethu.",
+    "Xa ilifu elimnyama lisondela, savuya, sicinga ukuba liza kuzisa imvula kumhlaba wethu owomileyo.",
+    "Kunoko, elo lifu lakhupha isohlwayo esitshisayo, saza sabanjwa yintlungu yemini yomthunzi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "UAshab al-Aykah (Amaqabane aseMthini)",
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu bakaLut",
+        "Abantu baseNuh"
+      ],
+      "answer": "UAshab al-Aykah (Amaqabane aseMthini)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Bamgatya umthunywa wabo baza baqhatha kurhwebo",
+        "Banqula ithole legolide baza balahlekiswa",
+        "Babesenza ubungqingili kwaye bahlasela abahambi",
+        "Bakha iinqaba ezinde baza bacela umngeni kuThixo",
+        "Bala ukwabelana ngamanzi baza balimaza inkamela yemazi"
+      ],
+      "answer": "Bamgatya umthunywa wabo baza baqhatha kurhwebo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ihlathi elixineneyo okanye ihlathi elixineneyo",
+        "Intaba eqingqwe kwiindawo zokuhlala",
+        "Isixeko esisecaleni kolwandle",
+        "Intlambo yasentlango enemithombo",
+        "Igadi etyebileyo eneziqhamo ezininzi"
+      ],
+      "answer": "Ihlathi elixineneyo okanye ihlathi elixineneyo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Utshatyalaliswe lilifu lomlilo elimnyama",
+        "Ukuntywiliselwa ngumkhukula omkhulu",
+        "Iginywe yinyikima",
+        "Ubethwe ngumoya onamandla",
+        "Iguqulwe yaba lilitye"
+      ],
+      "answer": "Utshatyalaliswe lilifu lomlilo elimnyama"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

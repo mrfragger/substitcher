@@ -1,0 +1,61 @@
+{
+  "title": "La Neatentita Voko en la Lando de Aroganteco",
+  "intro": "Vi staras en la ruinoj de iam granda civilizo, kie potenco kaj fiereco konis neniujn limojn. Mesaĝisto marŝis inter ili, vokante al la vero, sed iliaj koroj estis malmoliĝintaj. La averto restis neatentata, kaj la ĉielo mem fariĝis instrumento de kolero. Kiu estis ĉi tiu mesaĝisto, kaj kio fariĝis el tiuj, kiuj malakceptis la vokon?",
+  "clues": [
+    "Mi estis sendita al popolo, kiu estis senkompara laŭ forto kaj konstruis sur ĉiu altaĵo monumenton.",
+    "Mia popolo konsideris sin nevenkebla kaj diris: Kiu estas pli forta ol ni?",
+    "Mi vokis ilin adori nur Alaho'n, sed ili akuzis min pri malsaĝeco kaj mensogado.",
+    "Ili defiis min alporti la punon, kiun mi promesis, se mi estus verema.",
+    "Alaho sendis sur ilin senfruktan venton, kiu nenion ŝparis, kion ĝi trafis.",
+    "Mi kaj tiuj, kiuj kredis kun mi, estis savitaj per la kompato de Alaho, dum la nekredantoj estis tute ekstermitaj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Hud",
+        "Profeto Salih",
+        "Profeto Ŝuaib",
+        "Profeto Lut",
+        "Profeto Nuh"
+      ],
+      "answer": "Profeto Hud"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Detruiga vento detruis la nekredantojn",
+        "Granda inundo englutis la nekredantojn",
+        "Pluvo da ŝtonoj falis",
+        "Laŭta kriego kaptis la nekredantojn",
+        "Tertremo frapis la nekredantojn"
+      ],
+      "answer": "Detruiga vento detruis la nekredantojn"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Senĉesa vento",
+        "Ligna arkeo",
+        "Kamelo",
+        "Pluvo de argilaj ŝtonoj",
+        "Flamanta fajro"
+      ],
+      "answer": "Senĉesa vento"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Hud kaj la kredantoj estis savitaj, kaj la nekredantoj estis detruitaj",
+        "Hud estis levita al alta stacio",
+        "Hud estis mortigita de sia popolo",
+        "La popolo de Hud pentis kaj estis savita",
+        "Hud forlasis sian popolon antaŭ iu ajn puno"
+      ],
+      "answer": "Hud kaj la kredantoj estis savitaj, kaj la nekredantoj estis detruitaj"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Gaskiyar da Ta Yi Wa Kotu Shiru",
+  "intro": "A cikin wani fada inda musun ya mamaye kuma iko ya kasance cikakke, taron ƙwararrun masu fasaha ya tsaya a gaban wani ƙalubale da ba a zata ba. Iska ta yi ta kadawa da tsammani yayin da hanyoyi biyu na ƙarya da gaskiya ke gab da karo. Waɗanda suka taru ba su san cewa wannan haɗuwa za ta canza rayuwarsu har abada kuma ta sanya labarinsu cikin littafi mai tsarki ba.",
+  "clues": [
+    "Mun shahara da ƙwarewarmu ta ruɗu kuma wani mai iko ya taru don mu fuskanci mai ƙalubalantarmu.",
+    "Da lokacin ya yi, muka jefa kayan kida muka jira sakamakon, muna da kwarin gwiwa a kan aikinmu.",
+    "Amma abin da muka gani ya sa na'urorinmu suka yi kama da kayan wasan yara kawai, kuma zukatanmu suka fahimci gaskiyar da ba za a iya musantawa ba.",
+    "Mun faɗi ƙasa muna sujada, muna bayyana imaninmu ga Ubangijin Musa da Haruna, duk da fushin mai mulki.",
+    "Wannan mai mulkin ya yi mana barazana da hukunci mafi muni, yana alƙawarin gicciye mu da kuma yanke gaɓoɓinmu ta hanyoyi daban-daban.",
+    "Mun tsaya tsayin daka, muna cewa mun fi son hukuncin Ubangijinmu fiye da duk wani sakamako na duniya, kuma mun yi shahada saboda imaninmu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Masu Sihiri na Fir'auna",
+        "Mutanen Kogo",
+        "Sahabban Itace",
+        "Almajiran Isa",
+        "Mutanen Giwa"
+      ],
+      "answer": "Masu Sihiri na Fir'auna"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Gasar sihiri da Musa",
+        "Wuta ta jefa musu",
+        "Ambaliyar ruwa da ta nutsar da su",
+        "Fari da yunwa",
+        "Girgizar ƙasa"
+      ],
+      "answer": "Gasar sihiri da Musa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Sanduna da igiyoyi da suka zama macizai",
+        "Daji mai ƙonewa",
+        "Raƙumi",
+        "Akwatin katako",
+        "Kifin whale"
+      ],
+      "answer": "Sanduna da igiyoyi da suka zama macizai"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An kashe shi saboda imani, an yi masa alkawarin Aljanna",
+        "An nutsar da shi cikin teku",
+        "Ya zama sarakunan Masar",
+        "Mabiyan Fir'auna da suka rage",
+        "Ya gaji ƙasar"
+      ],
+      "answer": "An kashe shi saboda imani, an yi masa alkawarin Aljanna"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

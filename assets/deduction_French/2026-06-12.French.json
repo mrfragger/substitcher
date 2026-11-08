@@ -1,0 +1,61 @@
+{
+  "title": "Le sacrifice volontaire",
+  "intro": "En ces temps d'épreuves divines, une âme fut appelée à l'ultime soumission. Élevée en terre aride, elle devint l'incarnation de la foi et de la patience. Lorsqu'une vision lui ordonna un sacrifice, elle ne faiblit pas. Son histoire est un modèle de dévotion.",
+  "clues": [
+    "J'étais la réponse à une prière longtemps attendue d'un grand prophète.",
+    "Ma mère et moi avons été abandonnées dans une vallée désolée, avec pour seules provisions des dattes et de l'eau.",
+    "Je suis devenu un prophète reconnu pour ma sincérité et ma patience.",
+    "J'ai aidé mon père à ériger les fondations d'une maison sacrée dédiée à Allah.",
+    "Lorsque mon père m'a parlé d'un rêve où il me demandait de me sacrifier, j'ai répondu : « Fais ce qui t'a été ordonné. »",
+    "Allah a honoré ma soumission en envoyant un bélier du ciel pour me racheter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ismaïl",
+        "Prophète Ishaq",
+        "Le prophète Ya'qub",
+        "Le prophète Ibrahim",
+        "Prophète Yusuf"
+      ],
+      "answer": "Le prophète Ismaïl"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Se soumettre volontairement au sacrifice",
+        "Être jeté dans un feu ardent",
+        "Être avalé par un grand poisson",
+        "Être vendu comme esclave",
+        "Être testé pour une maladie grave"
+      ],
+      "answer": "Se soumettre volontairement au sacrifice"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Puits de Zamzam",
+        "L'arche de Noé",
+        "Le Feu de Nimrod",
+        "Le veau d'or",
+        "Le bâton de Moïse"
+      ],
+      "answer": "Puits de Zamzam"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il fut racheté avec un grand bélier.",
+        "A été sauvé de l'incendie",
+        "A été sauvé des inondations",
+        "A été sorti de la baleine",
+        "On lui donna un royaume et la sagesse"
+      ],
+      "answer": "Il fut racheté avec un grand bélier."
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

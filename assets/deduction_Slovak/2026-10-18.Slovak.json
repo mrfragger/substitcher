@@ -1,0 +1,61 @@
+{
+  "title": "Radostná zvesť v starobe",
+  "intro": "Ste svedkami okamihu, v ktorom sa znovu rozbúcha nádej. Pár, dávno za hranicami rodičovstva, dostane sľub, ktorý je v rozpore so zákonmi prírody. Uprostred nich stojí postava, ktorej samotná existencia je znakom božského milosrdenstva – duša predurčená k proroctvu, ktorá nesie odkaz, ktorý presiahne celé generácie. Kto je táto pozoruhodná osoba?",
+  "clues": [
+    "Narodil som sa rodičom, ktorí dosiahli vysoký vek a nemali deti.",
+    "Moje narodenie oznámili anjeli, ktorí prišli ako hostia k mojej rodine.",
+    "Bola mi daná múdrosť a proroctvo a som spomenutý medzi trpezlivými.",
+    "Môjho otca nazývali priateľom Alaha a ja som bol pre neho v jeho neskorších rokoch darom.",
+    "Mal som brata, ktorý bol tiež prorokom, a obaja sme boli požehnaní naším Pánom.",
+    "Môj syn bol tiež prorok a mojim potomkom bolo dané písmo a proroctvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Izák (Išák)",
+        "Prorok Izmail (Izmael)",
+        "Prorok Jakub (Jakub)",
+        "Prorok Jahja (Ján)",
+        "Prorok Uzair (Ezra)"
+      ],
+      "answer": "Prorok Izák (Išák)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Narodený starším rodičom",
+        "Hodený do ohňa",
+        "Dostal kráľovstvo a bohatstvo",
+        "Vyviedol svoj ľud z Egypta",
+        "Postavil archu, aby zachránil veriacich"
+      ],
+      "answer": "Narodený starším rodičom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Radostná zvesť o synovi",
+        "Horiaci ker",
+        "Zlaté teľa",
+        "Archa zmluvy",
+        "Zamestnanec proroctva"
+      ],
+      "answer": "Radostná zvesť o synovi"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Stal sa prorokom s rodovou líniou prorokov",
+        "Stal sa bohatým kráľom",
+        "Jeho ľud bol zničený pre neveru",
+        "Zachránili ho pred ohňom",
+        "Schopnosť hovoriť dostal už ako dieťa"
+      ],
+      "answer": "Stal sa prorokom s rodovou líniou prorokov"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Los Umils Cercaires de Vertat",
+  "intro": "Dins una tèrra de poder e de bruèissa anciana, una granda confrontacion se desplega. Un costat emplega l'autoritat dels signes divins, del temps que l'autre ensaja de far correspondre l'impossible. Lo resultat cambiarà per totjorn lo cors de l'istòria. Podètz descobrir l'identitat d'aqueles qu'an assistit a la vertat finala e s'umilièron davant ela?",
+  "clues": [
+    "Assistiguèrem a de signes qu'anavan al delà dels trucs de la bruèissa",
+    "Totes tombèrem en prostracion, incapables de negar la vertat",
+    "Reconeguèrem qu'aqueles signes venián de l'Unic Dieu Vertadièr",
+    "Foguèrem la primièra comunautat a embraçar la fe d'un biais tan dramatic",
+    "Nos foguèt prometut lo paradís coma nòstra recompensa per nòstra cresença",
+    "Nòstras còrdas e bastons venguèron de sèrps davant nòstres uèlhs, pasmens causiguèrem la somission"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Los magos de faraon",
+        "Lo pòble del profèta Ibrahim",
+        "Los umils cercaires de vertat",
+        "Las Gentes de la Caverna",
+        "La nacion de la reina Bilqis"
+      ],
+      "answer": "Los magos de faraon"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Lo rescontre amb lo personal del profèta Musa",
+        "Lo jutjament del vent del profèta Hud",
+        "Lo desfís de la camèla del profèta Salih",
+        "Lo gran diluvi trames sobre vn propheta .",
+        "Lo viatge d'un profèta dins una balena"
+      ],
+      "answer": "Lo rescontre amb lo personal del profèta Musa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Egipte antica",
+        "L'ostal sacrat a Meca",
+        "La ciutat de Madian",
+        "Lo desèrt de Thamud",
+        "La cauna dels dormidors ancians"
+      ],
+      "answer": "Egipte antica"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Lo paradís coma lor recompensa",
+        "Castig dins la tomba",
+        "Pèrda de lors jardins abondius",
+        "Destruccion per un tèrratrem subte",
+        "Rescat d'una granda balena"
+      ],
+      "answer": "Lo paradís coma lor recompensa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

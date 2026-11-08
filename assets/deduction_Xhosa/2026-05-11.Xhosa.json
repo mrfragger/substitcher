@@ -1,0 +1,61 @@
+{
+  "title": "Amangqina Aqinileyo",
+  "intro": "Khawucinge ngexesha apho ukholo lwaluvavanywa ngomlilo, kwaye ukuqiniseka okungenakushukunyiswa kwaba kukuchasa kokugqibela. Unikwe umsebenzi wokufumanisa ubuni beqela elibali lalo lichazwe kwiQuran, ibali lokholo olunzulu nxamnye nobuzwilakhe obugqithisileyo. Tyhila izikhokelo zokufumanisa ukuba ngoobani aba bantu, kunye neemeko ezingaqhelekanga ababejongene nazo.",
+  "clues": [
+    "Sema siqinile kwinkolelo yethu, nangona sasicinezelwa kakhulu ukuba silahle ukholo lwethu.",
+    "Sasijongwe ngumlawuli onamandla owayefuna ukucima ukukhanya kobukho bukaThixo.",
+    "Sibone imiqondiso emikhulu nemimangaliso, kodwa abacinezeli bethu abazange bakhathale.",
+    "Sinyamezele indlela eyoyikekayo yokutshutshiswa eyenzelwe ukoyikisa abanye ukuze bathobele.",
+    "Saphoswa emlilweni ovuthayo, kodwa ukuqina kwethu kwasizuzela isikhundla esiphezulu phambi koThixo.",
+    "Ibali lethu libaliswa kwiSurah ebizwa ngokuba ngamaqoqo eenkwenkwezi zasezulwini, isilumkiso ngekamva labo batshutshisa amakholwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu baseMgxobhozweni",
+        "Abantu bakwaMidiyan",
+        "Abantu Bendlovu"
+      ],
+      "answer": "Abantu baseMgxobhozweni"
+    },
+    "trial": {
+      "label": "Intshutshiso Yethu",
+      "options": [
+        "Ukuntywiliselwa kwisikhukula",
+        "Ukutyiwa ngumoya otshisayo",
+        "Ukuphoswa emseleni ovuthayo",
+        "Ukuginywa ngumhlaba",
+        "Ukuguqulwa ube ziinkawu"
+      ],
+      "answer": "Ukuphoswa emseleni ovuthayo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umkhukula omkhulu",
+        "Inyikima enkulu",
+        "Umsele onzulu, ovuthayo",
+        "Isithixo esinamandla",
+        "Imbalela etshabalalisayo"
+      ],
+      "answer": "Umsele onzulu, ovuthayo"
+    },
+    "outcome": {
+      "label": "Isiphelo Sethu Sokugqibela",
+      "options": [
+        "Banikwa ubukumkani emhlabeni.",
+        "Basindiswa kukusinda ngendlela engummangaliso.",
+        "Bafumene umvuzo wokufa ngenxa yokholo nowokufela ukholo ngonaphakade.",
+        "Zaguqulwa zaba yintlobo eyahlukileyo.",
+        "Banikwa ubutyebi obukhulu kunye nempumelelo."
+      ],
+      "answer": "Bafumene umvuzo wokufa ngenxa yokholo nowokufela ukholo ngonaphakade."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

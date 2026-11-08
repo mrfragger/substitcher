@@ -1,0 +1,61 @@
+{
+  "title": "Zkouška posvátného plamene",
+  "intro": "Ve starobylé zemi, kde oddanost tesanému kameni zakořenila v každém domově, jeden jedinec vyčníval. Díky neochvějnému přesvědčení a božské ochraně čelil tomu, co mělo být jistou smrtí – a odešel bez úhony. Dokážete odhalit identitu této pozoruhodné duše?",
+  "clues": [
+    "Vyrůstal jsem mezi lidmi, kteří se klaněli modlám, které si vytesali vlastníma rukama, a věřili, že tyto předměty mají božskou moc.",
+    "Když jsem zpochybnil jejich přesvědčení, zpočátku mě odmítali, ale já nemohl mlčet o pravdě, kterou jsem znal.",
+    "V den, kdy byli shromážděni, jsem zničil jejich modly a nechal jsem nedotčenou jen tu největší.",
+    "Když se vrátili a viděli, co jsem udělal, jejich vůdci nařídili postavit velkou hranici s úmyslem mě do plamenů uvrhnout.",
+    "Vrhli mě do planoucího ohně, ale Pán světů přikázal, aby se oheň ochladil a byl pro mě bezpečný.",
+    "Vyšel jsem z plamenů zcela bez úhony, zatímco ti, kdo proti mně kovali pikle, čelili naprosté zkáze."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Ibráhím",
+        "Prorok Músa",
+        "Prorok Nuh",
+        "Prorok Ísa",
+        "Prorok Jusuf"
+      ],
+      "answer": "Prorok Ibráhím"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být uvržen do planoucího ohně",
+        "Být spolknut velkou velrybou",
+        "Přežití velké povodně",
+        "Být vhozen do hluboké studny",
+        "Konfrontace s královskými kouzelníky"
+      ],
+      "answer": "Být uvržen do planoucího ohně"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Obrovská hranice hořícího dřeva",
+        "Velká dřevěná archa",
+        "Socha zlatého telete",
+        "Plovoucí koš na řece",
+        "Velkolepý trůn"
+      ],
+      "answer": "Obrovská hranice hořícího dřeva"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Alláh učinil oheň chladným a bezpečným",
+        "Archa bezpečně přistála na hoře",
+        "Zlatá modla se jim před očima roztavila",
+        "Tyran a jeho armáda se utopili v moři",
+        "Slepému muži byl obnoven zrak"
+      ],
+      "answer": "Alláh učinil oheň chladným a bezpečným"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Gema Penipuan",
+  "intro": "Ikatan persaudaraan diuji oleh lonjakan rasa iri hati. Satu rancangan rahsia telah dirancang, mencetuskan rantaian peristiwa yang akan menjangkau bertahun-tahun dan merentasi jarak yang jauh. Tindakan kumpulan ini membawa kepada perpisahan dan kesedihan yang mendalam, tetapi cerita itu tidak berakhir di situ. Ia adalah kisah penipuan, penyesalan, dan terungkapnya rancangan ilahi yang muktamad. Bolehkah anda membongkar identiti individu-individu ini yang pilihan mereka bergema dari generasi ke generasi?",
+  "clues": [
+    "Kami diliputi rasa cemburu atas kasih sayang yang ditunjukkan kepada salah seorang daripada kami sendiri.",
+    "Dalam rasa iri hati kami, kami berpakat dan melemparkan adik kami ke dalam kegelapan perigi.",
+    "Untuk menyembunyikan perbuatan kami, kami mempersembahkan pakaian kepada ayah kami, yang berlumuran darah palsu.",
+    "Bertahun-tahun kemudian, kebuluran yang teruk memaksa kami pergi ke Mesir untuk mencari bekalan.",
+    "Di sana, kami menghadap seorang gabenor yang berkuasa, tanpa kami ketahui, adalah adik-beradik yang telah kami zalimi.",
+    "Ujian terakhir kami adalah untuk membawa adik bongsu kami, Bunyamin, yang membawa kepada pendedahan tentang masa lalu kami dan ayah kami iaitu Nabi Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah kita?",
+      "options": [
+        "Anak-anak Adam (Qabil & Habil)",
+        "Murid-murid Nabi Isa as",
+        "Saudara-saudara Nabi Yusuf",
+        "Orang Madyan",
+        "Ahli Sihir Fir'aun"
+      ],
+      "answer": "Saudara-saudara Nabi Yusuf"
+    },
+    "trial": {
+      "label": "Apakah kesalahan utama kita?",
+      "options": [
+        "Membina anak lembu emas untuk penyembahan",
+        "Menuntut untuk berjumpa dengan Allah secara langsung",
+        "Mengejek seorang nabi kerana membina bahtera",
+        "Menipu ayah kami dan meninggalkan abang kami",
+        "Melanggar Sabat dengan memancing"
+      ],
+      "answer": "Menipu ayah kami dan meninggalkan abang kami"
+    },
+    "location": {
+      "label": "Apakah objek yang menjadi teras kepada penipuan kita?",
+      "options": [
+        "Satu set tablet bertulis",
+        "Baju yang berlumuran darah palsu",
+        "Anak lembu emas",
+        "Seekor burung yang cantik (Huddu)",
+        "Tongkat yang bertukar menjadi ular"
+      ],
+      "answer": "Baju yang berlumuran darah palsu"
+    },
+    "outcome": {
+      "label": "Apakah hasil akhir cerita kita?",
+      "options": [
+        "Kita musnah akibat banjir besar",
+        "Kami telah berubah menjadi beruk",
+        "Kami ditelan bumi",
+        "Kami telah diampuni dan bersatu semula dengan keluarga kami",
+        "Kami lemas di laut"
+      ],
+      "answer": "Kami telah diampuni dan bersatu semula dengan keluarga kami"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

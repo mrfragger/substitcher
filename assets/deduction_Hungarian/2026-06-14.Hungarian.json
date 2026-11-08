@@ -1,0 +1,61 @@
+{
+  "title": "A láng, amely örökséget hagyott maga után",
+  "intro": "Az ellenállás krónikáiban áll egy személy, akinek a neve is figyelmeztetéssé vált az idők végezetéig. Ez a személy az ellenségeskedést választotta a rokonság helyett, a dacot az engedelmesség helyett, és szembeszállt az irgalmasság hívásával. Figyeljünk egy ősi kiáltvány visszhangjára, miközben feltárjuk e hírhedt lélek kilétét.",
+  "clues": [
+    "Ugyanabba a klánba születtem, mint Allah utolsó küldötte, mégis minden lépésnél szembeszálltam velük.",
+    "A nevemnek jelentése volt – egy név, ami azt jelentette, hogy „a láng atyja”, egy név, amely előrevetítette örök sorsomat.",
+    "Kegyetlenséget zúdítottam az igazság hordozójára, és még a saját házam népe is csatlakozott ehhez a kegyetlen hadjárathoz.",
+    "A vagyonomat és a befolyásomat arra használtam, hogy elhallgattassam Allah hívását, abban a hitben, hogy a pénz kiolthatja az isteni fényt.",
+    "Allah egy egész fejezetet szentelt nekem – egy olyan rövid fejezetet, hogy másodpercek alatt felolvasható, mégis a súlya az ítélet napjáig megmarad.",
+    "A túlvilági társam mögöttem sétál, nyakában egy rostból készült kötéllel megkötözve, és ugyanazokat a töviseket cipeli, amiket régen terjesztettek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Abu Laháb",
+        "Abu Dzsahl",
+        "Waraqah ibn Nawfal",
+        "Umajja ibn Khalaf",
+        "Uqbah ibn Abi Mu'ajt"
+      ],
+      "answer": "Abu Laháb"
+    },
+    "trial": {
+      "label": "A konfrontáció meghatározása",
+      "options": [
+        "A mekkai Próféta elleni ellenzék vezetése",
+        "Abesszíniába vándoroltak az üldöztetés elől",
+        "A Kába építése Ibrahim prófétával",
+        "Az iszlám elfogadása a halálos ágyon",
+        "A Hudaybiyyah-i szerződés megkötése"
+      ],
+      "answer": "A mekkai Próféta elleni ellenzék vezetése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy feleség, aki töviseket és tűzifát cipelt",
+        "Egy kígyóvá változott személyzet",
+        "Salamon pecsétjét viselő gyűrű",
+        "Egy aranyborjú, amelyet az emberek imádtak",
+        "Egy forrás, amelyből víz tört fel"
+      ],
+      "answer": "Egy feleség, aki töviseket és tűzifát cipelt"
+    },
+    "outcome": {
+      "label": "Végső elszámolás",
+      "options": [
+        "Egy egész szúra tárult fel, amely a teljes romlást hirdeti",
+        "A muszlim közösség vezetője lett",
+        "Megbocsátást nyert a halál pillanatában",
+        "Hatalmas mecsetet épített Medinában",
+        "Feltámadt az igazak között"
+      ],
+      "answer": "Egy egész szúra tárult fel, amely a teljes romlást hirdeti"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

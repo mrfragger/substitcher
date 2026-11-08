@@ -1,0 +1,61 @@
+{
+  "title": "La Nacion Que Desfièt l'Òrdre Natural",
+  "intro": "Dins una region que son istòria fa resson dins los sègles, una comunautat visquèt dins una rebellion dobèrta contra las leis de puretat. Lors actes èran tan sens precedents que son remembrats coma un avertiment per tota l'umanitat. Qui èran aquelas anmas, e quin destin las venguèt?",
+  "clues": [
+    "Demoravam dins una tèrra per una rota que los viatjaires passavan sovent, mas faguèrem lor viatge perilhós.",
+    "Cometèrem d'actes d'indecéncia que degun dins los monds aviá pas jamai faches abans.",
+    "Un messatgièr d'entre nosautres nos cridèt a abandonar nòstres camins, mas lo refusèrem e exigiguèrem lo castig s'èra vertadièr.",
+    "Quand de polits convidats venián dins nòstra vila, cerquèrem de los atacar, en sabent pas qu'èran de messatgièrs de destruccion.",
+    "Èrem avertits d'un castig terrible se desistàvem pas, mas nos trufèrem de l'avertiment e demorèrem dins nòstre pecat.",
+    "Una pluèja de pèiras del cèl nos tombèt, e nòstres ostals foguèron capvirats, daissant pas cap de traça levat un signe per los que reflexionan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Gent de Lut",
+        "Pòble de Thamud",
+        "Gent d'A'ad",
+        "Gent de Madyan",
+        "Gent de Saba"
+      ],
+      "answer": "Gent de Lut"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Cometèt d'immoralitat sens precedent e de camins empachats",
+        "Adorèt un vedèl d'aur",
+        "Tuèt la camèla sacrada",
+        "Enganat dins lo comèrci e escambièt lo pòble",
+        "Bastiguèt una torre nauta per desfisar los cèls"
+      ],
+      "answer": "Cometèt d'immoralitat sens precedent e de camins empachats"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "D'angèls desguisats en convidats polits",
+        "Una camèla que sortís d'una ròca",
+        "Un baston se transformant en sèrp",
+        "Una barca bastida sus una montanha",
+        "Un fuòc que venguèt fresc e pacific"
+      ],
+      "answer": "D'angèls desguisats en convidats polits"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruit per una pluèja de pèiras del cèl",
+        "Engolit per la tèrra",
+        "Afogats dins una granda inondacion",
+        "Tustat per un esclat cridant",
+        "Transformats en simis"
+      ],
+      "answer": "Destruit per una pluèja de pèiras del cèl"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

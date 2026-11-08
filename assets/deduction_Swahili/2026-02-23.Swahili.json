@@ -1,0 +1,61 @@
+{
+  "title": "Sauti ya Kusadikika Kulikofichwa",
+  "intro": "Katikati ya mahakama ya kidhalimu, ambapo kutoamini kulikuwa sheria ya nchi, nafsi moja pekee ilitembea kwenye kamba ngumu ya imani na hofu. Mtu huyu, karibu na kitovu cha mamlaka, alisikiliza ujumbe wa nabii ulipokewa na dharau na vitisho. Wakati wa ukweli ulifika, ukimlazimisha mtu huyu kuchagua kati ya usalama wa kimya kimya na kusema ukweli hatari. Je, unaweza kufichua utambulisho wa mtetezi huyu jasiri?",
+  "clues": [
+    "Niliishi ndani ya nyumba ya mtawala wa kidikteta, nikishuhudia moja kwa moja kiburi kilichokataa ishara za Mungu.",
+    "Niliiweka imani yangu kuwa siri, hazina iliyofichwa katika jumba la ibada ya sanamu.",
+    "Nilisikia kiongozi niliyemtumikia akipanga njama ya kumuua mjumbe wa Mwenyezi Mungu, mtu aliyeitwa Musa.",
+    "Nilitilia shaka mantiki yao, nikiwakumbusha hatima ya watu wa Nuh, 'Ad, na Thamud.",
+    "Niliuliza swali muhimu kwa watu wangu: 'Ikiwa yeye ni mwongo, uwongo wake uko juu yake; lakini ikiwa ni mkweli, baadhi ya yale anayoahidi yatakupata.'",
+    "Hadithi yangu inasimuliwa kama mfano wa imani katika sura inayoitwa 'Msamehevu,' ambapo niliwaonya watu wangu dhidi ya mipango ya wenye nguvu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Muumini kutoka Familia ya Firauni",
+        "Hamani",
+        "Wachawi wa Firauni",
+        "Qarun",
+        "Msamiri"
+      ],
+      "answer": "Muumini kutoka Familia ya Firauni"
+    },
+    "trial": {
+      "label": "Jaribio Langu Lilikuwa Nini?",
+      "options": [
+        "Kumtetea Nabii Musa katika mahakama ya dhalimu",
+        "Kujenga mnara mrefu ili kufikia mbinguni",
+        "Kutupwa kwenye moto unaowaka",
+        "Kumezwa na samaki mkubwa",
+        "Kupoteza utajiri na afya yote"
+      ],
+      "answer": "Kumtetea Nabii Musa katika mahakama ya dhalimu"
+    },
+    "location": {
+      "label": "Mada ya Hoja Yangu Ilikuwa Nini?",
+      "options": [
+        "Matokeo ya kukataa ujumbe wa nabii",
+        "Mahitaji ya ishara kutoka kwa mti mtakatifu",
+        "Uundaji wa ndama kutoka kwa vito vya kusubu",
+        "Muujiza wa ngamia kutoka kwenye mwamba",
+        "Tafsiri ya ndoto za mtawala"
+      ],
+      "answer": "Matokeo ya kukataa ujumbe wa nabii"
+    },
+    "outcome": {
+      "label": "Matokeo Yalikuwa Nini?",
+      "options": [
+        "Mwenyezi Mungu alimwokoa mtu huyu kutokana na njama yao mbaya",
+        "Mahakama nzima ilikubali Uislamu mara moja",
+        "Mtawala huyo alitubu wakati wa kuzama",
+        "Mtawala huyo alimezwa na ardhi",
+        "Mtu huyo alihamishwa hadi nchi ya mbali"
+      ],
+      "answer": "Mwenyezi Mungu alimwokoa mtu huyu kutokana na njama yao mbaya"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'écho des abords de la ville",
+  "intro": "Dans une ville qui s'était détournée de la volonté divine, une silhouette solitaire surgit des confins, porteuse d'un message d'espoir et d'avertissement. Cette âme oubliée deviendrait un symbole éternel de foi inébranlable.",
+  "clues": [
+    "J'ai vu des messagers envoyés dans ma ville, mais mon peuple les a considérés comme de simples humains.",
+    "J'ai cru en leur message et j'ai senti la vérité résonner au plus profond de mon être.",
+    "J'ai exhorté mon peuple à obéir aux messagers qui ne demandaient aucune récompense.",
+    "J'ai couru depuis l'extrémité de la ville, essayant désespérément de leur faire entendre raison.",
+    "Mon peuple s'est soulevé contre moi, et j'ai été tué, mais j'ai trouvé la paix éternelle.",
+    "Allah m'a dit : « Entre au Paradis », et j'ai souhaité que mon peuple puisse être témoin de l'honneur qui m'était fait."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le croyant de Ya-Sin",
+        "Uzair l'Interrogateur",
+        "Al-Khidr le Guide",
+        "Le croyant de la famille du pharaon",
+        "Namrud le Tyran"
+      ],
+      "answer": "Le croyant de Ya-Sin"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Se retrouver face à un peuple incrédule qui l'avait tué",
+        "Être jeté dans un feu ardent",
+        "Être avalé par un grand poisson",
+        "Construire une arche gigantesque",
+        "Fuir l'armée d'un tyran"
+      ],
+      "answer": "Se retrouver face à un peuple incrédule qui l'avait tué"
+    },
+    "location": {
+      "label": "Emplacement clé",
+      "options": [
+        "L'extrémité la plus reculée de la ville",
+        "La montagne de Tur",
+        "La Vallée des Fourmis",
+        "Les rives du Nil",
+        "La caverne de la caverne"
+      ],
+      "answer": "L'extrémité la plus reculée de la ville"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Le martyre et l'entrée immédiate au Paradis",
+        "Évasion et salut",
+        "Ascension vers les cieux",
+        "Se noyer dans la mer",
+        "Se transformer en pierre"
+      ],
+      "answer": "Le martyre et l'entrée immédiate au Paradis"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

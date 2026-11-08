@@ -1,0 +1,61 @@
+{
+  "title": "Tógálaí Seasmhach an tSlánaithe",
+  "intro": "Fear a raibh foighne ollmhór agus creideamh gan staonadh air, chaith an duine seo blianta gan áireamh i mbun misean diaga, agus é ag tabhairt aghaidh ar dhíspeagadh agus diúltú gan staonadh. Is fianaise chumhachtach ar chreideamh a scéal i bhfianaise easpa creidimh mhóir, rud a chríochnaigh le heachtra suntasach a mhúnlaigh an domhan arís.",
+  "clues": [
+    "Chaith mé tréimhse dochreidte fhada de mo shaol ag glaoch ar mo mhuintir chun adhradh Allah.",
+    "Rinne mo mhuintir magadh fúm agus chuir siad earráid shoiléir agus mire i mo leith.",
+    "Tugadh orduithe dom rud éigin a thógáil a bhí neamhghnách do mo phobal gan tír.",
+    "Níor chreid ach cúpla duine agus níor chuaigh siad liomsa agus le mo theaghlach ar an tógáil uathúil seo.",
+    "Thug mé péirí de gach créatúr beo ar bord, mar a threoraigh Allah dom.",
+    "Scuab tuile mhór an talamh, ag sábháil ach iad siúd a bhí liom i mo shoitheach, agus fuair mo mhac féin bás de bharr a mhíchreidimh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Salih",
+        "Fáidh Hud",
+        "Fáidh Nuh",
+        "Fáidh Dawud",
+        "Fáidh Sulayman"
+      ],
+      "answer": "Fáidh Nuh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An scrios de bharr crith talún",
+        "Scoilteadh na farraige",
+        "An tuile mhór",
+        "Tine Nimrod",
+        "Plá na froganna"
+      ],
+      "answer": "An tuile mhór"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An tor dóite",
+        "An áirc",
+        "An tobar uisce",
+        "An lao órga",
+        "Sliabh na dTúr"
+      ],
+      "answer": "An áirc"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Fuair ​​ríocht",
+        "Rinneadh a mhuintir a chlaochlú ina apaí",
+        "Sábháladh a mhuintir le míorúilt",
+        "Bádh a mhuintir",
+        "Bhuail tintreach a mhuintir"
+      ],
+      "answer": "Bádh a mhuintir"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

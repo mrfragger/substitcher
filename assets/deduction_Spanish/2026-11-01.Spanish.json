@@ -1,0 +1,61 @@
+{
+  "title": "La voz que rechazó la desesperación",
+  "intro": "Adéntrate en un hogar donde la pérdida se sucede sin cesar, pero una voz serena se resiste a la desesperación. Un simple llamado del Corán transforma la paciencia en un punto de inflexión; ¿podrás descifrar las pistas que te llevarán a la persona detrás de esa voz?",
+  "clues": [
+    "Yo era la voz de la paciencia en un hogar donde las bendiciones se veían puestas a prueba por la calamidad.",
+    "Permanecí en un hogar vacío tras la pérdida de la riqueza y de los hijos.",
+    "Sabía que esa enfermedad también había afectado a mi compañero, cuyo cuerpo estaba enfermo.",
+    "Cuando la angustia se hizo severa, clamé recordando a Alá.",
+    "Hice una declaración: Alá es la Verdad, así que tengan paciencia.",
+    "Llamé a Ayyub por su nombre; después, Alá eliminó la aflicción y restauró a la familia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La esposa del profeta Ayyub",
+        "La esposa del profeta Noé",
+        "La esposa del profeta Ibrahim",
+        "La esposa del profeta Ya'qub",
+        "La hija del faraón"
+      ],
+      "answer": "La esposa del profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Permanecer con Ayyub a través de la pérdida y la enfermedad, y luego pedir paciencia.",
+        "Advertir a un mensajero justo que abandone una comunidad corrupta.",
+        "Orando por el nacimiento de un linaje futuro.",
+        "Interpretación de sueños en una prisión real",
+        "Encontrar a un niño al cuidado de otra persona junto a un río."
+      ],
+      "answer": "Permanecer con Ayyub a través de la pérdida y la enfermedad, y luego pedir paciencia."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Se requiere la declaración de que Alá es la Verdad y paciencia.",
+        "Una palmera junto a un manantial.",
+        "Un llamado a construir un barco lejos de las olas.",
+        "Un sueño de once estrellas y un sol naciente",
+        "Una cesta transportada a lo largo del Nilo"
+      ],
+      "answer": "Se requiere la declaración de que Alá es la Verdad y paciencia."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "La aflicción de Ayyub desapareció y su familia fue restaurada.",
+        "Tras una oración infructuosa, se concedió el hijo largamente esperado.",
+        "Un joven gobernante interpretó siete años de abundancia y escasez.",
+        "Un niño al cuidado de otra persona fue rescatado de la corriente de agua.",
+        "Una advertencia precedió a una inundación devastadora."
+      ],
+      "answer": "La aflicción de Ayyub desapareció y su familia fue restaurada."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muryar Daga Waje",
+  "intro": "Kana tsaye a cikin birni inda manzanni uku suka zo da alamu bayyanannu, amma mutanen suna yi musu ba'a suna manne da tsoffin hanyoyinsu. Daga mafi nisa na birnin, wani mutum ya yi gudu zuwa ga taron jama'a, yana numfashi kuma yana da ƙuduri, don faɗin gaskiya a gaban ƙin amincewa. Wanene wannan rai wanda ya yi kasadar komai don saƙo ba nasa ba?",
+  "clues": [
+    "Na zauna a cikin mutanen da suka karɓi manzanni da hujjoji bayyanannu, amma suka juya suna masu girman kai.",
+    "Na fito da gudu daga mafi nisa na birnin lokacin da na ji kiran manzanni.",
+    "Na ce wa mutanena, 'Ya ku mutanena, ku bi manzanni. Ku bi waɗanda ba sa neman lada a wurinku, domin su shiryayyu ne.'",
+    "Ban kasance annabi ba, amma na yi imani da manzanni kuma na roƙi mutanena su yi haka.",
+    "Mutanena suna yi mini ba'a suna kuma zargina da cewa mai tsattsauran ra'ayi ne.",
+    "Lokacin da suka kashe ni, Allah ya ce in shiga Aljanna, kuma ina fatan mutanena za su san gafara da girmamawar da na samu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutumin da ya fito daga mafi nisa na birnin (Ya-Sin)",
+        "Ɗaya daga cikin manzanni uku da aka aika zuwa birnin",
+        "Fitaccen ɗan kasuwan birnin",
+        "Mai mulkin birnin",
+        "Shugaban kafirai"
+      ],
+      "answer": "Mutumin da ya fito daga mafi nisa na birnin (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Wa'azi ga mutanensa su bi manzanni",
+        "Gina jirgin ruwa domin ceton masu bi daga ambaliyar ruwa",
+        "A jefa shi cikin wuta saboda bangaskiya",
+        "Kifin whale ya haɗiye shi",
+        "A ba shi mulki da hikima"
+      ],
+      "answer": "Wa'azi ga mutanensa su bi manzanni"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Mafi nisa na birnin",
+        "Akwatin",
+        "Rijiyar",
+        "Dajin da ke ƙonewa",
+        "Kogon"
+      ],
+      "answer": "Mafi nisa na birnin"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Shiga Aljanna kuma yana fatan mutanensa za su iya sanin gafararsa",
+        "Ya nutse tare da mutanensa saboda ƙin saƙon",
+        "An ba shi mu'ujizar raƙumar",
+        "Ya zama mai mulki bayan shari'arsa",
+        "Allah ya cece shi kuma ya kasance tare da mutanensa"
+      ],
+      "answer": "Shiga Aljanna kuma yana fatan mutanensa za su iya sanin gafararsa"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

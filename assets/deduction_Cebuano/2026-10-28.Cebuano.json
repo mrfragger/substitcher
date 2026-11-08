@@ -1,0 +1,61 @@
+{
+  "title": "Usa ka Saad nga Gisulti Taliwala sa mga Baga",
+  "intro": "Nagtindog ka tupad sa kalayo sa disyerto samtang ang mga baga niini maampingong gikatag. Ang mga bisita miabot aron makigtagbo sa kahilom, ug usa ka mensahe ang nagbukas sa istorya sa saad, sorpresa, ug usa ka kaugmaon nga wala pa matuman.",
+  "clues": [
+    "Gitabok namo ang gilay-on aron makaabot sa usa ka matinud-anon nga sulugoon didto sa disyerto.",
+    "Among gihangyo nga ipakaylap ang mga baga aron maandam ang kalayo.",
+    "Nakigsulti mi sa usa ka tawo nga nanawag sa siga para sa kabugnaw ug kaluwasan.",
+    "Nagdala kami og balita bahin sa usa ka bag-ong natawo nga bata ngadto sa usa ka tawo nga lapas na sa edad nga manganak.",
+    "Among ginganlan ang gisaad nga bata og Isaac.",
+    "Nagdala kami ug maayong balita kang Ibrahim bahin sa usa ka anak nga lalaki, ug ang makapakurat nga balita nakapatawa kang Ibrahim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang mga Anghel nga Nagdala sa Maayong Balita ni Isaac ngadto kang Ibrahim",
+        "Ang mga Anghel nga Nagpasidaan kang Lut",
+        "Ang mga Anghel nga Nagdala sa Trono",
+        "Ang mga Anghel sa Impyerno",
+        "Ang mga Anghel nga Gipadala ngadto kang Noe"
+      ],
+      "answer": "Ang mga Anghel nga Nagdala sa Maayong Balita ni Isaac ngadto kang Ibrahim"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Nagdala ug maayong balita sa pagkatawo ni Isaac ngadto kang Ibrahim",
+        "Pasidaan kang Lut sa dili pa ang silot sa iyang katawhan",
+        "Pagpahibalo sa pagkatawo ni Yahya kang Zakariyya",
+        "Pagdala sa Trono sa Adlaw sa Paghukom",
+        "Pagpahibalo sa pagkatawo ni Isa kang Maryam"
+      ],
+      "answer": "Nagdala ug maayong balita sa pagkatawo ni Isaac ngadto kang Ibrahim"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka kalayo nga giandam gikan sa nagkatag nga mga baga",
+        "Usa ka arka nga naglutaw sa tubig baha",
+        "Usa ka langob nga gitakpan sa nagligid nga bato",
+        "Usa ka bukid sa lapok nga gipagahi sa brine",
+        "Usa ka hagdanan nga nagtuybo paingon sa langit"
+      ],
+      "answer": "Usa ka kalayo nga giandam gikan sa nagkatag nga mga baga"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Maayong balita sa usa ka anak nga lalaki nga ginganlag Isaac",
+        "Maayong balita sa usa ka anak nga lalaki nga ginganlag Yahya",
+        "Ang pagpili kang Talut isip magmamando sa mga anak sa Israel",
+        "Usa ka pasidaan sa dili pa ang silot sa katawhan ni Lut",
+        "Usa ka sugo sa pagtukod og arka sa dili pa ang Lunop"
+      ],
+      "answer": "Maayong balita sa usa ka anak nga lalaki nga ginganlag Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

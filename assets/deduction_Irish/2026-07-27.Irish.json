@@ -1,0 +1,61 @@
+{
+  "title": "An Tairiscint a D'athraigh an Cinniúint",
+  "intro": "I laethanta tosaigh an chine dhaonna, thairg anam bronntanas le hintinn íon. Ach, bhí éad i bhfolach i scáth an ghlactha. Faigh amach scéal an fhigiúir seo a bhfuil a cráifeacht agus a deireadh tragóideach neamhbhásmhar i nochtadh diaga.",
+  "clues": [
+    "Bhí mé i measc chéad ghlúin an chine dhaonna.",
+    "Thug mé tairiscint do mo Thiarna, agus glacadh léi go fabharach.",
+    "Diúltaíodh d’ofráil mo dhearthár, agus chuir éad dorchadas ar a chroí.",
+    "Dúirt mé leis, ‘Mura síneann tú do lámh chugam le mé a mharú, ní shínfidh mé mo lámh le tú a mharú; tá eagla Dé orm, Tiarna na cruinne.’",
+    "Ba mise íospartach an chéad ghníomh dúnmharaithe ar domhan.",
+    "Ghlaodh mo chuid fola amach, agus ba mise an chéad mhairtíreach neamhchiontachta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Habil (Ábal)",
+        "Qabil (Cain)",
+        "An Fear ó Ya-Sin",
+        "An Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Ábal)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Glacadh lena thairiscint, rud a chuir éad ar a dheartháir agus a dhúnmharaigh é.",
+        "Caitheadh ​​isteach i bhfoirnéis lasrach é ach níor gortaíodh é",
+        "Thóg sé long ollmhór faoi threoir dhiaga",
+        "Shlog iasc mór é agus d'fhan sé sa dorchadas.",
+        "Threoraigh sé a mhuintir trí fharraige scoilte"
+      ],
+      "answer": "Glacadh lena thairiscint, rud a chuir éad ar a dheartháir agus a dhúnmharaigh é."
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tairiscint glactha",
+        "Foireann ag casadh ina nathair",
+        "Camall baineann mar chomhartha diaga",
+        "Cúpó ag tabhairt nuachta",
+        "Lao órga adhraithe"
+      ],
+      "answer": "Tairiscint glactha"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "An chéad dúnmharú sa stair; daoradh a dheartháir",
+        "Slogtha ag an talamh in éineacht lena shaibhreas",
+        "Claochlaithe ina moncaí mar gheall ar shárú",
+        "Scriosta ag gaoth fíochmhar, oighreata",
+        "Báite i dtuilte móra mar phionós"
+      ],
+      "answer": "An chéad dúnmharú sa stair; daoradh a dheartháir"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

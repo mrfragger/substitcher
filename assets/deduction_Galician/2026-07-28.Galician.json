@@ -1,0 +1,61 @@
+{
+  "title": "A proba da criatura sagrada",
+  "intro": "Un sinal foi enviado a unha nación que se extraviara. No medio das súas cómodas vidas chegou un aviso, acompañado dunha criatura extraordinaria que se convertería na proba definitiva da súa fe. A súa resposta selaría o seu destino para sempre. Podes descubrir quen deu este aviso e que foi dos que o rexeitaron?",
+  "clues": [
+    "Eramos un pobo que fora guiado por mensaxeiros anteriores a nós.",
+    "Unha criatura magnífica xurdiu da montaña, un sinal do noso Señor para esta nación.",
+    "Díxenlles: \"Esta é unha cameloa pertencente a Alá, así que deixádea comer da terra de Alá e non a toquedes para facerlle dano\".",
+    "Pero a xente cortou os xavós da miña cameloa, desafiando a orde do seu Señor.",
+    "Eu son só un mensaxeiro do teu Señor, enviado coa verdade; son un profeta e servo de confianza.",
+    "En canto aos malfeitores, o noso Señor golpeounos cun estrondo atronador, e quedaron inmóviles nas súas casas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Hud do pobo de A'ad",
+        "Profeta Salih do pobo de Thamud",
+        "Profeta Shuaib de Madián",
+        "Profeta Lut da xente de Sodoma",
+        "Profeta Nuh da Arca"
+      ],
+      "answer": "Profeta Salih do pobo de Thamud"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "O Diluvio que afogou unha nación incrédula",
+        "O terremoto que destruíu unha cidade pecadora",
+        "A cameloa enviada como sinal e proba divinas",
+        "A tormenta que castigou o pobo de Madián",
+        "A destrución do pobo de Lot con pedras"
+      ],
+      "answer": "A cameloa enviada como sinal e proba divinas"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A cidade de Sodoma no val do Xordán",
+        "O val de Al-Hijr entre Hijaz e Siria",
+        "A antiga terra de A'ad no sur de Arabia",
+        "Os bosques de Madián preto do Mar Vermello",
+        "As chairas do monte Judi en Mesopotamia"
+      ],
+      "answer": "O val de Al-Hijr entre Hijaz e Siria"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Foron salvados despois de arrepentirse e crer",
+        "Unha choiva de pedras destruíunas por completo",
+        "Un son atronador deixounos inmóbiles",
+        "Foron levados por un vento violento",
+        "Un terremoto tragounos ata o chan"
+      ],
+      "answer": "Un son atronador deixounos inmóbiles"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

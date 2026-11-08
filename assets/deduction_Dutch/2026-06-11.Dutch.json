@@ -1,0 +1,61 @@
+{
+  "title": "Het dorp aan de oevers van Trial",
+  "intro": "Je bevindt je in een kustdorp, waar het geluid van de golven zich vermengt met het gefluister van een vergeten volk. Ze kregen de opdracht tot rust, maar hun hebzucht leidde tot een straf waarover nog steeds in gefluisterde tonen wordt gesproken. Kun jij ontdekken wie ze waren?",
+  "clues": [
+    "We woonden aan de kust en kregen de opdracht om een ​​dag rust te nemen.",
+    "Op die dag zouden er veel vissen naar ons toe komen, maar het was ons verboden ze te vangen.",
+    "Sommigen onder ons waarschuwden voor overtredingen, maar anderen spanden samen om toch te gaan vissen.",
+    "We hebben het heilige gebod overtreden en een zware straf over onszelf afgeroepen.",
+    "Onze straf was een transformatie die ons verminkt en in ongenade liet vallen.",
+    "We werden in apen veranderd, een teken voor allen die na ons zouden komen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Mensen van de sabbat",
+        "De inwoners van Thamud",
+        "Mensen van 'Ad",
+        "Mensen van de grot",
+        "Mensen van de Olifant"
+      ],
+      "answer": "Mensen van de sabbat"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Vissen op de sabbat",
+        "Het aanbidden van een gouden kalf",
+        "Het bericht van Hud ontkennen",
+        "Het doden van de kameelvrouw",
+        "Een toren bouwen naar de hemel"
+      ],
+      "answer": "Vissen op de sabbat"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "De vis",
+        "Een kameelvrouw",
+        "Een personeelsbestand",
+        "Een boot",
+        "Een tuin"
+      ],
+      "answer": "De vis"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Veranderd in apen",
+        "Verwoest door een overstroming.",
+        "Verwoest door een felle brand.",
+        "Verzwolgen door de aarde",
+        "Verspreid door de wind"
+      ],
+      "answer": "Veranderd in apen"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den brinnande motståndaren",
+  "intro": "I uppenbarelsens tidiga dagar framträdde en figur som en envis motståndare till sanningen. Välsignad med rikedom och status valde denna själ stolthet framför vägledning, och deras berättelse blev en skarp varning i de sista verserna av en sura.",
+  "clues": [
+    "Jag bodde i samma stad som profeten, och jag var bland hans närmaste släktingar, men min stolthet höll mig avlägsen från sanningen.",
+    "Jag ägde stor rikedom och många egendomar, och jag trodde att mina tillgångar alltid skulle skydda mig.",
+    "När budskapet uppenbarades, hånade jag det öppet och vände mig bort, eftersom jag ansåg mig själv vara överlägsen de troende.",
+    "Min fiendskap var så ökänd att en sura i Koranen tilltalade mig direkt, och kallade mig vid det namn som andra kände mig.",
+    "Jag blev varnad för att min rikedom och mina inkomster inte skulle gagna mig, och att jag skulle kastas i en flammande eld.",
+    "Jag är känd som lågans fader, och min fru bär veden med ett rep av palmfiber runt halsen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Förkastade islam och motsatte sig öppet profeten",
+        "Planerade att mörda profeten",
+        "Ledde en social bojkott mot muslimer",
+        "Kämpade i slaget vid Badr",
+        "Torterade Bilal ibn Rabah"
+      ],
+      "answer": "Förkastade islam och motsatte sig öppet profeten"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Ett rep av palmfiber",
+        "Ett vasst svärd",
+        "En tung kedja",
+        "En trästav",
+        "En läderpiska"
+      ],
+      "answer": "Ett rep av palmfiber"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Kommer att brinna i en flammande eld",
+        "Omvände sig och blev en följeslagare",
+        "Förlorade sin rikedom men dog hedrad",
+        "Flydde till Abessinien",
+        "Drunknade i havet"
+      ],
+      "answer": "Kommer att brinna i en flammande eld"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

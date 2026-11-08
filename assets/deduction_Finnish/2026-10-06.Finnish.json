@@ -1,0 +1,61 @@
+{
+  "title": "Totuus, joka vaiensi oikeuden",
+  "intro": "Palatsissa, jossa vallitsi kieltäminen ja valta oli ehdoton, joukko taitavia harjoittajia seisoi odottamattoman haasteen edessä. Ilma pakahti odotuksesta, kun valheen ja totuuden kaksi polkua olivat törmäysmäisillään. Kokoontuneet eivät tienneet, että tämä kohtaaminen muuttaisi heidän elämänsä ikuisiksi ajoiksi ja kaivertaisi heidän tarinansa pyhään tekstiin.",
+  "clues": [
+    "Meidät tunnettiin illuusioiden luomistaidoistamme, ja mahtava hallitsija kokosi meidät kohtaamaan haastajan.",
+    "Kun hetki koitti, valasimme instrumenttimme ja odotimme lopputulosta luottavaisin mielin ammattitaitoomme.",
+    "Mutta se, mitä näimme, sai omat laitteemme näyttämään pelkiltä leluilta, ja sydämemme tunnistivat kiistattoman totuuden.",
+    "Me lankesimme maahan kumarrukseen ja julistimme uskomme Mooseksen ja Aaronin Herraan hallitsijan raivosta huolimatta.",
+    "Tuo hallitsija uhkasi meitä mitä julmimmalla rangaistuksella ja vannoi ristiinnaulitsevansa meidät ja katkaisevansa raajamme vastakkaisiin suuntiin.",
+    "Me pysyimme järkkymättöminä sanoen, että pidimme Herramme tuomiota parempana kuin mitään maallisia seurauksia, ja meidät tapettiin marttyyrikuolemana uskomme tähden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Faaraon velhot",
+        "Luolan ihmiset",
+        "Metsän seuralaiset",
+        "Jesan opetuslapset",
+        "Norsun kansa"
+      ],
+      "answer": "Faaraon velhot"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Taikakilpailu Musaa vastaan",
+        "Heidän päälleen heitetty tuli",
+        "Tulva, joka hukutti heidät",
+        "Kuivuus ja nälänhätä",
+        "Maanjäristys"
+      ],
+      "answer": "Taikakilpailu Musaa vastaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Sauvat ja köydet, jotka muuttuivat käärmeiksi",
+        "Palava pensas",
+        "Naaraskameli",
+        "Puinen arkki",
+        "Valas"
+      ],
+      "answer": "Sauvat ja köydet, jotka muuttuivat käärmeiksi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Teloitettiin uskon tähden, luvattiin paratiisi",
+        "Hukkui mereen",
+        "Tulivat Egyptin hallitsijoiksi",
+        "Faaraon jäljellä olevat seuraajat",
+        "Peri maan"
+      ],
+      "answer": "Teloitettiin uskon tähden, luvattiin paratiisi"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

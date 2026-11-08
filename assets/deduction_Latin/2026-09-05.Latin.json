@@ -1,0 +1,61 @@
+{
+  "title": "Splendor Qui Mersit",
+  "intro": "Finge hoc: animam vestibus exquisitis involutam et thesauris imaginatione supra omnem imaginationem circumdatam. Hic homo divitias suas per ingenium proprium acquisitas esse credebat, numquam fontem verae provisionis agnoscens. Inter sectatores vatis potentis ambulans, hic homo omnem vocationem ad humilitatem recusavit. Hodie, identitatem personae cuius magnifica fortuna ultima quies eorum facta est detegimus.",
+  "clues": [
+    "Vixi tempore prophetae qui gentem pertinacem ad veritatem vocavit.",
+    "Pars communitatis electae eram, tamen cor meum a nuntio aversatum est.",
+    "Aurum et argentum me magis quam ullum divinum mandatum capiebant.",
+    "Thesauri mei tam vastae factae sunt ut fortis virorum coetus vix claves tollere posset.",
+    "Gloriatus sum divitias meas mihi propter meam scientiam datas esse.",
+    "Tandem, ego et tota domus mea a terra absorpti sumus, quasi admonitio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Qarun",
+        "Aman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saulus)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Superbia super divitias et recusatio caritatis",
+        "Ex gemmis liquefactis simulacrum aureum fingens",
+        "Divinitatem super regnum potentem declarans",
+        "Persecutio primorum fidelium Meccae",
+        "Ducens expeditionem ad Sacram Domum delendam"
+      ],
+      "answer": "Superbia super divitias et recusatio caritatis"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Thesauri quorum claves multos viros fortes onerabant",
+        "Vitulus aureus qui sonum edidit",
+        "Thronus gloriosus ex terra longinqua",
+        "Fossa igne ardenti repleta",
+        "Exercitus ingens elephantorum bellicorum"
+      ],
+      "answer": "Thesauri quorum claves multos viros fortes onerabant"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "A terra absorptus una cum domicilio",
+        "In mari cum exercitu submersus",
+        "Vivus in fovea ignis combustus",
+        "Vento ululante, furente deletus",
+        "Uno ictu ingenti percussus"
+      ],
+      "answer": "A terra absorptus una cum domicilio"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

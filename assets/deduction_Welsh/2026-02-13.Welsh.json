@@ -1,0 +1,61 @@
+{
+  "title": "Ymostyngiad Mawr y Sofran",
+  "intro": "Rydych chi'n dod o hyd i chi'ch hun mewn gwlad o ryfeddodau hynafol a datguddiad dwys. Mae rheolwr pwerus, yn wynebu gwahoddiad annisgwyl, wedi cychwyn ar daith a fyddai'n newid cwrs ei thynged a ffydd ei phobl. Allwch chi ddatgelu hunaniaeth y ffigur mawreddog hwn?",
+  "clues": [
+    "Rheolais dros deyrnas ffyniannus, wedi'i haddurno â chyfoeth aruthrol a gorsedd fawreddog.",
+    "Roedd fy mhobl a minnau'n addoli corff nefol, gan gredu mai ein harglwydd ydoedd, er bod gen i amheuon yn fy nghalon.",
+    "Cyflwynodd negesydd rhyfedd, aderyn, lythyr ataf, yn fy ngalw i a'm pobl i ufuddhau i'r Un Duw.",
+    "Ymgynghorais â'm cynghorwyr, a oedd yn nerthol o ran nerth, ynghylch sut i ymateb i'r neges ddigynsail hon.",
+    "Penderfynais anfon anrheg werthfawr at yr un a anfonodd y llythyr, gan obeithio mesur ei bŵer a'i fwriadau.",
+    "Ar ôl cyrraedd, cefais fy synnu gan balas â llawr wedi'i wneud o wydr, yn ymddangos fel pwll o ddŵr, ac yna y datganais fy ymostyngiad i Arglwydd yr holl greadigaeth."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pharo",
+        "Brenhines Sheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Proffwyd Yusuf"
+      ],
+      "answer": "Brenhines Sheba"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Hollti'r môr",
+        "Y llifogydd mawr",
+        "Y daith i gwrdd â'r Proffwyd Sulayman",
+        "Dinistr pobl Lut",
+        "Llosgi'r Proffwyd Ibrahim"
+      ],
+      "answer": "Y daith i gwrdd â'r Proffwyd Sulayman"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr Arch",
+        "Y Staff",
+        "Yr Orsedd",
+        "Y Mynydd",
+        "Y Tân"
+      ],
+      "answer": "Yr Orsedd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Daeth yn broffwyd",
+        "Cafodd ei ddinistrio gan Allah",
+        "Cofleidio Islam",
+        "Arweiniodd ei phobl i ryfel",
+        "Adeiladodd deml fawreddog"
+      ],
+      "answer": "Cofleidio Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

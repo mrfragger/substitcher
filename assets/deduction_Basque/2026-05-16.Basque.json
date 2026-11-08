@@ -1,0 +1,61 @@
+{
+  "title": "Salbazioaren Eraikitzaile Irmoa",
+  "intro": "Pazientzia izugarri eta konbikzio irmoko pertsonaia izanik, pertsona honek urte amaigabeak eskaini zizkion jainkozko misio bati, etengabeko mespretxu eta arbuioari aurre eginez. Beren istorioa fedearen lekuko indartsua da sinesgaiztasun izugarriaren aurrean, mundua birmoldatu zuen gertaera garrantzitsu batean amaituz.",
+  "clues": [
+    "Nire bizitzako denbora izugarri luzea eskaini nuen nire herria Ala gurtzera deituz.",
+    "Nire jendeak iseka egin zidan eta akats agerikoa eta eromenaz leporatu ninduen.",
+    "Nire itsasertz gabeko komunitatearentzat ezohikoa zirudien zerbait eraikitzeko agindu zidaten.",
+    "Gutxi batzuk bakarrik sinetsi eta nirekin eta nire familiarekin bat egin zuten eraikuntza paregabe honetan.",
+    "Alak agindu bezala, izaki bizidun guztietako binaka eraman nituen ontzian.",
+    "Uholde handi batek irentsi zuen lurra, nirekin ontzian zeudenak bakarrik salbatuz, nire semea, berriz, bere sinesgaiztasunagatik hil zen bitartean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Salih profeta",
+        "Hud profeta",
+        "Nuh profeta",
+        "Dawud profeta",
+        "Sulayman profeta"
+      ],
+      "answer": "Nuh profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Lurrikara batek eragindako suntsipena",
+        "Itsasoaren zatiketa.",
+        "Uholde handia.",
+        "Nimroden sua.",
+        "Igelen izurritea."
+      ],
+      "answer": "Uholde handia."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sasi erretzailea",
+        "Arka",
+        "Uraren putzua.",
+        "Urrezko txahala",
+        "Tur mendia."
+      ],
+      "answer": "Arka"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erreinua jaso zuen",
+        "Bere jendea tximino bihurtu zen",
+        "Bere herria mirari baten bidez salbatu zen",
+        "Bere jendea ito egin zen",
+        "Bere herria tximista batek jo zuen"
+      ],
+      "answer": "Bere jendea ito egin zen"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

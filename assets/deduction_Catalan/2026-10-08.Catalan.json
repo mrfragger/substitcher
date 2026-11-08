@@ -1,0 +1,61 @@
+{
+  "title": "Els talladors de pedra de la Vall Antiga",
+  "intro": "Imagineu-vos una civilització que va sorgir a les valls rocoses d'Aràbia, hàbil en esculpir magnífiques cases des dels vessants de les muntanyes. Van florir amb força i art, però la seva història està marcada per un desafiament esgarrifós a l'advertència divina. A mesura que us endinseu en la seva història, descobrireu un poble l'arrogància del qual va conduir a la seva aniquilació total. Qui eren?",
+  "clues": [
+    "Vam heretar una terra de planes rocoses i penya-segats imponents, on vam construir les nostres cases amb una habilitat inigualable.",
+    "Érem coneguts per excavar cases segures a les muntanyes, sentint-nos protegits de qualsevol perill.",
+    "Un missatger va venir a nosaltres de nosaltres mateixos, recordant-nos els favors d'Al·là i advertint-nos del càstig.",
+    "Vam exigir un senyal, i una camella miraculosa va emergir de la roca, una prova clara d'Al·là.",
+    "Vam desafiar l'advertència i vam fer malbé els pospartos a la camella, burlant-nos del missatger i desafiant el càstig.",
+    "Una sola explosió ens va sorprendre a casa nostra, i al matí jeiem prostrats, com si no hi haguéssim viscut mai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent de Thamud",
+        "Gent d'Ad",
+        "Gent de Madyan",
+        "Gent de Nuh",
+        "Gent de Lut"
+      ],
+      "answer": "Gent de Thamud"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Tenyit el camell",
+        "Va trencar el Sàbat",
+        "Adoraven el vedell d'or",
+        "Van matar el profeta que els havia enviat",
+        "Va construir una torre per arribar al cel"
+      ],
+      "answer": "Tenyit el camell"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La camella",
+        "L'Arca",
+        "El personal",
+        "La mà blanca",
+        "El mannà i les guatlles"
+      ],
+      "answer": "La camella"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruït per una explosió",
+        "Salvat de la destrucció",
+        "Convertits en simis",
+        "Ofegat al mar",
+        "Engolit per la terra"
+      ],
+      "answer": "Destruït per una explosió"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

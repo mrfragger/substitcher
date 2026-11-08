@@ -1,0 +1,61 @@
+{
+  "title": "Taron Tunawa a Ƙofar Wuta",
+  "intro": "Taro mai ƙarfi da shiru suna tsaye suna kallo a bakin ƙofa mai ban tsoro, ba sa ɗanɗana abinci, abin sha, ko hutawa. An ƙera su daga wani abu kamar yumbu na ɗan adam, suna jiran manufa ɗaya tilo ta tsoro—kuma ba su taɓa yin rashin biyayya ga ko da umarni ɗaya daga Ubangijinsu ba.",
+  "clues": [
+    "Mu halittu ne ba kamar mutane ba, waɗanda aka halicce su daga wani abu da ba ya ci, ba ya sha, ba ya gajiya.",
+    "An san kuma an bayyana ainihin adadinmu a cikin Littafi—mu ba mu da adadi ko kuma jama'a.",
+    "Ba mu taɓa yin rashin biyayya ga Mahaliccinmu ba, kuma ba ma yin magana kafin a umarce mu.",
+    "Idan Ranar ta zo, za a tura kafirai zuwa gare mu a cikin ƙungiyoyi, kuma za mu buɗe musu ƙofofi.",
+    "Za mu tambaye su: \"Shin, manzanni daga cikinku ba su zo muku ba, suna yi muku gargaɗi game da wannan rana?\"",
+    "Muna tsare wani wuri wanda babu wani rai da zai taɓa fitowa daga ciki—wurin azabar har abada mai zafi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Masu Tsaron Wutar Jahannama (Zabaniyah)",
+        "Masu ƊAUKAR AL'ARSHIN ALLAH",
+        "Mala'iku masu rikodin (Kiraman Katibin)",
+        "Mala'ikun Mutuwa",
+        "Masu Gadin Aljanna"
+      ],
+      "answer": "Masu Tsaron Wutar Jahannama (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Babban Aikinmu",
+      "options": [
+        "Suna tsaron ƙofofin Wutar Jahannama",
+        "Rubuta duk wani aikin ɗan adam",
+        "ƊAUKAR AL'ARSHIN ALLAH",
+        "Ɗaukin rayukan mamaci",
+        "Umarni da iskoki da gajimare"
+      ],
+      "answer": "Suna tsaron ƙofofin Wutar Jahannama"
+    },
+    "location": {
+      "label": "Me Muke Karewa?",
+      "options": [
+        "Wutar Jahannama",
+        "Al'arshin Allah",
+        "Littattafan Ayyuka",
+        "Kogunan Aljanna",
+        "Duwatsun Duniya"
+      ],
+      "answer": "Wutar Jahannama"
+    },
+    "outcome": {
+      "label": "Makomar Waɗanda Ke Cikin Yankinmu",
+      "options": [
+        "Za su dawwama har abada kuma ba za su taɓa barin ba",
+        "Daga ƙarshe za a yafe musu sannan a sake su.",
+        "Za a tsarkake su akan lokaci",
+        "Za a canza su zuwa wasu siffofi",
+        "Za su yi ta juyawa tsakanin Jahannama da Aljanna"
+      ],
+      "answer": "Za su dawwama har abada kuma ba za su taɓa barin ba"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

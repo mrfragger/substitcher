@@ -1,0 +1,61 @@
+{
+  "title": "Näletlenen eller",
+  "intro": "Siz gadymy Mekkäniň egri-bugry köçelerinde dursuňyz, bu ýerde täsirli we baý bir jan bir wagtlar hakykatyň çagyryşyndan ýüz öwürdi. Bu şahsyýetiň hekaýasy gan baglanyşygynyň gurur zynjyrlaryny ýeňip bilmejekdigini aýdyň görkezýär. Ady garaşýan ot bilen ýaňlanýan bu adam kim?",
+  "clues": [
+    "Men Mekkäniň köçelerinde hakykaty görmäge meni kör edýän buýsanç bilen ýöredim, emma ilçi meniň öz ganymdandy.",
+    "Meniň emlägim örän ulydy, ýöne olar galkan däl-de, nälet boldy.",
+    "Ýol görkeziji kitap meniň heläkçiligim barada gürrüň berýär, ellerimiň we bedenimiň ýok boljakdygyny aýdýar.",
+    "Meniň aýalym hem meniň duşmançylyk kampaniýama goşuldy we Alla çagyranyň ýoluna tikenleri ýaýratmak üçin tikenleri ýygnady.",
+    "Kyýamat güni men ýanyp duran otda bolaryn, aýalymyň boýnunda hurma süýüminden ýüp bolar.",
+    "Men \"ýalgyň atasy\" diýmegi aňladýan at bilen tanalýaryn — bu at meniň ebedi ýaşaýan ýerimi öňünden aýdýar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufýan",
+        "Al-Walid ibn al-Mugira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Esasy synag ýa-da waka",
+      "options": [
+        "Pygambere garşy çykdy we Gurhanda näletlendi",
+        "Käbäni ýok etmek üçin goşuna ýolbaşçylyk etdi",
+        "Pygamberi daşlap öldürmäge synanyşdy",
+        "Aýyň bölünmegine ynanmakdan ýüz öwürdi",
+        "Göklere ýetmek üçin diň gurdy"
+      ],
+      "answer": "Pygambere garşy çykdy we Gurhanda näletlendi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Dowzahyň ýanýan ody",
+        "Musanyň taýagy",
+        "Nuhyň gämisi",
+        "Zemzem guýusy",
+        "Altyn göle"
+      ],
+      "answer": "Dowzahyň ýanýan ody"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ol ýanýan oda girer we onuň baýlygy oňa peýda bermez.",
+        "Ol toba etdi we iman getirdi",
+        "Ol öz pikirinden ýüz öwürenden soň bagyşlandy",
+        "Ol şehit bolup öldi",
+        "Ol göklere göterildi"
+      ],
+      "answer": "Ol ýanýan oda girer we onuň baýlygy oňa peýda bermez."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

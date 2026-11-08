@@ -1,0 +1,61 @@
+{
+  "title": "Uyqudagi Haqiqat Izlovchilari",
+  "intro": "E'tiqodga shubha bilan qaralgan va bir guruh ruhlar dunyoviy farovonlikdan ko'ra qat'iy ishonchni tanlagan bir davrni tasavvur qiling. Qo'rqinchli tanlovga duch kelgan ular panoh izlab, g'ayrioddiy uyquga olib boradigan sayohatga otlanishdi. Ularning hikoyasi ilohiy himoya va zulmga qarshi imon kuchining dalilidir. Bu ajoyib shaxslarning kimligini ajrata olasizmi?",
+  "clues": [
+    "Biz yagona Yaratguvchiga bo'lgan chuqur ishonch bilan birlashgan kichik bir jamoa edik.",
+    "Biz qudratli hukmdor Allohdan boshqasiga sig'inishni talab qilgan davrda yashadik.",
+    "Imonimizni saqlab qolish uchun biz uylarimizni tashlab, zulmdan qochishga qaror qildik.",
+    "Sayohatimizda bizga sodiq hamroh, yer yuzidagi mavjudot hamrohlik qildi.",
+    "Biz tanho joyda panoh topdik, u yerda Alloh bizni chuqur va uzoq uyquga yubordi.",
+    "Uyg'onganimizda, biz faqat bir kun yoki kunning bir qismi o'tgan deb o'ylagan edik, lekin asrlar haqiqatan ham o'tib ketgan edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Xandaq xalqi",
+        "Samud qavmi",
+        "Saba' xalqi",
+        "G'or ahli",
+        "Madyan xalqi"
+      ],
+      "answer": "G'or ahli"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Tuproqsiz yer bilan sinovdan o'tmoqda",
+        "Katta suv toshqiniga duch kelish",
+        "Zolim hukmdordan panoh izlash",
+        "Yonayotgan olovga tashlanmoqda",
+        "Sehrgarning sehriga qarshi chiqish"
+      ],
+      "answer": "Zolim hukmdordan panoh izlash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Buyuk saroy",
+        "Kema/kema",
+        "Chuqur quduq",
+        "G'or",
+        "Baland tog'"
+      ],
+      "answer": "G'or"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Shohlik berilishi",
+        "Asrlar davomida mo''jizaviy uyqu",
+        "Yer tomonidan yutib yuborilmoqda",
+        "Vayronkor bo'rondan qutqarilish",
+        "Jannat dasturxoni bilan ta'minlanish"
+      ],
+      "answer": "Asrlar davomida mo''jizaviy uyqu"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

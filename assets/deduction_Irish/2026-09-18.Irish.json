@@ -1,0 +1,61 @@
+{
+  "title": "An Glaoch ón nGleann Naofa",
+  "intro": "Taobh amuigh de leathanaigh na staire tá scéal anama a sheas idir rialóir cumhachtach agus pobal iomlán sclábhaithe. Glaodh ar an duine seo náisiún a shaoradh ó thiorántacht, ag déanamh míorúiltí a sháraigh gach dlí nádúrtha. Ó shliabh naofa go míorúilt ar na huiscí, chonaic seirbhíseach Allah seo comharthaí a mhacallaodh trí na haoiseanna. Is é an tasc atá agat inniu an figiúr suntasach seo a aithint a raibh a oidhreacht ina chúis le cúrsa stair an chine dhaonna.",
+  "clues": [
+    "Rugadh mé le linn tréimhse inar tugadh foraithne mharfach do mo mhuintir, agus chuir mo theaghlach sna huiscí mé le mo shaol a shábháil.",
+    "Fuarthas agus tógadh mé i dteaghlach an rialóra a d'ordaigh bás mo chineáil.",
+    "Theith mé go sliabh naofa áit ar chonaic mé tine ar chrann nár loisc, agus labhair guth liom uaidh.",
+    "Cuireadh ar ais chuig an rialóir céanna mé le míorúiltí, ag éileamh saoirse mo mhuintire sclábhaithe.",
+    "Bhuail mé an fharraige le mo bhata, agus roinn mé í ina cosáin thirime, ag slogadh na n-iomaitheoirí a lean mo mhuintir.",
+    "Labhair mé le mo Thiarna ar shliabh ar feadh daichead oíche, agus bronnadh táibléid treorach dhiaga orm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "an Fáidh Músa",
+        "Fáidh Harun",
+        "Fáidh Ibrahim",
+        "Fáidh Iósaf",
+        "Fáidh Dawud"
+      ],
+      "answer": "an Fáidh Músa"
+    },
+    "trial": {
+      "label": "Mo Thriail Shainitheach",
+      "options": [
+        "Deighilt na Farraige",
+        "Ag Tógáil na hAirce Móire",
+        "Triail le Tine Lasrach",
+        "Coinneáil i mbolg míolta móra",
+        "Príosúnacht ag Oifigeach Éigipteach"
+      ],
+      "answer": "Deighilt na Farraige"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Foireann Aoire",
+        "Áirc Adhmaid Mhór",
+        "Uaimh inar chodail an t-am",
+        "Gairdín le Dhá Thobair",
+        "Ríchathaoir Maisithe le hÓr"
+      ],
+      "answer": "Foireann Aoire"
+    },
+    "outcome": {
+      "label": "An Toradh",
+      "options": [
+        "Thrasnaigh mo mhuintir an fharraige go sábháilte",
+        "Scrios Tuilte Mór na Díchreidmhigh",
+        "D’éirigh Tine Tíorán Fionnuar agus Síochánta",
+        "Chaith an Fharraige a braighdeán ar an gcladach",
+        "Rinneadh Cisteoir na hÉigipte den Bhríosúnach"
+      ],
+      "answer": "Thrasnaigh mo mhuintir an fharraige go sábháilte"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

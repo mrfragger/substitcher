@@ -1,0 +1,61 @@
+{
+  "title": "La nazione che sfidò l'ordine naturale",
+  "intro": "In una regione la cui storia riecheggia attraverso i secoli, una comunità visse in aperta ribellione contro le leggi della purezza. Le loro gesta furono così senza precedenti da essere ricordate come un monito per tutta l'umanità. Chi erano queste anime e quale destino le ha colpite?",
+  "clues": [
+    "Abitavamo in una terra lungo una via di passaggio frequente per i viaggiatori, ma rendevamo il loro viaggio pericoloso.",
+    "Abbiamo commesso atti di indecenza tali che nessuno al mondo li aveva mai commessi prima.",
+    "Un messaggero venuto da noi ci ha esortato ad abbandonare le nostre vie, ma noi lo abbiamo respinto e abbiamo chiesto la punizione se avesse detto la verità.",
+    "Quando ospiti di bell'aspetto giungevano nella nostra città, cercavamo di assalirli, ignari che fossero messaggeri di distruzione.",
+    "Ci avevano avvertito di una terribile punizione se non avessimo desistito, ma abbiamo deriso l'avvertimento e siamo rimasti nel nostro peccato.",
+    "Una pioggia di pietre cadde dal cielo su di noi e le nostre case furono rovesciate, senza lasciare traccia se non un segno per chi riflette."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Popolo di Lutero",
+        "Popolo di Thamud",
+        "Popolo di A'ad",
+        "Popolo di Madyan",
+        "Popolo di Saba"
+      ],
+      "answer": "Popolo di Lutero"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ha commesso un'immoralità senza precedenti e ha ostruito le strade",
+        "Adorava un vitello d'oro",
+        "Uccise la sacra cammella",
+        "Imbrogliavano nel commercio e truffavano la gente",
+        "Costruire un'imponente torre per sfidare il cielo."
+      ],
+      "answer": "Ha commesso un'immoralità senza precedenti e ha ostruito le strade"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Angeli travestiti da ospiti affascinanti",
+        "Una cammella che emerge da una roccia",
+        "Un bastone che si trasforma in un serpente",
+        "Una barca costruita su una montagna",
+        "Un fuoco che si è raffreddato e ha portato pace"
+      ],
+      "answer": "Angeli travestiti da ospiti affascinanti"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Distrutto da una pioggia di pietre dal cielo",
+        "Inghiottito dalla terra",
+        "Annegato in una grande alluvione",
+        "Colpito da un'esplosione assordante",
+        "Trasformati in scimmie"
+      ],
+      "answer": "Distrutto da una pioggia di pietre dal cielo"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

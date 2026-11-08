@@ -1,0 +1,61 @@
+{
+  "title": "Hassada Da Ta Cika",
+  "intro": "Labari ne da ya fi kowace masarauta ko littafi mai tsarki—mummunan bala'i na farko da ɗan adam ya haifa da kishi. Mutum ɗaya, babba daga cikin 'ya'ya biyu da aka haifa wa iyayen farko, ya kalli cikin fushi yayin da ƙaramin ɗan'uwansa ya sami tagomashi wanda aka ƙi. Abin da ya biyo baya shi ne mafi duhun zaɓi, wanda ya bar jini na farko da aka taɓa zubarwa a duniya. Za ku iya gano asalinsa, gwajin, da kuma baƙin cikin da ya faru?",
+  "clues": [
+    "An haife ni ne daga cikin mutane na farko da suka yi tafiya a duniya.",
+    "Na taɓa yin hadaya ga Allah, amma ba a karɓa daga gare ni ba.",
+    "An karɓi tayin ɗan'uwana, yayin da nawa aka ƙi—wani abu da ban iya jurewa ba.",
+    "Na yi barazanar halaka ɗan'uwana.",
+    "Ni ne na farko da ya aikata kisan kai a wannan duniyar, inda ya kashe ɗan'uwana.",
+    "Allah ya aiko da wani halitta daga duniya - tsuntsu baƙar fata yana tono ƙasa - don ya koya mini yadda zan ɓoye abin da na yi, kuma na bar komai sai nadama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Qabil (Ka'in)",
+        "Habila (Habila)",
+        "Annabi Yaƙub",
+        "Annabi Musa",
+        "Annabi Adamu"
+      ],
+      "answer": "Qabil (Ka'in)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Allah ya ƙi bayarwa",
+        "An jefa shi cikin babbar wuta",
+        "An yi watsi da shi tun yana jariri a cikin kogi",
+        "An gwada shi da wata babbar masarauta",
+        "An umarce shi da ya yi hadaya da ɗansa"
+      ],
+      "answer": "Allah ya ƙi bayarwa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Hankaka da Allah ya aiko",
+        "Ɗan maraƙin zinariya",
+        "Akwatin da ke kan dutse",
+        "Dajin da ke ƙonewa",
+        "Raƙumin da aka sassaka daga dutse"
+      ],
+      "answer": "Hankaka da Allah ya aiko"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya cika da nadama kuma ya kasance cikin waɗanda suka yi asara",
+        "An haɗiye shi cikin ƙasa tare da taskoki",
+        "Ya zama manzon Allah mai daraja",
+        "Shiga Aljanna ta hanyar rahamar Allah",
+        "An yi mulki a kan masarauta mara misaltuwa"
+      ],
+      "answer": "Ya cika da nadama kuma ya kasance cikin waɗanda suka yi asara"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

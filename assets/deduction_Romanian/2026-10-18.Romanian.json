@@ -1,0 +1,61 @@
+{
+  "title": "Vestea bună la bătrânețe",
+  "intro": "Sunteți martorii unui moment în care speranța este reaprinsă. Un cuplu, de mult trecut de vârsta părinților, primește o promisiune care sfidează legile naturii. În mijlocul lor se află o figură a cărei existență este un semn al milei divine - un suflet destinat profeției, purtător al unei moșteniri care va străbate generațiile. Cine este această persoană remarcabilă?",
+  "clues": [
+    "M-am născut din părinți care ajunseseră la bătrânețe și nu aveau copii.",
+    "Nașterea mea a fost anunțată de îngeri care au venit ca oaspeți la familia mea.",
+    "Mi s-a dat înțelepciune și profeție și sunt menționat printre pacienți.",
+    "Tatăl meu era numit prietenul lui Allah, iar eu am fost un dar pentru el în anii de apoi.",
+    "Am avut un frate care era și el profet și amândoi am fost binecuvântați de Domnul nostru.",
+    "Fiul meu a fost și el profet, iar urmașilor mei li s-au dat scriptura și profeția."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Ishaq (Isaac)",
+        "Profetul Ismail (Ismael)",
+        "Profetul Yaqub (Iacob)",
+        "Profetul Yahya (Ioan)",
+        "Profetul Uzair (Ezra)"
+      ],
+      "answer": "Profetul Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Născut din părinți în vârstă",
+        "Aruncat în foc",
+        "Dându-i un regat și bogăție",
+        "Și-a condus poporul din Egipt",
+        "A construit o arcă pentru a-i salva pe credincioși"
+      ],
+      "answer": "Născut din părinți în vârstă"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Vestea bună a unui fiu",
+        "Rugul aprins",
+        "Vițelul de aur",
+        "Arca legământului",
+        "Toiagul profeției"
+      ],
+      "answer": "Vestea bună a unui fiu"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A devenit un profet cu o linie de profeți",
+        "A devenit un rege bogat",
+        "Poporul său a fost distrus pentru necredință",
+        "A fost salvat din incendiu",
+        "I s-a dat capacitatea de a vorbi încă de mic"
+      ],
+      "answer": "A devenit un profet cu o linie de profeți"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

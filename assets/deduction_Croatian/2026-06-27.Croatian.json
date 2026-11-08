@@ -1,0 +1,61 @@
+{
+  "title": "Sveta odsutnost",
+  "intro": "Iza dina vremena, krije se priča o nepokolebljivoj odanosti i povjerenju toliko teškom da je duša koja ga je nosila mogla slomiti. U trenutku kada su se ljudi okrenuli ludosti i zlatu, jedna je figura stajala čvrsto - pozivajući ih natrag, moleći za strpljenje i noseći teret svetog obećanja. Ovo je priča o onome tko je izabran za pomoćnika, vezira i čuvara vjere tijekom svete odsutnosti. Možete li otkriti identitet ove postojane duše?",
+  "clues": [
+    "Dijelim krv velikog proroka koji je izabran da razgovara s Allahom izravno na svetoj gori.",
+    "Moj brat je jednom molio Allaha za pomoć da jasno razgovara s velikim tlačiteljem.",
+    "Allah me je odabrao da budem uz svog brata ili sestru kao pomoćnik i vezir.",
+    "Zajedno smo se suočili s tiranskim vladarom koji je zahtijevao da ga se naziva najvišim od bogova.",
+    "Dok je moj brat razgovarao s Allahom na planini, naš narod je sebi napravio idola od svog zlata.",
+    "Ja sam Musaov brat, kojeg je Allah postavio za svog vezira, a ime mi je spomenuto u Kur'anu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Prorok Harun (Aron)",
+        "Poslanik Musa",
+        "Poslanik Davud",
+        "Prorok Jakub",
+        "Poslanik Ishak"
+      ],
+      "answer": "Prorok Harun (Aron)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Kriza obožavanja teleta",
+        "Velika poplava Nuha",
+        "Bitka kod Badra",
+        "Uništenje Semuda",
+        "Uništenje Sodome"
+      ],
+      "answer": "Kriza obožavanja teleta"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlatno tele",
+        "Noina arka",
+        "Gorući grm",
+        "Špilja Hira",
+        "Prijestolje od Sabe"
+      ],
+      "answer": "Zlatno tele"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Nevinost potvrđena od Allaha",
+        "Utapanje faraona",
+        "Izgradnja Kabe",
+        "Siguran prelazak mora",
+        "Uzašašće na nebesa"
+      ],
+      "answer": "Nevinost potvrđena od Allaha"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

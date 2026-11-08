@@ -1,0 +1,61 @@
+{
+  "title": "Miegs ārpus laika",
+  "intro": "Iedomājieties laiku, kad patiesība tika apklusināta un ticīgie tika vajāti. Neliela grupa izvēlējās atkāpšanos, nevis padošanos, atrodot patvērumu visneticamākajā vietā — vietā, kas kļuva par viņu atpūtas vietu neskaitāmiem gadsimtiem. Kad viņi beidzot pamodās, pasaule ap viņiem bija mainījusies. Kas ir šīs snaudošās dvēseles?",
+  "clues": [
+    "Mēs bijām jauni cilvēki, kas dzīvoja senā pilsētā.",
+    "Mūsu kopiena pieprasīja, lai mēs pielūgtu kopā ar viņiem, bet mēs atteicāmies.",
+    "Mēs aizbēgām no pilsētas, meklējot patvērumu no tiem, kas iebilda pret mūsu uzskatiem.",
+    "Pie mūsu slēptuves ieejas palika uzticīgs četrkājains biedrs.",
+    "Allāhs lika mums gulēt trīs simti deviņus gadus.",
+    "Kad mēs beidzot pamodāmies, mūsu kādreiz vajājošā pilsēta bija pieņēmusi ticību."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Ašabs al-Kahfs (Alas ļaudis)",
+        "Ašabs al-Fils (Ziloņu armija)",
+        "Ašabs al-Uhduds (Tranšejas biedri)",
+        "Hawariyyun (Isas mācekļi)",
+        "Yajuj wa Majuj (Gogs un Magogs)"
+      ],
+      "answer": "Ašabs al-Kahfs (Alas ļaudis)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Mēs atkāpāmies alā un gulējām gadsimtiem ilgi",
+        "Mēs tikām izglābti no liesmojošas uguns",
+        "Mūs aprija liela zivs",
+        "Mūs pārbaudīja brīnumaina kamieļu mātīte",
+        "Mums tika dotas deviņas skaidras zīmes"
+      ],
+      "answer": "Mēs atkāpāmies alā un gulējām gadsimtiem ilgi"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Dziļa ala kalnos",
+        "Laiva atklātā jūrā",
+        "Augsta celtne, kas sniedzas līdz debesīm",
+        "Dārzs, kas sadalīts starp diviem sāncenšiem",
+        "Dzelzs un vara barjera"
+      ],
+      "answer": "Dziļa ala kalnos"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mēs pamodāmies un atklājām, ka mūsu pilsēta ir pievērsusies ticībai",
+        "Liesmojoša uguns kļuva vēsa un mierīga",
+        "Jūrā noslīka ienaidnieka armija",
+        "Putni, kas nesa akmeņus, iznīcināja ienaidnieku",
+        "Liela zivs mūs palaida krastā"
+      ],
+      "answer": "Mēs pamodāmies un atklājām, ka mūsu pilsēta ir pievērsusies ticībai"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

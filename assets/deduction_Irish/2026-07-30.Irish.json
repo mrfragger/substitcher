@@ -1,0 +1,61 @@
+{
+  "title": "Cuairteoirí Aisteach Chathair Bhalúraithe",
+  "intro": "Tháinig grúpa ag geataí cathrach nárbh eol do mhuintir na cathrach an fhírinne riamh. Thug siad teachtaireacht leo, ach d’iompaigh na háitritheoirí naimhdeach, ag bagairt foréigin. Ach, ó áit gan choinne, d’éirigh guth amháin chun na strainséirí a chosaint, ag réiteach an stáitse do chasadh drámatúil imeachtaí.",
+  "clues": [
+    "Chuaigh muid isteach i gcathair a raibh a muintir gafa le heaspa creidimh.",
+    "D’fhéach siad orainn le hamhras agus dúirt siad, ‘Níl ionaibh ach gnáthdhaoine cosúil linne.’",
+    "Thugamar rabhadh dóibh, ach thóg siad clocha inár n-aghaidh.",
+    "Rith fear ó cheann is faide den chathair chun ár bhfírinne a dhearbhú.",
+    "D’fhógair sé dá mhuintir, ‘Cén fáth nach ndéanfainn adhradh don té a chruthaigh mé?’",
+    "Chríochnaigh séanadh na cathrach le pléasc amháin, agus bhí tost i réim san áit a mbíodh siad ag magadh fúthu tráth."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Teachtairí Ya-Sin",
+        "Deisceabail Íosa",
+        "Muintir na Trinse",
+        "Draíodóirí an Pharaoh",
+        "Creidmheach Ya-Sin"
+      ],
+      "answer": "Teachtairí Ya-Sin"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Diúltú agus bagairt clochadóireachta",
+        "Á chaitheamh isteach i tine fíochmhar",
+        "Tástáil foighne le leanbh caillte",
+        "Gairdín a ndearnadh scrios air",
+        "Turas tríd an bhfarraige"
+      ],
+      "answer": "Diúltú agus bagairt clochadóireachta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An ceann is faide den chathair",
+        "An Mhuir Rua",
+        "Díog na tine",
+        "Uaimh an tearmainn",
+        "Príosún na hÉigipte"
+      ],
+      "answer": "An ceann is faide den chathair"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosadh an chathair le béic amháin",
+        "Scoilt an fharraige agus bádh an t-arm",
+        "D’éirigh an tine fionnuar agus sábháilte",
+        "Loisc tine neamhaí an gairdín",
+        "Thug an míol mór an duine ar ais ar an gcladach"
+      ],
+      "answer": "Scriosadh an chathair le béic amháin"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

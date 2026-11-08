@@ -1,0 +1,61 @@
+{
+  "title": "Võrratu Majesteedi Kadunud Linn",
+  "intro": "Kunagi valitses võimas tsivilisatsioon tohutuid maa-alasid, mida kuulutati taeva poole ulatuvate kõrguvate ehitiste poolest. Kuid selle suursugususe all kasvas kangekaelne eitus – keeldumine kuulda võtmast jumalikku hoiatajat, mis oli saadetud kogukonna enda seest. Uhkus ja ülbus tooksid peagi kaasa karistuse, mille sarnast ei maa ega taevas kunagi näinud polnud.",
+  "clues": [
+    "Kunagi valitsesime tohutuid maa-alasid, hoobeldes jõuga, millega meie arvates ükski teine ​​tsivilisatsioon ei suutnud võistelda.",
+    "Meie kuningriik oli kuulus võimsate sammastega kõrguvate ehitiste poolest, millele ei leidunud ühtegi võrreldavat ühelgi teadaoleval maal.",
+    "Meie enda kogukonnast tõusis hoiataja, kes kutsus meid kõiki üles alistuma üksnes Loojale.",
+    "Me eitasime meile edastatud sõnumit ja keeldusime loobumast päritud teelt.",
+    "Meie vastu paiskus raevukas, ulguv ja ülekaalukalt tugev tuul, mis jättis meid täiesti kaitsetuks.",
+    "Meid jäeti maha nagu õõnsaid palmipuude tüvesid, laiali pillutatud ja unustatud, õppetunniks igale järgnevale põlvkonnale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "A'adi rahvas",
+        "Nuhi rahvas",
+        "Luti rahvas",
+        "Madjani rahvas",
+        "Tubba rahvas"
+      ],
+      "answer": "A'adi rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Karmi karistuse järeleandmatu raevukas tuul",
+        "Üleujutus, mis kattis iga mäetipu",
+        "Põlevate savikivide vihm ülalt",
+        "Üksainus hirmutav karje taevast",
+        "Vägivaldne maavärin, mis lõhestas maa"
+      ],
+      "answer": "Karmi karistuse järeleandmatu raevukas tuul"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Iram, kõrgete sammaste linn",
+        "Mäele ehitatud tohutu puidust laev",
+        "Emane kaamel, kes imekombel kivist välja kerkis",
+        "Siinai mägi, kuhu jumalikud käsud laskusid",
+        "Kristall- ja peenklaasist palee voolavate vete kohal"
+      ],
+      "answer": "Iram, kõrgete sammaste linn"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Jäetud nagu õõnsad palmipuude tüved, laiali ja elutult",
+        "Uppus suure üleujutuse ülekaalukate lainete alla",
+        "Muutusid ahvide ja sigade sarnaseks olenditeks",
+        "Purustatud kõvastunud savikivide vihma all",
+        "Tarbitud ühes kõrvulukustavas karjes, mis läbistas hinge"
+      ],
+      "answer": "Jäetud nagu õõnsad palmipuude tüved, laiali ja elutult"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

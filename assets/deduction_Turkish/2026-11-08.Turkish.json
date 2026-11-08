@@ -1,0 +1,61 @@
+{
+  "title": "yıkıma yol açan ittifak",
+  "intro": "Vahiy ile aynı çatı altında barındığınızı, ancak farklı bir sadakat seçtiğinizi hayal edin. Bu kişi hakikate ve peygamberliğe çok yakın yaşadı, ancak onu reddedenlere yöneldi. Hikayesi, doğruluğa yakın olmanın tek başına güveni ihanet eden bir ruhu kurtaramayacağına dair ciddi bir uyarı niteliğindedir.",
+  "clues": [
+    "Ben, Allah tarafından seçilmiş bir peygamberin evinde yaşadım.",
+    "Kocamın vaaz ettiği gerçeği biliyordum, ama ona gerçekten inanmıyordum.",
+    "Onun güvenini, onu reddedenlerin safına geçerek ve onlara yardım ederek ihanet ettim.",
+    "Benim adım, kâfirlere örnek olması için, benim gibi ihanet eden bir başka peygamber eşiyle birlikte anılıyor.",
+    "Hikâyem, peygamberlerle akrabalığın hiçbir koruma sağlamadığına dair bir uyarı olarak Tahrim Suresi'nde anlatılmaktadır.",
+    "Allah Lut kavmini helak ettiğinde ben de zalimlerle birlikte helak oldum, geriye kalanlarla birlikte ben de kaldım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Lut'un Karısı",
+        "Firavunun Karısı Asiya",
+        "İmran'ın karısı",
+        "İbrahim Peygamber'in eşi Sarah.",
+        "El-Aziz'in Karısı"
+      ],
+      "answer": "Peygamber Lut'un Karısı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Peygambere ihanet ederek, kâfirlere ona karşı yardım etti.",
+        "Bebeği kurtarmak için bir sepete koyup nehre atın.",
+        "Peygamberin yokluğunda altın bir buzağı yapılmasını talep etti.",
+        "Dürüst bir din adamını yolsuzlukla suçlayıp hapse attılar.",
+        "Kabe'yi yıkmak için fillerden oluşan bir orduya önderlik etti."
+      ],
+      "answer": "Peygambere ihanet ederek, kâfirlere ona karşı yardım etti."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Lut halkının yerle bir edilmiş şehirleri",
+        "Nuh'un Gemisi, ilahi emirle inşa edilmiştir.",
+        "İbrahim için ateş soğudu.",
+        "Uyuyan gençler için sığınak mağarası",
+        "Bebeğin sepetinin bulunduğu nehir"
+      ],
+      "answer": "Lut halkının yerle bir edilmiş şehirleri"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bir peygamberle evli olmasına rağmen kâfirlerle birlikte helak oldu.",
+        "Müminlerle birlikte kurtarıldı ve huzur içinde cennete girdi.",
+        "Sonraki nesiller için bir işaret olarak bir sütun haline getirildi.",
+        "Engin hazinelerle birlikte yerin dibine gömüldü.",
+        "Yaşlılığında mucizevi bir çocuk sahibi oldu."
+      ],
+      "answer": "Bir peygamberle evli olmasına rağmen kâfirlerle birlikte helak oldu."
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

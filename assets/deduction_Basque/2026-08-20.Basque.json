@@ -1,0 +1,61 @@
+{
+  "title": "Desafioaren Ahotsa",
+  "intro": "Lurreko lehen gizakia ibili baino askoz lehenago, botere izugarria zuen izaki bat zegoen bake perfektuko erreinu batean, arima debotoenez inguratuta. Agindu bakarra ematen zenean, ahots guztiak amore emanez makurtu ziren, baina ahots bat altxatu zen desafioz, eta desafio horrek oihartzuna izango zuen aro guztietan azken Egunera arte. Nor da eroritako izaki hau?",
+  "clues": [
+    "Distiratsuki sutan zegoen zerbaitetik sortu nintzen, eta nire ondoan zeuden beste batzuk zapaldu zutenaz eratu ziren.",
+    "Leku sakratu batean bizi nintzen izaki debotoen artean, agindu bakar batek dena hankaz gora jarri zuen arte.",
+    "Agindua iritsi zenean, denak makurtu ziren, ni izan ezik; nire ukoa harrokeriatik sortu zen.",
+    "Leku sakratu hartatik kanporatu ninduten, betiko iraungo zuen madarikazio batekin markatuta.",
+    "Piztuera Egunera arteko denbora eskatu nuen, eta eman zidaten. Arima guztietara hurbildu eta bidetik ateratzeko zin egin nuen.",
+    "Tronpeta jotzen duenean, niri jarraitu ziotenek nire patua partekatuko dute, su bizian elkartuko baitira, eta inork ezingo ditu salbatu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Iblis",
+        "Faraoia (Fir'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (Ibrahim-en aita)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Une erabakigarria",
+      "options": [
+        "Adamen aurrean ahuspeztzeari uko egitea",
+        "Jainkotasuna inperio handi baten gainean usurpatzen",
+        "Zintzo bat sutara botatzeko asmoarekin",
+        "Urrezko irudi bat gurtzera herri bat gidatzea",
+        "Armada handi bat itsasoan itotzea"
+      ],
+      "answer": "Adamen aurrean ahuspeztzeari uko egitea"
+    },
+    "location": {
+      "label": "Leku Sakratua",
+      "options": [
+        "Jannah (Paradisua)",
+        "Nilo ibaiaren ertzean dagoen jauregi bikaina",
+        "Adreiluzko dorre bat zerurantz luzatzen da",
+        "Apaingarriekin egindako urrezko txahal bat",
+        "Su biziz betetako labea"
+      ],
+      "answer": "Jannah (Paradisua)"
+    },
+    "outcome": {
+      "label": "Azken Patua",
+      "options": [
+        "Kanpora botata, atsedenaldiarekin agindutako Egunera arte",
+        "Olatuen azpian armadekin itota",
+        "Zerutik botatako harriek xehatuta",
+        "Hegaldian dauden hegazti multzoek urratuta",
+        "Eztanda indartsu bakar batek kontsumitua"
+      ],
+      "answer": "Kanpora botata, atsedenaldiarekin agindutako Egunera arte"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

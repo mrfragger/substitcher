@@ -1,0 +1,61 @@
+{
+  "title": "Hakykaty gözläp ýatanlaryň uklap ýatanlary",
+  "intro": "Ynanç şübhelenýän we bir topar ruhlaryň dünýewi rahatlykdan has berk ynamy saýlan döwrüni göz öňüne getiriň. Agyr saýlaw bilen ýüzbe-ýüz bolan olar adatdan daşary uky getirýän ýola düşüp, gaçybatalga gözlediler. Olaryň hekaýasy ylahy goragyň we zuluma garşy imanyň güýjüniň subutnamasydyr. Bu ajaýyp şahslaryň kimligini anyklap bilersiňizmi?",
+  "clues": [
+    "Biz ýeke-täk Ýaradyjynyň çuňňur ynamy bilen birleşen kiçi bir ýygnakdyk.",
+    "Biz güýçli hökümdaryň Alladan başgalara sežde etmegi talap edýän döwründe ýaşadyk.",
+    "Ynanjymyzy gorap saklamak üçin öýlerimizi taşlap, zulumdan gaçmagy karar etdik.",
+    "Ýeriň jandary bolan wepaly ýoldaşymyz syýahatymyzda bize ýoldaşlyk etdi.",
+    "Biz gizlin ýerde gaçybatalga tapdyk, şol ýerde Alla bizi çuňňur we uzak wagtlap ukyda saklady.",
+    "Oýananymyzda, diňe bir günüň ýa-da günüň bir böleginiň geçendigine ynanýardyk, ýöne asyrlar hakykatdanam geçipdir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Arkanyň adamlary",
+        "Semud halky",
+        "Saba halky",
+        "Gowagyň adamlary",
+        "Medýan halky"
+      ],
+      "answer": "Gowagyň adamlary"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Çöllük ýer bilen synagdan geçirilýär",
+        "Beýik sil bilen ýüzbe-ýüz bolmak",
+        "Zalym hökümdardan gaçybatalga gözlemek",
+        "Ýanýan oda taşlanmak",
+        "Jadygöýiň jadygöýligine garşy çykmak"
+      ],
+      "answer": "Zalym hökümdardan gaçybatalga gözlemek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Beýik köşk",
+        "Gämi/gämi",
+        "Çuňňur guýy",
+        "Bir gowak",
+        "Beýik dag"
+      ],
+      "answer": "Bir gowak"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Patyşalygyň berilmegi",
+        "Asyrlarboýy gudratly uky",
+        "Ýer tarapyndan ýuwutulmak",
+        "Weýran ediji tupandan halas bolmak",
+        "Jennet saçagy bilen üpjün edilýär"
+      ],
+      "answer": "Asyrlarboýy gudratly uky"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

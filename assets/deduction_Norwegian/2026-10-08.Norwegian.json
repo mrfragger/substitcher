@@ -1,0 +1,61 @@
+{
+  "title": "Steinhuggerne i den gamle dalen",
+  "intro": "Se for deg en sivilisasjon som oppsto i de steinete dalene i Arabia, dyktig i å hugge ut praktfulle hus fra fjellsidene. De blomstret med styrke og kunstnerisk kunnen, men historien deres er preget av en isnende trass mot guddommelig advarsel. Når du dykker ned i historien deres, vil du avdekke et folk hvis arroganse førte til deres fullstendige utslettelse. Hvem var de?",
+  "clues": [
+    "Vi arvet et land med steinete sletter og ruvende klipper, hvor vi bygde boligene våre med uovertruffen dyktighet.",
+    "Vi var kjent for å hugge ut trygge hjem inn i fjellene, og følte oss trygge fra all skade.",
+    "Et sendebud kom til oss fra vår egen midte, og minnet oss om Allahs gunst og advarte oss om straff.",
+    "Vi krevde et tegn, og en mirakuløs hunnkamel kom ut av klippen, en klar prøvelse fra Allah.",
+    "Vi trosset advarselen og hånet hunnkamelen, mens vi hånet sendebudet og utfordret straffen.",
+    "Et enkelt vindkast rammet oss i hjemmene våre, og om morgenen lå vi på utstrakte overflater, som om vi aldri hadde bodd der."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i Thamud",
+        "Folket i 'Ad",
+        "Folket i Madyan",
+        "Folket i Nuh",
+        "Folket i Lut"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Hamstrung, hunnkamelen",
+        "Brøt sabbaten",
+        "Tilba gullkalven",
+        "Drepte profeten som ble sendt til dem",
+        "Bygget et tårn for å nå himmelen"
+      ],
+      "answer": "Hamstrung, hunnkamelen"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Hunkamelen",
+        "Arken",
+        "De ansatte",
+        "Den hvite hånden",
+        "Mannaen og vaktlene"
+      ],
+      "answer": "Hunkamelen"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Ødelagt av en eksplosjon",
+        "Reddet fra ødeleggelse",
+        "Forvandlet seg til aper",
+        "Druknet i havet",
+        "Svelget av jorden"
+      ],
+      "answer": "Ødelagt av en eksplosjon"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

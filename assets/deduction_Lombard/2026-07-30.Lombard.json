@@ -1,0 +1,61 @@
+{
+  "title": "I visitadur strani de una cità cun di mür",
+  "intro": "Un grup l’è rivad a i porte de una citaa indove la jent l’ha mai cognossud la veritaa. G’han purtà un messaj, ma i abitant sun diventà ostil e g’han minacià de viulenza. Però, da ün post che g’ho mai spetà, una sola vus l’è saltada sü per difend i foresti, e l’ha preparad el palq per una svolta dramatica.",
+  "clues": [
+    "Entram in una cità indue la gent l’era piena de incredulità.",
+    "Num han vardad cun suspet e han dit: “Vü seit dumà gent ordinari come noialter”.",
+    "Num g’hem avvertì, ma lür g’han alzà di sass cuntra de nun.",
+    "Un omm l’è vegnuu de corsa de la part püsee luntan de la cità per cunfermà la noster verità.",
+    "El g’ha dichiarà al sò popul: “Perché g’ho minga de venerà chel che m’ha creà?”",
+    "La negaziün de la cità l’è finida cün una sola esplusiün, e ul silenzi l’è stad indué una volta lür scherzaven."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "I messagger de Ya-Sin",
+        "I discepol de Isa",
+        "La gent de la fossa",
+        "I magi del Faraon",
+        "El credent de Ya-Sin"
+      ],
+      "answer": "I messagger de Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Refud e minaccia de lapidar",
+        "Vesser butad ind un fœg fierç",
+        "Una prova de pazienza cunt un fiœul perdü",
+        "Un giardin che g’ha patiu la distruziun",
+        "Un viagg in del mar"
+      ],
+      "answer": "Refud e minaccia de lapidar"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "L'estremità püsee luntan de la cità",
+        "El Mar Ross",
+        "El foss del fœuch",
+        "La caverna del rifugio",
+        "La prigiun d’Egit"
+      ],
+      "answer": "L'estremità püsee luntan de la cità"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "La cità l’è stada distrutta cunt un sœul grid",
+        "El mar s’è dividü e l’ha affogad l’esercit",
+        "El fœuch l’è diventà frècc e sicür",
+        "El giardin l’è stà consumà de un fœuch celest",
+        "La balena g’ha purtà indrée la persuna a la riva"
+      ],
+      "answer": "La cità l’è stada distrutta cunt un sœul grid"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

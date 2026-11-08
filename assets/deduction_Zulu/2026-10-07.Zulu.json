@@ -1,0 +1,61 @@
+{
+  "title": "Ilangabi elingaphakathi kwesigodlo sokuzikhukhumeza",
+  "intro": "Ngemva kwezindonga ezinkulu zesigodlo esinamandla kakhulu ezweni lasendulo kwakuhlala umuntu owayenenhliziyo ephethe imfihlo okwakungenakuthuliswa mthetho wasebukhosini. Ngesikhathi bonke abantu bemzungezile bekhothamela onkulunkulu bamanga, lo mphefumulo wawugcina ukholo oluthule luvutha ngaphakathi. Umbusi walelo zwe wayezikholelwa ukuthi ungowaphezulu, kodwa lo muntu wakhetha iqiniso kunenduduzo, nokuzinikela kunokuphepha. Namuhla, umsebenzi wakho ukuthola ukuthi ungubani lo mphefumulo onesibindi, ondaba yakhe ihlala ingenye yezibonelo ezinamandla kakhulu zokholo olungantengantengi.",
+  "clues": [
+    "Bengihlala endaweni enengcebo enkulu nobukhulu obungenakuqhathaniswa, lapho umbusi wezwe ayenamandla aphelele phezu kwakho konke.",
+    "Ngesikhathi labo ababengizungezile bekhothamela onkulunkulu bamanga, ngangigcina ukukhanya kokholo okuthule enhliziyweni yami.",
+    "Ngathola futhi ngamukela umntwana owalethwa kimi ngendlela engavamile - hhayi ngokuzalwa, kodwa ngamanzi omfula omkhulu.",
+    "Ngathandaza eNkosini yami, ngicela ikhaya eduze kwaYo ePharadesi kanye nokusindiswa ebudloveni obabungizungezile.",
+    "Ingane engayikhulisa yakhula yaphonsela inselelo umbusi owayelawula ikusasa lami, futhi ngama ngiqinile okholweni lwami ngisho nalapho ngisongelwa.",
+    "Ngingumuntu ogama lakhe lihlonishwa eQuran njengesibonelo sokholo, futhi ngangihlala esigodlweni sikaFaro uqobo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "U-Asiya, umkaFaro",
+        "UMaryam, unina ka-Isa",
+        "UBilqis, iNdlovukazi yaseSheba",
+        "UmkaMprofethi uLut",
+        "Umka-Imran"
+      ],
+      "answer": "U-Asiya, umkaFaro"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuthola nokukhulisa usana olulahliwe olwaba umprofethi omkhulu",
+        "Ukuphonswa emlilweni omkhulu ngumuntu oyisihlubuki",
+        "Ukubona uzamcolo omkhulu owabhubhisa abantu",
+        "Ukubuka i-date palm shake nokunikeza ukudla okunempilo",
+        "Ukukhulelwa indodana naphezu kokukhula"
+      ],
+      "answer": "Ukuthola nokukhulisa usana olulahliwe olwaba umprofethi omkhulu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isigodlo sasebukhosini esinobuhle obungenakuqhathaniswa",
+        "Umkhumbi omkhulu owakhelwe ukumelana nezikhukhula",
+        "Umhume ojulile ofihliwe ezintabeni",
+        "Umlilo ovuthayo owakhiwe esiqongweni sentaba",
+        "Ingadi ebiyelwe ngodonga"
+      ],
+      "answer": "Isigodlo sasebukhosini esinobuhle obungenakuqhathaniswa"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ikhaya lanikezwa ePharadesi ngentando ka-Allah",
+        "Isikhukhula esikhulu sabhubhisa abangakholwa besizwe sasendulo",
+        "Umbuso wamandla negunya elikhulu wanikezwa kuleli zwe",
+        "Ibutho elinamandla lahlakazwa yizinyoni ezazindiza",
+        "Umashiqela owayethi unguNkulunkulu waminza olwandle"
+      ],
+      "answer": "Ikhaya lanikezwa ePharadesi ngentando ka-Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

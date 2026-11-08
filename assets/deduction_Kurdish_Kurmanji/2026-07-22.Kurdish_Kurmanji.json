@@ -1,0 +1,61 @@
+{
+  "title": "Ji Kûrahiya Çal",
+  "intro": "Rêwîtiya giyanekî ciwan bi dîtinek bihêz a laşên ezmanî yên ku bi rêzdarî tewandin dest pê kir. Jiyana vê kesê bi xiyaneteke kûr a ji kesên herî nêzîk ve hate nîşankirin, û piştre bi salên koletiyê û girtina neheq. Lê dîsa jî, bi baweriya bêdawî û rêberiya îlahî, ev kes ji çala herî nizm derket û bû yek ji mirovên herî bi hêz di împaratoriyeke mezin de. Hûn dikarin nasnameya vî xizmetkarê berbiçav ê Xwedê eşkere bikin?",
+  "clues": [
+    "Xeyalek nîşanî min dan ku yanzdeh stêrk, roj û heyv li ber min secde dikirin",
+    "Ez zarokê pir hezkirî yê dê û bavê xwe bûm, û ev yek di nav birayên min de çavnebariyê çêdikir",
+    "Birayên min ez girtin, cilên min ji min derxistin û avêtin bîreke kûr û tarî",
+    "Ez wek kelûpelek li sûkekê hatim firotin û ji welatê xwe dûr hatim birin",
+    "Jineke bi hêz hewl da rûmeta min bixe xeterê, û ez ji ber redkirina pêşniyarên wê ketim zindanê.",
+    "Ez bi diyariya şîrovekirina xewnan hatim pîrozkirin, û ji girtiyekî jibîrkirî bilind bûm bo serokwezîrê Misrê"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Yûsif",
+        "Pêxember Mûsa",
+        "Pêxember Dawud",
+        "Pêxember Eyûb",
+        "Pêxember Suleyman"
+      ],
+      "answer": "Pêxember Yûsif"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ji aliyê birayên xwe ve tê avêtin bîreke kûr",
+        "Rizgarbûn ji lehiyê mezin ê cîhanî",
+        "Tê avêtin nav agirê agirîn",
+        "Li meydana şer li dijî şervanekî gewre şer dike",
+        "Ji aliyê masiyek mezin ve tê daqurtandin"
+      ],
+      "answer": "Ji aliyê birayên xwe ve tê avêtin bîreke kûr"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Bîrek kûr û hişk li çolê",
+        "Keştiyeke mezin a darîn li ser çiyayekî",
+        "Darek ku veguherî mar",
+        "Textekî bi heybet û şahiyeke mezin",
+        "Şalqek û pênc kevirên lûs"
+      ],
+      "answer": "Bîrek kûr û hişk li çolê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Rabû serwezîrê Misrê û dîsa bi malbata xwe ya delal re civiya",
+        "Keştiyek mezin ava kir û mirovan gazî baweriyê kir",
+        "Tevahiya miletekî ji koletiyê li Misrê rizgar kir",
+        "Padîşahî û serwerî li ser tiştên nedîtî hat dayîn",
+        "Di nexweşiya giran de sebir kir û şîfa dît"
+      ],
+      "answer": "Rabû serwezîrê Misrê û dîsa bi malbata xwe ya delal re civiya"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

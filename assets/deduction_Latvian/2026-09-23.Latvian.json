@@ -1,0 +1,61 @@
+{
+  "title": "Zvans, kas izturēja laikmetus",
+  "intro": "Iedomājieties dvēseli, kas viena pati nostājas pret visu civilizāciju, apņēmusies ar nelokāmu apņēmību palīdzēt tai atgriezties no maldiem. Gadsimtiem ilgi vēsts tika noraidīta, izsmieta un atmesta, tomēr centieni nekad nebeidzās. Galu galā pienāca lielais atmaksas brīdis, un tikai daži kopā ar šo nelokāmo dvēseli ieguva pestīšanu. Vai varat atpazīt šo tēlu no Korāna?",
+  "clues": [
+    "Es tiku sūtīts kā brīdinātājs tautai, kas apmaldījusies savos ceļos.",
+    "Es aicināju viņus meklēt piedošanu un atgriezties no savām kļūdām, bet viņi novērsās.",
+    "Pēc dievišķas pavēles es uzbūvēju milzīgu kuģi, kamēr mani ļaudis mani vēroja un izsmēja.",
+    "Es nemitīgi piesaucu savu Kungu — galu galā Viņš atbildēja, un no debesīm straumēm lija ūdens.",
+    "Es uzkāpu kuģī kopā ar ticīgajiem, kad plūdu ūdeņi pacēlās pār zemi.",
+    "Es saucu pēc viena, kas bija palicis, lūdzot patvērumu kalnā, bet dekrēts jau bija pieņemts."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Nuhs",
+        "Pravietis Ibrahims",
+        "Pravietis Musa",
+        "Pravietis Huds",
+        "Pravietis Salihs"
+      ],
+      "answer": "Pravietis Nuhs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Liela šķirsta būvēšana un pārdzīvošana pasaules mēroga plūdos",
+        "Tiekot iemests liesmojošā ugunī",
+        "Sastopoties ar tirānu un viņa spēcīgajiem burvjiem",
+        "Tikt norītai lielai zivij",
+        "Svētās kamieļmātes nogalināšanas liecinieks"
+      ],
+      "answer": "Liela šķirsta būvēšana un pārdzīvošana pasaules mēroga plūdos"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Masīva koka šķirsta vētrainā plūdu straumē",
+        "Svēta ieleja ar senām akmens drupām",
+        "Dziļa ala, kur gadsimtiem ilgi gulēja biedri",
+        "Milzu vaļa vēders okeāna dzīlēs",
+        "Augsts akmens kalns tuksnesī"
+      ],
+      "answer": "Masīva koka šķirsta vētrainā plūdu straumē"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Izglābti kopā ar ticīgajiem uz kuģa",
+        "Izglābts no ugunsgrēka neskarts, pateicoties dievišķai pavēlei",
+        "Vadīja lielu bēgšanu no varenas valstības",
+        "Izmest no zivīm uz neauglīgu krastu",
+        "Ar brīnumainas zīmes palīdzību ļaudis tika novērsti no pārkāpumiem"
+      ],
+      "answer": "Izglābti kopā ar ticīgajiem uz kuģa"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

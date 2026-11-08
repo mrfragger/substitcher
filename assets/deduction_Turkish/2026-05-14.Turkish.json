@@ -1,0 +1,61 @@
+{
+  "title": "Zamansız Bilgeliğin Dağıtıcısı",
+  "intro": "Derin içgörüleri ve bilgece tavsiyeleriyle tanınan saygıdeğer bir şahsiyet, nesiller boyu aktarılan öğütler vermiştir. Kutsal yazılarda kaydedilen sözleri, bireyleri şükran, sabır ve doğru davranışa yönlendirmektedir.",
+  "clues": [
+    "Bana peygamberlik değil, bilgelik bahşedildi.",
+    "Çocuğuma en büyük günahlardan birini, Allah'a ortak koşmayı öğütledim.",
+    "Ben, hardal tanesi kadar bile olsa amellerin ağırlığından ve Allah'ın bunları nasıl değerlendireceğinden bahsettim.",
+    "Çocuk yetiştirmenin zorluklarını kabul ederek, Allah'a ve anne babaya duyulan şükranın önemini vurguladım.",
+    "Benim öğütlerim arasında dua etmeyi, iyiliği emretmeyi, kötülüğü yasaklamayı ve insanın başına gelenlere sabırla katlanmayı içeriyordu.",
+    "Kur'an'da benim adımı taşıyan bir bölüm var; bu bölümde benim öğretilerim ve paylaştığım dersler yer alıyor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Süleyman",
+        "Peygamber Davud",
+        "Peygamber Yahya",
+        "Luqman",
+        "Peygamber Musa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Merkezi Tema",
+      "options": [
+        "Kabe'nin İnşası",
+        "Denizi ikiye ayırmak",
+        "Bilgelik aktarmak",
+        "Selden sağ kurtulmak",
+        "Bir balık tarafından yutulmak"
+      ],
+      "answer": "Bilgelik aktarmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Tur Dağı",
+        "Oğlu",
+        "Altın Buzağı"
+      ],
+      "answer": "Oğlu"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Halkı yok edildi.",
+        "Bilgeliği ona yol gösterici oldu.",
+        "Ona bir krallık verildi.",
+        "O, göklere yükseltildi.",
+        "Ona muazzam bir servet bahşedildi."
+      ],
+      "answer": "Bilgeliği ona yol gösterici oldu."
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ölen Şahitler",
+  "intro": "Çok eski zamanlarda, imparatorluklar arasında bir yol ayrımında bir topluluk yaşıyordu. Peygamberleri onları hakikat yoluna çağırmıştı, ancak onlar inançsızlığa ve baskıya bağlı kaldılar. Bu hikaye ilahi bir cezayla sona eriyor. Aşağıdaki ipuçlarından bu milleti ve kaderlerini belirleyebilir misiniz?",
+  "clues": [
+    "Bir halk, kendi elçilerinden birinin getirdiği uyarıyı reddetti.",
+    "Peygamberimiz bizleri yalnızca Allah'a ibadet etmeye çağırdı ve fesattan sakınmamız konusunda uyardı.",
+    "Bizim suçumuz, aramızda doğrulukla gönderilen peygamberi reddetmekti.",
+    "Biz, elçinin yetkisinden şüphe duyduk ve onu aldatmakla suçladık.",
+    "Biz evlerimizde güven içinde yaşarken, ceza bizi yakaladı.",
+    "Peygamberimizi inkâr ettiğimiz ve müminlere zulmettiğimiz için helak olduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Şuaib",
+        "İbrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Şuaib"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Doğruluğa çağıran bir peygamberi kabul etmek",
+        "Kıtlıkla sınanmak",
+        "Rüya yorumlatmak",
+        "Tevrat'ı almak",
+        "Denizde yolculuk"
+      ],
+      "answer": "Doğruluğa çağıran bir peygamberi kabul etmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Midyan",
+        "Babil",
+        "Sodom",
+        "Kızıldeniz",
+        "Nuh'un Gemisi"
+      ],
+      "answer": "Midyan"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İnsanlar inançsızlık yüzünden yok edildi.",
+        "İnsanlar tövbe ettiler ve doğru yola yönlendirildiler.",
+        "İnsanlar cennete girdiler.",
+        "İnsanlar hayatta kaldı ve refah içinde yaşadı.",
+        "İnsanlar yeni bir toprağa göç ettiler."
+      ],
+      "answer": "İnsanlar inançsızlık yüzünden yok edildi."
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

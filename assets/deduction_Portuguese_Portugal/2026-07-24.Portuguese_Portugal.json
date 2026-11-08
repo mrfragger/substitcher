@@ -1,0 +1,61 @@
+{
+  "title": "O Conspirador Velado",
+  "intro": "Você se encontra na presença de uma figura poderosa dos tempos da revelação. Esse indivíduo era conhecido por seu intelecto, riqueza e posição entre seu povo. Quando os sinais claros chegaram, ele reconheceu a beleza, mas escolheu a rebeldia em vez da submissão. O que levou essa alma a conspirar nas trevas, e qual foi seu destino final?",
+  "clues": [
+    "Fui abençoado com recursos e influência abundantes, o que fez com que minha palavra tivesse grande peso nas assembleias.",
+    "Quando as palavras divinas foram recitadas, não pude negar sua eloquência, mas meu orgulho não me permitiu submeter-me.",
+    "Reuni meus conselheiros e me isolei para refletir sobre uma maneira de desacreditar a mensagem.",
+    "Após muita reflexão, declarei que não passava de \"magia transmitida do passado\" para afastar as pessoas.",
+    "A revelação então se dirigiu diretamente a mim: 'Deixe-me a sós com aquele que eu criei.' Fui escolhido a dedo por minhas maquinações.",
+    "Em breve, o próprio fogo sobre o qual fui avisado me agarrará pela testa, e não terei escapatória."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Conspiraram para assassinar o Profeta.",
+        "Liderou um boicote contra os muçulmanos",
+        "Reuniram um conselho para classificar o Alcorão como mágico.",
+        "Conspiraram para expulsar o Profeta de Meca.",
+        "Recusou-se a compartilhar sua riqueza com órfãos."
+      ],
+      "answer": "Reuniram um conselho para classificar o Alcorão como mágico."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Revelação",
+        "O Conselho",
+        "A mecha frontal",
+        "A Riqueza",
+        "A Caneta"
+      ],
+      "answer": "A mecha frontal"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ele se arrependeu e abraçou o Islã.",
+        "Ele migrou para a Abissínia.",
+        "Ele foi acometido por uma doença mortal.",
+        "Ele morreu em batalha contra os muçulmanos.",
+        "Ele foi condenado ao fogo do inferno."
+      ],
+      "answer": "Ele foi condenado ao fogo do inferno."
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

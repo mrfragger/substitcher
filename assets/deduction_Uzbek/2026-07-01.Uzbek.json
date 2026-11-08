@@ -1,0 +1,61 @@
+{
+  "title": "Nohaq millatga qarshi turgan noma'lum ruh",
+  "intro": "Qur'on sahifalarida, ularning saboqlari haqida mulohaza yuritishimiz uchun nomlari sir saqlangan shaxslar bor. Shunday jonlardan biri o'z elchilarini rad etgan xalq orasida tug'ilgan, ammo bu shaxs ularni ajratib turadigan yashirin e'tiqodga ega edi. Vayronagarchilik yaqinlashganda, bu shaxs o'zining maxfiy e'tiqodida qat'iy turdi. Oxirgi qaror tushishidan oldin o'z xalqini ogohlantiradigan bu sirli shaxsning kimligini ochib bera olasizmi?",
+  "clues": [
+    "Men Alloh tomonidan yuborilgan payg'ambarlarni qayta-qayta inkor etgan qavm orasida yashadim.",
+    "Men ummatimdan farqli o'laroq, Payg'ambar Parvardigorimdan aniq oyat-mo''jizalar bilan kelganida haqiqatni angladim.",
+    "Agar ular mening e'tiqodimni bilib olsalar, menga zarar yetkazishlarini bilardim, shuning uchun imonimni ulardan yashirdim.",
+    "Jazo buyrug'i yaqinlashganda, men ochiqchasiga sadoqatimni e'lon qildim va xalqimni o'zlarini qutqarishga chaqirdim.",
+    "Men ularga o'zimning ishonchli elchi ekanligimni, avvalgilardan farq qilmasligimni va faqat Allohga ibodat qilishlari kerakligini eslatdim.",
+    "Qavmim meni sehrgarlik va jinnilikda aybladi, ammo oxir-oqibat ularga ogohlantirilgan jazo yetib keldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Hud payg'ambar, Od qavmiga elchi",
+        "Hud payg'ambar qavmidan shahid bo'lgan mo'min kishi",
+        "Haqni rad etgan Od qavmining hukmdori",
+        "Ilohiy alomatlarga shubha qilgan Solih payg'ambarning hamrohi",
+        "Od qavmini yo'q qilish uchun yuborilgan farishta"
+      ],
+      "answer": "Hud payg'ambar qavmidan shahid bo'lgan mo'min kishi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ularning sabr-toqatini sinovdan o'tkazgan qurg'oqchilik va ocharchilik sinovi",
+        "Zolim kofir qavm oldida iymonni e'lon qilish sinovi",
+        "Katta suv toshqinidan qochish uchun kema qurish sinovi",
+        "Allohga iymon keltirgani uchun olovga tashlanish sinovi",
+        "Boylik va farovonlik bilan sinovdan o'tish sinovi"
+      ],
+      "answer": "Zolim kofir qavm oldida iymonni e'lon qilish sinovi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Muqaddas uy qurilgan Makka shahri",
+        "O'z elchilarini inkor etgan xalqning cho'l tekisliklari",
+        "Payg'ambar Shu'ayb yuborilgan Midiyon tog'lari",
+        "Muso payg'ambar topilgan Misr daryosi bo'yida",
+        "Kuchli shamol urilgan Od qavmi vodiysi"
+      ],
+      "answer": "O'z elchilarini inkor etgan xalqning cho'l tekisliklari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Men kemada najot topdim va Alloh xohlaguncha yashadim.",
+        "Mendan keyin qavmim iymon keltirdi va to'g'ri yo'lga hidoyat qilindi.",
+        "Men qavmim tomonidan o'ldirildim, lekin jonim Allohning rahmati bilan olindi.",
+        "Sinovdan keyin tavba qildim va Alloh tavbamni qabul qildi",
+        "O'limimdan keyin qavmim sig'inadigan butga aylandim"
+      ],
+      "answer": "Men qavmim tomonidan o'ldirildim, lekin jonim Allohning rahmati bilan olindi."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

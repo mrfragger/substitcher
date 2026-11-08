@@ -1,0 +1,61 @@
+{
+  "title": "Artikuloitu valittu",
+  "intro": "Vuoren varjossa, jonne jumalalliset sanat laskeutuivat, kansan usko horjui kullan hohteen alla. Yksi sielu, jolla oli lahja kaunopuheisuudesta, seisoi tukena suuremmalle tehtävälle, mutta kohtasi silti syvällisen koetuksen hetken. Kun valittu sanansaattaja nousi pyhään tehtävään, tämä hahmo jäi taakse ja anoi levottomalta kansakunnalta. Kuka on tämä järkkymätön sielu, jonka ääni nousi epäjumalanpalvelusta vastaan?",
+  "clues": [
+    "Allah valitsi minut profeetaksi, vaikka tarinani kerrotaan usein toisen tarinan rinnalla.",
+    "Minut lähetettiin tyrannihallitsijan luo, mutta tehtäväni oli tukea, ei johtaa.",
+    "Minulla oli lahjaksi kaunopuheisuus, ja sanojeni oli tarkoitus pehmittää sydämiä.",
+    "Kun toverini lähti pyhään tehtävään, minut jätettiin opastamaan levotonta kansaa.",
+    "Kärsimättömyydessään he takoivat kuvan koruistaan, ja minä pyysin heitä pysymään uskollisina Allahille.",
+    "Seuralaiseni palasi ja otti minut kiinni, mutta selitin, että ihmiset olivat ottaneet minusta yliotteen ja melkein tappoivat minut; en ollut yksi väärintekijöistä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Musa",
+        "Profeetta Harun",
+        "Profeetta Isa",
+        "Profeetta Jahja",
+        "Profeetta Zakariya"
+      ],
+      "answer": "Profeetta Harun"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Heitetään tuleen",
+        "Kaivoon heittäminen",
+        "Kultaisen vasikan tapauksen kohtaaminen",
+        "Vakavan sairauden testi",
+        "Varallisuuden ja lasten menettämisen koe"
+      ],
+      "answer": "Kultaisen vasikan tapauksen kohtaaminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kultainen vasikka",
+        "Henkilökunta",
+        "Liitonarkki",
+        "Tabletit",
+        "Palava pensas"
+      ],
+      "answer": "Kultainen vasikka"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Rangaistettiin ankarasti",
+        "Anteeksi annettu ja vapautettu",
+        "Teki kuninkaan",
+        "Otettu taivaaseen",
+        "Annettu uusi pyhien kirjoitusten kohta"
+      ],
+      "answer": "Anteeksi annettu ja vapautettu"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

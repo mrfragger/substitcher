@@ -1,0 +1,61 @@
+{
+  "title": "Letlole le Behetsoeng Noka",
+  "intro": "Moea o ne o tobane le taelo e sa khoneheng, moo bophelo ba lesea le sa tsoa tsoaloa bo neng bo leketlile. Ka tataiso ea pululelo ea bomolimo, taelo e tsielehileng e ile ea mameloa, 'me sephiri sa bohlokoa sa beoa leqhubung, empa sa khutlisoa ka tsela e sa lebelloang.",
+  "clues": [
+    "Ke ne ke phela tlas'a moriti oa mohatelli ea neng a laela polao ea bana ba bashanyana ba sa tsoa tsoaloa.",
+    "Pululelo ea bomolimo e ile ea tla ho 'na, ea ntaela ho nka khato e nyahamisang le e bohloko.",
+    "Ke ile ka beha lesea la ka la bohlokoa ka lebokoseng 'me ka le beha holim'a noka e phallang.",
+    "Pelo ea ka e ile ea hloka letho, 'me ka batla ke senola sephiri, empa Allah o ile a matlafatsa boikemisetso ba ka.",
+    "Ke rometse motho e mong ho latela leeto la ngoana ho theosa le noka ha metsi a ntse a jara sefuba.",
+    "Ngoana o ile a fumanoa ke ba lelapa la mohatelli, 'me qetellong, ke ile ka kopana hape le ngoana oa ka 'me ka ba mohlokomeli oa bana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Mme oa Moprofeta Musa",
+        "Asia (Mosadi oa Faro)",
+        "Maryam ('Mè oa Moprofeta Isa)",
+        "Mosadi oa Moprofeta Lut",
+        "Mme oa Moprofeta Yahya (mosali oa Zakariya)"
+      ],
+      "answer": "Mme oa Moprofeta Musa"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O ile a beha ngwana oa hae ka lebokoseng 'me a le beha nokeng",
+        "O ile a pata ngoana oa hae ka lehaheng",
+        "O ile a lahla ngwana oa hae lefeelleng",
+        "O lahlile ngwana wa hae mollong",
+        "O siile ngoana oa hae monyako oa mosque"
+      ],
+      "answer": "O ile a beha ngwana oa hae ka lebokoseng 'me a le beha nokeng"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Lebokose le phaphametseng nokeng",
+        "Sehlahla se tukang",
+        "Lere le ileng la fetoha noha",
+        "Tafole e nang le lijo tse tsoang leholimong",
+        "Kamele e tšehali e rometsoe e le pontšo"
+      ],
+      "answer": "Lebokose le phaphametseng nokeng"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "O ile a kopana hape le ngoana oa hae 'me a mo anyesa",
+        "Ha a ka a hlola a bona ngwana wa hae hape",
+        "O ile a bolaoa ke mohatelli",
+        "O ile a fetoha mofumahali Egepeta",
+        "O ile a fallela naheng e 'ngoe 'me a lula botlamuoeng"
+      ],
+      "answer": "O ile a kopana hape le ngoana oa hae 'me a mo anyesa"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

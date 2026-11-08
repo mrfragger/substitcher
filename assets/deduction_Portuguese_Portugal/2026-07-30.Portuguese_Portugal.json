@@ -1,0 +1,61 @@
+{
+  "title": "Os estranhos visitantes de uma cidade murada",
+  "intro": "Um grupo chegou aos portões de uma cidade cujo povo jamais conhecera a verdade. Eles traziam uma mensagem, mas os habitantes se mostraram hostis, ameaçando com violência. Contudo, de um lugar inesperado, uma única voz se ergueu em defesa dos forasteiros, preparando o terreno para uma reviravolta dramática.",
+  "clues": [
+    "Entramos numa cidade cujos habitantes estavam imersos em descrença.",
+    "Eles nos olharam com desconfiança e disseram: 'Vocês são apenas seres comuns como nós.'",
+    "Nós os avisamos, mas eles levantaram pedras contra nós.",
+    "Um homem correu do extremo da cidade para confirmar nossa verdade.",
+    "Ele declarou ao seu povo: 'Por que eu não deveria adorar aquele que me criou?'",
+    "A negação da cidade terminou com uma única explosão, e o silêncio reinou onde antes havia vaias."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Os Mensageiros de Ya-Sin",
+        "Os discípulos de Isaías",
+        "O Povo da Trincheira",
+        "Os Magos do Faraó",
+        "O crente de Ya-Sin"
+      ],
+      "answer": "Os Mensageiros de Ya-Sin"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Rejeição e ameaça de apedrejamento",
+        "Ser atirado em um fogo intenso.",
+        "Um teste de paciência com uma criança perdida",
+        "Um jardim que sofreu destruição.",
+        "Uma viagem pelo mar"
+      ],
+      "answer": "Rejeição e ameaça de apedrejamento"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O extremo mais distante da cidade",
+        "O Mar Vermelho",
+        "A vala de fogo",
+        "A caverna de refúgio",
+        "A prisão do Egito"
+      ],
+      "answer": "O extremo mais distante da cidade"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A cidade foi destruída por um único grito.",
+        "O mar se abriu e afogou o exército.",
+        "O fogo esfriou e ficou seguro.",
+        "O jardim foi consumido por um fogo celestial.",
+        "A baleia devolveu a pessoa à costa."
+      ],
+      "answer": "A cidade foi destruída por um único grito."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

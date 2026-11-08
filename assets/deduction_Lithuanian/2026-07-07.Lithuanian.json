@@ -1,0 +1,61 @@
+{
+  "title": "Balsas iš bedugnės",
+  "intro": "Korane pasakojama kantrybės ir beribio Dievo gailestingumo istorija. Į didį miestą buvo pasiųstas pasiuntinys, bet jo žmonės atmetė perspėjimą ir atsisakė tiesos. Nusivylusi ši siela išvyko – tik tam, kad būtų išbandyta siautulingos jūros ir praryta tamsiausiose gelmėse. Iš tamsos gelmių kilo nuolankus prašymas, ir Gailestingiausiasis atsiliepė. Kas yra ši siela, kuri iškilo pasikeitusi, kurios žmonės tapo daugiau nei šimto tūkstančių tikinčiaisiais?",
+  "clues": [
+    "Buvau pasiųstas kaip perspėtojas į didį miestą, kurio gyventojai nuklydo nuo tikėjimo kelio.",
+    "Ne kartą šaukiau savo žmones į tiesą, bet jie tyčiojosi ir atmetė mano žinią.",
+    "Apimtas nusivylimo, kol dar negavau leidimo, patraukiau atviros jūros link.",
+    "Kilo didelė audra, ir mane išmetė už borto, o tada visą prarijo didžiulis jūros padaras.",
+    "Tamsos sluoksniuose – vandenyno gelmėse, padaro pilve ir giliame jūros dugne – aš šaukiau: „Nėra kito dievo, tik Tu; šlovė Tau; aš buvau tarp piktadarių.“",
+    "Alachas išgelbėjo mane iš gelmių, ir kai sugrįžau, daugiau nei šimtas tūkstančių mano tautiečių priėmė tiesą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Junusas (Jona)",
+        "Pranašas Mozė (Mozė)",
+        "Pranašas Ibrahimas (Abraomas)",
+        "Pranašas Zakarija (Zacharijas)",
+        "Pranašas Idris (Enochas)"
+      ],
+      "answer": "Pranašas Junusas (Jona)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Būti prarytam didžiulio jūros padaro",
+        "Susidūrimas su tironu ir jo magais",
+        "Įniršusio karaliaus įmestas į liepsnojančią ugnį",
+        "Išgirdusi džiugią žinią apie sūnų, kai jis buvo senas ir nepajėgus",
+        "Liudininkai apie niokojančio potvynio nuniokotą tautą"
+      ],
+      "answer": "Būti prarytam didžiulio jūros padaro"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didžiojo jūros padaro pilvas vandenyno gelmėse",
+        "Šventas namas, apsuptas kalnų nederlingame slėnyje",
+        "Liepsnojanti ugnis, kuri buvo vėsi ir rami",
+        "Nuostabus sodas su tekančiomis upėmis ir pavėsiu",
+        "Didžiulis arkas, stovintis ant kalno viršūnės"
+      ],
+      "answer": "Didžiojo jūros padaro pilvas vandenyno gelmėse"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Išvaduotas iš tamsos; didelė minia įtikėjo",
+        "Išsilaisvinęs iš liepsnojančios ugnies, liepsnoms vėsstant",
+        "Tapo galingos tautos lyderiu ir išlaisvino ją iš priespaudos",
+        "Po daugelio metų maldų senatvėje padovanotas vaikas",
+        "Suteikta didžiulė išmintis, karalystė ir valdžia vėjams bei džinams"
+      ],
+      "answer": "Išvaduotas iš tamsos; didelė minia įtikėjo"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

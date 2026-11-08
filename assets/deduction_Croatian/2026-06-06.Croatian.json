@@ -1,0 +1,61 @@
+{
+  "title": "Uzvišeni Allahov sluga",
+  "intro": "Čujete šaputanja o liku iz davnih vremena, Allahovom slugi koji je uzdignut na položaj iznad običnog. Ova osoba bila je poznata po nepokolebljivom strpljenju i apsolutnoj istinoljubivosti, a poslana je ljudima koji su se okrenuli od poruke. Tko je ta uzvišena duša?",
+  "clues": [
+    "Allah me je odabrao za proroka i spomenut sam u Časnom Kur'anu.",
+    "Bio sam poznat po svojoj strpljivosti i istinoljubivosti, osobinama koje Allah hvali.",
+    "Pozvao sam svoj narod da obožava Jednog Boga, ali mnogi su me odbacili.",
+    "Allah je uzdigao moj položaj i dodijeljen mi je visoki rang.",
+    "Često me spominju uz druge proroke poput Ismaila i Zul-Kifle.",
+    "Allah kaže o meni: 'I Mi smo ga uzdigli na visoki položaj.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Idris",
+        "Prorok Ilija",
+        "Poslanik Zul-Kifl",
+        "Poslanik Al-Yasa",
+        "Poslanik Hud"
+      ],
+      "answer": "Poslanik Idris"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Pozvao je ljude da obožavaju Allaha",
+        "Izgradio je arku",
+        "Borio se protiv faraona",
+        "Testiran je s teškom bolešću",
+        "Bačen je u vatru"
+      ],
+      "answer": "Pozvao je ljude da obožavaju Allaha"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Visoki čin/visoka pozicija",
+        "Kovčeg",
+        "Osoblje",
+        "Vatra",
+        "Bunar"
+      ],
+      "answer": "Visoki čin/visoka pozicija"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Uzdignut na visoki status",
+        "Utopljen u poplavi",
+        "Progutao ga je kit",
+        "Spašen od požara",
+        "Postao je kralj"
+      ],
+      "answer": "Uzdignut na visoki status"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

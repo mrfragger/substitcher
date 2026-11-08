@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaiārahi i Whakatūria mō tētahi Iwi",
+  "intro": "I te wā o te wero nui me te pouri mō te iwi, i whakaritea he whakatūnga atua. I te tīmatanga, i warewarehia tēnei tangata e te tini, engari i whiriwhiria e Allah hei kaiārahi i tētahi iwi ki tētahi hoariri kaha. Ko tā rātou kōrero he tohu i te mana o te whakapono me te whakaaro nui kei muri i te ture atua, e whakaatu ana kāore te kaiārahi pono e kitea i ngā wāhi e tumanakohia ana.",
+  "clues": [
+    "I whiriwhiria ahau e Allah hei kaiārahi mō tōku iwi i te wā i rapua ai e rātou he rangatira hei whawhai mō Tana take.",
+    "I te tīmatanga i pātaihia e tōku iwi taku whakatūnga, i te whakaaro he tika ake ētahi atu nā ō rātou taonga, nā ō rātou whakapapa rānei.",
+    "Ko te hokinga mai o tētahi pouaka tapu, kei roto ngā taonga tuku iho a ngā poropiti o mua, ā, i kawea mai ai te rangimārie.",
+    "I arahina e au taku ope taua ki tētahi awa, ā, i reira ka whakamatautauria e au tō rātou ngohengohe mā te aukati i a rātou kia kaua e inu i te nui atu i te kotahi koko wai.",
+    "Ahakoa te tokoiti o te hunga i tū pakari i muri i te whakamātautau, i tūtaki tātou ki tētahi toa kaha me tā rātou ope taua.",
+    "I raro i taku mana whakahaere, i tū atu tētahi taitama nō taku ope taua, ehara i te toa rongonui, ki te toa o te hoariri, ā, i hinga i a ia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Yusuf",
+        "Poropiti a Mohi",
+        "Poropiti a Rawiri",
+        "Poropiti a Sulaimana",
+        "Taluta"
+      ],
+      "answer": "Taluta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te wehenga o te moana",
+        "Te wero a ngā tohunga makutu",
+        "Te whakatūnga hei rangatira mō te whawhai ki tētahi tangata nunui",
+        "Te waipuke i horomia ai te whenua",
+        "Te hanganga o te Kaaba"
+      ],
+      "answer": "Te whakatūnga hei rangatira mō te whawhai ki tētahi tangata nunui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te rakau e mura ana",
+        "Te Āka (Tabut)",
+        "Ngā kaimahi",
+        "Te kuao kau koura",
+        "Te puna o Zamzam"
+      ],
+      "answer": "Te Āka (Tabut)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakatūria he kingitanga me te taonga nui me te mana nui.",
+        "I toremi te iwi i roto i te waipuke nui.",
+        "I hinga te toa o te hoariri, ā, i homai e Allah te wikitoria.",
+        "I pāngia te whenua e te tauraki nui mō ngā tau.",
+        "I horomia te rangatira e tētahi mea hanga nui."
+      ],
+      "answer": "I hinga te toa o te hoariri, ā, i homai e Allah te wikitoria."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Strażnik Nieugaszonego Płomienia",
+  "intro": "Postać stoi na progu najstraszniejszego miejsca w niewidzialnym świecie, powierzona obowiązkowi, którego nie pragnie żadna inna istota. Kiedy cierpiące dusze wołają o litość, surowa odpowiedź rozbrzmiewa echem w komnatach ognia. Czy potrafisz odkryć tożsamość tego wiecznego strażnika?",
+  "clues": [
+    "Stoję u wejścia do przerażającego miejsca kary, w tym, co niewidzialne.",
+    "Płonący, nieugaszony ogień jest istotą mojego uroczystego obowiązku.",
+    "Cierpiące dusze wołają moje imię, błagając o ulgę w ich niekończących się mękach.",
+    "Gdy będą błagać, oświadczam, że nie odejdą, nigdy.",
+    "Nie jestem człowiekiem ani dżinem – jestem istotą stworzoną z czystego posłuszeństwa.",
+    "Jestem głównym aniołem, mianowanym wiecznym strażnikiem Ognia Piekielnego."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Malik",
+        "Dżibreel",
+        "Michał",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Ludzie piekła błagają o zakończenie swoich mąk",
+        "Trąba jest dęta, aby zasygnalizować Dzień Sądu",
+        "Koran objawiony sercu Proroka",
+        "Prorok zostaje wrzucony przez swój lud do wielkiego ognia",
+        "Zbudowano potężny mur, aby powstrzymać skorumpowany naród"
+      ],
+      "answer": "Ludzie piekła błagają o zakończenie swoich mąk"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogień Piekielny (Jahannam)",
+        "Drzewo Lotosu na granicy Raju",
+        "Przenikliwa trąbka",
+        "Laska, która zmienia się w węża",
+        "Wspaniały boski tron"
+      ],
+      "answer": "Ogień Piekielny (Jahannam)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Mieszkańcom piekła powiedziano, że pozostaną tam na zawsze",
+        "Mieszkańcy piekła otrzymują przebaczenie i uwolnienie",
+        "Mieszkańcy piekła otrzymują drugą szansę na wiarę",
+        "Mieszkańcy piekła zostają przeniesieni do miejsca chłodu",
+        "Mieszkańcy piekła zostają całkowicie zniszczeni przez piorun"
+      ],
+      "answer": "Mieszkańcom piekła powiedziano, że pozostaną tam na zawsze"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

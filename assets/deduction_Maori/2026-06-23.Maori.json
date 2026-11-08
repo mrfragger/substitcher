@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaitiaki i te Tapa o te Awa",
+  "intro": "I tētahi whenua i puta ai te pouri ki ngā kāinga maha i te ture a te kaitukino, i tae mai he karere ki tētahi wairua i whakahē i ngā wehi katoa. Me te ngākau kī tonu i te whakawhirinaki, ka tīmata rātou i tētahi mahi whakapono ka huri i te huarahi o tētahi iwi. I te mea e kawe ana ngā wai i tētahi utanga utu nui, ka hanumi te tumanako ki ngā ia.",
+  "clues": [
+    "I noho ahau i te wā o te tukino me te wehi.",
+    "Ua farii au i te faaururaa no te ra‘i tei horo‘a mai i te maia ia‘u.",
+    "I whakahaua ahau kia kaua e wehi, kia kaua hoki e pouri.",
+    "I whakatakotoria e au taku tamaiti ki roto i te pouaka, ā, i whakatakotoria ki runga i te wai.",
+    "I kitea taku tamaiti e te whare o te rangatira, engari i aru mai taku tamaiti tuarua.",
+    "I tūtaki anō māua ko taku tamaiti ki te whāngai i a ia, pērā i tā te Atua i oati ai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Whaea o Mohi",
+        "Te Wahine a Parao",
+        "Te Tuahine o Mohi",
+        "Te Whaea o Ihu",
+        "Te Kuīni o Sheba"
+      ],
+      "answer": "Te Whaea o Mohi"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakaaweawe kia maka te tamaiti ki roto i te awa",
+        "Te werohia ki tētahi pakanga makutu",
+        "E whaia ana e te ope taua",
+        "Te whiti i te moana i wehea",
+        "Te hanga whare tapu"
+      ],
+      "answer": "Te whakaaweawe kia maka te tamaiti ki roto i te awa"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He pouaka i whakatakotoria ki te awa",
+        "He rakau e mura ana",
+        "He tokotoko i huri hei nakahi",
+        "He kuao kau koura",
+        "He torona"
+      ],
+      "answer": "He pouaka i whakatakotoria ki te awa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakahokia marietia te tamaiti ki te nēhi",
+        "I ngaro te tamaiti mō ake tonu atu",
+        "I haria te tamaiti ki tētahi whenua tawhiti",
+        "I noho tonu te tamaiti hei rangatira",
+        "I tangohia te tamaiti e tetahi kaihokohoko whai rawa"
+      ],
+      "answer": "I whakahokia marietia te tamaiti ki te nēhi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

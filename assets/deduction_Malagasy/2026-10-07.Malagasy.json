@@ -1,0 +1,61 @@
+{
+  "title": "Ny lelafo ao anatin'ny lapan'ny avonavona",
+  "intro": "Tao ambadiky ny rindrina goavana tao amin'ny lapa nahery indrindra tamin'ny andro fahiny dia nisy olona iray izay nanana tsiambaratelo tao am-pony izay tsy azon'ny didim-panjakana hampanginana. Raha niankohoka tamin'andriamanitra sandoka ny olona rehetra nanodidina azy, dia nitazona finoana mangina tao anatiny io fanahy io. Nino ny tenany ho andriamanitra ny mpitondra an'io tany io, nefa ity olona ity dia nifidy ny fahamarinana noho ny fampiononana, ary ny fanoloran-tena noho ny fiarovana. Androany, ny andraikitrao dia ny mamantatra hoe iza io fanahy be herim-po io, izay mbola iray amin'ireo ohatra mahery vaika indrindra amin'ny finoana tsy miovaova ny tantarany.",
+  "clues": [
+    "Niaina tao amin'ny toerana iray feno harena tsy manam-paharoa sy fahalehibeazana tsy manan-tsahala aho, izay nihazonan'ny mpitondra ny tany ny fahefana feno amin'ny rehetra.",
+    "Raha niankohoka tamin'andriamani-diso ireo nanodidina ahy, dia nitazona fahazavan'ny finoana mangina tao am-poko aho.",
+    "Nahita sy nanangana zaza iray izay nentina tamiko tamin'ny fomba tsy mahazatra aho - tsy tamin'ny fahaterahana, fa tamin'ny alalan'ny ranon'ny renirano lehibe iray.",
+    "Nivavaka tamin'ny Tompoko aho, nangataka fonenana eo akaikiny any amin'ny Paradisa sy famonjena amin'ny jadona nanodidina ahy.",
+    "Ilay zaza notezaiko dia nihalehibe mba hanohitra ilay mpitondra izay nifehy ny fiainako, ary nijoro mafy tamin'ny finoako aho na dia norahonana aza.",
+    "Izaho no ilay hajaina ao amin'ny CORAN ho toy ny modely amin'ny finoana, ary nipetraka tao an-dapan'i Farao mihitsy aho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Asiya, vadin'i Farao",
+        "Maryam, renin'i Isa",
+        "Bilqis, Mpanjakavavin'i Sheba",
+        "Ny vadin'ny Mpaminany Lota",
+        "Ny vadin'i Imran"
+      ],
+      "answer": "Asiya, vadin'i Farao"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nahita sy nitaiza zaza nilaozana izay lasa mpaminany lehibe",
+        "Natsipin'ny mpitondra jadona tao anaty afo lehibe",
+        "Nahita tondra-drano lehibe izay nandringana vahoaka iray",
+        "Mijery ny fisotroana \"date palmie\" ary manome sakafo mahavelona",
+        "Miteraka zazalahy na dia efa antitra aza"
+      ],
+      "answer": "Nahita sy nitaiza zaza nilaozana izay lasa mpaminany lehibe"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Lapam-panjakana manana famirapiratana tsy manam-paharoa",
+        "Sambo lehibe iray naorina mba hahatanty tondra-drano",
+        "Lava-bato lalina miafina any an-tendrombohitra",
+        "Afo mirehitra naorina teo an-tampon-tendrombohitra",
+        "Zaridaina voahodidin'ny rindrina"
+      ],
+      "answer": "Lapam-panjakana manana famirapiratana tsy manam-paharoa"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nomena trano fonenana tao amin'ny Paradisa noho ny sitrapon'Andriamanitra",
+        "Safodrano lehibe no nandringana ireo tsy mpino tao amin'ny firenena fahiny iray",
+        "Fanjakana manana hery sy fahefana lehibe no nomena teto amin'ity izao tontolo izao ity",
+        "Nisy tafika mahery niparitaka noho ny vorona nanidina",
+        "Nisy mpitondra jadona iray izay nilaza ho andriamanitra no maty an-drano tao an-dranomasina"
+      ],
+      "answer": "Nomena trano fonenana tao amin'ny Paradisa noho ny sitrapon'Andriamanitra"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

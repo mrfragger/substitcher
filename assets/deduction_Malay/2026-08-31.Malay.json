@@ -1,0 +1,61 @@
+{
+  "title": "Suara Lembah yang Senyap",
+  "intro": "Kembali ke masa lalu kepada kaum perkasa yang pernah menerima keajaiban hidup sebagai ujian. Keangkuhan dan kedegilan telah menentukan nasib mereka. Bolehkah anda menjejaki kisah dan menemui apa yang berlaku dalam titik perubahan dramatik ini?",
+  "clues": [
+    "Aku diutus sebagai ujian ilahi kepada kaum perkasa yang terkenal dengan kekuatan dan keberanian mereka.",
+    "Saya seorang yang unik dan menakjubkan—orang seperti saya tidak pernah muncul dalam kalangan mereka.",
+    "Saya berkongsi air minuman dari perigi dengan keluarga saya pada hari-hari lain.",
+    "Mereka telah diberi amaran bahawa sebarang bahaya terhadap saya akan membawa hukuman yang segera.",
+    "Yang paling berani antara mereka mengabaikan amaran itu dan mencekik saya.",
+    "Selepas kematianku, satu jeritan kuat dari atas memusnahkan seluruh bangsaku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Unta Betina Salih",
+        "Lembu Musa",
+        "Kapal Nabi Nuh",
+        "Tongkat Musa",
+        "Takhta Bilqis"
+      ],
+      "answer": "Unta Betina Salih"
+    },
+    "trial": {
+      "label": "Nasib Saya",
+      "options": [
+        "Disembelih dan dibunuh",
+        "Disembelih sebagai korban",
+        "Berubah menjadi ular",
+        "Terpelihara melalui banjir besar",
+        "Dibawa dengan cepat merentasi sebuah kerajaan"
+      ],
+      "answer": "Disembelih dan dibunuh"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Sebuah perigi air",
+        "Sebuah tablet batu",
+        "Semak yang terbakar",
+        "Sebuah bahtera kayu",
+        "Takhta emas dan perak"
+      ],
+      "answer": "Sebuah perigi air"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dimusnahkan oleh satu jeritan",
+        "Lemas dalam banjir besar",
+        "Dibakar oleh hujan batu",
+        "Dihempas angin kencang",
+        "Ditelan bumi"
+      ],
+      "answer": "Dimusnahkan oleh satu jeritan"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

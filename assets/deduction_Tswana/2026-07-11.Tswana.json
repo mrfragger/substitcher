@@ -1,0 +1,61 @@
+{
+  "title": "Batsamai ba tshimo e e tala",
+  "intro": "Mo motlheng wa bogologolo, batho ba babedi ba ne ba tlhokomela dinaga tse di bapileng. Ditsela tsa bone di ne di lomagane, le fa go ntse jalo dipelo tsa bone di ne di ba isa kwa mafelong a a farologaneng thata. Yo mongwe o ne a tsamaya mo tseleng e e tlhamaletseng, fa yo mongwe a ne a fapogela mo lefifing la go itatola. A o ka phutholola masaitsiweng a batlhokomedi bano ba babedi ba thobo?",
+  "clues": [
+    "Ke ne ke na le dijalo tse dintsi, thobo e e manontlhotlho e e neng e phatsima matlho a babogedi.",
+    "Moagisani wa me o ne a na le letlotlo le legolo go mpheta, le fa go ntse jalo ke ne ke eletsa kabelo ya bone go feta ya me.",
+    "Ke ne ka akantsha gore re senye dijalo tsa bone gotlhelele, go kopanya sengwe le sengwe se se ka fa tlase ga taolo ya me.",
+    "Ke ne ka tlisa tshenyo mo thobong ya me le yone, ka senya sengwe le sengwe ka leano la me la boeleele.",
+    "Ke ne ke eme ke se na thuso fa dijalo tsa me di swaba le khumo ya me e fetoga lerole mo bosigong bo le bongwe fela.",
+    "Ke ne ke sena kabelo mo Botshelong jwa Morago ga Loso, mme bonno jwa me jwa bofelo bo ne jwa nna mokoti wa molelo o o tukang."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Monna yo o neng a ganetsa tsogo le katlholo .",
+        "Mmusi yo o neng a gatelela molemi yo o siameng",
+        "Mong wa lefatshe yo o humileng yo o neng a tlhoka tebogo",
+        "Molemi yo o neng a eletsa lefatshe la moagelani wa bone",
+        "Molekane yo o boferefere yo o neng a loga leano la go senya"
+      ],
+      "answer": "Molemi yo o neng a eletsa lefatshe la moagelani wa bone"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Teko ya go amogela tshenolo ya bomodimo",
+        "Kgwetlho ya khumo le bopelotelele",
+        "Thaelo ya go senya botshelo jwa motho yo o siameng",
+        "Taelo ya go kgaoganya boswa ka tekatekano",
+        "Kgaratlho kgatlhanong le kgatelelo ya mogateledi"
+      ],
+      "answer": "Thaelo ya go senya botshelo jwa motho yo o siameng"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ditshingwana tse ditala tsa paradaise",
+        "Masimo a mabedi a a mabapi a dijalo",
+        "Dithaba tse di boneng tshenyo",
+        "Lefelo le le boitshepo la Makkah",
+        "Dintshi tsa dinoka tsa lefatshe le le segofaditsweng"
+      ],
+      "answer": "Masimo a mabedi a a mabapi a dijalo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Paradaise ya bosakhutleng e le tuelo ya tshiamo",
+        "Go senngwa gotlhelele ga thobo ka bobedi mo botshelong jono",
+        "Botshabelo le go kgarakgatshega go fitlha losong",
+        "Katlego ya nakwana e latelwa ke molelo o o sa khutleng",
+        "Tsosoloso e e gakgamatsang le bopelotshweu jo bo menaganeng gabedi"
+      ],
+      "answer": "Go senngwa gotlhelele ga thobo ka bobedi mo botshelong jono"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

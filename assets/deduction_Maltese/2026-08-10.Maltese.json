@@ -1,0 +1,61 @@
+{
+  "title": "Il-Gwardjani tal-Ħsad Sigriet",
+  "intro": "F’art ħadra, grupp ta’ individwi għamlu pjan sigriet fid-dlam. Huma kellhom skop komuni, iżda l-intenzjoni tagħhom kienet ’il bogħod milli tkun ġusta. Ma kinux jafu li bidla divina kienet qed tistennihom waqt li kienu reqdin.",
+  "clues": [
+    "Għamilna riżoluzzjoni soda, ħsibna li l-pjan tagħna kien perfett.",
+    "Kellna l-ħsieb li noħorġu kmieni, qabel ma oħrajn ikunu jistgħu saħansitra jiċċaqalqu.",
+    "Bdejna noqogħdu fuq biċċa art fertili, fiduċjużi fil-provvisti tagħna.",
+    "Hekk kif wasalna fid-destinazzjoni tagħna, sibnaha vojta u desolata, u għalhekk ħsibna li konna tlifna triqitna.",
+    "Imbagħad irrealizzajna li kien tabilħaqq postna, u għajjatna bid-disperazzjoni, billi twaħħalna f’xulxin għat-telfa tagħna.",
+    "Dakinhar filgħodu konna ħlifna li neskludu lill-foqra mill-ħsad tagħna, iżda l-kastig ta’ Alla ġie fuqna waqt li konna reqdin, u biddel il-ġnien tagħna f’rovina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Is-Sidien tal-Ġnien fis-Sura 68",
+        "In-Nies ta’ Saba",
+        "Il-Kumpanji tal-Għar",
+        "In-Nies tal-Iljunfant",
+        "In-Nies tat-Trinka"
+      ],
+      "answer": "Is-Sidien tal-Ġnien fis-Sura 68"
+    },
+    "trial": {
+      "label": "Il-Prova Tagħna",
+      "options": [
+        "Il-ġnien tagħna nqered minn kalamità mis-sema",
+        "Il-ġnien tagħna nġarr minn għargħar",
+        "Il-ġnien tagħna nħaraq minn nar minn għadu",
+        "Il-ġnien tagħna kien mimli bil-ġurati",
+        "Il-ġnien tagħna nbela’ minn terremot"
+      ],
+      "answer": "Il-ġnien tagħna nqered minn kalamità mis-sema"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Ħlifna li naqtgħu l-frott tiegħu filgħodu",
+        "Bnejna diga biex insaqqu l-ġnien tagħna",
+        "Fittixna kenn f'għar għall-protezzjoni",
+        "Ħejjejna armata biex nirbħu saltna",
+        "Salpajna vapur biex naqsmu l-baħar"
+      ],
+      "answer": "Ħlifna li naqtgħu l-frott tiegħu filgħodu"
+    },
+    "outcome": {
+      "label": "Id-Destin Tagħna",
+      "options": [
+        "Aħna nindmu u ttamajna għall-ħniena mingħand Alla",
+        "Konna meqrudin kompletament u qatt ma nindmu",
+        "Ħarba minn artna u qatt ma rritornajna",
+        "Erġajna sirna b’saħħitna u sinjuri",
+        "Ġejna kkastigati billi nbidlu f’xadini"
+      ],
+      "answer": "Aħna nindmu u ttamajna għall-ħniena mingħand Alla"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

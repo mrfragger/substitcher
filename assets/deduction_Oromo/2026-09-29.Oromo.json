@@ -1,0 +1,61 @@
+{
+  "title": "Nabiyyii Gaarreen Bocame",
+  "intro": "Gammoojjii hamaa Arabiyaa durii keessatti namoota ogummaa harkaa adda taʼeen beekaman gidduutti namni tokko mulʼate. Manni isaanii dhagaa jabaa irraa kan kaʼe taʼus, garaan isaanii gaarreen isaan bocan caalaa jabaa ture. Ergamaan waaqa tokko mallattoo dinqii tokko qabate dhufe — garuu of tuuluun fi mormiin bu’aa ariifataa fi sodaachisaa fide. Tajaajilaa kabajamaa sabni isaa qajeelfama irra badiisa filate adda baasuu dandeessaa?",
+  "clues": [
+    "Saba kootti akeekkachiisaa ta’ee gara waaqeffannaa Waaqa Tokkichaatti isaan waamee ergame.",
+    "Sabni koo dhagaawwan dinqisiisoo taʼan gidduu jiraachaa turan, manneen jireenyaa dinqisiisoo taʼan gara qarqara gaaraatti bocuu turan.",
+    "Kadhannaa koo irratti gaalli dubaraa dinqisiisaa dhagaa jabaa keessaa baate, mallattoo ifa ta’e isa hundumaa danda’u irraa.",
+    "Ummanni koo bishaan gaala dubartii kana waliin qooddadhu malee akka hin miine itti hime.",
+    "Sabni koo gaala dubaraa irratti shira xaxee ishee hamstrung, badiisa ofii chaappesse.",
+    "Kirkirri lafaa sodaachisaan saba koo rukutee, mana jireenyaa isaanii keessatti sochii tokko malee kufanii hafan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Saalih",
+        "Nabi Hud",
+        "Nabi Shu'ayb",
+        "Nabi Nuh",
+        "Nabi Muusaa"
+      ],
+      "answer": "Nabi Saalih"
+    },
+    "trial": {
+      "label": "Qormaanni murteessaan maal ture?",
+      "options": [
+        "Hamstringing dinqii gaala dubaraa",
+        "Qoosaa gidduutti markaba guddaa ijaaruu",
+        "Fara’oon abbaa irree tokko waliin wal-dura dhaabbachuu",
+        "Ibidda boba’aa keessa darbatamuu",
+        "Kakuu sanbataa cabsuu"
+      ],
+      "answer": "Hamstringing dinqii gaala dubaraa"
+    },
+    "location": {
+      "label": "Qaamni giddugaleessaa maal ture?",
+      "options": [
+        "Gaala dubaraa dhagaa keessaa baate",
+        "Taabota mukaa guddaa",
+        "Ulee galaana addaan baasu",
+        "Whale guddaa tokko",
+        "Gaara mataa isaa irratti fannifame"
+      ],
+      "answer": "Gaala dubaraa dhagaa keessaa baate"
+    },
+    "outcome": {
+      "label": "Hireen dhumaa isaanii maal ture?",
+      "options": [
+        "Kirkira lafaa akka tasaa samii irraa dhufe",
+        "Lolaa cimaa keessatti liqimfame",
+        "Magaalonni isaanii ajaja waaqaatiin garagalfaman",
+        "Qilleensi gubaa gubate",
+        "Lafaan liqimfame"
+      ],
+      "answer": "Kirkira lafaa akka tasaa samii irraa dhufe"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

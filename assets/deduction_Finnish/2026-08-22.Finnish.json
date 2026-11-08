@@ -1,0 +1,61 @@
+{
+  "title": "Kaupunki joka uskoi aikaan",
+  "intro": "Jumalallisen armon aikakirjoissa on yhteisö, jonka käännekohta oli kollektiivisen oivalluksen hetki. Olet pian paljastamassa heidän tarinansa – kertomuksen varoituksesta, katumuksesta ja armonhetkestä, joka erotti heidät muiden kansojen kohtalosta.",
+  "clues": [
+    "Me olimme kansa, jolle lähetettiin sanansaattaja, mutta aluksi käännyimme pois hänen kutsustaan.",
+    "Kun uhkaavan rangaistuksen merkit kävivät selviksi, ymmärsimme hänen varoituksensa todeksi.",
+    "Käännyimme Herramme puoleen vilpittömässä katumuksessa, ja uskomme hyväksyttiin.",
+    "Meille langetettu rangaistus poistettiin uskomme tähden.",
+    "Tarinamme mainitaan poikkeuksena niiden kaupunkien joukossa, jotka uskoivat nähtyään rangaistuksen.",
+    "Me olimme sen profeetan kansaa, jonka valas nielaisi, mutta silti meidät pelastettiin tuholta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Yunuksen kansa",
+        "Nuhin kansa",
+        "Hudin kansa",
+        "Salihin kansa",
+        "Lutin kansa"
+      ],
+      "answer": "Yunuksen kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Tuhoisa tulva",
+        "Ankara myrskytuuli",
+        "Häpeän uhkaava rangaistus, joka vältettiin",
+        "Maa nielee heidät",
+        "Kivien sade"
+      ],
+      "answer": "Häpeän uhkaava rangaistus, joka vältettiin"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Naaraskameli",
+        "Sadantuhannen asukkaan kaupunki",
+        "Musan henkilökunta",
+        "Qarunin aarre"
+      ],
+      "answer": "Sadantuhannen asukkaan kaupunki"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Ne tuhoutuivat täysin",
+        "Heille annettiin nautintoa jonkin aikaa",
+        "Ne muuttuivat apinoiksi",
+        "He hukkuivat",
+        "Maa nielaisi heidät"
+      ],
+      "answer": "Heille annettiin nautintoa jonkin aikaa"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

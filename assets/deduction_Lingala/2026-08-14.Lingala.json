@@ -1,0 +1,61 @@
+{
+  "title": "Maboko oyo elakelami mabe",
+  "intro": "Otelemi na babalabala ya kobalusabalusa ya Makkah ya kala, epai wapi molimo ya bopusi mpe ya bozwi kala ebalukaki mosika na libiangi ya bosolo. Lisolo ya moto oyo ezali bokundoli makasi ete bokangami ya makila ekoki te kolonga minyɔlɔlɔ ya lolendo. Nani oyo nkombo na ye ezali koyokana na mɔ́tɔ oyo ezali kozela?",
+  "clues": [
+    "Natambolaki na balabala ya Makkah na lolendo oyo ekangaki ngai miso na bosolo, atako momemi-nsango azalaki ya makila na ngai moko.",
+    "Biloko na ngai ezalaki minene, kasi ekómaki elakeli mabe na esika ya nguba.",
+    "Buku ya bokambi elobeli kobebisama na ngai, kosakolaka ete maboko na ngai mpe moto na ngai ekokufa.",
+    "Mobalani na ngai asanganaki na kampanye na ngai ya bonguna, kosangisaka banzubɛ mpo na kopalangana na nzela ya moto oyo abengaki epai ya Allah.",
+    "Na mokolo ya kosambisama, nakozindama na mɔ́tɔ ya mɔ́tɔ makasi, mpe molongani na ngai akozala na nsinga ya nsinga ya mbila na nkingo.",
+    "Nayebani na nkombo oyo elimboli ‘tata ya mɔ́tɔ’ — nkombo oyo esakoli esika na ngai ya kofanda ya seko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Abu Lahab azali moto ya mayele",
+        "Abu Jahl azali moto ya mayele",
+        "Abu Talib, azali moto ya mayele",
+        "Abu Sufyan, azali moto ya mayele",
+        "Al-Walid ibn al-Mughira azali moto ya mayele"
+      ],
+      "answer": "Abu Lahab azali moto ya mayele"
+    },
+    "trial": {
+      "label": "Momekano to Likambo ya ntina",
+      "options": [
+        "Atelemela Ntoma mpe alakelamaki mabe na Coran",
+        "Akambaki mampinga mpo na kobebisa Kaaba",
+        "Amekaki koboma Ntoma na kobwaka mabanga",
+        "Aboyaki kondima ete sanza ekabwani",
+        "Atongaki linɔ́ngi mpo na kokóma na likoló"
+      ],
+      "answer": "Atelemela Ntoma mpe alakelamaki mabe na Coran"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mɔtɔ ya Lifelo oyo ezali kopela",
+        "Ba Staff ya Musa",
+        "Sanduku ya Nuh",
+        "Libulu ya Zamzam",
+        "Mwana ya Ngombe ya Wolo"
+      ],
+      "answer": "Mɔtɔ ya Lifelo oyo ezali kopela"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akokota na Mɔtɔ oyo ezali kopela, mpe bozwi na ye ekopesa ye litomba te",
+        "Ayambolaki motema mpe akomaki mondimi",
+        "Balimbisamaki nsima ya koboya",
+        "Akufaki lokola martiru",
+        "Bamemaki ye na likoló"
+      ],
+      "answer": "Akokota na Mɔtɔ oyo ezali kopela, mpe bozwi na ye ekopesa ye litomba te"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

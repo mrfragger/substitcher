@@ -1,0 +1,61 @@
+{
+  "title": "Echo przez klify",
+  "intro": "Wyobraź sobie dolinę, gdzie domy wykute są w klifach, a powietrze niesie wspomnienie o ostrzeżeniu, które nie zostało wysłuchane. Lud niegdyś prosperował tutaj, błogosławiony, lecz buntowniczy, aż do momentu, gdy znak wyłonił się ze skały, której ufał.",
+  "clues": [
+    "Byliśmy ludem, który budował bezpieczne domy w górach i czuł się bezpiecznie w naszych skalistych siedzibach.",
+    "Mieszkaliśmy w krainie równin i kamieni, obdarzonej ogrodami i źródłami.",
+    "Przybył posłaniec spośród nas, wzywając nas do porzucenia naszych fałszywych bogów i oddania czci Jedynemu Prawdziwemu Stwórcy.",
+    "Arogancko ustaliliśmy warunek wiary: unikalny znak, który wyłoni się ze skał, które wyrzeźbiliśmy.",
+    "Kiedy obiecana wielbłądzica wyłoniła się ze skały, co było jasnym znakiem, nasza elita nadal odmawiała i okaleczała ją, mimo ostrzeżeń o zbliżającej się zagładzie.",
+    "Trzy dni po naszym czynie, do doliny przetoczył się potężny huk, a my zostaliśmy rozsypani w gruzach, a nasze domy stały się naszymi grobami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ludzie z ¿Ad",
+        "Ludzie z Thamud",
+        "Ludzie Madyanu",
+        "Ludzie z Gaju",
+        "Ludzie jaskini"
+      ],
+      "answer": "Ludzie z Thamud"
+    },
+    "trial": {
+      "label": "Nasza próba/wydarzenie główne",
+      "options": [
+        "Przecięcie ścięgna wielbłądzicy Allaha",
+        "Kult złotego cielca",
+        "Łamanie szabatu",
+        "Budowa wieży do nieba",
+        "Zabijanie proroków"
+      ],
+      "answer": "Przecięcie ścięgna wielbłądzicy Allaha"
+    },
+    "location": {
+      "label": "Kluczowy element naszej historii",
+      "options": [
+        "Wielbłądzica Allaha",
+        "Pracownicy Musy",
+        "Arka Noego",
+        "Biała ręka Musy",
+        "Ptak ¿Isa"
+      ],
+      "answer": "Wielbłądzica Allaha"
+    },
+    "outcome": {
+      "label": "Nasz wynik",
+      "options": [
+        "Zniszczenie ogłuszającym wybuchem",
+        "Deszcz kamieni z nieba",
+        "Powódź, która pokryła ziemię",
+        "Silny wiatr, który nas wyrwał z korzeniami",
+        "Ziemia nas pochłania"
+      ],
+      "answer": "Zniszczenie ogłuszającym wybuchem"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

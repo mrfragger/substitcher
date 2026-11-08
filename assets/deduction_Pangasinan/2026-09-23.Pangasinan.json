@@ -1,0 +1,61 @@
+{
+  "title": "Say tawag ya linmabas ed saray panaon",
+  "intro": "Isipen pa so sakey a kamarerwa ya inmalagey a bukor sumpad interon sibilisasyon, a determinadon mangigiya ed sikara manlapud lingon panangigiya tekep na ag-onkupas a determinasyon. Diad loob na nilasus a taon, say mensahe et ag-inawat, inelek-elekan, tan ag-inawat—balet ag tinmunda so sagpot. Diad kaunoran, sinmabi so baleg a panagkuenta, tan pigara labat so akasabi ed kilalaban a kaiba na sayan mapekder a kamarerwa. Nabidbir mo kasi iyan pigura manlapud Quran?",
+  "clues": [
+    "Nibaki ak a managpasakbay ed saray totoon abalang ed dilin dalan da.",
+    "Inimbitaan ko ran onkerew na panamerdona tan ontunda ed saray kasalanan da, balet ta ag ira tinmunda.",
+    "Diad silong na ganggan na Dios, nanggawa ak na baleg a banga legan ya manbabantay tan manluludlurey ed siak iray totook.",
+    "Tinmawag ak ed Katawan ko ya andi-tunda—diad kaunoran et sikatoy inmebat, tan say danum so inmagus manlapud tawen a singa saray ilog.",
+    "Linmugan ak ed bapor a kaiba iramay anisia nen tinmagey so delap ed tapew na dalin.",
+    "Inmeyag ak ed sakey ya atilak, ya kinerew ko ed sikara ya mansalimbeng ira ed sakey a palandey, balet ta linmabas la so ganggan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Nuh",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Hud",
+        "Propeta Salih"
+      ],
+      "answer": "Propeta Nuh"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Manggawa na baleg a biong tan makaliktar ed sankamundoan a delap",
+        "Say pangibantak ed mandarlang ya apoy",
+        "Say pangipapaarap ed sakey a managpairap tan saray makapanyarin salamangkero to",
+        "Say inakmon na baleg a sira",
+        "Naimatonan so impamatey ed sakey a sagradon kabatyan a kamelyo"
+      ],
+      "answer": "Manggawa na baleg a biong tan makaliktar ed sankamundoan a delap"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey a baleg a kiew a biong ed tapew na maksil a delap",
+        "Sakey a sagradon lawak a walaan na kadaanan iran geray a bato",
+        "Sakey ya aralem ya ungib ya panaugipan na saray kakaiba ed loob na nilasus a taon",
+        "Say eges na higanten balyena ed kaaralem na dayat",
+        "Sakey ya atagey a palandey a bato ed kalawakan"
+      ],
+      "answer": "Sakey a baleg a kiew a biong ed tapew na maksil a delap"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Nilaban a kaiba iray mananisia ya akalugan ed barko",
+        "Nisalba ya anggapoy asugatan ed apoy diad panamegley na madibinon ganggan",
+        "Indaulo so baleg ya impaway ed sakey a makapanyarin panarian",
+        "Ibantak manlapud sira ed sakey ya andi-kakanaan a gilig na dayat",
+        "Inyarawi to ray totoo ed kaugsan diad panamegley na mamilagron tanda"
+      ],
+      "answer": "Nilaban a kaiba iray mananisia ya akalugan ed barko"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

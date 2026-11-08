@@ -1,0 +1,61 @@
+{
+  "title": "Neochvějný trpělivý",
+  "intro": "V análech prorocké historie jen málokdo snášel tak hlubokou ztrátu a fyzické utrpení s neotřesitelnou vírou. Příběh této postavy je nadčasovou lekcí o trpělivosti a důvěře v božskou moudrost. Kdo je tato duše?",
+  "clues": [
+    "Byl jsem vyvolen Alláhem, abych doručil poselství, ale mou největší zkouškou nebylo odmítnutí, ale osobní neštěstí.",
+    "Můj majetek, můj dobytek a mé děti mi byly odebrány, jedno po druhém.",
+    "Mé tělo bylo pokryté vředy a já jsem zůstal sám, kromě podpory mého manžela/manželky.",
+    "Volal jsem k svému Pánu, uznával své utrpení a hledal Jeho milosrdenství.",
+    "Dostal jsem pokyn, abych udeřil nohou o zem, a vytryskl osvěžující pramen.",
+    "Alláh mi obnovil zdraví a dal mi novou rodinu a ještě větší bohatství, než jsem měl předtím."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Ayyub",
+        "Prorok Ibráhím",
+        "Prorok Músa",
+        "Prorok Ísa",
+        "Prorok Nuh"
+      ],
+      "answer": "Prorok Ayyub"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Ztráta bohatství a rodiny",
+        "Být vhozen do ohně",
+        "Být spolknut rybou",
+        "Oddělení od rodiny a prodej do otroctví",
+        "Zkouška zlatým teletem"
+      ],
+      "answer": "Ztráta bohatství a rodiny"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Pramen vody",
+        "Hůl, která se proměnila v hada",
+        "Dřevěná archa",
+        "Roztavené tele",
+        "Palma"
+      ],
+      "answer": "Pramen vody"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Obnova rodiny a bohatství",
+        "Nanebevstoupení",
+        "Stát se králem",
+        "Zachránit před velrybou",
+        "Přijetí syna ve stáří"
+      ],
+      "answer": "Obnova rodiny a bohatství"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

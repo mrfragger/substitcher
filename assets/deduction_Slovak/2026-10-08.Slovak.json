@@ -1,0 +1,61 @@
+{
+  "title": "Kamenári starovekého údolia",
+  "intro": "Predstavte si civilizáciu, ktorá vznikla v skalnatých údoliach Arábie a bola zručná v stavbe nádherných domov z horských svahov. Prekvitala silou a umením, no jej príbeh je poznačený mrazivým vzdorom voči božskému varovaniu. Keď sa ponoríte do ich príbehu, odhalíte ľudí, ktorých arogancia viedla k ich úplnému zničeniu. Kto boli?",
+  "clues": [
+    "Zdedili sme krajinu skalnatých plání a týčiacich sa útesov, kde sme si s bezkonkurenčnou zručnosťou postavili svoje obydlia.",
+    "Boli sme známi tým, že sme si v horách vytesávali bezpečné domy a cítili sme sa v bezpečí pred akýmkoľvek nebezpečenstvom.",
+    "Prišiel k nám posol spomedzi nás samých, ktorý nám pripomenul Alahove priazne a varoval nás pred trestom.",
+    "Požadovali sme znamenie a zo skaly sa vynorila zázračná ťava, jasná skúška od Alaha.",
+    "Neuznalí sme varovanie a podrezali sme ťave žily, vysmievali sme sa poslovi a spochybňovali trest.",
+    "Jediný výbuch nás zastihol v našich domovoch a ráno sme ležali na zemi, akoby sme tam nikdy nežili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z Thamudu",
+        "Ľudia z 'Ad",
+        "Ľudia z Madyanu",
+        "Ľudia z Nuha",
+        "Ľudia z Luta"
+      ],
+      "answer": "Ľudia z Thamudu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Ochromil ťavu",
+        "Porušil sabat",
+        "Uctieval zlaté teľa",
+        "Zabili proroka, ktorého im poslali",
+        "Postavil vežu, aby dosiahol až k nebu"
+      ],
+      "answer": "Ochromil ťavu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Ťava",
+        "Archa",
+        "Zamestnanci",
+        "Biela ruka",
+        "Manna a prepelice"
+      ],
+      "answer": "Ťava"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zničené výbuchom",
+        "Zachránený pred zničením",
+        "Premenené na opice",
+        "Utopený v mori",
+        "Pohltený zemou"
+      ],
+      "answer": "Zničené výbuchom"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

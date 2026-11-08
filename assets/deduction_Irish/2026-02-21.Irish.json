@@ -1,0 +1,61 @@
+{
+  "title": "Teachtaire na Díle Móire",
+  "intro": "Sheas an duine seo mar cholún seasmhachta ar feadh na gcéadta bliain, ag glaoch sochaí easumhal i dtreo sholas na fírinne agus iad ag tabhairt aghaidh ar mhagadh agus ar dhiúltú. In ainneoin na ndeacrachtaí móra agus mheáchan teachtaireachta a shín thar na glúnta, d’fhan an seirbhíseach seo daingean ina misean go dtí gur eisíodh an foraithne deiridh.",
+  "clues": [
+    "Chaith mé naoi gcéad caoga bliain ag glaoch mo mhuintire chun cosán na fíréantachta, de ló agus d’oíche, i rún agus i bpobal.",
+    "Thug mé rabhadh do mo mhuintir faoi phionós pianmhar, ach chuir siad a méara ina gcluasa agus chlúdaigh siad iad féin lena n-éadaí le huabhar.",
+    "Tugadh ordú dom rud éigin ollmhór a thógáil faoi shúile airdeallacha mo Thiarna, cé nach raibh aon uisce le feiceáil.",
+    "Agus mé ag obair, chuaigh ceannairí mo mhuintire thart agus rinne siad magadh fúm, ach dúirt mé leo go mbeadh muidne ag magadh fúthu go luath.",
+    "D’impigh mé ar mo chuid fola agus feola féin teacht liom, ach roghnaigh siadsan tearmann a lorg ar sliabh, agus iad den tuairim go sábhálfadh sé sin iad ón taoide ag ardú.",
+    "Tháinig mo shoitheach chun sosa ar Shliabh Judi sa deireadh tar éis don talamh a uisce a shlogadh agus don spéir stop a chur lena bháisteach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Hud",
+        "Fáidh Salih",
+        "Fáidh Nuh",
+        "Fáidh Lút",
+        "Fáidh Shu'ayb"
+      ],
+      "answer": "Fáidh Nuh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An Fhoireann atá ag Claochlú",
+        "An Tuilte Mór",
+        "An Tine Fuarúcháin",
+        "An Mhuir Scoilte",
+        "Camall Dé"
+      ],
+      "answer": "An Tuilte Mór"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Lao Órga",
+        "An Fhoireann",
+        "An Léine",
+        "An Áirc",
+        "An Fáinne"
+      ],
+      "answer": "An Áirc"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ag Dul Isteach sa Tír Gheallta",
+        "Báthadh sa Mhuir Rua",
+        "Ag scíth a ligean ar Shliabh Judi",
+        "Á chaitheamh isteach i bpoll",
+        "Ag Dul suas go dtí na Neamh"
+      ],
+      "answer": "Ag scíth a ligean ar Shliabh Judi"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

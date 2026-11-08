@@ -1,0 +1,61 @@
+{
+  "title": "The Solitary Retreat",
+  "intro": "In the annals of divine favor, there exists a soul of unparalleled purity, set apart from their people to seek solitude in a sacred direction. Little did they know that this seclusion would bring forth a sign for all worlds, a trial of faith that would be spoken of for eternity.",
+  "clues": [
+    "I was dedicated to a life of service before my birth.",
+    "I was placed under the guardianship of a noble prophet.",
+    "I was sustained with provisions from Allah that amazed my guardian.",
+    "I withdrew from my family to an eastern place.",
+    "An angel appeared to me in the form of a perfect man, bringing news of a pure son.",
+    "When I returned with my newborn, my people accused me, but the infant spoke in my defense."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiyah (wife of Pharaoh)",
+        "Hajar (mother of Ismail)",
+        "Sarah (wife of Ibrahim)",
+        "The mother of Musa"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Miraculous conception and birth of a son",
+        "Being thrown into a fire",
+        "Being swallowed by a giant fish",
+        "Building a great ark",
+        "Crossing the sea"
+      ],
+      "answer": "Miraculous conception and birth of a son"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A secluded eastern place",
+        "The burning bush",
+        "The Red Sea",
+        "The rock from which water gushed",
+        "The whale"
+      ],
+      "answer": "A secluded eastern place"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "An infant spoke in defense of a mother",
+        "The sea was parted",
+        "The fire became cool and safe",
+        "The whale vomited onto the shore",
+        "The ark landed on a mountain"
+      ],
+      "answer": "An infant spoke in defense of a mother"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

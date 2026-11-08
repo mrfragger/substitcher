@@ -1,0 +1,61 @@
+{
+  "title": "A hang az ősi homokban",
+  "intro": "Allah legkorábbi küldöttei között volt egy, akinek a neve röviden, mégis jelentőségteljesen felragyog a Koránban. Ez a személy jóval azelőtt élt, hogy sok nagy próféta elküldésre került, és rendíthetetlen igazmondásáról és türelméről volt ismert. Történetük rövid, de örökségük örökké él a feljegyzésekben. Ki ez a nemes lélek?",
+  "clues": [
+    "Én vagyok az egyik legkorábbi küldött, akit röviden, de jelentőségteljesen említ a Korán.",
+    "A jellememet az igazság iránti rendíthetetlen elkötelezettség határozta meg.",
+    "Allah könyvében azok között emlékeznek rám, akik állhatatosak és türelmesek voltak.",
+    "A Koránban csak néhány rövid vers meséli el a történetemet.",
+    "Allah olyan módon tisztelt meg engem, ami kizárólag az enyém, és nem osztott meg más prófétákkal.",
+    "Magas rangra emeltek, ami egyedülálló megtiszteltetés a Koránban."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Idrisz próféta",
+        "Ilja próféta",
+        "Dhul-Kifl",
+        "Alyasa próféta",
+        "Aszif ibn Barkhija"
+      ],
+      "answer": "Idrisz próféta"
+    },
+    "trial": {
+      "label": "Meghatározó pillanat",
+      "options": [
+        "Allah magas rangra emelt engem",
+        "Építettem egy hatalmas bárkát, hogy megmentsem népemet",
+        "Kihívtam a fáraó varázslóit",
+        "A testvéreim egy gödörbe dobtak",
+        "Elvesztettem a látásomat a fiam miatti bánattól"
+      ],
+      "answer": "Allah magas rangra emelt engem"
+    },
+    "location": {
+      "label": "Szent utalás",
+      "options": [
+        "Szúra Al-Anbiya",
+        "Szúra Al-Kahf",
+        "Szúra Taha",
+        "Szúra Ás-Suara",
+        "Szúra Jászin"
+      ],
+      "answer": "Szúra Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Isteni tisztelet",
+      "options": [
+        "Egy magaslati állomás, amihez foghatót nem találni",
+        "Dzsinnek és szelek feletti uralom",
+        "Páratlan dicsőségű királyság",
+        "Egy örökös öregkoromból",
+        "Allahhal megpecsételt szövetség"
+      ],
+      "answer": "Egy magaslati állomás, amihez foghatót nem találni"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "El paciente inquebrantable uno",
+  "intro": "En los anales de la historia profética, pocos han soportado una pérdida y un sufrimiento físico tan profundos con una fe inquebrantable. La historia de esta figura es una lección atemporal de paciencia y confianza en la sabiduría divina. ¿Quién es esta alma?",
+  "clues": [
+    "Fui elegido por Alá para transmitir un mensaje, pero mi mayor prueba no llegó a través del rechazo, sino a través de una calamidad personal.",
+    "Me arrebataron mi riqueza, mi ganado y a mis hijos, uno tras otro.",
+    "Mi cuerpo estaba cubierto de llagas y me quedé sola, a excepción del apoyo de mi cónyuge.",
+    "Clamé a mi Señor, reconociendo mi sufrimiento y buscando su misericordia.",
+    "Me indicaron que golpeara el suelo con el pie, y brotó un manantial refrescante.",
+    "Alá me devolvió la salud, me dio una nueva familia e incluso más riqueza de la que tenía antes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Ayyub",
+        "Profeta Ibrahim",
+        "El profeta Musa",
+        "Profeta Isaías",
+        "Profeta Noé"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Pérdida de riqueza y familia",
+        "Ser arrojado al fuego",
+        "Ser tragado por un pez",
+        "Ser separado de la familia y vendido como esclavo.",
+        "Ser puesto a prueba con un becerro de oro"
+      ],
+      "answer": "Pérdida de riqueza y familia"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un manantial de agua",
+        "Un bastón que se transformó en serpiente",
+        "Un arca de madera",
+        "Un ternero fundido",
+        "Una palmera"
+      ],
+      "answer": "Un manantial de agua"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Restauración de la familia y la riqueza",
+        "Ascensión al cielo",
+        "Convertirse en rey",
+        "Ser salvado de una ballena",
+        "Recibir un hijo en la vejez"
+      ],
+      "answer": "Restauración de la familia y la riqueza"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Neuslišan klic v deželi arogance",
+  "intro": "Stojiš sredi ruševin nekoč velike civilizacije, kjer moč in ponos nista poznala meja. Med njimi je hodil glasnik in klical k resnici, toda njihova srca so bila otrdela. Opozorilo je ostalo neupoštevano in nebo samo je postalo orodje jeze. Kdo je bil ta glasnik in kaj se je zgodilo s tistimi, ki so zavrnili klic?",
+  "clues": [
+    "Poslan sem bil k ljudstvu, ki je bilo neprekosljivo po moči in je na vsakem vzvišenem mestu zgradilo spomenik.",
+    "Moje ljudstvo se je imelo za nepremagljivo in je reklo: 'Kdo je močnejši od nas?'",
+    "Pozival sem jih, naj častijo samo Alaha, a so me obtožili neumnosti in laži.",
+    "Izzvali so me, naj izrečem obljubljeno kazen, če bom resnicoljuben.",
+    "Allah je nadnje poslal neploden veter, ki ni prizanesel ničesar, na kar je padlo.",
+    "Jaz in tisti, ki so verjeli z mano, smo bili rešeni po Alahovi milosti, medtem ko so bili neverniki popolnoma uničeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Hud",
+        "Prerok Salih",
+        "Prerok Šuaib",
+        "Prerok Lut",
+        "Prerok Nuh"
+      ],
+      "answer": "Prerok Hud"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Uničujoč veter je uničil nevernike",
+        "Velika poplava je zajela nevernike",
+        "Usul se je dež kamenja",
+        "Glasen krik je zajel nevernike",
+        "Nevernike je prizadel potres"
+      ],
+      "answer": "Uničujoč veter je uničil nevernike"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Neusmiljen veter",
+        "Lesena skrinja",
+        "Kamela",
+        "Dež glinenih kamnov",
+        "Plameneči ogenj"
+      ],
+      "answer": "Neusmiljen veter"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Hud in verniki so bili rešeni, neverniki pa uničeni.",
+        "Hud je bil povzdignjen na visok položaj",
+        "Huda so ubili njegovi ljudje",
+        "Hudovo ljudstvo se je pokesalo in bilo rešeno",
+        "Hud je zapustil svoje ljudstvo pred kakršno koli kaznijo"
+      ],
+      "answer": "Hud in verniki so bili rešeni, neverniki pa uničeni."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

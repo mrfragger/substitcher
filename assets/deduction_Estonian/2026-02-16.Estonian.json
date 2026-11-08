@@ -1,0 +1,61 @@
+{
+  "title": "Absoluutse autoriteedi väide",
+  "intro": "Iidsetel aegadel tõusis võimas isik valitsema tohutut maad ja selle elanikke. Selle tegelase valitsemisaega iseloomustas tohutu uhkus ja sügav väljakutse jumalikule autoriteedile. Valmistu paljastama hinge identiteeti, kelle lõplik saatus sai kestvaks õppetunniks kõikidele põlvkondadele.",
+  "clues": [
+    "Ma valitsesin võimsat impeeriumi, kus minu sõna oli seadus.",
+    "Kuulutasin end kõrgeimaks jumaluseks, nõudes kõigilt oma võimu all olevatelt kummardamist.",
+    "Ma rõhusin kindlat kogukonda, orjastades nad ja käskides tappa nende poeglapsi.",
+    "Mind kohtas korduvalt alandlik Jumala käskjalg, kes tegi minu ja mu võlurite ees selgeid imesid.",
+    "Ma lükkasin kangekaelselt tõe tagasi, süüdistades sõnumitoojat nõiduses ja sepitsedes plaani tema ja ta järgijate hävitamiseks.",
+    "Kogu mu armee ja mind neelas meri, kui me halastamatult taga ajasime neid, kes olid minu haardest vabanenud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur üleujutus",
+        "Põlev tuli",
+        "Rõhuja uppumine",
+        "Tuule poolt hävitamine",
+        "Uskmatuse maavärin"
+      ],
+      "answer": "Rõhuja uppumine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Noa laev",
+        "Moosese kepp",
+        "Kuldne iidol",
+        "Zamzami kaev",
+        "Bilqise troon"
+      ],
+      "answer": "Moosese kepp"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Andis tohutu kuningriigi",
+        "Keha säilitati märgina",
+        "Pärast meeleparandust andestati",
+        "Ülendatud prohvetiametisse",
+        "Tema rahvas muutus vagaks"
+      ],
+      "answer": "Keha säilitati märgina"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

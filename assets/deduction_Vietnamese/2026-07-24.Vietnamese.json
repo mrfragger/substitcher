@@ -1,0 +1,61 @@
+{
+  "title": "Kẻ âm mưu che giấu",
+  "intro": "Bạn chợt nhận ra mình đang đứng trước một nhân vật quyền lực từ thời kỳ mặc khải. Người này nổi tiếng về trí tuệ, sự giàu có và địa vị trong cộng đồng của mình. Khi những dấu hiệu rõ ràng xuất hiện, họ nhận ra vẻ đẹp nhưng lại chọn cách thách thức thay vì khuất phục. Điều gì đã thúc đẩy linh hồn này âm mưu trong bóng tối, và số phận cuối cùng của họ sẽ ra sao?",
+  "clues": [
+    "Tôi được ban phước với nguồn lực và tầm ảnh hưởng dồi dào, khiến lời nói của tôi có sức nặng lớn trong các hội thánh.",
+    "Khi những lời lẽ thiêng liêng được vang lên, tôi không thể phủ nhận sự hùng hồn của chúng, nhưng lòng kiêu hãnh không cho phép tôi khuất phục.",
+    "Tôi tập hợp các cố vấn của mình, rồi tự cô lập bản thân để suy nghĩ cách làm mất uy tín thông điệp đó.",
+    "Sau nhiều suy nghĩ, tôi cho rằng việc từ chối người khác chẳng qua chỉ là \"phép thuật được truyền lại từ quá khứ\".",
+    "Lời mặc khải đó trực tiếp hướng về phía tôi: \"Hãy để tôi yên với kẻ mà tôi đã tạo ra.\" Tôi bị nhắm đến vì những mưu đồ của mình.",
+    "Chẳng mấy chốc, chính ngọn lửa mà tôi đã được cảnh báo sẽ tóm lấy tôi, và tôi sẽ không còn đường thoát."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Âm mưu ám sát Nhà tiên tri",
+        "Phát động cuộc tẩy chay chống lại người Hồi giáo.",
+        "Họ triệu tập một hội đồng để gán cho kinh Quran là ma thuật.",
+        "Âm mưu trục xuất Nhà tiên tri khỏi Mecca.",
+        "Ông ta từ chối chia sẻ tài sản của mình với trẻ mồ côi."
+      ],
+      "answer": "Họ triệu tập một hội đồng để gán cho kinh Quran là ma thuật."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Sự Khải Huyền",
+        "Hội đồng",
+        "Tóc mái",
+        "Sự giàu có",
+        "Cây bút"
+      ],
+      "answer": "Tóc mái"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Ông hối cải và cải đạo sang đạo Hồi.",
+        "Ông di cư đến Abyssinia.",
+        "Ông ấy đã mắc phải một căn bệnh hiểm nghèo.",
+        "Ông đã tử trận trong cuộc chiến chống lại người Hồi giáo.",
+        "Ông ta bị đày xuống địa ngục."
+      ],
+      "answer": "Ông ta bị đày xuống địa ngục."
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

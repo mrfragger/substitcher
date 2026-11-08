@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fahavalo Mirehitra",
+  "intro": "Tamin'ny andro voalohan'ny fanambarana, nisy olona iray nipoitra ho mpanohitra mafy loha ny fahamarinana. Notahina tamin'ny harena sy ny toerana ambony, ity fanahy ity dia nifidy ny avonavona toy izay ny fitarihana, ary ny tantaran'izy ireo dia lasa fampitandremana henjana ao amin'ireo andininy farany amin'ny surah iray.",
+  "clues": [
+    "Nipetraka tao amin'ny tanàna iray ihany aho sy ny Mpaminany, ary anisan'ny havany akaiky indrindra aho, kanefa ny avonavona no nanalavitra ahy tamin'ny fahamarinana.",
+    "Nanana harena be sy fananana maro aho, ary nihevitra aho fa hiaro ahy mandrakariva ny fananako.",
+    "Rehefa nambara ny hafatra dia naneso azy ampahibemaso aho ary nihodina, nihevitra ny tenako ho ambony noho ny mpino.",
+    "Niavaka loatra ny fankahalako ka nisy surah iray tao amin'ny CORAN niresaka tamiko mivantana, niantso ahy tamin'ny anarana izay fantatry ny hafa ahy.",
+    "Nampitandremana aho fa tsy hahasoa ahy ny fananako sy ny vola azoko, ary hatsipy any anaty afo mirehitra aho.",
+    "Fantatra amin'ny anarana hoe rain'ny lelafo aho, ary ny vadiko hitondra ny kitay amin'ny tady vita amin'ny fibra palmie manodidina ny vozony."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sofyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nandà ny finoana silamo ary nanohitra ampahibemaso ny Mpaminany",
+        "Nikasa hamono ny Mpaminany",
+        "Nitarika ankivy ara-tsosialy manohitra ny Miozolomana",
+        "Niady tamin'ny Adin'i Badr",
+        "Bilal ibn Rabah nampijaliana"
+      ],
+      "answer": "Nandà ny finoana silamo ary nanohitra ampahibemaso ny Mpaminany"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Tady vita amin'ny fibre palmie",
+        "Sabatra maranitra",
+        "Rojo mavesatra",
+        "Tehina hazo",
+        "Karavasy hoditra"
+      ],
+      "answer": "Tady vita amin'ny fibre palmie"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Hirehitra amin'ny afo mirehitra",
+        "Nibebaka ary lasa namana",
+        "Very ny harenany saingy maty tamim-boninahitra",
+        "Nandositra tany Abisinia",
+        "Nilentika tao an-dranomasina"
+      ],
+      "answer": "Hirehitra amin'ny afo mirehitra"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

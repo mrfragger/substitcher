@@ -1,0 +1,61 @@
+{
+  "title": "Boroko jo bo Fetang Nako",
+  "intro": "Akanya ka nako e ka yone boammaaruri bo neng bo didimadiwa mme badumedi ba tsomiwa. Setlhopha se sennye se ne sa tlhopha go boela morago go na le go ineela, sa bona botshabelo mo mafelong a a neng a sa lebelelwa thata — lefelo le le neng le tla nna lefelo la bone la boikhutso ka makgolokgolo a dingwaga a a sa balegeng. Fa kgabagare ba tsoga, lefatshe le ne le fetogile go ba dikologa. Mewa e e robetseng eno ke bomang?",
+  "clues": [
+    "Re ne re le basha ba ba nnang mo toropong nngwe ya bogologolo.",
+    "Baagi ba rona ba ne ba batla gore re obamele mmogo le bone, mme re ne ra gana.",
+    "Re ne ra tshaba mo toropong eno re ya go batla botshabelo mo bathong ba ba neng ba le kgatlhanong le se re se dumelang.",
+    "Molekane mongwe yo o ikanyegang wa maoto a mane o ne a nna fa kgorong ya lefelo le re neng re iphitlhetse mo go lone.",
+    "Allah o dirile gore re robale dingwaga di le makgolo a mararo le borobongwe.",
+    "Fa kgabagare re tsoga, motse wa rona o o kileng wa bo o re bogisa o ne o amogetse tumelo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Ashab al-Kahf (Batho ba Logaga)",
+        "Ashab al-Fil (Sesole sa Tlou)",
+        "Ashab al-Ukhdud (Balekane ba Mosele)",
+        "Ba-Hawariyyun (Barutwa ba ga Isa)",
+        "(Gogo le Magogo)"
+      ],
+      "answer": "Ashab al-Kahf (Batho ba Logaga)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Re ne ra boela morago mo logageng mme ra robala makgolokgolo a dingwaga",
+        "Re ne ra bolokwa mo molelong o o neng o tuka",
+        "Re ne ra mediwa ke tlhapi e kgolo",
+        "Re ne ra lekwa ka kgakgamatso ya kamela e namagadi",
+        "Re ne ra newa matshwao a le robongwe a a utlwalang sentle"
+      ],
+      "answer": "Re ne ra boela morago mo logageng mme ra robala makgolokgolo a dingwaga"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Logaga lo lo boteng mo dithabeng",
+        "Mokoro mo lewatleng le le bulegileng",
+        "Sebopego se se kwa godimo se se fitlhang kwa magodimong",
+        "Tshingwana e kgaogantswe magareng ga diphadisani tse pedi",
+        "Sekgoreletsi sa tshipi le kopore"
+      ],
+      "answer": "Logaga lo lo boteng mo dithabeng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Re tsogile go fitlhela toropo ya rona e fetogile tumelo",
+        "Molelo o o tukang o ne wa tsidifala le kagiso",
+        "Mophato wa baba o ne wa nwela mo lewatleng",
+        "Dinonyane tse di tshotseng matlapa di ne tsa senya mmaba",
+        "Tlhapi e kgolo e ne ya re gololela mo lotshitshing lwa lewatle"
+      ],
+      "answer": "Re ne ra tsoga go fitlhela toropo ya rona e ne e fetogile tumelo"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

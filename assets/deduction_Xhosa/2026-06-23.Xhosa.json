@@ -1,0 +1,61 @@
+{
+  "title": "Umlindi ecaleni koMlambo",
+  "intro": "Kwilizwe apho umthetho wobuzwilakhe wawuzisa usizi kumakhaya amaninzi, umphefumlo othile wafumana umyalezo owawuchasa lonke uloyiko. Ngentliziyo egcwele ukuthembana, baqalisa isenzo sokholo esasiza kutshintsha indlela yesizwe. Njengoko amanzi ayethwele umthwalo oxabisekileyo, ithemba lalixubene nemisinga.",
+  "clues": [
+    "Bendiphila kwixesha lengcinezelo noloyiko.",
+    "Ndifumene ugqozi oluvela kuThixo olwandinika inkalipho.",
+    "Ndayalelwa ukuba ndingoyiki okanye ndingabi nazintloni.",
+    "Ndabeka umntwana wam ebhokisini ndaza ndambeka phezu kwamanzi.",
+    "Umntwana wam wafunyanwa yindlu yomlawuli, kodwa omnye umntwana wam walandela.",
+    "Ndadibana kwakhona nomntwana wam ukuze ndimncancise, njengoko uAllah wayethembisile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umama kaMoses",
+        "Umfazi kaFaro",
+        "Udade boMoses",
+        "Umama kaYesu",
+        "UKumkanikazi waseShebha"
+      ],
+      "answer": "Umama kaMoses"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuphefumlelwa ukuba uphose umntwana emlanjeni",
+        "Ukuchaswa kwidabi lomlingo",
+        "Ukusukelwa ngumkhosi",
+        "Ukuwela ulwandle olwahlukana",
+        "Ukwakha indlu engcwele"
+      ],
+      "answer": "Ukuphefumlelwa ukuba uphose umntwana emlanjeni"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ibhokisi ebekwe emlanjeni",
+        "Isihlahla esitshayo",
+        "Intonga eyajika yaba yinyoka",
+        "Ithole legolide",
+        "Itrone"
+      ],
+      "answer": "Ibhokisi ebekwe emlanjeni"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Umntwana ubuyiselwe ngokukhuselekileyo kumongikazi",
+        "Umntwana ulahlekile ngonaphakade",
+        "Umntwana wasiwa kwilizwe elikude",
+        "Umntwana waba ngumlawuli ngoko nangoko",
+        "Umntwana wathathwa ngumrhwebi osisityebi"
+      ],
+      "answer": "Umntwana ubuyiselwe ngokukhuselekileyo kumongikazi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

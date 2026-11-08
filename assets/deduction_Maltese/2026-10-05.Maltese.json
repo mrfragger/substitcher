@@ -1,0 +1,61 @@
+{
+  "title": "Il-Fiduċja Fdata lix-Xmara",
+  "intro": "Ruħ iffaċċjat digriet impossibbli, fejn il-ħajja ta’ tarbija tat-twelid kienet fil-periklu. Iggwidata minn ispirazzjoni divina, kmand iddisprat ġie obdut, u sigriet prezzjuż tħalla jittajjar mal-kurrent, biex imbagħad jerġa’ lura b’mod mhux previst.",
+  "clues": [
+    "Għext taħt id-dell ta' tirann li kkmanda l-qtil ta' subien tat-twelid.",
+    "Ġietni ispirazzjoni divina, li għallmitni nieħu azzjoni ddisprata u ta’ qsim il-qalb.",
+    "Poġġejt lit-tarbija għażiża tiegħi f’kaxxa u qegħedtha fuq ix-xmara li tiġri.",
+    "Qalbi tbattlet, u kważi żvelajt is-sigriet, imma Alla saħħaħ ir-riżoluzzjoni tiegħi.",
+    "Bgħatt lil xi ħadd biex isegwi l-vjaġġ tat-tifel 'l isfel mix-xmara hekk kif il-kurrent ġarr is-sider 'il bogħod.",
+    "It-tifel instab mid-dar tat-tirann, u eventwalment, erġajt ingħaqadt ma' ibni u sirt in-nurse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Omm il-Profeta Musa",
+        "Asiya (Mart il-Fargħun)",
+        "Maryam (Omm il-Profeta Isa)",
+        "Il-mara tal-Profeta Lut",
+        "Omm il-Profeta Yahya (mara ta' Zakariya)"
+      ],
+      "answer": "Omm il-Profeta Musa"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Hija poġġiet lit-tifel tagħha f’kaxxa u poġġietu fuq ix-xmara",
+        "Hija ħbiet lil binha f'għar",
+        "Hija abbandunat lil bintha fid-deżert",
+        "Hija tefgħet lit-tifel tagħha fin-nar",
+        "Hija ħalliet lil bintha ħdejn il-bieb ta’ moskea"
+      ],
+      "answer": "Hija poġġiet lit-tifel tagħha f’kaxxa u poġġietu fuq ix-xmara"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Kaxxa mqiegħda f'wiċċ l-ilma fuq ix-xmara",
+        "Siġra taqbad",
+        "Bastun li nbidel f’serp",
+        "Mejda mħejjija b’ikel mis-sema",
+        "Ġemela mibgħuta bħala sinjal"
+      ],
+      "answer": "Kaxxa mqiegħda f'wiċċ l-ilma fuq ix-xmara"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Hija reġgħet ingħaqdet mat-tifel tagħha u ħaditu ħsiebu",
+        "Qatt ma rat lil binha mill-ġdid",
+        "Hija ġiet eżegwita mit-tirann",
+        "Hija saret reġina fl-Eġittu",
+        "Hija emigrat lejn art oħra u għexet fl-eżilju"
+      ],
+      "answer": "Hija reġgħet ingħaqdet mat-tifel tagħha u ħaditu ħsiebu"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

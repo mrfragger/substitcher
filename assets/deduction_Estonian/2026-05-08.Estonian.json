@@ -1,0 +1,61 @@
+{
+  "title": "Tõe vankumatu otsija",
+  "intro": "Ajal, mida varjutas teadmatus ja valejumaluste kummardamine, puhkes lahti sügav usuteekond. See inimene seadis kahtluse alla oma ühiskonna normid, otsides vankumatu veendumusega Üht Tõelist Loojat. Valmistu paljastama hinge identiteeti, kelle pärand inspireerib jätkuvalt miljoneid.",
+  "clues": [
+    "Ma kahtlesin taevakehades, otsides tõelist Issandat, kes loob ja hoiab kõike üleval.",
+    "Mul kästi kodumaalt lahkuda ja rännata Allahi õnnistatud maale.",
+    "Ma esitasin väljakutse oma rahva ebajumalatele, astudes otse vastu nende mõttetusele need purustades.",
+    "Mu rahvas heitis mind raevukasse tulle, kuid Allahi käsul muutus see minu jaoks jahedaks ja rahulikuks.",
+    "Mind proovile pandi käsuga ohverdada oma armastatud esmasündinud poeg – see oli ülima alistumise katsumus.",
+    "Mina koos oma pojaga rajasime aluse esimesele palvekojale Maa peal, pühakojale kogu inimkonnale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Noa",
+        "Prohvet Yusuf",
+        "Prohvet Salih",
+        "Prohvet Ibrahim",
+        "Prohvet Isa"
+      ],
+      "answer": "Prohvet Ibrahim"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur üleujutus",
+        "Mere lõhenemine",
+        "Thamudi hävitamine",
+        "Käsk poeg ohverdada",
+        "Teekond läbi kõrbe laevaga"
+      ],
+      "answer": "Käsk poeg ohverdada"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Personal",
+        "Turi mägi",
+        "Laegas",
+        "Kaaba",
+        "Kuldvasikas"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai Egiptuse valitsejaks",
+        "Tema rahvas uppus",
+        "Sai tarkust ja õiglast päritolu",
+        "Vaal neelas ta alla",
+        "Tema linn pandi ümber"
+      ],
+      "answer": "Sai tarkust ja õiglast päritolu"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Die Bürde des Reichtums",
+  "intro": "Sie stehen vor einer Geschichte von unermesslichem Reichtum, einem Leben voller Gold und Macht, das letztlich aber eine warnende Lektion für alle ist, die nach weltlichem Ruhm streben. Können Sie die Identität dieser Gestalt entschlüsseln, deren Geschichte durch die Zeiten hallt und die die Vergänglichkeit weltlicher Besitztümer bezeugt?",
+  "clues": [
+    "Ich stammte aus dem Volk eines großen Propheten, aber ich wählte einen Weg der Arroganz und Unterdrückung.",
+    "Allah hat mir unermesslichen Reichtum geschenkt, so viel, dass die Schlüssel zu meinen Schätzen eine schwere Last für eine starke Gruppe von Männern darstellten.",
+    "Mein Volk riet mir, mich nicht über meinen Reichtum zu freuen, und erinnerte mich daran, dass Allah die Frechenden nicht liebt.",
+    "Ich behauptete arrogant, mein riesiges Vermögen sei meinem eigenen Wissen und meinen eigenen Anstrengungen zu verdanken, nicht einem Segen Allahs.",
+    "Ich wurde vor Korruption gewarnt und daran erinnert, mit dem, was Allah mir gegeben hat, das Jenseits zu suchen, aber ich weigerte mich zuzuhören und verharrte in meinem Stolz.",
+    "Schließlich ließ Allah die Erde mich und meine Behausung verschlingen, sodass ich gegen Seines Gebot ohne Helfer dastand."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Pharao",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Spaltung des Meeres",
+        "Das Feuer Nimrods",
+        "Die Flut",
+        "Das Verschlucken durch die Erde",
+        "Die Heuschreckenplage"
+      ],
+      "answer": "Das Verschlucken durch die Erde"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Das goldene Kalb",
+        "Die Schätze/Schlüssel",
+        "Der Zamzam-Brunnen"
+      ],
+      "answer": "Die Schätze/Schlüssel"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihm wurde die Königswürde verliehen",
+        "Vor der Zerstörung gerettet",
+        "Von der Erde verschluckt",
+        "Wurde ein Prophet",
+        "Friedlich gestorben"
+      ],
+      "answer": "Von der Erde verschluckt"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A melodía que moveu as montañas",
+  "intro": "Estás a piques de descubrir a historia dun servo extraordinario de Alá. Nunha terra de mensaxeiros e gobernantes, esta figura foi bendicida cun libro divino, unha voz poderosa e forza sobre o ferro. Mentres lees as pistas, podes identificar quen podería ser?",
+  "clues": [
+    "Eu era un servo de Alá ao que se lle concedeu un libro especial.",
+    "Tiña unha fermosa voz, e os meus eloxios eran tan queridos que ata os outeiros e os paxaros se uniron a min.",
+    "Enfronteime a un opoñente formidable nunha batalla famosa e, a pesar de ser máis pequeno, prevalecín.",
+    "O ferro fíxose maleable para min, o que me permitiu fabricar armaduras coas miñas propias mans.",
+    "Fun nomeado gobernante dunha gran nación, e a miña sabedoría no xuízo foi recoñecida.",
+    "Ao meu fillo, tamén profeta, concedéuselle o control sobre o vento e os djinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Dawud (David)",
+        "Profeta Sulaimán (Salomón)",
+        "Profeta Musa (Moisés)",
+        "Profeta Harún (Aarón)",
+        "Profeta Ilyas (Elías)"
+      ],
+      "answer": "Profeta Dawud (David)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Derrotou a Goliat (Jalut)",
+        "Separou o mar",
+        "Sobreviviu á balea",
+        "Foi lanzado a un lume",
+        "Construíu a Arca"
+      ],
+      "answer": "Derrotou a Goliat (Jalut)"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O Zabur (Salmos)",
+        "A Torá (Tawrat)",
+        "O Evanxeo (Injil)",
+        "Os pergamiños de Ibrahim",
+        "O Corán"
+      ],
+      "answer": "O Zabur (Salmos)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Converteuse en profeta e rei de Israel",
+        "Converteuse no gobernante de Exipto",
+        "Foi elevado aos ceos",
+        "Foi destruído por unha tormenta",
+        "Converteuse nun compañeiro da cova"
+      ],
+      "answer": "Converteuse en profeta e rei de Israel"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

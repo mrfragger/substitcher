@@ -1,0 +1,61 @@
+{
+  "title": "gururun altında batan hazine",
+  "intro": "Önünüzde öyle büyük bir servet yığını olduğunu hayal edin ki, anahtarlarını taşımak bile bir grup güçlü insanı yorardı. Etrafınızda alçakgönüllülük ve hatırlama çağrısı yapan sesler yükseliyor, ancak gurur minnettarlıktan daha yüksek sesle konuşuyor. Peki ya bolluk bir sınava dönüştüğünde ve kibir sonucu belirlediğinde ne olur?",
+  "clues": [
+    "Ben Musa kavmindendim, fakat onlara karşı günah işledim.",
+    "Bana öyle muazzam hazineler verildi ki, bunların anahtarlarını taşımak bile bir grup güçlü adamı zorlardı.",
+    "Halkım bana aşırı sevinmememi ve bu dünyadaki payımı unutmadan ahireti aramamı tavsiye etti.",
+    "Sahip olduğum şeylerin bana yalnızca sahip olduğum bilgi sayesinde verildiğini iddia ettim.",
+    "Süslenip püslenerek halkımın önünde geçit töreni yaptım ve dünyevi hayata susayanlar benim sahip olduklarımın benzerini arzuladılar.",
+    "Hem ben hem de evim toprak altında kaldık ve kimse bana yardım edemedi, ben de kendime yardım edemedim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Karun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Kabil"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Zenginliğiyle övündü ve öğütlere rağmen Allah'ın lütfunu inkâr etti.",
+        "İbrahim'e hayat ve ölüm verme konusunda meydan okudu.",
+        "Talut ve Davud'a karşı bir orduya önderlik etti.",
+        "İnsanların tapınması için oyulmuş putlar",
+        "Bir kurban sunumu yüzünden kardeşini kıskançlıktan öldürdü."
+      ],
+      "answer": "Zenginliğiyle övündü ve öğütlere rağmen Allah'ın lütfunu inkâr etti."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Engin hazinelerin anahtarları",
+        "Ahd Sandığı",
+        "Süslemelerle bezeli altın bir buzağı",
+        "İki dağ arasında bir baraj",
+        "Bir rüyada on bir yıldız"
+      ],
+      "answer": "Engin hazinelerin anahtarları"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Yerin dibine gömülmüş, mesken ve zenginlikle dolu.",
+        "Musa'yı kovalarken denizde boğuldu.",
+        "Davud'un sapanından atılan bir taşla yere serildi.",
+        "Dişi bir devenin sakatlanmasına neden olduğu için şiddetli bir patlamayla yok edildi.",
+        "Şabat gününü ihlal ettikleri için maymuna dönüştürüldüler."
+      ],
+      "answer": "Yerin dibine gömülmüş, mesken ve zenginlikle dolu."
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

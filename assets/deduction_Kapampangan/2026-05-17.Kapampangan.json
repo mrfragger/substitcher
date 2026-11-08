@@ -1,0 +1,61 @@
+{
+  "title": "Ding Arkitektu ning Batu",
+  "intro": "Isipan me ing metung a masikan a sibilisasyun, a mipagkalub sikanan at kabiasnan, a mag-ukit mangaragul a tuknangan kareng gilid ning bunduk. Ing grupung ayni atin yang maragul a kasaganaan ampo metung a makatagulaling a arkitektural a kabiasnan. Pero, agyang tinanggap lang malino babala, pinili da ing dalan a magdalang dramatiku at e maliling konklusyun. Malyari meng akilala ining grupu na ing istorya na magsilbi yang malalam a aral para kareng sablang mag-reflect?",
+  "clues": [
+    "dininan da kaming sikanan ampo kabiasnan, inya mekapag-ukit kaming mangasanting a bale diretsu keng bunduk.",
+    "dininan na kaming malino tanda ibat kang Allah, metung a makatagulaling a lelangan na dapat paburen alang makagulu para mamangan.",
+    "Meging mayabang ya ing kekatamung komunidad, linaban ya king banal a mensahi a dela ning metung a tubud ibat kekatamu.",
+    "Migkunsabu kami ban panasakitan ing makapagmulalang tanda, agyang atin nang babala king mabayat a parusa.",
+    "linaban kami keng utus na paburen ming minum ing espesyal a lelangan keng kekaming talaga keng miyayaliwang aldo.",
+    "Atin kaming akit a makalunus a wakas, a mesira keng metung, makatakut a sabog kaybat ning kekaming gewa ning pamaglabag."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Tamu?",
+      "options": [
+        "Tau ning 'Ad",
+        "Memalen ning Midian",
+        "Tau ning Elepante",
+        "Deng tau ning Thamud",
+        "Tau ning Lut"
+      ],
+      "answer": "Deng tau ning Thamud"
+    },
+    "trial": {
+      "label": "Ing kekaming Maragul a Pamanyubuk/Kaganapan",
+      "options": [
+        "Ing albug a linub king labuad",
+        "Ing pamipitna ning dagat",
+        "Ing pangasira keng metung mung sabog/kulisak",
+        "Ing pangasilab ning metung a siudad",
+        "Ing pamaging alikabuk ning bunduk"
+      ],
+      "answer": "Ing pangasira keng metung mung sabog/kulisak"
+    },
+    "location": {
+      "label": "Metung a Susi keng Kekatamung Kwentu",
+      "options": [
+        "Metung a gintung biserung baka",
+        "Metung a makapagmulalang babaing kamelyu",
+        "Metung a tutung tanaman",
+        "metung a ayup a magsalita",
+        "Metung a marangal a tronu"
+      ],
+      "answer": "Metung a makapagmulalang babaing kamelyu"
+    },
+    "outcome": {
+      "label": "Ing kekatamung katataulian a bunga",
+      "options": [
+        "Mipagkalub yang maragul a pibandian at upaya",
+        "Mitas ya king pangapropeta",
+        "Lubus a pangasira kapamilatan ning banal a parusa",
+        "Patawaran kaybat ning tapat a pamagsisi",
+        "Mikalat king mabilug a yatu ban maglakbe"
+      ],
+      "answer": "Lubus a pangasira kapamilatan ning banal a parusa"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dalens stille stemme",
+  "intro": "Reis tilbake i tid til et mektig folk som en gang fikk et levende underverk som en prøve. Arroganse og stahet beseglet deres skjebne. Kan du spore historien og oppdage hva som utspilte seg i dette dramatiske vendepunktet?",
+  "clues": [
+    "Jeg ble sendt som en guddommelig prøvelse til et mektig folk kjent for sin styrke og trass.",
+    "Jeg var et unikt vidunder – noen som meg hadde aldri dukket opp blant dem.",
+    "Jeg delte drikkevann fra en brønn med folket mitt annenhver dag.",
+    "De ble advart om at enhver skade mot meg ville føre til rask straff.",
+    "Den mest dristige av dem ignorerte advarselen og satte en hinder i meg.",
+    "Etter min død ødela et eneste tordnende rop ovenfra hele mitt folk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Hunkamelen fra Salih",
+        "Musas ku",
+        "Nuhs skip",
+        "Musas stab",
+        "Bilqis' trone"
+      ],
+      "answer": "Hunkamelen fra Salih"
+    },
+    "trial": {
+      "label": "Min skjebne",
+      "options": [
+        "Hamstret og drept",
+        "Slaktet som et offer",
+        "Forvandlet til en slange",
+        "Bevart gjennom en stor flom",
+        "Brakt raskt over et kongerike"
+      ],
+      "answer": "Hamstret og drept"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En brønn med vann",
+        "En steintavle",
+        "En brennende busk",
+        "En ark av tre",
+        "En trone av gull og sølv"
+      ],
+      "answer": "En brønn med vann"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Ødelagt av et enkelt skrik",
+        "Druknet i en stor flom",
+        "Brent av en steinskur",
+        "Knust av en voldsom vind",
+        "Svelget av jorden"
+      ],
+      "answer": "Ødelagt av et enkelt skrik"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

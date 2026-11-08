@@ -1,0 +1,61 @@
+{
+  "title": "Trincherapa Almakuna",
+  "intro": "Huk tiempomanmi kutinki, chay tiempopiqa mana khuyapayakuq kamachikuqmi llulla dioskunaman tukuy sonqowan Diosta servinanta mañakurqan. Huk huch’uy ayllu dedicado almakunan mana munarqankuchu, hinaspan sinchi muchuchiywan tuparqanku, chaymi wiñaypaq ñakasqa kapurqan. Willakuyninkuqa Quran nisqawanmi uyarikun, mana kuyuriq iñiypa testamenton hina. ¿Atiwaqchu kay mana kuyuriq huñuta riqsiyta?",
+  "clues": [
+    "Llulla dioskunata yupaychanapaq kamachikuqpa munaychakusqan allpapim yacharqaniku",
+    "Llaqtaykuqa Allahllapi iñisqaykuraykullan sinchi qatiykachasqa karqan",
+    "Kamachiqmi kamachirqan hatun zanjata t’oqospa sinchi nina rawraywan q’osñichinankupaq",
+    "Iñiyniykuta mana saqeyta munasqaykuraykun hukmanta hukmanta chay nina t’oqoman wikch’usqa karqayku",
+    "Willakuyniykuqa Quranpa partenmi kapurqan, qatiykachawaqniykutaq wiñaypaq ñakasqa karqanku",
+    "Chay sasachakuyninchista qelqaq surahqa hanaq pachaq hatun hanaq pacha señalninkunaq sutinwanmi sutichasqa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pikunataq kanchik?",
+      "options": [
+        "Zanjapa compañeronkuna (Ashab al-Ukhdud) .",
+        "Machaypi runakuna (Ashab al-Kahf) .",
+        "Sábado punchawpi runakuna",
+        "Runakuna A'ad",
+        "Thamud llaqtapi runakuna"
+      ],
+      "answer": "Zanjapa compañeronkuna (Ashab al-Ukhdud) ."
+    },
+    "trial": {
+      "label": "Pruebanchis",
+      "options": [
+        "Nina uchkupi kawsachkaqta ruphachisqa kay",
+        "Achka watakuna machaypi sellasqa kasqan",
+        "Ch’uya samay p’unchaypi challwakuy",
+        "Waqaykuq wayrawan chinkachisqa kay",
+        "Sagrado warmi camellota wañuchispa"
+      ],
+      "answer": "Nina uchkupi kawsachkaqta ruphachisqa kay"
+    },
+    "location": {
+      "label": "El Elemento Clave",
+      "options": [
+        "Nina rawraq zanja",
+        "Chiqap allquyuq pakasqa machay",
+        "Ñawpa pacha chinkachisqa llaqtapa hatun pilarninkuna",
+        "Rumimanta qaqakunapi tallasqa orqokunapi tiyaq wasikuna",
+        "Sinchi wayrakunawan apasqa kichasqa pampa"
+      ],
+      "answer": "Nina rawraq zanja"
+    },
+    "outcome": {
+      "label": "Resultado nisqanchis",
+      "options": [
+        "Martirio karqayku, qatiykachaqkunapas wiñaypaq ñakasqa karqanku",
+        "309 wata puñusqayku qhepamanmi rikch’arirqayku",
+        "Huchallikusqanchikraykum monoman tikrakururqanchik",
+        "Llapaykutam qapariq wayram chinkachiwarqanchik",
+        "Huklla thuñichiq waqaymi kausayninchista thuñichirqan"
+      ],
+      "answer": "Martirio karqayku, qatiykachaqkunapas wiñaypaq ñakasqa karqanku"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La multitud desapareguda",
+  "intro": "Et trobes davant dels ecos d'una comunitat la història de la qual està escrita a les ones. Aquestes ànimes van sentir una crida, van triar el desafiament i es van enfrontar a una conseqüència que va remodelat la terra. Qui són i què va ser del seu món?",
+  "clues": [
+    "Vam viure fa molt de temps, i un missatger va venir a nosaltres d'entre nosaltres.",
+    "Vam adorar cinc ídols i ens vam negar a abandonar-los.",
+    "Ens vam burlar del missatger i el vam acusar d'estar desviat.",
+    "Li vam exigir que portés el càstig si deia la veritat.",
+    "Vam veure el cel vessar pluja i la terra brollar fonts.",
+    "Vam pujar als llocs alts per escapar, però les onades ens van envair."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Gent de Nuh",
+        "Gent d'Ad",
+        "Gent de Thamud",
+        "Gent de Lut",
+        "Gent de Madyan"
+      ],
+      "answer": "Gent de Nuh"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ens vam ofegar en una gran inundació",
+        "Vam ser destruïts per un huracà",
+        "Ens va matar una forta explosió",
+        "Ens va engolir la terra",
+        "Ens van llançar pedres del cel"
+      ],
+      "answer": "Ens vam ofegar en una gran inundació"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una gran inundació",
+        "Un vent violent",
+        "Una pluja de pedres",
+        "Una explosió de foc",
+        "Un terratrèmol"
+      ],
+      "answer": "Una gran inundació"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Tots vam morir excepte els creients amb Nuh",
+        "Ens vam transformar en simis",
+        "Vam quedar com a ruïnes per als viatgers",
+        "Ens vam convertir en sal",
+        "Ens van donar un respir"
+      ],
+      "answer": "Tots vam morir excepte els creients amb Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

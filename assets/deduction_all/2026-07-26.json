@@ -1,0 +1,61 @@
+{
+  "title": "The Crown That Challenged The Skies",
+  "intro": "In the corridors of ancient kingdoms, one ruler's name became a byword for tyranny and arrogance. When a humble servant of Allah arrived bearing undeniable signs, this mighty sovereign refused to surrender to the truth. Today, your task is to identify this legendary figure whose dominion crumbled and whose fate was sealed beneath the waves.",
+  "clues": [
+    "I am the most feared ruler whose name still echoes as a warning through the ages.",
+    "I commanded an entire people to labor in chains, raising monuments that proclaimed my glory.",
+    "When a messenger of Allah came before me with undeniable signs, I refused to bow and called it sorcery.",
+    "I decreed the killing of infant sons among a captive people, hoping to crush their spirit before they could rise.",
+    "I stood before my court and declared, 'I am your highest lord,' demanding worship as a god.",
+    "With my chief minister beside me, I built a towering structure aimed at climbing beyond the heavens."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Pharaoh (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Pharaoh (Fir'awn)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The drowning in the Red Sea",
+        "The she-camel sent to the people of Thamud",
+        "The great flood of Nuh",
+        "The punishment of the Companions of the Trench",
+        "The destruction of Abraha's army by birds"
+      ],
+      "answer": "The drowning in the Red Sea"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The towering structure built with Haman",
+        "The ark that sailed upon the flood",
+        "The golden calf fashioned by the Samiri",
+        "The throne of Bilqis, Queen of Sheba",
+        "The cave of the sleeping youths"
+      ],
+      "answer": "The towering structure built with Haman"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Drowned in the sea; body preserved as a warning",
+        "Exiled and forced to wander the wilderness",
+        "Transformed into apes as punishment",
+        "Struck down by a violent earthquake",
+        "Burned by a rain of stones from the sky"
+      ],
+      "answer": "Drowned in the sea; body preserved as a warning"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

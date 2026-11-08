@@ -1,0 +1,61 @@
+{
+  "title": "Ve stínu datlové palmy",
+  "intro": "Vypráví se příběh o duši oddělené před narozením, vychované v posvátných zdech a vyvolené, aby nesla znamení, jaké svět nikdy předtím neviděl. Když se ze všech stran ozvala obvinění, z nejméně pravděpodobného místa se ozval hlas, který umlčel veškeré pochybnosti. Dokážete zjistit, kdo kráčel ve stínu datlové palmy?",
+  "clues": [
+    "Službě Všemohoucího jsem se zasvětil ještě předtím, než jsem se poprvé nadechl, slib, který dal ten, kdo mě nosil.",
+    "Vyrůstal jsem pod bedlivou péčí spravedlivého strážce v posvátných komnatách místa uctívání.",
+    "Kdykoli můj poručník přišel do mé komnaty, nacházel u mě zásoby z ročních období, která neměla nastat.",
+    "Dostal jsem radostnou zprávu o synovi, ačkoli mé okolnosti nenechávaly prostor pro to, co mi bylo slíbeno.",
+    "Odešel jsem na vzdálené místo, kde mi datlová palma poskytovala stín, zatímco pode mnou tekl potok.",
+    "Když se objevila obvinění a obklopily mě otázky, ukázala jsem na své novorozené dítě – a ono promluvilo od kolébky, aby umlčelo všechny pochybnosti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Maryam",
+        "Sára",
+        "Hawa",
+        "Umm Musa",
+        "Manželka Nuhova"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Zkušební verze / událost",
+      "options": [
+        "Porod zázračného syna v izolaci",
+        "Být uvržen do planoucího ohně modláři",
+        "Přežití velké potopy s hrstkou vyvolených",
+        "Být oddělen od dítěte vrženého do řeky",
+        "Tváří v tvář mocnému vládci Egypta"
+      ],
+      "answer": "Porod zázračného syna v izolaci"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Datlovník a pod ním tekoucí potok",
+        "Mocná archa na tyčících se vlnách",
+        "Hůl, která rozdělila velké moře na dvě části",
+        "Planoucí oheň, který má pohltit věrnou duši",
+        "Zlatý trůn ozdobený drahými kameny"
+      ],
+      "answer": "Datlovník a pod ním tekoucí potok"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Uctívána jako nejvznešenější ze všech žen",
+        "Znovu se setkala s milovaným dítětem po dlouhém odloučení",
+        "Vyvedl celý národ z otroctví tyrana",
+        "Varoval lid ztracený v nemravnosti",
+        "Udělena vláda nad džiny, lidstvem a větry"
+      ],
+      "answer": "Uctívána jako nejvznešenější ze všech žen"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Korarrun Sama",
+  "intro": "Wani abu mai ban mamaki yana tsaye a kan mahaɗar halitta da ƙin yarda. Labarinsu yana nuna girman kai mara misaltuwa da kuma rashin bin umarnin Allah. Zabinsu yana ta yawo a cikin kowace tsara, yana zama jarrabawa ga kowace rai da aka haifa a cikin wannan duniyar. Za ku iya gano wannan maƙiyi na har abada?",
+  "clues": [
+    "Na kasance a wurin wani lamari mai muhimmanci a sararin samaniya, lokacin da aka samar da wani sabon halitta daga yumbu aka kuma ba shi rai ta hanyar Numfashin Mai Rahama.",
+    "Ni kaina an halicce ni ne daga wani abu mai kama da wuta guda ɗaya, ba kamar ƙura ba.",
+    "An ba ni umarni wanda na ɗauka a ƙarƙashin ofishina.",
+    "Girman kai ya cika ni, kuma na ƙi bin wannan umarni da ƙarfi.",
+    "An ba ni jinkiri har sai an sanya ranar da aka ƙayyade, domin in ci gaba da manufar da na ayyana ta na yaudarar wasu.",
+    "Ni ne maƙiyin duk wanda ke tafiya a duniya, ina raɗa musu ƙarya ina kuma jan su daga hanya madaidaiciya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Iblis (Shaidan)",
+        "Fir'auna (Fir'auna)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Shaidan)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ya ƙi yin sujada a gaban Adamu",
+        "Da'awar Allahntaka ta ƙarya",
+        "An ƙera ɗan maraƙi na zinariya don bauta",
+        "Ya kashe ɗan'uwansa saboda hassada",
+        "Ya jagoranci adawa da mushrikai a Makkah"
+      ],
+      "answer": "Ya ƙi yin sujada a gaban Adamu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Aljanna (Aljanna)",
+        "Fadar Fir'auna a Masar",
+        "Kwarin Tuwa mai tsarki",
+        "Zurfin teku",
+        "Lambun Sheba"
+      ],
+      "answer": "Aljanna (Aljanna)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba da jinkiri har zuwa Ranar Sakamako",
+        "An nutsar da shi tare da rundunar a cikin teku",
+        "Duniya ta haɗiye ta tare da taskoki",
+        "An canza shi zuwa birai saboda karya dokar Asabar",
+        "An ƙone ta da duwatsu da aka jefa daga sama"
+      ],
+      "answer": "An ba da jinkiri har zuwa Ranar Sakamako"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

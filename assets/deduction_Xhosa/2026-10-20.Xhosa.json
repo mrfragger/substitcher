@@ -1,0 +1,61 @@
+{
+  "title": "Umyili Weebhongo Ezingeyonyani",
+  "intro": "Umntu owayenegunya elikhulu wayekhonza omnye wabalawuli abadumileyo kwimbali yaseYiputa yamandulo. Lo mntu wayenikwe umyalelo onesibindi - wokwakha isakhiwo esenzelwe ukuchasa amazulu. Ibali labo limi kwiQuran njengesifundo esichukumisayo malunga nendlela ukuthobela ngokungaboniyo ikratshi okukhokelela ngayo ekutshabalaleni.",
+  "clues": [
+    "Ndakhonza kwiinkundla zomlawuli onamandla owayesithi ndinguthixo phezu kwamazwe.",
+    "Bendinesikhundla esiphezulu njengomfundisi, ndicebisa umlawuli okhohlakeleyo owayenekratshi kwixesha lam.",
+    "Umlawuli wam wayexakeke kakhulu kukuchasa uThixo kaMoses, lowo bala ukumqonda.",
+    "Ndayalelwa ukuba ndakhe inqaba yezitena ezitshiswe ngomlilo ukuze umlawuli wam akwazi ukunyuka aye ezulwini.",
+    "Inqaba ayizange ifikelele esibhakabhakeni, kwaye ukukhotyokiswa kwam likratshi kwandizisela ihlazo elingunaphakade.",
+    "Ndatshabalala kunye nalowo ndandimlandela, igama lam laba sisilumkiso esihlala sihleli nxamnye nabo bavumela oozwilakhe ukuba balawule."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UHaman",
+        "UAzar (uyise ka-Ibrahim)",
+        "UIllyas (umprofeti)",
+        "UDhu al-Kifl",
+        "UHarut (enye yeengelosi ezimbini eBhabhiloni)"
+      ],
+      "answer": "UHaman"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wayalelwa ukuba akhe isakhiwo esiphakamileyo ukuze afikelele emazulwini",
+        "Ucelwa ukuba atolike iphupha elithunyelwe livela kuThixo",
+        "Ukuphoswa emlilweni ovuthayo njengovavanyo lokholo",
+        "Kunyanzelekile ukuba ukhethe phakathi kwetrone nenyaniso",
+        "Ucelwe umngeni kukhuphiswano lobugqwirha"
+      ],
+      "answer": "Wayalelwa ukuba akhe isakhiwo esiphakamileyo ukuze afikelele emazulwini"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Inqaba yezitena ezitshiswe ngomlilo",
+        "Intonga eyaguquka yaba yinyoka",
+        "Inqanawa ehamba phakathi kwesikhukula esikhulu",
+        "Igadi ebiyelwe ngodonga olude",
+        "Itrone ehonjiswe ngeerubhi negolide"
+      ],
+      "answer": "Inqaba yezitena ezitshiswe ngomlilo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Nditshone ecaleni komcinezeli elwandle",
+        "Waba ngukumkani onamandla wamazwe amakhulu",
+        "Ndisinde emlilweni ovuthayo ndingenzakalanga",
+        "Wakha ubukumkani obuchumileyo bobulumko",
+        "Ndadibana kwakhona nosapho emva kweminyaka yokugxothwa"
+      ],
+      "answer": "Nditshone ecaleni komcinezeli elwandle"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

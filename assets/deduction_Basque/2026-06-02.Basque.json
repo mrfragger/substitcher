@@ -1,0 +1,61 @@
+{
+  "title": "Eguzki Jaitsieraren Atearen Zaindaria",
+  "intro": "Koranean zehar, arima batzuek lurra zeharkatzen dute jakinduria eta mirari arrastoak utziz. Pertsonaia horietako batek sorkuntzaren urruneneko puntuetara bidaiatu zuen: eguzkia irteten eta sartzen den lekura, hesi batek kaosa bera eusten duen lekura. Alaren zerbitzari honi inork gehiago inoiz izango ez zuen erreinua eman zitzaion. Hiru bidaia desberdinen bidez, pertsona honen helburua argi geratu zen. Identifika al dezakezu ibiltari mitiko hau historiaren itzalen artean?",
+  "clues": [
+    "Errukitsuenak eman zidan lurra gobernatzeko aginpidea, inork inoiz lortu ez duen moduan.",
+    "Mendebalderantz bidaiatu nuen eguzkia sartzen den lekura iritsi arte, iturburu ilun batean sartzen aurkitu nuen, eta han jende bat ikusi nuen.",
+    "Ekialderantz bidaiatu nuen eguzkia irteten den lekura iritsi arte, eta aurkitu nuen eguzkia ateratzen ari zela babesik eman ez genion herri baten gainean.",
+    "Bi mutur puntu horien artean bidaiatu nuen bi mendiren arteko haran batera iritsi arte, eta han hizkuntza ia ez zekien jendea aurkitu nuen.",
+    "Mendian burdinazko bi hesi gogor aurkitu nituen, eskuinera eta ezkerrera, eta bien artean, pasabide estu bat. Jende hauek eskatu zidaten kaosa geldiarazten zuen hesi hori hausteko.",
+    "Nire hornigaiak hartu eta esan nuen: «Hesia hausten denean, bereizketa garbia izango da gure eta herri honen artean». Eta ordua iritsi zenean, hesia azkenean nola hausten zen ikusi nuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Sulayman profeta",
+        "Ibrahim profeta",
+        "Ghassaniyako erregea.",
+        "Dhul-Qarnain Ibiltaria"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Burdinazko hesia hausten Yajuj eta Majuj-eko jendearentzat",
+        "Profeta baten agindupean itsasontzia eraikitzen",
+        "Jerusalemen tenplu bat eraikitzea",
+        "Itsaso Gorria zeharkatzea sinesmen handiko jendearekin",
+        "Nazio zuzen bat babesteko presa bat eraikitzea"
+      ],
+      "answer": "Burdinazko hesia hausten Yajuj eta Majuj-eko jendearentzat"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Bi mendiren arteko burdinazko hesia",
+        "Itsasontzia mendi batean ainguratu zen",
+        "Jerusalemgo gurtza-etxe sakratua",
+        "Egiptoko lurraldeko ibaia",
+        "Madyanen bedeinkapenen putzua"
+      ],
+      "answer": "Bi mendiren arteko burdinazko hesia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Une egokia iritsi zenean, hesia hautsi zen, eta kaosa zabaldu zen",
+        "Sinesgabeak ito ziren, sinestunak salbatu ziren bitartean",
+        "Zintzoak betiko paradisura gidatu ziren",
+        "Haize oihu batek suntsitu zuen hiria",
+        "Idoloak hautsi ziren eta jendea damutu egin zen"
+      ],
+      "answer": "Une egokia iritsi zenean, hesia hautsi zen, eta kaosa zabaldu zen"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

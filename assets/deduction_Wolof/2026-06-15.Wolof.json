@@ -1,0 +1,61 @@
+{
+  "title": "Nguuru ngelaw ak xal",
+  "intro": "Xalaatal benn nguur bu ngelaw li ci boppam doon tontu benn njiit, fu baatu mbindéef yi gëna ndaw di yor diisaay, ak fu doole yu nit ñi mënul gis ñuy liggéey bu baax. Nit googu dafa jël ndono réew mu amul fenn ci ki ko jiitu ci moom, muy yor doole ci kaw mbindéef yi ak ci kaw jinn yi. Waaye kiliftéef gu mag dafa ànd ak natt yu rëy — te saa yu mujj yi dina ñu wane lu yéeme ci dundu ak dee ci boppam.",
+  "clues": [
+    "Maa ngi donn buur bu mag ci sama waajur bu ma bëgg, nekkoon yonent ak jaamu Yàlla.",
+    "Yàlla moo ma jox kàttan ci ngelaw li, ma yónnee ko tukki bu mat benn weer ci benn suba.",
+    "Ba ci mbindéef yi gëna ndaw dañuy wax ci sama jegesi, ma daan taxaw yéemu ci ni ñu ko xamee.",
+    "Maa ngi jiite larme bu mag bu jinn, nit ak picc, ñoom ñépp ñu raŋ ci sama kanam.",
+    "Benn njiit bu sori ñëw ngir natt ma ak jafe-jafe yu metti, ma wax ñu indil ma jal bu njiit li ci sama kër balaa gan gi di jog ci toogukaay bi.",
+    "Ma taxaw, jéng ci benn yat, ba keroog benn mbindéef bu ndaw ci kaw suuf daal di koy màtt — ci noonu la ñi ma wër xamni jàll naa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Suleymaan (Sulaymaan)",
+        "Dawud (Dawuda)",
+        "Yonent Isa (Jesus)",
+        "Mouhamed صلى الله عليه وسلم",
+        "Yonent bi Musa (Musaa)"
+      ],
+      "answer": "Suleymaan (Sulaymaan)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "indi tron ​​bu reine bu sori ci anam wu yéeme",
+        "Ñu wàcce ko ci buntu bu xóot bimu nekkee xale",
+        "Janoo ak luxuskat yu jaay doole ak màndarga yu yéeme",
+        "Wax ci berso ngir taxawu ngor yaay",
+        "jot mbind mu mujj feeñal ci kaw tundu wu sell"
+      ],
+      "answer": "indi tron ​​bu reine bu sori ci anam wu yéeme"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Benn bant buñu defaree bant bu benn ñay màtt",
+        "Ñu tabax gaal gu mag ngir mucc ci mbënd miy dal àdduna bi yépp",
+        "Baton bu soppiku nekk jaan ci kanamu jaay doole",
+        "Benn piyeesu mbubb bu ñuy jëfandikoo ngir faj gumba",
+        "Grotte bu sell, foofu lañu njëkka jot wahyu"
+      ],
+      "answer": "Benn bant buñu defaree bant bu benn ñay màtt"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Benn njiit bu mag bu ñëw seeti nit ñi dafa gëm ginaaw bimu gisee ay firnde",
+        "Mbënd mu mag yàq na ñépp ludul ñi gëm ci gaal gi",
+        "Benn Firawna ak ay soldaaram dee ci géej gi",
+        "Ñu yéegal wéttal bu jub ci asamaan si",
+        "Buur buy jaay doole ak dëkkam dañu ko daaneel ba noppi yàq ko"
+      ],
+      "answer": "Benn njiit bu mag bu ñëw seeti nit ñi dafa gëm ginaaw bimu gisee ay firnde"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

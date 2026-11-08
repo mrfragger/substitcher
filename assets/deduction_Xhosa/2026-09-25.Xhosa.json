@@ -1,0 +1,61 @@
+{
+  "title": "Idama Elaphula Ubukumkani",
+  "intro": "Ilizwe elinemilambo equkuqelayo, iigadi ezimbini eziluhlaza, kunye nobutyebi obungenakuthelekiswa nanto—kodwa abemi balo abazange bamnanze Lowo wabasikelelayo. Xa izikhumbuzo zifika zibabiza, bajika. Okwalandela yayiluhlwayo olusavakala njengesilumkiso. Yayingoobani olu luntu lwamandulo?",
+  "clues": [
+    "Sasihlala kwilizwe elibusisekileyo kangangokuba ikhaya lethu laliphakathi kweegadi ezimbini eziluhlaza.",
+    "Sasinandipha imilambo equkuqela imihlaba yethu kunye nesivuno esikhulu esizalisa amakhaya ethu.",
+    "Kodwa xa sabizwa ukuba sibulele kwaye sithobele iNkosi yethu, sajika ngekratshi.",
+    "Ubutyebi bethu kunye nokulula kwethu kwasenza samlibala Lowo wasinika konke.",
+    "Emva koko kwafika imvula enkulu ngequbuliso eyagqobhoza umqobo omkhulu esasithembele kuwo.",
+    "Singabantu baseSaba', ilizwe labo lalisaziwa ngeDama elikhulu laseMa'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Abantu baseSaba",
+        "Abantu baseMfuleni",
+        "Amaqabane eQula",
+        "Abantu baseTubba'",
+        "Abantu bakwaMidiyan"
+      ],
+      "answer": "Abantu baseSaba"
+    },
+    "trial": {
+      "label": "Ukuwa Kwethu",
+      "options": [
+        "Izikhukhula ezivela edamini eliqhumayo",
+        "Umoya onamandla ovela esibhakabhakeni",
+        "Ukutsha emseleni womlilo",
+        "Inyikima enkulu",
+        "Ukuntywiliselwa kumkhukula omkhulu"
+      ],
+      "answer": "Izikhukhula ezivela edamini eliqhumayo"
+    },
+    "location": {
+      "label": "Indawo Ebalulekileyo",
+      "options": [
+        "Idama laseMa'rib",
+        "INtaba yeSinayi",
+        "Umqolomba Wabalele Abasixhenxe",
+        "Isihlahla Esitshayo",
+        "Ukuqhekeka Kolwandle"
+      ],
+      "answer": "Idama laseMa'rib"
+    },
+    "outcome": {
+      "label": "Isiphelo Sethu",
+      "options": [
+        "Iigadi ezimbini ezikrakra zathatha indawo yezo zethu ziluhlaza",
+        "Iigadi zethu zikhule zanezityalo ezichumileyo ngakumbi",
+        "Umhlaba watshona phantsi kolwandle",
+        "Sangcwatywa eluthuthwini lwentaba-mlilo",
+        "Isizwe sethu sahlulwe saba zizizwe ezilishumi elinambini"
+      ],
+      "answer": "Iigadi ezimbini ezikrakra zathatha indawo yezo zethu ziluhlaza"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

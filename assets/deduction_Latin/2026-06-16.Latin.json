@@ -1,0 +1,61 @@
+{
+  "title": "Vox Quae Clamavit ad Iustitiam",
+  "intro": "In antiqua terra Madian, ubi commercium floruit et caravanae per vasta deserta iter faciebant, propheta Dei inter populum qui a via iustitiae aberraverat exortus est. Hic servus Dei cum missione divina missus est quae fidem totius communitatis probaret. Per probationes patientiae et perseverantiae, haec anima firmiter stetit in admonitione tradenda quae per historiam resonaret. Potesne mysterium huius constantis nuntii revelare?",
+  "clues": [
+    "Ab Allah electus sum ad populum ducendum qui principia aequitatis et honestatis in negotiis suis oblitus erat.",
+    "Nuntium pronuntiavi, communitatem meam hortans ut nullum nisi Allah coleret et veritatem in omnibus rebus loquerentur.",
+    "Speciatim contra corruptam praxim consumendi divitias per modos illicitos monui et iustorum ponderum ac mensurarum momentum extuli.",
+    "Mei monitis meis cum derisu respondit, minantes me ex terra sua expulsuros esse si nuntium meum pergerem.",
+    "In missione mea, quamvis eorum odium, constanter permansi, affirmans praemium meum apud Deum solum esse.",
+    "Populus meus poena gravissima correptus est, dum ego misericordia Domini mei servatus sum, missione mea completa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Shu'aib",
+        "Propheta Hud",
+        "Propheta Salih",
+        "Propheta Lut",
+        "Propheta Muhammadus (pax)"
+      ],
+      "answer": "Propheta Shu'aib"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Contra populum qui veritatem reiecit et poenam minatus est propter nuntium Dei perlatum.",
+        "Magnum Diluvium spectans, quod infideles gentis delevit",
+        "Revelationem accipiens dum per vallem ignis iter facit",
+        "Tentatio fidei cum princeps oppressivus vocationem ad monotheismum silentium imponere conatus est",
+        "Natio pluviam petens per siccitatem gravem post annos inoboedientiae"
+      ],
+      "answer": "Contra populum qui veritatem reiecit et poenam minatus est propter nuntium Dei perlatum."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Terra Madian, ubi populus meus commercium et negotiationes suas gerebat",
+        "Tabulatum navis magnae quae fideles a diluvio calamitoso servavit",
+        "Spelunca in monte saxoso ubi septem iuvenes refugium a persecutione quaesiverunt",
+        "Sacra urbs Hierosolymae, ubi nocturno itinere ductus sum",
+        "Palatium Sabae ubi magnum regnum se ad signum divinum spectandum parabat"
+      ],
+      "answer": "Terra Madian, ubi populus meus commercium et negotiationes suas gerebat"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populus meus poena gravissima comprehensus est dum ego servatus sum, quia officium meum erga Deum expleveram.",
+        "Increduli in simias conversi sunt, cum sacra Dei fines violarent.",
+        "Inimici mei fidem amplexi sunt postquam transformationem mirabilem viderunt.",
+        "Terra pluvia copiosa et prosperitate benedicta est postquam populus paenitentiam egit.",
+        "A meis ipsis martyrium passus sum quod munus meum deserere recusavi."
+      ],
+      "answer": "Populus meus poena gravissima comprehensus est dum ego servatus sum, quia officium meum erga Deum expleveram."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

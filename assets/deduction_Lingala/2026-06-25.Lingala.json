@@ -1,0 +1,61 @@
+{
+  "title": "Bayoki oyo bawutaka na Biloko oyo emonanaka te",
+  "intro": "Na ngambo mosusu ya elamba ya mokili oyo ezalaki komonana, liyangani moko ebombamaki esanganaki na molili, ebendamaki na lokito oyo ezalaki koboya nyonso oyo bayebaki. Bayengayenga mpo na bambula kozanga bokambi ya solo, kino mongongo moko etɔbɔlaki na kati ya kimia ya bokonzi na bango oyo emonanaki te mpe eningisaki eloko moko na mozindo na kati. Na mpokwa ya lelo, babengisami mpo na koleka bilili mpe kobimisa bomoto ya etuluku oyo ya libombami, oyo bokutani na bango na maloba ya bonzambe ememaki bango lisusu epai ya bato na bango lokola bakebisi ya bosolo oyo ekokaki kopekisa te.",
+  "clues": [
+    "Tozali bikelamu ya kala, tozalaki kala liboso ya bikolo mingi oyo botangi, nzokande balobelaka biso mingi te na masapo ya bato.",
+    "Bozali na biso ekeseni na oyo ya bino, esalemi na biloko ya biloko oyo emonanaka te, mpe tozali na nguya oyo ezali koboya oyo ya momesano.",
+    "Na boumeli ya bambula mingi, tozalaki kotambolatambola kozanga litambwisi ya solo, kino lokito moko ekómaki epai na biso oyo ezalaki koningisa eloko moko na kati.",
+    "Toyokaki bozongeli lokola eloko moko te oyo toyokaki naino te, maloba oyo ememaki kilo koleka elobeli nyonso.",
+    "Tofinaki penepene na kobombana, kotindáká oyo ya biso moko ete tófanda nyɛɛ, mpe ntango bavɛrsɛ esukaki, tokokaki te kotikala nyɛɛ.",
+    "Tozongaki epai ya bato na biso mpe tosakolaki ete: ‘Ee bato na biso, toyoki Buku moko oyo emonisami nsima ya Mose, oyo ezali kondimisa oyo ezalaki liboso na yango, oyo ezali kotambwisa yango na bosolo.’"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Ba Hawariyyun (Bayekoli ya Isa) .",
+        "Ba Jinn oyo bandimaki sima ya koyoka Coran",
+        "Ba Compagnons ya Libulu",
+        "Baanzelu ya lola oyo eleki nse",
+        "Bato ya Farao oyo balandaki nzela na ye"
+      ],
+      "answer": "Ba Jinn oyo bandimaki sima ya koyoka Coran"
+    },
+    "trial": {
+      "label": "Momekano / Likambo",
+      "options": [
+        "Tobwakama libanda mpo na koboya kofukama liboso ya ekelamu oyo ekelamaki sika",
+        "Bakangaki biso na kati ya libulu na boumeli ya mbula nkama misato na libwa",
+        "Bapesaki biso mitindo ete tókatisa mbu oyo ekabwanaki liboso na biso",
+        "Batindaki biso na mokili ya maji mpo na koyekola misala ya ndɔki",
+        "Toyokaki récitation moko na kobombana mpe tobongwanaki na yango"
+      ],
+      "answer": "Toyokaki récitation moko na kobombana mpe tobongwanaki na yango"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mwana ya ngɔmbɛ ya wolo oyo esalemi na biloko ya kokembisa ya bato moko",
+        "Libulu oyo kati na yango mpɔngi eumelaki bankola mingi",
+        "Baanzelu mibale na Babilone oyo bateyaki boyebi oyo epekisami",
+        "Buku moko oyo ebimaki nsima ya Moize, oyo endimisi Torah",
+        "Nzete moko oyo ezali kozika likoló ya ngomba mosantu"
+      ],
+      "answer": "Buku moko oyo ebimaki nsima ya Moize, oyo endimisi Torah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Tolakelamaki mabe tii na Mokolo ya Kosambisama",
+        "Totelemaki na mokonzi moko ya nguya mpe totongaki epekiseli na mokili",
+        "Tobongwanaki na banyoka mpe ngulu",
+        "Tozongaki epai ya bato na biso lokola bakebisi, kosakolaka bondimi",
+        "Tozindaki na mbu pembeni ya mokambi na biso"
+      ],
+      "answer": "Tozongaki epai ya bato na biso lokola bakebisi, kosakolaka bondimi"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

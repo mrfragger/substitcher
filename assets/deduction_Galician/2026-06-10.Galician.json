@@ -1,0 +1,61 @@
+{
+  "title": "Os gardiáns do xardín",
+  "intro": "Nun exuberante xardín, unha comunidade fixo un voto solemne. Pero a súa resolución púxose a proba cando interveu a vontade divina, transformando a súa abundancia nunha terra estéril.",
+  "clues": [
+    "Fomos bendicidos cun xardín xeneroso, pero volvémonos arrogantes.",
+    "Fixemos un plan para colleitar sen compartir cos pobres.",
+    "Partimos cedo pola mañá, confiados no noso plan.",
+    "Pero cando chegamos, atopamos que o noso xardín fora destruído durante a noite.",
+    "Démonos conta do noso erro e comezamos a culparnos mutuamente.",
+    "Finalmente arrepentímonos, pero a lección aprendeuse demasiado tarde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Xente do Xardín",
+        "Xente da Cova",
+        "Xente do elefante",
+        "Xente de Thamud",
+        "Xente de 'Ad"
+      ],
+      "answer": "Xente do Xardín"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Un xardín convertido en cinzas",
+        "Unha inundación que o destruíu todo",
+        "Unha fame que azoutou a terra",
+        "Un exército de paxaros atacando",
+        "Un forte vento que arrincou as árbores de raíz"
+      ],
+      "answer": "Un xardín convertido en cinzas"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un xardín",
+        "Unha cova",
+        "Un barco",
+        "Unha montaña",
+        "Un palacio"
+      ],
+      "answer": "Un xardín"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Arrepentíronse pero perderon o seu xardín",
+        "Foron destruídos por completo",
+        "Foron convertidos en simios",
+        "Foron salvados pola fe",
+        "Converteronse en gobernantes"
+      ],
+      "answer": "Arrepentíronse pero perderon o seu xardín"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

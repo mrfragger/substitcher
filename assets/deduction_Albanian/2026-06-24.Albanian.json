@@ -1,0 +1,61 @@
+{
+  "title": "Rojtari i Flakës së Pashueshme",
+  "intro": "Një figurë qëndron në pragun e vendit më të frikshëm në të padukshmen, e ngarkuar me një detyrë që asnjë qenie tjetër nuk e dëshiron. Kur shpirtrat që vuajnë kërkojnë mëshirë, një përgjigje e ashpër jehon nëpër dhomat e zjarrit. A mund ta zbuloni identitetin e këtij rojtari të përjetshëm?",
+  "clues": [
+    "Unë qëndroj në hyrje të një vendi të tmerrshëm ndëshkimi në të padukshmen.",
+    "Një zjarr i flaktë dhe i pashueshëm është pjesa qendrore e detyrës sime solemne.",
+    "Shpirtrat që vuajnë thërrasin emrin tim, duke u lutur për lehtësim nga mundimi i tyre i pafund.",
+    "Kur ata më luten, unë deklaroj se nuk do të largohen, kurrë.",
+    "Unë nuk jam njeri, as xhin — unë jam një qenie e krijuar me bindje të pastër.",
+    "Unë jam engjëlli kryesor i caktuar si rojtar i përjetshëm i Zjarrit të Xhehenemit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Malik",
+        "Xhibrili",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Banorët e Xhehenemit luten që të mbarojë mundimi i tyre",
+        "I bie trombës për të sinjalizuar Ditën e Gjykimit",
+        "Kurani i është shpallur zemrës së Profetit",
+        "Një profet hidhet në një zjarr të madh nga populli i tij",
+        "Një mur i fuqishëm është ndërtuar për të përmbajtur një komb të korruptuar"
+      ],
+      "answer": "Banorët e Xhehenemit luten që të mbarojë mundimi i tyre"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Xhehenemi (Ferri)",
+        "Pema e Lotit në kufirin e Parajsës",
+        "Një trombë shpuese",
+        "Një shkop që shndërrohet në gjarpër",
+        "Një fron hyjnor madhështor"
+      ],
+      "answer": "Xhehenemi (Ferri)"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Banorëve të Xhehenemit u thuhet se do të qëndrojnë përjetësisht",
+        "Banorët e Xhehenemit falen dhe lirohen",
+        "Banorëve të Ferrit u jepet një shans i dytë për besim",
+        "Banorët e Xhehenemit zhvendosen në një vend të freskët",
+        "Banorët e Xhehenemit shkatërrohen plotësisht nga një rrufe"
+      ],
+      "answer": "Banorëve të Xhehenemit u thuhet se do të qëndrojnë përjetësisht"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

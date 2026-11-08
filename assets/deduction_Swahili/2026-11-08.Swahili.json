@@ -1,0 +1,61 @@
+{
+  "title": "muungano ulioalika uharibifu",
+  "intro": "Hebu fikiria umejificha chini ya paa moja na ufunuo, lakini ukichagua uaminifu tofauti. Mtu huyu aliishi karibu sana na ukweli na unabii, lakini akawageukia wale walioukataa. Hadithi yao inasimama kama onyo kali kwamba ukaribu na haki pekee hauwezi kuokoa roho inayosaliti uaminifu.",
+  "clues": [
+    "Niliishi katika nyumba ya nabii aliyechaguliwa na Mwenyezi Mungu.",
+    "Nilijua ukweli ambao mume wangu alihubiri, lakini sikuuamini kikweli.",
+    "Nilisaliti uaminifu wake kwa kuwaunga mkono watu wake wanaomkataa na kuwasaidia dhidi yake.",
+    "Nimetajwa pamoja na mwenzi wa nabii mwingine ambaye pia alisaliti, kama mfano kwa wasioamini.",
+    "Hadithi yangu imesimuliwa katika Surah At-Tahrim kama onyo kwamba uhusiano wa kindugu na manabii hautoi ulinzi.",
+    "Niliangamia pamoja na madhalimu Mwenyezi Mungu alipowaangamiza watu wa Lut, na kubaki nyuma pamoja na waliobaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mke wa Nabii Lut",
+        "Asia, Mke wa Farao",
+        "Mke wa Imran",
+        "Sara, Mke wa Nabii Ibrahim",
+        "Mke wa Al-Aziz"
+      ],
+      "answer": "Mke wa Nabii Lut"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alimsaliti nabii kwa kuwasaidia makafiri dhidi yake",
+        "Mtupe mtoto mchanga mtoni akiwa ndani ya kikapu ili kumwokoa",
+        "Alidai ndama wa dhahabu ajengwe wakati nabii hayupo",
+        "Alimshtaki waziri mwadilifu kwa makosa na kumfunga gerezani",
+        "Aliongoza jeshi la tembo kuiangamiza Kaaba"
+      ],
+      "answer": "Alimsaliti nabii kwa kuwasaidia makafiri dhidi yake"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Miji iliyopinduliwa ya watu wa Lut",
+        "Sanduku la Agano Lilijengwa kwa Amri ya Mungu",
+        "Moto ulimfanya Ibrahim apoe",
+        "Pango la kukimbilia kwa vijana waliolala",
+        "Mto ambapo kikapu cha mtoto mchanga kilipatikana"
+      ],
+      "answer": "Miji iliyopinduliwa ya watu wa Lut"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aliangamia pamoja na makafiri licha ya kuolewa na nabii",
+        "Aliokolewa pamoja na waumini na akaingia Peponi kwa amani",
+        "Iligeuzwa kuwa nguzo kama ishara kwa vizazi vijavyo",
+        "Alimezwa na dunia kwa hazina kubwa",
+        "Alipewa mtoto wa miujiza katika uzee"
+      ],
+      "answer": "Aliangamia pamoja na makafiri licha ya kuolewa na nabii"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

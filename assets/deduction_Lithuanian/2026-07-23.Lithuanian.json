@@ -1,0 +1,61 @@
+{
+  "title": "Armija, kurią pasitiko skraidantis molis",
+  "intro": "Prieš pranašą Mahometą galingas Jemeno valdovas pradėjo karinę kampaniją, kurios tikslas buvo sunaikinti šventą šventyklą Mekoje. Šis priešas vedė didžiulę armiją, kurioje buvo ir karo dramblių, pasitikėdamas savo jėga ir skaičiumi. Tačiau jų kelionė staiga nutrūko, kai jie susidūrė su netikėtu dievišku įsikišimu. Ar galite atpažinti, kas susidūrė su šia nepaprasta atpildo verte?",
+  "clues": [
+    "Su didžiule armija ir galingais karo drambliais žygiavome link šventųjų namų",
+    "Mes ketinome išrauti ir sunaikinti Gailestingiausiojo tarnų pastatytą garbinimo vietą",
+    "Prieš mus buvo pasiųstas pulkas mažų paukščių, nešančių molio akmenis snapuose ir naguose",
+    "Mus pasitiko garsas, kuris mėtė ant mūsų akmenis, paversdamas mus sutryptais likučiais",
+    "Aš buvau kilęs iš Jemeno žemės ir tarnavau valdovui, kuris siekė apginti šventąją šventovę",
+    "Buvome pavyzdžiu tiems, kurie išdrįso atmesti Alacho šventovę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Abraha al-Ašramo armija",
+        "Etiopijos pajėgos",
+        "Persų užkariautojai",
+        "Romos legionai",
+        "Beduinų plėšikai"
+      ],
+      "answer": "Abraha al-Ašramo armija"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Dykumos tvirtovės apgultis",
+        "Įsiveržimas į šventąją šventovę Mekoje",
+        "Jūrų mūšis jūroje",
+        "Maištas prieš tironą karalių",
+        "Dingusio pranašo paieškos"
+      ],
+      "answer": "Įsiveržimas į šventąją šventovę Mekoje"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Minos slėnis netoli Mekos",
+        "Sanos rūmai Jemene",
+        "Tihamos kalnai",
+        "Senovės Jeruzalės miestas",
+        "Raudonosios jūros pakrantės"
+      ],
+      "answer": "Minos slėnis netoli Mekos"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Šventojo namo pergalė ir sunaikinimas",
+        "Nugalėk paukščius, nešinančius molio akmenis",
+        "Taikus pasidavimas ir atsivertimas",
+        "Badas ir stichinė nelaimė",
+        "Atsitraukimas dėl smarkaus lietaus"
+      ],
+      "answer": "Nugalėk paukščius, nešinančius molio akmenis"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

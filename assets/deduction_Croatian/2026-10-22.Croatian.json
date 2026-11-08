@@ -1,0 +1,61 @@
+{
+  "title": "Zajednica prvog prijestupa",
+  "intro": "U zemlji drevnih gradova, nekoć je cvjetao narod. Posjetio ih je glasnik s jasnim pozivom, ali su se okrenuli i krenuli putem kojim nitko nikada nije hodao. Njihova priča je priča o prkosu, izopačenosti i kazni koja je ostavila njihovu domovinu kao znak svima koji razmišljaju. Tko su te duše?",
+  "clues": [
+    "Živjeli smo u gradovima ravnice, gdje nas je naš prorok pozivao na pravednost.",
+    "Bili smo prvi koji su počinili nepristojnost kakvu nitko na svim svjetovima nikada prije nije učinio.",
+    "Presreli smo putnike i otvoreno činili zlo na svojim okupljanjima.",
+    "Odbacili smo poslanika koji nam je poslan i zaprijetili da ćemo ga protjerati iz naše zemlje.",
+    "Pojurili smo do njegove kuće zahtijevajući da nam preda svoje goste.",
+    "Naša kazna bila je kiša kamenja, a naš grad je bio prevrnut naglavačke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko smo mi?",
+      "options": [
+        "Ljudi Luta",
+        "Nuhov narod",
+        "Ljudi iz 'Ad",
+        "Ljudi iz Semuda",
+        "Ljudi iz Madyana"
+      ],
+      "answer": "Ljudi Luta"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Počinio prvi čin sodomije",
+        "Štovani idoli",
+        "Prevaren u trgovini",
+        "Ubili su svog proroka",
+        "Nisu poslušali roditelje"
+      ],
+      "answer": "Počinio prvi čin sodomije"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Grad ravnice",
+        "Grad bunara",
+        "Grad jarka",
+        "Grad slona",
+        "Grad vrta"
+      ],
+      "answer": "Grad ravnice"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Zasuto kamenjem i prevrnuto",
+        "Utopljen u poplavi",
+        "Uništeno snažnim vjetrom",
+        "Progutala zemlja",
+        "Pogođen snažnom eksplozijom"
+      ],
+      "answer": "Zasuto kamenjem i prevrnuto"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

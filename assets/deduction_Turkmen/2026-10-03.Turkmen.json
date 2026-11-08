@@ -1,0 +1,61 @@
+{
+  "title": "Ýalpyldawuk Derwezäniň Öňündäki Gözegçilik",
+  "intro": "Sessiz, güýçli köpçülik gorkunç bosagada durup, hiç haçan iýmit, içgi ýa-da dynç almaýarlar. Ynsan palçygyna meňzemeýän maddadan ýasalan olar ýekeje gorkunç maksada garaşýarlar we Rebleriniň bir buýrugyna-da asla boýun egmeýärler.",
+  "clues": [
+    "Biz adamlardan tapawutlylykda, iýmeýän, içmeýän ýa-da ýadamaýan maddadan ýaradylan jandarlar.",
+    "Biziň anyk sanymyz Kitapda belli we aýan edilen — biz sansyz-sajaksyz hem däl, köpçülik hem däl.",
+    "Biz hiç haçan Ýaradyjymyza garşy çykmadyk we buýruk berilmezden öň hiç haçan geplemeýäris.",
+    "Kyýamat güni gelende, kapyrlar topar-topar bolup bize kowular we biz olaryň üçin derwezeleri açarys.",
+    "Biz olardan: \"Size öz milletiňizden bu gün barada duýduryş berýän pygamberler gelmedimi?\" diýip sorarys.",
+    "Biz hiç bir jan çykmajak ýeri — ebedi jezanyň ýanýan meýdanyny goraýarys."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Dowzahyň sakçylary (Zebaniýa)",
+        "Allanyň tagtyny göterijiler",
+        "Angelsazga alýan perişdeler (Kiraman Katibin)",
+        "Ölüm Perişdeleri",
+        "Jennetiň derwezebanlary"
+      ],
+      "answer": "Dowzahyň sakçylary (Zebaniýa)"
+    },
+    "trial": {
+      "label": "Esasy borjumyz",
+      "options": [
+        "Dowzahyň derwezelerini goramak",
+        "Ynsanlaryň her bir işini hasaba almak",
+        "Allanyň tagtyny götermek",
+        "Merhumlaryň janyny almak",
+        "Ýellere we bulutlara buýruk bermek"
+      ],
+      "answer": "Dowzahyň derwezelerini goramak"
+    },
+    "location": {
+      "label": "Biz nämeleri goraýarys?",
+      "options": [
+        "Dowzah ody",
+        "Allanyň tagty",
+        "Amallaryň kitapçalary",
+        "Jennet derýalary",
+        "Ýeriň daglary"
+      ],
+      "answer": "Dowzah ody"
+    },
+    "outcome": {
+      "label": "Biziň çäkimizdäkileriň ykbaly",
+      "options": [
+        "Olar ebedi galarlar we hiç haçan gitmezler",
+        "Olar ahyrsoňy günäkärlenip, boşadylar",
+        "Olar wagtyň geçmegi bilen arassalanar",
+        "Olar başga görnüşlere öwrüler",
+        "Olar dowzah bilen jennetiň arasynda çalşyp durarlar"
+      ],
+      "answer": "Olar ebedi galarlar we hiç haçan gitmezler"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

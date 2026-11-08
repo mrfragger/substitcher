@@ -1,0 +1,61 @@
+{
+  "title": "Pərdəli Sui-qəsdçi",
+  "intro": "Özünüzü vəhy dövründən qalma güclü bir şəxsiyyətin hüzurunda tapırsınız. Bu şəxs zəkası, sərvəti və xalqı arasında mövqeyi ilə tanınırdı. Aydın əlamətlər gələndə onlar gözəlliyi tanıdılar, lakin təslim olmaq əvəzinə itaətsizliyi seçdilər. Bu ruhu qaranlıqda hiylə qurmağa nə vadar etdi və onların son aqibəti necə oldu?",
+  "clues": [
+    "Mən bol resurslara və nüfuza malik idim, bu da sözümü yığıncaqlarda ağırlaşdırırdı.",
+    "İlahi kəlamlar oxunanda onların fəsahətini inkar edə bilmirdim, amma qürurum mənə təslim olmağa imkan vermirdi.",
+    "Məsləhətçilərimi toplayıb, mesajı etibarsız hala salmağın yolunu düşünmək üçün özümü təcrid etdim.",
+    "Çox düşündükdən sonra, insanları yoldan döndərmək üçün bunu yalnız \"keçmişdən miras qalan sehr\" adlandırdım.",
+    "Vəhy mənə birbaşa müraciət etdi: “Məni yaratdığımla tək burax”. Mən hiyləgərliyimə görə seçildim.",
+    "Tezliklə xəbərdar edildiyim yanğın məni alnından tutacaq və qaçış yolum olmayacaq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əl-Valid ibn əl-Muğira",
+        "Əbu Ləhəb",
+        "Əbu Cəhil",
+        "Uqbə ibn Əbi Muayt",
+        "Əl-Nədr ibn əl-Haris"
+      ],
+      "answer": "Əl-Valid ibn əl-Muğira"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Peyğəmbərə sui-qəsd hazırlamaq üçün sui-qəsd",
+        "Müsəlmanlara qarşı boykot elan etdi",
+        "Quranı sehr kimi tanıtmaq üçün bir şura topladı",
+        "Peyğəmbəri Məkkədən qovmaq üçün sui-qəsd planı",
+        "Var-dövlətini yetimlərlə bölüşməkdən imtina etdi"
+      ],
+      "answer": "Quranı sehr kimi tanıtmaq üçün bir şura topladı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Vəhy",
+        "Şura",
+        "Alın Saçı",
+        "Sərvət",
+        "Qələm"
+      ],
+      "answer": "Alın Saçı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "O, tövbə etdi və İslamı qəbul etdi",
+        "O, Həbəşistana köç etdi",
+        "O, ölümcül bir xəstəliyə tutuldu",
+        "O, müsəlmanlarla döyüşdə şəhid olub",
+        "O, cəhənnəm atəşinə məhkum edildi"
+      ],
+      "answer": "O, cəhənnəm atəşinə məhkum edildi"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Baland ustunlarni quruvchilar",
+  "intro": "Siz ulug'vor qadimiy shahar xarobalari oldida turibsiz, uning baland ustunlari endi qulab tushdi. Shamol bo'sh ko'chalarda uvillab, bir vaqtlar bu yerlarni boshqargan qudratli xalqning xotirasini ko'tarib yuradi. Ular kim edi?",
+  "clues": [
+    "Biz ulkan kuch va mahoratga ega, buyuk binolarimiz va rivojlangan tsivilizatsiyamiz bilan mashhur bo'lgan xalq edik.",
+    "Biz qum tepaliklari va qoyali tepaliklar mamlakatida yashardik va hech kim bizni yengib o'tolmasligiga ishonardik.",
+    "Bizga o'z qarindoshlarimizdan bir payg'ambar kelib, bizni yolg'iz Allohga ibodat qilishga chaqirdi, ammo biz uni rad etib, masxara qildik.",
+    "Biz: “Bizdan kuchliroq kim bor?” deb maqtandik va takabburligimiz va butparastligimizda davom etdik.",
+    "Alloh bizga yetti kecha va sakkiz kunduz davomida esib, hamma narsani vayron qilgan kuchli shamol yubordi.",
+    "Biz Od qavmi, Iramni qurganlar edik va taqdirimiz keyingilar uchun ogohlantirishga aylandi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Ad qavmi",
+        "Samud qavmi",
+        "Madyan xalqi",
+        "Tubba qavmi",
+        "Ar-Rass aholisi"
+      ],
+      "answer": "Ad qavmi"
+    },
+    "trial": {
+      "label": "Ularga qanday jazo yuborildi?",
+      "options": [
+        "Vayronkor shamol",
+        "Toshlar yomg'iri",
+        "Baland portlash",
+        "To'fon tufayli cho'kish",
+        "Yer tomonidan yutib yuborilgan"
+      ],
+      "answer": "Vayronkor shamol"
+    },
+    "location": {
+      "label": "Ularning afsonaviy shahrining nomi nima?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midiyan",
+        "Bobil",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Ularning oxirgi taqdiri qanday bo'ldi?",
+      "options": [
+        "Ular yo'q qilindi va qoldiqlari saboq bo'ldi",
+        "Ular tavba qilishdi va najot topishdi",
+        "Ular maymunlarga aylantirildi",
+        "Ular dengizda cho'kib ketishdi",
+        "Ular ko'chki ostida ko'milgan"
+      ],
+      "answer": "Ular yo'q qilindi va qoldiqlari saboq bo'ldi"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

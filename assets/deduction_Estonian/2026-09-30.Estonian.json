@@ -1,0 +1,61 @@
+{
+  "title": "Patsient Üks",
+  "intro": "Kaua aega tagasi, inimkonna ajaloo algusaegadel, seisid kaks hinge oma Looja ees ohvriandidega. Üks võeti vastu, teine ​​mitte. Sellest, mis järgnes, sai esimene suur tragöödia õdede-vendade vahel - üks kannatliku enesekontrolli akt ja üks kibeda kättemaksu akt. Kas sa suudad paljastada, kes ma olen?",
+  "clues": [
+    "Ma sündisin inimkonna esimestel päevadel Maal",
+    "Ma olin esimese inimpaari laps, kes kunagi siin maa peal kõndis",
+    "Kord ohverdasin oma Looja meeleheaks oma karja parimatest loomadest",
+    "Minu pakkumine võeti ülalt vastu, samas kui mu õe-venna pakkumine lükati tagasi",
+    "Kui mind surmaga ähvardati, otsustasin ma mitte oma õe-venna vastu kätt tõsta",
+    "Minust sai esimene inimene kogu inimkonna ajaloos, kelle keegi teine ​​​​vääralt tappis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Habil (Aabel), Aadama poeg",
+        "Qabil (Kain), Aadama poeg",
+        "Aadam, esimene inimene",
+        "Nuh (Noa)",
+        "Ibrahim (Aabraham)"
+      ],
+      "answer": "Habil (Aabel), Aadama poeg"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Esimene mõrv inimkonna ajaloos",
+        "Nuhi suur üleujutus",
+        "Fir'awni armee hävitamine",
+        "Ismaili ohverdamine Ibrahimi poolt",
+        "Lahing Jaluti (Koljat) vastu"
+      ],
+      "answer": "Esimene mõrv inimkonna ajaloos"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Meeldivaks ohvriks toodud lammas",
+        "Suur puust laev",
+        "Personali, mis muutus maoks",
+        "Kuninglikku sõnumit kandev hoopoe-lind",
+        "Lõõmav tulekraav"
+      ],
+      "answer": "Meeldivaks ohvriks toodud lammas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai inimkonna ajaloo esimeseks mõrvaohvriks",
+        "Elas üle suure üleujutuse puust aluse sees",
+        "Elas suure kala kõhus",
+        "Valitses džinnide, inimeste ja tuule üle",
+        "Rändas nelikümmend aastat avaras kõnnumaal"
+      ],
+      "answer": "Sai inimkonna ajaloo esimeseks mõrvaohvriks"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

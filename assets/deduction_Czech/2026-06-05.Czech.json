@@ -1,0 +1,61 @@
+{
+  "title": "Pokorní hledači pravdy",
+  "intro": "V zemi prastaré moci a čarodějnictví se odehrává velká konfrontace. Jedna strana se uchýlí k autoritě božských znamení, zatímco druhá se snaží dosáhnout nemožného. Výsledek navždy změní běh dějin. Dokážete odhalit identitu těch, kteří byli svědky konečné pravdy a pokořili se před ní?",
+  "clues": [
+    "Byli jsme svědky znamení, která šla za hranice čarodějnických triků",
+    "Všichni jsme padli na zem, neschopni popřít pravdu",
+    "Rozpoznali jsme, že tato znamení pocházejí od Jediného Pravého Boha",
+    "Byli jsme první komunitou, která přijala víru tak dramatickým způsobem",
+    "Byl nám slíben ráj jako odměna za naši víru",
+    "Naše provazy a hole se před našima očima proměnily v hady, přesto jsme si zvolili podřízenost"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Faraonovi kouzelníci",
+        "Lidé proroka Ibráhíma",
+        "Pokorní hledači pravdy",
+        "Lidé z jeskyně",
+        "Národ královny Bilqis"
+      ],
+      "answer": "Faraonovi kouzelníci"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Setkání s holí proroka Músy",
+        "Zkouška větru proroka Huda",
+        "Výzva velbloudice proroka Sáliha",
+        "Velká potopa seslaná na proroka",
+        "Cesta proroka uvnitř velryby"
+      ],
+      "answer": "Setkání s holí proroka Músy"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Starověký Egypt",
+        "Posvátný dům v Mekce",
+        "Město Midianské",
+        "Poušť Thámud",
+        "Jeskyně starověkých spáčů"
+      ],
+      "answer": "Starověký Egypt"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Ráj jako jejich odměna",
+        "Trest v hrobě",
+        "Ztráta jejich hojných zahrad",
+        "Zničení náhlým zemětřesením",
+        "Záchrana před velkou velrybou"
+      ],
+      "answer": "Ráj jako jejich odměna"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

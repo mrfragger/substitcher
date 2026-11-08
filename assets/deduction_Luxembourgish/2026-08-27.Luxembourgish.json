@@ -1,0 +1,61 @@
+{
+  "title": "Déi artikuléiert Ausgewielt",
+  "intro": "Am Schiet vun engem Bierg, wou göttlech Wierder erofkoumen, huet de Glawe vun engem Vollek ënnert dem Glanz vu Gold gewackelt. Eng Séil, mat Eloquenz begabt, stoung als Ënnerstëtzung fir eng méi grouss Missioun, awer huet sech engem Moment vun déiwer Prüfung erwisen. Wéi de gewielte Messenger op eng helleg Rendez-vous eropgaangen ass, ass dës Figur zréck bliwwen a bei eng onroueg Natioun gebiet. Wien ass dës standhaft Séil, där hir Stëmm sech géint Gëtzendéngscht erhuewen huet?",
+  "clues": [
+    "Ech gouf vun Allah als Prophet erausgesicht, obwuel meng Geschicht dacks niewent enger anerer erzielt gëtt.",
+    "Ech gouf bei en Tyrannenherrscher geschéckt, awer meng Roll war et ze ënnerstëtzen, net ze féieren.",
+    "Ech war mat Eloquenz begabt, a meng Wierder sollten d'Häerzer mëllen.",
+    "Wéi mäi Begleeder fir eng helleg Rendez-vous fortgaangen ass, gouf ech verlooss fir e onrouegt Vollek ze leeden.",
+    "An hirer Ongedold hunn si e Bild aus hiren Ornamenter geschmied, an ech hunn si gebiet, Allah trei ze bleiwen.",
+    "Mäi Begleeder ass zréckkomm a huet mech gegraff, mee ech hunn erkläert, datt d'Leit mech iwwerwältegt hunn a mech bal ëmbruecht hunn; ech war net zu de Schlechten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Harun",
+        "Prophet Isa",
+        "De Prophet Yahya",
+        "De Prophet Zakariya"
+      ],
+      "answer": "Prophet Harun"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "An e Feier gehäit ginn",
+        "An e Brunn gehäit ginn",
+        "Konfrontatioun mam gëllene Kalb-Tëschefall",
+        "Den Test vun enger schwéierer Krankheet",
+        "Den Test vum Verloscht vu Räichtum a Kanner"
+      ],
+      "answer": "Konfrontatioun mam gëllene Kalb-Tëschefall"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Dat gëllent Kalb",
+        "D'Personal",
+        "D'Ark vum Bund",
+        "D'Tabletten",
+        "De brennende Busch"
+      ],
+      "answer": "Dat gëllent Kalb"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Schwéier bestrooft",
+        "Verzeien an entlaascht",
+        "E Kinnek gemaach",
+        "An den Himmel geholl",
+        "Eng nei Schrëft ginn"
+      ],
+      "answer": "Verzeien an entlaascht"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

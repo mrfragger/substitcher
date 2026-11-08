@@ -1,0 +1,61 @@
+{
+  "title": "Bir zumda sayohat qilgan taxt",
+  "intro": "Cheksiz boylikka ega bo'lgan boy qirollik ustidan ulkan hokimiyatga ega shaxs hukmronlik qilgan. Kutilmagan qiyinchilik tug'ilganda, bu hukmdor qilich emas, balki donolik va imon sinoviga duch keldi. Bu voqealar dunyoviy kuch cho'qqisidan qalbning chuqur o'zgarishiga olib keldi.",
+  "clues": [
+    "Men tasavvurdan tashqari boylik va farovonlikka to'la shohlik ustidan hukmronlik qildim",
+    "Men bo'ysunishni talab qiluvchi dadil xat olgan kuchli monarx edim",
+    "Zodagonlarim menga bu uzoqdagi shoh bilan jang qilish yoki yarashish haqida maslahat berishdi.",
+    "Men bu uzoq shohni o'zim kutib olish uchun ajoyib sovg'alar bilan yo'lga chiqdim",
+    "Men qaytib kelishimdan oldin, ko'z ochib yumguncha, mening shohona taxtim uzoq yurtga olib kelindi.",
+    "Shishadek silliq poli bo'lgan saroyga kirganimda, nihoyat Allohga bo'ysunishimni e'lon qildim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Bilqis, Sheba malikasi",
+        "Fir'avnning xotini",
+        "Al-Azizning xotini",
+        "Maryam, Imronning qizi",
+        "Lut payg'ambarning xotini"
+      ],
+      "answer": "Bilqis, Sheba malikasi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Bo'ysunishni talab qiluvchi qalin xatni olish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Katta baliq tomonidan yutib yuborilmoqda",
+        "Uzoq yillar davom etgan og'riqli kasallik",
+        "To'fon natijasida bir xalqning vayron bo'lishiga guvoh bo'lish"
+      ],
+      "answer": "Bo'ysunishni talab qiluvchi qalin xatni olish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin va qimmatbaho toshlardan yasalgan ulug'vor shohona taxt",
+        "Dengizni ikkiga bo'lib tashlagan tayoq",
+        "Tog'da qotib qolgan kema",
+        "Makkadagi muqaddas ibodatxona",
+        "Xalq sig'inadigan oltin buzoq"
+      ],
+      "answer": "Oltin va qimmatbaho toshlardan yasalgan ulug'vor shohona taxt"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Payg'ambar bilan birga Allohga itoat qilish",
+        "Dushmanni ta'qib qilib, dengizda cho'kib ketish",
+        "Mo''jizaviy tarzda yonayotgan olovdan qutqarildi",
+        "Abadiy saodat bog'idan surgun",
+        "Ulkan kuch shohligini qabul qilish"
+      ],
+      "answer": "Payg'ambar bilan birga Allohga itoat qilish"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

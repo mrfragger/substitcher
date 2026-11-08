@@ -1,0 +1,61 @@
+{
+  "title": "xal yi nekk ci biir palaasu tiitar",
+  "intro": "Biñu demee ba ci ginaaw miir yu mag yi ci palaas bi gëna am doole ci àdduna bi, amoon na nit ku dëkkoon ku am kumpa bu kenn mënul tëj ci xolam. Bi ñuy sëggal yàlla yu baaxul yi, ruuh gi dafa wéy di tàkk ci biir ngëm gu dal. Njiitu réew ma dafa gëmoon ni boroomam la, waaye nit ki dafa tànn dëgg moo gën jàmm, ak jaamu Yàlla moo gën kaaraange. Tay, sa wareef mooy nga xam kan mooy ruuh bu jambaar bi, te jaar-jaaram mingi wéy di nekk benn ci misaal yi gëna am doole ci ngëm gu dëgër.",
+  "clues": [
+    "Maa ngi dëkkoon ci barab bu bari alal ak ndam lu amul fenn, di barab bu kilifag réew mi yor kàttan gu mat sëkk ci kaw lépp.",
+    "Bi ñi ma wër di jaamu yàlla yu baaxul yi, maa ngi denc leeralu ngëm bu dal ci sama xol.",
+    "Ma gis xale bu góor bu ñu indil ma ci anam wu amul fenn, ma adopte ko, judduwul ci ndoxu dex gu mag.",
+    "Maa ngi ñaan sama Boroom, di ñaan mu may ma dëkkuwaay bu jege moom ci Aljanna ak mucc ci jaay doole yi ma wëroon.",
+    "Xale bima yar dafa màgg di xeex ak njiit li yor sama ëlëg, te daa dëgër ci sama ngëm doonte dañu may tiital.",
+    "Man maay ki Al Quran sargal sama tur ni royukaay ci ngëm, te maa ngi dëkkoon ci këru Firawna ci boppam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Asiya, jabar Firawna",
+        "Maryam, yaay Isa",
+        "Bilqis, Reine de Saba",
+        "Jabaru Yonent bi Lut",
+        "Jabaru Imran"
+      ],
+      "answer": "Asiya, jabar Firawna"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Gis ak yar xale bu ndaw buñu bàyyi mu nekk yonent bu mag",
+        "Dañu leen sànni ci safara gu metti",
+        "Seede mbënd mu rëy mi yàq askan wi",
+        "Seede ab yëngal palme dat ak joxe dundu",
+        "Am doom bu góor doonte màgget na"
+      ],
+      "answer": "Gis ak yar xale bu ndaw buñu bàyyi mu nekk yonent bu mag"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Pale bu buur bu amul fenn",
+        "Gaal gu mag guñu tabax ngir mu mëna dékku mbënd",
+        "Grotte bu xóot bu nëbbu ci tundu yi",
+        "Dañu tabax safara gu tàng ci kaw aw tundu",
+        "Jardin buñu tëj ak miir"
+      ],
+      "answer": "Pale bu buur bu amul fenn"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Dëkkuwaay ci Aljanna ci coobare Yallah",
+        "Mbënd mu mag yàq na weddi yi ci aw xeet wu yàgg",
+        "Buur bu am doole ak kiliftéef gu rëy lañu jox ci àdduna bi",
+        "Picc yiy daw dañu tasaare larme bu am doole",
+        "Benn jaay doole bu doon wax ni boroom bi la, dañu ko féey ci géej gi"
+      ],
+      "answer": "Dëkkuwaay ci Aljanna ci coobare Yallah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

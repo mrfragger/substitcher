@@ -1,0 +1,61 @@
+{
+  "title": "Pokorni poszukiwacze prawdy",
+  "intro": "W krainie starożytnej mocy i magii rozgrywa się wielka konfrontacja. Jedna strona dzierży władzę nad boskimi znakami, podczas gdy druga próbuje dorównać niemożliwemu. Wynik na zawsze zmieni bieg historii. Czy potrafisz odkryć tożsamość tych, którzy byli świadkami ostatecznej prawdy i ukorzyli się przed nią?",
+  "clues": [
+    "Byliśmy świadkami znaków wykraczających poza sztuczki czarów",
+    "Wszyscy upadliśmy w pokłonie, nie mogąc zaprzeczyć prawdzie",
+    "Rozpoznaliśmy, że znaki te pochodzą od Jedynego Prawdziwego Boga",
+    "Byliśmy pierwszą wspólnotą, która przyjęła wiarę w tak dramatyczny sposób",
+    "Obiecano nam raj jako nagrodę za naszą wiarę",
+    "Nasze liny i laski stały się wężami na naszych oczach, mimo to wybraliśmy poddanie się"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Magowie faraona",
+        "Ludzie proroka Ibrahima",
+        "Pokorni poszukiwacze prawdy",
+        "Ludzie jaskini",
+        "Naród królowej Bilqis"
+      ],
+      "answer": "Magowie faraona"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Spotkanie z laską proroka Musy",
+        "Proces wiatru proroka Huda",
+        "Wyzwanie rzucone przez wielbłądzicę proroka Saliha",
+        "Wielka powódź zesłana na proroka",
+        "Podróż proroka wewnątrz wieloryba"
+      ],
+      "answer": "Spotkanie z laską proroka Musy"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Starożytny Egipt",
+        "Święty dom w Mekce",
+        "Miasto Midian",
+        "Pustynia Thamud",
+        "Jaskinia starożytnych śpiących"
+      ],
+      "answer": "Starożytny Egipt"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Raj jako nagroda",
+        "Kara w grobie",
+        "Utrata ich obfitych ogrodów",
+        "Zniszczenie przez nagłe trzęsienie ziemi",
+        "Ratunek przed wielkim wielorybem"
+      ],
+      "answer": "Raj jako nagroda"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

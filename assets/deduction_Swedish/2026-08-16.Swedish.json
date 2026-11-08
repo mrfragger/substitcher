@@ -1,0 +1,61 @@
+{
+  "title": "Den tysta rösten i kammaren",
+  "intro": "En bön ekade i stillheten i en helig kammare för länge sedan, uppkommen från en åldrande själ som längtade efter det som världen hade förklarat omöjligt. Denna gestalt, till åren kommen och tyngd av oro för framtiden, vände sig till sin Herre med en personlig bön. Det som följde var ett gudomligt svar som trotsade alla naturliga förväntningar – ett bevis på barmhärtigheten hos den som besvarar det desperata kallet.",
+  "clues": [
+    "Jag åkallade min Herre i enrum och drog mig tillbaka till ett rum där jag ägnade mig åt Hans dyrkan.",
+    "Jag erkände för min Herre att jag fruktade för dem som skulle komma efter mig, och oroade mig för mitt folks vägledning när jag väl hade gett mig av.",
+    "Ålderdomen hade övertagit mig – mina ben hade försvagats och vitt hår hade brett ut sig över mitt huvud.",
+    "Min make hade varit ofruktsam hela sitt liv, men ändå bad jag min Herre att ge mig en arvinge från Hans egen närvaro.",
+    "Jag bad om ett tecken, och min Herre svarade genom att hindra mig från att tala med någon i tre nätter, medan jag förblev fysiskt frisk.",
+    "Jag blev lovad en son vars namn skulle vara Yahya, ett namn som min Herre förklarade aldrig hade getts till någon tidigare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Zakariyah",
+        "Profeten Nuh",
+        "Profeten Musa",
+        "Profeten Yusuf",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Zakariyah"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att be för en arvinge i ålderdom med en ofruktsam make",
+        "Att kastas in i en brinnande eld",
+        "Att bli uppslukad av en stor fisk i mörkret",
+        "Att uthärda förlusten av familj, rikedom och hälsa",
+        "Befallas att bygga en stor ark"
+      ],
+      "answer": "Att be för en arvinge i ålderdom med en ofruktsam make"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Bönekammaren (mihrab)",
+        "En stav som förvandlades till en orm",
+        "En stor ark av trä",
+        "En trädgård med en unik källa",
+        "Ett berg där fåglar samlades"
+      ],
+      "answer": "Bönekammaren (mihrab)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Fick en mirakulöst namngiven son trots extrem ålder",
+        "Räddad från en flammande eld genom gudomlig befallning",
+        "En stor översvämning förintade de icke-troende",
+        "Återställd till familj, rikedom och hälsa efter tålamod",
+        "Farao och hans armé drunknade i havet"
+      ],
+      "answer": "Fick en mirakulöst namngiven son trots extrem ålder"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

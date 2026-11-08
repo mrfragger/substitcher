@@ -1,0 +1,61 @@
+{
+  "title": "Cichy głos w izbie",
+  "intro": "Modlitwa rozbrzmiewała dawno temu w ciszy świętej komnaty, wznosząc się z duszy starzejącej się, tęskniącej za tym, co świat uznał za niemożliwe. Ta postać, w podeszłym wieku i obciążona troską o przyszłość, zwróciła się do swego Pana z osobistą prośbą. Nastąpiła boska odpowiedź, przecząca wszelkim naturalnym oczekiwaniom – świadectwo miłosierdzia Tego, który odpowiada na to rozpaczliwe wezwanie.",
+  "clues": [
+    "Zwracałem się do mojego Pana w ukryciu, udając się do komnaty, gdzie oddawałem się Jego czci.",
+    "Przyznałem się przed Panem, że obawiam się o tych, którzy przyjdą po mnie, i martwię się o los mojego ludu po moim odejściu.",
+    "Starość mnie dopadła, moje kości stały się słabe, a na głowie pojawiły się białe włosy.",
+    "Moja małżonka była bezpłodna przez całe życie, a jednak prosiłam Pana, aby dał mi dziedzica pochodzącego od Niego.",
+    "Poprosiłem o znak i mój Pan odpowiedział, że nie pozwoli mi rozmawiać z nikim przez trzy noce, dopóki nie pozostanę zdrowy fizycznie.",
+    "Obiecano mi syna, którego imię będzie brzmiało Yahya. Jak oznajmił mój Pan, imienia tego nigdy przedtem nikomu nie nadano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Zachariasz",
+        "Prorok Noh",
+        "Prorok Musa",
+        "Prorok Yusuf",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Zachariasz"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Modlitwa o dziedzica w podeszłym wieku, którego małżonek jest niepłodny",
+        "Wrzucenie do płonącego ognia",
+        "Połknięcie przez wielką rybę w ciemności",
+        "Znoszenie straty rodziny, majątku i zdrowia",
+        "Otrzymanie rozkazu zbudowania wielkiej arki"
+      ],
+      "answer": "Modlitwa o dziedzica w podeszłym wieku, którego małżonek jest niepłodny"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Komnata modlitewna (mihrab)",
+        "Laska, która przemieniła się w węża",
+        "Wielka drewniana arka",
+        "Ogród z wyjątkowym źródłem",
+        "Góra, na której gromadzą się ptaki"
+      ],
+      "answer": "Komnata modlitewna (mihrab)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Obdarzony cudownym imieniem syna pomimo skrajnego podeszłego wieku",
+        "Ocalony z płonącego ognia z boskiego rozkazu",
+        "Wielka powódź zniszczyła niewiernych",
+        "Przywrócony rodzinie, bogactwu i zdrowiu po cierpliwości",
+        "Faraon i jego armia utonęli w morzu"
+      ],
+      "answer": "Obdarzony cudownym imieniem syna pomimo skrajnego podeszłego wieku"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

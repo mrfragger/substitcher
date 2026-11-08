@@ -1,0 +1,61 @@
+{
+  "title": "El Serv Elevà de Allah",
+  "intro": "Se sente susurr de una figüra di temp vècc, un servitur de Allah che l’è stà levà sü a una staziun sora l’urdinari. Chestu individuo l’era famus per la pazienza inflexibil e la verità assoluta, e l’era mandà a un popul che s’è voltà via dal messagg. Chi l’è chesta anima esaltada?",
+  "clues": [
+    "Sun stà scelt de Allah cuma prufeta e sun menziunà in del Sacr Coran.",
+    "Mi l’eri cognossü per la mia pazienza e verità, qualità che Allah luda.",
+    "Ho ciamà el me popul per venerà l’Unic Dio, ma tanti m’han refudà.",
+    "La mia staziun l’è stada elevada de Allah e m’è stà dà un rang volt.",
+    "Sun despess menziunà insema a olter prufet cuma Ismail e Dhul-Kifl.",
+    "Allah al dis de mi: “E l’emm levad su a una stazion volta.” (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Elias",
+        "El prufeta Du al-Kifl",
+        "Profeta Al Yasa",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Ciamà la gent per venerà Allah",
+        "Costruì l'arca",
+        "Cumbattù cuntra el faraun",
+        "L’è stà testà cunt una malatia grav",
+        "L’è stà butà in del fœuch"
+      ],
+      "answer": "Ciamà la gent per venerà Allah"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Rango volt/staziun volta",
+        "L'arca",
+        "El personal",
+        "El fœg",
+        "El pozz"
+      ],
+      "answer": "Rango volt/staziun volta"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Elevà a stat volt",
+        "Anegato nel diluvio",
+        "Ingoiad da una balena",
+        "Salvà del fœuch",
+        "Diventà re"
+      ],
+      "answer": "Elevà a stat volt"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

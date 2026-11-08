@@ -1,0 +1,61 @@
+{
+  "title": "Izobčenec zlatega teleta",
+  "intro": "Oseba, omenjena v Koranu, je med odsotnostjo plemenitega preroka zavedla veliko množico v odstopanje. Nekaj, izdelano iz zlata, je osvojilo srca celotnega naroda – toda zgodba o tem posamezniku se konča v samoti in nenavadnem prekletstvu. Kdo bi lahko bil ta izobčenec?",
+  "clues": [
+    "Pojavil sem se med odsotnostjo velikega preroka, ki se je povzpel, da bi prejel božansko vodstvo.",
+    "Z nečim, kar sem ustvaril z lastnimi rokami, sem zavedel veliko množico.",
+    "Zlata stvaritev, ki sem jo ustvaril, je bila videti živa in je proizvajala zvoke, ki so očarali tiste, ki so ji sledili.",
+    "Trdil sem, da sem videl tisto, česar drugi niso mogli zaznati – vpogled v nevidno.",
+    "Iz sledi božanskega poslanca sem nekaj izvlekel in to vlil v staljeno kovino.",
+    "Obsojen sem bil na samostojno tavanje, z edinstvenim prekletstvom, da se nihče ni smel dotakniti moje kože, niti jaz njihove."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraon (Firawn)",
+        "Abu Lahab",
+        "Prerok Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ustvaril zlato tele za čaščenje",
+        "Zgradil stolp, ki sega do nebes",
+        "Izzval je egiptovske čarovnike",
+        "Vodil je vojsko z letečimi zvermi",
+        "Razcepitev lune kot dokaz prerokovanja"
+      ],
+      "answer": "Ustvaril zlato tele za čaščenje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlato tele",
+        "Palica, ki se je spremenila v kačo",
+        "Goreči grm na gori",
+        "Barka počiva na vrhu",
+        "Jarek, poln plamenečega ognja"
+      ],
+      "answer": "Zlato tele"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Izgnan, prepovedano se ga je dotikati ali dotikati drugih",
+        "Utopil se je v morju skupaj z vojsko",
+        "Živ sežgan zaradi zavrnitve vere",
+        "Zadel ga je silovit, bučen veter",
+        "Odpuščeno in povzdignjeno na visok položaj"
+      ],
+      "answer": "Izgnan, prepovedano se ga je dotikati ali dotikati drugih"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

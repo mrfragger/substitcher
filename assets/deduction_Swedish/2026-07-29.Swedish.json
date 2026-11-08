@@ -1,0 +1,61 @@
+{
+  "title": "Den hovliga jakten",
+  "intro": "I maktens korridorer blev en högtstående figur förälskad i en tjänare vars skönhet var utomjordisk. Denna förälskelse ledde till en serie händelser som skulle pröva lojalitet, avslöja dolda sanningar och slutligen bekräfta tjänarens oskuld.",
+  "clues": [
+    "Jag bodde i Nilens land, i ett palats med stort inflytande.",
+    "En ung man kom in i mitt hushåll, och hans närvaro skapade oordning i min värld.",
+    "Jag försökte förföra honom, men han sökte tillflykt hos sin Herre.",
+    "Jag rev sönder hans mantel bakifrån, men bevisen tydde på mitt bedrägeri.",
+    "För att tysta adelskvinnornas skvaller inbjöd jag dem till en sammankomst och placerade vassa föremål i deras händer.",
+    "Till slut erkände jag offentligt min skuld och erkände sanningen inför kungen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Al-Aziz hustru",
+        "Asiya (Faraos hustru)",
+        "Bilqis (drottningen av Sheba)",
+        "Maryam (Isas mor)",
+        "Musas mor"
+      ],
+      "answer": "Al-Aziz hustru"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Hon försökte förföra profeten Yusuf",
+        "Hon försökte döda profeten Musa",
+        "Hon påstod sig vara en gudinna",
+        "Hon byggde ett torn för att utmana Allah",
+        "Hon ledde en armé mot Mecka"
+      ],
+      "answer": "Hon försökte förföra profeten Yusuf"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En skjorta sliten bakifrån",
+        "En gyllene kalv",
+        "En stav som förvandlades till en orm",
+        "En honkamel",
+        "En lampa"
+      ],
+      "answer": "En skjorta sliten bakifrån"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hon erkände och erkände sanningen",
+        "Hon drunknade med sin armé",
+        "Hon förvandlades till en saltpelare",
+        "Hon slukades av jorden",
+        "Hon förstördes av en skrikande vind"
+      ],
+      "answer": "Hon erkände och erkände sanningen"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

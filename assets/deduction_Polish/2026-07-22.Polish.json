@@ -1,0 +1,61 @@
+{
+  "title": "Z głębin studni",
+  "intro": "Podróż młodej duszy rozpoczęła się od potężnej wizji ciał niebieskich kłaniających się z szacunkiem. Życie tej osoby naznaczone było najgłębszą zdradą ze strony najbliższych, a następnie latami niewoli i niesłusznego więzienia. Jednak dzięki niezachwianej wierze i boskiemu przewodnictwu, postać ta wzniosła się z najgłębszego dołu, stając się jedną z najpotężniejszych osób w wielkim imperium. Czy potrafisz odkryć tożsamość tego niezwykłego sługi Allaha?",
+  "clues": [
+    "Ukazano mi wizję jedenastu gwiazd, słońca i księżyca oddających pokłon przede mną",
+    "Byłem głęboko kochanym dzieckiem moich rodziców, co budziło zazdrość wśród moich braci",
+    "Zostałem schwytany przez moich własnych braci, zdarty z mnie szaty i wrzucony do głębokiej, ciemnej studni",
+    "Sprzedano mnie jako towar na targu i wywieziono daleko od mojej ojczyzny",
+    "Pewna wpływowa kobieta próbowała naruszyć mój honor i trafiłem do więzienia za odrzucenie jej zalotów",
+    "Zostałem obdarzony darem interpretacji snów i z zapomnianego więźnia stałem się głównym ministrem Egiptu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Yusuf",
+        "Prorok Musa",
+        "Prorok Dawud",
+        "Prorok Ajjub",
+        "Prorok Sulayman"
+      ],
+      "answer": "Prorok Yusuf"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wrzucony do głębokiej studni przez własnych braci",
+        "Przetrwanie wielkiego ogólnoświatowego potopu",
+        "Wrzucenie do płonącego pieca",
+        "Walka z gigantycznym wojownikiem na polu bitwy",
+        "Być połkniętym przez wielką rybę"
+      ],
+      "answer": "Wrzucony do głębokiej studni przez własnych braci"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Głęboka, sucha studnia na pustkowiu",
+        "Wielka drewniana arka na szczycie góry",
+        "Laska, która przemieniła się w węża",
+        "Wspaniały tron ​​o wielkiej okazałości",
+        "Proca i pięć gładkich kamieni"
+      ],
+      "answer": "Głęboka, sucha studnia na pustkowiu"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Został premierem Egiptu i ponownie spotkał się z ukochaną rodziną",
+        "Zbudował wielki statek i wezwał ludzi do wiary",
+        "Wyprowadził cały naród z niewoli w Egipcie",
+        "Otrzymał królestwo i władzę nad tym, co niewidzialne",
+        "Otrzymał cierpliwość w czasie ciężkiej choroby i został uzdrowiony"
+      ],
+      "answer": "Został premierem Egiptu i ponownie spotkał się z ukochaną rodziną"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

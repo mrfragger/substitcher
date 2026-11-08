@@ -1,0 +1,61 @@
+{
+  "title": "Uma promessa feita sobre brasas",
+  "intro": "Você está ao lado de uma fogueira no deserto enquanto suas brasas são cuidadosamente espalhadas. Visitantes chegam para um encontro na quietude, e uma única mensagem abre uma história de promessa, surpresa e um futuro ainda não realizado.",
+  "clues": [
+    "Percorremos a distância para alcançar um servo fiel no deserto.",
+    "Pedimos que espalhassem brasas para preparar uma fogueira.",
+    "Conversamos com uma pessoa que havia invocado uma chama em busca de frescor e segurança.",
+    "Levamos a notícia do nascimento de um bebê para alguém que já havia passado da idade de ter filhos.",
+    "Demos ao filho prometido o nome de Isaac.",
+    "Levamos a Ibrahim a feliz notícia do nascimento de um filho, e a notícia surpreendente o deixou rindo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Os anjos que trouxeram as boas novas de Isaque a Abraão",
+        "Os anjos que avisaram Ló",
+        "Os Anjos Portadores do Trono",
+        "Os Anjos do Inferno",
+        "Os anjos enviados a Noé"
+      ],
+      "answer": "Os anjos que trouxeram as boas novas de Isaque a Abraão"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Trazendo a boa nova do nascimento de Isaac para Abraão.",
+        "Aviso a Lut antes do castigo de seu povo",
+        "Anunciando o nascimento de Yahya para Zakariyya",
+        "Portando o Trono no Dia do Juízo Final",
+        "Anunciando o nascimento de Isa para Maryam"
+      ],
+      "answer": "Trazendo a boa nova do nascimento de Isaac para Abraão."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma fogueira preparada a partir de brasas espalhadas",
+        "Uma arca flutuando na água da enchente",
+        "Uma caverna selada por uma pedra rolante",
+        "Uma montanha de argila endurecida pela salmoura",
+        "Uma escada que se estende até o céu."
+      ],
+      "answer": "Uma fogueira preparada a partir de brasas espalhadas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Boas notícias do nascimento de um filho chamado Isaac.",
+        "Boas notícias do nascimento de um filho chamado Yahya.",
+        "A escolha de Talute como governante dos Filhos de Israel.",
+        "Um aviso antes do castigo do povo de Ló",
+        "Uma ordem para construir uma arca antes do Dilúvio."
+      ],
+      "answer": "Boas notícias do nascimento de um filho chamado Isaac."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

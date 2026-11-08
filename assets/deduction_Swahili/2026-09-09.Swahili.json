@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi ya Kwanza Kusimama",
+  "intro": "Muda mrefu kabla ya mjumbe yeyote duniani, kabla ya andiko lolote kufunuliwa, kiumbe tofauti na kingine chochote kilikuwepo. Nafsi hii iliumbwa kwa mikono ya Mungu, ikapewa nafasi ya uzuri usio na kifani, na ikajaribiwa kwa njia ambayo ingerudiwa katika historia yote ya mwanadamu. Kilichofuata kilikuwa hadithi ya udhaifu, toba ya dhati, na hatima ambayo ingebadilisha mwelekeo wa uumbaji milele. Je, unaweza kukisia huyu ni nani?",
+  "clues": [
+    "Niliumbwa kwa mikono ya Mwenye Rehema Zaidi kutoka kwa mavumbi ya ardhi",
+    "Nilipewa nyumba yenye uzuri usio na kifani, ambapo hakuna njaa au uchovu ungeweza kunigusa",
+    "Niliamriwa nisiukaribie mti hata mmoja, kwani ilikuwa marufuku",
+    "Mimi na mwenzangu tulidanganywa na tukaukaribia mti uliokatazwa, kinyume na amri ya Mola wetu.",
+    "Tulirudi kwa Mola wetu kwa toba ya kweli, na tukasamehewa makosa yetu",
+    "Kutoka kwetu, wanadamu wote walishuka; Mimi ndiye wa kwanza kabisa kutembea juu ya dunia hii"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Adamu",
+        "Nabii Musa",
+        "Nabii Nuh",
+        "Nabii Yusufu",
+        "Nabii Isa"
+      ],
+      "answer": "Nabii Adamu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Jaribu la mti uliokatazwa",
+        "Kukabiliana na Farao",
+        "Kujenga Safina Kubwa",
+        "Sadaka ya mwana mpendwa",
+        "Kutupwa kwenye moto mkubwa"
+      ],
+      "answer": "Jaribu la mti uliokatazwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mti Uliokatazwa",
+        "Kichaka Kinachowaka Moto",
+        "Wafanyakazi wa Dhahabu",
+        "Safina Kubwa",
+        "Ndama wa Dhahabu"
+      ],
+      "answer": "Mti Uliokatazwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aliyetumwa duniani kama mlezi wa kwanza wa wanadamu",
+        "Farao na jeshi lake walizama baharini",
+        "Gharika kuu iliwaangamiza waovu",
+        "Moto ukawa baridi na utulivu",
+        "Alipewa mamlaka juu ya ufalme wa Misri"
+      ],
+      "answer": "Aliyetumwa duniani kama mlezi wa kwanza wa wanadamu"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

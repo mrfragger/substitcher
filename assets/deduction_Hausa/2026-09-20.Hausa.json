@@ -1,0 +1,61 @@
+{
+  "title": "Mumini Mai Rufe A Kotun Azzalumi",
+  "intro": "A cikin dakunan zinare na babban mai girman kai da Alƙur'ani ya sani - inda rashin biyayya ga Allah ya bayyana kowace doka - rai ɗaya ya yi tafiya a tsakanin masu gata, yana ɓoye sirri mafi haɗari a bayyane. Wannan mutumin yana ɗauke da imani da aka haramta a cikin waɗannan ganuwar har sai da gano shi zai haifar da mutuwa. Duk da haka, hukuncin ya ƙone kamar harshen wuta a ƙarƙashin toka, kuma lokacin da lokacin ya yi, gaskiya ta yi sheƙi da ƙarfin hali wanda ya girgiza harsashin fadar azzalumi.",
+  "clues": [
+    "Na zauna a cikin da'irar cikin gida ta mai iko da girman kai na zamanina, kewaye da jin daɗi da tasiri.",
+    "Na ɓoye imani na gaskiya a cikin zuciyata, ina jin tsoron rayuwata daga waɗanda suka yi mulki da zalunci da zalunci.",
+    "Lokacin da mutanena suka yi shakka suka kuma yi kasa a gwiwa wajen fuskantar gaskiya, sai na fito gaba don in yi musu gargaɗi game da mummunan sakamakon da ya faru da al'ummomin da suka gabata waɗanda suka ƙi manzannin Ubangijinsu.",
+    "Na tunatar da mutanena labarin wani matashin mafarki da aka ƙaunace shi wanda danginsa suka jefar da shi amma ya sami babban iko a wata ƙasa mai nisa.",
+    "Na yi kira ga mutanena da kada su yi biyayya ga shugaban da ya ɓatar da su, maimakon haka na kira su su bi ni a kan hanyar adalci da shiriya.",
+    "Na faɗi gaskiya a fili duk da cewa mabiyan azzaluman sun yi barazanar cewa za su jefe ni ko kuma su kore ni daga ƙasar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Muminin da ke ɓoye daga Iyalan Fir'auna",
+        "Wani Babban Malami Mai Haƙuri Wanda Ya Yi Kuka Makaho Har Sai Dansa Ya Dawo",
+        "Bawa Mai Aminci Wanda Daga Karshe An Warke Da Cutar Fata",
+        "Ɗan Zunubi Wanda Ya Ki Gayyatar Annabi Ya Shiga Jirgin Ruwa.",
+        "Azzalumin Marar Tausayi Wanda Ya Yi Ikirarin Imani Da Kansu"
+      ],
+      "answer": "Muminin da ke ɓoye daga Iyalan Fir'auna"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Boye imani a kotun azzalumi",
+        "Na sha fama da makanta sakamakon shekaru da na yi ina kuka",
+        "Ana gwada shi da asarar iyali da kuma mummunan wahala",
+        "Gina babban jirgi yayin da ake yi masa ba'a",
+        "Jure wa zafin wuta mai zafi"
+      ],
+      "answer": "Boye imani a kotun azzalumi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Fadar Fir'auna",
+        "Dutsen da aka gina jirgin ruwa",
+        "Kwarin tsarki a ƙarƙashin Dutsen Sinai",
+        "Lambu mai ban mamaki mai rafuffuka guda biyu masu gudana",
+        "Kursiyin lu'ulu'u a saman kogin karkashin kasa"
+      ],
+      "answer": "Fadar Fir'auna"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Kariyar Allah yayin da azzalumai suka fuskanci halaka",
+        "An sake haɗuwa da iyali bayan shekaru da yawa na rabuwa",
+        "An ba shi haƙuri, an dawo da shi lafiya, da kuma babban iyali",
+        "An ceto shi a cikin jirgin ruwa yayin da sauran duniya suka nutse",
+        "An ceto shi daga wuta ba tare da ya ji rauni ba da umarnin Allah"
+      ],
+      "answer": "Kariyar Allah yayin da azzalumai suka fuskanci halaka"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

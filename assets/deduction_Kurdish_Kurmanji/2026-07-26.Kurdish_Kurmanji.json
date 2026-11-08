@@ -1,0 +1,61 @@
+{
+  "title": "Taca Ku Ezmanan Dijwar Kir",
+  "intro": "Di korîdorên padîşahiyên kevnar de, navê hukumdarekî bû peyvek ji bo zulm û xudperestiyê. Dema ku xizmetkarekî dilnizm ê Xwedê bi nîşanên bêguman hat, vî hukumdarê bihêz red kir ku teslîmî rastiyê bibe. Îro, karê we ew e ku hûn vê kesayetiya efsanewî ya ku serweriya wî hilweşiya û çarenûsa wî di bin pêlan de hat mohrkirin, nas bikin.",
+  "clues": [
+    "Ez hikumdarê herî tirsnak im ku navê min hîn jî di nav serdemên borî de wekî hişyariyekê deng vedide.",
+    "Min ferman da tevahiya gelekî ku di zincîran de bixebitin, peykerên ku rûmeta min nîşan didin bilind bikin.",
+    "Dema ku pêxemberekî Xwedê bi nîşanên bêguman hat pêşiya min, min red kir ku ez serê xwe bitewînim û jê re got sihir.",
+    "Min fermana kuştina kurên pitik di nav gelek dîlgirtî de da, bi hêviya ku ez ruhê wan bişkînim berî ku ew rabin.",
+    "Ez li ber dadgeha xwe rawestiyam û min got, 'Ez xudanê we yê herî bilind im,' û min daxwaza perestinê wek xwedayekî kir.",
+    "Bi serokwezîrê min re li tenişta min, min avahiyek bilind ava kir ku armanc ew bû ku ji ezmanan wêdetir hilkişim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Fîrewn (Firewn)",
+        "Nemrûd",
+        "Haman",
+        "Ebû Leheb",
+        "El-Welîd ibn el-Muxîre"
+      ],
+      "answer": "Fîrewn (Firewn)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Binxivîn li Deryaya Sor",
+        "Deveya ku ji gelê Semûd re hat şandin",
+        "Tofana mezin a Nûh",
+        "Cezayê Hevalên Xendekê",
+        "Tunekirina artêşa Abrahayê ji aliyê çûkan ve"
+      ],
+      "answer": "Binxivîn li Deryaya Sor"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Avahiya bilind a ku bi Haman re hatiye çêkirin",
+        "Keştiya ku li ser lehiyê çû",
+        "Golika zêrîn a ku ji hêla Samirî ve hatiye çêkirin",
+        "Textê Bilqis, Şahbanûya Şebayê",
+        "Şikefta xortên razayî"
+      ],
+      "answer": "Avahiya bilind a ku bi Haman re hatiye çêkirin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Di deryayê de xeniqî; laş wekî hişyariyek hate parastin",
+        "Sirgûn kirin û neçar man ku li çolê bigerin",
+        "Wek ceza veguherî meymûnan",
+        "Bi erdhejeke tund ve hat hejandin",
+        "Bi barana keviran ji ezman şewitî"
+      ],
+      "answer": "Di deryayê de xeniqî; laş wekî hişyariyek hate parastin"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

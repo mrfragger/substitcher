@@ -1,0 +1,61 @@
+{
+  "title": "Maledictio Abundantiae Messis",
+  "intro": "In terra quadam antiqua, anima quaedam inter divitissimos communitatis suae stabat. Bis beneficia terrae eis in annis continuis pervenerant, gemina messis quae corda eorum gratitudine implere debuisset. Attamen cum tragoedia invasit et omnia quae possidebant una nocte ablata sunt, responsum eorum veram animae naturam revelavit. Potesne identitatem huius personae detegere, cuius historia est quasi monitus contra incredulitatem in beneficia Dei?",
+  "clues": [
+    "Inter animas fortunatissimas totius terrae fui, copiosis commeatibus benedictus.",
+    "Bis mihi messis per biennium venit, tamen cor meum Domino meo ingratum mansit.",
+    "Possidebam magnum hortum cum vitibus, olivis et palmis—testamen favoris Dei.",
+    "Cum hortus meus vastaretur, in ruinis eius steti manibus ad caelum porrectis, fatum meum execrans.",
+    "Negavi Allah tantam iacturam causare potuisse, etiam cum palmas meas prae desperatione contunderem.",
+    "Poena mea non solum horti mei amissio erat, sed etiam in ruinis eius omnino inermis relictus, nullum auxilium invocare potens."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Dominus horti in Sura 26",
+        "Dominus duorum hortorum e terra longinqua",
+        "Anima dives ex urbe prosperitatis",
+        "Agricola in Surah Al-Kahf",
+        "Vinearius tempore prophetae Shu'aib"
+      ],
+      "answer": "Dominus horti in Sura 26"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Amissio horti una nocte vastati",
+        "Magnum diluvium quod terram obtexit",
+        "Tentatio cum veris falsisque prophetis",
+        "Experimentum in ignem coniciendi",
+        "Experimentum absorptionis a terra"
+      ],
+      "answer": "Amissio horti una nocte vastati"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Hortus cum vitibus, olivis et palmis per biennium deletus",
+        "Navis super montem altum aedificata",
+        "Urbs gentis transgressoris",
+        "Puteus in Madian antiqua",
+        "Flumen paradisi"
+      ],
+      "answer": "Hortus cum vitibus, olivis et palmis per biennium deletus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Impotentia absoluta—nullo adiutore deleta",
+        "Resurrectio ad paradisum ingrediendum",
+        "Propheta Dei fieri",
+        "Ducatus magnae nationis",
+        "Poena aeterna in igne"
+      ],
+      "answer": "Impotentia absoluta—nullo adiutore deleta"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

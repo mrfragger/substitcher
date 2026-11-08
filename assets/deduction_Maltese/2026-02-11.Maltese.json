@@ -1,0 +1,60 @@
+{
+  "title": "Il-Piż tal-Għana",
+  "intro": "Inti wieqaf quddiem storja ta’ fortuna immensa, ħajja mżejna bid-deheb u l-poter, iżda fl-aħħar mill-aħħar lezzjoni ta’ twissija għal dawk kollha li jfittxu l-grandjożità tad-dinja. Tista’ tikxef l-identità ta’ din il-figura li l-istorja tagħha tidwi matul iż-żmien, xhieda tan-natura qasira tal-possessjonijiet tad-dinja?",
+  "clues": [
+    "Jiena kont mill-poplu ta' Profeta kbir, imma għażilt triq ta' arroganza u oppressjoni.",
+    "Alla tani ġid immens, tant li l-imfietaħ tat-teżori tiegħi kienu piż tqil għal grupp qawwi ta’ rġiel.",
+    "In-nies tiegħi wissewni biex ma nifraħx bl-għana tiegħi, u fakkruni li Alla ma jħobbx lil min jifraħ.",
+    "B'arroganza stqarrejt li l-fortuna vasta tiegħi kienet dovuta għall-għarfien u l-isforz tiegħi stess, mhux barka mingħand Alla.",
+    "Ġejt mwissi kontra l-korruzzjoni u mfakkarni biex infittex il-Ħajja ta’ Wara b’dak li Alla kien tani, imma jien irrifjutajt li nisma’ u bqajt fil-kburija tiegħi.",
+    "Eventwalment, Alla ġiegħel lill-art tibla’ lili u lill-għamara tiegħi, u ħallieni mingħajr għajnuna kontra d-digriet Tiegħu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Fargħun",
+        "Ħaman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Il-qsim tal-baħar",
+        "In-nar ta’ Nimrod",
+        "L-għargħar",
+        "Il-belgħa mill-art",
+        "Il-pesta tal-ġurati"
+      ],
+      "answer": "Il-belgħa mill-art"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka",
+        "L-Istaff",
+        "L-Għoġol tad-Deheb",
+        "It-Teżori/Iċ-Ċwievet",
+        "Il-Bir ta’ Zamzam"
+      ],
+      "answer": "It-Teżori/Iċ-Ċwievet"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Mogħtija r-renju",
+        "Salvat mill-qerda",
+        "Mibela’ mill-art",
+        "Sar profeta",
+        "Miet fil-paċi"
+      ],
+      "answer": "Mibela’ mill-art"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

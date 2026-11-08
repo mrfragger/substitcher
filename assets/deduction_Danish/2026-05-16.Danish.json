@@ -1,0 +1,61 @@
+{
+  "title": "Den standhaftige bygmester af frelse",
+  "intro": "Denne person, der prægede en enorm tålmodighed og urokkelig overbevisning, dedikerede utallige år til en guddommelig mission, mens han mødte ubarmhjertig foragt og afvisning. Deres historie er et stærkt vidnesbyrd om tro i mødet med overvældende vantro, der kulminerede i en skelsættende begivenhed, der omformede verden.",
+  "clues": [
+    "Jeg har viet en utrolig lang periode af mit liv til at kalde mit folk til tilbedelse af Allah.",
+    "Mit folk hånede mig og anklagede mig for åbenlys fejltagelse og vanvid.",
+    "Jeg fik befaling om at bygge noget, der virkede usædvanligt for mit indlandssamfund.",
+    "Kun få troede på det og sluttede sig til mig og min familie på denne unikke konstruktion.",
+    "Jeg bar par af alle levende væsener om bord, som Allah havde befalet.",
+    "En stor oversvømmelse opslugte jorden og reddede kun dem, der var med mig i mit fartøj, mens min egen søn omkom på grund af sin vantro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Salih",
+        "Profeten Hud",
+        "Profeten Nuh",
+        "Profeten Dawud",
+        "Profeten Sulayman"
+      ],
+      "answer": "Profeten Nuh"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Ødelæggelsen ved et jordskælv",
+        "Havets opdeling",
+        "Den store oversvømmelse",
+        "Nimrods ild",
+        "Frøernes pest"
+      ],
+      "answer": "Den store oversvømmelse"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Den brændende busk",
+        "Arken",
+        "Vandbrønden",
+        "Guldkalven",
+        "Tur-bjerget"
+      ],
+      "answer": "Arken"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Modtog et kongerige",
+        "Hans folk blev forvandlet til aber",
+        "Hans folk blev reddet ved et mirakel",
+        "Hans folk druknede",
+        "Hans folk blev ramt af et tordenvejr"
+      ],
+      "answer": "Hans folk druknede"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

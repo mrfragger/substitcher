@@ -1,0 +1,61 @@
+{
+  "title": "Valdovas, kuris keliavo per žemės pakraščius",
+  "intro": "Įsivaizduokite galingą valdovą, kuriam suteikta jėga ir valdžia visoje šalyje. Ši figūra leidosi į nepaprastas keliones, pasiekdama saulėlydžius ir saulėtekius, sutikdama nepažįstamų žmonių ir susidūrusi su dideliu dviejų korumpuotų tautų iššūkiu. Kas yra šis mįslingas lyderis?",
+  "clues": [
+    "Buvau valdovas, kuriam buvo suteikta valdžia ir priemonės pasiekti tolimiausius žemės kampelius.",
+    "Keliavau į vakarus ir mačiau, kaip saulė leidžiasi drumstame pavasarį.",
+    "Netoli tekančios saulės sutikau žmones, kurie neturėjo prieglobsčio nuo jos karščio.",
+    "Kita bendruomenė paprašė mano pagalbos kovoje su dviem korupcingomis tautomis, vadinamomis Gog ir Magog.",
+    "Aš pastačiau barjerą, naudodamas geležį ir išlydytą varį, kad juos sulaikyčiau.",
+    "Aš pareiškiau, kad ši kliūtis yra mano Viešpaties gailestingumas ir ji išliks iki nustatyto laiko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Pranašas Sulaimanas",
+        "Qarun",
+        "Talutas",
+        "Namrudas"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Statant barjerą nuo Gogo ir Magogo",
+        "Išgyvenęs didelį potvynį",
+        "Įmetimas į ugnį",
+        "Kertant jūrą",
+        "Kova su milžinu"
+      ],
+      "answer": "Statant barjerą nuo Gogo ir Magogo"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Geležies ir vario barjeras",
+        "Lazdelė, kuri virto gyvate",
+        "Medinis laivas",
+        "Stiklo rūmai",
+        "Datulių palmių sodas"
+      ],
+      "answer": "Geležies ir vario barjeras"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Gogas ir Magogas buvo sulaikyti iki nustatyto laiko",
+        "Jis tapo pranašu",
+        "Jis buvo nubaustas už aroganciją",
+        "Jis užkariavo visą pasaulį",
+        "Jis gyveno amžinai"
+      ],
+      "answer": "Gogas ir Magogas buvo sulaikyti iki nustatyto laiko"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

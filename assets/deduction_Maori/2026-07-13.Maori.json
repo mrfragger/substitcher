@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo o te Whakaaro Nui",
+  "intro": "I mua, i whakapuakina e te reo ngawari o te whakaaro nui ngā tohutohu e hipa ana i te wā. Nā tēnei tangata, i manaakitia ki te māramatanga hohonu, i tuku mai i ngā akoranga tino nui e waiho tonu ana hei tohu mō te hunga katoa e hiahia ana ki te arataki. Ka taea e koe te wetewete i te tuakiri kei muri i ēnei kupu pumau?",
+  "clues": [
+    "I homai e te Atua ki ahau tētahi manaakitanga nui, he taonga i whakamārama i tōku ngākau me tōku hinengaro.",
+    "I tahuri ahau ki taku tamaiti aroha, me te hiahia ki te tohatoha i te taonga tino nui i a au.",
+    "I whakatūpato ahau ko te hē nui rawa atu ko te whakatū hoa mahi ki te Atua Kotahi pono.",
+    "I whakamahara ahau ahakoa te taumaha o te purapura sinapi, e huna ana i roto i te toka, i tua atu rānei i te rangi, ka whakawakia e Allah.",
+    "I ako ahau kia ngohengohe ki ngā mātua, engari ko te ngohengohe he mea tika anake.",
+    "I whakaako ahau i ngā tikanga māmā: haere me te ngākau mahaki i runga i te whenua, kia āta whakarongo hoki ki tō reo; ko te tangi nui rawa atu hoki ko te aue o te kaihe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Lukmana",
+        "Al-Khidr",
+        "Poropiti a Sulaimana",
+        "Dhul-Qarnayn",
+        "Uzair"
+      ],
+      "answer": "Lukmana"
+    },
+    "trial": {
+      "label": "Whakamātautau / Takahanga",
+      "options": [
+        "Te tuku tohutohu hohonu ki tana tamaiti",
+        "Te hanga i tētahi āka hei oranga mō tētahi waipuke nui",
+        "Te manawanui ki te mate kino",
+        "Te haere ki ngā pito o te whenua",
+        "Te whiwhi i ngā papa atua i runga i te maunga"
+      ],
+      "answer": "Te tuku tohutohu hohonu ki tana tamaiti"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tohutohu ki tāna tama",
+        "Te rakau e mura ana",
+        "Ngā kaimahi a Musa",
+        "Te kuao kau koura",
+        "Ngā kūaha rino"
+      ],
+      "answer": "Te tohutohu ki tāna tama"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakapūmautia āna tohutohu i roto i ngā karaipiture tapu",
+        "I whakawhiwhia ia ki te poropititanga me te ture hou",
+        "I riro ia hei rangatira nui mō tētahi kingitanga nui",
+        "I whakaarahia ia ki te rangi, kahore he mate",
+        "I whiwhi ia i tētahi whakakitenga tika mai i te anahera"
+      ],
+      "answer": "I whakapūmautia āna tohutohu i roto i ngā karaipiture tapu"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

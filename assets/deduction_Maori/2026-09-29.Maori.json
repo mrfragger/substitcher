@@ -1,0 +1,61 @@
+{
+  "title": "Te Poropiti o ngā Maunga Whakairo",
+  "intro": "I ngā koraha uaua o Arapia onamata, i puta mai tētahi āhua i roto i te iwi rongonui mō ā rātou mahi toi whakamiharo. I tū ō rātou kāinga i te toka totoka, engari he pakeke ake ō rātou ngākau i ngā maunga i keria e rātou. I tae mai tētahi karere atua me tētahi tohu whakamiharo kotahi - engari ko te whakapehapeha me te whakakeke i arahi ki ngā hua tere me te whakamataku. Ka taea e koe te tautuhi i te pononga rangatira i whiriwhiria e tōna iwi te whakangaromanga i te arataki?",
+  "clues": [
+    "I tonoa ahau hei kaiwhakatūpato ki tōku iwi, hei karanga i a rātou ki te karakia ki te Atua Kotahi.",
+    "I noho tōku iwi i waenganui i ngā toka whakamiharo, i whakairo i ngā whare whakahīhī ki ngā taha o ngā maunga.",
+    "I taku inoi, i puta mai tētahi kamera uha merekara i roto i te toka totoka, he tohu mārama tēnei nā te Kaha Rawa.",
+    "I mea atu ahau ki tōku iwi kia tohaina te wai ki tēnei kamera uwha, kaua hoki e tukinotia.",
+    "I whakatakoto whakaaro taku iwi mō te kamera uwha, ā, i whakapotoa e rātou ōna uaua, hei hiri i tō rātou ake whakangaromanga.",
+    "I pā mai te rū whenua nui ki tōku iwi, ā, i mahue iho rātou, kāhore he nekehanga i roto i ō rātou kāinga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Salih",
+        "Poropiti a Hūta",
+        "Poropiti Shu'ayb",
+        "Poropiti a Noa",
+        "Poropiti a Mohi"
+      ],
+      "answer": "Poropiti Salih"
+    },
+    "trial": {
+      "label": "He aha te whakamātautau whakamutunga?",
+      "options": [
+        "Te whakawhāiti i te uaua o te kamera uha whakamiharo",
+        "Te hanga i tētahi āka nui i waenganui i te tawai",
+        "Te tū atu ki tētahi Parao nanakia",
+        "Te maka ki roto i te ahi mura",
+        "Te takahi i te kawenata o te Hāpati"
+      ],
+      "answer": "Te whakawhāiti i te uaua o te kamera uha whakamiharo"
+    },
+    "location": {
+      "label": "He aha te huānga matua?",
+      "options": [
+        "He kamera uwha i puta mai i te toka",
+        "He āaka rakau nui",
+        "He tokotoko i wehe i te moana",
+        "He tohorā nui whakaharahara",
+        "He maunga e iri ana i runga ake"
+      ],
+      "answer": "He kamera uwha i puta mai i te toka"
+    },
+    "outcome": {
+      "label": "He aha te mutunga iho?",
+      "options": [
+        "He rū whenua ohorere i te rangi",
+        "I toremi i roto i te waipuke nui",
+        "I hurihia ō rātou pā e te whakahau a te Atua",
+        "I tahuna e te hau werawera",
+        "Horomia e te whenua"
+      ],
+      "answer": "He rū whenua ohorere i te rangi"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

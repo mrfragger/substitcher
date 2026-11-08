@@ -1,0 +1,61 @@
+{
+  "title": "Zaufany Duch Objawienia",
+  "intro": "W niewidzialnych krainach istota czystego światła porusza się z precyzją, wykonując każde polecenie bez wahania. Ta postać przemawiała do wybranych sług, niosła słowa przewodnictwa i była świadkiem wypełniania się boskich wyroków na przestrzeni wieków. Kim jest ta zacna dusza?",
+  "clues": [
+    "Jestem istotą czystego światła, stworzoną ze światła i nigdy nie złamałem żadnego polecenia mojego Pana.",
+    "Poruszam się między niebem a ziemią, zstępując z wyrokami Najmiłosierniejszego.",
+    "Zostałem posłany do szlachetnej dziewicy w sanktuarium, aby oznajmić jej, że mam czystego syna.",
+    "Jestem duchem świętości i wspierałem proroka, któremu dane były jasne znaki i Ewangelia.",
+    "Przybyłem do jaskini w górach, aby wygłosić pierwsze słowa recytacji, która miała zostać zachowana na zawsze.",
+    "Ja jestem duchem godnym zaufania i to ja zesłałem Koran prosto w serce ostatniego posłańca."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Dżibril (Gabriel)",
+        "Mikail (Michael)",
+        "Anioł Śmierci",
+        "Malik (Strażnik Piekła)",
+        "Harut (jeden z dwóch aniołów w Babilonie)"
+      ],
+      "answer": "Dżibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Kluczowa misja/rola",
+      "options": [
+        "Przekazywanie objawień prorokom",
+        "Dęcie w trąbę w Dniu Sądu",
+        "Strzegący bram piekła",
+        "Rejestrowanie czynów ludzkich",
+        "Spowodowanie opadów deszczu"
+      ],
+      "answer": "Przekazywanie objawień prorokom"
+    },
+    "location": {
+      "label": "Kluczowy atrybut lub tytuł",
+      "options": [
+        "Duch Święty (Ruh al-Qudus)",
+        "Duch Mocy",
+        "Duch Miłosierdzia",
+        "Duch Przewodnictwa",
+        "Duch Prawdy"
+      ],
+      "answer": "Duch Święty (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Wynik misji",
+      "options": [
+        "Koran został objawiony prorokowi Mahometowi",
+        "W Dniu Sądu zadęto w trąbę",
+        "Piekło było strzeżone, a jego bramy zamknięte",
+        "Księga Uczynków została przedstawiona Allahowi",
+        "Deszcz spadł na ziemię"
+      ],
+      "answer": "Koran został objawiony prorokowi Mahometowi"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

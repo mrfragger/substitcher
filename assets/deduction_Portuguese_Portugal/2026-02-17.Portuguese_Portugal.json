@@ -1,0 +1,61 @@
+{
+  "title": "A Semente da Discórdia",
+  "intro": "Antes que o mundo conhecesse os conflitos generalizados, um profundo teste de fé e obediência se desenrolou. Esta narrativa explora as escolhas feitas por um indivíduo, cujas ações estabeleceram um precedente para as gerações futuras. Prepare-se para desvendar a história de uma alma lutando contra um ciúme imenso e suas consequências devastadoras.",
+  "clues": [
+    "Eu estava entre os primeiros descendentes a caminhar sobre a Terra, filho do primeiro casal humano.",
+    "Meu irmão e eu recebemos a ordem de oferecer um sacrifício a Alá, como prova de nossa sinceridade.",
+    "Minha oferta não foi aceita, enquanto a do meu irmão foi, o que encheu meu coração de uma emoção terrível.",
+    "Proferi palavras ameaçadoras ao meu irmão, movido pela amargura da rejeição.",
+    "Meu irmão respondeu com sabedoria e piedade, lembrando-me da justiça de Alá e do temor a Ele.",
+    "Apesar das palavras gentis do meu irmão e de sua disposição em perdoar, tirei uma vida, tornando-me um dos perdedores."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Adão",
+        "Iblis",
+        "Profeta Noé",
+        "Qabil (Caim)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Caim)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A grande inundação",
+        "A divisão do mar",
+        "A construção da Caaba",
+        "A oferta de sacrifícios",
+        "A tentação no jardim"
+      ],
+      "answer": "A oferta de sacrifícios"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Arca",
+        "A equipe",
+        "A Montanha de Safa",
+        "O Sacrifício",
+        "A Sarça Ardente"
+      ],
+      "answer": "O Sacrifício"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tornou-se um mensageiro",
+        "Foi afogado",
+        "Construiu um grande reino",
+        "Tornou-se um exemplo de arrependimento.",
+        "Foi-lhe concedida imensa riqueza."
+      ],
+      "answer": "Tornou-se um exemplo de arrependimento."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

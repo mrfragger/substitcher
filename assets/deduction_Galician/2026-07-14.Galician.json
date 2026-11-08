@@ -1,0 +1,61 @@
+{
+  "title": "As almas da trincheira",
+  "intro": "Viaxas a unha época na que un gobernante despiadado esixía devoción absoluta a falsas deidades. Unha pequena comunidade de almas devotas negouse e enfrontouse a un castigo tan severo que se converteu en maldita eternamente. A súa historia resoa no Corán como testemuño dunha fe inquebrantable. Podes identificar este grupo firme?",
+  "clues": [
+    "Vivíamos nunha terra baixo a tiranía dun gobernante que esixía a adoración de falsas deidades",
+    "A nosa comunidade sufriu unha grave persecución unicamente pola nosa crenza en Alá",
+    "O gobernante ordenou que se cavase unha gran trincheira e que se alimentase con chamas feroces",
+    "Porque nos negamos a renunciar á nosa fe, fomos lanzados a ese pozo ardente un por un",
+    "A nosa historia converteuse en parte do Corán, e aqueles que nos perseguiron foron eternamente malditos.",
+    "A sura que rexistra a nosa proba leva o nome dos grandes signos celestiais do ceo"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Compañeiros da trincheira (Ashab al-Ukhdud)",
+        "Xente da Cova (Ashab al-Kahf)",
+        "Xente do sábado",
+        "Xente de A'ad",
+        "Xente de Thamud"
+      ],
+      "answer": "Compañeiros da trincheira (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "O noso xuízo",
+      "options": [
+        "Ser queimado vivo nun pozo de lume",
+        "Estar selado nunha cova durante moitos anos",
+        "Pesca no día santo de descanso",
+        "Ser destruído por un vento ululante",
+        "Matando unha cameloa sagrada"
+      ],
+      "answer": "Ser queimado vivo nun pozo de lume"
+    },
+    "location": {
+      "label": "O elemento clave",
+      "options": [
+        "Unha trincheira de lume abrasador",
+        "Unha cova agochada cun can fiel",
+        "Altos piares dunha antiga cidade condenada",
+        "Vivendas de montaña esculpidas en cantís de pedra",
+        "Unha chaira aberta varrida por ventos violentos"
+      ],
+      "answer": "Unha trincheira de lume abrasador"
+    },
+    "outcome": {
+      "label": "O noso resultado",
+      "options": [
+        "Fomos martirizados e os perseguidores foron eternamente malditos",
+        "Despertamos despois de durmir durante 309 anos",
+        "Fomos transformados en simios pola nosa transgresión",
+        "Un vento forte e ululante destruíunos a todos",
+        "Un só berro devastador esnaquizou a nosa existencia"
+      ],
+      "answer": "Fomos martirizados e os perseguidores foron eternamente malditos"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

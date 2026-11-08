@@ -1,0 +1,61 @@
+{
+  "title": "Ny Mpitalaho ao amin'ny Fitoerana Masina",
+  "intro": "Tao anatin'ny ora mangina tamin'ny alina, dia nisy fanahy iray nanolo-tena niantso ny Mpamindra Fo Indrindra tao anatin'ny rindrina masin'ny toerana masina. Ny taona maro nitahirizana finoana sy faharetana tsy azo hozongozonina dia hovalian-tsoa amin'ny fahagagana izay hitondra fifaliana sy lova avy amin'ny mpaminany.",
+  "clues": [
+    "Nandany ny androko sy ny alinako tamin'ny fanompoam-pivavahana tao amin'ny fitoerana masina aho, nitalaho tsy an-kijanona tamin'ny Tompoko.",
+    "Nihantitra aho, ary momba ny vadiko, nefa tsy very fanantenana mihitsy aho tamin'ny famindram-pon'i Allah.",
+    "Nomena zazalahy aho, Yahya, izay lasa mpaminany sy fanilon'ny fahamarinana.",
+    "Mpaminany koa aho, nirahina hitarika ny Zanak'Isiraely.",
+    "Taranak’i Harun Mpaminany aho ary mpisorona tao amin’ny Tempoly.",
+    "Nankinina tamiko ny fikarakarana an'i Maryam, renin'i Isa, ary nahita ny fahagagana nataony aho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Zakariyya",
+        "Mpaminany Yahya",
+        "Mpaminany Ilyas",
+        "Mpaminany Isaka",
+        "Mpaminany Jakoba"
+      ],
+      "answer": "Mpaminany Zakariyya"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nanome zanakalahy rehefa antitra",
+        "Voavonjy tamin'ny afo mirehitra",
+        "Voavonjy avy tao an-kibon'ny trondro",
+        "Tafavoaka velona tamin'ny tondra-drano lehibe",
+        "Sitrana tamin'ny aretina mafy"
+      ],
+      "answer": "Nanome zanakalahy rehefa antitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Mihrab (toerana fivavahana)",
+        "Ny Kaaba",
+        "Ny kirihitra mirehitra",
+        "Ny Fiaran'ny Fanekena",
+        "Ny Lava-bato misy ny Matory Fito"
+      ],
+      "answer": "Ny Mihrab (toerana fivavahana)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nomena zanakalahy marina izay lasa mpaminany",
+        "Rava noho ny tafio-drivotra mahery vaika",
+        "Nilentika tao an-dranomasina",
+        "Voavonjy tsy ho may",
+        "Niverina tany amin'ny razany rehefa avy novonjena tamin'ny trondro iray"
+      ],
+      "answer": "Nomena zanakalahy marina izay lasa mpaminany"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

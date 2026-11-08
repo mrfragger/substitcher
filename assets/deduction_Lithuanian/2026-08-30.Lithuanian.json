@@ -1,0 +1,61 @@
+{
+  "title": "Patikima Apreiškimo Dvasia",
+  "intro": "Nematomose sferose tyros šviesos būtybė juda tiksliai, nedvejodama vykdydama kiekvieną įsakymą. Ši figūra kalbėjosi su išrinktais tarnais, nešė patarimus ir per amžius matė dieviškų nutarimų išsiskleidimą. Kas yra ši garbinga siela?",
+  "clues": [
+    "Esu grynos šviesos būtybė, sukurta iš šviesos, ir niekada nepaklusau nė vienam savo Viešpaties įsakymui.",
+    "Aš judu tarp dangaus ir žemės, nusileisdamas su Gailestingiausiojo nuosprendžiais.",
+    "Buvau pasiųstas pas kilmingą mergelę šventovėje, pranešdamas jai apie tyrą sūnų.",
+    "Aš esu šventumo dvasia ir palaikiau pranašą, kuriam buvo duoti aiškūs ženklai ir Evangelija.",
+    "Atėjau į olą kalne, kad pasakyčiau pirmuosius deklamavimo žodžius, kurie bus išsaugoti amžinai.",
+    "Aš esu patikima dvasia ir būtent Aš atnešiau Koraną į paskutiniojo pasiuntinio širdį."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Džibrilas (Gabrielius)",
+        "Mikail (Michael)",
+        "Mirties angelas",
+        "Malik (pragaro prižiūrėtojas)",
+        "Harutas (vienas iš dviejų angelų Babilone)"
+      ],
+      "answer": "Džibrilas (Gabrielius)"
+    },
+    "trial": {
+      "label": "Pagrindinė misija / vaidmuo",
+      "options": [
+        "Apreiškimo perdavimas pranašams",
+        "Trimito pūtimas Teismo dieną",
+        "Saugo pragaro vartus",
+        "Žmonių darbų užrašymas",
+        "Sukelia lietų"
+      ],
+      "answer": "Apreiškimo perdavimas pranašams"
+    },
+    "location": {
+      "label": "Pagrindinis atributas arba pavadinimas",
+      "options": [
+        "Šventoji Dvasia (Ruh al-Qudus)",
+        "Galios dvasia",
+        "Gailestingumo Dvasia",
+        "Vedimo dvasia",
+        "Tiesos Dvasia"
+      ],
+      "answer": "Šventoji Dvasia (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Misijos rezultatas",
+      "options": [
+        "Koranas buvo apreikštas pranašui Muhammadui",
+        "Teismo dieną buvo pūstas trimitas",
+        "Pragaras buvo saugomas, o jo vartai uždaryti",
+        "Darbų knyga buvo pateikta Alachui",
+        "Lietus buvo išsiųstas į žemę"
+      ],
+      "answer": "Koranas buvo apreikštas pranašui Muhammadui"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

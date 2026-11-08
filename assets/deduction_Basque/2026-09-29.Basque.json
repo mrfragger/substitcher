@@ -1,0 +1,61 @@
+{
+  "title": "Mendi Zizelkatuen Profeta",
+  "intro": "Antzinako Arabiako basamortu gogorretan, pertsonaia bat agertu zen bere artisautza apartekoagatik ospetsua zen jendearen artean. Haien etxeak harkaitz sendoetatik altxatzen ziren, baina haien bihotzak zizelkatu zituzten mendiak baino gogorragoak ziren. Jainkozko mezulari bat iritsi zen seinale miragarri bakarrarekin, baina harrotasunak eta desafioak ondorio azkar eta beldurgarriak ekarri zituzten. Identifika al dezakezu suntsipena aukeratu zuen herriaren gidaritza baino gehiago?",
+  "clues": [
+    "Nire herriari ohartarazle gisa bidali ninduten, Jainko Bakarra gurtzera deituz.",
+    "Nire herria arroka formazio ikusgarrien artean bizi zen, etxe bikainak mendi-magalean zizelkatuz.",
+    "Gamelu eme miragarri bat agertu zen harkaitz sendo batetik nire otoitzean, Jainko Ahalguztidunaren seinale argia.",
+    "Gamelu eme honekin ura partekatzeko eta kalterik ez egiteko esan nien nire jendeari.",
+    "Nire herriak gamelu emearen aurka konspiratu eta hankak moztu zigilatu zituen, beren suntsipena zigilatuz.",
+    "Lurrikara izugarri batek jo zuen nire herria, eta geldirik geratu ziren beren etxeetan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Salih profeta",
+        "Hud profeta",
+        "Shu'ayb profeta",
+        "Nuh profeta",
+        "Musa profeta"
+      ],
+      "answer": "Salih profeta"
+    },
+    "trial": {
+      "label": "Zein izan zen epaiketa erabakigarria?",
+      "options": [
+        "Gamelu eme miragarri baten izterreko mina",
+        "Arka handi bat eraikitzen iseka artean",
+        "Faraoi tirano bati aurre egitea",
+        "Su bizian sartuta egotea",
+        "Sabbatuko itunaren haustura"
+      ],
+      "answer": "Gamelu eme miragarri baten izterreko mina"
+    },
+    "location": {
+      "label": "Zein izan zen elementu nagusia?",
+      "options": [
+        "Harkaitzetik atera zen gamelu eme bat",
+        "Egurrezko kutxa handi bat",
+        "Itsasoa zatitu zuen langile batek",
+        "Balea erraldoi bat",
+        "Goian zintzilik dagoen mendi bat"
+      ],
+      "answer": "Harkaitzetik atera zen gamelu eme bat"
+    },
+    "outcome": {
+      "label": "Zein izan zen haien azken patua?",
+      "options": [
+        "Bat-bateko lurrikara zerutik",
+        "Uholde handi batean itota",
+        "Jainkozko aginduz irauli zituzten haien hiriak",
+        "Haize bortitz batek erreta.",
+        "Lurrak irentsia."
+      ],
+      "answer": "Bat-bateko lurrikara zerutik"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

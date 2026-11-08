@@ -1,0 +1,61 @@
+{
+  "title": "Ranar Nunin Ƙarshe",
+  "intro": "An kira su zuwa ga wani gagarumin nuna iko, wani gungun masu fasaha sun ga kansu suna fuskantar wata gaskiya da ba a zata ba wadda za ta canza rayuwarsu har abada.",
+  "clues": [
+    "Mun shahara da sana'armu, ƙwararrun mayaudara da kuma yaudara.",
+    "Mai mulki ya kira mu mu fuskanci wani mai ƙalubalantar da ke riƙe da sanda mai sauƙi.",
+    "Da muka ga gaskiya, sai muka faɗi muna sujada, muna bayyana imani da Ubangijin talikai.",
+    "Azzalumin ya yi mana barazana da hukunci mai tsanani, amma ba mu yi kasa a gwiwa ba.",
+    "Mun kasance cikin waɗanda suka fara gaskata saƙon bayan mun ga alamar da ta bayyana.",
+    "Mun yi shahada saboda imaninmu, amma mu ne za mu fara shiga Aljanna tare da salihai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Masu Sihiri na Fir'auna",
+        "Isra'ilawa",
+        "Mutanen Samudawa",
+        "Almajiran Isa",
+        "Rundunar Abraha"
+      ],
+      "answer": "Masu Sihiri na Fir'auna"
+    },
+    "trial": {
+      "label": "Gwaji / Taro",
+      "options": [
+        "Gasar da Annabi Musa",
+        "Gina Hasumiyar",
+        "Babban Ruwan Tsufa",
+        "Annobar Ƙuru",
+        "Tekun da ke Rarrabawa"
+      ],
+      "answer": "Gasar da Annabi Musa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ranar Biki",
+        "Kwarin Tuwa",
+        "Birnin Iram",
+        "Lambun Dawwama",
+        "Filin Arafat"
+      ],
+      "answer": "Ranar Biki"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An gicciye su a bainar jama'a",
+        "An nutsar da su cikin teku",
+        "An sanya su mabiyan annabi",
+        "An tura su gudun hijira",
+        "Wuta ta cinye su"
+      ],
+      "answer": "An gicciye su a bainar jama'a"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

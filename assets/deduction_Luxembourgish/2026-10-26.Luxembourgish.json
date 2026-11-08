@@ -1,0 +1,61 @@
+{
+  "title": "D'Flüstern am Wand",
+  "intro": "Stellt Iech e Räich vir, wou dat Onsichtbaart an dat Siichtbaart matenee verbonne sinn, an Dir stinn virun enger Figur am Häerz vun engem Kinnekräich, dat anescht ass wéi all aner. Dës Séil besëtzt Wëssen, dat iwwer all gewéinlech Erreechbarkeet erausgeet, a beherrscht Kräften, déi nëmmen anerer sech virstelle kënnen. Awer och déi Mächtegst kënnen vun enger klenger Kreatur demütegt gemaach ginn, an d'Wourecht kann bis zur festgeluechter Zäit verstoppt bleiwen. Wien ass dës Figur, där hiert Ierwen duerch d'Jore widderhallt?",
+  "clues": [
+    "Mir gouf e Kinnekräich ginn, dat no mir keen anere géif hunn.",
+    "Ech hunn Wëssen a Wäisheet vun engem beléiften Elterendeel geierft.",
+    "De Wand war ënner mengem Kommando, a reest op mengem Uerder wou ech wollt.",
+    "Ech konnt d'Sprooch vun de Vigel verstoen, an si hunn a menger Arméi gedéngt.",
+    "Ech krut Neiegkeeten vun engem klenge Vugel iwwer eng Kinnigin, déi d'Sonn ugebiet huet.",
+    "Mäin Doud ass verstoppt bliwwen, bis eng Kreatur vun der Äerd mäi Staff verschlongen huet, an eréischt duerno hunn d'Djinn gemierkt, datt si dat Onsiichtbaart net kannten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Sulayman (Salomo)",
+        "De Prophet Dawud (David)",
+        "Prophet Musa (Moses)",
+        "De Prophet Isa (Jesus)",
+        "De Prophet Noah (Nuh)"
+      ],
+      "answer": "Prophet Sulayman (Salomo)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "De Besuch vun der Kinnigin vu Scheba",
+        "An e Feier gehäit ginn",
+        "D'Mier trennen",
+        "Eng Ark bauen",
+        "Vun engem Wal verschléckt ginn"
+      ],
+      "answer": "De Besuch vun der Kinnigin vu Scheba"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Personal, dee vun enger Kreatur vun der Äerd verbraucht gouf",
+        "De Staff, deen sech an eng Schlaang verwandelt huet",
+        "D'Kamel",
+        "D'Ark",
+        "De Wal"
+      ],
+      "answer": "De Personal, dee vun enger Kreatur vun der Äerd verbraucht gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Säin Doud gouf virum Djinn verstoppt, bis säi Staff giess gouf.",
+        "Hie gouf lieweg an den Himmel opgehuewen",
+        "Hie gouf op dem Kommando vum Allah virum Feier gerett",
+        "Hie krut d'Tora",
+        "Hie gouf virum Wal gerett"
+      ],
+      "answer": "Säin Doud gouf virum Djinn verstoppt, bis säi Staff giess gouf."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

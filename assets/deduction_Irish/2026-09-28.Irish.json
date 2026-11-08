@@ -1,0 +1,61 @@
+{
+  "title": "An tAon Réalta Déag a Chrom",
+  "intro": "Bronnadh fís dhomhain ar dhuine ón gCorán ina óige — aisling faoi chomhlachtaí neamhaí ag cromadh in ómós. Rachadh blianta thart trí bhrath, scaradh, cúiseamh bréagach, agus príosúnacht sula dtiocfadh an fhís seo i gcrích. Cé hé an t-anam seasmhach seo a bhfuil a scéal sa chaibidil is faide den Chorán?",
+  "clues": [
+    "Bhí mé óg tráth, beannaithe le brionglóid iontach a thug m’athair féin rabhadh dom a choinneáil faoi rún.",
+    "Rinne mo dheartháireacha féin, dallta ag éad, comhcheilg i mo choinne agus chaith siad mé i dtobar domhain, dorcha.",
+    "Tugadh go tír i bhfad i gcéin mé agus díoladh mé i dteach oifigigh uasail, áit ar fuair mé fabhar agus ar ardaigh mé i gcúram.",
+    "Mar thoradh ar chúiseamh bréagach, cuireadh i bpríosún mé go héagórach, ach san áit dhorcha sin fuair mé sólás i paidir agus i n-umhlaíocht d’Allah.",
+    "Bheannaigh Allah mé leis an gcumas neamhchoitianta chun brionglóidí a léirmhíniú, rud a thug mé os comhair rialóir na tíre sa deireadh agus a d’ardaigh mé go dtí post ard muiníne.",
+    "Tar éis blianta fada scartha, athcheangail mé le mo theaghlach dílis, agus comhlíonadh mo bhrionglóid óige faoi dheireadh go raibh aon réalta déag, an ghrian, agus an ghealach ag cromadh dom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Iósaf",
+        "Fáidh Salih",
+        "An Fáidh Ilyas",
+        "Tubba', rialóir Himyar ársa",
+        "Aoire umhal ó chnoic na Palaistíne"
+      ],
+      "answer": "Fáidh Iósaf"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á chaitheamh isteach i dtobar domhain, dorcha ag deartháireacha éadmhara",
+        "Á shlogadh ag créatúr mór na bhfarraigí doimhne",
+        "Á chaitheamh isteach i tine lasrach ag idoladhróirí",
+        "Á scuabadh ar shiúl ag gaoth dhiaga scriosta",
+        "Ag maireachtáil tuile mhóir a chlúdaigh an tír ar fad"
+      ],
+      "answer": "Á chaitheamh isteach i dtobar domhain, dorcha ag deartháireacha éadmhara"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tobar tirim san fhásach inar tréigeadh mé",
+        "Iasc mór na bhfarraigí doimhne",
+        "Áirc ollmhór tógtha ar ordú Dé",
+        "Túr tógtha chun na flaithis a bhaint amach",
+        "Tine naofa nár dhóigh"
+      ],
+      "answer": "Tobar tirim san fhásach inar tréigeadh mé"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Athaontaíodh lena theaghlach tar éis blianta scaradh agus rinneadh ministir iontaofa de",
+        "Threoraigh mé mór-eascáid mo mhuintire trasna farraige scoilte",
+        "Thug rabhadh do mo náisiún faoin tubaiste atá ar tí tarlú a d'ith iad",
+        "Thóg sé teach naofa a d’éirigh ina thearmann do chách",
+        "Tháinig slán sábháilte as bolg créatúir mhóir tar éis trí lá"
+      ],
+      "answer": "Athaontaíodh lena theaghlach tar éis blianta scaradh agus rinneadh ministir iontaofa de"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

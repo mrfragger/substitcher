@@ -1,0 +1,61 @@
+{
+  "title": "Te Rerenga Mokemoke",
+  "intro": "I roto i ngā pukapuka o te manaakitanga atua, kei reira tētahi wairua parakore e kore e rite, kua wehea mai i ō rātou iwi ki te rapu i te mokemoke i te huarahi tapu. Kāore rātou i mōhio ka puta mai i tēnei mokemoke he tohu mō ngā ao katoa, he whakamātautau whakapono ka kōrerotia mō ake tonu atu.",
+  "clues": [
+    "I whakatapua ahau ki tētahi oranga mahi pononga i mua i tōku whānautanga.",
+    "I tukuna ahau ki raro i te mana tiaki o tētahi poropiti rangatira.",
+    "I tautokona ahau e ngā kai a Allah, ā, i miharo taku kaitiaki.",
+    "I mawehe atu ahau i tōku whānau ki tētahi wāhi ki te rawhiti.",
+    "I puta mai tētahi anahera ki ahau i roto i te āhua o tētahi tangata tino tika, me te kawe mai i te rongo mō tētahi tama parakore.",
+    "I taku hokinga mai me taku pēpi hou, ka whakapae mai tōku iwi ki ahau, engari i kōrero te pēpi hei tiaki i ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Meri (Mēri)",
+        "Āhia (te wahine a Parao)",
+        "Hajar (whaea o Ismail)",
+        "Hera (wahine a Ibrahim)",
+        "Te whaea o Musa"
+      ],
+      "answer": "Meri (Mēri)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te haputanga merekara me te whānautanga o te tama",
+        "Te maka ki roto i te ahi",
+        "Te horomia e te ika nui",
+        "Te hanga i tētahi āka nui",
+        "Te whiti i te moana"
+      ],
+      "answer": "Te haputanga merekara me te whānautanga o te tama"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He wāhi motuhake ki te rawhiti",
+        "Te rakau e mura ana",
+        "Te Moana Whero",
+        "Te kohatu i pupū mai ai te wai",
+        "Te tohorā"
+      ],
+      "answer": "He wāhi motuhake ki te rawhiti"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I kōrero te pēpi hei tiaki i te whaea",
+        "I wehea te moana",
+        "I mātao te ahi, ā, i haumaru hoki",
+        "I ruaki te tohorā ki uta",
+        "I tau te āraka ki runga i te maunga"
+      ],
+      "answer": "I kōrero te pēpi hei tiaki i te whaea"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

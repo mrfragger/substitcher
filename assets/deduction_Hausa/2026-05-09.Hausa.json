@@ -1,0 +1,61 @@
+{
+  "title": "Lambunan Wadata Masu Shuɗewa",
+  "intro": "A cikin ƙasar da aka albarkace ta da yalwar arziki, al'umma ta bunƙasa, tana rayuwa a cikin alamun alherin Allah. Arzikinsu shaida ne na yardar Ubangijinsu, kyauta da aka yi niyya don ƙarfafa godiya da biyayya. Duk da haka, duk da alamun albarkar da suka samu, wani sauyi ya zo, yana ƙalubalantar godiyarsu ga tushen arzikinsu da jin daɗinsu mai yawa.",
+  "clues": [
+    "Mun sami albarkar lambuna biyu, ɗaya a dama ɗaya kuma a hagu, cike da amfanin gona.",
+    "An umurce mu da mu ci daga arzikin Ubangijinmu kuma mu gode masa saboda ƙasa mai kyau da Ubangiji mai gafara.",
+    "Mun yi girman kai muka juya daga hanyar godiya, muna alfahari da dukiyarmu da ikonmu.",
+    "Mun roƙi Ubangijinmu ya ƙara nisan da ke tsakanin tafiye-tafiyenmu, yana nuna rashin jin daɗin da ya bayar.",
+    "Wani manzo ya yi mana gargaɗi, amma muka ƙi saƙon muka ci gaba da sakaci.",
+    "Babban madatsar ruwanmu, wadda ta ci gaba da samar da wadatarmu, a ƙarshe ta karye, wanda ya haifar da ambaliyar ruwa mai tsanani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Samudawa",
+        "Mutanen Midiyana",
+        "Mutanen 'Ad",
+        "Mutanen Lutu",
+        "mutanen Saba"
+      ],
+      "answer": "mutanen Saba"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Yunwa da fari",
+        "Mamayar da wata babbar runduna ta yi",
+        "Girgizar ƙasa mai tsanani",
+        "Ambaliyar ruwa daga madatsar ruwa da ta fashe",
+        "Zalunci daga azzalumi mai mulki"
+      ],
+      "answer": "Ambaliyar ruwa daga madatsar ruwa da ta fashe"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ɗan maraƙi na zinariya",
+        "Raƙumi mai ban mamaki",
+        "Babban madatsar ruwa",
+        "Gine-gine mai tsayi",
+        "Rijiya mai zurfi"
+      ],
+      "answer": "Babban madatsar ruwa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An rikide mu zuwa birai da aladu",
+        "An cece mu kuma aka yi ƙaura zuwa sabuwar ƙasa",
+        "Mun warwatse kuma ƙasarmu ta zama ba kowa",
+        "Mun hau zuwa sama",
+        "Mun gina sabuwar masarauta mai wadata"
+      ],
+      "answer": "Mun warwatse kuma ƙasarmu ta zama ba kowa"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

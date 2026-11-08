@@ -1,0 +1,61 @@
+{
+  "title": "Pe Criatura Sagrada Prueba",
+  "intro": "Oñemondo peteĩ señal peteĩ tetã okañy vaʼekuépe. Hekove cómodo mbytépe ou peteĩ advertencia —omoirũva peteĩ criatura hechapyrãva oikótavagui pe prueba paha ijerovia rehegua. Imbohovái osella va’erãmo’ã idestino tapiaite ĝuarã. ¿Ikatu piko reikuaa mávapa ome’ẽ ko advertencia ha mba’épa oiko umi ombotovévagui?",
+  "clues": [
+    "Ore ha’eva’ekue peteĩ pueblo oisãmbyhýva’ekue umi mensajero yma guare ore mboyve.",
+    "Peteĩ tekove iporãitereíva osẽ pe yvytygui, peteĩ señal ñande Ruvichagui ko tetãme ĝuarã.",
+    "Che ha’e chupekuéra: ‘Kóva ha’e peteĩ kaméllo kuña Allah mba’éva, upévare peheja chupe ho’u Allah yvygui ha ani pepoko hese mba’eve’.",
+    "Ha katu umi tavaygua oinupã che kaméllo kuña, odefiendevo Ijára rembiapoukapy.",
+    "Che ha’énte peteĩ mensajero pende Ruvichagui, oñemondova’ekue pe añetegua reheve—che ha’e peteĩ profeta ha tembiguái ojeroviakuaáva.",
+    "Umi mba’evai apoha katu, ñande Ruvicha oinupã chupekuéra peteĩ tyapu arasunu reheve, ha omýi’ỹre hógape."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mávapa che?",
+      "options": [
+        "Profeta Hud umi tapicha A'ad-gua",
+        "Profeta Salih tavayguakuéra Thamud-gua",
+        "Profeta Shu'aib Madián-gua",
+        "Profeta Lut Sodoma retãygua",
+        "Profeta Nuh del Arca"
+      ],
+      "answer": "Profeta Salih tavayguakuéra Thamud-gua"
+    },
+    "trial": {
+      "label": "Juicio/Evento rehegua",
+      "options": [
+        "Pe Dilúvio ombohypa vaʼekue peteĩ tetã ndogueroviáivape",
+        "Pe yvyryrýi ohundíva peteĩ siuda pekadór",
+        "Pe kaméllo kuña oñemondova’ekue peteĩ señal ha prueba divina ramo",
+        "Pe torménta okastiga vaʼekue umi hénte Madiánpe",
+        "Lot retãygua oñehundi itápe"
+      ],
+      "answer": "Pe kaméllo kuña oñemondova’ekue peteĩ señal ha prueba divina ramo"
+    },
+    "location": {
+      "label": "Elemento Clave rehegua",
+      "options": [
+        "Táva Sodoma oĩva Jordán ñúme",
+        "Pe valle Al-Hijr oĩva Hijaz ha Siria mbytépe",
+        "Yvy yma guare A'ad oĩva Arabia ñemby gotyo",
+        "Umi kaʼaguy oĩva Madiánpe oĩva mar Rojo ypýpe",
+        "Umi llanura oĩva Mónte Judípe, oĩva Mesopotamiape"
+      ],
+      "answer": "Pe valle Al-Hijr oĩva Hijaz ha Siria mbytépe"
+    },
+    "outcome": {
+      "label": "Sẽ",
+      "options": [
+        "Ojesalva hikuái oñearrepenti ha oguerovia rire",
+        "Peteĩ ita ama ohundipaite chupekuéra",
+        "Peteĩ tyapu arasunu oinupã chupekuéra omýi’ỹre",
+        "Ogueraha chupekuéra peteĩ yvytu hatã",
+        "Peteĩ yvyryrýi omokõ chupekuéra yvýpe"
+      ],
+      "answer": "Peteĩ tyapu arasunu oinupã chupekuéra omýi’ỹre"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

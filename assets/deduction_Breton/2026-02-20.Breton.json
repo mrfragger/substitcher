@@ -1,0 +1,61 @@
+{
+  "title": "Test an tan",
+  "intro": "Un den pouezus, gouestlet da zizoleiñ ar gwirvoud diwezhañ, a grogas gant ur veaj dizoloadenn speredel. O c'hredenn dic'hortoz a lakaas anezho da stourm ouzh ar reolennoù staliet, o c'houzañv prosezoù bras a amproue harzoù ar feiz. Istor an ene-mañ a zo un testeni eus gwarez ha skoazell doueel.",
+  "clues": [
+    "Benniget on bet gant un titl dibar digant ma Aotrou, ar pezh a dalvez ul liamm don hag ispisial.",
+    "Tremenet em eus ma buhez kentañ e-touez ur bobl a stoue dirak skeudennoù savet, met ma c'halon a c'hoantae an Doue Gwir Unan.",
+    "Sellout a ran ouzh ar c'horfoù-oabl, ouzh an heol, al loar hag ar stered, o prederiañ war o sav hag o diskar, o soñjal ne c'hellfent ket bezañ va Aotrou.",
+    "Evit enebiñ ouzh al liesdoueegezh ledan, em eus enebet ouzh an doueed faos, o lezel unan brasoc'h, digenvez, evel un tamaller didrouz.",
+    "Ma c'hwitadenn ouzh an idolatriezh a gasas din ur c'hastiz kalet, rak kondaonet e oan bet da vezañ taolet en un ifern fuloret.",
+    "Koulskoude, dre c'hourc'hemenn ma C'hrouer, e oa bet treuzfurmet ar flammoù kreñv en ur vammenn freskder ha surentez, o virout ma buhez."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Musa",
+        "Profed Nuh",
+        "Ar profed Ibrahim",
+        "Ar profed Isa",
+        "Ar profed Yusuf"
+      ],
+      "answer": "Ar profed Ibrahim"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Treuziñ ar Mor Ruz",
+        "Al liñvadenn",
+        "Sakrifis ur Mab",
+        "An taol-tan",
+        "Kof ar balum"
+      ],
+      "answer": "An taol-tan"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "An Arc'h",
+        "Ar skipailh",
+        "An drompilh",
+        "An tan",
+        "Ar Puñs"
+      ],
+      "answer": "An tan"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Kaset an dud da lec'h sur",
+        "Heritet ur rouantelezh vras",
+        "Lonket gant ur pesk",
+        "Saveteet eo bet diouzh an tan",
+        "Resevet an tablezennoù"
+      ],
+      "answer": "Saveteet eo bet diouzh an tan"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

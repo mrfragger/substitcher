@@ -1,0 +1,61 @@
+{
+  "title": "Ang Totoong Tinig ng Sinaunang Panahon",
+  "intro": "May isang kaluluwa sa Quran na ang kwento ay isinalaysay sa ilang talata lamang, ngunit ang kanilang mga marangal na katangian ay nagniningning nang may napakaliwanag na liwanag. Pinupuri ng Makapangyarihan sa lahat para sa isang natatanging birtud, ang sinaunang lingkod na ito ng Pinakamaawain ay may hawak na lugar sa mga pahina ng rebelasyon. Ang iyong gawain ay tukuyin ang kahanga-hangang pigurang ito. Mahuhulaan mo ba kung sino sila?",
+  "clues": [
+    "Ako ay isang propeta ng Allah na nabuhay kasama ng mga unang henerasyon ng sangkatauhan.",
+    "Binanggit ako ng Allah sa Kanyang Aklat kasama ng ibang mga propeta, na lahat ay pinuri dahil sa parehong marangal na kabutihan.",
+    "Ako ay inilarawan bilang isang taong tapat sa Quran.",
+    "Itinaas ako ng Allah sa isang mataas na antas na kakaunti lamang ang nakamit ng iba.",
+    "Ang pangalan ko ay nabanggit sa Surah Al-Anbiya, kasama ng dalawa pang propeta na pinuri dahil sa kanilang pagtitiis.",
+    "Ako si Idris, ang tapat at dakila na propeta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Idris",
+        "Propeta Noah",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Ismail"
+      ],
+      "answer": "Propeta Idris"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagpapanatili ng pasensya at katapatan, pagkatapos ay itataas sa isang mataas na antas",
+        "Paggawa ng isang malaking arka upang iligtas ang mga mananampalataya mula sa isang mapaminsalang baha",
+        "Itinapon sa nagliliyab na apoy at lumabas nang walang anumang pinsala",
+        "Pagharap sa isang makapangyarihang hari at pagtalo sa kanyang hukbo ng mga salamangkero",
+        "Nabubuhay sa loob ng tiyan ng isang malaking isda sa kailaliman ng dagat"
+      ],
+      "answer": "Pagpapanatili ng pasensya at katapatan, pagkatapos ay itataas sa isang mataas na antas"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang mataas at mataas na katayuan sa paningin ng Allah",
+        "Isang napakalaking barkong gawa sa mga tabla at binalutan ng alkitran",
+        "Isang nagliliyab na apoy na pinagaalab ng mga sumasamba sa diyus-diyosan ng isang masamang hari",
+        "Isang malawak na dagat na nahati sa mga tuyong landas",
+        "Ang madilim na tiyan ng isang malaking balyena sa ilalim ng karagatan"
+      ],
+      "answer": "Isang mataas at mataas na katayuan sa paningin ng Allah"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Tinanggap sa awa ng Allah bilang isa sa mga matuwid",
+        "Naligtas kasama ng lahat ng mananampalataya mula sa isang pandaigdigang baha",
+        "Lumabas mula sa apoy na hindi naaapektuhan ng apoy",
+        "Ligtas na inakay ang mga anak ni Israel patungo sa kalayaan patawid ng dagat",
+        "Muling nakasama ang kanilang minamahal na pamilya pagkatapos ng mahabang taon ng paghihirap"
+      ],
+      "answer": "Tinanggap sa awa ng Allah bilang isa sa mga matuwid"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

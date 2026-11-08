@@ -1,0 +1,61 @@
+{
+  "title": "A türelem, ami túlélte a bánatot",
+  "intro": "Egy idős ember, akinek a türelme legendássá vált, akinek a látása elhalványult a bánattól, mégis akinek az isteni tervbe vetett hite soha nem ingott meg. Ez a személy látta, ahogy tizenkét fia törzsek alapjaivá válik, elszenvedte egy szeretett gyermek fájdalmas elvesztését, és a gyönyörű türelem időtlen szimbólumává vált a nyomasztó gyász közepette. Egy tisztelt lélek, akinek a történetét a kinyilatkoztatás lapjain mesélik el. Felismered ezt a személyt a Koránból?",
+  "clues": [
+    "Próféta voltam, akinek a történetét részletesen elmeséli a Korán egyik fő szúrája.",
+    "Tizenkét fiam volt, akik Izrael báni törzseinek atyái lettek.",
+    "Azt mondtam a fiaimnak, hogy különböző kapukon menjenek be, nehogy egyetlen népnek ismerjék fel őket.",
+    "Szemem kifehéredett a szüntelen sírástól egy szeretett gyermek felett, akit elvettek tőlem.",
+    "Nem voltam hajlandó kétségbeesni, még akkor sem, amikor a többi fiam erre biztattak, mondván, hogy csak Allahnak panaszkodom.",
+    "Én vagyok Júszuf próféta apja, akinek a neve arabul azt jelenti, hogy „a gyarapító”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Jakub próféta (Jákob)",
+        "Juszuf próféta",
+        "Ibrahim próféta",
+        "Mózes próféta",
+        "Dawud próféta"
+      ],
+      "answer": "Jakub próféta (Jákob)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy szeretett fiú elvesztése egy kútnál",
+        "A nagy árvíz, amely egy egész népet elsöpört",
+        "A tűzimádó királyságból való vándorlás",
+        "Összecsapás Egyiptom hatalmas zsarnokával",
+        "A száműzetés egy bálna gyomrába"
+      ],
+      "answer": "Egy szeretett fiú elvesztése egy kútnál"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy művérrel foltos ing",
+        "Egy kígyóvá változott személyzet",
+        "Egy hegyre épített bárka",
+        "Egy sziklából faragott nőstény teve",
+        "Egy aranyborjú"
+      ],
+      "answer": "Egy művérrel foltos ing"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Visszanyerte a látást, amikor szeretett fia arcára tették az ingét",
+        "Üdvösség, miután egy nagy hal gyomrába vetették",
+        "A Khalilullah cím átvétele Allahtól",
+        "Átkelni a tengeren egy rabszolgaságból megszabadult néppel",
+        "A remény jeleként megjelenő szivárvány az özönvíz után"
+      ],
+      "answer": "Visszanyerte a látást, amikor szeretett fia arcára tették az ingét"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

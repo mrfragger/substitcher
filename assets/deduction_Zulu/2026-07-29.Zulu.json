@@ -1,0 +1,61 @@
+{
+  "title": "Ukuphishekela Inkantolo",
+  "intro": "Emaphasejini amandla, umuntu onesikhundla esiphakeme wathandana nenceku eyayinobuhle obuhlukile. Lokhu kuthandana kwaholela ochungechungeni lwezehlakalo ezazizovivinya ukwethembeka, zembule amaqiniso afihliwe, futhi ekugcineni ziqinisekise ubumsulwa benceku.",
+  "clues": [
+    "Bengihlala ezweni laseNayile, esigodlweni esinethonya elikhulu.",
+    "Insizwa ethile yangena endlini yami, futhi ukuba khona kwayo kwangiphazamisa.",
+    "Ngazama ukumyenga, kodwa wafuna isiphephelo eNkosini yakhe.",
+    "Ngaklebhula ingubo yakhe ngemuva, kodwa ubufakazi bakhomba ekukhohliseni kwami.",
+    "Ukuze ngithulise inhlebo yabesifazane abahloniphekile, ngabamema embuthanweni futhi ngababeka izinto ezibukhali ezandleni zabo.",
+    "Ekugcineni, ngavuma obala iphutha lami, ngavuma iqiniso phambi kwenkosi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umfazi ka-Al-Aziz",
+        "U-Asiya (UmkaFaro)",
+        "UBilqis (iNdlovukazi yaseSheba)",
+        "UMaryam (Umama ka-Isa)",
+        "Umama kaMusa"
+      ],
+      "answer": "Umfazi ka-Al-Aziz"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wazama ukuyenga uMprofethi uYusuf",
+        "Wazama ukubulala uMprofethi uMusa",
+        "Wayethi ungunkulunkulukazi",
+        "Wakha umbhoshongo ukuze aphonsele u-Allah inselelo",
+        "Wahola ibutho ngokumelene neMakkah"
+      ],
+      "answer": "Wazama ukuyenga uMprofethi uYusuf"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ihembe elidabukile ngemuva",
+        "Ithole legolide",
+        "Induku eyaphenduka inyoka",
+        "Ikamela lensikazi",
+        "Isibani"
+      ],
+      "answer": "Ihembe elidabukile ngemuva"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wavuma futhi wavuma iqiniso",
+        "Waminza nebutho lakhe",
+        "Waphenduka insika kasawoti",
+        "Wagwinywa umhlaba",
+        "Wabhujiswa umoya ovunguzayo"
+      ],
+      "answer": "Wavuma futhi wavuma iqiniso"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

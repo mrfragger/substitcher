@@ -1,0 +1,61 @@
+{
+  "title": "Doğal Düzene Meydan Okuyan Millet",
+  "intro": "Hikâyesi çağlar boyunca yankılanan bir bölgede, bir topluluk iffet yasalarına karşı açık bir isyan içinde yaşadı. Yaptıkları o kadar eşi benzeri görülmemişti ki, tüm insanlık için bir uyarı olarak hatırlanıyorlar. Bu ruhlar kimdi ve onları hangi kader bekledi?",
+  "clues": [
+    "Bizler, yolcuların sık sık geçtiği bir güzergah üzerindeki bir diyarda yaşadık, ancak onların yolculuklarını tehlikeli hale getirdik.",
+    "Dünyada daha önce kimsenin yapmadığı türden ahlaksızlıklar işledik.",
+    "Aramızdan bir elçi bize yollarımızdan dönmemizi söyledi, fakat biz onu reddettik ve eğer doğru söylüyorsa cezalandırılmasını istedik.",
+    "Şehrimize yakışıklı misafirler geldiğinde, onların yıkım habercileri olduklarını bilmeden onlara saldırmaya çalıştık.",
+    "Eğer bu günahtan vazgeçmezsek korkunç bir cezayla karşılaşacağımız konusunda uyarıldık, ancak biz bu uyarıyı hiçe saydık ve günahımızda kaldık.",
+    "Gökyüzünden üzerimize taş yağdı ve evlerimiz yerle bir oldu; geriye sadece düşünenler için bir iz kaldı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Lut halkı",
+        "Thamud Halkı",
+        "A'ad halkı",
+        "Madyan halkı",
+        "Saba halkı"
+      ],
+      "answer": "Lut halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Eşi benzeri görülmemiş ahlaksızlıklar işlediler ve yolları tıkadılar.",
+        "Altın buzağıya tapıyordu.",
+        "Kutsal dişi deveyi öldürdü.",
+        "Ticarette hile yaptılar ve halkı dolandırdılar.",
+        "Gökyüzüne meydan okuyacak görkemli bir kule inşa etti."
+      ],
+      "answer": "Eşi benzeri görülmemiş ahlaksızlıklar işlediler ve yolları tıkadılar."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yakışıklı misafir kılığına girmiş melekler",
+        "Kayadan çıkan dişi bir deve",
+        "Bir asa yılan şekline dönüşüyor.",
+        "Dağ üzerine inşa edilmiş bir tekne.",
+        "Soğuyup huzur bulan bir ateş"
+      ],
+      "answer": "Yakışıklı misafir kılığına girmiş melekler"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Gökyüzünden yağan taş yağmuruyla yerle bir edildi.",
+        "Toprak tarafından yutuldu",
+        "Büyük bir selde boğuldu",
+        "Çığlık atan bir patlamayla sarsıldı",
+        "Maymunlara dönüştürüldüler"
+      ],
+      "answer": "Gökyüzünden yağan taş yağmuruyla yerle bir edildi."
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

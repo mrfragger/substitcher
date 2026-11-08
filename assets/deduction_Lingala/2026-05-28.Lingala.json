@@ -1,0 +1,61 @@
+{
+  "title": "Mobɛli Mobɛli oyo azali kotɛngatɛnga te",
+  "intro": "Na mikanda ya kala ya lisolo ya esakweli, bato moke nde bayikaki mpiko na bobungisi monene boye mpe mpasi ya nzoto na kondima oyo ekoki koningana te. Lisolo ya motángo oyo ezali liteya oyo eumelaka te na ntina na motema molai mpe kotyela mayele ya Nzambe motema. Molimo oyo ezali nani?",
+  "clues": [
+    "Naponama na Allah mpo na kopesa nsango, kasi momekano na ngai ya monene eyaki te na nzela ya koboya, kasi na nzela ya likama ya moto ye moko.",
+    "Bozwi na ngai, bibwele na ngai, mpe bana na ngai elongolamaki epai na ngai, moko nsima na mosusu.",
+    "Nzoto na ngai ezipamaki na bampota, mpe natikalaki ngai moko longola kaka lisungi ya molongani na ngai.",
+    "Nagangaki epai ya Nkolo na ngai, kondimaka mpasi na ngai mpe kolukaka ngolu na Ye.",
+    "Bapesaki ngai malako ete nabɛta mabele na lokolo na ngai, mpe liziba moko ya kopema ebimaki.",
+    "Allah azongisaki santé na ngai mpe apesaki ngai libota ya sika mpe kutu bomengo mingi koleka oyo nazalaki na yango liboso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ayyuub",
+        "Mosakoli Ibrahim",
+        "Mosakoli Musa",
+        "Mosakoli Yis",
+        "Mosakoli Nuh"
+      ],
+      "answer": "Mosakoli Ayyuub"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobungisa bozwi mpe libota",
+        "Kobwakama na mɔtɔ",
+        "Komelama na mbisi",
+        "Kokabwana na libota mpe kotekama na boombo",
+        "Komekama na mwana ya ngɔmbɛ ya wolo"
+      ],
+      "answer": "Kobungisa bozwi mpe libota"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Liziba ya mai",
+        "Nzete oyo ebongwanaki nyoka",
+        "Masuwa moko ya mabaya",
+        "Mwana ya ngɔmbɛ oyo enyangwaki",
+        "Nzete ya mbila"
+      ],
+      "answer": "Liziba ya mai"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Kozongisama ya libota mpe bozwi",
+        "Komata na likoló",
+        "Kokoma mokonzi",
+        "Kobikisama na baleine moko",
+        "Koyamba mwana mobali na bobange"
+      ],
+      "answer": "Kozongisama ya libota mpe bozwi"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

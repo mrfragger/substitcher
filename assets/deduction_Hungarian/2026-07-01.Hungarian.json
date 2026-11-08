@@ -1,0 +1,61 @@
+{
+  "title": "A névtelen lélek, aki egy igazságtalan nemzettel szemben állt",
+  "intro": "A Korán lapjain olyan személyek szerepelnek, akiknek a nevét eltitkolták, hogy elgondolkodhassunk a tanulságaikon. Egy ilyen lélek egy olyan nemzetben született, amely elutasította hírnökeit, mégis ez az egyén rejtett hittel rendelkezett, amely megkülönböztette őket. Amikor a pusztulás fenyegetett, ez a személy szilárdan kitartott titkos meggyőződése mellett. Vajon fel tudod fedezni ennek a titokzatos alaknak a kilétét, aki figyelmezteti népét, mielőtt eljön a végső ítélet?",
+  "clues": [
+    "Egy olyan nép között éltem, amely ismételten megtagadta Allah küldötteit.",
+    "Nemzetemmel ellentétben én felismertem az igazságot, amikor egy küldött érkezett Uramtól származó egyértelmű jelekkel.",
+    "Elrejtettem a hitemet az elnyomóim elől, tudván, hogy ártani fognak nekem, ha felfedezik a meggyőződésemet.",
+    "Amikor közeledett a büntetés parancsa, nyíltan kijelentettem hűségemet, és figyelmeztettem népemet, hogy mentsék meg magukat.",
+    "Emlékeztettem őket, hogy megbízható küldött vagyok, semmiben sem különbözöm a korábban küldöttektől, és hogy Allahon kívül senkit sem szabad imádniuk.",
+    "Az embereim varázslattal és őrülettel vádoltak, mégis a büntetés, amire figyelmeztették őket, végül utolérte őket."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Hud próféta, Aad népének hírnöke",
+        "Egy hívő férfi Hud próféta nemzetéből, aki mártírhalált halt",
+        "Aad népének uralkodója, aki elutasította az igazságot",
+        "Szálih próféta társa, aki kételkedett az isteni jelekben",
+        "Egy angyalt küldtek, hogy elpusztítsa Aad népét"
+      ],
+      "answer": "Egy hívő férfi Hud próféta nemzetéből, aki mártírhalált halt"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az aszály és az éhínség megpróbáltatásai, amelyek próbára tették türelmüket",
+        "A hitvallás próbája egy elnyomó, hitetlen nemzet előtt",
+        "Egy nagy árvíz elől menekülő hajó építésének próbája",
+        "A tűzbe dobás próbatétele Allahba vetett hitért",
+        "A gazdagság és a jólét próbája"
+      ],
+      "answer": "A hitvallás próbája egy elnyomó, hitetlen nemzet előtt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Mekka városa, ahol a szent házat építették",
+        "A nemzet sivatagos síkságai, melyek megtagadták hírnöküket",
+        "Midián hegyei, ahová Su'aib prófétát küldték",
+        "Egyiptom folyópartja, ahol Mózes prófétát megtalálták",
+        "Aad népének völgyét heves szél sújtotta"
+      ],
+      "answer": "A nemzet sivatagos síkságai, melyek megtagadták hírnöküket"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egy hajón menekültem meg, és addig éltem, amíg Allah akarta.",
+        "Az én népem hitt utánam, és az egyenes útra vezettetett",
+        "A népem megölt, de a lelkemet Allah irgalma elvitte.",
+        "Megbántam a próbák után, és Allah elfogadta a bűnbánatomat.",
+        "Halálom után bálvánnyá változtam, amelyet népem imádott"
+      ],
+      "answer": "A népem megölt, de a lelkemet Allah irgalma elvitte."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

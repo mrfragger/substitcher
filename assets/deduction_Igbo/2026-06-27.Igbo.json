@@ -1,0 +1,61 @@
+{
+  "title": "Enweghị Nsọ",
+  "intro": "E wezụga ájá oge ochie, e nwere akụkọ banyere nraranye na ntụkwasị obi siri ike nke na mkpụrụ obi bu ya gaara emebi. N'oge ndị mmadụ tụgharịrị gaa n'ihe nzuzu na ọlaedo, otu onye guzosiri ike—na-akpọghachi ha azụ, na-arịọ maka ndidi, ma na-ebu ibu arọ nke nkwa dị nsọ. Nke a bụ akụkọ nke onye a họpụtara dị ka onye enyemaka, onye nlekọta, na onye nche okwukwe n'oge ọnụnọ dị nsọ. Ị nwere ike ịchọpụta njirimara nke mkpụrụ obi a siri ike?",
+  "clues": [
+    "M na-ekerịta ọbara nke onye amụma ukwu a họpụtara ka ọ gwa Allah okwu kpọmkwem n'elu ugwu dị nsọ.",
+    "Nwanne m nwoke rịọrọ Allah maka enyemaka iji gwa onye mmegbu dị ukwuu okwu nke ọma.",
+    "Allah họpụtara m ka m guzoro n'akụkụ nwanne m nwoke dịka onye enyemaka na onye nlekọta.",
+    "Anyị zutere otu onye ọchịchị aka ike nke kwuru ka a kpọọ ya chi kachasị elu.",
+    "Mgbe nwanne m nwoke na Allah na-akparịta ụka n'elu ugwu ahụ, ndị anyị kpụrụ onwe ha arụsị site na ọlaedo ha.",
+    "Abụ m nwanne Mozis, nke Allah họpụtara dịka onye nlekọta ya, aha m kpọkwara aha ya na Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Harọn (Earon)",
+        "Onye Amụma Mozis",
+        "Onye Amụma Devid",
+        "Onye Amụma Jekọb",
+        "Onye Amụma Ishak"
+      ],
+      "answer": "Onye Amụma Harọn (Earon)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Nsogbu Ofufe Nwa Ehi",
+        "Oké Iju Mmiri nke Nuh",
+        "Agha Badr",
+        "Mbibi nke Temọd",
+        "Mbibi nke Sọdọm"
+      ],
+      "answer": "Nsogbu Ofufe Nwa Ehi"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Nwa Ehi Ọlaedo ahụ",
+        "Ụgbọ Noa",
+        "Osisi Na-ere Ọkụ",
+        "Ọgba Hira",
+        "Ocheeze Sheba"
+      ],
+      "answer": "Nwa Ehi Ọlaedo ahụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Allah kwadoro ịdị ọcha",
+        "Mmiri nke Fero",
+        "Ụlọ nke Kaaba",
+        "Ngafe Oké Osimiri n'enweghị nsogbu",
+        "Ịrịgo n'eluigwe"
+      ],
+      "answer": "Allah kwadoro ịdị ọcha"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Suveranul care a cerut divinitate",
+  "intro": "Un conducător puternic și arogant credea că nimeni nu se afla deasupra tronului său. Au urmărit un grup care fugea pe o vastă întindere de apă, doar pentru a avea parte de un sfârșit dramatic. Povestea acestui suveran răsună în multe pasaje din Coran, servind drept avertisment pentru toți.",
+  "clues": [
+    "Am fost un conducător puternic care credea că nicio autoritate nu o depășea pe a mea în ținuturile pe care le guvernam.",
+    "Am avut un vizir de încredere pe nume Haman, care m-a ajutat să realizez proiecte arhitecturale grandioase.",
+    "I-am chemat pe cei mai buni magicieni din țara mea să provoace semnele unui mesager care mi se opunea.",
+    "Am refuzat să las un popor înrobit în tărâmul meu să plece, în ciuda urgiilor și avertismentelor clare.",
+    "I-am urmărit peste o mare întinsă cu întreaga mea oaste și cu carele mele.",
+    "Chiar acea mare s-a închis peste mine și trupele mele, înecându-ne pe toți, în timp ce ei traversau în siguranță."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Fir'awn (Faraon)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Faraon)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Plagi și confruntare cu Musa (Moise)",
+        "Construirea unei arce înainte de un mare potop",
+        "Bătălia împotriva lui Jalut în vale",
+        "Înghițit de o balenă",
+        "Apărarea ponderilor comerciale echitabile"
+      ],
+      "answer": "Plagi și confruntare cu Musa (Moise)"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Turnuri înalte și țăruși",
+        "O mare arcă de lemn",
+        "Un vițel de aur",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O balenă masivă"
+      ],
+      "answer": "Turnuri înalte și țăruși"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Înecat în mare cu armata",
+        "Salvat prin mila și răbdarea lui Allah, răsplătit",
+        "Reîntâlnit cu familia după ani de greutăți",
+        "Înghițit de pământ",
+        "Ars într-un incendiu"
+      ],
+      "answer": "Înecat în mare cu armata"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

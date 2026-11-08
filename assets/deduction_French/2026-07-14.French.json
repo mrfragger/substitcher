@@ -1,0 +1,61 @@
+{
+  "title": "Les âmes de la tranchée",
+  "intro": "Vous voyagez dans le temps, à une époque où un souverain impitoyable exigeait une dévotion absolue à de fausses divinités. Une petite communauté d'âmes dévouées refusa et subit un châtiment si terrible qu'elle fut maudite à jamais. Leur histoire résonne à travers le Coran comme un témoignage de foi inébranlable. Pouvez-vous identifier ce groupe inébranlable ?",
+  "clues": [
+    "Nous vivions dans un pays sous la tyrannie d'un dirigeant qui exigeait le culte de fausses divinités",
+    "Notre communauté a subi de graves persécutions uniquement à cause de notre foi en Allah.",
+    "Le souverain ordonna qu'une grande tranchée soit creusée et alimentée par des flammes féroces.",
+    "Parce que nous avons refusé de renoncer à notre foi, nous avons été jetés un à un dans cette fosse ardente.",
+    "Notre histoire est entrée dans le Coran, et ceux qui nous ont persécutés ont été maudits pour l'éternité.",
+    "La sourate qui relate notre épreuve porte le nom des grands signes célestes du ciel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Compagnons de la Tranchée (Ashab al-Ukhdud)",
+        "Les Gens de la Caverne (Ashab al-Kahf)",
+        "Peuple du sabbat",
+        "Peuple d'A'ad",
+        "Peuple de Thamud"
+      ],
+      "answer": "Compagnons de la Tranchée (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Notre procès",
+      "options": [
+        "Être brûlé vif dans une fosse ardente",
+        "Être enfermée dans une grotte pendant de nombreuses années",
+        "Pêche le jour saint du repos",
+        "Détruit par un vent hurlant",
+        "Tuer une chamelle sacrée"
+      ],
+      "answer": "Être brûlé vif dans une fosse ardente"
+    },
+    "location": {
+      "label": "L'élément clé",
+      "options": [
+        "Une tranchée de feu flamboyant",
+        "Une grotte cachée avec un chien fidèle",
+        "Hautes colonnes d'une ancienne cité condamnée",
+        "Habitations de montagne creusées dans des falaises de pierre",
+        "Une plaine ouverte balayée par des vents violents"
+      ],
+      "answer": "Une tranchée de feu flamboyant"
+    },
+    "outcome": {
+      "label": "Notre résultat",
+      "options": [
+        "Nous avons été martyrisés et les persécuteurs sont maudits pour l'éternité.",
+        "Nous nous sommes réveillés après avoir dormi pendant 309 ans.",
+        "Nous avons été transformés en singes pour notre transgression",
+        "Un vent hurlant et puissant nous a tous détruits.",
+        "Un seul cri dévastateur a brisé notre existence."
+      ],
+      "answer": "Nous avons été martyrisés et les persécuteurs sont maudits pour l'éternité."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

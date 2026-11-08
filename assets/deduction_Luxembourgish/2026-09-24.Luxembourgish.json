@@ -1,0 +1,61 @@
+{
+  "title": "De Souverän, deen d'Gottheet gefuerdert huet",
+  "intro": "E mächtegen an arrogante Herrscher huet gegleeft, datt keen iwwer sengem Troun kéint stoen. Si hunn eng flüchteg Grupp iwwer e grousst Waasser verfollegt, nëmme fir en dramateschen Enn ze begéinen. D'Geschicht vun dësem Souverän widderspigelt sech a ville Passagen am Koran a déngt als Warnung fir all.",
+  "clues": [
+    "Ech war e mächtege Herrscher, deen gegleeft huet, datt keng Autoritéit meng eegen an de Länner, déi ech regéiert hunn, iwwerschreit.",
+    "Ech hat e vertrauenswürdege Wesir mam Numm Haman, deen mir gehollef huet grouss architektonesch Projeten ëmzesetzen.",
+    "Ech hunn déi bescht Magier vu mengem Land geruff, fir d'Zeeche vun engem Messenger, deen sech géint mech ausgeschwat huet, a Fro ze stellen.",
+    "Ech hunn refuséiert, e Vollek, dat a mengem Räich versklavt war, fortze loossen, trotz Plagen a kloere Warnungen.",
+    "Ech hunn se iwwer e grousst Mier mat menger ganzer Arméi a Wonnen verfollegt.",
+    "Dat selwecht Mier huet mech a meng Truppen zougemaach an eis all erdronk, während si sécher iwwer d'Strooss gaange sinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Fir'awn (Pharao)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Pharao)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Plagen a Konfrontatioun mam Musa (Moses)",
+        "Eng Ark bauen virun enger grousser Iwwerschwemmung",
+        "Schluecht géint Jalut am Dall",
+        "Vun engem Wal verschléckt ginn",
+        "Verteidegung vun éierleche Handelsgewiichter"
+      ],
+      "answer": "Plagen a Konfrontatioun mam Musa (Moses)"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Héich Tierm a Pfählen",
+        "Eng grouss Holzark",
+        "E gëllent Kalb",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "E massive Wal"
+      ],
+      "answer": "Héich Tierm a Pfählen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Am Mier mat der Arméi erdronk",
+        "Gerett duerch Allahs Barmhäerzegkeet a Gedold belount",
+        "No Jore voller Schwieregkeeten erëm mat der Famill vereenegt",
+        "Vun der Äerd verschléckt",
+        "An engem Feier verbrannt"
+      ],
+      "answer": "Am Mier mat der Arméi erdronk"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

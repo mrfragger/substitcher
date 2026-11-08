@@ -1,0 +1,61 @@
+{
+  "title": "Déi Éischt, déi Verzeiung sichen",
+  "intro": "Gitt zréck an eng Zäit virum éischte Sonnenopgang, ier iergendeen Stierflechen op der Äerd gelieft huet. Eng Figur gouf aus dem einfachsten Material geformt, huet eng Positioun iwwer den Engelen kritt an an engem hellege Gaart mat enger kloerer Warnung placéiert. Awer an engem eenzege Moment gouf eng Wiel getraff - eng, déi duerch déi ganz mënschlech Geschicht widderhalle géif. Wien ass dës Figur?",
+  "clues": [
+    "Ech gouf op eng Manéier entstanen, déi keng aner ass - aus dem Stëbs vun der Äerd geformt a mir vun der Hand vum Schëpfer eng lieweg Séil ginn.",
+    "Mir gouf sou e grousst Wëssen ginn, datt souguer d'Engelen uewen sech doriwwer bewonnert hunn.",
+    "De ganzen Himmel krut den Uerder, sech viru mir ze béien, an si hunn sech all ënnerworf - ausser engem, deen aus Stolz refuséiert huet.",
+    "Ech gouf an en hellege Gaart gesat, eng Plaz vum éiwege Komfort a Versuergung - awer mat engem strikte Verbuet.",
+    "Ech hunn vergiess, ech sinn ausgerutscht, an ech hunn net gefollegt - an ech hunn d'Gewiicht vu mengem Feeler déif gespuert.",
+    "Ech hunn mech mat häerzleche Wierder zu mengem Här gewend, an Hien huet meng Reue akzeptéiert, well Hien ass dee Verzeienden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Adam",
+        "Prophet Dawud",
+        "Prophet Mohammed",
+        "Iblis",
+        "Prophet Yaqub"
+      ],
+      "answer": "Prophet Adam"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Engele kruten den Uerder, sech ze knien",
+        "Déi Grouss Iwwerschwemmung gouf geschéckt",
+        "E grousst Feier gouf kill a sécher gemaach",
+        "En arrogante Herrscher ass am Mier erdronk",
+        "Eng Arméi vun Elefanten gouf zerstéiert"
+      ],
+      "answer": "D'Engele kruten den Uerder, sech ze knien"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Gaart vun der Freed",
+        "Bierg Sinai",
+        "Déi helleg Moschee",
+        "Den Nil",
+        "D'Höhl"
+      ],
+      "answer": "De Gaart vun der Freed"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Reue gouf vun Allah akzeptéiert",
+        "Am Mier erdronk",
+        "Vun engem grousse Fësch verschléckt",
+        "D'Natioun gouf vun engem staarken Explosioun getraff",
+        "Verbrannt vun engem brennende Wand"
+      ],
+      "answer": "D'Reue gouf vun Allah akzeptéiert"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

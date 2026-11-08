@@ -1,0 +1,61 @@
+{
+  "title": "Bakɛngɛli ya Elanga",
+  "intro": "Na elanga moko ya kitoko, bato ya mboka moko balapaki ndai ya lokumu. Kasi ekateli na bango emekamaki ntango bolingi ya bonzambe ekɔtaki, mpe ebongolaki bozwi na bango na mokili ya kobota.",
+  "clues": [
+    "Topambolamaki na elanga ya ebele, kasi tokómaki na lolendo.",
+    "Tosalaki mwango ya kobuka mbuma kozanga kokabola na babola.",
+    "Tobandaki mobembo na ntɔngɔntɔngɔ, totyaki elikya na mwango na biso.",
+    "Kasi ntango tokómaki kuna, tomonaki ete elanga na biso ebebaki na butu moko.",
+    "Tososolaki libunga na biso mpe tobandaki kopesana foti.",
+    "Nsukansuka toyambolaki, kasi liteya ezwamaki na retare mingi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Bato ya Elanga",
+        "Bato ya Libulu",
+        "Bato ya Nkoi",
+        "Bato ya Thamud",
+        "Bato ya 'Ad"
+      ],
+      "answer": "Bato ya Elanga"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Elanga moko ekómaki mputulu",
+        "Mpela oyo ebebisaki biloko nyonso",
+        "Nzala oyo ekwelaki mokili",
+        "Limpinga ya bandɛkɛ oyo ezali kobundisa",
+        "Mopɛpɛ monene oyo elongolaki banzete na misisa"
+      ],
+      "answer": "Elanga moko ekómaki mputulu"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Elanga moko",
+        "Libulu moko",
+        "Masuwa moko",
+        "Ngomba moko",
+        "Ndako moko ya mokonzi"
+      ],
+      "answer": "Elanga moko"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bayambolaki kasi babungisaki elanga na bango",
+        "Babebisamaki mobimba",
+        "Babongwanaki bango na ba singes",
+        "Babikisamaki na nzela ya bondimi",
+        "Bakómaki bakonzi"
+      ],
+      "answer": "Bayambolaki kasi babungisaki elanga na bango"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

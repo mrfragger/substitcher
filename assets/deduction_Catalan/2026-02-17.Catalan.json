@@ -1,0 +1,61 @@
+{
+  "title": "La llavor de la lluita",
+  "intro": "Abans que el món conegués un conflicte generalitzat, es va desenvolupar una profunda prova de fe i obediència. Aquesta narració explora les decisions preses per un individu, les accions del qual van establir un precedent per a les generacions futures. Prepara't per desentranyar la història d'una ànima que lluita contra una immensa gelosia i les seves devastadores conseqüències.",
+  "clues": [
+    "Vaig ser un dels primers descendents que van caminar sobre la terra, fill de la primera parella humana.",
+    "Al meu germà i a mi se'ns va ordenar oferir un sacrifici a Al·là, una prova de la nostra sinceritat.",
+    "La meva ofrena no va ser acceptada, mentre que la del meu germà sí, cosa que em va omplir el cor d'una emoció terrible.",
+    "Vaig pronunciar paraules amenaçadores al meu germà, impulsat per l'amargor del rebuig.",
+    "El meu germà va respondre amb saviesa i pietat, recordant-me la justícia d'Al·là i el seu temor.",
+    "Malgrat les paraules amables del meu germà i la seva disposició a perdonar, vaig prendre una vida, convertint-me en un dels perdedors."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Adam",
+        "Iblis",
+        "Profeta Nuh",
+        "Qabil (Caín)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Caín)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "La gran inundació",
+        "La divisió del mar",
+        "La construcció de la Kaaba",
+        "L'ofrena de sacrificis",
+        "La temptació al Jardí"
+      ],
+      "answer": "L'ofrena de sacrificis"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "La muntanya de Safa",
+        "El sacrifici",
+        "L'Arbust Ardent"
+      ],
+      "answer": "El sacrifici"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va convertir en un missatger",
+        "Es va ofegar",
+        "Construït un gran regne",
+        "Es va convertir en un exemple de penediment",
+        "Se li va concedir una immensa riquesa"
+      ],
+      "answer": "Es va convertir en un exemple de penediment"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

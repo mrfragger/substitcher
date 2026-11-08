@@ -1,0 +1,61 @@
+{
+  "title": "Išnykusi minia",
+  "intro": "Jūs stovite priešais bendruomenės, kurios istorija parašyta bangose, aidą. Šios sielos išgirdo kvietimą, pasirinko nepaklusnumą ir susidūrė su pasekmėmis, kurios pakeitė žemę. Kas jos tokios ir kas nutiko jų pasauliui?",
+  "clues": [
+    "Mes gyvenome seniai, ir iš mūsų pačių tarpo pas mus atėjo pasiuntinys.",
+    "Garbinome penkis stabus ir atsisakėme jų palikti.",
+    "Mes tyčiojomės iš pasiuntinio ir kaltinome jį paklydimu.",
+    "Reikalavome, kad jis būtų nubaustas, jei būtų sakęs tiesą.",
+    "Matėme, kaip dangus pliaupia lietus, o žemė trykšta versmėmis.",
+    "Kopėme į aukštumas, kad pabėgtume, bet bangos mus pasivijo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Nuh žmonės",
+        "„Ad“ žmonės",
+        "Tamudo žmonės",
+        "Luto žmonės",
+        "Madjano žmonės"
+      ],
+      "answer": "Nuh žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Mus nuskendo didžiulis potvynis",
+        "Mus sunaikino uraganas",
+        "Mus pražudė garsus sprogimas",
+        "Mus prarijo žemė",
+        "Mus apmėtė akmenimis iš dangaus"
+      ],
+      "answer": "Mus nuskendo didžiulis potvynis"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didelis potvynis",
+        "Smurtinis vėjas",
+        "Akmenų lietus",
+        "Ugningas sprogimas",
+        "Žemės drebėjimas"
+      ],
+      "answer": "Didelis potvynis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mes visi žuvome, išskyrus tikinčiuosius su Nuh",
+        "Mes buvome paversti beždžionėmis",
+        "Mes buvome palikti kaip griuvėsiai keliautojams",
+        "Mes buvome paversti druska",
+        "Mums buvo suteiktas atokvėpis"
+      ],
+      "answer": "Mes visi žuvome, išskyrus tikinčiuosius su Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

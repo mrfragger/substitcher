@@ -1,0 +1,61 @@
+{
+  "title": "Die große Unterwerfung des Souveräns",
+  "intro": "Du befindest dich in einem Land voller antiker Wunder und tiefgreifender Offenbarungen. Eine mächtige Herrscherin, die eine unerwartete Einladung erhält, begibt sich auf eine Reise, die ihr Schicksal und den Glauben ihres Volkes verändern wird. Kannst du die Identität dieser majestätischen Gestalt enthüllen?",
+  "clues": [
+    "Ich herrschte über ein blühendes Königreich, das mit unermesslichem Reichtum und einem prächtigen Thron geschmückt war.",
+    "Mein Volk und ich verehrten einen Himmelskörper, weil wir ihn für unseren Herrn hielten, obwohl ich in meinem Herzen Zweifel hegte.",
+    "Ein seltsamer Bote, ein Vogel, überbrachte mir einen Brief, in dem er mich und mein Volk zur Unterwerfung unter den einen Gott aufrief.",
+    "Ich habe meine Berater, die über immense Kompetenz verfügten, konsultiert, wie ich auf diese beispiellose Nachricht reagieren sollte.",
+    "Ich beschloss, dem Absender des Briefes ein wertvolles Geschenk zu schicken, in der Hoffnung, seine Macht und seine Absichten einzuschätzen.",
+    "Bei meiner Ankunft staunte ich über einen Palast mit einem Boden aus Glas, der wie ein Wasserbecken aussah, und da erklärte ich meine Unterwerfung unter den Herrn der gesamten Schöpfung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Pharao",
+        "Königin von Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Prophet Yusuf"
+      ],
+      "answer": "Königin von Saba"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Spaltung des Meeres",
+        "Die große Flut",
+        "Die Reise, um Prophet Sulayman zu treffen",
+        "Die Vernichtung des Volkes von Lut",
+        "Die Verbrennung des Propheten Ibrahim"
+      ],
+      "answer": "Die Reise, um Prophet Sulayman zu treffen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Der Thron",
+        "Der Berg",
+        "Das Feuer"
+      ],
+      "answer": "Der Thron"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde ein Prophet",
+        "Wurde von Allah vernichtet",
+        "Ich habe den Islam angenommen",
+        "Führte ihr Volk in den Krieg",
+        "Er baute einen prächtigen Tempel"
+      ],
+      "answer": "Ich habe den Islam angenommen"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

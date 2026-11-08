@@ -1,0 +1,61 @@
+{
+  "title": "Mkpụrụ obi nke ire dị nsọ nyefere",
+  "intro": "Tupu ị gbaa akụkọ banyere obi ike pụrụ iche, ebe otu onye nwara ịgbagha nkwenkwe ndị kacha gbanye mkpọrọgwụ n'ime mmepeanya dum. Soro okwu ndị a sitere n'oge gara aga, ị ga-achọpụta ndụ nke okwukwe na-adịghị agbanwe agbanwe, nlanarị ọrụ ebube, na ịtọ ntọala nke ga-akpụzi njem ime mmụọ nke ọtụtụ ijeri mmadụ. Chọpụta ihe ọ bụla e ji amata - ọkụ dị nsọ ka na-echeta.",
+  "clues": [
+    "A mụrụ m n'ezinụlọ nke na-asọpụrụ ihe ndị dị n'eluigwe na ihe ndị a kpụrụ akpụ, mana ihe dị n'ime m jụrụ ihe ha na-efe.",
+    "Eguzogidere m onye ọchịchị kachasị ike n'ala m, tipịasịa arụsị ndị m kpọọrọ isiala nye, ma kwupụta na ọ bụ naanị Onye Okike nke eluigwe kwesịrị nsọpụrụ.",
+    "E nyere iwu ka e jiri aha m kpọọ ọkụ, mana m kwupụtara na Onye m na-ejere ozi naanị ya ga-azọpụta m — e wee nye iwu ka ọkụ ahụ dị jụụ ma dị nchebe.",
+    "Ahapụkwara m ihe niile m maara nke ọma n'iwu Chineke, na-agagharị na ndagwurugwu kpọrọ nkụ na ezinụlọ m, na-atụkwasị obi n'ihe m na-ahụbeghị.",
+    "Anyị guzo n'akụkụ nwa m nwoke mbụ n'ime ndagwurugwu tọgbọrọ chakoo, anyị wulitere ntọala ụlọ nsọ, ebe nsọ nke a kara aka maka ndị niile na-erubere isi.",
+    "A maara m dị ka Khalilullah — enyi nke Onye Kasị Ebere — aha m aghọkwara ihe jikọtara ya na okwukwe nke inyefe onwe na inyefe onwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Ibrahim (Abraham)",
+        "Onye Amụma Mozis (Moses)",
+        "Onye Amụma Noa (Noa)",
+        "Onye Amụma Aịza (Jizọs)",
+        "Onye amuma Muhammad ﷺ"
+      ],
+      "answer": "Onye Amụma Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịbụ onye ọchịchị aka ike tụbara n'ime ọkụ na-ere ọkụ",
+        "A na-elo ya n'ime nnukwu azụ̀ n'oké osimiri",
+        "Ụmụnna ekworo na-eweda ha n'ime olulu",
+        "A na-ebuga ya n'elu n'elu ihe e kere eke nwere nku",
+        "Ịnagide nnukwu idei mmiri n'ime ite osisi"
+      ],
+      "answer": "Ịbụ onye ọchịchị aka ike tụbara n'ime ọkụ na-ere ọkụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ụlọ Nsọ (Kaaba)",
+        "Nnukwu arịa osisi e wuru n'elu ugwu",
+        "Mkpanaka nke nwere ike ịgbawa oké osimiri",
+        "Ọgba nke ụra ogologo oge ya na nkịta kwesịrị ntụkwasị obi",
+        "Akwụkwọ mpịakọta nke iwu e kpughere ekpughe nke e tinyere n'elu ugwu"
+      ],
+      "answer": "Ụlọ Nsọ (Kaaba)"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A maara ya dịka Khalilullah, enyi Allah nke ọma",
+        "Duru ndị mmadụ gafee oké osimiri kewara ekewa ruo ebe nchekwa",
+        "E nyere ya ikike ịchịkwa ifufe na ike ndị a na-adịghị ahụ anya",
+        "Aghọrọ m onye na-agwọ ọrịa nke e ji ọgwụgwọ ọrụ ebube gwọọ",
+        "Ebo iri na abụọ gbasaara agbasasị jikọtara ọnụ n'otu ọgbụgba ndụ"
+      ],
+      "answer": "A maara ya dịka Khalilullah, enyi Allah nke ọma"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

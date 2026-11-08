@@ -1,0 +1,61 @@
+{
+  "title": "Ikki ufq orasidagi zabt etuvchi",
+  "intro": "Ilohiy hidoyat yilnomalarida bir shaxs qudratli hukmdor va Allohning kamtarin xizmatkori sifatida ajralib turadi. Bu shaxs yer yuzining eng chekkalariga sayohat qilib, quyoshning g'ayrioddiy bir xalq ustiga chiqishini va qora loyqa buloqqa botishini ko'rgan. Eng diqqatga sazovor tomoni shundaki, bu xizmatkorga buyuk buzg'unchilik xalqiga qarshi favqulodda to'siq qurish vazifasi yuklatilgan edi. Qur'ondagi bu afsonaviy shaxsni aniqlay olasizmi?",
+  "clues": [
+    "Menga yer yuzida eng rahmli zot tomonidan kuch va ta'sir berilgan.",
+    "Quyosh chiqadigan va botadigan joyga sayohat qildim",
+    "Men birorta ham so'zni zo'rg'a tushunadigan odamlarga yetib bordim",
+    "Menga temirdan ulkan to'siq qurish buyurildi",
+    "Men ikkita tik tog' orasidagi bo'shliqni eritilgan metall bilan muhrladim",
+    "Men farishta ham, payg'ambar ham emas edim, balki Alloh ne'mat bergan banda edim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Zulqarnayn (Ikki shoxli Zot)",
+        "Qirol Sulaymon (Sulaymon)",
+        "Payg'ambar Zul-Kifl",
+        "Zul-Nun (Baliq hamrohi)",
+        "To'siq farishtasi"
+      ],
+      "answer": "Zulqarnayn (Ikki shoxli Zot)"
+    },
+    "trial": {
+      "label": "Buyuk vazifa",
+      "options": [
+        "Jannatga minora qurish",
+        "Yajuj va Majujga qarshi ulkan temir to'siq qurish",
+        "Hukm uchun oltin taxt yaratish",
+        "Solihlar uchun chuqur quduq qazish",
+        "Katta suv toshqini paytida kema qurish"
+      ],
+      "answer": "Yajuj va Majujga qarshi ulkan temir to'siq qurish"
+    },
+    "location": {
+      "label": "Sozlama",
+      "options": [
+        "Ikki daryo orasidagi Uzayr yurti",
+        "Quyosh chiqishi va qora loyqa buloqning joyi",
+        "Makkaning muqaddas vodiysi",
+        "Madyan cho'li",
+        "Kipr oroli"
+      ],
+      "answer": "Quyosh chiqishi va qora loyqa buloqning joyi"
+    },
+    "outcome": {
+      "label": "Ilohiy va'da",
+      "options": [
+        "Abadiy jannat darhol berildi",
+        "Millat issiq shamol tomonidan vayron qilindi",
+        "To'siq Qiyomat kunigacha davom etadi",
+        "Barcha imonlilar uchun o'limdan ozodlik",
+        "Cheksiz abadiy shohlik"
+      ],
+      "answer": "To'siq Qiyomat kunigacha davom etadi"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dhugaa Barbaaduu Cimaa",
+  "intro": "Yeroo wallaalummaa fi waaqeffannaa waaqolii sobaatiin haguugame keessatti imala amantii gadi fagoon ni mul’ate. Namni dhuunfaa kun seera hawaasa isaanii morme, Uumaa Dhugaa Tokkicha amantii hin sochooneen barbaada ture. Eenyummaa lubbuu hambaan ishee miliyoonaan lakkaa'aman kakaasuu itti fufee jiru saaxiluuf qophaa'aa.",
+  "clues": [
+    "Gooftaa dhugaa isa hundumaa uumee fi jiraachisu barbaadeen qaamolee samii gaaffii keessa galche.",
+    "Biyya koo dhiisee gara biyya Rabbiin eebbifametti akkan imalu ajajame.",
+    "Waaqolii tolfamoo saba koo morme, bu’aa hin qabne isaanii kallattiin cabsuudhaan fuulduratti ba’e.",
+    "Ummata kiyyaan ibidda boba’aa keessa na darbatame, ta’us ajaja Rabbiitiin naaf qabbanaa’ee nagaa ta’e.",
+    "Ajaja ilma koo isa angafaa jaallatamaa akkan aarsaa godhu na qorame, qormaata dhuma irratti bitamuu.",
+    "Ani ilma koo waliin bu’uura Mana Waaqeffannaa isa jalqabaa Lafa irratti argamu, bakka qulqulluu dhala namaa hundaaf ta’e kaase."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Yuusuf",
+        "Nabi Saalih",
+        "Nabi Ibraahim",
+        "Nabi Isaa"
+      ],
+      "answer": "Nabi Ibraahim"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Lolaan guddaan",
+        "Gargar bahuun galaanaa",
+        "Badiisni Thamud",
+        "Ajaja ilma wareeguuf jedhu",
+        "Taabota waliin gammoojjii keessa imala"
+      ],
+      "answer": "Ajaja ilma wareeguuf jedhu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Hojjettoonni",
+        "Gaara Tur",
+        "Taabota",
+        "Kaabaa",
+        "Re'ee Warqee"
+      ],
+      "answer": "Kaabaa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Bulchaa Gibxii ta'e",
+        "Sabni isaa bishaaniin liqimfame",
+        "Ogummaa fi hidda dhalootaa qajeelaan kennameef",
+        "Qurxummii galaanaatiin liqimfame",
+        "Magaalaan isaa garagalte"
+      ],
+      "answer": "Ogummaa fi hidda dhalootaa qajeelaan kennameef"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

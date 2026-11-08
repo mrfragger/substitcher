@@ -1,0 +1,61 @@
+{
+  "title": "Konspiratori i Veluar",
+  "intro": "E gjen veten në prani të një figure të fuqishme nga ditët e zbulesës. Ky individ ishte i njohur për intelektin, pasurinë dhe statusin e tij midis popullit të tij. Kur erdhën shenjat e qarta, ata e njohën bukurinë, por zgjodhën sfidën mbi nënshtrimin. Çfarë e shtyu këtë shpirt të komplotonte në errësirë ​​dhe cili ishte fati i tyre përfundimtar?",
+  "clues": [
+    "Isha i bekuar me burime dhe ndikim të bollshëm, duke e bërë fjalën time të rëndë në asamble.",
+    "Kur recitoheshin fjalët e hyjnores, nuk mund ta mohoja elokuencën e tyre, por krenaria ime nuk më lejonte të nënshtrohesha.",
+    "I mblodha këshilltarët e mi, duke u izoluar për të menduar një mënyrë për ta diskredituar mesazhin.",
+    "Pas shumë mendimesh, e deklarova se nuk ishte gjë tjetër veçse 'magji e trashëguar nga e kaluara' për t'i larguar njerëzit.",
+    "Zbulesa më pas m’u drejtua drejtpërdrejt: ‘Më lër rehat me atë që krijova.’ U veçova për intrigat e mia.",
+    "Së shpejti, pikërisht zjarri për të cilin më paralajmëruan do të më kapë nga balluket dhe nuk do të kem shpëtim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "El-Valid ibn el-Mughira",
+        "Ebu Leheb",
+        "Ebu Xhehl",
+        "Ukbe ibn Ebi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "El-Valid ibn el-Mughira"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Konspiroi për të vrarë Profetin",
+        "Udhëhoqi një bojkot kundër myslimanëve",
+        "Mbledhi një këshill për ta damkosur Kuranin si magji",
+        "Planifikuan për të dëbuar Profetin nga Meka",
+        "Refuzoi të ndante pasurinë e tij me jetimët"
+      ],
+      "answer": "Mbledhi një këshill për ta damkosur Kuranin si magji"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Zbulesa",
+        "Këshilli",
+        "Balluku",
+        "Pasuria",
+        "Pena"
+      ],
+      "answer": "Balluku"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Ai u pendua dhe e përqafoi Islamin",
+        "Ai emigroi në Abisini",
+        "Ai u prek nga një sëmundje vdekjeprurëse",
+        "Ai vdiq në betejën kundër myslimanëve",
+        "Ai u dënua me Zjarr të Ferrit"
+      ],
+      "answer": "Ai u dënua me Zjarr të Ferrit"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

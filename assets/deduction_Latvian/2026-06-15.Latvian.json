@@ -1,0 +1,61 @@
+{
+  "title": "Vēja un liesmas valdīšana",
+  "intro": "Iztēlojieties valstību, kurā pats vējš pakļāvās vienam valdniekam, kur vismazāko radību balsīm bija svars un kur spēki, kas neredzami parastajai acij, tika rūpīgi turēti savā rīcībā. Šī būtne no mīļota priekšgājēja mantoja neparastu valstību, kurai bija vara pār elementiem un džiniem. Taču liela vara nāca līdzi lieliem pārbaudījumiem — un pēdējais brīdis atklātu kaut ko pārsteidzošu par dzīvības un nāves būtību.",
+  "clues": [
+    "Es mantoju lielu valstību no mīļotā vecāka, kurš bija arī pravietis un Allāha kalps.",
+    "Allāhs man deva varu pār vēju, sūtot to viena rīta laikā mēneša garumā.",
+    "Pat vismazākās radības runātu par manu tuvošanos, un es apstātos, lai apbrīnotu viņu apzināšanos.",
+    "Es komandēju milzīgu džinu, cilvēku un putnu armiju, kas visi bija sakārtoti manā priekšā.",
+    "Tāls valdnieks ieradās mani pārbaudīt ar grūtu izaicinājumu, un es liku atvest šī valdnieka troni uz savu galmu, pirms apmeklētājs pat paspēja piecelties no krēsla.",
+    "Es paliku stāvam, atbalstoties uz spieķa, līdz maza zemes radība to pārgrauza — un tikai tad apkārtējie saprata, ka esmu pagājis garām."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Suleimans (Salamans)",
+        "Pravietis Dāvids",
+        "Pravietis Isa (Jēzus)",
+        "Pravietis Muhameds ﷺ",
+        "Pravietis Mūsa (Mozus)"
+      ],
+      "answer": "Pravietis Suleimans (Salamans)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Tālas karalienes troņa atvešana ar pārdabiskiem līdzekļiem",
+        "Bērnībā iegremdēts dziļā akā",
+        "Sastopoties ar tirāna burvjiem ar brīnumainām zīmēm",
+        "Runājot jau no šūpuļa, lai aizstāvētu mātes godu",
+        "Pēdējo atklāto Svēto Rakstu saņemšana svētajā kalnā"
+      ],
+      "answer": "Tālas karalienes troņa atvešana ar pārdabiskiem līdzekļiem"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Koka zizlis, ko caurgrauzis termīts",
+        "Liels šķirsts, kas celts, lai pārciestu pasaules mēroga plūdus",
+        "Zizlis, kas tirāna priekšā pārvērtās par čūsku",
+        "Auduma gabals, ko izmanto aklo dziedināšanai",
+        "Svēta ala, kur pirmo reizi tika saņemta atklāsme"
+      ],
+      "answer": "Koka zizlis, ko caurgrauzis termīts"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Cēls valdnieks, kas apmeklēja pilsētu, pieņēma ticību pēc tam, kad bija redzējis zīmes",
+        "Lieli plūdi iznīcināja visus, izņemot uzticīgos, kas atradās šķirstā",
+        "Faraons un viņa armija gāja bojā jūrā",
+        "Taisnīgs biedrs tika pacelts debesīs",
+        "Tirāns karalis un viņa pilsēta tika apgāzti un iznīcināti"
+      ],
+      "answer": "Cēls valdnieks, kas apmeklēja pilsētu, pieņēma ticību pēc tam, kad bija redzējis zīmes"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

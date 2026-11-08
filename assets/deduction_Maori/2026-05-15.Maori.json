@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaitiaki o tētahi Tohu Atua",
+  "intro": "I roto i te wāhi tapu, i atawhaitia tētahi wairua tapu i raro i te manaakitanga o te Atua. I whakaritea tēnei tangata kia whai wāhi nui ki tētahi huihuinga merekara, kia noho hei tohu mō te mana mutunga kore me te whakaaro nui o Allah. Nā tā rātou haerenga i hura he pono hohonu, i wero i ngā tirohanga me te whakatū i tētahi tohu ahurei mō te tangata katoa.",
+  "clues": [
+    "I whiriwhiria ahau e Allah, i purea hoki i runga ake i ngā wāhine katoa o tōku wā.",
+    "I tukuna ahau ki raro i te mana tiaki o tētahi poropiti tika, ā, i kitea e ia he kai i roto i taku rūma inoi i roto i te merekara.",
+    "I wehe atu ahau i tōku whānau ki tētahi wāhi tūmataiti hei karakia ki a Allah.",
+    "I puta mai tētahi anahera ki ahau i roto i te āhua o tētahi tangata tino tika, e kawe mai ana i ngā rongopai mō tētahi tama parakore, ahakoa kāore ahau i mōhio ki tētahi tāne.",
+    "I muri i ngā mamae o te whānautanga, i whakahaua ahau kia rūrūtia te take o te nikau kia kitea he kai hou.",
+    "I taku hokinga atu ki tōku iwi e waha ana i taku pēpi hou, ka pātai mai rātou ki ahau, engari i kōrero whakamiharo taku tamaiti pēpi mai anō i te whanga hei tiaki i ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Hera (te wahine a te Poropiti a Ihāperahama)",
+        "Hajar (whaea o te Poropiti a Ihimaera)",
+        "Bilqis (Kuīni o Sheba)",
+        "Āsiya (wahine a Parao)",
+        "Meri (Mēri)"
+      ],
+      "answer": "Meri (Mēri)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "He waipuke nui i whakangaro i tētahi iwi whakaponokore",
+        "Te maka ki roto i te ahi mura mō te whakakahore i ngā whakapakoko",
+        "Te whānautanga merekara o te tamaiti kāore he matua",
+        "Te horomia e te tohorā mō te whakarērea o tētahi misioni",
+        "Te whakangaromanga o te tāone mō ngā mahi hē"
+      ],
+      "answer": "Te whānautanga merekara o te tamaiti kāore he matua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He kuao kau koura",
+        "Te Āka o te Kawenata",
+        "He rūma inoi tapu (Mihrab)",
+        "He manu kōrero (Hudhud)",
+        "He tokotoko i huri hei nakahi"
+      ],
+      "answer": "He rūma inoi tapu (Mihrab)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te hanganga o tētahi temepara whakahīhī",
+        "Te wehenga o te moana kia whiti ai te iwi",
+        "He tamaiti i kōrero mai i te whāngai hei tiaki i tōna mātua",
+        "Te whakakitenga mai o tētahi pukapuka atua hei ārahi i te tangata",
+        "He rangatiratanga i manaakitia e te hau me te jinn"
+      ],
+      "answer": "He tamaiti i kōrero mai i te whāngai hei tiaki i tōna mātua"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

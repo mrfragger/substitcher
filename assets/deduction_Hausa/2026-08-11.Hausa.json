@@ -1,0 +1,61 @@
+{
+  "title": "Alƙawarin Mahaifa",
+  "intro": "A cikin ɗakunan shiru na zuciya da aka keɓe ga Allah, an yi alƙawari mai tsarki. Wannan alƙawarin ya ta'allaka ne akan rayuwa da ba za ta ja numfashi ba, kuma cikarsa zai canza hanyar gadon ruhaniya har abada. Shiga cikin sirrin rai wanda alkawarinsa ya yi ta maimaitawa har abada.",
+  "clues": [
+    "Na zauna a cikin gida da aka san shi da ibada, kuma ina sha'awar wata baiwa da za ta kusantar da ni ga Allah.",
+    "Na yi alkawari mai ƙarfi da Ubangijina game da abin da ke ɓoye a cikina, ina alƙawarin sadaukar da shi gaba ɗaya ga hidimarsa.",
+    "Lokacin da lokacin bayyanawa ya zo, abin da na samu bai yi mini daɗi ba, amma na damƙa lamarin ga Mai Duka.",
+    "Na ba wa ɗana suna mai nuna ibada, kuma na roƙi kariya daga ita da zuriyarta daga la'ananne.",
+    "An sanya ɗana a cikin harami mai tsarki, ƙarƙashin kulawar wani annabi daga zuriyar Haruna.",
+    "'Yata ta shahara da tsarkinta kuma an zaɓe ta a sama da dukkan mata, daga baya ta zama uwar wani babban annabi, kodayake ba a taɓa ta ba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Matar Imran",
+        "Mahaifiyar Musa",
+        "Matar Fir'auna",
+        "Matar Al-Aziz",
+        "Mahaifiyar Isa"
+      ],
+      "answer": "Matar Imran"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Alƙawarin keɓe ɗan da ke cikinta ga haikali",
+        "Gwaji na haƙuri a cikin dogon rashin lafiya",
+        "Tafiya zuwa ƙasa mai nisa don neman imani",
+        "Muhawara da wani sarki azzalumi",
+        "Tanadin abinci mai ban mamaki daga sama"
+      ],
+      "answer": "Alƙawarin keɓe ɗan da ke cikinta ga haikali"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Yarinyar mai suna Maryam",
+        "Sanda da ta zama maciji",
+        "Ɗan maraƙin zinariya",
+        "Rijiyar Zamzam",
+        "Jirgin Nuhu"
+      ],
+      "answer": "Yarinyar mai suna Maryam"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Allah ya karɓe ɗanta kuma ya girma a ƙarƙashin kulawar annabci",
+        "Ɗanta ya zama annabi kuma ya karɓi littafi mai tsarki",
+        "An ɗaga ɗanta zuwa sama",
+        "Yarinta ya gina gida mai tsarki",
+        "An ba wa ɗanta hikima da wadata mai yawa"
+      ],
+      "answer": "Allah ya karɓe ɗanta kuma ya girma a ƙarƙashin kulawar annabci"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

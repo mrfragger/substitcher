@@ -1,0 +1,61 @@
+{
+  "title": "Ndị Na-ewu Ụlọ Elu",
+  "intro": "N'oge gara aga, nnukwu mmepeanya bilitere, nke a ma ama site na ọrụ owuwu ya dị egwu na ike dị egwu. E nyere otu a n'otu ihe onwunwe na ike anụ ahụ, mana ha họọrọ ụzọ nnupụisi megide ozi Chineke e zigara iji duzie ha. Akụkọ ha na-eje ozi dị ka ihe mmụta dị omimi n'akụkọ ihe mere eme, ihe akaebe nke ihe ga-esi na ịjụ eziokwu pụta.",
+  "clues": [
+    "E nyere anyị ike na ịdị elu dị ukwuu, n'adịghị ka ndị ọzọ nọ n'oge anyị.",
+    "A maara anyị maka iwu ụlọ ukwu na ogidi dị elu n'ebe niile dị elu, na-eche na anyị ga-adị ndụ ruo mgbe ebighị ebi.",
+    "E zigara otu onye ozi n'etiti anyị ka ọ dọọ anyị aka ná ntị, na-akpọ anyị ka anyị fee naanị Allah ma hapụ arụsị anyị.",
+    "Anyị ji mpako jụọ onye ozi anyị ajụjụ, na-ajụ ma ha bịakwutere anyị naanị ka anyị fee Allah ma hapụ ihe ndị nna nna anyị hà fere.",
+    "Ala anyị nwere ubi, isi iyi, na ubi ndị na-eme nri nke ọma, mana anyị kwuru na ọganihu anyị si n'ike anyị, ọ bụghị n'aka Onye Okike anyị.",
+    "N'ihi enweghị okwukwe na ịkwa emo anyị nọgidere na-enwe, ifufe dị egwu, nke na-efesi ike ruo ọtụtụ ụbọchị na abalị, mechara bibie anyị."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị Temọd",
+        "Ndị Fero",
+        "Ndị Nuh",
+        "Ndị Midian",
+        "Ndị 'Ad'"
+      ],
+      "answer": "Ndị 'Ad'"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịrịọ ka a chụọ otu kamel kpọmkwem n'àjà",
+        "Ịna-ama aka imepụta sura iri dịka Koran",
+        "A na-egosi ya nkewa nke oké osimiri",
+        "Ịdọ aka ná ntị site n'aka onye amụma gbasara idei mmiri na-abịa",
+        "Ịjụ onye amụma nke dọrọ aka ná ntị megide iwu oke ihe na ife arụsị ofufe"
+      ],
+      "answer": "Ịjụ onye amụma nke dọrọ aka ná ntị megide iwu oke ihe na ife arụsị ofufe"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Igbe ahụ",
+        "Ndị Ọrụ ahụ",
+        "Ọkụ ahụ",
+        "Obodo Sọdọm",
+        "Ogidi ndị dị elu na ebe obibi siri ike"
+      ],
+      "answer": "Ogidi ndị dị elu na ebe obibi siri ike"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Mmiri gbawara n'ime nnukwu idei mmiri",
+        "Ala loro ya",
+        "Agbanweela ya ka ọ bụrụ enwe na ezì",
+        "E bibiri ya site na égbè eluigwe",
+        "Ifufe dị oke ọkụ ma na-emebi ihe bibiri ya"
+      ],
+      "answer": "Ifufe dị oke ọkụ ma na-emebi ihe bibiri ya"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il sonno oltre il tempo",
+  "intro": "Immaginate un'epoca in cui la verità veniva soffocata e i credenti perseguitati. Un piccolo gruppo scelse la ritirata anziché la resa, trovando rifugio nel luogo più improbabile – un luogo che sarebbe diventato il loro luogo di riposo per secoli innumerevoli. Quando finalmente si risvegliarono, il mondo intorno a loro si era trasformato. Chi sono queste anime addormentate?",
+  "clues": [
+    "Eravamo giovani che vivevano in una città antica.",
+    "La nostra comunità ci ha chiesto di unirci a loro nel culto, ma noi abbiamo rifiutato.",
+    "Siamo fuggiti dalla città in cerca di rifugio da coloro che si opponevano alle nostre convinzioni.",
+    "Un fedele compagno a quattro zampe è rimasto all'ingresso del nostro nascondiglio.",
+    "Allah ci ha fatto dormire per trecentonove anni.",
+    "Quando finalmente ci svegliammo, la nostra città, un tempo persecutrice, aveva abbracciato la fede."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Ashab al-Kahf (Il popolo della caverna)",
+        "Ashab al-Fil (L'esercito dell'elefante)",
+        "Ashab al-Ukhdud (I compagni della trincea)",
+        "Gli Hawariyyun (Discepoli di Isa)",
+        "Yajuj wa Majuj (Gog e Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Il popolo della caverna)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ci ritirammo in una grotta e dormimmo per secoli.",
+        "Siamo stati salvati da un incendio devastante.",
+        "Siamo stati inghiottiti da un grande pesce",
+        "Siamo stati messi alla prova con una cammella miracolosa",
+        "Ci sono stati dati nove segnali chiari"
+      ],
+      "answer": "Ci ritirammo in una grotta e dormimmo per secoli."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una profonda grotta tra le montagne",
+        "Una barca in mare aperto",
+        "Una struttura imponente che si innalza verso il cielo.",
+        "Un giardino diviso tra due rivali",
+        "Una barriera di ferro e rame"
+      ],
+      "answer": "Una profonda grotta tra le montagne"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Ci siamo svegliati e abbiamo scoperto che la nostra città si era convertita alla fede.",
+        "Un fuoco ardente si trasformò in un'atmosfera fresca e pacifica.",
+        "Un esercito nemico è annegato in mare",
+        "Uccelli che trasportavano pietre distrussero il nemico",
+        "Un grosso pesce ci ha liberati sulla riva"
+      ],
+      "answer": "Ci siamo svegliati e abbiamo scoperto che la nostra città si era convertita alla fede."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

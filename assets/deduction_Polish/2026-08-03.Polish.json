@@ -1,0 +1,61 @@
+{
+  "title": "Wiosna pod piaskiem",
+  "intro": "W annałach Koranu postać o ogromnej cierpliwości stanęła przed próbą, która złamała najdzielniejsze serca. Wszystko zostało jej odebrane – majątek, rodzina i zdrowie. Jednak z głębi rozpaczy, pokorna modlitwa została wysłuchana w najbardziej nieoczekiwany sposób. Czy potrafisz rozpoznać tę duszę, której historia odrodzenia rozbrzmiewa echem przez wieki?",
+  "clues": [
+    "Zostałem wystawiony na próbę tak ciężką, że zapamiętano ją na wieki.",
+    "Straciłem wszystko, co miało dla mnie znaczenie – majątek, dzieci i zdrowie.",
+    "Moje ciało było pokryte bolesnymi ranami i wszyscy mnie odrzucali.",
+    "W rozpaczy zwróciłem się do Allaha, mówiąc, że szatan zesłał na mnie cierpienie i mękę.",
+    "Allah odpowiedział mi i rozkazał mi uderzyć stopą w ziemię.",
+    "Właśnie w tym miejscu wytrysnęło chłodne źródło, a Bóg przywrócił moją rodzinę do życia i obdarzył ją podwójną łaską."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ajjub",
+        "Prorok Musa",
+        "Prorok Ilyas",
+        "Prorok Sulayman",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Ajjub"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Ciężka choroba i utrata rodziny i majątku",
+        "Połknięcie przez wielkiego wieloryba",
+        "Wygnanie z miasta Mekki",
+        "Uwięzienie w głębokiej studni",
+        "Konfrontacja z aroganckim władcą"
+      ],
+      "answer": "Ciężka choroba i utrata rodziny i majątku"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Chłodne źródło z ziemi",
+        "Łódź na wielkiej powodzi",
+        "Laska, która rozdzieliła morze",
+        "Podwyższony tron ​​ze szkła",
+        "Jaskinia otoczona murem do spania"
+      ],
+      "answer": "Chłodne źródło z ziemi"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Rodzina i bogactwo przywrócone i podwojone",
+        "Wyjście z brzucha ryby",
+        "Bezpieczne przejście przez rozdzielone wody",
+        "Królestwo oddane do rządzenia",
+        "Cudowne narodziny syna w starości"
+      ],
+      "answer": "Rodzina i bogactwo przywrócone i podwojone"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

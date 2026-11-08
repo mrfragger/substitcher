@@ -1,0 +1,61 @@
+{
+  "title": "Lo Dormi dels Justs",
+  "intro": "Dins un temps ont la fe èra perilhosa e los poderoses cercavan d'esclafar la cresença, una pichona còla d'almas joves faguèt una causida que fariá resson dins las edats. En fugissent tot çò que sabián, cerquèron refugi dins l'escur amagat d'una montanha e metèron lor fisança entièrament en Allah. Çò que se passèt après vendriá un signe atemporal per los que reflexionan.",
+  "clues": [
+    "Èrem un grop de joves que cresián en nòstre Senhor, e El nos aumentèt en guida.",
+    "Nos pausèrem davant nòstre pòble e declarèrem qu'invocariam pas jamai cap de divinitat en mai d'Allah.",
+    "Cerquèrem refugi dins una cauna, en disent, 'Nòstre Senhor, donatz-nos la misericòrdia de vos meteis e guidatz-nos justament dins nòstre afar.'",
+    "Dormiguèrem pendent un grand nombre d'annadas, e lo solelh s'aluenhava de nòstra cauna e nos tocava pas.",
+    "Nòstre can jasiá estirat a l'intrada de la cauna, nos gardant coma se susvelhava.",
+    "Quand foguèrem desrevelhats, nos demandèrem quant de temps aviam demorat, e un de nosautres foguèt mandat amb de monedas d'argent per crompar de manjar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Gente de la Caverna",
+        "Gent de la Trinchera",
+        "Gent del sabbat",
+        "Gent de l'Elefant",
+        "Companhs del Bois"
+      ],
+      "answer": "Gente de la Caverna"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Fugiguèron dins una cauna per escapar a la persecucion per lor fe",
+        "Destruit per un vent violent",
+        "Engolit per la tèrra",
+        "Afogat dins la mar",
+        "Tustat per una tempèsta de pèiras"
+      ],
+      "answer": "Fugiguèron dins una cauna per escapar a la persecucion per lor fe"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un can que garda l'intrada de la cauna",
+        "Una granda arca",
+        "Un baston que se transformèt en sèrp",
+        "Un aucèl cercle",
+        "Un vedèl d'aur"
+      ],
+      "answer": "Un can que garda l'intrada de la cauna"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Demorèron dins la cauna pendent 309 ans e foguèron alara levats coma signe",
+        "Foguèron convertits en monins",
+        "Foguèron destruchas per una inondacion",
+        "Foguèron faches per traversar la mar",
+        "Lor foguèt donat un reialme"
+      ],
+      "answer": "Demorèron dins la cauna pendent 309 ans e foguèron alara levats coma signe"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

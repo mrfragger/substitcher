@@ -1,0 +1,61 @@
+{
+  "title": "Al'ummar da ta ƙalubalanci Ɗakin Tsarki",
+  "intro": "A zamanin da, wata ƙasa mai ƙarfi ta yanke shawarar kai hari kan wani wuri mai tsarki da masu imani ke girmamawa. Wannan ƙungiya tana da wadata, ƙarfi, kuma tana da kwarin gwiwa a ƙarfinta na soja. Sun zo da wani babban halitta wanda zai zama makamin yaƙinsu. Manufarsu a bayyane take: su rushe gidan alfarma da kuma murƙushe imanin mutanenta. Amma girman kansu zai fuskanci mummunan martani daga sama. Wannan abin tarihi ya zama alama da darasi ga duk waɗanda suka biyo baya. Za ku iya gane wannan ƙungiyar daga alamun?",
+  "clues": [
+    "Mun kasance ƙasa mai albarka da wadata da ƙwarewar soja.",
+    "Mun tattara sojojinmu muka kawo wata babbar dabba don amfani da ita a yakin neman zabenmu.",
+    "Abin da muke nufi shi ne wani wuri mai tsarki da muke son rusawa gaba ɗaya.",
+    "Mun yi imani cewa ƙarfinmu zai isa ya shawo kan kowace kariya daga Allah.",
+    "Amma Ubangiji ya aiko mana da azaba daga sama da ba mu yi tsammani ba.",
+    "An halaka mu nan take, an warwatse mu kamar bambaro da ya fashe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Giwa",
+        "Mutanen Samudawa",
+        "Mutanen 'Ad",
+        "Ma'abota Kogo",
+        "Al'ummar Annabi Hud"
+      ],
+      "answer": "Mutanen Giwa"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Tafiya giwa zuwa gidan alfarma don ya lalata shi",
+        "Gina hasumiya don isa ga sammai",
+        "Gina gunki na zinariya don bauta",
+        "Ƙin sauraron manzon Allah",
+        "Tona rijiya don cutar da masu imani"
+      ],
+      "answer": "Tafiya giwa zuwa gidan alfarma don ya lalata shi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Giwa",
+        "Ɗan Maraƙin Zinare",
+        "Ma'aikacin Musa",
+        "Kifin Yunus",
+        "Karfe na Dawud"
+      ],
+      "answer": "Giwa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An lalata su da tarin tsuntsaye da duwatsu",
+        "An nutsar da su cikin ambaliyar ruwa mai girma",
+        "An mayar da su birrai da aladu",
+        "An binne su a ƙarƙashin duwatsun da ke faɗuwa daga wani dutse",
+        "Wuta daga sama ta ƙone su"
+      ],
+      "answer": "An lalata su da tarin tsuntsaye da duwatsu"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

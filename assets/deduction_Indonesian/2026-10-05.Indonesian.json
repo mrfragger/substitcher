@@ -1,0 +1,61 @@
+{
+  "title": "Kepercayaan yang Diberikan kepada Sungai",
+  "intro": "Sebuah jiwa dihadapkan pada sebuah perintah yang mustahil, di mana nyawa seorang bayi yang baru lahir berada dalam bahaya. Dipandu oleh ilham ilahi, sebuah perintah putus asa dipatuhi, dan sebuah rahasia berharga dihanyutkan oleh arus, hanya untuk dikembalikan dengan cara yang tak terduga.",
+  "clues": [
+    "Aku hidup di bawah bayang-bayang seorang tiran yang memerintahkan pembunuhan bayi laki-laki yang baru lahir.",
+    "Ilham ilahi datang kepadaku, memerintahkanku untuk mengambil tindakan yang putus asa dan memilukan hati.",
+    "Aku menempatkan bayiku yang berharga di dalam peti dan meletakkannya di atas sungai yang mengalir.",
+    "Hatiku terasa hampa, dan aku hampir mengungkapkan rahasia itu, tetapi Allah menguatkan tekadku.",
+    "Saya mengirim seseorang untuk mengikuti perjalanan anak itu ke hilir saat arus membawa peti itu pergi.",
+    "Anak itu ditemukan oleh keluarga sang tiran, dan akhirnya, saya dipertemukan kembali dengan anak saya dan menjadi pengasuhnya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Ibu Nabi Musa",
+        "Asiya (Istri Firaun)",
+        "Maryam (Ibu Nabi Isa)",
+        "Istri Nabi Lut",
+        "Ibu dari Nabi Yahya (istri Zakariya)"
+      ],
+      "answer": "Ibu Nabi Musa"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Dia menempatkan anaknya di dalam peti dan meletakkannya di sungai.",
+        "Dia menyembunyikan anaknya di dalam sebuah gua.",
+        "Dia meninggalkan anaknya di padang pasir.",
+        "Dia melemparkan anaknya ke dalam api.",
+        "Dia meninggalkan anaknya di depan pintu sebuah masjid."
+      ],
+      "answer": "Dia menempatkan anaknya di dalam peti dan meletakkannya di sungai."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Sebuah peti diletakkan mengapung di sungai.",
+        "Semak yang terbakar",
+        "Tongkat yang berubah menjadi ular",
+        "Meja yang dipenuhi dengan makanan dari surga",
+        "Seekor unta betina dikirim sebagai pertanda."
+      ],
+      "answer": "Sebuah peti diletakkan mengapung di sungai."
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Dia dipertemukan kembali dengan anaknya dan menyusuinya.",
+        "Dia tidak pernah melihat anaknya lagi.",
+        "Dia dieksekusi oleh sang tiran.",
+        "Dia menjadi ratu di Mesir.",
+        "Dia bermigrasi ke negeri lain dan hidup dalam pengasingan."
+      ],
+      "answer": "Dia dipertemukan kembali dengan anaknya dan menyusuinya."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

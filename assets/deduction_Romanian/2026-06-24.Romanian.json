@@ -1,0 +1,61 @@
+{
+  "title": "Păzitorul Flăcării Nestinse",
+  "intro": "O figură stă la pragul celui mai temut loc din nevăzut, fiind însărcinată cu o datorie pe care nicio altă ființă nu și-o dorește. Când sufletele suferinde imploră milă, un răspuns sever răsună prin camerele de foc. Poți descoperi identitatea acestui gardian etern?",
+  "clues": [
+    "Stau la intrarea unui loc terifiant al pedepsei, în nevăzut.",
+    "Un foc arzător, nestins, este piesa centrală a datoriei mele solemne.",
+    "Suflete suferinde îmi strigă numele, implorând alinare de la chinul lor nesfârșit.",
+    "Când vor implora, declar că nu vor pleca niciodată.",
+    "Nu sunt om, nici djinn — sunt o ființă creată din pură ascultare.",
+    "Eu sunt îngerul șef numit gardian etern al Focului Iadului."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Oamenii din Iad imploră ca chinul lor să ia sfârșit",
+        "Trâmbița este suflată pentru a semnala Ziua Judecății",
+        "Coranul este revelat inimii Profetului",
+        "Un profet este aruncat într-un foc mare de către poporul său",
+        "Un zid puternic este construit pentru a ține sub control o națiune coruptă"
+      ],
+      "answer": "Oamenii din Iad imploră ca chinul lor să ia sfârșit"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Focul Iadului (Jahannam)",
+        "Arborele de lotus de la granița Paradisului",
+        "O trompetă pătrunzătoare",
+        "Un toiag care se transformă într-un șarpe",
+        "Un tron ​​divin magnific"
+      ],
+      "answer": "Focul Iadului (Jahannam)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Locuitorilor Iadului li se spune că vor rămâne veșnic",
+        "Locuitorii Iadului sunt iertați și eliberați",
+        "Locuitorilor Iadului li se acordă o a doua șansă la credință",
+        "Locuitorii Iadului sunt mutați într-un loc răcoros",
+        "Locuitorii Iadului sunt complet distruși de un trăsnet"
+      ],
+      "answer": "Locuitorilor Iadului li se spune că vor rămâne veșnic"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

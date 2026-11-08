@@ -1,0 +1,61 @@
+{
+  "title": "Saray Manag-ukit na Bato ed Kadaanan a Lawak",
+  "intro": "Isipen pa so sakey a sibilisasyon ya inmalagey ed saray mabaton lawak na Arabia, a marundunong a mangukit na mararakep iran kaabungan manlapud gilig na kapalandeyan. Inmaligwas ira ed biskeg tan inka-artista, balet say istorya ra et walaan na makapataktakot ya ag-inmabobon ed madibinon pasakbay. No uusisaen mo so istorya ra, nanengneng mo ray totoon say inkatangsit da et sengegan na inkaandi ra. Siopa ra?",
+  "clues": [
+    "Natawir mi so dalin a mabaton patar tan atagey iran pukdol, a ditan mi impaalagey iray ayaman mi tekep na agnaparaan a dunong.",
+    "Kabkabat kami ed panag-ukit na maligen iran kaabungan ed kapalandeyan, ya liknaen min maligen kami ed antokaman a pakasakitan.",
+    "Sakey a mensahero so sinmabi ed sikami a nanlapud limog mi, ya angipanonot ed sikami na saray pabor nen Allah tan angipasakbay ed sikami nipaakar ed dusa.",
+    "Kinmerew kami na tanda, tan sakey a mamilagron kabatyan a kamelyo so pinmaway ed bato, sakey a malinew a subok manlapud si Allah.",
+    "Inunor mi so pasakbay tan pinuter mi so kabatyan a kamelyo, ya inelek-elekan mi so mensahero tan insuppiat mi so dusa.",
+    "Sakey a putok so sinmabi ed sikami diad kaabungan mi, tan nen kabuasan et akarukol kami, a singa kami agnin balot nanayam diman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Saray totoo ed Thamud",
+        "Saray totoo na 'Ad",
+        "Saray totoo ed Madyan",
+        "Saray totoo ed Nuh",
+        "Saray totoo ed Lut"
+      ],
+      "answer": "Saray totoo ed Thamud"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Pinuter so kabatyan a kamelyo",
+        "Insumlang toy Sabaton",
+        "Indayew so balitok a kilaw a baka",
+        "Pinatey so propita ya imbaki ed sikara",
+        "Nanggawa na tori pian makasabi ed tawen"
+      ],
+      "answer": "Pinuter so kabatyan a kamelyo"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say kabatyan a kamelyo",
+        "Say Kaban",
+        "Saray staff",
+        "Say amputin lima",
+        "Say mana tan saray pugo"
+      ],
+      "answer": "Say kabatyan a kamelyo"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Dineral na sakey ya insabog",
+        "Niliktar manlapud kadederal",
+        "Nagmaliw ya ayep",
+        "Nalner ed dayat",
+        "Inakmon na dalin"
+      ],
+      "answer": "Dineral na sakey ya insabog"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

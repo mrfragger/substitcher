@@ -1,0 +1,61 @@
+{
+  "title": "Posvátná nepřítomnost",
+  "intro": "Za dunami času se skrývá příběh neochvějné oddanosti a důvěry tak těžké, že duše, která ji nesla, se mohla zlomit. V okamžiku, kdy se lidé obrátili k pošetilosti a zlatu, jedna postava stála pevně – volala je zpět, prosila o trpělivost a nesla tíhu posvátného slibu. Toto je příběh toho, kdo byl vybrán jako pomocník, vezír a strážce víry během posvátné nepřítomnosti. Dokážete odhalit identitu této neochvějné duše?",
+  "clues": [
+    "Sdílím krev velkého proroka, který byl vybrán, aby hovořil s Alláhem přímo na posvátné hoře.",
+    "Můj bratr jednou prosil Alláha o pomoc, aby mohl jasně promluvit s velkým utlačovatelem.",
+    "Byl jsem vyvolen Alláhem, abych stál po boku svého bratra jako pomocník a vezír.",
+    "Společně jsme čelili tyranskému vládci, který požadoval, aby byl nazýván nejvyšším z bohů.",
+    "Zatímco můj bratr hovořil s Alláhem na hoře, náš lid si ze svého zlata vyrobil modlu.",
+    "Jsem bratr Mojžíše, kterého Alláh ustanovil svým vezírem a jmenovitě zmínil v Koránu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Harun (Áron)",
+        "Prorok Músa",
+        "Prorok Dawud",
+        "Prorok Jakub",
+        "Prorok Ishák"
+      ],
+      "answer": "Prorok Harun (Áron)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Krize uctívání telete",
+        "Velká potopa Nuha",
+        "Bitva u Badru",
+        "Zničení Thamudu",
+        "Zničení Sodomy"
+      ],
+      "answer": "Krize uctívání telete"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zlaté tele",
+        "Noemova archa",
+        "Hořící keř",
+        "Jeskyně Hira",
+        "Trůn ze Sáby"
+      ],
+      "answer": "Zlaté tele"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Nevinnost potvrzená Alláhem",
+        "Utonutí faraona",
+        "Stavba Kaaby",
+        "Bezpečný přejezd moře",
+        "Nanebevstoupení do nebes"
+      ],
+      "answer": "Nevinnost potvrzená Alláhem"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

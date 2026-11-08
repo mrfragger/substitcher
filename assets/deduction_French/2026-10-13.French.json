@@ -1,0 +1,61 @@
+{
+  "title": "L'adversaire ardent",
+  "intro": "Dès les premiers temps de la révélation, un personnage se détacha comme un adversaire acharné de la vérité. Doté de richesses et d'un statut social élevé, cet être choisit l'orgueil plutôt que la voie à suivre, et son histoire devint un avertissement poignant dans les derniers versets d'une sourate.",
+  "clues": [
+    "J'habitais la même ville que le Prophète, et j'étais parmi ses plus proches parents, pourtant mon orgueil m'a tenu à l'écart de la vérité.",
+    "Je possédais une grande richesse et de nombreuses propriétés, et je pensais que mes ressources me protégeraient toujours.",
+    "Lorsque le message fut révélé, je m'en moquai ouvertement et me détournai, me considérant supérieur aux croyants.",
+    "Mon inimitié était si notoire qu'une sourate du Coran s'adressait directement à moi, m'appelant par le nom que les autres portaient à moi.",
+    "On m'avait prévenu que ma richesse et mes gains ne me serviraient à rien, et que je serais jeté dans un brasier ardent.",
+    "On me connaît comme le père du feu, et ma femme transportera le bois de chauffage avec une corde en fibres de palmier autour du cou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Abou Lahab",
+        "Abou Jahl",
+        "Abou Soufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abou Lahab"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il a rejeté l'islam et s'est ouvertement opposé au Prophète.",
+        "Ils ont comploté pour assassiner le Prophète",
+        "A mené un boycott social contre les musulmans",
+        "Combattu lors de la bataille de Badr",
+        "Bilal ibn Rabah torturé"
+      ],
+      "answer": "Il a rejeté l'islam et s'est ouvertement opposé au Prophète."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une corde en fibre de palmier",
+        "Une épée tranchante",
+        "Une lourde chaîne",
+        "Un bâton en bois",
+        "Un fouet en cuir"
+      ],
+      "answer": "Une corde en fibre de palmier"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Brûlera dans un feu ardent",
+        "Il se repentit et devint compagnon",
+        "Il a perdu sa fortune mais est mort dans les honneurs.",
+        "S'est enfui en Abyssinie",
+        "Noyé dans la mer"
+      ],
+      "answer": "Brûlera dans un feu ardent"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

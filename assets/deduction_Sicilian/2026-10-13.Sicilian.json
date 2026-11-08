@@ -1,0 +1,61 @@
+{
+  "title": "L'Avvirsariu ardenti",
+  "intro": "Ntê primi jorna dâ rivelazzioni, na figura cumparìu comu n'avversàriu testardu dâ virità. Benedettu di ricchìzza e status, chista ànima scigghiù l'orgògliu supra la guida e la sò storia addivintàu n'avvertimentu forti ntê versi finali di na sura.",
+  "clues": [
+    "Vivìa ntâ stissa città dû prufeta, e era tra li parenti cchiù vicini a iḍḍu, ma lu me orgògliu mi tinìa luntanu dâ virità.",
+    "Avìa na granni ricchìzza e assài prupietà e pinsài ca li me risursi mi putìanu sempri prutèggiri.",
+    "Quannu lu messaggiu fu rivilatu, lu deridìa apertamente e mi vutai, cunsidirannumi supiriuri ê cridenti.",
+    "La me nimicizia era accussì famusa ca na sura dû Curanu mi rifiriu direttamenti, chiamannumi cû nomi ca l'àutri mi canuscìanu.",
+    "Fui avvirtutu ca la me ricchìzza e li me guadagni non mi putìanu serviri e mi buttàru ntô focu ardenti.",
+    "Sugnu canusciutu comu lu patri dâ ciamma, e me mugghieri purterà la ligna cu na corda di fibbra di palma ntô coddu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sugnu iu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyanu",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Pruva/Eventu",
+      "options": [
+        "Rifiutau l'Islam e s'uppunìu apertamenti ô Prufeta",
+        "Tramatu p'assassinari lu Prufeta",
+        "Cunnucìu nu boicottaggiu suciali contra li mussurmani",
+        "Cummattutu ntô cummattimentu di Badr",
+        "Turturatu Bilal ibn Rabah"
+      ],
+      "answer": "Rifiutau l'Islam e s'uppunìu apertamenti ô Prufeta"
+    },
+    "location": {
+      "label": "Elementu chiavi",
+      "options": [
+        "Na corda di fibbra di palma",
+        "Na spada affilata",
+        "Na catina pisanti",
+        "Na staffa di lignu",
+        "Na frusta di peddi"
+      ],
+      "answer": "Na corda di fibbra di palma"
+    },
+    "outcome": {
+      "label": "Risurtatu",
+      "options": [
+        "Bruciarà nta nu focu ardenti",
+        "Si pintìu e addivintau cumpagnu",
+        "Pirdìu la ricchizza ma murìu unuratu",
+        "Fujiu 'n Abbissinia",
+        "Annegatu ntô mari"
+      ],
+      "answer": "Bruciarà nta nu focu ardenti"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Između Zemlje i Neba",
+  "intro": "Tajanstvena duša vas čeka na svetim stranicama božanske historije, noseći znakove i čuda koja i dalje odjekuju kroz vijekove. Dok pratite trag tragova, putovat ćete kroz priču obilježenu čudima - od čudesnog početka do uspona izvan neba. Možete li prepoznati ovog blagoslovljenog slugu prije posljednjeg traga?",
+  "clues": [
+    "Poslan sam kao glasnik djeci Izraela s vijestima o milosti i svjetlosti.",
+    "Moje rođenje je bio čudesan znak - došao sam na ovaj svijet bez oca, po zapovijedi Svemogućeg.",
+    "Govorio sam još kao dojenče, braneći majčinu čast od optužbi njenog naroda.",
+    "Allahovom dozvolom, oblikovao sam ptice od gline i udahnuo im život - odletjele su pred očima onih koji su gledali.",
+    "Iscjeljivao sam slijepe od rođenja, izliječio gubavce, pa čak i uskrsavao mrtve - ipak, svako čudo je bilo po Allahovoj dozvoli, a ne po mojoj.",
+    "Kada su moji neprijatelji planirali da me unište, Allah me je uzdigao na nebesa i obećao moj povratak prije Sudnjeg dana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Isa (Isus)",
+        "Poslanik Musa (Musa)",
+        "Poslanik Ibrahim (Abraham)",
+        "Poslanik Muhamed",
+        "Poslanik Jusuf (Josif)"
+      ],
+      "answer": "Poslanik Isa (Isus)"
+    },
+    "trial": {
+      "label": "Odlučujući trenutak",
+      "options": [
+        "Bio sam uzdignut u nebesa",
+        "Bio sam bačen u plamteću vatru",
+        "Suočio sam se s moćnom faraonovom vojskom",
+        "Progutao me je veliki kit",
+        "Sagradio sam arku na planini"
+      ],
+      "answer": "Bio sam uzdignut u nebesa"
+    },
+    "location": {
+      "label": "Izvršen sveti znak",
+      "options": [
+        "Oblikovao/la sam ptice od gline",
+        "Pretvorio sam štap u zmiju",
+        "Podijelio sam mjesec na dva dijela",
+        "Zapovijedao sam vjetru i džinima",
+        "Iz stijene sam izveo kamilu"
+      ],
+      "answer": "Oblikovao/la sam ptice od gline"
+    },
+    "outcome": {
+      "label": "Šta je bilo sa mnom",
+      "options": [
+        "Uzdignut do nebesa; obećao da će se vratiti",
+        "Postao je veliki vladar carstva",
+        "Izveo svoj narod iz ropstva",
+        "Dobio je neuporedivo zemaljsko bogatstvo",
+        "Ponovo sam se ujedinio sa porodicom nakon duge razdvojenosti"
+      ],
+      "answer": "Uzdignut do nebesa; obećao da će se vratiti"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

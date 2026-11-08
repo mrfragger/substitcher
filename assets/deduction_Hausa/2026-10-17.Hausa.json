@@ -1,0 +1,61 @@
+{
+  "title": "Sha'awa a Ɗakin Tsarki",
+  "intro": "Ka shiga cikin wurin ibada mai natsuwa ka ga wani bawan Allah mai ibada yana tsaye yana addu'a. Hannuwansu a ɗaga, idanunsu a ɗaga, zuciyarsu kuma tana ɗauke da sha'awa wadda ta daɗe tana wanzuwa. Wanene wannan rai mai haƙuri wanda amincinsa ga Allah bai taɓa raguwa ba?",
+  "clues": [
+    "Na shafe shekaru masu yawa ina ibada da addu'a, ina ganin mu'ujizai da suka ƙarfafa bangaskiyata.",
+    "An ba ni nauyin kula da wani matashi mai albarka a cikin wurin ibada.",
+    "Yayin da na tsufa, babban baƙin cikina shi ne rashin haihuwa, domin matata ba ta da haihuwa kuma dukanmu mun tsufa.",
+    "Na yi addu'a ga Ubangijina don ya maye gurbina daga iyalina, wanda zai ci gaba da gadon annabci.",
+    "Yayin da nake tsaye a wurin addu'a, mala'iku suka kira ni, suna cewa, 'Allah yana ba ka albishir', sai tsoro da fargaba suka kama ni.",
+    "An gaya min zan haifi ɗa mai suna Yahya, sunan da ba a taɓa ba wa kowa ba a da, kuma a matsayin alama ba zan yi magana da mutane ba har tsawon kwana uku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Zakariyya",
+        "Annabi Yahaya",
+        "Annabi Isa",
+        "Annabi Dawuda",
+        "Lukman Mai Hikima"
+      ],
+      "answer": "Annabi Zakariyya"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Bakarariya da tsufa yayin da ake son magaji nagari",
+        "Ana jefa shi cikin wuta mai zafi",
+        "Babban kifi ya haɗiye shi",
+        "Rasa mulki ga azzalumi",
+        "Korar mutum daga ƙasarsa"
+      ],
+      "answer": "Bakarariya da tsufa yayin da ake son magaji nagari"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Wurin addu'a (mihrab)",
+        "Babban jirgin ruwa (Ark)",
+        "Dajin da ke ƙonewa",
+        "Sanda da ta zama maciji",
+        "Raƙumar Allah"
+      ],
+      "answer": "Wurin addu'a (mihrab)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba shi ɗa nagari kuma ya sake magana bayan kwana uku na shiru",
+        "Ambaliyar ruwa ta halaka shi saboda rashin imani",
+        "An ba shi babbar masarauta da iko a kan iska",
+        "An ceto shi daga cikin kifi",
+        "Ƙasa ta haɗiye ta"
+      ],
+      "answer": "An ba shi ɗa nagari kuma ya sake magana bayan kwana uku na shiru"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

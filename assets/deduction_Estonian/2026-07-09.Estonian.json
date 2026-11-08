@@ -1,0 +1,61 @@
+{
+  "title": "Püha leegi alistunud hing",
+  "intro": "Teie ees laiutab lugu erakordsest vaprusest, kus üks inimene julges vaidlustada terve tsivilisatsiooni kõige sügavamalt juurdunud uskumusi. Jälgige neid mineviku sosinaid ja avastate elu, mida iseloomustas vankumatu usk, imeline ellujäämine ja aluste rajamine, mis kujundasid miljardite inimeste vaimset teekonda. Jälgige iga vihjet hoolikalt – püha tuli mäletab endiselt.",
+  "clues": [
+    "Ma sündisin perre, kus austati taevakehi ja nikerdatud ebajumalaid, kuid miski sügaval minus hülgas selle, mida nad kummardasid.",
+    "Ma astusin vastu oma maa võimsaimale valitsejale, purustades needsamad ebajumalad, mille ees mu rahvas kummardas, ja kuulutades, et ainult taevaste Looja väärib pühendumist.",
+    "Minu nimel kästi süüdata lõõmav tuleriit, aga ma kuulutasin, et See, keda ma üksi teenin, päästab mind – ja leegid kästi jahtuda ja ohutuks muutuda.",
+    "Jumalikul käsul jätsin maha kõik tuttava, uitasin perega läbi kuivade orgude, usaldades midagi, mida ma veel ei näinud.",
+    "Seistes oma esmasündinud poja kõrval viljatus orus, rajasime koos püha koja vundamendi, pühamu, mis on määratud kõigile, kes alistuvad.",
+    "Mind tuntakse kui Khalilullahi – Kõige Halastaja lähedasemat sõpra – ja minu nimi on igaveseks seotud alistumise ja kuulekuse usuga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ibrahim (Aabraham)",
+        "Prohvet Musa (Mooses)",
+        "Prohvet Nuh (Noa)",
+        "Prohvet Isa (Jeesus)",
+        "Prohvet Muhamed ﷺ"
+      ],
+      "answer": "Prohvet Ibrahim (Aabraham)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Türann viskab ta lõõmavasse tulle",
+        "Merel suure kala sisse neelatud olemine",
+        "Kadedate vendade poolt auku langetamine",
+        "Tiivulise olendi seljas kõrgele kandmine",
+        "Suure üleujutuse talumine puust anumas"
+      ],
+      "answer": "Türann viskab ta lõõmavasse tulle"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Püha maja (Kaaba)",
+        "Suur puidust laev, mis on ehitatud mäele",
+        "Personal, mis võiks mere lahti lõhestada",
+        "Pika une koobas ustava hagijaga",
+        "Mäele antud ilmutatud seaduse rull"
+      ],
+      "answer": "Püha maja (Kaaba)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai tuntuks kui Khalilullah, Allahi lähedane sõber",
+        "Juhtis rahva üle lõhenenud mere ohutusse kohta",
+        "Sai võimu tuulte ja nähtamatute jõudude üle",
+        "Sai ravitsejaks, keda õnnistati imeliste tervenemistega",
+        "Ühendas kaksteist hajutatud suguharu ühe lepingu alla"
+      ],
+      "answer": "Sai tuntuks kui Khalilullah, Allahi lähedane sõber"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

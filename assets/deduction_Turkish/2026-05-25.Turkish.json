@@ -1,0 +1,61 @@
+{
+  "title": "Atanmış Halef",
+  "intro": "Geçmiş çağlardan bir figür, tarihe geçmeye hazır bir şekilde duruyor. Yolun belirsiz göründüğü ve halk arasında şüphelerin yayıldığı bir dönemde, bu hizmetkar rehberlik görevini üstlenmek üzere seçildi. Kutsal bir görevin ağırlığını omuzlarında taşıyan bu kişi, başkalarının takip etmekte tereddüt ettiği yerde önderlik etmek için öne çıktı.",
+  "clues": [
+    "Bir peygambere eşlik etmek üzere seçildim ve onun bilgeliğinden dersler aldım.",
+    "Rabbimizin vaadi yaklaşırken, Sandığın önünde durdum ve insanların şüpheye düşmeye başladığını gördüm.",
+    "Liderimiz kederlenip Allah'a bizim için dua ederken, ben vaat edilenin eşiğinde durmak zorunda kaldım.",
+    "Benden önce başka birine verilmiş olan bir görevi devam ettirmekle görevlendirildim.",
+    "İnsanları hedeflerine ulaştırmak için bana ilahi bir yetki verildi.",
+    "Benden önce başlatılan işi tamamlamayı başardım ve halktan rehberliğime dair onay aldım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Yusha ibn Nun",
+        "Yefunneh'in oğlu Kaleb",
+        "Eldad ve Medad",
+        "Peygamber Ezekiel (Hizqiyyal)",
+        "Peygamber Harun (Harun)"
+      ],
+      "answer": "Yusha ibn Nun"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Vaat edilen Kutsal Topraklara girmeyi reddetmek",
+        "Firavunun orduları denizde bizi kovalıyordu.",
+        "Altın buzağıya tapınma",
+        "Tevrat'ın emrini duyunca şüpheye düşmek",
+        "Dathan ve Abiram'ın isyanı"
+      ],
+      "answer": "Vaat edilen Kutsal Topraklara girmeyi reddetmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Musa'ya verilen Tevrat rulosu.",
+        "Savaşta Ahd Sandığı",
+        "Ürdün Nehri geçişi",
+        "Kırk yıllık çöl",
+        "Sina Dağı'nın vahyi"
+      ],
+      "answer": "Musa'ya verilen Tevrat rulosu."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Vaat Edilen Kutsal Topraklara Giriş",
+        "İstilacılara karşı koruyucu bir duvar inşa etmek",
+        "Kutsal bir ibadethane inşa etmek",
+        "Gerçeği inkar edenlerin peşinde boğulmak",
+        "Yozlaşmış bir halkın putlarını yıkmak"
+      ],
+      "answer": "Vaat Edilen Kutsal Topraklara Giriş"
+    }
+  },
+  "verseRef": "5:21",
+  "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+  "verse": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" (5:21)"
+}

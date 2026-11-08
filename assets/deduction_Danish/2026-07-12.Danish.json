@@ -1,0 +1,61 @@
+{
+  "title": "Den forsvundne by af uovertruffen majestæt",
+  "intro": "Engang dominerede en mægtig civilisation store dele af jorden, berømt for tårnhøje bygninger, der strakte sig mod himlen. Men under denne storhed voksede en stædig fornægtelse – en afvisning af at lytte til den guddommelige advarsel, der blev sendt indefra selve samfundet. Stolthed og arrogance ville snart medføre en straf, hvis lige hverken jorden eller himlen nogensinde havde set.",
+  "clues": [
+    "Vi herskede engang over store dele af jorden, pralede af en styrke, vi mente, at ingen anden civilisation kunne matche.",
+    "Vores rige var berømt for tårnhøje strukturer med mægtige søjler, der stod uovertrufne i ethvert kendt land.",
+    "En advarer fra vores eget samfund rejste sig og opfordrede os hver især til at underkaste os den ene Skaber alene.",
+    "Vi fornægtede det budskab, der blev overbragt til os, og nægtede at opgive den vej, vi havde arvet.",
+    "En rasende, hylende vind af overvældende voldsomhed blev sluppet løs imod os og efterlod os fuldstændig forsvarsløse.",
+    "Vi blev efterladt som udhulede palmestammer, spredt og glemt, som en lektie for hver generation efter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i A'ad",
+        "Folket i Nuh",
+        "Luts folk",
+        "Folk i Madyan",
+        "Folk fra Tubba'"
+      ],
+      "answer": "Folket i A'ad"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "En uophørlig, rasende vind af hård straf",
+        "En oversvømmelse, der dækkede hver eneste bjergtop",
+        "En regn af brændende lersten ovenfra",
+        "Et enkelt skræmmende skrig fra himlen",
+        "Et voldsomt jordskælv, der splittede landet"
+      ],
+      "answer": "En uophørlig, rasende vind af hård straf"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Iram, byen med de høje søjler",
+        "En massiv ark af træ bygget på et bjerg",
+        "En hunkamel, der mirakuløst kom ud af stenen",
+        "Sinaibjerget, hvor guddommelige befalinger nedstammer",
+        "Et palads af krystal og fint glas med udsigt over strømmende vand"
+      ],
+      "answer": "Iram, byen med de høje søjler"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Efterladt som udhulede palmestammer, spredte og livløse",
+        "Druknet under de overvældende bølger af en stor oversvømmelse",
+        "Forvandlet til væsner, der ligner aber og svin",
+        "Knust under en regn af hærdede lersten",
+        "Fortæret af et enkelt øredøvende råb, der gennemborede sjælen"
+      ],
+      "answer": "Efterladt som udhulede palmestammer, spredte og livløse"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

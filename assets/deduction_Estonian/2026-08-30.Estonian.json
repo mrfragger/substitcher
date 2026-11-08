@@ -1,0 +1,61 @@
+{
+  "title": "Ilmutuse usaldusväärne vaim",
+  "intro": "Nähtamatutes valdkondades liigub puhta valguse olend täpselt, täites iga käsku kõhklemata. See kuju on rääkinud valitud teenijatega, toonud juhiseid ja olnud tunnistajaks jumalike määruste avaldumisele läbi aegade. Kes on see austatud hing?",
+  "clues": [
+    "Ma olen puhta valguse olend, loodud valgusest ja ma pole kunagi rikkunud ühtegi oma Issanda käsku.",
+    "Ma liigun taevaste ja maa vahel, laskudes alla Kõige Halastaja määrustega.",
+    "Mind saadeti pühamusse ülla neitsi juurde, kuulutades talle puhast poega.",
+    "Mina olen pühaduse vaim ja toetasin prohvetit, kellele anti selged märgid ja evangeelium.",
+    "Ma jõudsin mäe otsas asuvasse koopasse, et esitada esimesed sõnad ettekandest, mis jääksid igaveseks alles.",
+    "Mina olen usaldusväärne vaim ja just mina tõin Koraani viimase sõnumitooja südamesse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Džibril (Gabriel)",
+        "Mikail (Michael)",
+        "Surma ingel",
+        "Malik (põrgu pidaja)",
+        "Harut (üks kahest Babüloni inglist)"
+      ],
+      "answer": "Džibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Põhimissioon/roll",
+      "options": [
+        "Ilmutuse edastamine prohvetitele",
+        "Trompeti puhumine kohtupäeval",
+        "Põrgu väravate valvamine",
+        "Inimeste tegude jäädvustamine",
+        "Vihma sadama panemine"
+      ],
+      "answer": "Ilmutuse edastamine prohvetitele"
+    },
+    "location": {
+      "label": "Põhiatribuut või pealkiri",
+      "options": [
+        "Püha Vaim (Ruh al-Qudus)",
+        "Võimu vaim",
+        "Halastuse Vaim",
+        "Juhtimise vaim",
+        "Tõe Vaim"
+      ],
+      "answer": "Püha Vaim (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Missiooni tulemus",
+      "options": [
+        "Koraan ilmutati prohvet Muhamedile",
+        "Kohtupäeval puhuti trompetit",
+        "Põrgut valvati ja selle väravad olid suletud",
+        "Tegude raamat esitati Allahile",
+        "Vihm saadeti maa peale"
+      ],
+      "answer": "Koraan ilmutati prohvet Muhamedile"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

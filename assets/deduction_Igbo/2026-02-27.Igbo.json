@@ -1,0 +1,61 @@
+{
+  "title": "Olu nke Ihe A Na-ahụghị Anya",
+  "intro": "N'akwụkwọ akụkọ nke nkwurịta okwu Chineke, otu onye pụtara ìhè nke akụkọ ya jupụtara n'ihe ịrịba ama ọrụ ebube na okwukwe siri ike. Onye a natara mkpughe pụrụ iche nke gbara ụkpụrụ nke oge ha aka, na-ekwu okwu site n'ihe karịrị ihe mkpuchi nke nghọta nkịtị. Ozi ha abịaghị site na ụzọ nkịtị kama site na njikọ miri emi nke megidere nghọta mmadụ, na-akpọ ndị mmadụ ka ha mata eziokwu n'ụzọ a na-atụghị anya ya. Njem nke ohu Allah a na-eje ozi dị ka ihe akaebe nke otu nduzi nwere ike isi pụta ìhè n'ọnọdụ kachasị pụrụ iche, na-akpọku ntụgharị uche na ọdịdị nke mkpughe n'onwe ya.",
+  "clues": [
+    "E nyere m ozi sitere n'olu dị omimi nke sitere n'ebe a na-anaghị ahụ anya.",
+    "Ndị m jụrụ ozi m na mbụ, na-achọ ihe akaebe ọdịnala karịa nke eziokwu m.",
+    "Agwara m ha ka ha mepụta ihe yiri nke m natara, mana ha enweghị ike ime ya.",
+    "A kọwara mkpughe m wetara dị ka amaokwu doro anya nke mere ka eziokwu ahụ pụta ìhè.",
+    "Adọọla m ndị m aka ná ntị maka ntaramahụhụ siri ike ma ọ bụrụ na ha anọgide na-ekwereghị na mpako.",
+    "A kpọtụrụ akụkọ m n'akụkụ ndị ozi ndị ọzọ n'ime sura nke na-emesi ike ihe ịrịba ama nke ike Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Hud",
+        "Onye Amụma Salih",
+        "Onye Amụma Shuaib",
+        "Onye kwere ekwe si n'ezinụlọ Fero",
+        "Onye Amụma Mozis"
+      ],
+      "answer": "Onye Amụma Salih"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịtụba n'ime ọkụ na-ere ọkụ",
+        "Iche ihu mmegbu nke onye ọchịchị aka ike",
+        "Ịmepụta nne kamel dị ka ihe ịrịba ama dị ebube",
+        "Ịlanarị nnukwu idei mmiri",
+        "A tụbara ya n'ime oké osimiri n'ime igbe"
+      ],
+      "answer": "Ịmepụta nne kamel dị ka ihe ịrịba ama dị ebube"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ndagwurugwu Tuwa",
+        "Obodo Madyan",
+        "Ala nke Temọd",
+        "Ụlọikpe Fero",
+        "Ọgba Hira"
+      ],
+      "answer": "Ala nke Temọd"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "answer": "E bibiri ndị m maka igbu nne kamel dị ebube",
+      "options": [
+        "Ndị m chegharịrị ma zọpụta ha",
+        "E buru m gaa eluigwe dị ndụ",
+        "E bibiri ndị m maka igbu nne kamel dị ebube",
+        "Aghọrọ m onye ọchịchị ukwu",
+        "E tinyere m n'ime ụgbọ e ji azọpụta m"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muqaddas Yo'qlik",
+  "intro": "Vaqt qumtepalaridan tashqarida, so'zsiz sadoqat va ishonch haqidagi hikoya bor, uni ko'tarib yurgan qalb sindirib yuborishi mumkin edi. Odamlar ahmoqlik va oltinga yuz o'girgan bir paytda, bir shaxs qat'iy turdi - ularni qaytarib chaqirdi, sabr-toqat so'radi va muqaddas va'daning og'irligini ko'tardi. Bu muqaddas yo'qlik paytida yordamchi, vazir va iymon qo'riqchisi sifatida tanlangan kishining hikoyasi. Bu sobit qalbning kimligini ochib bera olasizmi?",
+  "clues": [
+    "Men muqaddas tog'da Alloh bilan to'g'ridan-to'g'ri gaplashish uchun tanlangan buyuk payg'ambarning qonini baham ko'raman.",
+    "Bir kuni akam Allohdan zolim zolim bilan aniq gaplashishda yordam so'rab iltijo qildi.",
+    "Alloh meni akamning yonida yordamchi va vazir sifatida turishga tanladi.",
+    "Biz birgalikda xudolarning eng oliysi deb atalishni talab qilgan zolim hukmdorga duch keldik.",
+    "Akam tog'da Alloh bilan muloqot qilayotgan paytda, bizning xalqimiz o'zlarining oltinlaridan o'zlari uchun but yasashdi.",
+    "Men Musoning akasiman, Alloh tomonidan uning vaziri etib tayinlanganman, Qur'onda nomi bilan zikr qilinganman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Horun (Horun)",
+        "Muso payg'ambar",
+        "Payg'ambar Dovud",
+        "Ya'qub payg'ambar",
+        "Payg'ambar Ishoq"
+      ],
+      "answer": "Payg'ambar Horun (Horun)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buzoqqa sig'inish inqirozi",
+        "Nuhning buyuk to'foni",
+        "Badr jangi",
+        "Samudning vayron bo'lishi",
+        "Sado'mning vayron bo'lishi"
+      ],
+      "answer": "Buzoqqa sig'inish inqirozi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Nuh kemasi",
+        "Yonayotgan buta",
+        "Hiro g'ori",
+        "Sheba taxti"
+      ],
+      "answer": "Oltin buzoq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Alloh tomonidan tasdiqlangan begunohlik",
+        "Fir'avnning cho'kishi",
+        "Ka'ba binosi",
+        "Dengizdan xavfsiz o'tish",
+        "Osmonga ko'tarilish"
+      ],
+      "answer": "Alloh tomonidan tasdiqlangan begunohlik"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

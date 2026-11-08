@@ -1,0 +1,61 @@
+{
+  "title": "Il primo sangue versato per invidia",
+  "intro": "Immaginate gli albori dell'umanità, quando il mondo intero era un'unica famiglia. Osservate due offerte poste davanti ad Allah: una accettata, l'altra rifiutata. L'invidia si insinua in un cuore e una minaccia viene sussurrata con rabbia. Ciò che segue lascerà un segno indelebile nella storia, e persino un piccolo uccello diventerà un maestro.",
+  "clues": [
+    "Io appartengo alla primissima famiglia sulla Terra.",
+    "Ho presentato un'offerta ad Allah, ma la mia non è stata accettata, mentre l'altra sì.",
+    "Ho parlato spinto dall'invidia e ho minacciato di uccidere qualcuno.",
+    "Ho commesso il primo omicidio ingiusto sulla Terra.",
+    "Ho visto un corvo grattare il terreno per mostrarmi come nascondere un cadavere.",
+    "Fui assalito dal rimorso e finii tra i perdenti per ciò che le mie mani avevano fatto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Qabil (Caino), figlio di Adamo",
+        "Samiri, il creatore del vitello",
+        "Namrud, il tiranno che discusse con Ibrahim",
+        "Azar, il creatore di idoli",
+        "Kan'an, il figlio annegato di Nuh"
+      ],
+      "answer": "Qabil (Caino), figlio di Adamo"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Omicidio di un fratello per invidia dopo un'offerta rifiutata",
+        "Costruire un'alta torre per guardare il cielo",
+        "Realizzazione di un vitello d'oro per il culto",
+        "Pretendendo una tavola imbandita dal cielo",
+        "Guidare un esercito di elefanti per distruggere la Kaaba"
+      ],
+      "answer": "Omicidio di un fratello per invidia dopo un'offerta rifiutata"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un corvo che gratta la terra per indicare una sepoltura",
+        "Un vitello dorato che muggiva",
+        "Una grande arca sulle acque del diluvio",
+        "Un bastone che si trasformò in un serpente",
+        "Una tavola imbandita con cibo paradisiaco."
+      ],
+      "answer": "Un corvo che gratta la terra per indicare una sepoltura"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Si pentì e si ritrovò tra i perdenti",
+        "Annegò nella grande alluvione",
+        "Fu inghiottito dalla terra con un tesoro",
+        "Fu colpito dalla lebbra per sette anni",
+        "Gli fu concesso un regno con il controllo dei venti"
+      ],
+      "answer": "Si pentì e si ritrovò tra i perdenti"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

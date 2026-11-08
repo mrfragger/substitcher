@@ -1,0 +1,61 @@
+{
+  "title": "D'Architekten vum Steen",
+  "intro": "Stellt Iech eng mächteg Zivilisatioun vir, déi mat Kraaft a Geschécklechkeet begabt ass, déi grouss Wunnengen an d'Bierghäng schaaft. Dëst Kollektiv hat en immense Räichtum an eng eenzegaarteg architektonesch Fäegkeet. Trotz kloere Warnungen hunn si awer e Wee gewielt, deen zu engem dramateschen an onvergiessleche Schluss féiere géif. Kënnt Dir dës Grupp identifizéieren, där hir Geschicht eng déifgräifend Lektioun fir all déi ass, déi nodenken?",
+  "clues": [
+    "Mir kruten Kraaft a Fäegkeeten, déi et eis erméiglecht hunn, prächteg Haiser direkt an de Bierger ze schmieden.",
+    "Mir kruten e kloert Zeechen vun Allah, eng eenzegaarteg Kreatur, déi ongestéiert sollt grasen.",
+    "Eis Gemeinschaft ass arrogant ginn a huet déi göttlech Botschaft a Fro gestallt, déi vun engem Messenger aus eiser Mëtt bruecht gouf.",
+    "Mir hunn eis verschwuer, fir dem wonnerbare Zeechen ze schueden, trotz de Warnungen virun enger schwéierer Strof.",
+    "Mir hunn dem Uerder widdersprach, déi speziell Kreatur all Dag aus eisem Buer drénken ze loossen.",
+    "Mir sinn engem verheerenden Enn erfëllt, vun enger eenzeger, erschreckender Explosioun no eisem Akt vun Iwwertriedung getraff."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "Leit vun 'Ad",
+        "D'Leit vu Midian",
+        "D'Leit vum Elefant",
+        "Leit vun Thamud",
+        "Leit vu Lut"
+      ],
+      "answer": "Leit vun Thamud"
+    },
+    "trial": {
+      "label": "Eis grouss Prouf/Evenement",
+      "options": [
+        "D'Iwwerschwemmung, déi d'Land iwwerschwemmt huet",
+        "D'Spaltung vum Mier",
+        "D'Zerstéierung duerch een eenzegen Explosioun/Schrei",
+        "D'Verbrenne vun enger Stad",
+        "D'Verwandlung vun engem Bierg a Stëbs"
+      ],
+      "answer": "D'Zerstéierung duerch een eenzegen Explosioun/Schrei"
+    },
+    "location": {
+      "label": "E Schlësselelement an eiser Geschicht",
+      "options": [
+        "E gëllent Kalb",
+        "E wonnerbart Kamel",
+        "E brennende Busch",
+        "E schwätzende Vugel",
+        "En majestéiteschen Troun"
+      ],
+      "answer": "E wonnerbart Kamel"
+    },
+    "outcome": {
+      "label": "Eist ultimativt Resultat",
+      "options": [
+        "Immense Räichtum a Muecht geschenkt",
+        "Zum Prophet erhuewen",
+        "Total Vernichtung duerch eng göttlech Strof",
+        "Verzeiht no oprechter Reue",
+        "Verstreet iwwer d'Äerd fir ze wanderen"
+      ],
+      "answer": "Total Vernichtung duerch eng göttlech Strof"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

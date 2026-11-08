@@ -1,0 +1,61 @@
+{
+  "title": "Tarkuse hääl",
+  "intro": "Õrn tarkuse hääl jagas kunagi nõu, mis ületab aja. See sügava mõistmisega õnnistatud tegelane andis edasi hindamatuid õppetunde, mis jäävad majakaks kõigile, kes igatsevad juhatust. Kas suudad lahti harutada nende kestvate sõnade taga peituva identiteedi?",
+  "clues": [
+    "Sain Allahilt sügava õnnistuse, kingituse, mis valgustas mu südant ja meelt.",
+    "Pöördusin oma armsa lapse poole, soovides jagada temaga kõige väärtuslikumat aaret, mis mul oli.",
+    "Ma hoiatasin, et suurim ebaõiglus on luua partnereid ainsa tõelise Jumala kõrvale.",
+    "Ma tuletasin meelde, et isegi sinepiseemne raskuse, mis on peidetud kalju sisse või taeva taha, võtab Allah aru.",
+    "Ma juhendasin olema vanemate vastu kohusetundlik, kuigi kuulekus on ainult õigluse küsimustes.",
+    "Ma õpetasin lihtsaid kombeid: käi maa peal alandlikult ja vaoshoi oma häält, sest kõige karmim hääl on eeslite ulumine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Luqman",
+        "Al-Khidr",
+        "Prohvet Sulayman",
+        "Dhul-Qarnayn",
+        "Uzair"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Prooviversioon / üritus",
+      "options": [
+        "Andes oma lapsele sügavat nõu",
+        "Laeva ehitamine suure veeuputuse üleelamiseks",
+        "Raske haiguse kannatlikkusega talumine",
+        "Rännakul maailma äärtesse",
+        "Jumalike tablettide vastuvõtmine mäel"
+      ],
+      "answer": "Andes oma lapsele sügavat nõu"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Nõuanne tema pojale",
+        "Põlev põõsas",
+        "Musa personal",
+        "Kuldvasikas",
+        "Raudväravad"
+      ],
+      "answer": "Nõuanne tema pojale"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Tema nõuanded jäädvustati jumalikus pühakirjas",
+        "Talle anti prohveti ametiaeg ja uus seadus",
+        "Temast sai võimas valitseja tohutu kuningriigi üle",
+        "Ta tõusis taevasse ilma surmata",
+        "Ta sai inglilt otsese ilmutuse"
+      ],
+      "answer": "Tema nõuanded jäädvustati jumalikus pühakirjas"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

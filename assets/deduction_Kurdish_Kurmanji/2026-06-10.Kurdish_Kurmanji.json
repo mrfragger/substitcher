@@ -1,0 +1,61 @@
+{
+  "title": "Parêzvanên Baxçeyê",
+  "intro": "Li baxçeyekî kesk, civatekê sondek cidî da. Lê belê biryardariya wan hate ceribandin dema ku îradeya îlahî destwerdan kir û bereketa wan veguherand axekî bêber.",
+  "clues": [
+    "Em bi baxçeyekî fireh hatin pîrozkirin, lê em bûn xudperest.",
+    "Me pilanek çêkir ku bêyî parvekirina bi feqîran re, berhev bikin.",
+    "Em serê sibê zû bi rê ketin, bi baweriya xwe ji plana xwe.",
+    "Lê gava em gihîştin, me dît ku baxçeyê me di şevekê de wêran bûbû.",
+    "Me şaşiya xwe fêm kir û me dest bi sûcdarkirina hev kir.",
+    "Di dawiyê de me tobe kir, lê ders pir dereng hate hînkirin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Xelkê Baxçeyê",
+        "Xelkê Şikeftê",
+        "Gelê Fîl",
+        "Gelê Semûdê",
+        "Gelê Adê"
+      ],
+      "answer": "Xelkê Baxçeyê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Baxçeyek bûye xwelî",
+        "Lehiyek ku her tişt wêran kir",
+        "Birçîbûnek ku li welêt xist",
+        "Artêşeke çûkan êrîş dike",
+        "Bayekî mezin ku dar ji kokê ve rakirin"
+      ],
+      "answer": "Baxçeyek bûye xwelî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Baxçeyek",
+        "Şikeftek",
+        "Keştiyek",
+        "Çiyayekî",
+        "Qesrek"
+      ],
+      "answer": "Baxçeyek"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ew poşman bûn lê baxçeyê xwe winda kirin",
+        "Ew bi temamî hatin wêrankirin",
+        "Ew bûne meymûn",
+        "Ew bi baweriyê xilas bûn",
+        "Ew bûn desthilatdar"
+      ],
+      "answer": "Ew poşman bûn lê baxçeyê xwe winda kirin"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

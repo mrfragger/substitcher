@@ -1,0 +1,61 @@
+{
+  "title": "mägede meloodia videvikus",
+  "intro": "Kuulake, kuidas orud kajavad kiitusest koos Allahi valitud teenriga. Meloodiaga õnnistatud hääl, kambris vaidlejate otsitud otsustusõigus ja jumaliku käsu poolt pehmendatud metall ootavad avastamist. Milline kummardamise ja õiglase valitsuse kuju kõneleb nende märkide kaudu?",
+  "clues": [
+    "Allah õnnistas mind külluse ja meloodilise kiitushäälega.",
+    "Allah õpetas mind mõistma vaidlejate vahelise õiglase kohtuotsuse keelt.",
+    "Ma seisin lahingus silmitsi võimsa hiiglasliku sõdalasega ja Allahi tahtel sain neist jagu.",
+    "Mulle anti tarkust, autoriteeti ja ilmutatud psalmide pühakiri Allahilt.",
+    "Õhtul ja päikesetõusul ühinesid minuga mäed ja linnud Allahi ülistamisel.",
+    "Allah õpetas mind valmistama soomusrüüsid rauast, mis oli minu jaoks pehmeks tehtud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Dawud (David)",
+        "Prohvet Ismail (Ismael)",
+        "Prohvet Jahja (Johannes)",
+        "Dhul-Kifl",
+        "Prohvet Al-Yasa (Eliisa)"
+      ],
+      "answer": "Prohvet Dawud (David)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Alistas lahingus Jaluti (Koljati) Allahi tahtel",
+        "Ehitas laeva, et see suure veeuputuse üle elaks",
+        "Visati tulle, mille Allah jahedaks tegi",
+        "Suur kala meres neelas alla",
+        "Tõsteti taevasse surma maitsemata"
+      ],
+      "answer": "Alistas lahingus Jaluti (Koljati) Allahi tahtel"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Mäed ja linnud ühinevad Allahi kiituses",
+        "Personali, mis muutus maoks",
+        "Tuli, mis muutus jahedaks ja rahulikuks",
+        "Emane kaamel saadeti rahvale märgiks",
+        "Puust laev puhkab Juudi mäel"
+      ],
+      "answer": "Mäed ja linnud ühinevad Allahi kiituses"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Anti kuningavõim, tarkus ja Zabur (Psalmid)",
+        "Pärast siirast palvet anti talle vanaduspõlves poeg",
+        "Koobas oli aastaid turvaline",
+        "Anti kõrbes Zamzami allikas",
+        "Armee uppumine merre tunnistatud"
+      ],
+      "answer": "Anti kuningavõim, tarkus ja Zabur (Psalmid)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

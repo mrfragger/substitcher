@@ -1,0 +1,61 @@
+{
+  "title": "Yon syèj anba yon syèl toudenkou",
+  "intro": "Ou kanpe devan yon lame fòmidab k ap pwoche bò yon sanktyè respekte, ak tout zam pare epi viktwa a sanble sèten. Anvan atak la ka kòmanse, yon fòs inatandi parèt anlè tèt ou, epi konba a pran yon direksyon pèsonn pa t prevwa.",
+  "clues": [
+    "Nou te mache avèk yon konfyans ke okenn pouvwa sou latè pa t ka brannen.",
+    "Nou te mennen gwo elefan, epi fòs nou an te sanble bati otou yo.",
+    "Nou te vin kraze yon sanktyè ki respekte tout moun, paske nou te kwè viktwa nou te deja sèten.",
+    "Lè nou rive la, yon bann zwazo t ap baleye syèl la anlè nou.",
+    "Zwazo yo t ap voye wòch fèt ak ajil di sou sòlda nou yo.",
+    "Nou te tèlman pèdi batay la, gwo fòs nou an te kraze epi li te gaye tankou sann dife."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Moun Elefan yo",
+        "De Prens yo",
+        "Frè Jozèf yo",
+        "Sèvitè Allah la nan Dhul-Kifl",
+        "Konpayon Nonm Jis la"
+      ],
+      "answer": "Moun Elefan yo"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Atak elefan yo te dirije sou Kaaba a",
+        "Lanmè a ap separe anvan yon gwoup ki delivre",
+        "Sezisman Lach la pa yon pèp tiranik",
+        "Vwayaj lannwit ant de moske",
+        "Gerizon yon moun ki te gen lèp grasa pouvwa diven an"
+      ],
+      "answer": "Atak elefan yo te dirije sou Kaaba a"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Zwazo k ap pote grenn ajil",
+        "Yon bwat an bwa gopher",
+        "Yon baton ki tounen yon sèpan",
+        "Yon wòch sele ak yon siy",
+        "Yon ti touf bwa ​​k ap boule"
+      ],
+      "answer": "Zwazo k ap pote grenn ajil"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Fòs pwisan yo te kraze tankou sann dife",
+        "Yo travèse lanmè a san danje",
+        "Yo te mache san pwoblèm nan yon founo dife",
+        "Yo te antre nan Paradi a de pa de",
+        "Yo te dòmi nan yon gwòt pandan 309 ane."
+      ],
+      "answer": "Fòs pwisan yo te kraze tankou sann dife"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

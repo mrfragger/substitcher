@@ -1,0 +1,61 @@
+{
+  "title": "Vrt, ki je čez noč izginil",
+  "intro": "Predstavljajte si bujen vrt, poln dozorevalnega sadja in obdan z visokimi drevesi. Tisti, ki so ga obdelovali, so se imeli za pametne in so načrtovali svojo žetev v tihih urah pred zoro, daleč od oči tistih, ki so jo potrebovali. Toda Tisti, ki nikoli ne spi, je imel druge načrte za njihovo skrito bogastvo. Ali lahko uganete, kdo stoji za to svarilno zgodbo iz Korana?",
+  "clues": [
+    "Nekoč smo imeli vrt, tako bujen in bogat, da je postal zavist vseh mimoidočih.",
+    "Med načrtovanjem smo si zgodaj zjutraj šepetali in izjavili, da tisti dan ne bo vstopil noben potreben človek.",
+    "Bili smo bogati ljudje in naša srca so postala slepa za pravice revnih okoli nas.",
+    "Ko se je zdanilo, ko smo se približali našemu vrtu, smo ga čez noč opazili kot počrnelo ruševino.",
+    "Uničujoč odlok je zajel in tam, kjer so nekoč viseli grozdi zrelega sadja, ni ostalo nič drugega kot pepel.",
+    "Naša zgodba je strogo opozorilo, zapisano v Koranu, kjer smo znani kot lastniki vrta, ki so odrekli miloščino tistim v stiski."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Lastniki vrta",
+        "Ljudje iz jame",
+        "Izajevi učenci",
+        "Gozdni tovariši",
+        "Ibrahimovi gostje"
+      ],
+      "answer": "Lastniki vrta"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Na skrivaj obirajo sadje in preprečujejo revnim",
+        "Spanje v jami več stoletij",
+        "Zavrnitev izdelave kamele iz kamna",
+        "Čaščenje zlatega teleta na gori Sinaj",
+        "Gradnja velike barke za pobeg pred poplavo"
+      ],
+      "answer": "Na skrivaj obirajo sadje in preprečujejo revnim"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Obzidan vrt, poln palm in trt",
+        "Temna jama globoko v gorah",
+        "Mesto, ki ga je zajel božanski orkan",
+        "Sveta dolina blizu Alahove hiše",
+        "Bregovi tekoče reke"
+      ],
+      "answer": "Obzidan vrt, poln palm in trt"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vrt je uničil žgoči odlok z neba",
+        "Mirno so spali 309 lunarnih let.",
+        "Zdrobil jih je dež kamenja",
+        "Utopili so se pod valovi velike poplave",
+        "Raztresel jih je sunek hladnega, divjega vetra"
+      ],
+      "answer": "Vrt je uničil žgoči odlok z neba"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

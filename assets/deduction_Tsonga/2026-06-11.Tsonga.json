@@ -1,0 +1,61 @@
+{
+  "title": "Ximutana lexi nga eRibuweni ra Milandzu",
+  "intro": "U tikuma u ri eximutanini xa le ribuweni, laha mpfumawulo wa magandlati wu hlanganaka ni ku hlevetela ka vanhu lava rivariweke. Va nyikiwe xileriso xo wisa, kambe makwanga ya vona ma yise eka nxupulo lowu ni sweswi ku vulavuriwaka ha wona hi tithoni to miyela. Xana u nga swi paluxa leswaku a va ri vamani?",
+  "clues": [
+    "A hi tshama eribuweni naswona hi nyikiwe xileriso xo hlayisa siku ro wisa.",
+    "Hi siku rero, tinhlampfi a ti ta eka hina hi xitalo, kambe a hi yirisiwile ku ti dya.",
+    "Van’wana exikarhi ka hina va tsundzuxe hi ku tlula nawu, kambe van’wana va endle xikungu xo phasa tinhlampfi hambi swi ri tano.",
+    "Hi tlule xileriso xo kwetsima kutani hi ti tisela nxupulo lowukulu.",
+    "Nxupulo wa hina a ku ri ku hundzuka loku hi siyeke hi onhakile ni ku khomisiwa tingana.",
+    "Hi hundzuriwile tindlopfu, xikombiso eka hinkwavo lava a va ta ta endzhaku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vanhu va Savata",
+        "Vanhu va le Thamud",
+        "Vanhu va 'Ad",
+        "Vanhu va le Bako",
+        "Vanhu va Ndlopfu"
+      ],
+      "answer": "Vanhu va Savata"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku phasa tinhlampfi hi Savata",
+        "Ku gandzela rhole ra nsuku",
+        "Ku kaneta rungula ra Hud",
+        "Ku dlaya kamela ya xisati",
+        "Ku aka xihondzo xo ya etilweni"
+      ],
+      "answer": "Ku phasa tinhlampfi hi Savata"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Tinhlampfi ta kona",
+        "Kamela ya xisati",
+        "Ntirhi wa vatirhi",
+        "Xikepe",
+        "Ntanga"
+      ],
+      "answer": "Tinhlampfi ta kona"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Yi hundzuke tindlopfu",
+        "Ku lovisiwa hi ndhambi",
+        "Ku lovisiwa hi ndzilo lowu pfurhaka",
+        "Ku mitiwa hi misava",
+        "Ku hangalasiwa hi moya"
+      ],
+      "answer": "Yi hundzuke tindlopfu"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

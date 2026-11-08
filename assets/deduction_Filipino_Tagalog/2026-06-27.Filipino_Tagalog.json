@@ -1,0 +1,61 @@
+{
+  "title": "Ang Sagradong Kawalan",
+  "intro": "Sa kabila ng mga buhanginan ng panahon, mayroong isang kuwento ng matibay na debosyon at isang tiwalang napakabigat na maaaring masira ng kaluluwang may dala nito. Sa isang sandali nang ang mga tao ay bumaling sa kahangalan at ginto, isang pigura ang matatag na nanindigan—tinatawag sila pabalik, humihingi ng pasensya, at pinapasan ang bigat ng isang sagradong pangako. Ito ang kuwento ng isang taong napili bilang isang katulong, isang vizier, at isang tagapag-alaga ng pananampalataya sa panahon ng isang sagradong pagkawala. Matutuklasan mo ba ang pagkakakilanlan ng matatag na kaluluwang ito?",
+  "clues": [
+    "Kabahagi ako ng dugo ng isang dakilang propeta na pinili upang makipag-usap kay Allah nang direkta sa isang sagradong bundok.",
+    "Minsan ay nagmakaawa ang kapatid ko sa Allah na tulungan akong makapagsalita nang malinaw sa isang matinding mapang-api.",
+    "Pinili ako ng Allah upang tumayo sa tabi ng aking kapatid bilang katulong at vizier.",
+    "Magkasama nating hinarap ang isang malupit na pinuno na humihiling na tawaging pinakamataas sa mga diyos.",
+    "Habang nakikipag-usap ang aking kapatid kay Allah sa bundok, ang aming mga tao ay gumawa para sa kanilang sarili ng isang diyus-diyusan mula sa kanilang ginto.",
+    "Ako ang kapatid ni Moises, hinirang ni Allah bilang kanyang vizier, na binanggit ang pangalan sa Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Harun (Aaron)",
+        "Propeta Musa",
+        "Propeta David",
+        "Propeta Yaqub",
+        "Propeta Ishaq"
+      ],
+      "answer": "Propeta Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang Krisis sa Pagsamba sa Guya",
+        "Ang Malaking Baha ni Noah",
+        "Ang Labanan sa Badr",
+        "Ang Pagkawasak ng Thamud",
+        "Ang Pagkawasak ng Sodoma"
+      ],
+      "answer": "Ang Krisis sa Pagsamba sa Guya"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Ginintuang Guya",
+        "Arka ni Noe",
+        "Ang Nasusunog na Palumpong",
+        "Ang Kweba ng Hira",
+        "Ang Trono ng Sheba"
+      ],
+      "answer": "Ang Ginintuang Guya"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Kinumpirma ng Allah ang Kawalang-kasalanan",
+        "Pagkalunod kay Paraon",
+        "Ang Pagtatayo ng Kaaba",
+        "Ligtas na Pagtawid sa Dagat",
+        "Pag-akyat sa Langit"
+      ],
+      "answer": "Kinumpirma ng Allah ang Kawalang-kasalanan"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

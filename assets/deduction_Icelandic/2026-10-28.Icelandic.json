@@ -1,0 +1,61 @@
+{
+  "title": "Loforð gefið yfir glóðum",
+  "intro": "Þú stendur við eyðimerkureld á meðan glóðum hans er vandlega dreift. Gestir koma til að hittast í kyrrðinni og eitt skilaboð opnar sögu um loforð, óvæntar uppákomur og framtíð sem enn er óuppfyllt.",
+  "clues": [
+    "Við fórum yfir vegalengdina til að komast að trúum þjóni í eyðimörkinni.",
+    "Við báðum um að glóð yrði dreift til að undirbúa bál.",
+    "Við töluðum við einn sem hafði kallað á loga til að fá kælingu og öryggi.",
+    "Við færðum einhverjum sem var kominn yfir barneignaraldur tíðindi af nýfætt barn.",
+    "Við nefndum fyrirheitna barnið Ísak.",
+    "Við færðum Ibrahim gleðifréttir um son og þessi óvænta tíðindi fengu Ibrahim til að hlæja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Englarnir sem færðu Íbrahim gleðitíðindin um Ísak",
+        "Englarnir sem vöruðu Lút við",
+        "Englarnir sem bera hásætið",
+        "Englarnir í helvíti",
+        "Englarnir sendir til Nóa"
+      ],
+      "answer": "Englarnir sem færðu Íbrahim gleðitíðindin um Ísak"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að færa Ibrahim gleðifréttir um fæðingu Ísaks",
+        "Aðvörun Lúts áður en fólk hans verður refsað",
+        "Tilkynning um fæðingu Yahya til Zakariyya",
+        "Að bera hásætið á dómsdegi",
+        "Að tilkynna fæðingu Ísu til Maryam"
+      ],
+      "answer": "Að færa Ibrahim gleðifréttir um fæðingu Ísaks"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Eldur búinn til úr útbreiddum glóðum",
+        "Örk sem flýtur á flóðvatni",
+        "Hellir innsiglaður með veltandi steini",
+        "Leirfjall hert af saltpækli",
+        "Stigi sem teygir sig upp í himininn"
+      ],
+      "answer": "Eldur búinn til úr útbreiddum glóðum"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Gleðifréttir um son að nafni Ísak",
+        "Gleðifréttir um son að nafni Yahya",
+        "Val Talúts sem stjórnanda yfir Ísraelsmönnum",
+        "Viðvörun áður en fólk Lúts verður refsað",
+        "Skipun um að smíða örk fyrir flóðið"
+      ],
+      "answer": "Gleðifréttir um son að nafni Ísak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

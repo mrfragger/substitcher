@@ -1,0 +1,61 @@
+{
+  "title": "Stanovnici dvaju vrtova",
+  "intro": "U zemlji gdje su blagoslovi obilno tekli, jedna je zajednica nekoć uživala u obilju dvaju veličanstvenih vrtova. Njihovi su životi bili svjedočanstvo božanske naklonosti, no njihova je priča krenula drugim tokom kada je zahvalnost splasnula, što je dovelo do transformacije koja će postati trajni znak za sve koji razmišljaju.",
+  "clues": [
+    "Bili smo narod blagoslovljen zemljom lagodnosti i obilja.",
+    "Naš Gospodar nam je podario dva prekrasna vrta, bujna i plodna sa svih strana.",
+    "Bilo nam je naređeno da budemo zahvalni, ali smo odabrali nezahvalnost i okrenuli se.",
+    "Velika brana zadržavala je vode koje su davale život našoj zemlji.",
+    "Kad smo ustrajali u svom nedjelu, brana je pukla i poplavna voda je prošla kroz nas.",
+    "Naše nekada bujne vrtove zamijenilo je gorko voće, tamariski i nekoliko stabala lotosa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Narod Sabe",
+        "Narod Semuda",
+        "Ljudi iz Madyana",
+        "Pratitelji iz pećine",
+        "Ljudi slona"
+      ],
+      "answer": "Narod Sabe"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Snažan vjetar sedam noći",
+        "Kiša kamenja s neba",
+        "Razorna poplava zbog pucanja brane",
+        "Glasan vrisak s neba",
+        "Utapanje u moru"
+      ],
+      "answer": "Razorna poplava zbog pucanja brane"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Velika brana Ma'riba",
+        "Dolina Wadi al-Qura",
+        "Iramov vrt",
+        "Zemzamov bunar",
+        "Planina Sinaj"
+      ],
+      "answer": "Velika brana Ma'riba"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Naše vrtove zamijenilo je gorko voće i rijetko drveće",
+        "Zemlja nas je progutala u potresu",
+        "Pretvorili smo se u majmune i svinje",
+        "Utopila nas je velika poplava",
+        "Uništila nas je kiša kamenja"
+      ],
+      "answer": "Naše vrtove zamijenilo je gorko voće i rijetko drveće"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

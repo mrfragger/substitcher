@@ -1,0 +1,61 @@
+{
+  "title": "Moemedi wa Boleo jo bo Iseng bo Dirwe",
+  "intro": "Dikgang dingwe tse di mo Quran di senola boteng jwa bonweenwee jo setšhaba sotlhe se ka welang mo go jone. Morongwa yono o ne a eme a le esi, a kopa batho ba ba neng ba nwetse mo go sokameng mo go neng go se na morafe ope o o neng o le teng pele ga bone o o kileng wa o latelela. Le mororo go ne ga tlhagisiwa ka dingwaga di le dintsi, dipelo di ne tsa nna di thatafaditswe, mme taelo ya bomodimo e ne ya goroga ka tsela e e tshosang thata. A o ka kgona go supa morongwa yono yo o tlotlegang wa ga Allah?",
+  "clues": [
+    "Ke ne ka romelwa go nna motlhagisi mo bathong ba ba neng ba jelwe ke go sokamana go go neng go se na morafe ope o o kileng wa o dira pele ga bone.",
+    "Batho ba gaetsho ba ne ba mpitsa moaki ba bo ba ntshosetsa ka go leleka nna le balatedi ba me mo nageng.",
+    "Baeng ba ba tlotlegang ba ne ba tla kwa legaeng la me ka sebopego sa makawana a a itayang, mme ke ne ke ikutlwa ke tshwenyegile thata ka ntlha ya pabalesego ya bone.",
+    "Batho ba me ba ne ba batla gore ke neele baeng ba me mo go bone, ba sa itse gore baeng bano e ne e le baengele ba ba rometsweng ke Allah.",
+    "Molekane wa me ka namana ga a ka a nna le seabe mo tumelong ya me mme o ne a tlhopha go sala le ba ba neng ba atlhotswe.",
+    "Ke ne ka bolokwa le bomorwadiake ka mahube, fa pula e e senyang ya matlapa e ne e na mme metse ya rona e menolwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Lute",
+        "Moporofeti Shu'aib",
+        "Moporofeti Hud",
+        "Moporofeti Nuh",
+        "Moporofeti Salih"
+      ],
+      "answer": "Moporofeti Lute"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Morwalela o mogolo o o aparetseng lefatshe",
+        "Go latlhegelwa ke pono ka ntlha ya go boga ka lobaka lo loleele",
+        "Mogateledi yo o ipolelang gore ke wa bomodimo",
+        "Go latlhelwa mo molelong o o tukang",
+        "Go batliwa go ineela baeng ba ba tlotlegang"
+      ],
+      "answer": "Go batliwa go ineela baeng ba ba tlotlegang"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka e kgolo e e agilweng ka diatla",
+        "Lore lo lo kgaogantseng lewatle",
+        "Kamela e namagadi ya kgakgamatso",
+        "Molelo o o tukang",
+        "Metse e e menotsweng"
+      ],
+      "answer": "Metse e e menotsweng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O nwetse fa a ntse a latelela badumedi",
+        "O pholositswe mo leubelong la molelo a sa gobala",
+        "A tsholelediwa kwa magodimong a tshela",
+        "Lelapa le nyeletse mo morwaleleng o mogolo",
+        "Lelapa le bolokilwe kwa ntle ga mosadi yo o sa ikanyegeng"
+      ],
+      "answer": "Lelapa le bolokilwe kwa ntle ga mosadi yo o sa ikanyegeng"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

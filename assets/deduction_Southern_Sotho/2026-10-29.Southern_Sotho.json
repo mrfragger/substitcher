@@ -1,0 +1,61 @@
+{
+  "title": "Temoso e Nyenyane ka Pel'a Moamoheli oa Mokoloko",
+  "intro": "Kena phuleng moo 'musi ea matla le lebotho le leholo ba atamelang, 'me u nahane ka mohahlauli e monyenyane a fana ka temoso e pholosang sechaba sohle. Ha sechaba se kotsing se fihla setšabelong, kotsi ea feta. Latela lintlha ho fumana motho ea hlokomolohuoang ka mor'a temoso eo.",
+  "clues": [
+    "Ke har'a libopuoa tse nyane tse amanang le 'muso oa 'musi.",
+    "Sechaba sa heso se lula matlong a ka hare ho phula, moo e mong oa rona a ka bitsang ba bang.",
+    "Re tobane le tšokelo e tsoang ho 'musi eo le mabotho a tsamaeang le 'musi eo.",
+    "Ke 'na ea bitsang sechaba sa heso hore se kene matlong a sona 'me ke re lemosa hore re se ke ra hatelloa re sa tsebe.",
+    "'Musi ke Sulayman, 'me mofuta oa ka o har'a libopuoa tse behiloeng tlas'a taolo ea hae.",
+    "Ke 'na bohloa ba phula eo; ka mor'a temoso ea ka, re ile ra kena matlong a rona 'me ra phonyoha khatello eo ho seng joalo e ka beng e re tšoere re sa hlokomele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Bohloa ba Phula",
+        "Lehuku",
+        "Lekhoaba",
+        "Noha",
+        "Moulete"
+      ],
+      "answer": "Bohloa ba Phula"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Temoso e ileng ea pholosa sechaba sa bohloa",
+        "Kopo ea lesale ho tsoa ho tlhapi",
+        "Ho batloa terone e lahlehileng",
+        "Ho pholosa mahlo a utsoitsoeng",
+        "Ho hana ho ja lijo tsa 'musi"
+      ],
+      "answer": "Temoso e ileng ea pholosa sechaba sa bohloa"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Phula ea Bohloa",
+        "Lesale la Setifikeiti la Sulayman",
+        "Hempe e Matheba a Mali ea Yusuf",
+        "Namane ea Khauta ea Phallo",
+        "Basebetsi ba Musa"
+      ],
+      "answer": "Phula ea Bohloa"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Sechaba se ile sa pholosoa ka mor'a ho fumana setšabelo",
+        "Sechaba se ile sa timetsoa ntle le ho fumana setšabelo",
+        "Sechaba se ile sa pholosoa hobane sesole se ile sa khutlela morao",
+        "Sechaba se ile sa putsoa ka ho laola linonyana",
+        "Sechaba se ile sa isoa kholehong lekhotleng la borena"
+      ],
+      "answer": "Sechaba se ile sa pholosoa ka mor'a ho fumana setšabelo"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

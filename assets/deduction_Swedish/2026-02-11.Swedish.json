@@ -1,0 +1,60 @@
+{
+  "title": "Rikedomens börda",
+  "intro": "Du står inför en berättelse om enorm rikedom, ett liv smyckat med guld och makt, men i slutändan en varnande läxa för alla som söker världslig storhet. Kan du reda ut identiteten på denna figur vars historia ekar genom tiden, ett bevis på den flyktiga naturen hos världsliga ägodelar?",
+  "clues": [
+    "Jag var från en stor profets folk, men jag valde en väg av arrogans och förtryck.",
+    "Allah skänkte mig oerhörd rikedom, så mycket att nycklarna till mina skatter var en tung börda för en stark grupp män.",
+    "Mitt folk rådde mig att inte jubla över mina rikedomar och påminde mig om att Allah inte älskar de jublande.",
+    "Jag hävdade arrogant att min enorma förmögenhet berodde på min egen kunskap och ansträngning, inte en välsignelse från Allah.",
+    "Jag varnades för korruption och påmindes om att söka livet efter detta med det som Allah hade gett mig, men jag vägrade att lyssna och fortsatte i min stolthet.",
+    "Till slut lät Allah jorden uppsluka mig och min boning, och lämnade mig utan hjälpare mot Hans påbud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Farao",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Havets delning",
+        "Nimrods eld",
+        "Översvämningen",
+        "Uppslukning av jorden",
+        "Gräshoppornas pest"
+      ],
+      "answer": "Uppslukning av jorden"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken",
+        "Personalen",
+        "Guldkalven",
+        "Skatterna/Nycklarna",
+        "Zamzams brunn"
+      ],
+      "answer": "Skatterna/Nycklarna"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Beviljat kungadöme",
+        "Räddad från förstörelse",
+        "Slukad av jorden",
+        "Blev en profet",
+        "Död fridfullt"
+      ],
+      "answer": "Slukad av jorden"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

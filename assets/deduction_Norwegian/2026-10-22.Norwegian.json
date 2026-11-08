@@ -1,0 +1,61 @@
+{
+  "title": "Den første overtredelses fellesskap",
+  "intro": "I landet med eldgamle byer blomstret en gang et folk. De ble besøkt av et budbringer med et klart kall, men de vendte seg bort og fulgte en vei ingen noen gang hadde vandret. Historien deres er en historie om trass, fordervelse og en straff som forlot hjemlandet deres som et tegn for alle som reflekterer. Hvem er disse sjelene?",
+  "clues": [
+    "Vi bodde i byer på sletten, hvor profeten vår kalte oss til rettferdighet.",
+    "Vi var de første som begikk en uanstendighet som ingen i hele verden noen gang hadde gjort før.",
+    "Vi forfulgte reisende og gjorde åpenlyst onde gjerninger i våre sammenkomster.",
+    "Vi avviste budbringeren som ble sendt til oss og truet med å drive ham ut av landet vårt.",
+    "Vi skyndte oss til huset hans og krevde at han skulle overgi gjestene sine til oss.",
+    "Straffen vår var et regn av steiner, og byen vår ble snudd på hodet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Folket i Lut",
+        "Folket i Nuh",
+        "Folket i 'Ad",
+        "Folket i Thamud",
+        "Folket i Madyan"
+      ],
+      "answer": "Folket i Lut"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Begikk den første sodomidagen",
+        "Tilba avguder",
+        "Snydt i handelen",
+        "Drepte profeten deres",
+        "Ulydige foreldrene sine"
+      ],
+      "answer": "Begikk den første sodomidagen"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Byen på sletten",
+        "Brønnens by",
+        "Grøftens by",
+        "Elefantens by",
+        "Hagens by"
+      ],
+      "answer": "Byen på sletten"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Regnet med steiner og veltet",
+        "Druknet av en flom",
+        "Ødelagt av en voldsom vind",
+        "Svelget av jorden",
+        "Truffet av en kraftig eksplosjon"
+      ],
+      "answer": "Regnet med steiner og veltet"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umakhi Oqinileyo Wosindiso",
+  "intro": "Lo mntu, owayenomonde omkhulu nokuqiniseka okungagungqiyo, wanikela iminyaka engenakubalwa kumsebenzi kaThixo, ejongene nokugculelwa nokulahlwa okungapheliyo. Ibali labo libubungqina obunamandla bokholo xa bejamelene nokungakholelwa okukhulu, nto leyo eyakhokelela kwisiganeko esibalulekileyo esatshintsha ihlabathi.",
+  "clues": [
+    "Ndichithe ixesha elide kakhulu ebomini bam ndibiza abantu bam ukuba banqule u-Allah.",
+    "Abantu bam bandigculela kwaye bandityhola ngokuba nempazamo ecacileyo kunye nokuphambana.",
+    "Ndayalelwa ukuba ndakhe into engaqhelekanga kuluntu lwam olungenamhlaba.",
+    "Bambalwa kuphela abakholwayo baza bajoyina mna nosapho lwam kolu lwakhiwo lukhethekileyo.",
+    "Ndandithwele izibini zazo zonke izidalwa eziphilayo ebhodini, njengoko u-Allah wayeyalele.",
+    "Umkhukula omkhulu wagubungela umhlaba, wasindisa kuphela abo babekunye nam emkhombeni wam, ngoxa unyana wam wabhubha ngenxa yokungakholwa kwakhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uSalih",
+        "Umprofeti uHud",
+        "Umprofeti uNuh",
+        "Umprofeti uDawud",
+        "Umprofeti uSulayman"
+      ],
+      "answer": "Umprofeti uNuh"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukutshatyalaliswa yinyikima",
+        "Ukwahlukana kolwandle",
+        "Umkhukula omkhulu",
+        "Umlilo kaNimrod",
+        "Isibetho samasele"
+      ],
+      "answer": "Umkhukula omkhulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isihlahla esitshayo",
+        "Ityeya",
+        "Umthombo wamanzi",
+        "Ithole legolide",
+        "Intaba yaseTur"
+      ],
+      "answer": "Ityeya"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ndafumana ubukumkani",
+        "Abantu bakhe baguqulwa baba ziinkawu",
+        "Abantu bakhe basindiswa ngommangaliso",
+        "Abantu bakhe batshona emanzini",
+        "Abantu bakhe babethwa yindudumo"
+      ],
+      "answer": "Abantu bakhe batshona emanzini"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nevyslyšené volání v zemi arogance",
+  "intro": "Stojíte v troskách kdysi velké civilizace, kde moc a pýcha neznaly mezí. Mezi nimi kráčel posel a volal k pravdě, ale jejich srdce byla zatvrzelá. Varování zůstalo bez povšimnutí a samotná obloha se stala nástrojem hněvu. Kdo byl tento posel a co se stalo s těmi, kteří volání odmítli?",
+  "clues": [
+    "Byl jsem poslán k lidu, který neměl konkurenci v síle a který na každém vyvýšeném místě postavil pomník.",
+    "Můj lid se považoval za neporazitelný a říkal: „Kdo je mocnější než my?“",
+    "Vyzval jsem je, aby uctívali pouze Alláha, ale oni mě obvinili z hlouposti a lži.",
+    "Vyzvali mě, abych vykonal trest, který jsem slíbil, pokud budu pravdomluvný.",
+    "Alláh na ně seslal neúrodný vítr, který neušetřil nic, na co narazil.",
+    "Já i ti, kdož se mnou uvěřili, byli jsme zachráněni Alláhovým milosrdenstvím, zatímco nevěřící byli zcela zničeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Sálih",
+        "Prorok Šuajb",
+        "Prorok Lut",
+        "Prorok Nuh"
+      ],
+      "answer": "Prorok Hud"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Ničivý vítr zničil nevěřící",
+        "Velká povodeň zachvátila nevěřící",
+        "Pršela sprška kamení",
+        "Hlasitý výkřik zmocnil se nevěřících",
+        "Nevěřící zasáhlo zemětřesení"
+      ],
+      "answer": "Ničivý vítr zničil nevěřící"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Neúprosný vítr",
+        "Dřevěná archa",
+        "Velbloudice",
+        "Déšť hliněných kamenů",
+        "Planoucí oheň"
+      ],
+      "answer": "Neúprosný vítr"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Hud a věřící byli spaseni a nevěřící byli zničeni",
+        "Hud byl povýšen na vysoké postavení",
+        "Hud byl zabit svými lidmi",
+        "Hudův lid činil pokání a byl ušetřen",
+        "Hud opustil svůj lid před jakýmkoli trestem"
+      ],
+      "answer": "Hud a věřící byli spaseni a nevěřící byli zničeni"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

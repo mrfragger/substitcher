@@ -1,0 +1,61 @@
+{
+  "title": "As Testemunhas Perecidas",
+  "intro": "Em tempos remotos, uma comunidade habitava uma terra na encruzilhada entre impérios. Seu profeta os chamou para o caminho da verdade, mas eles se apegaram à descrença e à opressão. Esta história termina em punição divina. Você consegue identificar essa nação e seu destino a partir das pistas abaixo?",
+  "clues": [
+    "Um povo rejeitou o aviso trazido por um de seus próprios mensageiros.",
+    "O mensageiro nos chamou a adorar somente a Deus e nos alertou contra a corrupção.",
+    "Nossa transgressão foi rejeitar o profeta enviado entre nós com justiça.",
+    "Duvidávamos da autoridade do mensageiro e o acusamos de engano.",
+    "O castigo nos alcançou enquanto estávamos em segurança em nossos lares.",
+    "Fomos destruídos por negarmos o nosso profeta e perseguirmos os crentes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Não",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Receber um profeta que chamou à justiça.",
+        "Ser testado com uma fome",
+        "Interpretação de um sonho",
+        "Recebendo a Torá",
+        "Viajando pelo mar"
+      ],
+      "answer": "Receber um profeta que chamou à justiça."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Midiã",
+        "Babilônia",
+        "Sodoma",
+        "O Mar Vermelho",
+        "A Arca"
+      ],
+      "answer": "Midiã"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O povo foi destruído por sua descrença.",
+        "O povo se arrependeu e foi guiado.",
+        "As pessoas entraram no Paraíso.",
+        "O povo sobreviveu e prosperou.",
+        "As pessoas migraram para uma nova terra."
+      ],
+      "answer": "O povo foi destruído por sua descrença."
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

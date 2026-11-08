@@ -1,0 +1,61 @@
+{
+  "title": "Solihlikka chaqiruvchi ovoz",
+  "intro": "Savdo gullab-yashnagan va karvonlar keng cho'llar bo'ylab qatnaydigan qadimgi Midiyon diyorida adolat yo'lidan adashgan odamlar orasida Allohning payg'ambari paydo bo'ldi. Allohning bu bandasi butun bir jamoaning iymonini sinovdan o'tkazadigan ilohiy topshiriq bilan yuborilgan edi. Sabr va matonat sinovlari orqali bu qalb tarixda aks-sado beradigan ogohlantirishni etkazishda qat'iy turdi. Bu sodiq elchining sirini ochib bera olasizmi?",
+  "clues": [
+    "Men Alloh tomonidan o'z ishlarida adolat va halollik tamoyillarini unutgan qavmga hidoyat qilish uchun tanlanganman.",
+    "Men jamoamni faqat Allohga ibodat qilishga va barcha masalalarda rost gapirishga chaqiruvchi xabarni yetkazdim.",
+    "Men boylikni noqonuniy yo'llar bilan iste'mol qilishning korruptsion amaliyotiga qarshi alohida ogohlantirdim va adolatli o'lchov va og'irliklarning muhimligini ta'kidladim.",
+    "Xalqim mening ogohlantirishlarimga masxara bilan javob berdi va agar men xabarimni davom ettirsam, meni o'z yurtlaridan haydab chiqarish bilan tahdid qildi.",
+    "Ularning dushmanligiga qaramay, men o'z vazifamda qat'iy turib oldim va mukofotim faqat Allohning qo'lida ekanligini aytdim.",
+    "Mening xalqim dahshatli azobga duchor bo'ldi, men esa Parvardigorimning marhamati bilan najot topdim, chunki vazifam bajarildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Shu'ayb",
+        "Payg'ambar Hud",
+        "Payg'ambar Solih",
+        "Lut payg'ambar",
+        "Payg'ambar Muhammad ﷺ"
+      ],
+      "answer": "Payg'ambar Shu'ayb"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Haqiqatni rad etgan va Allohning xabarini yetkazgani uchun jazo bilan tahdid qilgan qavmga duch kelish",
+        "Bir millatning kofirlarini vayron qilgan Buyuk To'fonga guvoh bo'lish",
+        "笃 vodiysi bo'ylab sayohat qilayotganda vahiy olish",
+        "Zolim hukmdor tavhidga chaqiruvni o'chirishga uringanida iymon sinovi",
+        "Yillar davomidagi itoatsizlikdan keyin kuchli qurg'oqchilik paytida yomg'ir so'rayotgan millat"
+      ],
+      "answer": "Haqiqatni rad etgan va Allohning xabarini yetkazgani uchun jazo bilan tahdid qilgan qavmga duch kelish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Mening xalqim savdo-sotiq bilan shug'ullangan Midiyon yurti",
+        "Mo'minlarni halokatli suv toshqinidan qutqargan buyuk kemaning palubasi",
+        "Yetti yigit ta'qibdan panoh topgan qoyali tog'dagi g'or",
+        "Meni tungi sayohatga olib ketishgan muqaddas Quddus shahri",
+        "Shebadagi saroy, u yerda buyuk shohlik ilohiy belgini ko'rishga tayyorlanmoqda"
+      ],
+      "answer": "Mening xalqim savdo-sotiq bilan shug'ullangan Midiyon yurti"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Men Alloh oldidagi burchimni ado etganim uchun xalqim dahshatli azobga duchor bo'ldi, men esa najot topdim.",
+        "Kofirlar Allohning muqaddas chegaralarini buzganliklari sababli maymunlarga aylantirildilar.",
+        "Dushmanlarim mo''jizaviy o'zgarishni ko'rganlaridan keyin imonni qabul qilishdi",
+        "Odamlar tavba qilganlaridan keyin yer mo'l-ko'l yomg'ir va farovonlik bilan baraka topdi",
+        "Men o'z vazifamdan voz kechmaganim uchun o'z xalqim tomonidan shahid bo'ldim"
+      ],
+      "answer": "Men Alloh oldidagi burchimni ado etganim uchun xalqim dahshatli azobga duchor bo'ldi, men esa najot topdim."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

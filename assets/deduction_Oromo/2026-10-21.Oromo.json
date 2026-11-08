@@ -1,0 +1,61 @@
+{
+  "title": "Ergamaa Waaqeffattoota Waaqolii tolfamoo Waliin Walduraa Dubbate",
+  "intro": "Bara waaqeffannaan karaa irraa maqe sanatti ergamaan tokko gara waaqeffannaa Gooftaa addunyaalee akka deebi’uuf waamicha qabate ka’e. Fakkiin kun ummata waaqeffannaa waaqa sobaa keessatti hidda gadi fageeffate dura dhaabbatee, Uumaa isaanii isa dhugaa fi Gooftaa abbootii isaanii isaan yaadachiise. Ta’us ummanni kun of eeggannoo dhabee akeekkachiisa sana dide, hiree ofii isaaf mallatteesse. Bilbilli hin raafamne kun eenyu ture?",
+  "clues": [
+    "Ummata karaa Waaqa Tokkicha Dhugaa irraa garagaleettin ergame.",
+    "Anis ummata kiyya \"Rabbiin hin sodaattu?\"",
+    "Waaqeffannaa waaqa sobaa Ba’aal jedhamu akka dhiisaniif isaan waame.",
+    "Sabni koo waamicha koo didee waaqeffannaa waaqa tolfamaa isaanii irratti cichee ture.",
+    "Sababa ganuu isaaniitiin adabbiidhaaf akka dhiyaatan hin shakkisiisu.",
+    "Gooftaan koo dhaloota boodaa biratti nagaa fi yaadannoo eebbifamaa naaf kenne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Ilyaas",
+        "Nabi Yahyaa",
+        "Nabi Dhul-Kifl",
+        "Nabi Yuusuf",
+        "Nabi Shu'ayb"
+      ],
+      "answer": "Nabi Ilyaas"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ba'aal akka gatan saba isaa waame",
+        "Amantoota fayyisuuf markaba ijaare",
+        "Ibidda keessa darbatame",
+        "Gabroomfataa Fara'oon jalaa baqate",
+        "Bishaan baasuuf dhagaa rukute"
+      ],
+      "answer": "Ba'aal akka gatan saba isaa waame"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzzaa",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Nagaa fi yaadannoo eebbifamaa kennameef",
+        "Lafaan liqimfame",
+        "Obomboleettii hamaadhaan barbadaa'e",
+        "Gara dhagaatti jijjiirame",
+        "Galaana keessatti liqimfame"
+      ],
+      "answer": "Nagaa fi yaadannoo eebbifamaa kennameef"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

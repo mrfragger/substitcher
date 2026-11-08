@@ -1,0 +1,61 @@
+{
+  "title": "Il-fjamma fil-palazz tal-arroganza",
+  "intro": "Wara l-ħitan grandjużi tal-aktar palazz qawwi tad-dinja tal-qedem għexet figura li qalbha kienet iġġorr sigriet li l-ebda digriet irjali ma seta’ jsikket. Filwaqt li kulħadd madwaru kien imiss quddiem allat foloz, din ir-ruħ żammet fidi kwieta taqbad ġewwa fiha. Il-ħakkiem ta’ dik l-art kien jemmen lilu nnifsu divin, iżda dan l-individwu għażel il-verità fuq il-kumdità, u d-devozzjoni fuq is-sigurtà. Illum, il-kompitu tiegħek hu li tiskopri min kienet din ir-ruħ kuraġġuża, li l-istorja tagħha tibqa’ waħda mill-aktar eżempji qawwija ta’ fidi soda.",
+  "clues": [
+    "Għext f'post ta' għana immens u grandjożità bla paragun, fejn il-ħakkiem tal-art kellu poter assolut fuq kollox.",
+    "Filwaqt li dawk ta’ madwari mielu quddiem allat foloz, jien żammejt dawl kwiet ta’ fidi f’qalbi.",
+    "Skoprejt u adottajt tifel li ġiebni b'mod mhux tas-soltu - mhux bit-twelid, iżda permezz tal-ilmijiet ta' xmara kbira.",
+    "Tlabt lill-Mulej tiegħi, u tlabt għal dar ħdejh fil-Ġenna u salvazzjoni mit-tirannija li kienet madwari.",
+    "It-tifel li rabbejt kiber biex jisfida lill-istess ħakkiem li kkontrolla d-destin tiegħi, u jien bqajt sod fil-fidi tiegħi anke meta kont mhedded.",
+    "Jiena dak li ismi huwa onorat fil-Koran bħala mudell ta’ fidi, u għext fil-palazz tal-Fargħun innifsu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Asiya, mart il-Fargħun",
+        "Marija, omm Isa",
+        "Bilqis, ir-Reġina ta’ Saba",
+        "Il-mara tal-Profeta Lut",
+        "Il-mara ta’ Imran"
+      ],
+      "answer": "Asiya, mart il-Fargħun"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-iskoperta u t-trobbija ta’ tarbija abbandunata li saret profeta kbira",
+        "Mitfugħ f’nar kbir minn tirann",
+        "Nara għargħar kbir li qered poplu",
+        "Nara tħawwad ta' palm tad-dati u nipprovdu nutriment",
+        "Li tikkonċepixxi tifel minkejja età avvanzata"
+      ],
+      "answer": "L-iskoperta u t-trobbija ta’ tarbija abbandunata li saret profeta kbira"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Palazz irjali ta’ splendur bla paragun",
+        "Bastiment kbir mibni biex jiflaħ għargħar",
+        "Għar fond moħbi fil-muntanji",
+        "Nar qawwi mibni fuq quċċata ta’ muntanja",
+        "Ġnien magħluq b'ħitan"
+      ],
+      "answer": "Palazz irjali ta’ splendur bla paragun"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Dar ingħatat fil-Ġenna bir-rieda ta’ Alla",
+        "Dilluvju kbir qered lin-nies li ma kinux jemmnu f’nazzjon tal-qedem",
+        "Saltna ta’ qawwa u awtorità immensa ngħatat f’din id-dinja",
+        "Armata setgħana kienet imxerrda minn għasafar fit-titjira",
+        "Tirann li sostna li hu divin għereq fil-baħar"
+      ],
+      "answer": "Dar ingħatat fil-Ġenna bir-rieda ta’ Alla"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Doğruluğa Çağıran Ses",
+  "intro": "Ticaretin geliştiği ve kervanların uçsuz bucaksız çöllerden geçtiği kadim Midyan topraklarında, adalet yolundan sapmış insanlar arasından bir Allah peygamberi ortaya çıktı. Bu Allah kulu, tüm bir topluluğun imanını sınayacak ilahi bir görevle gönderilmişti. Sabır ve azim sınavlarından geçerek, bu ruh tarihe yankılanacak bir uyarıyı iletmekte kararlı kaldı. Bu sarsılmaz elçinin gizemini çözebilir misiniz?",
+  "clues": [
+    "Allah beni, işlerinde adalet ve dürüstlük ilkelerini unutmuş bir kavme doğru yolu göstermek için seçti.",
+    "Topluluğuma yalnızca Allah'a ibadet etmeleri ve her konuda doğruyu söylemeleri çağrısında bulunan bir mesaj ilettim.",
+    "Özellikle, haram yollarla servet tüketme gibi yozlaşmış uygulamalara karşı uyarıda bulundum ve adil ölçü ve ağırlıkların önemini vurguladım.",
+    "Halkım uyarılarıma alaycı bir şekilde karşılık verdi ve mesajıma devam edersem beni topraklarından kovmakla tehdit etti.",
+    "Onların düşmanlığına rağmen görevimde kararlı kaldım ve ödülümün yalnızca Allah katında olduğunu ilan ettim.",
+    "Halkım yıkıcı bir cezaya çarptırıldı, ben ise Rabbimin rahmetiyle kurtuldum ve görevim tamamlandı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Şuayb",
+        "Peygamber Hud",
+        "Peygamber Salih",
+        "Peygamber Lut",
+        "Peygamber Muhammed ﷺ"
+      ],
+      "answer": "Peygamber Şuayb"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Gerçeği reddeden ve Allah'ın mesajını ilettiği için cezalandırılmakla tehdit eden bir halkla karşı karşıya kalmak.",
+        "Bir milletin kâfirlerini yok eden Büyük Tufana şahit olmak",
+        "笃 vadisinden geçerken vahiy almak",
+        "Zalim bir yöneticinin tek tanrıcılığa çağrıyı susturmaya çalıştığı zaman yaşanan inanç sınavı.",
+        "Yıllarca süren itaatsizliğin ardından şiddetli kuraklık sırasında yağmur isteyen bir millet."
+      ],
+      "answer": "Gerçeği reddeden ve Allah'ın mesajını ilettiği için cezalandırılmakla tehdit eden bir halkla karşı karşıya kalmak."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Halkımın ticaret ve alışverişini yaptığı Midyan ülkesi.",
+        "Müminleri felaket bir selden kurtaran büyük bir geminin güvertesi.",
+        "Yedi gencin zulümden kaçarak sığındığı kayalık bir dağdaki mağara.",
+        "Gece yolculuğuna çıkarıldığım kutsal şehir Kudüs.",
+        "Şeba'daki bir sarayda, büyük bir krallık ilahi bir alameti görmeye hazırlanıyordu."
+      ],
+      "answer": "Halkımın ticaret ve alışverişini yaptığı Midyan ülkesi."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Halkım korkunç bir azaba uğradı, ben ise kurtuldum; çünkü Allah'a karşı görevimi yerine getirmiştim.",
+        "Kâfirler, Allah'ın kutsal sınırlarını ihlal ettikleri için maymuna dönüştürüldüler.",
+        "Düşmanlarım, mucizevi bir dönüşüme tanık olduktan sonra imana yöneldiler.",
+        "Halk tövbe ettikten sonra, toprak bol yağmur ve refahla bereketlendi.",
+        "Görevimi terk etmeyi reddettiğim için kendi halkım tarafından şehit edildim."
+      ],
+      "answer": "Halkım korkunç bir azaba uğradı, ben ise kurtuldum; çünkü Allah'a karşı görevimi yerine getirmiştim."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

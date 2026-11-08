@@ -1,0 +1,61 @@
+{
+  "title": "Ómurinn frá jaðri borgarinnar",
+  "intro": "Í borg sem sneri baki við guðlegri leiðsögn birtist einmana persóna úr úthverfunum, hlaupandi með vonarboðskap og viðvörun. Þessi gleymda sál átti eftir að verða eilíft tákn um staðfasta trú.",
+  "clues": [
+    "Ég varð vitni að því að sendiboðar voru sendir til borgar minnar, en fólkið mitt afgreiddi þá sem venjulegt fólk.",
+    "Ég trúði á boðskap þeirra og fann sannleikann óma innra með mér.",
+    "Ég hvatti fólk mitt til að hlýða sendiboðunum sem báðu ekki um laun.",
+    "Ég hljóp frá ysta enda borgarinnar og reyndi af ákefð að fá þá til að sjá skynsemina.",
+    "Þjóð mín reis gegn mér og ég var drepinn, en ég fann eilífan frið.",
+    "Allah sagði við mig: „Gangið inn í Paradís,“ og ég óskaði þess að fólk mitt gæti orðið vitni að þeim heiðri sem mér var veittur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Trúaður á Ya-Sin",
+        "Úzair spyrjandinn",
+        "Al-Khidr leiðsögumaðurinn",
+        "Trúaður fjölskyldu Faraós",
+        "Namrud harðstjórinn"
+      ],
+      "answer": "Trúaður á Ya-Sin"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að horfast í augu við vantrúaða þjóð sem myrti hann",
+        "Að vera kastað í logandi eld",
+        "Að vera gleyptur af stórum fiski",
+        "Að smíða risavaxna örk",
+        "Á flótta undan her harðstjórans"
+      ],
+      "answer": "Að horfast í augu við vantrúaða þjóð sem myrti hann"
+    },
+    "location": {
+      "label": "Lykilstaðsetning",
+      "options": [
+        "Ysta enda borgarinnar",
+        "Fjallið Túr",
+        "Mauradalurinn",
+        "Bakkar Nílar",
+        "Hellinn í hellinum"
+      ],
+      "answer": "Ysta enda borgarinnar"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Píslarvætti og tafarlaus innkoma í paradís",
+        "Flótti og björgun",
+        "Uppstigning til himins",
+        "Að drukkna í sjónum",
+        "Að verða að steini"
+      ],
+      "answer": "Píslarvætti og tafarlaus innkoma í paradís"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

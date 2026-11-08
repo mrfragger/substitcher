@@ -1,0 +1,61 @@
+{
+  "title": "Rhurho eDorobeni ra Khale",
+  "intro": "Doroba ra khale leri nga ni ritshuri, vanhu va rona lava dzimeke timitsu eku kaneteni, ni xilemukiso xo hetelela lexi nga tekeriwaka enhlokweni. Namuntlha, nghena eka xiphemu xa lava rhumeriweke hi Allah ku yisa rungula eka vanhu vo nonon’hwa. Xitori xa ku ala, rito rin’we ra ripfumelo, na makumu lama funghiweke hi xileriso lexi onhaka. I mani loyi a vulavulaka hi swikombiso leswi?",
+  "clues": [
+    "Hi rhumeriwe hi Allah edorobeni leri vanhu va rona a va fularhele ntiyiso",
+    "Vambirhi va hina hi tile ro sungula, kutani wa vunharhu a joyina leswaku a tiyisa vurhumiwa bya hina",
+    "Vaaki va le dorobeni va hi arile, va vula leswaku a hi nchumu handle ka vanhu vo fana na vona",
+    "Moya-xiviri wun’we lowu humaka emakumu ya le kule swinene ya muti wu tsutsumele ku ya byela vanhu leswaku va hi landzela",
+    "Hi va kombele, kambe va nonon’hwise timbilu ta vona, va hi hundzukela",
+    "Eka xirilo xin’we lexi onhaka lexi humaka ematilweni, muti wa hina hinkwawo wu miyetiwile"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Varhumiwa va Doroba eka Surah Ya-Sin",
+        "Va Hawwariyyun (Vadyondzisiwa va Isa) .",
+        "Valoyi va Huvo ya Faro",
+        "Vaseketeri va Savata",
+        "Vanhu va Ndlopfu"
+      ],
+      "answer": "Varhumiwa va Doroba eka Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku ariwa no vitaniwa vahembi hi vaaki va doroba",
+        "U hisiwile a ha hanya hi ndzilo lowukulu lowu pfurhaka",
+        "Yi mitiwa hi nhlampfi leyikulu elwandle leri enteke",
+        "Ku sindzisiwa ku tirha hi matimba ku aka phuphu leyi tlakukeke",
+        "Ku xanisiwa ekheleni ra ndzilo lowu pfurhaka"
+      ],
+      "answer": "Ku ariwa no vitaniwa vahembi hi vaaki va doroba"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Doroba ra khale (al-Qaryah) .",
+        "Xigwitsirisi lexikulu lexi pfurhaka",
+        "Xitombo xa nhlampfi leyikulu",
+        "Nsika leyi tlakukeke leyi khumbaka xibakabaka",
+        "Yindlu yo kwetsima (Kaaba) ."
+      ],
+      "answer": "Doroba ra khale (al-Qaryah) ."
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Doroba leri ri onhiwile hi xirilo xin’we lexi onhaka (Sayha) .",
+        "Mufumi wa tihanyi ni vuthu rakwe va nwile elwandle leri avaneke",
+        "Vanhu va hundzuriwile va va tindlopfu ni tindlopfu",
+        "Mpfula ya maribye leyi humaka empfhukeni yi lovise muti",
+        "Ndhambi ya tihanyi yi khukhule vaaki hinkwavo"
+      ],
+      "answer": "Doroba leri ri onhiwile hi xirilo xin’we lexi onhaka (Sayha) ."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

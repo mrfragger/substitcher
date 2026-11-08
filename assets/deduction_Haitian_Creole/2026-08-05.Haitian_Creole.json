@@ -1,0 +1,61 @@
+{
+  "title": "Jou dènye ekspozisyon an",
+  "intro": "Konvoke pou yon gwo demonstrasyon pouvwa, yon gwoup atis talan te jwenn tèt yo fè fas ak yon verite inatandi ki t apral chanje lavi yo pou tout tan.",
+  "clues": [
+    "Nou te renome pou talan nou, mèt ilizyon ak trik.",
+    "Chèf la te konvoke nou pou nou konfwonte yon defitè ki te gen yon senp baton nan men l.",
+    "Lè nou te wè verite a, nou te tonbe ajenou, nou te deklare ke nou kwè nan Senyè tout mond yo.",
+    "Tiran an te menase nou ak pinisyon sevè, men nou pa t ezite.",
+    "Nou te pami premye moun ki te kwè nan mesaj la apre nou te fin temwen siy klè a.",
+    "Nou te mati pou lafwa nou, men nou pral premye moun ki pral antre nan Paradi a avèk moun ki jis yo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun nou ye?",
+      "options": [
+        "Majisyen Farawon yo",
+        "Izrayelit yo",
+        "Moun Thamud yo",
+        "Disip Iza yo",
+        "Lame Abraha a"
+      ],
+      "answer": "Majisyen Farawon yo"
+    },
+    "trial": {
+      "label": "Pwosè / Evènman",
+      "options": [
+        "Konkou ak pwofèt Moïse",
+        "Bati gwo kay won an",
+        "Gran Delij la",
+        "Lapès Krikèt yo",
+        "Lanmè k ap fann nan"
+      ],
+      "answer": "Konkou ak pwofèt Moïse"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Jou Fèt la",
+        "Vale Tuwa a",
+        "Vil Iram nan",
+        "Jaden Letènite a",
+        "Plèn Arafat la"
+      ],
+      "answer": "Jou Fèt la"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Yo te krisifye yo an piblik",
+        "Yo te nwaye nan lanmè a",
+        "Yo te vin disip pwofèt la",
+        "Yo te voye yo an ekzil",
+        "Yo te boule nan dife"
+      ],
+      "answer": "Yo te krisifye yo an piblik"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

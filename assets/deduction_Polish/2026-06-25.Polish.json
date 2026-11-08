@@ -1,0 +1,61 @@
+{
+  "title": "Słuchacze z niewidzialnego",
+  "intro": "Za zasłoną widzialnego świata, ukryte zgromadzenie zebrało się w ciemności, przyciągnięte dźwiękiem, który przeczył wszystkiemu, co znali. Błąkali się wieki bez prawdziwego przewodnictwa, aż głos przebił się przez ciszę ich niewidzialnego królestwa i poruszył coś głęboko w ich wnętrzu. Dziś wieczorem zapraszamy was, byście wyszli poza cienie i odkryli tożsamość tej tajemniczej grupy, której spotkanie z boskimi słowami doprowadziło ich z powrotem do ich ludu jako strażników prawdy, której nie sposób było powstrzymać.",
+  "clues": [
+    "Jesteśmy istotami starożytnymi, istniały na długo przed narodzinami wielu narodów, o których czytaliście, a mimo to rzadko wspomina się o nas w ludzkich opowieściach.",
+    "Nasza natura jest inna niż wasza, utkana z elementów niewidzialnego, i posiadamy moce, które wykraczają poza zwykłą rzeczywistość.",
+    "Przez wieki wędrowaliśmy bez prawdziwego przewodnictwa, aż do momentu, gdy dobiegł nas dźwięk, który poruszył coś głęboko w nas.",
+    "Usłyszeliśmy recytację, jakiej nigdy wcześniej nie słyszeliśmy, słowa, które miały wagę większą niż jakakolwiek mowa.",
+    "Przytuliliśmy się do siebie w tajemnicy, nakazując swoim kolegom milczenie, a kiedy wersety się skończyły, nie mogliśmy już usiedzieć spokojnie.",
+    "Wróciliśmy do naszego ludu i oświadczyliśmy: „O ludu nasz, usłyszeliśmy Księgę zesłaną po Mojżeszu, potwierdzającą to, co było przed nią, prowadzącą ku prawdzie”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Hawariyyun (Uczniowie Isa)",
+        "Dżinn, który uwierzył po wysłuchaniu Koranu",
+        "Towarzysze jaskini",
+        "Aniołowie najniższego nieba",
+        "Ludzie faraona, którzy podążali jego śladami"
+      ],
+      "answer": "Dżinn, który uwierzył po wysłuchaniu Koranu"
+    },
+    "trial": {
+      "label": "Próba / Wydarzenie",
+      "options": [
+        "Zostaliśmy wyrzuceni za odmowę pokłonu przed nowo stworzoną istotą",
+        "Byliśmy zamknięci w jaskini przez trzysta dziewięć lat",
+        "Kazano nam przepłynąć morze, które rozstąpiło się przed nami",
+        "Zostaliśmy wysłani do krainy magii, aby nauczyć się czarów",
+        "Słuchaliśmy w tajemnicy recytacji i zostaliśmy przez nią przemienieni"
+      ],
+      "answer": "Słuchaliśmy w tajemnicy recytacji i zostaliśmy przez nią przemienieni"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec wykonany z ozdób ludu",
+        "Jaskinia, w której sen trwał przez pokolenia",
+        "Dwóch aniołów w Babilonie, którzy nauczali zakazanej wiedzy",
+        "Księga objawiona po Mojżeszu, potwierdzająca Torę",
+        "Płonący krzew na szczycie świętej góry"
+      ],
+      "answer": "Księga objawiona po Mojżeszu, potwierdzająca Torę"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Byliśmy przeklęci aż do Dnia Sądu",
+        "Powstaliśmy przeciwko potężnemu władcy i zbudowaliśmy barierę w kraju",
+        "Zamieniliśmy się w małpy i świnie",
+        "Wróciliśmy do naszego ludu jako ostrzegający, głosząc wiarę",
+        "Utonęliśmy w morzu razem z naszym przywódcą"
+      ],
+      "answer": "Wróciliśmy do naszego ludu jako ostrzegający, głosząc wiarę"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

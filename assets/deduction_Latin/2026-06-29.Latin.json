@@ -1,0 +1,61 @@
+{
+  "title": "Anima Patiens",
+  "intro": "In annalibus prophetiae, anima quaedam exstitit cuius patientia in ipso ipso textu essentiae suae insculpta erat. Per lacrimas et tempus, spei firmiter adhaeserunt, exemplum aeternum fiduciae in divinam sapientiam facti. Potesne mysterium huius figurae inconcussae detegere?",
+  "clues": [
+    "In familia prophetarum natus sum, tamen maxima mea probatio per filium quem maxime amabam venit.",
+    "Monitionem zelotypiae ex somnio quod filius meus narravit accepi, et pro eius incolumitate timebam.",
+    "Oculi mei prae dolore pallebant, tamen fidem in misericordiam Dei numquam amisi.",
+    "Odor filii amissi me procul attigit, et tum scivi imminere reunionem.",
+    "Familia mea grato animo se inclinavit cum visio antiqua impleta est, et visus meus restitutus est.",
+    "Ego sum cui tunica sanguine maculata donata est, ut postea tunicam acciperem quae visum meum sanavit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ibrahim",
+        "Propheta Isaac",
+        "Propheta Yaqub",
+        "Propheta Iosue",
+        "Propheta Ayyub"
+      ],
+      "answer": "Propheta Yaqub"
+    },
+    "trial": {
+      "label": "Iudicium Cruciale",
+      "options": [
+        "Separatio a dilecto filio et amissio visus",
+        "In ignem ardentem coniectus",
+        "Ab magno pisce deglutitus",
+        "Perferre amissionem divitiarum, liberorum, et salutis",
+        "A fratribus proditus et in puteum proiectus"
+      ],
+      "answer": "Separatio a dilecto filio et amissio visus"
+    },
+    "location": {
+      "label": "Obiectum Symbolicum",
+      "options": [
+        "Tunica quae veritatem primum celavit, deinde eam revelavit",
+        "Baculus qui in serpentem factus est",
+        "Balaena quae prophetam devoravit",
+        "Ignis qui frigescit",
+        "Par sandaliorum ad rubum ardentem"
+      ],
+      "answer": "Tunica quae veritatem primum celavit, deinde eam revelavit"
+    },
+    "outcome": {
+      "label": "Divina Propositio",
+      "options": [
+        "Reunionem cum dilecto amisso et restitutionem visus",
+        "Liberatio a gente oppressionis",
+        "Liberatio e ventre piscis",
+        "Salus ab igne ardente",
+        "Ascensio ad magnum thronum"
+      ],
+      "answer": "Reunionem cum dilecto amisso et restitutionem visus"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

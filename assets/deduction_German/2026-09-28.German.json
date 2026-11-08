@@ -1,0 +1,61 @@
+{
+  "title": "Die elf Sterne, die sich verbeugten",
+  "intro": "Einer Gestalt aus dem Koran wurde in ihrer Kindheit eine tiefgreifende Vision zuteil – ein Traum von Himmelskörpern, die sich ehrfürchtig verneigten. Jahre voller Verrat, Trennung, falscher Anschuldigungen und Gefangenschaft sollten vergehen, bevor sich diese Vision erfüllte. Wer ist diese widerstandsfähige Seele, deren Geschichte das längste Kapitel des Korans einnimmt?",
+  "clues": [
+    "Ich war einmal jung und hatte einen außergewöhnlichen Traum, vor dem mich sogar mein eigener Vater warnte, ihn für mich zu behalten.",
+    "Meine eigenen Brüder, verblendet von Eifersucht, verschworen sich gegen mich und warfen mich in einen tiefen, dunklen Brunnen.",
+    "Ich wurde in ein fernes Land verschleppt und in den Haushalt eines adligen Beamten verkauft, wo ich Gunst fand und in Verantwortung aufstieg.",
+    "Eine falsche Anschuldigung führte zu meiner ungerechten Inhaftierung, doch in dieser finsteren Zeit fand ich Trost im Gebet und in der Niederwerfung vor Allah.",
+    "Allah hat mich mit der seltenen Gabe gesegnet, Träume zu deuten, was mich schließlich vor den Herrscher des Landes brachte und mich in eine hohe Vertrauensposition erhob.",
+    "Nach langen Jahren der Trennung wurde ich mit meiner geliebten Familie wiedervereint, und mein Kindheitstraum von elf Sternen, der Sonne und dem Mond, die sich vor mir verneigen, erfüllte sich endlich."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Yusuf",
+        "Prophet Salih",
+        "Prophet Ilyas",
+        "Tubba', der Herrscher des alten Himyar",
+        "Ein einfacher Hirte aus den Hügeln Palästinas"
+      ],
+      "answer": "Prophet Yusuf"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Von eifersüchtigen Brüdern in einen tiefen, dunklen Brunnen geworfen werden",
+        "Von einem riesigen Tiefseewesen verschluckt werden",
+        "Von Götzendienern in ein loderndes Feuer geworfen werden",
+        "Von einem göttlichen Wind der Zerstörung fortgerissen",
+        "Das Überleben einer großen Flut, die das gesamte Land bedeckte"
+      ],
+      "answer": "Von eifersüchtigen Brüdern in einen tiefen, dunklen Brunnen geworfen werden"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein ausgetrockneter Brunnen in der Wüste, wo ich verlassen wurde",
+        "Ein prächtiger Tiefseefisch",
+        "Eine gewaltige Arche, erbaut auf göttlichem Befehl.",
+        "Ein Turm, der bis in den Himmel reichen soll.",
+        "Ein heiliges Feuer, das sich weigerte zu brennen"
+      ],
+      "answer": "Ein ausgetrockneter Brunnen in der Wüste, wo ich verlassen wurde"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Nach Jahren der Trennung wurde er mit seiner Familie wiedervereint und wurde ein vertrauenswürdiger Geistlicher.",
+        "Ich führte einen großen Exodus meines Volkes über ein geteiltes Meer an",
+        "Ich warnte meine Nation vor dem drohenden Untergang, der sie verschlang.",
+        "Er baute ein heiliges Haus, das zu einem Zufluchtsort für alle wurde",
+        "Nach drei Tagen unversehrt aus dem Bauch eines riesigen Wesens entstiegen."
+      ],
+      "answer": "Nach Jahren der Trennung wurde er mit seiner Familie wiedervereint und wurde ein vertrauenswürdiger Geistlicher."
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

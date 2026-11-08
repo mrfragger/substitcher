@@ -1,0 +1,61 @@
+{
+  "title": "kiy ñaan ci barab bu sell bi",
+  "intro": "Ci waxtu yu dal yi ci guddi gi, xol bu gëm Yàlla dafa woote Boroom yërmaande bi ci biir miir yu sell yi ci barab bu sell. Ay at ci ngëm gu dëgër ak muñ, ñu ngi doon waaja feye kéemtaan bu nara indi bànneex ak ndono yonent.",
+  "clues": [
+    "Guddi ak sama guddi maa ngi nekkoon ci jaamu Yàlla ci barab bu sell, di ñaan sama Boroom saa yu nekk.",
+    "Ma màgget, sama jabar mënul am doom, waaye musu ma xàddi ci yërmaande Yàlla.",
+    "Ma am doom bu góor bu tuddu Yahya, mu nekk yonent, di leeralu njub.",
+    "Man ci sama bopp, yonent laa woon, ñu yónnee ma ngir jàppale doomi Israyil.",
+    "Man maa ngi bawoo ci Yonent-Yàlla Harun, nekkoon naa saraxalekat ci Jaamukaay bi.",
+    "Maryam yaayu Isa moo ma dénk, ma gis kéemtaan yu mag yi mu def."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Zakariya",
+        "Yahya",
+        "Ilyas",
+        "Ishaq Yalla",
+        "Ya'qub Ya'qub"
+      ],
+      "answer": "Zakariya"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Maa ngi ko jox doom bu góor bimu màggee",
+        "Musal nañu ko ci lakk bu tàng",
+        "Ñu génne ko ci biiru jën",
+        "Mucc na ci mbënd bu mag",
+        "Dañu wéral feebar bu metti"
+      ],
+      "answer": "Maa ngi ko jox doom bu góor bimu màggee"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Mihrab (niche de prière)",
+        "Kaaba gi",
+        "Bush buy tàkk",
+        "Gaalu kóllëre gi",
+        "Grotte des sept dormiteurs"
+      ],
+      "answer": "Mihrab (niche de prière)"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Maa ngi am doom ju jub ju nekk yonent",
+        "Taw bu metti moo ko yàq",
+        "Dafa féey ci géej gi",
+        "Ñu moytu ñu lakk ko",
+        "Ñu dellusi ci seen askan ginaaw bi ñu leen muccal ci jën"
+      ],
+      "answer": "Maa ngi am doom ju jub ju nekk yonent"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

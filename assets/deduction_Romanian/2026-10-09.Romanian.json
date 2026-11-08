@@ -1,0 +1,61 @@
+{
+  "title": "Chemarea neascultată în Țara Aroganței",
+  "intro": "Te afli în ruinele unei civilizații cândva mărețe, unde puterea și mândria nu cunoșteau limite. Un mesager a umblat printre ei, chemând adevărul, dar inimile lor erau împietrite. Avertismentul a rămas neascultat, iar cerul însuși a devenit un instrument al mâniei. Cine a fost acest mesager și ce s-a întâmplat cu cei care au respins chemarea?",
+  "clues": [
+    "Am fost trimis la un popor a cărui putere era neegalată și care a construit pe fiecare loc înalt câte un monument.",
+    "Poporul meu se considera invincibil și zicea: „Cine este mai puternic decât noi în putere?”",
+    "I-am chemat să se închine numai lui Allah, dar ei m-au acuzat de nechibzuință și minciună.",
+    "M-au provocat să aduc pedeapsa promisă dacă sunt sincer.",
+    "Allah a trimis asupra lor un vânt sterp, care nu a cruțat nimic din ceea ce a venit peste el.",
+    "Eu și cei care au crezut împreună cu mine am fost mântuiți prin mila lui Allah, în timp ce necredincioșii au fost nimiciți complet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Hud",
+        "Profetul Salih",
+        "Profetul Șuaib",
+        "Profetul Lut",
+        "Profetul Nuh"
+      ],
+      "answer": "Profetul Hud"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Un vânt devastator i-a distrus pe necredincioși",
+        "O mare inundație i-a cuprins pe necredincioși",
+        "O ploaie de pietre a căzut",
+        "Un țipăt puternic i-a cuprins pe necredincioși",
+        "Un cutremur i-a lovit pe necredincioși"
+      ],
+      "answer": "Un vânt devastator i-a distrus pe necredincioși"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un vânt neobosit",
+        "O arcă de lemn",
+        "O cămilă",
+        "O ploaie de pietre de lut",
+        "Un foc arzător"
+      ],
+      "answer": "Un vânt neobosit"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Hud și credincioșii au fost mântuiți, iar necredincioșii au fost distruși",
+        "Hud a fost ridicat la o poziție înaltă",
+        "Hud a fost ucis de poporul său",
+        "Oamenii lui Hud s-au pocăit și au fost cruțați",
+        "Hud și-a părăsit poporul înainte de orice pedeapsă"
+      ],
+      "answer": "Hud și credincioșii au fost mântuiți, iar necredincioșii au fost distruși"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

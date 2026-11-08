@@ -1,0 +1,61 @@
+{
+  "title": "Lishe Isiyotarajiwa ya Mzee",
+  "intro": "Katika maeneo matakatifu ya Nyumba ya Mwenyezi Mungu, mtumishi mzee wa Mungu alipitia fumbo kubwa ambalo lilipinga matarajio yote. Mtu huyu aliyejitolea, aliyepita miaka mingi ya uzazi wa asili, alishuhudia jambo la ajabu lililofichua rehema isiyo na kikomo ya Mungu. Fumbo liko katika kufichua wakati huu uliosahaulika kutoka kwa maisha ya manabii.",
+  "clues": [
+    "Watu wangu walijulikana kama Israeli, wazao wa baba mkuu wa zamani.",
+    "Nilitumia usiku wangu wote kusali, nikisujudu mbele za Mola wangu hekaluni.",
+    "Nilipewa mwana katika uzee wangu, zawadi ambayo sikuacha kamwe kumtukuza Mwenyezi Mungu kwayo.",
+    "Jaribio langu lilihusisha kugundua riziki iliyoonekana kwa ajili ya roho changa chini ya uangalizi wangu.",
+    "Nilikuwa nabii aliyeitwa Zakariyya, nikiwa na jukumu la kumtunza Maryam katika Bayt al-Maqdis.",
+    "Jibu liko katika aya ambapo Mwenyezi Mungu alimkubali Maryam na akampatia riziki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii aliyemtunza Mariamu hekaluni",
+        "Nabii aliyejenga nyumba takatifu",
+        "Nabii alimezwa na samaki mkubwa",
+        "Nabii aliyewakimbia watu wake",
+        "Nabii aliyezungumza na Mwenyezi Mungu moja kwa moja"
+      ],
+      "answer": "Nabii aliyemtunza Mariamu hekaluni"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujaribiwa kwa miaka mingi ya ukame",
+        "Kupata riziki iliyotolewa kwa njia ya ajabu kwa ajili ya wodi changa",
+        "Kuhubiria taifa lililokataa mwongozo wa kimungu",
+        "Kutupwa shimoni na watu wake mwenyewe",
+        "Kupokea ufunuo kupitia maono"
+      ],
+      "answer": "Kupata riziki iliyotolewa kwa njia ya ajabu kwa ajili ya wodi changa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Meli iliyojengwa kwa mbao na misumari",
+        "Hekalu takatifu la Yerusalemu",
+        "Bustani iliyoharibiwa",
+        "Mji uliojengwa na mfalme mwadilifu",
+        "Kina cha bahari"
+      ],
+      "answer": "Hekalu takatifu la Yerusalemu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu waliamini na kumfuata mjumbe",
+        "Kukubalika na rehema ya Mungu kwa wale waliojitolea kwa ibada",
+        "Adhabu ikawajia makafiri",
+        "Mwana alizaliwa katika uzee kama alivyoahidiwa",
+        "Njia salama kupitia jangwa"
+      ],
+      "answer": "Kukubalika na rehema ya Mungu kwa wale waliojitolea kwa ibada"
+    }
+  },
+  "verseRef": "3:37",
+  "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+  "verse": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\" (3:37)"
+}

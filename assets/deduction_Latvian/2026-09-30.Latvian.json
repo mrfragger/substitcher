@@ -1,0 +1,61 @@
+{
+  "title": "Pacients Viens",
+  "intro": "Sensenos laikos, cilvēces vēstures pirmsākumos, divas dvēseles stāvēja sava Radītāja priekšā ar upuriem. Viena tika pieņemta, otra – ne. Sekojošais kļuva par pirmo lielo traģēdiju starp brāļiem un māsām – viens pacietīgas atturības akts un viens rūgtas atriebības akts. Vai vari atklāt, kas es esmu?",
+  "clues": [
+    "Es piedzimu pašās pirmajās cilvēces eksistences dienās uz Zemes",
+    "Es biju bērns no paša pirmā cilvēku pāra, kas jebkad staigāja pa šo zemi",
+    "Reiz es upurēju no sava ganāmpulka labākajiem ļaudīm, lai iepriecinātu savu Radītāju",
+    "Mans piedāvājums tika pieņemts no augšas, bet mana brāļa/māsas piedāvājums tika noraidīts.",
+    "Kad man draudēja nāve, es izvēlējos nepacelt roku pret savu brāli vai māsu.",
+    "Es kļuvu par pirmo cilvēku visā cilvēces vēsturē, kuru netaisnīgi nogalināja kāds cits."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Habils (Ābels), Ādama dēls",
+        "Kabils (Kains), Ādama dēls",
+        "Ādams, pirmais cilvēks",
+        "Nuh (Noass)",
+        "Ibrahims (Ābrahāms)"
+      ],
+      "answer": "Habils (Ābels), Ādama dēls"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pirmā slepkavība cilvēces vēsturē",
+        "Lielie Nū plūdi",
+        "Fir'awn armijas iznīcināšana",
+        "Ibrahima upurēšana Ismailam",
+        "Cīņa pret Džalutu (Goliātu)"
+      ],
+      "answer": "Pirmā slepkavība cilvēces vēsturē"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Aita, kas tika upurēta kā patīkams upuris",
+        "Liela koka šķirsta",
+        "Personāla, kas pārvērtās par čūsku",
+        "Putnputns nes karalisku vēstījumu",
+        "Ugunsgrēka liesmojoša tranšeja"
+      ],
+      "answer": "Aita, kas tika upurēta kā patīkams upuris"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva par pirmo slepkavības upuri cilvēces vēsturē",
+        "Izdzīvoja lielus plūdus koka kuģa iekšpusē",
+        "Dzīvoja lielas zivs vēderā",
+        "Valdīja pār džiniem, cilvēkiem un vēju",
+        "Četrdesmit gadus klejoja plašā tuksnesī"
+      ],
+      "answer": "Kļuva par pirmo slepkavības upuri cilvēces vēsturē"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

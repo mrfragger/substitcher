@@ -1,0 +1,61 @@
+{
+  "title": "The Flame That Bared a Legacy",
+  "intro": "In the annals of resistance, there stands a figure whose very name became a warning unto the end of time. This person chose enmity over kinship, defiance over submission, and stood in opposition to a call of mercy. Listen carefully to the echoes of an ancient proclamation as we uncover the identity of this notorious soul.",
+  "clues": [
+    "I was born into the same clan as the final messenger of Allah, yet I stood against them at every turn.",
+    "My name carried meaning—a name meaning 'father of flame,' a name that would foreshadow my eternal destiny.",
+    "I unleashed harm against the bearer of truth, and even my own household joined in this campaign of cruelty.",
+    "I used my wealth and influence to silence the call to Allah, believing that money could extinguish divine light.",
+    "Allah dedicated an entire chapter to me—a chapter so brief that it can be recited in seconds, yet its weight remains till the Day of Judgment.",
+    "My companion in the Hereafter walks behind me, bound by a rope of fiber around the neck, carrying the very thorns they used to spread."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Defining Confrontation",
+      "options": [
+        "Leading the opposition against the Prophet in Mecca",
+        "Migrating to Abyssinia to escape persecution",
+        "Building the Kaaba with Prophet Ibrahim",
+        "Accepting Islam on the deathbed",
+        "Forging the Treaty of Hudaybiyyah"
+      ],
+      "answer": "Leading the opposition against the Prophet in Mecca"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A wife who carried thorns and firewood",
+        "A staff that transformed into a serpent",
+        "A ring bearing the seal of Solomon",
+        "A golden calf worshipped by the people",
+        "A spring that gushed forth water"
+      ],
+      "answer": "A wife who carried thorns and firewood"
+    },
+    "outcome": {
+      "label": "Final Reckoning",
+      "options": [
+        "An entire surah revealed declaring total ruin",
+        "Became the leader of the Muslim community",
+        "Received forgiveness at the moment of death",
+        "Built a great mosque in Medina",
+        "Was resurrected among the righteous"
+      ],
+      "answer": "An entire surah revealed declaring total ruin"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A beteg",
+  "intro": "Réges-régen, az emberiség történelmének legkorábbi napjaiban két lélek állt Teremtője előtt áldozattal. Az egyiket elfogadták, a másikat nem. Ami ezután következett, az lett az első nagy tragédia a testvérek között - egy türelmes önmérséklet és egy keserű bosszú. Fel tudod fedezni, hogy ki vagyok?",
+  "clues": [
+    "Az emberiség földi létezésének első napjaiban születtem",
+    "Az első emberpár gyermeke voltam, akik valaha is ezen a földön jártak",
+    "Egyszer nyájam legjavából mutattam be áldozatot, hogy Teremtőmnek tetsszen,",
+    "Az én felajánlásomat elfogadták felülről, míg a testvéremét elutasították.",
+    "Amikor halálosan megfenyegettek, úgy döntöttem, hogy nem emelek kezet a testvéremre.",
+    "Én lettem az első ember az emberiség történetében, akit jogtalanul megölt egy másik személy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Habil (Ábel), Ádám fia",
+        "Qabil (Káin), Ádám fia",
+        "Ádám, az első ember",
+        "Nú (Noé)",
+        "Ibrahim (Ábrahám)"
+      ],
+      "answer": "Habil (Ábel), Ádám fia"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az emberiség történetének első gyilkossága",
+        "Nuh nagy áradása",
+        "Fir'awn seregének pusztulása",
+        "Ibrahim feláldozza Iszmáilt",
+        "A csata Jalut (Góliát) ellen"
+      ],
+      "answer": "Az emberiség történetének első gyilkossága"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy bárány, amelyet kellemes áldozatként felajánlottak",
+        "Egy hatalmas fa bárka",
+        "Egy kígyóvá változott személyzet",
+        "Egy búbos bankamadár királyi üzenetet hordoz",
+        "Egy lángoló tűzárok"
+      ],
+      "answer": "Egy bárány, amelyet kellemes áldozatként felajánlottak"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Az emberiség történetének első gyilkossági áldozata lett",
+        "Túlélt egy nagy árvizet egy fahajóban",
+        "Egy nagy hal gyomrában élt",
+        "Dzsinnek, emberek és a szél felett uralkodott",
+        "Negyven évig vándorolt ​​egy hatalmas vadonban"
+      ],
+      "answer": "Az emberiség történetének első gyilkossági áldozata lett"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

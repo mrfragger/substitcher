@@ -1,0 +1,61 @@
+{
+  "title": "Los Talhaires de Pèira de la Val Antica",
+  "intro": "Imaginatz una civilizacion que s'auçava dins las vals rocosas d'Arabia, abila a talhar d'ostals magnifics dempuèi los penjals de montanha. Floriguèron amb fòrça e artistisme, pasmens lor istòria es marcada per un desfís esglasiant de l'avertiment divin. A mesura que s'apregondissètz dins lor istòria, descobriretz un pòble que son arrogància menèt a son aniquilacion totala. Qui èran?",
+  "clues": [
+    "Avèm eiretat una tèrra de planas rocosas e de bauces imponents, ont bastiguèrem nòstres abitatges amb una destresa incomparabla.",
+    "Èrem coneguts per talhar d'ostals segurs dins las montanhas, en nos sentissent segurs de tot mal.",
+    "Un messatgièr nos venguèt d'entre nosautres, nos remembrant las favors d'Allah e nos avertissent del castig.",
+    "Demandèrem un signe, e una camèla miraculosa sortiguèt de la ròca, una pròva clara d'Allah.",
+    "Desfiguèrem l'avertiment e talhèrem la camèla, en se trufant del messatgièr e en contestant lo castig.",
+    "Un sol buf nos despassèt dins nòstres ostals, e pel matin nos jasiam prostrats, coma se i aviam pas jamai viscut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Pòble de Thamud",
+        "Personas de 'Ad",
+        "Gent de Madyan",
+        "Gent de Nuh",
+        "Gent de Lut"
+      ],
+      "answer": "Pòble de Thamud"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Isquiotilizat la camèla",
+        "Rompèt lo sabbat",
+        "Adorèt lo vedèl d'aur",
+        "Aucit lo propheta trames a lor .",
+        "Bastiguèt una torre per aténher lo cèl"
+      ],
+      "answer": "Isquiotilizat la camèla"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La camèla",
+        "L'Arca",
+        "Lo personal",
+        "La man blanca",
+        "La manà e las codornitz"
+      ],
+      "answer": "La camèla"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruit per una explosion",
+        "Salvat de la destruccion",
+        "Convertits en simis",
+        "Afogat dins la mar",
+        "Engolit per la tèrra"
+      ],
+      "answer": "Destruit per una explosion"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

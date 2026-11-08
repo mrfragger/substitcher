@@ -1,0 +1,61 @@
+{
+  "title": "Bærinn sem trúði á tímann",
+  "intro": "Í sögum guðlegrar miskunnar er til samfélag þar sem vendipunkturinn var augnablik sameiginlegrar skilnings. Þú ert að fara að afhjúpa sögu þeirra – sögu um viðvörun, iðrun og frest sem aðgreindi þau frá örlögum annarra þjóða.",
+  "clues": [
+    "Vér vorum þjóð sem sendiboði var sendur til og vér snerum baki við kalli hans í fyrstu.",
+    "Þegar merki um yfirvofandi refsingu urðu ljós, rann upp fyrir okkur sannleiksgildi viðvörunar hans.",
+    "Við snerum okkur til Drottins okkar með einlægri iðrun og trú okkar var samþykkt.",
+    "Refsingunni sem hafði verið dæmd yfir okkur var aflétt vegna trúar okkar.",
+    "Saga okkar er nefnd sem undantekning meðal þeirra bæja sem trúðu eftir að hafa séð refsingu.",
+    "Við vorum fólk spámannsins sem hvalurinn gleypti, en samt björguðumst við frá tortímingu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið í Yunus",
+        "Fólkið í Nuh",
+        "Fólkið í Húð",
+        "Fólkið í Salih",
+        "Fólkið í Lút"
+      ],
+      "answer": "Fólkið í Yunus"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Eyðileggjandi flóð",
+        "Mikill vindur",
+        "Yfirvofandi refsing af vanvirðingu sem var afstýrt",
+        "Jörðin gleypir þau",
+        "Regn af steinum"
+      ],
+      "answer": "Yfirvofandi refsing af vanvirðingu sem var afstýrt"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Örkina",
+        "Úlfaldinn",
+        "Hundrað þúsund manna borg",
+        "Starfsfólk Músa",
+        "Fjársjóður Qaruns"
+      ],
+      "answer": "Hundrað þúsund manna borg"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Þau voru gjörsamlega eyðilögð",
+        "Þeim var veitt ánægja um tíma",
+        "Þau voru umbreytt í apa",
+        "Þau drukknuðu",
+        "Þau voru gleypt af jörðinni"
+      ],
+      "answer": "Þeim var veitt ánægja um tíma"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

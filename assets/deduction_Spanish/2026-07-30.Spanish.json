@@ -1,0 +1,61 @@
+{
+  "title": "Los extraños visitantes de una ciudad amurallada",
+  "intro": "Un grupo llegó a las puertas de una ciudad cuyos habitantes jamás habían conocido la verdad. Llevaban un mensaje, pero los lugareños se mostraron hostiles y amenazaron con violencia. Sin embargo, desde un lugar inesperado, una voz solitaria se alzó para defender a los forasteros, preparando el escenario para un giro dramático de los acontecimientos.",
+  "clues": [
+    "Entramos en una ciudad cuyos habitantes estaban sumidos en la incredulidad.",
+    "Nos miraron con recelo y dijeron: «No sois más que seres ordinarios como nosotros».",
+    "Les advertimos, pero nos apedrearon.",
+    "Un hombre corrió desde el extremo más alejado de la ciudad para confirmar nuestra verdad.",
+    "Él declaró a su pueblo: \"¿Por qué no habría de adorar a Aquel que me creó?\"",
+    "La negación de la ciudad terminó con una sola explosión, y el silencio reinó donde antes se burlaban."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Los Mensajeros de Ya-Sin",
+        "Los discípulos de Isaías",
+        "La gente de la trinchera",
+        "Los magos del faraón",
+        "El creyente de Ya-Sin"
+      ],
+      "answer": "Los Mensajeros de Ya-Sin"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Rechazo y amenaza de lapidación",
+        "Ser arrojado a un fuego feroz",
+        "Una prueba de paciencia con un niño perdido.",
+        "Un jardín que sufrió destrucción",
+        "Un viaje a través del mar"
+      ],
+      "answer": "Rechazo y amenaza de lapidación"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El extremo más alejado de la ciudad",
+        "El Mar Rojo",
+        "La zanja de fuego",
+        "La cueva del refugio",
+        "La prisión de Egipto"
+      ],
+      "answer": "El extremo más alejado de la ciudad"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "La ciudad fue destruida por un solo grito.",
+        "El mar se abrió y ahogó al ejército.",
+        "El fuego se enfrió y se volvió seguro.",
+        "El jardín fue consumido por un fuego celestial.",
+        "La ballena devolvió a la persona a la orilla."
+      ],
+      "answer": "La ciudad fue destruida por un solo grito."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

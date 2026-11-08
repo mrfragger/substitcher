@@ -1,0 +1,61 @@
+{
+  "title": "Sá fyrsti til að leita fyrirgefningar",
+  "intro": "Stígðu aftur til tímans fyrir fyrstu sólarupprás, áður en nokkur dauðlegur maður gekk á jörðinni. Mynd var mótuð úr látlausasta efni, henni veitt staða ofar englunum og sett í helgan garð með skýrri viðvörun. Samt sem áður var á einni stundu tekin ákvörðun – ákvörðun sem myndi enduróma í gegnum alla mannkynssöguna. Hver er þessi mynd?",
+  "clues": [
+    "Ég var skapaður á ólíkan hátt — mótaður úr dufti jarðar og gefinn lifandi sál af hendi skaparans.",
+    "Mér var veitt svo djúp þekking að jafnvel englarnir á himnum undruðust yfir henni.",
+    "Öllum himninum var boðið að lúta fyrir mér og þau hlýddu öll — nema einn, sem neitaði af stolti.",
+    "Ég var settur í helgan garð, stað eilífrar huggunar og vista — en með einu ströngu banni.",
+    "Ég gleymdi, ég féll og ég óhlýðnaðist — og ég fann djúpt fyrir þyngd mistaka minna.",
+    "Ég sneri mér til Drottins míns með einlægum orðum og hann tók við iðrun minni, því hann er sá sem fyrirgefur mest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Adam",
+        "Spámaðurinn Dawud",
+        "Spámaðurinn Múhameð",
+        "Íblis",
+        "Spámaðurinn Yaqub"
+      ],
+      "answer": "Spámaðurinn Adam"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Englunum var fyrirskipað að falla fram",
+        "Flóðið mikla var sent",
+        "Mikill eldur var svalaður og öruggur",
+        "Hrokafullur stjórnandi drukknaði í sjónum",
+        "Her fíla var eyðilagður"
+      ],
+      "answer": "Englunum var fyrirskipað að falla fram"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Garður sælunnar",
+        "Sínaífjall",
+        "Hin helga moska",
+        "Nílfljótið",
+        "Hellinn"
+      ],
+      "answer": "Garður sælunnar"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Iðrun var samþykkt af Allah",
+        "Drukknaði í sjónum",
+        "Gleypt af stórum fiski",
+        "Þjóðin varð fyrir miklum sprengingum",
+        "Brennt af brennandi vindi"
+      ],
+      "answer": "Iðrun var samþykkt af Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

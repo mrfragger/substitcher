@@ -1,0 +1,61 @@
+{
+  "title": "Ilki aýaga galan jan",
+  "intro": "Ýer ýüzünde hiç bir ilçi ýöräp başlamazdan, hiç bir mukaddes ýazgy inmezden has öň, başga hiç bir jandar döremedi. Bu jan ylahy eller bilen şekillendirilip, deňsiz-taýsyz gözellige eýe edilip, tutuş adamzat taryhynda ýaňlanjak usulda synagdan geçirildi. Soňra ejizlik, tüýs ýürekden toba etmek we ýaradylyşyň ugruny ebedi üýtgedjek ykbal barada hekaýa boldy. Munuň kimdigini çaklap bilersiňizmi?",
+  "clues": [
+    "Men iň Rehimliniň elleri bilen topragyň topragyndan emele geldim",
+    "Maňa açlyk ýa-da ýadawlyk degip bilmejek deňsiz-taýsyz gözellik öýi berildi",
+    "Maňa hiç haçan bir agaja golaýlaşmaly däldigim buýruldy, sebäbi ol gadagan edildi",
+    "Men we ýoldaşym aldanyp, Rebbimiziň emrine garşy gadagan edilen agaja ýakynlaşdyk",
+    "Biz tüýs ýürekden toba edip, Rebbimize gaýdyp geldik we günälerimiz bagyşlandy",
+    "Bizden ähli adamzat gelip çykdy; Men bu ýer ýüzünde ilkinji bolup ýören"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Adam pygamber",
+        "Musa pygamber",
+        "Nuh pygamber",
+        "Ýusup pygamber",
+        "Isa pygamber"
+      ],
+      "answer": "Adam pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Gadagan edilen agaç tarapyndan synaga salynmak",
+        "Fyrown bilen ýüzbe-ýüz bolmak",
+        "Beýik gämini gurmak",
+        "Söýgüli ogluň gurbanlygy",
+        "Uly oda taşlanmak"
+      ],
+      "answer": "Gadagan edilen agaç tarapyndan synaga salynmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Gadagan edilen agaç",
+        "Ýanýan Çala",
+        "Altyn taýak",
+        "Beýik Sandyk",
+        "Altyn göle"
+      ],
+      "answer": "Gadagan edilen agaç"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Adamzadyň ilkinji goragçysy hökmünde ýere iberilen",
+        "Fyrown we onuň goşuny deňizde gark boldular",
+        "Beýik sil erbetleri ýok etdi",
+        "Ot sowuk we parahat boldy",
+        "Müsür patyşalygyna ygtyýar berildi"
+      ],
+      "answer": "Adamzadyň ilkinji goragçysy hökmünde ýere iberilen"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

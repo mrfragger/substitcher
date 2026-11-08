@@ -1,0 +1,61 @@
+{
+  "title": "Say Pangibabaga na Sigpot ya Autoridad",
+  "intro": "Nensaman, walay sakey a makapanyarin indibidual ya manuley ed maawang a dalin tan ed saray manaayam ditan. Say uley na sayan pigura et atandaan na baleg a panagpaatagey tan baleg ya angat ed madibinon autoridad. Manparaan pian naamtaan so pakabidbiran na sakey a kamarerwa ya say pansumpalan to et nagmaliw ya magnayon a leksion parad amin a kailalakan.",
+  "clues": [
+    "Walay pakayarik ed sakey a mabiskeg ya impirio, a ditan et ganggan so salitak.",
+    "Indeklarak so inkasiak a sankatageyan a dios, a mankekerew na panagdayew ed amin a walad silong na uley ko.",
+    "Pinairap ko so sakey a komunidad, ya inaripen ko ra tan ingganggan kon pateyen iray ugugaw nin lalaki.",
+    "Aminpiga ak ya inarap na sakey a mapaabeban mensahero na Dios, ya nanggawa na malinew iran milagro ed arap ko tan saray managsalamangka ko.",
+    "Masebeg ak ya angipulisay ed katwaan, ya inakusaan koy mensahero na panagsalamangka tan manplaplanon maneral ed sikato tan saray patumbok to.",
+    "Siak tan say interon armada ko et inawit na dayat legan min ag-ontutundan uusilan iramay nibulos ed pakayarik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Say Baleg a Delap",
+        "Say Manliob ya Apoy",
+        "Say Inkalner na Managpairap",
+        "Say Paneral na Dagem",
+        "Say Yegyeg na Agpanisia"
+      ],
+      "answer": "Say Inkalner na Managpairap"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say Kaban nen Noe",
+        "Say Baston nen Moises",
+        "Say Balitok ya Idolo",
+        "Say Bobon na Zamzam",
+        "Say trono nen Bilqis"
+      ],
+      "answer": "Say Baston nen Moises"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Niiter so malaknab a panarian",
+        "Inpreserba so bangkay bilang tanda",
+        "Naperdona kayari na panagbabawi",
+        "Intagey ed inkapropeta",
+        "Nagmaliw a maridios iray totoo to"
+      ],
+      "answer": "Inpreserba so bangkay bilang tanda"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

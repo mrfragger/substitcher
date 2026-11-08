@@ -1,0 +1,61 @@
+{
+  "title": "O Exilado do Jardim",
+  "intro": "Um ser misterioso outrora habitava os mais altos escalões da criação, mais próximo do Divino do que muitos poderiam imaginar. Contudo, o orgulho enraizou-se nele, e um único ato de desafio alterou o curso da existência. Agora, esse ser vagueia como um inimigo declarado, sussurrando e tramando até que o dia prometido chegue. Você conseguirá desvendar a identidade desse ser caído?",
+  "clues": [
+    "Em certa época, estive entre aqueles mais próximos da presença Divina, elevado acima de grande parte da criação.",
+    "Fui criado a partir de um elemento escaldante, não da terra ou do barro.",
+    "Quando me ordenaram que me curvasse diante de uma nova criação, recusei-me — movido pelo que eu acreditava ser minha própria superioridade.",
+    "Fui expulso e amaldiçoado, mas, por fim, recebi um indulto até um momento determinado e conhecido.",
+    "Eu jurei desviar o máximo de pessoas possível, aproximando-me da descendência de Adão por todos os lados.",
+    "Sou o inimigo declarado e assumido de toda a humanidade, sempre tramando e sussurrando até o fim determinado."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Profeta Ilyas",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Julgamento/Evento",
+      "options": [
+        "Recusa em prostrar-se diante de Adão",
+        "Construir um bezerro de ouro para o povo adorar.",
+        "Ensinando feitiçaria ao povo da Babilônia.",
+        "Dividir o mar com um bastão",
+        "Carregando o trono da Rainha de Sabá num instante"
+      ],
+      "answer": "Recusa em prostrar-se diante de Adão"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Jardim do Éden",
+        "A montanha de Tur",
+        "O poço de Rass",
+        "O palácio do Faraó",
+        "A caverna dos adormecidos"
+      ],
+      "answer": "O Jardim do Éden"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Suspensão concedida até o Dia do Juízo Final.",
+        "Afogado no mar com um exército",
+        "Enterrado vivo sob um palácio em ruínas",
+        "Transformado em um macaco ou símio",
+        "Promovido a um cargo superior"
+      ],
+      "answer": "Suspensão concedida até o Dia do Juízo Final."
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

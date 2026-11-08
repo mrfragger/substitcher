@@ -1,0 +1,61 @@
+{
+  "title": "Elaka Elobelami Likolo Ya Embers",
+  "intro": "Otelemi pembeni ya mɔ́tɔ ya esobe wana ezali kopanzana na likebi nyonso. Bapaya bakomi mpo na bokutani na kimia, mpe nsango moko efungoli lisolo ya elaka, ya kokamwa, mpe ya mikolo mizali koya oyo ekokisami naino te.",
+  "clues": [
+    "Tokatisaki ntaka mpo na kokóma epai ya mosaleli moko ya sembo na esobe.",
+    "Tosɛngaki ete bápalanganisa mɔtɔ mpo na kobongisa mɔtɔ.",
+    "Tosololaki na moko oyo abengaki mɔ́tɔ mpo na malili mpe libateli.",
+    "Tomemaki nsango ya mwana oyo abotami sika epai ya moto oyo alekisaki mbula ya kobota bana.",
+    "Topesaki mwana oyo tolakamaki nkombo Yisaka.",
+    "Tomemelaki Ibrahim nsango ya esengo ya mwana mobali, mpe nsango ya kokamwa etikalaki Ibrahim koseka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Ba Angels Oyo Bamemaki Nsango Esengo Ya Isaac epayi ya Ibrahim",
+        "Ba Angels Oyo Bakebisaki Lut",
+        "Baanzelu oyo Bamemaki Kiti ya Bokonzi",
+        "Ba Anzelu ya Lifelo",
+        "Baanzelu batindamaki epai ya Noa"
+      ],
+      "answer": "Ba Angels Oyo Bamemaki Nsango Esengo Ya Isaac epayi ya Ibrahim"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Komemela Ibrahim nsango ya esengo ya mbotama ya Isaac",
+        "Kokebisa Lut liboso ya etumbu ya bato na ye",
+        "Kosakola mbotama ya Yahya na Zakariyya",
+        "Komema Kiti ya Bokonzi na Mokolo ya Kosambisama",
+        "Kosakola mbotama ya Isa na Maryam"
+      ],
+      "answer": "Komemela Ibrahim nsango ya esengo ya mbotama ya Isaac"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mɔtɔ oyo babongisaki na mɔtɔ oyo epalangani",
+        "Masuwa oyo ezali kopumbwapumbwa likoló ya mai ya mpela",
+        "Libulu oyo ekangami na libanga oyo ezali kobalubaluka",
+        "Ngomba ya mabele ya lima oyo ekómi makasi na mai ya saline",
+        "Escalier oyo etandami tii na likoló"
+      ],
+      "answer": "Mɔtɔ oyo babongisaki na mɔtɔ oyo epalangani"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Nsango ya esengo ya mwana mobali moko na nkombo Yisaka",
+        "Nsango ya esengo ya mwana mobali moko na nkombo Yahya",
+        "Pona Talut lokola mokonzi likolo ya Bana ya Yisalaele",
+        "Likebisi liboso ya etumbu ya bato ya Lut",
+        "Etinda ya kotonga masuwa liboso ya Mpela"
+      ],
+      "answer": "Nsango ya esengo ya mwana mobali moko na nkombo Yisaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bir Miras Qoyan Alov",
+  "intro": "Müqavimət salnamələrində adı zamanın sonuna xəbərdarlıq edən bir şəxsiyyət var. Bu şəxs qohumluqdansa düşmənçiliyi, təslim olmaqdansa itaətsizliyi seçdi və mərhəmət çağırışına qarşı çıxdı. Bu bədnam ruhun kimliyini aşkarlayarkən qədim bir elanın əks-sədasını diqqətlə dinləyin.",
+  "clues": [
+    "Mən Allahın sonuncu elçisi ilə eyni qəbilədə doğulmuşam, amma hər addımda onlara qarşı durmuşam.",
+    "Adımın mənası var idi — “alov atası” mənasını verən, əbədi taleyimi xəbər verən bir ad.",
+    "Mən həqiqət daşıyıcısına qarşı pislik etdim və hətta öz ailəm də bu qəddarlıq kampaniyasına qoşuldu.",
+    "Pulun ilahi nuru söndürə biləcəyinə inanaraq, var-dövlətimdən və nüfuzumdan istifadə edərək Allaha çağırışı susdurdum.",
+    "Allah mənə bütöv bir surə həsr etdi - saniyələr içində oxuna biləcək qədər qısa, lakin ağırlığı Qiyamət gününə qədər qalacaq bir surə.",
+    "Axirətdəki yoldaşım, boynuna lifli bir ip bağlanmış, əvvəllər yaydıqları tikanları daşıyaraq arxamca gəlir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əbu Ləhəb",
+        "Əbu Cəhil",
+        "Vəraqa ibn Nofəl",
+        "Üməyyə ibn Xələf",
+        "Uqbə ibn Əbi Muayt"
+      ],
+      "answer": "Əbu Ləhəb"
+    },
+    "trial": {
+      "label": "Qarşıdurmanın Tərifi",
+      "options": [
+        "Məkkədə Peyğəmbərə qarşı müxalifətə rəhbərlik etmək",
+        "Təqiblərdən qaçmaq üçün Həbəşistana köç etmək",
+        "İbrahim peyğəmbərlə birlikdə Kəbənin tikilməsi",
+        "Ölüm yatağında İslamı qəbul etmək",
+        "Hüdeybiyyə müqaviləsinin bağlanması"
+      ],
+      "answer": "Məkkədə Peyğəmbərə qarşı müxalifətə rəhbərlik etmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Tikan və odun daşıyan bir arvad",
+        "İlana çevrilən bir əsa",
+        "Süleymanın möhürünü daşıyan üzük",
+        "Xalqın ibadət etdiyi qızıl buzov",
+        "Su fışqıran bir bulaq"
+      ],
+      "answer": "Tikan və odun daşıyan bir arvad"
+    },
+    "outcome": {
+      "label": "Son Hesablaşma",
+      "options": [
+        "Tam bir surə nazil oldu və tam bir məhvi elan etdi",
+        "Müsəlman icmasının lideri oldu",
+        "Ölüm anında bağışlanma aldı",
+        "Mədinədə böyük bir məscid tikdirdi",
+        "Salehlər arasında dirildi"
+      ],
+      "answer": "Tam bir surə nazil oldu və tam bir məhvi elan etdi"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

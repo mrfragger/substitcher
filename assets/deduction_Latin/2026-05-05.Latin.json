@@ -1,0 +1,61 @@
+{
+  "title": "Amplexus Terrae",
+  "intro": "Tempore magnarum tribulationum, viro clarissimo immensae rerum abundantiae, probationis gratiae et humilitatis, concessae sunt. Iter huius personae tamquam profunda lectio de fugacitate rerum materialium et consequentiis arrogantiae praebet. Identitatem huius animae detege, cuius historia in ipso solo sub nobis insculpta est.",
+  "clues": [
+    "Inter populum a nuntio magno ductum vixi.",
+    "Deus mihi tantas divitias donavit ut ipsae claves thesaurorum meorum onus grave essent multis viris fortibus.",
+    "Gens mea, divitiis meis cognitis, mihi consilium tulit ut sedem post mortem quaererem cum iis quae Deus mihi dederat, et partem meam mundi non obliviscar, et ut benefaciam sicut Deus mihi benefecerat.",
+    "Superbe declaravi divitias meas immensas sola mea scientia et labore adeptas esse, omne divinum beneficium negans.",
+    "Cum rogatus sum ut contribuerem vel munificentiam Allah agnoscerem, superbe recusavi, credens bona mea mea omnino esse.",
+    "Propter summam meam arrogantiam et oppressionem, Deus imperavit terrae ut aperiretur et deglutiret me et habitationem meam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Aman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "In ignem coniectus",
+        "Submersus in mari",
+        "Ex horto exsul",
+        "In simiam transformari",
+        "A terra absorberi"
+      ],
+      "answer": "A terra absorberi"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus aureus",
+        "Arca ingens",
+        "Avis loquens",
+        "Baculus mirabilis",
+        "Thesauri immensi et claves"
+      ],
+      "answer": "Thesauri immensi et claves"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Magnus princeps fieri",
+        "Accipiendo revelationem divinam",
+        "Ascendens ad caelum",
+        "Longam vitam pietatis agens",
+        "Summa destructio propter arrogantiam"
+      ],
+      "answer": "Summa destructio propter arrogantiam"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

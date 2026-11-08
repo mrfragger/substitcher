@@ -1,0 +1,61 @@
+{
+  "title": "Splendors, kas nogrima",
+  "intro": "Iztēlojieties šo: dvēsele, tērpta smalkās drēbēs un ieskauta neiedomājamiem dārgumiem. Šī persona uzskatīja, ka viņa bagātība ir nopelnīta ar savu izcilību, nekad neatzīstot patiesās apgādes avotu. Staigājot starp varena pravieša sekotājiem, šī persona atteicās no visiem aicinājumiem būt pazemīgiem. Šodien mēs atklājam personas identitāti, kuras krāšņā bagātība kļuva par viņas pēdējo atdusas vietu.",
+  "clues": [
+    "Es dzīvoju pravieša laikā, kurš aicināja spītīgu tautu pie patiesības.",
+    "Es biju daļa no izredzētas kopienas, tomēr mana sirds novērsās no vēsts.",
+    "Zelts un sudrabs mani valdzināja vairāk nekā jebkura dievišķa pavēle.",
+    "Manas dārgumu glabātuves kļuva tik plašas, ka spēcīga vīru grupa knapi spēja pacelt atslēgas.",
+    "Es lielījos, ka mana bagātība man tika dota, pateicoties manām zināšanām.",
+    "Beigās mani un visu manu mājokli kā brīdinājumu aprija zeme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Koruns",
+        "Hamans",
+        "Samiri",
+        "Bilqis",
+        "Taluts (Sauls)"
+      ],
+      "answer": "Koruns"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Augstprātība par bagātību un atteikšanās no labdarības",
+        "Zelta elka kalšana no izkausētām rotaslietām",
+        "Dievišķības pasludināšana pār varenu valstību",
+        "Agrīno ticīgo vajāšana Mekā",
+        "Vadot kampaņu, lai iznīcinātu Svēto Namu"
+      ],
+      "answer": "Augstprātība par bagātību un atteikšanās no labdarības"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Dārgumi, kuru atslēgas apgrūtināja daudzus spēcīgus vīrus",
+        "Zelta teļš, kas radīja skaņu",
+        "Krāšņs tronis no tālas zemes",
+        "Tranšeja, kas piepildīta ar degošu uguni",
+        "Varena kara ziloņu armija"
+      ],
+      "answer": "Dārgumi, kuru atslēgas apgrūtināja daudzus spēcīgus vīrus"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Zeme to norīja kopā ar mājokli",
+        "Noslīka jūrā kopā ar armiju",
+        "Sadedzināts dzīvs ugunsgrēka bedrē",
+        "Iznīcināts gaudojoša, nikna vēja",
+        "Nogāza viens spēcīgs sprādziens"
+      ],
+      "answer": "Zeme to norīja kopā ar mājokli"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Taisnīgo miegs",
+  "intro": "Laikā, kad ticība bija bīstama un varenie centās to sagraut, neliela jaunu dvēseļu grupa pieņēma lēmumu, kas atbalsosies cauri gadsimtiem. Bēgot no visa, ko pazina, viņi meklēja patvērumu kalna slēptajā tumsā un pilnībā paļāvās uz Allāhu. Tas, kas notika tālāk, kļuva par mūžīgu zīmi tiem, kas pārdomā.",
+  "clues": [
+    "Mēs bijām jauniešu grupa, kas ticēja mūsu Kungam, un Viņš mūs vairoja vadībā.",
+    "Mēs nostājāmies savas tautas priekšā un paziņojām, ka nekad nepiesauksim nevienu citu dievību, izņemot Allāhu.",
+    "Mēs meklējām patvērumu alā, sacīdami: “Mūsu Kungs, dāvā mums žēlastību no Sevis un vadi mūs pareizi mūsu lietās.”",
+    "Mēs gulējām daudzus gadus, un saule noliecās prom no mūsu alas un mūs neskāra.",
+    "Mūsu suns gulēja izstiepies pie alas ieejas, sargādams mūs it kā sardzē.",
+    "Kad mūs pamodināja, mēs prātojām, cik ilgi esam kavējušies, un viens no mums tika nosūtīts ar sudraba monētām pirkt pārtiku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Alas ļaudis",
+        "Tranšejas cilvēki",
+        "Sabata cilvēki",
+        "Ziloņu ļaudis",
+        "Meža biedri"
+      ],
+      "answer": "Alas ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Aizbēga uz alu, lai izvairītos no vajāšanām savas ticības dēļ",
+        "Iznīcinājis spēcīgs vējš",
+        "Zeme norīja",
+        "Noslīcis jūrā",
+        "Akmeņu vētras skarts"
+      ],
+      "answer": "Aizbēga uz alu, lai izvairītos no vajāšanām savas ticības dēļ"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Suns sargā alas ieeju",
+        "Liela šķirsta",
+        "Personāls, kas pārvērtās par čūsku",
+        "Ūdensvīrs",
+        "Zelta teļš"
+      ],
+      "answer": "Suns sargā alas ieeju"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņi palika alā 309 gadus un pēc tam tika pacelti kā zīme",
+        "Viņi tika pārvērsti par pērtiķiem",
+        "Tos iznīcināja plūdi",
+        "Viņiem bija jāšķērso jūra",
+        "Viņiem tika dota valstība"
+      ],
+      "answer": "Viņi palika alā 309 gadus un pēc tam tika pacelti kā zīme"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

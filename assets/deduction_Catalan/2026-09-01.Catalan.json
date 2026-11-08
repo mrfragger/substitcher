@@ -1,0 +1,61 @@
+{
+  "title": "La veu dels afores",
+  "intro": "Et trobes en una ciutat on han arribat tres missatgers amb senyals clars, però la gent se'n burla i s'aferra als seus vells costums. Des de la part més allunyada de la ciutat, una figura corre cap a la multitud, sense alè i decidida, a dir la veritat davant del rebuig. Qui és aquesta ànima que ho ha arriscat tot per un missatge que no és seu?",
+  "clues": [
+    "Vaig viure entre un poble que havia rebut missatgers amb senyals clars, però que es van allunyar amb arrogància.",
+    "Vaig venir corrent des de la part més llunyana de la ciutat quan vaig sentir la crida dels missatgers.",
+    "Vaig dir al meu poble: «Poble meu, seguiu els missatgers. Seguiu aquells que no us demanen cap recompensa, perquè són guiats correctament».",
+    "No era un profeta, però creia en els missatgers i instava el meu poble a fer el mateix.",
+    "La meva gent es va burlar dels meus consells i em va acusar de ser extremista.",
+    "Quan em van matar, Al·là em va dir que entrés al Paradís, i vaig desitjar que el meu poble pogués conèixer el perdó i l'honor que vaig rebre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "L'home de la part més llunyana de la ciutat (Ya-Sin)",
+        "Un dels tres missatgers enviats a la ciutat",
+        "Un comerciant destacat de la ciutat",
+        "Un governant de la ciutat",
+        "El líder dels incrèduls"
+      ],
+      "answer": "L'home de la part més llunyana de la ciutat (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Predicant al seu poble que seguís els missatgers",
+        "Construint un vaixell per salvar els creients d'un diluvi",
+        "Ser llançat al foc per la fe",
+        "Ser engolit per una balena",
+        "Rebent un regne i saviesa"
+      ],
+      "answer": "Predicant al seu poble que seguís els missatgers"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La part més allunyada de la ciutat",
+        "L'arca",
+        "El pou",
+        "L'arbust ardent",
+        "La cova"
+      ],
+      "answer": "La part més allunyada de la ciutat"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Va entrar al Paradís i va desitjar que el seu poble pogués conèixer el seu perdó",
+        "Ofegat amb el seu poble per rebutjar el missatge",
+        "Se li va donar un miracle de la camella",
+        "Es va convertir en governant després del seu judici",
+        "Va ser salvat per Al·là i va romandre amb el seu poble"
+      ],
+      "answer": "Va entrar al Paradís i va desitjar que el seu poble pogués conèixer el seu perdó"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

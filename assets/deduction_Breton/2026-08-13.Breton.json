@@ -1,0 +1,61 @@
+{
+  "title": "Ene pasianted an Ti Sakr",
+  "intro": "E pajennoù ar C'horan e teu ur skeudenn eus lignez ur profed bras, roet evel prof en oad kozh. Lidet eo an ene-se evit e wirionez dic'hortoz hag e roll pouezus e sevel ur santual a zeufe da vezañ ur skouer a feiz. E-pad ma lennit an titouroù, selaouit mat ar vouezh eus an amzer dremenet, rak komz a ra er c'hentañ gour.",
+  "clues": [
+    "Meneget on er C'horan e-kichen ur profed all evel ur prof roet d'ur c'hannad kozh.",
+    "Unan eus an daou vugel bet roet d'ar profed-se en e vloavezhioù diwezhañ e oan.",
+    "Meuleudiet on er C'horan evit bezañ gwirion d'am ger.",
+    "Douget em eus enor ar brofeded ha kaset on bet evel kannad.",
+    "Kemer a ran perzh gant ma zad evit sevel diazezoù an Ti Sakr.",
+    "Soñj a reer ac’hanon evel unan eus ar re pasiant, hag an ti sakr hon eus savet a zeuas da vezañ ul lec’h distro ha surentez evit an dud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Ismail",
+        "Ar profed Ishaq",
+        "Ar profed Yaqub",
+        "Ar profed Zakariya",
+        "Ar profed Yahya"
+      ],
+      "answer": "Ar profed Ismail"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Sevel diazezoù ar C'haaba gant Ibrahim",
+        "Bezañ taolet en tan",
+        "Bezañ lonket gant ur balum",
+        "Kas an Israelited er-maez eus an Ejipt",
+        "O sevel un arc'h"
+      ],
+      "answer": "Sevel diazezoù ar C'haaba gant Ibrahim"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar C'haaba",
+        "Menez Sinai",
+        "Ar Mor Ruz |",
+        "Al Leue Aour",
+        "Liorzh Eden"
+      ],
+      "answer": "Ar C'haaba"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Kontet e-touez ar c'hlañvidi",
+        "Kontet e-touez an dud fall",
+        "Kontet e-touez an hudourien",
+        "Kontet e-touez an dud diskred",
+        "Kontet e-touez an hipokrited"
+      ],
+      "answer": "Kontet e-touez ar c'hlañvidi"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

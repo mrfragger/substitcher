@@ -1,0 +1,61 @@
+{
+  "title": "Ahadi Iliyosemwa Juu ya Makaa ya Moto",
+  "intro": "Unasimama kando ya moto wa jangwani huku makaa yake yakitandazwa kwa uangalifu. Wageni wanawasili kwa ajili ya kukutana katika ukimya, na ujumbe mmoja unafungua hadithi ya ahadi, mshangao, na mustakabali ambao haujatimizwa bado.",
+  "clues": [
+    "Tulivuka umbali ili kumfikia mtumishi mwaminifu jangwani.",
+    "Tuliomba makaa ya moto yasambazwe ili kuandaa moto.",
+    "Tulizungumza na mtu mmoja ambaye alikuwa ameita moto kwa ajili ya ubaridi na usalama.",
+    "Tulileta habari za mtoto mchanga kwa mtu ambaye alikuwa amepita umri wa kupata watoto.",
+    "Tulimpa mtoto aliyeahidiwa jina Isaka.",
+    "Tulimletea Ibrahim habari njema za mtoto wa kiume, na habari hizo za kushangaza zilimwacha Ibrahim akicheka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Malaika Waliomletea Ibrahim Habari Njema za Isaka",
+        "Malaika Waliomtahadharisha Lut",
+        "Malaika Wenye Kiti cha Enzi",
+        "Malaika wa Kuzimu",
+        "Malaika Waliotumwa kwa Nuhu"
+      ],
+      "answer": "Malaika Waliomletea Ibrahim Habari Njema za Isaka"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kumletea Ibrahim habari njema za kuzaliwa kwa Isaka",
+        "Kumwonya Lut kabla ya adhabu ya watu wake",
+        "Kutangaza kuzaliwa kwa Yahya kwa Zakariyya",
+        "Kubeba Kiti cha Enzi Siku ya Hukumu",
+        "Kumtangazia Mariamu kuzaliwa kwa Isa"
+      ],
+      "answer": "Kumletea Ibrahim habari njema za kuzaliwa kwa Isaka"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Moto uliotayarishwa kutokana na makaa yaliyoenea",
+        "Safina ikielea juu ya maji ya mafuriko",
+        "Pango lililofungwa kwa jiwe linaloviringishwa",
+        "Mlima wa udongo ulioimarishwa na chumvi ya chumvi",
+        "Ngazi inayoelekea angani"
+      ],
+      "answer": "Moto uliotayarishwa kutokana na makaa yaliyoenea"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Habari njema ya mwana anayeitwa Isaka",
+        "Habari njema ya mwana anayeitwa Yahya",
+        "Kuchaguliwa kwa Talut kama mtawala juu ya Wana wa Israeli",
+        "Onyo kabla ya adhabu ya watu wa Lut",
+        "Amri ya kujenga safina kabla ya Gharika"
+      ],
+      "answer": "Habari njema ya mwana anayeitwa Isaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

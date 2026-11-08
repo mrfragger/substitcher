@@ -1,0 +1,61 @@
+{
+  "title": "Ang Pananampalataya sa Likod ng Trono",
+  "intro": "Ang ilang kaluluwa ay sinusubok hindi sa pamamagitan ng apoy o baha, kundi sa pamamagitan ng mabagal na presyur ng pamumuhay sa loob ng palasyo ng isang malupit na pinuno. Ang pigurang ito ay nakatayo sa tabi ng isang pinuno na nag-aangkin ng pagka-diyos sa kanilang mga tao, ngunit lihim na kumapit sa pananampalataya sa Iisang Tunay na Diyos. Nang matuklasan ang kanilang debosyon, dumating ang pagdurusa — ngunit gayundin ang isang banal na pangako. Mahuhulaan mo ba kung sino ito?",
+  "clues": [
+    "Nanirahan ako sa ilalim ng bubong ng pinakamakapangyarihang pinuno ng aking lupain, sa isang posisyon na iilan lamang ang makakaisip.",
+    "Tumayo ang aking asawa sa harap ng mga tao at idineklara ang kanyang sarili bilang isang diyos — ngunit ang puso ko ay pag-aari ng Nag-iisang Tunay na Panginoon.",
+    "Palihim akong bumulong ng mga panalangin, dahil sa takot sa parusang idudulot sa lahat ng sumuway sa aking asawa.",
+    "Nang mabunyag ang aking pananampalataya, ako ay dinakip at pinahirapan—ngunit ang aking dila ay hindi kailanman nagbitaw ng kahit isang salitang hindi paniniwala.",
+    "Ibinuhos ko ang aking puso sa aking Panginoon, humihingi ng isang bahay sa Paraiso, na malayo sa lahat ng kasamaan.",
+    "Ako si Asiya bint Muzahim — ang asawa ng Paraon na sumalungat kina Musa at Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Asiya bint Muzahim (Asawa ni Paraon)",
+        "Si Hawwa (Eba), ang unang babae",
+        "Si Sarah, ang unang asawa ni Ibrahim",
+        "Si Hagar, ang ina ni Isma'il",
+        "Ang ina ni Maryam (asawa ni Imran)"
+      ],
+      "answer": "Asiya bint Muzahim (Asawa ni Paraon)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagtitiis ng pagpapahirap dahil sa pagtangging talikuran ang pananampalataya",
+        "Nabubuhay sa loob ng tiyan ng isang malaking isda",
+        "Paggawa ng isang napakalaking arka upang makatakas sa baha",
+        "Itinapon sa nagliliyab na apoy",
+        "Saksi sa paghahati ng isang malaking dagat"
+      ],
+      "answer": "Pagtitiis ng pagpapahirap dahil sa pagtangging talikuran ang pananampalataya"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang bahay na itinayo para sa kanila sa Paraiso",
+        "Isang tungkod na naging ahas",
+        "Isang arka na may dalang pares ng bawat nilalang",
+        "Isang ginintuang guya na sinasamba ng isang bansa",
+        "Isang lambanog na ginagamit upang talunin ang isang higanteng mandirigma"
+      ],
+      "answer": "Isang bahay na itinayo para sa kanila sa Paraiso"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pinarangalan ng isang tahanan sa Paraiso kasama ng mga matuwid",
+        "Nalunod sa ilalim ng mga alon kasama ang kanilang hukbo",
+        "Nasunog sa apoy ngunit iniligtas ng banal na interbensyon",
+        "Nilunok ng isang malaking nilalang at saka itinapon sa pampang",
+        "Naging pinakamayamang tao sa kanilang panahon"
+      ],
+      "answer": "Pinarangalan ng isang tahanan sa Paraiso kasama ng mga matuwid"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

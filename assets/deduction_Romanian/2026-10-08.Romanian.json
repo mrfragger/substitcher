@@ -1,0 +1,61 @@
+{
+  "title": "Sculptorii în piatră din Valea Antică",
+  "intro": "Imaginează-ți o civilizație care a apărut în văile stâncoase ale Arabiei, pricepută în sculptarea unor case magnifice din versanții munților. Au înflorit cu putere și măiestrie artistică, însă povestea lor este marcată de o sfidare înfiorătoare a avertismentului divin. Pe măsură ce te adâncești în povestea lor, vei descoperi un popor a cărui aroganță a dus la anihilarea lor completă. Cine erau ei?",
+  "clues": [
+    "Am moștenit un ținut cu câmpii stâncoase și stânci impunătoare, unde ne-am construit locuințele cu o măiestrie neegalat.",
+    "Eram cunoscuți pentru faptul că săpeam case sigure în munți, simțindu-ne în siguranță de orice rău.",
+    "Un mesager a venit la noi dintre noi, amintindu-ne de favorurile lui Allah și avertizându-ne despre pedeapsă.",
+    "Am cerut un semn și o cămilă miraculoasă a ieșit din stâncă, o dovadă clară de la Allah.",
+    "Am sfidat avertismentul și am frânt cămila, batjocorindu-l pe mesager și contestând pedeapsa.",
+    "O singură explozie ne-a surprins în casele noastre, iar spre dimineață zăceam prosternați, ca și cum nu am fi locuit niciodată acolo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din Thamud",
+        "Oamenii din 'Ad",
+        "Oamenii din Madyan",
+        "Oamenii din Nuh",
+        "Oamenii din Lut"
+      ],
+      "answer": "Oamenii din Thamud"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A împins cămila",
+        "A încălcat Sabatul",
+        "S-a închinat vițelului de aur",
+        "L-au ucis pe profetul trimis la ei",
+        "A construit un turn pentru a ajunge la cer"
+      ],
+      "answer": "A împins cămila"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Cămila",
+        "Arca",
+        "Personalul",
+        "Mâna albă",
+        "Mana și prepelițele"
+      ],
+      "answer": "Cămila"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Distrus de o explozie",
+        "Salvat de la distrugere",
+        "Transformați în maimuțe",
+        "Înecat în mare",
+        "Înghițit de pământ"
+      ],
+      "answer": "Distrus de o explozie"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

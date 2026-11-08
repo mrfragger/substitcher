@@ -1,0 +1,61 @@
+{
+  "title": "Wasaliti wa Wateule",
+  "intro": "Katika historia yote, wajumbe wa Mungu walitembea miongoni mwa wanadamu, na baadhi ya watu walio karibu nao walishindwa kutambua nuru. Simulizi hili linahusu roho mbili ambazo ukaribu wao na unabii ulikuwa mtihani wao, na urithi wao ni somo lisilo na kikomo.",
+  "clues": [
+    "Tuliishi katika nyakati za manabii wakuu, lakini macho yetu yalibaki yamefumbwa kwa ukweli waliouleta.",
+    "Nyumba zetu zilijaa ufunuo wa kimungu, lakini mioyo yetu ilikuwa migumu.",
+    "Tulikuwa tumeoa wanaume waliochaguliwa kuwaonya watu wao.",
+    "Adhabu ilipokuja, hatukutafuta kimbilio ndani ya safina wala kukimbia mvua inayowaka, kwa sababu tulidhihaki maonyo.",
+    "Tumetajwa katika Quran kama mfano kwa wale wasioamini, kuonyesha kwamba hata uhusiano wa karibu na nabii hauokoi.",
+    "Sisi ni wake wa Nuh na Lut, ambao waliwasaliti na hivyo wakahukumiwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Wake wa Nuh na Lut",
+        "Wake wa Ibrahim na Ismail",
+        "Wake wa Musa na Harun",
+        "Wake wa Dawud na Sulayman",
+        "Wake wa Ayyub na Yunus"
+      ],
+      "answer": "Wake wa Nuh na Lut"
+    },
+    "trial": {
+      "label": "Jaribio lao lilikuwa nini?",
+      "options": [
+        "Waliolewa na manabii lakini hawakuamini",
+        "Walikuwa tasa na waliwalaumu manabii",
+        "Walikuwa matajiri na wenye kiburi",
+        "Walishawishiwa na Ibilisi kuondoka majumbani mwao.",
+        "Waliabudu Ndama wa Dhahabu"
+      ],
+      "answer": "Waliolewa na manabii lakini hawakuamini"
+    },
+    "location": {
+      "label": "Hatima yao ilihusishwa na nini?",
+      "options": [
+        "Mafuriko na mvua ya mawe",
+        "Upepo mkali",
+        "Tetemeko la ardhi",
+        "Pigo la nzige",
+        "Kugawanyika kwa bahari"
+      ],
+      "answer": "Mafuriko na mvua ya mawe"
+    },
+    "outcome": {
+      "label": "Mwisho wao ulikuwa nini?",
+      "options": [
+        "Waliangamia pamoja na makafiri",
+        "Walitubu na kuokolewa",
+        "Waliachwa bila watoto",
+        "Walifukuzwa milele",
+        "Walibadilishwa kuwa nyani na nguruwe"
+      ],
+      "answer": "Waliangamia pamoja na makafiri"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

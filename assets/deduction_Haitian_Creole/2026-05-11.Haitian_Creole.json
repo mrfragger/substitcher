@@ -1,0 +1,61 @@
+{
+  "title": "Temwen fidèl yo",
+  "intro": "Imajine yon epòk kote lafwa te pase anba eprèv, epi konviksyon san fay te vin tounen defi ultim lan. Ou gen pou misyon dekouvri idantite yon gwoup ki gen istwa rakonte nan Koran an, yon naratif lafwa pwofon kont tirani akablan. Dekouvri endis yo pou dekouvri kiyès nanm sa yo te ye, ak sikonstans ekstraòdinè yo te fè fas.",
+  "clues": [
+    "Nou te rete fèm nan konviksyon nou, malgre gwo presyon pou nou abandone lafwa nou.",
+    "Yon dirijan pwisan te vize nou ki t ap chache etenn limyè monoteyis la.",
+    "Nou te temwen gwo siy ak mirak, epoutan moun ki t ap oprime nou yo te rete san fè atansyon.",
+    "Nou te andire yon metòd pèsekisyon terib ki te fèt pou teworize lòt moun pou yo soumèt.",
+    "Yo te jete nou nan yon gwo dife, men pèseverans nou an te fè nou jwenn yon plas ki wo devan Allah.",
+    "Istwa nou an rakonte nan yon sourat ki pote non konstelasyon selès yo, ki avèti sou sò moun k ap pèsekite kwayan yo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun nou ye?",
+      "options": [
+        "Moun Thamud yo",
+        "Moun 'Ad yo",
+        "Moun nan Fose a",
+        "Moun Madyan yo",
+        "Moun Elefan yo"
+      ],
+      "answer": "Moun nan Fose a"
+    },
+    "trial": {
+      "label": "Pèsekisyon nou an",
+      "options": [
+        "Nwaye nan yon inondasyon",
+        "Yon van cho ap boule",
+        "Yo jete l nan yon twou dife",
+        "Latè vale l",
+        "Yo transfòme an makak"
+      ],
+      "answer": "Yo jete l nan yon twou dife"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon gwo inondasyon",
+        "Yon gwo tranblemanntè",
+        "Yon twou byen fon, k ap boule",
+        "Yon zidòl pwisan",
+        "Yon sechrès devastatè"
+      ],
+      "answer": "Yon twou byen fon, k ap boule"
+    },
+    "outcome": {
+      "label": "Destine final nou an",
+      "options": [
+        "Yo te ba yo yon wayòm sou latè.",
+        "Yo te sove grasa yon chape mirakileuz.",
+        "Yo te rive jwenn mati ak rekonpans etènèl.",
+        "Yo te transfòme an yon lòt espès.",
+        "Yo te ba yo anpil richès ak pwosperite."
+      ],
+      "answer": "Yo te rive jwenn mati ak rekonpans etènèl."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

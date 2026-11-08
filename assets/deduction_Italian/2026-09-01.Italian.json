@@ -1,0 +1,61 @@
+{
+  "title": "La voce dalla periferia",
+  "intro": "Ti trovi in ​​una città dove tre messaggeri sono giunti con segni inequivocabili, ma la gente li deride e si aggrappa alle vecchie abitudini. Dalla parte più remota della città, una figura corre verso la folla, senza fiato e determinata, per proclamare la verità di fronte al rifiuto. Chi è quest'anima che ha rischiato tutto per un messaggio non suo?",
+  "clues": [
+    "Vivevo in mezzo a un popolo che aveva ricevuto messaggeri con segni evidenti, eppure si è voltato indietro con arroganza.",
+    "Sono corso dalla parte più lontana della città quando ho sentito la chiamata dei messaggeri.",
+    "Ho detto al mio popolo: «O popolo mio, seguite i messaggeri. Seguite coloro che non vi chiedono alcuna ricompensa, perché sono ben guidati».",
+    "Non ero un profeta, ma credevo nei messaggeri e esortavo il mio popolo a fare lo stesso.",
+    "La mia gente si è fatta beffe dei miei consigli e mi ha accusato di essere un estremista.",
+    "Quando mi uccisero, Allah mi disse di entrare in Paradiso, e desiderai che il mio popolo potesse conoscere il perdono e l'onore che ho ricevuto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "L'uomo proveniente dalla parte più lontana della città (Ya-Sin)",
+        "Uno dei tre messaggeri inviati in città",
+        "Un importante mercante della città",
+        "Un sovrano della città",
+        "Il capo degli increduli"
+      ],
+      "answer": "L'uomo proveniente dalla parte più lontana della città (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Predicava al suo popolo di seguire i messaggeri",
+        "Costruire una nave per salvare i credenti da un'alluvione",
+        "Essere gettati nel fuoco per la fede",
+        "Essere inghiottito da una balena",
+        "Ricevere un regno e la saggezza"
+      ],
+      "answer": "Predicava al suo popolo di seguire i messaggeri"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La parte più lontana della città",
+        "L'arca",
+        "Il pozzo",
+        "Il roveto ardente",
+        "La grotta"
+      ],
+      "answer": "La parte più lontana della città"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Entrò in Paradiso e desiderò che il suo popolo conoscesse il suo perdono",
+        "Annegato insieme al suo popolo per aver rifiutato il messaggio",
+        "Fu dato un miracolo della cammella",
+        "Divenne sovrano dopo il suo processo",
+        "Fu salvato da Allah e rimase con il suo popolo."
+      ],
+      "answer": "Entrò in Paradiso e desiderò che il suo popolo conoscesse il suo perdono"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

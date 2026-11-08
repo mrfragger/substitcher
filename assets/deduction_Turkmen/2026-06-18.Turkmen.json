@@ -1,0 +1,61 @@
+{
+  "title": "Bagyşlamany ilkinji bolup soraýan",
+  "intro": "Ilkinji gün dogmazdan öňki, islendik ölümlüniň ýer ýüzünde ýaşamazdan öňki döwre gaýdyp geliň. Iň kiçi materiallardan bir şekil ýasalyp, perişdelerden ýokarda orun berildi we aýdyň duýduryş bilen mukaddes bagda ýerleşdirildi. Emma bir pursatda bir saýlaw edildi - bu saýlaw tutuş adamzat taryhynda ýaňlanardy. Bu şekil kim?",
+  "clues": [
+    "Men başga hiç bir zada meňzemeýän usulda — ýeriň topragyndan ýaradylyp, Ýaradyjynyň eli bilen diri jan berildi.",
+    "Maňa şeýle çuňňur bilim berildi welin, hatda ýokardaky perişdeler hem oňa haýran galdylar.",
+    "Ähli gökler meniň öňümde tagzym etmeklige buýruldy we olaryň hemmesi boýun egdi - diňe biri tekepbirlikden ýüz öwürdi.",
+    "Men mukaddes bagda, ebedi rahatlyk we üpjünçilik ýerinde ýerleşdirildim — ýöne bir berk gadaganlyk bilen.",
+    "Men ýatdan çykardym, ýalňyşdym we gulak asmadym — we ýalňyşlygymyň agramyny çuňňur duýdum.",
+    "Men ýürekden çykýan sözler bilen Rebbime ýüzlendim we Ol meniň tobamy kabul etdi, sebäbi Ol örän bagyşlaýandyr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Adam pygamber",
+        "Dawut pygamber",
+        "Muhammet pygamber",
+        "Iblis",
+        "Ýakup pygamber"
+      ],
+      "answer": "Adam pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Perişdelere sežde etmek tabşyryldy",
+        "Beýik Tupan iberildi",
+        "Uly ot sowuk we howpsuz boldy",
+        "Tekepbir hökümdar deňizde gark boldy",
+        "Pilleriň goşuny ýok edildi"
+      ],
+      "answer": "Perişdelere sežde etmek tabşyryldy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Bagt bagy",
+        "Sinaý dagy",
+        "Mukaddes Metjit",
+        "Nil derýasy",
+        "Magara"
+      ],
+      "answer": "Bagt bagy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Toba Allah tarapyndan kabul edildi",
+        "Deňizde gark boldy",
+        "Uly balyk tarapyndan ýuwudyldy",
+        "Millet güýçli partlama bilen urdy",
+        "Gyzgyn ýel bilen ýandy"
+      ],
+      "answer": "Toba Allah tarapyndan kabul edildi"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

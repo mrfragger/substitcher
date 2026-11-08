@@ -1,0 +1,61 @@
+{
+  "title": "L-Eku mit-Tarf tal-Belt",
+  "intro": "F’belt li tbiegħdet mill-gwida divina, figura solitarja ħarġet mill-periferija, tiġri b’messaġġ ta’ tama u twissija. Din ir-ruħ minsija kellha ssir simbolu etern ta’ fidi soda.",
+  "clues": [
+    "Rajt messaġġiera jintbagħtu lejn il-belt tiegħi, iżda n-nies tiegħi ċaħduhom bħala bnedmin ordinarji.",
+    "Emmint fil-messaġġ tagħhom u ħassejt il-verità tirresona ġewwa fija.",
+    "Jiena appellajt lin-nies tiegħi biex jobdu lill-messaġġiera li ma talbu l-ebda premju.",
+    "Ġrejt mill-aktar tarf imbiegħed tal-belt, nipprova b'urġenza nġegħelhom jaraw ir-raġuni.",
+    "Il-poplu tiegħi qam kontrija, u jien ġejt maqtul, imma jien sibt il-paċi ta’ dejjem.",
+    "Alla qalli, 'Idħol fil-Ġenna,' u xtaqt li n-nies tiegħi jkunu jistgħu jaraw l-unur mogħti lili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Kredent ta' Ya-Sin",
+        "Uzair il-Mistoqsien",
+        "Al-Khidr il-Gwida",
+        "Il-Kredent tal-Familja tal-Fargħun",
+        "Namrud it-Tirann"
+      ],
+      "answer": "Il-Kredent ta' Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Jiffaċċja nies li ma jemmnux u li qatluh",
+        "Li tintrema f’nar qawwi",
+        "Nibla’ minn ħuta kbira",
+        "Il-bini ta’ arka enormi",
+        "Jaħrab mill-armata ta’ tirann"
+      ],
+      "answer": "Jiffaċċja nies li ma jemmnux u li qatluh"
+    },
+    "location": {
+      "label": "Post Ewlieni",
+      "options": [
+        "L-iktar tarf imbiegħed tal-belt",
+        "Il-muntanja ta’ Tur",
+        "Il-Wied tan-Nemel",
+        "Ix-xtut tan-Nil",
+        "L-għar tal-għar"
+      ],
+      "answer": "L-iktar tarf imbiegħed tal-belt"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Martirju u dħul immedjat fil-Ġenna",
+        "Ħarba u salvazzjoni",
+        "Tlugħ lejn is-smewwiet",
+        "Għerqa fil-baħar",
+        "Nibdlu f'ġebla"
+      ],
+      "answer": "Martirju u dħul immedjat fil-Ġenna"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

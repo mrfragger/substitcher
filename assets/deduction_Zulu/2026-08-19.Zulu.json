@@ -1,0 +1,61 @@
+{
+  "title": "Isizwe Esadelela Ukuhleleka Kwemvelo",
+  "intro": "Esifundeni esinendaba ephindaphindwayo iminyaka eminingi, umphakathi wawuphila ngokuvukela imithetho yobumsulwa obala. Izenzo zabo zazingakaze zibonwe ngaphambili kangangokuthi zikhunjulwa njengesixwayiso kubo bonke abantu. Babengobani laba bantu, futhi bafikelwa yini isiphetho?",
+  "clues": [
+    "Sahlala ezweni eliseduze nendlela abahambi ababevame ukudlula kuyo, kodwa sayenza uhambo lwabo lwaba yingozi.",
+    "Senze izenzo zokungahloniphi ezingakaze zenziwe muntu emhlabeni ngaphambili.",
+    "Isithunywa esivela phakathi kwethu sasibiza ukuba sishiye izindlela zethu, kodwa samlahla futhi safuna isijeziso uma ekhuluma iqiniso.",
+    "Lapho kufika izivakashi ezinhle edolobheni lethu, safuna ukuzihlasela, singazi ukuthi ziyizithunywa zembubhiso.",
+    "Saxwayiswa ngesijeziso esibi kakhulu uma singayeki, kodwa sahleka usulu isixwayiso futhi sahlala esonweni sethu.",
+    "Imvula yamatshe evela ezulwini yasiwela, izindlu zethu zagumbuqelwa, akushiywanga mkhondo ngaphandle kwesibonakaliso kulabo abacabangayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu bakaLut",
+        "Abantu baseThamud",
+        "Abantu base-A'ad",
+        "Abantu baseMadyan",
+        "Abantu baseSaba"
+      ],
+      "answer": "Abantu bakaLut"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Kwenziwe ukuziphatha okubi okungakaze kubonwe ngaphambili kanye nemigwaqo evinjiwe",
+        "Wakhuleka ithole legolide",
+        "Wabulala ikamela elingcwele eliyinsikazi",
+        "Wakhohliswa kwezohwebo futhi wancisha abantu imali",
+        "Wakha umbhoshongo ophakeme ukuze aphonsele inselelo amazulu"
+      ],
+      "answer": "Kwenziwe ukuziphatha okubi okungakaze kubonwe ngaphambili kanye nemigwaqo evinjiwe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Izingelosi zifihleke njengezimenywa ezinhle",
+        "Ikamela lensikazi liphuma edwaleni",
+        "Intonga ephenduka inyoka",
+        "Isikebhe esakhiwe entabeni",
+        "Umlilo owaba nokuthula futhi waphola"
+      ],
+      "answer": "Izingelosi zifihleke njengezimenywa ezinhle"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wabhujiswa yimvula yamatshe avela esibhakabhakeni",
+        "Kugwinywe umhlaba",
+        "Ngicwile esikhukhuleni esikhulu",
+        "Ngishaywe ukuqhuma okukhulu",
+        "Kuguqulwe kwaba yizinkawu"
+      ],
+      "answer": "Wabhujiswa yimvula yamatshe avela esibhakabhakeni"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

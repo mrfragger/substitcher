@@ -1,0 +1,61 @@
+{
+  "title": "Taxtı Tez Gətirən",
+  "intro": "Qüdrətli bir hökmdarın sarayında qeyri-mümkün bir tələb irəli sürüldü və bir çoxları öz dəyərlərini sübut etmək üçün yarışdılar. Lakin bu vəzifəni yalnız ilahi biliyə bağlılığı bütün fiziki gücləri aşan bir şəxs yerinə yetirə bilərdi və bu, əsrlər boyu əks-səda verəcək bir anı ortaya qoyur.",
+  "clues": [
+    "Mən həm də peyğəmbər olan böyük bir padşahın xidmətində idim və onun ən etibarlı çevrəsində idim.",
+    "Mən odlu məxluq və ya böyük fiziki gücə malik varlıq deyildim, amma əlimdə daha güclü bir şey var idi.",
+    "Padşah uzaq bir ölkədən taxt gətirilməsini istəyəndə nə edəcəyimi dəqiq bilirdim.",
+    "Mən Kitabdan aldığım biliklərdən danışdım və heç kim reaksiya verməzdən əvvəl taxt padşahın qarşısına qoyuldu.",
+    "Mənim hərəkətim öz gücümlə deyil, əsl biliyin yalnız Allahdan gəldiyinin nümayişi idi.",
+    "\"Nəml\" surəsində qeyd edildiyi kimi, Səba məlikəsinin taxtını bir göz qırpımında gətirən mənəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Kitabdan xəbəri olan",
+        "Qüdrətli cin İfrit",
+        "Süleymanın şanapipik quşu",
+        "Süleyman peyğəmbər",
+        "Səba kraliçası"
+      ],
+      "answer": "Kitabdan xəbəri olan"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Səba Kraliçası taxtını bir göz qırpımında gətirmək",
+        "İsraillilər üçün Qırmızı dənizin iki yerə bölünməsi",
+        "Oğlu ilə birlikdə Kəbəni tikir",
+        "Odlu sobadan sağ çıxmaq",
+        "Balinanın qarnından xilas olmaq"
+      ],
+      "answer": "Səba Kraliçası taxtını bir göz qırpımında gətirmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Bilqis taxtı",
+        "Musanın əsası",
+        "Nuhun gəmisi",
+        "Nəmrudun atəşi",
+        "Yunus balinası"
+      ],
+      "answer": "Bilqis taxtı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Taxt, minnətdarlıq sınağı olaraq dərhal Süleymanın qarşısında peyda oldu.",
+        "Kraliça dərhal İslamı qəbul etdi",
+        "Cin uğursuzluğa görə həbs edildi",
+        "Süleyman öz krallığından imtina etdi",
+        "Taxt parçalara bölündü"
+      ],
+      "answer": "Taxt, minnətdarlıq sınağı olaraq dərhal Süleymanın qarşısında peyda oldu."
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

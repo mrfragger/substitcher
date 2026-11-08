@@ -1,0 +1,61 @@
+{
+  "title": "La veu que es negava a la desesperació",
+  "intro": "Entra en una llar on la pèrdua segueix la pèrdua, però una veu tranquil·la rebutja la desesperació. Una sola crida a l'Alcorà converteix la paciència en un punt d'inflexió; pots rastrejar les pistes fins a la persona que hi ha darrere d'aquesta veu?",
+  "clues": [
+    "Jo era la veu de la paciència dins d'una llar on les benediccions es posaven a prova per la calamitat.",
+    "Vaig romandre en una llar buida per la pèrdua de riquesa i fills.",
+    "Sabia que la malaltia també havia afectat aquell company, el cos del qual estava afectat.",
+    "Quan l'angoixa es va agreujar, vaig invocar recordant Al·là.",
+    "Vaig fer una declaració: Al·là és la Veritat, així que sigueu pacients.",
+    "Vaig cridar a Ayyub pel seu nom; després, Al·là va alleujar l'aflicció i va restaurar la família."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "L'esposa del profeta Ayyub",
+        "L'esposa del profeta Nuh",
+        "L'esposa del profeta Ibrahim",
+        "L'esposa del profeta Ya'qub",
+        "La filla del faraó"
+      ],
+      "answer": "L'esposa del profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Romandre amb Ayyub durant la pèrdua i la malaltia, i després demanar paciència",
+        "Advertint a un missatger just que abandoni una comunitat corrupta",
+        "Pregant pel naixement d'un futur llinatge",
+        "Interpretació dels somnis dins d'una presó reial",
+        "Trobar un nen de confiança a la vora d'un riu"
+      ],
+      "answer": "Romandre amb Ayyub durant la pèrdua i la malaltia, i després demanar paciència"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La declaració que Al·là és la Veritat i que cal paciència",
+        "Una palmera al costat d'una font",
+        "Una crida a construir un vaixell lluny de les onades",
+        "Un somni d'onze estrelles i un sol naixent",
+        "Una cistella portada pel Nil"
+      ],
+      "answer": "La declaració que Al·là és la Veritat i que cal paciència"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "L'aflicció d'Ayyub va ser alleujada i la seva família va ser restaurada",
+        "Un fill tan esperat va ser concedit després d'una pregària estèril",
+        "Un jove governant va interpretar set anys d'abundància i escassetat",
+        "Un nen confiat va ser rescatat d'una aigua que corrent",
+        "Un avís va precedir una inundació destructiva"
+      ],
+      "answer": "L'aflicció d'Ayyub va ser alleujada i la seva família va ser restaurada"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

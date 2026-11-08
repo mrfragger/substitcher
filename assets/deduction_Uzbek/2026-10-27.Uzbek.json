@@ -1,0 +1,61 @@
+{
+  "title": "To'satdan osmon ostidagi qamal",
+  "intro": "Siz barcha qurollar tayyor va g'alaba aniq ko'rinib turgan holda, hurmatli boshpana yaqinlashib kelayotgan dahshatli qo'shin oldida turibsiz. Hujum boshlanishidan oldin, kutilmagan kuch boshingizda paydo bo'ladi va jang hech kim kutmagan burilishga aylanadi.",
+  "clues": [
+    "Biz hech bir yer yuzidagi kuch tebrata olmasligiga ishonch bilan yurardik.",
+    "Biz qudratli fillarni olib keldik va kuchimiz ularning atrofida to'planganga o'xshardi.",
+    "Biz g'alabamiz allaqachon aniq deb o'ylab, muqaddas ma'badni buzib tashlash uchun kelgan edik.",
+    "Biz u yerga yetib borganimizda, tepamizdagi osmonda bir suruv uchib o'tdi.",
+    "Qushlar jangchilarimizga qotib qolgan loydan toshlar otishdi.",
+    "Biz shunchalik mag'lub bo'ldikki, qudratli kuchimiz parchalanib, kul kabi sochilib ketdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fil xalqi",
+        "Ikki shahzoda",
+        "Yusufning akalari",
+        "Zul-Kifldagi Allohning bandasi",
+        "Solih insonning sheriklari"
+      ],
+      "answer": "Fil xalqi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Fil boshchiligidagi Ka'baga hujum",
+        "Yetkazib berilgan guruh oldida dengiz ikkiga bo'linmoqda",
+        "Zolim xalq tomonidan Sandiqning tortib olinishi",
+        "Ikki masjid orasidagi tungi sayohat",
+        "Ilohiy kuch bilan moxovning davolanishi"
+      ],
+      "answer": "Fil boshchiligidagi Ka'baga hujum"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Loy granulalarini ko'tarib yurgan qushlar",
+        "Gopher daraxtidan yasalgan sandiq",
+        "Tayoq ilonga aylandi",
+        "Belgi bilan muhrlangan tosh",
+        "Yonayotgan buta"
+      ],
+      "answer": "Loy granulalarini ko'tarib yurgan qushlar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ularning qudratli kuchi kul kabi parchalanib ketdi",
+        "Ular dengizdan xavfsiz o'tishdi",
+        "Ular alangali pechdan sog'-salomat o'tib ketishdi",
+        "Ular jannatga juft-juft bo'lib kirishdi",
+        "Ular g'orda 309 yil uxladilar"
+      ],
+      "answer": "Ularning qudratli kuchi kul kabi parchalanib ketdi"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

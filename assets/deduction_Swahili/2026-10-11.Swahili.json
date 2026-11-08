@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Katika Mchanga wa Kale",
+  "intro": "Miongoni mwa wajumbe wa mwanzo wa Mwenyezi Mungu, kulikuwa na mmoja ambaye jina lake linang'aa kwa muda mfupi lakini kwa maana katika Quran. Mtu huyu aliishi muda mrefu kabla ya manabii wengi wakubwa kutumwa, na alijulikana kwa ukweli na uvumilivu usioyumba. Hadithi yao ni fupi lakini urithi wao unaendelea katika kumbukumbu ya milele. Nafsi hii tukufu ni nani?",
+  "clues": [
+    "Mimi ni mmoja wa wajumbe wa mwanzo kabisa, waliotajwa kwa ufupi lakini kwa maana katika Quran.",
+    "Tabia yangu ilibainishwa na kujitolea bila kuyumba kwa ukweli.",
+    "Ninakumbukwa katika kitabu cha Mwenyezi Mungu miongoni mwa wale waliokuwa imara na wenye subira.",
+    "Ni mistari michache tu mifupi katika Quran inayosimulia hadithi yangu.",
+    "Mwenyezi Mungu aliniheshimu kwa njia ambayo ni yangu ya kipekee, ambayo si pamoja na manabii wengine.",
+    "Nilipandishwa cheo cha juu, heshima ya kipekee katika Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Idris",
+        "Nabii Ilyas",
+        "Dhul-Kifl",
+        "Nabii Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Nabii Idris"
+    },
+    "trial": {
+      "label": "Kufafanua Wakati",
+      "options": [
+        "Nilipandishwa cheo cha juu na Mwenyezi Mungu",
+        "Nilijenga safina kubwa ili kuwaokoa watu wangu",
+        "Niliwapinga wachawi wa Farao",
+        "Nilitupwa shimoni na ndugu zangu",
+        "Nilipoteza uwezo wa kuona kutokana na huzuni kwa sababu ya mwanangu"
+      ],
+      "answer": "Nilipandishwa cheo cha juu na Mwenyezi Mungu"
+    },
+    "location": {
+      "label": "Marejeo Matakatifu",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Heshima ya Kimungu",
+      "options": [
+        "Kituo cha juu kisicho na kifani kingine chochote",
+        "Utawala juu ya majini na upepo",
+        "Ufalme wa utukufu usio na kifani",
+        "Mrithi kutoka uzeeni mwangu",
+        "Agano lililofungwa na Mwenyezi Mungu"
+      ],
+      "answer": "Kituo cha juu kisicho na kifani kingine chochote"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

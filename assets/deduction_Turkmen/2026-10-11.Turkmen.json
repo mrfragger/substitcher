@@ -1,0 +1,61 @@
+{
+  "title": "Gadymy Gumlardaky Ses",
+  "intro": "Allanyň ilkinji ilçileriniň arasynda ady Kuranda gysga, ýöne manyly beýan edilen biri bardy. Bu şahsyýet köp sanly beýik pygamberler iberilmezden has öň ýaşapdy we üýtgewsiz dogruçyllygy we sabyrlylygy bilen tanalýardy. Olaryň taryhy gysga, ýöne mirasy ebedi ýazgylarda galýar. Bu asylly jan kim?",
+  "clues": [
+    "Men Gurhanda gysgaça, ýöne manyly ýagdaýda agzalýan ilkinji ilçileriň biri.",
+    "Meniň häsiýetim hakykata bolan üýtgewsiz ygrarlylyk bilen kesgitlendi.",
+    "Men Allanyň kitabynda sabyrly we sabyrly adamlaryň arasynda ýatlanýaryn.",
+    "Gurhandaky diňe birnäçe gysga aýat meniň hekaýamy gürrüň berýär.",
+    "Alla meni başga pygamberler bilen paýlaşylmadyk, diňe meniňki bolan ýolda hormatlady.",
+    "Men ýokary derejä, Gurhanda aýratyn hormata mynasyp boldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Idris pygamber",
+        "Ylýas pygamber",
+        "Zul-Kifl",
+        "Pygamber Alýasa",
+        "Asif ibn Barhiýa"
+      ],
+      "answer": "Idris pygamber"
+    },
+    "trial": {
+      "label": "Kesgitleýji pursat",
+      "options": [
+        "Meni Allatagala ýokary derejä çykardy",
+        "Men halkymy halas etmek üçin uly gämi ýasadym",
+        "Men Fyrownyň jadygöýlerine garşy çykdym",
+        "Meni doganlarym çukura taşladylar",
+        "Oglum üçin gynanyp, gözlerimi ýitirdim"
+      ],
+      "answer": "Meni Allatagala ýokary derejä çykardy"
+    },
+    "location": {
+      "label": "Mukaddes salgylanma",
+      "options": [
+        "Al-Anbiýa süresi",
+        "Al-Kahf suresi",
+        "Taha suresi",
+        "Aş-Şuara süresi",
+        "Ýasin suresi"
+      ],
+      "answer": "Al-Anbiýa süresi"
+    },
+    "outcome": {
+      "label": "Ylahy hormat",
+      "options": [
+        "Başga hiç bir stansiýa meňzemeýän ýokary stansiýa",
+        "Jinleriň we ýelleriň üstünden höküm sürmek",
+        "Taýsyz şöhratyň patyşalygy",
+        "Garrylygymdan miras galan",
+        "Alla bilen baglaşylan äht"
+      ],
+      "answer": "Başga hiç bir stansiýa meňzemeýän ýokary stansiýa"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

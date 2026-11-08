@@ -1,0 +1,61 @@
+{
+  "title": "Los constructores de torres",
+  "intro": "En tiempos remotos, surgió una poderosa civilización, distinguida por sus impresionantes obras de construcción y su formidable fuerza. Esta entidad colectiva contaba con abundantes recursos y destreza física, pero optó por desafiar el mensaje divino enviado para guiarla. Su historia constituye una profunda lección en los anales de la historia, un testimonio de las consecuencias de rechazar la verdad.",
+  "clues": [
+    "Se nos concedió una fuerza física y una estatura inmensas, a diferencia de cualquier otra persona de nuestra época.",
+    "Éramos conocidos por construir grandes estructuras y pilares altísimos en todos los lugares elevados, pensando que viviríamos para siempre.",
+    "Un mensajero de entre nosotros fue enviado para advertirnos, exhortándonos a adorar solo a Alá y a abandonar nuestros ídolos.",
+    "Con arrogancia, cuestionamos a nuestro mensajero, preguntándole si habían venido solo para que adoráramos a Alá y abandonáramos lo que adoraban nuestros antepasados.",
+    "Nuestra tierra estaba bendecida con jardines, manantiales y campos fértiles, pero atribuíamos nuestra prosperidad a nuestra propia fuerza, no a nuestro Creador.",
+    "Por nuestra persistente incredulidad y burla, finalmente fuimos aniquilados por un viento aterrador y furioso que azotó durante muchos días y noches."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Gente de Thamud",
+        "Pueblo de Fir'aun",
+        "Pueblo de Nuh",
+        "Pueblo de Madyan",
+        "Gente de 'Anuncio'"
+      ],
+      "answer": "Gente de 'Anuncio'"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Que te pidan sacrificar un camello específico",
+        "El reto de producir diez suras como el Corán",
+        "Al mostrar la división del mar",
+        "Ser advertido por un profeta sobre el inminente diluvio",
+        "Rechazar a un profeta que advirtió contra la construcción excesiva y la adoración de ídolos."
+      ],
+      "answer": "Rechazar a un profeta que advirtió contra la construcción excesiva y la adoración de ídolos."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "El fuego",
+        "La ciudad de Sodoma",
+        "Altas columnas y sólidas viviendas"
+      ],
+      "answer": "Altas columnas y sólidas viviendas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ahogado en una gran inundación",
+        "Engullido por la tierra",
+        "Transformados en monos y cerdos",
+        "Destruido por una explosión atronadora",
+        "Aniquilado por un viento furioso y devastador."
+      ],
+      "answer": "Aniquilado por un viento furioso y devastador."
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

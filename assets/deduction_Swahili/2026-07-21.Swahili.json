@@ -1,0 +1,61 @@
+{
+  "title": "Laana ya Mavuno Mengi",
+  "intro": "Katika nchi ya kale, mtu fulani alisimama miongoni mwa matajiri zaidi katika jamii yao. Baraka za dunia zilikuwa zimewajia mara mbili katika miaka mfululizo, mavuno maradufu ambayo yangewajaza mioyo yao shukrani. Lakini wakati msiba ulipotokea na kila kitu walichokuwa nacho kikachukuliwa kwa usiku mmoja, majibu yao yalifunua asili halisi ya roho yao. Je, unaweza kufichua utambulisho wa mtu huyu ambaye hadithi yake hutumika kama onyo dhidi ya kutoamini baraka za Mwenyezi Mungu?",
+  "clues": [
+    "Nilikuwa miongoni mwa watu waliobahatika zaidi katika nchi yote, nikiwa nimebarikiwa na vyakula vingi.",
+    "Mavuno yalinijia mara mbili kwa zaidi ya miaka miwili, lakini moyo wangu ulibaki bila shukrani kwa Bwana wangu.",
+    "Nilikuwa na bustani nzuri yenye mizabibu, mizeituni, na mitende—ushahidi wa neema ya Mwenyezi Mungu.",
+    "Bustani yangu ilipoharibiwa, nilisimama kwenye magofu yake huku mikono yangu ikiwa imenyooshwa mbinguni, nikilaani hatima yangu.",
+    "Nilikataa kwamba Mwenyezi Mungu angeweza kusababisha hasara kama hiyo, hata nilipoponda mikono yangu kwa kukata tamaa.",
+    "Adhabu yangu haikuwa tu kupoteza bustani yangu, bali kuachwa bila msaada kabisa katika magofu yake, bila uwezo wa kumwomba msaidizi yeyote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mmiliki wa bustani katika Sura ya 26",
+        "Mmiliki wa bustani mbili kutoka nchi ya mbali",
+        "Nafsi tajiri kutoka mji wa mafanikio",
+        "Mkulima aliyetajwa katika Surah Al-Kahf",
+        "Mtunza shamba la mizabibu tangu wakati wa Nabii Shu'aib"
+      ],
+      "answer": "Mmiliki wa bustani katika Sura ya 26"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kupotea kwa bustani iliyoharibiwa katika usiku mmoja",
+        "Gharika kubwa iliyofunika dunia",
+        "Kujaribiwa na manabii wa kweli na wa uongo",
+        "Kesi ya kutupwa motoni",
+        "Jaribio la kumezwa na ardhi"
+      ],
+      "answer": "Kupotea kwa bustani iliyoharibiwa katika usiku mmoja"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bustani yenye mizabibu, mizeituni, na mitende iliyoharibiwa kwa zaidi ya miaka miwili",
+        "Meli iliyojengwa juu ya mlima mrefu",
+        "Mji wa taifa linaloasi",
+        "Kisima katika Midiani ya kale",
+        "Mto wa paradiso"
+      ],
+      "answer": "Bustani yenye mizabibu, mizeituni, na mitende iliyoharibiwa kwa zaidi ya miaka miwili"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kutojiweza kabisa—kuangamizwa bila msaidizi",
+        "Ufufuo kuingia paradiso",
+        "Kuwa nabii wa Mwenyezi Mungu",
+        "Uongozi wa taifa kubwa",
+        "Adhabu ya milele katika moto"
+      ],
+      "answer": "Kutojiweza kabisa—kuangamizwa bila msaidizi"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

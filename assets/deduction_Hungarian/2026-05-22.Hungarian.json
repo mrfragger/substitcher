@@ -1,0 +1,61 @@
+{
+  "title": "Az álmodozó felemelkedése",
+  "intro": "Egy nagyságra hivatott, mégis súlyos megpróbáltatások által próbára tett lélek rendkívüli útra indult. Útját féltékenység, elválás és igazságtalan szenvedés jellemezte, hogy végül hatalmas felelősséggel és mély viszontlátással járó pozícióban csúcsosodjon ki. Felismered ezt a figyelemre méltó alakot a Koránból?",
+  "clues": [
+    "Egykor irigyeltek a hozzám legközelebb állók, ami mély elszakadáshoz vezetett a szüleimtől és az otthontól.",
+    "Nagyon nehéz időszakot éltem át, beleértve azt is, hogy az utazók szerény áron adták el nekem.",
+    "Igaztalanul vádoltak rosszat tenni, és éveket töltöttem fogságban, de a hitem rendíthetetlen maradt.",
+    "Egyedülálló képességet kaptam az összetett látomások értelmezésére, ami kulcsfontosságúnak bizonyult a szabadsághoz vezető utam során.",
+    "Bölcsességem és feddhetetlenségem végül nagy tekintéllyel és bizalommal járó pozícióba vezetett egy idegen országban.",
+    "Egy sor eseménynek köszönhetően egy hosszú és fájdalmas távollét után újra találkozhattam idős szüleimmel és testvéreimmel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Szulejmán próféta",
+        "Isa próféta",
+        "Juszuf próféta",
+        "Dawud próféta",
+        "Jahja próféta"
+      ],
+      "answer": "Juszuf próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy nagy hal lenyelése",
+        "Bárkaépítés a teremtés megmentésére",
+        "Hamis vádak és bebörtönzés elviselése",
+        "Csodákkal szembesülni egy zsarnoki uralkodóval",
+        "Súlyos betegséggel és veszteséggel járó próbák"
+      ],
+      "answer": "Hamis vádak és bebörtönzés elviselése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy égő csipkebokor",
+        "Egy beszélő madár",
+        "Egy kút",
+        "Egy személyzet kígyóvá változik",
+        "Egy nőstény teve, mint jel"
+      ],
+      "answer": "Egy kút"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egy ígéret földjére vezető migráció",
+        "Hatalmas miniszterré válni Egyiptomban",
+        "Isteni ítéletet kapnak egy arrogáns nép",
+        "Bölcsességgel és igazságossággal uralkodik egy hatalmas királyságon",
+        "Felemelkedés a mennyekbe"
+      ],
+      "answer": "Hatalmas miniszterré válni Egyiptomban"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

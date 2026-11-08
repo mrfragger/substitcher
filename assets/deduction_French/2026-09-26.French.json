@@ -1,0 +1,61 @@
+{
+  "title": "Le déni au milieu de l'abondance",
+  "intro": "Vous vous retrouvez parmi un peuple dont les marchés bourdonnent d'activité commerciale, mais dont la balance penche de façon malhonnête. Un messager leur apporte des avertissements clairs, mais ils rient et se détournent, confiants dans leur prospérité. Le ciel commence à s'assombrir, mais ils y voient la bénédiction de la pluie. Qui sont ces gens ?",
+  "clues": [
+    "Nous avons prospéré dans des pays de commerce et d'abondance, et pourtant nos cœurs se sont endurcis.",
+    "Un messager est venu à nous avec des signes de notre Seigneur, mais nous nous sommes moqués de ses avertissements.",
+    "Nous étions réputés pour notre commerce, mais nous étions radins et nous trompions le peuple.",
+    "Nous vivions au milieu d'arbres denses et d'une végétation luxuriante, mais nous tenions nos bénédictions pour acquises.",
+    "Quand un nuage sombre approchait, nous nous réjouissions, pensant qu'il apporterait la pluie à nos terres desséchées.",
+    "Au lieu de cela, ce nuage a déchaîné un châtiment brûlant, et nous avons été saisis par le tourment du jour d'ombre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Ashab al-Aykah (Les Compagnons du Bois)",
+        "Peuple de Thamud",
+        "Les gens de 'Ad",
+        "Peuple de Lut",
+        "Le peuple de Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Les Compagnons du Bois)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Ils ont rejeté leur messager et ont commis des fraudes commerciales.",
+        "Ils adoraient un veau d'or et se sont égarés.",
+        "Ils pratiquaient la sodomie et attaquaient les voyageurs",
+        "Ils construisirent de hautes tours et défièrent Dieu.",
+        "Ils ont refusé de partager l'eau et ont blessé une chamelle."
+      ],
+      "answer": "Ils ont rejeté leur messager et ont commis des fraudes commerciales."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une forêt dense ou un fourré",
+        "Une montagne creusée d'habitations",
+        "Une ville au bord de la mer",
+        "Une vallée désertique avec des puits",
+        "Un jardin fertile aux nombreux fruits"
+      ],
+      "answer": "Une forêt dense ou un fourré"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Détruit par un nuage d'ombre et de feu",
+        "Noyés par une grande inondation",
+        "Englouti par un tremblement de terre",
+        "Frappé par un vent violent",
+        "Transformé en pierre"
+      ],
+      "answer": "Détruit par un nuage d'ombre et de feu"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

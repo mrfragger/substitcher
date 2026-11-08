@@ -1,0 +1,61 @@
+{
+  "title": "Abafuni Benyaniso Abangalaliyo",
+  "intro": "Khawucinge ngexesha apho inkolelo yayichaswa, kwaye iqela lemiphefumlo lakhetha ukuqiniseka okungenakugungqiswa kunokukhululeka kwehlabathi. Bejongene nokukhetha okunzima, bafuna indawo yokusabela, baqalisa uhambo olwakhokelela ebuthongweni obungaqhelekanga. Ibali labo lingqina lokukhuselwa nguThixo kunye namandla okholo nxamnye nokucinezelwa. Ngaba ungazibona ezi zinto zibalulekileyo?",
+  "clues": [
+    "Sasiyindibano encinci, sidityaniswe lukholo olunzulu kuMdali omnye.",
+    "Sasiphila kwixesha apho umlawuli onamandla wayefuna ukunqulwa komnye umntu ngaphandle kuka-Allah.",
+    "Ukuze silondoloze ukholo lwethu, sagqiba ekubeni sishiye amakhaya ethu size sibaleke ingcinezelo.",
+    "Iqabane elithembekileyo, isidalwa sasemhlabeni, lasipheleka kolu hambo lwethu.",
+    "Sifumene indawo yokusabela kwindawo efihlakeleyo, apho uAllah wasibangela ukuba silale ubuthongo obunzulu, obude.",
+    "Xa sivuka, sasikholelwa ukuba kudlule usuku okanye inxalenye yosuku, kodwa iinkulungwane zazidlule ngokwenene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseMgxobhozweni",
+        "Abantu baseThamud",
+        "Abantu baseSaba",
+        "Abantu Bomqolomba",
+        "Abantu baseMadyan"
+      ],
+      "answer": "Abantu Bomqolomba"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuvavanywa ngomhlaba ongenanto",
+        "Ukujongana nomkhukula omkhulu",
+        "Ukufuna indawo yokusabela kumlawuli okhohlakeleyo",
+        "Ukuphoswa emlilweni ovuthayo",
+        "Ukuchasa umlingo womthakathi"
+      ],
+      "answer": "Ukufuna indawo yokusabela kumlawuli okhohlakeleyo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ibhotwe elikhulu",
+        "Inqanawa/inqanawa",
+        "Umthombo onzulu",
+        "Umqolomba",
+        "Intaba ende"
+      ],
+      "answer": "Umqolomba"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukunikwa ubukumkani",
+        "Ubuthongo obumangalisayo kangangeenkulungwane",
+        "Ukuginywa ngumhlaba",
+        "Ukusindiswa kwisaqhwithi esitshabalalisayo",
+        "Ukunikwa itafile yasezulwini"
+      ],
+      "answer": "Ubuthongo obumangalisayo kangangeenkulungwane"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

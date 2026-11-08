@@ -1,0 +1,61 @@
+{
+  "title": "Bopelotelele jwa Moya o o Bogisiwang",
+  "intro": "Mo dibukeng tsa hisitori, go na le motho mongwe yo leina la gagwe le kayang boitshoko. Motho yono o ne a lekwa ka go latlhegelwa ke kgomotso nngwe le nngwe ya lefatshe, mme lefa go ntse jalo o ne a nna motlhanka yo o ineetseng wa Mmopi. Mo dingwageng tsa mathata le bolwetse jwa mmele, pelo ya moya ono e ne ya nna e tlhomame mo tumelong, e naya botlhe ba ba lebaneng le mathata lesedi la tsholofelo.",
+  "clues": [
+    "Ke ne ke le motlhanka yo o ineetseng wa ga Allah, ke segofaditswe ka khumo e ntsi, bana ba le bantsi le botsogo jo bo molemo thata.",
+    "Botshelo jwa me bo ne jwa fetoga fa ke ne ke amogiwa dikhumo tsa me le lelapa la gaetsho, mme ka sala ke se na sepe fa e se tumelo ya me fela.",
+    "Ke ne ke tshwerwe ke bolwetse jo bo neng bo tsaya lobaka lo loleele e bile bo le botlhoko jo bo neng jwa leka tota selekanyo sa boitshoko jwa motho.",
+    "Mo pogong yotlhe ya me, ke ne ka gana go ngongorega kgatlhanong le Morena wa me, le fa mmaba a ne a leka go nkisa kwa go itlhobogeng.",
+    "Fa kgabagare ke ne ke bitsa Morena wa me, ga ke a ka ka kopa khumo, mme ke ne ka dumela fela gore tlalelo e ne e nkamile.",
+    "Ke ne ka bolelelwa gore ke iteye lefatshe ka lonao, mme mo go lone ga tswa motswedi wa metsi a a tsidifetseng go fodisa mmele wa me le go timola lenyora la me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Yaqub",
+        "Moporofeti Ayyub",
+        "Moporofeti Sakariya",
+        "Moporofeti Yahya",
+        "Moporofeti Shu'ayb"
+      ],
+      "answer": "Moporofeti Ayyub"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Dingwaga tsa go lwala thata le go latlhegelwa",
+        "Go latlhelwa mo sedibeng se se boteng",
+        "Go mediwa ke tlhapi e kgolo",
+        "Go lebana le mogateledi mo molelong",
+        "Loeto lo loleele lwa go batla morutabana"
+      ],
+      "answer": "Dingwaga tsa go lwala thata le go latlhegelwa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Lore lo lo neng lwa kgaoganya lewatle",
+        "Hempe e e neng e nkga gae",
+        "Motswedi wa metsi a a fodisang",
+        "Thaba e e neng ya thubega go nna lerole",
+        "Logaga lwa boroko jo bo tseneletseng"
+      ],
+      "answer": "Motswedi wa metsi a a fodisang"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go nna mmusi wa lefatshe le legolo",
+        "Go etelela mophato pele go ya phenyong",
+        "Go tsosolosa boitekanelo le lelapa",
+        "Go aga ntlo e e boitshepo ya kobamelo",
+        "Go amogela tafole e e anamisitsweng go tswa kwa legodimong"
+      ],
+      "answer": "Go tsosolosa boitekanelo le lelapa"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

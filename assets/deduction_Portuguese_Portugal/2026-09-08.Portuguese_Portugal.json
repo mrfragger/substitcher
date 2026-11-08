@@ -1,0 +1,61 @@
+{
+  "title": "O Julgamento da Chama Sagrada",
+  "intro": "Em uma terra ancestral onde a devoção à pedra esculpida estava enraizada em todos os lares, um indivíduo se destacou. Com convicção inabalável e proteção divina, ele enfrentou o que deveria ter sido morte certa — e saiu ileso. Você consegue descobrir a identidade dessa alma extraordinária?",
+  "clues": [
+    "Fui criado entre pessoas que se curvavam diante de ídolos que haviam esculpido com as próprias mãos, acreditando que esses objetos possuíam poder divino.",
+    "Quando questionei suas crenças, eles me rejeitaram a princípio, mas eu não podia permanecer em silêncio diante da verdade que eu conhecia.",
+    "Num dia em que estavam reunidos, destruí os seus ídolos, deixando intacto apenas o maior deles.",
+    "Quando eles voltaram e viram o que eu tinha feito, seus líderes ordenaram que uma grande pira fosse construída, com a intenção de me lançar nas chamas.",
+    "Eles me atiraram no fogo ardente, mas o Senhor dos mundos ordenou que ele se acalmasse e se tornasse seguro para mim.",
+    "Saí das chamas completamente ileso, enquanto aqueles que conspiraram contra mim enfrentaram a ruína total."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Noé",
+        "Profeta Isa",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Ibrahim"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Ser lançado em um fogo ardente",
+        "Ser engolido por uma grande baleia",
+        "Sobreviver a uma grande inundação",
+        "Ser jogado em um poço profundo",
+        "Confrontando os magos de um rei"
+      ],
+      "answer": "Ser lançado em um fogo ardente"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma enorme pira de madeira em chamas",
+        "Uma grande arca de madeira",
+        "Uma estátua de bezerro de ouro",
+        "Uma cesta flutuante em um rio",
+        "Um trono magnífico"
+      ],
+      "answer": "Uma enorme pira de madeira em chamas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Alá tornou o fogo frio e seguro.",
+        "A arca pousou em segurança em uma montanha.",
+        "O ídolo de ouro derreteu diante de seus olhos.",
+        "Um tirano e seu exército se afogaram no mar.",
+        "A visão de um homem cego foi restaurada."
+      ],
+      "answer": "Alá tornou o fogo frio e seguro."
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Die Wächter des Gartens",
+  "intro": "In einem üppigen Garten leistete eine Gemeinschaft ein feierliches Gelübde. Doch ihr Entschluss wurde auf die Probe gestellt, als göttlicher Wille eingriff und ihren Reichtum in ein karges Land verwandelte.",
+  "clues": [
+    "Wir waren mit einem üppigen Garten gesegnet, aber wir wurden arrogant.",
+    "Wir haben einen Plan gemacht, um zu ernten, ohne mit den Armen zu teilen.",
+    "Wir brachen früh am Morgen auf, voller Zuversicht in unseren Plan.",
+    "Doch als wir ankamen, mussten wir feststellen, dass unser Garten über Nacht verwüstet worden war.",
+    "Wir erkannten unseren Fehler und begannen, uns gegenseitig die Schuld zuzuschieben.",
+    "Wir bereuten schließlich, aber die Lektion wurde zu spät gelernt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Menschen des Gartens",
+        "Höhlenmenschen",
+        "Menschen des Elefanten",
+        "Volk der Thamud",
+        "Leute von 'Ad"
+      ],
+      "answer": "Menschen des Gartens"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Ein Garten, der zu Asche wurde",
+        "Eine Flut, die alles zerstörte",
+        "Eine Hungersnot, die das Land heimsuchte",
+        "Eine Armee von Vögeln greift an",
+        "Ein heftiger Wind, der Bäume entwurzelte"
+      ],
+      "answer": "Ein Garten, der zu Asche wurde"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Garten",
+        "Eine Höhle",
+        "Ein Schiff",
+        "Ein Berg",
+        "Ein Palast"
+      ],
+      "answer": "Ein Garten"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie bereuten, verloren aber ihren Garten.",
+        "Sie wurden vollständig zerstört",
+        "Sie wurden in Affen verwandelt.",
+        "Sie wurden durch den Glauben gerettet",
+        "Sie wurden Herrscher."
+      ],
+      "answer": "Sie bereuten, verloren aber ihren Garten."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

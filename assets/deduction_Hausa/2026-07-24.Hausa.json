@@ -1,0 +1,61 @@
+{
+  "title": "Mai makircin da aka lulluɓe",
+  "intro": "Ka sami kanka a gaban wani mutum mai ƙarfi tun zamanin wahayi. An san wannan mutum da hankali, dukiyarsa, da matsayinsa a tsakanin mutanensa. Lokacin da alamu suka bayyana, sun gane kyawun amma sun zaɓi rashin biyayya fiye da biyayya. Me ya sa wannan rai ya yi makirci a cikin duhu, kuma menene makomarsu ta ƙarshe?",
+  "clues": [
+    "An albarkace ni da albarkatu da tasiri mai yawa, wanda hakan ya sa maganar da nake yi ta yi ƙarfi a cikin majalisu.",
+    "Lokacin da aka karanta kalmomin allahntaka, ban iya musanta maganarsu ba, amma girman kai na bai bar ni in miƙa wuya ba.",
+    "Na tattara masu ba ni shawara, na ware kaina don yin tunanin yadda zan ɓata wa saƙon suna.",
+    "Bayan na yi tunani sosai, sai na ayyana cewa ba komai ba ne illa 'sihiri da aka samu daga baya' don in juya wa mutane baya.",
+    "Sai wahayin ya yi mini magana kai tsaye: 'Ka bar ni da wanda na halitta ni kaɗai.' An ware ni saboda makircina.",
+    "Ba da daɗewa ba, wutar da aka yi mini gargaɗi za ta kama ni da goshi, kuma ba zan sami mafaka ba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah bin Abi Mu'ayt",
+        "Al-Nadr bin al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "An yi niyyar kashe Annabi",
+        "Ya jagoranci kauracewa Musulunci",
+        "Taro kan majalisa domin sanya Alqur'ani a matsayin sihiri",
+        "An shirya makircin korar Annabi daga Makkah",
+        "Ya ƙi raba dukiyarsa da marayu"
+      ],
+      "answer": "Taro kan majalisa domin sanya Alqur'ani a matsayin sihiri"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ru'ya ta Yohanna",
+        "Majalisar",
+        "Maƙogwaro",
+        "Arziki",
+        "Alƙalami"
+      ],
+      "answer": "Maƙogwaro"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya tuba ya rungumi Musulunci",
+        "Ya yi hijira zuwa Habasha",
+        "Wata cuta mai kisa ta kama shi",
+        "Ya mutu a yaƙin da aka yi da Musulmai",
+        "An yanke masa hukuncin shiga Wutar Jahannama"
+      ],
+      "answer": "An yanke masa hukuncin shiga Wutar Jahannama"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

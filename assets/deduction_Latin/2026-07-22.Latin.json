@@ -1,0 +1,61 @@
+{
+  "title": "Ex Profundis Putei",
+  "intro": "Iter animae iuvenis coepit visione potenti corporum caelestium in reverentiam se inclinantium. Vita huius hominis insignita est proditione gravissima a proximis, deinde annis servitutis et iniustae carceris. Attamen per fidem inconcussam et divinam gubernationem, hic homo e infimo puteo ascendit ut unus ex potentissimis hominibus in magno imperio fieret. Potesne identitatem huius insignis servi Dei detegere?",
+  "clues": [
+    "Visio mihi ostensa est undecim stellarum, solis et lunae prostrantium ante me",
+    "Filius carissimus parentis mei eram, quod invidiam inter fratres meos excitavit.",
+    "A fratribus meis comprehensus, veste exutus, et in puteum profundum et obscurum coniectus sum",
+    "In foro tamquam merx venditus et longe a patria mea abductus sum",
+    "Mulier potens honorem meum in discrimen adducere conata est, et in carcerem coniectus sum quod eius congressus recusavi.",
+    "Dono interpretationis somniorum benedictus sum, et ex captivo oblito ad summum ministrum Aegypti ascendi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Iosue",
+        "Propheta Musa",
+        "Propheta Dawud",
+        "Propheta Ayyub",
+        "Propheta Sulayman"
+      ],
+      "answer": "Propheta Iosue"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "A fratribus suis in puteum profundum coniectus",
+        "Superstes diluvii magni totius mundi",
+        "In fornacem ardentem coniectus",
+        "Pugnans contra bellatorem gigantem in acie",
+        "Ab magno pisce deglutitus"
+      ],
+      "answer": "A fratribus suis in puteum profundum coniectus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Puteus profundus et siccus in deserto",
+        "Arca lignea magna in vertice montis",
+        "Baculus qui in serpentem transformatus est",
+        "Thronus magnificus magni splendoris",
+        "Funda et quinque lapides leves"
+      ],
+      "answer": "Puteus profundus et siccus in deserto"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ad summum ministrum Aegypti ascendit et cum dilectissima familia iterum coniunctus est",
+        "Navem magnam aedificavit et homines ad fidem vocavit",
+        "Totam gentem e servitute Aegypti eduxit",
+        "Regnum et dominium super invisibile concessum est",
+        "Patientia per gravem morbum data et sanatus est"
+      ],
+      "answer": "Ad summum ministrum Aegypti ascendit et cum dilectissima familia iterum coniunctus est"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

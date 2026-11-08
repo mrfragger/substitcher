@@ -1,0 +1,61 @@
+{
+  "title": "Vigilia Luggentium",
+  "intro": "Animam mox offendes, quae altissima separatione probata est, cuius oculi linguam lacrimarum noverant, cuius tamen cor numquam spem amisit. In historia deceptionis, desiderii, et tandem reunionis, hic nobilis servus Dei factus est symbolum patientiae in perpetuum. Quis annos doloris occulti pertulit, solum ut visus et gaudium uno momento restituerentur?",
+  "clues": [
+    "Propheta sum cuius nomen symbolum patientiae in magna iactura factum est.",
+    "Multis filiis beata sum, sed unus mihi aliorum invidia sublatus est.",
+    "Amor meus erga illum amissum tantus erat ut oculi mei prae dolore canescerent, attamen numquam nisi ad Deum questus sum.",
+    "Filios meos remisi ut eum quem amiseram et fratrem eius quaererent, hortans eos ne spem amitterent.",
+    "Cum nuntius laetus advenisset, tunica faciem meam texit, et subito mundus iterum clarus factus est.",
+    "Israel notus sum, et ex duodecim filiis meis duodecim tribus gentis magnae ortae sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ya'qub (Iacob)",
+        "Propheta Yusuf (Iosephus)",
+        "Propheta Isaac (Isaac)",
+        "Propheta Ibrahim (Abraham)",
+        "Propheta Ayyub (Iob)"
+      ],
+      "answer": "Propheta Ya'qub (Iacob)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Separatio a filio dilecto per multos annos",
+        "In ignem ardentem coniectus",
+        "A magno pisce deglutitus",
+        "Gravi morbo cutis afflictus",
+        "Sine liberis usque ad senectutem esse"
+      ],
+      "answer": "Separatio a filio dilecto per multos annos"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Tunica Yusufi",
+        "Baculus Musae",
+        "Arca Noë",
+        "Camella Salih",
+        "Anulus Sulaymani"
+      ],
+      "answer": "Tunica Yusufi"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Visus restitutus et cum filio suo iterum coniunctus",
+        "Victoria de rege tyranno concessa",
+        "Ad caelum vivus evectus",
+        "Praefectus Aegypti constitutus",
+        "Filium in senectute miraculo dato"
+      ],
+      "answer": "Visus restitutus et cum filio suo iterum coniunctus"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

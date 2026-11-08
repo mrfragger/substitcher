@@ -1,0 +1,61 @@
+{
+  "title": "Déi éierlech Stëmm vun der Antikitéit",
+  "intro": "Et gëtt eng Séil am Koran, där hir Geschicht nëmmen a puer Verse erzielt gëtt, awer hir nobel Qualitéite blénken mat brillanter Kloerheet duerch. Vum Allmächtege fir eng speziell Tugend gelueft, huet dësen ale Knecht vum Barmhäerzegsten eng Plaz an de Säite vun der Offenbarung. Är Aufgab ass et, dës bemierkenswäert Figur z'identifizéieren. Kënnt Dir roden, wien si sinn?",
+  "clues": [
+    "Ech sinn e Prophet vun Allah, deen ënner den éischte Generatioune vun der Mënschheet gelieft huet.",
+    "Allah huet mech a sengem Buch zesumme mat anere Prophéiten ernimmt, all gelueft fir déiselwecht nobel Tugend.",
+    "Ech ginn am Koran als e Mann vun der Wourecht beschriwwen.",
+    "Allah huet mech op eng héich Plaz erhuewen, déi wéineg aner erreecht hunn.",
+    "Mäin Numm gëtt an der Surah Al-Anbiya ernimmt, zesumme mat zwee anere Prophéiten, déi fir hir Gedold gelueft ginn.",
+    "Ech sinn den Idris, den wouerhaften an erhiewten Prophet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Idris",
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Ismail"
+      ],
+      "answer": "Prophet Idris"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Gedold an Éierlechkeet behalen, dann op eng héich Plaz erhuewen",
+        "Eng grouss Ark bauen, fir d'Gleeweg virun enger verheerender Iwwerschwemmung ze retten",
+        "An e flammend Feier gehäit ginn a komplett onverletzt erauskommen",
+        "E mächtege Kinnek konfrontéieren a seng Arméi vu Magier besiegen",
+        "Iwwerliewen am Bauch vun engem grousse Fësch an den Déiften vum Mier"
+      ],
+      "answer": "Gedold an Éierlechkeet behalen, dann op eng héich Plaz erhuewen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng héich an erhuewe Positioun vun Allah",
+        "E massivt Schëff, dat aus Planken gebaut a mat Teer bedeckt war",
+        "E rasende Feier, ugestach vun den Ofgottdénger vun engem béise Kinnek",
+        "E grousst Mier, dat sech a dréche Weeër opgedeelt huet",
+        "Den donkelen Bauch vun engem grousse Wal um Buedem vum Ozean"
+      ],
+      "answer": "Eng héich an erhuewe Positioun vun Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Als ee vun de Gerechten an d'Barmhäerzegkeet vum Allah zougelooss",
+        "Gerett zesumme mat all de Gleewegen aus enger weltwäiter Iwwerschwemmung",
+        "Aus de Flamen erausgaang, onberéiert vum Feier",
+        "Huet d'Kanner vun Israel sécher iwwer d'Mier an d'Fräiheet gefouert",
+        "No laange Jore vu Schwieregkeeten erëm mat hirer beléifter Famill vereenegt"
+      ],
+      "answer": "Als ee vun de Gerechten an d'Barmhäerzegkeet vum Allah zougelooss"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

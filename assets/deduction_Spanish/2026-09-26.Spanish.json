@@ -1,0 +1,61 @@
+{
+  "title": "La negación en medio de la abundancia",
+  "intro": "Te encuentras entre un pueblo cuyos mercados bullen de actividad comercial, pero cuyas balanzas se inclinan deshonestamente. Un mensajero ha llegado con claras advertencias, pero ellos ríen y se alejan, confiados en su prosperidad. El cielo comienza a oscurecerse, pero lo interpretan como una bendición de la lluvia. ¿Quiénes son estas personas?",
+  "clues": [
+    "Prosperamos en tierras de comercio y abundancia, pero nuestros corazones se volvieron insensibles.",
+    "Nos llegó un mensajero con señales de nuestro Señor, pero nos burlamos de sus advertencias.",
+    "Éramos conocidos por nuestro comercio, pero dábamos medidas desproporcionadas y engañábamos a la gente.",
+    "Vivíamos rodeados de árboles frondosos y vegetación exuberante, pero dábamos por sentadas nuestras bendiciones.",
+    "Cuando se acercaba una nube oscura, nos alegrábamos, pensando que traería lluvia a nuestras tierras reseca.",
+    "En cambio, aquella nube desató un castigo abrasador, y fuimos presa del tormento del día de las sombras."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Ashab al-Aykah (Los Compañeros del Bosque)",
+        "Gente de Thamud",
+        "Gente de 'Anuncio'",
+        "Pueblo de Lut",
+        "Pueblo de Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Los Compañeros del Bosque)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Rechazaron a su mensajero y estafaron en el comercio.",
+        "Adoraron un becerro de oro y fueron engañados.",
+        "Practicaban la sodomía y atacaban a los viajeros.",
+        "Construyeron altas torres y desafiaron a Dios.",
+        "Se negaron a compartir el agua y lastimaron a una camella."
+      ],
+      "answer": "Rechazaron a su mensajero y estafaron en el comercio."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un bosque denso o matorral",
+        "Una montaña esculpida en viviendas",
+        "Una ciudad junto al mar",
+        "Un valle desértico con pozos",
+        "Un jardín fértil con muchas frutas."
+      ],
+      "answer": "Un bosque denso o matorral"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruido por una nube de fuego sombría",
+        "Ahogados por una gran inundación",
+        "Engullido por un terremoto",
+        "Azotado por un viento violento",
+        "Convertido en piedra"
+      ],
+      "answer": "Destruido por una nube de fuego sombría"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'étreinte de la Terre",
+  "intro": "En une période de grandes épreuves, un personnage illustre reçut une immense richesse matérielle, une épreuve de gratitude et d'humilité. Son parcours nous enseigne profondément la nature éphémère des biens matériels et les conséquences de l'arrogance. Découvrez l'identité de cette âme dont l'histoire est gravée dans la terre même qui nous entoure.",
+  "clues": [
+    "J'ai vécu au milieu d'un peuple guidé par un grand messager.",
+    "Allah m'a comblé de richesses si immenses que les clés mêmes de mes trésors représentaient un lourd fardeau pour beaucoup d'individus forts.",
+    "Mon peuple, connaissant ma richesse, m'a conseillé de rechercher la demeure de l'au-delà avec ce qu'Allah m'avait donné, de ne pas oublier ma part de ce monde et de faire le bien comme Allah m'avait fait du bien.",
+    "J'ai déclaré avec arrogance que mon immense richesse était le fruit uniquement de mon savoir et de mes efforts, niant toute faveur divine.",
+    "Lorsqu'on m'a demandé de contribuer ou de reconnaître la générosité d'Allah, j'ai fièrement refusé, croyant que mes biens m'appartenaient exclusivement.",
+    "En raison de mon extrême arrogance et de mon oppression, Allah a ordonné à la terre de s'ouvrir et de m'engloutir, moi et ma demeure."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Feu",
+        "Iblis",
+        "Haman",
+        "Abou Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Être jeté dans le feu",
+        "Se noyer dans la mer",
+        "Être exilé d'un jardin",
+        "Se transformer en singe",
+        "Être englouti par la terre"
+      ],
+      "answer": "Être englouti par la terre"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un veau doré",
+        "Une arche puissante",
+        "Un oiseau qui parle",
+        "Un personnel miraculeux",
+        "Des trésors immenses et des clés"
+      ],
+      "answer": "Des trésors immenses et des clés"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Devenir un grand souverain",
+        "Recevoir la révélation divine",
+        "L'ascension vers les cieux",
+        "Vivre une longue vie de piété",
+        "Destruction totale due à l'arrogance"
+      ],
+      "answer": "Destruction totale due à l'arrogance"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

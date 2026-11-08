@@ -1,0 +1,61 @@
+{
+  "title": "Mgonjwa",
+  "intro": "Zamani sana, katika siku za mwanzo kabisa za historia ya mwanadamu, roho mbili zilisimama mbele ya Muumba wao zikiwa na sadaka. Moja ilikubaliwa, nyingine haikukubaliwa. Kilichofuata kingekuwa msiba mkubwa wa kwanza kati ya ndugu - kitendo kimoja cha kujizuia kwa uvumilivu na kitendo kimoja cha kulipiza kisasi kichungu. Je, unaweza kunifunua mimi ni nani?",
+  "clues": [
+    "Nilizaliwa katika siku za kwanza kabisa za kuwepo kwa mwanadamu duniani",
+    "Nilikuwa mtoto wa jozi ya kwanza kabisa ya wanadamu kuishi hapa duniani",
+    "Niliwahi kutoa dhabihu kutoka kwa kundi langu bora ili kumpendeza Muumba wangu",
+    "Sadaka yangu ilikubaliwa kutoka juu, huku sadaka ya ndugu yangu ikikataliwa",
+    "Nilipotishiwa kifo, nilichagua kutoinua mkono wangu dhidi ya ndugu yangu",
+    "Nikawa mtu wa kwanza katika historia yote ya wanadamu kuuawa kimakosa na mtu mwingine"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Habili (Abeli), mwana wa Adamu",
+        "Qabil (Kaini), mwana wa Adamu",
+        "Adamu, mwanadamu wa kwanza",
+        "Nuhu (Nuhu)",
+        "Ibrahimu (Ibrahimu)"
+      ],
+      "answer": "Habili (Abeli), mwana wa Adamu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mauaji ya kwanza katika historia ya binadamu",
+        "Mafuriko makubwa ya Nuh",
+        "Kuangamizwa kwa jeshi la Firauni",
+        "Kafara ya Ismail na Ibrahim",
+        "Vita dhidi ya Jalut (Goliathi)"
+      ],
+      "answer": "Mauaji ya kwanza katika historia ya binadamu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kondoo aliyetolewa kama dhabihu ya kupendeza",
+        "Sanduku kubwa la mbao",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ndege aina ya hudihudi akiwa amebeba ujumbe wa kifalme",
+        "Mfereji wa moto unaowaka"
+      ],
+      "answer": "Kondoo aliyetolewa kama dhabihu ya kupendeza"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa mwathirika wa kwanza wa mauaji katika historia ya binadamu",
+        "Nilinusurika mafuriko makubwa ndani ya chombo cha mbao",
+        "Aliishi ndani ya tumbo la samaki mkubwa",
+        "Alitawala majini, wanadamu, na upepo",
+        "Alitangatanga kwa miaka arobaini katika jangwa kubwa"
+      ],
+      "answer": "Akawa mwathirika wa kwanza wa mauaji katika historia ya binadamu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

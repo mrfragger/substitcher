@@ -1,0 +1,61 @@
+{
+  "title": "Invidia care a consumat",
+  "intro": "O poveste mai veche decât orice regat sau scriptură - prima tragedie umană născută din gelozie. Un suflet, cel mai mare dintre doi copii născuți de primii părinți, a privit cu furie cum un frate mai mic a primit o favoare refuzată. Ceea ce a urmat a fost cea mai întunecată alegere, lăsând în urmă primul sânge vărsat vreodată pe pământ. Poți descoperi identitatea, încercarea și regretul amar?",
+  "clues": [
+    "M-am născut din prima pereche de oameni care au umblat pe pământ.",
+    "Am făcut odată o ofrandă lui Allah, dar nu a fost acceptată de la mine.",
+    "Oferta fratelui meu a fost acceptată, în timp ce a mea a fost respinsă — lucru pe care nu l-am putut suporta.",
+    "Mi-am amenințat propriul frate cu distrugerea.",
+    "Am devenit primul care a comis o crimă pe acest pământ, luându-mi viața propriului frate.",
+    "Allah a trimis o creatură a pământului – o pasăre neagră care sapă în pământ – ca să mă învețe cum să ascund ceea ce făcusem, și nu am rămas decât cu regret."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Profetul Yaqub",
+        "Profetul Musa",
+        "Profetul Adam"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ofertă respinsă de Allah",
+        "Aruncat într-un foc mare",
+        "Abandonat ca bebeluș într-un râu",
+        "Testat cu un regat imens",
+        "Poruncit să-și sacrifice fiul"
+      ],
+      "answer": "Ofertă respinsă de Allah"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Corbul trimis de Allah",
+        "Vițelul de aur",
+        "Arca pe munte",
+        "Rugul aprins",
+        "Cămila sculptată în stâncă"
+      ],
+      "answer": "Corbul trimis de Allah"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A devenit cuprins de regret și printre cei învinși",
+        "Înghițit în pământ împreună cu comorile",
+        "A devenit un nobil mesager al lui Allah",
+        "A intrat în Paradis prin mila divină",
+        "A condus un regat de neegalat"
+      ],
+      "answer": "A devenit cuprins de regret și printre cei învinși"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

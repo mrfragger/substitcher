@@ -1,0 +1,61 @@
+{
+  "title": "An Lasair a Nochtadh Oidhreacht",
+  "intro": "I stair na frithsheasmhachta, seasann figiúr a raibh a ainm féin ina rabhadh go dtí deireadh an ama. Roghnaigh an duine seo naimhdeas thar ghaol, dúshlán thar géilleadh, agus sheas sé i gcoinne glao trócaire. Éist go cúramach le macallaí forógra ársa agus muid ag nochtadh céannacht an anama cháiliúil seo.",
+  "clues": [
+    "Rugadh mé sa chlann chéanna leis an teachtaire deireanach de chuid Allah, ach sheas mé ina gcoinne i ngach cás.",
+    "Bhí brí le m'ainm—ainm a chiallaíonn 'athair lasrach', ainm a réamhfhógródh mo chinniúint shíoraí.",
+    "Scaoil mé dochar i gcoinne iompróir na fírinne, agus chuaigh fiú mo theaghlach féin isteach sa fheachtas cruálacht seo.",
+    "D'úsáid mé mo shaibhreas agus mo thionchar chun an glao chuig Allah a thostú, agus mé den tuairim go bhféadfadh airgead solas diaga a mhúchadh.",
+    "Thiomnaigh Allah caibidil iomlán dom—caibidil chomh gearr sin gur féidir í a aithris i soicindí, ach fanann a meáchan go dtí Lá an Bhreithiúnais.",
+    "Siúlann mo chompánach san eile i mo dhiaidh, ceangailte le rópa snáithíneach timpeall an mhuiníl, agus na dealga céanna a bhíodh siad ag scaipeadh á iompar aige."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ag Sainmhíniú Aghaidh",
+      "options": [
+        "Ag ceannaireacht an fhreasúra i gcoinne an Fháidh i Mecca",
+        "Imirce go dtí an Aibéisin chun éalú ó ghéarleanúint",
+        "Ag tógáil an Kaaba leis an bhFáidh Ibrahim",
+        "Glacadh leis an Ioslam ar leaba an bháis",
+        "Conradh Hudaybiyyah a Chruthú"
+      ],
+      "answer": "Ag ceannaireacht an fhreasúra i gcoinne an Fháidh i Mecca"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Bean chéile a d’iompair dealga agus connadh",
+        "Sloinne a d’athraigh ina nathair",
+        "Fáinne a bhfuil séala Sholaimh air",
+        "Lao órga a adhradh ag na daoine",
+        "Tobar a raibh uisce ag teacht amach as"
+      ],
+      "answer": "Bean chéile a d’iompair dealga agus connadh"
+    },
+    "outcome": {
+      "label": "Áireamh Deiridh",
+      "options": [
+        "Nochtadh surah iomlán ag dearbhú scriosta iomláine",
+        "Rinneadh ceannaire ar phobal na Moslamach de",
+        "Fuair ​​maithiúnas ag nóiméad an bháis",
+        "Tógadh mosc mór i Medina",
+        "Aiséirí i measc na bhfíréan"
+      ],
+      "answer": "Nochtadh surah iomlán ag dearbhú scriosta iomláine"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

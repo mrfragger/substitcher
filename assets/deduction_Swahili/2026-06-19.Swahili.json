@@ -1,0 +1,61 @@
+{
+  "title": "Jaribio la Nafsi Inayoendelea",
+  "intro": "Nafsi inasimama wakati wa majaribio ya kimungu, ikitafuta mwongozo kwa unyenyekevu na uvumilivu. Yeye ajuaye yote anamkataa mtafutaji huyu, na baadaye kufichua kwamba hii ilikuwa jaribio la moyo. Kupitia mazungumzo haya ya ajabu, somo kuhusu hekima ya kimungu linafunuliwa mbele ya wale wanaotafakari. Je, unaweza kutambua mtu huyu kutoka kwa simulizi ya Quran?",
+  "clues": [
+    "Nilitafuta elimu na mwongozo kutoka kwa mjumbe mpendwa wa Mwenyezi Mungu",
+    "Nilikuja kutafuta ukweli, nikimwita Mtume kwa hamu kubwa",
+    "Nilikemewa na kugeuzwa, kwani hekima ya Mwenyezi Mungu ilikuwa na mipango mingine kwa wakati huo.",
+    "Lakini sikukata tamaa—badala yake, nilisonga mbele katika kutafuta kwangu",
+    "Yule anayejua yote alitangaza kwamba hili lilikuwa jaribio la moyo na onyo.",
+    "Nilikuwa miongoni mwa wale ambao Quran inafunua kuwahusu: 'Alikunja uso na kugeuka, kwa sababu kipofu alimjia'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mnafiki Anayetafuta Shaka",
+        "Mtafuta Ukweli Kipofu",
+        "Mwabudu Sanamu wa Makka",
+        "Kafiri Anamdhihaki Mtume",
+        "Msafiri kutoka Yemen"
+      ],
+      "answer": "Mtafuta Ukweli Kipofu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukemewa na Mtume Muhammad wakati wa maombi",
+        "Kujaribiwa kwa ukame na njaa huko Makka",
+        "Kufukuzwa kwenye malango ya paradiso",
+        "Kukataliwa na watu wako mwenyewe kwa ajili ya imani",
+        "Kujaribiwa kwa utajiri na watoto"
+      ],
+      "answer": "Kukemewa na Mtume Muhammad wakati wa maombi"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndani ya Kaaba wakati wa msimu wa Hija",
+        "Mbele ya Mtume wakati wa kusoma",
+        "Juu ya Mlima Safa wakati wa asubuhi",
+        "Katika soko la Makka lililozungukwa na makafiri",
+        "Karibu na kisima cha Zamzam wakati wa Hijja"
+      ],
+      "answer": "Mbele ya Mtume wakati wa kusoma"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mtafutaji aliuawa shahidi na Waquraishi kwa sababu ya imani yake.",
+        "Tukio hilo lilirekodiwa kama jaribio na fundisho kwa Ummah",
+        "Mtafutaji akawa rafiki na kiongozi",
+        "Utajiri wa mtafutaji uliongezeka mara kumi",
+        "Mtafutaji alirudi kwenye kutoamini"
+      ],
+      "answer": "Tukio hilo lilirekodiwa kama jaribio na fundisho kwa Ummah"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ymbiliwr y Cysegr",
+  "intro": "Yn oriau tawel y nos, galwodd enaid ymroddedig ar y Mwyaf Trugarog o fewn muriau sanctaidd lle cysegredig. Roedd blynyddoedd o ffydd a amynedd diysgog ar fin cael eu gwobrwyo â gwyrth a fyddai’n dod â llawenydd ac etifeddiaeth o broffwydoliaeth.",
+  "clues": [
+    "Treuliais fy nyddiau a fy nosweithiau mewn ymroddiad mewn cysegr sanctaidd, gan erfyn yn gyson ar fy Arglwydd.",
+    "Aethum yn hen, ac roedd fy ngwraig yn ddiffrwyth, ond ni chollais obaith erioed yn nhrugaredd Allah.",
+    "Cefais fab, o'r enw Yahya, a ddaeth yn broffwyd ac yn arwydd o gyfiawnder.",
+    "Roeddwn i'n broffwyd fy hun, wedi fy anfon i arwain Plant Israel.",
+    "Roeddwn i'n ddisgynnydd i'r Proffwyd Harun ac yn gwasanaethu fel offeiriad yn y Deml.",
+    "Cefais ymddiried gofal Maryam, mam Isa, a gwelais ei gwyrthiau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "y Proffwyd Zakariyya",
+        "Proffwyd Yahya",
+        "y Proffwyd Ilyas",
+        "Proffwyd Ishaq",
+        "y Proffwyd Ya'qub"
+      ],
+      "answer": "y Proffwyd Zakariyya"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Rhoddodd fab yn ei henaint",
+        "Wedi'i achub rhag tân llachar",
+        "Achubwyd o fol pysgodyn",
+        "Goroesodd lifogydd mawr",
+        "Wedi gwella o salwch difrifol"
+      ],
+      "answer": "Rhoddodd fab yn ei henaint"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y Mihrab (cilfach weddi)",
+        "Y Kaaba",
+        "Y Llwyn Llosgi",
+        "Arch y Cyfamod",
+        "Ogof y Saith Cysgwr"
+      ],
+      "answer": "Y Mihrab (cilfach weddi)"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Rhoddwyd mab cyfiawn iddo a ddaeth yn broffwyd",
+        "Wedi'i ddinistrio gan storm dreisgar",
+        "Boddi yn y môr",
+        "Wedi'i achub rhag cael ei losgi",
+        "Dychwelodd at eu pobl ar ôl cael eu hachub rhag pysgodyn"
+      ],
+      "answer": "Rhoddwyd mab cyfiawn iddo a ddaeth yn broffwyd"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

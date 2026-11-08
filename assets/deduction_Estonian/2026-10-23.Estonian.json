@@ -1,0 +1,61 @@
+{
+  "title": "Missioon iidses linnas",
+  "intro": "Tolmune iidne linn, mille elanikud on juurdunud eitamisse ja viimane hoiatus, mida ei kuulatud. Täna astu nende rolli, kelle Allah on läkitanud kangekaelsele rahvale sõnumit edastama. See on lugu tagasilükkamisest, ainulaadne usu hääl ja laastava otsusega pitseeritud lõpp. Kes nende vihjete kaudu räägib?",
+  "clues": [
+    "Allah saatis meid linna, mille rahvas oli tõest eemale pööranud",
+    "Kaks meist tulid esimesena, seejärel liitus kolmas, et meie missiooni tugevdada",
+    "Linnaelanikud hülgasid meid, öeldes, et me oleme vaid inimesed nagu nemadki",
+    "Üksik hing linna kaugeimast otsast jooksis inimestele ütlema, et nad meile järgneksid",
+    "Me anusime neid, aga nad tegid oma südamed kõvaks ja pöördusid meie vastu",
+    "Ühe hävitava taevase hüüdega vaigistati kogu meie linn"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Linna sõnumitoojad suuras Ya-Sinis",
+        "Hawwariyyun (Isa jüngrid)",
+        "Vaarao õukonna nõiad",
+        "Hingamispäeva kaaslased",
+        "Elevandi rahvas"
+      ],
+      "answer": "Linna sõnumitoojad suuras Ya-Sinis"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Linnaelanikud lükkasid nad tagasi ja nimetasid valetajateks",
+        "Põles elusalt suures lõõmavas tulekahjus",
+        "Suur kala neelas alla sügavas meres",
+        "Sunnitud ehitama kõrguvat sammast",
+        "Piinatud raevuka tulekahju kaevikus"
+      ],
+      "answer": "Linnaelanikud lükkasid nad tagasi ja nimetasid valetajateks"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Iidne linn (al-Qaryah)",
+        "Suur lõõmav ahi",
+        "Suure kala kõht",
+        "Kõrge taevast puudutav sammas",
+        "Püha maja (Kaaba)"
+      ],
+      "answer": "Iidne linn (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Linn hävitati üheainsa laastava hüüdega (Sayha)",
+        "Türann ja tema armee uppusid lahknenud meres",
+        "Inimesed muudeti ahvideks ja ahvideks",
+        "Taevast sadanud kivivihm hävitas linna",
+        "Tugev üleujutus pühkis minema kogu kogukonna"
+      ],
+      "answer": "Linn hävitati üheainsa laastava hüüdega (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

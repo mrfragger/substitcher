@@ -1,0 +1,61 @@
+{
+  "title": "Władca, który domagał się boskości",
+  "intro": "Potężny i arogancki władca uważał, że nikt nie dorównuje jego tronowi. Gonił za uciekającą grupą przez rozległy akwen, by spotkać dramatyczny koniec. Historia tego władcy odbija się echem w wielu fragmentach Koranu, stanowiąc ostrzeżenie dla wszystkich.",
+  "clues": [
+    "Byłem potężnym władcą, który uważał, że na ziemiach, którymi rządziłem, nie ma władzy wyższej ode mnie.",
+    "Miałem zaufanego wezyra o imieniu Haman, który pomagał mi realizować wielkie projekty architektoniczne.",
+    "Wezwałem najlepszych magów mojego kraju, aby zakwestionowali znaki posłańca, który mi się sprzeciwił.",
+    "Nie pozwoliłem odejść ludziom zniewolonym w moim królestwie, pomimo plag i wyraźnych ostrzeżeń.",
+    "Ścigałem ich po rozległym morzu z całą moją armią i rydwanami.",
+    "To samo morze zamknęło się nade mną i moimi siłami, topiąc nas wszystkich, dopóki nie przeprawiliśmy się bezpiecznie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Fir'awn (Faraon)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Dżahl"
+      ],
+      "answer": "Fir'awn (Faraon)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Plagi i konfrontacja z Mojżeszem",
+        "Budowa arki przed wielkim potopem",
+        "Bitwa z Dżalutem w dolinie",
+        "Połknięcie przez wieloryba",
+        "Obrona uczciwych wag handlowych"
+      ],
+      "answer": "Plagi i konfrontacja z Mojżeszem"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wysokie wieże i pale",
+        "Wielka drewniana arka",
+        "Złoty cielec",
+        "Laska, która zamieniła się w węża",
+        "Ogromny wieloryb"
+      ],
+      "answer": "Wysokie wieże i pale"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Utonął w morzu z armią",
+        "Ocaleni przez miłosierdzie Allaha i nagrodzoni cierpliwością",
+        "Po latach trudności znów zjednoczył się z rodziną",
+        "Pochłonięty przez ziemię",
+        "Spalony w ogniu"
+      ],
+      "answer": "Utonął w morzu z armią"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

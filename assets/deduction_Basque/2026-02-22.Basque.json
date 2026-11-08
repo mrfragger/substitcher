@@ -1,0 +1,61 @@
+{
+  "title": "Arima Atsekabetuaren Pazientzia",
+  "intro": "Historiaren analetan, badago erresistentziaren sinonimo den izena duen pertsonaia bat. Pertsona hau munduko erosotasun guztiak galtzearekin probatu zen, baina Sortzailearen zerbitzari leial izaten jarraitu zuen. Urteetako zailtasun eta gaitz fisikoen bidez, arima honen bihotza fedean ainguratuta mantendu zen, zailtasunei aurre egiten dieten guztiei itxaropen-argia eskainiz.",
+  "clues": [
+    "Allahren zerbitzari debotoa nintzen, aberastasun ugariz, seme-alaba askorekin eta osasun bikainaz bedeinkatua.",
+    "Nire bizitzak buelta bat eman zuen nire aberastasunak eta familia kendu zizkidatenean, fedea baino ez ninduenean utziz.",
+    "Giza erresistentziaren mugak proban jarri zituen gaixotasun luze eta mingarri batek jota nengoen.",
+    "Nire sufrimendu osoan, uko egin nion nire Jaunaren aurka kexatzeari, etsaiak etsipenera eramaten saiatu zenean ere.",
+    "Azkenean Jaunari dei egin nionean, ez nuen aberastasunik eskatu, baizik eta aitortu nuen atsekabeak ukitu ninduela.",
+    "Lurra oinarekin jotzeko esan zidaten, eta handik ur freskozko iturburu bat sortu zen nire gorputza sendatzeko eta egarria asetzeko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yaqub profeta",
+        "Ayyub profeta",
+        "Zakariyyah profeta",
+        "Yahya profeta",
+        "Shu'ayb profeta"
+      ],
+      "answer": "Ayyub profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Urteetako gaixotasun larria eta galera",
+        "Putzu sakon batera botata izatea",
+        "Arrain erraldoi batek irentsi izana",
+        "Sute batean tirano bati aurre egitea",
+        "Bidaia luzea irakasle baten bila"
+      ],
+      "answer": "Urteetako gaixotasun larria eta galera"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Itsasoa zatitu zuen langile batek",
+        "Etxeko usaina zuen alkandora bat",
+        "Uraren iturburu sendagarria",
+        "Hauts bihurtu zen mendi bat",
+        "Lo sakoneko kobazulo bat"
+      ],
+      "answer": "Uraren iturburu sendagarria"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurralde handi bateko gobernadore bihurtzea",
+        "Armada bat garaipenera eramatea",
+        "Osasuna eta familiaren berreskurapena",
+        "Gurtza-etxe sakratu bat eraikitzea",
+        "Zerutik mahaia jasotzea"
+      ],
+      "answer": "Osasuna eta familiaren berreskurapena"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

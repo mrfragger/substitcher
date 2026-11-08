@@ -1,0 +1,61 @@
+{
+  "title": "Vahiy tomonidan qayta yozilgan majburiyat",
+  "intro": "O'zingizni juda muhim birovga ishonib topshirilganingizni tasavvur qiling, keyin esa itoatkorlik uchun rishtalarni tugatadigan buyruqqa duch kelasiz. Vahiy butun bir xonadonni o'zgartirdi va buyruq markazidagi ism hech qachon murojaat qilinmagan.",
+  "clues": [
+    "Men shaxsiy sadoqat ilohiy itoatkorlikka bo'ysunishi kerak bo'lgan joyda turdim.",
+    "Men Rasulullohning xonadonida asrab olingan o'g'il sifatida tanilganman.",
+    "Men nikohim Allohning Rasuliga vahiy qilinganiga sabab bo'lganini bildim.",
+    "Menga qaratilgan “Xotiningni o‘zing bilan olib qol va Allohdan qo‘rq” degan so‘zlarni eshitdim.",
+    "Keyin men Alloh Rasuliga ba'zi xotinlarni taloq qilishni buyurganini va mening nikohim shu buyruq ostida tugashi kerakligini bildim.",
+    "Men Zayd ibn Horisaman, “Ahzb” surasidagi asrab olingan o‘g‘il."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Zayd ibn Horisa",
+        "Horun payg'ambar",
+        "Yahyo payg'ambar",
+        "O'lim farishtasi",
+        "Yusufning akalari"
+      ],
+      "answer": "Zayd ibn Horisa"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Xotinini olib qolish aytilgan va keyin ajrashishga ko'rsatma berilgan",
+        "Katta baliq tomonidan yutib yuborilmoqda",
+        "Olovli pechga tashlanmoqda",
+        "Asrlar davomida g'or ichida uxlash",
+        "Ilonga tayoq bilan qarama-qarshi turish"
+      ],
+      "answer": "Xotinini olib qolish aytilgan va keyin ajrashishga ko'rsatma berilgan"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Rasulullohning xonadoni",
+        "Misrdagi fir'avn saroyi",
+        "Uxlayotgan hamrohlarning g'ori",
+        "Ikki mo'min hamrohning bog'i",
+        "Qorunning mustahkamlangan saroyi"
+      ],
+      "answer": "Rasulullohning xonadoni"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Buyruqni bajardi, xotinidan ajrashdi va nikoh bekor qilindi",
+        "Olovli pechdan sog'-salomat qutqarildi",
+        "Katta baliq yutib yuborganidan keyin qutqarildi",
+        "Ikkita buloqli bog' berildi",
+        "Sharq va G'arb ustidan hukmronlik qilish huquqiga ega bo'ldi"
+      ],
+      "answer": "Buyruqni bajardi, xotinidan ajrashdi va nikoh bekor qilindi"
+    }
+  },
+  "verseRef": "33:37",
+  "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+  "verse": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished. (33:37)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Gościnność, która wywołała strach",
+  "intro": "W mieście ogarniętym niegodziwością, wierny sługa pewnego dnia przyjął niespodziewanych gości. W trosce o ich bezpieczeństwo, człowiek ten zaoferował im ochronę, ale mieszkańcy miasta zażądali czegoś haniebnego. Ostrzeżony przed zbliżającą się zagładą, sługa uciekł z rodziną pod osłoną ciemności, pozostawiając za sobą miasto skazane na zagładę. Kim jest ten samotny wierzący?",
+  "clues": [
+    "Zostałem wysłany jako posłaniec do ludu, który dopuścił się haniebnych czynów.",
+    "Do mojego domu przyszli niespodziewani goście i bardziej martwiłem się o ich bezpieczeństwo niż o swoje własne.",
+    "Mój lud zażądał, aby moi goście zostali przyjęci, ponieważ mieli złe intencje, a ja próbowałem przemówić im do rozsądku.",
+    "Moi goście objawili mi się jako aniołowie i nakazali zabrać moją rodzinę i odejść w nocy.",
+    "Moja żona nie posłuchała wezwania do ucieczki i spotkało ją to samo zniszczenie, co mój lud.",
+    "Moje miasto zostało zburzone przez deszcz kamieni z warstw gliny, jego najwyższe części zostały zmiecione z powierzchni ziemi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Lut",
+        "Prorok Musa",
+        "Prorok Ibrahim",
+        "Prorok Noh",
+        "Prorok Hud"
+      ],
+      "answer": "Prorok Lut"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Żądanie mojego ludu, aby podchodzić do moich gości w sposób niegodziwy",
+        "Rozstąpienie się morza w ucieczce przed tyranem",
+        "Budowa wielkiej arki pośród szyderstw",
+        "Ofiara mojego syna w próbie wiary",
+        "Doświadczenie bycia połkniętym przez wielką rybę"
+      ],
+      "answer": "Żądanie mojego ludu, aby podchodzić do moich gości w sposób niegodziwy"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Zburzone miasto mojego ludu",
+        "Góra, na której usłyszałem boską mowę",
+        "Arka, która przepłynęła przez wielką powódź",
+        "Wielbłądzica, która wyłoniła się ze skały",
+        "Ogród z ukrytym, sprawiedliwym gościem"
+      ],
+      "answer": "Zburzone miasto mojego ludu"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zostałem uratowany wraz z rodziną, zanim moje miasto zostało zniszczone",
+        "Poprowadziłem swój lud ku wolności przez morze",
+        "Zbudowałem wielką arkę i przetrwałem potężny potop",
+        "Dano mi władzę nad wiatrami i dżinami",
+        "Cierpliwie znosiłem cierpienie i zostałem nagrodzony rodziną"
+      ],
+      "answer": "Zostałem uratowany wraz z rodziną, zanim moje miasto zostało zniszczone"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

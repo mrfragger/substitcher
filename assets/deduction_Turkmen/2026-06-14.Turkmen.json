@@ -1,0 +1,61 @@
+{
+  "title": "Miras galdyran alow",
+  "intro": "Garşylyk ýyl ýazgylarynda adynyň özi döwrüň ahyryna duýduryş bolan bir şahsyýet bar. Bu adam garyndaşlykdan duşmançylygy, boýun egmekden boýun gaçyrmagy saýlady we rehimdarlyk çagyryşyna garşy çykdy. Bu meşhur ruhuň kimligini açyp görkezýän gadymy yglanyň ýaňlanmalaryna üns beriň.",
+  "clues": [
+    "Men Allanyň soňky ilçisi bilen bir taýpada doguldym, ýöne her ädimde olara garşy durdum.",
+    "Meniň adym manylydy — bu at \"ýalgyn atasy\" diýmegi aňladýardy, bu at meniň ebedi ykbalymy alamatlandyrýardy.",
+    "Men hakykaty alyp baryjynyň garşysyna zyýan ýetirdim, hatda öz maşgalam hem bu zalymlyk kampaniýasyna goşuldy.",
+    "Men puluň ilahi nury öçürip biljekdigine ynanyp, Alla çagyrmagy öçürmek üçin baýlygymy we täsirimi ulandym.",
+    "Allatagala maňa tutuş bir baby bagyşlady — şeýle gysga bir baby welin, ony birnäçe sekuntda okap bolýar, ýöne onuň agramy kyýamat gününe çenli galýar.",
+    "Ahyretdäki ýoldaşym, boýnuna süýümli ýüp bilen daňylyp, öň ýaýradan tikenlerini göterip, yzymdan ýöräp barýar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraka ibn Nowfal",
+        "Umeýýe ibn Halef",
+        "Ukba ibn Ebi Muaýt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Garşylygy kesgitlemek",
+      "options": [
+        "Mekgede Pygambere garşy oppozisiýa ýolbaşçylyk etmek",
+        "Zulmdan gaçmak üçin Habeşistana göçmek",
+        "Ibrahim pygamber bilen Käbäni gurmak",
+        "Ölüm ýassygynda yslamy kabul etmek",
+        "Hudeýbiýa şertnamasynyň baglaşylmagy"
+      ],
+      "answer": "Mekgede Pygambere garşy oppozisiýa ýolbaşçylyk etmek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Tiken we odun daşaýan aýal",
+        "Ýylana öwrülen taýak",
+        "Süleýmanyň möhüri bolan ýüzük",
+        "Halkyň sežde edýän altyn gölesi",
+        "Suw akdyryp çykan çeşme"
+      ],
+      "answer": "Tiken we odun daşaýan aýal"
+    },
+    "outcome": {
+      "label": "Soňky hasap",
+      "options": [
+        "Bütin bir suräniň doly weýrançylyk barada habar berýändigi aýdylýar",
+        "Musulman jemgyýetiniň lideri boldy",
+        "Ölüm wagtynda bagyşlanma aldy",
+        "Medinede uly bir metjit gurdy",
+        "Salyhlaryň arasynda direldi"
+      ],
+      "answer": "Bütin bir suräniň doly weýrançylyk barada habar berýändigi aýdylýar"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

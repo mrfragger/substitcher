@@ -1,0 +1,61 @@
+{
+  "title": "aare, mis uhkuse alla vajus",
+  "intro": "Kujutage ette, et seisate nii tohutute rikkusehunnikute ees, et ainuüksi võtmete kandmine kurnaks ära terve rühma tugevaid inimesi. Teie ümber kostavad hääled, mis nõuavad alandlikkust ja mäletamist, kuid uhkus muutub valjemaks kui tänulikkus. Mis juhtub, kui küllusest saab proovikivi ja ülbus pitseerib tulemuse?",
+  "clues": [
+    "Ma olin küll Moosese rahva seast, aga ma astusin nende vastu üle.",
+    "Mulle anti nii tohutud aarded, et nende võtmed koormaksid tervet jõuku tugevaid mehi.",
+    "Mu rahvas soovitas mul mitte rõõmustada ja otsida hauatagust elu, unustamata seejuures oma osa selles maailmas.",
+    "Ma väitsin, et see, mis mul on, anti mulle ainult tänu teadmistele, mis mul olid.",
+    "Ma paraadisin oma rahva ees ehetes ja need, kes ihkasid ilmalikku elu, soovisid samasugust, mis minul oli.",
+    "Maa neelas mind koos mu eluasemega ja keegi ei saanud mind aidata ega mina iseennast aidata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Uhkles rikkusega ja keeldus Allahi soosingust hoolimata nõust",
+        "Esitas Ibrahimile väljakutse elu ja surma andmise osas",
+        "Juhtis armeed Taluti ja Dawudi vastu",
+        "Nikerdatud ebajumalaid, mida inimesed kummardada saavad",
+        "Tapis ohvriandi pärast kadedusest venna"
+      ],
+      "answer": "Uhkeldas rikkusega ja keeldus Allahi soosingust hoolimata nõust"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Võtmed tohutute aarete juurde",
+        "Lepingulaegas",
+        "Kuldne ehete vasikas",
+        "Tamm kahe mäe vahel",
+        "Üksteist tähte unenäos"
+      ],
+      "answer": "Võtmed tohutute aarete juurde"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Maa neelas alla eluruumi ja rikkusega",
+        "Uppus merre Musat jälitades",
+        "Dawudi lingust visatud kivi tabas teda maha",
+        "Hävitas võimsa plahvatuse emase kaameli reielihase vigastuse eest",
+        "Muutusid ahvideks hingamispäeva rikkumise pärast"
+      ],
+      "answer": "Maa neelas alla eluruumi ja rikkusega"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

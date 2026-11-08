@@ -1,0 +1,61 @@
+{
+  "title": "Premye moun ki chèche padon",
+  "intro": "Fè yon ti retou nan yon epòk anvan premye leve solèy la, anvan okenn mòtèl te mache sou tè a. Yo te fè yon figi ak materyèl ki pi senp yo, yo te ba li yon pozisyon pi wo pase zanj yo, epi yo te mete l nan yon jaden sakre avèk yon avètisman klè. Epoutan, nan yon sèl moman, yo te fè yon chwa — yon chwa ki t ap rezone nan tout listwa limanite. Ki moun figi sa a ye?",
+  "clues": [
+    "Mwen te fèt yon fason ki pa sanble ak okenn lòt — mwen te fòme ak pousyè tè a epi Kreyatè a te ban m yon nanm vivan.",
+    "Mwen te resevwa yon konesans tèlman pwofon ke menm zanj ki anwo yo te sezi wè li.",
+    "Tout syèl la te resevwa lòd pou yo bese tèt devan m, epi yo tout te soumèt — eksepte youn, ki te refize akoz ògèy.",
+    "Yo te mete m nan yon jaden sakre, yon kote ki gen konfò ak pwovizyon etènèl — men avèk yon sèl entèdiksyon strik.",
+    "Mwen te bliye, mwen te glise, epi mwen te dezobeyi — epi mwen te santi pwa erè mwen an pwofondman.",
+    "Mwen te vire bò kote Senyè mwen an avèk pawòl ki soti nan fon kè m, epi Li te aksepte repantans mwen an, paske Li se Moun ki Pi Padonnen an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Adan",
+        "Pwofèt Daoud",
+        "Pwofèt Muhammad",
+        "Iblis",
+        "Pwofèt Yaqub"
+      ],
+      "answer": "Pwofèt Adan"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Zanj yo te resevwa lòd pou yo bese tèt yo",
+        "Yo te voye Gran Delij la",
+        "Yo te fè yon gwo dife fre epi an sekirite",
+        "Yon chèf awogan te nwaye nan lanmè a",
+        "Yo te detwi yon lame elefan"
+      ],
+      "answer": "Zanj yo te resevwa lòd pou yo bese tèt yo"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Jaden Bliss la",
+        "Mòn Sinayi",
+        "Moske Sakre a",
+        "Rivyè Nil la",
+        "Gwòt la"
+      ],
+      "answer": "Jaden Bliss la"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Allah te aksepte repantans lan",
+        "Nwaye nan lanmè a",
+        "Yon gwo pwason vale l",
+        "Nasyon an te frape pa yon gwo eksplozyon",
+        "Boule pa yon van cho"
+      ],
+      "answer": "Allah te aksepte repantans lan"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

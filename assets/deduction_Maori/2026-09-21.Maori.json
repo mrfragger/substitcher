@@ -1,0 +1,61 @@
+{
+  "title": "Te Karanga Mai i te Hōhonu",
+  "intro": "I hoha te pononga a te Atua Aroha ki tētahi iwi pakeke, ā, i mua i te whakaaetanga, ka haere atu ia. I tae atu tēnei tangata ki tētahi wāhi kāore anō kia tae atu tētahi tangata, ā, i reira ka rangona te karanga ki te Atua i roto i ngā paparanga o te pōuri. I te putanga mai o te ngoikore engari kua rerekē, ka noho tēnei wairua hei akoranga mutunga kore mō te manawanui, te ripeneta pono, me te aroha mutunga kore o te Kaihanga. Ka taea e koe te wetewete i te mea ngaro?",
+  "clues": [
+    "I tonoa ahau hei karere ki tōku iwi, engari i takahia e rātou ngā rohe katoa i runga i tō rātou whakaponokore, ā, i kore ai rātou e whakarongo.",
+    "I riri ahau i tā rātou whakakorenga, ā, i rere atu ahau i tōku iwi i mua i te taenga mai o te whakahau a Allah.",
+    "I eke ahau ki runga i tētahi kaipuke kua utaina rawatia, ā, i maka rota mātou hei whakatau ko wai ka maka ki waho.",
+    "I makaia ahau ki te moana e ngaru ana, ā, i horomia ahau e tetahi ika nui.",
+    "I roto i ngā paparanga e toru o te pōuri — te puku, te moana hohonu, me te whenua i raro — i karanga ahau ki tōku Ariki me te ripeneta pono.",
+    "I puta ake ahau i te ika ki uta, ngoikore ana, ngenge ana, ā, ka tupu ake he hue ki runga i ahau. Ka whakapono tōku iwi, neke atu i te kotahi rau mano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Yunus",
+        "Poropiti a Ayyub",
+        "Poropiti a Yusuf",
+        "Poropiti a Mohi",
+        "Poropiti a Sulaimana"
+      ],
+      "answer": "Poropiti Yunus"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I horomia e te ika nui",
+        "I maka ki roto i te ahi mura",
+        "I mau i te raro o te puna",
+        "I taupokina e te waipuke nui",
+        "I mauheretia hētia e te kingi"
+      ],
+      "answer": "I horomia e te ika nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te puku o te ika nui",
+        "Ko te awaawa tapu e tata ana ki te Kaaba",
+        "He āaka e takoto ana i runga i te maunga",
+        "He tokotoko i huri hei nakahi",
+        "He torona rangatira kāore e rite"
+      ],
+      "answer": "Te puku o te ika nui"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakapono tōna iwi, neke atu i te kotahi rau mano",
+        "I whakaarahia ora ki te rangi",
+        "I noho hei rangatira mō tētahi kingitanga kore e taea te whakataurite",
+        "I whakangaromia e te tangi nui mai i te rangi",
+        "I hurihia e te rū whenua nui"
+      ],
+      "answer": "I whakapono tōna iwi, neke atu i te kotahi rau mano"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

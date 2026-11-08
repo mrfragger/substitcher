@@ -1,0 +1,61 @@
+{
+  "title": "De ståndaktiga vittnena",
+  "intro": "Föreställ dig en tid då tron ​​prövades med eld och orubblig övertygelse blev det yttersta trotset. Du har i uppgift att avslöja identiteten på en grupp vars historia återges i Koranen, en berättelse om djup tro mot ett överväldigande tyranni. Avslöja ledtrådarna för att upptäcka vilka dessa själar var och de extraordinära omständigheter de mötte.",
+  "clues": [
+    "Vi stod fast vid vår övertygelse, trots enorma påtryckningar att avsäga oss vår tro.",
+    "Vi var måltavla för en mäktig härskare som försökte släcka monoteismens ljus.",
+    "Vi bevittnade stora tecken och mirakel, men våra förtryckare förblev likgiltiga.",
+    "Vi utstod en fruktansvärd förföljelsemetod som var utformad för att terrorisera andra till underkastelse.",
+    "Vi kastades in i en flammande inferno, men vår ståndaktighet gav oss en hög ställning hos Allah.",
+    "Vår berättelse återberättas i en sura uppkallad efter himmelska konstellationer, och varnar för ödet för dem som förföljer de troende."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Folket i Thamud",
+        "Folket i 'Ad",
+        "Folket i diket",
+        "Midjans folk",
+        "Elefantens folk"
+      ],
+      "answer": "Folket i diket"
+    },
+    "trial": {
+      "label": "Vår förföljelse",
+      "options": [
+        "Att drunkna i en översvämning",
+        "Att bli uppslukad av en brännande vind",
+        "Att kastas ner i en brinnande skyttegrav",
+        "Att bli uppslukad av jorden",
+        "Att förvandlas till apor"
+      ],
+      "answer": "Att kastas ner i en brinnande skyttegrav"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En massiv översvämning",
+        "En stor jordbävning",
+        "En djup, brinnande dike",
+        "En mäktig idol",
+        "En förödande torka"
+      ],
+      "answer": "En djup, brinnande dike"
+    },
+    "outcome": {
+      "label": "Vårt slutgiltiga öde",
+      "options": [
+        "De fick ett rike på jorden.",
+        "De räddades genom en mirakulös flykt.",
+        "De uppnådde martyrdöden och evig belöning.",
+        "De förvandlades till en annan art.",
+        "De fick enorm rikedom och välstånd."
+      ],
+      "answer": "De uppnådde martyrdöden och evig belöning."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

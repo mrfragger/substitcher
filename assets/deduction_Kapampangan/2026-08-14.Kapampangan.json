@@ -1,0 +1,61 @@
+{
+  "title": "Ding Gamat a Misumpa",
+  "intro": "Makatalakad ka kareng makalibutad a eskinita ning minunang Makkah, nung nukarin ing metung a kaladwa ning impluwensya at pibandian misan mibalik ya keng aus ning katutwan. Ing istorya na niting pigura metung yang matalas a paganaka na ing tali ning daya e malyaring alagpasan ing kadena ning pamagmaragul. Ninu ining metung a ing lagyu na maka-echo ya keng api a manenaya?",
+  "clues": [
+    "linakad ku kareng dalan ning makkah a maki kayabangan na mebulag kaku keng katutwan, agyang ing tubud ibat ya keng sarili kung daya.",
+    "Dakal la ding pibandian ku, oneng meging sumpa la kesa king kalasag.",
+    "Ing librung patnube sasabyan na ing kakung kasiran, papasiag na king ding gamat ku at ing kanakung pangatau mate la.",
+    "Ing asawa ku mekiabe ya keng kanakung kampanya ning pamipatepate, titipun yang suksuk para ikalat keng dalan ning metung a mamaus kang Allah.",
+    "King Aldo ning Pamanukum, miyugse ku king milalablab a api, at ing asawa ku mika lubid yang palma king batal na.",
+    "Kilala ku king lagyung mangabaldugan ‘tatang ning api’ — lagyung manula king alang anggang tuknangan ku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Key Trial o Event",
+      "options": [
+        "Sinalalang ya keng Propeta at mesumpa ya keng Quran",
+        "menimuna yang army para siran ing kaaba",
+        "Sinubukan neng paten ing Propeta kapamilatan ning pamanyubling batu",
+        "E ya bisang maniwala keng pamipitna ning bulan",
+        "Mekatalakad yang tore para miras ya keng banua"
+      ],
+      "answer": "Sinalalang ya keng Propeta at mesumpa ya keng Quran"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Ing milalablab a api ning impierno",
+        "Ing Staff ning Musa",
+        "Ing Kaban ning Nuh",
+        "Ing Balon ning Zamzam",
+        "Ing gintung baka"
+      ],
+      "answer": "Ing milalablab a api ning impierno"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "lungub ya keng milalablab a api, at ing pibandian na e na agamit",
+        "Sini ya at meging talasalpantaya ya",
+        "Mepatawaran ya kaybat nang migbalik",
+        "Mete ya anting metung a martir",
+        "Mitas ya banua"
+      ],
+      "answer": "lungub ya keng milalablab a api, at ing pibandian na e na agamit"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

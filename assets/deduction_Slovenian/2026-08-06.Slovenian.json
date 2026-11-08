@@ -1,0 +1,61 @@
+{
+  "title": "Budna duša ob rečnem bregu",
+  "intro": "Mladi duši je bila zaupana tajna misija, da z varne razdalje opazuje, kako se usoda odvija na vodah. Nevidna in neslutena, ta osebnost je odigrala ključno vlogo pri spreminjanju poteka narodove zgodovine.",
+  "clues": [
+    "Mama mi je dala nalogo, ki je zahtevala prikritost in budnost.",
+    "Z očmi sem sledil majhni zibelki, ki je plula po toku, srce pa mi je bilo težko od skrbi.",
+    "Ko ga je našla nepričakovana skupina, sem se mu približal, poln treme.",
+    "Videl sem njihovo obupno potrebo po hišniku in ponudil rešitev, ne da bi razkril resnico.",
+    "Moje pravočasno posredovanje je pripeljalo negovalno dušo nazaj k tistemu, ki jo je najbolj potreboval.",
+    "Na dvorih mogočnih sem rekel: 'Naj vas napotim k družini, ki ga bo hranila in skrbno skrbela zanj?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Musina sestra",
+        "Musajeva mati",
+        "Žena faraona",
+        "Babica",
+        "Šuaibova hči"
+      ],
+      "answer": "Musina sestra"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Metanje otroka v reko",
+        "Ločitev morja",
+        "Žganje teleta",
+        "Gradnja barke",
+        "Nadloga kobilic"
+      ],
+      "answer": "Metanje otroka v reko"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Reka",
+        "Puščava",
+        "Gora",
+        "Palača",
+        "Ogenj"
+      ],
+      "answer": "Reka"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Otroka je ponovno združila z njegovo materjo",
+        "Rešila se je pred faraonovimi vojaki",
+        "Postala je kraljica",
+        "Kaznovali so jo zaradi vohunjenja",
+        "Vodila je Izraelce"
+      ],
+      "answer": "Otroka je ponovno združila z njegovo materjo"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

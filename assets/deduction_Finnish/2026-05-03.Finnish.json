@@ -1,0 +1,61 @@
+{
+  "title": "Totuuden uinuvat etsijät",
+  "intro": "Kuvittele aikaa, jolloin uskoa kyseenalaistettiin ja joukko sieluja valitsi horjumattoman vakaumuksen maallisen mukavuuden sijaan. Pelottavan valinnan edessä he etsivät turvaa ja lähtevät matkalle, joka johti poikkeukselliseen uneen. Heidän tarinansa on osoitus jumalallisesta suojeluksesta ja uskon voimasta sortoa vastaan. Pystytkö tunnistamaan näiden merkittävien yksilöiden henkilöllisyyden?",
+  "clues": [
+    "Olimme pieni joukko, jota yhdisti syvä usko Yhteen Luojaan.",
+    "Elimme aikana, jolloin mahtava hallitsija vaati muiden kuin Allahin palvontaa.",
+    "Säilyttääksemme uskomme päätimme hylätä kotimme ja paeta sortoa.",
+    "Uskollinen seuralainen, maan olento, seurasi meitä matkallamme.",
+    "Löysimme turvapaikan syrjäisestä paikasta, jossa Allah vaivutti meidät syvään ja pitkään uneen.",
+    "Herätessämme uskoimme, että vain päivä tai osa päivästä oli kulunut, mutta vuosisatoja oli todella kulunut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Ojan kansa",
+        "Thamudin kansa",
+        "Saban kansa",
+        "Luolan ihmiset",
+        "Madyanin kansa"
+      ],
+      "answer": "Luolan ihmiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Koeteltuna karulla maalla",
+        "Kohdatessaan suurta tulvaa",
+        "Etsin turvaa tyrannimaiselta hallitsijalta",
+        "Heitetään palavaan tuleen",
+        "Velhon taikuuden haastaminen"
+      ],
+      "answer": "Etsin turvaa tyrannimaiselta hallitsijalta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Suuri palatsi",
+        "Laiva/arkki",
+        "Syvä kaivo",
+        "Luola",
+        "Kohoava vuori"
+      ],
+      "answer": "Luola"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Kuningaskunnan myöntäminen",
+        "Ihmeellinen uni vuosisatojen ajan",
+        "Maan nielaisemana",
+        "Pelastuminen tuhoisalta myrskyltä",
+        "Taivaallisen pöydän ääreen"
+      ],
+      "answer": "Ihmeellinen uni vuosisatojen ajan"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Penjaga di Tepi Sungai",
+  "intro": "Di sebuah negeri di mana titah seorang zalim membawa kesedihan kepada banyak rumah, seorang jiwa menerima mesej yang menentang segala ketakutan. Dengan hati yang dipenuhi dengan kepercayaan, mereka memulakan tindakan iman yang akan mengubah haluan sebuah negara. Ketika air membawa muatan yang berharga, harapan bercampur dengan arus.",
+  "clues": [
+    "Saya hidup dalam zaman penindasan dan ketakutan.",
+    "Saya menerima ilham ilahi yang memberi saya keberanian.",
+    "Aku diperintahkan untuk tidak takut atau bersedih.",
+    "Saya meletakkan anak saya di dalam peti dan meletakkannya di atas air.",
+    "Anak saya ditemui oleh keluarga pemerintah, tetapi anak saya yang seorang lagi menyusul.",
+    "Saya dipertemukan semula dengan anak saya untuk menyusukannya, seperti yang dijanjikan Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Ibu Musa",
+        "Isteri Firaun",
+        "Adik perempuan Musa",
+        "Ibu Yesus",
+        "Ratu Sheba"
+      ],
+      "answer": "Ibu Musa"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Diilhamkan untuk membuang seorang kanak-kanak ke dalam sungai",
+        "Dicabar untuk pertarungan sihir",
+        "Dikejar oleh tentera",
+        "Merentasi lautan yang terbelah",
+        "Membina rumah suci"
+      ],
+      "answer": "Diilhamkan untuk membuang seorang kanak-kanak ke dalam sungai"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Sebuah peti diletakkan di dalam sungai",
+        "Semak yang terbakar",
+        "Tongkat yang bertukar menjadi ular",
+        "Anak lembu emas",
+        "Takhta"
+      ],
+      "answer": "Sebuah peti diletakkan di dalam sungai"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Kanak-kanak itu selamat dikembalikan kepada jururawat",
+        "Kanak-kanak itu hilang selama-lamanya",
+        "Kanak-kanak itu dibawa ke negeri yang jauh",
+        "Kanak-kanak itu serta-merta menjadi pemerintah",
+        "Kanak-kanak itu telah diambil sebagai anak angkat oleh seorang saudagar kaya"
+      ],
+      "answer": "Kanak-kanak itu selamat dikembalikan kepada jururawat"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

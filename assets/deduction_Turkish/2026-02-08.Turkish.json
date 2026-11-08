@@ -1,0 +1,60 @@
+{
+  "title": "Uzak Tahtın Gizemi",
+  "intro": "Olağanüstü bir egemenliğe sahip güçlü bir hükümdar, uzak bir diyardan gelen bir kraliçeyle ilgili tuhaf bir zorlukla karşı karşıya kaldı. Hükümdar, ilahi gücünü ve bilgeliğini göstermeye çalışarak, zaman ve mekan yasalarına meydan okuyan inanılmaz bir olayı başlattı. Bu mucizevi olayın ayrıntılarını çıkarabilir misiniz?",
+  "clues": [
+    "Hükümdara, görünmeyen varlıklar üzerinde kontrol ve rüzgarları yönetme yeteneği de dahil olmak üzere muazzam bir güç bahşedildi.",
+    "Bu hükümdar, güneşe tapan zengin bir kraliçe hakkında haber aldı ve onu sarayına davet etmeye karar verdi.",
+    "Kraliçenin gelişinden önce, hükümdar, uzak krallığından muhteşem tahtını getirme arzusunu dile getirdi.",
+    "Güçlü bir cin, hükümdar meclisinden kalkmadan önce nesneyi geri getirmeyi teklif etti.",
+    "Ancak, Kutsal Yazılar konusunda derin bilgiye sahip olan biri, çok daha hızlı bir şekilde bilgiyi geri getirmeyi başardı ve görevi göz açıp kapayıncaya kadar tamamladı.",
+    "Nesne saraya ulaştığında, hükümdar, kraliçenin zekasını ve algısını sınamak için nesnenin değiştirilmesini emretti."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Peygamber/Kişi",
+      "options": [
+        "Peygamber Musa",
+        "Peygamber Davud",
+        "Peygamber İbrahim",
+        "Peygamber Yusuf",
+        "Peygamber Süleyman"
+      ],
+      "answer": "Peygamber Süleyman"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Denizin Yarılması",
+        "Zorluklarda Sabır",
+        "Kabe'nin İnşası",
+        "Bahçelerin Sınavı",
+        "Kraliçenin Tahtını Getirmek"
+      ],
+      "answer": "Kraliçenin Tahtını Getirmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Dağ",
+        "Kuyu",
+        "Taht"
+      ],
+      "answer": "Taht"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Büyük bir fedakarlık",
+        "Kurulan bir krallık",
+        "Bir halk cezalandırıldı",
+        "Yeni bir antlaşma",
+        "Kraliçenin Allah'a Teslimiyeti"
+      ],
+      "answer": "Kraliçenin Allah'a Teslimiyeti"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

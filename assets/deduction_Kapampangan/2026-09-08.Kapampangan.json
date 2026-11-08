@@ -1,0 +1,61 @@
+{
+  "title": "Ing Pamanyubuk ning Sagradung Api",
+  "intro": "keng metung a minunang gabun nung nukarin ing debosyon keng makaukit a batu mika yamut ya keng balang bale, metung a indibidwal ing makatalakad. Kapamilatan ning alang patugut a kapaniwalan at banal a proteksyun, arapan da ing dapat siguradung kamatayan — at linakad lang alang sugatan. Malyari meng abalu ing pangatau na niting makabaldugan a kaladwa?",
+  "clues": [
+    "meragul ku kareng taung susuku kareng idolo a gewa da kareng sarili dang gamat, maniwala la na deng bage a reni atin lang banal a upaya.",
+    "Inyang linaban ku kareng karelang kapaniwalan, pepaburen da ku keng mumuna, pero eku agyung manahimik keng katutwan a balu ku.",
+    "King metung a aldo inyang mitipun la, lesak ku la ding karelang idolo, at ing pekamaragul mung dili ing likuan ku.",
+    "Inyang mibalik la at ikit da ing depat ku, ding karelang pamuntuk inutus da ing mitalakad lang maragul a api, balak da kung iyugse king api.",
+    "Inugse da ku king milalablab a api, oneng inutus na ning Ginu da ring meto yatu king maging marimla at ligtas para kanaku.",
+    "Linual ku keng api na alang mesugat, kabang deng migplanu laban kaku arapan da ing ganap a kasiran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Nuh",
+        "Propeta Isa",
+        "Propeta Yusuf"
+      ],
+      "answer": "Propeta Ibrahim"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Miyugse ya keng milalablab a api",
+        "Melaso ya keng maragul a balyena",
+        "makaligtas keng maragul a albug",
+        "Miyugse ya keng malalam a talaga",
+        "Pamakipag-arapan kareng magician ning metung a ari"
+      ],
+      "answer": "Miyugse ya keng milalablab a api"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Metung a maragul a pyre ning tutung dutung",
+        "Metung a maragul a daung a gawa king dutung",
+        "Metung a gintung biserung estatua",
+        "Metung a lulutang a basket keng ilug",
+        "Metung a mangasanting a tronu"
+      ],
+      "answer": "Metung a maragul a pyre ning tutung dutung"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "gewa neng marimla at ligtas ning Allah ing api",
+        "Miras yang ligtas ing daung king metung a bunduk",
+        "Ing gintung idolo metunaw ya king arapan da ring karelang mata",
+        "Metung a tiraniku at ding sundalus na linub la king dagat",
+        "Mibalik ya panimanman ing metung a bulag"
+      ],
+      "answer": "gewa neng marimla at ligtas ning Allah ing api"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Somnul celor drepți",
+  "intro": "Într-o vreme când credința era periculoasă, iar cei puternici căutau să zdrobească credința, un mic grup de suflete tinere a făcut o alegere care avea să răsune prin veacuri. Fugind de tot ce știau, au căutat refugiu în întunericul ascuns al unui munte și și-au pus încrederea în întregime în Allah. Ceea ce s-a întâmplat în continuare avea să devină un semn atemporal pentru cei care reflectează.",
+  "clues": [
+    "Eram un grup de tineri care credeau în Domnul nostru, iar El ne-a sporit în îndrumare.",
+    "Am stat în fața poporului nostru și am declarat că nu vom invoca niciodată nicio zeitate în afară de Allah.",
+    "Ne-am refugiat într-o peșteră, zicând: „Doamne, dăruiește-ne nouă milă de la Tine și călăuzește-ne cu dreptate în treburile noastre.”",
+    "Am dormit mulți ani, iar soarele se îndepărta de peștera noastră și nu ne atingea.",
+    "Câinele nostru zăcea întins la intrarea peșterii, păzindu-ne ca și cum ar fi fost de strajă.",
+    "Când ne-am trezit, ne-am întrebat cât timp zăbovisem, iar unul dintre noi a fost trimis cu monede de argint să cumpere mâncare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din peșteră",
+        "Oamenii din tranșee",
+        "Oamenii Sabatului",
+        "Oamenii elefantului",
+        "Companionii Pădurii"
+      ],
+      "answer": "Oamenii din peșteră"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Au fugit într-o peșteră pentru a scăpa de persecuția cauzată de credința lor",
+        "Distrus de un vânt violent",
+        "Înghițit de pământ",
+        "Înecat în mare",
+        "Lovit de o furtună de pietre"
+      ],
+      "answer": "Au fugit într-o peșteră pentru a scăpa de persecuția cauzată de credința lor"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un câine care păzește intrarea în peșteră",
+        "O arcă mare",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O pasăre pupăză",
+        "Un vițel de aur"
+      ],
+      "answer": "Un câine care păzește intrarea în peșteră"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Au rămas în peșteră timp de 309 ani și apoi au fost ridicați ca semn",
+        "Au fost transformați în maimuțe",
+        "Au fost distruse de o inundație",
+        "Au fost obligați să traverseze marea",
+        "Li s-a dat o împărăție"
+      ],
+      "answer": "Au rămas în peșteră timp de 309 ani și apoi au fost ridicați ca semn"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

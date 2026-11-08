@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe le le neng la gwetlha puso ya modingwana",
+  "intro": "Gareng ga barongwa ba Mothatayotlhe go ne go na le motlhanka yo o tlhomameng yo o neng a tsoga mo gare ga morafe o o tlhogoethata go isa boammaaruri. Batho ba bone ba ne ba amogetse modimo o o itlhametsweng, ba furalela Mmopi wa dilo tsotlhe tse di leng teng. Ka tshwetso e e sa reketleng, motho yono o ne a ba bitsa gape — mme molaetsa o ne wa amogelwa ka go ganwa le go ganwa. Kgato mo dintlheng go bona gore motlhanka yono yo o ineetseng e ne e le mang.",
+  "clues": [
+    "Ke ne ka romelwa jaaka morongwa kwa bathong ba ba tlhogoethata ba ba neng ba kgarakgatshegile kgakala le tsela e e tlhamaletseng.",
+    "Ke tlile go gopotsa setšhaba sa me ka Ene yo o bopileng tsotlhe tse di leng teng — yo o gaisang babopi botlhe.",
+    "Batho ba me ba ne ba retologetse kwa setshwantshong sa maaka se ba neng ba se tlotla le go se bitsa bosigo le motshegare.",
+    "Ke ne ka ba gwetlha ka bopelokgale, ke botsa gore ke ka ntlha yang fa ba ne ba tla obamela modimo o o itlhametsweng mme ba latlha Morena wa bone wa boammaaruri.",
+    "Ba ne ba ntatola, ba gana go reetsa, mme ba ngaparela maaka a bone — le fa go ntse jalo Morena wa me o ne a ntshireletsa.",
+    "Ke nna Ilyas — mme kagiso e ne ya newa mo go nna, mme ka balelwa mo gare ga batlhanka ba ba dumelang ba Moutlwelobotlhoko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Ilyas",
+        "Moporofeti Idris",
+        "Moporofeta Alyasa",
+        "Moporofeti Dul-Kifl",
+        "Moporofeti Nuh"
+      ],
+      "answer": "Moporofeti Ilyas"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go bitsa batho kgakala le kobamelo ya ga Baale",
+        "Go lebana le mmusaesi yo o neng a ipolela gore ke modimo",
+        "Go tlhagisa batho ka morwalela o o tlang",
+        "Go latlhelwa mo molelong o mogolo o o tukang",
+        "Go etelela pele khudugo go tswa mo lefatsheng la bokgoba"
+      ],
+      "answer": "Go bitsa batho kgakala le kobamelo ya ga Baale"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Setshwantsho se se bidiwang Baale .",
+        "Areka e kgolo e e agilweng ka logong lo lo nonofileng",
+        "Lore lo lo neng lwa kgaoganya lewatle le legolo",
+        "Seaparo se se boitshepo se se neng se tletse madi",
+        "Setlhatshana se se tukang mo thabeng e e boitshepo"
+      ],
+      "answer": "Setshwantsho se se bidiwang Baale ."
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O neilwe kagiso le go balelwa mo gare ga batlhanka ba ba tlhophilweng ba ga Allah",
+        "A gogelwa kwa paradaiseng fa ba bangwe botlhe ba ne ba senngwa",
+        "Go pholosiwa mo molelong o mogolo o o neng wa tsidifala e bile o babalesegile",
+        "Go newa taolo mo godimo ga dijini, batho le phefo",
+        "Mmele o bolokilwe jaaka letshwao le le tla nnelang ruri la dingwaga"
+      ],
+      "answer": "O neilwe kagiso le go balelwa mo gare ga batlhanka ba ba tlhophilweng ba ga Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

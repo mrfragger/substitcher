@@ -1,0 +1,61 @@
+{
+  "title": "Ku Tlakuka ka Mulorhi",
+  "intro": "Moya-xiviri lowu kunguhatiweke ku va vukulu, kambe wu ringiwa hi miringo leyikulu, wu sungule riendzo leri nga tolovelekangiki. Ndlela ya munhu loyi a yi funghiwe hi mavondzo, ku hambana ni ku xaniseka loku nga lulamangiki, ntsena ku ya fika emakumu hi xiyimo xa vutihlamuleri lebyikulu ni ku hlangana lokukulu. Xana u nga xi vona xifaniso lexi xo hlamarisa eka Quran?",
+  "clues": [
+    "Ndzi tshame ndzi va ni mavondzo hi lava nga ekusuhi swinene na mina, leswi endleke leswaku ndzi hambana swinene ni mutswari wa mina ni le kaya.",
+    "Ndzi ve ni nkarhi wo tika swinene, ku katsa ni ku xavisiwa hi nxavo lowutsongo hi vafambi.",
+    "Ndzi hehliwe hi ndlela leyi nga fanelangiki hi ku endla swo biha naswona ndzi hete malembe yo tala ndzi ri ekhotsweni, hambi swi ri tano ripfumelo ra mina a ri nga tsekatseki.",
+    "Ndzi nyikiwe vuswikoti byo hlawuleka byo hlamusela swivono leswi rharhanganeke, leswi tikombeke swi ri xitirho endleleni ya mina yo ya eka ntshunxeko.",
+    "Vutlhari ni vutshembeki bya mina swi hetelele swi ndzi yise eka xikhundlha xa vulawuri lebyikulu ni ku tshemba etikweni rimbe.",
+    "Hi ku landzelelana ka swiendlakalo, ndzi tlhele ndzi hlangana ni mutswari wa mina la dyuhaleke ni vamakwerhu endzhaku ka ku nga ri kona nkarhi wo leha ni ku vava."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Sulaiman",
+        "Muprofeta Esa",
+        "Muprofeta Yusuf",
+        "Muprofeta Dawud",
+        "Muprofeta Yahya"
+      ],
+      "answer": "Muprofeta Yusuf"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku mitiwa hi nhlampfi leyikulu",
+        "Ku aka Areka ku ponisa ntumbuluko",
+        "Ku tiyisela swihehlo swa mavunwa ni ku pfaleriwa ekhotsweni",
+        "Ku langutana ni mufumi wa tihanyi hi masingita",
+        "Ku kamberiwa hi vuvabyi lebyikulu na ku lahlekeriwa"
+      ],
+      "answer": "Ku tiyisela swihehlo swa mavunwa ni ku pfaleriwa ekhotsweni"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xihlahla lexi pfurhaka",
+        "Xinyenyana lexi vulavulaka",
+        "Xihlovo",
+        "Nhonga leyi hundzukaka nyoka",
+        "Kamela ya xisati tanihi xikombiso"
+      ],
+      "answer": "Xihlovo"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku rhangela ku rhurhela etikweni leri tshembisiweke",
+        "Ku va mutirheli wa matimba eEgipta",
+        "Ku amukela vuavanyisi bya Xikwembu eka vanhu lava tikukumuxaka",
+        "Ku fuma mfumo lowukulu hi vutlhari ni vululami",
+        "Ku tlhandlukela ematilweni"
+      ],
+      "answer": "Ku va mutirheli wa matimba eEgipta"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

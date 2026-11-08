@@ -1,0 +1,61 @@
+{
+  "title": "Pëshpëritja në Erë",
+  "intro": "Imagjinoni një mbretëri ku e padukshmja dhe e dukshmja ndërthuren, dhe ju qëndroni para një figure në zemër të një mbretërie ndryshe nga çdo tjetër. Ky shpirt zotëron njohuri përtej mundësive të zakonshme, duke komanduar forca që të tjerët vetëm mund t'i imagjinojnë. Megjithatë, edhe më i fuqishmi mund të përulet nga një krijesë e vogël, dhe e vërteta mund të mbetet e fshehur deri në kohën e caktuar. Kush është kjo figurë, trashëgimia e së cilës jehon nëpër shekuj?",
+  "clues": [
+    "Më është dhënë një mbretëri që askush pas meje nuk do ta ketë.",
+    "Trashëgova dituri dhe mençuri nga një prind i dashur.",
+    "Era ishte nën komandën time, duke udhëtuar sipas urdhrit tim kudo që dëshiroja.",
+    "Unë mund ta kuptoja të folurit e zogjve, dhe ata shërbyen në ushtrinë time.",
+    "Mora lajme nga një zog i vogël për një mbretëreshë që adhuronte diellin.",
+    "Vdekja ime mbeti e fshehur derisa një krijesë e tokës përpiu shkopin tim, dhe vetëm atëherë xhindët e kuptuan se nuk e dinin të fshehtën."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Sulejman (Solomon)",
+        "Profeti Davud (David)",
+        "Profeti Musa (Moisiu)",
+        "Profeti Isa (Jezusi)",
+        "Profeti Nuh (Noe)"
+      ],
+      "answer": "Profeti Sulejman (Solomon)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Vizita e Mbretëreshës së Shebës",
+        "Duke u hedhur në zjarr",
+        "Duke ndarë detin",
+        "Ndërtimi i një arke",
+        "Gëlltitja nga një balenë"
+      ],
+      "answer": "Vizita e Mbretëreshës së Shebës"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Shkopi i konsumuar nga një krijesë e tokës",
+        "Shkopi që u shndërrua në gjarpër",
+        "Deveja",
+        "Arka",
+        "Balena"
+      ],
+      "answer": "Shkopi i konsumuar nga një krijesë e tokës"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Vdekja e tij u fsheh nga xhindët derisa shkopi i tij u hëngr.",
+        "Ai u ngrit në qiell i gjallë",
+        "Ai u shpëtua nga zjarri me urdhrin e Allahut",
+        "Atij iu dha Tora",
+        "Ai u shpëtua nga balena"
+      ],
+      "answer": "Vdekja e tij u fsheh nga xhindët derisa shkopi i tij u hëngr."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

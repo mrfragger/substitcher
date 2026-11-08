@@ -1,0 +1,61 @@
+{
+  "title": "Panggilan sing wis suwe ora ketemu",
+  "intro": "Bayangna ana jiwa sing ngadeg dhewekan nglawan kabeh peradaban, kanthi tekad sing kuwat kanggo nuntun dheweke bali saka kesesatan kanthi tekad sing ora goyah. Sajrone pirang-pirang abad, pesen kasebut ditolak, diolok-olok, lan diremehake—nanging upaya kasebut ora tau mandheg. Pungkasane, perhitungan gedhe teka, lan mung sawetara sing entuk kaslametan bebarengan karo jiwa sing teguh iki. Apa sampeyan bisa ngenali tokoh iki saka Al-Qur'an?",
+  "clues": [
+    "Aku diutus dadi juru pepeling marang wong-wong sing kesasar ing dalane dhewe-dhewe.",
+    "Aku ngajak wong-wong mau supaya njaluk pangapura lan mratobat saka kaluputane, nanging padha malik.",
+    "Miturut prentahe Gusti Allah, aku mbangun prau gedhe nalika wong-wongku ndeleng lan ngece aku.",
+    "Aku ora mandheg nyeluk Gustiku—pungkase Panjenengane nyanggupi, lan banyu mili saka langit kanthi deres.",
+    "Aku numpak prau bareng karo wong-wong sing percaya nalika banyu banjir munggah ngluwihi dharatan.",
+    "Aku mbengok marang salah siji sing isih kari, njaluk supaya ngungsi menyang gunung, nanging prentahe wis metu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Ibrahim",
+        "Nabi Musa",
+        "Nabi Hud",
+        "Nabi Salih"
+      ],
+      "answer": "Nabi Nuh"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Mbangun bahtera gedhe lan slamet saka banjir bandang ing saindenging jagad",
+        "Dibuwang menyang geni sing murub",
+        "Ngadhepi tiran lan para penyihir sing kuat",
+        "Diuntal iwak gedhe",
+        "Nyakseni pembunuhan unta wadon suci"
+      ],
+      "answer": "Mbangun bahtera gedhe lan slamet saka banjir bandang ing saindenging jagad"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Prau kayu gedhé ing banjir sing deres",
+        "Lembah suci kanthi reruntuhan watu kuna",
+        "Guwa sing jero ing ngendi para kanca turu nganti pirang-pirang abad",
+        "Wetenge paus raksasa ing jerone samudra",
+        "Gunung watu sing dhuwur ing ara-ara samun"
+      ],
+      "answer": "Prau kayu gedhé ing banjir sing deres"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Dislametake karo wong-wong sing percaya ing kapal",
+        "Dislametake saka geni tanpa tatu liwat prentahe Gusti Allah",
+        "Mimpin eksodus gedhe metu saka kerajaan sing kuat",
+        "Dibuwang saka iwak menyang pesisir sing gersang",
+        "Nuntun wong-wong supaya ora tumindak salah liwat pratandha ajaib"
+      ],
+      "answer": "Dislametake karo wong-wong sing percaya ing kapal"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

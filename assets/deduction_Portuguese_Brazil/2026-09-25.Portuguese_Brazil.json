@@ -1,0 +1,61 @@
+{
+  "title": "A represa que destruiu um reino",
+  "intro": "Uma terra de rios caudalosos, dois jardins verdejantes e prosperidade incomparável — mas seus habitantes se tornaram indiferentes Àquele que os abençoou. Quando os lembretes os chamaram de volta, eles se afastaram. O que se seguiu foi um castigo que ainda ressoa como um aviso. Quem era essa antiga comunidade?",
+  "clues": [
+    "Vivíamos numa terra tão abençoada que nossa casa ficava entre dois jardins verdejantes.",
+    "Desfrutávamos dos rios que atravessavam nossas terras e das colheitas abundantes que enchiam nossas casas.",
+    "Contudo, quando fomos chamados à gratidão e à obediência ao nosso Senhor, nos afastamos com orgulho.",
+    "Nossa riqueza e conforto nos fizeram esquecer Aquele que nos concedeu tudo.",
+    "Então veio uma torrente repentina que rompeu a grande barreira na qual tínhamos confiado.",
+    "Somos o povo de Saba', cuja terra era conhecida pela grande barragem de Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Povo de Sabá",
+        "Pessoas da Trincheira",
+        "Companheiros do Poço",
+        "Povo de Tumba'",
+        "Povo de Midiã"
+      ],
+      "answer": "Povo de Sabá"
+    },
+    "trial": {
+      "label": "Nossa Ruína",
+      "options": [
+        "Inundação causada pelo rompimento de uma barragem",
+        "Um vento violento vindo do céu",
+        "Queimando em uma trincheira de fogo",
+        "Um terremoto de grandes proporções",
+        "Afogamento em uma grande enchente"
+      ],
+      "answer": "Inundação causada pelo rompimento de uma barragem"
+    },
+    "location": {
+      "label": "Localização chave",
+      "options": [
+        "A barragem de Ma'rib",
+        "Monte Sinai",
+        "A Caverna dos Sete Adormecidos",
+        "A Sarça Ardente",
+        "A Divisão do Mar"
+      ],
+      "answer": "A barragem de Ma'rib"
+    },
+    "outcome": {
+      "label": "Nosso destino",
+      "options": [
+        "Dois jardins amargos substituíram os nossos jardins exuberantes.",
+        "Nossos jardins ficaram ainda mais exuberantes.",
+        "A terra afundou sob o mar.",
+        "Fomos soterrados por cinzas vulcânicas.",
+        "Nossa nação se dividiu em doze tribos."
+      ],
+      "answer": "Dois jardins amargos substituíram os nossos jardins exuberantes."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

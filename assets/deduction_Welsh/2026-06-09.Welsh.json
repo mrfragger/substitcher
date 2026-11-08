@@ -1,0 +1,61 @@
+{
+  "title": "Y Galwr Diysgog i'r Gwirionedd",
+  "intro": "Mae negesydd yn sefyll ar ei ben ei hun ymhlith pobl ystyfnig, yn eu galw at yr Un Duw Gwir tra eu bod yn parhau i fod ynghlwm wrth eilunod ffug. Mae'r proffwyd hwn yn dwyn enw sy'n atseinio ag ystyr pwerus—'yr un sy'n ceisio amddiffyniad'—ond dim ond gwrthod a gwadu y mae'n ei dderbyn. Trwy berswâd ysgafn a rhybudd cadarn, mae'r enaid hwn yn cario neges ddwyfol y bydd y bydysawd ei hun yn y pen draw yn ei chyfiawnhau. A allwch chi adnabod y ffigur diysgog hwn sy'n cynrychioli un o'r naratifau hynaf yn ysgrythur Islamaidd?",
+  "clues": [
+    "Roedd fy mhobl yn addoli llawer o dduwiau, tra roeddwn i'n eu galw i wasanaethu'r Un a greodd y nefoedd a'r ddaear.",
+    "Safais o flaen fy nghenedl a datgan na fyddwn yn ceisio unrhyw wobr ganddynt—fy unig awydd oedd eu harwain i gyfiawnder.",
+    "Anfonwyd gwynt mawr ar fy mhobl fel cosb ddwyfol, gwynt y mae'r Coran yn sôn amdano mewn ffurfiau lluosog a benywaidd.",
+    "Yn wahanol i rai proffwydi, ni chefais wraig na phlant a grybwyllir yn amlwg yn fy naratif, oherwydd fy nghenhadaeth oedd galw fy mhobl yn unig.",
+    "Mae gan fy enw ystyr dwfn—sy'n gysylltiedig â'r cysyniad o amddiffyniad a lloches y mae rhywun yn ei geisio.",
+    "Roedd fy mhobl yn cael eu hadnabod gan derm daearyddol penodol am y dyffryn yr oeddent yn byw ynddo, a disgrifiwyd eu tir gyda dirmyg arbennig am ei ddiffyg llystyfiant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Hud",
+        "Proffwyd Salih",
+        "Proffwyd Shu'aib",
+        "Proffwyd Nuh",
+        "Proffwyd Hudayb"
+      ],
+      "answer": "Proffwyd Hud"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Llifogydd y ddaear",
+        "Y gwynt poeth",
+        "Daeargryn y dinistr",
+        "Y sychder a'r newyn",
+        "Y boddi yn y môr"
+      ],
+      "answer": "Y gwynt poeth"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Dyffryn ffrwythlon Yemen",
+        "Anialwch tywodlyd Midian",
+        "Dyffryn creigiog y Thamud",
+        "Tir hynafol pobl yr 'Ad",
+        "Rhanbarth arfordirol yr Aifft"
+      ],
+      "answer": "Tir hynafol pobl yr 'Ad"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Edifarhaodd fy mhobl a mynd i mewn i baradwys",
+        "Ni oroesodd yr un o'm pobl y gosb",
+        "Cefais fy nghynnal yn fyw fel fy mrawd Yunus",
+        "Ymfudais gyda fy nilynwyr i wlad fendigedig",
+        "Dim ond yr anghredinwyr a ddinistriodd y gwynt tra bod credinwyr wedi goroesi"
+      ],
+      "answer": "Ni oroesodd yr un o'm pobl y gosb"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

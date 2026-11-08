@@ -1,0 +1,61 @@
+{
+  "title": "Hondar azpiko udaberria",
+  "intro": "Koranaren analetan, pazientzia izugarria zuen pertsonaia batek bihotz ausartenak ere hautsiko zituen proba bati aurre egin zion. Dena kendu zioten: aberastasuna, familia eta osasuna. Hala ere, etsipen sakonetik, otoitz xume bati erantzun zioten modu ustekabean. Identifika al dezakezu arima hau, zeinaren zaharberritzearen istorioak aroetan zehar oihartzuna duen?",
+  "clues": [
+    "Hain proba gogor batekin probatu ninduten, ezen mendeetan zehar gogoratuko baita.",
+    "Garrantzitsua zen guztia galdu nuen: nire aberastasuna, nire seme-alabak eta nire osasuna.",
+    "Nire gorputza zauri mingarriz estalita zegoen, eta guztiek baztertzen ninduten.",
+    "Nire etsipenean, Ala-ri dei egin nion, Satanek zailtasun eta atsekabearekin ukitu ninduela esanez.",
+    "Ala-k erantzun zidan eta oinarekin lurra jotzeko agindu zidan.",
+    "Leku hartatik bertatik, iturburu fresko bat sortu zen, eta Ala-k nire familia leheneratu zuen eta erruki bikoitz gisa bikoiztu egin zituen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ayyub profeta",
+        "Musa profeta",
+        "Ilyas profeta",
+        "Sulayman profeta",
+        "Dawud profeta"
+      ],
+      "answer": "Ayyub profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gaixotasun larria eta familiaren eta aberastasunaren galera",
+        "Balea handi batek irentsi izana",
+        "Meka hiritik erbesteratua",
+        "Putzu sakon batean espetxeratuta",
+        "Agintari harroputz batekin aurrez aurre"
+      ],
+      "answer": "Gaixotasun larria eta familiaren eta aberastasunaren galera"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Udaberri fresko bat lurretik",
+        "Txalupa bat uholde handi baten gainean",
+        "Itsasoa zatitu zuen makila bat",
+        "Kristalezko tronu altxatu bat",
+        "Lo egiteko hormaz inguratutako kobazulo bat"
+      ],
+      "answer": "Udaberri fresko bat lurretik"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Familia eta aberastasuna berreskuratu eta bikoiztu egin ziren",
+        "Arrain baten sabeletik irten",
+        "Ur zatituen bidezko bidaia segurua",
+        "Erreinua gobernatzeko emana.",
+        "Seme baten jaiotza miragarria zahartzaroan"
+      ],
+      "answer": "Familia eta aberastasuna berreskuratu eta bikoiztu egin ziren"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

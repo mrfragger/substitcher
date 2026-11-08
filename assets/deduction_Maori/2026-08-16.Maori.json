@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo Mārire i roto i te Rūma",
+  "intro": "I rangona te inoi i roto i te marino o tētahi rūma tapu i ngā rā o mua, e ara ake ana i tētahi wairua kua koroheketia e hiahia ana ki ngā mea i kīia e te ao kāore e taea. Ko tēnei tangata, kua koroheketia, kua taumaha hoki i te manukanuka mō te heke mai, ka tahuri ki tō rātou Ariki me tētahi inoi whaiaro. Ko te mea i whai ake ko tētahi whakautu atua i whakahē i ngā tumanakohanga taiao katoa—he tohu ki te aroha o te Mea e whakautu ana i te karanga matekiri.",
+  "clues": [
+    "I karanga ahau ki tōku Ariki i te wāhi ngaro, ka hoki atu ki tētahi rūma i whakatapua ai ahau ki te karakia ki a Ia.",
+    "I whaki ahau ki tōku Ariki i wehi ahau mō te hunga e haere mai ana i muri i ahau, i manukanuka hoki mō te arataki a tōku iwi ina wehe atu ahau.",
+    "Kua koroheke ahau—kua ngoikore ōku wheua, kua horapa hoki ngā makawe mā o tōku mahunga.",
+    "He pakoko taku hoa rangatira i tōna oranga katoa, heoi i inoi tonu ahau ki tōku Ariki kia homai he uri ki ahau i roto i tōna aroaro.",
+    "I tono ahau i tētahi tohu, ā, ka whakahoki mai tōku Ariki mā te aukati i ahau kia kaua e kōrero ki tētahi mō ngā pō e toru, i ahau e ora ana.",
+    "I whakaaria mai ki ahau he tama māku, ko Yahya tōna ingoa, he ingoa i kīia e tōku Ariki kāore anō kia hoatu ki tētahi i mua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Hakaraia",
+        "Poropiti a Noa",
+        "Poropiti a Mohi",
+        "Poropiti a Yusuf",
+        "Poropiti a Rawiri"
+      ],
+      "answer": "Poropiti Hakaraia"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te inoi mō tētahi uri i te kaumātuatanga me tētahi hoa rangatira pakoko",
+        "Ka makaia ki roto i te ahi mura",
+        "Te horomia e te ika nui i te pōuri",
+        "Te manawanui ki te ngaronga o te whānau, te taonga, me te hauora",
+        "Te whakahaunga kia hanga he āka nui"
+      ],
+      "answer": "Te inoi mō tētahi uri i te kaumātuatanga me tētahi hoa rangatira pakoko"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te rūma inoi (mihrab)",
+        "He tokotoko i huri hei nakahi",
+        "He āaka rakau nui",
+        "He māra me te puna ahurei",
+        "He maunga i huihui ai ngā manu"
+      ],
+      "answer": "Te rūma inoi (mihrab)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakawhiwhia he tama i tapaina he ingoa whakamiharo ahakoa tōna koroheketanga",
+        "I whakaorangia i te ahi mura e te whakahau a te Atua",
+        "I whakangaromia te hunga whakaponokore e te waipuke nui",
+        "Ka whakahokia ki te whānau, ki te taonga, me te hauora i muri i te manawanui",
+        "I toremi a Parao rātou ko tana ope taua ki te moana"
+      ],
+      "answer": "I whakawhiwhia he tama i tapaina he ingoa whakamiharo ahakoa tōna koroheketanga"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

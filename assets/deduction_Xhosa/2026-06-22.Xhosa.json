@@ -1,0 +1,61 @@
+{
+  "title": "Ikholwa Elifihliweyo",
+  "intro": "Kwiiholo zamandla ezidumileyo, apho ukungakholwa nogonyamelo kwakulawula khona, ilizwi elilodwa lenyaniso lathetha livela kwindawo engalindelekanga. Lo mntu wacela umngeni kwigunya lokukhusela isithunywa, ebeka ukhuseleko lwaso emngciphekweni ukuze sivakalise inyaniso.",
+  "clues": [
+    "Ndandihlala kwilizwe elinobundlongondlongo obukhulu, ndikhonza umlawuli owayesithi ndinguThixo.",
+    "Ndazifihla iinkolelo zam zokwenyani kangangeminyaka emininzi, ndisoyika imiphumo yokuzityhila.",
+    "Xa kufika umthunywa onemiqondiso ecacileyo, ndakholwa, kodwa abantu bam baceba ukumchasa.",
+    "Ndema phambi komlawuli okhohlakeleyo kunye nebhunga lakhe, ndisithi akufanele babulale umthunywa ongenatyala.",
+    "Ndabalumkisa ngesohlwayo seentlanga zangaphambili ezazingayamkeli inyaniso, njengabantu bakaNowa no-'Ad.",
+    "U-Allah wandisindisa kwiindlela zabo ezimbi, ndaza ndabona ukutshatyalaliswa kolawulo olucinezelayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Ikholwa Losapho LukaFaro",
+        "Ingcali yemilingo kaFaro",
+        "Igosa likaFaro",
+        "Umfazi kaFaro",
+        "Umgcini-mali kaFaro"
+      ],
+      "answer": "Ikholwa Losapho LukaFaro"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukukhusela umprofeti ekubulaweni",
+        "Ukuchasa amaqhinga omlingo",
+        "Ukwakha inqaba yokufikelela esibhakabhakeni",
+        "Ukwahlula ulwandle ukuze kuphunyuke",
+        "Ukutolika iphupha lenkosi"
+      ],
+      "answer": "Ukukhusela umprofeti ekubulaweni"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Inkundla kaFaro",
+        "Isihlahla esitshayo",
+        "Ithole legolide",
+        "Umthombo waseMadyan",
+        "Ityeya yoMprofeti uNuh"
+      ],
+      "answer": "Inkundla kaFaro"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukusindiswa kwingozi ngelixa abacinezeli babetshatyalaliswa",
+        "Waba ngumlawuli onamandla",
+        "Waphoswa emlilweni waza waphuma engenakwenzakala",
+        "Yaginywa ngumhlaba",
+        "Wazulazula entlango iminyaka engamashumi amane"
+      ],
+      "answer": "Ukusindiswa kwingozi ngelixa abacinezeli babetshatyalaliswa"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

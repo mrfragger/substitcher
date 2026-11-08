@@ -1,0 +1,61 @@
+{
+  "title": "Ang Manunugtog na May Balahibo",
+  "intro": "Sa loob ng isang kahariang pinamumunuan ng isang taong pinagkalooban ng kapangyarihan sa mga hangin, sa mga di-nakikitang nilalang, at sa mga nilalang sa kalangitan, isang maliit at mabilis na miyembro ang nawala mula sa hanay — para lamang bumalik na may dalang mga rebelasyon na humuhubog muli sa kapalaran ng isang malayong bansa. Ang matalas na tagapagbalitang ito ang naglantad ng katotohanan kung saan nag-ugat ang kamangmangan. Sino Ako?",
+  "clues": [
+    "Naglingkod ako sa isang korte kung saan ang mga tao, mga di-nakikitang nilalang, at mga nilalang sa kalangitan ay sumasagot sa iisang matalinong pinuno na siyang nag-uutos sa mismong mga hangin.",
+    "Ako ay lumiban sa aking pwesto nang ilang panahon, at ipinangako ang poot ng pinuno kung hindi ako makapagbibigay ng kasiya-siyang dahilan.",
+    "Ako ay isang maliit na nilalang na lumilipad, kilala sa matalas na paningin, at ang aking kauri ay pinarangalan ng direktang pagpapangalan sa mga pahina ng rebelasyon.",
+    "Pagbalik ko, may dala akong balita tungkol sa isang malayong lupain kung saan ang mga tao ay nagpatirapa sa araw, bulag sa Isa na lumikha ng langit at lupa.",
+    "Natagpuan ko ang isang babaeng namumuno sa isang dakilang kaharian, nakaupo sa isang maringal na trono, na hindi pa kailanman nakaalam ng katotohanan noon.",
+    "Ako ang nakatuklas sa kaharian ng Saba' at nagdala ng liham paanyaya mula sa isang propeta-hari na binigyan ng kapangyarihan sa hangin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang Hudhud (Ang Hoopoe)",
+        "Ang Langgam mula sa Lambak ni Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit ang Jinn",
+        "Isang Anghel ng Trono"
+      ],
+      "answer": "Ang Hudhud (Ang Hoopoe)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang ekspedisyon patungo sa Kaharian ng Saba' (Sheba)",
+        "Ang pakikipagtagpo sa mga salamangkero ni Paraon",
+        "Ang baha ni Propeta Noah",
+        "Ang pagkawasak ng mga Tao ng 'Ad",
+        "Ang paghahati ng Dagat na Pula"
+      ],
+      "answer": "Ang ekspedisyon patungo sa Kaharian ng Saba' (Sheba)"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Lupain ng Saba' (Sheba)",
+        "Bundok Sinai",
+        "Ang Kaban ni Propeta Noah",
+        "Ang Kweba ng Ashab al-Kahf",
+        "Ang Palasyo ng Paraon"
+      ],
+      "answer": "Ang Lupain ng Saba' (Sheba)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Sumuko si Bilqis sa korte ni Sulaiman",
+        "Nalunod sa dagat ang Paraon at ang kanyang hukbo",
+        "Ang mga tao ng 'Ad ay nawasak ng isang malakas na hangin",
+        "Naniwala ang mga salamangkero ni Paraon kay Propeta Musa",
+        "Isang malaking baha ang tumupok sa mga hindi naniniwala"
+      ],
+      "answer": "Sumuko si Bilqis sa korte ni Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

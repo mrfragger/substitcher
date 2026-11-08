@@ -1,0 +1,61 @@
+{
+  "title": "Oztopoen eraikitzailea.",
+  "intro": "Lur zabaletan zehar, pertsona boteretsu batek hainbat espedizio egin zituen, autoritate eta baliabide izugarriak emanez. Arima honek komunitate anitzak ezagutu zituen eta erronka bereziei aurre egin zien, historian eta fedean arrasto iraunkorra utziz bere ekintzen eta jakinduriaren bidez, aldi berean bere indarraren benetako iturria aitortuz.",
+  "clues": [
+    "Dena gaineko boterea eta baliabideak eman zizkidaten, eta bide bati jarraitu nion.",
+    "Nire bidaiak eguzkia sartzen den lekura eraman ninduen, eta han herri bat aurkitu nuen.",
+    "Bi mendiren artean bizi zen ia ez zen hizkuntza ulertzen zuen komunitate batekin egin nuen topo.",
+    "Hesi bat eraikitzeko eskatu zidaten, ez irabazi pertsonalerako, baizik eta indar suntsitzaile baten aurka babesteko.",
+    "Adierazi nuen harresi erraldoi hau eraikitzeko indarra Ala-rengandik zetorrela, eta agindutako denbora bateraino zutik egongo zela.",
+    "Nire izenak, askotan 'Bi Adarduna' bezala itzulita, mundu osoan edo agian bi aro desberdinetan dudan irismena adierazten du."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musa profeta",
+        "Sulayman profeta",
+        "Dhul-Qarnayn",
+        "Faraoia",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Errebelazioa jasotzea",
+        "Tirano bati aurre egitea",
+        "Itsasontzi handi bat eraikitzen",
+        "Hesi indartsu bat eraikitzen",
+        "Arrain batek irentsi izana"
+      ],
+      "answer": "Hesi indartsu bat eraikitzen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Burdinezko Hesia",
+        "Nilo ibaia",
+        "Tronua"
+      ],
+      "answer": "Burdinezko Hesia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Uholdeetatik salbatzea",
+        "Erresuma handi bat bihurtzea.",
+        "Herri baten babesa.",
+        "Zapaltzaile baten suntsipena.",
+        "Iraunkorra den jakinduria"
+      ],
+      "answer": "Herri baten babesa."
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

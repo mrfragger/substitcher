@@ -1,0 +1,61 @@
+{
+  "title": "Yer kürəsinin qucağı",
+  "intro": "Böyük sınaqlar dövründə tanınmış bir şəxsə böyük dünyəvi bolluq, minnətdarlıq və təvazökarlıq sınağı verildi. Bu şəxsiyyətin səyahəti maddi varlıqların keçici təbiəti və təkəbbürün nəticələri haqqında dərin bir dərs rolunu oynayır. Hekayəsi altımızda torpağa həkk olunmuş bu ruhun kimliyini kəşf edin.",
+  "clues": [
+    "Mən böyük bir elçinin rəhbərlik etdiyi bir qövm arasında yaşayırdım.",
+    "Allah mənə o qədər böyük sərvət bəxş etdi ki, xəzinələrimin açarları bir çox güclü insan üçün ağır bir yük idi.",
+    "Mənim qövmüm var-dövlətimi bilərək mənə Allahın mənə verdiyi şeylərlə axirət yurdunu axtarmağı və dünyadakı payımı unutmamağı və Allahın mənə yaxşılıq etdiyi kimi yaxşılıq etməyi tövsiyə etdi.",
+    "Mən təkəbbürlə elan etdim ki, böyük sərvətim yalnız öz biliyim və səylərim sayəsində qazanılıb və ilahi lütfdən imtina etdim.",
+    "Məndən Allahın nemətlərini qəbul etmək və ya ianə etmək istənildikdə, qürurla imtina etdim, çünki mallarımın yalnız mənim olduğuna inanırdım.",
+    "Mənim həddindən artıq təkəbbür və zülmüm nəticəsində Allah yerə məni və evimi udmağı əmr etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Firon",
+        "İblis",
+        "Haman",
+        "Əbu Ləhəb",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Oda atılmaq",
+        "Dənizdə boğulmaq",
+        "Bağdan sürgün edilmək",
+        "Meymuna çevrilmək",
+        "Torpaq tərəfindən udulmaq"
+      ],
+      "answer": "Torpaq tərəfindən udulmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qızıl buzov",
+        "Qüdrətli bir gəmi",
+        "Danışan quş",
+        "Möcüzəvi bir əsa",
+        "Böyük xəzinələr və açarlar"
+      ],
+      "answer": "Böyük xəzinələr və açarlar"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Böyük bir hökmdar olmaq",
+        "İlahi vəhy almaq",
+        "Göylərə qalxmaq",
+        "Uzun bir dindarlıq həyatı yaşamaq",
+        "Təkəbbür üzündən tamamilə məhv olmaq"
+      ],
+      "answer": "Təkəbbür üzündən tamamilə məhv olmaq"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

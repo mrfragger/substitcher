@@ -1,0 +1,61 @@
+{
+  "title": "Kušnja uporne duše",
+  "intro": "Duša stoji u trenutku božanskog iskušenja, tražeći vodstvo s poniznom upornošću. Onaj koji sve zna odbija ovog tragatelja, samo da bi kasnije otkrio da je to bilo iskušenje srca. Kroz ovu tajanstvenu razmjenu, lekcija o božanskoj mudrosti otkriva se pred onima koji razmišljaju. Možete li prepoznati ovaj lik iz kur'anske pripovijesti?",
+  "clues": [
+    "Tražio sam znanje i uputu od voljenog Allahovog Poslanika",
+    "Došao sam tražeći istinu, pozivajući se na Poslanika s iskrenom željom",
+    "Bio sam ukoren i okrenut, jer je Allahova mudrost imala druge planove za taj trenutak.",
+    "Ipak nisam očajavao - umjesto toga, nastavio sam tražiti",
+    "Onaj koji sve zna proglasio je ovo kušnjom srca i upozorenjem",
+    "Bio sam među onima o kojima Kuran otkriva: 'Namrštio se i okrenuo, jer mu je došao slijepac.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Licemjer koji traži sumnju",
+        "Slijepi tragač za istinom",
+        "Kipar-obožavatelj Meke",
+        "Nevjernik ismijava Poslanika",
+        "Putnik iz Jemena"
+      ],
+      "answer": "Slijepi tragač za istinom"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti ukoren od strane proroka Muhameda tijekom molitve",
+        "Kušanje suše i gladi u Meki",
+        "Biti odbijen na vratima raja",
+        "Biti odbačen od vlastitog naroda zbog vjere",
+        "Biti iskušavan bogatstvom i djecom"
+      ],
+      "answer": "Biti ukoren od strane proroka Muhameda tijekom molitve"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Unutar Kabe tijekom sezone hodočašća",
+        "U prisutnosti Poslanika tijekom recitiranja",
+        "Na vrhu planine Safa u jutarnjim satima",
+        "Na tržnici u Meki okruženi nevjernicima",
+        "Blizu bunara Zemzem tijekom hadža"
+      ],
+      "answer": "U prisutnosti Poslanika tijekom recitiranja"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Tragatelja su Kurejšije ubile zbog vjere.",
+        "Događaj je zabilježen kao iskušenje i lekcija za Ummet.",
+        "Tragatelj je postao pratilac i vođa",
+        "Bogatstvo tragatelja se udeseterostručilo",
+        "Tragatelj se vratio u nevjericu"
+      ],
+      "answer": "Događaj je zabilježen kao iskušenje i lekcija za Ummet."
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

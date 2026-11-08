@@ -1,0 +1,61 @@
+{
+  "title": "Ruhu Mai Tsanani a Gaɓar Kogi",
+  "intro": "An ɗora wa wani matashi rai wani aiki na sirri, don ya lura daga nesa yayin da ƙaddara ke bayyana a kan ruwa. Ba a gani ko kuma ba a yi zato ba, wannan mutum zai taka muhimmiyar rawa wajen canza tarihin wata ƙasa.",
+  "clues": [
+    "Mahaifiyata ta ba ni aiki, wanda ke buƙatar ɓoye sirri da taka tsantsan.",
+    "Idanuna na bin ƙaramin gadon jariri da ke shawagi a kan ruwan, zuciyata cike da damuwa.",
+    "Da wani liyafa ya same shi, sai na matso kusa, cike da tsoro.",
+    "Na ga yadda suke cikin matsananciyar damuwa game da mai kula da su kuma na bayar da mafita ba tare da na bayyana gaskiya ba.",
+    "Shiga ta cikin gaggawa ta dawo da wata rai mai shayarwa zuwa ga wanda ya fi buƙatarta.",
+    "A cikin kotunan masu iko, na yi magana: 'Shin zan nuna muku iyali da za su ciyar da shi su kuma kula da shi da kyau?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "'Yar'uwar Musa",
+        "Mahaifiyar Musa",
+        "Matar Fir'auna",
+        "Ungozoma",
+        "'Yar Shu'aib"
+      ],
+      "answer": "'Yar'uwar Musa"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Jefar da yaro cikin kogi",
+        "Rabuwar teku",
+        "Ƙonewar ɗan maraƙin",
+        "Gina jirgin",
+        "Annobar fari"
+      ],
+      "answer": "Jefar da yaro cikin kogi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kogin",
+        "Hamada",
+        "Dutsen",
+        "Fadar",
+        "Wutar"
+      ],
+      "answer": "Kogin"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ta sake haɗa yaron da mahaifiyarsa",
+        "Ta ceci kanta daga hannun sojojin Fir'auna",
+        "Ta zama sarauniya",
+        "An hukunta ta saboda leƙen asiri",
+        "Ta jagoranci Isra'ilawa"
+      ],
+      "answer": "Ta sake haɗa yaron da mahaifiyarsa"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

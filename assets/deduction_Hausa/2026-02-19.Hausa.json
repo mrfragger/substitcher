@@ -1,0 +1,61 @@
+{
+  "title": "Wauta ta Babban Buri",
+  "intro": "Ku shiga tafiya don gano asalin wata ƙungiya mai haɗin gwiwa wacce shirye-shiryenta masu ƙarfin hali suka gamu da ƙarshenta mai ƙarfi ba zato ba tsammani. Wannan labarin ya zama abin tunatarwa mai zurfi game da ikon allahntaka da raunin ikon duniya lokacin da yake adawa da tsarki. Ku bayyana asirin wannan ƙungiya, wacce labarinta ya kasance a cikin Alƙur'ani a matsayin gargaɗi ga duk waɗanda ke neman yin laifi.",
+  "clues": [
+    "Mun yi babban buri, mun yi imanin cewa ƙarfinmu ba zai misaltu ba, muka fara tafiya da manufa mai bayyananniyar manufa mai halakarwa.",
+    "Shugabanmu, cike da girman kai, ya nemi ya ƙazantar da wani gida mai tsarki da mutane da yawa ke girmamawa, yana nufin karkatar da aikin hajji zuwa wani gini da muka gina.",
+    "Daga wata ƙasa mai nisa, mun yi tafiya da babbar runduna, muna da yakinin cewa za mu iya wargaza tsohon ginin da ke cikin Birnin Mai Tsarki.",
+    "Rundunarmu ta kasance mai ƙarfi, tana ƙarƙashin jagorancin halittu masu ban mamaki, abin da ba kasafai ake gani ba a irin wannan yaƙin da mazauna ƙasar da muka mamaye.",
+    "Da muka isa inda muke, sai wani abu mai kama da Allah ya faru; ƙananan halittu masu fuka-fuki suka bayyana, suna jifan mu da duwatsu na yumbu da aka gasa.",
+    "Duk tafiyarmu ta ƙare da mummunar ƙarshe, ta bar ƙarfinmu mai ƙarfi ya lalace gaba ɗaya, kamar ciyawar da aka tauna, babban shirinmu ya koma ƙura."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Samudawa",
+        "Mutanen 'Ad'",
+        "Mutanen Saduma",
+        "Mutanen Giwa",
+        "Mutanen Lambun"
+      ],
+      "answer": "Mutanen Giwa"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Babban Ruwan Tsufa",
+        "Yaƙin neman zaɓe a kan Ka'aba",
+        "Lalacewar Gumaka",
+        "Raba Teku",
+        "Girgizar Ƙasa ta Midiya"
+      ],
+      "answer": "Yaƙin neman zaɓe a kan Ka'aba"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Ma'aikatan",
+        "Ka'aba",
+        "Ɗan Maraƙin Zinare",
+        "Wutar"
+      ],
+      "answer": "Ka'aba"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ceton Allah",
+        "Tsawon lokaci na wadata",
+        "Musulunta zuwa Musulunci",
+        "Halaka ta gaba ɗaya",
+        "Korarsu daga ƙasarsu"
+      ],
+      "answer": "Halaka ta gaba ɗaya"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

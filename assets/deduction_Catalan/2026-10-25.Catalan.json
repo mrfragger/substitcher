@@ -1,0 +1,61 @@
+{
+  "title": "La queixa escoltada per sobre del soroll",
+  "intro": "Sents una veu que s'eleva d'una societat on l'opressió s'ha convertit en rutina. Cap demostració de poder respon a la queixa; en canvi, una crida directa arriba a Al·là, i la resposta colpeja el cor mateix del culte. Qui va fer aquesta queixa, quina pregunta va seguir i quina veritat es va afirmar?",
+  "clues": [
+    "Em va preocupar l'opressió de la gent que m'envoltava.",
+    "Vaig expressar aquesta queixa directament a Al·là en una queixa personal.",
+    "Al·là va escoltar la queixa i va respondre amb un desafiament sobre la meva pròpia creença.",
+    "La resposta preguntava com podia no creure en Al·là, que és l'Ú i el Suprem.",
+    "Aleshores vaig preguntar per què Al·là havia d'afavorir un poble que era incrèdul.",
+    "Sóc Uzair, anomenat a la sura Az-Zukhruf com aquell la queixa del qual Al·là va escoltar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Uzair",
+        "El company que va navegar en la gran inundació",
+        "El servent que va caminar sobre l'aigua",
+        "El dorment protegit dins d'una cova",
+        "El servent que va portar pedres a un riu"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Queixar-se a Al·là sobre l'opressió del poble",
+        "Caminant sobre l'aigua durant una tempesta",
+        "Portant pedres a un riu que no tenia aigua",
+        "Navegant a través d'una gran inundació a bord de l'Arca",
+        "Rebre la clau d'un tresor immens"
+      ],
+      "answer": "Queixar-se a Al·là sobre l'opressió del poble"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una queixa directa adreçada a Al·là",
+        "Un bastó que es va convertir en una serp",
+        "Un forn fet fresc i tranquil",
+        "Una arca flotant sobre les aigües del diluvi",
+        "Un peix que s'empassa un servent"
+      ],
+      "answer": "Una queixa directa adreçada a Al·là"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Al·là va escoltar la queixa i va afirmar la Unicitat divina i el Senyoriu Suprem",
+        "Caminar amb seguretat sobre l'aigua durant una tempesta",
+        "Travessant una gran inundació amb seguretat a bord de l'Arca",
+        "Recuperant la vista dins d'un palau d'arrogància",
+        "Rebent domini que s'estén d'est a oest"
+      ],
+      "answer": "Al·là va escoltar la queixa i va afirmar la Unicitat divina i el Senyoriu Suprem"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

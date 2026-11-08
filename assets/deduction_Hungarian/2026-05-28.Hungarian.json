@@ -1,0 +1,61 @@
+{
+  "title": "A rendíthetetlen türelmes",
+  "intro": "A prófétai történelem krónikáiban kevesen éltek át ilyen mély veszteséget és fizikai megpróbáltatást rendíthetetlen hittel. Ennek az alaknak a története időtlen lecke a türelemről és az isteni bölcsességbe vetett bizalomról. Ki ez a lélek?",
+  "clues": [
+    "Allah engem választott ki, hogy üzenetet vigyek, de a legnagyobb próbatételem nem az elutasítás, hanem a személyes szerencsétlenség volt.",
+    "Vagyonomat, állataimat és gyermekeimet elvették tőlem, egyiket a másik után.",
+    "A testem tele volt sebekkel, és egyedül maradtam, leszámítva a házastársam támogatását.",
+    "Felkiáltottam az Úrhoz, elismertem szenvedésemet és kerestem az Ő irgalmát.",
+    "Azt az utasítást kaptam, hogy üssek a földre a lábammal, és egy üdítő forrás tört fel belőlem.",
+    "Allah helyreállította az egészségemet, új családot és még több vagyont adott nekem, mint azelőtt volt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ayyub próféta",
+        "Ibrahim próféta",
+        "Mózes próféta",
+        "Isa próféta",
+        "Nuh próféta"
+      ],
+      "answer": "Ayyub próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Vagyon és család elvesztése",
+        "Tűzbe dobva",
+        "Egy hal lenyeli",
+        "Elszakítva a családtól és rabszolgának eladva",
+        "Aranyborjúval próbára téve"
+      ],
+      "answer": "Vagyon és család elvesztése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy forrásvíz",
+        "Egy kígyóvá változott személyzet",
+        "Egy fából készült bárka",
+        "Egy olvadt borjú",
+        "Egy pálmafa"
+      ],
+      "answer": "Egy forrásvíz"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A család és a vagyon helyreállítása",
+        "Felemelkedés a mennybe",
+        "Királyrá válni",
+        "Megmentés egy bálnától",
+        "Fiú születése idős korban"
+      ],
+      "answer": "A család és a vagyon helyreállítása"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

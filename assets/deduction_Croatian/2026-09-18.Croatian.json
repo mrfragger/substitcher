@@ -1,0 +1,61 @@
+{
+  "title": "Poziv iz Svete doline",
+  "intro": "Iza stranica povijesti leži priča o duši koja je stajala između moćnog vladara i cijelog porobljenog naroda. Ova osoba bila je pozvana da oslobodi naciju od tiranije, čineći čuda koja su prkosila svakom prirodnom zakonu. Od svetog brda do čuda na vodi, ovaj Allahov sluga svjedočio je znakovima koji će odjekivati ​​kroz stoljeća. Vaš je današnji zadatak prepoznati ovu izvanrednu osobu čije je nasljeđe oblikovalo tijek ljudske povijesti.",
+  "clues": [
+    "Rođen sam u vrijeme kada se moj narod suočio sa smrtonosnom odredbom, a moja obitelj me stavila u vode kako bi mi spasila život.",
+    "Pronađen sam i odrastao u samom kućanstvu vladara koji je naredio smrt moje vrste.",
+    "Pobjegao sam na svetu goru gdje sam vidio vatru na drvetu koja nije izgorjela, i glas mi je progovorio iz njega.",
+    "Bio sam poslan natrag tom istom vladaru s čudima, zahtijevajući slobodu svog porobljenog naroda.",
+    "Udario sam more svojim štapom i ono se razdvojilo u suhe staze, gutajući progonitelje koji su slijedili moj narod.",
+    "Četrdeset noći sam razgovarao sa svojim Gospodarom na gori i bile su mi dane ploče božanskog vodstva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Musa",
+        "Prorok Harun",
+        "Poslanik Ibrahim",
+        "Poslanik Jusuf",
+        "Poslanik Davud"
+      ],
+      "answer": "Poslanik Musa"
+    },
+    "trial": {
+      "label": "Moje presudno iskušenje",
+      "options": [
+        "Razdvajanje mora",
+        "Izgradnja Velike arke",
+        "Kušnja plamtećom vatrom",
+        "Zatvorenost u kitovom trbuhu",
+        "Zatvaranje od strane egipatskog dužnosnika"
+      ],
+      "answer": "Razdvajanje mora"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Pastirski štap",
+        "Velika drvena arka",
+        "Špilja u kojoj je vrijeme spavalo",
+        "Vrt s dva izvora",
+        "Prijestolje ukrašeno zlatom"
+      ],
+      "answer": "Pastirski štap"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Moj narod je prešao more na sigurno",
+        "Velika poplava uništila je nevjernike",
+        "Tiraninova vatra postala je hladna i mirna",
+        "More je bacilo svog zarobljenika na obalu",
+        "Zarobljenik je postao rizničar Egipta"
+      ],
+      "answer": "Moj narod je prešao more na sigurno"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "yulduzli yorug'likdagi aniqlik izlash",
+  "intro": "Keng tungi osmon ostida turib, yorqin chiroqlarning ko'tarilishini va keyin so'nib borayotganini, chinakam sadoqatga loyiq narsalarni qidirayotganingizni tasavvur qiling. Atrofingizda jimgina o'yilgan tasvirlar maqtov va qurbonliklar oladi, ammo aniq sabab ularning kuchini shubha ostiga qo'yadi. Qo'rqmas ovoz meros bo'lib o'tgan an'analarga qarshi chiqib, osmon va yerning Yaratuvchisiga ishora qilmoqchi.",
+  "clues": [
+    "Men yulduzlarga, oyga va quyoshga qaradim va ular botib, yo'q bo'lib ketayotgani uchun mening Rabbim bo'la olmaydi, deb o'yladim.",
+    "Men qavmim Allohdan boshqa ibodat qilgan narsalarga ochiqchasiga rad javobini berdim va ularni faqat Yaratguvchiga ibodat qilishga chaqirdim.",
+    "Men hayot va o'lim berishini da'vo qilgan maqtanchoq hukmdor bilan bahslashdim va Allohning quyoshni sharqdan keltirganini tilga olib javob berdim.",
+    "Men butlarni urib, parchalab tashladim, faqat eng kattalarini qoldirdim, toki odamlar qaytib kelishlari mumkin bo'lsin.",
+    "Meni xalqim ushlab, hukm qilishdi, ular menga bino qurib, meni alangali olovga tashlashlarini aytishdi.",
+    "Alloh olovni men uchun salqinlik va xavfsizlik bo'lishini buyurganida, men najot topdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ibrohim (Ibrohim)",
+        "Yahyo payg'ambar (Yuhanno)",
+        "Payg'ambar Al-Yasa (Elishay)",
+        "Samiri",
+        "Namrud (Nimrud)"
+      ],
+      "answer": "Payg'ambar Ibrohim (Ibrohim)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Butparastlikka qarshi chiqdi va samoviy jismlarning ma'nosi haqida bahslashdi",
+        "G'azab bilan ketganidan keyin katta baliq tomonidan yutib yuborildi",
+        "Alloh tomonidan ikkiga bo'lingan dengiz orqali izdoshlarini boshlab bordi",
+        "O'limni tatib ko'rmasdan tiriklayin osmonga ko'tarildi",
+        "Ko'p yillar davomida hamrohlari bilan g'orda uxladi"
+      ],
+      "answer": "Butparastlikka qarshi chiqdi va samoviy jismlarning ma'nosi haqida bahslashdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Alloh tomonidan salqin va xavfsiz qilib qo'yilgan alangali olov",
+        "Imonlilarni to'fondan o'tkazgan kema",
+        "Ilonga aylangan tayoq",
+        "Osmondan dasturxon yoyildi",
+        "Belgi sifatida yuborilgan urg'ochi tuya"
+      ],
+      "answer": "Alloh tomonidan salqin va xavfsiz qilib qo'yilgan alangali olov"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Olovdan himoya qildi va solih avlodlar berdi",
+        "Katta suv toshqinida inkorchilar bilan birga g'arq bo'ldi",
+        "Shabbat kunini buzgani uchun o'zgartirildi",
+        "Loy toshlarini ko'tarib yurgan qushlar tomonidan vayron qilingan",
+        "Yer xazinalar bilan yutib yuborilgan"
+      ],
+      "answer": "Olovdan himoya qildi va solih avlodlar berdi"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

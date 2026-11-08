@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanjakan'ny Rivotra sy ny Lelafo",
+  "intro": "Alaivo sary an-tsaina ny fanjakana iray izay ny rivotra mihitsy no mamaly ny fanapahana tokana, izay mitondra lanja ny feon'ireo zavaboary kely indrindra, ary izay misy hery tsy hitan'ny maso tsotra ampiasaina amim-pitandremana. Io olona io dia nandova fanjakana miavaka avy amin'ny razambeny malala, izay nampiasa fahefana tamin'ny toetr'andro sy ny jiny. Saingy nisy fahefana lehibe niaraka tamin'ny fitsapana lehibe - ary ny fotoana farany dia hampiharihary zavatra mahagaga momba ny toetran'ny fiainana sy ny fahafatesana mihitsy.",
+  "clues": [
+    "Nandova fanjakana lehibe avy amin'ny ray aman-dreny malala izay sady mpaminany no mpanompon'i Allah aho.",
+    "Nomen'Andriamanitra fahefana aho hifehy ny rivotra, ka nalefany hanao dia iray volana tao anatin'ny indray maraina.",
+    "Na dia ny zavaboary kely indrindra aza dia hiresaka momba ny fomba fanaoko, ary hijanona kely aho mba ho talanjona amin'ny fahatsiarovan-tenany.",
+    "Nitarika tafika goavana misy jiny, olombelona ary vorona aho, izay samy nilahatra tsara teo anoloako.",
+    "Nisy mpitondra lavitra tonga nitsapa ahy tamin'ny fanamby sarotra, ary nasaiko nentina teto an-dapako ny seza fiandrianan'io mpitondra io talohan'ny nahafahany nitsangana avy teo amin'ny toerany akory aza.",
+    "Nijoro ihany aho, niankina tamin'ny tehina iray, mandra-pikakiky izany tamin'ny zavaboary kely iray — ary tamin'izay fotoana izay vao takatr'ireo nanodidina ahy fa nandalo aho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Sulayman (Solomona)",
+        "Mpaminany Davida (Davida)",
+        "Mpaminany Isa (Jesoa)",
+        "Mpaminany Muhammad ﷺ",
+        "Mpaminany Musa (Mosesy)"
+      ],
+      "answer": "Mpaminany Sulayman (Solomona)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Famindrana ny seza fiandrianan'ny mpanjakavavy lavitra amin'ny alalan'ny fomba mihoatra ny natiora",
+        "Natsipy tao anaty lavadrano lalina fony mbola zaza",
+        "Mifanatrika amin'ny mpanao majika mpitondra jadona amin'ny alalan'ny famantarana mahagaga",
+        "Miteny hatrany am-bohoka mba hiarovana ny voninahitry ny reny",
+        "Mandray ny soratra masina farany nambara teo an-tendrombohitra masina"
+      ],
+      "answer": "Famindrana ny seza fiandrianan'ny mpanjakavavy lavitra amin'ny alalan'ny fomba mihoatra ny natiora"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Tehina hazo nokaikerin'ny vitsika",
+        "Sambofiara lehibe iray naorina mba handresena ny safodrano maneran-tany",
+        "Tehina niova ho menarana teo anoloan'ny mpitondra jadona",
+        "Lambam-pandriana ampiasaina hanasitranana ny jamba",
+        "Lava-bato masina izay nahazoana fanambarana voalohany"
+      ],
+      "answer": "Tehina hazo nokaikerin'ny vitsika"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nanaiky ny finoana ny mpitondra mendri-kaja iray nitsidika rehefa avy nahita famantarana",
+        "Nisy safodrano lehibe nandringana izay rehetra tao anaty sambofiara afa-tsy ireo nahatoky",
+        "Maty tao an-dranomasina ny Farao sy ny tafiny",
+        "Nasandratra ho any an-danitra ny namana marina iray",
+        "Noravana sy noravana ny mpanjaka jadona iray sy ny tanànany"
+      ],
+      "answer": "Nanaiky ny finoana ny mpitondra mendri-kaja iray nitsidika rehefa avy nahita famantarana"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Spoločník, ktorý sa odvrátil",
+  "intro": "Chystáte sa odhaliť príbeh duše, ktorá žila v tieni proroctva, no zvolila si cestu, ktorá viedla do skazy. Táto postava zdieľala domov s jedným z Alahových vyvolených poslov, ale neprešla skúškou viery. Kto je tento stratený spoločník?",
+  "clues": [
+    "Žil som medzi ľuďmi, ktorí odmietali volanie k spravodlivosti, a neprotirečil som im.",
+    "Bola som vydatá za Alahovho proroka, ale nezdieľala som jeho vieru.",
+    "Keď poslovia prišli ku mne domov s varovaním, neveril som im.",
+    "Mojej manželke bolo prikázané, aby opustila mesto s veriacimi a ja som medzi nimi nebol.",
+    "Trest zostúpil na môj ľud a ja som bol zničený spolu s nimi.",
+    "V Koráne som spomenutý ako príklad nevery, spolu s manželkou Nuha, v súre At-Tahrím."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Manželka proroka Nuha",
+        "Manželka proroka Luta",
+        "Manželka proroka Ibrahima",
+        "Manželka proroka Musu",
+        "Manželka proroka Ajjúba"
+      ],
+      "answer": "Manželka proroka Luta"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Zradila svojho manžela neverou",
+        "Odmietol posolstvo proroka Huda",
+        "Otvorene uctieval modly v Kaabe",
+        "Sprisahala sa proti poslaniu svojho manžela",
+        "Odmietla prijať proroctvo svojho syna"
+      ],
+      "answer": "Zradila svojho manžela neverou"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Mesto Sodoma",
+        "Mesto Madyan",
+        "Mesto Iram",
+        "Mesto Babylon",
+        "Mesto Jeruzalem"
+      ],
+      "answer": "Mesto Sodoma"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zachránená s manželom",
+        "Zničený s neveriacimi",
+        "Vyhnaný do ďalekej krajiny",
+        "Činil pokánie a bolo mu odpustené",
+        "Neskôr sa stal veriacim"
+      ],
+      "answer": "Zničený s neveriacimi"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

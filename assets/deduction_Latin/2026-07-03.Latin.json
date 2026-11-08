@@ -1,0 +1,61 @@
+{
+  "title": "Praeco Peccati Inauditi",
+  "intro": "Nonnullae fabulae in Corano revelant quantum corruptionis profunditatem tota societas incidere possit. Hic nuntius solus stetit, implorans populum in perversione submersum quam nulla gens ante eos umquam persecutus erat. Annis admonitionis non obstantibus, corda dura manebant, et decretum divinum modo terribilissimo pervenit. Potesne hunc nobilem nuntium Dei agnoscere?",
+  "clues": [
+    "Missus sum ut admoneret populum qui devoravit pravitatem quam nulla gens ante eos fecit.",
+    "Mei me mendacem appellaverunt et minati sunt se me et sectatores meos e terra expellere.",
+    "Ad domum meam venerunt hospites honorati, iuvenes percussores, et pro eorum salute magnum dolorem sensi.",
+    "Mei homines postulaverunt ut hospites meos sibi traderem, nescientes hos advenas angelos ab Allah missos esse.",
+    "Coniux meus fidem meam non communicavit et cum damnatis manere maluit.",
+    "Servata sum cum filiabus meis prima luce, cum imber lapidum vastans caderet et urbes nostrae everterentur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Lut",
+        "Propheta Shu'aib",
+        "Propheta Hud",
+        "Propheta Nuh",
+        "Propheta Salih"
+      ],
+      "answer": "Propheta Lut"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum diluvium terram obruit",
+        "Amissio visus ob longam patientiam",
+        "Tyrannus divinitatem sibi vindicans",
+        "In ignem ardentem coniectus",
+        "Postulati ut hospites honoratos tradant"
+      ],
+      "answer": "Postulati ut hospites honoratos tradant"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca magna manu constructa",
+        "Baculus qui mare scindit",
+        "Camelus mirabilis",
+        "Ignis ardens",
+        "Urbes eversae"
+      ],
+      "answer": "Urbes eversae"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Submersus dum fideles persequitur",
+        "Servatus ex fornace ignis incolumis",
+        "Ad caelum vivus evectus",
+        "Familia in magna inundatione periit",
+        "Familia servata praeter uxorem infidelem"
+      ],
+      "answer": "Familia servata praeter uxorem infidelem"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

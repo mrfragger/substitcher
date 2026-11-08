@@ -1,0 +1,61 @@
+{
+  "title": "Nárok na absolútnu autoritu",
+  "intro": "V dávnych dobách sa mocný jedinec povzniesol k vláde nad rozsiahlou krajinou a jej obyvateľmi. Vláda tejto postavy bola poznačená nesmiernou hrdosťou a hlbokým spochybňovaním božskej autority. Pripravte sa odhaliť identitu duše, ktorej konečný osud sa stal trvalým ponaučením pre všetky generácie.",
+  "clues": [
+    "Vládol som nad mocnou ríšou, kde moje slovo bolo zákonom.",
+    "Vyhlásil som sa za najvyššie božstvo a požadoval som uctievanie od všetkých pod mojou vládou.",
+    "Utláčal som konkrétnu komunitu, zotročoval som ich a nariaďoval som zabíjanie ich malých chlapcov.",
+    "Opakovane som sa stretával s pokorným Božím poslom, ktorý predo mnou a mojimi mágmi vykonal jasné zázraky.",
+    "Tvrdohlavo som odmietal pravdu, obvinil som posla z čarodejníctva a plánoval som zničiť jeho aj jeho nasledovníkov.",
+    "Celú moju armádu aj mňa pohltilo more, keď sme neúprosne prenasledovali tých, ktorí sa mi oslobodili z rúk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Nimrod",
+        "Abu Džahl",
+        "Iblis",
+        "Faraón",
+        "Háman"
+      ],
+      "answer": "Faraón"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Veľká potopa",
+        "Horiaci oheň",
+        "Utopenie utláčateľa",
+        "Zničenie vetrom",
+        "Zemetrasenie nevery"
+      ],
+      "answer": "Utopenie utláčateľa"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Noemova archa",
+        "Mojžišova palica",
+        "Zlatý idol",
+        "Studňa Zamzam",
+        "Trón Bilqis"
+      ],
+      "answer": "Mojžišova palica"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Udelené rozsiahle kráľovstvo",
+        "Telo zachované ako znamenie",
+        "Odpustené po pokání",
+        "Povýšený na proroctvo",
+        "Jeho ľud sa stal zbožným"
+      ],
+      "answer": "Telo zachované ako znamenie"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

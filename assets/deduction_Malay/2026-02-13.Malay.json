@@ -1,0 +1,61 @@
+{
+  "title": "Penyerahan Agung Raja",
+  "intro": "Anda mendapati diri anda berada di sebuah tanah yang penuh dengan keajaiban purba dan wahyu yang mendalam. Seorang pemerintah yang berkuasa, berhadapan dengan jemputan yang tidak dijangka, memulakan perjalanan yang akan mengubah haluan takdirnya dan kepercayaan rakyatnya. Bolehkah anda mendedahkan identiti tokoh agung ini?",
+  "clues": [
+    "Aku memerintah sebuah kerajaan yang makmur, dihiasi dengan kekayaan yang melimpah ruah dan takhta yang megah.",
+    "Aku dan kaumku menyembah benda angkasa, mempercayainya sebagai tuhan kami, walaupun aku menyimpan keraguan di hatiku.",
+    "Seorang utusan yang aneh, seekor burung, telah menyampaikan surat kepadaku, menyeru aku dan kaumku untuk berserah diri kepada Tuhan Yang Maha Esa.",
+    "Aku berunding dengan penasihat-penasihatku, yang sangat kuat, tentang bagaimana untuk menjawab mesej yang belum pernah terjadi sebelumnya ini.",
+    "Saya memutuskan untuk menghantar hadiah yang berharga kepada orang yang menghantar surat itu, dengan harapan dapat mengukur kuasa dan niatnya.",
+    "Setibanya saya, saya terpegun dengan sebuah istana yang lantainya diperbuat daripada kaca, kelihatan seperti kolam air, dan ketika itulah saya menyatakan penyerahan diri saya kepada Tuhan sekalian alam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Firaun",
+        "Ratu Sheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Nabi Yusuf"
+      ],
+      "answer": "Ratu Sheba"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Pembelahan laut",
+        "Banjir besar",
+        "Perjalanan bertemu Nabi Sulaiman",
+        "Kemusnahan kaum Luth",
+        "Pembakaran Nabi Ibrahim"
+      ],
+      "answer": "Perjalanan bertemu Nabi Sulaiman"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Bahtera",
+        "Kakitangan",
+        "Takhta",
+        "Gunung",
+        "Api"
+      ],
+      "answer": "Takhta"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Menjadi seorang nabi",
+        "Telah dimusnahkan oleh Allah",
+        "Memeluk Islam",
+        "Memimpin rakyatnya berperang",
+        "Membina sebuah kuil yang megah"
+      ],
+      "answer": "Memeluk Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

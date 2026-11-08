@@ -1,0 +1,61 @@
+{
+  "title": "Gardien yu jardin bi",
+  "intro": "Ci biir jardin bu naat, askan wi dafa def waat bu am solo. Waaye seen yéene dafa natt ginaaw bi Yàlla duggee ci seen bopp, soppi seen xéewal nekk réew mu amul doom.",
+  "clues": [
+    "Ñu barkeel nañu nu jardin bu bari, waaye nu dem ba réy.",
+    "Nu defar pexe ngir góob te baña séddoo ak néew ci doole yi.",
+    "Nu teela dem ci suba si, wóolu sunu pexe.",
+    "Waaye bi nu yegsee, nu gis ni sunu jardin dafa yàqu ci guddi gi.",
+    "Nu xam sunu njuumte, nu tàmbali ku nekk tuumal moroomam.",
+    "Nu mujjee tuub, waaye nu jàngee lu yàgg lool."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nun la kan?",
+      "options": [
+        "Nit ñi ci Jardin bi",
+        "Nit ñi ci Grotte",
+        "Nit ñi ci ñay bi",
+        "Waa Samud",
+        "Nit ñi 'Ad"
+      ],
+      "answer": "Nit ñi ci Jardin bi"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Jardin bu soppiku nekk dóóm",
+        "Mbënd mu yàq lépp",
+        "Xiif gu dal ci réew mi",
+        "Armée picc yuy song",
+        "Ngelaw lu metti luy dagg garab yi"
+      ],
+      "answer": "Jardin bu soppiku nekk dóóm"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Jardin",
+        "Grotte",
+        "Gaal",
+        "Benn tundu",
+        "ab palaas"
+      ],
+      "answer": "Jardin"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ñu tuub seen bàkkaar waaye ñàkk seen jardin",
+        "Ñu yàqu leen ba jeex .",
+        "Ñu soppi leen nekk maymu",
+        "Ñu mucc ci ngëm",
+        "Ñu nekk ay njiit"
+      ],
+      "answer": "Ñu tuub seen bàkkaar waaye ñàkk seen jardin"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "De mærkelige besøgende i en befæstede by",
+  "intro": "En gruppe ankom til portene til en by, hvis indbyggere aldrig havde kendt sandheden. De bragte et budskab, men indbyggerne blev fjendtlige og truede med vold. Alligevel rejste en enkelt stemme sig fra et uventet sted for at forsvare de fremmede og banede vejen for en dramatisk vending i begivenhederne.",
+  "clues": [
+    "Vi kom ind i en by, hvis indbyggere var opslugt af vantro.",
+    "De så mistænksomt på os og sagde: \"I er bare almindelige væsener ligesom os.\"",
+    "Vi advarede dem, men de kastede sten mod os.",
+    "En mand skyndte sig fra den fjerneste ende af byen for at bekræfte vores sandhed.",
+    "Han erklærede til sit folk: \"Hvorfor skulle jeg ikke tilbede Ham, som skabte mig?\"",
+    "Byens benægtelse sluttede med et enkelt brag, og stilhed herskede, hvor de engang hånede."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Ya-Sins budbringere",
+        "Isa's disciple",
+        "Folket i skyttegraven",
+        "Faraos magikere",
+        "Den troende på Ya-Sin"
+      ],
+      "answer": "Ya-Sins budbringere"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Afvisning og trussel om stening",
+        "At blive kastet ind i en voldsom ild",
+        "En tålmodighedsprøve med et forsvundet barn",
+        "En have der led ødelæggelse",
+        "En rejse gennem havet"
+      ],
+      "answer": "Afvisning og trussel om stening"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Den fjerneste ende af byen",
+        "Det Røde Hav",
+        "Ildens grøft",
+        "Tilflugtshulen",
+        "Fængslet i Egypten"
+      ],
+      "answer": "Den fjerneste ende af byen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Byen blev ødelagt af et enkelt råb",
+        "Havet skilte sig og druknede hæren",
+        "Ilden blev kølig og sikker",
+        "Haven blev fortæret af en himmelsk ild",
+        "Hvalen bragte personen tilbage til kysten"
+      ],
+      "answer": "Byen blev ødelagt af et enkelt råb"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

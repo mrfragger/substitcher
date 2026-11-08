@@ -1,0 +1,61 @@
+{
+  "title": "te taonga i totohu i raro i te whakapehapeha",
+  "intro": "Whakaarohia te tū i mua i ngā puranga taonga nui rawa atu, ā, mā te mau noa i ngā kī ka ngenge te rōpū tangata kaha. I tō taha, ka akiakihia koe e ngā reo kia ngākau mahaki me te maumahara, engari ka nui ake te kaha o te whakapehapeha i te whakawhetai. He aha te mea ka tupu ina huri te taonga hei whakamātautau, ā, ka hiritia te hua e te whakapehapeha?",
+  "clues": [
+    "Nō te iwi o Mōsa ahau, heoi i hara ahau ki a rātou.",
+    "I homai ki ahau he taonga nui whakaharahara, ā, ka taumaha rawa ngā kī ki aua taonga ki tētahi rōpū tangata kaha.",
+    "I tohutohungia ahau e tōku iwi kia kaua e whakamanamana, kia rapu hoki i te ao tūroa, me te kore e wareware ki taku wāhi o tēnei ao.",
+    "I kī ahau nā te mātauranga anake i homai ai ki ahau ngā mea i a au.",
+    "I haereere ahau i mua i tōku iwi me ōku whakapaipai, ā, ko te hunga e hiahia ana ki te ao nei, i hiahia rātou ki te mea rite ki taku.",
+    "I horomia ahau e te whenua me tōku whare, ā, kāore he tangata hei āwhina i ahau, kāore hoki i taea e au te āwhina i ahau anō."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Karauna",
+        "Namrud",
+        "Jalut",
+        "Āzar",
+        "Kapara"
+      ],
+      "answer": "Karauna"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakamanamana ki te taonga, ā, i whakakahore i te manaakitanga a Allah ahakoa ngā tohutohu",
+        "I werohia a Ibrahim mō te homaitanga o te ora me te mate",
+        "I ārahi i tētahi ope taua ki a Tāruta rāua ko Rawiri",
+        "Ngā whakapakoko whakairo hei karakia mā te iwi",
+        "I patua e ia tōna teina i te hae mō te whakahere"
+      ],
+      "answer": "I whakamanamana ki te taonga, ā, i whakakahore i te manaakitanga a Allah ahakoa ngā tohutohu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā kī ki ngā taonga nui whakaharahara",
+        "Te Āka o te Kawenata",
+        "He kuao kau koura o ngā whakapaipai",
+        "He pā i waenganui i ngā maunga e rua",
+        "Tekau mā tahi ngā whetū i roto i te moemoeā"
+      ],
+      "answer": "Ngā kī ki ngā taonga nui whakaharahara"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Horomia e te whenua ki te kāinga me te taonga",
+        "I toremi i te moana i a ia e whai ana i a Mōsa",
+        "I patua ki raro e te kōhatu a Rawiri",
+        "I whakangaromia e te pahūtanga nui mō te whakawhāiti i te hope o te kamera uha",
+        "I hurihia hei makimaki mō te takahi i te Hāpati"
+      ],
+      "answer": "Horomia e te whenua ki te kāinga me te taonga"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

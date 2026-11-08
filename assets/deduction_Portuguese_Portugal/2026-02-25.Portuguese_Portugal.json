@@ -1,0 +1,61 @@
+{
+  "title": "O Teste da Rocha Estéril",
+  "intro": "Uma comunidade, habilidosa e orgulhosa, esculpiu seu legado nas próprias montanhas. Mas quando um sinal claro lhes foi enviado, um teste de fé e contenção, sua arrogância os levou por um caminho sem volta. Você consegue identificar esse grupo e as consequências de sua afronta?",
+  "clues": [
+    "Éramos mestres da pedra, esculpindo magníficas moradias diretamente nas encostas das montanhas.",
+    "Um mensageiro dentre o nosso próprio povo veio até nós, chamando-nos a adorar o Único Deus Verdadeiro.",
+    "Exigimos um sinal para comprovar suas palavras, e uma criatura singular foi trazida como um teste para nós.",
+    "Recebemos uma ordem simples: compartilhar nossa fonte de água com essa criatura, deixando-a beber no dia designado.",
+    "Em nossa arrogância, alguns de nós conspiraram e desrespeitamos o aviso, abatendo a criatura que deveria ser nosso sinal.",
+    "Nos deram três dias antes de nossa morte, e então uma explosão poderosa nos atingiu em nossas casas, deixando-nos sem vida e destroçados."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Pessoas de 'Ad",
+        "Povo de Madyan",
+        "Povo de Thamud",
+        "Povo de Sabá",
+        "Povo de Lut"
+      ],
+      "answer": "Povo de Thamud"
+    },
+    "trial": {
+      "label": "Qual foi o nosso teste principal?",
+      "options": [
+        "Construindo uma arca para sobreviver a um dilúvio",
+        "Resistir à tentação de pescar no sábado",
+        "Abandonar práticas comerciais fraudulentas",
+        "Protegendo uma camela milagrosa",
+        "Suportando uma fome de sete anos"
+      ],
+      "answer": "Protegendo uma camela milagrosa"
+    },
+    "location": {
+      "label": "Qual foi o elemento central da nossa história?",
+      "options": [
+        "O Bezerro de Ouro",
+        "A Camela",
+        "O Cajado do Profeta Moisés",
+        "A Grande Barragem de Ma'rib",
+        "A mesa posta vinda do céu"
+      ],
+      "answer": "A Camela"
+    },
+    "outcome": {
+      "label": "Qual foi o nosso destino final?",
+      "options": [
+        "Afogado em um grande dilúvio",
+        "Transformados em macacos e porcos",
+        "Dominado por um vento furioso",
+        "Espalhados pelo rompimento de uma barragem",
+        "Destruído por uma forte explosão/terremoto"
+      ],
+      "answer": "Destruído por uma forte explosão/terremoto"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

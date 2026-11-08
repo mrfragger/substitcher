@@ -1,0 +1,61 @@
+{
+  "title": "Der unerschütterliche Verbündete in einem Goldprozess",
+  "intro": "Im Schatten eines großen Propheten wurde eine wortgewandte und gläubige Seele auserwählt, um bei einer gewaltigen Mission mitzuwirken. Diese Persönlichkeit blieb standhaft, als die Massen wankten, und predigte gegen einen eklatanten Verstoß, der den Kern des Monotheismus bedrohte. Als der Prophet zurückkehrte und den Abfall des Volkes miterlebte, verteidigte sich diese Persönlichkeit nicht mit Schuldgefühlen, sondern aus Pflichtgefühl und Furcht vor Spaltung. Wer ist dieser hingebungsvolle Diener Allahs?",
+  "clues": [
+    "Ich wurde von Allah für eine heilige Aufgabe neben einer anderen auserwählt, und meine Rolle bestand in der Unterstützung und Verkündigung.",
+    "Mir wurde Redefreiheit gewährt, und ich begleitete einen Boten, um einen mächtigen Unterdrücker zur Rede zu stellen.",
+    "Während einer entscheidenden Reise bestieg der Bote allein einen Berg und überließ es mir, über die Menschen zu wachen.",
+    "Während ihrer Abwesenheit fertigte das Volk ein goldenes Bild an, und ich bat sie inständig, treu zu bleiben, aber sie lehnten meinen Rat ab.",
+    "Als der Bote voller Zorn und Trauer zurückkehrte, wurde ich festgenommen. Ich erklärte ihm jedoch, dass ich überwältigt worden sei und befürchtete, Zwietracht unter ihnen zu säen.",
+    "Ich bin der Prophet, der an der Seite meines Bruders Musa stand, seine Last mit ihm teilte und standhaft gegen Götzendienst blieb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Harun",
+        "Prophet Musa",
+        "Prophet Isa",
+        "Prophet Dawud",
+        "Prophet Zakariyya"
+      ],
+      "answer": "Prophet Harun"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Trotz Warnungen verehrten die Menschen ein goldenes Kalb.",
+        "Die Leute warfen mich in ein loderndes Feuer",
+        "Ich wurde von einem riesigen Fisch verschluckt",
+        "Ich wurde aufgrund falscher Anschuldigungen inhaftiert.",
+        "Ich wurde aus meiner Stadt verbannt, weil ich gepredigt hatte."
+      ],
+      "answer": "Trotz Warnungen verehrten die Menschen ein goldenes Kalb."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das goldene Kalb",
+        "Der brennende Busch",
+        "Der Stab, der sich in eine Schlange verwandelte",
+        "Die Tafeln des Bundes",
+        "Die Bundeslade"
+      ],
+      "answer": "Das goldene Kalb"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ich wurde freigesprochen und setzte meine prophetische Mission fort.",
+        "Ich wurde für die Sünde des Volkes bestraft.",
+        "Mir wurde eine neue Nation zur Führung anvertraut.",
+        "Ich wurde lebendig in den Himmel aufgenommen",
+        "Ich wurde zum Herrscher über ein Königreich ernannt"
+      ],
+      "answer": "Ich wurde freigesprochen und setzte meine prophetische Mission fort."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

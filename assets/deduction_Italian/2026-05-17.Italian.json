@@ -1,0 +1,61 @@
+{
+  "title": "Gli architetti della pietra",
+  "intro": "Immaginate una civiltà potente, dotata di forza e abilità, capace di scolpire maestose dimore nelle pareti delle montagne. Questa comunità godeva di immensa prosperità e di una straordinaria maestria architettonica. Eppure, nonostante i chiari avvertimenti ricevuti, scelse un percorso che l'avrebbe condotta a una conclusione drammatica e indimenticabile. Riuscite a identificare questo gruppo la cui storia rappresenta un profondo insegnamento per tutti coloro che vi riflettono?",
+  "clues": [
+    "Ci furono concessi forza e abilità, che ci permisero di scolpire magnifiche dimore direttamente nelle montagne.",
+    "Allah ci ha dato un segno inequivocabile: una creatura unica doveva essere lasciata indisturbata a pascolare.",
+    "La nostra comunità si è insuperbitata, sfidando il messaggio divino portato da un messaggero proveniente da noi.",
+    "Abbiamo cospirato per danneggiare il segno miracoloso, nonostante gli avvertimenti di una severa punizione.",
+    "Abbiamo disobbedito all'ordine di lasciare che la creatura speciale bevesse dal nostro pozzo a giorni alterni.",
+    "Abbiamo fatto una fine devastante, abbattuti da una singola, terrificante esplosione dopo il nostro atto di trasgressione."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Persone di 'Ad",
+        "Popolo del Midian",
+        "Popolo dell'Elefante",
+        "Popolo di Thamud",
+        "Popolo di Lutero"
+      ],
+      "answer": "Popolo di Thamud"
+    },
+    "trial": {
+      "label": "Il nostro principale processo/evento",
+      "options": [
+        "L'alluvione che ha sommerso la terra",
+        "La divisione del mare",
+        "La distruzione causata da una singola esplosione/urlo",
+        "L'incendio di una città",
+        "La trasformazione di una montagna in polvere"
+      ],
+      "answer": "La distruzione causata da una singola esplosione/urlo"
+    },
+    "location": {
+      "label": "Un elemento chiave nella nostra storia",
+      "options": [
+        "Un vitello dorato",
+        "Una cammella miracolosa",
+        "Un roveto ardente",
+        "Un uccello parlante",
+        "Un trono maestoso"
+      ],
+      "answer": "Una cammella miracolosa"
+    },
+    "outcome": {
+      "label": "Il nostro risultato finale",
+      "options": [
+        "Concesse immensa ricchezza e potere",
+        "Elevato al rango di profeta",
+        "Annientamento totale per mano di una punizione divina.",
+        "Perdonato dopo un sincero pentimento",
+        "Dispersi sulla terra per vagare"
+      ],
+      "answer": "Annientamento totale per mano di una punizione divina."
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

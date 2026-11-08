@@ -1,0 +1,61 @@
+{
+  "title": "Ankesa e dëgjuar mbi zhurmën",
+  "intro": "Dëgjon një zë që ngrihet nga një shoqëri ku shtypja është bërë rutinë. Asnjë shfaqje fuqie nuk i përgjigjet ankesës; në vend të kësaj, një thirrje e drejtpërdrejtë i arrin Allahut dhe përgjigjja godet në zemër të vetë adhurimit. Kush e bëri atë ankesë, çfarë pyetjeje pasoi dhe cila e vërtetë u pohua?",
+  "clues": [
+    "U shqetësova nga shtypja e njerëzve përreth meje.",
+    "Ia shpreha këtë ankesë drejtpërdrejt Allahut në një ankesë personale.",
+    "Allahu e dëgjoi ankesën dhe u përgjigj me një sfidë në lidhje me besimin tim.",
+    "Përgjigja pyeste se si mund të mos besoja në Allahun, i cili është Një dhe Suprem.",
+    "Pastaj pyeta pse Allahu duhet t’i favorizojë një popull që nuk beson.",
+    "Unë jam Uzeiri, i përmendur në Suren Ez-Zuhruf si ai ankesën e të cilit Allahu e dëgjoi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Uzair",
+        "Shoku që lundroi gjatë përmbytjes së madhe",
+        "Shërbëtori që eci mbi ujë",
+        "Fjetësi i mbrojtur brenda një shpelle",
+        "Shërbëtori që solli gurë në një lumë"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ankimi tek Allahu për shtypjen e njerëzve",
+        "Ecja mbi ujë gjatë një stuhie",
+        "Duke transportuar gurë në një lumë që nuk kishte ujë",
+        "Duke lundruar përmes një përmbytjeje të madhe në bordin e Arkës",
+        "Marrja e çelësit të një thesari të madh"
+      ],
+      "answer": "Ankimi tek Allahu për shtypjen e njerëzve"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një ankesë e drejtpërdrejtë drejtuar Allahut",
+        "Një shkop që u bë gjarpër",
+        "Një furrë e bërë e freskët dhe paqësore",
+        "Një arkë që lundron mbi ujërat e përmbytjes",
+        "Një peshk që gëlltit një shërbëtor"
+      ],
+      "answer": "Një ankesë e drejtpërdrejtë drejtuar Allahut"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Allahu e dëgjoi ankesën dhe pohoi Njëshmërinë hyjnore dhe Zotërimin Suprem.",
+        "Ecja e sigurt mbi ujë gjatë një stuhie",
+        "Kalimi i sigurt i një përmbytjeje të madhe në bordin e Arkës",
+        "Rifitimi i shikimit brenda një pallati arrogance",
+        "Marrja e sundimit që shtrihet nga Lindja në Perëndim"
+      ],
+      "answer": "Allahu e dëgjoi ankesën dhe pohoi Njëshmërinë hyjnore dhe Zotërimin Suprem."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

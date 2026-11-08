@@ -1,0 +1,61 @@
+{
+  "title": "Den første sjelen som står",
+  "intro": "Lenge før noen budbringer vandret på jorden, før noen hellig skrift ble åpenbart, oppsto et vesen ulikt noe annet. Denne sjelen ble formet av guddommelige hender, gitt et sted med uovertruffen skjønnhet, og testet på en måte som ville gi gjenklang gjennom hele menneskehetens historie. Det som fulgte var en historie om svakhet, oppriktig anger og en skjebne som ville forandre skapelsens gang for alltid. Kan du gjette hvem dette er?",
+  "clues": [
+    "Jeg ble formet av den Barmhjertiges hender fra jordens støv",
+    "Jeg fikk et hjem med uovertruffen skjønnhet, hvor verken sult eller tretthet kunne røre meg",
+    "Jeg ble befalt å aldri nærme meg et eneste tre, for det var forbudt",
+    "Min ledsager og jeg ble lurt og nærmet oss det forbudte treet, mot vår Herres befaling.",
+    "Vi vendte tilbake til vår Herre med oppriktig anger, og fikk tilgivelse for våre overtredelser",
+    "Fra oss nedstammet hele menneskeheten; jeg er den aller første som vandrer på denne jorden"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Adam",
+        "Profeten Musa",
+        "Profeten Nuh",
+        "Profeten Yusuf",
+        "Profeten Isa"
+      ],
+      "answer": "Profeten Adam"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Fristelse av det forbudte treet",
+        "Konfrontasjon med farao",
+        "Bygge den store Arken",
+        "Offeret til den elskede sønnen",
+        "Å bli kastet inn i en stor ild"
+      ],
+      "answer": "Fristelse av det forbudte treet"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Det forbudte treet",
+        "Den brennende busken",
+        "Den gylne staven",
+        "Den store arken",
+        "Den gylne kalven"
+      ],
+      "answer": "Det forbudte treet"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Sendt ned til jorden som menneskehetens første omsorgsperson",
+        "Farao og hæren hans druknet i havet",
+        "Den store flommen ødela de onde",
+        "Ilden ble kjølig og fredelig",
+        "Fikk myndighet over kongeriket Egypt"
+      ],
+      "answer": "Sendt ned til jorden som menneskehetens første omsorgsperson"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

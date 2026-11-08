@@ -1,0 +1,61 @@
+{
+  "title": "Te karanga i roa te wā",
+  "intro": "Whakaarohia tētahi wairua e tū takitahi ana ki te whawhai ki tētahi ao whānui, e whakatau ana ki te ārahi i a rātou i te hē me te ngākau māia. Mō ngā rautau, i whakakahoretia te karere, i tawaihia, i whakakorekorehia—engari kāore i mutu te mahi. I te mutunga, ka tae mai he whakatau nui, ā, he tokoiti noa iho i eke ki te whakaoranga i te taha o tēnei wairua pumau. Ka taea e koe te tautuhi i tēnei āhua i roto i te Quran?",
+  "clues": [
+    "I tonoa ahau hei kaiwhakatūpato ki te iwi kua ngaro i ō rātou ake ara.",
+    "I karanga ahau i a rātou kia rapu murunga hara, kia tahuri ke hoki i ā rātou mahi hē, engari i tahuri ke atu rātou.",
+    "I raro i te whakahau a te Atua, i hanga e au tētahi waka nui i te mea e mātakitaki mai ana, e tawai mai ana hoki tōku iwi ki ahau.",
+    "I karanga tonu ahau ki tōku Ariki—i te mutunga ka whakautu mai ia, ā, ka ringihia mai te wai i te rangi me ngā waipuke.",
+    "I eke tahi ahau me te hunga i whakapono i te taenga mai o te waipuke ki runga ake i te whenua.",
+    "I karanga atu ahau ki tētahi i noho ki muri, me te tono kia rere rātou ki te maunga hei piringa, engari kua paahitia kētia te ture."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Noa",
+        "Poropiti Ihāperama",
+        "Poropiti a Mohi",
+        "Poropiti a Hūta",
+        "Poropiti Salih"
+      ],
+      "answer": "Poropiti a Noa"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hanga i tētahi āka nui, me te ora i tētahi waipuke o te ao whānui",
+        "Te maka ki roto i te ahi mura",
+        "Te tū atu ki tētahi kaitukino me āna tohunga makutu kaha",
+        "Te horomia e te ika nui",
+        "Te mātakitaki i te patunga o tētahi kāmera uwha tapu"
+      ],
+      "answer": "Te hanga i tētahi āka nui, me te ora i tētahi waipuke o te ao whānui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He āka rakau nui i runga i ngā wai waipuke e ngaru ana",
+        "He awaawa tapu me ngā ururua kohatu tawhito",
+        "He ana hohonu i moe ai ngā hoa mō ngā rautau",
+        "Te puku o te tohorā nui i te hohonutanga o te moana",
+        "He maunga kohatu teitei i te koraha"
+      ],
+      "answer": "He āka rakau nui i runga i ngā wai waipuke e ngaru ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia me te hunga whakapono i runga i te kaipuke",
+        "I whakaorangia i te ahi mā te whakahau a te Atua",
+        "I ārahi i tētahi wehenga nui mai i tētahi rangatiratanga kaha",
+        "Ka maka atu i te ika ki te takutai maroke",
+        "I ārahi i te tangata kia mawehe atu i te mahi hē mā te tohu whakamiharo"
+      ],
+      "answer": "I whakaorangia me te hunga whakapono i runga i te kaipuke"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

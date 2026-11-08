@@ -1,0 +1,61 @@
+{
+  "title": "Y Cwsg Tu Hwnt i Amser",
+  "intro": "Dychmygwch amser pan gafodd y gwirionedd ei dawelu a chredinwyr yn cael eu hela. Dewisodd grŵp bach encilio yn hytrach na ildio, gan ddod o hyd i loches yn y lleoedd mwyaf annhebygol - lle a fyddai'n dod yn orfanc iddynt am ganrifoedd heb eu cyfrif. Pan ddeffron nhw o'r diwedd, roedd y byd wedi trawsnewid o'u cwmpas. Pwy yw'r eneidiau cysgu hyn?",
+  "clues": [
+    "Pobl ifanc oedden ni'n byw mewn dinas hynafol.",
+    "Mynnodd ein cymuned inni addoli ochr yn ochr â nhw, ond gwrthodom ni.",
+    "Fe wnaethon ni ffoi o'r ddinas i chwilio am loches rhag y rhai oedd yn gwrthwynebu ein credoau.",
+    "Arhosodd cydymaith pedair coes ffyddlon wrth fynedfa ein man cuddio.",
+    "Gwnaeth Allah inni gysgu am dri chant a naw mlynedd.",
+    "Pan ddeffrôm o'r diwedd, roedd ein dinas a oedd unwaith yn cael ei herlid wedi cofleidio ffydd."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Ashab al-Kahf (Pobl yr Ogof)",
+        "Ashab al-Fil (Byddin yr Eliffant)",
+        "Ashab al-Ukhdud (Cyfeillion y Ffos)",
+        "Yr Hawariyyun (Disgyblion Isa)",
+        "Yajuj wa Majuj (Gog a Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Pobl yr Ogof)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Fe wnaethon ni encilio i ogof a chysgu am ganrifoedd",
+        "Fe'n hachubwyd rhag tân llachar",
+        "Cawsom ein llyncu gan bysgodyn mawr",
+        "Cawsom ein profi gyda chamel fenyw wyrthiol",
+        "Rhoddwyd naw arwydd clir i ni"
+      ],
+      "answer": "Fe wnaethon ni encilio i ogof a chysgu am ganrifoedd"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Ogof ddofn yn y mynyddoedd",
+        "Cwch ar y môr agored",
+        "Strwythur uchel sy'n cyrraedd y nefoedd",
+        "Gardd wedi'i rhannu rhwng dau gystadleuydd",
+        "Rhwystr o haearn a chopr"
+      ],
+      "answer": "Ogof ddofn yn y mynyddoedd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Deffrôm i ddarganfod bod ein dinas wedi troi at ffydd",
+        "Daeth tân llachar yn oer ac yn heddychlon",
+        "Boddwyd byddin y gelyn yn y môr",
+        "Dinistriodd adar yn cario cerrig y gelyn",
+        "Gollyngodd pysgodyn mawr ni ar y lan"
+      ],
+      "answer": "Deffrôm i ddarganfod bod ein dinas wedi troi at ffydd"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

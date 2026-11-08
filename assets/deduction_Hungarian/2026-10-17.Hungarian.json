@@ -1,0 +1,61 @@
+{
+  "title": "A vágyakozás a szent kamrában",
+  "intro": "Belépsz a csendes szentélybe, és Allah odaadó szolgáját látod imádkozni. Kezei felemelve, tekintetük a magasba szegezve, szívükben pedig egy életen át tartó vágyakozás motoszkál. Ki ez a türelmes lélek, akinek Allahba vetett bizalma soha nem ingott meg?",
+  "clues": [
+    "Hosszú éveket töltöttem imádsággal és imádkozással, csodáknak voltam tanúja, amelyek megerősítették a hitemet.",
+    "Azzal a felelősséggel bíztak meg, hogy gondoskodjak egy áldott fiatal lélekről a szentélyben.",
+    "Ahogy öregedtem, legnagyobb bánatom az volt, hogy nem született gyermekem, mert a feleségem meddő volt, és mindketten előrehaladott korúak voltunk.",
+    "Imádkoztam az Úrhoz, hogy a saját családomból válasszak egy utódot, valakit, aki továbbviszi a prófétai örökséget.",
+    "Miközben az imafülkében álltam, az angyalok szólítottak, mondván: „Allah örömhírt hoz neked”, és félelem és áhítat lett úrrá rajtam.",
+    "Azt mondták, hogy fiam lesz, akit Jahjának hívnak, egy olyan nevet, amelyet még soha senkinek nem adtak, és jelül, hogy három napig nem beszélek az emberekkel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Zakariyya próféta",
+        "Jahja próféta",
+        "Isa próféta",
+        "Dawud próféta",
+        "Bölcs Lukman"
+      ],
+      "answer": "Zakariyya próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Meddőség és öregség, miközben igaz örökösre vágyik",
+        "Lángoló tűzbe vetve",
+        "Egy nagy hal lenyelte",
+        "Egy királyság elvesztése egy zsarnok miatt",
+        "Száműzetésben lenni a szülőföldjéről"
+      ],
+      "answer": "Meddőség és öregség, miközben igaz örökösre vágyik"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az imafülke (mihrab)",
+        "A nagy hajó (Ark)",
+        "Az égő csipkebokor",
+        "A kígyóvá változott személyzet",
+        "Allah tevéje"
+      ],
+      "answer": "Az imafülke (mihrab)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Igaz fiút adott, és három nap hallgatás után újra megszólalt",
+        "Hitetlenkedve árvíz pusztította el",
+        "Hatalmas királyságot és a szél feletti uralmat adott",
+        "Egy hal gyomrából kiszabadulva",
+        "Elnyelte a föld"
+      ],
+      "answer": "Igaz fiút adott, és három nap hallgatás után újra megszólalt"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

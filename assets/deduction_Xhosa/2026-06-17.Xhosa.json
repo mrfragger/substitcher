@@ -1,0 +1,61 @@
+{
+  "title": "I-Echo evela kwiMda yeSixeko",
+  "intro": "Kwisixeko esasifulathele ulwalathiso lukaThixo, kwavela umntu oyedwa ngaphandle, ebaleka nesigidimi sethemba nesilumkiso. Lo mphefumlo ulibalekileyo wawuya kuba luphawu olungunaphakade lokholo oluqinileyo.",
+  "clues": [
+    "Ndibone abathunywa bethunyelwa kwisixeko sam, kodwa abantu bam babengabamkeli njengabantu abaqhelekileyo.",
+    "Ndandikholelwa kwisigidimi sabo kwaye ndaziva inyaniso ivakala ngaphakathi kum.",
+    "Ndibize abantu bam ukuba bathobele abathunywa abangacelanga mvuzo.",
+    "Ndabaleka ndisuka kweyona ndawo ikude yesixeko, ndizama ngamandla ukubanceda babone isizathu.",
+    "Abantu bam bandivukela, ndaza ndabulawa, kodwa ndafumana uxolo olungunaphakade.",
+    "U-Allah wathi kum, 'Ngena eParadesi,' kwaye ndinqwenela ukuba abantu bam babe nokubona imbeko endinikwe yona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Ikholwa likaYa-Sin",
+        "U-Uzair uMbuzi",
+        "U-Al-Khidr Isikhokelo",
+        "Ikholwa Losapho LukaFaro",
+        "UNamrud uMtyholi"
+      ],
+      "answer": "Ikholwa likaYa-Sin"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukujongana nabantu abangakholwayo abambuleleyo",
+        "Ukuphoswa emlilweni ovuthayo",
+        "Ukuginywa yintlanzi enkulu",
+        "Ukwakha umkhombe omkhulu",
+        "Ukubaleka umkhosi wombusi okhohlakeleyo"
+      ],
+      "answer": "Ukujongana nabantu abangakholwayo abambuleleyo"
+    },
+    "location": {
+      "label": "Indawo Ebalulekileyo",
+      "options": [
+        "Isiphelo esikude kakhulu sesixeko",
+        "Intaba yaseTur",
+        "Intlambo yeembovane",
+        "Iibhanki zoMlambo iNayile",
+        "Umqolomba womqolomba"
+      ],
+      "answer": "Isiphelo esikude kakhulu sesixeko"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukufela ukholo nokungena kwangoko eParadesi",
+        "Ukusaba nokusindiswa",
+        "Ukunyukela emazulwini",
+        "Ukuntywiliselwa elwandle",
+        "Ukujika kube lilitye"
+      ],
+      "answer": "Ukufela ukholo nokungena kwangoko eParadesi"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

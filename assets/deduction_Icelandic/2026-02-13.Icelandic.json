@@ -1,0 +1,61 @@
+{
+  "title": "Hin mikla undirgefni fullvaldsveldisins",
+  "intro": "Þú ert staddur í landi fornra undra og djúpstæðra opinberana. Öflug stjórnandi, sem stendur frammi fyrir óvæntu boði, leggur upp í ferðalag sem myndi breyta örlögum sínum og trú fólks síns. Geturðu afhjúpað hver þessi tignarlega persóna er?",
+  "clues": [
+    "Ég ríkti yfir blómlegu ríki, skreytt ómælum auðæfum og stórkostlegu hásæti.",
+    "Fólk mitt og ég tilbáðum himintungl og trúðum að hann væri Drottinn okkar, þótt ég bæri efasemdir í hjarta mínu.",
+    "Sérkennilegur sendiboði, fugl, afhenti mér bréf þar sem hann kallaði mig og fólk mitt til hlýðni við hinn eina Guð.",
+    "Ég ráðfærði mig við ráðgjafa mína, sem voru voldugir að afli, um hvernig ætti að bregðast við þessum fordæmalausa skilaboðum.",
+    "Ég ákvað að senda verðmæta gjöf til þess sem sendi bréfið í von um að meta vald hans og fyrirætlanir.",
+    "Við komuna varð ég undrandi á höll með glergólfi, sem leit út eins og vatnspollur, og þá lýsti ég yfir undirgefni minni við Drottin allrar sköpunar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Faraó",
+        "Drottningin af Saba",
+        "Dhu al-Qarnayn",
+        "Lúkman",
+        "Spámaðurinn Jósef"
+      ],
+      "answer": "Drottningin af Saba"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Klofingin í hafinu",
+        "Hið mikla flóð",
+        "Ferðin til að hitta spámanninn Súlíman",
+        "Eyðilegging fólksins í Lut",
+        "Brennan á spámanninum Ibrahim"
+      ],
+      "answer": "Ferðin til að hitta spámanninn Súlíman"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Örkina",
+        "Starfsfólkið",
+        "Hásætið",
+        "Fjallið",
+        "Eldurinn"
+      ],
+      "answer": "Hásætið"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Varð spámaður",
+        "Var eytt af Allah",
+        "Faðmaði Íslam",
+        "Leiði fólk sitt í stríð",
+        "Byggði stórfenglegt musteri"
+      ],
+      "answer": "Faðmaði Íslam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

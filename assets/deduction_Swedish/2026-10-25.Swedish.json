@@ -1,0 +1,61 @@
+{
+  "title": "Klagomålet hördes över bullret",
+  "intro": "Du hör en röst stiga från ett samhälle där förtryck har blivit rutin. Ingen maktdemonstration besvarar klagomålet; istället når en direkt vädjan Allah, och svaret träffar själva tillbedjans hjärta. Vem framförde det klagomålet, vilken fråga följde och vilken sanning bekräftades?",
+  "clues": [
+    "Jag blev orolig av förtrycket från människorna omkring mig.",
+    "Jag uttryckte det klagomålet direkt till Allah i ett personligt klagomål.",
+    "Allah hörde klagomålet och svarade med en utmaning angående min egen tro.",
+    "Svaret frågade hur jag kunde misslyckas med att tro på Allah, som är En och Högst.",
+    "Sedan frågade jag varför Allah skulle gynna ett folk som inte trodde.",
+    "Jag är Uzair, namngiven i Surah Az-Zukhruf som den vars klagomål Allah hörde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Uzair",
+        "Kammeraten som seglade på den stora översvämningen",
+        "Tjänaren som gick på vattnet",
+        "Sovern skyddad i en grotta",
+        "Tjänaren som bar stenar till en flod"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att klaga till Allah över folkets förtryck",
+        "Att gå på vatten under en storm",
+        "Att bära stenar till en flod som saknade vatten",
+        "Segla genom en stor översvämning ombord på Arken",
+        "Att få nyckeln till en enorm skatt"
+      ],
+      "answer": "Att klaga till Allah över folkets förtryck"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En direkt klagan riktad till Allah",
+        "En stav som förvandlades till en orm",
+        "En ugn gjord sval och fridfull",
+        "En ark som flyter över flodvattnet",
+        "En fisk som sväljer en tjänare"
+      ],
+      "answer": "En direkt klagan riktad till Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Allah hörde klagomålet och bekräftade gudomlig enhet och högsta herravälde",
+        "Att gå säkert på vattnet under en storm",
+        "Att korsa en stor översvämning säkert ombord på Arken",
+        "Återfår synen i ett arrogansens palats",
+        "Mottagande av herravälde som sträcker sig från öst till väst"
+      ],
+      "answer": "Allah hörde klagomålet och bekräftade gudomlig enhet och högsta herravälde"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

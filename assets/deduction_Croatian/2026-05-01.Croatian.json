@@ -1,0 +1,61 @@
+{
+  "title": "Prijestolje Istine",
+  "intro": "Moćni vladar, poznat po svojoj velikoj mudrosti i veličanstvenom prijestolju, prima tajanstvenu poruku iz nepoznatog izvora. Ova neočekivana komunikacija dovodi u pitanje njihova uvjerenja i autoritet, usmjeravajući ih na diplomatsko putovanje koje će testirati njihov intelekt i na kraju dovesti do dubokog duhovnog buđenja. Možete li otkriti identitet ovog vladara i događaje koji su transformirali cijelo njihovo kraljevstvo?",
+  "clues": [
+    "Moj narod i ja obožavali smo sunce, slijedeći običaje naših predaka.",
+    "Ptica, pupavac, bila je neočekivani glasnik koji mi je donio pismo od moćnog vođe.",
+    "Da bih iskušao mudrost pošiljatelja, poslao sam vrijedne darove, ali su vraćeni, jer je pošiljatelj posjedovao daleko veće bogatstvo od Allaha.",
+    "Prije nego što sam uopće stigao na pošiljateljev dvor, moje veličanstveno prijestolje je čudesno preneseno tamo u tren oka.",
+    "Po dolasku su me pitali je li preneseno prijestolje moje, a ja sam odgovorio: 'Kao da je baš to.'",
+    "Ušao sam u veliku dvoranu s podom koji sam zamijenio za bazen s vodom, i u tom trenutku strahopoštovanja, predao sam se zajedno s poslanikom Sulejmanom Allahu, Gospodaru svjetova."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Kraljica od Sabe",
+        "Zulaikha (supruga Al-Aziza)",
+        "Asiya (Faraonova supruga)",
+        "Musina majka",
+        "Merjem (Isaova majka)"
+      ],
+      "answer": "Kraljica od Sabe"
+    },
+    "trial": {
+      "label": "Središnji događaj",
+      "options": [
+        "Primanje pisma od proroka Sulejmana",
+        "Biti bačen u vatru",
+        "Izgradnja arke za preživljavanje poplave",
+        "Razdvajanje Crvenog mora",
+        "Biti optužen za neskromnost"
+      ],
+      "answer": "Primanje pisma od proroka Sulejmana"
+    },
+    "location": {
+      "label": "Ključni objekt",
+      "options": [
+        "Veličanstveno prijestolje",
+        "Zlatno tele",
+        "Kaput u mnogim bojama",
+        "Štap koji se pretvorio u zmiju",
+        "Brod napravljen od dasaka i čavala"
+      ],
+      "answer": "Veličanstveno prijestolje"
+    },
+    "outcome": {
+      "label": "Krajnji ishod",
+      "options": [
+        "Pokoravanje se jedinom istinskom Bogu (Allahu)",
+        "Pretvoren u stup soli",
+        "Gradnja visokog tornja da bi se doseglo Boga",
+        "Biti progutan od strane velike ribe",
+        "Gubitak ogromnog bogatstva kao kazna"
+      ],
+      "answer": "Pokoravanje se jedinom istinskom Bogu (Allahu)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

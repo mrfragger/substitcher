@@ -1,0 +1,61 @@
+{
+  "title": "alacakaranlıkta dağların melodisi",
+  "intro": "Vadilerin Allah'ın seçilmiş bir kulunun yanında yankılanan övgülerini dinleyin. Melodiyle donatılmış bir ses, mahkeme salonunda tartışmacıların aradığı bir hüküm ve ilahi emirle yumuşatılmış metal keşfedilmeyi bekliyor. Bu işaretler aracılığıyla hangi ibadet ve adalet figürü konuşuyor?",
+  "clues": [
+    "Allah bana bolluk ve güzel bir övgü sesi bahşetti.",
+    "Allah bana ihtilafa düşen taraflar arasında adil hüküm vermenin dilini anlamayı öğretti.",
+    "Savaşta karşıma güçlü, dev bir savaşçı çıktı ve Allah'ın izniyle onlara üstün geldim.",
+    "Allah'tan bana bilgelik, yetki ve vahyedilmiş bir mezmur kitabı verildi.",
+    "Akşam ve gün doğumu vakitlerinde dağlar ve kuşlar da benimle birlikte Allah'ı yücelttiler.",
+    "Allah bana, benim için yumuşatılmış demirden zırh yapmayı öğretti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Davud (David)",
+        "Peygamber İsmail (İşmael)",
+        "Peygamber Yahya (Yuhanna)",
+        "Zül-Kifl",
+        "Peygamber El-Yasa (Elişa)"
+      ],
+      "answer": "Peygamber Davud (David)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Allah'ın izniyle Celut'u (Goliath'ı) savaşta mağlup etti.",
+        "Büyük tufandan kurtulmak için Nuh'un Gemisi'ni inşa ettiler.",
+        "Allah'ın soğuttuğu ateşe atıldı.",
+        "Denizde büyük bir balık tarafından yutuldu.",
+        "Ölümün tadını tatmadan göklere yükseltildi."
+      ],
+      "answer": "Allah'ın izniyle Celut'u (Goliath'ı) savaşta mağlup etti."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Dağlar ve kuşlar Allah'ı övmekte birleşiyor.",
+        "Yılana dönüşen bir asa",
+        "Soğuyup huzur bulan bir ateş",
+        "Halk için bir işaret olarak gönderilen dişi bir deve.",
+        "Judi Dağı'nda duran ahşap bir Nuh'un Gemisi"
+      ],
+      "answer": "Dağlar ve kuşlar Allah'ı övmekte birleşiyor."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Krallık, bilgelik ve Zebur (Mezmurlar) bahşedildi.",
+        "Yaşlılığında, içtenlikle yaptığı dualar sonucunda bir oğul sahibi oldu.",
+        "Uzun yıllar boyunca mağarada güvende kaldı.",
+        "Çölde bir Zemzem kaynağı bahşedildi.",
+        "Ordunun denizde boğulması kabul edildi."
+      ],
+      "answer": "Krallık, bilgelik ve Zebur (Mezmurlar) bahşedildi."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

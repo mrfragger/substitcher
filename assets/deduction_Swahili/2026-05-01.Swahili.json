@@ -1,0 +1,61 @@
+{
+  "title": "Kiti cha Enzi cha Ukweli",
+  "intro": "Mtawala mwenye nguvu, anayejulikana kwa hekima yake kubwa na kiti chake cha enzi kitukufu, anapokea ujumbe wa ajabu kutoka kwa chanzo kisichojulikana. Mawasiliano haya yasiyotarajiwa yanapinga imani na mamlaka yao, yakiwaweka katika safari ya kidiplomasia ambayo itajaribu akili zao na hatimaye kusababisha mwamko mkubwa wa kiroho. Je, unaweza kufichua utambulisho wa mtawala huyu na matukio yaliyobadilisha ufalme wao wote?",
+  "clues": [
+    "Mimi na watu wangu tuliabudu jua, tukifuata njia za mababu zetu.",
+    "Ndege, hudihudi, alikuwa mjumbe asiyetarajiwa aliyeniletea barua kutoka kwa kiongozi mwenye nguvu.",
+    "Ili kujaribu hekima ya mtumaji, nilituma zawadi zenye thamani, lakini zilirudishwa, kwani mtumaji alikuwa na utajiri mwingi zaidi kutoka kwa Mwenyezi Mungu.",
+    "Kabla hata sijafika kwenye ua wa mtumaji, kiti changu cha enzi kizuri kilisafirishwa hapo kimiujiza kwa kufumba na kufumbua jicho.",
+    "Nilipofika, niliulizwa kama kiti cha enzi kilichosafirishwa kilikuwa changu, nami nikajibu, 'Ni kana kwamba ndicho hicho hasa.'",
+    "Niliingia kwenye ukumbi mkubwa wenye sakafu niliyodhania kuwa bwawa la maji, na katika wakati huo wa mshangao, nilijisalimisha pamoja na Nabii Suleiman kwa Mwenyezi Mungu, Mola wa walimwengu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Malkia wa Sheba",
+        "Zulaikha (Mke wa Al-Aziz)",
+        "Asiya (Mke wa Farao)",
+        "Mama wa Musa",
+        "Maryam (Mama wa Isa)"
+      ],
+      "answer": "Malkia wa Sheba"
+    },
+    "trial": {
+      "label": "Tukio la Kati",
+      "options": [
+        "Kupokea barua kutoka kwa Nabii Sulaiman",
+        "Kutupwa motoni",
+        "Kujenga safina ili kuokoka gharika",
+        "Kugawanya Bahari Nyekundu",
+        "Kushtakiwa kwa ukosefu wa adabu"
+      ],
+      "answer": "Kupokea barua kutoka kwa Nabii Sulaiman"
+    },
+    "location": {
+      "label": "Kitu Muhimu",
+      "options": [
+        "Kiti cha enzi kizuri sana",
+        "Ndama wa dhahabu",
+        "Kanzu ya rangi nyingi",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Meli iliyotengenezwa kwa mbao na misumari"
+      ],
+      "answer": "Kiti cha enzi kizuri sana"
+    },
+    "outcome": {
+      "label": "Matokeo ya Mwisho",
+      "options": [
+        "Kujitiisha kwa Mungu mmoja wa kweli (Allah)",
+        "Kugeuzwa kuwa nguzo ya chumvi",
+        "Kujenga mnara mrefu ili kumfikia Mungu",
+        "Kumezwa na samaki mkubwa",
+        "Kupoteza utajiri mkubwa kama adhabu"
+      ],
+      "answer": "Kujitiisha kwa Mungu mmoja wa kweli (Allah)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Naród, który rzucił wyzwanie Świętemu Domowi",
+  "intro": "W starożytności potężny naród postanowił zaatakować sanktuarium czczone przez wiernych. Grupa ta była bogata, potężna i pewna swojej siły militarnej. Przyprowadzili ze sobą potężne stworzenie, które miało posłużyć im za broń. Ich cel był jasny: zburzyć święty dom i złamać wiarę jego mieszkańców. Jednak ich arogancja miała wkrótce spotkać się z druzgocącą reakcją z góry. To historyczne wydarzenie stało się znakiem i przestrogą dla wszystkich, którzy przyszli później. Czy potrafisz zidentyfikować tę grupę na podstawie wskazówek?",
+  "clues": [
+    "Byliśmy narodem obdarzonym bogactwem i potęgą militarną.",
+    "Zebraliśmy nasze siły i przywieźliśmy ze sobą ogromną bestię, aby wykorzystać ją w naszej kampanii.",
+    "Naszym celem było święte sanktuarium, które chcieliśmy całkowicie zniszczyć.",
+    "Wierzyliśmy, że nasza siła wystarczy, aby pokonać każdą boską ochronę.",
+    "Ale Pan zesłał na nas karę z nieba, której się nie spodziewaliśmy.",
+    "Zostaliśmy zniszczeni w jednej chwili, rozproszeni jak połamana słoma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie Słonia",
+        "Ludzie z Thamud",
+        "Ludzie z „Ad”",
+        "Towarzysze jaskini",
+        "Naród Proroka Huda"
+      ],
+      "answer": "Ludzie Słonia"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Prowadzenie słonia w kierunku świętego domu, aby go zniszczyć",
+        "Zbudowanie wieży, aby sięgnąć nieba",
+        "Budowa złotego bożka do oddawania czci",
+        "Odmowa słuchania posłańca Allaha",
+        "Kopanie studni w celu wyrządzenia krzywdy wierzącym"
+      ],
+      "answer": "Prowadzenie słonia w kierunku świętego domu, aby go zniszczyć"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Słoń",
+        "Złoty cielec",
+        "Laska Musy",
+        "Ryba Yunusa",
+        "Żelazo Dawuda"
+      ],
+      "answer": "Słoń"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zniszczyły je stada ptaków, obrzucając kamieniami",
+        "Utonęli w wielkiej powodzi",
+        "Zostali przemienieni w małpy i świnie",
+        "Zostali pogrzebani pod spadającymi kamieniami z góry",
+        "Zostali spaleni ogniem z nieba"
+      ],
+      "answer": "Zniszczyły je stada ptaków, obrzucając kamieniami"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

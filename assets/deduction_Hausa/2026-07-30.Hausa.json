@@ -1,0 +1,61 @@
+{
+  "title": "Baƙi Masu Ban Mamaki na Birni Mai Ganuwa",
+  "intro": "Wata ƙungiya ta isa ƙofofin wani birni wanda mutanensa ba su taɓa sanin gaskiya ba. Sun kawo saƙo, amma mazaunan suka zama masu adawa da juna, suna barazanar tashin hankali. Duk da haka, daga wani wuri da ba a zata ba, wata murya ɗaya ta tashi don kare baƙi, ta shirya wani muhimmin lamari.",
+  "clues": [
+    "Mun shiga wani birni wanda mutanensa suka nutse cikin rashin imani.",
+    "Suka kalle mu da tuhuma suka ce, 'Ku dai kawai halittu ne na yau da kullun kamar mu.'",
+    "Mun yi musu gargaɗi, amma suka ɗaga mana duwatsu.",
+    "Wani mutum ya yi sauri daga mafi nisa na birnin don ya tabbatar da gaskiyarmu.",
+    "Ya sanar da mutanensa, 'Me yasa ba zan bauta wa wanda ya halicce ni ba?'",
+    "Karyata birnin ya ƙare da bugu ɗaya, kuma shiru ya mamaye inda suka taɓa yin ba'a."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Manzannin Ya-Sin",
+        "Almajiran Isa",
+        "Mutanen Madatsar Ruwa",
+        "Masu Sihiri na Fir'auna",
+        "Muminin Ya-Sin"
+      ],
+      "answer": "Manzannin Ya-Sin"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ƙin yarda da barazanar jifa",
+        "Ana jefa shi cikin wuta mai zafi",
+        "Gwaji na haƙuri da yaro da ya ɓace",
+        "Lambun da ya sha wahala",
+        "Tafiya ta cikin teku"
+      ],
+      "answer": "Ƙin yarda da barazanar jifa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ƙarshen birnin mafi nisa",
+        "Tekun Ja",
+        "Ramin wuta",
+        "Kogon mafaka",
+        "Kurkukun Masar"
+      ],
+      "answer": "Ƙarshen birnin mafi nisa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An lalata birnin da ihu ɗaya tilo",
+        "Teku ya rabu ya nutsar da rundunar",
+        "Wutar ta yi sanyi kuma ta yi aminci",
+        "Wutar sama ta ƙone lambun",
+        "Kifin ya mayar da mutumin bakin teku"
+      ],
+      "answer": "An lalata birnin da ihu ɗaya tilo"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

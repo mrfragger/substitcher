@@ -1,0 +1,61 @@
+{
+  "title": "Süräni gazanan",
+  "intro": "Allanyň pygamberleriniň birine ak ýürekden we çuňňur öwrenmäge höwes bilen pespäl bir adamyň ýakynlaşýandygyny göz öňüne getiriň. Şol pursatda baý we mertebeli bir adam pygamberiň ünsüni özüne çekdi we gözlegçiniň ýüzüni gyzdyrdy. Soňra bolsa, pygamberi düzetmek we gözlegçiniň ruhuny hormatlamak üçin iberilen Gurhanyň tutuş bir babyndan başga zat bolmady.",
+  "clues": [
+    "Men açyk ýürek we hidaýata çuňňur höwes bilen Allanyň Resulynyň ýanyna geldim",
+    "Meniň hödürlejek dünýewi derejesim ýokdy, diňe hakykaty gözleýän pespäl bir janym bardy",
+    "Fiziki gözlerim görüp bilmeýärdi, ýöne ruhy görýänim aýdyňdy",
+    "Men elçiniň uly täsirli adam bilen iş salyşyp ýören wagtynda, oňaýsyz pursatda geldim.",
+    "Men gamgyn boldum, ýöne Allatagala ilahi düzediş bilen jogap berdi",
+    "Men Abasa süresini ylham beren wepaly ýoldaş Abdylla ibn Umm Maktum"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Abdullah ibn Ümm Maktum",
+        "Bilal ibn Rabah",
+        "Muaz ibn Jebel",
+        "Zeýd ibn Sabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Ümm Maktum"
+    },
+    "trial": {
+      "label": "Synag / Waka",
+      "options": [
+        "Baý adam üçin Pygamber tarapyndan ýüz öwürilmegi",
+        "Duşmanlar tarapyndan gyzgyn oda taşlanmak",
+        "Gul hökmünde satylyp we yzarlanyp",
+        "Güýçli esger tarapyndan duele çagyrylýar",
+        "Uly balyk tarapyndan ýuwutulýar"
+      ],
+      "answer": "Baý adam üçin Pygamber tarapyndan ýüz öwürilmegi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Gurhanyň gamgynlyk bilen başlanýan surasy (Abasa süresi)",
+        "Sowuk we howpsuz ot",
+        "Güýçli deňzi bölýän taýak",
+        "Beýik dagyň üstünde gurlan gämi",
+        "Gatylan toýundan ýasalan guş"
+      ],
+      "answer": "Gurhanyň gamgynlyk bilen başlanýan surasy (Abasa süresi)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Alla meni goraýan Kuran suresini nazil etdi",
+        "Allatagala ody meniň üçin sowuk we howpsuz etdi",
+        "Alla meni yzarlamakdan halas etmek üçin deňzi böldi",
+        "Alla maňa uly patyşalyk we akyldarlyk berdi",
+        "Alla meni ölümsiz jennete alyp gitdi"
+      ],
+      "answer": "Alla meni goraýan Kuran suresini nazil etdi"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

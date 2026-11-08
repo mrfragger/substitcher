@@ -1,0 +1,61 @@
+{
+  "title": "Người cầu xin nơi thánh",
+  "intro": "Trong những giờ phút tĩnh lặng của đêm khuya, một tâm hồn thành kính đã cầu nguyện với Đấng Toàn Năng trong những bức tường thiêng liêng của một nơi thánh. Nhiều năm kiên trì và nhẫn nại sắp được đền đáp bằng một phép màu mang đến niềm vui và di sản của sứ mệnh tiên tri.",
+  "clues": [
+    "Tôi dành cả ngày lẫn đêm để cầu nguyện trong một thánh đường linh thiêng, không ngừng khẩn cầu Thượng đế của tôi.",
+    "Tôi đã già, vợ tôi thì hiếm muộn, nhưng tôi chưa bao giờ mất niềm hy vọng vào lòng thương xót của Allah.",
+    "Tôi được ban cho một người con trai, tên là Yahya, người sau này trở thành một nhà tiên tri và là ngọn đèn soi sáng cho lẽ phải.",
+    "Tôi cũng là một nhà tiên tri, được phái đến để hướng dẫn con cái Israel.",
+    "Tôi là hậu duệ của Tiên tri Harun và từng phục vụ với tư cách là một thầy tế lễ trong Đền thờ.",
+    "Tôi được giao nhiệm vụ chăm sóc Maryam, mẹ của Isa, và đã chứng kiến ​​những phép lạ của bà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Zakariyya",
+        "Tiên tri Yahya",
+        "Tiên tri Ilyas",
+        "Tiên tri Ishaq",
+        "Tiên tri Ya'qub"
+      ],
+      "answer": "Tiên tri Zakariyya"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Sinh con trai khi đã già.",
+        "Được cứu thoát khỏi đám cháy dữ dội.",
+        "Được cứu sống từ bụng cá.",
+        "Sống sót sau trận đại hồng thủy.",
+        "Đã khỏi bệnh nặng."
+      ],
+      "answer": "Sinh con trai khi đã già."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Mihrab (hốc cầu nguyện)",
+        "Kaaba",
+        "Bụi cây bốc cháy",
+        "Hòm Giao Ước",
+        "Hang động của bảy người ngủ"
+      ],
+      "answer": "Mihrab (hốc cầu nguyện)"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được ban cho một người con trai chính trực, người sau này trở thành tiên tri.",
+        "Bị tàn phá bởi một cơn bão dữ dội.",
+        "Chết đuối trên biển",
+        "Được tha khỏi bị thiêu cháy",
+        "Trở về với bộ tộc của mình sau khi được cứu thoát khỏi một con cá."
+      ],
+      "answer": "Được ban cho một người con trai chính trực, người sau này trở thành tiên tri."
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

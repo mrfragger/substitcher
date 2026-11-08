@@ -1,0 +1,61 @@
+{
+  "title": "Sakonetik Deitzailea",
+  "intro": "Imajinatu jainkozko mezu baten ardura duen arima bat, baina presaka, baimenik gabe bere herritik alde egin duena. Bidaia honek proba aparteko batera eraman zituen, pazientziaren eta Goi-goikoarenganako konfiantzaren proba sakon batera. Nor da damuari eta Alaren errukiaren handitasunari buruz irakasten digun istorioa duen pertsona hau?",
+  "clues": [
+    "Nazio handi batera bidali ninduten, baina hasierako ukoak atsekabetu ninduen.",
+    "Nire jendea utzi nuen, nire misioa amaituta zegoela sinetsita, alde egiteko agindu argia jaso aurretik.",
+    "Itsasontzi batean pasabide bat bilatu nuen, baina ekaitz handi batek eta zozketak egoera larria ekarri zuten.",
+    "Itsasora bota ninduten, eta sakoneko izaki indartsu batek osorik irentsi ninduen.",
+    "Bere sabelaren iluntasunean, Ala-ri dei egin nion, nire gaiztakeria onartuz eta haren barkamena eskatuz.",
+    "Alak izakiari kostaldera botatzeko agindu zion, eta landare berezi baten azpian sendatu nintzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yusuf (Joseph) profeta",
+        "Nuh (Noe) profeta",
+        "Yunus (Jonas) profeta",
+        "Sulaiman profeta (Salomon)",
+        "Ayyub (Job) profeta"
+      ],
+      "answer": "Yunus (Jonas) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsasoaren zatiketa.",
+        "Nimroden sua.",
+        "Arrain handi batek irentsi izana",
+        "Uholdea",
+        "Harriek hiri baten suntsipena"
+      ],
+      "answer": "Arrain handi batek irentsi izana"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Arrainaren sabela.",
+        "Putzua",
+        "Sasi erretzailea"
+      ],
+      "answer": "Arrainaren sabela."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Agintari handi bihurtu zen",
+        "Kaaba eraiki zuen",
+        "Damututako nazio bat gidatzeko itzuli zen",
+        "Jinnen gaineko nagusitasuna eman zioten",
+        "Jendea basamortuan zehar gidatu zuen"
+      ],
+      "answer": "Damututako nazio bat gidatzeko itzuli zen"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

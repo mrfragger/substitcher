@@ -1,0 +1,61 @@
+{
+  "title": "De Schlof iwwer d'Zäit eraus",
+  "intro": "Stellt Iech eng Zäit vir, wou d'Wourecht zum Schweige bruecht gouf an d'Gleeweg gejot goufen. Eng kleng Grupp huet sech fir Réckzuch anstatt fir d'Hingabe entscheet a sech op deen onwahrscheinlechsten Plazen zuflucht gelooss - eng Plaz, déi fir Joerhonnerte laang hir Rouplaz sollt ginn. Wéi se endlech erwächt sinn, hat sech d'Welt ronderëm si verännert. Wien sinn dës schlofend Séilen?",
+  "clues": [
+    "Mir ware jonk Leit, déi an enger aler Stad gelieft hunn.",
+    "Eis Gemeinschaft huet verlaangt, datt mir zesumme mat hinnen ubidden, awer mir hunn refuséiert.",
+    "Mir sinn aus der Stad geflücht fir Schutz virun deenen ze sichen, déi sech géint eis Iwwerzeegungen ausgeschwat hunn.",
+    "E treie véierbeenege Begleeder ass um Agank vun eisem Versteck bliwwen.",
+    "Allah huet eis dräihonnert an néng Joer laang schlofe gelooss.",
+    "Wéi mir endlech erwächt sinn, hat eis fréier verfollegend Stad de Glawen ugeholl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "Ashab al-Kahf (D'Leit vun der Höhl)",
+        "Ashab al-Fil (D'Arméi vum Elefant)",
+        "Ashab al-Ukhdud (D'Begleeder vum Gruef)",
+        "Den Hawariyyun (Jünger vum Isa)",
+        "Yajuj wa Majuj (Gog a Magog)"
+      ],
+      "answer": "Ashab al-Kahf (D'Leit vun der Höhl)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Mir hunn eis an eng Hiel zréckgezunn a Joerhonnerte laang geschlof",
+        "Mir goufe virun engem blëtzende Feier gerett",
+        "Mir goufe vun engem grousse Fësch verschléckt",
+        "Mir goufen mat enger wonnerbarer Kamelin op d'Prouf gestallt",
+        "Mir kruten néng kloer Zeeche"
+      ],
+      "answer": "Mir hunn eis an eng Hiel zréckgezunn a Joerhonnerte laang geschlof"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng déif Höhl an de Bierger",
+        "E Boot um oppene Mier",
+        "Eng imposant Struktur déi bis an den Himmel reecht",
+        "E Gaart opgedeelt tëscht zwee Rivalen",
+        "Eng Barrière aus Eisen a Koffer"
+      ],
+      "answer": "Eng déif Höhl an de Bierger"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mir sinn erwächt a festgestallt, datt eis Stad sech zum Glawen gedréit huet",
+        "E blénkegt Feier gouf kill a friddlech",
+        "Eng Feindlech Arméi ass am Mier erdronk",
+        "Vigel, déi Steng gedroen hunn, hunn de Feind zerstéiert",
+        "E grousse Fësch huet eis op d'Ufer lassgelooss"
+      ],
+      "answer": "Mir sinn erwächt a festgestallt, datt eis Stad sech zum Glawen gedréit huet"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

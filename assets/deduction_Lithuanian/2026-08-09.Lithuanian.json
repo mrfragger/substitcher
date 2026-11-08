@@ -1,0 +1,61 @@
+{
+  "title": "Senovės laikų tiesos balsas",
+  "intro": "Korane yra siela, kurios istorija papasakota vos keliose eilutėse, tačiau jos kilnios savybės spindi ryškiai. Visagalio giriamas už ypatingą dorybę, šis senovės Gailestingiausiojo tarnas užima vietą apreiškimo puslapiuose. Jūsų užduotis – atpažinti šią nepaprastą asmenybę. Ar galite atspėti, kas ji tokia?",
+  "clues": [
+    "Aš esu Alacho pranašas, gyvenęs tarp pirmųjų žmonijos kartų.",
+    "Alachas paminėjo mane Savo Knygoje kartu su kitais pranašais, kurie visi buvo giriami už tą pačią kilnią dorybę.",
+    "Korane esu apibūdinamas kaip tiesos žmogus.",
+    "Alachas iškėlė mane į aukštą padėtį, kurią pasiekė nedaugelis kitų.",
+    "Mano vardas minimas Suroje „Al-Anbiya“ kartu su dviem kitais pranašais, giriamais už kantrybę.",
+    "Aš esu Idris, teisingas ir kilnus pranašas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Idrisas",
+        "Pranašas Nuh",
+        "Pranašas Ibrahimas",
+        "Pranašas Musa",
+        "Pranašas Ismailas"
+      ],
+      "answer": "Pranašas Idrisas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Išlaikant kantrybę ir sąžiningumą, tada pakylėta į aukštą padėtį",
+        "Didžiojo arkos statyba, siekiant išgelbėti tikinčiuosius nuo niokojančio tvano",
+        "Įmestas į liepsnojančią ugnį ir išėjęs iš jos visiškai nesužeistas",
+        "Susidūrimas su galingu karaliumi ir jo magų armijos nugalėjimas",
+        "Išgyvenimas didelės žuvies pilve jūros gelmėse"
+      ],
+      "answer": "Išlaikant kantrybę ir sąžiningumą, tada pakylėta į aukštą padėtį"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Aukšta ir išaukštinta Alacho pozicija",
+        "Masyvus laivas, pastatytas iš lentų ir apipiltas degutu",
+        "Įnirtinga ugnis, kurią kursto nedoro karaliaus stabmeldžiai",
+        "Didžiulė jūra, suskilusi į sausus takus",
+        "Didžiojo banginio tamsus pilvas vandenyno dugne"
+      ],
+      "answer": "Aukšta ir išaukštinta Alacho pozicija"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Priimtas į Alacho malonę kaip vienas iš teisiųjų",
+        "Išgelbėtas kartu su visais tikinčiaisiais nuo pasaulinio tvano",
+        "Išėjo iš liepsnų nepaliestas ugnies",
+        "Izraelio vaikus saugiai pervedė į laisvę per jūrą",
+        "Po ilgų vargų metų vėl susitiko su mylima šeima"
+      ],
+      "answer": "Priimtas į Alacho malonę kaip vienas iš teisiųjų"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

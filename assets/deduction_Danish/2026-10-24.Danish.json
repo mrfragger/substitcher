@@ -1,0 +1,61 @@
+{
+  "title": "Advarslen under jorden",
+  "intro": "Forestil dig at stå ved siden af ​​en dyb udgravning, mens stemmer stiger op nedefra, og verden ovenover bliver tavs. Koranen bevarer denne scene som en advarsel: et samfund afviser, hvad budbringerne bringer, straffen nærmer sig, og selv dets brøl bliver en del af vidnesbyrdet. Hvilket kollektiv taler gennem disse vers?",
+  "clues": [
+    "Vi huskes i Koranen som et kollektiv defineret af én fælles skæbne snarere end af et individuelt navn.",
+    "Vi afviste budskabet fra sendebudene, selvom det, de sagde, var sandt.",
+    "Vores erindringsidentitet er knyttet til et dybt snit i jorden, og det træk blev en del af vores navn.",
+    "På den aftalte dag blev vi bragt ud og slæbt hen imod bålet.",
+    "Vi kunne ikke forsvare os mod straffen, og vi kunne ikke høre dens brøl.",
+    "Vores ansigter ville blive vendt i ilden, og vi ville blive drevet ind i den; når vi blev spurgt, ville vi sige, at vi var blandt dem, der ikke kunne svare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Ledsagerne af skyttegraven",
+        "Nationen udfriet fra den store oversvømmelse",
+        "Tilbederne af den gyldne kalv",
+        "Gruppen i ly inde i bjerghulen",
+        "Samfundet udfriet fra den brændende ovn"
+      ],
+      "answer": "Ledsagerne af skyttegraven"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Slæbt og kastet i ilden",
+        "Udfriet fra en brændende ovn",
+        "Båret sikkert gennem en stor oversvømmelse",
+        "Beskyttet i århundreder inde i en hule",
+        "Reddet efter at være blevet kastet i en brønd"
+      ],
+      "answer": "Slæbt og kastet i ilden"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En grøft eller et hul",
+        "Et stort hav",
+        "En bjerghule",
+        "Et højt palads",
+        "En ørkenbrønd"
+      ],
+      "answer": "En grøft eller et hul"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ude af stand til at forsvare sig selv og ude af stand til at høre ildens brøl",
+        "Reddet og givet adgang til de evige haver",
+        "Sikkert leveret gennem en ødelæggende oversvømmelse",
+        "Beskyttet af en lang søvn inde i en hule",
+        "Æret med et evigt rige"
+      ],
+      "answer": "Ude af stand til at forsvare sig selv og ude af stand til at høre ildens brøl"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

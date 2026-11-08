@@ -1,0 +1,61 @@
+{
+  "title": "Diwaller dor an Heol o sevel",
+  "intro": "A-hed ar C'horan e tremen eneoù zo dre an douar o lezel roudoù a furnez hag a souezh. Unan eus an dud-se a veaje betek al lec'hioù pellañ eus ar grouidigezh — e-lec'h ma sav hag e kouezh an heol, e-lec'h ma vez dalc'het an dizurzh gant ur skoilh. Roet e oa bet d'ar servijer Allah-mañ ur rouantelezh na vije bet perc'hennet gant den ebet ken. Dre dri beaj disheñvel e teuas pal an den-se da vezañ sklaer. Ha gallout a rit anavezout ar vageour mojennel-se e-touez skeudoù an istor ?",
+  "clues": [
+    "Roet eo bet din an aotrouniezh gant an Trugarezus-meurbet da ren war an douar en un doare n'en deus den ebet c'hoazh tizhet.",
+    "Beajiñ a ran war-du ar c'hornôg betek tizhout al lec'h ma kouezh an heol, o kavout anezhañ o kuzhat en ur feunteun teñval, ha gwelet em eus ur bobl eno.",
+    "Beajiñ a ran war-du ar c'hreisteiz betek tizhout al lec'h ma sav an heol, o kavout anezhañ o sevel war ur bobl ha n'hon doa pourvezet skoazell ebet outi.",
+    "Beajiñ a ran etre an daou lec'h pellañ-se betek erruout en ur saonenn etre daou venez, ma'm eus kavet ur bobl a c'helle kompren a-boan ar gomz.",
+    "Kavet em eus war ar menez daou varrenn houarn kalet o tizhout a-zehou hag a-gleiz, hag etrezo, un hent strizh. Goulenn a reas an dud-se diganin treuziñ ar skoilh a zalc'he an dizurzh.",
+    "Kemeret em eus ma boued ha lavaret em eus : « Pa vo treuzet ar skoilh e vo un disparti sklaer etrezomp hag ar bobl-mañ ». Ha pa erruas an eur merket, em eus sellet ouzh ar skoilh o vezañ torret a-benn ar fin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Ar profed Sulayman",
+        "Ar profed Ibrahim",
+        "Roue Ghassaniyah",
+        "Dhul-Qarnain ar Vroadelour"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Treuziñ ar skoilh houarn evit tud Yajuj ha Majuj",
+        "O sevel al Lestr dindan urzhioù ur profed",
+        "O sevel un templ e Jeruzalem",
+        "Treuziñ ar Mor Ruz gant ar bobl feizidik",
+        "Sevel ur stankell evit gwareziñ ur vroad reizh"
+      ],
+      "answer": "Treuziñ ar skoilh houarn evit tud Yajuj ha Majuj"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar barrenn houarn etre daou venez",
+        "Al lestr eorret war ur menez",
+        "An ti sakr a azeulerezh e Jeruzalem",
+        "Ar stêr e bro Ejipt",
+        "Ar puñs a vennozhioù e Madyan"
+      ],
+      "answer": "Ar barrenn houarn etre daou venez"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Torret e voe ar skoilh pa zeuas an amzer merket, ha distruj a voe skuilhet",
+        "Beuzet e voe an dud diskred e-pad ma voe saveteet ar feizidi",
+        "An dud just a voe kaset d'ar baradoz peurbadus",
+        "Distrujet e voe kêr gant un avel kriz",
+        "An idolou a oe freuzet hag ar bobl a zistroaz"
+      ],
+      "answer": "Torret e voe ar skoilh pa zeuas an amzer merket, ha distruj a voe skuilhet"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

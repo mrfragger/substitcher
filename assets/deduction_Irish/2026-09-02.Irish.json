@@ -1,0 +1,61 @@
+{
+  "title": "An Codladh Thar Am",
+  "intro": "Samhlaigh am nuair a cuireadh an fhírinne ina tost agus nuair a rinneadh fiach ar chreidmhigh. Roghnaigh grúpa beag cúlú seachas géilleadh, ag lorg tearmainn sna háiteanna is neamhghnáiche - áit a bheadh ​​​​ina láthair scíthe ar feadh na gcéadta bliain thar a bheith neamhchomhaireamh. Nuair a dhúisigh siad faoi dheireadh, bhí an domhan athraithe timpeall orthu. Cé hiad na hanamacha codlata seo?",
+  "clues": [
+    "Ba dhaoine óga muid a bhí ina gcónaí i gcathair ársa.",
+    "D'éiligh ár bpobal go ndéanfaimis adhradh in éineacht leo, ach dhiúltaíomar.",
+    "Theith muid as an gcathair ag lorg tearmainn ó na daoine a bhí i gcoinne ár gcreideamh.",
+    "D’fhan compánach dílis ceithre chosach ag bealach isteach ár n-áite folaigh.",
+    "Chuir Allah codladh orainn ar feadh trí chéad agus naoi mbliana.",
+    "Nuair a dhúisíomar faoi dheireadh, bhí glacadh leis an gcreideamh ag ár gcathair, a bhí á géarleanúint tráth."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Ashab al-Kahf (Muintir na hUaimhe)",
+        "Ashab al-Fil (Arm an Eilifint)",
+        "Ashab al-Ukhdud (Compánaigh an Trinse)",
+        "An Hawariyyun (Deisceabail Isa)",
+        "Yajuj wa Majuj (Gog agus Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Muintir na hUaimhe)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Chuaigh muid i bpluais agus chodail muid ar feadh na gcéadta bliain",
+        "Sábháladh sinn ó thine lonrach",
+        "Shlogadh iasc mór sinn",
+        "Rinneadh tástáil orainn le camall baineann míorúilteach",
+        "Tugadh naoi gcomhartha soiléire dúinn"
+      ],
+      "answer": "Chuaigh muid i bpluais agus chodail muid ar feadh na gcéadta bliain"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Uaimh dhomhain sna sléibhte",
+        "Bád ar an bhfarraige oscailte",
+        "Struchtúr ard a shroicheann na flaithis",
+        "Gairdín roinnte idir dhá iomaitheoir",
+        "Bacainn iarainn agus copair"
+      ],
+      "answer": "Uaimh dhomhain sna sléibhte"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Dhúisíomar agus fuair muid amach go raibh ár gcathair iompaithe chun creidimh",
+        "D’éirigh tine lasrach fionnuar agus síochánta",
+        "Báthadh arm namhaid sa bhfarraige",
+        "Scrios éin a bhí ag iompar clocha namhaid",
+        "Scaoil iasc mór sinn ar an gcladach"
+      ],
+      "answer": "Dhúisíomar agus fuair muid amach go raibh ár gcathair iompaithe chun creidimh"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

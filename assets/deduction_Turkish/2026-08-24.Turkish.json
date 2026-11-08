@@ -1,0 +1,61 @@
+{
+  "title": "İnanan Gizli Dinleyiciler",
+  "intro": "Kutsal bir toplantının sessizliğinde, görünmeyen bir âlemden olağanüstü bir topluluk geldi. Mucize dolu bir şeyin fısıltılarıyla cezbedilen bu insanlar, kaderlerini sonsuza dek mühürleyecek olan okunuşları dinlediler. Onların tanıklığı, kutsal metinlerdeki en eşsiz tanıklıklardan biri olarak kalmıştır.",
+  "clues": [
+    "Bizler, çoğu insanın görmediği bir alemden gelen varlıklarız ve bir grup halinde geldik.",
+    "Olağanüstü bir şey dinlemek için bir araya geleceğimiz bir yere doğru yola koyulduk.",
+    "Vardığımızda, bizi hayrete düşüren bir şiir dinledik.",
+    "Aramızda bazılarının dürüst, bazılarının ise dürüst olmadığını açıkça kabul ettik.",
+    "Yeryüzünde de, gökyüzüne uçarak da ilahi takdirin karşısından kaçamayacağımızı biliyorduk.",
+    "Bu hidayeti duyduğumuzda ona inandık; Rabbine iman eden kimse kayıptan veya yükten korkmaz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Bir grup cin",
+        "İram Halkı",
+        "Tubba Halkı",
+        "Roma İmparatorluğu",
+        "Kureyş Kabilesi"
+      ],
+      "answer": "Bir grup cin"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kutsal bir şiirin okunmasını dinlemek",
+        "Şehrimizde yüksek sütunlar inşa etmek",
+        "Muhteşem bir dişi deve avı",
+        "Peygamberlerimizi öldürdükleri için yok ediliyorlar.",
+        "Serveti ölçüsüz bir şekilde katlamak"
+      ],
+      "answer": "Kutsal bir şiirin okunmasını dinlemek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kutsal metinlerin okunduğu bir toplantı.",
+        "Yüksek sütunlar şehri (İram)",
+        "Çölde bir kuyu",
+        "Altından yapılmış görkemli bir saray",
+        "Dağlardaki kutsal bir mağara"
+      ],
+      "answer": "Kutsal metinlerin okunduğu bir toplantı."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Biz inandık ve halkımızı uyardık.",
+        "Gökyüzünden gelen müthiş bir patlamayla yok edildi.",
+        "Yakıcı, yıkıcı bir rüzgar tarafından cezalandırıldı",
+        "Büyük bir servet ve güç bahşedildi.",
+        "İnançsızlığında kararlı kaldı."
+      ],
+      "answer": "Biz inandık ve halkımızı uyardık."
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

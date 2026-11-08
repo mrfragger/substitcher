@@ -1,0 +1,61 @@
+{
+  "title": "Người xây dựng rào cản",
+  "intro": "Trên những vùng đất rộng lớn, một cá nhân quyền năng đã dấn thân vào một loạt các cuộc thám hiểm, được trao quyền lực và phương tiện vô cùng to lớn. Người này đã gặp gỡ nhiều cộng đồng khác nhau và đối mặt với những thử thách độc đáo, để lại dấu ấn lâu dài trong lịch sử và tín ngưỡng thông qua hành động và trí tuệ của mình, đồng thời luôn nhận thức được nguồn sức mạnh thực sự của bản thân.",
+  "clues": [
+    "Tôi được trao quyền lực và phương tiện để làm chủ mọi thứ, và tôi đã đi theo con đường đó.",
+    "Hành trình của tôi đưa tôi đến nơi mặt trời lặn, nơi tôi tìm thấy một cộng đồng người.",
+    "Tôi đã gặp một cộng đồng người dân sống giữa hai ngọn núi, hầu như không hiểu được ngôn ngữ nói của họ.",
+    "Tôi được yêu cầu xây dựng một rào chắn, không phải vì lợi ích cá nhân, mà để bảo vệ chống lại một thế lực hủy diệt.",
+    "Tôi tuyên bố rằng sức mạnh để xây dựng bức tường đồ sộ này đến từ Allah, và nó sẽ đứng vững cho đến thời điểm đã được hứa hẹn.",
+    "Tên của tôi, thường được dịch là \"Kẻ Hai Sừng\", tượng trưng cho tầm ảnh hưởng của tôi trên khắp trái đất hoặc có lẽ là hai kỷ nguyên khác biệt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Musa",
+        "Tiên tri Sulayman",
+        "Dhul-Qarnayn",
+        "Pharaoh",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Nhận được sự mặc khải",
+        "Đối mặt với một bạo chúa",
+        "Xây dựng một con tàu vĩ đại",
+        "Xây dựng một hàng rào hùng mạnh",
+        "Bị cá nuốt chửng"
+      ],
+      "answer": "Xây dựng một hàng rào hùng mạnh"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah",
+        "Nhân viên",
+        "Rào chắn sắt",
+        "Sông Nile",
+        "Ngai vàng"
+      ],
+      "answer": "Rào chắn sắt"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được cứu khỏi trận lụt",
+        "Trở thành một vương quốc vĩ đại",
+        "Bảo vệ cho một dân tộc",
+        "Sự hủy diệt kẻ áp bức",
+        "Trí tuệ trường tồn"
+      ],
+      "answer": "Bảo vệ cho một dân tộc"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

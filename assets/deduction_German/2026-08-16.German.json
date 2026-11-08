@@ -1,0 +1,61 @@
+{
+  "title": "Die stumme Stimme in der Kammer",
+  "intro": "Ein Gebet hallte vor langer Zeit in der Stille eines heiligen Raumes wider, entsprungen einer alternden Seele, die sich nach dem sehnte, was die Welt für unmöglich erklärt hatte. Diese Gestalt, hochbetagt und von Zukunftsängsten geplagt, wandte sich mit einem persönlichen Flehen an ihren Herrn. Was folgte, war eine göttliche Antwort, die jede natürliche Erwartung übertraf – ein Zeugnis der Barmherzigkeit dessen, der den verzweifelten Ruf erhört.",
+  "clues": [
+    "Ich rief meinen Herrn im Verborgenen an und zog mich in eine Kammer zurück, wo ich mich ganz seiner Anbetung widmete.",
+    "Ich bekannte meinem Herrn, dass ich Angst um diejenigen hätte, die nach mir kommen würden, und dass ich mir Sorgen um die Führung meines Volkes machte, sobald ich von mir scheiden würde.",
+    "Das Alter hatte mich eingeholt – meine Knochen waren schwach geworden und weiße Haare hatten sich auf meinem Kopf ausgebreitet.",
+    "Meine Frau war ihr ganzes Leben lang unfruchtbar gewesen, dennoch bat ich meinen Herrn, mir aus seiner eigenen Gegenwart einen Erben zu schenken.",
+    "Ich bat um ein Zeichen, und mein Herr antwortete, indem er mich drei Nächte lang daran hinderte, mit irgendjemandem zu sprechen, während ich körperlich gesund blieb.",
+    "Mir wurde ein Sohn verheißen, der den Namen Yahya tragen sollte, ein Name, von dem mein Herr erklärte, dass er noch nie zuvor jemandem gegeben worden sei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Zakariya",
+        "Prophet Nuh",
+        "Prophet Musa",
+        "Prophet Yusuf",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Zakariya"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Gebet um einen Erben im hohen Alter bei kinderloser Ehefrau",
+        "In ein loderndes Feuer geworfen werden",
+        "Von einem großen Fisch in der Dunkelheit verschluckt werden",
+        "Den Verlust von Familie, Vermögen und Gesundheit ertragen",
+        "Er erhielt den Befehl, eine große Arche zu bauen."
+      ],
+      "answer": "Gebet um einen Erben im hohen Alter bei kinderloser Ehefrau"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Gebetskammer (Mihrab)",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Eine große hölzerne Arche",
+        "Ein Garten mit einer einzigartigen Quelle",
+        "Ein Berg, auf dem sich Vögel versammelten"
+      ],
+      "answer": "Die Gebetskammer (Mihrab)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Trotz seines hohen Alters wurde ihm auf wundersame Weise ein Sohn mit einem besonderen Namen geschenkt.",
+        "Durch göttlichen Befehl vor einem lodernden Feuer gerettet",
+        "Eine große Flut vernichtete die Ungläubigen.",
+        "Nach geduldiger Rückkehr zu Familie, Wohlstand und Gesundheit.",
+        "Pharao und sein Heer ertranken im Meer"
+      ],
+      "answer": "Trotz seines hohen Alters wurde ihm auf wundersame Weise ein Sohn mit einem besonderen Namen geschenkt."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

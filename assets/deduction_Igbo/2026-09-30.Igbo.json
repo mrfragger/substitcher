@@ -1,0 +1,61 @@
+{
+  "title": "Onye Ọrịa",
+  "intro": "Ogologo oge gara aga, n'oge mbụ nke akụkọ ntolite mmadụ, mkpụrụ obi abụọ guzoro n'ihu Onye Okike ha na-achụ àjà. A nabatara otu, otu anabataghị. Ihe sochiri ga-abụ nnukwu ọdachi mbụ n'etiti ụmụnne - otu omume njide onwe onye na otu omume ịbọ ọbọ dị ilu. Ị nwere ike ịchọpụta onye m bụ?",
+  "clues": [
+    "A mụrụ m n'ụbọchị mbụ nke ndụ mmadụ n'ụwa",
+    "Abụ m nwa nke mmadụ abụọ mbụ biri n'ụwa a",
+    "E nwere mgbe m chụrụ àjà sitere n'aka ndị kacha mma n'ìgwè atụrụ m iji mee ka obi dị Onye Okike m ụtọ",
+    "A nabatara onyinye m site n'elu, ebe a jụrụ onyinye nwanne m nwoke",
+    "Mgbe a na-eyi m egwu ọnwụ, ekpebiri m ịghara iweli aka m megide nwanne m nwoke",
+    "Aghọrọ m onye mbụ n'akụkọ ihe mere eme mmadụ niile onye ọzọ gburu n'ụzọ na-ezighị ezi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Habil (Abel), nwa Adam",
+        "Qabil (Ken), nwa Adam",
+        "Adam, mmadụ mbụ",
+        "Noa (Noa)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), nwa Adam"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ogbugbu mbụ n'akụkọ ihe mere eme mmadụ",
+        "Oké idei mmiri nke Noa",
+        "Mbibi nke ndị agha Fero",
+        "Àjà nke Ismail nke Ibrahim chụrụ",
+        "Agha megide Jalut (Goliath)"
+      ],
+      "answer": "Ogbugbu mbụ n'akụkọ ihe mere eme mmadụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Atụrụ e ji chụọ àjà dị ka àjà na-atọ ụtọ",
+        "Igbe osisi mara mma",
+        "Mkpanaka nke ghọrọ agwọ",
+        "Nnụnụ hoopoe nke na-ebu ozi eze",
+        "Ọgba ọkụ na-ere ọkụ"
+      ],
+      "answer": "Atụrụ e ji chụọ àjà dị ka àjà na-atọ ụtọ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Aghọọla onye mbụ e gburu egbu n'akụkọ ihe mere eme mmadụ",
+        "M lanarịrị nnukwu idei mmiri n'ime arịa osisi",
+        "Biri n'ime afọ nnukwu azụ̀",
+        "Ọchịchị jinn, mmadụ, na ifufe",
+        "Wagharịrị afọ iri anọ n'ime oke ọhịa"
+      ],
+      "answer": "Aghọọla onye mbụ e gburu egbu n'akụkọ ihe mere eme mmadụ"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

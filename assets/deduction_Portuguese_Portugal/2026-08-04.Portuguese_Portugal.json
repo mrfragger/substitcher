@@ -1,0 +1,61 @@
+{
+  "title": "O Eco Através dos Penhascos",
+  "intro": "Imagine um vale onde as moradias são esculpidas em penhascos, e o ar carrega a lembrança de um aviso ignorado. Um povo outrora prosperou aqui, abençoado, porém desafiador, até que um sinal emergiu da própria rocha em que confiavam.",
+  "clues": [
+    "Éramos um povo que esculpia lares seguros nas montanhas, sentindo-nos protegidos em nossas moradias rochosas.",
+    "Vivíamos numa terra de planícies e pedras, abençoada com jardins e nascentes.",
+    "Um mensageiro dentre nós veio, chamando-nos a abandonar nossos falsos deuses e adorar o Único e Verdadeiro Criador.",
+    "Arrogantemente, impusemos uma condição para a crença: um sinal único que emergiria das próprias rochas que esculpimos.",
+    "Quando a prometida camela surgiu da rocha, um sinal claro, nossa elite ainda assim se recusou e a imobilizou, apesar do aviso de uma desgraça iminente.",
+    "Três dias após o nosso feito, uma explosão estrondosa ecoou pelo vale, e fomos reduzidos a escombros, nossas casas, nossos túmulos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "O povo de ¿Ad",
+        "O povo de Thamud",
+        "O povo de Madyan",
+        "O Povo do Bosque",
+        "O Povo da Caverna"
+      ],
+      "answer": "O povo de Thamud"
+    },
+    "trial": {
+      "label": "Nosso evento de teste/principal",
+      "options": [
+        "O ato de mutilar a camela de Alá",
+        "A adoração do bezerro de ouro",
+        "A quebra do sábado",
+        "A construção de uma torre até o céu",
+        "O assassinato dos profetas"
+      ],
+      "answer": "O ato de mutilar a camela de Alá"
+    },
+    "location": {
+      "label": "Elemento chave em nossa história",
+      "options": [
+        "A camela de Alá",
+        "A equipe de Musa",
+        "A arca de Noé",
+        "A mão branca de Musa",
+        "O pássaro de ¿Isa"
+      ],
+      "answer": "A camela de Alá"
+    },
+    "outcome": {
+      "label": "Nosso resultado",
+      "options": [
+        "Destruição por uma explosão ensurdecedora",
+        "Uma chuva de pedras do céu",
+        "Uma inundação que cobriu a Terra.",
+        "Um vento forte que nos arrancou pela raiz.",
+        "A terra nos engolindo"
+      ],
+      "answer": "Destruição por uma explosão ensurdecedora"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

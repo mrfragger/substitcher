@@ -1,0 +1,61 @@
+{
+  "title": "A Voz Silenciosa do Val",
+  "intro": "Retrocede no tempo ata a época dun pobo poderoso que outrora recibiu unha marabilla vivente como proba. A arrogancia e a teimosía selaron o seu destino. Podes rastrexar a historia e descubrir o que se desenvolveu neste dramático punto de inflexión?",
+  "clues": [
+    "Fun enviado como unha proba divina para un pobo poderoso coñecido pola súa forza e desafío.",
+    "Eu era unha marabilla única; ninguén coma min nunca aparecera entre eles.",
+    "Compartía auga potable dun pozo coa miña xente en días alternos.",
+    "Foron advertidos de que calquera dano contra min traería un castigo rápido.",
+    "O máis atrevido deles fixo caso omiso do aviso e me puxo os paralizos.",
+    "Despois da miña morte, un único berro atronador dende o ceo destruíu a todo o meu pobo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A cameloa de Salih",
+        "A vaca de Musa",
+        "O barco de Nuh",
+        "O bastón de Musa",
+        "O Trono de Bilqis"
+      ],
+      "answer": "A cameloa de Salih"
+    },
+    "trial": {
+      "label": "O meu destino",
+      "options": [
+        "Con tendóns e asasinado",
+        "Sacrificado como sacrificio",
+        "Transformada nunha serpe",
+        "Preservado durante unha gran inundación",
+        "Traído rapidamente a través dun reino"
+      ],
+      "answer": "Con tendóns e asasinado"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un pozo de auga",
+        "Unha táboa de pedra",
+        "Unha sarza ardente",
+        "Unha arca de madeira",
+        "Un trono de ouro e prata"
+      ],
+      "answer": "Un pozo de auga"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruído por un só berro",
+        "Afogado nunha gran inundación",
+        "Queimado por unha chuvia de pedras",
+        "Esmagado por un vento violento",
+        "Tragado pola terra"
+      ],
+      "answer": "Destruído por un só berro"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Cichy głos doliny",
+  "intro": "Cofnij się w czasie do potężnego ludu, który niegdyś otrzymał żywy cud jako próbę. Arogancja i upór przypieczętowały ich los. Czy potrafisz prześledzić historię i odkryć, co wydarzyło się w tym dramatycznym punkcie zwrotnym?",
+  "clues": [
+    "Zostałem posłany jako boska próba do potężnego ludu, znanego ze swojej siły i buntu.",
+    "Byłem wyjątkowym cudem – ktoś taki jak ja nigdy wcześniej się wśród nich nie pojawił.",
+    "Co drugi dzień dzieliłem się z moim ludem wodą pitną ze studni.",
+    "Ostrzegano ich, że jakakolwiek krzywda wyrządzona mi będzie skutkować szybką karą.",
+    "Najbardziej odważni z nich zignorowali ostrzeżenie i mnie sparaliżowali.",
+    "Po mojej śmierci jeden donośny krzyk z góry zniszczył cały mój lud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Wielbłądzica Salih",
+        "Krowa Musy",
+        "Statek Nuha",
+        "Laska Musy",
+        "Tron Bilqis"
+      ],
+      "answer": "Wielbłądzica Salih"
+    },
+    "trial": {
+      "label": "Mój los",
+      "options": [
+        "Złamany i zabity",
+        "Zabity jako ofiara",
+        "Przemieniony w węża",
+        "Zachowane podczas wielkiej powodzi",
+        "Szybko przetransportowany przez królestwo"
+      ],
+      "answer": "Złamany i zabity"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Studnia z wodą",
+        "Tablica kamienna",
+        "Płonący krzew",
+        "Arka z drewna",
+        "Tron ze złota i srebra"
+      ],
+      "answer": "Studnia z wodą"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zniszczony jednym krzykiem",
+        "Utonął w wielkiej powodzi",
+        "Spalony gradem kamieni",
+        "Zmiażdżony przez gwałtowny wiatr",
+        "Pochłonięty przez ziemię"
+      ],
+      "answer": "Zniszczony jednym krzykiem"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

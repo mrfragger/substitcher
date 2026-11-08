@@ -1,0 +1,61 @@
+{
+  "title": "Vysloveno do bytí",
+  "intro": "Z posvátné historie se vynořuje postava, která přinesla zázraky, jež se vzpíraly přirozenému řádu. Tato duše se objevila na jediný božský příkaz, ochránila rodiče před těžkými obviněními a opustila tento svět dříve, než ji mohly spoutat pozemské řetězy. Příběh sahá od skromné ​​kolébky až po nebesa. Kdo by to mohl být?",
+  "clues": [
+    "Byl jsem poslán jako znamení a milosrdenství od Alláha dětem Izraele.",
+    "Můj příchod se nepodobal žádnému předtím – vznikl jsem božským slovem „Buď!“ bez pozemského otce.",
+    "Můj rodič čelil kruté pomluvě, ale sestoupilo na ně posvátné zjevení, které prohlásilo jejich nevinu a povýšilo jejich postavení.",
+    "Jako novorozené dítě jsem ohromoval své okolí tím, že jsem od kolébky jasně mluvil, abych očistil jméno svých rodičů.",
+    "S Alláhovým dovolením jsem z neživé hlíny vytvaroval život, slepým jsem dal zrak a malomocné jsem vyléčil svým dotykem.",
+    "Byl jsem povznesen do nebes dříve, než se mě mohlo dotknout cokoli zlého, a vrátím se do tohoto světa dříve, než nastane poslední hodina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Ísa",
+        "Prorok Músa",
+        "Prorok Ibráhím",
+        "Prorok Jusuf",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Ísa"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Mluvení od kolébky jako dítě",
+        "Přežití v břiše velké ryby",
+        "Být uvržen do planoucího ohně",
+        "Stavba velké archy před potopou",
+        "Tváří v tvář čarodějnictví faraonova dvora"
+      ],
+      "answer": "Mluvení od kolébky jako dítě"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Indžíl (evangelium)",
+        "Tóra (Tawrah)",
+        "Žalmy (Zabur)",
+        "Suhuf (Ibrahimovy svitky)",
+        "Hůl, která rozdělila moře"
+      ],
+      "answer": "Indžíl (evangelium)"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Pozdvižen do nebes, vrátí se před Soudným dnem",
+        "Vyvedli děti Izraele z Egypta",
+        "Stal se králem s nadvládou nad džiny, lidmi a ptáky",
+        "Přežil s věřícími obrovskou povodeň",
+        "Postavil posvátný dům v Mekce"
+      ],
+      "answer": "Pozdvižen do nebes, vrátí se před Soudným dnem"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

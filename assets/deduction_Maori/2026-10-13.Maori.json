@@ -1,0 +1,61 @@
+{
+  "title": "Te Hoariri Mumura",
+  "intro": "I ngā rā tōmua o te whakakitenga, i puta ake tētahi tangata hei hoariri pakari mō te pono. Nā te taonga me te mana i manaaki i tēnei wairua, i whiriwhiria e ia te whakapehapeha i runga i te arataki, ā, i riro tō rātou kōrero hei whakatūpato kaha i ngā whiti whakamutunga o tētahi surah.",
+  "clues": [
+    "I noho tahi māua ko te Poropiti i te tāone kotahi, ā, i roto ahau i te whanaunga tata rawa atu ki a ia, heoi nā tōku whakapehapeha ahau i pupuri kia matara atu i te pono.",
+    "He nui aku taonga, ā, i mahara ahau mā aku rauemi ahau e tiaki tonu.",
+    "I te whakakitenga mai o te karere, ka tawai nui ahau, ka tahuri ke atu, me te whakaaro he nui ake ahau i te hunga whakapono.",
+    "Nā te nui o tōku mauahara i tino kitea, i kōrero tika mai tētahi sura o te Quran ki ahau, i karanga i ahau i te ingoa i mōhiotia ai ahau e ētahi atu.",
+    "I whakatūpatotia ahau e kore aku taonga me aku whiwhinga e whai hua ki ahau, ā, ka maka ahau ki roto i te ahi mura.",
+    "E mōhiotia ana ahau ko te matua o te mura, ā, mā taku wahine e amo te wahie me te taura muka nikau hei whitiki i tōna kaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Āpu Rāhapi",
+        "Āpu Jahl",
+        "Āpu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Āpu Rāhapi"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakakahore i te Ihirama, ā, i whakahē tūmatanui i te Poropiti",
+        "I whakatakoto mahere hei kōhuru i te Poropiti",
+        "I ārahi i tētahi whakahē pāpori ki ngā Mahometa",
+        "I whawhai i te Pakanga o Pātara",
+        "I whakamamaetia a Bilal ibn Rabah"
+      ],
+      "answer": "I whakakahore i te Ihirama, ā, i whakahē tūmatanui i te Poropiti"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He taura muka nikau",
+        "He hoari koi",
+        "He mekameka taumaha",
+        "He tokotoko rakau",
+        "He whiu hiako"
+      ],
+      "answer": "He taura muka nikau"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Ka tahuna i roto i te ahi mura",
+        "I ripeneta, ā, ka noho hei hoa",
+        "I ngaro tōna taonga engari i mate me te whakahonoretia",
+        "I rere ki Āpihia",
+        "I toremi ki te moana"
+      ],
+      "answer": "Ka tahuna i roto i te ahi mura"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

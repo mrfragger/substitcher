@@ -1,0 +1,61 @@
+{
+  "title": "Rojet e Kopshtit",
+  "intro": "Në një kopsht të harlisur, një komunitet bëri një betim solemn. Por vendosmëria e tyre u vu në provë kur ndërhyri vullneti hyjnor, duke e transformuar begatinë e tyre në një tokë të shkretë.",
+  "clues": [
+    "Ne u bekuam me një kopsht të bollshëm, por u bëmë arrogantë.",
+    "Ne bëmë një plan për të korrur pa i ndarë me të varfrit.",
+    "U nisëm herët në mëngjes, të sigurt në planin tonë.",
+    "Por kur mbërritëm, zbuluam se kopshti ynë ishte shkatërruar brenda natës.",
+    "E kuptuam gabimin tonë dhe filluam të fajësonim njëri-tjetrin.",
+    "Më në fund u penduam, por mësimi u nxor shumë vonë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush Jemi Ne?",
+      "options": [
+        "Njerëzit e Kopshtit",
+        "Njerëzit e Shpellës",
+        "Njerëzit e Elefantit",
+        "Populli i Themudit",
+        "Populli i Adit"
+      ],
+      "answer": "Njerëzit e Kopshtit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Një kopsht i shndërruar në hi",
+        "Një përmbytje që shkatërroi gjithçka",
+        "Një zi buke që goditi vendin",
+        "Një ushtri zogjsh që sulmojnë",
+        "Një erë e fortë që rrëzoi pemët"
+      ],
+      "answer": "Një kopsht i shndërruar në hi"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një kopsht",
+        "Një shpellë",
+        "Një anije",
+        "Një mal",
+        "Një pallat"
+      ],
+      "answer": "Një kopsht"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Ata u penduan, por humbën kopshtin e tyre",
+        "Ata u shkatërruan plotësisht",
+        "Ata u shndërruan në majmunë",
+        "Ata u shpëtuan me anë të besimit",
+        "Ata u bënë sundimtarë"
+      ],
+      "answer": "Ata u penduan, por humbën kopshtin e tyre"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

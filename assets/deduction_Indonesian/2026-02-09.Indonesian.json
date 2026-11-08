@@ -1,0 +1,60 @@
+{
+  "title": "Pengadilan di Bawah Ombak",
+  "intro": "Seorang nabi, yang terbebani oleh misinya, membuat keputusan yang membawanya jauh dari umatnya dan ke dalam cobaan yang tak terduga. Perjalanannya mengalami perubahan dramatis, menguji iman dan kesabarannya dengan cara yang paling mendalam. Dapatkah Anda menyimpulkan detail peristiwa luar biasa ini dari petunjuk yang diberikan?",
+  "clues": [
+    "Seorang nabi diutus kepada suatu kaum, tetapi ia pergi dengan tergesa-gesa karena merasa frustrasi dengan penolakan mereka.",
+    "Perjalanannya membawanya ke laut, di mana ia menaiki kapal yang sarat muatan untuk mencari tumpangan.",
+    "Badai besar muncul, mengancam kapal, dan diputuskan untuk melemparkan satu orang ke laut untuk meringankan beban, yang ditentukan dengan undian.",
+    "Dia ditelan oleh makhluk dari kedalaman laut, sebuah peristiwa ajaib yang ditetapkan oleh kehendak Ilahi.",
+    "Di dalam perut makhluk itu, ia berseru kepada Tuhannya, bertaubat dan memuji Allah dalam kegelapan.",
+    "Setelah lama berdoa dengan sungguh-sungguh, ia terdampar di pantai yang tandus, lemah tetapi masih hidup, dan kemudian kembali mendapati bangsanya akhirnya percaya."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nabi/Orang",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Lut",
+        "Nabi Musa",
+        "Nabi Yunus",
+        "Nabi Yusuf"
+      ],
+      "answer": "Nabi Yunus"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Banjir Nuh",
+        "Kehancuran Sodom",
+        "Perjalanan di dalam perut ikan raksasa",
+        "Terbelahnya laut",
+        "Wahyu semak yang terbakar"
+      ],
+      "answer": "Perjalanan di dalam perut ikan raksasa"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Bahtera",
+        "Gunung Sinai",
+        "Tongkat Musa",
+        "Ikan Besar",
+        "Sumur Yusuf"
+      ],
+      "answer": "Ikan Besar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Perjanjian baru dengan umat manusia",
+        "Kelahiran ajaib bagi umat-Nya",
+        "Sebuah kerajaan yang didirikan untuk garis keturunannya.",
+        "Kembali kepada kaumnya yang saat itu percaya",
+        "Kemenangan atas penguasa tirani"
+      ],
+      "answer": "Kembali kepada kaumnya yang saat itu percaya"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

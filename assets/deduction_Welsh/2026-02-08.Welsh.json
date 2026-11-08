@@ -1,0 +1,60 @@
+{
+  "title": "Pos yr Orsedd Bell",
+  "intro": "Roedd brenin pwerus, wedi'i fendithio ag awdurdod rhyfeddol, yn wynebu her ryfedd yn ymwneud â brenhines o wlad bell. Ceisiodd y brenin ddangos pŵer a doethineb dwyfol, gan gychwyn digwyddiad anhygoel a oedd yn herio deddfau amser a gofod. A allwch chi ddiddwytho manylion y digwyddiad rhyfeddol hwn?",
+  "clues": [
+    "Rhoddwyd pŵer aruthrol i reolwr, gan gynnwys rheolaeth dros fodau anweledig a'r gallu i orchymyn y gwyntoedd.",
+    "Derbyniodd y rheolwr hwn newyddion am frenhines gyfoethog a oedd yn addoli'r haul, a phenderfynodd ei gwahodd i'r llys.",
+    "Cyn dyfodiad y frenhines, mynegodd y llywodraethwr awydd i ddod â'i sedd rym ysblennydd o'i theyrnas bell.",
+    "Cynigiodd jinn nerthol adfer y gwrthrych cyn y gallai'r llywodraethwr godi o'i gyngor.",
+    "Fodd bynnag, cynigiodd un â gwybodaeth ddofn am yr Ysgrythur Ddwyfol adferiad cyflymach fyth, gan gwblhau'r dasg mewn amrantiad.",
+    "Ar ôl iddo gyrraedd, gorchmynnodd y llywodraethwr newid y gwrthrych i brofi deallusrwydd a chanfyddiad y frenhines pan gyrhaeddodd y palas o'r diwedd."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Proffwyd/Person",
+      "options": [
+        "Proffwyd Moses",
+        "Proffwyd Dafydd",
+        "Proffwyd Ibrahim",
+        "Proffwyd Yusuf",
+        "Proffwyd Sulayman"
+      ],
+      "answer": "Proffwyd Sulayman"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Hollti'r Môr",
+        "Yr Amynedd mewn Adfyd",
+        "Adeiladu'r Kaaba",
+        "Prawf y Gerddi",
+        "Dod â Throsedd y Frenhines"
+      ],
+      "answer": "Dod â Throsedd y Frenhines"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr Arch",
+        "Y Staff",
+        "Y Mynydd",
+        "Y Ffynnon",
+        "Yr Orsedd"
+      ],
+      "answer": "Yr Orsedd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Aberth mawr",
+        "Teyrnas wedi'i sefydlu",
+        "Pobl wedi'u cosbi",
+        "Cyfamod newydd",
+        "Ymostyngiad y Frenhines i Allah"
+      ],
+      "answer": "Ymostyngiad y Frenhines i Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

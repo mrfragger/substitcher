@@ -1,0 +1,61 @@
+{
+  "title": "Odadaki Sessiz Ses",
+  "intro": "Uzun zaman önce, kutsal bir odanın sessizliğinde, dünyanın imkansız ilan ettiği şeye özlem duyan yaşlı bir ruhtan yükselen bir dua yankılandı. Yaşı ilerlemiş ve geleceğe dair endişelerle dolu bu kişi, kişisel bir yakarışla Rabbine yöneldi. Ardından gelen ilahi yanıt, her türlü doğal beklentiyi alt üst etti; umutsuz çağrıya cevap verenin merhametinin bir kanıtıydı.",
+  "clues": [
+    "Rabbime özel olarak seslendim ve kendimi O'na ibadet etmeye adadığım bir odaya çekildim.",
+    "Rabbime, benden sonra gelecekler için endişelendiğimi, ben ayrıldıktan sonra halkımın nasıl yönlendirileceği konusunda kaygı duyduğumu itiraf ettim.",
+    "Yaşlılık beni ele geçirmişti; kemiklerim zayıflamış, saçlarım beyazlamıştı.",
+    "Eşim hayatı boyunca kısır olmuştu, yine de Rabbimden kendi huzurunda bana bir varis vermesini diledim.",
+    "Bir işaret istedim ve Rabbim, fiziksel olarak sağlam kaldığım sürece üç gece boyunca kimseyle konuşmamı engelleyerek karşılık verdi.",
+    "Bana Yahya adında bir oğul verileceği sözü verilmişti; Rabbim bu ismin daha önce kimseye verilmediğini söylemişti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Zekeriya",
+        "Peygamber Nuh",
+        "Peygamber Musa",
+        "Peygamber Yusuf",
+        "Peygamber Davud"
+      ],
+      "answer": "Peygamber Zekeriya"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yaşlılıkta kısır bir eş için varis dilemek için dua etmek",
+        "Alev alev yanan bir ateşe atılmak",
+        "Karanlıkta büyük bir balık tarafından yutulmak",
+        "Aile, servet ve sağlık kaybına katlanmak",
+        "Büyük bir gemi inşa etme emri almak"
+      ],
+      "answer": "Yaşlılıkta kısır bir eş için varis dilemek için dua etmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Namaz odası (mihrab)",
+        "Yılana dönüşen bir asa",
+        "Büyük bir ahşap gemi",
+        "Eşsiz bir pınara sahip bir bahçe",
+        "Kuşların toplandığı bir dağ"
+      ],
+      "answer": "Namaz odası (mihrab)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İleri yaşına rağmen mucizevi bir şekilde adlandırılmış bir oğula sahip oldu.",
+        "İlahi bir emirle yakıcı bir yangından kurtarıldı.",
+        "Büyük bir tufan kâfirleri yok etti.",
+        "Sabır sayesinde ailesine, servetine ve sağlığına kavuştu.",
+        "Firavun ve ordusu denizde boğuldu."
+      ],
+      "answer": "İleri yaşına rağmen mucizevi bir şekilde adlandırılmış bir oğula sahip oldu."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

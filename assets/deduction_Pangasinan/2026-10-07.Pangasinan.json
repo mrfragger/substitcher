@@ -1,0 +1,61 @@
+{
+  "title": "Say ngalab ed loob na palasyo na inkatangsit",
+  "intro": "Diad benegan na saray angkakabaleg a padir na sankabiskegan a palasyo ed kadaanan a mundo et manaayam so sakey a pigura a say puso to so walaan na sekreto ya anggapoy ganggan na ari a makapangireen. Legan ya amin ed kaliberliber et manpapasnok ed saray palson dirios, sayan kamarerwa so nansiansian mareen a pananisia a manliob ed loob to. Say manuley ed saman a bansa et manisia ya sikatoy madios, balet ta mas pinili na sayan indibidual so katuaan nen say ligliwa, tan say debosyon nen say kaligenan. Natan, say kimey mo et naamtaan no siopa iyan makpel a kamarerwa, ya say istorya to so mansiansian sakey ed saray sankabiskegan ya alimbawa na ag-onkupas a pananisia.",
+  "clues": [
+    "Nanayam ak ed sakey a pasen a walaan na baleg a kayamanan tan agnaparaan a karakpan, a ditan et say manuley na bansa so walaan na sigpot a pakayari ed amin a bengatla.",
+    "Legan ya ontatakot iramay walad kaliberliber ko ed saray palson dirios, insian ko so mareen a liwawa na pananisia ed pusok.",
+    "Adiskobre tan inampon ko so sakey ya ugaw ya inyanak ed siak diad nikadkaduman paraan - aliwan diad inkianak, no ag diad panamegley na danum na baleg ya ilog.",
+    "Nampikasi ak ed Katawan ko, ya kinmerew ak na bilay ya asingger ed Sikato diad Paraiso tan kilalaban manlapud panagpairap ya akapaliber ed siak.",
+    "Say ugaw ya pinabaleg ko et binmaleg ya mangabet ed mismon manuley ya mangokontrol ed kapalaran ko, tan malet ak ed pananisiak anggano natatakot ak.",
+    "Siak so sakey ya say ngaran to et nigalangan ed Quran bilang modelo na pananisia, tan nanayam ak ed palasyo nen Faraon a mismo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Si Asiya ya asawa nen Faraon",
+        "Si Maryam, say ina nen Isa",
+        "Bilqis, say Reyna na Sheba",
+        "Say asawa nen Propeta Lut",
+        "Say asawa nen Imran"
+      ],
+      "answer": "Si Asiya ya asawa nen Faraon"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Say impakadiskobre tan impamabaleg ed sakey ya tinaynan ya ugaw ya nagmaliw a baleg a propeta",
+        "Say pangibantak ed baleg ya apoy na sakey a managpairap",
+        "Naimatonan so baleg a delap ya aneral ed sakey a totoo",
+        "Nanengneng so date palm shake tan mangiter na sustansya",
+        "Manlukon na anak a laki anggaman maedad la"
+      ],
+      "answer": "Say impakadiskobre tan impamabaleg ed sakey ya tinaynan ya ugaw ya nagmaliw a baleg a propeta"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey a palasyo na ari ya agnaparaan so karakpan to",
+        "Sakey a baleg a barko ya ginawa pian makasungdo ed delap",
+        "Aralem ya ungib ya akaamot ed kapalandeyan",
+        "Sakey a mandarlang ya apoy ya ginawa ed toktok na palandey",
+        "Sakey a hardin ya apaliberan na saray padir"
+      ],
+      "answer": "Sakey a palasyo na ari ya agnaparaan so karakpan to"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Niiter so bilay ed Paraiso lapud linawa nen Allah",
+        "Dineral na baleg a delap iray agmananisia ed sakey a nasyon nensaman",
+        "Sakey a panarian ya walaan na baleg a pakayari tan autoridad so niiter ed sayan mundo",
+        "Sakey a mabiskeg ya armada so nitaytayak na saray manok ya ontitikyab",
+        "Sakey a managpairap ya mangibabagan sikatoy dios so linmereg ed dayat"
+      ],
+      "answer": "Niiter so bilay ed Paraiso lapud linawa nen Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

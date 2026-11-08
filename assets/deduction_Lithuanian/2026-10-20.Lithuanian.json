@@ -1,0 +1,61 @@
+{
+  "title": "Netikrų ambicijų architektas",
+  "intro": "Senovės Egipte vienam liūdniausiai istorijoje pagarsėjusių tironų kadaise tarnavo labai autoritetingas asmuo. Šiam asmeniui buvo patikėtas drąsus įsakymas – pastatyti statinį, skirtą mesti iššūkį dangui. Jų istorija Korane yra įspūdinga pamoka apie tai, kaip aklas paklusnumas arogancijai veda tik į pražūtį.",
+  "clues": [
+    "Tarnavau galingo valdovo, kuris tvirtino esąs dieviškas visoje žemėje, dvaruose.",
+    "Užėmiau aukštas ministro pareigas, patarinėjau arogantiškiausiam savo laikų tironui.",
+    "Mano valdovas buvo įnikęs į iššūkius Mozės Dievui, kurio jie atsisakė pripažinti.",
+    "Man buvo įsakyta pastatyti bokštą iš ugnyje išdegintų plytų, kad mano valdovas galėtų pakilti į dangų.",
+    "Bokštas niekada nepasiekė dangaus, o mano vergystė arogancijai užsitraukė man amžiną gėdą.",
+    "Aš žuvau kartu su tuo, kurį sekiau, ir mano vardas tapo amžinu įspėjimu prieš tuos, kurie įgalina tironus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Hamanas",
+        "Azaras (Ibrahimo tėvas)",
+        "Iljas (pranašas)",
+        "Dhu al-Kifl",
+        "Harutas (vienas iš dviejų angelų Babilone)"
+      ],
+      "answer": "Hamanas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įsakyta pastatyti aukštą statinį, kad pasiektų dangų",
+        "Paprašyta išaiškinti dievo atsiųstą sapną",
+        "Įmestas į liepsnojančią ugnį kaip tikėjimo išbandymas",
+        "Priverstas rinktis tarp sosto ir tiesos",
+        "Iššūkis burtų konkurse"
+      ],
+      "answer": "Įsakyta pastatyti aukštą statinį, kad pasiektų dangų"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Ugnyje išdegintų plytų bokštas",
+        "Lazdelė, kuri virto gyvate",
+        "Laivas, plaukiantis per didelį potvynį",
+        "Sodas, aptvertas aukštomis sienomis",
+        "Sostas, papuoštas rubinais ir auksu"
+      ],
+      "answer": "Ugnyje išdegintų plytų bokštas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nuskendo jūroje kartu su engėju",
+        "Tapo galingu plačių žemių monarchu",
+        "Iš gaisro išvengė nenukentėjęs",
+        "Sukūrė klestinčią išminties karalystę",
+        "Po tremties metų vėl susitiko su šeima"
+      ],
+      "answer": "Nuskendo jūroje kartu su engėju"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

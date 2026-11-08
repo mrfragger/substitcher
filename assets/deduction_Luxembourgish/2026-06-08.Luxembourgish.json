@@ -1,0 +1,61 @@
+{
+  "title": "De Bëtel vum Hellegtum",
+  "intro": "An de rouegen Stonne vun der Nuecht huet eng trei Séil den Allerbarmhäerzegsten an den hellege Mauere vun enger helleger Plaz geruff. Joer vun onerschütterleche Glawen a Gedold géife mat engem Wonner belount ginn, dat Freed a Prophetschaft brénge géif.",
+  "clues": [
+    "Ech hunn meng Deeg an Nuechten an Andacht an engem hellegen Heiligtum verbruecht, stänneg zu mengem Här gebiet.",
+    "Ech sinn al ginn, a meng Fra war onfruchtbar, awer ech hunn ni d'Hoffnung op d'Barmhäerzegkeet vum Gott verluer.",
+    "Mir gouf e Jong geschenkt, mam Numm Yahya, deen e Prophet an e Liichttuerm vun der Gerechtegkeet gouf.",
+    "Ech war selwer e Prophet, geschéckt fir d'Kanner vun Israel ze leeden.",
+    "Ech war en Nokommen vum Prophet Harun a war als Paschtouer am Tempel.",
+    "Mir gouf d'Suerg vun der Maryam, der Mamm vum Isa, uvertraut a war Zeie vun hire Wonner."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Zakariyya",
+        "De Prophet Yahya",
+        "Prophet Ilyas",
+        "De Prophet Ishaq",
+        "De Prophet Ya'qub"
+      ],
+      "answer": "Prophet Zakariyya"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Huet e Jong am Alter geschenkt",
+        "Virun engem blëtzende Feier gerett",
+        "Aus dem Bauch vun engem Fësch gerett",
+        "Iwwerlieft eng grouss Iwwerschwemmung",
+        "Vun enger schwéierer Krankheet geheelt"
+      ],
+      "answer": "Huet e Jong am Alter geschenkt"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Mihrab (Gebiedsnisch)",
+        "D'Kaaba",
+        "De brennende Busch",
+        "D'Ark vum Bund",
+        "D'Höhl vun de Siwe Schléifer"
+      ],
+      "answer": "De Mihrab (Gebiedsnisch)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "E gerechte Jong geschenkt, deen e Prophet gouf",
+        "Vun engem gewaltege Stuerm zerstéiert",
+        "Am Mier erdronk",
+        "Virum Verbrenne verschount",
+        "Zréck bei hir Leit nodeems se virun engem Fësch gerett goufen"
+      ],
+      "answer": "E gerechte Jong geschenkt, deen e Prophet gouf"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

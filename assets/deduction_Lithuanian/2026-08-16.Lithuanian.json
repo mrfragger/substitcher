@@ -1,0 +1,61 @@
+{
+  "title": "Tylus balsas kameroje",
+  "intro": "Seniai seniai šventos menės tyloje aidėjo malda, kylanti iš senstančios sielos, trokštančios to, ką pasaulis paskelbė neįmanomu. Ši figūra, senstanti ir prislėgta nerimo dėl ateities, kreipėsi į savo Viešpatį su asmeniniu prašymu. Po to sekė dieviškas atsakas, pranokstantis visus natūralius lūkesčius – liudijimas apie gailestingumą To, kuris atsiliepia į beviltišką šauksmą.",
+  "clues": [
+    "Aš pašaukiau savo Viešpatį privačiai, pasitraukdamas į kambarį, kuriame atsidėjau Jo garbinimui.",
+    "Prisipažinau savo Viešpačiui, kad bijau dėl tų, kurie ateis po manęs, nerimauju dėl savo žmonių vadovavimo, kai išvyksiu.",
+    "Mane užklupo senatvė – mano kaulai nusilpo, o galvą apėmė žili plaukai.",
+    "Mano sutuoktinė visą gyvenimą buvo nevaisinga, tačiau aš vis tiek prašiau Viešpaties duoti man įpėdinį iš Jo paties akivaizdos.",
+    "Paprašiau ženklo, ir mano Viešpats atsakė, neleisdamas man tris naktis su niekuo kalbėtis, kol išliksiu fiziškai sveikas.",
+    "Man buvo pažadėtas sūnus, vardu Jahja – vardas, kuris, mano Viešpaties teigimu, niekam anksčiau nebuvo duotas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Zakarija",
+        "Pranašas Nuh",
+        "Pranašas Musa",
+        "Pranašas Jusufas",
+        "Pranašas Dawudas"
+      ],
+      "answer": "Pranašas Zakarija"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Meldžiantis už įpėdinį senatvėje su nevaisingu sutuoktiniu",
+        "Įmestas į liepsnojančią ugnį",
+        "Būti prarytam didelės žuvies tamsoje",
+        "Ištverti šeimos, turto ir sveikatos netektį",
+        "Įsakymas pastatyti didelę arką"
+      ],
+      "answer": "Meldžiantis už įpėdinį senatvėje su nevaisingu sutuoktiniu"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Maldos kambarys (mihrab)",
+        "Lazdelė, kuri virto gyvate",
+        "Puiki medinė arka",
+        "Sodas su unikaliu šaltiniu",
+        "Kalnas, kuriame rinkdavosi paukščiai"
+      ],
+      "answer": "Maldos kambarys (mihrab)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nepaisant labai seno amžiaus, stebuklingai pavadintas sūnus",
+        "Išgelbėtas nuo liepsnojančios ugnies dievišku įsakymu",
+        "Didelis potvynis sunaikino netikinčiuosius",
+        "Po kantrybės atkurta šeima, turtas ir sveikata",
+        "Faraonas ir jo armija nuskendo jūroje"
+      ],
+      "answer": "Nepaisant labai seno amžiaus, stebuklingai pavadintas sūnus"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

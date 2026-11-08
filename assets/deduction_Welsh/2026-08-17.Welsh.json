@@ -1,0 +1,61 @@
+{
+  "title": "Y Tramgwydd wrth y Lan",
+  "intro": "Rydych chi'n sefyll ar dywod glan anghofiedig, lle mae'r tonnau'n sibrwd am gymuned a brofwyd gan orchymyn dwyfol. Mae'r awyr yn drwm gyda chof am drosedd a arweiniodd at drawsnewidiad syfrdanol. Pwy oedd yr eneidiau hyn, a beth oedd natur eu treial?",
+  "clues": [
+    "Roedden ni'n gymuned a dderbyniodd orchymyn clir gan ein Harglwydd, ond fe ddaethon ni o hyd i ffyrdd o'i herio.",
+    "Roedden ni'n byw ger corff o ddŵr, ac roedd ein bywoliaeth yn dibynnu ar ei greaduriaid.",
+    "Daeth prawf arnom ar y diwrnod y gorchmynnwyd inni ymatal rhag gweithgareddau bydol.",
+    "Daeth creaduriaid y dŵr atom mewn niferoedd mawr y diwrnod hwnnw, gan ein temtio y tu hwnt i'r gallu i'w ddioddef.",
+    "Fe ddyfeisiom ni driciau cyfrwys i osgoi'r gorchymyn dwyfol, gan feddwl y gallem ni drechu'r gorchymyn.",
+    "Arweiniodd ein camwedd at drawsnewidiad gwarthus; daethom yn epaod dirmygus trwy orchymyn Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pobl y Saboth",
+        "Pobl Rass",
+        "Pobl Tubba",
+        "Pobl yr Ogof",
+        "Cymdeithion y Ffos"
+      ],
+      "answer": "Pobl y Saboth"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Ymddangosiad pysgod ar y Saboth",
+        "Blwyddyn o sychder difrifol",
+        "Byddin o adar a anfonwyd yn eu herbyn",
+        "Llif a'u gorlethodd",
+        "Daeargryn treisgar"
+      ],
+      "answer": "Ymddangosiad pysgod ar y Saboth"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y môr",
+        "Mynydd",
+        "Ogof",
+        "Dyffryn anialwch",
+        "Dinas gaerog"
+      ],
+      "answer": "Y môr"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi troi’n epaod",
+        "Wedi'i lyncu gan y ddaear",
+        "Wedi'i ddinistrio gan wynt sgrechian",
+        "Boddi yn y môr",
+        "Wedi'i daro gan gawod o gerrig"
+      ],
+      "answer": "Wedi troi’n epaod"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

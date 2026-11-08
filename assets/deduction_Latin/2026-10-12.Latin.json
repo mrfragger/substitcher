@@ -1,0 +1,61 @@
+{
+  "title": "Votum Nondum Natorum",
+  "intro": "Anima sincera promissum sacrum ante adventum infantis fecit. Fabula huius personae intra muros sanctuarii explicatur, ubi devotio divinam acceptationem convenit. Quis est hic servus Dei?",
+  "clues": [
+    "Ex familia in Alcorano honorata fui.",
+    "Votum sollemne feci ut filium meum nondum natum servitio Allah dedicarem.",
+    "Cum peperi, mirata sum inveniendo filiam esse, quamquam filium exspectaveram.",
+    "Filiam meam Maryam nominavi, nomen devotionem et servitium reflectens.",
+    "Pro filia mea et progenie eius a Satana maledicto, protectionem Allah petivi.",
+    "Filius meus a Domino acceptus est et curae prophetae Zachariae in sanctuario traditus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Uxor Imran (Mater Mariae)",
+        "Asiya, uxor Pharaonis",
+        "Maria, mater Isae",
+        "Mater prophetae Musae",
+        "Regina Sabae"
+      ],
+      "answer": "Uxor Imran (Mater Mariae)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Vovens filium suum templo dedicare",
+        "In ignem coniectus",
+        "Mare in terra sicca transiens",
+        "Arcam magnam aedificans",
+        "A pisce magno deglutiri"
+      ],
+      "answer": "Vovens filium suum templo dedicare"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Sanctuarium (mihrab) ubi infans eius positus est",
+        "Arca foederis",
+        "Vitulus aureus",
+        "Baculus qui in serpentem conversus est",
+        "Palma dactylifera sub qua requievit"
+      ],
+      "answer": "Sanctuarium (mihrab) ubi infans eius positus est"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Infans eius acceptus et curae prophetae Zachariae traditus est.",
+        "A poena tyranni servata est",
+        "Datum est ei filius nomine Yahya",
+        "Populus eius tempestate deletus est",
+        "Regina super magnum regnum facta est"
+      ],
+      "answer": "Infans eius acceptus et curae prophetae Zachariae traditus est."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

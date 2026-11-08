@@ -1,0 +1,61 @@
+{
+  "title": "Gwazourien an eost kuzh",
+  "intro": "En un douar glas, ur strollad tud o deus savet ur raktres kuzh dindan kuzh an deñvalijenn. Ur pal boutin a oa ganto, met pell diouzh bezañ reizh e oa o mennozh. Ne ouient ket e oa un troc'h doueel o c'hortoz anezho e-pad ma oant o kousket.",
+  "clues": [
+    "Graet hon eus un diviz start, o soñjal e oa difazi hor raktres.",
+    "Mennet e oamp da vont er-maez abred, a-raok ma c'hallje ar re all mont kuit.",
+    "Kroget hon eus war un dachenn frouezhus, sur eus hon pourvezioù.",
+    "Pa'z omp erruet en hon lec'h, hon eus kavet anezhañ distro ha distro, setu hon eus soñjet e oamp kollet hon hent.",
+    "Neuze e komprenjomp e oa hon lec'h e gwirionez, ha krial a reomp gant dic'hortoz, o tamall an eil d'egile evit hor c'holl.",
+    "Touet hon doa ar mintin-se skarzhañ ar re baour diouzh hon eost, met kastiz Allah a zeuas warnomp e-pad ma oamp o kousket, o lakaat hor liorzh da vezañ distrujet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Perc'henned al liorzh e Soura 68",
+        "Pobl Saba",
+        "Kompagnuned ar C'hev",
+        "Tud an Olifant",
+        "Tud ar Foz"
+      ],
+      "answer": "Perc'henned al liorzh e Soura 68"
+    },
+    "trial": {
+      "label": "Ar prosez",
+      "options": [
+        "Distrujet eo bet hor jardin gant ur gwalleur eus an oabl",
+        "Skubet eo bet hon liorzh gant ul liñvadenn",
+        "Devet eo bet hon liorzh gant un tan eus un enebour",
+        "Leuniet e oa hor jardin a drailhenned",
+        "Lonket eo bet hon liorzh gant ur c'hren-douar"
+      ],
+      "answer": "Distrujet eo bet hor jardin gant ur gwalleur eus an oabl"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Touet hon eus tennañ e frouezh diouzh ar mintin",
+        "Savet hon eus ur stankell evit dourañ hon liorzh",
+        "Klasket hon eus repu en ur c'hev evit en em wareziñ",
+        "Prientiñ a reomp un arme evit aloubiñ ur rouantelezh",
+        "Merdeiñ a reomp ul lestr evit treuziñ ar mor"
+      ],
+      "answer": "Touet hon eus tennañ e frouezh diouzh ar mintin"
+    },
+    "outcome": {
+      "label": "Hon tonkad",
+      "options": [
+        "Keuz hon eus bet ha gortozet hon eus trugarez digant Allah",
+        "Distrujet penn-da-benn e oamp bet ha ne oamp ket bet keuz",
+        "Tec'het hon eus diouzh ar vro ha n'omp ket distroet ken",
+        "Deuet omp da vezañ galloudus ha pinvidik adarre",
+        "Kastizet e oamp bet o vezañ troet e marmouzed"
+      ],
+      "answer": "Keuz hon eus bet ha gortozet hon eus trugarez digant Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

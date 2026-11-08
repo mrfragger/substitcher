@@ -1,0 +1,61 @@
+{
+  "title": "Radostná zvěst ve stáří",
+  "intro": "Jste svědky okamžiku, kdy se znovu rozhořívá naděje. Pár, dávno za hranicí rodičovského věku, dostává slib, který se vzpírá zákonům přírody. Uprostřed nich stojí postava, jejíž samotná existence je znamením božského milosrdenství – duše předurčená k proroctví, nesoucí odkaz, který ponese generace. Kdo je tato pozoruhodná osobnost?",
+  "clues": [
+    "Narodil jsem se rodičům, kteří dosáhli vysokého věku a neměli děti.",
+    "Mé narození oznámili andělé, kteří přišli jako hosté k mé rodině.",
+    "Byla mi dána moudrost a proroctví a jsem zmíněn mezi trpělivými.",
+    "Můj otec byl nazýván Alláhovým přítelem a já jsem pro něj byl v jeho pozdějších letech darem.",
+    "Měl jsem bratra, který byl také prorokem, a oba jsme byli požehnáni naším Pánem.",
+    "Můj syn byl také prorok a mým potomkům bylo dáno písmo a proroctví."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Izák (Išák)",
+        "Prorok Ismail (Išmael)",
+        "Prorok Jakub (Jakub)",
+        "Prorok Jahja (Jan)",
+        "Prorok Uzair (Ezra)"
+      ],
+      "answer": "Prorok Izák (Išák)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Narozen starým rodičům",
+        "Hozen do ohně",
+        "Dostal království a bohatství",
+        "Vyvedl svůj lid z Egypta",
+        "Postavil archu, aby zachránil věřící"
+      ],
+      "answer": "Narozen starým rodičům"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Radostná zpráva o synovi",
+        "Hořící keř",
+        "Zlaté tele",
+        "Archa úmluvy",
+        "Hůl proroctví"
+      ],
+      "answer": "Radostná zpráva o synovi"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Stal se prorokem s rodovou linií proroků",
+        "Stal se bohatým králem",
+        "Jeho lid byl zničen pro nevíru",
+        "Byl zachráněn před ohněm",
+        "Schopnost mluvit mu byla dána už jako kojenci"
+      ],
+      "answer": "Stal se prorokem s rodovou linií proroků"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "The Lost City of Unmatched Majesty",
+  "intro": "A mighty civilization once dominated vast stretches of earth, celebrated for towering structures that reached toward the skies. Yet beneath this grandeur, a stubborn denial grew — a refusal to heed the divine warner sent from within the community itself. Pride and arrogance would soon draw forth a punishment the likes of which neither the earth nor the heavens had ever witnessed.",
+  "clues": [
+    "We once ruled over vast stretches of earth, boastful of a strength we believed no other civilization could match.",
+    "Our realm was famous for towering structures with mighty pillars that stood unrivaled across every known land.",
+    "A warner from our very own community rose up, urging each of us to submit to the One Creator alone.",
+    "We denied the message delivered to us and refused to abandon the path we had inherited.",
+    "A furious, howling wind of overwhelming severity was unleashed against us, leaving us utterly defenseless.",
+    "We were left like hollowed trunks of palm trees, scattered and forgotten, as a lesson for every generation after."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "People of A'ad",
+        "People of Nuh",
+        "People of Lut",
+        "People of Madyan",
+        "People of Tubba'"
+      ],
+      "answer": "People of A'ad"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "An unrelenting raging wind of severe punishment",
+        "A flood that covered every mountain peak",
+        "A rain of burning clay stones from above",
+        "A single terrifying scream from the heavens",
+        "A violent earthquake that split the land"
+      ],
+      "answer": "An unrelenting raging wind of severe punishment"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Iram, the city of lofty pillars",
+        "A massive ark of timber built upon a mountain",
+        "A she-camel that emerged miraculously from stone",
+        "Mount Sinai where divine commandments descended",
+        "A palace of crystal and fine glass overlooking flowing waters"
+      ],
+      "answer": "Iram, the city of lofty pillars"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Left like hollowed trunks of palm trees, scattered and lifeless",
+        "Drowned beneath overwhelming waves of a great flood",
+        "Transformed into creatures resembling apes and swine",
+        "Crushed beneath a rain of hardened clay stones",
+        "Consumed in a single deafening cry that pierced the soul"
+      ],
+      "answer": "Left like hollowed trunks of palm trees, scattered and lifeless"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il costruttore incrollabile della salvezza",
+  "intro": "Figura di immensa pazienza e incrollabile convinzione, quest'individuo ha dedicato innumerevoli anni a una missione divina, affrontando implacabili derisioni e rifiuti. La sua storia è una potente testimonianza di fede di fronte a un'incredulità schiacciante, culminata in un evento epocale che ha cambiato il mondo.",
+  "clues": [
+    "Ho dedicato un periodo incredibilmente lungo della mia vita a invitare il mio popolo all'adorazione di Allah.",
+    "Il mio popolo mi derideva e mi accusava di errore manifesto e follia.",
+    "Mi fu ordinato di costruire qualcosa di insolito per la mia comunità, che viveva nell'entroterra.",
+    "Solo pochi credettero in me e nella mia famiglia e si unirono a questa singolare impresa.",
+    "Ho portato a bordo coppie di ogni creatura vivente, come ordinato da Allah.",
+    "Un grande diluvio sommerse la terra, salvando solo coloro che erano con me nella mia imbarcazione, mentre mio figlio perì per la sua incredulità."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Nuh",
+        "Profeta Dawud",
+        "Profeta Sulayman"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La distruzione causata da un terremoto",
+        "La divisione del mare",
+        "Il grande diluvio",
+        "Il fuoco di Nimrod",
+        "La piaga delle rane"
+      ],
+      "answer": "Il grande diluvio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il roveto ardente",
+        "L'arca",
+        "Il pozzo d'acqua",
+        "Il vitello d'oro",
+        "La montagna di Tur"
+      ],
+      "answer": "L'arca"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Ricevette un regno",
+        "Il suo popolo si trasformò in scimmie",
+        "Il suo popolo fu salvato da un miracolo",
+        "Il suo popolo annegò",
+        "Il suo popolo fu colpito da un fulmine"
+      ],
+      "answer": "Il suo popolo annegò"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

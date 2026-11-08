@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaihanga o ngā Pourewa",
+  "intro": "I ngā wā o mua, i ara ake tētahi iwi nui, i mōhiotia mō āna mahi whakamiharo o te hanganga me tōna kaha whakaharahara. I whakawhiwhia tēnei rōpū ki ngā rauemi maha me te pūkenga tinana, heoi i whiriwhiria e rātou te ara o te whakakeke ki te karere atua i tukuna mai hei ārahi i a rātou. He akoranga hohonu tā rātou kōrero i roto i ngā kōrero o te hītori, he tohu mō ngā hua o te whakahē i te pono.",
+  "clues": [
+    "I whakawhiwhia mai ki a tātou te kaha tinana me te tū pakari, he rerekē i tētahi atu iwi o tō tātou wā.",
+    "I mōhiotia mātou mō te hanga i ngā whare nunui me ngā pou teitei i ngā wāhi teitei katoa, me te whakaaro ka ora tonu mātou.",
+    "I tonoa mai tētahi karere i roto i a mātou hei whakatūpato i a mātou, hei karanga i a mātou kia karakia ki a Allah anake, kia whakarērea hoki ā mātou whakapakoko.",
+    "I pātai whakakake mātou ki tā mātou karere, me te pātai mēnā i haere mai rātou ki a mātou hei mea noa i a mātou kia karakia ki a Allah, kia whakarērea hoki ngā mea i karakiatia e ō mātou tūpuna.",
+    "I manaakitia tō mātou whenua ki ngā māra, ki ngā puna wai, me ngā mara momona, engari i kī mātou nā tō mātou ake kaha i whiwhi ai mātou i te rawaka, ehara i te mea nā tō mātou Kaihanga.",
+    "Nā tō mātou whakaponokore me te tawai tonu, i whakangaromia mātou e te hau whakamataku, nanakia i pupuhi mō ngā rā me ngā pō maha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te iwi o Thamud",
+        "Te iwi o Firaun",
+        "te iwi o Noa",
+        "Ngā tāngata o Madyan",
+        "Ngā tāngata o 'Ad"
+      ],
+      "answer": "Ngā tāngata o 'Ad"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tono kia patua he kamera motuhake",
+        "Te werohia kia whakaputa i ngā surah tekau pērā i te Quran",
+        "E whakaaturia ana te wehenga o te moana",
+        "Te whakatūpato a te poropiti mō te waipuke e tata mai ana",
+        "Te whakahē i tētahi poropiti i whakatūpato kia kaua e hanga rawatia, e karakia ki ngā whakapakoko"
+      ],
+      "answer": "Te whakahē i tētahi poropiti i whakatūpato kia kaua e hanga rawatia, e karakia ki ngā whakapakoko"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Ahi",
+        "Te Tāone o Horoma",
+        "Ngā pou teitei me ngā whare pakari"
+      ],
+      "answer": "Ngā pou teitei me ngā whare pakari"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi i roto i te waipuke nui",
+        "Horomia e te whenua",
+        "I hurihia hei makimaki me te poaka",
+        "I whakangaromia e te whatitiri nui",
+        "I whakangaromia e te hau nui, te hau whakangaro"
+      ],
+      "answer": "I whakangaromia e te hau nui, te hau whakangaro"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

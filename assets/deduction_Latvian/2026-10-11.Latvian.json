@@ -1,0 +1,61 @@
+{
+  "title": "Balss senajās smiltīs",
+  "intro": "Starp agrākajiem Allāha vēstnešiem bija viens, kura vārds Korānā mirdz īsi, bet jēgpilni. Šī persona dzīvoja ilgi pirms daudzu lielu praviešu sūtīšanas un bija pazīstama ar nelokāmu patiesumu un pacietību. Viņu stāsts ir īss, bet viņu mantojums paliek mūžīgos pierakstos. Kas ir šī cēlā dvēsele?",
+  "clues": [
+    "Esmu viens no agrākajiem vēstnešiem, kas īsi, bet jēgpilni pieminēts Korānā.",
+    "Manu raksturu raksturoja nelokāma apņemšanās ievērot patiesību.",
+    "Allāha grāmatā esmu pieminēts starp tiem, kas bija nelokāmi un pacietīgi.",
+    "Tikai daži īsi panti Korānā stāsta manu stāstu.",
+    "Allāhs mani pagodināja veidā, kas ir unikāli mans, nevis kopīgs ar citiem praviešiem.",
+    "Mani paaugstināja augstā amatā, kas ir īpašs gods Korānā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Idriss",
+        "Pravietis Iļja",
+        "Dhul-Kifl",
+        "Pravietis Aliasa",
+        "Asifs ibn Barhija"
+      ],
+      "answer": "Pravietis Idriss"
+    },
+    "trial": {
+      "label": "Noteicošais brīdis",
+      "options": [
+        "Allāhs mani pacēla augstā stāvoklī",
+        "Es uzbūvēju lielu šķirstu, lai glābtu savu tautu",
+        "Es izaicināju faraona burvjus",
+        "Mani brāļi iemeta bedrē",
+        "Es zaudēju redzi no bēdām par savu dēlu"
+      ],
+      "answer": "Allāhs mani pacēla augstā stāvoklī"
+    },
+    "location": {
+      "label": "Svētā atsauce",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Sura Aš-Šuāra",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Dievišķais gods",
+      "options": [
+        "Augsta stacija, kas nav līdzīga nevienai citai",
+        "Valdība pār džiniem un vējiem",
+        "Nepārspējamas godības valstība",
+        "Mantinieks no manām vecumdienām",
+        "Ar Allāhu noslēgta derība"
+      ],
+      "answer": "Augsta stacija, kas nav līdzīga nevienai citai"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

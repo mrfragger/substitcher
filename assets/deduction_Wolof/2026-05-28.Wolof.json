@@ -1,0 +1,61 @@
+{
+  "title": "Malaad budul yàkkamti",
+  "intro": "Ci taarixu yonent yi, ñu néew ñoo muñ ñàkkaale yu metti yu mel nii, ak metit yu metti yu mel noonu, ànd ak ngëm gu dëgër. Jaar-jaaru nit ki dafay jàngale muñ ak wóolu xam-xam bu Yàlla jox. Kan mooy xol bii?",
+  "clues": [
+    "Yàlla tànn nama ngir ma yónnee mesaas, waaye sama natt bu gëna mag nekkul woon ci bañ, waaye ci sama musiba.",
+    "Sama alal, sama baayima ak samay doom, ñu nangu leen benn-benn.",
+    "Sama yaram dafa fees dell ak ay gaañ-gaañu, ma des man kese ludul sama jabar.",
+    "Ma yuuxu sama Boroom, nangu sama tiis, sàkku yërmaandeem.",
+    "Dañu ma wax ma dóor sama tànk ci suuf, mu génn ci ndox mu féexal xol.",
+    "Yalla delloosi sama wérgi-yaram, may ma njaboot gu bees ak alal ju ëpp lima amoon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Ayyub Yalla",
+        "Yonent-Yàlla Ibraahim",
+        "Boroom bi Musa",
+        "Yonent-Yàlla Isa",
+        "Yonent-Yàlla Nuh"
+      ],
+      "answer": "Ayyub Yalla"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Ñàkk alal ak njaboot",
+        "ñu sànni la ci safara",
+        "Jën wann la",
+        "Ñu tàqale leen ak seeni mbokk, jaay leen ñuy jaam",
+        "ñu natt ko ak naat bu wurus"
+      ],
+      "answer": "Ñàkk alal ak njaboot"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Mbootaayu ndox",
+        "Baton bu soppiku nekk jaan",
+        "Ark dénk",
+        "Naat buy seey",
+        "Garab palme"
+      ],
+      "answer": "Mbootaayu ndox"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Delloosi njaboot ak alal",
+        "Yéeg asamaan",
+        "Nekk buur",
+        "Dañu leen muccal ci baleine",
+        "Jot doom bu góor ci màgget"
+      ],
+      "answer": "Delloosi njaboot ak alal"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

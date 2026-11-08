@@ -1,0 +1,61 @@
+{
+  "title": "El explorador emplumado",
+  "intro": "En un reino gobernado por alguien a quien se le había otorgado dominio sobre los vientos, los seres invisibles y las criaturas del cielo, un miembro pequeño y veloz desapareció de las filas, solo para regresar con revelaciones que cambiarían el destino de una nación lejana. Este informante de mirada aguda sacó a la luz la verdad donde la ignorancia había echado raíces. ¿Quién soy yo?",
+  "clues": [
+    "Serví en una corte donde humanos, seres invisibles y criaturas del cielo respondían ante un único y sabio gobernante que controlaba hasta los vientos.",
+    "Estuve ausente de mi puesto durante un tiempo, y me advirtieron que sufriría la ira del gobernante si no daba una razón satisfactoria.",
+    "Soy una pequeña criatura voladora, conocida por mi aguda vista, y mi especie fue honrada con un nombre directo en las páginas del Apocalipsis.",
+    "Cuando regresé, traje noticias de una tierra lejana donde la gente se postraba ante el sol, ciega ante Aquel que creó los cielos y la tierra.",
+    "Encontré a una mujer que gobernaba un gran reino, sentada en un trono magnífico, sin haber conocido la verdad hasta entonces.",
+    "Yo fui quien descubrió el reino de Saba' y portaba una carta de invitación de un rey-profeta al que se le había otorgado dominio sobre el viento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La abubilla (Hudhud)",
+        "La hormiga del valle de Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit el genio",
+        "Un ángel del trono"
+      ],
+      "answer": "La abubilla (Hudhud)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La expedición al Reino de Saba (Sheba)",
+        "El enfrentamiento con los hechiceros del faraón",
+        "El diluvio del profeta Noé",
+        "La destrucción del Pueblo de 'Ad",
+        "La división del Mar Rojo"
+      ],
+      "answer": "La expedición al Reino de Saba (Sheba)"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La tierra de Saba (Sheba)",
+        "Monte Sinaí",
+        "El Arca del Profeta Noé",
+        "La cueva de Ashab al-Kahf",
+        "El palacio del faraón"
+      ],
+      "answer": "La tierra de Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Bilqis se sometió a la corte de Sulaiman",
+        "El faraón y su ejército se ahogaron en el mar.",
+        "El pueblo de 'Ad fue destruido por un viento violento.",
+        "Los hechiceros del faraón creían en el profeta Musa.",
+        "Una gran inundación consumió a los incrédulos."
+      ],
+      "answer": "Bilqis se sometió a la corte de Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

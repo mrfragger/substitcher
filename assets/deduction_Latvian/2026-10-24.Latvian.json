@@ -1,0 +1,61 @@
+{
+  "title": "Brīdinājums zem zemes",
+  "intro": "Iedomājieties, ka stāvat blakus dziļai izrakuma vietai, kad no apakšas atskan balsis un pasaule augšā apklust. Korāns šo ainu saglabā kā brīdinājumu: kopiena noraida to, ko nes vēstneši, tuvojas sods, un pat tā rēkoņa kļūst par daļu no liecības. Kura kopiena runā caur šiem pantiem?",
+  "clues": [
+    "Korānā mūs atceras kā kolektīvu, ko nosaka viens kopīgs liktenis, nevis individuāls vārds.",
+    "Mēs noraidījām vēstnesu nesto vēsti, lai gan viņu teiktais bija patiesība.",
+    "Mūsu atcerētā identitāte ir saistīta ar dziļu iegriezumu zemē, un šī iezīme kļuva par daļu no mūsu vārda.",
+    "Noteiktajā dienā mūs izveda ārā un vilka uz uguni.",
+    "Mēs nevarējām aizstāvēties pret sodu un nevarējām dzirdēt tā rēkoņu.",
+    "Mūsu sejas tiktu pagrieztas ugunī, un mēs tiktu tajā iedzīti; kad mums jautātu, mēs teiktu, ka esam starp tiem, kas nespēj atbildēt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tranšejas biedri",
+        "Nācija, kas izglābta no Lielajiem plūdiem",
+        "Zelta teļa pielūdzēji",
+        "Grupa patvērās kalnu alā",
+        "Kopiena atbrīvota no ugunīgās krāsns"
+      ],
+      "answer": "Tranšejas biedri"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Ievilkts un iemests ugunī",
+        "Iznests no ugunīgas krāsns",
+        "Droši pārcietis lielus plūdus",
+        "Gadsimtiem ilgi patvērusies alā",
+        "Izglābts pēc iemetiena akā"
+      ],
+      "answer": "Ievilkts un iemests ugunī"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Tranšeja vai bedre",
+        "Lieliska jūra",
+        "Kalnu ala",
+        "Augsta pils",
+        "Tuksneša aka"
+      ],
+      "answer": "Tranšeja vai bedre"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Nespējot sevi aizstāvēt un nespējot dzirdēt Uguns rēcienu",
+        "Izglābts un ielaista mūžīgajos dārzos",
+        "Droši piegādāts cauri postošiem plūdiem",
+        "Aizsargāts ar ilgu miegu alā",
+        "Apbalvots ar mūžīgu valstību"
+      ],
+      "answer": "Nespējot sevi aizstāvēt un nespējot dzirdēt Uguns rēcienu"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

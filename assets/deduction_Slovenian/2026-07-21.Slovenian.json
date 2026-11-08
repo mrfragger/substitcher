@@ -1,0 +1,61 @@
+{
+  "title": "Prekletstvo obilne žetve",
+  "intro": "V starodavni deželi je neka duša stala med najbogatejšimi v svoji skupnosti. Dvakrat v zaporednih letih so k njej prišli blagoslovi zemlje, dvojna žetev, ki bi jim morala napolniti srce s hvaležnostjo. Ko pa je prišlo do tragedije in jim je bilo v eni sami noči odvzeto vse, kar so imeli, je njihov odziv razkril pravo naravo njihove duše. Ali lahko odkrijete identiteto te osebe, katere zgodba služi kot svarilo pred nevero v Alahove blagoslove?",
+  "clues": [
+    "Bil sem med najsrečnejšimi dušami v vsej deželi, blagoslovljen z obilnimi zalogami.",
+    "Žetev sem v dveh letih dvakrat obrodila sadje, a moje srce je ostalo nehvaležno mojemu Gospodu.",
+    "Imel sem velik vrt z vinsko trto, oljkami in palmami – dokaz Alahove naklonjenosti.",
+    "Ko je bil moj vrt uničen, sem stal v njegovih ruševinah z rokami, iztegnjenimi proti nebu, in preklinjal svojo usodo.",
+    "Zanikal sem, da bi Alah lahko povzročil takšno izgubo, čeprav sem si v obupu stiskal dlani.",
+    "Moja kazen ni bila le izguba vrta, temveč tudi to, da sem ostal popolnoma nemočen v njegovih ruševinah, brez možnosti, da bi si priklical pomoč."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Lastnik vrta v suri 26",
+        "Lastnik dveh vrtov iz daljne dežele",
+        "Bogata duša iz mesta blaginje",
+        "Kmet, omenjen v suri Al-Kahf",
+        "Vinogradnik iz časa preroka Šu'aiba"
+      ],
+      "answer": "Lastnik vrta v suri 26"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Izguba vrta uničenega v eni sami noči",
+        "Velika poplava, ki je preplavila zemljo",
+        "Preizkušnja s pravimi in lažnimi preroki",
+        "Preizkušnja metanja v ogenj",
+        "Preizkušnja, da te pogoltne zemlja"
+      ],
+      "answer": "Izguba vrta uničenega v eni sami noči"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrt z vinsko trto, oljkami in palmami, uničen v dveh letih",
+        "Ladja, zgrajena na visoki gori",
+        "Mesto prestopniškega naroda",
+        "Vodnjak v starodavnem Midianu",
+        "Rajska reka"
+      ],
+      "answer": "Vrt z vinsko trto, oljkami in palmami, uničen v dveh letih"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Popolna nemoč – uničen brez pomočnika",
+        "Vstajenje za vstop v raj",
+        "Postati Alahov prerok",
+        "Vodstvo velikega naroda",
+        "Večna kazen v ognju"
+      ],
+      "answer": "Popolna nemoč – uničen brez pomočnika"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

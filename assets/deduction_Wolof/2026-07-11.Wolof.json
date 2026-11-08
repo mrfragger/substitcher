@@ -1,0 +1,61 @@
+{
+  "title": "Tukkikati tool yu naat yi",
+  "intro": "Bu njëkk, ñaari nit ñoo daan yar dëkk yi leen wër. Seen yoon dafa jaxasoo, waaye seen xol daf leen yóbbu ci barab yu wuute lool. Kenn ki dafa dox ci yoonu jub, beneen bi réer ci lëndëm gu weddi gi. Ndax mën nga leeral kumpa ñaari sàmmkat yii ci góob bi?",
+  "clues": [
+    "Amoon naa ay mbay yu bari, góob yu bari yuy yéem bëti ñiy seetaan.",
+    "Sama dëkkandoo amoon na xéewal gu ëpp sama xéewal, waaye maa ngi bëgg seen wàll gëna sama wàll.",
+    "Ma digal leen ñu yàq seen mbay yépp, ngir dajale lépp luma yor.",
+    "Maa ngi yàq sama góob, yàq lépp ci samay pexe yu doy waar.",
+    "Ma taxaw te mënu ma dara, samay mbay di wow, sama alal mujjee nekk pënd ci benn guddi.",
+    "Amuma woon benn wàll ci àllaaxira, te sama dëkkuwaay bu mujj dafa doon pax mu tàng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Ku weddi ndekkite ak àtte",
+        "Njiit li daan sonal baykat bu jub bi",
+        "Boroom suuf bu am xaalis bi amul ngërëm",
+        "Baykat bi bëggoon suufu dëkkandoo",
+        "Partenaire bu wor bi defar pexe yàqu-yàqu"
+      ],
+      "answer": "Baykat bi bëggoon suufu dëkkandoo"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Natt gi ngir jot feeñu Yàlla",
+        "Jafe-jafe alal ak muñ",
+        "Fiir ngir yàq dundug nit ku jub",
+        "Ndigal séddale ndono ci anam wu jaar yoon",
+        "Xeex ngir xeex jaay doole"
+      ],
+      "answer": "Fiir ngir yàq dundug nit ku jub"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Jardin yu wert yi ci aljanna",
+        "Ñaari tool yu dendoo",
+        "Tund yi seede yàqu-yàqu",
+        "Barab bu sell bu Makkah",
+        "Tefesu dexu réew mu barkeel"
+      ],
+      "answer": "Ñaari tool yu dendoo"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Aljanna ba fàww, di neexal njub",
+        "Yaxxum ñaari góob yi ci àdduna bi",
+        "Exile ak doxantu ba dee",
+        "Yookuté bu yàggul ak safara budul jeex",
+        "Defaraat bu yéeme ak xéewal gu mat ñaari yoon"
+      ],
+      "answer": "Yaxxum ñaari góob yi ci àdduna bi"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

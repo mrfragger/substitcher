@@ -1,0 +1,61 @@
+{
+  "title": "Et løfte udtalt over gløder",
+  "intro": "Du står ved siden af ​​et ørkenbål, mens dets gløder omhyggeligt spredes. Besøgende ankommer til et møde i stilheden, og en enkelt besked åbner en historie om løfter, overraskelser og en fremtid, der endnu ikke er opfyldt.",
+  "clues": [
+    "Vi krydsede afstanden for at nå frem til en trofast tjener i ørkenen.",
+    "Vi bad om, at gløder blev spredt for at forberede et bål.",
+    "Vi talte med en, der havde råbt til en flamme for at få kølighed og sikkerhed.",
+    "Vi bragte nyheden om en nyfødt til en person, der havde passeret den alder, hvor man kan få børn.",
+    "Vi kaldte det forjættede barn Isak.",
+    "Vi bragte Ibrahim den gode nyhed om en søn, og den forbløffende nyhed fik Ibrahim til at grine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Englene, der bragte glade budskaber om Isak til Ibrahim",
+        "Englene der advarede Lut",
+        "De tronbærende engle",
+        "Helvedes engle",
+        "Englene sendt til Noah"
+      ],
+      "answer": "Englene, der bragte glade budskaber om Isak til Ibrahim"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Bringer glade nyheder om Isaks fødsel til Ibrahim",
+        "Advarsel til Lut før hans folks straf",
+        "Meddelelse om Yahyas fødsel til Zakariyya",
+        "At bære tronen på dommedag",
+        "Meddelelse om Isas fødsel til Maryam"
+      ],
+      "answer": "Bringer glade nyheder om Isaks fødsel til Ibrahim"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Et bål tilberedt af spredte gløder",
+        "En ark, der flyder på oversvømmelsesvand",
+        "En hule forseglet af en rullende sten",
+        "Et bjerg af ler hærdet af saltlage",
+        "En stige, der strækker sig op i himlen"
+      ],
+      "answer": "Et bål tilberedt af spredte gløder"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gode ​​nyheder om en søn ved navn Isak",
+        "Glædelig nyhed om en søn ved navn Yahya",
+        "Udvælgelsen af ​​Talut som hersker over Israels børn",
+        "En advarsel før Luts folks straf",
+        "En befaling om at bygge en ark før Syndfloden"
+      ],
+      "answer": "Gode ​​nyheder om en søn ved navn Isak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

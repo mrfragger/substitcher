@@ -1,0 +1,61 @@
+{
+  "title": "Blednúce záhrady prosperity",
+  "intro": "V krajine požehnanej hojnou úrodou prekvitala komunita žijúca uprostred znamení božskej milosti. Ich prosperita bola dôkazom priazne ich Pána, darom, ktorý mal inšpirovať vďačnosť a poslušnosť. Napriek jasným náznakom ich požehnania však nastal zlomový bod, ktorý spochybnil ich ocenenie zdroja ich nesmierneho bohatstva a pohodlia.",
+  "clues": [
+    "Boli sme požehnaní dvoma záhradami, jednou napravo a druhou naľavo, bohatými na úrodu.",
+    "Bolo nám prikázané jesť z úrody nášho Pána a byť Mu vďační za dobrú zem a odpúšťajúceho Pána.",
+    "Stali sme sa arogantnými a odvrátili sme sa od cesty vďačnosti, chváliac sa svojím bohatstvom a mocou.",
+    "Žiadali sme, aby náš Pán predĺžil vzdialenosť medzi našimi cestami, čím sme prejavili pohŕdanie ľahkosťou, ktorú nám poskytol.",
+    "Posol nás varoval, ale my sme posolstvo odmietli a pokračovali sme vo svojej nedbanlivosti.",
+    "Naša veľká priehrada, ktorá udržiavala našu prosperitu, sa nakoniec pretrhla, čo viedlo k ničivej povodni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z Thamudu",
+        "Ľudia z Midjánu",
+        "Ľudia z 'Aadu",
+        "Ľudia z Luta",
+        "Ľudia zo Saby"
+      ],
+      "answer": "Ľudia zo Saby"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Hladomor a sucho",
+        "Invázia mocnej armády",
+        "Ničivé zemetrasenie",
+        "Ničivá povodeň z prasknutej priehrady",
+        "Útlak zo strany tyranského vládcu"
+      ],
+      "answer": "Ničivá povodeň z prasknutej priehrady"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zlaté teľa",
+        "Zázračná ťava",
+        "Veľká priehrada",
+        "Tyčiaca sa budova",
+        "Hlboká studňa"
+      ],
+      "answer": "Veľká priehrada"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Premenili sme sa na opice a prasatá",
+        "Boli sme zachránení a migrovali sme do novej krajiny",
+        "Boli sme rozptýlení a naša zem sa stala neplodnou",
+        "Vystúpili sme do nebies",
+        "Vybudovali sme nové, prosperujúcejšie kráľovstvo"
+      ],
+      "answer": "Boli sme rozptýlení a naša zem sa stala neplodnou"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

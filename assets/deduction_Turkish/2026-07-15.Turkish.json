@@ -1,0 +1,61 @@
+{
+  "title": "Yalnızlık İnzivası",
+  "intro": "İlahi lütuf tarihinde, eşsiz bir saflığa sahip, halkından ayrılarak kutsal bir yönde yalnızlığı arayan bir ruh vardır. Bu inzivanın tüm dünyalar için bir işaret, sonsuza dek anılacak bir iman sınavı getireceğinden habersizdiler.",
+  "clues": [
+    "Doğmadan önce bile kendimi hizmet dolu bir hayata adamıştım.",
+    "Ben, soylu bir peygamberin himayesine verildim.",
+    "Allah'tan gelen rızıklar sayesinde velimi hayrete düşürdüm.",
+    "Ailemden ayrılarak doğuya çekildim.",
+    "Bana kusursuz bir insan suretinde bir melek göründü ve bana tertemiz bir oğulun müjdesini verdi.",
+    "Yeni doğmuş bebeğimle geri döndüğümde, halkım beni suçladı, ama bebek benim savunmamı yaptı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Maryam (Meryem)",
+        "Asiyah (Firavunun karısı)",
+        "Hacer (İsmail'in annesi)",
+        "Sarah (İbrahim'in karısı)",
+        "Musa'nın annesi"
+      ],
+      "answer": "Maryam (Meryem)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Mucizevi bir şekilde hamile kalındı ​​ve bir erkek çocuk dünyaya geldi.",
+        "ateşe atılmak",
+        "Dev bir balık tarafından yutulmak",
+        "Büyük bir gemi inşa etmek",
+        "Denizi geçmek"
+      ],
+      "answer": "Mucizevi bir şekilde hamile kalındı ​​ve bir erkek çocuk dünyaya geldi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Doğudan tenha bir yer",
+        "Yanan çalı",
+        "Kızıldeniz",
+        "Suyun fışkırdığı kaya",
+        "Balina"
+      ],
+      "answer": "Doğudan tenha bir yer"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bir bebek annesini savundu.",
+        "Deniz yarıldı",
+        "Yangın soğudu ve güvenli hale geldi.",
+        "Balina kıyıya kustu.",
+        "Nuh'un gemisi bir dağa indi."
+      ],
+      "answer": "Bir bebek annesini savundu."
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

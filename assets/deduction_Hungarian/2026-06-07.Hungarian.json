@@ -1,0 +1,61 @@
+{
+  "title": "A Nílus gyötrődő lelke",
+  "intro": "Egy nagy elnyomás korában, amikor egy zsarnok abszolút kegyetlenséggel uralkodott az országon, egy lélek a hit útját választotta a királyi kényelme helyett. Ez az alak a hatalom szívében lakozott, mégis igazságra lelt egy alázatos próféta üzenetében. Útjuk időtlen tanulsággá vált a türelem, az áldozathozatal és a rendíthetetlen meggyőződés terén. Be tudod azonosítani ezt a figyelemre méltó személyt, aki az isteni örömöket részesítette előnyben a világi státusszal szemben?",
+  "clues": [
+    "Egy nagy hatalommal bíró palotában éltem, mégis a szívem egy alázatos üzenetben talált igazságra.",
+    "Úgy döntöttem, hogy követem Mózes útmutatását, tudván a következményeket, amelyekkel szembesülnöm kell.",
+    "Korom leghatalmasabb zsarnokához voltam feleségül, mégis elutasítottam hamis isteneit.",
+    "Súlyos szenvedésem volt, mivel megbüntettek az Egy Istenbe vetett hitemért.",
+    "Soha nem ingtam meg a hitemben, még a legkeményebb gyötrelmek idején sem.",
+    "Az Úr elégedett volt a türelmemmel, és egy megtisztelt helyre választott a Paradicsomban."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes próféta anyja",
+        "A fáraó felesége",
+        "Mózes próféta húga",
+        "Az ókori Egyiptom királynője",
+        "Az izraeliták szolgája"
+      ],
+      "answer": "A fáraó felesége"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Allah ügyében harcolni egy sereggel",
+        "Szembenézni a fáraóval és kinyilvánítani a hitet",
+        "Imádathelyek építése Egyiptomban",
+        "Utazás Musával a tengeren át",
+        "Kinyilatkoztatás fogadása Allahtól"
+      ],
+      "answer": "Szembenézni a fáraóval és kinyilvánítani a hitet"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Midián pusztasága",
+        "Az egyiptomi királyi palota",
+        "A Nílus folyó partjai",
+        "A Sínai-hegy",
+        "Kánaán földje"
+      ],
+      "answer": "Az egyiptomi királyi palota"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Sok év után prófétává vált",
+        "Kivezette az izraelitákat Egyiptomból",
+        "Felségjogot kapott Egyiptom felett",
+        "Mártírhalált halt és Allah tiszteletére halt",
+        "Kényelemben élte meg az öregkort"
+      ],
+      "answer": "Mártírhalált halt és Allah tiszteletére halt"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

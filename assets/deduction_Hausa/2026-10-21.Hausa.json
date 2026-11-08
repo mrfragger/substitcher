@@ -1,0 +1,61 @@
+{
+  "title": "Manzon da ya fuskanci masu bautar gumaka",
+  "intro": "A lokacin da ibada ta ɓace, wani manzo ya tashi da kira zuwa ga bauta wa Ubangijin talikai. Wannan mutum ya tsaya tsayin daka kan mutanen da suka daɗe suna bauta wa wani abin bauta na ƙarya, yana tunatar da su Mahaliccinsu na gaskiya da Ubangijin kakanninsu. Duk da haka mutanen sun yi sakaci suka ƙi gargaɗin, suna rufe makomarsu. Wanene wannan mai kira mara tsoro?",
+  "clues": [
+    "An aiko ni zuwa ga mutanen da suka kauce wa hanyar Allah ɗaya tilo na gaskiya.",
+    "Na tambayi mutanena, \"Shin ba za ku ji tsoron Allah ba?\"",
+    "Na kira su su bar bautar gumakan ƙarya mai suna Ba'al.",
+    "Mutanena sun ƙi kirana suka kuma ci gaba da bauta wa gumakansu.",
+    "Saboda musun da suka yi, tabbas za a gabatar da su don hukunci.",
+    "Ubangijina ya ba ni aminci da kuma tunawa mai albarka a tsakanin tsararraki masu zuwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Ilyas",
+        "Annabi Yahaya",
+        "Annabi Dhul-Kifl",
+        "Annabi Yusufu",
+        "Annabi Shu'aib"
+      ],
+      "answer": "Annabi Ilyas"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ya kira mutanensa su bar Ba'al",
+        "Gina jirgi domin ceton masu bi",
+        "An jefa shi cikin wuta",
+        "Gudu daga azzalumin Fir'auna",
+        "Ya bugi dutse don ya fitar da ruwa"
+      ],
+      "answer": "Ya kira mutanensa su bar Ba'al"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ba'al",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Ba'al"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba da zaman lafiya da kuma tunawa mai albarka",
+        "Ƙasa ta haɗiye ta",
+        "An halaka ta da guguwa mai ƙarfi",
+        "Ya zama dutse",
+        "An nutsar da shi cikin teku"
+      ],
+      "answer": "An ba da zaman lafiya da kuma tunawa mai albarka"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

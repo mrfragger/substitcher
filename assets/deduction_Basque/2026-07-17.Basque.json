@@ -1,0 +1,61 @@
+{
+  "title": "Zinpeko debotoak",
+  "intro": "Profeta gurtu bat ibili zen jendearen artean, egiaren aldera deituz. Askok burugogorkeriaz alde egin zuten, baina debozioz beteriko talde txiki batek erantzun zion deiari eta bihotz-bihotzez hitzeman zuen bere burua. Zalantzek probatu zituzten eta zeruko bizibidea bilatzera ausartu ziren. Haien debozio irmoa fedearen ikasgai betiereko bihurtu zen. Nor ziren?",
+  "clues": [
+    "Sinesgaitza zabaldu zen garaian jainkozko misio bat babesteko altxatu zen talde txiki bat ginen.",
+    "Profeta gurtu bat etorri zen eta Alaren kausaren alde aliatu gisa jarduteko dei egin zigun.",
+    "Profetak Jainkozkoaren aldekoak nor izango ziren galdetu zuenean, zalantzarik gabe erantzun genuen.",
+    "Ausartu ginen zerutik bidalitako oturuntza miragarri bat eskatzera gure bihotzak indartzeko.",
+    "Gure profetak gogorarazi zigun Ala errespetatu behar genuela benetako sinestunak baginen, baina gure eskaera apala bete egin zen.",
+    "Maryamen seme Isarekin batera fede irmoa zin egin genuen barne-zirkulu debotoa ginen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hawariyyun (Isako ikasleak)",
+        "Ashab al-Kahf (Haitzuloetako jendea)",
+        "Madyango jendea.",
+        "Thamudeko jendea",
+        "Taluteko lagunak (Saul)"
+      ],
+      "answer": "Hawariyyun (Isako ikasleak)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Alaren kausaren aldekoak izateko eskatuta",
+        "Agintari baten eta profeta baten arteko eztabaidaren lekuko izatea",
+        "Gamelu eme miragarri bat barkatzeko agindua jasotzea",
+        "Jazarpenetik ihes egiteko kobazulo batera ihes egitea",
+        "Obedientzia probatzeko ibaia zeharkatzea"
+      ],
+      "answer": "Alaren kausaren aldekoak izateko eskatuta"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Zerutik mahaia prestatua (Mawlidah)",
+        "Arka handia uholde-uretan",
+        "Harkaitz batetik atera zen gamelu eme bat",
+        "Suge bihurtu zen makila",
+        "Jauregi altxatu bat zeruraino iristen da"
+      ],
+      "answer": "Zerutik mahaia prestatua (Mawlidah)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Sinestun sendo eta garaile bihurtu ginen",
+        "Goitik etorritako zigor batek suntsitu gintuen",
+        "Uholde handi batean ito ginen",
+        "Ehunka urtez lo egin genuen kobazulo batean",
+        "Lur santura sartzea debekatu ziguten"
+      ],
+      "answer": "Sinestun sendo eta garaile bihurtu ginen"
+    }
+  },
+  "verseRef": "61:14",
+  "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+  "verse": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant. (61:14)"
+}

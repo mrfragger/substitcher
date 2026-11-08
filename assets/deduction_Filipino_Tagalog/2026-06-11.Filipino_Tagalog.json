@@ -1,0 +1,61 @@
+{
+  "title": "Ang Nayon sa Baybayin ng Pagsubok",
+  "intro": "Makikita mo ang iyong sarili sa isang nayon sa baybayin, kung saan ang tunog ng mga alon ay humahalo sa mga bulong ng isang nakalimutang bayan. Binigyan sila ng utos na magpahinga, ngunit ang kanilang kasakiman ay humantong sa isang parusa na hanggang ngayon ay pinag-uusapan pa rin sa mahinang boses. Matutuklasan mo ba kung sino sila?",
+  "clues": [
+    "Nakatira kami sa tabi ng pampang at inutusan kaming magpahinga.",
+    "Sa araw na iyon, dumarating sa amin ang mga isda nang sagana, ngunit pinagbawalan kaming kunin ang mga ito.",
+    "Ang ilan sa amin ay nagbabala laban sa paglabag, ngunit ang iba ay nagsabwatan pa rin upang mangisda.",
+    "Nilabag namin ang sagradong utos at nagdulot sa aming sarili ng matinding parusa.",
+    "Ang aming parusa ay isang pagbabagong-anyo na nag-iwan sa amin ng sira at kahihiyan.",
+    "Tayo'y ginawang mga unggoy, isang tanda para sa lahat ng darating pagkatapos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Mga Tao ng Sabbath",
+        "Ang mga tao ng Thamud",
+        "Mga Tao ng 'Ad",
+        "Mga Tao ng Kweba",
+        "Mga Tao ng Elepante"
+      ],
+      "answer": "Mga Tao ng Sabbath"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pangingisda sa Araw ng Pamamahinga",
+        "Pagsamba sa isang ginintuang guya",
+        "Ang pagtanggi sa mensahe ni Hud",
+        "Pagpatay sa babaeng kamelyo",
+        "Paggawa ng tore papuntang langit"
+      ],
+      "answer": "Pangingisda sa Araw ng Pamamahinga"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang isda",
+        "Isang babaeng kamelyo",
+        "Isang kawani",
+        "Isang bangka",
+        "Isang hardin"
+      ],
+      "answer": "Ang isda"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naging mga unggoy",
+        "Nawasak ng baha",
+        "Nawasak ng nagliliyab na apoy",
+        "Nilamon ng lupa",
+        "Ikinakalat ng hangin"
+      ],
+      "answer": "Naging mga unggoy"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Xəstə Ruhu",
+  "intro": "Peyğəmbərlik salnamələrində səbri varlıqlarının təməlinə həkk olunmuş bir ruh var idi. Göz yaşları və zaman vasitəsilə onlar ümidə möhkəm bağlandılar və ilahi hikmətə etibarın əbədi nümunəsinə çevrildilər. Bu sarsılmaz şəxsiyyətin sirrini aça bilərsinizmi?",
+  "clues": [
+    "Mən peyğəmbər ailəsində doğulmuşam, amma ən böyük sınağım ən çox sevdiyim övladımla bağlı idi.",
+    "Oğlumun danışdığı bir yuxudan qısqanclıq xəbərdarlığı aldım və onun təhlükəsizliyi üçün qorxurdum.",
+    "Gözlərim kədərdən ağardı, amma Allahın rəhmətinə olan imanımı heç vaxt itirmədim.",
+    "İtkin düşmüş uşağımın qoxusu uzaqdan mənə çatdı və o zaman yenidən görüşəcəyimizi bildim.",
+    "Köhnə görüntü gerçəkləşəndə ​​və görmə qabiliyyətim bərpa olunanda ailəm minnətdarlıqla baş əydi.",
+    "Mənə qan ləkəli köynək hədiyyə edilmişdi, amma sonradan görmə qabiliyyətimi sağaldan köynək mənə verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İbrahim peyğəmbər",
+        "İshaq peyğəmbər",
+        "Yaqub peyğəmbər",
+        "Yusif peyğəmbər",
+        "Peyğəmbər Əyyub"
+      ],
+      "answer": "Yaqub peyğəmbər"
+    },
+    "trial": {
+      "label": "Əhəmiyyətli Məhkəmə",
+      "options": [
+        "Sevimli bir övladdan ayrılıq və görmə qabiliyyətinin itirilməsi",
+        "Alovlu bir oda atılmaq",
+        "Böyük bir balığın udması",
+        "Sərvət, uşaqlar və sağlamlıq itkisinə dözmək",
+        "Qardaşları tərəfindən xəyanətə uğrayıb quyuya atılır"
+      ],
+      "answer": "Sevimli bir övladdan ayrılıq və görmə qabiliyyətinin itirilməsi"
+    },
+    "location": {
+      "label": "Simvolik Obyekt",
+      "options": [
+        "Əvvəlcə həqiqəti gizlədən, sonra isə onu ortaya çıxaran köynək",
+        "İlana çevrilən bir əsa",
+        "Bir peyğəmbəri udmuş ​​balina",
+        "Soyuyan bir od",
+        "Yanan kolun yanında bir cüt sandalet"
+      ],
+      "answer": "Əvvəlcə həqiqəti gizlədən, sonra isə onu ortaya çıxaran köynək"
+    },
+    "outcome": {
+      "label": "İlahi Qətnamə",
+      "options": [
+        "İtirilmiş yaxınınızla yenidən görüş və görmə qabiliyyətinin bərpası",
+        "Zülm altında olan bir millətdən qurtuluş",
+        "Balığın qarnından qurtuluş",
+        "Alovlu bir oddan qurtuluş",
+        "Böyük bir taxta yüksəliş"
+      ],
+      "answer": "İtirilmiş yaxınınızla yenidən görüş və görmə qabiliyyətinin bərpası"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

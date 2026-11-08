@@ -1,0 +1,61 @@
+{
+  "title": "So'nib borayotgan farovonlik bog'lari",
+  "intro": "Mo'l-ko'l ne'matlarga boy yurtda bir jamoa gullab-yashnadi va ilohiy inoyat alomatlari orasida yashadi. Ularning farovonligi Parvardigorlarining marhamatidan dalolat, minnatdorchilik va itoatkorlikni ilhomlantirish uchun mo'ljallangan sovg'a edi. Shunga qaramay, ularning ne'matlarining aniq belgilariga qaramay, ulkan boylik va farovonlik manbasini qadrlashlariga qarshi chiqadigan burilish nuqtasi keldi.",
+  "clues": [
+    "Bizga ikkita bog‘ — biri o‘ng tomonda, biri chap tomonda — mo‘l hosil bilan baraka berildi.",
+    "Bizga Parvardigorimizning rizqidan yeyish va Unga go'zal yurt va kechirimli Parvardigor uchun shukr qilish buyurilgan edi.",
+    "Biz takabbur bo'lib, boyligimiz va kuchimiz bilan maqtanib, minnatdorchilik yo'lidan yuz o'girdik.",
+    "Biz Rabbimizdan safarlarimiz orasidagi masofani uzaytirishni talab qildik va U bergan qulaylikdan nafratlandik.",
+    "Bizni payg'ambar ogohlantirdi, ammo biz uni rad etib, g'aflatda davom etdik.",
+    "Bizning farovonligimizni ta'minlab kelgan buyuk to'g'onimiz oxir-oqibat buzilib, halokatli suv toshqiniga olib keldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Samud qavmi",
+        "Midiyon xalqi",
+        "Od qavmi",
+        "Lut qavmi",
+        "Saba xalqi"
+      ],
+      "answer": "Saba xalqi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ochlik va qurg'oqchilik",
+        "Kuchli qo'shinning bosqini",
+        "Dahshatli zilzila",
+        "Buzilgan to'g'ondan kelib chiqqan vayronkor suv toshqini",
+        "Zolim hukmdor tomonidan zulm"
+      ],
+      "answer": "Buzilgan to'g'ondan kelib chiqqan vayronkor suv toshqini"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Mo''jizaviy urg'ochi tuya",
+        "Ajoyib to'g'on",
+        "Baland bino",
+        "Chuqur quduq"
+      ],
+      "answer": "Ajoyib to'g'on"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Biz maymun va cho'chqalarga aylanib qoldik",
+        "Biz najot topdik va yangi yurtga ko'chib o'tdik",
+        "Biz tarqab ketdik va yerimiz unumsiz bo'lib qoldi",
+        "Biz osmonlarga ko'tarildik",
+        "Biz yangi, yanada gullab-yashnagan qirollikni qurdik"
+      ],
+      "answer": "Biz tarqab ketdik va yerimiz unumsiz bo'lib qoldi"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

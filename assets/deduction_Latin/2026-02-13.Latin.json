@@ -1,0 +1,61 @@
+{
+  "title": "Magna Submissio Principis",
+  "intro": "In terra mirabilium antiquorum et revelationum profundarum te invenis. Imperatrix potens, invitatione inopinata oblata, iter suscepit quod cursum fati sui et fidem populi sui mutaret. Potesne identitatem huius figurae magnificae detegere?",
+  "clues": [
+    "Regno prospero, ingentibus divitiis et solio magnifico ornato, praefui.",
+    "Ego et populus meus corpus caeleste adorabamus, credentes id esse dominum nostrum, quamquam dubitationes in corde meo fovebam.",
+    "Nuntius quidam peculiaris, avis, mihi epistulam attulit, me et populum meum ad deditionem unius Deo vocans.",
+    "Consiliarios meos, qui viribus praediti erant, de modo quo huic nuntio inaudito responderem consului.",
+    "Constitui donum pretiosum ei qui epistulam misit mittere, sperans me eius potentiam et consilia metiri posse.",
+    "Cum advenissem, palatio, pavimento vitreo facto, instar lacus aquae apparens, obstupui, et tum demum Domino omnis creationis me subii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Pharao",
+        "Regina Sabae",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Propheta Iosue"
+      ],
+      "answer": "Regina Sabae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Maris divisio",
+        "Magnum diluvium",
+        "Iter ad prophetam Sulayman conveniendum",
+        "Destructio populi Lut",
+        "Combustio prophetae Ibrahimi"
+      ],
+      "answer": "Iter ad prophetam Sulayman conveniendum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Thronus",
+        "Mons",
+        "Ignis"
+      ],
+      "answer": "Thronus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Propheta factus est",
+        "Ab Allah destructum est",
+        "Islamum amplexus est",
+        "Populum suum ad bellum duxit",
+        "Magnum templum aedificavit"
+      ],
+      "answer": "Islamum amplexus est"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Onye Ozi nke Kpasoro Ndị Na-ekpere Arụsị Ihe",
+  "intro": "N'oge ofufe anọghịzi, otu onye ozi biliri wee kpọọ oku ka ha laghachi n'ofufe nke Onyenwe ụwa. Onye a guzosiri ike megide ndị mmadụ gbanyere mkpọrọgwụ n'ofufe chi ụgha, na-echetara ha Onye Okike ha n'ezie na Onyenwe ndị nna nna ha. Ma ndị ahụ eleghara ịdọ aka ná ntị ahụ anya, ha jụkwara akara aka nke ha. Ònye bụ onye a na-akpọ oku na-enweghị mgbagha?",
+  "clues": [
+    "E zigara m ndị si n'ụzọ nke otu ezi Chineke pụọ.",
+    "Ajụrụ m ndị m, sị, \"Ị gaghị atụ egwu Allah?\"",
+    "Akpọrọ m ha ka ha hapụ ofufe chi ụgha aha ya bụ Baal.",
+    "Ndị m jụrụ oku m ma nọgide na-ekpere arụsị ha.",
+    "N'ihi na ha na-agọnahụ, a ga-akpọpụta ha n'ihu maka ntaramahụhụ.",
+    "Onyenwe m nyere m udo na ncheta dị nsọ n'etiti ọgbọ ndị sochirinụ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Ilyas",
+        "Onye Amụma Yahya",
+        "Onye Amụma Dhul-Kifl",
+        "Onye Amụma Josef",
+        "Onye Amụma Shuaib"
+      ],
+      "answer": "Onye Amụma Ilyas"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ọ kpọrọ ndị ya ka ha hapụ Beal",
+        "Wuru ụgbọ iji zọpụta ndị kwere ekwe",
+        "A tụbara ya n'ọkụ",
+        "Gbapụrụ n'aka Fero aka ike",
+        "Tie nkume ka mmiri pụta"
+      ],
+      "answer": "Ọ kpọrọ ndị ya ka ha hapụ Beal"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E nyere udo na ncheta ngọzi",
+        "Ala loro ya",
+        "Oké ifufe bibiri ya",
+        "Agbanweela ka ọ bụrụ nkume",
+        "Mmiri gbawara n'oké osimiri"
+      ],
+      "answer": "E nyere udo na ncheta ngọzi"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

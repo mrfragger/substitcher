@@ -1,0 +1,60 @@
+{
+  "title": "Rigdommens byrde",
+  "intro": "Du står foran en fortælling om umådelig rigdom, et liv prydet med guld og magt, men i sidste ende en advarende lektie for alle, der søger verdslig storhed. Kan du opklare identiteten på denne figur, hvis historie giver genlyd gennem tiden, et vidnesbyrd om den flygtige natur af verdslige ejendele?",
+  "clues": [
+    "Jeg var fra en stor profets folk, men jeg valgte en vej af arrogance og undertrykkelse.",
+    "Allah skænkede mig umådelig rigdom, så meget at nøglerne til mine skatte var en tung byrde for en stærk gruppe mænd.",
+    "Mit folk rådede mig til ikke at juble over min rigdom og mindede mig om, at Allah ikke elsker de jublende.",
+    "Jeg hævdede arrogant, at min enorme formue skyldtes min egen viden og indsats, ikke en velsignelse fra Allah.",
+    "Jeg blev advaret mod korruption og mindet om at søge det hinsides med det, som Allah havde givet mig, men jeg nægtede at lytte og fortsatte i min stolthed.",
+    "Til sidst lod Allah jorden opsluge mig og min bolig og efterlod mig uden hjælpere mod Hans befaling."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Farao",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Havets opdeling",
+        "Nimrods ild",
+        "Oversvømmelsen",
+        "Jordens opslugning",
+        "Græshoppernes plage"
+      ],
+      "answer": "Jordens opslugning"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Arken",
+        "Personalet",
+        "Den gyldne kalv",
+        "Skattene/Nøglerne",
+        "Zamzams brønd"
+      ],
+      "answer": "Skattene/Nøglerne"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Tildelt kongedømme",
+        "Reddet fra ødelæggelse",
+        "Opslugt af jorden",
+        "Blev profet",
+        "Døde fredeligt"
+      ],
+      "answer": "Opslugt af jorden"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

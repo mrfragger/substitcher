@@ -1,0 +1,61 @@
+{
+  "title": "Kaiku kaupungin laidalta",
+  "intro": "Kaupungissa, joka kääntyi pois jumalallisesta ohjauksesta, yksinäinen hahmo ilmestyi sen laitamilta ja kiiruhti toivon ja varoituksen sanoman kanssa. Tästä unohdetusta sielusta tulisi ikuinen horjumattoman uskon symboli.",
+  "clues": [
+    "Näin sanansaattajia lähetettävän kaupunkiini, mutta kansani piti heitä tavallisina ihmisinä.",
+    "Uskoin heidän viestiinsä ja tunsin totuuden resonoivan sisälläni.",
+    "Kehotin kansaani tottelemaan sanansaattajia, jotka eivät pyytäneet palkkiota.",
+    "Juoksin kaupungin perimmäisestä laidasta ja yritin kiireellisesti saada heidät ymmärtämään järkeään.",
+    "Kansani nousi minua vastaan, ja minut surmattiin, mutta löysin ikuisen rauhan.",
+    "Allah sanoi minulle: \"Astu Paratiisiin\", ja toivoin, että kansani voisi todistaa minulle osoitettua kunniaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Ya-Sinin uskovainen",
+        "Uzair Kysyjä",
+        "Al-Khidr Opas",
+        "Faaraon perheen uskovainen",
+        "Namrud Tyranni"
+      ],
+      "answer": "Ya-Sinin uskovainen"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kohdaten epäuskoisen kansan, joka tappoi hänet",
+        "Heitetään liekehtivään tuleen",
+        "Suuren kalan nielaisemaksi joutuminen",
+        "Massiivisen arkin rakentaminen",
+        "Pakenemassa tyrannin armeijaa"
+      ],
+      "answer": "Kohdaten epäuskoisen kansan, joka tappoi hänet"
+    },
+    "location": {
+      "label": "Keskeinen sijainti",
+      "options": [
+        "Kaupungin kaukaisin laita",
+        "Turin vuori",
+        "Muurahaisten laakso",
+        "Niilin rannat",
+        "Luolan luola"
+      ],
+      "answer": "Kaupungin kaukaisin laita"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Marttyyrikuolema ja välitön pääsy paratiisiin",
+        "Pako ja pelastus",
+        "Nousu taivaisiin",
+        "Hukkuminen mereen",
+        "Muuttumassa kiveksi"
+      ],
+      "answer": "Marttyyrikuolema ja välitön pääsy paratiisiin"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

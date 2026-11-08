@@ -1,0 +1,61 @@
+{
+  "title": "Århundredes uhørte stemme",
+  "intro": "I en tid længe før de store byer opstod, rejste en ensom sjæl sig blandt et folk, der havde vendt sig bort fra sandheden. Deres stædighed blev kun matchet af tålmodigheden hos denne ensomme kalder, der tryglede gennem generationer uden at miste beslutsomheden. Da alle advarsler faldt for døve ører, omformede en hidtil uset opgørelse selve jorden. I dag bølger ekkoerne af den historie stadig gennem hver eneste recitation. Kan du identificere denne beslutsomme sjæl?",
+  "clues": [
+    "Jeg voksede op blandt et folk, der tilbad falske afguder og ignorerede tegnene omkring dem, men alligevel blev jeg udvalgt til at vække dem fra deres ligegyldighed.",
+    "Jeg råbte til mit folk igen og igen, men de beskyldte mig for ikke at være andet end dem, idet de hånede mit budskab og holdt deres ører til.",
+    "Nat og dag bønfaldt jeg dem med visdom og blide påmindelser, men mine ord syntes at forsvinde i luften, uhørt og upåagtet.",
+    "Under guddommelig vejledning byggede jeg et enormt fartøj af tømmer og planker på tørt land, og mit folk lo ad mig som en, der havde mistet fornuften.",
+    "Da den store oversvømmelse kom som lovet, nægtede min egen søn at gå ombord på skibet med mig, i den tro, at et bjerg ville beskytte ham mod det stigende vand.",
+    "Jeg blev patriark for en ny begyndelse på jorden, og min historie er bevaret i et kapitel af Koranen, der bærer mit navn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Nuh",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Lut",
+        "Profeten Hud"
+      ],
+      "answer": "Profeten Nuh"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Den store oversvømmelse, der omformede jorden",
+        "At blive kastet i en flammende ild af afgudsdyrkerne",
+        "Konfrontation med Faraos magikere i paladset",
+        "Ødelæggelsen af ​​de blomstrende haver af en himmelsk storm",
+        "Vældningen af ​​skyttegravebeboerne"
+      ],
+      "answer": "Den store oversvømmelse, der omformede jorden"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Arken bygget af tømmer og planker",
+        "Det hellige hus bygget på gamle fundamenter",
+        "Staven der forvandlede sig til en slange",
+        "De sovende unges hule",
+        "Tronen båret af en mægtig skabning"
+      ],
+      "answer": "Arken bygget af tømmer og planker"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De vantro druknede, mens de troende blev reddet ombord på skibet.",
+        "Ilden blev kølig og sikker, og opkalderen slap uskadt ud.",
+        "Magikerne faldt ned og omfavnede troen",
+        "Haven blev skænket til den retfærdige nabo i dens sted",
+        "De sovende vågnede efter århundreder, forvandlede"
+      ],
+      "answer": "De vantro druknede, mens de troende blev reddet ombord på skibet."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

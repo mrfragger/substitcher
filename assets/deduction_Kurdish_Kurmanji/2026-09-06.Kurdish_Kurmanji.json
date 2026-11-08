@@ -1,0 +1,61 @@
+{
+  "title": "Derbederê Golika Zêrîn",
+  "intro": "Kesayetek ku di Quranê de behsa wê tê kirin, di dema nebûna pêxemberekî hêja de, gelek kesan ber bi rêyeke şaş ve bir. Tiştekî ji zêr hatiye çêkirin dilê tevahiya miletekî girt - lê çîroka vî kesî bi tenêtî û nifirekî ecêb bi dawî dibe. Ev bêwar kî dikare be?",
+  "clues": [
+    "Ez di dema nebûna pêxemberekî mezin de derketim holê ku ji bo wergirtina rêberiya îlahî hatibû hilkişandin.",
+    "Min bi tiştekî ku min bi destên xwe çêkir, elaleteke mezin ji rê derxist.",
+    "Ew afirandinê zêrîn ku min çêkir xuya bû ku jiyan hebû, dengên ku kesên ku dişopandin matmayî dihiştin derdixistin.",
+    "Min îdia kir ku min tiştên ku yên din nedidîtin dîtiye - nihêrînek li tiştên nedîtî.",
+    "Min tiştek ji şopên qasidê îlahî kişand û avêt nav metalê heliyayî.",
+    "Ez mehkûmî gerandina bi tenê bûm, bi nifireke bêhempa ku kes nikaribû çermê min dest bide ne jî ez destê xwe bidim çermê wan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Samirî",
+        "Haman",
+        "Fîrewn (Firewn)",
+        "Ebû Leheb",
+        "Pêxember Salih"
+      ],
+      "answer": "Samirî"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ji bo îbadetê golikekî zêrîn afirand",
+        "Bircekî ava kir ku digihîje ezmanan",
+        "Sêrbazên Misirê rexne kir",
+        "Artêşek bi ajalên firîner re rêberî kir",
+        "Parçekirina heyvê wek delîla pêxemberîtiyê"
+      ],
+      "answer": "Ji bo îbadetê golikekî zêrîn afirand"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Golika zêrîn",
+        "Dara ku veguherî mar",
+        "Dareke şewitî li ser çiyayekî",
+        "Keştiyek li ser lûtkeyekê radiweste",
+        "Xendek tijî agirê geş"
+      ],
+      "answer": "Golika zêrîn"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Sirgûnkirî, qedexe ye ku lê were destdan an jî destdana kesên din lê were kirin",
+        "Digel artêşekê di deryayê de xeniqîn",
+        "Ji ber redkirina baweriyê hate şewitandin",
+        "Bi bayekî dijwar û gurrîn ve hat lêdan",
+        "Bexşandin û bilindkirin bo meqameke bilind"
+      ],
+      "answer": "Sirgûnkirî, qedexe ye ku lê were destdan an jî destdana kesên din lê were kirin"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Prosilec svetišča",
+  "intro": "V tihih nočnih urah je predana duša klicala k Najusmiljenejšemu znotraj svetih zidov svetega kraja. Leta neomajne vere in potrpežljivosti so bila kmalu nagrajena s čudežem, ki bo prinesel veselje in zapuščino preroštva.",
+  "clues": [
+    "Dneve in noči sem preživljal v pobožnosti v svetem svetišču in nenehno prosil svojega Gospoda.",
+    "Postaral sem se in moja žena je bila neplodna, vendar nisem nikoli izgubil upanja v Alahovo usmiljenje.",
+    "Rodil se mi je sin po imenu Yahya, ki je postal prerok in svetilnik pravičnosti.",
+    "Tudi sam sem bil prerok, poslan, da vodim Izraelove otroke.",
+    "Bil sem potomec preroka Haruna in sem služil kot duhovnik v templju.",
+    "Zaupali so mi skrb za Marjam, Isovo mater, in bil sem priča njenim čudežem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Zakarija",
+        "Prerok Jahja",
+        "Prerok Iljas",
+        "Prerok Ishak",
+        "Prerok Jakub"
+      ],
+      "answer": "Prerok Zakarija"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "V starosti podaril sina",
+        "Rešen pred gorečim požarom",
+        "Rešen iz trebuha ribe",
+        "Preživel veliko poplavo",
+        "Ozdravljen hude bolezni"
+      ],
+      "answer": "V starosti podaril sina"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Mihrab (molitvena niša)",
+        "Kaba",
+        "Goreči grm",
+        "Skrinja zaveze",
+        "Jama sedmih spečih"
+      ],
+      "answer": "Mihrab (molitvena niša)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Dobil pravičnega sina, ki je postal prerok",
+        "Uničeno zaradi silovite nevihte",
+        "Utopljen v morju",
+        "Rešen pred opeklinami",
+        "Vrnili so se k svojim ljudem, potem ko so jih rešili pred ribo"
+      ],
+      "answer": "Dobil pravičnega sina, ki je postal prerok"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

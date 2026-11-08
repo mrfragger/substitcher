@@ -1,0 +1,61 @@
+{
+  "title": "Vizitatorii ciudați ai unui oraș înconjurat de ziduri",
+  "intro": "Un grup a ajuns la porțile unui oraș ai cărui locuitori nu cunoscuseră niciodată adevărul. Au adus un mesaj, dar locuitorii au devenit ostili, amenințând cu violența. Totuși, dintr-un loc neașteptat, o singură voce s-a ridicat pentru a-i apăra pe străini, pregătind scena pentru o întorsătură dramatică a evenimentelor.",
+  "clues": [
+    "Am intrat într-un oraș ai cărui locuitori erau cuprinși de neîncredere.",
+    "Ne-au privit cu suspiciune și au spus: „Sunteți doar ființe obișnuite ca noi”.",
+    "I-am avertizat, dar au ridicat pietre împotriva noastră.",
+    "Un bărbat s-a repezit din cel mai îndepărtat capăt al orașului să ne afirme adevărul.",
+    "El a declarat poporului său: „De ce să nu mă închin Celui care m-a creat?”",
+    "Negarea orașului s-a încheiat cu o singură explozie, iar liniștea a domnit acolo unde odinioară își batjocoriseră joc de ei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Mesagerii lui Ya-Sin",
+        "Discipolii lui Isa",
+        "Oamenii din tranșee",
+        "Magicienii Faraonului",
+        "Credinciosul lui Ya-Sin"
+      ],
+      "answer": "Mesagerii lui Ya-Sin"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Respingerea și amenințarea cu lapidarea",
+        "Fiind aruncat într-un foc puternic",
+        "Un test de răbdare cu un copil pierdut",
+        "O grădină care a suferit distrugeri",
+        "O călătorie prin mare"
+      ],
+      "answer": "Respingerea și amenințarea cu lapidarea"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Capătul cel mai îndepărtat al orașului",
+        "Marea Roșie",
+        "Șanțul de foc",
+        "Peștera refugiului",
+        "Închisoarea din Egipt"
+      ],
+      "answer": "Capătul cel mai îndepărtat al orașului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Orașul a fost distrus de un singur strigăt",
+        "Marea s-a despărțit și a înecat armata",
+        "Focul s-a răcit și a devenit sigur",
+        "Grădina a fost mistuită de un foc ceresc",
+        "Balena a returnat persoana la țărm"
+      ],
+      "answer": "Orașul a fost distrus de un singur strigăt"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

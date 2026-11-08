@@ -1,0 +1,61 @@
+{
+  "title": "Derýa ynanylan ynam",
+  "intro": "Bir ruh mümkin däl karar bilen ýüzbe-ýüz boldy, bu ýerde täze doglan çaganyň jany deňagramda galdy. Ylahy ylham bilen ýol görkezilip, umytsyz buýruk ýerine ýetirildi we gymmatly syr akymyň ugrunda aýlanyp, garaşylmadyk ýagdaýda yzyna gaýtdy.",
+  "clues": [
+    "Men täze doglan erkek çagalary öldürmegi buýurýan zalymyň kölegesinde ýaşadym.",
+    "Maňa ylahy ylham geldi, ol maňa umytsyz we ýüregimi parçalaýan hereket etmegi tabşyrdy.",
+    "Men gymmatly bäbegimi sandyga salyp, akýan derýanyň boýuna goýdum.",
+    "Ýüregim boşaldy we syry açjak boldum, ýöne Alla meniň kararymy güýçlendirdi.",
+    "Akym sandygy alyp gidýän mahaly, çaganyň ýoluny yzarlamak üçin men birini akym boýunça aşaky akymda iberdim.",
+    "Çagany zalymyň öýi tapdy we ahyrsoňy men çagam bilen gaýtadan duşuşdym we emziriji bolup işledim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Musa pygamberiň ejesi",
+        "Aziýa (Farownyň aýaly)",
+        "Merýem (Isa pygamberiň ejesi)",
+        "Lut pygamberiň aýaly",
+        "Ýahýa pygamberiň ejesi (Zakaryýanyň aýaly)"
+      ],
+      "answer": "Musa pygamberiň ejesi"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ol çagasyny sandyga salyp, derýanyň boýuna goýdy",
+        "Ol çagasyny gowakda gizläp goýdy",
+        "Ol çagasyny çölde taşlap gitdi",
+        "Ol çagasyny oda taşlady",
+        "Ol çagasyny metjidiň gapysynda galdyryp gitdi"
+      ],
+      "answer": "Ol çagasyny sandyga salyp, derýanyň boýuna goýdy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Derýanyň üstünde suwda goýlan sandyk",
+        "Ýanýan gyrymsy agaç",
+        "Ýylana öwrülen taýajyk",
+        "Jennetden gelen iýmit bilen ýazylan stol",
+        "Yşarat hökmünde iberilen dişi düýe"
+      ],
+      "answer": "Derýanyň üstünde suwda goýlan sandyk"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ol çagasy bilen gaýtadan duşuşdy we ony emdirdi",
+        "Ol çagasyny başga hiç haçan görmedi",
+        "Ol zalym tarapyndan jezalandyryldy",
+        "Ol Müsürde şa zenan boldy",
+        "Ol başga bir ýurda göçüp gitdi we sürgünlikde ýaşady"
+      ],
+      "answer": "Ol çagasy bilen gaýtadan duşuşdy we ony emdirdi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

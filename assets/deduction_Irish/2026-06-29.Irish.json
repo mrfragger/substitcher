@@ -1,0 +1,61 @@
+{
+  "title": "An t-Anam Foighneach",
+  "intro": "I stair na fáidheachta, bhí anam ann a raibh a fhoighne greanta i bhfíor-chroí a mbeatha. Trí dheora agus am, choinnigh siad go daingean leis an dóchas, ag éirí ina sampla gan teorainn de mhuinín in eagna dhiaga. An féidir leat rúndiamhair an fhigiúir dhochloíte seo a réiteach?",
+  "clues": [
+    "Rugadh mé i dteaghlach fáithe, ach ba é an leanbh ba mhó a raibh grá agam dó an tástáil ba mhó a tháinig orm.",
+    "Fuair ​​mé rabhadh éad ó bhrionglóid a roinn mo mhac, agus bhí eagla orm faoina shábháilteacht.",
+    "Níor chas mo shúile le brón, ach níor chaill mé creideamh i dtrócaire Allah riamh.",
+    "Shroich boladh mo linbh ar iarraidh mé ó chian, agus bhí a fhios agam ansin go raibh an t-ath-aontú ag druidim liom.",
+    "Chrom mo theaghlach síos le buíochas nuair a comhlíonadh an fhís a bhí agam roimhe seo, agus nuair a athchóiríodh mo radharc.",
+    "Is mise an té a tugadh léine fuilteach dom, ach ina dhiaidh sin fuair mé léine a leigheas mo radharc."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ibrahim",
+        "Fáidh Ishaq",
+        "an Fáidh Yaqub",
+        "Fáidh Iósaf",
+        "Fáidh Ayyub"
+      ],
+      "answer": "an Fáidh Yaqub"
+    },
+    "trial": {
+      "label": "An Triail Ríthábhachtach",
+      "options": [
+        "Scaradh ó leanbh grámhar agus cailliúint radhairc",
+        "Á chaitheamh i dtine lasrach",
+        "Á shlogadh ag iasc mór",
+        "Ag fulaingt cailliúint saibhris, leanaí agus sláinte",
+        "Á bhrath ag a dheartháireacha agus á chaitheamh i dtobar"
+      ],
+      "answer": "Scaradh ó leanbh grámhar agus cailliúint radhairc"
+    },
+    "location": {
+      "label": "An Réad Siombalach",
+      "options": [
+        "Léine a cheilt an fhírinne ar dtús agus ansin a nocht í",
+        "Sloinne a d’éirigh ina nathair",
+        "Míol mór a shlog fáidh",
+        "Tine a d’éirigh fuar",
+        "Péire sandals ag an tor dóite"
+      ],
+      "answer": "Léine a cheilt an fhírinne ar dtús agus ansin a nocht í"
+    },
+    "outcome": {
+      "label": "An Rún Diaga",
+      "options": [
+        "Athcheangal le duine muinteartha caillte agus radharc na súl a athbhunú",
+        "Tarrtháil ó náisiún an fhoréigin",
+        "Saoradh ó bholg éisc",
+        "Slánú ó thine lasrach",
+        "Ardú suas go ríchathaoir mhór"
+      ],
+      "answer": "Athcheangal le duine muinteartha caillte agus radharc na súl a athbhunú"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

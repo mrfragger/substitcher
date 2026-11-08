@@ -1,0 +1,61 @@
+{
+  "title": "Cierpliwa dusza",
+  "intro": "W annałach proroctw istniała dusza, której cierpliwość wryła się w samą istotę ich bytu. Pomimo łez i czasu, trwali wiernie przy nadziei, stając się ponadczasowym przykładem zaufania do boskiej mądrości. Czy potrafisz rozwikłać tajemnicę tej niezłomnej postaci?",
+  "clues": [
+    "Urodziłem się w rodzinie proroków, ale największą próbę przeżyłem przez dziecko, które kochałem najbardziej.",
+    "Sen, który przyśnił się mojemu synowi, wywołał u mnie ostrzeżenie o zazdrości i zaczęłam obawiać się o jego bezpieczeństwo.",
+    "Moje oczy stały się białe ze smutku, lecz nigdy nie straciłem wiary w miłosierdzie Allaha.",
+    "Zapach zaginionego dziecka dotarł do mnie z daleka i wiedziałem już, że ponowne spotkanie jest bliskie.",
+    "Moja rodzina skłoniła się z wdzięcznością, gdy dawna wizja się spełniła, a ja odzyskałem wzrok.",
+    "Jestem tym, komu wręczono koszulę poplamioną krwią, a który później otrzymał koszulę, która przywróciła mi wzrok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ibrahim",
+        "Prorok Ishaq",
+        "Prorok Jakub",
+        "Prorok Yusuf",
+        "Prorok Ajjub"
+      ],
+      "answer": "Prorok Jakub"
+    },
+    "trial": {
+      "label": "Kluczowy proces",
+      "options": [
+        "Rozłąka z ukochanym dzieckiem i utrata wzroku",
+        "Wrzucenie w płonący ogień",
+        "Być połkniętym przez wielką rybę",
+        "Trwała utrata majątku, dzieci i zdrowia",
+        "Zdradzony przez braci i wrzucony do studni"
+      ],
+      "answer": "Rozłąka z ukochanym dzieckiem i utrata wzroku"
+    },
+    "location": {
+      "label": "Obiekt symboliczny",
+      "options": [
+        "Koszulka, która najpierw ukrywała prawdę, a potem ją ujawniała",
+        "Laska, która stała się wężem",
+        "Wieloryb, który połknął proroka",
+        "Ogień, który stał się chłodny",
+        "Para sandałów przy płonącym krzewie"
+      ],
+      "answer": "Koszulka, która najpierw ukrywała prawdę, a potem ją ujawniała"
+    },
+    "outcome": {
+      "label": "Boska decyzja",
+      "options": [
+        "Spotkanie z ukochaną osobą, którą straciłeś i przywrócenie wzroku",
+        "Ratunek przed narodem ucisku",
+        "Wybawienie z brzucha ryby",
+        "Zbawienie od płonącego ognia",
+        "Wstąpienie na wielki tron"
+      ],
+      "answer": "Spotkanie z ukochaną osobą, którą straciłeś i przywrócenie wzroku"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

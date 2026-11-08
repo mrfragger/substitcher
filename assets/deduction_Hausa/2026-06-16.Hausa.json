@@ -1,0 +1,61 @@
+{
+  "title": "Muryar da Take Kira Zuwa Ga Adalci",
+  "intro": "A cikin tsohuwar ƙasar Midiya, inda ciniki ya bunƙasa kuma ayarin mutane ke tafiya ta cikin hamada mai faɗi, wani annabin Allah ya tashi a cikin mutanen da suka kauce daga hanyar adalci. An aiko wannan bawan Allah da wani aiki na allahntaka wanda zai gwada imanin al'umma gaba ɗaya. Ta hanyar gwaje-gwajen haƙuri da juriya, wannan rai ta tsaya tsayin daka wajen isar da gargaɗi wanda zai yi ta yawo a cikin tarihi. Za ku iya warware asirin wannan manzon da ya daɗe?",
+  "clues": [
+    "Allah ne ya zaɓe ni don in shiryar da mutanen da suka manta da ƙa'idodin adalci da gaskiya a cikin mu'amalarsu.",
+    "Na isar da saƙo ina kira ga al'ummata da ta bauta wa Allah sai Allah kuma ta yi magana da gaskiya a cikin dukkan al'amura.",
+    "Na yi gargaɗi musamman game da cin dukiya ta hanyar haramtacciyar hanya, kuma na jaddada muhimmancin ma'auni da aunawa daidai.",
+    "Mutanena sun amsa gargaɗina da izgili, suna barazanar korar ni daga ƙasarsu idan na ci gaba da saƙona.",
+    "Na ci gaba da jajircewa a kan manufar da na sa a gaba duk da adawarsu, ina mai bayyana cewa ladana yana ga Allah shi kaɗai.",
+    "An kama mutanena da wata mummunar azaba yayin da aka cece ni da rahamar Ubangijina, yayin da aka cika mini manufata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Shu'aib",
+        "Annabi Hud",
+        "Annabi Salihu",
+        "Annabi Lutu",
+        "Annabi Muhammadu ﷺ"
+      ],
+      "answer": "Annabi Shu'aib"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Fuskantar mutanen da suka ƙi gaskiya kuma suka yi barazanar azabtarwa saboda isar da saƙon Allah",
+        "Shaida Babban Ruwan Tsufa wanda ya halaka kafiran wata al'umma",
+        "Karɓar wahayi yayin tafiya ta kwarin 笃",
+        "Jarabawar imani lokacin da wani mai mulki mai zalunci ya yi ƙoƙarin dakatar da kiran zuwa ga tauhidi",
+        "Wata al'umma tana neman ruwan sama a lokacin fari mai tsanani bayan shekaru da yawa na rashin biyayya"
+      ],
+      "answer": "Fuskantar mutanen da suka ƙi gaskiya kuma suka yi barazanar azabtarwa saboda isar da saƙon Allah"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ƙasar Madayana, inda mutanena ke gudanar da harkokinsu da kasuwancinsu",
+        "Tekun wani babban jirgin ruwa da ya ceci muminai daga ambaliyar ruwa mai tsanani",
+        "Kogo a cikin wani dutse mai duwatsu inda matasa bakwai suka nemi mafaka daga tsanantawa",
+        "Birnin Kudus mai tsarki inda aka kai ni tafiya ta dare ɗaya",
+        "Fadar Sheba inda wata babbar masarauta ta shirya don shaida wata alama ta allahntaka"
+      ],
+      "answer": "Ƙasar Madayana, inda mutanena ke gudanar da harkokinsu da kasuwancinsu"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An kama mutanena da mummunan azaba yayin da nake tsira, domin na cika wajibina ga Allah",
+        "An mayar da kafirai birrai saboda sun keta iyakokin Allah masu tsarki",
+        "Maƙiyana sun rungumi imani bayan sun ga canji mai ban mamaki",
+        "An albarkaci ƙasar da ruwan sama mai yawa da wadata bayan mutanen sun tuba",
+        "Jama'ata sun yi min shahada saboda kin yin watsi da aikina"
+      ],
+      "answer": "An kama mutanena da mummunan azaba yayin da nake tsira, domin na cika wajibina ga Allah"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

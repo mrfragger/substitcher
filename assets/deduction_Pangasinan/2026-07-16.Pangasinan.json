@@ -1,0 +1,61 @@
+{
+  "title": "Say Boses ya Angangat ed Uley na Sakey ya Idolo",
+  "intro": "Kaiba ed saray mensahero na Makapanyarin-amin so sakey a mapekder a lingkor ya inmalagey ed limog na sakey a bansan anawet so ulo to pian ipasabi so katuaan. Saray totoo ra et angawat na palson dios, ya inmarawi ed Manamalsa na amin a wala. Diad ag-onkupas a determinasyon, tinawag lamet ira na sayan indibidual — balet say mensahe et ag-inawat tan ag-inawat. Nengnengen iray pakapatnagan pian naamtaan no siopa iyan debosyonadon lingkor.",
+  "clues": [
+    "Nibaki ak a mangibaki ed saray totoon anawet so olo ra ya akaarawi ed maptek a dalan.",
+    "Linma ak pian panonotan so bansak ed samay Sakey ya nanggawa ed amin ya wala — say sankaabigan ed amin ya nanggawa.",
+    "Saray totook et sinmingger ed palson talintaoy diriyos ya igagalang da tan igagalang da ed agew tan labi.",
+    "Makpel kon inangat ira, ya tinepetan ko no akin ya mandayew ira ed palson dirios tan taynanan day tuan Katawan da.",
+    "Imburi da ak, ag da labay so ondengel, tan nansiansia ran malet ed katilaan da — balet inyagel ak na Katawan ko.",
+    "Siak si Ilyas — tan niiter ed siak so kareenan, tan nibilang ak ed saray mananisian lingkor na Sankamapangasi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Ilyas",
+        "Propeta Idris",
+        "Propeta Alyasa",
+        "Propeta Dhul-Kifl",
+        "Propeta Nuh"
+      ],
+      "answer": "Propeta Ilyas"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Panawag ed sakey a totoo ya onarawi ed panagdayew ed si Ba'al",
+        "Manpapaarap ed sakey a managpairap ya mangibabagan sikatoy sakey a dios",
+        "Manpapasakbay ed totoo nipaakar ed onsasabin delap",
+        "Say pangibantak ed baleg a mandarlang ya apoy",
+        "Mangidaulo ed itaynan manlapud dalin na inkaaripen"
+      ],
+      "answer": "Panawag ed sakey a totoo ya onarawi ed panagdayew ed si Ba'al"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say talintao a manngaran na Baal",
+        "Sakey a baleg a biong a ginawa ed malet a kiew",
+        "Sakey a baston ya angibiig ed malaknab a dayat",
+        "Sakey a sagradon kawes ya amagaan na dala",
+        "Sakey a mandarlang a kiew ed sakey a masanton palandey"
+      ],
+      "answer": "Say talintao a manngaran na Baal"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Niiter so kareenan tan nibilang ed saray pinilin lingkor nen Allah",
+        "Inyakar ed paraiso legan ya aderal so amin ya arum",
+        "Nisalba ed baleg ya apoy ya nagmaliw ya ambetel tan maligen",
+        "Niiter so pakauley ed saray jinn, katooan, tan say dagem",
+        "Say laman so nipreserba bilang manbayag a tanda ed saray panaon"
+      ],
+      "answer": "Niiter so kareenan tan nibilang ed saray pinilin lingkor nen Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

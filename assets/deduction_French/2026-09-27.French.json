@@ -1,0 +1,61 @@
+{
+  "title": "Le jardin qui a disparu du jour au lendemain",
+  "intro": "Imaginez un jardin luxuriant, croulant sous les fruits mûrs et entouré d'arbres majestueux. Ceux qui le cultivaient se croyaient avisés, planifiant leur récolte dans le calme de l'aube, à l'abri des regards de ceux qui en avaient besoin. Mais Celui qui ne dort jamais avait d'autres projets pour leurs richesses cachées. Devinez qui se cache derrière cette fable édifiante du Coran ?",
+  "clues": [
+    "Nous possédions autrefois un jardin si luxuriant et si abondant qu'il faisait l'envie de tous ceux qui passaient par là.",
+    "Lors de nos préparatifs, nous nous sommes chuchotés à l'oreille, tôt le matin, déclarant qu'aucune âme nécessiteuse ne serait autorisée à entrer ce jour-là.",
+    "Nous étions des gens riches, et nos cœurs étaient devenus aveugles aux droits des pauvres qui nous entouraient.",
+    "Lorsque l'aube de notre récolte tant attendue arriva, nous nous approchâmes de notre jardin pour le trouver transformé du jour au lendemain en une ruine noircie.",
+    "Un décret dévastateur s'est abattu, ne laissant que des cendres là où pendaient autrefois des grappes de fruits mûrs.",
+    "Notre histoire est un avertissement sévère consigné dans le Coran, où nous sommes connus comme les propriétaires du jardin qui ont refusé de faire l'aumône aux nécessiteux."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les propriétaires du jardin",
+        "Le peuple de la caverne",
+        "Les disciples d'Isa",
+        "Les Compagnons du Bois",
+        "Les invités d'Ibrahim"
+      ],
+      "answer": "Les propriétaires du jardin"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Récolter secrètement les fruits et exclure les pauvres",
+        "Dormir pendant des siècles à l'intérieur d'une grotte",
+        "Refusant de produire une chamelle à partir de pierre",
+        "Adoration d'un veau d'or au mont Sinaï",
+        "Construire une grande arche pour échapper à une inondation"
+      ],
+      "answer": "Récolter secrètement les fruits et exclure les pauvres"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un jardin clos rempli de palmiers et de vignes",
+        "Une caverne obscure au cœur des montagnes",
+        "Une ville submergée par un ouragan divin",
+        "Une vallée sacrée près de la Maison d'Allah",
+        "Les rives d'une rivière qui coule"
+      ],
+      "answer": "Un jardin clos rempli de palmiers et de vignes"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Le jardin fut consumé par un décret brûlant venu du ciel.",
+        "Ils dormirent paisiblement pendant 309 années lunaires.",
+        "Ils furent écrasés par une pluie de pierres",
+        "Ils se sont noyés sous les vagues d'une grande inondation.",
+        "Ils furent dispersés par une bourrasque de vent froid et violent."
+      ],
+      "answer": "Le jardin fut consumé par un décret brûlant venu du ciel."
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

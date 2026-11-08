@@ -1,0 +1,61 @@
+{
+  "title": "L'envie qui consumait",
+  "intro": "Une histoire plus ancienne que n'importe quel royaume ou texte sacré : la première tragédie humaine née de la jalousie. L'aîné des deux enfants des premiers parents assista avec rage à la faveur refusée à son cadet. S'ensuivit un choix des plus sombres, donnant naissance au premier sang versé sur la terre. Parviendrez-vous à percer le mystère de l'identité, du procès et du regret amer ?",
+  "clues": [
+    "Je suis né du tout premier couple humain à avoir foulé la terre.",
+    "J'ai fait une offrande à Allah, mais elle n'a pas été acceptée.",
+    "L'offrande de mon frère/ma sœur a été acceptée, tandis que la mienne a été rejetée – chose que je ne pouvais supporter.",
+    "J'ai menacé mon propre frère de destruction.",
+    "Je suis devenu le premier à commettre un meurtre sur cette terre, en ôtant la vie à mon propre frère ou ma propre sœur.",
+    "Allah m’a envoyé une créature de la terre — un oiseau noir creusant le sol — pour m’apprendre à dissimuler ce que j’avais fait, et il ne m’en est resté que des regrets."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Qabil (Caïn)",
+        "Habil (Abel)",
+        "Prophète Yaqub",
+        "Le prophète Moïse",
+        "Le prophète Adam"
+      ],
+      "answer": "Qabil (Caïn)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Offrande rejetée par Allah",
+        "Jeté dans un grand feu",
+        "Abandonné bébé dans une rivière",
+        "Testé avec un immense royaume",
+        "L'ordre de sacrifier son fils"
+      ],
+      "answer": "Offrande rejetée par Allah"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le corbeau envoyé par Allah",
+        "Le veau d'or",
+        "L'arche sur la montagne",
+        "Le buisson ardent",
+        "La chamelle sculptée dans la roche"
+      ],
+      "answer": "Le corbeau envoyé par Allah"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Je me suis retrouvé rempli de regrets et parmi les perdants.",
+        "Engloutis par la terre avec leurs trésors",
+        "Il devint un noble messager d'Allah",
+        "Entré au Paradis par la grâce divine",
+        "Il régnait sur un royaume sans égal"
+      ],
+      "answer": "Je me suis retrouvé rempli de regrets et parmi les perdants."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

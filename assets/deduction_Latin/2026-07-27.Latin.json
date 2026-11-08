@@ -1,0 +1,61 @@
+{
+  "title": "Oblatio quae Fatum Mutavit",
+  "intro": "Primis humanitatis diebus, anima donum puris intentionibus offerebat. Attamen invidia in umbra acceptationis latebat. Historiam huius personae, cuius pietas et finis tragicus in divina revelatione immortalizati sunt, explora.",
+  "clues": [
+    "Inter primas hominum generationes fui.",
+    "Oblationem Domino meo obtuli, et cum favore accepta est.",
+    "Oblatio fratris mei reiecta est, et invidia obtectavit cor eius.",
+    "Ei dixi, \"Si manum tuam ad me extendis ut me interficias, non extendam manum meam ut te interficiam; immo timeo Deum, Dominum saeculorum.\"",
+    "Victima primi actus caedis in terra factus sum.",
+    "Sanguis meus clamavit, et ego primus martyr innocentiae fui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Cain)",
+        "Vir ex Ya-Sin",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Oblatio eius accepta est, invidiam fratris excitans et necem eius.",
+        "In fornacem ardentem coniectus est, sed incolumis evasit",
+        "Navem ingentem sub divina ductu construxit",
+        "A magno pisce absorptus est et in tenebris mansit",
+        "Populum suum per mare divisum duxit"
+      ],
+      "answer": "Oblatio eius accepta est, invidiam fratris excitans et necem eius."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Oblatio accepta",
+        "Baculus in serpentem mutatus",
+        "Camela quasi signum divinum",
+        "Upupa nuntium afferens",
+        "Vitulus aureus adoratus"
+      ],
+      "answer": "Oblatio accepta"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Prima caedes in historia; frater eius damnatus est",
+        "A terra absorptus una cum divitiis suis",
+        "In simias propter transgressionem transformati",
+        "Vento vehementi et glaciali deleta",
+        "In magna inundatione submersi poenae causa"
+      ],
+      "answer": "Prima caedes in historia; frater eius damnatus est"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

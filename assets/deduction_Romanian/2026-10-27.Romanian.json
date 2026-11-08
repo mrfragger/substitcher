@@ -1,0 +1,61 @@
+{
+  "title": "Un asediu sub un cer neașteptat",
+  "intro": "Stai în fața unei armate formidabile care se apropie de un sanctuar venerat, cu toate armele pregătite și victoria aparent sigură. Înainte ca asaltul să poată începe, o putere neașteptată apare deasupra capului, iar lupta ia o întorsătură neprevăzută.",
+  "clues": [
+    "Am mărșăluit cu o încredere pe care nicio putere pământească nu o putea zdruncina.",
+    "Am adus elefanți puternici, iar forța noastră părea construită în jurul lor.",
+    "Veniserăm să dărâmăm un sanctuar venerat, crezând că victoria noastră era deja sigură.",
+    "Când am ajuns acolo, un stol a mârâit cerul deasupra noastră.",
+    "Păsările au aruncat cu pietre de lut întărit asupra războinicilor noștri.",
+    "Am fost înfrânți atât de complet încât forța noastră puternică s-a fărâmițat și s-a împrăștiat ca cenușa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii elefantului",
+        "Cei doi prinți",
+        "Frații lui Iosif",
+        "Slujitorul lui Allah în Dhul-Kifl",
+        "Companionii omului drept"
+      ],
+      "answer": "Oamenii elefantului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Asaltul condus de elefanți asupra Kaabai",
+        "Marea despărțindu-se înaintea unui grup eliberat",
+        "Confiscarea Chivotului de către un popor tiran",
+        "Călătoria nocturnă între două moschei",
+        "Vindecarea unui lepros prin putere divină"
+      ],
+      "answer": "Asaltul condus de elefanți asupra Kaabai"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Păsări care cărează pelete de lut",
+        "O arcă din lemn de gopher",
+        "Un toiag transformat într-un șarpe",
+        "O piatră pecetluită cu un semn",
+        "Un rug aprins"
+      ],
+      "answer": "Păsări care cărează pelete de lut"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Forța lor puternică s-a fărâmițat ca cenușa",
+        "Au traversat marea în siguranță",
+        "Au mers nevătămați printr-un cuptor aprins",
+        "Au intrat în Paradis în perechi",
+        "Au dormit într-o peșteră timp de 309 ani"
+      ],
+      "answer": "Forța lor puternică s-a fărâmițat ca cenușa"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

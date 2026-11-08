@@ -1,0 +1,61 @@
+{
+  "title": "Kansakunta, joka haastoi pyhän talon",
+  "intro": "Muinaisina aikoina mahtava kansakunta päätti hyökätä uskovien kunnioittamaan pyhäkköön. Tämä ryhmä oli varakas, mahtava ja luotti sotilaalliseen voimaansa. He toivat mukanaan valtavan olennon, joka toimisi heidän sota-aseenaan. Heidän tavoitteensa oli selvä: tuhota pyhä huone ja murskata sen kansan usko. Mutta heidän ylimielisyytensä oli kohtaamassa tuhoisaa vastausta ylhäältä. Tästä historiallisesta tapahtumasta tuli merkki ja opetus kaikille, jotka tulivat myöhemmin. Voitko tunnistaa tämän ryhmän vihjeiden perusteella?",
+  "clues": [
+    "Olimme kansakunta, jota oli siunattu vauraudella ja sotilaallisella kyvyllä.",
+    "Kokosimme voimamme ja toimme mukanamme valtavan pedon kampanjaamme varten.",
+    "Kohteemme oli pyhäkkö, jonka halusimme tuhota kokonaan.",
+    "Uskoimme, että voimamme riittäisivät voittamaan minkä tahansa jumalallisen suojeluksen.",
+    "Mutta Herra lähetti meille taivaasta rangaistuksen, jota emme odottaneet.",
+    "Meidät tuhottiin silmänräpäyksessä, hajaantuivat kuin katkennut oljenkorsi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Norsun kansa",
+        "Thamudin kansa",
+        "'Ad:n ihmiset",
+        "Luolan seuralaiset",
+        "Profeetta Hudin kansakunta"
+      ],
+      "answer": "Norsun kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Norsun marssi kohti pyhää taloa tuhotakseen sen",
+        "Tornin rakentaminen taivaisiin pääsemiseksi",
+        "Kultaisen idolin rakentaminen palvontaa varten",
+        "Kieltäytyminen kuuntelemasta Allahin lähettilää",
+        "Kaivon kaivaminen vahingoittaakseen uskovia"
+      ],
+      "answer": "Norsun marssi kohti pyhää taloa tuhotakseen sen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Norsu",
+        "Kultainen vasikka",
+        "Musan sauva",
+        "Yunuksen kala",
+        "Dawudin rauta"
+      ],
+      "answer": "Norsu"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Lintuparvet tuhosivat ne kivillä",
+        "He hukkuivat suureen tulvaan",
+        "Ne muutettiin apinoiksi ja sioiksi",
+        "Heidät hautautuivat vuorelta putoavien kivien alle",
+        "Taivaan tuli poltti heidät"
+      ],
+      "answer": "Lintuparvet tuhosivat ne kivillä"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yürüyüşe Geçen Ordudan Önce Küçük Bir Uyarı",
+  "intro": "Güçlü bir hükümdarın ve büyük bir ordunun yaklaştığı bir vadiye adım atın ve küçük bir gezginin tüm bir topluluğu kurtaran bir uyarıda bulunduğunu hayal edin. Tehdit altındaki topluluk sığınağa ulaştığında, tehlike geçer gider. Bu uyarının ardındaki gözden kaçan figürü bulmak için ipuçlarını takip edin.",
+  "clues": [
+    "Ben, hükümdarın krallığıyla ilişkilendirilen küçük yaratıklardan biriyim.",
+    "Topluluğumuz, bir vadinin içindeki konutlarda yaşıyor ve içimizden biri diğerlerine seslenebiliyor.",
+    "O hükümdardan ve onunla birlikte seyahat eden ordulardan kaynaklanan bir tehditle karşı karşıyayız.",
+    "Topluluğumu evlerine girmeye çağıran ve farkında olmadan ezilmememiz konusunda uyaran kişi benim.",
+    "Hükümdar Süleyman'dır ve benim türüm de onun emri altındaki yaratıklar arasındadır.",
+    "Ben o vadinin karıncasıyım; uyarım sayesinde yuvalarımıza girdik ve aksi takdirde bizi hazırlıksız yakalayacak olan ezilmekten kurtulduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Vadinin Karıncası",
+        "Çavuşkuşu",
+        "Karga",
+        "Yılan",
+        "Katır"
+      ],
+      "answer": "Vadinin Karıncası"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bir karınca topluluğunu kurtaran bir uyarı",
+        "Bir balıktan yüzük isteği.",
+        "Kayıp bir tahtın arayışı",
+        "Çalınan gözlerin kurtarılması",
+        "Bir yöneticinin yemeğini yemeyi reddetmek"
+      ],
+      "answer": "Bir karınca topluluğunu kurtaran bir uyarı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Karıncalar Vadisi",
+        "Süleyman'ın Mühür Yüzüğü",
+        "Yusuf'un Kanlı Gömleği",
+        "Mısır'dan Çıkış'ın Altın Buzağısı",
+        "Musa'nın Asası"
+      ],
+      "answer": "Karıncalar Vadisi"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Sığınaklara girerek topluluk felaketten kurtuldu.",
+        "Topluluk, sığınacak yer bulamadan yok edildi.",
+        "Ordunun geri çekilmesi sayesinde o topluluk zarar görmedi.",
+        "Topluluk, kuşlar üzerindeki kontrol hakkıyla ödüllendirildi.",
+        "Topluluk kraliyet sarayına esir olarak götürüldü."
+      ],
+      "answer": "Sığınaklara girerek topluluk felaketten kurtuldu."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

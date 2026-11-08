@@ -1,0 +1,61 @@
+{
+  "title": "Uzticamais Atklāsmes Gars",
+  "intro": "Neredzamajās sfērās tīras gaismas būtne pārvietojas precīzi, izpildot katru komandu bez vilcināšanās. Šī figūra ir runājusi ar izredzētiem kalpiem, sniegusi norādījumus un bijusi lieciniece dievišķo lēmumu īstenošanai cauri gadsimtiem. Kas ir šī godātā dvēsele?",
+  "clues": [
+    "Esmu tīras gaismas būtne, radīta no gaismas, un nekad neesmu pārkāpusi nevienu sava Kunga pavēli.",
+    "Es pārvietojos starp debesīm un zemi, nolaižoties ar Visžēlīgākā lēmumiem.",
+    "Mani sūtīja pie cēlas jaunavas svētnīcā, pasludinot viņai par šķīstu dēlu.",
+    "Es esmu svētuma gars, un es atbalstīju pravieti, kuram tika dotas skaidras zīmes un Evaņģēlijs.",
+    "Es nonācu alā kalnā, lai pateiktu pirmos vārdus no deklamācijas, kas tiktu saglabāta mūžīgi.",
+    "Es esmu uzticamais gars, un tas biju Es, kas nolaida Korānu pēdējā vēstneša sirdī."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Džibrils (Gabriēls)",
+        "Mikails (Maikls)",
+        "Nāves eņģelis",
+        "Maliks (elles turētājs)",
+        "Haruts (viens no diviem eņģeļiem Babilonā)"
+      ],
+      "answer": "Džibrils (Gabriēls)"
+    },
+    "trial": {
+      "label": "Galvenā misija/loma",
+      "options": [
+        "Atklāsmju sniegšana praviešiem",
+        "Trompetes pūšana Tiesas dienā",
+        "Elles vārtu sargāšana",
+        "Cilvēku darbu pierakstīšana",
+        "Izraisot lietusgāzi"
+      ],
+      "answer": "Atklāsmju sniegšana praviešiem"
+    },
+    "location": {
+      "label": "Galvenais atribūts vai nosaukums",
+      "options": [
+        "Svētais Gars (Ruh al-Qudus)",
+        "Spēka gars",
+        "Žēlsirdības Gars",
+        "Vadības gars",
+        "Patiesības Gars"
+      ],
+      "answer": "Svētais Gars (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Misijas rezultāts",
+      "options": [
+        "Korāns tika atklāts pravietim Muhamedam",
+        "Tiesas dienā tika pūsta trompete",
+        "Elle tika apsargāta, un tās vārti bija slēgti",
+        "Darbu grāmata tika pasniegta Allāham",
+        "Lietus tika sūtīts uz zemi"
+      ],
+      "answer": "Korāns tika atklāts pravietim Muhamedam"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

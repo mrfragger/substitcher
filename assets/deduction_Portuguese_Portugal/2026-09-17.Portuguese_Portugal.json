@@ -1,0 +1,61 @@
+{
+  "title": "À sombra da tamareira",
+  "intro": "Uma história se desenrola sobre uma alma separada antes do nascimento, nutrida entre muros sagrados e escolhida para portar um sinal que o mundo jamais testemunhou. Quando acusações surgiram de todos os lados, uma voz veio do lugar mais improvável para silenciar todas as dúvidas. Você consegue descobrir quem caminhava sob a sombra da tamareira?",
+  "clues": [
+    "Eu me dediquei ao serviço do Todo-Poderoso antes mesmo de respirar pela primeira vez, um voto feito por aquele que me carregou no ventre.",
+    "Cresci sob a vigilância de um guardião justo, dentro dos recintos sagrados de um local de culto.",
+    "Sempre que meu guardião vinha ao meu quarto, encontrava comigo provisões de épocas que não deveriam ter existido.",
+    "Recebi a feliz notícia de um filho, embora as minhas circunstâncias não me permitissem concretizar o que me foi prometido.",
+    "Retirei-me para um lugar distante, e lá uma tamareira ofereceu-me sombra enquanto um riacho corria por baixo.",
+    "Quando as acusações vieram e as perguntas me cercaram, apontei para meu filho recém-nascido — e ele falou desde o berço para silenciar todas as dúvidas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Maria",
+        "Sarah",
+        "Hawwa",
+        "Umm Musa",
+        "A esposa de Noé"
+      ],
+      "answer": "Maria"
+    },
+    "trial": {
+      "label": "Julgamento/Evento",
+      "options": [
+        "Dar à luz um filho milagroso em isolamento.",
+        "Ser lançado em uma fogueira ardente por idólatras",
+        "Sobrevivendo ao grande dilúvio com alguns escolhidos",
+        "Separados de um bebê lançado ao rio",
+        "Confrontando o poderoso governante do Egito"
+      ],
+      "answer": "Dar à luz um filho milagroso em isolamento."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma tamareira e um riacho correndo por baixo dela.",
+        "Uma arca imponente sobre ondas gigantescas",
+        "Um bastão que dividiu um grande mar em dois.",
+        "Um fogo ardente destinado a consumir uma alma fiel.",
+        "Um trono dourado adornado com pedras preciosas."
+      ],
+      "answer": "Uma tamareira e um riacho correndo por baixo dela."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Honrada como a mais exaltada de todas as mulheres.",
+        "Reencontro com um filho querido após longa separação.",
+        "Liderou toda uma nação para fora da escravidão de um tirano.",
+        "Alertou um povo perdido na imoralidade",
+        "Concedido domínio sobre os gênios, a humanidade e os ventos."
+      ],
+      "answer": "Honrada como a mais exaltada de todas as mulheres."
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A zöld mező utazói",
+  "intro": "Egy ősi időkben két ember szomszédos földeken dolgozott. Útjaik összefonódtak, mégis a szívük egészen más irányok felé vezette őket. Az egyik az egyenes úton járt, míg a másik a tagadás sötétségébe tévedt. Vajon meg tudod fejteni a két aratás őrzőjének rejtélyét?",
+  "clues": [
+    "Bőséges termésem volt, pazar aratásom, ami elvakította a szemlélődők szemét.",
+    "A szomszédom még nagyobb bőkezűséggel rendelkezett, mint én, mégis jobban vágytam az ő részére, mint a sajátomra.",
+    "Azt javasoltam, hogy semmisítsük meg teljesen a termésüket, hogy mindent az irányításom alá vonjunk.",
+    "A saját aratásomat is én pusztítottam el, mindent elpusztítva ostoba terveimmel.",
+    "Tehetetlenül álltam, miközben a termésem elszáradt, és a vagyonom egyetlen éjszaka alatt porrá vált.",
+    "Nem volt részem a túlvilágon, és végső lakhelyem lángoló tűzzel teli gödörré vált."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az ember, aki tagadta a feltámadást és az ítéletet",
+        "Az uralkodó, aki elnyomta az igaz földművest",
+        "A gazdag földbirtokos, akiből hiányzott a hála",
+        "A gazda, aki megkívánta szomszédja földjét",
+        "Az áruló társ, aki pusztítást tervezett"
+      ],
+      "answer": "A gazda, aki megkívánta szomszédja földjét"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az isteni kinyilatkoztatás befogadásának próbája",
+        "A gazdagság és a türelem kihívása",
+        "A kísértés, hogy elpusztítsuk egy igaz ember megélhetését",
+        "A parancs az örökség igazságos felosztására",
+        "A zsarnok elnyomása elleni küzdelem"
+      ],
+      "answer": "A kísértés, hogy elpusztítsuk egy igaz ember megélhetését"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A paradicsom zöld kertjei",
+        "Két szomszédos termőföld",
+        "A hegyek, amelyek a pusztulást tanúi voltak",
+        "Mekka szentélye",
+        "Egy áldott föld folyópartjai"
+      ],
+      "answer": "Két szomszédos termőföld"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Örök Paradicsom jutalma az igazságosságért",
+        "Mindkét termés teljes pusztulása ebben az életben",
+        "Száműzetés és vándorlás a halálig",
+        "Ideiglenes jólét, majd örök tűz",
+        "Csodálatos helyreállítás és megduplázott jutalom"
+      ],
+      "answer": "Mindkét termés teljes pusztulása ebben az életben"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "El testimoni ferm",
+  "intro": "Es desplega una narrativa profunda que revela la ferma determinació d'una comunitat davant d'una immensa tirania. La seva història serveix com a testimoni de fe, fins i tot quan s'enfronta al sacrifici suprem. Aquest relat ens recorda el poder de la creença contra l'opressió aclaparadora.",
+  "clues": [
+    "Érem un grup la història del qual es relata en una sura curta i poderosa, que advertia contra la persecució.",
+    "Ens vam enfrontar a un governant que volia eradicar la nostra creença en l'Únic Déu, el Senyor del Tron, el Digne de Lloança.",
+    "Vam ser sotmesos a una prova terrible que va implicar un pou enorme excavat a la terra.",
+    "Vam veure com els creients, inclosos els nadons, eren llançats a un infern furiós dins d'aquell pou.",
+    "Els nostres torturadors van ser maleïts per les seves accions, mentre que a nosaltres se'ns va prometre una immensa recompensa per la nostra perseverança.",
+    "L'intent del governant d'extingir la nostra fe només va consolidar el nostre lloc com a màrtirs davant d'Al·là, que és testimoni de totes les coses."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent de Thamud",
+        "Gent d'Ad",
+        "Gent de la fossa",
+        "Gent de Lut",
+        "Gent de l'elefant"
+      ],
+      "answer": "Gent de la fossa"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "El Gran Diluvi",
+        "L'Arbust Ardent",
+        "L'ofegament al mar",
+        "El pou ardent",
+        "El terratrèmol"
+      ],
+      "answer": "El pou ardent"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "La rasa",
+        "La muntanya",
+        "El Pou"
+      ],
+      "answer": "La rasa"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Se'ls va concedir un regne",
+        "Van ser salvats per un miracle",
+        "Va aconseguir el martiri i el Paradís",
+        "Es van escampar per terres",
+        "Van rebre una immensa riquesa"
+      ],
+      "answer": "Va aconseguir el martiri i el Paradís"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

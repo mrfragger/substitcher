@@ -1,0 +1,61 @@
+{
+  "title": "Tõusva Päikese Värava Valvur",
+  "intro": "Läbi Koraani rändavad teatud hinged mööda maad, jättes maha tarkuse ja imestuse jälgi. Üks selline tegelane rändas loomismaailma kaugeimatesse punktidesse – kus päike tõuseb ja loojub, kus barjäär hoiab tagasi kaost ennast. Sellele Allahi sulasele anti kuningriik, mida keegi enam kunagi ei valda. Kolme erineva teekonna kaudu sai selle inimese eesmärk selgeks. Kas suudad ajaloo varjudest selle legendaarse ränduri ära tunda?",
+  "clues": [
+    "Kõigehalastavam andis mulle võimu valitseda maa üle viisil, mida keegi teine ​​pole kunagi saavutanud.",
+    "Ma rändasin läände, kuni jõudsin kohta, kus päike loojub, avastades, et see loojub sogases kevadses õhus, ja ma nägin seal inimesi.",
+    "Ma rändasin itta, kuni jõudsin kohta, kus päike tõuseb, ja leidsin selle tõusvat rahva kohal, kellele Me polnud selle eest varju pakkunud.",
+    "Ma rändasin nende kahe äärmuspunkti vahel, kuni jõudsin kahe mäe vahele jäävasse orgu, kus kohtasin inimesi, kes vaevu suutsid kõnest aru saada.",
+    "Leidsin mäelt kaks kõva raudseina, mis ulatusid paremale ja vasakule, ning nende vahel kitsa käigu. Need inimesed palusid mul murda läbi kaost tagasi hoidva tõkke.",
+    "Ma võtsin oma toiduvarud ja ütlesin: „Kui barjäär puruneb, on see selge eraldus meie ja selle rahva vahel.“ Ja kui määratud aeg kätte jõudis, vaatasin ma pealt, kuidas barjäär lõpuks purunes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Prohvet Sulayman",
+        "Prohvet Ibrahim",
+        "Ghassaniyah' kuningas",
+        "Dhul-Qarnain, Rändur"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Raudse barjääri läbimurdmine Yajuji ja Majuji rahva heaks",
+        "Laeva ehitamine prohveti juhtimisel",
+        "Templi ehitamine Jeruusalemma",
+        "Punase mere ületamine usklike inimestega",
+        "Tammi ehitamine õiglase rahva kaitsmiseks"
+      ],
+      "answer": "Raudse barjääri läbimurdmine Yajuji ja Majuji rahva heaks"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Raudne barjäär kahe mäe vahel",
+        "Laev ankurdas mäe külge",
+        "Püha jumalateenistuse hoone Jeruusalemmas",
+        "Jõgi Egiptusemaal",
+        "Õnnistuste kaev Madjanis"
+      ],
+      "answer": "Raudne barjäär kahe mäe vahel"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Määratud ajal murti barjäär läbi ja kaos voolas välja",
+        "Uskmatud uppusid, usklikud aga päästeti",
+        "Õiged juhatati igavesse paradiisi",
+        "Linna hävitas karjuv tuul",
+        "Ebajumalad purustati ja rahvas kahetses"
+      ],
+      "answer": "Määratud ajal murti barjäär läbi ja kaos voolas välja"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

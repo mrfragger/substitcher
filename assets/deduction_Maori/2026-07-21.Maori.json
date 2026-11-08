@@ -1,0 +1,61 @@
+{
+  "title": "Te Kanga o te Kotinga Nui",
+  "intro": "I tētahi whenua tawhito, i tū tētahi wairua i roto i te hunga whai rawa o tō rātou hapori. E rua ngā manaakitanga o te whenua i tae mai ki a rātou i roto i ngā tau karapīpiti, he kotinga rua i tika kia whakakīia ō rātou ngākau ki te whakawhetai. Heoi, i te pā mai o te aituā, ā, i tangohia ngā mea katoa i a rātou i te pō kotahi, i whakakitea mai e tā rātou urupare te āhua tūturu o ō rātou wairua. Ka taea e koe te hura i te tuakiri o tēnei tangata nāna nei te kōrero hei whakatūpato mō te kore whakapono ki ngā manaakitanga a Allah?",
+  "clues": [
+    "Ko ahau tētahi o ngā wairua tino waimarie o te whenua katoa, i manaakitia ki ngā kai maha.",
+    "E rua ngā hua i tae mai ki ahau i roto i ngā tau e rua, heoi kāore tonu tōku ngākau i whakawhetai ki tōku Ariki.",
+    "I a au tētahi māra nui, he nui ngā waina, ngā oriwa, me ngā nikau—he tohu tēnei i te manaakitanga o Allah.",
+    "I te whakangaromanga o taku māra, i tū ahau i roto i ōna ururua me ōku ringa e totoro atu ana ki te rangi, e kanga ana i tōku aituā.",
+    "I whakakahore ahau i te kīanga kāore a Allah i meinga tēnei mate, ahakoa i kuru ahau i ōku ringa i te pouri.",
+    "Ehara i te mea ko te ngaromanga o taku māra anake taku whiu, engari ko te waiho noa iho i roto i ōna ururua, kāore hoki e taea te karanga i tētahi kaiawhina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ko te rangatira o te māra i roto i te Surah 26",
+        "Ko te rangatira o ngā māra e rua mai i tawhiti",
+        "He wairua whai rawa nō te tāone nui o te whai rawa",
+        "Ko te kaiahuwhenua i whakahuahia i roto i te Surah Al-Kahf",
+        "He kaitiaki māra waina mai i te wā o te Poropiti Shu'aib"
+      ],
+      "answer": "Ko te rangatira o te māra i roto i te Surah 26"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te ngaronga o tētahi māra i whakangaromia i te pō kotahi",
+        "Te waipuke nui i taupokina ai te whenua",
+        "Te whakamatautauria e ngā poropiti pono me ngā poropiti teka",
+        "Te whakamātautau o te maka ki te ahi",
+        "Te whakamātautau o te horomia e te whenua"
+      ],
+      "answer": "Te ngaronga o tētahi māra i whakangaromia i te pō kotahi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He māra me ngā waina, ngā oriwa, me ngā nikau i whakangaromia mō ngā tau e rua",
+        "He kaipuke i hangaia ki runga i te maunga teitei",
+        "Te tāone o tētahi iwi hara",
+        "He puna wai i Miriana tawhito",
+        "Te awa o te pararaiha"
+      ],
+      "answer": "He māra me ngā waina, ngā oriwa, me ngā nikau i whakangaromia mō ngā tau e rua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te korekore rawa - ka ngaro, kāore he kaiawhina",
+        "Te aranga ki te tomo ki te pararaiha",
+        "Te riro hei poropiti a Allah",
+        "Te ārahitanga o tētahi iwi nui",
+        "Te whiu mutunga kore i roto i te ahi"
+      ],
+      "answer": "Te korekore rawa - ka ngaro, kāore he kaiawhina"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mekas patiesīgie",
+  "intro": "Atklāsmes pirmsākumos, kad patiesības vēsts saskārās ar sīvu pretestību, dažas dvēseles nelokāmi palika savā pārliecībā. Šie ticīgie saskārās ar neiedomājamu nežēlību no to puses, kas centās apdzēst ticības gaismu. Viņu mokas bija smagas, ciešanas milzīgas, tomēr viņu mēles nekad nebeidza sludināt Allāha vienotību. Pat tad, kad viņi bija iemesti izmisuma dzīlēs, dievišķā aizsardzība viņus apņēma, pārveidojot viņu pārbaudījumus par mūžīgu ticības apliecinājumu. Izpētīsim šo ievērojamo dvēseļu ceļojumu.",
+  "clues": [
+    "Mēs tikām pārbaudīti ar bargu sodu par to, ka atteicāmies atteikties no savas ticības vienam Dievam",
+    "Mūsu tauta nespēja salauzt mūsu apņēmību, lai cik radoša kļūtu viņu nežēlība",
+    "Dienā mēs bijām iekārti no akas, tomēr dievišķā palīdzība vienmēr bija tuvumā",
+    "Mūsu nelokāmība pārsteidza pat tos, kas bija mūsu izturības liecinieki",
+    "Daudzi Mekā centās mūs piespiest atteikties no saviem uzskatiem, bet mēs palikām nelokāmi",
+    "Kad viss šķita zaudēts, mūsu brīvība pienāca, pateicoties brīnumainai dievišķai iejaukšanās"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Bilals al-Habaši",
+        "Amars ibn Jasirs",
+        "Mikdads ibn al-Asvads",
+        "Habābs ibn al-Arats",
+        "Salmans al-Farsi"
+      ],
+      "answer": "Bilals al-Habaši"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Cīņa pret pravieti",
+        "Vajāšana par atteikšanos pielūgt elkus",
+        "Ticības pārbaudījums saistībā ar ugunsgrēku",
+        "Dalītā nakts ceļojuma izmēģinājums",
+        "Dārza iznīcināšanas pārbaude"
+      ],
+      "answer": "Vajāšana par atteikšanos pielūgt elkus"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Uhuda kalns",
+        "Kabas svētā vieta",
+        "Abu Sufjana aka",
+        "Kuraišu pils",
+        "Medīnas pilsēta"
+      ],
+      "answer": "Abu Sufjana aka"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Uzvara lielā cīņā",
+        "Atbrīvošana caur dievišķu iejaukšanos",
+        "Mocekļa nāve Allāha ceļā",
+        "Uzņemšana tieši paradīzē",
+        "Pārcelšanās uz svētītu zemi"
+      ],
+      "answer": "Atbrīvošana caur dievišķu iejaukšanos"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tayinlangan voris",
+  "intro": "O'tmishdagi bir shaxs tarixga qadam qo'yishga tayyor. Yo'l noaniq bo'lib tuyulganda va odamlar orasida shubha tarqalganda, bu xizmatkor rahbarlik libosini ko'tarish uchun tanlangan. Yelkalarida muqaddas vazifa og'irligi bilan ular boshqalar ergashishdan ikkilangan joyga yetakchilik qilish uchun oldinga qadam tashlashdi.",
+  "clues": [
+    "Men payg'ambarga hamroh bo'lish uchun tanlanganman va ularning donoligidan o'rganganman",
+    "Men Parvardigorimizning va'dasi yaqinlashganda, Sandiq oldida turdim va odamlarning shubhalana boshlaganini ko'rdim.",
+    "Rahbarimiz qayg'uga botib, biz uchun Allohga iltijo qilayotgan bir paytda, men va'da qilingan narsaning chetida turishga majbur bo'ldim.",
+    "Mendan oldin boshqasiga berilgan vazifani davom ettirish uchun tayinlangan edim",
+    "Menga odamlarni o'z manzillariga olib borish uchun ilohiy vakolat berilgan edi",
+    "Men oldimda boshlangan ishni oxiriga yetkazishga muvaffaq bo'ldim va odamlarning mening yo'l-yo'riqlarimga bo'lgan ishonchini qozondim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yusha ibn Nun",
+        "Yefunne o'g'li Xolib",
+        "Eldad va Medad",
+        "Hizqiyo payg'ambar (Hizqiyol)",
+        "Payg'ambar Horun (Horun)"
+      ],
+      "answer": "Yusha ibn Nun"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Va'da qilingan muqaddas yerga kirishdan bosh tortish",
+        "Fir'avn qo'shinlari bizni dengiz orqali ta'qib qilmoqda",
+        "Oltin buzoqqa sig'inish",
+        "Tavrotning buyrug'ini eshitishda shubha",
+        "Datan va Abiramning isyoni"
+      ],
+      "answer": "Va'da qilingan muqaddas yerga kirishdan bosh tortish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Musoga berilgan Tavrot kitobi",
+        "Ahd sandig'i jangda",
+        "Iordan daryosidan o'tish",
+        "Qirq yillik cho'l",
+        "Sinay tog'ining vahiysi"
+      ],
+      "answer": "Musoga berilgan Tavrot kitobi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Va'da qilingan muqaddas yerga kirish",
+        "Bosqinchilarga qarshi himoya devorini qurish",
+        "Muqaddas ibodat uyini qurish",
+        "Haqiqatni inkor etganlarni ta'qib qilib g'arq bo'lish",
+        "Buzuq qavmning butlarini sindirish"
+      ],
+      "answer": "Va'da qilingan muqaddas yerga kirish"
+    }
+  },
+  "verseRef": "5:21",
+  "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+  "verse": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" (5:21)"
+}

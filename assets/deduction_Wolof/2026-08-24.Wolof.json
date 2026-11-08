@@ -1,0 +1,61 @@
+{
+  "title": "Déglukat yu nëbbu yi gëm",
+  "intro": "Ci biir ndaje bu sell bi, mbooloo mu yéeme ñëw ci barab bu kenn gisul. Ñu dégg lu bari lu yéeme luñu leen di wax, ñu déglu li ñuy wax ci seen ëlëg ba fàww. Seen seede mingi wéy di nekk benn ci seede yi gëna am solo ci Mbindu Yàlla.",
+  "clues": [
+    "Nun ay mbindéef lanu yu bawoo ci barab bu ñépp gisul, te nu bokk lanu ñëw.",
+    "Nu dem ci benn ndaje ngir dégg lu yéeme.",
+    "Bi nu yegsee, nu déglu benn recitaasioŋ bu nu yéem lool.",
+    "Nu nangu bu baax ni amna ci nun ñu jub, amna ci ñu jub.",
+    "Xamoon nanu ni dunu mëna rëcci ci li Yàlla santaane ci kaw suuf, wala nu daw dem asamaan si.",
+    "Bi nu déggoo tegtal yi, nu gëm ko; képp ku gëm seen Boroom doo ragal perte wala son."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Gruppe de Jinn",
+        "waa Iram",
+        "Waa Tuuba'.",
+        "Empire bu Rome",
+        "Tribu Quraysh"
+      ],
+      "answer": "Gruppe de Jinn"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Déglu ab jàng bu sell",
+        "Tabax ponk yu kawe ci sunu dëkk",
+        "rëbb gaam bu jigéen bu rafet",
+        "Ñu ngi nuy yàq ndax li ñu rey sunuy yonent",
+        "Yokkateg alal ju ëpp"
+      ],
+      "answer": "Déglu ab jàng bu sell"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Ndaje jàng bu sell",
+        "Dëkk bu am ponk yu njool (Iram)",
+        "Teen bu nekk ci desert bi",
+        "Palais bu rëy buñ defaree wurus",
+        "Grotte bu sell ci tundu yi"
+      ],
+      "answer": "Ndaje jàng lu sell"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nu gëm te artu sunuy askan .",
+        "Yaxx nañu ko ci mbëkk bu am doole bu jóge asamaan",
+        "Ngelaw lu tàng, di yàq",
+        "Dañu may alal ak kàttan gu bari",
+        "Dese dëgër ci gëmul"
+      ],
+      "answer": "Nu gëm te artu sunuy askan ."
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

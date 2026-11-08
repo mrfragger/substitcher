@@ -1,0 +1,61 @@
+{
+  "title": "Xwarina Ji Hêla Kal û Pîr ve",
+  "intro": "Li deverên pîroz ên Mala Xwedê, xizmetkarekî Xwedê yê pîr rastî sirrekî kûr hat ku ji hemû bendewariyan derbas bû. Ev kesê dilsoz, ku ji salên dêûbavtiya xwezayî derbas bûbû, şahidê tiştekî bêhempa bû ku dilovaniya bêdawî ya Xwedê eşkere kir. Puzzle di eşkerekirina vê kêliya jibîrkirî ji jiyana pêxemberan de ye.",
+  "clues": [
+    "Gelê min wekî Îsraîl dihat nasîn, neviyên bavikekî mezin ê demên berê bûn.",
+    "Min şevên xwe bi nimêjê derbas dikirin, li perestgehê li ber Xudanê xwe ditewiyam.",
+    "Di pîrbûna min de kurek ji min re hat dayîn, diyariyek ku min her tim dev ji pesnê Xwedê berneda.",
+    "Ceribandina min ve girêdayî dîtina xwarinekê bû ku ji bo giyanek ciwan a di bin lênêrîna min de derket holê.",
+    "Ez pêxemberek bûm bi navê Zekeriya, erkê lênêrîna Meryemê li Beyt-ul-Meqdisê li ser min bû.",
+    "Bersiv di ayeta ku tê de Xwedê Meryemê qebûl kiriye û rizq daye wê de ye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxemberê ku di perestgehê de lênêrîna Meryemê kir",
+        "Pêxemberê ku mala pîroz ava kir",
+        "Pêxember ji aliyê masiyek mezin ve hat daqurtandin",
+        "Pêxemberê ku ji gelê xwe reviya",
+        "Pêxemberê ku rasterast bi Xwedê re peyivî"
+      ],
+      "answer": "Pêxemberê ku di perestgehê de lênêrîna Meryemê kir"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bi salên hişkesaliyê tê ceribandin",
+        "Dîtina debara bi awayekî sirrî ji bo parêzvanekî ciwan tê peyda kirin",
+        "Mizgînî ji miletekî re ku rêberiya îlahî red dikir",
+        "Ji aliyê gelê xwe ve tê avêtin nav çalê",
+        "Bi rêya dîtinan wergirtina wehyê"
+      ],
+      "answer": "Dîtina debara bi awayekî sirrî ji bo parêzvanekî ciwan tê peyda kirin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keştiyeke ji taxte û mixan hatiye çêkirin",
+        "Perestgeha pîroz a Orşelîmê",
+        "Baxçeyekî ku wêran bûye",
+        "Bajarekî ku ji hêla padîşahekî adil ve hatiye avakirin",
+        "Kûrahiya okyanûsê"
+      ],
+      "answer": "Perestgeha pîroz a Orşelîmê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Xelk bawerî bi pêxember anîn û li pey pêxember çûn",
+        "Qebûlkirin û rehmeta Xwedê ji bo kesên ku ji îbadetê re dilsoz in",
+        "Ceza li kafiran hat",
+        "Wekî ku soz dabû, di pîrbûnê de kurek ji dayik bû",
+        "Derbasbûneke ewle di nav çolê re"
+      ],
+      "answer": "Qebûlkirin û rehmeta Xwedê ji bo kesên ku ji îbadetê re dilsoz in"
+    }
+  },
+  "verseRef": "3:37",
+  "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+  "verse": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\" (3:37)"
+}

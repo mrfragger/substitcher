@@ -1,0 +1,61 @@
+{
+  "title": "Zamana İnanan Şəhər",
+  "intro": "İlahi mərhəmət salnaməsində dönüş nöqtəsi kollektiv dərk etmə anı olan bir icma var. Siz onların hekayəsini - xəbərdarlıq, tövbə və onları digər xalqların taleyindən fərqləndirən bir möhlət hekayəsini kəşf etmək üzrəsiniz.",
+  "clues": [
+    "Biz elçi göndərilən bir qövm idik və əvvəlcə onun dəvətindən üz döndəririk.",
+    "Yaxınlaşan əzabın əlamətləri aydın olduqda, onun xəbərdarlığının həqiqət olduğunu anladıq.",
+    "Biz səmimi tövbə ilə Rəbbimizə üz tutduq və imanımız qəbul olundu.",
+    "Bizə verilən cəza imanımıza görə aradan qaldırıldı.",
+    "Bizim hekayəmiz əzabı gördükdən sonra iman gətirən şəhərlər arasında istisna kimi göstərilir.",
+    "Biz balina tərəfindən udulmuş peyğəmbər qövmü idik, amma məhv olmaqdan xilas olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yunus qövmü",
+        "Nuh qövmü",
+        "Hud xalqı",
+        "Saleh xalqı",
+        "Lut qövmü"
+      ],
+      "answer": "Yunus qövmü"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Dağıdıcı bir daşqın",
+        "Şiddətli bir fırtına",
+        "Qarşısı alınan yaxınlaşan rüsvayçılıq cəzası",
+        "Yer onları udub",
+        "Daş yağışı"
+      ],
+      "answer": "Qarşısı alınan yaxınlaşan rüsvayçılıq cəzası"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Dişi dəvə",
+        "Yüz minlik bir şəhər",
+        "Musanın əsaları",
+        "Qarunun xəzinəsi"
+      ],
+      "answer": "Yüz minlik bir şəhər"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Onlar tamamilə məhv edildi",
+        "Onlara bir müddət zövq verildi",
+        "Onlar meymunlara çevrildilər",
+        "Onlar boğuldular",
+        "Onlar yer üzü tərəfindən uduldular"
+      ],
+      "answer": "Onlara bir müddət zövq verildi"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

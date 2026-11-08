@@ -1,0 +1,61 @@
+{
+  "title": "Akmens arhitekti",
+  "intro": "Iedomājieties varenu civilizāciju, apveltītu ar spēku un prasmi, kas kalnu nogāzēs grebj grandiozas mājvietas. Šai kopienai piemita milzīga labklājība un unikāla arhitektūras meistarība. Tomēr, neskatoties uz skaidriem brīdinājumiem, viņi izvēlējās ceļu, kas novestu pie dramatiska un neaizmirstama noslēguma. Vai varat identificēt šo grupu, kuras stāsts kalpo kā dziļa mācība visiem, kas par to domā?",
+  "clues": [
+    "Mums tika piešķirts spēks un prasmes, kas ļāva mums izgrebt krāšņas mājas tieši kalnos.",
+    "Mums tika dota skaidra zīme no Allāha – unikāla radība, kuru bija jāatstāj netraucēti ganīties.",
+    "Mūsu kopiena kļuva augstprātīga, apstrīdot dievišķo vēsti, ko atnesa vēstnesis no mūsu vidus.",
+    "Mēs sazvērējāmies kaitēt brīnumainajai zīmei, neskatoties uz brīdinājumiem par bargu sodu.",
+    "Mēs nepaklausījām pavēlei ļaut īpašajai radībai dzert no mūsu akas katru otro dienu.",
+    "Mūs piemeklēja postošas ​​beigas, nogāztus ar vienu šausminošu sprādzienu pēc mūsu pārkāpuma akta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Reklāmas cilvēki",
+        "Midiānas iedzīvotāji",
+        "Ziloņu ļaudis",
+        "Tamudas iedzīvotāji",
+        "Lutas iedzīvotāji"
+      ],
+      "answer": "Tamudas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Mūsu galvenais izmēģinājums/pasākums",
+      "options": [
+        "Plūdi, kas pārņēma zemi",
+        "Jūras sadalīšana",
+        "Iznīcināšana ar vienu sprādzienu/kliedzienu",
+        "Pilsētas dedzināšana",
+        "Kalna pārvēršanās putekļos"
+      ],
+      "answer": "Iznīcināšana ar vienu sprādzienu/kliedzienu"
+    },
+    "location": {
+      "label": "Galvenais elements mūsu stāstā",
+      "options": [
+        "Zelta teļš",
+        "Brīnumaina kamieļu mātīte",
+        "Degošs krūms",
+        "Runājošs putns",
+        "Majestātisks tronis"
+      ],
+      "answer": "Brīnumaina kamieļu mātīte"
+    },
+    "outcome": {
+      "label": "Mūsu galīgais rezultāts",
+      "options": [
+        "Piešķirta milzīga bagātība un vara",
+        "Pacelts pravieša amatā",
+        "Pilnīga iznīcināšana ar dievišķu sodu",
+        "Piedots pēc patiesas grēku nožēlas",
+        "Izkaisīti pa zemi, lai klīstu"
+      ],
+      "answer": "Pilnīga iznīcināšana ar dievišķu sodu"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

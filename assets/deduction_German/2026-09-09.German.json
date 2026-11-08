@@ -1,0 +1,61 @@
+{
+  "title": "Die erste Seele, die stand",
+  "intro": "Lange bevor ein Bote die Erde betrat, bevor eine heilige Schrift offenbart wurde, entstand ein Wesen, das seinesgleichen suchte. Diese Seele wurde von göttlichen Händen geformt, ihr wurde ein Ort von unvergleichlicher Schönheit gegeben und sie wurde auf eine Weise geprüft, die die gesamte Menschheitsgeschichte prägen sollte. Was folgte, war eine Geschichte von Schwäche, aufrichtiger Reue und einem Schicksal, das den Lauf der Schöpfung für immer verändern würde. Kannst du erraten, wer das ist?",
+  "clues": [
+    "Ich wurde von den Händen des Allerbarmers aus dem Staub der Erde geformt.",
+    "Mir wurde ein Zuhause von unvergleichlicher Schönheit geschenkt, wo mich weder Hunger noch Müdigkeit berühren konnten.",
+    "Mir wurde befohlen, mich keinem einzigen Baum zu nähern, denn es war verboten.",
+    "Mein Begleiter und ich wurden getäuscht und näherten uns dem verbotenen Baum entgegen dem Gebot unseres Herrn.",
+    "Wir kehrten in aufrichtiger Reue zu unserem Herrn zurück und uns wurde unsere Verfehlung vergeben.",
+    "Von uns stammt die gesamte Menschheit ab; ich bin der allererste, der diese Erde betreten hat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Adam",
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Yusuf",
+        "Prophet Isa"
+      ],
+      "answer": "Prophet Adam"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Verlockung durch den verbotenen Baum",
+        "Konfrontation mit dem Pharao",
+        "Der Bau der großen Arche",
+        "Opfer des geliebten Sohnes",
+        "In ein großes Feuer geworfen werden"
+      ],
+      "answer": "Verlockung durch den verbotenen Baum"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der verbotene Baum",
+        "Der brennende Busch",
+        "Der goldene Stab",
+        "Die große Arche",
+        "Das goldene Kalb"
+      ],
+      "answer": "Der verbotene Baum"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Als erster Hüter der Menschheit auf die Erde gesandt",
+        "Pharao und sein Heer ertranken im Meer",
+        "Die große Sintflut vernichtete die Bösen",
+        "Das Feuer war abgekühlt und friedlich geworden.",
+        "Ihm wurde die Herrschaft über das Königreich Ägypten übertragen."
+      ],
+      "answer": "Als erster Hüter der Menschheit auf die Erde gesandt"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Looritud usklik türanni õukonnas",
+  "intro": "Koraanile teadaoleva kõige ülbema valitseja kullatud saalides – kus iga edikti iseloomustas jumaliku trotsimine – kõndis üks hing privilegeeritud seas, varjates kõige ohtlikumaid saladusi avalikult nähes. See inimene kandis nende seinte vahel usku, mis oli nii keelatud, et selle avastamine tähendaks kindlat surma. Ometi põles veendumus tuha all nagu leek ja kui hetk kätte jõudis, kõlas tõde julgusega, mis raputas türanni palee alustalasid.",
+  "clues": [
+    "Elasin oma aja võimsaima ja ülbeima valitseja siseringis, ümbritsetuna luksusest ja mõjuvõimust.",
+    "Varjasin oma tõelist usku sügavale südamesse, kartes oma elu pärast nende ees, kes valitsesid julmuse ja rõhumisega.",
+    "Kui mu rahvas kahtles ja kõhkles tõe ees, astusin ma ette, et hoiatada neid traagilise saatuse eest, mis oli tabanud varasemaid rahvaid, kes olid hüljanud oma Issanda sõnumitoojad.",
+    "Ma tuletasin oma rahvale meelde lugu armastatud noorest unistajast, kelle ta oma sugulaste poolt maha paisati, kuid kes tõusis kaugel maal suurele autoriteedile.",
+    "Ma kutsusin oma rahvast üles mitte kuuletuma valitsejale, kes neid eksitanud oli, vaid kutsusin neid hoopis järgima mind õigluse ja juhatuse teel.",
+    "Ma rääkisin avalikult tõtt, kuigi türanni järgijad ähvardasid mind kividega surnuks visata või maalt välja ajada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Vaarao perekonnast pärit varjatud usklik",
+        "Kannatlik patriarh, kes nuttis pimesi, kuni ta poeg tagasi tuli",
+        "Ustav teener, kelle nahahaigus lõpuks terveks raviti",
+        "Patune poeg, kes lükkas tagasi prohveti kutse laevale minna",
+        "Halastamatu türann, kes väitis end olevat jumalik"
+      ],
+      "answer": "Vaarao perekonnast pärit varjatud usklik"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Usu varjamine türanni õukonnas",
+        "Kannatades pimedust aastatepikkuse nutmise tõttu",
+        "Perekonna kaotuse ja ränga kannatuse läbi proovile panduna",
+        "Suure laeva ehitamine naeruvääristamise ajal",
+        "Suure tulekahju kõrvetava kuumuse talumine"
+      ],
+      "answer": "Usu varjamine türanni õukonnas"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Vaarao palee",
+        "Mäetipp, kuhu ehitati laev",
+        "Püha org Siinai mäe all",
+        "Suurepärane aed kahe voolava ojaga",
+        "Kristalltroon maa-aluse jõe kohal"
+      ],
+      "answer": "Vaarao palee"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Jumalik kaitse rõhujate hävingu ajal",
+        "Taasesitus perega pärast aastakümneid kestnud lahusolekut",
+        "Sai kannatlikkust, taastas tervise ja suurendas perekonda",
+        "Päästeti paadis, samal ajal kui ülejäänud maailm uppus",
+        "Allahi käsul päästeti leekidest vigastusteta"
+      ],
+      "answer": "Jumalik kaitse rõhujate hävingu ajal"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

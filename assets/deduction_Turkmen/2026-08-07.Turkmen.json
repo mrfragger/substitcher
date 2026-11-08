@@ -1,0 +1,61 @@
+{
+  "title": "Tagtyň arkasyndaky iman",
+  "intro": "Käbir janlar ot ýa-da sil bilen däl-de, zalymyň köşgünde ýaşamagyň haýal basyşy bilen synag edilýär. Bu şahsyýet öz halkynyň üstünde hudaýlyk edýändigini öňe sürýän, ýöne gizlinlikde ýeke-täk Hakyky Hudaýa ynanýan hökümdaryň ýanynda durdy. Olaryň wepalylygy ýüze çykanda, azap geldi - ýöne ilahi wada hem geldi. Munuň kimdigini çaklap bilersiňizmi?",
+  "clues": [
+    "Men öz ýurdumyň iň güýçli hökümdarynyň üçeginiň aşagynda, az adamyň göz öňüne getirip biljek ýagdaýynda ýaşadym.",
+    "Meniň aýalym halkyň öňünde durup, özüni hudaý diýip yglan etdi, ýöne meniň ýüregim ýeke-täk Hakyky Rebdedi.",
+    "Men aýalyma garşy çykanlaryň hemmesine berilýän jezadan gorkup, gizlinlikde dogalary pyşyrdadym.",
+    "Ynanjym paş bolanda, meni tutup, gynadylar, ýöne dilim hiç haçan ynanmazlyk sözi çykarmady.",
+    "Men Rebbime içimden syzdyrdym, ähli erbetliklerden uzak bolan jennetde bir öý diledim.",
+    "Men Musa bilen Haruna garşy çykan Fyrownyň aýaly Aziýa bint Muzahim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Aziýa bint Muzahim (fyrownyň aýaly)",
+        "Hawwa (Ewe), ilkinji aýal",
+        "Ibrahimiň ilkinji aýaly Sara",
+        "Ismailiň ejesi Hajar",
+        "Merýemiň ejesi (Imranyň aýaly)"
+      ],
+      "answer": "Aziýa bint Muzahim (fyrownyň aýaly)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ynançdan ýüz öwürmekden boýun gaçyrandygy üçin çydamly jebir-jepa",
+        "Uly balygyň garnynda diri galmak",
+        "Silden gaça durmak üçin ägirt uly gämi gurmak",
+        "Ýanýan oda taşlanmak",
+        "Uly deňziň bölünmegine şaýat bolmak"
+      ],
+      "answer": "Ynançdan ýüz öwürmekden boýun gaçyrandygy üçin çydamly jebir-jepa"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Jennetde olar üçin gurlan öý",
+        "Ýylana öwrülen taýak",
+        "Her jandaryň jübütlerini daşaýan gämi",
+        "Bir milletiň sežde edýän altyn gölesi",
+        "Ägirt esgeri ýeňmek üçin ulanylýan sapan"
+      ],
+      "answer": "Jennetde olar üçin gurlan öý"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Jennetde salyhlar bilen birlikde ýaşamak bilen hormatlanylýar",
+        "Goşuny bilen bilelikde tolkunlaryň aşagynda gark boldular",
+        "Otda ýandy, ýöne Hudaýyň gatyşmagy bilen halas boldy",
+        "Uly bir jandar tarapyndan ýuwudylyp, soňra kenara zyňyldy",
+        "Öz döwrüniň iň baý adamy boldy"
+      ],
+      "answer": "Jennetde salyhlar bilen birlikde ýaşamak bilen hormatlanylýar"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

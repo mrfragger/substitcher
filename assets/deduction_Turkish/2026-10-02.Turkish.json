@@ -1,0 +1,61 @@
+{
+  "title": "Dünyanın Uçlarını Dolaşan Hükümdar",
+  "intro": "Güçlü ve yetkili bir hükümdarı hayal edin. Bu hükümdar, topraklar üzerinde güç ve yetkiye sahip. Olağanüstü yolculuklara çıkan bu kişi, güneşin battığı ve doğduğu yerlere ulaşıyor, garip halklarla karşılaşıyor ve yozlaşmış iki ulustan gelen büyük bir meydan okumayla yüzleşiyor. Bu gizemli lider kim?",
+  "clues": [
+    "Dünyanın en ücra köşelerine ulaşma yetkisi ve imkanı verilmiş bir hükümdardım.",
+    "Batıya doğru yolculuk ettim ve puslu bir bahar gününde güneşin batışına şahit oldum.",
+    "Güneşin doğduğu saatlerde, sıcağın etkisinden korunacak bir yeri olmayan bir halkla karşılaştım.",
+    "Başka bir topluluk da Gog ve Magog olarak bilinen iki yozlaştırıcı ulusa karşı benden yardım istedi.",
+    "Onları çevrelemek için demir ve erimiş bakır kullanarak bir bariyer inşa ettim.",
+    "Bu engelin Rabbimden bir rahmet olduğunu ve belirlenen zamana kadar devam edeceğini ilan ettim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Zülkarneyn",
+        "Peygamber Süleyman",
+        "Karun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Zülkarneyn"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Gog ve Magog'a karşı bir bariyer inşa etmek",
+        "Büyük bir selden sağ kurtulmak",
+        "ateşe atılmak",
+        "Denizi geçmek",
+        "Devle savaşmak"
+      ],
+      "answer": "Gog ve Magog'a karşı bir bariyer inşa etmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Demir ve bakırdan bir bariyer",
+        "Yılana dönüşen bir asa",
+        "Ahşaptan bir gemi",
+        "Camdan bir saray",
+        "Hurma ağaçlarından oluşan bir bahçe"
+      ],
+      "answer": "Demir ve bakırdan bir bariyer"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Gog ve Magog, belirlenen zamana kadar kontrol altında tutuldu.",
+        "O bir peygamber oldu.",
+        "Kibirli olduğu için cezalandırıldı.",
+        "O, tüm dünyayı fethetti.",
+        "O sonsuza dek yaşadı."
+      ],
+      "answer": "Gog ve Magog, belirlenen zamana kadar kontrol altında tutuldu."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

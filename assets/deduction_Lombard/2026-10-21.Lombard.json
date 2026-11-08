@@ -1,0 +1,61 @@
+{
+  "title": "El messagger che g’ha afruntà i idolatri",
+  "intro": "Ind un temp indove la devozion la s’era straviada, un messajer ‘l s’è levad su cond una ciamada per tornar a’l cult del Signor dei monds. Chesta figüra l’era ferma cuntra un popul radicad in del cult de una falsa divinità, regordant el luur vero Creatur e el Signur di luur antenà. Però el popul l’era indiferent e l’ha refudad l’avvertiment, sigilland el propri destin. Chi l’era quel chiamant inflexibil?",
+  "clues": [
+    "Mi sun stà mandà a un popul che s’era spustà del camin del Unich Ver Dio.",
+    "Ho domandà al me popul: “Te g’he minga pagüra de Allah?”",
+    "I g’ho ciamà a bandonà el sò cult a una falsa divinità che se ciamava Baal.",
+    "El me popul l’ha refudad la mia ciamada e l’ha insistì in de la sò idolatria.",
+    "Per via de luur negaziun, de sicür sarann ​​purtà fœura per puniziun.",
+    "El me Signur m’ha dà la pas e un ricord benedett intra i generaziun sucesif."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Ilyas",
+        "Profeta Yahya",
+        "El prufeta Zul-Kifl",
+        "Profeta Yusuf",
+        "Profeta Shu'ayb"
+      ],
+      "answer": "Profeta Ilyas"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "G’ha ciamà el sò popul per bandonà Baal",
+        "Costruì un'arca per salvà i credent",
+        "L’è stà butà denter del fööch",
+        "Scapà dal tirann Faraon",
+        "Culpì una ròca per purtà fœura l’aqua"
+      ],
+      "answer": "G’ha ciamà el sò popul per bandonà Baal"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Ubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Concessa la pas e un ricord benedett",
+        "Inglutì de la terra",
+        "Distrutt de una viulenta tempesta",
+        "Trasfurmà en pedra",
+        "Anegato in del mar"
+      ],
+      "answer": "Concessa la pas e un ricord benedett"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

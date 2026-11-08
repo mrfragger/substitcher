@@ -1,0 +1,61 @@
+{
+  "title": "Den orubbliga allierade i en guldprov",
+  "intro": "I skuggan av en stor profet valdes en vältalig och troende själ ut för att bistå i ett monumentalt uppdrag. Denna figur stod fast när massorna vacklade och predikade mot en uppenbar överträdelse som hotade själva kärnan i monoteismen. När profeten återvände för att bevittna folkets fall, var denna figurs försvar inte ett av skuld utan av plikt och rädsla för splittring. Vem är denne hängivne Allahs tjänare?",
+  "clues": [
+    "Jag blev utvald av Allah för en helig plikt vid sidan av en annan, och min roll var att stödja och förkunna.",
+    "Jag fick klarhet i mitt tal, och jag följde med en budbärare för att konfrontera en mäktig förtryckare.",
+    "Under en kritisk resa besteg budbäraren ensam ett berg och lämnade mig att vaka över folket.",
+    "I deras frånvaro tillverkade folket en gyllene bildstod, och jag vädjade till dem att förbli trogna, men de vägrade mitt råd.",
+    "När budbäraren återvände, fylld av ilska och sorg, greps jag, men jag förklarade att jag hade blivit övermannad och fruktade att orsaka splittring mellan dem.",
+    "Jag är profeten som stod bredvid Musa, min bror, och delade hans börda och förblev orubblig mot avgudadyrkan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Harun",
+        "Profeten Musa",
+        "Profeten Isa",
+        "Profeten Dawud",
+        "Profeten Zakariyya"
+      ],
+      "answer": "Profeten Harun"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Människor dyrkade en guldkalv trots varningar",
+        "Folk kastade mig i en flammande eld",
+        "Jag blev uppslukad av en stor fisk",
+        "Jag fängslades på falska anklagelser",
+        "Jag blev förvisad från min stad för att jag predikade"
+      ],
+      "answer": "Människor dyrkade en guldkalv trots varningar"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Guldkalven",
+        "Den brinnande busken",
+        "Staven som förvandlades till en orm",
+        "Förbundstavlorna",
+        "Förbundsarken"
+      ],
+      "answer": "Guldkalven"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Jag frikändes och fortsatte mitt profetiska uppdrag",
+        "Jag blev straffad för folkets synd",
+        "Jag fick en ny nation att vägleda",
+        "Jag togs levande upp till himlen",
+        "Jag blev utsedd till härskare över ett kungarike"
+      ],
+      "answer": "Jag frikändes och fortsatte mitt profetiska uppdrag"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

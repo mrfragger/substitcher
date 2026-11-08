@@ -1,0 +1,61 @@
+{
+  "title": "Nanm veyatif bò larivyè a",
+  "intro": "Yo te konfye yon jèn nanm ak yon misyon sekrè, pou l obsève a yon distans ki an sekirite pandan desten an ap dewoule sou dlo yo. Envizib e ensèten, figi sa a t ap jwe yon wòl esansyèl nan chanje kou listwa yon nasyon.",
+  "clues": [
+    "Manman m te ban m yon travay, yon travay ki te mande pou m fè an diskresyon ak vijilans.",
+    "Je m yo t ap swiv yon ti bèso k ap flote sou kouran an, kè m lou ak enkyetid.",
+    "Lè yon moun mwen te sanzatann te jwenn li, mwen te pwoche, plen enkyetid.",
+    "Mwen te wè dezespwa yo pou yon moun pou pran swen yo epi mwen te ofri yo yon solisyon san m pa devwale verite a.",
+    "Entèvansyon mwen an nan bon moman te fè yon nanm ki t ap pran swen tounen bay moun ki te pi bezwen li an.",
+    "Nan lakou moun ki gen pouvwa yo, mwen te di: 'Èske mwen ta dwe mennen ou jwenn yon fanmi ki va nouri l epi pran swen l avèk swen?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Sè Mousa a",
+        "Manman Mousa a",
+        "Madanm Faraon an",
+        "Yon fanmsaj",
+        "Pitit fi Chou'aib la"
+      ],
+      "answer": "Sè Mousa a"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Jete yon timoun nan rivyè a",
+        "Separasyon lanmè a",
+        "Boule ti bèf la",
+        "Konstriksyon lach la",
+        "Envazyon krikèt yo"
+      ],
+      "answer": "Jete yon timoun nan rivyè a"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Rivyè a",
+        "Dezè a",
+        "Mòn nan",
+        "Palè a",
+        "Dife a"
+      ],
+      "answer": "Rivyè a"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Li te reyini pitit la ak manman l",
+        "Li sove tèt li anba men sòlda Farawon yo",
+        "Li te vin tounen yon rèn",
+        "Li te pini pou espyonaj",
+        "Li te dirije pèp Izrayèl la"
+      ],
+      "answer": "Li te reyini pitit la ak manman l"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

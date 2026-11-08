@@ -1,0 +1,61 @@
+{
+  "title": "El Testigo Firme",
+  "intro": "Se despliega una conmovedora narración que revela la inquebrantable determinación de una comunidad frente a una tiranía inmensa. Su historia es un testimonio de fe, incluso ante el sacrificio supremo. Este relato nos recuerda el poder de la creencia frente a la opresión más abrumadora.",
+  "clues": [
+    "Éramos un grupo cuya historia se narra en una sura breve y poderosa, que advierte contra la persecución.",
+    "Nos enfrentábamos a un gobernante que deseaba erradicar nuestra fe en el Dios Único, el Señor del Trono, el Digno de Alabanza.",
+    "Fuimos sometidos a una prueba terrible que consistía en un enorme pozo excavado en la tierra.",
+    "Fuimos testigos de cómo los creyentes, incluidos los bebés, eran arrojados a un infierno voraz dentro de aquel pozo.",
+    "Nuestros verdugos fueron maldecidos por sus actos, mientras que a nosotros se nos prometió una inmensa recompensa por nuestra firmeza.",
+    "El intento del gobernante de extinguir nuestra fe solo consolidó nuestra posición como mártires ante los ojos de Alá, quien es testigo de todas las cosas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Gente de Thamud",
+        "Gente de 'Anuncio'",
+        "Gente de la zanja",
+        "Pueblo de Lut",
+        "Gente del elefante"
+      ],
+      "answer": "Gente de la zanja"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El gran diluvio",
+        "La zarza ardiente",
+        "El ahogamiento en el mar",
+        "El foso de fuego",
+        "El terremoto"
+      ],
+      "answer": "El foso de fuego"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "La zanja",
+        "La montaña",
+        "El pozo"
+      ],
+      "answer": "La zanja"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se les concedió un reino.",
+        "Fueron salvados por un milagro.",
+        "Alcanzó el martirio y el paraíso.",
+        "Estaban dispersos por las tierras",
+        "Se les otorgó una inmensa riqueza."
+      ],
+      "answer": "Alcanzó el martirio y el paraíso."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

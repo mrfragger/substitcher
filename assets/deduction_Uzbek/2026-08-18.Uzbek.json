@@ -1,0 +1,61 @@
+{
+  "title": "Surani qo'lga kiritgan Zot",
+  "intro": "Allohning elchilaridan biriga samimiy qalb va chuqur bilim olishga ishtiyoq bilan kamtarin bir qalbning murojaat qilayotganini tasavvur qiling. Ammo aynan o'sha paytda boy va mavqega ega bir kishi Payg'ambarning e'tiborini tortdi va izlovchiga qovog'ini soldi. Keyin esa Payg'ambarni tuzatish va izlovchi qalbni ulug'lash uchun yuborilgan Qur'onning butun bir surasidan boshqa narsa yo'q edi.",
+  "clues": [
+    "Men Allohning Rasuliga ochiq qalb va hidoyatga chuqur ishtiyoq bilan keldim.",
+    "Menda dunyoviy mavqe yo'q edi, faqat haqiqatni izlayotgan kamtar qalb bor edi",
+    "Jismoniy ko'zlarim ko'ra olmasdi, lekin ruhiy ko'rish qobiliyatim aniq edi",
+    "Men noqulay bir paytda yetib keldim, o'shanda Elchi katta nufuzga ega odam bilan band edi.",
+    "Menga qovog'ini solgan edi, lekin Alloh ilohiy tuzatish bilan javob berdi",
+    "Men Abdulloh ibn Ummu Maktum, hikoyasi Abasa surasiga ilhom bergan sadoqatli sahobaman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Abdulloh ibn Umm Maktum",
+        "Bilol ibn Raboh",
+        "Muoz ibn Jabal",
+        "Zayd ibn Sobit",
+        "Salmon al-Forisi"
+      ],
+      "answer": "Abdulloh ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Sinov / Tadbir",
+      "options": [
+        "Badavlat odam uchun Payg'ambar tomonidan rad etilishi",
+        "Dushmanlar tomonidan shiddatli olovga tashlanmoqda",
+        "Qul sifatida sotilish va ta'qib qilinish",
+        "Kuchli jangchi tomonidan duelga chaqirilmoqda",
+        "Katta baliq tomonidan yutib yuborilmoqda"
+      ],
+      "answer": "Badavlat odam uchun Payg'ambar tomonidan rad etilishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Qovoq solish bilan boshlanadigan Qur'on surasi (Abasa surasi)",
+        "Salqin va xavfsiz olov",
+        "Kuchli dengizni yorib yuborgan tayoq",
+        "Baland tog' ustiga qurilgan kema",
+        "Qattiq loydan yasalgan qush"
+      ],
+      "answer": "Qovoq solish bilan boshlanadigan Qur'on surasi (Abasa surasi)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Alloh meni himoya qiluvchi Qur'on surasi nozil qildi",
+        "Alloh olovni men uchun salqin va xavfsiz qildi",
+        "Alloh meni ta'qib qilishdan qutqarish uchun dengizni ikkiga bo'ldi",
+        "Alloh menga buyuk saltanat va donolik ato etdi",
+        "Alloh meni o'limsiz jannatga olib kirdi"
+      ],
+      "answer": "Alloh meni himoya qiluvchi Qur'on surasi nozil qildi"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

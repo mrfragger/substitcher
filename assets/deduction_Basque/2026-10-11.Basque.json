@@ -1,0 +1,61 @@
+{
+  "title": "Antzinako Hareetako Ahotsa",
+  "intro": "Alaren lehen mezularien artean, bat zegoen, zeinaren izena labur baina esanguratsu agertzen den Koranean. Pertsona hau profeta handi asko bidali baino askoz lehenago bizi izan zen, eta egiazkotasun eta pazientzia sendoagatik zen ezaguna. Beren istorioa laburra da, baina haien ondarea betiko erregistroan irauten du. Nor da arima noble hau?",
+  "clues": [
+    "Koranean labur baina esanguratsuki aipatzen den lehenengo mezularietako bat naiz.",
+    "Nire izaera egiarekiko konpromiso irmo batek definitzen zuen.",
+    "Allahren liburuan gogoratzen naute irmo eta pazientzia handikoen artean.",
+    "Koraneko bertso labur gutxi batzuek baino ez dute nire istorioa kontatzen.",
+    "Alak ohoratu ninduen nire modu berezi batean, ez beste profetekin partekatzen.",
+    "Goi mailako maila batera igo ninduten, Koranean ohore berezi bat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Idris profeta",
+        "Ilyas profeta",
+        "Dhul-Kifl",
+        "Alyasa profeta",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Idris profeta"
+    },
+    "trial": {
+      "label": "Une erabakigarria",
+      "options": [
+        "Alak goi-mailako mailara igo ninduen",
+        "Arka handi bat eraiki nuen nire herria salbatzeko",
+        "Faraoiaren aztiei erronka egin nien",
+        "Nire anaiek zulo batera bota ninduten",
+        "Nire semearen tristuragatik ikusmena galdu nuen"
+      ],
+      "answer": "Alak goi-mailako mailara igo ninduen"
+    },
+    "location": {
+      "label": "Erreferentzia Sakratua",
+      "options": [
+        "Sura Al-Anbiya",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Ash-Shu'ara",
+        "Yasin sura"
+      ],
+      "answer": "Sura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Jainkozko Ohorea",
+      "options": [
+        "Beste inon ez bezalako goi-estazio bat",
+        "Jinn eta haizeen gaineko nagusitasuna",
+        "Gloria paregabeko erreinua",
+        "Nire zahartzarotik oinordeko bat",
+        "Ala-rekin zigilatutako ituna"
+      ],
+      "answer": "Beste inon ez bezalako goi-estazio bat"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

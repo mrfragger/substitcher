@@ -1,0 +1,61 @@
+{
+  "title": "Déi bescheiden Wourechtssicher",
+  "intro": "An engem Land vun aler Muecht a Zaubererei spillt sech eng grouss Konfrontatioun of. Eng Säit huet d'Autoritéit vun de göttleche Zeechen, während déi aner probéiert dat Onméiglecht z'erreechen. D'Resultat wäert de Laf vun der Geschicht fir ëmmer änneren. Kënnt Dir d'Identitéit vun deenen opdecken, déi déi ultimativ Wourecht gesinn hunn a sech virun hir demüteg gemaach hunn?",
+  "clues": [
+    "Mir hunn Zeeche gesinn, déi iwwer d'Tricker vun der Zaubererei erausgaange sinn",
+    "Mir sinn all an d'Prostratioun gefall, net fäeg d'Wourecht ze verleegnen",
+    "Mir hunn erkannt, datt dës Zeeche vum eenzege richtege Gott koumen",
+    "Mir waren déi éischt Gemeinschaft, déi de Glawen op sou eng dramatesch Manéier ugeholl huet",
+    "Eis gouf de Paradäis als Belounung fir eise Glawen versprach",
+    "Eis Seeler a Stäb sinn zu Schlaange virun eisen Aen ginn, awer mir hunn eis ënnerwerfen gewielt"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Magier vum Pharao",
+        "D'Leit vum Prophet Ibrahim",
+        "Déi bescheiden Sich no der Wourecht",
+        "D'Leit vun der Höhl",
+        "D'Natioun vun der Kinnigin Bilqis"
+      ],
+      "answer": "D'Magier vum Pharao"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Begegnung mam Personal vum Prophet Musa",
+        "De Prozess vum Wand vum Prophet Hud",
+        "D'Erausfuerderung vum Kamel vum Prophet Salih",
+        "Déi grouss Iwwerschwemmung, déi op e Prophet geschéckt gouf",
+        "D'Rees vun engem Prophet an engem Wal"
+      ],
+      "answer": "D'Begegnung mam Personal vum Prophet Musa"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Antik Ägypten",
+        "Dat hellegt Haus zu Mekka",
+        "D'Stad Midian",
+        "D'Wüst vun Thamud",
+        "D'Höhl vun den antike Schläifer"
+      ],
+      "answer": "Antik Ägypten"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Paradies als hir Belounung",
+        "Strof am Graf",
+        "Verloscht vun hire räiche Gäert",
+        "Zerstéierung duerch e plëtzlecht Äerdbiewen",
+        "Rettung virun engem grousse Wal"
+      ],
+      "answer": "D'Paradies als hir Belounung"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

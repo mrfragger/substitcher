@@ -1,0 +1,61 @@
+{
+  "title": "Ukuwela Eceleni Kogu",
+  "intro": "Umi esihlabathini sogwini olukhohliwe, lapho amagagasi ehlebeza umphakathi ovivinywa ngomyalo waphezulu. Umoya ugcwele inkumbulo yokwephulwa okwaholela ekuguqulweni okumangalisayo. Yayingobani le miphefumulo, futhi yayiluhlobo luni lovivinyo lwayo?",
+  "clues": [
+    "Sasiwumphakathi owathola umyalo ocacile eNkosini yethu, kodwa sathola izindlela zokuwuphikisa.",
+    "Sasihlala eduze kwamanzi, futhi indlela yethu yokuphila yayixhomeke ezidalweni zawo.",
+    "Uvivinyo lwafika kithi ngosuku esayalwa ngalo ukuba sigweme izinto zasemhlabeni.",
+    "Izidalwa zamanzi zeza kithi ngobuningi ngalolo suku, zisilinga ngaphezu kokukhuthazela.",
+    "Sakha icebo lobuqili lokugwema umyalo kaNkulunkulu, sicabanga ukuthi singawudlula ngobuqili lowo mthetho.",
+    "Ukweqa kwethu umthetho kwaholela ekuguqukeni okuhlazisayo; saba yizinkawu ezidelelekile ngomyalo ka-Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu beSabatha",
+        "Abantu baseRass",
+        "Abantu baseTubba",
+        "Abantu Bomhume",
+        "Abangane Bomsele"
+      ],
+      "answer": "Abantu beSabatha"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuvela kwezinhlanzi ngeSabatha",
+        "Unyaka wesomiso esinzima",
+        "Ibutho lezinyoni elithunyelwe kubo",
+        "Isikhukhula esabehlela",
+        "Ukuzamazama komhlaba okunamandla"
+      ],
+      "answer": "Ukuvela kwezinhlanzi ngeSabatha"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ulwandle",
+        "Intaba",
+        "Umhume",
+        "Isigodi sasehlane",
+        "Umuzi oqinile"
+      ],
+      "answer": "Ulwandle"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Yaphenduka izinkawu",
+        "Kugwinywe umhlaba",
+        "Kubhujiswe umoya ovunguzayo",
+        "Ukuminza olwandle",
+        "Ushaywe yimvula yamatshe"
+      ],
+      "answer": "Yaphenduka izinkawu"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

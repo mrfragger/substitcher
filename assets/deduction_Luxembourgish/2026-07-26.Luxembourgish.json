@@ -1,0 +1,61 @@
+{
+  "title": "D'Kroun, déi den Himmel erausgefuerdert huet",
+  "intro": "An de Korridore vun antike Kinnekräicher gouf den Numm vun engem Herrscher zu engem Synonym fir Tyrannei an Arroganz. Wéi en demütegen Dénger vun Allah mat onbestreitbaren Zeeche ukomm ass, huet dëse mächtege Souverän sech refuséiert, sech der Wourecht z'erginn. Haut ass Är Aufgab, dës legendär Figur z'identifizéieren, där hir Herrschaft zerbrach ass a där hiert Schicksal ënner de Wellen versiegelt gouf.",
+  "clues": [
+    "Ech sinn dee gefaartste Herrscher, deem säin Numm nach ëmmer als Warnung duerch d'Jore kléngt.",
+    "Ech hunn engem ganze Vollek bestallt, a Ketten ze schaffen, a Monumenter opzeriichten, déi meng Herrlechkeet verkënnegt hunn.",
+    "Wéi e Messenger vun Allah mat onbestreitbare Zeeche viru mir koum, hunn ech refuséiert mech ze verbéien an hunn et Zaubererei genannt.",
+    "Ech hunn d'Ëmbrénge vu klenge Jongen ënner engem gefaange Vollek dekretéiert, an der Hoffnung, hire Geescht ze zerstéieren, ier se kéinte erwächen.",
+    "Ech stoung viru mengem Haff a sot: 'Ech sinn Ären héchsten Här', a verlaangt d'Veréierung als Gott.",
+    "Mat mengem Chefminister nieft mir hunn ech eng imposant Struktur gebaut, déi iwwer den Himmel erausklamme wollt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Pharao (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Pharao (Fir'awn)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Ertrénken am Roude Mier",
+        "D'Kamelfra, déi un d'Leit vun Thamud geschéckt gouf",
+        "Déi grouss Iwwerschwemmung vun Nuh",
+        "D'Strofe vun de Begleeder vum Gruef",
+        "D'Zerstéierung vun der Arméi vum Abraha duerch Vullen"
+      ],
+      "answer": "D'Ertrénken am Roude Mier"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Déi imposant Struktur, déi mam Haman gebaut gouf",
+        "D'Ark, déi op der Iwwerschwemmung gesegelt ass",
+        "Dat gëllent Kalb, dat vum Samiri gebastelt gouf",
+        "Den Troun vun der Bilqis, der Kinnigin vu Scheba",
+        "D'Höhl vun de schlofende Jugendlechen"
+      ],
+      "answer": "Déi imposant Struktur, déi mam Haman gebaut gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Am Mier erdronk; Läich als Warnung konservéiert",
+        "Verbannt a gezwongen, an der Wëldnis ze wanderen",
+        "Als Strof an Affen transforméiert",
+        "Vun engem heftege Äerdbiewen getraff",
+        "Verbrannt vun engem Reen vu Steng vum Himmel"
+      ],
+      "answer": "Am Mier erdronk; Läich als Warnung konservéiert"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

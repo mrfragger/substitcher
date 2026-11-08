@@ -1,0 +1,61 @@
+{
+  "title": "Globėjas prie upės krašto",
+  "intro": "Šalyje, kurioje tirono įsakas daugeliui atnešė sielvartą, viena siela gavo žinią, kuri paneigė bet kokią baimę. Su pasitikėjimo kupina širdimi jie ėmėsi tikėjimo akto, kuris pakeis tautos kursą. Vandenims nešant brangų krovinį, viltis susimaišė su srovėmis.",
+  "clues": [
+    "Gyvenau priespaudos ir baimės laikais.",
+    "Gavau dievišką įkvėpimą, kuris suteikė man drąsos.",
+    "Man buvo įsakyta nebijoti ir neliūdėti.",
+    "Įdėjau vaiką į skrynią ir padėjau ant vandens.",
+    "Mano vaiką rado valdovo namiškiai, bet kitas vaikas nusekė paskui.",
+    "Aš vėl buvau su savo vaiku, kad galėčiau jį maitinti, kaip ir buvo žadėta Alachui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Mozės motina",
+        "Faraono žmona",
+        "Mozės sesuo",
+        "Jėzaus Motina",
+        "Šebos karalienė"
+      ],
+      "answer": "Mozės motina"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įkvėpimas įmesti vaiką į upę",
+        "Iššūkis magijos dvikovai",
+        "Persekiojamas armijos",
+        "Persikėlusi per jūrą, kuri persiskyrė",
+        "Švento namo statyba"
+      ],
+      "answer": "Įkvėpimas įmesti vaiką į upę"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Upėje įdėta skrynia",
+        "Degantis krūmas",
+        "Personalas, kuris virto gyvate",
+        "Auksinis veršelis",
+        "Sostas"
+      ],
+      "answer": "Upėje įdėta skrynia"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Vaikas saugiai grąžintas slaugytojai",
+        "Vaikas buvo prarastas amžiams",
+        "Vaikas buvo išvežtas į tolimą šalį",
+        "Vaikas iš karto tapo valdovu",
+        "Vaiką įsivaikino turtingas pirklys"
+      ],
+      "answer": "Vaikas saugiai grąžintas slaugytojai"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "V senci datljeve palme",
+  "intro": "Zgodba pripoveduje o duši, ki je bila ločena pred rojstvom, vzgojena znotraj svetih zidov in izbrana, da nosi znamenje, kakršnega svet še ni videl. Ko so se z vseh strani pojavile obtožbe, se je iz najbolj neverjetnih krajev oglasil glas, ki je utišal vse dvome. Ali lahko odkrijete, kdo je hodil pod senco datljeve palme?",
+  "clues": [
+    "Služenju Vsemogočnega sem bil posvečen, še preden sem prvič vdihnil, zaobljuba tistega, ki me je nosil.",
+    "Odraščal sem pod budnim nadzorom pravičnega varuha v svetih prostorih bogoslužnega prostora.",
+    "Kadar koli je moj skrbnik prišel v mojo sobo, je pri meni našel zaloge iz letnih časov, ki jih ne bi smelo biti.",
+    "Dobil sem veselo novico o sinu, čeprav moje okoliščine niso dopuščale, kar je bilo obljubljeno.",
+    "Umaknil sem se v oddaljen kraj, kjer mi je datljeva palma nudila senco, medtem ko je spodaj tekel potok.",
+    "Ko so se pojavile obtožbe in so me obkrožala vprašanja, sem pokazala na svojega novorojenčka – in on je že od zibelke spregovoril, da bi utišal vsak dvom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Marjam",
+        "Sara",
+        "Hava",
+        "Umm Musa",
+        "Nuhova žena"
+      ],
+      "answer": "Marjam"
+    },
+    "trial": {
+      "label": "Preizkus / dogodek",
+      "options": [
+        "Roditi čudežnega sina v osami",
+        "Biti vržen v plameneči ogenj s strani malikovalcev",
+        "Preživetje velike poplave z izbranci",
+        "Biti ločen od dojenčka, vrženega v reko",
+        "Soočenje z mogočnim vladarjem Egipta"
+      ],
+      "answer": "Roditi čudežnega sina v osami"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Datljeva palma in tekoči potok pod njo",
+        "Mogočna barka na visokih valovih",
+        "Palica, ki je razdelila veliko morje na dva dela",
+        "Plameneči ogenj, namenjen požiranju zveste duše",
+        "Zlati prestol, okrašen z dragimi kamni"
+      ],
+      "answer": "Datljeva palma in tekoči potok pod njo"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Častijo jo kot najbolj vzvišeno med vsemi ženskami",
+        "Po dolgi ločitvi ponovno združena z ljubljenim otrokom",
+        "Cel narod je vodil iz suženjstva tirana",
+        "Opozoril je ljudstvo, izgubljeno v nemorali",
+        "Podeljena oblast nad džini, človeštvom in vetrovi"
+      ],
+      "answer": "Častijo jo kot najbolj vzvišeno med vsemi ženskami"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

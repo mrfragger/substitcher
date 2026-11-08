@@ -1,0 +1,61 @@
+{
+  "title": "Kärsivällinen sielu",
+  "intro": "Profeettauden aikakirjoissa eli sielu, jonka kärsivällisyys oli kaiverrettu hänen olemuksensa ytimeen. Kyynelten ja ajan läpi he pitivät kiinni toivosta ja heistä tuli ajaton esimerkki luottamuksesta jumalalliseen viisauteen. Pystytkö selvittämään tämän horjumattoman hahmon mysteerin?",
+  "clues": [
+    "Synnyin profeettojen perheeseen, mutta suurin koettelemukseni tuli lapseni kautta, jota rakkaimmin rakastin.",
+    "Sain varoituksen mustasukkaisuudesta poikani jakamasta unesta, ja pelkäsin hänen turvallisuutensa puolesta.",
+    "Silmäni valkenivat surusta, mutta en koskaan menettänyt uskoani Allahin armoon.",
+    "Kadonneen lapseni tuoksu kantautui luokseni kaukaa, ja tiesin silloin, että jälleennäkeminen oli lähellä.",
+    "Perheeni kumarsi kiitollisena, kun muinainen näky toteutui ja näköni palautui.",
+    "Minä olin se, jolle annettiin veritahriintunut paita, vain jotta myöhemmin saisin paidan, joka paransi näköni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ibrahim",
+        "Profeetta Ishaq",
+        "Profeetta Yaqub",
+        "Profeetta Yusuf",
+        "Profeetta Ayyub"
+      ],
+      "answer": "Profeetta Yaqub"
+    },
+    "trial": {
+      "label": "Ratkaiseva koetus",
+      "options": [
+        "Ero rakkaasta lapsesta ja näön menetys",
+        "Heitetään liekehtivään tuleen",
+        "Suuren kalan nielaisemaksi joutuminen",
+        "Varallisuuden, lasten ja terveyden menettämisen kestäminen",
+        "Veljet pettävät hänet ja heittävät kaivoon"
+      ],
+      "answer": "Ero rakkaasta lapsesta ja näön menetys"
+    },
+    "location": {
+      "label": "Symbolinen objekti",
+      "options": [
+        "Paita, joka ensin kätki totuuden ja sitten paljasti sen",
+        "Sauva, josta tuli käärme",
+        "Valas, joka nielaisi profeetan",
+        "Tuli, joka viilensi",
+        "Sandaalipari palavan pensaan luona"
+      ],
+      "answer": "Paita, joka ensin kätki totuuden ja sitten paljasti sen"
+    },
+    "outcome": {
+      "label": "Jumalallinen päätös",
+      "options": [
+        "Jälleennäkeminen menehtyneen rakkaan kanssa ja näön palauttaminen",
+        "Pelastus sorron kansakunnasta",
+        "Vapautus kalan vatsasta",
+        "Pelastus liekehtivästä tulesta",
+        "Nousu suurelle valtaistuimelle"
+      ],
+      "answer": "Jälleennäkeminen menehtyneen rakkaan kanssa ja näön palauttaminen"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'anima dietro l'idolo",
+  "intro": "All'ombra di una grande fuga dalla tirannia, questa figura misteriosa attendeva nel deserto. Mentre il capo di un popolo eletto ascendeva a una montagna sacra per la comunione divina, una grande prova si abbatteva su coloro che erano rimasti indietro. Quest'individuo colse l'occasione per rimodellare le credenze di un'intera comunità. Quando il capo fece ritorno con la verità, fu decretata una punizione unica ed eterna. Riuscirai a svelare l'identità di quest'anima controversa e astuta?",
+  "clues": [
+    "Ho viaggiato con un popolo che era stato liberato dalla morsa di un potente oppressore grazie a segni miracolosi.",
+    "Quando il loro capo salì sulla montagna per ricevere indicazioni, io rimasi ad aspettare tra coloro che erano rimasti indietro.",
+    "Ho raccolto metalli preziosi dai loro ornamenti e li ho lavorati per creare qualcosa che producesse un suono.",
+    "Attraverso questa creazione, ho convinto un'intera generazione di aver trovato il proprio dio nel deserto.",
+    "Al ritorno del leader, fui individuato e mi fu chiesto cosa mi avesse spinto a un simile inganno.",
+    "La mia punizione in questo mondo fu che nessuno mi toccasse o si avvicinasse, un segno di vergogna che porto per sempre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "I Samiri",
+        "Profeta Mosè",
+        "I maghi del faraone",
+        "Haman, ministro del faraone",
+        "Iblis, il rigettato"
+      ],
+      "answer": "I Samiri"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La creazione del vitello d'oro",
+        "Lo scontro con il faraone",
+        "La costruzione di una grande arca",
+        "Il rifiuto di inchinarsi davanti ad Adamo",
+        "La distruzione delle città di Lutero"
+      ],
+      "answer": "La creazione del vitello d'oro"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un idolo del vitello d'oro",
+        "Un bastone che si è trasformato in un serpente",
+        "Una cammella emersa dalla roccia",
+        "Un'arca costruita su una montagna",
+        "Un trono portato dal vento"
+      ],
+      "answer": "Un idolo del vitello d'oro"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Condannati all'intoccabilità, costretti a dire per sempre \"nessun contatto\".",
+        "Annegato insieme al tiranno e al suo esercito",
+        "Gettato in un fuoco che si fece freddo e pacifico",
+        "Colpito dalla cecità per aver rifiutato la verità",
+        "Abbandonato in una fossa da parenti gelosi"
+      ],
+      "answer": "Condannati all'intoccabilità, costretti a dire per sempre \"nessun contatto\"."
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

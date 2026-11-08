@@ -1,0 +1,61 @@
+{
+  "title": "Aukeratutako Artikulatua",
+  "intro": "Jainkozko hitzak jaisten ziren mendi baten itzalean, herri baten fedea urrearen distiraren azpian zalantzan zegoen. Elokuentziaz hornitutako arima batek misio handiago baten euskarri gisa jardun zuen, baina proba sakon baten une bati aurre egin behar izan zion. Hautatutako mezularia hitzordu sakratu batera igo zenean, figura hau atzean geratu zen, nazio urduri bati erregutuz. Nor da idolatriaren aurka ahotsa altxatu zuen arima sendo hau?",
+  "clues": [
+    "Alak aukeratu ninduen profeta izateko, nahiz eta nire istorioa askotan beste batekin batera kontatzen den.",
+    "Tirano agintari batengana bidali ninduten, baina nire eginkizuna laguntzea zen, ez gidatzea.",
+    "Elokuentziaz dohaina nuen, eta nire hitzek bihotzak biguntzeko balio zuten.",
+    "Nire laguna hitzordu sakratu batera joan zenean, ni geratu nintzen herri urduri bat gidatzen.",
+    "Pazientziarik gabe, irudi bat sortu zuten beren apaingarriekin, eta Ala-ri leial irauteko erregutu nien.",
+    "Nire laguna itzuli eta atzeman egin ninduen, baina azaldu nien jendeak menderatu ninduela eta ia hil egin ninduela; ez nengoen gaizkileen artean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musa profeta",
+        "Harun profeta",
+        "Isa profeta",
+        "Yahya profeta",
+        "Zakariya profeta"
+      ],
+      "answer": "Harun profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Sutara botata egotea.",
+        "Putzu batera botata izatea",
+        "Urrezko txahalaren gertakariari aurre egitea",
+        "Gaixotasun larri baten proba",
+        "Aberastasuna eta seme-alabak galtzearen proba"
+      ],
+      "answer": "Urrezko txahalaren gertakariari aurre egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko txahala",
+        "Langileak",
+        "Itunaren Arka",
+        "Tabletak.",
+        "Sasi erretzailea"
+      ],
+      "answer": "Urrezko txahala"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gogor zigortua.",
+        "Barkatua eta absolbitua",
+        "Errege egina.",
+        "Zerura eramana.",
+        "Eskritura berri bat emanda"
+      ],
+      "answer": "Barkatua eta absolbitua"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Müqəddəs məkanın yalvarışçısı",
+  "intro": "Gecənin sakit saatlarında müqəddəs bir məkanın müqəddəs divarları arasında sədaqətli bir ruh Mərhəmətli Allaha yalvarırdı. İllərlə davam edən sarsılmaz iman və səbr sevinc və peyğəmbərlik mirası gətirəcək bir möcüzə ilə mükafatlandırılmaq üzrə idi.",
+  "clues": [
+    "Gecələrimi və gündüzlərimi müqəddəs bir məkanda ibadətlə, daim Rəbbimə dua etməklə keçirdim.",
+    "Mən qocaldım, həyat yoldaşım sonsuz idi, amma Allahın rəhmətindən heç vaxt ümidimi üzmədim.",
+    "Mənə Yəhya adlı bir oğul bəxş edildi, o, peyğəmbər və salehlik nuru oldu.",
+    "Mən özüm də İsrail oğullarına hidayət etmək üçün göndərilmiş bir peyğəmbər idim.",
+    "Mən Harun peyğəmbərin nəslindən idim və Məbəddə kahin kimi xidmət edirdim.",
+    "Mənə İsanın anası Məryəmin qayğısı həvalə edilmişdi və onun möcüzələrinin şahidi oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Zəkəriyyə peyğəmbər",
+        "Yəhya peyğəmbər",
+        "İlyas peyğəmbər",
+        "İshaq peyğəmbər",
+        "Yaqub peyğəmbər"
+      ],
+      "answer": "Zəkəriyyə peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qocalıqda bir oğul bəxş etdi",
+        "Alovlanan yanğından xilas oldu",
+        "Balığın qarnından xilas edildi",
+        "Böyük bir daşqından sağ çıxdı",
+        "Ağır xəstəlikdən sağalıb"
+      ],
+      "answer": "Qocalıqda bir oğul bəxş etdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Mihrab (namaz yeri)",
+        "Kəbə",
+        "Yanan Kol",
+        "Əhd sandığı",
+        "Yeddi Yatanların Mağarası"
+      ],
+      "answer": "Mihrab (namaz yeri)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Peyğəmbər olan saleh bir oğul bəxş etdi",
+        "Şiddətli fırtına nəticəsində dağıdılıb",
+        "Dənizdə boğuldu",
+        "Yanmaqdan xilas oldu",
+        "Balıqdan xilas olduqdan sonra öz xalqının yanına qayıtdılar"
+      ],
+      "answer": "Peyğəmbər olan saleh bir oğul bəxş etdi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

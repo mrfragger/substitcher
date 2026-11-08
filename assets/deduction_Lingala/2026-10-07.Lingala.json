@@ -1,0 +1,61 @@
+{
+  "title": "Lolemo oyo ezali na kati ya ndako ya mokonzi ya lolendo",
+  "intro": "Nsima ya bifelo minene ya ndako monene oyo ezalaki na nguya mingi koleka na mokili ya kala ezalaki na moto moko oyo motema na ye ezalaki na sekele moko oyo mobeko moko te ya mokonzi ekokaki kokanga monɔkɔ. Ntango zingazinga nyonso efukama liboso ya banzambe ya lokuta, molimo yango ebatelaki kondima moko ya kimia oyo ezalaki kopela na kati. Mokonzi ya mboka wana andimaki ete bazali bonzambe, nzokande moto yango aponaki solo na esika ya libɔndisi, mpe komipesa na esika ya libateli. Lelo oyo, mosala na yo ezali ya koyeba nani molimo oyo ya mpiko ezalaki, oyo lisolo na ye etikali moko ya bandakisa ya nguya mingi ya bondimi oyo ezali koningana te.",
+  "clues": [
+    "Nazalaki kofanda na esika ya bozwi monene mpe ya bonene oyo ekokani na mosusu te, epai kuna mokonzi ya mboka azalaki na bokonzi ya mobimba likoló na nyonso.",
+    "Wana bato oyo bazalaki zingazinga na ngai bazalaki kofukama liboso ya banzambe ya lokuta, nabombaki mwinda ya kondima ya kimia na kati ya motema na ngai.",
+    "Nazwaki mpe nazwaki mwana moko oyo bamemelaki ngai na lolenge ya momesano te - na kobotama te, kasi na nzela ya mai ya ebale moko monene.",
+    "Nabondelaki Nkolo na ngai, kosenga ndako penepene na Ye na Paradis mpe lobiko uta na bokonzi ya mabe oyo ezingaki ngai.",
+    "Mwana oyo nabɔkɔlaki akolaki mpo na kotɛmɛla mokonzi mpenza oyo azalaki kotambwisa nsuka na ngai, mpe natɛlɛmaki ngwi na kondima na ngai ata ntango bazalaki kobangisa ngai.",
+    "Nazali moto oyo nkombo na ye ekumisami na Coran lokola ndakisa ya kondima, mpe nafandaki na ndako ya mokonzi ya Faraon ye moko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Asiya, mwasi ya Farao",
+        "Mariame, mama ya Yis",
+        "Bilqis, Mokonzi-mwasi ya Seba",
+        "Mwasi ya Prophète Lut",
+        "Mwasi ya Imran"
+      ],
+      "answer": "Asiya, mwasi ya Farao"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kozwa mpe kobɔkɔla bebe oyo basundolami oyo akómaki mosakoli monene",
+        "Kobwakama na mɔ́tɔ monene na moto moko ya mobulu",
+        "Komona mpela monene oyo ebebisaki bato moko",
+        "Kotatola koningana ya mbila ya date mpe kopesa bilei",
+        "Kozwa zemi ya mwana mobali atako akómi mobange"
+      ],
+      "answer": "Kozwa mpe kobɔkɔla bebe oyo basundolami oyo akómaki mosakoli monene"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ndako ya mokonzi ya nkembo oyo ekokani na mosusu te",
+        "Masuwa monene oyo etongamaki mpo na koyika mpiko na mpela",
+        "Libulu moko ya mozindo oyo ebombami na bangomba",
+        "Mɔtɔ ya mɔ́tɔ oyo etongamaki likoló na nsɔngɛ ya ngomba",
+        "Elanga oyo ezingami na bifelo"
+      ],
+      "answer": "Ndako ya mokonzi ya nkembo oyo ekokani na mosusu te"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ndako epesamelaki na Paradis na mokano ya Allah",
+        "Mpela moko monene ebebisaki bato oyo bazalaki kondima te ya ekólo moko ya kala",
+        "Bokonzi ya nguya mpe bokonzi monene epesamelaki na mokili oyo",
+        "Limpinga moko ya nguya epalanganaki na bandɛkɛ oyo bazalaki kopumbwa",
+        "Mokonzi moko ya mabe oyo azalaki koloba ete azali bonzambe azindaki na mbu"
+      ],
+      "answer": "Ndako epesamelaki na Paradis na mokano ya Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

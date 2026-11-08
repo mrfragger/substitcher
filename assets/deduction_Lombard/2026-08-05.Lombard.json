@@ -1,0 +1,61 @@
+{
+  "title": "El dì de la mostra final",
+  "intro": "Convocad a una gran mostra de puder, ün grup de artist qualificad el s’è truà a afruntà una verità che g’havea minga spetà che l’avarìa cambiad la sò vita per semper.",
+  "clues": [
+    "Erüm famus per el noster mesté, padrun del ilusiun e del truc.",
+    "Sun stà ciamà del suvran per afruntà un sfidant che g’haveva in man un bastun semplis.",
+    "Quand che g’hem vist la verità, g’hem cascà giò en prostraziun, declarand la fede in del Signur di mund.",
+    "El tiranno g’ha minacià cunt una puniziun severa, ma g’hem minga vacilà.",
+    "A sem staits intra i prim a creder ind ol messaj dòp aver vist ol segn ciar.",
+    "Num sem stà martirizà per la noster fed, ma serem i primi a entrà in del Paradis cunt i giüst."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "I magi del Faraon",
+        "I israelit",
+        "El popul de Thamud",
+        "I discepol de Isa",
+        "L'esercit de Abraha"
+      ],
+      "answer": "I magi del Faraon"
+    },
+    "trial": {
+      "label": "Prova / Event",
+      "options": [
+        "Concors cunt el Profeta Musa",
+        "Costruir la Tor",
+        "El Grand Diluvio",
+        "La peste dei locust",
+        "El mar che se scippa"
+      ],
+      "answer": "Concors cunt el Profeta Musa"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El dì de la Festa",
+        "La Val de Tuwa",
+        "La cità de Iram",
+        "El giardin del eternità",
+        "La pianura de Arafat"
+      ],
+      "answer": "El dì de la Festa"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Sun stà crocifiss en publich",
+        "Sun stà affogà in del mar",
+        "Sun stà fatt seguitur del prufeta",
+        "Sun stà mandà en esili",
+        "Sun stà consumà del fœuch"
+      ],
+      "answer": "Sun stà crocifiss en publich"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mtumishi Aliyeinuliwa wa Mwenyezi Mungu",
+  "intro": "Unasikia minong'ono ya mtu kutoka nyakati za kale, mtumishi wa Mwenyezi Mungu ambaye alipandishwa cheo juu ya kawaida. Mtu huyu alijulikana kwa uvumilivu usioyumba na ukweli kamili, na alitumwa kwa watu walioacha ujumbe. Nafsi hii iliyotukuka ni nani?",
+  "clues": [
+    "Nilichaguliwa na Mwenyezi Mungu kama nabii na nimetajwa katika Quran Tukufu.",
+    "Nilijulikana kwa uvumilivu na ukweli wangu, sifa ambazo Mwenyezi Mungu anazisifu.",
+    "Niliwaita watu wangu wamwabudu Mungu Mmoja, lakini wengi walinikataa.",
+    "Cheo changu kiliinuliwa na Mwenyezi Mungu, na nilipewa cheo cha juu.",
+    "Mara nyingi mimi hutajwa pamoja na manabii wengine kama vile Ismail na Dhul-Kifl.",
+    "Mwenyezi Mungu anasema kunihusu: 'Nasi tukampandisha cheo cha juu.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Idris",
+        "Nabii Elia",
+        "Nabii Dhu al-Kifl",
+        "Mtume Al-Yasa",
+        "Nabii Hud"
+      ],
+      "answer": "Nabii Idris"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Watu waliwaita kumwabudu Mwenyezi Mungu",
+        "Alijenga safina",
+        "Alipigana dhidi ya Farao",
+        "Alipimwa ugonjwa mbaya",
+        "Alitupwa motoni"
+      ],
+      "answer": "Watu waliwaita kumwabudu Mwenyezi Mungu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Cheo cha juu/kituo cha juu",
+        "Safina",
+        "Wafanyakazi",
+        "Moto",
+        "Kisima"
+      ],
+      "answer": "Cheo cha juu/kituo cha juu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imeinuliwa hadi hadhi ya juu",
+        "Kuzama katika mafuriko",
+        "Kumezwa na nyangumi",
+        "Imeokolewa kutoka kwa moto",
+        "Akawa mfalme"
+      ],
+      "answer": "Imeinuliwa hadi hadhi ya juu"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

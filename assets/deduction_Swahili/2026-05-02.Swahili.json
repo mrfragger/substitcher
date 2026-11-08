@@ -1,0 +1,61 @@
+{
+  "title": "Mbebaji wa Ujumbe Mzito",
+  "intro": "Nafsi yenye haki ilitumwa kuwaongoza watu waliopotea katika makosa yasiyo na kifani. Mjumbe huyu alisimama imara, akitoa onyo kali dhidi ya ufisadi uliopinga utaratibu wa asili. Licha ya maombi ya dhati, jumuiya hiyo ilizama zaidi gizani, ikiweka msingi wa hesabu ya kimungu ambayo si nyingine yoyote. Je, unaweza kumtambua mtumishi huyu thabiti wa Mwenyezi Mungu?",
+  "clues": [
+    "Nilikuwa jamaa wa nabii mwingine mkuu, na nilihama pamoja naye, nikiacha nchi yetu.",
+    "Nilitumwa kwa watu ambao uovu wao ulikuwa wa kipekee, kosa ambalo hakuna kiumbe aliyewahi kufanya kabla yao.",
+    "Familia yangu mwenyewe iligawanyika; mtu wa karibu wa familia aliunga mkono kwa siri wasioamini.",
+    "Malaika, wakiwa katika umbo la vijana warembo, walikuja nyumbani kwangu kama wageni, na kunisababishia mfadhaiko mkubwa kwa usalama wao.",
+    "Niliwapa binti zangu mwenyewe kuwaoa watu wangu katika jaribio la kukata tamaa la kuwazuia waache matendo yao ya aibu.",
+    "Watu wangu waliangamizwa na kilio kikali na mvua ya mawe ya udongo uliookwa, huku mimi na familia yangu, isipokuwa mmoja, tukiokolewa kwa kuondoka usiku wa manane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Shu'ayb",
+        "Nabii Salih",
+        "Nabii Lut",
+        "Nabii Hud",
+        "Nabii Nuh"
+      ],
+      "answer": "Nabii Lut"
+    },
+    "trial": {
+      "label": "Jaribio Langu Kuu Lilikuwa Nini?",
+      "options": [
+        "Kumshawishi mfalme mdhalimu asinichome motoni.",
+        "Kushughulikia wivu wa ndugu zangu na kutupwa kisimani.",
+        "Kukabiliana na watu wanaojihusisha na uasherati usio wa kawaida.",
+        "Kuwaongoza watu wangu kutoka utumwani kutoka kwa Farao mwenye nguvu.",
+        "Kujenga meli kubwa ili kuwaokoa waumini kutokana na mafuriko makubwa."
+      ],
+      "answer": "Kukabiliana na watu wanaojihusisha na uasherati usio wa kawaida."
+    },
+    "location": {
+      "label": "Mahali pa Misheni Yangu palikuwa Nini?",
+      "options": [
+        "Mji wa Madyan",
+        "Mji wa kale wa Iram",
+        "Nchi ya Misri chini ya Farao",
+        "Miji ya Sodoma na Gomora",
+        "Mji wa Ninawi"
+      ],
+      "answer": "Miji ya Sodoma na Gomora"
+    },
+    "outcome": {
+      "label": "Matokeo ya Mwisho yalikuwa Nini?",
+      "options": [
+        "Miji ilipinduliwa na kuangushwa na mawe ya udongo uliookwa.",
+        "Watu wangu walimezwa na ardhi pamoja na kiongozi wao tajiri.",
+        "Watu wangu waliangamizwa na upepo mkali kwa usiku saba na siku nane.",
+        "Watu wangu waliteseka kwa mapigo kama vile nzige, chawa, na vyura.",
+        "Samaki mkubwa alinimeza baada ya kuacha misheni yangu."
+      ],
+      "answer": "Miji ilipinduliwa na kuangushwa na mawe ya udongo uliookwa."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

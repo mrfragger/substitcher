@@ -1,0 +1,61 @@
+{
+  "title": "A mélységből fakadó kiáltás",
+  "intro": "A Legirgalmasabb szolgája megunta a makacs nemzetet, és mielőtt engedélyt kapott volna, távozott. Ez a személy egy olyan helyre került, ahol még soha senki nem járt, ahol az Isteni hívás furcsán visszhangzik a sötétség rétegein keresztül. Meggyengülve, de átalakulva kerül elő ez a lélek, amely időtlen tanulságul szolgált a türelemben, az őszinte bűnbánatban és a Teremtő határtalan irgalmában. Vajon meg tudod fejteni a rejtélyt?",
+  "clues": [
+    "Hírvivőként küldtek népemhez, de ők túlléptek minden határon hitetlenségükben, és nem voltak hajlandók meghallgatni.",
+    "Dühös lettem az elutasításukra, és elmenekültem népemtől, mielőtt Allah parancsa elérkezett volna.",
+    "Felszálltam egy túlterhelt hajóra, és sorsolással eldöntöttük, hogy kit dobunk a tengerbe.",
+    "Beledobtak a tomboló tengerbe, és elnyelt egy hatalmas hal.",
+    "A sötétség három rétegében – a gyomorban, a mély tengerben és az alatta lévő földben – rekedtem, őszinte bűnbánattal kiáltottam Uramhoz.",
+    "A halak közül a nyílt partra emelkedtem, gyengen és fáradtan, és egy töknövény nőtt fölém. Az én népem, százezren vagy még többen, végre hitt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Junusz próféta",
+        "Ayyub próféta",
+        "Juszuf próféta",
+        "Mózes próféta",
+        "Szulejmán próféta"
+      ],
+      "answer": "Junusz próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy nagy hal lenyelte",
+        "Lángoló tűzbe dobva",
+        "Csapdába esve egy kút alján",
+        "Elárasztotta egy hatalmas árvíz",
+        "Igazságtalanul bebörtönözte egy király"
+      ],
+      "answer": "Egy nagy hal lenyelte"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy nagy hal hasa",
+        "A szent völgy a Kába közelében",
+        "Egy bárka pihen egy hegyen",
+        "Egy kígyóvá változott személyzet",
+        "Páratlan pompájú trón"
+      ],
+      "answer": "Egy nagy hal hasa"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Százezer vagy még több ember hitte,",
+        "Élve felemelték a mennyekbe",
+        "Páratlan királyság uralkodója lett",
+        "Egy égből jövő átható kiáltás pusztított el",
+        "Pusztító földrengés döntötte romba"
+      ],
+      "answer": "Százezer vagy még több ember hitte,"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

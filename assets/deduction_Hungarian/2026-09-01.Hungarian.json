@@ -1,0 +1,61 @@
+{
+  "title": "A hang a külvárosból",
+  "intro": "Egy városban állsz, ahol három hírvivő érkezett egyértelmű jelekkel, de az emberek gúnyolják őket és ragaszkodnak régi szokásaikhoz. A város legtávolabbi részéből egy alak rohan a tömeg felé, lélegzetvisszafojtva és eltökélten, hogy az elutasítás ellenére is kimondja az igazat. Ki ez a lélek, aki mindent kockáztatott egy olyan üzenetért, amely nem a sajátja?",
+  "clues": [
+    "Olyan nép között éltem, akik világos jelekkel érkező küldötteket kaptak, mégis arrogánsan elfordultak.",
+    "A város legtávolabbi részéből rohantam, amikor meghallottam a hírvivők hívását.",
+    "Azt mondtam népemnek: „Ó, népem, kövessétek a küldötteket! Kövessétek azokat, akik nem kérnek tőletek jutalmat, mert ők a helyes úton járnak.”",
+    "Nem voltam próféta, de hittem a küldöttekben, és arra buzdítottam a népemet, hogy tegyenek ugyanígy.",
+    "Az embereim kigúnyolták a tanácsomat, és szélsőségesnek vádoltak.",
+    "Amikor megöltek, Allah azt mondta, hogy menjek be a Paradicsomba, és azt kívántam, bárcsak a népem megismerhetné a kapott megbocsátást és tiszteletet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A város legtávolabbi részéből (Ya-Sin) származó férfi",
+        "A városba küldött három hírvivő egyike",
+        "A város egyik kiemelkedő kereskedője",
+        "A város uralkodója",
+        "A hitetlenek vezetője"
+      ],
+      "answer": "A város legtávolabbi részéből (Ya-Sin) származó férfi"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Prédikálva népének, hogy kövessék a hírnököket",
+        "Hajót építenek, hogy megmentsék a hívőket az árvíztől",
+        "Tűzbe vetve a hitért",
+        "Egy bálna lenyelése",
+        "Királyságot és bölcsességet kapva"
+      ],
+      "answer": "Prédikálva népének, hogy kövessék a hírnököket"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A város legtávolabbi része",
+        "A bárka",
+        "A kút",
+        "Az égő csipkebokor",
+        "A barlang"
+      ],
+      "answer": "A város legtávolabbi része"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Belépett a Paradicsomba, és azt kívánta, bárcsak népe megismerhetné a megbocsátását",
+        "Megfulladt népével együtt, mert elutasították az üzenetet",
+        "Csodát kapott a nőstény tevéből",
+        "A tárgyalás után uralkodó lett",
+        "Allah megmentette, és népével maradt"
+      ],
+      "answer": "Belépett a Paradicsomba, és azt kívánta, bárcsak népe megismerhetné a megbocsátását"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bol Hasadın Laneti",
+  "intro": "Eski bir diyarda, belirli bir ruh, toplumun en zenginleri arasında yer alıyordu. Yeryüzünün nimetleri iki yıl üst üste onlara gelmişti; bu çifte hasat, kalplerini şükranla doldurmalıydı. Ancak bir trajedi yaşandığında ve sahip oldukları her şey bir gecede ellerinden alındığında, verdikleri tepki, ruhlarının gerçek doğasını ortaya koydu. Allah'ın nimetlerine inanmamaya karşı bir uyarı niteliğinde olan bu kişinin kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Ben, bolca nimetle kutsanmış, ülkenin en şanslı insanlarından biriydim.",
+    "İki yıl üst üste hasat bana bolca geldi, yine de kalbim Rabbime karşı nankör kaldı.",
+    "Üzüm bağları, zeytin ağaçları ve hurma ağaçlarıyla dolu büyük bir bahçem vardı; bu da Allah'ın lütfunun bir kanıtıydı.",
+    "Bahçem yok edildiğinde, yıkıntıların arasında durup ellerimi göğe doğru uzattım ve kaderime lanet ettim.",
+    "Çaresizlik içinde avuçlarımı birbirine vururken, Allah'ın böyle bir kayba sebep olabileceğini inkar ettim.",
+    "Cezam sadece bahçemi kaybetmek değil, aynı zamanda yıkıntıları arasında tamamen çaresiz bırakılmak ve hiçbir yardımcıdan yardım isteyememekti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "26. Suredeki bahçenin sahibi",
+        "Uzak bir ülkeden iki bahçenin sahibi",
+        "Refah şehrinden varlıklı bir kişi",
+        "Kehf Suresi'nde adı geçen çiftçi",
+        "Peygamber Şuayb zamanından kalma bir bağ bekçisi."
+      ],
+      "answer": "26. Suredeki bahçenin sahibi"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bir gecede yok edilen bir bahçenin kaybı.",
+        "Yeryüzünü kaplayan büyük tufan",
+        "Gerçek ve sahte peygamberlerle sınanmak",
+        "ateşe atılma denemesi",
+        "Yerin yutulmasının imtihanı"
+      ],
+      "answer": "Bir gecede yok edilen bir bahçenin kaybı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "İki yıl içinde üzüm bağları, zeytin ağaçları ve palmiye ağaçlarıyla dolu bir bahçe yok edildi.",
+        "Yüksek bir dağın üzerine inşa edilmiş bir gemi",
+        "Sınırları aşan bir ulusun şehri",
+        "Antik Midyan'da bir kuyu.",
+        "Cennetin nehri"
+      ],
+      "answer": "İki yıl içinde üzüm bağları, zeytin ağaçları ve palmiye ağaçlarıyla dolu bir bahçe yok edildi."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Tamamen çaresizlik—yardımcı olmadan yıkılmışlık",
+        "Diriliş, cennete girmek için",
+        "Allah'ın peygamberi olmak",
+        "Büyük bir ulusun liderliği",
+        "Ateşte sonsuz ceza"
+      ],
+      "answer": "Tamamen çaresizlik—yardımcı olmadan yıkılmışlık"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

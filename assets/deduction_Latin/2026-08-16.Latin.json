@@ -1,0 +1,61 @@
+{
+  "title": "Vox Silenta in Curia",
+  "intro": "Preces resonabant in silentio sacrae camerae olim, ex anima senescente, quae desiderabat quod mundus impossibile declaraverat, oriebatur. Haec persona, annis provecta et cura de futuro onusta, ad Dominum suum supplicatione personali se convertit. Quod secutum est, fuit responsio divina quae omnem exspectationem naturalem superavit — testimonium misericordiae Eius qui vocationi desperatae respondet.",
+  "clues": [
+    "Dominum meum privatim invocavi, in cubiculum me recipiens ubi me eius cultui dedicavi.",
+    "Domino meo confessus sum me timere pro iis qui me postvenirent, de ductu populi mei post discessum sollicitum esse.",
+    "Senectus me invaserat — ossa mea infirma facta erant et canities per caput meum creverat.",
+    "Coniunx mea per totam vitam sterilis fuerat, tamen Dominum meum rogavi ut mihi haeredem ex sua praesentia concederet.",
+    "Signum petivi, et Dominus meus me tribus noctibus prohibēns ne cum quoquam loquerer, dum corpore valido manerem.",
+    "Promissum mihi est filius cuius nomen esset Yahya, nomen quod Dominus meus declaravit numquam antea nemini datum esse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Zacharias",
+        "Propheta Nuh",
+        "Propheta Musa",
+        "Propheta Iosue",
+        "Propheta Dawud"
+      ],
+      "answer": "Propheta Zacharias"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Preces pro herede in senectute cum coniuge sterili",
+        "In ignem ardentem coniectus",
+        "Ab magno pisce in tenebris deglutitus",
+        "Perferre iacturam familiae, divitiarum, et valetudinis",
+        "Iussi arcam magnam aedificare"
+      ],
+      "answer": "Preces pro herede in senectute cum coniuge sterili"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Camera precum (mihrab)",
+        "Baculus qui in serpentem transformatus est",
+        "Arca lignea magna",
+        "Hortus cum fonte singulari",
+        "Mons ubi aves congregabantur"
+      ],
+      "answer": "Camera precum (mihrab)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Filium, quamvis aetate extrema, mirabili nomine nominatum, concessum",
+        "Servatus ab igne ardenti divino iussu",
+        "Magnum diluvium infideles delevit",
+        "Familiae, divitiis, et valetudini post patientiam restitutus",
+        "Pharao et exercitus eius in mari submersi sunt"
+      ],
+      "answer": "Filium, quamvis aetate extrema, mirabili nomine nominatum, concessum"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

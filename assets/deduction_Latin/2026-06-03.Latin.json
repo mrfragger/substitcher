@@ -1,0 +1,61 @@
+{
+  "title": "Gens Quae Domum Sacram Provocavit",
+  "intro": "Olim, gens quaedam potens sanctuarium a fidelibus veneratum oppugnare constituit. Haec cohors dives, potens, et viribus militaribus confisa erat. Secum bestiam ingentem attulerunt, quae eis arma bellica praebebit. Propositum eorum manifestum erat: domum sacram diruere et fidem populi eius opprimere. Sed arrogantia eorum mox responsum devastatorium desuper excipiebat. Hoc eventum historicum signum et lectio omnibus qui postea venerunt factus est. Potesne hanc cohortem ex indiciis agnoscere?",
+  "clues": [
+    "Gens eramus divitiis et virtute militari benedicta.",
+    "Copias nostras collegimus et bestiam ingentem ad bellum nostrum utendam attulimus.",
+    "Scopus noster erat sanctuarium sacrum quod penitus delere cupimus.",
+    "Credimus nostras vires sufficere ad omnem divinam protectionem superandam.",
+    "Sed misit Dominus in nos poenam de caelo quam non exspectavimus.",
+    "Momento deleti sumus, velut stipula fracta dispersi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Elephantis",
+        "Populus Thamud",
+        "Populus 'Ad",
+        "Socii Speluncae",
+        "Gens Prophetae Hud"
+      ],
+      "answer": "Populus Elephantis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Elephantum ad domum sacram ducendo ut eam deleat",
+        "Turrim aedificans ut ad caelum perveniatur",
+        "Constructio idoli aurei ad cultum",
+        "Recusatio audiendi nuntium Dei",
+        "Puteum fodere ad fideles nocendos"
+      ],
+      "answer": "Elephantum ad domum sacram ducendo ut eam deleat"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Elephantus",
+        "Vitulus Aureus",
+        "Baculus Musae",
+        "Pisces Yunus",
+        "Ferrum Dawud"
+      ],
+      "answer": "Elephantus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "A gregibus avium lapidibus deleti sunt",
+        "In magna inundatione submersi sunt",
+        "In simias et porcos transformati sunt",
+        "Sub lapidibus cadentibus de monte sepulti sunt",
+        "Igne caeli combusti sunt"
+      ],
+      "answer": "A gregibus avium lapidibus deleti sunt"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

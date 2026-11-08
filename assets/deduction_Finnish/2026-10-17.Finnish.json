@@ -1,0 +1,61 @@
+{
+  "title": "Kaipaus pyhässä kammiossa",
+  "intro": "Astut hiljaiseen pyhäkköön ja näet Allahin omistautuneen palvelijan seisovan rukouksessa. Heidän kätensä ovat koholla, heidän katseensa koholla ja heidän sydämessään on eliniän mittainen kaipaus. Kuka on tämä kärsivällinen sielu, jonka luottamus Allahiin ei koskaan horjunut?",
+  "clues": [
+    "Vietin pitkiä vuosia jumalanpalveluksessa ja rukouksessa, todistaen ihmeitä, jotka vahvistivat uskoani.",
+    "Minulle annettiin vastuulle huolehtia siunatusta nuoresta sielusta pyhäkössä.",
+    "Vanhetessani suurin suruni oli se, etten saanut lasta, sillä vaimoni oli hedelmätön ja me molemmat olimme iäkkäitä.",
+    "Rukoilin Herraltani seuraajaa omasta perheestäni, jotakuta, joka jatkaisi profeetan perintöä.",
+    "Seisoessani rukouskohdassa enkelit kutsuivat minua sanoen: \"Allah ilmoittaa sinulle ilosanoman\", ja minut valtasi pelko ja kunnioitus.",
+    "Minulle kerrottiin, että saisin pojan nimeltä Yahya, nimeä, jota ei ollut koskaan ennen annettu kenellekään, ja merkiksi siitä, etten puhuisi ihmisille kolmeen päivään."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Zakariyya",
+        "Profeetta Jahja",
+        "Profeetta Isa",
+        "Profeetta Daavid",
+        "Luqman Viisas"
+      ],
+      "answer": "Profeetta Zakariyya"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Hedelmättömyys ja vanhuus samalla kun halutaan vanhurskasta perillistä",
+        "Heitetään liekehtivään tuleen",
+        "Suuren kalan nielaisemaksi joutuminen",
+        "Kuningaskunnan menettäminen tyrannin käsiin",
+        "Karkotus kotimaastaan"
+      ],
+      "answer": "Hedelmättömyys ja vanhuus samalla kun halutaan vanhurskasta perillistä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Rukouspaikka (mihrab)",
+        "Suuri laiva (Arkki)",
+        "Palava pensas",
+        "Sauva, joka muuttui käärmeeksi",
+        "Allahin naaraskameli"
+      ],
+      "answer": "Rukouspaikka (mihrab)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Suoi vanhurskaan pojan ja puhui uudelleen kolmen päivän hiljaisuuden jälkeen",
+        "Tulva tuhosi epäuskon vuoksi",
+        "Annettiin laaja valtakunta ja hallittiin tuulia",
+        "Kalan vatsasta vapautettuna",
+        "Maan nielaisema"
+      ],
+      "answer": "Suoi vanhurskaan pojan ja puhui uudelleen kolmen päivän hiljaisuuden jälkeen"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

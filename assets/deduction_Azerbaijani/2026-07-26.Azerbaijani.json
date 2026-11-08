@@ -1,0 +1,61 @@
+{
+  "title": "Göylərə meydan oxuyan tac",
+  "intro": "Qədim krallıqların dəhlizlərində bir hökmdarın adı zülm və təkəbbür üçün bir məsələ çevrilmişdi. Allahın təvazökar bir qulu danılmaz əlamətlərlə gələndə bu qüdrətli hökmdar həqiqətə təslim olmaqdan imtina etdi. Bu gün sizin vəzifəniz hakimiyyəti dağılan və taleyi dalğaların altında həll olunan bu əfsanəvi şəxsiyyəti müəyyən etməkdir.",
+  "clues": [
+    "Mən adı əsrlər boyu xəbərdarlıq kimi səslənən ən qorxulu hökmdaram.",
+    "Mən bütün bir xalqa zəncirlənmiş şəkildə işləməyi, izzətimi bəyan edən abidələr ucaltmağı əmr etdim.",
+    "Allahın elçisi inkaredilməz möcüzələrlə qarşıma çıxdıqda, mən səcdə etməkdən imtina etdim və bunu sehr adlandırdım.",
+    "Əsir düşmüş xalq arasında körpə oğulların öldürülməsini əmr etdim, ümid etdim ki, onlar ayağa qalxmazdan əvvəl ruhlarını əzsinlər.",
+    "Mən sarayımın qarşısında dayanıb “Mən sizin ən ali ağansınız” deyə elan etdim və bir tanrı kimi ibadət etməyi tələb etdim.",
+    "Baş nazirim yanımda olmaqla, göylərin o tayına dırmaşmaq üçün uca bir bina tikdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Firon (Firon)",
+        "Nəmrud",
+        "Haman",
+        "Əbu Ləhəb",
+        "Əl-Valid ibn əl-Muğira"
+      ],
+      "answer": "Firon (Firon)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qırmızı dənizdə boğulma",
+        "Səmud qövmünə göndərilən dişi dəvə",
+        "Nuhun böyük tufanı",
+        "Xəndək Əshabının Cəzası",
+        "Əbrəhənin ordusunun quşlar tərəfindən məhv edilməsi"
+      ],
+      "answer": "Qırmızı dənizdə boğulma"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Hamanla tikilmiş uca bina",
+        "Daşqının üzərində üzən gəmi",
+        "Samirilər tərəfindən hazırlanmış qızıl buzov",
+        "Səba kraliçası Bilqis taxtı",
+        "Yatan gənclərin mağarası"
+      ],
+      "answer": "Hamanla tikilmiş uca bina"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Dənizdə boğuldu; cəsəd xəbərdarlıq olaraq qorunub saxlanıldı",
+        "Sürgün edildi və səhrada gəzməyə məcbur edildi",
+        "Cəza olaraq meymuna çevrildi",
+        "Şiddətli zəlzələ nəticəsində yerlə yeksan olub",
+        "Göydən yağan daş yağışı ilə yanıb"
+      ],
+      "answer": "Dənizdə boğuldu; cəsəd xəbərdarlıq olaraq qorunub saxlanıldı"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

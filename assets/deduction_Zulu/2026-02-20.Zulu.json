@@ -1,0 +1,61 @@
+{
+  "title": "Ubufakazi Bomlilo",
+  "intro": "Umuntu ojulile, ozinikele ekwembuleni iqiniso eliphelele, waqala uhambo lokuthola ulwazi olungokomoya. Ukuqiniseka kwabo okungantengantengi kwabaholela ekuphonseni inselelo ezimisweni ezimisiwe, bebhekene nezilingo ezinkulu ezazivivinya imikhawulo yokholo. Indaba yalomphefumulo iwubufakazi bokuvikelwa nokuqondiswa kwaphezulu.",
+  "clues": [
+    "Ngabusiswa ngesiqu esiyingqayizivele esivela eNkosini yami, okubonisa isibopho esijulile nesikhethekile.",
+    "Impilo yami yobusha ngayisebenzisa phakathi kwabantu ababekhothamela izithombe ezenziwe ngobuciko, kodwa inhliziyo yami yayilangazelela uNkulunkulu oyedwa weqiniso.",
+    "Ngabuka izidalwa zasezulwini, ilanga, inyanga, nezinkanyezi, ngicabanga ngokukhuphuka nokuwa kwazo, ngaphetha ngokuthi azikwazi ukuba yiNkosi yami.",
+    "Ngesenzo sokungavumelani nonkulunkulu abaningi ababesakazekile, ngabhekana nonkulunkulu bamanga, ngashiya oyedwa, omkhulu engashintshi njengommangaleli othule.",
+    "Inselele yami yokukhonza izithombe yaholela esijezisweni esinzima, njengoba ngagwetshwa ukuphonswa esihogweni esivuthayo.",
+    "Kodwa, ngomyalo woMdali wami, amalangabi anamandla aguquka aba umthombo wokuphola nokuphepha, alondoloza impilo yami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uMusa",
+        "Umprofethi uNuh",
+        "Umprofethi u-Ibrahim",
+        "Umprofethi u-Isa",
+        "Umprofethi uYusuf"
+      ],
+      "answer": "Umprofethi u-Ibrahim"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuwela uLwandle Olubomvu",
+        "UZamcolo",
+        "Umhlatshelo Wendodana",
+        "Ubunzima Obunamandla",
+        "Isisu Somkhomo"
+      ],
+      "answer": "Ubunzima Obunamandla"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "UMphongolo",
+        "Abasebenzi",
+        "Icilongo",
+        "Umlilo",
+        "Umthombo"
+      ],
+      "answer": "Umlilo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Abantu baholwa ngokuphepha",
+        "Wazuza umbuso omkhulu njengefa",
+        "Wagwinywa yinhlanzi",
+        "Wasindiswa ekushisweni",
+        "Ngithole amaphilisi"
+      ],
+      "answer": "Wasindiswa ekushisweni"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

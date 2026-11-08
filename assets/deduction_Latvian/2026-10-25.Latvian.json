@@ -1,0 +1,61 @@
+{
+  "title": "Sūdzība, kas dzirdama virs trokšņa",
+  "intro": "Jūs dzirdat balsi, kas paceļas no sabiedrības, kurā apspiešana ir kļuvusi par ikdienišķu parādību. Nekāda varas demonstrēšana neatbild uz sūdzību; tā vietā tiešs aicinājums sasniedz Allāhu, un atbilde skar pašas pielūgsmes būtību. Kas iesniedza šo sūdzību, kāds jautājums sekoja un kāda patiesība tika apstiprināta?",
+  "clues": [
+    "Mani sāka satraukt apkārtējo cilvēku apspiešana.",
+    "Es šo sūdzību izteicu tieši Allāham personīgā sūdzībā.",
+    "Allāhs uzklausīja sūdzību un atbildēja, apstrīdot manu paša ticību.",
+    "Atbildē bija jautāts, kā es varēju neticēt Allāham, kurš ir Viens un Augstākais.",
+    "Tad es jautāju, kāpēc Allāham vajadzētu dot priekšroku neticīgajiem cilvēkiem.",
+    "Es esmu Uzīrs, nosaukts Sūrā Az-Zuhruf kā tas, kura sūdzību Allāhs uzklausīja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Uzairs",
+        "Biedrs, kas kuģoja lielajā plūdā",
+        "Kalps, kas staigāja pa ūdeni",
+        "Gulētājs pasargāts alā",
+        "Kalps, kurš atnesa akmeņus upē"
+      ],
+      "answer": "Uzairs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sūdzības Allāham par tautas apspiešanu",
+        "Pastaiga pa ūdeni vētras laikā",
+        "Akmeņu nešana uz upi, kurā trūka ūdens",
+        "Burāšana cauri lieliem plūdiem uz Arka klāja",
+        "Saņemot atslēgu uz milzīgu dārgumu"
+      ],
+      "answer": "Sūdzības Allāham par tautas apspiešanu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Tieša sūdzība, kas adresēta Allāham",
+        "Persona, kas pārvērtās par čūsku",
+        "Krāsns padarīta vēsa un mierīga",
+        "Šķirsts, kas peld virs plūdu ūdeņiem",
+        "Zivs, kas norij kalpu"
+      ],
+      "answer": "Tieša sūdzība, kas adresēta Allāham"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Allāhs uzklausīja sūdzību un apstiprināja dievišķo vienotību un augstāko valdnieku",
+        "Droša staigāšana pa ūdeni vētras laikā",
+        "Lielu plūdu droša šķērsošana uz Arka klāja",
+        "Atgūstot redzi augstprātības pilī",
+        "Saņemot valdību, kas stiepjas no austrumiem uz rietumiem"
+      ],
+      "answer": "Allāhs uzklausīja sūdzību un apstiprināja dievišķo vienotību un augstāko valdnieku"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

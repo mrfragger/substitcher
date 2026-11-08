@@ -1,0 +1,61 @@
+{
+  "title": "Dawk li Jfittxu l-Verità Umli",
+  "intro": "F'art ta' poter u maġija antika, tiżvolġi konfrontazzjoni kbira. Naħa waħda tuża l-awtorità ta' sinjali divini, filwaqt li l-oħra tipprova tlaħħaq mal-impossibbli. Ir-riżultat se jbiddel għal dejjem il-kors tal-istorja. Tista' tiskopri l-identità ta' dawk li raw il-verità aħħarija u umiljaw ruħhom quddiemha?",
+  "clues": [
+    "Rajna sinjali li marru lil hinn mit-tricks tas-seħer",
+    "Ilkoll waqajna fl-art, ma nistgħux niċħdu l-verità",
+    "Għaraftna li dawn is-sinjali ġew mingħand l-Uniku Alla Veru",
+    "Konna l-ewwel komunità li ħaddnet il-fidi b'mod daqshekk drammatiku.",
+    "Wegħedna l-ġenna bħala kumpens għat-twemmin tagħna",
+    "Il-ħbula u l-bsaten tagħna saru sriep quddiem għajnejna, iżda għażilna s-sottomissjoni"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-maġi tal-Fargħun",
+        "In-nies tal-Profeta Ibrahim",
+        "Dawk li jfittxu l-verità umli",
+        "In-Nies tal-Għar",
+        "In-nazzjon tar-Reġina Bilqis"
+      ],
+      "answer": "Il-maġi tal-Fargħun"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Il-laqgħa mal-bastun tal-Profeta Musa",
+        "Il-prova tar-riħ tal-Profeta Hud",
+        "L-isfida mill-ġemela tal-Profeta Salih",
+        "Id-dilluvju l-kbir mibgħut fuq profeta",
+        "Il-vjaġġ ta’ profeta ġewwa baliena"
+      ],
+      "answer": "Il-laqgħa mal-bastun tal-Profeta Musa"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Eġittu tal-Qedem",
+        "Id-dar sagra f’Mekka",
+        "Il-belt ta’ Midjan",
+        "Id-deżert ta’ Thamud",
+        "L-għar tal-irqad tal-qedem"
+      ],
+      "answer": "Eġittu tal-Qedem"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-Ġenna bħala l-premju tagħhom",
+        "Kastig fil-qabar",
+        "Telf tal-ġonna abbundanti tagħhom",
+        "Qerda minn terremot f'daqqa",
+        "Salvataġġ minn baliena kbira"
+      ],
+      "answer": "Il-Ġenna bħala l-premju tagħhom"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

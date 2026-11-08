@@ -1,0 +1,61 @@
+{
+  "title": "Aldawyň ýaňy-ýakyny",
+  "intro": "Garyndaşlyk gatnaşyklary göriplik duýgusynyň güýçlenmegi bilen synagdan geçirildi. Gizlin meýilnama düzülip, ​​ýyllarboýy dowam etjek we uzak aralyklary kesip geçjek wakalar zynjyryny herekete getirdi. Bu toparyň hereketleri çuňňur aýralyga we gynanja getirdi, ýöne hekaýa şol ýerde gutarmady. Bu aldaw, ökünç we ylahy meýilnamanyň iň soňky açylmagy baradaky hekaýa. Saýlawlary nesillerboýy gaýtalanan bu şahslaryň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Biz öz ýakynlarymyzyň birine görkezilen mähirden göriplik bilen çäklendik.",
+    "Göriplik bilen, biz dildüwşük edip, doganymyzy guýynyň garaňkylygyna taşladyk.",
+    "Biz öz işimizi gizlemek üçin kakamyza ýalan gan bilen boýalan eşigi berdik.",
+    "Birnäçe ýyl geçensoň, güýçli açlyk bizi azyk gözläp Müsüre gitmäge mejbur etdi.",
+    "Ol ýerde biz näbelli, biziň zulm eden doganymyz bolan güýçli häkimiň öňüne geldik.",
+    "Soňky synagymyz iň kiçi doganymyz Benýamini getirmek boldy, bu bolsa geçmişimiziň açylmagyna we kakamyzyň Pygamber Ýakup bolmagyna sebäp boldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Adam ogullary (Kabil we Habil)",
+        "Isa pygamberiň şägirtleri",
+        "Ýusup pygamberiň doganlary",
+        "Medýan halky",
+        "Fir'awnyň jadygöýleri"
+      ],
+      "answer": "Ýusup pygamberiň doganlary"
+    },
+    "trial": {
+      "label": "Biziň esasy ýalňyşlygymyz nämedi?",
+      "options": [
+        "Sežde etmek üçin altyn göle gurmak",
+        "Allany gönüden-göni görmegi talap etmek",
+        "Pygamberiň gämi gurandygy üçin üstünden gülmek",
+        "Kakamyzy aldap, doganymyzy terk etmek",
+        "Balyk tutmak bilen şenbe günini bozmak"
+      ],
+      "answer": "Kakamyzy aldap, doganymyzy terk etmek"
+    },
+    "location": {
+      "label": "Aldawlarymyzyň esasy maksady näme boldy?",
+      "options": [
+        "Ýazgyly tabletkalar toplumy",
+        "Ýalan gan bilen boýalan köýnek",
+        "Altyn göle",
+        "Owadan guş (Hupoe)",
+        "Ýylana öwrülen taýajyk"
+      ],
+      "answer": "Ýalan gan bilen boýalan köýnek"
+    },
+    "outcome": {
+      "label": "Hekaýatymyzyň ahyrky netijesi näme boldy?",
+      "options": [
+        "Biz güýçli sil sebäpli ýok edildik",
+        "Biz maýmynlara öwrüldik",
+        "Bizi ýer ýuwutdy",
+        "Biz bagyşlandyk we maşgalamyz bilen gaýtadan birleşdik",
+        "Biz deňizde gark bolduk"
+      ],
+      "answer": "Biz bagyşlandyk we maşgalamyz bilen gaýtadan birleşdik"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

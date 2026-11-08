@@ -1,0 +1,61 @@
+{
+  "title": "Jumaliku märgi hoidja",
+  "intro": "Sügaval pühas pühamus elas jumaliku hoole all õnnistatud hing. See inimene oli määratud mängima võtmerolli imelises sündmuses, saades tunnistuseks Allahi piiritust väest ja tarkusest. Nende teekond paljastas sügava tõe, seadis kahtluse alla arusaamad ja lõi ainulaadse märgi kogu inimkonnale.",
+  "clues": [
+    "Allah valis ja puhastas mind kõigist oma aja naistest.",
+    "Mind pandi õiglase prohveti hoole alla, kes leidis imekombel oma palvekambrist elatist.",
+    "Eraldasin end perekonnast privaatsesse kohta, et Allahi kummardada.",
+    "Ingel ilmus mulle täiusliku mehe kujul, tuues sõnumi puhtast pojast, kuigi ma polnud tundnud ühtegi meest.",
+    "Pärast sünnitusvalusid kästi mul palmipuu tüve raputada, et leida värsket toitu.",
+    "Kui ma oma vastsündinud lapsega oma rahva juurde tagasi pöördusin, küsitlesid nad mind, aga mu poeg rääkis imekombel juba hällist alates minu kaitseks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Saara (prohvet Ibrahimi naine)",
+        "Hajar (prohvet Ismaili ema)",
+        "Bilqis (Sheba kuninganna)",
+        "Asiya (vaarao naine)",
+        "Maryam (Maarja)"
+      ],
+      "answer": "Maryam (Maarja)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur veeuputus, mis hävitas uskmatu rahva",
+        "Põlevasse tulle heidetud ebajumalate salgamise pärast",
+        "Lapse imeline sünd ilma isata",
+        "Vaala allaneelamine missiooni hülgamise eest",
+        "Linna hävitamine ebamoraalsete tegude pärast"
+      ],
+      "answer": "Lapse imeline sünd ilma isata"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kuldne vasikas",
+        "Lepingulaegas",
+        "Püha palvekamber (Mihrab)",
+        "Rääkiv lind (Hudhud)",
+        "Personali, mis muutus maoks"
+      ],
+      "answer": "Püha palvekamber (Mihrab)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Suurepärase templi ehitamine",
+        "Mere lõhenemine, et rahvas saaks seda ületada",
+        "Laps, kes hällist saati oma vanema kaitseks rääkis",
+        "Jumaliku raamatu ilmutus inimkonna juhtimiseks",
+        "Tuule ja džinnidega õnnistatud kuningriik"
+      ],
+      "answer": "Laps, kes hällist saati oma vanema kaitseks rääkis"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kira daga Kwarin Tsarki",
+  "intro": "Bayan shafukan tarihi akwai labarin wani rai wanda ya tsaya tsakanin wani mai iko da kuma dukkan mutanen da aka bautar. An kira wannan mutum ya ceci al'umma daga zalunci, yana yin abubuwan al'ajabi da suka saba wa kowace doka ta halitta. Daga wani dutse mai tsarki zuwa wani mu'ujiza a kan ruwa, wannan bawan Allah ya shaida alamu da za su yi ta shewa tsawon zamani. Aikinku a yau shine ku gano wannan mutum mai ban mamaki wanda gadonsa ya tsara tarihin ɗan adam.",
+  "clues": [
+    "An haife ni a lokacin da mutanena suka fuskanci wani mummunan hukunci, kuma iyalina suka sanya ni cikin ruwa don ceton rayuwata.",
+    "An same ni kuma na girma a gidan sarkin da ya ba da umarnin a kashe irina.",
+    "Na gudu zuwa wani dutse mai tsarki inda na ga wuta a kan wata bishiya da ba ta ƙone ba, kuma wata murya ta yi magana da ni daga ciki.",
+    "An mayar da ni wurin wannan sarkin da mu'ujizai, suna neman 'yancin mutanen da na bauta.",
+    "Na bugi teku da sandata, sai ta rabu ta zama busasshiyar hanya, ta haɗiye masu bin sawun da suka bi jama'ata.",
+    "Na yi magana da Ubangijina a kan dutse na tsawon dare arba'in, kuma an ba ni allunan shiriya ta Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Musa",
+        "Annabi Haruna",
+        "Annabi Ibrahim",
+        "Annabi Yusufu",
+        "Annabi Dawuda"
+      ],
+      "answer": "Annabi Musa"
+    },
+    "trial": {
+      "label": "Gwajina Mai Ma'ana",
+      "options": [
+        "Rabuwar Teku",
+        "Gina Babban Jirgin Ruwa",
+        "Jarabawa Ta Wuta Mai Cike Da Wuta",
+        "Daurewa a Cikin Kifin Whale",
+        "Daurin Aure Da Wani Jami'in Masar Ya Yi"
+      ],
+      "answer": "Rabuwar Teku"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Sanda Mai Kiwo",
+        "Babban Jirgin Katako",
+        "Kogo Inda Lokaci Ya Yi Barci",
+        "Lambu Mai Maɓuɓɓuga Biyu",
+        "Kursi Mai Ado Da Zinare"
+      ],
+      "answer": "Sanda Mai Kiwo"
+    },
+    "outcome": {
+      "label": "Sakamakon",
+      "options": [
+        "Mutanena Sun Ketare Teku Zuwa Tsaro",
+        "Babban Ambaliyar Ruwa Ta Halaka Kafirai",
+        "Wutar Azzalumi Ta Yi Sanyi Da Kwanciyar Hankali",
+        "Teku Ya Jefa Kamun Kifi A Gabar Teku",
+        "Bawan da aka Kama Ya Zama Ma'ajin Masar"
+      ],
+      "answer": "Mutanena Sun Ketare Teku Zuwa Tsaro"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

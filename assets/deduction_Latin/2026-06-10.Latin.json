@@ -1,0 +1,61 @@
+{
+  "title": "Custodes Horti",
+  "intro": "In horto amoeno, communitas votum sollemne fecit. Sed eorum constantia probata est cum divina voluntas intervenit, munificentiam eorum in terram sterilem transformans.",
+  "clues": [
+    "Horto ubertino beati sumus, sed arrogantes facti sumus.",
+    "Consilium fecimus metere sine communicatione cum pauperibus.",
+    "Mane primo profecti sumus, consilio nostro confidentes.",
+    "Sed cum advenimus, hortum nostrum nocte vastatum esse invenimus.",
+    "Errorem nostrum intelleximus et invicem culpare coepimus.",
+    "Tandem paenitentiam egimus, sed lectio nimis sero didita est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Homines Horti",
+        "Homines Speluncae",
+        "Populus Elephantis",
+        "Populus Thamudensis",
+        "Populus 'Ad"
+      ],
+      "answer": "Homines Horti"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Hortus in cineres conversus",
+        "Diluvium quod omnia vastavit",
+        "Fames quae terram percussit",
+        "Exercitus avium impetum facit",
+        "Magnus ventus qui arbores eradicavit"
+      ],
+      "answer": "Hortus in cineres conversus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Hortus",
+        "Spelunca",
+        "Navis",
+        "Mons",
+        "Palatium"
+      ],
+      "answer": "Hortus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Paenitentiam egerunt, sed hortum amiserunt",
+        "Penitus deleti sunt",
+        "In simias conversi sunt",
+        "Fide servati sunt",
+        "Rectores facti sunt"
+      ],
+      "answer": "Paenitentiam egerunt, sed hortum amiserunt"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Libiangi uta na Lobwaku Mosantu",
+  "intro": "Na ngambo mosusu ya nkasa ya lisolo ya bato ezali na lisolo ya molimo moko oyo etɛlɛmaki kati na mokonzi moko ya nguya mpe bato mobimba oyo bakómaki baombo. Moto yango abyangamaki mpo na kobikisa ekólo moko na bokonzi ya mabe, kosala makamwisi oyo ezalaki kotɛmɛla mibeko nyonso ya bozalisi. Kobanda na ngomba mosantu kino na likamwisi likolo ya mai, mosaleli oyo ya Allah amonaki bilembo oyo ekoyokana na boumeli ya bileko. Mosala na bino lelo ezali ya koyeba moto oyo ya kokamwa oyo libula na ye ebongisaki nzela ya lisolo ya bato.",
+  "clues": [
+    "Nabotamaki na eleko oyo bato na ngai bakutanaki na mobeko moko ya koboma, mpe libota na ngai batyaki ngai na mai mpo na kobikisa bomoi na ngai.",
+    "Nazwamaki mpe nakolaki na ndako mpenza ya mokonzi oyo apesaki mitindo ete bákufa na lolenge na ngai.",
+    "Nakimaki na ngomba moko ya bule wapi namonaki moto likolo ya nzete oyo ezikisamaki te, mpe mongongo moko elobelaki ngai uta na yango.",
+    "Bazongisaki ngai epai ya mokonzi wana mpenza na makamwisi, kosɛngáká bonsomi ya bato na ngai oyo bazalaki baombo.",
+    "Nabɛtaki mbu na lingenda na ngai, mpe ekabwanaki na banzela ya kokauka, komela bato oyo bazalaki kolanda bato oyo bazalaki kolanda bato na ngai.",
+    "Nasololaki na Nkolo na ngai na ngomba mpo na butu ntuku minei, mpe bapesaki ngai bitanda ya bokambi ya bonzambe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Musa",
+        "Mosakoli Harun",
+        "Mosakoli Ibrahim",
+        "Mosakoli Yusuf",
+        "Mosakoli Dawud"
+      ],
+      "answer": "Mosakoli Musa"
+    },
+    "trial": {
+      "label": "Momekano na ngai oyo ezali kolimbola",
+      "options": [
+        "Kokabwana ya Mbu",
+        "Kotonga Sanduku Monene",
+        "Kosambisama na Mɔtɔ oyo ezali kopela",
+        "Kokangama na Libumu ya Baleine",
+        "Kokangama na Mokonzi moko ya Ezipito"
+      ],
+      "answer": "Kokabwana ya Mbu"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Likonzí ya Mobateli ya mpate",
+        "Sanduku Monene ya Mabaya",
+        "Libulu Moko Esika Ntango Elalaki",
+        "Elanga oyo ezali na maziba mibale",
+        "Kiti ya bokonzi oyo ekembisami na wolo"
+      ],
+      "answer": "Likonzí ya Mobateli ya mpate"
+    },
+    "outcome": {
+      "label": "Litomba na yango",
+      "options": [
+        "Bato na Ngai Bakatisaki Mbu mpo na Bobateli",
+        "Mpela Monene Ebebisaki Bato Bazangi kondima",
+        "Moto ya Tyrant Ekómaki Malili mpe Kimya",
+        "Mbu Ebwakaki Mokangami Na Yango na Libongo",
+        "Mokangami Akómaki Mobateli ya mosolo ya Ezipito"
+      ],
+      "answer": "Bato na Ngai Bakatisaki Mbu mpo na Bobateli"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Alma Sem Nome Que Se Levantou Contra uma Nação Injusta",
+  "intro": "Nas páginas do Alcorão, encontramos figuras cujos nomes foram omitidos para que refletíssemos sobre seus ensinamentos. Uma dessas almas nasceu em uma nação que havia rejeitado seus mensageiros, mas esse indivíduo possuía uma fé secreta que o diferenciava dos demais. Quando a destruição se aproximava, essa pessoa permaneceu firme em sua crença secreta. Você consegue descobrir a identidade dessa figura misteriosa que adverte seu povo antes do decreto final?",
+  "clues": [
+    "Eu vivia entre um povo que repetidamente negava os mensageiros enviados por Alá.",
+    "Diferentemente da minha nação, reconheci a verdade quando um mensageiro chegou com sinais claros do meu Senhor.",
+    "Escondi minha fé dos meus opressores, sabendo que eles me fariam mal se descobrissem minha crença.",
+    "Quando a ordem de punição se aproximou, declarei abertamente minha lealdade e avisei meu povo para que se salvasse.",
+    "Lembrei-os de que sou um mensageiro de confiança, igual aos enviados antes deles, e que não devem adorar nenhum outro Deus além de Alá.",
+    "Meu povo me acusou de feitiçaria e loucura, mas o castigo que lhes fora anunciado acabou por alcançá-los."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O profeta Hud, mensageiro do povo de Aad.",
+        "Um homem crente da nação do Profeta Hud que foi martirizado.",
+        "O governante do povo de Aad que rejeitou a verdade",
+        "Um companheiro do Profeta Salih que duvidava dos sinais divinos.",
+        "Um anjo enviado para destruir o povo de Aad"
+      ],
+      "answer": "Um homem crente da nação do Profeta Hud que foi martirizado."
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A provação da seca e da fome que testou a sua paciência.",
+        "O desafio de professar a fé perante uma nação opressora e incrédula.",
+        "O desafio de construir um navio para escapar de uma grande inundação.",
+        "O julgamento de ser lançado ao fogo por acreditar em Alá.",
+        "O teste de ser confrontado com riqueza e prosperidade."
+      ],
+      "answer": "O desafio de professar a fé perante uma nação opressora e incrédula."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A cidade de Meca, onde a casa sagrada foi construída.",
+        "As planícies desérticas da nação que negou seu mensageiro.",
+        "As montanhas de Midiã, para onde o profeta Shu'aib foi enviado.",
+        "A margem do rio no Egito onde o profeta Moisés foi encontrado.",
+        "O vale do povo de Aad, atingido por um vento feroz."
+      ],
+      "answer": "As planícies desérticas da nação que negou seu mensageiro."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fui salvo em um navio e vivi até a vontade de Alá.",
+        "Meu povo acreditou em mim e foi guiado ao caminho reto.",
+        "Fui morto pelo meu povo, mas minha alma foi acolhida pela misericórdia de Alá.",
+        "Eu me arrependi após ser testado e Alá aceitou meu arrependimento.",
+        "Após a minha morte, fui transformado em um ídolo adorado pelo meu povo."
+      ],
+      "answer": "Fui morto pelo meu povo, mas minha alma foi acolhida pela misericórdia de Alá."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

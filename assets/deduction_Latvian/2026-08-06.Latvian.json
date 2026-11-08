@@ -1,0 +1,61 @@
+{
+  "title": "Vērojošā dvēsele upes krastā",
+  "intro": "Jaunai dvēselei tika uzticēta slepena misija – no droša attāluma vērot likteņa attīstību uz ūdeņiem. Neredzama un nepamanīta, šī persona spēlēs izšķirošu lomu nācijas vēstures gaitas mainīšanā.",
+  "clues": [
+    "Mana māte man uzdeva uzdevumu, kas prasīja slepenību un modrību.",
+    "Mans skatiens sekoja nelielam šūpulītim, kas dreifēja pa straumi, manai sirdij smaka no raizēm.",
+    "Kad to negaidīti atrada kāds, es tuvojos, pilns bažu.",
+    "Es redzēju viņu izmisīgo vajadzību pēc aprūpētāja un piedāvāju risinājumu, neatklājot patiesību.",
+    "Mana savlaicīgā iejaukšanās atgrieza gādīgu dvēseli pie tā, kam tā visvairāk bija nepieciešama.",
+    "Vareno tiesās es teicu: “Vai man jūs norādīt uz ģimeni, kas viņu audzinās un rūpēsies par viņu?”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Musas māsa",
+        "Musas māte",
+        "Faraona sieva",
+        "Vecmāte",
+        "Šuaiba meita"
+      ],
+      "answer": "Musas māsa"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Bērna iemešana upē",
+        "Jūras šķiršanās",
+        "Teļa dedzināšana",
+        "Šķirsta būvēšana",
+        "Siseņu mēris"
+      ],
+      "answer": "Bērna iemešana upē"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Upe",
+        "Tuksnesis",
+        "Kalns",
+        "Pils",
+        "Ugunsgrēks"
+      ],
+      "answer": "Upe"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņa atkalapvienoja bērnu ar viņa māti",
+        "Viņa izglābās no faraona karavīriem",
+        "Viņa kļuva par karalieni",
+        "Viņa tika sodīta par spiegošanu",
+        "Viņa vadīja izraēliešus"
+      ],
+      "answer": "Viņa atkalapvienoja bērnu ar viņa māti"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

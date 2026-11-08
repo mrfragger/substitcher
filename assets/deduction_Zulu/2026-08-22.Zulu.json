@@ -1,0 +1,61 @@
+{
+  "title": "Idolobha Elalikholelwa Esikhathini",
+  "intro": "Ezindabeni zesihe saphezulu, kunomphakathi oguquko lwawo lwaba umzuzu wokugcwaliseka kwezwe lonke. Usuzokwembula indaba yabo—indaba yesixwayiso, ukuphenduka, kanye nokuphumula okubahlukanisa nesiphetho sezinye izizwe.",
+  "clues": [
+    "Sasingabantu ababethunywe isithunywa kubo, futhi sayeka ukubizwa kwakhe ekuqaleni.",
+    "Lapho izimpawu zesijeziso esisondelayo sezicaca, saqaphela iqiniso lesixwayiso sakhe.",
+    "Saphendukela eNkosini yethu ngokuphenduka okuqotho, futhi ukholo lwethu lwamukelwa.",
+    "Isijeziso esasinqunyiwe kithi sasuswa ngenxa yokholo lwethu.",
+    "Indaba yethu ibizwa ngokuthi ihlukile phakathi kwamadolobha akholwa ngemva kokubona isijeziso.",
+    "Sasingabantu bomprofethi owagwinywa ngumkhomo, kodwa sasindiswa ekubhujisweni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu baseYunus",
+        "Abantu baseNuh",
+        "Abantu baseHud",
+        "Abantu baseSalih",
+        "Abantu bakaLut"
+      ],
+      "answer": "Abantu baseYunus"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Isikhukhula esibhubhisayo",
+        "Isiphepho esinamandla",
+        "Isijeziso sehlazo esiseduze esasigwenywe",
+        "Umhlaba uyabagwinya",
+        "Imvula yamatshe"
+      ],
+      "answer": "Isijeziso sehlazo esiseduze esasigwenywe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umkhumbi",
+        "Ikamela lensikazi",
+        "Idolobha elinabantu abayizinkulungwane eziyikhulu",
+        "Induku kaMusa",
+        "Ingcebo kaQarun"
+      ],
+      "answer": "Idolobha elinabantu abayizinkulungwane eziyikhulu"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Babhujiswa ngokuphelele",
+        "Banikwa injabulo isikhathi esithile",
+        "Baguqulwa baba yizinkawu",
+        "Baminza",
+        "Bagwinywa umhlaba"
+      ],
+      "answer": "Banikwa injabulo isikhathi esithile"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nosilac devet znakova",
+  "intro": "Lik se uzdigao iz najskromnijih početaka, sa sudbinom zapisanom u božanskoj volji. Skrivena u djetinjstvu i odgajana unutar zidova samog vladara koji je želio uništiti njihov narod, ova duša je na kraju pozvana na moćnu misiju. Opremljena samo vjerom i skromnim pastirskim štapom, stajala je pred najmoćnijim vladarom tog doba i zahtijevala slobodu za one koji su bili porobljeni. Činilo se da se sam svijet kreće po njihovoj zapovijedi - vode su se razdvojile, nebesa su progovorila i kraljevstvo je palo.",
+  "clues": [
+    "Moji najraniji dani bili su obilježeni strahom - bebe poput mene su progonjene odmah po rođenju od strane nemilosrdnog vladara koji se bojao budućnosti.",
+    "Spasila me voda i odgajala sam se u palati istog vladara koji je želio moje uništenje.",
+    "Pobjegao sam iz domovine nakon iznenadnog incidenta, postavši ponizni pastir u dalekoj zemlji.",
+    "Vratio sam se da se suočim s tim moćnim vladarom s jednostavnim štapom i jasnom porukom, zahtijevajući slobodu svog naroda.",
+    "Razdvojio sam veliku vodenu površinu za one koji su me slijedili i gledao kako te vode gutaju mog neprijatelja u cijelosti.",
+    "Popeo sam se na svetu planinu da primim božansko vodstvo od Allaha, i dato mi je devet jasnih znakova kao dokaz istine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Musa",
+        "Poslanik Nuh",
+        "Poslanik Ibrahim",
+        "Poslanik Jusuf",
+        "Poslanik Lut"
+      ],
+      "answer": "Poslanik Musa"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Suočavanje s faraonom na njegovom dvoru",
+        "Izgradnja Arke za preživljavanje velike poplave",
+        "Biti bačen u plamteću vatru od strane idolotvora",
+        "Spuštaju me braća u duboki bunar",
+        "Pokušavam spriječiti svoj narod u nemoralnom ponašanju"
+      ],
+      "answer": "Suočavanje s faraonom na njegovom dvoru"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Štap koji se pretvorio u zmiju",
+        "Nuhova barka",
+        "Prijestolje Bilqisa",
+        "Prsten koji je kontrolisao vjetar i džine",
+        "Ključevi do tako teških nagomilanih blaga"
+      ],
+      "answer": "Štap koji se pretvorio u zmiju"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Vodio sam svoj narod preko razdvojenih voda do slobode",
+        "Spašen je od velike poplave unutar Arke",
+        "Vraćen je zdravlju i porodici nakon teške patnje",
+        "Izbačen je živ iz velike ribe",
+        "Izgradio temelje Svete kuće"
+      ],
+      "answer": "Vodio sam svoj narod preko razdvojenih voda do slobode"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

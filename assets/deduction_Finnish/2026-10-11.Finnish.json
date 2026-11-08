@@ -1,0 +1,61 @@
+{
+  "title": "Ääni muinaisissa hiekoissa",
+  "intro": "Allahin varhaisimpien lähettiläiden joukossa oli yksi, jonka nimi loistaa lyhyesti mutta merkityksellisesti Koraanissa. Tämä henkilö eli kauan ennen kuin monia suuria profeettoja lähetettiin, ja hänet tunnettiin horjumattomasta totuudenmukaisuudesta ja kärsivällisyydestä. Heidän tarinansa on lyhyt, mutta heidän perintönsä säilyy ikuisissa aikakirjoissa. Kuka on tämä jalo sielu?",
+  "clues": [
+    "Olen yksi varhaisimmista sanansaattajista, jotka mainitaan lyhyesti mutta merkityksellisesti Koraanissa.",
+    "Luonteeni määritteli horjumaton sitoutuminen totuuteen.",
+    "Minut muistetaan Allahin kirjassa niiden joukossa, jotka olivat lujia ja kärsivällisiä.",
+    "Vain muutama lyhyt jae Koraanissa kertoo tarinani.",
+    "Allah kunnioitti minua tavalla, joka on ainutlaatuinen minulle, eikä sitä ole jaettu muiden profeettojen kanssa.",
+    "Minut nostettiin korkeaan asemaan, mikä on ainutlaatuinen kunnianosoitus Koraanissa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Idris",
+        "Profeetta Ilja",
+        "Dhul-Kifl",
+        "Profeetta Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Profeetta Idris"
+    },
+    "trial": {
+      "label": "Määrittävä hetki",
+      "options": [
+        "Allah nosti minut korkeaan asemaan",
+        "Rakensin suuren arkin pelastaakseni kansani",
+        "Haastin faaraon velhot",
+        "Veljeni heittivät minut kuoppaan",
+        "Menetin näköni surusta poikani takia"
+      ],
+      "answer": "Allah nosti minut korkeaan asemaan"
+    },
+    "location": {
+      "label": "Pyhä viite",
+      "options": [
+        "Suura Al-Anbiya",
+        "Suura Al-Kahf",
+        "Suura Taha",
+        "Suura Ash-Shu'ara",
+        "Suura Yasin"
+      ],
+      "answer": "Suura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Jumalallinen kunnia",
+      "options": [
+        "Korkea asema, jollaista ei ole toista",
+        "Jinnin ja tuulien hallinta",
+        "Verrattoman kirkkauden valtakunta",
+        "Perillinen vanhuudestani",
+        "Allahin kanssa sinetöity liitto"
+      ],
+      "answer": "Korkea asema, jollaista ei ole toista"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

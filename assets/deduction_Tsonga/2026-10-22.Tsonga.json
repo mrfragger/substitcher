@@ -1,0 +1,61 @@
+{
+  "title": "Ntlawa wa ku Tlula Nawu wo Sungula",
+  "intro": "Etikweni ra miti ya khale, vanhu va tshame va humelela. Va endzeriwe hi murhumiwa loyi a ri ni riqingho leri nga erivaleni, hambiswiritano va hundzukile va landzelela ndlela leyi a ku nga si tshama ku famba hi munhu. Ntsheketo wa vona i wa ku kaneta, ku tikhoma loko biha ni nxupulo lowu siyeke tiko ra rikwavo tanihi xikombiso eka hinkwavo lava anakanyisisaka. Xana mimoya-xiviri leyi i vamani?",
+  "clues": [
+    "A hi tshama emitini ya le rivaleni, laha muprofeta wa hina a hi vitaneke eku lulameni.",
+    "Hi hina vo sungula ku endla vudlakuta lebyi nga nyawuriki lebyi ku nga riki na munhu emisaveni hinkwayo loyi a tshameke a byi endla.",
+    "A hi hambanisa vafambi naswona a hi endla leswo biha erivaleni eminhlanganweni ya hina.",
+    "Hi ale murhumiwa loyi a rhumeriweke eka hina kutani hi n’wi xungeta hi ku n’wi hlongola etikweni ra hina.",
+    "Hi tsutsumele endlwini ya yena hi lava leswaku a nyiketa vaendzi va yena eka hina.",
+    "Nxupulo wa hina a ku ri mpfula ya maribye, naswona muti wa hina wu hundzuriwile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Vanhu va Lut",
+        "Vanhu va le Nuh",
+        "Vanhu va 'Ad",
+        "Vanhu va le Thamud",
+        "Vanhu va le Madyan"
+      ],
+      "answer": "Vanhu va Lut"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U endle xiendlo xo sungula xa vusodoma",
+        "Swifaniso leswi gandzeriwaka",
+        "Ku kanganyisiwile eka swa mabindzu",
+        "Va dlaye muprofeta wa vona",
+        "A va yingisanga vatswari va vona"
+      ],
+      "answer": "U endle xiendlo xo sungula xa vusodoma"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Muti wa rivala",
+        "Muti wa xihlovo",
+        "Doroba ra mugodi",
+        "Doroba ra ndlopfu",
+        "Muti wa ntanga"
+      ],
+      "answer": "Muti wa rivala"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Mpfula yi ne hi maribye yi tlhela yi hundzuluka",
+        "Ku nwela hi ndhambi",
+        "Ku lovisiwa hi moya wa matimba",
+        "Ku mitiwa hi misava",
+        "Ku hlaseriwa hi ku buluka lokukulu"
+      ],
+      "answer": "Mpfula yi ne hi maribye yi tlhela yi hundzuluka"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

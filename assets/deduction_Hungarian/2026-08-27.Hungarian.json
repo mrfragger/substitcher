@@ -1,0 +1,61 @@
+{
+  "title": "Az artikulált kiválasztott",
+  "intro": "Egy hegy árnyékában, ahol isteni szavak szálltak alá, egy nép hite megingott az arany csillogása alatt. Egy lélek, ékesszólással megáldva, egy nagyobb küldetés támaszaként állt, mégis mély próbatétel pillanatával nézett szembe. Amikor a kiválasztott hírnök felemelkedett szent feladatára, ez az alak hátramaradt, és könyörgött a nyugtalan nemzetnek. Ki ez a rendíthetetlen lélek, akinek hangja felemelkedett a bálványimádás ellen?",
+  "clues": [
+    "Allah engem választott prófétának, bár a történetemet gyakran egy másikkal együtt mesélik el.",
+    "Egy zsarnok uralkodóhoz küldtek, de az én szerepem a támogatás volt, nem a vezetés.",
+    "Ékesszólással voltam megáldva, és szavaim célja a szívek meglágyítása volt.",
+    "Amikor a társam elindult egy szent találkozóra, én maradtam, hogy vezessem a nyughatatlan népet.",
+    "Türelmetlenségükben ékszereikből szobrot kovácsoltak, én pedig könyörögtem nekik, hogy maradjanak hűek Allahhoz.",
+    "A társam visszatért és elfogott, de én elmondtam nekik, hogy az emberek legyűrtek és majdnem megöltek; én nem voltam a gonosztevők között."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes próféta",
+        "Harun próféta",
+        "Isa próféta",
+        "Jahja próféta",
+        "Zakariya próféta"
+      ],
+      "answer": "Harun próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Tűzbe dobva",
+        "Kútba vetve",
+        "Az aranyborjú incidensével szembenézni",
+        "Egy súlyos betegség próbája",
+        "A vagyon és a gyermekek elvesztésének próbája"
+      ],
+      "answer": "Az aranyborjú incidensével szembenézni"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az aranyborjú",
+        "A személyzet",
+        "A Frigyláda",
+        "A tabletták",
+        "Az égő csipkebokor"
+      ],
+      "answer": "Az aranyborjú"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Súlyosan megbüntették",
+        "Megbocsátott és felmentett",
+        "Királyt csinált",
+        "A mennybe vitték",
+        "Új szentírást kaptam"
+      ],
+      "answer": "Megbocsátott és felmentett"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

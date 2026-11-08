@@ -1,0 +1,61 @@
+{
+  "title": "Den dolda troende",
+  "intro": "I maktens överdådiga salar, där misstro och tyranni härskade, talade en ensam sanningens röst från en oväntad plats. Denna figur utmanade auktoriteten att skydda en budbärare och riskerade sin egen säkerhet för att förkunna sanningen.",
+  "clues": [
+    "Jag levde i ett land av stor tyranni och tjänade en härskare som gjorde anspråk på gudomlighet.",
+    "Jag höll mina sanna övertygelser dolda i många år, av rädsla för konsekvenserna av att avslöja dem.",
+    "När en budbärare kom med tydliga tecken, trodde jag, men mitt folk konspirerade mot honom.",
+    "Jag stod inför tyrannen och hans råd och argumenterade för att de inte borde döda en oskyldig budbärare.",
+    "Jag varnade dem för straffet för tidigare nationer som förkastade sanningen, liksom Noas och Ads folk.",
+    "Allah räddade mig från deras onda planer, och jag bevittnade den förtryckande regimens förintelse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Den troende i Faraos familj",
+        "Faraos magiker",
+        "Faraos visir",
+        "Faraos hustru",
+        "Faraos kassör"
+      ],
+      "answer": "Den troende i Faraos familj"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att försvara en profet mot avrättning",
+        "Att utmana en trollkarls trick",
+        "Bygga ett torn för att nå himlen",
+        "Delar havet för flykt",
+        "Att tolka en kungs dröm"
+      ],
+      "answer": "Att försvara en profet mot avrättning"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Faraos hov",
+        "Den brinnande busken",
+        "Guldkalven",
+        "Madyans brunn",
+        "Profeten Nuhs ark"
+      ],
+      "answer": "Faraos hov"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Räddad från skada medan förtryckarna förintades",
+        "Blev en mäktig härskare",
+        "Kastades i en eld och kom oskadd ut",
+        "Blev uppslukad av jorden",
+        "Vandrade i öknen i fyrtio år"
+      ],
+      "answer": "Räddad från skada medan förtryckarna förintades"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

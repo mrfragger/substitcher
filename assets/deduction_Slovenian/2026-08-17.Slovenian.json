@@ -1,0 +1,61 @@
+{
+  "title": "Prestopek ob obali",
+  "intro": "Stojiš na pesku pozabljene obale, kjer valovi šepetajo o skupnosti, preizkušeni z božanskim ukazom. Zrak je težak od spomina na kršitev, ki je vodila do osupljive preobrazbe. Kdo so bile te duše in kakšna je bila narava njihove preizkušnje?",
+  "clues": [
+    "Bili smo skupnost, ki je od našega Gospoda prejela jasno zapoved, a smo ji kljubovali.",
+    "Živeli smo blizu vodnega telesa in naše preživetje je bilo odvisno od njegovih bitij.",
+    "Preizkušnja nas je doletela na dan, ko nam je bilo zapovedano, naj se vzdržimo posvetnih prizadevanj.",
+    "Vodna bitja so se ravno tistega dne zbrala v velikem številu in nas skušala do onemoglosti.",
+    "Izmislili smo si zvit trik, da bi zaobšli božji ukaz, misleč, da lahko prelisičimo odlok.",
+    "Naša kršitev je privedla do ponižujoče preobrazbe; po Alahovem ukazu smo postali prezirane opice."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje sobote",
+        "Ljudje iz Rassa",
+        "Ljudje iz Tubbe",
+        "Ljudje iz jame",
+        "Spremljevalci jarka"
+      ],
+      "answer": "Ljudje sobote"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Pojav rib na soboto",
+        "Leto hude suše",
+        "Vojska ptic, poslana proti njim",
+        "Poplava, ki jih je preplavila",
+        "Silovit potres"
+      ],
+      "answer": "Pojav rib na soboto"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Morje",
+        "Gora",
+        "Jama",
+        "Puščavska dolina",
+        "Utrjeno mesto"
+      ],
+      "answer": "Morje"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Spremenjeni v opice",
+        "Požrla ga je zemlja",
+        "Uničen od kričečega vetra",
+        "Utopljen v morju",
+        "Zadet od kamnov"
+      ],
+      "answer": "Spremenjeni v opice"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

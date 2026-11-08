@@ -1,0 +1,61 @@
+{
+  "title": "Potilas yksi",
+  "intro": "Kauan sitten, ihmiskunnan historian alkuaikoina, kaksi sielua seisoi Luojansa edessä uhrilahjoineen. Toinen hyväksyttiin, toista ei. Seurauksesta tuli ensimmäinen suuri tragedia sisarusten välillä - yksi kärsivällisen pidättyvyyden teko ja yksi katkeran koston teko. Voitko paljastaa kuka olen?",
+  "clues": [
+    "Synnyin ihmiskunnan maanpäällisen olemassaolon ensimmäisinä päivinä",
+    "Olin aivan ensimmäisen ihmisparin lapsi, joka koskaan vaelsi tällä maan päällä",
+    "Kerran uhrasin parhaista laumastani Luojalleni miellyttääkseni",
+    "Tarjoukseni hyväksyttiin ylhäältä, kun taas sisarukseni tarjous hylättiin",
+    "Kun minua uhattiin kuolemalla, päätin olla nostamatta kättäni sisarustani vastaan.",
+    "Minusta tuli ensimmäinen ihminen koko ihmiskunnan historiassa, jonka toinen tappoi väärin perustein."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Habil (Abel), Aadamin poika",
+        "Qabil (Kain), Aadamin poika",
+        "Aadam, ensimmäinen ihminen",
+        "Nuh (Nooa)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), Aadamin poika"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ihmiskunnan historian ensimmäinen murha",
+        "Nuhin suuri tulva",
+        "Fir'awnin armeijan tuhoaminen",
+        "Ibrahimin uhraama Ismail",
+        "Taistelu Jalutia (Goljatia) vastaan"
+      ],
+      "answer": "Ihmiskunnan historian ensimmäinen murha"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Mieluisaksi uhriksi uhrattu lammas",
+        "Suuri puinen arkki",
+        "Sauva, joka muuttui käärmeeksi",
+        "Harjalintu kantaa kuninkaallista viestiä",
+        "Liekehtivä tulijuova"
+      ],
+      "answer": "Mieluisaksi uhriksi uhrattu lammas"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli ihmiskunnan historian ensimmäiseksi murhan uhriksi",
+        "Selviytynyt suuresta tulvasta puisen aluksen sisällä",
+        "Asui suuren kalan vatsassa",
+        "Hallitsi džinnien, ihmisten ja tuulen yli",
+        "Vaelsi neljäkymmentä vuotta laajassa erämaassa"
+      ],
+      "answer": "Tuli ihmiskunnan historian ensimmäiseksi murhan uhriksi"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

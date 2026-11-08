@@ -1,0 +1,61 @@
+{
+  "title": "Nádhera, která se potopila",
+  "intro": "Představte si to: duše oděná v nádherných šatech a obklopená poklady, které si nelze představit. Tato osoba věřila, že její bohatství si vydobyla vlastní genialitou, a nikdy neuznala zdroj skutečného zaopatření. Kráčeje mezi následovníky mocného proroka, tato osoba odmítla každou výzvu k pokoře. Dnes odhalujeme identitu postavy, jejíž velkolepé štěstí se stalo místem jejího posledního odpočinku.",
+  "clues": [
+    "Žil jsem v době proroka, který volal tvrdohlavý národ k pravdě.",
+    "Byl jsem součástí vyvoleného společenství, přesto se mé srdce odvrátilo od tohoto poselství.",
+    "Zlato a stříbro mě uchvátily více než jakýkoli božský příkaz.",
+    "Mé pokladnice se rozrostly tak, že silná skupina mužů sotva dokázala zvednout klíče.",
+    "Chlubil jsem se, že mé bohatství mi bylo dáno díky mým vlastním znalostem.",
+    "Nakonec mě i celé mé obydlí pohltila země jako varování."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Karun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Arogance nad bohatstvím a odmítání charity",
+        "Kování zlaté modly z roztavených šperků",
+        "Prohlašování božství nad mocným královstvím",
+        "Pronásledování raných věřících v Mekce",
+        "Vedení kampaně za zničení Posvátného domu"
+      ],
+      "answer": "Arogance nad bohatstvím a odmítání charity"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Poklady, jejichž klíče zatěžovaly mnoho silných mužů",
+        "Zlaté tele, které vydávalo zvuk",
+        "Slavný trůn z daleké země",
+        "Příkop plný planoucího ohně",
+        "Mocná armáda válečných slonů"
+      ],
+      "answer": "Poklady, jejichž klíče zatěžovaly mnoho silných mužů"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Pohlceno zemí spolu s příbytkem",
+        "Utopený v moři s armádou",
+        "Zaživa upálen v ohnivé jámě",
+        "Zničen vyjícím, zuřícím větrem",
+        "Sražen jediným mohutným výbuchem"
+      ],
+      "answer": "Pohlceno zemí spolu s příbytkem"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

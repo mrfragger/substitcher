@@ -1,0 +1,61 @@
+{
+  "title": "Umthwalo Wesipho Esenqatshiwe",
+  "intro": "Ekuqaleni komlando wesintu, lapho umhlaba usemusha futhi umhlaba ubambe umoya wawo wokuqala, umphefumulo wema phambi koMdali nomnikelo othobekile. Lowo mnikelo walinganiswa esilinganisweni sokwamukelwa kwaphezulu - futhi watholakala untula. Okwalandela kwakungeyona indaba yokuthethelela, kodwa yenhliziyo egcwele umona, okwaholela esenzweni esingenakuguqulwa esasizohlala sikhona. Lena indaba yomuntu ogama lakhe lahlotshaniswa nokungabi nabulungisa kokuqala okukhulu okwake kwenziwa.",
+  "clues": [
+    "Ngazalwa njengomunye wabantwana bokuqala ukuzalwa, ngazalwa ngumzali oyazi kahle indaba yakhe.",
+    "Ngake nganikela umhlatshelo ku-Allah, kodwa awuzange wamukelwe yimi — yize umnikelo womfowethu wamukelwa ngomusa.",
+    "Umona nentukuthelo kwagxila enhliziyweni yami, futhi ngasongela ukuqeda impilo yezihlobo zami.",
+    "Umfowethu wangixwayisa ukuthi ngesabe u-Allah, kodwa ukuqhosha kwami ​​​​kwakungavumi ukuthi ngilalele.",
+    "Ngesikhathi sobuthakathaka obukhulu, ngenza isenzo esingenakuchazeka kumfowethu.",
+    "Ngemva kwalokho, angizange ngazi nokuthi ngingakufihla kanjani engangikwenzile — kwaze kwaba yilapho kuthunyelwa isidalwa somhlaba ukuzongifundisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UQabil (uKhayini)",
+        "UHabil (u-Abela)",
+        "Indodana yoMprofethi uNuh",
+        "Umprofethi u-Isma'il",
+        "Umprofethi uYusuf"
+      ],
+      "answer": "UQabil (uKhayini)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukunikela ngomhlatshelo owenqatshwa, okwaholela ekubulaweni kokuqala",
+        "Ukwakha umbhoshongo ophakeme ukuze ufinyelele ezulwini",
+        "Ukuphonswa emlilweni ovuthayo ngenxa yokholo lomuntu",
+        "Ukunikela ngendodana yakho ngokulalela u-Allah",
+        "Ukugwinywa yinhlanzi enkulu ngenxa yokubalekela umsebenzi wakho"
+      ],
+      "answer": "Ukunikela ngomhlatshelo owenqatshwa, okwaholela ekubulaweni kokuqala"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Igwababa elithunyelwe ngu-Allah ukuzobonisa umngcwabo",
+        "Isikhukhula esikhulu esaminza abantu bonke",
+        "Intonga eyaphenduka inyoka ephilayo",
+        "Ikamela lensikazi elaphuma entabeni yedwala",
+        "Isihlalo sobukhosi esihle kakhulu esithwalwa yimimoya enamandla"
+      ],
+      "answer": "Igwababa elithunyelwe ngu-Allah ukuzobonisa umngcwabo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waba ngowokuzisola, osindwa yicala lokuqala elenziwe",
+        "Wathethelelwa ngu-Allah futhi wanikwa iPharadesi laphakade",
+        "Wakhuliswa waba yisiprofetho nokuhlakanipha okuphezulu",
+        "Wasindiswa ngesihe sikaNkulunkulu ngemva kokumemeza ebumnyameni obukhulu",
+        "Wanikwa ukubusa phezu kwama-jinn, umoya, kanye nolwandle"
+      ],
+      "answer": "Waba ngowokuzisola, osindwa yicala lokuqala elenziwe"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

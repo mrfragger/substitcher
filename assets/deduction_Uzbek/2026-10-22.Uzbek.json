@@ -1,0 +1,61 @@
+{
+  "title": "Birinchi jinoyat hamjamiyati",
+  "intro": "Qadimgi shaharlar diyorida bir xalq gullab-yashnagan. Ularga aniq chaqiriq bilan xabarchi tashrif buyurgan, ammo ular yuz o'girib, hech kim yurmagan yo'ldan ketishgan. Ularning hikoyasi itoatsizlik, buzuqlik va o'z vatanlarini mulohaza qiluvchilar uchun ibrat sifatida qoldirgan jazo haqida. Bu ruhlar kimlar?",
+  "clues": [
+    "Biz payg'ambarimiz bizni solihlikka chaqirgan tekislikdagi shaharlarda yashardik.",
+    "Biz butun olamlarda hech kim qilmagan fahsh ishlarni birinchi bo'lib qildik.",
+    "Biz sayohatchilarni yo'ldan ozdirdik va majlislarimizda ochiqchasiga yomonlik qildik.",
+    "Bizga yuborilgan elchini rad etdik va uni yurtimizdan quvib chiqarish bilan tahdid qildik.",
+    "Biz uning uyiga yugurib borib, mehmonlarini bizga topshirishni talab qildik.",
+    "Bizning jazomiz tosh yomg'iri edi va shahrimiz ag'dar-to'ntar bo'ldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Lut qavmi",
+        "Nuh qavmi",
+        "Ad qavmi",
+        "Samud qavmi",
+        "Madyan xalqi"
+      ],
+      "answer": "Lut qavmi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Birinchi sodomiya harakatini sodir etgan",
+        "Sig'inilgan butlar",
+        "Savdoda aldangan",
+        "Payg'ambarlarini o'ldirdilar",
+        "Ota-onalariga itoatsizlik qilishdi"
+      ],
+      "answer": "Birinchi sodomiya harakatini sodir etgan"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tekislik shahri",
+        "Quduq shahri",
+        "Xandaq shahri",
+        "Fil shahri",
+        "Bog' shahri"
+      ],
+      "answer": "Tekislik shahri"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Toshlar bilan yomg'ir yog'di va ag'darildi",
+        "To'fon ostida cho'kib ketgan",
+        "Kuchli shamol tomonidan vayron qilingan",
+        "Yer tomonidan yutib yuborilgan",
+        "Kuchli portlashdan ta'sirlangan"
+      ],
+      "answer": "Toshlar bilan yomg'ir yog'di va ag'darildi"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

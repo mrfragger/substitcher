@@ -1,0 +1,61 @@
+{
+  "title": "Vocator e Profundo",
+  "intro": "Finge animam cui divinum nuntium commissa est, quae tamen, momento festinationis, a populo suo sine expressa permissione discessit. Hoc iter eos in extraordinariam probationem duxit, profundam patientiae et fiduciae in Altissimum probationem. Quis est hic homo cuius historia nos de paenitentia et immensitate misericordiae Dei docet?",
+  "clues": [
+    "Ad magnam gentem missus sum, sed prima eorum reiectio mihi dolorem attulit.",
+    "Reliqui meos, credens munus meum perfectum esse, antequam clarum discedendi mandatum accepi.",
+    "Navi navem quaesivi, sed tempestas gravis et sortitio rem gravem duxerunt.",
+    "Proiectus sum in mare, et bestia gravis profundi me totum absorbuit.",
+    "In tenebris ventris eius, ad Allah clamavi, errorem meum confitens et veniam eius petens.",
+    "Allah bestiae imperavit ut me in litus proiceret, et sub planta quadam unica sanitati restitutus sum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Yusuf (Iosephus)",
+        "Propheta Nuh (Noah)",
+        "Propheta Yunus (Ionas)",
+        "Propheta Sulaiman (Salomon)",
+        "Propheta Ayyub (Iob)"
+      ],
+      "answer": "Propheta Yunus (Ionas)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Maris divisio",
+        "Ignis Nimrodi",
+        "Ab magno pisce deglutitus",
+        "Diluvium",
+        "Destructio urbis lapidibus"
+      ],
+      "answer": "Ab magno pisce deglutitus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Venter piscis",
+        "Puteus",
+        "Rubus ardens"
+      ],
+      "answer": "Venter piscis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Magnus princeps factus est",
+        "Kaaba aedificavit",
+        "Reditus ad ducendam gentem paenitentem",
+        "Dominium super jinn datum est",
+        "Populum trans desertum duxit"
+      ],
+      "answer": "Reditus ad ducendam gentem paenitentem"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

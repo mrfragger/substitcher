@@ -1,0 +1,61 @@
+{
+  "title": "Ding Talaingat ning Hardin",
+  "intro": "King metung a malabung a mula, ing metung a komunidad ginawa yang solemning panata. Pero ing karelang determinasyun mesubukan ya inyang ing banal a kaburian mekialam ya, at gewa na ing karelang kayapan king metung a gabun a alang tanaman.",
+  "clues": [
+    "Bendisyunan na kami ning dakal a mula, oneng meging mayabang kami.",
+    "Megplanu kaming mamupul alang pamidake kareng pakakalulu.",
+    "Miglakbe kaming maranun, tiwala keng kekaming planu.",
+    "Pero inyang miras kami, ikit mi na mesira ya ing kekaming hardin kilub ning bengi.",
+    "abalu mi ing kekaming kamalian at megumpisa kaming misisi king metung at metung.",
+    "Megsisi kami keng tauli, pero ing aral mebalu ya masyadung malambat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Tamu?",
+      "options": [
+        "Tau ning Hardin",
+        "Tau ning Kueba",
+        "Tau ning Elepante",
+        "Deng tau ning Thamud",
+        "Tau ning 'Ad"
+      ],
+      "answer": "Tau ning Hardin"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Ing hardin meging abu",
+        "Albug a sinira king sabla",
+        "Ing danup a menabu king labuad",
+        "metung a hukbu da reng ayup a lulusub",
+        "Maragul a angin a mekapag-ugat kareng dutung"
+      ],
+      "answer": "Ing hardin meging abu"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "metung a hardin",
+        "metung a kueba",
+        "metung a barko",
+        "metung a bunduk",
+        "metung a palasyu"
+      ],
+      "answer": "metung a hardin"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Megsisi la pero mewala ing garden da",
+        "Mesira lang lubus",
+        "Meging unggoy la",
+        "Miligtas la king kapamilatan na ning kasalpantayanan",
+        "Ila ding meging pekapun"
+      ],
+      "answer": "Megsisi la pero mewala ing garden da"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

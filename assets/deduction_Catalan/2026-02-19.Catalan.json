@@ -1,0 +1,61 @@
+{
+  "title": "La bogeria de la gran ambició",
+  "intro": "Embarca't en un viatge per descobrir la identitat d'una entitat col·lectiva els plans audaços de la qual van trobar un final inesperat i poderós. Aquesta narrativa serveix com un profund recordatori del poder diví i la fragilitat del poder mundà quan s'oposa al sagrat. Descobreix el misteri d'aquest grup, la història del qual està gravada a l'Alcorà com a advertència per a tots els que busquen transgredir.",
+  "clues": [
+    "Acolliem una gran ambició, creient que el nostre poder no tenia rival, i vam emprendre un viatge amb un objectiu clar i destructiu.",
+    "El nostre líder, ple d'arrogància, va intentar profanar una Casa sagrada venerada per molts, amb l'objectiu de desviar el pelegrinatge cap a una estructura construïda per nosaltres.",
+    "Des d'una terra llunyana, vam marxar amb una força massiva, confiant en la nostra capacitat per desmantellar l'antic edifici de la Ciutat Santa.",
+    "El nostre exèrcit era formidable, encapçalat per criatures magnífiques, un espectacle que rarament, o mai, havien vist en una campanya així pels habitants de la terra que vam envair.",
+    "Quan vam arribar a la nostra destinació, es va produir una intervenció divina; van aparèixer petites criatures alades que ens van llançar pedres d'argila cuita.",
+    "Tota la nostra expedició va tenir un final devastador, deixant la nostra formidable força completament aniquilada, com la palla mastegada, i el nostre gran pla reduït a pols."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent de Thamud",
+        "Gent d'Ad",
+        "Gent de Sodoma",
+        "Gent de l'elefant",
+        "Gent del Jardí"
+      ],
+      "answer": "Gent de l'elefant"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "El Gran Diluvi",
+        "La campanya contra la Kaaba",
+        "La destrucció dels ídols",
+        "La divisió del mar",
+        "El terratrèmol de Madian"
+      ],
+      "answer": "La campanya contra la Kaaba"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "La Kaaba",
+        "El vedell d'or",
+        "El foc"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Salvació divina",
+        "Un llarg període de prosperitat",
+        "Conversió a l'Islam",
+        "Destrucció absoluta",
+        "Exiliats de la seva terra"
+      ],
+      "answer": "Destrucció absoluta"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

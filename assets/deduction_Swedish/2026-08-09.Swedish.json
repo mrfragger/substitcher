@@ -1,0 +1,61 @@
+{
+  "title": "Den sanningsenliga rösten från forntiden",
+  "intro": "Det finns en själ i Koranen vars historia berättas i bara några få verser, men deras ädla egenskaper lyser igenom med strålande klarhet. Prisad av den Allsmäktige för en speciell dygd, har denna forntida tjänare till den Barmhärtige en plats i uppenbarelsens sidor. Din uppgift är att identifiera denna anmärkningsvärda figur. Kan du gissa vilka de är?",
+  "clues": [
+    "Jag är en profet till Allah som levde bland mänsklighetens tidiga generationer.",
+    "Allah nämnde mig i Sin bok tillsammans med andra profeter, alla prisade för samma ädla dygd.",
+    "Jag beskrivs som en sanningens man i Koranen.",
+    "Allah upphöjde mig till en hög ställning som få andra har uppnått.",
+    "Mitt namn nämns i Surah Al-Anbiya, grupperat med två andra profeter som hyllas för sitt tålamod.",
+    "Jag är Idris, den sannfärdige och upphöjde profeten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Idris",
+        "Profeten Nuh",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Ismail"
+      ],
+      "answer": "Profeten Idris"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Bevarade tålamod och ärlighet, och sedan upphöjd till en hög ställning",
+        "Bygga en stor ark för att rädda de troende från en förödande översvämning",
+        "Att kastas in i en flammande eld och komma ut helt oskadd",
+        "Att konfrontera en mäktig kung och besegra hans armé av magiker",
+        "Att överleva inuti magen på en stor fisk i havets djup"
+      ],
+      "answer": "Bevarade tålamod och ärlighet, och sedan upphöjd till en hög ställning"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En hög och upphöjd ställning hos Allah",
+        "Ett massivt skepp byggt av plankor och täckt med tjära",
+        "En rasande eld underblåst av en ond kungs avgudadyrkare",
+        "Ett vidsträckt hav som delade sig i torra stigar",
+        "Den mörka magen på en stor val på havets botten"
+      ],
+      "answer": "En hög och upphöjd ställning hos Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Upptagen i Allahs nåd som en av de rättfärdiga",
+        "Räddad tillsammans med alla troende från en världsomfattande översvämning",
+        "Gick ut ur lågorna oberörd av elden",
+        "Ledde Israels barn säkert till frihet över havet",
+        "Återförenade med sin älskade familj efter många års svårigheter"
+      ],
+      "answer": "Upptagen i Allahs nåd som en av de rättfärdiga"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Merkki kivien joukossa",
+  "intro": "Maassa, jossa vuoriin oli hakattu koteja, saapui sanansaattaja, jolla oli ihmeellinen merkki Allahilta. Ihmiset vaativat todisteita, ja he saivat kalliosta tehdyn olennon. Mutta heidän ylimielisyytensä sai heidät uhmaamaan varoitusta, mikä sinetöi heidän kohtalonsa.",
+  "clues": [
+    "Minut lähetettiin kansan luo, joka asui vuoriin hakatuissa asunnoissa.",
+    "He haastoivat minut tuomaan kyltin, joten kaivoin kamelin kalliosta.",
+    "Käskin heidän antaa kamelin juoda vapaasti eikä vahingoittaa sitä.",
+    "He eivät totelleet ja katkaisivat kamelin kinnerjänteet uhmaten varoitustani.",
+    "Ilmoitin, että rangaistus tulisi kolmen päivän kuluttua.",
+    "Aamulla voimakas räjähdys tuhosi heidät, mutta minä ja seuraajani pelastuimme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Salih",
+        "Profeetta Hud",
+        "Profeetta Lut",
+        "Profeetta Shu'ayb",
+        "Profeetta Ibrahim"
+      ],
+      "answer": "Profeetta Salih"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Naaraskameli kalliolta",
+        "Kultaisen vasikan kysyntä",
+        "Taivaasta levinneen pöydän kysyntä",
+        "Tulvan kysyntä",
+        "Vaatimus sauvan muuttumisesta käärmeeksi"
+      ],
+      "answer": "Naaraskameli kalliolta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Naaraskameli ja sen vasikka",
+        "Nooan arkki",
+        "Mooseksen sauva",
+        "Kultainen vasikka",
+        "Ibrahimin tuli"
+      ],
+      "answer": "Naaraskameli ja sen vasikka"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuhoutui voimakkaan räjähdyksen seurauksena",
+        "Hukkui tulvaan",
+        "Maan nielaisema",
+        "Muuttuivat apinoiksi",
+        "Rajun tuulen tuhoama"
+      ],
+      "answer": "Tuhoutui voimakkaan räjähdyksen seurauksena"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

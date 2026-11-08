@@ -1,0 +1,61 @@
+{
+  "title": "Der standhafte Zeuge",
+  "intro": "Eine tiefgründige Erzählung entfaltet sich und offenbart die unerschütterliche Entschlossenheit einer Gemeinschaft angesichts immenser Tyrannei. Ihre Geschichte ist ein Zeugnis des Glaubens, selbst angesichts des höchsten Opfers. Dieser Bericht erinnert uns an die Kraft des Glaubens gegen überwältigende Unterdrückung.",
+  "clues": [
+    "Wir waren eine Gruppe, deren Geschichte in einer kurzen, aber eindringlichen Sure erzählt wird, die vor Verfolgung warnt.",
+    "Wir standen einem Herrscher gegenüber, der unseren Glauben an den einen Gott, den Herrn des Thrones, den Lobenswerten, auslöschen wollte.",
+    "Wir wurden einer furchtbaren Prüfung unterzogen, bei der eine riesige Grube in die Erde gegraben wurde.",
+    "Wir sahen zu, wie Gläubige, darunter auch Säuglinge, in ein wütendes Inferno in dieser Grube geworfen wurden.",
+    "Unsere Peiniger wurden für ihre Taten verflucht, uns hingegen wurde für unsere Standhaftigkeit eine immense Belohnung versprochen.",
+    "Der Versuch des Herrschers, unseren Glauben auszulöschen, hat unseren Platz als Märtyrer in den Augen Allahs, des Zeugen aller Dinge, nur gefestigt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Volk der Thamud",
+        "Leute von 'Ad",
+        "Leute aus dem Graben",
+        "Volk von Lut",
+        "Menschen des Elefanten"
+      ],
+      "answer": "Leute aus dem Graben"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die große Flut",
+        "Der brennende Busch",
+        "Das Ertrinken im Meer",
+        "Die Feuergrube",
+        "Das Erdbeben"
+      ],
+      "answer": "Die Feuergrube"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Der Graben",
+        "Der Berg",
+        "Der Brunnen"
+      ],
+      "answer": "Der Graben"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Uns wurde ein Königreich gewährt",
+        "Wir wurden durch ein Wunder gerettet",
+        "Erreichte das Martyrium und das Paradies",
+        "Waren über die Länder verstreut",
+        "Uns wurde immenser Reichtum zuteil"
+      ],
+      "answer": "Erreichte das Martyrium und das Paradies"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

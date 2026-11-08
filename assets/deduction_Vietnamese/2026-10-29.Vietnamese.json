@@ -1,0 +1,61 @@
+{
+  "title": "Một lời cảnh báo nhỏ trước khi đoàn quân diễ hành",
+  "intro": "Hãy bước vào một thung lũng nơi một vị vua hùng mạnh cùng một đạo quân hùng hậu đang tiến đến, và hình dung một lữ khách nhỏ bé đưa ra lời cảnh báo cứu sống cả một cộng đồng. Khi cộng đồng bị đe dọa tìm được nơi trú ẩn an toàn, mối nguy hiểm đã qua đi. Hãy lần theo manh mối để tìm ra nhân vật bị lãng quên đứng sau lời cảnh báo đó.",
+  "clues": [
+    "Tôi là một trong những sinh vật nhỏ bé gắn liền với vương quốc của một vị vua.",
+    "Cộng đồng của tôi sống trong những ngôi nhà nằm sâu trong thung lũng, nơi một người trong chúng tôi có thể gọi những người khác.",
+    "Chúng ta đang đối mặt với mối đe dọa từ vị vua đó và đội quân đi cùng vua.",
+    "Tôi là người kêu gọi cộng đồng trở về nhà và cảnh báo chúng ta đừng để bị nghiền nát một cách bất ngờ.",
+    "Người cai trị là Sulayman, và loài của tôi nằm trong số những sinh vật đặt dưới quyền chỉ huy của ông ta.",
+    "Tôi là con kiến ​​của thung lũng đó; sau lời cảnh báo của tôi, chúng tôi đã trở về tổ và thoát khỏi sự giẫm đạp mà nếu không thì chúng tôi đã bị bất ngờ ập đến."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Con kiến ​​của thung lũng",
+        "Chim mào",
+        "Con quạ",
+        "Con rắn",
+        "Con la"
+      ],
+      "answer": "Con kiến ​​của thung lũng"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Một lời cảnh báo đã cứu sống cả một đàn kiến.",
+        "Lời thỉnh cầu chiếc nhẫn từ một con cá",
+        "Cuộc tìm kiếm chiếc ngai vàng bị mất tích",
+        "Giải cứu đôi mắt bị đánh cắp",
+        "Từ chối ăn thức ăn của người cai trị."
+      ],
+      "answer": "Một lời cảnh báo đã cứu sống cả một đàn kiến."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thung lũng kiến",
+        "Chiếc nhẫn ấn tín của Sulayman",
+        "Chiếc áo sơ mi dính máu của Yusuf",
+        "Con bê vàng của cuộc Xuất Hành",
+        "Cây gậy của Musa"
+      ],
+      "answer": "Thung lũng kiến"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Cộng đồng đã được an toàn sau khi tìm nơi trú ẩn.",
+        "Cộng đồng bị tàn phá mà không kịp tìm nơi trú ẩn.",
+        "Cộng đồng dân cư được an toàn vì quân đội đã rút lui.",
+        "Cộng đồng được tưởng thưởng bằng quyền kiểm soát các loài chim.",
+        "Cộng đồng này bị bắt giữ và đưa đến triều đình."
+      ],
+      "answer": "Cộng đồng đã được an toàn sau khi tìm nơi trú ẩn."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

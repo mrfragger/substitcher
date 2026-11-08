@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Marary",
+  "intro": "Fahiny ela be, tany am-piandohan'ny tantaran'ny olombelona, ​​dia nisy fanahy roa nijoro teo anatrehan'ny Mpamorona azy nitondra fanatitra. Ny iray nekena, ny iray tsia. Ny zavatra nanaraka izany dia ho lasa loza lehibe voalohany teo amin'ny iray tampo - fihetsika iray naneho faharetana sy fihetsika iray naneho valifaty mangidy. Azonao fantarina ve hoe iza aho?",
+  "clues": [
+    "Teraka tamin'ireo andro voalohandohany nisian'ny olombelona teto an-tany aho",
+    "Zanak'ireo olombelona roa voalohany indrindra niaina teto an-tany aho",
+    "Nanatitra fanatitra avy amin'ny tsara indrindra tamin'ny ondriko aho indray mandeha mba hampifaliana ny Mpamorona ahy",
+    "Neken'ny ambony ny fanatitra nataoko, raha nolavina kosa ny fanatitry ny iray tampo amiko.",
+    "Rehefa norahonana ho faty aho dia naleoko tsy naninjitra ny tanako hamely ny iray tampo amiko",
+    "Izaho no olona voalohany teo amin'ny tantaran'ny olombelona novonoin'ny hafa tsy ara-drariny"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Habila (Abela), zanak'i Adama",
+        "Qabil (Kaina), zanak'i Adama",
+        "Adama, ilay olombelona voalohany",
+        "Noa (Noa)",
+        "Ibrahim (Abrahama)"
+      ],
+      "answer": "Habila (Abela), zanak'i Adama"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny famonoana olona voalohany teo amin'ny tantaran'ny olombelona",
+        "Ny tondra-drano lehibe tao Noa",
+        "Ny fandringanana ny tafik'i Firaun",
+        "Ny sorona nataon'i Ibrahim an'i Ismail",
+        "Ny ady tamin’i Jalut (Goliata)"
+      ],
+      "answer": "Ny famonoana olona voalohany teo amin'ny tantaran'ny olombelona"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ondry natolotra ho fanatitra ankasitrahana",
+        "Vata hazo lehibe iray",
+        "Tehina niova ho menarana",
+        "Vorona hoopoe mitondra hafatra avy amin'ny mpanjaka",
+        "Hady mirehitra afo"
+      ],
+      "answer": "Ondry natolotra ho fanatitra ankasitrahana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Lasa niharan'ny vonoan'olona voalohany teo amin'ny tantaran'ny olombelona",
+        "Tafavoaka velona tamin'ny tondra-drano lehibe tao anaty sambo hazo",
+        "Niaina tao an-kibon'ny trondro lehibe iray",
+        "Nanjaka tamin'ny jiny, ny olombelona ary ny rivotra",
+        "Nirenireny nandritra ny efapolo taona tany an'efitra midadasika"
+      ],
+      "answer": "Lasa niharan'ny vonoan'olona voalohany teo amin'ny tantaran'ny olombelona"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yo'qolgan mislsiz ulug'vorlik shahri",
+  "intro": "Bir vaqtlar osmonga cho'zilgan ulkan inshootlari bilan mashhur bo'lgan qudratli tsivilizatsiya yer yuzining ulkan hududlariga hukmronlik qilgan. Ammo bu ulug'vorlik ostida o'jarlik inkori kuchaydi - jamiyatning o'zidan yuborilgan ilohiy ogohlantirishga quloq solishdan bosh tortish. Mag'rurlik va takabburlik tez orada yer ham, osmon ham ko'rmagan jazoni keltirib chiqaradi.",
+  "clues": [
+    "Biz bir vaqtlar Yer yuzining ulkan hududlarida hukmronlik qilganmiz va boshqa hech bir tsivilizatsiya teng kela olmasligiga ishongan kuchimiz bilan maqtanardik.",
+    "Bizning olamimiz barcha ma'lum yerlarda tengsiz bo'lib turgan qudratli ustunlarga ega baland inshootlar bilan mashhur edi.",
+    "O'z jamoamizdan bir ogohlantiruvchi o'rnidan turib, har birimizni faqat Yagona Yaratguvchiga bo'ysunishga undadi.",
+    "Bizga yetkazilgan xabarni rad etdik va meros qilib olgan yo'ldan voz kechishdan bosh tortdik.",
+    "Bizga qarshi g'azablangan, uvillagan shamol bizni butunlay himoyasiz qoldirdi.",
+    "Biz har bir avlod uchun saboq bo'lishi uchun, ichi bo'sh palma daraxtlari tanasi kabi tarqoq va unutilgan holda qoldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Od qavmi",
+        "Nuh qavmi",
+        "Lut qavmi",
+        "Madyan xalqi",
+        "Tubba qavmi"
+      ],
+      "answer": "Od qavmi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Qattiq jazoning tinimsiz g'azablangan shamoli",
+        "Har bir tog' cho'qqisini qoplagan toshqin",
+        "Yuqoridan yonayotgan loy toshlari yomg'iri",
+        "Osmondan bitta dahshatli qichqiriq",
+        "Yerni ikkiga bo'lib yuborgan kuchli zilzila"
+      ],
+      "answer": "Qattiq jazoning tinimsiz g'azablangan shamoli"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Iram, baland ustunlar shahri",
+        "Tog' ustiga qurilgan ulkan yog'och kema",
+        "Mo''jizaviy tarzda toshdan chiqqan urg'ochi tuya",
+        "Ilohiy amrlar tushgan Sinay tog'i",
+        "Oqayotgan suvlarga qaragan billur va nozik shishadan yasalgan saroy"
+      ],
+      "answer": "Iram, baland ustunlar shahri"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Xurmo daraxtlarining ichi bo'sh tanalari kabi sochilib, jonsiz holda qoldilar.",
+        "Katta suv toshqini to'lqinlari ostida cho'kib ketdi",
+        "Maymun va cho'chqaga o'xshash jonzotlarga aylantirildi",
+        "Qattiqlashgan loy toshlar yomg'iri ostida ezilgan",
+        "Ruhni teshib o'tgan bitta kar qiluvchi faryodda yo'q qilindi"
+      ],
+      "answer": "Xurmo daraxtlarining ichi bo'sh tanalari kabi sochilib, jonsiz holda qoldilar."
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

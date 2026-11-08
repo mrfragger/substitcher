@@ -1,0 +1,61 @@
+{
+  "title": "Los habitantes de los dos jardines",
+  "intro": "En una tierra donde las bendiciones abundaban, una comunidad disfrutaba de la generosidad de dos magníficos jardines. Sus vidas eran testimonio del favor divino, pero su historia dio un giro cuando la gratitud disminuyó, dando lugar a una transformación que se convertiría en un mensaje perdurable para todos aquellos que reflexionan.",
+  "clues": [
+    "Éramos un pueblo bendecido con una tierra de facilidad y abundancia.",
+    "Nuestro Señor nos concedió dos espléndidos jardines, exuberantes y fértiles por doquier.",
+    "Se nos ordenó ser agradecidos, pero elegimos la ingratitud y dimos la espalda.",
+    "Una gran represa contenía las aguas que daban vida a nuestra tierra.",
+    "Cuando persistimos en nuestras malas acciones, la presa se rompió y las aguas de la inundación arrasaron con todo.",
+    "Nuestros jardines, antaño exuberantes, fueron sustituidos por frutos amargos, tamariscos y algunos árboles de loto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El pueblo de Saba",
+        "El pueblo de Thamud",
+        "El pueblo de Madyan",
+        "Los compañeros de la cueva",
+        "El pueblo del elefante"
+      ],
+      "answer": "El pueblo de Saba"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Un viento violento durante siete noches.",
+        "Una lluvia de piedras del cielo",
+        "Una inundación devastadora provocada por la rotura de una presa.",
+        "Un fuerte chillido desde el cielo",
+        "Ahogándose en el mar"
+      ],
+      "answer": "Una inundación devastadora provocada por la rotura de una presa."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La gran presa de Ma'rib",
+        "El valle de Wadi al-Qura",
+        "El jardín de Iram",
+        "El pozo de Zamzam",
+        "El monte Sinaí"
+      ],
+      "answer": "La gran presa de Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Nuestros jardines fueron reemplazados por frutos amargos y árboles dispersos.",
+        "Fuimos engullidos por la tierra en un terremoto.",
+        "Nos transformamos en monos y cerdos.",
+        "Nos ahogamos en una gran inundación.",
+        "Fuimos destruidos por una lluvia de piedras."
+      ],
+      "answer": "Nuestros jardines fueron reemplazados por frutos amargos y árboles dispersos."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Mura i Whakakite i te Taonga Tuku Iho",
+  "intro": "I roto i ngā pukapuka o te ātete, kei reira tētahi tangata e tū ana, ko tōna ingoa tonu i waiho hei whakatūpato mō te mutunga o te wā. I whiriwhiria e tēnei tangata te mauahara i te whanaungatanga, te whakakeke i te ngohengohe, ā, i tū hei whakahē i te karanga aroha. Whakarongo mai ki ngā reo o tētahi panuitanga tawhito i a tātou e huraina ana te tuakiri o tēnei wairua kino.",
+  "clues": [
+    "I whānau mai ahau i roto i te iwi kotahi me te karere whakamutunga a Allah, heoi i tū atu ahau ki a rātou i ngā wā katoa.",
+    "He ingoa tōku—he ingoa e tohu ana i tōku mutunga mutunga kore.",
+    "I tukuna e au te kino ki te kaimau o te pono, ā, i uru mai hoki tōku ake whare ki tēnei pakanga nanakia.",
+    "I whakamahia e au aku taonga me tōku mana ki te whakamutu i te karanga ki a Allah, me te whakapono ka taea e te moni te tineia te māramatanga atua.",
+    "I whakatapua e Allah tētahi upoko katoa māku—he upoko poto rawa e taea ai te whakahua i roto i ngā hēkona, engari ka mau tonu tōna taumaha tae noa ki te Rā Whakawakanga.",
+    "Kei muri i ahau taku hoa i te ao tūroa, e here ana ki te taura muka i te kaki, e waha ana i ngā tataramoa i horahia e rātou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Āpu Rāhapi",
+        "Āpu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Āpu Rāhapi"
+    },
+    "trial": {
+      "label": "Te Whakamārama i te Pakanga",
+      "options": [
+        "Te ārahi i te whakahē ki te Poropiti i Meka",
+        "Te hekenga ki Āpihia kia mawhiti atu i te whakatoi",
+        "Te hanga i te Kaaba me te Poropiti a Ihāperama",
+        "Te whakaae ki te Ihirama i runga i te moenga mate",
+        "Te Hanga i te Tiriti o Hudaybiyyah"
+      ],
+      "answer": "Te ārahi i te whakahē ki te Poropiti i Meka"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He wahine i amo i ngā tataramoa me ngā wahie",
+        "He tokotoko i huri hei nakahi",
+        "He mowhiti kei runga te hiri a Horomona",
+        "He kuao kau koura i karakiatia e te iwi",
+        "He puna wai i pupu ake"
+      ],
+      "answer": "He wahine i amo i ngā tataramoa me ngā wahie"
+    },
+    "outcome": {
+      "label": "Te Whakataunga Whakamutunga",
+      "options": [
+        "I whakakitea mai tētahi surah katoa e kī ana i te whakangaromanga katoa",
+        "I noho hei kaiārahi mō te hapori Mahometa",
+        "I whiwhi murunga hara i te wā o te matenga",
+        "I hanga he whare karakia nui i Medina",
+        "I ara ake i roto i te hunga tika"
+      ],
+      "answer": "I whakakitea mai tētahi surah katoa e kī ana i te whakangaromanga katoa"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

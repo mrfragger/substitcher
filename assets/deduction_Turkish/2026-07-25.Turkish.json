@@ -1,0 +1,61 @@
+{
+  "title": "İki Bahçenin Sakinleri",
+  "intro": "Bereketin bolca aktığı bir diyarda, bir zamanlar iki muhteşem bahçenin nimetlerinden faydalanan bir topluluk vardı. Hayatları ilahi lütfun bir kanıtıydı, ancak şükran duygusu azaldığında hikayeleri bir dönüm noktasına ulaştı ve bu da, üzerinde düşünen herkes için kalıcı bir işaret olacak bir dönüşüme yol açtı.",
+  "clues": [
+    "Bizler, refah ve bolluk içinde bir toprakla kutsanmış bir halktık.",
+    "Rabbimiz bize her tarafı yemyeşil ve bereketli iki muhteşem bahçe bahşetti.",
+    "Bize minnettar olmamız emredilmişti, ama biz nankörlüğü seçtik ve yüz çevirdik.",
+    "Büyük bir baraj, topraklarımıza hayat veren suları tutuyordu.",
+    "Yanlışlarımızda ısrar edince baraj yıkıldı ve sel suları her yeri kapladı.",
+    "Bir zamanlar yemyeşil olan bahçelerimizin yerini acı meyveler, ılgınlar ve birkaç ıhlamur ağacı aldı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Saba Halkı",
+        "Thamud Halkı",
+        "Madyan Halkı",
+        "Mağara Yoldaşları",
+        "Fil Halkı"
+      ],
+      "answer": "Saba Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yedi gece boyunca şiddetli bir rüzgar esti.",
+        "Gökyüzünden taş yağmuru",
+        "Barajın patlaması sonucu oluşan yıkıcı sel.",
+        "Gökyüzünden gelen yüksek bir çığlık.",
+        "Denizde boğulmak"
+      ],
+      "answer": "Barajın patlaması sonucu oluşan yıkıcı sel."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Ma'rib'in büyük barajı",
+        "Vadi el-Kura vadisi",
+        "İram'ın bahçesi",
+        "Zemzem kuyusu",
+        "Sina Dağı"
+      ],
+      "answer": "Ma'rib'in büyük barajı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bahçelerimizin yerini acı meyveler ve seyrek ağaçlar aldı.",
+        "Depremde yerin dibine girdik.",
+        "Maymunlara ve domuzlara dönüştürüldük.",
+        "Büyük bir selde boğulduk.",
+        "Taş yağmuru altında yok olduk."
+      ],
+      "answer": "Bahçelerimizin yerini acı meyveler ve seyrek ağaçlar aldı."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

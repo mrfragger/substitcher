@@ -1,0 +1,61 @@
+{
+  "title": "Iqhinga Eligqunyiweyo",
+  "intro": "Uzifumana ukho phambi komntu onamandla ukususela kwimihla yesambulo. Lo mntu wayesaziwa ngengqondo yakhe, ubutyebi bakhe, kunye nesikhundla sakhe phakathi kwabantu bakhe. Xa kwafika imiqondiso ecacileyo, bayibona ubuhle kodwa bakhetha ukungathobeli kunokuzithoba. Yintoni eyaqhuba lo mphefumlo ukuba ucebe ebumnyameni, kwaye yayiyintoni isiphelo sakhe sokugqibela?",
+  "clues": [
+    "Ndisikelelwe ngezixhobo ezininzi kunye nempembelelo, nto leyo eyenza ilizwi lam laba nzima kwiintlanganiso.",
+    "Xa amazwi kaThixo ayephindaphindwa, andizange ndikwazi ukukhanyela ubuchule bawo bokuthetha, kodwa ikratshi lam alizange lindivumele ukuba ndizithobe.",
+    "Ndaqokelela abacebisi bam, ndazahlula ukuze ndicinge ngendlela yokungcolisa umyalezo.",
+    "Emva kokucingisisa kakhulu, ndathi yinto nje 'engumlingo odluliselwe kwixesha elidlulileyo' wokugxotha abantu.",
+    "Esi sityhilelo sabhekisa kum ngqo sisithi: ‘Ndishiyeni nalo ndimdalileyo ndedwa.’ Ndakhethwa ngenxa yeqhinga lam.",
+    "Kungekudala, kanye loo mlilo endalumkiswa ngawo uza kundibamba ngentloko, kwaye andiyi kuba nandlela yokusinda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "U-Al-Walid ibn al-Mughira",
+        "U-Abu Lahab",
+        "U-Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "U-Al-Nadr ibn al-Harith"
+      ],
+      "answer": "U-Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Benze iyelenqe lokubulala uMprofeti",
+        "Bakhokela ukuqhankqalaza nxamnye namaSilamsi",
+        "Wahlanganisa ibhunga ukuze liphawule iQuran njengomlingo",
+        "Benzelwe ukugxotha uMprofeti eMakkah",
+        "Wenqaba ukwabelana ngobutyebi bakhe neenkedama"
+      ],
+      "answer": "Wahlanganisa ibhunga ukuze liphawule iQuran njengomlingo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "ISityhilelo",
+        "IBhunga",
+        "I-Forelock",
+        "Ubutyebi",
+        "Usiba"
+      ],
+      "answer": "I-Forelock"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waguquka waza wamkela ubuSilamsi",
+        "Wafudukela eAbyssinia",
+        "Wabethwa sisifo esibulalayo",
+        "Wafa edabini nxamnye namaSilamsi",
+        "Wagwetyelwa esihogweni somlilo"
+      ],
+      "answer": "Wagwetyelwa esihogweni somlilo"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

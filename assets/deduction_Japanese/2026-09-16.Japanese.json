@@ -1,0 +1,61 @@
+{
+  "title": "川によって試された統治",
+  "intro": "古代、神の命によって指導者が台頭した。この支配者の治世は、栄光から始まったのではなく、激流による試練から始まった。強大な敵が彼の軍隊に挑み、その結果は歴史の流れを大きく変えることになる。さて、この人物が誰だか想像できますか？",
+  "clues": [
+    "私は偉大な国家を率いる指導者として選ばれたが、その任命は国民によるものではなく、上層部によるものだった。",
+    "私の統治を確証する証として、神聖な品物が私の民に返還された。",
+    "私は兵士たちを川で試した。ほとんどの兵士は川の水を飲んだが、失敗した。",
+    "ジャルートという名の恐るべき戦士が、大軍を率いて我々に襲いかかってきた。",
+    "私の仲間の若者が、信仰だけを武器に、ジャルートを打ち倒した。",
+    "我々の勝利後、王国は最終的にその若き英雄に託された。"
+  ],
+  "categories": {
+    "identity": {
+      "label": "私は誰？",
+      "options": [
+        "タルート（サウル）",
+        "ジャルート（ゴリアテ）",
+        "預言者ダウード",
+        "預言者ムーサー",
+        "預言者ハールーン"
+      ],
+      "answer": "タルート（サウル）"
+    },
+    "trial": {
+      "label": "トライアル／イベント",
+      "options": [
+        "川でテストしました",
+        "燃え盛る炎の中に投げ込まれた",
+        "息子を犠牲にするよう命じられた",
+        "巨大な方舟を建造するよう命じられた",
+        "巨大な魚に飲み込まれた"
+      ],
+      "answer": "川でテストしました"
+    },
+    "location": {
+      "label": "主要要素",
+      "options": [
+        "契約の箱",
+        "海を割る杖",
+        "スリングと滑らかな石",
+        "黄金の子牛の偶像",
+        "壮麗な玉座"
+      ],
+      "answer": "契約の箱"
+    },
+    "outcome": {
+      "label": "結果",
+      "options": [
+        "王国は若きチャンピオン（ダウド）に引き継がれた。",
+        "海で軍隊と共に溺死した",
+        "猛烈な炎の中から無事救出された",
+        "宝物と共に大地に飲み込まれた",
+        "燃え盛る溝の中で生きたまま焼かれた"
+      ],
+      "answer": "王国は若きチャンピオン（ダウド）に引き継がれた。"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

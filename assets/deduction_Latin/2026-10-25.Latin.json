@@ -1,0 +1,61 @@
+{
+  "title": "Querela Super Strepitum Audita",
+  "intro": "Vocem audis ex societate oriri ubi oppressio cotidiana facta est. Nulla ostentatio potentiae querelae respondet; potius, directa appellatio ad Deum pervenit, et responsio ipsum cor cultus ferit. Quis hanc querelam protulit, quae quaestio secuta est, et quae veritas affirmata est?",
+  "clues": [
+    "Oppressione hominum circum me perturbatus sum.",
+    "Hanc querelam directe ad Allah in querela personali expressi.",
+    "Allah querimoniam audivit et de mea fide provocatione respondit.",
+    "Responsum rogavit quomodo in Allah, qui est Unus et Summus, non credere possem.",
+    "Deinde rogavi cur Allah populum incredulum favere deberet.",
+    "Ego sum Uzair, in Surah Az-Zukhruf nominatus, cuius querimoniam Allah audivit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Uzair",
+        "Comes qui in magno diluvio navigavit",
+        "Servus qui super aquas ambulavit",
+        "Dormiens intra speluncam protectus",
+        "Servus qui lapides ad flumen attulit"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Querelae apud Deum de oppressione populi",
+        "Ambulans super aquam tempore tempestatis",
+        "Lapides ad flumen aqua carens portans",
+        "Navigantes per magnum diluvium in Arca",
+        "Clavem thesauri immensi accipiens"
+      ],
+      "answer": "Querelae apud Deum de oppressione populi"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Querela directa ad Deum directa",
+        "Baculus qui in serpentem factus est",
+        "Fornax frigida et pacata facta",
+        "Arca super aquas diluvii fluitans",
+        "Piscis servum devorans"
+      ],
+      "answer": "Querela directa ad Deum directa"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Allah querelam audivit et divinam Unitatem et Summum Dominium confirmavit.",
+        "Ambulare tuto super aquam tempore tempestatis",
+        "Magnum diluvium tuto in Arca transeuntes",
+        "Visum recuperans intra palatium arrogantiae",
+        "Dominium ab Oriente ad Occidentem extensum accipiens"
+      ],
+      "answer": "Allah querelam audivit et divinam Unitatem et Summum Dominium confirmavit."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

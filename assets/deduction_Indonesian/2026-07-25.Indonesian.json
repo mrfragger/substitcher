@@ -1,0 +1,61 @@
+{
+  "title": "Penghuni Dua Taman",
+  "intro": "Di negeri yang berlimpah berkah, sebuah komunitas pernah menikmati limpahan dua taman yang megah. Kehidupan mereka merupakan bukti anugerah ilahi, namun kisah mereka berubah ketika rasa syukur memudar, yang mengarah pada transformasi yang akan menjadi tanda abadi bagi semua orang yang merenungkannya.",
+  "clues": [
+    "Kita adalah bangsa yang diberkati dengan tanah yang nyaman dan berlimpah.",
+    "Tuhan kita menganugerahkan kepada kita dua taman yang indah, subur dan berbuah di setiap sisinya.",
+    "Kita diperintahkan untuk bersyukur, tetapi kita memilih untuk tidak bersyukur dan berpaling.",
+    "Sebuah bendungan besar menahan air yang memberi kehidupan bagi tanah kita.",
+    "Ketika kita terus berbuat salah, bendungan jebol dan air banjir menerjang.",
+    "Kebun kami yang dulunya subur kini digantikan oleh buah-buahan pahit, pohon tamaris, dan beberapa pohon lote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Penduduk Saba",
+        "Kaum Thamud",
+        "Penduduk Madyan",
+        "Para Sahabat Gua",
+        "Orang-orang Gajah"
+      ],
+      "answer": "Penduduk Saba"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Angin kencang selama tujuh malam",
+        "Hujan batu dari langit",
+        "Banjir dahsyat akibat jebolnya bendungan",
+        "Jeritan keras dari langit",
+        "Tenggelam di laut"
+      ],
+      "answer": "Banjir dahsyat akibat jebolnya bendungan"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Bendungan besar Ma'rib",
+        "Lembah Wadi al-Qura",
+        "Taman Iram",
+        "Sumur Zamzam",
+        "Gunung Sinai"
+      ],
+      "answer": "Bendungan besar Ma'rib"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kebun kami digantikan dengan buah-buahan pahit dan pepohonan yang jarang.",
+        "Kami ditelan bumi dalam sebuah gempa bumi.",
+        "Kami berubah menjadi kera dan babi",
+        "Kami tenggelam dalam banjir besar.",
+        "Kami hancur diterjang hujan batu."
+      ],
+      "answer": "Kebun kami digantikan dengan buah-buahan pahit dan pepohonan yang jarang."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Melodia Que Movió Las Sierras",
+  "intro": "Sètz a mand de descobrir l'istòria d'un servicial remarcable d'Allah. Dins una tèrra de messatgièrs e de governants, aquela figura èra benesida d'un libre divin, d'una votz poderosa, e de fòrça sul fèrre. Del temps que legissètz los indicis, podètz identificar qual aquò poiriá èsser?",
+  "clues": [
+    "Èri un servicial d'Allah que recebèt un libre especial.",
+    "Bela votz avia, e mon laus fo tant amatz qu'anc los puigs e los auzels m'ajoignon.",
+    "Afrontèri un adversari formidable dins una batalha famosa, e malgrat èsser mai pichon, me venquèri.",
+    "Lo fèrre èra fach sople per ieu, me permetent de fabricar d'armaduras amb mas pròprias mans.",
+    "Foguèri fach cap d'una granda nacion, e ma saviesa en jutjament foguèt reputada.",
+    "Mon filh, tanben un profèta, recebèt lo contraròtle del vent e dels jinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Dawud (David)",
+        "Profèta Sulaiman (Salomon)",
+        "Profèta Musè (Moïses)",
+        "Profèta Harun (Aaron)",
+        "Profèta Ilyas (Elias)"
+      ],
+      "answer": "Profèta Dawud (David)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Goliat vencut (Jalut)",
+        "Separèt la mar",
+        "Subrevisquèt a la balena",
+        "Foguèt getat dins un fuòc",
+        "Bastiguèt l'Arca"
+      ],
+      "answer": "Goliat vencut (Jalut)"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo Zabur (Salmes)",
+        "La Torah (Tawrat)",
+        "L'Evangèli (Injil)",
+        "Los Pergamins d'Ibrahim",
+        "L'Alcoran"
+      ],
+      "answer": "Lo Zabur (Salmes)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Venguèt un profèta e rei d'Israèl",
+        "Venguèt lo sobeiran d' Egipte",
+        "Foguèt levat als cèls",
+        "Foguèt destruit per una tempèsta",
+        "Venguèt un companh de la cauna"
+      ],
+      "answer": "Venguèt un profèta e rei d'Israèl"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

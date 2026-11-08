@@ -1,0 +1,61 @@
+{
+  "title": "Armáda, kterou potkal létající jíl",
+  "intro": "V době před prorokem Mohamedem zahájil mocný jemenský vládce vojenské tažení s cílem zničit posvátnou svatyni v Mekce. Tento nepřítel vedl obrovskou armádu včetně válečných slonů, sebevědomý ve svou sílu a počet. Jejich cesta však náhle skončila, když se setkali s nečekaným božským zásahem. Dokážete identifikovat, kdo čelil tomuto pozoruhodnému zúčtování?",
+  "clues": [
+    "Pochodovali jsme s mohutnou armádou a mocnými válečnými slony k posvátnému domu",
+    "Měli jsme v úmyslu vyvrátit a zničit místo uctívání postavené služebníky Nejmilosrdnějšího",
+    "Bylo proti nám vysláno hejno malých ptáků, kteří v zobácích a drápech nesli hliněné kameny.",
+    "Setkal nás zvuk, který na nás házel kameny a proměnil nás v ušlapané zbytky",
+    "Pocházel jsem z Jemenu a sloužil jsem pod vládcem, který se snažil chránit posvátnou svatyni.",
+    "Byli jsme učiněni příkladem pro ty, kdo se odvážili zneužít svatyni Alláha"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Armáda Abraha al-Ašram",
+        "Etiopské síly",
+        "Perští dobyvatelé",
+        "Římské legie",
+        "Beduínští nájezdníci"
+      ],
+      "answer": "Armáda Abraha al-Ašram"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Obléhání pouštní pevnosti",
+        "Invaze do posvátné svatyně v Mekce",
+        "Námořní bitva na moři",
+        "Vzpoura proti tyranskému králi",
+        "Hledání ztraceného proroka"
+      ],
+      "answer": "Invaze do posvátné svatyně v Mekce"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Údolí Mina poblíž Mekky",
+        "Palác v San'á v Jemenu",
+        "Hory Tihama",
+        "Starobylé město Jeruzalém",
+        "Břehy Rudého moře"
+      ],
+      "answer": "Údolí Mina poblíž Mekky"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Vítězství a zničení posvátného domu",
+        "Porážka ptáky nesoucími hliněné kameny",
+        "Pokojná kapitulace a obrácení",
+        "Hladomor a přírodní katastrofy",
+        "Ústup kvůli silným dešťům"
+      ],
+      "answer": "Porážka ptáky nesoucími hliněné kameny"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

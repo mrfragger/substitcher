@@ -1,0 +1,61 @@
+{
+  "title": "Te Hiahia i roto i te Rūma Tapu",
+  "intro": "Ka tomo koe ki te wāhi tapu marino, ka kite koe i tētahi pononga pono a Allah e tū ana i roto i te inoi. Kua ara ake ō rātou ringa, kua ara ake ō rātou kanohi, ā, kei roto i ō rātou ngākau te hiahia nui kua roa e ora ana. Ko wai tēnei wairua manawanui kāore nei i ngohe tōna whakawhirinaki ki a Allah?",
+  "clues": [
+    "He maha ngā tau i noho ai ahau i roto i te karakia me te inoi, me te kite i ngā merekara i whakakaha i tōku whakapono.",
+    "I tukua mai ki ahau te kawenga ki te tiaki i tētahi wairua taitamariki manaakitanga i roto i te wāhi tapu.",
+    "I ahau e koroheke haere ana, ko tōku pouri nui ko te korenga o āku tamariki, he pakoko hoki taku wahine, ā, kua maha haere māua.",
+    "I inoi ahau ki tōku Ariki mō tētahi uri mōku ake whānau, hei tangata hei kawe i te taonga tuku iho o te poropititanga.",
+    "I ahau e tū ana i te wāhi inoi, ka karanga mai ngā anahera ki ahau, ka mea, 'Ka tukuna atu e Allah he rongo pai ki a koe', ā, ka pā mai te wehi me te mataku ki ahau.",
+    "I kīia mai ki ahau ka whānau he tama māku, ko Yahya tōna ingoa, he ingoa kāore anō kia hoatu ki tētahi i mua, ā, hei tohu kāore au e kōrero ki te tangata mō ngā rā e toru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Hakaraia",
+        "Poropiti a Yahya",
+        "Poropiti a Ihaia",
+        "Poropiti a Rawiri",
+        "Lukmana te Whakaaro Nui"
+      ],
+      "answer": "Poropiti Hakaraia"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te pakoko me te koroheketanga i te hiahia kia whai uri tika",
+        "Ka makaia ki roto i te ahi mura",
+        "Te horomia e te ika nui",
+        "Te ngaronga o te rangatiratanga ki tētahi kaitukino",
+        "Te peinga atu i tōna whenua tupu"
+      ],
+      "answer": "Te pakoko me te koroheketanga i te hiahia kia whai uri tika"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te wāhi inoi (mihrab)",
+        "Te kaipuke nui (Āka)",
+        "Te rakau e mura ana",
+        "Te tokotoko i huri hei nakahi",
+        "Te kamera uha a Allah"
+      ],
+      "answer": "Te wāhi inoi (mihrab)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I homai he tama tika, ā, i kōrero anō i muri i ngā rā e toru o te wahangu",
+        "I whakangaromia e te waipuke mō te kore whakapono",
+        "I hoatu he kingitanga nui me te mana whakahaere i te hau",
+        "I tukuna mai i te puku o te ika",
+        "Horomia e te whenua"
+      ],
+      "answer": "I homai he tama tika, ā, i kōrero anō i muri i ngā rā e toru o te wahangu"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

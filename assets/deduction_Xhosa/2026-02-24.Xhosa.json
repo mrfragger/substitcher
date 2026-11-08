@@ -1,0 +1,61 @@
+{
+  "title": "Ukuphindaphinda Kwenkohliso",
+  "intro": "Ulwalamano lolwalamano lwavavanywa kukugquma komona. Icebo eliyimfihlo laqanjwa, laqalisa uthotho lweziganeko ezaziza kuthatha iminyaka kwaye zidlule imigama emide. Izenzo zale qela zakhokelela ekwahlukaneni okukhulu kunye nosizi, kodwa ibali alizange liphelele apho. Libali lokukhohlisa, ukuzisola, kunye nokutyhilwa kokugqibela kwecebo likaThixo. Ngaba ungatyhila ubuni baba bantu abakhetho lwabo lwaluphindaphindwa kwizizukulwana ngezizukulwana?",
+  "clues": [
+    "Sasigcwele umona ngenxa yothando oluboniswe komnye wethu.",
+    "Ngenxa yomona wethu, saceba kunye saza samphosa umntakwabo ebumnyameni bequla.",
+    "Ukuze sifihle isenzo sethu, sanika utata ingubo, edyojwe ligazi lobuxoki.",
+    "Kwiminyaka kamva, indlala enkulu yasinyanzela ukuba siye eJiphutha sifuna ukutya.",
+    "Apho, seza phambi kwerhuluneli enamandla, esingayaziyo, eyayingumntakwabo esasimonile.",
+    "Uvavanyo lwethu lokugqibela yayikukuzisa umnakwethu omncinci, uBinyamin, nto leyo eyakhokelela ekutyhilekeni kwexesha lethu elidlulileyo kunye notata wethu enguMprofeti uYa'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani thina?",
+      "options": [
+        "Oonyana baka-Adam (uQabil noHabil)",
+        "Abafundi bakaMprofeti u-Isa",
+        "Abazalwana Bomprofeti uYusuf",
+        "Abantu baseMadyan",
+        "Izazi zikaFirawn"
+      ],
+      "answer": "Abazalwana Bomprofeti uYusuf"
+    },
+    "trial": {
+      "label": "Yayiyintoni impazamo yethu ephambili?",
+      "options": [
+        "Ukwakha ithole legolide lokunqula",
+        "Ukufuna ukubona uAllah ngqo",
+        "Ukugculela umprofeti ngokwakha umkhombe",
+        "Ukukhohlisa utata wethu nokumshiya umntakwethu",
+        "Ukwaphula iSabatha ngokuloba iintlanzi"
+      ],
+      "answer": "Ukukhohlisa utata wethu nokumshiya umntakwethu"
+    },
+    "location": {
+      "label": "Yeyiphi injongo eyayiphambili ekukhohlisweni kwethu?",
+      "options": [
+        "Iseti yamacwecwe abhaliweyo",
+        "Ihempe exutywe negazi lobuxoki",
+        "Ithole legolide",
+        "Intaka entle (iHoopoe)",
+        "Intonga eyajika yaba yinyoka"
+      ],
+      "answer": "Ihempe exutywe negazi lobuxoki"
+    },
+    "outcome": {
+      "label": "Yaba yintoni isiphumo sokugqibela sebali lethu?",
+      "options": [
+        "Satshatyalaliswa ngumkhukula omkhulu",
+        "Saguqulwa saba ziinkawu",
+        "Saginywa ngumhlaba",
+        "Saxolelwa saza sadibana kwakhona nosapho lwethu",
+        "Satshoniswa elwandle"
+      ],
+      "answer": "Saxolelwa saza sadibana kwakhona nosapho lwethu"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

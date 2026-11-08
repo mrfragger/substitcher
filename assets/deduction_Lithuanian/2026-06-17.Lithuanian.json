@@ -1,0 +1,61 @@
+{
+  "title": "Aidas iš miesto pakraščio",
+  "intro": "Mieste, kuris nusisuko nuo dieviškojo vadovavimo, iš pakraščio išniro vieniša figūra, nešdama vilties ir perspėjimo žinią. Ši užmiršta siela taps amžinu tvirto tikėjimo simboliu.",
+  "clues": [
+    "Mačiau, kaip į mano miestą siunčiami pasiuntiniai, bet mano žmonės juos laikė paprastais žmonėmis.",
+    "Aš tikėjau jų žinia ir jaučiau, kaip tiesa rezonuoja mano viduje.",
+    "Aš raginau savo žmones paklusti pasiuntiniams, kurie neprašė atlygio.",
+    "Bėgau iš tolimiausio miesto krašto, skubiai bandydamas priversti juos susimąstyti.",
+    "Mano tauta sukilo prieš mane, ir aš buvau nužudytas, bet radau amžiną ramybę.",
+    "Alachas man tarė: „Įeik į Rojų“, ir aš panorėjau, kad mano žmonės galėtų pamatyti man suteiktą garbę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Ja-Sino tikintysis",
+        "Uzairas, klausėjas",
+        "Al-Khidr vadovas",
+        "Faraono šeimos tikintis",
+        "Namrudas Tironas"
+      ],
+      "answer": "Ja-Sino tikintysis"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Susidūręs su netikinčiaisiais žmonėmis, kurie jį nužudė",
+        "Įmestas į liepsnojančią ugnį",
+        "Praryti didelės žuvies",
+        "Masyvios arkos statyba",
+        "Bėgantis nuo tirono armijos"
+      ],
+      "answer": "Susidūręs su netikinčiaisiais žmonėmis, kurie jį nužudė"
+    },
+    "location": {
+      "label": "Pagrindinė vieta",
+      "options": [
+        "Tolimiausias miesto galas",
+        "Turo kalnas.",
+        "Skruzdėlių slėnis",
+        "Nilo krantai",
+        "Olos urvas"
+      ],
+      "answer": "Tolimiausias miesto galas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Kankinystė ir tiesioginis patekimas į Rojų",
+        "Pabėgimas ir išsigelbėjimas",
+        "Pakilimas į dangų",
+        "Skęstantis jūroje",
+        "Virstant akmeniu"
+      ],
+      "answer": "Kankinystė ir tiesioginis patekimas į Rojų"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

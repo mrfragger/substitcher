@@ -1,0 +1,61 @@
+{
+  "title": "La corona che sfidò i cieli",
+  "intro": "Nei corridoi degli antichi regni, il nome di un sovrano divenne sinonimo di tirannia e arroganza. Quando un umile servo di Allah giunse portando segni inconfutabili, questo potente sovrano si rifiutò di arrendersi alla verità. Oggi, il vostro compito è identificare questa figura leggendaria il cui dominio crollò e il cui destino fu sigillato sotto le onde.",
+  "clues": [
+    "Io sono il sovrano più temuto, il cui nome risuona ancora come monito attraverso i secoli.",
+    "Ho comandato a un intero popolo di lavorare in catene, erigendo monumenti che proclamassero la mia gloria.",
+    "Quando un messaggero di Allah si presentò davanti a me con segni inconfutabili, mi rifiutai di inchinarmi e lo definii stregoneria.",
+    "Ho decretato l'uccisione dei figli maschi neonati tra un popolo prigioniero, nella speranza di annientare il loro spirito prima che potessero ribellarsi.",
+    "Mi presentai davanti alla mia corte e dichiarai: \"Io sono il vostro signore supremo\", esigendo di essere adorato come un dio.",
+    "Con il mio primo ministro al mio fianco, ho costruito una struttura imponente, destinata a elevarsi oltre i cieli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Faraone (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraone (Fir'awn)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "L'annegamento nel Mar Rosso",
+        "La cammella inviata al popolo di Thamud",
+        "Il grande diluvio di Nuh",
+        "La punizione dei compagni della trincea",
+        "La distruzione dell'esercito di Abraha da parte degli uccelli"
+      ],
+      "answer": "L'annegamento nel Mar Rosso"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'imponente struttura costruita con Haman",
+        "L'arca che navigò sul diluvio",
+        "Il vitello d'oro forgiato dai Samiri",
+        "Il trono di Bilqis, regina di Saba",
+        "La grotta dei giovani dormienti"
+      ],
+      "answer": "L'imponente struttura costruita con Haman"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Annegato in mare; il corpo conservato come monito",
+        "Esiliato e costretto a vagare per le terre selvagge",
+        "Trasformati in scimmie come punizione",
+        "Colpito da un violento terremoto",
+        "Bruciato da una pioggia di pietre dal cielo"
+      ],
+      "answer": "Annegato in mare; il corpo conservato come monito"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

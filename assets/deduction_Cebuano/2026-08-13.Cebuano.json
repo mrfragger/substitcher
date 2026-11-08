@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mapailubon nga Kalag sa Sagradong Balay",
+  "intro": "Sa mga panid sa Quran, usa ka tawo ang mitumaw gikan sa kaliwatan sa usa ka bantugang propeta, nga gihatag isip gasa sa pagkatigulang. Kini nga kalag gisaulog tungod sa iyang lig-on nga pagkamatinud-anon ug usa ka dakong papel sa pagtukod og usa ka santuwaryo nga mahimong suga sa pagtuo. Samtang imong gibasa ang mga timailhan, paminawa pag-ayo ang tingog gikan sa nangagi, kay kini nagsulti sa unang persona.",
+  "clues": [
+    "Nahisgotan ako sa Quran uban sa laing propeta isip gasa nga gihatag sa usa ka tigulang nga mensahero.",
+    "Usa ako sa duha ka anak nga gihatag ngadto niana nga propeta sa iyang ulahing mga katuigan.",
+    "Gidayeg ako sa Quran tungod sa akong pagkamatinud-anon sa akong pulong.",
+    "Gidala nako ang dungog sa pagkapropeta ug gipadala isip usa ka mensahero.",
+    "Miapil ko sa akong amahan sa pagpatindog sa mga pundasyon sa Sagradong Balay.",
+    "Nahinumduman ako isip usa sa mga mapailubon, ug ang sagrado nga balay nga among gitukod nahimong usa ka dapit sa pagbalik ug seguridad alang sa mga tawo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Ismail",
+        "Propeta Ishaq",
+        "Propeta Jacob",
+        "Propeta Zakaria",
+        "Propeta Yahya"
+      ],
+      "answer": "Propeta Ismail"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang pagpataas sa pundasyon sa Kaaba uban ni Ibrahim",
+        "Gilabay ngadto sa kalayo",
+        "Gitulon sa balyena",
+        "Pagpanguna sa mga Israelita pagawas sa Ehipto",
+        "Pagtukod og arka"
+      ],
+      "answer": "Ang pagpataas sa pundasyon sa Kaaba uban ni Ibrahim"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Kaaba",
+        "Bukid sa Sinai",
+        "Ang Pulang Dagat",
+        "Ang Bulawanong Baka",
+        "Ang Hardin sa Eden"
+      ],
+      "answer": "Ang Kaaba"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Giisip nga lakip sa pasyente",
+        "Nalakip sa mga nakasala",
+        "Nalakip sa mga salamangkero",
+        "Giisip nga lakip sa mga dili magtutuo",
+        "Nalakip sa mga tigpakaaron-ingnon"
+      ],
+      "answer": "Giisip nga lakip sa pasyente"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

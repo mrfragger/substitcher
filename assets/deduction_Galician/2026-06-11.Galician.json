@@ -1,0 +1,61 @@
+{
+  "title": "A aldea ás beiras do xuízo",
+  "intro": "Atópaste nunha aldea costeira, onde o son das ondas se mestura cos murmurios dun pobo esquecido. Déronlles unha orde de descanso, pero a súa cobiza levou a un castigo do que aínda se fala en voz baixa. Podes descubrir quen eran?",
+  "clues": [
+    "Vivíamos xunto á costa e recibimos a orde de observar un día de descanso.",
+    "Ese día, viríanos peixe en abundancia, pero tiñamos prohibido collelo.",
+    "Algúns de nós advertimos contra a transgresión, pero outros conspiraron para pescar de todos os xeitos.",
+    "Violamos o mandato sagrado e trouxémonos sobre nós mesmos un castigo severo.",
+    "O noso castigo foi unha transformación que nos deixou desfigurados e deshonrados.",
+    "Convertéronnos en simios, un sinal para todos os que virían despois."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Xente do sábado",
+        "Xente de Thamud",
+        "Xente de 'Ad",
+        "Xente da Cova",
+        "Xente do elefante"
+      ],
+      "answer": "Xente do sábado"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Pesca no sábado",
+        "Adorando un becerro de ouro",
+        "Negando a mensaxe de Hud",
+        "Matando a cameloa",
+        "Construíndo unha torre ata o ceo"
+      ],
+      "answer": "Pesca no sábado"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O peixe",
+        "Unha cameloa",
+        "Un persoal",
+        "Un barco",
+        "Un xardín"
+      ],
+      "answer": "O peixe"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Convertidos en simios",
+        "Destruído por unha inundación",
+        "Destruído por un incendio abrasador",
+        "Tragado pola terra",
+        "Espallado por un vento"
+      ],
+      "answer": "Convertidos en simios"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

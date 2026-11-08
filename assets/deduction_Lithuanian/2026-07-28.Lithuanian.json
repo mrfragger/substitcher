@@ -1,0 +1,61 @@
+{
+  "title": "Šventosios būtybės išbandymas",
+  "intro": "Nuklydusiai tautai buvo pasiųstas ženklas. Patogaus gyvenimo įkarštyje atėjo įspėjimas – lydimas nepaprastos būtybės, kuri tapo didžiausiu jų tikėjimo išbandymu. Jų atsakas nulėmė jų likimą amžiams. Ar galite atskleisti, kas perdavė šį įspėjimą ir kas nutiko tiems, kurie jį atmetė?",
+  "clues": [
+    "Mes buvome žmonės, kuriuos vedė ankstesni pasiuntiniai.",
+    "Iš kalno išniro didinga būtybė – mūsų Viešpaties ženklas šiai tautai.",
+    "Aš jiems pasakiau: „Tai kupranugarė, priklausanti Alachui, todėl leiskite jai ėsti Alacho žemę ir nelieskite jos, kad nepakenktumėte.“",
+    "Bet žmonės sušvelnino mano kupranugarinę, nepaklusdami savo Viešpaties įsakymui.",
+    "Aš esu tik jūsų Viešpaties pasiuntinys, siųstas su tiesa – aš esu patikimas pranašas ir tarnas.",
+    "O piktadarius mūsų Viešpats smogė griausmingu garsu, ir jie sustingo savo namuose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "A'ado žmonių pranašas Hudas",
+        "Tamudo žmonių pranašas Salihas",
+        "Midjano pranašas Šuaibas",
+        "Sodomos žmonių pranašas Lutas",
+        "Arkos pranašas Nuh"
+      ],
+      "answer": "Tamudo žmonių pranašas Salihas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Tvanas, kuris paskandino netikinčią tautą",
+        "Žemės drebėjimas, sunaikinęs nuodėmingą miestą",
+        "Kupranugarė, siųsta kaip dieviškas ženklas ir išbandymas",
+        "Audra, nubaudusi Midjano žmones",
+        "Loto žmonių sunaikinimas akmenimis"
+      ],
+      "answer": "Kupranugarė, siųsta kaip dieviškas ženklas ir išbandymas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Sodomos miestas Jordano slėnyje",
+        "Al-Hidžro slėnis tarp Hidžazo ir Sirijos",
+        "Senovės A'ado žemė pietų Arabijoje",
+        "Midjano miškai prie Raudonosios jūros",
+        "Judi kalno lygumos Mesopotamijoje"
+      ],
+      "answer": "Al-Hidžro slėnis tarp Hidžazo ir Sirijos"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jie buvo išgelbėti po atgailos ir įtikėjimo",
+        "Akmenų lietus juos visiškai sunaikino",
+        "Griaustinis juos sustabdė nejudėdami",
+        "Juos nunešė smarkus vėjas",
+        "Žemės drebėjimas juos prarijo žemėje"
+      ],
+      "answer": "Griaustinis juos sustabdė nejudėdami"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Zkouška Pusté skály",
+  "intro": "Komunita, zkušená a hrdá, vytesala svůj odkaz do samotných hor. Ale když jim bylo sesláno jasné znamení, zkouška víry a zdrženlivosti, jejich arogance je zavedla cestou, odkud není návratu. Dokážete identifikovat tuto skupinu a důsledky jejich vzdoru?",
+  "clues": [
+    "Byli jsme mistři kamene a vytesávali jsme velkolepá obydlí přímo do horských svahů.",
+    "Přišel k nám posel z řad našeho lidu a vyzval nás k uctívání Jediného Pravého Boha.",
+    "Požadovali jsme znamení, které by dokázalo jeho slova, a jako zkoušku pro nás byl přiveden jedinečný tvor.",
+    "Dostali jsme jednoduchý příkaz: sdílet s tímto tvorem náš zdroj vody a nechat ho pít v určený den.",
+    "Ve své aroganci se pár z nás spiklo a my jsme ignorovali varování a zlikvidovali tvora, který měl být naším znamením.",
+    "Dostali jsme tři dny před osudem a pak nás v našich domovech zasáhl silný výbuch, který nás nechal bez života a převrátil nás na zem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Lidé z 'Ad",
+        "Lidé z Madyanu",
+        "Lidé z Thamudu",
+        "Lidé ze Saby",
+        "Lidé z Lutu"
+      ],
+      "answer": "Lidé z Thamudu"
+    },
+    "trial": {
+      "label": "Jaký byl náš primární test?",
+      "options": [
+        "Stavba archy pro přežití potopy",
+        "Odolávání nutkání rybařit v sabat",
+        "Ukončení podvodných obchodních praktik",
+        "Ochrana zázračné velbloudice",
+        "Vytrvání sedmiletého hladomoru"
+      ],
+      "answer": "Ochrana zázračné velbloudice"
+    },
+    "location": {
+      "label": "Co bylo ústředním prvkem našeho příběhu?",
+      "options": [
+        "Zlaté tele",
+        "Velbloudice",
+        "Hůl proroka Musy",
+        "Velká přehrada Ma'rib",
+        "Stůl prostřený z nebe"
+      ],
+      "answer": "Velbloudice"
+    },
+    "outcome": {
+      "label": "Jaký byl náš konečný osud?",
+      "options": [
+        "Utopen ve velké potopě",
+        "Proměněni v opice a prasata",
+        "Přemožen zuřivým větrem",
+        "Rozptýleni protržením přehrady",
+        "Zničeno silným výbuchem/zemětřesením"
+      ],
+      "answer": "Zničeno silným výbuchem/zemětřesením"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

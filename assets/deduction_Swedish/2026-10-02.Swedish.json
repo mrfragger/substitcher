@@ -1,0 +1,61 @@
+{
+  "title": "Suveränen som korsade jordens ändar",
+  "intro": "Föreställ dig en mäktig härskare, tilldelad styrka och auktoritet över landet. Denna figur gav sig ut på extraordinära resor, nådde platsen där solen går ner och platsen där den går upp, mötte främmande folk och stod inför en stor utmaning från två korrumperande nationer. Vem är denne gåtfulla ledare?",
+  "clues": [
+    "Jag var en härskare som fått auktoritet och medel att nå jordens yttersta hörn.",
+    "Jag reste västerut och bevittnade solen gå ner i en grumlig källa.",
+    "Jag mötte ett folk nära den uppgående solen som inte hade något skydd mot dess hetta.",
+    "Ett annat samhälle bad min hjälp mot två korrumperande nationer kända som Gog och Magog.",
+    "Jag byggde en barriär av järn och smält koppar för att hålla dem inne.",
+    "Jag förklarade att denna barriär var en nåd från min Herre, och den kommer att förbli till den bestämda tiden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Profeten Sulaiman",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Bygga en barriär mot Gog och Magog",
+        "Att överleva en stor översvämning",
+        "Att kastas in i en eld",
+        "Att korsa havet",
+        "Kämpar mot en jätte"
+      ],
+      "answer": "Bygga en barriär mot Gog och Magog"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En barriär av järn och koppar",
+        "En stav som förvandlades till en orm",
+        "Ett skepp av trä",
+        "Ett palats av glas",
+        "En trädgård med dadelpalmer"
+      ],
+      "answer": "En barriär av järn och koppar"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gog och Magog var inneslutna till den bestämda tiden",
+        "Han blev en profet",
+        "Han straffades för arrogans",
+        "Han erövrade hela världen",
+        "Han levde för evigt"
+      ],
+      "answer": "Gog och Magog var inneslutna till den bestämda tiden"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

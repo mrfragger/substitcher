@@ -1,0 +1,61 @@
+{
+  "title": "Pazientea Bat",
+  "intro": "Aspaldi, gizateriaren historiaren lehen egunetan, bi arima beren Sortzailearen aurrean egon ziren eskaintzak eskuan. Bat onartu zuten, bestea ez. Ondoren etorri zena anai-arreben arteko lehen tragedia handia izango zen: pazientziazko neurritasun ekintza bat eta mendeku mingots ekintza bat. Jakin al dezakezu nor naizen?",
+  "clues": [
+    "Gizakiaren existentziaren lehen egunetan jaio nintzen lurrean",
+    "Lur honetan ibili zen lehenengo gizaki bikotearen semea nintzen",
+    "Behin, nire artalderik onenaren sakrifizio bat eskaini nuen nire Sortzaileari atsegin emateko",
+    "Nire eskaintza goitik onartu zuten, eta nire anai-arrebarena, berriz, baztertu egin zuten.",
+    "Heriotzarekin mehatxatu nindutenean, ez nuen nire anai-arrebaren aurka eskua altxatu nahi izan.",
+    "Gizateriaren historia osoan beste batek bidegabeki hil zuen lehen pertsona izan nintzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Habil (Abel), Adamen semea",
+        "Qabil (Kain), Adamen semea",
+        "Adam, lehen gizakia",
+        "Nuh (Noe)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), Adamen semea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gizateriaren historiako lehen hilketa",
+        "Nuh-eko uholde handia",
+        "Fir'awnen armadaren suntsipena",
+        "Ibrahimek Ismailen sakrifizioa egin zuen",
+        "Jaluten aurkako borroka (Goliath)"
+      ],
+      "answer": "Gizateriaren historiako lehen hilketa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sakrifizio atsegin gisa eskainitako ardi bat",
+        "Egurrezko kutxa handi bat",
+        "Suge bihurtu zen makila",
+        "Errege-mezu bat daraman ukuilu txori bat",
+        "Suzko lubaki sutsu bat"
+      ],
+      "answer": "Sakrifizio atsegin gisa eskainitako ardi bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gizateriaren historian hilketa baten lehen biktima bihurtu zen",
+        "Uholde handi batetik bizirik atera zen egurrezko ontzi baten barruan",
+        "Arrain handi baten sabelean bizi zen",
+        "Jinn, gizaki eta haizearen gainean gobernatu zuen",
+        "Berrogei urtez ibili nintzen basamortu zabal batean"
+      ],
+      "answer": "Gizateriaren historian hilketa baten lehen biktima bihurtu zen"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

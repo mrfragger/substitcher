@@ -1,0 +1,61 @@
+{
+  "title": "Reklamasyon Otorite Absoli a",
+  "intro": "Nan tan lontan, yon moun ki te gen anpil pouvwa te rive domine yon gwo tè ak moun ki te rete ladan l yo. Rèy pèsonaj sa a te make pa yon gwo fyète ak yon gwo defi kont otorite diven an. Prepare w pou dekouvri idantite yon nanm ki te vin tounen yon leson pou tout jenerasyon.",
+  "clues": [
+    "Mwen te gen pouvwa sou yon gwo anpi, kote pawòl mwen te lalwa.",
+    "Mwen te deklare tèt mwen dye siprèm nan, mwen te egzije pou tout moun ki anba rèy mwen yo adore m.",
+    "Mwen te oprime yon kominote espesifik, mwen te fè yo tounen esklav epi mwen te bay lòd pou yo touye tibebe gason yo.",
+    "Mwen te konfwonte plizyè fwa ak yon mesaje Bondye ki te gen imilite, ki te fè mirak klè devan mwen ak majisyen m yo.",
+    "Mwen te rejte laverite avèk tèt di, mwen te akize mesaje a de maji epi mwen te fè konplo pou detwi li menm ak patizan l yo.",
+    "Lanmè a te anvayi mwen menm ak tout lame mwen an pandan n ap pouswiv san pran souf moun yo te libere anba men m yo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Nimwòd",
+        "Abou Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Aman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Gran Delij la",
+        "Dife k ap boule a",
+        "Nwaye Opresè a",
+        "Destriksyon pa Van an",
+        "Tranblemanntè enkredilite a"
+      ],
+      "answer": "Nwaye Opresè a"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Lach Noe a",
+        "Baton Moyiz la",
+        "Idòl an lò a",
+        "Pi Zamzam nan",
+        "Twòn Bilqis la"
+      ],
+      "answer": "Baton Moyiz la"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Yo te akòde yon gwo wayòm",
+        "Kò konsève kòm yon siy",
+        "Padonnen apre repantans",
+        "Elve nan pwofesi",
+        "Pèp li a te vin gen lafwa"
+      ],
+      "answer": "Kò konsève kòm yon siy"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

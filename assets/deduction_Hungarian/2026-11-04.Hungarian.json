@@ -1,0 +1,61 @@
+{
+  "title": "a kincs, mely a büszkeség alá süllyedt",
+  "intro": "Képzeld el, hogy olyan hatalmas vagyonhalmazok előtt állsz, hogy pusztán a kulcsok cipelése is kimerítene egy csoport erős egyént. Körülötted hangok sürgetnek alázatra és emlékezésre, mégis a büszkeség hangosabb, mint a hála. Mi történik, ha a bőkezűség próbává válik, és az arrogancia megpecsételi a végeredményt?",
+  "clues": [
+    "Mózes népéből származom, mégis vétkeztem ellenük.",
+    "Olyan hatalmas kincseket kaptam, hogy a kulcsaik egy egész seregnyi erős embert is megterhelnének.",
+    "A népem azt tanácsolta, hogy ne ujjongjak, és keressem a túlvilágot anélkül, hogy megfeledkeznék az evilági részemről.",
+    "Azt állítottam, hogy amim van, azt csak a tudásomnak köszönhetem.",
+    "Ékességben vonultam népem előtt, és akik a világi életre vágytak, hasonlót kívántak, mint ami nekem jutott.",
+    "Elnyelt engem a föld a lakhelyemmel együtt, és senki sem segíthetett rajtam, én sem tudtam segíteni magamon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azár",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Dicsekedtek gazdagsággal, és a tanács ellenére megtagadták Allah kegyét",
+        "Ibrahimot élet és halál ajándékozásával sújtotta",
+        "Sereget vezetett Talut és Dawud ellen",
+        "Faragott bálványok, amelyeket az emberek imádhatnak",
+        "Irigységből megölt egy testvért egy áldozat miatt"
+      ],
+      "answer": "Dicsekedtek gazdagsággal, és a tanács ellenére megtagadták Allah kegyét"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Kulcsok a hatalmas kincsekhez",
+        "A Frigyláda",
+        "Egy aranyborjú díszben",
+        "Egy gát két hegy között",
+        "Tizenegy csillag egy álomban"
+      ],
+      "answer": "Kulcsok a hatalmas kincsekhez"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Elnyelte a föld, lakhellyel és gazdagsággal",
+        "Tengerbe fulladt, miközben Múszát üldözte",
+        "Dawud parittyájából lecsapott egy kő",
+        "Egy nőstény teve megbénításáért hatalmas robbanás pusztította el",
+        "Majmokká változtak a szombat megszegéséért"
+      ],
+      "answer": "Elnyelte a föld, lakhellyel és gazdagsággal"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

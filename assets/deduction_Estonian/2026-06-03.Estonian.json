@@ -1,0 +1,61 @@
+{
+  "title": "Rahvas, kes vaidlustas püha koja",
+  "intro": "Muistsel ajal otsustas üks võimas rahvas rünnata usklike poolt austatud pühamut. See rühm oli rikas, võimas ja oma sõjalises jõus kindel. Nad tõid endaga kaasa tohutu olendi, kes pidi olema nende sõjarelv. Nende eesmärk oli selge: lammutada püha koda ja purustada selle rahva usk. Kuid nende ülbus oli ootamas laastavat vastust ülalt. Sellest ajaloolisest sündmusest sai märk ja õppetund kõigile, kes pärast seda tulid. Kas suudad selle rühma vihjete põhjal ära tunda?",
+  "clues": [
+    "Me olime rahvas, keda õnnistati rikkuse ja sõjalise võimekusega.",
+    "Me kogusime oma jõud ja tõime oma kampaanias kasutamiseks tohutu metsalise.",
+    "Meie sihtmärgiks oli pühapaik, mille me soovisime täielikult hävitada.",
+    "Me uskusime, et meie jõust piisab igasuguse jumaliku kaitse ületamiseks.",
+    "Aga Issand saatis taevast meile karistuse, mida me ei oodanud.",
+    "Meid hävitati hetkega, pillutati laiali nagu katki läinud õlekõrs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Elevandi rahvas",
+        "Thamudi rahvas",
+        "'Ad'i inimesed",
+        "Koopa kaaslased",
+        "Prohvet Hudi rahvas"
+      ],
+      "answer": "Elevandi rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Elevandi marssimine püha maja poole, et see hävitada",
+        "Taevasse jõudmiseks torni ehitamine",
+        "Kuldse iidoli ehitamine kummardamiseks",
+        "Keeldudes kuulamast Allahi sõnumitoojat",
+        "Kaevu kaevamine usklikele kahju tekitamiseks"
+      ],
+      "answer": "Elevandi marssimine püha maja poole, et see hävitada"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Elevant",
+        "Kuldvasikas",
+        "Musa personal",
+        "Yunuse kala",
+        "Dawudi raud"
+      ],
+      "answer": "Elevant"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Linnuparved hävitasid nad kividega",
+        "Nad uppusid suures üleujutuses",
+        "Nad muudeti ahvideks ja sigadeks",
+        "Nad maeti mäelt langevate kivide alla",
+        "Neid põletas taevast langenud tuli"
+      ],
+      "answer": "Linnuparved hävitasid nad kividega"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

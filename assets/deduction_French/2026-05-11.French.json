@@ -1,0 +1,61 @@
+{
+  "title": "Les témoins inébranlables",
+  "intro": "Imaginez une époque où la foi était mise à l'épreuve par le feu, et où la conviction inébranlable devenait l'ultime défi. Votre mission est de découvrir l'identité d'un groupe dont l'histoire est contée dans le Coran, un récit de foi profonde face à une tyrannie écrasante. Déchiffrez les indices pour découvrir qui étaient ces âmes et les épreuves extraordinaires qu'elles ont traversées.",
+  "clues": [
+    "Nous sommes restés fermes dans nos convictions, malgré les immenses pressions exercées pour que nous renoncions à notre foi.",
+    "Nous étions la cible d'un dirigeant puissant qui cherchait à éteindre la lumière du monothéisme.",
+    "Nous avons été témoins de grands signes et de miracles, et pourtant nos oppresseurs sont restés indifférents.",
+    "Nous avons subi une méthode de persécution atroce, conçue pour terroriser les autres et les soumettre.",
+    "Nous avons été jetés dans un brasier infernal, mais notre constance nous a valu une place de choix auprès d'Allah.",
+    "Notre histoire est racontée dans une sourate qui porte le nom de constellations célestes, et qui met en garde contre le sort réservé à ceux qui persécutent les croyants."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Le peuple de Thamud",
+        "Les habitants de 'Ad",
+        "Les gens du fossé",
+        "Le peuple de Madian",
+        "Le peuple de l'éléphant"
+      ],
+      "answer": "Les gens du fossé"
+    },
+    "trial": {
+      "label": "Notre persécution",
+      "options": [
+        "Se noyer dans une inondation",
+        "Être consumé par un vent brûlant",
+        "Être jeté dans une tranchée enflammée",
+        "Être englouti par la terre",
+        "Se transformer en singes"
+      ],
+      "answer": "Être jeté dans une tranchée enflammée"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une inondation massive",
+        "Un grand tremblement de terre",
+        "Une tranchée profonde et brûlante",
+        "Une idole puissante",
+        "Une sécheresse dévastatrice"
+      ],
+      "answer": "Une tranchée profonde et brûlante"
+    },
+    "outcome": {
+      "label": "Notre destin ultime",
+      "options": [
+        "Un royaume sur terre leur fut accordé.",
+        "Ils ont été sauvés par une évasion miraculeuse.",
+        "Ils ont atteint le martyre et la récompense éternelle.",
+        "Ils furent transformés en une espèce différente.",
+        "Ils reçurent une immense richesse et une grande prospérité."
+      ],
+      "answer": "Ils ont atteint le martyre et la récompense éternelle."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

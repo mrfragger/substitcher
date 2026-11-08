@@ -1,0 +1,61 @@
+{
+  "title": "Zahalený věřící u tyranova dvora",
+  "intro": "V pozlacených síních nejarogantnějšího vládce, jakého Korán zná – kde vzdor Božímu definoval každý edikt – se mezi privilegovanými procházela jedna duše, která před očima skrývala ta nejnebezpečnější tajemství. Tato osoba nosila v těchto zdech víru tak zapovězenou, že její odhalení by znamenalo jistou smrt. Přesto přesvědčení hořelo jako plamen pod popelem a když nastal ten okamžik, pravda zazněla s odvahou, která otřásla samotnými základy tyranova paláce.",
+  "clues": [
+    "Žil jsem v nejbližším kruhu nejmocnějšího a nejarogantnějšího vládce své doby, obklopen luxusem a vlivem.",
+    "Svou pravou víru jsem skrýval hluboko v srdci, protože jsem se bál o svůj život před těmi, kteří vládli s krutostí a útlakem.",
+    "Když můj lid pochyboval a váhal tváří v tvář pravdě, vystoupil jsem vpřed, abych je varoval před tragickým osudem, který postihl minulé národy, jež odmítly posly svého Pána.",
+    "Připomněl jsem svým lidem příběh milovaného mladého snílka, kterého sice vlastní příbuzní srazili na kolena, ale přesto se v daleké zemi dostal k velké autoritě.",
+    "Naléhal jsem na svůj lid, aby neposlouchal vládce, který je svedl z cesty, a místo toho jsem je vyzval, aby mě následovali po cestě spravedlnosti a vedení.",
+    "Otevřeně jsem mluvil pravdu, i když mi tyranovi stoupenci vyhrožovali, že mě ukamenují nebo vyženou ze země."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Skrytý věřící z faraonovy rodiny",
+        "Trpělivý patriarcha, který plakal jako slepý, dokud se jeho syn nevrátil",
+        "Věrný služebník, jehož kožní onemocnění bylo nakonec vyléčeno",
+        "Hříšný syn, který odmítl prorokovo pozvání nastoupit do archy",
+        "Nemilosrdný tyran, který si nárokoval božství"
+      ],
+      "answer": "Skrytý věřící z faraonovy rodiny"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Skrývání víry v tyranův dvůr",
+        "Trpí slepotou z let pláče",
+        "Zkouška ztrátou rodiny a těžkým soužením",
+        "Stavba skvělé lodi a zároveň zesměšňování",
+        "Snášet spalující žár velkého ohně"
+      ],
+      "answer": "Skrývání víry v tyranův dvůr"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Faraonův palác",
+        "Horský vrchol, kde byla postavena archa",
+        "Posvátné údolí pod horou Sinaj",
+        "Nádherná zahrada se dvěma tekoucími potoky",
+        "Křišťálový trůn nad podzemní řekou"
+      ],
+      "answer": "Faraonův palác"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Božská ochrana, zatímco utlačovatelé čekala zkáza",
+        "Shledal se s rodinou po desetiletích odloučení",
+        "Byla mu dána trpělivost, obnoveno zdraví a větší rodina.",
+        "Byl zachráněn na lodi, zatímco zbytek světa se topil",
+        "Byl zachráněn bez úhony z plamenů na příkaz Alláha"
+      ],
+      "answer": "Božská ochrana, zatímco utlačovatelé čekala zkáza"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

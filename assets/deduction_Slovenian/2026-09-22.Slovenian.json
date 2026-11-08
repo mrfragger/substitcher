@@ -1,0 +1,61 @@
+{
+  "title": "Graditelji visokih stebrov",
+  "intro": "Stojite pred ruševinami veličastnega starodavnega mesta, katerega vzvišeni stebri so zdaj podrti. Veter tuli po praznih ulicah in nosi spomin na mogočno ljudstvo, ki je nekoč vladalo tem deželam. Kdo so bili?",
+  "clues": [
+    "Bili smo ljudstvo izjemne moči in spretnosti, znani po svojih velikih zgradbah in napredni civilizaciji.",
+    "Živeli smo v deželi peščenih sipin in skalnatih gričev in verjeli smo, da nas nihče ne more premagati.",
+    "K nam je prišel poslanec izmed naših sorodnikov, ki nas je pozival, naj častimo samo Alaha, vendar smo ga zavrnili in zasmehovali.",
+    "Bahali smo se: 'Kdo je močnejši od nas?' in vztrajali smo v svoji prevzetnosti in malikovanju.",
+    "Alah je nad nas poslal besen veter, ki je pihal sedem noči in osem dni in uničil vse.",
+    "Bili smo ljudstvo Ada, graditelji Irama, in naša usoda je postala opozorilo za vse, ki so prišli za njim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz 'Ad",
+        "Ljudje iz Thamuda",
+        "Ljudje iz Madyana",
+        "Ljudje iz Tubbe",
+        "Ljudje iz al-Rassa"
+      ],
+      "answer": "Ljudje iz 'Ad"
+    },
+    "trial": {
+      "label": "Kakšna kazen jim je bila poslana?",
+      "options": [
+        "Uničujoč veter",
+        "Dež kamenja",
+        "Glasen pok",
+        "Utapljanje zaradi poplave",
+        "Požrla ga je zemlja"
+      ],
+      "answer": "Uničujoč veter"
+    },
+    "location": {
+      "label": "Kako se imenuje njihovo legendarno mesto?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midjanec",
+        "Babilon",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Kakšna je bila njihova končna usoda?",
+      "options": [
+        "Uničili so jih in njihovi ostanki so postali lekcija",
+        "Pokesali so se in bili rešeni",
+        "Spremenili so se v opice",
+        "Utopili so se v morju",
+        "Pokopali so jih pod plazom"
+      ],
+      "answer": "Uničili so jih in njihovi ostanki so postali lekcija"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Spánek spravedlivých",
+  "intro": "V době, kdy víra byla nebezpečná a mocní se ji snažili rozdrtit, učinila malá skupinka mladých duší rozhodnutí, které se bude odrážet na věky. Uprchli před vším, co znali, hledali útočiště ve skryté temnotě hory a vložili svou plnou důvěru v Alláha. To, co se stalo potom, se stalo nadčasovým znamením pro ty, kteří se nad tím zamýšlejí.",
+  "clues": [
+    "Byli jsme skupinou mladých lidí, kteří věřili v našeho Pána, a On nám dal více vedení.",
+    "Postavili jsme se před náš lid a prohlásili jsme, že nikdy nebudeme vzývat žádné božstvo kromě Alláha.",
+    "Uchýlili jsme se do jeskyně a volali: „Pane náš, dopřej nám od sebe milosrdenství a veď nás v našich věcech správně.“",
+    "Spali jsme mnoho let a slunce se od naší jeskyně odklánělo a nedotýkalo se nás.",
+    "Náš pes ležel natažený u vchodu do jeskyně a hlídal nás, jako by byl na stráži.",
+    "Když nás probudili, přemýšleli jsme, jak dlouho jsme se zdrželi, a jednoho z nás poslali se stříbrnými mincemi, aby nakoupil jídlo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z jeskyně",
+        "Lidé z příkopu",
+        "Lidé Sabatu",
+        "Lidé slona",
+        "Společníci lesa"
+      ],
+      "answer": "Lidé z jeskyně"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Uprchli do jeskyně, aby unikli pronásledování za svou víru",
+        "Zničeno prudkým větrem",
+        "Pohlceno zemí",
+        "Utopený v moři",
+        "Zasažen bouří kamenů"
+      ],
+      "answer": "Uprchli do jeskyně, aby unikli pronásledování za svou víru"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Pes hlídající vchod do jeskyně",
+        "Velká archa",
+        "Hůl, která se proměnila v hada",
+        "Dudek",
+        "Zlaté tele"
+      ],
+      "answer": "Pes hlídající vchod do jeskyně"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zůstali v jeskyni 309 let a poté byli vychováni na znamení",
+        "Byli proměněni v opice",
+        "Byly zničeny povodní",
+        "Byli nuceni překročit moře",
+        "Bylo jim dáno království"
+      ],
+      "answer": "Zůstali v jeskyni 309 let a poté byli vychováni na znamení"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

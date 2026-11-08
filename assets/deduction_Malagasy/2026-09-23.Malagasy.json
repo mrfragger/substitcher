@@ -1,0 +1,61 @@
+{
+  "title": "Ilay antso izay naharitra ela",
+  "intro": "Alaivo sary an-tsaina ny olona iray izay mijoro irery manohitra ny sivilizasiona iray manontolo, tapa-kevitra ny hitarika azy ireo hiala amin'ny lalan-diso amin'ny fahavononana tsy azo hozongozonina. Nandritra ny taonjato maro, nolavina, noesoina ary nolavina ny hafatra—nefa tsy nitsahatra mihitsy ny ezaka. Farany, tonga ny famaliana lehibe, ary vitsy ihany no niaraka tamin'ity fanahy tsy nivadika ity. Azonao fantarina ve ity olona avy amin'ny CORAN ity?",
+  "clues": [
+    "Nirahina ho mpampitandrina ho an'ny vahoaka very amin'ny lalany aho.",
+    "Nanasa azy ireo hangataka famelan-keloka sy hiala amin'ny ratsy nataony aho, saingy niala izy ireo.",
+    "Teo ambany baikon'Andriamanitra, dia nanamboatra sambo goavambe aho raha nijery sy naneso ahy ny oloko.",
+    "Niantso ny Tompoko tsy an-kijanona aho—nony farany dia namaly Izy, ary nilatsaka avy tany an-danitra ny rano nivatravatra.",
+    "Niara-niondrana an-tsambo tamin'ireo izay nino aho rehefa niakatra ambonin'ny tany ny rano tondraka.",
+    "Niantsoantso tamin'ny iray tamin'ireo nijanona aho, nangataka azy ireo mba hialoka any an-tendrombohitra, saingy efa nivoaka ny didy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Noa",
+        "Mpaminany Ibrahim",
+        "Mpaminany Musa",
+        "Mpaminany Hoda",
+        "Mpaminany Salih"
+      ],
+      "answer": "Mpaminany Noa"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nanangana sambo fiara lehibe sy tafavoaka velona tamin'ny safodrano naneran-tany",
+        "Atsipy ao anaty afo mirehitra",
+        "Mifanatrika amin'ny mpitondra jadona sy ireo mpanao majika mahery vaika",
+        "Voatelina trondro lehibe",
+        "Nahita ny famonoana rameva vavy masina"
+      ],
+      "answer": "Nanangana sambo fiara lehibe sy tafavoaka velona tamin'ny safodrano naneran-tany"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Sambofiara hazo goavana eo ambonin'ny rano mahery",
+        "Lohasaha masina misy sisan-javatra vato fahiny",
+        "Lava-bato lalina izay natorian'ireo mpiara-dia nandritra ny taonjato maro",
+        "Ny kibon'ny trozona goavambe any amin'ny halalin'ny ranomasina",
+        "Tendrombohitra vato avo be any an'efitra"
+      ],
+      "answer": "Sambofiara hazo goavana eo ambonin'ny rano mahery"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voavonjy niaraka tamin'ireo mpino tao anaty sambo",
+        "Voavonjy tsy naninona tamin'ny afo noho ny didin'Andriamanitra",
+        "Nitarika fifindra-monina lehibe avy amin'ny fanjakana mahery iray",
+        "Nariana avy tao anaty trondro ho any amoron-dranomasina tsy misy rano",
+        "Nitarika ny olona hiala amin'ny ratsy amin'ny alalan'ny famantarana mahagaga"
+      ],
+      "answer": "Voavonjy niaraka tamin'ireo mpino tao anaty sambo"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

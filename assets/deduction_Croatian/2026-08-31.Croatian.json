@@ -1,0 +1,61 @@
+{
+  "title": "Tihi glas doline",
+  "intro": "Vratite se u prošlost, u vrijeme moćnog naroda koji je nekoć primio živo čudo kao kušnju. Arogancija i tvrdoglavost zapečatile su njihovu sudbinu. Možete li pratiti priču i otkriti što se odvijalo u ovoj dramatičnoj prekretnici?",
+  "clues": [
+    "Poslan sam kao božanska kušnja moćnom narodu poznatom po svojoj snazi ​​i prkosu.",
+    "Bio sam jedinstveno čudo - nitko poput mene nikada se nije pojavio među njima.",
+    "Dijelio sam vodu za piće iz bunara sa svojim ljudima svaki drugi dan.",
+    "Bili su upozoreni da će svaka šteta protiv mene dovesti do brze kazne.",
+    "Najhrabriji od njih ignorirali su upozorenje i ozlijedili me.",
+    "Nakon moje smrti, jedan gromoglasan krik odozgo uništio je cijeli moj narod."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Salihova deva",
+        "Musina krava",
+        "Nuhov brod",
+        "Musin štap",
+        "Prijestolje Bilqisa"
+      ],
+      "answer": "Salihova deva"
+    },
+    "trial": {
+      "label": "Moja sudbina",
+      "options": [
+        "Oštećen i ubijen",
+        "Zaklan kao žrtva",
+        "Pretvoren u zmiju",
+        "Sačuvana kroz veliku poplavu",
+        "Brzo donesen preko kraljevstva"
+      ],
+      "answer": "Oštećen i ubijen"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Bunar vode",
+        "Kamena ploča",
+        "Gorući grm",
+        "Drvena arka",
+        "Prijestolje od zlata i srebra"
+      ],
+      "answer": "Bunar vode"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Uništen jednim vriskom",
+        "Utopljen u velikoj poplavi",
+        "Spaljen kišom kamenja",
+        "Smrvljen snažnim vjetrom",
+        "Progutala zemlja"
+      ],
+      "answer": "Uništen jednim vriskom"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

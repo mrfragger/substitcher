@@ -1,0 +1,61 @@
+{
+  "title": "Architekt arogance",
+  "intro": "Ve starobylé zemi ovládané vzdorovitou mocností zastávala klíčová osoba vlivnou pozici. Tato duše sehrála klíčovou roli ve velkolepých plánech vládce, přispívala k jeho utlačující vládě a zpochybňovala božské poselství. Jejich odkaz je propleten s touhou po světské moci a popíráním pravdy.",
+  "clues": [
+    "Sloužil jsem impozantnímu vládci, který po generace utlačoval lid.",
+    "Mé jméno je v Boží knize často zmiňováno po boku tohoto mocného vůdce.",
+    "Dostal jsem za úkol velkolepý stavební projekt, tyčící se stavbu, která měla dosáhnout nebes.",
+    "Radil jsem svému pánovi, aby pobil syny Izraelců a ušetřil jejich dcery.",
+    "Byl jsem zapleten do intrik a spiknutí proti mocnému Alláhovu poslu.",
+    "Můj konec, spolu s mým pánem a jeho armádou, přišel ve vodách rozlehlého moře."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliáš",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být zkoušen nesmírným bohatstvím",
+        "Vedení armády proti posvátnému domu",
+        "Stavba věže k dosažení Boha",
+        "Byli vhozeni do ohně za svou víru",
+        "Být sourozenci vhozen do studny"
+      ],
+      "answer": "Stavba věže k dosažení Boha"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Archa",
+        "Zaměstnanci",
+        "Hora",
+        "Věž",
+        "Velryba"
+      ],
+      "answer": "Věž"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Dopřána nesmírná moudrost",
+        "Stát se prorokem",
+        "Být pohlcen zemí",
+        "Udělení království",
+        "Topení v moři"
+      ],
+      "answer": "Topení v moři"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

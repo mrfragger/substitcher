@@ -1,0 +1,61 @@
+{
+  "title": "Suure Veeuputuse Kuulutaja",
+  "intro": "See inimene seisis sajandeid vastupidavuse sambana, kutsudes trotslikku ühiskonda tõe valguse poole, samal ajal silmitsi pilkamise ja tagasilükkamisega. Vaatamata ülekaalukatele raskustele ja põlvkondi hõlmava sõnumi raskusele jäi see teener oma missioonis vankumatuks kuni lõpliku otsuse langetamiseni.",
+  "clues": [
+    "Ma veetsin üheksasada viiskümmend aastat oma rahvast õiguse teele kutsudes, päeval ja öösel, salaja ja avalikult.",
+    "Ma hoiatasin oma rahvast valusa karistuse eest, aga nemad panid sõrmed kõrvadesse ja katsid end ülbelt riietega.",
+    "Mul kästi ehitada midagi hiiglaslikku oma Issanda valvsa pilgu all, kuigi vett polnud kusagil näha.",
+    "Töötades läksid mu rahva juhid mööda ja pilkasid mind, aga ma ütlesin neile, et varsti hakkame meie neid pilkama.",
+    "Ma anusin, et mu enda liha ja veri minuga liituks, aga nemad otsustasid otsida varjupaika mäelt, uskudes, et see päästab neid tõusulaine eest.",
+    "Lõpuks peatus mu laev Judi mäel, kui maa oli oma vee alla neelanud ja taevas lakkas paduvihmast."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Hud",
+        "Prohvet Salih",
+        "Prohvet Noa",
+        "Prohvet Lut",
+        "Prohvet Šu'ayb"
+      ],
+      "answer": "Prohvet Noa"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Muutuv personal",
+        "Suur üleujutus",
+        "Jahutav tuli",
+        "Lõhenev meri",
+        "Jumala kaamel"
+      ],
+      "answer": "Suur üleujutus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kuldvasikas",
+        "Personal",
+        "Särk",
+        "Laegas",
+        "Sõrmus"
+      ],
+      "answer": "Laegas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Tõotatud maale sisenemine",
+        "Punases meres uppumine",
+        "Puhkamine Juudi mäel",
+        "Auku viskamine",
+        "Taevasse tõusmine"
+      ],
+      "answer": "Puhkamine Juudi mäel"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

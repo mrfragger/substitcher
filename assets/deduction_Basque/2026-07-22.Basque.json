@@ -1,0 +1,61 @@
+{
+  "title": "Putzuaren sakonetik.",
+  "intro": "Arima gazte baten bidaia zeruko gorputzen ikuspegi indartsu batekin hasi zen, errespetuz makurtuz. Pertsona honen bizitza gertukoenen traizio sakonenak markatu zuen, eta ondoren urteetako esklabutza eta espetxeratzea. Hala ere, fede sendoari eta jainkozko gidaritzari esker, pertsonaia hau zulo baxuenetik igo zen inperio handi bateko pertsona boteretsuenetako bat izatera. Aurkitu al dezakezu Ala-ren zerbitzari bikain honen nortasuna?",
+  "clues": [
+    "Hamaika izar, eguzkia eta ilargia nire aurrean ahuspeztuta zeuden ikuskari bat erakutsi zidaten",
+    "Nire gurasoen seme maitea nintzen, eta horrek jeloskortasuna sortu zuen nire anaien artean.",
+    "Nire anaiek harrapatu ninduten, jantzia kendu eta putzu sakon eta ilun batera bota ninduten",
+    "Merkantzia gisa saldu ninduten merkatu batean eta nire sorterritik urrun eraman ninduten",
+    "Emakume boteretsu batek nire ohorea arriskuan jartzen saiatu zen, eta kartzelara sartu ninduten bere aurrerapenak ukatzeagatik.",
+    "Ametsen interpretazioaren dohainarekin bedeinkatu ninduten, eta preso ahaztu batetik Egiptoko ministro nagusi izatera iritsi nintzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yusuf profeta",
+        "Musa profeta",
+        "Dawud profeta",
+        "Ayyub profeta",
+        "Sulayman profeta"
+      ],
+      "answer": "Yusuf profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Norberaren anaiek putzu sakon batera botata",
+        "Mundu osoko uholde handi bati bizirik irautea",
+        "Labe sutan sartuta egotea",
+        "Gerlari erraldoi baten aurka borrokan gudu-zelaian",
+        "Arrain handi batek irentsi izana"
+      ],
+      "answer": "Norberaren anaiek putzu sakon batera botata"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Basamortuan dagoen putzu sakon eta lehor bat",
+        "Mendi baten gainean dagoen egurrezko kutxa handi bat",
+        "Suge bihurtu zen makila",
+        "Distira handiko tronu bikaina",
+        "Honda bat eta bost harri leun"
+      ],
+      "answer": "Basamortuan dagoen putzu sakon eta lehor bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Egiptoko ministro nagusi izendatu zuten eta maite zuten familiarekin elkartu zen",
+        "Itsasontzi handi bat eraiki eta jendea federa deitu zuen",
+        "Nazio oso bat Egiptoko esklabutzatik atera zuen",
+        "Erreinua eta ikusezinaren gaineko nagusitasuna eman zitzaizkion",
+        "Gaixotasun larrian pazientzia eman zitzaion eta sendatu egin zen"
+      ],
+      "answer": "Egiptoko ministro nagusi izendatu zuten eta maite zuten familiarekin elkartu zen"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

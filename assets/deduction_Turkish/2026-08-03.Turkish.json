@@ -1,0 +1,61 @@
+{
+  "title": "Kumun Altındaki Pınar",
+  "intro": "Kur'an kayıtlarında, en güçlü kalpleri bile kıracak bir imtihanla karşı karşıya kalan, muazzam bir sabra sahip bir şahsiyet anlatılır. Her şeyi elinden alınmıştır - serveti, ailesi ve sağlığı. Ancak umutsuzluğun derinliklerinden gelen mütevazı bir dua, en beklenmedik şekilde kabul edilmiştir. Hikayesi çağlar boyunca yankılanan bu ruhu tanıyabilir misiniz?",
+  "clues": [
+    "Öyle ağır bir sınavdan geçtim ki, bu sınav çağlar boyunca hatırlanacak.",
+    "Benim için önemli olan her şeyi kaybettim: servetimi, çocuklarımı ve sağlığımı.",
+    "Vücudum acı veren yaralarla kaplıydı ve herkes beni dışlıyordu.",
+    "Çaresizlik içinde Allah'a yalvardım ve şeytanın bana zorluk ve azap dokundurduğunu söyledim.",
+    "Allah bana cevap verdi ve bana ayağımla yere vurmamı emretti.",
+    "Tam o noktadan serin bir pınar fışkırdı ve Allah rahmetiyle ailemi yeniden bir araya getirdi ve iki katına çıkardı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Eyyub",
+        "Peygamber Musa",
+        "Peygamber İlyas",
+        "Peygamber Süleyman",
+        "Peygamber Davud"
+      ],
+      "answer": "Peygamber Eyyub"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Ağır hastalık ve aile ile mal varlığının kaybı",
+        "Büyük bir balina tarafından yutulmak",
+        "Mekke şehrinden sürgün",
+        "derin bir kuyuda hapis",
+        "Kibirli bir hükümdarla yüzleşme"
+      ],
+      "answer": "Ağır hastalık ve aile ile mal varlığının kaybı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yeraltından fışkıran serin bir kaynak.",
+        "Büyük bir selin üzerinde bir tekne",
+        "Denizi ikiye ayıran bir asa",
+        "Yüksekte duran cam bir taht",
+        "Uyku için duvarlarla çevrili bir mağara."
+      ],
+      "answer": "Yeraltından fışkıran serin bir kaynak."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Aile ve servet yeniden tesis edildi ve iki katına çıktı.",
+        "Balığın karnından çıkış",
+        "Ayrılan sulardan güvenli geçiş",
+        "Yönetilmesi için verilmiş bir krallık",
+        "Yaşlılıkta bir oğlunun mucizevi doğumu"
+      ],
+      "answer": "Aile ve servet yeniden tesis edildi ve iki katına çıktı."
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

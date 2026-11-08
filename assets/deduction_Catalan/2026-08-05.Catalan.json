@@ -1,0 +1,61 @@
+{
+  "title": "El dia de la mostra final",
+  "intro": "Convocats per a una gran demostració de poder, un grup d'artistes hàbils es van trobar enfrontant-se a una veritat inesperada que els canviaria la vida per sempre.",
+  "clues": [
+    "Érem reconeguts pel nostre ofici, mestres de la il·lusió i l'engany.",
+    "El governant ens va convocar per enfrontar-nos a un rival que empunyava un bastó senzill.",
+    "Quan vam veure la veritat, vam caure prostrats, declarant la creença en el Senyor dels mons.",
+    "El tirà ens va amenaçar amb un càstig sever, però no vam dubtar.",
+    "Vam ser dels primers a creure en el missatge després de presenciar el senyal clar.",
+    "Vam ser martiritzats per la nostra fe, però serem els primers a entrar al Paradís amb els justos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Els mags del faraó",
+        "Els israelites",
+        "La gent de Thamud",
+        "Els deixebles d'Isa",
+        "L'exèrcit d'Abraha"
+      ],
+      "answer": "Els mags del faraó"
+    },
+    "trial": {
+      "label": "Prova / Esdeveniment",
+      "options": [
+        "Concurs amb el profeta Musa",
+        "Construint la Torre",
+        "El Gran Diluvi",
+        "La plaga de les llagostes",
+        "El mar que es divideix"
+      ],
+      "answer": "Concurs amb el profeta Musa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El dia de la Festa",
+        "La Vall de Tuwa",
+        "La ciutat d'Iram",
+        "El Jardí de l'Eternitat",
+        "La plana d'Arafat"
+      ],
+      "answer": "El dia de la Festa"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Van ser crucificats en públic",
+        "Es van ofegar al mar",
+        "Van ser fets seguidors del profeta",
+        "Van ser enviats a l'exili",
+        "Van ser consumits pel foc"
+      ],
+      "answer": "Van ser crucificats en públic"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

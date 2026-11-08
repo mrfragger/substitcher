@@ -1,0 +1,61 @@
+{
+  "title": "La queja que se oye por encima del ruido",
+  "intro": "Se oye una voz que surge de una sociedad donde la opresión se ha vuelto rutinaria. Ninguna demostración de poder responde a la queja; en cambio, una súplica directa llega a Alá, y la respuesta llega al corazón mismo de la adoración. ¿Quién formuló esa queja, qué pregunta siguió y qué verdad se afirmó?",
+  "clues": [
+    "Me preocupaba la opresión de la gente que me rodeaba.",
+    "Le expresé esa queja directamente a Alá en una queja personal.",
+    "Alá escuchó mi queja y respondió con un desafío sobre mi propia fe.",
+    "La respuesta preguntaba cómo podía yo no creer en Alá, que es Uno y Supremo.",
+    "Entonces pregunté por qué Alá debería favorecer a un pueblo que no creía en la fe.",
+    "Yo soy Uzair, mencionado en la Sura Az-Zukhruf como aquel cuya queja Alá escuchó."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Uzair",
+        "El compañero que navegó en el gran diluvio",
+        "El siervo que caminó sobre el agua",
+        "El durmiente protegido dentro de una cueva",
+        "El sirviente que trajo piedras a un río"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Quejarse ante Alá por la opresión del pueblo",
+        "Caminar sobre el agua durante una tormenta",
+        "Llevar piedras a un río que carecía de agua.",
+        "Navegando a través de una gran inundación a bordo del Arca",
+        "Recibir la llave de un tesoro inmenso"
+      ],
+      "answer": "Quejarse ante Alá por la opresión del pueblo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una queja directa dirigida a Alá",
+        "Un bastón que se convirtió en serpiente",
+        "Un horno que refrescó y apaciguó",
+        "Un arca flotando sobre las aguas de la inundación.",
+        "Un pez se traga a un sirviente"
+      ],
+      "answer": "Una queja directa dirigida a Alá"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Allah escuchó la queja y afirmó la Unicidad divina y la Suprema Señoría.",
+        "Caminar con seguridad sobre el agua durante una tormenta.",
+        "Cruzar una gran inundación a salvo a bordo del Arca",
+        "Recuperando la vista dentro de un palacio de arrogancia",
+        "Recibiendo dominio que se extiende desde el Este hasta el Oeste"
+      ],
+      "answer": "Allah escuchó la queja y afirmó la Unicidad divina y la Suprema Señoría."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Examen Creaturae Sacrae",
+  "intro": "Signum missum est nationi quae aberraverat. In medio vitae commodae admonitio venit—comitata creatura mirabili quae futura erat ultima fidei eorum probatio. Responsum eorum fatum eorum in perpetuum signaret. Potesne invenire quis hanc admonitionem protulerit et quid factum sit de iis qui eam reiecerunt?",
+  "clues": [
+    "Populus eramus qui a prioribus nuntiis ante nos ductus erat.",
+    "Magnifica creatura de monte emersit, signum a Domino nostro huic genti.",
+    "Dixi eis: \"Haec est camelus Dei; sinite igitur eam de terra Dei vesci et ne eam noceatis.\"",
+    "Sed populus camelam meam laqueos vulneravit, mandatum Domini sui contemnentes.",
+    "Nuntius a Domino tuo tantum sum, cum veritate missus; propheta et servus fidelis sum.",
+    "Quod ad iniquos attinet, Dominus noster eos percussit cum sono tonitrui, et in domibus suis immoti facti sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Hud populi A'ad",
+        "Propheta Salih populi Thamud",
+        "Propheta Shu'aib Madianensis",
+        "Propheta Lut Sodomae",
+        "Propheta Nuh Arcae"
+      ],
+      "answer": "Propheta Salih populi Thamud"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Diluvium quod gentem infidelem submersit",
+        "Terrae motus qui urbem peccatricem delevit",
+        "Camela missa ut signum divinum et experimentum",
+        "Tempestas quae Madianenses punivit",
+        "Destructio populi Loth lapidibus"
+      ],
+      "answer": "Camela missa ut signum divinum et experimentum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Sodoma urbs in valle Iordanis",
+        "Vallis Al-Hijr inter Hijaz et Syriam",
+        "Antiqua terra A'ad in Arabia meridionali",
+        "Silvae Madian prope Mare Rubrum",
+        "Planities montis Judi in Mesopotamia"
+      ],
+      "answer": "Vallis Al-Hijr inter Hijaz et Syriam"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Salvati sunt postquam paenitentiam egerunt et crediderunt",
+        "Pluvia lapidum eos penitus delevit",
+        "Sonitus tonitrui eos immotos percussit",
+        "A vento vehementi ablati sunt",
+        "Terrae motus eos in terram absorbuit"
+      ],
+      "answer": "Sonitus tonitrui eos immotos percussit"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

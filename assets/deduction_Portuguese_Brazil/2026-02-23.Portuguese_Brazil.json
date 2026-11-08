@@ -1,0 +1,61 @@
+{
+  "title": "A Voz da Condenação Oculta",
+  "intro": "No coração de uma corte tirânica, onde a descrença era a lei, uma alma solitária caminhava na corda bamba entre a fé e o medo. Esse indivíduo, próximo ao centro do poder, ouviu a mensagem de um profeta ser recebida com desprezo e ameaças. Chegou o momento da verdade, forçando essa pessoa a escolher entre a segurança do silêncio e a revelação de uma verdade perigosa. Você consegue descobrir a identidade desse corajoso defensor?",
+  "clues": [
+    "Vivi na própria casa de um tirano, testemunhando em primeira mão a arrogância que rejeitava os sinais divinos.",
+    "Mantive minha fé em segredo, um tesouro escondido em um palácio de idolatria.",
+    "Ouvi dizer que o líder a quem eu servia planejava matar um mensageiro de Alá, um homem chamado Moisés.",
+    "Questionei a lógica deles, lembrando-os do destino do povo de Nuh, 'Ad e Thamud.",
+    "Fiz uma pergunta crucial ao meu povo: 'Se ele for um mentiroso, a mentira recairá sobre ele; mas se ele for sincero, algumas das suas promessas vos surpreenderão.'",
+    "Minha história é contada como um exemplo de fé na surata chamada 'O Perdoador', onde alertei meu povo contra as maquinações dos poderosos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O Crente da Família de Fir'awn",
+        "Haman",
+        "Os Magos de Fir'awn",
+        "Qarun",
+        "Os Samiri"
+      ],
+      "answer": "O Crente da Família de Fir'awn"
+    },
+    "trial": {
+      "label": "Qual foi o meu julgamento?",
+      "options": [
+        "Defendendo o Profeta Moisés na corte do tirano",
+        "Construindo uma torre imponente para alcançar os céus",
+        "Ser lançado em um fogo ardente",
+        "Ser engolido por um peixe gigante",
+        "Perder toda a riqueza e a saúde."
+      ],
+      "answer": "Defendendo o Profeta Moisés na corte do tirano"
+    },
+    "location": {
+      "label": "Qual era o tema do meu argumento?",
+      "options": [
+        "A consequência de rejeitar a mensagem de um profeta.",
+        "A exigência de um sinal de uma árvore sagrada",
+        "A criação de um bezerro a partir de joias derretidas",
+        "O milagre de um camelo que surgiu da rocha",
+        "A interpretação dos sonhos de um governante"
+      ],
+      "answer": "A consequência de rejeitar a mensagem de um profeta."
+    },
+    "outcome": {
+      "label": "Qual foi o resultado?",
+      "options": [
+        "Alá salvou essa pessoa de seu plano maligno.",
+        "Todo o tribunal aceitou o Islã imediatamente.",
+        "O tirano se arrependeu no momento do afogamento.",
+        "O tirano foi engolido pela terra.",
+        "O indivíduo foi exilado para uma terra distante."
+      ],
+      "answer": "Alá salvou essa pessoa de seu plano maligno."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

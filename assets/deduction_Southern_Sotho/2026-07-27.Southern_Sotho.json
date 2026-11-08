@@ -1,0 +1,61 @@
+{
+  "title": "Nyehelo e Fetotseng Qetello",
+  "intro": "Mehleng ea pele ea botho, moea o ne o fana ka mpho ka sepheo se hloekileng. Leha ho le joalo, mohono o ne o ipatile moriting oa kamohelo. Fumana pale ea motho enoa eo boinehelo ba hae le qetello ea hae e bohloko li sa shoeng tšenolong ea bomolimo.",
+  "clues": [
+    "Ke ne ke le har'a meloko ea pele ea moloko oa batho.",
+    "Ke ile ka hlahisa nyehelo ho Morena oa ka, 'me ea amoheloa ka mohau.",
+    "Nyehelo ea moena oa ka e ile ea haneloa, 'me mohono oa fifatsa pelo ea hae.",
+    "Ka re ho eena, 'Haeba u ka otlolla letsoho la hao ho 'na ho mpolaea, nke ke ka otlolla letsoho la ka ho u bolaea; ka 'nete ke tšaba Allah, Morena oa lefats'e.'",
+    "Ke ile ka ba mohlaseluoa oa ketso ea pele ea polao lefatšeng.",
+    "Mali a ka a ile a hoeletsa, 'me ke ne ke le moshoela-tumelo oa pele oa ho hloka molato."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Habile (Abele)",
+        "Qabil (Kaine)",
+        "Monna ea tsoang Ya-Sin",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habile (Abele)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Nyehelo ea hae e ile ea amoheloa, ea baka mohono oa moena oa hae le polao ea hae",
+        "O ile a lahleloa ka sebōping se tukang empa a tsoa a sa tsoa kotsi",
+        "O ile a haha ​​sekepe se seholo tlas'a tataiso ea Molimo",
+        "O ile a metsoa ke tlhapi e kholo 'me a lula lefifing",
+        "O ile a etella batho ba hae pele ho pholletsa le leoatle le arohaneng"
+      ],
+      "answer": "Nyehelo ea hae e ile ea amoheloa, ea baka mohono oa moena oa hae le polao ea hae"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Nyehelo e amohelehang",
+        "Lere le fetoha noha",
+        "Kamele e tšehali e le pontšo ea bomolimo",
+        "Hoopoe e tlisa litaba",
+        "Namane ea khauta e rapeloang"
+      ],
+      "answer": "Nyehelo e amohelehang"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Polao ea pele historing; moena oa hae o ile a ahloloa",
+        "A metsoa ke lefatše hammoho le leruo la hae",
+        "E fetohile litšoene ka lebaka la tlōlo ea molao",
+        "E sentsoe ke moea o matla, o batang",
+        "Ho khangoa ke moroallo o moholo e le kotlo"
+      ],
+      "answer": "Polao ea pele historing; moena oa hae o ile a ahloloa"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

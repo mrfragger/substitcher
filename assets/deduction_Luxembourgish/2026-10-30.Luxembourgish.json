@@ -1,0 +1,61 @@
+{
+  "title": "D'Wuecht vun de Trauernden",
+  "intro": "Dir sidd amgaang eng Séil ze begéinen, déi vun der déifster Trennung gepréift gouf, där hir Aen d'Sprooch vun den Tréinen kannten, awer där hiert Häerz ni d'Hoffnung verluer huet. An enger Geschicht vun Täuschung, Sehnsucht a schliisslecher Reunioun, gouf dësen noblen Dénger vun Allah e Symbol vun der Gedold fir all Zäit. Wien huet d'Jore vu verstoppte Péng ausgehalen, nëmme fir an engem eenzege Moment Siicht a Freed ze kréien?",
+  "clues": [
+    "Ech sinn e Prophet, deem säin Numm zu engem Symbol vu Gedold am Gesiicht vu grousse Verloschter gouf.",
+    "Ech war mat ville Jongen geseent, awer ee gouf mir duerch d'Jalousie vun aneren ewechgeholl.",
+    "Meng Léift fir dee Verluerenen war sou déif, datt meng Aen wäiss gi sinn vir Trauer, awer ech hunn mech ni beklot, ausser bei Allah.",
+    "Ech hunn meng Jongen zréckgeschéckt fir deen ze sichen, deen ech verluer hat, a säi Brudder, an hunn se gedrängt, d'Hoffnung net opzeginn.",
+    "Wéi de Bridder vun der gudder Noriicht ukomm ass, gouf mir e Hiem iwwer d'Gesiicht geheit, an op eemol gouf d'Welt erëm kloer.",
+    "Ech sinn als Israel bekannt, an aus mengen zwielef Jongen koumen déi zwielef Stämme vun enger grousser Natioun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Ya'qub (Jakob)",
+        "Prophet Yusuf (Joseph)",
+        "De Prophet Ishaq (Isaak)",
+        "De Prophet Ibrahim (Abraham)",
+        "De Prophet Ayyub (Job)"
+      ],
+      "answer": "De Prophet Ya'qub (Jakob)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Trennung vun engem beléiften Jong fir vill Joren",
+        "An e brennend Feier gehäit ginn",
+        "Vun engem grousse Fësch verschléckt",
+        "Betroffen vun enger schwéierer Hautkrankheet",
+        "Bis an den héijen Alter Kannerlos sinn"
+      ],
+      "answer": "Trennung vun engem beléiften Jong fir vill Joren"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Hiem vum Yusuf",
+        "D'Mataarbechter vum Musa",
+        "D'Ark vum Nuh",
+        "D'Kamel vum Salih",
+        "De Rank vum Sulayman"
+      ],
+      "answer": "D'Hiem vum Yusuf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Siicht erëm hiergestallt a mat sengem Jong erëmvereenegt",
+        "Gewonnen Victoire iwwer en Tyrann Kinnek",
+        "Lieweg an den Himmel erhuewen",
+        "Als Herrscher iwwer Ägypten ernannt",
+        "E Jong am Alter als Wonner ginn"
+      ],
+      "answer": "Siicht erëm hiergestallt a mat sengem Jong erëmvereenegt"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

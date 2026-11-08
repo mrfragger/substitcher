@@ -1,0 +1,61 @@
+{
+  "title": "Kilden under sandet",
+  "intro": "I Koranens annaler stod en skikkelse med umådelig tålmodighed over for en prøvelse, der ville knuse selv de mest modige hjerter. Alt blev frataget - rigdom, familie og helbred. Alligevel blev en ydmyg bøn besvaret på den mest uventede måde fra fortvivlelsens dyb. Kan du identificere denne sjæl, hvis historie om genoprettelse giver genlyd gennem tiderne?",
+  "clues": [
+    "Jeg blev prøvet med en så hård prøvelse, at den vil blive husket gennem tiderne.",
+    "Jeg mistede alt, hvad der betød noget – min rigdom, mine børn og mit helbred.",
+    "Min krop var dækket af smertefulde sår, og jeg blev udstødt af alle.",
+    "I min desperation råbte jeg til Allah og sagde, at Satan havde ramt mig med modgang og pine.",
+    "Allah svarede mig og befalede mig at slå jorden med min fod.",
+    "Fra netop det sted sprang en kølig kilde frem, og Allah genoprettede min familie og fordoblede dem i barmhjertighed."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Ayyub",
+        "Profeten Musa",
+        "Profeten Ilyas",
+        "Profeten Sulayman",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Ayyub"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Alvorlig sygdom og tab af familie og formue",
+        "At blive slugt af en stor hval",
+        "Eksil fra byen Mekka",
+        "Fængsling i en dyb brønd",
+        "Konfrontation med en arrogant hersker"
+      ],
+      "answer": "Alvorlig sygdom og tab af familie og formue"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En kølig forår fra jorden",
+        "En båd på en stor oversvømmelse",
+        "En stav der kløvede havet",
+        "En hævet trone af glas",
+        "En muromkranset hule til at sove i"
+      ],
+      "answer": "En kølig forår fra jorden"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Familie og rigdom genoprettet og fordoblet",
+        "Udgang fra fiskens mave",
+        "Sikker passage gennem skilte vande",
+        "Et kongerige givet til at herske",
+        "En søns mirakuløse fødsel i alderdommen"
+      ],
+      "answer": "Familie og rigdom genoprettet og fordoblet"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

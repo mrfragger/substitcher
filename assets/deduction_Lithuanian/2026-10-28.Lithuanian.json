@@ -1,0 +1,61 @@
+{
+  "title": "Pažadas, ištartas virš žarijų",
+  "intro": "Stovite prie dykumos laužo, kurio žarijos kruopščiai kūrenamos. Svečiai atvyksta susitikti tyloje, ir viena žinutė atveria pažado, staigmenos ir dar neišsipildžiusios ateities istoriją.",
+  "clues": [
+    "Įveikėme atstumą, kad pasiektume ištikimą tarną dykumoje.",
+    "Paprašėme, kad būtų išskleista žarija laužui paruošti.",
+    "Kalbėjomės su vienu asmeniu, kuris šaukėsi liepsnos, prašydamas vėsos ir saugumo.",
+    "Pranešėme apie naujagimį žmogui, kuris jau buvo peržengęs vaikų gimimo amžiaus ribą.",
+    "Pažadėtąjį vaiką pavadinome Izaoku.",
+    "Ibrahimui pranešėme džiugią žinią apie sūnų, ir ši stulbinanti žinia privertė Ibrahimą juoktis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Angelai, kurie atnešė Ibrahimui gerąją naujieną apie Izaoką",
+        "Angelai, kurie perspėjo Lutą",
+        "Sostą laikantys angelai",
+        "Pragaro angelai",
+        "Angelai, pasiųsti pas Nojų"
+      ],
+      "answer": "Angelai, kurie atnešė Ibrahimui gerąją naujieną apie Izaoką"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pranešdamas Ibrahimui džiugią žinią apie Izaoko gimimą",
+        "Įspėjimas Lutui prieš bausmę savo tautai",
+        "Pranešama apie Jahjos gimimą Zakariyyai",
+        "Sosto nešimas Teismo dieną",
+        "Skelbiant Maryam apie Isos gimimą"
+      ],
+      "answer": "Pranešdamas Ibrahimui džiugią žinią apie Izaoko gimimą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Iš paskleistų žarijų paruošta ugnis",
+        "Arka, plūduriuojanti ant potvynio vandens",
+        "Ola, užantspauduota riedančio akmens",
+        "Sūrymu sukietėjęs molio kalnas",
+        "Kopėčios, besitęsiančios į dangų"
+      ],
+      "answer": "Iš paskleistų žarijų paruošta ugnis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Džiugi žinia apie sūnų, vardu Izaokas",
+        "Džiugi žinia apie sūnų, vardu Jahja",
+        "Taluto išrinkimas Izraelio vaikų valdovu",
+        "Įspėjimas prieš Luto žmonių bausmę",
+        "Įsakymas pastatyti arką prieš tvaną"
+      ],
+      "answer": "Džiugi žinia apie sūnų, vardu Izaokas"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

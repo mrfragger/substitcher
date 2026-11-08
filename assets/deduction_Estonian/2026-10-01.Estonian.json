@@ -1,0 +1,61 @@
+{
+  "title": "Räägitud olemisse",
+  "intro": "Pühast ajaloost kerkib esile kuju, kes kannab endas imesid, mis trotsivad loomulikku korda. See hing saabus üheainsa jumaliku käsu läbi, kaitses vanemaid raskete süüdistuste eest ja lahkus siit ilmast enne, kui maised ahelad neid siduda said. Lugu ulatub tagasihoidlikust hällist taevani. Kes see küll olla võiks?",
+  "clues": [
+    "Mind saadeti märgiks ja halastuseks Allahilt Iisraeli lastele.",
+    "Minu saabumine oli erinev kõigist varasematest – ma sündisin jumaliku sõna „Ole!“ läbi ilma maise isata.",
+    "Mu vanemale esitati julma laimu, kuid püha ilmutus laskus kohale, et kuulutada nende süütust ja tõsta nende staatust.",
+    "Vastsündinuna hämmastasin ümbritsevaid, rääkides hällist peale selgelt, et oma vanemate nime puhastada.",
+    "Allahi loal vormisin ma elutust savist elu, andsin pimedatele nägemise ja ravisin oma puudutusega pidalitõbiseid.",
+    "Mind tõsteti taevasse enne, kui mind kahju puudutada sai, ja ma pöördun tagasi sellesse maailma enne, kui saabub viimane tund."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Isa",
+        "Prohvet Musa",
+        "Prohvet Ibrahim",
+        "Prohvet Yusuf",
+        "Prohvet Dawud"
+      ],
+      "answer": "Prohvet Isa"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Rääkimine hällist imikueast alates",
+        "Ellujäämine suure kala kõhus",
+        "Lõõmavasse tulle heidetud",
+        "Suure laeva ehitamine enne veeuputust",
+        "Vaarao õukonna nõidusega silmitsi seistes"
+      ],
+      "answer": "Rääkimine hällist imikueast alates"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Injeel (evangeelium)",
+        "Taura (Toora)",
+        "Zabur (Psalmid)",
+        "Suhuf (Ibrahimi kirjarullid)",
+        "Personal, mis lõhestas mere"
+      ],
+      "answer": "Injeel (evangeelium)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Taevasse tõstetud, enne kohtupäeva naaseb",
+        "Juhtis Iisraeli lapsed Egiptusest välja",
+        "Sai kuningaks, kellel oli võim džinnide, inimeste ja lindude üle",
+        "Elas üle tohutu üleujutuse koos usklikega",
+        "Ehitas püha maja Mekasse"
+      ],
+      "answer": "Taevasse tõstetud, enne kohtupäeva naaseb"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

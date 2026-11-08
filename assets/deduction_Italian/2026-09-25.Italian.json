@@ -1,0 +1,61 @@
+{
+  "title": "La diga che distrusse un regno",
+  "intro": "Una terra di fiumi impetuosi, due giardini lussureggianti e una prosperità senza pari, ma i suoi abitanti si disinteressarono di Colui che li aveva benedetti. Quando i richiami li invitarono a tornare, si voltarono dall'altra parte. Ciò che seguì fu una punizione che ancora oggi risuona come un monito. Chi era questa antica comunità?",
+  "clues": [
+    "Vivevamo in una terra così benedetta che la nostra casa sorgeva tra due giardini lussureggianti.",
+    "Ci godevamo i fiumi che scorrevano attraverso le nostre terre e i raccolti abbondanti che riempivano le nostre case.",
+    "Eppure, quando siamo stati chiamati alla gratitudine e all'obbedienza al nostro Signore, ci siamo allontanati per orgoglio.",
+    "La nostra ricchezza e il nostro benessere ci hanno fatto dimenticare Colui che ci ha donato tutto.",
+    "Poi arrivò un torrente improvviso che infranse la grande barriera su cui avevamo fatto affidamento.",
+    "Noi siamo il popolo di Saba', la cui terra era nota per la grande diga di Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Popolo di Saba",
+        "Gente della trincea",
+        "Compagni del Pozzo",
+        "Abitanti di Tubba'",
+        "Popolo del Midian"
+      ],
+      "answer": "Popolo di Saba"
+    },
+    "trial": {
+      "label": "La nostra rovina",
+      "options": [
+        "Inondazione causata dalla rottura di una diga",
+        "Un vento violento dal cielo",
+        "Bruciando in una trincea di fuoco",
+        "Un terremoto di enorme portata",
+        "Annegare in una grande alluvione"
+      ],
+      "answer": "Inondazione causata dalla rottura di una diga"
+    },
+    "location": {
+      "label": "Posizione chiave",
+      "options": [
+        "La diga di Ma'rib",
+        "Monte Sinai",
+        "La grotta dei sette dormienti",
+        "Il roveto ardente",
+        "La divisione del mare"
+      ],
+      "answer": "La diga di Ma'rib"
+    },
+    "outcome": {
+      "label": "Il nostro destino",
+      "options": [
+        "Due giardini amari hanno sostituito i nostri rigogliosi",
+        "I nostri giardini sono diventati ancora più rigogliosi",
+        "La terra sprofondò sotto il mare",
+        "Eravamo sepolti sotto la cenere vulcanica",
+        "La nostra nazione si divise in dodici tribù"
+      ],
+      "answer": "Due giardini amari hanno sostituito i nostri rigogliosi"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

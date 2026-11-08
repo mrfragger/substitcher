@@ -1,0 +1,61 @@
+{
+  "title": "skatten som sjönk under stolthet",
+  "intro": "Tänk dig att stå framför högar av rikedom så enorm att bara att bära nycklarna skulle utmatta en grupp starka individer. Runt omkring dig uppmanar röster till ödmjukhet och minne, men stolthet växer sig starkare än tacksamhet. Vad händer när generositet blir ett prov och arrogans beseglar resultatet?",
+  "clues": [
+    "Jag var från Musas folk, men jag överträdde dem.",
+    "Jag fick så oerhörda skatter att nycklarna till dem skulle tynga en grupp starka män.",
+    "Jag blev rådd av mitt folk att inte jubla och att söka livet efter detta utan att glömma min del av denna värld.",
+    "Jag hävdade att det jag ägde hade jag fått endast på grund av kunskap jag hade.",
+    "Jag framträdde inför mitt folk i prydnad, och de som åtrådde världsligt liv önskade sig något liknande det jag hade.",
+    "Jag slukades av jorden tillsammans med min boning, och ingen kunde hjälpa mig, och inte heller kunde jag hjälpa mig själv."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Skröt om rikedom och förnekade Allahs gunst trots råd",
+        "Utmanade Ibrahim om att ge liv och död",
+        "Ledde en armé mot Talut och Dawud",
+        "Snidade avgudar för folket att dyrka",
+        "Dödade en bror av avund över ett offer"
+      ],
+      "answer": "Skröt om rikedom och förnekade Allahs gunst trots råd"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Nycklar till enorma skatter",
+        "Förbundsarken",
+        "En gyllene kalv av prydnader",
+        "En damm mellan två berg",
+        "Elva stjärnor i en dröm"
+      ],
+      "answer": "Nycklar till enorma skatter"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Uppslukad av jorden med bostad och rikedom",
+        "Drunknade i havet medan han förföljde Musa",
+        "Slås ner av en sten från Dawuds slunga",
+        "Förstört av en kraftig explosion för att ha huggit ihop en kamelhona",
+        "Förvandlades till apor för att de bröt sabbaten"
+      ],
+      "answer": "Uppslukad av jorden med bostad och rikedom"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

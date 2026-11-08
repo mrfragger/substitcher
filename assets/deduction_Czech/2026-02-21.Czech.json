@@ -1,0 +1,61 @@
+{
+  "title": "Posel velké potopy",
+  "intro": "Tento jedinec stál po staletí jako pilíř vytrvalosti a volal vzdorovitou společnost ke světlu pravdy, zatímco čelil posměchu a odmítnutí. Navzdory drtivé převaze a tíze poselství, které se táhne generacemi, tento služebník zůstal neochvějný ve svém poslání až do vydání konečného dekretu.",
+  "clues": [
+    "Strávil jsem devět set padesát let voláním svého lidu na cestu spravedlnosti, dnem i nocí, tajně i veřejně.",
+    "Varoval jsem svůj lid před trestem bolestným, ale oni si v pýše zacpávali uši a přikrývali se svými oděvy.",
+    "Bylo mi přikázáno postavit něco mohutného pod bdělým zrakem mého Pána, i když nebyla v dohledu žádná voda.",
+    "Když jsem pracoval, procházeli kolem vůdci mého lidu a posmívali se mi, ale řekl jsem jim, že brzy se jim budeme posmívat my.",
+    "Prosil jsem, aby se ke mně připojilo mé vlastní maso a krev, ale oni se rozhodli hledat útočiště na hoře v domnění, že je to zachrání před stoupajícím přílivem.",
+    "Moje loď nakonec zastavila na hoře Judi poté, co země pohltila vodu a obloha ustala s lijákem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Sálih",
+        "Prorok Nuh",
+        "Prorok Lut",
+        "Prorok Šu'ajb"
+      ],
+      "answer": "Prorok Nuh"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Transformující personál",
+        "Velká potopa",
+        "Chladící oheň",
+        "Rozdělující se moře",
+        "Boží velbloud"
+      ],
+      "answer": "Velká potopa"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zlaté tele",
+        "Zaměstnanci",
+        "Košile",
+        "Archa",
+        "Prsten"
+      ],
+      "answer": "Archa"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Vstup do zaslíbené země",
+        "Utonutí v Rudém moři",
+        "Odpočinek na hoře Judi",
+        "Být vhozen do jámy",
+        "Vzestup do nebes"
+      ],
+      "answer": "Odpočinek na hoře Judi"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

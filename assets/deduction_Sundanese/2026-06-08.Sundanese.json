@@ -1,0 +1,61 @@
+{
+  "title": "Nu Ngadu ti Tempat Suci",
+  "intro": "Dina wanci peuting anu sepi, hiji jiwa anu satia ngajerit ka Nu Maha Welas Asih di jero témbok suci tempat suci. Mangtaun-taun iman sareng kasabaran anu teu goyah badé diganjar ku mujijat anu bakal mawa kabagjaan sareng warisan kenabian.",
+  "clues": [
+    "Abdi ngabéakkeun siang sareng wengi abdi dina ibadah di jero tempat suci, teras-terasan neneda ka Gusti abdi.",
+    "Abdi parantos sepuh, sareng pamajikan abdi mandul, tapi abdi henteu pernah kaleungitan harepan kana rahmat Allah.",
+    "Abdi dipaparin putra, namina Yahya, anu janten nabi sareng suar kasaean.",
+    "Abdi ogé saurang nabi, anu diutus pikeun nungtun Bani Israil.",
+    "Abdi turunan Nabi Harun sareng ngajabat salaku imam di Bait Allah.",
+    "Abdi dipercaya ngurus Maryam, ibuna Isa, sareng nyaksian mujijat-mujijatna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Nabi Zakaria",
+        "Nabi Yahya",
+        "Nabi Ilyas",
+        "Nabi Ishak",
+        "Nabi Ya'qub"
+      ],
+      "answer": "Nabi Zakaria"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Diwenehi putra nalika sepuh",
+        "Disalametkeun tina seuneu anu ngagedur",
+        "Disalametkeun tina beuteung lauk",
+        "Salamet tina banjir ageung",
+        "Diubaran tina panyakit anu parah"
+      ],
+      "answer": "Diwenehi putra nalika sepuh"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Mihrab (tempat solat)",
+        "Ka'bah",
+        "Rungkun Nu Ngaduruk",
+        "Peti Perjanjian",
+        "Guha Tujuh Jalma Nu Saré"
+      ],
+      "answer": "Mihrab (tempat solat)"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Dipasihan putra anu soleh anu janten nabi",
+        "Ancur ku badai anu dahsyat",
+        "Tilelep di laut",
+        "Dijaga tina kaduruk",
+        "Balik deui ka rahayatna saatos disalametkeun tina lauk"
+      ],
+      "answer": "Dipasihan putra anu soleh anu janten nabi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Babatli ba Boammaaruri ba ba Robetseng",
+  "intro": "Akanya ka nako ya fa tumelo e ne e gwetlhiwa, mme setlhopha sa mewa se ne sa tlhopha go tlhomamisega go go sa reketleng go na le kgomotso ya lefatshe. E re ka ba ne ba lebane le tlhopho e e lapisang, ba ne ba batla botshabelo, ba simolola loeto lo lo neng lwa dira gore ba robale boroko jo bo sa tlwaelegang. Kgang ya bone ke bosupi jwa tshireletso ya bomodimo le maatla a tumelo kgatlhanong le kgatelelo. A o kgona go lemoga gore batho bano ba ba gakgamatsang ke bomang?",
+  "clues": [
+    "Re ne re le phuthego e nnye, re kopantswe ke tumelo e e tseneletseng mo Mmoping a le Mongwe.",
+    "Re ne re tshela mo motlheng o mmusi yo o maatla a neng a batla gore go obamelwa motho yo mongwe kwantle ga Allah.",
+    "Go boloka tumelo ya rona, re ne ra swetsa ka gore re tlogele magae a rona mme re tshabe kgatelelo eo.",
+    "Molekane yo o ikanyegang, sebopiwa sa lefatshe, o ne a tsamaya le rona mo loetong lwa rona.",
+    "Re ne ra bona botshabelo mo lefelong le le kwa thoko, koo Allah a neng a dira gore re tsene mo borokong jo bo tseneletseng, jo bo tsayang nako e telele.",
+    "Fa re tsoga, re ne re dumela gore go fetile letsatsi fela kgotsa karolo ya letsatsi, mme ruri go ne go fetile makgolokgolo a dingwaga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Mosele",
+        "Batho ba Thamude",
+        "Batho ba Saba'.",
+        "Batho ba Logaga",
+        "Batho ba Madyan"
+      ],
+      "answer": "Batho ba Logaga"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go lekwa ka naga e e senang sepe",
+        "Go lebana le morwalela o mogolo",
+        "Go batla botshabelo mo mmusi yo o gatelelang",
+        "Go latlhelwa mo molelong o o tukang",
+        "Go gwetlha maselamotse a moloi"
+      ],
+      "answer": "Go batla botshabelo mo mmusi yo o gatelelang"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ntlo e kgolo ya segosi",
+        "Sekepe/areka",
+        "Sediba se se boteng",
+        "Logaga",
+        "Thaba e e kwa godimo"
+      ],
+      "answer": "Logaga"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go newa bogosi",
+        "Boroko jo bo gakgamatsang jwa makgolokgolo a dingwaga",
+        "Go komediwa ke lefatshe",
+        "Go bolokwa mo setsuatsueng se se senyang",
+        "Go tlamelwa ka tafole ya selegodimo"
+      ],
+      "answer": "Boroko jo bo gakgamatsang jwa makgolokgolo a dingwaga"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

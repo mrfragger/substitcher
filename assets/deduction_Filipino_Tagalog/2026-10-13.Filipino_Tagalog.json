@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mabangis na Kalaban",
+  "intro": "Noong mga unang araw ng rebelasyon, isang pigura ang lumitaw bilang isang matigas ang ulong kalaban ng katotohanan. Dahil sa kayamanan at katayuan, pinili ng kaluluwang ito ang pagmamataas kaysa sa patnubay, at ang kanilang kuwento ay naging isang matinding babala sa mga huling talata ng isang surah.",
+  "clues": [
+    "Nakatira ako sa lungsod na iyon kasama ang Propeta, at kabilang ako sa pinakamalapit niyang kamag-anak, ngunit ang aking pagmamataas ang naglayo sa akin sa katotohanan.",
+    "Marami akong kayamanan at ari-arian, at inakala kong palagi akong poprotektahan ng aking mga pinagkukunan.",
+    "Nang maipahayag ang mensahe, hayagan ko itong kinutya at tumalikod, na itinuturing ang aking sarili na nakahihigit sa mga mananampalataya.",
+    "Ang aking poot ay naging lubhang kapansin-pansin kaya't isang surah ng Quran ang direktang tumukoy sa akin, na tinatawag ako sa pangalang kilala ako ng iba.",
+    "Binalaan ako na ang aking kayamanan at ang aking kinikita ay hindi makakatulong sa akin, at ako ay itatapon sa nagliliyab na apoy.",
+    "Kilala ako bilang ama ng apoy, at ang aking asawa ay magbubuhat ng panggatong gamit ang lubid na gawa sa hibla ng palma sa kanyang leeg."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Tinanggihan ang Islam at hayagang tinutulan ang Propeta",
+        "Nagplanong patayin ang Propeta",
+        "Pinangunahan ang isang social boycott laban sa mga Muslim",
+        "Nakipaglaban sa Labanan sa Badr",
+        "Pinahirapan si Bilal ibn Rabah"
+      ],
+      "answer": "Tinanggihan ang Islam at hayagang tinutulan ang Propeta"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang lubid na gawa sa hibla ng palma",
+        "Isang matalas na espada",
+        "Isang mabigat na kadena",
+        "Isang tungkod na gawa sa kahoy",
+        "Isang latigo na gawa sa katad"
+      ],
+      "answer": "Isang lubid na gawa sa hibla ng palma"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Masusunog sa nagliliyab na apoy",
+        "Nagsisi at naging kasama",
+        "Nawala ang kanyang kayamanan ngunit namatay nang may karangalan",
+        "Tumakas patungong Abisinia",
+        "Nalunod sa dagat"
+      ],
+      "answer": "Masusunog sa nagliliyab na apoy"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

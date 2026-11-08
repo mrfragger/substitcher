@@ -1,0 +1,61 @@
+{
+  "title": "Ang Pasyente",
+  "intro": "Noong unang panahon, noong mga unang araw ng kasaysayan ng tao, dalawang kaluluwa ang tumayo sa harap ng kanilang Lumikha na may dalang mga handog. Ang isa ay tinanggap, ang isa ay hindi. Ang sumunod ay ang magiging unang malaking trahedya sa pagitan ng magkakapatid - isang gawa ng matiyagang pagtitimpi at isang gawa ng mapait na paghihiganti. Matutuklasan mo ba kung sino ako?",
+  "clues": [
+    "Ipinanganak ako sa mga unang araw ng buhay ng tao sa mundo",
+    "Ako ay anak ng pinakaunang pares ng mga taong nabuhay sa mundong ito",
+    "Minsan akong nag-alay ng handog mula sa pinakamabuti sa aking kawan upang mapalugdan ang aking Lumikha",
+    "Tinanggap ang aking handog mula sa itaas, habang ang handog ng aking kapatid ay tinanggihan.",
+    "Nang pinagbantaan ng kamatayan, pinili kong huwag iunat ang aking kamay laban sa aking kapatid",
+    "Ako ang naging unang tao sa buong kasaysayan ng tao na pinatay nang hindi sinasadya ng iba"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Habil (Abel), anak ni Adan",
+        "Qabil (Cain), anak ni Adan",
+        "Si Adan, ang unang tao",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), anak ni Adan"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang unang pagpatay sa kasaysayan ng tao",
+        "Ang malaking baha noong panahon ni Nuh",
+        "Ang pagkawasak ng hukbo ni Fir'awn",
+        "Ang pagsasakripisyo ni Ibrahim kay Ismail",
+        "Ang labanan laban kay Jalut (Goliath)"
+      ],
+      "answer": "Ang unang pagpatay sa kasaysayan ng tao"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang tupang inihandog bilang isang kaaya-ayang sakripisyo",
+        "Isang malaking arkang gawa sa kahoy",
+        "Isang tungkod na naging ahas",
+        "Isang ibong hoopoe na may dalang mensahe ng hari",
+        "Isang nagliliyab na kanal ng apoy"
+      ],
+      "answer": "Isang tupang inihandog bilang isang kaaya-ayang sakripisyo"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naging unang biktima ng pagpatay sa kasaysayan ng sangkatauhan",
+        "Nakaligtas sa isang malaking baha sa loob ng isang sasakyang-dagat na gawa sa kahoy",
+        "Nabuhay sa loob ng tiyan ng isang malaking isda",
+        "Pinamunuan ang jinn, mga tao, at ang hangin",
+        "Naglakbay nang apatnapung taon sa malawak na ilang"
+      ],
+      "answer": "Naging unang biktima ng pagpatay sa kasaysayan ng sangkatauhan"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

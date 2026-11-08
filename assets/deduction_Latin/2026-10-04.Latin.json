@@ -1,0 +1,61 @@
+{
+  "title": "Onus Quod Sanationem Attulit",
+  "intro": "Anima ultra modum tentata solacio, sociis, et viribus corporis exuta est. In profunda afflictione segregatus, hic servus Dei solum ad Divina se convertit. Per patientiam indefessam et preces ex animo, aestus misericordiae advenit qui omnem expectationem superavit. Quis est hic cuius devotio ianuam restitutionis aperuit?",
+  "clues": [
+    "Servus Allah dilectus eram, abundantia, domo florente, et valetudine bona fruitus in diebus meis.",
+    "Tum tribulatio advenit: divitiae abierunt, cari abierunt, et caro mea gravi dolore percussa est.",
+    "Qui mihi proximi erant condicionem meam ferre non poterant, et ego solus relictus sum, corpore meo dolore confectum.",
+    "Dominum meum invocavi, declarans Satanam me defatigatione et poena tetigisse.",
+    "Responsum venit — imperium ut terram pede percuterem, et ex ea aqua frigida ad sanationem profluxit.",
+    "Dominus meus difficultatem omnino removit et mihi familiam meam, multiplicatam, restituit, in signum misericordiae erga eos qui cogitant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ayyub",
+        "Propheta Musa",
+        "Propheta Iosue",
+        "Propheta Yunus",
+        "Propheta Ibrahim"
+      ],
+      "answer": "Propheta Ayyub"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Morbus gravis et amissio omnium",
+        "In ignem iussu tyranni coniectus",
+        "In profunda fovea a propinquis inclusus",
+        "Ab magno pisce in mari deglutitus",
+        "Ex patria exsul errans"
+      ],
+      "answer": "Morbus gravis et amissio omnium"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Frigidus fons qui e terra erupit",
+        "Ignis frigidus et pacificus",
+        "Arca super montem quiescens",
+        "Baculus qui mare divisit",
+        "Calathus in flumine fluitans"
+      ],
+      "answer": "Frigidus fons qui e terra erupit"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Familia et benedictiones restitutae, duplicatae",
+        "Ignem ardentem incolumis effugit",
+        "Ad summum regni munus ascendit",
+        "Ex ventre piscis magni ad salutem egressus est",
+        "Populum per mare divisum duxit"
+      ],
+      "answer": "Familia et benedictiones restitutae, duplicatae"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

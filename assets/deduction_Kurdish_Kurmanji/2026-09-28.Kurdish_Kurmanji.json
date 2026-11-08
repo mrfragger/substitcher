@@ -1,0 +1,61 @@
+{
+  "title": "Yanzdeh Stêrên Ku Çûbûn",
+  "intro": "Kesayetek ji Quranê di zarokatiya xwe de dîtinek kûr wergirt - xewnek ku laşên ezmanî bi rêzdarî tewandin. Sal dê di nav xiyanet, veqetandin, sûcdarkirinên derewîn û girtinê re derbas bibin berî ku ev dîtin pêk were. Ev giyanê berxwedêr kî ye ku çîroka wî beşa herî dirêj a Quranê dagir dike?",
+  "clues": [
+    "Carekê ez ciwan bûm, bi xewneke ecêb re bextewar bûm ku heta bavê min jî hişyarî da min ku ez wê veşartî bihêlim.",
+    "Birayên min, yên ku ji çavnebariyê kor bûbûn, li dijî min komplo çêkirin û ez avêtin bîreke kûr û tarî.",
+    "Ez birin welatekî dûr û firotin mala karmendekî esilzade, li wir min dilovanî dît û di berpirsiyariyê de bilind bûm.",
+    "Tawanbarkirina derew bû sedema girtina min a neheq, lê di wê cîhê tarî de min teselî di dua û secdekirina ji Xwedê re de dît.",
+    "Xwedê min bi şiyana şîrovekirina xewnan a kêmdîtî pîroz kir, ku di dawiyê de min bir pêşberî hukumdarê welêt û ez bi pileyeke bilind a baweriyê bilind kirim.",
+    "Piştî salên dûr û dirêj ji hev veqetînê, ez dîsa gihîştim malbata xwe ya delal, û xewna min a zarokatiyê ya yazdeh stêrk, roj û heyvê ku li ber min ditewînin, di dawiyê de pêk hat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Yûsif",
+        "Pêxember Salih",
+        "Pêxember Îlyas",
+        "Tubba', hukumdarê Himyarê kevnar",
+        "Şivanekî dilnizm ji girên Filistînê"
+      ],
+      "answer": "Pêxember Yûsif"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ji aliyê birayên hesûd ve tên avêtin bîreke kûr û tarî",
+        "Ji aliyê afirîdeyek mezin a deryayên kûr ve tê daqurtandin",
+        "Ji aliyê pûtperestan ve tên avêtin nav agirê geş",
+        "Ji aliyê bayekî xwedayî yê wêrankirinê ve tê şûştin",
+        "Ji lehiyê mezin xilas bûn ku tevahiya erdê nixumand"
+      ],
+      "answer": "Ji aliyê birayên hesûd ve tên avêtin bîreke kûr û tarî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Bîrek hişk li çolê ku ez lê hatim terikandin",
+        "Masîyekî mezin ê deryayên kûr",
+        "Keştiyeke mezin ku bi fermana xwedayî hatiye avakirin",
+        "Bircekî ku ji bo gihîştina ezmanan hatiye çêkirin",
+        "Agirekî pîroz ku red kir ku bişewite"
+      ],
+      "answer": "Bîrek hişk li çolê ku ez lê hatim terikandin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Piştî salan ji hev veqetînê, dîsa bi malbatê re civiya û bû xizmetkarekî pêbawer",
+        "Rêberiya koçberiyeke mezin a gelê min li ser deryayeke ji hev veqetiyayî kir",
+        "Min miletê min ji bo karesata nêzîk a ku wan dixwe hişyar kir",
+        "Xaniyek pîroz ava kir ku ji bo her kesî bûye wargehek",
+        "Piştî sê rojan bi ewlehî ji zikê afirîdeyek mezin derket"
+      ],
+      "answer": "Piştî salan ji hev veqetînê, dîsa bi malbatê re civiya û bû xizmetkarekî pêbawer"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

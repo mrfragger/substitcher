@@ -1,0 +1,61 @@
+{
+  "title": "Doluminak dituztenen gaubeila",
+  "intro": "Banaketa sakonenak probatutako arima batekin topo egitear zaude, zeinaren begiek malkoen hizkuntza ezagutzen zuten baina zeinaren bihotzak ez zuen inoiz itxaropena galdu. Engainu, irrika eta azkenean berriro elkartzeko istorio batean, Alaren zerbitzari noble hau pazientziaren sinbolo bihurtu zen betiko. Nork jasan zuen ezkutuko minaren urteak, une bakarrean ikusmena eta poza berreskuratzeko bakarrik?",
+  "clues": [
+    "Profeta bat naiz, eta nire izena galera handien aurrean pazientziaren ikur bihurtu zen.",
+    "Seme askorekin bedeinkatu ninduten, baina bat besteen jeloskortasunak kendu zidan.",
+    "Galdutakoarekiko nuen maitasuna hain sakona zen, ezen begiak zurbildu zitzaizkidan atsekabeaz, baina ez nintzen inoiz kexatu Ala-ri izan ezik.",
+    "Semeak galdu nuena eta bere anaia bilatzera bidali nituen, itxaropena ez galtzeko eskatuz.",
+    "Berri onen eramailea iritsi zenean, alkandora bat jarri zidaten aurpegian, eta bat-batean mundua berriro argitu zen.",
+    "Israel bezala ezagutzen naiz, eta nire hamabi semeetatik sortu ziren nazio handi baten hamabi leinuak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ya'qub (Jakob) profeta",
+        "Yusuf (Joseph) profeta",
+        "Isaak (Isaak) profeta",
+        "Ibrahim (Abraham) profeta",
+        "Ayyub (Job) profeta"
+      ],
+      "answer": "Ya'qub (Jakob) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Maite duzun semearengandik urte askotan bananduta egotea",
+        "Su bizian botata egotea",
+        "Arrain handi batek irentsi du",
+        "Larruazaleko gaixotasun larri batek jota",
+        "Zahartzarora arte seme-alabarik gabe egotea"
+      ],
+      "answer": "Maite duzun semearengandik urte askotan bananduta egotea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Yusufen alkandora.",
+        "Musaren langileak.",
+        "Nuh-ren arka",
+        "Salih-en gamelu emea",
+        "Sulaymanen eraztuna."
+      ],
+      "answer": "Yusufen alkandora."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ikusmena berreskuratu eta bere semearekin elkartu zen",
+        "Errege tirano baten aurkako garaipena lortu zuen",
+        "Zeruetara bizirik altxatua",
+        "Egiptoko agintari izendatu zuten",
+        "Zahartzaroan seme bat mirari gisa eman zioten"
+      ],
+      "answer": "Ikusmena berreskuratu eta bere semearekin elkartu zen"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

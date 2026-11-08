@@ -1,0 +1,61 @@
+{
+  "title": "Yalançı Ambisiyanın Memarı",
+  "intro": "Böyük səlahiyyət sahibi bir şəxs qədim Misirdə tarixin ən məşhur tiranlarından birinə xidmət etmişdi. Bu şəxsə cəsarətli bir əmr - göylərə meydan oxumaq üçün nəzərdə tutulmuş bir bina tikmək tapşırılmışdı. Onların hekayəsi Quranda təkəbbürə kor-koranə itaətin yalnız məhvə apardığına dair təəccüblü bir dərs kimi təqdim olunur.",
+  "clues": [
+    "Mən torpaqlar üzərində ilahilik iddiası edən güclü bir hökmdarın sarayında xidmət edirdim.",
+    "Mən yüksək nazir vəzifəsində çalışmışam və dövrümün ən təkəbbürlü tiranına məsləhət vermişəm.",
+    "Hökmdarım tanımaq istəmədikləri Musanın Allahına meydan oxumaqla məşğul idi.",
+    "Mənə əmr edildi ki, hökmdarım göylərə qalxa bilsin deyə odda bişmiş kərpicdən bir qüllə tikim.",
+    "Qüllə heç vaxt göyə çatmadı və təkəbbürə qulluğum mənə əbədi rüsvayçılıq qazandırdı.",
+    "Mən də tabe olduğum adamla birlikdə həlak oldum və adım zalımlara yol verənlərə qarşı əbədi bir xəbərdarlıq oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Haman",
+        "Azər (İbrahimin atası)",
+        "İlyas (peyğəmbər)",
+        "Zül-Kifl",
+        "Harut (Babildəki iki mələkdən biri)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Göylərə çatmaq üçün uca bir bina tikmək əmri verildi",
+        "İlahidən göndərilən bir yuxunu yozması istəndi",
+        "İman sınağı olaraq alovlu bir oda atıldı",
+        "Taxt və həqiqət arasında seçim etməyə məcbur oldu",
+        "Sehrbazlıq yarışmasında çətinlik çəkir"
+      ],
+      "answer": "Göylərə çatmaq üçün uca bir bina tikmək əmri verildi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Odda bişmiş kərpicdən tikilmiş bir qüllə",
+        "İlana çevrilən bir əsa",
+        "Böyük bir daşqından keçən bir gəmi",
+        "Hündür divarlarla əhatə olunmuş bağ",
+        "Yaqut və qızılla bəzədilmiş taxt"
+      ],
+      "answer": "Odda bişmiş kərpicdən tikilmiş bir qüllə"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Dənizdə zalımla birlikdə boğuldu",
+        "Geniş torpaqların güclü bir monarxına çevrildi",
+        "Alovlanan yanğından zərər görmədən xilas oldu",
+        "Müdrikliyin çiçəklənən bir səltənəti qurdu",
+        "İllərdir sürgün həyatı yaşadıqdan sonra ailəsi ilə yenidən qovuşdu"
+      ],
+      "answer": "Dənizdə zalımla birlikdə boğuldu"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

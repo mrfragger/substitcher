@@ -1,0 +1,61 @@
+{
+  "title": "Moya-xiviri lowu tinyiketeleke wa langavi ro kwetsima",
+  "intro": "Emahlweni ka wena ku ni ntsheketo wa xivindzi lexi nga tolovelekangiki, laha munhu un’we a nga ni xivindzi xo tlhontlha ripfumelo leri dzimeke timitsu swinene ra nhluvuko hinkwawo. Landzelela ku hlevetela loku ka nkarhi lowu hundzeke, kutani u ta paluxa vutomi lebyi funghiweke hi ripfumelo leri nga tiyisekiki, ku pona hi singita ni ku vekiwa ka masungulo lama nga ta vumba riendzo ra moya ra magidi ya timiliyoni. Landzelela xikombiso xin’wana ni xin’wana hi vukheta — ndzilo wo kwetsima wa ha tsundzuka.",
+  "clues": [
+    "Ndzi velekiwe endyangwini lowu a wu xixima swilo swa le tilweni ni ku vatla swifaniso, hambiswiritano nchumu wun’wana lowu a wu ri endzeni-ndzeni ka mina wu arile leswi a va swi gandzela.",
+    "Ndzi yime ndzi lwisana ni mufumi wa matimba swinene wa tiko ra mina, ndzi pfotlosa swifaniso leswi vanhu va mina a va nkhinsamela swona, ni ku tivisa leswaku i Muvumbi wa matilo ntsena loyi a faneriwaka hi ku tinyiketela.",
+    "Ku lerisiwile ndzilo lowu pfurhaka hi vito ra mina, kambe ndzi huwelerile leswaku Loyi ndzi n’wi tirhelaka ndzi ri ndzexe u ta ndzi ponisa — naswona malangavi ya lerisiwile ku va yo kufumela no hlayiseka.",
+    "Ndzi siye hinkwaswo leswi ndzi swi toloveleke hi xileriso xa Xikwembu, ndzi ri karhi ndzi famba-famba emikoveni leyi omeke ni ndyangu wa mina, ndzi tshemba lunghiselelo leri a ndzi nga si ri vona.",
+    "Hi yime etlhelo ka n’wana wa mina wa mativula enkoveni lowu nga riki na nchumu, hi tlakuse swin’we masungulo ya yindlu yo kwetsima, ndhawu yo kwetsima leyi kunguhatiweke hinkwavo lava titsongahataka.",
+    "Ndzi tiviwa tanihi Khalilullah — munghana wa le kusuhi wa Loyi a nga ni Tintswalo-nkulu — naswona vito ra mina ri hlanganisiwe hilaha ku nga heriki ni ripfumelo ra ku tinyiketa ni ku titsongahata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Ibrahim (Abrahama) .",
+        "Muprofeta Musa (Muxe) .",
+        "Muprofeta Nuh (Nowa) .",
+        "Muprofeta Isa (Yesu) .",
+        "Muprofeta Muhammad صلى الله عليه وسلم"
+      ],
+      "answer": "Muprofeta Ibrahim (Abrahama) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku lahleriwa endzilweni lowu pfurhaka hi mufumi wa tihanyi",
+        "Ku mitiwa endzeni ka nhlampfi leyikulu elwandle",
+        "Ku ehlisiwa ekheleni hi vamakwerhu lava nga ni mavondzo",
+        "Ku rhwariwe ehenhla ka xivumbiwa lexi nga ni timpapa",
+        "Ku tiyisela ndhambi leyikulu endzeni ka xibya xa tihunyi"
+      ],
+      "answer": "Ku lahleriwa endzilweni lowu pfurhaka hi mufumi wa tihanyi"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Yindlu yo Kwetsima (Kaaba) .",
+        "Xibya lexikulu xa mapulanga lexi akiweke ehenhla ka ntshava",
+        "Nhonga leyi a yi nga ha avana yi pfulela lwandle",
+        "Bako ra vurhongo byo leha leri nga ni mbyana yo tshembeka",
+        "Buku-nsongwa ya nawu lowu hlavuteriweke leyi nyikiweke ntshava"
+      ],
+      "answer": "Yindlu yo Kwetsima (Kaaba) ."
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U sungule ku tiviwa tanihi Khalilullah, munghana lonkulu wa Allah",
+        "U rhangele vanhu va tsemakanya lwandle leri avaneke va ya laha ku hlayisekeke",
+        "U nyikiwe vutshila eka mimoya ni matimba lama nga voniwiki",
+        "U ve n’anga leyi katekisiweke hi ku horisa hi singita",
+        "Hlanganisa tinxaka ta khume-mbirhi leti hangalakeke ehansi ka ntwanano wun’we"
+      ],
+      "answer": "U sungule ku tiviwa tanihi Khalilullah, munghana lonkulu wa Allah"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

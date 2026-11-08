@@ -1,0 +1,61 @@
+{
+  "title": "Profeten artean arima leuna",
+  "intro": "Zuzenbidera dei egiten duen ahots batek oihartzuna du Koran Noblearen bertsoetan. Arima bedeinkatu honi profezia eta jainkozko idatziak eman zitzaizkion, Israelgo seme-alaben artean gidaritza premiazkoa zen garaian. Pertsona honek zuzenean hitz egin zion bere herriari, Jauna gogoratzera bultzatuz. Pazientzia eta debozioaren bidez, argi-argi bihurtu ziren, eta haien istorioak idatzi sakratuen orrialdeak argitzen ditu. Identifika al dezakezu Koranean eta Ebanjelioan izena ohoratzen den pertsonaia bikain hau?",
+  "clues": [
+    "Profezia eta zeruko liburu batekin ohoratu ninduten nire herriaren behar garaian.",
+    "Nire amak modu harrigarrian erditu ninduen, Alaren agindu jainkotiar bakarrarekin.",
+    "Nire herriari zuzendu nintzen, esanez: «Israelgo seme-alabak! Alaren mezularia naiz zuentzat, nire aurretik etorri zena baieztatzen duena».",
+    "Zure Jaunarengandik seinale argiak ekarri nituen, Ahmad izeneko profeta baten berri onak ekarriz.",
+    "Nire ama emakume zintzoa zen, gaztetatik Ala-ren zerbitzura dedikatu ninduena.",
+    "Ala-k Koranak irakatsi zizkidan eta errukitsu eta amarekiko obediente bihurtu ninduen, eta ez nintzen harroputz edo desobediente izan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Zakariyya profeta",
+        "Isa ibn Maryam profeta",
+        "Mahoma profeta (la paz eta lah)",
+        "Dawud profeta",
+        "Yunus profeta"
+      ],
+      "answer": "Isa ibn Maryam profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Jerusalemgo Tenplua eraiki zuen",
+        "Haurtxo gisa sehaskan hitz egin zuen",
+        "Itunaren Arka eraman zuen",
+        "Midiango herria gidatu zuen",
+        "Ninivera bidaiatu zuen"
+      ],
+      "answer": "Haurtxo gisa sehaskan hitz egin zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Jerusalem hiria",
+        "Belen eskualdea.",
+        "Zakariyyaren etxea.",
+        "Sinai mendia",
+        "Bakako harana."
+      ],
+      "answer": "Zakariyyaren etxea."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gorputz gisa zerura eramana izan zen",
+        "Urteetan lepra probatu zuten",
+        "Gurtzarako tenplu handi bat eraiki zuen",
+        "Israeldarrak federa itzuli zituen",
+        "Itsasoa makila batekin zatitu zuen"
+      ],
+      "answer": "Gorputz gisa zerura eramana izan zen"
+    }
+  },
+  "verseRef": "61:6",
+  "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+  "verse": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\" (61:6)"
+}

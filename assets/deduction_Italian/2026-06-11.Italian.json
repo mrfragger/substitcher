@@ -1,0 +1,61 @@
+{
+  "title": "Il villaggio sulle rive della prova",
+  "intro": "Ti ritrovi in ​​un villaggio costiero, dove il suono delle onde si mescola ai sussurri di un popolo dimenticato. A loro fu imposto il riposo, ma la loro avidità li condusse a una punizione di cui si parla ancora a bassa voce. Riuscirai a scoprire chi erano?",
+  "clues": [
+    "Abitavamo in riva al mare e ci fu ordinato di osservare un giorno di riposo.",
+    "Quel giorno i pesci arrivavano in abbondanza, ma ci era proibito prenderli.",
+    "Alcuni tra noi misero in guardia contro la trasgressione, ma altri cospirarono per pescare comunque.",
+    "Abbiamo violato il sacro comandamento e ci siamo attirati una severa punizione.",
+    "La nostra punizione fu una trasformazione che ci lasciò sfigurati e disonorati.",
+    "Fummo trasformati in scimmie, un segno per tutti coloro che sarebbero venuti dopo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Popolo del sabato",
+        "Popolo di Thamud",
+        "Persone di 'Ad",
+        "Abitanti della caverna",
+        "Popolo dell'Elefante"
+      ],
+      "answer": "Popolo del sabato"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Pescare di sabato",
+        "Adorare un vitello d'oro",
+        "Negare il messaggio di Hud",
+        "Uccidere la cammella",
+        "Costruire una torre verso il cielo"
+      ],
+      "answer": "Pescare di sabato"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il pesce",
+        "Una cammella",
+        "Uno staff",
+        "Una barca",
+        "Un giardino"
+      ],
+      "answer": "Il pesce"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Trasformati in scimmie",
+        "Distrutto da un'alluvione",
+        "Distrutto da un incendio divampante",
+        "Inghiottito dalla terra",
+        "Dispersi da un vento"
+      ],
+      "answer": "Trasformati in scimmie"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

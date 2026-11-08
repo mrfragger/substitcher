@@ -1,0 +1,61 @@
+{
+  "title": "Die Architekten aus Stein",
+  "intro": "Stellen Sie sich eine mächtige Zivilisation vor, begabt mit Kraft und Geschick, die prächtige Wohnstätten in Berghänge hauchte. Diese Gemeinschaft besaß immensen Wohlstand und einzigartige architektonische Meisterschaft. Doch trotz deutlicher Warnungen wählten sie einen Weg, der zu einem dramatischen und unvergesslichen Ende führen sollte. Können Sie diese Gruppe identifizieren, deren Geschichte allen, die darüber nachdenken, eine tiefgreifende Lehre bietet?",
+  "clues": [
+    "Uns wurden Kraft und Geschicklichkeit verliehen, die es uns ermöglichten, prächtige Häuser direkt in die Berge zu bauen.",
+    "Uns wurde von Allah ein klares Zeichen gegeben, nämlich ein einzigartiges Geschöpf, das ungestört grasen gelassen werden sollte.",
+    "Unsere Gemeinschaft wurde arrogant und stellte die göttliche Botschaft in Frage, die ein Bote aus unseren eigenen Reihen überbrachte.",
+    "Wir haben uns verschworen, das Wunderzeichen zu beschädigen, trotz der Warnungen vor strenger Bestrafung.",
+    "Wir widersetzten uns dem Befehl, das besondere Wesen nur jeden zweiten Tag aus unserem Brunnen trinken zu lassen.",
+    "Wir fanden ein verheerendes Ende, ausgelöscht von einer einzigen, furchtbaren Explosion nach unserem Vergehen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Leute von 'Ad",
+        "Menschen von Midian",
+        "Menschen des Elefanten",
+        "Volk der Thamud",
+        "Volk von Lut"
+      ],
+      "answer": "Volk der Thamud"
+    },
+    "trial": {
+      "label": "Unser wichtigster Prozess/unsere wichtigste Veranstaltung",
+      "options": [
+        "Die Flut, die das Land überschwemmte",
+        "Die Spaltung des Meeres",
+        "Die Zerstörung durch einen einzigen Knall/Schrei",
+        "Die Zerstörung einer Stadt",
+        "Die Verwandlung eines Berges in Staub"
+      ],
+      "answer": "Die Zerstörung durch einen einzigen Knall/Schrei"
+    },
+    "location": {
+      "label": "Ein Schlüsselelement unserer Geschichte",
+      "options": [
+        "Ein goldenes Kalb",
+        "Eine wundersame Kamelstute",
+        "Ein brennender Busch",
+        "Ein sprechender Vogel",
+        "Ein majestätischer Thron"
+      ],
+      "answer": "Eine wundersame Kamelstute"
+    },
+    "outcome": {
+      "label": "Unser Endergebnis",
+      "options": [
+        "Ihm wurden immenser Reichtum und Macht verliehen",
+        "Zum Propheten erhoben",
+        "Völlige Vernichtung durch eine göttliche Strafe",
+        "Vergebung nach aufrichtiger Reue",
+        "Über die Erde verstreut, um zu wandern"
+      ],
+      "answer": "Völlige Vernichtung durch eine göttliche Strafe"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

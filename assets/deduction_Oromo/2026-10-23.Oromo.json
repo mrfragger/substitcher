@@ -1,0 +1,61 @@
+{
+  "title": "Ergama Magaalaa Durii Keessatti",
+  "intro": "Magaalaa durii dafqaan guutamte, namoonni ishee haaluu keessatti hidda gadi fageeffatanii fi akeekkachiisa dhumaa kan xiyyeeffannaa hin arganne. Har'a gahee warra Rabbiin ergamee ummata mata jabeessa ta'eef ergaa dabarsuu keessa tarkaanfadhaa. Seenaa diduu, sagalee amantii tokkicha, fi xumura labsii gaaga’amaatiin mallatteeffame. Eenyutu karaa ragaalee kanaan dubbata?",
+  "clues": [
+    "Magaalaa ummanni ishee dhugaa irraa garagalee Rabbiin nu erge",
+    "Lama keenya dursinee dhufne, achiis inni sadaffaan ergama keenya cimsuuf itti makame",
+    "Warri magaalaa nuti akka isaanii nama malee homaa miti jechuun nu didan",
+    "Lubbuun tokkichi fixee magaalattii isa fagoo irraa fiigdee ummata nu hordofaa itti himte",
+    "Nuti isaan kadhanne, isaan garuu garaa isaanii jabeessanii nutti garagalan",
+    "Samii irraa iyya gaddisiisaa tokkoon magaalaan keenya guutuun callifamte"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ergamtoonni Magaalaa Suuraa Ya-Sin keessatti",
+        "Hawwariyyun (Duka Bu'oota Isaa) .",
+        "Falfaltoota Mana Murtii Fara'oon",
+        "Sahaaba Sanbataa",
+        "Ummata Qeerroo"
+      ],
+      "answer": "Ergamtoonni Magaalaa Suuraa Ya-Sin keessatti"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ummata magaalaatiin didamtee sobduu jedhame",
+        "Ibidda guddaa boba'aa jiru keessatti lubbuun gubate",
+        "Qurxummii guddaa galaana gadi fagoo keessa jiruun liqimfame",
+        "Utubaa olka'aa ijaaruuf hojii hojjechuuf dirqama",
+        "Boolla ibidda cimaa keessatti dararamaa ture"
+      ],
+      "answer": "Ummata magaalaatiin didamtee sobduu jedhame"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Magaalaa durii (al-Qaryah) .",
+        "Ibidda ibiddaa guddaa boba'u",
+        "Garaa qurxummii guddaa",
+        "Utubaa olka’aa samii tuqu",
+        "Mana qulqulluu (Kaaba) ."
+      ],
+      "answer": "Magaalaa durii (al-Qaryah) ."
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Magaalattiin iyya hamaa tokkichaan (Sayha) barbadaa'e .",
+        "Gabroomfataa fi waraanni isaa galaana gargar bahe keessatti liqimfame",
+        "Ummanni kun gara hantuutaa fi sareetti jijjiirame",
+        "Roobni dhagaa samii irraa roobe magaalattii barbadeesse",
+        "Lolaan hamaan hawaasa guutuu balleesse"
+      ],
+      "answer": "Magaalattiin iyya hamaa tokkichaan (Sayha) barbadaa'e ."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

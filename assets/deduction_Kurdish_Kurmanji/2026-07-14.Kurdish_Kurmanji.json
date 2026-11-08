@@ -1,0 +1,61 @@
+{
+  "title": "Ruhên Xendekê",
+  "intro": "Tu vedigerî serdemekê ku hukumdarekî bêrehm ji xwedayên derewîn re dilsoziya mutleq dixwest. Civateke biçûk ji giyanên dilsoz red kir û bi cezayek ewqas dijwar re rû bi rû ma ku ew bû nifir li herheyî. Çîroka wan di Quranê de wekî şahidiyek ji bo baweriya bêdawî deng vedide. Tu dikarî vê koma bêwestan nas bikî?",
+  "clues": [
+    "Em li welatekî di bin zordariya serwerekî de dijiyan ku daxwaza perestina xwedayên derewîn dikir",
+    "Civaka me tenê ji ber baweriya me bi Xwedê rastî gelek zordariyê hat",
+    "Serwer ferman da ku xendekek mezin bê kolandin û bi agirên dijwar bê şewitandin.",
+    "Ji ber ku me red kir ku em baweriya xwe berdin, em yek bi yek hatin avêtin nav wê çala agirîn",
+    "Çîroka me bû beşek ji Quranê, û ewên ku me zilm kirin her û her nifir lê hatin kirin.",
+    "Sûreya ku serpêhatiyên me tomar dike, navê xwe ji nîşanên mezin ên ezmanî yên asîmanî digire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Hevalên Xendekê (Eshab el-Ukhdud)",
+        "Xelkê Şikeftê (Eshab el-Kehf)",
+        "Xelkê Şemiyê",
+        "Xelkê Adê",
+        "Gelê Semûdê"
+      ],
+      "answer": "Hevalên Xendekê (Eshab el-Ukhdud)"
+    },
+    "trial": {
+      "label": "Ceribandina me",
+      "options": [
+        "Di çalek agirîn de zindî şewitandin",
+        "Bi salan di şikeftekê de girtî man",
+        "Masîgirtin di roja pîroz a bêhnvedanê de",
+        "Bi bayê gurrîn tê wêrankirin",
+        "Kuştina deveyekî pîroz"
+      ],
+      "answer": "Di çalek agirîn de zindî şewitandin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Xendekeke agirîn",
+        "Şikefteke veşartî bi kûçikekî dilsoz re",
+        "Stûnên bilind ên bajarekî kevnar ê mehkûm",
+        "Xanîyên çiyayî yên di zinaran de hatine kolandin",
+        "Deşteke vekirî ku ji aliyê bayên tund ve hatiye ajotin"
+      ],
+      "answer": "Xendekeke agirîn"
+    },
+    "outcome": {
+      "label": "Encama me",
+      "options": [
+        "Em şehîd bûn û zordar her û her nifir li wan hat kirin",
+        "Em piştî 309 salan xewê şiyar bûn",
+        "Em ji ber gunehên xwe veguherin meymûnan",
+        "Bayekî bihêz me hemûyan wêran kir",
+        "Qîrînek wêranker hebûna me perçe perçe kir"
+      ],
+      "answer": "Em şehîd bûn û zordar her û her nifir li wan hat kirin"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

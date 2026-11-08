@@ -1,0 +1,61 @@
+{
+  "title": "Molekane yo o sa Reketleng mo Tekong ya Gauta",
+  "intro": "Mo moriting wa moporofeti yo mogolo, go ne ga tlhophiwa mowa wa botswerere jwa go bua le tumelo go thusa mo thomong e kgolo. Palo eno e ne ya ema e nitame fa bontsi bo ne bo reketla, bo rera kgatlhanong le tlolomolao e e bonalang sentle e e neng e tshosetsa konokono ya bodumedi jwa Modimo a le mongwe. Fa moporofeti a boa go tla go bona go tlhokafala ga batho, go iphemela ga motho yono e ne e se ga go ipona molato mme e ne e le ga tiro le go tshaba go kgaogana. Motlhanka yono yo o ineetseng wa ga Allah ke mang?",
+  "clues": [
+    "Ke ne ka tlhophiwa ke Allah go dira tiro e e boitshepo mmogo le e nngwe, mme seabe sa me e ne e le sa go tshegetsa le go bolela.",
+    "Ke ne ka newa puo e e utlwalang sentle, mme ke ne ka tsamaya le morongwa go ya go lebana le mogateledi yo o maatla.",
+    "Ka nako ya loeto lo lo masisi, morongwa o ne a tlhatloga thaba a le esi, a ntlogela gore ke lebelele batho.",
+    "Fa batho ba ne ba seyo, ba ne ba dira setshwantsho sa gouta, mme ke ne ka ba kopa gore ba nne ba ikanyega, mme ba ne ba gana kgakololo ya me.",
+    "Fa morongwa a boa, a tletse bogale le kutlobotlhoko, ke ne ka tshwarwa, mme ke ne ka tlhalosa gore ke ne ke fentswe mme ke tshaba gore ke tla baka go sa utlwane mo gare ga bone.",
+    "Ke nna moporofeti yo o neng a eme fa thoko ga ga Musa, morwarre, a abelana morwalo wa gagwe le go nna a nitame kgatlhanong le kobamelo ya medimo ya disetwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Harun",
+        "Moporofeti Musa",
+        "Moporofeti Isa",
+        "Moporofeti Dawud",
+        "Moporofeti Zakariya"
+      ],
+      "answer": "Moporofeti Harun"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Batho ba ne ba obamela namane ya gouta le fa ba ne ba tlhagisiwa",
+        "Batho ba ne ba ntatlhela mo molelong o o tukang",
+        "Ke meditswe ke tlhapi e kgolo",
+        "Ke ne ka tsenngwa mo kgolegelong ka ditatofatso tsa maaka",
+        "Ke ne ka lelekwa mo motseng wa gaetsho ka ntlha ya go rera"
+      ],
+      "answer": "Batho ba ne ba obamela namane ya gouta le fa ba ne ba tlhagisiwa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Namane ya Gauta",
+        "Setlhatshana se se Fisang",
+        "Lore lo lo neng lwa fetoga noga",
+        "Matlapa a Kgolagano",
+        "Letlole la Kgolagano"
+      ],
+      "answer": "Namane ya Gauta"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ke ne ka gololwa mme ka tswelela ka thomo ya me ya boporofeti",
+        "Ke otlhaetswe sebe sa batho",
+        "Ke ne ka newa morafe o mosha go nkaela",
+        "Ke ne ka tlhatlosediwa kwa legodimong ke tshela",
+        "Ke dirilwe mmusi wa bogosi"
+      ],
+      "answer": "Ke ne ka gololwa mme ka tswelela ka thomo ya me ya boporofeti"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

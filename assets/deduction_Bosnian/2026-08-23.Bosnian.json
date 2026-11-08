@@ -1,0 +1,61 @@
+{
+  "title": "Nestalo mnoštvo",
+  "intro": "Stojite pred odjecima zajednice čija je priča ispisana u valovima. Ove duše su čule poziv, odabrale prkos i suočile se s posljedicama koje su preoblikovale Zemlju. Ko su oni i šta se dogodilo s njihovim svijetom?",
+  "clues": [
+    "Živjeli smo davno, i došao nam je poslanik između nas samih.",
+    "Obožavali smo pet idola i odbili smo ih napustiti.",
+    "Ismijavali smo glasnika i optužili ga da je skrenuo s pravog puta.",
+    "Zahtijevali smo da snosi kaznu ako je govorio istinu.",
+    "Vidjeli smo kako nebo lije kišu, a zemlja izbija izvore.",
+    "Popeli smo se na visoka mjesta da bismo pobjegli, ali su nas valovi pretekli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko smo mi?",
+      "options": [
+        "Nuhov narod",
+        "Ljudi iz 'Ad",
+        "Ljudi iz Semuda",
+        "Ljudi Luta",
+        "Ljudi iz Madjana"
+      ],
+      "answer": "Nuhov narod"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Utopila nas je velika poplava",
+        "Uništio nas je uragan",
+        "Ubila nas je glasna eksplozija",
+        "Progutala nas je zemlja",
+        "Zasuli su nas kamenjem s neba"
+      ],
+      "answer": "Utopila nas je velika poplava"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Velika poplava",
+        "Snažan vjetar",
+        "Kiša kamenja",
+        "Vatreni udar",
+        "Zemljotres"
+      ],
+      "answer": "Velika poplava"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Svi smo propali osim vjernika s Nuhom.",
+        "Pretvorili smo se u majmune",
+        "Ostavljeni smo kao ruševine za putnike",
+        "Pretvoreni smo u sol",
+        "Dobili smo predah"
+      ],
+      "answer": "Svi smo propali osim vjernika s Nuhom."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

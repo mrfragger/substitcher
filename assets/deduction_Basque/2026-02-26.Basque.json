@@ -1,0 +1,61 @@
+{
+  "title": "Egarriaren Proba",
+  "intro": "Komunitate batek, beren kausa defendatzeko lidergoaren irrikan, komandante bat izendatzeko eskaera egin zuen. Eskariari erantzun ziotenean, aukeratua eszeptizismoz hartu zuten, pertsona honek ez baitzuen espero zuten estatus mundiala. Azken konfrontazioaren aurretik, buruzagi berri honek armadaren diziplina bera probatuko zuen neurritasun proba sinple baina sakon batekin.",
+  "clues": [
+    "Nire herriak Alaren kausaren alde borrokatzeko buruzagi bat eskatu ondoren, komandante izendatu ninduten.",
+    "Hasieran, nire jende askok zalantzan jarri zuen nire izendapena, nire aberastasun eta leinu noble falta aipatuz.",
+    "Aukeratua izan nintzen Alak ezagutza ugari eta garaiera fisiko indartsua eman zizkidalako.",
+    "Nire jainkozko izendapenaren seinale argia Itunaren Arkaren itzulera izan zen, aingeruek eramana, eta horrek bakea ekarri zuen sinestunen bihotzetara.",
+    "Nire soldaduekin aurrera nindoala, iragarri nuen ibaiaren ondoan probatuko gintuztela.",
+    "Ibaitik sakon edaten zuena ez zela nire konpainiakoa agindu nion nire armadari, eta eskuan koilarakada bakarra hartzen zuena geratuko zela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Jalut (Goliat)",
+        "Talut (Saul)",
+        "Dawud profeta",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Zein izan zen nire proba nagusia?",
+      "options": [
+        "Gog eta Magogen aurkako hesi bat eraikitzea",
+        "Erraldoi bati borroka bakarrean aurre egitea",
+        "Armada baten obedientzia probatzen ibaian",
+        "Jinn eta hegaztien armada bat gidatzen",
+        "Sutan botata bizirik ateratzea"
+      ],
+      "answer": "Armada baten obedientzia probatzen ibaian"
+    },
+    "location": {
+      "label": "Zein izan zen nire autoritatearen seinale gakoa?",
+      "options": [
+        "Suge bihurtu zen makila",
+        "Harkaitz batetik atera zen gamelu bat",
+        "Burdin bigunduz egindako kota-armadura",
+        "Itunaren Arka (At-Tabut)",
+        "Zerutik etorritako janari mahaia"
+      ],
+      "answer": "Itunaren Arka (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Zein izan zen nire kanpainaren emaitza?",
+      "options": [
+        "Jaluten (Goliaten) armada garaitzea",
+        "Tirano bati ihes egiteko Itsaso Gorria zatitzen",
+        "Nire izenean dinastia iraunkor bat ezartzea",
+        "Kaaba sakratua eraikitzen Mekan",
+        "Hil gabe zerura igotzea"
+      ],
+      "answer": "Jaluten (Goliaten) armada garaitzea"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

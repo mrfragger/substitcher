@@ -1,0 +1,61 @@
+{
+  "title": "Lur azpian dagoen abisua",
+  "intro": "Imajinatu indusketa sakon baten ondoan zaudela, behetik ahotsak igotzen diren bitartean eta goiko mundua isiltzen den bitartean. Koranak eszena hau abisu gisa gordetzen du: komunitate batek mezulariek dakartzanak baztertzen ditu, zigorra hurbiltzen da, eta haren orroa ere testigantzaren parte bihurtzen da. Zein kolektibok hitz egiten du bertso horien bidez?",
+  "clues": [
+    "Koranean, izen indibidual baten ordez, patu partekatu batek definitutako kolektibo gisa gogoratzen gaituzte.",
+    "Mezularien mezua arbuiatu genuen, esandakoa egia izan arren.",
+    "Gure oroitzapenezko identitatea lurreko ebaki sakon bati lotuta dago, eta ezaugarri hori gure izenaren parte bihurtu zen.",
+    "Izendatu egunean, atera eta suaren aldera eraman gintuzten arrastaka.",
+    "Ezin genuen geure burua zigorraren aurka defendatu, eta ezin genuen haren orroa entzun.",
+    "Gure aurpegiak sutan buelta emango lirateke, eta sutara eramango gintuzte; galdekatuta, erantzun ezin zutenen artean ginela esango genuke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Lubakiaren Lagunak",
+        "Uholde Handitik Salbatutako Nazioa",
+        "Urrezko Txahalaren Gurtzaleak",
+        "Taldea mendiko kobazuloaren barruan babestuta",
+        "Suzko labetik askatu den komunitatea"
+      ],
+      "answer": "Lubakiaren Lagunak"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Arrastatu eta sutara bota zuten",
+        "Labe sutsu batetik askatua",
+        "Uholde handi baten bidez segurtasunez eramana",
+        "Mendeetan zehar kobazulo baten barruan babestuta",
+        "Putzu batera bota ondoren erreskatatu zuten"
+      ],
+      "answer": "Arrastatu eta sutara bota zuten"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Lubaki edo zulo bat",
+        "Itsaso handi bat.",
+        "Mendiko kobazulo bat.",
+        "Jauregi altu bat.",
+        "Basamortuko putzu bat"
+      ],
+      "answer": "Lubaki edo zulo bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ezin defendatu eta ezin entzun Suaren orroa",
+        "Erreskatatu eta betiko lorategietara sartzeko baimena eman zioten",
+        "Uholde suntsitzaile baten bidez segurtasunez entregatua",
+        "Kobazulo baten barruan lo luze batek babestuta",
+        "Betiko erreinu batekin ohoratua"
+      ],
+      "answer": "Ezin defendatu eta ezin entzun Suaren orroa"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

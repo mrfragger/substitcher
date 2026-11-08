@@ -1,0 +1,61 @@
+{
+  "title": "An Gairdín a D’imigh thar Oíche",
+  "intro": "Samhlaigh gairdín lush, trom le torthaí atá ag aibiú agus timpeallaithe ag crainn arda. Cheap na daoine a bhí ag tabhairt aire dó go raibh siad cliste, ag pleanáil a bhfómhair sna huaireanta ciúine roimh bhreacadh an lae, i bhfad ó shúile na ndaoine a raibh gá acu leo. Ach bhí pleananna eile ag an Té nach gcodlaíonn choíche dá bhflúirse fholaithe. An féidir leat buille faoi thuairim a thabhairt cé atá taobh thiar den scéal rabhaidh seo ón gCorán?",
+  "clues": [
+    "Bhí gairdín chomh flúirseach agus chomh hálainn againn tráth gur tháinig éad ar gach duine a ghabh thart.",
+    "Agus muid ag pleanáil, bhíomar ag cogarnaigh lena chéile go moch ar maidin, ag dearbhú nach gceadófaí d’aon anam bocht dul isteach an lá sin.",
+    "Ba dhaoine saibhre muid, agus bhí ár gcroíthe dall ar chearta na mbocht mórthimpeall orainn.",
+    "Nuair a tháinig breacadh an fhómhair a bhí beartaithe againn, chuaigh muid i dtreo ár ngairdín ach fuaireamar amach gur athraíodh ina fhothrach dubh é thar oíche.",
+    "Chuaigh foraithne millteach tríd, gan aon rud fágtha ach luaithreach san áit a raibh braislí torthaí aibí crochta tráth.",
+    "Is rabhadh géar é ár scéal atá taifeadta sa Qurán, áit a bhfuil aithne orainn mar úinéirí an ghairdín a choinnigh carthanacht ó na daoine bochta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Úinéirí an Ghairdín",
+        "Muintir na hUaimhe",
+        "Deisceabail Íosa",
+        "Comhluadar na Coille",
+        "Aíonna Ibrahim"
+      ],
+      "answer": "Úinéirí an Ghairdín"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag baint torthaí i ngan fhios agus ag cosc ​​a chur ar na boicht",
+        "Ag codladh le céadta bliain taobh istigh de uaimh",
+        "Ag diúltú camall baineann a tháirgeadh as cloch",
+        "Ag adhradh lao órga ag Sliabh Shíonáí",
+        "Áirc mhór á tógáil chun éalú ó thuile"
+      ],
+      "answer": "Ag baint torthaí i ngan fhios agus ag cosc ​​a chur ar na boicht"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gairdín ballaithe lán de pailme agus fíniúnacha",
+        "Uaimh dhorcha go domhain sna sléibhte",
+        "Cathair a raibh hairicín diaga ag gabháil di",
+        "Gleann naofa in aice le Teach Allah",
+        "Bruacha abhann ag sileadh"
+      ],
+      "answer": "Gairdín ballaithe lán de pailme agus fíniúnacha"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Chaith foraithne loiscneach ó neamh an gairdín",
+        "Chodail siad go síochánta ar feadh 309 bliain gealaí",
+        "Brúiteadh iad le báisteach cloch",
+        "Bádh siad faoi thonnta tuile mhóir",
+        "Scaipeadh iad le gaoth fhuar, fheargach"
+      ],
+      "answer": "Chaith foraithne loiscneach ó neamh an gairdín"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

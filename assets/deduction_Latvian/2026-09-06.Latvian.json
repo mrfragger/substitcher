@@ -1,0 +1,61 @@
+{
+  "title": "Zelta teļa atstumtais",
+  "intro": "Korānā pieminēta persona cēla pravieša prombūtnes laikā noveda lielu ļaužu pulku novirzīšanā no ticības. Kaut kas no zelta izgatavots iekaroja veselas nācijas sirdis, taču šī indivīda stāsts beidzas ar vientulību un dīvainu lāstu. Kas varētu būt šis atstumtais?",
+  "clues": [
+    "Es parādījos diža pravieša prombūtnes laikā, kurš bija debesīs saņēmis dievišķu vadību.",
+    "Es maldināju lielu ļaužu pulku ar kaut ko, ko biju darinājis savām rokām.",
+    "Manis radītais zelta radījums šķita dzīvs, radot skaņas, kas apbūra tos, kas tam sekoja.",
+    "Es apgalvoju, ka esmu redzējis to, ko citi nespēj uztvert — ieskatu neredzētajā.",
+    "Es kaut ko izvilku no dievišķā vēstneša pēdām un ielēju to izkausētā metālā.",
+    "Es biju nolemts klejot vienam, ar unikālu lāstu, ka neviens nedrīkstēja pieskarties manai ādai, un es nedrīkstu pieskarties viņu ādai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Samiri",
+        "Hamans",
+        "Faraons (Fir'awn)",
+        "Abu Lahābs",
+        "Pravietis Salihs"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Izveidoja zelta teļu pielūgsmei",
+        "Uzcēla torni, kas sniedzās debesīs",
+        "Izaicināja Ēģiptes burvjus",
+        "Vadīja armiju ar lidojošiem zvēriem",
+        "Sadalīt mēnesi kā pravietības pierādījumu"
+      ],
+      "answer": "Izveidoja zelta teļu pielūgsmei"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš",
+        "Personāla, kas pārvērtās par čūsku",
+        "Degošs krūms kalnā",
+        "Šķirsts, kas balstās uz virsotnes",
+        "Tranšeja, kas piepildīta ar degošu uguni"
+      ],
+      "answer": "Zelta teļš"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Izraidīts, aizliegts pieskarties viņam vai citiem",
+        "Noslīka jūrā kopā ar armiju",
+        "Sadedzināts dzīvs par ticības noliegšanu",
+        "Nogāza spēcīgs, brāzmains vējš",
+        "Piedots un pacelts augstā amatā"
+      ],
+      "answer": "Izraidīts, aizliegts pieskarties viņam vai citiem"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Der Schlaf der Zeitalter",
+  "intro": "Sie begeben sich nun auf eine Zeitreise und begegnen einem tiefgründigen Geheimnis des Glaubens und der göttlichen Macht. Stellen Sie sich eine Gruppe von Menschen vor, die sich den Normen ihrer Gesellschaft widersetzten und in einer Welt des Polytheismus am Monotheismus festhielten. Ihre Geschichte zeugt von Allahs Fähigkeit, seine rechtschaffenen Diener auf außergewöhnliche Weise zu beschützen. Können Sie die Identität dieser bemerkenswerten Persönlichkeiten entschlüsseln?",
+  "clues": [
+    "Wir waren eine kleine Gruppe junger Männer, die an einen Gott glaubten, trotz des weit verbreiteten Polytheismus unseres Volkes.",
+    "Wir flohen vor einem tyrannischen Herrscher, der uns wegen unseres Glaubens bedrohte, und fürchteten Verfolgung und Tod.",
+    "Wir suchten Zuflucht an einem abgelegenen Ort und hofften auf Allahs Gnade und Schutz vor unseren Unterdrückern.",
+    "Unser Herr ließ uns in einen tiefen Schlaf fallen, einen wundersamen Schlummer, der dem Lauf der Zeit trotzte.",
+    "Als wir erwachten, glaubten wir, nur einen Tag oder einen Teil eines Tages geschlafen zu haben, ohne zu ahnen, wie lange tatsächlich vergangen war.",
+    "Im Koran wird erwähnt, dass wir dreihundert Jahre in unserem Zustand verharrten und diese Zeit um neun Jahre überschritten, wodurch wir zu einem Zeichen für die Menschheit wurden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Leute des Grabens",
+        "Das Volk von Thamud",
+        "Die Menschen der Höhle",
+        "Das Volk von Madyan",
+        "Die Gefährten des Elefanten"
+      ],
+      "answer": "Die Menschen der Höhle"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Angesichts einer großen Flut",
+        "Von der Erde verschluckt werden",
+        "Der lange, wundersame Schlaf",
+        "Die Zerstörung ihrer Stadt",
+        "Die Spaltung des Meeres"
+      ],
+      "answer": "Der lange, wundersame Schlaf"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein brennender Busch",
+        "Ein Berg",
+        "Ein Boot",
+        "Eine Höhle",
+        "Ein Brunnen"
+      ],
+      "answer": "Eine Höhle"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihnen wurde immenser Reichtum und Macht zuteil.",
+        "Sie wurden in Affen und Schweine verwandelt.",
+        "Sie wurden als ein tiefgreifendes Zeichen aus dem Schlaf geweckt.",
+        "Sie ertranken in einer großen Flut.",
+        "Sie errichteten ein prächtiges Königreich"
+      ],
+      "answer": "Sie wurden als ein tiefgreifendes Zeichen aus dem Schlaf geweckt."
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

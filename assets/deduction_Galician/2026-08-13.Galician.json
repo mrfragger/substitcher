@@ -1,0 +1,61 @@
+{
+  "title": "A alma paciente da casa sagrada",
+  "intro": "Nas páxinas do Corán, unha figura emerxe da liñaxe dun gran profeta, concedida como agasallo na vellez. Esta alma é celebrada pola súa veracidade inquebrantable e o seu profundo papel no establecemento dun santuario que se convertería nun faro de fe. Mentres leas as pistas, escoita atentamente a voz do pasado, porque fala en primeira persoa.",
+  "clues": [
+    "Son mencionado no Corán xunto con outro profeta como un agasallo concedido a un mensaxeiro ancián.",
+    "Eu fun un dos dous descendentes que lle foron outorgados a ese profeta nos seus últimos anos.",
+    "Son eloxiado no Corán por ser fiel á miña palabra.",
+    "Levei a honra da profecía e fun enviado como mensaxeiro.",
+    "Unínme ao meu pai na construción dos cimentos da Casa Sagrada.",
+    "Lémbranme como unha das persoas pacientes, e a casa sagrada que construímos converteuse nun lugar de retorno e seguridade para a xente."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Ismail",
+        "Profeta Ishaq",
+        "Profeta Yaqub",
+        "Profeta Zacarias",
+        "Profeta Yahya"
+      ],
+      "answer": "Profeta Ismail"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Levantando os alicerces da Kaaba con Ibrahim",
+        "Ser lanzado a un lume",
+        "Ser tragado por unha balea",
+        "Guiando os israelitas fóra de Exipto",
+        "Construíndo unha arca"
+      ],
+      "answer": "Levantando os alicerces da Kaaba con Ibrahim"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Kaaba",
+        "Monte Sinaí",
+        "O Mar Vermello",
+        "O Becerro de Ouro",
+        "O Xardín do Edén"
+      ],
+      "answer": "A Kaaba"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Contado entre os pacientes",
+        "Contado entre os malfeitores",
+        "Contado entre os magos",
+        "Contado entre os incrédulos",
+        "Contado entre os hipócritas"
+      ],
+      "answer": "Contado entre os pacientes"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

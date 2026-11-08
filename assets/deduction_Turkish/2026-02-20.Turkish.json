@@ -1,0 +1,61 @@
+{
+  "title": "Ateşin Tanığı",
+  "intro": "Gerçekliği keşfetmeye kendini adamış, derin bir kişiliğe sahip olan bu birey, manevi bir keşif yolculuğuna çıktı. Sarsılmaz inancı, yerleşik normlara meydan okumasına ve inancın sınırlarını zorlayan büyük sınavlardan geçmesine yol açtı. Bu ruhun hikayesi, ilahi koruma ve rehberliğin bir kanıtıdır.",
+  "clues": [
+    "Rabbimden, aramızdaki derin ve özel bağı simgeleyen eşsiz bir unvanla kutsandım.",
+    "Hayatımın ilk yılları, yapay imgelere tapan bir halkın arasında geçti, ama kalbim tek gerçek Tanrı'ya özlem duyuyordu.",
+    "Güneş, ay ve yıldızlar gibi gök cisimlerini gözlemledim, doğuşlarını ve batışlarını düşündüm ve onların benim Rabbim olamayacakları sonucuna vardım.",
+    "Yaygın çok tanrıcılığa karşı bir meydan okuma eylemi olarak, sahte tanrılarla yüzleştim ve sessiz bir suçlayıcı olarak tek başına, daha büyük bir tanrıyı sağlam bıraktım.",
+    "Putperestliğe karşı çıkmam, şiddetli bir cezayla sonuçlandı; alev alev yanan bir cehenneme atılmaya mahkum edildim.",
+    "Fakat Yaratıcımın emriyle, şiddetli alevler serinlik ve güvenlik kaynağına dönüşerek hayatımı korudu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Musa",
+        "Peygamber Nuh",
+        "Peygamber İbrahim",
+        "Peygamber İsa",
+        "Peygamber Yusuf"
+      ],
+      "answer": "Peygamber İbrahim"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kızıldeniz'i geçmek",
+        "Sel",
+        "Bir Oğulun Kurban Edilmesi",
+        "Ateşli Sınav",
+        "Balinanın Karnı"
+      ],
+      "answer": "Ateşli Sınav"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Trompet",
+        "Yangın",
+        "Kuyu"
+      ],
+      "answer": "Yangın"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İnsanları güvenliğe götürdü.",
+        "Büyük bir krallığı miras aldı.",
+        "Bir balık tarafından yutuldu.",
+        "Yanmaktan kurtarıldı",
+        "Tabletleri teslim aldım."
+      ],
+      "answer": "Yanmaktan kurtarıldı"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "En liten advarsel før en marsjerende vert",
+  "intro": "Gå inn i en dal der en mektig hersker og en enorm hær nærmer seg, og se for deg en liten reisende som gir en advarsel som redder et helt samfunn. Når det truede samfunnet kommer til ly, er faren over. Følg ledetrådene for å identifisere den oversette skikkelsen bak advarselen.",
+  "clues": [
+    "Jeg er blant de små skapningene som er knyttet til en herskers rike.",
+    "Samfunnet mitt bor i boliger inne i en dal, hvor en av oss kan ringe til den andre.",
+    "Vi står overfor en trussel fra den herskeren og hærene som reiser med herskeren.",
+    "Jeg er den som kaller samfunnet mitt inn i boligene sine og advarer oss mot å bli knust ubevisst.",
+    "Herskeren er Sulayman, og min art er blant skapningene som er underlagt hans kommando.",
+    "Jeg er mauren i den dalen; etter min advarsel gikk vi inn i våre boliger og unnslapp knusingen som ellers ville ha tatt oss uvitende."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Mauren i dalen",
+        "Hærfuglen",
+        "Kråken",
+        "Slangen",
+        "Muldyret"
+      ],
+      "answer": "Mauren i dalen"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "En advarsel som sparte et maursamfunn",
+        "En forespørsel om en ring fra en fisk",
+        "Et søk etter en savnet trone",
+        "Redningen av stjålne øyne",
+        "En nektelse av å spise en herskers mat"
+      ],
+      "answer": "En advarsel som sparte et maursamfunn"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Maurdalen",
+        "Sulaymans signetring",
+        "Yusufs blodflekkede skjorte",
+        "Gullkalven i utvandringen",
+        "Musas stab"
+      ],
+      "answer": "Maurdalen"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Samfunnet ble spart etter å ha søkt ly",
+        "Samfunnet ble ødelagt uten å søke ly",
+        "Samfunnet ble spart fordi hæren trakk seg tilbake",
+        "Samfunnet ble belønnet med kontroll over fuglene",
+        "Samfunnet ble ført til fange av det kongelige hoffet"
+      ],
+      "answer": "Samfunnet ble spart etter å ha søkt ly"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

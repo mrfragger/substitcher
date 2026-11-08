@@ -1,0 +1,61 @@
+{
+  "title": "Die ungehörte Stimme der Jahrhunderte",
+  "intro": "In einer Zeit lange vor dem Aufstieg der großen Städte erhob sich eine einsame Seele unter einem Volk, das sich von der Wahrheit abgewandt hatte. Ihre Starrsinnigkeit wurde nur von der Geduld dieses einsamen Rufers übertroffen, der über Generationen hinweg unerschütterlich flehte. Als alle Warnungen ungehört verhallten, veränderte eine beispiellose Auseinandersetzung die Erde selbst. Noch heute hallen die Echos dieser Geschichte in jeder Erzählung nach. Können Sie diese entschlossene Seele erkennen?",
+  "clues": [
+    "Ich bin unter einem Volk aufgewachsen, das falsche Götzen anbetete und die Zeichen um sich herum ignorierte, und doch wurde ich auserwählt, sie aus ihrer Unachtsamkeit aufzurütteln.",
+    "Ich rief immer wieder zu meinem Volk, aber sie beschuldigten mich, nichts anderes als eine Person wie sie zu sein, verspotteten meine Botschaft und hielten sich die Ohren zu.",
+    "Tag und Nacht beschwor ich sie mit Weisheit und sanften Mahnungen, doch meine Worte schienen sich in Luft aufzulösen, ungehört und unbeachtet.",
+    "Auf göttliche Anweisung hin baute ich an Land ein riesiges Schiff aus Holz und Planken, und mein Volk lachte mich aus, als hätte ich den Verstand verloren.",
+    "Als die große Flut wie angekündigt kam, weigerte sich sogar mein eigener Sohn, mit mir an Bord des Schiffes zu gehen, da er glaubte, ein Berg würde ihn vor den steigenden Wassern schützen.",
+    "Ich wurde zum Patriarchen eines Neubeginns auf Erden, und meine Geschichte ist in einem Kapitel des Korans festgehalten, das meinen Namen trägt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Lut",
+        "Prophet Hud"
+      ],
+      "answer": "Prophet Nuh"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die große Flut, die die Erde umgestaltete",
+        "Von den Götzendienern in ein loderndes Feuer geworfen werden",
+        "Konfrontation mit den Magiern des Pharaos im Palast",
+        "Die Zerstörung der blühenden Gärten durch einen himmlischen Sturm",
+        "Die Umwälzung der Grabenbewohner"
+      ],
+      "answer": "Die große Flut, die die Erde umgestaltete"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche, gebaut aus Holz und Brettern",
+        "Das heilige Haus, erbaut auf uralten Fundamenten",
+        "Der Stab, der sich in eine Schlange verwandelte",
+        "Die Höhle der schlafenden Jünglinge",
+        "Der Thron, getragen von einem mächtigen Geschöpf"
+      ],
+      "answer": "Die Arche, gebaut aus Holz und Brettern"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Die Ungläubigen ertranken, während die Gläubigen an Bord des Schiffes gerettet wurden.",
+        "Das Feuer war abgekühlt und ungefährlich, und der Anrufer kam unverletzt heraus.",
+        "Die Magier fielen nieder und umarmten den Glauben",
+        "Der Garten wurde stattdessen dem gerechten Nachbarn zugesprochen.",
+        "Die Schläfer erwachten nach Jahrhunderten, verwandelt"
+      ],
+      "answer": "Die Ungläubigen ertranken, während die Gläubigen an Bord des Schiffes gerettet wurden."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

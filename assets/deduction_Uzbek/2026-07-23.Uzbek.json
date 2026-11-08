@@ -1,0 +1,61 @@
+{
+  "title": "Uchar Loy bilan kutib olingan armiya",
+  "intro": "Payg'ambar Muhammaddan oldingi davrda Yamanlik qudratli hukmdor Makkadagi muqaddas maskanni vayron qilish maqsadida harbiy yurish boshladi. Bu dushman o'z kuchi va soniga ishongan holda, urush fillari bilan to'la ulkan qo'shinni boshqargan edi. Biroq, ularning safari kutilmagan ilohiy aralashuvga duch kelganlarida to'satdan tugadi. Bu ajoyib hisob-kitobga kim duch kelganini aniqlay olasizmi?",
+  "clues": [
+    "Biz ulkan qo'shin va kuchli urush fillari bilan muqaddas uy tomon yurdik",
+    "Biz Rahmonning bandalari tomonidan qurilgan ibodatxonani ildizidan ag'darib, vayron qilishni niyat qilgan edik.",
+    "Bizga tumshug'i va tirnoqlarida loy toshlarni ko'tarib yurgan mayda qushlar guruhi yuborildi.",
+    "Bizni toshlar otib, oyoq osti qilingan qoldiqlarga aylantiradigan bir ovoz kutib oldi.",
+    "Men Yaman yurtidan edim va muqaddas ma'badni egallashga intilgan hukmdor qo'l ostida xizmat qilganman.",
+    "Biz Allohning ma'badini tark etishga jur'at etganlar uchun namuna bo'ldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Abraha al-Ashram armiyasi",
+        "Efiopiya kuchlari",
+        "Fors bosqinchilari",
+        "Rim legionlari",
+        "Badaviy bosqinchilar"
+      ],
+      "answer": "Abraha al-Ashram armiyasi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Cho'l qal'asining qamali",
+        "Makkadagi muqaddas joyga bostirib kirish",
+        "Dengizdagi dengiz jangi",
+        "Zolim podshohga qarshi qo'zg'olon",
+        "Yo'qolgan payg'ambarni qidirish"
+      ],
+      "answer": "Makkadagi muqaddas joyga bostirib kirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Makka yaqinidagi Mino vodiysi",
+        "Yamandagi Sana saroyi",
+        "Tihoma tog'lari",
+        "Qadimgi Quddus shahri",
+        "Qizil dengiz qirg'oqlari"
+      ],
+      "answer": "Makka yaqinidagi Mino vodiysi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Muqaddas uyning g'alabasi va vayron bo'lishi",
+        "Loy toshlarini ko'tarib yurgan qushlarning mag'lubiyati",
+        "Tinchlik bilan taslim bo'lish va o'zgarish",
+        "Ochlik va tabiiy ofat",
+        "Kuchli yomg'ir tufayli chekinish"
+      ],
+      "answer": "Loy toshlarini ko'tarib yurgan qushlarning mag'lubiyati"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

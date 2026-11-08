@@ -1,0 +1,61 @@
+{
+  "title": "Strażnicy Tajemniczego Żniwa",
+  "intro": "W zielonej krainie grupa ludzi pod osłoną ciemności opracowała sekretny plan. Łączył ich wspólny cel, ale ich intencje były dalekie od szlachetnych. Nie wiedzieli, że we śnie czeka ich boski przełom.",
+  "clues": [
+    "Podjęliśmy stanowcze postanowienie, wierząc, że nasz plan jest bezbłędny.",
+    "Zamierzaliśmy wyjść wcześnie, zanim inni zdążą się ruszyć.",
+    "Udaliśmy się na żyzną działkę, pewni naszych zapasów.",
+    "Gdy dotarliśmy do celu, okazało się, że jest on jałowy i odludny, więc pomyśleliśmy, że zgubiliśmy drogę.",
+    "Wtedy zdaliśmy sobie sprawę, że to rzeczywiście nasze miejsce, i krzyknęliśmy z rozpaczy, obwiniając się nawzajem o naszą stratę.",
+    "Tego ranka przysięgliśmy, że nie pozwolimy ubogim uczestniczyć w naszych zbiorach, ale kara Allaha spadła na nas, gdy spaliśmy, i nasz ogród obrócił się w ruinę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Właściciele ogrodu w Surze 68",
+        "Ludzie Saby",
+        "Towarzysze jaskini",
+        "Ludzie Słonia",
+        "Ludzie z okopu"
+      ],
+      "answer": "Właściciele ogrodu w Surze 68"
+    },
+    "trial": {
+      "label": "Nasz proces",
+      "options": [
+        "Nasz ogród został zniszczony przez katastrofę z nieba",
+        "Nasz ogród został zalany przez powódź",
+        "Nasz ogród został spalony przez ogień wroga",
+        "Nasz ogród był pełen szarańczy",
+        "Nasz ogród został pochłonięty przez trzęsienie ziemi"
+      ],
+      "answer": "Nasz ogród został zniszczony przez katastrofę z nieba"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Przysięgaliśmy, że rano zerwiemy jego owoce",
+        "Zbudowaliśmy tamę, aby nawadniać nasz ogród",
+        "Szukaliśmy schronienia w jaskini, aby się chronić",
+        "Przygotowaliśmy armię, aby podbić królestwo",
+        "Płynęliśmy statkiem, żeby przepłynąć morze"
+      ],
+      "answer": "Przysięgaliśmy, że rano zerwiemy jego owoce"
+    },
+    "outcome": {
+      "label": "Nasz los",
+      "options": [
+        "Żałowaliśmy i liczyliśmy na miłosierdzie od Allaha",
+        "Zostaliśmy całkowicie zniszczeni i nigdy nie pokutowaliśmy",
+        "Uciekliśmy z kraju i nigdy nie wróciliśmy",
+        "Znów staliśmy się potężni i bogaci",
+        "Zostaliśmy ukarani zamianą w małpy"
+      ],
+      "answer": "Żałowaliśmy i liczyliśmy na miłosierdzie od Allaha"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

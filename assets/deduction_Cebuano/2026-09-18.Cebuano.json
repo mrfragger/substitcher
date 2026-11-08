@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tawag gikan sa Sagradong Walog",
+  "intro": "Labaw pa sa mga panid sa kasaysayan anaa ang istorya sa usa ka kalag nga nagbarog taliwala sa usa ka gamhanang magmamando ug sa tibuok nga naulipon nga katawhan. Kini nga indibidwal gitawag aron pagluwas sa usa ka nasud gikan sa pagpanglupig, nga naghimo og mga katingalahan nga misupak sa tanang balaod sa kinaiyahan. Gikan sa usa ka sagrado nga bukid ngadto sa usa ka milagro sa ibabaw sa katubigan, kining alagad ni Allah nakasaksi sa mga timailhan nga molanog sa tibuok nga mga katuigan. Ang imong buluhaton karon mao ang pag-ila niining talagsaong tawo kansang kabilin nag-umol sa dagan sa kasaysayan sa tawo.",
+  "clues": [
+    "Natawo ko sa panahon nga ang akong katawhan nag-atubang og usa ka makamatay nga mando, ug gibutang ko sa akong pamilya sa katubigan aron maluwas ang akong kinabuhi.",
+    "Nakit-an ug gipadako ako sa panimalay mismo sa magmamando nga nagmando sa kamatayon sa akong mga kadugo.",
+    "Midagan ko paingon sa usa ka sagrado nga bukid diin nakakita kog kalayo sa ibabaw sa usa ka kahoy nga wala masunog, ug usa ka tingog ang misulti kanako gikan niini.",
+    "Gipadala ako balik ngadto sa maong magmamando nga adunay mga milagro, nga nangayo sa kagawasan sa akong mga ulipon.",
+    "Gibunalan nako ang dagat gamit ang akong sungkod, ug kini nabahin ngadto sa mga uga nga agianan, nga naglamoy sa mga naggukod nga misunod sa akong katawhan.",
+    "Nakigsulti ako sa akong Ginoo didto sa bukid sulod sa kwarenta ka gabii, ug gihatagan ako og mga papan sa balaan nga giya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Musa",
+        "Propeta Harun",
+        "Propeta Ibrahim",
+        "Propeta Yusuf",
+        "Propeta David"
+      ],
+      "answer": "Propeta Musa"
+    },
+    "trial": {
+      "label": "Ang Akong Mahinungdanong Pagsulay",
+      "options": [
+        "Ang Pagbahin sa Dagat",
+        "Pagtukod sa Dakong Arka",
+        "Pagsulay pinaagi sa Nagdilaab nga Kalayo",
+        "Pagkabilanggo sa Tiyan sa Balyena",
+        "Pagkabilanggo sa usa ka Opisyal sa Ehipto"
+      ],
+      "answer": "Ang Pagbahin sa Dagat"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka Sungkod sa Magbalantay",
+        "Usa ka Dakong Arka nga Kahoy",
+        "Usa ka Langob Diin Natulog ang Panahon",
+        "Usa ka Hardin nga adunay Duha ka Tuburan",
+        "Usa ka Trono nga Gidayandayanan og Bulawan"
+      ],
+      "answer": "Usa ka Sungkod sa Magbalantay"
+    },
+    "outcome": {
+      "label": "Ang Resulta",
+      "options": [
+        "Ang Akong Katawhan Mitabok sa Dagat Padulong sa Kaluwasan",
+        "Usa ka Dakong Lunop ang Naglaglag sa mga Dili Magtutuo",
+        "Ang Kalayo sa Usa ka Malupigon Nahimong Bugnaw ug Malinawon",
+        "Ang Dagat Nagbihag Niini ngadto sa Baybayon",
+        "Ang Binihag Nahimong Tresurero sa Ehipto"
+      ],
+      "answer": "Ang Akong Katawhan Mitabok sa Dagat Padulong sa Kaluwasan"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

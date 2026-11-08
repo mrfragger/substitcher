@@ -1,0 +1,61 @@
+{
+  "title": "Antik Evdeki Engel",
+  "intro": "Kutsal şehirde, yeni bir mesaj yayılmaya başlayınca güçlü bir figür öfkeyle kaynamaya başladı. Adı hakikate karşıtlıkla özdeşleşen bu kişi, ilahi vahyin ağırlığı altında etkisinin nasıl çöktüğünü izledi. Kaderi ünlü bir savaş alanının kumlarında mühürlenen bu ruh kimdi?",
+  "clues": [
+    "Halkım arasında önde gelen bir kişiydim, zenginliğim ve nüfuzumla tanınıyordum; şehirde kadim bir kutsal alan bulunuyordu.",
+    "Kabilemden bir adam tek Tanrı mesajını ilan etmeye başladığında, onu ve anlattıklarını geçmişin masalları diyerek alaya aldım.",
+    "O adam kutsal yapının yakınında dua ederken onunla yüzleştim ve gerekirse zorla ibadetini durduracağımı söyledim.",
+    "Yeni inancı susturmak için komplo kuran liderler arasındaydım ve takipçilerine hem sözle hem de silahla karşı çıktım.",
+    "Bir orduyla birlikte Badr denen yere doğru yürüdüm, oradaki küçük mümin grubunu ezip geçeceğimizden emindim.",
+    "Fakat o savaş alanında hayatım sona erdi ve ölümüm, açık işaretlere rağmen inanmamakta ısrar edenler için bir ders oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Ebu Cehl",
+        "Ebu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umeyye ibn Halef",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Ebu Cehl"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Peygamberin Kâbe'de namaz kılmasını engellemek",
+        "Kabe'nin İnşası",
+        "Kur'an'ın yazılması",
+        "Fil ordusuna önderlik etmek",
+        "Ayın ikiye bölünmesi"
+      ],
+      "answer": "Peygamberin Kâbe'de namaz kılmasını engellemek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kabe",
+        "Peygamber Nuh'un Sandığı",
+        "Hz. Musa'nın Asası",
+        "Altın Buzağı",
+        "Saba Kraliçesi'nin Tahtı"
+      ],
+      "answer": "Kabe"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bedir Savaşı'nda öldürüldü.",
+        "Tövbe etti ve Müslüman oldu.",
+        "Habeşistan'a kaçtı.",
+        "Fil Yılında Öldü",
+        "Peygamberin sahabesi oldu."
+      ],
+      "answer": "Bedir Savaşı'nda öldürüldü."
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

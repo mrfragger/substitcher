@@ -1,0 +1,61 @@
+{
+  "title": "Krallığı Dağıdan Bənd",
+  "intro": "Axar çaylar, iki yaşıl bağ və misilsiz rifah diyarı - lakin sakinləri onları xeyir-dualandırandan xəbərsiz idilər. Onları geri çağıran xatırlatmalar gələndə üz döndərdilər. Ardınca gələn cəza hələ də xəbərdarlıq kimi səslənirdi. Bu qədim icma kim idi?",
+  "clues": [
+    "Biz o qədər mübarək bir torpaqda yaşayırdıq ki, evimiz iki yaşıl bağın arasında yerləşirdi.",
+    "Torpaqlarımızdan axan çaylardan və evlərimizi dolduran bol məhsullardan həzz alırdıq.",
+    "Lakin biz Rəbbimizə şükür etməyə və itaət etməyə çağırıldıqda təkəbbürlə üz döndəririk.",
+    "Var-dövlətimiz və rahatlığımız hər şeyi verəni unutdurdu.",
+    "Sonra qəfil bir sel gəldi və etibar etdiyimiz böyük səddi aşdı.",
+    "Biz Səba xalqıyıq və onun torpağı böyük Mərib bəndi ilə məşhur idi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Səba xalqı",
+        "Xəndək İnsanları",
+        "Quyunun yoldaşları",
+        "Tubba xalqı",
+        "Mədinə xalqı"
+      ],
+      "answer": "Səba xalqı"
+    },
+    "trial": {
+      "label": "Bizim Çöküşümüz",
+      "options": [
+        "Bəndin partlamasından yaranan daşqın",
+        "Göydən şiddətli bir külək əsdi",
+        "Odlu bir səngərdə yanmaq",
+        "Güclü zəlzələ",
+        "Böyük bir daşqında boğulmaq"
+      ],
+      "answer": "Bəndin partlamasından yaranan daşqın"
+    },
+    "location": {
+      "label": "Əsas Yer",
+      "options": [
+        "Mərib bəndi",
+        "Sina dağı",
+        "Yeddi Yatanların Mağarası",
+        "Yanan Kol",
+        "Dənizin İkiyə Bölünməsi"
+      ],
+      "answer": "Mərib bəndi"
+    },
+    "outcome": {
+      "label": "Bizim taleyimiz",
+      "options": [
+        "İki acı bağ sulu bağlarımızın yerini aldı",
+        "Bağlarımız daha da bərəkətli oldu",
+        "Torpaq dənizin altına batdı",
+        "Biz vulkan külü içində basdırılmışıq",
+        "Millətimiz on iki qəbiləyə bölündü"
+      ],
+      "answer": "İki acı bağ sulu bağlarımızın yerini aldı"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

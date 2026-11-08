@@ -1,0 +1,61 @@
+{
+  "title": "Els oients de l'invisible",
+  "intro": "Més enllà del vel del món visible, una assemblea oculta es va reunir a la foscor, atreta per un so que desafiava tot el que havien conegut. Havien vagat durant segles sense una guia veritable, fins que una veu va travessar el silenci del seu regne invisible i va remoure alguna cosa molt endins. Aquesta nit, esteu convidats a anar més enllà de les ombres i descobrir la identitat d'aquest grup misteriós, la trobada del qual amb les paraules divines els va portar de tornada al seu poble com a advertidors d'una veritat que no es podia contenir.",
+  "clues": [
+    "Som éssers antics, que existim molt abans que moltes nacions de les quals heu llegit, però tot i així rarament es parla de nosaltres en els contes humans.",
+    "La nostra naturalesa és diferent de la vostra, teixida amb elements de l'invisible, i tenim poders que desafien l'ordinari.",
+    "Durant segles, vam vagar sense una guia veritable, fins que ens va arribar un so que va remoure alguna cosa molt profundament dins nostre.",
+    "Vam sentir una recitació com mai havíem sentit, paraules que tenien un pes més enllà de qualsevol discurs.",
+    "Ens vam aferrar en secret, ordenant als nostres que callessin, i quan els versos van acabar, no vam poder quedar-nos quiets.",
+    "Vam tornar amb el nostre poble i vam declarar: «Oh poble nostre, hem sentit un Llibre revelat després de Moisès, confirmant el que hi havia abans, guiant cap a la veritat»."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Els Hawariyyun (deixebles d'Isa)",
+        "Els djins que van creure després d'escoltar l'Alcorà",
+        "Els companys de la cova",
+        "Els àngels del cel més baix",
+        "El poble del faraó que va seguir el seu camí"
+      ],
+      "answer": "Els djins que van creure després d'escoltar l'Alcorà"
+    },
+    "trial": {
+      "label": "Prova / Esdeveniment",
+      "options": [
+        "Vam ser expulsats per negar-nos a inclinar-nos davant d'un ésser recentment creat",
+        "Vam estar segellats en una cova durant tres-cents nou anys",
+        "Ens van ordenar creuar un mar que s'obria davant nostre",
+        "Ens van enviar a una terra de màgia per aprendre bruixeria",
+        "Vam escoltar una recitació en secret i ens va transformar"
+      ],
+      "answer": "Vam escoltar una recitació en secret i ens va transformar"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un vedell d'or fet amb els ornaments d'un poble",
+        "Una cova on el son va durar generacions",
+        "Dos àngels a Babilònia que ensenyaven coneixement prohibit",
+        "Un llibre revelat després de Moisès, confirmant la Torà",
+        "Un arbust ardent al cim d'una muntanya sagrada"
+      ],
+      "answer": "Un llibre revelat després de Moisès, confirmant la Torà"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vam ser maleïts fins al Dia del Judici",
+        "Ens vam aixecar contra un poderós governant i vam construir una barrera a la terra",
+        "Ens vam transformar en simis i porcs",
+        "Vam tornar al nostre poble com a advertidors, proclamant la fe",
+        "Ens vam ofegar al mar juntament amb el nostre líder"
+      ],
+      "answer": "Vam tornar al nostre poble com a advertidors, proclamant la fe"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

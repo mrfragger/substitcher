@@ -1,0 +1,61 @@
+{
+  "title": "Te Karere i Tū atu ki te hunga karakia whakapakoko",
+  "intro": "I te wā i ngaro ai te aroha, ka ara ake tētahi karere me te karanga kia hoki ki te karakia ki te Ariki o ngā ao. I tū pakari tēnei tangata ki te aroaro o tētahi iwi kua mau tonu ki te karakia ki tētahi atua teka, hei whakamahara i a rātou ki tō rātou Kaihanga pono me te Ariki o ō rātou tūpuna. Heoi, i mangere te iwi, ā, i whakakahore i te whakatūpato, ā, i hiritia ai tō rātou ake aituā. Ko wai tēnei kaikaranga kore e mutu?",
+  "clues": [
+    "I tonoa ahau ki tētahi iwi kua tahuri ke i te ara o te Atua Pono Kotahi.",
+    "I pātai atu ahau ki tōku iwi, \"Kāore ianei koutou e wehi i a Allah?\"",
+    "I karanga ahau i a rātou kia whakarērea tā rātou karakia ki tētahi atua teka, ko Paara tōna ingoa.",
+    "I whakakahore taku iwi i taku karanga, ā, i tohe tonu ki tā rātou karakia whakapakoko.",
+    "Nā tā rātou whakakahore, ka tino arahina rātou kia whiua.",
+    "I homai e tōku Ariki te rangimārie ki ahau, me te maumaharatanga manaakitanga i roto i ngā whakatupuranga o muri mai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Iria",
+        "Poropiti a Yahya",
+        "Poropiti a Dhul-Kifl",
+        "Poropiti a Yusuf",
+        "Poropiti Shu'ayb"
+      ],
+      "answer": "Poropiti a Iria"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I karanga ia i tōna iwi kia whakarērea a Paara",
+        "I hanga e ia he āaka hei whakaora i te hunga whakapono",
+        "I maka ki roto i te ahi",
+        "I rere atu i te Parao nanakia",
+        "I patu i te toka kia puta mai ai te wai"
+      ],
+      "answer": "I karanga ia i tōna iwi kia whakarērea a Paara"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Paara",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Paara"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I homai he rangimārie, he maharatanga manaaki",
+        "Horomia e te whenua",
+        "I whakangaromia e te tupuhi nanakia",
+        "I hurihia hei kōhatu",
+        "I toremi ki te moana"
+      ],
+      "answer": "I homai he rangimārie, he maharatanga manaaki"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

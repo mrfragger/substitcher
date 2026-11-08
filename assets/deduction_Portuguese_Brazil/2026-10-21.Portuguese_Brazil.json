@@ -1,0 +1,61 @@
+{
+  "title": "O Mensageiro que Confrontou os Idólatras",
+  "intro": "Em uma época em que a devoção havia se desviado, um mensageiro surgiu com um chamado para retornar à adoração do Senhor dos mundos. Essa figura se manteve firme contra um povo entrincheirado na adoração de uma falsa divindade, lembrando-os de seu verdadeiro Criador e Senhor de seus ancestrais. Contudo, o povo foi indiferente e rejeitou o aviso, selando seu próprio destino. Quem era esse mensageiro inabalável?",
+  "clues": [
+    "Fui enviado a um povo que se desviou do caminho do Único Deus Verdadeiro.",
+    "Perguntei ao meu povo: \"Vocês não temerão a Deus?\"",
+    "Eu os convoquei a abandonar sua adoração a uma falsa divindade chamada Baal.",
+    "Meu povo rejeitou meu chamado e persistiu em sua idolatria.",
+    "Por causa de sua negação, certamente serão levados à justiça para serem punidos.",
+    "Meu Senhor me concedeu paz e uma lembrança abençoada entre as gerações futuras."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Ilyas",
+        "Profeta Yahya",
+        "Profeta Dhul-Kifl",
+        "Profeta Yusuf",
+        "Profeta Shu'ayb"
+      ],
+      "answer": "Profeta Ilyas"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Convocou seu povo a abandonar Baal",
+        "Construíram uma arca para salvar os crentes.",
+        "Foi atirado ao fogo",
+        "Fugiram do tirano Faraó",
+        "Golpeou uma rocha para fazer brotar água."
+      ],
+      "answer": "Convocou seu povo a abandonar Baal"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Que a paz e a memória sejam abençoadas.",
+        "Engolido pela terra",
+        "Destruída por uma tempestade violenta",
+        "Transformado em pedra",
+        "Afogado no mar"
+      ],
+      "answer": "Que a paz e a memória sejam abençoadas."
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

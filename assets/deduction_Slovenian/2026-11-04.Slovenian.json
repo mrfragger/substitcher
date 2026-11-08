@@ -1,0 +1,61 @@
+{
+  "title": "zaklad, ki je potonil pod ponosom",
+  "intro": "Predstavljajte si, da stojite pred kupi bogastva, tako ogromnimi, da bi že samo nošenje ključev izčrpalo skupino močnih posameznikov. Okoli vas glasovi spodbujajo k ponižnosti in spominjanju, a ponos je glasnejši od hvaležnosti. Kaj se zgodi, ko radodarnost postane preizkušnja in aroganca zapečati izid?",
+  "clues": [
+    "Bil sem izmed Musajevih ljudstev, pa sem se zoper njih pregrešil.",
+    "Dani so mi bili tako neizmerni zakladi, da bi ključi do njih bremenili celo skupino močnih mož.",
+    "Moji ljudje so mi svetovali, naj se ne veselim in naj iščem onostranstvo, ne da bi pozabil na svoj delež tega sveta.",
+    "Trdil sem, da mi je bilo to, kar imam, dano le zaradi znanja, ki ga imam.",
+    "Pred svojim ljudstvom sem paradiral v okrasju, in tisti, ki so si želeli posvetnega življenja, so si želeli podobnega, kot sem ga imel jaz.",
+    "Zemlja me je pogoltnila skupaj z mojim bivališčem in nihče mi ni mogel pomagati, niti jaz sam si nisem mogel pomagati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Karun",
+        "Namrud",
+        "Džalut",
+        "Azar",
+        "Kabil"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Hvalil se je z bogastvom in kljub nasvetu zanikal Alahovo naklonjenost",
+        "Izzval Ibrahima glede dajanja življenja in smrti",
+        "Vodil je vojsko proti Talutu in Dawudu",
+        "Izrezljani idoli, ki jih ljudje častijo",
+        "Iz zavisti zaradi daritve je ubil brata"
+      ],
+      "answer": "Hvalil se je z bogastvom in kljub nasvetu zanikal Alahovo naklonjenost"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ključi do neizmernih zakladov",
+        "Skrinja zaveze",
+        "Zlato tele med okraski",
+        "Jez med dvema gorama",
+        "Enajst zvezd v sanjah"
+      ],
+      "answer": "Ključi do neizmernih zakladov"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Požrta od zemlje z bivališčem in bogastvom",
+        "Utopil se je v morju med zasledovanjem Muse",
+        "Zadel ga je kamen iz Dawudove frače",
+        "Uničen zaradi močnega sunka, ker je kameli prerezal stegensko mišico",
+        "Spremenili so se v opice zaradi kršenja sobote"
+      ],
+      "answer": "Požrta od zemlje z bivališčem in bogastvom"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

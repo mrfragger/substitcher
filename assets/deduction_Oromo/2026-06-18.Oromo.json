@@ -1,0 +1,61 @@
+{
+  "title": "Dhiifama barbaaduuf Jalqabaa",
+  "intro": "Yeroo aduun jalqabaa bahuu dura, namni du’u kamiyyuu lafa irra osoo hin deemin duratti duubatti deebi’i. Fakkiin tokko meeshaalee gad of deebisuu irraa kan hojjetame yoo ta’u, ergamoota olitti buufata kennameefii akeekkachiisa ifa ta’een iddoo biqiltuu qulqulluu keessa kaa’amee ture. Ta’us yeroo tokkotti filannoo tokko ni godhame — kan seenaa dhala namaa hunda keessatti sagalee ta’u. Lakkoofsi kun eenyu?",
+  "clues": [
+    "Ani karaa kamiinuu irraa adda ta’een uumame — biyyee lafaa irraa kan tolfamee fi harka Uumaatiin lubbuu jiraattu naaf kenname.",
+    "Beekumsi baay’ee gadi fagoo ta’e waan naaf kennameef ergamoonni armaan olitti argaman illee ni dinqisiifataniiru.",
+    "Samii hundinuu na duratti akka jilbeenfatan ajajame, hundi isaaniis ni bitaman — tokko malee, kan of tuulummaa irraa kan ka’e dide.",
+    "Iddoo biqiltuu qulqulluu, bakka jajjabinaa fi rizqii bara baraa ta’e keessa kaa’ame — garuu dhorkaa cimaa tokkoon.",
+    "Dagadhee, siqsee, ajajamuu dide — ulfaatina dogoggora koos gadi fageenyaan natti dhaga’ame.",
+    "Dubbii garaa namaa irraa maddeen gara Gooftaa kiyyaatti deebi’e, Innis tawbaa koo naaf fudhate, Inni hunda caalaa araaramaa waan ta’eef."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Aadam",
+        "Nabi Daawud",
+        "Nabi Muhammad",
+        "Ibliis",
+        "Nabi Yaqub"
+      ],
+      "answer": "Nabi Aadam"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ergamoonni akka sujuudanitti ajajaman",
+        "Bishaan Badiisaa Guddaan ergame",
+        "Ibiddi guddaan qabbanaaʼee fi nageenya qabu godhame",
+        "Bulchaan of tuultuu tokko galaana keessatti liqimfame",
+        "Waraanni saree tokko barbadaa'e"
+      ],
+      "answer": "Ergamoonni akka sujuudanitti ajajaman"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Iddoo Gammachuu",
+        "Tulluu Siinaa",
+        "Masjiida Qulqulluu",
+        "Laga Abbayyaa",
+        "Holqa"
+      ],
+      "answer": "Iddoo Gammachuu"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Towbaa Rabbiin biratti fudhatama argate",
+        "Galaana keessatti liqimfame",
+        "Qurxummii guddaa tokkoon liqimfame",
+        "Sabni sun dhohinsa jabaadhaan rukutame",
+        "Qilleensi gubaa gubate"
+      ],
+      "answer": "Towbaa Rabbiin biratti fudhatama argate"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

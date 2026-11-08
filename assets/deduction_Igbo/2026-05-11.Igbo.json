@@ -1,0 +1,61 @@
+{
+  "title": "Ndịàmà Ndị Na-eguzosi Ike",
+  "intro": "Chee echiche banyere oge a nwalere nkwenye site n'ọkụ, nkwenye siri ike wee bụrụ nnupụisi kachasị. A na-enye gị ọrụ ikpughe njirimara nke otu ndị a kọrọ akụkọ ha na Quran, akụkọ nke okwukwe miri emi megide ọchịchị aka ike dị egwu. Kpọpụta ihe ndị a ga-egosi iji chọpụta onye mkpụrụ obi ndị a bụ, na ọnọdụ pụrụ iche ha chere ihu.",
+  "clues": [
+    "Anyị kwụsiri ike n'okwukwe anyị, n'agbanyeghị nnukwu nrụgide anyị nwere ịjụ okwukwe anyị.",
+    "Onye ọchịchị dị ike nke chọrọ imenyụ ìhè nke ozizi otu Chineke lekwasịrị anyị anya.",
+    "Anyị hụrụ nnukwu ihe ịrịba ama na ọrụ ebube, mana ndị na-emegbu anyị nọgidere na-eleghara anya.",
+    "Anyị diri ụzọ mkpagbu jọgburu onwe ya e mere iji tụọ ndị ọzọ ụjọ ka ha rube isi.",
+    "A tụbara anyị n'ime ọkụ na-ere ọkụ, mana iguzosi ike anyị mere ka anyị nwee ọnọdụ dị elu n'ebe Chineke nọ.",
+    "A kọrọ akụkọ anyị n'ime Surah nke aha ya bụ site na kpakpando eluigwe, na-adọ aka ná ntị banyere ọdịnihu nke ndị na-akpagbu ndị kwere ekwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka anyị bụ?",
+      "options": [
+        "Ndị Temọd",
+        "Ndị 'Ad",
+        "Ndị bi n'Ọdọ Mmiri ahụ",
+        "Ndị Midian",
+        "Ndị nke Enyí"
+      ],
+      "answer": "Ndị bi n'Ọdọ Mmiri ahụ"
+    },
+    "trial": {
+      "label": "Mkpagbu Anyị",
+      "options": [
+        "Ịbụ onye e liri n'ime idei mmiri",
+        "Ịbụ onye ifufe na-ekpo ọkụ na-eripịa",
+        "A tụbara ya n'olulu ọkụ",
+        "Ala loda ya",
+        "Ịgbanwe ka ọ bụrụ enwe"
+      ],
+      "answer": "A tụbara ya n'olulu ọkụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Oke idei mmiri",
+        "Nnukwu ala ọma jijiji",
+        "Ọdụ mmiri miri emi nke na-ere ọkụ",
+        "Arụsị dị ike",
+        "Oké ọkọchị dị egwu"
+      ],
+      "answer": "Ọdụ mmiri miri emi nke na-ere ọkụ"
+    },
+    "outcome": {
+      "label": "Akara Aka Kasị Elu Anyị",
+      "options": [
+        "E nyere ha alaeze n'ụwa.",
+        "E si n'ụzọ dị ebube gbapụ ha.",
+        "Ha nwetara ihe nrite ebighị ebi n'ihi okwukwe ha na ụgwọ ọrụ ebighị ebi.",
+        "A gbanwere ha ka ha bụrụ ụdị dị iche.",
+        "E nyere ha nnukwu akụnụba na ọganihu."
+      ],
+      "answer": "Ha nwetara ihe nrite ebighị ebi n'ihi okwukwe ha na ụgwọ ọrụ ebighị ebi."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

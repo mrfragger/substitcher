@@ -1,0 +1,61 @@
+{
+  "title": "Muryar Shiru ta Kwarin",
+  "intro": "Koma baya ga wani babban mutum wanda a da ya sami wani abin mamaki mai rai a matsayin gwaji. Girman kai da taurin kai sun tabbatar da makomarsu. Za ku iya bin diddigin labarin ku gano abin da ya faru a wannan gagarumin lokaci na juyin juya hali?",
+  "clues": [
+    "An aiko ni a matsayin jarabawar allahntaka ga mutane masu ƙarfi da aka san su da ƙarfi da rashin biyayya.",
+    "Ni abin al'ajabi ne na musamman—irina ba ta taɓa bayyana a cikinsu ba.",
+    "Na raba ruwan sha daga rijiya da mutanena a wasu ranaku daban-daban.",
+    "An yi musu gargaɗi cewa duk wani lahani da aka yi mini zai kawo hukunci cikin sauri.",
+    "Mafi ƙarfin hali daga cikinsu ya yi watsi da gargaɗin ya kuma danne ni.",
+    "Bayan mutuwata, wata ƙara mai ƙarfi daga sama ta lalata dukkan mutanena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Raƙumar Salih",
+        "Saniyar Musa",
+        "Jirgin Nuhu",
+        "Ma'aikacin Musa",
+        "Al'arshin Bilqis"
+      ],
+      "answer": "Raƙumar Salih"
+    },
+    "trial": {
+      "label": "Kaddarata Ta",
+      "options": [
+        "An yi wa rauni rauni kuma an kashe shi",
+        "An yanka shi a matsayin hadaya",
+        "Ya canza zuwa maciji",
+        "An kiyaye shi ta hanyar ambaliyar ruwa mai girma",
+        "An kawo shi cikin sauri a cikin masarauta"
+      ],
+      "answer": "An yi wa rauni rauni kuma an kashe shi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Rijiyar ruwa",
+        "Kwamfutar dutse",
+        "Daji mai ƙonewa",
+        "Akwatin katako",
+        "Kursiyi na zinariya da azurfa"
+      ],
+      "answer": "Rijiyar ruwa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An lalata shi da ihu ɗaya kawai",
+        "An nutsar da shi cikin ambaliyar ruwa mai girma",
+        "An ƙone ta da ruwan duwatsu",
+        "Iska mai ƙarfi ta buge shi",
+        "Ƙasa ta haɗiye ta"
+      ],
+      "answer": "An lalata shi da ihu ɗaya kawai"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

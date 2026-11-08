@@ -1,0 +1,61 @@
+{
+  "title": "La Signo Inter la Ŝtonoj",
+  "intro": "En lando kie montoj estis ĉizitaj en hejmojn, mesaĝisto alvenis kun mirakla signo de Alaho. La homoj postulis pruvon, kaj ili ricevis estaĵon el solida roko. Sed ilia aroganteco igis ilin spiti la averton, sigelante sian sorton.",
+  "clues": [
+    "Mi estis sendita al popolo, kiu vivis en loĝejoj ĉizitaj el montoj.",
+    "Ili defiis min alporti signon, do mi produktis kamelon el roko.",
+    "Mi ordonis al ili lasi la kamelon trinki libere kaj ne difekti ĝin.",
+    "Ili malobeis kaj poplitajn ŝovŝnurojn al la kamelo, spitante mian averton.",
+    "Mi anoncis, ke la puno venos post tri tagoj.",
+    "Matene, potenca eksplodo ilin detruis, sed mi kaj miaj sekvantoj estis savitaj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Salih",
+        "Profeto Hud",
+        "Profeto Lut",
+        "Profeto Ŝuajb",
+        "Profeto Ibrahim"
+      ],
+      "answer": "Profeto Salih"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Postulo pri kamelo el roko",
+        "Postulo por ora bovido",
+        "Postulo pri tablokovrita el la ĉielo",
+        "Postulo por inundo",
+        "Postulo por ke bastono fariĝu serpento"
+      ],
+      "answer": "Postulo pri kamelo el roko"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La kamelo kaj ŝia bovido",
+        "La Arkeo de Noa",
+        "La Bastono de Moseo",
+        "La Ora Bovido",
+        "La Fajro de Ibrahim"
+      ],
+      "answer": "La kamelo kaj ŝia bovido"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Detruita de potenca eksplodo",
+        "Dronis en la inundo",
+        "Englutita de la tero",
+        "Transformiĝis en homsimiojn",
+        "Detruita de furioza vento"
+      ],
+      "answer": "Detruita de potenca eksplodo"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

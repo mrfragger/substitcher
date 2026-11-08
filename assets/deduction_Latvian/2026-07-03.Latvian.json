@@ -1,0 +1,61 @@
+{
+  "title": "Bezprecedenta grēka vēstnesis",
+  "intro": "Daži Korāna stāsti atklāj, cik dziļi korupcijā var nonākt visa sabiedrība. Šis vēstnesis stāvēja viens, lūdzot tautu, kas bija noslīkusi perversijā, kādu neviena tauta pirms viņiem nebija īstenojusi. Neskatoties uz gadiem ilgajiem brīdinājumiem, sirdis palika nocietinātas, un dievišķais spriedums pienāca visbiedējošākajā veidā. Vai vari atpazīt šo cēlo Allāha vēstnesi?",
+  "clues": [
+    "Es tiku sūtīts kā brīdinājums tautai, ko pārņēmusi perversija, kādu neviena tauta pirms viņiem nekad nebija pastrādājusi.",
+    "Mani ļaudis mani nosauca par meli un draudēja padzīt mani un manus sekotājus no zemes.",
+    "Manās mājās ieradās godājami viesi streikojošu jaunu vīriešu izskatā, un es dziļi raizējos par viņu drošību.",
+    "Mani ļaudis pieprasīja, lai es atdodu savus viesus viņiem, nezinot, ka šie apmeklētāji ir Allāha sūtīti eņģeļi.",
+    "Mans paša dzīvesbiedrs nepiedalījās manā ticībā un izvēlējās palikt kopā ar lemtajiem.",
+    "Es un manas meitas tikām izglābti rītausmā, kad lija postošs akmeņu lietus un mūsu pilsētas tika apgāztas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Lūts",
+        "Pravietis Šuaibs",
+        "Pravietis Huds",
+        "Pravietis Nuhs",
+        "Pravietis Salihs"
+      ],
+      "answer": "Pravietis Lūts"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lieli plūdi pārpludina zemi",
+        "Redzes zudums ilgstošu ciešanu dēļ",
+        "Tirāns, kas apgalvo, ka ir dievišķs",
+        "Tiekot iemests liesmojošā ugunī",
+        "Pieprasījums nodot godājamos viesus"
+      ],
+      "answer": "Pieprasījums nodot godājamos viesus"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Liels, ar rokām būvēts šķirsts",
+        "Personāla loceklis, kas pāršķēla jūru",
+        "Brīnumaina kamieļu mātīte",
+        "Ugunsgrēks",
+        "Apgāztas pilsētas"
+      ],
+      "answer": "Apgāztas pilsētas"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Noslīka, vajājot ticīgos",
+        "Izglābts no uguns krāsns neskarts",
+        "Dzīvi pacelti debesīs",
+        "Ģimene gāja bojā lielos plūdos",
+        "Ģimene izglābta, izņemot neuzticīgo sievu"
+      ],
+      "answer": "Ģimene izglābta, izņemot neuzticīgo sievu"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

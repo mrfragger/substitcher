@@ -1,0 +1,61 @@
+{
+  "title": "Hindret vid det antika huset",
+  "intro": "I den heliga staden sjudade en mäktig figur av ilska när ett nytt budskap började spridas. Denna individ, vars namn blev synonymt med motstånd mot sanningen, såg sitt inflytande falla sönder under tyngden av gudomlig uppenbarelse. Vem var denna själ, vars öde beseglades i sanden på ett berömt slagfält?",
+  "clues": [
+    "Jag var en hövding bland mitt folk, känd för min rikedom och mitt inflytande i en stad som inrymde en forntida helgedom.",
+    "När en man från min stam började förkunna ett budskap om en enda Gud, förlöjligade jag honom och hans uppenbarelser och kallade dem bara sagor från det förflutna.",
+    "Jag konfronterade mannen när han bad nära den heliga byggnaden och hotade att om det skulle bli nödvändigt stoppa sin gudstjänst.",
+    "Jag var bland ledarna som planerade att tysta den nya tron ​​och motsatte sig dess anhängare med både ord och vapen.",
+    "Jag marscherade med en armé till en plats som heter Badr, övertygad om att vi skulle krossa den lilla gruppen av troende.",
+    "Men på det slagfältet tog mitt liv slut, och min död blev en läxa för dem som envisas med misstro efter tydliga tecken."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att hindra profeten från att be vid Kaba",
+        "Bygga Kaba",
+        "Att skriva Koranen",
+        "Leder elefantens armé",
+        "Dela månen"
+      ],
+      "answer": "Att hindra profeten från att be vid Kaba"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Kaba",
+        "Profeten Nuhs ark",
+        "Profeten Musas stav",
+        "Guldkalven",
+        "Shebas drottning av tronen"
+      ],
+      "answer": "Kaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Dödades i slaget vid Badr",
+        "Omvände sig och blev muslim",
+        "Flydde till Abessinien",
+        "Död i Elefantens år",
+        "Blev en följeslagare till profeten"
+      ],
+      "answer": "Dödades i slaget vid Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

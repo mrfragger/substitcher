@@ -1,0 +1,61 @@
+{
+  "title": "Rimtos žinutės nešėjas",
+  "intro": "Teisi siela buvo pasiųsta vesti žmones, pasiklydusius precedento neturinčiuose nusikaltimuose. Šis pasiuntinys tvirtai laikėsi, skelbdamas griežtą perspėjimą apie korupciją, kuri prieštarauja natūraliai tvarkai. Nepaisant nuoširdžių prašymų, bendruomenė vis labiau pasinėrė į tamsą, paruošdama dirvą dieviškam atsiskaitymui, kokio dar nebuvo. Ar galite atpažinti šį ištikimą Alacho tarną?",
+  "clues": [
+    "Buvau kito didžio pranašo giminaitis ir kartu su juo migravau, palikdamas mūsų tėvynę.",
+    "Buvau siųstas pas žmones, kurių nedorumas buvo išskirtinis, nusižengimas, kurio joks kūrinys nebuvo padaręs iki jų.",
+    "Mano paties namai buvo susiskaldę; artimas šeimos narys slapta palaikė netikinčius.",
+    "Angelai, gražių jaunuolių pavidalu, atėjo į mano namus kaip svečiai, sukeldami man didelį nerimą dėl jų saugumo.",
+    "Aš pasiūliau savo dukteris į žmonas savo tautai, desperatiškai bandydamas atkalbėti juos nuo gėdingų darbų.",
+    "Mano žmones sunaikino baisus klyksmas ir išdegto molio akmenų lietus, o aš ir mano šeima, išskyrus vieną, buvome išgelbėti išvykę nakties viduryje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Šuayb",
+        "Pranašas Salihas",
+        "Pranašas Lutas",
+        "Pranašas Hudas",
+        "Pranašas Nuh"
+      ],
+      "answer": "Pranašas Lutas"
+    },
+    "trial": {
+      "label": "Koks buvo mano pagrindinis teismo procesas?",
+      "options": [
+        "Įtikinti tironą karalių nesudeginti manęs ugnyje.",
+        "Susitaikiau su brolių pavydu ir įmetimu į šulinį.",
+        "Susidūrimas su žmonėmis, užsiimančiais precedento neturinčiu seksualiniu amoralumu.",
+        "Išvaduoju savo tautą iš galingo faraono vergijos.",
+        "Statyti didžiulį laivą, kad išgelbėtų tikinčiuosius nuo didelio potvynio."
+      ],
+      "answer": "Susidūrimas su žmonėmis, užsiimančiais precedento neturinčiu seksualiniu amoralumu."
+    },
+    "location": {
+      "label": "Kokia buvo mano misijos vieta?",
+      "options": [
+        "Madjano miestas",
+        "Senovės Iramo miestas",
+        "Egipto žemė valdant faraonui",
+        "Sodomos ir Gomoros miestai",
+        "Ninevės miestas"
+      ],
+      "answer": "Sodomos ir Gomoros miestai"
+    },
+    "outcome": {
+      "label": "Koks buvo galutinis rezultatas?",
+      "options": [
+        "Miestai buvo sugriauti ir apversti degto molio akmenimis.",
+        "Mano žmones prarijo žemė kartu su jų turtingu vadu.",
+        "Mano tautą septynias naktis ir aštuonias dienas niokoja smarkus vėjas.",
+        "Mano tautą kankino tokie marai kaip skėriai, utėlės ​​ir varlės.",
+        "Milžiniška žuvis mane prarijo, kai atsisakiau savo misijos."
+      ],
+      "answer": "Miestai buvo sugriauti ir apversti degto molio akmenimis."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

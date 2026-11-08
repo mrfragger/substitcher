@@ -1,0 +1,61 @@
+{
+  "title": "The Unheeded Voice of Centuries",
+  "intro": "In a time long before the great cities rose, a lone soul rose among a people who had turned away from the truth. Their stubbornness was matched only by the patience of this solitary caller, who pleaded through generations without losing resolve. When all warnings fell on deaf ears, an unprecedented reckoning reshaped the very earth itself. Today, the echoes of that story still ripple through every recitation. Can you identify this resolute soul?",
+  "clues": [
+    "I was raised among a people who worshipped false idols and ignored the signs around them, yet I was chosen to awaken them from their heedlessness.",
+    "I called out to my people again and again, but they accused me of being nothing but a person like them, mocking my message and covering their ears.",
+    "Night and day, I entreated them with wisdom and gentle reminders, but my words seemed to vanish into the air, unheard and unheeded.",
+    "Under divine instruction, I constructed a vast vessel of timber and planks on dry land, and my people laughed at me as one who had lost reason.",
+    "When the great flood came as promised, my own son refused to board the vessel with me, believing a mountain would shelter him from the rising waters.",
+    "I became the patriarch of a new beginning upon the earth, and my story is preserved in a chapter of the Quran that bears my very name."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Lut",
+        "Prophet Hud"
+      ],
+      "answer": "Prophet Nuh"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The Great Flood that reshaped the earth",
+        "Being cast into a blazing fire by the idolaters",
+        "Confrontation with Pharaoh's magicians at the palace",
+        "The destruction of the prosperous gardens by a heavenly storm",
+        "The overturning of the trench dwellers"
+      ],
+      "answer": "The Great Flood that reshaped the earth"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The Ark built from timber and planks",
+        "The sacred house built upon ancient foundations",
+        "The staff that transformed into a serpent",
+        "The cave of the sleeping youths",
+        "The throne carried by a mighty creature"
+      ],
+      "answer": "The Ark built from timber and planks"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "The disbelievers drowned while the believers were saved aboard the vessel",
+        "The fire became cool and safe, and the caller emerged unharmed",
+        "The magicians fell prostrate and embraced faith",
+        "The garden was granted to the righteous neighbor in its place",
+        "The sleepers awoke after centuries, transformed"
+      ],
+      "answer": "The disbelievers drowned while the believers were saved aboard the vessel"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

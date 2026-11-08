@@ -1,0 +1,61 @@
+{
+  "title": "Kẻ bị ruồng bỏ của thiên đường",
+  "intro": "Một thực thể bí ẩn đứng ở ngã ba đường giữa sự sáng tạo và sự hủy diệt. Câu chuyện của chúng là một câu chuyện về sự kiêu ngạo vô song và sự thách thức tột cùng đối với mệnh lệnh thiêng liêng. Sự lựa chọn của chúng vang vọng qua mọi thế hệ, trở thành một thử thách cho mỗi linh hồn được sinh ra trên thế giới này. Bạn có thể nhận diện được kẻ thù vĩnh cửu này không?",
+  "clues": [
+    "Tôi đã có mặt tại một sự kiện mang ý nghĩa vũ trụ, khi một sinh linh mới được tạo nên từ đất sét và được ban sự sống bởi Hơi thở của Đấng Nhân từ.",
+    "Bản thân tôi được sinh ra từ một nguyên tố rực lửa duy nhất, khác với sinh vật được tạo thành từ bụi.",
+    "Tôi nhận được một mệnh lệnh mà tôi cho là không xứng tầm với vị trí của mình.",
+    "Lòng kiêu hãnh dâng trào trong tôi, và tôi kiên quyết từ chối tuân lệnh đó.",
+    "Tôi được cho phép trì hoãn đến một Ngày đã định, để tôi có thể theo đuổi mục đích đã tuyên bố của mình là lừa dối người khác.",
+    "Ta là kẻ thù không đội trời chung của tất cả những ai đang sống trên trái đất, ta thì thầm những lời dối trá và dụ dỗ họ rời xa con đường chính đạo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Iblis (Satan)",
+        "Pharaoh (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Từ chối cúi đầu trước Adam",
+        "Tự xưng là thần thánh một cách sai trái.",
+        "Đúc một con bê vàng để thờ cúng",
+        "Giết anh trai mình vì ghen tị",
+        "Lãnh đạo phe đối lập đa thần giáo ở Mecca."
+      ],
+      "answer": "Từ chối cúi đầu trước Adam"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thiên đường (Jannah)",
+        "Cung điện của Pharaoh ở Ai Cập",
+        "Thung lũng thiêng Tuwa",
+        "Độ sâu của biển",
+        "Vườn Sheba"
+      ],
+      "answer": "Thiên đường (Jannah)"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được cho thời gian tạm hoãn cho đến Ngày Phán Xét.",
+        "Chết đuối cùng với toàn bộ quân đội trên biển.",
+        "Bị đất nuốt chửng cùng với những kho báu",
+        "Bị biến thành vượn vì vi phạm ngày Sa-bát",
+        "Bị thiêu cháy bởi những viên đá ném từ trên trời xuống"
+      ],
+      "answer": "Được cho thời gian tạm hoãn cho đến Ngày Phán Xét."
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

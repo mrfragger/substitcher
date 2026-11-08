@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Mensahero sa Kalooy ug Gahom",
+  "intro": "Handurawa ang usa ka hilom nga hapon nga nabalda sa pag-abot sa mga dili pamilyar nga mga magpapanaw. Ordinaryo ra ang ilang panagway, apan lahi ra gyud ang ilang katuyoan. Nagdala sila og balaang mensahe nga mag-usab sa dagan sa duha ka nasud, nga magdala og katawa sa usa ka awaaw nga panimalay ug kalisang sa usa ka makasasala nga siyudad. Kinsa kining misteryosong mga bisita?",
+  "clues": [
+    "Gipadala kami ngadto sa usa ka debotadong alagad sa Allah, nga nailhan sa ilang walay kinutuban nga pagkamaabiabihon.",
+    "Miabot kami nga nagpakaaron-ingnon nga mga estranghero, apan ang among tagbalay nakamatikod nga adunay lahi nga butang sa among presensya.",
+    "Nagdala kami og balita nga nakapakatawa sa usa ka tigulang nga babaye sa kawalay pagtuo, ug nakapakurat usab sa iyang kaugalingong nawong.",
+    "Gitahasan kami sa pagpanalipod sa usa ka matarong nga pamilya samtang nag-ulan og kalaglagan sa usa ka siyudad nga nalubog sa korapsyon.",
+    "Midumili mi sa pag-ambit sa pagkaon nga gitanyag kanamo, nga nakapasamot lang sa pagduda sa among tagbalay.",
+    "Among gipadayag ang among tinuod nga kinaiya sa wala pa kami mobiya, nga nag-ingon, 'Sa pagkatinuod, kami mga mensahero sa imong Ginoo.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Kami?",
+      "options": [
+        "Ang mga Bisita ni Abraham",
+        "Ang mga Tinun-an ni Jesus",
+        "Ang mga Kauban sa Langob",
+        "Ang Kasundalohan ni Abraha",
+        "Ang mga Mensahero sa Ya-Sin"
+      ],
+      "answer": "Ang mga Bisita ni Abraham"
+    },
+    "trial": {
+      "label": "Ang Among Misyon",
+      "options": [
+        "Aron pagsulay sa pagtuo ni Abraham mahitungod sa iyang anak",
+        "Aron ihatag ang kasulatan ngadto kang Abraham",
+        "Aron ipahibalo ang pagkatawo ni Isaac ug ang pagkalaglag sa katawhan ni Lot",
+        "Aron magiyahan si Abraham ngadto sa Kaaba",
+        "Aron luwason si Abraham gikan sa kalayo"
+      ],
+      "answer": "Aron ipahibalo ang pagkatawo ni Isaac ug ang pagkalaglag sa katawhan ni Lot"
+    },
+    "location": {
+      "label": "Lugar sa Pagpakita",
+      "options": [
+        "Sa yuta sa Ehipto",
+        "Sa siyudad sa Ur",
+        "Sa balay ni Abraham",
+        "Sa tanaman sa Eden",
+        "Sa atabay sa Zamzam"
+      ],
+      "answer": "Sa balay ni Abraham"
+    },
+    "outcome": {
+      "label": "Ang Resulta",
+      "options": [
+        "Si Abraham nahimong hari",
+        "Gitukod ni Abraham ang Kaaba",
+        "Si Sara nanganak kang Isaac ug ang katawhan ni Lot nalaglag",
+        "Si Abraham mibalhin ngadto sa Palestina",
+        "Ang katawhan ni Abraham naluwas gikan sa dakong lunop"
+      ],
+      "answer": "Si Sara nanganak kang Isaac ug ang katawhan ni Lot nalaglag"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

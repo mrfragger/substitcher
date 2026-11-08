@@ -1,0 +1,61 @@
+{
+  "title": "L'alma vigilanta al bòrd del riu",
+  "intro": "Una jove anma foguèt confiada d'una mission secrèta, d'observar d'una distància segura coma lo destin se desvolopava sus las aigas. Invisible e insospitat, aquela figura jogariá un ròtle fondamental per alterar lo cors de l'istòria d'una nacion.",
+  "clues": [
+    "Ma maire me donèt una tòca, una que demandava de furtivitat e de vigilància.",
+    "Mos uèlhs seguissián un pichon berç que se desplaçava lo long del corrent, mon còr pesuc d'inquietud.",
+    "Quand foguèt trobat per un grop inesperat, m'aprochèri, plen de trepidacion.",
+    "Vegèri lor desespèr per un gardian e ofriguèri una solucion sens revelar la vertat.",
+    "Mon intervencion oportuna tornèt portar una anma infirmièra a aquel que n'aviá lo mai besonh.",
+    "Dins las corts dels poderoses, parlèri: 'Vos dirigirai cap a una familha que lo noirirà e lo s'ocuparà amb suenh?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "La sòrre de Musa",
+        "La maire de Musa",
+        "La molher de farao .",
+        "Una parteira",
+        "La filha de Shu'aib"
+      ],
+      "answer": "La sòrre de Musa"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Lo lançament d'un mainatge dins lo riu",
+        "Lo departiment de la mar",
+        "La cremacion del vedèl",
+        "La construccion de l'arca",
+        "La pèsta de las sautas"
+      ],
+      "answer": "Lo lançament d'un mainatge dins lo riu"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo riu",
+        "Lo desèrt",
+        "La montanha",
+        "Lo palais",
+        "Lo fuòc"
+      ],
+      "answer": "Lo riu"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Reüniguèt l'enfant amb sa maire",
+        "Se salvèt dels soldats de faraon",
+        "Venguèt una reina",
+        "Foguèt castigada per aver espiat",
+        "Menèt los israelians"
+      ],
+      "answer": "Reüniguèt l'enfant amb sa maire"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

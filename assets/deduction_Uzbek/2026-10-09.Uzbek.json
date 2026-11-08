@@ -1,0 +1,61 @@
+{
+  "title": "Takabburlik diyoridagi javobsiz chaqiriq",
+  "intro": "Siz bir vaqtlar buyuk tsivilizatsiya xarobalarida turibsiz, u yerda kuch va mag'rurlik chegara bilmas edi. Ularning orasida bir xabarchi yurib, haqiqatga chaqirdi, ammo ularning qalblari tosh bo'lib qoldi. Ogohlantirishga quloq solmadi va osmonning o'zi g'azab quroliga aylandi. Bu xabarchi kim edi va chaqiruvni rad etganlarning taqdiri nima bo'ldi?",
+  "clues": [
+    "Meni kuch-qudrati mislsiz bo'lgan va har bir baland joyga yodgorlik qurgan bir qavmga yubordilar.",
+    "Mening xalqim o'zlarini yengilmas deb hisoblab: “Bizdan kuchliroq kim bor?” dedi.",
+    "Men ularni yolg'iz Allohga ibodat qilishga chaqirdim, lekin ular meni ahmoqlik va yolg'onchilikda ayblashdi.",
+    "Agar rostgo'y bo'lsam, va'da qilgan jazomni keltirishimga ular meni undashdi.",
+    "Alloh ularga hech narsani ayab o'tirmaydigan bepusht shamol yubordi.",
+    "Men va men bilan birga iymon keltirganlar Allohning rahmati bilan najot topdik, kofirlar esa butunlay halok bo'ldilar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Hud",
+        "Payg'ambar Solih",
+        "Payg'ambar Shuayb",
+        "Lut payg'ambar",
+        "Nuh payg'ambar"
+      ],
+      "answer": "Payg'ambar Hud"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Kofirlarni vayron qiluvchi shamol vayron qildi",
+        "Kofirlarni katta bir to'fon qamrab oldi",
+        "Toshlar yomg'iri yog'di",
+        "Kofirlarni baland ovozda qichqiriq qamrab oldi",
+        "Kofirlarni zilzila qilar edi"
+      ],
+      "answer": "Kofirlarni vayron qiluvchi shamol vayron qildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Shafqatsiz shamol",
+        "Yog'ochdan yasalgan kema",
+        "Urg'ochi tuya",
+        "Loy toshlaridan iborat yomg'ir",
+        "Yonayotgan olov"
+      ],
+      "answer": "Shafqatsiz shamol"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Hud va mo'minlar najot topdilar, kofirlar esa halok bo'ldilar.",
+        "Hud yuksak mavqega ko'tarildi",
+        "Hud o'z qavmi tomonidan o'ldirildi",
+        "Hudning qavmi tavba qildi va najot topdi",
+        "Hud o'z qavmini har qanday jazodan oldin tark etdi"
+      ],
+      "answer": "Hud va mo'minlar najot topdilar, kofirlar esa halok bo'ldilar."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

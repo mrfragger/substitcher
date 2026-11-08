@@ -1,0 +1,61 @@
+{
+  "title": "Mewa ya Mosele",
+  "intro": "O boela kwa motlheng o mmusi yo o setlhogo a neng a batla gore batho ba ineele ka botlalo mo medimong ya maaka. Setšhaba se sennye sa mewa e e ineetseng se ne sa gana, mme sa lebana le kotlhao e e bogale thata mo e neng ya hutsiwa ka bosakhutleng. Kgang ya bone e boeletsa mo Quran jaaka bosupi jwa tumelo e e sa reketleng. A o ka lemoga setlhopha seno se se nitameng?",
+  "clues": [
+    "Re ne re tshela mo nageng e e neng e laolwa ke mmusi yo o neng a batla gore batho ba obamele medimo ya maaka .",
+    "Batho ba rona ba ne ba bogisiwa thata fela ka ntlha ya go dumela mo go Allah fela",
+    "Mmusi yono o ne a laela gore go epiwe mosele o mogolo o bo o tshubiwa ka dikgabo tse di tukang .",
+    "E re ka re ne re gana go itatola tumelo ya rona, re ne ra latlhelwa mo moleteng oo o o tukang ka bongwe ka bongwe .",
+    "Kgang ya rona e ne ya nna karolo ya Quran, mme ba ba neng ba re bogisa ba ne ba hutsega ka bosakhutleng .",
+    "Surah e e kwalang mathata a rona e reeletswe ka matshwao a magolo a selegodimo a loapi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batsala ba Mosele (Ashaba al-Ukhdud)",
+        "Batho ba Logaga (Ashab al-Kahf)",
+        "Batho ba Sabata",
+        "Batho ba A'ad",
+        "Batho ba Thamude"
+      ],
+      "answer": "Batsala ba Mosele (Ashaba al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Teko ya Rona",
+      "options": [
+        "Go fisiwa go tshela mo mosimeng wa molelo",
+        "Go tswalelwa mo logageng dingwaga di le dintsi",
+        "Go tshwara ditlhapi ka letsatsi le le boitshepo la boikhutso",
+        "Go senngwa ke phefo e e bokolelang",
+        "Go bolaya kamela e namagadi e e boitshepo"
+      ],
+      "answer": "Go fisiwa go tshela mo mosimeng wa molelo"
+    },
+    "location": {
+      "label": "Ntlha ya Botlhokwa",
+      "options": [
+        "Mosele o o tukang wa molelo",
+        "Logaga lo lo fitlhegileng lo lo nang le nša e e ikanyegang",
+        "Dipilara tse ditelele tsa motse wa bogologolo o o sentsweng",
+        "Matlo a bonno a a mo dithabeng a a betlilweng mo mafikeng a matlapa",
+        "Lebala le le bulegileng le le gogotsweng ke diphefo tse di maatla"
+      ],
+      "answer": "Mosele o o tukang wa molelo"
+    },
+    "outcome": {
+      "label": "Dipoelo tsa rona",
+      "options": [
+        "Re ne ra bolaelwa tumelo mme babogisi ba ne ba hutsega ka bosakhutleng",
+        "Re tsogile morago ga go robala dingwaga di le 309",
+        "Re ne ra fetolwa go nna ditshwene ka ntlha ya tlolo ya rona",
+        "Phefo e e maatla e e bokolelang e ne ya re senya rotlhe",
+        "Selelo se le sengwe fela se se tlhomolang pelo se ne sa thubaganya botshelo jwa rona"
+      ],
+      "answer": "Re ne ra bolaelwa tumelo mme babogisi ba ne ba hutsega ka bosakhutleng"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

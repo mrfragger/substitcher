@@ -1,0 +1,61 @@
+{
+  "title": "Dusze Okopów",
+  "intro": "Przenosisz się do czasów, gdy bezwzględny władca żądał absolutnego oddania fałszywym bóstwom. Niewielka społeczność oddanych dusz odmówiła i spotkała się z karą tak surową, że stała się wieczną klątwą. Ich historia odbija się echem w Koranie jako świadectwo niezachwianej wiary. Czy potrafisz zidentyfikować tę niezłomną grupę?",
+  "clues": [
+    "Żyliśmy w kraju pod tyranią władcy, który żądał oddawania czci fałszywym bóstwom",
+    "Nasza społeczność doświadczyła poważnych prześladowań wyłącznie z powodu naszej wiary w Allaha",
+    "Władca rozkazał wykopać wielki rów i podłożyć w nim ogień",
+    "Ponieważ nie chcieliśmy wyrzec się naszej wiary, zostaliśmy wrzuceni do tej płonącej jamy jeden po drugim",
+    "Nasza historia stała się częścią Koranu, a ci, którzy nas prześladowali, zostali przeklęci na wieki",
+    "Sura, która opisuje nasze doświadczenia, została nazwana na cześć wielkich znaków niebieskich"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Towarzysze Rowu (Ashab al-Ukhdud)",
+        "Ludzie Jaskini (Ashab al-Kahf)",
+        "Ludzie szabatu",
+        "Ludzie A'ad",
+        "Ludzie z Thamud"
+      ],
+      "answer": "Towarzysze Rowu (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Nasz proces",
+      "options": [
+        "Spalony żywcem w ognistym dole",
+        "Przebywanie przez wiele lat w zamknięciu w jaskini",
+        "Wędkowanie w dzień odpoczynku",
+        "Zniszczony przez wyjący wiatr",
+        "Zabicie świętej wielbłądzicy"
+      ],
+      "answer": "Spalony żywcem w ognistym dole"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Płonący rów ognia",
+        "Ukryta jaskinia z wiernym psem",
+        "Wysokie filary starożytnego, skazanego na zagładę miasta",
+        "Górskie domy wykute w kamiennych klifach",
+        "Otwarta równina, na której wieją gwałtowne wiatry"
+      ],
+      "answer": "Płonący rów ognia"
+    },
+    "outcome": {
+      "label": "Nasz wynik",
+      "options": [
+        "Zostaliśmy zamęczeni, a prześladowcy zostali przeklęci na wieki",
+        "Obudziliśmy się po 309 latach snu",
+        "Za nasze przewinienia zostaliśmy przemienieni w małpy",
+        "Potężny wyjący wiatr zniszczył nas wszystkich",
+        "Jeden niszczycielski krzyk zniszczył nasze istnienie"
+      ],
+      "answer": "Zostaliśmy zamęczeni, a prześladowcy zostali przeklęci na wieki"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

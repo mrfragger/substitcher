@@ -1,0 +1,61 @@
+{
+  "title": "Epaiketako ertzean dagoen herria",
+  "intro": "Kostaldeko herrixka batean aurkitzen zara, non olatuen soinua ahaztutako herri baten xuxurlakin nahasten den. Atseden hartzeko agindua eman zitzaien, baina haien gutizia zigor batera eraman zituen, eta oraindik ere ahots baxuan aipatzen da. Jakin al dezakezu nor ziren?",
+  "clues": [
+    "Kostaldean bizi ginen eta atseden eguna ospatzeko agindua eman ziguten.",
+    "Egun hartan, arrain ugari etorriko zitzaigun, baina debekatuta geneukan hartzea.",
+    "Batzuek transgresioaren aurka ohartarazi zuten, baina beste batzuek arrantza egiteko konspiratu zuten hala ere.",
+    "Agindu sakratua hautsi genuen eta zigor gogorra ekarri genion geure buruari.",
+    "Gure zigorra desitxuratu eta lotsatuta utzi gintuen eraldaketa bat izan zen.",
+    "Tximino bihurtu gintuzten, ondoren etorriko ziren guztientzat seinale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sabateko jendea.",
+        "Thamudeko jendea",
+        "'Ad-eko jendea",
+        "Kobazuloko jendea.",
+        "Elefantearen jendea."
+      ],
+      "answer": "Sabateko jendea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Sabbatuan arrantzan",
+        "Urrezko txahal bat gurtzen",
+        "Huden mezua ukatzea",
+        "Gamelu emea hiltzea",
+        "Zeruraino dorre bat eraikitzen"
+      ],
+      "answer": "Sabbatuan arrantzan"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arraina",
+        "Gamelu eme bat",
+        "Langile bat",
+        "Txalupa bat",
+        "Lorategi bat"
+      ],
+      "answer": "Arraina"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Tximino bihurtuta.",
+        "Uholde batek suntsituta.",
+        "Sute bizi batek suntsitu zuen",
+        "Lurrak irentsia.",
+        "Haize batek barreiatuta."
+      ],
+      "answer": "Tximino bihurtuta."
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

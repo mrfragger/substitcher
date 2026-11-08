@@ -1,0 +1,61 @@
+{
+  "title": "Mbunifu wa Tamaa ya Uongo",
+  "intro": "Mtu mwenye mamlaka makubwa aliwahi kuwa mmoja wa watawala wakubwa wa kihistoria katika Misri ya kale. Mtu huyu alipewa amri ya ujasiri - kujenga jengo lililokusudiwa kupinga mbingu. Hadithi yao inasimama katika Quran kama somo la kushangaza kuhusu jinsi utii wa kipofu kwa kiburi unavyosababisha uharibifu tu.",
+  "clues": [
+    "Nilihudumu katika mahakama za mtawala mwenye nguvu aliyedai uungu juu ya nchi.",
+    "Nilikuwa na wadhifa wa juu wa uwaziri, nikimshauri mtawala wa kiburi zaidi wa wakati wangu.",
+    "Mtawala wangu alichochewa na changamoto kwa Mungu wa Musa, ambaye walikataa kumtambua.",
+    "Niliamriwa kujenga mnara wa matofali yaliyochomwa moto ili mtawala wangu aweze kupanda mbinguni.",
+    "Mnara huo haukufika angani kamwe, na utumwa wangu wa kiburi uliniletea aibu ya milele.",
+    "Niliangamia pamoja na yule niliyemfuata, na jina langu likawa onyo la kudumu dhidi ya wale wanaowawezesha madhalimu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Hamani",
+        "Azar (baba yake Ibrahim)",
+        "Illyas (nabii)",
+        "Dhu al-Kifl",
+        "Harut (mmoja wa malaika wawili huko Babeli)"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Aliamriwa kujenga jengo refu ili kufikia mbingu",
+        "Aliulizwa kutafsiri ndoto iliyotumwa kutoka kwa Mungu",
+        "Kutupwa kwenye moto unaowaka kama jaribio la imani",
+        "Kulazimishwa kuchagua kati ya kiti cha enzi na ukweli",
+        "Alipingwa katika shindano la uchawi"
+      ],
+      "answer": "Aliamriwa kujenga jengo refu ili kufikia mbingu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mnara wa matofali yaliyochomwa moto",
+        "Fimbo iliyobadilika na kuwa nyoka",
+        "Meli inayosafiri kupitia mafuriko makubwa",
+        "Bustani iliyofungwa na kuta ndefu",
+        "Kiti cha enzi kilichopambwa kwa rubi na dhahabu"
+      ],
+      "answer": "Mnara wa matofali yaliyochomwa moto"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuzama pamoja na mkandamizaji baharini",
+        "Akawa mfalme mwenye nguvu wa nchi kubwa",
+        "Nilitoroka moto mkali bila kujeruhiwa",
+        "Kujengwa ufalme wenye mafanikio wa hekima",
+        "Aliungana tena na familia yake baada ya miaka mingi ya uhamishoni"
+      ],
+      "answer": "Kuzama pamoja na mkandamizaji baharini"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

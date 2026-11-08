@@ -1,0 +1,61 @@
+{
+  "title": "An tOthar Ceann",
+  "intro": "Fadó, i laethanta tosaigh stair an chine dhaonna, sheas dhá anam os comhair a gCruthaitheora le tairiscintí. Glacadh le ceann amháin, níor glacadh le ceann eile. Ba é an chéad thragóid mhór idir siblíní a lean - gníomh amháin srianta foighní agus gníomh amháin díoltais searbh. An féidir leat a nochtadh cé mise?",
+  "clues": [
+    "Rugadh mé i laethanta tosaigh an chine dhaonna ar domhan",
+    "Ba leanbh mé den chéad bheirt daonna riamh a shiúl an domhan seo",
+    "D’ofráil mé íobairt uair amháin ó chuid is fearr de mo thréad chun mo Chruthaitheoir a shásamh",
+    "Glacadh le mo thairiscint ó thuas, ach diúltaíodh do thairiscint mo dhearthár/deirfiúr.",
+    "Nuair a bhagair mé an bás, roghnaigh mé gan mo lámh a ardú i gcoinne mo dhearthár/deirfiúr",
+    "Ba mise an chéad duine i stair an chine dhaonna ar fad a maraíodh go mícheart ag duine eile"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Habil (Ábal), mac Ádhaimh",
+        "Qabil (Cáin), mac Ádhaimh",
+        "Ádhamh, an chéad duine",
+        "Noah (Nó)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Ábal), mac Ádhaimh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An chéad dúnmharú i stair an chine dhaonna",
+        "An tuile mhór de Nuh",
+        "Scrios arm Fir'awn",
+        "Íobairt Ismail le Ibrahim",
+        "An cath in aghaidh Jalut (Goliath)"
+      ],
+      "answer": "An chéad dúnmharú i stair an chine dhaonna"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Caora a ofráiltear mar íobairt thaitneamhach",
+        "Áirc adhmaid mhór",
+        "Bata a d’iompaigh ina nathair",
+        "Éan crúba ag iompar teachtaireacht ríoga",
+        "Trinse tine lasrach"
+      ],
+      "answer": "Caora a ofráiltear mar íobairt thaitneamhach"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ba é an chéad íospartach dúnmharaithe i stair an chine dhaonna é.",
+        "Mhair sé tuile mhór taobh istigh de shoitheach adhmaid",
+        "Bhí cónaí air i mbolg éisc mhóir",
+        "Rialaigh sé thar jinn, daoine, agus an ghaoth",
+        "Ag fánaíocht ar feadh daichead bliain i bhfásach fairsing"
+      ],
+      "answer": "Ba é an chéad íospartach dúnmharaithe i stair an chine dhaonna é."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

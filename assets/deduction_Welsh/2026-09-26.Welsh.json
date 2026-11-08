@@ -1,0 +1,61 @@
+{
+  "title": "Y Gwadu Yng Nghanol Digonedd",
+  "intro": "Rydych chi ymhlith pobl y mae eu marchnadoedd yn llawn masnach, ond mae eu cloriannau'n gogwyddo'n anonest. Mae negesydd wedi dod atynt gyda rhybuddion clir, ond maen nhw'n chwerthin ac yn troi i ffwrdd, yn hyderus yn eu ffyniant. Mae'r awyr yn dechrau tywyllu, ond maen nhw'n ei weld fel bendith glaw. Pwy yw'r bobl hyn?",
+  "clues": [
+    "Fe ffynnon ni mewn tiroedd masnach a digonedd, ond eto tyfodd ein calonnau'n ddideimlad.",
+    "Daeth negesydd atom gydag arwyddion gan ein Harglwydd, ond gwnaethom watwar ei rybuddion.",
+    "Roedden ni'n adnabyddus am ein crefft, ond fe wnaethon ni roi mesur byr a thwyllo'r bobl.",
+    "Roedden ni’n byw ymhlith coed trwchus a llystyfiant toreithiog, ond roedden ni’n cymryd ein bendithion yn ganiataol.",
+    "Pan ddaeth cwmwl tywyll yn agosáu, roedden ni'n llawenhau, gan feddwl y byddai'n dod â glaw i'n tiroedd crasedig.",
+    "Yn lle hynny, rhyddhaodd y cwmwl hwnnw gosb losglyd, a chawsom ein gafael yng ngorthrwm dydd y cysgod."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Ashab al-Aykah (Cyfeillion y Goedwig)",
+        "Pobl Thamud",
+        "Pobl 'Ad",
+        "Pobl Lut",
+        "Pobl Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Cyfeillion y Goedwig)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gwrthodasant eu negesydd a thwyllo mewn masnach",
+        "Fe wnaethon nhw addoli llo aur a chael eu harwain ar gyfeiliorn",
+        "Fe wnaethon nhw ymarfer sodomiaeth ac ymosod ar deithwyr",
+        "Adeiladon nhw dyrau tal a herio Duw",
+        "Gwrthodasant rannu dŵr a niweidio camel benywaidd"
+      ],
+      "answer": "Gwrthodasant eu negesydd a thwyllo mewn masnach"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Coedwig drwchus neu dryslwyn",
+        "Mynydd wedi'i gerfio'n anheddau",
+        "Dinas wrth y môr",
+        "Dyffryn anialwch gyda ffynhonnau",
+        "Gardd ffrwythlon gyda llawer o ffrwythau"
+      ],
+      "answer": "Coedwig drwchus neu dryslwyn"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i ddinistrio gan gwmwl cysgodol o dân",
+        "Boddi gan lifogydd mawr",
+        "Wedi'i lyncu gan ddaeargryn",
+        "Wedi'i daro gan wynt treisgar",
+        "Wedi'i droi'n garreg"
+      ],
+      "answer": "Wedi'i ddinistrio gan gwmwl cysgodol o dân"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

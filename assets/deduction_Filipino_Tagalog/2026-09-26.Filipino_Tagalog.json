@@ -1,0 +1,61 @@
+{
+  "title": "Ang Pagtanggi sa Gitna ng Kasaganaan",
+  "intro": "Nasa gitna ka ng mga taong ang mga pamilihan ay maingay dahil sa kalakalan, ngunit ang kanilang mga timbangan ay pabago-bago. Isang mensahero ang dumating sa kanila na may malinaw na babala, ngunit sila ay tumatawa at tumalikod, tiwala sa kanilang kasaganaan. Nagsimulang dumilim ang langit, ngunit nakikita nila ito bilang isang biyaya ng ulan. Sino ang mga taong ito?",
+  "clues": [
+    "Umunlad kami sa mga lupaing masigla at masagana, ngunit nanlamig ang aming mga puso.",
+    "Dumating sa amin ang isang sugo na may dalang mga tanda mula sa aming Panginoon, ngunit kinutya namin ang kanyang mga babala.",
+    "Kilala kami sa aming hanapbuhay, ngunit nagkukulang kami at nandaya sa mga tao.",
+    "Nakatira kami sa gitna ng mga masukal na puno at malalagong halaman, ngunit binalewala namin ang aming mga biyaya.",
+    "Nang lumapit ang isang madilim na ulap, kami ay nagalak, iniisip na magdudulot ito ng ulan sa aming mga tigang na lupain.",
+    "Sa halip, ang ulap na iyon ay nagpakawala ng isang nakapapasong parusa, at tayo ay dinakip ng paghihirap ng araw ng anino."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Tayo?",
+      "options": [
+        "Ashab al-Aykah (Ang mga Kasamahan ng Kagubatan)",
+        "Ang mga tao ng Thamud",
+        "Mga Tao ng 'Ad",
+        "Ang mga tao ni Lut",
+        "Ang mga tao ni Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Ang mga Kasamahan ng Kagubatan)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Tinanggihan nila ang kanilang mensahero at nanloko sa kalakalan",
+        "Sumamba sila sa isang gintong guya at naligaw sila",
+        "Nagsagawa sila ng sodomiya at sinalakay ang mga manlalakbay",
+        "Nagtayo sila ng matataas na tore at hinamon ang Diyos",
+        "Tumanggi silang magbahagi ng tubig at sinaktan ang isang babaeng kamelyo"
+      ],
+      "answer": "Tinanggihan nila ang kanilang mensahero at nanloko sa kalakalan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang masukal na kagubatan o masukal na halaman",
+        "Isang bundok na inukit sa mga tirahan",
+        "Isang lungsod sa tabi ng dagat",
+        "Isang lambak ng disyerto na may mga balon",
+        "Isang matabang hardin na maraming prutas"
+      ],
+      "answer": "Isang masukal na kagubatan o masukal na halaman"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nawasak ng isang ulap ng apoy",
+        "Nalunod sa matinding baha",
+        "Nilamon ng lindol",
+        "Hinampas ng malakas na hangin",
+        "Naging bato"
+      ],
+      "answer": "Nawasak ng isang ulap ng apoy"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Maan syleily",
+  "intro": "Suurten koettelemusten aikana tunnettu henkilö sai osakseen suunnattoman maallisen yltäkylläisyyden, kiitollisuuden ja nöyryyden koetuksen. Tämän hahmon matka toimii syvällisenä oppituntina aineellisen omaisuuden katoavaisuudesta ja ylimielisyyden seurauksista. Paljasta tämän sielun henkilöllisyys, jonka tarina on kaiverrettu syvälle maan alle.",
+  "clues": [
+    "Elin kansan keskuudessa, jota johdatti suuri sanansaattaja.",
+    "Allah antoi minulle niin valtavia rikkauksia, että aarteeni avaimet olivat raskas taakka monille vahvoille yksilöille.",
+    "Kansani, tietäen vaurauteni, neuvoi minua etsimään tuonpuoleista sillä, mitä Allah oli minulle antanut, unohtamatta osuuttani maailmassa ja tekemällä hyvää, niin kuin Allah oli tehnyt minulle hyvää.",
+    "Julistin ylimielisesti, että valtava rikkauteni oli saavutettu yksinomaan oman tietoni ja ponnistelujeni ansiosta, kieltäen kaiken jumalallisen suosion.",
+    "Kun minulta pyydettiin osallistumaan tai tunnustamaan Allahin anteliaisuutta, kieltäydyin ylpeänä uskoen, että omaisuuteni oli yksinomaan minun.",
+    "Äärimmäisen ylimielisyyteni ja sorron seurauksena Allah käski maan avautua ja nielaista minut ja asuinpaikkani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Heitetään tuleen",
+        "Hukkuminen mereen",
+        "Karkotettuna puutarhasta",
+        "Muuttuminen apinaksi",
+        "Maan nielaisemana"
+      ],
+      "answer": "Maan nielaisemana"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kultainen vasikka",
+        "Mahtava arkki",
+        "Puhuva lintu",
+        "Ihmeellinen henkilökunta",
+        "Valtavia aarteita ja avaimia"
+      ],
+      "answer": "Valtavia aarteita ja avaimia"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Suureksi hallitsijaksi tuleminen",
+        "Jumalallisen ilmestyksen vastaanottaminen",
+        "Nousemassa taivaisiin",
+        "Pitkän hurskaan elämän eläminen",
+        "Täydellinen tuho ylimielisyyden vuoksi"
+      ],
+      "answer": "Täydellinen tuho ylimielisyyden vuoksi"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

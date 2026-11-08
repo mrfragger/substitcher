@@ -1,0 +1,61 @@
+{
+  "title": "Nepokolebljivi pozivatelj istine",
+  "intro": "Glasnik stoji sam među tvrdoglavim ljudima, pozivajući ih ka Jedinom Istinskom Bogu dok oni ostaju vezani za lažne idole. Ovaj prorok nosi ime koje odjekuje snažnim značenjem - 'onaj koji traži zaštitu' - ali dobija samo odbijanje i poricanje. Kroz blago uvjeravanje i čvrsto upozorenje, ova duša nosi božansku poruku koju će sam svemir na kraju opravdati. Možete li prepoznati ovu nepokolebljivu figuru koja predstavlja jednu od najstarijih narativa u islamskim spisima?",
+  "clues": [
+    "Moj narod je obožavao mnoga božanstva, dok sam ih ja pozivao da služe Onome koji je stvorio nebesa i zemlju.",
+    "Stao sam pred svoj narod i izjavio da neću tražiti nikakvu nagradu od njih - moja jedina želja je bilo njihovo vodstvo ka pravednosti.",
+    "Veliki vjetar je poslan na moj narod kao božanska kazna, vjetar o kojem Kur'an govori i u množini i u ženskom rodu.",
+    "Za razliku od nekih proroka, meni nisu data žena ili djeca koja se istaknuto spominju u mojoj pripovijesti, jer je moja misija bila da pozovem samo svoj narod.",
+    "Moje ime nosi duboko značenje – povezano s konceptom zaštite i utočišta koje osoba traži.",
+    "Moj narod je bio poznat po specifičnom geografskom nazivu za dolinu koju su naseljavali, a njihova zemlja je opisivana s posebnim prezirom zbog nedostatka vegetacije."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Hud",
+        "Poslanik Salih",
+        "Poslanik Šu'aib",
+        "Poslanik Nuh",
+        "Poslanik Hudejb"
+      ],
+      "answer": "Poslanik Hud"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Potop Zemlje",
+        "Žestoki vjetar",
+        "Zemljotres uništenja",
+        "Suša i glad",
+        "Utapanje u moru"
+      ],
+      "answer": "Žestoki vjetar"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Plodna dolina Jemena",
+        "Pješčana pustinja Midjan",
+        "Stjenovita dolina Semuda",
+        "Drevna zemlja naroda Ad",
+        "Obalna regija Egipta"
+      ],
+      "answer": "Drevna zemlja naroda Ad"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Moj narod se pokajao i ušao u raj",
+        "Niko od mog naroda nije preživio kaznu",
+        "Odveden sam živ kao i moj brat Yunus.",
+        "Preselio sam se sa svojim sljedbenicima u blagoslovljenu zemlju",
+        "Vjetar je uništio samo nevjernike, dok su vjernici preživjeli"
+      ],
+      "answer": "Niko od mog naroda nije preživio kaznu"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

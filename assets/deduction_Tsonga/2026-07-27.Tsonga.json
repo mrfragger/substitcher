@@ -1,0 +1,61 @@
+{
+  "title": "Nyiko Leyi Cinceke Vumundzuku",
+  "intro": "Emasikwini yo sungula ya vumunhu, moya-xiviri a wu nyikela nyiko hi swikongomelo leswi tengeke. Hambi swi ri tano, mavondzo a ma tumbele endzhutini wa ku amukeriwa. Kuma xitori xa xifaniso lexi lexi ku chava Xikwembu ni makumu ya xona lama khomisaka gome swi nga fiki eka nhlavutelo ya Xikwembu.",
+  "clues": [
+    "A ndzi ri exikarhi ka switukulwana swo sungula swinene swa vanhu.",
+    "Ndzi humese gandzelo eka Hosi ya mina, kutani yi amukeriwa hi tintswalo.",
+    "Gandzelo ra makwerhu ri ariwile, naswona mavondzo ma n’wi dyisile mbilu.",
+    "Ndzi n'wi byerile ndzi ku: ‘Loko wo tshambuluta voko ra wena eka mina leswaku u ndzi dlaya, a ndzi nge tshambuluti voko ra mina ku ku dlaya; hakunene ndzi chava Allah, Hosi ya misava.’",
+    "Ndzi ve muhlaseriwa wa xiendlo xo sungula xa ku dlaya emisaveni.",
+    "Ngati ya mina yi huwelerile, naswona a ndzi ri mudlawela-ripfumelo wo sungula wa ku pfumala nandzu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Habil (Abele) .",
+        "Kabil (Kayini) .",
+        "Wanuna loyi a humaka eYa-Sin",
+        "Vasamiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abele) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Gandzelo ra yena ri amukeriwile, leswi vangeke mavondzo ya makwavo ni ku dlayiwa ka yena",
+        "U lahleriwe ekheleni leri pfurhaka kambe u hume a nga vavisekanga",
+        "U ake xikepe lexikulu ehansi ka nkongomiso wa Xikwembu",
+        "U mitiwe hi nhlampfi leyikulu kutani a tshama emunyameni",
+        "U rhangele vanhu va yena elwandle leri avaneke"
+      ],
+      "answer": "Gandzelo ra yena ri amukeriwile, leswi vangeke mavondzo ya makwavo ni ku dlayiwa ka yena"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Gandzelo leri amukeriweke",
+        "Nhonga leyi hundzukaka nyoka",
+        "Kamela ya xisati tanihi xikombiso xa Xikwembu",
+        "Hoopoe leyi tisaka mahungu",
+        "Rhole ra nsuku a ri gandzeriwa"
+      ],
+      "answer": "Gandzelo leri amukeriweke"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku dlaya ko sungula ematin’wini; makwavo wa yena u gweviwile",
+        "Ku mitiwa hi misava swin’we ni rifuwo rakwe",
+        "Ku hundzuriwa tindlopfu hikwalaho ka ku tlula nawu",
+        "Ku lovisiwa hi moya wa matimba, lowu nga ni ayisi",
+        "Ku nwela eka ndhambi leyikulu tanihi nxupulo"
+      ],
+      "answer": "Ku dlaya ko sungula ematin’wini; makwavo wa yena u gweviwile"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

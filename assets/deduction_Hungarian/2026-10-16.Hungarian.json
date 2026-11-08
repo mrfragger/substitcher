@@ -1,0 +1,61 @@
+{
+  "title": "A közösség, amely dacolt a pihenőnappal",
+  "intro": "Lépj be egy tengerparti településre, ahol egy isteni parancs egyetlen napot szentelt az imádatnak és a korlátozásoknak. A közösség egy csoportja úgy döntött, hogy egy ravasz tervvel próbára teszi a parancs határait, ami egy olyan átalakuláshoz vezet, amely korokon át visszhangzik. Kik voltak ezek a lelkek, és mi lett velük?",
+  "clues": [
+    "A tengerpart közelében laktunk, ahol a tenger biztosította a megélhetésünket.",
+    "Azt a parancsot kaptuk, hogy a hét egy napját tartsuk meg tiszteletben, és tegyük félre a világi törekvésektől.",
+    "Azon a napon a halak nagy számban jöttek felénk, mintha csábítani akarnának minket a parancs megszegésére.",
+    "Kidolgoztunk egy tervet, hogy a szent nap előestéjén csapdába ejtjük a halakat, majd miután elmúlt, összegyűjtjük őket.",
+    "Amikor néhányan közülünk figyelmeztettek erre a megtévesztésre, mi figyelmen kívül hagytuk a tanácsukat, és kitartottunk.",
+    "Vétkünk miatt majmokká változtunk, megvetettek és elutasítottak minket."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A szombat népe",
+        "Az árok népe",
+        "Az erdő népe",
+        "A kert népe",
+        "Az elefánt népe"
+      ],
+      "answer": "A szombat népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Horgászat szombaton",
+        "Egy magas torony építése",
+        "Egy szent nőstény teve megölése",
+        "Megtagadják a hozzájuk küldött prófétát",
+        "A kereskedelmi súlyok túllépése"
+      ],
+      "answer": "Horgászat szombaton"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A tenger és halai",
+        "A lehűlt tűz",
+        "A kígyóvá változott bot",
+        "Az üdvösség ládája",
+        "A kőtáblák"
+      ],
+      "answer": "A tenger és halai"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Majmokká változtak",
+        "Elnyelte a föld",
+        "Egy heves szél pusztította el",
+        "Megfulladt a tengerben",
+        "Kőzápor csapta el"
+      ],
+      "answer": "Majmokká változtak"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

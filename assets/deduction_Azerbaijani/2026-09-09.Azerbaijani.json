@@ -1,0 +1,61 @@
+{
+  "title": "Ayağa Qalan İlk Ruh",
+  "intro": "Heç bir elçi yer üzündə gəzməzdən, heç bir müqəddəs kitab nazil olmazdan çox əvvəl, heç bir başqasına bənzəməyən bir varlıq yaranmışdı. Bu ruh ilahi əllər tərəfindən formalaşdırılmış, misilsiz gözəlliyə malik bir yer verilmiş və bütün insanlıq tarixində əks-səda verəcək şəkildə sınaqdan keçirilmişdir. Ardınca zəiflik, səmimi tövbə və yaradılışın gedişatını əbədi olaraq dəyişdirəcək bir tale hekayəsi gəldi. Bunun kim olduğunu təxmin edə bilərsinizmi?",
+  "clues": [
+    "Mən Mərhəmətli Allahın əlləri ilə torpağın tozundan formalaşdım.",
+    "Mənə misilsiz gözəllik evi verildi, orada heç bir aclıq və yorğunluq mənə toxuna bilməzdi.",
+    "Mənə heç vaxt bir ağaca da yaxınlaşmamaq əmr olunmuşdu, çünki bu qadağan idi.",
+    "Mən və yoldaşım aldandıq və Rəbbimizin əmrinə zidd olaraq qadağan olunmuş ağaca yaxınlaşdıq.",
+    "Biz səmimi bir tövbə ilə Rəbbimizə qayıtdıq və günahlarımız bağışlandı.",
+    "Bütün bəşəriyyət bizdən törəyib; Mən bu yer üzündə gəzən ilk insanam"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Adəm peyğəmbər",
+        "Musa peyğəmbər",
+        "Nuh peyğəmbər",
+        "Yusif peyğəmbər",
+        "İsa peyğəmbər"
+      ],
+      "answer": "Adəm peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qadağan olunmuş ağacın cazibəsi",
+        "Fironla qarşıdurma",
+        "Böyük Gəminin Tikintisi",
+        "Sevimli oğlun qurbanı",
+        "Böyük bir atəşə atılmaq"
+      ],
+      "answer": "Qadağan olunmuş ağacın cazibəsi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qadağan olunmuş Ağac",
+        "Yanan Kol",
+        "Qızıl Əsa",
+        "Böyük Gəmi",
+        "Qızıl buzov"
+      ],
+      "answer": "Qadağan olunmuş Ağac"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bəşəriyyətin ilk qəyyumu olaraq yer üzünə göndərildi",
+        "Firon və ordusu dənizdə boğuldu",
+        "Böyük daşqın pisləri məhv etdi",
+        "Atəş sərin və dinc oldu",
+        "Misir krallığı üzərində hakimiyyətə sahib oldu"
+      ],
+      "answer": "Bəşəriyyətin ilk qəyyumu olaraq yer üzünə göndərildi"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

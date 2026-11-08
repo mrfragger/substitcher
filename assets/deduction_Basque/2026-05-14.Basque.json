@@ -1,0 +1,61 @@
+{
+  "title": "Jakinduria Betiko Banatzailea",
+  "intro": "Bere ikuspegi sakon eta aholku zorrotzengatik ezaguna den figura gurtua, belaunaldiz belaunaldiko aholkuak eman zituen. Eskritura sakratuetan jasotako haien hitzek esker oneko, pazientziarako eta jokabide zuzenerako gidapena ematen diete gizabanakoei.",
+  "clues": [
+    "Jakinduriarekin bedeinkatu ninduten, ez profetizazioarekin.",
+    "Nire semeari bekaturik handiena aholkatu nion: Ala-rekin bikotekideak lotzea.",
+    "Ekintzen pisuari buruz irakatsi nuen, mostaza hazi baten balioari buruz ere, eta nola Alak aterako duen.",
+    "Ala-ri eta gurasoei esker ona azpimarratu nuen, haur bat hazteak dakartzan borrokak aitortuz.",
+    "Nire aholkuen artean zeuden otoitza ezartzea, ongia agintzea, gaizkia debekatzea eta norberarengana pazientziaz jasatea.",
+    "Koraneko kapitulu bati nire izena jarri diote, nire irakaspenak eta partekatu nituen lezioak dituena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sulaiman profeta",
+        "Dawud profeta",
+        "Yahya profeta",
+        "Luqman",
+        "Musa profeta"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Gai nagusia",
+      "options": [
+        "Kaaba eraikitzen",
+        "Itsasoa zatitzen.",
+        "Jakinduria transmititzea.",
+        "Uholde bati bizirautea",
+        "Arrain batek irentsi izana"
+      ],
+      "answer": "Jakinduria transmititzea."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Tur mendia.",
+        "Bere Semea",
+        "Urrezko Txahala"
+      ],
+      "answer": "Bere Semea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bere herria suntsitu zuten",
+        "Bere jakinduria gida bihurtu zen",
+        "Erreinua eman zioten.",
+        "Zeruetara igo zen.",
+        "Aberastasun izugarria eman zioten"
+      ],
+      "answer": "Bere jakinduria gida bihurtu zen"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

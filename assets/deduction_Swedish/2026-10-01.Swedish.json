@@ -1,0 +1,61 @@
+{
+  "title": "Talad till varelse",
+  "intro": "En gestalt framträder ur den heliga historien, bärande på mirakel som trotsade den naturliga ordningen. Denna själ anlände genom en enda gudomlig befallning, försvarade en förälder från allvarliga anklagelser och lämnade denna värld innan jordiska kedjor kunde binda dem. Berättelsen sträcker sig från en ödmjuk vagga till himlen ovan. Vem kan detta vara?",
+  "clues": [
+    "Jag sändes som ett tecken och en nåd från Allah till Israels barn.",
+    "Min ankomst var olik allt tidigare — jag blev till genom det gudomliga ordet 'Var!' utan en jordisk far.",
+    "Mina föräldrar möttes av grymt förtal, men helig uppenbarelse kom för att förklara deras oskuld och höja deras ställning.",
+    "Som nyfött spädbarn förvånade jag alla omkring mig genom att tala tydligt från vaggan för att rentvå mina föräldrars namn.",
+    "Med Allahs tillåtelse formade jag liv av livlös lera, gav syn åt blinda och botade spetälska med min beröring.",
+    "Jag höjdes upp till himlen innan olycka kunde drabba mig, och jag ska återvända till denna värld innan den sista timmen kommer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Isa",
+        "Profeten Musa",
+        "Profeten Ibrahim",
+        "Profeten Yusuf",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Isa"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att tala från vaggan som spädbarn",
+        "Att överleva i magen på en stor fisk",
+        "Att kastas in i en flammande eld",
+        "Att bygga en stor ark före en översvämning",
+        "Att möta faraos hovs trolldom"
+      ],
+      "answer": "Att tala från vaggan som spädbarn"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Injeel (evangeliet)",
+        "Toran (Tawrah)",
+        "Zabur (Psalmerna)",
+        "The Suhuf (Ibrahims rullar)",
+        "En stav som klöv havet"
+      ],
+      "answer": "Injeel (evangeliet)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Upphöjd till himlen, kommer att återvända före domens dag",
+        "Ledde Israels barn ut ur Egypten",
+        "Blev kung med herravälde över djinner, människor och fåglar",
+        "Överlevde en massiv översvämning med de troende",
+        "Byggde det heliga huset i Mecka"
+      ],
+      "answer": "Upphöjd till himlen, kommer att återvända före domens dag"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

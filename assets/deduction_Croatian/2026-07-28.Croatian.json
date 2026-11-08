@@ -1,0 +1,61 @@
+{
+  "title": "Test svetog stvorenja",
+  "intro": "Znak je poslan narodu koji je skrenuo s puta. Usred njihovih udobnih života stiglo je upozorenje - u pratnji izvanrednog stvorenja koje će postati konačni test njihove vjere. Njihov odgovor zauvijek će zapečatiti njihovu sudbinu. Možete li otkriti tko je prenio ovo upozorenje i što se dogodilo s onima koji su ga odbacili?",
+  "clues": [
+    "Bili smo narod koji su vodili prethodni poslanici prije nas.",
+    "Veličanstveno stvorenje izronilo je iz planine, znak od našeg Gospodina za ovaj narod.",
+    "Rekao sam im: 'Ovo je deva koja pripada Allahu, pa je ostavite da jede s Allahove zemlje i ne dirajte je ni na koji način.'",
+    "Ali ljudi su oštetili moju devu, prkoseći naredbi svoga Gospodara.",
+    "Ja sam samo poslanik od Gospodara tvoga, poslan s istinom - ja sam pouzdani prorok i rob.",
+    "Što se tiče nepravednika, naš Gospodar ih je udario grmljavinom, te su se ukočili u svojim domovima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Hud iz naroda A'ad",
+        "Poslanik Salih iz naroda Semuda",
+        "Prorok Šu'aib iz Midjana",
+        "Prorok Lut iz Sodome",
+        "Poslanik Nuh iz Kovčega"
+      ],
+      "answer": "Poslanik Salih iz naroda Semuda"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Potop koji je potopio nevjerujući narod",
+        "Potres koji je uništio grešni grad",
+        "Deva poslana kao božanski znak i iskušenje",
+        "Oluja koja je kaznila narod Midjana",
+        "Uništenje Lotovog naroda kamenjem"
+      ],
+      "answer": "Deva poslana kao božanski znak i iskušenje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Grad Sodoma u dolini Jordana",
+        "Dolina Al-Hidžr između Hidžaza i Sirije",
+        "Drevna zemlja A'ad u južnoj Arabiji",
+        "Midjanske šume blizu Crvenog mora",
+        "Ravnice planine Judi u Mezopotamiji"
+      ],
+      "answer": "Dolina Al-Hidžr između Hidžaza i Sirije"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Spašeni su nakon što su se pokajali i povjerovali",
+        "Kiša kamenja ih je potpuno uništila",
+        "Gromoglasan zvuk ih je pogodio nepomično",
+        "Odnio ih je siloviti vjetar",
+        "Potres ih je progutao u zemlju"
+      ],
+      "answer": "Gromoglasan zvuk ih je pogodio nepomično"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yon pwomès ki pale sou flanm dife",
+  "intro": "Ou kanpe bò yon dife nan dezè a pandan y ap gaye chabon li yo avèk anpil atansyon. Vizitè yo rive pou yon rankont nan silans lan, epi yon sèl mesaj ouvri yon istwa pwomès, sipriz, ak yon avni ki poko akonpli.",
+  "clues": [
+    "Nou travèse distans lan pou nou rive jwenn yon sèvitè fidèl nan dezè a.",
+    "Nou te mande pou yo gaye chabon pou prepare yon dife.",
+    "Nou te pale ak youn ki te rele yon flanm pou mande frechè ak sekirite.",
+    "Nou te pote nouvèl yon tibebe ki fèk fèt bay yon moun ki te deja pase laj pou fè pitit.",
+    "Nou te rele pitit pwomiz la Izarak.",
+    "Nou te pote bon nouvèl yon pitit gason bay Ibrahim, epi nouvèl etonan an te fè Ibrahim ri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Zanj ki te pote bon nouvèl Izarak bay Abraram yo",
+        "Zanj ki te avèti Lut yo",
+        "Zanj ki pote twòn yo",
+        "Zanj Lanfè yo",
+        "Zanj yo te voye bay Noe"
+      ],
+      "answer": "Zanj ki te pote bon nouvèl Izarak bay Abraram yo"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Pote bon nouvèl nesans Izarak bay Abraram",
+        "Avètisman Lout anvan pinisyon pèp li a",
+        "Anons nesans Yahya pou Zakariyya",
+        "Pote twòn nan jou jijman an",
+        "Anons nesans Isa bay Maryam"
+      ],
+      "answer": "Pote bon nouvèl nesans Izarak bay Abraram"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon dife prepare ak chabon ki gaye",
+        "Yon lach k ap flote sou dlo inondasyon an",
+        "Yon gwòt sele pa yon wòch k ap woule",
+        "Yon mòn ajil ki vin di ak sèl",
+        "Yon nechèl k ap monte nan syèl la"
+      ],
+      "answer": "Yon dife prepare ak chabon ki gaye"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Bon nouvèl sou yon pitit gason ki rele Izarak",
+        "Bon nouvèl sou yon pitit gason ki rele Yahya",
+        "Seleksyon Talut kòm chèf sou pitit Izrayèl yo",
+        "Yon avètisman anvan pinisyon pèp Lout la",
+        "Yon lòd pou konstwi yon lach anvan delij la"
+      ],
+      "answer": "Bon nouvèl sou yon pitit gason ki rele Izarak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

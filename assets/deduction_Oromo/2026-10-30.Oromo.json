@@ -1,0 +1,61 @@
+{
+  "title": "Dammaqiinsa Warra Gaddanii",
+  "intro": "Lubbuu gargar bahuu gadi fagootiin qoramte, iji ishee afaan imimmaan beektu ammas onneen ishee abdii dhabdee hin beekne qunnamuuf jirta. Seenaa gowwoomsaa, hawwii fi dhuma irratti walitti dhufu keessatti gabricha Rabbii kabajamaan kun yeroo hundaaf mallattoo obsaa ta’e. Eenyuutu waggoota dhukkubbii dhokataa dandamatee, arguu fi gammachuun yeroo tokkotti deebi’ee argate?",
+  "clues": [
+    "Ani raajii maqaan isaa kasaaraa guddaa duratti mallattoo obsaa ta'eedha.",
+    "Ilmaan hedduun eebbifame, tokko garuu inaaffaa namoota birootiin narraa fudhatame.",
+    "Jaalalli ani isa bade sanaaf qabu baay’ee gad fagoo waan tureef gadda irraa kan ka’e iji koo adii ta’e, ta’us garuu Rabbiin malee hin komanne.",
+    "Ilmaan koo abdii akka hin kutanne isaan dhaamsa jedhee isa dhabee fi obboleessa isaa akka barbaadaniif deebisee erge.",
+    "Namni oduu gammachiisaa yeroo dhufu, shamizii tokko fuula koo irratti darbatamee, akka tasaa addunyaan ammas ifa ta’e.",
+    "Ani Israa'el jedhamuun beekama, ilmaan koo kudha lama keessaa gosoonni kudha lama saba guddaa tokko dhufan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Yaa'quub (Yaaqoob) .",
+        "Nabi Yuusuf (Yooseef) .",
+        "Nabi Ishaaq (Isihaaq) .",
+        "Nabi Ibraahim (Abrahaam) .",
+        "Nabi Ayyuub (Iyoob) ."
+      ],
+      "answer": "Nabi Yaa'quub (Yaaqoob) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ilma jaallatamaa irraa waggoota dheeraaf adda bahuu",
+        "Ibidda boba'aa keessa darbatamuu",
+        "Qurxummii guddaa tokkoon liqimfame",
+        "Dhukkuba gogaa cimaan kan qabame",
+        "Hanga dullumaatti ilmoo malee ta'uu"
+      ],
+      "answer": "Ilma jaallatamaa irraa waggoota dheeraaf adda bahuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Qamisa Yuusuf",
+        "Hojjettoonni Muusaa",
+        "Taabotni Nuh",
+        "Gaala dubaraa Saalihi",
+        "Gingilchaan Sulaymaan"
+      ],
+      "answer": "Qamisa Yuusuf"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Mul'anni deebi'ee ilma isaa waliin deebi'ee walitti makame",
+        "Mootii abbaa irree tokko irratti injifannoo kenne",
+        "Lubbuun gara samiitti ol kaafame",
+        "Gibxii irratti bulchaa ta'ee muudame",
+        "Ilma dulluma keessatti akka dinqiitti kenname"
+      ],
+      "answer": "Mul'anni deebi'ee ilma isaa waliin deebi'ee walitti makame"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

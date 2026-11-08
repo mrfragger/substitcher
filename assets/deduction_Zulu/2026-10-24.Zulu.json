@@ -1,0 +1,61 @@
+{
+  "title": "Isixwayiso Ngaphansi Komhlaba",
+  "intro": "Cabanga umi eceleni kokumba okujulile njengoba amazwi ephakama evela phansi futhi umhlaba ongaphezulu uthula. I-Qur'an igcina lesi senzakalo njengesixwayiso: umphakathi uyakwenqaba lokho okulethwa yizithunywa, isijeziso siyavalwa, ngisho nokuduma kwawo kuba yingxenye yobufakazi. Yiliphi iqembu elikhuluma ngalawo mavesi?",
+  "clues": [
+    "Ku-Qur'an sikhunjulwa njengeqembu elichazwa yisiphetho esisodwa esihlanganyelwe kunokuba lichazwe igama lomuntu ngamunye.",
+    "Senqaba umyalezo owalethwa yizithunywa, yize lokho ezazikusho kwakuyiqiniso.",
+    "Ubunjalo bethu obukhunjulwayo buhlobene nokusikwa okujulile komhlaba, futhi leso sici saba yingxenye yegama lethu.",
+    "Ngosuku olubekiwe, sakhishwa sahudulelwa emlilweni.",
+    "Asikwazanga ukuzivikela esijezisweni, futhi asikwazanga ukuzwa ukubhonga kwaso.",
+    "Ubuso bethu babuzophendulwa emlilweni, bese sixoshwa kuwo; uma sibuzwa, besingathi siphakathi kwalabo abangakwazi ukuphendula."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abangane Bomsele",
+        "Isizwe Esikhululwe KuZamcolo Omkhulu",
+        "Abakhulekeli Bethole Legolide",
+        "Iqembu Likhoseliswe Ngaphakathi Komhume Wezintaba",
+        "Umphakathi Okhululwe Esithandweni Somlilo"
+      ],
+      "answer": "Abangane Bomsele"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wahudulwa futhi waphonswa eMlilweni",
+        "Ukhululwe esithandweni somlilo",
+        "Wathwalwa ngokuphepha esikhukhuleni esikhulu",
+        "Ifihliwe amakhulu eminyaka ngaphakathi emhumeni",
+        "Usindiswe ngemuva kokuphonswa emthonjeni"
+      ],
+      "answer": "Wahudulwa futhi waphonswa eMlilweni"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umsele noma umgodi",
+        "Ulwandle olukhulu",
+        "Umhume wezintaba",
+        "Isigodlo esiphakeme",
+        "Umthombo ogwadule"
+      ],
+      "answer": "Umsele noma umgodi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Abakwazi ukuzivikela futhi abakwazi ukuzwa ukubhonga koMlilo",
+        "Ukusindiswa nokwamukelwa ukungena ezingadini zaphakade",
+        "Ukhululwe ngokuphepha esikhukhuleni esibhubhisayo",
+        "Kuvikelwe ukulala isikhathi eside ngaphakathi emhumeni",
+        "Uhlonishwe ngombuso waphakade"
+      ],
+      "answer": "Abakwazi ukuzivikela futhi abakwazi ukuzwa ukubhonga koMlilo"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

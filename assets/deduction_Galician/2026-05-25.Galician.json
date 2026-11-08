@@ -1,0 +1,61 @@
+{
+  "title": "O sucesor designado",
+  "intro": "Unha figura de épocas pasadas está lista para entrar na historia. Cando o camiño parecía pouco claro e a dúbida se estendía entre a xente, este servo foi escollido para asumir o manto da guía. Co peso dunha misión sagrada sobre os seus ombreiros, deron un paso adiante para liderar onde outros dubidaban en seguir.",
+  "clues": [
+    "Fun escollido para acompañar a un profeta e aprendín da súa sabedoría",
+    "Estiven diante da Arca cando se achegaba a promesa do noso Sustentador, e vin que a xente comezaba a dubidar",
+    "Fixéronme estar ao bordo do que se prometera mentres o noso líder se lamentaba e suplicaba a Alá por nós",
+    "Fun nomeado para continuar unha misión que lle fora encomendada a outra persoa antes ca min",
+    "Concedéronme autoridade divina para guiar o pobo ao seu destino",
+    "Conseguín completar o que comezara antes de min e recibín a confirmación da xente da miña guía"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Yusha ibn Nun",
+        "Caleb, fillo de Iefuné",
+        "Eldad e Medad",
+        "Profeta Ezequiel (Hizqiyyal)",
+        "Profeta Harún (Aarón)"
+      ],
+      "answer": "Yusha ibn Nun"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Negándose a entrar na Terra Santa prometida",
+        "Os exércitos do faraón perseguíndonos polo mar",
+        "A adoración do becerro de ouro",
+        "Dúbida ao escoitar o mandato da Torá",
+        "A rebelión de Datán e Abiram"
+      ],
+      "answer": "Negándose a entrar na Terra Santa prometida"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O rolo da Torá entregado a Moisés",
+        "A Arca da Alianza na batalla",
+        "O cruce do río Xordán",
+        "O deserto de corenta anos",
+        "A revelación do Monte Sinaí"
+      ],
+      "answer": "O rolo da Torá entregado a Moisés"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Entrando na Terra Santa prometida",
+        "Construíndo un muro protector contra os invasores",
+        "Construíndo un lugar sagrado de culto",
+        "Afogando na procura daqueles que negaron a verdade",
+        "Rompendo os ídolos dun pobo corrupto"
+      ],
+      "answer": "Entrando na Terra Santa prometida"
+    }
+  },
+  "verseRef": "5:21",
+  "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+  "verse": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" (5:21)"
+}

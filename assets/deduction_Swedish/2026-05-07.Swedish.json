@@ -1,0 +1,61 @@
+{
+  "title": "Den som ringer från djupet",
+  "intro": "Föreställ dig en själ som anförtrotts ett gudomligt budskap, men som i ett ögonblick av hast lämnade sitt folk utan uttryckligt tillstånd. Denna resa ledde dem in i en extraordinär prövning, ett djupt prov på tålamod och tillit till den Högste. Vem är denna individ vars historia lär oss om ånger och omfattningen av Allahs barmhärtighet?",
+  "clues": [
+    "Jag sändes till ett stort folk, men deras första avslag orsakade mig ångest.",
+    "Jag lämnade mitt folk i tron ​​att mitt uppdrag var slutfört, innan jag fick en tydlig order att ge mig av.",
+    "Jag sökte plats på ett skepp, men en kraftig storm och lottning ledde till en svår situation.",
+    "Jag kastades i havet, och ett väldigt djup svalde mig hel.",
+    "Inuti dess mages mörker ropade jag till Allah, erkände mina felsteg och bad om Hans förlåtelse.",
+    "Allah befallde varelsen att kasta mig på stranden, och jag återställdes till hälsa under en unik växt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Yusuf (Josef)",
+        "Profeten Nuh (Noah)",
+        "Profeten Yunus (Jona)",
+        "Profeten Sulaiman (Salomo)",
+        "Profeten Ayyub (Job)"
+      ],
+      "answer": "Profeten Yunus (Jona)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Havets delning",
+        "Nimrods eld",
+        "Att bli uppslukad av en stor fisk",
+        "Översvämningen",
+        "Förstörelsen av en stad med stenar"
+      ],
+      "answer": "Att bli uppslukad av en stor fisk"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken",
+        "Personalen",
+        "Fiskens mage",
+        "Brunnen",
+        "Den brinnande busken"
+      ],
+      "answer": "Fiskens mage"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev en stor härskare",
+        "Byggde Kaba",
+        "Återvände för att vägleda en ångerfull nation",
+        "Fick herravälde över djinn",
+        "Ledde folket genom öknen"
+      ],
+      "answer": "Återvände för att vägleda en ångerfull nation"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

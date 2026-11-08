@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Voaroaka avy any An-danitra",
+  "intro": "Misy zavamananaina mistery mijoro eo amin'ny sampanan-dalana eo amin'ny famoronana sy ny fandavana. Ny tantaran'izy ireo dia tantara feno avonavona tsy manam-paharoa sy fanoherana faratampony ny didin'Andriamanitra. Ny safidin'izy ireo dia manakoako isaky ny taranaka, ka lasa fitsapana ho an'ny fanahy rehetra teraka eto amin'ity izao tontolo izao ity. Azonao fantarina ve ity fahavalo mandrakizay ity?",
+  "clues": [
+    "Nanatrika hetsika iray manan-danja teo amin'ny lafiny rehetra aho, rehefa nisy zavamananaina vaovao noforonina avy tamin'ny tanimanga ary nomena aina tamin'ny alalan'ny fofonain'ny Mpamindra fo.",
+    "Izaho dia teraka avy amin'ny singa mirehitra tokana, tsy tahaka ny vovoka.",
+    "Nisy baiko nomena ahy izay noheveriko ho teo ambanin'ny toerako.",
+    "Niavonavona tato anatiko ny avonavona, ary tsy nety nanaraka izany baiko izany mihitsy aho.",
+    "Nomena ahy ny fanemorana mandra-pahatongan'ny andro voatondro, mba hahafahako manohy ny tanjoko voalaza, dia ny hamitaka ny hafa.",
+    "Izaho no fahavalon'izay rehetra mandeha ety an-tany, mibitsibitsika fitaka ary mitaona azy ireo hiala amin'ny lalana mahitsy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Iblis (Satana)",
+        "Farao (Fir'awn)",
+        "Hamana",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satana)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Tsy nety niankohoka teo anatrehan'i Adama",
+        "Nihambo ho andriamanitra diso",
+        "Nanao ombilahy volamena ho an'ny fanompoam-pivavahana",
+        "Namono ny rahalahiny noho ny fialonana",
+        "Nitarika ny fanoherana ny andriamanitra maro tao Makkah"
+      ],
+      "answer": "Tsy nety niankohoka teo anatrehan'i Adama"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Paradisa (Jannah)",
+        "Lapan'i Farao any Ejipta",
+        "Ny lohasaha masin'i Tuwa",
+        "Ny halalin'ny ranomasina",
+        "Ny zaridainan'i Sheba"
+      ],
+      "answer": "Paradisa (Jannah)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nomena fitsaharana mandra-pahatongan'ny Andro Fitsarana",
+        "Nilentika niaraka tamin'ny tafika tao an-dranomasina",
+        "Voatelina amin'ny tany miaraka amin'ny harena",
+        "Niova ho rajako noho ny fandikana ny Sabata",
+        "May noho ny vato natsipy avy any an-danitra"
+      ],
+      "answer": "Nomena fitsaharana mandra-pahatongan'ny Andro Fitsarana"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

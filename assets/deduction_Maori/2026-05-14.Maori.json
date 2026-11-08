@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaiwhakaputa o te Mātauranga Mutunga Kore",
+  "intro": "He tangata whakaute, e mōhiotia ana mō ōna māramatanga hohonu me ōna tohutohu mohio, i mua i te wā i tuku tohutohu ai ia i tua atu i ngā whakatipuranga. Ko ā rātou kupu, kua tuhia ki roto i ngā karaipiture tapu, e ārahi ana i te tangata ki te whakawhetai, ki te manawanui, me te whanonga tika.",
+  "clues": [
+    "I manaakitia ahau ki te whakaaro nui, ehara i te poropititanga.",
+    "I tohutohu ahau i taku tamaiti mō te hara nui rawa atu: te whakahoa ki a Allah.",
+    "I whakaako ahau i te taumaha o ngā mahi, tae noa ki te taumaha o te purapura sinapi, me te pēhea e whakaputaina ai e Allah.",
+    "I whakanuia e au te whakawhetai ki a Allah me ngā mātua, me te whakaae ki ngā uauatanga o te whakatipu tamariki.",
+    "Ko tāku i tohutohu ai ko te whakatū i te inoi, te whakahau i te pai, te aukati i te kino, me te manawanui ki ngā mea e pā mai ana ki te tangata.",
+    "Kua tapaina tētahi upoko o te Quran ki tōku ingoa, kei roto nei aku whakaakoranga me ngā akoranga i tohaina e au."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Sulaimana",
+        "Poropiti a Rawiri",
+        "Poropiti a Yahya",
+        "Lukmana",
+        "Poropiti a Mohi"
+      ],
+      "answer": "Lukmana"
+    },
+    "trial": {
+      "label": "Kaupapa Matua",
+      "options": [
+        "Te Hanga i te Kaaba",
+        "Te wehewehe i te moana",
+        "Te whakawhiwhi i te whakaaro nui",
+        "Te ora i te waipuke",
+        "Te horomia e te ika"
+      ],
+      "answer": "Te whakawhiwhi i te whakaaro nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Maunga o Tur",
+        "Tōna Tama",
+        "Te Kuao Kau Koura"
+      ],
+      "answer": "Tōna Tama"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia tōna iwi",
+        "Ko tōna whakaaro nui i waiho hei kaiārahi",
+        "I whakawhiwhia ia ki tētahi rangatiratanga",
+        "I whakaarahia ia ki te rangi",
+        "I whakawhiwhia ia ki te taonga nui"
+      ],
+      "answer": "Ko tōna whakaaro nui i waiho hei kaiārahi"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

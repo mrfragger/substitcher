@@ -1,0 +1,61 @@
+{
+  "title": "Zëri nga periferitë",
+  "intro": "Ju qëndroni në një qytet ku kanë ardhur tre lajmëtarë me shenja të qarta, por njerëzit i tallin dhe i përmbahen zakoneve të tyre të vjetra. Nga pjesa më e largët e qytetit, një figurë vrapon drejt turmës, pa frymë dhe e vendosur, për të thënë të vërtetën përballë refuzimit. Kush është ky shpirt që rrezikoi gjithçka për një mesazh që nuk ishte i veti?",
+  "clues": [
+    "Unë jetoja në mesin e një populli që kishte pranuar të dërguar me shenja të qarta, por ata ia kthyen shpinën me arrogancë.",
+    "Erdha duke vrapuar nga pjesa më e largët e qytetit kur dëgjova thirrjen e lajmëtarëve.",
+    "Unë i thashë popullit tim: “O populli im, ndiqni të dërguarit! Ndiqni ata që nuk kërkojnë asnjë shpërblim prej jush, sepse ata janë në rrugën e drejtë!”",
+    "Unë nuk isha profet, por besoja te të dërguarit dhe i nxisja njerëzit e mi të bënin të njëjtën gjë.",
+    "Populli im tallte këshillat e mia dhe më akuzonte si ekstremist.",
+    "Kur më vranë, Allahu më tha të hyja në Xhennet dhe dëshiroja që populli im të dinte faljen dhe nderin që mora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Burri nga pjesa më e largët e qytetit (Ya-Sin)",
+        "Një nga tre lajmëtarët e dërguar në qytet",
+        "Një tregtar i shquar i qytetit",
+        "Një sundimtar i qytetit",
+        "Udhëheqësi i jobesimtarëve"
+      ],
+      "answer": "Burri nga pjesa më e largët e qytetit (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Duke u predikuar popullit të tij që të ndjekin të dërguarit",
+        "Ndërtimi i një anijeje për të shpëtuar besimtarët nga një përmbytje",
+        "Të hidhesh në zjarr për besim",
+        "Gëlltitja nga një balenë",
+        "Duke u dhënë një mbretëri dhe mençuri"
+      ],
+      "answer": "Duke u predikuar popullit të tij që të ndjekin të dërguarit"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Pjesa më e largët e qytetit",
+        "Arka",
+        "Pusi",
+        "Shkurre që digjet",
+        "Shpella"
+      ],
+      "answer": "Pjesa më e largët e qytetit"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Hyri në Xhennet dhe dëshiroi që populli i tij ta njihte faljen e tij",
+        "U mbytur me popullin e tij për refuzimin e mesazhit",
+        "Iu dha një mrekulli e devesë",
+        "U bë sundimtar pas gjyqit të tij",
+        "U shpëtua nga Allahu dhe qëndroi me popullin e Tij"
+      ],
+      "answer": "Hyri në Xhennet dhe dëshiroi që populli i tij ta njihte faljen e tij"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

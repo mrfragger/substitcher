@@ -1,0 +1,61 @@
+{
+  "title": "Ndị A chụpụrụ n'Eluigwe",
+  "intro": "Ihe omimi dị ndụ guzo n'ebe e kere eke na ịjụ ya. Akụkọ ha bụ nke mpako na-enweghị atụ na nnupụisi kachasị elu nke iwu Chineke. Nhọrọ ha na-ada ụda n'ọgbọ niile, na-aghọ ule maka mkpụrụ obi ọ bụla a mụrụ n'ụwa a. Ị nwere ike ịchọpụta onye iro a na-adịgide adịgide?",
+  "clues": [
+    "Anọ m n'ihe omume dị mkpa n'eluigwe, mgbe e ji ụrọ kpụọ ihe ọhụrụ ma nye ya ndụ site n'Ime Mmụọ nke Onye Ebere.",
+    "E si n'otu ihe na-enwu enwu kee mụ onwe m, n'adịghị ka ájá ahụ.",
+    "E nyere m iwu nke m chere n'okpuru ọdụ m.",
+    "Nganga juru m obi, ajụkwara m isi ike ime ihe ahụ e nyere m.",
+    "E nyere m oge igbu oge ruo ụbọchị a kara aka, ka m wee nwee ike ịchụso ebumnuche m kwupụtara nke iduhie ndị ọzọ.",
+    "Abụ m onye iro nke ndị niile na-agagharị n'ụwa, na-agwa aghụghọ okwu n'olu dị ala ma na-adọta ha pụọ ​​n'ụzọ ziri ezi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Iblis (Satan)",
+        "Fero (Fir'aw)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Jụrụ ịkpọ isiala n'ihu Adam",
+        "E kwuru na ọ bụ chi ụgha",
+        "Akpụụrụ nwa ehi ọlaedo maka ofufe",
+        "E gburu nwanne ya nwoke n'ihi anyaụfụ",
+        "Duru ndị mmegide nke ndị na-efe ofufe na Makkah"
+      ],
+      "answer": "Jụrụ ịkpọ isiala n'ihu Adam"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Paradaịs (Jannah)",
+        "Obí Fero dị n'Ijipt",
+        "Ndagwurugwu dị nsọ nke Tuwa",
+        "Ogbu mmiri nke oké osimiri",
+        "Ubi Sheba"
+      ],
+      "answer": "Paradaịs (Jannah)"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E nyere ha ezumike ruo ụbọchị ikpe",
+        "Mmiri gbawara ya na ndị agha n'oké osimiri",
+        "Ala loro ya na akụ̀ ya",
+        "Agbanweela ya ka ọ bụrụ enwe maka imebi iwu ụbọchị izu ike",
+        "Nkume ndị e si n'eluigwe tụpụ gbara ọkụ"
+      ],
+      "answer": "E nyere ha ezumike ruo ụbọchị ikpe"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

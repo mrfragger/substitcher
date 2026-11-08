@@ -1,0 +1,61 @@
+{
+  "title": "Ang Paghahabol sa Korte",
+  "intro": "Sa mga pasilyo ng kapangyarihan, isang pigura na may mataas na katayuan ang nahumaling sa isang alipin na ang kagandahan ay kakaiba. Ang pagkahumaling na ito ay humantong sa isang serye ng mga pangyayaring susubok sa katapatan, magbubunyag ng mga nakatagong katotohanan, at sa huli ay magpapatunay sa kawalang-kasalanan ng alipin.",
+  "clues": [
+    "Nanirahan ako sa lupain ng Nilo, sa isang palasyo na may malaking impluwensya.",
+    "Isang binata ang pumasok sa aking tahanan, at ang kanyang presensya ay gumulo sa aking mundo.",
+    "Sinubukan ko siyang akitin, ngunit humingi siya ng kanlungan sa kanyang Panginoon.",
+    "Pinunit ko ang damit niya mula sa likuran, ngunit ang ebidensya ay nagpapakita na ako ang naglilinlang.",
+    "Para patahimikin ang tsismis ng mga maharlikang babae, inimbitahan ko sila sa isang pagtitipon at nilagyan ng matutulis na bagay ang kanilang mga kamay.",
+    "Sa huli, hayagang inamin ko ang aking pagkakamali, kinilala ang katotohanan sa harap ng hari."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang Asawa ni Al-Aziz",
+        "Asiya (Asawa ng Paraon)",
+        "Bilqis (Reyna ng Sheba)",
+        "Maryam (Ina ni Isa)",
+        "Ang Ina ni Musa"
+      ],
+      "answer": "Ang Asawa ni Al-Aziz"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Tinangka niyang akitin si Propeta Yusuf",
+        "Tinangka niyang patayin si Propeta Musa",
+        "Inaangkin niyang isa siyang diyosa",
+        "Nagtayo siya ng tore upang hamunin si Allah",
+        "Pinangunahan niya ang isang hukbo laban sa Makkah"
+      ],
+      "answer": "Tinangka niyang akitin si Propeta Yusuf"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang kamiseta na napunit mula sa likod",
+        "Isang ginintuang guya",
+        "Isang tungkod na naging ahas",
+        "Isang babaeng kamelyo",
+        "Isang lampara"
+      ],
+      "answer": "Isang kamiseta na napunit mula sa likod"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Inamin at tinanggap niya ang katotohanan",
+        "Nalunod siya kasama ang kanyang hukbo",
+        "Siya'y naging haliging asin",
+        "Nilamon siya ng lupa",
+        "Nawasak siya ng malakas na hangin"
+      ],
+      "answer": "Inamin at tinanggap niya ang katotohanan"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

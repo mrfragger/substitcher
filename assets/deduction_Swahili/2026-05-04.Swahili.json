@@ -1,0 +1,61 @@
+{
+  "title": "Mbunifu wa Kiburi",
+  "intro": "Katika nchi ya kale iliyotawaliwa na nguvu dhalimu, mtu muhimu alikuwa na nafasi ya ushawishi. Nafsi hii ilikuwa muhimu katika mipango mikubwa ya mtawala, ikichangia katika utawala wao wa ukandamizaji na kupinga ujumbe wa Mungu. Urithi wao umeunganishwa na kutafuta nguvu za kidunia na kukataa ukweli.",
+  "clues": [
+    "Nilimtumikia mtawala hodari aliyewakandamiza watu kwa vizazi vingi.",
+    "Jina langu hutajwa mara kwa mara katika Kitabu Kitakatifu pamoja na kiongozi huyu mwenye nguvu.",
+    "Nilipewa jukumu la mradi mkubwa wa ujenzi, jengo refu lililokusudiwa kufika mbinguni.",
+    "Nilimshauri bwana wangu awaue wana wa Wana wa Israeli na kuwaacha binti zao wabaki hai.",
+    "Nilihusika katika njama na njama dhidi ya mjumbe mkuu wa Mwenyezi Mungu.",
+    "Mwisho wangu, pamoja na bwana wangu na jeshi lake, ulifika katika maji ya bahari kubwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nimrodi",
+        "Abraha",
+        "Goliathi",
+        "Iblis",
+        "Hamani"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujaribiwa kwa utajiri mkubwa",
+        "Kuongoza jeshi dhidi ya nyumba takatifu",
+        "Kujenga mnara ili kumfikia Mungu",
+        "Kutupwa motoni kwa ajili ya imani yao",
+        "Kutupwa kisimani na ndugu"
+      ],
+      "answer": "Kujenga mnara ili kumfikia Mungu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Mlima",
+        "Mnara",
+        "Nyangumi"
+      ],
+      "answer": "Mnara"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kupewa hekima kubwa",
+        "Kuwa nabii",
+        "Kumezwa na ardhi",
+        "Kupewa ufalme",
+        "Kuzama baharini"
+      ],
+      "answer": "Kuzama baharini"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Penyangkalan di Tengah Kelimpahan",
+  "intro": "Anda mendapati diri Anda berada di tengah-tengah masyarakat yang pasar-pasarnya ramai dengan perdagangan, namun timbangan mereka condong secara tidak jujur. Seorang utusan telah datang kepada mereka dengan peringatan yang jelas, tetapi mereka tertawa dan berpaling, yakin akan kemakmuran mereka. Langit mulai gelap, tetapi mereka melihatnya sebagai berkah hujan. Siapakah masyarakat ini?",
+  "clues": [
+    "Kita berkembang di negeri perdagangan dan kemakmuran, namun hati kita menjadi keras.",
+    "Seorang utusan datang kepada kami dengan membawa tanda-tanda dari Tuhan kami, tetapi kami mengolok-olok peringatannya.",
+    "Kami dikenal karena keahlian kami, tetapi kami memberikan takaran yang kurang dan menipu orang-orang.",
+    "Kami tinggal di antara pepohonan yang rimbun dan tumbuh-tumbuhan yang subur, tetapi kami menganggap anugerah yang kami miliki sebagai sesuatu yang biasa saja.",
+    "Ketika awan gelap mendekat, kami bersukacita, mengira itu akan membawa hujan ke tanah kami yang kering.",
+    "Sebaliknya, awan itu melepaskan hukuman yang membakar, dan kita diliputi siksaan hari kegelapan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Ashab al-Aykah (Para Sahabat Kayu)",
+        "Orang-orang Tsamud",
+        "Orang-orang 'Ad",
+        "Orang-orang Lut",
+        "Orang-orang Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Para Sahabat Kayu)"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Mereka menolak utusan mereka dan melakukan penipuan dalam perdagangan.",
+        "Mereka menyembah anak lembu emas dan disesatkan.",
+        "Mereka melakukan sodomi dan menyerang para pelancong.",
+        "Mereka membangun menara-menara tinggi dan menantang Tuhan.",
+        "Mereka menolak berbagi air dan melukai seekor unta betina."
+      ],
+      "answer": "Mereka menolak utusan mereka dan melakukan penipuan dalam perdagangan."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Hutan lebat atau semak belukar",
+        "Sebuah gunung yang diukir menjadi tempat tinggal",
+        "Kota di tepi laut",
+        "Lembah gurun dengan sumur-sumur",
+        "Kebun yang subur dengan banyak buah-buahan"
+      ],
+      "answer": "Hutan lebat atau semak belukar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Hancur oleh awan bayangan api",
+        "Tenggelam oleh banjir besar",
+        "Ditelan oleh gempa bumi",
+        "Terkena hembusan angin kencang",
+        "Berubah menjadi batu"
+      ],
+      "answer": "Hancur oleh awan bayangan api"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

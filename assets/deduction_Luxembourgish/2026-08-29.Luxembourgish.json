@@ -1,0 +1,61 @@
+{
+  "title": "D'Gedold, déi d'Trauer iwwerstanen huet",
+  "intro": "En Eeleren, deem seng Gedold legendär gouf, deem seng Visioun duerch Trauer verschwonnen ass, awer deem säi Glawen un de göttleche Plang ni geschwächt ass. Dës Persoun huet zwielef Jongen zu de Grondlage vu Stämme wuessen gesinn, de schmerzhafte Verloscht vun engem ganz beléifte Kand erlidden, a gouf zu engem zäitlosen Symbol vu schéiner Gedold am Gesiicht vun iwwerwältegender Trauer. Eng verehrt Séil, där hir Geschicht iwwer d'Säite vun der Offenbarung erzielt gëtt. Kënnt Dir dës Figur aus dem Koran identifizéieren?",
+  "clues": [
+    "Ech war e Prophet, deem seng Geschicht am Detail an enger wichteger Sura vum Koran erzielt gëtt.",
+    "Ech hat zwielef Jongen, déi d'Pappen vun de Stämme vun de Bani Israel goufen.",
+    "Ech hunn menge Jongen gesot, si sollen duerch verschidden Tore eran goen, fir datt se net als een eenzegt Vollek unerkannt ginn.",
+    "Meng Aen hunn sech wäiss gemaach vum stännege Gejäiz iwwer e beléift Kand, dat mir ewechgeholl gouf.",
+    "Ech hunn refuséiert ze verzweifelen, och wéi meng aner Jongen mech dozou gedrängt hunn a gesot hunn, ech géif mech nëmme bei Allah beschwéieren.",
+    "Ech sinn de Papp vum Prophet Yusuf, deem säin Numm op Arabesch 'den Ergänzer' bedeit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Yaqub (Jakob)",
+        "Prophet Yusuf",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Dawud"
+      ],
+      "answer": "De Prophet Yaqub (Jakob)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Verloscht vun engem beléiften Jong un engem Brunn",
+        "Déi grouss Iwwerschwemmung, déi e ganzt Vollek iwwerschléckt huet",
+        "D'Migratioun aus engem Feierverehrungsräich",
+        "D'Konfrontatioun mat engem mächtegen Tyrann vun Egypten",
+        "Den Exil am Bauch vun engem Wal"
+      ],
+      "answer": "Verloscht vun engem beléiften Jong un engem Brunn"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Hemd mat falschem Blutt bedeckt",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "Eng Ark, déi op engem Bierg gebaut gouf",
+        "E Kamel aus dem Fiels geschnëtzt",
+        "E gëllent Kalb"
+      ],
+      "answer": "E Hemd mat falschem Blutt bedeckt"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Siicht gouf erëm hiergestallt, wéi d'Hiem vun engem beléiften Jong iwwer d'Gesiicht geluecht gouf",
+        "Erléisung nodeems se an de Bauch vun engem grousse Fësch gehäit gouf",
+        "Den Titel Khalilullah vun Allah kréien",
+        "Iwwer d'Mier mat engem Vollek, dat aus der Knechtschaft befreit ass",
+        "E Reebou, deen als Zeeche vun Hoffnung no der Iwwerschwemmung erschéngt"
+      ],
+      "answer": "D'Siicht gouf erëm hiergestallt, wéi d'Hiem vun engem beléiften Jong iwwer d'Gesiicht geluecht gouf"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Proba da Chama Sagrada",
+  "intro": "Nunha terra antiga onde a devoción pola pedra tallada arraigara en todos os fogares, un individuo mantívose á marxe. Grazas a unha convicción inquebrantable e á protección divina, enfrontáronse ao que debería ser unha morte segura e saíron ilesos. Podes descubrir a identidade desta alma extraordinaria?",
+  "clues": [
+    "Crieime entre xente que se inclinaba ante ídolos que esculpiran coas súas propias mans, crendo que estes obxectos posuían poder divino.",
+    "Cando cuestionei as súas crenzas, ao principio desestimáronme, pero non puiden calar sobre a verdade que sabía.",
+    "O día en que foron recollidos, destruín os seus ídolos, deixando só o máis grande intacto.",
+    "Cando volveron e viron o que fixera, os seus líderes ordenaron que se construíse unha gran pira, coa intención de botarme ás lapas.",
+    "Lanzáronme ao lume abrasador, pero o Señor dos mundos ordenou que se arrefriase e fose seguro para min.",
+    "Saín das lapas completamente ileso, mentres que os que conspiraron contra min enfrontáronse á ruína total."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Nuh",
+        "Profeta Isa",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Ibrahim"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Ser lanzado a un lume abrasador",
+        "Ser tragado por unha gran balea",
+        "Sobrevivir a unha gran inundación",
+        "Ser lanzado a un pozo profundo",
+        "Enfrontándose aos magos dun rei"
+      ],
+      "answer": "Ser lanzado a un lume abrasador"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha enorme pira de madeira ardendo",
+        "Unha gran arca de madeira",
+        "Unha estatua de becerro de ouro",
+        "Unha cesta flotante nun río",
+        "Un trono magnífico"
+      ],
+      "answer": "Unha enorme pira de madeira ardendo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Alá fixo que o lume fose fresco e seguro",
+        "A arca aterrou a salvo nunha montaña",
+        "O ídolo de ouro derreteuse ante os seus ollos",
+        "Un tirano e o seu exército afogáronse no mar",
+        "Un cego recuperou a vista"
+      ],
+      "answer": "Alá fixo que o lume fose fresco e seguro"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

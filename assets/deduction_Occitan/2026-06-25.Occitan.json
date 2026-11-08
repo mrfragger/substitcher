@@ -1,0 +1,61 @@
+{
+  "title": "Los Escotaires de l'Invisible",
+  "intro": "Al delà del vel del mond visible, una assemblada amagada s'amassèt dins l'escur, atirada per un son que desfisava tot çò qu'avián conegut. Avián errat dempuèi d'edats sens guida vertadièra, fins qu'una votz trauquèt lo silenci de lor reialme invisible e bolegèt quicòm prigondament dedins. Aquesta nuèch, sètz convidats a passar las ombras e a descobrir l'identitat d'aquel grop misteriós, que son rescontre amb de paraulas divinas los menèt de retorn a lor pòble coma avertidors d'una vertat que se podiá pas conténer.",
+  "clues": [
+    "Sèm d'èssers ancians, existissent fòrça abans fòrça nacions que n'avètz legit, e mai se ne parla rarament dins los contes umans.",
+    "Nòstra natura es diferenta de la vòstra, teissuda d'elements de l'invisible, e avèm de poders que desfisan l'ordinari.",
+    "Pendent d'edats, vagavam sens guida vertadièra, fins qu'un bruch nos atenguèt que remenèt quicòm prigondament dedins.",
+    "Ausiguèrem una recitacion coma res qu'aviam jamai ausit, de mots que portavan un pes al delà de tot discors.",
+    "Nos pressionèrem en secret, en comandant als nòstres de se calar, e quand los vèrses se concludiguèron, podiam pas demorar quiets.",
+    "Tornèrem a nòstre pòble e declarèrem: 'O nòstre pòble, avèm ausit un Libre revelat après Moïses, confirmant çò qu'èra abans el, guidant cap a la vertat.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Los Hawariyyun (Discipols d'Isa)",
+        "Los Jinn que creguèron après aver ausit l'Alcoran",
+        "Los Companhs de la Cava",
+        "Los angels del pus bas cel",
+        "Lo pòble deu faraon que seguiva lo son camin"
+      ],
+      "answer": "Los Jinn que creguèron après aver ausit l'Alcoran"
+    },
+    "trial": {
+      "label": "Ensag / Eveniment",
+      "options": [
+        "Foguèrem fòrabandits per aver refusat de nos clinar davant un èsser recentament creat",
+        "Foguèrem tancats dins una cauna pendent tres cents nòu ans",
+        "Foguèt comandat de traversar una mar que se fendèt davant nosautres",
+        "Foguèrem mandats dins una tèrra de magia per aprene la bruèissa",
+        "Escotèrem una recitacion en secret e foguèrem transformats per ela"
+      ],
+      "answer": "Escotèrem una recitacion en secret e foguèrem transformats per ela"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un vedèl d'aur fabricat a partir dels ornaments d'un pòble",
+        "Una cauna que lo sòm durèt de generacions",
+        "Dos angels en Babilònia qu'ensenhèron la coneissença enebida",
+        "Un libre revelat après Moïses, confirmant la Torah",
+        "Un arbust ardent al dessús d'un mont sant"
+      ],
+      "answer": "Un libre revelat après Moïses, confirmant la Torah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Foguèrem maudit fins al jorn del jutjament",
+        "Nos levèrem contra un governant poderós e bastiguèrem una barrèra dins la tèrra",
+        "Foguèrem transformats en simis e pòrcs",
+        "Tornèrem a nòstre pòble coma avertidors, proclamant la cresença",
+        "Foguèrem afogats dins la mar al costat de nòstre menaire"
+      ],
+      "answer": "Tornèrem a nòstre pòble coma avertidors, proclamant la cresença"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

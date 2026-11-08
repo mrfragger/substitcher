@@ -1,0 +1,61 @@
+{
+  "title": "La Ciutat Perduda de Majestat Incomparabla",
+  "intro": "Una civilizacion poderosa dominava un còp de vastas traças de tèrra, celebradas per d'estructuras imponentas qu'allongavan cap al cèl. Pasmens jos aquela grandesa, un negacion testard creissiá — un refús d'escotar l'avertiment divin mandat de l'interior de la quita comunautat. L'orgulh e l'arrogància provocarián lèu un castig que ni la tèrra ni los cèls n'avián jamai vist.",
+  "clues": [
+    "Governèrem un còp sus de vastas traças de tèrra, vantant d'una fòrça que cresiam que cap d'autra civilizacion poiriá pas parièr.",
+    "Nòstre reialme èra famós per d'estructuras imponentas amb de pilars poderoses que se trobavan incomparables dins totas las tèrras conegudas.",
+    "Un avertidor de nòstra pròpria comunautat se levèt, en incitant cadun de nosautres a se sometre a l'Unic Creator sol.",
+    "Neguèrem lo messatge que nos foguèt liurat e refusèrem d'abandonar lo camin qu'aviam eretat.",
+    "Un vent furiós e udolant de severitat aclaparanta nos desliguèt, nos daissant completament indefenses.",
+    "Foguèrem daissats coma de troncs cavats de palmièrs, escampilhats e oblidats, coma una leiçon per cada generacion après."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Gent d'A'ad",
+        "Gent de Nuh",
+        "Gent de Lut",
+        "Gent de Madyan",
+        "Gent de Tubba'."
+      ],
+      "answer": "Gent d'A'ad"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Un vent furiós implacable de punicion severa",
+        "Una inondacion que cobriguèt cada puèg de montanha",
+        "Una pluèja de pèiras d'argila ardentas d'en naut",
+        "Un sol crit espaventós dels cèls",
+        "Un tèrratrem violent que fendèt la tèrra"
+      ],
+      "answer": "Un vent furiós implacable de punicion severa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Iram, la vila dels pilars elevats",
+        "Una arca massissa de fusta bastida sus una montanha",
+        "Una camèla que sortiguèt miraculosament de la pèira",
+        "Lo mont Sinai ont davalèron los comandaments divins",
+        "Un palais de cristal e de veire fin susplombant las aigas correntas"
+      ],
+      "answer": "Iram, la vila dels pilars elevats"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Daissats coma de troncs cavats de palmièrs, escampilhats e sens vida",
+        "Afogat jos d'ondas aclaparairas d'una granda inondacion",
+        "Transformats en creaturas semblant a de simis e de pòrcs",
+        "Esclafat jos una pluèja de pèiras d'argila durcidas",
+        "Consumit en un sol crit ensordant que traucava l'alma"
+      ],
+      "answer": "Daissats coma de troncs cavats de palmièrs, escampilhats e sens vida"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

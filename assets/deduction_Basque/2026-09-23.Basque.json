@@ -1,0 +1,61 @@
+{
+  "title": "Aroak gainditu zituen deia",
+  "intro": "Imajinatu zibilizazio oso baten aurka bakarrik dagoen arima bat, irmotasunez okerrera eramateko erabakia hartuta. Mendeetan zehar, mezua baztertu, iseka egin eta baztertu egin zen, baina ahalegina ez zen inoiz eten. Azkenean, kontuak emateko erabaki handia iritsi zen, eta gutxi batzuk baino ez ziren salbazioan sartu arima sendo honekin batera. Identifika al dezakezu figura hau Koranetik?",
+  "clues": [
+    "Bere bideetan galdutako herri bati ohartarazteko bidali ninduten.",
+    "Barkamena eskatzera eta beren gaiztakerietatik atzera egitera gonbidatu nituen, baina atzera egin zuten.",
+    "Jainkozko agindupean, ontzi erraldoi bat eraiki nuen, nire jendeak begira eta iseka egiten zidan bitartean.",
+    "Etengabe dei egin nion nire Jaunari — azkenean erantzun zidan, eta ura isuri zen zerutik uholdeetan.",
+    "Uholdeak lurraren gainetik igo zirenean, ontzira igo nintzen sinetsi zutenekin.",
+    "Atzean geratu zen bati oihu egin nion, mendi batean babesa har zezan eskatuz, baina dekretua jada onartua zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Nuh profeta",
+        "Ibrahim profeta",
+        "Musa profeta",
+        "Hud profeta",
+        "Salih profeta"
+      ],
+      "answer": "Nuh profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Arka handi bat eraikitzea eta mundu osoko uholde batetik bizirik ateratzea",
+        "Su bizian sartuta egotea",
+        "Tirano bati eta bere mago boteretsuei aurre egitea",
+        "Arrain handi batek irentsi izana",
+        "Gamelu eme sakratu baten hilketaren lekuko izatea"
+      ],
+      "answer": "Arka handi bat eraikitzea eta mundu osoko uholde batetik bizirik ateratzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Egurrezko kutxa erraldoi bat uholde bortitzen gainean",
+        "Antzinako harrizko hondakinak dituen haran sakratua",
+        "Mendeetan zehar lagunek lo egin zuten kobazulo sakon bat",
+        "Balea erraldoi baten sabela ozeanoaren sakonean",
+        "Harrizko mendi garai bat basamortuan"
+      ],
+      "answer": "Egurrezko kutxa erraldoi bat uholde bortitzen gainean"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ontzian zeuden sinestunekin batera salbatuta",
+        "Jainkozko aginduari esker sutetik onik erreskatatu zuten",
+        "Erresuma boteretsu batetik exodo handi bat gidatu zuen",
+        "Arrainetik kostalde antzu batera botata",
+        "Seinale miragarri baten bidez jendea gaiztakeriatik aldentzen zuen"
+      ],
+      "answer": "Ontzian zeuden sinestunekin batera salbatuta"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

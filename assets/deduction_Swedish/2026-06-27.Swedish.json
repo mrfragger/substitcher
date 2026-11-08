@@ -1,0 +1,61 @@
+{
+  "title": "Den heliga frånvaron",
+  "intro": "Bortom tidens sanddyner döljer sig en berättelse om orubblig hängivenhet och en tillit så tung att själen som bar den kunde ha brutits. I ett ögonblick då folket vände sig till dårskap och guld, stod en gestalt fast – kallade dem tillbaka, vädjade om tålamod och bar tyngden av ett heligt löfte. Detta är berättelsen om en som valdes till hjälpare, vesir och trons väktare under en helig frånvaro. Kan du avslöja identiteten på denna ståndaktiga själ?",
+  "clues": [
+    "Jag delar blodet från en stor profet som valdes att tala direkt med Allah på ett heligt berg.",
+    "Min syskon vädjade en gång till Allah om hjälp med att tala tydligt till en stor förtryckare.",
+    "Jag blev utvald av Allah att stå bredvid min syskon som hjälpare och vesir.",
+    "Tillsammans stod vi inför en tyrannisk härskare som krävde att bli kallad den högste av gudar.",
+    "Medan min syskon talade med Allah på berget, tillverkade vårt folk åt sig en avgud av sitt guld.",
+    "Jag är Moses bror, utsedd av Allah till hans vesir, nämnd vid namn i Koranen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Harun (Aron)",
+        "Profeten Musa",
+        "Profeten Dawud",
+        "Profeten Yaqub",
+        "Profeten Ishaq"
+      ],
+      "answer": "Profeten Harun (Aron)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Kalvdyrkanskrisen",
+        "Den stora översvämningen i Nuh",
+        "Slaget vid Badr",
+        "Thamuds förstörelse",
+        "Sodoms förstörelse"
+      ],
+      "answer": "Kalvdyrkanskrisen"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Guldkalven",
+        "Noaks ark",
+        "Den brinnande busken",
+        "Hira-grottan",
+        "Shebas tron"
+      ],
+      "answer": "Guldkalven"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Oskuld bekräftad av Allah",
+        "Faraos drunkning",
+        "Byggandet av Kaba",
+        "Säker överfart över havet",
+        "Uppstigning till himlen"
+      ],
+      "answer": "Oskuld bekräftad av Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

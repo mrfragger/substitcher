@@ -1,0 +1,61 @@
+{
+  "title": "L-Għajta Mill-Fond",
+  "intro": "Qaddej tal-Aktar Ħanin għejja minn nazzjon rasu iebsa u telaq qabel ma ngħata l-permess. Dan l-individwu spiċċa f'post fejn qatt ma kien hemm bniedem, fejn is-sejħa lid-Divin tidwi b'mod stramb minn saffi ta' dlam. Hekk kif ħarġet imdgħajfa iżda trasformata, din ir-ruħ saret lezzjoni bla żmien fil-paċenzja, l-indiema sinċiera, u l-ħniena bla limitu tal-Ħallieq. Tista' tikxef il-misteru?",
+  "clues": [
+    "Jiena ntbgħatt bħala messaġġier lill-poplu tiegħi, iżda huma qabżu l-limiti kollha fin-nuqqas ta’ twemmin tagħhom u rrifjutaw li jisimgħu.",
+    "Irrabjajt għar-rifjut tagħhom u ħrabt minn niesi qabel ma wasal il-kmand ta’ Alla.",
+    "Tlajt abbord vapur mgħobbi aktar milli kien jesa’, u ttellajna x-xorti biex niddeterminaw min se jintefa’ l-baħar.",
+    "Intfajt fil-baħar qawwi u belgħetni ħuta kbira.",
+    "Maqbud fi tliet saffi ta’ dlam — iż-żaqq, il-baħar fond, u l-art ta’ taħt — għajjatt lill-Mulej tiegħi b’indiema sinċiera.",
+    "Ħriġt mill-ħuta fuq ix-xatt miftuħ, dgħajjef u għajjien, u pjanta tal-qargħa ħamra kibret fuqi. In-nies tiegħi, mitt elf jew aktar, fl-aħħar emmnu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Yunus",
+        "Il-Profeta Ayyub",
+        "Profeta Yusuf",
+        "Il-Profeta Musa",
+        "il-Profeta Sulaiman"
+      ],
+      "answer": "Il-Profeta Yunus"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Mibela’ minn ħuta kbira",
+        "Mitfugħ f'nar qawwi",
+        "Maqbud fil-qiegħ ta’ bir",
+        "Megħlub minn għargħar kbir",
+        "Mitfugħ il-ħabs inġustament minn sultan"
+      ],
+      "answer": "Mibela’ minn ħuta kbira"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Iż-żaqq ta’ ħuta kbira",
+        "Il-wied sagru ħdejn il-Kaaba",
+        "Arka mistrieħa fuq muntanja",
+        "Bastun li nbidel f’serp",
+        "Tron ta’ grandjożità bla paragun"
+      ],
+      "answer": "Iż-żaqq ta’ ħuta kbira"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "In-nies tiegħu, mitt elf jew aktar, emmnu",
+        "Imtella’ ħaj fis-smewwiet",
+        "Sar ħakkiem ta’ saltna bla rivali",
+        "Meqrud minn għajta qawwija mis-sema",
+        "Maqlugħ minn terremot devastanti"
+      ],
+      "answer": "In-nies tiegħu, mitt elf jew aktar, emmnu"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

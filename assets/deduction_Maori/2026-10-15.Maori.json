@@ -1,0 +1,61 @@
+{
+  "title": "Te Tika i waenganui i ngā Kaihokohoko",
+  "intro": "I tū tetahi āhua i mua i te iwi kua riro i te mānumanu o te moni, e karanga ana i a rātou ki te pono me te tika i roto i ā rātou mahi. I whakatūpato tēnei pononga a Allah kia kaua e whakaiti i te mehua me te whakarerekē i te pauna. I whakakahore te iwi ki te whakarongo, me te whakawehi ki te pei i tēnei tangata i tō rātou whenua. Ka ara ake te whenua ki te whakawa ki a rātou. Ko wai tēnei āhua i tū mō te tika i roto i ngā kaihokohoko?",
+  "clues": [
+    "I tonoa ahau hei karere ki tētahi iwi e rumakina nui ana ki te mahi hokohoko me te hokohoko.",
+    "I poto te mehua a tōku iwi i a rātou e paunatia ana he taonga mā ētahi atu.",
+    "I whakawehi rātou kia peia ahau i te whenua mēnā ka tohe tonu ahau ki te karanga i a rātou ki te whakapono.",
+    "E maumaharatia ana ahau hei te tangata kōrero tino matatau i roto i ngā poropiti.",
+    "I pāngia tōku iwi e te rū whenua nui, ā, i mate ai rātou i roto i ō rātou kāinga.",
+    "I tonoa ahau ki te iwi o Madyan i te raki o Hijaz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Shu'ayb",
+        "Poropiti a Ihaka",
+        "Poropiti Ihimaera",
+        "Poropiti Hakaraia",
+        "Poropiti a Yahya"
+      ],
+      "answer": "Poropiti Shu'ayb"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakatumahia kia peia atu i te whenua",
+        "Makaia ki roto i te ahi mura e taku iwi",
+        "I tū atu ki ngā tohunga makutu o tētahi Parao nui",
+        "I anga atu ki te tono kia hangaia he kamera uha mai i te toka",
+        "I kite ahau i te whakangaromanga o tōku tāone e te ope anahera"
+      ],
+      "answer": "I whakatumahia kia peia atu i te whenua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te whenua o Madyan",
+        "Te whenua o Īhipa",
+        "Maunga Hinai",
+        "Te tāone o Horoma",
+        "Te whenua o Kanaana"
+      ],
+      "answer": "Te whenua o Madyan"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I pāngia tōku iwi e te rū nui",
+        "I toremi tōku iwi i te waipuke nui",
+        "I hurihia taku iwi hei makimaki",
+        "I marara noa atu taku iwi i te hau nui",
+        "I whakaorangia ahau i roto i te puku o te ika nui"
+      ],
+      "answer": "I pāngia tōku iwi e te rū nui"
+    }
+  },
+  "verseRef": "11:87",
+  "arabic": "قَالُوا۟ يَـٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَـٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+  "verse": "They said, \"O Shuʿayb, does your prayer [i.e., religion] command you that we should leave what our fathers worship or not do with our wealth what we please? Indeed, you are the forbearing, the discerning!\" (11:87)"
+}

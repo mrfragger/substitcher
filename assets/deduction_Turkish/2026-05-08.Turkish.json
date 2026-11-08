@@ -1,0 +1,61 @@
+{
+  "title": "Hakikatin Kararlı Arayıcısı",
+  "intro": "Cehaletin ve sahte tanrıların tapınmasının hüküm sürdüğü bir dönemde, derin bir inanç yolculuğu yaşandı. Bu kişi, sarsılmaz bir inançla Tek Gerçek Yaratıcıyı arayarak toplumunun normlarına meydan okudu. Milyonlara ilham vermeye devam eden bir mirasın sahibi olan bir ruhun kimliğini keşfetmeye hazırlanın.",
+  "clues": [
+    "Göksel cisimleri sorguladım, her şeyi yaratan ve sürdüren gerçek Rab'bi aradım.",
+    "Bana vatanımı terk etmem ve Allah'ın mübarek kıldığı bir diyara yolculuk etmem emredildi.",
+    "Halkımın putlarına meydan okudum, onları kırarak anlamsızlıklarıyla doğrudan yüzleştim.",
+    "Halkım beni şiddetli bir ateşin içine attı, fakat Allah'ın emriyle orası benim için serin ve huzurlu oldu.",
+    "Sevgili ilk doğan oğlumu kurban etme emriyle sınandım; bu, nihai teslimiyetin bir sınavıydı.",
+    "Oğlumla birlikte, yeryüzündeki ilk ibadethanenin, tüm insanlık için bir sığınak olan yapının temellerini attık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Nuh",
+        "Peygamber Yusuf",
+        "Peygamber Salih",
+        "Peygamber İbrahim",
+        "Peygamber İsa"
+      ],
+      "answer": "Peygamber İbrahim"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "büyük tufan",
+        "Denizin yarılması",
+        "Thamud'un yıkımı",
+        "Bir oğulu kurban etme emri",
+        "Nuh'un Gemisi ile çölde yapılan yolculuk"
+      ],
+      "answer": "Bir oğulu kurban etme emri"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Personel",
+        "Tur Dağı",
+        "Nuh'un Gemisi",
+        "Kabe",
+        "Altın Buzağı"
+      ],
+      "answer": "Kabe"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Mısır'ın hükümdarı oldu.",
+        "Halkı boğuldu",
+        "Ona bilgelik ve dürüst bir soy bahşedildi.",
+        "Bir balina tarafından yutuldu.",
+        "Şehri yerle bir edildi."
+      ],
+      "answer": "Ona bilgelik ve dürüst bir soy bahşedildi."
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

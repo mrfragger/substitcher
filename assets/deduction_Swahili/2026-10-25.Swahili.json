@@ -1,0 +1,61 @@
+{
+  "title": "Malalamiko Yaliyosikilizwa Juu ya Kelele",
+  "intro": "Unasikia sauti ikiinuka kutoka katika jamii ambapo ukandamizaji umekuwa wa kawaida. Hakuna onyesho la nguvu linalojibu malalamiko; badala yake, rufaa ya moja kwa moja inamfikia Mwenyezi Mungu, na jibu linagusa kiini cha ibada yenyewe. Ni nani aliyetoa malalamiko hayo, ni swali gani lililofuata, na ni ukweli gani uliothibitishwa?",
+  "clues": [
+    "Nilisumbuliwa na ukandamizaji wa watu walionizunguka.",
+    "Nilitoa malalamiko hayo moja kwa moja kwa Mwenyezi Mungu katika malalamiko yangu binafsi.",
+    "Mwenyezi Mungu alisikia malalamiko na akajibu kwa changamoto kuhusu imani yangu mwenyewe.",
+    "Jibu liliuliza ni vipi ningeweza kushindwa kumwamini Mwenyezi Mungu, ambaye ni Mmoja na Mkuu.",
+    "Kisha nikauliza kwa nini Mwenyezi Mungu awapendelee watu wasioamini?",
+    "Mimi ni Uzair, niliyetajwa katika Surah Az-Zukhruf kama mtu ambaye Mwenyezi Mungu alisikia malalamiko yake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Uzair",
+        "Mwenzake aliyesafiri kwa meli kwenye gharika kuu",
+        "Mtumishi aliyetembea juu ya maji",
+        "Mlalaji alijilinda ndani ya pango",
+        "Mtumishi aliyeleta mawe mtoni"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kulalamika kwa Mwenyezi Mungu kuhusu ukandamizaji wa watu",
+        "Kutembea juu ya maji wakati wa dhoruba",
+        "Kubeba mawe hadi mtoni ambao haukuwa na maji",
+        "Kusafiri kwa meli kupitia mafuriko makubwa ndani ya Safina",
+        "Kupokea ufunguo wa hazina kubwa"
+      ],
+      "answer": "Kulalamika kwa Mwenyezi Mungu kuhusu ukandamizaji wa watu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Malalamiko ya moja kwa moja yaliyoelekezwa kwa Mwenyezi Mungu",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Tanuru iliyotengenezwa kwa ubaridi na utulivu",
+        "Safina ikielea juu ya maji ya gharika",
+        "Samaki akimeza mtumishi"
+      ],
+      "answer": "Malalamiko ya moja kwa moja yaliyoelekezwa kwa Mwenyezi Mungu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mwenyezi Mungu alisikia malalamiko na akathibitisha Umoja wa Mungu na Utawala Mkuu",
+        "Kutembea salama juu ya maji wakati wa dhoruba",
+        "Kuvuka mafuriko makubwa salama ndani ya Safina",
+        "Kurejesha mtazamo ndani ya jumba la kiburi",
+        "Kupokea utawala unaoenea kutoka Mashariki hadi Magharibi"
+      ],
+      "answer": "Mwenyezi Mungu alisikia malalamiko na akathibitisha Umoja wa Mungu na Utawala Mkuu"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

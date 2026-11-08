@@ -1,0 +1,61 @@
+{
+  "title": "Hlas neviditelného",
+  "intro": "V análech božské komunikace vyniká postava, jejíž příběh je protkán zázračnými znameními a neochvějnou vírou. Tato osobnost obdržela jedinečné zjevení, které zpochybňovalo normy své doby, promlouvalo zpoza závoje běžného vnímání. Jejich poselství nepřišlo konvenčními prostředky, ale skrze hluboké spojení, které se vzpíralo lidskému chápání a volalo lidi k rozpoznání pravdy nečekanými způsoby. Cesta tohoto Alláhova služebníka slouží jako důkaz toho, jak se vedení může projevovat i v těch nejmimořádnějších okolnostech, a vybízí k zamyšlení nad samotnou povahou zjevení.",
+  "clues": [
+    "Dostal jsem zprávu, která přišla skrze tajemný hlas z neviditelného zdroje.",
+    "Moji lidé zpočátku mé poselství odmítli a požadovali konvenčnější důkaz mé pravdomluvnosti.",
+    "Vyzval jsem je, aby předložili něco podobného tomu, co jsem dostal, ale nedokázali to.",
+    "Zjevení, které jsem přinesl, bylo popsáno jako jasné verše, které zjevně ukázaly pravdu.",
+    "Varoval jsem svůj lid před přísným trestem, pokud budou pokračovat ve své nevíře a aroganci.",
+    "Můj příběh je zmíněn spolu s dalšími posly v súře, která zdůrazňuje znamení Alláhovy moci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Sálih",
+        "Prorok Šu'ajb",
+        "Věřící z faraónovy rodiny",
+        "Prorok Músa"
+      ],
+      "answer": "Prorok Sálih"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být vhozen do ohnivé pece",
+        "Tváří v tvář útlaku tyranského vládce",
+        "Zrození velbloudice jako zázračné znamení",
+        "Přežití velké povodně",
+        "Být vhozen do moře v truhle"
+      ],
+      "answer": "Zrození velbloudice jako zázračné znamení"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Údolí Tuwy",
+        "Město Madyan",
+        "Země Thámudu",
+        "Faraónův dvůr",
+        "Jeskyně Hira"
+      ],
+      "answer": "Země Thámudu"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "answer": "Můj lid byl zničen za zabití zázračné velbloudice",
+      "options": [
+        "Můj lid činil pokání a byl spasen",
+        "Byl jsem vzat do nebe živý",
+        "Můj lid byl zničen za zabití zázračné velbloudice",
+        "Stal jsem se velkým vládcem",
+        "Byl jsem zachráněn vhozením do archy"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

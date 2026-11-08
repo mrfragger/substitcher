@@ -1,0 +1,61 @@
+{
+  "title": "Vocatio quae aetates perduravit",
+  "intro": "Finge animam quae sola contra totam civilizationem stetit, decrevit eam ab errore reducere cum constanti constantia. Per saecula, nuntius reiectus, ludibrio habitus, et abiectus est—tamen conatus numquam desiit. Tandem, magna ratiocinia venit, et pauci tantum salutem una cum hac anima constanti conscenderunt. Potesne hanc figuram ex Alcorano agnoscere?",
+  "clues": [
+    "Missus sum ut moneo populo qui viis suis errabat.",
+    "Invitavi eos ut veniam peterent et a peccatis suis se converterent, sed aversi sunt.",
+    "Divino iussu, vas ingens construxi, dum populus meus me spectabat et deridebat.",
+    "Dominum meum sine intermissione invocavi — tandem respondit, et aqua de caelo torrentibus effusa est.",
+    "Navem cum eis qui crediderunt conscendi, cum aquae diluvii super terram surrexissent.",
+    "Ad unum qui remanserat clamavi, rogans ut in montem perfugium caperet, sed decretum iam prolatum erat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Nuh",
+        "Propheta Ibrahim",
+        "Propheta Musa",
+        "Propheta Hud",
+        "Propheta Salih"
+      ],
+      "answer": "Propheta Nuh"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Arcam magnam aedificans et diluvium universale superans",
+        "In ignem ardentem coniectus",
+        "Tyrannum eiusque potentes magis oppugnans",
+        "Ab magno pisce deglutitus",
+        "Caedem camelæ sacrae spectans"
+      ],
+      "answer": "Arcam magnam aedificans et diluvium universale superans"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca lignea ingens in aquis diluvii furentibus",
+        "Vallis sacra cum antiquis ruinis lapideis",
+        "Spelunca profunda ubi socii per saecula dormierunt",
+        "Venter balaenae ingentis in profundo oceani",
+        "Mons lapideus altissimus in deserto"
+      ],
+      "answer": "Arca lignea ingens in aquis diluvii furentibus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Servatus cum fidelibus in navi",
+        "Incolumis ab igne divino iussu servatus",
+        "Magnum exodum e regno potenti duxit",
+        "E pisce in litus sterile eiectus",
+        "Homines a malitia per signum miraculosum abduxit"
+      ],
+      "answer": "Servatus cum fidelibus in navi"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

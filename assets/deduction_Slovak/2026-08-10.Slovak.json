@@ -1,0 +1,61 @@
+{
+  "title": "Strážcovia tajnej žatvy",
+  "intro": "V zelenej krajine skupina jednotlivcov pod rúškom tmy vymyslela tajný plán. Mali spoločný cieľ, ale ich zámery boli ďaleko od spravodlivých. Netušili, že počas spánku ich čaká božský zvrat.",
+  "clues": [
+    "Urobili sme pevné rozhodnutie a mysleli sme si, že náš plán je bezchybný.",
+    "Mali sme v úmysle vyjsť von skoro, skôr ako sa ostatní stihnú vôbec pohnúť.",
+    "Vydali sme sa na úrodný pozemok, dôverujúc si v naše zásoby.",
+    "Keď sme dorazili do cieľa, zistili sme, že je pustý a neúrodný, takže sme si mysleli, že sme zablúdili.",
+    "Potom sme si uvedomili, že je to naozaj naše miesto, a zúfalo sme kričali a obviňovali sa navzájom za našu stratu.",
+    "To ráno sme prisahali, že chudobných vylúčime z našej úrody, ale Alahov trest na nás prišiel, kým sme spali, a premenil našu záhradu na ruinu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Majitelia záhrady v súre 68",
+        "Ľudia zo Saby",
+        "Spoločníci jaskyne",
+        "Ľudia slona",
+        "Ľudia zo zákopu"
+      ],
+      "answer": "Majitelia záhrady v súre 68"
+    },
+    "trial": {
+      "label": "Naša skúška",
+      "options": [
+        "Našu záhradu zničila pohroma z neba",
+        "Našu záhradu zaplavila povodeň",
+        "Našu záhradu spálil nepriateľský požiar",
+        "Naša záhrada bola plná kobyliek",
+        "Našu záhradu pohltilo zemetrasenie"
+      ],
+      "answer": "Našu záhradu zničila pohroma z neba"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Prisahali sme, že ráno oberieme jeho plody",
+        "Postavili sme priehradu na zavlažovanie našej záhrady",
+        "Hľadali sme útočisko v jaskyni, aby sme sa chránili",
+        "Pripravili sme armádu na dobytie kráľovstva",
+        "Plavili sme sa loďou, aby sme preplavili more"
+      ],
+      "answer": "Prisahali sme, že ráno oberieme jeho plody"
+    },
+    "outcome": {
+      "label": "Náš osud",
+      "options": [
+        "Činili sme pokánie a dúfali sme v milosrdenstvo od Alaha",
+        "Boli sme úplne zničení a nikdy sme nečinili pokánie",
+        "Utiekli sme z krajiny a nikdy sme sa nevrátili",
+        "Opäť sme sa stali mocnými a bohatými",
+        "Boli sme potrestaní tým, že sme sa premenili na opice"
+      ],
+      "answer": "Činili sme pokánie a dúfali sme v milosrdenstvo od Alaha"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

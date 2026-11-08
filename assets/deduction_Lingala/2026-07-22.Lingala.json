@@ -1,0 +1,61 @@
+{
+  "title": "Uta na Bozindo ya Libulu",
+  "intro": "Mobembo ya molimo moko ya elenge ebandaki na emonaneli ya nguya ya nzoto ya lola kofukama na limemya. Bomoi ya moto yango ezalaki na trahison ya mozindo koleka uta na baoyo bazalaki penepene, elandaki na bambula mingi ya boombo mpe kokangama na boloko na ndenge ya mabe. Nzokande na nzela ya kondima oyo etɛngamá te mpe litambwisi ya bonzambe, motángo oyo etombolaki longwa na libulu ya nse mpo na kokóma moko ya bato ya nguya mingi kati na ampire moko monene. Okoki ko découvrir identité ya mosali oyo ya kokamwa ya Allah?",
+  "clues": [
+    "Balakisaki ngai emonaneli ya minzoto zomi na moko, moi, mpe sanza efukama liboso na ngai",
+    "Nazalaki mwana oyo moboti na ngai alingaki mingi, oyo ebotaki zuwa epai ya bandeko na ngai ya mibali",
+    "Bandeko na ngai moko bakangaki ngai, balongolaki ngai elamba, mpe babwakaki ngai na libulu moko ya mozindo mpe ya molili",
+    "Bazalaki kotɛka ngai lokola biloko na zando mpe bazalaki komema ngai mosika na mboka na ngai",
+    "Mwasi moko ya nguya amekaki kobebisa lokumu na ngai, mpe babwakaki ngai na bolɔkɔ mpo naboyaki kokende liboso na ye",
+    "Napambolamaki na likabo ya kolimbola ndoto, mpe natelemaki uta na mokangami oyo babosanaki kino na ministre-mokonzi ya Ezipito"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Yusuf",
+        "Mosakoli Musa",
+        "Mosakoli Dawud",
+        "Mosakoli Ayyuub",
+        "Mosakoli Sulayman"
+      ],
+      "answer": "Mosakoli Yusuf"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Babwakaki na libulu ya mozindo na bandeko ya moto ye moko",
+        "Kobika na mpela monene oyo esalemaki na mokili mobimba",
+        "Kobwakama na kati ya litumbu oyo ezali kopela mɔtɔ",
+        "Kobunda na mobundi moko monene na esika ya etumba",
+        "Komelama na mbisi monene"
+      ],
+      "answer": "Babwakaki na libulu ya mozindo na bandeko ya moto ye moko"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Libulu ya mozindo mpe ya kokauka na esobe",
+        "Masuwa moko monene ya mabaya likoló ya ngomba",
+        "Nzete oyo ebongwanaki nyoka",
+        "Kiti ya bokonzi ya kokamwa ya nkembo monene",
+        "Libenga moko mpe mabanga mitano ya pɛtɛɛ"
+      ],
+      "answer": "Libulu ya mozindo mpe ya kokauka na esobe"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki ministre-mokonzi ya Ezipito mpe akutanaki lisusu na libota oyo balingaki mingi",
+        "Atongaki masuwa monene mpe abengaki bato na kondima",
+        "Akambaki ekólo mobimba na boombo na Ezipito",
+        "Bapesaki ye bokonzi mpe bokonzi likoló ya biloko oyo emonanaka te",
+        "Bapesaki ye motema molai na nzela ya maladi makasi mpe abikisamaki"
+      ],
+      "answer": "Akómaki ministre-mokonzi ya Ezipito mpe akutanaki lisusu na libota oyo balingaki mingi"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mai Gina Buri na Ƙarya",
+  "intro": "Wani mutum mai iko mai girma ya taɓa yi wa ɗaya daga cikin azzaluman tarihi da suka shahara a zamanin da a Masar. An ba wannan mutumin umarni mai ƙarfin hali - ya gina wani gini da aka yi niyya don ya saɓa wa sama. Labarinsu ya tsaya a cikin Alƙur'ani a matsayin darasi mai ban mamaki game da yadda biyayya ga girman kai ba ta kai ga halaka ba.",
+  "clues": [
+    "Na yi hidima a kotunan wani babban mai mulki wanda ya yi iƙirarin allahntaka a kan ƙasashe.",
+    "Na riƙe babban muƙamin minista, ina ba da shawara ga azzalumin da ya fi girman kai a lokacina.",
+    "Sarkina ya shagala da kalubalantar Allahn Musa, wanda suka ƙi amincewa da shi.",
+    "An umarce ni da in gina hasumiya da tubalan da aka gasa da wuta domin mai mulki na ya hau sama.",
+    "Hasumiyar ba ta taɓa isa sama ba, kuma bautata ga girman kai ta jawo mini kunya ta har abada.",
+    "Na halaka da wanda na bi, kuma sunana ya zama gargaɗi na dindindin game da waɗanda ke ba da damar azzalumai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Haman",
+        "Azar (mahaifin Ibrahim)",
+        "Ilyas (annabi)",
+        "Dhu al-Kifl",
+        "Harut (ɗaya daga cikin mala'iku biyu a Babila)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "An umarce shi da ya gina wani babban gini domin ya isa sama",
+        "An nemi a fassara mafarkin da aka aiko daga wurin allahntaka",
+        "An jefa shi cikin wuta mai zafi a matsayin gwajin bangaskiya",
+        "An tilasta masa ya zaɓi tsakanin kursiyi da gaskiya",
+        "An ƙalubalanci gasar sihiri"
+      ],
+      "answer": "An umarce shi da ya gina wani babban gini domin ya isa sama"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Hasumiyar tubalan da aka gasa da wuta",
+        "Sanda wadda ta rikide ta zama maciji",
+        "Jirgin ruwa da ke tafiya cikin ambaliyar ruwa mai girma",
+        "Lambun da aka kewaye da manyan katanga",
+        "Kursi mai ado da yakutu da zinariya"
+      ],
+      "answer": "Hasumiyar tubalan da aka gasa da wuta"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An nutsar da shi tare da mai zalunci a cikin teku",
+        "Ya zama sarki mai ƙarfi na ƙasashe masu faɗi",
+        "Ya tsere wa wuta mai ci ba tare da ya ji rauni ba",
+        "Gina masarautar hikima mai wadata",
+        "An sake haɗuwa da iyalinsa bayan shekaru da yawa na gudun hijira"
+      ],
+      "answer": "An nutsar da shi tare da mai zalunci a cikin teku"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

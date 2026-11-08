@@ -1,0 +1,61 @@
+{
+  "title": "Oru vaikne hääl",
+  "intro": "Astu ajas tagasi vägeva rahva juurde, kes sai kunagi proovilepanekuks elava ime. Ülbus ja kangekaelsus pitseerisid nende saatuse. Kas suudad jälgida lugu ja avastada, mis selles dramaatilises pöördepunktis aset leidis?",
+  "clues": [
+    "Mind saadeti jumaliku katsumusena vägevale rahvale, kes on tuntud oma tugevuse ja vastupanu poolest.",
+    "Olin ainulaadne ime – minusuguseid polnud nende seas kunagi varem esinenud.",
+    "Jagasin oma rahvaga kaevust joogivett ülepäeviti.",
+    "Neid hoiatati, et iga minu vastu suunatud kahju toob kaasa kiire karistuse.",
+    "Kõige julgemad neist ignoreerisid hoiatust ja tegid mulle kintsud.",
+    "Pärast minu surma hävitas üksainus kõuekärgatus ülalt kogu mu rahva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Salihi emane kaamel",
+        "Musa lehm",
+        "Nuhi laev",
+        "Musa personal",
+        "Bilqise troon"
+      ],
+      "answer": "Salihi emane kaamel"
+    },
+    "trial": {
+      "label": "Minu saatus",
+      "options": [
+        "Kinnise vigastus ja surm",
+        "Tapetud ohvrina",
+        "Muutus maoks",
+        "Säilinud suure üleujutuse ajal",
+        "Toodi kiiresti üle kuningriigi"
+      ],
+      "answer": "Kinnise vigastus ja surm"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Vee kaev",
+        "Kiviplaat",
+        "Põlev põõsas",
+        "Puidust laev",
+        "Kullast ja hõbedast troon"
+      ],
+      "answer": "Vee kaev"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Hävitati üheainsa karjega",
+        "Uppus suures üleujutuses",
+        "Põlenud kivisaju poolt",
+        "Tugeva tuule poolt purustatud",
+        "Maa poolt neelatud"
+      ],
+      "answer": "Hävitati üheainsa karjega"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

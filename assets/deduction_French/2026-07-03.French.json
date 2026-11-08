@@ -1,0 +1,61 @@
+{
+  "title": "Le héraut d'un péché sans précédent",
+  "intro": "Certains récits du Coran révèlent la profondeur de la corruption dans laquelle une société entière peut sombrer. Ce messager se tenait seul, implorant un peuple plongé dans une perversion qu'aucune nation avant lui n'avait jamais connue. Malgré des années d'avertissements, les cœurs restèrent endurcis, et le décret divin s'abattit de la manière la plus terrifiante. Pouvez-vous identifier ce noble messager d'Allah ?",
+  "clues": [
+    "J'ai été envoyé comme avertisseur auprès d'un peuple rongé par une perversion qu'aucune nation avant lui n'avait jamais commise.",
+    "Mon peuple m'a traité de menteur et a menacé de nous expulser, mes partisans et moi, du pays.",
+    "Des visiteurs de marque sont venus chez moi sous la forme de jeunes hommes en pleine forme, et j'ai éprouvé une profonde inquiétude pour leur sécurité.",
+    "Mon peuple exigea que je leur livre mes invités, ignorant que ces visiteurs étaient des anges envoyés par Allah.",
+    "Mon propre conjoint ne partageait pas ma foi et a choisi de rester avec les damnés.",
+    "J'ai été sauvée avec mes filles à l'aube, alors qu'une pluie de pierres dévastatrice s'abattait et que nos villes étaient renversées."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Lout",
+        "Prophète Shu'aib",
+        "Prophète Hud",
+        "Prophète Noé",
+        "Prophète Salih"
+      ],
+      "answer": "Le prophète Lout"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Un grand déluge engloutissant la terre",
+        "Perte de la vue due à de longues souffrances",
+        "Un tyran se prétendant divin",
+        "Être jeté dans un feu ardent",
+        "On leur demande de livrer des invités d'honneur"
+      ],
+      "answer": "On leur demande de livrer des invités d'honneur"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une grande arche construite à la main",
+        "Un bâton qui a fendu la mer",
+        "Une chamelle miraculeuse",
+        "Un feu flamboyant",
+        "Villes renversées"
+      ],
+      "answer": "Villes renversées"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Noyé en poursuivant les croyants",
+        "Sauvé indemne des flammes",
+        "Élevés vivants jusqu'aux cieux",
+        "Une famille a péri dans une grande inondation",
+        "La famille était sauvée, à l'exception d'une épouse infidèle."
+      ],
+      "answer": "La famille était sauvée, à l'exception d'une épouse infidèle."
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

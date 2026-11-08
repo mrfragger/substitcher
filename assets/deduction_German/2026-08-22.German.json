@@ -1,0 +1,61 @@
+{
+  "title": "Die Stadt, die an die Zeit glaubte",
+  "intro": "In den Annalen der göttlichen Barmherzigkeit findet sich eine Gemeinschaft, deren Wendepunkt ein Moment kollektiver Erkenntnis war. Sie werden nun ihre Geschichte entdecken – eine Erzählung von Warnung, Reue und einer Gnadenfrist, die sie vom Schicksal anderer Nationen unterschied.",
+  "clues": [
+    "Wir waren ein Volk, zu dem ein Bote gesandt wurde, und wir wandten uns zunächst von seinem Ruf ab.",
+    "Als die Anzeichen einer bevorstehenden Bestrafung deutlich wurden, erkannten wir die Wahrheit seiner Warnung.",
+    "Wir wandten uns in aufrichtiger Reue unserem Herrn zu, und unser Glaube wurde angenommen.",
+    "Die über uns verhängte Strafe wurde aufgrund unseres Glaubens aufgehoben.",
+    "Unsere Geschichte wird als Ausnahme unter den Städten angeführt, die erst nach der Verhängung der Strafe Glauben fanden.",
+    "Wir waren das Volk des Propheten, der vom Wal verschlungen wurde, und doch wurden wir vor der Vernichtung gerettet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Menschen von Yunus",
+        "Volk von Nuh",
+        "Menschen von Hud",
+        "Volk von Salih",
+        "Volk von Lut"
+      ],
+      "answer": "Menschen von Yunus"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Eine verheerende Flut",
+        "Ein schwerer Windsturm",
+        "Eine drohende Schmachstrafe, die abgewendet wurde",
+        "Die Erde verschlingt sie",
+        "Ein Regen aus Steinen"
+      ],
+      "answer": "Eine drohende Schmachstrafe, die abgewendet wurde"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Kamelstute",
+        "Eine Stadt mit hunderttausend Einwohnern",
+        "Die Mitarbeiter von Musa",
+        "Der Schatz von Qarun"
+      ],
+      "answer": "Eine Stadt mit hunderttausend Einwohnern"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie wurden vollständig zerstört",
+        "Sie hatten eine Zeitlang Freude daran.",
+        "Sie wurden in Affen verwandelt.",
+        "Sie sind ertrunken.",
+        "Sie wurden von der Erde verschluckt"
+      ],
+      "answer": "Sie hatten eine Zeitlang Freude daran."
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

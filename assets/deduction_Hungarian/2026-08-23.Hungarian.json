@@ -1,0 +1,61 @@
+{
+  "title": "Az eltűnt sokaság",
+  "intro": "Egy olyan közösség visszhangjai előtt állsz, melynek történetét a hullámok írták. Ezek a lelkek meghallották a hívást, a dacot választották, és szembesültek egy következménnyel, amely átalakította a Földet. Kik ők, és mi lett a világukkal?",
+  "clues": [
+    "Réges-régen éltünk, és egy hírnök jött el hozzánk magunk közül.",
+    "Öt bálványt imádtunk, és nem voltunk hajlandóak elhagyni őket.",
+    "Gúnyoltuk a hírvivőt, és azzal vádoltuk, hogy tévedett.",
+    "Azt követeltük, hogy büntetést vonjon maga után, ha igazat mond.",
+    "Láttuk, ahogy az égből ömlik az eső, a földből pedig források fakadnak.",
+    "Felmásztunk a magaslatokra, hogy elmeneküljünk, de a hullámok utolértek minket."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Nuh népe",
+        "'Ad emberei",
+        "Thamud népe",
+        "Lut népe",
+        "Madyan népe"
+      ],
+      "answer": "Nuh népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy hatalmas árvízbe fulladtunk",
+        "Elpusztított minket egy hurrikán",
+        "Egy hangos robbanás ölt meg minket",
+        "Elnyelt minket a föld",
+        "Kövekkel dobáltak minket az égből"
+      ],
+      "answer": "Egy hatalmas árvízbe fulladtunk"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy nagy árvíz",
+        "Egy heves szél",
+        "Kőzápor",
+        "Egy tüzes robbanás",
+        "Egy földrengés"
+      ],
+      "answer": "Egy nagy árvíz"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Mindannyian elvesztünk, kivéve a hívőket Nuh-val együtt",
+        "Majmokká változtunk",
+        "Romokként maradtunk az utazók számára",
+        "Sóvá változtunk",
+        "Kaptunk egy kis menedéket"
+      ],
+      "answer": "Mindannyian elvesztünk, kivéve a hívőket Nuh-val együtt"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

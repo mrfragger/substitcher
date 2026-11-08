@@ -1,0 +1,61 @@
+{
+  "title": "Jaribio la Kiumbe Kitakatifu",
+  "intro": "Ishara ilitumwa kwa taifa lililokuwa limepotoka. Katikati ya maisha yao ya starehe ilikuja onyo—likiambatana na kiumbe wa ajabu ambaye angekuwa jaribio la mwisho la imani yao. Mwitikio wao ungefunga hatima yao milele. Je, unaweza kubaini ni nani aliyetoa onyo hili na kilichowapata wale waliolikataa?",
+  "clues": [
+    "Tulikuwa watu walioongozwa na wajumbe waliotangulia kabla yetu.",
+    "Kiumbe mzuri sana alitoka mlimani, ishara kutoka kwa Mola wetu kwa taifa hili.",
+    "Nikawaambia: 'Huyu ni ngamia jike wa Mwenyezi Mungu, basi mwacheni ale kutoka katika ardhi ya Mwenyezi Mungu wala msimguse kwa madhara.'",
+    "Lakini watu walimkata ngamia wangu jike, wakiasi amri ya Mola wao Mlezi.",
+    "Mimi ni mjumbe kutoka kwa Mola wako Mlezi, nimetumwa kwa haki - mimi ni nabii na mtumishi mwaminifu.",
+    "Ama wale waliodhulumu, Mola wetu aliwapiga kwa sauti ya radi, wakawa kimya majumbani mwao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Hud wa watu wa A'ad",
+        "Nabii Salih wa watu wa Thamud",
+        "Nabii Shu'aib wa Midiani",
+        "Nabii Lut wa watu wa Sodoma",
+        "Nabii Nuh wa Safina"
+      ],
+      "answer": "Nabii Salih wa watu wa Thamud"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mafuriko yaliyowazamisha watu wasioamini",
+        "Tetemeko la ardhi lililoharibu mji wenye dhambi",
+        "Ngamia jike aliyetumwa kama ishara na mtihani wa kimungu",
+        "Dhoruba iliyowaadhibu watu wa Midiani",
+        "Kuangamizwa kwa watu wa Loti kwa mawe"
+      ],
+      "answer": "Ngamia jike aliyetumwa kama ishara na mtihani wa kimungu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mji wa Sodoma katika Bonde la Yordani",
+        "Bonde la Al-Hijr kati ya Hijaz na Syria",
+        "Nchi ya kale ya A'ad kusini mwa Arabia",
+        "Misitu ya Midiani karibu na Bahari Nyekundu",
+        "Tambarare za Mlima Judi huko Mesopotamia"
+      ],
+      "answer": "Bonde la Al-Hijr kati ya Hijaz na Syria"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Waliokolewa baada ya kutubu na kuamini",
+        "Mvua ya mawe iliwaangamiza kabisa",
+        "Sauti kali iliwapiga bila kusonga",
+        "Walichukuliwa na upepo mkali",
+        "Tetemeko la ardhi liliwameza ardhini"
+      ],
+      "answer": "Sauti kali iliwapiga bila kusonga"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

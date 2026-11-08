@@ -1,0 +1,61 @@
+{
+  "title": "Misundelsen der fortærede",
+  "intro": "En fortælling ældre end noget kongerige eller skriftsted – den første menneskelige tragedie født af jalousi. Én sjæl, den ældste af to børn født af de første forældre, så i raseri til, mens en yngre søskende modtog en gunst, der blev nægtet. Det, der fulgte, var det mørkeste valg, og efterlod det første blod, der nogensinde blev udgydt på jorden. Kan du afdække identiteten, prøvelsen og den bitre fortrydelse?",
+  "clues": [
+    "Jeg blev født af det allerførste menneskepar, der vandrede på jorden.",
+    "Jeg bragte engang et offer til Allah, men det blev ikke accepteret fra mig.",
+    "Min søskendes offer blev accepteret, mens mit blev afvist – noget jeg ikke kunne bære.",
+    "Jeg truede min egen bror med ødelæggelse.",
+    "Jeg blev den første til at begå mord på denne jord og tog livet af min egen søskende.",
+    "Allah sendte et jordisk væsen – en sort fugl, der gravede i jorden – for at lære mig, hvordan jeg skulle skjule, hvad jeg havde gjort, og jeg sad kun tilbage med fortrydelse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Profeten Yaqub",
+        "Profeten Musa",
+        "Profeten Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Offergave afvist af Allah",
+        "Kastet i en stor ild",
+        "Forladt som baby i en flod",
+        "Testet med et enormt kongerige",
+        "Befalet at ofre sin søn"
+      ],
+      "answer": "Offergave afvist af Allah"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Kragen sendt af Allah",
+        "Guldkalven",
+        "Arken på bjerget",
+        "Den brændende busk",
+        "Hunkamelen udskåret i klippen"
+      ],
+      "answer": "Kragen sendt af Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev fyldt med fortrydelse og blandt taberne",
+        "Opslugt i jorden sammen med skatte",
+        "Blev en ædel budbringer af Allah",
+        "Kom ind i Paradis ved guddommelig barmhjertighed",
+        "Herskede over et uovertruffent kongerige"
+      ],
+      "answer": "Blev fyldt med fortrydelse og blandt taberne"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

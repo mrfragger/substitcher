@@ -1,0 +1,61 @@
+{
+  "title": "Die verfluchten Hände",
+  "intro": "Du stehst in den verwinkelten Gassen des alten Mekka, wo einst eine einflussreiche und wohlhabende Seele dem Ruf der Wahrheit den Rücken kehrte. Die Geschichte dieser Gestalt ist eine eindringliche Mahnung, dass Blutsbande die Fesseln des Stolzes nicht sprengen können. Wer ist dieser Mensch, dessen Name vom Feuer widerhallt, das ihn erwartet?",
+  "clues": [
+    "Ich ging durch die Straßen von Mekka mit einem Stolz, der mich für die Wahrheit blind machte, obwohl der Bote aus meinem eigenen Blut stammte.",
+    "Mein Besitz war umfangreich, doch er wurde mir eher zum Fluch als zum Schutzschild.",
+    "Das Buch der Weisung spricht von meinem Untergang und verkündet, dass meine Hände und meine Person zugrunde gehen werden.",
+    "Mein Ehepartner schloss sich meinem Feldzug der Feindschaft an und sammelte Dornen, um sie auf dem Weg dessen zu verteilen, der zu Allah rief.",
+    "Am Tag des Gerichts werde ich in ein loderndes Feuer geworfen werden, und meine Gattin wird ein Seil aus Palmfasern um den Hals tragen.",
+    "Ich bin bekannt unter einem Namen, der „Vater der Flamme“ bedeutet – ein Name, der meine ewige Wohnstätte voraussagt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Wichtige Prüfung oder Veranstaltung",
+      "options": [
+        "Er widersetzte sich dem Propheten und wurde im Koran verflucht.",
+        "Führte eine Armee an, um die Kaaba zu zerstören",
+        "Sie versuchten, den Propheten durch Steinwürfe zu töten.",
+        "Er weigerte sich, an die Spaltung des Mondes zu glauben.",
+        "Er baute einen Turm, der bis zum Himmel reicht."
+      ],
+      "answer": "Er widersetzte sich dem Propheten und wurde im Koran verflucht."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das lodernde Feuer der Hölle",
+        "Das Personal von Musa",
+        "Die Arche Noahs",
+        "Der Zamzam-Brunnen",
+        "Das goldene Kalb"
+      ],
+      "answer": "Das lodernde Feuer der Hölle"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Er wird ins lodernde Feuer gehen, und sein Reichtum wird ihm nichts nützen.",
+        "Er bereute und wurde gläubig.",
+        "Ihm wurde vergeben, nachdem er seine Aussage widerrufen hatte.",
+        "Er starb als Märtyrer",
+        "Er wurde in den Himmel aufgenommen."
+      ],
+      "answer": "Er wird ins lodernde Feuer gehen, und sein Reichtum wird ihm nichts nützen."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

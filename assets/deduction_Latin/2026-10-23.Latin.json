@@ -1,0 +1,61 @@
+{
+  "title": "Missio in Urbe Antiqua",
+  "intro": "Urbs antiqua et pulverulenta, incolae negatione haerentes, et ultima admonitio neglecta. Hodie, in partes eorum qui ab Allah missi sunt, ut nuntium populo pertinaci perferant, ingredimini. Fabula reiectionis, vox singularis fidei, et finis decreto vastanti obsignatus. Quis per haec indicia loquitur?",
+  "clues": [
+    "A Deo missi sumus ad urbem cuius populus a veritate aversatus est.",
+    "Duo ex nobis primi venerunt, deinde tertius se iunxit ut missionem nostram confirmaret.",
+    "Oppidani nos repudiaverunt, dicentes nos nihil nisi homines similes illis esse.",
+    "Una anima ab extremo urbis fine cucurrit ut populum moneret ut nos sequerentur.",
+    "Obsecravimus eos, sed induraverunt corda sua et adversus nos conversi sunt.",
+    "Uno clamore devastante de caelis, tota urbs nostra siluerat"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Nuntii Oppidi in Surah Ya-Sin",
+        "The Hawwariyyun (Discipulos Isa)",
+        "Magi Aulae Pharaonis",
+        "Socii Sabbati",
+        "Populus Elephantis"
+      ],
+      "answer": "Nuntii Oppidi in Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "A civibus reiecti et mendaces appellati",
+        "Vivus in magno ardente igne combustus",
+        "Ab magno pisce in alto mari deglutitus",
+        "Labori coactus columnam turrim aedificans",
+        "In fossa ignis furentis cruciatus"
+      ],
+      "answer": "A civibus reiecti et mendaces appellati"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Oppidum antiquum (al-Qaryah)",
+        "Fornax magna ardens",
+        "Venter piscis magni",
+        "Alta columna caelum tangens",
+        "Domus sacra (Kaaba)"
+      ],
+      "answer": "Oppidum antiquum (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Oppidum uno clamore vastante (Sayha) deleta est.",
+        "Tyrannus et exercitus eius in mari diviso submersi sunt",
+        "Homines in simias et simias transformati sunt",
+        "Pluvia lapidum e caelo urbem vastavit",
+        "Violenta inundatio totam communitatem abstulit"
+      ],
+      "answer": "Oppidum uno clamore vastante (Sayha) deleta est."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

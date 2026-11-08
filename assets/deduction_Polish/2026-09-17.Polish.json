@@ -1,0 +1,61 @@
+{
+  "title": "W cieniu palmy daktylowej",
+  "intro": "Opowieść o duszy oddzielonej od świata już przed narodzinami, pielęgnowanej w świętych murach i wybranej, by nieść znak, którego świat nigdy nie widział. Gdy oskarżenia napływały zewsząd, głos dobiegał z najbardziej nieprawdopodobnego miejsca, by uciszyć wszelkie wątpliwości. Czy potrafisz odkryć, kto chodził w cieniu daktylowca?",
+  "clues": [
+    "Już na długo przedtem, zanim wziąłem pierwszy oddech, poświęciłem się służbie Wszechmogącemu. Ta przysięga została złożona przez tego, kto mnie niósł.",
+    "Dorastałem pod czujną opieką sprawiedliwego strażnika w świętych komnatach miejsca kultu.",
+    "Za każdym razem, gdy mój opiekun przychodził do mojej komnaty, znajdował u mnie zapasy żywności z pór roku, których nie powinno tam być.",
+    "Objawiono mi radosną nowinę o synu, chociaż okoliczności nie pozostawiały miejsca na to, co mi obiecano.",
+    "Wycofałem się w odległe miejsce, gdzie palma daktylowa oferowała mi cień, a w dole płynął strumień.",
+    "Gdy pojawiły się oskarżenia i zaczęto mnie zadawać pytania, wskazałam na moje nowonarodzone dziecko — a ono przemówiło z kołyski, uciszając wszelkie wątpliwości."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawwa",
+        "Umm Musa",
+        "Żona Nuha"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Próba / Wydarzenie",
+      "options": [
+        "Narodziny cudownego syna w izolacji",
+        "Wrzucenie w płonący ogień przez bałwochwalców",
+        "Przetrwanie wielkiej powodzi z wybranymi",
+        "Oddzielenie niemowlęcia od ciała wrzuconego do rzeki",
+        "Konfrontacja z potężnym władcą Egiptu"
+      ],
+      "answer": "Narodziny cudownego syna w izolacji"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Palma daktylowa i płynący pod nią strumień",
+        "Potężna arka na wznoszących się falach",
+        "Laska, która rozdzieliła wielkie morze na dwie części",
+        "Płonący ogień, który ma pochłonąć wierną duszę",
+        "Złoty tron ​​ozdobiony drogocennymi kamieniami"
+      ],
+      "answer": "Palma daktylowa i płynący pod nią strumień"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Czczona jako najwspanialsza ze wszystkich kobiet",
+        "Po długiej rozłące znów spotkałem się z ukochanym dzieckiem",
+        "Wyprowadził cały naród z niewoli tyrana",
+        "Ostrzegł ludzi zagubionych w niemoralności",
+        "Udzielono mu władzy nad dżinami, ludzkością i wiatrami"
+      ],
+      "answer": "Czczona jako najwspanialsza ze wszystkich kobiet"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

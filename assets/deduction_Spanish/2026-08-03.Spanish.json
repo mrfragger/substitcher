@@ -1,0 +1,61 @@
+{
+  "title": "El manantial bajo la arena",
+  "intro": "En los anales del Corán, una figura de inmensa paciencia se enfrentó a una prueba que habría quebrado hasta el corazón más fuerte. Lo perdió todo: riquezas, familia y salud. Sin embargo, desde lo más profundo de la desesperación, una humilde oración fue respondida de la manera más inesperada. ¿Puedes identificar a esta alma cuya historia de redención resuena a través de los siglos?",
+  "clues": [
+    "Fui sometido a una prueba tan severa que se recuerda a lo largo de los siglos.",
+    "Lo perdí todo lo que me importaba: mi fortuna, mis hijos y mi salud.",
+    "Mi cuerpo estaba cubierto de llagas dolorosas y todos me rechazaban.",
+    "En mi desesperación, clamé a Alá, diciéndole que Satanás me había afligido con dificultades y tormentos.",
+    "Alá me respondió y me ordenó que golpeara la tierra con mi pie.",
+    "Desde ese mismo lugar brotó un manantial fresco, y Alá restauró a mi familia y la multiplicó por misericordia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Ayyub",
+        "El profeta Musa",
+        "Profeta Ilyas",
+        "Profeta Sulayman",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Enfermedad grave y pérdida de familia y patrimonio.",
+        "Ser tragado por una gran ballena",
+        "Exilio de la ciudad de La Meca",
+        "Encarcelamiento en un pozo profundo",
+        "Confrontación con un gobernante arrogante"
+      ],
+      "answer": "Enfermedad grave y pérdida de familia y patrimonio."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un manantial fresco que brota de la tierra.",
+        "Un barco en medio de una gran inundación",
+        "Un bastón que partió el mar",
+        "Un trono elevado de cristal",
+        "Una cueva amurallada para dormir"
+      ],
+      "answer": "Un manantial fresco que brota de la tierra."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Familia y riqueza restauradas y duplicadas",
+        "Salida del vientre de un pez",
+        "Paso seguro a través de aguas separadas",
+        "Un reino dado para gobernar",
+        "El nacimiento milagroso de un hijo en la vejez"
+      ],
+      "answer": "Familia y riqueza restauradas y duplicadas"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

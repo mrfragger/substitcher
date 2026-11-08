@@ -1,0 +1,61 @@
+{
+  "title": "Umholi Omisiwe Wesizwe",
+  "intro": "Ngesikhathi senselele enkulu nokuphelelwa yithemba kubantu, kwenziwa isinqumo esivela kuNkulunkulu. Lo muntu, ekuqaleni enganakwa ngabaningi, wakhethwa u-Allah ukuba ahole isizwe ngokumelene nesitha esinamandla. Indaba yabo iwubufakazi bamandla okholo kanye nokuhlakanipha okungemuva kwesinqumo saphezulu, okubonisa ukuthi ubuholi beqiniso abutholakali njalo ezindaweni ezilindelekile.",
+  "clues": [
+    "Ngakhethwa ngu-Allah ukuba ngibe ngumholi wabantu bami lapho befuna umbusi ozolwa ngenxa yaKhe.",
+    "Abantu bami baqale bangabaza ukuqashwa kwami, benomuzwa wokuthi abanye bafaneleka kakhulu ngenxa yengcebo noma uhlu lwabo lozalo.",
+    "Uphawu lobuholi bami obufanele kwakuwukubuya kwebhokisi elingcwele, elaliqukethe izinsalela zabaprofethi bangaphambilini, okwaletha ukuthula.",
+    "Ngahola ibutho lami ngaya emfuleni, lapho ngavivinya khona ukulalela kwabo ngokwenqabela ukuphuza amanzi angaphezu kwesipuni esisodwa.",
+    "Naphezu kwenani elincane lalabo abahlala beqinile ngemva kovivinyo, sabhekana neqhawe elinamandla nebutho labo.",
+    "Ngaphansi komyalo wami, insizwa evela ebuthweni lami, eyayingeyena umlwi odumile, yabhekana ngesibindi futhi yanqoba iqhawe lesitha elinamandla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uYusuf",
+        "Umprofethi uMusa",
+        "Umprofethi uDawud",
+        "Umprofethi uSulaiman",
+        "I-Talut"
+      ],
+      "answer": "I-Talut"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlukana kolwandle",
+        "Inselele yabathakathi",
+        "Ukuqokwa njengomholi ngokumelene nesiqhwaga",
+        "Isikhukhula esagubha izwe",
+        "Ukwakhiwa kweKaaba"
+      ],
+      "answer": "Ukuqokwa njengomholi ngokumelene nesiqhwaga"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isihlahla esivuthayo",
+        "UMphongolo (uTabut)",
+        "Abasebenzi (عصا)",
+        "Ithole legolide",
+        "Umthombo weZamzam"
+      ],
+      "answer": "UMphongolo (uTabut)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Umbuso wamiswa ngengcebo enkulu namandla.",
+        "Abantu baminza esikhukhuleni esikhulu.",
+        "Iqhawe lesitha lahlulwa, futhi u-Allah wamnika ukunqoba.",
+        "Isomiso esikhulu sahlasela izwe iminyaka eminingi.",
+        "Umholi wagwinywa yisidalwa esikhulu."
+      ],
+      "answer": "Iqhawe lesitha lahlulwa, futhi u-Allah wamnika ukunqoba."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

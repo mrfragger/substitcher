@@ -1,0 +1,61 @@
+{
+  "title": "D'Stëmm, déi d'Herrschaft vun engem Idol a Fro gestallt huet",
+  "intro": "Ënnert de Bote vum Allmächtege war e standhafte Knecht, deen sech ënner enger sturer Natioun erhuewen huet, fir d'Wourecht ze vermëttelen. Hiert Vollek hat eng erfonnt Gottheet ugeholl an huet sech vum Schëpfer vun allem, wat existéiert, ewechgedréit. Mat onerschütterlecher Entschlossenheet huet dës Persoun si zréckgeruff - awer d'Botschaft gouf mat Verleugnung a Ofleenung begéint. Gitt duerch d'Hiweiser fir erauszefannen, wien dësen treie Knecht war.",
+  "clues": [
+    "Ech gouf als Bote bei e stur Vollek geschéckt, dat wäit vum riichte Wee ofgewichen war.",
+    "Ech sinn komm, fir meng Natioun un Deen ze erënneren, deen alles erschaf huet, wat existéiert - dee Beschten vun alle Schëpfer.",
+    "Mäi Vollek hat sech zu engem falschen Idol gewand, dat si Dag an Nuecht veréiert an ugeruff hunn.",
+    "Ech hunn se këhn erausgefuerdert a gefrot, firwat si eng erfonnt Gottheet géife veréieren an hiren richtegen Här opginn.",
+    "Si hunn mech ofgeleent, refuséiert ze lauschteren a sinn un hirer Falschheet festgehalen - awer mäin Här huet mech bewahrt.",
+    "Ech sinn den Ilyas - a Fridden gouf mir geschenkt, an ech gouf zu de gleewegen Dénger vum Barmhäerzegsten gezielt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Ilyas",
+        "Prophet Idris",
+        "Prophet Alyasa",
+        "Prophet Dhul-Kifl",
+        "Prophet Nuh"
+      ],
+      "answer": "Prophet Ilyas"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "E Vollek vum Verehrung vum Ba'al ofruffen",
+        "Konfrontatioun mat engem Tyrann, deen behaapt huet, e Gott ze sinn",
+        "D'Leit virun enger drohender Iwwerschwemmung warnen",
+        "An e grousst Feier gehäit ginn",
+        "En Exodus aus dem Land vun der Sklaverei féieren"
+      ],
+      "answer": "E Vollek vum Verehrung vum Ba'al ofruffen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Den Idol mam Numm Ba'al",
+        "Eng grouss Ark aus robustem Holz gebaut",
+        "E Staf, deen e grousst Mier gespléckt huet",
+        "E hellegt Kleed, dat mat Blutt befierft ass",
+        "E brennende Busch op engem hellege Bierg"
+      ],
+      "answer": "Den Idol mam Numm Ba'al"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Fridden geschenkt a gezielt zu den ausgewielten Dénger vun Allah",
+        "An d'Paradies gefouert, während all déi aner zerstéiert goufen",
+        "Gerett aus engem grousse Feier, deen kill a sécher gouf",
+        "Herrschaft iwwer Djinn, Mënschheet an de Wand ginn",
+        "Kierper als dauerhaft Zeechen fir d'Jore konservéiert"
+      ],
+      "answer": "Fridden geschenkt a gezielt zu den ausgewielten Dénger vun Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

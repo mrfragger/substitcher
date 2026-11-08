@@ -1,0 +1,61 @@
+{
+  "title": "Sasi Erretzailetik Datorren Ahotsa",
+  "intro": "Argitu pertsonaia sakon baten nortasuna, zeinaren bidaia topaketa miragarri batekin hasi zen eta zeinaren patua herri zapaldu baten askapenarekin lotuta zegoen. Pertsona hau zeregin monumental baterako aukeratu zuten, erronka izugarriei aurre eginez jainkozko laguntzarekin.",
+  "clues": [
+    "Zapalkuntza handiko garaian jaio nintzen, non nire herriko haurtxoak hiltzen zituzten.",
+    "Nire bizitzako lehen aldia gurasoek ibaian bota ninduten, baina nire herriaren zapaltzailearen etxean bertan aurkitu eta hazi ninduten.",
+    "Behin hiri batetik ihes egin nuen, eztabaida batean nahi gabe pertsona bat hil ondoren.",
+    "Jainkozko mezu bat eta makila miragarri bat jaso nituen leku sakratu batean, non agintari boteretsu bati aurre egiteko agindu zidaten.",
+    "Nire anaia laguntzaile izendatu zuten nire misioan, nire hizkeran akats bat sumatu nuelako.",
+    "Itsaso zatitu baten zehar gidatu nuen nire herria, armada tirano baten jazarpenetik ihesi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yusuf profeta",
+        "Isa profeta",
+        "Musa profeta",
+        "Nuh profeta",
+        "Ibrahim profeta"
+      ],
+      "answer": "Musa profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Lehorte urteak irauten",
+        "Arka eraikitzen",
+        "Faraoiari eta bere aztiei aurre egitea",
+        "Labe sutsu batera botata izatea",
+        "Thamudeko herriaren suntsipena"
+      ],
+      "answer": "Faraoiari eta bere aztiei aurre egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Kaaba",
+        "Burdinezko Harresia",
+        "Langileak",
+        "Nuh-en itsasontzia",
+        "Sulaimanen eraztuna"
+      ],
+      "answer": "Langileak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Sodoma hiria suntsitu zuten",
+        "Jendea lurrak irentsi zuen",
+        "Uholde handiak lurra irentsi zuen",
+        "Faraoia eta bere armada ito ziren",
+        "Hiriko harresiak oihu batetik erori ziren"
+      ],
+      "answer": "Faraoia eta bere armada ito ziren"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

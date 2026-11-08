@@ -1,0 +1,61 @@
+{
+  "title": "En belägring under en plötslig himmel",
+  "intro": "Du står inför en formidabel armé som närmar sig en vördad fristad, med alla vapen redo och segern till synes säker. Innan anfallet kan börja dyker en oväntad kraft upp ovanför dig, och striden tar en vändning ingen förutsåg.",
+  "clues": [
+    "Vi marscherade med en tillförsikt som ingen jordisk makt kunde rubba.",
+    "Vi hade med oss ​​mäktiga elefanter, och vår styrka verkade vara byggd kring dem.",
+    "Vi hade kommit för att riva ner en vördad helgedom, i tron ​​att vår seger redan var säker.",
+    "När vi nådde dit svepte en flock över himlen ovanför oss.",
+    "Fåglarna kastade stenar av härdad lera mot våra krigare.",
+    "Vi besegrades så fullständigt att vår mäktiga styrka smulades sönder och spriddes som aska."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Elefantens folk",
+        "De två prinsarna",
+        "Josefs bröder",
+        "Allahs tjänare i Dhul-Kifl",
+        "Den rättfärdige mannens följeslagare"
+      ],
+      "answer": "Elefantens folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Det elefantledda angreppet på Kaba",
+        "Havet delas inför en befriad grupp",
+        "Arkens beslagtagande av ett tyranniskt folk",
+        "Nattresan mellan två moskéer",
+        "Helande av en spetälsk genom gudomlig kraft"
+      ],
+      "answer": "Det elefantledda angreppet på Kaba"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Fåglar som bär lerpellets",
+        "En ark av gopherwood",
+        "En stav förvandlades till en orm",
+        "En sten förseglad med ett tecken",
+        "En brinnande buske"
+      ],
+      "answer": "Fåglar som bär lerpellets"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Deras mäktiga styrka smulades sönder som aska",
+        "De korsade havet säkert",
+        "De gick oskadda genom en flammande ugn",
+        "De gick in i paradiset parvis",
+        "De sov i en grotta i 309 år"
+      ],
+      "answer": "Deras mäktiga styrka smulades sönder som aska"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

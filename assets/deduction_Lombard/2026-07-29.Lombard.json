@@ -1,0 +1,61 @@
+{
+  "title": "La persecuzion cortesa",
+  "intro": "In di corridor del podè, una figüra de volt status la s’è innamurada de un servitur che la sò belleza l’era del olter mund. Chesta pazienza g’ha purtà a una seri de event che g’havarian mettuu a la prœuva la lealtà, rivelà verità ascüs e a la fin cunfermà l’inucenza del servitur.",
+  "clues": [
+    "Vivevi in ​​de la terra del Nilo, in d’un palazz de grand influenza.",
+    "Un jòvin l’è rivà in cà mia, e la sò presenza g’ha inquietà el mè mund.",
+    "Ho cercad de sedur-l, ma lü el cercava rifugio in del sò Signor.",
+    "G’ho sbricià el vestì de drè, ma i prœuf indicavan che l’eri drèe a ingannà.",
+    "Per tasè i pettegolezz di nobil, g’ho invità a una riuniun e g’ho mettü di ròbb affilà in di man.",
+    "A la fin, g’ho confessà pubblicamente la mia colpa, recognossend la verità davaant del re."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "La dona de Al-Aziz",
+        "Asiya (Dona del Faraon)",
+        "Bilqis (Regina de Saba)",
+        "Maryam (Mader de Isa)",
+        "La Mader de Musa"
+      ],
+      "answer": "La dona de Al-Aziz"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Lee l’ha tentad de sedur el profeta Yusuf",
+        "Lee l’ha pruà a mazà el Profeta Musa",
+        "Lee la diseva de vess una dea",
+        "Lee l’ha costruid una torr per sfidar Allah",
+        "Lee la guidava un esercit cuntra la Mecca"
+      ],
+      "answer": "Lee l’ha tentad de sedur el profeta Yusuf"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una camisa scisciada del retro",
+        "Un vitell dorà",
+        "Un bastun che s’è trasfurmà en serpent",
+        "Una camel",
+        "Una lampada"
+      ],
+      "answer": "Una camisa scisciada del retro"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Lee l’ha confessad e l’ha recognossü la verità",
+        "L’è stada affogada cunt el sò esercit",
+        "Lee la s’è trasfurmada en un pilaster de sal",
+        "L’è stada inglutida de la terra",
+        "L’è stada distrutta da un vent che urlava"
+      ],
+      "answer": "Lee l’ha confessad e l’ha recognossü la verità"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

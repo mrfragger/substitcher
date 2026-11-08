@@ -1,0 +1,61 @@
+{
+  "title": "Zaprzeczenie pośród obfitości",
+  "intro": "Znajdujesz się wśród ludu, którego targowiska tętnią handlem, a mimo to szala ich nieuczciwości przechyla się nieuczciwie. Przybył do nich posłaniec z jasnymi ostrzeżeniami, ale oni się śmieją i odwracają, pewni swojego dobrobytu. Niebo zaczyna ciemnieć, ale oni postrzegają to jako błogosławieństwo deszczu. Kim są ci ludzie?",
+  "clues": [
+    "Rozwijaliśmy się w krajach handlu i dostatku, jednak nasze serca stawały się nieczułe.",
+    "Przyszedł do nas posłaniec ze znakami od naszego Pana, ale my wyśmiewaliśmy jego ostrzeżenia.",
+    "Byliśmy znani z naszego handlu, ale działaliśmy na niekorzyść i oszukiwaliśmy ludzi.",
+    "Mieszkaliśmy wśród gęstych drzew i bujnej roślinności, ale braliśmy to, co nam błogosławione, za pewnik.",
+    "Kiedy nadeszła ciemna chmura, ucieszyliśmy się, myśląc, że przyniesie deszcz naszym wysuszonym ziemiom.",
+    "Zamiast tego chmura ta rozpętała palącą karę, a nas pochłonęła męka dnia cienia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ashab al-Aykah (Towarzysze Lasu)",
+        "Ludzie z Thamud",
+        "Ludzie z „Ad”",
+        "Ludzie Lutu",
+        "Ludzie Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Towarzysze Lasu)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Odrzucili swego posłańca i oszukali w handlu",
+        "Oddawali cześć złotemu cielcowi i zostali wprowadzeni w błąd",
+        "Praktykowali sodomię i napadali na podróżnych",
+        "Zbudowali wysokie wieże i rzucili wyzwanie Bogu",
+        "Odmówili podzielenia się wodą i skrzywdzili wielbłądzicę"
+      ],
+      "answer": "Odrzucili swego posłańca i oszukali w handlu"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Gęsty las lub zarośla",
+        "Góra wyrzeźbiona w domostwa",
+        "Miasto nad morzem",
+        "Dolina pustynna ze studniami",
+        "Żyzny ogród z wieloma owocami"
+      ],
+      "answer": "Gęsty las lub zarośla"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zniszczony przez chmurę ognia",
+        "Zatopiony przez wielką powódź",
+        "Pochłonięty przez trzęsienie ziemi",
+        "Uderzony przez gwałtowny wiatr",
+        "Zamieniony w kamień"
+      ],
+      "answer": "Zniszczony przez chmurę ognia"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

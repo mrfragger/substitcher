@@ -1,0 +1,61 @@
+{
+  "title": "Mukaddes Otagdaky Arzuw",
+  "intro": "Siz asuda mukaddes ýere girýärsiňiz we Allanyň wepaly hyzmatkäriniň namazda duranyny görýärsiňiz. Olaryň elleri galdyrylan, gözleri galdyrylan we ýürekleri ömürboýy dowam edýän arzuwy göterýär. Alla bolan ynamy hiç haçan gowşamadyk bu sabyrly jan kim?",
+  "clues": [
+    "Men köp ýyllap ybadatda we dogalarda bolup, imanymy güýçlendirýän gudratlaryň şaýady boldum.",
+    "Maňa mukaddes ýerde bereketli ýaş jana ideg etmek jogapkärçiligi berildi.",
+    "Men garradym, meniň iň uly gynanjym çagamyň ýoklugydy, sebäbi aýalym önelgesizdi we ikimiz hem ýaşymyz birneme uzapdy.",
+    "Men Rebbime öz maşgalamdan pygamberlik mirasyny dowam etdirjek bir mirasdüşeri dileg etdim.",
+    "Men namaz mekanynda durkam, perişdeler meni çagyryp: \"Alla saňa hoş habar berýär\" diýdiler we men gorkudan we haýran galyp başladym.",
+    "Maňa öň hiç kime berilmedik Ýahýa atly oglumyň boljakdygyny we alamat hökmünde üç günläp adamlar bilen gepleşmejekdigimi aýtdylar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Zekeriýa pygamber",
+        "Ýahýa pygamber",
+        "Isa pygamber",
+        "Dawut pygamber",
+        "Lukman Hakim"
+      ],
+      "answer": "Zekeriýa pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Dogruçyl mirasdüşer isleýän mahalyňyzda çagasyzlyk we garrylyk",
+        "Ýanýan oda taşlanmak",
+        "Uly balyk tarapyndan ýuwutulýar",
+        "Zalymyň eline patyşalygy ýitirmek",
+        "Öz watanyndan sürgün edilmek"
+      ],
+      "answer": "Dogruçyl mirasdüşer isleýän mahalyňyzda çagasyzlyk we garrylyk"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Namaz nişasy (mihrab)",
+        "Beýik gämi (Ark)",
+        "Ýanýan gyrymsy agaç",
+        "Ýylana öwrülen taýajyk",
+        "Allanyň düýesi"
+      ],
+      "answer": "Namaz nişasy (mihrab)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Salyh ogul berdi we üç günlük dymyşlykdan soň ýene-de gürledi",
+        "Ynanmazlyk üçin sil sebäpli weýran boldy",
+        "Uly patyşalyk we ýeliň üstünden gözegçilik berlen",
+        "Balygyň garnyndan çykarylan",
+        "Ýer tarapyndan ýuwudyldy"
+      ],
+      "answer": "Salyh ogul berdi we üç günlük dymyşlykdan soň ýene-de gürledi"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

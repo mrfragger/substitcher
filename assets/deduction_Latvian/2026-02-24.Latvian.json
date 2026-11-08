@@ -1,0 +1,61 @@
+{
+  "title": "Maldināšanas atbalss",
+  "intro": "Radniecības saites pārbaudīja skaudības uzplūds. Tika izšķilta slepena plāna ideja, iekustinot notikumu ķēdi, kas aptvēra gadus un šķērsoja milzīgus attālumus. Šīs grupas rīcība noveda pie dziļas šķiršanās un bēdām, taču stāsts ar to nebeidzās. Tas ir stāsts par maldināšanu, nožēlu un dievišķa plāna galīgo atklāsmi. Vai varat atklāt šo indivīdu identitāti, kuru izvēles atbalsojās paaudzēs?",
+  "clues": [
+    "Mūs pārņēma greizsirdība par pieķeršanos, kas tika izrādīta vienam no savējiem.",
+    "Savā skaudībā mēs sazvērējāmies un iemetām savu brāli/māsu akas tumsā.",
+    "Lai noslēptu savu rīcību, mēs tēvam uzdāvinājām apģērba gabalu, kas bija notraipīts ar viltus asinīm.",
+    "Pēc gadiem spēcīgs bads piespieda mūs doties uz Ēģipti meklēt pārtiku.",
+    "Tur mēs nonācām ietekmīga gubernatora priekšā, kurš, mums nezinot, bija tas pats brālis vai māsa, kuram bijām nodarījuši pāri.",
+    "Mūsu pēdējais pārbaudījums bija atvest mūsu jaunāko brāli Binjamīnu, kas atklāja mūsu pagātni un to, ka mūsu tēvs ir pravietis Jakubs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Ādama dēli (Kabils un Habils)",
+        "Pravieša Isas mācekļi",
+        "Pravieša Jusufa brāļi",
+        "Madjanas iedzīvotāji",
+        "Fir'awn burvji"
+      ],
+      "answer": "Pravieša Jusufa brāļi"
+    },
+    "trial": {
+      "label": "Kāds bija mūsu galvenais pārkāpums?",
+      "options": [
+        "Zelta teļa celtniecība pielūgsmei",
+        "Prasība redzēt Allāhu tieši",
+        "Pravieša izsmiešana par šķirsta būvēšanu",
+        "Maldinot savu tēvu un pametot savu brāli",
+        "Sabata laušana, makšķerējot"
+      ],
+      "answer": "Maldinot savu tēvu un pametot savu brāli"
+    },
+    "location": {
+      "label": "Kāds objekts bija mūsu maldināšanas centrālais elements?",
+      "options": [
+        "Iegravētu plāksnīšu komplekts",
+        "Krekls, kas notraipīts ar viltus asinīm",
+        "Zelta teļš",
+        "Skaists putns (pupuķe)",
+        "Personāla, kas pārvērtās par čūsku"
+      ],
+      "answer": "Krekls, kas notraipīts ar viltus asinīm"
+    },
+    "outcome": {
+      "label": "Kāds bija mūsu stāsta galīgais iznākums?",
+      "options": [
+        "Mūs iznīcināja spēcīgi plūdi",
+        "Mēs bijām pārvērsti par pērtiķiem",
+        "Mūs aprija zeme",
+        "Mums tika piedots, un mēs atkalapvienojāmies ar savu ģimeni",
+        "Mēs noslīkām jūrā"
+      ],
+      "answer": "Mums tika piedots, un mēs atkalapvienojāmies ar savu ģimeni"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

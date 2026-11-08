@@ -1,0 +1,61 @@
+{
+  "title": "Den orubbliga auktoriteten",
+  "intro": "Över forntida länder rådde en gång en mäktig auktoritet, som förfogade över enorma resurser och otaliga individers liv. Trots tydliga tecken och varningar valde denna härskare en trotsig väg, vilket ledde till en djup konfrontation som skulle eka genom tiden.",
+  "clues": [
+    "Jag gjorde anspråk på den yttersta makten och auktoriteten över ett vidsträckt domänområde.",
+    "Jag utmanade en ödmjuk budbärare sänd av alla rikens Herre.",
+    "Mitt folk var känt för sin behärskning av storslagna byggnader och floden som uppehöll vår civilisation.",
+    "Jag bevittnade många mirakulösa tecken, inklusive en stav som förvandlades till en orm och en hand som lyste starkt.",
+    "Jag vägrade att låta en grupp förslavade människor lämna mitt land, trots gudomliga befallningar.",
+    "Min förföljelse av det bortgående folket ledde mig och mina arméer in i hjärtat av ett delat hav."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Yusuf",
+        "Kung Talut",
+        "Fir'awn (Farao)",
+        "Profeten Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Farao)"
+    },
+    "trial": {
+      "label": "Viktig konfrontation",
+      "options": [
+        "Översvämningen som omslöt landet",
+        "Havets delning",
+        "Den brinnande busken",
+        "Byggandet av Kaba",
+        "Förstörelsen av en mäktig vind"
+      ],
+      "answer": "Havets delning"
+    },
+    "location": {
+      "label": "Definierande aspekt",
+      "options": [
+        "Ett talande djur",
+        "En stav och en glödande hand",
+        "En mirakulös födelse",
+        "En flygande matta",
+        "En majestätisk tron ​​på vattnet"
+      ],
+      "answer": "En stav och en glödande hand"
+    },
+    "outcome": {
+      "label": "Yttersta ödet",
+      "options": [
+        "Steg upp till himlen",
+        "Slukad av jorden",
+        "Drunknade i havet",
+        "Förvandlades till en apa",
+        "Givet enorm rikedom och makt"
+      ],
+      "answer": "Drunknade i havet"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

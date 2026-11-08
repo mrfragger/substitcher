@@ -1,0 +1,61 @@
+{
+  "title": "Siku ra Nkombiso wo Hetelela",
+  "intro": "Loko va vitaniwile eka nkombiso lowukulu wa matimba, ntlawa wa vayimbeleri lava nga ni vutshila wu tikume wu langutane ni ntiyiso lowu nga languteriwangiki lowu a wu ta cinca vutomi bya vona hilaha ku nga heriki.",
+  "clues": [
+    "A hi dume hi vutshila bya hina, vatshila va vukanganyisi ni vuxisi.",
+    "Hi vitaniwile hi mufumi leswaku hi ya langutana ni muphikizani loyi a a khome nhonga yo olova.",
+    "Loko hi vona ntiyiso, hi wile ehansi hi nkhinsama, hi twarisa ku pfumela eka Hosi ya misava.",
+    "Mufumi wa tihanyi u hi xungetile hi ku xupuriwa lokukulu, kambe a hi tsekatsekanga.",
+    "A hi ri exikarhi ka vo sungula ku pfumela eka rungula leri endzhaku ko vona xikombiso lexi nga erivaleni.",
+    "Hi dlayiwile hikwalaho ka ripfumelo ra hina, kambe hi ta va vo sungula ku nghena eParadeyisini ni lavo lulama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Vaendli va masalamusi va Faro",
+        "Vaisrayele",
+        "Vanhu va le Thamud",
+        "Vadyondzisiwa va Esa",
+        "Vuthu ra Abraha"
+      ],
+      "answer": "Vaendli va masalamusi va Faro"
+    },
+    "trial": {
+      "label": "Xikambelo / Xiendlakalo",
+      "options": [
+        "Mphikizano na Muprofeta Musa",
+        "Ku Aka Xihondzo",
+        "Ndhambi Leyikulu",
+        "Ntungu Wa Tinjiya",
+        "Lwandle Leri Avaneke"
+      ],
+      "answer": "Mphikizano na Muprofeta Musa"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Siku ra Nkhuvo",
+        "Nkova wa Tuwa",
+        "Doroba ra Iram",
+        "Ntanga wa Vutomi lebyi nga Heriki",
+        "Rivala ra Arafat"
+      ],
+      "answer": "Siku ra Nkhuvo"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Va vambiwile emahlweni ka vanhu",
+        "Va nwile elwandle",
+        "Va endliwe valandzeri va muprofeta",
+        "Va rhumeriwe evuhlongeni",
+        "Va hisiwe hi ndzilo"
+      ],
+      "answer": "Va vambiwile emahlweni ka vanhu"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

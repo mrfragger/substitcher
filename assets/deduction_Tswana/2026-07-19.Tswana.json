@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe le le sa Tlhokomelweng la Makgolokgolo a Dingwaga",
+  "intro": "Mo nakong e telele pele ga metse e megolo e tsoga, mowa o o nosi o ne wa tsoga mo gare ga batho ba ba neng ba fapogile boammaaruri. Botlhogoethata jwa bone bo ne bo tshwantshanngwa fela le bopelotelele jwa motho yono yo o neng a bitsa a le esi, yo o neng a kopa go ralala dikokomana a sa latlhegelwe ke boikemisetso. Fa ditlhagiso tsotlhe di ne di wela mo ditsebeng tse di sa utlweng, go bala go go neng go ise go ke go dirwe go ne ga bopa lefatshe ka bolone sesha. Gompieno, medumo ya kgang eo e sa ntse e utlwala fa e boeletswa nako le nako. A o ka lemoga moya ono o o ikemiseditseng?",
+  "clues": [
+    "Ke goletse mo gare ga batho ba ba neng ba obamela medingwana ya maaka mme ba itlhokomolosa ditshupo tse di ba dikologileng, le fa go ntse jalo ke ne ka tlhophiwa go ba tsosa mo go tlhokeng tlhokomelo ga bone.",
+    "Ke ne ke bitsa batho ba gaetsho gangwe le gape, mme ba ne ba ntatofatsa ka gore ga ke sepe fa e se motho yo o tshwanang le bone, ba sotla molaetsa wa me e bile ba ba bipa ditsebe.",
+    "Bosigo le motshegare, ke ne ke ba kopa ka botlhale le dikgopotso tse di bonolo, mme mafoko a me a ne a lebega a nyelela mo moweng, a sa utlwiwe e bile a sa tsewe tsia.",
+    "Ka fa tlase ga thuto ya Modimo, ke ne ka aga sejana se segolo sa dikota le mapolanka mo lefatsheng le le omileng, mme batho ba gaetsho ba ne ba ntshega jaaka motho yo o latlhegetsweng ke tlhaloganyo.",
+    "Fa morwalela o mogolo o tla jaaka go solofeditswe, morwaake ka boene o ne a gana go palama sekepe le nna, a dumela gore thaba e tla mo sireletsa mo metsing a a tlhatlogang.",
+    "Ke ne ka nna tlhogo ya lotso ya tshimologo e ntšhwa mo lefatsheng, mme kgang ya me e bolokilwe mo kgaolong ya Quran e e bidiwang ka lone leina la me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Nuh",
+        "Moporofeti Ibrahime",
+        "Moporofeti Musa",
+        "Moporofeti Lute",
+        "Moporofeti Hud"
+      ],
+      "answer": "Moporofeti Nuh"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Morwalela o Mogolo o o neng wa bopa lefatshe sesha",
+        "Go latlhelwa mo molelong o o tukang ke baobamedi ba medingwana",
+        "Go thulana le maselamotse a ga Faro kwa ntlong ya segosi",
+        "Go senngwa ga ditshingwana tse di atlegileng ke setsuatsue sa selegodimo",
+        "Go menolwa ga banni ba mesele"
+      ],
+      "answer": "Morwalela o Mogolo o o neng wa bopa lefatshe sesha"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka e agilwe ka dikota le mapolanka",
+        "Ntlo e e boitshepo e e agilweng mo metheong ya bogologolo",
+        "Lore lo lo neng lwa fetoga noga",
+        "Logaga lwa basha ba ba robetseng",
+        "Terone e e neng e tshotswe ke sebopiwa se se maatla"
+      ],
+      "answer": "Areka e agilwe ka dikota le mapolanka"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Baheitane ba ne ba nwela fa badumedi ba ne ba bolokwa ba le mo sekepeng",
+        "Molelo o ne wa tsidifala e bile o babalesegile, mme moletsi o ne a tswa a sa gobala",
+        "Maselamose a wela fa fatshe mme a amogela tumelo",
+        "Tshingwana e ne ya newa moagelani yo o siameng mo boemong jwa yone",
+        "Batho ba ba neng ba robetse ba ne ba tsoga morago ga makgolokgolo a dingwaga, ba fetogile"
+      ],
+      "answer": "Baheitane ba ne ba nwela fa badumedi ba ne ba bolokwa ba le mo sekepeng"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

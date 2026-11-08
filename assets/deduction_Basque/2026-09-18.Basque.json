@@ -1,0 +1,61 @@
+{
+  "title": "Haran Sakratuaren Deia",
+  "intro": "Historiaren orrialdeen atzean, agintari boteretsu baten eta esklabo bihurtutako herri oso baten artean egon zen arima baten istorioa dago. Pertsona honi nazio bat tiraniatik askatzeko deitu zioten, lege natural guztiak hausten zituzten mirariak eginez. Mendi sakratu batetik uretan zeharreko mirari bateraino, Alaren zerbitzari honek mendeetan zehar oihartzuna izango zuten seinaleak ikusi zituen. Gaurko zure zeregina gizateriaren historiaren ibilbidea moldatu zuen ondarearen pertsonaia bikain hau identifikatzea da.",
+  "clues": [
+    "Nire herriak dekretu hilgarri bati aurre egin behar zion garaian jaio nintzen, eta nire familiak uretan sartu ninduen nire bizitza salbatzeko.",
+    "Nire espeziekoen heriotza agindu zuen agintariaren etxean bertan aurkitu eta hazi ninduten.",
+    "Mendi sakratu batera ihes egin nuen, eta han sua ikusi nuen erretzen ez zen zuhaitz batean, eta ahots batek hitz egin zidan handik.",
+    "Mirariekin bidali ninduten agintari berarengana, nire esklabo herriaren askatasuna eskatuz.",
+    "Nire makilaz itsasoa jo nuen, eta bide lehorretan zatitu zen, nire herriaren atzetik zihoazen jazarleak irentsiz.",
+    "Berrogei gauz egon nintzen nire Jaunarekin mendi batean komunikatzen, eta jainkozko gidaritza-tabletak eman zizkidaten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musa profeta",
+        "Harun profeta",
+        "Ibrahim profeta",
+        "Yusuf profeta",
+        "Dawud profeta"
+      ],
+      "answer": "Musa profeta"
+    },
+    "trial": {
+      "label": "Nire Epaiketa Definitzailea",
+      "options": [
+        "Itsasoaren Banaketa",
+        "Arka Handia eraikitzen",
+        "Su biziaren proba",
+        "Balearen sabelean giltzapetuta",
+        "Egiptoko funtzionario batek espetxeratzea"
+      ],
+      "answer": "Itsasoaren Banaketa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Artzain baten makila",
+        "Egurrezko Arka Handi Bat",
+        "Denborak lo egin zuen kobazulo bat",
+        "Bi iturriko lorategi bat",
+        "Urrez apaindutako tronu bat"
+      ],
+      "answer": "Artzain baten makila"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Nire herriak itsasoa zeharkatu zuen segurtasunera",
+        "Uholde handi batek suntsitu zituen sinesgabeak",
+        "Tirano baten sua fresko eta baketsu bihurtu zen",
+        "Itsasoak bere gatibua kostaldera bota zuen",
+        "Gatibua Egiptoko Diruzain bihurtu zen"
+      ],
+      "answer": "Nire herriak itsasoa zeharkatu zuen segurtasunera"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

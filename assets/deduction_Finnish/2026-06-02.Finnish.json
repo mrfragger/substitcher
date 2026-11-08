@@ -1,0 +1,61 @@
+{
+  "title": "Nousevan auringon portin vartija",
+  "intro": "Koraanissa tietyt sielut kulkevat maan päällä jättäen jälkeensä viisauden ja ihmetyksen jälkiä. Yksi tällainen hahmo matkusti luomakunnan etäisimpiin pisteisiin – missä aurinko nousee ja laskee, missä este pidättelee kaaostakin. Tälle Allahin palvelijalle annettiin valtakunta, jota kukaan ei enää koskaan omistaisi. Kolmen erillisen matkan kautta tämän yksilön tarkoitus selvisi. Voitko tunnistaa tämän legendaarisen vaeltajan historian varjoista?",
+  "clues": [
+    "Armollisin antoi minulle vallan hallita maata tavalla, jollaista kukaan muu ei ole koskaan saavuttanut.",
+    "Matkustin länteen, kunnes saavuin paikkaan, jossa aurinko laskee, ja huomasin sen laskevan sameaan kevääseen, ja näin siellä ihmisiä.",
+    "Matkasin itään, kunnes saavuin paikkaan, josta aurinko nousee, ja näin sen nousevan kansan ylle, joille emme olleet tarjonneet suojaa siltä.",
+    "Kuljin noiden kahden ääripisteen välillä, kunnes saavuin kahden vuoren väliseen laaksoon, jossa kohtasin ihmisiä, jotka tuskin ymmärsivät puhetta.",
+    "Löysin vuorelta kaksi kovaa rautaestettä, jotka ulottuivat oikealle ja vasemmalle, ja niiden välissä kapean käytävän. Nämä ihmiset pyysivät minua murtamaan kaaosta pidättelevän esteen läpi.",
+    "Otin muonavaraani ja sanoin: \"Kun muuri murtuu, tämä on selvä ero meidän ja tämän kansan välille.\" Ja kun määräaika koitti, näin, kuinka muuri lopulta murtui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Profeetta Sulayman",
+        "Profeetta Ibrahim",
+        "Ghassaniyahin kuningas",
+        "Dhul-Qarnain Vaeltaja"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Rautaisen muurin murtaminen Yajujin ja Majujin asukkaiden puolesta",
+        "Laivan rakentaminen profeetan käskystä",
+        "Temppelin rakentaminen Jerusalemiin",
+        "Punaisenmeren ylitys uskovien ihmisten kanssa",
+        "Padon rakentaminen vanhurskaan kansakunnan suojelemiseksi"
+      ],
+      "answer": "Rautaisen muurin murtaminen Yajujin ja Majujin asukkaiden puolesta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Rautainen este kahden vuoren välissä",
+        "Laiva ankkuroituna vuorelle",
+        "Pyhä palvontapaikka Jerusalemissa",
+        "Joki Egyptin maassa",
+        "Siunausten lähde Madyanissa"
+      ],
+      "answer": "Rautainen este kahden vuoren välissä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Muuri murtui määräajan koittaessa, ja kaaos virtasi esiin",
+        "Epäuskoiset hukkuivat, kun taas uskovat pelastuivat",
+        "Vanhurskaat johdatettiin ikuiseen paratiisiin",
+        "Kaupungin tuhosi myrskytuuli",
+        "Epäjumalat murskattiin ja kansa katui"
+      ],
+      "answer": "Muuri murtui määräajan koittaessa, ja kaaos virtasi esiin"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Prasižengimas prie kranto",
+  "intro": "Stovite ant užmiršto kranto smėlio, kur bangos šnabžda apie dievišku įsakymu išbandytą bendruomenę. Oras prisotintas prisiminimų apie pažeidimą, sukėlusį stulbinančią transformaciją. Kas buvo šios sielos ir koks buvo jų išbandymas?",
+  "clues": [
+    "Buvome bendruomenė, gavusi aiškų Viešpaties įsakymą, tačiau radome būdų, kaip jį apeiti.",
+    "Gyvenome netoli vandens telkinio, todėl mūsų pragyvenimas priklausė nuo jo gyvių.",
+    "Tą dieną, kai mums buvo įsakyta susilaikyti nuo pasaulietiškų užsiėmimų, mus ištiko išbandymas.",
+    "Tą pačią dieną pas mus gausiai atėjo vandens gyvūnai, be galo gundydami mus.",
+    "Sugalvojome gudrų triuką, kaip apeiti dieviškąjį įsakymą, manydami, kad galime pergudrauti jį.",
+    "Mūsų prasižengimas vedė prie žeminančio virsmo; Alacho įsakymu tapome niekinamomis beždžionėmis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Šabo žmonės",
+        "Raso žmonės",
+        "Tubbos žmonės",
+        "Olos žmonės",
+        "Griovio palydovai"
+      ],
+      "answer": "Šabo žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Žuvų pasirodymas per šabą",
+        "Stiprios sausros metai",
+        "Prieš juos pasiųsta paukščių armija",
+        "Potvynis, kuris juos užliejo",
+        "Smurtinis žemės drebėjimas"
+      ],
+      "answer": "Žuvų pasirodymas per šabą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Jūra",
+        "Kalnas",
+        "Ola",
+        "Dykumos slėnis",
+        "Įtvirtintas miestas"
+      ],
+      "answer": "Jūra"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pavirto į beždžiones",
+        "Prarytas žemės",
+        "Sugriautas rėkiančio vėjo",
+        "Nuskendo jūroje",
+        "Akmenų lietus smogė"
+      ],
+      "answer": "Pavirto į beždžiones"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Natago nga Magtutuo",
+  "intro": "Sa maluho nga mga hawanan sa gahum, diin ang kawalay pagtuo ug pagpanglupig naghari, usa ka nag-inusarang tingog sa kamatuoran misulti gikan sa wala damha nga dapit. Kining tawhana mihagit sa awtoridad sa pagpanalipod sa usa ka mensahero, nga gibutang sa peligro ang ilang kaugalingong seguridad aron imantala ang kamatuoran.",
+  "clues": [
+    "Nagpuyo ako sa usa ka yuta sa dakong pagpanglupig, nag-alagad sa usa ka magmamando nga nag-angkon nga diosnon.",
+    "Gitago nako ang akong tinuod nga mga gituohan sulod sa daghang katuigan, nahadlok sa mga sangputanan sa pagbutyag niini.",
+    "Sa dihang miabot ang usa ka mensahero nga adunay klarong mga timaan, mituo ako, apan ang akong katawhan nagkunsabo batok kaniya.",
+    "Nagtindog ako atubangan sa malupigon ug sa iyang konseho, nga nangatarungan nga dili nila angay patyon ang usa ka inosenteng mensahero.",
+    "Gipasidan-an ko sila bahin sa silot sa nangaging mga nasod nga nagsalikway sa kamatuoran, sama sa katawhan ni Noah ug Ad.",
+    "Giluwas ako ni Allah gikan sa ilang dautang mga laraw, ug nasaksihan ko ang pagkaguba sa mapig-oton nga rehimen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang Magtutuo sa Pamilya ni Paraon",
+        "Ang Salamangkero ni Paraon",
+        "Ang Vizier sa Paraon",
+        "Ang Asawa ni Paraon",
+        "Ang Tresurero ni Paraon"
+      ],
+      "answer": "Ang Magtutuo sa Pamilya ni Paraon"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagdepensa sa usa ka propeta batok sa pagpatay",
+        "Paghagit sa mga limbong sa usa ka salamangkero",
+        "Pagtukod og tore aron makaabot sa langit",
+        "Pagbahin sa dagat aron makaikyas",
+        "Paghubad sa damgo sa usa ka hari"
+      ],
+      "answer": "Pagdepensa sa usa ka propeta batok sa pagpatay"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang korte sa Paraon",
+        "Ang nagdilaab nga sapinit",
+        "Ang bulawan nga nating baka",
+        "Ang atabay sa Madyan",
+        "Ang arka ni Propeta Nuh"
+      ],
+      "answer": "Ang korte sa Paraon"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naluwas gikan sa kadaot samtang ang mga malupigon gilaglag",
+        "Nahimong usa ka gamhanang magmamando",
+        "Gilabay sa kalayo ug migawas nga wala maunsa",
+        "Gilamoy sa yuta",
+        "Naglatagaw sa kamingawan sulod sa kwarenta ka tuig"
+      ],
+      "answer": "Naluwas gikan sa kadaot samtang ang mga malupigon gilaglag"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Barmhjertighedens og magtens udsendinge",
+  "intro": "Forestil dig en stille eftermiddag afbrudt af ankomsten af ​​ukendte rejsende. Deres udseende er almindeligt, men deres formål er alt andet end det. De bærer et guddommeligt budskab, der vil ændre to nationers kurs og bringe latter til et goldt hjem og rædsel til en syndig by. Hvem er disse mystiske besøgende?",
+  "clues": [
+    "Vi blev sendt til en hengiven tjener af Allah, kendt for sin grænseløse gæstfrihed.",
+    "Vi ankom i fremmedes skikkelse, og alligevel fornemmede vores vært noget overjordisk ved vores tilstedeværelse.",
+    "Vi bragte en nyhed, der fik en ældre kvinde til at le vantro og slog sig selv i ansigtet af forbløffelse.",
+    "Vi fik til opgave at beskytte en retfærdig familie, mens vi sendte ødelæggelse over en by præget af korruption.",
+    "Vi nægtede at deltage i det tilbudte måltid, hvilket kun forstærkede værtens mistanke.",
+    "Vi afslørede først vores sande natur før vi tog afsted, idet vi sagde: \"Sandelig, vi er jeres Herres sendebud.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Abrahams gæster",
+        "Jesu disciple",
+        "Hulens ledsagere",
+        "Abrahas hær",
+        "Ya-Sins budbringere"
+      ],
+      "answer": "Abrahams gæster"
+    },
+    "trial": {
+      "label": "Vores mission",
+      "options": [
+        "For at prøve Abrahams tro på sin søn",
+        "At overbringe skriften til Abraham",
+        "For at bekendtgøre Isaks fødsel og Lots folks udslettelse",
+        "At lede Abraham til Kabaen",
+        "For at redde Abraham fra ilden"
+      ],
+      "answer": "For at bekendtgøre Isaks fødsel og Lots folks udslettelse"
+    },
+    "location": {
+      "label": "Optrædensted",
+      "options": [
+        "I Egyptens land",
+        "I byen Ur",
+        "Hjemme hos Abraham",
+        "I Edens have",
+        "Ved Zamzams brønd"
+      ],
+      "answer": "Hjemme hos Abraham"
+    },
+    "outcome": {
+      "label": "Resultatet",
+      "options": [
+        "Abraham blev konge",
+        "Abraham byggede Kabaen",
+        "Sara fødte Isak, og Lots folk blev udryddet",
+        "Abraham emigrerede til Palæstina",
+        "Abrahams folk blev reddet fra en stor oversvømmelse"
+      ],
+      "answer": "Sara fødte Isak, og Lots folk blev udryddet"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

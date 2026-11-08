@@ -1,0 +1,61 @@
+{
+  "title": "Rasa Rindu di Kamar Suci",
+  "intro": "Anjeun lebet ka tempat suci anu sepi teras ningali saurang hamba Allah anu satia nangtung nuju solat. Leungeunna diangkat, panonna diangkat, sareng haténa ngandung rasa kangen anu parantos ngalangkungan hirupna. Saha jiwa anu sabar ieu anu kapercayaanana ka Allah henteu pernah goyah?",
+  "clues": [
+    "Abdi nyéépkeun waktos salami mangtaun-taun dina ibadah sareng ngadoa, nyaksian mujijat-mujijat anu nguatkeun iman abdi.",
+    "Abdi dipasihan tanggung jawab pikeun ngarawat jiwa ngora anu rahayu di tempat suci.",
+    "Nalika kuring beuki kolot, kasedih anu pangageungna nyaéta kuring teu gaduh anak, sabab pamajikan kuring mandul sareng kami duaan parantos sepuh.",
+    "Abdi ngado'a ka Gusti abdi supados aya panerus ti kulawarga abdi sorangan, jalmi anu bakal neraskeun warisan kenabian.",
+    "Nalika kuring nangtung di tempat solat, para malaikat nyauran kuring, pokna, 'Alloh masihan anjeun kabar gembira', sareng kuring ngarasa sieun sareng reuwas.",
+    "Kuring dibéjaan yén kuring bakal boga anak lalaki nu dingaranan Yahya, ngaran nu can pernah dibikeun ka saha waé samemehna, sarta minangka tanda kuring moal nyarita ka jalma salila tilu poé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Nabi Zakaria",
+        "Nabi Yahya",
+        "Nabi Isa",
+        "Nabi Dawud",
+        "Lukman nu Maha Wijaksana"
+      ],
+      "answer": "Nabi Zakaria"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Mandul jeung kolot bari miharep ahli waris anu soleh",
+        "Dilebur kana seuneu anu ngagedur",
+        "Ditelan ku lauk badag",
+        "Kaleungitan karajaan ku tiran",
+        "Diasingkeun ti tanah air"
+      ],
+      "answer": "Mandul jeung kolot bari miharep ahli waris anu soleh"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Mihrab (rohangan sholat)",
+        "Kapal ageung (Ark)",
+        "Rungkun anu ngaduruk",
+        "Tongkat anu robah jadi oray",
+        "Onta bikang Allah"
+      ],
+      "answer": "Mihrab (rohangan sholat)"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diberikeun putra anu soleh sareng nyarios deui saatos tilu dinten cicing",
+        "Ancur ku banjir kusabab teu percaya",
+        "Dibéré karajaan anu lega sareng kadali kana angin",
+        "Dileupaskeun tina beuteung lauk",
+        "Dileueut ku bumi"
+      ],
+      "answer": "Diberikeun putra anu soleh sareng nyarios deui saatos tilu dinten cicing"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

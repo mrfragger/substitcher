@@ -1,0 +1,61 @@
+{
+  "title": "Det glada budskapet i ålderdomen",
+  "intro": "Du bevittnar ett ögonblick där hoppet återuppväcks. Ett par, långt förbi föräldraskapets ålder, får ett löfte som trotsar naturens lagar. Mitt ibland dem står en figur vars blotta existens är ett tecken på gudomlig barmhärtighet – en själ ämnad för profetskap, som bär på ett arv som kommer att sträcka sig över generationer. Vem är denna anmärkningsvärda individ?",
+  "clues": [
+    "Jag föddes av föräldrar som hade uppnått hög ålder och inte hade några barn.",
+    "Min födelse tillkännagavs av änglar som kom som gäster till min familj.",
+    "Jag fick visdom och profetskap, och jag är omnämnd bland de tålmodiga.",
+    "Min far kallades Allahs vän, och jag var en gåva för honom under hans senare år.",
+    "Jag hade en bror som också var profet, och vi blev båda välsignade av vår Herre.",
+    "Min son var också en profet, och mina ättlingar fick skriften och profetskapet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Ishaq (Isaac)",
+        "Profeten Ismail (Ishmael)",
+        "Profeten Yaqub (Jakob)",
+        "Profeten Yahya (Johannes)",
+        "Profeten Uzair (Ezra)"
+      ],
+      "answer": "Profeten Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Född av äldre föräldrar",
+        "Kastad i en eld",
+        "Givet ett kungarike och rikedom",
+        "Ledde sitt folk ut ur Egypten",
+        "Byggde en ark för att rädda troende"
+      ],
+      "answer": "Född av äldre föräldrar"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Det glada budskapet om en son",
+        "Den brinnande busken",
+        "Guldkalven",
+        "Förbundsarken",
+        "Profetskapets stab"
+      ],
+      "answer": "Det glada budskapet om en son"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev en profet med en släktlinje av profeter",
+        "Blev en rik kung",
+        "Hans folk förintades för misstro",
+        "Han räddades från elden",
+        "Han fick förmågan att tala som spädbarn"
+      ],
+      "answer": "Blev en profet med en släktlinje av profeter"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

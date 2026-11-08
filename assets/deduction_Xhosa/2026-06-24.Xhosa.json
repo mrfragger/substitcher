@@ -1,0 +1,61 @@
+{
+  "title": "Umgcini weLangatye Elingacimiyo",
+  "intro": "Umntu umi emnyango wendawo eyoyikekayo kwindawo engabonakaliyo, enikwe umsebenzi ongenakufiswa ngomnye umntu. Xa imiphefumlo ebandezelekileyo ikhala icela inceba, impendulo eqatha ivakala emagumbini omlilo. Ungamtyhila na lo mlondolozi waphakade?",
+  "clues": [
+    "Ndimi emnyango wendawo eyoyikekayo yesohlwayo kwindawo engabonakaliyo.",
+    "Umlilo ovuthayo, ongacimiyo ngowona uphambili kumsebenzi wam obalulekileyo.",
+    "Imiphefumlo ebandezelekileyo ibiza igama lam, icela ukukhululeka kwintlungu yayo engapheliyo.",
+    "Xa becela uxolo, ndithi abayi kuphinda bamshiye.",
+    "Andingomntu, andingoJinn — ndingumntu odalwe ngokuthobela okumsulwa.",
+    "Ndingungelosi eyintloko emiselwe ukuba ngumlindi waphakade wesihogo somlilo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UMalik",
+        "UJibreel",
+        "UMikael",
+        "UHarut",
+        "IMarut"
+      ],
+      "answer": "UMalik"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Abantu baseSihogweni bacela ukuba intlungu yabo iphele",
+        "Ixilongo liyavuthelwa ukubonisa uMhla woMgwebo",
+        "I-Quran ityhilelwe entliziyweni yoMprofeti",
+        "Umprofeti uphoswa emlilweni omkhulu ngabantu bakhe",
+        "Udonga oluqinileyo lwakhiwe ukuze luthintele isizwe esonakeleyo"
+      ],
+      "answer": "Abantu baseSihogweni bacela ukuba intlungu yabo iphele"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isihogo Somlilo (iJahannam)",
+        "Umthi weLote kumda weParadesi",
+        "Ixilongo elihlabayo",
+        "Intonga eguquka ibe yinyoka",
+        "Itrone yobuthixo emangalisayo"
+      ],
+      "answer": "Isihogo Somlilo (iJahannam)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Abemi besiHogo baxelelwa ukuba baya kuhlala ngonaphakade",
+        "Abemi besiHogo bayaxolelwa baze bakhululwe",
+        "Abemi besiHogo banikwa ithuba lesibini lokukholwa",
+        "Abemi besiHogo bafuduselwa kwindawo epholileyo",
+        "Abemi besihogo batshatyalaliswa ngokupheleleyo yindudumo"
+      ],
+      "answer": "Abemi besiHogo baxelelwa ukuba baya kuhlala ngonaphakade"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

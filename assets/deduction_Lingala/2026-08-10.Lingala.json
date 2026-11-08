@@ -1,0 +1,61 @@
+{
+  "title": "Babateli ya kobuka mbuma ya sekele",
+  "intro": "Na mokili moko ya motane, etuluku moko ya bato basalaki mwango moko ya kobombana na nse ya ezipeli ya molili. Bazalaki na mokano moko, kasi mokano na bango ezalaki mosika na bosembo. Bayebaki te ete kobalusama moko ya bonzambe ezalaki kozela bango ntango bazalaki kolala.",
+  "clues": [
+    "Tozwaki ekateli makasi, kokanisaka ete mwango na biso ezalaki na mbeba te.",
+    "Tozalaki na mokano ya kobima ntɔngɔntɔngɔ, liboso kutu bato mosusu báningana.",
+    "Tofandaki na eteni ya mabele oyo ebotaka malamu, na elikya na biloko na biso.",
+    "Ntango tokómaki na esika oyo tozalaki kokende, tomonaki ete etikalaki mpamba mpe etikali mpamba, yango wana tokanisaki ete tobungi nzela.",
+    "Na nsima tososolaki ete ezalaki mpenza esika na biso, mpe togangaki na kozanga elikya, kopesana foti mpo na bobungisi na biso.",
+    "Tolapaki ndai na ntongo wana ya kolongola babola na mbuma na biso, kasi etumbu ya Allah eyaki likolo na biso tango tolalaki, kobongola elanga na biso na libebi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Bakolo elanga na Surah 68",
+        "Bato ya Saba",
+        "Ba Compagnons ya Libulu",
+        "Bato ya Nkoi",
+        "Bato ya Fosse"
+      ],
+      "answer": "Bakolo elanga na Surah 68"
+    },
+    "trial": {
+      "label": "Momekano na biso",
+      "options": [
+        "Elanga na biso ebebisamaki na likama moko oyo eutaki na likoló",
+        "Elanga na biso ekɔtaki na mpela",
+        "Elanga na biso ezikisamaki na mɔ́tɔ oyo eutaki na monguna",
+        "Elanga na biso etondaki na mayoyo",
+        "Elanga na biso emelamaki na koningana ya mabele"
+      ],
+      "answer": "Elanga na biso ebebisamaki na likama moko oyo eutaki na likoló"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Tolapaki ndai ete tokobuka mbuma na yango na ntɔngɔ",
+        "Totongaki barrage mpo na kosopela elanga na biso mai",
+        "Tolukaki ekimelo na libulu moko mpo na kobatelama",
+        "Tobongisaki limpinga moko mpo na kolonga bokonzi moko",
+        "Tokendeki na masuwa mpo na kokatisa mbu"
+      ],
+      "answer": "Tolapaki ndai ete tokobuka mbuma na yango na ntɔngɔ"
+    },
+    "outcome": {
+      "label": "Destin na biso",
+      "options": [
+        "Toyambolaki mpe tozalaki na elikya ya ngolu epai ya Allah",
+        "Tobebisamaki mobimba mpe toyambolaki soko moke te",
+        "Tokimaki mboka mpe tozongaki lisusu te",
+        "Tokómaki lisusu na nguya mpe na bozwi",
+        "Bapesaki biso etumbu na ndenge babongwanaki biso banyoka"
+      ],
+      "answer": "Toyambolaki mpe tozalaki na elikya ya ngolu epai ya Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

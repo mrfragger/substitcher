@@ -1,0 +1,61 @@
+{
+  "title": "Llais yr Euogfarn Gudd",
+  "intro": "Yng nghanol llys gormesol, lle'r oedd anghrediniaeth yn gyfraith y wlad, cerddodd enaid unig ar hyd rhaff dynn o ffydd ac ofn. Gwrandawodd yr unigolyn hwn, yn agos at ganol y pŵer, wrth i neges proffwyd gael ei chyfarch â dirmyg a bygythiadau. Cyrhaeddodd eiliad o wirionedd, gan orfodi'r person hwn i ddewis rhwng diogelwch tawel a dweud gwirionedd peryglus. A allwch chi ddatgelu hunaniaeth yr eiriolwr dewr hwn?",
+  "clues": [
+    "Roeddwn i'n byw o fewn cartref teyrn, gan weld â'm llygaid fy hun y balchder a wrthododd arwyddion dwyfol.",
+    "Cadwais fy ffydd yn gyfrinach, yn drysor cudd mewn palas o eilunaddoliaeth.",
+    "Clywais i'r arweinydd roeddwn i'n ei wasanaethu yn cynllwynio i ladd negesydd Allah, dyn o'r enw Musa.",
+    "Cwestiynais eu rhesymeg, gan eu hatgoffa o dynged pobl Nuh, 'Ad, a Thamud.",
+    "Gofynnais gwestiwn hollbwysig i'm pobl: 'Os yw'n gelwyddog, mae ei gelwydd arno; ond os yw'n onest, bydd rhywfaint o'r hyn y mae'n ei addo yn eich taro chi.'",
+    "Adroddir fy stori fel enghraifft o ffydd yn y surah o'r enw 'Y Maddeuwr,' lle rhybuddiais fy mhobl yn erbyn cynllwynion y rhai pwerus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Y Credadun o Deulu Fir'awn",
+        "Haman",
+        "Dewiniaid Fir'awn",
+        "Qarun",
+        "Y Samiri"
+      ],
+      "answer": "Y Credadun o Deulu Fir'awn"
+    },
+    "trial": {
+      "label": "Beth Oedd Fy Nghyfnod Prawf?",
+      "options": [
+        "Amddiffyn y Proffwyd Musa yn llys y teyrn",
+        "Adeiladu twr uchel i gyrraedd y nefoedd",
+        "Cael eich bwrw i dân llachar",
+        "Cael ei lyncu gan bysgodyn enfawr",
+        "Colli pob cyfoeth ac iechyd"
+      ],
+      "answer": "Amddiffyn y Proffwyd Musa yn llys y teyrn"
+    },
+    "location": {
+      "label": "Beth oedd thema fy nadl?",
+      "options": [
+        "Canlyniad gwrthod neges proffwyd",
+        "Y galw am arwydd o goeden gysegredig",
+        "Creu llo o emwaith tawdd",
+        "Gwyrth camel o graig",
+        "Dehongliad breuddwydion llywodraethwr"
+      ],
+      "answer": "Canlyniad gwrthod neges proffwyd"
+    },
+    "outcome": {
+      "label": "Beth Oedd y Canlyniad?",
+      "options": [
+        "Achubodd Allah yr unigolyn hwn rhag eu cynllwyn drwg",
+        "Derbyniodd y llys cyfan Islam ar unwaith",
+        "Edifarhaodd y teyrn ar yr eiliad y cafodd ei foddi",
+        "Llyncwyd y teyrn gan y ddaear",
+        "Cafodd yr unigolyn ei alltudio i wlad bell"
+      ],
+      "answer": "Achubodd Allah yr unigolyn hwn rhag eu cynllwyn drwg"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

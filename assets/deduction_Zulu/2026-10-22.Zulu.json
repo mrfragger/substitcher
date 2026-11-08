@@ -1,0 +1,61 @@
+{
+  "title": "Umphakathi Wesiphambeko Sokuqala",
+  "intro": "Ezweni lamadolobha asendulo, abantu bake bachuma. Babevakashelwa yisithunywa esinobizo olucacile, kodwa baphenduka balandela indlela okungekho muntu owake wayihamba. Indaba yabo iwukuvukela, ukonakala, kanye nesijeziso esashiya izwe lakubo njengesibonakaliso kubo bonke abacabangayo. Bangobani laba bantu?",
+  "clues": [
+    "Sasihlala emizini yasethafeni, lapho umprofethi wethu asibizela khona ekulungeni.",
+    "Sasingabantu bokuqala ukwenza isenzo esibi esingakaze senziwe muntu emhlabeni wonke ngaphambili.",
+    "Sasibamba abahambi futhi senza ububi obala emibuthanweni yethu.",
+    "Senqaba isithunywa esasithunywe kithi futhi sasongela ukusixosha ezweni lakithi.",
+    "Saphuthuma saya endlini yakhe sifuna ukuthi anikele izivakashi zakhe kithi.",
+    "Isijeziso sethu sasiyimvula yamatshe, futhi idolobha lethu laphenduka lawa phansi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abantu bakaLut",
+        "Abantu baseNuh",
+        "Abantu be-'Ad",
+        "Abantu baseThamud",
+        "Abantu baseMadyan"
+      ],
+      "answer": "Abantu bakaLut"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wenza isenzo sokuqala sobungqingili",
+        "Izithombe ezikhulekelwayo",
+        "Ukukhohliswa kwezohwebo",
+        "Babulala umprofethi wabo",
+        "Abazange balalele abazali babo"
+      ],
+      "answer": "Wenza isenzo sokuqala sobungqingili"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Idolobha lasethafeni",
+        "Umuzi womthombo",
+        "Idolobha lomsele",
+        "Idolobha lendlovu",
+        "Idolobha lensimu"
+      ],
+      "answer": "Idolobha lasethafeni"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Imvula ngamatshe futhi yagumbuqelwa",
+        "Ukuminza ngenxa yesikhukhula",
+        "Kubhujiswe umoya onamandla",
+        "Kugwinywe umhlaba",
+        "Ngishaywe ukuqhuma okukhulu"
+      ],
+      "answer": "Imvula ngamatshe futhi yagumbuqelwa"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

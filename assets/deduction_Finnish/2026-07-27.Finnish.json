@@ -1,0 +1,61 @@
+{
+  "title": "Uhri, joka muutti kohtaloa",
+  "intro": "Ihmiskunnan alkuaikoina sielu tarjosi lahjan puhtain aikein. Silti kateus väijyi hyväksynnän varjossa. Tutustu tämän hahmon tarinaan, jonka hurskaus ja traaginen loppu on ikuistettu jumalallisessa ilmoituksessa.",
+  "clues": [
+    "Kuuluin ihmiskunnan aivan ensimmäisiin sukupolviin.",
+    "Toin uhrilahjan Herralleni, ja se otettiin vastaan ​​suosionosoituksella.",
+    "Veljeni uhri torjuttiin, ja kateus pimensi hänen sydämensä.",
+    "Sanoin hänelle: \"Jos ojennat kätesi minua kohti tappaaksesi minut, en ojenna kättäni tappaakseni sinua; totisesti, minä pelkään Allahia, maailmojen Herraa.\"",
+    "Minusta tuli maan ensimmäisen murhan uhri.",
+    "Vereni huusi, ja minusta tuli ensimmäinen viattomuuden marttyyri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Kain)",
+        "Mies Ya-Sinistä",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Hänen uhrinsa hyväksyttiin, mikä aiheutti hänen veljensä kateuden ja murhan",
+        "Hänet heitettiin tuliseen pätsiin, mutta hän selvisi vahingoittumattomana",
+        "Hän rakensi jumalallisen ohjauksen alaisena valtavan laivan",
+        "Suuri kala nielaisi hänet, ja hän pysyi pimeydessä",
+        "Hän johdatti kansansa halki jakautuneen meren"
+      ],
+      "answer": "Hänen uhrinsa hyväksyttiin, mikä aiheutti hänen veljensä kateuden ja murhan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Hyväksytty tarjous",
+        "Sauva muuttumassa käärmeeksi",
+        "Naaraskameli jumalallisena merkkinä",
+        "Harjapää tuo uutisia",
+        "Kultaista vasikkaa palvottiin"
+      ],
+      "answer": "Hyväksytty tarjous"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Historian ensimmäinen murha; hänen veljensä tuomittiin",
+        "Maa nieli hänet rikkauksineen",
+        "Muuttuneet apinoiksi rikkomuksen vuoksi",
+        "Raivoisan, jäisen tuulen tuhoama",
+        "Hukkui suureen tulvaan rangaistuksena"
+      ],
+      "answer": "Historian ensimmäinen murha; hänen veljensä tuomittiin"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

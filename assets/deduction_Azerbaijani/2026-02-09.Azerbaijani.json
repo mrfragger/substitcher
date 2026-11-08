@@ -1,0 +1,60 @@
+{
+  "title": "Dalğaların Altında Sınaq",
+  "intro": "Missiyasının yükü altında olan bir peyğəmbər, onu qövmündən uzaqlaşdıran və gözlənilməz bir sınaqla qarşılaşdıran bir qərar verdi. Onun səyahəti dramatik bir dönüş etdi və imanını və səbrini ən dərin şəkildə sınadı. Verilən ipuçlarından bu qeyri-adi hadisənin təfərrüatlarını çıxara bilərsinizmi?",
+  "clues": [
+    "Bir qövmə bir peyğəmbər göndərildi, amma o, onların rədd edilməsindən məyus olaraq tələsik getdi.",
+    "Səyahəti onu dənizə apardı və orada ağır yüklü bir gəmiyə minərək yol axtardı.",
+    "Gəmini təhlükə altına qoyan güclü bir fırtına başladı və püşkatma yolu ilə yükü yüngülləşdirmək üçün bir nəfəri dənizə atmaq qərarı verildi.",
+    "O, dərinliklərdəki bir məxluq tərəfindən uduldu, bu, İlahi iradənin hökmü ilə baş verən möcüzəvi bir hadisə idi.",
+    "Məxluqatın qarnının içində, qaranlıqda tövbə edərək və Allahı tərifləyərək Rəbbinə yalvardı.",
+    "Bir müddət gərgin duadan sonra o, zəif, lakin sağ halda qısır bir sahilə atıldı və daha sonra geri qayıdanda xalqının nəhayət iman gətirdiyini gördü."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Peyğəmbər/Şəxs",
+      "options": [
+        "Nuh peyğəmbər",
+        "Lut peyğəmbər",
+        "Musa peyğəmbər",
+        "Yunus peyğəmbər",
+        "Yusif peyğəmbər"
+      ],
+      "answer": "Yunus peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Nuhun tufanı",
+        "Sodomun məhv edilməsi",
+        "Böyük balığın qarnında səyahət",
+        "Dənizin iki yerə bölünməsi",
+        "Yanan kolun vəhyi"
+      ],
+      "answer": "Böyük balığın qarnında səyahət"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Sina dağı",
+        "Musanın əsası",
+        "Böyük Balıq",
+        "Yusif quyusu"
+      ],
+      "answer": "Böyük Balıq"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bəşəriyyətlə yeni bir əhd",
+        "Xalqı üçün möcüzəvi bir doğuş",
+        "Onun nəsli üçün qurulmuş bir krallıq",
+        "O vaxt iman gətirən xalqına qayıdış",
+        "Zalım bir hökmdar üzərində qələbə"
+      ],
+      "answer": "O vaxt iman gətirən xalqına qayıdış"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

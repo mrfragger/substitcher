@@ -1,0 +1,61 @@
+{
+  "title": "Kawayen da Ba Ya Taɓawa A Gwaji na Zinare",
+  "intro": "A cikin inuwar babban annabi, an zaɓi ruhin iya magana da imani don taimakawa a cikin wani babban aiki. Wannan mutum ya tsaya cak lokacin da jama'a suka yi ta karkacewa, suna wa'azi game da wani laifi da ke barazana ga ainihin tauhidi. Lokacin da annabin ya dawo ya shaida mutuwar mutane, kare wannan mutum ba na laifi ba ne amma na wajibi da tsoron rarrabuwar kawuna. Wanene wannan bawan Allah mai himma?",
+  "clues": [
+    "Allah ya zaɓe ni don wani aiki mai tsarki tare da wani, kuma aikina shine goyon baya da shela.",
+    "An ba ni cikakken bayani game da magana, kuma na raka wani manzo don fuskantar wani mai ƙarfi azzalumi.",
+    "A lokacin wata tafiya mai mahimmanci, manzo ya hau dutse ni kaɗai, ya bar ni in kula da mutanen.",
+    "A lokacin da ba su nan, mutanen sun ƙera gunki na zinariya, na roƙe su da su ci gaba da kasancewa da aminci, amma suka ƙi shawarata.",
+    "Lokacin da ɗan saƙon ya dawo, cike da fushi da baƙin ciki, aka kama ni, amma na yi bayani cewa an rinjaye ni kuma ina jin tsoron haifar da rashin jituwa a tsakaninsu.",
+    "Ni ne annabin da ya tsaya kusa da Musa, ɗan'uwana, ina raba nauyinsa da kuma tsayawa tsayin daka kan bautar gumaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Haruna",
+        "Annabi Musa",
+        "Annabi Isa",
+        "Annabi Dawuda",
+        "Annabi Zakariyya"
+      ],
+      "answer": "Annabi Haruna"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Mutane sun bauta wa ɗan maraƙin zinariya duk da gargaɗin da aka yi musu",
+        "Mutane sun jefa ni cikin wuta mai zafi",
+        "Wani babban kifi ya haɗiye ni",
+        "An daure ni bisa zargin karya",
+        "An kore ni daga birnina saboda wa'azi"
+      ],
+      "answer": "Mutane sun bauta wa ɗan maraƙin zinariya duk da gargaɗin da aka yi musu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ɗan Maraƙin Zinare",
+        "Dajin da ke Konewa",
+        "Sanda da ta zama maciji",
+        "Allunan Alkawari",
+        "Akwatin Alkawari"
+      ],
+      "answer": "Ɗan Maraƙin Zinare"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An wanke ni kuma na ci gaba da aikin annabci na",
+        "An hukunta ni saboda zunubin mutane",
+        "An ba ni sabuwar ƙasa don in jagorance ta",
+        "An ɗauke ni zuwa sama da raina",
+        "An naɗa ni mai mulki a kan wani masarauta"
+      ],
+      "answer": "An wanke ni kuma na ci gaba da aikin annabci na"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

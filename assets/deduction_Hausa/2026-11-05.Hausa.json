@@ -1,0 +1,61 @@
+{
+  "title": "waƙar duwatsu da magariba",
+  "intro": "Ku saurara yayin da kwaruruka ke rera waƙa tare da wani bawan Allah da aka zaɓa. Murya mai baiwa da waƙa, hukunci da masu jayayya ke nema a ɗakin, da ƙarfe da aka sassauta da umarnin Allah suna jiran a gano. Wace siffar bauta da adalci ce ke magana ta waɗannan alamu?",
+  "clues": [
+    "Allah ya albarkace ni da falala da kuma muryar yabo mai daɗi.",
+    "Allah ya koya min fahimtar harshen adalci tsakanin masu jayayya.",
+    "Na fuskanci wani babban jarumi a yaƙi kuma da yardar Allah na yi nasara a kansu.",
+    "An ba ni hikima, iko da kuma littafin zabura da aka saukar daga Allah.",
+    "Duwatsu da tsuntsaye sun haɗu da ni suna tasbihi tare da ni da yamma da kuma fitowar rana.",
+    "Allah ya koya min yadda ake yin riguna na ƙarfe da aka yi da ƙarfe wanda aka yi mini laushi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Dawud (Dauda)",
+        "Annabi Isma'ila (Annabi Isma'ila)",
+        "Annabi Yahaya (Yahaya)",
+        "Dhul-Kifl",
+        "Annabi Al-Yasa (Elisha)"
+      ],
+      "answer": "Annabi Dawud (Dauda)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ya kayar da Jalut (Goliath) a yaƙi da yardar Allah",
+        "Gina Jirgin Ruwa domin ya tsira daga babban ambaliyar ruwa",
+        "An jefa shi cikin wuta wanda Allah ya sanyaya ta",
+        "Babban kifi a cikin teku ya haɗiye shi",
+        "An ɗaga shi zuwa sama ba tare da ya ɗanɗana mutuwa ba"
+      ],
+      "answer": "Ya kayar da Jalut (Goliath) a yaƙi da yardar Allah"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Duwatsu da tsuntsaye suna haɗuwa don yabon Allah",
+        "Sanda da ta rikide ta zama maciji",
+        "Wutar da ta zama mai sanyi da kwanciyar hankali",
+        "Raƙumi da aka aika a matsayin alama ga mutane",
+        "Akwatin katako da ke kan Dutsen Judi"
+      ],
+      "answer": "Duwatsu da tsuntsaye suna haɗuwa don yabon Allah"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba shi sarauta, hikima, da kuma Zabur (Zabura)",
+        "An ba wa ɗa bayan ya tsufa bayan addu'a mai ƙarfi",
+        "An ba da aminci a cikin kogo na tsawon shekaru masu yawa",
+        "An ba da maɓuɓɓugar Zamzam a cikin hamada",
+        "An ba da izinin nutsar da rundunar a cikin teku"
+      ],
+      "answer": "An ba shi sarauta, hikima, da kuma Zabur (Zabura)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

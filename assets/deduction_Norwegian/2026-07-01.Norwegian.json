@@ -1,0 +1,61 @@
+{
+  "title": "Den navnløse sjelen som sto imot en urettferdig nasjon",
+  "intro": "På Koranens sider finnes det skikkelser hvis navn ble holdt tilbake for at vi skal kunne reflektere over lærdommene deres. En slik sjel ble født blant en nasjon som hadde avvist sine sendebud, men denne personen hadde en skjult tro som skilte dem ut. Da ødeleggelsen truet, sto denne personen fast i sin hemmelige tro. Kan du avsløre identiteten til denne mystiske skikkelsen som advarer folket sitt før den endelige befalingen kommer?",
+  "clues": [
+    "Jeg levde blant et folk som gjentatte ganger hadde fornektet sendebudene som Allah hadde sendt til dem.",
+    "I motsetning til min nasjon, gjenkjente jeg sannheten da et sendebud ankom med klare tegn fra min Herre.",
+    "Jeg skjulte min tro for mine undertrykkere, vel vitende om at de ville skade meg hvis de oppdaget min tro.",
+    "Da straffebudet nærmet seg, erklærte jeg åpent min troskap og advarte mitt folk om å redde seg selv.",
+    "Jeg minnet dem på at jeg er et betrodd sendebud, ikke ulikt de som ble sendt før, og at de ikke skal tilbe noen annen enn Allah.",
+    "Mitt folk anklaget meg for trolldom og galskap, men straffen de ble advart om, innhentet dem til slutt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Hud, sendebudet til folket i Aad",
+        "En troende mann fra profeten Huds nasjon som led martyrdøden",
+        "Herskeren over Aad-folket som avviste sannheten",
+        "En følgesvenn av profeten Salih som tvilte på de guddommelige tegnene",
+        "En engel sendt for å ødelegge folket i Aad"
+      ],
+      "answer": "En troende mann fra profeten Huds nasjon som led martyrdøden"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Tørke- og hungersnødens prøvelser som testet tålmodigheten deres",
+        "Rettssaken med å erklære tro foran en undertrykkende vantro nasjon",
+        "Prøven med å bygge et skip for å unnslippe en stor flom",
+        "Prøvelsen med å bli kastet i ilden for troen på Allah",
+        "Prøvelsen med å bli testet med rikdom og velstand"
+      ],
+      "answer": "Rettssaken med å erklære tro foran en undertrykkende vantro nasjon"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Byen Mekka hvor det hellige huset ble bygget",
+        "Ørkenslettene til nasjonen som fornektet sitt budbringer",
+        "Midjans fjell, hvor profeten Shu'aib ble sendt",
+        "Elvebredden i Egypt der profeten Musa ble funnet",
+        "Aad-folkets dal, truffet av en voldsom vind"
+      ],
+      "answer": "Ørkenslettene til nasjonen som fornektet sitt budbringer"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Jeg ble reddet i et skip og levde inntil Allah ville",
+        "Mitt folk trodde etter meg og ble ledet til den rette veien",
+        "Jeg ble drept av mitt folk, men sjelen min ble tatt av Allahs nåde",
+        "Jeg angret etter å ha blitt prøvd, og Allah aksepterte min anger.",
+        "Jeg ble forvandlet til et avgud som ble tilbedt av mitt folk etter min død"
+      ],
+      "answer": "Jeg ble drept av mitt folk, men sjelen min ble tatt av Allahs nåde"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

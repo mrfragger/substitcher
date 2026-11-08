@@ -1,0 +1,61 @@
+{
+  "title": "Yr Adlais o Ymyl y Ddinas",
+  "intro": "Mewn dinas a drodd oddi wrth arweiniad dwyfol, ymddangosodd ffigur unig o'r cyrion, yn rasio â neges o obaith a rhybudd. Byddai'r enaid anghofiedig hwn yn dod yn symbol tragwyddol o ffydd ddiysgog.",
+  "clues": [
+    "Gwelais negeswyr yn cael eu hanfon i'm dinas, ond fe'u diystyriodd fy mhobl fel bodau dynol cyffredin.",
+    "Credais yn eu neges a theimlais y gwirionedd yn atseinio yn fy mywyd.",
+    "Gelwais ar fy mhobl i ufuddhau i'r negeswyr nad oeddent yn gofyn am unrhyw wobr.",
+    "Rhedais o ben pellaf y ddinas, gan geisio’n frys eu gwneud nhw’n gweld rheswm.",
+    "Cododd fy mhobl yn fy erbyn, a lladdwyd fi, ond cefais heddwch tragwyddol.",
+    "Dywedodd Allah wrthyf, 'Ewch i mewn i Baradwys,' a dymunais y gallai fy mhobl weld yr anrhydedd a roddwyd i mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Credwr Ya-Sin",
+        "Uzair yr Holiwr",
+        "Al-Khidr y Tywysydd",
+        "Credwr Teulu Pharo",
+        "Namrud y Teyrn"
+      ],
+      "answer": "Credwr Ya-Sin"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Wynebu pobl anghrediniol a'i laddodd",
+        "Cael eich taflu i dân llachar",
+        "Cael eich llyncu gan bysgodyn mawr",
+        "Adeiladu arch enfawr",
+        "Ffoi rhag byddin teyrn"
+      ],
+      "answer": "Wynebu pobl anghrediniol a'i laddodd"
+    },
+    "location": {
+      "label": "Lleoliad Allweddol",
+      "options": [
+        "Pen pellaf y ddinas",
+        "Mynydd Tur",
+        "Dyffryn y Morgrug",
+        "Glannau'r Nîl",
+        "Ogof yr ogof"
+      ],
+      "answer": "Pen pellaf y ddinas"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Merthyrdod a mynediad ar unwaith i Baradwys",
+        "Dihangfa ac iachawdwriaeth",
+        "Esgyniad i'r nefoedd",
+        "Boddi yn y môr",
+        "Troi'n garreg"
+      ],
+      "answer": "Merthyrdod a mynediad ar unwaith i Baradwys"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

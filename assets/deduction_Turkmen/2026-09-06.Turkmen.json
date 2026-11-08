@@ -1,0 +1,61 @@
+{
+  "title": "Altyn göleniň kowulmagy",
+  "intro": "Gurhanda agzalýan bir şahsyýet, beýik pygamberiň ýoklugynda köp adamy azgynlyga alyp gitdi. Altyndan ýasalan bir zat tutuş milletiň ýüregini eýeledi - ýöne bu şahsyýetiň hekaýasy ýalňyzlyk we geň nälet bilen gutarýar. Bu kowlup çykarylan kim bolup biler?",
+  "clues": [
+    "Men ylahy ýol görkezmek üçin göge çykan beýik pygamberiň ýok wagtynda peýda boldum.",
+    "Men öz elim bilen döreden zadym bilen köp adamyň ýoluny azdyrdym.",
+    "Meniň döreden altyn eserime janly ýaly görünýärdi, ol ony yzarlaýanlary haýran galdyrýan sesleri çykarýardy.",
+    "Men başgalaryň görüp bilmeýän zadyny — görünmeýän zadyň bir bölegini — gördüm diýip öňe sürdüm.",
+    "Men ilahi ilçiniň yzlaryndan bir zat çykaryp, ony ereýän metala guýdum.",
+    "Men ýeke özüm gezmäge höküm edildim, hiç kim meniň derime, men bolsa olaryň derisine degip bilmejek özboluşly nälet bilen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Fyrawn (Fyrawn)",
+        "Abu Lahab",
+        "Salih pygamber"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Sežde etmek üçin altyn göle döretdi",
+        "Göklere ýetýän bir diň gurdy",
+        "Müsüriň jadygöýlerine garşy çykdy",
+        "Uçýan haýwanlar bilen goşuna ýolbaşçylyk etdi",
+        "Pygamberligiň subutnamasy hökmünde aýy bölüň"
+      ],
+      "answer": "Sežde etmek üçin altyn göle döretdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Altyn göle",
+        "Ýylana öwrülen taýajyk",
+        "Dagda ýanýan gyrymsy agaç",
+        "Depede duran gämi",
+        "Ýanýan ot bilen doldurylan hendek"
+      ],
+      "answer": "Altyn göle"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Sürgün edilen, başgalara degmek ýa-da olara degmek gadagan edilen",
+        "Goşun bilen birlikde deňizde gark boldy",
+        "Ynanjy ret edendigi üçin diriligine ýakyldy",
+        "Güýçli, gürrüldäp duran ýel bilen urlup ýykyldy",
+        "Bagyşlandy we ýokary derejä göterildi"
+      ],
+      "answer": "Sürgün edilen, başgalara degmek ýa-da olara degmek gadagan edilen"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

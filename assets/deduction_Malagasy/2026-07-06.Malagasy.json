@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanahy ao Ao Ambadiky ny Sampy",
+  "intro": "Tao anatin'ny aloky ny fialana lehibe avy amin'ny jadona, niandry tany an'efitra ity olona mistery ity. Raha niakatra tendrombohitra masina ho amin'ny fanasan'Andriamanitra ny mpitarika ny vahoaka voafidy, dia nisy fitsapana lehibe nihatra tamin'ireo sisa tavela. Nanararaotra ny fotoana ity olona ity mba hanovana ny finoan'ny vondrom-piarahamonina iray manontolo. Rehefa niverina nitondra ny fahamarinana ilay mpitarika, dia nisy sazy miavaka sy mandrakizay navoaka. Azonao fantarina ve hoe iza ity fanahy mampiady hevitra sy fetsy ity?",
+  "clues": [
+    "Niara-dia tamin'ny vahoaka izay nafahana tamin'ny fampahoriana mahery vaika tamin'ny alalan'ny famantarana mahagaga aho.",
+    "Rehefa niakatra tany an-tendrombohitra ny mpitarika azy ireo mba handray toromarika, dia niandry teo anivon'ireo nijanona tao aoriana aho.",
+    "Nanangona metaly sarobidy avy tamin'ny haingony aho ary namolavola izany ho zavatra izay mamoaka feo.",
+    "Tamin'ny alalan'ity zavaboary ity no nandresen-dahatra ny taranaka iray manontolo fa nahita ny Andriamaniny tany an'efitra izy ireo.",
+    "Rehefa niverina ilay mpitarika dia nosinganina aho ary nanontaniana hoe inona no nanosika ahy hanao izany fitaka izany.",
+    "Ny sazy ho ahy teto amin'ity izao tontolo izao ity dia ny tsy hisian'olona hikasika ahy na hanakaiky ahy, mariky ny henatra izay zakaiko mandrakizay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny Samiri",
+        "Mpaminany Musa",
+        "Ireo mpanao majika an'i Farao",
+        "Hamana, mpanompon'i Farao",
+        "Iblis, ilay nolavina"
+      ],
+      "answer": "Ny Samiri"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny fanaovana ny ombilahy kely volamena",
+        "Ny fifandonana tamin'i Farao",
+        "Ny fanamboarana sambo fiara lehibe iray",
+        "Ny tsy nety niankohoka teo anatrehan'i Adama",
+        "Ny faharavan'ny tanànan'i Lota"
+      ],
+      "answer": "Ny fanaovana ny ombilahy kely volamena"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Sampy zanak'omby volamena",
+        "Tehina niova ho menarana",
+        "Ramevavavy iray nivoaka avy tao anaty vatolampy",
+        "Sambofiara naorina teo ambonin'ny tendrombohitra",
+        "Seza fiandrianana entin'ny rivotra"
+      ],
+      "answer": "Sampy zanak'omby volamena"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voaheloka ho tsy azo kasihina, ary miteny foana hoe 'tsy misy fifandraisana'",
+        "Nilentika teo akaikin'ny mpitondra jadona sy ny tafiny",
+        "Atsipy ao anaty afo izay lasa mangatsiaka sy milamina",
+        "Voagejan'ny fahajambana noho ny fandavana ny fahamarinana",
+        "Nafoin'ny havany saro-piaro tao anaty lavaka"
+      ],
+      "answer": "Voaheloka ho tsy azo kasihina, ary miteny foana hoe 'tsy misy fifandraisana'"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

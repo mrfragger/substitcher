@@ -1,0 +1,61 @@
+{
+  "title": "Custos Signi Divini",
+  "intro": "Intra profundum sanctuarium sacrum, anima benedicta sub divina cura nutriebatur. Hic homo destinatus erat ut partes maximas in evento miraculoso ageret, testimonium potentiae et sapientiae infinitae Dei factus. Iter eorum veritatem profundam patefecit, perceptiones provocans et signum unicum pro tota humanitate statuens.",
+  "clues": [
+    "Ab Allah electa et purificata sum prae omnibus feminis mei temporis.",
+    "Sub tutelam iusti prophetae traditus sum, qui victum in cubiculo meo precum miraculose provisum invenit.",
+    "Me a familia mea in locum privatum segregavi ut Deum adorarem.",
+    "Apparuit mihi angelus in forma viri perfecti, nuntium afferens de filio puro, quamquam nullum virum cognoveram.",
+    "Post dolores partus, mihi mandatum est ut truncum palmae quaterem, ut novum victum invenirem.",
+    "Cum ad meos redii infantem meum recens natum portantes, me interrogaverunt, sed filius meus infans miraculose e cunis pro me locutus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Sara (uxor prophetae Ibrahimi)",
+        "Hajar (mater prophetae Ismail)",
+        "Bilqis (Regina Sabae)",
+        "Asiya (uxor Pharaonis)",
+        "Maria (Maria)"
+      ],
+      "answer": "Maria (Maria)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum diluvium quod gentem infidelem delevit",
+        "In ignem ardentem conici propter idola neganda",
+        "Mirabilis partus infantis sine patre",
+        "A balaena deglutitus propter missionem deseruisse",
+        "Destructio urbis propter actiones immorales"
+      ],
+      "answer": "Mirabilis partus infantis sine patre"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus aureus",
+        "Arca Foederis",
+        "Sacra cella precum (Mihrab)",
+        "Avis loquens (Hudhud)",
+        "Baculus qui in serpentem conversus est"
+      ],
+      "answer": "Sacra cella precum (Mihrab)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Aedificatio templi magnifici",
+        "Maris divisio ut populus transiret",
+        "Puer qui ab cunis pro parente locutus est",
+        "Revelatio libri divini ad humanitatem dirigendam",
+        "Regnum vento et jinn beatum"
+      ],
+      "answer": "Puer qui ab cunis pro parente locutus est"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

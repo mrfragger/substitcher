@@ -1,0 +1,61 @@
+{
+  "title": "L-Armata li ntlaqgħet minn Flying Clay",
+  "intro": "Fl-era ta’ qabel il-Profeta Muhammad, ħakkiem qawwi mill-Jemen nieda kampanja militari bil-għan li jeqred santwarju sagru f’Mekka. Dan l-għadu mexxa armata vasta kompluta b’iljunfanti tal-gwerra, kunfidenti fis-saħħa u n-numru tagħhom. Madankollu, il-vjaġġ tagħhom intemm ħesrem hekk kif iltaqgħu ma’ intervent divin mhux mistenni. Tista’ tidentifika min iffaċċja dan il-ġudizzju notevoli?",
+  "clues": [
+    "Immarċjajna b'armata enormi u iljunfanti tal-gwerra qawwija lejn id-dar sagra",
+    "Kellna l-ħsieb li nqerdu u neqirdu post ta’ qima mibni mill-qaddejja tal-Aktar Ħanin",
+    "Intbagħtet merħla għasafar żgħar kontrina, iġorru ġebel tat-tafal fil-munqar u d-dwiefer tagħhom",
+    "Iltqajna ma’ ħoss li waddab ġebel fuqna, u biddilna fi fdalijiet mitfugħin",
+    "Jiena kont mill-art tal-Jemen u servejt taħt ħakkiem li ried isalva s-santwarju sagru",
+    "Konna ta’ eżempju għal dawk li jissograw jisfidaw is-santwarju ta’ Alla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "L-Armata ta' Abraha al-Ashram",
+        "Il-Forzi Etjopjani",
+        "Il-Konkwistaturi Persjani",
+        "Il-leġjuni Rumani",
+        "Il-Bedwini Raiders"
+      ],
+      "answer": "L-Armata ta' Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Assedju ta’ fortizza fid-deżert",
+        "Invażjoni tas-santwarju sagru f’Mekka",
+        "Battalja navali fuq il-baħar",
+        "Ribelljoni kontra sultan tirann",
+        "Tfittxija għal profeta mitluf"
+      ],
+      "answer": "Invażjoni tas-santwarju sagru f’Mekka"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-wied ta’ Mina ħdejn Mekka",
+        "Il-palazz ta' Sana'a fil-Jemen",
+        "Il-muntanji ta’ Tihamah",
+        "Il-belt antika ta’ Ġerusalemm",
+        "Ix-xtut tal-Baħar l-Aħmar"
+      ],
+      "answer": "Il-wied ta’ Mina ħdejn Mekka"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Rebħa u qerda tad-dar sagra",
+        "Telfa minn għasafar li jġorru ġebel tat-tafal",
+        "Ċediment u konverżjoni paċifika",
+        "Il-ġuħ u d-diżastri naturali",
+        "Irtirar minħabba xita qawwija"
+      ],
+      "answer": "Telfa minn għasafar li jġorru ġebel tat-tafal"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

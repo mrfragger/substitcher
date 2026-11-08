@@ -1,0 +1,61 @@
+{
+  "title": "Resničen glas antičnih časov",
+  "intro": "V Koranu je duša, katere zgodba je povedana v le nekaj verzih, a njene plemenite lastnosti sijejo z briljantno jasnostjo. Ta starodavni služabnik Najbolj Usmiljenega, ki ga je Vsemogočni pohvalil zaradi posebne vrline, ima mesto na straneh razodetja. Vaša naloga je prepoznati to izjemno osebnost. Ali lahko uganete, kdo so?",
+  "clues": [
+    "Sem Alahov prerok, ki je živel med prvimi generacijami človeštva.",
+    "Allah me je omenil v svoji knjigi skupaj z drugimi preroki, vsi pa so bili hvaljeni zaradi iste plemenite vrline.",
+    "V Koranu sem opisan kot človek resnice.",
+    "Alah me je dvignil na visok položaj, ki ga je doseglo le malo drugih.",
+    "Moje ime je omenjeno v suri Al-Anbija, skupaj z dvema drugima prerokoma, hvaljenima za njuno potrpežljivost.",
+    "Jaz sem Idris, resnicoljubni in vzvišeni prerok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Idris",
+        "Prerok Nuh",
+        "Prerok Ibrahim",
+        "Prerok Musa",
+        "Prerok Ismail"
+      ],
+      "answer": "Prerok Idris"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ohranjanje potrpežljivosti in resnicoljubnosti, nato pa povzdignjeno na visok položaj",
+        "Gradnja velike barke za rešitev vernikov pred uničujočo poplavo",
+        "Biti vržen v plameneč ogenj in iz njega iziti popolnoma nepoškodovan",
+        "Soočenje z mogočnim kraljem in poraz njegove vojske čarovnikov",
+        "Preživetje v trebuhu velike ribe v morskih globinah"
+      ],
+      "answer": "Ohranjanje potrpežljivosti in resnicoljubnosti, nato pa povzdignjeno na visok položaj"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Visok in vzvišen položaj pri Alahovi strani",
+        "Masivna ladja, zgrajena iz desk in premazana s katranom",
+        "Besneč ogenj, ki ga podžigajo malikovalci hudobnega kralja",
+        "Prostrano morje, ki se je razcepilo na suhe poti",
+        "Temni trebuh velikega kita na dnu oceana"
+      ],
+      "answer": "Visok in vzvišen položaj pri Alahovi strani"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Sprejet v Allahovo milost kot eden od pravičnih",
+        "Rešen skupaj z vsemi verniki pred svetovnim potopom",
+        "Iz plamenov sem izšel, ne da bi se ga ogenj dotaknil",
+        "Varno je vodil Izraelove otroke čez morje v svobodo",
+        "Po dolgih letih stiske ponovno združeni s svojo ljubljeno družino"
+      ],
+      "answer": "Sprejet v Allahovo milost kot eden od pravičnih"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

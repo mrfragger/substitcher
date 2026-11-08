@@ -1,0 +1,61 @@
+{
+  "title": "První, kdo žádá o odpuštění",
+  "intro": "Vraťme se do doby před prvním východem slunce, než po zemi chodil jakýkoli smrtelník. Z nejskromnějších materiálů byla vytvořena postava, které bylo dáno postavení nad anděly a umístěno v posvátné zahradě s jasným varováním. Přesto v jediném okamžiku byla učiněna volba – volba, která se bude odrážet v celých lidských dějinách. Kdo je tato postava?",
+  "clues": [
+    "Byl jsem stvořen způsobem, který se nepodobá žádnému jinému – stvořen z prachu země a rukou Stvořitele jsem mu dal živou duši.",
+    "Bylo mi dáno poznání tak hlubokého, že nad ním žasli i andělé na nebesích.",
+    "Celému nebi bylo přikázáno, aby se přede mnou poklonilo, a všichni se podrobili – kromě jednoho, který z pýchy odmítl.",
+    "Byl jsem umístěn v posvátné zahradě, místě věčného pohodlí a zaopatření – ale s jedním přísným zákazem.",
+    "Zapomněl jsem, uklouzl jsem a neuposlechl jsem – a hluboce jsem cítil tíhu své chyby.",
+    "Obrátil jsem se k Pánu svému se slovy srdceryvnými a On přijal mé pokání, neboť On je nejodpouštějící."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Adam",
+        "Prorok Dawud",
+        "Prorok Mohamed",
+        "Iblis",
+        "Prorok Jakub"
+      ],
+      "answer": "Prorok Adam"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Andělům bylo přikázáno, aby se poklonili",
+        "Velká potopa byla seslána",
+        "Velký oheň byl ochladen a bezpečný",
+        "Arogantní vládce se utopil v moři",
+        "Armáda slonů byla zničena"
+      ],
+      "answer": "Andělům bylo přikázáno, aby se poklonili"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zahrada blaženosti",
+        "Hora Sinaj",
+        "Posvátná mešita",
+        "Řeka Nil",
+        "Jeskyně"
+      ],
+      "answer": "Zahrada blaženosti"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Pokání bylo Alláhem přijato",
+        "Utopený v moři",
+        "Spolknuto velkou rybou",
+        "Národ zasáhla mohutná exploze",
+        "Spálen spalujícím větrem"
+      ],
+      "answer": "Pokání bylo Alláhem přijato"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

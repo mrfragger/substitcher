@@ -1,0 +1,61 @@
+{
+  "title": "Ang Echo mula sa Gilid ng Lungsod",
+  "intro": "Sa isang lungsod na tumalikod sa banal na patnubay, isang nag-iisang pigura ang lumitaw mula sa labas, dala ang mensahe ng pag-asa at babala. Ang nakalimutang kaluluwang ito ay magiging isang walang hanggang simbolo ng matatag na pananampalataya.",
+  "clues": [
+    "Nasaksihan ko ang mga mensaherong ipinadala sa aking lungsod, ngunit itinuring sila ng aking mga tao bilang mga ordinaryong tao lamang.",
+    "Naniwala ako sa kanilang mensahe at nadama ko ang katotohanan na tumatagos sa aking pagkatao.",
+    "Nanawagan ako sa aking mga tao na sumunod sa mga sugo na hindi humihingi ng anumang gantimpala.",
+    "Tumakbo ako mula sa pinakadulong bahagi ng lungsod, mapilit na ipaunawa sa kanila ang kanilang dahilan.",
+    "Naghimagsik ang aking bayan laban sa akin, at ako'y napatay, ngunit nakatagpo ako ng walang hanggang kapayapaan.",
+    "Sinabi sa akin ng Allah, 'Pumasok ka sa Paraiso,' at hinangad ko na masaksihan ng aking mga kababayan ang karangalang ipinagkaloob sa akin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang Mananampalataya ng Ya-Sin",
+        "Si Uzair ang Nagtatanong",
+        "Si Al-Khidr ang Gabay",
+        "Ang Mananampalataya sa Pamilya ni Paraon",
+        "Namrud ang Tirano"
+      ],
+      "answer": "Ang Mananampalataya ng Ya-Sin"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang pagharap sa mga taong hindi naniniwala na pumatay sa kanya",
+        "Itinapon sa nagliliyab na apoy",
+        "Nilunok ng isang malaking isda",
+        "Paggawa ng isang napakalaking arka",
+        "Tumakas mula sa hukbo ng isang mapang-api"
+      ],
+      "answer": "Ang pagharap sa mga taong hindi naniniwala na pumatay sa kanya"
+    },
+    "location": {
+      "label": "Pangunahing Lokasyon",
+      "options": [
+        "Ang pinakamalayong dulo ng lungsod",
+        "Ang bundok ng Tur",
+        "Ang Lambak ng mga Langgam",
+        "Ang mga pampang ng Nilo",
+        "Ang yungib ng yungib"
+      ],
+      "answer": "Ang pinakamalayong dulo ng lungsod"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pagkamartir at agarang pagpasok sa Paraiso",
+        "Pagtakas at kaligtasan",
+        "Pag-akyat sa kalangitan",
+        "Pagkalunod sa dagat",
+        "Nagiging bato"
+      ],
+      "answer": "Pagkamartir at agarang pagpasok sa Paraiso"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An t-Anam Ceansa i measc na bhFáithe",
+  "intro": "Macallaíonn guth ag glaoch chun fíréantachta trí véarsaí an Uasail Qurán. Bronnadh fáistine agus scrioptúr diaga ar an anam beannaithe seo le linn tréimhse nuair a bhí géarghá le treoir i measc Chlann Iosrael. Labhair an duine seo go díreach lena phobal, ag spreagadh iad chun cuimhneamh ar a dTiarna. Trí fhoighne agus dílseacht, rinneadh rabhchán solais díobh a bhfuil a scéal ag soilsiú leathanaigh den scrioptúr naofa. An féidir leat an figiúr suntasach seo a aithint a bhfuil a ainm onórach sa Qurán agus sa Soiscéal araon?",
+  "clues": [
+    "Bronnadh fáidhiúlacht agus leabhar neamhaí orm le linn am géarghá mo mhuintire.",
+    "Rugadh mé ar bhealach iontach, trí ordú diaga Allah amháin, ó mo mháthair.",
+    "Labhair mé le mo mhuintir, ag rá ‘A Chlann Iosrael! Is mise teachtaire Allah chugaibh, ag deimhniú a tháinig romham.’",
+    "Tháinig mé le comharthaí soiléire ó do Thiarna, ag tabhairt dea-scéala dom faoi fháidh a mbeadh Ahmad mar ainm air.",
+    "Bean fíréanta ab ea mo mháthair a thug seirbhís d'Allah dom ó mo óige.",
+    "Mhúin Allah an Corán dom agus rinne sé comhbhách agus dílis mé do mo mháthair, agus ní raibh mé sotalach ná easumhal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Zakariyya",
+        "An Fáidh Isa ibn Maryam",
+        "An Fáidh Muhammad ﷺ",
+        "Fáidh Dawud",
+        "Fáidh Yunus"
+      ],
+      "answer": "An Fáidh Isa ibn Maryam"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Tógadh an Teampall in Iarúsailéim",
+        "Labhair sa chliabhán mar naíonán",
+        "Iompar Áirc an Chonartha",
+        "Threoraigh muintir Midian",
+        "Thaistil go Nineveh"
+      ],
+      "answer": "Labhair sa chliabhán mar naíonán"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cathair Iarúsailéim",
+        "Réigiún Bheithil",
+        "Teaghlach Zakariyya",
+        "Sliabh Shíonáí",
+        "Gleann Baca"
+      ],
+      "answer": "Teaghlach Zakariyya"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Tógadh suas go dtí na flaithis go corpartha",
+        "Rinneadh tástáil air le lobhra ar feadh na mblianta",
+        "Thóg sé teampall mór le haghaidh adhartha",
+        "Threoraigh na hIosraeilítigh ar ais chuig an gcreideamh",
+        "Roinneadh an fharraige le bata"
+      ],
+      "answer": "Tógadh suas go dtí na flaithis go corpartha"
+    }
+  },
+  "verseRef": "61:6",
+  "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+  "verse": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\" (61:6)"
+}

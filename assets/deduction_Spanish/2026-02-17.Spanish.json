@@ -1,0 +1,61 @@
+{
+  "title": "La semilla de la discordia",
+  "intro": "Antes de que el mundo conociera el conflicto generalizado, se desarrolló una profunda prueba de fe y obediencia. Esta narración explora las decisiones de un individuo, cuyas acciones sentaron un precedente para las generaciones futuras. Prepárense para descubrir la historia de un alma que lucha contra unos celos inmensos y sus devastadoras consecuencias.",
+  "clues": [
+    "Fui uno de los primeros descendientes en caminar sobre la tierra, hijo de la primera pareja humana.",
+    "A mi hermano y a mí se nos ordenó ofrecer un sacrificio a Alá, una prueba de nuestra sinceridad.",
+    "Mi ofrenda no fue aceptada, mientras que la de mi hermano sí, lo que me llenó el corazón de una terrible emoción.",
+    "Proferí palabras amenazantes a mi hermano, impulsado por la amargura del rechazo.",
+    "Mi hermano respondió con sabiduría y piedad, recordándome la justicia de Alá y el temor que debo tener hacia Él.",
+    "A pesar de las amables palabras de mi hermano y su disposición a perdonar, quité una vida y me convertí en uno de los perdedores."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Adán",
+        "Iblis",
+        "Profeta Noé",
+        "Qabil (Caín)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Caín)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El gran diluvio",
+        "La división del mar",
+        "La construcción de la Kaaba",
+        "La ofrenda de sacrificios",
+        "La tentación en el jardín"
+      ],
+      "answer": "La ofrenda de sacrificios"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "La montaña de Safa",
+        "El sacrificio",
+        "La zarza ardiente"
+      ],
+      "answer": "El sacrificio"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se convirtió en mensajero",
+        "Se ahogó",
+        "Construyó un gran reino",
+        "Se convirtió en un ejemplo de arrepentimiento.",
+        "Se le concedió una inmensa riqueza."
+      ],
+      "answer": "Se convirtió en un ejemplo de arrepentimiento."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

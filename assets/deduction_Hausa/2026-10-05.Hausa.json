@@ -1,0 +1,61 @@
+{
+  "title": "Amintaccen da aka ba wa Kogin",
+  "intro": "Wata rai ta fuskanci wani hukunci mai wuya, inda rayuwar jariri ta tsaya cak. Da wahayi daga Allah ya jagorance ta, an bi umarnin da ba a so, kuma an sanya wani sirri mai tamani a kan ruwan, sai kawai aka dawo da shi ta hanyar da ba a zata ba.",
+  "clues": [
+    "Na zauna a ƙarƙashin inuwar wani azzalumin da ya ba da umarnin kashe jarirai maza.",
+    "Wata wahayi daga Allah ta zo mini, tana umurtata da in ɗauki wani mataki mai cike da damuwa da kuma ɓacin rai.",
+    "Na sanya jaririyata mai daraja a cikin akwati na ajiye shi a kan kogin da ke gudana.",
+    "Zuciyata ta yi fanko, kuma kusan na bayyana sirrin, amma Allah ya ƙarfafa ni.",
+    "Na aika wani ya biyo tafiyar yaron zuwa ƙasa yayin da wutar lantarki ta ɗauke akwatin.",
+    "Gidan azzalumi ne ya sami yaron, kuma daga ƙarshe, na sake haɗuwa da ɗana na zama mai kula da yara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mahaifiyar Annabi Musa",
+        "Asiya (Matar Fir'auna)",
+        "Maryam (Uwar Annabi Isa)",
+        "Matar Annabi Lutu",
+        "Mahaifiyar Annabi Yahya (matar Zakariyya)"
+      ],
+      "answer": "Mahaifiyar Annabi Musa"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ta sanya ɗanta a cikin akwati ta ajiye shi a kan kogin",
+        "Ta ɓoye ɗanta a cikin kogo",
+        "Ta yi watsi da ɗanta a cikin jeji",
+        "Ta jefa ɗanta cikin wuta",
+        "Ta bar ɗanta a ƙofar masallaci"
+      ],
+      "answer": "Ta sanya ɗanta a cikin akwati ta ajiye shi a kan kogin"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwati yana shawagi a kan kogin",
+        "Daji mai ƙonewa",
+        "Sanda da ta rikide ta zama maciji",
+        "Teburin da aka shimfiɗa tare da abinci daga sama",
+        "Raƙumi da aka aika a matsayin alama"
+      ],
+      "answer": "Akwati yana shawagi a kan kogin"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An sake haɗuwa da ɗanta ta kuma shayar da shi",
+        "Ba ta sake ganin ɗanta ba",
+        "Azzalumin ne ya kashe ta",
+        "Ta zama sarauniya a Masar",
+        "Ta yi ƙaura zuwa wata ƙasa ta yi zaman gudun hijira"
+      ],
+      "answer": "An sake haɗuwa da ɗanta ta kuma shayar da shi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

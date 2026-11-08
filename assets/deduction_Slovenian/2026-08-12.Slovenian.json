@@ -1,0 +1,61 @@
+{
+  "title": "Poslanci usmiljenja in moči",
+  "intro": "Predstavljajte si mirno popoldne, ki ga prekine prihod neznanih popotnikov. Njihov videz je običajen, a njihov namen je vse prej kot to. Nosijo božansko sporočilo, ki bo spremenilo pot dveh narodov, prineslo smeh v pusto hišo in grozo v grešno mesto. Kdo so ti skrivnostni obiskovalci?",
+  "clues": [
+    "Poslali so nas k predanemu Alahovemu služabniku, znanemu po svoji brezmejni gostoljubnosti.",
+    "Prispeli smo v preobleki tujcev, a vendar je naš gostitelj v naši prisotnosti začutil nekaj nadnaravnega.",
+    "Prinesli smo novico, zaradi katere se je starejša ženska nejeverno zasmejala in se od začudenja udarila po obrazu.",
+    "Naloga nam je bila zaščititi pravično družino, medtem ko smo uničili mesto, prežeto s korupcijo.",
+    "Zavrnili smo ponujeno jed, kar je le še poglobilo sumničavost našega gostitelja.",
+    "Šele pred odhodom smo razkrili svojo pravo naravo in rekli: \"Resnično smo poslanci vašega Gospodarja.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Abrahamovi gostje",
+        "Jezusovi učenci",
+        "Spremljevalci jame",
+        "Abrahova vojska",
+        "Glasniki Ya-Sina"
+      ],
+      "answer": "Abrahamovi gostje"
+    },
+    "trial": {
+      "label": "Naše poslanstvo",
+      "options": [
+        "Da bi preizkusil Abrahamovo vero glede njegovega sina",
+        "Da bi Abrahamu dostavil sveto pismo",
+        "Da bi oznanili rojstvo Izaka in uničenje Lotovega ljudstva",
+        "Da bi Abrahama vodil do Kaabe",
+        "Da bi rešil Abrahama iz ognja"
+      ],
+      "answer": "Da bi oznanili rojstvo Izaka in uničenje Lotovega ljudstva"
+    },
+    "location": {
+      "label": "Kraj nastopa",
+      "options": [
+        "V egiptovski deželi",
+        "V mestu Ur",
+        "Pri Abrahamu doma",
+        "V rajskem vrtu",
+        "Pri vodnjaku Zamzam"
+      ],
+      "answer": "Pri Abrahamu doma"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Abraham je postal kralj",
+        "Abraham je zgradil Kaabo",
+        "Sara je rodila Izaka in Lotovo ljudstvo je bilo uničeno",
+        "Abraham se je preselil v Palestino",
+        "Abrahamovo ljudstvo je bilo rešeno pred veliko poplavo"
+      ],
+      "answer": "Sara je rodila Izaka in Lotovo ljudstvo je bilo uničeno"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

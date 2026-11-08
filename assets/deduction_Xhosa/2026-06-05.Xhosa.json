@@ -1,0 +1,61 @@
+{
+  "title": "Abafuna Inyaniso Abathobekileyo",
+  "intro": "Kwilizwe lamandla amandulo nobugqi, kuvela ungquzulwano olukhulu. Elinye icala linegunya lemiqondiso yobuthixo, ngelixa elinye lizama ukufanisa okungenakwenzeka. Isiphumo siya kutshintsha ngonaphakade indlela yembali. Ngaba ungatyhila ubuni babo bayibonayo inyaniso yokugqibela baza bazithoba phambi kwayo?",
+  "clues": [
+    "Sibone imiqondiso egqitha amaqhinga obugqi",
+    "Sonke sawa phantsi, singakwazi ukukhanyela inyaniso",
+    "Saqonda ukuba le miqondiso ivela kuThixo omnye oyinyaniso",
+    "Sasiluluntu lokuqala ukwamkela ukholo ngendlela ephawulekayo kangaka",
+    "Sathenjiswa iparadesi njengembuyekezo yethu ngenxa yokholo lwethu",
+    "Iintambo zethu kunye nezintonga zethu zaba ziinyoka phambi kwamehlo ethu, kodwa sakhetha ukuzithoba"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Izazi zikaFaro",
+        "Abantu boMprofeti u-Ibrahim",
+        "Abafuna inyaniso abathobekileyo",
+        "Abantu Bomqolomba",
+        "Isizwe sikaKumkanikazi uBilqis"
+      ],
+      "answer": "Izazi zikaFaro"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukudibana nentonga yoMprofeti uMusa",
+        "Uvavanyo lomoya woMprofeti uHud",
+        "Umngeni ovela kwinkamela yenkamela yoMprofeti uSalih",
+        "Umkhukula omkhulu owathunyelwa kumprofeti",
+        "Uhambo lomprofeti ngaphakathi kwinenga"
+      ],
+      "answer": "Ukudibana nentonga yoMprofeti uMusa"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "IYiputa yamandulo",
+        "Indlu engcwele eMakkah",
+        "Isixeko sakwaMidiyan",
+        "Intlango yaseThamud",
+        "Umqolomba wabantu abalalayo bamandulo"
+      ],
+      "answer": "IYiputa yamandulo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "IParadesi njengembuyekezo yabo",
+        "Isohlwayo engcwabeni",
+        "Ukulahlekelwa ziigadi zabo ezinabileyo",
+        "Ukutshatyalaliswa yinyikima engalindelekanga",
+        "Uhlangulo kwi-whale enkulu"
+      ],
+      "answer": "IParadesi njengembuyekezo yabo"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

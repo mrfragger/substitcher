@@ -1,0 +1,61 @@
+{
+  "title": "Troškulio išbandymas",
+  "intro": "Bendruomenė, trokštanti lyderystės, kuri gintų jų reikalus, pateikė prašymą paskirti jiems vadą. Kai į jų prašymą buvo atsakyta, išrinktasis buvo sutiktas skeptiškai, nes šis asmuo neturėjo tokio pasaulietinio statuso, kokio jie tikėjosi. Prieš galutinį susidūrimą šis naujasis lyderis turėjo išbandyti pačią armijos drausmę paprastu, tačiau giliu susivaldymo išbandymu.",
+  "clues": [
+    "Buvau paskirtas vadu po to, kai mano žmonės pareikalavo vadovo, kuris kovotų Alacho labui.",
+    "Daugelis mano tautiečių iš pradžių abejojo ​​mano paskyrimu, nurodydami mano neturtingumą ir kilmingą kilmę.",
+    "Buvau pasirinktas, nes Alachas suteikė man gausybę žinių ir galingą fizinį ūgį.",
+    "Aiškus mano dieviškojo paskyrimo ženklas buvo angelų nešamos Sandoros Skrynios sugrįžimas, kuris atnešė ramybę tikinčiųjų širdims.",
+    "Žygiuodamas su savo kareiviais, paskelbiau, kad mus išbandys upė.",
+    "Įsakiau savo armijai, kad kas nors daug gertų iš upės, nebūtų mano kuopos narys, o tie, kurie į rankas paimdavo tik vieną samtelį, likdavo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Džalutas (Galijotas)",
+        "Talutas (Saulius)",
+        "Pranašas Dawudas",
+        "Dhul-Qarnayn",
+        "Namrudas (Nimrodas)"
+      ],
+      "answer": "Talutas (Saulius)"
+    },
+    "trial": {
+      "label": "Koks buvo mano pagrindinis išbandymas?",
+      "options": [
+        "Statant barjerą nuo Gogo ir Magogo",
+        "Susidūrimas su milžinu vienvietėje kovoje",
+        "Armijos paklusnumo išbandymas prie upės",
+        "Vadovaujant džinų ir paukščių armijai",
+        "Išgyvenęs įmetimą į ugnį"
+      ],
+      "answer": "Armijos paklusnumo išbandymas prie upės"
+    },
+    "location": {
+      "label": "Koks buvo pagrindinis mano autoriteto ženklas?",
+      "options": [
+        "Lazdelė, kuri virto gyvate",
+        "Kupranugaris, išlindęs iš uolos",
+        "Šarvuotiniai marškinėliai, pagaminti iš suminkštintos geležies",
+        "Sandoros Skrynia (At-Tabut)",
+        "Maisto stalas iš dangaus"
+      ],
+      "answer": "Sandoros Skrynia (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Koks buvo mano kampanijos rezultatas?",
+      "options": [
+        "Nugalėjus Džaluto (Galijoto) armiją",
+        "Perskiriant Raudonąją jūrą, kad pabėgtų nuo tirono",
+        "Įkurti ilgalaikę dinastiją mano vardu",
+        "Šventosios Kaabos statyba Mekoje",
+        "Būti pakeltam į dangų nemirstant"
+      ],
+      "answer": "Nugalėjus Džaluto (Galijoto) armiją"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

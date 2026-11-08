@@ -1,0 +1,61 @@
+{
+  "title": "O paciente inquebrantable",
+  "intro": "Nos anais da historia profética, poucos soportaron unha perda e unha aflición física tan profundas cunha fe inquebrantable. A historia desta figura é unha lección atemporal de paciencia e confianza na sabedoría divina. Quen é esta alma?",
+  "clues": [
+    "Fun escollido por Alá para transmitir unha mensaxe, pero a miña maior proba non chegou a través do rexeitamento, senón a través dunha calamidade persoal.",
+    "Arrebatáronme as miñas riquezas, o meu gando e os meus fillos, un tras outro.",
+    "Tiña o corpo cuberto de chagas e quedei soa agás polo apoio da miña esposa.",
+    "Clamei ao meu Señor, recoñecendo o meu sufrimento e buscando a súa misericordia.",
+    "Déronme instrucións para golpear o chan co pé, e brotou unha fonte refrescante.",
+    "Alá restauroume a saúde e deume unha nova familia e aínda máis riqueza da que tiña antes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Ayyub",
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Isa",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Perda de riqueza e familia",
+        "Ser lanzado a un lume",
+        "Ser tragado por un peixe",
+        "Ser separado da familia e vendido como escravo",
+        "Sendo probado cun becerro de ouro"
+      ],
+      "answer": "Perda de riqueza e familia"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha fonte de auga",
+        "Un bastón que se converteu nunha serpe",
+        "Unha arca de madeira",
+        "Un becerro fundido",
+        "Unha palmeira"
+      ],
+      "answer": "Unha fonte de auga"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Restauración da familia e da riqueza",
+        "Ascensión ao ceo",
+        "Converterse en rei",
+        "Ser salvado dunha balea",
+        "Recibir un fillo na vellez"
+      ],
+      "answer": "Restauración da familia e da riqueza"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

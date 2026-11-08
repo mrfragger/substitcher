@@ -1,0 +1,61 @@
+{
+  "title": "Thị trấn tin vào thời gian",
+  "intro": "Trong biên niên sử về lòng thương xót của Chúa, có một cộng đồng mà bước ngoặt của họ là khoảnh khắc nhận thức tập thể. Bạn sắp khám phá câu chuyện của họ - một câu chuyện về lời cảnh báo, sự ăn năn và sự tha thứ đã giúp họ khác biệt so với số phận của các quốc gia khác.",
+  "clues": [
+    "Chúng ta là một dân tộc được sứ giả sai đến, nhưng ban đầu chúng ta đã từ chối lời kêu gọi của người.",
+    "Khi những dấu hiệu về sự trừng phạt sắp xảy ra trở nên rõ ràng, chúng tôi nhận ra sự thật trong lời cảnh báo của ông ấy.",
+    "Chúng tôi thành tâm ăn năn hối lỗi hướng về Chúa, và đức tin của chúng tôi đã được chấp nhận.",
+    "Hình phạt dành cho chúng tôi đã được bãi bỏ nhờ vào niềm tin của chúng tôi.",
+    "Câu chuyện của chúng tôi được coi là một ngoại lệ trong số những thị trấn đã tin tưởng sau khi chứng kiến ​​hình phạt.",
+    "Chúng ta là dân của vị tiên tri bị cá voi nuốt chửng, nhưng chúng ta đã được cứu thoát khỏi sự hủy diệt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người dân Yunus",
+        "Người dân Nuh",
+        "Người dân Hud",
+        "Người dân Salih",
+        "Người dân Lut"
+      ],
+      "answer": "Người dân Yunus"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Một trận lũ lụt tàn khốc",
+        "Một cơn bão gió dữ dội",
+        "Một hình phạt nhục nhã sắp xảy ra đã được ngăn chặn.",
+        "Trái đất đang nuốt chửng họ",
+        "Một cơn mưa đá"
+      ],
+      "answer": "Một hình phạt nhục nhã sắp xảy ra đã được ngăn chặn."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah",
+        "Con lạc đà cái",
+        "Một thành phố có một trăm nghìn dân.",
+        "Nhân viên của Musa",
+        "Kho báu của Qarun"
+      ],
+      "answer": "Một thành phố có một trăm nghìn dân."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Chúng đã bị phá hủy hoàn toàn.",
+        "Họ đã được tận hưởng niềm vui trong một thời gian.",
+        "Họ đã bị biến thành vượn.",
+        "Họ đã chết đuối.",
+        "Chúng bị đất nuốt chửng"
+      ],
+      "answer": "Họ đã được tận hưởng niềm vui trong một thời gian."
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

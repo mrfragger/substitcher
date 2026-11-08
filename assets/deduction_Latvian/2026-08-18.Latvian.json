@@ -1,0 +1,61 @@
+{
+  "title": "Tas, kurš nopelnīja suru",
+  "intro": "Iedomājieties pazemīgu dvēseli, kas tuvojas kādam no Allāha vēstnešiem ar sirsnības pilnu sirdi un dziļu vēlmi mācīties. Tomēr tieši tajā brīdī kāds bagāts un statusā esošs cilvēks piesaistīja vēstneša uzmanību, un meklētājam tika saraukta pieri. Sekoja ne mazāk kā vesela Korāna nodaļa, kas tika sūtīta, lai labotu vēstnesi un godinātu dvēseli, kura meklēja.",
+  "clues": [
+    "Es vērsos pie Allāha vēstneša ar atvērtu sirdi un dziļu ilgošanos pēc vadības",
+    "Man nebija nekāda pasaulīga statusa, ko piedāvāt, tikai pazemīga dvēsele, kas meklēja patiesību",
+    "Manas fiziskās acis neredzēja, bet mana garīgā redze bija skaidra",
+    "Es ierados neērtā brīdī, kad Vēstnesis bija aizņemts ar kādu ietekmīgu personu.",
+    "Man pretī tika pagriezta saraukta piere, bet Allāhs atbildēja ar dievišķu labojumu",
+    "Es esmu Abdulla ibn Umm Maktum, uzticīgs kompanjons, kura stāsts iedvesmoja Suru Abasu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Abdullahs ibn Umm Maktums",
+        "Bilals ibn Rābahs",
+        "Mu'adh ibn Jabal",
+        "Zaids ibn Tabits",
+        "Salmans al-Farisi"
+      ],
+      "answer": "Abdullahs ibn Umm Maktums"
+    },
+    "trial": {
+      "label": "Izmēģinājums / pasākums",
+      "options": [
+        "Pravietis atraida viņu bagāta cilvēka dēļ",
+        "Ienaidnieku iemests niknā ugunī",
+        "Tiek pārdots un vajāts kā vergs",
+        "Izaicina uz dueli varens karotājs",
+        "Tikt norītai lielai zivij"
+      ],
+      "answer": "Pravietis atraida viņu bagāta cilvēka dēļ"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Korāna nodaļa, kas sākas ar sarauktu pieri (Surah Abasa)",
+        "Vēsa un droša ugunskura",
+        "Zizlis, kas pāršķēla varenu jūru",
+        "Šķirsts, kas celts uz augsta kalna",
+        "Putns, kas veidots no sacietējuša māla"
+      ],
+      "answer": "Korāna nodaļa, kas sākas ar sarauktu pieri (Surah Abasa)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Allāhs atklāja Korāna sūru, kas mani aizstāv",
+        "Allāhs padarīja uguni man vēsu un drošu",
+        "Allāhs pašķīra jūru, lai glābtu mani no vajāšanas",
+        "Allāhs man piešķīra lielu valstību un gudrību",
+        "Allāhs mani aizveda uz debesīm bez nāves"
+      ],
+      "answer": "Allāhs atklāja Korāna sūru, kas mani aizstāv"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

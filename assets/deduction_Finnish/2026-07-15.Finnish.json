@@ -1,0 +1,61 @@
+{
+  "title": "Yksinäinen retriitti",
+  "intro": "Jumalallisen suosion aikakirjoissa on vertaansa vailla olevan puhtauden omaava sielu, joka on erotettu kansastaan ​​etsimään yksinäisyyttä pyhässä suunnassa. He eivät tienneet, että tämä eristäytyminen toisi mukanaan merkin kaikille maailmoille, uskonkoetuksen, josta puhuttaisiin ikuisesti.",
+  "clues": [
+    "Olin omistautunut palvelevalle elämälle jo ennen syntymääni.",
+    "Minut asetettiin jalo profeetan holhoukseen.",
+    "Sain Allahilta elantoa, joka hämmästytti suojelijaani.",
+    "Vetäydyin perheeni luota itään.",
+    "Enkeli ilmestyi minulle täydellisen miehen hahmossa ja toi uutisen puhtaasta pojasta.",
+    "Kun palasin vastasyntyneeni kanssa, sukuni syyttivät minua, mutta vauva puhui puolustukseksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Maryam (Maria)",
+        "Asija (faraon vaimo)",
+        "Hajar (Ismailin äiti)",
+        "Saara (Ibrahimin vaimo)",
+        "Musan äiti"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ihmeellinen hedelmöitys ja pojan syntymä",
+        "Heitetään tuleen",
+        "Jättiläiskalan nielaisemaksi joutuminen",
+        "Suuren arkin rakentaminen",
+        "Meren ylitys"
+      ],
+      "answer": "Ihmeellinen hedelmöitys ja pojan syntymä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Syrjäinen itäinen paikka",
+        "Palava pensas",
+        "Punainenmeri",
+        "Kallio, josta vesi pulppusi",
+        "Valas"
+      ],
+      "answer": "Syrjäinen itäinen paikka"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Vauva puhui äitinsä puolustukseksi",
+        "Meri oli jakautunut",
+        "Tuli viileni ja turvallistui",
+        "Valas oksensi rannalle",
+        "Arkki laskeutui vuorelle"
+      ],
+      "answer": "Vauva puhui äitinsä puolustukseksi"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

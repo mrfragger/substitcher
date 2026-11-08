@@ -1,0 +1,61 @@
+{
+  "title": "Orașul pierdut al maiestății inegalabile",
+  "intro": "O civilizație puternică domina cândva vaste întinderi de pământ, celebrată pentru structurile impunătoare care se întindeau spre cer. Totuși, sub această grandoare, creștea o negare încăpățânată - un refuz de a asculta avertismentul divin trimis chiar din interiorul comunității. Mândria și aroganța aveau să atragă în curând o pedeapsă cum nici pământul, nici cerurile nu mai văzuseră vreodată.",
+  "clues": [
+    "Am stăpânit odată peste vaste întinderi de pământ, lăudându-ne cu o putere pe care credeam că nicio altă civilizație nu o poate egala.",
+    "Tărâmul nostru era faimos pentru structurile impunătoare cu piloni puternici, care se înălțau fără egal în fiecare ținut cunoscut.",
+    "Un avertizor din propria noastră comunitate s-a ridicat, îndemnându-ne pe fiecare dintre noi să ne supunem Unicului Creator.",
+    "Am respins mesajul care ne-a fost transmis și am refuzat să abandonăm calea pe care o moșteniserăm.",
+    "Un vânt furios, urlător, de o intensitate copleșitoare s-a dezlănțuit împotriva noastră, lăsându-ne complet lipsiți de apărare.",
+    "Am fost lăsați ca niște trunchiuri scobite de palmieri, împrăștiați și uitați, ca o lecție pentru fiecare generație de după."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din A'ad",
+        "Oamenii din Nuh",
+        "Oamenii din Lut",
+        "Oamenii din Madyan",
+        "Oamenii din Tubba'"
+      ],
+      "answer": "Oamenii din A'ad"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Un vânt neobosit și furios al unei pedepse severe",
+        "O inundație care a acoperit fiecare vârf de munte",
+        "O ploaie de pietre de lut arzătoare de sus",
+        "Un singur țipăt înspăimântător din ceruri",
+        "Un cutremur violent care a despicat pământul"
+      ],
+      "answer": "Un vânt neobosit și furios al unei pedepse severe"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Iram, orașul stâlpilor semeți",
+        "O arcă masivă de lemn construită pe un munte",
+        "O cămilă care a ieșit în mod miraculos din piatră",
+        "Muntele Sinai, unde a coborât poruncile divine",
+        "Un palat de cristal și sticlă fină cu vedere la ape curgătoare"
+      ],
+      "answer": "Iram, orașul stâlpilor semeți"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Rămași ca niște trunchiuri scobite de palmieri, împrăștiate și fără viață",
+        "Înecat sub valurile copleșitoare ale unui mare potop",
+        "Transformate în creaturi asemănătoare maimuțelor și porcilor",
+        "Zdrobit sub o ploaie de pietre de lut întărite",
+        "Consumat într-un singur strigăt asurzitor care a străpuns sufletul"
+      ],
+      "answer": "Rămași ca niște trunchiuri scobite de palmieri, împrăștiate și fără viață"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

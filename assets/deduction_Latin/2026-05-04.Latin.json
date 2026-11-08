@@ -1,0 +1,61 @@
+{
+  "title": "Architectus Arrogantiae",
+  "intro": "In terra antiqua a potentia contumaci regnata, vir quidam maximi momenti locum auctoritate praeditus tenebat. Haec anima in magnis consiliis rectoris instrumentalis erat, ad imperium oppressivum eorum conferens et nuntium divinum provocans. Hereditas eorum cum studio potentiae mundanae et negatione veritatis intertexta est.",
+  "clues": [
+    "Servivi rectori formidabili qui populum per generationes oppressit.",
+    "Nomen meum in Libro Divino saepe commemoratur una cum hoc duce potente.",
+    "Magnum opus aedificatorium mihi mandatum est, structuram altissimam ad caelum pertingere destinatam.",
+    "Domino meo consului ut filios Israel occideret et filias eorum parceret.",
+    "Implicatus eram in coniurationibus et coniurationibus contra potentem nuntium Dei.",
+    "Finis meus, una cum domino meo et exercitu eius, in aquis vasti maris venit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Nimrodus",
+        "Abraha",
+        "Goliath",
+        "Iblis",
+        "Aman"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Ingentibus divitiis tentatus",
+        "Ducens exercitum contra domum sacram",
+        "Turrim aedificans ut Deum attingamus",
+        "In ignem pro fide sua conici",
+        "A fratribus et sororibus in puteum coniectus"
+      ],
+      "answer": "Turrim aedificans ut Deum attingamus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Mons",
+        "Turris",
+        "Balaena"
+      ],
+      "answer": "Turris"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Sapientia immensa donata",
+        "Propheta fieri",
+        "A terra absorberi",
+        "Regnum accipiens",
+        "Submersus in mari"
+      ],
+      "answer": "Submersus in mari"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

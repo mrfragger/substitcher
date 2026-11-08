@@ -1,0 +1,61 @@
+{
+  "title": "Ny fialonana izay nandevona",
+  "intro": "Tantara tranainy kokoa noho ny fanjakana na soratra masina rehetra—ny loza voalohany nateraky ny fialonana ho an'ny olombelona. Olona iray, zokiny amin'ny zanaka roa nateraky ny ray aman-dreny voalohany, no nijery tamim-pahatezerana raha nahazo sitraka izay nolavina ny zandriny. Ny safidy maizina indrindra nanaraka izany, namela ny ra voalohany nalatsaka teto an-tany. Azonao fantarina ve ny maha-izy azy, ny fitsapana ary ny nenina mangidy?",
+  "clues": [
+    "Teraka avy tamin'ireo olombelona roa voalohany indrindra nandeha teto an-tany aho.",
+    "Nanao fanatitra ho an'i Allah aho indray mandeha, saingy tsy nekeko izany.",
+    "Nekena ny fanatitra nataon'ny iray tampo amiko, fa nolavina kosa ny ahy—zavatra tsy zakako.",
+    "Nandrahona ny rahalahiko aho hoe handringana azy.",
+    "Izaho no voalohany namono olona teto amin'ity tany ity, naka ny ain'ny iray tampo amiko.",
+    "Nandefa zavaboary avy amin'ny tany Andriamanitra—vorona mainty mihady tany—mba hampianatra ahy ny fomba hanafenana izay nataoko, ary nanenina aho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Kaabil (Kaina)",
+        "Habil (Abela)",
+        "Mpaminany Jakoba",
+        "Mpaminany Musa",
+        "Mpaminany Adama"
+      ],
+      "answer": "Kaabil (Kaina)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nolavin'i Allah ny fanatitra",
+        "Natsipy tao anaty afo lehibe",
+        "Nafoy fony mbola zaza tao anaty renirano",
+        "Nosedraina tamin'ny fanjakana goavana iray",
+        "Nasaina nanao sorona ny zanany lahy"
+      ],
+      "answer": "Nolavin'i Allah ny fanatitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny goaika nirahin'Andriamanitra",
+        "Ilay zanak'omby volamena",
+        "Ny sambo fiara teo an-tendrombohitra",
+        "Ny kirihitra mirehitra",
+        "Ramevavavy voasokitra tamin'ny vatolampy"
+      ],
+      "answer": "Ny goaika nirahin'Andriamanitra"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Feno nenina ary anisan'ireo resy",
+        "Voatelina tao anaty tany niaraka tamin'ny harena",
+        "Tonga iraka mendri-kaja avy amin'i Allah",
+        "Niditra tao amin'ny Paradisa noho ny famindram-pon'Andriamanitra",
+        "Nitondra fanjakana tsy manan-tsahala"
+      ],
+      "answer": "Feno nenina ary anisan'ireo resy"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

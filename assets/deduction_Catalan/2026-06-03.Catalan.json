@@ -1,0 +1,61 @@
+{
+  "title": "La nació que va desafiar la Casa Sagrada",
+  "intro": "En temps antics, una nació poderosa va decidir atacar un santuari venerat pels creients. Aquest grup era ric, poderós i confiava en la seva força militar. Van portar amb ells una criatura enorme que els serviria com a arma de guerra. El seu objectiu era clar: demolir la casa sagrada i aixafar la fe del seu poble. Però la seva arrogància estava a punt de trobar una resposta devastadora des de dalt. Aquest esdeveniment històric es va convertir en un signe i una lliçó per a tots els que van venir després. Pots identificar aquest grup a partir de les pistes?",
+  "clues": [
+    "Érem una nació beneïda amb riquesa i destresa militar.",
+    "Vam reunir les nostres forces i vam portar una bèstia enorme per utilitzar-la en la nostra campanya.",
+    "El nostre objectiu era un santuari sagrat que volíem destruir completament.",
+    "Crèiem que la nostra força seria suficient per superar qualsevol protecció divina.",
+    "Però el Senyor ens va enviar un càstig del cel que no esperàvem.",
+    "Vam ser destruïts en un instant, escampats com palla trencada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La gent de l'elefant",
+        "La gent de Thamud",
+        "La gent d'Ad",
+        "Els companys de la cova",
+        "La Nació del Profeta Hud"
+      ],
+      "answer": "La gent de l'elefant"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Marxar amb un elefant cap a la casa sagrada per destruir-la",
+        "Construint una torre per arribar al cel",
+        "Construcció d'un ídol d'or per al culte",
+        "Negar-se a escoltar el missatger d'Al·là",
+        "Cavar un pou per fer mal als creients"
+      ],
+      "answer": "Marxar amb un elefant cap a la casa sagrada per destruir-la"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'elefant",
+        "El vedell d'or",
+        "El bastó de Musa",
+        "El peix de Yunus",
+        "El ferro de Dawud"
+      ],
+      "answer": "L'elefant"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Van ser destruïts per estols d'ocells amb pedres",
+        "Es van ofegar en una gran inundació",
+        "Es van transformar en simis i porcs",
+        "Van ser enterrats sota pedres que queien d'una muntanya",
+        "Van ser cremats pel foc del cel"
+      ],
+      "answer": "Van ser destruïts per estols d'ocells amb pedres"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

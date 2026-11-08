@@ -1,0 +1,61 @@
+{
+  "title": "Xayolparastning ko'tarilishi",
+  "intro": "Buyuklikka intilgan, ammo og'ir sinovlar bilan sinovdan o'tgan qalb g'ayrioddiy sayohatga otlandi. Bu shaxsning yo'li hasad, ajralish va nohaq azob-uqubatlar bilan ajralib turdi, ammo oxir-oqibat ulkan mas'uliyat va chuqur birlashish holatiga yetdi. Qur'ondagi bu ajoyib shaxsni aniqlay olasizmi?",
+  "clues": [
+    "Bir paytlar menga eng yaqin odamlar hasad qilishgan, bu esa ota-onam va uyimdan chuqur ajralishga olib kelgan.",
+    "Men juda katta qiyinchiliklarni boshdan kechirdim, jumladan, sayohatchilar meni arzimas narxga sotishdi.",
+    "Meni nohaq ayblashdi va yillar davomida qamoqda o'tirishdi, ammo imonim sobit qoldi.",
+    "Menga murakkab tasavvurlarni talqin qilishning noyob qobiliyati berildi, bu esa ozodlik yo'limda muhim rol o'ynadi.",
+    "Donoligim va halolligim oxir-oqibat meni begona yurtda katta obro' va ishonchga sazovor bo'lgan lavozimga olib keldi.",
+    "Uzoq va og'riqli yo'qlikdan so'ng, bir qator tadbirlar orqali men keksa ota-onam va aka-ukalarim bilan yana uchrashdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Sulaymon",
+        "Payg'ambar Iso",
+        "Yusuf payg'ambar",
+        "Payg'ambar Dovud",
+        "Yahyo payg'ambar"
+      ],
+      "answer": "Yusuf payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Katta baliq tomonidan yutib yuborilmoqda",
+        "Yaratilishni saqlab qolish uchun kema qurish",
+        "Soxta ayblovlar va qamoqqa chidash",
+        "Zolim hukmdorga mo''jizalar bilan qarshi turish",
+        "Og'ir kasallik va yo'qotish bilan sinovdan o'tmoqda"
+      ],
+      "answer": "Soxta ayblovlar va qamoqqa chidash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yonayotgan buta",
+        "Gapiradigan qush",
+        "Quduq",
+        "Tayoq ilonga aylanmoqda",
+        "Belgi sifatida urg'ochi tuya"
+      ],
+      "answer": "Quduq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Va'da qilingan yurtga ko'chib o'tishga rahbarlik qilish",
+        "Misrda qudratli vazir bo'lish",
+        "Mag'rur xalq ustidan ilohiy hukmni qabul qilish",
+        "Keng qirollikni donolik va adolat bilan boshqarish",
+        "Osmonlarga ko'tarilish"
+      ],
+      "answer": "Misrda qudratli vazir bo'lish"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Scout nga May Balhibo",
+  "intro": "Sulod sa usa ka gingharian nga gimandoan sa usa nga gihatagan og gahom sa mga hangin, sa dili makita nga mga binuhat, ug sa mga binuhat sa langit, usa ka gamay ug paspas nga miyembro ang nawala gikan sa han-ay — apan mibalik nga may mga pagpadayag nga mag-usab sa kapalaran sa usa ka lagyong nasod. Kining hait og mata nga impormante nagdala sa kamatuoran ngadto sa kahayag diin ang kawalay-alamag nagsugod na. Kinsa Ako?",
+  "clues": [
+    "Nagserbisyo ko sa korte diin ang mga tawo, dili makita nga mga binuhat, ug mga binuhat sa langit mitubag sa usa ka maalamon nga magmamando nga nagmando sa mga hangin.",
+    "Wala ako sa akong pwesto sulod sa usa ka panahon, ug ang kasuko sa magmamando gisaad kon dili ako makahatag ug makatagbaw nga rason.",
+    "Usa ako ka gamay nga binuhat nga makalupad, nailhan sa hait nga panan-aw, ug ang akong klase gipasidunggan sa direktang pagngalan diha sa mga panid sa pagpadayag.",
+    "Pagbalik nako, nagdala kog balita bahin sa usa ka layong yuta diin ang mga tawo mihapa sa adlaw, buta sa Usa nga naglalang sa langit ug yuta.",
+    "Nakakita kog babaye nga nagmando sa usa ka dakong gingharian, nga naglingkod sa usa ka halangdon nga trono, nga wala pa gyud makahibalo sa kamatuoran kaniadto.",
+    "Ako ang nakadiskubre sa gingharian sa Saba' ug nagdala og sulat imbitasyon gikan sa usa ka propeta-hari nga gihatagan og gahom ibabaw sa hangin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang Hoopoe (Hudhud)",
+        "Ang Hulmigas gikan sa Walog ni Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit ang Jinn",
+        "Usa ka Anghel sa Trono"
+      ],
+      "answer": "Ang Hoopoe (Hudhud)"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang ekspedisyon ngadto sa Gingharian sa Saba' (Sheba)",
+        "Ang komprontasyon uban sa mga salamangkero ni Paraon",
+        "Ang baha ni Propeta Nuh",
+        "Ang pagkaguba sa Katawhan sa 'Ad",
+        "Ang pagbahin sa Pulang Dagat"
+      ],
+      "answer": "Ang ekspedisyon ngadto sa Gingharian sa Saba' (Sheba)"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Yuta sa Saba' (Sheba)",
+        "Bukid sa Sinai",
+        "Ang Arka ni Propeta Nuh",
+        "Ang Langob sa Ashab al-Kahf",
+        "Ang Palasyo sa Paraon"
+      ],
+      "answer": "Ang Yuta sa Saba' (Sheba)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Si Bilqis misunod sa korte ni Sulaiman",
+        "Ang Paraon ug ang iyang kasundalohan nalumos sa dagat",
+        "Ang mga tawo sa 'Ad nalaglag tungod sa kusog nga hangin",
+        "Ang mga salamangkero ni Paraon mituo kang Propeta Musa",
+        "Usa ka dakong baha ang milamoy sa mga dili magtutuo"
+      ],
+      "answer": "Si Bilqis misunod sa korte ni Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

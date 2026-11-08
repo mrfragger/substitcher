@@ -1,0 +1,61 @@
+{
+  "title": "L-ospitalità li ġabet il-biża’",
+  "intro": "F’belt maħkuma mill-ħażen, qaddej leali rċieva viżitaturi mhux mistennija ġurnata waħda. Imħasseb dwar is-sigurtà tagħhom, dan l-individwu offra protezzjoni, iżda n-nies tal-belt talbu xi ħaġa tal-mistħija. Imwissi dwar tmiem imminenti, il-qaddej ħarab mal-familja tiegħu fid-dlam, u ħalla warajh belt immarkata għall-qerda. Min hu dan il-kredent waħdieni?",
+  "clues": [
+    "Intbgħatt bħala messaġġier lil poplu li kien involut f'atti tal-mistħija.",
+    "Viżitaturi mhux mistennija ġew f’dari, u kont iktar inkwetat għas-sigurtà tagħhom milli tiegħi.",
+    "In-nies tiegħi riedu jaraw lill-mistednin tiegħi għal intenzjonijiet ħżiena, u jien ippruvajt nirraġuna magħhom.",
+    "Il-viżitaturi tiegħi wrew lilhom infushom bħala anġli u ordnawni biex nieħu l-familja tiegħi u nitlaq bil-lejl.",
+    "Marti ma semgħetx is-sejħa biex taħrab u ffaċċjat l-istess qerda bħal niesi.",
+    "Il-belt tiegħi nqalbet b’xita ta’ ġebel magħmul minn tafal f’saffi, l-ogħla partijiet tagħha niżlu fl-aktar livell baxx."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Lut",
+        "Il-Profeta Musa",
+        "Profeta Ibrahim",
+        "Profeta Nuh",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "It-talba tan-nies tiegħi biex jersqu lejn il-mistednin tiegħi b'mod ħażin",
+        "Il-qsim tal-baħar biex jaħrab minn tirann",
+        "Il-bini ta’ arka kbira fost it-twaqqigħ għaċ-ċajt",
+        "Is-sagrifiċċju ta’ ibni f’prova tal-fidi",
+        "L-esperjenza li tinbela’ minn ħuta kbira"
+      ],
+      "answer": "It-talba tan-nies tiegħi biex jersqu lejn il-mistednin tiegħi b'mod ħażin"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-belt maqluba tal-poplu tiegħi",
+        "Il-muntanja fejn irċevejt diskors divin",
+        "L-arka li salpat minn ġo dilluvju kbir",
+        "Il-ġemela li ħarġet mill-blata",
+        "Il-ġnien b’viżitatur ġust moħbi"
+      ],
+      "answer": "Il-belt maqluba tal-poplu tiegħi"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Jiena ġejt salvat mal-familja tiegħi qabel ma l-belt tiegħi ġiet inqalbet",
+        "Jiena mexxejt lin-nies tiegħi lejn il-libertà minn naħa għall-oħra tal-baħar",
+        "Bnejt arka kbira u salvajt minn dilluvju qawwi",
+        "Ingħatajt dominju fuq ir-riħ u l-ġinn",
+        "Issaportejt it-tbatija bil-paċenzja u ġejt ippremjat bil-familja"
+      ],
+      "answer": "Jiena ġejt salvat mal-familja tiegħi qabel ma l-belt tiegħi ġiet inqalbet"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

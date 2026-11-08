@@ -1,0 +1,61 @@
+{
+  "title": "El alma paciente",
+  "intro": "En los anales de la profecía, existió un alma cuya paciencia estaba grabada en la esencia misma de su ser. A través de las lágrimas y el paso del tiempo, se aferró a la esperanza, convirtiéndose en un ejemplo eterno de confianza en la sabiduría divina. ¿Puedes desentrañar el misterio de esta figura inquebrantable?",
+  "clues": [
+    "Nací en una familia de profetas, pero mi mayor prueba llegó a través del niño al que más amaba.",
+    "Recibí una advertencia sobre los celos a través de un sueño que me contó mi hijo, y temí por su seguridad.",
+    "Mis ojos se enrojecieron de tristeza, pero nunca perdí la fe en la misericordia de Alá.",
+    "El aroma de mi hijo desaparecido me llegó desde lejos, y supe entonces que el reencuentro estaba cerca.",
+    "Mi familia hizo una reverencia en señal de gratitud cuando se cumplió la visión que tenía desde hacía tiempo y recuperé la vista.",
+    "A mí me entregaron una camisa manchada de sangre, para luego recibir otra que me curó la vista."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Ibrahim",
+        "Profeta Ishaq",
+        "Profeta Yaqub",
+        "Profeta Yusuf",
+        "Profeta Ayyub"
+      ],
+      "answer": "Profeta Yaqub"
+    },
+    "trial": {
+      "label": "El juicio crucial",
+      "options": [
+        "Separación de un hijo querido y pérdida de la vista",
+        "Ser arrojado a un fuego ardiente",
+        "Ser tragado por un gran pez",
+        "Soportar la pérdida de riqueza, hijos y salud.",
+        "Tras ser traicionado por sus hermanos y arrojado a un pozo"
+      ],
+      "answer": "Separación de un hijo querido y pérdida de la vista"
+    },
+    "location": {
+      "label": "El objeto simbólico",
+      "options": [
+        "Una camisa que primero ocultó la verdad y luego la reveló.",
+        "Un bastón que se convirtió en serpiente",
+        "Una ballena que se tragó a un profeta",
+        "Un fuego que se volvió frío",
+        "Un par de sandalias en la zarza ardiente"
+      ],
+      "answer": "Una camisa que primero ocultó la verdad y luego la reveló."
+    },
+    "outcome": {
+      "label": "La Resolución Divina",
+      "options": [
+        "Reencuentro con un ser querido fallecido y recuperación de la vista.",
+        "Rescate de una nación opresora",
+        "Liberación del vientre de un pez",
+        "Salvación de un fuego abrasador",
+        "Ascenso a un gran trono"
+      ],
+      "answer": "Reencuentro con un ser querido fallecido y recuperación de la vista."
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

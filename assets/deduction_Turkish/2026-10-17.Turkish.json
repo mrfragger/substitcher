@@ -1,0 +1,61 @@
+{
+  "title": "Kutsal Odadaki Özlem",
+  "intro": "Sessiz kutsal mekana girdiğinizde, Allah'ın sadık bir kulunun dua halinde ayakta durduğunu görürsünüz. Elleri kalkık, gözleri yukarıya dönük ve kalbinde ömür boyu süren bir özlem taşıyor. Allah'a olan güveni asla sarsılmayan bu sabırlı ruh kimdir?",
+  "clues": [
+    "Uzun yıllar ibadet ve dua ile geçirdim, imanımı güçlendiren mucizelere şahit oldum.",
+    "Kutsal mekânda bulunan mübarek bir genç ruha bakma sorumluluğu bana verildi.",
+    "Yaşım ilerledikçe en büyük üzüntüm çocuk sahibi olamamam oldu, çünkü eşim kısırdı ve ikimiz de ileri yaştaydık.",
+    "Rabbime, peygamberlik mirasını devam ettirecek, kendi ailemden bir halef için dua ettim.",
+    "Namaz kılma yerinde dururken melekler beni çağırdılar ve 'Allah sana müjde veriyor' dediler; bu yüzden korku ve huşu içinde kaldım.",
+    "Bana Yahya adında bir oğlum olacağı söylendi; bu isim daha önce kimseye verilmemişti ve bir işaret olarak üç gün boyunca kimseyle konuşmayacaktım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Zekeriya",
+        "Peygamber Yahya",
+        "Peygamber İsa",
+        "Peygamber Davud",
+        "Bilge Lukman"
+      ],
+      "answer": "Peygamber Zekeriya"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Sağlıklı bir varis arzusundayken kısırlık ve yaşlılık durumu",
+        "Alev alev yanan bir ateşe atılmak",
+        "Büyük bir balık tarafından yutulmak",
+        "Bir krallığı bir tiranın eline kaybetmek",
+        "Vatanından sürgün edilmek"
+      ],
+      "answer": "Sağlıklı bir varis arzusundayken kısırlık ve yaşlılık durumu"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Namaz yeri (mihrab)",
+        "Büyük gemi (Nuh'un Gemisi)",
+        "Yanan çalı",
+        "Yılana dönüşen asa",
+        "Allah'ın dişi devesi"
+      ],
+      "answer": "Namaz yeri (mihrab)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Ona salih bir oğul bahşedildi ve üç günlük sessizliğin ardından tekrar konuştu.",
+        "İnançsızlık yüzünden sel felaketiyle yok edildi.",
+        "Ona uçsuz bucaksız bir krallık ve rüzgar üzerinde kontrol verildi.",
+        "Balığın karnından teslim edildi",
+        "Toprak tarafından yutuldu"
+      ],
+      "answer": "Ona salih bir oğul bahşedildi ve üç günlük sessizliğin ardından tekrar konuştu."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ny Voan'ny Fifandirana",
+  "intro": "Talohan'ny nahafantaran'izao tontolo izao ny fifandonana miely patrana dia nisy fitsapana lalina ny finoana sy ny fankatoavana nitranga. Ity fitantarana ity dia mikaroka ny safidy nataon'ny olona iray, izay nametraka ohatra ho an'ny taranaka ho avy ny fihetsiny. Miomàna hamaha ny tantaran'ny fanahy iray miady amin'ny fialonana lehibe sy ny vokany mahatsiravina.",
+  "clues": [
+    "Anisan'ny taranaka voalohany teto an-tany aho, zanak'ilay mpivady olombelona voalohany indrindra.",
+    "Nodidiana hanolotra sorona ho an'i Allah izaho sy ny rahalahiko, ho fitsapana ny fahatsoram-ponay.",
+    "Tsy nekena ny fanatitro, fa ny an'ny rahalahiko kosa nekena, izay nameno ny foko tamin'ny fihetseham-po mahatsiravina.",
+    "Nilaza teny fandrahonana tamin'ny rahalahiko aho, noho ny fangidian'ny fandavana.",
+    "Namaly tamim-pahendrena sy fanajana ny rahalahiko, nampahatsiahy ahy ny rariny sy ny fahatahorana an'i Allah.",
+    "Na dia teo aza ny teny malefaka nataon'ny rahalahiko sy ny fahavononany hamela heloka, dia namono olona aho ka lasa anisan'ireo resy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Adama",
+        "Iblisy",
+        "Mpaminany Noa",
+        "Kaabil (Kaina)",
+        "Fir'awn"
+      ],
+      "answer": "Kaabil (Kaina)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny tondra-drano lehibe",
+        "Ny fisarahan'ny ranomasina",
+        "Ny fananganana ny Kaaba",
+        "Ny fanolorana fanatitra",
+        "Ny fakam-panahy tao amin'ny zaridaina"
+      ],
+      "answer": "Ny fanolorana fanatitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Fiara",
+        "Ny mpiasa",
+        "Ny Tendrombohitra Safa",
+        "Ny Sorona",
+        "Ny kirihitra mirehitra"
+      ],
+      "answer": "Ny Sorona"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Lasa mpitondra hafatra",
+        "Maty an-drano",
+        "Nanorina fanjakana lehibe",
+        "Lasa ohatra amin'ny nenina",
+        "Nomena harena be dia be"
+      ],
+      "answer": "Lasa ohatra amin'ny nenina"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Na Lámha Mallachtaithe",
+  "intro": "Seasann tú i gcúlbhóithre casta Mecca ársa, áit ar chas anam tionchair agus saibhris siar ó ghlao na fírinne tráth. Is meabhrúchán géar é scéal an fhigiúir seo nach féidir le ceangail fola slabhraí an uamhais a shárú. Cé hé an duine seo a bhfuil a ainm ag macalla leis an tine atá ag fanacht?",
+  "clues": [
+    "Shiúil mé sráideanna Mecca le bród a chuir dall orm ar an bhfírinne, cé gur de mo chuid fola féin a bhí an teachtaire.",
+    "Bhí mo sheilbh ollmhór, ach ba mhallacht seachas sciath a bhí iontu.",
+    "Labhraíonn leabhar na treorach faoi mo scrios, ag dearbhú go rachaidh mo lámha agus mo phearsa amú.",
+    "Chuaigh mo chéile isteach i mo fheachtas naimhdeas, ag bailiú dealga le scaipeadh ar chonair an té a ghlaoigh ar Allah.",
+    "Lá an bhreithiúnais, cuirfear mé i dtine lasrach, agus beidh rópa snáithín pailme timpeall mhuiníl mo chéile.",
+    "Is ainm mé a chiallaíonn 'athair na lasrach' — ainm a thuarann ​​mo chónaí síoraí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Triail nó Imeacht Eochair",
+      "options": [
+        "Chuir sé i gcoinne an Fháidh agus cuireadh mallacht air sa Qurán",
+        "Threoraigh arm chun an Kaaba a scrios",
+        "Rinneadh iarracht an Fáidh a mharú trí chlocha a chaitheamh",
+        "Dhiúltaigh sé a chreidiúint i scoilteadh na gealaí",
+        "Thóg túr chun na flaithis a bhaint amach"
+      ],
+      "answer": "Chuir sé i gcoinne an Fháidh agus cuireadh mallacht air sa Qurán"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tine lasrach Ifrinn",
+        "Foireann Mhúsa",
+        "Áirc Nuh",
+        "Tobar Zamzam",
+        "An Lao Órga"
+      ],
+      "answer": "Tine lasrach Ifrinn"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rachaidh sé isteach sa Tine lasrach, agus ní bheidh a shaibhreas ina chuidiú dó.",
+        "Rinne sé aithrí agus chreid sé",
+        "Maithíodh dó tar éis dó a cháineadh",
+        "Fuair ​​sé bás mar mhairtíreach",
+        "Tógadh suas chun na bhflaitheas é"
+      ],
+      "answer": "Rachaidh sé isteach sa Tine lasrach, agus ní bheidh a shaibhreas ina chuidiú dó."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

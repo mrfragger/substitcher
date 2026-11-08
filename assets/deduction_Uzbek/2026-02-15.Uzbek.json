@@ -1,0 +1,61 @@
+{
+  "title": "Sabr-toqat ovozi",
+  "intro": "Bu shaxs avlodlar davomida o'tib ketadigan maslahatlar berib, chuqur donolik va yo'l-yo'riq bilan yodda qoladi. Ularning so'zlari taqvodorlik va Ilohiy ne'matlar va sinovlarni tan olishning muhimligidan dalolat beradi. Bu hurmatli qalbning kimligini ochib bering.",
+  "clues": [
+    "Men payg'ambar emas edim, lekin mening donoligim Ilohiy Muqaddas Yozuvlarda abadiylashtirilgan.",
+    "Farzandimga bergan nasihatimda Allohga shukr qilish va shirkdan saqlanish ta'kidlangan edi.",
+    "Men namozning ahamiyati, yaxshilikka buyurish va yomonlikdan qaytarish haqida ta'lim berdim.",
+    "Men yer yuzida takabburlik va beadablik bilan yurishdan ogohlantirdim.",
+    "Mening ismim Qur'ondagi butun bir sura bilan bog'liq bo'lib, u mening ta'limotlarimni ta'kidlaydi.",
+    "Mening maslahatim qiyinchiliklarga sabr qilishni o'z ichiga olgan edi, chunki bu eng qat'iy ishlardandir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Idris payg'ambar",
+        "Yahyo payg'ambar",
+        "Luqmon",
+        "Imron",
+        "Payg'ambar Hud"
+      ],
+      "answer": "Luqmon"
+    },
+    "trial": {
+      "label": "Asosiy o'qitish/qo'llanma",
+      "options": [
+        "Kema qurish",
+        "Kuchli armiyaga duch kelish",
+        "Donolik va axloqiy maslahatlarni tarqatish",
+        "Tushlarni talqin qilish",
+        "Millatni g'alabaga olib borish"
+      ],
+      "answer": "Donolik va axloqiy maslahatlarni tarqatish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yonayotgan buta",
+        "Katta baliq",
+        "Muayyan tog'",
+        "Avlodga dono maslahat",
+        "Buyuk saroy"
+      ],
+      "answer": "Avlodga dono maslahat"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Qirol bo'ldi",
+        "Payg'ambarlik berilgan",
+        "Uning donoligi Qur'onda qayd etilgan",
+        "O'z xalqini yangi yurtga olib bordi",
+        "Unga ulkan boylik berilgan"
+      ],
+      "answer": "Uning donoligi Qur'onda qayd etilgan"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

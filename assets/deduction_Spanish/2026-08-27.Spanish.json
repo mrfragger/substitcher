@@ -1,0 +1,61 @@
+{
+  "title": "El Elegido Elocuente",
+  "intro": "A la sombra de una montaña donde descendían palabras divinas, la fe de un pueblo vacilaba bajo el brillo del oro. Un alma, dotada de elocuencia, se erigía como apoyo a una misión mayor, pero se enfrentaba a una prueba crucial. Cuando el mensajero elegido ascendió a un lugar sagrado, esta figura permaneció atrás, implorando a una nación inquieta. ¿Quién es esta alma firme cuya voz se alzó contra la idolatría?",
+  "clues": [
+    "Fui elegido por Alá para ser profeta, aunque mi historia a menudo se cuenta junto con la de otra persona.",
+    "Me enviaron al servicio de un gobernante tirano, pero mi función era la de apoyar, no la de liderar.",
+    "Me habían dotado de elocuencia, y mis palabras estaban destinadas a ablandar los corazones.",
+    "Cuando mi compañero partió para una cita sagrada, me quedé a cargo de guiar a un pueblo inquieto.",
+    "En su impaciencia, fabricaron una imagen con sus adornos, y les rogué que permanecieran fieles a Alá.",
+    "Mi compañero regresó y me apresó, pero le expliqué que la gente me había vencido y casi me mata; yo no estaba entre los malhechores."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Musa",
+        "Profeta Harún",
+        "Profeta Isaías",
+        "Profeta Yahya",
+        "Profeta Zacarías"
+      ],
+      "answer": "Profeta Harún"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser arrojado al fuego",
+        "Ser arrojado a un pozo",
+        "Ante el incidente del becerro de oro",
+        "La prueba de una enfermedad grave",
+        "La prueba de perder riqueza e hijos"
+      ],
+      "answer": "Ante el incidente del becerro de oro"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El becerro de oro",
+        "El personal",
+        "El Arca de la Alianza",
+        "Las tabletas",
+        "La zarza ardiente"
+      ],
+      "answer": "El becerro de oro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Castigado severamente",
+        "Perdonado y exonerado",
+        "Lo hicieron rey",
+        "Llevado al cielo",
+        "Dado un nuevo pasaje bíblico"
+      ],
+      "answer": "Perdonado y exonerado"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

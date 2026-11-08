@@ -1,0 +1,61 @@
+{
+  "title": "Ikholwa Elifihliwe",
+  "intro": "Ezindlini zamandla ezicebile, lapho ukungakholwa nobushiqela kwakubusa khona, izwi elilodwa leqiniso lakhuluma livela endaweni engalindelekile. Lo muntu waphonsela inselelo igunya lokuvikela isithunywa, ebeka ukuphepha kwakhe engozini ukuze amemezele iqiniso.",
+  "clues": [
+    "Ngangihlala ezweni elinobushiqela obukhulu, ngikhonza umbusi owayethi unguNkulunkulu.",
+    "Ngagcina izinkolelo zami zeqiniso zifihliwe iminyaka eminingi, ngesaba imiphumela yokuziveza.",
+    "Lapho kufika isithunywa nezibonakaliso ezicacile, ngakholwa, kodwa abantu bami bamenzela ugobe.",
+    "Ngema phambi kombusi nomkhandlu wakhe, ngiphikisana ngokuthi akufanele babulale isithunywa esingenacala.",
+    "Ngabaxwayisa ngesijeziso sezizwe zesikhathi esidlule ezalahla iqiniso, njengabantu bakaNowa no-'Ad.",
+    "U-Allah wangisindisa emacebweni abo amabi, futhi ngabona ukubhujiswa kombuso ocindezelayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Ikholwa Lomndeni KaFaro",
+        "Isazi Semilingo SikaFaro",
+        "Isazi SikaFaro",
+        "UmkaFaro",
+        "Umgcini-zimali kaFaro"
+      ],
+      "answer": "Ikholwa Lomndeni KaFaro"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuvikela umprofethi ekubulaweni",
+        "Ukuphonsela inselelo amaqhinga omthakathi",
+        "Ukwakha umbhoshongo ukuze ufinyelele esibhakabhakeni",
+        "Ukuhlukanisa ulwandle ukuze kuphunyuke",
+        "Ukuhumusha iphupho lenkosi"
+      ],
+      "answer": "Ukuvikela umprofethi ekubulaweni"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Inkantolo kaFaro",
+        "Isihlahla esivuthayo",
+        "Ithole legolide",
+        "Umthombo waseMadyan",
+        "Umphongolo woMprofethi uNuh"
+      ],
+      "answer": "Inkantolo kaFaro"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Usindiswe ekulimaleni ngenkathi abacindezeli bebhujiswa",
+        "Waba umbusi onamandla",
+        "Waphonswa emlilweni waphuma engenamyocu",
+        "Wagwinywa umhlaba",
+        "Wazulazula ehlane iminyaka engamashumi amane"
+      ],
+      "answer": "Usindiswe ekulimaleni ngenkathi abacindezeli bebhujiswa"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

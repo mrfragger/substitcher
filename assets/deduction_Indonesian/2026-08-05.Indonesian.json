@@ -1,0 +1,61 @@
+{
+  "title": "Hari Pertunjukan Terakhir",
+  "intro": "Dipanggil untuk sebuah pertunjukan kekuatan yang megah, sekelompok pemain terampil mendapati diri mereka menghadapi kebenaran tak terduga yang akan mengubah hidup mereka selamanya.",
+  "clues": [
+    "Kami terkenal karena keahlian kami, para ahli ilusi dan tipu daya.",
+    "Kami dipanggil oleh penguasa untuk menghadapi penantang yang hanya memegang tongkat sederhana.",
+    "Ketika kami melihat kebenaran, kami sujud bersujud, menyatakan kepercayaan kepada Tuhan semesta alam.",
+    "Sang tiran mengancam kami dengan hukuman berat, tetapi kami tidak gentar.",
+    "Kami termasuk yang pertama mempercayai pesan tersebut setelah menyaksikan tanda yang jelas.",
+    "Kami gugur sebagai syuhada karena iman kami, tetapi kami akan menjadi yang pertama masuk Surga bersama orang-orang yang saleh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Para Penyihir Firaun",
+        "Orang Israel",
+        "Kaum Thamud",
+        "Murid-murid Yesaya",
+        "Tentara Abraha"
+      ],
+      "answer": "Para Penyihir Firaun"
+    },
+    "trial": {
+      "label": "Uji Coba / Acara",
+      "options": [
+        "Kompetisi dengan Nabi Musa",
+        "Membangun Menara",
+        "Banjir Besar",
+        "Wabah Belalang",
+        "Laut yang Terbelah"
+      ],
+      "answer": "Kompetisi dengan Nabi Musa"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Hari Raya",
+        "Lembah Tuwa",
+        "Kota Iram",
+        "Taman Keabadian",
+        "Dataran Arafat"
+      ],
+      "answer": "Hari Raya"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Mereka disalib di depan umum.",
+        "Mereka tenggelam di laut.",
+        "Mereka dijadikan pengikut nabi.",
+        "Mereka diasingkan",
+        "Mereka hangus terbakar."
+      ],
+      "answer": "Mereka disalib di depan umum."
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

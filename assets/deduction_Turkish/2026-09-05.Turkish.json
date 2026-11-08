@@ -1,0 +1,61 @@
+{
+  "title": "Batan İhtişam",
+  "intro": "Şöyle bir tablo hayal edin: İnce giysiler içinde, hayal gücünün ötesinde hazinelerle çevrili bir ruh. Bu kişi, zenginliğinin kendi zekasıyla kazanıldığına inanıyordu ve gerçek rızkın kaynağını asla kabul etmiyordu. Kudretli bir peygamberin takipçileri arasında yürüyen bu kişi, tevazu çağrılarını reddetti. Bugün, muhteşem serveti son dinlenme yeri olan bu figürün kimliğini ortaya çıkarıyoruz.",
+  "clues": [
+    "Ben, inatçı bir milleti hakikate çağıran bir peygamberin yaşadığı dönemde yaşadım.",
+    "Seçilmiş bir topluluğun parçasıydım, yine de kalbim mesajdan uzaklaştı.",
+    "Altın ve gümüş, ilahi bir emirden daha çok beni büyüledi.",
+    "Hazine kasalarım o kadar büyüdü ki, güçlü bir grup adam bile anahtarları zorlukla kaldırabiliyordu.",
+    "Servetimin kendi bilgi birikimim sayesinde bana verildiğini övünerek anlatıyordum.",
+    "Sonunda, ben ve bütün evim, bir uyarı olarak yerin dibine gömüldük."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Karun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Servete karşı kibir ve yardımdan kaçınma",
+        "Eritilmiş mücevherlerden altın bir put yapmak",
+        "Güçlü bir krallık üzerinde ilahlık ilan etmek",
+        "Mekke'de ilk inananlara yönelik zulüm.",
+        "Kutsal Evi yok etme kampanyasına öncülük etmek"
+      ],
+      "answer": "Servete karşı kibir ve yardımdan kaçınma"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Anahtarları birçok güçlü erkeğe yük olan hazineler",
+        "Ses çıkaran altın bir buzağı",
+        "Uzak bir diyardan gelen görkemli bir taht",
+        "Alev alev yanan bir hendek",
+        "Büyük bir savaş fili ordusu"
+      ],
+      "answer": "Anahtarları birçok güçlü erkeğe yük olan hazineler"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Konutla birlikte toprak tarafından yutuldu.",
+        "Orduyla birlikte denizde boğuldu",
+        "Ateş çukurunda diri diri yakıldı",
+        "Uğultulu, azgın bir rüzgar tarafından yerle bir edildi.",
+        "Tek bir güçlü patlamayla yere serildi"
+      ],
+      "answer": "Konutla birlikte toprak tarafından yutuldu."
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

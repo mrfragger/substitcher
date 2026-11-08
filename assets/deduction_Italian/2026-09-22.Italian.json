@@ -1,0 +1,61 @@
+{
+  "title": "I costruttori delle alte colonne",
+  "intro": "Ti trovi di fronte alle rovine di un'antica e maestosa città, le cui alte colonne sono ormai crollate. Il vento ulula tra le strade deserte, portando con sé il ricordo di un popolo potente che un tempo dominava queste terre. Chi erano?",
+  "clues": [
+    "Eravamo un popolo di immensa forza e abilità, noto per i nostri grandi edifici e la nostra civiltà avanzata.",
+    "Vivevamo in una terra di dune di sabbia e colline rocciose, e credevamo che nessuno potesse sopraffarci.",
+    "Un messaggero, proveniente dai nostri stessi parenti, ci invitò ad adorare solo Allah, ma noi lo rifiutammo e lo deridemmo.",
+    "Ci vantavamo dicendo: \"Chi è più forte di noi?\" e continuavamo nella nostra arroganza e nel culto degli idoli.",
+    "Allah ha mandato su di noi un vento furioso che ha soffiato per sette notti e otto giorni, devastando ogni cosa.",
+    "Noi eravamo il popolo di 'Ad, i costruttori di Iram, e il nostro destino divenne un monito per tutti coloro che vennero dopo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Persone di 'Ad",
+        "Popolo di Thamud",
+        "Popolo di Madyan",
+        "Abitanti di Tubba'",
+        "Popolo di al-Rass"
+      ],
+      "answer": "Persone di 'Ad"
+    },
+    "trial": {
+      "label": "Quale fu la punizione inflitta loro?",
+      "options": [
+        "Un vento devastante",
+        "Una pioggia di pietre",
+        "Un forte boato",
+        "Annegare a causa di un'alluvione",
+        "Inghiottito dalla terra"
+      ],
+      "answer": "Un vento devastante"
+    },
+    "location": {
+      "label": "Qual è il nome della loro città leggendaria?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midian",
+        "Babele",
+        "Cardiff"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Quale fu il loro destino finale?",
+      "options": [
+        "Furono distrutti e i loro resti divennero una lezione",
+        "Si pentirono e furono salvati",
+        "Furono trasformati in scimmie",
+        "Sono annegati in mare",
+        "Furono sepolti sotto una frana"
+      ],
+      "answer": "Furono distrutti e i loro resti divennero una lezione"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

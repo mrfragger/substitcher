@@ -1,0 +1,61 @@
+{
+  "title": "L'hospitalitat que va portar por",
+  "intro": "En una ciutat consumida per la maldat, un servent fidel va rebre visites inesperades un dia. Preocupat per la seva seguretat, aquest individu va oferir protecció, però la gent de la ciutat va exigir alguna cosa vergonyosa. Advertit d'una condemna imminent, el servent va fugir amb la seva família a l'empara de la foscor, deixant enrere una ciutat destinada a la destrucció. Qui és aquest únic creient?",
+  "clues": [
+    "Vaig ser enviat com a missatger a un poble que havia comès actes vergonyosos.",
+    "Van venir visites inesperades a casa meva, i estava més preocupat per la seva seguretat que per la meva.",
+    "La meva gent va exigir veure els meus convidats per males intencions, i vaig intentar raonar amb ells.",
+    "Els meus visitants es van revelar com a àngels i em van ordenar que agafés la meva família i marxés a la nit.",
+    "La meva dona no va escoltar la crida a escapar i va afrontar la mateixa destrucció que el meu poble.",
+    "La meva ciutat va ser enderrocada per una pluja de pedres d'argila en capes, i les seves parts més altes van ser reduïdes a la base."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Lut",
+        "Profeta Musa",
+        "Profeta Ibrahim",
+        "Profeta Nuh",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "L'exigència del meu poble d'acostar-se maliciosament als meus convidats",
+        "La separació del mar per escapar d'un tirà",
+        "La construcció d'una gran arca entre burles",
+        "El sacrifici del meu fill en una prova de fe",
+        "L'experiència de ser engolit per un gran peix"
+      ],
+      "answer": "L'exigència del meu poble d'acostar-se maliciosament als meus convidats"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La ciutat derrocada del meu poble",
+        "La muntanya on vaig rebre la parla divina",
+        "L'arca que va navegar a través d'una gran inundació",
+        "La camella que va emergir de la roca",
+        "El jardí amb un visitant just amagat"
+      ],
+      "answer": "La ciutat derrocada del meu poble"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Em van salvar amb la meva família abans que la meva ciutat fos destruïda",
+        "Vaig guiar el meu poble cap a la llibertat a través del mar",
+        "Vaig construir una gran arca i vaig sobreviure a una gran inundació",
+        "Em van donar el domini sobre els vents i els djins",
+        "Vaig suportar pacientment el sofriment i vaig ser recompensat amb una família"
+      ],
+      "answer": "Em van salvar amb la meva família abans que la meva ciutat fos destruïda"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

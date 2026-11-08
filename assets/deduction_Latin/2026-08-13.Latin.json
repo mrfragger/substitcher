@@ -1,0 +1,61 @@
+{
+  "title": "Anima Patiens Domus Sacrae",
+  "intro": "In paginis Corani, figura e stirpe magni prophetae emergit, dono in senectute concessa. Haec anima celebratur propter veritatem constantem et munus grave in constituendo sanctuario quod futurum esset signum fidei. Dum indicia legis, diligenter ausculta vocem e praeterito, nam in prima persona loquitur.",
+  "clues": [
+    "In Alcorano una cum alio propheta memoror tamquam donum nuntio seni concessum.",
+    "Unus ex duabus progeniibus fui qui vati illi in annis suis posterioribus donati sunt.",
+    "In Alcorano laudabor quod verbo meo fidelis sum.",
+    "Honorem prophetiae gessi et tamquam nuntius missus sum.",
+    "Patri meo iunctus sum in fundamentis Sacrae Domus erigendis.",
+    "Memini ut unus ex patientibus, et sacra domus quam aedificavimus locus reditus et securitatis hominibus facta est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ismailus",
+        "Propheta Isaac",
+        "Propheta Yaqub",
+        "Propheta Zacharias",
+        "Propheta Yahya"
+      ],
+      "answer": "Propheta Ismailus"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Fundamenta Kaabae cum Ibrahim erigentes",
+        "In ignem coniectus",
+        "A balaena deglutiri",
+        "Educens Israelitas ex Aegypto",
+        "Arcam aedificans"
+      ],
+      "answer": "Fundamenta Kaabae cum Ibrahim erigentes"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Kaaba",
+        "Mons Sinai",
+        "Mare Rubrum",
+        "Vitulus Aureus",
+        "Hortus Edenensis"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Inter aegros numeratus",
+        "Inter malefactores numeratus",
+        "Inter magos numeratus",
+        "Inter infideles numeratus",
+        "Inter hypocritas numeratus"
+      ],
+      "answer": "Inter aegros numeratus"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

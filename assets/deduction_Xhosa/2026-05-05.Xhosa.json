@@ -1,0 +1,61 @@
+{
+  "title": "Ukwamkelwa Komhlaba",
+  "intro": "Ngexesha lezilingo ezinkulu, umntu odumileyo wanikwa ubutyebi obukhulu behlabathi, uvavanyo lombulelo nokuthobeka. Uhambo lwalo mntu lusebenza njengesifundo esinzulu malunga nokuphela kwexesha kwezinto eziphathekayo kunye nemiphumo yokuzikhukhumeza. Tyhila ubuwena balo mphefumlo obali lakhe liqoshwe emhlabeni phantsi kwethu.",
+  "clues": [
+    "Bendihlala phakathi kwabantu abakhokelwa ngumthunywa omkhulu.",
+    "U-Allah undinike ubutyebi obukhulu kangangokuba izitshixo zobutyebi bam zaba ngumthwalo onzima kubantu abaninzi abanamandla.",
+    "Abantu bam, besazi ubutyebi bam, bandicebisa ukuba ndifune indawo yokuhlala yeLizwe elizayo ngento endiyinikwe nguAllah kwaye ndingayilibali isabelo sam sehlabathi, kwaye ndenze okulungileyo njengoko uAllah wandenzela okulungileyo.",
+    "Ndathi ngekratshi ukuba ubutyebi bam obuninzi bufunyenwe kuphela ngolwazi lwam nomgudu wam, ndisala naluphi na ubabalo lukaThixo.",
+    "Xa ndacelwa ukuba ndinikele okanye ndivume intsikelelo ka-Allah, ndala ngekratshi, ndikholelwa ukuba izinto zam zezam zodwa.",
+    "Ngenxa yokuzikhukhumeza kwam okukhulu nokucinezela, uAllah wayalela umhlaba ukuba uvuleke undiginye mna nendawo yam yokuhlala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UFir'awn",
+        "I-Iblis",
+        "UHaman",
+        "U-Abu Lahab",
+        "IQarun"
+      ],
+      "answer": "IQarun"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuphoswa emlilweni",
+        "Ukuntywiliselwa elwandle",
+        "Ukugxothwa emyezweni",
+        "Ukuguqulwa ube yinkawu",
+        "Ukuginywa ngumhlaba"
+      ],
+      "answer": "Ukuginywa ngumhlaba"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ithole legolide",
+        "Umkhombe onamandla",
+        "Intaka ethethayo",
+        "Intonga engummangaliso",
+        "Ubutyebi obukhulu kunye nezitshixo"
+      ],
+      "answer": "Ubutyebi obukhulu kunye nezitshixo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukuba ngumlawuli omkhulu",
+        "Ukufumana isityhilelo sikaThixo",
+        "Ukunyukela emazulwini",
+        "Ukuphila ubomi obude bobungcwele",
+        "Intshabalalo epheleleyo ngenxa yokuzikhukhumeza"
+      ],
+      "answer": "Intshabalalo epheleleyo ngenxa yokuzikhukhumeza"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

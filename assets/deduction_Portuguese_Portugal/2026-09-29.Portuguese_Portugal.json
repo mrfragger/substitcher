@@ -1,0 +1,61 @@
+{
+  "title": "O Profeta das Montanhas Esculpidas",
+  "intro": "Nos desertos inóspitos da Arábia antiga, uma figura emergiu entre um povo renomado por seu extraordinário artesanato. Suas casas se erguiam da rocha sólida, mas seus corações eram mais duros que as montanhas que esculpiam. Um mensageiro divino chegou com um único sinal milagroso — mas o orgulho e a rebeldia levaram a consequências rápidas e terríveis. Você consegue identificar o nobre servo cujo povo escolheu a destruição em vez da orientação?",
+  "clues": [
+    "Fui enviado como um mensageiro para advertir meu povo, chamando-o à adoração do Deus Único.",
+    "Meu povo vivia entre formações rochosas impressionantes, esculpindo magníficas moradias nas encostas das montanhas.",
+    "Uma camela milagrosa emergiu de uma rocha sólida após minha oração, um sinal claro do Todo-Poderoso.",
+    "Eu disse ao meu povo para compartilhar a água com essa camela e não lhe fazer mal.",
+    "Meu povo conspirou contra a camela e a deixou com os tendões aleijados, selando sua própria destruição.",
+    "Um terremoto terrível atingiu meu povo, e eles ficaram caídos e imóveis em suas casas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Shu'ayb",
+        "Profeta Noé",
+        "Profeta Moisés"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Qual foi o julgamento decisivo?",
+      "options": [
+        "A lesão nos tendões de uma camela milagrosa",
+        "Construindo uma grande arca em meio ao escárnio",
+        "Confrontando um faraó tirano",
+        "Ser lançado em um fogo ardente",
+        "A quebra do pacto do sábado"
+      ],
+      "answer": "A lesão nos tendões de uma camela milagrosa"
+    },
+    "location": {
+      "label": "Qual era o elemento central?",
+      "options": [
+        "Uma camela que emergiu da rocha",
+        "Uma grande arca de madeira",
+        "Um cajado que dividiu o mar",
+        "Uma baleia enorme",
+        "Uma montanha suspensa acima de nós"
+      ],
+      "answer": "Uma camela que emergiu da rocha"
+    },
+    "outcome": {
+      "label": "Qual foi o destino final deles?",
+      "options": [
+        "Um terremoto repentino vindo dos céus",
+        "Afogado em uma grande enchente",
+        "Suas cidades foram destruídas por ordem divina.",
+        "Queimado por um vento escaldante",
+        "Engolido pela terra"
+      ],
+      "answer": "Um terremoto repentino vindo dos céus"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

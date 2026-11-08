@@ -1,0 +1,61 @@
+{
+  "title": "Izopćenik s nebesa",
+  "intro": "Misteriozno biće stoji na raskršću stvaranja i odbacivanja. Njihova priča je priča o neviđenoj aroganciji i krajnjem prkosu božanskoj zapovijedi. Njihov izbor odjekuje kroz svaku generaciju, postajući test za svaku dušu rođenu na ovom svijetu. Možete li identificirati ovog vječnog protivnika?",
+  "clues": [
+    "Bio sam prisutan događaju od kosmičkog značaja, kada je novo biće formirano od gline i oživljeno Dahom Milosrdnog.",
+    "Ja sam sam nastao od jednog plamtećeg elementa, za razliku od onoga što je od praha.",
+    "Izdata mi je naredba koju sam smatrao ispod svog položaja.",
+    "Ponos je u meni narastao i odlučno sam odbio da se povinujem toj naredbi.",
+    "Dato mi je odlaganje do određenog Dana, kako bih mogao ostvariti svoju izjavljenu namjeru obmanjivanja drugih.",
+    "Ja sam proglašeni neprijatelj svih koji hodaju zemljom, šapućući obmane i mameći ih s pravog puta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Iblis (Sotona)",
+        "Faraon (Faraon)",
+        "Haman",
+        "Ebu Džehl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Sotona)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Odbio se pokloniti pred Adamom",
+        "Lažno tvrdio da je božanski",
+        "Iskovao zlatno tele za obožavanje",
+        "Ubio je brata iz zavisti",
+        "Predvodio je politeističku opoziciju u Meki"
+      ],
+      "answer": "Odbio se pokloniti pred Adamom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Raj (Džennet)",
+        "Faraonova palača u Egiptu",
+        "Sveta dolina Tuwa",
+        "Dubine mora",
+        "Vrt od Sabe"
+      ],
+      "answer": "Raj (Džennet)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dobio odgodu do Sudnjeg dana",
+        "Utopio se zajedno s vojskom u moru",
+        "Progutala ga zemlja zajedno s blagom",
+        "Pretvoreni u majmune zbog kršenja Sabata",
+        "Spaljen kamenjem bačenim s neba"
+      ],
+      "answer": "Dobio odgodu do Sudnjeg dana"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

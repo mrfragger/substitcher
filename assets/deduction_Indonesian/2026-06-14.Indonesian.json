@@ -1,0 +1,61 @@
+{
+  "title": "Api yang Melahirkan Sebuah Warisan",
+  "intro": "Dalam catatan sejarah perlawanan, terdapat sosok yang namanya sendiri menjadi peringatan hingga akhir zaman. Orang ini memilih permusuhan daripada kekerabatan, pembangkangan daripada kepatuhan, dan menentang seruan belas kasihan. Dengarkan dengan saksama gema proklamasi kuno saat kita mengungkap identitas jiwa yang terkenal ini.",
+  "clues": [
+    "Aku lahir di klan yang sama dengan utusan terakhir Allah, namun aku selalu menentang mereka.",
+    "Namaku memiliki makna—nama yang berarti 'ayah dari api,' sebuah nama yang akan menjadi pertanda takdir abadi saya.",
+    "Aku melancarkan serangan terhadap pembawa kebenaran, dan bahkan keluargaku sendiri ikut serta dalam kampanye kekejaman ini.",
+    "Aku menggunakan kekayaan dan pengaruhku untuk membungkam seruan kepada Allah, karena percaya bahwa uang dapat memadamkan cahaya ilahi.",
+    "Allah mendedikasikan satu bab penuh untukku—bab yang begitu singkat sehingga dapat dibaca dalam hitungan detik, namun bobotnya tetap ada hingga Hari Kiamat.",
+    "Temanku di Akhirat berjalan di belakangku, terikat tali serat di lehernya, membawa duri-duri yang dulu mereka gunakan untuk menyebar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah bin Nawfal",
+        "Umayyah bin Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Mendefinisikan Konfrontasi",
+      "options": [
+        "Memimpin oposisi terhadap Nabi di Mekah",
+        "Bermigrasi ke Abyssinia untuk menghindari penganiayaan",
+        "Membangun Ka'bah bersama Nabi Ibrahim",
+        "Menerima Islam di ranjang kematian",
+        "Penyusunan Perjanjian Hudaybiyyah"
+      ],
+      "answer": "Memimpin oposisi terhadap Nabi di Mekah"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Seorang istri yang membawa duri dan kayu bakar",
+        "Sebuah tongkat yang berubah menjadi ular.",
+        "Cincin yang berstempel Salomo",
+        "Anak lembu emas yang disembah oleh orang-orang",
+        "Sebuah mata air yang menyemburkan air"
+      ],
+      "answer": "Seorang istri yang membawa duri dan kayu bakar"
+    },
+    "outcome": {
+      "label": "Perhitungan Akhir",
+      "options": [
+        "Seluruh surah diturunkan yang menyatakan kehancuran total.",
+        "Menjadi pemimpin komunitas Muslim",
+        "Menerima pengampunan pada saat kematian",
+        "Membangun sebuah masjid besar di Madinah.",
+        "Dibangkitkan di antara orang-orang saleh"
+      ],
+      "answer": "Seluruh surah diturunkan yang menyatakan kehancuran total."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

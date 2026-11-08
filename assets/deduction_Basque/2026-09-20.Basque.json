@@ -1,0 +1,61 @@
+{
+  "title": "Tiranoaren Gorteko Sinestun Estalia",
+  "intro": "Koranak ezagutzen duen agintari harroputzenaren urrezko aretoetan —non Jainkoarekiko desafioak ediktu guztiak definitzen zituen—, arima bat ibili zen pribilegiatuen artean, sekretu arriskutsuenak begi-bistan ezkutatuz. Pertsona honek debekatutako fedea zeraman horma horien artean, ezen aurkitzeak heriotza ziurra esan nahi baitzuen. Hala ere, konbikzioa errautsen azpian sugarra bezala erretzen zen, eta unea iritsi zenean, egia tiranoaren jauregiaren oinarriak astindu zituen ausardiaz oihartzun egin zuen.",
+  "clues": [
+    "Nire garaiko agintari boteretsuen eta harroputzenetakoaren barne-zirkuluan bizi nintzen, luxuz eta eraginez inguratuta.",
+    "Nire benetako sinesmena bihotzaren sakonean ezkutatu nuen, krudelkeriaz eta zapalkuntzaz gobernatu zutenen beldurrez nire bizitzaren alde.",
+    "Nire herriak egiaren aurrean zalantzan eta ezegonkortasunean ibili zenean, aurrerapauso bat eman nuen Jaunaren mezulariak arbuiatu zituzten iraganeko nazioei gertatu zitzaien patu tragikoaren berri emateko.",
+    "Nire herriari gogorarazi nion maite zuen ameslari gazte baten istorioa, bere ahaideek lur jota utzi zutena, baina urrutiko lurralde batean autoritate handia lortu zuena.",
+    "Nire herriari eskatu nien ez obeditzeko bidetik desbideratu zituen agintariari, eta horren ordez, zuzentasunaren eta gidaritzarako bidetik niri jarraitzera gonbidatu nituen.",
+    "Egia esan nuen argi eta garbi, tiranoaren jarraitzaileek harrika hiltzeko edo lurraldetik kanporatzeko mehatxua egin bazuten ere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Faraoiaren familiako sinestun ezkutua",
+        "Pazientzia handiko patriarka bat, itsu-itsuan negar egin zuena bere semea itzuli arte",
+        "Azkenean sendatu zitzaion azaleko gaixotasuna zuen zerbitzari leial bat",
+        "Profeta baten Arkan sartzeko gonbidapena ukatu zuen seme bekatari bat",
+        "Bere buruari jainkotasuna aldarrikatu zion tirano gupidagabea"
+      ],
+      "answer": "Faraoiaren familiako sinestun ezkutua"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Tirano baten gortean fedea ezkutatzea",
+        "Urteetan negarrez itsutasuna jasaten",
+        "Familia galtzeak eta atsekabe larriak probatzen dituzte",
+        "Itsasontzi handi bat eraikitzen iseka egiten dizuten bitartean",
+        "Sute handi baten bero itogarria jasanez"
+      ],
+      "answer": "Tirano baten gortean fedea ezkutatzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Faraoiaren jauregia",
+        "Arka bat eraiki zen mendi-tontorra",
+        "Sinai mendiaren azpian dagoen haran sakratua",
+        "Bi erreka jario dituen lorategi bikaina",
+        "Kristalezko tronu bat lurpeko ibai baten gainean"
+      ],
+      "answer": "Faraoiaren jauregia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Jainkozko babesa zapaltzaileek suntsipena jasan zuten bitartean",
+        "Hamarkadetako banantzearen ondoren, familiarekin elkartu zen",
+        "Pazientzia, osasuna berreskuratua eta familia handiago bat eman zitzaizkion",
+        "Munduko gainerakoak itota hil ziren bitartean, itsasontzi batean salbatu zen",
+        "Alaren aginduz suetatik onik erreskatatu zuten"
+      ],
+      "answer": "Jainkozko babesa zapaltzaileek suntsipena jasan zuten bitartean"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

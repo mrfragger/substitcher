@@ -1,0 +1,61 @@
+{
+  "title": "Mesaje yon peche san parèy",
+  "intro": "Gen kèk istwa nan Koran an ki revele pwofondè koripsyon yon sosyete antye ka tonbe ladan l. Mesaje sa a te kanpe poukont li, ap plede ak yon pèp ki te nwaye nan yon pervèsyon ke okenn nasyon anvan yo pa t janm pouswiv. Malgre plizyè ane avètisman, kè yo te rete di, epi dekrè diven an te rive nan yon fason ki pi terib. Èske ou ka idantifye mesaje nòb Allah sa a?",
+  "clues": [
+    "Yo voye m' kòm yon avètisman pou yon pèp ki nan yon move bagay, yon bagay okenn nasyon anvan yo pa t' janm fè.",
+    "Pèp mwen an te rele m mantè epi yo te menase pou yo mete patizan m yo ak mwen deyò nan peyi a.",
+    "Vizitè onore yo te vin lakay mwen sou fòm jèn gason ki t ap grèv, epi mwen te santi m pwofondman lapenn pou sekirite yo.",
+    "Pèp mwen an te egzije pou mwen lage envite m yo ba yo, san yo pa konnen ke vizitè sa yo se te zanj Allah te voye.",
+    "Pwòp mari m pa t pataje lafwa mwen an epi li te chwazi rete avèk moun ki kondane yo.",
+    "Mwen te sove ansanm ak pitit fi mwen yo nan granmaten, pandan yon gwo lapli wòch t ap tonbe epi vil nou yo te ranvèse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Lout",
+        "Pwofèt Chou'aib",
+        "Pwofèt Hud",
+        "Pwofèt Nouh",
+        "Pwofèt Salih"
+      ],
+      "answer": "Pwofèt Lout"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Yon gwo inondasyon anvayi tè a",
+        "Pèdi vizyon akòz soufrans ki dire lontan",
+        "Yon tiran ki pretann divinite",
+        "Yo jete yo nan yon gwo dife",
+        "Yo mande yo pou yo remèt envite onore yo"
+      ],
+      "answer": "Yo mande yo pou yo remèt envite onore yo"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon gwo lach ki te konstwi ak men",
+        "Yon baton ki fann lanmè a",
+        "Yon chamo mirakile",
+        "Yon dife byen fò",
+        "Vil ki ranvèse yo"
+      ],
+      "answer": "Vil ki ranvèse yo"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Nwaye pandan l ap pouswiv kwayan yo",
+        "Sove anba yon fou dife san okenn domaj",
+        "Leve vivan nan syèl la",
+        "Fanmi an peri nan yon gwo inondasyon",
+        "Fanmi sove eksepte yon madanm enfidèl"
+      ],
+      "answer": "Fanmi sove eksepte yon madanm enfidèl"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

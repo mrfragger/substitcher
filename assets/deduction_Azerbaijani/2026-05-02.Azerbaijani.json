@@ -1,0 +1,61 @@
+{
+  "title": "Qəbir Mesajının Daşıyıcısı",
+  "intro": "Görünməmiş günahlar içində azmış bir xalqı doğru yola yönəltmək üçün saleh bir ruh göndərildi. Bu elçi möhkəm dayandı və təbii nizama meydan oxuyan bir fitnəyə qarşı sərt bir xəbərdarlıq etdi. Ciddi yalvarışlara baxmayaraq, icma daha da qaranlığa qərq oldu və digərlərindən fərqli olaraq ilahi hesablaşma üçün zəmin yaratdı. Allahın bu səbrli bəndəsini tanıya bilərsinizmi?",
+  "clues": [
+    "Mən başqa bir böyük peyğəmbərin qohumu idim və onunla birlikdə hicrət etdim, vətənimizi geridə qoydum.",
+    "Mən elə bir xalqa göndərildim ki, onların pisliyi misilsiz idi, onlardan əvvəl heç bir məxluqun etmədiyi bir günah.",
+    "Öz ailəm bölünmüşdü; yaxın ailə üzvüm gizlicə kafirlərin tərəfini tutdu.",
+    "Yaraşıqlı gənc kişilər qiyafəsində mələklər evimə qonaq kimi gəldilər və onların təhlükəsizliyi üçün mənə böyük narahatlıq yaratdılar.",
+    "Öz qızlarımı xalqımı rüsvayçılıqlarından çəkindirmək üçün çarəsiz bir cəhdlə onlara ərə verdim.",
+    "Xalqım dəhşətli bir fəryad və bişmiş gil daş yağışı ilə məhv edildi, mən və ailəm isə, bir nəfərdən başqa, gecənin qaranlığında oradan çıxmaqla xilas olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şüeyb peyğəmbər",
+        "Peyğəmbər Saleh",
+        "Lut peyğəmbər",
+        "Hud peyğəmbər",
+        "Nuh peyğəmbər"
+      ],
+      "answer": "Lut peyğəmbər"
+    },
+    "trial": {
+      "label": "Əsas Məhkəməm Nə Oldu?",
+      "options": [
+        "Bir zalım padşahı məni odda yandırmamağa inandırmaq.",
+        "Qardaşlarımın paxıllığı ilə mübarizə aparmaq və quyuya atılmaq.",
+        "Görünməmiş cinsi əxlaqsızlıqla məşğul olan bir xalqla qarşılaşmaq.",
+        "Xalqımı güclü bir fironun əsarətindən qurtarmaq.",
+        "Möminləri böyük bir daşqından xilas etmək üçün nəhəng bir gəmi tikmək."
+      ],
+      "answer": "Görünməmiş cinsi əxlaqsızlıqla məşğul olan bir xalqla qarşılaşmaq."
+    },
+    "location": {
+      "label": "Missiyamın yeri harada idi?",
+      "options": [
+        "Mədyən şəhəri",
+        "Qədim İrəm şəhəri",
+        "Fironun hakimiyyəti altında olan Misir torpağı",
+        "Sodom və Qomorra şəhərləri",
+        "Nineva şəhəri"
+      ],
+      "answer": "Sodom və Qomorra şəhərləri"
+    },
+    "outcome": {
+      "label": "Son Nəticə Nə Oldu?",
+      "options": [
+        "Şəhərlər alt-üst oldu və bişmiş gil daşlarla yağdırıldı.",
+        "Xalqım varlı rəhbəri ilə birlikdə yer üzünə uduldu.",
+        "Xalqım yeddi gecə-səkkiz gün şiddətli bir küləklə məhv edildi.",
+        "Xalqım çəyirtkə, bit və qurbağa kimi bəlalara düçar oldu.",
+        "Missiyamı tərk etdikdən sonra nəhəng bir balıq məni uddu."
+      ],
+      "answer": "Şəhərlər alt-üst oldu və bişmiş gil daşlarla yağdırıldı."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

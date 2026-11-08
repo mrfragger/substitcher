@@ -1,0 +1,61 @@
+{
+  "title": "Il voto del non nato",
+  "intro": "Un'anima sincera fece una sacra promessa prima della nascita di un figlio. La storia di questa figura si svolge tra le mura di un santuario, dove la devozione incontra l'accettazione divina. Chi è questo servo di Allah?",
+  "clues": [
+    "Appartenevo a una famiglia onorata nel Corano.",
+    "Ho fatto un solenne voto di dedicare il mio bambino non ancora nato al servizio di Allah.",
+    "Quando ho partorito, sono rimasta sorpresa di scoprire che era una femmina, mentre mi aspettavo un maschio.",
+    "Ho chiamato mia figlia Maryam, un nome che evoca devozione e servizio.",
+    "Ho invocato la protezione di Allah per mia figlia e i suoi discendenti dal maledetto Satana.",
+    "Mio figlio è stato accettato dal Signore e affidato alle cure del profeta Zakariya nel santuario."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La moglie di Imran (madre di Maryam)",
+        "Asiya, moglie del faraone",
+        "Maria, madre di Isa",
+        "La madre del profeta Mosè",
+        "La regina di Saba"
+      ],
+      "answer": "La moglie di Imran (madre di Maryam)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Promettendo di dedicare suo figlio al tempio",
+        "Essere gettato nel fuoco",
+        "Attraversare il mare sulla terraferma",
+        "Costruire una grande arca",
+        "Essere inghiottito da un grosso pesce"
+      ],
+      "answer": "Promettendo di dedicare suo figlio al tempio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il santuario (mihrab) dove fu deposto il suo bambino",
+        "L'arca dell'alleanza",
+        "Il vitello d'oro",
+        "Il bastone che si è trasformato in un serpente",
+        "La palma da datteri sotto la quale riposava"
+      ],
+      "answer": "Il santuario (mihrab) dove fu deposto il suo bambino"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il suo bambino fu accettato e affidato alle cure del profeta Zaccaria.",
+        "Fu salvata dalla punizione di un tiranno.",
+        "Le fu dato un figlio di nome Yahya",
+        "Il suo popolo fu sterminato da una tempesta.",
+        "Divenne regina di un grande regno"
+      ],
+      "answer": "Il suo bambino fu accettato e affidato alle cure del profeta Zaccaria."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

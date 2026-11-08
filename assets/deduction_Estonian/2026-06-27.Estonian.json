@@ -1,0 +1,61 @@
+{
+  "title": "Püha puudumine",
+  "intro": "Aja luidete taga peitub lugu vankumatust pühendumusest ja usaldusest, mis oli nii raske, et seda kandnud hing oleks võinud puruneda. Hetkel, mil inimesed pöördusid rumaluse ja kulla poole, seisis üks kuju vankumatult – kutsudes neid tagasi, anudes kannatlikkust ja kandes püha lubaduse raskust. See on lugu kellestki, kes valiti püha äraoleku ajal abiliseks, vesiiriks ja usu kaitsjaks. Kas suudad selle vankumatu hinge identiteedi paljastada?",
+  "clues": [
+    "Ma jagan suure prohveti verd, kes valiti rääkima otse Allahiga pühal mäel.",
+    "Mu õde-vend anus kord Allahilt abi, et ta saaks suure rõhujaga selgelt rääkida.",
+    "Allah valis mind oma õe või venna kõrvale abilise ja vesiirina seisma.",
+    "Koos seisime silmitsi türanliku valitsejaga, kes nõudis, et teda nimetataks kõrgeimaks jumalaks.",
+    "Samal ajal kui mu õde-vend mäel Allahiga suhtles, meisterdas meie rahvas endale kullast kuju.",
+    "Ma olen Moosese vend, kelle Allah määras oma vesiiriks ja keda on Koraanis nimepidi mainitud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Harun (Aaron)",
+        "Prohvet Musa",
+        "Prohvet Dawud",
+        "Prohvet Yaqub",
+        "Prohvet Iisak"
+      ],
+      "answer": "Prohvet Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Vasika kummardamise kriis",
+        "Nuhi suur veeuputus",
+        "Badri lahing",
+        "Thamudi hävitamine",
+        "Soodoma hävitamine"
+      ],
+      "answer": "Vasika kummardamise kriis"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kuldvasikas",
+        "Noa laev",
+        "Põlev põõsas",
+        "Hira koobas",
+        "Seeba troon"
+      ],
+      "answer": "Kuldvasikas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Allahi poolt kinnitatud süütus",
+        "Vaarao uppumine",
+        "Kaaba ehitamine",
+        "Mere ohutu ületamine",
+        "Taevasse tõusmine"
+      ],
+      "answer": "Allahi poolt kinnitatud süütus"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

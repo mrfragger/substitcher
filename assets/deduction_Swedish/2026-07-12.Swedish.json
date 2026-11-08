@@ -1,0 +1,61 @@
+{
+  "title": "Den förlorade staden av oöverträffad majestät",
+  "intro": "En mäktig civilisation dominerade en gång vidsträckta jordområden, berömd för sina höga byggnader som sträckte sig mot himlen. Ändå växte under denna storhet en envis förnekelse – en vägran att lyssna till den gudomliga varnaren som sändes inifrån samhället självt. Stolthet och arrogans skulle snart leda till ett straff vars like varken jorden eller himlen någonsin hade bevittnat.",
+  "clues": [
+    "Vi härskade en gång över vidsträckta jordområden, skrytsamma med en styrka vi trodde att ingen annan civilisation kunde matcha.",
+    "Vårt rike var känt för sina höga byggnader med mäktiga pelare som stod oöverträffade i alla kända länder.",
+    "En varnare från vår egen gemenskap reste sig och uppmanade var och en av oss att underordna oss den ende Skaparen allena.",
+    "Vi förnekade budskapet som förmedlats till oss och vägrade att överge den väg vi ärvt.",
+    "En rasande, ylande vind av överväldigande styrka släpptes lös mot oss och lämnade oss fullständigt försvarslösa.",
+    "Vi lämnades kvar som urholkade palmstammar, spridda och bortglömda, som en läxa för varje generation efter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Folket i A'ad",
+        "Folket i Nuh",
+        "Luts folk",
+        "Människor i Madyan",
+        "Folket i Tubba'"
+      ],
+      "answer": "Folket i A'ad"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "En obeveklig rasande vind av hårda straff",
+        "En översvämning som täckte varje bergstopp",
+        "Ett regn av brinnande lerstenar från ovan",
+        "Ett enda skrämmande skrik från himlen",
+        "En våldsam jordbävning som splittrade landet"
+      ],
+      "answer": "En obeveklig rasande vind av hårda straff"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Iram, staden med höga pelare",
+        "En massiv ark av trä byggd på ett berg",
+        "En honkamel som mirakulöst kom fram ur stenen",
+        "Sinaiberget där gudomliga budord nedstigit",
+        "Ett palats av kristall och fint glas med utsikt över strömmande vatten"
+      ],
+      "answer": "Iram, staden med höga pelare"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Lämnade som ihåliga palmstammar, spridda och livlösa",
+        "Drunknade under överväldigande vågor av en stor översvämning",
+        "Förvandlades till varelser som liknar apor och svin",
+        "Krossad under ett regn av härdade lerstenar",
+        "Förtärd av ett enda öronbedövande rop som genomborrade själen"
+      ],
+      "answer": "Lämnade som ihåliga palmstammar, spridda och livlösa"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

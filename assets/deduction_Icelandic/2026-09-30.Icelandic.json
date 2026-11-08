@@ -1,0 +1,61 @@
+{
+  "title": "Sjúklingurinn",
+  "intro": "Fyrir löngu síðan, á fyrstu dögum mannkynssögunnar, stóðu tvær sálir frammi fyrir skapara sínum með fórnir. Önnur var þegin, hin ekki. Það sem fylgdi í kjölfarið varð fyrsta stóra harmleikurinn milli systkina - ein þolinmóð athöfn og ein beiskur hefndarathöfn. Geturðu afhjúpað hver ég er?",
+  "clues": [
+    "Ég fæddist á allra fyrstu dögum mannkyns á jörðinni",
+    "Ég var barn allra fyrsta mannparsins sem nokkurn tímann gekk á þessari jörð",
+    "Ég færði einu sinni fórn úr bestu hjörð minni til að þóknast skapara mínum",
+    "Fórn mín var þegin að ofan, en fórn systkina minna var hafnað.",
+    "Þegar ég var hótað lífláti valdi ég að lyfta ekki hendinni á systkini mitt",
+    "Ég varð fyrsti maðurinn í allri mannkynssögunni sem var ranglega drepinn af öðrum"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Habil (Abel), sonur Adams",
+        "Qabil (Kain), sonur Adams",
+        "Adam, fyrsti maðurinn",
+        "Nói (Nói)",
+        "Íbrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), sonur Adams"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Fyrsta morðið í mannkynssögunni",
+        "Hið mikla flóð í Núh",
+        "Eyðilegging hers Fir'awns",
+        "Fórn Ísmaels af Ibrahim",
+        "Baráttan gegn Jalut (Goliat)"
+      ],
+      "answer": "Fyrsta morðið í mannkynssögunni"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Sauðfé fórnað sem þóknanleg fórn",
+        "Stór örk úr tré",
+        "Stafurinn sem breyttist í höggorm",
+        "Hærfugl sem ber konunglegan boðskap",
+        "Logandi eldsgraf"
+      ],
+      "answer": "Sauðfé fórnað sem þóknanleg fórn"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Varð fyrsta fórnarlamb morðs í mannkynssögunni",
+        "Lifði af miklu flóði í tréskipi",
+        "Bjó í maga stórs fisks",
+        "Ríkti yfir djinnum, mönnum og vindinum",
+        "Reikaði í fjörutíu ár um víðáttumikla óbyggðir"
+      ],
+      "answer": "Varð fyrsta fórnarlamb morðs í mannkynssögunni"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

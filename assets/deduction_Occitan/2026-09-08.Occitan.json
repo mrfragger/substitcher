@@ -1,0 +1,61 @@
+{
+  "title": "Lo jutjament de la flama sacrada",
+  "intro": "Dins una tèrra anciana ont la devocion a la pèira talhada s'èra enrasigada dins cada ostal, un individú se destacava. A travèrs una conviccion inflexibla e una proteccion divina, afrontèron çò qu'auriá degut èsser una mòrt segura — e se'n anèron sens damatge. Podètz descobrir l'identitat d'aquela anma remarcabla?",
+  "clues": [
+    "Foguèri elevat demest de personas que s'inclinavan davant d'idòlas qu'avián talhadas amb lors pròprias mans, en cresent qu'aqueles objèctes tenián un poder divin.",
+    "Quand contestèri lors cresenças, me descartèron d'en primièr, mas podiái pas demorar mut a prepaus de la vertat que coneissiái.",
+    "Un jorn que foguèron amassats, destruguèri lors idòlas, en daissant pas que la mai granda intacta.",
+    "Quand tornèron e vegèron çò qu'aviái fach, lors dirigents comandèron bastir una granda pira, amb l'intencion de me getar dins las flamas.",
+    "Me lancèron dins lo fuòc ardent, mas lo Senhor dels monds comandèt que venguèsse fresc e segur per ieu.",
+    "Sortissiái de las flamas completament ilesa, del temps que los que complotavan contra ieu afrontavan una roïna totala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Ibrahim",
+        "Lo profèta Musa",
+        "Profèta Nuh",
+        "Profèta Isa",
+        "Lo profèta Yusuf"
+      ],
+      "answer": "Lo profèta Ibrahim"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Èsser getat dins un fuòc ardent",
+        "Èsser engolit per una granda balena",
+        "Subreviure a una granda inondacion",
+        "Èsser getat dins un potz prigond",
+        "Confrontant los magues d'un rei"
+      ],
+      "answer": "Èsser getat dins un fuòc ardent"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una pira massissa de lenha ardent",
+        "Una granda arca de fusta",
+        "Una estatua de vedèl daurat",
+        "Un panièr flotant sus un riu",
+        "Un tròn magnific"
+      ],
+      "answer": "Una pira massissa de lenha ardent"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Allah faguèt lo fuòc fresc e segur",
+        "L'arca aterrèt en seguretat sus una montanha",
+        "L'idòla d'aur fondèt davant lors uèlhs",
+        "Un tiran e son armada afogadas dins la mar",
+        "La vista d'un òme cèc foguèt restablida"
+      ],
+      "answer": "Allah faguèt lo fuòc fresc e segur"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

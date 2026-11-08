@@ -1,0 +1,61 @@
+{
+  "title": "Răbdarea sufletului îndurerat",
+  "intro": "În analele istoriei, există o figură al cărei nume este sinonim cu rezistența. Această persoană a fost testată cu pierderea oricărui confort lumesc, dar a rămas un slujitor devotat al Creatorului. De-a lungul anilor de greutăți și boli fizice, inima acestui suflet a rămas ancorată în credință, oferind un far de speranță pentru toți cei care se confruntă cu adversitatea.",
+  "clues": [
+    "Am fost un slujitor devotat al lui Allah, binecuvântat cu bogății abundente, mulți copii și o sănătate excelentă.",
+    "Viața mea a luat o întorsătură când am fost deposedat de bogățiile și de familia mea, lăsându-mă doar cu credința.",
+    "Am fost afectat de o boală îndelungată și dureroasă care a pus la încercare chiar limitele rezistenței umane.",
+    "De-a lungul suferinței mele, am refuzat să mă plâng împotriva Domnului meu, chiar și atunci când adversarul a încercat să mă ducă la disperare.",
+    "Când în cele din urmă L-am chemat pe Domnul meu, nu am cerut bogăție, ci pur și simplu am recunoscut că necazul mă atinsese.",
+    "Mi s-a spus să lovesc pământul cu piciorul și din el a ieșit un izvor de apă răcoroasă ca să-mi vindece trupul și să-mi potolească setea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Yaqub",
+        "Profetul Ayyub",
+        "Profetul Zakariyyah",
+        "Profetul Yahya",
+        "Profetul Șu'ayb"
+      ],
+      "answer": "Profetul Ayyub"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ani de boală gravă și pierderi",
+        "A fi aruncat într-o fântână adâncă",
+        "Fiind înghițit de un pește uriaș",
+        "Înfruntând un tiran într-un incendiu",
+        "O lungă călătorie în căutarea unui profesor"
+      ],
+      "answer": "Ani de boală gravă și pierderi"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un toiag care a despărțit marea",
+        "O cămașă care mirosea a casă",
+        "Un izvor de apă tămăduitoare",
+        "Un munte care s-a prăbușit în praf",
+        "O peșteră a somnului profund"
+      ],
+      "answer": "Un izvor de apă tămăduitoare"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Devenind guvernatorul unei mari țări",
+        "Conducerea unei armate spre victorie",
+        "Restaurarea sănătății și a familiei",
+        "Construirea unui lăcaș sacru de cult",
+        "Primind o masă întinsă din ceruri"
+      ],
+      "answer": "Restaurarea sănătății și a familiei"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

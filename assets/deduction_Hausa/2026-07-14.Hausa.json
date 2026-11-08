@@ -1,0 +1,61 @@
+{
+  "title": "Rayukan Tarko",
+  "intro": "Kuna komawa zuwa zamanin da wani shugaba mai tausayi ya buƙaci cikakken bauta ga allolin ƙarya. Ƙaramin al'umma mai sadaukarwa ta ƙi, kuma ta fuskanci hukunci mai tsanani har ta zama la'ana har abada. Labarinsu yana ta yawo a cikin Alƙur'ani a matsayin shaida ga imani mai ƙarfi. Za ku iya gane wannan ƙungiyar mai aminci?",
+  "clues": [
+    "Mun zauna a ƙasa ƙarƙashin mulkin kama-karya na wani mai mulki wanda ya buƙaci a bauta wa allolin ƙarya",
+    "Al'ummarmu ta fuskanci tsanantawa mai tsanani kawai saboda imaninmu ga Allah shi kaɗai",
+    "Mai mulkin ya ba da umarnin a haƙa babban rami a kuma ƙona shi da harshen wuta mai zafi",
+    "Domin mun ƙi yin watsi da imaninmu, an jefa mu cikin wannan rami mai ƙonewa ɗaya bayan ɗaya",
+    "Labarinmu ya zama wani ɓangare na Alƙur'ani, kuma waɗanda suka tsananta mana an la'ance su har abada.",
+    "An sanya wa surar da ta rubuta jarrabawarmu suna ne bayan manyan alamomin sama na sama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Sahabban Madatsar Ruwa (Ashab al-Ukhdud)",
+        "Mutanen Kogo (Ashab al-Kahf)",
+        "Mutanen Asabar",
+        "Mutanen A'ad",
+        "Mutanen Samudawa"
+      ],
+      "answer": "Sahabban Madatsar Ruwa (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Gwajinmu",
+      "options": [
+        "Ana ƙonewa da rai a cikin rami mai wuta",
+        "An rufe shi a cikin kogo tsawon shekaru da yawa",
+        "Kamun kifi a ranar hutu mai tsarki",
+        "Iska mai ƙarfi ta lalata ta",
+        "Kashe raƙumi mai tsarki"
+      ],
+      "answer": "Ana ƙonewa da rai a cikin rami mai wuta"
+    },
+    "location": {
+      "label": "Babban Abu",
+      "options": [
+        "Wata rami mai kama da wuta mai ci",
+        "Kogo mai ɓoye tare da kare mai aminci",
+        "Dogayen ginshiƙai na tsohon birni da aka halaka",
+        "Gidajen tsaunuka da aka sassaka su cikin duwatsu",
+        "Fili buɗaɗɗen fili wanda iska mai ƙarfi ke sharewa"
+      ],
+      "answer": "Wata rami mai kama da wuta mai ci"
+    },
+    "outcome": {
+      "label": "Sakamakonmu",
+      "options": [
+        "Mun yi shahada kuma an la'ance masu tsananta mana har abada",
+        "Mun farka bayan mun yi barci na tsawon shekaru 309",
+        "An mayar da mu birrai saboda laifinmu",
+        "Iska mai ƙarfi ta lalata mu duka",
+        "Kuka guda ɗaya mai ɓarna ta wargaza rayuwarmu"
+      ],
+      "answer": "Mun yi shahada kuma an la'ance masu tsananta mana har abada"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

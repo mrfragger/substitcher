@@ -1,0 +1,61 @@
+{
+  "title": "Ndị njem n'ọhịa ahịhịa ndụ ndụ",
+  "intro": "N'oge ochie, mmadụ abụọ na-elekọta ala ndị gbara ha gburugburu. Ụzọ ha dị n'otu, mana obi ha dugara ha n'ebe dị iche iche. Otu jere ije n'ụzọ kwụ ọtọ, ebe nke ọzọ banyere n'ọchịchịrị nke ịgọnarị. Ị nwere ike ịkọwa ihe omimi nke ndị nche abụọ a nke owuwe ihe ubi?",
+  "clues": [
+    "Enwere m ọtụtụ ihe ubi, ihe ubi ndị mara mma nke na-eme ka anya ndị na-ekiri ihe na-eme m obi ụtọ.",
+    "Onye agbata obi m nwere nnukwu ego karịa m, mana m chọrọ òkè ha karịa nke m.",
+    "Atụrụ m aro ka anyị bibie ihe ubi ha kpamkpam, iji mee ka ihe niile dị n'okpuru m sie ike.",
+    "M mekwara ka ihe ubi m bibie ihe niile, bibiekwa ihe niile n'ime atụmatụ nzuzu m.",
+    "M guzosiri ike n'enweghị enyemaka ka ihe ubi m kpọrọ nkụ, akụnụba m aghọọkwa uzuzu n'otu abalị.",
+    "Enweghị m òkè ọ bụla n'Ọdịnihu, ebe obibi m ikpeazụ wee ghọọ olulu ọkụ na-ere ọkụ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Nwoke ahụ jụrụ mbilite n'ọnwụ na ikpe",
+        "Onye ọchịchị nke megburu onye ọrụ ugbo ezi omume",
+        "Onye nwe ala bara ọgaranya nke enweghị ekele",
+        "Onye ọrụ ugbo nke chọrọ ala onye agbata obi ya",
+        "Onye mmekọ aghụghọ nke kpara nkata mbibi"
+      ],
+      "answer": "Onye ọrụ ugbo nke chọrọ ala onye agbata obi ya"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ule nke ịnata mkpughe Chineke",
+        "Ihe ịma aka nke akụnụba na ndidi",
+        "Ọnwụnwa nke ibibi ihe onwunwe nke onye ezi omume",
+        "Iwu nke ikesa ihe nketa ziri ezi",
+        "Ọgụ megide mmegbu onye ọchịchị aka ike"
+      ],
+      "answer": "Ọnwụnwa nke ibibi ihe onwunwe nke onye ezi omume"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ubi paradaịs mara mma nke jupụtara na akwụkwọ ndụ",
+        "Ubi ihe ubi abụọ dị nso",
+        "Ugwu ndị hụrụ mbibi",
+        "Ebe nsọ dị nsọ nke Makkah",
+        "Osimiri nke ala a gọziri agọzi"
+      ],
+      "answer": "Ubi ihe ubi abụọ dị nso"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Paradaịs ebighị ebi dị ka ụgwọ ọrụ maka ezi omume",
+        "Mbibi zuru oke nke owuwe ihe ubi abụọ a na ndụ a",
+        "Ịgagharị ma na-awagharị ruo ọnwụ",
+        "Ọganihu nwa oge nke ọkụ ebighị ebi na-esochi",
+        "Mweghachi ọrụ ebube na onyinye okpukpu abụọ"
+      ],
+      "answer": "Mbibi zuru oke nke owuwe ihe ubi abụọ a na ndụ a"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Momekano na nse ya mbonge",
+  "intro": "Profeta moko, azwaki kilo na misio na ye, azwaki mokano oyo ememaki ye mosika na bato na ye mpe na komekama oyo akanisaki te. Mobembo na ye ezwaki mbongwana ya kokamwa, komekaka bondimi mpe motema molai na ye na lolenge ya mozindo koleka. Okoki kozwa makambo mikemike ya likambo wana ya kokamwa na nzela ya bilembo oyo epesami?",
+  "clues": [
+    "Mosakoli moko atindamaki epai ya bato moko, kasi alongwaki na lombangu, koyokaka kozanga bosepeli mpo na koboya na bango.",
+    "Mobembo na ye ememaki ye na mbu, epai amataki masuwa moko oyo ezalaki na mikumba mingi mpo na koluka nzela.",
+    "Mopɛpɛ makasi ebimaki, etyaki masuwa na likama, mpe ekateli ezwamaki ya kobwaka moto moko na mai mpo na kolɛmbisa mokumba, oyo ekatamaki na mbɛsɛ.",
+    "Amelamaki na ekelamu moko ya mozindo, likambo ya likamwisi oyo epesamaki na mokano ya Bonzambe.",
+    "Na kati ya ndelo ya libumu ya ekelamu, abengaki Nkolo na ye, koyambolaka mpe kokumisa Allah na molili.",
+    "Nsima ya eleko moko ya kobondela makasi, babwakaki ye na libongo moko ya kobota te, azalaki na bolɛmbu kasi azalaki na bomoi, mpe na nsima azongaki mpo na komona ete nsukansuka bato na ye bandimaki."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Mosakoli/Moto",
+      "options": [
+        "Mosakoli Nuh",
+        "Mosakoli Luta",
+        "Mosakoli Musa",
+        "Mosakoli Yunus",
+        "Mosakoli Yusuf"
+      ],
+      "answer": "Mosakoli Yunus"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mpela ya Nuh",
+        "Kobebisama ya Sodoma",
+        "Mobembo na libumu ya mbisi monene",
+        "Kokabwana ya mbu",
+        "Emoniseli ya zamba oyo ezali kozika"
+      ],
+      "answer": "Mobembo na libumu ya mbisi monene"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku",
+        "Ngomba Sinai",
+        "Ba Staff ya Musa",
+        "Mbisi Monene",
+        "Libulu ya Yusuf"
+      ],
+      "answer": "Mbisi Monene"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Boyokani ya sika na bomoto",
+        "Mbotama ya likamwisi mpo na bato na ye",
+        "Bokonzi oyo etiamaki mpo na libota na ye",
+        "Bozongi na bato na ye oyo na ntango wana bandimaki",
+        "Elonga likoló na mokonzi moko ya mobulu"
+      ],
+      "answer": "Bozongi na bato na ye oyo na ntango wana bandimaki"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

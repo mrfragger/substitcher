@@ -1,0 +1,61 @@
+{
+  "title": "Mulțimea dispărută",
+  "intro": "Stai în fața ecourilor unei comunități a cărei poveste este scrisă în valuri. Aceste suflete au auzit o chemare, au ales sfidarea și s-au confruntat cu o consecință care a remodelat pământul. Cine sunt ei și ce s-a întâmplat cu lumea lor?",
+  "clues": [
+    "Am trăit cu mult timp în urmă și un mesager a venit la noi dintre noi.",
+    "Ne-am închinat la cinci idoli și am refuzat să-i abandonăm.",
+    "L-am batjocorit pe mesager și l-am acuzat că se rătăcește.",
+    "I-am cerut pedeapsa dacă spunea adevărul.",
+    "Am văzut cerul revărsând ploaie și pământul țâșnind cu izvoare.",
+    "Ne-am urcat pe locurile înalte ca să scăpăm, dar valurile ne-au cuprins."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oamenii din Nuh",
+        "Oamenii din 'Ad",
+        "Oamenii din Thamud",
+        "Oamenii din Lut",
+        "Oamenii din Madyan"
+      ],
+      "answer": "Oamenii din Nuh"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ne-am înecat într-o mare inundație",
+        "Am fost distruși de un uragan",
+        "Am fost uciși de o explozie puternică",
+        "Am fost înghițiți de pământ",
+        "Am fost bombardați cu pietre din cer"
+      ],
+      "answer": "Ne-am înecat într-o mare inundație"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O mare inundație",
+        "Un vânt violent",
+        "O ploaie de pietre",
+        "O explozie de foc",
+        "Un cutremur"
+      ],
+      "answer": "O mare inundație"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Am pierit cu toții, cu excepția credincioșilor cu Nuh",
+        "Am fost transformați în maimuțe",
+        "Am fost lăsați ca niște ruine pentru călători",
+        "Am fost transformați în sare",
+        "Ni s-a dat răgaz"
+      ],
+      "answer": "Am pierit cu toții, cu excepția credincioșilor cu Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

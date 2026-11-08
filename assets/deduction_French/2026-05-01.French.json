@@ -1,0 +1,61 @@
+{
+  "title": "Le Trône de la Vérité",
+  "intro": "Un souverain puissant, réputé pour sa grande sagesse et son trône magnifique, reçoit un message mystérieux d'une source inconnue. Cette communication inattendue remet en question ses croyances et son autorité, l'entraînant dans un voyage diplomatique qui mettra son intellect à l'épreuve et le mènera finalement à un profond éveil spirituel. Parviendrez-vous à découvrir l'identité de ce souverain et les événements qui ont transformé son royaume ?",
+  "clues": [
+    "Mon peuple et moi vénérions le soleil, suivant les traditions de nos ancêtres.",
+    "Un oiseau, une huppe, fut le messager improbable qui m'apporta une lettre d'un dirigeant puissant.",
+    "Pour éprouver la sagesse de l'expéditeur, je lui ai envoyé des présents précieux, mais ils m'ont été retournés, car l'expéditeur possédait des richesses bien plus grandes venant d'Allah.",
+    "Avant même que je n'arrive à la cour de l'expéditeur, mon magnifique trône y fut miraculeusement transporté en un clin d'œil.",
+    "À mon arrivée, on m'a demandé si le trône transporté était le mien, et j'ai répondu : « On dirait bien que c'est le mien. »",
+    "Je suis entré dans une grande salle dont le sol me semblait être un bassin d'eau, et dans ce moment de profonde vénération, je me suis soumis, aux côtés du prophète Sulaiman, à Allah, le Seigneur des mondes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "La reine de Saba",
+        "Zulaikha (épouse d'Al-Aziz)",
+        "Asiya (épouse du Pharaon)",
+        "La mère de Moussa",
+        "Marie (Mère d'Isa)"
+      ],
+      "answer": "La reine de Saba"
+    },
+    "trial": {
+      "label": "L'événement central",
+      "options": [
+        "Réception d'une lettre du prophète Salomon",
+        "Être jeté dans le feu",
+        "Construire une arche pour survivre à une inondation",
+        "Séparation de la mer Rouge",
+        "Être accusé d'immodestie"
+      ],
+      "answer": "Réception d'une lettre du prophète Salomon"
+    },
+    "location": {
+      "label": "L'objet clé",
+      "options": [
+        "Un trône magnifique",
+        "Un veau doré",
+        "Un manteau multicolore",
+        "Un bâton qui se transforma en serpent",
+        "Un navire fait de planches et de clous"
+      ],
+      "answer": "Un trône magnifique"
+    },
+    "outcome": {
+      "label": "Le résultat final",
+      "options": [
+        "Se soumettre au seul vrai Dieu (Allah)",
+        "Être transformé en statue de sel",
+        "Construire une haute tour pour atteindre Dieu",
+        "Être avalé par un grand poisson",
+        "Perdre une immense fortune en guise de punition"
+      ],
+      "answer": "Se soumettre au seul vrai Dieu (Allah)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

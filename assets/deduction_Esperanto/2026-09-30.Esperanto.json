@@ -1,0 +1,61 @@
+{
+  "title": "La Paciento Unu",
+  "intro": "Antaŭ longe, en la plej fruaj tagoj de homa historio, du animoj staris antaŭ sia Kreinto kun oferoj. Unu estis akceptita, la alia ne. Kio sekvis fariĝus la unua granda tragedio inter gefratoj - unu ago de pacienca sindeteno kaj unu ago de amara venĝo. Ĉu vi povas malkovri kiu mi estas?",
+  "clues": [
+    "Mi naskiĝis en la plej unuaj tagoj de homa ekzisto sur la tero",
+    "Mi estis infano de la plej unua paro da homoj, kiuj iam ajn piediris ĉi tiun teron",
+    "Mi iam oferis oferon el la plej bonaj el miaj ŝafoj por plaĉi al mia Kreinto",
+    "Mia ofero estis akceptita de supre, dum la ofero de mia gefrato estis malakceptita",
+    "Kiam minacita per morto, mi elektis ne levi mian manon kontraŭ mian gefraton",
+    "Mi fariĝis la unua persono en la tuta homa historio, kiu estis maljuste mortigita de alia"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Habil (Abel), filo de Adamo",
+        "Qabil (Kaino), filo de Adamo",
+        "Adamo, la unua homo",
+        "Nuh (Noaĥo)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), filo de Adamo"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La unua murdo en la homa historio",
+        "La granda diluvo de Nuh",
+        "La detruo de la armeo de Fir'awn",
+        "La ofero de Ismail fare de Ibrahim",
+        "La batalo kontraŭ Jalut (Goliath)"
+      ],
+      "answer": "La unua murdo en la homa historio"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Ŝafo ofertita kiel plaĉa ofero",
+        "Granda ligna arkeo",
+        "Bastono kiu fariĝis serpento",
+        "Upupo portanta reĝan mesaĝon",
+        "Flamanta tranĉeo de fajro"
+      ],
+      "answer": "Ŝafo ofertita kiel plaĉa ofero"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Fariĝis la unua viktimo de murdo en la homa historio",
+        "Postvivis grandan inundon ene de ligna ŝipo",
+        "Vivis en la ventro de granda fiŝo",
+        "Regis super ĝinoj, homoj, kaj la vento",
+        "Vagis dum kvardek jaroj en vasta sovaĝejo"
+      ],
+      "answer": "Fariĝis la unua viktimo de murdo en la homa historio"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

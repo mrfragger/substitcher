@@ -1,0 +1,61 @@
+{
+  "title": "Astengiya li Mala Kevnar",
+  "intro": "Li bajarê pîroz, kesayetiyek bi hêz bi hêrsê tijî bû dema ku peyamek nû dest bi belavkirinê kir. Ev kes, ku navê wî bi dijberiya rastiyê re hevwate bû, temaşe kir ku bandora wî di bin giraniya wehya îlahî de hilweşiya. Ev giyan kî bû, ku çarenûsa wî di qûmên meydanek şer a navdar de hatibû mohrkirin?",
+  "clues": [
+    "Ez di nav gelê xwe de serokêkî bûm, bi dewlemendî û bandora xwe di bajarekî de ku perestgehek kevnar lê hebû dihat nasîn.",
+    "Dema zilamekî ji eşîra min dest bi ragihandina peyama yek Xwedayî kir, min tinazên xwe bi wî û wehyan kir, û wan tenê çîrokên rabirdûyê bi nav kir.",
+    "Dema ku ew li nêzîkî avahiya pîroz nimêj dikir, min ew zilam dît û gef xwar ku ger pêwîst be ez ê bi zorê îbadeta wî rawestînim.",
+    "Ez di nav wan rêberên de bûm ku komployê dikirin da ku baweriya nû bêdeng bikin, bi gotin û çekan li dijî peyrewên wê derketibûn.",
+    "Ez bi artêşekê re ber bi cihekî bi navê Bedr ve meşiyam, bi baweriya ku em ê koma piçûk a bawermendan bişkînin.",
+    "Lê li wî meydana şer, jiyana min bi dawî hat, û mirina min bû ders ji bo wan kesên ku li dû nîşanên eşkere di bêbaweriyê de israr dikin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Ebû Cehl",
+        "Ebû Sufyan ibn Herb",
+        "El-Nedr ibn el-Haris",
+        "Umeyye ibn Xelef",
+        "Utbe ibn Rebî'e"
+      ],
+      "answer": "Ebû Cehl"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Astengkirina Pêxember ji nimêja li Kabeyê",
+        "Avakirina Kabeyê",
+        "Nivîsandina Quranê",
+        "Rêberiya artêşa fîlan dike",
+        "Parçekirina heyvê"
+      ],
+      "answer": "Astengkirina Pêxember ji nimêja li Kabeyê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kebe",
+        "Keştiya Pêxember Nûh",
+        "Gopalê Pêxember Mûsa",
+        "Golika Zêrîn",
+        "Textê Şahbanûya Şebayê"
+      ],
+      "answer": "Kebe"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Di şerê Bedirê de hat kuştin",
+        "Poşman bû û bû misilman",
+        "Reviya ber bi Habeşistanê ve",
+        "Di Sala Fîl de Mir",
+        "Bû sehabeyê Pêxember (s.a.w.)"
+      ],
+      "answer": "Di şerê Bedirê de hat kuştin"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

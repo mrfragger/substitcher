@@ -1,0 +1,61 @@
+{
+  "title": "Halangan di Rumah Purba",
+  "intro": "Di kota suci itu, seorang tokoh berpengaruh berang apabila mesej baharu mula tersebar. Individu ini, yang namanya menjadi sinonim dengan penentangan terhadap kebenaran, menyaksikan pengaruh mereka runtuh di bawah beban wahyu ilahi. Siapakah jiwa ini, yang nasibnya telah ditentukan di dalam pasir medan perang yang terkenal?",
+  "clues": [
+    "Aku seorang ketua di kalangan kaumku, terkenal dengan kekayaan dan pengaruhku di sebuah bandar yang menempatkan sebuah tempat perlindungan kuno.",
+    "Apabila seorang lelaki dari suku saya mula menyebarkan risalah tentang satu Tuhan, saya mengejeknya dan wahyu-wahyunya, menganggapnya sebagai kisah-kisah masa lalu semata-mata.",
+    "Saya bersemuka dengan lelaki itu ketika dia berdoa berhampiran struktur suci itu, sambil mengugut untuk menghentikan ibadahnya secara paksa jika perlu.",
+    "Saya adalah antara pemimpin yang merancang untuk membungkam agama baru itu, menentang pengikutnya dengan kata-kata dan senjata.",
+    "Aku berarak bersama tentera ke sebuah tempat bernama Badar, yakin bahawa kami akan menghancurkan sekumpulan kecil orang yang beriman itu.",
+    "Tetapi di medan perang itu, hidupku berakhir, dan kematianku menjadi pengajaran bagi mereka yang terus-menerus kafir setelah mendapat bukti-bukti yang jelas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Abu Jahal",
+        "Abu Sufyan bin Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah bin Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahal"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Menghalang Nabi daripada solat di Kaabah",
+        "Membina Kaabah",
+        "Menulis Al-Quran",
+        "Memimpin tentera gajah",
+        "Membelah bulan"
+      ],
+      "answer": "Menghalang Nabi daripada solat di Kaabah"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Kaabah",
+        "Bahtera Nabi Nuh",
+        "Tongkat Nabi Musa",
+        "Anak Lembu Emas",
+        "Takhta Ratu Sheba"
+      ],
+      "answer": "Kaabah"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Terbunuh dalam Perang Badar",
+        "Bertaubat dan menjadi seorang Muslim",
+        "Melarikan diri ke Habsyah",
+        "Meninggal dunia pada Tahun Gajah",
+        "Menjadi sahabat Nabi"
+      ],
+      "answer": "Terbunuh dalam Perang Badar"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

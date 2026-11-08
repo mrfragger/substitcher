@@ -1,0 +1,61 @@
+{
+  "title": "An té a raibh Ríocht ag cromadh roimh a chomharthaí",
+  "intro": "Tá turas iontach i ndán dóibh siúd a leomhfaidh an rúndiamhair seo a réiteach. I ndoimhneacht leathanaigh an Apacailipsis, bhí flaith ann a mbeadh a chruinniú le fáidh ag athmhúnlú náisiún ar fad. Bhí an figiúr seo i réim ó ríchathaoir i bhfad i gcéin, faoi threoir traidisiúin ársa, go dtí gur athraigh nóiméad urghnách fírinne dhiaga an rialóir agus an ríocht go deo. An nochtfaidh tú céannacht an anama iontach seo a bhfuil a scéal ag nascadh an neamhghnách agus an domhain?",
+  "clues": [
+    "Rialaigh mé náisiún rathúil trasna uiscí i bhfad i gcéin, a raibh cáil orthu as ár ngairdíní agus ár bpálás ard.",
+    "Bhí mo údarás uachtarach, ach tháinig ríocht mhór chun dúshlán a thabhairt dár mbeith agus dár bhféiniúlacht féin.",
+    "Bhí teachtaireacht urghnách ag éan beag, agus scrios na hiontais a lean mo thuairimí go léir faoi chumhacht.",
+    "Nuair a chonaic mé ríchathaoir athraithe os comhair mo shúl, bhí a fhios agam nach mbeadh cumais den sórt sin ag aon duine básmhar.",
+    "D’fhógair mé go hoscailte mo ghéill don Aon Tiarna amháin ar neamh agus ar talamh, ag tréigean gach a raibh grá agam dó tráth.",
+    "Mar náisiún, chas muid siar ó adhradh na gréine ársa agus ghlacamar leis an bhfírinne a d'athraigh gach rud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Bilqis – Banríon Sheba",
+        "Banríon Mhaidyan",
+        "Bean chéile an Fháidh Yusuf",
+        "Banríon na hÉigipte",
+        "Banphrionsa na Bablóine"
+      ],
+      "answer": "Bilqis – Banríon Sheba"
+    },
+    "trial": {
+      "label": "An Triail Mhór",
+      "options": [
+        "Tuilte tubaisteach a scrios an ríocht",
+        "Teachtaireacht mistéireach a fháil ó éan neamhghnách",
+        "Cath i gcoinne arm an Fháidh Sulayman",
+        "Tríocha bliain de thriomach agus cruatan dian",
+        "Crith talún a shlog an pálás ríoga"
+      ],
+      "answer": "Teachtaireacht mistéireach a fháil ó éan neamhghnách"
+    },
+    "location": {
+      "label": "Suíomh Eochair",
+      "options": [
+        "Abhainn na Níle san Éigipt ársa",
+        "Tearmann Naofa Mecca",
+        "Clós an Fháidh Dawud",
+        "An Éimin agus a gairdíní finscéalta",
+        "Machairí Iarúsailéim"
+      ],
+      "answer": "Clós an Fháidh Dawud"
+    },
+    "outcome": {
+      "label": "An Toradh",
+      "options": [
+        "Scriosadh an ríocht mar phionós as easpa creidimh",
+        "Phós mé an Fáidh Sulayman agus bhí cónaí orm in Iarúsailéim",
+        "Ghéill muid do Allah agus ghlacamar leis an bhfíorchreideamh",
+        "D’fhill mé ar mo ríchathaoir agus lean mé ar aghaidh ag rialú mar a bhí roimhe.",
+        "Gabhadh an náisiún agus ionsúdh isteach in impireacht eile í."
+      ],
+      "answer": "Ghéill muid do Allah agus ghlacamar leis an bhfíorchreideamh"
+    }
+  },
+  "verseRef": "38:32",
+  "arabic": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+  "verse": "And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until it [i.e., the sun] disappeared into the curtain [of darkness].\" (38:32)"
+}

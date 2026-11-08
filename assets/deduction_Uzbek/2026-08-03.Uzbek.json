@@ -1,0 +1,61 @@
+{
+  "title": "Qum ostidagi buloq",
+  "intro": "Qur'on yilnomalarida ulkan sabr-toqatli siymo eng qat'iyatli qalblarni ezadigan sinovga duch kelgan. Hamma narsa - boylik, oila va sog'liq tortib olingan. Shunga qaramay, umidsizlik tubidan kamtarona ibodat kutilmagan tarzda ijobat bo'ldi. Qayta tiklanish hikoyasi asrlar davomida aks-sado beradigan bu qalbni aniqlay olasizmi?",
+  "clues": [
+    "Men shunday og'ir sinov bilan sinovdan o'tdimki, bu asrlar davomida esda qoladi.",
+    "Men muhim bo'lgan hamma narsani - boyligimni, farzandlarimni va sog'lig'imni yo'qotdim.",
+    "Tanam og'riqli yaralar bilan qoplangan edi va hamma mendan nafratlanardi.",
+    "Noilojligimda Allohga iltijo qilib, shayton menga qiyinchilik va azob yetkazganini aytdim.",
+    "Alloh menga ijobat qildi va oyog'im bilan yerga urishni buyurdi.",
+    "Aynan o'sha joydan salqin buloq otilib chiqdi va Alloh rahmat qilib oilamni qayta tikladi va ularni ikki baravar ko'paytirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ayyub",
+        "Muso payg'ambar",
+        "Payg'ambar Ilyos",
+        "Payg'ambar Sulaymon",
+        "Payg'ambar Dovud"
+      ],
+      "answer": "Payg'ambar Ayyub"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Og'ir kasallik va oila va boylikni yo'qotish",
+        "Katta kit tomonidan yutib yuborilmoqda",
+        "Makka shahridan surgun",
+        "Chuqur quduqqa qamoq",
+        "Mag'rur hukmdor bilan to'qnashuv"
+      ],
+      "answer": "Og'ir kasallik va oila va boylikni yo'qotish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yerdan salqin buloq",
+        "Katta suv toshqini paytida qayiq",
+        "Dengizni ikkiga bo'ladigan tayoq",
+        "Shishadan yasalgan baland taxt",
+        "Uxlash uchun devor bilan o'ralgan g'or"
+      ],
+      "answer": "Yerdan salqin buloq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Oila va boylik tiklandi va ikki baravar ko'paydi",
+        "Baliqning qornidan chiqish",
+        "Ikkiga bo'lingan suvlardan xavfsiz o'tish",
+        "Hukmronlik qilish uchun berilgan shohlik",
+        "Qarilikda o'g'ilning mo''jizaviy ravishda tug'ilishi"
+      ],
+      "answer": "Oila va boylik tiklandi va ikki baravar ko'paydi"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dan završnog prikaza",
+  "intro": "Pozvana na veličanstveno prikazivanje moći, skupina vještih izvođača našla se suočena s neočekivanom istinom koja će im zauvijek promijeniti živote.",
+  "clues": [
+    "Bili smo poznati po svom zanatu, majstori iluzije i trikova.",
+    "Vladar nas je pozvao da se suočimo s izazivačem koji je mahao jednostavnim štapom.",
+    "Kad smo istinu vidjeli, pali smo na sedždu, ispovijedajući vjeru u Gospodara svjetova.",
+    "Tiranin nam je prijetio strogom kaznom, ali mi nismo poklekli.",
+    "Bili smo među prvima koji su povjerovali u poruku nakon što smo svjedočili jasnom znaku.",
+    "Mučeni smo zbog naše vjere, ali mi ćemo biti prvi koji će ući u Raj s pravednicima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko smo mi?",
+      "options": [
+        "Faraonovi čarobnjaci",
+        "Izraelci",
+        "Narod Semuda",
+        "Učenici Ise",
+        "Abrahina vojska"
+      ],
+      "answer": "Faraonovi čarobnjaci"
+    },
+    "trial": {
+      "label": "Probno ispitivanje / Događaj",
+      "options": [
+        "Natjecanje s prorokom Musom",
+        "Izgradnja tornja",
+        "Velika poplava",
+        "Pošast skakavaca",
+        "Rascijepljeno more"
+      ],
+      "answer": "Natjecanje s prorokom Musom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dan festivala",
+        "Dolina Tuwa",
+        "Grad Iram",
+        "Vrt vječnosti",
+        "Arafatska ravnica"
+      ],
+      "answer": "Dan festivala"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Razapeli su ih javno",
+        "Utopili su se u moru",
+        "Postali su sljedbenici proroka",
+        "Poslani su u progonstvo",
+        "Progutala ih je vatra"
+      ],
+      "answer": "Razapeli su ih javno"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

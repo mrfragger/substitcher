@@ -1,0 +1,61 @@
+{
+  "title": "Sınaq Sahillərində Kənd",
+  "intro": "Özünüzü dalğaların səsi ilə unudulmuş xalqın pıçıltılarının qarışdığı sahil kəndində tapırsınız. Onlara istirahət əmri verilmişdi, lakin onların acgözlüyü hələ də səssizcə danışılan bir cəzaya səbəb oldu. Onların kim olduğunu aşkar edə bilərsinizmi?",
+  "clues": [
+    "Biz sahildə yaşayırdıq və bizə istirahət günü keçirmək əmri verildi.",
+    "Həmin gün balıq bol-bol gəlirdi, amma onları tutmaq bizə qadağan olunmuşdu.",
+    "Bəzilərimiz qanun pozuntusuna qarşı xəbərdarlıq etmişdik, digərləri isə yenə də balıq tutmaq üçün sui-qəsd qurdular.",
+    "Biz müqəddəs əmri pozduq və özümüzə şiddətli bir cəza verdik.",
+    "Bizim cəzamız bizi eybəcər və rüsvay edən bir dəyişiklik idi.",
+    "Biz meymunlara çevrildik, sonradan gələcək hər kəs üçün bir əlamət."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şənbə günü insanları",
+        "Səmud xalqı",
+        "Ad xalqı",
+        "Mağara Əhli",
+        "Fil Xalqı"
+      ],
+      "answer": "Şənbə günü insanları"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Şənbə günü balıq tutmaq",
+        "Qızıl buzova ibadət etmək",
+        "Hudun mesajını inkar etmək",
+        "Dişi dəvənin öldürülməsi",
+        "Cənnətə bir qüllə tikmək"
+      ],
+      "answer": "Şənbə günü balıq tutmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Balıq",
+        "Dişi dəvə",
+        "Bir heyət",
+        "Qayıq",
+        "Bağ"
+      ],
+      "answer": "Balıq"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Meymunlara çevrildi",
+        "Daşqın nəticəsində dağıdılıb",
+        "Alovlu bir atəşlə məhv edildi",
+        "Torpaq tərəfindən udulmuş",
+        "Külək tərəfindən səpələnmiş"
+      ],
+      "answer": "Meymunlara çevrildi"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

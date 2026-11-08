@@ -1,0 +1,61 @@
+{
+  "title": "Morwalo wa Mpho e e Ganwang",
+  "intro": "Mo tshimologong ya hisitori ya batho, fa lefatshe le ne le sa ntse le le lennye mme lefatshe le tshwere mowa wa lone wa ntlha, mowa o ne wa ema fa pele ga Mmopi ka tshupelo e e ikokobeditseng. Tshupelo eo e ne ya kalwa mo tekanyong ya kamogelo ya bomodimo — mme ya fitlhelwa e tlhaela. Se se neng sa latela e ne e se kgang ya boitshwarelo, mme e ne e le ya pelo e e neng e jelwe ke lefufa, e e neng ya felela ka tiro e e neng e ka se busediwe morago e e neng e tla boeletsa mo nakong yotlhe. Eno ke kgang ya mongwe yo leina la gagwe le neng la tshwana le tshiamololo ya ntlha e e masisi e e kileng ya dirwa.",
+  "clues": [
+    "Ke ne ka nna teng ke le mongwe wa bana ba ntlhantlha ba ba kileng ba tsholwa, yo o tshotsweng ke motsadi yo o itseng kgang ya gagwe sentle.",
+    "Ke kile ka ntshetsa Allah setlhabelo, mme se ne sa se ka sa amogelwa mo go nna — le fa setlhabelo sa ga ngwanake se ne sa amogelwa ka tshegofatso.",
+    "Lefufa le bogale di ne tsa tsena mo pelong ya me, mme ke ne ka tshosetsa go fedisa botshelo jwa ba losika lwa me.",
+    "Mogolowe o ne a ntlhagisa gore ke boife Allah, mme boikgogomoso jwa me bo ne bo sa ntetle go reetsa.",
+    "Mo motsotsong wa bokoa jo bo boitshegang, ke ne ka dira tiro e e sa buiweng mo go morwarre ka namana.",
+    "Morago ga moo, ke ne ke sa itse le go fitlha se ke se dirileng — go fitlhela go romelwa sebopiwa sa lefatshe go tla go nthuta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Kabile (Kaine)",
+        "Habile (Abele)",
+        "Morwa Moporofeti Nuh",
+        "Moporofeti Isma'il",
+        "Moporofeti Yusuf"
+      ],
+      "answer": "Kabile (Kaine)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go ntsha setlhabelo se se neng sa ganwa, se se neng sa dira gore go nne le polao ya ntlha .",
+        "Go aga tora e e kwa godimo go fitlha kwa magodimong",
+        "Go latlhelwa mo molelong o o tukang ka ntlha ya tumelo ya motho",
+        "Go ntsha morwa wa gago setlhabelo ka go ikobela Allah",
+        "Go mediwa ke tlhapi e kgolo ka ntlha ya go tshaba tiro ya gago"
+      ],
+      "answer": "Go ntsha setlhabelo se se neng sa ganwa, se se neng sa dira gore go nne le polao ya ntlha ."
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Legakabe le le rometsweng ke Allah go ya go bontsha phitlho",
+        "Morwalela o mogolo o o neng wa nwetsa batho botlhe",
+        "Lore lo lo neng lwa fetoga noga e e tshelang",
+        "Kamela e namagadi e e neng ya tswa mo thabeng ya matlapa",
+        "Terone e e kgatlhang e e rwalwang ke diphefo tse di maatla"
+      ],
+      "answer": "Legakabe le le rometsweng ke Allah go ya go bontsha phitlho"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ke ne ka nna wa batho ba ba ikotlhaetseng, ba ba imetsweng ke tlolomolao ya ntlha e e kileng ya dirwa",
+        "O ne a itshwarelwa ke Allah mme a newa Paradaise e e sa khutleng",
+        "O ne a tlhatlosediwa kwa maemong a a kwa godimo a boporofeti le botlhale",
+        "O pholositswe ke kutlwelobotlhoko ya bomodimo morago ga go bitsa go tswa kwa botennyeng jwa lefifi",
+        "O ne a newa taolo mo godimo ga dijini, phefo le mawatle ."
+      ],
+      "answer": "Ke ne ka nna wa batho ba ba ikotlhaetseng, ba ba imetsweng ke tlolomolao ya ntlha e e kileng ya dirwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

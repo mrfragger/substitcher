@@ -1,0 +1,61 @@
+{
+  "title": "L'eco des de la vora de la ciutat",
+  "intro": "En una ciutat que s'havia allunyat de la guia divina, una figura solitària va emergir dels afores, corrent amb un missatge d'esperança i advertència. Aquesta ànima oblidada es convertiria en un símbol etern de fe ferma.",
+  "clues": [
+    "Vaig veure missatgers enviats a la meva ciutat, però la meva gent els va menysprear com a humans normals.",
+    "Vaig creure en el seu missatge i vaig sentir que la veritat ressonava dins del meu ésser.",
+    "Vaig demanar al meu poble que obeís els missatgers que no demanaven cap recompensa.",
+    "Vaig córrer des de l'extrem més llunyà de la ciutat, intentant urgentment fer-los veure la raó.",
+    "El meu poble es va aixecar contra mi, i vaig ser assassinat, però vaig trobar la pau eterna.",
+    "Al·là em va dir: «Entra al Paradís», i vaig desitjar que el meu poble pogués presenciar l'honor que se m'ha atorgat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "El creient de Ya-Sin",
+        "Uzair l'Interrogador",
+        "Al-Khidr el Guia",
+        "El creient de la família del faraó",
+        "Namrud el Tirà"
+      ],
+      "answer": "El creient de Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Enfrontant-se a un poble incrèdul que el va assassinar",
+        "Ser llançat a un foc ardent",
+        "Ser engolit per un gran peix",
+        "Construint una arca gegantina",
+        "Fugint de l'exèrcit d'un tirà"
+      ],
+      "answer": "Enfrontant-se a un poble incrèdul que el va assassinar"
+    },
+    "location": {
+      "label": "Ubicació clau",
+      "options": [
+        "L'extrem més allunyat de la ciutat",
+        "La muntanya de Tur",
+        "La Vall de les Formigues",
+        "Les ribes del Nil",
+        "La caverna de la cova"
+      ],
+      "answer": "L'extrem més allunyat de la ciutat"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Martiri i entrada immediata al Paradís",
+        "Escapada i salvació",
+        "Ascensió als cels",
+        "Ofegant-se al mar",
+        "Convertint-se en pedra"
+      ],
+      "answer": "Martiri i entrada immediata al Paradís"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

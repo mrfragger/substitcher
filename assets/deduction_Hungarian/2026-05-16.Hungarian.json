@@ -1,0 +1,61 @@
+{
+  "title": "Az üdvösség állhatatos építője",
+  "intro": "Egy mérhetetlen türelemmel és rendíthetetlen meggyőződéssel megáldott személy, aki számtalan évet szentelt isteni küldetésének, miközben szüntelen megvetéssel és elutasítással kellett szembenéznie. Történetük erőteljes bizonyítéka a hitnek a mindent elsöprő hitetlenséggel szemben, és egy sorsdöntő eseményben csúcsosodott ki, amely átalakította a világot.",
+  "clues": [
+    "Életem hihetetlenül hosszú időszakát szenteltem annak, hogy Allah imádatára hívjam a népemet.",
+    "A népem gúnyolt engem, és nyilvánvaló tévedéssel és őrültséggel vádolt.",
+    "Azt a parancsot kaptam, hogy építsek valamit, ami szokatlannak tűnt a tengerparttal nem rendelkező közösségem számára.",
+    "Csak kevesen hittek és csatlakoztak hozzám és a családomhoz ezen az egyedülálló építkezésen.",
+    "Minden élőlényből párokat vittem a fedélzetre, Allah utasítása szerint.",
+    "Egy hatalmas árvíz árasztotta el a földet, csak azokat mentve meg, akik velem voltak a hajómban, míg a saját fiam a hitetlensége miatt pusztult el."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Szálih próféta",
+        "Hud próféta",
+        "Nuh próféta",
+        "Dawud próféta",
+        "Szulejmán próféta"
+      ],
+      "answer": "Nuh próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A földrengés pusztítása",
+        "A tenger kettéhasadása",
+        "A nagy árvíz",
+        "Nimród tüze",
+        "A békák pestise"
+      ],
+      "answer": "A nagy árvíz"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az égő csipkebokor",
+        "A bárka",
+        "A víz kútja",
+        "Az aranyborjú",
+        "A Túr-hegy"
+      ],
+      "answer": "A bárka"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Kapott egy királyságot",
+        "Az emberei majmokká változtak",
+        "Népét csodával határos módon mentették meg",
+        "Az emberei megfulladtak",
+        "Embereit villám csapta le"
+      ],
+      "answer": "Az emberei megfulladtak"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

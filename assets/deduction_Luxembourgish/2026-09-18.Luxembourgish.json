@@ -1,0 +1,61 @@
+{
+  "title": "Den Opruff aus dem Hellegen Dall",
+  "intro": "Hannert de Säite vun der Geschicht läit d'Geschicht vun enger Séil, déi tëscht engem mächtege Herrscher an engem ganze versklavte Vollek stoung. Dës Persoun gouf opgeruff, eng Natioun vun der Tyrannei ze befreien, andeems si Wonner erfëllt huet, déi all Naturgesetzer trotzden. Vum hellege Bierg bis zu engem Wonner um Waasser huet dësen Dénger vun Allah Zeeche gesinn, déi duerch d'Jore widderhalle géifen. Är Aufgab haut ass et, dës bemierkenswäert Figur z'identifizéieren, där hiert Ierfschaft de Verlaf vun der mënschlecher Geschicht geprägt huet.",
+  "clues": [
+    "Ech sinn an enger Zäit gebuer, wou mäi Vollek engem déidleche Gesetz stoung, a meng Famill huet mech an d'Waasser gesat fir mäi Liewen ze retten.",
+    "Ech gouf am selwechte Stot vum Herrscher fonnt an opgewuess, deen den Doud vu menger Aart bestallt hat.",
+    "Ech sinn op e hellege Bierg geflücht, wou ech Feier op engem Bam gesinn hunn, dat net verbrannt gouf, an eng Stëmm vun do aus huet zu mir geschwat.",
+    "Ech gouf mat Wonner zréck bei dee selwechte Herrscher geschéckt, a gefuerdert d'Fräiheet vu mengem versklavte Vollek.",
+    "Ech hunn d'Mier mat mengem Staf geschloen, an et huet sech a dréchen Weeër opgedeelt an d'Verfolleger verschléngt, déi mengem Vollek nogaange sinn.",
+    "Ech hunn véierzeg Nuechte mat mengem Här op engem Bierg geschwat, a krut Tafele vun der gëttlecher Féierung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Harun",
+        "Prophet Ibrahim",
+        "Prophet Yusuf",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Musa"
+    },
+    "trial": {
+      "label": "Mäi definéierend Prozess",
+      "options": [
+        "D'Trennung vum Mier",
+        "De Bau vun der Grousser Ark",
+        "Prozess duerch e flammende Feier",
+        "Inhaftéierung am Bauch vun engem Wal",
+        "Prisongsstrof vun engem egyptesche Beamten"
+      ],
+      "answer": "D'Trennung vum Mier"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Schäferstab",
+        "Eng grouss Holzark",
+        "Eng Höhl wou d'Zäit geschlof huet",
+        "E Gaart mat zwou Quellen",
+        "En Troun, deen mat Gold verziert ass"
+      ],
+      "answer": "E Schäferstab"
+    },
+    "outcome": {
+      "label": "D'Resultat",
+      "options": [
+        "Mäi Vollek ass iwwer d'Mier a Sécherheet komm",
+        "Eng grouss Iwwerschwemmung huet déi Ongleeweg zerstéiert",
+        "D'Feier vun engem Tyrann ass kill a friddlech ginn",
+        "D'Mier huet seng Gefaangenen op d'Ufer gehäit",
+        "De Gefaangene gouf Schatzmeeschter vun Ägypten"
+      ],
+      "answer": "Mäi Vollek ass iwwer d'Mier a Sécherheet komm"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

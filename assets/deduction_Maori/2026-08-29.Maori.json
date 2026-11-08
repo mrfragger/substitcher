@@ -1,0 +1,61 @@
+{
+  "title": "Ko te manawanui i kaha ake i te pouri",
+  "intro": "He kaumātua i rongonui tōna manawanui, i memeha haere tōna tirohanga i te pouri, engari kāore i ngoikore tōna whakapono ki te mahere atua. I mātakitaki tēnei tangata i ngā tama tekau mā rua e tipu ake ana hei turanga mō ngā iwi, i mamae i te mate o tētahi tamaiti tino arohaina, ā, i riro hei tohu mutunga kore o te manawanui ataahua i te aroaro o te pouri nui. He wairua whakaute e kōrerotia ana tana kōrero puta noa i ngā whārangi o te whakakitenga. Ka taea e koe te tautuhi i tēnei tangata mai i te Quran?",
+  "clues": [
+    "He poropiti ahau, ko tana kōrero taipitopito kei roto i tētahi o ngā surah nui o te Quran.",
+    "Tekau mā rua aku tama, ā, ko rātou ngā matua o ngā iwi o Bani Iharaira.",
+    "I mea atu ahau ki aku tama kia tomo mā ngā kēti rerekē, kei mōhiotia rātou he iwi kotahi.",
+    "I mā ōku kanohi i te tangi mutunga kore mō taku tamaiti e arohaina nei i tangohia i ahau.",
+    "I whakakahore ahau ki te ngakaukore ahakoa te akiaki a aku tama ki ahau kia pena, me te mea ko Allah anake taku e amuamu ai.",
+    "Ko ahau te matua o te poropiti a Yusuf, ko te tikanga o tōna ingoa tonu i roto i te reo Ārapi ko 'te kaiwhakanui'."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hākupa (Hākopa)",
+        "Poropiti a Yusuf",
+        "Poropiti Ihāperama",
+        "Poropiti a Mohi",
+        "Poropiti a Rawiri"
+      ],
+      "answer": "Poropiti a Hākupa (Hākopa)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te ngaromanga o te tama aroha ki te puna",
+        "Te waipuke nui i horomia ai te iwi katoa",
+        "Te hekenga mai i tētahi kingitanga karakia ahi",
+        "Te pakanga ki tētahi rangatira nui o Īhipa",
+        "Te whakaraunga ki te puku o te tohorā"
+      ],
+      "answer": "Te ngaromanga o te tama aroha ki te puna"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He hāte kua poke i te toto rūpahu",
+        "He tokotoko i huri hei nakahi",
+        "He āka i hangaia ki runga i te maunga",
+        "He kamera uha i whakairohia mai i te toka",
+        "He kuao kau koura"
+      ],
+      "answer": "He hāte kua poke i te toto rūpahu"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I hoki mai te tirohanga i te wā i hipokina ai te mata o te hāte o tā rātou tama aroha",
+        "Te whakaoranga i muri i te makanga ki roto i te puku o te ika nui",
+        "Te whiwhinga i te taitara Khalilullah mai i a Allah",
+        "Te whiti i te moana me te iwi kua wetekina i te herekore",
+        "He āniwaniwa e puta mai ana hei tohu o te tumanako i muri i te waipuke"
+      ],
+      "answer": "I hoki mai te tirohanga i te wā i hipokina ai te mata o te hāte o tā rātou tama aroha"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

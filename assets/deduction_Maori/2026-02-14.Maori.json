@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaihanga o ngā Ārai",
+  "intro": "I roto i ngā whenua whānui, i tīmata tētahi tangata whai mana i tētahi raupapa o ngā haerenga, ā, i whakawhiwhia ki a ia he mana nui me ngā rauemi. I tūtaki tēnei wairua ki ngā hapori kanorau, ā, i tūtaki ki ngā wero ahurei, i waiho he tohu pumau ki te hītori me te whakapono mā roto i ā rātou mahi me te whakaaro nui, me te whakaae tonu ki te pūtake pono o tō rātou kaha.",
+  "clues": [
+    "I homai ki ahau te mana me ngā rawa mō ngā mea katoa, ā, i whai ahau i tētahi ara.",
+    "I haria ahau e taku haerenga ki te tōnga o te rā, ki te wāhi i kitea ai e au tētahi iwi.",
+    "I tūtaki ahau ki tētahi hapori kāore i te tino mārama ki te kōrero, e noho ana i waenganui i ngā maunga e rua.",
+    "I tonoa ahau kia hanga he ārai, ehara i te mea hei painga mōku ake, engari hei tiaki i ahau i tētahi mana whakangaro.",
+    "I kī atu ahau ko te kaha ki te hanga i tēnei taiepa nui i ahu mai i a Allah, ā, ka tū tonu tae noa ki te wā i whakaritea.",
+    "Ko tōku ingoa, e whakamaoritia ana ko 'Te Mea e Rua ngā Haona,' e tohu ana i tōku horapa puta noa i te ao, i ngā wā rerekē rānei e rua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Mohi",
+        "Poropiti a Sulaimana",
+        "Dhul-Qarnayn",
+        "Parao",
+        "Lukmana"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whiwhi whakakitenga",
+        "Te anga atu ki tētahi kaitukino",
+        "Te hanga i tētahi kaipuke nui",
+        "Te hanga i tētahi ārai kaha",
+        "Te horomia e te ika"
+      ],
+      "answer": "Te hanga i tētahi ārai kaha"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Ārai Rino",
+        "Te Awa o te Nile",
+        "Te Torona"
+      ],
+      "answer": "Te Ārai Rino"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te whakaoranga mai i te waipuke",
+        "Te rironga hei rangatiratanga nui",
+        "Te tiakitanga mō te iwi",
+        "Te whakangaromanga o te kaitukino",
+        "Te whakaaro nui pumau"
+      ],
+      "answer": "Te tiakitanga mō te iwi"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

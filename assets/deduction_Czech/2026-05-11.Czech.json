@@ -1,0 +1,61 @@
+{
+  "title": "Neochvějní svědkové",
+  "intro": "Představte si dobu, kdy byla víra zkoušena ohněm a neochvějné přesvědčení se stalo vrcholným vzdorem. Vaším úkolem je odhalit identitu skupiny, jejíž příběh je vyprávěn v Koránu, vyprávění o hluboké víře proti drtivé tyranii. Rozluštěte indicie a objevte, kdo tyto duše byly a jakým mimořádným okolnostem čelily.",
+  "clues": [
+    "Stáli jsme pevně ve svém přesvědčení, navzdory obrovskému tlaku, abychom se své víry zřekli.",
+    "Stali jsme se terčem mocného vládce, který se snažil uhasit světlo monoteismu.",
+    "Byli jsme svědky velkých znamení a zázraků, přesto naši utlačovatelé zůstali nepozorní.",
+    "Snášeli jsme hrůznou metodu pronásledování, jejímž cílem bylo terorizovat ostatní a donutit je k podrobení se.",
+    "Byli jsme uvrženi do planoucího pekla, ale naše vytrvalost nám vynesla vysoké postavení u Alláha.",
+    "Náš příběh je vyprávěn v súře pojmenované po nebeských souhvězdích a varuje před osudem těch, kdo pronásledují věřící."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Lidé z Thamudu",
+        "Lidé z 'Ad",
+        "Lidé z příkopu",
+        "Midjánský lid",
+        "Lidé slona"
+      ],
+      "answer": "Lidé z příkopu"
+    },
+    "trial": {
+      "label": "Naše pronásledování",
+      "options": [
+        "Utonutí v povodni",
+        "Být pohlcen spalujícím větrem",
+        "Být uvržen do ohnivého příkopu",
+        "Být pohlcen zemí",
+        "Proměna v opice"
+      ],
+      "answer": "Být uvržen do ohnivého příkopu"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Masivní povodeň",
+        "Velké zemětřesení",
+        "Hluboký, hořící příkop",
+        "Mocný idol",
+        "Ničivé sucho"
+      ],
+      "answer": "Hluboký, hořící příkop"
+    },
+    "outcome": {
+      "label": "Náš konečný osud",
+      "options": [
+        "Bylo jim dáno království na zemi.",
+        "Zachránil je zázračný únik.",
+        "Dosáhli mučednictví a věčné odměny.",
+        "Byli přeměněni v jiný druh.",
+        "Bylo jim dáno nesmírné bohatství a prosperita."
+      ],
+      "answer": "Dosáhli mučednictví a věčné odměny."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

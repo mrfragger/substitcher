@@ -1,0 +1,61 @@
+{
+  "title": "Sabırlı Ruh",
+  "intro": "Peygamberlik tarihinde, sabrı varlığının dokusuna işlemiş bir ruh vardı. Gözyaşları ve zaman içinde umuduna sıkıca tutundu ve ilahi bilgeliğe olan güvenin zamansız bir örneği oldu. Bu sarsılmaz figürün gizemini çözebilir misiniz?",
+  "clues": [
+    "Peygamberler ailesine doğdum, ancak en büyük sınavım en çok sevdiğim çocuğumla geldi.",
+    "Oğlumun paylaştığı bir rüyadan kıskançlık konusunda bir uyarı aldım ve onun güvenliğinden endişe ettim.",
+    "Gözlerim kederden bembeyaz oldu, ama Allah'ın merhametine olan inancımı asla kaybetmedim.",
+    "Kayıp çocuğumun kokusu uzaktan burnuma geldi ve o an kavuşmanın yakın olduğunu anladım.",
+    "Ailem, eski hayalimin gerçekleşmesi ve görme yetimin geri gelmesi üzerine minnetle başlarını eğdiler.",
+    "Bana önce kan lekeli bir gömlek verildi, daha sonra ise görme yetimi iyileştiren bir gömlek aldım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İbrahim",
+        "Peygamber İshak",
+        "Peygamber Yakub",
+        "Peygamber Yusuf",
+        "Peygamber Eyyub"
+      ],
+      "answer": "Peygamber Yakub"
+    },
+    "trial": {
+      "label": "Kritik Dava",
+      "options": [
+        "Sevgili bir çocuktan ayrılık ve görme kaybı",
+        "Alev alev yanan bir ateşe atılmak",
+        "Büyük bir balık tarafından yutulmak",
+        "Servetini, çocuklarını ve sağlığını kaybetmeye katlanmak",
+        "Kardeşleri tarafından ihanete uğrayıp bir kuyuya atıldı."
+      ],
+      "answer": "Sevgili bir çocuktan ayrılık ve görme kaybı"
+    },
+    "location": {
+      "label": "Sembolik Nesne",
+      "options": [
+        "Önce gerçeği gizleyen, sonra da ortaya çıkaran bir gömlek.",
+        "Yılana dönüşen bir asa",
+        "Bir peygamberi yutan balina",
+        "Soğuyan bir ateş",
+        "Yanan çalının yanında bir çift sandalet"
+      ],
+      "answer": "Önce gerçeği gizleyen, sonra da ortaya çıkaran bir gömlek."
+    },
+    "outcome": {
+      "label": "İlahi Karar",
+      "options": [
+        "Kaybettiği sevdiklerine kavuşma ve görme yetisinin geri kazanılması",
+        "Baskıcı bir ulustan kurtuluş",
+        "Balığın karnından kurtuluş",
+        "Alev alev yanan bir yangından kurtuluş",
+        "Büyük bir tahta yükseliş"
+      ],
+      "answer": "Kaybettiği sevdiklerine kavuşma ve görme yetisinin geri kazanılması"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

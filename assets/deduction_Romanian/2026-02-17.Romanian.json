@@ -1,0 +1,61 @@
+{
+  "title": "Sămânța conflictului",
+  "intro": "Înainte ca lumea să cunoască conflicte pe scară largă, a avut loc un test profund al credinței și ascultării. Această narațiune explorează alegerile făcute de un individ, ale cărui acțiuni au stabilit un precedent pentru generațiile viitoare. Pregătește-te să dezvolți povestea unui suflet care se luptă cu o gelozie imensă și consecințele ei devastatoare.",
+  "clues": [
+    "Am fost printre primii urmași care au pășit pe pământ, un copil al primei perechi de oameni.",
+    "Mie și fratelui meu ni s-a poruncit să oferim o jertfă lui Allah, o probă a sincerității noastre.",
+    "Oferta mea nu a fost acceptată, în timp ce cea a fratelui meu a fost, ceea ce mi-a umplut inima de o emoție teribilă.",
+    "I-am adresat fratelui meu cuvinte amenințătoare, mânat de amărăciunea respingerii.",
+    "Fratele meu a răspuns cu înțelepciune și evlavie, amintindu-mi de dreptatea lui Allah și de frica de El.",
+    "În ciuda cuvintelor blânde ale fratelui meu și a disponibilității sale de a ierta, am luat o viață, devenind unul dintre pierzători."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Adam",
+        "Iblis",
+        "Profetul Nuh",
+        "Qabil (Cain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Marele potop",
+        "Despărțirea mării",
+        "Construirea Kaabai",
+        "Oferirea de jertfe",
+        "Ispita din Grădină"
+      ],
+      "answer": "Oferirea de jertfe"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca",
+        "Personalul",
+        "Muntele Safa",
+        "Sacrificiul",
+        "Rugul Aprins"
+      ],
+      "answer": "Sacrificiul"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A devenit un mesager",
+        "S-a înecat",
+        "A construit un mare regat",
+        "A devenit un exemplu de regret",
+        "I s-a acordat o avere imensă"
+      ],
+      "answer": "A devenit un exemplu de regret"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muryar Hukuncin da Aka Boye",
+  "intro": "A tsakiyar kotun zalunci, inda rashin imani shine dokar ƙasar, wani mutum kaɗai ya yi tafiya a kan igiyar imani da tsoro. Wannan mutumin, kusa da cibiyar iko, ya saurara yayin da aka yi wa saƙon annabi ba'a da barazana. Wani lokaci na gaskiya ya zo, wanda ya tilasta wa wannan mutumin ya zaɓi tsakanin aminci cikin shiru da faɗin gaskiya mai haɗari. Za ku iya gano asalin wannan mai fafutukar kare kai?",
+  "clues": [
+    "Na zauna a cikin gidan wani azzalumi, ina shaida girman kai da ya ƙi alamun allahntaka da idona.",
+    "Na ɓoye imanina a ɓoye, wata taska da aka ɓoye a cikin fadar bautar gumaka.",
+    "Na ji shugaban da na yi wa hidima yana shirin kashe wani manzon Allah, wani mutum mai suna Musa.",
+    "Na yi tambaya game da tunaninsu, ina tunatar da su makomar mutanen Nuhu, Adawa, da Samudawa.",
+    "Na yi wa mutanena wata tambaya mai mahimmanci: 'Idan maƙaryaci ne, ƙaryarsa tana kansa; amma idan gaskiya ne, wasu daga cikin abubuwan da ya yi alƙawarin za su same ka.'",
+    "Labarina an bayar da shi ne a matsayin misali na imani a cikin sura mai suna 'Mai gafara,' inda na yi wa mutanena gargaɗi game da makircin masu iko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mumini daga Iyalan Fir'auna",
+        "Haman",
+        "Masu Sihiri na Fir'auna",
+        "Ƙurun",
+        "Samiri"
+      ],
+      "answer": "Mumini daga Iyalan Fir'auna"
+    },
+    "trial": {
+      "label": "Menene Jarabawata?",
+      "options": [
+        "Kare Annabi Musa a kotun azzalumi",
+        "Gina hasumiya mai tsayi don isa ga sammai",
+        "Ana jefa shi cikin wuta mai ƙuna",
+        "Babban kifi ya haɗiye shi",
+        "Rasa dukkan dukiya da lafiya"
+      ],
+      "answer": "Kare Annabi Musa a kotun azzalumi"
+    },
+    "location": {
+      "label": "Menene Jigon Hujjata?",
+      "options": [
+        "Sakamakon ƙin saƙon annabi",
+        "Bukatar alama daga wata bishiya mai tsarki",
+        "Ƙirƙirar ɗan maraƙi daga kayan ado na narkakken",
+        "Mu'ujizar raƙumi daga dutse",
+        "Fassarar mafarkan mai mulki"
+      ],
+      "answer": "Sakamakon ƙin saƙon annabi"
+    },
+    "outcome": {
+      "label": "Menene Sakamakon?",
+      "options": [
+        "Allah ya tsare wannan mutumin daga sharrin makircinsu",
+        "Nan take kotun gaba ɗaya ta karɓi Musulunci",
+        "Azzalumin ya tuba a daidai lokacin da ya nutse",
+        "Ƙasa ta haɗiye azzalumi",
+        "An kai mutumin zuwa wata ƙasa mai nisa"
+      ],
+      "answer": "Allah ya tsare wannan mutumin daga sharrin makircinsu"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Skyttegravens sjæle",
+  "intro": "Du rejser tilbage til en tid, hvor en hensynsløs hersker krævede absolut hengivenhed til falske guddomme. Et lille samfund af hengivne sjæle nægtede og stod over for en straf så alvorlig, at den blev evigt forbandet. Deres historie giver genlyd i Koranen som et vidnesbyrd om urokkelig tro. Kan du identificere denne standhaftige gruppe?",
+  "clues": [
+    "Vi levede i et land under tyranni af en hersker, der krævede tilbedelse af falske guddomme",
+    "Vores samfund blev udsat for alvorlig forfølgelse udelukkende på grund af vores tro på Allah alene",
+    "Herskeren beordrede, at en stor grøft skulle graves og sættes til næring med voldsomme flammer.",
+    "Fordi vi nægtede at give afkald på vores tro, blev vi kastet i den flammende afgrund en efter en",
+    "Vores historie blev en del af Koranen, og de, der forfulgte os, blev evigt forbandet.",
+    "Surahen, der beskriver vores prøvelser, er opkaldt efter himlens store himmelske tegn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Ledsagere af Skyttegraven (Ashab al-Ukhdud)",
+        "Hulens folk (Ashab al-Kahf)",
+        "Sabbattens folk",
+        "Folket i A'ad",
+        "Folket i Thamud"
+      ],
+      "answer": "Ledsagere af Skyttegraven (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Vores prøve",
+      "options": [
+        "At blive brændt levende i en brændende grav",
+        "At være forseglet i en hule i mange år",
+        "Fiskeri på den hellige hviledag",
+        "At blive ødelagt af en hylende vind",
+        "At dræbe en hellig hunkamel"
+      ],
+      "answer": "At blive brændt levende i en brændende grav"
+    },
+    "location": {
+      "label": "Nøgleelementet",
+      "options": [
+        "En flammende ildgrav",
+        "En skjult hule med en loyal hund",
+        "Høje søjler i en gammel dødsdømt by",
+        "Bjergboliger hugget ind i stenklipper",
+        "En åben slette fejet af voldsomme vinde"
+      ],
+      "answer": "En flammende ildgrav"
+    },
+    "outcome": {
+      "label": "Vores resultat",
+      "options": [
+        "Vi blev martyrer, og forfølgerne blev evigt forbandede",
+        "Vi vågnede efter at have sovet i 309 år",
+        "Vi blev forvandlet til aber for vores overtrædelse",
+        "En mægtig hylende vind ødelagde os alle",
+        "Et enkelt, ødelæggende råb knuste vores eksistens"
+      ],
+      "answer": "Vi blev martyrer, og forfølgerne blev evigt forbandede"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

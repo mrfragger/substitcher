@@ -1,0 +1,61 @@
+{
+  "title": "Imbewu Yengxabano",
+  "intro": "Ngaphambi kokuba ihlabathi lizazi iingxabano ezibanzi, kwavela uvavanyo olukhulu lokholo nokuthobela. Le ngxelo ihlola izigqibo ezenziwa ngumntu, ozenzo zakhe zamisela umzekelo kwizizukulwana ezizayo. Lungiselela ukutyhila ibali lomphefumlo ojongene nomona omkhulu kunye nemiphumo yawo emibi.",
+  "clues": [
+    "Ndandiphakathi kwenzala yokuqala ukuhamba emhlabeni, umntwana wesibini sokuqala esingabantu.",
+    "Mna nomnakwethu sayalelwa ukuba sinikele idini ku-Allah, uvavanyo lokunyaniseka kwethu.",
+    "Umnikelo wam awuzange wamkelwe, ngelixa okamntakwethu wamkelwe, nto leyo eyazalisa intliziyo yam ngeemvakalelo ezimbi.",
+    "Ndathetha amazwi okusongela umntakwethu, ndiqhutywa bubukrakra bokwaliwa.",
+    "Umnakwethu waphendula ngobulumko nangobungcwele, endikhumbuza ngobulungisa buka-Allah kunye nokumoyika.",
+    "Nangona umntakwethu wayethetha amazwi athambileyo kwaye ezimisele ukuxolela, ndazibulala, ndaba ngomnye wabantu abalahlekileyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uAdam",
+        "I-Iblis",
+        "Umprofeti uNuh",
+        "UQabil (uKayin)",
+        "UFir'awn"
+      ],
+      "answer": "UQabil (uKayin)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umkhukula omkhulu",
+        "Ukwahlukana kolwandle",
+        "Ukwakhiwa kweKaaba",
+        "Umnikelo wemibingelelo",
+        "Isilingo Emyezweni"
+      ],
+      "answer": "Umnikelo wemibingelelo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Abasebenzi",
+        "INtaba yaseSafa",
+        "Umbingelelo",
+        "Isihlahla Esitshayo"
+      ],
+      "answer": "Umbingelelo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waba ngumthunywa",
+        "Ndatshona",
+        "Wakha ubukumkani obukhulu",
+        "Waba ngumzekelo wokuzisola",
+        "Wanikwa ubutyebi obukhulu"
+      ],
+      "answer": "Waba ngumzekelo wokuzisola"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

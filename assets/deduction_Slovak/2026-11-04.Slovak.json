@@ -1,0 +1,61 @@
+{
+  "title": "poklad, ktorý sa potopil pod pýchou",
+  "intro": "Predstavte si, že stojíte pred hromadami bohatstva takými obrovskými, že už len samotné nosenie kľúčov by vyčerpalo skupinu silných jednotlivcov. Okolo vás sa ozývajú hlasy nabádajúce k pokore a spomienke, no hrdosť je hlasnejšia ako vďačnosť. Čo sa stane, keď sa štedrosť stane skúškou a arogancia spečatí výsledok?",
+  "clues": [
+    "Pochádzal som z ľudu Músu, no prehrešil som sa voči nim.",
+    "Boli mi dané také obrovské poklady, že kľúče k nim by zaťažili skupinu silných mužov.",
+    "Môj ľud mi radil, aby som sa nejasal a hľadal posmrtný život bez toho, aby som zabudol na svoj podiel na tomto svete.",
+    "Tvrdil som, že to, čo vlastním, mi bolo dané len vďaka vedomostiam, ktoré som mal.",
+    "Predvádzal som sa pred svojím ľudom v ozdobe a tí, ktorí túžili po svetskom živote, si priali niečo podobné ako ja.",
+    "Zem ma pohltila aj s mojím príbytkom a nikto mi nemohol pomôcť a ani ja som si nemohol pomôcť sám."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Džalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Chválil sa bohatstvom a napriek rade odopieral Alahovu priazeň",
+        "Vyzval Ibrahima, aby dal život a smrť",
+        "Viedol armádu proti Talutovi a Dawudovi",
+        "Vyrezávané modly, ktoré ľudia uctievajú",
+        "Zabil brata zo závisti kvôli obeti"
+      ],
+      "answer": "Chválil sa bohatstvom a napriek rade odopieral Alahovu priazeň"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Kľúče k nesmiernym pokladom",
+        "Archa zmluvy",
+        "Zlaté teľa medzi ozdobami",
+        "Priehrada medzi dvoma horami",
+        "Jedenásť hviezd v sne"
+      ],
+      "answer": "Kľúče k nesmiernym pokladom"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Pohltený zemou s príbytkom a bohatstvom",
+        "Utopil sa v mori pri prenasledovaní Musu",
+        "Zrazený kameňom z Dawudovho praku",
+        "Zničený silným výbuchom za podrezanie hamstringu ťavej samici",
+        "Premenili sa na opice za porušenie Sabatu"
+      ],
+      "answer": "Pohltený zemou s príbytkom a bohatstvom"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

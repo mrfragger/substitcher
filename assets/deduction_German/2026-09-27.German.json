@@ -1,0 +1,61 @@
+{
+  "title": "Der Garten, der über Nacht verschwand",
+  "intro": "Stell dir einen üppigen Garten vor, schwer von reifen Früchten und umgeben von hoch aufragenden Bäumen. Diejenigen, die ihn pflegten, hielten sich für klug, da sie ihre Ernte in den stillen Stunden vor der Morgendämmerung planten, fernab der Blicke der Bedürftigen. Doch derjenige, der niemals schläft, hatte andere Pläne mit ihrem verborgenen Reichtum. Kannst du erraten, wer hinter dieser warnenden Geschichte aus dem Koran steht?",
+  "clues": [
+    "Wir besaßen einst einen so üppigen und prächtigen Garten, dass er zum Neid aller wurde, die vorbeikamen.",
+    "Bei unseren Planungen flüsterten wir uns schon früh am Morgen zu, dass an diesem Tag keine bedürftige Seele eingelassen werden dürfe.",
+    "Wir waren wohlhabende Menschen, und unsere Herzen waren blind geworden für die Rechte der Armen um uns herum.",
+    "Als der Morgengrauen unserer geplanten Erntezeit anbrach, näherten wir uns unserem Garten und fanden ihn nur noch als geschwärzte Ruine vor, die sich über Nacht verwandelt hatte.",
+    "Ein verheerendes Dekret wurde erlassen und hinterließ nichts als Asche, wo einst reife Früchte gehangen hatten.",
+    "Unsere Geschichte ist eine strenge Warnung, die im Koran aufgezeichnet ist, wo wir als die Besitzer des Gartens bekannt sind, die den Bedürftigen Almosen vorenthielten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Besitzer des Gartens",
+        "Die Menschen der Höhle",
+        "Die Jünger von Jesa",
+        "Die Gefährten des Waldes",
+        "Die Gäste von Ibrahim"
+      ],
+      "answer": "Die Besitzer des Gartens"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Heimlich Früchte ernten und die Armen ausschließen",
+        "Jahrhundertelang in einer Höhle geschlafen",
+        "Sich weigern, aus Stein eine Kamelstute zu erschaffen",
+        "Anbetung eines goldenen Kalbs am Berg Sinai",
+        "Bau einer großen Arche, um einer Flut zu entkommen"
+      ],
+      "answer": "Heimlich Früchte ernten und die Armen ausschließen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein ummauerter Garten voller Palmen und Weinreben",
+        "Eine dunkle Höhle tief in den Bergen",
+        "Eine Stadt, die von einem göttlichen Hurrikan heimgesucht wurde",
+        "Ein heiliges Tal in der Nähe des Hauses Allahs",
+        "Die Ufer eines fließenden Flusses"
+      ],
+      "answer": "Ein ummauerter Garten voller Palmen und Weinreben"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Der Garten wurde von einem sengenden Dekret des Himmels verzehrt.",
+        "Sie schliefen 309 Mondjahre lang friedlich.",
+        "Sie wurden von einem Steinhagel zermalmt.",
+        "Sie ertranken in den Wellen einer großen Flut.",
+        "Sie wurden von einem kalten, tobenden Windstoß auseinandergetrieben."
+      ],
+      "answer": "Der Garten wurde von einem sengenden Dekret des Himmels verzehrt."
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

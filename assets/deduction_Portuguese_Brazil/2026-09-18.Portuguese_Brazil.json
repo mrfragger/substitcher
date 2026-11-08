@@ -1,0 +1,61 @@
+{
+  "title": "O Chamado do Vale Sagrado",
+  "intro": "Para além das páginas da história, reside a história de uma alma que se colocou entre um governante poderoso e um povo inteiro escravizado. Esse indivíduo foi chamado para libertar uma nação da tirania, realizando prodígios que desafiavam todas as leis da natureza. De uma montanha sagrada a um milagre sobre as águas, esse servo de Alá testemunhou sinais que ecoariam através dos tempos. Sua tarefa hoje é identificar essa figura notável cujo legado moldou o curso da história da humanidade.",
+  "clues": [
+    "Eu nasci numa época em que meu povo enfrentava um decreto mortal, e minha família me colocou na água para salvar minha vida.",
+    "Fui encontrado e criado na própria casa do governante que havia ordenado a morte de pessoas como eu.",
+    "Eu fugi para um monte sagrado onde vi fogo em uma árvore que não se consumia, e uma voz falou comigo vinda dela.",
+    "Fui enviado de volta àquele mesmo governante com milagres, exigindo a libertação do meu povo escravizado.",
+    "Golpeei o mar com meu cajado, e ele se dividiu em caminhos secos, engolindo os perseguidores que seguiam meu povo.",
+    "Comuniquei-me com meu Senhor em uma montanha durante quarenta noites e recebi tábuas de orientação divina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Moisés",
+        "Profeta Harun",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Moisés"
+    },
+    "trial": {
+      "label": "Meu julgamento decisivo",
+      "options": [
+        "A Separação do Mar",
+        "Construindo a Grande Arca",
+        "Julgamento por um Fogo Ardente",
+        "Confinamento na barriga de uma baleia",
+        "Prisão por um oficial egípcio"
+      ],
+      "answer": "A Separação do Mar"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Cajado de pastor",
+        "Uma grande arca de madeira",
+        "Uma caverna onde o tempo dormia.",
+        "Um Jardim com Duas Fontes",
+        "Um trono adornado com ouro"
+      ],
+      "answer": "Cajado de pastor"
+    },
+    "outcome": {
+      "label": "O resultado",
+      "options": [
+        "Meu povo atravessou o mar em busca de segurança.",
+        "Um grande dilúvio destruiu os incrédulos.",
+        "O fogo de um tirano tornou-se frio e pacífico.",
+        "O mar lançou seu prisioneiro na praia.",
+        "O cativo tornou-se o tesoureiro do Egito."
+      ],
+      "answer": "Meu povo atravessou o mar em busca de segurança."
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

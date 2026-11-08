@@ -1,0 +1,61 @@
+{
+  "title": "Ikustezinaren entzuleak",
+  "intro": "Mundu ikusgaiaren beloaren atzean, ezkutuko batzar bat bildu zen iluntasunean, ezagutzen zuten guztiaren aurka egiten zuen soinu batek erakarrita. Mendeetan zehar ibili ziren benetako gidaritzarik gabe, harik eta ahots batek haien erreinu ikusezinaren isiltasuna zeharkatu eta zerbait sakonki piztu zuen arte. Gaur gauean, itzalen haratago irten eta talde misteriotsu honen nortasuna ezagutzera gonbidatuta zaudete, zeinen hitz jainkotiarrekin topatzeak beren herriarengana eraman baitzituen, eduki ezin zitekeen egia baten ohartarazle gisa.",
+  "clues": [
+    "Antzinako izakiak gara, irakurri dituzun nazio askoren aurretik existitu ginenak, baina gutxitan aipatzen dira guretaz gizakien ipuinetan.",
+    "Gure izaera zurearen ezberdina da, ikusezinaren elementuez ehundua da, eta ohikoari aurre egiten dioten botereak ditugu.",
+    "Denbora luzez, benetako gidaritzarik gabe ibili ginen, harik eta barne-barne zerbait astindu zuen soinu bat iritsi zitzaigun arte.",
+    "Inoiz entzun ez genuen ezer bezalako errezitaldi bat entzun genuen, edozein hitz egitea baino pisu handiagoa zuten hitzak.",
+    "Isilpean estutu ginen, gureei isiltzeko aginduz, eta bertsoak amaitu zirenean, ezin ginen geldirik egon.",
+    "Gure herriarengana itzuli eta hau esan genuen: «Oi gure herria, entzun dugu Moisesen ondoren jaitsi zen Liburu bat, aurrekoa berresten duena eta egiarantz gidatzen duena»."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hawariyyun (Isako ikasleak)",
+        "Korana entzun ondoren sinetsi zuen jinna",
+        "Kobazuloko Lagunak",
+        "Zeruko beheko aingeruak",
+        "Faraoiaren bidea jarraitu zuen jendea"
+      ],
+      "answer": "Korana entzun ondoren sinetsi zuen jinna"
+    },
+    "trial": {
+      "label": "Proba / Ekitaldia",
+      "options": [
+        "Izaki berri baten aurrean makurtzeari uko egiteagatik bota gintuzten",
+        "Hirurehun eta bederatzi urtez egon ginen kobazulo batean zigilatuta",
+        "Gure aurrean zatitzen zen itsaso bat zeharkatzeko agindu ziguten",
+        "Magia lurralde batera bidali gintuzten sorginkeria ikastera",
+        "Errezitaldi bat isilpean entzun genuen eta eraldatu egin gintuen"
+      ],
+      "answer": "Errezitaldi bat isilpean entzun genuen eta eraldatu egin gintuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Herri baten apaingarriekin egindako urrezko txahal bat",
+        "Belaunaldiz belaunaldi loa iraun zuen kobazulo bat",
+        "Babiloniako bi aingeru, debekatutako ezagutza irakatsi zutenak",
+        "Moisesen ondoren agertu zen liburua, Tora berresten duena",
+        "Sasi erretzen ari den mendi santu baten gainean"
+      ],
+      "answer": "Moisesen ondoren agertu zen liburua, Tora berresten duena"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Judizioaren Egunera arte madarikatuak ginen",
+        "Agintari boteretsu baten aurka altxatu eta hesi bat eraiki genuen lurraldean",
+        "Tximino eta txerri bihurtu ginen",
+        "Gure herriarengana itzuli ginen ohartarazle gisa, sinesmena aldarrikatuz",
+        "Gure buruzagiarekin batera itsasoan ito ginen"
+      ],
+      "answer": "Gure herriarengana itzuli ginen ohartarazle gisa, sinesmena aldarrikatuz"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

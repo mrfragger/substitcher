@@ -1,0 +1,61 @@
+{
+  "title": "Kušnja svetog plamena",
+  "intro": "U drevnoj zemlji gdje je odanost klesanom kamenu pustila korijenje u svakom domu, jedna se osoba izdvajala. Zahvaljujući nepokolebljivom uvjerenju i božanskoj zaštiti, suočili su se s onim što je trebala biti sigurna smrt - i otišli neozlijeđeni. Možete li otkriti identitet ove izvanredne duše?",
+  "clues": [
+    "Odrastao sam među ljudima koji su se klanjali idolima koje su sami isklesali, vjerujući da ti predmeti posjeduju božansku moć.",
+    "Kad sam osporavao njihova uvjerenja, isprva su me odbacili, ali nisam mogao šutjeti o istini koju sam znao.",
+    "Jednog dana kad su bili okupljeni, uništio sam njihove idole, ostavljajući samo najvećeg netaknutim.",
+    "Kad su se vratili i vidjeli što sam učinio, njihovi vođe naredili su da se sagradi velika lomača, namjeravajući me baciti u plamen.",
+    "Bacili su me u goruću vatru, ali je Gospodar svjetova naredio da se ona ohladi i bude sigurna za mene.",
+    "Iz plamena sam izašao potpuno neozlijeđen, dok su oni koji su kovali zavjeru protiv mene suočeni s potpunom propašću."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Ibrahim",
+        "Poslanik Musa",
+        "Poslanik Nuh",
+        "Poslanik Isa",
+        "Poslanik Jusuf"
+      ],
+      "answer": "Poslanik Ibrahim"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti bačen u plamteću vatru",
+        "Biti progutan od strane velikog kita",
+        "Preživljavanje velike poplave",
+        "Biti bačen u duboki bunar",
+        "Suočavanje s kraljevim čarobnjacima"
+      ],
+      "answer": "Biti bačen u plamteću vatru"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ogromna lomača od gorućeg drva",
+        "Velika drvena arka",
+        "Kip zlatnog teleta",
+        "Plutajuća košara na rijeci",
+        "Veličanstveno prijestolje"
+      ],
+      "answer": "Ogromna lomača od gorućeg drva"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Allah je vatru učinio hladnom i sigurnom",
+        "Arka je sigurno pristala na planinu",
+        "Zlatni idol se topio pred njihovim očima",
+        "Tiranin i njegova vojska utopili su se u moru",
+        "Slijepom čovjeku je vraćen vid"
+      ],
+      "answer": "Allah je vatru učinio hladnom i sigurnom"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

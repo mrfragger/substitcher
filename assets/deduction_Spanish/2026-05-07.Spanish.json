@@ -1,0 +1,61 @@
+{
+  "title": "El que llama desde las profundidades",
+  "intro": "Imagina a un alma a quien se le confió un mensaje divino, pero que, en un momento de precipitación, se separó de su pueblo sin permiso explícito. Este viaje la condujo a una prueba extraordinaria, una profunda prueba de paciencia y confianza en el Altísimo. ¿Quién es esta persona cuya historia nos enseña sobre el arrepentimiento y la inmensidad de la misericordia de Alá?",
+  "clues": [
+    "Me enviaron a una gran nación, pero su rechazo inicial me causó angustia.",
+    "Abandoné a mi gente, creyendo que mi misión había concluido, antes de recibir una orden clara para partir.",
+    "Intenté embarcar, pero una fuerte tormenta y un sorteo me llevaron a una situación desesperada.",
+    "Me arrojaron al mar, y una poderosa criatura de las profundidades me tragó entero.",
+    "En la oscuridad de sus entrañas, clamé a Alá, admitiendo mi error y buscando Su perdón.",
+    "Alá ordenó a la criatura que me arrojara a la orilla, y recuperé la salud bajo una planta singular."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Yusuf (José)",
+        "Profeta Nuh (Noé)",
+        "El profeta Yunus (Jonás)",
+        "Profeta Sulaimán (Salomón)",
+        "Profeta Ayyub (Job)"
+      ],
+      "answer": "El profeta Yunus (Jonás)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La división del mar",
+        "El fuego de Nimrod",
+        "Ser tragado por un gran pez",
+        "La inundación",
+        "La destrucción de una ciudad por piedras"
+      ],
+      "answer": "Ser tragado por un gran pez"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "El vientre del pez",
+        "El pozo",
+        "La zarza ardiente"
+      ],
+      "answer": "El vientre del pez"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se convirtió en un gran gobernante.",
+        "Construyeron la Kaaba",
+        "Regresó para guiar a una nación arrepentida.",
+        "Se le otorgó dominio sobre los genios.",
+        "Guió a la gente a través del desierto"
+      ],
+      "answer": "Regresó para guiar a una nación arrepentida."
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

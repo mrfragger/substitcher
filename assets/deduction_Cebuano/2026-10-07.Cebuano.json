@@ -1,0 +1,61 @@
+{
+  "title": "Ang siga sulod sa palasyo sa pagkamapahitas-on",
+  "intro": "Luyo sa dagkong mga paril sa labing gamhanang palasyo sa karaang kalibutan nagpuyo ang usa ka tawo kansang kasingkasing nagdala ug sekreto nga walay harianong mando nga makapahilom. Samtang ang tanan nagyukbo sa mga bakak nga diyos, kining kalag nagpabilin nga nagdilaab ang hilom nga pagtuo. Ang magmamando sa maong yuta nagtuo nga sila balaan, apan kining tawhana mipili sa kamatuoran kaysa kahupayan, ug debosyon kaysa kaluwasan. Karon, ang imong buluhaton mao ang pagdiskubre kung kinsa kining maisog nga kalag, kansang istorya nagpabilin nga usa sa labing gamhanang mga ehemplo sa dili matarug nga pagtuo.",
+  "clues": [
+    "Nagpuyo ko sa usa ka lugar nga puno sa bahandi ug kahalangdon, diin ang magmamando sa yuta adunay hingpit nga gahum ibabaw sa tanan.",
+    "Samtang kadtong mga tawo sa akong palibot nagyukbo sa mga bakak nga dios, gitagoan nako ang hilom nga kahayag sa pagtuo sulod sa akong kasingkasing.",
+    "Nakadiskubre ug nakasagop ko og usa ka bata nga gidala kanako sa talagsaon nga paagi - dili pinaagi sa pagkatawo, apan pinaagi sa katubigan sa usa ka dakong suba.",
+    "Nag-ampo ko sa akong Ginoo, nangayo og puloy-anan nga duol Kaniya sa Paraiso ug kaluwasan gikan sa pagpanglupig nga naglibot kanako.",
+    "Ang bata nga akong gipadako midako aron hagiton ang mismong magmamando nga nagkontrol sa akong kapalaran, ug ako nagpabilin nga lig-on sa akong pagtuo bisan sa dihang gihulga.",
+    "Ako ang usa kansang ngalan gipasidunggan sa Quran isip usa ka modelo sa pagtuo, ug ako nagpuyo sa palasyo ni Paraon mismo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Si Asiya, ang asawa ni Paraon",
+        "Si Maryam, ang inahan ni Isa",
+        "Si Bilqis, ang Rayna sa Sheba",
+        "Ang asawa ni Propeta Lut",
+        "Ang asawa ni Imran"
+      ],
+      "answer": "Si Asiya, ang asawa ni Paraon"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagdiskubre ug pagpadako sa usa ka gibiyaan nga masuso nga nahimong usa ka bantugang propeta",
+        "Ang pagkahulog ngadto sa dakong kalayo sa usa ka malupigon",
+        "Nakasaksi sa dakong baha nga nakaguba sa usa ka katawhan",
+        "Pagsaksi sa usa ka date palm shake ug paghatag og sustansya",
+        "Pagmabdos og anak nga lalaki bisan pa sa pagkatigulang"
+      ],
+      "answer": "Pagdiskubre ug pagpadako sa usa ka gibiyaan nga masuso nga nahimong usa ka bantugang propeta"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka harianong palasyo nga walay sama nga katahom",
+        "Usa ka dakong barko nga gitukod aron makasugakod sa baha",
+        "Usa ka lawom nga langob nga natago sa kabukiran",
+        "Usa ka nagdilaab nga kalayo nga gitukod sa ibabaw sa bukid",
+        "Usa ka tanaman nga gilibutan sa mga kuta"
+      ],
+      "answer": "Usa ka harianong palasyo nga walay sama nga katahom"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Usa ka balay ang gihatag sa Paraiso pinaagi sa kabubut-on sa Allah",
+        "Usa ka dakong lunop ang naglaglag sa mga dili-magtutuo sa usa ka karaang nasod",
+        "Usa ka gingharian nga adunay dakong gahom ug awtoridad ang gihatag niining kalibutana",
+        "Usa ka gamhanang kasundalohan ang nagkatibulaag tungod sa mga langgam nga naglupad",
+        "Usa ka malupigon nga nag-angkon nga diosnon ang nalumos sa dagat"
+      ],
+      "answer": "Usa ka balay ang gihatag sa Paraiso pinaagi sa kabubut-on sa Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaitono o te Wāhi Tapu",
+  "intro": "I ngā hāora marino o te pō, ka karanga tetahi wairua pono ki te Atua Aroha i roto i ngā pakitara tapu o te wāhi tapu. Kua tata ngā tau o te whakapono me te manawanui korekore ki te utu i tētahi merekara e kawe mai ai i te hari me te taonga tuku iho o te poropititanga.",
+  "clues": [
+    "I whakapau ahau i ōku rā me ōku pō i roto i te karakia i roto i te wāhi tapu, e inoi tonu ana ki tōku Ariki.",
+    "I koroheke ahau, ā, he pakoko taku wahine; heoi, kāore i ngaro taku tumanako ki te aroha noa o Allah.",
+    "I homai ki ahau he tama, ko Yahya tōna ingoa, ā, i riro ia hei poropiti, hei tohu hoki mō te tika.",
+    "He poropiti anō hoki ahau, i tonoa mai hei arahi i ngā Tamariki a Iharaira.",
+    "He uri ahau nō te Poropiti a Haruna, ā, i mahi ahau hei tohunga i roto i te Temepara.",
+    "I tukua mai ki ahau te tiaki i a Meriama, te whaea o Īha, ā, i kite ahau i ana merekara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Hakaraia",
+        "Poropiti a Yahya",
+        "Poropiti a Iria",
+        "Poropiti a Ihaka",
+        "Poropiti a Hākupa"
+      ],
+      "answer": "Poropiti Hakaraia"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I homai he tama i te koroheketanga",
+        "I whakaorangia mai i te ahi mura",
+        "I whakaorangia mai i te puku o te ika",
+        "I ora i te waipuke nui",
+        "I ora i te mate kino"
+      ],
+      "answer": "I homai he tama i te koroheketanga"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Mihrab (wāhi inoi)",
+        "Te Kaaba",
+        "Te Rakau e Mura Ana",
+        "Te Āka o te Kawenata",
+        "Te Ana o ngā Moe Tokowhitu"
+      ],
+      "answer": "Te Mihrab (wāhi inoi)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I homai he tama tika i riro hei poropiti",
+        "I whakangaromia e te tupuhi nanakia",
+        "I toremi ki te moana",
+        "I whakaorangia i te tahunga",
+        "I hoki ki tōna iwi i muri i te whakaoranga i a ia i te ika"
+      ],
+      "answer": "I homai he tama tika i riro hei poropiti"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

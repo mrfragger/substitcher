@@ -1,0 +1,61 @@
+{
+  "title": "Uca Sütunların Tikintiçiləri",
+  "intro": "Siz əzəmətli qədim şəhərin xarabalıqlarının qarşısında dayanırsınız, onun uca sütunları artıq yıxılıb. Külək boş küçələrdə ulayır, bir vaxtlar bu torpaqlara hökmranlıq edən qüdrətli bir xalqın xatirəsini daşıyır. Onlar kim idilər?",
+  "clues": [
+    "Biz möhtəşəm binalarımız və inkişaf etmiş sivilizasiyamızla tanınan, böyük gücə və bacarıqlara malik bir xalq idik.",
+    "Biz qum təpələri və qayalı təpələrin olduğu bir diyarda yaşayırdıq və heç kimin bizi üstələyə bilməyəcəyinə inanırdıq.",
+    "Bizə öz qohumlarımızdan bir elçi gəldi və bizi yalnız Allaha ibadət etməyə çağırdı, lakin biz onu rədd edib istehza etdik.",
+    "Biz “Bizdən güclü kimdir?” deyə öyündük və təkəbbürümüzdə və bütpərəstliyimizdə davam etdik.",
+    "Allah üstümüzə yeddi gecə, səkkiz gün əsən şiddətli bir külək göndərdi və hər şeyi viran etdi.",
+    "Biz Ad qövmü, İrəmi inşa edənlər idik və taleyimiz sonrakılar üçün bir xəbərdarlıq oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Ad xalqı",
+        "Səmud xalqı",
+        "Mədyən xalqı",
+        "Tubba xalqı",
+        "əl-Rass xalqı"
+      ],
+      "answer": "Ad xalqı"
+    },
+    "trial": {
+      "label": "Onlara göndərilən cəza nə idi?",
+      "options": [
+        "Dağıdıcı bir külək",
+        "Daş yağışı",
+        "Güclü bir partlayış",
+        "Daşqın nəticəsində boğulma",
+        "Torpaq tərəfindən udulmuş"
+      ],
+      "answer": "Dağıdıcı bir külək"
+    },
+    "location": {
+      "label": "Onların əfsanəvi şəhərinin adı nədir?",
+      "options": [
+        "İrəm",
+        "Sodom",
+        "Midian",
+        "Babil",
+        "Petra"
+      ],
+      "answer": "İrəm"
+    },
+    "outcome": {
+      "label": "Onların son taleyi necə oldu?",
+      "options": [
+        "Onlar məhv edildi və qalıqları bir dərs oldu",
+        "Onlar tövbə etdilər və xilas oldular",
+        "Onlar meymunlara çevrildilər",
+        "Onlar dənizdə boğuldular",
+        "Onlar torpaq sürüşməsi altında basdırılıblar"
+      ],
+      "answer": "Onlar məhv edildi və qalıqları bir dərs oldu"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

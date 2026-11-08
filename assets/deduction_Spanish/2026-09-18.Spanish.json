@@ -1,0 +1,61 @@
+{
+  "title": "La llamada del Valle Sagrado",
+  "intro": "Más allá de las páginas de la historia se encuentra la historia de un alma que se interpuso entre un gobernante poderoso y un pueblo entero esclavizado. Este individuo fue llamado a liberar a una nación de la tiranía, realizando prodigios que desafiaron toda ley natural. Desde un monte sagrado hasta un milagro sobre las aguas, este siervo de Alá presenció señales que resonarían a través de los siglos. Tu tarea hoy es identificar a esta figura extraordinaria cuyo legado marcó el curso de la historia de la humanidad.",
+  "clues": [
+    "Nací en una época en que mi pueblo se enfrentaba a un decreto mortal, y mi familia me puso en las aguas para salvar mi vida.",
+    "Fui encontrado y criado en la misma casa del gobernante que había ordenado la muerte de los de mi especie.",
+    "Huí a un monte sagrado donde vi fuego sobre un árbol que no se consumía, y una voz me habló desde él.",
+    "Fui enviado de vuelta ante ese mismo gobernante con milagros, exigiendo la libertad de mi pueblo esclavizado.",
+    "Golpeé el mar con mi bastón, y se abrió en senderos secos, engullendo a los perseguidores que seguían a mi pueblo.",
+    "Durante cuarenta noches me comuniqué con mi Señor en una montaña, y me fueron concedidas tablas de guía divina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Musa",
+        "Profeta Harún",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Profeta Dawud"
+      ],
+      "answer": "El profeta Musa"
+    },
+    "trial": {
+      "label": "Mi juicio decisivo",
+      "options": [
+        "La separación del mar",
+        "Construyendo el Gran Arca",
+        "Prueba por un fuego abrasador",
+        "Confinamiento en el vientre de una ballena",
+        "Encarcelamiento por un funcionario egipcio"
+      ],
+      "answer": "La separación del mar"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un bastón de pastor",
+        "Un gran arca de madera",
+        "Una cueva donde el tiempo dormía",
+        "Un jardín con dos manantiales",
+        "Un trono adornado con oro"
+      ],
+      "answer": "Un bastón de pastor"
+    },
+    "outcome": {
+      "label": "El resultado",
+      "options": [
+        "Mi gente cruzó el mar hacia la seguridad.",
+        "Un gran diluvio destruyó a los incrédulos.",
+        "El fuego de un tirano se volvió frío y pacífico.",
+        "El mar arrojó a su cautivo a la orilla.",
+        "El cautivo se convirtió en el tesorero de Egipto."
+      ],
+      "answer": "Mi gente cruzó el mar hacia la seguridad."
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

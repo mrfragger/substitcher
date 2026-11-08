@@ -1,0 +1,61 @@
+{
+  "title": "Sagrado Ausencia nisqa",
+  "intro": "Tiempoq dunankunaq hawanpin kashan mana kuyurispa devocionmanta willakuy, hinallataq huk confianza ancha llasa, chaymi chayta apaq alma p’akikunman karqan. Runakuna mana yuyayniyoq kayman qorimanpas kutiriqtinkun huk ratollapi sayasharqan: kutimunankupaq waqyaspa, pacienciakunankupaq mañakuspa, ch’uya promesaq llasaynintapas apaspa. Kayqa hukpa willakuyninmi, payqa akllasqa karqan yanapaq, visir, iñiy waqaychaq ima, ch’uya mana kashaqtin. ¿Atiwaqchu kay takyasqa almapa identidadninta qawachiyta?",
+  "clues": [
+    "Huk hatun profetaq yawarnintan rakini, paymi akllasqa karqan huk ch’uya orqo patapi Allahwan rimananpaq.",
+    "Huk kutinmi wawqey Allahta valekurqan yanapananpaq, huk hatun sarunchakuqwan sut’ita rimananpaq.",
+    "Allahpa akllasqanmi karqani wawqeypa ladonpi sayanaypaq, yanapaq hinallataq visir hina.",
+    "Kuskaykutaqmi huk tirano kamachikuqwan tuparqayku, paymi mañakurqa dioskunamanta aswan hatun nispa sutichasqa kayta.",
+    "Wawqiy urqupi Allahwan rimanakuchkaptin, llaqtanchik qurinkumanta huk idolota ruwarqaku.",
+    "Ñuqaqa Moisespa wawqinmi kani, Allahpa churasqan visirnin kananpaq, Quranpi sutiwan rimasqa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Harun (Aaron) sutiyuq runam.",
+        "Profeta Musa",
+        "Profeta Dawud sutiyuq runa",
+        "Profeta Yaqub",
+        "Profeta Ishaq sutiyuq runa"
+      ],
+      "answer": "Profeta Harun (Aaron) sutiyuq runam."
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Torillo Yupaychay Sasachakuy",
+        "Nuh llaqtapi Hatun Millp’uq Para",
+        "Badr llaqtapi maqanakuy",
+        "Thamud llaqtaq chinkachisqan",
+        "Sodoma llaqta chinkachisqa kasqanmanta"
+      ],
+      "answer": "Torillo Yupaychay Sasachakuy"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Quri Waqacha",
+        "Noepa Arcan",
+        "Ruphaq Sach’a",
+        "Hira Machay",
+        "Seba llaqtapi kamachikuy tiyana"
+      ],
+      "answer": "Quri Waqacha"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Inocencia Allahpa takyachisqan",
+        "Faraonpa unupi chinkaykusqan",
+        "Kaaba nisqap Wasichakuynin",
+        "Lamar Qochata Seguro Chimpay",
+        "Hanaq pachaman wichariy"
+      ],
+      "answer": "Inocencia Allahpa takyachisqan"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

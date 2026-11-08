@@ -1,0 +1,61 @@
+{
+  "title": "Y Cyntaf i Geisio Maddeuant",
+  "intro": "Camwch yn ôl i amser cyn y wawrddydd cyntaf, cyn i unrhyw farwol gerdded ar y ddaear. Lluniwyd ffigur o'r deunyddiau mwyaf gostyngedig, rhoddwyd safle iddo uwchlaw'r angylion, a'i osod mewn gardd gysegredig gyda rhybudd clir. Ac eto mewn un eiliad, gwnaed dewis - un a fyddai'n adleisio drwy holl hanes dynolryw. Pwy yw'r ffigur hwn?",
+  "clues": [
+    "Cefais fy ngeni i fodolaeth mewn ffordd wahanol i unrhyw ffordd arall — wedi fy llunio o lwch y ddaear a rhoi enaid byw i mi gan law'r Creawdwr.",
+    "Rhoddwyd i mi wybodaeth mor ddwfn nes i hyd yn oed yr angylion uchod ryfeddu at hi.",
+    "Gorchmynnwyd i’r nefoedd i gyd ymgrymu o’m blaen, ac ildiasant i gyd — ac eithrio un, a wrthododd allan o falchder.",
+    "Cefais fy rhoi mewn gardd gysegredig, lle o gysur a darpariaeth dragwyddol — ond gydag un gwaharddiad llym.",
+    "Anghofiais, llithrois, ac anufuddhaais — a theimlais bwysau fy nghamgymeriad yn ddwfn.",
+    "Troais at fy Arglwydd â geiriau calonog, a derbyniodd fy edifeirwch, oherwydd Efe yw'r Mwyaf Maddeuol."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Adam",
+        "Proffwyd Dawud",
+        "Proffwyd Muhammad",
+        "Iblis",
+        "y Proffwyd Yaqub"
+      ],
+      "answer": "Proffwyd Adam"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gorchmynnwyd i'r angylion ymostwng",
+        "Anfonwyd y Llifogydd Mawr",
+        "Gwnaed tân mawr yn oer ac yn ddiogel",
+        "Boddwyd rheolwr haerllug yn y môr",
+        "Dinistriwyd byddin o eliffantod"
+      ],
+      "answer": "Gorchmynnwyd i'r angylion ymostwng"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Gardd y Llawenydd",
+        "Mynydd Sinai",
+        "Y Mosg Sanctaidd",
+        "Afon Nîl",
+        "Yr Ogof"
+      ],
+      "answer": "Gardd y Llawenydd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Derbyniwyd edifeirwch gan Allah",
+        "Boddi yn y môr",
+        "Wedi'i lyncu gan bysgodyn mawr",
+        "Tarwyd y genedl gan ffrwydrad nerthol",
+        "Wedi'i llosgi gan wynt crasboeth"
+      ],
+      "answer": "Derbyniwyd edifeirwch gan Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

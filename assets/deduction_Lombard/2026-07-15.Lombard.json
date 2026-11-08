@@ -1,0 +1,61 @@
+{
+  "title": "El ritiro solitari",
+  "intro": "In di annal del favor divin, g’he un’anema de pureza senza pari, separada del sò popul per cercà la solitudin en una direziun sacra. Poc saveven qe qesta isolazion la g’havaria portad un segn per tuts i mond, una prova de fed qe la saria staita parlada per l’eternitaa.",
+  "clues": [
+    "Me son dedicad a una vita de servizi prima de la mia nascita.",
+    "Sun stà mettuu sotta la custodia de un nobil profet.",
+    "Sun stà sustegnü cun di pruvisiun de Allah che g’han stupì el me guardian.",
+    "Me son ritirà da la me familia in ün sit uriental.",
+    "Un angel m’è comparì in furma de òmm perfett, purtand la notizia de un fiœul pur.",
+    "Quand son turnà cunt el me neonato, el me popul m’ha acusà, ma el neonato parlava en mia difesa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Maria (Maria)",
+        "Asiyah (dona del Faraon)",
+        "Hajar (mader de Ismail)",
+        "Sara (dona de Ibrahim)",
+        "La mader de Musa"
+      ],
+      "answer": "Maria (Maria)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Concezion miracolosa e nassita de un fiœl",
+        "Vesser butad ind un fœg",
+        "Vesser inglutid da un pess gigant",
+        "Costruir una grand arca",
+        "Traversà el mar"
+      ],
+      "answer": "Concezion miracolosa e nassita de un fiœl"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un sit uriental isolà",
+        "El busc in früsa",
+        "El Mar Ross",
+        "La ròca da indué l’aqua la s’è spurgada",
+        "La balena"
+      ],
+      "answer": "Un sit uriental isolà"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Un neon parlava a difesa de una mam",
+        "El mar l’è stà dividü",
+        "El fœuch l’è diventà frècc e sicür",
+        "La balena l’ha vomità sü la riva",
+        "L'arca l'è rivada su una montagna"
+      ],
+      "answer": "Un neon parlava a difesa de una mam"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

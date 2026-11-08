@@ -1,0 +1,61 @@
+{
+  "title": "Ang Kakaibang mga Bisita ng Isang Napapaderang Lungsod",
+  "intro": "Isang grupo ang dumating sa mga pintuan ng isang lungsod na ang mga tao ay hindi kailanman nakaalam ng katotohanan. Nagdala sila ng mensahe, ngunit ang mga naninirahan ay naging masungit at nagbabanta ng karahasan. Gayunpaman, mula sa isang hindi inaasahang lugar, isang tinig ang sumikat upang ipagtanggol ang mga estranghero, na naghanda ng entablado para sa isang madamdaming pagbabago ng mga pangyayari.",
+  "clues": [
+    "Pumasok kami sa isang lungsod na ang mga tao ay nababalot ng hindi makapaniwala.",
+    "Tiningnan nila kami nang may paghihinala at sinabing, 'Mga ordinaryong nilalang lamang kayo na katulad namin.'",
+    "Binalaan namin sila, ngunit nagtaas sila ng mga bato laban sa amin.",
+    "Isang lalaki ang sumugod mula sa pinakadulong bahagi ng lungsod upang patunayan ang aming katotohanan.",
+    "Ipinahayag niya sa kanyang mga tao, 'Bakit hindi ko dapat sambahin ang Lumikha sa akin?'",
+    "Ang pagtanggi ng lungsod ay natapos sa isang pagsabog lamang, at katahimikan ang naghari sa dating pinagtawanan nila."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Tayo?",
+      "options": [
+        "Ang mga Mensahero ng Ya-Sin",
+        "Ang mga Disipulo ni Isa",
+        "Ang mga Tao ng Trench",
+        "Ang mga Salamangkero ng Paraon",
+        "Ang Mananampalataya ng Ya-Sin"
+      ],
+      "answer": "Ang mga Mensahero ng Ya-Sin"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagtanggi at pagbabanta ng pagbato",
+        "Itinapon sa isang mabangis na apoy",
+        "Isang pagsubok ng pasensya sa isang nawawalang anak",
+        "Isang hardin na nawasak",
+        "Isang paglalakbay sa dagat"
+      ],
+      "answer": "Pagtanggi at pagbabanta ng pagbato"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang pinakamalayong dulo ng lungsod",
+        "Ang Dagat na Pula",
+        "Ang kanal ng apoy",
+        "Ang kweba ng kanlungan",
+        "Ang bilangguan ng Ehipto"
+      ],
+      "answer": "Ang pinakamalayong dulo ng lungsod"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang lungsod ay winasak sa isang sigaw lamang",
+        "Nahati ang dagat at nilunod ang hukbo",
+        "Ang apoy ay naging malamig at ligtas",
+        "Ang hardin ay nilamon ng apoy mula sa langit",
+        "Ibinalik ng balyena ang tao sa dalampasigan"
+      ],
+      "answer": "Ang lungsod ay winasak sa isang sigaw lamang"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tagapangalaga ng Hindi Mapapawing Apoy",
+  "intro": "Isang pigura ang nakatayo sa pintuan ng pinakakinatatakutang lugar sa di-nakikita, pinagkatiwalaan ng isang tungkuling hindi ninanais ng ibang nilalang. Kapag ang mga kaluluwang nagdurusa ay humihingi ng awa, isang mahigpit na tugon ang umalingawngaw sa mga silid ng apoy. Matutuklasan mo ba ang pagkakakilanlan ng walang hanggang tagapag-alaga na ito?",
+  "clues": [
+    "Nakatayo ako sa pasukan ng isang nakakatakot na lugar ng kaparusahan sa di-nakikita.",
+    "Isang nagliliyab at di-maapulang apoy ang sentro ng aking taimtim na tungkulin.",
+    "Tinatawag ng mga kaluluwang nagdurusa ang aking pangalan, nagmamakaawa para sa ginhawa mula sa kanilang walang katapusang pagdurusa.",
+    "Kapag nagmamakaawa sila, ipinapahayag ko na hindi sila aalis, kailanman.",
+    "Hindi ako tao, ni jinn — ako ay nilikhang may dalisay na pagsunod.",
+    "Ako ang punong anghel na itinalaga bilang walang hanggang tagapagbantay ng Impiyerno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Nagsusumamo ang mga tao sa Impiyerno na wakasan na ang kanilang pagdurusa",
+        "Ang trumpeta ay hinipan bilang hudyat ng Araw ng Paghuhukom",
+        "Ang Quran ay ipinahayag sa puso ng Propeta",
+        "Isang Propeta ang inihagis sa isang malaking apoy ng kanilang mga tao",
+        "Isang matibay na pader ang itinayo upang pigilan ang isang tiwaling bansa"
+      ],
+      "answer": "Nagsusumamo ang mga tao sa Impiyerno na wakasan na ang kanilang pagdurusa"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Impiyerno (Jahannam)",
+        "Ang Puno ng Lote sa hangganan ng Paraiso",
+        "Isang tumatagos na trumpeta",
+        "Isang tungkod na nagiging ahas",
+        "Isang kahanga-hangang banal na trono"
+      ],
+      "answer": "Ang Impiyerno (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Sinabihan ang mga naninirahan sa Impiyerno na sila ay mananatili magpakailanman",
+        "Ang mga nananahan sa Impiyerno ay pinatawad at pinalaya",
+        "Ang mga naninirahan sa Impiyerno ay binibigyan ng pangalawang pagkakataon sa pananampalataya",
+        "Ang mga naninirahan sa Impiyerno ay inilipat sa isang lugar ng lamig",
+        "Ang mga naninirahan sa Impiyerno ay ganap na nawasak ng isang kidlat"
+      ],
+      "answer": "Sinabihan ang mga naninirahan sa Impiyerno na sila ay mananatili magpakailanman"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

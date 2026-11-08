@@ -1,0 +1,61 @@
+{
+  "title": "Senovės slėnio akmens drožėjai",
+  "intro": "Įsivaizduokite civilizaciją, iškilusią uolėtuose Arabijos slėniuose, įgudusią statyti didingus namus kalnų šlaituose. Jie klestėjo jėga ir menu, tačiau jų istoriją žymi šiurpus dieviškojo perspėjimo nepaisymas. Gilindamiesi į jų istoriją, atrasite žmones, kurių arogancija lėmė visišką sunaikinimą. Kas jie buvo?",
+  "clues": [
+    "Paveldėjome uolėtų lygumų ir aukštų skardžių kraštą, kuriame su neprilygstamu meistriškumu statėmės būstus.",
+    "Mes buvome žinomi dėl to, kad kalnuose statydavome saugius namus, jausdamiesi saugūs nuo bet kokios žalos.",
+    "Pasiuntinys atėjo pas mus iš mūsų pačių, primindamas mums apie Alacho malones ir įspėdamas apie bausmę.",
+    "Mes pareikalavome ženklo, ir iš uolos išniro stebuklinga kupranugarė – aiškus Alacho išbandymas.",
+    "Mes nepaklusome perspėjimui ir nukirsdinome kupranugarinei patelei pakinklius, tyčiodamiesi iš pasiuntinio ir ginčydami bausmę.",
+    "Vienas sprogimas užklupo mus namuose, ir rytą mes gulėjome kniūbsti, tarsi niekada ten nebūtume gyvenę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tamudo žmonės",
+        "„Ad“ žmonės",
+        "Madjano žmonės",
+        "Nuh žmonės",
+        "Luto žmonės"
+      ],
+      "answer": "Tamudo žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Sužalojo kupranugarinę patelę",
+        "Sulaužė sabatą",
+        "Garbino auksinį veršį",
+        "Nužudė jiems siųstą pranašą",
+        "Pastatė bokštą, kad pasiektų dangų"
+      ],
+      "answer": "Sužalojo kupranugarinę patelę"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Kupranugarė",
+        "Arka",
+        "Personalas",
+        "Balta ranka",
+        "Mana ir putpelės"
+      ],
+      "answer": "Kupranugarė"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sugriauta sprogimo",
+        "Išgelbėtas nuo sunaikinimo",
+        "Pavirto į beždžiones",
+        "Nuskendo jūroje",
+        "Prarytas žemės"
+      ],
+      "answer": "Sugriauta sprogimo"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

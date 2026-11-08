@@ -1,0 +1,61 @@
+{
+  "title": "Allahs opphøyde tjener",
+  "intro": "Du hører hviskinger fra en skikkelse fra oldtiden, en Allahs tjener som ble opphøyet til en posisjon over det vanlige. Denne personen var kjent for urokkelig tålmodighet og absolutt sannferdighet, og ble sendt til et folk som vendte seg bort fra budskapet. Hvem er denne opphøyde sjelen?",
+  "clues": [
+    "Jeg ble utvalgt av Allah som profet og er nevnt i Den hellige Koranen.",
+    "Jeg var kjent for min tålmodighet og sannferdighet, egenskaper som Allah priser.",
+    "Jeg kalte folket mitt til å tilbe den ene Gud, men mange avviste meg.",
+    "Min stilling ble forhøyet av Allah, og jeg ble gitt en høy rang.",
+    "Jeg blir ofte nevnt sammen med andre profeter som Ismail og Dhul-Kifl.",
+    "Allah sier om meg: «Og Vi opphøyde ham.» (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Idris",
+        "Profeten Elias",
+        "Profeten Dhu al-Kifl",
+        "Profeten Al-Yasa",
+        "Profeten Hud"
+      ],
+      "answer": "Profeten Idris"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Kallet folk til å tilbe Allah",
+        "Bygget arken",
+        "Kjempet mot farao",
+        "Ble testet med alvorlig sykdom",
+        "Ble kastet i brann"
+      ],
+      "answer": "Kallet folk til å tilbe Allah"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Høy rang/høy stasjon",
+        "Arken",
+        "De ansatte",
+        "Brannen",
+        "Brønnen"
+      ],
+      "answer": "Høy rang/høy stasjon"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Forhøyet til høy status",
+        "Druknet i flommen",
+        "Svelget av en hval",
+        "Reddet fra brannen",
+        "Ble konge"
+      ],
+      "answer": "Forhøyet til høy status"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

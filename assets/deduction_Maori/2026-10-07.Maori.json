@@ -1,0 +1,61 @@
+{
+  "title": "Te mura i roto i te whare rangatira o te whakapehapeha",
+  "intro": "I muri i ngā taiepa nunui o te whare rangatira tino kaha o te ao tawhito i noho tētahi tangata nona te ngākau i pupuri i tētahi mea ngaro e kore e taea e tētahi ture kingi te whakamutu. I a ia e piko ana ki ngā atua teka, i pupuri tonu tēnei wairua i te whakapono marino e mura ana i roto. I whakapono te rangatira o taua whenua he atua rātou, engari i whiriwhiria e tēnei tangata te pono i runga i te whakamarie, me te aroha i runga i te haumaru. I tēnei rā, ko tāu mahi he kimi ko wai tēnei wairua toa, ko tōna kōrero tonu tētahi o ngā tauira tino kaha o te whakapono pumau.",
+  "clues": [
+    "I noho ahau i tētahi wāhi whai rawa nui, whai mana nui, ā, kāore he rite o te rangatiratanga, i reira ko te rangatira o te whenua te mana tino nui ki runga i te katoa.",
+    "I a te hunga i tōku taha e piko ana ki ngā atua teka, i puritia e ahau he māramatanga marino o te whakapono i roto i tōku ngākau.",
+    "I kitea e au, ā, i whāngaihia e au tētahi tamaiti i kawea mai ki ahau i tētahi ara rerekē - ehara i te mea nā te whānautanga, engari nā roto i ngā wai o tētahi awa nui.",
+    "I inoi ahau ki tōku Ariki, me te tono kia tukuna mai he kāinga e tata ana ki a Ia i Pararaiha, me te whakaoranga mai i te tukino i karapoti i ahau.",
+    "I tipu ake te tamaiti i whakatipuria e au ki te wero i te rangatira tonu nāna nei i whakahaere tōku aituā, ā, i tū pakari tonu ahau ki tōku whakapono ahakoa i whakawehihia ahau.",
+    "Ko au te tangata kua whakanuia tōna ingoa i roto i te Quran hei tauira whakapono, ā, i noho ahau i roto i te whare kingi o Parao tonu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Asiya, te wahine a Parao",
+        "Ko Meriama, te whaea o Īha",
+        "Ko Bilqis, te Kuīni o Sheba",
+        "Te wahine a te Poropiti a Ruta",
+        "Te wahine a Imran"
+      ],
+      "answer": "Asiya, te wahine a Parao"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te kitenga me te whakatipu i tētahi pēpi kua whakarērea, ā, i riro hei poropiti nui",
+        "Te maka ki roto i te ahi nui e te kaitukino",
+        "Te kitenga i tētahi waipuke nui i whakangaro i tētahi iwi",
+        "Te mātakitaki i te rūrūtanga o te nikau tāte, me te whakarato i te kai",
+        "Te hapu i te tamaiti ahakoa te pakeketanga"
+      ],
+      "answer": "Te kitenga me te whakatipu i tētahi pēpi kua whakarērea, ā, i riro hei poropiti nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He whare kingi, he ataahua whakaharahara",
+        "He kaipuke nui i hangaia hei tū atu i te waipuke",
+        "He ana hohonu e huna ana i roto i ngā maunga",
+        "He ahi mura i hangaia ki runga i te tihi o te maunga",
+        "He māra kua karapotia e ngā taiepa"
+      ],
+      "answer": "He whare kingi, he ataahua whakaharahara"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I homai he kāinga ki Pararaiha i runga i te hiahia o Allah",
+        "I whakangaromia te hunga whakaponokore o tētahi iwi tawhito e te waipuke nui",
+        "I tukuna he rangatiratanga nui whakaharahara me te mana ki tēnei ao",
+        "I marara noa atu tētahi ope nui e ngā manu e rere ana",
+        "I toremitia te tangata nanakia i kī he atua ia ki te moana"
+      ],
+      "answer": "I homai he kāinga ki Pararaiha i runga i te hiahia o Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

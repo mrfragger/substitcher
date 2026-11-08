@@ -1,0 +1,61 @@
+{
+  "title": "Dangaus atstumtasis",
+  "intro": "Paslaptinga būtybė stovi kūrimo ir atmetimo kryžkelėje. Jų istorija – tai neprilygstamos arogancijos ir visiško dieviškojo įsakymo nepaisymo istorija. Jų pasirinkimas pasikartoja kiekvienoje kartoje, tapdamas išbandymu kiekvienai sielai, gimusiai šiame pasaulyje. Ar galite atpažinti šį amžiną priešininką?",
+  "clues": [
+    "Dalyvavau kosminės reikšmės įvykyje, kai iš molio buvo suformuota nauja būtybė ir Gailestingojo Kvėpavimas suteikė jai gyvybę.",
+    "Aš pats buvau sukurtas iš vieno liepsnojančio elemento, kitaip nei dulkės.",
+    "Man buvo duotas įsakymas, kurį laikiau žemesniu už savo padėtį.",
+    "Manyje virė pasididžiavimas, ir aš atkakliai atsisakiau paklusti tam įsakymui.",
+    "Man buvo duotas atidėjimas iki paskirtos dienos, kad galėčiau siekti savo paskelbto tikslo – suklaidinti kitus.",
+    "Esu paskelbtas visų žeme vaikštančių priešu, šnabždantis apgaules ir viliojantis juos nuo tiesaus kelio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Iblis (šėtonas)",
+        "Faraonas (Fir'awn)",
+        "Hamanas",
+        "Abu Džahlas",
+        "Samiri"
+      ],
+      "answer": "Iblis (šėtonas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Atsisakė nusilenkti prieš Adomą",
+        "Melagingai tvirtino dieviškumą",
+        "Nukalė auksinį veršį garbinimui",
+        "Iš pavydo nužudė brolį",
+        "Vadovavo politeistinei opozicijai Mekoje"
+      ],
+      "answer": "Atsisakė nusilenkti prieš Adomą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Rojus (Džana)",
+        "Faraono rūmai Egipte",
+        "Šventasis Tuwa slėnis",
+        "Jūros gelmės",
+        "Šebos sodas"
+      ],
+      "answer": "Rojus (Džana)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteiktas atokvėpis iki Teismo dienos",
+        "Kartu su armija nuskendo jūroje",
+        "Prarytas žemės kartu su lobiais",
+        "Už sabato pažeidimą paverstos beždžionėmis",
+        "Apdegintas iš dangaus sviestų akmenų"
+      ],
+      "answer": "Suteiktas atokvėpis iki Teismo dienos"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Paxıllıqdan tökülən ilk qan",
+  "intro": "Bəşəriyyətin ilk dövrlərini, bütün dünyanın bir ailə olduğunu təsəvvür edin. Allahın hüzuruna iki qurbanın necə təqdim olunduğunu görürsünüz - biri qəbul edilir, digəri rədd edilir. Paxıllıq ürəkdə kök salır və qəzəblə təhdid pıçıldayır. Bundan sonra tarixdə əbədi iz buraxacaq və hətta kiçik bir quş belə müəllim olacaq.",
+  "clues": [
+    "Mən yer üzündəki ilk ailəyə mənsubam.",
+    "Mən Allaha bir qurban təqdim etdim, amma mənimki qəbul edilmədi, digəri isə qəbul edildi.",
+    "Paxıllıqla danışdım və bir insanın həyatına son qoymaqla hədələdim.",
+    "Mən yer üzündə ilk haqsız qətli törətdim.",
+    "Bir qarğanın cəsədi necə gizlətməyi göstərmək üçün yeri qaşıdığını gördüm.",
+    "Mən peşmançılıq içində qaldım və əllərimlə etdiklərimə görə ziyana uğrayanlardan biri oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Adəmin oğlu Qabil (Qabil)",
+        "Buzovun yaradıcısı Samiri",
+        "İbrahimlə mübahisə edən zalım Nəmrud",
+        "Bütlərin yaradıcısı Azər",
+        "Nuhun boğulan oğlu Kənan"
+      ],
+      "answer": "Adəmin oğlu Qabil (Qabil)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Təklif rədd edildikdən sonra paxıllıq üzündən qardaşının qətli",
+        "Göylərə baxmaq üçün hündür bir qüllə tikmək",
+        "İbadət üçün qızıl buzov düzəltmək",
+        "Göydən süfrə açılmasını tələb etmək",
+        "Kəbəni dağıtmaq üçün fillərdən ibarət bir orduya rəhbərlik etmək"
+      ],
+      "answer": "Təklif rədd edildikdən sonra paxıllıq üzündən qardaşının qətli"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dəfn olunduğunu göstərmək üçün yer üzünü qaşıyan qarğa",
+        "Böyüyən qızıl buzov",
+        "Daşqın suları üzərində böyük bir gəmi",
+        "İlana çevrilən bir əsa",
+        "Cənnətdən gələn yeməklərlə dolu süfrə"
+      ],
+      "answer": "Dəfn olunduğunu göstərmək üçün yer üzünü qaşıyan qarğa"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Peşman oldu və məğlublar arasında oldu",
+        "Böyük daşqında boğuldu",
+        "Xəzinə ilə birlikdə yer tərəfindən uduldu",
+        "Yeddi il cüzam xəstəliyinə tutuldu",
+        "Küləkləri idarə edən bir krallıq verildi"
+      ],
+      "answer": "Peşman oldu və məğlublar arasında oldu"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kliatba hojnej úrody",
+  "intro": "V jednej starobylej krajine patrila istá duša medzi najbohatších vo svojej komunite. Dvakrát v priebehu rokov po sebe k nej prišli požehnania zeme, dvojitá úroda, ktorá mala naplniť ich srdcia vďačnosťou. Keď však udrela tragédia a všetko, čo mali, bolo vzaté za jedinú noc, ich reakcia odhalila pravú podstatu ich duše. Dokážete odhaliť identitu tejto postavy, ktorej príbeh slúži ako varovanie pred neverou v Alahove požehnania?",
+  "clues": [
+    "Patril som medzi najšťastnejšie duše v celej krajine, požehnaný hojnými zásobami.",
+    "Úroda ku mne prišla dvakrát za dva roky, no moje srdce zostalo nevďačné môjmu Pánovi.",
+    "Vlastnil som veľkú záhradu s viničom, olivami a palmami – dôkaz Alahovej priazne.",
+    "Keď bola moja záhrada zničená, stál som v jej ruinách s rukami rozprestretými k nebu a preklínal som svoj osud.",
+    "Poprel som, že Alah mohol spôsobiť takúto stratu, aj keď som si v zúfalstve drvil dlane.",
+    "Mojím trestom nebola len strata záhrady, ale aj to, že som zostal úplne bezmocný v jej ruinách, neschopný privolať si žiadnu pomoc."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Majiteľ záhrady v súre 26",
+        "Majiteľ dvoch záhrad z ďalekej krajiny",
+        "Bohatá duša z mesta prosperity",
+        "Farmár spomenutý v súre Al-Kahf",
+        "Vinohradník z čias proroka Šuajba"
+      ],
+      "answer": "Majiteľ záhrady v súre 26"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Strata záhrady zničenej za jedinú noc",
+        "Veľká potopa, ktorá zaplavila zem",
+        "Skúšanie pravými a falošnými prorokmi",
+        "Skúška hodením do ohňa",
+        "Skúška pohltenia zemou"
+      ],
+      "answer": "Strata záhrady zničenej za jedinú noc"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Záhrada s viničom, olivami a palmami zničená za dva roky",
+        "Loď postavená na vysokej hore",
+        "Mesto priestupného národa",
+        "Studňa v starovekom Midiane",
+        "Rieka raja"
+      ],
+      "answer": "Záhrada s viničom, olivami a palmami zničená za dva roky"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Úplná bezmocnosť – zničený bez pomocníka",
+        "Vzkriesenie pre vstup do raja",
+        "Stať sa prorokom Alaha",
+        "Vedenie veľkého národa",
+        "Večný trest v ohni"
+      ],
+      "answer": "Úplná bezmocnosť – zničený bez pomocníka"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

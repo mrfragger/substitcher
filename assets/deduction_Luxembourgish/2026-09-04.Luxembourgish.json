@@ -1,0 +1,61 @@
+{
+  "title": "D'Melodie, déi d'Bierger beweegt huet",
+  "intro": "Dir wäert elo d'Geschicht vun engem bemierkenswäerte Knecht vun Allah entdecken. An engem Land vu Boten a Herrscher war dës Figur mat engem göttleche Buch, enger mächteger Stëmm a Kraaft iwwer Eisen geseent. Wann Dir d'Hiweiser liest, kënnt Dir erausfannen, wien dat kéint sinn?",
+  "clues": [
+    "Ech war e Knecht vun Allah, deem e speziellt Buch geschenkt gouf.",
+    "Ech hat eng schéi Stëmm, a mäi Luef war sou beléift, datt souguer d'Hiwwelen an d'Vullen sech mat mir ugeschloss hunn.",
+    "Ech hunn an enger berühmter Schluecht géint e formidabelen Géigner gekämpft, an obwuel ech méi kleng war, hunn ech gewonnen.",
+    "Eisen gouf fir mech flexibel gemaach, sou datt ech Rüstungen mat mengen eegenen Hänn maache konnt.",
+    "Ech gouf zum Herrscher iwwer eng grouss Natioun gemaach, a meng Wäisheet am Uerteel gouf bekannt.",
+    "Mäi Jong, och e Prophet, krut d'Kontroll iwwer de Wand an den Djinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Dawud (David)",
+        "Prophet Sulaiman (Salomo)",
+        "Prophet Musa (Moses)",
+        "Prophet Harun (Aaron)",
+        "Prophet Ilyas (Elias)"
+      ],
+      "answer": "De Prophet Dawud (David)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Goliath (Jalut) besiegt",
+        "D'Mier getrennt",
+        "De Wal iwwerlieft",
+        "Gouf an e Feier gehäit",
+        "D'Ark gebaut"
+      ],
+      "answer": "Goliath (Jalut) besiegt"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Den Zabur (Psalmen)",
+        "D'Tora (Tawrat)",
+        "D'Evangelium (Injil)",
+        "D'Schrëftrulle vum Ibrahim",
+        "De Koran"
+      ],
+      "answer": "Den Zabur (Psalmen)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ass Prophet a Kinnek vun Israel ginn",
+        "Gëtt Herrscher vun Egypten",
+        "Gouf an den Himmel erhuewen",
+        "Gouf vun engem Stuerm zerstéiert",
+        "Ass e Begleeder vun der Höhl ginn"
+      ],
+      "answer": "Ass Prophet a Kinnek vun Israel ginn"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

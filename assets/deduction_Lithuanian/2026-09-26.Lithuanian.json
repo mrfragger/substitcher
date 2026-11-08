@@ -1,0 +1,61 @@
+{
+  "title": "Neigimas gausos viduryje",
+  "intro": "Atsidūrei tarp žmonių, kurių turgavietėse verda prekyba, tačiau jų svarstyklės svyra nesąžiningai. Atėjo pasiuntinys su aiškiais perspėjimais, bet jie juokiasi ir nusisuka, pasitikėdami savo klestėjimu. Dangus pradeda temti, bet jie mato tai kaip lietaus palaiminimą. Kas tie žmonės?",
+  "clues": [
+    "Klestėjome prekybos ir gausos kraštuose, tačiau mūsų širdys tapo bejausmės.",
+    "Pas mus atėjo pasiuntinys su mūsų Viešpaties ženklais, bet mes išjuokėme jo perspėjimus.",
+    "Buvome žinomi dėl savo prekybos, bet skurdavome ir apgaudinėjome žmones.",
+    "Gyvenome tarp tankių medžių ir vešlios augmenijos, bet savo palaiminimus laikėme savaime suprantamais dalykais.",
+    "Kai artėjo tamsus debesis, mes džiūgavome, manydami, kad jis atneš lietaus į mūsų išdžiūvusias žemes.",
+    "Vietoj to, tas debesis paleido deginančią bausmę, ir mus apėmė šešėlio dienos kančia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Ašab al-Aykah (Miško palydovai)",
+        "Tamudo žmonės",
+        "„Ad“ žmonės",
+        "Luto žmonės",
+        "Nuh žmonės"
+      ],
+      "answer": "Ašab al-Aykah (Miško palydovai)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Jie atstūmė savo pasiuntinį ir sukčiavo prekyboje",
+        "Jie garbino auksinį veršį ir buvo suklaidinti",
+        "Jie praktikavo sodomiją ir puldinėjo keliautojus",
+        "Jie statė aukštus bokštus ir metė iššūkį Dievui",
+        "Jie atsisakė dalytis vandeniu ir sužalojo kupranugarę"
+      ],
+      "answer": "Jie atstūmė savo pasiuntinį ir sukčiavo prekyboje"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Tankus miškas arba krūmynas",
+        "Kalnas, iškaltas į būstus",
+        "Miestas prie jūros",
+        "Dykumos slėnis su šuliniais",
+        "Derlingas sodas su daugybe vaisių"
+      ],
+      "answer": "Tankus miškas arba krūmynas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sunaikintas ugnies šešėlių debesies",
+        "Nuskendo didžiulis potvynis",
+        "Prarijo žemės drebėjimas",
+        "Nukentėjo smarkus vėjas",
+        "Pavirto akmeniu"
+      ],
+      "answer": "Sunaikintas ugnies šešėlių debesies"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

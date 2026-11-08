@@ -1,0 +1,61 @@
+{
+  "title": "Il compagno che si voltò dall'altra parte",
+  "intro": "Stai per scoprire la storia di un'anima che visse all'ombra della profezia, ma scelse un cammino che la condusse alla rovina. Questa figura condivideva la casa con uno dei messaggeri scelti da Allah, ma fallì la prova della fede. Chi è questo compagno perduto?",
+  "clues": [
+    "Ho vissuto in mezzo a persone che rifiutavano la chiamata alla rettitudine e io non mi sono opposto a loro.",
+    "Ero sposata con un profeta di Allah, ma non condividevo la sua fede.",
+    "Quando i messaggeri si presentarono a casa mia con un avvertimento, non ci credetti.",
+    "A mia moglie fu comandato di lasciare la città con i credenti, e io non ero tra loro.",
+    "La punizione si abbatté sul mio popolo e io fui distrutto insieme a loro.",
+    "Nel Corano, nella Sura At-Tahrim, vengo menzionata come esempio di miscredenza, insieme alla moglie di Noè."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Moglie del profeta Nuh",
+        "Moglie del profeta Lutero",
+        "Moglie del profeta Abramo",
+        "Moglie del profeta Mosè",
+        "Moglie del profeta Ayyub"
+      ],
+      "answer": "Moglie del profeta Lutero"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ha tradito suo marito non credendogli",
+        "Respinse il messaggio del profeta Hud",
+        "Venerare gli idoli apertamente nella Kaaba",
+        "Cospirazione contro la missione di suo marito",
+        "Si rifiutò di accettare la profezia di suo figlio."
+      ],
+      "answer": "Ha tradito suo marito non credendogli"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La città di Sodoma",
+        "La città di Madyan",
+        "La città di Iram",
+        "La città di Babilonia",
+        "La città di Gerusalemme"
+      ],
+      "answer": "La città di Sodoma"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Salvata con suo marito",
+        "Distrutto insieme agli increduli",
+        "Esiliato in una terra lontana",
+        "Si pentì e fu perdonato",
+        "Diventò credente in seguito"
+      ],
+      "answer": "Distrutto insieme agli increduli"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "El susurro en el viento",
+  "intro": "Imagina un reino donde lo invisible y lo visible se entrelazan, y te encuentras ante una figura en el corazón de un reino sin igual. Esta alma posee un conocimiento que trasciende lo ordinario, comandando fuerzas que otros solo podrían imaginar. Sin embargo, incluso los más poderosos pueden ser humillados por una criatura diminuta, y la verdad puede permanecer oculta hasta el momento oportuno. ¿Quién es esta figura cuyo legado resuena a través de los siglos?",
+  "clues": [
+    "Me fue otorgado un reino que nadie después de mí tendría.",
+    "Heredé conocimiento y sabiduría de un padre muy querido.",
+    "El viento estaba bajo mi mando, viajando según mis órdenes adonde yo quisiera.",
+    "Podía entender el lenguaje de los pájaros, y ellos servían en mi ejército.",
+    "Un pajarito me habló de una reina que adoraba al sol.",
+    "Mi muerte permaneció oculta hasta que una criatura de la tierra devoró mi bastón, y solo entonces los genios se dieron cuenta de que no conocían lo invisible."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Sulayman (Salomón)",
+        "Profeta Dawud (David)",
+        "Profeta Musa (Moisés)",
+        "Profeta Isa (Jesús)",
+        "Profeta Nuh (Noé)"
+      ],
+      "answer": "Profeta Sulayman (Salomón)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La visita de la Reina de Saba",
+        "Ser arrojado al fuego",
+        "Separando el mar",
+        "Construyendo un arca",
+        "Ser tragado por una ballena"
+      ],
+      "answer": "La visita de la Reina de Saba"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El bastón consumido por una criatura de la tierra",
+        "El bastón que se convirtió en serpiente",
+        "La camella",
+        "El arca",
+        "La ballena"
+      ],
+      "answer": "El bastón consumido por una criatura de la tierra"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Su muerte permaneció oculta para los genios hasta que su bastón fue devorado.",
+        "Fue elevado a los cielos con vida.",
+        "Fue salvado del fuego por orden de Alá.",
+        "Le fue entregada la Torá",
+        "Fue salvado de la ballena."
+      ],
+      "answer": "Su muerte permaneció oculta para los genios hasta que su bastón fue devorado."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

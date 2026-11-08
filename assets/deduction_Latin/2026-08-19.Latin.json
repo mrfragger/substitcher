@@ -1,0 +1,61 @@
+{
+  "title": "Gens Quae Ordinem Naturalem Repugnavit",
+  "intro": "In regione cuius historia per saecula resonat, communitas quaedam in aperta rebellione contra leges puritatis vivebat. Eorum facta tam inaudita erant ut memoria teneantur tamquam monitio pro universo genere humano. Quaenam erant hae animae, et quod fatum eas adepta est?",
+  "clues": [
+    "In terra iuxta viam quam viatores saepe transibant habitavimus, sed iter eorum periculosum reddimus.",
+    "Talia indecentia commisimus quae nemo antea in mundo umquam fecerat.",
+    "Nuntius quidam e nobis nos vocavit ut vias nostras deseramus, sed eum repudivimus et poenam postulavimus si verax esset.",
+    "Cum hospites formosi ad urbem nostram venissent, eos oppugnare conati sumus, nescientes eos esse nuntios exitii.",
+    "De gravi poena moniti sumus nisi desisteremus, sed monitum derisimus et in peccato nostro mansimus.",
+    "Pluvia lapidum de caelo in nos cecidit, et domus nostrae eversae sunt, nullum vestigium relinquentes nisi signum iis qui cogitant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Lut",
+        "Populus Thamudensis",
+        "Populus A'ad",
+        "Populus Madyani",
+        "Sabae populus"
+      ],
+      "answer": "Populus Lut"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Scelestam inauditam commisit et vias obstruxit",
+        "Vitulum aureum adoraverunt",
+        "Camelam sacram interfecit",
+        "In commercio defraudavit et populum defraudavit",
+        "Turrim excelsam aedificavit ut caelos provocaret"
+      ],
+      "answer": "Scelestam inauditam commisit et vias obstruxit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Angeli ut hospites formosi habitu induti",
+        "Camelus e rupe emergentis",
+        "Baculus in serpentem transformatus",
+        "Navis in monte constructa",
+        "Ignis qui frigidus et pacificus factus est"
+      ],
+      "answer": "Angeli ut hospites formosi habitu induti"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Pluvia lapidum e caelo deleta",
+        "A terra absorptus",
+        "In magna inundatione submersus",
+        "Ictus clamore fragoris",
+        "In simias transformati"
+      ],
+      "answer": "Pluvia lapidum e caelo deleta"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tástáil an Chréatúir Naofa",
+  "intro": "Cuireadh comhartha chuig náisiún a chuaigh ar strae. I lár a saoil chompordach tháinig rabhadh—in éineacht le créatúr suntasach a bheadh ​​ina thástáil deiridh ar a gcreideamh. Chuirfeadh a bhfreagra deireadh lena gcinniúint go deo. An féidir leat a fháil amach cé a thug an rabhadh seo agus cad a tharla dóibh siúd a dhiúltaigh dó?",
+  "clues": [
+    "Ba phobal muid a raibh treoir faighte againn ó theachtairí roimhe seo.",
+    "Tháinig créatúr iontach amach as an sliabh, comhartha ónár dTiarna don náisiún seo.",
+    "Dúirt mé leo: ‘Is camall baineann í seo de chuid Allah, mar sin fág í le hithe ó thalamh Allah agus ná déanaigí dochar di.’",
+    "Ach chuir na daoine bacainní ar mo chamall baineann, ag sárú ordú a dTiarna.",
+    "Nílim ach teachtaire ó do Thiarna, curtha amach leis an bhfírinne—is fáidh agus seirbhíseach iontaofa mé.",
+    "Maidir leis na daoine a rinne an mhí-iompar, bhuail ár dTiarna iad le torann toirneach, agus d’fhág siad gan corraí ina dtithe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Hud de mhuintir A'ad",
+        "Fáidh Salih de mhuintir Thamud",
+        "Fáidh Shu'aib ó Midian",
+        "Fáidh Lut de mhuintir Shodom",
+        "Fáidh Nuh na hÁirce"
+      ],
+      "answer": "Fáidh Salih de mhuintir Thamud"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An Tuile a bháigh náisiún neamhchreidmheach",
+        "An crith talún a scrios cathair pheacach",
+        "An camall baineann a seoladh mar chomhartha agus tástáil dhiaga",
+        "An stoirm a phionós muintir Mhidiáin",
+        "Scriosadh mhuintir Lot le clocha"
+      ],
+      "answer": "An camall baineann a seoladh mar chomhartha agus tástáil dhiaga"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cathair Shodom i nGleann na hIordáine",
+        "Gleann Al-Hijr idir Hijaz agus an tSiria",
+        "An talamh ársa A'ad i ndeisceart na hAraibe",
+        "Foraoisí Mhidiáin in aice leis an Muir Rua",
+        "Machairí Shliabh Judi sa Mheaspatáim"
+      ],
+      "answer": "Gleann Al-Hijr idir Hijaz agus an tSiria"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Sábháladh iad tar éis aithrí a dhéanamh agus creidiúint a dhéanamh",
+        "Scrios báisteach cloch iad go hiomlán",
+        "Bhuail fuaim toirneach iad gan corraí",
+        "Thug gaoth fhoréigneach leo iad",
+        "Shlog crith talún iad isteach sa talamh"
+      ],
+      "answer": "Bhuail fuaim toirneach iad gan corraí"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

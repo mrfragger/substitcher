@@ -1,0 +1,61 @@
+{
+  "title": "L'oferta che g'ha alterà el destin",
+  "intro": "Ind i prim temp de l’umanitaa, un’anema la ufriva un regal cond intenzion pure. Però, l’invidia l’era a l’ombra de l’accetaziun. Descuvri la storia de chesta figüra che la sò pietà e la sò fin tragich sun inmortalizà in de la rivelaziun divina.",
+  "clues": [
+    "Mi l’eri intra i primi generaziun del òmm.",
+    "Ho presentad un’oferta al me Signor, e l’è stada ricevuda cun favor.",
+    "L’oferta de me fradel l’è stada refüdada, e l’invidia g’ha fa scür el cœur.",
+    "G’ho dit: “Se te slunghi la man vers de mi per mazzam, mi slunghi no la man per mazzat; ancamò g’ho pagüra de Allah, Signur di mund.’",
+    "Mi sun diventà la vitima del prim att de omicidio sü la terra.",
+    "El me sàang l’ha crià, e mi sun stà el prim martir del inocenza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Cain)",
+        "L'òmm de Ya-Sin",
+        "I Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "La sò oferta l’è stada acetada, e l’ha fad invidià el sò fradel e l’assassinio.",
+        "L’è stà butà denter de un forn in föch ma l’è vegnuu fœura salv",
+        "L’ha costruid una nav grandissima sotta la guida divina",
+        "L’è stà inglutì de un grand pess e l’è restà in del scüri",
+        "G’ha guidà el sò popul travers de un mar dividü"
+      ],
+      "answer": "La sò oferta l’è stada acetada, e l’ha fad invidià el sò fradel e l’assassinio."
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un'oferta acetada",
+        "Un bastun che se trasfurma en un serpent",
+        "Una camel cuma segn divin",
+        "Un urfo che purta notizi",
+        "Un vitell d’or venerà"
+      ],
+      "answer": "Un'oferta acetada"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Prim omicidio in de la storia; sò fradel l’è stà cundannà",
+        "Inglutì de la terra insema a la sò richeza",
+        "Trasfurmà en sumì per trasgresiun",
+        "Distrutt de un vent giassà fort",
+        "Affogato in una gran diluvio come punizione"
+      ],
+      "answer": "Prim omicidio in de la storia; sò fradel l’è stà cundannà"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

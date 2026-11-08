@@ -1,0 +1,61 @@
+{
+  "title": "Kan Dhukkubsataa",
+  "intro": "Bara dheeraa dura seenaa dhala namaa keessatti lubbuun lama aarsaa qabatanii Uumaa isaanii dura dhaabbachaa turan. Tokko fudhatama argate, tokko hin arganne. Wanti itti aanu balaa guddaa obbolaa gidduutti mudatu isa jalqabaa ta'a - gocha obsaan of qabuu fi gocha haaloo ba'uu hadhaa'aa tokko. Eenyu akkan ta'e saaxiluu dandeessaa?",
+  "clues": [
+    "Ani kanan dhaladhe guyyoota jalqabaa ilmi namaa lafa kanarra jiraachuu isaati",
+    "Ani mucaa namoota lamaan jalqabaa lafa kanarra deeman keessaa tokko ture",
+    "Yeroo tokko Uumaa koo gammachiisuuf hoolota koo keessaa warra hunda caalan irraa aarsaa dhiyeesseen ture",
+    "Dhiyeessiin koo olii irraa fudhatama kan argate siʼa taʼu, aarsaan obboleessa koo garuu fudhatama dhabe",
+    "Yeroo du'aan na doorsifamu harka koo obboleessa koo irratti ol kaasuu dhiisuu filadhe",
+    "Seenaa dhala namaa hunda keessatti nama jalqabaa dogoggoraan nama biraatiin ajjeefame ta’eera"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Haabil (Abeel), ilma Addaam",
+        "Qabil (Qaayin), ilma Addaam",
+        "Addaam, nama jalqabaa",
+        "Nuh (Nohi) .",
+        "Ibraahim (Abrahaam) ."
+      ],
+      "answer": "Haabil (Abeel), ilma Addaam"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Seenaa dhala namaa keessatti ajjeechaa jalqabaa",
+        "Lolaan guddaan Nuh",
+        "Diigamuun waraana Fir'awn",
+        "Wareegama Ismaa'il kan Ibraahim",
+        "Lola Jalut (Goliat) irratti godhame ."
+      ],
+      "answer": "Seenaa dhala namaa keessatti ajjeechaa jalqabaa"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Hoola aarsaa gammachiisaa taʼee dhihaate",
+        "Taabota mukaa guddaa",
+        "Ulee gara bofaatti jijjiirame",
+        "Simbirroo hoopoe ergaa mootii baattee deemtu",
+        "Boolla ibiddaa boba'aa jiru"
+      ],
+      "answer": "Hoola aarsaa gammachiisaa taʼee dhihaate"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Seenaa dhala namaa keessatti nama ajjeechaa isa jalqabaa ta'e",
+        "Lolaa guddaa doonii mukaa keessaa lubbuun hafe",
+        "Garaa qurxummii guddaa tokko keessa jiraachaa ture",
+        "Jinni, namaa, bubbee irratti bulchaa ture",
+        "Waggaa afurtamaaf lafa onaa bal'aa keessa naanna'e"
+      ],
+      "answer": "Seenaa dhala namaa keessatti nama ajjeechaa isa jalqabaa ta'e"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

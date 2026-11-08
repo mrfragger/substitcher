@@ -1,0 +1,61 @@
+{
+  "title": "Os Quebradores do Pacto Exilados",
+  "intro": "Nos primórdios de uma comunidade nascente, uma tribo vivia em moradias fortificadas, unidas por um pacto. Quando esse pacto foi quebrado, as consequências reverberaram nas páginas do Alcorão. Quem eram essas pessoas e o que aconteceu com seus lares e pomares?",
+  "clues": [
+    "Habitávamos fortalezas que nos davam uma falsa sensação de segurança.",
+    "Éramos o povo das Escrituras, contudo, quebramos nossa aliança.",
+    "Tramamos contra o mensageiro depois que ele chegou até nós, mas nosso plano falhou.",
+    "Nossas palmeiras foram cortadas por ordem de Alá, um sinal de Seu poder.",
+    "Fomos expulsos de nossas casas, para nunca mais voltar, como punição por nossa rebeldia.",
+    "O Alcorão nos menciona no capítulo da reunião, e nossa história serve como um aviso para aqueles que quebram pactos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Povo de Madyan",
+        "Povo de Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Cerco e expulsão de suas casas",
+        "Afogando-se no mar",
+        "Sendo engolido pela terra",
+        "Destruição causada por uma tempestade",
+        "Serem transformados em macacos"
+      ],
+      "answer": "Cerco e expulsão de suas casas"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Palmeiras cortadas",
+        "A equipe",
+        "A arca",
+        "O poço de água",
+        "A caverna"
+      ],
+      "answer": "Palmeiras cortadas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Exilados e com seus bens confiscados.",
+        "Retornou vitorioso",
+        "Foram perdoados e permaneceram.",
+        "Entrei no paraíso imediatamente",
+        "Foram atingidos por uma peste"
+      ],
+      "answer": "Exilados e com seus bens confiscados."
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

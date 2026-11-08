@@ -1,0 +1,61 @@
+{
+  "title": "Mosɛngi ya Esika Mosantu",
+  "intro": "Na bangonga ya kimia ya butu, molimo moko oyo amipesaki abengaki Mozwi-ya-Mawa mingi na kati ya bifelo ya bule ya esika moko ya bule. Mibu ya bondimi ya koningana te mpe bompikiliki elingaki kozwa mbano na likamwisi oyo ekomema esengo mpe libula ya boprofeta.",
+  "clues": [
+    "Nalekisaki mikolo mpe butu na ngai na komipesa na kati ya esika mosantu, kobondelaka Nkolo na ngai ntango nyonso.",
+    "Nakómaki mobange, mpe mwasi na ngai azalaki kobota, nzokande nabungisaki elikya ata mokolo moko te na ngolu ya Allah.",
+    "Bapesaki ngai mwana mobali, nkombo na ye Yahya, oyo akomaki profeta mpe mwinda ya boyengebene.",
+    "Ngai moko nazalaki profeta, atindamaki mpo na kotambwisa Bana ya Yisalaele.",
+    "Nazalaki mokitani ya Profeta Harun mpe nasalaki lokola nganga-nzambe na Tempelo.",
+    "Bapesaki ngai mokumba ya kobatela Maryam, mama ya Isa, mpe namonaki makamwisi na ye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Zakariyya",
+        "Mosakoli Yahya",
+        "Mosakoli Ilyas",
+        "Mosakoli Ishaq",
+        "Mosakoli Ya'qub"
+      ],
+      "answer": "Mosakoli Zakariyya"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Apesaki mwana mobali na bobange",
+        "Abikisamaki na mɔ́tɔ oyo ezalaki kopela mɔ́tɔ",
+        "Babikisami na libumu ya mbisi",
+        "Abikaki na mpela monene",
+        "Abikisami na maladi moko ya makasi"
+      ],
+      "answer": "Apesaki mwana mobali na bobange"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mihrab (niche ya losambo) .",
+        "Ba Kaaba",
+        "Nzete oyo ezali kozika",
+        "Sanduku ya Boyokani",
+        "Libulu ya Bato Sambo oyo Balalaka"
+      ],
+      "answer": "Mihrab (niche ya losambo) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Epesameli mwana mobali moyengebene oyo akomaki mosakoli",
+        "Ebebisamaki na mopɛpɛ makasi",
+        "Bazindaki na mai na mbu",
+        "Babikisamaki mpo na kotumbama",
+        "Bazongaki epai ya bato na bango nsima ya kobikisama na mbisi"
+      ],
+      "answer": "Epesameli mwana mobali moyengebene oyo akomaki mosakoli"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Trpělivá duše",
+  "intro": "V análech proroctví existovala duše, jejíž trpělivost byla vryta do samotné struktury její bytosti. Navzdory slzám a času se pevně držela naděje a stala se nadčasovým příkladem důvěry v božskou moudrost. Dokážete rozluštit tajemství této neochvějné postavy?",
+  "clues": [
+    "Narodil jsem se do rodiny proroků, ale největší zkouškou pro mě bylo dítě, které jsem nejvíc miloval.",
+    "Sen, který se mi zdál synovi, mě varoval před žárlivostí a bála jsem se o jeho bezpečnost.",
+    "Mé oči zbělaly zármutkem, přesto jsem nikdy neztratil víru v Alláhovo milosrdenství.",
+    "Vůně mého pohřešovaného dítěte ke mně doléhala z dálky a tehdy jsem věděla, že shledání je blízko.",
+    "Moje rodina se vděčně uklonila, když se naplnilo dávné vidění a můj zrak se obnovil.",
+    "Jsem to já, komu byla darována krví potřísněná košile, jen abych později dostal košili, která mi uzdravila zrak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Ibráhím",
+        "Prorok Ishák",
+        "Prorok Jakub",
+        "Prorok Jusuf",
+        "Prorok Ayyub"
+      ],
+      "answer": "Prorok Jakub"
+    },
+    "trial": {
+      "label": "Rozhodující soud",
+      "options": [
+        "Odloučení od milovaného dítěte a ztráta zraku",
+        "Být uvržen do planoucího ohně",
+        "Být spolknut velkou rybou",
+        "Snášet ztrátu bohatství, dětí a zdraví",
+        "Zrazen bratry a vhozen do studny"
+      ],
+      "answer": "Odloučení od milovaného dítěte a ztráta zraku"
+    },
+    "location": {
+      "label": "Symbolický objekt",
+      "options": [
+        "Tričko, které nejdříve skrylo pravdu a pak ji odhalilo",
+        "Hůl, která se proměnila v hada",
+        "Velryba, která spolkla proroka",
+        "Oheň, který vychladl",
+        "Pár sandálů u hořícího keře"
+      ],
+      "answer": "Tričko, které nejdříve skrylo pravdu a pak ji odhalilo"
+    },
+    "outcome": {
+      "label": "Božské předsevzetí",
+      "options": [
+        "Shledání se ztracenou milovanou osobou a obnovení zraku",
+        "Záchrana před národem útlaku",
+        "Vysvobození z břicha ryby",
+        "Záchrana z planoucího ohně",
+        "Nanebevstoupení na velký trůn"
+      ],
+      "answer": "Shledání se ztracenou milovanou osobou a obnovení zraku"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Niezłomny Świadek",
+  "intro": "Głęboka opowieść ukazuje niezłomną determinację społeczności w obliczu bezgranicznej tyranii. Ich historia stanowi świadectwo wiary, nawet w obliczu najwyższej ofiary. Ta opowieść przypomina nam o sile wiary w obliczu przytłaczającego ucisku.",
+  "clues": [
+    "Byliśmy grupą, której historię opisuje krótka, ale mocna sura, ostrzegająca przed prześladowaniami.",
+    "Stanęliśmy przed władcą, który chciał wykorzenić naszą wiarę w Jedynego Boga, Pana Tronu, Godnego Chwały.",
+    "Poddano nas strasznej próbie, w której uczestniczył ogromny dół wykopany w ziemi.",
+    "Oglądaliśmy, jak wierzący, w tym niemowlęta, byli wrzucani do szalejącego piekła w tej jamie.",
+    "Nasi dręczyciele zostali przeklęci za swoje czyny, nam zaś obiecano ogromną nagrodę za naszą wytrwałość.",
+    "Próba stłumienia naszej wiary przez władcę jedynie umocniła naszą pozycję męczenników w oczach Allaha, który jest świadkiem wszystkiego."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z Thamud",
+        "Ludzie z „Ad”",
+        "Ludzie z rowu",
+        "Ludzie Lutu",
+        "Ludzie Słonia"
+      ],
+      "answer": "Ludzie z rowu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wielka Powódź",
+        "Płonący krzew",
+        "Tonięcie w morzu",
+        "Ognista Jama",
+        "Trzęsienie ziemi"
+      ],
+      "answer": "Ognista Jama"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Rów",
+        "Góra",
+        "Studnia"
+      ],
+      "answer": "Rów"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Otrzymali królestwo",
+        "Zostali uratowani cudem",
+        "Osiągnął męczeństwo i Raj",
+        "Były rozproszone po krajach",
+        "Otrzymali ogromne bogactwo"
+      ],
+      "answer": "Osiągnął męczeństwo i Raj"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

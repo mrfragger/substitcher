@@ -1,0 +1,61 @@
+{
+  "title": "La Voĉo Kiu Rifuzis Malesperon",
+  "intro": "Paŝu en hejmon, kie perdo sekvas perdon, tamen unu trankvila voĉo rifuzas malesperon. Ununura voko en la Korano transformas paciencon en turnopunkton; ĉu vi povas spuri la indicojn al la persono malantaŭ tiu voĉo?",
+  "clues": [
+    "Mi estis la voĉo de pacienco en domanaro, kie benoj estis provataj per katastrofo.",
+    "Mi restis en domanaro malplenigita pro la perdo de riĉeco kaj infanoj.",
+    "Mi sciis, ke malsano ankaŭ trafis tiun kunulon, kies korpo estis vundita.",
+    "Kiam la aflikto fariĝis severa, mi vokis kun rememorigo pri Alaho.",
+    "Mi proponis unu deklaron: Alaho estas la Vero, do restu pacienca.",
+    "Mi vokis Ayjub laŭnome; poste, Alaho forigis la suferon kaj restarigis la familion."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La edzino de la profeto Ayyub",
+        "La edzino de la profeto Nuh",
+        "La edzino de la profeto Ibrahim",
+        "La edzino de la profeto Ya'qub",
+        "La filino de Faraono"
+      ],
+      "answer": "La edzino de la profeto Ayyub"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Restante kun Ayyub tra perdo kaj malsano, poste alvokante al pacienco",
+        "Avertante justan mesaĝiston forlasi koruptan komunumon",
+        "Preĝante por la naskiĝo de estonta genlinio",
+        "Interpretado de sonĝoj ene de reĝa malliberejo",
+        "Trovante konfiditan infanon apud rivero"
+      ],
+      "answer": "Restante kun Ayyub tra perdo kaj malsano, poste alvokante al pacienco"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La deklaro, ke Alaho estas la Vero kaj pacienco estas necesa",
+        "Palmo apud fonto",
+        "Voko konstrui ŝipon malproksime de la ondoj",
+        "Sonĝo pri dek unu steloj kaj leviĝanta suno",
+        "Korbo portata laŭlonge de Nilo"
+      ],
+      "answer": "La deklaro, ke Alaho estas la Vero kaj pacienco estas necesa"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "La sufero de Ayyub estis forigita kaj lia familio restarigita",
+        "Longe atendita infano estis koncedita post senfrukta preĝo",
+        "Juna reganto interpretis sep jarojn de abundo kaj malabundo",
+        "Konfidita infano estis savita el fluanta akvo",
+        "Averto antaŭis detruan inundon"
+      ],
+      "answer": "La sufero de Ayyub estis forigita kaj lia familio restarigita"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

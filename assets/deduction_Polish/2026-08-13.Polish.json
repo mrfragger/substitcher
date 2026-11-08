@@ -1,0 +1,61 @@
+{
+  "title": "Cierpliwa dusza Świętego Domu",
+  "intro": "Na kartach Koranu pojawia się postać z rodu wielkiego proroka, obdarowana w podeszłym wieku darem. Dusza ta jest czczona za niezachwianą prawdomówność i doniosłą rolę w ustanowieniu sanktuarium, które stało się symbolem wiary. Czytając wskazówki, wsłuchaj się uważnie w głos z przeszłości, ponieważ przemawia on w pierwszej osobie.",
+  "clues": [
+    "Jestem wspomniany w Koranie obok innego proroka, jako dar przekazany starszemu posłańcowi.",
+    "Byłem jednym z dwojga potomków, którymi obdarzył tego proroka w jego późniejszych latach.",
+    "Koran chwali mnie za to, że dotrzymuję słowa.",
+    "Miałem zaszczyt być prorokiem i zostałem posłany jako posłaniec.",
+    "Razem z ojcem wznosiłem fundamenty Domu Świętego.",
+    "Zostałem zapamiętany jako jeden z cierpliwych, a święty dom, który zbudowaliśmy, stał się dla ludzi miejscem powrotu i bezpieczeństwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ismail",
+        "Prorok Ishaq",
+        "Prorok Jakub",
+        "Prorok Zachariasz",
+        "Prorok Yahya"
+      ],
+      "answer": "Prorok Ismail"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Podniesienie fundamentów Kaaby z Ibrahimem",
+        "Wrzucenie do ognia",
+        "Połknięcie przez wieloryba",
+        "Wyprowadzenie Izraelitów z Egiptu",
+        "Budowa arki"
+      ],
+      "answer": "Podniesienie fundamentów Kaaby z Ibrahimem"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Kaaba",
+        "Góra Synaj",
+        "Morze Czerwone",
+        "Złoty cielec",
+        "Ogród Eden"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zaliczany do pacjentów",
+        "Zaliczany do przestępców",
+        "Zaliczany do magików",
+        "Zaliczany do niewierzących",
+        "Zaliczany do hipokrytów"
+      ],
+      "answer": "Zaliczany do pacjentów"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

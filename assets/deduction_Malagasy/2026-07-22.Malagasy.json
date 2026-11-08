@@ -1,0 +1,61 @@
+{
+  "title": "Avy any amin'ny halalin'ny fantsakana",
+  "intro": "Nanomboka tamin'ny fahitana mahery vaika momba ireo zavatra eny amin'ny lanitra izay niondrika tamim-panajana ny dian'ny fanahy tanora iray. Ny fiainan'ity olona ity dia voamariky ny famadihana lalina indrindra avy amin'ireo akaiky azy indrindra, narahin'ny fanandevozana sy fampidirana am-ponja tsy ara-drariny nandritra ny taona maro. Na izany aza, noho ny finoana tsy azo hozongozonina sy ny fitarihan'Andriamanitra, ity olona ity dia niakatra avy any amin'ny lavaka ambany indrindra ka lasa iray amin'ireo olona mahery indrindra ao amin'ny empira lehibe iray. Azonao fantarina ve ny mombamomba ity mpanompon'i Allah miavaka ity?",
+  "clues": [
+    "Naseho ahy ny fahitana kintana iraika ambin'ny folo, ny masoandro ary ny volana niankohoka teo anoloako",
+    "Zanaka malalan'ny ray aman-dreniko aho, izay niteraka fialonana teo amin'ireo rahalahiko",
+    "Nosamborin'ireo rahalahiko aho, nendahina ny akanjoko, ary natsipy tao anaty lavadrano lalina sy maizina",
+    "Namidy toy ny entana eny an-tsena aho ary nentina lavitra ny tanindrazako",
+    "Nisy vehivavy nanan-kery nanandrana nanimba ny voninahitro, ary nogadraina aho satria nanda ny fangatahany",
+    "Notahina tamin'ny fanomezam-pahasoavana handikana ny nofy aho, ary nitsangana avy amin'ny gadra hadino ho lasa lehiben'ny minisitry ny Ejipta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Yusuf",
+        "Mpaminany Musa",
+        "Mpaminany Davida",
+        "Mpaminany Ayyub",
+        "Mpaminany Sulayman"
+      ],
+      "answer": "Mpaminany Yusuf"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Natsipin'ny rahalahiny tao anaty lavadrano lalina",
+        "Tafavoaka velona tamin'ny tondra-drano lehibe naneran-tany",
+        "Atsipy ao anaty lafaoro mirehitra",
+        "Miady amin'ny mpiady goavambe iray eny an-tsaha",
+        "Voatelina trondro lehibe"
+      ],
+      "answer": "Natsipin'ny rahalahiny tao anaty lavadrano lalina"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Lavadrano lalina sy maina any an'efitra",
+        "Sambofiara hazo lehibe teo an-tampon-tendrombohitra",
+        "Tehina niova ho menarana",
+        "Seza fiandrianana kanto sy be voninahitra",
+        "Antsamotady sy vato malama dimy"
+      ],
+      "answer": "Lavadrano lalina sy maina any an'efitra"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Rose ho lehiben'ny minisitra tao Ejipta ary nihaona indray tamin'ny fianakaviana malalany",
+        "Nanangana sambo lehibe iray ary niantso ny olona ho amin'ny finoana",
+        "Nitarika firenena iray manontolo hiala tamin'ny fanandevozana tany Ejipta",
+        "Nomena fanjakana sy fanapahana ny tsy hita maso",
+        "Nomena faharetana nandritra ny aretina mafy ary sitrana"
+      ],
+      "answer": "Rose ho lehiben'ny minisitra tao Ejipta ary nihaona indray tamin'ny fianakaviana malalany"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

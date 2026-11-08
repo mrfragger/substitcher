@@ -1,0 +1,61 @@
+{
+  "title": "Dưới bóng mát của cây chà là",
+  "intro": "Câu chuyện hé mở về một linh hồn được tách biệt từ trước khi sinh ra, được nuôi dưỡng trong những bức tường thiêng liêng và được chọn để mang một dấu hiệu mà thế giới chưa từng chứng kiến. Khi những lời buộc tội nổi lên từ mọi phía, một giọng nói vang lên từ nơi không ngờ nhất để dập tắt mọi nghi ngờ. Liệu bạn có thể khám phá ra ai là người đã bước đi dưới bóng cây chà là?",
+  "clues": [
+    "Tôi đã hiến dâng bản thân để phụng sự Đấng Toàn Năng ngay từ trước khi chào đời, một lời thề nguyện được hứa bởi Đấng đã mang tôi đến với Ngài.",
+    "Tôi lớn lên dưới sự chăm sóc chu đáo của một người giám hộ chính trực trong những căn phòng linh thiêng của một nơi thờ cúng.",
+    "Mỗi khi người giám hộ đến phòng tôi, ông ấy đều tìm thấy trong tay tôi những thực phẩm từ những mùa không nên có.",
+    "Tôi nhận được tin vui về việc sắp có con trai, mặc dù hoàn cảnh của tôi không cho phép điều đó trở thành hiện thực.",
+    "Tôi lui về một nơi xa xôi, và ở đó một cây chà là che bóng mát cho tôi trong khi một dòng suối chảy róc rách bên dưới.",
+    "Khi những lời buộc tội ập đến và những câu hỏi vây quanh tôi, tôi chỉ vào đứa con mới sinh của mình — và thằng bé đã nói từ trong nôi để dập tắt mọi nghi ngờ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Maryam",
+        "Sarah",
+        "Hawwa",
+        "Umm Musa",
+        "Vợ của Nuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Thử nghiệm / Sự kiện",
+      "options": [
+        "Sinh con trai một cách kỳ diệu trong thời gian cách ly",
+        "Bị những kẻ thờ thần tượng ném vào lửa cháy.",
+        "Sống sót qua trận đại hồng thủy cùng một nhóm người được chọn.",
+        "Bị chia cắt khỏi đứa con sơ sinh bị ném xuống sông.",
+        "Đối đầu với vị vua hùng mạnh của Ai Cập"
+      ],
+      "answer": "Sinh con trai một cách kỳ diệu trong thời gian cách ly"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một cây chà là và dòng suối chảy róc rách bên dưới.",
+        "Một con thuyền lớn hùng vĩ trên những con sóng cao chót vót.",
+        "Một cây gậy có thể chia đôi biển lớn.",
+        "Một ngọn lửa rực cháy, định thiêu rụi một linh hồn trung thành.",
+        "Một ngai vàng bằng vàng được trang trí bằng đá quý."
+      ],
+      "answer": "Một cây chà là và dòng suối chảy róc rách bên dưới."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được tôn vinh là người phụ nữ cao quý nhất trong tất cả phụ nữ.",
+        "Đoàn tụ với đứa con yêu quý sau thời gian dài xa cách",
+        "Đã dẫn dắt cả một quốc gia thoát khỏi ách thống trị của bạo chúa.",
+        "Cảnh báo một dân tộc đang sa ngã trong sự vô đạo đức.",
+        "Được ban quyền thống trị thần linh, loài người và gió."
+      ],
+      "answer": "Được tôn vinh là người phụ nữ cao quý nhất trong tất cả phụ nữ."
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

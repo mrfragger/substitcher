@@ -1,0 +1,61 @@
+{
+  "title": "Cho'g'lar ustida aytilgan va'da",
+  "intro": "Siz cho'l olovi yonida turibsiz, uning cho'g'lari ehtiyotkorlik bilan yoyilgan. Mehmonlar sukunatda uchrashuv uchun kelishadi va bitta xabar umid, kutilmagan hodisa va hali amalga oshmagan kelajak haqidagi hikoyani boshlaydi.",
+  "clues": [
+    "Biz cho'lda sodiq xizmatkorga yetib borish uchun uzoq masofani bosib o'tdik.",
+    "Biz olov tayyorlash uchun cho'g'larni yoyishni so'radik.",
+    "Biz salqinlik va xavfsizlik uchun alanga chaqirganlardan biri bilan gaplashdik.",
+    "Biz farzand ko'rish yoshidan o'tgan odamga yangi tug'ilgan chaqaloq haqidagi xabarni yetkazdik.",
+    "Biz va'da qilingan chaqaloqqa Ishoq deb ism qo'ydik.",
+    "Biz Ibrohimga o'g'il xushxabarini keltirdik va bu hayratlanarli xabar Ibrohimni kuldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Ibrohimga Ishoqning xushxabarini keltirgan farishtalar",
+        "Lutni ogohlantirgan farishtalar",
+        "Taxt ko'taruvchi farishtalar",
+        "Do'zax farishtalari",
+        "Nuhga yuborilgan farishtalar"
+      ],
+      "answer": "Ibrohimga Ishoqning xushxabarini keltirgan farishtalar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ibrohimga Ishoqning tug'ilishi haqida xushxabar yetkazish",
+        "Lutni o'z qavmining jazosidan oldin ogohlantirish",
+        "Zakariyoga Yahyoning tug'ilishini e'lon qilish",
+        "Qiyomat kuni taxtni ko'tarish",
+        "Isoning tug'ilishini Maryamga e'lon qilish"
+      ],
+      "answer": "Ibrohimga Ishoqning tug'ilishi haqida xushxabar yetkazish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yoyilgan cho'g'lardan tayyorlangan olov",
+        "To'fon suvida suzib yuruvchi kema",
+        "Yumaloq tosh bilan yopilgan g'or",
+        "Sho'r suv bilan qotib qolgan loy tog'i",
+        "Osmonga cho'zilgan narvon"
+      ],
+      "answer": "Yoyilgan cho'g'lardan tayyorlangan olov"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ishoq ismli o'g'il haqida xushxabar",
+        "Yahyo ismli o'g'il haqida xushxabar",
+        "Talutning Isroil avlodiga hokim etib saylanishi",
+        "Lut qavmining jazolanishidan oldin ogohlantirish",
+        "To'fondan oldin kema qurish haqidagi buyruq"
+      ],
+      "answer": "Ishoq ismli o'g'il haqida xushxabar"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La voz de la zarza ardiente",
+  "intro": "Descubra la identidad de una figura trascendental cuyo viaje comenzó con un encuentro milagroso y cuyo destino estuvo ligado a la liberación de un pueblo oprimido. Esta persona fue elegida para una tarea monumental, enfrentando inmensos desafíos con apoyo divino.",
+  "clues": [
+    "Nací en una época de gran opresión, donde los niños de mi pueblo eran asesinados.",
+    "Durante mi infancia, mis padres me abandonaron en un río, pero fui encontrado y criado en la casa del opresor de mi pueblo.",
+    "En una ocasión, huí de una ciudad tras causar involuntariamente la muerte de una persona durante una disputa.",
+    "Recibí un mensaje divino y un bastón milagroso en un lugar sagrado, donde se me ordenó enfrentarme a un gobernante poderoso.",
+    "Mi hermano fue designado como mi ayudante en mi misión, debido a un supuesto impedimento en mi habla.",
+    "Guié a mi pueblo a través de un mar dividido, escapando de la persecución de un ejército tiránico."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Yusuf",
+        "Profeta Isaías",
+        "El profeta Musa",
+        "Profeta Noé",
+        "Profeta Ibrahim"
+      ],
+      "answer": "El profeta Musa"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Soportar años de sequía",
+        "Construyendo el Arca",
+        "Enfrentando al faraón y sus hechiceros",
+        "Ser arrojado a un horno ardiente",
+        "La destrucción del pueblo de Thamud"
+      ],
+      "answer": "Enfrentando al faraón y sus hechiceros"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La Kaaba",
+        "El muro de hierro",
+        "El personal",
+        "El barco de Nuh",
+        "El Anillo de Sulaimán"
+      ],
+      "answer": "El personal"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "La ciudad de Sodoma fue destruida.",
+        "La gente fue engullida por la tierra.",
+        "La gran inundación arrasó la tierra.",
+        "El faraón y su ejército se ahogaron.",
+        "Las murallas de la ciudad se derrumbaron por un grito"
+      ],
+      "answer": "El faraón y su ejército se ahogaron."
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il sovrano che esigeva la divinità",
+  "intro": "Un sovrano potente e arrogante credeva che nessuno fosse al di sopra del suo trono. Inseguì un gruppo in fuga attraverso un vasto specchio d'acqua, solo per andare incontro a una fine drammatica. La storia di questo sovrano riecheggia in molti passi del Corano, fungendo da monito per tutti.",
+  "clues": [
+    "Ero un sovrano potente che credeva che nessuna autorità superasse la mia nelle terre che governavo.",
+    "Avevo un fidato visir di nome Haman che mi aiutò a realizzare grandi progetti architettonici.",
+    "Ho convocato i migliori maghi della mia terra per sfidare i segni di un messaggero che mi si opponeva.",
+    "Mi rifiutai di lasciare andare un popolo ridotto in schiavitù nel mio regno, nonostante le pestilenze e i chiari avvertimenti.",
+    "Li inseguii attraverso un vasto mare con tutto il mio esercito e i miei carri.",
+    "Quel mare si è richiuso su di me e sulle mie truppe, annegandoci tutti, mentre loro sono passati sani e salvi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Fir'awn (Faraone)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Faraone)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Piaghe e scontro con Musa (Mosè)",
+        "Costruire un'arca prima del grande diluvio",
+        "Battaglia contro Jalut nella valle",
+        "Essere inghiottito da una balena",
+        "Difendere i pesi onesti nel commercio"
+      ],
+      "answer": "Piaghe e scontro con Musa (Mosè)"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Alte torri e pali",
+        "Una grande arca di legno",
+        "Un vitello dorato",
+        "Un bastone che si è trasformato in un serpente",
+        "Una balena enorme"
+      ],
+      "answer": "Alte torri e pali"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Annegato in mare con l'esercito",
+        "Salvati dalla misericordia e dalla pazienza di Allah, ricompensati",
+        "Riunito con la famiglia dopo anni di difficoltà",
+        "Inghiottito dalla terra",
+        "Bruciato in un incendio"
+      ],
+      "answer": "Annegato in mare con l'esercito"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

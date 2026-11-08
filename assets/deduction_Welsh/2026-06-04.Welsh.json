@@ -1,0 +1,61 @@
+{
+  "title": "Yr Arwydd Ymhlith y Cerrig",
+  "intro": "Mewn gwlad lle roedd mynyddoedd wedi'u cerfio'n gartrefi, cyrhaeddodd negesydd gydag arwydd gwyrthiol gan Allah. Gofynnodd y bobl am brawf, a chawsant greadur o graig solet. Ond arweiniodd eu haerllugrwydd hwy i herio'r rhybudd, gan selio eu tynged.",
+  "clues": [
+    "Cefais fy anfon at bobl oedd yn byw mewn anheddau wedi'u cerfio allan o fynyddoedd.",
+    "Fe wnaethon nhw fy herio i ddod ag arwydd, felly cynhyrchais gamel o graig.",
+    "Gorchmynnais iddyn nhw adael i'r camel yfed yn rhydd a pheidio â'i niweidio.",
+    "Fe wnaethon nhw anufuddhau a thorri gar y camel, gan herio fy rhybudd.",
+    "Cyhoeddais y byddai cosb yn dod ar ôl tridiau.",
+    "Yn y bore, dinistriwyd hwy gan chwyth nerthol, ond achubwyd fi a'm dilynwyr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Salih",
+        "Proffwyd Hud",
+        "Proffwyd Lut",
+        "Proffwyd Shu'ayb",
+        "Proffwyd Ibrahim"
+      ],
+      "answer": "Proffwyd Salih"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Galw am gamel benywaidd o graig",
+        "Galw am llo aur",
+        "Galw am fwrdd yn lledaenu o'r nefoedd",
+        "Galw am lifogydd",
+        "Galw am staff i ddod yn sarff"
+      ],
+      "answer": "Galw am gamel benywaidd o graig"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y gamel fenyw a'i llo",
+        "Arch Noa",
+        "Staff Moses",
+        "Y Llo Aur",
+        "Tân Ibrahim"
+      ],
+      "answer": "Y gamel fenyw a'i llo"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i ddinistrio gan ffrwydrad nerthol",
+        "Boddi yn y llifogydd",
+        "Wedi'i lyncu gan y ddaear",
+        "Wedi troi’n epaod",
+        "Wedi'i ddinistrio gan wynt ffyrnig"
+      ],
+      "answer": "Wedi'i ddinistrio gan ffrwydrad nerthol"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

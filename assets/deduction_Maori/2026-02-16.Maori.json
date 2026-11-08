@@ -1,0 +1,61 @@
+{
+  "title": "Te Kereme mō te Mana Motuhake",
+  "intro": "I ngā wā onamata, i ara ake tētahi tangata whai mana ki te whakahaere i tētahi whenua nui me ōna tāngata. I tohuhia te rangatiratanga o tēnei tangata e te whakapehapeha nui me te wero nui ki te mana atua. Kia rite ki te hura i te tuakiri o tētahi wairua nāna nei te mutunga iho i waiho hei akoranga pumau mō ngā whakatipuranga katoa.",
+  "clues": [
+    "I pupuri ahau i te mana o tētahi emepaea nui, ā, ko taku kupu te ture.",
+    "I kī ahau ko ahau te atua nui rawa, me te tono kia karakiatia ahau e te hunga katoa i raro i taku mana.",
+    "I tukinotia e au tētahi hapori motuhake, i meinga rātou kia pononga, ā, i whakahaua hoki kia patua ā rātou pēpi tāne.",
+    "I tūtaki pinepine ahau ki tētahi karere whakaiti a te Atua, i mahi i ngā merekara mārama i mua i ahau me aku tohunga makutu.",
+    "I whakakeke tonu ahau i te pono, i whakapae i te karere mō te mahi makutu, ā, i whakatakoto whakaaro ahau kia whakangaromia ia me āna akonga.",
+    "I horomia mātou ko taku ope taua katoa e te moana i a mātou e whaia ana te hunga i wetekina mai i ōku ringa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Nimrota",
+        "Āpu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Hāmana"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te Waipuke Nui",
+        "Te Ahi e Mura Ana",
+        "Te Toremitanga o te Kaitukino",
+        "Te Whakangaromanga e te Hau",
+        "Te Rū o te Whakaponokore"
+      ],
+      "answer": "Te Toremitanga o te Kaitukino"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āka a Noa",
+        "Te Rākau o Mohi",
+        "Te Whakairo Koura",
+        "Te Puna o Zamzam",
+        "Te Torona o Bilqis"
+      ],
+      "answer": "Te Rākau o Mohi"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakawhiwhia ki tētahi rangatiratanga nui",
+        "Tinana i tiakina hei tohu",
+        "Murua i muri i te ripeneta",
+        "Kua whakanuia ki te poropititanga",
+        "I whakapono tōna iwi"
+      ],
+      "answer": "Tinana i tiakina hei tohu"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

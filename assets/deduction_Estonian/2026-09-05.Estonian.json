@@ -1,0 +1,61 @@
+{
+  "title": "Uppunud hiilgus",
+  "intro": "Kujutage ette: hing, kes on riietatud peentesse rõivastesse ja ümbritsetud kujuteldamatutest aaretest. See inimene uskus, et tema rikkus teeniti tema enda särava mõistuse abil, tunnistamata kunagi tõelise rikkuse allikat. Võimsa prohveti järgijate seas kõndides lükkas see inimene tagasi kõik alandlikkuse kutsed. Täna paljastame isiku, kelle hiiglaslik varandus sai tema viimseks puhkepaigaks.",
+  "clues": [
+    "Ma elasin prohveti ajal, kes kutsus kangekaelse rahva tõe juurde.",
+    "Olin osa väljavalitud kogukonnast, kuid mu süda pöördus sõnumist ära.",
+    "Kuld ja hõbe köitsid mind rohkem kui ükski jumalik käsk.",
+    "Mu aardekamber kasvas nii tohutuks, et tugev meestegrupp suutis vaevu võtmeid tõsta.",
+    "Ma kiitlesin, et mu rikkus anti mulle tänu minu enda teadmistele.",
+    "Lõpuks neelas maa mind ja kogu mu elamu hoiatuseks alla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Ülbus rikkuse üle ja heategevusest keeldumine",
+        "Kuldse iidoli sepistamine sulatatud ehetest",
+        "Jumalikkuse kuulutamine võimsa kuningriigi üle",
+        "Varajaste usklike tagakiusamine Mekas",
+        "Püha Maja hävitamise kampaania juhtimine"
+      ],
+      "answer": "Ülbus rikkuse üle ja heategevusest keeldumine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Aarded, mille võtmed koormasid paljusid tugevaid mehi",
+        "Kuldvasikas, mis tegi häält",
+        "Kaugelt maalt pärit hiilgava troon",
+        "Lõõmava tulega täidetud kaevik",
+        "Võimas sõjaelevantide armee"
+      ],
+      "answer": "Aarded, mille võtmed koormasid paljusid tugevaid mehi"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Maa neelas koos eluruumiga alla",
+        "Uppusid merre koos armeega",
+        "Põletati elusalt tulekoldes",
+        "Hävitatud ulguva, raevuka tuule poolt",
+        "Ühe võimsa plahvatuse poolt maha löödud"
+      ],
+      "answer": "Maa neelas koos eluruumiga alla"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Chemarea din Valea Sacră",
+  "intro": "Dincolo de paginile istoriei se află povestea unui suflet care a stat între un conducător puternic și un întreg popor înrobit. Această persoană a fost chemată să elibereze o națiune de tiranie, săvârșind minuni care sfidau orice lege naturală. De la un munte sacru până la o minune pe ape, acest slujitor al lui Allah a fost martor la semne care vor răsuna de-a lungul veacurilor. Sarcina voastră de astăzi este să identificați această figură remarcabilă a cărei moștenire a modelat cursul istoriei umane.",
+  "clues": [
+    "M-am născut într-o perioadă în care poporul meu se confrunta cu un decret mortal, iar familia mea m-a aruncat în ape ca să-mi salveze viața.",
+    "Am fost găsit și crescut chiar în casa conducătorului care ordonase moartea celor din neamul meu.",
+    "Am fugit pe un munte sacru unde am văzut foc pe un copac care nu fusese mistuit și o voce mi-a vorbit din el.",
+    "Am fost trimis înapoi chiar la acel conducător cu miracole, cerând libertatea poporului meu înrobit.",
+    "Am lovit marea cu toiagul meu și ea s-a despărțit în căi uscate, înghițind urmăritorii care îmi urmăreau poporul.",
+    "Am avut comuniune cu Domnul meu pe un munte timp de patruzeci de nopți și mi s-au dat tablete de îndrumare divină."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Musa",
+        "Profetul Harun",
+        "Profetul Ibrahim",
+        "Profetul Yusuf",
+        "Profetul Dawud"
+      ],
+      "answer": "Profetul Musa"
+    },
+    "trial": {
+      "label": "Încercarea mea definitorie",
+      "options": [
+        "Despărțirea mării",
+        "Construirea Marii Arche",
+        "Încercare prin foc arzător",
+        "Închiderea în burta unei balene",
+        "Încarcerarea de către un oficial egiptean"
+      ],
+      "answer": "Despărțirea mării"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un toiag de păstor",
+        "O mare arcă de lemn",
+        "O peșteră unde timpul a dormit",
+        "O grădină cu două izvoare",
+        "Un tron ​​împodobit cu aur"
+      ],
+      "answer": "Un toiag de păstor"
+    },
+    "outcome": {
+      "label": "Rezultatul",
+      "options": [
+        "Poporul Meu a traversat marea spre siguranță",
+        "Un mare potop i-a distrus pe necredincioși",
+        "Focul unui tiran a devenit răcoros și pașnic",
+        "Marea și-a aruncat captivul pe țărm",
+        "Captivul a devenit trezorier al Egiptului"
+      ],
+      "answer": "Poporul Meu a traversat marea spre siguranță"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

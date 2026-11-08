@@ -1,0 +1,61 @@
+{
+  "title": "Gizlin ynanç sesi",
+  "intro": "Zalym kazyýetiň merkezinde, ynanmazlygyň ýurduň kanuny bolan ýerinde, ýalňyz bir jan ynam we gorky bilen ýöräpdi. Güýjüň merkezine golaý bolan bu adam pygamberiň habarynyň kemsidilme we howp bilen garşylanýandygyny diňledi. Hakykat pursady geldi, bu adamy sessiz howpsuzlyk bilen howply hakykaty aýtmagyň arasynda saýlamaga mejbur etdi. Bu batyrgaý goldawçynyň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Men zalym hökümdaryň öýünde ýaşadym we ilahi alamatlary ret edýän tekepbirligiň şaýady boldum.",
+    "Men imanymy gizlin sakladym, butparazlyk köşgünde gizlin hazyna.",
+    "Men gulluk edýän ýolbaşçysymyň Musa atly Allanyň ilçisini öldürmek üçin dildüwşük edýändigini eşitdim.",
+    "Men olaryň logikasyna şübhelendim, olara Nuh, Ad we Samud kowumlarynyň ykbalyny ýatlatdym.",
+    "Men halkyma tankydy sorag berdim: \"Eger ol ýalançy bolsa, ýalany özüne düşer; ýöne eger ol dogruçyl bolsa, onuň wada berenleriniň käbiri size täsir eder\".",
+    "Meniň hekaýam \"Bagyşlaýjy\" atly sürede imanyň mysaly hökmünde gürrüň berilýär, şol ýerde men halkymy güýçlileriň mekirliklerinden duýdurdym."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Fyrgawnyň maşgalasyndan bolan mömin",
+        "Haman",
+        "Fir'awnyň jadygöýleri",
+        "Karun",
+        "Samiri"
+      ],
+      "answer": "Fyrgawnyň maşgalasyndan bolan mömin"
+    },
+    "trial": {
+      "label": "Meniň synagym näme boldy?",
+      "options": [
+        "Zalymyň köşgünde Musa pygamberi goramak",
+        "Göklere ýetmek üçin beýik diň gurmak",
+        "Ýanýan oda taşlanmak",
+        "Äpet balyk tarapyndan ýuwutulýar",
+        "Ähli baýlygy we saglygy ýitirmek"
+      ],
+      "answer": "Zalymyň köşgünde Musa pygamberi goramak"
+    },
+    "location": {
+      "label": "Meniň jedelimiň temasy nämedi?",
+      "options": [
+        "Pygamberiň habaryny ret etmegiň netijesi",
+        "Mukaddes agaçdan nyşan talap etmek",
+        "Eriýän şaý-seplerden göle şekiliniň döredilmegi",
+        "Daşdan düýäniň möjüzesi",
+        "Hökümdaryň düýşleriniň ýorgudy"
+      ],
+      "answer": "Pygamberiň habaryny ret etmegiň netijesi"
+    },
+    "outcome": {
+      "label": "Netijesi nähili boldy?",
+      "options": [
+        "Allatagala bu adamy olaryň ýaman niýetinden halas etdi",
+        "Bütin kazyýet derrew yslam dinini kabul etdi",
+        "Zalym suwa gark bolýan pursatynda toba etdi",
+        "Zalym ýer tarapyndan ýuwutyldy",
+        "Şahsyýet uzak bir ýurda sürgün edildi"
+      ],
+      "answer": "Allatagala bu adamy olaryň ýaman niýetinden halas etdi"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

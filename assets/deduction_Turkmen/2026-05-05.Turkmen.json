@@ -1,0 +1,61 @@
+{
+  "title": "Ýeriň gujagy",
+  "intro": "Beýik synaglaryň döwründe meşhur bir adama ägirt uly dünýewi bolçulyk, minnetdarlyk we pespällik synagy berildi. Bu şahsyýetiň ýoly maddy baýlyklaryň geçiji tebigaty we tekepbirligiň netijeleri barada çuňňur sapak bolup hyzmat edýär. Hekaýasy biziň aşagymyzyň içine ýazylan bu ruhuň kimligini açyň.",
+  "clues": [
+    "Men beýik bir ilçi tarapyndan ýol görkezilen halkyň arasynda ýaşadym.",
+    "Allatagala maňa şeýle uly baýlyk berdi welin, hazynalarymyň açarlary köp güýçli adamlar üçin agyr ýük boldy.",
+    "Meniň baýlygymy bilýän kowumym maňa Allanyň beren zady bilen ahyret öýüni gözlemegi we dünýädäki paýymy ýatdan çykarmazlygy, şeýle hem Allanyň maňa ýagşylyk eden ýaly ýagşylyk etmegi maslahat berdi.",
+    "Men ägirt uly baýlygymyň diňe öz bilimim we tagallam bilen gazanylandygyny tekepbirlik bilen yglan etdim we hiç hili ilahi merhemeti inkär etdim.",
+    "Allanyň nygmatyny bermegimi ýa-da ykrar etmegimi soralanda, men emlägimiň diňe özümiňkidigine ynanyp, buýsanç bilen ret etdim.",
+    "Meniň aşa tekepbirligim we zulumum sebäpli, Allatagala ýere meni we öýümi açyp ýuwutmagy buýurdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Fyr'on",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Karun"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Oda taşlanmak",
+        "Deňizde gark bolmak",
+        "Bagdan sürgün edilmek",
+        "Maýmyna öwrülmek",
+        "Ýer tarapyndan ýuwutulmak"
+      ],
+      "answer": "Ýer tarapyndan ýuwutulmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Altyn göle",
+        "Güýçli bir gämi",
+        "Gürleýän guş",
+        "Möjüzeli taýajyk",
+        "Uly hazynalar we açarlar"
+      ],
+      "answer": "Uly hazynalar we açarlar"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Beýik hökümdar bolmak",
+        "Ilahi wahy almak",
+        "Göklere çykmak",
+        "Uzak ömür takwa ýaşamak",
+        "Tekepbirlik sebäpli doly weýrançylyk"
+      ],
+      "answer": "Tekepbirlik sebäpli doly weýrançylyk"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Labhartha i mBeith",
+  "intro": "Tagann figiúr chun cinn as an stair naofa, ag iompar míorúiltí a sháraigh an t-ord nádúrtha. Tháinig an t-anam seo trí ordú diaga amháin, chosain sé tuismitheoir ó chúisimh thromchúiseacha, agus d’imigh sé ón saol seo sularbh fhéidir le slabhraí talmhaí iad a cheangal. Síneann an scéal ó chliabhán umhal go dtí na flaithis thuas. Cé a d’fhéadfadh a bheith ann?",
+  "clues": [
+    "Cuireadh mé mar chomhartha agus trócaire ó Allah chuig Clann Iosrael.",
+    "Bhí mo theacht difriúil ó aon cheann roimhe — tháinig mé chun bheith ann leis an bhfocal diaga 'Bí!' gan athair talmhaí.",
+    "Bhí clúmhilleadh cruálach os comhair mo thuismitheora, ach tháinig foilsiú naofa anuas chun a neamhchiontacht a dhearbhú agus a stádas a ardú.",
+    "Mar naíonán nuabheirthe, chuir mé iontas ar na daoine mórthimpeall orm trí labhairt go soiléir ó mo chliabhán chun ainm mo thuismitheoirí a ghlanadh.",
+    "Le cead Allah, mhúnlaigh mé beatha as cré gan bheatha, thug mé radharc do na daill, agus leigheas mé an lobhar le mo theagmháil.",
+    "Tógadh suas chun na bhflaitheas mé sular bhainfeadh an dochar liom, agus fillfidh mé ar an saol seo sula dtiocfaidh an Uair dheireanach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Íosa",
+        "an Fáidh Músa",
+        "Fáidh Ibrahim",
+        "Fáidh Iósaf",
+        "Fáidh Dawud"
+      ],
+      "answer": "Fáidh Íosa"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag labhairt ón gcliabhán mar naíonán",
+        "Ag maireachtáil i mbolg éisc mhóir",
+        "Á chaitheamh i dtine lasrach",
+        "Áirc mhór á tógáil roimh thuile",
+        "Ag tabhairt aghaidh ar dhraíocht chúirt an Pharaoh"
+      ],
+      "answer": "Ag labhairt ón gcliabhán mar naíonán"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Injeel (Soiscéal)",
+        "An Tawrah (An Torah)",
+        "An Zabur (Sailm)",
+        "An Suhuf (Scrollaí Ibrahim)",
+        "Foireann a scoilt an fharraige"
+      ],
+      "answer": "An Injeel (Soiscéal)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ardaithe chun na bhflaitheas, fillfidh sé roimh Lá an Bhreithiúnais",
+        "Threoraigh Clann Iosrael amach as an Éigipt",
+        "Rinneadh rí de le smacht ar jinn, daoine agus éin",
+        "Mhair tuile ollmhór leis na dílseoirí",
+        "Tógadh an teach naofa i Mecca"
+      ],
+      "answer": "Ardaithe chun na bhflaitheas, fillfidh sé roimh Lá an Bhreithiúnais"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Märk kivide seas",
+  "intro": "Maale, kus mägedesse olid raiutud kodud, saabus sõnumitooja Allahilt imelise märgiga. Inimesed nõudsid tõendeid ja saidki kaljust tehtud olendi. Kuid nende ülbus pani nad hoiatust eirama, mis pitseeris nende saatuse.",
+  "clues": [
+    "Mind saadeti rahva juurde, kes elas mägedesse raiutud elamutes.",
+    "Nad esitasid mulle väljakutse tuua märk, nii et ma tõmbasin kaljust kaameli välja.",
+    "Ma käskisin neil lasta kaamelil vabalt juua ja mitte talle halba teha.",
+    "Nad ei kuuletunud ja lõhkusid kaameli kintsud, eirates mu hoiatust.",
+    "Ma teatasin, et karistus tuleb kolme päeva pärast.",
+    "Hommikul hävitas võimas plahvatus nad, aga mina ja mu järgijad päästeti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Salih",
+        "Prohvet Hud",
+        "Prohvet Lut",
+        "Prohvet Šu'ayb",
+        "Prohvet Ibrahim"
+      ],
+      "answer": "Prohvet Salih"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Nõudlus kaljult pärit emase kaameli järele",
+        "Kuldvasika nõudlus",
+        "Nõudlus taevast laotatud laua järele",
+        "Nõudlus üleujutuse järele",
+        "Nõudmine, et kepp muutuks maoks"
+      ],
+      "answer": "Nõudlus kaljult pärit emase kaameli järele"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Emane kaamel ja tema vasikas",
+        "Noa laev",
+        "Moosese kepp",
+        "Kuldvasikas",
+        "Ibrahimi tuli"
+      ],
+      "answer": "Emane kaamel ja tema vasikas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Hävitas võimas plahvatus",
+        "Uppus üleujutuses",
+        "Maa poolt neelatud",
+        "Muutusid ahvideks",
+        "Hävitas tugev tuul"
+      ],
+      "answer": "Hävitas võimas plahvatus"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

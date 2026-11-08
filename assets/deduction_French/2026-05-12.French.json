@@ -1,0 +1,61 @@
+{
+  "title": "L'autorité inflexible",
+  "intro": "Dans les contrées antiques, une autorité puissante régnait jadis, contrôlant d'immenses ressources et la vie d'innombrables individus. Malgré des signes et des avertissements clairs, ce souverain choisit la voie de la rébellion, menant à une confrontation majeure dont l'écho se ferait sentir à travers les âges.",
+  "clues": [
+    "J'ai revendiqué le pouvoir et l'autorité suprêmes sur un vaste domaine.",
+    "J'ai défié un humble messager envoyé par le Seigneur de tous les royaumes.",
+    "Mon peuple était réputé pour sa maîtrise des grandes constructions et du fleuve qui a nourri notre civilisation.",
+    "J'ai été témoin de nombreux signes miraculeux, notamment un bâton qui s'est transformé en serpent et une main qui a brillé intensément.",
+    "J'ai refusé de laisser un groupe de personnes réduites en esclavage quitter mes terres, malgré les commandements divins.",
+    "Ma poursuite des populations en fuite m'a conduit, moi et mes armées, au cœur d'une mer divisée."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Yusuf",
+        "Roi Talut",
+        "Fir'awn (Pharaon)",
+        "Prophète Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Pharaon)"
+    },
+    "trial": {
+      "label": "Confrontation clé",
+      "options": [
+        "L'inondation qui a submergé la terre",
+        "La séparation de la mer",
+        "Le buisson ardent",
+        "La construction de la Kaaba",
+        "La destruction par un vent puissant"
+      ],
+      "answer": "La séparation de la mer"
+    },
+    "location": {
+      "label": "Aspect déterminant",
+      "options": [
+        "Un animal qui parle",
+        "Un bâton et une main brillante",
+        "Une naissance miraculeuse",
+        "Un tapis volant",
+        "Un trône majestueux sur l'eau"
+      ],
+      "answer": "Un bâton et une main brillante"
+    },
+    "outcome": {
+      "label": "Destin ultime",
+      "options": [
+        "Monté au ciel",
+        "Englouti par la terre",
+        "Noyé dans la mer",
+        "Transformé en singe",
+        "Compte tenu de l'immense richesse et du pouvoir"
+      ],
+      "answer": "Noyé dans la mer"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

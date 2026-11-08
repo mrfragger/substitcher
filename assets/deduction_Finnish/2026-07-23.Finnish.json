@@ -1,0 +1,61 @@
+{
+  "title": "Armeija, jonka kohtasi lentävä savi",
+  "intro": "Ennen profeetta Muhammedia mahtava jemeniläinen hallitsija käynnisti sotilaskampanjan, jonka tavoitteena oli tuhota pyhä pyhäkkö Mekassa. Vihollinen johti valtavaa armeijaa, jossa oli mukanaan sotanorsuja, luottaen niiden voimaan ja lukumäärään. Heidän matkansa kuitenkin päättyisi äkillisesti, kun he kohtaisivat odottamattoman jumalallisen väliintulon. Voitko tunnistaa, ketkä kohtasivat tämän merkittävän tilinteon?",
+  "clues": [
+    "Marssimme valtavan armeijan ja voimakkaiden sotaelefanttien kanssa kohti pyhää taloa",
+    "Aikomuksemme oli repiä maasta ja tuhota Armollisimman palvelijoiden rakentama palvontapaikka",
+    "Meitä vastaan ​​lähetettiin parvi pieniä lintuja, jotka kantoivat savikiviä nokissaan ja kynsissään",
+    "Meitä kohtasi ääni, joka heitteli kiviä päällemme ja muutti meidät tallatuiksi jäänteiksi",
+    "Olin kotoisin Jemenin maasta ja palvelin hallitsijan alaisuudessa, joka pyrki suojelemaan pyhää pyhäkköä",
+    "Meidät tehtiin esimerkiksi niille, jotka uskalsivat hylätä Allahin pyhäkön"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Abraha al-Ashramin armeija",
+        "Etiopian joukot",
+        "Persialaiset valloittajat",
+        "Roomalaiset legioonat",
+        "Beduiiniryöstäjät"
+      ],
+      "answer": "Abraha al-Ashramin armeija"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Aavikon linnoituksen piiritys",
+        "Mekan pyhän pyhäkön valloitus",
+        "Meritaistelu merellä",
+        "Kapina tyrannikuningasta vastaan",
+        "Kadonneen profeetan etsintä"
+      ],
+      "answer": "Mekan pyhän pyhäkön valloitus"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Minan laakso lähellä Mekkaa",
+        "Sanaan palatsi Jemenissä",
+        "Tihaman vuoret",
+        "Jerusalemin muinainen kaupunki",
+        "Punaisenmeren rannat"
+      ],
+      "answer": "Minan laakso lähellä Mekkaa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Pyhän talon voitto ja tuho",
+        "Savikiviä kantavien lintujen tappio",
+        "Rauhallinen antautuminen ja kääntyminen",
+        "Nälänhätä ja luonnonkatastrofi",
+        "Vetäytyminen rankkasateiden vuoksi"
+      ],
+      "answer": "Savikiviä kantavien lintujen tappio"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Az igazság rendíthetetlen hívője",
+  "intro": "Egy hírnök áll egyedül egy makacs nép között, és az Egy Igaz Istenhez hívja őket, miközben ők továbbra is hamis bálványokhoz ragaszkodnak. Ennek a prófétának a neve erőteljes jelentéssel bír – „aki védelmet keres” –, mégis csak elutasítást és tagadást kap. Gyengéd meggyőzéssel és határozott figyelmeztetéssel ez a lélek isteni üzenetet hordoz, amelyet végül maga az univerzum fog igazolni. Be tudod azonosítani ezt a rendíthetetlen alakot, aki az iszlám szentírások egyik legősibb narratíváját képviseli?",
+  "clues": [
+    "Népem sok istenséget imádott, míg én arra hívtam őket, hogy szolgálják azt, aki az eget és a földet teremtette.",
+    "Nemzetem elé álltam, és kijelentettem, hogy semmilyen jutalmat nem kérek tőlük – egyetlen vágyam az, hogy az igazságosságra vezessenek el.",
+    "Isteni büntetésként nagy szél küldött népemre, egy olyan szél, amelyről a Korán többes és nőnemű alakban is beszél.",
+    "Néhány prófétával ellentétben én nem kaptam feleséget vagy gyermekeket, akiket kiemelten említenék a történetemben, mivel az volt a küldetésem, hogy egyedül hívjam el a népemet.",
+    "A nevem mély jelentéssel bír – a védelem és a menedék fogalmához kapcsolódik, amelyet az ember keres.",
+    "Az én népemet egy meghatározott földrajzi kifejezéssel ismerték a völgyre, amelyben laktak, és földjüket különös megvetéssel írták le a növényzet hiánya miatt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Hud próféta",
+        "Szálih próféta",
+        "Su'aib próféta",
+        "Nuh próféta",
+        "Hudajb próféta"
+      ],
+      "answer": "Hud próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A föld özöne",
+        "A perzselő szél",
+        "A pusztító földrengés",
+        "Az aszály és az éhínség",
+        "A tengerben fulladás"
+      ],
+      "answer": "A perzselő szél"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Jemen termékeny völgye",
+        "Midián homokos sivataga",
+        "A Thamud sziklás völgye",
+        "Az „Ad” nép ősi földje",
+        "Egyiptom tengerparti régiója"
+      ],
+      "answer": "Az „Ad” nép ősi földje"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Népem megbánta bűneit és belépett a Paradicsomba",
+        "Egyik emberem sem élte túl a büntetést",
+        "Élve ragadtak el, mint a testvérem, Yunus",
+        "Követőimmel egy áldott földre vándoroltam",
+        "A szél csak a hitetleneket pusztította el, míg a hívők túlélték"
+      ],
+      "answer": "Egyik emberem sem élte túl a büntetést"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

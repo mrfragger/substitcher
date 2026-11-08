@@ -1,0 +1,61 @@
+{
+  "title": "Architekt falešných ambicí",
+  "intro": "Osobnost s velkou autoritou kdysi sloužila jednomu z nejznámějších tyranů v historii starověkého Egypta. Tato osoba byla pověřena troufalým příkazem – postavit stavbu, která měla vzdorovat nebesům. Jejich příběh je v Koránu zachován jako pozoruhodné ponaučení o tom, jak slepá poslušnost aroganci vede pouze ke zkáze.",
+  "clues": [
+    "Sloužil jsem u dvora mocného vládce, který si nárokoval božskou vrchnost nad zemí.",
+    "Zastával jsem vysokou ministerskou pozici a radil jsem nejarogantnějšímu tyranovi své doby.",
+    "Můj vládce byl pohlcen zpochybňováním Mojžíšova Boha, kterého odmítali uznat.",
+    "Dostal jsem příkaz postavit věž z ohňově pálených cihel, aby můj vládce mohl vystoupit do nebes.",
+    "Věž nikdy nedosáhla nebe a moje podřízenost aroganci mi vynesla věčnou hanbu.",
+    "Zahynul jsem s tím, koho jsem následoval, a mé jméno se stalo trvalou výstrahou před těmi, kdo tyrany podporují."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Haman",
+        "Azar (otec Ibrahima)",
+        "Illyas (prorok)",
+        "Dhu al-Kifl",
+        "Harut (jeden ze dvou andělů v Babylonu)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Nařízeno postavit tyčící se stavbu, která dosáhne nebes",
+        "Požádán o výklad snu seslaného božstvem",
+        "Vhozen do planoucího ohně jako zkouška víry",
+        "Nucen volit mezi trůnem a pravdou",
+        "Vyzván v soutěži čarodějnictví"
+      ],
+      "answer": "Nařízeno postavit tyčící se stavbu, která dosáhne nebes"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Věž z ohněm pálených cihel",
+        "Hůl, která se proměnila v hada",
+        "Loď plující velkou povodní",
+        "Zahrada obehnaná vysokými zdmi",
+        "Trůn ozdobený rubíny a zlatem"
+      ],
+      "answer": "Věž z ohněm pálených cihel"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Utopen po boku utlačovatele v moři",
+        "Stal se mocným panovníkem rozlehlých zemí",
+        "Unikl planoucímu požáru bez úhony",
+        "Vybudoval prosperující království moudrosti",
+        "Po letech exilu se znovu setkal s rodinou"
+      ],
+      "answer": "Utopen po boku utlačovatele v moři"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

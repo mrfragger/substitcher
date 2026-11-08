@@ -1,0 +1,61 @@
+{
+  "title": "Ang Matatag na mga Saksi",
+  "intro": "Isipin ang isang panahon kung kailan ang paniniwala ay sinusubok ng apoy, at ang matibay na paniniwala ang naging sukdulang pagsuway. Ikaw ay may tungkuling tuklasin ang pagkakakilanlan ng isang grupo na ang kwento ay isinalaysay sa Quran, isang salaysay ng malalim na pananampalataya laban sa matinding paniniil. Tuklasin ang mga pahiwatig upang matuklasan kung sino ang mga kaluluwang ito, at ang mga pambihirang pangyayaring kanilang hinarap.",
+  "clues": [
+    "Nanatili kaming matatag sa aming paniniwala, sa kabila ng matinding panggigipit na talikuran ang aming pananampalataya.",
+    "Tinarget kami ng isang makapangyarihang pinuno na naghangad na patayin ang liwanag ng monoteismo.",
+    "Nasaksihan namin ang mga dakilang tanda at himala, ngunit nanatiling walang ingat ang aming mga mapang-api.",
+    "Tiniis namin ang isang kakila-kilabot na paraan ng pag-uusig na idinisenyo upang takutin ang iba upang sila ay sumuko.",
+    "Itinapon kami sa nagliliyab na impyerno, ngunit ang aming katatagan ay nagbigay sa amin ng mataas na katayuan sa piling ni Allah.",
+    "Ang ating kwento ay isinalaysay sa isang Surah na ipinangalan batay sa mga konstelasyon ng kalangitan, na nagbabala sa kapalaran ng mga umuusig sa mga mananampalataya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Tayo?",
+      "options": [
+        "Ang mga Tao ng Thamud",
+        "Ang mga Tao ng 'Ad",
+        "Ang mga Tao ng Ditch",
+        "Ang mga Tao ng Midian",
+        "Ang mga Tao ng Elepante"
+      ],
+      "answer": "Ang mga Tao ng Ditch"
+    },
+    "trial": {
+      "label": "Ang Ating Pag-uusig",
+      "options": [
+        "Nalunod sa baha",
+        "Kinakain ng nakapapasong hangin",
+        "Pagtatapon sa nagliliyab na hukay",
+        "Nilalamon ng lupa",
+        "Pagbabago sa anyo ng mga unggoy"
+      ],
+      "answer": "Pagtatapon sa nagliliyab na hukay"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang napakalaking baha",
+        "Isang malakas na lindol",
+        "Isang malalim at nagliliyab na kanal",
+        "Isang makapangyarihang idolo",
+        "Isang mapaminsalang tagtuyot"
+      ],
+      "answer": "Isang malalim at nagliliyab na kanal"
+    },
+    "outcome": {
+      "label": "Ang Ating Pangwakas na Kapalaran",
+      "options": [
+        "Binigyan sila ng isang kaharian sa lupa.",
+        "Sila ay nailigtas sa pamamagitan ng isang mahimalang pagtakas.",
+        "Nakamit nila ang pagkamartir at walang hanggang gantimpala.",
+        "Sila ay binago tungo sa ibang uri ng hayop.",
+        "Binigyan sila ng napakalaking kayamanan at kasaganaan."
+      ],
+      "answer": "Nakamit nila ang pagkamartir at walang hanggang gantimpala."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

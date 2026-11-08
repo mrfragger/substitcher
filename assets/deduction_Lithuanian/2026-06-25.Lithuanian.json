@@ -1,0 +1,61 @@
+{
+  "title": "Klausytojai iš nematomo pasaulio",
+  "intro": "Už matomo pasaulio uždangos tamsoje susirinko slapta bendruomenė, patraukta garso, kuris prieštaravo viskam, ką jie žinojo. Jie amžinybę klajojo be tikro vadovavimo, kol balsas perskrodė jų nematomos karalystės tylą ir sujaudino kažką giliai viduje. Šįvakar esate kviečiami žengti už šešėlių ir atskleisti šios paslaptingos grupės, kurios susidūrimas su dieviškais žodžiais atvedė juos atgal pas savo žmones kaip perspėjėjus apie tiesą, kurios nebuvo galima sutalpinti, tapatybę.",
+  "clues": [
+    "Esame senovės būtybės, egzistavusios gerokai anksčiau nei daugelis tautų, apie kurias skaitėte, tačiau žmonių pasakojimuose apie mus retai minima.",
+    "Mūsų prigimtis nepanaši į jūsiškę – sudaryta iš nematomų elementų, ir mes turime galių, kurios nepaklūsta įprastam.",
+    "Amžių amžiais klajojome be tikro vadovavimo, kol mus pasiekė garsas, kuris sujaudino kažką giliai viduje.",
+    "Išgirdome deklamavimą, kokio dar niekada nebuvome girdėję, žodžius, kurie turėjo svorį, pranokstantį bet kokią kalbą.",
+    "Slapta glausdavomės arti, įsakydami saviškiams tylėti, ir kai eilutės baigėsi, negalėjome nustygti vietoje.",
+    "Mes sugrįžome pas savo žmones ir pareiškėme: „O mūsų žmonės, mes girdėjome Knygą, apreikštą po Mozės, patvirtinančią tai, kas buvo prieš ją, vedančią į tiesą.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Hawariyyun (Izos mokiniai)",
+        "Džinas, kuris patikėjo išgirdęs Koraną",
+        "Olos palydovai",
+        "Žemiausiojo dangaus angelai",
+        "Faraono žmonės, kurie sekė jo keliu"
+      ],
+      "answer": "Džinas, kuris patikėjo išgirdęs Koraną"
+    },
+    "trial": {
+      "label": "Bandomasis / Įvykis",
+      "options": [
+        "Buvome išmesti už tai, kad atsisakėme nusilenkti prieš naujai sukurtą būtybę",
+        "Mes buvome uždaryti oloje tris šimtus devynerius metus",
+        "Mums buvo įsakyta kirsti jūrą, kuri priešais mus prasiskyrė",
+        "Mus išsiuntė į magijos šalį mokytis burtininkų",
+        "Slapta klausėmės deklamacijos ir buvome jos pakeisti"
+      ],
+      "answer": "Slapta klausėmės deklamacijos ir buvome jos pakeisti"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršis, nulipdytas iš žmonių papuošalų",
+        "Ola, kurioje miegodavo ištisas kartas",
+        "Du angelai Babilone, kurie mokė uždraustų žinių",
+        "Knyga, apreikšta po Mozės, patvirtinanti Torą",
+        "Degantis krūmas ant švento kalno"
+      ],
+      "answer": "Knyga, apreikšta po Mozės, patvirtinanti Torą"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mes buvome prakeikti iki Teismo dienos",
+        "Mes sukilome prieš galingą valdovą ir pastatėme barjerą žemėje",
+        "Mes buvome paversti beždžionėmis ir kiaulėmis",
+        "Mes grįžome pas savo žmones kaip perspėtojai, skelbdami tikėjimą",
+        "Mes nuskendome jūroje kartu su savo vadu"
+      ],
+      "answer": "Mes grįžome pas savo žmones kaip perspėtojai, skelbdami tikėjimą"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

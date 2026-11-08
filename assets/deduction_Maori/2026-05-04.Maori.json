@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaihoahoa o te Whakakake",
+  "intro": "I tētahi whenua tawhito i raro i te mana whakakeke, i mau i tētahi tūranga mana nui tētahi tangata matua. He mea nui tēnei wairua ki ngā mahi nunui a te rangatira, i whai wāhi atu ki tā rātou rangatiratanga tukino, i wero hoki i te karere atua. E hono ana tō rātou taonga tuku iho ki te whai i te mana o te ao me te whakakahore i te pono.",
+  "clues": [
+    "I mahi ahau ki tētahi rangatira nana i tukino te iwi mō ngā whakatipuranga maha.",
+    "He maha ngā wā e whakahuatia ana tōku ingoa i roto i te Pukapuka Tapu i te taha o tēnei rangatira mana nui.",
+    "I tukuna mai ki ahau tētahi kaupapa hanga nui, he whare teitei e tutuki ai ki te rangi.",
+    "I mea atu ahau ki tōku ariki kia patua ngā tama a ngā tamariki a Iharaira, kia whakaorangia hoki ā rātou tamāhine.",
+    "I uru atu ahau ki ngā mahi huna me ngā mahi whakatūkino hei ārai i tētahi karere nui a Allah.",
+    "I tae mai tōku mutunga, me tōku ariki me tana ope taua, i roto i ngā wai o te moana nui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Nimrota",
+        "Āparaha",
+        "Koriata",
+        "Iblis",
+        "Hāmana"
+      ],
+      "answer": "Hāmana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakamatautauria ki te taonga nui",
+        "Te ārahi i tētahi ope taua ki tētahi whare tapu",
+        "Te hanga i tētahi pourewa hei whakatata atu ki te Atua",
+        "Te maka ki te ahi mō tō rātou whakapono",
+        "Te makanga ki roto i te poka e ngā tuākana/teina"
+      ],
+      "answer": "Te hanga i tētahi pourewa hei whakatata atu ki te Atua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Maunga",
+        "Te Pourewa",
+        "Te Tohorā"
+      ],
+      "answer": "Te Pourewa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakawhiwhia ki te whakaaro nui whakaharahara",
+        "Te riro hei poropiti",
+        "Te horomia e te whenua",
+        "Te whakawhiwhinga i tētahi rangatiratanga",
+        "Te toremitanga i te moana"
+      ],
+      "answer": "Te toremitanga i te moana"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "De Gaart, deen iwwer Nuecht verschwonnen ass",
+  "intro": "Stellt Iech e üppege Gaart vir, voller reifender Friichten a vun héije Beem ëmginn. Déi, déi en gepfleegt hunn, hunn sech selwer als clever ugesinn, andeems se hir Ernte an de rouegen Stonnen virum Sonnenopgang geplangt hunn, ewech vun den Ae vun deenen, déi et brauchen. Mee Deen, deen ni schléift, hat aner Pläng fir hir verstoppte Räichtum. Kënnt Dir roden, wien hannert dëser warnender Geschicht aus dem Koran steet?",
+  "clues": [
+    "Mir haten eemol e Gaart, deen sou üppig a räich war, datt en zu Näid vun allen, déi laanschtgaange sinn, gouf.",
+    "An eiser Planung hu mir eis fréi moies ugeflüstert a erkläert, datt keng bedürfteg Séil deen Dag eran däerf.",
+    "Mir ware räiche Leit, an eis Häerzer ware blann gi fir d'Rechter vun den Aarme ronderëm eis.",
+    "Wéi den Ufank vun eiser geplangter Ernte ugefaangen huet, si mir op eise Gaart zougaangen, just fir festzestellen, datt en iwwer Nuecht an eng schwaarz Ruin verwandelt war.",
+    "En zerstéierende Dekret ass duerch d'Land gezunn, an huet näischt ausser Äsche hannerlooss, wou fréier Trauze vu reife Friichte gehong hunn.",
+    "Eis Geschicht ass eng streng Warnung, déi am Koran opgeholl ass, wou mir als d'Besëtzer vum Gaart bekannt sinn, déi déi Bedürfteger keng Wuelbefannen ginn hunn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Besëtzer vum Gaart",
+        "D'Leit vun der Höhl",
+        "D'Jünger vum Jesaja",
+        "D'Begleeder vum Bësch",
+        "D'Gäscht vum Ibrahim"
+      ],
+      "answer": "D'Besëtzer vum Gaart"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Geheim Uebst ernten an déi Aarm ausschléissen",
+        "Joerhonnerte laang an enger Höhl schlofen",
+        "Refuséiert, e Kamel aus Steen ze produzéieren",
+        "D'Veréierung vun engem gëllene Kalb um Bierg Sinai",
+        "Eng grouss Ark bauen fir enger Iwwerschwemmung ze entkommen"
+      ],
+      "answer": "Geheim Uebst ernten an déi Aarm ausschléissen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Gaart mat Mauere voller Palmen a Rebe",
+        "Eng däischter Höhl déif an de Bierger",
+        "Eng Stad, déi vun engem göttlechen Hurrikan iwwerholl gouf",
+        "En hellegt Dall beim Haus vun Allah",
+        "D'Ufer vun engem fléissende Floss"
+      ],
+      "answer": "E Gaart mat Mauere voller Palmen a Rebe"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De Gaart gouf vun engem brennenden Uerder vum Himmel verschléngt",
+        "Si hunn 309 Moundjoer friddlech geschlof",
+        "Si goufe vun engem Reen vu Steng zerquetscht",
+        "Si sinn ënner de Wellen vun enger grousser Iwwerschwemmung erdronk",
+        "Si goufen duerch e Wandstouss vu kalem, rosenem Wand verstreet"
+      ],
+      "answer": "De Gaart gouf vun engem brennenden Uerder vum Himmel verschléngt"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

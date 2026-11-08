@@ -1,0 +1,60 @@
+{
+  "title": "Çağların Uykusu",
+  "intro": "Zaman içinde bir yolculuğa çıkmak üzeresiniz; inancın ve ilahi gücün derin gizemiyle karşılaşacaksınız. Toplumlarının normlarına meydan okuyan, çok tanrılı bir dünyada tek tanrıcılığa tutunan bir grup insanı hayal edin. Onların hikayesi, Allah'ın salih kullarını en olağanüstü şekillerde koruma gücünün bir kanıtıdır. Bu olağanüstü kişilerin kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Biz, halkımızın yaygın çok tanrıcılığına rağmen tek Tanrı'ya inanan küçük bir genç erkek grubuyduk.",
+    "İnancımızdan dolayı bizi tehdit eden zalim bir yöneticiden kaçtık, zulüm ve ölümden korkuyorduk.",
+    "Zalimlerimizden Allah'ın rahmetini ve korumasını umarak tenha bir yere sığındık.",
+    "Rabbimiz bizi derin bir uykuya, zamanın geçişine meydan okuyan mucizevi bir uykuya daldırdı.",
+    "Uyandığımızda, gerçekte ne kadar uzun bir süre geçtiğinin farkında olmadan, sadece bir gün ya da günün bir bölümü kadar dinlendiğimizi sanıyorduk.",
+    "Kur'an'da, üç yüz yıl bu halde kaldığımız ve dokuz yıl daha fazla süreyle insanlık için bir ibret olduğumuz belirtilmektedir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Hendek Halkı",
+        "Thamud Halkı",
+        "Mağara Halkı",
+        "Madyan Halkı",
+        "Filin Yoldaşları"
+      ],
+      "answer": "Mağara Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Büyük bir sel felaketiyle karşı karşıya",
+        "Yer tarafından yutulmak",
+        "Uzun mucizevi uyku",
+        "Şehirlerinin yıkımı",
+        "Denizin yarılması"
+      ],
+      "answer": "Uzun mucizevi uyku"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yanan bir çalı",
+        "Bir dağ",
+        "Bir tekne",
+        "Bir mağara",
+        "Bir kuyu"
+      ],
+      "answer": "Bir mağara"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Onlara muazzam bir servet ve güç bahşedildi.",
+        "Onlar maymunlara ve domuzlara dönüştürüldüler.",
+        "Onlar, derin bir işaret olarak uykudan uyandırıldılar.",
+        "Büyük bir tufanda boğuldular.",
+        "Muhteşem bir krallık kurdular."
+      ],
+      "answer": "Onlar, derin bir işaret olarak uykudan uyandırıldılar."
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

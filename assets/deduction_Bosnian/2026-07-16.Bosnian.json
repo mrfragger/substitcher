@@ -1,0 +1,61 @@
+{
+  "title": "Glas koji je izazvao vladavinu idola",
+  "intro": "Među glasnicima Svemogućeg bio je postojani sluga koji se uzdigao usred tvrdoglave nacije da bi donio istinu. Njihov narod je usvojio izmišljeno božanstvo, okrećući se od Stvoritelja svega što postoji. Sa nepokolebljivom odlučnošću, ova osoba ih je pozvala nazad - ali poruka je dočekana sa poricanjem i odbacivanjem. Prođite kroz tragove da biste otkrili ko je bio ovaj odani sluga.",
+  "clues": [
+    "Poslan sam kao glasnik tvrdoglavom narodu koji je skrenuo daleko s pravog puta.",
+    "Došao sam da podsjetim svoju naciju na Onoga koji je stvorio sve što postoji - najboljeg od svih stvoritelja.",
+    "Moj narod se okrenuo lažnom idolu kojeg su obožavali i prizivali danju i noću.",
+    "Hrabro sam ih izazvao, pitajući zašto bi obožavali izmišljeno božanstvo i napustili svog istinskog Gospodara.",
+    "Poricali su me, odbili slušati i čvrsto se držali svoje laži - pa ipak me je Gospodar moj sačuvao.",
+    "Ja sam Iljas - i mir mi je dat, i ubrojan sam među vjerne robove Najmilostivijeg."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Iljas",
+        "Poslanik Idris",
+        "Prorok Alyasa",
+        "Poslanik Zul-Kifl",
+        "Poslanik Nuh"
+      ],
+      "answer": "Poslanik Iljas"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Poziv naroda da se odvrati od obožavanja Baala",
+        "Suočavanje s tiraninom koji je tvrdio da je bog",
+        "Upozorenje ljudima na nadolazeću poplavu",
+        "Biti bačen u veliku, plamteću vatru",
+        "Predvodeći egzodus iz zemlje ropstva"
+      ],
+      "answer": "Poziv naroda da se odvrati od obožavanja Baala"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Idol po imenu Ba'al",
+        "Velika arka izgrađena od čvrstog drveta",
+        "Štap koji je razdvojio prostrano more",
+        "Sveta odjeća umrljana krvlju",
+        "Gorući grm na svetoj gori"
+      ],
+      "answer": "Idol po imenu Ba'al"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Darovan mir i ubrojen među odabrane robove Allaha",
+        "Odveden u raj dok su svi ostali bili uništeni",
+        "Spašen od velikog požara koji je postao hladan i siguran",
+        "Data mu je vlast nad džinima, ljudima i vjetrom",
+        "Tijelo sačuvano kao trajni znak za vjekove"
+      ],
+      "answer": "Darovan mir i ubrojen među odabrane robove Allaha"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

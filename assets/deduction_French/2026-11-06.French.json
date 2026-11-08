@@ -1,0 +1,61 @@
+{
+  "title": "Le premier sang versé par envie",
+  "intro": "Imaginez les premiers jours de l'humanité, quand le monde entier ne formait qu'une seule famille. Vous voyez deux offrandes présentées à Allah : l'une est acceptée, l'autre rejetée. L'envie s'enracine dans un cœur, et une menace murmurée dans la colère. Ce qui suivra marquera l'histoire à jamais, et même un petit oiseau deviendra un maître.",
+  "clues": [
+    "J'appartiens à la toute première famille sur terre.",
+    "J'ai présenté une offrande à Allah, mais la mienne n'a pas été acceptée, contrairement à l'autre.",
+    "J'ai parlé sous l'effet de l'envie et j'ai menacé de tuer quelqu'un.",
+    "J'ai commis le premier meurtre injuste sur terre.",
+    "J'ai vu un corbeau gratter le sol pour me montrer comment cacher un corps.",
+    "Je me suis retrouvé rongé par les regrets et je me suis retrouvé parmi les perdants pour ce que mes mains avaient fait."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Caïn, fils d'Adam",
+        "Samiri, le fabricant du veau",
+        "Namrud, le tyran qui s'est disputé avec Ibrahim",
+        "Azar, le fabricant d'idoles",
+        "Kan'an, le fils noyé de Noé"
+      ],
+      "answer": "Caïn, fils d'Adam"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Meurtre d'un frère ou d'une sœur par jalousie après le refus d'une offrande",
+        "Construire une tour élancée pour contempler les cieux",
+        "Façonner un veau d'or pour le culte",
+        "Exiger une table dressée par le ciel",
+        "À la tête d'une armée d'éléphants, il détruisit la Kaaba."
+      ],
+      "answer": "Meurtre d'un frère ou d'une sœur par jalousie après le refus d'une offrande"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un corbeau gratte la terre pour indiquer un enterrement",
+        "Un veau doré qui mugissait",
+        "Une grande arche sur les eaux du déluge",
+        "Un bâton qui se transforma en serpent",
+        "Une table garnie de mets célestes"
+      ],
+      "answer": "Un corbeau gratte la terre pour indiquer un enterrement"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il éprouva des remords et se retrouva parmi les perdants.",
+        "S'est noyé lors de la grande inondation",
+        "A été englouti par la terre avec un trésor",
+        "Il a été atteint de la lèpre pendant sept ans.",
+        "On lui octroya un royaume avec le contrôle des vents."
+      ],
+      "answer": "Il éprouva des remords et se retrouva parmi les perdants."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

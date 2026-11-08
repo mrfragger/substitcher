@@ -1,0 +1,61 @@
+{
+  "title": "Akmens architektai",
+  "intro": "Įsivaizduokite galingą civilizaciją, apdovanotą jėga ir įgūdžiais, kalnų šlaituose statančią didingus būstus. Ši bendruomenė pasižymėjo didžiuliu klestėjimu ir unikaliu architektūriniu meistriškumu. Vis dėlto, nepaisant aiškių įspėjimų, jie pasirinko kelią, kuris ves prie dramatiškos ir nepamirštamos pabaigos. Ar galite atpažinti šią grupę, kurios istorija yra gili pamoka visiems, kurie apie tai susimąsto?",
+  "clues": [
+    "Mums buvo suteikta stiprybė ir įgūdžiai, leidžiantys iškalti nuostabius namus tiesiai kalnuose.",
+    "Mums buvo duotas aiškus Alacho ženklas – unikalus padaras, kurį reikėjo palikti netrukdomą ganytis.",
+    "Mūsų bendruomenė tapo arogantiška, mesdama iššūkį dieviškajai žiniai, kurią atnešė pasiuntinys iš mūsų tarpo.",
+    "Mes susitarėme pakenkti stebuklingam ženklui, nepaisydami perspėjimų apie griežtas bausmes.",
+    "Mes nepaklusome įsakymui leisti ypatingam padarui gerti iš mūsų šulinio kas antrą dieną.",
+    "Mus ištiko niokojanti pabaiga, parblokšti vieno bauginančio sprogimo po mūsų nusižengimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "„Ad“ žmonės",
+        "Midjano žmonės",
+        "Dramblio žmonės",
+        "Tamudo žmonės",
+        "Luto žmonės"
+      ],
+      "answer": "Tamudo žmonės"
+    },
+    "trial": {
+      "label": "Mūsų svarbiausias bandymas / įvykis",
+      "options": [
+        "Potvynis, kuris užliejo žemę",
+        "Jūros padalijimas",
+        "Sunaikinimas vienu sprogimu/šauksmu",
+        "Miesto deginimas",
+        "Kalno virtimas dulkėmis"
+      ],
+      "answer": "Sunaikinimas vienu sprogimu/šauksmu"
+    },
+    "location": {
+      "label": "Svarbus mūsų istorijos elementas",
+      "options": [
+        "Auksinis veršelis",
+        "Stebuklinga kupranugarė",
+        "Degantis krūmas",
+        "Kalbantis paukštis",
+        "Didingas sostas"
+      ],
+      "answer": "Stebuklinga kupranugarė"
+    },
+    "outcome": {
+      "label": "Mūsų galutinis rezultatas",
+      "options": [
+        "Suteikė didžiulius turtus ir galią",
+        "Išaukštintas iki pranašystės",
+        "Visiškas sunaikinimas dieviška bausme",
+        "Atleista po nuoširdžios atgailos",
+        "Išsisklaidė po žemę klajoti"
+      ],
+      "answer": "Visiškas sunaikinimas dieviška bausme"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

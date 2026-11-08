@@ -1,0 +1,61 @@
+{
+  "title": "Die verlorene Stadt von unvergleichlicher Pracht",
+  "intro": "Einst beherrschte eine mächtige Zivilisation weite Teile der Erde, berühmt für ihre hoch aufragenden Bauwerke, die gen Himmel ragten. Doch unter dieser Pracht wuchs eine hartnäckige Verleugnung – die Weigerung, auf die göttliche Warnung zu hören, die aus den eigenen Reihen kam. Stolz und Arroganz sollten bald eine Strafe nach sich ziehen, wie sie weder Erde noch Himmel je gesehen hatten.",
+  "clues": [
+    "Einst herrschten wir über weite Teile der Erde und rühmten uns einer Stärke, von der wir glaubten, dass keine andere Zivilisation sie erreichen könnte.",
+    "Unser Reich war berühmt für seine hoch aufragenden Bauwerke mit mächtigen Säulen, die in allen bekannten Ländern ihresgleichen suchten.",
+    "Ein Warner aus unserer eigenen Gemeinschaft erhob sich und forderte jeden von uns auf, sich allein dem Einen Schöpfer zu unterwerfen.",
+    "Wir wiesen die uns überbrachte Botschaft zurück und weigerten uns, den eingeschlagenen Weg zu verlassen.",
+    "Ein wütender, heulender Wind von überwältigender Heftigkeit wurde über uns entfesselt und ließ uns völlig wehrlos zurück.",
+    "Wir blieben zurück wie ausgehöhlte Palmenstämme, verstreut und vergessen, als Lehre für jede nachfolgende Generation."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Menschen von A'ad",
+        "Volk von Nuh",
+        "Volk von Lut",
+        "Menschen von Madyan",
+        "Leute von Tubba"
+      ],
+      "answer": "Menschen von A'ad"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Ein unerbittlicher, tobender Wind der strengen Bestrafung",
+        "Eine Flut, die jeden Berggipfel bedeckte",
+        "Ein Regen aus brennenden Tonsteinen von oben",
+        "Ein einziger, markerschütternder Schrei vom Himmel",
+        "Ein heftiges Erdbeben, das das Land spaltete"
+      ],
+      "answer": "Ein unerbittlicher, tobender Wind der strengen Bestrafung"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Iram, die Stadt der hohen Säulen",
+        "Eine gewaltige Arche aus Holz, erbaut auf einem Berg",
+        "Eine Kamelstute, die auf wundersame Weise aus dem Stein entstieg.",
+        "Berg Sinai, wo die göttlichen Gebote herabgesandt wurden",
+        "Ein Palast aus Kristall und feinem Glas mit Blick auf fließende Gewässer"
+      ],
+      "answer": "Iram, die Stadt der hohen Säulen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Zurückgelassen wie ausgehöhlte Palmenstämme, verstreut und leblos",
+        "Ertrunken unter den gewaltigen Wellen einer großen Flut",
+        "Verwandelt in Kreaturen, die Affen und Schweinen ähneln",
+        "Zerdrückt unter einem Regen aus verhärteten Lehmsteinen",
+        "Verzehrt von einem einzigen ohrenbetäubenden Schrei, der die Seele durchbohrte"
+      ],
+      "answer": "Zurückgelassen wie ausgehöhlte Palmenstämme, verstreut und leblos"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

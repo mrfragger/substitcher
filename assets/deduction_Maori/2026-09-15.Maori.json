@@ -1,0 +1,61 @@
+{
+  "title": "Te manaakitanga i kawea mai ai te wehi",
+  "intro": "I roto i tētahi tāone kua horomia e te kino, i tae mai he manuhiri ohorere ki tētahi pononga pono i tētahi rā. Nā te āwangawanga mō tō rātou haumaru, i tuku tiaki tēnei tangata, engari i tono te iwi o te tāone i tētahi mea whakama. I te whakatūpatotanga mō tētahi aituā e tata mai ana, ka oma te pononga me tōna whānau i raro i te piringa o te pō, ka mahue iho he tāone kua tohua mō te whakangaromanga. Ko wai tēnei tangata whakapono mokemoke?",
+  "clues": [
+    "I tonoa ahau hei karere ki tētahi iwi kua mahi i ngā mahi whakama.",
+    "I tae mai ngā manuhiri ohorere ki tōku kāinga, ā, nui atu tōku āwangawanga mō tō rātou haumaru i tōku ake.",
+    "I tono mai tōku iwi kia kite i aku manuhiri, he kino ngā take, ā, i ngana ahau ki te tautohetohe ki a rātou.",
+    "I whakakitea mai aku manuhiri he anahera rātou, ā, i whakahau mai kia haere ahau me tōku whānau i te pō.",
+    "Kāore taku wahine i whakarongo ki te karanga kia mawhiti, ā, i pāngia ia e te whakangaromanga kotahi, pērā i tōku iwi.",
+    "I hurihia tōku tāone e te ua o ngā kōhatu paru paparanga, ā, ko ōna wāhanga teitei rawa i tino heke iho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Ruta",
+        "Poropiti a Mohi",
+        "Poropiti Ihāperama",
+        "Poropiti a Noa",
+        "Poropiti a Hūta"
+      ],
+      "answer": "Poropiti Ruta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tono a tōku iwi kia whakatata kino atu ki aku manuhiri",
+        "Te wehenga o te moana hei mawhiti atu i tētahi kaitukino",
+        "Te hanganga o tētahi āka nui i roto i te tawai",
+        "Te patunga tapu o taku tama i roto i te whakamātautau o te whakapono",
+        "Te wheako o te horomia e te ika nui"
+      ],
+      "answer": "Te tono a tōku iwi kia whakatata kino atu ki aku manuhiri"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tāone kua hurihia o tōku iwi",
+        "Te maunga i whiwhi ai ahau i te kōrero atua",
+        "Te āka i rere i roto i te waipuke nui",
+        "Te kamera uwha i puta mai i te toka",
+        "Te māra me te manuhiri tika huna"
+      ],
+      "answer": "Te tāone kua hurihia o tōku iwi"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia ahau me tōku whānau i mua i te hurihanga o tōku tāone",
+        "I ārahi ahau i tōku iwi ki te herekoretanga i tērā taha o te moana",
+        "I hanga e au tētahi āka nui, ā, i ora ahau i tētahi waipuke nui",
+        "I tukua mai ki ahau te mana whakahaere i ngā hau me ngā jinn",
+        "I whakamanawanui ahau ki te mamae, ā, i whiwhi ahau i te utu whānau"
+      ],
+      "answer": "I whakaorangia ahau me tōku whānau i mua i te hurihanga o tōku tāone"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

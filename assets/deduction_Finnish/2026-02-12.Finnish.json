@@ -1,0 +1,60 @@
+{
+  "title": "Hiljaisen todistuksen ihme",
+  "intro": "Kohtaat hahmojen verhoaman tarinan jumalallisesta väliintulosta. Kertomuksen ihmeellisestä huolenpidosta ja sanattomasta puolustuksesta, joka kaikuu läpi ajan. Pystytkö paljastamaan, ketkä kohtasivat tämän poikkeuksellisen koettelemuksen?",
+  "clues": [
+    "Sain jumalallisen viestin, joka hämmästytti minua",
+    "Kansani kyseenalaisti puhtauteni, kun palasin lapsen kanssa",
+    "Minua käskettiin paastoamaan puhumisesta jonkin aikaa",
+    "Lähde vettä ja taateleita tuki minua koettelemukseni aikana",
+    "Herrani ravisti ihmeellisesti puuta pitääkseen minusta huolta",
+    "Enkeli ilmestyi minulle täydellisen miehen hahmossa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Maryam",
+        "Asiya",
+        "Hawa",
+        "Saara",
+        "Khadija"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Synnytän yksin palmun alla",
+        "Kohdaten tappavan nälänhädän",
+        "Heitetään tuliseen kuoppaan",
+        "Pakenee tyrannimaista hallitsijaa",
+        "Pyhän jäännöksen vartiointi"
+      ],
+      "answer": "Synnytän yksin palmun alla"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Palmu",
+        "Palava pensas",
+        "Kivitemppeli",
+        "Niili",
+        "Siinainvuori"
+      ],
+      "answer": "Palmu"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Viattomuuteni todistettiin, kun poikavauvani puhui",
+        "Minusta tuli kunnioitettu kuningatar",
+        "Kansani tuhoutui jumalallisella rangaistuksella",
+        "Johdin kansakuntani voittoon",
+        "Ihmeellinen kaivo ilmestyi pysyvästi"
+      ],
+      "answer": "Viattomuuteni todistettiin, kun poikavauvani puhui"
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

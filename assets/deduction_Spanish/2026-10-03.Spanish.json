@@ -1,0 +1,61 @@
+{
+  "title": "La vigilia en la Puerta Ardiente",
+  "intro": "Una multitud silenciosa e imponente permanece vigilante en un umbral temible, sin probar jamás comida, bebida ni descanso. Forjados con una sustancia distinta a la arcilla humana, aguardan un único y terrible propósito, y jamás han desobedecido una sola orden de su Señor.",
+  "clues": [
+    "Somos seres distintos a los humanos, creados a partir de una sustancia que no come, bebe ni se cansa.",
+    "Nuestro número exacto se conoce y se revela en el Libro; no somos ni incontables ni una multitud.",
+    "Jamás hemos desobedecido a nuestro Creador, ni hablamos antes de que se nos ordene.",
+    "Cuando llegue el Día, los incrédulos vendrán a nosotros en grupos, y les abriremos las puertas.",
+    "Les preguntaremos: \"¿Acaso no os llegaron mensajeros de vuestro propio pueblo para advertiros de este Día?\"",
+    "Custodiamos un lugar del que ninguna alma jamás emerge: un dominio ardiente de castigo eterno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Los guardianes del fuego del infierno (Zabaniyah)",
+        "Los portadores del trono de Alá",
+        "Los ángeles que graban (Kiraman Katibin)",
+        "Los ángeles de la muerte",
+        "Los guardianes del paraíso"
+      ],
+      "answer": "Los guardianes del fuego del infierno (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Nuestro deber principal",
+      "options": [
+        "Custodiando las puertas del Fuego Infernal",
+        "Registrando cada acto humano",
+        "Llevando el Trono de Alá",
+        "Tomando las almas de los difuntos",
+        "Dominando los vientos y las nubes."
+      ],
+      "answer": "Custodiando las puertas del Fuego Infernal"
+    },
+    "location": {
+      "label": "¿Qué protegemos?",
+      "options": [
+        "El fuego del infierno",
+        "El Trono de Alá",
+        "Los rollos de las hazañas",
+        "Los ríos del paraíso",
+        "Las montañas de la Tierra"
+      ],
+      "answer": "El fuego del infierno"
+    },
+    "outcome": {
+      "label": "El destino de aquellos en nuestro dominio",
+      "options": [
+        "Permanecerán para siempre y nunca se irán.",
+        "Finalmente serán indultados y puestos en libertad.",
+        "Se purificarán con el tiempo.",
+        "Se transformarán en otras formas.",
+        "Alternarán entre el infierno y el paraíso."
+      ],
+      "answer": "Permanecerán para siempre y nunca se irán."
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

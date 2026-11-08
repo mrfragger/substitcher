@@ -1,0 +1,61 @@
+{
+  "title": "Rai Mai Cike Da Azaba Na Kogin Nilu",
+  "intro": "A zamanin zalunci mai girma, lokacin da azzalumi ya mulki ƙasar da zalunci mai tsanani, rai ɗaya ya zaɓi hanyar imani fiye da jin daɗin sarauta. Wannan mutum ya zauna a cikin zuciyar iko amma ya sami gaskiya a cikin saƙon annabi mai tawali'u. Tafiyarsu za ta zama darasi mai ɗorewa game da haƙuri, sadaukarwa, da kuma tabbacin da ba ya misaltuwa. Za ku iya gano wannan mutum mai ban mamaki wanda ya fi son jin daɗin Allah fiye da matsayin duniya?",
+  "clues": [
+    "Na zauna a cikin fadar mai iko mai girma, duk da haka zuciyata ta sami gaskiya a cikin saƙo mai tawali'u.",
+    "Na zaɓi bin jagorancin Musa, domin na san sakamakon da zan fuskanta.",
+    "Na auri azzalumi mafi ƙarfi a lokacina, duk da haka na ƙi allolinsa na ƙarya.",
+    "Wahala ta ta yi tsanani, domin an hukunta ni saboda imanina ga Allah ɗaya tilo.",
+    "Ban taɓa yin rauni a imanina ba, ko da lokacin da na fuskanci azaba mafi tsanani.",
+    "Ubangijina ya yi farin ciki da haƙurina kuma ya zaɓe ni don zama wuri mai daraja a Aljanna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mahaifiyar Annabi Musa",
+        "Matar Fir'auna",
+        "'Yar'uwar Annabi Musa",
+        "Sarauniyar Masar ta dā",
+        "Bawan Isra'ilawa"
+      ],
+      "answer": "Matar Fir'auna"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Yin yaƙi a tafarkin Allah da runduna",
+        "Fuskantar Fir'auna da kuma bayyana bangaskiyarsa",
+        "Gina wuraren ibada a Masar",
+        "Tafiya a kan teku tare da Musa",
+        "Karɓar wahayi daga Allah"
+      ],
+      "answer": "Fuskantar Fir'auna da kuma bayyana bangaskiyarsa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Dajin Midiya",
+        "Fadar sarauta ta Masar",
+        "Gaɓar Kogin Nilu",
+        "Dutsen Sinai",
+        "Ƙasar Kan'ana"
+      ],
+      "answer": "Fadar sarauta ta Masar"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama annabi bayan shekaru da yawa",
+        "Ya fitar da Isra'ilawa daga Masar",
+        "An ba shi ikon mallakar Masar",
+        "An yi shahada kuma Allah ya girmama shi",
+        "Rayuwa har tsufa cikin jin daɗi"
+      ],
+      "answer": "An yi shahada kuma Allah ya girmama shi"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

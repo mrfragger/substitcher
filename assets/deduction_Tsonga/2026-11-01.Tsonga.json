@@ -1,0 +1,61 @@
+{
+  "title": "Rito Leri Aleke Ku Heleriwa hi Ntshembo",
+  "intro": "Nghena endyangwini lowu ku lahlekeriwa ku landzelaka ku lahlekeriwa, hambiswiritano rito rin’we ro rhula ri ala ku heleriwa hi ntshembo. Xirhambo xin’we eka Qur’an xi hundzula ku lehisa mbilu ku va ku hundzuka; xana u nga landzelerisa swikombiso eka munhu loyi a nga endzhaku ka rito rero?",
+  "clues": [
+    "A ndzi ri rito ra ku lehisa mbilu endzeni ka muti lowu mikateko a yi ringiwa hi khombo.",
+    "Ndzi tshame endlwini leyi nga riki na nchumu hi ku lahlekeriwa hi rifuwo ni vana.",
+    "A ndzi swi tiva leswaku vuvabyi byi hlasele na munghana yoloye, loyi miri wa yena a wu karhatekile.",
+    "Loko ku karhateka ku va kukulu, ndzi huwelerile hi ku tsundzuxa Allah.",
+    "Ndzi nyikerile xitiviso xin’we: Allah i Ntiyiso, kutani tshama u lehisa mbilu.",
+    "Ndzi vitanile Ayyab hi vito; endzhaku ka sweswo, Allah u suse nhlomulo kutani a vuyisela ndyangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Nsati wa Muprofeta Ayyab",
+        "Nsati wa Muprofeta Nuh",
+        "Nsati wa Muprofeta Ibrahim",
+        "Nsati wa Muprofeta Ya'qub",
+        "N’wana wa Nhwanyana wa Faro"
+      ],
+      "answer": "Nsati wa Muprofeta Ayyab"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku tshama na Ayyub hi ku lahlekeriwa na mavabyi, kutani a vitana ku lehisa mbilu",
+        "Ku tsundzuxa murhumiwa wo lulama leswaku a tshika vaaki lava nga ni vukanganyisi",
+        "Ku khongelela ku velekiwa ka rixaka ra nkarhi lowu taka",
+        "Ku hlamusela milorho endzeni ka khotso ra vuhosi",
+        "Ku kuma n’wana la tshembisiweke etlhelo ka nambu"
+      ],
+      "answer": "Ku tshama na Ayyub hi ku lahlekeriwa na mavabyi, kutani a vitana ku lehisa mbilu"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ku tivisa leswaku Allah i Ntiyiso na ku lehisa mbilu swa laveka",
+        "Murhi wa ncindzu etlhelo ka xihlovo",
+        "Xirhambo xo aka xikepe lexi nga ekule ni magandlati",
+        "Norho wa tinyeleti ta khume-n’we ni dyambu leri humaka",
+        "Xirhundzu lexi a xi rhwariwe etlhelo ka Nayili"
+      ],
+      "answer": "Ku tivisa leswaku Allah i Ntiyiso na ku lehisa mbilu swa laveka"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Nhlomulo wa Ayub wu susiwile naswona ndyangu wa yena wu vuyisiwile",
+        "N’wana loyi a a rindzeriwile nkarhi wo leha u nyikiwile endzhaku ka xikhongelo lexi nga riki na nchumu",
+        "Mufumi lontsongo u hlamusele malembe ya nkombo ya ku tala ni ku kayivela",
+        "N’wana la tshembisiweke u ponisiwile ematini lama khulukaka",
+        "Xilemukiso xi rhangele ndhambi leyi lovisaka"
+      ],
+      "answer": "Nhlomulo wa Ayub wu susiwile naswona ndyangu wa yena wu vuyisiwile"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

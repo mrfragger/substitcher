@@ -1,0 +1,61 @@
+{
+  "title": "Rixaka Leri Lweleke Nhleleko Wa Ntumbuluko",
+  "intro": "Eka xifundzha lexi xitori xa xona xi twala hi malembe, vaaki a va hanya hi ku xandzuka loku nga erivaleni ku lwisana ni milawu ya ku basa. Swiendlo swa vona a swi nga si tshama swi va kona lerova swi tsundzukiwa tanihi xilemukiso eka vanhu hinkwavo. Xana mimoya-xiviri leyi a ku ri vamani, naswona i vumundzuku byihi lebyi va weleke?",
+  "clues": [
+    "A hi tshama etikweni leri nga hi ndlela leyi vafambi a va tala ku hundza eka yona, kambe hi endle leswaku riendzo ra vona ri va ni khombo.",
+    "Hi endle swiendlo swo tano swa vudlakuta leswi ku nga riki na munhu emisaveni loyi a tshameke a swi endla.",
+    "Murhumiwa un’wana exikarhi ka hina u hi vitanile leswaku hi tshika tindlela ta hina, kambe hi n’wi arile hi tlhela hi lava leswaku hi xupuriwa loko a vula ntiyiso.",
+    "Loko vaendzi vo saseka va ta emutini wa ka hina, a hi lava ku va hlasela, hi nga swi tivi leswaku i varhumiwa va ndzoviso.",
+    "Hi tsundzuxiwile hi nxupulo wo chavisa loko hi nga tshiki, kambe hi hlekula xitsundzuxo ivi hi tshama hi ri eka xidyoho xa hina.",
+    "Mpfula ya maribye leyi humaka empfhukeni yi hi werile, naswona makaya ya hina ma mbundzumuxiwile, ku nga siyi nchumu handle ka xikombiso eka lava anakanyisisaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vanhu va Lut",
+        "Vanhu va le Thamud",
+        "Vanhu va le A'ad",
+        "Vanhu va le Madyan",
+        "Vanhu va le Saba"
+      ],
+      "answer": "Vanhu va Lut"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U endle mahanyelo yo biha lama nga si tshamaka ma va kona ni ku kavanyeta magondzo",
+        "A a gandzela rhole ra nsuku",
+        "U dlaye kamela ya xisati yo kwetsima",
+        "Ku kanganyisiwa eka mabindzu ni ku shortchanged vanhu",
+        "U ake xihondzo lexi tlakukeke leswaku a tlhontlha matilo"
+      ],
+      "answer": "U endle mahanyelo yo biha lama nga si tshamaka ma va kona ni ku kavanyeta magondzo"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Tintsumi ti tifihla tanihi vaendzi vo saseka",
+        "Kamela ya xisati leyi humaka eribyeni",
+        "Nhonga leyi hundzukaka nyoka",
+        "Xikepe lexi akiweke entshaveni",
+        "Ndzilo lowu veke ni ku kufumela ni ku rhula"
+      ],
+      "answer": "Tintsumi ti tifihla tanihi vaendzi vo saseka"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku lovisiwa hi mpfula ya maribye leyi humaka exibakabakeni",
+        "Ku mitiwa hi misava",
+        "Ku nwela eka ndhambi leyikulu",
+        "Ku hlaseriwa hi ku buluka loku huwelelaka",
+        "Yi hundzuriwile yi va tindlopfu"
+      ],
+      "answer": "Ku lovisiwa hi mpfula ya maribye leyi humaka exibakabakeni"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

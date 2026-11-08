@@ -1,0 +1,61 @@
+{
+  "title": "Poslucháči z neviditeľného",
+  "intro": "Za závojom viditeľného sveta sa v tme zhromaždila skrytá skupina, priťahovaná zvukom, ktorý popieral všetko, čo poznali. Veky putovali bez skutočného vedenia, až kým hlas neprenikol tichom ich neviditeľnej ríše a nepohol niečo hlboko v nich. Dnes večer ste pozvaní vykročiť za tiene a odhaliť identitu tejto tajomnej skupiny, ktorej stretnutie s božským slovom ich priviedlo späť k ich ľudu ako varovníkov pravdy, ktorú nemožno utajiť.",
+  "clues": [
+    "Sme staroveké bytosti, ktoré existovali dávno pred mnohými národmi, o ktorých ste čítali, no v ľudských príbehoch sa o nás hovorí len zriedka.",
+    "Naša povaha je odlišná od vašej, utkaná z prvkov neviditeľného a máme sily, ktoré vzdorujú všednosti.",
+    "Veky sme sa túlali bez skutočného vedenia, až kým k nám nedoľahol zvuk, ktorý v nás niečo hlboko prebudil.",
+    "Začuli sme recitáciu, akú sme ešte nikdy nepočuli, slová, ktoré mali váhu presahujúcu akékoľvek slovo.",
+    "Tajne sme sa natlačili blízko seba a prikázali sme svojim, aby boli ticho, a keď sa verše skončili, nemohli sme zostať ticho.",
+    "Vrátili sme sa k nášmu ľudu a povedali sme: „Ó, náš ľud, počuli sme Knihu zoslanú po Mojžišovi, ktorá potvrdzuje to, čo bolo pred ňou, a vedie k pravde.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Hawariyyun (Učeníci Isa)",
+        "Džin, ktorý uveril po vypočutí Koránu",
+        "Spoločníci jaskyne",
+        "Anjeli najnižšieho neba",
+        "Ľudia faraóna, ktorí nasledovali jeho cestu"
+      ],
+      "answer": "Džin, ktorý uveril po vypočutí Koránu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia / udalosť",
+      "options": [
+        "Boli sme vyhnaní za to, že sme sa odmietli pokloniť pred novovytvorenou bytosťou",
+        "Boli sme zapečatení v jaskyni tristo deväť rokov",
+        "Bolo nám prikázané prejsť cez more, ktoré sa pred nami rozdelilo",
+        "Boli sme poslaní do krajiny mágie, aby sme sa učili čarodejníctvo",
+        "Tajne sme si vypočuli recitáciu a boli ňou premenení"
+      ],
+      "answer": "Tajne sme si vypočuli recitáciu a boli ňou premenení"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zlaté teľa vyrobené z ozdôb ľudu",
+        "Jaskyňa, v ktorej spánok trval celé generácie",
+        "Dvaja anjeli v Babylone, ktorí učili zakázané vedomosti",
+        "Kniha zjavená po Mojžišovi, potvrdzujúca Tóru",
+        "Horiaci ker na vrchole svätej hory"
+      ],
+      "answer": "Kniha zjavená po Mojžišovi, potvrdzujúca Tóru"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Boli sme prekliati až do Súdneho dňa",
+        "Povstali sme proti mocnému vládcovi a postavili sme bariéru v krajine",
+        "Premenili sme sa na opice a svine",
+        "Vrátili sme sa k nášmu ľudu ako varovatelia, hlásajúc vieru",
+        "Utopili sme sa v mori spolu s naším vodcom"
+      ],
+      "answer": "Vrátili sme sa k nášmu ľudu ako varovatelia, hlásajúc vieru"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

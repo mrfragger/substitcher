@@ -1,0 +1,61 @@
+{
+  "title": "liit, mis kutsus esile hävingu",
+  "intro": "Kujutage ette, et olete varjul sama katuse all ilmutusega, kuid valite siiski teistsuguse lojaalsuse. See tegelane elas tõe ja prohvetluse lähedal, kuid pöördus nende poole, kes selle hülgasid. Nende lugu on pühalik hoiatus, et ainuüksi õiglusele lähedus ei saa päästa hinge, kes usalduse reedab.",
+  "clues": [
+    "Ma elasin Allahi poolt valitud prohveti majapidamises.",
+    "Ma teadsin tõde, mida mu abikaasa kuulutas, aga ma ei uskunud seda päriselt.",
+    "Ma reetsin tema usalduse, asudes tema hülgavate inimeste poolele ja aidates neil tema vastu võidelda.",
+    "Mind mainitakse uskmatutele eeskujuna koos ühe teise prohveti abikaasaga, kes samuti reetis.",
+    "Minu lugu on jutustatud suuras At-Tahrimis hoiatusena, et sugulus prohvetitega ei paku mingit kaitset.",
+    "Ma hukkusin koos patustajatega, kui Allah hävitas Luti rahva, jättes maha need, kes alles jäid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Luti naine",
+        "Asiya, vaarao naine",
+        "Imrani naine",
+        "Saara, prohvet Ibrahimi naine",
+        "Al-Azizi naine"
+      ],
+      "answer": "Prohvet Luti naine"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Reetis prohveti, aidates uskmatuid tema vastu",
+        "Viska imik korvis jõkke, et teda päästa",
+        "Nõudis kuldvasika ehitamist prohveti äraoleku ajal",
+        "Süüdistas õiglast teenijat väärteos ja vangistas ta",
+        "Juhtis elevantide armeed Kaaba hävitamiseks"
+      ],
+      "answer": "Reetis prohveti, aidates uskmatuid tema vastu"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Luti rahva ümberpööratud linnad",
+        "Jumaliku käsu all ehitatud laev",
+        "Tuli tegi Ibrahimi jaoks jahedaks",
+        "Magavate noorte pelgupaiga koobas",
+        "Jõgi, kust imiku korv leiti"
+      ],
+      "answer": "Luti rahva ümberpööratud linnad"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Hukkus koos uskmatutega, hoolimata abielust prohvetiga",
+        "Päästeti koos usklikega ja sisenes rahus paradiisi",
+        "Muutus sambaks märgiks hilisematele põlvedele",
+        "Maa neelas alla tohutute aaretega",
+        "Sai vanaduspõlves imelise lapse"
+      ],
+      "answer": "Hukkus koos uskmatutega, hoolimata abielust prohvetiga"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

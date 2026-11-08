@@ -1,0 +1,61 @@
+{
+  "title": "An Glaoch ón Doimhneacht",
+  "intro": "Tháinig tuirse ar sheirbhíseach an Té is Trócaireaí de náisiún ceanndána agus d’imigh sé sular tugadh cead dó. Chríochnaigh an duine seo in áit nárbh ann d’aon duine riamh, áit a n-athshondaíonn an glaoch chuig an Diaga go haisteach trí shraitheanna dorchadais. Ag teacht chun cinn lag ach claochlaithe, ba cheacht gan teorainn í an anam seo i bhfoighne, in aithrí ó chroí, agus i dtrócaire gan teorainn an Chruthaitheora. An féidir leat an rúndiamhair a réiteach?",
+  "clues": [
+    "Cuireadh mé mar theachtaire chuig mo mhuintir, ach sháraigh siad gach teorainn ina n-easpa creidimh agus dhiúltaigh siad éisteacht.",
+    "Tháinig fearg orm mar gheall ar a ndiúltú agus theith mé ó mo mhuintir sular tháinig ordú Allah.",
+    "Chuaigh mé ar bord loinge a bhí lán thar a cumas, agus rinneamar crannchur le cinneadh cé a chaithfí thar bord.",
+    "Caitheadh ​​mé isteach san fharraige fhiáin agus shlog iasc mór mé.",
+    "Gafa i dtrí shraith dorchadais — an bolg, an fharraige dhomhain, agus an talamh thíos — ghlaoigh mé ar mo Thiarna le haithrí ó chroí.",
+    "Tháinig mé amach as an iasc amach ar an gcladach oscailte, lag agus tuirseach, agus d'fhás planda gourd orm. Chreid mo mhuintir, céad míle nó níos mó, sa deireadh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Yunus",
+        "Fáidh Ayyub",
+        "Fáidh Iósaf",
+        "an Fáidh Músa",
+        "Fáidh Sulaiman"
+      ],
+      "answer": "Fáidh Yunus"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Slogtha ag iasc mór",
+        "Caite i tine lasrach",
+        "Gafa ag bun tobair",
+        "Buailte ag tuile mhór",
+        "Príosúnaithe go héagórach ag rí"
+      ],
+      "answer": "Slogtha ag iasc mór"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Bolg éisc mhóir",
+        "An gleann naofa in aice leis an Kaaba",
+        "Áirc ina luí ar shliabh",
+        "Bata a d’iompaigh ina nathair",
+        "Ríchathaoir de mhórgacht gan sárú"
+      ],
+      "answer": "Bolg éisc mhóir"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Chreid a mhuintir, céad míle nó níos mó,",
+        "Ardaithe beo chun na bhflaitheas",
+        "Rinneadh rialóir ar ríocht gan sárú de",
+        "Scriosta ag caoineadh géar ón spéir",
+        "Buailte ag crith talún tubaisteach"
+      ],
+      "answer": "Chreid a mhuintir, céad míle nó níos mó,"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

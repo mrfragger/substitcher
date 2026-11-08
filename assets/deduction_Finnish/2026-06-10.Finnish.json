@@ -1,0 +1,61 @@
+{
+  "title": "Puutarhan vartijat",
+  "intro": "Rehevässä puutarhassa yhteisö teki juhlallisen lupauksen. Mutta heidän päättäväisyyttään koeteltiin, kun jumalallinen tahto puuttui peliin ja muutti heidän runsautensa karuksi maaksi.",
+  "clues": [
+    "Meitä siunattiin runsaasta puutarhasta, mutta meistä tuli ylimielisiä.",
+    "Teimme suunnitelman korjata sadonkorjuuta jakamatta sitä köyhien kanssa.",
+    "Lähdimme liikkeelle aikaisin aamulla, luottavaisin mielin suunnitelmaamme.",
+    "Mutta saapuessamme huomasimme, että puutarhamme oli tuhottu yön aikana.",
+    "Tajusimme virheemme ja aloimme syyttää toisiamme.",
+    "Lopulta teimme parannuksen, mutta läksy opittiin liian myöhään."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Puutarhan ihmiset",
+        "Luolan ihmiset",
+        "Norsun kansa",
+        "Thamudin kansa",
+        "'Ad:n ihmiset"
+      ],
+      "answer": "Puutarhan ihmiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Puutarha muuttui tuhkaksi",
+        "Tulva, joka tuhosi kaiken",
+        "Nälänhätä, joka iski maahan",
+        "Lintujen armeija hyökkää",
+        "Suuri tuuli, joka kaatoi puita juurineen"
+      ],
+      "answer": "Puutarha muuttui tuhkaksi"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Puutarha",
+        "Luola",
+        "Laiva",
+        "Vuori",
+        "Palatsi"
+      ],
+      "answer": "Puutarha"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "He katuivat, mutta menettivät puutarhansa",
+        "Ne tuhoutuivat täysin",
+        "Heistä tehtiin apinoita",
+        "He pelastuivat uskon kautta",
+        "Heistä tuli hallitsijoita"
+      ],
+      "answer": "He katuivat, mutta menettivät puutarhansa"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La trasgressione sulla riva",
+  "intro": "Ti trovi sulla sabbia di una spiaggia dimenticata, dove le onde sussurrano di una comunità messa alla prova da un comando divino. L'aria è densa del ricordo di una violazione che ha portato a una trasformazione sconvolgente. Chi erano queste anime e qual era la natura della loro prova?",
+  "clues": [
+    "Eravamo una comunità che aveva ricevuto un comandamento chiaro dal nostro Signore, eppure abbiamo trovato il modo di disobbedirgli.",
+    "Abitavamo vicino a uno specchio d'acqua e il nostro sostentamento dipendeva dalle sue creature.",
+    "Una prova ci attendeva nel giorno in cui ci fu comandato di astenerci dalle attività mondane.",
+    "Quel giorno le creature dell'acqua ci vennero incontro in gran numero, tentandoci oltre ogni limite.",
+    "Abbiamo escogitato un astuto stratagemma per aggirare l'ordine divino, pensando di poter raggirare il decreto.",
+    "La nostra trasgressione ha portato a una trasformazione umiliante; siamo diventati scimmie disprezzate per ordine di Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il popolo del sabato",
+        "Il popolo di Rass",
+        "Il popolo di Tubba",
+        "Il popolo della caverna",
+        "I compagni del fossato"
+      ],
+      "answer": "Il popolo del sabato"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La comparsa dei pesci di sabato",
+        "Un anno di grave siccità",
+        "Un esercito di uccelli inviato contro di loro",
+        "Un'alluvione che li ha travolti",
+        "Un violento terremoto"
+      ],
+      "answer": "La comparsa dei pesci di sabato"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il mare",
+        "Una montagna",
+        "Una grotta",
+        "Una valle desertica",
+        "Una città fortificata"
+      ],
+      "answer": "Il mare"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Trasformati in scimmie",
+        "Inghiottito dalla terra",
+        "Distrutto da un vento ululante",
+        "Annegato in mare",
+        "Colpito da una pioggia di pietre"
+      ],
+      "answer": "Trasformati in scimmie"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

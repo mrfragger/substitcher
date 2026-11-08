@@ -1,0 +1,61 @@
+{
+  "title": "Ubi ahụ nke furu n'abalị",
+  "intro": "Chee echiche banyere ubi mara mma, nke jupụtara na mkpụrụ osisi na-acha acha ma gbaa ya gburugburu site na osisi ndị dị elu. Ndị na-elekọta ya chere na ha nwere amamihe, na-eme atụmatụ owuwe ihe ubi ha n'oge dị jụụ tupu chi ọbụbọ, pụọ n'anya ndị nọ ná mkpa. Mana Onye na-anaghị ehi ụra nwere atụmatụ ndị ọzọ maka ihe onwunwe ha zoro ezo. Ị nwere ike ịkọ onye guzo n'azụ akụkọ ịdọ aka ná ntị a sitere na Quran?",
+  "clues": [
+    "Anyị nwere ubi mara mma nke ukwuu ma baa ụba nke na ọ ghọrọ ihe anyaụfụ nye ndị niile na-agafe agafe.",
+    "N'ime atụmatụ anyị, anyị gwara ibe anyị okwu n'isi ụtụtụ, na-ekwupụta na a gaghị ekwe ka mkpụrụ obi ọ bụla nọ ná mkpa bata n'ụbọchị ahụ.",
+    "Anyị bụ ndị ọgaranya, obi anyị aghọọla ndị na-amaghị ihe ndị dịịrị ndị ogbenye gbara anyị gburugburu.",
+    "Mgbe chi bọchara maka owuwe ihe ubi anyị, anyị rutere n'ubi anyị wee hụ na ọ gbanwere ghọọ mkpọmkpọ ebe gbara ọchịchịrị n'otu abalị.",
+    "Iwu dị egwu batara, nke hapụrụ naanị ntụ ebe ụyọkọ mkpụrụ osisi chara acha kwụgidere n'elu ya.",
+    "Akụkọ anyị bụ ịdọ aka ná ntị siri ike e dekọrọ na Quran, ebe a maara anyị dị ka ndị nwe ubi ahụ ndị na-egbochi ndị nọ ná mkpa inye onyinye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị Nwe Ubi ahụ",
+        "Ndị bi n'ọgba ahụ",
+        "Ndị Na-eso Ụzọ Aịza",
+        "Ndị Enyi nke Osisi",
+        "Ndị Ọbịa nke Ibrahim"
+      ],
+      "answer": "Ndị Nwe Ubi ahụ"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịghọrọ mkpụrụ osisi na nzuzo ma gbochie ndị ogbenye",
+        "Na-ehi ụra ruo ọtụtụ narị afọ n'ime ọgba",
+        "Ịjụ ịmụ nne kamel sitere na nkume",
+        "Ife nwa ehi ọlaedo n'Ugwu Saịnaị",
+        "Ịrụ nnukwu ụgbọ iji gbanahụ idei mmiri"
+      ],
+      "answer": "Ịghọrọ mkpụrụ osisi na nzuzo ma gbochie ndị ogbenye"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ubi e ji mgbidi gbaa ogige nke jupụtara n'osisi nkwụ na osisi vaịn",
+        "Ọgba gbara ọchịchịrị nke dị n'ime ugwu",
+        "Obodo nke ajọ ifufe Chineke kpara aka ọjọọ",
+        "Ndagwurugwu dị nsọ dị nso n'Ụlọ Allah",
+        "Osimiri na-asọ asọ"
+      ],
+      "answer": "Ubi e ji mgbidi gbaa ogige nke jupụtara n'osisi nkwụ na osisi vaịn"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E jiri iwu dị ọkụ nke sitere n'eluigwe rie ubi ahụ.",
+        "Ha dinara n'udo ruo afọ 309 nke ọnwa ọnwa",
+        "Mmiri ozuzo nke nkume kụrisịrị ha",
+        "Ha mikpuru n'okpuru ebili mmiri nke nnukwu idei mmiri",
+        "Oké ifufe oyi na-efe efe gbasasịrị ha"
+      ],
+      "answer": "E jiri iwu dị ọkụ nke sitere n'eluigwe rie ubi ahụ."
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

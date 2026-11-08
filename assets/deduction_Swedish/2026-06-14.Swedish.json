@@ -1,0 +1,61 @@
+{
+  "title": "Flamman som bar ett arv",
+  "intro": "I motståndets annaler står en figur vars namn blev en varning till tidens slut. Denna person valde fiendskap framför släktskap, trots framför underkastelse och stod i opposition mot en barmhärtighetsrop. Lyssna noga på ekon av en forntida proklamation när vi avslöjar identiteten på denna ökända själ.",
+  "clues": [
+    "Jag föddes in i samma klan som Allahs siste budbärare, men jag stod emot dem vid varje vändning.",
+    "Mitt namn bar mening – ett namn som betyder \"flammans far\", ett namn som skulle förebåda mitt eviga öde.",
+    "Jag utsatte sanningens bärare för skada, och till och med mitt eget hushåll deltog i denna grymhetskampanj.",
+    "Jag använde min rikedom och mitt inflytande för att tysta kallelsen till Allah, i tron ​​att pengar kunde släcka det gudomliga ljuset.",
+    "Allah tillägnade mig ett helt kapitel – ett kapitel så kort att det kan reciteras på några sekunder, men dess tyngd består ända till Domedagen.",
+    "Min följeslagare i livet efter detta går bakom mig, bunden av ett fiberrep runt halsen, bärande på just de törnen de brukade sprida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definiera konfrontation",
+      "options": [
+        "Leder oppositionen mot profeten i Mecka",
+        "Migrera till Abessinien för att undkomma förföljelse",
+        "Byggandet av Kaba med profeten Ibrahim",
+        "Att acceptera islam på dödsbädden",
+        "Smidandet av Hudaybiyyah-fördraget"
+      ],
+      "answer": "Leder oppositionen mot profeten i Mecka"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En hustru som bar törnen och ved",
+        "En stav som förvandlades till en orm",
+        "En ring med Salomos sigill",
+        "En guldkalv dyrkad av folket",
+        "En källa som sprutade fram vatten"
+      ],
+      "answer": "En hustru som bar törnen och ved"
+    },
+    "outcome": {
+      "label": "Slutlig uppgörelse",
+      "options": [
+        "En hel sura uppenbarad som förklarar total ruin",
+        "Blev ledare för den muslimska gemenskapen",
+        "Fick förlåtelse i dödsögonblicket",
+        "Byggde en stor moské i Medina",
+        "Uppstod bland de rättfärdiga"
+      ],
+      "answer": "En hel sura uppenbarad som förklarar total ruin"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kadonnut moninaisuus",
+  "intro": "Seisot yhteisön kaikujen edessä, jonka tarina on kirjoitettu aaltoihin. Nämä sielut kuulivat kutsun, valitsivat uhman ja kohtasivat seurauksen, joka muovasi maapalloa. Keitä he ovat, ja mitä heidän maailmalleen tapahtui?",
+  "clues": [
+    "Elimme kauan sitten, ja sanansaattaja tuli luoksemme omasta keskuudestamme.",
+    "Me palvoimme viittä epäjumalaa emmekä suostuneet hylkäämään niitä.",
+    "Me pilkkasimme sanansaattajaa ja syytimme häntä harhautumisesta.",
+    "Vaadimme hänen rangaistuksensa, jos hän puhuisi totta.",
+    "Näimme taivaan kaatavan sateen läpi ja maan pulppuavan lähteitä.",
+    "Kiipesimme korkeille paikoille paetaksemme, mutta aallot veivät meidät yli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Nuhin kansa",
+        "'Ad:n ihmiset",
+        "Thamudin kansa",
+        "Lutin kansa",
+        "Madyanin kansa"
+      ],
+      "answer": "Nuhin kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Meidät hukkui suureen tulvaan",
+        "Meidät tuhosi hurrikaani",
+        "Meidät tappoi kova räjähdys",
+        "Maa nielaisi meidät",
+        "Meitä heiteltiin kivillä taivaalta"
+      ],
+      "answer": "Meidät hukkui suureen tulvaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Suuri tulva",
+        "Raju tuuli",
+        "Kivien suihku",
+        "Tulinen räjähdys",
+        "Maanjäristys"
+      ],
+      "answer": "Suuri tulva"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Me kaikki hukuimme, paitsi uskovat Nooan kanssa",
+        "Meidät muutettiin apinoiksi",
+        "Meidät jätettiin raunioiksi matkalaisille",
+        "Meidät muutettiin suolaksi",
+        "Meille annettiin lepoaikaa"
+      ],
+      "answer": "Me kaikki hukuimme, paitsi uskovat Nooan kanssa"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

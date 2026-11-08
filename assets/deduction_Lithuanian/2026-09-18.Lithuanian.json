@@ -1,0 +1,61 @@
+{
+  "title": "Šauksmas iš Šventojo slėnio",
+  "intro": "Už istorijos puslapių slypi sielos, stovėjusios tarp galingo valdovo ir visos pavergtos tautos, istorija. Šis asmuo buvo pašauktas išvaduoti tautą iš tironijos, darydamas stebuklus, nepaisydamas jokio gamtos įstatymo. Nuo švento kalno iki stebuklo ant vandenų – šis Alacho tarnas matė ženklus, kurie aidės per amžius. Šiandien jūsų užduotis – atpažinti šią nepaprastą asmenybę, kurios palikimas nulėmė žmonijos istorijos eigą.",
+  "clues": [
+    "Gimiau tuo metu, kai mano tautai buvo įvykdytas mirtinas nuosprendis, ir mano šeima mane įmetė į vandenį, kad išgelbėtų mano gyvybę.",
+    "Mane rado ir užaugino to paties valdovo, kuris įsakė mano rūšies mirtis, namuose.",
+    "Pabėgau prie švento kalno, kur pamačiau ugnį ant nesudegusio medžio, ir iš jo man prabilo balsas.",
+    "Buvau grąžintas pas tą patį valdovą su stebuklais, reikalaudamas savo pavergtų žmonių laisvės.",
+    "Sudaviau jūrą savo lazda, ir ji išsiskyrė į sausus takus, prarydama persekiotojus, kurie sekė mano tautą.",
+    "Keturiasdešimt naktų bendravau su savo Viešpačiu ant kalno ir man buvo duotos dieviško vadovavimo lentelės."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Musa",
+        "Pranašas Harunas",
+        "Pranašas Ibrahimas",
+        "Pranašas Jusufas",
+        "Pranašas Dawudas"
+      ],
+      "answer": "Pranašas Musa"
+    },
+    "trial": {
+      "label": "Mano apibrėžiantis išbandymas",
+      "options": [
+        "Jūros išsiskyrimas",
+        "Didžiosios arkos statyba",
+        "Išbandymas liepsnojančioje ugnyje",
+        "Įkalinimas banginio pilve",
+        "Egipto pareigūno įkalinimas"
+      ],
+      "answer": "Jūros išsiskyrimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Piemens lazda",
+        "Puiki medinė arka",
+        "Ola, kurioje miegojo laikas",
+        "Sodas su dviem šaltiniais",
+        "Auksu papuoštas sostas"
+      ],
+      "answer": "Piemens lazda"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mano žmonės perplaukė jūrą ir pasiekė saugią vietą",
+        "Didysis potvynis sunaikino netikinčiuosius",
+        "Tirono ugnis tapo vėsi ir rami",
+        "Jūra išmetė savo belaisvį į krantą",
+        "Belaisvis tapo Egipto iždininku"
+      ],
+      "answer": "Mano žmonės perplaukė jūrą ir pasiekė saugią vietą"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

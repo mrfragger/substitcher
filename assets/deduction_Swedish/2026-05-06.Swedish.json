@@ -1,0 +1,61 @@
+{
+  "title": "Rösten från den brinnande busken",
+  "intro": "Avslöja identiteten på en djupgående figur vars resa började med ett mirakulöst möte och vars öde var sammanflätat med befrielsen av ett förtryckt folk. Denna individ valdes ut för en monumental uppgift, där han stod inför enorma utmaningar med gudomligt stöd.",
+  "clues": [
+    "Jag föddes i en tid av stort förtryck, där spädbarn av mitt folk dödades.",
+    "Min tidiga liv innebar att mina föräldrar placerade mig i en flod, men jag hittades och uppfostrades i mitt folks förtryckares hushåll.",
+    "Jag flydde en gång från en stad efter att oavsiktligt ha orsakat en persons död under en tvist.",
+    "Jag mottog ett gudomligt budskap och en mirakulös stav på en helig plats, där jag beordrades att konfrontera en mäktig härskare.",
+    "Min bror utsågs till min medhjälpare i mitt uppdrag, på grund av ett upplevt hinder i mitt tal.",
+    "Jag ledde mitt folk över ett delat hav, på flykt från en tyrannisk armés förföljelse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Yusuf",
+        "Profeten Isa",
+        "Profeten Musa",
+        "Profeten Nuh",
+        "Profeten Ibrahim"
+      ],
+      "answer": "Profeten Musa"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Ihållande år av torka",
+        "Bygga arken",
+        "Konfrontera Farao och hans trollkarlar",
+        "Att kastas in i en brinnande ugn",
+        "Förstörelsen av Thamuds folk"
+      ],
+      "answer": "Konfrontera Farao och hans trollkarlar"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Kaba",
+        "Järnväggen",
+        "Personalen",
+        "Nuhs skepp",
+        "Sulaimans ring"
+      ],
+      "answer": "Personalen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Staden Sodom omkullkastades",
+        "Människorna slukades av jorden",
+        "Den stora översvämningen omslöt landet",
+        "Farao och hans armé drunknade",
+        "Stadsmurarna rasade samman av ett skrik"
+      ],
+      "answer": "Farao och hans armé drunknade"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

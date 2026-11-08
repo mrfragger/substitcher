@@ -1,0 +1,61 @@
+{
+  "title": "The Envoys of Mercy and Might",
+  "intro": "Imagine a quiet afternoon interrupted by the arrival of unfamiliar travelers. Their appearance is ordinary, but their purpose is anything but. They carry a divine message that will alter the course of two nations, bringing laughter to a barren home and terror to a sinful city. Who are these mysterious visitors?",
+  "clues": [
+    "We were sent to a devoted servant of Allah, known for their boundless hospitality.",
+    "We arrived in the guise of strangers, and yet our host sensed something otherworldly about our presence.",
+    "We brought tidings that made an elderly woman laugh in disbelief, striking her own face in astonishment.",
+    "We were tasked with protecting a righteous family while raining destruction upon a city steeped in corruption.",
+    "We refused to partake in the meal offered to us, which only deepened the suspicion of our host.",
+    "We revealed our true nature only before departing, saying, 'Indeed, we are messengers of your Lord.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "The Guests of Abraham",
+        "The Disciples of Jesus",
+        "The Companions of the Cave",
+        "The Army of Abraha",
+        "The Messengers of Ya-Sin"
+      ],
+      "answer": "The Guests of Abraham"
+    },
+    "trial": {
+      "label": "Our Mission",
+      "options": [
+        "To test Abraham's faith regarding his son",
+        "To deliver the scripture to Abraham",
+        "To announce the birth of Isaac and the destruction of Lot's people",
+        "To guide Abraham to the Kaaba",
+        "To rescue Abraham from the fire"
+      ],
+      "answer": "To announce the birth of Isaac and the destruction of Lot's people"
+    },
+    "location": {
+      "label": "Place of Appearance",
+      "options": [
+        "In the land of Egypt",
+        "In the city of Ur",
+        "At Abraham's home",
+        "In the garden of Eden",
+        "At the well of Zamzam"
+      ],
+      "answer": "At Abraham's home"
+    },
+    "outcome": {
+      "label": "The Result",
+      "options": [
+        "Abraham became a king",
+        "Abraham built the Kaaba",
+        "Sarah gave birth to Isaac and Lot's people were destroyed",
+        "Abraham migrated to Palestine",
+        "Abraham's people were saved from a great flood"
+      ],
+      "answer": "Sarah gave birth to Isaac and Lot's people were destroyed"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

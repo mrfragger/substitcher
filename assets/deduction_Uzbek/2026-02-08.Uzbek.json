@@ -1,0 +1,60 @@
+{
+  "title": "Uzoq taxtning jumboqlari",
+  "intro": "Favqulodda hukmronlikka ega bo'lgan qudratli monarx uzoq yurtdan kelgan malika bilan bog'liq g'alati bir qiyinchilikka duch keldi. Monarx ilohiy kuch va donolikni namoyish etishga, vaqt va makon qonunlariga zid bo'lgan ajoyib hodisani boshlashga intildi. Ushbu mo''jizaviy hodisaning tafsilotlarini aniqlay olasizmi?",
+  "clues": [
+    "Hukmdorga ulkan kuch, jumladan, ko'rinmas mavjudotlar ustidan nazorat va shamollarni boshqarish qobiliyati berilgan edi.",
+    "Bu hukmdor quyoshga sig'inadigan boy malika haqida xabar oldi va uni saroyga taklif qilishga qaror qildi.",
+    "Malika kelishidan oldin, hukmdor o'zining ulug'vor hokimiyat taxtini uzoq qirolligidan olib kelish istagini bildirdi.",
+    "Qudratli jin hukmdor kengashdan turishidan oldin buyumni qaytarib olishni taklif qildi.",
+    "Biroq, Ilohiy Muqaddas Yozuvlarni chuqur bilgan kishi, vazifani ko'z ochib yumguncha bajarib, yanada tezroq qayta tiklashni taklif qildi.",
+    "U yetib kelganida, hukmdor malika nihoyat saroyga yetib kelganida uning aql-zakovati va idrokini sinab ko'rish uchun buyumni o'zgartirishni buyurdi."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Payg'ambar/Shaxs",
+      "options": [
+        "Muso payg'ambar",
+        "Payg'ambar Dovud",
+        "Ibrohim payg'ambar",
+        "Yusuf payg'ambar",
+        "Payg'ambar Sulaymon"
+      ],
+      "answer": "Payg'ambar Sulaymon"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Dengizning ikkiga bo'linishi",
+        "Qiyinchiliklardagi sabr",
+        "Ka'ba binosi",
+        "Bog'larning sinovi",
+        "Qirolicha taxtini olib kelish"
+      ],
+      "answer": "Qirolicha taxtini olib kelish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Tog'",
+        "Quduq",
+        "Taxt"
+      ],
+      "answer": "Taxt"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Buyuk qurbonlik",
+        "Bir qirollik o'rnatildi",
+        "Jazolangan xalq",
+        "Yangi ahd",
+        "Qirolichaning Allohga bo'ysunishi"
+      ],
+      "answer": "Qirolichaning Allohga bo'ysunishi"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

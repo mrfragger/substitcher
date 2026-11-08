@@ -1,0 +1,61 @@
+{
+  "title": "Merkið meðal steinanna",
+  "intro": "Í landi þar sem fjöll voru höggvin í hús kom sendiboði með kraftaverk frá Allah. Fólkið krafðist sönnunar og það fékk veru úr föstu bergi. En hroki þeirra leiddi þá til að óhlýðnast viðvöruninni og innsigla örlög sín.",
+  "clues": [
+    "Ég var sendur til fólks sem bjó í bústöðum sem voru höggnir út í fjöll.",
+    "Þau skoruðu á mig að koma með skilti, svo ég dró upp úlfalda úr steini.",
+    "Ég bauð þeim að leyfa úlfaldanum að drekka frjálslega og ekki meiða hann.",
+    "Þeir óhlýðnuðust og skáru á úlfaldanum, í óhlýðni við viðvörun minni.",
+    "Ég tilkynnti að refsing kæmi eftir þrjá daga.",
+    "Að morgni eyðilagði öflugur vindur þá, en ég og fylgdarmenn mínir björguðumst."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Salih",
+        "Spámaðurinn Hud",
+        "Spámaðurinn Lút",
+        "Spámaðurinn Shu'ayb",
+        "Spámaðurinn Íbrahim"
+      ],
+      "answer": "Spámaðurinn Salih"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Eftirspurn eftir úlfalda úr kletti",
+        "Eftirspurn eftir gullkálfi",
+        "Eftirspurn eftir borði breiddist út af himnum",
+        "Eftirspurn eftir flóði",
+        "Krafa um að starfsfólk verði að höggormi"
+      ],
+      "answer": "Eftirspurn eftir úlfalda úr kletti"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Úlfaldinn og kálfurinn hennar",
+        "Örk Nóa",
+        "Stafur Móse",
+        "Gullkalfurinn",
+        "Eldur Íbrahims"
+      ],
+      "answer": "Úlfaldinn og kálfurinn hennar"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Eyðilagður af öflugri sprengingu",
+        "Drukknaði í flóðinu",
+        "Gleypt af jörðinni",
+        "Breyttust í apa",
+        "Eyðilagður af hvassviðri"
+      ],
+      "answer": "Eyðilagður af öflugri sprengingu"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

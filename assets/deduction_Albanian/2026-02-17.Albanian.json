@@ -1,0 +1,61 @@
+{
+  "title": "Fara e Grindjes",
+  "intro": "Përpara se bota të njihej me konfliktin e përhapur gjerësisht, u shpalos një provë e thellë besimi dhe bindjeje. Ky rrëfim eksploron zgjedhjet e bëra nga një individ, veprimet e të cilit krijojnë një precedent për brezat e ardhshëm. Përgatituni të zbuloni historinë e një shpirti që përballet me xhelozi të madhe dhe pasojat e saj shkatërruese.",
+  "clues": [
+    "Isha ndër pasardhësit e parë që ecën në tokë, një fëmijë i çiftit të parë njerëzor.",
+    "Unë dhe vëllai im u urdhëruam të bënim kurban për Allahun, një provë e sinqeritetit tonë.",
+    "Oferta ime nuk u pranua, ndërsa ajo e vëllait tim po, gjë që ma mbushi zemrën me një emocion të tmerrshëm.",
+    "I fola fjalë kërcënuese vëllait tim, i shtyrë nga hidhërimi i refuzimit.",
+    "Vëllai im u përgjigj me mençuri dhe devotshmëri, duke më kujtuar drejtësinë e Allahut dhe frikën ndaj Tij.",
+    "Pavarësisht fjalëve të buta të vëllait tim dhe gatishmërisë së tij për të falur, unë i mora jetën një personi, duke u bërë një nga humbësit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Adam",
+        "Iblisi",
+        "Profeti Nuh",
+        "Qabil (Kain)",
+        "Faraoni"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Përmbytja e madhe",
+        "Ndarja e detit",
+        "Ndërtimi i Qabes",
+        "Ofrimi i sakrificave",
+        "Tundimi në Kopsht"
+      ],
+      "answer": "Ofrimi i sakrificave"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Arka",
+        "Stafi",
+        "Mali i Safasë",
+        "Sakrifica",
+        "Shkurre që digjet"
+      ],
+      "answer": "Sakrifica"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U bë një lajmëtar",
+        "U mbyt",
+        "Ndërtoi një mbretëri të madhe",
+        "U bë një shembull i keqardhjes",
+        "Iu dha një pasuri e jashtëzakonshme"
+      ],
+      "answer": "U bë një shembull i keqardhjes"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

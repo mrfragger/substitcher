@@ -1,0 +1,61 @@
+{
+  "title": "Qorxu gətirən qonaqpərvərlik",
+  "intro": "Pislik içində olan bir şəhərdə bir gün sadiq bir xidmətçi gözlənilməz qonaqlar qəbul etdi. Onların təhlükəsizliyi üçün narahat olan bu şəxs onlara himayə təklif etdi, lakin şəhər əhalisi utancverici bir şey tələb etdi. Yaxınlaşan bir fəlakət barədə xəbərdarlıq edilən xidmətçi, dağılmaq üçün işarələnmiş bir şəhəri geridə qoyaraq qaranlıqda ailəsi ilə qaçdı. Bu tək mömin kimdir?",
+  "clues": [
+    "Mən rüsvayçılıqla məşğul olan bir qövmə elçi göndərildim.",
+    "Gözlənilməz qonaqlar evimə gəldi və mən öz təhlükəsizliyimdən daha çox onların təhlükəsizliyi üçün narahat idim.",
+    "Xalqım pis niyyətlə qonaqlarımı görməyi tələb etdi və mən də onları razı salmağa çalışdım.",
+    "Qonaqlarım özlərini mələk kimi təqdim etdilər və mənə ailəmi götürüb gecə getməyimi əmr etdilər.",
+    "Həyat yoldaşım qaçmaq çağırışına qulaq asmadı və xalqımın etdiyi kimi məhvlə üzləşdi.",
+    "Şəhərim laylı gil daşları yağışı ilə alt-üst oldu, ən yüksək hissələri isə ən aşağı hissələrə çevrildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Lut peyğəmbər",
+        "Musa peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Nuh peyğəmbər",
+        "Hud peyğəmbər"
+      ],
+      "answer": "Lut peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Xalqımın qonaqlarıma pis niyyətlə yaxınlaşmaq tələbi",
+        "Bir zalımdan qaçmaq üçün dənizin iki yerə ayrılması",
+        "İstehza içində böyük bir gəminin tikilməsi",
+        "Oğlumun iman sınağında qurban verilməsi",
+        "Böyük bir balığın udulması təcrübəsi"
+      ],
+      "answer": "Xalqımın qonaqlarıma pis niyyətlə yaxınlaşmaq tələbi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Xalqımın alt-üst olmuş şəhəri",
+        "İlahi nitq aldığım dağ",
+        "Böyük bir daşqından keçən gəmi",
+        "Qayadan çıxan dişi dəvə",
+        "Gizli saleh bir qonağı olan bağ"
+      ],
+      "answer": "Xalqımın alt-üst olmuş şəhəri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Şəhərim alt-üst olmazdan əvvəl ailəmlə birlikdə xilas oldum",
+        "Xalqımı dənizin o tayına azadlığa apardım",
+        "Böyük bir gəmi tikdim və böyük bir daşqından sağ çıxdım",
+        "Mənə küləklər və cinlər üzərində hökmranlıq verildi",
+        "Səbirlə əzablara dözdüm və ailəmlə mükafatlandırıldım"
+      ],
+      "answer": "Şəhərim alt-üst olmazdan əvvəl ailəmlə birlikdə xilas oldum"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

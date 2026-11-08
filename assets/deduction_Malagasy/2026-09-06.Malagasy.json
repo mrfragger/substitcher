@@ -1,0 +1,61 @@
+{
+  "title": "Ny Zanak'omby Volamena Noroahina",
+  "intro": "Nisy olona iray voalaza ao amin'ny CORAN nitarika vahoaka betsaka ho amin'ny lalan-diso nandritra ny tsy naha-teo ny mpaminany mendri-kaja iray. Zavatra vita amin'ny volamena no nahazo ny fon'ny firenena iray manontolo - saingy mifarana amin'ny fahanginana sy ozona hafahafa ny tantaran'ity olona ity. Iza moa ity olona noroahina ity?",
+  "clues": [
+    "Nipoitra aho nandritra ny tsy naha-teo ny mpaminany lehibe iray izay niakatra handray ny fitarihana masina.",
+    "Nahatonga vahoaka betsaka ho very saina aho tamin'ny zavatra nataoko tamin'ny tanako ihany.",
+    "Toa nanana aina ilay zavaboary volamena izay novokariko, namoaka feo izay nahavariana ireo izay nanaraka azy.",
+    "Nilaza aho fa nahita izay tsy hain'ny hafa takarina — topimaso kely amin'ny tsy hita maso.",
+    "Naka zavatra avy tamin'ny dian-tongotr'ilay iraka masina aho ary nanipy izany tao anaty metaly nitsonika.",
+    "Voaheloka hirenireny irery aho, niaraka tamin'ny ozona miavaka hoe tsy hisy olona afaka hikasika ny hoditro ary tsy hisy olona afaka hikasika ny azy ireo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Samiri",
+        "Hamana",
+        "Farao (Fir'awn)",
+        "Abu Lahab",
+        "Mpaminany Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nanao ombilahy kely volamena ho an'ny fanompoam-pivavahana",
+        "Nanangana tilikambo mahatratra ny lanitra",
+        "Nihaika ireo mpamosavy tany Ejipta",
+        "Nitarika tafika misy biby manidina",
+        "Zarao ny volana ho porofon'ny faminaniana"
+      ],
+      "answer": "Nanao ombilahy kely volamena ho an'ny fanompoam-pivavahana"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ilay zanak'omby volamena",
+        "Tehina niova ho menarana",
+        "Kirihitra mirehitra eo an-tendrombohitra",
+        "Sambofiara mipetraka eo an-tampon-kavoana",
+        "Hady feno afo mirehitra"
+      ],
+      "answer": "Ilay zanak'omby volamena"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Noroahina, voarara tsy hokasihina na hikasika ny hafa",
+        "Nilentika tao an-dranomasina niaraka tamin'ny tafika",
+        "Nodorana velona noho ny fandavana ny finoana",
+        "Voakasiky ny rivotra mahery sy mirohondrohona",
+        "Voavela heloka ary nasandratra ho amin'ny toerana ambony"
+      ],
+      "answer": "Noroahina, voarara tsy hokasihina na hikasika ny hafa"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

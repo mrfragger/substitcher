@@ -1,0 +1,61 @@
+{
+  "title": "Els humils buscadors de la veritat",
+  "intro": "En una terra d'antics poders i bruixeria, es desenvolupa una gran confrontació. Un bàndol exerceix l'autoritat dels signes divins, mentre que l'altre intenta igualar l'impossible. El resultat canviarà per sempre el curs de la història. Pots descobrir la identitat d'aquells que van presenciar la veritat última i es van humiliar davant d'ella?",
+  "clues": [
+    "Vam presenciar signes que anaven més enllà dels trucs de la bruixeria",
+    "Tots vam caure prostrats, incapaços de negar la veritat",
+    "Vam reconèixer que aquests signes provenien de l'Únic Déu Veritable",
+    "Vam ser la primera comunitat a abraçar la fe d'una manera tan dramàtica",
+    "Ens van prometre el paradís com a recompensa per la nostra fe",
+    "Les nostres cordes i bastons es van convertir en serps davant dels nostres ulls, però vam triar la submissió"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Mags del faraó",
+        "El poble del profeta Ibrahim",
+        "Els humils buscadors de la veritat",
+        "La gent de la cova",
+        "La nació de la reina Bilqis"
+      ],
+      "answer": "Mags del faraó"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "La trobada amb el bastó del profeta Musa",
+        "La prova del vent del profeta Hud",
+        "El repte de la camella del profeta Salih",
+        "El gran diluvi enviat sobre un profeta",
+        "El viatge d'un profeta dins d'una balena"
+      ],
+      "answer": "La trobada amb el bastó del profeta Musa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "l'antic Egipte",
+        "La casa sagrada a la Meca",
+        "La ciutat de Midian",
+        "El desert de Thamud",
+        "La cova dels antics dorments"
+      ],
+      "answer": "l'antic Egipte"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "El paradís com a recompensa",
+        "Càstig a la tomba",
+        "Pèrdua dels seus abundants jardins",
+        "Destrucció per un terratrèmol sobtat",
+        "Rescat d'una gran balena"
+      ],
+      "answer": "El paradís com a recompensa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

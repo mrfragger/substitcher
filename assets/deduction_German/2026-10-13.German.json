@@ -1,0 +1,61 @@
+{
+  "title": "Der feurige Widersacher",
+  "intro": "In den Anfängen der Offenbarung trat eine Gestalt als hartnäckiger Gegner der Wahrheit in Erscheinung. Gesegnet mit Reichtum und Ansehen, wählte diese Seele den Stolz anstelle der Rechtleitung, und ihre Geschichte wurde in den letzten Versen einer Sure zu einer eindringlichen Warnung.",
+  "clues": [
+    "Ich lebte in derselben Stadt wie der Prophet und gehörte zu seinen engsten Verwandten, doch mein Stolz hielt mich von der Wahrheit fern.",
+    "Ich besaß großen Reichtum und zahlreiche Besitztümer und glaubte, meine Ressourcen würden mich immer schützen.",
+    "Als die Botschaft offenbart wurde, spottete ich offen darüber und wandte mich ab, da ich mich den Gläubigen überlegen fühlte.",
+    "Meine Feindschaft war so berüchtigt, dass eine Sure des Korans mich direkt ansprach und mich mit dem Namen nannte, unter dem mich andere kannten.",
+    "Mir wurde gesagt, dass mir mein Reichtum und mein Verdienst nichts nützen würden und ich in ein loderndes Feuer geworfen würde.",
+    "Ich bin als Vater der Flamme bekannt, und meine Frau wird das Brennholz mit einem Seil aus Palmfasern um den Hals tragen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er lehnte den Islam ab und widersetzte sich offen dem Propheten.",
+        "Sie planten ein Attentat auf den Propheten",
+        "rief zu einem sozialen Boykott gegen Muslime auf.",
+        "Kämpfte in der Schlacht von Badr",
+        "Der gefolterte Bilal ibn Rabah"
+      ],
+      "answer": "Er lehnte den Islam ab und widersetzte sich offen dem Propheten."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Seil aus Palmfasern",
+        "Ein scharfes Schwert",
+        "Eine schwere Kette",
+        "Ein Holzstab",
+        "Eine Lederpeitsche"
+      ],
+      "answer": "Ein Seil aus Palmfasern"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wird in einem lodernden Feuer verbrennen",
+        "Er bereute und wurde ein Gefährte",
+        "Er verlor sein Vermögen, starb aber geehrt.",
+        "Floh nach Abessinien",
+        "Im Meer ertrunken"
+      ],
+      "answer": "Wird in einem lodernden Feuer verbrennen"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

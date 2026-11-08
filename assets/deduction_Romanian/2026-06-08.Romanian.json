@@ -1,0 +1,61 @@
+{
+  "title": "Rugăciunea Sanctuarului",
+  "intro": "În orele liniștite ale nopții, un suflet devotat L-a chemat pe Cel Mai Milostiv între zidurile sfinte ale unui loc sacru. Ani de credință și răbdare neclintite urmau să fie răsplătiți cu un miracol care avea să aducă bucurie și o moștenire a profeției.",
+  "clues": [
+    "Mi-am petrecut zilele și nopțile în devoțiune într-un sanctuar sfânt, implorându-L neîncetat pe Domnul meu.",
+    "Am îmbătrânit, iar soția mea era stearpă, totuși nu mi-am pierdut niciodată speranța în mila lui Allah.",
+    "Mi s-a dăruit un fiu, pe nume Yahya, care a devenit profet și un far al dreptății.",
+    "Am fost eu însumi profet, trimis să-i călăuzesc pe copiii lui Israel.",
+    "Am fost un descendent al profetului Harun și am slujit ca preot în Templu.",
+    "Mi-a fost încredințată grija pentru Maryam, mama lui Isa, și am fost martor la miracolele ei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Zakariyya",
+        "Profetul Yahya",
+        "Profetul Ilia",
+        "Profetul Ishaq",
+        "Profetul Ya'qub"
+      ],
+      "answer": "Profetul Zakariyya"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A dăruit un fiu la bătrânețe",
+        "Salvat dintr-un foc arzător",
+        "Salvat din burta unui pește",
+        "A supraviețuit unei mari inundații",
+        "Vindecat de o boală gravă"
+      ],
+      "answer": "A dăruit un fiu la bătrânețe"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Mihrabul (nișa de rugăciune)",
+        "Kaaba",
+        "Rugul Aprins",
+        "Arca Legământului",
+        "Peștera celor șapte adormiți"
+      ],
+      "answer": "Mihrabul (nișa de rugăciune)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "I s-a acordat un fiu drept care a devenit profet",
+        "Distrus de o furtună violentă",
+        "Înecat în mare",
+        "Cruțat de la ardere",
+        "S-au întors la poporul lor după ce au fost salvați de un pește"
+      ],
+      "answer": "I s-a acordat un fiu drept care a devenit profet"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

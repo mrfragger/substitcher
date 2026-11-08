@@ -1,0 +1,61 @@
+{
+  "title": "Vaxengi va Vahlawuriwa",
+  "intro": "Ematin’wini hinkwawo, varhumiwa va Xikwembu a va famba exikarhi ka vanhu, naswona van’wana va lava nga ekusuhi na vona va tsandzekile ku xiya ku vonakala. Rungula leri ri rhendzeleka hi mimoya-xiviri yimbirhi leyi ku va ekusuhi ka yona ni vuprofeta ku veke ndzingo wa vona, naswona ndzhaka ya vona yi veke dyondzo leyi nga hundzeriwiki hi nkarhi.",
+  "clues": [
+    "Hi hanye eminkarhini ya vaprofeta lavakulu, hambiswiritano mahlo ya hina ma tshame ma pfariwile eka ntiyiso lowu va wu tiseke.",
+    "Makaya ya hina a ma tele hi nhlavutelo ya Xikwembu, kambe timbilu ta hina a ti nonon’hwile.",
+    "A hi tekiwe hi vavanuna lava hlawuriweke ku tsundzuxa vanhu va vona.",
+    "Loko ku xupuriwa ku fika, a hi nga lavi vutumbelo engalaveni kumbe ku balekela mpfula leyi pfurhaka, hikuva a hi hlekula switsundzuxo.",
+    "Hi boxiwile eka Quran tani hi xikombiso eka lava va nga pfumeriki, leswi kombisaka leswaku hambi ku ri vuxaka bya le kusuhi na muprofeta a byi ponisi.",
+    "Hi vasati va Nuh na Luti, lava va va xengaka xisweswo va gweviwile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Vasati va Nuh na Luti",
+        "Vasati va Ibrahim na Isma'il",
+        "Vasati va Musa na Haruni",
+        "Vasati va Dawud na Sulayman",
+        "Vasati va Ayub na Yunus"
+      ],
+      "answer": "Vasati va Nuh na Luti"
+    },
+    "trial": {
+      "label": "Xana ndzingo wa vona a wu ri wihi?",
+      "options": [
+        "A va tekiwe hi vaprofeta kambe a va nga pfumeli",
+        "A va nga ri na ntswamba naswona a va sola vaprofeta",
+        "A va fuwile naswona a va tikukumuxa",
+        "Va ringiwa hi Iblis ku suka emakaya ya vona",
+        "A va gandzela Rhole ra Nsuku"
+      ],
+      "answer": "A va tekiwe hi vaprofeta kambe a va nga pfumeli"
+    },
+    "location": {
+      "label": "Xana vuyelo bya vona a byi boheleriwe hi yini?",
+      "options": [
+        "Ndhambi ni mpfula ya maribye",
+        "Moya wa matimba swinene",
+        "Ku tsekatseka ka misava",
+        "Ntungu wa tinjiya",
+        "Ku avana ka lwandle"
+      ],
+      "answer": "Ndhambi ni mpfula ya maribye"
+    },
+    "outcome": {
+      "label": "Makumu ya vona a ku ri wahi?",
+      "options": [
+        "Va lovile swin’we ni lava nga pfumeriki",
+        "Va hundzukile kutani va ponisiwa",
+        "Va sale va nga ri na vana",
+        "Va hlongoriwile hilaha ku nga heriki",
+        "Va hundzuriwile va va tindlopfu ni tinguluve"
+      ],
+      "answer": "Va lovile swin’we ni lava nga pfumeriki"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

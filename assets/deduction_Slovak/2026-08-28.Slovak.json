@@ -1,0 +1,61 @@
+{
+  "title": "Prekážka v Starom dome",
+  "intro": "V posvätnom meste vrelo hnevom mocné posolstvo, keď sa začalo šíriť nové posolstvo. Táto osoba, ktorej meno sa stalo synonymom odporu voči pravde, sledovala, ako sa jej vplyv rozpadá pod ťarchou božského zjavenia. Kto bola táto duša, ktorej osud bol spečatený v pieskoch slávneho bojiska?",
+  "clues": [
+    "Bol som náčelníkom svojho ľudu, známym pre svoje bohatstvo a vplyv v meste, v ktorom sa nachádzala starobylá svätyňa.",
+    "Keď muž z môjho kmeňa začal hlásať posolstvo o jednom Bohu, vysmial som sa mu aj jeho zjaveniam a nazval som ich len príbehmi z minulosti.",
+    "Konfrontoval som toho muža, keď sa modlil neďaleko posvätnej stavby, a vyhrážal som sa, že v prípade potreby zastavím jeho bohoslužby násilím.",
+    "Bol som medzi vodcami, ktorí plánovali umlčať novú vieru a postavili sa jej nasledovníkom slovami aj zbraňami.",
+    "Pochodoval som s armádou na miesto zvané Badr, presvedčený, že rozdrvíme malú skupinu veriacich.",
+    "Ale na tom bojisku sa môj život skončil a moja smrť sa stala ponaučením pre tých, ktorí zotrvávajú v nevere po jasných znameniach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Abu Džahl",
+        "Abú Sufján ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umajja ibn Chalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Džahl"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Zabránenie Prorokovi v modlitbe pri Kaabe",
+        "Stavba Kaaby",
+        "Písanie Koránu",
+        "Vedenie armády slonov",
+        "Rozdelenie mesiaca"
+      ],
+      "answer": "Zabránenie Prorokovi v modlitbe pri Kaabe"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Kaaba",
+        "Archa proroka Nuha",
+        "Zamestnanec proroka Musu",
+        "Zlaté teľa",
+        "Trón kráľovnej zo Sáby"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Padol v bitke pri Badr",
+        "Činil pokánie a stal sa moslimom",
+        "Utiekol do Habeša",
+        "Zomrel v roku slona",
+        "Stal sa spoločníkom Proroka"
+      ],
+      "answer": "Padol v bitke pri Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

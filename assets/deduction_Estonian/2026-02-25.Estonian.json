@@ -1,0 +1,61 @@
+{
+  "title": "Viljatu kalju katsumus",
+  "intro": "Osav ja uhke kogukond raius oma pärandi mägedesse. Aga kui neile saadeti selge märk, usu ja vaoshoituse proovilepanek, viis nende ülbus nad tagasiteele. Kas suudate tuvastada selle grupi ja nende vastupanu tagajärjed?",
+  "clues": [
+    "Me olime kivimeistrid, raiudes suurejoonelisi eluruume otse mäenõlvadele.",
+    "Meie juurde tuli sõnumitooja meie endi rahva seast, kutsudes meid kummardama Ühte Tõelist Jumalat.",
+    "Me nõudsime tunnustähte tema sõnade tõestuseks ja meile toodi proovile ainulaadne olend.",
+    "Meile anti lihtne käsk: jagada oma veeallikat selle olendiga, lastes tal juua tema määratud päeval.",
+    "Oma ülbuses sepitsesid mõned meist vandenõu ja me eirasime hoiatust, tappes olendi, kes pidi olema meie tunnusmärk.",
+    "Meile anti kolm päeva enne meie hukkumist aega, ja siis haaras meid kodudes võimas plahvatus, jättes meid elutuks ja ümberpööratuks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "'Redi inimesed",
+        "Madjani rahvas",
+        "Thamudi rahvas",
+        "Saba rahvas",
+        "Luti rahvas"
+      ],
+      "answer": "Thamudi rahvas"
+    },
+    "trial": {
+      "label": "Mis oli meie peamine test?",
+      "options": [
+        "Laeva ehitamine veeuputuse üleelamiseks",
+        "Hingamispäeval kalapüügi kiusatusele vastu seismine",
+        "Petturlikest äritavadest loobumine",
+        "Imelise emase kaameli kaitsmine",
+        "Seitsmeaastane näljahäda"
+      ],
+      "answer": "Imelise emase kaameli kaitsmine"
+    },
+    "location": {
+      "label": "Mis oli meie loo keskne element?",
+      "options": [
+        "Kuldvasikas",
+        "Emane kaamel",
+        "Prohvet Musa sau",
+        "Ma'ribi suur tamm",
+        "Taevast laotatud laud"
+      ],
+      "answer": "Emane kaamel"
+    },
+    "outcome": {
+      "label": "Mis oli meie lõplik saatus?",
+      "options": [
+        "Uppus suures veeuputuses",
+        "Muutusid ahvideks ja sigadeks",
+        "Raevukas tuul on ülekoormatud",
+        "Hajutatud tammi lõhkemise poolt",
+        "Hävis võimsa plahvatuse/maavärina tagajärjel"
+      ],
+      "answer": "Hävis võimsa plahvatuse/maavärina tagajärjel"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

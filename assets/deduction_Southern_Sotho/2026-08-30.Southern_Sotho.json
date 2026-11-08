@@ -1,0 +1,61 @@
+{
+  "title": "Moea o Tšepahalang oa Tšenolo",
+  "intro": "Mafatsheng a sa bonahaleng, sebopuwa se nang le lesedi le hlwekileng se tsamaya ka ho nepahala, se phethahatsa taelo e nngwe le e nngwe ntle le ho qeaqea. Sebopuwa sena se buile le bahlanka ba kgethilweng, se tlisitse mantswe a tataiso, mme se bone ho phutholoha ha ditaelo tsa Modimo ho pholletsa le dilemo. Moya ona o hlomphehang ke mang?",
+  "clues": [
+    "Ke sebopuoa sa leseli le hloekileng, se bōpiloeng ka leseli, 'me ha ke e-so ka ke tlōle taelo leha e le 'ngoe ea Morena oa ka.",
+    "Ke tsamaea pakeng tsa maholimo le lefatše, ke theoha ka melao ea Mohau ea Phahameng ka ho Fetisisa.",
+    "Ke ile ka romeloa ho moroetsana ea hlomphehang sehalalelong, ka mo tsebisa mora ea hloekileng.",
+    "Ke 'na moea oa khalalelo, 'me ke tšehelitse moprofeta ea ileng a fuoa lipontšo tse hlakileng le Evangeli.",
+    "Ke fihlile lehaheng thabeng ho tla fana ka mantsoe a pele a pheta-pheto a neng a tla bolokoa ka ho sa feleng.",
+    "Ke 'na moea o tšepahalang, 'me ke 'na ea ileng a theola Quran pelong ea lenģosa la ho qetela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Jibril (Gabriele)",
+        "Mikail (Michael)",
+        "Lengeloi la Lefu",
+        "Malik (Mohlokomeli oa Lihele)",
+        "Harut (e mong oa mangeloi a mabeli Babylona)"
+      ],
+      "answer": "Jibril (Gabriele)"
+    },
+    "trial": {
+      "label": "Sepheo/Karolo ea Bohlokoa",
+      "options": [
+        "Ho fana ka tšenolo ho baprofeta",
+        "Ho letsa terompeta ka Letsatsi la Kahlolo",
+        "Ho lebela liheke tsa Lihele",
+        "Ho rekota liketso tsa batho",
+        "Ho etsa hore pula e na"
+      ],
+      "answer": "Ho fana ka tšenolo ho baprofeta"
+    },
+    "location": {
+      "label": "Tšobotsi ea Bohlokoa kapa Sehlooho",
+      "options": [
+        "Moea o Halalelang (Ruh al-Qudus)",
+        "Moea oa Matla",
+        "Moea oa Mohau",
+        "Moea oa Tataiso",
+        "Moea oa 'Nete"
+      ],
+      "answer": "Moea o Halalelang (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Sephetho sa Thomo",
+      "options": [
+        "Quran e ile ea senoleloa Moprofeta Muhammad",
+        "Terompeta e ile ea letsoa ka Letsatsi la Kahlolo",
+        "Lihele li ne li sirelelitsoe 'me liheke tsa tsona li ne li koetsoe",
+        "Buka ea Liketso e ile ea hlahisoa ho Allah",
+        "Pula e ile ea theoleloa lefatšeng"
+      ],
+      "answer": "Quran e ile ea senoleloa Moprofeta Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

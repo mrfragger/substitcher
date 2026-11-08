@@ -1,0 +1,61 @@
+{
+  "title": "La Prova de la Flama Sagrada",
+  "intro": "En una terra antiga on la devoció per la pedra tallada havia arrelat a totes les llars, un individu es va mantenir a part. Gràcies a una convicció inquebrantable i a la protecció divina, van afrontar el que hauria d'haver estat una mort segura, i van sortir il·lesos. Pots descobrir la identitat d'aquesta ànima extraordinària?",
+  "clues": [
+    "Vaig ser criat entre gent que s'inclinava davant d'ídols que havien esculpit amb les seves pròpies mans, creient que aquests objectes contenien poder diví.",
+    "Quan vaig qüestionar les seves creences, al principi em van rebutjar, però no vaig poder guardar silenci sobre la veritat que coneixia.",
+    "El dia que van ser reunits, vaig destruir els seus ídols, deixant només el més gran intacte.",
+    "Quan van tornar i van veure el que havia fet, els seus líders van ordenar que es construís una gran pira, amb la intenció de llançar-me a les flames.",
+    "Em van llançar al foc ardent, però el Senyor dels mons va ordenar que es refresqués i que fos segur per a mi.",
+    "Vaig sortir de les flames completament il·lès, mentre que els que van conspirar contra mi s'enfrontaven a la ruïna total."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Ibrahim",
+        "Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Isa",
+        "Profeta Iússuf"
+      ],
+      "answer": "Profeta Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ser llançat a un foc ardent",
+        "Ser engolit per una gran balena",
+        "Sobreviure a una gran inundació",
+        "Ser llançat a un pou profund",
+        "Enfrontant-se als mags d'un rei"
+      ],
+      "answer": "Ser llançat a un foc ardent"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una pira enorme de llenya cremant",
+        "Una gran arca de fusta",
+        "Una estàtua de vedell d'or",
+        "Una cistella flotant en un riu",
+        "Un tron ​​magnífic"
+      ],
+      "answer": "Una pira enorme de llenya cremant"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Al·là va fer que el foc fos fresc i segur",
+        "L'arca va aterrar sana i salva a una muntanya",
+        "L'ídol daurat es va fondre davant dels seus ulls",
+        "Un tirà i el seu exèrcit es van ofegar al mar",
+        "Un cec va recuperar la vista"
+      ],
+      "answer": "Al·là va fer que el foc fos fresc i segur"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

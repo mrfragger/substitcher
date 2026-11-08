@@ -1,0 +1,61 @@
+{
+  "title": "vuorten melodia hämärässä",
+  "intro": "Kuunnelkaa, kun laaksot kaikuvat ylistyksestä Allahin valitun palvelijan rinnalla. Melodialla varustettu ääni, kammiossa riitelevien etsimä tuomio ja jumalallisen käskyn pehmentämä metalli odottavat löytämistä. Mikä palvonnan ja oikeudenmukaisen hallinnon hahmo puhuu näiden merkkien kautta?",
+  "clues": [
+    "Allah siunasi minua runsaudella ja sointuvalla ylistysäänellä.",
+    "Allah opetti minua ymmärtämään oikeudenmukaisen tuomion kieltä riitelevien välillä.",
+    "Kohtasin taistelussa mahtavan jättiläissoturin ja Allahin tahdosta voitin heidät.",
+    "Minulle annettiin viisautta, auktoriteettia ja ilmoitettu psalmien kirja Allahilta.",
+    "Vuoret ja linnut liittyivät seuraani ylistämään Allahia kanssani illalla ja auringonnousun aikaan.",
+    "Allah opetti minua valmistamaan panssaripantoja raudasta, joka oli tehty minulle pehmeäksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Daavid",
+        "Profeetta Ismail (Ismael)",
+        "Profeetta Jahja (Johannes)",
+        "Dhul-Kifl",
+        "Profeetta Al-Yasa (Elisa)"
+      ],
+      "answer": "Profeetta Daavid"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Voitti Jalutin (Goljatin) taistelussa Allahin tahdosta",
+        "Rakensi arkin selviytyäkseen suuresta vedenpaisumuksesta",
+        "Heitettiin tuleen, jonka Allah jäähdytti",
+        "Suuri kala nielaisi meressä",
+        "Nousi taivaisiin maistamatta kuolemaa"
+      ],
+      "answer": "Voitti Jalutin (Goljatin) taistelussa Allahin tahdosta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Vuoret ja linnut ylistävät yhdessä Allahia",
+        "Sauva, joka muuttui käärmeeksi",
+        "Tuli, josta tuli viileä ja rauhallinen",
+        "Naaraskameli lähetettiin merkkinä ihmisille",
+        "Puinen arkki lepää Juudin vuorella"
+      ],
+      "answer": "Vuoret ja linnut ylistävät yhdessä Allahia"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Myönnettiin kuninkuus, viisautta ja Zabur (Psalmit)",
+        "Hartaan rukouksen jälkeen hänelle annettiin poika vanhalla iällä",
+        "Turvaa luolassa vuosien ajan",
+        "Myönnettiin Zamzamin lähde aavikolla",
+        "Armeijan hukkuminen mereen myönnetty"
+      ],
+      "answer": "Myönnettiin kuninkuus, viisautta ja Zabur (Psalmit)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

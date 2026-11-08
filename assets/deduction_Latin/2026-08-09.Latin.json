@@ -1,0 +1,61 @@
+{
+  "title": "Vox Verax Temporum Antiquorum",
+  "intro": "Est anima in Corano cuius historia paucis tantum versibus narratur, attamen nobiles eius qualitates claritate praeclara elucent. Ab Omnipotente ob virtutem singularem laudatus, hic antiquus servus Misericordissimi locum in paginis revelationis obtinet. Munus tuum est hanc personam insignem cognoscere. Potesne divinare qui sint?",
+  "clues": [
+    "Propheta Dei sum, qui inter primas hominum generationes vixi.",
+    "Allah me in Libro Suo una cum aliis prophetis commemoravit, omnibus ob eandem nobilis virtutem laudatis.",
+    "In Alcorano vir veracis describor.",
+    "Allah me ad gradum altum extulit quem pauci alii attigerunt.",
+    "Nomen meum in Surah Al-Anbiya commemoratur, cum duobus aliis prophetis ob patientiam suam laudatis coniunctum.",
+    "Ego sum Idris, propheta verax et excelsus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Idris propheta",
+        "Propheta Nuh",
+        "Propheta Ibrahim",
+        "Propheta Musa",
+        "Propheta Ismailus"
+      ],
+      "answer": "Idris propheta"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Patientiam et veritatem servans, deinde ad altum gradum evectus",
+        "Arcam magnam construens ad fideles a diluvio vastante servandos",
+        "In ignem ardentem coniectus et omnino incolumis egressus",
+        "Regem potentem aggrediens et exercitum magorum eius vincens",
+        "Superstes intra ventrem piscis magni in profundo maris"
+      ],
+      "answer": "Patientiam et veritatem servans, deinde ad altum gradum evectus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Alta et sublimis statio ab Allah",
+        "Navis ingens ex tabulis constructa et bitumine iuncta",
+        "Ignis furens ab idololatris regis impii incensus",
+        "Vastum mare quod in aridas vias divisum est",
+        "Venter obscurus magnae balaenae in fundo oceani"
+      ],
+      "answer": "Alta et sublimis statio ab Allah"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In misericordiam Dei admissus ut unus ex iustis",
+        "Servati una cum omnibus fidelibus a diluvio universali",
+        "Ex flammis intactus ab igne egressus est",
+        "Duxit filios Israel tuto ad libertatem trans mare",
+        "Post longos annos difficultatum cum dilectissima familia iterum coniuncti"
+      ],
+      "answer": "In misericordiam Dei admissus ut unus ex iustis"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

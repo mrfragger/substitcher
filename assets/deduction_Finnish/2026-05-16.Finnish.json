@@ -1,0 +1,61 @@
+{
+  "title": "Pelastuksen vakaa rakentaja",
+  "intro": "Tämä valtavan kärsivällinen ja horjumattoman vakaumuksen omaava henkilö omistautui lukemattomia vuosia jumalalliselle tehtävälle, kohdaten armotonta halveksuntaa ja torjuntaa. Heidän tarinansa on voimakas todiste uskosta musertavan epäuskon edessä, ja se huipentui merkittävään tapahtumaan, joka mullistaa maailman.",
+  "clues": [
+    "Omistin uskomattoman pitkän ajan elämästäni kutsumalla ihmisiä Allahin palvontaan.",
+    "Kansani pilkkasi minua ja syytti minua ilmeisestä erehdyksestä ja hulluudesta.",
+    "Minua käskettiin rakentamaan jotakin, mikä vaikutti epätavalliselta sisämaayhteisössäni.",
+    "Vain harvat uskoivat ja liittyivät minun ja perheeni seuraan tällä ainutlaatuisella rakennustyömaalla.",
+    "Kannoin kyytiin pareittain jokaista elävää olentoa, kuten Allah oli määrännyt.",
+    "Suuri tulva peitti maan, pelastaen vain ne, jotka olivat kanssani aluksessani, kun taas oma poikani menehtyi epäuskonsa tähden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Salih",
+        "Profeetta Hud",
+        "Profeetta Nooa",
+        "Profeetta Daavid",
+        "Profeetta Sulayman"
+      ],
+      "answer": "Profeetta Nooa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Maanjäristyksen aiheuttama tuho",
+        "Meren jakautuminen",
+        "Suuri tulva",
+        "Nimrodin tuli",
+        "Sammakoiden rutto"
+      ],
+      "answer": "Suuri tulva"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Palava pensas",
+        "Arkki",
+        "Veden kaivo",
+        "Kultainen vasikka",
+        "Turin vuori"
+      ],
+      "answer": "Arkki"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Sai valtakunnan",
+        "Hänen kansansa muuttui apinoiksi",
+        "Hänen kansansa pelastui ihmeen kaupalla",
+        "Hänen kansansa hukkui",
+        "Hänen kansaansa iski ukkonen"
+      ],
+      "answer": "Hänen kansansa hukkui"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

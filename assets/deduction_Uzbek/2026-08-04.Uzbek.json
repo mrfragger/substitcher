@@ -1,0 +1,61 @@
+{
+  "title": "Qoyalar orti aks-sadosi",
+  "intro": "Uylar jarliklardan o'yib ishlangan va havoda ogohlantirish xotirasi saqlanib qolgan vodiyni tasavvur qiling. Bir vaqtlar bu yerda bir xalq barakali, ammo itoatsiz bo'lib, o'zlari ishongan jarlikdan bir belgi paydo bo'lguncha gullab-yashnagan.",
+  "clues": [
+    "Biz tog'lardan xavfsiz uylar qurgan, toshloq uylarimizda o'zimizni xavfsiz his qilgan xalq edik.",
+    "Biz tekisliklar va toshloq yerda, bog'lar va buloqlarga boy joyda yashardik.",
+    "Oramizdan bir elchi kelib, bizni soxta xudolarimizdan voz kechishga va yagona haqiqiy Yaratguvchiga ibodat qilishga chaqirdi.",
+    "Biz mag'rurlik bilan e'tiqod uchun shart qo'ydik: biz o'ygan toshlardan paydo bo'ladigan noyob belgi.",
+    "Va'da qilingan urg'ochi tuya toshdan paydo bo'lganida, bu aniq belgi edi, ammo elitamiz yaqinlashib kelayotgan halokat haqidagi ogohlantirishga qaramay, baribir rad etdi va uning sonlarini kesib tashladi.",
+    "Bizning harakatimizdan uch kun o'tgach, vodiyda momaqaldiroq ovozi eshitildi va biz vayronagarchilikka, uylarimiz esa qabrlarga aylandik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Od qavmi",
+        "Samud qavmi",
+        "Madyan xalqi",
+        "Bog' aholisi",
+        "G'or ahli"
+      ],
+      "answer": "Samud qavmi"
+    },
+    "trial": {
+      "label": "Bizning sinov/asosiy tadbirimiz",
+      "options": [
+        "Allohning tuyasining son qismini kesishi",
+        "Oltin buzoqqa sig'inish",
+        "Shabbat kunining buzilishi",
+        "Osmonga minora qurish",
+        "Payg'ambarlarning o'ldirilishi"
+      ],
+      "answer": "Allohning tuyasining son qismini kesishi"
+    },
+    "location": {
+      "label": "Hikoyamizdagi asosiy element",
+      "options": [
+        "Allohning urg'ochi tuyasi",
+        "Musoning tayoqlari",
+        "Nuhning kemasi",
+        "Musoning oq qo'li",
+        "Iso qushi"
+      ],
+      "answer": "Allohning urg'ochi tuyasi"
+    },
+    "outcome": {
+      "label": "Bizning natijamiz",
+      "options": [
+        "Karni kar qiladigan portlash bilan vayron qilish",
+        "Osmondan yog'ayotgan toshlar",
+        "Yer yuzini qoplagan toshqin",
+        "Bizni ildizimizdan sug'urib tashlagan shiddatli shamol",
+        "Yer bizni yutib yuboradi"
+      ],
+      "answer": "Karni kar qiladigan portlash bilan vayron qilish"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

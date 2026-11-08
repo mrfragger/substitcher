@@ -1,0 +1,61 @@
+{
+  "title": "Rahvas, kes trotsis loomulikku korda",
+  "intro": "Piirkonnas, mille lugu kajab läbi aegade, elas üks kogukond avalikus mässus puhtuse seaduste vastu. Nende teod olid nii enneolematud, et neid mäletatakse hoiatusena kogu inimkonnale. Kes need hinged olid ja milline saatus neid tabas?",
+  "clues": [
+    "Me elasime maal, mille teed mööda rändurid sageli läbisid, aga me tegime nende teekonna ohtlikuks.",
+    "Me panime toime selliseid sündsusetuid tegusid, mida keegi maailmas varem polnud teinud.",
+    "Meie seast pärit sõnumitooja kutsus meid oma teedelt loobuma, aga me hülgasime ta ja nõudsime karistust, kui ta oleks tõene.",
+    "Kui meie linna saabusid nägusad külalised, püüdsime neid rünnata, teadmata, et nad on hävingu sõnumitoojad.",
+    "Meid hoiatati kohutava karistuse eest, kui me ei lõpetaks, aga meie pilkasime hoiatust ja jäime oma pattu.",
+    "Taevast sadas meile peale kivivihma ja meie kodud varisesid ümber, jättes maha vaid märgi neile, kes selle üle järele mõtlevad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Luti rahvas",
+        "Thamudi rahvas",
+        "A'adi rahvas",
+        "Madjani rahvas",
+        "Saba rahvas"
+      ],
+      "answer": "Luti rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Pani toime enneolematu ebamoraalsuse ja takistas teid",
+        "Kummardasid kuldvasikat",
+        "Tapis püha emase kaameli",
+        "Pettus kaubanduses ja pettis inimesi",
+        "Ehitas taevale väljakutse esitamiseks kõrge torni"
+      ],
+      "answer": "Pani toime enneolematu ebamoraalsuse ja takistas teid"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Inglid maskeerusid nägusateks külalisteks",
+        "Kaljult kerkiv emane kaamel",
+        "Personali muutumine maoks",
+        "Mäele ehitatud paat",
+        "Tuli, mis muutus jahedaks ja rahulikuks"
+      ],
+      "answer": "Inglid maskeerusid nägusateks külalisteks"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Hävitatud taevast langenud kivivihma poolt",
+        "Maa poolt neelatud",
+        "Uppus suures üleujutuses",
+        "Karjuva plahvatuse poolt tabatud",
+        "Muutunud ahvideks"
+      ],
+      "answer": "Hävitatud taevast langenud kivivihma poolt"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

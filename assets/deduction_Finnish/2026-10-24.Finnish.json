@@ -1,0 +1,61 @@
+{
+  "title": "Maan alla oleva varoitus",
+  "intro": "Kuvittele seisovasi syvän kaivannon vieressä, kun alhaalta kuuluu ääniä ja ylhäältä maailma hiljenee. Koraani säilyttää tämän kohtauksen varoituksena: yhteisö hylkää sanansaattajien tuoman, rangaistus lähestyy ja jopa sen jylinä tulee osaksi todistusta. Mikä yhteisö puhuu näiden jakeiden kautta?",
+  "clues": [
+    "Koraanissa meidät muistetaan kollektiivina, jota määrittelee yksi yhteinen kohtalo pikemminkin kuin yksilöllinen nimi.",
+    "Me hylkäsimme sanansaattajain tuoman sanoman, vaikka heidän puheensa oli totta.",
+    "Muistettu identiteettimme on sidottu syvään maan haavoittumaan, ja tästä piirteestä tuli osa nimeämme.",
+    "Määräpäivänä meidät kannoittiin ulos ja raahattiin kohti tulta.",
+    "Emme kyenneet puolustautumaan rangaistusta vastaan, emmekä kuulleet sen jylinää.",
+    "Kasvomme kääntyisivät tuleen ja meidät ajettaisiin siihen; kun meiltä kuului kuulumattomia, sanoisimme olevamme niiden joukossa, jotka eivät kyenneet vastaamaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Juoksuhaudan seuralaiset",
+        "Kansakunta pelastui suuresta vedenpaisumuksesta",
+        "Kultaisen vasikan palvojat",
+        "Ryhmä suojautui vuoriluolaan",
+        "Tulisesta pätsistä vapautettu yhteisö"
+      ],
+      "answer": "Juoksuhaudan seuralaiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Raahattiin ja heitettiin tuleen",
+        "Toimitettu tulisesta uunista",
+        "Kuljetettiin turvallisesti läpi suuren tulvan",
+        "Suojassa vuosisatojen ajan luolassa",
+        "Pelastettu kaivoon heittämisen jälkeen"
+      ],
+      "answer": "Raahattiin ja heitettiin tuleen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kaivanto tai kuoppa",
+        "Suuri meri",
+        "Vuoristoluola",
+        "Korkea palatsi",
+        "Aavikon kaivo"
+      ],
+      "answer": "Kaivanto tai kuoppa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Kykenemättömiä puolustamaan itseään eivätkä kuule Tulen jylinää",
+        "Pelastettu ja saanut pääsyn ikuisiin puutarhoihin",
+        "Turvallisesti toimitettu tuhoisan tulvan läpi",
+        "Pitkän luolan sisällä unen suojaamana",
+        "Kunnioitettu ikuisella valtakunnalla"
+      ],
+      "answer": "Kykenemättömiä puolustamaan itseään eivätkä kuule Tulen jylinää"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

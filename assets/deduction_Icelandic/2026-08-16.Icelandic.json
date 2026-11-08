@@ -1,0 +1,61 @@
+{
+  "title": "Þögla röddin í salnum",
+  "intro": "Bæn ómaði í kyrrð helgrar stofu fyrir löngu síðan, upprunnin frá öldruðum sál sem þráði það sem heimurinn hafði lýst ómögulegt. Þessi persóna, hnigin að aldri og þung af áhyggjum af framtíðinni, sneri sér til Drottins síns með persónulegri bæn. Það sem fylgdi í kjölfarið var guðlegt svar sem braut gegn öllum eðlilegum væntingum - vitnisburður um miskunn þess sem svarar örvæntingarfullu kalli.",
+  "clues": [
+    "Ég ákallaði Drottin minn í einrúmi og dró mig í svefnherbergi þar sem ég helgaði mig tilbeiðslu hans.",
+    "Ég játaði fyrir Drottni mínum að ég óttaðist um þá sem myndu koma á eftir mér, hefði áhyggjur af leiðsögn fólks míns þegar ég færi burt.",
+    "Elli hafði gripið mig — bein mín voru orðin veik og hvítt hár hafði breiðst út um höfuð mitt.",
+    "Maki minn hafði verið ófrjór alla sína ævi, en samt bað ég Drottin minn að veita mér erfingja úr sinni eigin návist.",
+    "Ég bað um tákn og Drottinn minn svaraði með því að koma í veg fyrir að ég talaði við neinn í þrjár nætur, meðan ég var líkamlega hraustur.",
+    "Mér var lofað syni sem skyldi heita Yahya, nafn sem Drottinn minn lýsti yfir að hefði aldrei verið gefið neinum áður."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Zakariya",
+        "Spámaðurinn Nuh",
+        "Spámaðurinn Músa",
+        "Spámaðurinn Jósef",
+        "Spámaðurinn Dawud"
+      ],
+      "answer": "Spámaðurinn Zakariya"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að biðja fyrir erfingja á efri árum með ófrjóum maka",
+        "Að vera kastað í logandi eld",
+        "Að vera gleyptur af stórum fiski í myrkri",
+        "Að þola missi fjölskyldu, auðs og heilsu",
+        "Að fá það fyrirmæli að smíða mikla örk"
+      ],
+      "answer": "Að biðja fyrir erfingja á efri árum með ófrjóum maka"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Bænaklefinn (mihrab)",
+        "Staf sem breyttist í höggorm",
+        "Stór örk úr tré",
+        "Garður með einstakri uppsprettu",
+        "Fjall þar sem fuglar söfnuðust saman"
+      ],
+      "answer": "Bænaklefinn (mihrab)"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Fékk son sem fékk undraverða nafn þrátt fyrir mikinn aldur",
+        "Bjargað úr logandi eldi með guðlegri skipun",
+        "Mikil flóð eyddi vantrúuðum",
+        "Endurheimti fjölskyldu, auð og heilsu eftir þolinmæði",
+        "Faraó og her hans drukknuðu í sjónum"
+      ],
+      "answer": "Fékk son sem fékk undraverða nafn þrátt fyrir mikinn aldur"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

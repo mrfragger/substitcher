@@ -1,0 +1,61 @@
+{
+  "title": "Sen sprawiedliwych",
+  "intro": "W czasach, gdy wiara była niebezpieczna, a potężni dążyli do jej zniszczenia, niewielka grupa młodych dusz dokonała wyboru, który miał rozbrzmiewać echem przez wieki. Uciekając od wszystkiego, co znali, szukali schronienia w ukrytej ciemności góry i całkowicie zaufali Allahowi. To, co wydarzyło się później, miało stać się ponadczasowym znakiem dla tych, którzy się nad tym zastanawiają.",
+  "clues": [
+    "Byliśmy grupą młodych ludzi, którzy uwierzyli w naszego Pana, a On pomnażał nasze przewodnictwo.",
+    "Stanęliśmy przed naszym ludem i oświadczyliśmy, że nigdy nie będziemy wzywać żadnego bóstwa poza Allahem.",
+    "Szukaliśmy schronienia w jaskini i prosiliśmy: „Panie nasz, obdarz nas swoim miłosierdziem i prowadź nas właściwie w naszych sprawach”.",
+    "Spaliśmy przez wiele lat, a słońce chowało się od naszej jaskini i nie dotykało nas.",
+    "Nasz pies leżał wyciągnięty przy wejściu do jaskini, pilnując nas, jakby pełnił wartę.",
+    "Gdy się obudziliśmy, zastanawialiśmy się, jak długo już tu jesteśmy, a jeden z nas został wysłany ze srebrnymi monetami, aby kupić jedzenie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie jaskini",
+        "Ludzie z Okopu",
+        "Ludzie szabatu",
+        "Ludzie Słonia",
+        "Towarzysze Lasu"
+      ],
+      "answer": "Ludzie jaskini"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Uciekli do jaskini, aby uniknąć prześladowań za wiarę",
+        "Zniszczony przez gwałtowny wiatr",
+        "Pochłonięty przez ziemię",
+        "Utonął w morzu",
+        "Uderzony burzą kamieni"
+      ],
+      "answer": "Uciekli do jaskini, aby uniknąć prześladowań za wiarę"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Pies pilnujący wejścia do jaskini",
+        "Wielka arka",
+        "Laska, która zamieniła się w węża",
+        "Ptak dudek",
+        "Złoty cielec"
+      ],
+      "answer": "Pies pilnujący wejścia do jaskini"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pozostali w jaskini przez 309 lat, a następnie zostali wyniesieni na górę jako znak",
+        "Zostali zamienieni w małpy",
+        "Zniszczyła je powódź",
+        "Zostali zmuszeni do przepłynięcia morza",
+        "Dano im królestwo"
+      ],
+      "answer": "Pozostali w jaskini przez 309 lat, a następnie zostali wyniesieni na górę jako znak"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

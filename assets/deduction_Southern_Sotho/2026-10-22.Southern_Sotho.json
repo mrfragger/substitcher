@@ -1,0 +1,61 @@
+{
+  "title": "Sechaba sa Tlōlo ea Pele ea Molao",
+  "intro": "Naheng ea metse ea boholo-holo, batho ba kile ba atleha. Ba ne ba eteloa ke lenģosa le nang le pitso e hlakileng, empa ba ile ba furalla 'me ba phehella tsela eo ho seng motho ea kileng a e tsamaea. Pale ea bona ke ea ho se mamele, ho se tšepahale, le kotlo e ileng ea tloha naheng ea habo bona e le pontšo bakeng sa bohle ba nahanang. Meea ena ke bo-mang?",
+  "clues": [
+    "Re ne re lula metseng e ka thoko, moo moprofeta oa rona a neng a re bitsetsa ho lokeng.",
+    "Re bile ba pele ho etsa ketso e manyala eo ho seng motho lefatšeng lohle ea kileng a e etsa pele.",
+    "Re ne re thiba batsamai 'me re etsa bobe phatlalatsa libokeng tsa rona.",
+    "Re ile ra hana lenqosa le rometsweng ho rona mme ra tshosetsa ho le leleka naheng ya rona.",
+    "Re ile ra potlakela ntlong ea hae ra mo kopa hore a re nehele baeti ba hae.",
+    "Kotlo ea rona e bile pula ea majoe, 'me motse oa rona o ile oa heletsoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Batho ba Lute",
+        "Batho ba Nuh",
+        "Batho ba 'Ad",
+        "Batho ba Thamud",
+        "Batho ba Madyan"
+      ],
+      "answer": "Batho ba Lute"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O entse ketso ea pele ea bosodoma",
+        "Litšoantšo tse rapeloang",
+        "Ho qhekelloa khoebong",
+        "Ba bolaile baprofeta ba bona",
+        "Ba ile ba se mamele batsoali ba bona"
+      ],
+      "answer": "O entse ketso ea pele ea bosodoma"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Motse oa thota",
+        "Motse oa seliba",
+        "Motse oa foro",
+        "Motse oa tlou",
+        "Motse oa serapa"
+      ],
+      "answer": "Motse oa thota"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Pula ka majoe 'me ea phethola",
+        "Ho khangoa ke moroallo",
+        "E sentsoe ke moea o matla",
+        "E metsoa ke lefats'e",
+        "Ke otliloe ke molumo o moholo"
+      ],
+      "answer": "Pula ka majoe 'me ea phethola"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

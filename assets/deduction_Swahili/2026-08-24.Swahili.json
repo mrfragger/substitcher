@@ -1,0 +1,61 @@
+{
+  "title": "Wasikilizaji Waliofichwa Walioamini",
+  "intro": "Katika ukimya wa mkusanyiko mtakatifu, mkutano wa ajabu ulifika kutoka katika ulimwengu usioonekana. Wakivutiwa na minong'ono ya kitu cha ajabu, walisikiliza kisomo ambacho kingefunga hatima yao milele. Ushuhuda wao unabaki kuwa mmoja wa wa kipekee zaidi katika maandiko matakatifu.",
+  "clues": [
+    "Sisi ni viumbe kutoka ulimwengu usioonekana na wengi, na tulikuja kama kundi.",
+    "Tulisafiri kuelekea kwenye mkusanyiko ili kusikia jambo la ajabu.",
+    "Tulipofika, tulisikiliza kisomo kilichotushangaza.",
+    "Tulikiri waziwazi kwamba baadhi yetu ni waadilifu na wengine si waadilifu.",
+    "Tulijua hatungeweza kuepuka amri ya Mungu duniani, wala kwa kukimbia angani.",
+    "Tuliposikia mwongozo, tuliuamini; yeyote anayemwamini Mola wake hataogopa hasara au mzigo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Kundi la Majini",
+        "Watu wa Iram",
+        "Watu wa Tubba'",
+        "Milki ya Kirumi",
+        "Kabila la Quraysh"
+      ],
+      "answer": "Kundi la Majini"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kusikiliza kisomo kitakatifu",
+        "Kujenga nguzo ndefu katika jiji letu",
+        "Kuwinda ngamia jike mzuri sana",
+        "Kuangamizwa kwa kuwaua manabii wetu",
+        "Kuzidisha utajiri kupita kiasi"
+      ],
+      "answer": "Kusikiliza kisomo kitakatifu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mkusanyiko wa kisomo kitakatifu",
+        "Mji wa nguzo ndefu (Iram)",
+        "Kisima jangwani",
+        "Jumba kubwa la dhahabu",
+        "Pango takatifu milimani"
+      ],
+      "answer": "Mkusanyiko wa kisomo kitakatifu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Tuliamini na kuwaonya watu wetu",
+        "Imeharibiwa na mlipuko mkubwa kutoka angani",
+        "Kuadhibiwa na upepo mkali na uharibifu",
+        "Imepewa utajiri na nguvu nyingi",
+        "Alibaki imara katika kutoamini"
+      ],
+      "answer": "Tuliamini na kuwaonya watu wetu"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

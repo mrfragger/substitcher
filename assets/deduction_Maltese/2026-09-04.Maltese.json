@@ -1,0 +1,61 @@
+{
+  "title": "Il-Melodija li Mexxiet il-Muntanji",
+  "intro": "Int se tiskopri l-istorja ta’ qaddej notevoli ta’ Alla. F’art ta’ messaġġiera u ħakkiema, din il-figura kienet imbierka b’ktieb divin, vuċi qawwija, u saħħa fuq il-ħadid. Hekk kif taqra l-ħjiel, tista’ tidentifika min jista’ jkun dan?",
+  "clues": [
+    "Jiena kont qaddej ta' Alla li ngħatajt ktieb speċjali.",
+    "Kelli leħen sabiħ, u t-tifħir tiegħi kien tant maħbub li anke l-għoljiet u l-għasafar ingħaqdu miegħi.",
+    "Iffaċċjajt avversarju formidabbli f'battalja famuża, u minkejja li kont iżgħar, irbaħt.",
+    "Il-ħadid sar flessibbli għalija, u b'hekk stajt nagħmel armatura b'idejja stess.",
+    "Jien sirt ħakkiem fuq ġens kbir, u l-għerf tiegħi fil-ġudizzju kien magħruf.",
+    "Ibni, li wkoll huwa profeta, ingħata kontroll fuq ir-riħ u l-ġinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Dawud (David)",
+        "Il-Profeta Sulaiman (Salomon)",
+        "Il-Profeta Musa (Mosè)",
+        "Il-Profeta Harun (Aron)",
+        "Profeta Ilyas (Elija)"
+      ],
+      "answer": "Il-Profeta Dawud (David)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Għeleb lil Golija (Jalut)",
+        "Qasmet il-baħar",
+        "Baqa' ħaj wara l-baliena",
+        "Intfa’ fin-nar",
+        "Bniet l-Arka"
+      ],
+      "answer": "Għeleb lil Golija (Jalut)"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Iż-Zabur (Salmi)",
+        "It-Torah (Tawrat)",
+        "L-Evanġelju (Injil)",
+        "Ir-Rombli ta’ Ibrahim",
+        "Il-Koran"
+      ],
+      "answer": "Iż-Zabur (Salmi)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Sar profeta u sultan ta’ Iżrael",
+        "Sar il-ħakkiem tal-Eġittu",
+        "Ttella’ sas-smewwiet",
+        "Inqered minn maltempata",
+        "Sar sieħeb tal-għar"
+      ],
+      "answer": "Sar profeta u sultan ta’ Iżrael"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

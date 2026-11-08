@@ -1,0 +1,61 @@
+{
+  "title": "A rejtett hívő",
+  "intro": "A hatalom fényűző csarnokaiban, ahol hitetlenség és zsarnokság uralkodott, egy magányos igazság hangja szólalt meg váratlan helyről. Ez az alak szembeszállt a hatalommal, hogy megvédje a hírvivőt, saját biztonságát kockáztatva az igazság hirdetése érdekében.",
+  "clues": [
+    "Egy nagy zsarnokság földjén éltem, egy olyan uralkodót szolgálva, aki isteninek vallotta magát.",
+    "Évekig titokban tartottam az igaz meggyőződéseimet, félve a felfedésük következményeitől.",
+    "Amikor egy hírvivő egyértelmű jelekkel érkezett, én hittem, de népem összeesküdött ellene.",
+    "A zsarnok és tanácsa előtt álltam, és amellett érveltem, hogy nem szabad megölniük egy ártatlan hírvivőt.",
+    "Figyelmeztettem őket a múltbeli nemzetek büntetésére, akik elutasították az igazságot, mint például Noé és Kr. u. népe.",
+    "Allah megmentett engem gonosz terveiktől, és tanúja voltam az elnyomó rezsim bukásának."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A fáraó családjának hívője",
+        "A fáraó varázslója",
+        "A fáraó vezírje",
+        "A fáraó felesége",
+        "A fáraó kincstárnoka"
+      ],
+      "answer": "A fáraó családjának hívője"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy próféta védelme a kivégzés ellen",
+        "Egy bűvész trükkjeinek kihívása",
+        "Tornyot építeni, hogy elérje az eget",
+        "A tenger kettéválasztása a menekülés kedvéért",
+        "Egy király álmának értelmezése"
+      ],
+      "answer": "Egy próféta védelme a kivégzés ellen"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A fáraó udvara",
+        "Az égő csipkebokor",
+        "Az aranyborjú",
+        "A Madyan kútja",
+        "Nuh próféta ládája"
+      ],
+      "answer": "A fáraó udvara"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megmentve a bajtól, miközben az elnyomókat elpusztították",
+        "Hatalmas uralkodóvá vált",
+        "Tűzbe dobták, és sértetlenül kijött",
+        "Elnyelte a föld",
+        "Negyven évig vándorolt ​​a pusztában"
+      ],
+      "answer": "Megmentve a bajtól, miközben az elnyomókat elpusztították"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

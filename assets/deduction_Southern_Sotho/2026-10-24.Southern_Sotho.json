@@ -1,0 +1,61 @@
+{
+  "title": "Temoso e Tlas'a Lefatše",
+  "intro": "Ak'u nahane u eme pela ho epolloa ho tebileng ha mantsoe a nyoloha ho tsoa tlase 'me lefats'e le holimo le khutsa. Korane e boloka ketsahalo ena e le temoso: sechaba se hana seo manģosa a se tlisang, kotlo ea koala, 'me esita le mohoo oa sona o fetoha karolo ea bopaki. Ke sehlopha sefe se buang ka litemana tseo?",
+  "clues": [
+    "Re hopoloa Koraneng e le sehlopha se hlalosoang ke qetello e le 'ngoe e arolelanoang ho fapana le lebitso la motho ka mong.",
+    "Re ile ra hana molaetsa o tlisitsoeng ke baromuoa, leha seo ba se buileng e ne e le 'nete.",
+    "Botho ba rona bo hopolwang bo tlameletsoe le lekhalo le tebileng lefatšeng, 'me tšobotsi eo e ile ea fetoha karolo ea lebitso la rona.",
+    "Ka letsatsi le behiloeng, re ile ra ntšetsoa kantle 'me ra huleloa mollong.",
+    "Re ne re sa khone ho itšireletsa khahlanong le kotlo, 'me re ne re sa khone ho utloa modumo oa eona.",
+    "Lifahleho tsa rona li ne li tla reteleha mollong, 'me re ne re tla khanneloa ho oona; ha re botsoa, ​​re ne re tla re re har'a ba neng ba sa khone ho araba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Metsoalle ea Foromo",
+        "Sechaba se Lopolloa Moroallong o Moholo",
+        "Barapeli ba Namane ea Khauta",
+        "Sehlopha se Sirelelitsoe ka Hare ho Lehaha la Thaba",
+        "Sechaba se Lopolloa Sebōping sa Mollo"
+      ],
+      "answer": "Metsoalle ea Foromo"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho hulwa le ho lahleloa mollong",
+        "O lopolotsoe sebōping sa mollo",
+        "Ho pholosoa ka polokeho moroallong o moholo",
+        "E sirelelitsoe ka makholo a lilemo ka har'a lehaheng",
+        "O pholositsoe ka mor'a ho lahleloa ka selibeng"
+      ],
+      "answer": "Ho hulwa le ho lahleloa mollong"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Foromo kapa mokoti",
+        "Leoatle le leholo",
+        "Lehaha la thaba",
+        "Ntlo ea borena e phahameng",
+        "Seliba sa lehoatata"
+      ],
+      "answer": "Foromo kapa mokoti"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Ha ba khone ho itšireletsa 'me ha ba khone ho utloa molumo oa Mollo",
+        "Ho pholosoa le ho fuoa monyetla oa ho kena lirapeng tsa ka ho sa feleng",
+        "Ho pholosoa ka polokeho moroallong o senyang",
+        "E sirelelitsoe ke boroko bo bolelele ka hare ho lehaha",
+        "E hlomphuoa ka 'muso o sa feleng"
+      ],
+      "answer": "Ha ba khone ho itšireletsa 'me ha ba khone ho utloa molumo oa Mollo"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

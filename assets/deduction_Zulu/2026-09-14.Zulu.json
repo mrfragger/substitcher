@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Lokuhlakanipha Ezithunzini",
+  "intro": "Umuntu wasendulo, owaziwa ngokuqonda okujulile, ukhuluma nawe emakhulwini eminyaka. Lo muntu akazange azisho ukuthi ungumprofethi, kodwa ukuhlakanipha kwaphezulu kwageleza emazwini akhe. Njengomzali oshiye ifa elingunaphakade lesiqondiso, iseluleko sakhe sisalokhu sigcinwe ezinhliziyweni zezigidi zabantu, siphindaphindwa futhi sicatshangelwe kuze kube namuhla.",
+  "clues": [
+    "Ngathola isipho saphezulu esangihlukanisa - ukuhlakanipha okujulile kangangokuthi kwaba uphawu lwami oluchazayo kuwo wonke umlando.",
+    "Ngangingesona isithunywa noma ingelosi - umphefumulo nje obusiswe ngokuqonda okujulile kanye nokuqonda umhlaba.",
+    "Ubuhlobo bami obuseduze kakhulu babuphakathi kwengane yami, futhi ngalesi sibopho, umyalezo wami ohlala isikhathi eside wathunyelwa.",
+    "Nganxusa ukubonga kuLowo onginike konke, futhi ngaxwayisa ngokuqhosha nokuzikhukhumeza.",
+    "Ngafundisa ngesisindo sezenzo ngisho nembewu yesinaphi, kanye nokubaluleka kokwehlisa izwi lakho ngokuthobeka.",
+    "Isahluko e-Quran sinegama lami, lapho iseluleko sami endodaneni yami ethandekayo sigcinwa khona kuze kube phakade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "ULuqman Ohlakaniphile",
+        "UDhul-Kifl Ozinikele",
+        "UKhidr Umzulazuli Ohlakaniphile",
+        "UHarut Ingelosi EBabele",
+        "UMarut Ingelosi EBabele"
+      ],
+      "answer": "ULuqman Ohlakaniphile"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlolwa ngesineke ngenxa yokugula",
+        "Ukunikeza ukuhlakanipha nokweluleka ingane yakho",
+        "Ukuphonswa emlilweni omkhulu",
+        "Ukuphakanyiswa ezulwini bephila",
+        "Ukwakha umkhumbi omkhulu ukuze ubalekele ukubhujiswa"
+      ],
+      "answer": "Ukunikeza ukuhlakanipha nokweluleka ingane yakho"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Indlu engcwele yokukhulekela",
+        "Intonga eyaba yinyoka",
+        "Amazwi okuhlakanipha okungaphelelwa yisikhathi aqondiswe endodaneni yomuntu",
+        "Isihlalo sobukhosi esihle kakhulu sengilazi",
+        "Ingadi inqotshwe yincithakalo"
+      ],
+      "answer": "Amazwi okuhlakanipha okungaphelelwa yisikhathi aqondiswe endodaneni yomuntu"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukuhlakanipha okunikezwe futhi wayala ukubonga ku-Allah",
+        "Waba umbusi wamajini, abantu, nomoya",
+        "Wanyuselwa ezulwini ephila",
+        "Wagwinywa umkhomo omkhulu waphuma evuselelwe",
+        "Abafowethu abanomona baphonswe emthonjeni"
+      ],
+      "answer": "Ukuhlakanipha okunikezwe futhi wayala ukubonga ku-Allah"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Shikoyat shovqin ustida eshitildi",
+  "intro": "Zulm odatiy holga aylangan jamiyatdan ko'tarilayotgan ovozni eshitasiz. Hech qanday kuch namoyishi shikoyatga javob bermaydi; buning o'rniga to'g'ridan-to'g'ri murojaat Allohga yetib boradi va javob ibodatning o'ziga ta'sir qiladi. Bu shikoyatni kim aytdi, qanday savol tug'ildi va qaysi haqiqat tasdiqlandi?",
+  "clues": [
+    "Atrofimdagi odamlarning zulmi meni bezovta qila boshladi.",
+    "Men bu shikoyatimni to'g'ridan-to'g'ri Allohga shaxsiy shikoyatimda bildirdim.",
+    "Alloh shikoyatimni eshitdi va o'z e'tiqodim borasida menga e'tiroz bildirdi.",
+    "Javobda mendan qanday qilib yagona va oliy zot bo'lgan Allohga ishonmasligim mumkinligi so'ralgan.",
+    "Keyin men nima uchun Alloh kofir bo'lgan qavmga marhamat qilishi kerak, deb so'radim.",
+    "Men Uzayrman, Zuxruf surasida Alloh shikoyatimni eshitgan deb ism qo'yilganman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Uzair",
+        "Buyuk to'fonda suzib ketgan hamroh",
+        "Suv ustida yurgan xizmatkor",
+        "Uxlab yotgan kishi g'or ichida himoyalangan",
+        "Daryoga tosh olib kelgan xizmatkor"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Odamlarga qilingan zulm haqida Allohga shikoyat qilish",
+        "Bo'ron paytida suv ustida yurish",
+        "Suvsiz daryoga toshlar tashish",
+        "Kemada katta suv toshqinidan suzib o'tish",
+        "Ulkan xazina kalitini olish"
+      ],
+      "answer": "Odamlarga qilingan zulm haqida Allohga shikoyat qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Allohga qaratilgan to'g'ridan-to'g'ri shikoyat",
+        "Ilonga aylangan tayoq",
+        "Salqin va osoyishta pech",
+        "To'fon suvlari ustida suzib yurgan kema",
+        "Baliq xizmatkorni yutib yubormoqda"
+      ],
+      "answer": "Allohga qaratilgan to'g'ridan-to'g'ri shikoyat"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Alloh shikoyatni eshitdi va ilohiy birlik va oliy hukmdorlikni tasdiqladi",
+        "Bo'ron paytida suv ustida xavfsiz yurish",
+        "Kemada katta to'fondan xavfsiz o'tish",
+        "Takabburlik saroyida qayta ko'rinish",
+        "Sharqdan G'arbgacha cho'zilgan hukmronlikni qo'lga kiritish"
+      ],
+      "answer": "Alloh shikoyatni eshitdi va ilohiy birlik va oliy hukmdorlikni tasdiqladi"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

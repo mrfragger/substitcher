@@ -1,0 +1,61 @@
+{
+  "title": "Obsa gadda caalu",
+  "intro": "Jaarsa obsi isaa sheekkoo ta’e, mul’anni isaa gadda irraa kan hafe, ammas karoora waaqummaa irratti amantiin isaa gonkumaa hin raafamne. Namni dhuunfaa kun ilmaan dhiiraa kudha lama gara bu’uura gosootaatti guddachuu isaanii ilaalee, mucaa baay’ee jaallatamu tokko dhabuu dhukkubsataa ta’e, gadda humnaa ol ta’e keessattis mallattoo obsa bareedaa yeroo hin qabne ta’e. Lubbuu kabajamtuu seenaan ishee fuula mul’ata qaxxaamuree himame. Lakkoofsa kana Qur'aana irraa adda baasuu dandeessaa?",
+  "clues": [
+    "Ani raajii seenaan isaa suuraa guddaa Qur'aana tokko keessatti bal'inaan himame ture.",
+    "Ijoollee dhiiraa kudha lama qabadheen ture, isaanis gosoota Bani Israa’el kan ta’an.",
+    "Ilmaan koo akka saba tokkootti akka hin beekamneef karra adda addaatiin akka seenan itti hime.",
+    "Mucaa jaallatamaa narraa fudhatame irratti boo’icha addaan hin cinne irraa kan ka’e ijji koo adii ta’e.",
+    "Ijoolleen kiyya kaan Rabbiin qofaan himadha jedhanii yeroo na kakaasanillee abdii kutachuu dide.",
+    "Ani abbaa nabi Yuusuf, maqaan isaa iyyuu afaan Arabaatiin 'the augmenter' jechuudha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Yaaqub (Yaaqoob) .",
+        "Nabi Yuusuf",
+        "Nabi Ibraahim",
+        "Nabi Muusaa",
+        "Nabi Daawud"
+      ],
+      "answer": "Nabi Yaaqub (Yaaqoob) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ilma jaallatamaa boolla bishaanii tokkotti dhabuu",
+        "Lolaa guddaa ummata guutuu liqimse",
+        "Mootummaa ibidda waaqeffatu irraa godaansa",
+        "Wal dura dhaabbannaa abbaa irree jabaa Gibxii waliin uumame",
+        "Baqannaa gara garaa qurxummii galaanaa"
+      ],
+      "answer": "Ilma jaallatamaa boolla bishaanii tokkotti dhabuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Qamisa dhiiga sobaan faalame",
+        "Ulee gara bofaatti jijjiirame",
+        "Taabotni gaara irratti ijaarame",
+        "Gaala dubaraa dhagaa irraa bocame",
+        "Re'ee warqee"
+      ],
+      "answer": "Qamisa dhiiga sobaan faalame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Qamisa ilma jaallatamaa fuula irra kaa'amuun ijaan deebi'e",
+        "Fayyina erga garaa qurxummii guddaa tokkotti gatamee booda",
+        "Maqaa Khalilullah jedhu Rabbiin irraa argachuu",
+        "Ummata garbummaa jalaa bilisa bahe waliin galaana qaxxaamuruu",
+        "Bokkaa lolaa booda akka mallattoo abdiitti mul'achaa jiru"
+      ],
+      "answer": "Qamisa ilma jaallatamaa fuula irra kaa'amuun ijaan deebi'e"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Riidan siemen",
+  "intro": "Ennen kuin maailma koki laajalle levinneitä konflikteja, uskoa ja kuuliaisuutta koetellaan syvällä tavalla. Tämä kertomus tutkii yksilön tekemiä valintoja, joiden teot luovat ennakkotapauksen tuleville sukupolville. Valmistaudu selvittämään tarina sielusta, joka kamppailee valtavan mustasukkaisuuden ja sen tuhoisien seurausten kanssa.",
+  "clues": [
+    "Olin ensimmäisten maan päällä vaeltaneiden jälkeläisten joukossa, aivan ensimmäisen ihmisparin lapsi.",
+    "Minut ja veljeäni käskettiin uhraamaan uhri Allahille, vilpittömyytemme koettelemiseksi.",
+    "Minun uhriani ei hyväksytty, kun taas veljeni uhria hyväksyttiin, mikä täytti sydämeni kauhealla tunteella.",
+    "Sanoin uhkaavia sanoja veljelleni, torjunnan katkeruuden ajamana.",
+    "Veljeni vastasi viisaasti ja hurskaasti muistuttaen minua Allahin oikeudenmukaisuudesta ja Hänen pelostaan.",
+    "Veljeni lempeistä sanoista ja hänen halukkuudestaan ​​antaa anteeksi huolimatta otin toisen hengen ja minusta tuli yksi häviäjistä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Aadam",
+        "Iblis",
+        "Profeetta Nooa",
+        "Qabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri tulva",
+        "Meren jakautuminen",
+        "Kaaban rakentaminen",
+        "Uhrien uhraaminen",
+        "Kiusaus puutarhassa"
+      ],
+      "answer": "Uhrien uhraaminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Safan vuori",
+        "Uhri",
+        "Palava pensas"
+      ],
+      "answer": "Uhri"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli sanansaattajaksi",
+        "Hukkui",
+        "Rakensi suuren valtakunnan",
+        "Tuli esimerkki katumuksesta",
+        "Myönnettiin valtava rikkaus"
+      ],
+      "answer": "Tuli esimerkki katumuksesta"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

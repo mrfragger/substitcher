@@ -1,0 +1,61 @@
+{
+  "title": "Dhugaa Mana Murtii Callise",
+  "intro": "Masaraa mootummaa haaluun bulchaa fi aangoo guutuu ta’e keessatti, walga’iin ogeeyyii ogummaa qaban qormaata hin eegamne fuuldura dhaabbate. Daandiin sobaa fi dhugaa lamaan walitti bu’uuf yeroo jedhan qilleensi eegaadhaan ni qaqawweessa. Warri walitti qabaman wal arguun kun jireenya isaanii bara baraan akka jijjiiree fi seenaa isaanii barreeffama qulqulluu keessatti akka barreessu hin beekan turan.",
+  "clues": [
+    "Ogummaa fakkeessaa hojjechuudhaan kan beekamnu siʼa taʼu, bulchaa humna guddaa qabuun nama dorgomaa taʼe tokko fuuldura dhaabbachuuf walitti qabamna turre.",
+    "Yeroon sun yeroo ga’u meeshaalee keenya darbannee bu’aa isaa eegnee, ogummaa keenyatti ofitti amanamummaa qabna turre.",
+    "Garuu wanti nuti argine meeshaaleen ofii keenyaa meeshaa taphaa qofa fakkeessee, onneen keenyas dhugaa hin haalamne hubate.",
+    "Gooftaa Musee fi Aaroonitti amanuu keenya labsinee, dheekkamsa bulchaa utuu jiruu, sujuuduudhaan lafatti kufne.",
+    "Bulchaan sun adabbii gara jabeessa ta’een nu doorsise, nu fannisuufi qaama keenya karaa faallaa ta’een akka muruuf dhaadate.",
+    "Bu’aa addunyaa kamiyyuu caalaa murtii Gooftaa keenyaa filanna jennee jabaannee, amantii keenyaaf wareegamne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Falfaltoota Fara'oon",
+        "Ummata Holqa",
+        "Sahaaba Mukaa",
+        "Duuka Buutonni Isa",
+        "Ummata Qeerroo"
+      ],
+      "answer": "Falfaltoota Fara'oon"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Dorgommii falfalaa Muusaa irratti",
+        "Ibiddi isaan irratti darbatame",
+        "Lolaan isaan liqimse",
+        "Gogiinsa fi beela",
+        "Kirkira lafaa"
+      ],
+      "answer": "Dorgommii falfalaa Muusaa irratti"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Ulee fi funyoo gara bofaatti jijjiirame",
+        "Bosona gubaa jiru",
+        "Gaala dubaraa",
+        "Taabota mukaa irraa hojjetame",
+        "Whale jedhamu tokko"
+      ],
+      "answer": "Ulee fi funyoo gara bofaatti jijjiirame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Amantiidhaaf ajjeefame, Jannata abdachiifame",
+        "Galaana keessatti liqimfame",
+        "Bulchitoota Gibxii ta'an",
+        "Hordoftoota Fara'oon ta'anii hafan",
+        "Lafa dhaale"
+      ],
+      "answer": "Amantiidhaaf ajjeefame, Jannata abdachiifame"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

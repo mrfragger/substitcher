@@ -1,0 +1,61 @@
+{
+  "title": "O Sacrifício Voluntário",
+  "intro": "Em tempos de provas divinas, uma alma foi chamada ao ato supremo de submissão. Criada em uma terra árida, essa figura cresceu e se tornou a personificação da fé e da paciência. Quando uma visão exigiu um sacrifício, ela não hesitou. Sua história é um pilar da devoção.",
+  "clues": [
+    "Eu fui a resposta a uma oração há muito esperada de um grande profeta.",
+    "Minha mãe e eu fomos deixadas em um vale desolado com apenas tâmaras e água como provisão.",
+    "Cresci e me tornei um profeta conhecido por minha sinceridade e paciência.",
+    "Ajudei meu pai a erguer os alicerces de uma casa sagrada dedicada a Alá.",
+    "Quando meu pai me contou sobre um sonho em que me sacrificava, eu respondi: 'Faça como lhe foi ordenado.'",
+    "Alá honrou minha submissão enviando um carneiro do céu para me resgatar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Ismael",
+        "Profeta Ishaq",
+        "Profeta Ya'qub",
+        "Profeta Ibrahim",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Ismael"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Submeter-se voluntariamente ao sacrifício",
+        "Ser atirado em um fogo ardente.",
+        "Ser engolido por um peixe enorme",
+        "Ser vendido como escravo",
+        "Ser diagnosticado com uma doença grave"
+      ],
+      "answer": "Submeter-se voluntariamente ao sacrifício"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Poço de Zamzam",
+        "A Arca de Noé",
+        "O Fogo de Ninrode",
+        "O Bezerro de Ouro",
+        "O Cajado de Musa"
+      ],
+      "answer": "Poço de Zamzam"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Foi resgatado com um grande carneiro",
+        "Foi salvo do incêndio.",
+        "Foi salvo da enchente",
+        "Foi retirado da baleia",
+        "Foi-lhe concedido um reino e sabedoria."
+      ],
+      "answer": "Foi resgatado com um grande carneiro"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

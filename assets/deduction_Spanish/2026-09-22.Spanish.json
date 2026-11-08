@@ -1,0 +1,61 @@
+{
+  "title": "Los constructores de los altos pilares",
+  "intro": "Te encuentras ante las ruinas de una majestuosa ciudad antigua, cuyas altas columnas ahora están caídas. El viento aúlla por las calles vacías, trayendo consigo el recuerdo de un pueblo poderoso que antaño gobernó estas tierras. ¿Quiénes eran?",
+  "clues": [
+    "Éramos un pueblo de inmensa fuerza y ​​habilidad, conocido por nuestros magníficos edificios y nuestra avanzada civilización.",
+    "Vivíamos en una tierra de dunas de arena y colinas rocosas, y creíamos que nadie podía vencernos.",
+    "Nos llegó un mensajero de entre nuestros propios parientes, que nos exhortaba a adorar solo a Alá, pero lo rechazamos y nos burlamos de él.",
+    "Nos jactamos diciendo: \"¿Quién es más fuerte que nosotros?\", y continuamos con nuestra arrogancia y adoración de ídolos.",
+    "Alá envió sobre nosotros un viento furioso que sopló durante siete noches y ocho días, arrasando con todo.",
+    "Éramos el pueblo de Ad, los constructores de Iram, y nuestro destino se convirtió en una advertencia para todos los que vinieron después."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Gente de 'Anuncio'",
+        "Gente de Thamud",
+        "Pueblo de Madyan",
+        "Gente de Tubba'",
+        "Gente de al-Rass"
+      ],
+      "answer": "Gente de 'Anuncio'"
+    },
+    "trial": {
+      "label": "¿Cuál fue el castigo que se les impuso?",
+      "options": [
+        "Un viento devastador",
+        "Una lluvia de piedras",
+        "Una fuerte explosión",
+        "Ahogamiento por inundación",
+        "Engullido por la tierra"
+      ],
+      "answer": "Un viento devastador"
+    },
+    "location": {
+      "label": "¿Cuál es el nombre de su legendaria ciudad?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Madián",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "¿Cuál fue su destino final?",
+      "options": [
+        "Fueron destruidos y sus restos se convirtieron en una lección.",
+        "Se arrepintieron y fueron salvados.",
+        "Se transformaron en simios",
+        "Se ahogaron en el mar.",
+        "Quedaron sepultados bajo un deslizamiento de tierra."
+      ],
+      "answer": "Fueron destruidos y sus restos se convirtieron en una lección."
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

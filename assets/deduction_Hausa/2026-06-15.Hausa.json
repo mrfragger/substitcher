@@ -1,0 +1,61 @@
+{
+  "title": "Mulkin Iska da Wuta",
+  "intro": "Ka yi tunanin mulki inda iska da kanta ke amsa wa mai mulki ɗaya, inda muryoyin ƙananan halittu ke ɗauke da nauyi, kuma inda ake riƙe da ƙarfi da ba a gani ga idanu na yau da kullun cikin kulawa. Wannan mutum ya gaji wata masarauta mai ban mamaki daga wanda ya gabace shi, yana da iko akan yanayi da aljanu. Amma babban iko ya zo tare da manyan gwaje-gwaje - kuma lokaci na ƙarshe zai bayyana wani abu mai ban mamaki game da yanayin rayuwa da mutuwa kanta.",
+  "clues": [
+    "Na gaji babbar masarauta daga wani mahaifi da aka ƙaunace shi wanda shi ma annabi ne kuma bawan Allah.",
+    "Allah ya ba ni iko kan iska, ya aiko ni da ita a tafiyar wata guda a cikin safe ɗaya.",
+    "Ko da mafi ƙanƙanta daga cikin halittu za su yi magana game da yadda nake bi, kuma zan tsaya ina mamakin saninsu.",
+    "Na jagoranci rundunar aljanu, mutane, da tsuntsaye masu yawa, duk an shirya su a jere a gabana.",
+    "Wani mai mulki daga nesa ya zo ya gwada ni da ƙalubale mai wahala, sai na kawo gadon sarautar wannan mai mulki a kotu kafin baƙon ya tashi daga kujera.",
+    "Na ci gaba da tsayawa, ina jingina da sanda, har sai da wani ƙaramin halitta na duniya ya cinye shi - kuma sai lokacin ne waɗanda ke kewaye da ni suka fahimci na wuce."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Sulaiman (Annabi Sulaiman)",
+        "Annabi Dawud (Dauda)",
+        "Annabi Isa (Jesus)",
+        "Annabi Muhammadu ﷺ",
+        "Annabi Musa (Annabi Musa)"
+      ],
+      "answer": "Annabi Sulaiman (Annabi Sulaiman)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kawo gadon sarautar sarauniya mai nisa ta hanyar allahntaka",
+        "A saukar da shi cikin rijiya mai zurfi tun yana yaro",
+        "Fuskantar masu sihirin azzalumi da alamu masu ban mamaki",
+        "Yana magana daga jariri don kare mutuncin uwa",
+        "Karɓar littafin ƙarshe da aka saukar a kan tsattsarkan dutse"
+      ],
+      "answer": "Kawo gadon sarautar sarauniya mai nisa ta hanyar allahntaka"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Sanda ta katako da tururuwa suka ciza",
+        "Babban jirgi da aka gina domin ya tsira daga ambaliyar ruwa a duniya",
+        "Sanda da ta rikide ta zama maciji a gaban azzalumi",
+        "Wani zane da ake amfani da shi wajen warkar da makafi",
+        "Kogo mai tsarki inda aka fara samun wahayi"
+      ],
+      "answer": "Sanda ta katako da tururuwa suka ciza"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Wani babban basarake mai ziyara ya rungumi imani bayan ya ga alamu",
+        "Babban ambaliya ya halaka duk waɗanda ke cikin jirgi sai masu aminci",
+        "Fir'auna da rundunarsa sun halaka a cikin teku",
+        "An ɗaga wani abokin kirki zuwa sama",
+        "An kifar da wani azzalumin sarki da birninsa aka kuma lalata su"
+      ],
+      "answer": "Wani babban basarake mai ziyara ya rungumi imani bayan ya ga alamu"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

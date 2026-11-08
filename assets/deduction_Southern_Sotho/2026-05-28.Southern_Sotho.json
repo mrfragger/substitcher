@@ -1,0 +1,61 @@
+{
+  "title": "Mokuli ea sa Fetoheng",
+  "intro": "Litlalehong tsa nalane ea boprofeta, ke ba fokolang ba ileng ba mamella tahlehelo e tebileng le mahlomola a 'mele joalo ka tumelo e sa sisinyeheng. Pale ea motho enoa ke thuto e sa feleng ea mamello le ho tšepa bohlale ba bomolimo. Moea ona ke mang?",
+  "clues": [
+    "Ke khethiloe ke Allah ho fana ka molaetsa, empa teko ea ka e kholo ka ho fetisisa ha ea ka ea tla ka ho lahloa, empa e bile ka tlokotsi ea botho.",
+    "Leruo la ka, mehlape ea ka, le bana ba ka li ile tsa nkuoa, ka bonngoe.",
+    "'Mele oa ka o ne o tletse liso, 'me ke ile ka sala ke le mong ntle le tšehetso ea molekane oa ka.",
+    "Ke ile ka hoeletsa ho Morena oa ka, ke lumela mahlomola a ka 'me ke batla mohau oa Hae.",
+    "Ke ile ka laeloa ho otla fatše ka leoto la ka, 'me seliba se khathollang sa tsoa.",
+    "Allah o ile a ntsosa bophelo bo botle mme a mpha lelapa le lecha le leruo le fetang leo ke neng ke e-na le lona pele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Ayyub",
+        "Moprofeta Ibrahim",
+        "Moprofeta Musa",
+        "Moprofeta Isa",
+        "Moprofeta Nuh"
+      ],
+      "answer": "Moprofeta Ayyub"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Tahlehelo ea leruo le lelapa",
+        "Ho lahleloa mollong",
+        "Ho metsoa ke tlhapi",
+        "Ho aroloa ho ba lelapa le ho rekisoa bokhobeng",
+        "Ho lekoa ka namane ea khauta"
+      ],
+      "answer": "Tahlehelo ea leruo le lelapa"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Seliba sa metsi",
+        "Lere le ileng la fetoha noha",
+        "Areka ea lehong",
+        "Namane e qhibilihisitsoeng",
+        "Sefate sa palema"
+      ],
+      "answer": "Seliba sa metsi"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Tsosoloso ea lelapa le leruo",
+        "Ho nyolohela leholimong",
+        "Ho ba morena",
+        "Ho pholosoa ho leruarua",
+        "Ho fumana mora botsofaling"
+      ],
+      "answer": "Tsosoloso ea lelapa le leruo"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

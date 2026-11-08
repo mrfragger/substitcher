@@ -1,0 +1,61 @@
+{
+  "title": "Volající z hlubin",
+  "intro": "Představte si duši, které bylo svěřeno božské poselství, ale která se ve spěchu odloučila od svého lidu bez výslovného svolení. Tato cesta je zavedla do mimořádné zkoušky, hluboké zkoušky trpělivosti a spoléhání se na Nejvyššího. Kdo je tento člověk, jehož příběh nás učí o pokání a nesmírnosti Alláhova milosrdenství?",
+  "clues": [
+    "Byl jsem poslán do velkého národa, ale jejich počáteční odmítnutí mi způsobilo tíseň.",
+    "Opustil jsem své lidi v domnění, že moje mise je splněna, než jsem dostal jasný rozkaz k odchodu.",
+    "Hledal jsem cestu na lodi, ale silná bouře a losování vedly k hrozné situaci.",
+    "Byl jsem vržen do moře a mocný tvor z hlubin mě celého spolkl.",
+    "V temnotě jeho útrob jsem volal k Alláhovi, přiznal jsem své provinění a prosil Ho o odpuštění.",
+    "Alláh přikázal tvorovi, aby mě vyhodil na břeh, a já jsem se pod vlivem jedinečné rostliny uzdravil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Jusuf (Josef)",
+        "Prorok Nuh (Noe)",
+        "Prorok Júnus (Jonáš)",
+        "Prorok Sulajmán (Šalamoun)",
+        "Prorok Ayyub (Job)"
+      ],
+      "answer": "Prorok Júnus (Jonáš)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Rozdělení moře",
+        "Oheň Nimroda",
+        "Být spolknut velkou rybou",
+        "Povodeň",
+        "Zničení města kameny"
+      ],
+      "answer": "Být spolknut velkou rybou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Archa",
+        "Zaměstnanci",
+        "Břicho ryby",
+        "Studna",
+        "Hořící keř"
+      ],
+      "answer": "Břicho ryby"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Stal se velkým vládcem",
+        "Postaven Kaaba",
+        "Vrátil se, aby vedl kající národ",
+        "Byla mu dána vláda nad džiny",
+        "Vedl lidi přes poušť"
+      ],
+      "answer": "Vrátil se, aby vedl kající národ"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

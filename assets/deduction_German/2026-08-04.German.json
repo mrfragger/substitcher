@@ -1,0 +1,61 @@
+{
+  "title": "Das Echo durch die Klippen",
+  "intro": "Stell dir ein Tal vor, dessen Behausungen in die Felsen gehauen sind und dessen Luft die Erinnerung an eine ungehörte Warnung trägt. Einst lebte hier ein Volk, gesegnet und doch trotzig, bis ein Zeichen aus eben jenem Felsen emporstieg, dem es vertraut hatte.",
+  "clues": [
+    "Wir waren ein Volk, das sich sichere Heimstätten in den Bergen schuf und sich in seinen felsigen Behausungen geborgen fühlte.",
+    "Wir lebten in einem Land aus Ebenen und Steinen, gesegnet mit Gärten und Quellen.",
+    "Ein Bote aus unserer Mitte kam und rief uns auf, unsere falschen Götter aufzugeben und den einen wahren Schöpfer anzubeten.",
+    "Wir stellten arrogant eine Bedingung für den Glauben: ein einzigartiges Zeichen, das aus den Felsen selbst hervorgehen sollte, die wir behauen hatten.",
+    "Als die versprochene Kamelstute aus dem Felsen auftauchte – ein klares Zeichen –, weigerte sich unsere Elite dennoch und fesselte sie, trotz der Warnung vor einem drohenden Unheil.",
+    "Drei Tage nach unserer Tat hallte ein donnernder Knall durch das Tal, und wir wurden zu Trümmerhaufen reduziert, unsere Häuser zu Gräbern."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Die Menschen von ¿Ad",
+        "Das Volk von Thamud",
+        "Das Volk von Madyan",
+        "Die Bewohner des Hains",
+        "Die Menschen der Höhle"
+      ],
+      "answer": "Das Volk von Thamud"
+    },
+    "trial": {
+      "label": "Unser Vorspiel/Hauptevent",
+      "options": [
+        "Die Lähmung der Kamelstute Allahs",
+        "Die Verehrung des goldenen Kalbs",
+        "Die Brechung des Sabbats",
+        "Der Bau eines Turms, der bis zum Himmel reicht",
+        "Die Tötung der Propheten"
+      ],
+      "answer": "Die Lähmung der Kamelstute Allahs"
+    },
+    "location": {
+      "label": "Schlüsselelement unserer Geschichte",
+      "options": [
+        "Die Kamelstute Allahs",
+        "Die Mitarbeiter von Musa",
+        "Die Arche Nuh",
+        "Die weiße Hand von Musa",
+        "Der Vogel von ¿Isa"
+      ],
+      "answer": "Die Kamelstute Allahs"
+    },
+    "outcome": {
+      "label": "Unser Ergebnis",
+      "options": [
+        "Zerstörung durch eine ohrenbetäubende Explosion",
+        "Ein Steinregen vom Himmel",
+        "Eine Flut, die die Erde bedeckte",
+        "Ein heftiger Wind, der uns entwurzelte",
+        "Die Erde verschlingt uns"
+      ],
+      "answer": "Zerstörung durch eine ohrenbetäubende Explosion"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

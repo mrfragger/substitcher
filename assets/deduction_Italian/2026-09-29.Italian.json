@@ -1,0 +1,61 @@
+{
+  "title": "Il Profeta delle Montagne Scolpite",
+  "intro": "Nei deserti inospitali dell'antica Arabia, emerse una figura tra un popolo rinomato per la sua straordinaria abilità artigianale. Le loro case sorgevano dalla roccia viva, eppure i loro cuori erano più duri delle montagne che scolpivano. Un messaggero divino giunse con un unico, miracoloso segno, ma l'orgoglio e la sfida portarono a conseguenze rapide e terrificanti. Sapreste identificare il nobile servitore il cui popolo scelse la distruzione anziché la guida?",
+  "clues": [
+    "Sono stato inviato come ammonitore al mio popolo, per invitarlo all'adorazione dell'unico Dio.",
+    "Il mio popolo viveva tra spettacolari formazioni rocciose, scavando magnifiche abitazioni nei fianchi delle montagne.",
+    "Una cammella miracolosa è emersa dalla roccia solida in seguito alla mia preghiera, un chiaro segno dell'Onnipotente.",
+    "Ho detto alla mia gente di condividere l'acqua con questa cammella e di non farle del male.",
+    "Il mio popolo complottò contro la cammella e la ferì gravemente, sigillando così la propria distruzione.",
+    "Un terribile terremoto si abbatté sul mio popolo, che rimase immobile nelle proprie abitazioni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Shu'ayb",
+        "Profeta Nuh",
+        "Profeta Mosè"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Qual è stato il processo decisivo?",
+      "options": [
+        "La mutilazione di una cammella miracolosa",
+        "Costruire una grande arca tra le derisioni",
+        "Affrontare un faraone tirannico",
+        "Essere gettati in un fuoco ardente",
+        "La violazione del patto del sabato"
+      ],
+      "answer": "La mutilazione di una cammella miracolosa"
+    },
+    "location": {
+      "label": "Qual era l'elemento centrale?",
+      "options": [
+        "Una cammella emersa dalla roccia",
+        "Una grande arca di legno",
+        "Un bastone che divise il mare",
+        "Una balena enorme",
+        "Una montagna sospesa sopra la testa"
+      ],
+      "answer": "Una cammella emersa dalla roccia"
+    },
+    "outcome": {
+      "label": "Quale fu il loro destino finale?",
+      "options": [
+        "Un improvviso terremoto dal cielo",
+        "Annegato in una violenta alluvione",
+        "Le loro città furono rovesciate per comando divino",
+        "Bruciato da un vento rovente",
+        "Inghiottito dalla terra"
+      ],
+      "answer": "Un improvviso terremoto dal cielo"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

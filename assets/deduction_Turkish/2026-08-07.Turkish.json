@@ -1,0 +1,61 @@
+{
+  "title": "Tahtın Ardındaki İnanç",
+  "intro": "Bazı ruhlar ateş veya sel ile değil, bir tiranın sarayında yaşamanın yavaş baskısıyla sınanır. Bu figür, halkı üzerinde ilahlık iddiasında bulunan, ancak gizlice Tek Gerçek Tanrı'ya olan inancına sıkıca bağlı bir hükümdarın yanında duruyordu. Bağlılıkları keşfedildiğinde acı çektiler, ancak aynı zamanda ilahi bir vaat de geldi. Bunun kim olduğunu tahmin edebilir misiniz?",
+  "clues": [
+    "Ülkemin en güçlü hükümdarının çatısı altında, çok az kişinin hayal edebileceği bir konumda yaşadım.",
+    "Eşim halkın önünde durup kendini tanrı ilan etti, ama benim kalbim Tek Gerçek Rabbe aitti.",
+    "Eşime karşı gelen herkesin başına gelen cezadan korkarak, gizlice dualar fısıldadım.",
+    "İnancım açığa çıktığında yakalandım ve işkence gördüm; ama dilimden asla bir kelime bile inkâr çıkmadı.",
+    "Rabbime yüreğimi döktüm, cennette, her türlü kötülükten uzak bir ev istedim.",
+    "Ben Asiya bint Muzahim'im; Musa ve Harun'a karşı çıkan Firavun'un karısıyım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Asiya bint Muzahim (Firavun'un karısı)",
+        "Havva (Eve), ilk kadın",
+        "İbrahim'in ilk karısı Sarah.",
+        "İsmail'in annesi Hacer",
+        "Meryem'in (İmran'ın eşi) annesi"
+      ],
+      "answer": "Asiya bint Muzahim (Firavun'un karısı)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İnançtan vazgeçmeyi reddettiği için işkenceye maruz kalmak",
+        "Büyük bir balığın karnının içinde hayatta kalmak",
+        "Selden kaçmak için devasa bir gemi inşa etmek",
+        "Alev alev yanan bir ateşe atılmak",
+        "Büyük bir denizin ikiye ayrılmasına tanık olmak"
+      ],
+      "answer": "İnançtan vazgeçmeyi reddettiği için işkenceye maruz kalmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Cennette onlar için inşa edilmiş bir ev.",
+        "Yılana dönüşen bir asa",
+        "Her canlıdan birer çift taşıyan bir gemi",
+        "Bir ulus tarafından tapılan altın buzağı",
+        "Dev bir savaşçıyı yenmek için kullanılan sapan"
+      ],
+      "answer": "Cennette onlar için inşa edilmiş bir ev."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Salihlerle birlikte cennette bir meskenle şereflendirildi.",
+        "Ordularıyla birlikte dalgaların altında boğuldular.",
+        "Alevler içinde yandı ama ilahi müdahaleyle kurtarıldı",
+        "Büyük bir yaratık tarafından yutuldu, sonra kıyıya atıldı.",
+        "Dönemlerinin en zengin insanı oldular."
+      ],
+      "answer": "Salihlerle birlikte cennette bir meskenle şereflendirildi."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Jum tal-Wirja Finali",
+  "intro": "Imsejħa għal wirja grandjuża ta’ poter, grupp ta’ artisti tas-sengħa sabu ruħhom jiffaċċjaw verità mhux mistennija li kienet se tbiddel ħajjithom għal dejjem.",
+  "clues": [
+    "Konna magħrufa għas-sengħa tagħna, mastri tal-illużjoni u l-qerq.",
+    "Ġejna msejħin mill-ħakkiem biex niffaċċjaw sfidant li kien iżomm bastun sempliċi f'idejh.",
+    "Meta rajna l-verità, inżiejna fl-art, niddikjaraw li nemmnu fil-Mulej tad-dinjiet.",
+    "It-tirann heddedna b'kastig sever, imma ma bżajnax.",
+    "Konna fost l-ewwel li emminna fil-messaġġ wara li rajna s-sinjal ċar.",
+    "Aħna ġejna martri għall-fidi tagħna, imma se nkunu l-ewwel li nidħlu fil-Ġenna mal-ġusti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Il-Maġi tal-Fargħun",
+        "L-Iżraelin",
+        "Il-Poplu ta’ Thamud",
+        "Id-Dixxipli ta’ Isa",
+        "L-Armata ta' Abraha"
+      ],
+      "answer": "Il-Maġi tal-Fargħun"
+    },
+    "trial": {
+      "label": "Prova / Avveniment",
+      "options": [
+        "Kompetizzjoni mal-Profeta Musa",
+        "Il-Bini tat-Torri",
+        "L-Għargħar il-Kbir",
+        "Il-Pesta tal-Ġurati",
+        "Il-Baħar li Jinqasam"
+      ],
+      "answer": "Kompetizzjoni mal-Profeta Musa"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Jum il-Festival",
+        "Il-Wied ta’ Tuwa",
+        "Il-Belt ta' Iram",
+        "Il-Ġnien tal-Eternità",
+        "Il-Pjanura ta' Arafat"
+      ],
+      "answer": "Jum il-Festival"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Huma ġew imsallab fil-pubbliku",
+        "Huma għerqu fil-baħar",
+        "Huma saru segwaċi tal-profeta",
+        "Intbagħtu fl-eżilju",
+        "Huma ġew ikkunsmati min-nar"
+      ],
+      "answer": "Huma ġew imsallab fil-pubbliku"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

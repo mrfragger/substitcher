@@ -1,0 +1,61 @@
+{
+  "title": "Apelul care a rezistat veacurilor",
+  "intro": "Imaginează-ți un suflet care stă singur împotriva unei întregi civilizații, hotărât să o îndrume înapoi de la rătăcire cu o hotărâre neclintită. Timp de secole, mesajul a fost respins, batjocorit și ignorat - totuși, efortul nu a încetat niciodată. În cele din urmă, a venit o mare socoteală și doar câțiva au urcat pe drumul mântuirii alături de acest suflet statornic. Poți identifica această figură din Coran?",
+  "clues": [
+    "Am fost trimis ca avertizor pentru un popor rătăcit pe căile sale.",
+    "I-am invitat să ceară iertare și să se întoarcă de la greșelile lor, dar ei mi-au întors spatele.",
+    "Sub poruncă divină, am construit o navă masivă în timp ce poporul meu mă privea și mă ridiculiza.",
+    "L-am chemat neîncetat pe Domnul meu – în cele din urmă El mi-a răspuns, iar apa a curs din cer în torenți.",
+    "M-am urcat la bordul corabiei împreună cu cei care au crezut când apele potopului s-au ridicat deasupra pământului.",
+    "Am strigat către unul care rămăsese în urmă, rugându-l să se adăpostească pe un munte, dar decretul fusese deja emis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Nuh",
+        "Profetul Ibrahim",
+        "Profetul Musa",
+        "Profetul Hud",
+        "Profetul Salih"
+      ],
+      "answer": "Profetul Nuh"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Construirea unei arce mari și supraviețuirea unui potop mondial",
+        "Fiind aruncat într-un foc arzător",
+        "Confruntarea unui tiran și a puternicilor săi magicieni",
+        "Fiind înghițit de un pește mare",
+        "Martorul uciderii unei cămile sacre"
+      ],
+      "answer": "Construirea unei arce mari și supraviețuirea unui potop mondial"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O arcă masivă de lemn pe apele inundate furioase",
+        "O vale sacră cu ruine antice de piatră",
+        "O peșteră adâncă unde tovarășii au dormit timp de secole",
+        "Burta unei balene uriașe în adâncurile oceanului",
+        "Un munte falnic de piatră în pustietate"
+      ],
+      "answer": "O arcă masivă de lemn pe apele inundate furioase"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Mântuit împreună cu credincioșii la bordul navei",
+        "Salvat nevătămat din foc prin poruncă divină",
+        "A condus un mare exod dintr-un regat puternic",
+        "Aruncat din pește pe un țărm sterp",
+        "I-a îndrumat pe oameni departe de rău printr-un semn miraculos"
+      ],
+      "answer": "Mântuit împreună cu credincioșii la bordul navei"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

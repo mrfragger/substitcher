@@ -1,0 +1,60 @@
+{
+  "title": "Tidenes søvn",
+  "intro": "Du skal ut på en reise gjennom tiden, der du møter et dypt mysterium om tro og guddommelig kraft. Se for deg en gruppe individer som trosset normene i samfunnet sitt og klamrer seg til monoteisme i en verden av polyteisme. Historien deres er et vitnesbyrd om Allahs evne til å beskytte sine rettferdige tjenere på de mest ekstraordinære måter. Kan du nøste opp identiteten til disse bemerkelsesverdige personene?",
+  "clues": [
+    "Vi var en liten gruppe unge menn som trodde på én Gud, til tross for den utbredte polyteismen blant folket vårt.",
+    "Vi flyktet fra en tyrannisk hersker som truet oss for vår tro, i frykt for forfølgelse og død.",
+    "Vi søkte tilflukt på et avsidesliggende sted i håp om Allahs nåde og beskyttelse mot våre undertrykkere.",
+    "Vår Herre lot oss falle i en dyp søvn, en mirakuløs slummer som trosset tidens gang.",
+    "Da vi våknet, trodde vi at vi bare hadde hvilt i en dag eller en del av en dag, uvitende om den lange perioden som virkelig hadde gått.",
+    "Koranen nevner at vi forble i vår tilstand i tre hundre år, og oversteg det med ni, og ble et tegn for menneskeheten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i grøften",
+        "Folket i Thamud",
+        "Folket i hulen",
+        "Folket i Madyan",
+        "Elefantens følgesvenner"
+      ],
+      "answer": "Folket i hulen"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Står overfor en stor flom",
+        "Å bli slukt av jorden",
+        "Den lange mirakuløse søvnen",
+        "Ødeleggelsen av byen deres",
+        "Havets splittelse"
+      ],
+      "answer": "Den lange mirakuløse søvnen"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En brennende busk",
+        "Et fjell",
+        "En båt",
+        "En hule",
+        "En brønn"
+      ],
+      "answer": "En hule"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "De ble gitt enorm rikdom og makt",
+        "De ble forvandlet til aper og svin",
+        "De ble vekket fra søvnen som et dypt tegn",
+        "De druknet i en stor flom",
+        "De bygde et storslått kongerike"
+      ],
+      "answer": "De ble vekket fra søvnen som et dypt tegn"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

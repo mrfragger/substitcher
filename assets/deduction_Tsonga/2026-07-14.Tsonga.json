@@ -1,0 +1,61 @@
+{
+  "title": "Mimoya-xiviri ya Mugodi",
+  "intro": "U tlhelela endzhaku enkarhini lowu mufumi la nga riki na ntwela-vusiwana a a lava ku tinyiketela loku heleleke eka swikwembu swa mavunwa. Ntlawa wutsongo wa mimoya-xiviri leyi tinyiketeleke wu arile, naswona wu langutane ni nxupulo lowukulu swinene lerova wu rhukaniwile hilaha ku nga heriki. Mhaka ya vona yi twala hi ku tirhisa Quran tanihi vumbhoni bya ripfumelo leri nga tsekatsekiki. Xana u nga wu vona ntlawa lowu lowu tiyeke?",
+  "clues": [
+    "A hi tshama etikweni leri nga ehansi ka vulawuri bya tihanyi bya mufumi loyi a a lava ku gandzeriwa swikwembu swa mavunwa",
+    "Vaaki va hina va langutane ni nxaniso lowukulu ntsena hikwalaho ka ku pfumela ka hina eka Allah ntsena",
+    "Mufumi u lerise leswaku ku ceriwa mugodi lowukulu wu tlhela wu pfurha hi malangavi lamakulu",
+    "Hikwalaho ka leswi hi aleke ku landzula ripfumelo ra hina, hi hoxiwe emugodini wolowo lowu pfurhaka ha un’we-un’we",
+    "Mhaka ya hina yi ve xiphemu xa Quran, naswona lava a va hi xanisa va rhukaniwile hilaha ku nga heriki",
+    "Surah leyi rhekhodaka maxangu ya hina yi thyiwile vito ra swikombiso leswikulu swa le tilweni swa xibakabaka"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Vaseketeri va Mugodi (Ashab al-Ukhdud) .",
+        "Vanhu va le Bako (Ashab al-Kahf) .",
+        "Vanhu va Savata",
+        "Vanhu va le A'ad",
+        "Vanhu va le Thamud"
+      ],
+      "answer": "Vaseketeri va Mugodi (Ashab al-Ukhdud) ."
+    },
+    "trial": {
+      "label": "Ndzingo Wa Hina",
+      "options": [
+        "Ku hisiwa a ha hanya ekheleni ra ndzilo",
+        "Ku pfaleriwa ebakweni ku ringana malembe yo tala",
+        "Ku phasa tinhlampfi hi siku ro kwetsima ro wisa",
+        "Ku lovisiwa hi moya lowu huwelelaka",
+        "Ku dlaya kamela ya xisati yo kwetsima"
+      ],
+      "answer": "Ku hisiwa a ha hanya ekheleni ra ndzilo"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Mugodi lowu pfurhaka wa ndzilo",
+        "Bako leri fihliweke leri nga ni mbyana yo tshembeka",
+        "Tiphuphu to leha ta muti wa khale lowu a wu lovisiwa",
+        "Vutshamo bya le tintshaveni lebyi vatliweke eka maboboma ya maribye",
+        "Rivala leri pfulekeke leri khukhuriweke hi mimoya ya matimba"
+      ],
+      "answer": "Mugodi lowu pfurhaka wa ndzilo"
+    },
+    "outcome": {
+      "label": "Vuyelo Bya Hina",
+      "options": [
+        "Hi dlayiwile ripfumelo naswona vaxanisi va rhukaniwile hilaha ku nga heriki",
+        "Hi pfuke endzhaku ko etlela malembe ya 309",
+        "Hi hundzuriwile hi va tindlopfu hikwalaho ka ku tlula nawu ka hina",
+        "Moya lowukulu lowu huwelelaka wu hi lovisile hinkwerhu",
+        "Xirilo xin’we lexi onhaka xi onhe vukona bya hina"
+      ],
+      "answer": "Hi dlayiwile ripfumelo naswona vaxanisi va rhukaniwile hilaha ku nga heriki"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

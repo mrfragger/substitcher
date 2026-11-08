@@ -1,0 +1,61 @@
+{
+  "title": "Der Hüter der Unlöschbaren Flamme",
+  "intro": "Eine Gestalt steht an der Schwelle zum gefürchtetsten Ort des Unsichtbaren, betraut mit einer Aufgabe, die kein anderes Wesen begehrt. Wenn leidende Seelen um Gnade flehen, hallt eine strenge Antwort durch die Feuerkammern. Könnt ihr die Identität dieses ewigen Wächters enthüllen?",
+  "clues": [
+    "Ich stehe am Eingang eines furchterregenden Ortes der Bestrafung im Unsichtbaren.",
+    "Ein loderndes, unlöschbares Feuer ist der Mittelpunkt meiner feierlichen Pflicht.",
+    "Leidende Seelen rufen meinen Namen und flehen um Erlösung von ihrer endlosen Qual.",
+    "Wenn sie flehen, erkläre ich, dass sie niemals gehen werden.",
+    "Ich bin weder Mensch noch Dschinn – ich bin ein Geschöpf reinen Gehorsams.",
+    "Ich bin der oberste Engel, der zum ewigen Hüter des Höllenfeuers ernannt wurde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Bewohner der Hölle flehen darum, dass ihre Qualen ein Ende finden.",
+        "Die Trompete ertönt, um den Tag des Jüngsten Gerichts anzukündigen.",
+        "Der Koran wurde dem Herzen des Propheten offenbart.",
+        "Ein Prophet wird von seinem Volk in ein großes Feuer geworfen.",
+        "Eine mächtige Mauer wird errichtet, um eine korrupte Nation einzudämmen."
+      ],
+      "answer": "Die Bewohner der Hölle flehen darum, dass ihre Qualen ein Ende finden."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Höllenfeuer (Jahannam)",
+        "Der Lotebaum an der Grenze des Paradieses",
+        "Eine durchdringende Trompete",
+        "Ein Stab, der sich in eine Schlange verwandelt",
+        "Ein prächtiger göttlicher Thron"
+      ],
+      "answer": "Das Höllenfeuer (Jahannam)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Den Bewohnern der Hölle wird gesagt, dass sie ewig dort verbleiben werden.",
+        "Den Bewohnern der Hölle wird vergeben und sie werden freigelassen.",
+        "Den Bewohnern der Hölle wird eine zweite Chance auf Glauben gewährt.",
+        "Die Bewohner der Hölle werden an einen kühlen Ort gebracht.",
+        "Die Bewohner der Hölle werden durch einen Blitzschlag vollständig vernichtet."
+      ],
+      "answer": "Den Bewohnern der Hölle wird gesagt, dass sie ewig dort verbleiben werden."
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

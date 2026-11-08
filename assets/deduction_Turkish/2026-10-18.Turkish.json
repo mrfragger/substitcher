@@ -1,0 +1,61 @@
+{
+  "title": "Yaşlılıkta Müjde",
+  "intro": "Umutun yeniden alevlendiği bir ana tanık oluyorsunuz. Ebeveynlik çağını çoktan geçmiş bir çift, doğanın kanunlarına meydan okuyan bir vaat alıyor. Aralarında, varlığı ilahi merhametin bir işareti olan bir figür duruyor; peygamberliğe destinedilmiş, nesiller boyu sürecek bir miras taşıyan bir ruh. Bu olağanüstü birey kim?",
+  "clues": [
+    "Yaşlılık çağını yaşamış ve çocuğu olmayan bir çiftin çocuğu olarak dünyaya geldim.",
+    "Doğumum, aileme misafir olarak gelen melekler tarafından müjdelendi.",
+    "Bana bilgelik ve peygamberlik bahşedildi ve hastalar arasında adım anılıyor.",
+    "Babam Allah'ın dostu olarak anılırdı ve ben onun hayatının son yıllarında kendisine bir hediyeydim.",
+    "Benim de peygamber olan bir kardeşim vardı ve ikimiz de Rabbimiz tarafından kutsanmıştık.",
+    "Oğlum da bir peygamberdi ve soyumdan gelenlere de kutsal yazılar ve peygamberlik verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İshak (İshak)",
+        "Peygamber İsmail (İşmael)",
+        "Peygamber Yakup",
+        "Peygamber Yahya (Yuhanna)",
+        "Peygamber Uzair (Ezra)"
+      ],
+      "answer": "Peygamber İshak (İshak)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yaşlı ebeveynlerin çocuğu olarak dünyaya geldi.",
+        "ateşe atıldı",
+        "Ona bir krallık ve zenginlik verildi.",
+        "Halkını Mısır'dan çıkardı.",
+        "İnananları kurtarmak için bir gemi inşa edildi."
+      ],
+      "answer": "Yaşlı ebeveynlerin çocuğu olarak dünyaya geldi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir oğulun müjdesi",
+        "Yanan çalı",
+        "altın buzağı",
+        "Ahd sandığı",
+        "Peygamberlik asası"
+      ],
+      "answer": "Bir oğulun müjdesi"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Peygamberler soyundan gelen bir peygamber oldu.",
+        "Zengin bir kral oldu.",
+        "Halkı, inkâr yüzünden yok edildi.",
+        "Yangından kurtarıldı.",
+        "Ona bebekken konuşma yeteneği verildi."
+      ],
+      "answer": "Peygamberler soyundan gelen bir peygamber oldu."
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

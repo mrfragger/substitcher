@@ -1,0 +1,61 @@
+{
+  "title": "Čuvar neutaživog plamena",
+  "intro": "Figura stoji na pragu najstrašnijeg mjesta u nevidljivom, povjerena joj je dužnost koju nijedno drugo biće ne želi. Kada patne duše vape za milost, strog odgovor odjekuje kroz vatrene odaje. Možete li otkriti identitet ovog vječnog čuvara?",
+  "clues": [
+    "Stojim na ulazu zastrašujućeg mjesta kažnjavanja u nevidljivom.",
+    "Plamteća, neutaživa vatra je središnji dio moje svečane dužnosti.",
+    "Duše koje pate dozivaju moje ime, moleći za olakšanje od svojih beskrajnih muka.",
+    "Kada mole, izjavljujem da nikada neće otići.",
+    "Nisam čovjek, niti džin - ja sam stvoreno biće čiste poslušnosti.",
+    "Ja sam glavni anđeo imenovan za vječnog čuvara Džehennema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Malik",
+        "Džibril",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Ljudi iz Pakla mole da se okonča njihova muka",
+        "Truba se zasvira kako bi označila Sudnji dan",
+        "Kuran je objavljen u Poslanikovom srcu",
+        "Proroka njihov narod baca u veliku vatru",
+        "Moćni zid je izgrađen da obuzda korumpiranu naciju"
+      ],
+      "answer": "Ljudi iz Pakla mole da se okonča njihova muka"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Pakleni oganj (Džahennam)",
+        "Lotosovo drvo na granici Raja",
+        "Prodorna truba",
+        "Štap koji se pretvara u zmiju",
+        "Veličanstveni božanski tron"
+      ],
+      "answer": "Pakleni oganj (Džahennam)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Stanovnicima pakla je rečeno da će ostati vječno",
+        "Stanovnicima pakla je oprošteno i oslobođeni su",
+        "Stanovnicima pakla data je druga prilika za vjeru",
+        "Stanovnici pakla bit će preseljeni na mjesto hladnoće",
+        "Stanovnici pakla su potpuno uništeni udarom groma"
+      ],
+      "answer": "Stanovnicima pakla je rečeno da će ostati vječno"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

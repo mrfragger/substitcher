@@ -1,0 +1,61 @@
+{
+  "title": "Sajandeid tähelepanuta jäetud hääl",
+  "intro": "Ajal, mil suurlinnad kerkisid, kerkis üksildane hing rahva seas, kes oli tõest ära pöördunud. Nende kangekaelsusele vastas vaid selle üksildase hüüdja ​​kannatlikkus, kes anus läbi põlvkondade otsusekindlust kaotamata. Kui kõik hoiatused kurtidele kõrvadele langesid, muutis enneolematu arveteõiendamine kogu maakera. Tänapäeval kajavad selle loo kajad endiselt igas ettekandes. Kas suudad seda otsusekindlat hinge ära tunda?",
+  "clues": [
+    "Mind kasvatati rahva seas, kes kummardasid valesid ebajumalaid ja eirasid enda ümber olevaid märke, kuid mind valiti äratama nad hoolimatusest.",
+    "Ma hüüdsin oma rahvast ikka ja jälle, aga nad süüdistasid mind selles, et ma olen lihtsalt inimene nagu nemadki, pilkavad mu sõnumit ja katavad oma kõrvu.",
+    "Ööd ja päevad anusin neid tarkuse ja õrnade meeldetuletustega, aga mu sõnad justkui haihtusid õhku, kuulmata ja tähele panemata.",
+    "Jumaliku juhatuse all ehitasin ma kuival maal tohutu suure puidust ja plankudest aluse ning mu rahvas naeris mu üle kui mõistuse kaotanud inimese.",
+    "Kui suur veeuputus saabus, nagu lubatud, keeldus mu enda poeg minuga laevale minemast, uskudes, et mägi kaitseb teda tõusva vee eest.",
+    "Minust sai uue alguse patriarh siin maa peal ja minu lugu on talletatud Koraani peatükis, mis kannab minu nime."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Noa",
+        "Prohvet Ibrahim",
+        "Prohvet Musa",
+        "Prohvet Lut",
+        "Prohvet Hud"
+      ],
+      "answer": "Prohvet Noa"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur veeuputus, mis muutis maakera kuju",
+        "Ebajumalakummardajate poolt lõõmavasse tulle heidetud",
+        "Vastasseis vaarao võluritega palees",
+        "Jõukate aedade hävitamine taevase tormi poolt",
+        "Kaevikuelanike ümberminek"
+      ],
+      "answer": "Suur veeuputus, mis muutis maakera kuju"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Puidust ja laudadest ehitatud laev",
+        "Püha maja, mis on ehitatud iidsetele vundamentidele",
+        "Personal, mis muutus maoks",
+        "Magavate noorte koobas",
+        "Troon, mida kannab vägev olend"
+      ],
+      "answer": "Puidust ja laudadest ehitatud laev"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uskmatud uppusid, samal ajal kui usklikud päästeti laeval.",
+        "Tuli jahtus ja muutus ohutuks ning helistaja pääses vigastusteta välja.",
+        "Võlurid langesid kummarda ja võtsid usu omaks",
+        "Aed anti õiglasele ligimesele selle asemele",
+        "Magajad ärkasid sajandeid hiljem, muutunud"
+      ],
+      "answer": "Uskmatud uppusid, samal ajal kui usklikud päästeti laeval."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Eneoù ar Foz",
+  "intro": "Mont a rit en-dro d'ur mare ma c'houlenne ur rener didruez bezañ doujet penn-da-benn d'an doueed faos. Ur gumuniezh vihan a eneoù devot a nac'has, hag a c'houzañvas ur c'hastiz ken kalet ma voe milliget da viken. O istor a adkaver dre ar C'horan evel un testeni eus ur feiz dic'hortoz. Gallout a rit anavezout ar strollad start-se ?",
+  "clues": [
+    "Bevañ a reomp en ur vro dindan tiranniezh ur rener a c'houlenne azeuliñ doueed faos",
+    "Heskinerezh kalet a oa bet gant hor c'humuniezh abalamour d'hor c'hredenn en Allah hepken",
+    "Ar rener a c'hourc'hemennas toullañ ur foz vras ​​ha karget gant flammoù garv",
+    "Dre ma nac'hjomp nac'h hor feiz, e voemp taolet penn-da-benn er poull-tan-se",
+    "Dont a reas hon istor da vezañ ul lodenn eus ar C'horan, hag ar re a heskine ac'hanomp a voe milliget da viken",
+    "Anvet eo ar surah a enroll hor c'hlenved diwar anv arouezioù bras an oabl"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Kompagnuned ar Foz (Ashab al-Ukhdud)",
+        "Tud ar C'hev (Ashab al-Kahf)",
+        "Tud ar sabad",
+        "Tud A'ad",
+        "Tud Thamud"
+      ],
+      "answer": "Kompagnuned ar Foz (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Ar prosez",
+      "options": [
+        "Bezañ devet bev en ur poull tan",
+        "Bezañ siellet en ur c'hev e-pad meur a vloaz",
+        "Pesketa en deiz santel a ziskuiz",
+        "Bezañ distrujet gant un avel o yudal",
+        "Lazhañ ur c'hañvalez sakr"
+      ],
+      "answer": "Bezañ devet bev en ur poull tan"
+    },
+    "location": {
+      "label": "An elfenn bennañ",
+      "options": [
+        "Ur foz tan flamm",
+        "Ur c'hev kuzhet gant ur c'hi leal",
+        "Pileroù uhel ur gêr gozh kollet",
+        "Annezidi menezioù kizellet e krec'hioù mein",
+        "Ur blaenenn digor skubet gant avelioù feuls"
+      ],
+      "answer": "Ur foz tan flamm"
+    },
+    "outcome": {
+      "label": "Hon disoc'h",
+      "options": [
+        "Merzheriet omp bet ha milliget da viken an heskinerien",
+        "Dihunet omp goude bezañ kousket e-pad 309 bloaz",
+        "Treuzfurmet omp bet e marmouzed abalamour d'hor fec'hed",
+        "Un avel c'hwerv ha kreñv a zistrujas ac'hanomp holl",
+        "Ur griadenn spontus hepken en deus freuzet hor buhez"
+      ],
+      "answer": "Merzheriet omp bet ha milliget da viken an heskinerien"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

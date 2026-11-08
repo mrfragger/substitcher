@@ -1,0 +1,61 @@
+{
+  "title": "D'Wourecht, déi de Geriicht zum Schweige bruecht huet",
+  "intro": "An engem Palais, wou d'Verleugnung regéiert huet an d'Muecht absolut war, stoung eng Versammlung vu qualifizéierte Praktiker virun enger onerwaarter Erausfuerderung. D'Loft huet vir Erwaardung geknistert, wéi déi zwee Weeër vun der Falschheet an der Wourecht kuerz viruneneen stoungen. Déi Versammlungen hätten net geduecht, datt dës Begegnung hiert Liewe fir ëmmer verännere géif an hir Geschicht an den hellegen Text aschreiwe géif.",
+  "clues": [
+    "Mir ware bekannt fir eis Fäegkeet an Illusiounen a goufe vun engem mächtege Herrscher versammelt, fir engem Herausforderer ze konfrontéieren.",
+    "Wéi de Moment komm ass, hu mir eis Instrumenter gegoss a mat Zouversiicht an eisem Handwierk op d'Resultat gewaart.",
+    "Mee wat mir gesinn hunn, huet eis eegen Apparater wéi nëmme Spillsaachen ausgesinn gelooss, an eis Häerzer hunn déi onbestreitbar Wourecht erkannt.",
+    "Mir sinn an der Prostratioun op de Buedem gefall a soten eisen Glawen un den Här vum Moses an Aaron, trotz der Roserei vum Herrscher.",
+    "Dee Herrscher huet eis mat der brutalster Strof gedreet a geschwuer, eis ze kräizegen an eis Glieder op géigner Säiten ofzeschneiden.",
+    "Mir si standhaft bliwwen a soten, datt mir d'Uerteel vun eisem Här iwwer all weltlëch Konsequenze léiwer hätten, a mir si fir eise Glawen ëm d'Liewe komm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Zauberer vum Pharao",
+        "D'Leit vun der Höhl",
+        "D'Begleeder vum Bësch",
+        "D'Jünger vum Jesaja",
+        "D'Leit vum Elefant"
+      ],
+      "answer": "D'Zauberer vum Pharao"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "E Magie-Concours géint de Musa",
+        "E Feier, dat op si geheit gouf",
+        "Eng Iwwerschwemmung, déi se erdronk huet",
+        "Eng Dréchent an Hongersnout",
+        "En Äerdbiewen"
+      ],
+      "answer": "E Magie-Concours géint de Musa"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Stäb a Seeler, déi sech a Schlaange verwandelt hunn",
+        "E brennende Busch",
+        "E Kamel",
+        "Eng Ark aus Holz",
+        "E Wal"
+      ],
+      "answer": "Stäb a Seeler, déi sech a Schlaange verwandelt hunn"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Aus Glawen higeriicht, Paradäis versprach",
+        "Am Mier erdronk",
+        "Goufen Herrscher vun Egypten",
+        "Bleiwen Unhänger vum Pharao",
+        "D'Land geierft"
+      ],
+      "answer": "Aus Glawen higeriicht, Paradäis versprach"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

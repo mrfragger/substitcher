@@ -1,0 +1,61 @@
+{
+  "title": "La Pacienca Animo",
+  "intro": "En la analoj de profeteco, ekzistis animo, kies pacienco estis gravurita en la ŝtofon mem de ilia estaĵo. Tra larmoj kaj tempo, ili forte tenis esperon, fariĝante sentempa ekzemplo de fido al dia saĝo. Ĉu vi povas malimpliki la misteron de ĉi tiu neŝancelebla figuro?",
+  "clues": [
+    "Mi naskiĝis en familion de profetoj, tamen mia plej granda provo venis tra la infano, kiun mi plej amis.",
+    "Mi ricevis averton pri ĵaluzo el sonĝo, kiun mia filo dividis, kaj mi timis pri lia sekureco.",
+    "Miaj okuloj paliĝis pro malĝojo, tamen mi neniam perdis fidon je la kompato de Alaho.",
+    "La odoro de mia malaperinta infano atingis min de malproksime, kaj mi tiam sciis, ke reunuiĝo estas proksima.",
+    "Mia familio kliniĝis pro dankemo kiam la vizio de la pasinteco plenumiĝis, kaj mia vidkapablo restariĝis.",
+    "Mi estas tiu, al kiu oni donacis sangmakulitan ĉemizon, nur por poste ricevi ĉemizon, kiu resanigis mian vidkapablon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Ibrahim",
+        "Profeto Ishaq",
+        "Profeto Yaqub",
+        "Profeto Jusuf",
+        "Profeto Ayyub"
+      ],
+      "answer": "Profeto Yaqub"
+    },
+    "trial": {
+      "label": "La Decida Testo",
+      "options": [
+        "Apartigo de amata infano kaj perdo de vidkapablo",
+        "Estante ĵetita en flamantan fajron",
+        "Estante englutita de granda fiŝo",
+        "Elteni perdon de riĉeco, infanoj kaj sano",
+        "Estante perfidita de liaj fratoj kaj ĵetita en puton"
+      ],
+      "answer": "Apartigo de amata infano kaj perdo de vidkapablo"
+    },
+    "location": {
+      "label": "La Simbola Objekto",
+      "options": [
+        "Ĉemizo kiu unue kaŝis la veron kaj poste malkaŝis ĝin",
+        "Bastono kiu fariĝis serpento",
+        "Baleno kiu englutis profeton",
+        "Fajro kiu malvarmiĝis",
+        "Paro da sandaloj ĉe la brulanta arbusto"
+      ],
+      "answer": "Ĉemizo kiu unue kaŝis la veron kaj poste malkaŝis ĝin"
+    },
+    "outcome": {
+      "label": "La Dia Rezolucio",
+      "options": [
+        "Reunuiĝo kun perdita amato kaj restarigo de vidkapablo",
+        "Savo el nacio de subpremo",
+        "Liberiĝo el la ventro de fiŝo",
+        "Savo el flamanta fajro",
+        "Ĉieliro al granda trono"
+      ],
+      "answer": "Reunuiĝo kun perdita amato kaj restarigo de vidkapablo"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

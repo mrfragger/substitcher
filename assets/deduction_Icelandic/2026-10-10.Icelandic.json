@@ -1,0 +1,61 @@
+{
+  "title": "Fjaðrið skátinn",
+  "intro": "Innan ríkis sem stjórnað var af einum sem hafði fengið yfirráð yfir vindunum, ósýnilegum verum og himinsins verum, hvarf einn lítill og snöggur meðlimur úr röðum þeirra – aðeins til að snúa aftur með opinberanir sem myndu móta örlög fjarlægrar þjóðar. Þessi skarpskyggni uppljóstrari færði sannleikann í ljós þar sem fáfræði hafði fest rætur. Hver er ég?",
+  "clues": [
+    "Ég þjónaði við hirð þar sem menn, ósýnilegar verur og verur himinsins svöruðu einum viturum stjórnanda sem stjórnaði sjálfum vindunum.",
+    "Ég var fjarverandi frá embætti mínu um tíma og reiði stjórnandans var lofað ef ég gæfi ekki fullnægjandi ástæðu.",
+    "Ég er lítil flugvera, þekkt fyrir skarpa sjón, og mín tegund var heiðruð með beinum nafngiftum á síðum opinberunarinnar.",
+    "Þegar ég kom aftur færði ég mér fréttir af fjarlægu landi þar sem fólkið féll fram fyrir sólinni, blind fyrir þeim sem skapaði himin og jörð.",
+    "Ég fann konu sem réði yfir miklu ríki, sitjandi á stórkostlegum hásæti, án þess að hafa þekkt sannleikann áður.",
+    "Ég er sá sem uppgötvaði ríkið Saba og bar boðsbréf frá spámanni og konungi sem fékk vald yfir vindinum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Höfuðið (Húdhúd)",
+        "Maurinn frá Sulaiman-dalnum",
+        "Asif ibn Barkhiya",
+        "Ifrit djinninn",
+        "Engill hásætisins"
+      ],
+      "answer": "Höfuðið (Húdhúd)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Leiðangurinn til konungsríkisins Saba (Sheba)",
+        "Átökin við galdramenn Faraós",
+        "Flóð spámannsins Nuh",
+        "Eyðilegging fólksins í 'Ad",
+        "Klofinning Rauðahafsins"
+      ],
+      "answer": "Leiðangurinn til konungsríkisins Saba (Sheba)"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Landið Saba (Sheba)",
+        "Sínaífjall",
+        "Örk spámannsins Nuh",
+        "Hellirinn í Ashab al-Kahf",
+        "Faraóshöllin"
+      ],
+      "answer": "Landið Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Bilqis hlýddi hirð Sulaimans",
+        "Faraó og her hans drukknuðu í sjónum",
+        "Fólkið í 'Ad var tortímt af ofsafengnum vindi.",
+        "Galdramenn Faraós trúðu á spámanninn Músa",
+        "Mikil flóð gleypti vantrúaða"
+      ],
+      "answer": "Bilqis hlýddi hirð Sulaimans"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

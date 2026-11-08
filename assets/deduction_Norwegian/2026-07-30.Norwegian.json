@@ -1,0 +1,61 @@
+{
+  "title": "De merkelige besøkende i en bymur",
+  "intro": "En gruppe ankom portene til en by hvis folk aldri hadde kjent sannheten. De kom med et budskap, men innbyggerne ble fiendtlige og truet med vold. Likevel, fra et uventet sted, reiste én stemme seg for å forsvare de fremmede, og la grunnlaget for en dramatisk vending i hendelsene.",
+  "clues": [
+    "Vi kom inn i en by hvis folk var oppslukt av vantro.",
+    "De så mistenksomt på oss og sa: «Dere er bare vanlige vesener som oss.»",
+    "Vi advarte dem, men de kastet steiner mot oss.",
+    "En mann skyndte seg fra den fjerneste enden av byen for å bekrefte vår sannhet.",
+    "Han erklærte til sitt folk: «Hvorfor skulle jeg ikke tilbe Ham som skapte meg?»",
+    "Byens fornektelse endte med et enkelt brak, og stillheten hersket der de en gang hånet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Ya-Sins budbringere",
+        "Jesajas disipler",
+        "Folket i skyttergraven",
+        "Faraos magikere",
+        "Den troende på Ya-Sin"
+      ],
+      "answer": "Ya-Sins budbringere"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Avvisning og trussel om steining",
+        "Å bli kastet inn i en voldsom ild",
+        "En tålmodighetsprøve med et tapt barn",
+        "En hage som ble ødelagt",
+        "En reise gjennom havet"
+      ],
+      "answer": "Avvisning og trussel om steining"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Den ytterste enden av byen",
+        "Rødehavet",
+        "Grøften av ild",
+        "Tilfluktsstedet",
+        "Egypts fengsel"
+      ],
+      "answer": "Den ytterste enden av byen"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Byen ble ødelagt av et enkelt rop",
+        "Havet delte seg og druknet hæren",
+        "Ilden ble kjølig og trygg",
+        "Hagen ble fortært av en himmelsk ild",
+        "Hvalen førte personen tilbake til land"
+      ],
+      "answer": "Byen ble ødelagt av et enkelt rop"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

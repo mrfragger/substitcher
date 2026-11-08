@@ -1,0 +1,61 @@
+{
+  "title": "Abakhi Bemibhoshongo",
+  "intro": "Esikhathini eside esidlule, impucuko enamandla yavela, yahlukaniswa ngemisebenzi yayo emangalisayo yokwakha kanye namandla amakhulu. Lo mbuso ohlangene wanikezwa izinsiza eziningi kanye nobuchule obungokomzimba, kodwa bakhetha indlela yokuphikisa umyalezo waphezulu othunyelwe ukubaqondisa. Indaba yabo isebenza njengesifundo esijulile emlandweni, ubufakazi bemiphumela yokwenqaba iqiniso.",
+  "clues": [
+    "Sanikwa amandla amakhulu omzimba kanye nobukhulu, ngokungafani nanoma yibaphi abanye abantu besikhathi sethu.",
+    "Sasaziwa ngokwakha izakhiwo ezinkulu nezinsika eziphakeme kuzo zonke izindawo eziphakeme, sicabanga ukuthi sizophila phakade.",
+    "Isithunywa esivela kithi sathunyelwa ukuzosixwayisa, sisibizela ukuba sikhonze u-Allah kuphela futhi sishiye izithixo zethu.",
+    "Sabuza isithunywa sethu ngokuzidla, sibuza ukuthi ngabe beze kithi ukuzosenza sikhulekele u-Allah futhi silahle lokho okwakukhonzwa okhokho bethu.",
+    "Izwe lethu lalibusiswe ngezingadi, imithombo, namasimu avundile, kodwa sathi ukuchuma kwethu kungenxa yamandla ethu, hhayi uMdali wethu.",
+    "Ngenxa yokungakholwa kwethu okuqhubekayo kanye nokuhlekwa usulu, ekugcineni sabhujiswa umoya owesabekayo nonamandla owavunguza izinsuku eziningi nobusuku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu baseFir'aun",
+        "Abantu baseNuh",
+        "Abantu baseMadyan",
+        "Abantu be-'Ad"
+      ],
+      "answer": "Abantu be-'Ad"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukucelwa ukuba uhlabe ikamela elithile",
+        "Ukuphonswa inselelo yokukhiqiza ama-surah ayishumi njenge-Quran",
+        "Kuboniswa ukuhlukana kolwandle",
+        "Ukuxwayiswa ngumprofethi ngesikhukhula esisondelayo",
+        "Ukwenqaba umprofethi owaxwayisa ngokwakha ngokweqile nokukhulekela izithombe"
+      ],
+      "answer": "Ukwenqaba umprofethi owaxwayisa ngokwakha ngokweqile nokukhulekela izithombe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "UMphongolo",
+        "Abasebenzi",
+        "Umlilo",
+        "Umuzi waseSodoma",
+        "Izinsika eziphakeme nezindlu eziqinile"
+      ],
+      "answer": "Izinsika eziphakeme nezindlu eziqinile"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ngicwile esikhukhuleni esikhulu",
+        "Kugwinywe umhlaba",
+        "Kuguqulwe kwaba yizinkawu nezingulube",
+        "Kubhujiswe ukuqhuma okukhulu",
+        "Ubhujiswe umoya onamandla, obhubhisayo"
+      ],
+      "answer": "Ubhujiswe umoya onamandla, obhubhisayo"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

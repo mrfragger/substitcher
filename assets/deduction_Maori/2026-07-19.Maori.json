@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo Kāore i Whakarongohia o Ngā Rau Tau",
+  "intro": "I mua noa atu i te aranga ake o ngā tāone nui, ka ara ake tētahi wairua mokemoke i roto i tētahi iwi kua tahuri ke i te pono. Ko tō rātou uauatanga anake i rite ki te manawanui o tēnei kaikaranga mokemoke, i inoi i roto i ngā whakatipuranga me te kore e ngaro te whakaaro. I te wa i taka ai ngā whakatūpato katoa ki ngā taringa turi, ka hurihia te ao e tētahi whakatau tata. I tēnei rā, kei te rere tonu ngā haruru o taua kōrero i roto i ia whakahuatanga. Ka taea e koe te tautuhi i tēnei wairua pakari?",
+  "clues": [
+    "I whakatipuria ahau i roto i te iwi i karakia ki ngā whakapakoko teka, ā, i wareware ki ngā tohu e karapoti ana i a rātou, heoi i whiriwhiria ahau hei whakaara i a rātou i tō rātou mangere.",
+    "I karanga atu ahau ki taku iwi i ngā wā katoa, engari i whakapae mai rātou he tangata noa iho ahau pērā i a rātou, e tawai ana i taku karere, e puru ana i ō rātou taringa.",
+    "I te pō, i te ao, i inoi ahau ki a rātou me te whakaaro nui, me ngā whakamahara ngawari, engari ko aku kupu te āhua nei kua memeha haere ki te rangi, kāore i rangona, kāore hoki i arohia.",
+    "I raro i te tohutohu a te Atua, i hanga e ahau tētahi waka nui i hangaia ki te rakau me ngā papa ki te whenua maroke, ā ka kata mai tōku iwi ki ahau me te mea kua ngaro te whakaaro.",
+    "I te taenga mai o te waipuke nui e ai ki te kupu whakaari, kāore taku tama i pai ki te eke tahi māua ki te kaipuke, i te whakapono ka tiakina ia e te maunga i te pikinga ake o te wai.",
+    "I riro ahau hei tumuaki mō tētahi tīmatanga hou ki te whenua, ā, kei roto i tētahi upoko o te Quran tōku ingoa e mau nei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Noa",
+        "Poropiti Ihāperama",
+        "Poropiti a Mohi",
+        "Poropiti Ruta",
+        "Poropiti a Hūta"
+      ],
+      "answer": "Poropiti a Noa"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te Waipuke Nui i hanga hou i te whenua",
+        "Te maka ki roto i te ahi mura e te hunga karakia whakapakoko",
+        "Te tūtakitanga ki ngā tohunga makutu a Parao i te whare kingi",
+        "Te whakangaromanga o ngā māra momona e te tupuhi o te rangi",
+        "Te hurihanga o ngā tāngata noho awaawa"
+      ],
+      "answer": "Te Waipuke Nui i hanga hou i te whenua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te Āraka i hangaia ki te rakau me ngā papa",
+        "Ko te whare tapu i hangaia i runga i ngā turanga tawhito",
+        "Te tokotoko i huri hei nakahi",
+        "Te ana o ngā taiohi e moe ana",
+        "Ko te torona e amohia ana e tetahi mea kaha"
+      ],
+      "answer": "Ko te Āraka i hangaia ki te rakau me ngā papa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi ngā tāngata whakaponokore, ā, i ora ngā tāngata whakapono i runga i te kaipuke.",
+        "I mātao te ahi, ā, i haumaru, ā, i puta mai te kaikaranga me te kore whara.",
+        "I hinga ngā tohunga makutu, ā, i awhi i te whakapono",
+        "I tukuna te māra ki te hoa tika hei whakakapi mōna",
+        "I ara ake ngā moe i muri i ngā rautau, i huri ke"
+      ],
+      "answer": "I toremi ngā tāngata whakaponokore, ā, i ora ngā tāngata whakapono i runga i te kaipuke."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

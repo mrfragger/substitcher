@@ -1,0 +1,61 @@
+{
+  "title": "Den onopgehéierte Ruff am Land vun der Arroganz",
+  "intro": "Dir stinn an de Ruine vun enger fréier grousser Zivilisatioun, wou Muecht a Stolz keng Grenzen kannten. E Bote ass ënnert hinne gaangen, huet no der Wourecht geruff, mä hir Häerzer ware verhärtet. D'Warnung gouf ignoréiert, an den Himmel selwer gouf zu engem Instrument vum Roserei. Wien war dëse Bote, a wat ass mat deenen ginn, déi de Ruff refuséiert hunn?",
+  "clues": [
+    "Ech gouf zu engem Vollek geschéckt, dat a senger Kraaft net iwwerträfft war a dat op all Héicht e Monument gebaut huet.",
+    "Mäi Vollek huet sech als onbesiegbar ugesinn a sot: \"Wien ass méi staark wéi mir?\"",
+    "Ech hunn si geruff, Allah eleng ze ubidden, mä si hunn mech vun Dommheet a Ligen beschëllegt.",
+    "Si hunn mech erausgefuerdert, d'Strof ze bréngen, déi ech versprach hunn, wann ech éierlech wier.",
+    "Allah huet e kaalen Wand op si geschéckt, deen näischt verschount huet, wat e betrëfft.",
+    "Ech an déi, déi mat mir gegleeft hunn, goufe vun der Barmhäerzegkeet vun Allah gerett, während déi Ongleeweg komplett zerstéiert goufen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Hud",
+        "Prophet Salih",
+        "Prophet Schuaib",
+        "Prophet Lut",
+        "Prophet Nuh"
+      ],
+      "answer": "Prophet Hud"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "E verheerende Wand huet déi Ongleeweg zerstéiert",
+        "Eng grouss Iwwerschwemmung huet déi Ongleeweg iwwerschléckt",
+        "Eng Stengschauer ass erofgereent",
+        "E laute Gejäiz huet déi Ongleeweg gegraff",
+        "En Äerdbiewen huet déi Ongleeweg getraff"
+      ],
+      "answer": "E verheerende Wand huet déi Ongleeweg zerstéiert"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "En onbarmhäerzege Wand",
+        "Eng hëlze Ark",
+        "E Kamel",
+        "E Reen vu Leemsteng",
+        "E blëtzend Feier"
+      ],
+      "answer": "En onbarmhäerzege Wand"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Den Hud an d'Gleeweger goufe gerett, an d'Ongleeweger goufen zerstéiert",
+        "Den Hud gouf op eng héich Plaz erhuewen",
+        "Den Hud gouf vu sengem Vollek ëmbruecht",
+        "D'Leit vum Hud hunn sech bekéiert a goufe verschount",
+        "Den Hud huet säi Vollek verlooss, ier iergendeng Strof kritt gouf"
+      ],
+      "answer": "Den Hud an d'Gleeweger goufe gerett, an d'Ongleeweger goufen zerstéiert"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

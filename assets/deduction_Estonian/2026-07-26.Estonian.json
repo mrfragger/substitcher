@@ -1,0 +1,61 @@
+{
+  "title": "Kroon, mis esitas väljakutse taevale",
+  "intro": "Muistsete kuningriikide koridorides sai ühe valitseja nimi türannia ja ülbuse sünonüümiks. Kui Allahi alandlik teener saabus vaieldamatute märkidega, keeldus see võimas valitseja tõele alistumast. Täna on teie ülesanne tuvastada see legendaarne tegelane, kelle võim varises kokku ja kelle saatus otsustati lainete all.",
+  "clues": [
+    "Ma olen kõige kardetum valitseja, kelle nimi kajab hoiatusena läbi aegade.",
+    "Ma käskisin tervel rahval kettides tööd teha ja püstitada monumente, mis kuulutasid minu au.",
+    "Kui Allahi sõnumitooja tuli minu ette vaieldamatute märkidega, keeldusin ma kummardamast ja nimetasin seda nõiduseks.",
+    "Ma andsin korralduse vangistatud rahva seas imikute poegade tapmiseks, lootes nende vaimu purustada enne, kui nad tõusta saavad.",
+    "Seisin oma kohtu ees ja kuulutasin: „Ma olen teie kõrgeim isand,“ nõudes jumalana kummardamist.",
+    "Minu peaminister minu kõrval ehitasin ma kõrguva ehitise, mille eesmärk oli ronida taevani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Vaarao (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Vaarao (Fir'awn)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Punases meres uppumine",
+        "Thamudi rahvale saadetud emakaamel",
+        "Nuhi suur üleujutus",
+        "Kaeviku kaaslaste karistamine",
+        "Abraha armee hävitamine lindude poolt"
+      ],
+      "answer": "Punases meres uppumine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Hamaniga ehitatud kõrguv ehitis",
+        "Laev, mis veeuputuse ajal purjetas",
+        "Samiiri valmistatud kuldvasikas",
+        "Seeba kuninganna Bilqise troon",
+        "Magavate noorte koobas"
+      ],
+      "answer": "Hamaniga ehitatud kõrguv ehitis"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uppus merre; keha säilitati hoiatuseks",
+        "Paguluses ja sunnitud kõnnumaal rändama",
+        "Karistuseks ahvideks muudetud",
+        "Tabas vägivaldne maavärin",
+        "Taevast langenud kivivihma poolt põletatud"
+      ],
+      "answer": "Uppus merre; keha säilitati hoiatuseks"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

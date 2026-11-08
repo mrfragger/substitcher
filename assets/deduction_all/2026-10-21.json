@@ -1,0 +1,61 @@
+{
+  "title": "The Messenger Who Confronted the Idolaters",
+  "intro": "In a time when devotion had strayed, a messenger rose with a call to return to the worship of the Lord of the worlds. This figure stood firm against a people entrenched in the worship of a false deity, reminding them of their true Creator and the Lord of their forefathers. Yet the people were heedless and rejected the warning, sealing their own fate. Who was this unwavering caller?",
+  "clues": [
+    "I was sent to a people who had turned away from the path of the One True God.",
+    "I asked my people, \"Will you not fear Allah?\"",
+    "I called them to abandon their worship of a false deity named Baal.",
+    "My people rejected my call and persisted in their idolatry.",
+    "Because of their denial, they will surely be brought forth for punishment.",
+    "My Lord granted me peace and a blessed remembrance among the later generations."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Ilyas",
+        "Prophet Yahya",
+        "Prophet Dhul-Kifl",
+        "Prophet Yusuf",
+        "Prophet Shu'ayb"
+      ],
+      "answer": "Prophet Ilyas"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Called his people to abandon Baal",
+        "Built an ark to save the believers",
+        "Was thrown into a fire",
+        "Fled from the tyrant Pharaoh",
+        "Struck a rock to bring forth water"
+      ],
+      "answer": "Called his people to abandon Baal"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Granted peace and a blessed remembrance",
+        "Swallowed by the earth",
+        "Destroyed by a violent storm",
+        "Turned into a stone",
+        "Drowned in the sea"
+      ],
+      "answer": "Granted peace and a blessed remembrance"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

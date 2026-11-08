@@ -1,0 +1,61 @@
+{
+  "title": "Kesha la Waliofiwa",
+  "intro": "Unakaribia kukutana na roho iliyojaribiwa na utengano wa ndani kabisa, ambaye macho yake yalijua lugha ya machozi lakini moyo wake haukupoteza tumaini. Katika hadithi ya udanganyifu, hamu, na hatimaye kuungana tena, mtumishi huyu mtukufu wa Mwenyezi Mungu akawa ishara ya uvumilivu kwa wakati wote. Ni nani aliyevumilia miaka ya maumivu yaliyofichwa, lakini kuona na furaha kurejeshwa kwa muda mfupi tu?",
+  "clues": [
+    "Mimi ni nabii ambaye jina lake likawa ishara ya uvumilivu mbele ya hasara kubwa.",
+    "Nilibarikiwa na wana wengi, lakini mmoja alichukuliwa kutoka kwangu kwa wivu wa wengine.",
+    "Upendo wangu kwa yule aliyepotea ulikuwa mkubwa sana kiasi kwamba macho yangu yaligeuka meupe kutokana na huzuni, lakini sikuwahi kulalamika isipokuwa kwa Mwenyezi Mungu.",
+    "Niliwatuma wanangu warudi kumtafuta yule niliyempoteza na kaka yake, nikiwasihi wasikate tamaa.",
+    "Mleta habari njema alipofika, shati liliwekwa usoni mwangu, na ghafla dunia ikawa wazi tena.",
+    "Ninajulikana kama Israeli, na kutoka kwa wanangu kumi na wawili kulitoka makabila kumi na mawili ya taifa kubwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ya'qub (Yakobo)",
+        "Nabii Yusufu (Yusufu)",
+        "Nabii Ishaq (Isaka)",
+        "Nabii Ibrahim (Abrahamu)",
+        "Nabii Ayyub (Ayubu)"
+      ],
+      "answer": "Nabii Ya'qub (Yakobo)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutengana na mwana mpendwa kwa miaka mingi",
+        "Kutupwa kwenye moto unaowaka",
+        "Imemezwa na samaki mkubwa",
+        "Anaugua ugonjwa mbaya wa ngozi",
+        "Kutokuwa na mtoto hadi uzee"
+      ],
+      "answer": "Kutengana na mwana mpendwa kwa miaka mingi"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Shati la Yusufu",
+        "Fimbo ya Musa",
+        "Sanduku la Nuhu",
+        "Ngamia jike wa Salih",
+        "Pete ya Sulayman"
+      ],
+      "answer": "Shati la Yusufu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Uoni umerudishwa na kuungana tena na mwanawe",
+        "Alitoa ushindi dhidi ya mfalme mdhalimu",
+        "Aliinuliwa mbinguni akiwa hai",
+        "Aliteuliwa kuwa mtawala juu ya Misri",
+        "Kupewa mwana katika uzee kama muujiza"
+      ],
+      "answer": "Uoni umerudishwa na kuungana tena na mwanawe"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

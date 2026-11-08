@@ -1,0 +1,61 @@
+{
+  "title": "Sönməz Alovun Mühafizəçisi",
+  "intro": "Görünməyən dünyanın ən qorxulu yerinin astanasında bir fiqur dayanır və ona başqa heç bir varlığın istəmədiyi bir vəzifə həvalə olunub. Əzab çəkən ruhlar mərhəmət diləyərkən, sərt bir cavab od otaqlarından əks-səda verir. Bu əbədi qəyyumun kimliyini aşkar edə bilərsinizmi?",
+  "clues": [
+    "Mən görünməz bir yerdə dəhşətli bir cəza yerinin girişində dayanıram.",
+    "Alovlu, sönməz bir alov mənim təntənəli vəzifəmin mərkəzindədir.",
+    "Əzab çəkən ruhlar sonsuz əzablarından qurtulmaq üçün yalvararaq adımı çağırırlar.",
+    "Onlar yalvaranda, mən bəyan edirəm ki, onlar heç vaxt ayrılmayacaqlar.",
+    "Mən nə insanam, nə də cinəm — mən xalis itaətkarlıqla yaradılmış bir varlıqam.",
+    "Mən Cəhənnəmin əbədi qoruyucusu olaraq təyin olunmuş baş mələyəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Malik",
+        "Cəbrail",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Cəhənnəm əhli əzablarının sona çatmasını diləyirlər",
+        "Qiyamət gününün əlaməti olaraq sur çalınır",
+        "Quran Peyğəmbərin qəlbinə nazil olur",
+        "Bir peyğəmbər öz xalqı tərəfindən böyük bir oda atılır",
+        "Korlanmış milləti saxlamaq üçün qüdrətli bir divar tikilir"
+      ],
+      "answer": "Cəhənnəm əhli əzablarının sona çatmasını diləyirlər"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Cəhənnəm (Cəhənnəm)",
+        "Cənnətin sərhədindəki Sidr ağacı",
+        "Dəlisov truba",
+        "İlana çevrilən bir əsa",
+        "Möhtəşəm ilahi taxt"
+      ],
+      "answer": "Cəhənnəm (Cəhənnəm)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Cəhənnəm əhlinə əbədi qalacaqları deyilir",
+        "Cəhənnəm sakinləri bağışlanır və azad edilirlər",
+        "Cəhənnəm sakinlərinə iman gətirmək üçün ikinci bir şans verilir",
+        "Cəhənnəm sakinləri sərin bir yerə aparılarlar",
+        "Cəhənnəm sakinləri ildırımla tamamilə məhv edilirlər"
+      ],
+      "answer": "Cəhənnəm əhlinə əbədi qalacaqları deyilir"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dôveryhodný Duch Zjavenia",
+  "intro": "V neviditeľných ríšach sa bytosť z čistého svetla pohybuje s presnosťou a bez váhania vykonáva každý príkaz. Táto postava hovorila s vyvolenými služobníkmi, prinášala slová vedenia a bola svedkom odhaľovania božských rozhodnutí naprieč vekmi. Kto je táto ctená duša?",
+  "clues": [
+    "Som bytosť z čistého svetla, stvorená zo svetla, a nikdy som neposlúchla jediný príkaz môjho Pána.",
+    "Pohybujem sa medzi nebesami a zemou, zostupujem s rozhodnutiami Najmilosrdnejšieho.",
+    "Bol som poslaný k vznešenej panne v svätyni a zvestoval som jej čistého syna.",
+    "Ja som duch svätosti a podporoval som proroka, ktorému boli dané jasné znamenia a evanjelium.",
+    "Prišiel som do jaskyne na hore, aby som predniesol prvé slová recitácie, ktorá sa mala zachovať navždy.",
+    "Ja som dôveryhodný duch a bol som to ja, kto zoslal Korán do srdca posledného posla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Džibril (Gabriel)",
+        "Mikail (Michael)",
+        "Anjel smrti",
+        "Malik (Strážca pekla)",
+        "Harut (jeden z dvoch anjelov v Babylone)"
+      ],
+      "answer": "Džibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Kľúčové poslanie/úloha",
+      "options": [
+        "Odovzdávanie zjavení prorokom",
+        "Trúbenie na trúbku v deň súdu",
+        "Strážiac brány pekla",
+        "Zaznamenávanie ľudských činov",
+        "Spôsobuje, že prší"
+      ],
+      "answer": "Odovzdávanie zjavení prorokom"
+    },
+    "location": {
+      "label": "Kľúčový atribút alebo názov",
+      "options": [
+        "Duch Svätý (Ruh al-Kudus)",
+        "Duch moci",
+        "Duch milosrdenstva",
+        "Duch vedenia",
+        "Duch pravdy"
+      ],
+      "answer": "Duch Svätý (Ruh al-Kudus)"
+    },
+    "outcome": {
+      "label": "Výsledok misie",
+      "options": [
+        "Korán bol zjavený prorokovi Mohamedovi",
+        "V deň súdu zatrúbili na trúbu",
+        "Peklo bolo strážené a jeho brány boli zatvorené",
+        "Kniha skutkov bola predložená Alahovi",
+        "Dážď bol zoslaný na zem"
+      ],
+      "answer": "Korán bol zjavený prorokovi Mohamedovi"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

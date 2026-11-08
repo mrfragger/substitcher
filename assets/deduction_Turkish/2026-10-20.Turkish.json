@@ -1,0 +1,61 @@
+{
+  "title": "Sahte Hırsın Mimarı",
+  "intro": "Antik Mısır'da, tarihin en kötü şöhretli tiranlarından birine hizmet eden büyük bir otorite sahibi vardı. Bu kişiye, göklere meydan okuyacak bir yapı inşa etme gibi cüretkâr bir emir verilmişti. Bu kişinin hikayesi, Kur'an'da, kibire körü körüne itaatin yalnızca yıkıma yol açtığına dair çarpıcı bir ders olarak yer almaktadır.",
+  "clues": [
+    "Topraklar üzerinde ilahi hak iddia eden güçlü bir hükümdarın saraylarında görev yaptım.",
+    "Dönemimin en kibirli tiranına danışmanlık yapan yüksek bir bakanlık görevinde bulundum.",
+    "Hükümdarım, tanımayı reddettikleri Musa'nın Tanrısı'na meydan okumakla meşguldü.",
+    "Hükümdarımın göğe yükselebilmesi için fırında pişirilmiş tuğlalardan bir kule inşa etmem emredildi.",
+    "Kule asla göğe ulaşmadı ve kibire olan düşkünlüğüm bana sonsuza dek utanç getirdi.",
+    "Peşimden gelenle birlikte helak oldum ve adım, tiranlara destek verenlere karşı kalıcı bir uyarı oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Haman",
+        "Azar (İbrahim'in babası)",
+        "İlyas (bir peygamber)",
+        "Zülkifl",
+        "Harut (Babil'deki iki melekten biri)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Gökyüzüne ulaşacak kadar yüksek bir yapı inşa etme emri verildi.",
+        "Tanrıdan gelen bir rüyayı yorumlaması istendi.",
+        "İnancın sınanması için alev alev yanan bir ateşe atıldı.",
+        "Taht ile gerçek arasında seçim yapmak zorunda kaldı.",
+        "Büyü yarışmasında meydan okundu"
+      ],
+      "answer": "Gökyüzüne ulaşacak kadar yüksek bir yapı inşa etme emri verildi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Fırında pişirilmiş tuğlalardan bir kule",
+        "Yılana dönüşen bir asa",
+        "Büyük bir selin içinden geçen bir gemi",
+        "Yüksek duvarlarla çevrili bir bahçe",
+        "Yakut ve altınla süslenmiş bir taht"
+      ],
+      "answer": "Fırında pişirilmiş tuğlalardan bir kule"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Zalimle birlikte denizde boğuldu.",
+        "Geniş toprakların güçlü bir hükümdarı oldu.",
+        "Alevler içinde kalan yangından yara almadan kurtuldu.",
+        "Bilgeliğin bereketli bir krallığını kurdu.",
+        "Yıllarca süren sürgünün ardından ailesiyle yeniden bir araya geldi."
+      ],
+      "answer": "Zalimle birlikte denizde boğuldu."
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

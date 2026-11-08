@@ -1,0 +1,60 @@
+{
+  "title": "Jarabawar da ke Ƙarƙashin Raƙuman Ruwa",
+  "intro": "Wani annabi, wanda aikinsa ya ɗora masa nauyi, ya yanke shawara da ta kai shi nesa da mutanensa kuma ta shiga cikin wata jarabawa da ba a zata ba. Tafiyarsa ta ɗauki wani sabon salo, inda ya gwada imaninsa da haƙurinsa ta hanya mafi zurfi. Za ku iya fahimtar cikakkun bayanai game da wannan abin da ya faru daga alamun da aka bayar?",
+  "clues": [
+    "An aiko wani annabi zuwa ga wata al'umma, amma ya tafi da sauri, yana jin takaici da kin amincewa da su.",
+    "Tafiyarsa ta kai shi teku, inda ya hau jirgin ruwa mai kaya da yawa yana neman hanyar wucewa.",
+    "Babban guguwa ta taso, tana barazana ga jirgin, sai aka yanke shawarar jefa mutum ɗaya cikin ruwa don rage nauyin, bisa ga kuri'a.",
+    "Wani halitta daga cikin zurfin teku ya haɗiye shi, wani abin al'ajabi da nufin Allah ya tsara.",
+    "A cikin cikin halittar, ya kira Ubangijinsa, yana tuba yana kuma ɗaukaka Allah a cikin duhu.",
+    "Bayan tsawon lokaci na addu'a mai tsanani, an jefa shi a kan wani bakin teku mara ruwa, mai rauni amma yana raye, daga baya kuma ya dawo ya ga mutanensa sun yi imani."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Annabi/Mutum",
+      "options": [
+        "Annabi Nuhu",
+        "Annabi Lutu",
+        "Annabi Musa",
+        "Annabi Yunus",
+        "Annabi Yusufu"
+      ],
+      "answer": "Annabi Yunus"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ambaliyar Nuhu",
+        "Halaka Saduma",
+        "Tafiya a cikin cikin babban kifi",
+        "Rabe-raben teku",
+        "Bayyanar daji mai ƙonewa"
+      ],
+      "answer": "Tafiya a cikin cikin babban kifi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Dutsen Sinai",
+        "Ma'aikacin Musa",
+        "Babban Kifi",
+        "Rijiyar Yusufu"
+      ],
+      "answer": "Babban Kifi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Sabon alkawari da ɗan adam",
+        "Haihuwa mai ban mamaki ga mutanensa",
+        "Masarauta da aka kafa don zuriyarsa",
+        "Komawa ga mutanensa waɗanda suka yi imani a lokacin",
+        "Nasara a kan wani azzalumi mai mulki"
+      ],
+      "answer": "Komawa ga mutanensa waɗanda suka yi imani a lokacin"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

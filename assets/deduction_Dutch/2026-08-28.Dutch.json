@@ -1,0 +1,61 @@
+{
+  "title": "De hindernis bij het oude huis",
+  "intro": "In de heilige stad kookte een machtige figuur van woede toen een nieuwe boodschap zich begon te verspreiden. Deze persoon, wiens naam synoniem werd met verzet tegen de waarheid, zag zijn invloed afbrokkelen onder het gewicht van de goddelijke openbaring. Wie was deze ziel, wiens lot bezegeld werd in het zand van een beroemd slagveld?",
+  "clues": [
+    "Ik was een leider onder mijn volk, bekend om mijn rijkdom en invloed in een stad waar een eeuwenoud heiligdom stond.",
+    "Toen een man uit mijn stam de boodschap van één God begon te verkondigen, bespotte ik hem en zijn openbaringen en noemde ze slechts verhalen uit het verleden.",
+    "Ik sprak die man aan terwijl hij vlakbij het heilige bouwwerk aan het bidden was en dreigde hem desnoods met geweld te stoppen.",
+    "Ik behoorde tot de leiders die samenzwoeren om het nieuwe geloof de kop in te drukken en de aanhangers ervan zowel met woorden als met wapens te bestrijden.",
+    "Ik trok met een leger naar een plaats genaamd Badr, vol vertrouwen dat we de kleine groep gelovigen zouden verpletteren.",
+    "Maar op dat slagveld kwam mijn leven tot een einde, en mijn dood werd een les voor hen die ondanks duidelijke signalen volhardend in ongeloof blijven."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Het beletten van de Profeet om bij de Kaaba te bidden",
+        "De bouw van de Kaaba",
+        "Het schrijven van de Koran",
+        "Het leiden van het olifantenleger",
+        "De maan splijten"
+      ],
+      "answer": "Het beletten van de Profeet om bij de Kaaba te bidden"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "De Kaaba",
+        "De ark van profeet Nuh",
+        "De staf van profeet Musa",
+        "Het Gouden Kalf",
+        "De troon van de koningin van Sheba"
+      ],
+      "answer": "De Kaaba"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Gesneuveld in de Slag bij Badr",
+        "Hij bekeerde zich en werd moslim.",
+        "Vluchtte naar Abessinië",
+        "Overleden in het Jaar van de Olifant",
+        "Werd een metgezel van de profeet"
+      ],
+      "answer": "Gesneuveld in de Slag bij Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

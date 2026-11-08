@@ -1,0 +1,61 @@
+{
+  "title": "Zdobywca między dwoma horyzontami",
+  "intro": "W annałach boskiego przewodnictwa jedna postać wyróżnia się jako potężny władca i pokorny sługa Allaha. Ten człowiek podróżował do najdalszych zakątków ziemi, będąc świadkiem wschodu słońca nad niezwykłym ludem i zachodu nad czarną, mętną wodą. Co najdziwniejsze, sługa ten otrzymał zadanie zbudowania niezwykłej bariery przeciwko narodowi szerzącemu wielkie zło. Czy potrafisz rozpoznać tę legendarną postać z Koranu?",
+  "clues": [
+    "Otrzymałem władzę i wpływy na ziemi od Najmiłosierniejszego",
+    "Podróżowałem do miejsca, gdzie wschodzi i zachodzi słońce",
+    "Dotarłem do ludzi, którzy ledwo rozumieli jedno słowo",
+    "Kazano mi zbudować ogromną barierę z żelaza",
+    "Zamknąłem przestrzeń między dwiema stromymi górami roztopionym metalem",
+    "Nie byłem ani aniołem, ani prorokiem, lecz sługą, którego Bóg obdarzył łaską"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Dhu al-Qarnayn (Ten z dwoma rogami)",
+        "Król Sulejman (Salomon)",
+        "Prorok Dhul-Kifl",
+        "Dhu al-Nun (Towarzysz Ryb)",
+        "Anioł Bariery"
+      ],
+      "answer": "Dhu al-Qarnayn (Ten z dwoma rogami)"
+    },
+    "trial": {
+      "label": "Wielkie zadanie",
+      "options": [
+        "Budowanie wieży do nieba",
+        "Budowa potężnej żelaznej bariery przeciwko Yajuj i Majuj",
+        "Stworzenie złotego tronu do sądu",
+        "Kopanie głębokiej studni dla sprawiedliwych",
+        "Budowa statku podczas wielkiej powodzi"
+      ],
+      "answer": "Budowa potężnej żelaznej bariery przeciwko Yajuj i Majuj"
+    },
+    "location": {
+      "label": "Ustawienie",
+      "options": [
+        "Ziemia Uzaira między dwiema rzekami",
+        "Miejsce wschodu słońca i czarnej, błotnistej wiosny",
+        "Święta Dolina Mekki",
+        "Pustynia Madyanu",
+        "Wyspa Cypr"
+      ],
+      "answer": "Miejsce wschodu słońca i czarnej, błotnistej wiosny"
+    },
+    "outcome": {
+      "label": "Boska obietnica",
+      "options": [
+        "Wieczny raj udzielony natychmiast",
+        "Naród został zniszczony przez gorący wiatr",
+        "Bariera będzie obowiązywać aż do Dnia Sądu",
+        "Wolność od śmierci dla wszystkich wierzących",
+        "Wieczne królestwo bez końca"
+      ],
+      "answer": "Bariera będzie obowiązywać aż do Dnia Sądu"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

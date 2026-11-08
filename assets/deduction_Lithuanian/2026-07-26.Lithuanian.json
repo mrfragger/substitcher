@@ -1,0 +1,61 @@
+{
+  "title": "Karūna, kuri metė iššūkį dangui",
+  "intro": "Senovės karalysčių koridoriuose vieno valdovo vardas tapo tironijos ir arogancijos sinonimu. Kai atvyko nuolankus Alacho tarnas, nešinas neginčijamais ženklais, šis galingas valdovas atsisakė pasiduoti tiesai. Šiandien jūsų užduotis – atpažinti šią legendinę asmenybę, kurios valdžia žlugo ir kurios likimas buvo nulemtas po bangomis.",
+  "clues": [
+    "Esu labiausiai bijomas valdovas, kurio vardas vis dar aidi kaip įspėjimas per amžius.",
+    "Įsakiau visai tautai dirbti grandinėmis, statant paminklus, kurie skelbtų mano šlovę.",
+    "Kai pas mane atėjo Alacho pasiuntinys su nepaneigiamais ženklais, aš atsisakiau nusilenkti ir pavadinau tai burtininkavimu.",
+    "Įsakiau nužudyti kūdikius tarp belaisvių, tikėdamasis sutraiškyti jų dvasią, kol jie nespės pakilti.",
+    "Aš stovėjau prieš savo teismą ir pareiškiau: „Aš esu jūsų aukščiausiasis valdovas“, reikalaudamas garbinimo kaip dievo.",
+    "Su savo ministru pirmininku šalia pastačiau milžinišką statinį, skirtą pakilti aukščiau dangaus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Faraonas (Fir'awn)",
+        "Namrudas",
+        "Hamanas",
+        "Abu Lahabas",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraonas (Fir'awn)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Skendimas Raudonojoje jūroje",
+        "Kupranugarė, išsiųsta Tamudo žmonėms",
+        "Didysis Nuho potvynis",
+        "Tranšėjos palydovų bausmė",
+        "Paukščių sunaikinta Abraha armija"
+      ],
+      "answer": "Skendimas Raudonojoje jūroje"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didinga konstrukcija, pastatyta kartu su Hamanu",
+        "Arka, kuri plaukė per tvaną",
+        "Samiri pagamintas auksinis veršis",
+        "Bilqis, Šebos karalienės, sostas",
+        "Miegančiųjų jaunuolių ola"
+      ],
+      "answer": "Didinga konstrukcija, pastatyta kartu su Hamanu"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nuskendo jūroje; kūnas išsaugotas kaip įspėjimas",
+        "Ištremtas ir priverstas klajoti po dykumą",
+        "Bausmė paversta beždžionėmis",
+        "Sugriovė smarkus žemės drebėjimas",
+        "Sudegintas akmenų lietaus iš dangaus"
+      ],
+      "answer": "Nuskendo jūroje; kūnas išsaugotas kaip įspėjimas"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

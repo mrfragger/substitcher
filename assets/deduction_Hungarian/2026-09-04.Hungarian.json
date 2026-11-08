@@ -1,0 +1,61 @@
+{
+  "title": "A hegyeket megmozgató dallam",
+  "intro": "Hamarosan feltárul Allah egy figyelemre méltó szolgájának története. Egy küldöttek és uralkodók földjén ez a személy isteni könyvvel, erőteljes hanggal és a vas feletti erővel volt megáldva. Miközben elolvasod a nyomokat, kitalálod, hogy ki lehet ez?",
+  "clues": [
+    "Allah szolgája voltam, akinek egy különleges könyv adatott.",
+    "Gyönyörű hangom volt, és a dicséretem annyira szeretett volt, hogy még a hegyek és a madarak is csatlakoztak hozzám.",
+    "Egy híres csatában félelmetes ellenféllel néztem szembe, és annak ellenére, hogy kisebb voltam, győztem.",
+    "A vas hajlékonysá vált számomra, lehetővé téve számomra, hogy saját kezemmel páncélt készítsek.",
+    "Nagy nemzet uralkodójává tettek, és bölcs ítélőképességemről híres lettem.",
+    "A fiam, aki szintén próféta volt, hatalmat kapott a szél és a dzsinnek felett."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Dawud próféta (Dávid)",
+        "Szulejmán próféta (Salamon)",
+        "Mózes próféta (Mózes)",
+        "Hárun próféta (Áron)",
+        "Iljasz próféta (Éliás)"
+      ],
+      "answer": "Dawud próféta (Dávid)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Legyőzte Góliátot (Dzálút)",
+        "kettévált a tenger",
+        "Túlélte a bálnát",
+        "Tűzbe dobták",
+        "Megépítette a bárkát"
+      ],
+      "answer": "Legyőzte Góliátot (Dzálút)"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Zabur (Zsoltárok)",
+        "A Tóra (Tauráta)",
+        "Az evangélium (Injil)",
+        "Ibrahim tekercsei",
+        "A Korán"
+      ],
+      "answer": "A Zabur (Zsoltárok)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Próféta és Izrael királya lett",
+        "Egyiptom uralkodója lett",
+        "Az égbe emelték",
+        "Egy vihar pusztította el",
+        "A barlang társa lett"
+      ],
+      "answer": "Próféta és Izrael királya lett"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

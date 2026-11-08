@@ -1,0 +1,61 @@
+{
+  "title": "Vocea Sfidării",
+  "intro": "Cu mult înainte ca primul om să umble pe pământ, o ființă cu o putere imensă se afla într-un tărâm al păcii perfecte, înconjurată de cele mai devotate suflete. Când era dată o singură comandă, fiecare glas se înclina în semn de supunere - dar un glas se ridica în semn de sfidare, iar acea sfidare avea să răsune prin fiecare epocă până în Ziua de apoi. Cine este această ființă decăzută?",
+  "clues": [
+    "Am fost creat din ceva care ardea puternic, în timp ce alții lângă mine au fost formați din ceea ce au călcat.",
+    "Am locuit într-un loc sacru printre ființe devotate, până când o singură poruncă a dat totul peste cap.",
+    "Când a venit comanda, fiecare suflet s-a închinat, în afară de mine; refuzul meu a fost născut din mândrie.",
+    "Am fost alungat din acel loc sacru, marcat cu un blestem care avea să dăinuie pentru totdeauna.",
+    "Am implorat să am timp până la Ziua Învierii și mi-a fost acordat. Am jurat să mă apropii de fiecare suflet și să-l conduc pe calea cea rătăcită.",
+    "Când va suna trâmbița, cei care m-au urmat vor împărtăși soarta mea, alăturându-se mie într-un foc arzător, unde nimeni nu-i va putea salva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Iblis",
+        "Faraon (Fir'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (tatăl lui Ibrahim)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Momentul definitoriu",
+      "options": [
+        "Refuzând să se prosterneze înaintea lui Adam",
+        "Uzurpând divinitatea asupra unui mare imperiu",
+        "Complotând să arunce în flăcări un om drept",
+        "Conducând un popor să se închine la o imagine de aur",
+        "Înecând o mare armată în mare"
+      ],
+      "answer": "Refuzând să se prosterneze înaintea lui Adam"
+    },
+    "location": {
+      "label": "Locul Sacru",
+      "options": [
+        "Jannah (Paradis)",
+        "Un palat magnific pe Nil",
+        "Un turn de cărămizi care se întinde spre cer",
+        "Un vițel de aur făcut din ornamente",
+        "Un cuptor cu foc arzător"
+      ],
+      "answer": "Jannah (Paradis)"
+    },
+    "outcome": {
+      "label": "Soarta finală",
+      "options": [
+        "Alungat, cu răgaz până la o Zi promisă",
+        "Înecat de armate sub valuri",
+        "Zdrobit de pietrele aruncate din cer",
+        "Sfâșiate de roiuri de păsări în zbor",
+        "Consumat de o singură explozie puternică"
+      ],
+      "answer": "Alungat, cu răgaz până la o Zi promisă"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

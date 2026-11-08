@@ -1,0 +1,61 @@
+{
+  "title": "L-Ewwel Ruħ li Toqgħod",
+  "intro": "Ħafna qabel ma xi messaġġier mexa fuq id-dinja, qabel ma ġiet rivelata xi skrittura, beda jeżisti esseri differenti minn kwalunkwe ieħor. Din ir-ruħ ġiet iffurmata minn idejn divini, ingħatat post ta’ sbuħija bla paragun, u ġiet ittestjata b’mod li kien se jidwi fl-istorja kollha tal-bniedem. Dak li segwa kien storja ta’ dgħufija, ndiema sinċiera, u destin li kien se jibdel il-kors tal-ħolqien għal dejjem. Tista’ taħseb min hu dan?",
+  "clues": [
+    "Jien ġejt iffurmat minn idejn l-Aktar Ħanin mit-trab tal-art stess",
+    "Ingħatajt dar ta’ sbuħija bla paragun, fejn l-ebda ġuħ jew għeja ma setgħu jmissuni",
+    "Ġejt ordnat biex qatt ma nersaq lejn siġra waħda, għax kien ipprojbit",
+    "Jiena u sieħbi ġejna mqarrqa u ersaqna lejn is-siġra pprojbita, kontra l-kmand tal-Mulej tagħna.",
+    "Erġajna lura lejn Sidna b’indiema sinċiera, u ġejna maħfura dnubietna",
+    "Minna niżlet l-umanità kollha; jien l-ewwel wieħed li mxejt fuq din l-art"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Adam",
+        "Il-Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Yusuf",
+        "Profeta Isa"
+      ],
+      "answer": "Il-Profeta Adam"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "It-tentazzjoni mis-siġra pprojbita",
+        "Konfrontazzjoni mal-Fargħun",
+        "Il-bini tal-Arka l-kbira",
+        "Is-sagrifiċċju tal-iben maħbub",
+        "Mitfugħ f’nar kbir"
+      ],
+      "answer": "It-tentazzjoni mis-siġra pprojbita"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Is-Siġra Projbita",
+        "L-Għollieq Jaħraq",
+        "Il-Bastun tad-Deheb",
+        "L-Arka l-Kbira",
+        "L-Għoġol tad-Deheb"
+      ],
+      "answer": "Is-Siġra Projbita"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Mibgħut lejn l-art bħala l-ewwel ħaddies tal-umanità",
+        "Il-Fargħun u l-armata tiegħu għerqu fil-baħar",
+        "Id-dilluvju l-kbir qered lill-ħżiena",
+        "In-nar sar kiesaħ u paċifiku",
+        "Ingħata awtorità fuq ir-renju tal-Eġittu"
+      ],
+      "answer": "Mibgħut lejn l-art bħala l-ewwel ħaddies tal-umanità"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

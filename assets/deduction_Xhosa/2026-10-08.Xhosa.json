@@ -1,0 +1,61 @@
+{
+  "title": "Abaqophi Bamatye Bentlambo Yamandulo",
+  "intro": "Khawucinge ngempucuko eyavela kwiintlambo ezinamatye zaseArabia, inobuchule bokukrola izindlu ezintle ezintabeni. Bachuma ngamandla nangobugcisa, kodwa ibali labo liphawulwa kukungathobeli isilumkiso sikaThixo okukrakra. Njengoko uhlolisisa ibali labo, uza kufumanisa abantu abakratshi labo lakhokelela ekutshatyalalisweni kwabo ngokupheleleyo. Babengoobani?",
+  "clues": [
+    "Sizuze ilifa lelizwe elinamathafa anamatye kunye neengxondorha eziphakamileyo, apho sakha khona izindlu zethu ngobuchule obungenakuthelekiswa nanto.",
+    "Sasisaziwa ngokuqopha izindlu ezikhuselekileyo ezintabeni, sizive sikhuselekile kuyo nayiphi na ingozi.",
+    "Isithunywa seza kuthi sivela phakathi kwethu, sisikhumbuza ngeenceba zika-Allah kwaye sisilumkisa ngesohlwayo.",
+    "Sacela umqondiso, kwaphuma inkamela engummangaliso eliweni, uvavanyo olucacileyo oluvela ku-Allah.",
+    "Asizange sithobele isilumkiso saza sayinqumla imisipha inkamela, sihlekisa ngomthunywa kwaye siphikisa isohlwayo.",
+    "Kwabakho ukuqhuma nje kube kanye emakhayeni ethu, saza kusasa salala phantsi, ngokungathi asikaze sihlale apho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu baseMadyan",
+        "Abantu baseNuh",
+        "Abantu bakaLut"
+      ],
+      "answer": "Abantu baseThamud"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wayinqumle inkamela yenkamela",
+        "Waphula iSabatha",
+        "Wanqula ithole legolide",
+        "Wabulala umprofeti owayethunyelwe kubo",
+        "Wakha inqaba ukuze afikelele esibhakabhakeni"
+      ],
+      "answer": "Wayinqumle inkamela yenkamela"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Inkamela eyimazi",
+        "Ityeya",
+        "Abasebenzi",
+        "Isandla esimhlophe",
+        "Imana kunye neekwali"
+      ],
+      "answer": "Inkamela eyimazi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Itshatyalaliswe kukuqhuma",
+        "Usindiswe kwintshabalalo",
+        "Yaguquka yaba ziinkawu",
+        "Nditshonile elwandle",
+        "Iginywe ngumhlaba"
+      ],
+      "answer": "Itshatyalaliswe kukuqhuma"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

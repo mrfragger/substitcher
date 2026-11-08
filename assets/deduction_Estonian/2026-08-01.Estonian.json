@@ -1,0 +1,61 @@
+{
+  "title": "Vallutaja kahe horisondi vahel",
+  "intro": "Jumaliku juhatuse annaalides paistab üks tegelane silma nii võimsa valitsejana kui ka Allahi alandliku teenijana. See inimene reisis maa kaugeimatesse nurkadesse, nähes päikesetõusu ebatavalise rahva kohal ja loojumist mustas sogases kevades. Kõige tähelepanuväärsem on see, et sellele teenijale anti ülesandeks ehitada erakordne barjäär suure pahateo rahva vastu. Kas suudad selle legendaarse tegelase Koraanist ära tunda?",
+  "clues": [
+    "Kõigehalastavam andis mulle maa peal võimu ja mõjuvõimu",
+    "Ma rändasin kohta, kus päike tõuseb ja kus loojub",
+    "Jõudsin inimesteni, kes vaevu ühestki sõnast aru said",
+    "Mul kästi ehitada tohutu rauast barjäär",
+    "Ma sulgesin kahe järsu mäe vahelise ruumi sulametalliga",
+    "Ma ei olnud ei ingel ega prohvet, vaid teener, kellele Allah soosis"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Dhu al-Qarnayn (Kahe Sarvega)",
+        "Kuningas Suleiman (Saalomon)",
+        "Prohvet Dhul-Kifl",
+        "Dhu al-Nun (kala kaaslane)",
+        "Barjääri ingel"
+      ],
+      "answer": "Dhu al-Qarnayn (Kahe Sarvega)"
+    },
+    "trial": {
+      "label": "Suur ülesanne",
+      "options": [
+        "Taevasse torni ehitamine",
+        "Yajuji ja Majuji vastu tohutu rauast barjääri ehitamine",
+        "Kuldse kohtumõistmise trooni loomine",
+        "Sügava kaevu kaevamine õigetele",
+        "Laeva ehitamine suure üleujutuse ajal"
+      ],
+      "answer": "Yajuji ja Majuji vastu tohutu rauast barjääri ehitamine"
+    },
+    "location": {
+      "label": "Keskkond",
+      "options": [
+        "Uzairi maa kahe jõe vahel",
+        "Päikesetõusu ja musta mudase allika paik",
+        "Meka püha org",
+        "Madyani kõrb",
+        "Küprose saar"
+      ],
+      "answer": "Päikesetõusu ja musta mudase allika paik"
+    },
+    "outcome": {
+      "label": "Jumalik lubadus",
+      "options": [
+        "Igavene paradiis antakse kohe",
+        "Kuum tuul hävitas rahva",
+        "Tõke kestab kuni kohtupäevani",
+        "Vabadus surmast kõigile usklikele",
+        "Igavene kuningriik ilma lõputa"
+      ],
+      "answer": "Tõke kestab kuni kohtupäevani"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

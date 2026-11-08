@@ -1,0 +1,61 @@
+{
+  "title": "Lo Spirito di Rivelazione che ci è stato affidato",
+  "intro": "Nei reami invisibili, un essere di pura luce si muove con precisione, eseguendo ogni comando senza esitazione. Questa figura ha parlato ai servitori prescelti, ha portato parole di guida e ha assistito al compimento di decreti divini nel corso dei secoli. Chi è quest'anima onorata?",
+  "clues": [
+    "Io sono un essere di pura luce, creato dalla luce, e non ho mai disobbedito a un solo comando del mio Signore.",
+    "Mi muovo tra i cieli e la terra, discendendo con i decreti del Misericordioso.",
+    "Fui inviato al santuario da una vergine nobile per annunciarle la nascita di un figlio puro.",
+    "Io sono lo spirito di santità e ho sostenuto un profeta a cui erano stati dati segni evidenti e il Vangelo.",
+    "Mi recai in una grotta su una montagna per pronunciare le prime parole di una recitazione che sarebbe stata conservata per sempre.",
+    "Io sono lo spirito degno di fiducia, e sono stato io a far scendere il Corano sul cuore dell'ultimo messaggero."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Jibril (Gabriele)",
+        "Mikail (Michael)",
+        "L'angelo della morte",
+        "Malik (Custode dell'Inferno)",
+        "Harut (uno dei due angeli di Babilonia)"
+      ],
+      "answer": "Jibril (Gabriele)"
+    },
+    "trial": {
+      "label": "Missione/Ruolo chiave",
+      "options": [
+        "Trasmettere la rivelazione ai profeti",
+        "Suonare la tromba nel Giorno del Giudizio",
+        "Custodi delle porte dell'Inferno",
+        "Registrare le azioni degli esseri umani",
+        "Provocare la pioggia"
+      ],
+      "answer": "Trasmettere la rivelazione ai profeti"
+    },
+    "location": {
+      "label": "Attributo o titolo chiave",
+      "options": [
+        "Lo Spirito Santo (Ruh al-Qudus)",
+        "Lo spirito del potere",
+        "Lo Spirito di Misericordia",
+        "Lo Spirito di Guida",
+        "Lo Spirito di Verità"
+      ],
+      "answer": "Lo Spirito Santo (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Esito della missione",
+      "options": [
+        "Il Corano fu rivelato al profeta Maometto",
+        "La tromba fu suonata nel Giorno del Giudizio.",
+        "L'inferno era sorvegliato e le sue porte erano chiuse.",
+        "Il Libro delle Azioni fu presentato ad Allah",
+        "La pioggia fu mandata giù sulla terra"
+      ],
+      "answer": "Il Corano fu rivelato al profeta Maometto"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

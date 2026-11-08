@@ -1,0 +1,61 @@
+{
+  "title": "Spiritus Fidelis Revelationis",
+  "intro": "In regnis invisibilibus, ens purae lucis cum praecisione movetur, omne mandatum sine haesitatione exsequens. Haec figura cum servis electis locuta est, verba directionis attulit, et evolutionem decretorum divinorum per saecula vidit. Quis est haec anima honorata?",
+  "clues": [
+    "Ens sum purae lucis, ex luce creatus, et numquam ullum Domini mei mandatum neglexi.",
+    "Inter caelos et terram moveor, descendens cum decretis Misericordissimi.",
+    "Ad virginem nobilem in sanctuario missus sum, ei filium purum nuntians.",
+    "Spiritus sanctitatis sum, et prophetam, cui signa manifesta et Evangelium data sunt, adiuvi.",
+    "Ad speluncam in monte veni ut prima verba recitationis, quae in aeternum servaretur, proferrem.",
+    "Ego sum spiritus fidelis, et ego fui qui Alcoranum super cor nuntii ultimi deduxi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Gabriel (Jibril)",
+        "Mikail (Michael)",
+        "Angelus Mortis",
+        "Malik (Custos Inferorum)",
+        "Harut (unus ex duobus angelis Babylonis)"
+      ],
+      "answer": "Gabriel (Jibril)"
+    },
+    "trial": {
+      "label": "Munus/Missio Clavis",
+      "options": [
+        "Revelationem prophetis tradens",
+        "Tuba clangendo in die iudicii",
+        "Custodientes portas inferorum",
+        "Facta hominum notare",
+        "Pluviam cadentem efficiens"
+      ],
+      "answer": "Revelationem prophetis tradens"
+    },
+    "location": {
+      "label": "Attributum Clavis vel Titulus",
+      "options": [
+        "Spiritus Sanctus (Ruh al-Qudus)",
+        "Spiritus Potestatis",
+        "Spiritus Misericordiae",
+        "Spiritus Ductus",
+        "Spiritus Veritatis"
+      ],
+      "answer": "Spiritus Sanctus (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Exitus Missionis",
+      "options": [
+        "Quran prophetae Muhammadi revelatus est",
+        "Tuba in Die Iudicii clancta est",
+        "Infernus custodiebatur et portae eius clausae erant",
+        "Liber Factorum Deo oblatus est",
+        "Pluvia ad terram missa est"
+      ],
+      "answer": "Quran prophetae Muhammadi revelatus est"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

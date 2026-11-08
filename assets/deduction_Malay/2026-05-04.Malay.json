@@ -1,0 +1,61 @@
+{
+  "title": "Arkitek Keangkuhan",
+  "intro": "Di sebuah tanah purba yang diperintah oleh kuasa yang menentang, seorang individu penting memegang jawatan berpengaruh. Jiwa ini berperanan penting dalam rancangan besar pemerintah, menyumbang kepada pemerintahan mereka yang menindas dan mencabar mesej ilahi. Legasi mereka berkait rapat dengan usaha mengejar kekuasaan duniawi dan penafian kebenaran.",
+  "clues": [
+    "Aku berkhidmat kepada seorang pemerintah yang hebat yang menindas suatu kaum selama beberapa generasi.",
+    "Nama saya sering disebut dalam Kitab Suci bersama pemimpin yang berkuasa ini.",
+    "Saya ditugaskan untuk satu projek pembinaan yang besar, sebuah struktur menjulang tinggi yang bertujuan untuk mencecah langit.",
+    "Aku telah menasihati tuanku untuk membunuh anak-anak lelaki Bani Israel dan membiarkan anak-anak perempuan mereka hidup.",
+    "Aku terlibat dalam komplot dan konspirasi terhadap seorang utusan Allah yang perkasa.",
+    "Akhiratku, bersama tuanku dan tenteranya, datang di perairan laut yang luas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Diuji dengan kekayaan yang melimpah ruah",
+        "Memimpin tentera menentang rumah suci",
+        "Membina menara untuk sampai kepada Tuhan",
+        "Dicampakkan ke dalam api kerana kepercayaan mereka",
+        "Dicampak ke dalam perigi oleh adik-beradik"
+      ],
+      "answer": "Membina menara untuk sampai kepada Tuhan"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Bahtera",
+        "Kakitangan",
+        "Gunung",
+        "Menara",
+        "Paus"
+      ],
+      "answer": "Menara"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dikurniakan hikmah yang luar biasa",
+        "Menjadi seorang nabi",
+        "Ditelan bumi",
+        "Dianugerahkan sebuah kerajaan",
+        "Lemas di laut"
+      ],
+      "answer": "Lemas di laut"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

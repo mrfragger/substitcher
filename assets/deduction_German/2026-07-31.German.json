@@ -1,0 +1,61 @@
+{
+  "title": "Das Echo, das den Thron erreichte",
+  "intro": "Eine gequälte Gestalt näherte sich dem Richterstuhl, ihre Stimme zitterte nicht vor Furcht, sondern vor Hoffnung. Es war eine persönliche Angelegenheit, doch ihre Lösung würde durch die Zeiten hallen und eine unterdrückende Tradition zerschlagen. Wer war diese Seele, deren Klage bis über die Sterne hinaus vernommen wurde?",
+  "clues": [
+    "Ich kam mit schwerem Herzen, auf der Suche nach Gerechtigkeit in einer Angelegenheit, die mir das Schweigen raubte.",
+    "Mein Flehen richtete sich nicht nur an einen Boten; es reichte darüber hinaus bis zu dem Einen, der alles hört.",
+    "Die gegen mich gerichteten Worte glichen Ketten einer uralten Vergangenheit.",
+    "Ich argumentierte und vertrat die Argumente, unter Tränen und mit Logik, für meine Würde.",
+    "Eine Offenbarung ergriff mich, die die alten Wege zum Schweigen brachte und meinen Schmerz anerkannte.",
+    "Man nennt mich diejenige, die über meinen Mann gestritten hat, und mein Name wurde zum Synonym für das Kapitel, das mich befreite."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Ehefrau von Imran (Mutter von Maryam)",
+        "Die Frau, die über ihren Ehemann stritt (Khawla bint Tha'laba)",
+        "Die Königin von Saba (Bilqis)",
+        "Die Mutter des Moses",
+        "Die Frau des Pharao (Asiyah)"
+      ],
+      "answer": "Die Frau, die über ihren Ehemann stritt (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "Der Prozess oder das Ereignis",
+      "options": [
+        "Sie wurde fälschlicherweise der Unzucht beschuldigt.",
+        "Sie war unfruchtbar und sehnte sich nach einem Kind.",
+        "Sie sah sich einem repressiven Scheidungsbrauch ausgesetzt.",
+        "Sie war eine Königin, die mit einem Propheten verhandelte.",
+        "Sie versteckte ihr Kind vor einem Tyrannen."
+      ],
+      "answer": "Sie sah sich einem repressiven Scheidungsbrauch ausgesetzt."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein goldenes Kalb",
+        "Ein prächtiger Thron",
+        "Die Praxis des Zihar",
+        "Ein Korb im Fluss",
+        "Ein heiliges Treuegelöbnis"
+      ],
+      "answer": "Die Praxis des Zihar"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie wurde im hohen Alter mit einem Kind gesegnet.",
+        "Sie wurde vor dem Ertrinken gerettet.",
+        "Sie erhielt eine göttliche Offenbarung, die den Brauch abschaffte.",
+        "Sie wurde nach einem Test zur Königin.",
+        "Ihr wurde ein Sohn geschenkt, der ein Prophet wurde."
+      ],
+      "answer": "Sie erhielt eine göttliche Offenbarung, die den Brauch abschaffte."
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

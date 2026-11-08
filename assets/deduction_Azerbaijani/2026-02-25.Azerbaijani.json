@@ -1,0 +1,61 @@
+{
+  "title": "Qısır Qayanın Sınağı",
+  "intro": "Bacarıqlı və qürurlu bir icma öz mirasını dağların lap dərinliklərinə həkk etdi. Lakin onlara açıq-aydın bir işarə, iman və təmkin sınağı göndərildikdə, təkəbbürləri onları geri dönüşü olmayan bir yola yönəltdi. Bu qrupu və onların itaətsizliyinin nəticələrini müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Biz daş ustaları idik və dağların yamaclarında möhtəşəm evlər yonurduq.",
+    "Öz xalqımızdan bir elçi bizə gəldi və bizi tək Allaha ibadət etməyə çağırdı.",
+    "Biz onun sözlərini sübut etmək üçün bir əlamət tələb etdik və bizim üçün sınaq olaraq unikal bir məxluq gətirildi.",
+    "Bizə sadə bir əmr verildi: su mənbəyimizi bu məxluqla bölüşmək və təyin olunmuş gündə onu içməyə qoymaq.",
+    "Təkəbbürümüzdən bir neçəmiz sui-qəsd hazırladı və xəbərdarlığa məhəl qoymayaraq, bizim üçün nəzərdə tutulmuş məxluqu öldürdük.",
+    "Bizə ölümümüzdən üç gün əvvəl verildi və sonra güclü bir səs bizi evlərimizdə bürüdü, cansız və başımızı çevirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Ad xalqı",
+        "Mədyən xalqı",
+        "Səmud xalqı",
+        "Səba xalqı",
+        "Lut qövmü"
+      ],
+      "answer": "Səmud xalqı"
+    },
+    "trial": {
+      "label": "Əsas Testimiz Nə idi?",
+      "options": [
+        "Daşqından sağ çıxmaq üçün gəmi tikmək",
+        "Şənbə günü balıq tutmaq istəyinə qarşı durmaq",
+        "Saxta biznes təcrübələrindən imtina etmək",
+        "Möcüzəvi bir dişi dəvəni qorumaq",
+        "Yeddi illik aclığa dözmək"
+      ],
+      "answer": "Möcüzəvi bir dişi dəvəni qorumaq"
+    },
+    "location": {
+      "label": "Hekayəmizin əsas elementi nə idi?",
+      "options": [
+        "Qızıl buzov",
+        "Dişi Dəvə",
+        "Musa peyğəmbərin əsası",
+        "Böyük Mərib Bəndi",
+        "Göydən sərilmiş süfrə"
+      ],
+      "answer": "Dişi Dəvə"
+    },
+    "outcome": {
+      "label": "Son taleyimiz nə idi?",
+      "options": [
+        "Böyük bir daşqında boğuldu",
+        "Meymunlara və donuza çevrildi",
+        "Şiddətli küləkdən sarsılmış",
+        "Bəndin partlaması ilə səpələnmiş",
+        "Güclü bir partlayış/zəlzələ nəticəsində dağıdılıb"
+      ],
+      "answer": "Güclü bir partlayış/zəlzələ nəticəsində dağıdılıb"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kultaisen vasikan hylkiö",
+  "intro": "Koraanissa mainittu henkilö johti suuren ihmisjoukon harhaan jalon profeetan poissa ollessa. Jokin kullasta tehty esine valloitti kokonaisen kansakunnan sydämet – mutta tämän henkilön tarina päättyy yksinäisyyteen ja outoon kiroukseen. Kuka tämä hylkiö voisi olla?",
+  "clues": [
+    "Nousin esiin suuren profeetan poissa ollessa, joka oli noussut taivaaseen vastaanottamaan jumalallista ohjausta.",
+    "Sain suuren ihmisjoukon eksymään jollain, jonka olin omin käsin tehnyt.",
+    "Tuottamani kultainen luomus näytti elävältä ja tuotti ääniä, jotka lumosivat sitä seuraavat.",
+    "Väitin ​​nähneeni sellaista, mitä muut eivät voineet havaita – vilauksen näkymättömään.",
+    "Vedin jotakin jumalallisen sanansaattajan jälkien jäljiltä ja valasin sen sulaan metalliin.",
+    "Minut tuomittiin vaeltamaan yksin ainutlaatuisen kirouksen kanssa, jonka vuoksi kukaan ei saanut koskettaa ihoani enkä minä heidän ihoaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faarao (Fir'awn)",
+        "Abu Lahab",
+        "Profeetta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Loi kultaisen vasikan palvontaa varten",
+        "Rakensi taivaisiin ulottuvan tornin",
+        "Haastoi Egyptin velhot",
+        "Johti armeijaa lentävistä eläimistä",
+        "Kuun halkaisu todisteena profeetan asemasta"
+      ],
+      "answer": "Loi kultaisen vasikan palvontaa varten"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kultainen vasikka",
+        "Sauva, joka muuttui käärmeeksi",
+        "Palava pensas vuorella",
+        "Arkki lepää huipulla",
+        "Kaivanto täynnä liekehtivää tulta"
+      ],
+      "answer": "Kultainen vasikka"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Karkotettu, kielletty koskettamasta tai koskettamasta muita",
+        "Hukkui mereen armeijan kanssa",
+        "Poltettiin elävältä uskon hylkäämisestä",
+        "Raju, myrskyisä tuuli iski maahan",
+        "Anteeksi annettu ja korkeaan asemaan nostettu"
+      ],
+      "answer": "Karkotettu, kielletty koskettamasta tai koskettamasta muita"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Teko ya Lefika le le Senang sepe",
+  "intro": "Morafe, o o nang le bokgoni le o o motlotlo, o ne wa betla boswa jwa bone mo dithabeng tsone. Mme fa ba ne ba romelwa sesupo se se bonalang sentle, e leng teko ya tumelo le go ikgapa, boikgogomoso jwa bone bo ne jwa ba gogela mo tseleng e ba ka se kang ba boela morago ka yone. A o ka kgona go supa setlhopha seno le ditlamorago tsa go sa ikobele ga sone?",
+  "clues": [
+    "Re ne re le beng ba maje, re betla matlo a mantlentle ka tlhamalalo mo dithabeng.",
+    "Morongwa go tswa mo bathong ba rona o ne a tla kwa go rona, a re bitsa gore re obamele Modimo o le Mongwe wa Boammaaruri.",
+    "Re ne ra batla sesupo go supa mafoko a gagwe, mme go ne ga tlisiwa sebopiwa se se tlhomologileng go nna teko mo go rona.",
+    "Re ne ra newa taelo e e motlhofo: go abelana motswedi wa rona wa metsi le setshedi seno, re se tlogele se nwe ka letsatsi le le tlhomilweng.",
+    "Mo boikgogomosong jwa rona, ba le mmalwa mo gare ga rona ba ne ba loga leano mme ra gana tlhagiso, ra itaya sebopiwa se se neng se tshwanetse go nna sesupo sa rona.",
+    "Re ne ra newa malatsi a le mararo pele ga tshenyego ya rona, mme morago ga moo go thunya go go maatla go ne ga re tshwara mo magaeng a rona, ga re tlogela re se na botshelo e bile re menotswe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batho ba 'Ad",
+        "Batho ba Madyan",
+        "Batho ba Thamude",
+        "Batho ba Saba",
+        "Batho ba Lute"
+      ],
+      "answer": "Batho ba Thamude"
+    },
+    "trial": {
+      "label": "Teko ya Rona ya Botlhokwa e ne e le eng?",
+      "options": [
+        "Go aga araka go falola morwalela",
+        "Go gana keletso ya go tshwara ditlhapi ka Sabata",
+        "Go tlogela mekgwa ya kgwebo ya tsietso",
+        "Go sireletsa kamela e namagadi e e dirang kgakgamatso",
+        "Go itshokela leuba la dingwaga di le supa"
+      ],
+      "answer": "Go sireletsa kamela e namagadi e e dirang kgakgamatso"
+    },
+    "location": {
+      "label": "Karolo e e Botlhokwa ya Kgang ya Rona e ne e le eng?",
+      "options": [
+        "Namane ya Gauta",
+        "Kamela e e namagadi",
+        "Badiri ba ga Moporofeti Musa",
+        "Letamo le legolo la Ma'rib",
+        "Tafole e ne e aname go tswa kwa legodimong"
+      ],
+      "answer": "Kamela e e namagadi"
+    },
+    "outcome": {
+      "label": "Bokhutlo jwa Rona E Ne E Le Eng?",
+      "options": [
+        "A nwela mo morwaleleng o mogolo",
+        "E fetogile ditshwene le dikolobe",
+        "A fekeediwa ke phefo e e bogale",
+        "Go phatlaladiwa ke go thunya ga letamo",
+        "E sentswe ke thoromo e kgolo ya lefatshe"
+      ],
+      "answer": "E sentswe ke thoromo e kgolo ya lefatshe"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

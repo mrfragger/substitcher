@@ -1,0 +1,61 @@
+{
+  "title": "Zkouška žízní",
+  "intro": "Komunita, toužící po vedení, které by hájilo její věc, požádala o jmenování velitele. Když byla jejich žádost vyslyšena, vyvolený se setkal se skepticismem, protože tento jedinec neměl světské postavení, které očekávali. Před konečnou konfrontací měl tento nový vůdce otestovat samotnou disciplínu armády jednoduchou, ale důkladnou zkouškou zdrženlivosti.",
+  "clues": [
+    "Byl jsem jmenován velitelem poté, co můj lid požadoval vůdce, který by bojoval ve věci Alláha.",
+    "Mnoho mých vlastních lidí zpočátku zpochybňovalo mé jmenování s odkazem na můj nedostatek bohatství a urozený původ.",
+    "Byl jsem vybrán, protože mi Alláh daroval hojnost znalostí a mohutnou fyzickou postavu.",
+    "Jasným znamením mého božského ustanovení byl návrat Archy úmluvy, nesené anděly, což přineslo pokoj do srdcí věřících.",
+    "Když jsem pochodoval se svými vojáky, oznámil jsem, že nás čeká zkouška u řeky.",
+    "Přikázal jsem svému vojsku, že kdokoli se z řeky napije zhluboka, nebude v mé družině, zatímco ti, kdo si do ruky vezmou jen jednu naběračku, zůstanou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Džalut (Goliáš)",
+        "Talut (Saul)",
+        "Prorok Dawud",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Jaká byla moje hlavní zkouška?",
+      "options": [
+        "Stavba bariéry proti Gogovi a Magogovi",
+        "Tváří v tvář obrovi v souboji jeden na jednoho",
+        "Testování poslušnosti armády u řeky",
+        "Vedoucí armády džinů a ptáků",
+        "Přežití hození do ohně"
+      ],
+      "answer": "Testování poslušnosti armády u řeky"
+    },
+    "location": {
+      "label": "Co bylo klíčovým znakem mé autority?",
+      "options": [
+        "Hůl, která se proměnila v hada",
+        "Velbloud, který vylezl ze skály",
+        "Kroužková zbroj vyrobená ze změklého železa",
+        "Archa úmluvy (At-Tabut)",
+        "Stůl s jídlem z nebes"
+      ],
+      "answer": "Archa úmluvy (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Jaký byl výsledek mé kampaně?",
+      "options": [
+        "Porážka armády Jaluta (Goliáše)",
+        "Rozdělení Rudého moře, aby se uniklo tyranovi",
+        "Zakládajíc dlouhotrvající dynastii v mém jménu",
+        "Stavba posvátné Kaaby v Mekce",
+        "Být povznesen do nebes bez smrti"
+      ],
+      "answer": "Porážka armády Jaluta (Goliáše)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Malhelpo ĉe la Antikva Domo",
+  "intro": "En la sankta urbo, potenca figuro bolis de kolero dum nova mesaĝo komencis disvastiĝi. Ĉi tiu individuo, kies nomo fariĝis sinonima kun opozicio al la vero, vidis sian influon disfali sub la pezo de dia revelacio. Kiu estis ĉi tiu animo, kies sorto estis sigelita en la sabloj de fama batalkampo?",
+  "clues": [
+    "Mi estis ĉefo inter mia popolo, konata pro mia riĉeco kaj influo en urbo kiu gastigis antikvan rifuĝejon.",
+    "Kiam viro el mia tribo komencis proklami mesaĝon pri unu Dio, mi mokis lin kaj liajn revelaciojn, nomante ilin nuraj rakontoj de la pasinteco.",
+    "Mi alfrontis tiun viron dum li preĝis apud la sankta konstruaĵo, minacante ĉesigi lian diservon per forto se necese.",
+    "Mi estis inter la gvidantoj, kiuj konspiris por silentigi la novan kredon, kontraŭstarante ĝiajn sekvantojn per kaj vortoj kaj armiloj.",
+    "Mi marŝis kun armeo al loko nomata Badr, memfida, ke ni dispremos la malgrandan grupon de kredantoj.",
+    "Sed sur tiu batalkampo, mia vivo finiĝis, kaj mia morto fariĝis leciono por tiuj, kiuj persistas en nekredemo post klaraj signoj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umaja ibn Ĥalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Malhelpi la Profeton preĝi ĉe la Kaaba",
+        "Konstruante la Kaaba-on",
+        "Skribante la Koranon",
+        "Gvidante la armeon de la elefanto",
+        "Disfendante la lunon"
+      ],
+      "answer": "Malhelpi la Profeton preĝi ĉe la Kaaba"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Kaaba",
+        "La Arkeo de Profeto Nuh",
+        "La Bastono de Profeto Moŝa",
+        "La Ora Bovido",
+        "La Trono de la Reĝino de Ŝeba"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Mortigita ĉe la Batalo de Badr",
+        "Pentis kaj fariĝis islamano",
+        "Fuĝis al Abisinio",
+        "Mortis en la Jaro de la Elefanto",
+        "Fariĝis kunulo de la Profeto"
+      ],
+      "answer": "Mortigita ĉe la Batalo de Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

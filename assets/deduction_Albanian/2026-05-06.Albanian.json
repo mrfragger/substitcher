@@ -1,0 +1,61 @@
+{
+  "title": "Zëri nga shkurrja që digjet",
+  "intro": "Zbuloni identitetin e një figure të thellë, udhëtimi i së cilës filloi me një takim të mrekullueshëm dhe fati i së cilës ishte i ndërthurur me çlirimin e një populli të shtypur. Ky individ u zgjodh për një detyrë monumentale, duke u përballur me sfida të mëdha me mbështetje hyjnore.",
+  "clues": [
+    "Unë linda në një kohë shtypjeje të madhe, ku foshnjat e popullit tim po vriteshin.",
+    "Në jetën time të hershme, prindërit më vendosën në një lumë, megjithatë u gjeta dhe u rrita në shtëpinë e shtypësit të popullit tim.",
+    "Njëherë u largova nga një qytet pasi shkaktova pa dashje vdekjen e një individi gjatë një mosmarrëveshjeje.",
+    "Mora një mesazh hyjnor dhe një shkop të mrekullueshëm në një vend të shenjtë, ku më urdhëruan të përballesha me një sundimtar të fuqishëm.",
+    "Vëllai im u caktua si ndihmës për mua në misionin tim, për shkak të një pengese të perceptuar në të folurin tim.",
+    "Unë i udhëhoqa njerëzit e mi përtej një deti të ndarë, duke i shpëtuar ndjekjes së një ushtrie tiranike."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Jusuf",
+        "Profeti Isa",
+        "Profeti Musa",
+        "Profeti Nuh",
+        "Profeti Ibrahim"
+      ],
+      "answer": "Profeti Musa"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Vite të gjata thatësire",
+        "Ndërtimi i Arkës",
+        "Përballja me Faraonin dhe magjistarët e tij",
+        "Duke u hedhur në një furrë të zjarrtë",
+        "Shkatërrimi i popullit të Themudit"
+      ],
+      "answer": "Përballja me Faraonin dhe magjistarët e tij"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Qabja",
+        "Muri i Hekurt",
+        "Stafi",
+        "Anija e Nuhut",
+        "Unaza e Sulejmanit"
+      ],
+      "answer": "Stafi"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Qyteti i Sodomës u përmbys",
+        "Njerëzit u gëlltitën nga toka",
+        "Përmbytja e madhe përfshiu tokën",
+        "Faraoni dhe ushtria e tij u mbytën",
+        "Muret e qytetit u shembën nga një britmë"
+      ],
+      "answer": "Faraoni dhe ushtria e tij u mbytën"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

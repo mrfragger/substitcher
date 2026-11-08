@@ -1,0 +1,61 @@
+{
+  "title": "Sjelene i skyttergraven",
+  "intro": "Du reiser tilbake til en tid da en hensynsløs hersker krevde absolutt hengivenhet til falske guddommer. Et lite samfunn av hengivne sjeler nektet og møtte en så streng straff at den ble evig forbannet. Historien deres gir gjenlyd gjennom Koranen som et vitnesbyrd om urokkelig tro. Kan du identifisere denne standhaftige gruppen?",
+  "clues": [
+    "Vi levde i et land under tyranniet til en hersker som krevde tilbedelse av falske guddommer",
+    "Vårt samfunn opplevde alvorlig forfølgelse utelukkende på grunn av vår tro på Allah alene",
+    "Herskeren befalte at en stor grøft skulle graves og fyres opp med voldsomme flammer",
+    "Fordi vi nektet å gi avkall på vår tro, ble vi kastet i den brennende gropen én etter én",
+    "Historien vår ble en del av Koranen, og de som forfulgte oss ble evig forbannet.",
+    "Surahen som beskriver vår prøvelse er oppkalt etter himmelens store himmeltegn"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Ledsagere av skyttergraven (Ashab al-Ukhdud)",
+        "Folket i hulen (Ashab al-Kahf)",
+        "Sabbatens folk",
+        "Folket i A'ad",
+        "Folket i Thamud"
+      ],
+      "answer": "Ledsagere av skyttergraven (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Vår rettssak",
+      "options": [
+        "Å bli brent levende i en brennende grop",
+        "Å være forseglet i en hule i mange år",
+        "Fiske på den hellige hviledagen",
+        "Å bli ødelagt av en hylende vind",
+        "Å drepe en hellig hunnkamel"
+      ],
+      "answer": "Å bli brent levende i en brennende grop"
+    },
+    "location": {
+      "label": "Nøkkelelementet",
+      "options": [
+        "En flammende grøft av ild",
+        "En skjult hule med en lojal hund",
+        "Høye søyler i en gammel, dødsdømt by",
+        "Fjellboliger hugget inn i steinklipper",
+        "En åpen slette feid av voldsomme vinder"
+      ],
+      "answer": "En flammende grøft av ild"
+    },
+    "outcome": {
+      "label": "Vårt resultat",
+      "options": [
+        "Vi ble martyrer og forfølgerne ble evig forbannet",
+        "Vi våknet etter å ha sovet i 309 år",
+        "Vi ble forvandlet til aper for vår overtredelse",
+        "En mektig ulende vind ødela oss alle",
+        "Et enkelt, knusende skrik knuste vår eksistens"
+      ],
+      "answer": "Vi ble martyrer og forfølgerne ble evig forbannet"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

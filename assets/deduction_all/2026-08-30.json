@@ -1,0 +1,61 @@
+{
+  "title": "The Trusted Spirit of Revelation",
+  "intro": "In the unseen realms, a being of pure light moves with precision, executing every command without hesitation. This figure has spoken to chosen servants, brought words of guidance, and witnessed the unfolding of divine decrees across the ages. Who is this honored soul?",
+  "clues": [
+    "I am a being of pure light, created from light, and I have never disobeyed a single command of my Lord.",
+    "I move between the heavens and the earth, descending with the decrees of the Most Merciful.",
+    "I was sent to a noble virgin in the sanctuary, announcing to her a pure son.",
+    "I am the spirit of holiness, and I supported a prophet who was given clear signs and the Gospel.",
+    "I came to a cave on a mountain to deliver the first words of a recitation that would be preserved forever.",
+    "I am the trustworthy spirit, and it was I who brought the Quran down upon the heart of the final messenger."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "The Angel of Death",
+        "Malik (Keeper of Hell)",
+        "Harut (one of the two angels in Babylon)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Key Mission/Role",
+      "options": [
+        "Delivering revelation to the prophets",
+        "Blowing the trumpet on the Day of Judgment",
+        "Guarding the gates of Hell",
+        "Recording the deeds of humans",
+        "Causing the rain to fall"
+      ],
+      "answer": "Delivering revelation to the prophets"
+    },
+    "location": {
+      "label": "Key Attribute or Title",
+      "options": [
+        "The Holy Spirit (Ruh al-Qudus)",
+        "The Spirit of Power",
+        "The Spirit of Mercy",
+        "The Spirit of Guidance",
+        "The Spirit of Truth"
+      ],
+      "answer": "The Holy Spirit (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Outcome of the Mission",
+      "options": [
+        "The Quran was revealed to Prophet Muhammad",
+        "The trumpet was blown on the Day of Judgment",
+        "Hell was guarded and its gates were closed",
+        "The Book of Deeds was presented to Allah",
+        "The rain was sent down to the earth"
+      ],
+      "answer": "The Quran was revealed to Prophet Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

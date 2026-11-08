@@ -1,0 +1,61 @@
+{
+  "title": "Varjatud veendumuse hääl",
+  "intro": "Türanliku õukonna südames, kus uskmatus oli maa seaduseks, kõndis üksildane hing usu ja hirmu köiel. See võimu keskpunktile lähedal viibiv inimene kuulas, kuidas prohveti sõnumit kohtas põlgus ja ähvardused. Saabus tõehetk, mis sundis seda inimest valima vaikiva turvalisuse ja ohtliku tõe rääkimise vahel. Kas suudad selle vapra eestkõneleja isiku välja selgitada?",
+  "clues": [
+    "Ma elasin türanni majapidamises ja nägin oma silmaga seda ülbust, mis jumalikke märke hülgas.",
+    "Hoidsin oma usku saladuses, peidetud aardena ebajumalakummardamise palees.",
+    "Kuulsin, kuidas juht, keda ma teenisin, plaanis tappa Allahi sõnumitooja, mees nimega Musa.",
+    "Ma seadsin kahtluse alla nende loogika, tuletades neile meelde Nuuhi, Aadi ja Tamudi rahva saatust.",
+    "Esitasin oma rahvale kriitilise küsimuse: „Kui ta on valetaja, siis on tema vale tema peal; aga kui ta on tõemeelne, siis tabab teid osa tema lubadustest.“",
+    "Minu lugu on jutustatud usu näitena suuras nimega \"Andestaja\", kus ma hoiatasin oma rahvast võimsate skeemide eest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Fir'awni perekonnast pärit usklik",
+        "Haman",
+        "Fir'awni võlurid",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Fir'awni perekonnast pärit usklik"
+    },
+    "trial": {
+      "label": "Milline oli minu katsumus?",
+      "options": [
+        "Prohvet Musa kaitsmine türanni õukonnas",
+        "Kõrge torni ehitamine taeva poole",
+        "Lõõmavasse tulle heidetud",
+        "Hiiglasliku kala poolt alla neelamine",
+        "Kogu rikkuse ja tervise kaotamine"
+      ],
+      "answer": "Prohvet Musa kaitsmine türanni õukonnas"
+    },
+    "location": {
+      "label": "Mis oli minu argumendi teema?",
+      "options": [
+        "Prohveti sõnumi tagasilükkamise tagajärg",
+        "Nõudmine püha puu märgi järele",
+        "Vasika loomine sulatatud ehetest",
+        "Kaljust kaameli ime",
+        "Valitseja unenägude tõlgendamine"
+      ],
+      "answer": "Prohveti sõnumi tagasilükkamise tagajärg"
+    },
+    "outcome": {
+      "label": "Milline oli tulemus?",
+      "options": [
+        "Allah päästis selle inimese nende kurjast plaanist",
+        "Kogu õukond võttis koheselt islami omaks",
+        "Türann kahetses uppumise hetkel",
+        "Türann neelas maa alla",
+        "Inimene saadeti kaugele maale pagendusse"
+      ],
+      "answer": "Allah päästis selle inimese nende kurjast plaanist"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

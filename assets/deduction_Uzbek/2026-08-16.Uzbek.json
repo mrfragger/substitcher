@@ -1,0 +1,61 @@
+{
+  "title": "Palatadagi jim ovoz",
+  "intro": "Qadim zamonlarda muqaddas xonaning sukunatida aks-sado bergan ibodat, dunyo imkonsiz deb e'lon qilgan narsani orzu qilgan qari qalbdan ko'tarildi. Yoshi o'tib, kelajak uchun tashvishga to'lib-toshgan bu shaxs shaxsiy iltijo bilan Parvardigoriga murojaat qildi. Shundan so'ng, har qanday tabiiy umidga qarshi chiqqan ilohiy javob - umidsiz chaqiriqqa javob beruvchi Zotning rahm-shafqatining isboti bo'ldi.",
+  "clues": [
+    "Men o'zimni Unga ibodat qilishga bag'ishlagan xonaga kirib, yolg'iz Rabbimga iltijo qildim.",
+    "Men Parvardigorimga o'zimdan keyin keladiganlar uchun qo'rqayotganimni, ketganimdan keyin qavmimning hidoyati uchun xavotirda ekanligimni tan oldim.",
+    "Qarilik meni qamrab olgan edi — suyaklarim zaiflashib, oq sochlarim boshimga yoyilgan edi.",
+    "Turmush o'rtog'im butun umri davomida bepusht bo'lganiga qaramay, men baribir Rabbimdan menga O'z huzuridan merosxo'r berishini so'radim.",
+    "Men oyat-mo''jiza so'radim va Rabbim javob berib, men jismonan sog'lom bo'lganimda uch kecha hech kim bilan gaplashmasligimni aytdi.",
+    "Menga Yahyo ismli o'g'il va'da qilingan edi. Parvardigorim bu ismni ilgari hech kimga bermagan edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Zakariyo payg'ambar",
+        "Nuh payg'ambar",
+        "Muso payg'ambar",
+        "Yusuf payg'ambar",
+        "Payg'ambar Dovud"
+      ],
+      "answer": "Zakariyo payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Qarilikda bepusht turmush o'rtog'i bilan merosxo'r uchun ibodat qilish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Zulmatda katta baliq tomonidan yutib yuborilmoqda",
+        "Oila, boylik va sog'liqni yo'qotishga chidash",
+        "Buyuk kema qurish buyuriladi"
+      ],
+      "answer": "Qarilikda bepusht turmush o'rtog'i bilan merosxo'r uchun ibodat qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Namozxona (mihrab)",
+        "Ilonga aylangan tayoq",
+        "Ajoyib yog'och kema",
+        "Noyob buloqli bog'",
+        "Qushlar to'plangan tog'"
+      ],
+      "answer": "Namozxona (mihrab)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Juda keksa bo'lishiga qaramay, mo''jizaviy tarzda ism qo'yilgan o'g'il tug'ildi",
+        "Ilohiy amr bilan alangali olovdan qutqarildi",
+        "Kofirlarni katta suv toshqini vayron qildi.",
+        "Sabr-toqatdan so'ng oila, boylik va sog'liqqa qaytdi",
+        "Fir'avn va uning qo'shini dengizda cho'kib ketishdi"
+      ],
+      "answer": "Juda keksa bo'lishiga qaramay, mo''jizaviy tarzda ism qo'yilgan o'g'il tug'ildi"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

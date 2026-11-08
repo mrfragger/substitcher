@@ -1,0 +1,61 @@
+{
+  "title": "Izgovorjeno v bitje",
+  "intro": "Iz svete zgodovine se pojavi lik, ki prinaša čudeže, ki so kljubovali naravnemu redu. Ta duša je prišla po enem samem božjem ukazu, branila starša pred hudimi obtožbami in zapustila ta svet, preden so jo lahko zvezale zemeljske verige. Zgodba sega od skromne zibelke do nebes. Kdo bi to lahko bila?",
+  "clues": [
+    "Poslan sem bil kot znamenje in milost od Alaha otrokom Izraela.",
+    "Moj prihod je bil drugačen od vseh prej – nastal sem po božji besedi 'Bodi!' brez zemeljskega očeta.",
+    "Moj starš se je soočil s krutim obrekovanjem, toda sveto razodetje je razglasilo njuno nedolžnost in povzdignilo njun položaj.",
+    "Kot novorojenček sem presenetil vse okoli sebe, saj sem že od zibelke jasno govoril, da bi očistil ime svojih staršev.",
+    "Z Alahovim dovoljenjem sem iz nežive gline oblikoval življenje, slepim dal vid in s svojim dotikom ozdravil gobavca.",
+    "Vzdignjen sem bil v nebesa, preden se me je lahko dotaknila nesreča, in vrnil se bom na ta svet, preden pride zadnja Ura."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Isa",
+        "Prerok Musa",
+        "Prerok Ibrahim",
+        "Prerok Jusuf",
+        "Prerok Davud"
+      ],
+      "answer": "Prerok Isa"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Govorjenje že od zibelke kot dojenček",
+        "Preživetje v trebuhu velike ribe",
+        "Biti vržen v plameneči ogenj",
+        "Gradnja velike barke pred potopom",
+        "Soočenje s čarovništvom faraonovega dvora"
+      ],
+      "answer": "Govorjenje že od zibelke kot dojenček"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Indžil (evangelij)",
+        "Tavra (Tora)",
+        "Zabur (Psalmi)",
+        "Suhuf (Ibrahimovi zvitki)",
+        "Palica, ki je razcepila morje"
+      ],
+      "answer": "Indžil (evangelij)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Dvignjen v nebesa, se bo vrnil pred sodnim dnevom",
+        "Izraelove otroke je vodil iz Egipta",
+        "Postal je kralj z oblastjo nad džini, ljudmi in pticami",
+        "Z verniki preživel veliko poplavo",
+        "Zgradil je sveto hišo v Meki"
+      ],
+      "answer": "Dvignjen v nebesa, se bo vrnil pred sodnim dnevom"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

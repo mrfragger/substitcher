@@ -1,0 +1,61 @@
+{
+  "title": "Zamana İnanan Şehir",
+  "intro": "İlahi merhametin kayıtlarında, dönüm noktası kolektif bir farkındalık anı olan bir topluluk vardır. Onların öyküsünü, diğer milletlerin kaderinden onları ayıran bir uyarı, tövbe ve kurtuluş öyküsünü ortaya çıkarmak üzeresiniz.",
+  "clues": [
+    "Biz, bize bir elçi gönderilen bir topluluktuk ve başlangıçta onun çağrısına kulak asmadık.",
+    "Yaklaşan cezanın işaretleri belirginleşince, onun uyarısının doğruluğunu anladık.",
+    "Bizler samimi bir tövbeyle Rabbimize yöneldik ve imanımız kabul edildi.",
+    "İnancımız sayesinde bize verilen ceza kaldırıldı.",
+    "Bizim hikayemiz, cezayı gördükten sonra inanan kasabalar arasında bir istisna olarak gösteriliyor.",
+    "Bizler, balina tarafından yutulan peygamberin kavmiydik, yine de helakten kurtulduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Yunus Halkı",
+        "Nuh Halkı",
+        "Hud Halkı",
+        "Salih Halkı",
+        "Lut halkı"
+      ],
+      "answer": "Yunus Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "yıkıcı bir sel",
+        "Şiddetli bir fırtına",
+        "Yaklaşmakta olan utanç verici bir ceza önlendi.",
+        "Yer onları yutuyor",
+        "taş yağmuru"
+      ],
+      "answer": "Yaklaşmakta olan utanç verici bir ceza önlendi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Gemi",
+        "Dişi deve",
+        "Yüz bin nüfuslu bir şehir",
+        "Musa'nın personeli",
+        "Karun'un ordusu"
+      ],
+      "answer": "Yüz bin nüfuslu bir şehir"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Tamamen yok edildiler.",
+        "Onlara bir süreliğine keyif verildi.",
+        "Onlar maymunlara dönüştürüldüler.",
+        "Boğuldular",
+        "Onlar yerin dibine gömüldüler."
+      ],
+      "answer": "Onlara bir süreliğine keyif verildi."
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

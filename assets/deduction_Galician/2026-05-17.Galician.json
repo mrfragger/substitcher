@@ -1,0 +1,61 @@
+{
+  "title": "Os arquitectos da pedra",
+  "intro": "Imaxina unha civilización poderosa, dotada de forza e habilidade, esculpindo grandes vivendas nas ladeiras das montañas. Este colectivo posuía unha inmensa prosperidade e unha destreza arquitectónica única. Con todo, a pesar de recibir advertencias claras, escolleron un camiño que os levaría a unha conclusión dramática e inesquecible. Podes identificar este grupo cuxa historia serve como unha profunda lección para todos os que reflexionan?",
+  "clues": [
+    "Déronnos forza e habilidade, o que nos permitiu esculpir casas magníficas directamente nas montañas.",
+    "Recibimos un sinal claro de Alá, unha criatura única que debía ser deixada pastar sen ser molestada.",
+    "A nosa comunidade volveuse arrogante, desafiando a mensaxe divina traída por un mensaxeiro de entre nós.",
+    "Conspiramos para prexudicar o sinal milagroso, a pesar das advertencias dun castigo severo.",
+    "Desafiamos a orde de deixar que a criatura especial bebese do noso pozo en días alternos.",
+    "Atopamos un final devastador, asolagados por unha única e terrorífica explosión despois do noso acto de transgresión."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Xente de 'Ad",
+        "Xente de Madián",
+        "Xente do elefante",
+        "Xente de Thamud",
+        "Xente de Lut"
+      ],
+      "answer": "Xente de Thamud"
+    },
+    "trial": {
+      "label": "A nosa proba/evento principal",
+      "options": [
+        "A inundación que asolagou a terra",
+        "A división do mar",
+        "A destrución por un só berro/explosión",
+        "O incendio dunha cidade",
+        "A conversión dunha montaña en po"
+      ],
+      "answer": "A destrución por un só berro/explosión"
+    },
+    "location": {
+      "label": "Un elemento clave na nosa historia",
+      "options": [
+        "Un becerro de ouro",
+        "Unha cameloa milagrosa",
+        "Unha sarza ardente",
+        "Un paxaro falador",
+        "Un trono maxestoso"
+      ],
+      "answer": "Unha cameloa milagrosa"
+    },
+    "outcome": {
+      "label": "O noso resultado final",
+      "options": [
+        "Concedéronlle inmensas riquezas e poder",
+        "Elevado á profecía",
+        "Aniquilación total por un castigo divino",
+        "Perdoado despois dun arrepentimento sincero",
+        "Espallados pola terra para vagar"
+      ],
+      "answer": "Aniquilación total por un castigo divino"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

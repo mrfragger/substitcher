@@ -1,0 +1,61 @@
+{
+  "title": "Murindzi hi le Ribuweni ra Nambu",
+  "intro": "Etikweni leri xileriso xa mufumi wa tihanyi xi tiseke gome emakaya yo tala, moya-xiviri wu amukele rungula leri a ri lwisana ni ku chava hinkwako. Hi mbilu leyi taleke hi ku tshemba, va sungule xiendlo xa ripfumelo lexi a xi ta cinca ndlela ya tiko. Loko mati ma ri karhi ma rhwala ndzhwalo wa risima, ntshembo wu hlangana ni swinambyana.",
+  "clues": [
+    "Ndzi hanye enkarhini wa ku tshikileriwa ni ku chava.",
+    "Ndzi kume ku huhuteriwa hi Xikwembu loku ndzi nyikeke xivindzi.",
+    "Ndzi lerisiwe leswaku ndzi nga chavi kumbe ku vilela.",
+    "Ndzi veke n’wana wa mina exifuveni kutani ndzi n’wi veka ehenhla ka mati.",
+    "N’wana wa mina u kumiwile hi muti wa mufumi, kambe n’wana wa mina un’wana u landzerile.",
+    "Ndzi tlhele ndzi hlangana ni n’wana wa mina leswaku ndzi n’wi an’wisa, hilaha Allah a tshembiseke hakona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Manana wa Muxe",
+        "Nsati wa Faro",
+        "Sesi wa Muxe",
+        "Manana wa Yesu",
+        "Hosi ya xisati ya le Xeba"
+      ],
+      "answer": "Manana wa Muxe"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku hlohloteriwa ku hoxa n’wana enambyeni",
+        "Ku tlhontlhiwa eka duel ya masalamusi",
+        "Ku hlongorisiwa hi vuthu",
+        "Ku tsemakanya lwandle leri hambaneke",
+        "Ku aka yindlu yo kwetsima"
+      ],
+      "answer": "Ku hlohloteriwa ku hoxa n’wana enambyeni"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xifuva lexi vekiweke enambyeni",
+        "Xihlahla lexi pfurhaka",
+        "Nhonga leyi hundzukeke nyoka",
+        "Rhole ra nsuku",
+        "Xiluvelo xa vuhosi"
+      ],
+      "answer": "Xifuva lexi vekiweke enambyeni"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "N’wana u tlheriseriwe eka vuongori a hlayisekile",
+        "N’wana u lahlekile hilaha ku nga heriki",
+        "N’wana u yisiwe etikweni ra le kule",
+        "N’wana u ve mufumi hi ku hatlisa",
+        "N’wana loyi u amukeriwe hi muxavisi la fuweke"
+      ],
+      "answer": "N’wana u tlheriseriwe eka vuongori a hlayisekile"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

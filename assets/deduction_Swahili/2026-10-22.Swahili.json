@@ -1,0 +1,61 @@
+{
+  "title": "Jumuiya ya Uhalifu wa Kwanza",
+  "intro": "Katika nchi ya miji ya kale, watu waliwahi kustawi. Walitembelewa na mjumbe mwenye wito ulio wazi, lakini waligeuka na kufuata njia ambayo hakuna mtu aliyewahi kupita. Hadithi yao ni ya ukaidi, upotovu, na adhabu iliyoacha nchi yao kama ishara kwa wote wanaotafakari. Nafsi hizi ni akina nani?",
+  "clues": [
+    "Tuliishi katika miji ya uwanda, ambapo nabii wetu alituita kwenye haki.",
+    "Tulikuwa wa kwanza kufanya uchafu ambao hakuna mtu yeyote katika ulimwengu wote aliyewahi kufanya hapo awali.",
+    "Tuliwavamia wasafiri na kufanya uovu hadharani katika mikusanyiko yetu.",
+    "Tulimkataa mjumbe aliyetumwa kwetu na tukatishia kumfukuza kutoka katika nchi yetu.",
+    "Tulikimbilia nyumbani kwake tukimtaka atupe wageni wake.",
+    "Adhabu yetu ilikuwa mvua ya mawe, na mji wetu ulipinduliwa juu chini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Watu wa Lut",
+        "Watu wa Nuh",
+        "Watu wa 'Ad",
+        "Watu wa Thamud",
+        "Watu wa Madyan"
+      ],
+      "answer": "Watu wa Lut"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alitenda kitendo cha kwanza cha ulawiti",
+        "Sanamu zinazoabudiwa",
+        "Kudanganywa katika biashara",
+        "Walimuua nabii wao",
+        "Hawakutii wazazi wao"
+      ],
+      "answer": "Alitenda kitendo cha kwanza cha ulawiti"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mji wa uwanda",
+        "Mji wa kisima",
+        "Mji wa mtaro",
+        "Mji wa tembo",
+        "Mji wa bustani"
+      ],
+      "answer": "Mji wa uwanda"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Ilinyesha kwa mawe na kupinduliwa",
+        "Kuzama na mafuriko",
+        "Imeharibiwa na upepo mkali",
+        "Imemezwa na ardhi",
+        "Kupigwa na mlipuko mkubwa"
+      ],
+      "answer": "Ilinyesha kwa mawe na kupinduliwa"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

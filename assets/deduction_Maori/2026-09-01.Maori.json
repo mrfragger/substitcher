@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo mai i te Waho",
+  "intro": "E tū ana koe i roto i tētahi tāone nui, kua tae mai ētahi karere tokotoru me ngā tohu mārama, engari ka tawai te iwi ki a rātou, ka piri tonu ki ā rātou tikanga tawhito. Mai i te pito rawa o te tāone, ka oma tere mai tētahi tangata ki te mano, kua kore e manawa, kua u tonu, ki te kōrero i te pono i te aroaro o te whakahē. Ko wai tēnei wairua i tuku i ngā mea katoa mō tētahi karere ehara i tā rātou ake?",
+  "clues": [
+    "I noho ahau i roto i tētahi iwi i whiwhi i ngā karere me ngā tohu mārama, heoi tahuri ke ana rātou i runga i te whakapehapeha.",
+    "I oma mai ahau i te pito rawa o te tāone i taku rongonga i te karanga a ngā karere.",
+    "I mea atu ahau ki tōku iwi, 'E tōku iwi, whaia ngā karere. Whaia te hunga kāore e tono utu mai i a koutou, kua arahina tika hoki rātou.'",
+    "Ehara ahau i te poropiti, engari i whakapono ahau ki ngā karere, ā, i akiaki i tōku iwi kia pera anō hoki.",
+    "I tawai taku iwi ki aku tohutohu, i whakapae mai hoki he tangata whakatoi ahau.",
+    "I tā rātou kōhurutanga i ahau, ka mea mai a Allah kia tomo ahau ki Pararaiha, ā, i hiahia ahau kia mōhio tōku iwi ki te murunga hara me te honore i riro mai i ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te tangata nō te pito tawhiti rawa o te tāone (Ya-Sin)",
+        "Ko tētahi o ngā karere tokotoru i tukuna ki te tāone",
+        "He kaihokohoko rongonui o te tāone",
+        "He rangatira o te tāone",
+        "Ko te rangatira o te hunga whakakeke"
+      ],
+      "answer": "Te tangata nō te pito tawhiti rawa o te tāone (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te kauwhau ki tōna iwi kia whai i ngā karere",
+        "Te hanga i tētahi kaipuke hei whakaora i te hunga whakapono i te waipuke",
+        "Te maka ki te ahi mō te whakapono",
+        "Te horomia e te tohorā",
+        "I homai he rangatiratanga me te whakaaro nui"
+      ],
+      "answer": "Te kauwhau ki tōna iwi kia whai i ngā karere"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te pito tawhiti rawa o te tāone",
+        "Te āaka",
+        "Te puna",
+        "Te rakau e mura ana",
+        "Te ana"
+      ],
+      "answer": "Te pito tawhiti rawa o te tāone"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tomo ki Pararaiha, ā, i hiahia kia mōhio tōna iwi ki tana murunga hara",
+        "I toremi tahi me tōna iwi mō te whakahē i te karere",
+        "I hoatu he merekara o te kamera uha",
+        "I muri i tana whakawakanga i noho hei rangatira",
+        "I whakaorangia e te Atua, ā, i noho tahi me tōna iwi"
+      ],
+      "answer": "I tomo ki Pararaiha, ā, i hiahia kia mōhio tōna iwi ki tana murunga hara"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

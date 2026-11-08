@@ -1,0 +1,61 @@
+{
+  "title": "La buena noticia en la vejez",
+  "intro": "Estás presenciando un momento donde la esperanza renace. Una pareja, ya mayor de edad, recibe una promesa que desafía las leyes de la naturaleza. En medio de ellos se alza una figura cuya sola existencia es señal de misericordia divina: un alma destinada a la profecía, portadora de un legado que perdurará por generaciones. ¿Quién es este individuo extraordinario?",
+  "clues": [
+    "Nací de padres que habían llegado a la vejez y no tenían hijos.",
+    "Mi nacimiento fue anunciado por ángeles que vinieron como invitados a mi familia.",
+    "Me fue concedida sabiduría y profecía, y soy mencionado entre los pacientes.",
+    "A mi padre lo llamaban amigo de Alá, y yo fui un regalo para él en sus últimos años.",
+    "Tuve un hermano que también era profeta, y ambos fuimos bendecidos por nuestro Señor.",
+    "Mi hijo también fue profeta, y a mis descendientes se les transmitieron las Escrituras y la profecía."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Ishaq (Isaac)",
+        "Profeta Ismail (Ismael)",
+        "Profeta Yaqub (Jacob)",
+        "Profeta Yahya (Juan)",
+        "Profeta Uzair (Esdras)"
+      ],
+      "answer": "Profeta Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Nació de padres ancianos.",
+        "Arrojado al fuego",
+        "Dado un reino y riquezas",
+        "Sacó a su pueblo de Egipto.",
+        "Construyeron un arca para salvar a los creyentes."
+      ],
+      "answer": "Nació de padres ancianos."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La buena noticia de un hijo",
+        "La zarza ardiente",
+        "El becerro de oro",
+        "El arca de la alianza",
+        "El báculo profético"
+      ],
+      "answer": "La buena noticia de un hijo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se convirtió en profeta con un linaje de profetas.",
+        "Se convirtió en un rey rico.",
+        "Su pueblo fue destruido por su incredulidad.",
+        "Se salvó del fuego.",
+        "Se le otorgó la capacidad de hablar cuando era un bebé."
+      ],
+      "answer": "Se convirtió en profeta con un linaje de profetas."
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

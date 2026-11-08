@@ -1,0 +1,61 @@
+{
+  "title": "Sự quy phục vĩ đại của Quốc vương",
+  "intro": "Bạn lạc vào một vùng đất của những kỳ quan cổ xưa và những khám phá sâu sắc. Một vị nữ hoàng quyền lực, trước lời mời bất ngờ, đã dấn thân vào một cuộc hành trình thay đổi vận mệnh của bà và niềm tin của thần dân mình. Liệu bạn có thể khám phá ra danh tính của nhân vật vĩ đại này?",
+  "clues": [
+    "Ta từng trị vì một vương quốc thịnh vượng, giàu có vô cùng và sở hữu một ngai vàng tráng lệ.",
+    "Tôi và dân tộc tôi thờ phụng một thiên thể, tin rằng đó là chúa tể của chúng tôi, mặc dù trong lòng tôi vẫn còn nghi ngờ.",
+    "Một sứ giả kỳ lạ, một con chim, đã mang đến cho tôi một bức thư, kêu gọi tôi và dân tộc tôi quy phục Thượng Đế duy nhất.",
+    "Tôi đã tham khảo ý kiến ​​các cố vấn của mình, những người vô cùng quyền lực, về cách ứng phó với thông điệp chưa từng có này.",
+    "Tôi quyết định gửi một món quà có giá trị cho người gửi thư, với hy vọng thăm dò quyền lực và ý định của người đó.",
+    "Khi đến nơi, tôi kinh ngạc trước một cung điện có sàn nhà bằng kính, trông như một hồ nước, và chính lúc đó tôi đã tuyên bố sự quy phục của mình trước Chúa tể của toàn bộ tạo vật."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Pharaoh",
+        "Nữ hoàng Sheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Tiên tri Yusuf"
+      ],
+      "answer": "Nữ hoàng Sheba"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Sự chia tách biển",
+        "Trận đại hồng thủy",
+        "Hành trình gặp gỡ Tiên tri Sulayman",
+        "Sự hủy diệt dân tộc Lut",
+        "Việc thiêu sống Tiên tri Ibrahim"
+      ],
+      "answer": "Hành trình gặp gỡ Tiên tri Sulayman"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah",
+        "Nhân viên",
+        "Ngai vàng",
+        "Ngọn núi",
+        "Ngọn lửa"
+      ],
+      "answer": "Ngai vàng"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Trở thành một nhà tiên tri",
+        "Đã bị Allah tiêu diệt",
+        "Theo đạo Hồi",
+        "Dẫn dắt dân tộc mình ra trận.",
+        "Đã xây dựng một ngôi đền tráng lệ."
+      ],
+      "answer": "Theo đạo Hồi"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

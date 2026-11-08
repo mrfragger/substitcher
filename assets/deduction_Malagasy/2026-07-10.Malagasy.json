@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Mpitondra Famantarana Sivy",
+  "intro": "Olona iray nipoitra avy amin'ny fiandohana tsotra indrindra, miaraka amin'ny lahatra voasoratra ao amin'ny sitrapon'Andriamanitra. Nafenina fony mbola zaza izy ary notezaina tao anatin'ny rindrin'ilay mpitondra izay nitady handrava ny vahoakany, ka nantsoina ho amin'ny iraka lehibe ity fanahy ity. Tsy nanana afa-tsy finoana sy tehina mpiandry ondry tsotra izy ireo, ary nijoro teo anoloan'ny mpitondra mahery indrindra tamin'izany vanim-potoana izany ary nitaky fahafahana ho an'ireo izay nandevozina. Toa nihetsika araka ny baikony izao tontolo izao - nisaraka ny rano, niteny ny lanitra, ary nianjera ny fanjakana iray.",
+  "clues": [
+    "Voamariky ny tahotra ny andro voalohandohany — ireo zazakely toa ahy dia nohazain'ny mpitondra lozabe izay natahotra ny ho avy hatrany.",
+    "Novonjen'ny rano aho ary notezaina tao an-dapan'ilay mpanapaka izay nitady ny fandringanana ahy.",
+    "Nandositra ny tanindrazako aho taorian'ny zava-nitranga tampoka iray, ka lasa mpiandry ondry tsotra tany an-tany lavitra.",
+    "Niverina aho mba hiatrika io mpitondra mahery io tamin'ny tehina tsotra sy hafatra mazava, nitaky ny fahafahan'ny vahoakako.",
+    "Nizara rano lehibe ho an'ireo nanaraka ahy aho, ary nijery raha nitelina ny fahavaloko manontolo ireo rano ireo.",
+    "Niakatra tendrombohitra masina aho mba handray ny fitarihana masina avy amin'i Allah, ary nomena famantarana mazava sivy aho ho porofon'ny fahamarinana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Musa",
+        "Mpaminany Noa",
+        "Mpaminany Ibrahim",
+        "Mpaminany Yusuf",
+        "Mpaminany Lota"
+      ],
+      "answer": "Mpaminany Musa"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Niatrika an'i Farao tao an-dapany",
+        "Fanamboarana ny Sambofiara mba ho tafavoaka velona tamin'ny safodrano lehibe",
+        "Natsipin'ireo mpanao sampy tao anaty afo mirehitra",
+        "Natsipin'ireo rahalahiko tao anaty lavadrano lalina",
+        "Miezaka ny hampitsahatra ny oloko amin'ny fitondran-tena maloto"
+      ],
+      "answer": "Niatrika an'i Farao tao an-dapany"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny tehina izay niova ho menarana",
+        "Ny Fiaraben'i Noa",
+        "Ny Seza Fiandrianan'i Bilqis",
+        "Ny peratra izay nifehy ny rivotra sy ny jiny",
+        "Mavesatra loatra ny fanalahidin'ny harena voatahiry"
+      ],
+      "answer": "Ny tehina izay niova ho menarana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nitarika ny oloko hiampita rano misaratsaraka ho amin'ny fahafahana",
+        "Voavonjy tamin'ny tondra-drano lehibe tao anaty sambofiara",
+        "Naverina tamin'ny laoniny ny fahasalamany sy ny fianakaviany rehefa avy nijaly mafy",
+        "Natsipy velona avy tao anaty hazandrano lehibe iray",
+        "Nanorina ny fototry ny Trano Masina"
+      ],
+      "answer": "Nitarika ny oloko hiampita rano misaratsaraka ho amin'ny fahafahana"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

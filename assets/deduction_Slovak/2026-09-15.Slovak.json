@@ -1,0 +1,61 @@
+{
+  "title": "Pohostinnosť, ktorá priniesla strach",
+  "intro": "V meste pohltenom zlom prijal verný sluha jedného dňa nečakaných návštevníkov. Z obavy o ich bezpečnosť ponúkol ochranu, ale obyvatelia mesta požadovali niečo hanebné. Sluha, varovaný pred blížiacou sa záhubou, utiekol s rodinou pod rúškom tmy a zanechal za sebou mesto určené na zničenie. Kto je tento osamelý veriaci?",
+  "clues": [
+    "Bol som vyslaný ako posol k ľudu, ktorý sa dopustil hanebných skutkov.",
+    "Do môjho domu prišli nečakaní návštevníci a ja som sa viac bál o ich bezpečnosť ako o svoju vlastnú.",
+    "Moji ľudia požadovali stretnutie s mojimi hosťami kvôli zlým úmyslom a ja som sa ich snažil presvedčiť.",
+    "Moji návštevníci sa zjavili ako anjeli a prikázali mi, aby som si v noci vzal rodinu a odišiel.",
+    "Moja žena nedbala na výzvu k úteku a čelila rovnakej skaze ako môj ľud.",
+    "Moje mesto bolo prevrátené dažďom z kameňov a vrstvenej hliny, jeho najvyššie časti boli zvrhnuté na najnižšie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Lut",
+        "Prorok Músa",
+        "Prorok Ibrahim",
+        "Prorok Nuh",
+        "Prorok Hud"
+      ],
+      "answer": "Prorok Lut"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Požiadavka môjho ľudu, aby sa k mojim hosťom pristupoval zlomyseľne",
+        "Rozdelenie mora na útek pred tyranom",
+        "Stavba veľkej archy uprostred posmechu",
+        "Obeť môjho syna v skúške viery",
+        "Zážitok z prehltnutia veľkou rybou"
+      ],
+      "answer": "Požiadavka môjho ľudu, aby sa k mojim hosťom pristupoval zlomyseľne"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zvrátené mesto môjho ľudu",
+        "Hora, kde som prijal božskú reč",
+        "Archa, ktorá preplávala cez veľkú potopu",
+        "Ťava, ktorá vyšla zo skaly",
+        "Záhrada so skrytým spravodlivým návštevníkom"
+      ],
+      "answer": "Zvrátené mesto môjho ľudu"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Bol som zachránený s mojou rodinou predtým, ako bolo moje mesto zvrhnuté",
+        "Viedol som svoj ľud k slobode cez more",
+        "Postavil som veľkú archu a prežil som obrovskú potopu",
+        "Bola mi daná vláda nad vetrami a džinmi",
+        "Trpezlivo som znášal utrpenie a bol som odmenený rodinou"
+      ],
+      "answer": "Bol som zachránený s mojou rodinou predtým, ako bolo moje mesto zvrhnuté"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

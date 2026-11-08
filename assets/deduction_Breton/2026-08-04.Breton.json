@@ -1,0 +1,61 @@
+{
+  "title": "An Echo dre ar C'hleuzioù",
+  "intro": "Soñjit en ur saonenn ma vez troc'het tiez diwar torregezhioù, hag an aer a zoug eñvor ur c'hemenn hep bezañ selaouet. Ur bobl a oa o vevañ amañ gwechall, benniget met difiñv, betek ma teuas ur sin er-maez eus ar roc'h a fizient ennañ.",
+  "clues": [
+    "Ur bobl a zizoloe tiez sur diwar ar menezioù e oamp, o santiñ e surentez en hon annezoù roc'hellek.",
+    "Bevañ a raemp en ur vro plaenennoù ha mein, benniget gant liorzhoù ha feunteunioù.",
+    "Dont a reas ur c'hannad eus hon touez, o c'halv ac'hanomp da zilezel hon doueoù faos ha da azeuliñ an hini gwir C'hrouer.",
+    "Lakaat a reomp gant lorc'h ur c'hondision evit ar gredenn : ur sin dibar a zeufe er-maez eus ar reier hon eus kizellet.",
+    "Pa zeuas ar c'hañvalez prometet war wel eus ar roc'h, ur sin sklaer, e nac'has hon elit c'hoazh hag e skoas war he c'hof daoust d'ar c'hemenn a-zivout un distruj o tont.",
+    "Tri devezh goude hon ober, ur c'hrenn-arnev a glevas dre ar saonenn, hag e voemp lakaet da zismantroù kouezhet, hon tiez hon bezioù."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Pobl ¿Ad",
+        "Pobl Thamud",
+        "Pobl Madyan",
+        "Tud ar C'hoad",
+        "Tud ar C'hev"
+      ],
+      "answer": "Pobl Thamud"
+    },
+    "trial": {
+      "label": "Ar prosez/an darvoud pennañ",
+      "options": [
+        "Troc'hañ kañval Allah",
+        "Azeulerezh al leue aour",
+        "Torridigezh ar sabad",
+        "Savadur un tour betek an oabl",
+        "Lazhadeg ar brofeded"
+      ],
+      "answer": "Troc'hañ kañval Allah"
+    },
+    "location": {
+      "label": "Elfenn bennañ hon istor",
+      "options": [
+        "Kañvalez Allah",
+        "Stajidi Musa",
+        "Arc'h Nuh",
+        "Dorn gwenn Musa",
+        "An evn a ¿Isa"
+      ],
+      "answer": "Kañvalez Allah"
+    },
+    "outcome": {
+      "label": "Hon disoc'h",
+      "options": [
+        "Distruj gant un darzhadenn vouzar",
+        "Ur glav mein eus an oabl",
+        "Eul liñvadenn hag a c'holoas an douar",
+        "Un avel garv hag a ziwriziennas ac'hanomp",
+        "An douar o lonkañ ac'hanomp"
+      ],
+      "answer": "Distruj gant un darzhadenn vouzar"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

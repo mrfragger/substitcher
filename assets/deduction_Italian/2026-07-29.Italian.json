@@ -1,0 +1,61 @@
+{
+  "title": "La cortese",
+  "intro": "Nei corridoi del potere, una figura di alto rango si invaghì di una serva dalla bellezza ultraterrena. Questa infatuazione diede inizio a una serie di eventi che avrebbero messo alla prova la lealtà, rivelato verità nascoste e, in definitiva, confermato l'innocenza della serva.",
+  "clues": [
+    "Ho vissuto nella terra del Nilo, in un palazzo di grande prestigio.",
+    "Un giovane entrò a far parte della mia famiglia e la sua presenza sconvolse il mio mondo.",
+    "Ho cercato di sedurlo, ma lui ha cercato rifugio nel suo Signore.",
+    "Gli strappai la veste da dietro, ma le prove dimostrarono il mio inganno.",
+    "Per mettere a tacere i pettegolezzi delle nobildonne, le invitai a un incontro e misi in mano loro degli oggetti appuntiti.",
+    "Alla fine, ho confessato pubblicamente la mia colpa, riconoscendo la verità davanti al re."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La moglie di Al-Aziz",
+        "Asiya (moglie del faraone)",
+        "Bilqis (Regina di Saba)",
+        "Maria (madre di Isa)",
+        "La madre di Musa"
+      ],
+      "answer": "La moglie di Al-Aziz"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Lei tentò di sedurre il profeta Yusuf",
+        "Lei tentò di uccidere il profeta Mosè",
+        "Affermava di essere una dea",
+        "Ha costruito una torre per sfidare Allah.",
+        "Guidò un esercito contro la Mecca"
+      ],
+      "answer": "Lei tentò di sedurre il profeta Yusuf"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una camicia strappata sul retro",
+        "Un vitello dorato",
+        "Un bastone che si è trasformato in un serpente",
+        "Una cammella",
+        "Una lampada"
+      ],
+      "answer": "Una camicia strappata sul retro"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Ha confessato e riconosciuto la verità",
+        "Fu annegata con il suo esercito",
+        "Si trasformò in una statua di sale",
+        "Fu inghiottita dalla terra",
+        "Fu distrutta da un vento ululante"
+      ],
+      "answer": "Ha confessato e riconosciuto la verità"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

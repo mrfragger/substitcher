@@ -1,0 +1,61 @@
+{
+  "title": "Sanjačev vzpon",
+  "intro": "Duša, ki ji je bila usojena veličina, a je bila preizkušena s hudimi preizkušnjami, se je podala na izjemno potovanje. Pot te osebe so zaznamovali ljubosumje, ločitev in nepravično trpljenje, le da bi dosegla vrhunec v položaju ogromne odgovornosti in globoke združitve. Ali lahko prepoznate to izjemno osebnost iz Korana?",
+  "clues": [
+    "Nekoč so mi najbližji zavidali, kar je privedlo do globoke ločitve od staršev in doma.",
+    "Doživel sem obdobje velikih težav, vključno s tem, da so me popotniki prodali za nizko ceno.",
+    "Nepravično so me obtožili prestopka in leta sem preživel v zaporu, vendar je moja vera ostala neomajna.",
+    "Podarjena mi je bila edinstvena sposobnost razlage kompleksnih vizij, kar se je izkazalo za ključno na moji poti do svobode.",
+    "Moja modrost in integriteta sta me sčasoma pripeljali do položaja velike avtoritete in zaupanja v tuji deželi.",
+    "Po dolgi in boleči odsotnosti sem se s pomočjo vrste dogodkov ponovno srečal s svojim ostarelim staršem in sorojenci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Sulejman",
+        "Prerok Isa",
+        "Prerok Jusuf",
+        "Prerok Davud",
+        "Prerok Jahja"
+      ],
+      "answer": "Prerok Jusuf"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Biti pogoltnjen s strani velike ribe",
+        "Gradnja barke za rešitev stvarstva",
+        "Prenašanje lažnih obtožb in zaporne kazni",
+        "Soočenje s tiranskim vladarjem s čudeži",
+        "Preizkušnja s hudo boleznijo in izgubo"
+      ],
+      "answer": "Prenašanje lažnih obtožb in zaporne kazni"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Goreči grm",
+        "Govoreča ptica",
+        "Vodnjak",
+        "Palica, ki se spremeni v kačo",
+        "Kamela kot znamenje"
+      ],
+      "answer": "Vodnjak"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vodenje selitve v obljubljeno deželo",
+        "Postati močan minister v Egiptu",
+        "Prejemanje božje sodbe nad arogantnim ljudstvom",
+        "Vladanje ogromnemu kraljestvu z modrostjo in pravičnostjo",
+        "Vzpenjajoč se v nebesa"
+      ],
+      "answer": "Postati močan minister v Egiptu"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

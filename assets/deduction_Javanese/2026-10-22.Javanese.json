@@ -1,0 +1,61 @@
+{
+  "title": "Komunitas Pelanggaran Pertama",
+  "intro": "Ing tanah kutha-kutha kuna, ana wong-wong sing urip subur. Dheweke ditemoni utusan kanthi panggilan sing jelas, nanging dheweke nyingkir lan ngetutake dalan sing durung tau dilalui sapa wae. Crita iki minangka crita babagan pembangkangan, kerusakan, lan paukuman sing ninggalake tanah kelairane minangka pratandha kanggo kabeh wong sing mikir. Sapa jiwa-jiwa iki?",
+  "clues": [
+    "Kita manggon ing kutha-kutha ing dataran, ing ngendi nabi kita ngajak kita menyang kabeneran.",
+    "Kita iki wong pisanan sing nindakake tumindak kejem sing durung tau ditindakake dening sapa wae ing donya iki.",
+    "Kita ngalang-alangi para musafir lan nindakake kejahatan kanthi terang-terangan ing pakumpulan kita.",
+    "Kita nulak utusan sing diutus marang kita lan ngancam bakal ngusir dhèwèké saka tanah kita.",
+    "Kita cepet-cepet menyang omahe njaluk supaya dheweke masrahake tamu-tamune marang kita.",
+    "Ukuman kita yaiku udan watu, lan kutha kita dijungkir balikke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Kita?",
+      "options": [
+        "Wong-wong Luth",
+        "Wong-wong Nabi Nuh",
+        "Wong-wong 'Ad",
+        "Wong-wong Tsamud",
+        "Wong Madyan"
+      ],
+      "answer": "Wong-wong Luth"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Nindakake tumindak sodomi pisanan",
+        "Berhala sing disembah",
+        "Diapusi ing perdagangan",
+        "Matèni nabiné",
+        "Ora nurut marang wong tuwane"
+      ],
+      "answer": "Nindakake tumindak sodomi pisanan"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Kutha dataran",
+        "Kutha sumur",
+        "Kutha parit",
+        "Kutha gajah",
+        "Kutha taman"
+      ],
+      "answer": "Kutha dataran"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Udan karo watu lan kebalik",
+        "Kecemplung banjir",
+        "Rusak dening angin gedhe",
+        "Ditelan bumi",
+        "Disamber ledakan banter"
+      ],
+      "answer": "Udan watu lan kebalik"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

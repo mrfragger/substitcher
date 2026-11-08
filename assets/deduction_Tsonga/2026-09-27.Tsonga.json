@@ -1,0 +1,61 @@
+{
+  "title": "Ntanga Lowu Nyamaleke Hi Vusiku Hinkwabyo",
+  "intro": "Anakanya hi ntanga lowu tlhumeke, lowu tikaka hi mihandzu leyi vupfaka naswona wu rhendzeriweke hi mirhi leyi tlakukeke. Lava a va yi khathalela a va tivona va tlharihile, va kunguhata ntshovelo wa vona hi tiawara leti rhuleke ku nga si va ni nhlikanhi, ekule ni mahlo ya lava pfumalaka. Kambe Loyi a nga etleliki a a ri ni makungu man’wana ya vunyingi bya vona lebyi fihliweke. Xana u nga ringanyeta leswaku i mani loyi a yimeke endzhaku ka ntsheketo lowu wa xitsundzuxo lowu humaka eka Quran?",
+  "clues": [
+    "Hi tshame hi va ni ntanga lowu tlhumeke swinene naswona wu tele lerova wu ve mavondzo ya hinkwavo lava hundzaka hi ndlela.",
+    "Loko hi kunguhata, a hi hlevetela nimixo swinene, hi tivisa leswaku a ku na moya-xiviri lowu pfumalaka lowu nga ta pfumeleriwa ku nghena siku rero.",
+    "A hi ri vanhu va rifuwo, naswona timbilu ta hina a ti nga voni timfanelo ta swisiwana leswi hi rhendzeleke.",
+    "Loko ku fika dyambu ra ntshovelo lowu a hi kunguhate ku n’wi tshovela, hi tshinele entangeni wa hina ntsena hi kuma wu hundzuriwile wu va marhumbi lama nga ni ntima hi vusiku byin’we.",
+    "Xileriso lexi onhaka xi hangalakile, xi nga siyanga nchumu handle ka nkuma laha swirhabyani swa mihandzu leyi vupfeke a swi tshame swi lenga-lenga kona.",
+    "Ntsheketo wa hina i xilemukiso xo tika lexi rhekhodiweke eka Quran, laha hi tiviwaka tanihi vini va ntanga lava a va sivela ku pfuna lava pfumalaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vini va Ntanga",
+        "Vanhu va le Bako",
+        "Vadyondzisiwa va Esa",
+        "Vaseketeri va Tihunyi",
+        "Vaendzi va Ibrahim"
+      ],
+      "answer": "Vini va Ntanga"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku tshovela mihandzu exihundleni ni ku sivela swisiwana",
+        "Ku etlela malembe-xidzana yo tala endzeni ka bako",
+        "Ku ala ku humesa kamela ya xisati hi ribye",
+        "Ku gandzela rhole ra nsuku eNtshaveni ya Sinayi",
+        "Ku aka ngalava leyikulu ku balekela ndhambi"
+      ],
+      "answer": "Ku tshovela mihandzu exihundleni ni ku sivela swisiwana"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ntanga lowu nga ni marhangu lowu taleke hi micindzu ni mirhi ya vhinya",
+        "Bako ra munyama leri nga endzeni-ndzeni ka tintshava",
+        "Doroba leri hlaseriweke hi xidzedze xa Xikwembu",
+        "Nkova wo kwetsima ekusuhi ni Yindlu ya Allah",
+        "Ribuwa ra nambu lowu khulukaka"
+      ],
+      "answer": "Ntanga lowu nga ni marhangu lowu taleke hi micindzu ni mirhi ya vhinya"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ntanga lowu a wu dyiwa hi xileriso lexi hisaka lexi humaka etilweni",
+        "Va etlele hi ku rhula ku ringana malembe ya 309 ya n’weti",
+        "Va pfotlosiwe hi mpfula ya maribye",
+        "Va nwile ehansi ka magandlati ya ndhambi leyikulu",
+        "Va hangalasiwe hi ku buluka ka moya wo titimela, lowu nga ni matimba"
+      ],
+      "answer": "Ntanga lowu a wu dyiwa hi xileriso lexi hisaka lexi humaka etilweni"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Stëmm vun der Rand",
+  "intro": "Dir stinn an enger Stad, wou dräi Boten mat kloere Zeeche komm sinn, awer d'Leit verspotten se a klammeren un hiren ale Weeër. Vum wäitste Enn vun der Stad sprint eng Figur op d'Leit zou, otemlos an entschloss, fir d'Wourecht ze soen, obwuel se ofgeleent ginn. Wien ass dës Séil, déi alles fir eng Botschaft riskéiert huet, déi net hir eege war?",
+  "clues": [
+    "Ech hunn ënner engem Vollek gelieft, dat Boten mat kloere Zeeche kritt hat, awer si hunn sech arrogant ewechgedréit.",
+    "Ech koum aus dem wäitsten Deel vun der Stad gerannt, wéi ech vum Ruff vun de Boten héieren hunn.",
+    "Ech hunn zu mengem Vollek gesot: \"O mäi Vollek, folgt de Boten. Folgt deenen, déi keng Belounung vun iech verlaangen, well si sinn richteg gefouert.\"",
+    "Ech war kee Prophet, mä ech hunn un d'Bote gegleeft a mäi Vollek opgeruff, datselwecht ze maachen.",
+    "Meng Leit hunn mäi Rot verspott a mech beschëllegt, en Extremist ze sinn.",
+    "Wéi si mech ëmbruecht hunn, huet Allah mir gesot, ech soll an d'Paradies eragoen, an ech hunn mir gewënscht, datt mäi Vollek d'Verzeiung an d'Éier kennenléiere kéint, déi ech kritt hunn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Mann aus dem wäitste Deel vun der Stad (Ya-Sin)",
+        "Ee vun den dräi Boten, déi an d'Stad geschéckt goufen",
+        "E bekannten Händler vun der Stad",
+        "E Herrscher vun der Stad",
+        "De Leader vun den Ongleewegen"
+      ],
+      "answer": "De Mann aus dem wäitste Deel vun der Stad (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Sengem Vollek priedegen, datt si de Boten nokomme sollen",
+        "E Schëff bauen fir Gleeweger virun enger Iwwerschwemmung ze retten",
+        "Fir de Glawen an d'Feier gehäit ginn",
+        "Vun engem Wal verschléckt ginn",
+        "E Kinnekräich a Wäisheet ginn ze kréien"
+      ],
+      "answer": "Sengem Vollek priedegen, datt si de Boten nokomme sollen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Den wäitste Deel vun der Stad",
+        "D'Ark",
+        "De Brunn",
+        "De brennende Busch",
+        "D'Höhl"
+      ],
+      "answer": "Den wäitste Deel vun der Stad"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ass a Paradäis komm a wollt, datt säi Vollek seng Verzeiung erkennen kéint",
+        "Erdronk mat sengem Vollek fir d'Ofleenung vun der Botschaft",
+        "Huet e Wonner vum Kamel kritt",
+        "Gouf no sengem Prozess Herrscher",
+        "Gouf vun Allah gerett a blouf bei sengem Vollek"
+      ],
+      "answer": "Ass a Paradäis komm a wollt, datt säi Vollek seng Verzeiung erkennen kéint"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

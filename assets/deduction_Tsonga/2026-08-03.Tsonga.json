@@ -1,0 +1,61 @@
+{
+  "title": "Xihlovo Lexi Nga Ehansi Ka Sava",
+  "intro": "Eka tibuku ta matimu ta Quran, xifaniso xa ku lehisa mbilu lokukulu xi langutane ni ndzingo lowu a wu ta tshova timbilu leti tiyeke swinene. Hinkwaswo swi hluvuriwile - rifuwo, ndyangu, na rihanyo. Hambi swi ri tano ku suka evuentweni bya ku heleriwa hi ntshembo, xikhongelo xo titsongahata xi hlamuriwile hi ndlela leyi a yi nga languteriwanga ngopfu. Xana u nga swi kota ku vona moya-xiviri lowu xitori xa wona xa ku vuyeteriwa xi twala eka malembe yo tala?",
+  "clues": [
+    "Ndzi ringetiwile hi ndzingo lowukulu lerova wu tsundzukiwa eka malembe hinkwawo.",
+    "Ndzi lahlekeriwe hi hinkwaswo leswi a swi ri swa nkoka - rifuwo ra mina, vana va mina, na rihanyo ra mina.",
+    "Miri wa mina a wu funengetiwe hi swilondza leswi vavaka, naswona a ndzi papalatiwa hi vanhu hinkwavo.",
+    "Hi ku heleriwa hi ntshembo, ndzi vitanile eka Allah, ndzi vula leswaku Sathana u ndzi khumbile hi ku nonon’hweriwa ni ku xanisiwa.",
+    "Allah u ndzi hlamurile kutani a ndzi lerisa leswaku ndzi ba misava hi nenge wa mina.",
+    "Ku suka endhawini yoleyo, ku pfurhile xihlovo xo kufumela, naswona Allah u vuyisele ndyangu wa mina ni ku wu andzisa kambirhi tanihi tintswalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Ayyab",
+        "Muprofeta Musa",
+        "Muprofeta Ilyas",
+        "Muprofeta Sulayman",
+        "Muprofeta Dawud"
+      ],
+      "answer": "Muprofeta Ayyab"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Vuvabyi lebyikulu ni ku lahlekeriwa hi ndyangu ni rifuwo",
+        "Ku mitiwa hi xiharhi lexikulu xa whale",
+        "Ku hlongoriwa edorobeni ra Makkah",
+        "Ku pfaleriwa exihlobyeni lexi dzikeke",
+        "Ku lwisana ni mufumi la tikukumuxaka"
+      ],
+      "answer": "Vuvabyi lebyikulu ni ku lahlekeriwa hi ndyangu ni rifuwo"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xihlovo xo kufumela lexi humaka emisaveni",
+        "Xikepe lexi nga ehenhla ka ndhambi leyikulu",
+        "Nhonga leyi a yi avanyisa lwandle",
+        "Xiluvelo lexi tlakukeke xa nghilazi",
+        "Bako leri nga ni marhangu ro etlela eka rona"
+      ],
+      "answer": "Xihlovo xo kufumela lexi humaka emisaveni"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ndyangu ni rifuwo swi vuyeleriwile naswona swi phindhiwe kambirhi",
+        "Huma ekhwirini ra nhlampfi",
+        "Ku hundza hi ndlela leyi hlayisekeke ematini lama avaneke",
+        "Mfumo lowu nyikiweke ku fuma",
+        "Ku velekiwa ka n’wana wa mufana hi singita loko a dyuharile"
+      ],
+      "answer": "Ndyangu ni rifuwo swi vuyeleriwile naswona swi phindhiwe kambirhi"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

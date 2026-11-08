@@ -1,0 +1,61 @@
+{
+  "title": "Igatsus pühas kambris",
+  "intro": "Astud vaiksesse pühamusse ja näed pühendunud Allahi teenrit palves seismas. Nende käed on üleval, silmad tõstetud ja südames on igatsus, mis on kestnud terve elu. Kes on see kannatlik hing, kelle usaldus Allahi vastu pole kunagi kõikunud?",
+  "clues": [
+    "Veetsin pikki aastaid jumalateenistusel ja palves, olles tunnistajaks imedele, mis tugevdasid mu usku.",
+    "Mulle anti vastutus hoolitseda pühakojas ühe õnnistatud noore hinge eest.",
+    "Vananedes oli mu suurimaks kurbuseks see, et mul polnud last, sest mu naine oli viljatu ja me mõlemad olime kõrges eas.",
+    "Ma palvetasin oma Issanda poole, et ta leiaks mulle oma perekonnast järeltulija, kellegi, kes jätkaks prohveti pärandit.",
+    "Kui ma palvenišis seisin, hüüdsid inglid mind, öeldes: „Allah kuulutab sulle häid sõnumeid“ ja mind valdas hirm ja aukartus.",
+    "Mulle öeldi, et mul sünnib poeg nimega Yahya, nimi, mida polnud varem kellelegi antud, ja märgiks, et ma ei räägi kolm päeva inimestega."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Zakariyya",
+        "Prohvet Jahja",
+        "Prohvet Isa",
+        "Prohvet Dawud",
+        "Tark Luqman"
+      ],
+      "answer": "Prohvet Zakariyya"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Viljatus ja vanadus õiglase pärija igatsemise ajal",
+        "Lõõmavasse tulle visatud",
+        "Suure kala poolt alla neelatud",
+        "Kuningriigi kaotamine türannile",
+        "Kodumaalt pagendamine"
+      ],
+      "answer": "Viljatus ja vanadus õiglase pärija igatsemise ajal"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Palve nišš (mihrab)",
+        "Suur laev (Ark)",
+        "Põlev põõsas",
+        "Personal, mis muutus maoks",
+        "Allahi emane kaamel"
+      ],
+      "answer": "Palve nišš (mihrab)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Andis õiglase poja ja rääkis pärast kolmepäevast vaikust uuesti",
+        "Uskumatuse tõttu hävitatud üleujutuse poolt",
+        "Antud tohutu kuningriik ja kontroll tuule üle",
+        "Kala kõhust välja toodud",
+        "Maa poolt neelatud"
+      ],
+      "answer": "Andis õiglase poja ja rääkis pärast kolmepäevast vaikust uuesti"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

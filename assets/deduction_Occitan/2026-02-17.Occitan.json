@@ -1,0 +1,61 @@
+{
+  "title": "La grana de la disputa",
+  "intro": "Abans que lo mond coneguèsse un conflicte generalizat, una pròva prigonda de fe e d'obedíncia se desplegèt. Aquesta narracion explora las causidas fachas per un individú, que sas accions establisson un precedent per las generacions futuras. Preparatz-vos a descobrir l'istòria d'una anma que se bat contra una gelosiá immensa e sas consequéncias devastairas.",
+  "clues": [
+    "Èri demest los primièrs descendents a caminar sus la tèrra, un enfant del primièr parelh uman.",
+    "Mon fraire e ieu foguèrem comandats d'ofrir un sacrifici a Allah, una pròva de nòstra sinceritat.",
+    "Mon ofèrta foguèt pas acceptada, del temps que la de mon fraire, çò qu'empliguèt mon còr d'una emocion terribla.",
+    "Parlèri de mots de menaça a mon fraire, menat per l'amarum del refús.",
+    "Mon fraire respondèt amb saviesa e pietat, me remembrant la justícia d'Allah e la paur d'El.",
+    "Malgrat las paraulas doças de mon fraire e sa volontat de perdonar, prenguèri una vida, venent un dels perdents."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Adam",
+        "Iblis",
+        "Profèta Nuh",
+        "Qabil (Caïn)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Caïn)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Lo grand inondacion",
+        "La fendidura de la mar",
+        "L'edifici de la Kaaba",
+        "L'ofèrta de sacrificis",
+        "La tentacion dins lo Jardin"
+      ],
+      "answer": "L'ofèrta de sacrificis"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "Lo personal",
+        "La Montanha de Safa",
+        "Lo Sacrifici",
+        "Lo Busc Ardent"
+      ],
+      "answer": "Lo Sacrifici"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Venguèt un messatgièr",
+        "Foguèt afogat",
+        "Bastiguèt un grand reialme",
+        "Venguèt un exemple de regret",
+        "Foguèt concedit una riquesa immensa"
+      ],
+      "answer": "Venguèt un exemple de regret"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

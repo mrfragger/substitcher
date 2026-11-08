@@ -1,0 +1,61 @@
+{
+  "title": "Butparastlik hukmronligiga qarshi chiqqan ovoz",
+  "intro": "Qodir Tangrining elchilari orasida haqiqatni yetkazish uchun o'jar xalq orasida ko'tarilgan sodiq xizmatkor bor edi. Ularning xalqi mavjudotning Yaratuvchisidan yuz o'girib, soxta xudoni qabul qilgan edi. Bu shaxs qat'iyat bilan ularni qaytarib chaqirdi - ammo xabar inkor va rad etish bilan qarshi olindi. Bu fidoyi xizmatkor kimligini aniqlash uchun ishoralarni ko'rib chiqing.",
+  "clues": [
+    "Men to'g'ri yo'ldan adashgan o'jar qavmga elchi qilib yuborildim.",
+    "Men xalqimga mavjudotning barchasini yaratgan Zotni — barcha yaratuvchilarning eng yaxshisini eslatish uchun keldim.",
+    "Mening xalqim kechayu kunduz sajda qilib, ibodat qiladigan soxta butga yuz burdi.",
+    "Men ularga jasorat bilan qarshi chiqdim, nega ular soxta xudoga sig'inib, haqiqiy Parvardigorlaridan voz kechishlarini so'radim.",
+    "Ular meni rad etishdi, quloq solishdan bosh tortishdi va yolg'onlariga yopishib olishdi — ammo Rabbim meni saqlab qoldi.",
+    "Men Ilyosman — va menga tinchlik ato etildi va men Rahmonning mo'min bandalari qatorida sanaldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ilyos",
+        "Idris payg'ambar",
+        "Payg'ambar Alyasa",
+        "Payg'ambar Zul-Kifl",
+        "Nuh payg'ambar"
+      ],
+      "answer": "Payg'ambar Ilyos"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Baalga sig'inishdan xalqni uzoqlashtirish",
+        "O'zini xudo deb da'vo qilgan zolimga qarshi turish",
+        "Yaqinlashib kelayotgan suv toshqini haqida odamlarni ogohlantirish",
+        "Katta alangali olovga tashlanmoqda",
+        "Qullik yurtidan chiqishga boshchilik qilish"
+      ],
+      "answer": "Baalga sig'inishdan xalqni uzoqlashtirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Baal ismli but",
+        "Mustahkam yog'ochdan qurilgan ulkan kema",
+        "Keng dengizni ikkiga bo'lib tashlagan tayoq",
+        "Qonga bo'yalgan muqaddas kiyim",
+        "Muqaddas tog'dagi yonayotgan buta"
+      ],
+      "answer": "Baal ismli but"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "tinchlik berdi va Allohning tanlangan bandalari qatoriga kiritdi",
+        "Jannatga olib kirildi, qolganlari esa yo'q qilindi",
+        "Salqin va xavfsiz bo'lib qolgan katta yong'indan qutqarildi",
+        "Jinlar, insoniyat va shamol ustidan hukmronlik berilgan",
+        "Asrlar davomida saqlanib qolgan tana"
+      ],
+      "answer": "tinchlik berdi va Allohning tanlangan bandalari qatoriga kiritdi"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

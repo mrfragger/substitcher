@@ -1,0 +1,61 @@
+{
+  "title": "Il-Folla Għebet",
+  "intro": "Inti wieqaf quddiem l-eki ta’ komunità li l-istorja tagħha hija miktuba fil-mewġ. Dawn l-erwieħ semgħu sejħa, għażlu r-reżistenza, u ffaċċjaw konsegwenza li biddlet id-dinja. Min huma, u x’sar minn din id-dinja?",
+  "clues": [
+    "Għexna żmien ilu, u messaġġier ġie għandna minn fostna.",
+    "Qimna ħames idoli u rrifjutajna li nabbandunawhom.",
+    "Aħna żbaljajna lill-messaġġier u akkużajnieh li kien mitluf fit-triq.",
+    "Tlabnieh iġib il-kastig jekk kien sinċier.",
+    "Rajna s-smewwiet iferrgħu x-xita u l-art tgelgel l-għejun.",
+    "Tlajna lejn l-għoljiet biex naħarbu, imma l-mewġ għelebna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Nies ta' Nuh",
+        "Nies ta' 'Ad",
+        "Nies ta' Thamud",
+        "Nies ta' Lut",
+        "Nies ta' Madyan"
+      ],
+      "answer": "Nies ta' Nuh"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Għerqna f’għargħar kbir",
+        "Ġejna meqruda minn uragan",
+        "Inqatlu minn splużjoni qawwija",
+        "Inbelgħuna mill-art",
+        "Ġejna mtajrin bil-ġebel mis-sema"
+      ],
+      "answer": "Għerqna f’għargħar kbir"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Għargħar kbir",
+        "Riħ qawwi",
+        "Xita ta’ ġebel",
+        "Splużjoni tan-nar",
+        "Terremot"
+      ],
+      "answer": "Għargħar kbir"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Aħna lkoll mitlufin ħlief dawk li jemmnu ma' Nuh",
+        "Ġejna trasformati f'xadini",
+        "Tħallejna bħala fdalijiet għall-vjaġġaturi",
+        "Aħna ġejna mibdula fil-melħ",
+        "Ingħatajna mistrieħ"
+      ],
+      "answer": "Aħna lkoll mitlufin ħlief dawk li jemmnu ma' Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

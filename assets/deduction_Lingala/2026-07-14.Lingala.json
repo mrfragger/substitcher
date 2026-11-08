@@ -1,0 +1,61 @@
+{
+  "title": "Milimo ya Fosse",
+  "intro": "Ozongeli eleko oyo mokonzi moko ya motema mabe azalaki kosɛnga ete bámipesa mpenza na banzambe ya lokuta. Lisangá moke ya milimo oyo emipesaki eboyaki, mpe ekutanaki na etumbu moko ya makasi mpenza oyo ekómaki kolakelama mabe mpo na libela. Lisolo na bango ezongeli na nzela ya Coran lokola litatoli ya kondima oyo etɛngamá te. Okoki koyeba etuluku yango ya kotɛngatɛnga te?",
+  "clues": [
+    "Tozalaki kofanda na mokili oyo ezalaki na nse ya bokonzi ya mokonzi moko oyo azalaki kosɛnga ete básambela banzambe ya lokuta",
+    "Lisanga na biso ekutanaki na minyoko makasi kaka mpo na kondima na biso kaka na Allah",
+    "Mokonzi apesaki mitindo ete bátimola libulu monene mpe bátya mɔtɔ makasi",
+    "Lokola toboyaki kotika kondima na biso, babwakaki biso moko na moko na libulu wana ya mɔ́tɔ",
+    "Lisolo na biso ekomaki eteni ya Coran, mpe baoyo bazalaki konyokola biso balakelamaki libela",
+    "Surah oyo ekomi mpasi na biso ezwaki nkombo ya bilembo minene ya lola ya lola"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Baninga ya Fosse (Ashab al-Ukhdud) .",
+        "Bato ya Libulu (Ashab al-Kahf) .",
+        "Bato ya Sabata",
+        "Bato ya A'ad",
+        "Bato ya Thamud"
+      ],
+      "answer": "Baninga ya Fosse (Ashab al-Ukhdud) ."
+    },
+    "trial": {
+      "label": "Momekano na biso",
+      "options": [
+        "Kotumbama na bomoi na libulu ya mɔ́tɔ",
+        "Kokangama na kati ya libulu na boumeli ya bambula mingi",
+        "Koboma mbisi na mokolo mosantu ya bopemi",
+        "Kobebisama na mopɛpɛ oyo ezalaki koganga",
+        "Koboma kamela-mwasi ya bule"
+      ],
+      "answer": "Kotumbama na bomoi na libulu ya mɔ́tɔ"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Fosse ya mɔ́tɔ oyo ezali kopela mɔ́tɔ",
+        "Libulu oyo ebombami oyo ezali na mbwa moko ya sembo",
+        "Makonzí milai ya engumba moko ya kala oyo esengelaki kobomama",
+        "Bisika ya kofanda na bangomba oyo eyemami na mabanga",
+        "Esika ya patatalu moko ya polele oyo mipɛpɛ makasi ekɔtisaki"
+      ],
+      "answer": "Fosse ya mɔ́tɔ oyo ezali kopela mɔ́tɔ"
+    },
+    "outcome": {
+      "label": "Litomba na biso",
+      "options": [
+        "Tobomamaki martiru mpe banyokoli balakelamaki libela",
+        "Tolamukaki nsima ya kolala mbula 309",
+        "Tobongwanaki na ba singes mpo na kobuka mobeko na biso",
+        "Mopɛpɛ makasi oyo ezalaki koganga ebebisaki biso nyonso",
+        "Kolela kaka moko ya kobebisa ebebisaki bozali na biso"
+      ],
+      "answer": "Tobomamaki martiru mpe banyokoli balakelamaki libela"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

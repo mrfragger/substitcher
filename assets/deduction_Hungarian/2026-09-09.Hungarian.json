@@ -1,0 +1,61 @@
+{
+  "title": "Az első lélek, aki feláll",
+  "intro": "Jóval azelőtt, hogy bármelyik hírnök a földön járt volna, mielőtt bármelyik szentírás kinyilatkoztatásra került volna, egy lény, akihez foghatót nem lehetett látni, létezett. Ezt a lelket isteni kezek formálták, páratlan szépségű helyet kaptak, és olyan módon próbára tették, amely végigvonult az emberiség egész történelmén. Ezt követte a gyengeség, az őszinte bűnbánat és egy olyan sors története, amely örökre megváltoztatta a teremtés menetét. Kitalálod, ki ez?",
+  "clues": [
+    "A Legirgalmasabb kezei formáltak engem a föld porából",
+    "Páratlanul szép otthont kaptam, ahol sem az éhség, sem a fáradtság nem érhetett.",
+    "Azt a parancsot kaptam, hogy soha ne közelítsek meg egyetlen fát sem, mert tilos volt",
+    "Társammal becsapást szenvedtünk, és Urunk parancsa ellenére a tiltott fához mentünk.",
+    "Őszinte bűnbánattal fordultunk vissza Urunkhoz, és megbocsátást nyertünk vétkeinkre",
+    "Tőlünk származik az egész emberiség; én vagyok az első, aki ezen a földön jár."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ádám próféta",
+        "Mózes próféta",
+        "Nuh próféta",
+        "Juszuf próféta",
+        "Isa próféta"
+      ],
+      "answer": "Ádám próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Kísértés a tiltott fa mellett",
+        "Szembesülés a fáraóval",
+        "A nagy bárka építése",
+        "A szeretett fiú feláldozása",
+        "Nagy tűzbe vetve"
+      ],
+      "answer": "Kísértés a tiltott fa mellett"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A tiltott fa",
+        "Az égő csipkebokor",
+        "Az arany személyzet",
+        "A Nagy Bárka",
+        "Az aranyborjú"
+      ],
+      "answer": "A tiltott fa"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Az emberiség első gondviselőjeként küldték le a földre",
+        "A fáraó és serege tengerbe fulladt",
+        "A nagy özönvíz elpusztította a gonoszokat",
+        "A tűz hűvös és békés lett",
+        "Hatalmat kapott Egyiptom királysága felett"
+      ],
+      "answer": "Az emberiség első gondviselőjeként küldték le a földre"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

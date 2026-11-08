@@ -1,0 +1,61 @@
+{
+  "title": "Te Hapori o te Hara Tuatahi",
+  "intro": "I te whenua o ngā tāone tawhito, i tupu pai te iwi i mua. I tae atu tētahi karere ki a rātou me te karanga mārama, heoi i tahuri ke atu rātou, ā, i whai i tētahi ara kāore anō kia haerea e tētahi. Ko tā rātou kōrero he kōrero whakakeke, he whanoke, he whiu i wehe atu i tō rātou whenua tupu hei tohu mō te hunga katoa e whakaaroaro ana. Ko wai ēnei wairua?",
+  "clues": [
+    "I noho mātou i ngā tāone o te mania, i te wāhi i karanga ai tō mātou poropiti i a mātou ki te tika.",
+    "Ko mātou te tuatahi ki te mahi i te mea whakarihariha kāore anō kia mahia e tetahi tangata i te ao katoa i mua.",
+    "I arai mātou i ngā tāngata haere, i mahi nui hoki i te kino i roto i ā mātou huihuinga.",
+    "I whakakahoretia e mātou te karere i tonoa mai ki a mātou, ā, i whakawehi mātou ki te pei i a ia i tō mātou whenua.",
+    "I oma tere mātou ki tōna whare ki te tono kia tukua mai āna manuhiri ki a mātou.",
+    "Ko tā mātou whiu he ua kōhatu, ā, kua hurihia tō mātou tāone ki raro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Te iwi o Ruta",
+        "te iwi o Noa",
+        "Ngā tāngata o 'Ad",
+        "Te iwi o Thamud",
+        "Ngā tāngata o Madyan"
+      ],
+      "answer": "Te iwi o Ruta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I mahia te mahi tuatahi o te moepuku",
+        "Ngā whakapakoko i karakiatia",
+        "I tinihangatia i roto i te hokohoko",
+        "I patua e rātou tā rātou poropiti",
+        "I whakakeke ki ō rātou mātua"
+      ],
+      "answer": "I mahia te mahi tuatahi o te moepuku"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tāone o te mania",
+        "Te tāone o te puna",
+        "Te tāone o te awaawa",
+        "Te tāone o te arewhana",
+        "Te tāone o te māra"
+      ],
+      "answer": "Te tāone o te mania"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I uaina ki ngā kōhatu, ā, i hurihia",
+        "I toremi i te waipuke",
+        "I whakangaromia e te hau kaha",
+        "Horomia e te whenua",
+        "I pāngia e te pahūtanga nui"
+      ],
+      "answer": "I uaina ki ngā kōhatu, ā, i hurihia"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

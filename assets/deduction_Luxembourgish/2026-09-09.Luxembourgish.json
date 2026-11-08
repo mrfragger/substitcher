@@ -1,0 +1,61 @@
+{
+  "title": "Déi éischt Séil déi opstinn",
+  "intro": "Laang ier iergendeen Messenger op der Äerd gaangen ass, ier iergendeng Schrëft opgedeckt gouf, ass e Wiesen anescht wéi all aner entstanen. Dës Séil gouf vu göttleche Hänn geformt, eng Plaz vun oniwwertraffer Schéinheet ginn, a gouf op eng Manéier getest, déi duerch déi ganz mënschlech Geschicht widderhalle géif. Wat duerno koum, war eng Geschicht vu Schwächt, oprechter Reue an engem Schicksal, dat de Verlaf vun der Schöpfung fir ëmmer änneren géif. Kënnt Dir roden, wien dat ass?",
+  "clues": [
+    "Ech gouf vun den Hänn vum Barmhäerzegsten aus dem Stëbs vum Buedem geformt",
+    "Ech krut en Heem vun oniwwertraff Schéinheet, wou kee Honger oder Middegkeet mech beréiere konnt",
+    "Mir gouf gebueden, ni méi engem eenzege Bam ze nozekommen, well et verbueden war",
+    "Mäi Begleeder an ech goufe bedrunn a sinn dem verbuedene Bam zougaangen, géint de Gebot vun eisem Här.",
+    "Mir hunn eis mat oprechter Reue zu eisem Här zréckgedréit, an eis Iwwertrëtter goufen verginn",
+    "Vun eis ass déi ganz Mënschheet ofstammt; ech sinn den Éischten, deen op dëser Äerd trëppelt"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Adam",
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Yusuf",
+        "Prophet Isa"
+      ],
+      "answer": "Prophet Adam"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Versuchung vum verbuedenen Bam",
+        "Konfrontatioun mam Pharao",
+        "De Bau vun der grousser Ark",
+        "D'Affer vum beléiften Jong",
+        "An e grousst Feier gehäit ginn"
+      ],
+      "answer": "Versuchung vum verbuedenen Bam"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De verbuedene Bam",
+        "De brennende Busch",
+        "De gëllene Staff",
+        "Déi Grouss Ark",
+        "Dat gëllent Kalb"
+      ],
+      "answer": "De verbuedene Bam"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Als éischten Oppasser vun der Mënschheet op d'Äerd geschéckt",
+        "Pharao a seng Arméi sinn am Mier erdronk",
+        "Déi grouss Iwwerschwemmung huet déi Béis zerstéiert",
+        "D'Feier ass kill a friddlech ginn",
+        "krut Autoritéit iwwer d'Kinnekräich vun Egypten"
+      ],
+      "answer": "Als éischten Oppasser vun der Mënschheet op d'Äerd geschéckt"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

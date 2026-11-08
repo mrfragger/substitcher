@@ -1,0 +1,61 @@
+{
+  "title": "Den första överträdelsens gemenskap",
+  "intro": "I de forntida städernas land frodades en gång ett folk. De besöktes av en budbärare med en tydlig kallelse, men de vände sig bort och följde en väg som ingen någonsin hade vandrat. Deras berättelse är en berättelse om trots, fördärv och ett straff som lämnade deras hemland som ett tecken för alla som reflekterar. Vilka är dessa själar?",
+  "clues": [
+    "Vi bodde i städer på slätten, där vår profet kallade oss till rättfärdighet.",
+    "Vi var de första att begå en oanständighet som ingen i hela världen någonsin hade gjort förut.",
+    "Vi överföll resenärer och begick öppet ont i våra sammankomster.",
+    "Vi avvisade budbäraren som sänts till oss och hotade att driva ut honom ur vårt land.",
+    "Vi skyndade oss till hans hus och krävde att han skulle överlämna sina gäster till oss.",
+    "Vårt straff blev ett stenregn, och vår stad vändes upp och ner."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Luts folk",
+        "Folket i Nuh",
+        "Folket i 'Ad",
+        "Folket i Thamud",
+        "Människor i Madyan"
+      ],
+      "answer": "Luts folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Begick den första sodomidagenten",
+        "Dyrkade avgudar",
+        "Fuskad i handeln",
+        "Dödade deras profet",
+        "Olydiga sina föräldrar"
+      ],
+      "answer": "Begick den första sodomidagenten"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Slättens stad",
+        "Brunnens stad",
+        "Dikets stad",
+        "Elefantens stad",
+        "Trädgårdens stad"
+      ],
+      "answer": "Slättens stad"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Regnade med stenar och välte omkull",
+        "Drunknade av en översvämning",
+        "Förstört av en våldsam vind",
+        "Slukad av jorden",
+        "Träffad av en kraftig smäll"
+      ],
+      "answer": "Regnade med stenar och välte omkull"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

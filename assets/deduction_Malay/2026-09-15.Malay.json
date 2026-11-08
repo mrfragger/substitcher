@@ -1,0 +1,61 @@
+{
+  "title": "Keramahan yang membawa ketakutan",
+  "intro": "Di sebuah kota yang dipenuhi kejahatan, seorang hamba yang setia menerima tetamu yang tidak dijangka pada suatu hari. Bimbang akan keselamatan mereka, individu ini menawarkan perlindungan, tetapi penduduk kota itu menuntut sesuatu yang memalukan. Diberi amaran tentang azab yang akan datang, hamba itu melarikan diri bersama keluarganya dalam keadaan gelap, meninggalkan sebuah kota yang ditandakan untuk kemusnahan. Siapakah orang yang beriman ini?",
+  "clues": [
+    "Aku diutus sebagai utusan kepada suatu kaum yang telah melakukan perbuatan keji.",
+    "Pelawat yang tidak dijangka datang ke rumah saya, dan saya lebih risaukan keselamatan mereka berbanding keselamatan saya sendiri.",
+    "Orang-orangku menuntut untuk bertemu tetamuku atas niat jahat, dan aku cuba berbincang dengan mereka.",
+    "Pelawat-pelawat saya menampakkan diri mereka sebagai malaikat dan memerintahkan saya untuk membawa keluarga saya pergi pada waktu malam.",
+    "Isteri saya tidak mengendahkan seruan untuk melarikan diri dan menghadapi kemusnahan yang sama seperti bangsa saya.",
+    "Kotaku digulingkan dengan hujan batu tanah liat berlapis-lapis, bahagian-bahagiannya yang tertinggi menjadi paling rendah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Luth as",
+        "Nabi Musa",
+        "Nabi Ibrahim",
+        "Nabi Nuh",
+        "Nabi Hud"
+      ],
+      "answer": "Nabi Luth as"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Tuntutan kaumku untuk mendekati tetamuku dengan cara yang jahat",
+        "Pembelahan laut untuk melarikan diri dari seorang tiran",
+        "Pembinaan bahtera besar di tengah-tengah ejekan",
+        "Pengorbanan anakku dalam ujian iman",
+        "Pengalaman ditelan ikan besar"
+      ],
+      "answer": "Tuntutan kaumku untuk mendekati tetamuku dengan cara yang jahat"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Kota bangsaku yang terbalik",
+        "Gunung tempat aku menerima ucapan ilahi",
+        "Bahtera yang belayar melalui banjir besar",
+        "Unta betina yang muncul dari batu itu",
+        "Taman dengan pelawat soleh yang tersembunyi"
+      ],
+      "answer": "Kota bangsaku yang terbalik"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Saya diselamatkan bersama keluarga saya sebelum bandar saya digulingkan",
+        "Aku memimpin bangsaku menuju kebebasan di seberang lautan",
+        "Saya membina sebuah bahtera yang besar dan terselamat daripada banjir besar",
+        "Aku diberi kuasa atas angin dan jin",
+        "Saya sabar menanggung penderitaan dan diberi ganjaran dengan keluarga"
+      ],
+      "answer": "Saya diselamatkan bersama keluarga saya sebelum bandar saya digulingkan"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

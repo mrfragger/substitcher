@@ -1,0 +1,61 @@
+{
+  "title": "Mba nke Na-ama Ụlọ Nsọ Aka",
+  "intro": "N'oge ochie, otu mba dị ike kpebiri ịwakpo ebe nsọ nke ndị kwere ekwe na-asọpụrụ. Otu a bara ọgaranya, dị ike, ma nwee obi ike n'ike agha ha. Ha kpọtara nnukwu ihe e kere eke nke ga-abụ ngwa agha ha. Ebumnuche ha doro anya: ịkwatu ụlọ nsọ ahụ ma gwerie okwukwe nke ndị ya. Mana mpako ha na-achọ inweta nzaghachi dị egwu site n'elu. Ihe omume akụkọ ihe mere eme a ghọrọ ihe ịrịba ama na ihe mmụta nye ndị niile sochiri ya. Ị nwere ike ịchọpụta otu a site na ihe ndị a na-egosi?",
+  "clues": [
+    "Anyị bụ mba nwere akụnụba na nkà agha.",
+    "Anyị chịkọtara ndị agha anyị wee weta nnukwu anụ ọhịa iji mee mkpọsa anyị.",
+    "Ebe anyị na-achọ ibibi bụ ebe nsọ dị nsọ nke anyị chọrọ ibibi kpamkpam.",
+    "Anyị kwenyere na ike anyị ga-ezuru iji merie nchebe Chineke ọ bụla.",
+    "Ma Onyenwe anyị zitere anyị ntaramahụhụ site n'eluigwe nke anyị na-atụghị anya ya.",
+    "E bibiri anyị ozugbo, anyị gbasasịrị dị ka ahịhịa gbajiri agbaji."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị nke Enyí",
+        "Ndị Temọd",
+        "Ndị 'Ad",
+        "Ndị Enyi nke Ọgba ahụ",
+        "Mba nke Onye Amụma Hud"
+      ],
+      "answer": "Ndị nke Enyí"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịgagharị enyí gaa n'ụlọ nsọ ahụ ka o bibie ya",
+        "Iwu ụlọ elu iji ruo eluigwe",
+        "Ịrụ arụsị ọlaedo maka ofufe",
+        "Ịjụ ige onye ozi Allah ntị",
+        "Ịgba olulu mmiri iji merụọ ndị kwere ekwe ahụ"
+      ],
+      "answer": "Ịgagharị enyí gaa n'ụlọ nsọ ahụ ka o bibie ya"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Enyi",
+        "Nwa Ehi Ọlaedo ahụ",
+        "Ndị Ọrụ nke Moses",
+        "Azụ Yunus",
+        "Ígwè nke Dawud"
+      ],
+      "answer": "Enyi"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E bibiri ha site n'ìgwè nnụnụ ndị nwere nkume",
+        "E ji oké idei mmiri gbutuo ha",
+        "A gbanwere ha ka ha bụrụ enwe na ezi",
+        "E liri ha n'okpuru nkume ndị dara ada site n'ugwu.",
+        "Ọkụ si n'eluigwe gbaa ha ọkụ"
+      ],
+      "answer": "E bibiri ha site n'ìgwè nnụnụ ndị nwere nkume"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

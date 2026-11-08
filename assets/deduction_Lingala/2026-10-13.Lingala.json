@@ -1,0 +1,61 @@
+{
+  "title": "Monguna oyo azali na mɔ́tɔ",
+  "intro": "Na mikolo ya ebandeli ya emoniseli, moto moko abimaki lokola motɛmɛli ya motó makasi ya solo. Lokola apambolamaki na bozwi mpe lokumu, molimo oyo eponaki lolendo na esika ya bokambi, mpe lisolo na bango ekomaki likebisi ya makasi na bavɛrsɛ ya nsuka ya surah moko.",
+  "clues": [
+    "Nazalaki kofanda na engumba moko na Profeta, mpe nazalaki kati na bandeko ya penepene na ye, nzokande lolendo na ngai ezalaki kobatela ngai mosika na bosolo.",
+    "Nazalaki na bozwi mingi mpe biloko mingi, mpe nakanisaki ete biloko na ngai ekobatela ngai ntango nyonso.",
+    "Ntango nsango yango ebimaki, nasɛkaki yango polele mpe nabalukaki, namitalelaki ete naleki bandimi.",
+    "Bonguna na ngai eyebanaki mingi na boye ete surah moko ya Coran elobelaki ngai mbala moko, kobenga ngai na nkombo oyo bato mosusu bayebaki ngai.",
+    "Bakebisaki ngai ete bozwi na ngai mpe mbongo oyo nazali kozwa ekosalisa ngai te, mpe bakobwaka ngai na mɔtɔ oyo ezali kopela.",
+    "Nayebani lokola tata ya mɔ́tɔ, mpe mwasi na ngai akomema nkoni na nsinga ya nsinga ya mbila na nkingo na ye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Abu Lahab azali moto ya mayele",
+        "Abu Jahl azali moto ya mayele",
+        "Abu Sufyan, azali moto ya mayele",
+        "Al-Walid ibn al-Mughira azali moto ya mayele",
+        "Al-As ibn Kolela"
+      ],
+      "answer": "Abu Lahab azali moto ya mayele"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Aboyaki Islam mpe atelemeli Ntoma polele",
+        "Ba complot pona koboma Prophète",
+        "Akambaki boycott social contre ba musulmans",
+        "Abundaki na Etumba ya Badr",
+        "Banyokolaki Bilal ibn Rabah"
+      ],
+      "answer": "Aboyaki Islam mpe atelemeli Ntoma polele"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nsinga ya nsinga ya mbila",
+        "Mopanga moko ya makasi",
+        "Monyololo moko ya kilo",
+        "Nzete moko ya mabaya",
+        "Fimbu ya mposo ya nyama"
+      ],
+      "answer": "Nsinga ya nsinga ya mbila"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ekozika na mɔtɔ oyo ezali kopela",
+        "Ayambolaki mpe akómaki moninga",
+        "Abungisaki bomengo na ye kasi akufaki na lokumu",
+        "Akimaki na Abyssinia",
+        "Bazindaki na mai na mbu"
+      ],
+      "answer": "Ekozika na mɔtɔ oyo ezali kopela"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

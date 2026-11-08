@@ -1,0 +1,61 @@
+{
+  "title": "Głos przed burzą",
+  "intro": "Postać na pustyni powstała, by wezwać potężny naród do powrotu do prawdy. Ludzie słynęli ze wspaniałych budowli i niezrównanej siły. Jednak duma ich zaślepiła i nie chcieli słuchać. W końcu spadła na nich druzgocąca kara, oszczędzając jedynie niewielką grupę wierzących.",
+  "clues": [
+    "Zostałem wysłany do potężnego ludu, który żył na otwartych przestrzeniach i słynął ze swojej potęgi.",
+    "Mój lud przybył po zniszczeniu innego wielkiego narodu.",
+    "Mieli wspaniałe budowle i budowali wysokie wieże.",
+    "Wezwałem ich do oddawania czci Jednemu Bogu, lecz oni odmówili porzucenia swoich bożków.",
+    "Dotknęła ich okrutna kara, oszczędzając tylko tych, którzy uwierzyli razem ze mną.",
+    "Jestem wysłany do potężnego ludu znanego jako Ad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Salih",
+        "Prorok Szu’ajb",
+        "Prorok Noh",
+        "Prorok Ibrahim"
+      ],
+      "answer": "Prorok Hud"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wielka powódź",
+        "Gwałtowny, porywisty wiatr",
+        "Trzęsienie ziemi i przerażający krzyk",
+        "Deszcz płonących kamieni",
+        "Niebiański ogień z góry"
+      ],
+      "answer": "Gwałtowny, porywisty wiatr"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wielka arka zbudowana na górze",
+        "Wyjątkowa wielbłądzica",
+        "Laska, która stała się wężem",
+        "Wysokie budynki i wzniosłe konstrukcje",
+        "Płonący stos"
+      ],
+      "answer": "Wysokie budynki i wzniosłe konstrukcje"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wszyscy utonęli w wielkiej powodzi",
+        "Mój lud został zniszczony przez gwałtowny wiatr, podczas gdy ja zostałem uratowany",
+        "Mój lud dotknięty trzęsieniem ziemi i płaczący",
+        "Mój lud obrzucany kamieniami z nieba",
+        "Mój lud wrzucony w płonący ogień"
+      ],
+      "answer": "Mój lud został zniszczony przez gwałtowny wiatr, podczas gdy ja zostałem uratowany"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

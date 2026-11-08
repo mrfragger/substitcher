@@ -1,0 +1,61 @@
+{
+  "title": "Ang Pagpupuyat ng mga Naulila",
+  "intro": "Malapit mo nang makatagpo ang isang kaluluwang sinubok ng pinakamalalim na paghihiwalay, na ang mga mata ay nakakaalam ng wika ng mga luha ngunit ang puso ay hindi nawalan ng pag-asa. Sa isang kuwento ng panlilinlang, pananabik, at kalaunan ay muling pagsasama, ang marangal na lingkod na ito ng Allah ay naging simbolo ng pagtitiis magpakailanman. Sino ang nagtiis sa mga taon ng nakatagong sakit, para lamang maibalik ang paningin at kagalakan sa isang iglap?",
+  "clues": [
+    "Ako ay isang propeta na ang pangalan ay naging simbolo ng pagtitiis sa harap ng malaking kawalan.",
+    "Biniyayaan ako ng maraming anak na lalaki, ngunit isa ang kinuha sa akin dahil sa inggit ng iba.",
+    "Ang pagmamahal ko sa nawawalang iyon ay napakalalim kaya't namumula ang aking mga mata dahil sa kalungkutan, ngunit hindi ako kailanman nagreklamo maliban kay Allah.",
+    "Pinabalik ko ang mga anak ko para hanapin ang nawala kong kapatid at ang kapatid niya, at hinimok silang huwag mawalan ng pag-asa.",
+    "Nang dumating ang tagapaghatid ng mabuting balita, tinakpan ako ng damit, at biglang lumiwanag muli ang mundo.",
+    "Kilala ako bilang Israel, at mula sa aking labindalawang anak na lalaki ay nagmula ang labindalawang tribo ng isang dakilang bansa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Ya'qub (Jacob)",
+        "Propeta Yusuf (Joseph)",
+        "Propeta Ishaq (Isaac)",
+        "Propeta Ibrahim (Abraham)",
+        "Propeta Ayyub (Job)"
+      ],
+      "answer": "Propeta Ya'qub (Jacob)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Paghihiwalay mula sa isang minamahal na anak sa loob ng maraming taon",
+        "Itinapon sa nagliliyab na apoy",
+        "Nilunok ng isang malaking isda",
+        "May malubhang sakit sa balat",
+        "Walang anak hanggang sa pagtanda"
+      ],
+      "answer": "Paghihiwalay mula sa isang minamahal na anak sa loob ng maraming taon"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang kamiseta ni Yusuf",
+        "Ang mga tauhan ni Musa",
+        "Ang arka ni Noah",
+        "Ang kamelyong babae ni Salih",
+        "Ang singsing ni Sulayman"
+      ],
+      "answer": "Ang kamiseta ni Yusuf"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nanumbalik ang paningin at muling nakasama ang kaniyang anak",
+        "Iginawad ang tagumpay laban sa isang mapang-api na hari",
+        "Itinaas sa langit nang buhay",
+        "Hinirang bilang pinuno ng Ehipto",
+        "Binigyan ng anak na lalaki sa katandaan bilang isang himala"
+      ],
+      "answer": "Nanumbalik ang paningin at muling nakasama ang kaniyang anak"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

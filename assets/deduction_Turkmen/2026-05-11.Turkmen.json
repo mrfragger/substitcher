@@ -1,0 +1,61 @@
+{
+  "title": "Sadyk Şaýatlar",
+  "intro": "Ynamyň ot bilen synagdan geçirilen we berk ynamyň iň ýokary garşylyga öwrülen döwrüni göz öňüne getiriň. Size Kuranda gürrüň berlen, güýçli zuluma garşy çuňňur ynamyň hekaýasy bolan toparyň kimligini ýüze çykarmak tabşyrylýar. Bu janlaryň kimdigini we olaryň nähili adatdan daşary ýagdaýlara duçar bolandygyny bilmek üçin alamatlary açyň.",
+  "clues": [
+    "Biz imanymyzdan ýüz öwürmek üçin uly basyşlara garamazdan, ynanjymyzda berk durduk.",
+    "Bizi ýekehudaýlygyň nuruny söndürmäge synanyşýan güýçli hökümdar nyşana aldy.",
+    "Biz uly alamatlaryň we möjüzeleriň şaýady bolduk, ýöne zalymlarymyz gaflatda galdylar.",
+    "Biz başgalary gorkuzyp boýun egdirmek üçin niýetlenen elhenç yzarlama usulyna çydadyk.",
+    "Biz ýanýan dowzaha taşlandyk, ýöne sabyrlylygymyz bize Allanyň ýanynda ýokary dereje getirdi.",
+    "Biziň hekaýamyz asman ýyldyzlarynyň ady bilen atlandyrylan sürede gürrüň berilýär we imanlylary yzarlaýanlaryň ykbaly barada duýduryş berilýär."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Semud halky",
+        "Ad halky",
+        "Arkanyň adamlary",
+        "Midýan halky",
+        "Pil halky"
+      ],
+      "answer": "Arkanyň adamlary"
+    },
+    "trial": {
+      "label": "Bizi yzarlamak",
+      "options": [
+        "Suw joşmasynda gark bolmak",
+        "Gyzgyn ýel bilen ýok edilýär",
+        "Otly hendeklere taşlanmak",
+        "Ýer tarapyndan ýuwutulmak",
+        "Maýmynlara öwrülmek"
+      ],
+      "answer": "Otly hendeklere taşlanmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ägirt uly sil suw joşmasy",
+        "Beýik ýer titremesi",
+        "Çuňňur, ýanýan hendek",
+        "Güýçli but",
+        "Weýran ediji gurakçylyk"
+      ],
+      "answer": "Çuňňur, ýanýan hendek"
+    },
+    "outcome": {
+      "label": "Biziň iň soňky ykbalymyz",
+      "options": [
+        "Olara ýer ýüzünde patyşalyk berildi.",
+        "Olar gudratly ýagdaýda halas boldular.",
+        "Olar şehitlige we ebedi sylaga ýetdiler.",
+        "Olar başga bir görnüşe öwrüldi.",
+        "Olara ummasyz baýlyk we rowaçlyk berildi."
+      ],
+      "answer": "Olar şehitlige we ebedi sylaga ýetdiler."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

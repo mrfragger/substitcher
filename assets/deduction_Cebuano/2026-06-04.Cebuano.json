@@ -1,0 +1,61 @@
+{
+  "title": "Ang Timaan Taliwala sa mga Bato",
+  "intro": "Sa usa ka yuta diin ang mga bukid gikulit isip mga balay, usa ka mensahero ang miabot nga adunay milagrosong timaan gikan kang Allah. Nangayo ang mga tawo og pruweba, ug nakadawat sila og usa ka binuhat gikan sa lig-on nga bato. Apan ang ilang pagkamapahitas-on nagdala kanila sa pagsupak sa pasidaan, nga nagselyo sa ilang kapalaran.",
+  "clues": [
+    "Gipadala ako ngadto sa usa ka katawhan nga nagpuyo sa mga puloy-anan nga kinubkob gikan sa mga bukid.",
+    "Gihagit nila ako sa pagdala og usa ka timaan, busa nagpakita ako og kamelyo gikan sa bato.",
+    "Gisugo ko sila nga pasagdan lang nga moinom ang kamelyo ug dili kini pasakitan.",
+    "Wala sila mituman ug gipiangan ang kamelyo, nga misupak sa akong pasidaan.",
+    "Akong gipahibalo nga ang silot moabot human sa tulo ka adlaw.",
+    "Pagkabuntag, usa ka kusog nga pagbuto ang nakaguba kanila, apan ako ug ang akong mga sumusunod naluwas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Salih",
+        "Propeta Hud",
+        "Propeta Lut",
+        "Propeta Shu'ayb",
+        "Propeta Ibrahim"
+      ],
+      "answer": "Propeta Salih"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Panginahanglan ug bayeng kamelyo gikan sa bato",
+        "Panginahanglan alang sa usa ka bulawan nga nating baka",
+        "Mikaylap gikan sa langit ang panginahanglan alang sa usa ka lamesa",
+        "Panginahanglan alang sa baha",
+        "Pagpangayo og sungkod aron mahimong bitin"
+      ],
+      "answer": "Panginahanglan ug bayeng kamelyo gikan sa bato"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang bayeng kamelyo ug ang iyang nati",
+        "Ang Arka ni Noe",
+        "Ang Sungkod ni Moises",
+        "Ang Bulawanong Baka",
+        "Ang Kalayo ni Ibrahim"
+      ],
+      "answer": "Ang bayeng kamelyo ug ang iyang nati"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalaglag sa usa ka kusog nga pagbuto",
+        "Nalumos sa baha",
+        "Gilubong sa yuta",
+        "Nahimong mga unggoy",
+        "Giguba sa kusog nga hangin"
+      ],
+      "answer": "Nalaglag sa usa ka kusog nga pagbuto"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

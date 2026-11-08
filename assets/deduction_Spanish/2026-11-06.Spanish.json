@@ -1,0 +1,61 @@
+{
+  "title": "La primera sangre derramada por envidia",
+  "intro": "Imagina los albores de la humanidad, cuando el mundo entero era una sola familia. Observas cómo se presentan dos ofrendas ante Alá: una aceptada, la otra rechazada. La envidia echa raíces en un corazón y una amenaza se susurra con ira. Lo que sigue dejará una huella imborrable en la historia, e incluso un pequeño pájaro se convertirá en maestro.",
+  "clues": [
+    "Pertenezco a la primera familia de la Tierra.",
+    "Presenté una ofrenda a Alá, pero la mía no fue aceptada, mientras que la otra sí.",
+    "Hablé movido por la envidia y amenacé con quitarle la vida a alguien.",
+    "Cometí el primer asesinato injusto en la Tierra.",
+    "Vi un cuervo escarbando el suelo para mostrarme cómo esconder un cadáver.",
+    "Me quedé lleno de remordimientos y me convertí en uno de los perdedores por lo que mis manos habían hecho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Qabil (Caín), hijo de Adán",
+        "Samiri, el fabricante del ternero",
+        "Namrud, el tirano que discutió con Ibrahim",
+        "Azar, el fabricante de ídolos",
+        "Kan'an, el hijo ahogado de Nuh"
+      ],
+      "answer": "Qabil (Caín), hijo de Adán"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Asesinato de un hermano por envidia tras el rechazo de una oferta.",
+        "Construir una torre imponente para contemplar los cielos.",
+        "Elaboración de un becerro de oro para la adoración",
+        "Exigiendo una mesa puesta desde el cielo",
+        "Liderar un ejército de elefantes para destruir la Kaaba"
+      ],
+      "answer": "Asesinato de un hermano por envidia tras el rechazo de una oferta."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un cuervo escarbando la tierra para indicar que ha sido enterrado.",
+        "Un becerro dorado que mugía",
+        "Una gran arca sobre las aguas del diluvio",
+        "Un bastón que se convirtió en serpiente",
+        "Una mesa repleta de manjares celestiales"
+      ],
+      "answer": "Un cuervo escarbando la tierra para indicar que ha sido enterrado."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se arrepintió y se convirtió en uno de los perdedores.",
+        "Se ahogó en la gran inundación.",
+        "Fue engullido por la tierra con tesoros",
+        "Sufrió de lepra durante siete años.",
+        "Se le concedió un reino con control sobre los vientos."
+      ],
+      "answer": "Se arrepintió y se convirtió en uno de los perdedores."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

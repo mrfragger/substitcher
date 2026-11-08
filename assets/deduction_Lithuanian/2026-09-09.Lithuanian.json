@@ -1,0 +1,61 @@
+{
+  "title": "Pirmoji siela, kuri atsistoja",
+  "intro": "Ilgai prieš tai, kai žemėje vaikščiojo koks nors pasiuntinys, prieš tai, kai buvo apreikšti kokie nors šventraščiai, atsirado būtybė, nepanaši į jokią kitą. Šią sielą suformavo dieviškos rankos, jai buvo suteikta neprilygstamo grožio vieta ir ji buvo išbandyta taip, kad aidės per visą žmonijos istoriją. Po to sekė silpnumo, nuoširdžios atgailos ir likimo, kuris amžiams pakeitė kūrinijos eigą, istorija. Ar galite atspėti, kas tai?",
+  "clues": [
+    "Mane iš žemės dulkių suformavo Gailestingiausiojo rankos",
+    "Man buvo suteikti neprilygstamo grožio namai, kur manęs negalėjo paliesti nei alkis, nei nuovargis",
+    "Man buvo įsakyta niekada nesiartinti prie nė vieno medžio, nes tai buvo draudžiama",
+    "Mudu su draugu buvome apgauti ir, nepaisydami Viešpaties įsakymo, priartėjome prie uždrausto medžio.",
+    "Su nuoširdžia atgaila grįžome pas savo Viešpatį ir mums buvo atleista už nuodėmes",
+    "Iš mūsų kilo visa žmonija; aš esu pats pirmasis, vaikščiojęs šia žeme"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Adomas",
+        "Pranašas Musa",
+        "Pranašas Nuh",
+        "Pranašas Jusufas",
+        "Pranašas Isa"
+      ],
+      "answer": "Pranašas Adomas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pagunda prie uždrausto medžio",
+        "Susidūrimas su faraonu",
+        "Didžiosios Arkos statyba",
+        "Mylimojo sūnaus auka",
+        "Įmestas į didelę ugnį"
+      ],
+      "answer": "Pagunda prie uždrausto medžio"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Uždraustasis medis",
+        "Degantis krūmas",
+        "Auksinė lazda",
+        "Didžioji arka",
+        "Auksinis veršelis"
+      ],
+      "answer": "Uždraustasis medis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Išsiųstas į žemę kaip pirmasis žmonijos globėjas",
+        "Faraonas ir jo armija nuskendo jūroje",
+        "Didysis tvanas sunaikino nedorėlius",
+        "Ugnis tapo vėsi ir rami",
+        "Jam buvo suteikta valdžia Egipto karalystėje"
+      ],
+      "answer": "Išsiųstas į žemę kaip pirmasis žmonijos globėjas"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

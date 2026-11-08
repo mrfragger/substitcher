@@ -1,0 +1,61 @@
+{
+  "title": "Indbyggerne i de to haver",
+  "intro": "I et land, hvor velsignelserne flød overflod af, nød et samfund engang godt af to storslåede haver. Deres liv var et vidnesbyrd om guddommelig gunst, men deres historie tog en drejning, da taknemmeligheden aftog, hvilket førte til en forvandling, der ville blive et varigt tegn for alle, der reflekterer.",
+  "clues": [
+    "Vi var et folk velsignet med et land med lethed og overflod.",
+    "Vor Herre skænkede os to pragtfulde haver, frodige og frugtbare på alle sider.",
+    "Vi blev befalet at være taknemmelige, men vi valgte utaknemmelighed og vendte os bort.",
+    "En stor dæmning holdt vandet tilbage, som gav liv til vores land.",
+    "Da vi fortsatte med vores forkerte handlinger, brast dæmningen, og flodvandet skyllede igennem.",
+    "Vores engang frodige haver blev erstattet af bitre frugter, tamarisker og et par lotustræer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Sabas folk",
+        "Thamuds folk",
+        "Madyans folk",
+        "Hulens ledsagere",
+        "Elefantens folk"
+      ],
+      "answer": "Sabas folk"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "En voldsom vind i syv nætter",
+        "En byge af sten fra himlen",
+        "En ødelæggende oversvømmelse fra en bristende dæmning",
+        "Et højt skrig fra himlen",
+        "Drukning i havet"
+      ],
+      "answer": "En ødelæggende oversvømmelse fra en bristende dæmning"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Den store dæmning ved Ma'rib",
+        "Wadi al-Qura-dalen",
+        "Irams have",
+        "Zamzams brønd",
+        "Sinai-bjerget"
+      ],
+      "answer": "Den store dæmning ved Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vores haver blev erstattet af bitre frugter og sparsomme træer",
+        "Vi blev opslugt af jorden i et jordskælv",
+        "Vi blev forvandlet til aber og grise",
+        "Vi druknede i en stor oversvømmelse",
+        "Vi blev ødelagt af en byge af sten"
+      ],
+      "answer": "Vores haver blev erstattet af bitre frugter og sparsomme træer"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kozingama na nse ya lola ya mbalakaka",
+  "intro": "Otelemi liboso ya limpinga moko ya nsɔmɔ oyo ezali kopusana pene na esika mosantu oyo bato bamemyaka, na ebundeli nyonso oyo ebongisami mpe elongi oyo emonani lokola ete ezali ya solo. Liboso ete kobundisa ebanda, nguya moko oyo okanisaki te ebimi likoló, mpe momekano yango ezwi bobaluki oyo moto moko te amonaki liboso.",
+  "clues": [
+    "Totambolaki na elikya ete nguya moko te ya mabele ekokaki koningana.",
+    "Tomemaki bangando ya nguya, mpe nguya na biso emonanaki lokola etongamaki zingazinga na bango.",
+    "Toyaki kobuka esika mosantu moko ya lokumu, kondimaka ete elonga na biso esilaki kozala ya solo.",
+    "Ntango tokómaki kuna, etonga moko ekɔtaki na likoló likoló na biso.",
+    "Bandɛkɛ yango ezalaki kobwaka mabanga ya mabele ya lima oyo ekómi makasi epai ya babundi na biso.",
+    "Tolongamaki mpenza na boye ete nguya na biso ya nguya ebukanaki mpe epalanganaki lokola mputulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Nkoi",
+        "Ba Princes Mibale",
+        "Bandeko ya Yozefe",
+        "Mosali ya Allah na Dhul-Kifl",
+        "Baninga ya Moto ya Sembo"
+      ],
+      "answer": "Bato ya Nkoi"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Assaut oyo etambwisamaki na ngando na Kaaba",
+        "Mbu ekabwani liboso ya etuluku moko oyo epesamaki",
+        "Kozwa Sanduku na bato moko ya mobulu",
+        "Mobembo ya butu kati na ba mosquées mibale",
+        "Kobikisa moto ya maba na nguya ya Nzambe"
+      ],
+      "answer": "Assaut oyo etambwisamaki na ngando na Kaaba"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Bandɛkɛ oyo ememi ba pellets ya mabele ya lima",
+        "Sanduku moko ya nzete ya gopherwood",
+        "Nzete moko ebongwanaki nyoka",
+        "Libanga oyo ekangami na elembo",
+        "Nzete moko oyo ezali kozika"
+      ],
+      "answer": "Bandɛkɛ oyo ememi ba pellets ya mabele ya lima"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Nguya na bango ya makasi epasukaki lokola mputulu",
+        "Bakatisaki mbu na kimia",
+        "Batambolaki kozanga kozoka na kati ya litumbu oyo ezalaki kopela mɔtɔ",
+        "Bakɔtaki na Paladiso mibalemibale",
+        "Balalaki na libulu moko na boumeli ya mbula 309"
+      ],
+      "answer": "Nguya na bango ya makasi epasukaki lokola mputulu"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Obsa Lubbuu Rakkatte",
+  "intro": "Seenaa seenaa keessatti namni maqaan isaa obsa wajjin walfakkaatu tokko jira. Namni dhuunfaa kun jajjabina addunyaa hundumaa dhabuudhaan qorameera, taʼus garuu tajaajilaa Uumaa isa of kenne taʼee hafe. Waggootaaf rakkinaa fi dhukkuba qaamaa keessa darbee, onneen lubbuu kanaa amantii keessatti kan dhaabbate siʼa taʼu, namoota rakkinni isaan mudatu hundaaf ibsaa abdii taʼe.",
+  "clues": [
+    "Ani gabricha Rabbiif of kenne, qabeenya baay’ee, ijoollee baay’ee fi fayyaa gaariin eebbifame ture.",
+    "Jireenyi koo garagaltee badhaadhina koo fi maatii koo irraa mulqamee amantii koo malee homaa natti hin hafne.",
+    "Dhukkuba yeroo dheeraaf turuu fi dhukkubsataa taʼee fi daangaa obsa ilmaan namootaa qoradheen ture.",
+    "Gidiraa koo hunda keessatti, yeroo mormituu gara abdii kutannaatti na geessuuf yaalullee, Gooftaa koo irratti komachuu dide.",
+    "Dhumarratti Gooftaa koo yeroon waamu qabeenya hin gaafanne, dhiphinni akka na tuqe salphaatti beeksise.",
+    "Miila kootiin lafa rukudhu naan jedhame, achi keessaa burqaa bishaan qabbanaawaa qaama koo fayyisuu fi dheebuu na baasu ni ba’e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Yaqub",
+        "Nabi Ayyuub",
+        "Nabi Zakaariyaa",
+        "Nabi Yahyaa",
+        "Nabi Shu'ayb"
+      ],
+      "answer": "Nabi Ayyuub"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Waggootaaf dhukkuba cimaa fi kasaaraa",
+        "Boolla bishaanii gadi fagootti darbatamuu",
+        "Qurxummii guddaa tokkoon liqimfamuu",
+        "Ibidda keessatti abbaa irree fuuldura",
+        "Barsiisaa barbaaduuf imala dheeraa"
+      ],
+      "answer": "Waggootaaf dhukkuba cimaa fi kasaaraa"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Ulee galaana addaan baasu",
+        "Qamisa mana urgaa'u",
+        "Burqaa bishaanii fayyisuu",
+        "Gaara caccabee biyyee ta'e",
+        "Holqa hirriba gadi fagoo"
+      ],
+      "answer": "Burqaa bishaanii fayyisuu"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Bulchaa lafa guddaa ta'uu",
+        "Waraana tokko gara injifannootti geggeessuu",
+        "Fayyaa fi maatii deebisuuf",
+        "Mana waaqeffannaa qulqulluu ijaaruu",
+        "Minjaala samii irraa babal'ate fudhachuu"
+      ],
+      "answer": "Fayyaa fi maatii deebisuuf"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

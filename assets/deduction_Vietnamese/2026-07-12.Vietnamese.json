@@ -1,0 +1,61 @@
+{
+  "title": "Thành phố bị mất tích với vẻ đẹp vô song",
+  "intro": "Một nền văn minh hùng mạnh từng thống trị những vùng đất rộng lớn, nổi tiếng với những công trình kiến ​​trúc cao chót vót vươn tới tận trời. Nhưng ẩn dưới vẻ huy hoàng ấy, một sự phủ nhận ngoan cố đã lớn dần – một sự từ chối lắng nghe lời cảnh báo thiêng liêng được gửi đến từ chính cộng đồng đó. Sự kiêu ngạo và ngạo mạn chẳng mấy chốc sẽ dẫn đến một hình phạt mà cả đất trời chưa từng chứng kiến.",
+  "clues": [
+    "Chúng ta từng thống trị những vùng đất rộng lớn trên trái đất, tự hào về sức mạnh mà chúng ta tin rằng không nền văn minh nào khác có thể sánh kịp.",
+    "Vương quốc của chúng ta nổi tiếng với những công trình kiến ​​trúc cao vút, những cột trụ hùng vĩ đứng sừng sững, không gì sánh kịp trên mọi vùng đất đã biết.",
+    "Một người cảnh báo từ chính cộng đồng của chúng ta đã đứng lên, kêu gọi mỗi người trong chúng ta hãy quy phục duy nhất Đấng Tạo Hóa.",
+    "Chúng tôi đã phủ nhận thông điệp được gửi đến và từ chối từ bỏ con đường mà chúng tôi đã thừa hưởng.",
+    "Một cơn gió dữ dội, gào thét với sức tàn phá khủng khiếp ập đến, khiến chúng tôi hoàn toàn không có khả năng tự vệ.",
+    "Chúng tôi bị bỏ lại như những thân cây cọ rỗng ruột, nằm rải rác và bị lãng quên, như một bài học cho mọi thế hệ sau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người dân A'ad",
+        "Người dân Nuh",
+        "Người dân Lut",
+        "Người dân Madyan",
+        "Người dân Tubba'"
+      ],
+      "answer": "Người dân A'ad"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Một cơn gió dữ dội không ngừng nghỉ mang theo sự trừng phạt khắc nghiệt.",
+        "Một trận lũ lụt đã nhấn chìm mọi đỉnh núi.",
+        "Một cơn mưa đá đất sét nóng bỏng từ trên cao rơi xuống.",
+        "Một tiếng thét kinh hoàng vang vọng từ trên trời.",
+        "Một trận động đất dữ dội đã xé toạc mặt đất."
+      ],
+      "answer": "Một cơn gió dữ dội không ngừng nghỉ mang theo sự trừng phạt khắc nghiệt."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Iram, thành phố của những cột trụ cao vút",
+        "Một con thuyền khổng lồ bằng gỗ được đóng trên một ngọn núi.",
+        "Một con lạc đà cái xuất hiện một cách kỳ diệu từ trong đá.",
+        "Núi Sinai, nơi các điều răn thiêng liêng được truyền xuống.",
+        "Một cung điện bằng pha lê và thủy tinh cao cấp nhìn ra dòng nước chảy."
+      ],
+      "answer": "Iram, thành phố của những cột trụ cao vút"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị bỏ lại như những thân cây cọ rỗng ruột, nằm rải rác và vô hồn.",
+        "Chìm đắm dưới những con sóng dữ dội của trận đại hồng thủy.",
+        "Biến thành những sinh vật giống vượn và lợn.",
+        "Bị nghiền nát dưới cơn mưa đá đất sét cứng.",
+        "Bị nhấn chìm trong một tiếng hét chói tai xuyên thấu tâm hồn."
+      ],
+      "answer": "Bị bỏ lại như những thân cây cọ rỗng ruột, nằm rải rác và vô hồn."
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

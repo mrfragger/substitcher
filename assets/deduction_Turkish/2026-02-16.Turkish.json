@@ -1,0 +1,61 @@
+{
+  "title": "Mutlak Otorite İddiası",
+  "intro": "Eski zamanlarda, güçlü bir kişi geniş bir toprak parçası ve sakinleri üzerinde egemenlik kurdu. Bu şahsiyetin saltanatı, muazzam bir gurur ve ilahi otoriteye karşı derin bir meydan okuma ile damgasını vurdu. Nihai kaderi tüm nesiller için kalıcı bir ders haline gelen bir ruhun kimliğini ortaya çıkarmaya hazırlanın.",
+  "clues": [
+    "Sözümün kanun olduğu, muazzam bir imparatorluğa hükmettim.",
+    "Kendimi en yüce tanrı ilan ettim ve yönetimim altındaki herkesten bana tapınmalarını istedim.",
+    "Belli bir topluluğu baskı altına aldım, onları köleleştirdim ve erkek bebeklerinin öldürülmesini emrettim.",
+    "Defalarca, Allah'ın mütevazı bir elçisiyle karşı karşıya kaldım; bu elçi, benim ve sihirbazlarımın önünde açıkça mucizeler gerçekleştirdi.",
+    "Gerçeği inatla reddettim, haberciyi büyücülükle suçladım ve onu ve takipçilerini yok etmeyi planladım.",
+    "Ordumun tamamı ve ben, elimden kurtulanların peşine amansızca düşerken denizin altında kaldık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Nemrut",
+        "Ebu Cehl",
+        "İblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Büyük Tufan",
+        "Yanan Ateş",
+        "Zalimin Boğulması",
+        "Rüzgarın Yıkımı",
+        "İnançsızlığın Depremi"
+      ],
+      "answer": "Zalimin Boğulması"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Musa'nın Asası",
+        "Altın İdol",
+        "Zemzem Kuyusu",
+        "Bilqis'in Tahtı"
+      ],
+      "answer": "Musa'nın Asası"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "kendisine geniş bir krallık verildi.",
+        "Ceset bir hatıra olarak korunmuştur.",
+        "Tövbe ettikten sonra affedildi.",
+        "Peygamberliğe yükseltildi",
+        "Halkı dindar oldu."
+      ],
+      "answer": "Ceset bir hatıra olarak korunmuştur."
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hawan Mai Mafarki",
+  "intro": "Wata rai da aka ƙaddara wa girma, amma aka jarabce ta da gwaje-gwaje masu tsanani, ta fara tafiya mai ban mamaki. Tafarkin wannan mutumin ya kasance cike da kishi, rabuwa, da wahala mara adalci, amma sai ya kai ga matsayi mai girma da kuma haɗuwa mai zurfi. Za ku iya gane wannan mutum mai ban mamaki daga Alƙur'ani?",
+  "clues": [
+    "Na taɓa jin kishin waɗanda suka fi kusa da ni, wanda hakan ya haifar da rabuwar kai da iyayena da kuma gidana.",
+    "Na fuskanci wani lokaci na wahala mai girma, har da yadda matafiya suka sayar da ni a farashi mai sauƙi.",
+    "An zarge ni da aikata ba daidai ba kuma na shafe shekaru a kurkuku, duk da haka bangaskiyata ta ci gaba da ƙarfi.",
+    "An ba ni wata baiwa ta musamman ta fassara wahayi masu rikitarwa, wanda ya taimaka mini wajen samun 'yanci.",
+    "Hikima da mutuncina daga ƙarshe sun kai ni ga matsayi mai girma da aminci a wata ƙasa ta waje.",
+    "Ta hanyar jerin abubuwan da suka faru, na sake haɗuwa da iyayena da 'yan'uwana tsofaffi bayan dogon lokaci da na yi rashin lafiya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Sulaiman",
+        "Annabi Isa",
+        "Annabi Yusufu",
+        "Annabi Dawuda",
+        "Annabi Yahaya"
+      ],
+      "answer": "Annabi Yusufu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Babban kifi ya haɗiye shi",
+        "Gina Jirgin Ruwa don ceton halitta",
+        "Jure zarge-zarge da ɗaurin kurkuku",
+        "Yin mu'ujizai da wani azzalumi mai mulki",
+        "Ana gwada shi da rashin lafiya mai tsanani da asara"
+      ],
+      "answer": "Jure zarge-zarge da ɗaurin kurkuku"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Daji mai ƙonewa",
+        "Tsuntsu mai magana",
+        "Rijiya",
+        "Sanda ta rikide ta zama maciji",
+        "Raƙumi a matsayin alama"
+      ],
+      "answer": "Rijiya"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Jagoranci ƙaura zuwa ƙasar da aka yi alkawari",
+        "Zama minista mai ƙarfi a Masar",
+        "Samun hukuncin Allah a kan mutane masu girman kai",
+        "Mulkin wata babbar masarauta da hikima da adalci",
+        "Hawa zuwa sama"
+      ],
+      "answer": "Zama minista mai ƙarfi a Masar"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

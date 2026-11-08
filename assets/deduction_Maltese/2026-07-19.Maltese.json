@@ -1,0 +1,61 @@
+{
+  "title": "Il-Vuċi Injorata tas-Sekli",
+  "intro": "Fi żmien ħafna qabel ma telgħu l-bliet il-kbar, ruħ waħedha qamet fost nies li kienu tbiegħdu mill-verità. Ir-ras iebsa tagħhom kienet tqabbel biss mal-paċenzja ta’ dan is-sejjieħ solitarju, li talab matul ġenerazzjonijiet mingħajr ma tilef ir-riżoluzzjoni tiegħu. Meta t-twissijiet kollha waqgħu fuq widnejn torox, ġudizzju bla preċedent biddel id-dinja nfisha. Illum, l-eki ta’ dik l-istorja għadhom jidwu f’kull reċitazzjoni. Tista’ tidentifika din ir-ruħ deċiża?",
+  "clues": [
+    "Trabbejt fost nies li kienu jqimu idoli foloz u jinjoraw is-sinjali ta’ madwarhom, iżda ġejt magħżul biex inqajjemhom mit-traskuraġni tagħhom.",
+    "Għajjatt lin-nies tiegħi darba wara l-oħra, imma akkużawni li ma nkun xejn ħlief persuna bħalhom, billi żbaljaw il-messaġġ tiegħi u għattew widnejhom.",
+    "Lejl u nhar, tlabthom bl-għerf u b’tfakkiriet ġentili, imma kliemi donnu sparixxa fl-arja, bla ma jinstema’ u mingħajr ma jingħata kas.",
+    "Taħt istruzzjoni divina, bnejt bastiment kbir magħmul minn injam u twavel fuq art niexfa, u n-nies tiegħi daħqu bija bħallikieku tilef ir-raġuni.",
+    "Meta ġie d-dilluvju l-kbir kif imwiegħed, ibni stess irrifjuta li jitla’ miegħi fuq il-bastiment, għax emmen li muntanja kienet se tipproteġih mill-ilmijiet li qed jogħlew.",
+    "Sirt il-patrijarka ta' bidu ġdid fuq l-art, u l-istorja tiegħi hija ppreservata f'kapitlu tal-Koran li jġorr ismi stess."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Ibrahim",
+        "Il-Profeta Musa",
+        "Profeta Lut",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Id-Dilluvju l-Kbir li fassal mill-ġdid id-dinja",
+        "Mitfugħ f’nar jaħraq mill-idolatri",
+        "Konfrontazzjoni mal-maġi tal-Fargħun fil-palazz",
+        "Il-qerda tal-ġonna prosperi minn maltempata tas-sema",
+        "It-twaqqigħ tal-abitanti tat-trinka"
+      ],
+      "answer": "Id-Dilluvju l-Kbir li fassal mill-ġdid id-dinja"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka mibnija minn injam u twavel",
+        "Id-dar sagra mibnija fuq pedamenti antiki",
+        "Il-bastun li ttrasforma f’serp",
+        "L-għar taż-żgħażagħ reqdin",
+        "It-tron miġjub minn kreatura setgħana"
+      ],
+      "answer": "L-Arka mibnija minn injam u twavel"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Dawk li ma jemmnux għerqu filwaqt li dawk li jemmnu ġew salvati abbord il-bastiment",
+        "In-nar beda jiksaħ u jsir sigur, u min ċempel ħareġ bla ħsara.",
+        "Il-maġi nxteħtu fl-art u ħaddnu l-fidi",
+        "Il-ġnien ingħata lill-ġar ġust minfloku",
+        "Dawk li kienu rieqda qamu wara sekli, trasformati"
+      ],
+      "answer": "Dawk li ma jemmnux għerqu filwaqt li dawk li jemmnu ġew salvati abbord il-bastiment"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

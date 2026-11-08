@@ -1,0 +1,61 @@
+{
+  "title": "Ny Antso avy any amin'ny Lohasahan'i Masina",
+  "intro": "Ao ambadiky ny pejin'ny tantara dia misy ny tantaran'ny fanahy iray izay nijoro teo anelanelan'ny mpitondra mahery iray sy ny vahoaka andevo iray manontolo. Nantsoina ity olona ity mba hanafaka firenena iray amin'ny jadona, nanao fahagagana izay nanohitra ny lalàna voajanahary rehetra. Nanomboka tamin'ny tendrombohitra masina ka hatramin'ny fahagagana teo ambonin'ny rano, ity mpanompon'i Allah ity dia nahita famantarana izay hanakoako mandritra ny taona maro. Ny andraikitrareo anio dia ny mamantatra ity olona miavaka ity izay namolavola ny tantaran'ny olombelona.",
+  "clues": [
+    "Teraka nandritra ny fotoana niatrehan'ny fireneko didim-pitsarana mahafaty aho, ary napetraky ny fianakaviako tao anaty rano aho mba hamonjena ny aiko.",
+    "Hita sy nobeazina tao an-tranon'ilay mpitondra izay nandidy ny hahafatesan'ny olona tahaka ahy aho.",
+    "Nandositra tany an-tendrombohitra masina aho izay nahita afo teo amin'ny hazo iray izay tsy levona, ary nisy feo niteny tamiko avy teo.",
+    "Nalefa niverina tany amin'io mpitondra io aho nitondra fahagagana, nitaky ny fahafahan'ny vahoakako andevo.",
+    "Nokapohiko tamin'ny tehiko ny ranomasina, dia nizara ho lalana maina izany, ka nitelina ireo mpanenjika izay nanaraka ny oloko.",
+    "Niresaka tamin'ny Tompoko teo an-tendrombohitra nandritra ny efapolo alina aho, ary nomena takelaka misy ny fitarihana masina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Musa",
+        "Mpaminany Harona",
+        "Mpaminany Ibrahim",
+        "Mpaminany Yusuf",
+        "Mpaminany Davida"
+      ],
+      "answer": "Mpaminany Musa"
+    },
+    "trial": {
+      "label": "Ny fitsapana lehibe indrindra ho ahy",
+      "options": [
+        "Ny Fisarahan'ny Ranomasina",
+        "Fananganana ny Sambo Fiambenana Lehibe",
+        "Fitsapana amin'ny afo mirehitra",
+        "Fahidiana ao an-kibon'ny trozona",
+        "Fanagadrana nataon'ny manampahefana Ejiptiana iray"
+      ],
+      "answer": "Ny Fisarahan'ny Ranomasina"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Tehin'ny Mpiandry Ondry",
+        "Fiara Hazo Lehibe",
+        "Lava-bato izay natory ny fotoana",
+        "Zaridaina misy loharano roa",
+        "Seza fiandrianana voaravaka volamena"
+      ],
+      "answer": "Tehin'ny Mpiandry Ondry"
+    },
+    "outcome": {
+      "label": "Ny vokatra",
+      "options": [
+        "Niampita ny ranomasina ho any amin'ny toerana azo antoka ny oloko",
+        "Safodrano Lehibe Nandringana Ireo Tsy Nino",
+        "Nangatsiaka sy nilamina ny afon'ny mpitondra jadona",
+        "Nandroba ny ranomasina teny amorontsiraka",
+        "Lasa mpitahiry volan'i Ejipta ilay babo"
+      ],
+      "answer": "Niampita ny ranomasina ho any amin'ny toerana azo antoka ny oloko"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

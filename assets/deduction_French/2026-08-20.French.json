@@ -1,0 +1,61 @@
+{
+  "title": "La Voix de la Défiance",
+  "intro": "Bien avant que le premier humain ne foule la terre, un être d'une puissance immense régnait dans un royaume de paix parfaite, entouré des âmes les plus dévouées. À un seul de ses ordres, toutes les voix s'inclinaient en signe de soumission, mais une voix s'éleva en défi, et ce défi résonnerait à travers les âges jusqu'au Jour du Jugement dernier. Qui est cet être déchu ?",
+  "clues": [
+    "J'ai été créé à partir de quelque chose qui brûlait intensément, tandis que ceux qui m'entouraient ont été formés à partir de ce sur quoi ils marchaient.",
+    "Je vivais dans un lieu sacré parmi des êtres dévoués, jusqu'à ce qu'un simple ordre bouleverse tout.",
+    "Lorsque l'ordre fut donné, tous s'inclinèrent sauf moi ; mon refus était né de l'orgueil.",
+    "J'ai été chassé de ce lieu sacré, marqué d'une malédiction qui durerait à jamais.",
+    "J'ai imploré un délai jusqu'au Jour de la Résurrection, et il m'a été accordé. J'ai fait vœu d'approcher chaque âme et de les égarer.",
+    "Quand la trompette sonnera, ceux qui m'ont suivi partageront mon sort, me rejoignant dans un brasier ardent où nul ne pourra les sauver."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Iblis",
+        "Pharaon (Fir'awn)",
+        "Namrud",
+        "Abou Lahab",
+        "Azar (le père d'Ibrahim)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Le moment décisif",
+      "options": [
+        "Refusant de se prosterner devant Adam",
+        "L'usurpation de la divinité sur un grand empire",
+        "Comploter pour jeter un juste dans les flammes",
+        "Amener un peuple à adorer une image en or",
+        "Noyant une grande armée dans la mer"
+      ],
+      "answer": "Refusant de se prosterner devant Adam"
+    },
+    "location": {
+      "label": "Le lieu sacré",
+      "options": [
+        "Jannah (Paradis)",
+        "Un magnifique palais sur le Nil",
+        "Une tour de briques s'élevant vers le ciel",
+        "Un veau d'or façonné à partir d'ornements",
+        "Un fourneau de feu ardent"
+      ],
+      "answer": "Jannah (Paradis)"
+    },
+    "outcome": {
+      "label": "Le destin final",
+      "options": [
+        "Rejetés, avec un répit jusqu'au jour promis",
+        "Engloutis par des armées sous les vagues",
+        "Écrasé par des pierres lancées du ciel",
+        "Déchirés par des nuées d'oiseaux en vol",
+        "Consumé par une seule et puissante explosion"
+      ],
+      "answer": "Rejetés, avec un répit jusqu'au jour promis"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

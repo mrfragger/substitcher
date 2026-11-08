@@ -1,0 +1,61 @@
+{
+  "title": "Det glade budskapet i alderdommen",
+  "intro": "Du er vitne til et øyeblikk der håpet gjenopplives. Et par, for lengst forbi foreldrealderen, mottar et løfte som trosser naturens lover. Midt i dem står en skikkelse hvis eksistens er et tegn på guddommelig barmhjertighet – en sjel bestemt til profetskap, som bærer en arv som vil gå over generasjoner. Hvem er denne bemerkelsesverdige personen?",
+  "clues": [
+    "Jeg ble født av foreldre som hadde nådd høy alder og ikke hadde barn.",
+    "Fødselen min ble annonsert av engler som kom som gjester til familien min.",
+    "Jeg ble gitt visdom og profetskap, og jeg er nevnt blant de tålmodige.",
+    "Min far ble kalt Allahs venn, og jeg var en gave for ham i hans senere år.",
+    "Jeg hadde en bror som også var profet, og vi ble begge velsignet av vår Herre.",
+    "Min sønn var også en profet, og mine etterkommere fikk skriften og profetskapet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Ishaq (Isak)",
+        "Profeten Ismail (Ishmael)",
+        "Profeten Yaqub (Jakob)",
+        "Profeten Yahya (Johannes)",
+        "Profeten Uzair (Ezra)"
+      ],
+      "answer": "Profeten Ishaq (Isak)"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Født av eldre foreldre",
+        "Kastet i en ild",
+        "Gitt et kongerike og rikdom",
+        "Ledet sitt folk ut av Egypt",
+        "Bygget en ark for å frelse troende"
+      ],
+      "answer": "Født av eldre foreldre"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Det glade budskapet om en sønn",
+        "Den brennende busken",
+        "Gullkalven",
+        "Paktens ark",
+        "Profetskapets stab"
+      ],
+      "answer": "Det glade budskapet om en sønn"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Ble en profet med en slektslinje av profeter",
+        "Ble en rik konge",
+        "Hans folk ble ødelagt for vantro",
+        "Han ble reddet fra brannen",
+        "Han fikk evnen til å snakke som spedbarn"
+      ],
+      "answer": "Ble en profet med en slektslinje av profeter"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

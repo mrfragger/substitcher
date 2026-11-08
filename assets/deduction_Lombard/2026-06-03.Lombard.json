@@ -1,0 +1,61 @@
+{
+  "title": "La Naziun che g’ha sfidà la Cà Sacra",
+  "intro": "In di temp vècc, una naziun pudent g’ha decidü de atacà un santuari venerà di credent. Quest grup chi l’era ricco, pudend e sicür de la sò forza militar. G’han purtà cun luur una creatura grandissima che la serviva cuma luur arma de guerra. Luur ubietif l’era ciar: tirà giò la cà sacra e sfracià la fed di sò gent. Ma la sò arroganza l’era drèe a truvà una risposta devastante de sora. Chestu event storegh l’è diventà un segn e una leziun per tüt quei che sun rivà dopu. Pœdet identificar chestu grupp di indizi?",
+  "clues": [
+    "Erem una naziün benedeta de richezza e prodezza militar.",
+    "G’hem cattà sü i noster forz e g’hem purtà una bestia grandissima per duperà in de la noster campagna.",
+    "Ol nòs obietiv ‘l ira un santuari sacr qe vorévom destrujir completament.",
+    "Credevim che la noster forza la sarès stà assée per superar qual-sa-vöör proteziun divina.",
+    "Ma el Signur g’ha mandà sü de nun un puniziun del ciel che g’hem minga spetà.",
+    "Sun stà distrutt en un istant, sparpagnà cuma paglia rutta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El popul del elefant",
+        "El popul de Thamud",
+        "La gent de 'Ad",
+        "I compagn de la caverna",
+        "La Nazion del Profeta Hud"
+      ],
+      "answer": "El popul del elefant"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Marciar un elefant vers la cà sacra per distrugel",
+        "Costruir una torr per rivà in del ciel",
+        "Costruir un idol d’or per el cult",
+        "Refudar-s de scoltar el messagger de Allah",
+        "Scavar un pozz per far mal ai credent"
+      ],
+      "answer": "Marciar un elefant vers la cà sacra per distrugel"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "L'elefant",
+        "El vitell d'or",
+        "El personal de Musa",
+        "El pess de Yunus",
+        "El ferr de Dawud"
+      ],
+      "answer": "L'elefant"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Sun stà distrutt di gregg de usèi cun di sass",
+        "Sun stà affogà en una grand diluviun",
+        "Sun stà trasfurmà en simi e en porcei",
+        "Sun stà sepelì sotta di sass che cascavan de una muntagna",
+        "Sun stà brüsaa del fœuch del ciel"
+      ],
+      "answer": "Sun stà distrutt di gregg de usèi cun di sass"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

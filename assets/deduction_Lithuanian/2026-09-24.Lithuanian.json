@@ -1,0 +1,61 @@
+{
+  "title": "Valdovas, kuris reikalavo dieviškumo",
+  "intro": "Galingas ir arogantiškas valdovas tikėjo, kad niekas negali viršyti jo sosto. Jie vijosi bėgančią grupę per didžiulį vandens telkinį, tačiau galiausiai sulaukė dramatiškos pabaigos. Šio valdovo istorija atkartojama daugelyje Korano ištraukų ir yra tarsi įspėjimas visiems.",
+  "clues": [
+    "Buvau galingas valdovas, tikėjęs, kad mano valdomose žemėse jokia valdžia nepralenkė manosios.",
+    "Turėjau patikimą vizirį vardu Hamanas, kuris padėjo man įgyvendinti didelius architektūrinius projektus.",
+    "Aš sukviečiau geriausius savo šalies magus, kad užginčyčiau man prieštaraujančio pasiuntinio ženklus.",
+    "Nepaisydamas maro ir aiškių perspėjimų, atsisakiau išleisti iš mano karalystės pavergtus žmones.",
+    "Aš juos persekiojau per plačią jūrą su visa savo kariuomene ir vežimais.",
+    "Ta pati jūra užliejo mane ir mano pajėgas, paskandindama mus visus, kol jie saugiai kirto teritoriją."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Fir'awn (faraonas)",
+        "Namrudas",
+        "Abu Lahabas",
+        "Hamanas",
+        "Abu Džahlas"
+      ],
+      "answer": "Fir'awn (faraonas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Marai ir susidūrimas su Moze (Mozė)",
+        "Arkos statyba prieš didelį tvaną",
+        "Mūšis prieš Džalutą slėnyje",
+        "Banginio prarytas",
+        "Sąžiningų prekybos svorių gynimas"
+      ],
+      "answer": "Marai ir susidūrimas su Moze (Mozė)"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Aukšti bokštai ir kuolai",
+        "Puiki medinė arka",
+        "Auksinis veršelis",
+        "Lazdelė, kuri virto gyvate",
+        "Masyvus banginis"
+      ],
+      "answer": "Aukšti bokštai ir kuolai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nuskendo jūroje su kariuomene",
+        "Išgelbėtas Alacho gailestingumo ir kantrybės, apdovanotas",
+        "Po daugelio metų sunkumų vėl susitiko su šeima",
+        "Prarytas žemės",
+        "Sudegė gaisre"
+      ],
+      "answer": "Nuskendo jūroje su kariuomene"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

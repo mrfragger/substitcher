@@ -1,0 +1,61 @@
+{
+  "title": "Letšoao Har'a Majoe",
+  "intro": "Naheng eo lithaba li neng li betliloe matlo, lenģosa le ile la fihla le nkile pontšo ea mohlolo e tsoang ho Allah. Batho ba ile ba batla bopaki, 'me ba amohela sebopuoa se tsoang lefikeng le tiileng. Empa boikhohomoso ba bona bo ile ba ba lebisa ho hanyetsa temoso, ba tiisa qetello ea bona.",
+  "clues": [
+    "Ke ile ka romeloa ho batho ba neng ba lula matlong a betliloeng lithabeng.",
+    "Ba ile ba mphehella hore ke tlise pontšo, kahoo ke ile ka hlahisa kamele lefikeng.",
+    "Ke ba laetse hore ba lumelle kamele ho noa metsi ka bolokolohi 'me ba se ke ba e ntša kotsi.",
+    "Ba ile ba se ke ba mamela 'me ba khaola kamele mesifa, ba hana temoso ea ka.",
+    "Ke ile ka phatlalatsa hore kotlo e tla tla kamora matsatsi a mararo.",
+    "Hoseng, ho ile ha hlaha modumo o matla, empa nna le balatedi ba ka re ile ra pholoswa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Salih",
+        "Moprofeta Hud",
+        "Moprofeta Lute",
+        "Moprofeta Shu'ayb",
+        "Moprofeta Ibrahim"
+      ],
+      "answer": "Moprofeta Salih"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho batloa kamele e tšehali e tsoang lefikeng",
+        "Tlhoko ea namane ea khauta",
+        "Tlhoko ea tafole e hasane ho tsoa leholimong",
+        "Tlhoko ea moroallo",
+        "Tlhoko ea hore lere le fetohe noha"
+      ],
+      "answer": "Ho batloa kamele e tšehali e tsoang lefikeng"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Kamele e tšehali le namane ea eona",
+        "Areka ea Noe",
+        "Lere la Moshe",
+        "Namane ea Khauta",
+        "Mollo oa Ibrahim"
+      ],
+      "answer": "Kamele e tšehali le namane ea eona"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E sentsoe ke ho phatloha ho matla",
+        "Ho khangoa ke moroallo",
+        "E metsoa ke lefats'e",
+        "E fetohile litšoene",
+        "E sentsoe ke moea o matla"
+      ],
+      "answer": "E sentsoe ke ho phatloha ho matla"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

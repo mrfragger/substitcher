@@ -1,0 +1,61 @@
+{
+  "title": "Qadimgi vodiyning tosh o'ymakorlari",
+  "intro": "Arabistonning qoyali vodiylarida paydo bo'lgan, tog' yonbag'irlaridan ulug'vor uylar o'yib yasashga mohir bo'lgan tsivilizatsiyani tasavvur qiling. Ular kuch va mahorat bilan gullab-yashnagan, ammo ularning hikoyasi ilohiy ogohlantirishga qattiq qarshilik ko'rsatish bilan ajralib turadi. Ularning hikoyasini chuqurroq o'rganib chiqsangiz, takabburligi ularni butunlay yo'q qilishga olib kelgan xalqni kashf etasiz. Ular kim edi?",
+  "clues": [
+    "Biz toshloq tekisliklar va baland jarliklardan iborat yerni meros qilib oldik, u yerda biz mislsiz mahorat bilan uylarimizni qurdik.",
+    "Biz tog'larga xavfsiz uylar o'yib, har qanday zarardan o'zimizni xavfsiz his qilishimiz bilan mashhur edik.",
+    "Bizga o'zimizdan bir payg'ambar keldi, u bizga Allohning ne'matlarini eslatdi va bizni azobdan ogohlantirdi.",
+    "Biz mo''jiza talab qildik va Allohning aniq sinovi bo'lgan mo''jizaviy tuya toshdan chiqdi.",
+    "Biz ogohlantirishga e'tibor bermay, tuyaning oyoqlarini kesib tashladik, elchini masxara qildik va jazoga qarshi chiqdik.",
+    "Uylarimizda bittagina portlash ovozi eshitildi va ertalab biz go'yo u yerda hech qachon yashamagandek, yerga cho'kib yotdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Samud qavmi",
+        "Ad qavmi",
+        "Madyan xalqi",
+        "Nuh qavmi",
+        "Lut qavmi"
+      ],
+      "answer": "Samud qavmi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Urg'ochi tuyaning sonlarini kesib tashlash",
+        "Shabbatni buzdi",
+        "Oltin buzoqqa sig'indi",
+        "Ularga yuborilgan payg'ambarni o'ldirdi",
+        "Osmonga chiqish uchun minora qurdi"
+      ],
+      "answer": "Urg'ochi tuyaning sonlarini kesib tashlash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Urg'ochi tuya",
+        "Kema",
+        "Xodimlar",
+        "Oq qo'l",
+        "Manna va bedana"
+      ],
+      "answer": "Urg'ochi tuya"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Portlash natijasida vayron bo'lgan",
+        "Vayronagarchilikdan qutqarildi",
+        "Maymunlarga aylangan",
+        "Dengizda cho'kib ketdi",
+        "Yer tomonidan yutib yuborilgan"
+      ],
+      "answer": "Portlash natijasida vayron bo'lgan"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

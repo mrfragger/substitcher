@@ -1,0 +1,61 @@
+{
+  "title": "The Unyielding Authority",
+  "intro": "Across ancient lands, a powerful authority once held sway, commanding immense resources and the lives of countless individuals. Despite clear signs and warnings, this ruler chose a path of defiance, leading to a profound confrontation that would echo through time.",
+  "clues": [
+    "I claimed ultimate power and authority over a vast domain.",
+    "I challenged a humble messenger sent by the Lord of all realms.",
+    "My people were known for their mastery of grand structures and the river that sustained our civilization.",
+    "I was witness to many miraculous signs, including a staff turning into a serpent and a hand glowing bright.",
+    "I refused to let a group of enslaved people leave my land, despite divine commands.",
+    "My pursuit of the departing people led me and my armies into the heart of a divided sea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Yusuf",
+        "King Talut",
+        "Fir'awn (Pharaoh)",
+        "Prophet Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Pharaoh)"
+    },
+    "trial": {
+      "label": "Key Confrontation",
+      "options": [
+        "The flood that engulfed the land",
+        "The splitting of the sea",
+        "The burning bush",
+        "The construction of the Kaaba",
+        "The destruction by a mighty wind"
+      ],
+      "answer": "The splitting of the sea"
+    },
+    "location": {
+      "label": "Defining Aspect",
+      "options": [
+        "A talking animal",
+        "A staff and a glowing hand",
+        "A miraculous birth",
+        "A flying carpet",
+        "A majestic throne on water"
+      ],
+      "answer": "A staff and a glowing hand"
+    },
+    "outcome": {
+      "label": "Ultimate Fate",
+      "options": [
+        "Ascended to the heavens",
+        "Swallowed by the earth",
+        "Drowned in the sea",
+        "Transformed into an ape",
+        "Given immense wealth and power"
+      ],
+      "answer": "Drowned in the sea"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

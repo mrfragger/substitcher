@@ -1,0 +1,61 @@
+{
+  "title": "Melodi yang Menggerakkan Pergunungan",
+  "intro": "Anda bakal menemui kisah seorang hamba Allah yang luar biasa. Di sebuah negeri yang penuh dengan para rasul dan pemerintah, tokoh ini dikurniakan kitab suci, suara yang kuat, dan kekuatan mengatasi besi. Semasa anda membaca petunjuk-petunjuk ini, bolehkah anda mengenal pasti siapakah orang ini?",
+  "clues": [
+    "Aku adalah seorang hamba Allah yang dianugerahkan sebuah kitab istimewa.",
+    "Aku mempunyai suara yang merdu, dan pujianku begitu dikasihi sehingga bukit-bukit dan burung-burung pun menyertaiku.",
+    "Saya menghadapi lawan yang hebat dalam pertempuran yang terkenal, dan walaupun lebih kecil, saya menang.",
+    "Besi dijadikan lentur untukku, membolehkanku membuat perisai dengan tanganku sendiri.",
+    "Aku telah dilantik menjadi pemerintah atas sebuah bangsa yang besar, dan kebijaksanaanku dalam penilaian terkenal.",
+    "Anakku, yang juga seorang nabi, telah diberikan kuasa mengawal angin dan jin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Daud (Daud)",
+        "Nabi Sulaiman (Sulaiman)",
+        "Nabi Musa (Musa)",
+        "Nabi Harun (Harun)",
+        "Nabi Ilyas (Ilyas)"
+      ],
+      "answer": "Nabi Daud (Daud)"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Mengalahkan Goliat (Jalut)",
+        "Membelah laut",
+        "Terselamat daripada ikan paus itu",
+        "Dicampakkan ke dalam api",
+        "Membina Bahtera"
+      ],
+      "answer": "Mengalahkan Goliat (Jalut)"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Zabur (Zabur)",
+        "Taurat (Taurat)",
+        "Injil (Injil)",
+        "Gulungan-gulungan Nabi Ibrahim",
+        "Al-Quran"
+      ],
+      "answer": "Zabur (Zabur)"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Menjadi nabi dan raja Israel",
+        "Menjadi pemerintah Mesir",
+        "Telah diangkat ke langit",
+        "Telah musnah akibat ribut",
+        "Menjadi teman gua"
+      ],
+      "answer": "Menjadi nabi dan raja Israel"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

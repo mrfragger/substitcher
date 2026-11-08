@@ -1,0 +1,61 @@
+{
+  "title": "Te Iwi i Wero i te Whare Tapu",
+  "intro": "I ngā wā onamata, i whakatau tētahi iwi kaha ki te whakaeke i tētahi wāhi tapu e whakanuia ana e te hunga whakapono. He whai rawa, he kaha, he maia hoki tēnei rōpū ki tō rātou kaha hōia. I mauria mai e rātou tētahi mea hanga nui hei patu mō rātou. He mārama tā rātou whāinga: he whakahoro i te whare tapu, he kuru hoki i te whakapono o ōna tāngata. Engari kua tata te tūtaki o tō rātou whakapehapeha ki tētahi urupare kino mai i runga. I riro tēnei huihuinga hītori hei tohu, hei akoranga hoki mā te hunga katoa i muri mai. Ka taea e koe te tautuhi i tēnei rōpū mai i ngā tohu?",
+  "clues": [
+    "He iwi whai rawa tātou, he iwi kaha hoki ki te ope taua.",
+    "I huihuia e mātou ō mātou ope, ā, i mauria mai e mātou tētahi kararehe nui rawa hei whakamahi i roto i tā mātou pakanga.",
+    "Ko tā mātou whāinga he wāhi tapu i hiahia mātou ki te whakangaro rawa.",
+    "I whakapono mātou ka ranea tō mātou kaha ki te wikitoria i tētahi tiaki a te Atua.",
+    "Heoi i tukua mai e te Ariki he whiu i te rangi ki a mātou, kihai i tumanakohia e mātou.",
+    "I ngaro wawe tonu mātou, i marara noa atu pērā i te kakau witi pakaru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Iwi o te Arewhana",
+        "Te Iwi o Thamud",
+        "Te Iwi o 'Ad",
+        "Ngā Hoa o te Ana",
+        "Te Iwi o te Poropiti a Huta"
+      ],
+      "answer": "Te Iwi o te Arewhana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hikoi a te arewhana ki te whare tapu hei whakangaro",
+        "Te hanga i tētahi pourewa hei eke ki te rangi",
+        "Te hanga i tētahi whakapakoko koura hei karakia",
+        "Te kore e whakarongo ki te karere a Allah",
+        "Te keri i te puna hei whara i te hunga whakapono"
+      ],
+      "answer": "Te hikoi a te arewhana ki te whare tapu hei whakangaro"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Arewhana",
+        "Te Kuao Kau Koura",
+        "Ngā Rākau o Musa",
+        "Te Ika a Yunus",
+        "Te Rino o Rawiri"
+      ],
+      "answer": "Te Arewhana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia rātou e ngā kahui manu ki ngā kōhatu",
+        "I toremi rātou i roto i te waipuke nui",
+        "I hurihia rātou hei makimaki me hei poaka",
+        "I tanumia rātou ki raro i ngā kōhatu e hinga ana i te maunga",
+        "I tahuna rātou e te ahi i te rangi"
+      ],
+      "answer": "I whakangaromia rātou e ngā kahui manu ki ngā kōhatu"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

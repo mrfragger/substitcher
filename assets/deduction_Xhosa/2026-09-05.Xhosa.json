@@ -1,0 +1,61 @@
+{
+  "title": "Ubuhle Obabutshonile",
+  "intro": "Khawucinge ngoku: umphefumlo ogqunywe zizambatho ezintle kwaye ujikelezwe bubutyebi obungaphaya kokucingelwa. Lo mntu wayekholelwa ukuba ubutyebi bakhe bufunyenwe ngobulumko bakhe, engazange avume umthombo woncedo lokwenene. Ehamba phakathi kwabalandeli bomprofeti onamandla, lo mntu wala yonke into yokuthobeka. Namhlanje, sityhila ubuwena bomntu onethamsanqa elikhulu elaba yindawo yakhe yokugqibela yokuphumla.",
+  "clues": [
+    "Ndandiphila ngexesha lomprofeti owayebiza isizwe esineenkani ukuba singene enyanisweni.",
+    "Ndandiyinxalenye yoluntu olukhethiweyo, kodwa intliziyo yam yajika yayamkela isigidimi.",
+    "Igolide nesilivere zanditsala ngaphezu kwayo nayiphi na imiyalelo kaThixo.",
+    "Iimpahla zam zobuncwane zanda kakhulu kangangokuba iqela elinamandla lamadoda lalingakwazi ukuphakamisa izitshixo.",
+    "Ndaziqhayisa ngelithi ubutyebi bam ndibunikwe ngenxa yolwazi lwam.",
+    "Ekugqibeleni, mna kunye nendlu yam yonke saginywa ngumhlaba njengesilumkiso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "IQarun",
+        "UHaman",
+        "IsiSamiri",
+        "UBilqis",
+        "UTalut (uSawule)"
+      ],
+      "answer": "IQarun"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuzikhukhumeza ngenxa yobutyebi kunye nokwala ukuncedisa abantu",
+        "Ukwenza isithixo segolide ngezinto zokuhombisa ezinyibilikisiweyo",
+        "Ukuvakalisa ubuThixo phezu kobukumkani obunamandla",
+        "Ukutshutshisa amakholwa okuqala eMakkah",
+        "Ukukhokela iphulo lokutshabalalisa iNdlu eNgcwele"
+      ],
+      "answer": "Ukuzikhukhumeza ngenxa yobutyebi kunye nokwala ukuncedisa abantu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ubuncwane obunezitshixo ezithwalisa amadoda amaninzi anamandla umthwalo",
+        "Ithole legolide elivelisa isandi",
+        "Itrone ezukileyo evela kwilizwe elikude",
+        "Umsele ozele ngumlilo ovuthayo",
+        "Umkhosi onamandla weendlovu zemfazwe"
+      ],
+      "answer": "Ubuncwane obunezitshixo ezithwalisa amadoda amaninzi anamandla umthwalo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Iginywe ngumhlaba kunye nendawo yokuhlala",
+        "Nditshonile elwandle kunye nomkhosi",
+        "Watshiswa ephila emngxunyeni womlilo",
+        "Itshatyalaliswe ngumoya ovuthuzayo novuthuzayo",
+        "Wabethwa phantsi kukuqhuma okukhulu okukodwa"
+      ],
+      "answer": "Iginywe ngumhlaba kunye nendawo yokuhlala"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

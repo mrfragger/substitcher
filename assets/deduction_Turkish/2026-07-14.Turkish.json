@@ -1,0 +1,61 @@
+{
+  "title": "Siperlerin Ruhları",
+  "intro": "Acımasız bir hükümdarın sahte tanrılara mutlak bağlılık talep ettiği bir döneme geri dönüyorsunuz. Küçük bir grup sadık insan bu talebi reddetti ve sonsuza dek lanetlenecek kadar ağır bir cezayla karşılaştı. Onların hikayesi, sarsılmaz inancın bir kanıtı olarak Kur'an'da yankılanıyor. Bu kararlı grubu tespit edebilir misiniz?",
+  "clues": [
+    "Biz, sahte tanrılara tapınmayı emreden bir hükümdarın zulmü altındaki bir ülkede yaşıyorduk.",
+    "Topluluğumuz, yalnızca Allah'a olan inancımız nedeniyle şiddetli zulme maruz kaldı.",
+    "Hükümdar, büyük bir hendek kazılmasını ve şiddetli alevlerle beslenmesini emretti.",
+    "İnancımızdan vazgeçmeyi reddettiğimiz için, teker teker o alevli çukura atıldık.",
+    "Hikayemiz Kur'an'ın bir parçası oldu ve bize zulmedenler sonsuza dek lanetlendi.",
+    "Çektiğimiz imtihanı anlatan sure, gökyüzünün büyük göksel işaretlerinin adını almıştır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Hendek Yoldaşları (Ashab al-Ukhdud)",
+        "Mağara Halkı (Ashab al-Kahf)",
+        "Şabat Halkı",
+        "A'ad halkı",
+        "Thamud Halkı"
+      ],
+      "answer": "Hendek Yoldaşları (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Denememiz",
+      "options": [
+        "Alevli bir çukurda diri diri yakılmak",
+        "Uzun yıllar boyunca bir mağarada mühürlü kalmak",
+        "Kutsal dinlenme gününde balık tutmak",
+        "Uğultulu bir rüzgar tarafından yok edilmek",
+        "Kutsal bir dişi deveyi öldürmek"
+      ],
+      "answer": "Alevli bir çukurda diri diri yakılmak"
+    },
+    "location": {
+      "label": "Ana Unsur",
+      "options": [
+        "Alev alev yanan bir hendek",
+        "Sadık bir köpeğin bulunduğu gizli bir mağara",
+        "Antik, kaderine terk edilmiş bir şehrin yüksek sütunları",
+        "Taş kayalıklara oyulmuş dağ evleri",
+        "Şiddetli rüzgarların savurduğu açık bir ova"
+      ],
+      "answer": "Alev alev yanan bir hendek"
+    },
+    "outcome": {
+      "label": "Sonuçlarımız",
+      "options": [
+        "Biz şehit olduk ve zulmedenler sonsuza dek lanetlendi.",
+        "309 yıl uyuduktan sonra uyandık.",
+        "Yaptığımız günah yüzünden maymunlara dönüştürüldük.",
+        "Uğultulu, güçlü bir rüzgar hepimizi mahvetti.",
+        "Tek bir yıkıcı çığlık varlığımızı paramparça etti."
+      ],
+      "answer": "Biz şehit olduk ve zulmedenler sonsuza dek lanetlendi."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

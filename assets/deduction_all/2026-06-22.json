@@ -1,0 +1,61 @@
+{
+  "title": "The Hidden Believer",
+  "intro": "In the opulent halls of power, where disbelief and tyranny reigned, a lone voice of truth spoke from an unexpected place. This figure challenged the authority to protect a messenger, risking their own security to proclaim the truth.",
+  "clues": [
+    "I lived in a land of great tyranny, serving a ruler who claimed divinity.",
+    "I kept my true beliefs hidden for many years, fearing the consequences of revealing them.",
+    "When a messenger came with clear signs, I believed, but my people conspired against him.",
+    "I stood before the tyrant and his council, arguing that they should not kill an innocent messenger.",
+    "I warned them of the punishment of past nations who rejected the truth, like the people of Noah and 'Ad.",
+    "Allah saved me from their evil plots, and I witnessed the destruction of the oppressive regime."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "The Believer of Pharaoh's Family",
+        "The Magician of Pharaoh",
+        "The Vizier of Pharaoh",
+        "The Wife of Pharaoh",
+        "The Treasurer of Pharaoh"
+      ],
+      "answer": "The Believer of Pharaoh's Family"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Defending a prophet against execution",
+        "Challenging a magician's tricks",
+        "Building a tower to reach the sky",
+        "Parting the sea for escape",
+        "Interpreting a king's dream"
+      ],
+      "answer": "Defending a prophet against execution"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The court of Pharaoh",
+        "The burning bush",
+        "The golden calf",
+        "The well of Madyan",
+        "The ark of Prophet Nuh"
+      ],
+      "answer": "The court of Pharaoh"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Saved from harm while the oppressors were destroyed",
+        "Became a powerful ruler",
+        "Was thrown into a fire and emerged unharmed",
+        "Was swallowed by the earth",
+        "Wandered in the wilderness for forty years"
+      ],
+      "answer": "Saved from harm while the oppressors were destroyed"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tålamodet som överlevde sorgen",
+  "intro": "En äldre vars tålamod blev legendariskt, vars vision bleknade av sorg, men vars tro på den gudomliga planen aldrig vacklade. Denna individ såg tolv söner växa upp till stammars grundvalar, lida den smärtsamma förlusten av ett högt älskat barn och bli en tidlös symbol för vackert tålamod inför överväldigande sorg. En vördad själ vars historia berättas genom uppenbarelsens sidor. Kan du identifiera denna figur från Koranen?",
+  "clues": [
+    "Jag var en profet vars historia berättas i detalj i en viktig sura i Koranen.",
+    "Jag hade tolv söner som blev fäder till Israels barns stammar.",
+    "Jag sa till mina söner att gå in genom olika portar, så att de inte skulle bli igenkända som ett enda folk.",
+    "Mina ögon vitnade av oavbruten gråt över ett älskat barn som tagits ifrån mig.",
+    "Jag vägrade att misströsta även när mina andra söner uppmanade mig att göra det och sa att jag bara klagar till Allah.",
+    "Jag är far till profeten Yusuf, vars själva namn betyder \"förstärkaren\" på arabiska."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Yaqub (Jakob)",
+        "Profeten Yusuf",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Yaqub (Jakob)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Förlusten av en älskad son till en brunn",
+        "Den stora översvämningen som omslöt ett helt folk",
+        "Migrationen från ett elddyrkande kungarike",
+        "Konfrontationen med en mäktig tyrann i Egypten",
+        "Förvisningen till en vals mage"
+      ],
+      "answer": "Förlusten av en älskad son till en brunn"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En skjorta fläckad med falskt blod",
+        "En stav som förvandlades till en orm",
+        "En ark byggd på ett berg",
+        "En honkamel huggen ur sten",
+        "En gyllene kalv"
+      ],
+      "answer": "En skjorta fläckad med falskt blod"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Synen återställdes när en älskad sons skjorta placerades över ansiktet",
+        "Räddning efter att ha kastats i magen på en stor fisk",
+        "Att få titeln Khalilullah från Allah",
+        "Att korsa havet med ett folk befriat från slaveri",
+        "En regnbåge som framträder som ett tecken på hopp efter syndafloden"
+      ],
+      "answer": "Synen återställdes när en älskad sons skjorta placerades över ansiktet"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

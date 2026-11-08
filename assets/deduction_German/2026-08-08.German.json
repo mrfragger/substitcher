@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimme vor dem Sturm",
+  "intro": "Eine Gestalt in der Wüste erhob sich, um ein mächtiges Volk zur Wahrheit zurückzuführen. Das Volk war bekannt für seine prächtigen Bauwerke und seine unübertroffene Stärke. Doch ihr Stolz verblendete sie, und sie weigerten sich zuzuhören. Schließlich ereilte sie eine verheerende Strafe, die nur eine kleine Gruppe von Gläubigen verschonte.",
+  "clues": [
+    "Ich wurde zu einem mächtigen Volk geschickt, das in der offenen Landschaft lebte und für seine Stärke bekannt war.",
+    "Mein Volk folgte einem anderen großen Volk, das zerstört worden war.",
+    "Sie besaßen prächtige Bauwerke und errichteten hohe Türme.",
+    "Ich rief sie dazu auf, den einen Gott anzubeten, aber sie weigerten sich, ihre Götzenbilder aufzugeben.",
+    "Eine heftige Strafe ereilte sie, nur diejenigen wurden verschont, die mit mir glaubten.",
+    "Ich bin derjenige, der zu einem mächtigen Volk namens Aad gesandt wurde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Hud",
+        "Prophet Salih",
+        "Prophet Shu'aib",
+        "Prophet Nuh",
+        "Prophet Ibrahim"
+      ],
+      "answer": "Prophet Hud"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die große Flut",
+        "Ein tosender, heftiger Wind",
+        "Ein Erdbeben und ein markerschütternder Schrei",
+        "Ein Regen aus brennenden Steinen",
+        "Himmlisches Feuer von oben"
+      ],
+      "answer": "Ein tosender, heftiger Wind"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine große Arche, erbaut auf einem Berg",
+        "Eine einzigartige Kamelstute",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Hohe Gebäude und hoch aufragende Bauwerke",
+        "Ein brennender Scheiterhaufen"
+      ],
+      "answer": "Hohe Gebäude und hoch aufragende Bauwerke"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Alle ertranken in einer großen Flut",
+        "Mein Volk wurde von einem heftigen Wind vernichtet, ich aber wurde gerettet.",
+        "Mein Volk, das von einem Erdbeben getroffen wurde, schreit",
+        "Mein Volk wurde mit Steinen vom Himmel beworfen",
+        "Mein Volk wurde in ein loderndes Feuer geworfen"
+      ],
+      "answer": "Mein Volk wurde von einem heftigen Wind vernichtet, ich aber wurde gerettet."
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

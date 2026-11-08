@@ -1,0 +1,61 @@
+{
+  "title": "Sauti ya Hekima",
+  "intro": "Sauti ya upole ya hekima ambayo hapo awali ilishirikiwa ushauri unaopita wakati. Mtu huyu, aliyebarikiwa na uelewa wa kina, alitoa masomo muhimu ambayo yanabaki kuwa taa kwa wote wanaotamani mwongozo. Je, unaweza kufichua utambulisho ulio nyuma ya maneno haya ya kudumu?",
+  "clues": [
+    "Nilipewa baraka kubwa kutoka kwa Mwenyezi Mungu, zawadi iliyoniangazia moyo na akili yangu.",
+    "Nilimgeukia mtoto wangu mpendwa, nikitamani kushiriki hazina ya thamani zaidi niliyokuwa nayo.",
+    "Nilionya kwamba dhuluma kubwa zaidi ni kuanzisha washirika na Mungu Mmoja wa kweli.",
+    "Nilikumbusha kwamba hata uzito wa punje ya haradali, iliyofichwa ndani ya mwamba au zaidi ya mbingu, itahesabiwa na Mwenyezi Mungu.",
+    "Niliagiza kuwa waangalifu kwa wazazi, ingawa utii ni katika mambo ya uadilifu pekee.",
+    "Nilifundisha tabia rahisi: tembea kwa unyenyekevu duniani na upunguze sauti yako; kwani sauti kali zaidi ni mlio wa punda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Luqman",
+        "Al-Khidr",
+        "Nabii Sulayman",
+        "Dhul-Qarnayn",
+        "Uzair"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Kesi / Tukio",
+      "options": [
+        "Kutoa ushauri wa kina kwa mtoto wake",
+        "Kujenga safina ili kuokoka gharika kubwa",
+        "Kuvumilia ugonjwa mbaya kwa uvumilivu",
+        "Kusafiri hadi miisho ya dunia",
+        "Kupokea vidonge vya Mungu juu ya mlima"
+      ],
+      "answer": "Kutoa ushauri wa kina kwa mtoto wake"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ushauri kwa mwanawe",
+        "Kichaka kinachowaka moto",
+        "Fimbo ya Musa",
+        "Ndama wa dhahabu",
+        "Malango ya chuma"
+      ],
+      "answer": "Ushauri kwa mwanawe"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Ushauri wake ulithibitishwa katika maandiko matakatifu",
+        "Alipewa unabii na sheria mpya",
+        "Akawa mtawala hodari juu ya ufalme mkubwa",
+        "Alifufuliwa mbinguni bila kifo",
+        "Alipokea ufunuo wa moja kwa moja kutoka kwa malaika"
+      ],
+      "answer": "Ushauri wake ulithibitishwa katika maandiko matakatifu"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

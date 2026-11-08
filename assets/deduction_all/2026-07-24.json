@@ -1,0 +1,61 @@
+{
+  "title": "The Veiled Conspirator",
+  "intro": "You find yourself in the presence of a powerful figure from the days of revelation. This individual was known for their intellect, wealth, and status among their people. When the clear signs came, they recognized the beauty yet chose defiance over submission. What drove this soul to plot in the dark, and what was their ultimate fate?",
+  "clues": [
+    "I was blessed with abundant resources and influence, making my word heavy in the assemblies.",
+    "When the words of the divine were recited, I could not deny their eloquence, but my pride would not allow me to submit.",
+    "I gathered my advisors, isolating myself to ponder a way to discredit the message.",
+    "After much thought, I declared it nothing but 'magic handed down from the past' to turn people away.",
+    "The revelation then addressed me directly: 'Leave Me with the one I created alone.' I was singled out for my scheming.",
+    "Soon, the very fire I was warned about will seize me by the forelock, and I will have no escape."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Conspired to assassinate the Prophet",
+        "Led a boycott against the Muslims",
+        "Gathered a council to brand the Quran as magic",
+        "Plotted to expel the Prophet from Makkah",
+        "Refused to share his wealth with orphans"
+      ],
+      "answer": "Gathered a council to brand the Quran as magic"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The Revelation",
+        "The Council",
+        "The Forelock",
+        "The Wealth",
+        "The Pen"
+      ],
+      "answer": "The Forelock"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "He repented and embraced Islam",
+        "He migrated to Abyssinia",
+        "He was struck by a deadly disease",
+        "He died in battle against Muslims",
+        "He was condemned to Hellfire"
+      ],
+      "answer": "He was condemned to Hellfire"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

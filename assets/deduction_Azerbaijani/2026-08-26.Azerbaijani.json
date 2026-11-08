@@ -1,0 +1,61 @@
+{
+  "title": "Bitən Paxıllıq",
+  "intro": "Hər hansı bir krallıqdan və ya müqəddəs kitabdan daha qədim bir hekayə - qısqanclıqdan doğan ilk insan faciəsi. İlk valideynlərdən doğulan iki uşağın böyüyü olan bir ruh, kiçik qardaşının rədd edilən lütfü necə aldığını qəzəblə izləyirdi. Ardınca ən qaranlıq seçimlər gəldi və yer üzündə tökülən ilk qanı geridə qoydu. Kimliyi, sınaqları və acı peşmançılığı aşkar edə bilərsinizmi?",
+  "clues": [
+    "Mən yer üzündə gəzən ilk insan cütlüyündən doğulmuşam.",
+    "Bir dəfə Allaha qurban kəsdim, amma qəbul olunmadı.",
+    "Bacı-qardaşımın təklifi qəbul edildi, mənimki isə rədd edildi - bu, dözə bilmədiyim bir şey idi.",
+    "Mən öz qardaşımı məhv etməklə hədələdim.",
+    "Mən bu dünyada öz qardaşımın həyatına son qoyaraq qətl törədən ilk şəxs oldum.",
+    "Allah mənə etdiklərimi gizlətməyi öyrətmək üçün yer üzündə bir məxluq — torpağı qazan qara bir quş göndərdi və mən yalnız peşmançılıqla qarşılaşdım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Qabil (Qabil)",
+        "Habil (Habil)",
+        "Yaqub peyğəmbər",
+        "Musa peyğəmbər",
+        "Adəm peyğəmbər"
+      ],
+      "answer": "Qabil (Qabil)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Allah tərəfindən rədd edilən qurban",
+        "Böyük bir atəşə atıldı",
+        "Körpə ikən çayda tərk edilmiş",
+        "Böyük bir səltənətlə sınaqdan keçirildi",
+        "Oğlunu qurban vermək əmri"
+      ],
+      "answer": "Allah tərəfindən rədd edilən qurban"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Allahın göndərdiyi qarğa",
+        "Qızıl buzov",
+        "Dağın üstündəki gəmi",
+        "Yanan kol",
+        "Qayadan yonulmuş dişi dəvə"
+      ],
+      "answer": "Allahın göndərdiyi qarğa"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Peşmançılıqla doldu və məğlublar arasında oldu",
+        "Xəzinələrlə birlikdə yerə uduldu",
+        "Allahın nəcib bir elçisi oldu",
+        "İlahi rəhmətlə Cənnətə daxil oldu",
+        "Misilsiz bir krallığa hökmranlıq etdi"
+      ],
+      "answer": "Peşmançılıqla doldu və məğlublar arasında oldu"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

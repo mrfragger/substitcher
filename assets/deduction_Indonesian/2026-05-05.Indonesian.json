@@ -1,0 +1,61 @@
+{
+  "title": "Pelukan Bumi",
+  "intro": "Di masa-masa sulit, seorang tokoh terkemuka dianugerahi kekayaan duniawi yang melimpah, sebuah ujian rasa syukur dan kerendahan hati. Perjalanan hidup tokoh ini menjadi pelajaran mendalam tentang sifat fana harta benda dan konsekuensi kesombongan. Ungkap identitas jiwa ini yang kisahnya terukir di dalam tanah di bawah kita.",
+  "clues": [
+    "Aku hidup di antara suatu kaum yang dipimpin oleh seorang utusan agung.",
+    "Allah menganugerahi aku kekayaan yang begitu melimpah sehingga kunci harta karunku pun menjadi beban berat bagi banyak orang yang kuat.",
+    "Kaumku, yang mengetahui kekayaanku, menasihatiku untuk mencari tempat tinggal di akhirat dengan apa yang telah Allah berikan kepadaku dan tidak melupakan bagianku di dunia, serta berbuat baik sebagaimana Allah telah berbuat baik kepadaku.",
+    "Dengan angkuh saya menyatakan bahwa kekayaan saya yang sangat besar diperoleh semata-mata melalui pengetahuan dan usaha saya sendiri, menyangkal adanya anugerah ilahi.",
+    "Ketika diminta untuk memberi sumbangan atau mengakui karunia Allah, saya dengan bangga menolak, karena percaya bahwa harta benda saya adalah milik saya sepenuhnya.",
+    "Akibat kesombongan dan penindasanku yang berlebihan, Allah memerintahkan bumi untuk terbelah dan menelan aku beserta tempat tinggalku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Dilemparkan ke dalam api",
+        "Tenggelam di laut",
+        "Diusir dari sebuah taman",
+        "Berubah menjadi kera",
+        "Ditelan oleh bumi"
+      ],
+      "answer": "Ditelan oleh bumi"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Anak lembu emas",
+        "Bahtera yang perkasa",
+        "Seekor burung yang bisa berbicara",
+        "Staf yang ajaib",
+        "Harta karun dan kunci yang sangat besar"
+      ],
+      "answer": "Harta karun dan kunci yang sangat besar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Menjadi penguasa yang hebat",
+        "Menerima wahyu ilahi",
+        "Naik ke surga",
+        "Menjalani hidup saleh yang panjang",
+        "Kehancuran total akibat kesombongan"
+      ],
+      "answer": "Kehancuran total akibat kesombongan"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

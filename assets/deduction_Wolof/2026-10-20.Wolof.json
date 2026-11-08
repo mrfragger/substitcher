@@ -1,0 +1,61 @@
+{
+  "title": "Architektu Njuumteg Bëgg-bëgg",
+  "intro": "Mu amoon benn nit ku am kiliftéef bu mag, muy benn ci jaay doole yi gëna siiw ci taarixu Egypt. Nit ki dañu ko dénk liggéey bu am solo — mu tabax barab buy xeex asamaan si. Seen jaar-jaar mingi taxaw ci Al Quran, di jàngale bu am solo buy wane ni déggal réy-réylu ci lu nëbbu du jur loraange.",
+  "clues": [
+    "Maa ngi liggéey ci këru njiit lu am doole luy wax ni mooy boroom réew mi.",
+    "Maa ngi nekkoon ministre bu mag, di digal ki gënoon réy ci sama jamono.",
+    "Sama njiit a ngi doon xeex Yàllay Musaa, moom mi ñu bañoon nangu.",
+    "Dañu ma sant ma tabax tour bu am brik yuñ lakk, suko defee sama njiit mëna yéeg ci asamaan si.",
+    "Tower bi musul yegg asamaan si, te lima nekkoon jaam ci réy-réy moo tax ma gacce ba fàww.",
+    "Maa ngi dee ak ki ma topp, te sama tur nekkoon àrtu buy yàgg ci ñiy jaay doole jaay doole."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Aman",
+        "Azar (père de Ibrahim)",
+        "Ilyas ( ab yonent)",
+        "Dhu al-kifl",
+        "Harut (benn ci ñaari malaaka yi ci Babilon)"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Ñu sant ñu tabax barab bu kawe ngir yegg ci asamaan si",
+        "Dañu laaj ñu tekki gént bu Yàlla yónnee",
+        "sànni leen ci safara suy tàkk ngir natt seen ngëm",
+        "Dañu leen di forse ñu tànn diggante tron ​​ak dëgg",
+        "Dañu leen laaj ci benn joŋante luxus"
+      ],
+      "answer": "Ñu sant ñu tabax barab bu kawe ngir yegg ci asamaan si"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Tour bu ñu defaree brik yuñ lakk",
+        "Baton bu soppiku nekk jaan",
+        "Gaal giy jaar ci biir mbënd mu rëy",
+        "Jardin buñu tëj ak miir yu kawe",
+        "Jalluwaay buñ defaree rubi ak wurus"
+      ],
+      "answer": "Tour bu ñu defaree brik yuñ lakk"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ñu ngi féey ci wetu ki leen di noot ci géej gi",
+        "Nekk na buur bu am doole ci réew yu yaatu",
+        "Dafa rëcci ci lakk bu tàng bi te dara dalu ko",
+        "Tabax réew mu am xam-xam",
+        "Ñu ngi delluwaat ak seeni mbokk ginaaw ay at ci exile"
+      ],
+      "answer": "Ñu ngi féey ci wetu ki leen di noot ci géej gi"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'explorador emplomat",
+  "intro": "Dins d'un regne governat per algú a qui se li havia concedit el domini sobre els vents, els éssers invisibles i les criatures del cel, un membre petit i veloç va desaparèixer de les files, només per tornar amb revelacions que remodelarien el destí d'una nació distant. Aquest informant perspicaç va treure la veritat a la llum on la ignorància havia arrelat. Qui sóc jo?",
+  "clues": [
+    "Vaig servir en una cort on els humans, els éssers invisibles i les criatures del cel responien a un únic governant savi que comandava els vents mateixos.",
+    "Vaig estar absent del meu càrrec durant un temps, i es prometia la ira del governant si no donava una raó satisfactòria.",
+    "Sóc una petita criatura voladora, coneguda per la seva vista aguda, i la meva espècie va ser honorada amb el nomenament directe a les pàgines de la revelació.",
+    "Quan vaig tornar, vaig portar notícies d'una terra llunyana on la gent es prostrava davant el sol, cega davant Aquell que va crear el cel i la terra.",
+    "Vaig trobar una dona governant un gran regne, asseguda en un tron ​​magnífic, sense haver conegut mai la veritat abans.",
+    "Jo sóc qui va descobrir el regne de Saba i vaig portar una carta d'invitació d'un rei profeta a qui se li va donar el domini sobre el vent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La puput (Hudhud)",
+        "La formiga de la vall de Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit el Djinn",
+        "Un àngel del tron"
+      ],
+      "answer": "La puput (Hudhud)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "L'expedició al regne de Saba (Sheba)",
+        "L'enfrontament amb els bruixots del faraó",
+        "El diluvi del profeta Nuh",
+        "La destrucció del poble d'Ad",
+        "La divisió del Mar Roig"
+      ],
+      "answer": "L'expedició al regne de Saba (Sheba)"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La terra de Saba (Sheba)",
+        "Mont Sinaí",
+        "L'Arca del Profeta Nuh",
+        "La cova d'Ashab al-Kahf",
+        "El Palau del Faraó"
+      ],
+      "answer": "La terra de Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bilqis es va sotmetre a la cort de Sulaiman",
+        "El faraó i el seu exèrcit es van ofegar al mar",
+        "El poble d'Ad va ser destruït per un vent violent",
+        "Els bruixots del faraó creien en el profeta Musa",
+        "Una gran inundació va consumir els incrèduls"
+      ],
+      "answer": "Bilqis es va sotmetre a la cort de Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

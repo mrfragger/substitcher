@@ -1,0 +1,61 @@
+{
+  "title": "Nanm pasyan Kay Sakre a",
+  "intro": "Nan paj Koran an, yon figi parèt nan liyaj yon gran pwofèt, yo te bay li kòm yon kado nan vyeyès. Yo selebre nanm sa a pou verasite san fay li ak wòl pwofon li te jwe nan etablisman yon sanktyè ki t ap vin tounen yon limyè lafwa. Pandan w ap li endikasyon yo, koute byen vwa ki soti nan tan lontan an, paske l ap pale nan premye moun.",
+  "clues": [
+    "Yo mansyone mwen nan Koran an ansanm ak yon lòt pwofèt kòm yon kado yo te bay yon mesaje ki granmoun.",
+    "Mwen te youn nan de pitit pwofèt sa a te resevwa nan dènye ane li yo.",
+    "Koran an fè lwanj pou mwen paske mwen kenbe pawòl mwen.",
+    "Mwen te pote onè pwofèt la epi yo te voye m kòm yon mesaje.",
+    "Mwen te ansanm ak papa m nan leve fondasyon Kay Sakre a.",
+    "Yo sonje mwen kòm youn nan moun ki te pasyan yo, epi kay sakre nou te bati a te vin tounen yon kote retou ak sekirite pou moun yo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Ismayèl",
+        "Pwofèt Ishak",
+        "Pwofèt Yaqub",
+        "Pwofèt Zakariya",
+        "Pwofèt Yahya"
+      ],
+      "answer": "Pwofèt Ismayèl"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Leve fondasyon Kaaba a avèk Ibrahim",
+        "Yo jete l nan dife",
+        "Yon balèn vale l",
+        "Mennen Izrayelit yo soti nan peyi Lejip",
+        "Bati yon lach"
+      ],
+      "answer": "Leve fondasyon Kaaba a avèk Ibrahim"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Kaaba a",
+        "Mòn Sinayi",
+        "Lanmè Wouj la",
+        "Ti bèf an lò a",
+        "Jaden Edenn nan"
+      ],
+      "answer": "Kaaba a"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Konte pami pasyan yo",
+        "Konte pami moun ki fè mal yo",
+        "Konte pami majisyen yo",
+        "Konte pami moun ki pa kwè yo",
+        "Konte pami ipokrit yo"
+      ],
+      "answer": "Konte pami pasyan yo"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Veritas quae Curiam Silentium Coegit",
+  "intro": "In palatio ubi negatio regnabat et potestas absoluta erat, coetus peritorum artificerum ante inexpectatum certamen stabat. Aer prae exspectatione crepitabat dum duae viae, falsitatis et veritatis, mox colliderentur. Parum sciebant congregati hunc congressum vitas suas in perpetuum transformaturum et historiam suam in textum sacrum insculpturum esse.",
+  "clues": [
+    "Peritia nostra in illusionibus clari eramus et a potente quodam principe convocati sumus ut provocatorem oppugnaremus.",
+    "Cum momentum advenisset, instrumenta nostra iactavimus et exitum exspectavimus, arte nostra confidentes.",
+    "Sed quae vidimus nostra instrumenta quasi ludibria mera videri fecerunt, et corda nostra veritatem innegabilem agnoverunt.",
+    "Prostrati ad terram cecidimus, fidem nostram in Dominum Moysi et Aaron profitentes, ira rectoris non obstante.",
+    "Ille princeps nos poena crudelissima minatus est, promittens se nos crucifigere et membra nostra in contrarias partes secare.",
+    "Constantes permansimus, dicentes nos iudicium Domini nostri cuilibet consequentiae mundanae praeferre, et pro fide nostra martyrium passi sumus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Magi Pharaonis",
+        "Populus Speluncae",
+        "Socii Silvae",
+        "Discipuli Isae",
+        "Populus Elephantis"
+      ],
+      "answer": "Magi Pharaonis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Certamen magicum contra Musam",
+        "Ignis in eos iniectus",
+        "Diluvium quod eos submersit",
+        "Siccitas et fames",
+        "Terrae motus"
+      ],
+      "answer": "Certamen magicum contra Musam"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Baculi et funes qui in serpentes conversi sunt",
+        "Rubus ardens",
+        "Camelus",
+        "Arca lignea",
+        "Balaena"
+      ],
+      "answer": "Baculi et funes qui in serpentes conversi sunt"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ob fidem supplicio affectus, Paradisum promisit",
+        "In mari submersus",
+        "Aegypti principes facti sunt",
+        "Sectatores Pharaonis manebant",
+        "Terram hereditate accepit"
+      ],
+      "answer": "Ob fidem supplicio affectus, Paradisum promisit"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

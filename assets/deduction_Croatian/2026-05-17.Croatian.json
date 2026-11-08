@@ -1,0 +1,61 @@
+{
+  "title": "Arhitekti od kamena",
+  "intro": "Zamislite moćnu civilizaciju, obdarenu snagom i vještinom, koja urezuje veličanstvene nastambe u planinske padine. Ovaj kolektiv posjedovao je golem prosperitet i jedinstvenu arhitektonsku vještinu. Pa ipak, unatoč jasnim upozorenjima, odabrali su put koji će ih dovesti do dramatičnog i nezaboravnog završetka. Možete li prepoznati ovu skupinu čija priča služi kao duboka lekcija svima koji razmišljaju?",
+  "clues": [
+    "Dobili smo snagu i vještinu, što nam je omogućilo da isklesamo veličanstvene domove direktno u planinama.",
+    "Dobili smo jasan znak od Allaha, jedinstveno stvorenje koje se smije ostaviti nesmetano da pase.",
+    "Naša zajednica postala je arogantna, osporavajući božansku poruku koju je donio glasnik među nama.",
+    "Urotili smo se da oštetimo čudesni znak, unatoč upozorenjima o strogoj kazni.",
+    "Prkosili smo naredbi da dopustimo posebnom stvorenju da pije iz našeg bunara svaki drugi dan.",
+    "Doživjeli smo razoran kraj, srušeni jednom, zastrašujućom eksplozijom nakon našeg prijestupa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko smo mi?",
+      "options": [
+        "Ljudi iz 'Ad",
+        "Ljudi iz Midjana",
+        "Ljudi slona",
+        "Ljudi iz Semuda",
+        "Ljudi Luta"
+      ],
+      "answer": "Ljudi iz Semuda"
+    },
+    "trial": {
+      "label": "Naše veliko suđenje/događaj",
+      "options": [
+        "Poplava koja je zahvatila zemlju",
+        "Cijepanje mora",
+        "Uništenje jednim udarom/povikom",
+        "Paljenje grada",
+        "Pretvaranje planine u prah"
+      ],
+      "answer": "Uništenje jednim udarom/povikom"
+    },
+    "location": {
+      "label": "Ključni element naše priče",
+      "options": [
+        "Zlatno tele",
+        "Čudesna deva",
+        "Gorući grm",
+        "Ptica koja govori",
+        "Veličanstveno prijestolje"
+      ],
+      "answer": "Čudesna deva"
+    },
+    "outcome": {
+      "label": "Naš konačni ishod",
+      "options": [
+        "Dodijeljeno mu je ogromno bogatstvo i moć",
+        "Uzdignut na proroka",
+        "Potpuno uništenje božanskom kaznom",
+        "Oprošteno nakon iskrenog pokajanja",
+        "Razasuti po zemlji da lutaju"
+      ],
+      "answer": "Potpuno uništenje božanskom kaznom"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

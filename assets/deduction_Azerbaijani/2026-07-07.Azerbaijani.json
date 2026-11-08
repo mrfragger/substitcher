@@ -1,0 +1,61 @@
+{
+  "title": "Uçurumdan Gələn Səs",
+  "intro": "Quranda səbir və İlahi mərhəmət haqqında bir hekayə açılır. Böyük bir şəhərə bir elçi göndərildi, lakin onların xalqı xəbərdarlığı rədd etdi və həqiqəti inkar etdi. Məyusluq içində bu ruh getdi - yalnız coşğun dəniz tərəfindən sınandı və ən qaranlıq dərinliklərə batdı. Qaranlığın qarnından təvazökar bir yalvarış gəldi və Ən Rəhmli Allah cavab verdi. Yüz mindən çox insanın iman gətirəcəyi, dəyişmiş bu ruh kimdir?",
+  "clues": [
+    "Məni əhalisi iman yolundan azmış böyük bir şəhərə xəbərdarlıq edən göndərdilər.",
+    "Mən xalqımı dəfələrlə həqiqətə çağırdım, amma onlar mənim mesajımı lağa qoyub rədd etdilər.",
+    "İcazə verilməmişdən əvvəl onlardan əsəbi şəkildə ayrıldım və açıq dənizə tərəf yola düşdüm.",
+    "Böyük bir fırtına qopdu və mən dənizə atıldım, sonra isə nəhəng bir dəniz məxluqu tərəfindən tamamilə uduldum.",
+    "Qaranlıq təbəqələrində — okeanın dərinliklərində, məxluqatın qarnında və dərin dəniz dibində — mən fəryad etdim: “Səndən başqa tanrı yoxdur. Sən pak və müqəddəssən. Mən zalımlardan idim”.",
+    "Allah məni dərinliklərdən xilas etdi və mən qayıdanda yüz mindən çox xalqım həqiqəti qəbul etmişdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yunus peyğəmbər",
+        "Musa peyğəmbər (Musa)",
+        "İbrahim peyğəmbər (İbrahim)",
+        "Zəkəriyyə peyğəmbər (Zəkəriyyə)",
+        "İdris peyğəmbər (Xanok)"
+      ],
+      "answer": "Yunus peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Nəhəng bir dəniz canlısı tərəfindən udulur",
+        "Bir zalım və onun sehrbazları ilə qarşılaşmaq",
+        "Qəzəbli bir padşah tərəfindən alovlanan oda atılmaq",
+        "Qoca və aciz ikən bir oğul xəbəri eşitmək",
+        "Dağıdıcı daşqın nəticəsində məhv olan bir millətin şahidi olmaq"
+      ],
+      "answer": "Nəhəng bir dəniz canlısı tərəfindən udulur"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Okeanın dərinliklərindəki nəhəng dəniz canlısının qarnı",
+        "Qısır bir vadidə dağlarla əhatə olunmuş müqəddəs bir ev",
+        "Sərin və dinc hala gətirilmiş alovlu bir od",
+        "Axan çayları və kölgəsi olan möhtəşəm bir bağ",
+        "Dağın zirvəsində dayanan nəhəng bir gəmi"
+      ],
+      "answer": "Okeanın dərinliklərindəki nəhəng dəniz canlısının qarnı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Qaranlıqdan qurtuldu; böyük bir izdiham iman etdi",
+        "Alovlar soyuyaraq yanan bir oddan qurtuldu",
+        "Güclü bir millətin lideri oldu və onları zülmdən azad etdi",
+        "İllərdir dua etdikdən sonra qocalıqda bir uşaq bəxş edildi",
+        "Böyük bir hikmət, bir səltənət və küləklər və cinlər üzərində hökmranlıq verilmişdir"
+      ],
+      "answer": "Qaranlıqdan qurtuldu; böyük bir izdiham iman etdi"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

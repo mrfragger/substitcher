@@ -1,0 +1,61 @@
+{
+  "title": "Der verschleierte Verschwörer",
+  "intro": "Du befindest dich in der Gegenwart einer mächtigen Gestalt aus der Zeit der Offenbarung. Diese Person war für ihren Intellekt, ihren Reichtum und ihren hohen Status unter ihrem Volk bekannt. Als die deutlichen Zeichen erschienen, erkannten sie die Schönheit, wählten aber den Widerstand statt der Unterwerfung. Was trieb diese Seele an, im Verborgenen zu intrigieren, und was war ihr endgültiges Schicksal?",
+  "clues": [
+    "Ich war mit reichlich Ressourcen und Einfluss gesegnet, was dazu führte, dass meine Worte in den Versammlungen Gewicht hatten.",
+    "Als die Worte des Göttlichen rezitiert wurden, konnte ich ihre Beredsamkeit nicht leugnen, aber mein Stolz erlaubte es mir nicht, mich zu unterwerfen.",
+    "Ich versammelte meine Berater und zog mich zurück, um über eine Möglichkeit nachzudenken, die Botschaft zu diskreditieren.",
+    "Nach reiflicher Überlegung erklärte ich es zu nichts anderem als „aus der Vergangenheit überlieferter Zauber“, um Menschen abzuschrecken.",
+    "Die Offenbarung richtete sich dann direkt an mich: „Lass mich mit demjenigen allein, den ich erschaffen habe.“ Ich wurde wegen meiner Intrigen angeprangert.",
+    "Bald schon wird mich eben jenes Feuer, vor dem ich gewarnt wurde, an der Stirnlocke packen, und es wird kein Entrinnen mehr geben."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Sie verschworen sich, den Propheten zu ermorden",
+        "Führte einen Boykott gegen Muslime an.",
+        "Er berief einen Rat ein, um den Koran als Magie zu brandmarken.",
+        "Sie planten, den Propheten aus Mekka zu vertreiben.",
+        "Er weigerte sich, seinen Reichtum mit Waisenkindern zu teilen."
+      ],
+      "answer": "Er berief einen Rat ein, um den Koran als Magie zu brandmarken."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Offenbarung",
+        "Der Rat",
+        "Die Stirnlocke",
+        "Der Reichtum",
+        "Der Stift"
+      ],
+      "answer": "Die Stirnlocke"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Er bereute und konvertierte zum Islam.",
+        "Er wanderte nach Abessinien aus.",
+        "Er wurde von einer tödlichen Krankheit befallen.",
+        "Er starb im Kampf gegen Muslime.",
+        "Er wurde zur Hölle verdammt"
+      ],
+      "answer": "Er wurde zur Hölle verdammt"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umnxusi Wendawo Engcwele",
+  "intro": "Ebusuku obuthule, umphefumulo ozinikele wabiza uMuntu Onomusa ngaphakathi kwezindonga ezingcwele zendawo engcwele. Iminyaka yokholo oluqinile nokubekezela yayizovuzwa ngesimangaliso esasizoletha injabulo kanye nefa lobuprofethi.",
+  "clues": [
+    "Ngachitha izinsuku zami nobusuku bami ngizinikele endlini engcwele engcwele, ngithandaza njalo eNkosini yami.",
+    "Ngaguga, kanti umkami wayeyinyumba, kodwa angizange ngilahle ithemba ngesihe sika-Allah.",
+    "Nganikwa indodana, egama layo linguYahya, eyaba umprofethi kanye nesibani sokulunga.",
+    "Nami ngangingumprofethi, ngithunywe ukuzoqondisa abantwana bakwa-Israyeli.",
+    "Ngangingowozalo loMprofethi uHarun futhi ngangikhonza njengompristi eThempelini.",
+    "Ngaphathiswa ukunakekela uMaryam, unina ka-Isa, futhi ngabona izimangaliso zakhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uZakariya",
+        "Umprofethi uYahya",
+        "Umprofethi u-Ilyas",
+        "Umprofethi u-Ishaq",
+        "Umprofethi uYa'qub"
+      ],
+      "answer": "Umprofethi uZakariya"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Waphiwa indodana esekhulile",
+        "Ngisindiswe emlilweni ovuthayo",
+        "Usindiswe esiswini senhlanzi",
+        "Wasinda esikhukhuleni esikhulu",
+        "Ukwelashwa kwesifo esibi kakhulu"
+      ],
+      "answer": "Waphiwa indodana esekhulile"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "I-Mihrab (indawo yokuthandaza)",
+        "I-Kaaba",
+        "Isihlahla Esivuthayo",
+        "Umphongolo Wesivumelwano",
+        "Umhume Wabalele Abayisikhombisa"
+      ],
+      "answer": "I-Mihrab (indawo yokuthandaza)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wanikezwa indodana elungile eyaba umprofethi",
+        "Kubhujiswe yisiphepho esinamandla",
+        "Ukuminza olwandle",
+        "Ngisindiswe ekushisweni",
+        "Babuyela kubantu babo ngemuva kokusindiswa enhlanzini"
+      ],
+      "answer": "Wanikezwa indodana elungile eyaba umprofethi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

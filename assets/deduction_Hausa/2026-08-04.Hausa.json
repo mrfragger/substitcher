@@ -1,0 +1,61 @@
+{
+  "title": "Echo Ta Cikin Dutsen",
+  "intro": "Ka yi tunanin wani kwari inda ake sassaka gidaje daga duwatsu, kuma iska tana ɗauke da tunawa da gargaɗin da ba a yi la'akari da shi ba. Mutane sun taɓa bunƙasa a nan, suna da albarka amma suna da taurin kai, har sai da wata alama ta fito daga dutsen da suka amince da shi.",
+  "clues": [
+    "Mu mutane ne da ke sassaka gidaje masu tsaro daga tsaunuka, muna jin aminci a gidajenmu masu duwatsu.",
+    "Mun zauna a ƙasar da ke da fili da dutse, albarkar lambuna da maɓuɓɓugan ruwa.",
+    "Wani manzo daga cikinmu ya zo, yana kiranmu mu bar allolin ƙarya mu bauta wa Mahalicci Ɗaya na gaskiya.",
+    "Mun sanya wa kanmu wani sharaɗi na imani da girman kai: wata alama ta musamman da za ta fito daga duwatsun da muka sassaka.",
+    "Lokacin da raƙumin da aka yi alkawari ya bayyana daga dutsen, wata alama bayyananna, manyanmu har yanzu sun ƙi kuma sun sassare ta duk da gargaɗin da aka yi na wata mummunar makoma.",
+    "Kwana uku bayan aikinmu, wata ƙara mai ƙarfi ta yi ƙara a cikin kwarin, kuma muka zama tarkacen da suka faɗi, gidajenmu kuma kaburburanmu ne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Mutanen ¿Ad",
+        "Mutanen Samudawa",
+        "Mutanen Madyana",
+        "Mutanen Daji",
+        "Mutanen Kogo"
+      ],
+      "answer": "Mutanen Samudawa"
+    },
+    "trial": {
+      "label": "Gwajinmu/Babban Taronmu",
+      "options": [
+        "Raƙumin raƙumin Allah",
+        "Bautar ɗan maraƙin zinariya",
+        "Karya Asabar",
+        "Gina hasumiya zuwa sama",
+        "Kashe annabawa"
+      ],
+      "answer": "Raƙumin raƙumin Allah"
+    },
+    "location": {
+      "label": "Muhimmin Abu a Labarinmu",
+      "options": [
+        "Raƙumar Allah",
+        "Ma'aikatan Musa",
+        "Jirgin Nuhu",
+        "Farin hannun Musa",
+        "Tsuntsun ¿Isa"
+      ],
+      "answer": "Raƙumar Allah"
+    },
+    "outcome": {
+      "label": "Sakamakonmu",
+      "options": [
+        "Lalacewa ta hanyar wani abu mai ƙara ta'azzara",
+        "Ruwan sama mai duwatsu daga sama",
+        "Ambaliyar ruwa da ta mamaye duniya",
+        "Iska mai ƙarfi da ta rusa mu",
+        "Ƙasa ta haɗiye mu"
+      ],
+      "answer": "Lalacewa ta hanyar wani abu mai ƙara ta'azzara"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

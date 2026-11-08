@@ -1,0 +1,61 @@
+{
+  "title": "Testul Creaturii Sacre",
+  "intro": "Un semn a fost trimis unei națiuni care se rătăcise. În mijlocul vieții lor confortabile, a venit un avertisment - însoțit de o creatură remarcabilă care avea să devină testul suprem al credinței lor. Răspunsul lor avea să le pecetluiască soarta pentru totdeauna. Poți descoperi cine a transmis acest avertisment și ce s-a întâmplat cu cei care l-au respins?",
+  "clues": [
+    "Am fost un popor care fusese călăuzit de mesageri anteriori.",
+    "O creatură magnifică a ieșit din munte, un semn de la Domnul nostru pentru această națiune.",
+    "Le-am spus: „Aceasta este o cămilă a lui Allah, așa că lăsați-o să mănânce din pământul lui Allah și nu o atingeți cu rău.”",
+    "Dar oamenii mi-au tăiat femelele cămilei, sfidând porunca Domnului lor.",
+    "Eu sunt doar un mesager de la Domnul tău, trimis cu adevărul – sunt un profet și un slujitor demn de încredere.",
+    "Cât despre cei nelegiuiți, Domnul nostru i-a lovit cu un zgomot de tunet și au rămas nemișcați în casele lor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Hud al oamenilor din A'ad",
+        "Profetul Salih al poporului din Thamud",
+        "Profetul Șu'aib din Madian",
+        "Profetul Lut al locuitorilor Sodomei",
+        "Profetul Nuh al Arcei"
+      ],
+      "answer": "Profetul Salih al poporului din Thamud"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Potopul care a înecat o națiune necredincioasă",
+        "Cutremurul care a distrus un oraș păcătos",
+        "Cămila trimisă ca semn și test divin",
+        "Furtuna care i-a pedepsit pe locuitorii Madianului",
+        "Distrugerea poporului lui Lot cu pietre"
+      ],
+      "answer": "Cămila trimisă ca semn și test divin"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Orașul Sodoma din Valea Iordanului",
+        "Valea Al-Hijr dintre Hijaz și Siria",
+        "Străvechiul ținut A'ad din sudul Arabiei",
+        "Pădurile din Madian, lângă Marea Roșie",
+        "Câmpiile Muntelui Judi din Mesopotamia"
+      ],
+      "answer": "Valea Al-Hijr dintre Hijaz și Siria"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Ei au fost mântuiți după ce s-au pocăit și au crezut",
+        "O ploaie de pietre i-a distrus complet",
+        "Un sunet asurzitor i-a lăsat nemișcați",
+        "Au fost luați de un vânt puternic",
+        "Un cutremur i-a înghițit în pământ"
+      ],
+      "answer": "Un sunet asurzitor i-a lăsat nemișcați"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

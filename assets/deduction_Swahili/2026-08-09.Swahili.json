@@ -1,0 +1,61 @@
+{
+  "title": "Sauti ya Kweli ya Nyakati za Kale",
+  "intro": "Kuna nafsi katika Quran ambayo hadithi yake imesimuliwa katika mistari michache tu, lakini sifa zao nzuri zinaonekana waziwazi. Akisifiwa na Mwenyezi Mungu kwa wema maalum, mtumishi huyu wa kale wa Mwenye Rehema ana nafasi katika kurasa za ufunuo. Kazi yako ni kumtambua mtu huyu wa ajabu. Je, unaweza kukisia ni akina nani?",
+  "clues": [
+    "Mimi ni nabii wa Mwenyezi Mungu niliyeishi miongoni mwa vizazi vya mwanzo vya wanadamu.",
+    "Mwenyezi Mungu alinitaja katika Kitabu Chake pamoja na manabii wengine, wote wakisifiwa kwa wema uleule.",
+    "Nimeelezewa kama mtu wa ukweli katika Quran.",
+    "Mwenyezi Mungu aliniinua hadi kwenye daraja la juu ambalo wengine wachache wamefikia.",
+    "Jina langu limetajwa katika Surah Al-Anbiya, pamoja na manabii wengine wawili waliosifiwa kwa uvumilivu wao.",
+    "Mimi ni Idris, nabii mkweli na mtukufu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Idris",
+        "Nabii Nuh",
+        "Nabii Ibrahimu",
+        "Nabii Musa",
+        "Nabii Ismail"
+      ],
+      "answer": "Nabii Idris"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kudumisha uvumilivu na ukweli, kisha kuinuliwa hadi cheo cha juu",
+        "Kujenga safina kubwa ili kuwaokoa waumini kutokana na mafuriko makubwa",
+        "Kutupwa kwenye moto unaowaka na kujitokeza bila madhara kabisa",
+        "Kukabiliana na mfalme mwenye nguvu na kushinda jeshi lake la wachawi",
+        "Kuishi ndani ya tumbo la samaki mkubwa katika vilindi vya bahari"
+      ],
+      "answer": "Kudumisha uvumilivu na ukweli, kisha kuinuliwa hadi cheo cha juu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Cheo cha juu na cha juu kutoka kwa Mwenyezi Mungu",
+        "Meli kubwa iliyojengwa kwa mbao na kutupwa kwa lami",
+        "Moto mkali uliochochewa na waabudu sanamu wa mfalme mwovu",
+        "Bahari kubwa iliyogawanyika katika njia kavu",
+        "Tumbo jeusi la nyangumi mkubwa chini ya bahari"
+      ],
+      "answer": "Cheo cha juu na cha juu kutoka kwa Mwenyezi Mungu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuingizwa katika rehema ya Mwenyezi Mungu kama mmoja wa watu wema",
+        "Kuokolewa pamoja na waumini wote kutokana na gharika ya duniani kote",
+        "Nilitoka kwenye miali ya moto bila kuguswa na moto",
+        "Aliwaongoza Wana wa Israeli salama hadi uhuru kuvuka bahari",
+        "Wameungana tena na familia yao wapendwa baada ya miaka mingi ya shida"
+      ],
+      "answer": "Kuingizwa katika rehema ya Mwenyezi Mungu kama mmoja wa watu wema"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

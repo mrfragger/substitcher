@@ -1,0 +1,61 @@
+{
+  "title": "La folie des grandes ambitions",
+  "intro": "Partez à la découverte de l'identité d'une entité collective dont les projets audacieux ont connu une fin aussi inattendue que tragique. Ce récit nous rappelle avec force la puissance divine et la fragilité du pouvoir terrestre face au sacré. Percez le mystère de ce groupe, dont l'histoire est inscrite dans le Coran comme un avertissement pour tous ceux qui cherchent à transgresser les préceptes divins.",
+  "clues": [
+    "Nous nourrissions une grande ambition, persuadés que notre puissance était sans égale, et nous nous sommes lancés dans un voyage avec un objectif clair et destructeur.",
+    "Notre chef, plein d'arrogance, a cherché à profaner une Maison sacrée vénérée par beaucoup, dans le but de détourner les pèlerins vers un édifice que nous avions construit.",
+    "Venu d'une terre lointaine, nous avons marché avec une force massive, confiants dans notre capacité à démanteler l'édifice antique de la Ville Sainte.",
+    "Notre armée était formidable, menée par des créatures magnifiques, un spectacle rarement, voire jamais, vu lors d'une telle campagne par les habitants du pays que nous avons envahi.",
+    "Lorsque nous sommes arrivés à destination, une intervention divine s'est produite ; de petites créatures ailées sont apparues et nous ont bombardés de pierres d'argile cuite.",
+    "Notre expédition tout entière a connu une fin dévastatrice, laissant nos forces formidables anéanties, comme de la paille mâchée, notre grand projet réduit en poussière."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple de Thamud",
+        "Les gens de 'Ad",
+        "Les habitants de Sodome",
+        "Le peuple de l'éléphant",
+        "Les gens du jardin"
+      ],
+      "answer": "Le peuple de l'éléphant"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le Grand Déluge",
+        "La campagne contre la Kaaba",
+        "La destruction des idoles",
+        "La séparation de la mer",
+        "Le tremblement de terre de Madian"
+      ],
+      "answer": "La campagne contre la Kaaba"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "La Kaaba",
+        "Le veau d'or",
+        "Le feu"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Salut divin",
+        "Une longue période de prospérité",
+        "Conversion à l'islam",
+        "Destruction totale",
+        "Exilés de leur terre"
+      ],
+      "answer": "Destruction totale"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

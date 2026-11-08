@@ -1,0 +1,61 @@
+{
+  "title": "La Arkitektoj de Ŝtono",
+  "intro": "Imagu potencan civilizon, dotitan per forto kaj lerteco, ĉizante grandiozajn loĝejojn en montflankojn. Ĉi tiu kolektivo posedis grandegan prosperon kaj unikan arkitekturan lertecon. Tamen, malgraŭ ricevado de klaraj avertoj, ili elektis vojon, kiu kondukus al drama kaj neforgesebla konkludo. Ĉu vi povas identigi ĉi tiun grupon, kies rakonto servas kiel profunda leciono por ĉiuj, kiuj pripensas?",
+  "clues": [
+    "Ni ricevis forton kaj lertecon, kiuj ebligis al ni ĉizi belegajn domojn rekte en la montojn.",
+    "Ni ricevis klaran signon de Alaho, unikan estaĵon, kiun oni lasu neĝenata por paŝti.",
+    "Nia komunumo fariĝis aroganta, defiante la dian mesaĝon alportitan de mesaĝisto el inter ni.",
+    "Ni konspiris por damaĝi la miraklan signon, malgraŭ la avertoj pri severa puno.",
+    "Ni spitis la ordonon lasi la specialan estaĵon trinki el nia puto alternajn tagojn.",
+    "Ni renkontis detruigan finon, trafitaj de ununura, terura eksplodo post nia ago de malobeo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "Homoj de 'Ad",
+        "Homoj de Midjan",
+        "Homoj de la Elefanto",
+        "Homoj de Thamud",
+        "Homoj de Lut"
+      ],
+      "answer": "Homoj de Thamud"
+    },
+    "trial": {
+      "label": "Nia Grava Testo/Okazaĵo",
+      "options": [
+        "La inundo kiu englutis la teron",
+        "La disiĝo de la maro",
+        "La detruo per ununura eksplodo/kriego",
+        "La brulado de urbo",
+        "La transformiĝo de monto en polvon"
+      ],
+      "answer": "La detruo per ununura eksplodo/kriego"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento en Nia Rakonto",
+      "options": [
+        "Ora bovido",
+        "Mirakla kamelo",
+        "Brulanta arbusto",
+        "Parolanta birdo",
+        "Majesta trono"
+      ],
+      "answer": "Mirakla kamelo"
+    },
+    "outcome": {
+      "label": "Nia Finfina Rezulto",
+      "options": [
+        "Donita grandegan riĉecon kaj potencon",
+        "Levita al profeteco",
+        "Kompleta neniigo per dia puno",
+        "Pardonita post sincera pento",
+        "Disĵetitaj tra la tero por vagi"
+      ],
+      "answer": "Kompleta neniigo per dia puno"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

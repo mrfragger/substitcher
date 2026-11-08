@@ -1,0 +1,61 @@
+{
+  "title": "Sakonetik datorren negarra",
+  "intro": "Errukitsuenaren zerbitzari bat nazio burugogor batekin nazkatuta geratu zen eta baimena eman aurretik alde egin zuen. Pertsona hau inoiz gizakirik egon ez zen leku batean amaitu zen, non Jainkoarekiko deiak modu bitxian oihartzuna duen iluntasun geruzen artean. Ahulduta baina eraldatuta aterata, arima hau pazientziaren, damu zintzoaren eta Sortzailearen erruki mugagabearen ikasgai betiereko bihurtu zen. Argitu al dezakezu misterioa?",
+  "clues": [
+    "Mezulari gisa bidali ninduten nire herriari, baina sinesgaiztasunean muga guztiak gainditu zituzten eta ez zuten entzun nahi izan.",
+    "Haserretu egin nintzen haien arbuioarekin eta nire herriarengandik ihes egin nuen Alaren agindua iritsi baino lehen.",
+    "Ontzi batera igo nintzen, edukiera gainditzen zuena, eta zozketa egin genuen itsasora nor botako zen erabakitzeko.",
+    "Itsaso haserre horretara bota ninduten eta arrain handi batek irentsi ninduen.",
+    "Hiru iluntasun geruzatan harrapatuta —sabelean, itsaso sakonean eta beheko lurran—, damu zintzoz dei egin nion nire Jaunari.",
+    "Arrainen artetik kostaldera irten nintzen, ahul eta nekatuta, eta kuia landare bat hazi zitzaidan gainean. Nire herriak, ehun mila edo gehiagok, azkenean sinetsi zuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yunus profeta",
+        "Ayyub profeta",
+        "Yusuf profeta",
+        "Musa profeta",
+        "Sulaiman profeta"
+      ],
+      "answer": "Yunus profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Arrain handi batek irentsi du",
+        "Su bizian botata.",
+        "Putzu baten hondoan harrapatuta",
+        "Uholde handi batek gainezka eginda",
+        "Errege batek bidegabeki espetxeratua"
+      ],
+      "answer": "Arrain handi batek irentsi du"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arrain handi baten sabela",
+        "Kaaba ondoko haran sakratua",
+        "Mendi baten gainean dagoen arka bat",
+        "Suge bihurtu zen makila",
+        "Handitasun paregabeko tronua"
+      ],
+      "answer": "Arrain handi baten sabela"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bere herriak, ehun mila edo gehiagok, sinetsi zuten",
+        "Zeruetara bizirik altxatuta",
+        "Erresuma paregabeko agintari bihurtu zen",
+        "Zerutik datorren oihu zorrotz batek suntsitu zuen",
+        "Lurrikara suntsitzaile batek irauli zuen"
+      ],
+      "answer": "Bere herriak, ehun mila edo gehiagok, sinetsi zuten"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ennennäkemättömän synnin airut",
+  "intro": "Jotkut Koraanin kertomukset paljastavat, kuinka syvään korruptioon kokonainen yhteiskunta voi vajota. Tämä sanansaattaja seisoi yksin ja pyysi kansaa, joka oli hukkunut perversioon, jota yksikään kansakunta ennen heitä ei ollut koskaan harjoittanut. Vuosien varoituksista huolimatta sydämet pysyivät paatuneina, ja jumalallinen päätös saapui mitä kauhistuttavimmalla tavalla. Voitko tunnistaa tämän jalon Allahin lähettilään?",
+  "clues": [
+    "Minut lähetettiin varoittajaksi kansalle, jota vaivaa sellainen turmelus, jollaista ei yksikään kansa ennen heitä ollut tehnyt.",
+    "Kansani haukkui minua valehtelijaksi ja uhkasi karkottaa minut ja seuraajani maasta.",
+    "Kunniavieraita tuli kotiini lakkoilevien nuorten miesten muodossa, ja tunsin syvää ahdistusta heidän turvallisuudestaan.",
+    "Kansani vaati, että luovutan vieraani heille, tietämättä että nämä vierailijat olivat Allahin lähettämiä enkeleitä.",
+    "Oma puolisoni ei jakanut uskoani ja päätti jäädä tuhoon tuomittujen pariin.",
+    "Minut ja tyttäreni pelastettiin aamunkoitteessa, kun tuhoisa kivisade iski ja kaupunkimme tuhoutuivat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Lut",
+        "Profeetta Shu'aib",
+        "Profeetta Hud",
+        "Profeetta Nooa",
+        "Profeetta Salih"
+      ],
+      "answer": "Profeetta Lut"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri tulva peittää maan",
+        "Näön menetys pitkäaikaisesta kärsimyksestä",
+        "Jumaluuttaan väittävä tyranni",
+        "Heitetään liekehtivään tuleen",
+        "Vaaditaan luovuttamaan kunniavieraita"
+      ],
+      "answer": "Vaaditaan luovuttamaan kunniavieraita"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Suuri, käsin rakennettu arkki",
+        "Sauva, joka halkaisi meren",
+        "Ihmeellinen naaraskameli",
+        "Liekehtivä tuli",
+        "Kaatuneet kaupungit"
+      ],
+      "answer": "Kaatuneet kaupungit"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hukkui uskovia takaa ajaessaan",
+        "Pelastui tulisen uunin läpi vahingoittumattomana",
+        "Nostettu elossa taivaisiin",
+        "Perhe menehtyi suuressa tulvassa",
+        "Perhe pelastui uskotonta vaimoa lukuun ottamatta"
+      ],
+      "answer": "Perhe pelastui uskotonta vaimoa lukuun ottamatta"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

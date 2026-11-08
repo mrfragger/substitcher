@@ -1,0 +1,61 @@
+{
+  "title": "Flamma Quae Hereditatem Nudavit",
+  "intro": "In annalibus resistentiae, stat persona cuius nomen ipsum monitio facta est usque ad finem temporum. Hic homo inimicitiam prae cognatione, contumaciam prae oboedientia elegit, et vocationi misericordiae obstitit. Diligenter ausculta resonantiae proclamationis antiquae dum identitatem huius animae infamis detegimus.",
+  "clues": [
+    "In eadem gente natus sum ac ultimus nuntius Allah, tamen eis omni momento adversus steti.",
+    "Nomen meum significationem habebat—nomen significans 'pater flammae', nomen quod fatum meum aeternum praenuntiaret.",
+    "Noxium in latorem veritatis inieci, et etiam mea familia huic crudelitatis consilio se iunxit.",
+    "Divitiis meis et auctoritate usus sum ad vocationem ad Allah silendam, credens pecuniam lucem divinam extinguere posse.",
+    "Allah mihi totum caput dedicavit — caput tam breve ut intra secundas recitari possit, tamen pondus eius usque ad Diem Iudicii manet.",
+    "Comes meus in post mortem me postcedit, fune fibris circa collum vinctus, spinas easdem portans quas olim spargebant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definitio Conflictus",
+      "options": [
+        "Ducens oppositionem contra Prophetam in Mecca",
+        "Migratio in Abyssiniam ad persecutionem vitandam",
+        "Kaaba cum Propheta Ibrahim aedificanda",
+        "Islam in lecto mortis acceptans",
+        "Foedus Hudaybiyyah fingens"
+      ],
+      "answer": "Ducens oppositionem contra Prophetam in Mecca"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Uxor quae spinas et ligna portabat",
+        "Baculus qui in serpentem transformatus est",
+        "Anulus sigillum Salomonis ferens",
+        "Vitulus aureus a populo adoratus",
+        "Fons qui aquam erupit"
+      ],
+      "answer": "Uxor quae spinas et ligna portabat"
+    },
+    "outcome": {
+      "label": "Ratio Finalis",
+      "options": [
+        "Tota sura revelata ruinam totalem declarans",
+        "Dux communitatis Musulmanae factus est",
+        "Veniam in momento mortis accepit",
+        "Magnam meschitam Medinae aedificavit",
+        "Resurrectus est inter iustos"
+      ],
+      "answer": "Tota sura revelata ruinam totalem declarans"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

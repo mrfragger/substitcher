@@ -1,0 +1,61 @@
+{
+  "title": "Lêgerînerê Bêsebir ê Rastiyê",
+  "intro": "Di demekê de ku bi nezanî û perestina xwedayên derewîn ve hatibû dorpêçkirin, rêwîtiyek kûr a baweriyê dest pê kir. Vê kesê normên civaka xwe xist ber pirsê, bi baweriyeke bêdawî li Yek Afirînerê Rastîn digeriya. Xwe amade bikin ku nasnameya giyanekî eşkere bikin ku mîrateya wî hîn jî bi mîlyonan kesan îlham dike.",
+  "clues": [
+    "Min ji laşên ezmanî pirsî, li Xudanê rastîn ê ku her tiştî diafirîne û diparêze digeriyam.",
+    "Ferman li min hat kirin ku ez welatê xwe biterikînim û ber bi welatekî ku Xwedê ew bereket kiriye ve biçim.",
+    "Min pûtên gelê xwe dan ber pirsan, bi şikandina wan rasterast bi bêwateya wan re rûbirû bûm.",
+    "Ez ji aliyê gelê xwe ve hatim avêtin nav agirê kelecanî, lê bi fermana Xwedê ji bo min sar û aram bû.",
+    "Ez bi fermana qurbankirina kurê xwe yê delal ê pêşî, ceribandinek teslîmbûna dawî, hatim ceribandin.",
+    "Min û kurê xwe, bingehên Mala Îbadetê ya yekem li ser Erdê, ku cihekî pîroz ji bo hemû mirovahiyê ye, danîn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Nûh",
+        "Pêxember Yûsif",
+        "Pêxember Salih",
+        "Pêxember Îbrahîm",
+        "Pêxember Îsa"
+      ],
+      "answer": "Pêxember Îbrahîm"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Lehiya mezin",
+        "Parçekirina deryayê",
+        "Wêrankirina Semudê",
+        "Fermana qurbankirina kurekî",
+        "Rêwîtiya bi Keştiyê re di nav çolê re"
+      ],
+      "answer": "Fermana qurbankirina kurekî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Karmend",
+        "Çiyayê Tur",
+        "Keşti",
+        "Kebe",
+        "Golika Zêrîn"
+      ],
+      "answer": "Kebe"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bû serwerê Misirê",
+        "Gelê wî xeniqîn",
+        "Aqil û rêzeke rast jê re hat dayîn",
+        "Ji aliyê balîneyekê ve hat daqurtandin",
+        "Bajarê wî hate wêrankirin"
+      ],
+      "answer": "Aqil û rêzeke rast jê re hat dayîn"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

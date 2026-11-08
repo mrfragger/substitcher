@@ -1,0 +1,60 @@
+{
+  "title": "O sono das idades",
+  "intro": "Estás a piques de embarcarte nunha viaxe a través do tempo, atopándote cun profundo misterio de fe e poder divino. Imaxina un grupo de individuos que desafiaron as normas da súa sociedade, aferrándose ao monoteísmo nun mundo de politeísmo. A súa historia é un testemuño da capacidade de Alá para protexer os seus servos xustos das maneiras máis extraordinarias. Podes desentrañar a identidade destas figuras extraordinarias?",
+  "clues": [
+    "Éramos un pequeno grupo de mozos que críamos nun só Deus, a pesar do politeísmo xeneralizado do noso pobo.",
+    "Fuximos dun gobernante tiránico que nos ameazaba pola nosa fe, temendo a persecución e a morte.",
+    "Buscamos refuxio nun lugar illado, agardando a misericordia de Alá e a súa protección contra os nosos opresores.",
+    "O noso Señor fíxonos caer nun sono profundo, un sono milagroso que desafiou o paso do tempo.",
+    "Cando espertamos, creíamos que só descansáramos un día ou parte dun día, sen decatármonos do vasto período que realmente transcorrera.",
+    "O Corán menciona que permanecemos no noso estado durante trescentos anos, e superámolos en nove, converténdose nun sinal para a humanidade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A xente da gabia",
+        "A xente de Thamud",
+        "A xente da cova",
+        "A xente de Madyan",
+        "Os compañeiros do elefante"
+      ],
+      "answer": "A xente da cova"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Enfrontándose a unha gran inundación",
+        "Ser engulido pola terra",
+        "O longo sono milagroso",
+        "A destrución da súa cidade",
+        "A división do mar"
+      ],
+      "answer": "O longo sono milagroso"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha sarza ardente",
+        "Unha montaña",
+        "Un barco",
+        "Unha cova",
+        "Un pozo"
+      ],
+      "answer": "Unha cova"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Concedéronselles inmensas riquezas e poder",
+        "Transformáronse en monos e porcos",
+        "Foron espertados do sono como un sinal profundo",
+        "Afogáronse nun gran diluvio",
+        "Construíron un reino magnífico"
+      ],
+      "answer": "Foron espertados do sono como un sinal profundo"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

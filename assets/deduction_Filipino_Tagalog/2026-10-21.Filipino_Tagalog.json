@@ -1,0 +1,61 @@
+{
+  "title": "Ang Sugo na Humarap sa mga Mananamba sa Idolo",
+  "intro": "Sa panahong naligaw ng debosyon, isang mensahero ang bumangon na may panawagan upang bumalik sa pagsamba sa Panginoon ng mga sanlibutan. Ang pigurang ito ay nanindigan laban sa mga taong nakaugat sa pagsamba sa isang huwad na diyos, na nagpapaalala sa kanila ng kanilang tunay na Lumikha at ang Panginoon ng kanilang mga ninuno. Gayunpaman, ang mga tao ay naging pabaya at tinanggihan ang babala, na siyang nagtakda ng kanilang sariling kapalaran. Sino ang matibay na tagapagtawag na ito?",
+  "clues": [
+    "Ako ay isinugo sa mga taong tumalikod sa landas ng Nag-iisang Tunay na Diyos.",
+    "Tinanong ko ang aking mga kababayan, \"Hindi ba kayo natatakot kay Allah?\"",
+    "Tinawag ko sila na talikuran ang kanilang pagsamba sa isang huwad na diyos na nagngangalang Baal.",
+    "Tinanggihan ng aking bayan ang aking tawag at nagpatuloy sa kanilang pagsamba sa diyus-diyosan.",
+    "Dahil sa kanilang pagtanggi, tiyak na sila ay dadalhin para sa parusa.",
+    "Pinagkalooban ako ng aking Panginoon ng kapayapaan at isang pinagpalang alaala sa mga susunod na henerasyon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Ilyas",
+        "Propeta Yahya",
+        "Propeta Dhul-Kifl",
+        "Propeta Yusuf",
+        "Propeta Shu'ayb"
+      ],
+      "answer": "Propeta Ilyas"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Tinawag ang kaniyang bayan na talikuran si Baal",
+        "Gumawa ng arka upang iligtas ang mga mananampalataya",
+        "Itinapon sa apoy",
+        "Tumakas mula sa mapang-aping Paraon",
+        "Hinampas ang bato para maglabas ng tubig"
+      ],
+      "answer": "Tinawag ang kaniyang bayan na talikuran si Baal"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pinagkalooban ng kapayapaan at isang mapalad na alaala",
+        "Nilamon ng lupa",
+        "Nawasak ng isang malakas na bagyo",
+        "Naging bato",
+        "Nalunod sa dagat"
+      ],
+      "answer": "Pinagkalooban ng kapayapaan at isang mapalad na alaala"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

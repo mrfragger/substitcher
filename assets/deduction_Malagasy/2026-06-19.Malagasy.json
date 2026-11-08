@@ -1,0 +1,61 @@
+{
+  "title": "Ny fitsapana ny fanahy maharitra",
+  "intro": "Misy fanahy iray mijoro amin'ny fotoana fitsapana avy amin'Andriamanitra, mitady tari-dalana amim-panetren-tena. Ilay mahalala ny zava-drehetra dia mandroaka ity mpitady ity, ary avy eo dia manambara fa fitsapana ny fo izany. Amin'ny alalan'ity fifanakalozan-kevitra miafina ity, dia misy lesona momba ny fahendrena avy amin'Andriamanitra mivelatra eo anoloan'ireo izay misaintsaina. Azonao fantarina ve ity olona ity avy amin'ny fitantarana ao amin'ny CORAN?",
+  "clues": [
+    "Nitady fahalalana sy tari-dalana tamin'ny irak'Andriamanitra malala aho",
+    "Tonga nitady ny fahamarinana aho, niantso ny Mpaminany tamim-paniriana mafy",
+    "Nobedesina aho ary nolavina, satria ny fahendren'Andriamanitra dia nanana drafitra hafa ho an'io fotoana io",
+    "Kanefa tsy kivy aho—fa nanohy ny fikatsahako kosa aho",
+    "Ilay mahalala ny zava-drehetra dia nanambara fa fitsapana ny fo sy fampitandremana izany",
+    "Anisan'ireo izay ambaran'ny CORAN aho hoe: 'Nanjombona izy ary nihodina, satria nisy lehilahy jamba nanatona azy'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny mpihatsaravelatsihy mitady fisalasalana",
+        "Ilay Mpitady ny Fahamarinana Jamba",
+        "Ny Mpanompo Sampy tao Makkah",
+        "Ny tsy mpino maneso ny mpaminany",
+        "Ilay Mpandeha avy any Yemen"
+      ],
+      "answer": "Ilay Mpitady ny Fahamarinana Jamba"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nomelohin'ny Mpaminany Muhammad nandritra ny vavaka",
+        "Nosedraina tamin'ny hain-tany sy mosary tao Makkah",
+        "Voaroaka eo am-bavahadin'ny paradisa",
+        "Nolavin'ny olona iray noho ny finoany",
+        "Voasedra amin'ny harena sy ny zanaka"
+      ],
+      "answer": "Nomelohin'ny Mpaminany Muhammad nandritra ny vavaka"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ao anatin'ny Kaaba mandritra ny vanim-potoanan'ny fivahiniana masina",
+        "Teo anatrehan'ny Mpaminany nandritra ny famakian-teny",
+        "Eo an-tampon'ny Tendrombohitra Safa mandritra ny ora maraina",
+        "Tao an-tsenan'i Makkah voahodidin'ny tsy mpino",
+        "Akaikin'ny fantsakan'i Zamzam mandritra ny Hajj"
+      ],
+      "answer": "Teo anatrehan'ny Mpaminany nandritra ny famakian-teny"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Novonoin'ny Quraysh ho maritiora noho ny finoany ilay mpitady",
+        "Noraketina ho fitsapana sy lesona ho an'ny Ummah ny zava-nitranga",
+        "Lasa namana sy mpitarika ilay mpitady",
+        "Nampitomboina avo folo heny ny harenan'ilay mpitady",
+        "Niverina tamin'ny tsy finoana ilay mpitady"
+      ],
+      "answer": "Noraketina ho fitsapana sy lesona ho an'ny Ummah ny zava-nitranga"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

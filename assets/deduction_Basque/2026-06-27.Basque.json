@@ -1,0 +1,61 @@
+{
+  "title": "Absentzia Sakratua",
+  "intro": "Denboraren dunen atzean, debozio sendo baten eta hain astun den konfiantza baten istorio bat dago, non hura zeraman arimak hautsi zezakeen. Jendea ergelkeriara eta urrerantz jo zuen une batean, figura bat tinko mantendu zen, atzera deituz, pazientzia eskatuz eta promesa sakratu baten pisua eramanez. Hau da laguntzaile, bisir eta fedearen zaindari gisa aukeratu zuten baten istorioa, absentzia sakratu batean. Arima tinko honen nortasuna asmatu al dezakezu?",
+  "clues": [
+    "Profeta handi baten odola partekatzen dut, mendi sakratu batean Alarekin zuzenean hitz egiteko aukeratua izan zena.",
+    "Behin, nire anai-arrebak Ala-ri laguntza eskatu zion zapaltzaile handi bati argi hitz egiteko.",
+    "Alak aukeratu ninduen nire anai-arrebaren ondoan laguntzaile eta bisir gisa egoteko.",
+    "Elkarrekin jainkoen artean goren deitzea eskatzen zuen agintari tirano bati aurre egin genion.",
+    "Nire anaiak mendian Ala-rekin komunikatzen ari zen bitartean, gure herriak idolo bat egin zuen beretzat bere urrearekin.",
+    "Moisesen anaia naiz, Alak bere bisir izendatua, Koranean izenez aipatzen dena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Harun (Aaron) profeta",
+        "Musa profeta",
+        "Dawud profeta",
+        "Yaqub profeta",
+        "Ishaq profeta"
+      ],
+      "answer": "Harun (Aaron) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Txahalen gurtzaren krisia",
+        "Nuh-eko Uholde Handia",
+        "Badr-eko gudua",
+        "Thamuden suntsipena",
+        "Sodomako suntsipena"
+      ],
+      "answer": "Txahalen gurtzaren krisia"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko Txahala",
+        "Noeren Arka",
+        "Sasi Erretzailea",
+        "Hirako kobazuloa.",
+        "Sabako Tronua"
+      ],
+      "answer": "Urrezko Txahala"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ala-k berretsitako errugabetasuna",
+        "Faraoiaren itotzea",
+        "Kaabaren eraikuntza",
+        "Itsasoaren zeharkaldi segurua",
+        "Zeruetara igotzea"
+      ],
+      "answer": "Ala-k berretsitako errugabetasuna"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

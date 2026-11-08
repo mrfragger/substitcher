@@ -1,0 +1,61 @@
+{
+  "title": "Ilkinji Günalaryň Jemgyýeti",
+  "intro": "Gadymy şäherleriň ýurdunda bir wagtlar bir halk gülläp ösüpdir. Olara aýdyň çagyryş bilen bir ilçi gelipdir, ýöne olar ýüz öwürip, hiç kimiň ýöremedik ýoluna düşüpdirler. Olaryň ertekisi garşylyk, azgynlyk we öz watanyny oýlanýanlaryň hemmesi üçin alamat hökmünde terk eden jeza baradadyr. Bu janlar kimler?",
+  "clues": [
+    "Biz pygamberimiziň bizi dogrulyga çagyran düzlük şäherlerinde ýaşadyk.",
+    "Biz dünýäde hiç kimiň öň etmedik biabraýçylygy ilkinji bolup edenler bolduk.",
+    "Biz syýahatçylary ýoldan çykardyk we ýygnaklarymyzda açyk ýamanlyk etdik.",
+    "Bize iberilen elçini ret etdik we ony öz topragymyzdan kowup çykarmak bilen haýbat atdyk.",
+    "Biz onuň öýüne ylgaşdyk we myhmanlaryny bize bermegini talap etdik.",
+    "Biziň jezamyz daş ýagyşy ýaly boldy, şäherimiz bolsa tersine öwrüldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Lut pygamberiň halky",
+        "Nuh pygamberiň halky",
+        "Ad halky",
+        "Semud halky",
+        "Madýan halky"
+      ],
+      "answer": "Lut pygamberiň halky"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ilkinji sodomiýa hereketini etdi",
+        "Sežde edilýän butlar",
+        "Söwdada aldanan",
+        "Pygamberini öldürdiler",
+        "Ata-enelerine gulak asmadylar"
+      ],
+      "answer": "Ilkinji sodomiýa hereketini etdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Düzlük şäheri",
+        "Guýunyň şäheri",
+        "Hendek şäheri",
+        "Pil şäheri",
+        "Bagyň şäheri"
+      ],
+      "answer": "Düzlük şäheri"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Daş ýagyp, agdaryldy",
+        "Suw joşmasy sebäpli gark boldy",
+        "Güýçli ýel bilen weýran boldy",
+        "Ýer tarapyndan ýuwudyldy",
+        "Güýçli partlama täsir etdi"
+      ],
+      "answer": "Daş ýagyp, agdaryldy"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

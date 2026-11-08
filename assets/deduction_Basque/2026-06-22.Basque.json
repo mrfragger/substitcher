@@ -1,0 +1,61 @@
+{
+  "title": "Ezkutuko Sinestuna",
+  "intro": "Boterearen areto oparotsuetan, sinesgaiztasuna eta tirania nagusi ziren lekuetan, egiaren ahots bakarti batek hitz egin zuen ustekabeko leku batetik. Figura honek mezulari bat babesteko agintaritzari erronka egin zion, bere segurtasuna arriskuan jarriz egia aldarrikatzeko.",
+  "clues": [
+    "Tirania handiko lurralde batean bizi nintzen, jainkotasuna aldarrikatzen zuen agintari bati zerbitzatzen.",
+    "Nire benetako sinesmenak ezkutuan eduki nituen urte askotan, agerian uztearen ondorioen beldurrez.",
+    "Mezulari bat seinale argiekin etorri zenean, sinetsi nuen, baina nire jendea haren aurka konspiratu zen.",
+    "Tiranoaren eta bere kontseiluaren aurrean zutik egon nintzen, mezulari errugabea ez hil behar zutela argudiatuz.",
+    "Noe eta Ad-en herria bezala, egia arbuiatu zuten iraganeko nazioen zigorraz ohartarazi nien.",
+    "Ala-k salbatu ninduen haien asmo gaiztoetatik, eta erregimen zapaltzailearen suntsipena ikusi nuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Faraoiaren familiako sinestuna",
+        "Faraoiaren magoa.",
+        "Faraoiaren bisirra",
+        "Faraoiaren emaztea.",
+        "Faraoiaren Diruzaina"
+      ],
+      "answer": "Faraoiaren familiako sinestuna"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Profeta bat exekuzioaren aurka defendatzea",
+        "Mago baten trikimailuak erronka egitea",
+        "Dorre bat eraikitzen zerura iristeko",
+        "Itsasoa irekiz ihes egiteko",
+        "Errege baten ametsa interpretatzea"
+      ],
+      "answer": "Profeta bat exekuzioaren aurka defendatzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Faraoiaren gortea.",
+        "Sasi erretzailea",
+        "Urrezko txahala",
+        "Madyanen putzua.",
+        "Nuh profetaren arka"
+      ],
+      "answer": "Faraoiaren gortea."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Kalteetatik salbatuta zapaltzaileak suntsitzen ziren bitartean",
+        "Agintari boteretsu bihurtu zen",
+        "Sutara bota eta onik atera zen",
+        "Lurrak irentsi zuen.",
+        "Berrogei urtez basamortuan ibili zen"
+      ],
+      "answer": "Kalteetatik salbatuta zapaltzaileak suntsitzen ziren bitartean"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

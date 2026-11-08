@@ -1,0 +1,61 @@
+{
+  "title": "Sadık Şahitler",
+  "intro": "İnancın ateşle sınandığı ve sarsılmaz inancın nihai direniş haline geldiği bir zamanı hayal edin. Kur'an'da anlatılan, ezici bir zulme karşı derin bir inancın öyküsünü konu alan bir grubun kimliğini ortaya çıkarmakla görevlendirildiniz. Bu ruhların kim olduklarını ve karşılaştıkları olağanüstü koşulları keşfetmek için ipuçlarını çözün.",
+  "clues": [
+    "İnancımızdan vazgeçmemiz için yapılan muazzam baskılara rağmen, inancımızda dimdik durduk.",
+    "Bizler, tek tanrıcılığın ışığını söndürmeyi amaçlayan güçlü bir hükümdarın hedefi olduk.",
+    "Büyük işaretlere ve mucizelere şahit olduk, fakat zalimlerimiz kayıtsız kaldılar.",
+    "Başkalarını boyun eğmeye zorlamak için tasarlanmış korkunç bir zulüm yöntemine maruz kaldık.",
+    "Bizler alevler içinde bir cehenneme atıldık, fakat metanetimiz bize Allah katında yüce bir makam kazandırdı.",
+    "Hikayemiz, göksel takımyıldızların adını taşıyan bir surede anlatılır ve müminlere zulmedenlerin başına gelecekler konusunda uyarıda bulunur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Thamud Halkı",
+        "'Ad Halkı",
+        "Hendek Halkı",
+        "Midyan Halkı",
+        "Fil Halkı"
+      ],
+      "answer": "Hendek Halkı"
+    },
+    "trial": {
+      "label": "Bize yapılan zulüm",
+      "options": [
+        "selde boğulmak",
+        "Yakıcı bir rüzgar tarafından yutulmak",
+        "Ateşli bir hendeğe atılmak",
+        "Yer tarafından yutulmak",
+        "Maymunlara dönüştürülmek"
+      ],
+      "answer": "Ateşli bir hendeğe atılmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "devasa bir sel",
+        "Büyük bir deprem",
+        "Derin, yanan bir hendek",
+        "Güçlü bir put",
+        "yıkıcı bir kuraklık"
+      ],
+      "answer": "Derin, yanan bir hendek"
+    },
+    "outcome": {
+      "label": "Nihai Kaderimiz",
+      "options": [
+        "Onlara yeryüzünde bir krallık verildi.",
+        "Mucizevi bir kurtuluş sayesinde kurtuldular.",
+        "Onlar şehitlik mertebesine ve ebedi ödüle eriştiler.",
+        "Farklı bir türe dönüştürüldüler.",
+        "Onlara muazzam bir zenginlik ve refah verildi."
+      ],
+      "answer": "Onlar şehitlik mertebesine ve ebedi ödüle eriştiler."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

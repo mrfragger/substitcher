@@ -1,0 +1,61 @@
+{
+  "title": "Starp Zemi un Debesīm",
+  "intro": "Dievišķās vēstures svētajās lappusēs tevi gaida noslēpumaina dvēsele, nesot zīmes un brīnumus, kas joprojām atbalsojas cauri gadsimtiem. Sekojot norāžu pēdām, tu dosies ceļojumā cauri stāstam, ko iezīmē brīnumi — no brīnumaina sākuma līdz pacelšanās debesīs. Vai vari atpazīt šo svētīto kalpu pirms pēdējās norādes?",
+  "clues": [
+    "Es tiku sūtīts kā vēstnesis pie Izraēla bērniem ar žēlastības un gaismas vēsti.",
+    "Mana dzimšana bija brīnumaina zīme — es ierados šajā pasaulē bez tēva, pēc Visvarenā pavēles.",
+    "Es runāju vēl būdama zīdainis, aizstāvot savas mātes godu pret viņas tautas apsūdzībām.",
+    "Ar Allāha atļauju es veidoju putnus no māla un iedvesu tajos dzīvību — tie aizlidoja to acu priekšā, kas tos vēroja.",
+    "Es dziedināju tos, kas dzimuši akli, izārstēju spitālīgos un pat augšāmcēlu mirušos — tomēr katrs brīnums bija ar Allāha atļauju, nevis manu paša.",
+    "Kad mani ienaidnieki plānoja mani iznīcināt, Allāhs pacēla mani debesīs un apsolīja manu atgriešanos pirms Tiesas dienas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Isa (Jēzus)",
+        "Pravietis Mūsa (Mozus)",
+        "Pravietis Ibrahims (Ābrahāms)",
+        "Pravietis Muhameds",
+        "Pravietis Jusufs (Jāzeps)"
+      ],
+      "answer": "Pravietis Isa (Jēzus)"
+    },
+    "trial": {
+      "label": "Noteicošais brīdis",
+      "options": [
+        "Es tiku pacelts debesīs",
+        "Mani iemeta liesmojošā ugunī",
+        "Es stājos pretī faraona varenajai armijai",
+        "Mani aprija liels valis",
+        "Es uzcēlu šķirstu kalnā"
+      ],
+      "answer": "Es tiku pacelts debesīs"
+    },
+    "location": {
+      "label": "Svētā zīme izpildīta",
+      "options": [
+        "Es veidoju putnus no māla",
+        "Es pārvērtu zizli par čūsku",
+        "Es sadalīju mēnesi divās daļās",
+        "Es pavēlēju vējam un džinam",
+        "Es no klints izcēlu kamieli mātīti"
+      ],
+      "answer": "Es veidoju putnus no māla"
+    },
+    "outcome": {
+      "label": "Kas ar mani notika",
+      "options": [
+        "Pacelts debesīs; apsolīts atgriezties",
+        "Kļuva par lielu impērijas valdnieku",
+        "Izvedu savu tautu no gūsta",
+        "Tika dota nepārspējama zemes bagātība",
+        "Pēc ilgas atšķirtības atkal satiku ģimeni"
+      ],
+      "answer": "Pacelts debesīs; apsolīts atgriezties"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

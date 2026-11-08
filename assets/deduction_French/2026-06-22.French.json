@@ -1,0 +1,61 @@
+{
+  "title": "Le croyant caché",
+  "intro": "Dans les fastueuses salles du pouvoir, où régnaient l'incrédulité et la tyrannie, une voix solitaire, porteuse de vérité, s'éleva d'un lieu inattendu. Cette figure osa défier l'autorité pour protéger un messager, risquant sa propre sécurité pour proclamer la vérité.",
+  "clues": [
+    "J'ai vécu dans un pays de grande tyrannie, au service d'un souverain qui se prétendait divin.",
+    "J'ai gardé mes véritables convictions secrètes pendant de nombreuses années, craignant les conséquences de leur révélation.",
+    "Quand un messager est venu avec des signes évidents, j'ai cru, mais mon peuple a conspiré contre lui.",
+    "Je me suis présenté devant le tyran et son conseil, plaidant qu'ils ne devaient pas tuer un messager innocent.",
+    "Je les ai avertis du châtiment des nations passées qui ont rejeté la vérité, comme le peuple de Noé et d'Ad.",
+    "Allah m'a sauvé de leurs complots maléfiques, et j'ai été témoin de la destruction du régime oppressif."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le croyant de la famille du pharaon",
+        "Le Magicien du Pharaon",
+        "Le vizir du pharaon",
+        "L'épouse du pharaon",
+        "Le trésorier du pharaon"
+      ],
+      "answer": "Le croyant de la famille du pharaon"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Défense d'un prophète contre l'exécution",
+        "Déjouer les tours d'un magicien",
+        "Construire une tour pour atteindre le ciel",
+        "Séparer la mer pour s'échapper",
+        "Interpréter le rêve d'un roi"
+      ],
+      "answer": "Défense d'un prophète contre l'exécution"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La cour du pharaon",
+        "Le buisson ardent",
+        "Le veau d'or",
+        "Le puits de Madyan",
+        "L'arche du prophète Noé"
+      ],
+      "answer": "La cour du pharaon"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Sauvés du danger tandis que les oppresseurs étaient détruits",
+        "Il devint un puissant dirigeant",
+        "A été jeté dans un feu et en est ressorti indemne.",
+        "A été englouti par la terre",
+        "Errant dans le désert pendant quarante ans"
+      ],
+      "answer": "Sauvés du danger tandis que les oppresseurs étaient détruits"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

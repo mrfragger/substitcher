@@ -1,0 +1,61 @@
+{
+  "title": "Postulatio Auctoritatis Absolutae",
+  "intro": "Temporibus antiquis, vir potens ad dominationem terrae vastae eiusque incolarum ascendit. Huius figurae regnum immensa superbia et profunda provocatione auctoritatis divinae insignitum est. Para te identitatem animae detegere, cuius fatum ultimum perennis lectio omnibus generationibus facta est.",
+  "clues": [
+    "Magnum imperium tenebam, ubi verbum meum lex erat.",
+    "Me summum deum declaravi, cultum ab omnibus sub imperio meo postulans.",
+    "Communitatem quandam oppressi, eam in servitutem redigens et infantes mares eorum necem imperans.",
+    "Saepe mihi occurrit humili nuntio Dei, qui clara miracula coram me et magis meis perfecit.",
+    "Pertinaciter veritatem repudiavi, nuntium magiae accusans et eum eiusque sectatores delendi consilia moliens.",
+    "Ego et totus exercitus meus mari obruti eramus, dum eos qui e manu mea liberati erant implacabiliter persequebamur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Nimrodus",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Aman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum Diluvium",
+        "Ignis Ardens",
+        "Submersio Oppressoris",
+        "Destructio a Vento",
+        "Terrae Motus Incredulitatis"
+      ],
+      "answer": "Submersio Oppressoris"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca Noae",
+        "Baculus Mosis",
+        "Idolo Aureo",
+        "Puteus Zamzam",
+        "Thronus Bilqis"
+      ],
+      "answer": "Baculus Mosis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Regnum vastum concessum",
+        "Corpus servatum ut signum",
+        "Condonatur post paenitentiam",
+        "Ad prophetiam evectus",
+        "Populus eius pius factus est"
+      ],
+      "answer": "Corpus servatum ut signum"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

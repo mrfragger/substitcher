@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Jaarraa Hin Dhaggeeffatamne",
+  "intro": "Magaalonni gurguddoon osoo hin ka’iin yeroo dheeraa keessatti, uummata dhugaa irraa garagalee ture gidduutti lubbuun kophaa ishee ka’e. Mata jabina isaanii kan wal gitu obsa nama kophaa isaa waamu kanaa, kan murtoo osoo hin dhabin dhalootaan kadhachaa ture. Akeekkachiisni hundi gurra gurri isaa hin dhageenye irratti yeroo bu’u, herregni kanaan dura hin argamne tokko dachee mataa ishee irra deebi’ee boce. Har’as sagalee seenaa sanaa qara’uu hunda keessaa ni rifa. Lubbuu murtoo qabdu kana adda baasuu dandeessaa?",
+  "clues": [
+    "Ummata waaqa tolfamaa sobaa waaqeffatanii fi mallattoolee naannoo isaanii jiran tuffatan keessaa guddadhe, ta’us garuu of eeggannoo dhabuu isaanii irraa akka isaan dammaqsuuf filatame.",
+    "Irra deddeebi’ee ummata koo waammadheen garuu nama akka isaanii malee homaa miti jedhanii na himatan, ergaa kootti qoosanii gurra isaanii haguuggatan.",
+    "Halkanii fi guyyaa ogummaa fi yaadachiisa lallaafaadhaan isaan kadhadheera, jechi koo garuu waan hin dhaga’amnee fi hin dhaggeeffatamne qilleensa keessaa waan badu natti fakkaata ture.",
+    "Qajeelfama waaqaatiin lafa goggogaa irratti meeshaa guddaa mukaa fi pilaanii irraa ijaare, sabni koos akka nama sababa dhabeetti natti kolfe.",
+    "Lolaan guddaan sun akkuma waadaa galame yeroo dhufu, ilmi koo ofii kootii gaarri bishaan ol ka’aa jiru irraa gaaddisa isa godha jedhee amanee na waliin doonii sana yaabbachuu dide.",
+    "Ani lafa irratti jalqaba haaraa ta’eef abbaa ta’e, seenaan koos boqonnaa Qur’aana maqaa koo qabu keessatti eegameera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Ibraahim",
+        "Nabi Muusaa",
+        "Nabi Luut",
+        "Nabi Hud"
+      ],
+      "answer": "Nabi Nuh"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Bishaan Badiisaa Guddaa lafa irra deebi’ee boce",
+        "Warra waaqa tolfamaa waaqeffataniin ibidda boba'aa keessa darbatamuu",
+        "Masaraa mootummaa keessatti falfaltoota Fara'oon waliin wal dura dhaabbachuu",
+        "Obomboleettii samiitiin iddoowwan biqiltuu badhaadhina qaban balleessuu",
+        "Gargalfamuu jiraattota boolla"
+      ],
+      "answer": "Bishaan Badiisaa Guddaa lafa irra deebi’ee boce"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Taabotni mukaa fi pilaanii irraa ijaarame",
+        "Manni qulqulluun bu’uura durii irratti ijaarame",
+        "Ulee gara bofaatti jijjiirame",
+        "Holqa qeerroo rafaa jiruu",
+        "Teessoo uumama jabaa tokkoon baatame"
+      ],
+      "answer": "Taabotni mukaa fi pilaanii irraa ijaarame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Kaafiroonni bishaaniin liqimfaman osoo mu’mintoonni doonii sana keessa jiranii fayyan",
+        "Ibiddichi qabbanaa'ee fi nageenya kan qabu yoo ta'u, namni bilbile sun osoo hin miidhamiin ba'e",
+        "Falfaltoonni sujuudanii kufanii iimaana hammatan",
+        "Iddoon biqiltuu sun bakka isaa ollaa qajeelaadhaaf kenname",
+        "Warri rafan jaarraa booda dammaqan, jijjiiramaniiru"
+      ],
+      "answer": "Kaafiroonni bishaaniin liqimfaman osoo mu’mintoonni doonii sana keessa jiranii fayyan"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

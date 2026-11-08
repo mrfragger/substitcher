@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi Elithuleyo Lentlambo",
+  "intro": "Buyela umva kwixesha uye kubantu abanamandla abakhe bafumana ummangaliso ophilayo njengovavanyo. Ukuzikhukhumeza nokuqina kwentliziyo kwatywina ikamva labo. Ungalilandela ibali uze ufumane ukuba kwenzeka ntoni kweli xesha limangalisayo lokuguquka?",
+  "clues": [
+    "Ndathunyelwa njengovavanyo oluvela kuThixo kubantu abanamandla abaziwayo ngamandla abo nokungavumi kwabo.",
+    "Ndandingummangaliso okhethekileyo—abantu abafana nam babengazange babonakale phakathi kwabo.",
+    "Ndabelana ngamanzi okusela avela emthonjeni nabantu bam ngeentsuku ezitshintshanayo.",
+    "Balunyukiswa ukuba naluphi na ulwaphulo-mthetho olujoliswe kum luya kuzisa isohlwayo esikhawulezileyo.",
+    "Abanesibindi kubo abazange basithobele eso silumkiso baza bandixaka.",
+    "Emva kokufa kwam, isikhalo esinye esikhulu esivela phezulu satshabalalisa bonke abantu bam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Inkamela yeNkosazana kaSalih",
+        "Inkomo kaMusa",
+        "Inqanawa kaNuh",
+        "Abasebenzi bakaMusa",
+        "Itrone kaBilqis"
+      ],
+      "answer": "Inkamela yeNkosazana kaSalih"
+    },
+    "trial": {
+      "label": "Isiphelo sam",
+      "options": [
+        "Wanqunyulwa umqala waza wabulawa",
+        "Waxhelwa njengedini",
+        "Uguquke waba yinyoka",
+        "Igcinwe kwisikhukula esikhulu",
+        "Ifike ngokukhawuleza ebukumkanini"
+      ],
+      "answer": "Wanqunyulwa umqala waza wabulawa"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umthombo wamanzi",
+        "Icwecwe lelitye",
+        "Isihlahla esitshayo",
+        "Ityeya yomthi",
+        "Itrone yegolide nesilivere"
+      ],
+      "answer": "Umthombo wamanzi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Itshatyalaliswe sisikhalo esinye",
+        "Nditshonile kumkhukula omkhulu",
+        "Itshiswe yimvula yamatye",
+        "Ubethwe ngumoya onamandla",
+        "Iginywe ngumhlaba"
+      ],
+      "answer": "Itshatyalaliswe sisikhalo esinye"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Os Arquitetos da Pedra",
+  "intro": "Imagine uma civilização poderosa, dotada de força e habilidade, esculpindo grandiosas moradias nas encostas das montanhas. Esse coletivo possuía imensa prosperidade e uma proeza arquitetônica singular. Contudo, apesar de receberem claros avisos, escolheram um caminho que os levaria a um desfecho dramático e inesquecível. Você consegue identificar esse grupo cuja história serve como uma profunda lição para todos que refletem sobre ela?",
+  "clues": [
+    "Fomos agraciados com força e habilidade, o que nos permitiu esculpir magníficas casas diretamente nas montanhas.",
+    "Recebemos um sinal claro de Alá: uma criatura única que não deveria ser perturbada para pastar.",
+    "Nossa comunidade tornou-se arrogante, desafiando a mensagem divina trazida por um mensageiro dentre nós.",
+    "Conspiramos para prejudicar o sinal milagroso, apesar dos avisos de severa punição.",
+    "Desafiamos a ordem de deixar a criatura especial beber da nossa fonte em dias alternados.",
+    "Tivemos um fim devastador, atingidos por uma única e terrível explosão após nosso ato de transgressão."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Pessoas de 'Ad",
+        "Povo de Midiã",
+        "Povo do Elefante",
+        "Povo de Thamud",
+        "Povo de Lut"
+      ],
+      "answer": "Povo de Thamud"
+    },
+    "trial": {
+      "label": "Nosso principal julgamento/evento",
+      "options": [
+        "A inundação que engolfou a terra",
+        "A divisão do mar",
+        "A destruição causada por uma única explosão/grito",
+        "O incêndio de uma cidade",
+        "A transformação de uma montanha em pó."
+      ],
+      "answer": "A destruição causada por uma única explosão/grito"
+    },
+    "location": {
+      "label": "Um elemento fundamental em nossa história.",
+      "options": [
+        "Um bezerro de ouro",
+        "Uma camela milagrosa",
+        "Uma sarça ardente",
+        "Um pássaro falante",
+        "Um trono majestoso"
+      ],
+      "answer": "Uma camela milagrosa"
+    },
+    "outcome": {
+      "label": "Nosso resultado final",
+      "options": [
+        "Concedida imensa riqueza e poder",
+        "Elevado à profecia",
+        "Aniquilação total por um castigo divino",
+        "Perdoado após sincero arrependimento.",
+        "Espalhados pela terra, vagando sem rumo."
+      ],
+      "answer": "Aniquilação total por um castigo divino"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

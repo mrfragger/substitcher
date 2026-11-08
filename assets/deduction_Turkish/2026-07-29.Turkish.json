@@ -1,0 +1,61 @@
+{
+  "title": "Saraya Uygun Takip",
+  "intro": "İktidar koridorlarında, yüksek statülü bir kişi, olağanüstü güzellikte bir hizmetçiye aşık oldu. Bu aşk, sadakatleri sınayacak, gizli gerçekleri ortaya çıkaracak ve nihayetinde hizmetçinin masumiyetini doğrulayacak bir dizi olaya yol açtı.",
+  "clues": [
+    "Nil topraklarında, büyük nüfuz sahibi bir sarayda yaşadım.",
+    "Evime genç bir adam geldi ve onun varlığı dünyamı altüst etti.",
+    "Onu baştan çıkarmaya çalıştım, ama o Rabbine sığındı.",
+    "Elbisesini arkadan yırttım, ama deliller benim hilekarlığımı ortaya koydu.",
+    "Soylu kadınların dedikodularını susturmak için onları bir toplantıya davet ettim ve ellerine keskin nesneler verdim.",
+    "Sonunda, hatamı kralın huzurunda itiraf ederek gerçeği kabul ettim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "El-Aziz'in Karısı",
+        "Asiya (Firavunun karısı)",
+        "Bilqis (Şeba Kraliçesi)",
+        "Meryem (İsa'nın annesi)",
+        "Musa'nın Annesi"
+      ],
+      "answer": "El-Aziz'in Karısı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Peygamber Yusuf'u baştan çıkarmaya çalıştı.",
+        "O, Peygamber Musa'yı öldürmeye çalıştı.",
+        "Kendisinin bir tanrıça olduğunu iddia etti.",
+        "Allah'a meydan okumak için bir kule inşa etti.",
+        "Mekke'ye karşı bir orduya önderlik etti."
+      ],
+      "answer": "Peygamber Yusuf'u baştan çıkarmaya çalıştı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Arkadan yırtılmış bir gömlek",
+        "altın buzağı",
+        "Yılana dönüşen bir asa",
+        "Dişi bir deve",
+        "Bir lamba"
+      ],
+      "answer": "Arkadan yırtılmış bir gömlek"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Gerçeği itiraf etti ve kabul etti.",
+        "Ordusuyla birlikte boğuldu.",
+        "O, tuzdan bir sütuna dönüştü.",
+        "O, yerin dibine gömüldü.",
+        "Şiddetli bir rüzgar tarafından yerle bir edildi."
+      ],
+      "answer": "Gerçeği itiraf etti ve kabul etti."
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

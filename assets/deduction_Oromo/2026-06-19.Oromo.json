@@ -1,0 +1,61 @@
+{
+  "title": "Qormaata Lubbuu Itti Fuftuu",
+  "intro": "Lubbuun tokko yeroo qormaata waaqummaa dhaabbattee, cimina gad of qabuun qajeelfama barbaaddi. Inni hundumaa beeku barbaacha kana ofirraa deebisa, boodarra kun qormaata garaa akka ture ifa godha. Waljijjiirraa dhoksaa kanaan, barumsi waa’ee ogummaa waaqaa warra yaadan duratti ni mul’ata. Lakkoofsa kana seeneffama Qur’aanaa irraa adda baasuu dandeessaa?",
+  "clues": [
+    "Ergamaa Rabbii jaallatamaa irraa beekumsaa fi qajeelfama barbaade",
+    "Haqa barbaachaan dhufe, fedhii cimaadhaan Nabiyyicha waammachaa ture",
+    "Ogummaan Rabbii yeroo sanaaf karoora biraa waan qabuuf na ceepha'ee garagalfame",
+    "Taʼus abdii hin kutanne—kanaa mannaa, barbaacha kootti gara fuulduraatti dhiibeen ture",
+    "Kan hunda beeku kun qormaata qalbii fi akeekkachiisa ta'uu labse",
+    "Warra Qur’aanni waa’ee isaanii buuse keessaa tokko ture: ‘Inni fuula isaa rurrukutee garagalee, jaamaatu gara isaa waan dhufeef’."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Fakkeessituu Shakkii Barbaaddu",
+        "Jaamaa Dhugaa Barbaadduu",
+        "Waaqeffannaa Waaqa tolfamaa Makkaa",
+        "Kaafirri Nabiyyitti Qoosaa",
+        "Imaltuu Yaman irraa dhufe"
+      ],
+      "answer": "Jaamaa Dhugaa Barbaadduu"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Yeroo salaataa Nabi Muhammadiin ceepha'amuu",
+        "Makkaatti gogiinsa fi beelaan qoramuu",
+        "Karra jannataa irratti garagalfamuu",
+        "Amantiin saba ofiitiin gatamuu",
+        "Qabeenyaa fi ijoollee waliin qoramuu"
+      ],
+      "answer": "Yeroo salaataa Nabi Muhammadiin ceepha'amuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Yeroo hajjii Kaabaa keessaa",
+        "Yeroo qara'u bakka Nabiyyiin jirutti",
+        "Gaara Safaa gubbaatti sa'aatii ganamaatti",
+        "Gabaa Makkaa kaafirootaan marfame keessatti",
+        "Yeroo Hajjii boolla bishaanii Zamzamitti dhihoo"
+      ],
+      "answer": "Yeroo qara'u bakka Nabiyyiin jirutti"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Barbaachaan kun iimaanaaf Qureeyshiin wareegame",
+        "Taatee kun Ummaaf qormaataa fi barumsa ta'ee galmaa'eera",
+        "Barbaachaan hiriyyaa fi geggeessaa ta’e",
+        "Qabeenyi barbaadaa dachaa kudhan dachaa ta'e",
+        "Barbaachaan gara kufrii deebi'e"
+      ],
+      "answer": "Taatee kun Ummaaf qormaataa fi barumsa ta'ee galmaa'eera"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

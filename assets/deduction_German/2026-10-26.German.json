@@ -1,0 +1,61 @@
+{
+  "title": "Das Flüstern im Wind",
+  "intro": "Stell dir ein Reich vor, in dem das Unsichtbare und das Sichtbare ineinanderfließen, und du stehst vor einer Gestalt im Herzen eines unvergleichlichen Königreichs. Diese Seele besitzt Wissen jenseits gewöhnlichen Verständnisses und gebietet über Kräfte, von denen andere nur träumen können. Doch selbst die Mächtigsten können von einem winzigen Wesen gedemütigt werden, und die Wahrheit mag bis zur vorherbestimmten Zeit verborgen bleiben. Wer ist diese Gestalt, deren Vermächtnis durch die Zeitalter hallt?",
+  "clues": [
+    "Mir wurde ein Königreich gegeben, das nach mir niemand mehr erhalten sollte.",
+    "Ich habe Wissen und Weisheit von einem geliebten Elternteil geerbt.",
+    "Der Wind stand unter meinem Befehl und wehte auf mein Geheiß, wohin ich wollte.",
+    "Ich konnte die Sprache der Vögel verstehen, und sie dienten in meiner Armee.",
+    "Ich erhielt von einem kleinen Vogel die Nachricht von einer Königin, die die Sonne anbetete.",
+    "Mein Tod blieb verborgen, bis ein Geschöpf der Erde meinen Stab verschlang, und erst dann erkannten die Dschinn, dass sie das Unsichtbare nicht kannten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Sulayman (Salomo)",
+        "Prophet Dawud (David)",
+        "Prophet Musa (Moses)",
+        "Prophet Isa (Jesus)",
+        "Prophet Nuh (Noah)"
+      ],
+      "answer": "Prophet Sulayman (Salomo)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Der Besuch der Königin von Saba",
+        "Ins Feuer geworfen werden",
+        "Das Meer teilen",
+        "Eine Arche bauen",
+        "Von einem Wal verschluckt werden"
+      ],
+      "answer": "Der Besuch der Königin von Saba"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Mitarbeiter wurden von einem Geschöpf der Erde verschlungen.",
+        "Der Stab, der sich in eine Schlange verwandelte",
+        "Die Kamelstute",
+        "Die Arche",
+        "Der Wal"
+      ],
+      "answer": "Die Mitarbeiter wurden von einem Geschöpf der Erde verschlungen."
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sein Tod wurde den Dschinn verborgen, bis sein Stab verspeist wurde.",
+        "Er wurde lebendig in den Himmel aufgenommen.",
+        "Er wurde durch Allahs Befehl vor dem Feuer gerettet.",
+        "Ihm wurde die Tora gegeben.",
+        "Er wurde vor dem Wal gerettet"
+      ],
+      "answer": "Sein Tod wurde den Dschinn verborgen, bis sein Stab verspeist wurde."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

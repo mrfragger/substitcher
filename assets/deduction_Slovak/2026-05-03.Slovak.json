@@ -1,0 +1,61 @@
+{
+  "title": "Spiaci hľadači pravdy",
+  "intro": "Predstavte si časy, keď bola viera spochybnená a skupina duší si zvolila neochvejné presvedčenie pred svetským pohodlím. Tvárou v tvár skľučujúcemu voľbe hľadali útočisko a vydali sa na cestu, ktorá ich priviedla k mimoriadnemu spánku. Ich príbeh je dôkazom božskej ochrany a sily viery proti útlaku. Dokážete rozpoznať identitu týchto pozoruhodných jednotlivcov?",
+  "clues": [
+    "Boli sme malé zhromaždenie, zjednotené hlbokou vierou v Jediného Stvoriteľa.",
+    "Žili sme v dobe, keď mocný vládca požadoval uctievanie niekoho iného ako Alaha.",
+    "Aby sme si zachovali vieru, rozhodli sme sa opustiť svoje domovy a utiecť pred útlakom.",
+    "Na našej ceste nás sprevádzal verný spoločník, tvor zeme.",
+    "Našli sme útočisko na odľahlom mieste, kde nám Alah spôsobil, že sme upadli do hlbokého a dlhého spánku.",
+    "Keď sme sa zobudili, mysleli sme si, že uplynul len deň alebo časť dňa, ale v skutočnosti uplynuli stáročia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z priekopy",
+        "Ľudia z Thamudu",
+        "Ľudia zo Saby",
+        "Ľudia z jaskyne",
+        "Ľudia z Madyanu"
+      ],
+      "answer": "Ľudia z jaskyne"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Skúšaný neúrodnou zemou",
+        "Čelíme veľkej povodni",
+        "Hľadanie útočiska pred tyranským vládcom",
+        "Byť uvrhnutý do horiaceho ohňa",
+        "Vyzvanie čarodejníkove kúzlo"
+      ],
+      "answer": "Hľadanie útočiska pred tyranským vládcom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Veľkolepý palác",
+        "Loď/archa",
+        "Hlboká studňa",
+        "Jaskyňa",
+        "Tyčiaca sa hora"
+      ],
+      "answer": "Jaskyňa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Udelenie kráľovstva",
+        "Zázračný spánok po stáročia",
+        "Byť pohltený zemou",
+        "Byť zachránený pred ničivou búrkou",
+        "Byť pripravený s nebeským stolom"
+      ],
+      "answer": "Zázračný spánok po stáročia"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

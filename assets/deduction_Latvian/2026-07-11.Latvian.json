@@ -1,0 +1,61 @@
+{
+  "title": "Zaļā lauka ceļotāji",
+  "intro": "Senatnē divi cilvēki rūpējās par blakus esošajām zemēm. Viņu ceļi bija savijušies, tomēr sirdis veda viņus uz ļoti atšķirīgiem galamērķiem. Viens gāja pa taisno ceļu, bet otrs nomaldījās nolieguma tumsā. Vai vari atšķetināt šo divu ražas sargātāju noslēpumu?",
+  "clues": [
+    "Man bija bagātīga raža, grezna raža, kas žilbināja apkārtējo acis.",
+    "Manam kaimiņam piederēja vēl lielāka dāsnuma nekā man, tomēr es kāroju viņa daļu vairāk nekā savu.",
+    "Es ieteicu mums pilnībā iznīcināt viņu ražu, lai visu nostiprinātu manā kontrolē.",
+    "Es sabojāju arī savu ražu, visu iznīcinot savā muļķīgajā plānā.",
+    "Es stāvēju bezpalīdzīgs, kamēr mana raža novīta un mana bagātība vienas nakts laikā pārvērtās putekļos.",
+    "Man nebija daļas pēcnāves dzīvē, un mana pēdējā mājvieta kļuva par liesmojošas uguns bedri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Vīrs, kurš noliedza augšāmcelšanos un tiesu",
+        "Valdnieks, kurš apspieda taisnīgo zemnieku",
+        "Bagāts zemes īpašnieks, kuram trūka pateicības",
+        "Zemnieks, kurš iekāroja sava kaimiņa zemi",
+        "Nodevīgais partneris, kurš plānoja iznīcību"
+      ],
+      "answer": "Zemnieks, kurš iekāroja sava kaimiņa zemi"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Dievišķās atklāsmes saņemšanas pārbaude",
+        "Bagātības un pacietības izaicinājums",
+        "Kārdinājums iznīcināt taisnīga cilvēka iztikas līdzekļus",
+        "Pavēle ​​taisnīgi sadalīt mantojumu",
+        "Cīņa pret tirāna apspiešanu"
+      ],
+      "answer": "Kārdinājums iznīcināt taisnīga cilvēka iztikas līdzekļus"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zaļojošie paradīzes dārzi",
+        "Divi blakus esoši labības lauki",
+        "Kalni, kas bija iznīcības liecinieki",
+        "Mekas svētā svētnīca",
+        "Svētītas zemes upes krasti"
+      ],
+      "answer": "Divi blakus esoši labības lauki"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mūžīga paradīze kā atlīdzība par taisnīgumu",
+        "Abu ražu pilnīga iznīcināšana šajā dzīvē",
+        "Trimda un klejošana līdz nāvei",
+        "Pagaidu labklājība, kam seko mūžīga uguns",
+        "Brīnumaina atjaunošana un divkārša dāsnums"
+      ],
+      "answer": "Abu ražu pilnīga iznīcināšana šajā dzīvē"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

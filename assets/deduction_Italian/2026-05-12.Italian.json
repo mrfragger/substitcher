@@ -1,0 +1,61 @@
+{
+  "title": "L'autorità inflessibile",
+  "intro": "Nelle terre antiche, un tempo regnava una potente autorità, che controllava immense risorse e le vite di innumerevoli individui. Nonostante chiari segnali e avvertimenti, questo sovrano scelse una via di sfida, che condusse a un profondo scontro le cui ripercussioni si sarebbero fatte sentire fino ai giorni nostri.",
+  "clues": [
+    "Rivendicavo il potere e l'autorità assoluti su un vasto dominio.",
+    "Ho sfidato un umile messaggero inviato dal Signore di tutti i regni.",
+    "Il mio popolo era noto per la sua maestria nella costruzione di grandi opere e per il fiume che sosteneva la nostra civiltà.",
+    "Ho assistito a molti segni miracolosi, tra cui un bastone che si trasformava in un serpente e una mano che brillava intensamente.",
+    "Mi sono rifiutato di lasciare che un gruppo di persone ridotte in schiavitù lasciasse la mia terra, nonostante i comandi divini.",
+    "Il mio inseguimento delle persone in fuga condusse me e i miei eserciti nel cuore di un mare diviso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Yusuf",
+        "Re Talut",
+        "Fir'awn (Faraone)",
+        "Profeta Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraone)"
+    },
+    "trial": {
+      "label": "Confronto chiave",
+      "options": [
+        "L'alluvione che ha sommerso la terra",
+        "La divisione del mare",
+        "Il roveto ardente",
+        "La costruzione della Kaaba",
+        "La distruzione causata da un vento fortissimo"
+      ],
+      "answer": "La divisione del mare"
+    },
+    "location": {
+      "label": "Aspetto determinante",
+      "options": [
+        "Un animale parlante",
+        "Un bastone e una mano luminosa",
+        "Una nascita miracolosa",
+        "Un tappeto volante",
+        "Un maestoso trono sull'acqua"
+      ],
+      "answer": "Un bastone e una mano luminosa"
+    },
+    "outcome": {
+      "label": "Destino Finale",
+      "options": [
+        "Asceso al cielo",
+        "Inghiottito dalla terra",
+        "Annegato in mare",
+        "Trasformato in una scimmia",
+        "Considerata l'immensa ricchezza e il potere"
+      ],
+      "answer": "Annegato in mare"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

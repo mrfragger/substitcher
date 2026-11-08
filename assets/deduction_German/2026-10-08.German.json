@@ -1,0 +1,61 @@
+{
+  "title": "Die Steinmetze des alten Tals",
+  "intro": "Stellen Sie sich eine Zivilisation vor, die in den felsigen Tälern Arabiens entstand und sich kunstvoll prächtige Häuser aus den Berghängen hauen ließ. Sie blühten mit Stärke und Kunstfertigkeit, doch ihre Geschichte ist von einer erschreckenden Missachtung göttlicher Warnungen geprägt. Wenn Sie in ihre Geschichte eintauchen, werden Sie ein Volk entdecken, dessen Arroganz zu seiner völligen Vernichtung führte. Wer waren sie?",
+  "clues": [
+    "Wir erbten ein Land aus felsigen Ebenen und hoch aufragenden Klippen, wo wir mit unvergleichlicher Geschicklichkeit unsere Behausungen errichteten.",
+    "Wir waren dafür bekannt, sichere Behausungen in die Berge zu graben, in denen wir uns vor jeglichem Schaden sicher fühlten.",
+    "Ein Gesandter aus unserer Mitte kam zu uns, erinnerte uns an Allahs Gunstbezeugungen und warnte uns vor Strafe.",
+    "Wir verlangten ein Zeichen, und wie durch ein Wunder entstieg dem Felsen eine Kamelstute – eine klare Prüfung von Allah.",
+    "Wir ignorierten die Warnung und legten der Kamelstute die Sehnen an, verspotteten den Überbringer der Nachricht und stellten die Strafe in Frage.",
+    "Eine einzige Explosion traf uns in unseren Häusern, und am Morgen lagen wir regungslos da, als hätten wir nie dort gelebt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Volk der Thamud",
+        "Leute von 'Ad",
+        "Menschen von Madyan",
+        "Volk von Nuh",
+        "Volk von Lut"
+      ],
+      "answer": "Volk der Thamud"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Kamelstute wurde gefesselt",
+        "Den Sabbat gebrochen",
+        "Sie verehrten das goldene Kalb",
+        "Sie töteten den Propheten, der zu ihnen gesandt worden war.",
+        "Ich habe einen Turm gebaut, der bis zum Himmel reicht."
+      ],
+      "answer": "Die Kamelstute wurde gefesselt"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Kamelstute",
+        "Die Arche",
+        "Das Personal",
+        "Die weiße Hand",
+        "Das Manna und die Wachteln"
+      ],
+      "answer": "Die Kamelstute"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Durch eine Explosion zerstört",
+        "Vor der Zerstörung gerettet",
+        "In Affen verwandelt",
+        "Im Meer ertrunken",
+        "Von der Erde verschluckt"
+      ],
+      "answer": "Durch eine Explosion zerstört"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

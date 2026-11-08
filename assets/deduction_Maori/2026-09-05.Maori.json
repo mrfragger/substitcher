@@ -1,0 +1,61 @@
+{
+  "title": "Te Ataahua i Totohu",
+  "intro": "Whakaarohia tēnei: ​​he wairua kua takaihia ki ngā kākahu papai, ā, kua karapotia e ngā taonga nui atu i te whakaaro. I whakapono tēnei tangata nā tōna ake mātauranga i whiwhi ai rātou i ō rātou taonga, kāore rawa i whakaae ki te pūtake o te oranga pono. I a ia e haereere ana i waenganui i ngā akonga a tētahi poropiti nui, i whakakahore tēnei tangata i ngā karanga katoa ki te ngākau mahaki. I tēnei rā, ka hurahia e tātou te tuakiri o tētahi tangata nāna nei te taonga nui i waiho hei okiokinga whakamutunga mō rātou.",
+  "clues": [
+    "I ora ahau i te wā o tētahi poropiti i karanga i tētahi iwi pakeke ki te pono.",
+    "I roto ahau i tētahi hapori whiriwhiri, heoi i tahuri ke tōku ngākau i te karere.",
+    "Nā te koura me te hiriwa ahau i kukume nui atu i tētahi atu whakahau a te Atua.",
+    "I te nui haere o taku whare taonga, kāore i taea e tētahi rōpū tāne te hiki ake i ngā kī.",
+    "I whakamanamana ahau nā te mea i homai aku taonga ki ahau nā tōku ake mātauranga.",
+    "I te mutunga, i horomia mātou ko tōku whare katoa e te whenua hei whakatūpato."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Karauna",
+        "Hāmana",
+        "Hāmiri",
+        "Pirikī",
+        "Talut (Saul)"
+      ],
+      "answer": "Karauna"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakapehapeha ki te taonga, me te kore e aro ki te atawhai",
+        "Te hanga i tētahi whakapakoko koura mai i ngā whakapaipai rewa",
+        "Te whakapuaki i te atuatanga ki runga i tētahi rangatiratanga kaha",
+        "Te whakatoi i ngā whakapono o mua i Makkah",
+        "Te ārahi i tētahi pakanga hei whakangaro i te Whare Tapu"
+      ],
+      "answer": "Te whakapehapeha ki te taonga, me te kore e aro ki te atawhai"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā taonga i taimaha ai ngā kī ki te tini o ngā tāne kaha",
+        "He kuao kau koura i whakaputa i te tangi",
+        "He torona kororia nō te whenua tawhiti",
+        "He awaawa kī tonu i te ahi mura",
+        "He ope taua nui o ngā arewhana whawhai"
+      ],
+      "answer": "Ngā taonga i taimaha ai ngā kī ki te tini o ngā tāne kaha"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Horomia e te whenua me te whare noho",
+        "I toremi ki te moana me te ope taua",
+        "I tahuna oratia i roto i te rua ahi",
+        "I whakangaromia e te hau e aue ana, e riri ana",
+        "I patua ki raro i te pahūtanga kotahi"
+      ],
+      "answer": "Horomia e te whenua me te whare noho"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

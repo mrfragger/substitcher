@@ -1,0 +1,61 @@
+{
+  "title": "Y Genhadaeth yn y Ddinas Hynafol",
+  "intro": "Tref hynafol llychlyd, ei phobl wedi’u gwadu’n llwyr, a rhybudd olaf na chafodd sylw. Heddiw, camwch i rôl y rhai a anfonwyd gan Allah i gyflwyno neges i bobl ystyfnig. Stori o wrthod, llais unigol o ffydd, a diweddglo wedi’i selio gan orchymyn dinistriol. Pwy sy’n siarad drwy’r cliwiau hyn?",
+  "clues": [
+    "Fe'n hanfonwyd gan Allah i dref yr oedd ei phobl wedi troi oddi wrth y gwirionedd",
+    "Daeth dau ohonom yn gyntaf, yna ymunodd trydydd i gryfhau ein cenhadaeth",
+    "Gwrthododd trigolion y dref ni, gan ddweud nad oeddem ni ond yn bobl fel nhw",
+    "Rhedodd un enaid o ben pellaf y ddinas i ddweud wrth y bobl am ein dilyn ni",
+    "Fe wnaethon ni erfyn arnyn nhw, ond fe galedon nhw eu calonnau a throi yn ein herbyn ni.",
+    "Mewn un waedd ddinistriol o'r nefoedd, tawelwyd ein dinas gyfan"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Negeswyr y Dref yn Surah Ya-Sin",
+        "Yr Hawwariyyun (Disgyblion Isa)",
+        "Dewiniaid Llys y Pharo",
+        "Cymdeithion y Saboth",
+        "Pobl yr Eliffant"
+      ],
+      "answer": "Negeswyr y Dref yn Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Wedi'u gwrthod a'u galw'n gelwyddogion gan bobl y dref",
+        "Wedi'i llosgi'n fyw mewn tân mawr llachar",
+        "Wedi'i lyncu gan bysgodyn mawr yn y môr dwfn",
+        "Wedi'i orfodi i lafurio yn adeiladu colofn uchel",
+        "Wedi'i arteithio mewn ffos o dân cynddeiriog"
+      ],
+      "answer": "Wedi'u gwrthod a'u galw'n gelwyddogion gan bobl y dref"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y dref hynafol (al-Qaryah)",
+        "Ffwrnais fawr danllyd",
+        "Bol pysgodyn mawr",
+        "Y golofn uchel sy'n cyffwrdd â'r awyr",
+        "Y Tŷ sanctaidd (Kaaba)"
+      ],
+      "answer": "Y dref hynafol (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Dinistriwyd y dref gan un gri ddinistriol (Sayha)",
+        "Boddwyd y teyrn a'i fyddin yn y môr a holltwyd",
+        "Cafodd y bobl eu trawsnewid yn epaod a mwncïod",
+        "Dinistriodd glaw o gerrig o'r awyr y ddinas",
+        "Ysgubodd llifogydd treisgar y gymuned gyfan"
+      ],
+      "answer": "Dinistriwyd y dref gan un gri ddinistriol (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

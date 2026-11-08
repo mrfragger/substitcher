@@ -1,0 +1,61 @@
+{
+  "title": "Yo o Tlhophilweng ka Botlhale",
+  "intro": "Mo moriting wa thaba e mafoko a bomodimo a neng a fologela mo go yone, tumelo ya batho e ne e reketla ka fa tlase ga go phatsima ga gauta. Moya o le mongwe, o o nang le mpho ya botswerere jwa go bua, o ne wa ema jaaka tshegetso ya thomo e kgolwane, le fa go ntse jalo o ne wa lebana le motsotso wa teko e e tseneletseng. Fa morongwa yo o tlhophilweng a ne a tlhatlogela kwa go tlhomilweng go go boitshepo, setshwantsho seno se ne se sala kwa morago, se kopa setšhaba se se sa iketlang. Moya o o tlhomameng ono o lentswe la one le neng la tsoga kgatlhanong le kobamelo ya medimo ya disetwa ke mang?",
+  "clues": [
+    "Ke tlhophilwe ke Allah go nna moporofeti, le fa kgang ya me gantsi e anelwa mmogo le e nngwe.",
+    "Ke ne ka romelwa kwa mmusi yo o bogateledi, mme seabe sa me e ne e le go ema nokeng, e seng go etelela pele.",
+    "Ke ne ke na le mpho ya go bua ka botswerere, mme mafoko a me a ne a diretswe go nolofatsa dipelo.",
+    "Fa molekane wa me a ne a tsamaya go ya go dira peelanonako e e boitshepo, ke ne ka sala ke kaela batho ba ba neng ba sa iketla.",
+    "Ka go tlhoka bopelotelele ga bone, ba ne ba dira setshwantsho ka mekgabiso ya bone, mme ke ne ka ba kopa gore ba nne ba ikanyega mo go Allah.",
+    "Molekane wa me o ne a boa mme a ntshwara, mme ke ne ka mo tlhalosetsa gore batho ba ne ba ntlhola mme ba batla ba mpolaya; Ke ne ke se mongwe wa badiraphoso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Musa",
+        "Moporofeti Harun",
+        "Moporofeti Isa",
+        "Moporofeti Yahya",
+        "Moporofeti Zakariya"
+      ],
+      "answer": "Moporofeti Harun"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go latlhelwa mo molelong",
+        "Go latlhelwa mo sedibeng",
+        "Go lebana le tiragalo ya namane ya gauta",
+        "Teko ya bolwetse jo bo masisi",
+        "Teko ya go latlhegelwa ke khumo le bana"
+      ],
+      "answer": "Go lebana le tiragalo ya namane ya gauta"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Namane ya gauta",
+        "Badiri",
+        "Letlole la Kgolagano",
+        "Matlapa",
+        "Setlhatshana se se tukang"
+      ],
+      "answer": "Namane ya gauta"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O otlhaiwa thata",
+        "O itshwaretswe le go gololwa",
+        "O dirilwe kgosi",
+        "Go isiwa kwa legodimong",
+        "Go newa lokwalo lo losha"
+      ],
+      "answer": "O itshwaretswe le go gololwa"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

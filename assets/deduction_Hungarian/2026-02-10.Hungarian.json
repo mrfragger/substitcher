@@ -1,0 +1,60 @@
+{
+  "title": "Korok álma",
+  "intro": "Egy időutazásra indulsz, melynek során a hit és az isteni hatalom mély rejtélyével találkozol. Képzelj el egy csoportot, akik dacoltak társadalmuk normáival, és a monoteizmushoz ragaszkodtak a politeizmus világában. Történetük bizonyság Allah azon képességére, hogy a legkülönlegesebb módokon védje meg igaz szolgáit. Vajon meg tudod fejteni ezeknek a figyelemre méltó alakoknak a kilétét?",
+  "clues": [
+    "Egy kis csoport fiatalember voltunk, akik egy Istenben hittek, népünk széles körben elterjedt politeizmusa ellenére.",
+    "Egy zsarnok uralkodó elől menekültünk, aki a hitünkért fenyegetett minket, üldöztetéstől és haláltól félve.",
+    "Egy félreeső helyen kerestünk menedéket, Allah irgalmában és elnyomóink elleni védelmében reménykedve.",
+    "Urunk mély álomba küldött minket, egy csodálatos álomba, amely dacolt az idő múlásával.",
+    "Amikor felébredtünk, azt hittük, hogy csak egy napot vagy egy naprészt pihentünk, mit sem sejtve arról, hogy valójában mennyi idő telt el.",
+    "A Korán megemlíti, hogy háromszáz évig maradtunk a jelenlegi állapotunkban, és kilenccel túl is léptük azt, jellé válva az emberiség számára."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az árok népe",
+        "Thamud népe",
+        "A barlang népe",
+        "Madyan népe",
+        "Az elefánt társai"
+      ],
+      "answer": "A barlang népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Nagy árvízzel szembenézve",
+        "Elnyeli a föld",
+        "A hosszú, csodálatos álom",
+        "A városuk pusztulása",
+        "A tenger kettéhasadása"
+      ],
+      "answer": "A hosszú, csodálatos álom"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy égő csipkebokor",
+        "Egy hegy",
+        "Egy hajó",
+        "Egy barlang",
+        "Egy kút"
+      ],
+      "answer": "Egy barlang"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hatalmas vagyont és hatalmat kaptak",
+        "Majmokká és disznókká változtak",
+        "Mélységes jelként ébredtek fel álmukból",
+        "Egy hatalmas özönvízbe fulladtak",
+        "Felépítettek egy csodálatos királyságot"
+      ],
+      "answer": "Mélységes jelként ébredtek fel álmukból"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

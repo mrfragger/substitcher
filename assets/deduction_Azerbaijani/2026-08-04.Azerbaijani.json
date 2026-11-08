@@ -1,0 +1,61 @@
+{
+  "title": "Qayalıqların Arasından Səda",
+  "intro": "Qayalardan yonulmuş yaşayış yerlərinin olduğu və havanın qulaqardına vurulan bir xəbərdarlığın xatirəsini daşıdığı bir vadini təsəvvür edin. Bir vaxtlar burada bir xalq mübarək, lakin üsyankar şəkildə çiçəklənirdi, ta ki etibar etdikləri qayadan bir işarə peyda olana qədər.",
+  "clues": [
+    "Biz dağlardan etibarlı evlər yonub qayalı evlərimizdə özümüzü təhlükəsiz hiss edən bir xalq idik.",
+    "Biz düzənlik və daşlıq, bağlar və bulaqlarla dolu bir diyarda yaşayırdıq.",
+    "Aramızdan bir elçi gəldi və bizi yalançı tanrılarımızı tərk etməyə və tək Yaradana ibadət etməyə çağırdı.",
+    "Biz təkəbbürlə inanc üçün bir şərt qoyduq: yonduğumuz qayaların arasından çıxacaq unikal bir işarə.",
+    "Vəd edilmiş dişi dəvə qayadan görünəndə, bu, açıq-aydın bir əlamət idi, elitamiz yenə də imtina etdi və yaxınlaşan bir fəlakət xəbərdarlığına baxmayaraq, onun ayaq buduna batdı.",
+    "Bu hərəkətimizdən üç gün sonra vadidə gurultulu bir səs-küy qopdu və biz dağılmış xarabalığa, evlərimiz isə məzarlığa çevrildik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Ad xalqı",
+        "Səmud xalqı",
+        "Mədyən xalqı",
+        "Bağ Xalqı",
+        "Mağara Əhli"
+      ],
+      "answer": "Səmud xalqı"
+    },
+    "trial": {
+      "label": "Sınaq/Əsas Tədbirimiz",
+      "options": [
+        "Allahın dişi dəvəsinin bud bağlarının kəsilməsi",
+        "Qızıl buzova ibadət",
+        "Şənbə gününün pozulması",
+        "Göyə qalxan bir qüllənin tikilməsi",
+        "Peyğəmbərlərin qətlə yetirilməsi"
+      ],
+      "answer": "Allahın dişi dəvəsinin bud bağlarının kəsilməsi"
+    },
+    "location": {
+      "label": "Hekayəmizdəki Əsas Element",
+      "options": [
+        "Allahın dişi dəvəsi",
+        "Musanın əsaları",
+        "Nuhun gəmisi",
+        "Musanın ağ əli",
+        "İsanın quşu"
+      ],
+      "answer": "Allahın dişi dəvəsi"
+    },
+    "outcome": {
+      "label": "Nəticəmiz",
+      "options": [
+        "Qulaqbatırıcı bir partlayışla məhv",
+        "Göydən daş yağışı",
+        "Yer üzünü bürüyən bir sel",
+        "Bizi kökündən qoparan şiddətli bir külək",
+        "Yer bizi udur"
+      ],
+      "answer": "Qulaqbatırıcı bir partlayışla məhv"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ny Mpiambina ny Lelafo Tsy Mety Maty",
+  "intro": "Misy olona mijoro eo am-baravaran'ny toerana atahorana indrindra any amin'ny tsy hita maso, nanankinana andraikitra tsy irin'ny olon-kafa. Rehefa miantso famindram-po ireo fanahy mijaly, dia misy valiny henjana maneno avy ao amin'ny efitrano afo. Azonao fantarina ve ny mombamomba an'io mpiambina mandrakizay io?",
+  "clues": [
+    "Mijoro eo am-baravaran'ny toeram-pamaizana mahatsiravina ao amin'ny tsy hita maso aho.",
+    "Afo mirehitra tsy mety maty no ivon'ny andraikitro masina.",
+    "Miantso ny anarako ireo fanahy mijaly, mangataka fanamaivanana amin'ny fijaliany tsy misy fiafarany.",
+    "Rehefa miangavy izy ireo dia ambarako fa tsy hiala mihitsy.",
+    "Tsy olombelona aho, ary tsy jiny — noforonina ho amin'ny fankatoavana madiodio aho.",
+    "Izaho no anjely lehibe voatendry ho mpiambina mandrakizay ny Afobe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Malik",
+        "Jibreela",
+        "Mikaela",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Miangavy ny vahoakan'ny helo mba hifaranan'ny fijaliany",
+        "Tsofina ny trompetra mba hanamarihana ny Andro Fitsarana",
+        "Nambara tao am-pon'ny Mpaminany ny CORAN",
+        "Natsipin'ny vahoakany tao anaty afo lehibe ny mpaminany iray",
+        "Misy manda matanjaka naorina mba hifehezana firenena iray izay efa simba"
+      ],
+      "answer": "Miangavy ny vahoakan'ny helo mba hifaranan'ny fijaliany"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Afobe (Jahannam)",
+        "Ny Hazo Lota eo amin'ny sisin-tanin'ny Paradisa",
+        "Trompetra manindrona",
+        "Tehina miova ho menarana",
+        "Seza fiandrianana masina mahafinaritra"
+      ],
+      "answer": "Ny Afobe (Jahannam)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nilazana ireo mponin'ny helo fa hijanona mandrakizay izy ireo",
+        "Voavela heloka sy afaka ireo mponin'ny helo",
+        "Ireo mponin'ny helo dia omena fahafahana faharoa amin'ny finoana",
+        "Nafindra tany amin'ny toerana mangatsiatsiaka ireo mponin'ny helo",
+        "Ringana tanteraka amin'ny varatra ny mponina any amin'ny helo"
+      ],
+      "answer": "Nilazana ireo mponin'ny helo fa hijanona mandrakizay izy ireo"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

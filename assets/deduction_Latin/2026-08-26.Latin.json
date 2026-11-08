@@ -1,0 +1,61 @@
+{
+  "title": "Invidia Quae Consumpsit",
+  "intro": "Fabula vetustior quam ullum regnum aut scriptura — prima tragoedia humana ex zelotypia nata. Anima quaedam, natu maxima ex duobus liberis primis parentibus natis, ira cum spectabat dum frater/soror minor gratiam negatam accipiebat. Quod secutum est fuit obscurissima electionum, relinquens primum sanguinem umquam in terram effusum. Potesne identitatem, tribulationem, et paenitentiam amarum detegere?",
+  "clues": [
+    "Ex primo prorsus pare hominum qui terram ambulaverunt natus sum.",
+    "Olim oblationem Deo obtuli, sed a me non accepta est.",
+    "Oblatio fratris mei accepta est, mea vero reiecta est—quod ferre non potui.",
+    "Fratri meo exitio minatus sum.",
+    "Primus fui qui homicidium in hac terra commisi, vitam fratris mei ipsius tollens.",
+    "Deus bestiam terrae misit—avem nigram in terram fodientem—ut me doceret quomodo celare quae feceram, et nihil mihi relictum est nisi paenitentia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Propheta Yaqub",
+        "Propheta Musa",
+        "Propheta Adamus"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Oblatio ab Allah reiecta",
+        "In magnum ignem coniectus",
+        "Infans in flumine derelictus",
+        "Regno immenso probatus",
+        "Mandatum filium immolare"
+      ],
+      "answer": "Oblatio ab Allah reiecta"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Corvus ab Allah missus",
+        "Vitulus aureus",
+        "Arca in monte",
+        "Rubus ardens",
+        "Camelus e rupe sculptus"
+      ],
+      "answer": "Corvus ab Allah missus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Paenitentia repletus et inter victos factus",
+        "In terram absorptus una cum thesauris",
+        "Nuntius nobilis Dei factus est",
+        "Paradisum per divinam misericordiam ingressus est",
+        "Regno incomparabili praefuit"
+      ],
+      "answer": "Paenitentia repletus et inter victos factus"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

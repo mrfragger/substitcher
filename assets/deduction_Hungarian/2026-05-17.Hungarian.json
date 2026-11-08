@@ -1,0 +1,61 @@
+{
+  "title": "A kő építészei",
+  "intro": "Képzelj el egy hatalmas civilizációt, amely erővel és szakértelemmel van megáldva, és grandiózus lakóhelyeket váj a hegyoldalakba. Ez a közösség hatalmas jóléttel és egyedülálló építészeti képességekkel rendelkezett. Mégis, a világos figyelmeztetések ellenére egy olyan utat választottak, amely drámai és felejthetetlen végkifejlethez vezetett. Be tudod azonosítani ezt a csoportot, amelynek története mély tanulsággal szolgálhat mindazok számára, akik elgondolkodnak rajta?",
+  "clues": [
+    "Erőt és ügyességet kaptunk, ami lehetővé tette számunkra, hogy csodálatos házakat vájjunk közvetlenül a hegyekbe.",
+    "Egyértelmű jelet kaptunk Allahtól, egy egyedülálló teremtményt, amelyet zavartalanul legeltetni kellett.",
+    "Közösségünk arrogánssá vált, megkérdőjelezve az isteni üzenetet, amelyet egy közülünk származó hírvivő hozott.",
+    "Összeesküdtünk, hogy megkárosítsuk a csodálatos jelet, a súlyos büntetésre vonatkozó figyelmeztetések ellenére.",
+    "Dacoltunk a paranccsal, hogy a különleges teremtmény váltakozó napokon igyon a kútunkból.",
+    "Pusztító vég várt ránk, egyetlen rémisztő robbanás sújtott le minket a vétkünk után."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "'Ad emberei",
+        "Midián népe",
+        "Az elefánt népe",
+        "Thamud népe",
+        "Lut népe"
+      ],
+      "answer": "Thamud népe"
+    },
+    "trial": {
+      "label": "Főbb próbánk/eseményünk",
+      "options": [
+        "Az árvíz, amely elöntötte a földet",
+        "A tenger kettéhasadása",
+        "Egyetlen robbanás/kiáltás pusztítása",
+        "Egy város leégése",
+        "Egy hegy porrá válása"
+      ],
+      "answer": "Egyetlen robbanás/kiáltás pusztítása"
+    },
+    "location": {
+      "label": "Történetünk egyik kulcsfontosságú eleme",
+      "options": [
+        "Egy aranyborjú",
+        "Egy csodálatos nőstény teve",
+        "Egy égő csipkebokor",
+        "Egy beszélő madár",
+        "Egy fenséges trón"
+      ],
+      "answer": "Egy csodálatos nőstény teve"
+    },
+    "outcome": {
+      "label": "Végső eredményünk",
+      "options": [
+        "Hatalmas vagyont és hatalmat adományoztak",
+        "Prófétai rangra emelve",
+        "Teljes megsemmisülés isteni büntetés által",
+        "Őszinte bűnbánat után megbocsátva",
+        "Szétszórva a földön, hogy vándoroljon"
+      ],
+      "answer": "Teljes megsemmisülés isteni büntetés által"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

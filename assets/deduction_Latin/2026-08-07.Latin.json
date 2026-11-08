@@ -1,0 +1,61 @@
+{
+  "title": "Fides Post Thronum",
+  "intro": "Quaedam animae non igne aut diluvio, sed lenta pressione vitae intra palatium tyranni tentantur. Haec persona iuxta principem stabat qui divinitatem super populum suum praedicabat, tamen clam fidei in Unum Deum Verum adhaerebat. Cum eorum devotio detecta est, dolor venit — sed etiam promissum divinum. Potesne divinare quis hic sit?",
+  "clues": [
+    "Sub tecto potentissimi rectoris terrae meae habitavi, in loco quem pauci umquam imaginari possent.",
+    "Sponsus meus coram populo stetit et se deum professus est — sed cor meum ad unum verum Dominum pertinuit.",
+    "Clam preces susurravi, poenam timens quae omnibus qui sponsum meum contemnerent immineret.",
+    "Cum fides mea detecta esset, comprehensus et cruciatus sum — tamen lingua mea numquam verbum incredulitatis protulit.",
+    "Effudi cor meum Domino meo, domum in Paradiso petens, procul ab omni malo.",
+    "Ego sum Asiya bint Muzahim — uxor Pharaonis qui Musam et Harun adversatus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Asiya bint Muzahim (uxor Pharaonis)",
+        "Hawwa (Eva), prima femina",
+        "Sara, prima uxor Ibrahimi",
+        "Agar, mater Ismael",
+        "Mater Mariae (uxoris Imrani)"
+      ],
+      "answer": "Asiya bint Muzahim (uxor Pharaonis)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Tormenta tolerantia propter recusationem fidei abnegationis",
+        "Superstes intra ventrem piscis magni",
+        "Arcam ingentem aedificans ad diluvium effugendum",
+        "In ignem ardentem coniectus",
+        "Magnum maris disiunctionem spectans"
+      ],
+      "answer": "Tormenta tolerantia propter recusationem fidei abnegationis"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Domus eis in Paradiso aedificata",
+        "Baculus qui in serpentem transformatus est",
+        "Arca bina ex omni creatura portans",
+        "Vitulus aureus a gente adoratus",
+        "Funda ad bellum giganteum vincendum adhibita"
+      ],
+      "answer": "Domus eis in Paradiso aedificata"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Honoratus habitatione in Paradiso cum iustis",
+        "Sub undis cum exercitu suo submersi",
+        "Flammis combustus, sed divina interventu servatus",
+        "A magna bestia deglutitus, deinde in litus proiectus",
+        "Divitissimus sui temporis factus est"
+      ],
+      "answer": "Honoratus habitatione in Paradiso cum iustis"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Slapto derliaus saugotojai",
+  "intro": "Žaliuojančioje žemėje grupė asmenų, prisidengę tamsa, sukūrė slaptą planą. Jie turėjo bendrą tikslą, tačiau jų ketinimai toli gražu nebuvo teisingi. Jie nė nenumanė, kad miegodami jų laukė dieviškas posūkis.",
+  "clues": [
+    "Tvirtai apsisprendėme, manydami, kad mūsų planas nepriekaištingas.",
+    "Ketinome išeiti anksti, kol kiti dar nespėjo pajudėti.",
+    "Pasitikėdami savo atsargomis, išsirinkome derlingą sklypą.",
+    "Pasiekę kelionės tikslą, radome jį apleistą ir apleistą, todėl pamanėme, kad pasiklydome.",
+    "Tada supratome, kad tai iš tiesų mūsų vieta, ir iš nevilties šaukėme, kaltindami vienas kitą dėl savo netekties.",
+    "Tą rytą buvome prisiekę neleisti vargšams nuimti derliaus, bet Alacho bausmė ištiko mus miegant ir pavertė mūsų sodą griuvėsiais."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Sodo savininkai Suroje 68",
+        "Sabos žmonės",
+        "Olos palydovai",
+        "Dramblio žmonės",
+        "Tranšėjos žmonės"
+      ],
+      "answer": "Sodo savininkai Suroje 68"
+    },
+    "trial": {
+      "label": "Mūsų išbandymas",
+      "options": [
+        "Mūsų sodą sunaikino nelaimė iš dangaus",
+        "Mūsų sodą nuniokojo potvynis",
+        "Mūsų sodą sudegino priešo ugnis",
+        "Mūsų sodas buvo pilnas skėrių",
+        "Mūsų sodą prarijo žemės drebėjimas"
+      ],
+      "answer": "Mūsų sodą sunaikino nelaimė iš dangaus"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Prisiekėme ryte skinti jo vaisius",
+        "Pastatėme užtvanką savo sodui laistyti",
+        "Ieškojome prieglobsčio oloje, kad apsaugotume save",
+        "Mes paruošėme armiją užkariauti karalystę",
+        "Mes plaukėme laivu kirsti jūros"
+      ],
+      "answer": "Prisiekėme ryte skinti jo vaisius"
+    },
+    "outcome": {
+      "label": "Mūsų likimas",
+      "options": [
+        "Atgailavome ir tikėjomės Alacho gailestingumo",
+        "Buvome visiškai sunaikinti ir niekada neatgailavome",
+        "Mes pabėgome iš žemės ir nebegrįžome",
+        "Vėl tapome galingi ir turtingi",
+        "Mus nubaudė paversdami beždžionėmis"
+      ],
+      "answer": "Atgailavome ir tikėjomės Alacho gailestingumo"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

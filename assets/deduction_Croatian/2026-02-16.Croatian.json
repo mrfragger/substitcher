@@ -1,0 +1,61 @@
+{
+  "title": "Tvrdnja o apsolutnom autoritetu",
+  "intro": "U davna vremena, moćna osoba uzdigla se do vlasti nad prostranom zemljom i njezinim stanovnicima. Vladavinu te osobe obilježio je golem ponos i duboko izazivanje božanskog autoriteta. Pripremite se otkriti identitet duše čija je konačna sudbina postala trajna lekcija za sve generacije.",
+  "clues": [
+    "Vladao sam moćnim carstvom, gdje je moja riječ bila zakon.",
+    "Proglasio sam se vrhovnim božanstvom, zahtijevajući štovanje od svih pod mojom vlašću.",
+    "Ugnjetavao sam određenu zajednicu, porobljavajući ih i naređujući ubijanje njihove muške dojenčadi.",
+    "Više puta sam se suočavao sa skromnim Božjim glasnikom, koji je preda mnom i mojim čarobnjacima činio jasna čuda.",
+    "Tvrdoglavo sam odbacivao istinu, optužujući glasnika za čarobnjaštvo i kujući zavjeru da uništim njega i njegove sljedbenike.",
+    "Cijela moja vojska i ja bili smo preplavljeni morem dok smo neumoljivo progonili one koji su se oslobodili iz mog stiska."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Nimrod",
+        "Ebu Džehl",
+        "Iblis",
+        "Faraon",
+        "Haman"
+      ],
+      "answer": "Faraon"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Velika poplava",
+        "Goruća vatra",
+        "Utapanje tlačitelja",
+        "Uništenje vjetrom",
+        "Potres nevjerice"
+      ],
+      "answer": "Utapanje tlačitelja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Noina arka",
+        "Mojsijev štap",
+        "Zlatni idol",
+        "Zemzamov bunar",
+        "Prijestolje Bilqisa"
+      ],
+      "answer": "Mojsijev štap"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dodijeljeno mu je ogromno kraljevstvo",
+        "Tijelo sačuvano kao znak",
+        "Oprošteno nakon pokajanja",
+        "Uzdignut na proroka",
+        "Njegov narod je postao pobožan"
+      ],
+      "answer": "Tijelo sačuvano kao znak"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

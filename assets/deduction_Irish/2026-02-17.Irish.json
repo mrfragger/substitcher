@@ -1,0 +1,61 @@
+{
+  "title": "Síol an Achrainn",
+  "intro": "Sula raibh an domhan ar an eolas faoi choinbhleacht fhorleathan, tharla tástáil dhomhain ar chreideamh agus ar umhlaíocht. Scrúdaíonn an scéal seo na roghanna a rinne duine aonair, a leagann a ghníomhartha síos sampla do na glúnta atá le teacht. Ullmhaigh chun scéal anam atá ag streachailt le héad ollmhór agus a iarmhairtí tubaisteacha a nochtadh.",
+  "clues": [
+    "Bhí mé i measc na chéad sliocht a shiúl an domhan, leanbh den chéad phéire daonna riamh.",
+    "Tugadh orduithe domsa agus do mo dheartháir íobairt a ofráil d'Allah, tástáil ar ár n-ionracas.",
+    "Níor glacadh le mo thairiscint, ach glacadh le tairiscint mo dhearthár, rud a líon mo chroí le mothúchán uafásach.",
+    "Labhair mé focail bhagartha le mo dheartháir, tiomáinte ag searbhas an diúltaithe.",
+    "D’fhreagair mo dheartháir le heagna agus le cráifeacht, ag cur ceartas Allah agus eagla Allah i gcuimhne dom.",
+    "In ainneoin bhriathra milse mo dhearthár agus a thoilteanas maithiúnas a thabhairt, bhain mé beatha as, agus bhí mé ar dhuine de na cailliúnaithe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ádhamh",
+        "Iblis",
+        "Fáidh Nuh",
+        "Qabil (Cain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An tuile mhór",
+        "Scoilteadh na farraige",
+        "Foirgneamh an Kaaba",
+        "Íobairt na n-íobairtí",
+        "An cathú sa Ghairdín"
+      ],
+      "answer": "Íobairt na n-íobairtí"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "Sliabh Safa",
+        "An Íobairt",
+        "An Tor Dóite"
+      ],
+      "answer": "An Íobairt"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Tháinig sé chun bheith ina theachtaire",
+        "Bádhadh",
+        "Thóg ríocht mhór",
+        "Bhí sé ina shampla den aiféala",
+        "Bronnadh saibhreas ollmhór air"
+      ],
+      "answer": "Bhí sé ina shampla den aiféala"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Son Nümayiş Günü",
+  "intro": "Möhtəşəm güc nümayişinə çağırılan bir qrup bacarıqlı ifaçı, həyatlarını əbədi olaraq dəyişdirəcək gözlənilməz bir həqiqətlə qarşılaşdılar.",
+  "clues": [
+    "Biz sənətkarlığımız, illüziya və hiyləgərlik ustalarımızla məşhur idik.",
+    "Biz hökmdar tərəfindən sadə bir əsa ilə qarşılaşmaq üçün çağırıldıq.",
+    "Haqqı gördükdə, aləmlərin Rəbbinə iman gətirərək səcdəyə düşdük.",
+    "Zalım bizi şiddətli cəza ilə hədələdi, amma biz tərəddüd etmədik.",
+    "Biz açıq-aydın əlaməti gördükdən sonra ona ilk iman gətirənlərdən olduq.",
+    "Biz imanımız uğrunda şəhid olduq, amma salehlərlə birlikdə Cənnətə ilk girən biz olacağıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Fironun sehrbazları",
+        "İsraillilər",
+        "Səmud xalqı",
+        "İsanın şagirdləri",
+        "Əbrəhə ordusu"
+      ],
+      "answer": "Fironun sehrbazları"
+    },
+    "trial": {
+      "label": "Sınaq / Tədbir",
+      "options": [
+        "Musa peyğəmbərlə yarış",
+        "Qüllənin tikilməsi",
+        "Böyük Daşqın",
+        "Çəyirtkələrin Vəbası",
+        "Bölünən Dəniz"
+      ],
+      "answer": "Musa peyğəmbərlə yarış"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Festival Günü",
+        "Tuva Vadisi",
+        "İrəm şəhəri",
+        "Əbədiyyət Bağçası",
+        "Ərəfat düzənliyi"
+      ],
+      "answer": "Festival Günü"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Onlar ictimaiyyət qarşısında çarmıxa çəkildilər",
+        "Onlar dənizdə boğuldular",
+        "Onlar peyğəmbərin davamçıları oldular",
+        "Onlar sürgünə göndərildilər",
+        "Onlar odla məhv edildilər"
+      ],
+      "answer": "Onlar ictimaiyyət qarşısında çarmıxa çəkildilər"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

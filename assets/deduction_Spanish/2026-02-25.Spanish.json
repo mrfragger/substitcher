@@ -1,0 +1,61 @@
+{
+  "title": "La prueba de la roca estéril",
+  "intro": "Una comunidad, hábil y orgullosa, dejó su huella en las mismísimas montañas. Pero cuando recibieron una clara señal, una prueba de fe y autocontrol, su arrogancia los condujo por un camino sin retorno. ¿Puedes identificar a este grupo y las consecuencias de su rebeldía?",
+  "clues": [
+    "Éramos maestros de la piedra, esculpiendo magníficas viviendas directamente en las laderas de las montañas.",
+    "Un mensajero de entre nuestro propio pueblo vino a nosotros, llamándonos a adorar al Único Dios Verdadero.",
+    "Exigimos una señal que probara sus palabras, y una criatura singular fue presentada como prueba para nosotros.",
+    "Se nos dio una orden sencilla: compartir nuestra fuente de agua con esta criatura, dejándola beber en el día que le correspondía.",
+    "En nuestra arrogancia, algunos de nosotros conspiramos y desafiamos la advertencia, acabando con la criatura que debía ser nuestra señal.",
+    "Nos dieron tres días antes de nuestra perdición, y entonces una poderosa explosión nos sorprendió en nuestras casas, dejándonos sin vida y destrozadas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Gente de 'Anuncio'",
+        "Pueblo de Madyan",
+        "Gente de Thamud",
+        "Gente de Saba",
+        "Pueblo de Lut"
+      ],
+      "answer": "Gente de Thamud"
+    },
+    "trial": {
+      "label": "¿Cuál fue nuestra prueba principal?",
+      "options": [
+        "Construir un arca para sobrevivir a un diluvio",
+        "Resistir la tentación de pescar en sábado",
+        "Abandonar las prácticas comerciales fraudulentas",
+        "Protegiendo a una camella milagrosa",
+        "Soportar una hambruna de siete años"
+      ],
+      "answer": "Protegiendo a una camella milagrosa"
+    },
+    "location": {
+      "label": "¿Cuál fue el elemento central de nuestra historia?",
+      "options": [
+        "El becerro de oro",
+        "La camella",
+        "El bastón del profeta Musa",
+        "La Gran Presa de Ma'rib",
+        "La mesa servida desde el cielo"
+      ],
+      "answer": "La camella"
+    },
+    "outcome": {
+      "label": "¿Cuál fue nuestro destino final?",
+      "options": [
+        "Ahogados en un gran diluvio",
+        "Se transformaron en monos y cerdos.",
+        "Abrumados por un viento furioso",
+        "Dispersos por la rotura de una presa",
+        "Destruido por una poderosa explosión/terremoto."
+      ],
+      "answer": "Destruido por una poderosa explosión/terremoto."
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

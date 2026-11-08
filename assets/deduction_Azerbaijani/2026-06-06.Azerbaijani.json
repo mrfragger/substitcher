@@ -1,0 +1,61 @@
+{
+  "title": "Allahın uca bəndəsi",
+  "intro": "Qədim dövrlərdən qalma bir şəxsiyyətin, adi insanlardan üstün bir məqama yüksəlmiş Allahın bir qulunun pıçıldaşmalarını eşidirsiniz. Bu şəxs sarsılmaz səbri və mütləq doğruçuluğu ilə tanınırdı və risalətdən üz döndərən bir qövmə göndərildi. Bu uca ruh kimdir?",
+  "clues": [
+    "Mən Allah tərəfindən peyğəmbər seçildim və Qurani-Kərimdə adım çəkildi.",
+    "Mən Allahın təriflədiyi səbrim və doğruçuluğumla tanınırdım.",
+    "Mən xalqımı tək Allaha ibadət etməyə çağırdım, amma çoxları məni rədd etdi.",
+    "Allah tərəfindən məqamım yüksəldi və mənə yüksək bir məqam verildi.",
+    "Mən tez-tez İsmayıl və Zül-Kifl kimi digər peyğəmbərlərlə yanaşı xatırlanıram.",
+    "Allah mənim haqqımda belə buyurur: “Biz onu yüksək bir məqama qaldırdıq” (19:57)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İdris peyğəmbər",
+        "İlyas peyğəmbər",
+        "Zül-Kifl peyğəmbər",
+        "Peyğəmbər Əl-Yəsa",
+        "Hud peyğəmbər"
+      ],
+      "answer": "İdris peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İnsanları Allaha ibadət etməyə çağırdı",
+        "Gəmini tikdi",
+        "Fironla döyüşdü",
+        "Ağır xəstəliklə müayinə olunub",
+        "Atəşə atıldı"
+      ],
+      "answer": "İnsanları Allaha ibadət etməyə çağırdı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Yüksək rütbəli/yüksək stansiya",
+        "Gəmi",
+        "İşçilər",
+        "Yanğın",
+        "Quyu"
+      ],
+      "answer": "Yüksək rütbəli/yüksək stansiya"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Yüksək statusa yüksəldilib",
+        "Daşqında boğulub",
+        "Balina tərəfindən uduldu",
+        "Yanğından xilas oldu",
+        "Padşah oldu"
+      ],
+      "answer": "Yüksək statusa yüksəldilib"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

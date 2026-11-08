@@ -1,0 +1,61 @@
+{
+  "title": "Kallet fra Den hellige dal",
+  "intro": "Utenfor historiens sider ligger historien om en sjel som sto mellom en mektig hersker og et helt slavebundet folk. Denne personen ble kalt til å befri en nasjon fra tyranni, og utførte underverker som trosset enhver naturlov. Fra et hellig fjell til et mirakel på vannet, var denne Allahs tjener vitne til tegn som ville gi gjenlyd gjennom tidene. Din oppgave i dag er å identifisere denne bemerkelsesverdige skikkelsen hvis arv formet menneskehetens historie.",
+  "clues": [
+    "Jeg ble født i en tid da mitt folk sto overfor en dødelig bestemmelse, og familien min satte meg i vannet for å redde livet mitt.",
+    "Jeg ble funnet og oppvokst i selve husstanden til herskeren som hadde beordret dødsfallene til mitt slag.",
+    "Jeg flyktet til et hellig fjell hvor jeg så ild på et tre som ikke ble fortært, og en stemme talte til meg fra det.",
+    "Jeg ble sendt tilbake til nettopp den herskeren med mirakler, og krevde friheten til mitt slavebundne folk.",
+    "Jeg slo havet med staven min, og det delte seg i tørre stier og slukte forfølgerne som fulgte mitt folk.",
+    "Jeg kommuniserte med min Herre på et fjell i førti netter, og ble gitt tavler med guddommelig veiledning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Harun",
+        "Profeten Ibrahim",
+        "Profeten Yusuf",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Musa"
+    },
+    "trial": {
+      "label": "Min definerende prøvelse",
+      "options": [
+        "Havets deling",
+        "Byggingen av den store arken",
+        "Rettssak i en flammende ild",
+        "Innesperring i en hvals mage",
+        "Fengsling av en egyptisk tjenestemann"
+      ],
+      "answer": "Havets deling"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En gjeterstav",
+        "En stor treark",
+        "En hule der tiden sov",
+        "En hage med to kilder",
+        "En trone utsmykket med gull"
+      ],
+      "answer": "En gjeterstav"
+    },
+    "outcome": {
+      "label": "Resultatet",
+      "options": [
+        "Mitt folk krysset havet i sikkerhet",
+        "En stor flom ødela de vantro",
+        "En tyranns ild ble kjølig og fredelig",
+        "Havet kastet sin fange på stranden",
+        "Fangen ble Egypts kasserer"
+      ],
+      "answer": "Mitt folk krysset havet i sikkerhet"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

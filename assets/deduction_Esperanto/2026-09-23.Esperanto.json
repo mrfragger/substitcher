@@ -1,0 +1,61 @@
+{
+  "title": "La voko kiu eltenis aĝojn",
+  "intro": "Imagu animon, kiu staras sola kontraŭ tuta civilizo, decidita gvidi ilin reen de misgvido kun neŝancelebla rezoluteco. Dum jarcentoj, la mesaĝo estis malakceptita, mokita kaj forĵetita - tamen la penado neniam ĉesis. Fine, granda kalkulo venis, kaj nur kelkaj eniris savon kune kun ĉi tiu firma animo. Ĉu vi povas identigi ĉi tiun figuron el la Korano?",
+  "clues": [
+    "Mi estis sendita kiel admonanto al popolo, kiu perdiĝis laŭ siaj propraj vojoj.",
+    "Mi invitis ilin serĉi pardonon kaj returni sin de siaj maljustaĵoj, sed ili forturniĝis.",
+    "Sub dia ordono, mi konstruis grandegan ŝipon dum mia popolo rigardis kaj mokis min.",
+    "Mi senĉese vokis mian Sinjoron — fine Li respondis, kaj akvo verŝiĝis el la ĉielo torente.",
+    "Mi suriris la ŝipon kun tiuj, kiuj kredis, kiam la inundakvo leviĝis super la tero.",
+    "Mi kriis al unu, kiu restis, petante lin rifuĝi sur monton, sed la dekreto jam estis pasigita."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Nuh",
+        "Profeto Ibrahim",
+        "Profeto Moseo",
+        "Profeto Hud",
+        "Profeto Salih"
+      ],
+      "answer": "Profeto Nuh"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Konstruante grandan arkeon kaj postvivante tutmondan diluvon",
+        "Estante ĵetita en flamantan fajron",
+        "Alfrontante tiranon kaj liajn potencajn magiistojn",
+        "Estante englutita de granda fiŝo",
+        "Atestante la mortigon de sankta kamelo"
+      ],
+      "answer": "Konstruante grandan arkeon kaj postvivante tutmondan diluvon"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Masiva ligna arkeo sur furiozaj inundakvoj",
+        "Sankta valo kun antikvaj ŝtonruinoj",
+        "Profunda kaverno kie kunuloj dormis dum jarcentoj",
+        "La ventro de giganta baleno en oceanaj profundoj",
+        "Turega monto el ŝtono en la sovaĝejo"
+      ],
+      "answer": "Masiva ligna arkeo sur furiozaj inundakvoj"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Savita kun la kredantoj sur la ŝipo",
+        "Savita senvunde el la fajro per dia ordono",
+        "Gvidis grandan eliron el potenca regno",
+        "Elĵetita de la fiŝo sur dezertan bordon",
+        "Forkondukis homojn de malbonfaro per mirakla signo"
+      ],
+      "answer": "Savita kun la kredantoj sur la ŝipo"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

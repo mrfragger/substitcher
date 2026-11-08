@@ -1,0 +1,61 @@
+{
+  "title": "Humiles Veritatis Quaerentes",
+  "intro": "In terra antiquae potentiae et magiae, magna contentio explicatur. Altera pars auctoritatem signorum divinorum exercet, altera vero impossibilia aequare conatur. Exitus cursum historiae in perpetuum mutabit. Potesne identitatem eorum qui veritatem ultimam viderunt et se coram ea humiliaverunt detegere?",
+  "clues": [
+    "Signa vidimus quae ultra artes magicae progressa sunt",
+    "Omnes prostrati sumus, veritatem negare incapaces",
+    "Agnovimus haec signa ab Uno Deo Vero venisse",
+    "Prima communitas fuimus quae fidem tam dramatico modo amplexa est.",
+    "Paradisus nobis promissus est ut praemium pro fide nostra",
+    "Funes et baculi nostri serpentes ante oculos nostros facti sunt, tamen submissionem elegimus"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Magi Pharaonis",
+        "Populus prophetae Ibrahimi",
+        "Humiles veritatis quaerentes",
+        "Populus Speluncae",
+        "Natio Reginae Bilqis"
+      ],
+      "answer": "Magi Pharaonis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Congressus cum baculo prophetae Musae",
+        "Experimentum venti prophetae Hud",
+        "Provocatio a camelula prophetae Salih",
+        "Magnum diluvium in prophetam missum",
+        "Iter prophetae intra balaenam"
+      ],
+      "answer": "Congressus cum baculo prophetae Musae"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Aegyptus Antiqua",
+        "Domus sacra Meccae",
+        "Urbs Madianensis",
+        "Desertum Thamud",
+        "Spelunca antiquorum dormientium"
+      ],
+      "answer": "Aegyptus Antiqua"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Paradisus ut praemium eorum",
+        "Poena in sepulcro",
+        "Amissio hortorum uberum",
+        "Destructio terrae motu repentino",
+        "Salvatio a magna balaena"
+      ],
+      "answer": "Paradisus ut praemium eorum"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

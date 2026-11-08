@@ -1,0 +1,61 @@
+{
+  "title": "Tulinen vastustaja",
+  "intro": "Ilmestyksen alkuaikoina nousi esiin totuuden itsepäinen vastustaja. Vauraudella ja asemalla siunattu sielu valitsi ylpeyden ohjauksen sijaan, ja heidän tarinastaan ​​tuli karu varoitus suuran viimeisissä jakeissa.",
+  "clues": [
+    "Asuin samassa kaupungissa kuin profeetta ja olin hänen lähimpiä sukulaisiaan, mutta ylpeyteni piti minut kaukana totuudesta.",
+    "Minulla oli paljon vaurautta ja lukuisia kiinteistöjä, ja ajattelin, että resurssini aina suojelisivat minua.",
+    "Kun sanoma paljastettiin, pilkkasin sitä avoimesti ja käännyin pois pitäen itseäni uskovia ylempänä.",
+    "Vihamielisyyteni oli niin tunnettua, että eräässä Koraanin suurassa minua kutsuttiin suoraan sillä nimellä, jolla muut minut tunsivat.",
+    "Minua varoitettiin, että varallisuudestani ja tuloistani ei olisi minulle hyötyä, ja minut heitettäisiin liekehtivään tuleen.",
+    "Minut tunnetaan liekin isänä, ja vaimoni kantaa polttopuuta palmukuituköysi kaulassaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Hylkäsi islamin ja vastusti avoimesti profeettaa",
+        "Suunnittelivat profeetan salamurhaa",
+        "Johti sosiaalista boikottia muslimeja vastaan",
+        "Taisteli Badrin taistelussa",
+        "Kidutettu Bilal ibn Rabah"
+      ],
+      "answer": "Hylkäsi islamin ja vastusti avoimesti profeettaa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Köysi palmukuidusta",
+        "Terävä miekka",
+        "Raskas ketju",
+        "Puinen sauva",
+        "Nahkainen ruoska"
+      ],
+      "answer": "Köysi palmukuidusta"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Palaa liekehtivässä tulessa",
+        "Katuivat ja tulivat toveriksi",
+        "Menetti vaurautensa, mutta kuoli kunniakkaasti",
+        "Pakeni Abessiniaan",
+        "Hukkui mereen"
+      ],
+      "answer": "Palaa liekehtivässä tulessa"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

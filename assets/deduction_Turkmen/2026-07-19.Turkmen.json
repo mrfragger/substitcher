@@ -1,0 +1,61 @@
+{
+  "title": "Asyrlaryň diňlenmedik sesi",
+  "intro": "Beýik şäherler döremezden has öň, hakykatdan ýüz öwüren halkyň arasynda ýalňyz bir jan peýda boldy. Olaryň inadkärligi diňe bu ýalňyz çagyryjynyň sabyrlylygy bilen deňleşýärdi, ol nesiller boýy erk-islegini ýitirmän ýalbarýardy. Ähli duýduryşlar gulagyna düşende, deňsiz-taýsyz hasaplaşma ýer ýüzüniň özünde täzeden emele geldi. Häzirki wagtda bu hekaýanyň ýaňlanmalary her bir okalyşda henizem ýaňlanýar. Bu erk-islegli jany tanap bilersiňizmi?",
+  "clues": [
+    "Men ýalan butlara sežde edýän we daş-töweregindäki alamatlara üns bermeýän halkyň arasynda terbiýelendim, ýöne olary gaflatdan oýarmak üçin saýlandym.",
+    "Men öz halkyma gaýta-gaýta seslendim, ýöne olar meni diňe özleri ýaly adam bolmakda, meniň habarymy masgaralamakda we gulaklaryny ýapmakda aýypladylar.",
+    "Gije-gündiz men olara paýhas we ýumşak ýatlatmalar bilen ýalbardym, ýöne sözlerim eşidilmän we diňlenilmän, howada ýitip giden ýalydy.",
+    "Hudaýyň görkezmesi bilen men gury ýerde agaçdan we tagtadan ägirt uly bir gap ýasadym we halkym maňa akylyny ýitiren biri hökmünde güldüler.",
+    "Wada edilşi ýaly uly sil gelende, öz oglum dagyň ony ýokary galýan suwlardan gorajakdygyna ynanyp, meniň bilen gämi münmekden ýüz öwürdi.",
+    "Men ýer ýüzünde täze başlangyjyň patriarhy boldum we meniň hekaýam meniň adymy göterýän Gurhanyň bir bölüminde saklanýar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Nuh pygamber",
+        "Ybraýym pygamber",
+        "Musa pygamber",
+        "Lut pygamber",
+        "Hud pygamber"
+      ],
+      "answer": "Nuh pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ýer ýüzüni täzeden döreden Beýik Tupan",
+        "Butparazlar tarapyndan ýanyp duran oda taşlanmak",
+        "Köşkde faraonyň jadygöýleri bilen ýüzbe-ýüz bolmak",
+        "Gökdäki tupandan gülläp ösýän baglaryň ýok edilmegi",
+        "Hendekde ýaşaýanlaryň agdarylmagy"
+      ],
+      "answer": "Ýer ýüzüni täzeden döreden Beýik Tupan"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Gämi agaçdan we tagtalardan guruldy",
+        "Gadymy esaslaryň üstünde gurlan mukaddes jaý",
+        "Ýylana öwrülen taýajyk",
+        "Uklap ýatan ýaşlaryň gowagy",
+        "Güýçli bir jandaryň göterýän tagty"
+      ],
+      "answer": "Gämi agaçdan we tagtalardan guruldy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Kafirler suwa gark boldular, möminler bolsa gämide halas boldular.",
+        "Ot sowuk we howpsuz boldy, jaň edýän adam bolsa zyýansyz çykdy",
+        "Jadygöýler sežde etdiler we iman getirdiler",
+        "Bag onuň ýerine salyh goňşusyna berildi",
+        "Ukuda ýatanlaryň asyrlardan soň oýanyp, özgerişler boldy"
+      ],
+      "answer": "Kafirler suwa gark boldular, möminler bolsa gämide halas boldular."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

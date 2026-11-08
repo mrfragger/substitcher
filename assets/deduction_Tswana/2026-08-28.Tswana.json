@@ -1,0 +1,61 @@
+{
+  "title": "Kgoreletso kwa Ntlong ya Bogologolo",
+  "intro": "Mo motseng o o boitshepo, motho mongwe yo o maatla o ne a galefa thata fa molaetsa o mosha o simolola go anama. Motho yono, yo leina la gagwe le neng la nna bokao jo bo tshwanang le go nna kgatlhanong le boammaaruri, o ne a lebile tlhotlheletso ya bone e thubega ka fa tlase ga bokete jwa tshenolo ya bomodimo. Moya ono e ne e le mang, o phelelo ya one e neng ya tshwaiwa mo motlhabeng wa lefelo le le tumileng la ntwa?",
+  "clues": [
+    "Ke ne ke le kgosi mo bathong ba gaetsho, ke itsege ka khumo ya me le tlhotlheletso ya me mo motseng o o neng o na le lefelo le le boitshepo la bogologolo.",
+    "Fa monna mongwe wa morafe wa gaetsho a ne a simolola go bolela molaetsa wa Modimo o le mongwe fela, ke ne ke mo sotla le ditshenolo tsa gagwe, ke di bitsa dipolelo fela tsa nako e e fetileng.",
+    "Ke ne ka lebana le monna yoo fa a ntse a rapela gaufi le kago e e boitshepo, ke mo tshosetsa gore o tla emisa kobamelo ya gagwe ka dikgoka fa go tlhokega.",
+    "Ke ne ke le mongwe wa baeteledipele ba ba neng ba loga leano la go didimatsa tumelo e ntšha, ba ganetsa balatedi ba yone ka mafoko le ka dibetsa.",
+    "Ke ne ka gwanta le mophato go ya kwa lefelong le le bidiwang Badr, ke tlhomamisegile gore re tla thubaganya setlhopha se sennye sa badumedi.",
+    "Mme mo lebaleng leo la ntwa, botshelo jwa me bo ne jwa tla kwa bokhutlong, mme loso lwa me lwa nna thuto mo go ba ba ganelelang mo go sa dumeleng morago ga matshwao a a bonalang sentle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Natere ibn al-Harithe",
+        "Umayyah ngwana wa Khalaf",
+        "Utba ibn Rabia"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go thibela Moporofeti go rapela kwa Kaaba",
+        "Go aga Kaaba",
+        "Go kwala Quran",
+        "Go etelela pele mophato wa tlou",
+        "Go kgaoganya ngwedi"
+      ],
+      "answer": "Go thibela Moporofeti go rapela kwa Kaaba"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Kaaba",
+        "Letlole la ga Moporofeti Nuh",
+        "Badiri ba ga Moporofeti Musa",
+        "Namane ya Gauta",
+        "Setulo sa Bogosi sa Kgosigadi ya Sheba"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O bolailwe kwa Ntweng ya Badr",
+        "O ne a ikwatlhaya mme a nna Momoseleme",
+        "O ne a tshabela kwa Abisinia",
+        "O tlhokafetse ka Ngwaga wa Tlou",
+        "E ne ya nna molekane wa Moporofeti"
+      ],
+      "answer": "O bolailwe kwa Ntweng ya Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

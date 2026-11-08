@@ -1,0 +1,61 @@
+{
+  "title": "Il-Pazjent Wieħed",
+  "intro": "Żmien twil ilu, fl-ewwel jiem tal-istorja tal-bniedem, żewġ erwieħ qagħdu quddiem il-Ħallieq tagħhom b’offerti. Waħda ġiet aċċettata, l-oħra ma ġietx. Dak li segwa sar l-ewwel traġedja kbira bejn aħwa - att wieħed ta’ rażżan paċenzjuż u att wieħed ta’ vendetta morra. Tista’ tiskopri min jien?",
+  "clues": [
+    "Jiena twelidt fl-ewwel jiem tal-eżistenza umana fid-dinja",
+    "Kont tifel tal-ewwel par ta’ bnedmin li qatt mxew fuq din l-art",
+    "Darba offrejt sagrifiċċju mill-aqwa tal-merħla tiegħi biex nogħġob lill-Ħallieq tiegħi",
+    "L-offerta tiegħi ġiet aċċettata minn fuq, filwaqt li l-offerta ta’ ħija ġiet miċħuda.",
+    "Meta kont mhedded bil-mewt, għażilt li ma ngħollix idi kontra ħija",
+    "Sirt l-ewwel persuna fl-istorja kollha tal-bniedem li nqatlet inġustament minn ieħor"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Ħabil (Abel), bin Adam",
+        "Qabil (Kajjin), bin Adam",
+        "Adam, l-ewwel bniedem",
+        "Nuh (Noè)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Ħabil (Abel), bin Adam"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-ewwel qtil fl-istorja tal-bniedem",
+        "Id-dilluvju kbir ta’ Nuh",
+        "Il-qerda tal-armata ta' Fir'awn",
+        "Is-sagrifiċċju ta' Ismail minn Ibrahim",
+        "Il-battalja kontra Jalut (Goliath)"
+      ],
+      "answer": "L-ewwel qtil fl-istorja tal-bniedem"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Nagħġa offruta bħala sagrifiċċju pjaċevoli",
+        "Arka kbira tal-injam",
+        "Bastun li nbidel f’serp",
+        "Għasfur tal-upup li jġorr messaġġ rjali",
+        "Trinka tan-nar qawwija"
+      ],
+      "answer": "Nagħġa offruta bħala sagrifiċċju pjaċevoli"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Saret l-ewwel vittma ta’ qtil fl-istorja tal-bniedem",
+        "Ħassejtni ħaj minn għargħar kbir ġewwa bastiment tal-injam",
+        "Għex ġewwa żaqq ħuta kbira",
+        "Ħakem fuq il-ġinn, il-bnedmin, u r-riħ",
+        "Għaddejt għal erbgħin sena f’deżert vast"
+      ],
+      "answer": "Saret l-ewwel vittma ta’ qtil fl-istorja tal-bniedem"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

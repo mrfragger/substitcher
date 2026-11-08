@@ -1,0 +1,61 @@
+{
+  "title": "A völgy csendes hangja",
+  "intro": "Lépj vissza az időben egy hatalmas néphez, akik egykor egy élő csodát kaptak próbára. Az arrogancia és a makacsság pecsételte meg sorsukat. Vissza tudod követni a történetet, és felfedezni, mi bontakozott ki ebben a drámai fordulópontban?",
+  "clues": [
+    "Isteni próbatételként küldtek egy hatalmas néphez, akik erejükről és dacosságukról voltak ismertek.",
+    "Egyedülálló csoda voltam – hozzám hasonló még soha nem jelent meg közöttük.",
+    "Váltott napokon ivóvizet osztottam meg a népemmel egy kútból.",
+    "Figyelmeztették őket, hogy bármilyen bántalmazás ellenem gyors büntetést von maga után.",
+    "A legmerészebbek közülük figyelmen kívül hagyták a figyelmeztetést, és megbénítottak.",
+    "Halálom után egyetlen mennydörgő kiáltás felülről elpusztította az egész népemet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Salih teve",
+        "A Musa tehene",
+        "Nuh hajója",
+        "Mózes botja",
+        "Bilqis trónja"
+      ],
+      "answer": "Salih teve"
+    },
+    "trial": {
+      "label": "A sorsom",
+      "options": [
+        "Megbénult és megölt",
+        "Áldozatként levágták",
+        "Kígyóvá változott",
+        "Megmentve egy nagy árvíz során",
+        "Gyorsan átvitték egy királyságon"
+      ],
+      "answer": "Megbénult és megölt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy kútvíz",
+        "Egy kőtábla",
+        "Egy égő csipkebokor",
+        "Egy fából készült bárka",
+        "Arany és ezüst trón"
+      ],
+      "answer": "Egy kútvíz"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egyetlen sikoly pusztította el",
+        "Egy nagy árvízbe fulladt",
+        "Kőzápor égette meg",
+        "Heves szél csapott le",
+        "Elnyelte a föld"
+      ],
+      "answer": "Egyetlen sikoly pusztította el"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

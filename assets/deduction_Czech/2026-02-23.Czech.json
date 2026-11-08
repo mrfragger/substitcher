@@ -1,0 +1,61 @@
+{
+  "title": "Hlas skrytého přesvědčení",
+  "intro": "V srdci tyranského dvora, kde nevíra byla zákonem země, kráčela osamělá duše po laně víry a strachu. Tato osoba, blízko centra moci, naslouchala prorokovu poselství, které se setkalo s opovržením a výhrůžkami. Nastal okamžik pravdy, který donutil tuto osobu volit mezi tichým bezpečím a pronesením nebezpečné pravdy. Dokážete odhalit identitu tohoto odvážného zastánce?",
+  "clues": [
+    "Žil jsem přímo v domácnosti tyrana a na vlastní oči jsem byl svědkem arogance, která odmítala božská znamení.",
+    "Svou víru jsem uchovával v tajnosti, jako skrytý poklad v paláci modlářství.",
+    "Slyšel jsem, jak vůdce, kterému jsem sloužil, plánuje zabít Alláhova posla, muže jménem Músa.",
+    "Zpochybnil jsem jejich logiku a připomněl jsem jim osud lidu Nuha, Ada a Thámuda.",
+    "Položil jsem svým lidem kritickou otázku: „Jestliže je lhář, lež na něm; ale je-li pravdomluvný, některé z jeho slibů vás zasáhnou.“",
+    "Můj příběh je vyprávěn jako příklad víry v súře s názvem „Odpouštějící“, kde jsem varoval svůj lid před úklady mocných."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Věřící z faraónovy rodiny",
+        "Haman",
+        "Kouzelníci z Far'awnu",
+        "Karun",
+        "Samiři"
+      ],
+      "answer": "Věřící z faraónovy rodiny"
+    },
+    "trial": {
+      "label": "Jaká byla moje zkouška?",
+      "options": [
+        "Obhajoba proroka Musy u tyranova dvora",
+        "Stavba vznešené věže, která dosáhne nebes",
+        "Být uvržen do planoucího ohně",
+        "Být spolknut obří rybou",
+        "Ztráta veškerého bohatství a zdraví"
+      ],
+      "answer": "Obhajoba proroka Musy u tyranova dvora"
+    },
+    "location": {
+      "label": "Jaké bylo téma mé hádky?",
+      "options": [
+        "Důsledek odmítnutí prorokova poselství",
+        "Požadavek na znamení z posvátného stromu",
+        "Vytvoření telete z roztavených šperků",
+        "Zázrak velblouda ze skály",
+        "Výklad snů vládce"
+      ],
+      "answer": "Důsledek odmítnutí prorokova poselství"
+    },
+    "outcome": {
+      "label": "Jaký byl výsledek?",
+      "options": [
+        "Alláh zachránil tohoto člověka před jeho zlým úkladem",
+        "Celý dvůr okamžitě přijal islám",
+        "Tyran činil pokání v okamžiku tonutí",
+        "Tyran byl pohlcen zemí",
+        "Jednotlivec byl vyhnán do daleké země"
+      ],
+      "answer": "Alláh zachránil tohoto člověka před jeho zlým úkladem"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

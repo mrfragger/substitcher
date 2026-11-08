@@ -1,0 +1,61 @@
+{
+  "title": "Die Flamme im Palast der Arroganz",
+  "intro": "Hinter den imposanten Mauern des mächtigsten Palastes der Antike lebte eine Gestalt, deren Herz ein Geheimnis barg, das kein königlicher Erlass zum Schweigen bringen konnte. Während sich alle um sie herum falschen Göttern verneigten, bewahrte diese Seele einen stillen, brennenden Glauben in sich. Der Herrscher jenes Landes hielt sich für göttlich, doch dieser Mensch wählte die Wahrheit statt Bequemlichkeit und die Hingabe statt Sicherheit. Heute ist es Ihre Aufgabe, herauszufinden, wer diese mutige Seele war, deren Geschichte bis heute eines der eindrucksvollsten Beispiele unerschütterlichen Glaubens ist.",
+  "clues": [
+    "Ich lebte an einem Ort von unermesslichem Reichtum und unvergleichlicher Pracht, wo der Herrscher des Landes die absolute Macht über alle besaß.",
+    "Während die Menschen um mich herum falschen Göttern huldigten, bewahrte ich ein stilles Licht des Glaubens in meinem Herzen.",
+    "Ich entdeckte und adoptierte ein Kind, das auf ungewöhnliche Weise zu mir gelangte – nicht durch Geburt, sondern durch die Wasser eines großen Flusses.",
+    "Ich betete zu meinem Herrn und bat um ein Zuhause in seiner Nähe im Paradies und um Erlösung von der Tyrannei, die mich umgab.",
+    "Das Kind, das ich großgezogen habe, wuchs heran und stellte den Herrscher in Frage, der über mein Schicksal bestimmt hatte, und ich blieb standhaft in meinem Glauben, selbst als ich bedroht wurde.",
+    "Ich bin derjenige, dessen Name im Koran als Vorbild des Glaubens verehrt wird, und ich lebte im Palast des Pharaos selbst."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Asiya, die Frau des Pharaos",
+        "Maryam, die Mutter von Isa",
+        "Bilqis, die Königin von Saba",
+        "Die Frau des Propheten Lot",
+        "Die Frau von Imran"
+      ],
+      "answer": "Asiya, die Frau des Pharaos"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Entdeckung und Aufzucht eines ausgesetzten Säuglings, der zu einem großen Propheten wurde",
+        "Von einem Tyrannen in ein großes Feuer geworfen werden",
+        "Zeuge einer großen Flut, die ein Volk vernichtete",
+        "Eine Dattelpalme schütteln und nähren",
+        "Trotz fortgeschrittenen Alters einen Sohn empfangen"
+      ],
+      "answer": "Die Entdeckung und Aufzucht eines ausgesetzten Säuglings, der zu einem großen Propheten wurde"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein königlicher Palast von unvergleichlicher Pracht",
+        "Ein großartiges Schiff, gebaut, um einer Flut standzuhalten",
+        "Eine tiefe Höhle, verborgen in den Bergen",
+        "Ein loderndes Feuer auf einem Berggipfel",
+        "Ein von Mauern umschlossener Garten"
+      ],
+      "answer": "Ein königlicher Palast von unvergleichlicher Pracht"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Durch den Willen Allahs wurde ihm ein Zuhause im Paradies gewährt.",
+        "Eine gewaltige Flut vernichtete die Ungläubigen eines alten Volkes",
+        "In dieser Welt wurde ein Königreich von immenser Macht und Autorität gewährt.",
+        "Ein mächtiges Heer wurde von Vögeln im Flug zerstreut.",
+        "Ein Tyrann, der sich als göttlich ausgab, ertrank im Meer"
+      ],
+      "answer": "Durch den Willen Allahs wurde ihm ein Zuhause im Paradies gewährt."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

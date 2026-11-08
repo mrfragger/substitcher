@@ -1,0 +1,61 @@
+{
+  "title": "Yolg'izlik chekinishi",
+  "intro": "Ilohiy marhamat yilnomalarida muqaddas yo'nalishda yolg'izlikni izlash uchun o'z xalqidan ajratilgan mislsiz poklik ruhi mavjud. Ular bu yolg'izlik barcha olamlar uchun belgi, abadiy tilga olinadigan imon sinovini keltirib chiqarishini bilishmagan edi.",
+  "clues": [
+    "Men tug'ilishimdan oldin xizmat hayotiga bag'ishlangan edim.",
+    "Men ulug' payg'ambarning qaramog'iga topshirildim.",
+    "Menga Alloh tomonidan valiyimni hayratda qoldiradigan rizq-ro'z berildi.",
+    "Men oilamdan sharqiy joyga ko'chib o'tdim.",
+    "Menga mukammal inson qiyofasida bir farishta zohir bo'lib, pokiza o'g'il haqida xushxabar keltirdi.",
+    "Yangi tug'ilgan chaqalog'im bilan qaytib kelganimda, odamlarim meni ayblashdi, lekin chaqaloq meni himoya qilib gapirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Maryam (Maryam)",
+        "Osiyo (Fir'avnning xotini)",
+        "Hojar (Ismoilning onasi)",
+        "Sora (Ibrohimning xotini)",
+        "Musoning onasi"
+      ],
+      "answer": "Maryam (Maryam)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Mo''jizaviy homiladorlik va o'g'il tug'ilishi",
+        "Olovga tashlanmoqda",
+        "Gigant baliq tomonidan yutib yuborilmoqda",
+        "Buyuk kema qurish",
+        "Dengizni kesib o'tish"
+      ],
+      "answer": "Mo''jizaviy homiladorlik va o'g'il tug'ilishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tanho sharqiy joy",
+        "Yonayotgan buta",
+        "Qizil dengiz",
+        "Suv otilib chiqqan tosh",
+        "Kit"
+      ],
+      "answer": "Tanho sharqiy joy"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Chaqaloq onasini himoya qilib gapirdi",
+        "Dengiz ikkiga bo'lindi",
+        "Olov salqin va xavfsiz bo'lib qoldi",
+        "Kit qirg'oqqa qusdi",
+        "Kema tog'ga qo'ndi"
+      ],
+      "answer": "Chaqaloq onasini himoya qilib gapirdi"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

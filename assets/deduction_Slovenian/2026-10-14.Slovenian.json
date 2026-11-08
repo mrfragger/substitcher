@@ -1,0 +1,61 @@
+{
+  "title": "Izgnani kršitelji zavez",
+  "intro": "V zgodnjih dneh mlade skupnosti je pleme nekoč živelo v utrjenih bivališčih, vezano s paktom. Ko je bil ta pakt izročen, so se posledice odražale na straneh Korana. Kdo so bili ti ljudje in kaj se je zgodilo z njihovimi domovi in ​​sadovnjaki?",
+  "clues": [
+    "Živeli smo v trdnjavah, ki so nam dajale lažen občutek varnosti.",
+    "Bili smo ljudje Svetega pisma, a smo kljub temu prelomili svojo zavezo.",
+    "Ko je prišel k nam, smo snovali zaroto proti poslancu, vendar je naš načrt propadel.",
+    "Naše palme so bile posekane po Alahovem ukazu, kar je znak Njegove moči.",
+    "Izgnali so nas iz naših domov, da se nismo nikoli vrnili, kot kazen za našo kljubovalnost.",
+    "Koran nas omenja v poglavju o zbiranju in naša zgodba služi kot opozorilo tistim, ki kršijo pakte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Banu Nadir",
+        "Banu Kurajza",
+        "Banu Kajnuka",
+        "Ljudje iz Madyana",
+        "Ljudje iz Thamuda"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Obleganje in izgon iz njihovih domov",
+        "Utapljanje v morju",
+        "Biti pogoltnjen od zemlje",
+        "Uničenje zaradi nevihte",
+        "Spremenjeni v opice"
+      ],
+      "answer": "Obleganje in izgon iz njihovih domov"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Posekane palme",
+        "Osebje",
+        "Skrinja",
+        "Vodnjak vode",
+        "Jama"
+      ],
+      "answer": "Posekane palme"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Izgnani in odvzeti jim premoženje",
+        "Vrnil se je zmagoslavno",
+        "Bili so odpuščeni in ostali",
+        "Takoj vstopil v raj",
+        "Prizadela jih je kuga"
+      ],
+      "answer": "Izgnani in odvzeti jim premoženje"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

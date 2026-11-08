@@ -1,0 +1,61 @@
+{
+  "title": "Üksildane retriit",
+  "intro": "Jumaliku soosingu annaalides leidub võrratu puhtusega hing, kes on oma rahvast eraldatud otsima üksindust pühas suunas. Nad ei osanud aimatagi, et see eraldatus toob kaasa märgi kogu maailmale, usu katsumuse, millest räägitakse igavesti.",
+  "clues": [
+    "Enne sündi olin pühendunud teenimisele.",
+    "Mind pandi ülla prohveti eestkoste alla.",
+    "Mind varustati Allahi poolt nii suure hulga toiduga, et mu eestkostja oli hämmastunud.",
+    "Ma tõmbusin oma perekonnast eemale idapoolsesse paika.",
+    "Mulle ilmus ingel täiusliku mehe kujul ja tõi uudise puhtast pojast.",
+    "Kui ma oma vastsündinuga tagasi tulin, süüdistasid mu inimesed mind, aga imik kaitses mind."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Maryam (Maarja)",
+        "Asija (vaarao naine)",
+        "Hajar (Ismaili ema)",
+        "Saara (Ibrahimi naine)",
+        "Musa ema"
+      ],
+      "answer": "Maryam (Maarja)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Imeline eostamine ja poja sünd",
+        "Tulle viskamine",
+        "Hiiglasliku kala poolt alla neelamine",
+        "Suure laeva ehitamine",
+        "Mere ületamine"
+      ],
+      "answer": "Imeline eostamine ja poja sünd"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Eraldatud idapoolne koht",
+        "Põlev põõsas",
+        "Punane meri",
+        "Kivi, millest vesi purskas",
+        "Vaal"
+      ],
+      "answer": "Eraldatud idapoolne koht"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Imik kaitses ema",
+        "Meri oli lahknenud",
+        "Tuli muutus jahedaks ja ohutuks",
+        "Vaal oksendas kaldale",
+        "Laev maandus mäele"
+      ],
+      "answer": "Imik kaitses ema"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mtangazaji wa Gharika Kuu",
+  "intro": "Mtu huyu alisimama kama nguzo ya uvumilivu kwa karne nyingi, akiita jamii yenye ukaidi kuelekea nuru ya ukweli huku akikabiliwa na kejeli na kukataliwa. Licha ya vikwazo vingi na uzito wa ujumbe ulioenea vizazi vingi, mtumishi huyu alibaki imara katika utume wake hadi amri ya mwisho ilipotolewa.",
+  "clues": [
+    "Nilitumia miaka mia tisa na hamsini nikiwaita watu wangu kwenye njia ya haki, mchana na usiku, kwa siri na hadharani.",
+    "Niliwaonya watu wangu kuhusu adhabu chungu, lakini waliweka vidole vyao masikioni mwao na kujifunika nguo zao kwa kiburi.",
+    "Niliamriwa kujenga kitu kikubwa chini ya macho ya Bwana wangu, ingawa hapakuwa na maji yoyote.",
+    "Nilipokuwa nikifanya kazi, viongozi wa watu wangu walipita na kunidhihaki, lakini niliwaambia kwamba hivi karibuni tutakuwa tunawadhihaki.",
+    "Niliomba damu na mwili wangu ujiunge nami, lakini walichagua kutafuta kimbilio kwenye mlima, wakiamini ungewaokoa kutokana na wimbi linaloongezeka.",
+    "Chombo changu hatimaye kilitua juu ya Mlima Judi baada ya ardhi kumeza maji yake na anga kuacha kunyesha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Hud",
+        "Nabii Salih",
+        "Nabii Nuh",
+        "Nabii Lut",
+        "Nabii Shu'ayb"
+      ],
+      "answer": "Nabii Nuh"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Wafanyakazi wa Kubadilisha",
+        "Gharika Kuu",
+        "Moto wa Kupoeza",
+        "Bahari Inayogawanyika",
+        "Ngamia wa Mungu"
+      ],
+      "answer": "Gharika Kuu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa Dhahabu",
+        "Wafanyakazi",
+        "Shati",
+        "Sanduku",
+        "Pete"
+      ],
+      "answer": "Sanduku"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuingia Nchi ya Ahadi",
+        "Kuzama katika Bahari Nyekundu",
+        "Kupumzika kwenye Mlima Judi",
+        "Kutupwa shimoni",
+        "Kupanda Mbinguni"
+      ],
+      "answer": "Kupumzika kwenye Mlima Judi"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

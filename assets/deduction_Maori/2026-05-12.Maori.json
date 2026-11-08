@@ -1,0 +1,61 @@
+{
+  "title": "Te Mana Whakahē",
+  "intro": "I ngā whenua onamata, i mua he mana nui i pupuri i te mana, i whakahaere i ngā rauemi nunui me te oranga o te tini o te tangata. Ahakoa ngā tohu me ngā whakatūpato mārama, i whiriwhiria e tēnei rangatira te ara whakakeke, ā, ka arahina atu ki tētahi pakanga nui ka pāorooro i roto i ngā wā.",
+  "clues": [
+    "I kī ahau i a au te mana me te mana mutunga kore i runga i tētahi rohe nui whakaharahara.",
+    "I wero ahau i tētahi karere whakaiti i tonoa mai e te Ariki o ngā ao katoa.",
+    "I mōhiotia tōku iwi mō tō rātou mōhio ki ngā hanganga nunui me te awa i ora ai tō mātou ao.",
+    "I kite ahau i ngā tohu whakamiharo maha, tae atu ki tētahi tokotoko e huri ana hei nakahi, me tētahi ringa e kanapa ana.",
+    "I whakakahore ahau ki te tuku i tētahi rōpū pononga kia wehe i tōku whenua, ahakoa ngā whakahau a te Atua.",
+    "Nā taku whai i te iwi e wehe atu ana mātou ko aku ope taua i ārahi ki waenganui o te moana wehewehe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Yusuf",
+        "Kīngi Talut",
+        "Parao (Fir'awn)",
+        "Poropiti a Rawiri",
+        "Namrud"
+      ],
+      "answer": "Parao (Fir'awn)"
+    },
+    "trial": {
+      "label": "Te Pakanga Matua",
+      "options": [
+        "Te waipuke i horomia ai te whenua",
+        "Te wehenga o te moana",
+        "Te rakau e mura ana",
+        "Te hanganga o te Kaaba",
+        "Te whakangaromanga e te hau nui"
+      ],
+      "answer": "Te wehenga o te moana"
+    },
+    "location": {
+      "label": "Te Whakamārama i te Āhuatanga",
+      "options": [
+        "He kararehe kōrero",
+        "He tokotoko me te ringa kanapa",
+        "He whānautanga whakamiharo",
+        "He whāriki rere",
+        "He torona rangatira i runga i te wai"
+      ],
+      "answer": "He tokotoko me te ringa kanapa"
+    },
+    "outcome": {
+      "label": "Te Whakamutunga",
+      "options": [
+        "I piki ki te rangi",
+        "Horomia e te whenua",
+        "I toremi ki te moana",
+        "Kua hurihia hei makimaki",
+        "I te mea he nui te taonga me te mana"
+      ],
+      "answer": "I toremi ki te moana"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

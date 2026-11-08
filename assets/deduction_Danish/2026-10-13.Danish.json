@@ -1,0 +1,61 @@
+{
+  "title": "Den brændende modstander",
+  "intro": "I åbenbaringens tidlige dage fremstod en skikkelse som en stædig modstander af sandheden. Velsignet med rigdom og status valgte denne sjæl stolthed frem for vejledning, og deres historie blev en barsk advarsel i de sidste vers af en sura.",
+  "clues": [
+    "Jeg boede i samme by som profeten, og jeg var blandt hans nærmeste slægtninge, men min stolthed holdt mig fjern fra sandheden.",
+    "Jeg besad stor rigdom og talrige ejendomme, og jeg troede, at mine ressourcer altid ville beskytte mig.",
+    "Da budskabet blev åbenbaret, hånede jeg det åbenlyst og vendte mig bort, idet jeg anså mig selv for at være højere end de troende.",
+    "Mit fjendskab var så notorisk, at en sura i Koranen henvendte sig direkte til mig og kaldte mig ved det navn, som andre kendte mig.",
+    "Jeg blev advaret om, at min rigdom og min indtjening ikke ville gavne mig, og at jeg ville blive kastet i en flammende ild.",
+    "Jeg er kendt som flammens fader, og min kone vil bære brændet med et reb af palmefibre om halsen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Afviste islam og modsatte sig åbent profeten",
+        "Planlagde at myrde profeten",
+        "Ledte en social boykot mod muslimer",
+        "Kæmpede i slaget ved Badr",
+        "Torturerede Bilal ibn Rabah"
+      ],
+      "answer": "Afviste islam og modsatte sig åbent profeten"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Et reb af palmefiber",
+        "Et skarpt sværd",
+        "En tung kæde",
+        "En træstav",
+        "En læderpisk"
+      ],
+      "answer": "Et reb af palmefiber"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vil brænde i en flammende ild",
+        "Omvendte sig og blev en ledsager",
+        "Mistede sin rigdom, men døde æret",
+        "Flygtede til Abessinien",
+        "Druknet i havet"
+      ],
+      "answer": "Vil brænde i en flammende ild"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La denuncia ascoltada sora el rumor",
+  "intro": "Se sente una vus che la salta sü de una società induè l’upresiun l’è diventada una routine. Nissüna mostra de podè rispunt al reclamo; inveci, un appell dirett riva a Allah e la risposta la colpiss el cœur del cult stess. Chi g’ha fatt chela lamentaziun, che dumanda l’è vegnuda dopu e che verità l’è stada cunfermada?",
+  "clues": [
+    "Me son turbà per l’upresiun di gent intorn a mi.",
+    "Ho espress quel dolento diretament a Allah ind una denuncia personal.",
+    "Allah l’ha ascoltad la lamentazion e l’ha respondud cond una sfida su la mia convinzion.",
+    "La resposta la domandava come pudevi miga creder in Allah, qe l’è Un e Suprem.",
+    "Poeu g’ho dumandà perché Allah g’havaria de favorì un popul che l’era minga creduu.",
+    "Mi sun Uzair, ciamà in de la Sura Az-Zukhruf cuma chel che Allah g’ha ascultà la sò lamentaziun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Uzair",
+        "El compagn che g’ha navigà sül grand diluvio",
+        "El servitur che caminava sü l’aqua",
+        "El durmient prutètt denter de una caverna",
+        "El servitur che g’ha purtà di sass a un fiümm"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Lamentar-s a Allah per l'upresiun del popul",
+        "Caminar sü l’aqua durant una tempesta",
+        "Trasportar i sass a un fiümm che g’haveva minga aqua",
+        "Navigar travers de una grand inondaziun a bord del Arca",
+        "Ricef la ciaf de un immens tesoro"
+      ],
+      "answer": "Lamentar-s a Allah per l'upresiun del popul"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una lagna diretta indirizzada a Allah",
+        "Un bastun che l’è diventà un serpent",
+        "Un forn rendü frècc e tranquil",
+        "Un'arca che gallegia sü l'aqua di inondaziun",
+        "Un pess che inglutiss un servitur"
+      ],
+      "answer": "Una lagna diretta indirizzada a Allah"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Allah l’ha ascoltad la lamentazion e l’ha confermad l’Unità divina e la Signoria Suprema",
+        "Caminar en mod sicür sü l’aqua durant una tempesta",
+        "Traversà en mod sicür una grand inondaziun a bord del Arca",
+        "Recuperà la vista denter de un palazz de arroganza",
+        "Ricef un domini che se slunga de Est a Ovest"
+      ],
+      "answer": "Allah l’ha ascoltad la lamentazion e l’ha confermad l’Unità divina e la Signoria Suprema"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Apgaulės aidas",
+  "intro": "Giminystės ryšį išbandė pavydo banga. Buvo sugalvotas slaptas planas, pradėjęs įvykių grandinę, kuri apims metus ir peržengs didžiulius atstumus. Šios grupės veiksmai lėmė gilų išsiskyrimą ir sielvartą, tačiau istorija tuo nesibaigė. Tai apgaulės, gailesčio ir galutinio dieviškojo plano išsiskleidimo istorija. Ar galite atskleisti šių asmenų, kurių pasirinkimai aidėjo ištisas kartas, tapatybę?",
+  "clues": [
+    "Mus graužė pavydas dėl meilės, parodytos vienam iš savųjų.",
+    "Iš pavydo susitarėme ir įmetėme savo brolį/sesuo į šulinio tamsą.",
+    "Kad nuslėptume savo poelgį, tėvui padovanojome drabužį, suteptą netikru krauju.",
+    "Po daugelio metų didelis badas privertė mus keliauti į Egiptą ieškoti maisto atsargų.",
+    "Ten mes stojome prieš galingą gubernatorių, kuris, mums nežinant, buvo tas pats brolis ir sesuo, kuriam buvome padarę skriaudą.",
+    "Paskutinis mūsų išbandymas buvo atsivesti jauniausią brolį Benjaminą, o tai atskleidė mūsų praeitį ir tai, kad mūsų tėvas buvo pranašas Jakubas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Adomo sūnūs (Qabil ir Habil)",
+        "Pranašo Isa mokiniai",
+        "Pranašo Jusufo broliai",
+        "Madjano žmonės",
+        "Fir'awn magai"
+      ],
+      "answer": "Pranašo Jusufo broliai"
+    },
+    "trial": {
+      "label": "Koks buvo pagrindinis mūsų nusižengimas?",
+      "options": [
+        "Auksinio veršio statyba garbinimui",
+        "Reikalavimas tiesiogiai pamatyti Alachą",
+        "Pranašo tyčiojimasis už arkos statybą",
+        "Apgavome tėvą ir palikome brolį",
+        "Sabato laužymas žvejojant"
+      ],
+      "answer": "Apgavome tėvą ir palikome brolį"
+    },
+    "location": {
+      "label": "Koks objektas buvo pagrindinis mūsų apgaulės objektas?",
+      "options": [
+        "Įrašytų lentelių rinkinys",
+        "Marškinėliai, išteptas netikru krauju",
+        "Auksinis veršelis",
+        "Gražus paukštis (kukutis)",
+        "Lazdelė, kuri virto gyvate"
+      ],
+      "answer": "Marškinėliai, išteptas netikru krauju"
+    },
+    "outcome": {
+      "label": "Koks buvo galutinis mūsų istorijos rezultatas?",
+      "options": [
+        "Mus sunaikino galingas potvynis",
+        "Mes buvome paversti beždžionėmis",
+        "Mus prarijo žemė",
+        "Mums buvo atleista ir mes vėl susitikome su savo šeima",
+        "Mes buvome nuskendę jūroje"
+      ],
+      "answer": "Mums buvo atleista ir mes vėl susitikome su savo šeima"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

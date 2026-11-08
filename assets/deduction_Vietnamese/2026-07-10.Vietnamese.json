@@ -1,0 +1,61 @@
+{
+  "title": "Người mang chín dấu hiệu",
+  "intro": "Một nhân vật xuất thân từ hoàn cảnh khiêm nhường nhất, mang trong mình định mệnh được viết nên bởi ý chí thiêng liêng. Bị giấu kín từ thuở thơ ấu và lớn lên trong vòng vây của chính vị vua muốn hủy diệt dân tộc mình, linh hồn này cuối cùng được kêu gọi đến một sứ mệnh vĩ đại. Chỉ với niềm tin và một cây gậy mục đồng khiêm nhường, họ đứng trước vị vua quyền lực nhất thời đại và đòi tự do cho những người bị nô lệ. Cả thế giới dường như chuyển động theo mệnh lệnh của họ — nước rẽ ra, trời lên tiếng, và một vương quốc sụp đổ.",
+  "clues": [
+    "Những ngày đầu đời của tôi tràn ngập nỗi sợ hãi — những đứa trẻ sơ sinh như tôi bị săn đuổi ngay từ khi mới chào đời bởi một kẻ cai trị tàn nhẫn, người luôn lo sợ về tương lai.",
+    "Tôi được dòng nước cứu sống và lớn lên trong cung điện của chính vị vua đã tìm cách tiêu diệt tôi.",
+    "Tôi đã rời bỏ quê hương sau một biến cố bất ngờ, trở thành một người chăn cừu nghèo khổ ở một vùng đất xa lạ.",
+    "Tôi trở lại để đối đầu với vị lãnh chúa quyền lực đó, chỉ với một cây gậy đơn giản và một thông điệp rõ ràng, đòi hỏi sự tự do cho người dân của tôi.",
+    "Tôi rẽ một dòng nước lớn cho những người theo tôi, và chứng kiến ​​dòng nước ấy nuốt chửng kẻ thù của tôi.",
+    "Tôi đã leo lên một ngọn núi linh thiêng để nhận được sự hướng dẫn thiêng liêng từ Allah, và tôi đã được ban cho chín dấu hiệu rõ ràng như bằng chứng về sự thật."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Musa",
+        "Tiên tri Nuh",
+        "Tiên tri Ibrahim",
+        "Tiên tri Yusuf",
+        "Tiên tri Lut"
+      ],
+      "answer": "Tiên tri Musa"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Đối chất với Pharaoh tại triều đình của ông ta.",
+        "Xây dựng con tàu Noah để sống sót qua trận đại hồng thủy.",
+        "Bị những người làm tượng thần ném vào lửa đang cháy.",
+        "Được anh em tôi thả xuống một cái giếng sâu.",
+        "Tôi đang cố gắng ngăn chặn người dân của mình khỏi những hành vi vô đạo đức."
+      ],
+      "answer": "Đối chất với Pharaoh tại triều đình của ông ta."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Cây gậy biến thành rắn",
+        "Hòm Giao Ước của Nuh",
+        "Ngai vàng của Bilqis",
+        "Chiếc nhẫn điều khiển gió và thần linh",
+        "Chìa khóa mở ra những kho báu bị giấu kín vô cùng nặng nề"
+      ],
+      "answer": "Cây gậy biến thành rắn"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Tôi đã dẫn dắt dân tộc mình vượt qua biển cả để đến với tự do.",
+        "Được cứu sống khỏi trận đại hồng thủy bên trong một con tàu Noah.",
+        "Đã hồi phục sức khỏe và đoàn tụ với gia đình sau thời gian dài đau khổ.",
+        "Bị ném ra khỏi một con cá lớn khi còn sống",
+        "Đã xây dựng nền móng của Ngôi nhà linh thiêng"
+      ],
+      "answer": "Tôi đã dẫn dắt dân tộc mình vượt qua biển cả để đến với tự do."
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

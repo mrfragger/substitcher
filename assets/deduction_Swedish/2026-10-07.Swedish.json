@@ -1,0 +1,61 @@
+{
+  "title": "Lågan i arrogansens palats",
+  "intro": "Bakom de ståtliga murarna i det antika världens mäktigaste palats levde en figur vars hjärta bar på en hemlighet som inget kungligt dekret kunde tysta. Medan alla omkring sig böjde sig för falska gudar, behöll denna själ en stilla tro som brann inom sig. Landets härskare trodde sig vara gudomlig, men denna individ valde sanning framför komfort och hängivenhet framför säkerhet. Idag är din uppgift att upptäcka vem denna modiga själ var, vars historia fortfarande är ett av de mest kraftfulla exemplen på orubblig tro.",
+  "clues": [
+    "Jag bodde på en plats med enorm rikedom och oöverträffad storhet, där landets härskare hade absolut makt över allt.",
+    "Medan de omkring mig böjde sig för falska gudar, behöll jag ett stilla ljus av tro i mitt hjärta.",
+    "Jag upptäckte och adopterade ett barn som fördes till mig på ett ovanligt sätt – inte genom födseln, utan genom vattnet i en stor flod.",
+    "Jag bad till min Herre och bad om ett hem nära Honom i paradiset och frälsning från tyranniet som omgav mig.",
+    "Barnet jag uppfostrade växte upp och utmanade den härskare som styrde mitt öde, och jag stod fast vid min tro även när jag blev hotad.",
+    "Jag är den vars namn äras i Koranen som en förebild för tro, och jag bodde i faraos palats."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Asiya, faraos hustru",
+        "Maryam, Isas mor",
+        "Bilqis, drottningen av Sheba",
+        "Profeten Luts hustru",
+        "Imrans hustru"
+      ],
+      "answer": "Asiya, faraos hustru"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Upptäcka och uppfostra ett övergivet spädbarn som blev en stor profet",
+        "Att kastas in i en stor eld av en tyrann",
+        "Bevittnade en stor översvämning som förintade ett folk",
+        "Bevittnar en dadelpalmshake och ger näring",
+        "Att få en son trots hög ålder"
+      ],
+      "answer": "Upptäcka och uppfostra ett övergivet spädbarn som blev en stor profet"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Ett kungligt palats av oöverträffad prakt",
+        "Ett stort skepp byggt för att motstå en översvämning",
+        "En djup grotta gömd i bergen",
+        "En flammande eld byggd på en bergstopp",
+        "En trädgård omgiven av murar"
+      ],
+      "answer": "Ett kungligt palats av oöverträffad prakt"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ett hem beviljades i paradiset genom Allahs vilja",
+        "En stor översvämning förintade de icke-troende i en forntida nation",
+        "Ett rike med enorm makt och auktoritet beviljades denna värld",
+        "En mäktig armé skingrades av fåglar i flykt",
+        "En tyrann som påstod sig vara gudomlig drunknade i havet"
+      ],
+      "answer": "Ett hem beviljades i paradiset genom Allahs vilja"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

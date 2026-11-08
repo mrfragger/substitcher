@@ -1,0 +1,61 @@
+{
+  "title": "Šepet v vetru",
+  "intro": "Predstavljajte si kraljestvo, kjer se nevidno in vidno prepletata, in stojite pred figuro v osrčju kraljestva, ki je drugačno od katerega koli drugega. Ta duša poseduje znanje, ki presega običajni doseg, in poveljuje silam, ki si jih drugi lahko le predstavljajo. Pa vendar lahko celo najmogočnejše poniža drobno bitje, resnica pa lahko ostane skrita do določenega časa. Kdo je ta figura, katere zapuščina odmeva skozi stoletja?",
+  "clues": [
+    "Dano mi je bilo kraljestvo, ki ga po meni ne bo imel nihče.",
+    "Znanje in modrost sem podedoval od ljubljenega starša.",
+    "Veter je bil pod mojim poveljstvom in je po mojem ukazu pihal, kamor koli sem želel.",
+    "Razumel sem govor ptic in služile so v moji vojski.",
+    "Majhna ptica mi je sporočila novico o kraljici, ki je častila sonce.",
+    "Moja smrt je ostala skrita, dokler mi ni zemeljsko bitje požrlo palice, in šele takrat so džini spoznali, da ne poznajo nevidnega."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Sulejman (Salomon)",
+        "Prerok Davud (David)",
+        "Prerok Musa (Mojzes)",
+        "Prerok Isa (Jezus)",
+        "Prerok Nuh (Noe)"
+      ],
+      "answer": "Prerok Sulejman (Salomon)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Obisk kraljice iz Sabe",
+        "Biti vržen v ogenj",
+        "Ločevanje morja",
+        "Gradnja barke",
+        "Biti pogoltnjen s strani kita"
+      ],
+      "answer": "Obisk kraljice iz Sabe"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Palica, ki jo je požrlo bitje zemlje",
+        "Palica, ki se je spremenila v kačo",
+        "Kamela",
+        "Skrinja",
+        "Kit"
+      ],
+      "answer": "Palica, ki jo je požrlo bitje zemlje"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Njegova smrt je bila skrita pred džini, dokler niso pojedli njegove palice.",
+        "Živ je bil dvignjen v nebesa",
+        "Po Alahovem ukazu ga je rešil ogenj",
+        "Dana mu je bila Tora",
+        "Rešen je bil pred kitom"
+      ],
+      "answer": "Njegova smrt je bila skrita pred džini, dokler niso pojedli njegove palice."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

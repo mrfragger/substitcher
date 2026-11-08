@@ -1,0 +1,61 @@
+{
+  "title": "Prikriveni zavjerenik",
+  "intro": "Nalazite se u prisustvu moćne ličnosti iz vremena objave. Ova osoba je bila poznata po svom intelektu, bogatstvu i statusu među svojim narodom. Kada su došli jasni znaci, prepoznali su ljepotu, ali su ipak izabrali prkos umjesto pokornosti. Šta je navelo ovu dušu da kuje zavjeru u mraku i kakva je bila njihova konačna sudbina?",
+  "clues": [
+    "Bio sam blagoslovljen obilnim resursima i utjecajem, što je uveliko učvršćivalo moju riječ u skupštinama.",
+    "Kada su božanske riječi bile recitovane, nisam mogao poreći njihovu elokvenciju, ali mi ponos nije dozvoljavao da se pokorim.",
+    "Okupio sam svoje savjetnike i izolirao se kako bih razmislio o načinu da diskreditujem poruku.",
+    "Nakon dugog razmišljanja, izjavio sam da je to samo 'magija prenesena iz prošlosti' za odbijanje ljudi.",
+    "Otkrivenje mi se tada direktno obratilo: 'Ostavi me s onim koga sam stvorio na miru.' Bio sam izdvojen zbog svojih spletkarenja.",
+    "Uskoro će me ista ona vatra na koju sam upozoren zgrabiti za pramenove i neću imati nikakvog spasa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Ebu Lehab",
+        "Ebu Džehl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Kovao zavjeru za ubistvo Poslanika",
+        "Predvodio je bojkot protiv muslimana",
+        "Okupili su vijeće kako bi Kuran proglasili magijom",
+        "Planirali su protjerati Poslanika iz Meke",
+        "Odbio je podijeliti svoje bogatstvo sa siročadi"
+      ],
+      "answer": "Okupili su vijeće kako bi Kuran proglasili magijom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Otkrivenje",
+        "Vijeće",
+        "Pramen pramena",
+        "Bogatstvo",
+        "Olovka"
+      ],
+      "answer": "Pramen pramena"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pokajao se i prihvatio islam",
+        "Emigrirao je u Abesiniju",
+        "Pogodila ga je smrtonosna bolest",
+        "Poginuo je u borbi protiv muslimana",
+        "Bio je osuđen na pakao"
+      ],
+      "answer": "Bio je osuđen na pakao"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

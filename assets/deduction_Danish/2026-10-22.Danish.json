@@ -1,0 +1,61 @@
+{
+  "title": "Den første overtrædelses fællesskab",
+  "intro": "I de gamle byers land trivedes engang et folk. De blev besøgt af et budbringer med et klart kald, men de vendte sig bort og fulgte en sti, som ingen nogensinde havde vandret. Deres fortælling er en fortælling om trods, fordærv og en straf, der efterlod deres hjemland som et tegn for alle, der reflekterer. Hvem er disse sjæle?",
+  "clues": [
+    "Vi boede i byer på sletten, hvor vores profet kaldte os til retfærdighed.",
+    "Vi var de første til at begå en uanstændighed, som ingen i hele verden nogensinde havde gjort før.",
+    "Vi overfaldt rejsende og begik åbenlyst ondt i vores forsamlinger.",
+    "Vi afviste det sendebud, der blev sendt til os, og truede med at drive ham ud af vores land.",
+    "Vi skyndte os hen til hans hus og krævede, at han udleverede sine gæster til os.",
+    "Vores straf var en regn af sten, og vores by blev vendt på hovedet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Luts folk",
+        "Folket i Nuh",
+        "Folk fra 'Ad",
+        "Folket i Thamud",
+        "Folk i Madyan"
+      ],
+      "answer": "Luts folk"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Begik den første sodomihandling",
+        "Tilbad idoler",
+        "Snydt i handel",
+        "Dræbte deres profet",
+        "Adlød ikke deres forældre"
+      ],
+      "answer": "Begik den første sodomihandling"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Slettebyen",
+        "Brøndens by",
+        "Grøftens by",
+        "Elefantens by",
+        "Havens by"
+      ],
+      "answer": "Slettebyen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Regnregnede med sten og væltede",
+        "Druknet af en oversvømmelse",
+        "Ødelagt af en voldsom vind",
+        "Opslugt af jorden",
+        "Ramt af en høj eksplosion"
+      ],
+      "answer": "Regnregnede med sten og væltede"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

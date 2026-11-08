@@ -1,0 +1,61 @@
+{
+  "title": "Humilde Cheqaq Kaq Maskaqkuna",
+  "intro": "Ñawpa atiyniyuq, layqakuyniyuq allpapiqa hatun atipanakuymi rikurin. Huknin ladoqa Diospa señalninkunaq kamachikuynintan hap’in, huknintaq mana atikuq kaqwan tupachiyta munan. Chay tukukuyqa wiñaypaqmi historiaq puriyninta cambianqa. ¿Atiwaqchu reparayta pikunachus qhepa kaq cheqaq kaqta rikuspa chaypa ñawpaqenpi huch’uyyaykukuqkuna?",
+  "clues": [
+    "Rikurqaykutaqmi layqakuypa toqllanmanta aswan karuman riq señalkunata",
+    "Llapanchismi qonqoriykukuspa urmaykurqayku, mana cheqaq kaqta negayta atispayku",
+    "Repararqaykutaqmi chay señalkuna Huklla Cheqaq Diosmanta hamusqanta",
+    "Ñawpaq kaq llaqtam karqaniku chayna admirakuypaq hina iñiyta chaskiq",
+    "prometewarqankun paraisota creesqaykumanta paganaykupaq",
+    "Waskhaykupas k’aspiykupas ñawiykupi mach’aqwayman tukupurqan, chaywanpas k’umuykukuytan akllakurqayku"
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Faraonpa layqakuna",
+        "Profeta Ibrahimpa llaqtan",
+        "Humilde cheqaq kaqta maskhaqkuna",
+        "Machaypi Runakuna",
+        "Reina Bilqis suyu"
+      ],
+      "answer": "Faraonpa layqakuna"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Profeta Musaq llank’aqmasinkunawan tupasqanku",
+        "Profeta Hudpa wayranpa prueban",
+        "Profeta Salihpa warmi camellonmanta sasachakuy",
+        "Ancha millp'uqa huk profetamanmi kachamurqan",
+        "Huk profeta ballena ukupi purisqan"
+      ],
+      "answer": "Profeta Musaq llank’aqmasinkunawan tupasqanku"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Ñawpa Egipto",
+        "Makkah llaqtapi sagrado wasi",
+        "Madián llaqta",
+        "Thamud ch'inneqpi",
+        "Ñawpa pacha puñuqkunapa machay"
+      ],
+      "answer": "Ñawpa Egipto"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Paraisota paykunaq kutichipuynin hina",
+        "Aya p’ampanapi muchuchiy",
+        "Askha huertankuta chinkachiy",
+        "Qunqayllamanta pacha kuyuywan chinkachiy",
+        "Hatun ballenamanta qispichiy"
+      ],
+      "answer": "Paraisota paykunaq kutichipuynin hina"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

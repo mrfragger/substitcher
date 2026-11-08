@@ -1,0 +1,61 @@
+{
+  "title": "Căutătorii adormiți ai adevărului",
+  "intro": "Imaginați-vă o vreme în care credința a fost pusă la încercare, iar un grup de suflete a ales convingerea neclintită în locul confortului lumesc. Confruntați cu o alegere descurajantă, au căutat refugiu, pornind într-o călătorie care a dus la un somn extraordinar. Povestea lor este o mărturie a protecției divine și a puterii credinței împotriva opresiunii. Puteți discerne identitatea acestor persoane remarcabile?",
+  "clues": [
+    "Eram o adunare mică, unită de o credință profundă în Unicul Creator.",
+    "Am trăit într-o vreme în care un conducător puternic cerea venerarea altcuiva în afară de Allah.",
+    "Pentru a ne păstra credința, am decis să ne abandonăm casele și să fugim de opresiune.",
+    "Un tovarăș loial, o creatură a pământului, ne-a însoțit în călătoria noastră.",
+    "Am găsit refugiu într-un loc retras, unde Allah ne-a făcut să intrăm într-un somn adânc și prelungit.",
+    "Când ne trezeam, credeam că trecuse doar o zi sau o parte dintr-o zi, ci trecuseră cu adevărat secole."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii șanțului",
+        "Oamenii din Thamud",
+        "Oamenii din Saba",
+        "Oamenii din peșteră",
+        "Oamenii din Madyan"
+      ],
+      "answer": "Oamenii din peșteră"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Fiind testat cu un pământ sterp",
+        "Înfruntând o mare inundație",
+        "Căutând refugiu de la un conducător tiran",
+        "Fiind aruncat într-un foc arzător",
+        "Provocarea magiei unui vrăjitor"
+      ],
+      "answer": "Căutând refugiu de la un conducător tiran"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un palat grandios",
+        "O navă/arcă",
+        "O fântână adâncă",
+        "O peșteră",
+        "Un munte impunător"
+      ],
+      "answer": "O peșteră"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "I se acordă un regat",
+        "Un somn miraculos timp de secole",
+        "Fiind înghițit de pământ",
+        "Salvat de o furtună distrugătoare",
+        "Fiind asigurat cu o masă cerească"
+      ],
+      "answer": "Un somn miraculos timp de secole"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A lesújtott lélek türelme",
+  "intro": "A történelem krónikáiban van egy személy, akinek a neve egyet jelent a kitartással. Ez az ember minden földi vigasz elvesztésével próbára lett téve, mégis a Teremtő odaadó szolgája maradt. A nehézségek és a fizikai betegségek évei alatt ennek a léleknek a szíve hitben horgonyzott le, reménysugárként szolgálva mindazok számára, akik nehézségekkel néznek szembe.",
+  "clues": [
+    "Allah odaadó szolgája voltam, bőséges vagyonnal, sok gyermekkel és kiváló egészséggel áldott meg.",
+    "Az életem akkor fordult meg, amikor megfosztottak a vagyonomtól és a családomtól, és semmi másom nem maradt, csak a hitem.",
+    "Egy hosszan tartó és fájdalmas betegség gyötört, amely próbára tette az emberi tűrőképesség határait.",
+    "Szenvedésem során végig nem voltam hajlandó panaszkodni az Úr ellen, még akkor sem, amikor az ellenség megpróbált kétségbeesésbe vinni.",
+    "Amikor végre Uramhoz kiáltottam, nem kértem gazdagságot, hanem egyszerűen elismertem, hogy nyomorúság ért.",
+    "Azt mondták, üssek a földre a lábammal, és abból hűs vizű forrás fakadt, hogy meggyógyítsa a testemet és oltsa a szomjamat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Jakub próféta",
+        "Ayyub próféta",
+        "Zakariyyah próféta",
+        "Jahja próféta",
+        "Suajb próféta"
+      ],
+      "answer": "Ayyub próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Évekig tartó súlyos betegség és veszteség",
+        "Mély kútba vetve",
+        "Egy óriási hal lenyelte",
+        "Szembenézni egy zsarnokkal a tűzben",
+        "Hosszú út egy tanár keresése közben"
+      ],
+      "answer": "Évekig tartó súlyos betegség és veszteség"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy személyzet, amely kettéválasztotta a tengert",
+        "Egy ing, ami otthon illatozott",
+        "Egy gyógyító vízforrás",
+        "Egy hegy, mely porrá omlott",
+        "A mély álom barlangja"
+      ],
+      "answer": "Egy gyógyító vízforrás"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egy nagy föld kormányzójává válni",
+        "Egy hadsereg győzelemre vezetése",
+        "Az egészség és a család helyreállítása",
+        "Szent imádati ház építése",
+        "Mennyből terített asztal fogadása"
+      ],
+      "answer": "Az egészség és a család helyreállítása"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

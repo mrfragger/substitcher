@@ -1,0 +1,61 @@
+{
+  "title": "Wutar da ke cikin fadar girman kai",
+  "intro": "A bayan manyan ganuwar fadar mafi ƙarfi a duniyar da ta gabata, wani mutum ya rayu wanda zuciyarsa ke ɗauke da sirrin da babu wata doka ta sarauta da za ta iya rufewa. Yayin da yake kewaye da shi yana sujada ga allolin ƙarya, wannan rai ya ci gaba da kasancewa cikin aminci mai natsuwa. Mai mulkin wannan ƙasar ya yi imani da cewa kansu allahntaka ne, duk da haka wannan mutumin ya zaɓi gaskiya fiye da jin daɗi, da kuma ibada fiye da aminci. A yau, aikinka shine gano ko wanene wannan ruhi mai ƙarfin hali, wanda labarinsa ya kasance ɗaya daga cikin misalan bangaskiya mafi ƙarfi.",
+  "clues": [
+    "Na zauna a wani wuri mai tarin dukiya da girma mara misaltuwa, inda mai mulkin ƙasar ke da cikakken iko a kan komai.",
+    "Yayin da waɗanda ke kewaye da ni suka yi wa allolin ƙarya sujada, na riƙe hasken imani mai natsuwa a cikin zuciyata.",
+    "Na gano kuma na ɗauki wani yaro wanda aka kawo mini ta wata hanya ta daban - ba ta haihuwa ba, amma ta cikin ruwan babban kogi.",
+    "Na yi addu'a ga Ubangijina, ina neman gida kusa da Shi a Aljanna da kuma ceto daga zaluncin da ya kewaye ni.",
+    "Yaron da na rene ya girma don kalubalantar shugaban da ke sarrafa ƙaddarata, kuma na tsaya tsayin daka a kan imanina koda lokacin da aka yi mini barazana.",
+    "Ni ne wanda aka girmama sunansa a cikin Alqur'ani a matsayin abin koyi na imani, kuma na zauna a fadar Fir'auna da kansa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Asiya, matar Fir'auna",
+        "Maryamu, mahaifiyar Annabi Isa",
+        "Bilqis, Sarauniyar Sheba",
+        "Matar Annabi Lutu",
+        "Matar Imran"
+      ],
+      "answer": "Asiya, matar Fir'auna"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Gano da kuma renon jariri da aka yi watsi da shi wanda ya zama babban annabi",
+        "A jefa shi cikin babbar wuta ta hannun azzalumi",
+        "Ganin ambaliyar ruwa mai girma da ta halaka mutane",
+        "Ganin girgiza dabino da kuma samar da abinci mai gina jiki",
+        "Haifar da ɗa duk da tsufa"
+      ],
+      "answer": "Gano da kuma renon jariri da aka yi watsi da shi wanda ya zama babban annabi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Fadar sarauta mai kyawun da ba a taɓa ganin irinsa ba",
+        "Babban jirgin ruwa da aka gina domin jure ambaliyar ruwa",
+        "Kogo mai zurfi da ke ɓoye a cikin tsaunuka",
+        "Wuta mai ci da aka gina a kan dutse",
+        "Lambun da aka kewaye da bango"
+      ],
+      "answer": "Fadar sarauta mai kyawun da ba a taɓa ganin irinsa ba"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An bayar da gida a Aljanna da izinin Allah",
+        "Ambaliyar ruwa mai girma ta halaka kafiran wata tsohuwar al'umma",
+        "An ba da mulki mai iko da iko mai girma a wannan duniyar",
+        "Tsuntsaye sun warwatse wata babbar runduna da ke tashi sama",
+        "An nutsar da wani azzalumin da ya yi iƙirarin allahntaka a cikin teku"
+      ],
+      "answer": "An bayar da gida a Aljanna da izinin Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

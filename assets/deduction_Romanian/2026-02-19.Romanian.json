@@ -1,0 +1,61 @@
+{
+  "title": "Nebunia marii ambiții",
+  "intro": "Pornește într-o călătorie pentru a descoperi identitatea unei entități colective ale cărei planuri îndrăznețe au avut un sfârșit neașteptat și puternic. Această narațiune servește ca o reamintire profundă a puterii divine și a fragilității puterii lumești atunci când aceasta se opune sacrului. Dezvăluie misterul acestui grup, a cărui poveste este gravată în Coran ca un avertisment pentru toți cei care încearcă să încalce legea.",
+  "clues": [
+    "Am nutrit o ambiție măreață, crezând că puterea noastră era de neegalat, și am pornit într-o călătorie cu un obiectiv clar, distructiv.",
+    "Liderul nostru, plin de aroganță, a încercat să profaneze o Casă sacră venerată de mulți, cu scopul de a deturna pelerinajul către o structură construită de noi.",
+    "Dintr-o țară îndepărtată, am mărșăluit cu o forță masivă, încrezători în capacitatea noastră de a demonta edificiul antic din Orașul Sfânt.",
+    "Armata noastră era formidabilă, condusă de creaturi magnifice, o priveliște rar, dacă nu vreodată, văzută într-o astfel de campanie de către locuitorii țării pe care am invadat-o.",
+    "Când am ajuns la destinație, a avut loc o intervenție divină; au apărut niște creaturi mici, înaripate, care ne-au aruncat cu pietre de lut ars.",
+    "Întreaga noastră expediție a avut un sfârșit devastator, lăsând formidabila noastră forță complet anihilată, ca paiul mestecat, iar marele nostru plan redus la pulbere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din Thamud",
+        "Oamenii din 'Ad",
+        "Oamenii din Sodoma",
+        "Oamenii elefantului",
+        "Oamenii din Grădină"
+      ],
+      "answer": "Oamenii elefantului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Marele Potop",
+        "Campania împotriva Kaaba",
+        "Distrugerea idolilor",
+        "Despicarea mării",
+        "Cutremurul din Madian"
+      ],
+      "answer": "Campania împotriva Kaaba"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca",
+        "Personalul",
+        "Kaaba",
+        "Vițelul de Aur",
+        "Focul"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Mântuirea divină",
+        "O lungă perioadă de prosperitate",
+        "Conversia la Islam",
+        "Distrugere totală",
+        "Exil din țara lor"
+      ],
+      "answer": "Distrugere totală"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

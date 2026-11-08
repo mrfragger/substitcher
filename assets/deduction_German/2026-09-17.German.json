@@ -1,0 +1,61 @@
+{
+  "title": "Im Schatten der Dattelpalme",
+  "intro": "Es entspinnt sich die Geschichte einer Seele, die schon vor ihrer Geburt auserwählt, in heiligen Mauern genährt und dazu bestimmt war, ein Zeichen zu tragen, das die Welt noch nie gesehen hatte. Als von allen Seiten Anschuldigungen laut wurden, erhob sich eine Stimme aus dem unwahrscheinlichsten Ort, um jeden Zweifel zu verstummen. Kannst du herausfinden, wer im Schatten der Dattelpalme wandelte?",
+  "clues": [
+    "Ich war dem Dienst des Allmächtigen geweiht, noch bevor ich meinen ersten Atemzug tat – ein Gelübde, das mir derjenige gab, der mich trug.",
+    "Ich wuchs unter der wachsamen Obhut eines rechtschaffenen Wächters in den heiligen Gemächern eines Gotteshauses auf.",
+    "Immer wenn mein Wächter in meine Kammer kam, fand er bei mir Vorräte aus Jahreszeiten, die eigentlich nicht hätten sein sollen.",
+    "Mir wurde die frohe Botschaft von einem Sohn verkündet, obwohl meine Umstände keinen Raum für das ließen, was versprochen wurde.",
+    "Ich zog mich an einen abgelegenen Ort zurück, wo mir eine Dattelpalme Schatten spendete, während darunter ein Bach floss.",
+    "Als die Anschuldigungen kamen und ich mit Fragen überhäuft wurde, zeigte ich auf mein neugeborenes Kind – und es sprach schon aus der Wiege, um jeden Zweifel zu zerstreuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Maryam",
+        "Sarah",
+        "Hawwa",
+        "Umm Musa",
+        "Die Frau von Nuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Prüfung / Veranstaltung",
+      "options": [
+        "Geburt eines wundersamen Sohnes in Isolation",
+        "Von Götzendienern in ein loderndes Feuer geworfen werden",
+        "Das Überleben der großen Flut mit einigen Auserwählten",
+        "Von einem in den Fluss geworfenen Säugling getrennt worden zu sein",
+        "Die Konfrontation mit dem mächtigen Herrscher Ägyptens"
+      ],
+      "answer": "Geburt eines wundersamen Sohnes in Isolation"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine Dattelpalme und ein darunter fließender Bach.",
+        "Eine gewaltige Arche auf turmhohen Wellen",
+        "Ein Stab, der ein gewaltiges Meer in zwei Teile spaltete",
+        "Ein loderndes Feuer, das dazu bestimmt ist, eine treue Seele zu verzehren",
+        "Ein goldener Thron, verziert mit Edelsteinen"
+      ],
+      "answer": "Eine Dattelpalme und ein darunter fließender Bach."
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie wird als die erhabenste aller Frauen verehrt.",
+        "Wiedervereinigung mit dem geliebten Kind nach langer Trennung",
+        "Führte eine ganze Nation aus der Knechtschaft eines Tyrannen",
+        "Er warnte ein Volk, das in Unmoral versunken ist.",
+        "Ihm wurde die Herrschaft über Dschinn, Menschen und die Winde gewährt."
+      ],
+      "answer": "Sie wird als die erhabenste aller Frauen verehrt."
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

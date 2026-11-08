@@ -1,0 +1,61 @@
+{
+  "title": "Barongwa ba Kutlwelobotlhoko le Thata",
+  "intro": "Akanya fela thapama e e didimetseng e kgaosediwa ke go goroga ga batsamai ba o sa ba tlwaelang. Ponagalo ya tsone e tlwaelegile, mme boikaelelo jwa tsone ke sengwe le sengwe fela. Di tshotse molaetsa wa bomodimo o o tla fetolang tsela ya merafe e mebedi, di tlisa ditshego mo legaeng le le se nang sepe le poifo mo motseng o o nang le boleo. Baeng bano ba ba sa tlhaloganyesegeng ke bomang?",
+  "clues": [
+    "Re ne ra romelwa kwa motlhankeng yo o ineetseng wa ga Allah, yo o neng a itsege ka kamogelo ya bone e e senang selekanyo.",
+    "Re ne ra goroga re itirile batho ba re sa ba itseng, mme le fa go ntse jalo moamogedi wa rona o ne a utlwa sengwe se se sa tlwaelegang ka go nna gone ga rona.",
+    "Re ne ra tla ka dikgang tse di neng tsa dira gore mosadi mongwe yo o godileng a tshege a sa dumele, a itaya sefatlhego sa gagwe ka go gakgamala.",
+    "Re ne re newa tiro ya go sireletsa lelapa le le siameng fa re ntse re nesetsa tshenyo mo motseng o o neng o tletse ka bonweenwee.",
+    "Re ne ra gana go ja dijo tse re neng re di newa, mme seno se ne sa dira gore moamogedi wa rona a re belaele le go feta.",
+    "Re ne ra senola gore re ntse jang tota fela pele ga re tsamaya, re re, 'Eleruri, re barongwa ba Morena wa lona.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Baeng ba ga Aborahame",
+        "Barutwa ba ga Jesu",
+        "Batsala ba Logaga",
+        "Mophato wa ga Abraha",
+        "Barongwa ba Ya-Sin"
+      ],
+      "answer": "Baeng ba ga Aborahame"
+    },
+    "trial": {
+      "label": "Boikaelelo jwa Rona",
+      "options": [
+        "Go leka tumelo ya ga Aborahame malebana le morwawe",
+        "Go isa lokwalo kwa go Aborahame",
+        "Go itsise botsalo jwa ga Isake le go nyelediwa ga batho ba ga Lote .",
+        "Go kaela Aborahame kwa Kaaba",
+        "Go golola Aborahame mo molelong"
+      ],
+      "answer": "Go itsise botsalo jwa ga Isake le go nyelediwa ga batho ba ga Lote ."
+    },
+    "location": {
+      "label": "Lefelo la Ponagalo",
+      "options": [
+        "Kwa lefatsheng la Egepeto",
+        "Kwa motseng wa Ure",
+        "Kwa legaeng la ga Aborahame",
+        "Kwa tshimong ya Edene",
+        "Kwa sedibeng sa Zamzam"
+      ],
+      "answer": "Kwa legaeng la ga Aborahame"
+    },
+    "outcome": {
+      "label": "Dipholo",
+      "options": [
+        "Aborahame o ne a nna kgosi",
+        "Aborahame o ne a aga Kaaba",
+        "Sara o ne a tshola Isake mme batho ba ga Lote ba nyelediwa .",
+        "Aborahame o ne a fudugela kwa Palesetina",
+        "Batho ba ga Aborahame ba ne ba bolokwa mo morwaleleng o mogolo"
+      ],
+      "answer": "Sara o ne a tshola Isake mme batho ba ga Lote ba nyelediwa ."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

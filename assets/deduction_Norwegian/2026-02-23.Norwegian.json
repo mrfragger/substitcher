@@ -1,0 +1,61 @@
+{
+  "title": "Stemmen til skjult overbevisning",
+  "intro": "I hjertet av en tyrannisk domstol, hvor vantro var landets lov, vandret en enslig sjel på en stram line av tro og frykt. Denne personen, nær maktens sentrum, lyttet mens en profets budskap ble møtt med hån og trusler. Et sannhetens øyeblikk kom, som tvang denne personen til å velge mellom stille trygghet og å si en farlig sannhet. Kan du avsløre identiteten til denne modige forkjemperen?",
+  "clues": [
+    "Jeg levde i selve husstanden til en tyrann og var vitne til arrogansen som avviste guddommelige tegn.",
+    "Jeg holdt troen min hemmelig, en skjult skatt i et palass av avgudsdyrkelse.",
+    "Jeg hørte at lederen jeg tjente planla å drepe et av Allahs sendebud, en mann ved navn Musa.",
+    "Jeg stilte spørsmål ved logikken deres og minnet dem om skjebnen til folket i Nuh, Ad og Thamud.",
+    "Jeg stilte et kritisk spørsmål til mitt folk: «Hvis han er en løgner, er løgnen hans på ham; men hvis han er sannferdig, vil noe av det han lover slå dere.»",
+    "Historien min fortelles som et eksempel på tro i surahen «Tilgiveren», hvor jeg advarte mitt folk mot de mektiges planer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Den troende fra Fir'awns familie",
+        "Haman",
+        "Magikerne fra Fir'awn",
+        "Qarun",
+        "Samiriene"
+      ],
+      "answer": "Den troende fra Fir'awns familie"
+    },
+    "trial": {
+      "label": "Hva var min prøvelse?",
+      "options": [
+        "Forsvar av profeten Musa i tyrannens hoff",
+        "Å bygge et høyt tårn for å nå himmelen",
+        "Å bli kastet inn i en flammende ild",
+        "Å bli slukt av en gigantisk fisk",
+        "Mister all rikdom og helse"
+      ],
+      "answer": "Forsvar av profeten Musa i tyrannens hoff"
+    },
+    "location": {
+      "label": "Hva var temaet for argumentet mitt?",
+      "options": [
+        "Konsekvensen av å avvise en profets budskap",
+        "Kravet om et tegn fra et hellig tre",
+        "Skapelsen av en kalv fra smeltede smykker",
+        "Mirakelet med en kamel fra stein",
+        "Tolkning av en herskers drømmer"
+      ],
+      "answer": "Konsekvensen av å avvise en profets budskap"
+    },
+    "outcome": {
+      "label": "Hva ble resultatet?",
+      "options": [
+        "Allah reddet denne personen fra deres onde plan",
+        "Hele hoffet aksepterte islam umiddelbart",
+        "Tyrannen angret i drukningsøyeblikket",
+        "Tyrannen ble slukt av jorden",
+        "Personen ble forvist til et fjerntliggende land"
+      ],
+      "answer": "Allah reddet denne personen fra deres onde plan"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

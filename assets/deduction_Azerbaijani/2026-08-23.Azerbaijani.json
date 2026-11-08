@@ -1,0 +1,61 @@
+{
+  "title": "Yoxa Çıxan Çoxluq",
+  "intro": "Siz hekayəsi dalğalarda yazılmış bir cəmiyyətin əks-sədası qarşısında dayanırsınız. Bu ruhlar bir çağırış eşitdilər, itaətsizliyi seçdilər və yer üzünü yenidən formalaşdıran bir nəticə ilə üzləşdilər. Onlar kimlərdir və onların dünyası nə oldu?",
+  "clues": [
+    "Biz çoxdan yaşamışıq və öz aramızdan bizə bir elçi gəlmişdi.",
+    "Biz beş bütə ibadət etdik və onları tərk etməkdən imtina etdik.",
+    "Biz elçini lağa qoyduq və onu yoldan çıxmaqda günahlandırdıq.",
+    "Əgər doğru danışırsa, cəzasını çəkməsini tələb etdik.",
+    "Göylərin yağış yağdığını və yerin bulaqlar qaynadığını gördük.",
+    "Qaçmaq üçün yüksək yerlərə qalxdıq, amma dalğalar bizi tutdu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Nuh qövmü",
+        "Ad xalqı",
+        "Səmud xalqı",
+        "Lut qövmü",
+        "Mədyən xalqı"
+      ],
+      "answer": "Nuh qövmü"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Biz böyük bir daşqında boğulduq",
+        "Biz qasırğa ilə məhv olduq",
+        "Güclü bir partlayış nəticəsində öldük",
+        "Bizi yer üzü uddu",
+        "Göydən daş yağdırdılar"
+      ],
+      "answer": "Biz böyük bir daşqında boğulduq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Böyük bir daşqın",
+        "Şiddətli bir külək",
+        "Daş yağışı",
+        "Alovlu bir partlayış",
+        "Zəlzələ"
+      ],
+      "answer": "Böyük bir daşqın"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Nuhla birlikdə möminlərdən başqa hamımız həlak olduq",
+        "Biz meymunlara çevrildik",
+        "Səyahətçilər üçün xarabalıq kimi qaldıq",
+        "Biz duza çevrildik",
+        "Bizə möhlət verildi"
+      ],
+      "answer": "Nuhla birlikdə möminlərdən başqa hamımız həlak olduq"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

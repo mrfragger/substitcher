@@ -1,0 +1,61 @@
+{
+  "title": "Kutsal alevin teslim olmuş ruhu",
+  "intro": "Önünüzde, bir bireyin tüm bir medeniyetin en köklü inançlarına meydan okumaya cesaret ettiği olağanüstü bir cesaret öyküsü yatıyor. Geçmişten gelen bu fısıltıları takip edin ve sarsılmaz bir inanç, mucizevi bir hayatta kalma ve milyarlarca insanın manevi yolculuğunu şekillendirecek temellerin atılmasıyla damgalanmış bir yaşamı ortaya çıkaracaksınız. Her ipucunu dikkatlice izleyin; kutsal ateş hâlâ hatırlıyor.",
+  "clues": [
+    "Gök cisimlerine tapan ve putlar yapan bir ailede doğdum, yine de içimde derin bir yerde onların taptıkları şeyleri reddediyordum.",
+    "Ülkemin en güçlü hükümdarına karşı durdum, halkımın taptığı putları paramparça ettim ve yalnızca göklerin Yaratıcısının ibadete layık olduğunu ilan ettim.",
+    "Adıma alevler içinde bir cenaze ateşi yakılması emredildi, ama ben yalnızca hizmet ettiğim O'nun beni kurtaracağını ilan ettim ve alevlerin soğuyup güvenli hale gelmesi emredildi.",
+    "İlahi bir emir üzerine, tanıdığım her şeyi geride bıraktım, ailemle birlikte kurak vadilerde dolaştım, henüz göremediğim bir nimete güvendim.",
+    "Çorak bir vadide, ilk doğan oğlumun yanında durarak, birlikte kutsal bir evin, teslim olan herkes için tasarlanmış bir mabedin temellerini attık.",
+    "Ben, Rahman olanın yakın dostu anlamına gelen Halilullah olarak bilinirim ve adım, teslimiyet ve boyun eğme inancıyla sonsuza dek özdeşleşmiştir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İbrahim (Abraham)",
+        "Peygamber Musa (Musa)",
+        "Peygamber Nuh (Noah)",
+        "Peygamber İsa (İsa)",
+        "Peygamber Muhammed ﷺ"
+      ],
+      "answer": "Peygamber İbrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bir tiran tarafından alev alev yanan bir ateşe atılmak",
+        "Denizde büyük bir balığın içinde yutulmak",
+        "Kıskanç kardeşler tarafından bir kuyuya indirilmek",
+        "Kanatlı bir yaratığın sırtında havaya kaldırılmak",
+        "Ahşap bir kap içinde büyük bir sele dayanmak"
+      ],
+      "answer": "Bir tiran tarafından alev alev yanan bir ateşe atılmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kabe (Kutsal Ev)",
+        "Bir dağın üzerine inşa edilmiş büyük bir ahşap gemi.",
+        "Denizi yararak geçebilecek bir asa",
+        "Sadık bir köpekle birlikte uzun bir uykunun mağarası",
+        "Bir dağa bahşedilen vahiy edilmiş kanunlar tomarı."
+      ],
+      "answer": "Kabe (Kutsal Ev)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Allah'ın yakın dostu Halilullah olarak tanındı.",
+        "Bir halkı ikiye ayrılmış denizin ötesine, güvenliğe götürdü.",
+        "Rüzgarlar ve görünmeyen güçler üzerinde hakimiyet bahşedildi.",
+        "Mucizevi iyileştirmeler yeteneğine sahip bir şifacı oldu.",
+        "Dağınık haldeki on iki kabile tek bir antlaşma altında birleşti."
+      ],
+      "answer": "Allah'ın yakın dostu Halilullah olarak tanındı."
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

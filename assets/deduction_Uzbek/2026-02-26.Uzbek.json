@@ -1,0 +1,61 @@
+{
+  "title": "Chanqoqlik sinovi",
+  "intro": "O'z manfaatlarini himoya qilish uchun yetakchilikka intilgan bir jamoa, o'zlariga qo'mondon tayinlashni iltimos qildi. Ularning iltimosiga javob berilganda, tanlangan kishi shubha bilan qarshi olindi, chunki bu shaxs ular kutgan dunyoviy mavqega ega emas edi. Yakuniy to'qnashuvdan oldin, bu yangi rahbar armiyaning intizomini oddiy, ammo chuqur vazminlik sinovi bilan sinab ko'rishi kerak edi.",
+  "clues": [
+    "Qavmim Alloh yo'lida jang qilish uchun yetakchi talab qilganidan keyin men qo'mondon etib tayinlandim.",
+    "O'z odamlarimning ko'pchiligi dastlab mening tayinlanishimga shubha qilishdi, chunki ular mening boyligim va olijanob nasabim yo'qligini aytishdi.",
+    "Men tanlanganman, chunki Alloh menga ko'p bilim va kuchli jismoniy qomat bergan edi.",
+    "Mening ilohiy tayinlanishimning aniq belgisi, farishtalar ko'targan Ahd sandig'ining qaytishi bo'ldi, bu esa mo'minlarning qalbiga tinchlik olib keldi.",
+    "Men askarlarim bilan oldinga chiqayotganimda, bizni daryo sinaydi, deb e'lon qildim.",
+    "Men qo'shinimga daryodan ko'p ichgan har bir kishi mening safdoshim bo'lmasligini, qo'liga bir qoshiq suv olgan har bir kishi esa qolishini buyurdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Jalut (Goliath)",
+        "Talut (Saul)",
+        "Payg'ambar Dovud",
+        "Zulqarnayn",
+        "Namrud (Nimrud)"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Mening asosiy sinovim nima edi?",
+      "options": [
+        "Ya'juj va Ma'jujga qarshi to'siq qurish",
+        "Yakkama-yakka jangda gigantga qarshi turish",
+        "Daryo bo'yida armiyaning itoatkorligini sinab ko'rish",
+        "Jinlar va qushlar qo'shiniga boshchilik qilish",
+        "Olovga tashlanib omon qolish"
+      ],
+      "answer": "Daryo bo'yida armiyaning itoatkorligini sinab ko'rish"
+    },
+    "location": {
+      "label": "Mening hokimiyatimning asosiy belgisi nima edi?",
+      "options": [
+        "Ilonga aylangan tayoq",
+        "Toshdan chiqqan tuya",
+        "Yumshatilgan temirdan yasalgan pochta paltosi",
+        "Ahd sandig'i (at-Tabut)",
+        "Osmondan tushgan taomlar dasturxoni"
+      ],
+      "answer": "Ahd sandig'i (at-Tabut)"
+    },
+    "outcome": {
+      "label": "Kampaniyamning natijasi qanday bo'ldi?",
+      "options": [
+        "Jalut (Goliath) qo'shinini mag'lub etish",
+        "Zolimdan qochish uchun Qizil dengizni ikkiga bo'lish",
+        "Mening nomim bilan uzoq muddatli sulola barpo etish",
+        "Makkada muqaddas Ka'bani qurish",
+        "O'lmasdan osmonga ko'tarilish"
+      ],
+      "answer": "Jalut (Goliath) qo'shinini mag'lub etish"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Minzoto Zomi na Moko Oyo Egumbamaki",
+  "intro": "Moto moko oyo euti na Coran azwaki emonaneli ya mozindo na bomwana — ndoto ya biloko ya likoló oyo ezali kofukama na limemya. Bambula elingaki koleka na kotɛka, kokabwana, kofunda bato na lokuta, mpe kokangama na bolɔkɔ liboso ete emonaneli oyo ekokisama. Nani azali molimo oyo ya koyika mpiko oyo lisolo na ye ezwi mokapo ya molai koleka ya Coran?",
+  "clues": [
+    "Nazalaki kala elenge, napambolamaki na ndoto moko ya kokamwa oyo ata tata na ngai moko akebisaki ngai nabomba yango moko.",
+    "Bandeko na ngai moko, oyo zuwa ekufaki miso, basalaki mwango mpo na kobundisa ngai mpe babwakaki ngai na libulu moko ya mozindo mpe ya molili.",
+    "Bamemaki ngai na mboka moko ya mosika mpe batɛkaki ngai na ndako ya mokonzi moko ya lokumu, epai nazwaki ngɔlu mpe natombolaki mokumba.",
+    "Kofundama ya lokuta ememaki na boloko na ngai na bosembo te, nzokande na esika wana ya molili nazwaki libɔndisi na losambo mpe na kofukama epai ya Allah.",
+    "Allah apambolaki ngai na makoki oyo emonanaka mingi te ya kolimbola bandoto, oyo nsukansuka ememaki ngai liboso ya mokonzi ya mboka mpe etombolaki ngai na esika ya likolo ya bondimi.",
+    "Nsima ya mibu milai ya bokabwani, nakutanaki lisusu na libota na ngai ya bolingo, mpe ndoto na ngai ya bomwana ya minzoto zomi na moko, moi, mpe sanza kofukama epai na ngai ekokisamaki na nsuka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Yusuf",
+        "Mosakoli Salih",
+        "Mosakoli Ilyas",
+        "Tubba’, mokonzi ya Himyar ya kala",
+        "Mobateli ya mpate ya komikitisa oyo autaki na bangomba mike ya Palestine"
+      ],
+      "answer": "Mosakoli Yusuf"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobwakama na libulu mozindo mpe ya molili na bandeko ya zuwa",
+        "Komelama na ekelamu monene ya mbu mozindo",
+        "Kobwakama na mɔ́tɔ oyo ezali kopela na basambeli ya bikeko",
+        "Kolongolama na mopepe ya bonzambe ya kobebisa",
+        "Kobika na mpela monene oyo ezipaki mabele mobimba"
+      ],
+      "answer": "Kobwakama na libulu mozindo mpe ya molili na bandeko ya zuwa"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Libulu moko ya kokauka na esobe epai basundolaki ngai",
+        "Mbisi monene ya mbu mozindo",
+        "Masuwa moko monene oyo etongamaki na etinda ya Nzambe",
+        "Linɔ́ngi oyo etongamaki mpo na kokóma na likoló",
+        "Mɔtɔ mosantu oyo eboyaki kozika"
+      ],
+      "answer": "Libulu moko ya kokauka na esobe epai basundolaki ngai"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akutanaki lisusu na libota nsima ya bambula mingi ya kokabwana mpe akómaki ministre oyo batyelaka motema",
+        "Akambaki bobimisi monene ya bato na ngai na ngambo mosusu ya mbu oyo ekabwanaki",
+        "Akebisaki ekolo na ngai na ntina ya libebi oyo ezalaki koya oyo esilisaki bango",
+        "Atongaki ndako mosantu oyo ekómaki esika mosantu mpo na bato nyonso",
+        "Abimaki na kimia na libumu ya ekelamu monene nsima ya mikolo misato"
+      ],
+      "answer": "Akutanaki lisusu na libota nsima ya bambula mingi ya kokabwana mpe akómaki ministre oyo batyelaka motema"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ordena Naturalari Aurre Egin Dioen Nazioa",
+  "intro": "Mendeetan zehar oihartzuna duen istorioaren eskualde batean, komunitate bat purutasunaren legeen aurkako matxinada irekian bizi zen. Haien ekintzak hain aurrekaririk gabekoak ziren, ezen gizateria osoarentzako abisu gisa gogoratzen baitira. Nor ziren arima hauek, eta zer patu izan zitzaien?",
+  "clues": [
+    "Bidaiariek maiz igarotzen ziren bide baten ondoan bizi ginen, baina haien bidaia arriskutsu bihurtu genuen.",
+    "Munduan inork inoiz egin ez dituen lizunkeriazko ekintzak egin genituen.",
+    "Gure arteko mezulari batek gure bideak uzteko deitu zigun, baina arbuiatu egin genuen eta zigorra eskatu genion egiazkoa bazen.",
+    "Gonbidatu ederrak gure hirira etortzen zirenean, erasotzen saiatu ginen, suntsipenaren mezulariak zirela jakin gabe.",
+    "Zigor ikaragarriaz abisatu gintuzten amore ematen ez bagenuen, baina abisua iseka egin eta gure bekatuan jarraitu genuen.",
+    "Harri-euri bat erori zitzaigun zerutik, eta gure etxeak irauli egin ziren, arrastorik utzi gabe, hausnartzen dutenentzat seinale bat izan ezik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Luteko jendea.",
+        "Thamudeko jendea",
+        "A'ad-eko jendea",
+        "Madyango jendea.",
+        "Sabako jendea."
+      ],
+      "answer": "Luteko jendea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Aurrekaririk gabeko immoralitatea egin eta errepideak oztopatu zituen",
+        "Urrezko txahal bat gurtu zuen",
+        "Gamelu eme sakratua hil zuen",
+        "Merkataritzan iruzur egin eta jendea gutxietsi zuen",
+        "Dorre garai bat eraiki zuen zeruari erronka egiteko"
+      ],
+      "answer": "Aurrekaririk gabeko immoralitatea egin eta errepideak oztopatu zituen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Aingeruak gonbidatu ederrez mozorrotuta",
+        "Gamelu eme bat harkaitz batetik ateratzen",
+        "Suge bihurtzen den makila",
+        "Mendi batean eraikitako itsasontzi bat",
+        "Sua fresko eta baketsu bihurtu zen"
+      ],
+      "answer": "Aingeruak gonbidatu ederrez mozorrotuta"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Zerutik eroritako harri-euri batek suntsitu zuen",
+        "Lurrak irentsia.",
+        "Uholde handi batean itota",
+        "Oihu-leherketa batek jota",
+        "Tximino bihurtuta."
+      ],
+      "answer": "Zerutik eroritako harri-euri batek suntsitu zuen"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

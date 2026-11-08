@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fampitandremana eo Ambanin'ny Tany",
+  "intro": "Alaivo sary an-tsaina hoe mijoro eo akaikin'ny lavaka lalina ianao raha misy feo avy any ambany ary mangina ny any ambony. Mitahiry ity sehatra ity ho fampitandremana ny CORAN: misy vondrom-piarahamonina mandà izay entin'ny iraka, mikatona ny sazy, ary na dia ny feony aza dia lasa anisan'ny fijoroana vavolombelona. Iza no vondrona miteny amin'ny alalan'ireo andininy ireo?",
+  "clues": [
+    "Tsaroana ao amin'ny CORAN isika ho toy ny vondrona voafaritry ny lahatra iraisana fa tsy amin'ny anarana tsirairay.",
+    "Nolavinay ny hafatra nentin'ireo iraka, na dia marina aza izay nolazain'izy ireo.",
+    "Mifamatotra amin'ny lavaka lalina ao anaty tany ny maha-izy antsika tsaroana, ary lasa anisan'ny anarantsika izany toetra izany.",
+    "Tamin'ny andro voatondro dia nentina nivoaka izahay ary notaritaritina nankeo amin'ny afo.",
+    "Tsy afaka niaro tena tamin'ny sazy izahay, ary tsy afaka nandre ny firohondrohonany.",
+    "Ho voadona ao anaty afo ny tavanay, ary ho voatosika ho ao anatiny izahay; rehefa anontaniana izahay dia hilaza fa anisan'ireo tsy nahay namaly."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ireo mpiara-dia amin'ny hady",
+        "Ny firenena voavonjy tamin'ny Safodrano Lehibe",
+        "Ireo mpivavaka amin'ny ombilahy kely volamena",
+        "Niafina tao anatin'ny lava-bato an-tendrombohitra ilay vondrona",
+        "Ny Fiarahamonina Nafahana avy tao amin'ny Lafaoro Mirehitra"
+      ],
+      "answer": "Ireo mpiara-dia amin'ny hady"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Notaritaritina ary natsipy tao anaty afo",
+        "Navoaka avy tao amin'ny lafaoro mirehitra",
+        "Nentina soa aman-tsara nandritra ny tondra-drano lehibe",
+        "Voaafina nandritra ny taonjato maro tao anaty lava-bato",
+        "Voavonjy rehefa avy natsipy tao anaty lavadrano"
+      ],
+      "answer": "Notaritaritina ary natsipy tao anaty afo"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Hady na lavaka",
+        "Ranomasina lehibe",
+        "Lava-bato an-tendrombohitra",
+        "Lapa avo",
+        "Fantsakana any an'efitra"
+      ],
+      "answer": "Hady na lavaka"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Tsy afaka niaro tena ary tsy afaka nandre ny firohondrohon'ny Afo",
+        "Voavonjy ary navela hiditra tao amin'ny zaridaina mandrakizay",
+        "Tonga soa aman-tsara nandritra ny tondra-drano nandravarava",
+        "Voaaro amin'ny torimaso lava ao anaty lava-bato",
+        "Nohajaina tamin'ny fanjakana mandrakizay"
+      ],
+      "answer": "Tsy afaka niaro tena ary tsy afaka nandre ny firohondrohon'ny Afo"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

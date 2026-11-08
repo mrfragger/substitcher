@@ -1,0 +1,61 @@
+{
+  "title": "La voz del abismo",
+  "intro": "En el Corán se narra una historia de paciencia y la infinita misericordia divina. Un mensajero fue enviado a una gran ciudad, pero sus habitantes rechazaron la advertencia y la verdad. Frustrado, partió, solo para ser puesto a prueba por el mar embravecido y engullido por las profundidades más oscuras. Desde el corazón de la oscuridad surgió una humilde súplica, y el Misericordioso respondió. ¿Quién es esta alma que emergió transformada, cuyo pueblo se convertiría en creyentes, sumando más de cien mil personas?",
+  "clues": [
+    "Me enviaron como mensajero a una gran ciudad cuyos habitantes se habían desviado del camino de la fe.",
+    "Llamé repetidamente a mi gente a la verdad, pero se burlaron de mi mensaje y lo rechazaron.",
+    "Me marché frustrado antes de que me dieran permiso y me dirigí hacia mar abierto.",
+    "Se desató una gran tormenta y caí por la borda, para luego ser engullido entero por una enorme criatura marina.",
+    "En las profundidades de la oscuridad —las profundidades del océano, el vientre de la criatura y el lecho marino— clamé: «No hay más dios que Tú; gloria a Ti; yo era de los malhechores».",
+    "Alá me libró de las profundidades, y cuando regresé, más de cien mil de mi gente habían abrazado la verdad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Yunus (Jonás)",
+        "Profeta Musa (Moisés)",
+        "Profeta Ibrahim (Abraham)",
+        "Profeta Zacarías",
+        "Profeta Idris (Enoc)"
+      ],
+      "answer": "El profeta Yunus (Jonás)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser engullido por una criatura marina gigantesca",
+        "Enfrentarse a un tirano y sus magos",
+        "Ser arrojado a un fuego ardiente por un rey enfurecido",
+        "Recibir buenas noticias de un hijo cuando ya es viejo e incapaz",
+        "Ser testigo de una nación destruida por una inundación devastadora"
+      ],
+      "answer": "Ser engullido por una criatura marina gigantesca"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El vientre de una gran criatura marina en las profundidades del océano.",
+        "Una casa sagrada rodeada de montañas en un valle árido.",
+        "Un fuego abrasador que se volvió fresco y pacífico.",
+        "Un magnífico jardín con arroyos que fluyen y sombra.",
+        "Un arca gigantesca descansando en la cima de una montaña."
+      ],
+      "answer": "El vientre de una gran criatura marina en las profundidades del océano."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Liberados de la oscuridad; una gran multitud creyó.",
+        "Liberado de un fuego abrasador, con las llamas convirtiéndose en frío",
+        "Se convirtió en líder de una nación poderosa y la liberó de la opresión.",
+        "Tras años de oración, se le concedió un hijo en la vejez.",
+        "Con inmensa sabiduría, un reino y dominio sobre los vientos y los genios"
+      ],
+      "answer": "Liberados de la oscuridad; una gran multitud creyó."
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

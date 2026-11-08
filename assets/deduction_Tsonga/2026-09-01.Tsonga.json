@@ -1,0 +1,61 @@
+{
+  "title": "Rito leri humaka eMatikweni ya le Handle",
+  "intro": "U yime emutini lowu ku teke varhumiwa vanharhu va ri ni swikombiso leswi nga erivaleni, kambe vanhu va va hlekula ni ku namarhela tindlela ta vona ta khale. Ku suka eka xiphemu xa le kule swinene xa doroba, xifaniso xi tsutsumela eka ntshungu, xi nga hefemuli naswona xi tiyimisele ku vulavula ntiyiso loko xi langutane ni ku ariwa. I mani moya-xiviri lowu wu veke hinkwaswo ekhombyeni hikwalaho ka rungula leri nga riki ra wona?",
+  "clues": [
+    "A ndzi hanya exikarhi ka vanhu lava amukeleke varhumiwa lava nga ni swikombiso leswi nga erivaleni, hambiswiritano va fularhele hi ku tikukumuxa.",
+    "Ndzi tile ndzi tsutsuma ndzi huma endhawini ya le kule swinene ya muti loko ndzi twa hi ta ku vitaniwa ka varhumiwa.",
+    "Ndzi ku eka vanhu va mina: ‘N’wina vanhu va mina, landzela varhumiwa. Landzelela lava nga komberiki hakelo eka wena, hikuva va kongomisiwa hi mfanelo.’",
+    "A ndzi nga ri muprofeta, kambe a ndzi pfumela eka varhumiwa kutani ndzi khutaza vanhu va mina leswaku va endla leswi fanaka.",
+    "Vanhu va mina va hlekula xitsundzuxo xa mina naswona va ndzi hehla hi ku va ndzi ri munhu la hundzeletaka swilo.",
+    "Loko va ndzi dlaya, Allah u ndzi byele leswaku ndzi nghena eParadeyisini, naswona a ndzi navela onge vanhu va mina va nga tiva ku rivaleriwa ni ku xiximiwa loku ndzi ku kumeke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Wanuna loyi a humaka exiphen’wini xa le kule swinene xa muti (Ya-Sin) .",
+        "Un’wana wa varhumiwa vanharhu lava rhumeriweke emutini",
+        "Muxavisi la dumeke wa doroba",
+        "Mufumi wa muti",
+        "Murhangeri wa vapfumeri"
+      ],
+      "answer": "Wanuna loyi a humaka exiphen’wini xa le kule swinene xa muti (Ya-Sin) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku chumayela vanhu va yena leswaku va landzela varhumiwa",
+        "Ku aka xikepe ku ponisa vapfumeri eka ndhambi",
+        "Ku lahleriwa endzilweni hikwalaho ka ripfumelo",
+        "Ku mitiwa hi whale",
+        "Ku nyikiwa mfumo ni vutlhari"
+      ],
+      "answer": "Ku chumayela vanhu va yena leswaku va landzela varhumiwa"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xiphemu xa le kule swinene xa doroba",
+        "Areka",
+        "Xihlovo",
+        "Xihlahla lexi pfurhaka",
+        "Bako ra kona"
+      ],
+      "answer": "Xiphemu xa le kule swinene xa doroba"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U nghene eParadeyisini kutani a navela onge vanhu va yena va nga tiva ku rivaleriwa ka yena",
+        "U nwile ni vanhu va yena hikwalaho ko ala rungula",
+        "U nyikiwe singita ra kamela ya xisati",
+        "U ve mufumi endzhaku ka ku tengisiwa ka yena",
+        "U ponisiwile hi Allah naswona u tshame na vanhu va yena"
+      ],
+      "answer": "U nghene eParadeyisini kutani a navela onge vanhu va yena va nga tiva ku rivaleriwa ka yena"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

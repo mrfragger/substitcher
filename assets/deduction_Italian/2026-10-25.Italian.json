@@ -1,0 +1,61 @@
+{
+  "title": "La lamentela si è sentita sopra il rumore",
+  "intro": "Si ode una voce levarsi da una società in cui l'oppressione è diventata routine. Nessuna dimostrazione di potere risponde al risentimento; al contrario, un appello diretto giunge ad Allah, e la risposta colpisce al cuore stesso del culto. Chi ha sollevato quella lamentela, quale domanda è seguita e quale verità è stata affermata?",
+  "clues": [
+    "Mi turbava l'oppressione subita dalle persone intorno a me.",
+    "Ho espresso quel risentimento direttamente ad Allah in una lamentela personale.",
+    "Allah ha ascoltato la lamentela e ha risposto con una sfida riguardo alla mia stessa fede.",
+    "La risposta chiedeva come potessi non credere in Allah, che è Uno e Supremo.",
+    "Ho quindi chiesto perché Allah avrebbe dovuto favorire un popolo miscredente.",
+    "Io sono Uzair, menzionato nella Sura Az-Zukhruf come colui la cui lamentela Allah ha ascoltato."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Uzair",
+        "Il compagno che navigò durante il grande diluvio",
+        "Il servo che camminava sull'acqua",
+        "Il dormiente protetto all'interno di una grotta",
+        "Il servo che portò pietre a un fiume"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Lamentarsi con Allah dell'oppressione del popolo",
+        "Camminare sull'acqua durante una tempesta",
+        "Portare pietre fino a un fiume senz'acqua",
+        "Navigando attraverso un grande diluvio a bordo dell'Arca",
+        "Ricevere la chiave di un immenso tesoro"
+      ],
+      "answer": "Lamentarsi con Allah dell'oppressione del popolo"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una lamentela diretta rivolta ad Allah",
+        "Un bastone che si trasformò in un serpente",
+        "Una fornace resa fredda e tranquilla",
+        "Un'arca che galleggia sulle acque del diluvio",
+        "Un pesce che ingoia un servo"
+      ],
+      "answer": "Una lamentela diretta rivolta ad Allah"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Allah ha ascoltato la lamentela e ha affermato l'Unicità divina e la Suprema Signoria.",
+        "Camminare in sicurezza sull'acqua durante una tempesta",
+        "Attraversare una grande alluvione in sicurezza a bordo dell'Arca",
+        "Ritrovare la vista all'interno di un palazzo di arroganza",
+        "Ricevendo dominio che si estendeva da est a ovest"
+      ],
+      "answer": "Allah ha ascoltato la lamentela e ha affermato l'Unicità divina e la Suprema Signoria."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

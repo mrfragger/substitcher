@@ -1,0 +1,61 @@
+{
+  "title": "Dáileoir na hEagna Gan Smál",
+  "intro": "Duine measúil, aitheanta as a léargais dhomhain agus a chomhairle chríonna, thug siad comhairle dóibh tráth a sháraíonn glúnta. Treoraíonn a gcuid focal, atá taifeadta i scrioptúr naofa, daoine i dtreo buíochas, foighne agus iompair fhíréanta.",
+  "clues": [
+    "Beannaíodh mé le heagna, ní le fáidheacht.",
+    "Thug mé comhairle do mo leanbh faoin bpeaca ba mhó: comhpháirtithe a cheangal le Allah.",
+    "Mhúin mé faoi mheáchan na ngníomhartha, fiú luach síol mustaird, agus conas a thabharfaidh Allah amach é.",
+    "Chuir mé béim ar bhuíochas le Allah agus le tuismitheoirí duine, ag aithint na deacrachtaí a bhaineann le leanbh a thógáil.",
+    "Áiríodh ar mo chomhairle paidir a bhunú, an mhaith a ordú, an t-olc a thoirmeasc, agus foighne a fhulaingt cibé rud a tharlaíonn do dhuine.",
+    "Tá caibidil sa Corán ainmnithe i mo dhiaidh, ina bhfuil mo theagasc agus na ceachtanna a roinn mé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Sulaiman",
+        "Fáidh Dawud",
+        "An Fáidh Yahya",
+        "Luqman",
+        "an Fáidh Músa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Téama Lárnach",
+      "options": [
+        "Ag Tógáil an Kaaba",
+        "Ag scoilteadh na farraige",
+        "Ag tabhairt eagna",
+        "Ag maireachtáil tuile",
+        "A bheith á shlogadh ag iasc"
+      ],
+      "answer": "Ag tabhairt eagna"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "Sliabh an Tur",
+        "A Mhac",
+        "An Lao Órga"
+      ],
+      "answer": "A Mhac"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosadh a mhuintir",
+        "Rinneadh treoir dá eagna",
+        "Bronnadh ríocht air",
+        "Tógadh suas go dtí na flaithis é",
+        "Bronnadh saibhreas ollmhór air"
+      ],
+      "answer": "Rinneadh treoir dá eagna"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ngôi làng bên bờ thử thách",
+  "intro": "Bạn thấy mình đang ở trong một ngôi làng ven biển, nơi tiếng sóng hòa quyện với những lời thì thầm của một dân tộc bị lãng quên. Họ được lệnh nghỉ ngơi, nhưng lòng tham đã dẫn đến một hình phạt mà người ta vẫn còn nhắc đến với giọng nói thì thầm. Liệu bạn có thể khám phá ra họ là ai?",
+  "clues": [
+    "Chúng tôi sống gần bờ biển và được lệnh phải nghỉ ngơi vào một ngày.",
+    "Vào ngày đó, cá sẽ đến với chúng tôi rất nhiều, nhưng chúng tôi bị cấm bắt chúng.",
+    "Một số người trong chúng ta đã cảnh báo về việc phạm tội, nhưng những người khác lại âm mưu đánh bắt cá bất chấp tất cả.",
+    "Chúng ta đã vi phạm điều răn thiêng liêng và tự chuốc lấy hình phạt nặng nề.",
+    "Hình phạt dành cho chúng tôi là một sự biến đổi khiến chúng tôi trở nên biến dạng và ô nhục.",
+    "Chúng ta đã bị biến thành vượn, một dấu hiệu cho tất cả những thế hệ sau này."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người của ngày Sa-bát",
+        "Người dân Thamud",
+        "Người dân của 'Ad",
+        "Người dân hang động",
+        "Người dân của Voi"
+      ],
+      "answer": "Người của ngày Sa-bát"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Câu cá vào ngày Sa-bát",
+        "Thờ cúng con bê vàng",
+        "Phủ nhận thông điệp của HUD",
+        "Giết con lạc đà cái",
+        "Xây dựng một tòa tháp lên trời"
+      ],
+      "answer": "Câu cá vào ngày Sa-bát"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con cá",
+        "Một con lạc đà cái",
+        "Một nhân viên",
+        "Một chiếc thuyền",
+        "Một khu vườn"
+      ],
+      "answer": "Con cá"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Biến thành vượn",
+        "Bị phá hủy bởi trận lũ lụt",
+        "Bị thiêu rụi trong một trận hỏa hoạn.",
+        "Bị đất nuốt chửng",
+        "Bị gió thổi bay tán loạn"
+      ],
+      "answer": "Biến thành vượn"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

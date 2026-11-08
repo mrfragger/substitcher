@@ -1,0 +1,61 @@
+{
+  "title": "Lähetystyö muinaisessa kaupungissa",
+  "intro": "Pölyinen muinainen kaupunki, jonka asukkaat ovat juurtuneet kieltämisen kynsiin, ja viimeinen varoitus, jota ei kuunneltu. Astu tänään niiden rooliin, jotka Allah lähetti viemään viestin itsepäiselle kansalle. Tarina hylkäämisestä, yksinäinen uskon ääni ja tuhoisalla päätöksellä sinetöity loppu. Kuka puhuu näiden vihjeiden kautta?",
+  "clues": [
+    "Allah lähetti meidät kaupunkiin, jonka ihmiset olivat kääntyneet pois totuudesta",
+    "Kaksi meistä tuli ensin, sitten kolmas liittyi vahvistamaan tehtäväämme",
+    "Kaupunkilaiset torjuivat meidät sanoen, että olimme vain ihmisiä kuten hekin",
+    "Yksi sielu kaupungin kaukaisimmasta laidasta juoksi käskemään ihmisiä seuraamaan meitä",
+    "Me anoimme heitä, mutta he paaduttivat sydämensä ja kääntyivät meitä vastaan",
+    "Yhden tuhoisan taivaallisen huudon myötä koko kaupunkimme vaiennettiin"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Kaupungin sanansaattajat suurassa Ya-Sin",
+        "Hawwariyyun (Isan opetuslapset)",
+        "Faaraon hovin velhot",
+        "Sapatin seuralaiset",
+        "Norsun kansa"
+      ],
+      "answer": "Kaupungin sanansaattajat suurassa Ya-Sin"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kaupunkilaisten torjumat ja valehtelijoiksi kutsumat",
+        "Poltettiin elävältä suuressa roihuavassa tulessa",
+        "Suuri kala nielaisi syvänmeren",
+        "Pakotettu rakentamaan kohoavaa pilaria",
+        "Kidutettu raivoavan tulipalon juoksuhaudassa"
+      ],
+      "answer": "Kaupunkilaisten torjumat ja valehtelijoiksi kutsumat"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Muinainen kaupunki (al-Qaryah)",
+        "Suuri liekehtivä uuni",
+        "Suuren kalan vatsa",
+        "Korkea taivasta koskettava pilari",
+        "Pyhä talo (Kaaba)"
+      ],
+      "answer": "Muinainen kaupunki (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Kaupunki tuhoutui yhden tuhoisan huudon (Sayha) seurauksena.",
+        "Tyranni ja hänen armeijansa hukkuivat jakautuneeseen mereen",
+        "Ihmiset muuttuivat apinoiksi ja apinoiksi",
+        "Taivaasta satanut kivisade tuhosi kaupungin",
+        "Raju tulva pyyhkäisi pois koko yhteisön"
+      ],
+      "answer": "Kaupunki tuhoutui yhden tuhoisan huudon (Sayha) seurauksena."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

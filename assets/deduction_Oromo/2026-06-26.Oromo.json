@@ -1,0 +1,61 @@
+{
+  "title": "Ba’aa Kennaa Dide",
+  "intro": "Barii seenaa dhala namaa keessatti, yeroo lafti dargaggeessa turtee fi addunyaan afuura ishee jalqabaa qabatte, lubbuun tokko aarsaa gad of qabuun Uumaa dura dhaabbattee turte. Aarsaan sun madaallii fudhatama waaqaatiin madaalame — fi hanqina ta’ee argame. Wanti itti aanu seenaa dhiifama osoo hin taane, garaa hinaaffaadhaan nyaate, gocha duubatti hin deebine kan yeroo hundumaa keessatti sagalee ta’utti geessu ture. Kun seenaa nama maqaan isaa jal’ina hamaa jalqabaa hanga ammaatti raawwatame waliin walfakkaata ta’eedha.",
+  "clues": [
+    "Ijoollee jalqabaa dhalatan keessaa tokko ta’ee, warra seenaa isaanii sirriitti beektu irraa dhaladheen jiraadhe.",
+    "Yeroo tokko Rabbiif aarsaa dhiheesseen ture, garuu na irraa hin fudhatamne — aarsaan obboleessa koo tolaan kan fudhatame ta’us.",
+    "Inaaffaa fi dheekkamsi garaa koo keessatti hidda gadi fageeffatee, jireenya fira koo akkan xumuru doorsise.",
+    "Obboleessi koo akkan Rabbiin sodaadhu na akeekkachiise, of tuuluun koo garuu akkan dhaggeeffadhu na hin hayyamne.",
+    "Yeroo dadhabina hamaa keessa obboleessa koo irratti gocha dubbatamuu hin dandeenye raawwadhe.",
+    "Sana booda, waanan hojjedhe akkamitti akkan dhoksullee hin beeku ture — hanga uumamni lafaa tokko na barsiisuuf ergamutti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Qabil (Qaayin) .",
+        "Habil (Abeel) .",
+        "Ilma Nabi Nuh",
+        "Nabi Ismaa'il",
+        "Nabi Yuusuf"
+      ],
+      "answer": "Qabil (Qaayin) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Wareegama dide, ajjeechaa jalqabaatti geessu dhiyeessuun",
+        "Samii ga’uuf masaraa olka’aa ijaaruu",
+        "Amantii ofiif jecha ibidda boba'aa keessa darbatamuu",
+        "Rabbiif ajajamuun ilma ofii aarsaa gochuu",
+        "Dirqama ofii baqachuuf qurxummii guddaan liqimfamuu"
+      ],
+      "answer": "Wareegama dide, ajjeechaa jalqabaatti geessu dhiyeessuun"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Korma Rabbiin awwaalcha agarsiisuuf erge",
+        "Lolaa guddaa ummata guutuu bishaaniin liqimse",
+        "Ulee gara bofa lubbuu qabuutti jijjiirame",
+        "Gaala dubaraa gaara dhagaa keessaa baate",
+        "Teessoo ajaa'ibaa qilleensa jabaadhaan baatamu"
+      ],
+      "answer": "Korma Rabbiin awwaalcha agarsiisuuf erge"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Kan gaabbii qabu, yakka jalqabaa raawwatameen ba’aa ta’e",
+        "Rabbiin araaramee Jannata bara baraa kenneef",
+        "Raajii fi ogummaa sadarkaa olaanaatti ol guddate",
+        "Gad fageenya dukkanaa keessaa erga waamamee booda araara waaqaatiin fayye",
+        "Jinni, qilleensaa fi galaana irratti ol’aantummaa kennameef"
+      ],
+      "answer": "Kan gaabbii qabu, yakka jalqabaa raawwatameen ba’aa ta’e"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

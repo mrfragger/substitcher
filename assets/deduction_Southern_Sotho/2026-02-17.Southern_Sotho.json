@@ -1,0 +1,61 @@
+{
+  "title": "Peō ea Liqabang",
+  "intro": "Pele lefatše le tseba khohlano e atileng, teko e tebileng ea tumelo le kutlo e ile ea hlaha. Pale ena e hlahloba likhetho tse entsoeng ke motho ka mong, eo liketso tsa hae li behileng mohlala bakeng sa meloko e tlang. Itokisetse ho qaqisa pale ea moea o loanang le poulelo e kholo le liphello tsa eona tse senyang.",
+  "clues": [
+    "Ke ne ke le har'a bana ba pele ba ileng ba phela lefatšeng, ke le ngoana oa banyalani ba pele ba batho.",
+    "Nna le moena oa ka re ile ra laeloa ho nyehela sehlabelo ho Allah, e le teko ea botšepehi ba rona.",
+    "Nyehelo ea ka ha ea ka ea amoheloa, ha ea moena oa ka e amoheloa, e leng se ileng sa tlatsa pelo ea ka ka maikutlo a tšabehang.",
+    "Ke ile ka bua mantsoe a tšokelo ho moena oa ka, ke susumetsoa ke bohloko ba ho lahloa.",
+    "Moena oa ka o ile a araba ka bohlale le boinehelo, a nkhopotsa toka ea Allah le tšabo ea Hae.",
+    "Ho sa tsotellehe mantsoe a bonolo a moena oa ka le boikemisetso ba hae ba ho tšoarela, ke ile ka ipolaea, ka ba e mong oa ba lahlehetsoeng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Adama",
+        "Li-Iblis",
+        "Moprofeta Nuh",
+        "Qabil (Kaine)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kaine)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Moroallo o moholo",
+        "Ho aroloa ha leoatle",
+        "Kaho ea Kaaba",
+        "Ho nyehela mahlabelo",
+        "Teko Serapeng"
+      ],
+      "answer": "Ho nyehela mahlabelo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Areka",
+        "Basebetsi",
+        "Thaba ea Safa",
+        "Sehlabelo",
+        "Sehlahla se Chesang"
+      ],
+      "answer": "Sehlabelo"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E ile ea e-ba lenģosa",
+        "O ne a khangoa ke metsi",
+        "Ho hahiloe 'muso o moholo",
+        "E bile mohlala oa masoabi",
+        "O ile a fuoa leruo le leholo"
+      ],
+      "answer": "E bile mohlala oa masoabi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

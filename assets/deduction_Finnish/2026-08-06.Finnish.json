@@ -1,0 +1,61 @@
+{
+  "title": "Valpas sielu joen rannalla",
+  "intro": "Nuorelle sielulle uskottiin salainen tehtävä: tarkkailla turvallisen välimatkan päästä kohtalon kulkua vesillä. Näkymätön ja epäilemätön hahmo tulisi näyttelemään keskeistä roolia kansakunnan historian kulun muuttamisessa.",
+  "clues": [
+    "Äitini antoi minulle tehtävän, joka vaati hiljaisuutta ja valppautta.",
+    "Katseeni seurasi pientä, virtauksessa ajelehtivaa kehtoa, sydämeni raskas huolesta.",
+    "Kun odottamaton seurue löysi sen, menin lähemmäksi täynnä pelkoa.",
+    "Näin heidän epätoivoisen tarpeensa löytää talonmies ja tarjosin ratkaisun paljastamatta totuutta.",
+    "Oikea-aikainen puuttumiseni asiaan toi hoitavan sielun takaisin sen luokse, joka sitä eniten tarvitsi.",
+    "Vallanpitäjien hovissa puhuin: \"Ohjaanko teidät perheen luokse, joka ravitsee häntä ja pitää hänestä huolta?\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Musan sisar",
+        "Musan äiti",
+        "Faaraon vaimo",
+        "Kätilö",
+        "Shu'aibin tytär"
+      ],
+      "answer": "Musan sisar"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Lapsen heittäminen jokeen",
+        "Meren jakautuminen",
+        "Vasikan polttaminen",
+        "Arkin rakentaminen",
+        "Heinäsirkkavitsaus"
+      ],
+      "answer": "Lapsen heittäminen jokeen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Joki",
+        "Aavikko",
+        "Vuori",
+        "Palatsi",
+        "Tuli"
+      ],
+      "answer": "Joki"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hän yhdisti lapsen äitinsä kanssa",
+        "Hän pelasti itsensä faaraon sotilailta",
+        "Hänestä tuli kuningatar",
+        "Hänet rangaistiin vakoilusta",
+        "Hän johti israelilaisia"
+      ],
+      "answer": "Hän yhdisti lapsen äitinsä kanssa"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Souveren an ki te egzije Divinite a",
+  "intro": "Yon chèf pwisan e arogan te kwè pèsonn pa t kanpe pi wo pase twòn li. Yo te kouri dèyè yon gwoup moun k ap kouri travèse yon gwo kò dlo, sèlman pou yo te rankontre yon fen dramatik. Istwa souveren sa a repete nan plizyè pasaj nan Koran an, li sèvi kòm yon avètisman pou tout moun.",
+  "clues": [
+    "Mwen te yon dirijan pwisan ki te kwè pa gen okenn otorite ki te pi wo pase pa m nan peyi mwen t ap gouvène yo.",
+    "Mwen te gen yon vizir yo te rele Aman, yon moun mwen te fè konfyans, ki te ede m reyalize gwo pwojè achitekti.",
+    "Mwen te konvoke pi bon majisyen nan peyi mwen an pou yo te defye siy yon mesaje ki te opoze avè m.",
+    "Mwen te refize kite yon pèp ki te esklav nan wayòm mwen an ale, malgre epidemi yo ak avètisman klè yo.",
+    "Mwen kouri dèyè yo atravè yon gwo lanmè avèk tout lame mwen ak cha lagè mwen yo.",
+    "Lanmè sa a te fèmen sou mwen ansanm ak tout sòlda mwen yo, li te nwaye nou tout pandan yo t ap travèse san danje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Farawon (Farawon)",
+        "Namrud",
+        "Abou Lahab",
+        "Aman",
+        "Abou Jahl"
+      ],
+      "answer": "Farawon (Farawon)"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Epidemi ak konfwontasyon ak Musa (Moyiz)",
+        "Konstriksyon yon lach anvan yon gwo delij",
+        "Batay kont Jalut nan vale a",
+        "Yon balèn vale l",
+        "Defann pwa komès onèt yo"
+      ],
+      "answer": "Epidemi ak konfwontasyon ak Musa (Moyiz)"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Gwo fò tou won ak pikèt",
+        "Yon gwo lach an bwa",
+        "Yon ti bèf an lò",
+        "Yon baton ki tounen yon sèpan",
+        "Yon gwo balèn"
+      ],
+      "answer": "Gwo fò tou won ak pikèt"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Nwaye nan lanmè a ak lame a",
+        "Sove pa mizèrikòd ak pasyans Allah rekonpanse",
+        "Reyini ak fanmi apre plizyè ane difikilte",
+        "Latè vale l",
+        "Boule nan yon dife"
+      ],
+      "answer": "Nwaye nan lanmè a ak lame a"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

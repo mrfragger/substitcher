@@ -1,0 +1,61 @@
+{
+  "title": "Herald bu bàkkaar bu musul am",
+  "intro": "Yenn ci jaar-jaar yi ci Al Quran dañuy fësal xóotaayu ger bi askan wi yépp mëna dundu. Ndaw si taxaw moom kese, di ñaanal askan wi dugg ci njubadi bu benn réew bu leen jiitu musul topp. Doonte ay at yu bari lañu àrtu, xol yi wéy di dëgër, teg ci dogal bi Yàlla digle ñëw ci anam wu raglu lool. Ndax man nga ràññee ndawu Yàlla bu tedd bii?",
+  "clues": [
+    "Dañu ma yónnee ngir ma artu nit ñu yàqu ci njubadi, te benn réew bu leen jiitu musul def.",
+    "Sama askan woowe ma fenkat, ba noppi ni dina ñu dàq man ak samay toppkat ci réew mi.",
+    "Xale yu góor yu bari dañu daan ñëw ci sama kër, ma ànd ak tiis wu rëy ndax seen kaaraange.",
+    "Sama nit ñi dañu ma sàkku ma jox leen samay gan, te xamu ñu ni gan yooyu malaaka lañu yu Yàlla yónnee.",
+    "Sama jabar bokkul woon ci sama ngëm, mu tànn des ci ginaaw ak ñi nara ñàkk seen bakkan.",
+    "Maa ngi mucc ak samay doomi jigéen ci fajar, bi xeer yu bari di taw, ba noppi ñu tas sunuy dëkk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Luut Yàlla",
+        "Shu'aib",
+        "Boroom bi Hud",
+        "Yonent-Yàlla Nuh",
+        "Boroom bi Salih"
+      ],
+      "answer": "Luut Yàlla"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Mbënd mu mag mi laal kaw suuf si",
+        "Ñàkka gis ndax tiis wu yàgg",
+        "Tiran buy wax ni boroom la",
+        "ñu sànni leen ci safara gu tàng",
+        "Ñuy sàkku ñu joxe gan yiñ sargal"
+      ],
+      "answer": "Ñuy sàkku ñu joxe gan yiñ sargal"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Ark bu mag buñ tabax ak loxo",
+        "Batt bu xaajale géej gi",
+        "Gaam bu jigéen bu am kéemtaanu",
+        "Safara gu tàng",
+        "Dëkk yuñ daaneel"
+      ],
+      "answer": "Dëkk yuñ daaneel"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Dafa daanu ci ndox mi, di topp gëmkat yi",
+        "Muccal nañu ko ci fuur bu tàng bi te kenn gaañu ko",
+        "Ñu yéeg ko ci asamaan si di dundu",
+        "Mbokk yi ñàkk nañu seen bakkan ci mbënd bu mag",
+        "Family mucc ludul jabar ju gëmul"
+      ],
+      "answer": "Family mucc ludul jabar ju gëmul"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

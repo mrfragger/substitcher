@@ -1,0 +1,61 @@
+{
+  "title": "Enneolematu patu kuulutaja",
+  "intro": "Mõned Koraani lood paljastavad, kui sügavasse korruptsiooni terve ühiskond langeda võib. See sõnumitooja seisis üksi, anudes rahvast, kes oli uppunud perverssuse küüsi, mida ükski rahvas enne neid polnud harrastanud. Vaatamata aastatepikkusele hoiatusele jäid südamed paadunuks ja jumalik otsus saabus kõige hirmutavamal viisil. Kas sa suudad seda üllast Allahi sõnumitoojat ära tunda?",
+  "clues": [
+    "Mind saadeti hoiatajaks rahvale, keda vaevab perverssus, mida ükski rahvas enne neid polnud toime pannud.",
+    "Mu rahvas nimetas mind valetajaks ja ähvardas mind ja mu järgijaid maalt välja ajada.",
+    "Auväärsed külalised saabusid mu koju streikivate noorte meeste näol ja ma tundsin nende turvalisuse pärast sügavat ahastust.",
+    "Mu rahvas nõudis, et ma loovutaksin oma külalised neile, teadmata, et need külalised olid Allahi saadetud inglid.",
+    "Mu enda abikaasa ei jaganud minu usku ja otsustas jääda hukule määratud inimeste sekka.",
+    "Mind ja mu tütreid päästeti koidikul, kui laastav kivivihm sadas ja meie linnad ümber lükati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Lut",
+        "Prohvet Shu'aib",
+        "Prohvet Hud",
+        "Prohvet Noa",
+        "Prohvet Salih"
+      ],
+      "answer": "Prohvet Lut"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur veeuputus haarab maa",
+        "Nägemise kaotus pikaajalisest kannatusest",
+        "Jumalikkust väitev türann",
+        "Lõõmavasse tulle visatud",
+        "Nõutakse auväärsete külaliste loovutamist"
+      ],
+      "answer": "Nõutakse auväärsete külaliste loovutamist"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Suur käsitööna ehitatud laev",
+        "Personal, mis lõhestas mere",
+        "Imeline emane kaamel",
+        "Lõõmav tuli",
+        "Ümberpööratud linnad"
+      ],
+      "answer": "Ümberpööratud linnad"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uppus usklikke jälitades",
+        "Päästetud tuleahjust vigastusteta",
+        "Elusalt taevasse tõstetud",
+        "Perekond hukkus suures üleujutuses",
+        "Perekond päästeti, välja arvatud truudusetu naine"
+      ],
+      "answer": "Perekond päästeti, välja arvatud truudusetu naine"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

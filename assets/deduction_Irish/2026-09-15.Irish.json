@@ -1,0 +1,61 @@
+{
+  "title": "An fáilteachas a thug eagla",
+  "intro": "I gcathair a bhí lán le drochdhuine, fuair seirbhíseach dílis cuairteoirí gan choinne lá amháin. Bhí imní air faoina shábháilteacht, agus thairg an duine seo cosaint dóibh, ach d’éiligh muintir na cathrach rud éigin náireach. Tar éis rabhadh a thabhairt don seirbhíseach faoi chinniúint a bhí ar tí tarlú, theith sé lena theaghlach faoi scáth an dorchadais, ag fágáil cathair a bhí marcáilte le scrios ina diaidh. Cé hé an creidmheach uaigneach seo?",
+  "clues": [
+    "Cuireadh mé mar theachtaire chuig pobal a bhí páirteach i ngníomhartha náireacha.",
+    "Tháinig cuairteoirí gan choinne chuig mo theach, agus bhí imní níos mó orm faoina sábháilteacht ná faoi mo shábháilteacht féin.",
+    "D’éiligh mo mhuintir mo chuairteoirí a fheiceáil le drochintinn, agus rinne mé iarracht réasúnú leo.",
+    "Nocht mo chuairteoirí iad féin mar aingil agus d’ordaigh siad dom mo theaghlach a thabhairt leo agus imeacht san oíche.",
+    "Níor thug mo bhean aird ar an nglao chun éalú agus bhí an scrios céanna os a comhair agus a bhí os comhair mo mhuintire.",
+    "Cuireadh báisteach cloch cré srathaithe ar mo chathair, agus tugadh a codanna is airde síos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Lút",
+        "an Fáidh Músa",
+        "Fáidh Ibrahim",
+        "Fáidh Nuh",
+        "Fáidh Hud"
+      ],
+      "answer": "Fáidh Lút"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Éileamh mo mhuintire dul i ngleic le mo chuairteoirí go holc",
+        "Scaradh na farraige chun éalú ó tíoránach",
+        "Tógáil áirc mhóir i measc magadh",
+        "Íobairt mo mhic i dtástáil creidimh",
+        "An taithí a bhaineann le bheith slogtha ag iasc mór"
+      ],
+      "answer": "Éileamh mo mhuintire dul i ngleic le mo chuairteoirí go holc"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cathair mo mhuintire atá bun os cionn",
+        "An sliabh inar fuair mé cainte diaga",
+        "An áirc a sheol tríd an tuile mhór",
+        "An camall baineann a tháinig amach as an gcarraig",
+        "An gairdín le cuairteoir fíréanta i bhfolach"
+      ],
+      "answer": "Cathair mo mhuintire atá bun os cionn"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Sábháladh mé féin agus mo theaghlach sular cuireadh mo chathair ar ceal",
+        "Threoraigh mé mo mhuintir chun saoirse trasna na farraige",
+        "Thóg mé áirc mhór agus mhair mé i ndiaidh tuile mhóir",
+        "Tugadh smacht dom ar na gaotha agus ar na jinn",
+        "D’fhulaing mé fulaingt go foighneach agus fuair mé luach saothair teaghlaigh."
+      ],
+      "answer": "Sábháladh mé féin agus mo theaghlach sular cuireadh mo chathair ar ceal"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

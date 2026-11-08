@@ -1,0 +1,61 @@
+{
+  "title": "Ženklas tarp akmenų",
+  "intro": "Krašte, kuriame kalnai buvo iškalti į namus, atvyko pasiuntinys su stebuklingu Alacho ženklu. Žmonės pareikalavo įrodymų ir gavo padarą iš kietos uolos. Tačiau jų arogancija privertė juos nepaklusti perspėjimui, taip užantspauduodama savo likimą.",
+  "clues": [
+    "Buvau pasiųstas pas žmones, kurie gyveno kalnuose iškaltuose būstuose.",
+    "Jie paragino mane atnešti ženklą, tad iš uolos ištraukiau kupranugarį.",
+    "Įsakiau jiems leisti kupranugariui laisvai atsigerti ir jam nekenkti.",
+    "Jie nepakluso ir, nepaisydami mano perspėjimo, perkošė kupranugariui pakinklius.",
+    "Paskelbiau, kad bausmė bus po trijų dienų.",
+    "Rytą juos sunaikino galingas sprogimas, bet aš ir mano pasekėjai buvome išgelbėti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Salihas",
+        "Pranašas Hudas",
+        "Pranašas Lutas",
+        "Pranašas Šuayb",
+        "Pranašas Ibrahimas"
+      ],
+      "answer": "Pranašas Salihas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Paklausa kupranugario iš uolos",
+        "Auksinio veršio paklausa",
+        "Paklausa stalo, pasklidusio iš dangaus",
+        "Potvynio paklausa",
+        "Reikalavimas, kad personalas taptų gyvate"
+      ],
+      "answer": "Paklausa kupranugario iš uolos"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Kupranugarė ir jos jauniklis",
+        "Nojaus arka",
+        "Mozės lazda",
+        "Auksinis veršelis",
+        "Ibrahimo ugnis"
+      ],
+      "answer": "Kupranugarė ir jos jauniklis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sugriautas galingo sprogimo",
+        "Nuskendo potvynyje",
+        "Prarytas žemės",
+        "Pavirto į beždžiones",
+        "Sugriovė smarkus vėjas"
+      ],
+      "answer": "Sugriautas galingo sprogimo"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

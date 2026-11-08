@@ -1,0 +1,61 @@
+{
+  "title": "Barcin Masu Gaskiya",
+  "intro": "A lokacin da imani yake da haɗari kuma masu iko suka nemi su murƙushe imani, ƙaramin rukuni na matasa sun yi wani zaɓi wanda zai yi ta yawo tsawon shekaru. Suna guduwa daga duk abin da suka sani, suka nemi mafaka a cikin duhun dutse mai ɓoye suka kuma dogara ga Allah gaba ɗaya. Abin da ya faru na gaba zai zama alama marar iyaka ga waɗanda ke tunani.",
+  "clues": [
+    "Mun kasance ƙungiyar matasa waɗanda suka yi imani da Ubangijinmu, kuma Ya ƙara mana shiriya.",
+    "Mun tsaya a gaban mutanenmu muka bayyana cewa ba za mu taɓa kiran wani abin bautawa ba sai Allah.",
+    "Mun nemi mafaka a cikin kogo, muna cewa, 'Ya Ubangijinmu, ka ba mu rahama daga gare Ka, kuma ka shiryar da mu daidai a cikin al'amarinmu.'",
+    "Mun yi barci na tsawon shekaru da yawa, kuma rana za ta karkata daga kogonmu ba za ta taɓa mu ba.",
+    "Karenmu yana kwance a bakin kogon, yana tsaronmu kamar yana jiran mu.",
+    "Da muka farka, sai muka yi mamakin tsawon lokacin da muka ɗauka, sai aka aiko mana da tsabar azurfa don mu sayi abinci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Kogo",
+        "Mutanen Tarko",
+        "Mutanen Asabar",
+        "Mutanen Giwa",
+        "Abokan Itace"
+      ],
+      "answer": "Mutanen Kogo"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Sun gudu zuwa kogo domin gujewa tsanantawa saboda imaninsu",
+        "Iska mai ƙarfi ta halaka",
+        "Ƙasa ta haɗiye ta",
+        "An nutsar da shi cikin teku",
+        "Guguwar duwatsu ta same shi"
+      ],
+      "answer": "Sun gudu zuwa kogo domin gujewa tsanantawa saboda imaninsu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kare yana tsaron ƙofar kogo",
+        "Babban jirgi",
+        "Sanda da ta rikide ta zama maciji",
+        "Tsuntsun kumbo mai tsalle",
+        "Ɗan maraƙi na zinariya"
+      ],
+      "answer": "Kare yana tsaron ƙofar kogo"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Sun zauna a cikin kogo tsawon shekaru 309 sannan aka tashe su a matsayin alama",
+        "An mayar da su birrai",
+        "Ambaliyar ruwa ta halaka su",
+        "An sa su ketare teku",
+        "An ba su mulki"
+      ],
+      "answer": "Sun zauna a cikin kogo tsawon shekaru 309 sannan aka tashe su a matsayin alama"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

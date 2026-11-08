@@ -1,22 +1,26 @@
 class DeductionCategory {
   final String key;
   final String label;
-  final List<String> options;
+  final List<String> options; // shuffled, for display
+  final List<String> originalOptions; // file order; same position = same option in every language
   final String answer;
 
   DeductionCategory({
     required this.key,
     required this.label,
     required this.options,
+    this.originalOptions = const [],
     required this.answer,
   });
 
   factory DeductionCategory.fromJson(String key, Map<String, dynamic> json) {
-    final options = List<String>.from(json['options'] as List)..shuffle();
+    final original = List<String>.from(json['options'] as List);
+    final options = List<String>.from(original)..shuffle();
     return DeductionCategory(
       key: key,
       label: json['label'] as String,
       options: options,
+      originalOptions: original,
       answer: json['answer'] as String,
     );
   }

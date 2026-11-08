@@ -1,0 +1,61 @@
+{
+  "title": "An Glaoiteoir ón Doimhneacht",
+  "intro": "Samhlaigh anam a bhfuil teachtaireacht dhiaga curtha ar iontaoibh dó, ach a d’imigh óna mhuintir gan chead sainráite i nóiméad deifir. Thug an turas seo isteach i dtriail urghnách iad, tástáil dhomhain ar fhoighne agus ar mhuinín san Ard-Uilechumhachtach. Cé hé an duine seo a mhúineann a scéal dúinn faoi aithrí agus faoi fairsinge trócaire Allah?",
+  "clues": [
+    "Cuireadh chuig náisiún mór mé, ach chuir a ndiúltú tosaigh anró orm.",
+    "D’fhág mé mo mhuintir, agus mé den tuairim go raibh mo mhisean críochnaithe, sular fuair mé ordú soiléir imeacht.",
+    "Lorg mé pasáiste ar long, ach mar thoradh ar stoirm throm agus ar chrannchur, tháinig staid uafásach ar an mbóthar.",
+    "Caitheadh ​​san fharraige mé, agus shlog créatúr mór ón doimhneacht mé go hiomlán.",
+    "Laistigh de dhorchadas a bholg, ghlaoigh mé ar Allah, ag admháil mo mhí-iompair agus ag lorg a mhaithiúnais.",
+    "D’ordaigh Allah don chréatúr mé a chaitheamh ar an gcladach, agus tugadh mo shláinte ar ais faoi phlanda uathúil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Iósaf (Iósaf)",
+        "An Fáidh Nuh (Nói)",
+        "An Fáidh Yunus (Ióna)",
+        "An Fáidh Sulaiman (Solamh)",
+        "An Fáidh Ayyub (Iób)"
+      ],
+      "answer": "An Fáidh Yunus (Ióna)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Scoilteadh na farraige",
+        "Tine Nimrod",
+        "Á shlogadh ag iasc mór",
+        "An tuile",
+        "Scriosadh na cathrach le clocha"
+      ],
+      "answer": "Á shlogadh ag iasc mór"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "Bolg an éisc",
+        "An tobar",
+        "An tor dóite"
+      ],
+      "answer": "Bolg an éisc"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh rialóir mór de",
+        "Tógadh an Kaaba",
+        "D’fhill siad chun náisiún aithrí a threorú",
+        "Tugadh smacht ar an jinn dó",
+        "Threoraigh daoine trasna an fhásaigh"
+      ],
+      "answer": "D’fhill siad chun náisiún aithrí a threorú"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

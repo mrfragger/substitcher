@@ -1,0 +1,61 @@
+{
+  "title": "Nelaw bi weesu jamono",
+  "intro": "Xalaatal jamono yu ñu noppee dëgg, di rëbb gëmkat yi. Amna ñu tuuti ñu tànn ñu dellu ginaaw, moo gën ñu topp seen bopp, ñu wut dëkkuwaay ci barab bu kenn xamul woon — barab bu nara nekk seen barabu noppalukaay ci ay xarnu yu kenn mënul lim. Bi ñu demee ba yewwoo, àdduna bi dafa soppiku ci seen biir. Kan mooy ruuh yiy nelaw?",
+  "clues": [
+    "Xale yu ndaw lañu woon, dëkk ci dëkk bu yàgg.",
+    "Sunuy askan dañu bëggoon nu ànd ak ñoom jaamu Yàlla, waaye nu bañ.",
+    "Nu daw génn ci dëkk bi ngir wut fuñu mëna rëcci ci ñi doon xeex sunu ngëm.",
+    "Amna benn àndadoo bu am ñeenti tànk bu dëkk ci buntu barab bi nu nëbbee.",
+    "Yàlla daf nu nelawal ñetti téeméeri at ak juróom ñeent.",
+    "Bi nu demee ba yewwoo, sunu dëkk bi daan sonal nit ñi, nangu na ngëm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nun la kan?",
+      "options": [
+        "Ashab al-kahf (waa grotte)",
+        "Ashab al-fil (armée du ñay)",
+        "Ashab al-ukhdud (sahaba yi ci fosoŋ bi)",
+        "hawariyyun yi (taalibé isa)",
+        "Yajuj wa Majuj (Gog ak Magog)"
+      ],
+      "answer": "Ashab al-kahf (waa grotte)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Nu dellu ci lëmu doj, nelaw ay xarnu",
+        "Nu mucc ci safara gu tàng",
+        "Jën wu mag wann nu",
+        "Dañu nu natt ci gaam bu jigéen bu yéeme",
+        "Jox nañu nu juróom ñeenti màndarga yu leer"
+      ],
+      "answer": "Nu dellu ci lëmu doj, nelaw ay xarnu"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Grotte bu xóot ci tundu yi",
+        "Gaal ci kaw géej gi",
+        "Ab tabax bu kawe buy yegg ba ci asamaan si",
+        "Jardin bu xaajaloo ñaari noon",
+        "Barrière de fer et de cuivre"
+      ],
+      "answer": "Grotte bu xóot ci tundu yi"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nuy yewwu gis ni sunu dëkk dafa wëlbatiku ci ngëm",
+        "Safara gu tàng tàmbali sedd ba noppi am jàmm",
+        "Armée noon yi daanu ci géej gi",
+        "Picc yi yor xeer yi yàq noon yi",
+        "Jën wu mag daal di nu bàyyi ci tefes gi"
+      ],
+      "answer": "Nuy yewwu gis ni sunu dëkk dafa wëlbatiku ci ngëm"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

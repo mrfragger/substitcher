@@ -1,0 +1,61 @@
+{
+  "title": "Taýsyz Beýikligiň Ýiten Şäheri",
+  "intro": "Bir wagtlar beýik siwilizasiýa ýer ýüzüniň giň böleklerine höküm sürüpdi, asmana ýetýän beýik jaýlary bilen şöhratlanýardy. Emma bu beýikligiň aşagynda inkärçilik artdy - jemgyýetiň özünden iberilen ylahy duýduryşa gulak asmakdan boýun gaçyrmak. Tekepbirlik we tekepbirlik tiz wagtda ýeriň hem, gökleriň hem hiç haçan görmedik jezasyny getirerdi.",
+  "clues": [
+    "Biz bir wagtlar ýer ýüzüniň giň böleklerinde höküm sürýärdik we başga hiç bir siwilizasiýanyň deňleşip bilmejekdigine ynanýan güýjümiz bilen öwünýärdik.",
+    "Biziň şalygymyz ähli belli ýerlerde deňsiz-taýsyz bolan kuwwatly sütünleri bolan beýik binalary bilen meşhurdy.",
+    "Öz jemgyýetimizden bir duýduryşçy aýaga galyp, her birimizi diňe Ýaradyjynyň öňünde boýun egmäge çagyrdy.",
+    "Bize ýetirilen habary inkär etdik we miras galan ýolumyzy taşlamakdan ýüz öwürdik.",
+    "Bize garşy güýçli gazaply, öwüsýän ýel öwüsdi we bizi düýbünden goragsyz goýdy.",
+    "Biz her nesil üçin sapak hökmünde dargap, unudylyp, içimizden boş palma agaçlarynyň süňkleri ýaly galdyk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ad halky",
+        "Nuh pygamberiň halky",
+        "Lut pygamberiň halky",
+        "Madýan halky",
+        "Tubba halky"
+      ],
+      "answer": "Ad halky"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Agyr jezanyň dynmaz gazaply ýeli",
+        "Daglaryň her bir depesini örtýän sil",
+        "Ýokardan ýanýan toýun daşlaryndan ýagyş ýagýar",
+        "Göklerden ýekeje gorkunç gykylyk",
+        "Ýeri iki bölen güýçli ýer titremesi"
+      ],
+      "answer": "Agyr jezanyň dynmaz gazaply ýeli"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Beýik sütünleriň şäheri bolan Iram",
+        "Dagyň üstünde gurlan agaçdan ýasalan ägirt uly gämi",
+        "Daşdan gudrat bilen çykan dişi düýe",
+        "Ilahi buýruklaryň inen ýeri bolan Sinaý dagy",
+        "Akýan suwlara seredýän kristal we inçe aýna köşk"
+      ],
+      "answer": "Beýik sütünleriň şäheri bolan Iram"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Palma agaçlarynyň içi boş göwdeleri ýaly, dargan we jansyz galdylar",
+        "Beýik siliň güýçli tolkunlarynyň aşagynda gark boldy",
+        "Maýmynlara we doňuzlara meňzeş jandarlara öwrüldi",
+        "Gatyşan toýun daşlarynyň ýagyşynyň aşagynda ezildi",
+        "Jany deşýän ýekeje gulak asyjy gygyrykda ýok edildi"
+      ],
+      "answer": "Palma agaçlarynyň içi boş göwdeleri ýaly, dargan we jansyz galdylar"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

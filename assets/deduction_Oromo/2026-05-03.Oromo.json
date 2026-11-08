@@ -1,0 +1,61 @@
+{
+  "title": "Warra Dhugaa Barbaadan Hirriba",
+  "intro": "Mee yeroo amantiin mormii keessa ture, gareen lubbuu tokko jajjabina biyya lafaa irra amantii hin sochoone filate yaadi. Filannoon sodaachisaa isaan mudatee, imala hirriba adda taʼe isaan mudatu jalqaban. Seenaan isaanii eegumsa waaqummaa fi humna amantii cunqursaa irratti qabuuf ragaadha. Eenyummaa namoota dinqisiisoo kanaa adda baasuu dandeessaa?",
+  "clues": [
+    "Walgaʼii xinnoo, Uumaa Tokkichatti amantii gadi fagoo qabnuun walitti qabamne turre.",
+    "Bara bulchaan humna guddaa qabu Rabbiin ala ibaadaa gaafatu keessa jiraanne.",
+    "Amantii keenya eeguuf mana keenya dhiisnee cunqursaa jalaa baqachuuf murteessine.",
+    "Hiriyaan amanamaan, uumama lafaa, imala keenya irratti nu waliin ture.",
+    "Iddoo dhokataa ta’etti, bakka Rabbiin hirriba gadi fagoo fi dheeraa ta’e akka seennu nu godhetti bakka qulqulluu arganne.",
+    "Yeroo dammaqnu guyyaa tokko ykn kutaan guyyaa qofti akka darbe amanne, garuu jaarraawwan dhuguma darbaniiru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata Boollaa",
+        "Ummata Thamud",
+        "Ummanni Saba'.",
+        "Ummata Holqa",
+        "Uummata Madyan"
+      ],
+      "answer": "Ummata Holqa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Lafa baala hin qabneen qoramuu",
+        "Lolaa guddaa fuulduratti",
+        "Bulchaa garboomfataa irraa baqachuu",
+        "Ibidda gubaa jirutti darbatamuu",
+        "Sihrii falfalaa mormuu"
+      ],
+      "answer": "Bulchaa garboomfataa irraa baqachuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Masaraa guddaa",
+        "Doonii/arkiin tokko",
+        "Boolla bishaanii gadi fagoo",
+        "Holqa tokko",
+        "Gaara olka'aa"
+      ],
+      "answer": "Holqa tokko"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Mootummaan kennamuu",
+        "Hirriba dinqii jaarraa hedduuf ture",
+        "Lafaan liqimfamuu",
+        "Obomboleettii diigaa irraa baraaramuu",
+        "Minjaalli samii qophaa’uu"
+      ],
+      "answer": "Hirriba dinqii jaarraa hedduuf ture"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

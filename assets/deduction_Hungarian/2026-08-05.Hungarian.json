@@ -1,0 +1,61 @@
+{
+  "title": "A végső bemutató napja",
+  "intro": "Egy hatalmas erődemonstrációra hívva egy csapat képzett előadóművész váratlan igazsággal szembesül, amely örökre megváltoztatja az életüket.",
+  "clues": [
+    "Híresek voltunk a szakértelmünkről, az illúziók és a trükkök mesterei.",
+    "Az uralkodó hívott minket össze, hogy szembeszálljunk egy kihívóval, aki egy egyszerű botot forgatott.",
+    "Amikor megláttuk az igazságot, leborultunk, és kijelentettük, hogy hiszünk a világok Urában.",
+    "A zsarnok súlyos büntetéssel fenyegetett minket, de mi nem tétováztunk.",
+    "Az elsők között hittünk az üzenetben, miután tanúi voltunk a világos jelnek.",
+    "Hitünkért haltunk meg mártírhalált, de mi leszünk az elsők, akik az igazakkal együtt belépnek a Paradicsomba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "A fáraó varázslói",
+        "Az izraeliták",
+        "Thamud népe",
+        "Isa tanítványai",
+        "Az Abraha hadserege"
+      ],
+      "answer": "A fáraó varázslói"
+    },
+    "trial": {
+      "label": "Próba / Esemény",
+      "options": [
+        "Verseny Mózes prófétával",
+        "A torony építése",
+        "A nagy árvíz",
+        "A sáskák pestise",
+        "A kettéhasadó tenger"
+      ],
+      "answer": "Verseny Mózes prófétával"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A fesztivál napja",
+        "A Tuwa-völgy",
+        "Iram városa",
+        "Az Örökkévalóság Kertje",
+        "Az Arafat-síkság"
+      ],
+      "answer": "A fesztivál napja"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Nyilvánosan feszítették keresztre",
+        "A tengerbe fulladtak",
+        "A próféta követőivé tették őket",
+        "Száműzetésbe küldték őket",
+        "Tűz emésztette meg őket"
+      ],
+      "answer": "Nyilvánosan feszítették keresztre"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

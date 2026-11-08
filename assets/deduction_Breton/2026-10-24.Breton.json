@@ -1,0 +1,61 @@
+{
+  "title": "Ar c'hemenn dindan an douar",
+  "intro": "Soñjit emaoc'h e-kichen un toull-bac'h don e-keit ma sav mouezhioù eus an traoñ hag ar bed a-us o sioulaat. Ar C'horan a vir ar skeudenn-se evel ur c'hemenn : nac'hañ a ra ur gumuniezh ar pezh a zegas ar gannaded, serriñ a ra ar c'hastiz, ha zoken e ruz a zeu da vezañ ul lodenn eus an testeni. Peseurt strollad a gomz dre ar gwerzennoù-se ?",
+  "clues": [
+    "Soñjet e vezomp er C'horan evel ur strollad termenet gant un tonkad rannet kentoc'h eget gant un anv hiniennel.",
+    "Nac'het hon eus ar gemennadenn degaset gant kannaded, daoust ma oa gwir ar pezh o doa lavaret.",
+    "Stag eo hon identelezh soñjet ouzh un troc'h don en douar, hag an elfenn-se a zo deuet da vezañ ul lodenn eus hon anv.",
+    "D'an deiz merket e voemp degaset er-maez ha stlejet war-zu an tan.",
+    "Ne c’helljomp ket en em zifenn a-enep ar c’hastiz, ha ne c’helljomp ket klevet e ruzder.",
+    "Hon dremmoù a vije troet en tan, hag e vimp kaset ennañ; pa veze goulennataet e lavaremp e oamp e-touez ar re na c'hellent ket respont."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Kompagnuned ar Foz",
+        "Ar vroad dieubet diouzh al liñvadenn vras",
+        "Azeulerien al Leue Aour",
+        "Ar strollad en em zalc'het e-barzh kev ar menez",
+        "Ar gumuniezh dieubet eus ar forn-tan"
+      ],
+      "answer": "Kompagnuned ar Foz"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Sachet ha taolet en tan",
+        "Degaset eus ur forn tan",
+        "Kaset e surentez dre ul liñvadenn vras",
+        "Gwarezet e-pad kantvedoù e-barzh ur c'hev",
+        "Saveteet goude bezañ bet taolet en ur puñs"
+      ],
+      "answer": "Sachet ha taolet en tan"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ur foz pe ur foz",
+        "Eur mor braz",
+        "Ur c'hev menez",
+        "Ur palez uhel",
+        "Ur puñs dezerzh"
+      ],
+      "answer": "Ur foz pe ur foz"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Dic'hallus da zifenn o-unan ha dic'hallus da glevet trouz an Tan",
+        "Saveteet ha aotreet mont e-barzh liorzhoù peurbadus",
+        "Degaset en un doare sur dre un dour-beuz distrujus",
+        "Gwarezet gant ur c'housk hir e-barzh ur c'hev",
+        "Enoret gant ur rouantelez eternel"
+      ],
+      "answer": "Dic'hallus da zifenn o-unan ha dic'hallus da glevet trouz an Tan"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

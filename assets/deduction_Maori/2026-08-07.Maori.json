@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakapono i Muri i te Torona",
+  "intro": "Ko ētahi wairua kāore e whakamatautauria e te ahi, e te waipuke rānei, engari e te pēhanga puhoi o te noho i roto i te whare o te kaitukino. I tū tēnei tangata i te taha o tētahi rangatira i kī he atua ia ki runga i ō rātou iwi, engari i piri puku ki te whakapono ki te Atua Pono Kotahi. I te kitenga o tō rātou aroha, ka puta te mamae - engari i puta mai anō hoki tētahi kupu whakaari atua. Ka taea e koe te matapae ko wai tēnei?",
+  "clues": [
+    "I noho ahau i raro i te tuanui o te rangatira tino mana o tōku whenua, i roto i te tūranga e kore e taea e te hunga ruarua te whakaaro.",
+    "I tū taku hoa rangatira i mua i te iwi, ā, i kī ia he atua ia — engari nō te Ariki Pono Kotahi tōku ngākau.",
+    "I hāhā puku ahau i aku inoi, i te wehi kei pā ki te hunga katoa e whakakeke ana ki taku hoa rangatira.",
+    "I te huraina o tōku whakapono, i hopukina ahau, i whakamamaetia hoki - heoi, kāore rawa tōku arero i puaki i tētahi kupu whakaponokore.",
+    "I ringihia e ahau tōku ngākau ki tōku Ariki, i te tono mō tētahi whare i Pararaiha, kia matara atu i ngā mahi hē katoa.",
+    "Ko Asiya ahau, te wahine a te Parao i whakahē ki a Mohi rāua ko Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Asiya bint Muzahim (Wahine a Parao)",
+        "Ko Hāwa (Ewa), te wahine tuatahi",
+        "Ko Sarah, te wahine tuatahi a Ibrahim",
+        "Ko Hakara, te whaea o Ihimaera",
+        "Te whaea o Meriama (te wahine a Imrana)"
+      ],
+      "answer": "Asiya bint Muzahim (Wahine a Parao)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakamanawanui ki te whakamamae mō te kore e whakarērea te whakapono",
+        "E ora tonu ana i roto i te puku o te ika nui",
+        "Te hanga i tētahi āka nui hei mawhiti i te waipuke",
+        "Te maka ki roto i te ahi mura",
+        "Te kitenga i te wehenga o te moana nui"
+      ],
+      "answer": "Te whakamanawanui ki te whakamamae mō te kore e whakarērea te whakapono"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He whare i hangaia mō rātou i Pararaiha",
+        "He tokotoko i huri hei nakahi",
+        "He āka e kawe ana i ngā takirua o ia mea hanga",
+        "He kuao kau koura e karakiatia ana e te iwi",
+        "He koti hei patu i tētahi toa nunui"
+      ],
+      "answer": "He whare i hangaia mō rātou i Pararaiha"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Ka whakahonoretia ki te noho ki Pararaiha i te taha o te hunga tika",
+        "I toremi i raro i ngā ngaru me tā rātou ope taua",
+        "I tahuna ki te mura engari i whakaorangia e te wawaotanga a te Atua",
+        "I horomia e tetahi mea nui, kātahi ka maka ki uta",
+        "I riro hei tangata whai rawa rawa atu o tōna wā"
+      ],
+      "answer": "Ka whakahonoretia ki te noho ki Pararaiha i te taha o te hunga tika"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

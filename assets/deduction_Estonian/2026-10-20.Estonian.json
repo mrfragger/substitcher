@@ -1,0 +1,61 @@
+{
+  "title": "Vale ambitsiooni arhitekt",
+  "intro": "Vana-Egiptuses teenis üht ajaloo kurikuulsamat türanni suure autoriteediga tegelane. Sellele isikule usaldati julge käsk – ehitada ehitis, mis oleks pidanud trotsima taevast. Nende lugu on Koraanis silmatorkav õppetund sellest, kuidas pime kuulekus ülbusele viib vaid hävinguni.",
+  "clues": [
+    "Teenisin võimsa valitseja õukondades, kes väitis end olevat maade jumalik omanik.",
+    "Mul oli kõrge ministrikoht, nõustades oma aja kõige ülbemat türanni.",
+    "Mu valitseja oli pühendunud Moosese Jumala vaidlustamisele, keda nad keeldusid tunnustamast.",
+    "Mul kästi ehitada tules küpsetatud tellistest torn, et mu valitseja saaks taevasse tõusta.",
+    "Torn ei ulatunud kunagi taevani ja minu orjus ülbusele tõi mulle igavese häbi.",
+    "Ma hukkusin koos sellega, keda ma järgisin, ja mu nimest sai igavene hoiatus nende vastu, kes türannidele võimu annavad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Haman",
+        "Azar (Ibrahimi isa)",
+        "Illyas (prohvet)",
+        "Dhu al-Kifl",
+        "Harut (üks kahest Babüloni inglist)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Käskis ehitada taevasse ulatuva kõrguva ehitise",
+        "Paluti tõlgendada jumalikult saadetud unenägu",
+        "Usu proovilepanekuks lõõmavasse tulle visatud",
+        "Sunnitud valima trooni ja tõe vahel",
+        "Nõiavõistlusel väljakutse esitanud"
+      ],
+      "answer": "Käskis ehitada taevasse ulatuva kõrguva ehitise"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tules küpsetatud tellistest torn",
+        "Personali, mis muutus maoks",
+        "Laev purjetab läbi suure üleujutuse",
+        "Kõrgete müüridega ümbritsetud aed",
+        "Rubiinide ja kullaga kaunistatud troon"
+      ],
+      "answer": "Tules küpsetatud tellistest torn"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uppusid koos rõhujaga merre",
+        "Sai võimsaks monarhiks, kes valitses ulatuslikke maid",
+        "Pääsesid lõõmavast tulekahjust vigastusteta",
+        "Ehitas tarkuse jõuka kuningriigi",
+        "Taasesitus pärast aastaid kestnud pagulust perega"
+      ],
+      "answer": "Uppusid koos rõhujaga merre"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

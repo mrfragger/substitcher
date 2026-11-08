@@ -1,0 +1,61 @@
+{
+  "title": "Test ar roc'h dister",
+  "intro": "Ur gumuniezh, barrek ha lorc'hus, he deus kizellet he hêrezh er menezioù o-unan. Mes pa voe kaset dezho ur sin sklaer, un amprouenn a feiz hag a enerez, o lorc'h a gasas anezho war un hent hep distreiñ. Ha gallout a rit anavezout ar strollad-se hag ar pezh a c'hoarvez gant o enebiezh ?",
+  "clues": [
+    "Mistri war ar maen e oamp, o kizellañ annezoù kaer war-eeun war lez ar menezioù.",
+    "Ur c'hannad eus hor pobl a zeuas betek ennomp, o c'hervel ac'hanomp da azeuliñ an Doue Gwir Unan.",
+    "Goulenn a reomp ur sin evit prouiñ e gomzoù, hag ur c'hrouadur dibar a voe degaset evel un amprouenn evidomp.",
+    "Ur gourc'hemenn eeun a oa bet roet deomp : rannañ hor font dour gant ar c'hrouadur-se, o lezel anezhañ da evañ d'an deiz merket.",
+    "En hor lorc'h, un nebeud ac'hanomp o deus iriennet ha nac'het hon eus ar c'hemenn, o lazhañ ar c'hrouadur a oa sañset bezañ hor sin.",
+    "Tri devezh a oa bet roet deomp a-raok hor marv, ha neuze e oa bet tapet ac'hanomp gant un darzhadenn vras ​​en hor c'hiz, o lezel ac'hanomp hep buhez ha distroet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Tud 'Ad",
+        "Tud Madyan",
+        "Tud Thamud",
+        "Tud Saba",
+        "Pobl Lut"
+      ],
+      "answer": "Tud Thamud"
+    },
+    "trial": {
+      "label": "Petra oa hon test kentañ?",
+      "options": [
+        "O sevel un arc'h evit chom bev diouzh al liñvadenn",
+        "Enebiñ ouzh ar c'hoant da besketa d'ar sabad",
+        "Dilezel ar pratikoù aferioù touellus",
+        "O gwareziñ ur c'hañval burzhudus",
+        "Gouzañv un naonegezh seizh vloaz"
+      ],
+      "answer": "O gwareziñ ur c'hañval burzhudus"
+    },
+    "location": {
+      "label": "Petra oa elfenn greiz hon istor?",
+      "options": [
+        "Al Leue Aour",
+        "Ar C'hañvalez",
+        "Bazh ar profed Musa",
+        "Barrad bras Ma'rib",
+        "An Daol astennet eus an Neñv"
+      ],
+      "answer": "Ar C'hañvalez"
+    },
+    "outcome": {
+      "label": "Petra oa hon tonkadur diwezhañ ?",
+      "options": [
+        "Beuzet en ul liñvadenn vras",
+        "Troet e marmouzed ha moc'h",
+        "Beuzet gant un avel fuloret",
+        "Strewet gant tarzhadenn ur stankell",
+        "Distrujet gant ur c'hrenn-douar kreñv"
+      ],
+      "answer": "Distrujet gant ur c'hren-douar kreñv"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

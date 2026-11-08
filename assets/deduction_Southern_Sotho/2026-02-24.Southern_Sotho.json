@@ -1,0 +1,61 @@
+{
+  "title": "Molumo oa Thetso",
+  "intro": "Tlamo ea kamano e ile ea lekoa ke lehloeo le feteletseng. Morero oa lekunutu o ile oa lohoa, oa qala letoto la liketsahalo tse neng li tla nka lilemo tse ngata 'me li tšele libaka tse telele. Liketso tsa sehlopha sena li ile tsa lebisa karohanong e tebileng le masoabing, empa pale ha ea ka ea fella moo. Ke pale ea thetso, masoabi, le ho senoloa ho hoholo ha morero oa bomolimo. Na u ka senola boitsebiso ba batho bana bao likhetho tsa bona li ileng tsa pheta-phetoa melokong eohle?",
+  "clues": [
+    "Re ne re jeoa ke poulelo ka lebaka la lerato leo re le bontšitsoeng ho e mong oa rona.",
+    "Ka lebaka la mohono oa rona, re ile ra rera 'moho 'me ra lahlela ngoan'abo rona lefifing la seliba.",
+    "Ho pata ketso ea rona, re ile ra fa ntate oa rona seaparo se silafalitsoeng ke mali a bohata.",
+    "Lilemo hamorao, tlala e matla e ile ea re qobella ho ea Egepeta ho ea batla lijo.",
+    "Ha re le moo, re ile ra tla ka pel'a 'musisi ea matla eo, re sa mo tsebeng, e neng e le eena ngoan'abo rōna eo re mo foselitseng.",
+    "Teko ea rona ea ho qetela e ne e le ho tlisa moena oa rona e monyenyane, Binyamin, e leng se ileng sa etsa hore ho senoloe nako ea rona e fetileng le hore ntate oa rona e ne e le Moprofeta Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re bo-mang?",
+      "options": [
+        "Bara ba Adama (Qabil le Habil)",
+        "Barutuoa ba Moprofeta Isa",
+        "Barab'abo Moprofeta Yusuf",
+        "Batho ba Madyan",
+        "Baloi ba Firawn"
+      ],
+      "answer": "Barab'abo Moprofeta Yusuf"
+    },
+    "trial": {
+      "label": "Phoso ea rona e ka sehloohong e ne e le efe?",
+      "options": [
+        "Ho haha ​​namane ea khauta bakeng sa borapeli",
+        "Ho batla ho bona Allah ka kotloloho",
+        "Ho soma moprofeta ka ho haha ​​areka",
+        "Ho thetsa ntat'a rona le ho lahla moena oa rona",
+        "Ho roba Sabatha ka ho tšoasa litlhapi"
+      ],
+      "answer": "Ho thetsa ntat'a rona le ho lahla moena oa rona"
+    },
+    "location": {
+      "label": "Ke sepheo sefe se neng se le bohlokoa thetsong ea rona?",
+      "options": [
+        "Sete ea matlapa a ngotsoeng",
+        "Hempe e nang le mali a bohata",
+        "Namane ea khauta",
+        "Nonyana e ntle (Hupoe)",
+        "Lere le ileng la fetoha noha"
+      ],
+      "answer": "Hempe e nang le mali a bohata"
+    },
+    "outcome": {
+      "label": "Sephetho sa ho qetela sa pale ea rona e bile sefe?",
+      "options": [
+        "Re ile ra timetsoa ke moroallo o moholo",
+        "Re ile ra fetoloa litšoene",
+        "Re ile ra metsoa ke lefats'e",
+        "Re ile ra tšoareloa 'me ra boela ra kopana le ba lelapa la rona",
+        "Re ile ra khangoa ke metsi leoatleng"
+      ],
+      "answer": "Re ile ra tšoareloa 'me ra boela ra kopana le ba lelapa la rona"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

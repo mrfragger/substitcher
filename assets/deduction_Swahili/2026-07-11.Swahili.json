@@ -1,0 +1,61 @@
+{
+  "title": "Wasafiri wa shamba la kijani kibichi",
+  "intro": "Zamani, watu wawili walitunza ardhi za jirani. Njia zao ziliunganishwa, lakini mioyo yao iliwaongoza kuelekea sehemu tofauti sana. Mmoja alitembea kwenye njia iliyonyooka, huku mwingine akipotea kwenye giza la kukataa. Je, unaweza kufichua siri ya hawa walinzi wawili wa mavuno?",
+  "clues": [
+    "Nilikuwa na mazao mengi, mavuno mengi yaliyovutia macho ya watazamaji.",
+    "Jirani yangu alikuwa na fadhila kubwa zaidi kuliko mimi, lakini nilitamani sehemu yao zaidi kuliko yangu.",
+    "Nilipendekeza tuharibu mazao yao kabisa, ili kuimarisha kila kitu kilicho chini ya udhibiti wangu.",
+    "Nilileta uharibifu kwenye mavuno yangu mwenyewe pia, nikiharibu kila kitu katika njama zangu za kipumbavu.",
+    "Nilisimama hoi huku mazao yangu yakinyauka na utajiri wangu ukawa vumbi katika usiku mmoja.",
+    "Sikuwa na sehemu yoyote katika Akhera, na makazi yangu ya mwisho yakawa shimo la moto unaowaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mtu aliyekataa ufufuo na hukumu",
+        "Mtawala aliyemkandamiza mkulima mwadilifu",
+        "Mmiliki wa ardhi tajiri ambaye hakushukuru",
+        "Mkulima aliyetamani ardhi ya jirani yake",
+        "Mshirika msaliti aliyepanga njama ya uharibifu"
+      ],
+      "answer": "Mkulima aliyetamani ardhi ya jirani yake"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Jaribio la kupokea ufunuo wa kimungu",
+        "Changamoto ya utajiri na uvumilivu",
+        "Jaribu la kuharibu riziki ya mtu mwadilifu",
+        "Amri ya kugawanya urithi kwa haki",
+        "Mapambano dhidi ya ukandamizaji wa dhalimu"
+      ],
+      "answer": "Jaribu la kuharibu riziki ya mtu mwadilifu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bustani za paradiso zenye majani mabichi",
+        "Mashamba mawili ya mazao ya jirani",
+        "Milima iliyoshuhudia uharibifu",
+        "Mahali patakatifu pa Makka",
+        "Kingo za mito za nchi iliyobarikiwa"
+      ],
+      "answer": "Mashamba mawili ya mazao ya jirani"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Paradiso ya milele kama zawadi kwa ajili ya haki",
+        "Uharibifu kamili wa mavuno yote mawili katika maisha haya",
+        "Uhamisho na kutangatanga hadi kifo",
+        "Ustawi wa muda ukifuatiwa na moto wa milele",
+        "Marejesho ya kimiujiza na fadhila maradufu"
+      ],
+      "answer": "Uharibifu kamili wa mavuno yote mawili katika maisha haya"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La veillée des endeuillés",
+  "intro": "Vous allez découvrir une âme éprouvée par la plus profonde des séparations, dont les yeux connaissaient le langage des larmes mais dont le cœur n'a jamais perdu espoir. Dans une histoire de tromperie, de désir ardent et de retrouvailles finales, ce noble serviteur d'Allah est devenu un symbole de patience pour l'éternité. Qui a enduré des années de souffrance cachée, pour finalement retrouver la vue et la joie en un instant ?",
+  "clues": [
+    "Je suis un prophète dont le nom est devenu un symbole de patience face à une grande perte.",
+    "J'ai eu la chance d'avoir beaucoup de fils, mais l'un d'eux m'a été arraché par la jalousie d'autrui.",
+    "Mon amour pour cet être cher disparu était si profond que mes yeux sont devenus blancs de chagrin, et pourtant je ne me suis jamais plainte qu'à Allah.",
+    "J'ai renvoyé mes fils à la recherche de celui que j'avais perdu et de son frère, les exhortant à ne pas perdre espoir.",
+    "Lorsque le porteur de bonnes nouvelles arriva, une chemise fut jetée sur mon visage, et soudain le monde redevint clair.",
+    "Je suis connu sous le nom d'Israël, et de mes douze fils sont issues les douze tribus d'une grande nation."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ya'qub (Jacob)",
+        "Prophète Yusuf (Joseph)",
+        "Le prophète Ishaq (Isaac)",
+        "Le prophète Ibrahim (Abraham)",
+        "Prophète Ayyub (Job)"
+      ],
+      "answer": "Le prophète Ya'qub (Jacob)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Séparation d'avec un fils bien-aimé pendant de nombreuses années",
+        "Être jeté dans un feu ardent",
+        "Avalé par un gros poisson",
+        "Atteint d'une grave maladie de peau",
+        "Être sans enfant jusqu'à un âge avancé"
+      ],
+      "answer": "Séparation d'avec un fils bien-aimé pendant de nombreuses années"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La chemise de Yusuf",
+        "Le personnel de Musa",
+        "L'arche de Noé",
+        "La chamelle de Salih",
+        "L'anneau de Sulayman"
+      ],
+      "answer": "La chemise de Yusuf"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "La vue retrouvée et les retrouvailles avec son fils",
+        "Victoire accordée sur un roi tyran",
+        "Élevés vivants jusqu'aux cieux",
+        "Nommé souverain d'Égypte",
+        "Avoir un fils à un âge avancé comme un miracle"
+      ],
+      "answer": "La vue retrouvée et les retrouvailles avec son fils"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

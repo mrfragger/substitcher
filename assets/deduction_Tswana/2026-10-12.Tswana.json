@@ -1,0 +1,61 @@
+{
+  "title": "Maikano a yo o iseng a tsholwe",
+  "intro": "Mowa o o tlhoafetseng o ne o dira tsholofetso e e boitshepo pele ga go goroga ga ngwana. Kgang ya setshwantsho seno e diragala mo teng ga mabota a lefelo le le boitshepo, koo boineelo bo kopanang le kamogelo ya bomodimo gone. Motlhanka yo wa ga Allah ke mang?",
+  "clues": [
+    "Ke ne ke le wa lelapa le le tlotliwang mo Quran.",
+    "Ke ne ka ikana ka tlhoafalo gore ke tla neela ngwanake yo o iseng a tsholwe mo tirelong ya ga Allah.",
+    "Fa ke belega, ke ne ka gakgamala go fitlhela e le morwadi, le fa ke ne ke solofetse morwa.",
+    "Ke ne ka raya ngwanake leina Maryam, leina le le bontshang boineelo le tirelo.",
+    "Ke ne ka batla tshireletso ya ga Allah ya ngwanake le ditlogolwana tsa gagwe mo go Satane yo o hutsitsweng.",
+    "Ngwanake o ne a amogelwa ke Morena mme a bewa ka fa tlase ga tlhokomelo ya ga Moporofeta Zakariya mo lefelong le le boitshepo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Mosadi wa ga Imran (Mmaagwe Maryam)",
+        "Asiya, mosadi wa ga Faro",
+        "Maryam, mmaagwe Isa",
+        "Mmaagwe Moporofeti Musa",
+        "Kgosigadi ya Sheba"
+      ],
+      "answer": "Mosadi wa ga Imran (Mmaagwe Maryam)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "A ikana gore o tla neela ngwana wa gagwe mo tempeleng",
+        "Go latlhelwa mo molelong",
+        "Go kgabaganya lewatle mo lefatsheng le le omileng",
+        "Go aga araka e kgolo",
+        "Go mediwa ke tlhapi e kgolo"
+      ],
+      "answer": "A ikana gore o tla neela ngwana wa gagwe mo tempeleng"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Lefelo le le boitshepo (mihrab) le ngwana wa gagwe a neng a bewa mo go lone",
+        "Letlole la kgolagano",
+        "Namane ya gauta",
+        "Lore lo lo neng lwa fetoga noga",
+        "Setlhare sa matala se a neng a ikhutsa ka fa tlase ga sone"
+      ],
+      "answer": "Lefelo le le boitshepo (mihrab) le ngwana wa gagwe a neng a bewa mo go lone"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ngwana wa gagwe o ne a amogelwa mme a bewa ka fa tlase ga tlhokomelo ya ga Moporofeti Zakariya .",
+        "O ne a bolokwa mo kotlhaong ya mogateledi",
+        "O ne a newa morwa yo o bidiwang Yahya .",
+        "Batho ba gagwe ba ne ba senngwa ke setsuatsue",
+        "O ne a nna mohumagadi wa bogosi jo bogolo"
+      ],
+      "answer": "Ngwana wa gagwe o ne a amogelwa mme a bewa ka fa tlase ga tlhokomelo ya ga Moporofeti Zakariya ."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

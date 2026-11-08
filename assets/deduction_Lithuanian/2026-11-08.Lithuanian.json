@@ -1,0 +1,61 @@
+{
+  "title": "aljansas, kuris pakvietė pražūtį",
+  "intro": "Įsivaizduokite, kad esate glaudžiamas po tuo pačiu stogu kaip ir apreiškimas, tačiau pasirinkote kitokią ištikimybę. Ši asmenybė gyveno artimai tiesai ir pranašystei, bet atsigręžė į tuos, kurie ją atmetė. Jų istorija yra kaip iškilmingas įspėjimas, kad vien artumas teisumui negali išgelbėti sielos, kuri išduoda pasitikėjimą.",
+  "clues": [
+    "Gyvenau Alacho išrinkto pranašo namuose.",
+    "Žinojau tiesą, kurią skelbė mano vyras, bet iš tikrųjų ja netikėjau.",
+    "Išdaviau jo pasitikėjimą, palaikydamas jo atstumiančius žmones ir padėdamas jiems prieš jį patį.",
+    "Esu paminėtas kartu su kito pranašo žmona, kuri taip pat išdavė, kaip pavyzdys netikintiesiems.",
+    "Mano istorija papasakota Suroje „At-Tahrim“ kaip įspėjimas, kad giminystė su pranašais neapsaugo.",
+    "Aš žuvau su piktadariais, kai Alachas sunaikino Luto žmones, palikdamas mane su tais, kurie liko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašo Luto žmona",
+        "Asija, faraono žmona",
+        "Imrano žmona",
+        "Sara, pranašo Ibrahimo žmona",
+        "Al-Azizo žmona"
+      ],
+      "answer": "Pranašo Luto žmona"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Išdavė pranašą, padėdamas netikintiesiems prieš jį",
+        "Įmeskite kūdikį į upę krepšyje, kad jį išgelbėtumėte",
+        "Reikalavo pastatyti auksinį veršį pranašo nebuvimo metu",
+        "Apkaltino teisų ministrą nusižengimu ir įkalino jį",
+        "Vadovavo dramblių armijai, kad sunaikintų Kaabą"
+      ],
+      "answer": "Išdavė pranašą, padėdamas netikintiesiems prieš jį"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Apversti Luto žmonių miestai",
+        "Arka, pastatyta pagal Dievo įsakymą",
+        "Ugnis Ibrahimui suteikė vėsos",
+        "Miegančių jaunuolių prieglobsčio ola",
+        "Upė, kurioje buvo rastas kūdikio krepšelis"
+      ],
+      "answer": "Apversti Luto žmonių miestai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Žuvo su netikinčiaisiais, nepaisant santuokos su pranašu",
+        "Buvo išgelbėtas kartu su tikinčiaisiais ir ramybėje įžengė į Rojų",
+        "Buvo paverstas stulpu kaip ženklu vėlesnėms kartoms",
+        "Buvo prarijęs žemės su didžiuliais lobiais",
+        "Senatvėje jam buvo padovanotas stebuklingas vaikas"
+      ],
+      "answer": "Žuvo su netikinčiaisiais, nepaisant santuokos su pranašu"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Halok bo'lgan guvohlar",
+  "intro": "Qadim zamonlarda imperiyalar chorrahasida bir jamoa yashagan. Ularning payg'ambari ularni haqiqat yo'liga chaqirgan, ammo ular kufr va zulmga yopishib olganlar. Bu hikoya ilohiy jazo bilan tugaydi. Quyidagi ishoralardan bu millatni va ularning taqdirini aniqlay olasizmi?",
+  "clues": [
+    "Bir qavm o'z payg'ambarlaridan biri tomonidan kelgan ogohlantirishni rad etdi.",
+    "Payg'ambar bizni yolg'iz Allohga ibodat qilishga chaqirdi va buzg'unchilikdan ogohlantirdi.",
+    "Bizning gunohimiz oramizga solihlik bilan yuborilgan payg'ambarni rad etish edi.",
+    "Biz xabarchining obro'siga shubha qildik va uni yolg'onchilikda aybladik.",
+    "Biz uylarimizda xavfsiz yashayotganimizda, azob bizni qamrab oldi.",
+    "Biz payg'ambarimizni inkor etganimiz va mo'minlarni zulm qilganimiz uchun halok bo'ldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Shu'ayb",
+        "Ibrohim",
+        "Lut",
+        "Nuh",
+        "Muso"
+      ],
+      "answer": "Shu'ayb"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Solihlikka chaqirgan payg'ambarni qabul qilish",
+        "Ochlik bilan sinovdan o'tmoqda",
+        "Tushni talqin qilish",
+        "Tavrotni qabul qilish",
+        "Dengiz bo'ylab sayohat"
+      ],
+      "answer": "Solihlikka chaqirgan payg'ambarni qabul qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Midiyan",
+        "Bobil",
+        "Sodom",
+        "Qizil dengiz",
+        "Kema"
+      ],
+      "answer": "Midiyan"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Odamlar kufr tufayli yo'q qilindi",
+        "Odamlar tavba qilishdi va hidoyat topishdi",
+        "Odamlar Jannatga kirishdi",
+        "Xalq omon qoldi va gullab-yashnadi",
+        "Odamlar yangi yerga ko'chib o'tishdi"
+      ],
+      "answer": "Odamlar kufr tufayli yo'q qilindi"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

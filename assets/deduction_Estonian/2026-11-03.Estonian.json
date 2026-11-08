@@ -1,0 +1,61 @@
+{
+  "title": "Õigete uni",
+  "intro": "Ajal, mil usk oli ohtlik ja vägevad püüdsid usku purustada, tegi väike kamp noori hingi valiku, mis kajas läbi aegade. Põgenedes kõigest, mida nad teadsid, otsisid nad varjupaika mäe varjatud pimeduses ja panid oma täieliku usalduse Allahile. See, mis edasi juhtus, sai ajatuks märgiks neile, kes selle üle järele mõtlevad.",
+  "clues": [
+    "Me olime grupp noori, kes uskusid oma Issandasse ja Ta andis meile palju juhatust.",
+    "Me seisime oma rahva ees ja kuulutasime, et me ei hüüa kunagi appi ühtegi teist jumalat peale Allahi.",
+    "Me otsisime varjupaika koopas, öeldes: „Meie Issand, anna meile endalt halastust ja juhi meid meie ettevõtmistes õigesti.“",
+    "Me magasime hulga aastaid ja päike kaldus meie koopast eemale ega puudutanud meid.",
+    "Meie koer lamas koopa sissepääsu juures pikali ja valvas meid justkui valvel olles.",
+    "Kui meid äratati, mõtlesime, kui kaua me olime viibinud, ja üks meist saadeti hõbemüntidega toitu ostma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Koopa inimesed",
+        "Kaeviku inimesed",
+        "Hingamispäeva inimesed",
+        "Elevandi rahvas",
+        "Metsa kaaslased"
+      ],
+      "answer": "Koopa inimesed"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Põgenesid koopasse, et pääseda oma usu pärast tagakiusamise eest",
+        "Hävitas tugev tuul",
+        "Maa poolt neelatud",
+        "Uppus merre",
+        "Kivivihma poolt tabatud"
+      ],
+      "answer": "Põgenesid koopasse, et pääseda oma usu pärast tagakiusamise eest"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Koer valvab koopa sissepääsu",
+        "Suur laev",
+        "Personal, mis muutus maoks",
+        "Kägulind",
+        "Kuldne vasikas"
+      ],
+      "answer": "Koer valvab koopa sissepääsu"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Nad jäid koopasse 309 aastaks ja tõsteti seejärel märgiks üles",
+        "Nad muudeti ahvideks",
+        "Need hävitas üleujutus",
+        "Nad olid sunnitud merd ületama",
+        "Neile anti kuningriik"
+      ],
+      "answer": "Nad jäid koopasse 309 aastaks ja tõsteti seejärel märgiks üles"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

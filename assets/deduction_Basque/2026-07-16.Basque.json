@@ -1,0 +1,61 @@
+{
+  "title": "Idolo baten erregealdiari erronka bota zion ahotsa",
+  "intro": "Ahalguztidunaren mezularien artean, egia zabaltzeko nazio burugogor baten artean altxatu zen zerbitzari sendo bat zegoen. Haien herriak jainko asmatu bat hartu zuen, existitzen den guztiaren Sortzailearengandik aldenduz. Irmotasunez, pertsona honek itzultzeko deitu zituen, baina mezua ukatuz eta arbuiatuz hartu zuten. Jarraitu pistak zerbitzari deboto hau nor zen jakiteko.",
+  "clues": [
+    "Mezulari gisa bidali ninduten bide zuzenetik urrundu zen herri burugogor batengana.",
+    "Nire nazioari existitzen den guztia sortu zuena gogorarazteko etorri naiz — sortzaile guztien artean onena.",
+    "Nire herria gau eta egun gurtzen eta dei egiten zioten idolo faltsu batera jo zuen.",
+    "Ausardiaz erronka bota nien, galdetuz zergatik gurtzen zuten jainko asmatu bat eta zergatik abandonatzen zuten beren benetako Jauna.",
+    "Ukatu egin zidaten, ez zuten entzun nahi izan eta beren gezurrari eutsi zioten — hala ere, Jaunak gorde ninduen.",
+    "Ni Ilyas naiz — eta bakea eman zitzaidan, eta Errukitsuenaren zerbitzari sinestunen artean zenbatu ninduten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ilyas profeta",
+        "Idris profeta",
+        "Alyasa profeta",
+        "Dhul-Kifl profeta",
+        "Nuh profeta"
+      ],
+      "answer": "Ilyas profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Ba'alen gurtzatik aldentzeko deia egitea herri bati",
+        "Jainko bat zela aldarrikatzen zuen tirano bati aurre egitea",
+        "Jendeari uholde baten aurrean ohartaraziz",
+        "Su handi eta bizian sartuta",
+        "Esklabutza lurraldetik exodoa gidatzen"
+      ],
+      "answer": "Ba'alen gurtzatik aldentzeko deia egitea herri bati"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Baal izeneko idoloa",
+        "Egur sendoz eraikitako arka handi bat",
+        "Itsaso zabal bat zatitu zuen langile batek",
+        "Odolez zikindutako jantzi sakratua",
+        "Sasi erretzen ari den mendi santu batean"
+      ],
+      "answer": "Baal izeneko idoloa"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bakea eman zioten eta Alaren zerbitzari hautatuen artean zenbatu zuten",
+        "Paradisura eraman zuten, beste guztiak suntsitu zituzten bitartean",
+        "Sute handi batetik erreskatatua, fresko eta seguru bihurtu zena",
+        "Jinn, gizateria eta haizearen gaineko nagusitasuna eman zitzaion",
+        "Gorputza mendeetan zehar iraungo duen seinale gisa gordeta"
+      ],
+      "answer": "Bakea eman zioten eta Alaren zerbitzari hautatuen artean zenbatu zuten"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

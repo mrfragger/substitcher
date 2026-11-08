@@ -1,0 +1,61 @@
+{
+  "title": "La Krono Kiu Defiis La Ĉielon",
+  "intro": "En la koridoroj de antikvaj regnoj, la nomo de unu reganto fariĝis sinonimo de tiraneco kaj aroganteco. Kiam humila servisto de Alaho alvenis portante nekontesteblajn signojn, ĉi tiu potenca reganto rifuzis kapitulaci al la vero. Hodiaŭ, via tasko estas identigi ĉi tiun legendan figuron, kies regno disfalis kaj kies sorto estis sigelita sub la ondoj.",
+  "clues": [
+    "Mi estas la plej timata reganto, kies nomo ankoraŭ eĥas kiel averto tra la epokoj.",
+    "Mi ordonis al tuta popolo labori en katenoj, levante monumentojn kiuj proklamis mian gloron.",
+    "Kiam mesaĝisto de Alaho venis antaŭ mi kun nekontesteblaj signoj, mi rifuzis kliniĝi kaj nomis ĝin sorĉado.",
+    "Mi dekretis la mortigon de bebaj filoj inter kaptita popolo, esperante dispremi ilian spiriton antaŭ ol ili povus leviĝi.",
+    "Mi staris antaŭ mia kortego kaj deklaris, \"Mi estas via plej alta sinjoro,\" postulante adoron kiel dio.",
+    "Kun mia ĉefministro apud mi, mi konstruis imponegan strukturon celantan grimpi trans la ĉielon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Faraono (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Ŭalid ibn al-Mughira"
+      ],
+      "answer": "Faraono (Fir'awn)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La dronado en la Ruĝa Maro",
+        "La kamelo sendita al la homoj de Thamud",
+        "La granda diluvo de Nuh",
+        "La puno de la Kunuloj de la Tranĉeo",
+        "La detruo de la armeo de Abraha fare de birdoj"
+      ],
+      "answer": "La dronado en la Ruĝa Maro"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La impona strukturo konstruita kun Haman",
+        "La arkeo kiu velis sur la diluvo",
+        "La ora bovido formita de la Samiri",
+        "La trono de Bilqis, Reĝino de Ŝeba",
+        "La kaverno de la dormantaj junuloj"
+      ],
+      "answer": "La impona strukturo konstruita kun Haman"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Dronis en la maro; korpo konservita kiel averto",
+        "Ekzilita kaj devigita vagi tra la sovaĝejo",
+        "Transformita en homsimiojn kiel puno",
+        "Frapita de perforta tertremo",
+        "Bruligita de pluvo de ŝtonoj el la ĉielo"
+      ],
+      "answer": "Dronis en la maro; korpo konservita kiel averto"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

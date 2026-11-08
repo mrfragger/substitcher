@@ -1,0 +1,61 @@
+{
+  "title": "Say Inmunan Kamarerwa ya Inmalagey",
+  "intro": "Abayag ni antis ya walay mensahero ya nanakar ed dalin, antis ya niparungtal so antokaman a kasulatan, walay pinalsa ya ag mipara ed arum. Sayan kamarerwa et pinorma na madibinon lima, inikdan na pasen ya agnaparaan so karakpan to, tan sinubok ed paraan ya ontan ed amin ya awaran na too. Say tinmumbok et sakey ya istorya na kakapuyan, masimoon a panagbabawi, tan kapalaran a manguman ed kurso na palsa ed andi-anggaan. Nahulaan mo no siopa iya?",
+  "clues": [
+    "Siak so pinorma na lima na Sankamapangasi manlapud mismon dabok na dalin",
+    "Niiter ed siak so bilay ya agnaparaan so karakpan to, ya anggapoy eras odino kapagaan ya makasabi ed siak",
+    "Ingganggan ak ya ag lan balot onasingger ed anggan sakey a kiew, ta sebel itan",
+    "Siak tan say kaibak so apalikdo tan inmasingger ed samay insebel a kiew, sumpad ganggan na Katawan tayo",
+    "Pinmawil itayo ed Katawan tayo tekep na masimoon a panagbabawi, tan naperdona so impakasumlang tayo",
+    "Manlapud sikatayo so nanlapuan na amin a katooan; Siak so sankaunaan ya nanakar ed sayan dalin"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Si Propeta Adan",
+        "Propeta Musa",
+        "Propeta Nuh",
+        "Propeta Yusuf",
+        "Propeta Isa"
+      ],
+      "answer": "Si Propeta Adan"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Tukso na insebel a kiew",
+        "Impronta ed Faraon",
+        "Pangipaalagey na baleg a Biong",
+        "Bagat na inad-aro ya anak",
+        "Say pangibantak ed baleg ya apoy"
+      ],
+      "answer": "Tukso na insebel a kiew"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say Insebel a Kiew",
+        "Say Manpopoolan a Kiew",
+        "Say Balitok a Baston",
+        "Say Baleg a Kaban",
+        "Say Balitok a Baka"
+      ],
+      "answer": "Say Insebel a Kiew"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Nibaki ed dalin bilang sankaunaan ya manag-asikaso na katooan",
+        "Nalner so Faraon tan saray sundalo to ed dayat",
+        "Dineral na baleg a delap iray mauges",
+        "Nagmaliw ya ambetel tan mareen so apoy",
+        "Naikdan na autoridad ed panarian na Ehipto"
+      ],
+      "answer": "Nibaki ed dalin bilang sankaunaan ya manag-asikaso na katooan"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

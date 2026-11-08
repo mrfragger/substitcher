@@ -1,0 +1,61 @@
+{
+  "title": "Ọbara Mbụ A Wụsara n'Anyaụfụ",
+  "intro": "Chee echiche banyere ụbọchị mbụ nke ụmụ mmadụ, mgbe ụwa dum bụ otu ezinụlọ. Ị na-ekiri ka a na-enye onyinye abụọ n'ihu Allah — otu a nabatara, nke ọzọ a jụrụ. Anyaụfụ na-agbanye mkpọrọgwụ n'obi, a na-agwakwa ihe iyi egwu n'iwe. Ihe na-esote ga-ahapụ akara n'akụkọ ihe mere eme ruo mgbe ebighị ebi, ọbụna obere nnụnụ ga-aghọkwa onye nkụzi.",
+  "clues": [
+    "Abụ m onye mbụ n'ezinụlọ dị n'ụwa.",
+    "Enyere m onyinye nye Allah, mana nke m anabataghị ya ebe nke ọzọ anabatara ya.",
+    "Ekwuru m okwu n'anyaụfụ ma yie m egwu igbu mmadụ.",
+    "Egburu m mmadụ mbụ n'ụwa n'ụzọ na-ezighị ezi.",
+    "Ahụrụ m otu ugolo ka ọ na-akọcha ala iji gosi m otu esi ezo ozu.",
+    "M kwara ụta nke ukwuu, m wee so n'ime ndị furu efu maka ihe aka m mere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Qabil (Ken), nwa Adam",
+        "Samiri, onye na-eme nwa ehi ahụ",
+        "Namrud, onye ọchịchị aka ike nke na-arụrịta ụka na Ibrahim",
+        "Azar, onye na-eme arụsị",
+        "Kan'an, nwa Nuh nke mmiri gbawara"
+      ],
+      "answer": "Qabil (Ken), nwa Adam"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Igbu nwanne ya n'ihi anyaụfụ mgbe a jụrụ onyinye ahụ",
+        "Ịrụ ụlọ elu dị elu iji lee eluigwe anya",
+        "Ịkpụ nwa ehi ọlaedo maka ofufe",
+        "Na-achọ ka e kesaa tebụl site n'eluigwe",
+        "Idu ndị agha enyí iji bibie Kaaba"
+      ],
+      "answer": "Igbu nwanne ya n'ihi anyaụfụ mgbe a jụrụ onyinye ahụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ugolo na-akọcha ụwa iji gosi ili ya",
+        "Nwa ehi ọlaedo nke dara ada",
+        "Ụgbọ ukwu dị n'elu mmiri idei mmiri",
+        "Mkpanaka nke ghọrọ agwọ",
+        "Tebụl e tinyere nri sitere n'eluigwe n'elu tebụl"
+      ],
+      "answer": "Ugolo na-akọcha ụwa iji gosi ili ya"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Aghọọla onye na-akwa ụta ma sonye n'ime ndị furu efu",
+        "E riri ya n'oké idei mmiri ahụ",
+        "Ala loro ya na akụ",
+        "E tiri m ekpenta ruo afọ asaa",
+        "E nyere ya alaeze nke nwere ike ịchịkwa ifufe"
+      ],
+      "answer": "Aghọọla onye na-akwa ụta ma sonye n'ime ndị furu efu"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Müqəddəs Evin Səbirli Ruhu",
+  "intro": "Quran səhifələrində qocalıqda hədiyyə olaraq verilən böyük bir peyğəmbərin nəslindən bir obraz ortaya çıxır. Bu ruh sarsılmaz doğruçuluğu və iman mayakı olacaq bir müqəddəs yerin qurulmasında böyük rolu ilə təriflənir. İpuçları oxuyarkən keçmişdən gələn səsə diqqətlə qulaq asın, çünki o, birinci şəxsdən danışır.",
+  "clues": [
+    "Mən Quranda yaşlı bir elçiyə verilən bir hədiyyə olaraq başqa bir peyğəmbərlə yanaşı bəhs olunuram.",
+    "Mən o peyğəmbərin son illərində ona bəxş edilən iki nəsildən biri idim.",
+    "Sözümə sadiq olduğum üçün Quranda təriflənirəm.",
+    "Mən peyğəmbərlik şərəfini daşıdım və elçi kimi göndərildim.",
+    "Mən də atamla birlikdə Müqəddəs Evin təməlini ucaltdım.",
+    "Mən səbirli insanlardan biri kimi xatırlanıram və tikdiyimiz müqəddəs ev insanlar üçün qayıdış və təhlükəsizlik yerinə çevrildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Peyğəmbər İsmayıl",
+        "İshaq peyğəmbər",
+        "Yaqub peyğəmbər",
+        "Zəkəriyyə peyğəmbər",
+        "Yəhya peyğəmbər"
+      ],
+      "answer": "Peyğəmbər İsmayıl"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Kəbənin təməlinin İbrahimlə birlikdə ucaldılması",
+        "Oda atılmaq",
+        "Balina tərəfindən udulmaq",
+        "İsrailliləri Misirdən çıxarmaq",
+        "Gəmi tikmək"
+      ],
+      "answer": "Kəbənin təməlinin İbrahimlə birlikdə ucaldılması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Kəbə",
+        "Sina dağı",
+        "Qırmızı dəniz",
+        "Qızıl buzov",
+        "Eden bağı"
+      ],
+      "answer": "Kəbə"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Xəstələr arasında sayılıb",
+        "Günahkarlar arasında sayıldı",
+        "Sehrbazlar arasında sayılır",
+        "Kafirlər arasında sayıldı",
+        "Münafiqlər arasında sayılıb"
+      ],
+      "answer": "Xəstələr arasında sayılıb"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

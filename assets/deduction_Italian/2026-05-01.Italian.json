@@ -1,0 +1,61 @@
+{
+  "title": "Il Trono della Verità",
+  "intro": "Un potente sovrano, noto per la sua grande saggezza e il suo magnifico trono, riceve un misterioso messaggio da una fonte sconosciuta. Questa inaspettata comunicazione mette in discussione le sue convinzioni e la sua autorità, spingendolo in un viaggio diplomatico che metterà alla prova il suo intelletto e lo condurrà infine a un profondo risveglio spirituale. Riuscirai a scoprire l'identità di questo sovrano e gli eventi che hanno trasformato l'intero suo regno?",
+  "clues": [
+    "Il mio popolo ed io adoravamo il sole, seguendo le tradizioni dei nostri antenati.",
+    "Un uccello, un'upupa, è stato l'improbabile messaggero che mi ha portato una lettera da un potente leader.",
+    "Per mettere alla prova la saggezza del mittente, gli inviai doni preziosi, ma mi furono restituiti, poiché il mittente possedeva ricchezze di gran lunga superiori, provenienti da Allah.",
+    "Prima ancora che giungessi alla corte del mittente, il mio magnifico trono fu miracolosamente trasportato lì in un batter d'occhio.",
+    "Al mio arrivo, mi chiesero se il trono trasportato fosse il mio, e io risposi: \"È come se fosse proprio quello\".",
+    "Entrai in una grande sala con un pavimento che scambiai per una piscina d'acqua e, in quel momento di stupore, mi sottomisi insieme al profeta Sulaiman ad Allah, il Signore dei mondi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La regina di Saba",
+        "Zulaikha (moglie di Al-Aziz)",
+        "Asiya (moglie del faraone)",
+        "La madre di Musa",
+        "Maria (madre di Isa)"
+      ],
+      "answer": "La regina di Saba"
+    },
+    "trial": {
+      "label": "L'evento centrale",
+      "options": [
+        "Ricevere una lettera dal profeta Sulaiman",
+        "Essere gettato nel fuoco",
+        "Costruire un'arca per sopravvivere a un'alluvione",
+        "La separazione del Mar Rosso",
+        "Essere accusati di immodestia"
+      ],
+      "answer": "Ricevere una lettera dal profeta Sulaiman"
+    },
+    "location": {
+      "label": "L'oggetto chiave",
+      "options": [
+        "Un trono magnifico",
+        "Un vitello dorato",
+        "Un cappotto dai molti colori",
+        "Un bastone che si è trasformato in un serpente",
+        "Una nave fatta di assi e chiodi"
+      ],
+      "answer": "Un trono magnifico"
+    },
+    "outcome": {
+      "label": "Il risultato finale",
+      "options": [
+        "Sottomettersi all'unico vero Dio (Allah)",
+        "Essere trasformato in una statua di sale",
+        "Costruire un'alta torre per raggiungere Dio",
+        "Essere inghiottito da un grande pesce",
+        "Perdere immense ricchezze come punizione"
+      ],
+      "answer": "Sottomettersi all'unico vero Dio (Allah)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

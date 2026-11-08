@@ -1,0 +1,61 @@
+{
+  "title": "Taxtga yetib kelgan aks-sado",
+  "intro": "Og'ir yuk ostidagi bir shaxs adolat taxtiga yaqinlashdi, ularning ovozi qo'rquvdan emas, balki umiddan titrardi. Masala shaxsiy edi, ammo uning yechimi vaqt o'tishi bilan aks-sado berib, zolim an'anani barbod qildi. Shikoyati yulduzlardan narida eshitilgan bu jon kim edi?",
+  "clues": [
+    "Men og'ir yurak bilan, tilimni bog'lab qo'ygan masalada adolat izlab keldim.",
+    "Mening iltijoim shunchaki xabarchiga emas edi; u hamma narsani eshituvchi Zotga ko'tarildi.",
+    "Menga qarshi aytilgan so'zlar qadimgi o'tmish zanjirlariga o'xshardi.",
+    "Men o'z qadr-qimmatim uchun ko'z yoshlarim va mantiq bilan bahslashdim va mulohaza qildim.",
+    "Eski odatlarni jim qilib, og'riqlarimni tan olgan holda, vahiy keldi.",
+    "Ular meni erim haqida bahslashgan odam deb atashadi va mening ismim meni ozod qilgan bob bilan sinonimga aylandi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Imronning xotini (Maryamning onasi)",
+        "Eri haqida bahslashgan ayol (Xavla binti Sa'laba)",
+        "Sheba malikasi (Bilqis)",
+        "Musoning onasi",
+        "Fir'avnning xotini (Osiyo)"
+      ],
+      "answer": "Eri haqida bahslashgan ayol (Xavla binti Sa'laba)"
+    },
+    "trial": {
+      "label": "Sud jarayoni yoki voqea",
+      "options": [
+        "U yolg'onchi fohishalikda ayblandi",
+        "U bepusht edi va farzand ko'rishni orzu qilardi",
+        "U ajrashishning zolim odatiga duch keldi",
+        "U payg'ambar bilan muzokara olib borayotgan malika edi",
+        "U bolasini zolimdan yashirdi"
+      ],
+      "answer": "U ajrashishning zolim odatiga duch keldi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Ajoyib taxt",
+        "Zihar amaliyoti",
+        "Daryodagi savat",
+        "Bag'ishlanishning muqaddas qasamyodi"
+      ],
+      "answer": "Zihar amaliyoti"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "U qarilik chog'ida farzand ko'rish baxtiga muyassar bo'ldi",
+        "U cho'kib ketishdan qutqarildi",
+        "U odatni bekor qiluvchi ilohiy vahiy oldi",
+        "U sinovdan so'ng malika bo'ldi",
+        "Unga payg'ambar bo'lgan o'g'il berildi"
+      ],
+      "answer": "U odatni bekor qiluvchi ilohiy vahiy oldi"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

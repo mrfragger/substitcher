@@ -1,0 +1,61 @@
+{
+  "title": "Il-Konspiratur Moħbi",
+  "intro": "Issib ruħek fil-preżenza ta’ figura qawwija minn żmien ir-rivelazzjoni. Dan l-individwu kien magħruf għall-intellett, il-ġid u l-istatus tiegħu fost in-nies tiegħu. Meta ġew is-sinjali ċari, huma rrikonoxxew is-sbuħija iżda għażlu r-risposta minflok is-sottomissjoni. X’wassal lil din ir-ruħ biex tikkomplottja fid-dlam, u x’kien id-destin aħħari tagħha?",
+  "clues": [
+    "Ġejt imbierek b'riżorsi u influwenza abbundanti, u b'hekk għamilt kelmti tqila fl-assemblej.",
+    "Meta l-kliem tad-divin ġew riċitati, ma stajtx niċħad l-elokwenza tagħhom, iżda l-kburija tiegħi ma ħallinix nissottometti ruħi.",
+    "Ġbart il-konsulenti tiegħi, iżolajt lili nnifsi biex naħseb dwar mod kif niskredita l-messaġġ.",
+    "Wara ħafna ħsieb, iddikjarajt li mhi xejn ħlief 'maġija mgħoddija mill-passat' biex in-nies jitbiegħdu.",
+    "Ir-rivelazzjoni mbagħad indirizzatni direttament: 'Ħallini waħdi b'dak li ħloqt.' Ġejt magħżul għall-konfoffa tiegħi.",
+    "Dalwaqt, l-istess nar li ġejt mwissija dwaru se jaqbadni minn xagħri, u ma jkolli l-ebda ħarba minn fuqi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Konspiraw biex joqtlu lill-Profeta",
+        "Mexxa bojkott kontra l-Musulmani",
+        "Ġabar kunsill biex jikklassifika l-Koran bħala maġija",
+        "Ippjanaw biex ikeċċu lill-Profeta minn Mekka",
+        "Irrifjuta li jaqsam il-ġid tiegħu mal-orfni"
+      ],
+      "answer": "Ġabar kunsill biex jikklassifika l-Koran bħala maġija"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Apokalissi",
+        "Il-Kunsill",
+        "Il-Forelock",
+        "Il-Ġid",
+        "Il-Pinna"
+      ],
+      "answer": "Il-Quċċata ta' Quddiem"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Huwa nidem u ħaddan l-Islam",
+        "Huwa emigra lejn l-Abissinja",
+        "Huwa ntlaqat minn marda fatali",
+        "Huwa miet fil-battalja kontra l-Musulmani",
+        "Huwa kien ikkundannat għan-Nar tal-Infern"
+      ],
+      "answer": "Huwa kien ikkundannat għan-Nar tal-Infern"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

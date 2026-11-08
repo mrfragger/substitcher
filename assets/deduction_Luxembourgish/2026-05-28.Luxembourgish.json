@@ -1,0 +1,61 @@
+{
+  "title": "Deen onerschütterleche Patient",
+  "intro": "An den Annalen vun der prophetescher Geschicht hunn nëmme wéineg sou e groussen Verloscht a kierperlech Leed mat engem onerschütterleche Glawen erdroen. D'Geschicht vun dëser Figur ass eng zäitlos Lektioun a Gedold a Vertrauen an d'göttlech Wäisheet. Wien ass dës Séil?",
+  "clues": [
+    "Ech gouf vun Allah erausgesicht fir eng Botschaft ze vermëttelen, awer meng gréisst Prüfung koum net duerch Ofleenung, mä duerch perséinlech Katastroph.",
+    "Mäi Räichtum, mäi Véi a meng Kanner goufe mir een nom aneren ewechgeholl.",
+    "Mäi Kierper war mat Wonnen bedeckt, an ech gouf eleng gelooss ausser der Ënnerstëtzung vu mengem Mann.",
+    "Ech hunn zu mengem Här geruff, mäi Leed unerkannt a seng Barmhäerzegkeet gesicht.",
+    "Ech krut d'Uweisung, mat mengem Fouss op de Buedem ze schloen, an eng erfrëschend Quell ass erausgesprëtzt.",
+    "Allah huet meng Gesondheet restauréiert a mir eng nei Famill a souguer méi Räichtum ginn, wéi ech virdru hat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Ayyub",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Isa",
+        "Prophet Nuh"
+      ],
+      "answer": "De Prophet Ayyub"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Verloscht vu Räichtum a Famill",
+        "An e Feier gehäit ginn",
+        "Vun engem Fësch verschléckt ginn",
+        "Vun der Famill getrennt a verkaaft als Sklaverei",
+        "Mat engem gëllene Kalb getest ginn"
+      ],
+      "answer": "Verloscht vu Räichtum a Famill"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng Quell vu Waasser",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "Eng hëlze Ark",
+        "E geschmoltent Kalb",
+        "Eng Palme"
+      ],
+      "answer": "Eng Quell vu Waasser"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Restauratioun vun der Famill a vum Räichtum",
+        "Himmelfahrt",
+        "Kinnek ginn",
+        "Virun engem Wal gerett ginn",
+        "E Jong am Alter kréien"
+      ],
+      "answer": "Restauratioun vun der Famill a vum Räichtum"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

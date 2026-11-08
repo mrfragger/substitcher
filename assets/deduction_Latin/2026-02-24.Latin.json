@@ -1,0 +1,61 @@
+{
+  "title": "Echo Fraudis",
+  "intro": "Vinculum cognationis invidiae impetu tentatum est. Consilium secretum excogitatum est, seriem eventuum in motum incitans quae annos duraret et vasta spatia transiret. Actiones huius coetus ad profundam separationem et dolorem duxerunt, sed fabula ibi non finita est. Fabula est deceptionis, paenitentiae, et ultimae evolutionis consilii divini. Potesne identitatem horum hominum, quorum electiones per generationes resonabant, detegere?",
+  "clues": [
+    "Invidia propter amorem erga unum ex nostris exhibitum consumebamur.",
+    "Invidia nostra indulgentes, una conspiravimus et fratrem nostrum in tenebras putei coniecimus.",
+    "Ut facinus nostrum celaremus, vestem patri nostro, falso sanguine maculatam, obtulimus.",
+    "Annis post, fames gravis nos coegit in Aegyptum iter facere commeatum quaerentes.",
+    "Ibi, ad potentem gubernatorem venimus, qui, nobis insciis, erat ipse frater/soror quem iniuriam laeseramus.",
+    "Experimentum nostrum ultimum fuit fratrem nostrum minimum, Binyamin, adducere, quod ad revelationem praeteriti nostri et patris nostri Propheta Ya'qub esse duxit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sumus nos?",
+      "options": [
+        "Filii Adami (Qabil et Habil)",
+        "Discipuli Prophetae Isae",
+        "Fratres Prophetae Yusuf",
+        "Populus Madyani",
+        "Magi Fir'awni"
+      ],
+      "answer": "Fratres Prophetae Yusuf"
+    },
+    "trial": {
+      "label": "Quod fuit primum nostrum crimen?",
+      "options": [
+        "Vitulum aureum ad cultum aedificans",
+        "Postulantes ut Allah directe videant",
+        "Prophetam irridens quod arcam aedificavit",
+        "Patrem nostrum decipientes et fratrem nostrum deserentes",
+        "Sabbatum violando piscando"
+      ],
+      "answer": "Patrem nostrum decipientes et fratrem nostrum deserentes"
+    },
+    "location": {
+      "label": "Quod objectum centrale erat deceptioni nostrae?",
+      "options": [
+        "Series tabularum inscriptarum",
+        "Tunica falso sanguine maculata",
+        "Vitulus aureus",
+        "Avis pulchra (Upupa)",
+        "Baculus qui in serpentem conversus est"
+      ],
+      "answer": "Tunica falso sanguine maculata"
+    },
+    "outcome": {
+      "label": "Quid fuit ultimus exitus fabulae nostrae?",
+      "options": [
+        "Ingenti diluvio deleti sumus",
+        "In simias conversi sumus",
+        "A terra absorpti sumus",
+        "Venia nobis facta sunt et cum familia nostra iterum coniuncti sumus",
+        "In mari submersi sumus"
+      ],
+      "answer": "Venia nobis facta sunt et cum familia nostra iterum coniuncti sumus"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

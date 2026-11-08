@@ -1,0 +1,61 @@
+{
+  "title": "Neomajni potrpežljivi",
+  "intro": "V analih preroške zgodovine je le malo ljudi prestalo tako globoko izgubo in fizično stisko z neomajno vero. Zgodba te osebnosti je brezčasen nauk o potrpežljivosti in zaupanju v božansko modrost. Kdo je ta duša?",
+  "clues": [
+    "Alah me je izbral, da prinesem sporočilo, toda moja največja preizkušnja ni prišla z zavrnitvijo, temveč z osebno nesrečo.",
+    "Vzeli so mi bogastvo, živino in otroke, enega za drugim.",
+    "Moje telo je bilo prekrito z ranami in ostal sem sam, razen podpore mojega zakonca.",
+    "Klical sem k svojemu Gospodu, priznaval svoje trpljenje in iskal Njegovo usmiljenje.",
+    "Naročili so mi, naj z nogo udarim ob tla, in iz njih je privrela osvežilna voda.",
+    "Alah mi je povrnil zdravje in mi dal novo družino ter še več bogastva, kot sem ga imel prej."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Ajjub",
+        "Prerok Ibrahim",
+        "Prerok Musa",
+        "Prerok Isa",
+        "Prerok Nuh"
+      ],
+      "answer": "Prerok Ajjub"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Izguba bogastva in družine",
+        "Biti vržen v ogenj",
+        "Biti pogoltnjen s strani ribe",
+        "Ločitev od družine in prodaja v suženjstvo",
+        "Preizkušnja z zlatim teletom"
+      ],
+      "answer": "Izguba bogastva in družine"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Izvir vode",
+        "Palica, ki se je spremenila v kačo",
+        "Lesena skrinja",
+        "Staljeno tele",
+        "Palma"
+      ],
+      "answer": "Izvir vode"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Obnova družine in bogastva",
+        "Vzpon v nebesa",
+        "Postati kralj",
+        "Reševanje pred kitom",
+        "Sprejemanje sina v starosti"
+      ],
+      "answer": "Obnova družine in bogastva"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Liepsna arogancijos rūmuose",
+  "intro": "Už didingų, galingiausių senovės pasaulio rūmų sienų gyveno asmenybė, kurios širdyje slypėjo paslaptis, kurios negalėjo nutildyti joks karališkasis dekretas. Nors visi aplink lenkėsi netikriems dievams, ši siela viduje tyliai degė tikėjimu. Tos šalies valdovas laikė save dievišku, tačiau šis individas pasirinko tiesą, o ne komfortą, ir atsidavimą, o ne saugumą. Šiandien jūsų užduotis – atrasti, kas buvo ši drąsi siela, kurios istorija išlieka vienu galingiausių nepajudinamo tikėjimo pavyzdžių.",
+  "clues": [
+    "Gyvenau neapsakomo turto ir neprilygstamo didingumo vietoje, kur krašto valdovas turėjo absoliučią valdžią visiems.",
+    "Kol aplinkiniai lenkėsi netikriems dievams, aš savo širdyje saugojau tylią tikėjimo šviesą.",
+    "Atradau ir įsivaikinau vaiką, kuris pas mane atkeliavo neįprastu būdu – ne įgimtas, o per didelės upės vandenis.",
+    "Meldžiausi savo Viešpačiui, prašydamas namų šalia Jo Rojuje ir išgelbėjimo nuo mane supančios tironijos.",
+    "Vaikas, kurį užauginau, užaugo tam, kad mestų iššūkį pačiam valdovui, kuris kontroliavo mano likimą, ir aš tvirtai laikiausi savo tikėjimo net ir tada, kai man buvo grasinama.",
+    "Aš esu tas, kurio vardas Korane pagerbtas kaip tikėjimo pavyzdys, ir aš gyvenau paties faraono rūmuose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Asija, faraono žmona",
+        "Maryam, Isos motina",
+        "Bilqis, Šebos karalienė",
+        "Pranašo Luto žmona",
+        "Imrano žmona."
+      ],
+      "answer": "Asija, faraono žmona"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Atrasti ir užauginti paliktą kūdikį, kuris tapo didžiu pranašu",
+        "Įmestas į didelę ugnį tirono",
+        "Liudininkai didelio potvynio, kuris sunaikino žmones",
+        "Datulių palmių kratymo ir maitinimo liudininkas",
+        "Sūnaus susilaukimas nepaisant garbaus amžiaus"
+      ],
+      "answer": "Atrasti ir užauginti paliktą kūdikį, kuris tapo didžiu pranašu"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Neprilygstamo spindesio karališkieji rūmai",
+        "Puikus laivas, pastatytas atlaikyti potvynį",
+        "Kalnuose pasislėpęs gilus urvas",
+        "Liepsnojanti ugnis, sukurta ant kalno viršūnės",
+        "Sodas, aptvertas sienomis"
+      ],
+      "answer": "Neprilygstamo spindesio karališkieji rūmai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Alacho valia Rojuje buvo suteikti namai",
+        "Didelis potvynis sunaikino senovės tautos netikinčius",
+        "Šiame pasaulyje buvo suteikta didžiulės galios ir valdžios karalystė",
+        "Galingą armiją išsklaidė skrendantys paukščiai",
+        "Tironas, kuris skelbė esąs dievas, buvo nuskendęs jūroje"
+      ],
+      "answer": "Alacho valia Rojuje buvo suteikti namai"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

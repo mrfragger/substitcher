@@ -1,0 +1,61 @@
+{
+  "title": "Yeraltı Xəbərdarlıq",
+  "intro": "Təsəvvür edin ki, dərin bir qazıntının yanında dayanıb aşağıdan səslər yüksəlir və yuxarıdakı dünya susur. Quran bu səhnəni xəbərdarlıq kimi saxlayır: bir camaat elçilərin gətirdiklərini rədd edir, cəza yaxınlaşır və hətta onun gurultusu da şəhadətin bir hissəsinə çevrilir. Hansı kollektiv bu ayələrdən danışır?",
+  "clues": [
+    "Quranda biz fərdi adla deyil, ortaq bir tale ilə müəyyən edilmiş bir kollektiv kimi xatırlanırıq.",
+    "Elçilərin dedikləri doğru olsa da, onların gətirdiyi xəbəri rədd etdik.",
+    "Yadda qalan kimliyimiz yer üzündəki dərin bir kəsiklə bağlıdır və bu xüsusiyyət adımızın bir hissəsinə çevrilib.",
+    "Təyin olunmuş gündə bizi çıxarıb oda tərəf sürüdülər.",
+    "Nə özümüzü cəzadan qoruya bilirdik, nə də onun nəriltisini eşidirdik.",
+    "Üzümüz oda çevrilər və biz də oda atılardıq; soruşulduqda, cavab verə bilməyənlərdən biri olduğumuzu deyərdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Xəndək Əshabı",
+        "Böyük Daşqından Xilas Olunan Millət",
+        "Qızıl buzova ibadət edənlər",
+        "Qrup Dağ Mağarasının İçərisində Sığındı",
+        "Odlu Sobadan Xilas Olunan İcma"
+      ],
+      "answer": "Xəndək Əshabı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Sürüklənib atəşə atıldı",
+        "Odlu sobadan xilas oldu",
+        "Böyük bir daşqından təhlükəsiz şəkildə keçdi",
+        "Əsrlər boyu mağaranın içərisində sığınacaq tapılıb",
+        "Quyuya atıldıqdan sonra xilas edildi"
+      ],
+      "answer": "Sürüklənib atəşə atıldı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Xəndək və ya çuxur",
+        "Böyük bir dəniz",
+        "Dağ mağarası",
+        "Hündür bir saray",
+        "Səhra quyusu"
+      ],
+      "answer": "Xəndək və ya çuxur"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Özlərini müdafiə edə bilməmək və Atəşin gurultusunu eşitməmək",
+        "Xilas edildi və əbədi bağlara daxil oldu",
+        "Dağıdıcı daşqından təhlükəsiz şəkildə xilas edildi",
+        "Mağaranın içərisində uzun bir yuxu ilə qorunur",
+        "Əbədi padşahlıqla şərəfləndirildi"
+      ],
+      "answer": "Özlərini müdafiə edə bilməmək və Atəşin gurultusunu eşitməmək"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

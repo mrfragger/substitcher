@@ -1,0 +1,61 @@
+{
+  "title": "Negatio inter Abundantiam",
+  "intro": "In populo te invenis cuius fora mercatu fremunt, attamen staterae eorum fraudulenter inclinantur. Nuntius ad eos venit cum perspicuis monitis, sed rident et se avertunt, fiducia prosperitatis suae. Caelum obscurari incipit, sed id tamquam pluviae benedictionem vident. Quinam sunt hi homines?",
+  "clues": [
+    "In terris commercii et abundantiae floruimus, attamen corda nostra duriora facta sunt.",
+    "Nuntius ad nos venit cum signis a Domino nostro, sed monita eius derisimus.",
+    "Arte nostra noti eramus, sed mensuram brevem praebebamus et populum decipiebamus.",
+    "Inter densas arbores et herbam luxuriosam habitavimus, sed beneficia nostra pro nihilo habebamus.",
+    "Cum nubes obscura appropinquaret, gavisi sumus, putantes eam pluviam terris nostris aridis allaturam esse.",
+    "Sed nubes illa urem poenam emisit, et tormento diei umbrae correpti sumus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Ashab al-Aykah (Socii Silvae)",
+        "Populus Thamudensis",
+        "Populus 'Ad",
+        "Populus Lut",
+        "Populus Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Socii Silvae)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Nuntium suum repudiaverunt et in commercio deceperunt",
+        "Vitulum aureum adoraverunt et seducti sunt",
+        "Sodomiam exercuerunt et viatores aggressi sunt",
+        "Turres altas aedificaverunt et Deum provocaverunt",
+        "Aquam communicare recusaverunt et camelam laeserunt."
+      ],
+      "answer": "Nuntium suum repudiaverunt et in commercio deceperunt"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Densa silva vel fruticetum",
+        "Mons in habitacula sculptus",
+        "Urbs iuxta mare",
+        "Vallis deserta cum puteis",
+        "Hortus fertilis multis fructibus praeditus"
+      ],
+      "answer": "Densa silva vel fruticetum"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Umbra ignis nube deleta",
+        "Magno diluvio submersus",
+        "Absorptus terrae motu",
+        "Vento vehementi percussus",
+        "In lapidem conversus"
+      ],
+      "answer": "Umbra ignis nube deleta"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

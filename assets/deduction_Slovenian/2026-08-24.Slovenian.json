@@ -1,0 +1,61 @@
+{
+  "title": "Skriti poslušalci, ki so verjeli",
+  "intro": "V tišini svetega zborovanja je iz nevidnega kraljestva prispela izjemna skupščina. Privlečeni s šepetom nečesa čudovitega so poslušali recitacijo, ki je za vedno zapečatila njihovo usodo. Njihovo pričevanje ostaja eno najbolj edinstvenih v božanskih spisih.",
+  "clues": [
+    "Smo bitja iz področja, ki ga večina ne vidi, in prišli smo kot skupina.",
+    "Odpravili smo se proti zboru, da bi slišali nekaj izjemnega.",
+    "Ko smo prispeli, smo poslušali recitacijo, ki nas je navdušila.",
+    "Odkrito smo priznali, da so nekateri med nami pravični, drugi pa ne.",
+    "Vedeli smo, da se božjemu odloku ne moremo izogniti na zemlji niti z begom v nebo.",
+    "Ko smo slišali navodilo, smo vanj verjeli; kdor veruje v svojega Gospodarja, se ne bo bal ne izgube ne bremena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Skupina džinov",
+        "Ljudje iz Irama",
+        "Ljudje iz Tubbe",
+        "Rimsko cesarstvo",
+        "Pleme Kurejši"
+      ],
+      "answer": "Skupina džinov"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Poslušanje svete recitacije",
+        "Gradnja vzvišenih stebrov v našem mestu",
+        "Lov na veličastno kamelo",
+        "Uničenje zaradi ubijanja naših prerokov",
+        "Neizmerno množenje bogastva"
+      ],
+      "answer": "Poslušanje svete recitacije"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zbiranje svetega recitiranja",
+        "Mesto visokih stebrov (Iram)",
+        "Vodnjak v puščavi",
+        "Velika palača iz zlata",
+        "Sveta jama v gorah"
+      ],
+      "answer": "Zbiranje svetega recitiranja"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Verjeli smo in opozarjali naše ljudi",
+        "Uničeno zaradi močnega udara z neba",
+        "Kaznovan z žgočim, uničujočim vetrom",
+        "Podeljeno ogromno bogastvo in moč",
+        "Ostal neomajno v neverici"
+      ],
+      "answer": "Verjeli smo in opozarjali naše ljudi"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

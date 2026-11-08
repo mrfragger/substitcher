@@ -1,0 +1,61 @@
+{
+  "title": "Milli jarðar og himins",
+  "intro": "Dularfull sál bíður þín á helgum síðum guðlegrar sögu, berandi tákn og undur sem enn óma í gegnum aldirnar. Þegar þú fylgir vísbendingunum ferðast þú í gegnum sögu sem einkennist af kraftaverkum - frá undursamlegri upphafi til uppstigningar út fyrir himininn. Geturðu borið kennsl á þennan blessaða þjón áður en síðasta vísbendingin kemur?",
+  "clues": [
+    "Ég var sendur sem sendiboði til Ísraelsmanna með boðskap um miskunn og ljós.",
+    "Fæðing mín var kraftaverk — ég kom í þennan heim án föður, að skipun hins almáttuga.",
+    "Ég talaði meðan ég var enn ungbarn og varði heiður móður minnar gegn ásökunum fólks hennar.",
+    "Með leyfi Allah mótaði ég fugla úr leir og blés lífi í þá — þeir flugu burt fyrir augum þeirra sem horfðu á.",
+    "Ég læknaði þá sem fæddust blindir, læknaði holdsveika og reisti jafnvel upp dauða — en öll kraftaverkin voru með leyfi Allah, ekki mín eigin.",
+    "Þegar óvinir mínir lögðu á ráðin um að tortíma mér, lyfti Allah mér upp til himins og lofaði að ég kæmi aftur fyrir dómsdag."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Ísa (Jesús)",
+        "Spámaðurinn Músa (Móse)",
+        "Spámaðurinn Íbrahim (Abraham)",
+        "Spámaðurinn Múhameð",
+        "Spámaðurinn Jósef (Jósef)"
+      ],
+      "answer": "Spámaðurinn Ísa (Jesús)"
+    },
+    "trial": {
+      "label": "Afgerandi augnablik",
+      "options": [
+        "Ég var alinn upp til himins",
+        "Ég var kastað í logandi eld",
+        "Ég stóð frammi fyrir voldugum her Faraós",
+        "Ég var gleypt af stórum hval",
+        "Ég byggði örk á fjallinu"
+      ],
+      "answer": "Ég var alinn upp til himins"
+    },
+    "location": {
+      "label": "Heilagt tákn framkvæmt",
+      "options": [
+        "Ég mótaði fugla úr leir",
+        "Ég breytti staf í höggorm",
+        "Ég klofnaði tunglið í tvennt",
+        "Ég skipaði vindinum og djinnunum",
+        "Ég leiddi úlfalda úr kletti"
+      ],
+      "answer": "Ég mótaði fugla úr leir"
+    },
+    "outcome": {
+      "label": "Hvað varð úr mér",
+      "options": [
+        "Upprisinn til himins; lofaði að snúa aftur",
+        "Varð mikill stjórnandi yfir heimsveldi",
+        "Leiði fólk mitt úr haldi",
+        "Fékk óviðjafnanlega jarðneska auði",
+        "Sameinuð fjölskyldu minni eftir langan aðskilnað"
+      ],
+      "answer": "Upprisinn til himins; lofaði að snúa aftur"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Isexwayiso Esincane Ngaphambi Komuntu Ohamba Ngomkhumbi",
+  "intro": "Ngena esigodini lapho umbusi onamandla kanye nebutho elikhulu lisondela khona, bese ucabanga ngomhambi omncane enikeza isixwayiso esisindisa umphakathi wonke. Njengoba umphakathi osongelwayo ufika endaweni yokukhosela, ingozi iyadlula. Landela izinkomba ukuze uthole umuntu onganakwa ngemuva kwaleso sixwayiso.",
+  "clues": [
+    "Ngiphakathi kwezidalwa ezincane ezihlotshaniswa nombuso wombusi.",
+    "Umphakathi wami uhlala ezindlini ngaphakathi kwesigodi, lapho omunye wethu angabiza khona abanye.",
+    "Sibhekene nosongo oluvela kulowo mbusi kanye namabutho ahamba nombusi.",
+    "Ngingulowo obiza umphakathi wami ukuthi ungene emakhaya awo futhi osixwayisa ukuthi singacindezelwa ngokungazi.",
+    "Umbusi nguSulayman, futhi uhlobo lwami luphakathi kwezidalwa ezibekwe ngaphansi komyalo wakhe.",
+    "Ngiyintuthwane yaleso sigodi; ngemva kwesixwayiso sami, sangena emakhaya ethu futhi sasinda ekucindezelweni okwakungasifica singazi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Intuthwane Yesigodi",
+        "I-Hoopoe",
+        "Igwababa",
+        "Inyoka",
+        "I-Mule"
+      ],
+      "answer": "Intuthwane Yesigodi"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Isexwayiso esisindise umphakathi wezintuthwane",
+        "Isicelo sendandatho evela enhlanzini",
+        "Ukusesha isihlalo sobukhosi esilahlekile",
+        "Ukusindiswa kwamehlo abiwe",
+        "Ukwenqaba ukudla ukudla kombusi"
+      ],
+      "answer": "Isexwayiso esisindise umphakathi wezintuthwane"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isigodi Sezintuthwane",
+        "Indandatho Yophawu KaSulayman",
+        "Ihembe LikaYusuf Eligcwele Igazi",
+        "Ithole Legolide LokuFuduka",
+        "Induku kaMusa"
+      ],
+      "answer": "Isigodi Sezintuthwane"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Umphakathi usindiswe ngemuva kokuthola indawo yokukhosela",
+        "Umphakathi wabhujiswa ngaphandle kokuthola indawo yokukhosela",
+        "Umphakathi wasindiswa ngoba ibutho lahoxa",
+        "Umphakathi wavuzwa ngokulawula izinyoni",
+        "Umphakathi wathunjwa wayiswa enkantolo yasebukhosini"
+      ],
+      "answer": "Umphakathi usindiswe ngemuva kokuthola indawo yokukhosela"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

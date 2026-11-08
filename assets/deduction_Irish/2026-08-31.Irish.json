@@ -1,0 +1,61 @@
+{
+  "title": "Guth Ciúin an Ghleanna",
+  "intro": "Téigh siar in am chuig pobal cumhachtach a fuair míorúilt bheo mar thástáil tráth. Chuir uabhar agus ceanndána a gcinniúint ina luí. An féidir leat an scéal a rianú agus a fháil amach cad a tharla ag an bpointe casaidh drámatúil seo?",
+  "clues": [
+    "Cuireadh mé mar thriail dhiaga chuig pobal cumhachtach a raibh cáil orthu as a neart agus a ndúthracht.",
+    "Ba mhíorúilt uathúil mé—ní raibh a leithéid agam le feiceáil riamh ina measc.",
+    "Roinn mé uisce óil ó thobar le mo mhuintir gach malartach lá.",
+    "Tugadh rabhadh dóibh go mbeadh pionós pras mar thoradh ar aon dochar a dhéanfaí dom.",
+    "Níor thug an duine ba dhána díobh aird ar an rabhadh agus chuir siad bac orm.",
+    "Tar éis mo bháis, scrios glao toirneach amháin ó thuas mo mhuintir ar fad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Camall Bainise Salih",
+        "Bó Mhúsa",
+        "Long Nuh",
+        "Foireann Mhúsa",
+        "Ríchathaoir Bilqis"
+      ],
+      "answer": "Camall Bainise Salih"
+    },
+    "trial": {
+      "label": "Mo Chinniúint",
+      "options": [
+        "Cnapán curtha air agus maraíodh é.",
+        "Maraíodh mar íobairt",
+        "Claochlaithe ina nathair",
+        "Caomhnaithe trí thuilte móra",
+        "Tugtha go tapa trasna ríocht"
+      ],
+      "answer": "Cnapán curtha air agus maraíodh é."
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tobar uisce",
+        "Táibléad cloiche",
+        "Tor dóite",
+        "Áirc adhmaid",
+        "Ríchathaoir óir agus airgid"
+      ],
+      "answer": "Tobar uisce"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosta ag scread amháin",
+        "Báite i dtuilte móra",
+        "Dóite ag cith cloch",
+        "Briste ag gaoth fhoréigneach",
+        "Slogtha ag an talamh"
+      ],
+      "answer": "Scriosta ag scread amháin"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

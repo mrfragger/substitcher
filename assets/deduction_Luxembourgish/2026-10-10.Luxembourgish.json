@@ -1,0 +1,61 @@
+{
+  "title": "De gefiederte Scout",
+  "intro": "An engem Kinnekräich, dat vun engem regéiert gouf, deem d'Herrschaft iwwer d'Wand, déi onsiichtbar Wesen an d'Kreaturen vum Himmel zougestane gouf, ass ee klengt a séiert Member aus de Reie verschwonnen - nëmme fir mat Offenbarungen zréckzekommen, déi d'Schicksal vun enger wäiter Natioun nei gestalten. Dësen schaarfsinnegen Informant huet d'Wourecht un d'Liicht bruecht, wou d'Ignoranz sech verankert hat. Wien sinn ech?",
+  "clues": [
+    "Ech hunn un engem Geriicht gedéngt, wou Mënschen, onsichtbar Wiesen a Kreaturen vum Himmel engem eenzege weise Herrscher Rechenschaft ofgeluecht hunn, deen d'Wand selwer kommandéiert huet.",
+    "Ech war eng Zäit laang net op mengem Posten, an dem Herrscher gouf dem Roserei versprach, wann ech kee zefriddestellende Grond géif nennen.",
+    "Ech sinn e klengt Wiesen, dat fléie kann, bekannt fir säi schaarft Siicht, a meng Aart gouf mat direkter Nimmung an de Säite vun der Offenbarung geéiert.",
+    "Wéi ech zréckkoum, hunn ech d'Noriicht vun engem wäitem Land bruecht, wou d'Leit sech virun der Sonn gebéit hunn, blann fir Deen, deen Himmel an Äerd erschaf huet.",
+    "Ech hunn eng Fra fonnt, déi iwwer e grousst Kinnekräich regéiert, op engem prächtegen Troun sëtzt, ouni d'Wourecht virdru kannt ze hunn.",
+    "Ech sinn deen, deen d'Räich vu Saba entdeckt huet an e Bréif mat der Invitatioun vun engem Prophet-Kinnek mat sech bruecht huet, deem d'Herrschaft iwwer de Wand ginn ass."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Den Hoopoe (Hudhud)",
+        "D'Ameis aus dem Sulaiman sengem Dall",
+        "Asif ibn Barkhiya",
+        "Ifrit den Djinn",
+        "En Engel vum Troun"
+      ],
+      "answer": "Den Hoopoe (Hudhud)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Expeditioun an d'Kinnekräich Saba (Sheba)",
+        "D'Konfrontatioun mat de Zauberer vum Pharao",
+        "D'Iwwerschwemmung vum Prophet Nuh",
+        "D'Zerstéierung vum Vollek vun 'Ad",
+        "D'Spaltung vum Roude Mier"
+      ],
+      "answer": "D'Expeditioun an d'Kinnekräich Saba (Sheba)"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Land vu Saba (Scheba)",
+        "Bierg Sinai",
+        "D'Ark vum Prophet Noh",
+        "D'Höhl vum Ashab al-Kahf",
+        "De Palais vum Pharao"
+      ],
+      "answer": "D'Land vu Saba (Scheba)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De Bilqis huet sech dem Sulaiman sengem Geriicht ënnerworf",
+        "Pharao a seng Arméi sinn am Mier erdronk",
+        "D'Leit vun 'Ad goufen duerch e gewaltege Wand zerstéiert",
+        "D'Zauberer vum Pharao hunn un de Prophet Musa gegleeft",
+        "Eng grouss Iwwerschwemmung huet déi Ongleeweg vertrueden"
+      ],
+      "answer": "De Bilqis huet sech dem Sulaiman sengem Geriicht ënnerworf"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

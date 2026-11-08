@@ -1,0 +1,61 @@
+{
+  "title": "Byen som trodde på tiden",
+  "intro": "I den guddommelige barmhjertighetens annaler finnes det et samfunn hvis vendepunkt var et øyeblikk med kollektiv erkjennelse. Du er i ferd med å avdekke historien deres – en fortelling om advarsel, anger og en utsettelse som skilte dem ut fra andre nasjoners skjebne.",
+  "clues": [
+    "Vi var et folk som fikk et budbringer, og vi vendte oss bort fra hans kall i begynnelsen.",
+    "Da tegnene på forestående straff ble tydelige, innså vi sannheten i advarselen hans.",
+    "Vi vendte oss til vår Herre med oppriktig anger, og vår tro ble godtatt.",
+    "Straffen som var blitt idømt oss, ble opphevet på grunn av vår tro.",
+    "Vår historie blir sitert som et unntak blant byene som trodde etter å ha sett straffen.",
+    "Vi var profetens folk, han som ble slukt av hvalen, men vi ble reddet fra ødeleggelse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i Yunus",
+        "Folket i Nuh",
+        "Folket i Hud",
+        "Folket i Salih",
+        "Folket i Lut"
+      ],
+      "answer": "Folket i Yunus"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "En ødeleggende flom",
+        "En kraftig vindstorm",
+        "En forestående skamfull straff som ble unngått",
+        "Jorden sluker dem",
+        "Et regn av steiner"
+      ],
+      "answer": "En forestående skamfull straff som ble unngått"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Arken",
+        "Hunkamelen",
+        "En by med hundre tusen",
+        "Musas ansatte",
+        "Qaruns skatt"
+      ],
+      "answer": "En by med hundre tusen"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "De ble fullstendig ødelagt",
+        "De fikk gleden av det en stund",
+        "De ble forvandlet til aper",
+        "De druknet",
+        "De ble slukt av jorden"
+      ],
+      "answer": "De fikk gleden av det en stund"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

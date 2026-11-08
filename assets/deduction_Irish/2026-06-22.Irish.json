@@ -1,0 +1,61 @@
+{
+  "title": "An Creidmheach Folaithe",
+  "intro": "I hallaí sómasacha na cumhachta, áit a raibh easpa creidimh agus tíorántacht i réim, labhair guth uaigneach na fírinne ó áit gan choinne. Chuir an figiúr seo dúshlán an údaráis teachtaire a chosaint, ag cur a slándála féin i mbaol chun an fhírinne a fhógairt.",
+  "clues": [
+    "Bhí cónaí orm i dtír a raibh tíorántacht mhór ann, ag freastal ar rialóir a mhaígh go raibh sé diagach.",
+    "Choinnigh mé mo fhíorchreidimh i bhfolach ar feadh blianta fada, agus eagla orm roimh iarmhairtí a nochta.",
+    "Nuair a tháinig teachtaire le comharthaí soiléire, chreid mé, ach rinne mo mhuintir comhcheilg ina choinne.",
+    "Sheas mé os comhair an tíoránaigh agus a chomhairle, ag argóint nár cheart dóibh teachtaire neamhchiontach a mharú.",
+    "Thug mé rabhadh dóibh faoi phionós na náisiún san am atá thart a dhiúltaigh don fhírinne, cosúil le muintir Naoi agus Ad.",
+    "Shábháil Allah mé óna gcomhcheilg olc, agus chonaic mé scrios an réimis leatromaigh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Creidmheach de theaghlach Pharao",
+        "Draíodóir an Fharó",
+        "Vizier an Fharó",
+        "Bean chéile an Fharó",
+        "Cisteoir an Fharó"
+      ],
+      "answer": "Creidmheach de theaghlach Pharao"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Fáidh a chosaint ar fhorghníomhú",
+        "Ag tabhairt dúshlán cleasanna draoi",
+        "Ag tógáil túir chun an spéir a bhaint amach",
+        "Ag scoilteadh na farraige le haghaidh éalaithe",
+        "Ag léirmhíniú aisling rí"
+      ],
+      "answer": "Fáidh a chosaint ar fhorghníomhú"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cúirt an Fharó",
+        "An tor dóite",
+        "An lao órga",
+        "Tobar Madyan",
+        "Áirc an Fháidh Nuh"
+      ],
+      "answer": "Cúirt an Fharó"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Sábháilte ó dhochar agus na fir chosanta á scriosadh",
+        "Tháinig sé chun bheith ina rialóir cumhachtach",
+        "Caitheadh ​​isteach sa tine é agus tháinig sé amach gan dochar",
+        "Slogadh ag an talamh é",
+        "Ag fánaíocht sa bhfásach ar feadh daichead bliain"
+      ],
+      "answer": "Sábháilte ó dhochar agus na fir chosanta á scriosadh"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

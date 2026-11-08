@@ -1,0 +1,61 @@
+{
+  "title": "Komii Sagalee Irra Dhagahame",
+  "intro": "Hawaasa cunqursaan barmaatilee ta'e keessaa sagalee ka'u dhageessa. Agarsiisni aangoo kamiyyuu komii kanaaf deebii hin kennu; kanaa mannaa, iyyanni kallattiin Rabbiin bira ga’a, deebiin isaas qalbii ibaadaa mataa isaa rukuta. Eenyuutu komii sana dhiheesse, gaaffiin maaltu itti aanee, dhugaan maaltu mirkanaaʼe?",
+  "clues": [
+    "Cunqursaa namoota naannoo koo jiraniin na dhiphise.",
+    "Komii sana komii dhuunfaa tokkoon kallattiin Rabbiif sagalee dhageessise.",
+    "Rabbiin komii dhagahee waa’ee amantaa mataa kootii qormaataan deebise.",
+    "Deebiin akkamittan Rabbii Tokkicha fi Ol’aanaa ta’etti amanuu dadhabe jedhee gaafate.",
+    "Sana booda Rabbiin maaliif ummata kaafiraa jiru tola qaba jedheen gaafadhe.",
+    "Ani Uzair, suuraa Az-Zukhruf keessatti kan moggaafame akka nama komii isaa Rabbiin dhagahe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Uzaayir",
+        "Hiriyaan lolaa guddaa sana irratti doonii oofe",
+        "Garbicha bishaan irra deeme",
+        "Namni rafu holqa tokko keessaa eege",
+        "Garbicha dhagaa gara lagatti fide"
+      ],
+      "answer": "Uzaayir"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Cunqursaa ummata irra gahaa jiru Rabbitti iyyachuu",
+        "Yeroo obomboleettii bishaan irra deemuu",
+        "Laga bishaan hin qabnetti dhagaa baatanii deemuu",
+        "Lola guddaa keessa doonii irra taa'anii Taabota irra deemuu",
+        "Furtuu qabeenya guddaa argachuu"
+      ],
+      "answer": "Cunqursaa ummata irra gahaa jiru Rabbitti iyyachuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Komii kallattiin Rabbiif dhiyaate",
+        "Ulee bofa ta'e",
+        "Ibiddi ibiddaa qabbanaaʼaa fi nagaa akka taʼu godhe",
+        "Doonii bishaan lolaa irra yaa'u",
+        "Qurxummii hojjetaa liqimsu"
+      ],
+      "answer": "Komii kallattiin Rabbiif dhiyaate"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Rabbiin komii kana dhaga’ee Tokkummaa Waaqaa fi Gooftummaa Ol’aanaa mirkaneesse",
+        "Yeroo obomboleettii bishaan irra nagaadhaan deemuu",
+        "Lola guddaa tokko nagaadhaan Taabota irra taa'anii qaxxaamuruu",
+        "Masaraa of tuulummaa keessaa ija deebifachuu",
+        "Ol’aantummaa Bahaa hanga Dhihaatti diriiru fudhachuu"
+      ],
+      "answer": "Rabbiin komii kana dhaga’ee Tokkummaa Waaqaa fi Gooftummaa Ol’aanaa mirkaneesse"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

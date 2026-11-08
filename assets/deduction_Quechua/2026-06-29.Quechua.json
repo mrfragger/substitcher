@@ -1,0 +1,61 @@
+{
+  "title": "Pacienciayuq Alma",
+  "intro": "Profeta kaypa analesninpiqa karqanmi huk alma, paypa paciencianmi grabasqa karqan kayninkupa kikin telallanpi. Waqaywan, tiempowan ima, suyakuyman hap’ipakurqanku, mana pachaq ejemplon karqanku Diospa yachayninpi confiasqankumanta. ¿Atiwaqchu kay mana kuyuriq siqipa pakasqa kayninta sut’inchayta?",
+  "clues": [
+    "Profetakunaq familianpin nacerqani, chaywanpas aswan hatun pruebayqa karqan aswan munakusqay wawawanmi.",
+    "Wawaypa musqukusqanmantam envidiakuymanta advertenciata chaskirqani, chaymi manchakurqani mana imapas pasananpaq.",
+    "Ñawiykunan llakikuywan yuraqyapurqan, chaywanpas manan hayk’aqpas Allahpa khuyapayakuyninpi iñiyta chinkachirqanichu.",
+    "Chinkasqa wawaypa q’apayninmi karumanta chayamuwarqan, chaypachan yacharqani hukmanta huñunakuy qayllapiña kashasqanmanta.",
+    "Aylluyqa agradecekuspa k’umuykurqanku ñawpaq rikuy hunt’akuqtin, ñawiypas allinyasqa kaqtin.",
+    "Ñuqam kani yawarwan llusisqa camisata quwasqankuman, chaymantañataqmi qawasqayta hampiq camisata chaskirqani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Ibrahim sutiyuq runa",
+        "Profeta Ishaq sutiyuq runa",
+        "Profeta Yaqub",
+        "Profeta Yusuf sutiyuq runa",
+        "Profeta Ayyuub"
+      ],
+      "answer": "Profeta Yaqub"
+    },
+    "trial": {
+      "label": "Chay Juicio Crucial nisqa",
+      "options": [
+        "Munasqa wawamanta t’aqanakuy, manaña rikuy atiy",
+        "Nina rawraq ninaman wikch’usqa kay",
+        "Hatun challwawan millp’usqa kay",
+        "Qhapaq kayta, wawakunata, qhali kayta chinkachiyta aguantaspa",
+        "Wawqenkunaq traicionasqan, pukyuman wikch’usqa kasqan"
+      ],
+      "answer": "Munasqa wawamanta t’aqanakuy, manaña rikuy atiy"
+    },
+    "location": {
+      "label": "El Objeto Simbólico nisqa",
+      "options": [
+        "Huk kamisa, ñawpaqta chiqap kaqta pakaq, chaymantataq chayta rikuchiq",
+        "Mach’aqwayman tukuq k’aspi",
+        "Profeta millp’uq ballena",
+        "Q’uñiman tukuq nina",
+        "Ruphachkaq sachapi huk sandalia"
+      ],
+      "answer": "Huk kamisa, ñawpaqta chiqap kaqta pakaq, chaymantataq chayta rikuchiq"
+    },
+    "outcome": {
+      "label": "Divina Resolución nisqa",
+      "options": [
+        "Chinkasqa kuyasqa runawan hukllawakuy hinaspa qawariy kutichiy",
+        "Sarunchasqa llaqtamanta qespichiy",
+        "Challwapa wiksanmanta kacharichiy",
+        "Nina rawraymanta qespikuy",
+        "Hatun kamachikuy tiyanaman wichariy"
+      ],
+      "answer": "Chinkasqa kuyasqa runawan hukllawakuy hinaspa qawariy kutichiy"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

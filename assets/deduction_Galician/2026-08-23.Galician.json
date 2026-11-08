@@ -1,0 +1,61 @@
+{
+  "title": "A multitude desaparecida",
+  "intro": "Estás ante os ecos dunha comunidade cuxa historia está escrita nas ondas. Estas almas escoitaron unha chamada, escolleron o desafío e enfrontáronse a unha consecuencia que transformou a terra. Quen son e que foi do seu mundo?",
+  "clues": [
+    "Vivimos hai moito tempo, e un mensaxeiro veu a nós de entre nós.",
+    "Adoramos cinco ídolos e negámonos a abandonalos.",
+    "Burlámonos do mensaxeiro e acusámolo de estar desviado.",
+    "Esiximos que lle impuxese o castigo se era sincero.",
+    "Vimos os ceos derramar choiva e a terra brotar mananciais.",
+    "Subimos aos lugares altos para escapar, pero as ondas alcanzáronnos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Xente de Nuh",
+        "Xente de 'Ad",
+        "Xente de Thamud",
+        "Xente de Lut",
+        "Xente de Madyan"
+      ],
+      "answer": "Xente de Nuh"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Afogámonos nunha gran inundación",
+        "Fomos destruídos por un furacán",
+        "Morreronnos por unha forte explosión",
+        "Fomos tragados pola terra",
+        "Fomos acribillados con pedras do ceo"
+      ],
+      "answer": "Afogámonos nunha gran inundación"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha gran inundación",
+        "Un vento violento",
+        "Unha chuvia de pedras",
+        "Unha explosión de lume",
+        "Un terremoto"
+      ],
+      "answer": "Unha gran inundación"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Todos perecemos agás os crentes con Nuh",
+        "Transformámonos en simios",
+        "Deixáronnos como ruínas para os viaxeiros",
+        "Convertímonos en sal",
+        "Déronnos un respiro"
+      ],
+      "answer": "Todos perecemos agás os crentes con Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

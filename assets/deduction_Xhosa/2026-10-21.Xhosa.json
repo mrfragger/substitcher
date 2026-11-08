@@ -1,0 +1,61 @@
+{
+  "title": "Umthunywa Owajongana Nabanquli-zithixo",
+  "intro": "Ngexesha apho ukuzinikela kwakulahlekile, umthunywa waphakama ebiza ukuba abuyele kunqulo lweNkosi yehlabathi. Lo mntu wema eqinile nxamnye nabantu ababenamathele kunqulo lothixo wobuxoki, ebakhumbuza ngoMdali wabo wokwenene neNkosi yooyisemkhulu babo. Sekunjalo abantu abazange banyamekele baza bala isilumkiso, betywina ikamva labo. Ngubani lo mntu ubizayo ongagungqiyo?",
+  "clues": [
+    "Ndathunyelwa kubantu ababephambukile kwindlela kaThixo Omnye Oyinyaniso.",
+    "Ndibabuzile abantu bam, \"Aniyi kumoyika na uAllah?\"",
+    "Ndibabizele ukuba bayeke ukunqula uthixo wobuxoki ogama linguBhahali.",
+    "Abantu bam bala ubizo lwam baza baqhubeka nokunqula izithixo.",
+    "Ngenxa yokungavumi kwabo, ngokuqinisekileyo baya kuziswa ukuze bohlwaywe.",
+    "INkosi yam indinike uxolo nesikhumbuzo esisikelelekileyo phakathi kwezizukulwana ezizayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uIlyas",
+        "Umprofeti uYahya",
+        "Umprofeti uDhul-Kifl",
+        "Umprofeti uYusuf",
+        "Umprofeti uShu'ayb"
+      ],
+      "answer": "Umprofeti uIlyas"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wabiza abantu bakhe ukuba bashiye uBhahali",
+        "Wakha umkhombe wokusindisa amakholwa",
+        "Waphoswa emlilweni",
+        "Wabaleka kuFaro owayenobuzwilakhe",
+        "Wabetha ilitye ukuze kuphume amanzi"
+      ],
+      "answer": "Wabiza abantu bakhe ukuba bashiye uBhahali"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "uBhahali",
+        "I-Al-Lat",
+        "U-Al-Uzza",
+        "I-Manat",
+        "IHubal"
+      ],
+      "answer": "uBhahali"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uxolo olunikiweyo kunye nenkumbulo esikelelekileyo",
+        "Iginywe ngumhlaba",
+        "Itshatyalaliswe sisivuthuvuthu esinamandla",
+        "Yajika yaba lilitye",
+        "Nditshonile elwandle"
+      ],
+      "answer": "Uxolo olunikiweyo kunye nenkumbulo esikelelekileyo"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

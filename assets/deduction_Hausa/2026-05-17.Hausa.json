@@ -1,0 +1,61 @@
+{
+  "title": "Masu Gine-ginen Dutse",
+  "intro": "Ka yi tunanin wata babbar wayewa, mai baiwa da ƙarfi da fasaha, tana sassaka manyan gidaje a gefen tsaunuka. Wannan ƙungiya tana da wadata mai yawa da kuma ƙwarewar gine-gine ta musamman. Duk da haka, duk da samun gargaɗi bayyanannu, sun zaɓi hanyar da za ta kai ga ƙarshe mai ban mamaki da ba za a manta da shi ba. Za ka iya gane wannan ƙungiyar wadda labarinta ya zama darasi mai zurfi ga duk wanda ya yi tunani?",
+  "clues": [
+    "An ba mu ƙarfi da ƙwarewa, wanda hakan ya ba mu damar sassaka gidaje masu kyau kai tsaye a kan tsaunuka.",
+    "An ba mu wata alama bayyananna daga Allah, wata halitta ta musamman da za a bar ta ba tare da wata damuwa ba don kiwo.",
+    "Al'ummarmu ta zama masu girman kai, suna ƙalubalantar saƙon Allah da wani manzo daga cikinmu ya kawo.",
+    "Mun yi makirci don cutar da alamar mu'ujiza, duk da gargadin azaba mai tsanani.",
+    "Mun ƙi bin umarnin da aka bayar na barin wannan halitta ta musamman ta sha daga rijiyarmu a wasu ranaku daban-daban.",
+    "Mun gamu da mummunan ƙarshe, an buge mu da wani irin bugu mai ban tsoro bayan mun aikata laifinmu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Mutanen 'Ad'",
+        "Mutanen Midiyana",
+        "Mutanen Giwa",
+        "Mutanen Samudawa",
+        "Mutanen Lutu"
+      ],
+      "answer": "Mutanen Samudawa"
+    },
+    "trial": {
+      "label": "Babban Gwaji/Taronmu",
+      "options": [
+        "Ambaliyar da ta mamaye ƙasar",
+        "Rabe-raben teku",
+        "Lalacewar da aka yi da fashewa/ ihu ɗaya",
+        "Ƙone birni",
+        "Juya dutse zuwa ƙura"
+      ],
+      "answer": "Lalacewar da aka yi da fashewa/ ihu ɗaya"
+    },
+    "location": {
+      "label": "Muhimmin Abu a Labarinmu",
+      "options": [
+        "Ɗan maraƙi na zinariya",
+        "Raƙumi mai ban mamaki",
+        "Daji mai ƙonewa",
+        "Tsuntsu mai magana",
+        "Kursiyi mai girma"
+      ],
+      "answer": "Raƙumi mai ban mamaki"
+    },
+    "outcome": {
+      "label": "Sakamakonmu na Ƙarshe",
+      "options": [
+        "An ba shi dukiya da iko mai yawa",
+        "An ɗaukaka shi zuwa ga annabci",
+        "halaka ta hanyar azabar Allah",
+        "Yafewa bayan tuba ta gaskiya",
+        "An warwatse a duniya don yawo"
+      ],
+      "answer": "halaka ta hanyar azabar Allah"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

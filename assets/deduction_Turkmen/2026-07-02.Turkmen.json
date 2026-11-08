@@ -1,0 +1,61 @@
+{
+  "title": "Gizlin Akyldarlygyň Hyzmatkäri",
+  "intro": "Gurhan kyssalarynyň giň gerimli gobeleninde syrly bir şahsyýet, Allanyň ylahy bilim we rehim bilen nygmatlanan bendesi dur. Bu syrly şahsyýet iň beýik pygamberleriň biri bilen ýoldaşlyk edip, ynsan düşünjesiniň çäklerini synap görýän geň galdyryjy hereketler bilen dolu syýahata alyp bardy. Her bir hereket, adalatsyz ýaly görünse-de, ykbal, sabyr we ylahy kazanyň arkasyndaky görünmeýän akyldarlyk barada çuňňur sapaklary gizleýärdi. Bu kölegeli şahsyýet kim we olar nähili hakykatlary açdylar?",
+  "clues": [
+    "Men Allanyň aýratyn bilim we rehim bilen saýlanan bendesidim.",
+    "Beýik bir pygamber menden öwrenmäge çalyşdy we men berk şertler bilen razylaşdym.",
+    "Duşuşygymyzyň dowamynda men ýoldaşyma adalatsyz ýaly görünýän üç hereket etdim.",
+    "Men garyp adamlaryň gaýygyna zyýan ýetirdim, ýöne bu gizlin rehimdi.",
+    "Men ýaş oglanyň janyny aldym, bu zalymlyk ýaly görünse-de, ene-atasynyň gynanjyny halas etmek üçin şeýle boldy.",
+    "Bizi myhmansöýerlikden mahrum eden şäherde diwary täzeden gurdum, onuň aşagynda hazynanyň bardygyny görkezdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Al-Hyzr (salyh gul)",
+        "Iki bagyň eýesi",
+        "Gowakdaky adamlaryň biri",
+        "Ibrahim bilen jedelleşen patyşa",
+        "100 ýyllap uklap galan adam"
+      ],
+      "answer": "Al-Hyzr (salyh gul)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Iki deňziň çatrygynda Musa pygamber bilen duşuşmak",
+        "Ýajuj we Majujyň garşysyna böwet gurmak",
+        "Uly oda taşlanmak",
+        "Deňzi iki ýaryma bölmek",
+        "Töwratyň lavhalaryny almak"
+      ],
+      "answer": "Iki deňziň çatrygynda Musa pygamber bilen duşuşmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Iki deňziň çatrygy",
+        "Sinaý dagy",
+        "Tewr mağarasy",
+        "Tuwa jülgesi",
+        "Zemzem guýusy"
+      ],
+      "answer": "Iki deňziň çatrygy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ol öz geň galdyryjy hereketleriniň arkasyndaky ylahy paýhasy düşündirdi we Musa bilen ýoluny aýyrdy",
+        "Oňa syýahatdan soň pygamberlik berildi",
+        "Gaýyk tupandan heläk boldy",
+        "Oglan täzeden durmuşa getirildi",
+        "Ol ýaşaýyş üçin amatly bolmadyk şäherde metjit gurdy"
+      ],
+      "answer": "Ol öz geň galdyryjy hereketleriniň arkasyndaky ylahy paýhasy düşündirdi we Musa bilen ýoluny aýyrdy"
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

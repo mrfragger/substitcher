@@ -1,0 +1,61 @@
+{
+  "title": "Dağları Hareket Ettiren Melodi",
+  "intro": "Allah'ın olağanüstü bir kulunun hikayesini ortaya çıkarmak üzeresiniz. Peygamberlerin ve yöneticilerin diyarında, bu şahsiyet ilahi bir kitap, güçlü bir ses ve demire karşı bir güçle kutsanmıştı. İpuçlarını okurken, bunun kim olabileceğini tahmin edebilir misiniz?",
+  "clues": [
+    "Ben Allah'ın özel bir kitapla kutsanmış bir kuluydum.",
+    "Güzel bir sesim vardı ve övgülerim o kadar çok seviliyordu ki, tepeler ve kuşlar bile bana katılıyordu.",
+    "Ünlü bir savaşta çok güçlü bir rakiple karşılaştım ve daha küçük olmama rağmen galip geldim.",
+    "Demir benim için işlenebilir hale getirildi, böylece kendi ellerimle zırh yapabildim.",
+    "Büyük bir ulusun başına yönetici olarak getirildim ve yargı yeteneğim meşhurdu.",
+    "Oğlum da bir peygamberdi ve ona rüzgâr ve cinler üzerinde kontrol yeteneği verilmişti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Davud (David)",
+        "Peygamber Süleyman (Solomon)",
+        "Peygamber Musa (Musa)",
+        "Peygamber Harun (Harun)",
+        "Peygamber İlyas (Elias)"
+      ],
+      "answer": "Peygamber Davud (David)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Golyat'ı (Calut) yendi.",
+        "Denizi ikiye ayırdı",
+        "Balinadan kurtuldu",
+        "ateşe atıldı",
+        "Nuh'un Gemisi'ni inşa etti."
+      ],
+      "answer": "Golyat'ı (Calut) yendi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Zebur (Mezmurlar)",
+        "Tevrat (Tora)",
+        "İncil (İncil)",
+        "İbrahim'in Yazıtları",
+        "Kur'an"
+      ],
+      "answer": "Zebur (Mezmurlar)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İsrail'in peygamberi ve kralı oldu.",
+        "Mısır'ın hükümdarı oldu.",
+        "Göğe yükseltildi",
+        "Bir fırtına tarafından yıkıldı.",
+        "Mağaranın yoldaşı oldu."
+      ],
+      "answer": "İsrail'in peygamberi ve kralı oldu."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

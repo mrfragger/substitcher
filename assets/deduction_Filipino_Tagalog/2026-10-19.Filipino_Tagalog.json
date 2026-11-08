@@ -1,0 +1,61 @@
+{
+  "title": "Ang Itinapon ng Langit",
+  "intro": "Isang mahiwagang nilalang ang nakatayo sa sangandaan ng paglikha at pagtanggi. Ang kanilang kwento ay isa sa walang kapantay na kayabangan at ang sukdulang pagsuway sa isang banal na utos. Ang kanilang pagpili ay umaalingawngaw sa bawat henerasyon, na nagiging isang pagsubok para sa bawat kaluluwang isinilang sa mundong ito. Matutukoy mo ba ang walang hanggang kaaway na ito?",
+  "clues": [
+    "Ako ay naroroon sa isang pangyayaring may kahalagahang kosmiko, nang isang bagong nilalang ang hinubog mula sa luwad at binigyan ng buhay sa pamamagitan ng Hininga ng Maawain.",
+    "Ako mismo ay nilikha mula sa iisang nagliliyab na elemento, hindi katulad ng nilalang na gawa sa alikabok.",
+    "Isang utos ang ibinigay sa akin na itinuring kong nasa ilalim ng aking posisyon.",
+    "Labis akong nagmamataas, at mariin kong tinanggihan ang utos na iyon.",
+    "Ipinagkaloob sa akin ang isang pagpapaliban hanggang sa isang takdang Araw, upang maituloy ko ang aking ipinahayag na layunin na linlangin ang iba.",
+    "Ako ang idineklarang kaaway ng lahat ng lumalakad sa mundo, bumubulong ng mga panlilinlang at inililigaw sila sa tuwid na landas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Iblis (Satanas)",
+        "Paraon (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satanas)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Tumanggi na yumuko kay Adan",
+        "Maling pag-angkin ng kabanalan",
+        "Gumawa ng ginintuang guya para sa pagsamba",
+        "Pinatay ang kanyang kapatid dahil sa inggit",
+        "Pinangunahan ang oposisyon ng mga politeista sa Makkah"
+      ],
+      "answer": "Tumanggi na yumuko kay Adan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Paraiso (Jannah)",
+        "Palasyo ng Paraon sa Ehipto",
+        "Ang sagradong lambak ng Tuwa",
+        "Ang kailaliman ng dagat",
+        "Ang hardin ng Sheba"
+      ],
+      "answer": "Paraiso (Jannah)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Binigyan ng pahinga hanggang sa Araw ng Paghuhukom",
+        "Nalunod kasama ang hukbo sa dagat",
+        "Nilamon ng lupa kasama ng mga kayamanan",
+        "Naging mga unggoy dahil sa paglabag sa Sabbath",
+        "Nasusunog ng mga batong inihagis mula sa langit"
+      ],
+      "answer": "Binigyan ng pahinga hanggang sa Araw ng Paghuhukom"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

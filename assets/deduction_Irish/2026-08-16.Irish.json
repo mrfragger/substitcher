@@ -1,0 +1,61 @@
+{
+  "title": "An Guth Ciúin sa Seomra",
+  "intro": "Macallaíodh paidir i gciúnas seomra naofa fadó, ag teacht ó anam aosta a raibh fonn air an rud a dhearbhaigh an domhan a bheith dodhéanta. Chas an figiúr seo, a raibh blianta fada caite aige agus imní mhór faoin todhchaí air, chuig a dTiarna le hachainí phearsanta. Ina dhiaidh sin, tháinig freagra diaga a sháraigh gach ionchas nádúrtha - fianaise ar thrócaire an Té a fhreagraíonn an glao éadóchasach.",
+  "clues": [
+    "Ghlaoigh mé ar mo Thiarna go príobháideach, ag tarraingt siar go seomra inar thiomnaigh mé mé féin dá adhradh.",
+    "D’admhaigh mé do mo Thiarna go raibh eagla orm roimh na daoine a thiocfadh i mo dhiaidh, agus imní orm faoi threoir mo mhuintire a luaithe a d’imigh mé.",
+    "Bhí an aois tar éis teacht orm—bhí mo chnámha lag agus bhí gruaig bhán scaipthe ar fud mo chinn.",
+    "Bhí mo chéile gan leanbh ar feadh a saoil, ach d’iarr mé ar mo Thiarna oidhre ​​​​a bhronnadh orm óna láithreacht féin.",
+    "D'iarr mé comhartha, agus d'fhreagair mo Thiarna trí chosc a chur orm labhairt le duine ar bith ar feadh trí oíche, fad a bhí mé slán go fisiciúil.",
+    "Gealladh mac dom a mbeadh Yahya mar ainm air, ainm nár tugadh d’aon duine riamh cheana, dar le mo Thiarna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Zakariya",
+        "Fáidh Nuh",
+        "an Fáidh Músa",
+        "Fáidh Iósaf",
+        "Fáidh Dawud"
+      ],
+      "answer": "Fáidh Zakariya"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag guí ar son oidhre ​​​​i seanaois le céile gan bhreith",
+        "Á chaitheamh isteach i tine lasrach",
+        "Á shlogadh ag iasc mór sa dorchadas",
+        "Ag fulaingt cailliúint teaghlaigh, saibhris agus sláinte",
+        "Ag fáil ordaithe chun áirc mhór a thógáil"
+      ],
+      "answer": "Ag guí ar son oidhre ​​​​i seanaois le céile gan bhreith"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An seomra paidir (mihrab)",
+        "Sloinne a d’athraigh ina nathair",
+        "Áirc adhmaid mhór",
+        "Gairdín le fuarán uathúil",
+        "Sliabh inar bhailigh éin le chéile"
+      ],
+      "answer": "An seomra paidir (mihrab)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bronnadh mac air a raibh ainm míorúilteach air in ainneoin aois mhór",
+        "Sábháilte ó thine lasrach le hordú diaga",
+        "Scrios tuile mhór na neamhchreidmhigh",
+        "Ar ais chuig teaghlach, saibhreas agus sláinte tar éis foighne",
+        "Bádh Faraó agus a arm sa bhfarraige"
+      ],
+      "answer": "Bronnadh mac air a raibh ainm míorúilteach air in ainneoin aois mhór"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

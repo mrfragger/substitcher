@@ -1,0 +1,61 @@
+{
+  "title": "Wspinaczka Marzyciela",
+  "intro": "Dusza przeznaczona do wielkości, a jednak wystawiona na ciężką próbę, wyruszyła w niezwykłą podróż. Droga tej osoby naznaczona była zazdrością, rozłąką i niesprawiedliwym cierpieniem, by ostatecznie osiągnąć pozycję ogromnej odpowiedzialności i głębokiego zjednoczenia. Czy potrafisz rozpoznać tę niezwykłą postać z Koranu?",
+  "clues": [
+    "Kiedyś moi najbliżsi mi zazdrościli, co doprowadziło do głębokiego rozstania z rodzicami i domem.",
+    "Przeżyłem okres wielkich trudności, m.in. zostałem sprzedany za marną cenę przez podróżnych.",
+    "Niesłusznie oskarżono mnie o popełnienie przestępstwa i spędziłem lata w odosobnieniu, jednak moja wiara pozostała niezachwiana.",
+    "Obdarzono mnie wyjątkową umiejętnością interpretowania skomplikowanych wizji, co okazało się pomocne na mojej drodze do wolności.",
+    "Moja mądrość i uczciwość ostatecznie doprowadziły mnie do stanowiska wielkiego autorytetu i zaufania w obcym kraju.",
+    "Dzięki szeregowi wydarzeń udało mi się spotkać z moimi starszymi rodzicami i rodzeństwem po długiej i bolesnej nieobecności."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Sulaiman",
+        "Prorok Isa",
+        "Prorok Yusuf",
+        "Prorok Dawud",
+        "Prorok Yahya"
+      ],
+      "answer": "Prorok Yusuf"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Połknięcie przez dużą rybę",
+        "Budowa Arki w celu ratowania stworzenia",
+        "Znoszenie fałszywych oskarżeń i uwięzienie",
+        "Konfrontacja z tyrańskim władcą za pomocą cudów",
+        "Poddanie się ciężkiej chorobie i stracie"
+      ],
+      "answer": "Znoszenie fałszywych oskarżeń i uwięzienie"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Płonący krzew",
+        "Mówiący ptak",
+        "Studnia",
+        "Laska zamieniająca się w węża",
+        "Wielbłądzica jako znak"
+      ],
+      "answer": "Studnia"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Prowadzenie migracji do ziemi obiecanej",
+        "Zostanie potężnym ministrem w Egipcie",
+        "Otrzymanie boskiego sądu nad aroganckim ludem",
+        "Rządzenie rozległym królestwem z mądrością i sprawiedliwością",
+        "Wstąpienie do nieba"
+      ],
+      "answer": "Zostanie potężnym ministrem w Egipcie"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

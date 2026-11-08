@@ -1,0 +1,61 @@
+{
+  "title": "A Autoridade Inflexível",
+  "intro": "Em terras ancestrais, uma poderosa autoridade outrora detinha o poder, comandando imensos recursos e a vida de inúmeras pessoas. Apesar de claros sinais e avisos, esse governante escolheu um caminho de desafio, levando a um profundo confronto que reverberaria através dos tempos.",
+  "clues": [
+    "Reivindiquei poder e autoridade absolutos sobre um vasto domínio.",
+    "Desafiei um humilde mensageiro enviado pelo Senhor de todos os reinos.",
+    "Meu povo era conhecido por seu domínio na construção de grandes estruturas e pelo rio que sustentava nossa civilização.",
+    "Fui testemunha de muitos sinais milagrosos, incluindo um cajado que se transformou em serpente e uma mão que brilhou intensamente.",
+    "Recusei-me a deixar um grupo de pessoas escravizadas sair da minha terra, apesar dos mandamentos divinos.",
+    "Minha busca pelo povo que partia levou a mim e aos meus exércitos ao coração de um mar dividido."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Yusuf",
+        "Rei Talut",
+        "Fir'awn (Faraó)",
+        "Profeta Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraó)"
+    },
+    "trial": {
+      "label": "Confronto chave",
+      "options": [
+        "A inundação que engolfou a terra",
+        "A divisão do mar",
+        "A sarça ardente",
+        "A construção da Caaba",
+        "A destruição causada por um vento poderoso"
+      ],
+      "answer": "A divisão do mar"
+    },
+    "location": {
+      "label": "Aspecto Definidor",
+      "options": [
+        "Um animal falante",
+        "Um cajado e uma mão brilhante",
+        "Um nascimento milagroso",
+        "Um tapete voador",
+        "Um trono majestoso sobre a água"
+      ],
+      "answer": "Um cajado e uma mão brilhante"
+    },
+    "outcome": {
+      "label": "Destino Final",
+      "options": [
+        "Ascendeu aos céus",
+        "Engolido pela terra",
+        "Afogado no mar",
+        "Transformado em um macaco",
+        "Dada imensa riqueza e poder"
+      ],
+      "answer": "Afogado no mar"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Agirê ku mîrateyek derxist holê",
+  "intro": "Di salnameyên berxwedanê de, kesayetiyek heye ku navê wî bûye hişyariyek heta dawiya demê. Vî kesî dijminatî li ser xizmtiyê, serhişkî li ser teslîmbûnê hilbijart û li dijî banga dilovaniyê derket. Dema ku em nasnameya vî giyanê navdar eşkere dikin, bi baldarî guh bidin dengvedana daxuyaniyek kevnar.",
+  "clues": [
+    "Ez di heman eşîrê de bi pêxemberê dawî yê Xwedê re ji dayik bûm, lê min di her gavê de li dijî wan rawestiyam.",
+    "Navê min wateyek hildigirt—navek ku tê wateya 'bavê agir', navek ku dê çarenûsa min a herheyî nîşan bide.",
+    "Min li dijî hilgirê rastiyê zirar da, û heta malbata min bi xwe jî tevlî vê kampanyaya hovîtiyê bû.",
+    "Min dewlemendî û bandora xwe bi kar anî da ku banga Xwedê bêdeng bikim, bi baweriya ku pere dikare ronahiya îlahî vemirîne.",
+    "Xwedê sûreyek tevahî ji min re terxan kiriye—sûreyek ewqas kurt ku meriv dikare di çend saniyan de bixwîne, lê giraniya wê heta Roja Qiyametê dimîne.",
+    "Hevalê min ê li axretê li pişt min dimeşe, bi têlekî ji têlan li dora stûyê min girêdayî ye, û heman tirî hildigire ku wan berê belav dikirin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Ebû Leheb",
+        "Ebû Cehl",
+        "Weraqe ibn Newfel",
+        "Umeyye ibn Xelef",
+        "Uqbe ibn Ebî Mu'ayt"
+      ],
+      "answer": "Ebû Leheb"
+    },
+    "trial": {
+      "label": "Pênasîna Rûbirûbûnê",
+      "options": [
+        "Serkêşiya muxalefeta li dijî Pêxember li Mekkeyê dike",
+        "Ji bo rizgarbûna ji zilmê koç dikin ber bi Habeşistanê ve",
+        "Avakirina Kabeyê bi Pêxember Îbrahîm re",
+        "Li ser nivîna mirinê Îslam qebûl kirin",
+        "Îmzekirina Peymana Hudeybiyê"
+      ],
+      "answer": "Serkêşiya muxalefeta li dijî Pêxember li Mekkeyê dike"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Jinek ku tirî û êzingan hildigirt",
+        "Darek ku veguherî mar",
+        "Zengilek bi mohra Silêman",
+        "Golikekî zêrîn ku ji aliyê gel ve tê perizîn",
+        "Kaniyek ku av jê diherikî"
+      ],
+      "answer": "Jinek ku tirî û êzingan hildigirt"
+    },
+    "outcome": {
+      "label": "Hesabkirina Dawî",
+      "options": [
+        "Sûreyek tevahî hate eşkerekirin ku wêranbûna tevahî ragihand",
+        "Bû serokê tevahiya civaka Misilmanan",
+        "Di kêliya mirinê de bexşandin wergirt",
+        "Li Medîneyê camiyeke mezin ava kir",
+        "Di nav rastdaran de hate vejandin"
+      ],
+      "answer": "Sûreyek tevahî hate eşkerekirin ku wêranbûna tevahî ragihand"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

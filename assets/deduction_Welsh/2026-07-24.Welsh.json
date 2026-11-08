@@ -1,0 +1,61 @@
+{
+  "title": "Y Cynllwynwr Cudd",
+  "intro": "Rydych chi'n canfod eich hun ym mhresenoldeb ffigwr pwerus o ddyddiau'r datguddiad. Roedd yr unigolyn hwn yn adnabyddus am ei ddeallusrwydd, ei gyfoeth, a'i statws ymhlith ei bobl. Pan ddaeth yr arwyddion clir, fe wnaethant gydnabod y harddwch ond dewis herfeiddiad dros ufuddhau. Beth a yrrodd yr enaid hwn i gynllwynio yn y tywyllwch, a beth oedd ei dynged yn y pen draw?",
+  "clues": [
+    "Cefais fy mendithio ag adnoddau a dylanwad toreithiog, gan wneud fy ngair yn drwm yn y cymanfaoedd.",
+    "Pan adroddwyd geiriau'r duwiol, ni allwn wadu eu huodledd, ond ni fyddai fy balchder yn caniatáu imi ildio.",
+    "Cesglais fy nghynghorwyr, gan ynysu fy hun i ystyried ffordd o ddifrïo'r neges.",
+    "Ar ôl llawer o feddwl, datganais nad oedd yn ddim byd ond 'hud a drosglwyddwyd o'r gorffennol' i droi pobl i ffwrdd.",
+    "Yna fe wnaeth y datguddiad fy annerch yn uniongyrchol: 'Gadewch Fi gyda'r un a greais ar fy mhen fy hun.' Cefais fy neillu am fy nghynllwynio.",
+    "Cyn bo hir, bydd yr union dân y cefais fy rhybuddio amdano yn fy nghael yn fy nhal, ac ni fydd gennyf ddihangfa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Cynllwyniodd i lofruddio'r Proffwyd",
+        "Arweiniodd boicot yn erbyn y Mwslimiaid",
+        "Casglodd gyngor i frandio'r Coran fel hud",
+        "Cynllwynio i alltudio'r Proffwyd o Makkah",
+        "Gwrthododd rannu ei gyfoeth gyda phlant amddifad"
+      ],
+      "answer": "Casglodd gyngor i frandio'r Coran fel hud"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y Datguddiad",
+        "Y Cyngor",
+        "Y Forelock",
+        "Y Cyfoeth",
+        "Y Pen"
+      ],
+      "answer": "Y Forelock"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Edifarhaodd a chofleidio Islam",
+        "Ymfudodd i Abyssinia",
+        "Cafodd ei daro gan glefyd angheuol",
+        "Bu farw mewn brwydr yn erbyn Mwslimiaid",
+        "Cafodd ei gondemnio i Dân Uffern"
+      ],
+      "answer": "Cafodd ei gondemnio i Dân Uffern"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

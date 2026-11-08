@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Pono o Makkah",
+  "intro": "I ngā rā tōmua o te whakakitenga, i te wā i tūtaki ai te karere o te pono ki te whakahē nui, i tū pakari ētahi wairua i roto i ō rātou whakapono. I tūtaki ēnei whakapono ki te tukino e kore e taea te whakaaro mai i te hunga i whai ki te tineia te māramatanga o te whakapono. He nui te mamae, he nui te mamae—engari kāore ō rātou arero i mutu ki te kauwhau i te Kotahitanga o Allah. Ahakoa i maka ki roto i te hohonutanga o te ngakaukore, i karapotia rātou e te tiakitanga atua, e huri ana i ō rātou whakamātautau hei kawenata whakapono mutunga kore. Kia tūhuratia te haerenga o ēnei wairua whakamiharo.",
+  "clues": [
+    "I whakamatautauria mātou ki te whiu nui mō te kore e whakarērea tō mātou whakapono ki te Atua Kotahi",
+    "Kāore i taea e tō mātou iwi te wawahi i tō mātou whakatau, ahakoa te auaha o tō rātou nanakia",
+    "I whakairihia mātou i te puna i te awatea, heoi i tata tonu te āwhina a te Atua",
+    "I miharo te hunga i kite i tō mātou manawanui ki tō mātou manawanui",
+    "He tokomaha i Makkah i ngana ki te akiaki i a mātou kia whakarērea, engari i mau tonu tō mātou kaha.",
+    "I te wā i ngaro katoa ai te āhua, i tae mai tō tātou herekoretanga mā te wawaotanga whakamiharo a te Atua"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Bilal al-Habashi",
+        "Āma ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Hāmana al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te Pakanga ki te Poropiti",
+        "Te whakatoi mō te kore e karakia ki ngā whakapakoko",
+        "Te whakamātautau i te whakapono mō te aituā ahi",
+        "Te whakamātautau o te haerenga pō wehe",
+        "Te whakamātautau i te whakangaromanga o te māra"
+      ],
+      "answer": "Te whakatoi mō te kore e karakia ki ngā whakapakoko"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Maunga o Uhūti",
+        "Te wāhi tapu o te Kabah",
+        "Te puna o Abu Sufyan",
+        "Te whare kingi o te iwi Quraysh",
+        "Te tāone o Madinah"
+      ],
+      "answer": "Te puna o Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te wikitoria i roto i te pakanga nui",
+        "Te whakaoranga mā te wawaotanga a te Atua",
+        "Te matenga i te ara o Allah",
+        "Te whakaurunga tika ki te pararaiha",
+        "Te hekenga ki tētahi whenua manaaki"
+      ],
+      "answer": "Te whakaoranga mā te wawaotanga a te Atua"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

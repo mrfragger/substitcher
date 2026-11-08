@@ -1,0 +1,61 @@
+{
+  "title": "I testimoni defunti",
+  "intro": "In un'epoca remota, una comunità abitava in una terra crocevia tra imperi. Il loro profeta li chiamò sulla via della verità, ma essi rimasero aggrappati all'incredulità e all'oppressione. Questa storia si conclude con la punizione divina. Riuscite a identificare questa nazione e il suo destino dagli indizi qui sotto?",
+  "clues": [
+    "Il popolo respinse l'avvertimento portato da uno dei suoi stessi messaggeri.",
+    "Il messaggero ci ha esortato ad adorare solo Allah e ci ha messo in guardia contro la corruzione.",
+    "La nostra trasgressione è stata quella di aver rigettato il profeta inviato in mezzo a noi con giustizia.",
+    "Abbiamo dubitato dell'autorità del messaggero e lo abbiamo accusato di inganno.",
+    "La punizione ci ha colpiti mentre eravamo al sicuro nelle nostre case.",
+    "Siamo stati distrutti per aver rinnegato il nostro profeta e perseguitato i credenti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lutero",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ricevere un profeta che chiamava alla giustizia",
+        "Essere messi alla prova con una carestia",
+        "Far interpretare un sogno",
+        "Ricevere la Torah",
+        "Viaggio attraverso il mare"
+      ],
+      "answer": "Ricevere un profeta che chiamava alla giustizia"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Midian",
+        "Babilonia",
+        "Sodoma",
+        "Il Mar Rosso",
+        "L'Arca"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il popolo fu distrutto per la sua incredulità.",
+        "Il popolo si pentì e fu guidato",
+        "Il popolo entrò in Paradiso",
+        "Il popolo sopravvisse e prosperò",
+        "Le persone migrarono in una nuova terra"
+      ],
+      "answer": "Il popolo fu distrutto per la sua incredulità."
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

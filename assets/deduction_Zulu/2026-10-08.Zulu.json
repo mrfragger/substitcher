@@ -1,0 +1,61 @@
+{
+  "title": "Abaqophi Bamatshe Besigodi Sasendulo",
+  "intro": "Cabanga ngempucuko eyavela ezigodini zamatshe zase-Arabia, enekhono lokuqopha izindlu ezinhle kakhulu ezintabeni. Bachuma ngamandla nangobuciko, kodwa indaba yabo iphawuleka ngokudelela okuthusayo isixwayiso saphezulu. Njengoba uhlola indaba yabo, uzothola abantu abazikhukhumezayo abaholela ekubhujisweni kwabo ngokuphelele. Babengobani?",
+  "clues": [
+    "Sazuza ifa lezwe elinamathafa anamatshe namawa amakhulu, lapho sakha khona izindlu zethu ngobuchule obungenakuqhathaniswa.",
+    "Sasidume ngokuqopha izindlu eziphephile ezintabeni, sizizwa siphephile kunoma yikuphi ukulimala.",
+    "Isithunywa seza kithi sivela phakathi kwethu, sisikhumbuza ngomusa ka-Allah futhi sisixwayisa ngesijeziso.",
+    "Safuna isibonakaliso, kwaphuma ikamela lensikazi eliyisimangaliso edwaleni, isivivinyo esicacile esivela ku-Allah.",
+    "Sasilalela isixwayiso futhi sanquma ikamela lensikazi, sahleka usulu isithunywa futhi saphikisa isijeziso.",
+    "Ukuqhuma okukodwa kwasifica emakhaya ethu, kwathi ekuseni salala phansi, sengathi asikaze sihlale lapho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu baseMadyan",
+        "Abantu baseNuh",
+        "Abantu bakaLut"
+      ],
+      "answer": "Abantu baseThamud"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wanquma ikamela lensikazi ngentambo",
+        "Waphula iSabatha",
+        "Wakhuleka ithole legolide",
+        "Wabulala umprofethi owathunyelwa kubo",
+        "Wakha umbhoshongo ukuze afinyelele esibhakabhakeni"
+      ],
+      "answer": "Wanquma ikamela lensikazi ngentambo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ikamela lensikazi",
+        "UMphongolo",
+        "Abasebenzi",
+        "Isandla esimhlophe",
+        "Imana nezigwaca"
+      ],
+      "answer": "Ikamela lensikazi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kubhujiswe ukuqhuma",
+        "Kusindisiwe ekubhujisweni",
+        "Yaphenduka izinkawu",
+        "Ukuminza olwandle",
+        "Kugwinywe umhlaba"
+      ],
+      "answer": "Kubhujiswe ukuqhuma"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

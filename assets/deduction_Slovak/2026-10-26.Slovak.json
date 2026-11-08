@@ -1,0 +1,61 @@
+{
+  "title": "Šepot vo vetre",
+  "intro": "Predstavte si ríšu, kde sa neviditeľné a viditeľné prepletá, a stojíte pred postavou v srdci kráľovstva, ktoré sa nepodobá žiadnej inej. Táto duša vlastní vedomosti, ktoré presahujú bežný dosah, ovláda sily, ktoré si iní dokážu len predstaviť. Napriek tomu aj tí najmocnejší môžu byť pokorení malým tvorom a pravda môže zostať skrytá až do určeného času. Kto je táto postava, ktorej odkaz sa ozýva naprieč vekmi?",
+  "clues": [
+    "Bolo mi dané kráľovstvo, ktoré po mne nikto nebude mať.",
+    "Zdedil som vedomosti a múdrosť po milovanom rodičovi.",
+    "Vietor bol pod mojou kontrolou a na môj rozkaz sa pohyboval, kamkoľvek som si prial.",
+    "Rozumel som reči vtákov a ony slúžili v mojej armáde.",
+    "Dostal som správu od malého vtáčika o kráľovnej, ktorá uctievala slnko.",
+    "Moja smrť zostala skrytá, až kým mi nejaký tvor zo zeme nezožral palicu, a až potom si džinovia uvedomili, že nepoznajú neviditeľné."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Sulajmán (Šalamún)",
+        "Prorok Dawud (Dávid)",
+        "Prorok Músa (Mojžiš)",
+        "Prorok Isa (Ježiš)",
+        "Prorok Nuh (Noe)"
+      ],
+      "answer": "Prorok Sulajmán (Šalamún)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Návšteva kráľovnej zo Sáby",
+        "Byť hodený do ohňa",
+        "Rozdeľovanie mora",
+        "Stavba archy",
+        "Byť prehltnutý veľrybou"
+      ],
+      "answer": "Návšteva kráľovnej zo Sáby"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zamestnanec pohltený tvorom zeme",
+        "Zamestnanec, ktorý sa premenil na hada",
+        "Ťava",
+        "Archa",
+        "Veľryba"
+      ],
+      "answer": "Zamestnanec pohltený tvorom zeme"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Jeho smrť bola pred džinmi utajená, až kým nezjedli jeho palicu.",
+        "Bol vznesený do nebies živý",
+        "Na príkaz Alaha ho pred ohňom zachránil",
+        "Bola mu daná Tóra",
+        "Bol zachránený pred veľrybou"
+      ],
+      "answer": "Jeho smrť bola pred džinmi utajená, až kým nezjedli jeho palicu."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

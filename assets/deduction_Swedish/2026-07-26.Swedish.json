@@ -1,0 +1,61 @@
+{
+  "title": "Kronan som utmanade himlen",
+  "intro": "I forntida kungadömens korridorer blev en härskares namn ett synonym för tyranni och arrogans. När en ödmjuk tjänare till Allah anlände med obestridliga tecken vägrade denne mäktige suverän att ge sig inför sanningen. Idag är din uppgift att identifiera denna legendariska figur vars herravälde smulades sönder och vars öde beseglades under vågorna.",
+  "clues": [
+    "Jag är den mest fruktade härskaren vars namn fortfarande ekar som en varning genom tiderna.",
+    "Jag befallde ett helt folk att arbeta i kedjor och resa monument som förkunnade min ära.",
+    "När en av Allahs budbärare kom inför mig med obestridliga tecken, vägrade jag att böja mig och kallade det trolldom.",
+    "Jag befallde att spädbarn skulle dödas bland ett fånget folk i hopp om att krossa deras ande innan de kunde resa sig.",
+    "Jag stod inför mitt hov och förklarade: \"Jag är er högste herre,\" och krävde dyrkan som en gud.",
+    "Med min chefsminister bredvid mig byggde jag en tornhög byggnad som syftar till att klättra bortom himlen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Farao (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Farao (Fir'awn)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Drunkningen i Röda havet",
+        "Kamelhonan som skickades till Thamuds folk",
+        "Den stora översvämningen i Nuh",
+        "Straffet för skyttegravens följeslagare",
+        "Förstörelsen av Abrahas armé av fåglar"
+      ],
+      "answer": "Drunkningen i Röda havet"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Den höga byggnaden byggd med Haman",
+        "Arken som seglade på floden",
+        "Guldkalven formad av Samiri",
+        "Bilqis, drottning av Saba, tron",
+        "De sovande ungdomarnas grotta"
+      ],
+      "answer": "Den höga byggnaden byggd med Haman"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Drunknade i havet; kroppen bevarad som varning",
+        "Förvisad och tvingad att vandra i vildmarken",
+        "Förvandlades till apor som straff",
+        "Träffad av en våldsam jordbävning",
+        "Bränd av ett regn av stenar från himlen"
+      ],
+      "answer": "Drunknade i havet; kroppen bevarad som varning"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

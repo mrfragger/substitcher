@@ -1,0 +1,61 @@
+{
+  "title": "Les tailleurs de pierre de l'ancienne vallée",
+  "intro": "Imaginez une civilisation née dans les vallées rocheuses d'Arabie, experte dans l'art de sculpter de magnifiques demeures à flanc de montagne. Elle prospéra grâce à sa force et à son art, mais son histoire est marquée par un défi glaçant à l'avertissement divin. En vous penchant sur son récit, vous découvrirez un peuple dont l'arrogance causa sa perte. Qui étaient-ils ?",
+  "clues": [
+    "Nous avons hérité d'une terre de plaines rocailleuses et de falaises imposantes, où nous avons bâti nos demeures avec un savoir-faire inégalé.",
+    "Nous étions connus pour creuser des maisons sûres dans les montagnes, nous sentant à l'abri de tout danger.",
+    "Un messager issu de nos propres rangs est venu à nous, nous rappelant les bienfaits d'Allah et nous avertissant du châtiment.",
+    "Nous avons exigé un signe, et une chamelle miraculeuse a émergé du rocher, une épreuve manifeste d'Allah.",
+    "Nous avons bravé l'avertissement et mutilé la chamelle, narguant le messager et défiant la punition.",
+    "Une seule explosion nous a surpris dans nos maisons, et au matin, nous étions allongés à plat ventre, comme si nous n'y avions jamais vécu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple de Thamud",
+        "Les gens de 'Ad",
+        "Les habitants de Madyan",
+        "Le peuple de Nuh",
+        "Peuple de Lut"
+      ],
+      "answer": "Peuple de Thamud"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La chamelle a été entravée",
+        "J'ai violé le sabbat",
+        "Adoré le veau d'or",
+        "Il a tué le prophète qui leur avait été envoyé.",
+        "J'ai construit une tour pour atteindre le ciel."
+      ],
+      "answer": "La chamelle a été entravée"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La chamelle",
+        "L'Arche",
+        "Le personnel",
+        "La main blanche",
+        "La manne et les cailles"
+      ],
+      "answer": "La chamelle"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Détruit par une explosion",
+        "Sauvé de la destruction",
+        "Transformés en singes",
+        "Noyé dans la mer",
+        "Englouti par la terre"
+      ],
+      "answer": "Détruit par une explosion"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

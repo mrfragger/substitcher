@@ -1,0 +1,61 @@
+{
+  "title": "Lujat todistajat",
+  "intro": "Kuvittele aika, jolloin uskoa koeteltiin tulessa ja horjumattomasta vakaumuksesta tuli äärimmäinen uhma. Tehtävänäsi on paljastaa ryhmän identiteetti, jonka tarina kerrotaan Koraanissa, kertomuksessa syvästä uskosta musertavaa tyranniaa vastaan. Selvitä vihjeet ja selvitä, keitä nämä sielut olivat ja millaisia ​​poikkeuksellisia olosuhteita he kohtasivat.",
+  "clues": [
+    "Pysyimme lujina vakaumuksessamme valtavasta paineesta huolimatta, jonka aiheutimme luopua uskostamme.",
+    "Meidät iski voimakas hallitsija, joka pyrki sammuttamaan monoteismin valon.",
+    "Me näimme suuria merkkejä ja ihmeitä, mutta sortajamme pysyivät välinpitämättöminä.",
+    "Kärsimme hirvittävää vainomenetelmää, jonka tarkoituksena oli terrorisoida muita alistumaan.",
+    "Meidät heitettiin roihuavaan helvettiin, mutta lujuutemme ansaitsi meille korkean aseman Allahin edessä.",
+    "Tarinamme kerrotaan suurassa, joka on nimetty taivaallisten tähtikuvioiden mukaan ja joka varoitti uskovien vainoajien kohtalosta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Thamudin kansa",
+        "'Ad:n ihmiset",
+        "Ojan kansa",
+        "Midianin kansa",
+        "Norsun kansa"
+      ],
+      "answer": "Ojan kansa"
+    },
+    "trial": {
+      "label": "Vainomme",
+      "options": [
+        "Hukkuminen tulvaan",
+        "Polttavan tuulen nielaisema",
+        "Heitetään tuliseen juoksuhautaan",
+        "Maan nielaisemana",
+        "Apinoiksi muuttuminen"
+      ],
+      "answer": "Heitetään tuliseen juoksuhautaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Massiivinen tulva",
+        "Suuri maanjäristys",
+        "Syvä, palava juoksuhauta",
+        "Voimakas idoli",
+        "Tuhoisa kuivuus"
+      ],
+      "answer": "Syvä, palava juoksuhauta"
+    },
+    "outcome": {
+      "label": "Lopullinen kohtalomme",
+      "options": [
+        "Heille annettiin valtakunta maan päällä.",
+        "He pelastuivat ihmeellisen pakoretken ansiosta.",
+        "He saavuttivat marttyyrikuoleman ja iankaikkisen palkinnon.",
+        "Ne muutettiin eri lajiksi.",
+        "Heille annettiin valtava vauraus ja hyvinvointi."
+      ],
+      "answer": "He saavuttivat marttyyrikuoleman ja iankaikkisen palkinnon."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

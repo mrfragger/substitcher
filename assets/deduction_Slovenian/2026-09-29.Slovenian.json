@@ -1,0 +1,61 @@
+{
+  "title": "Prerok izklesanih gora",
+  "intro": "V surovih puščavah starodavne Arabije se je med ljudmi, znanimi po svoji izjemni spretnosti, pojavila osebnost. Njihovi domovi so se dvigali iz trdne skale, a njihova srca so bila trša od gora, ki so jih izklesali. Božanski sel je prišel z enim samim, čudežnim znamenjem – toda ponos in kljubovanje sta privedla do hitrih in grozljivih posledic. Ali lahko prepoznate plemenitega služabnika, čigar ljudstvo je izbralo uničenje namesto vodenja?",
+  "clues": [
+    "Poslan sem bil kot svarilec svojemu ljudstvu in jih klical k čaščenju Edinega Boga.",
+    "Moje ljudstvo je živelo med dramatičnimi skalnimi formacijami in v gorska pobočja vklesalo veličastna bivališča.",
+    "Na mojo molitev se je iz trdne skale pojavila čudežna kamela, jasen znak Vsemogočnega.",
+    "Svojemu ljudstvu sem rekel, naj si delijo vodo s to kamelo in naj ji ne škodujejo.",
+    "Moje ljudstvo je skovalo zaroto proti kameli in ji prerezalo žile, s čimer si je zapečatilo lastno uničenje.",
+    "Moje ljudstvo je prizadel strašljiv potres in ostalo je negibno v svojih bivališčih."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Salih",
+        "Prerok Hud",
+        "Prerok Šuajb",
+        "Prerok Nuh",
+        "Prerok Musa"
+      ],
+      "answer": "Prerok Salih"
+    },
+    "trial": {
+      "label": "Katero je bilo odločilno sojenje?",
+      "options": [
+        "Poškodba zadnje lože čudežne kamele",
+        "Gradnja velike barke sredi posmeha",
+        "Soočenje s tiranskim faraonom",
+        "Biti vržen v plameneči ogenj",
+        "Kršitev šabatne zaveze"
+      ],
+      "answer": "Poškodba zadnje lože čudežne kamele"
+    },
+    "location": {
+      "label": "Kaj je bil osrednji element?",
+      "options": [
+        "Kamela, ki je prišla iz skale",
+        "Velika lesena barka",
+        "Palica, ki je razdelila morje",
+        "Ogromen kit",
+        "Gora, ki visi nad glavo"
+      ],
+      "answer": "Kamela, ki je prišla iz skale"
+    },
+    "outcome": {
+      "label": "Kakšna je bila njihova končna usoda?",
+      "options": [
+        "Nenaden potres z neba",
+        "Utopljen v močni poplavi",
+        "Njihova mesta so bila porušena po božjem ukazu",
+        "Opečen od žgočega vetra",
+        "Požrla ga je zemlja"
+      ],
+      "answer": "Nenaden potres z neba"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

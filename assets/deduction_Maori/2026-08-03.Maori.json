@@ -1,0 +1,61 @@
+{
+  "title": "Te Puna i raro i te Oneone",
+  "intro": "I roto i ngā pukapuka o te Quran, i tūtaki tētahi tangata manawanui nui ki tētahi whakamātautau ka pakaru ai ngā ngākau toa. I tangohia ngā mea katoa - te taonga, te whānau, me te hauora. Heoi, mai i te hohonutanga o te ngakau pouri, i whakautua tētahi inoi whakaiti i te huarahi tino ohorere. Ka taea e koe te tautuhi i tēnei wairua e pāorooro ana te kōrero mō te whakaoranga i roto i ngā tau?",
+  "clues": [
+    "I whakamatautauria ahau ki tētahi whakamātautau tino kino, ā, e maumaharatia tonutia ana e ngā tau katoa.",
+    "I ngaro i ahau ngā mea nui katoa - aku taonga, aku tamariki, me tōku hauora.",
+    "Kī tonu tōku tinana i ngā mate pāwera, ā, i whakarērea ahau e te katoa.",
+    "I roto i tōku pouri, ka karanga ahau ki a Allah, me te mea kua pā mai a Hātana ki ahau ki te mamae me te whakamamae.",
+    "Nāwai ā, ka whakahoki mai a Allah ki ahau, ā, ka whakahau mai ia kia patua e ahau te whenua ki tōku waewae.",
+    "Mai i taua wāhi tonu, ka pupū mai he puna matao, ā, ka whakahokia mai e Atua tōku whānau, ka tāruatia hoki rātou hei tohu aroha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Ayyub",
+        "Poropiti a Mohi",
+        "Poropiti a Iria",
+        "Poropiti a Sulaimana",
+        "Poropiti a Rawiri"
+      ],
+      "answer": "Poropiti a Ayyub"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te mate nui me te ngaronga o te whānau me te taonga",
+        "Te horomia e te tohorā nui",
+        "Te whakaraunga atu i te tāone o Makkah",
+        "Te mauheretanga i roto i te poka hohonu",
+        "Te tautohetohe ki tētahi rangatira whakakake"
+      ],
+      "answer": "Te mate nui me te ngaronga o te whānau me te taonga"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He puna matao mai i te whenua",
+        "He poti i runga i te waipuke nui",
+        "He tokotoko hei wehewehe i te moana",
+        "He torona karaihe teitei",
+        "He ana taiepa mō te moe"
+      ],
+      "answer": "He puna matao mai i te whenua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua whakahokia mai te whānau me te taonga, ā, kua takiruatia",
+        "Puta mai i te puku o te ika",
+        "Te haere haumaru i roto i ngā wai kua wehea",
+        "He rangatiratanga i tukua kia whakahaerea",
+        "Te whānautanga merekara o tētahi tama i te koroheketanga"
+      ],
+      "answer": "Kua whakahokia mai te whānau me te taonga, ā, kua takiruatia"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

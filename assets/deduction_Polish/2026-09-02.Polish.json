@@ -1,0 +1,61 @@
+{
+  "title": "Sen poza czasem",
+  "intro": "Wyobraź sobie czasy, gdy prawda była uciszana, a wierzący ścigani. Niewielka grupa wybrała wycofanie się zamiast poddania się, znajdując schronienie w najbardziej nieprawdopodobnym miejscu – miejscu, które miało stać się ich miejscem spoczynku na niezliczone stulecia. Kiedy w końcu się obudzili, świat wokół nich się zmienił. Kim są te uśpione dusze?",
+  "clues": [
+    "Byliśmy młodymi ludźmi mieszkającymi w starożytnym mieście.",
+    "Nasza społeczność domagała się, abyśmy oddawali cześć Bogu razem z nimi, ale odmówiliśmy.",
+    "Uciekliśmy z miasta w poszukiwaniu schronienia przed tymi, którzy sprzeciwiali się naszym przekonaniom.",
+    "Wierny czworonożny towarzysz pozostał przy wejściu do naszej kryjówki.",
+    "Bóg sprawił, że spaliśmy przez trzysta dziewięć lat.",
+    "Kiedy w końcu się obudziliśmy, nasze kiedyś prześladujące miasto przyjęło wiarę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ashab al-Kahf (Ludzie Jaskini)",
+        "Ashab al-Fil (Armia Słonia)",
+        "Ashab al-Ukhdud (Towarzysze Rowu)",
+        "Hawariyyun (Uczniowie Isa)",
+        "Yajuj wa Majuj (Gog i Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Ludzie Jaskini)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Schowaliśmy się w jaskini i spaliśmy przez stulecia",
+        "Zostaliśmy uratowani z płonącego ognia",
+        "Połknęła nas wielka ryba",
+        "Zostaliśmy przetestowani przez cudowną wielbłądzicę",
+        "Dano nam dziewięć wyraźnych znaków"
+      ],
+      "answer": "Schowaliśmy się w jaskini i spaliśmy przez stulecia"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Głęboka jaskinia w górach",
+        "Łódź na otwartym morzu",
+        "Wysoka konstrukcja sięgająca nieba",
+        "Ogród podzielony między dwóch rywali",
+        "Bariera z żelaza i miedzi"
+      ],
+      "answer": "Głęboka jaskinia w górach"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Obudziliśmy się i odkryliśmy, że nasze miasto zwróciło się ku wierze",
+        "Płonący ogień stał się chłodny i spokojny",
+        "Armia wroga utonęła w morzu",
+        "Ptaki niosące kamienie zniszczyły wroga",
+        "Wielka ryba wypuściła nas na brzeg"
+      ],
+      "answer": "Obudziliśmy się i odkryliśmy, że nasze miasto zwróciło się ku wierze"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pirmasis iš pavydo pralietas kraujas",
+  "intro": "Įsivaizduokite ankstyviausias žmonijos dienas, kai visas pasaulis buvo viena šeima. Stebite, kaip Alachui atnešamos dvi aukos – viena priimama, kita atmetama. Širdyje įsišaknija pavydas, o pyktyje šnabždama ištariama grėsmė. Tai, kas nutiks toliau, paliks žymę istorijoje amžiams, ir net mažas paukštelis taps mokytoju.",
+  "clues": [
+    "Aš priklausau pačiai pirmajai šeimai žemėje.",
+    "Aš paaukojau Alachui auką, bet mano nebuvo priimta, o kita auka buvo priimta.",
+    "Aš prabilau iš pavydo ir grasinau atimti gyvybę.",
+    "Aš įvykdžiau pirmąją neteisėtą žmogžudystę žemėje.",
+    "Mačiau varną, kasančią žemę, norėdama parodyti, kaip paslėpti kūną.",
+    "Mane apėmė apgailestavimas ir tapau vienu iš pralaimėtojų dėl to, ką padarė mano rankos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Kabilas (Kainas), Adomo sūnus",
+        "Samiri, veršio kūrėjas",
+        "Namrudas, tironas, kuris ginčijosi su Ibrahimu",
+        "Azaras, stabų kūrėjas",
+        "Kananas, nuskendęs Nuho sūnus"
+      ],
+      "answer": "Kabilas (Kainas), Adomo sūnus"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Brolio ar sesers nužudymas iš pavydo po atmesto pasiūlymo",
+        "Statyti aukštą bokštą, kad būtų galima žiūrėti į dangų",
+        "Auksinio veršio gamyba garbinimui",
+        "Reikalaujant iš dangaus padengto stalo",
+        "Vadovaujant dramblių armijai sunaikinti Kaabą"
+      ],
+      "answer": "Brolio ar sesers nužudymas iš pavydo po atmesto pasiūlymo"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Varna braižo žemę, norėdama parodyti laidotuves",
+        "Auksinis veršis, kuris baubė",
+        "Didžioji arka virš tvano vandenų",
+        "Lazdelė, kuri virto gyvate",
+        "Stalas, padengtas maistu iš dangaus"
+      ],
+      "answer": "Varna braižo žemę, norėdama parodyti laidotuves"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Atgailavo ir tapo tarp pralaimėtojų",
+        "Nuskendo dideliame potvynyje",
+        "Buvo prarijęs žemės lobių",
+        "Septynerius metus sirgo raupsais",
+        "Jam buvo suteikta karalystė su vėjų valdymu"
+      ],
+      "answer": "Atgailavo ir tapo tarp pralaimėtojų"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

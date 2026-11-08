@@ -1,0 +1,61 @@
+{
+  "title": "Unelmoijan nousu",
+  "intro": "Sielu, jonka kohtalona oli suuruus, mutta jota koettelivat ankarat koettelemukset, lähti ainutlaatuiselle matkalle. Tämän yksilön polkua leimasivat kateus, ero ja epäoikeudenmukainen kärsimys, vain huipentuakseen valtavan vastuun ja syvällisen jälleennäkemisen asemaan. Voitko tunnistaa tämän merkittävän hahmon Koraanista?",
+  "clues": [
+    "Läheisimmät kateuttivat minua kerran, mikä johti syvään etääntymiseen vanhemmistani ja kodistani.",
+    "Koin erittäin vaikean ajanjakson, johon kuului muun muassa se, että matkailijat myivät minua mitättömään hintaan.",
+    "Minua syytettiin epäoikeudenmukaisesti väärinteosta ja vietin vuosia vankeudessa, mutta uskoni pysyi horjumattomana.",
+    "Minulle annettiin ainutlaatuinen kyky tulkita monimutkaisia ​​näkyjä, mikä osoittautui ratkaisevaksi matkallani vapauteen.",
+    "Viisauteni ja rehellisyyteni johtivat minut lopulta erittäin arvovaltaiseen ja luotettavaan asemaan vieraassa maassa.",
+    "Useiden tapahtumien kautta tapasin jälleen iäkkään vanhempani ja sisarukseni pitkän ja tuskallisen poissaolon jälkeen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Sulaiman",
+        "Profeetta Isa",
+        "Profeetta Yusuf",
+        "Profeetta Daavid",
+        "Profeetta Jahja"
+      ],
+      "answer": "Profeetta Yusuf"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuren kalan nielaisemaksi joutuminen",
+        "Arkin rakentaminen luomakunnan pelastamiseksi",
+        "Väärien syytösten ja vankeuden kestäminen",
+        "Tyrannimaisen hallitsijan kohtaaminen ihmeillä",
+        "Vakavan sairauden ja menetyksen koettelemana"
+      ],
+      "answer": "Väärien syytösten ja vankeuden kestäminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Palava pensas",
+        "Puhuva lintu",
+        "Kaivo",
+        "Sauva, joka muuttuu käärmeeksi",
+        "Naaraskameli merkkinä"
+      ],
+      "answer": "Kaivo"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Muuttoliikkeen johtaminen luvattuun maahan",
+        "Vaikuttavaksi ministeriksi tuleminen Egyptissä",
+        "Jumalan tuomion vastaanottaminen ylimielisille ihmisille",
+        "Hallitsee valtavaa valtakuntaa viisaasti ja oikeudenmukaisesti",
+        "Nousemassa taivaisiin"
+      ],
+      "answer": "Vaikuttavaksi ministeriksi tuleminen Egyptissä"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

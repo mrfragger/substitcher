@@ -1,0 +1,61 @@
+{
+  "title": "Kōrerotia hei Oranga",
+  "intro": "Ka puta mai tētahi āhua i roto i te hītori tapu, e mau ana i ngā merekara i whakahē i te tikanga o te taiao. I tae mai tēnei wairua mā te whakahau atua kotahi, i tiaki i tētahi matua mai i ngā whakapae nui, ā, i wehe atu i tēnei ao i mua i te taea e ngā mekameka whenua te here i a rāua. Ka horapa te kōrero mai i tētahi whāngai iti ki ngā rangi i runga. Ko wai rā tēnei?",
+  "clues": [
+    "I tonoa mai ahau hei tohu, hei aroha hoki nā Allah ki ngā tamariki a Iharaira.",
+    "Kāore i rite taku taenga mai ki tētahi atu i mua — i puta mai ahau i te kupu atua 'Kia!' kāore he matua whenua.",
+    "I pāngia tōku mātua e te kōrero kino, engari i heke iho te whakakitenga tapu hei whakaatu i tō rāua harakore, hei whakaara ake hoki i tō rāua tūranga.",
+    "I a au e pēpi ana, i miharo te hunga i tōku taha mā te kōrero mārama mai anō i taku moenga hei whakakore i te ingoa o ōku mātua.",
+    "Nā te whakaaetanga a Allah, i hanga e au te ora mai i te paru mate, i hoatu he tirohanga ki te matapo, ā, i whakaorangia e au te repera ki taku pā.",
+    "I whakaarahia ahau ki te rangi i mua i te pānga mai o te kino ki ahau, ā, ka hoki mai ahau ki tēnei ao i mua i te taenga mai o te Hāora Whakamutunga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Ihaia",
+        "Poropiti a Mohi",
+        "Poropiti Ihāperama",
+        "Poropiti a Yusuf",
+        "Poropiti a Rawiri"
+      ],
+      "answer": "Poropiti a Ihaia"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te kōrero mai i te whāngai tamarikitanga",
+        "Te ora i roto i te puku o te ika nui",
+        "Te maka ki roto i te ahi mura",
+        "Te hanga i tētahi āka nui i mua i te waipuke",
+        "Te tū atu ki ngā mahi makutu a te kooti o Parao"
+      ],
+      "answer": "Te kōrero mai i te whāngai tamarikitanga"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Injeel (Rongopai)",
+        "Te Tawrah (Torah)",
+        "Ngā Waiata (Zabur)",
+        "Te Suhuf (Nga Panuku a Ibrahim)",
+        "He tokotoko hei wehewehe i te moana"
+      ],
+      "answer": "Te Injeel (Rongopai)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Ka ara ake ki te rangi, ka hoki mai i mua i te Rā Whakawa",
+        "I arahina e ia ngā tamariki a Iharaira i Ihipa",
+        "I noho hei kingi, ā, i whai mana ia ki runga i ngā jinn, ngā tāngata, me ngā manu",
+        "I ora tahi me te hunga pono i te waipuke nui",
+        "I hanga te whare tapu i Meka"
+      ],
+      "answer": "Ka ara ake ki te rangi, ka hoki mai i mua i te Rā Whakawa"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vankumatu kannatlik",
+  "intro": "Prohvetliku ajaloo annaalides on vähesed suutnud nii sügavat kaotust ja füüsilist kannatust vankumatu usuga üle elada. Selle tegelase lugu on ajatu õppetund kannatlikkusest ja usaldusest jumaliku tarkuse vastu. Kes see hing on?",
+  "clues": [
+    "Allah valis mind sõnumit edastama, aga minu suurim katsumus ei tulnud mitte tagasilükkamise, vaid isikliku õnnetuse kaudu.",
+    "Mu varandus, kariloomad ja lapsed võeti minult ära, üks teise järel.",
+    "Mu keha oli haavandeid täis ja ma olin üksi, välja arvatud abikaasa toetus.",
+    "Ma hüüdsin oma Issanda poole, tunnistades oma kannatusi ja otsides Tema halastust.",
+    "Mulle öeldi, et lööksin jalaga maad ja välja purskas värskendav allikas.",
+    "Allah taastas mu tervise ja andis mulle uue perekonna ja veelgi rohkem rikkust kui mul varem oli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ayyub",
+        "Prohvet Ibrahim",
+        "Prohvet Musa",
+        "Prohvet Isa",
+        "Prohvet Noa"
+      ],
+      "answer": "Prohvet Ayyub"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Varanduse ja perekonna kaotus",
+        "Tulle viskamine",
+        "Kala alla neelamine",
+        "Perekonnast eraldamine ja orjusse müümine",
+        "Kuldvasikaga proovile pandavat"
+      ],
+      "answer": "Varanduse ja perekonna kaotus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Veeallikas",
+        "Personali, mis muutus maoks",
+        "Puidust laev",
+        "Sulanud vasikas",
+        "Palmipuu"
+      ],
+      "answer": "Veeallikas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Perekonna ja rikkuse taastamine",
+        "Taevasse tõusmine",
+        "Kuningaks saamine",
+        "Vaala käest päästetud",
+        "Poja saamine vanas eas"
+      ],
+      "answer": "Perekonna ja rikkuse taastamine"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

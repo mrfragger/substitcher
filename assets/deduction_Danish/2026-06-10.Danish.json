@@ -1,0 +1,61 @@
+{
+  "title": "Havens vogtere",
+  "intro": "I en frodig have aflagde et samfund et højtideligt løfte. Men deres beslutsomhed blev sat på prøve, da den guddommelige vilje greb ind og forvandlede deres overflod til et goldt land.",
+  "clues": [
+    "Vi var velsignet med en overdådig have, men vi blev arrogante.",
+    "Vi lavede en plan om at høste uden at dele med de fattige.",
+    "Vi tog afsted tidligt om morgenen, sikre på vores plan.",
+    "Men da vi ankom, opdagede vi, at vores have var blevet ødelagt natten over.",
+    "Vi indså vores fejl og begyndte at give hinanden skylden.",
+    "Vi omvendte os endelig, men lektien blev lært for sent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Havens folk",
+        "Folk i hulen",
+        "Elefantens folk",
+        "Folket i Thamud",
+        "Folk fra 'Ad"
+      ],
+      "answer": "Havens folk"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "En have forvandlet til aske",
+        "En oversvømmelse, der ødelagde alt",
+        "En hungersnød ramte landet",
+        "En hær af fugle angriber",
+        "En kraftig vind, der rev træer op med rode"
+      ],
+      "answer": "En have forvandlet til aske"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En have",
+        "En hule",
+        "Et skib",
+        "Et bjerg",
+        "Et palads"
+      ],
+      "answer": "En have"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De omvendte sig, men mistede deres have",
+        "De blev fuldstændig ødelagt",
+        "De blev forvandlet til aber",
+        "De blev frelst ved tro",
+        "De blev herskere"
+      ],
+      "answer": "De omvendte sig, men mistede deres have"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

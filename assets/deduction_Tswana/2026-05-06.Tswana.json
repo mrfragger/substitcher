@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe le le tswang kwa sekgweng se se tukang",
+  "intro": "Rarabolola boitshupo jwa motho yo o tseneletseng yo loeto lwa gagwe lo simolotseng ka go kopana ka kgakgamatso mme phelelo ya gagwe e ne e lomagane le go gololwa ga batho ba ba gateletsweng. Motho yono o ne a tlhophelwa tiro e kgolo thata, a lebane le dikgwetlho tse dikgolo thata ka tshegetso ya bomodimo.",
+  "clues": [
+    "Ke tsholetswe mo motlheng wa kgatelelo e kgolo, mo go neng go bolawa masea a batho ba gaetsho.",
+    "Botshelo jwa me jwa bogologolo bo ne bo akaretsa go bewa mo nokeng ke motsadi wa me, le fa go ntse jalo ke ne ka bonwa le go godisediwa mo go yone lelapa la mogateledi wa batho ba gaetsho.",
+    "Ke kile ka tshaba mo toropong nngwe morago ga go bolaya motho ka bongwe ke sa ikaelela fa re ne re ngangisana.",
+    "Ke ne ka amogela molaetsa wa bomodimo le thobane ya kgakgamatso kwa lefelong le le boitshepo, koo ke neng ka laelwa gore ke lebane le mmusi mongwe yo o maatla.",
+    "Morwarre o ne a tlhomiwa go nna mothusi wa me mo thomong ya me, ka ntlha ya kgoreletso e ke neng ke e lemoga mo puong ya me.",
+    "Ke ne ka etelela batho ba me pele go kgabaganya lewatle le le kgaoganeng, ke falola go lelekwa ke masole a a bogagapa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Yusuf",
+        "Moporofeti Isa",
+        "Moporofeti Musa",
+        "Moporofeti Nuh",
+        "Moporofeti Ibrahime"
+      ],
+      "answer": "Moporofeti Musa"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go itshokela dingwaga tsa komelelo",
+        "Go Aga Areka",
+        "Go lebana le Faro le baloi ba gagwe",
+        "Go latlhelwa mo leubelong le le tukang",
+        "Go senngwa ga batho ba Thamude"
+      ],
+      "answer": "Go lebana le Faro le baloi ba gagwe"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Kaaba",
+        "Lebota la Tshipi",
+        "Badiri",
+        "Sekepe sa Nuh",
+        "Palamonwana ya ga Sulaiman"
+      ],
+      "answer": "Badiri"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Motse wa Sodoma o ne wa menolwa .",
+        "Batho ba ne ba mediwa ke lefatshe .",
+        "Morwalela o mogolo o ne wa aparela lefatshe",
+        "Faro le masole a gagwe ba ne ba nwela",
+        "Dipota tsa motse di ne tsa phutlhama ka ntlha ya selelo"
+      ],
+      "answer": "Faro le masole a gagwe ba ne ba nwela"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

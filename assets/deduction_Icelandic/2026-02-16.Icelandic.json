@@ -1,0 +1,61 @@
+{
+  "title": "Krafan um algjört vald",
+  "intro": "Í fornöld reis voldugur einstaklingur upp til valda yfir víðáttumiklu landi og íbúum þess. Stjórnartíð þessarar persónu einkenndist af miklu stolti og djúpstæðri áskorun á guðdómlegu yfirvaldi. Búðu þig undir að afhjúpa hver sálin er sem varð varanleg lexía fyrir allar kynslóðir.",
+  "clues": [
+    "Ég réði yfir voldugu heimsveldi, þar sem orð mín voru lög.",
+    "Ég lýsti mig vera æðsta guðdóminn og krafðist tilbeiðslu frá öllum undir minni stjórn.",
+    "Ég kúgaði ákveðið samfélag, hneppti það í þrældóm og fyrirskipaði morð á ungbörnum þeirra, karlkyns.",
+    "Ég stóð ítrekað frammi fyrir auðmjúkum sendiboða Guðs, sem vann skýr kraftaverk fyrir framan mig og töframenn mína.",
+    "Ég hafnaði þrjóskulega sannleikanum, sakaði sendiboðann um galdra og að hafa lagt á ráðin um að tortíma honum og fylgjendum hans.",
+    "Ég og allur herinn minn vorum umkringdir sjónum er við eltum miskunnarlaust þá sem höfðu verið frelsaðir úr greipum mínum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Nimrod",
+        "Abú Jahl",
+        "Íblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Flóðið mikla",
+        "Brennandi eldurinn",
+        "Drukknun kúgarans",
+        "Eyðileggingin af völdum vinds",
+        "Jarðskjálftinn vantrúarinnar"
+      ],
+      "answer": "Drukknun kúgarans"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Örk Nóa",
+        "Stafur Móse",
+        "Gullna skurðgoðið",
+        "Brunnurinn í Zamzam",
+        "Hásæti Bilqis"
+      ],
+      "answer": "Stafur Móse"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Gefið víðfeðmt konungsríki",
+        "Líkaminn varðveittur sem tákn",
+        "Fyrirgefið eftir iðrun",
+        "Upphefður til spámannsdóms",
+        "Fólk hans varð guðhrædd"
+      ],
+      "answer": "Líkaminn varðveittur sem tákn"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

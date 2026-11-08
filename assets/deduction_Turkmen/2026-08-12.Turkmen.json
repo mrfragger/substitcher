@@ -1,0 +1,61 @@
+{
+  "title": "Rehim we Güýç Elçileri",
+  "intro": "Näbelli syýahatçylaryň gelmegi bilen bölünen asuda günortany göz öňüne getiriň. Olaryň keşbi adaty, ýöne maksady başgaça. Olar iki milletiň ýoluny üýtgedýän, çöl öýe gülki, günäkär şähere bolsa gorky getirjek ylahy habary alyp barýarlar. Bu syrly myhmanlar kimler?",
+  "clues": [
+    "Biz çäksiz myhmansöýerligi bilen tanalýan, Allanyň wepaly bir bendesiniň ýanyna iberildik.",
+    "Biz nätanyş adamlaryň keşbinde geldik, ýöne öý eýesi biziň bardygymyz barada başga bir dünýädäki zady duýdy.",
+    "Biz gartaşan aýalyň ynanmazlykdan gülmegine we haýran galyp, öz ýüzüne urmagyna sebäp bolan habary getirdik.",
+    "Bize korrupsiýa batyp giden şäheriň üstüne weýrançylyk ýagdyryp, dogruçyl maşgalany goramak wezipesi tabşyryldy.",
+    "Bize hödürlenen nahardan ýüz öwürdik, bu bolsa öý eýesiniň şübhesini has-da artdyrdy.",
+    "Biz diňe gitmezden öň hakyky tebigatymyzy açyp: \"Hakykatdan-da, biz seniň Rebbiňiň ilçileridiris\" diýdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Ybraýymyň myhmanlary",
+        "Isanyň şägirtleri",
+        "Gähriň ýoldaşlary",
+        "Abrahanyň goşuny",
+        "Ýa-Siniň ilçileri"
+      ],
+      "answer": "Ybraýymyň myhmanlary"
+    },
+    "trial": {
+      "label": "Biziň missiýamyz",
+      "options": [
+        "Ybraýymyň ogly baradaky imanyny synap görmek üçin",
+        "Mukaddes Ýazgylary Ybraýyma ýetirmek üçin",
+        "Yshagyň dogluşyny we Lutyň halkynyň ýok edilmegini yglan etmek üçin",
+        "Ybraýymy Käbä alyp barmak üçin",
+        "Ybraýymy otdan halas etmek üçin"
+      ],
+      "answer": "Yshagyň dogluşyny we Lutyň halkynyň ýok edilmegini yglan etmek üçin"
+    },
+    "location": {
+      "label": "Görünýän ýeri",
+      "options": [
+        "Müsür topragynda",
+        "Ur şäherinde",
+        "Ybraýymyň öýünde",
+        "Erem bagynda",
+        "Zemzem guýusynyň başynda"
+      ],
+      "answer": "Ybraýymyň öýünde"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ybraýym patyşa boldy",
+        "Ybraýym Käbäni gurdy",
+        "Sara Yshagy dünýä indi we Lutyň halky ýok edildi",
+        "Ybraýym Palestina göçdi",
+        "Ybraýymyň halky uly silden halas boldy"
+      ],
+      "answer": "Sara Yshagy dünýä indi we Lutyň halky ýok edildi"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "The Patient Soul of the Sacred House",
+  "intro": "In the pages of the Quran, a figure emerges from the lineage of a great prophet, granted as a gift in old age. This soul is celebrated for unwavering truthfulness and a profound role in establishing a sanctuary that would become a beacon of faith. As you read the clues, listen carefully to the voice from the past, for it speaks in the first person.",
+  "clues": [
+    "I am mentioned in the Quran alongside another prophet as a gift granted to an elderly messenger.",
+    "I was one of two offspring bestowed upon that prophet in his later years.",
+    "I am praised in the Quran for being true to my word.",
+    "I carried the honor of prophethood and was sent as a messenger.",
+    "I joined my father in raising the foundations of the Sacred House.",
+    "I am remembered as one of the patient ones, and the sacred house we built became a place of return and security for people."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Ismail",
+        "Prophet Ishaq",
+        "Prophet Yaqub",
+        "Prophet Zakariya",
+        "Prophet Yahya"
+      ],
+      "answer": "Prophet Ismail"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Raising the foundations of the Kaaba with Ibrahim",
+        "Being thrown into a fire",
+        "Being swallowed by a whale",
+        "Leading the Israelites out of Egypt",
+        "Building an ark"
+      ],
+      "answer": "Raising the foundations of the Kaaba with Ibrahim"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The Kaaba",
+        "Mount Sinai",
+        "The Red Sea",
+        "The Golden Calf",
+        "The Garden of Eden"
+      ],
+      "answer": "The Kaaba"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Counted among the patient",
+        "Counted among the wrongdoers",
+        "Counted among the magicians",
+        "Counted among the disbelievers",
+        "Counted among the hypocrites"
+      ],
+      "answer": "Counted among the patient"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

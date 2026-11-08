@@ -1,0 +1,61 @@
+{
+  "title": "Záhrada, ktorá zmizla cez noc",
+  "intro": "Predstavte si bujnú záhradu, obsypanú dozrievajúcim ovocím a obklopenú vysokými stromami. Tí, ktorí sa o ňu starali, sa považovali za múdrych a plánovali si úrodu v tichých hodinách pred úsvitom, ďaleko od očí tých, ktorí ju potrebovali. Ale Ten, ktorý nikdy nespí, mal s ich skrytou úrodou iné plány. Viete uhádnuť, kto stojí za týmto varovným príbehom z Koránu?",
+  "clues": [
+    "Kedysi sme mali záhradu tak bujnú a hojnú, že nám ju závideli všetci, ktorí prechádzali okolo.",
+    "Pri plánovaní sme si skoro ráno šepkali a vyhlasovali, že v ten deň nebude dovolené vstúpiť žiadnej núdznej duši.",
+    "Boli sme bohatí ľudia a naše srdcia oslepli voči právam chudobných okolo nás.",
+    "Keď nastal úsvit našej plánovanej úrody, priblížili sme sa k našej záhrade, len aby sme zistili, že sa cez noc premenila na sčernenú ruinu.",
+    "Prehnal sa zničujúci dekrét, po ktorom zostalo len popol na mieste, kde kedysi viseli strapce zrelého ovocia.",
+    "Náš príbeh je prísnym varovaním zaznamenaným v Koráne, kde sme známi ako majitelia záhrady, ktorí odopierali almužnu núdznym."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Majitelia záhrady",
+        "Ľudia z jaskyne",
+        "Učeníci Izáša",
+        "Lesní spoločníci",
+        "Hostia Ibrahima"
+      ],
+      "answer": "Majitelia záhrady"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Tajne zbiera ovocie a zakazuje vstup chudobným",
+        "Spanie po stáročia v jaskyni",
+        "Odmietnutie vyrobiť ťavu z kameňa",
+        "Uctievanie zlatého teľaťa na vrchu Sinaj",
+        "Stavba veľkej archy na únik pred potopou"
+      ],
+      "answer": "Tajne zbiera ovocie a zakazuje vstup chudobným"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Ohradená záhrada plná paliem a viníc",
+        "Tmavá jaskyňa hlboko v horách",
+        "Mesto zasiahnuté božským hurikánom",
+        "Posvätné údolie blízko domu Alaha",
+        "Brehy tečúcej rieky"
+      ],
+      "answer": "Ohradená záhrada plná paliem a viníc"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Záhradu pohltil spaľujúci výnos z neba",
+        "Pokojne spali 309 lunárnych rokov.",
+        "Rozdrvil ich dážď kameňov",
+        "Utopili sa pod vlnami veľkej potopy",
+        "Rozptýlil ich závan studeného, ​​zúrivého vetra"
+      ],
+      "answer": "Záhradu pohltil spaľujúci výnos z neba"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

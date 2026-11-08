@@ -1,0 +1,61 @@
+{
+  "title": "Ātrais troņa atnesējs",
+  "intro": "Varena valdnieka galmā tika izvirzīta neiespējama prasība, un daudzi sacentās, lai pierādītu savu vērtību. Tomēr šo uzdevumu varēja paveikt tikai tas, kura saikne ar dievišķajām zināšanām pārspēja jebkādu fizisko varenību, atklājot mirkli, kas atbalsosies cauri gadsimtiem.",
+  "clues": [
+    "Es dienēju diženam ķēniņam, kurš bija arī pravietis, un es biju viņa uzticamāko cilvēku lokā.",
+    "Es nebiju uguns radījums vai liela fiziska spēka būtne, bet manī bija kaut kas daudz spēcīgāks.",
+    "Kad karalis lūdza atvest troni no tālas zemes, es precīzi zināju, kas jādara.",
+    "Es runāju par zināšanām, ko ieguvu no Grāmatas, un, pirms kāds varēja reaģēt, tronis tika novietots karaļa priekšā.",
+    "Mana rīcība nebija manā paša spēkā, bet gan pierādījums tam, ka patiesās zināšanas nāk tikai no Allāha.",
+    "Es esmu tas, kurš acumirklī atveda Sābas karalienes troni, kā tas ir pierakstīts Sūrā An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tas, kurš zināja Grāmatu",
+        "Varenais džins Ifrits",
+        "Suleimanas pūpēdis",
+        "Pravietis Suleimans",
+        "Šebas karaliene"
+      ],
+      "answer": "Tas, kurš zināja Grāmatu"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sābas karalienes troņa ieņemšana acumirklī",
+        "Sarkanās jūras sadalīšana izraēliešiem",
+        "Kaabas celtniecība kopā ar savu dēlu",
+        "Izdzīvošana ugunīgajā krāsnī",
+        "Glābšanās no vaļa vēdera"
+      ],
+      "answer": "Sābas karalienes troņa ieņemšana acumirklī"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Bilkiša tronis",
+        "Musas personāls",
+        "Nū šķirsts",
+        "Namrudas uguns",
+        "Junusa valis"
+      ],
+      "answer": "Bilkiša tronis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Tronis acumirklī parādījās Sulaimana priekšā kā pateicības pārbaudījums.",
+        "Karaliene nekavējoties pieņēma islāmu",
+        "Džinns tika ieslodzīts par neveiksmi",
+        "Suleimans atteicās no savas karaļvalsts",
+        "Tronis tika salauzts gabalos"
+      ],
+      "answer": "Tronis acumirklī parādījās Sulaimana priekšā kā pateicības pārbaudījums."
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

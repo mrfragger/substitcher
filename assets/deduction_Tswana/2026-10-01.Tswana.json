@@ -1,0 +1,61 @@
+{
+  "title": "Go Buiwa go Nna Setshedi",
+  "intro": "Go tlhagelela setshwantsho mo hisitoring e e boitshepo, se tshotse dikgakgamatso tse di neng di sa dumalane le thulaganyo ya tlholego. Moya ono o ne wa goroga ka taelo e le nngwe fela ya bomodimo, wa sireletsa motsadi mo ditatofatsong tse di masisi, mme wa tswa mo lefatsheng leno pele ga dikeetane tsa selefatshe di ka ba bofa. Kgang e simolola mo sebopelong se se ikokobeditseng go ya kwa magodimong a a kwa godimo. Yono e ka tswa e le mang?",
+  "clues": [
+    "Ke rometswe e le pontsho le mohau ho tswa ho Allah ho Bana ba Iseraele.",
+    "Go goroga ga me go ne go sa tshwane le go gope ga pele — ke ne ka nna teng ka lefoko la bomodimo la 'Nna!' ntle le rre wa selefatshe.",
+    "Motsadi wa me o ne a lebana le go senngwa leina ka tsela e e setlhogo, mme tshenolo e e boitshepo e ne ya fologa go bolela gore ga ba na molato le go tsholetsa maemo a bone.",
+    "Jaaka lesea le le sa tswang go tsholwa, ke ne ke gakgamatsa batho ba ba neng ba le gaufi le nna ka go bua sentle ke le mo sebopelong sa me go phepafatsa leina la motsadi wa me.",
+    "Ka tetla ya ga Allah, ke ne ka bopa botshelo ka letsopa le le senang botshelo, ka dira gore difofu di bone, mme ka fodisa molepero ka go mo ama.",
+    "Ke ne ka tlhatlosiwa kwa magodimong pele ga kotsi e ka nkgoma, mme ke tla boela mo lefatsheng leno pele ga Ura ya bofelo e goroga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Isa",
+        "Moporofeti Musa",
+        "Moporofeti Ibrahime",
+        "Moporofeti Yusuf",
+        "Moporofeti Dawud"
+      ],
+      "answer": "Moporofeti Isa"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go bua ke le mo seatleng sa lesea",
+        "Go tshela mo mpeng ya tlhapi e kgolo",
+        "Go latlhelwa mo molelong o o tukang",
+        "Go aga araka e kgolo pele ga morwalela",
+        "Go lebana le boloi jwa kgotla ya ga Faro"
+      ],
+      "answer": "Go bua ke le mo seatleng sa lesea"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Injeel (Efangele)",
+        "Tawra (Tora)",
+        "Zabur (Dipesalema)",
+        "Suhuf (Memeno ya ga Ibrahime)",
+        "Lore lo lo kgaogantseng lewatle"
+      ],
+      "answer": "Injeel (Efangele)"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "A tlhatloseditswe kwa magodimong, a tla boa pele ga Letsatsi la Katlholo .",
+        "O eteletse Bana ba Iseraele pele go tswa kwa Egepeto",
+        "E ne ya nna kgosi e e nang le taolo mo godimo ga dijini, batho le dinonyane .",
+        "Falotse morwalela o mogolo le baikanyegi",
+        "O agile ntlo e e boitshepo kwa Mecca"
+      ],
+      "answer": "A tlhatloseditswe kwa magodimong, a tla boa pele ga Letsatsi la Katlholo ."
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

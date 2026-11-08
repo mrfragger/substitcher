@@ -1,0 +1,61 @@
+{
+  "title": "Gerçeğe Sarsılmaz Çağrı",
+  "intro": "İnatçı bir halkın arasında yalnız başına duran bir elçi, sahte putlara bağlı kalan halkı Tek Gerçek Tanrı'ya çağırıyor. Bu peygamberin adı, güçlü bir anlam taşıyor: 'korunma arayan'; ancak yalnızca reddedilme ve inkârla karşılaşıyor. Nazik ikna ve kararlı uyarı yoluyla, bu ruh, evrenin kendisinin nihayetinde doğrulayacağı ilahi bir mesaj taşıyor. İslam kutsal metinlerindeki en eski anlatılardan birini temsil eden bu kararlı figürü tanımlayabilir misiniz?",
+  "clues": [
+    "Halkım birçok tanrıya tapıyordu, oysa ben onları gökleri ve yeri yaratan Tek Tanrı'ya hizmet etmeye çağırdım.",
+    "Milletimin önünde durup, onlardan hiçbir ödül beklemeyeceğimi, tek arzumun onları doğru yola yönlendirmek olduğunu ilan ettim.",
+    "Halkımın üzerine ilahi bir ceza olarak büyük bir rüzgâr gönderildi; Kur'an bu rüzgârdan hem çoğul hem de dişil biçimde bahseder.",
+    "Bazı peygamberlerin aksine, benim görevim yalnızca halkımı çağırmak olduğundan, anlatımımda eşimden veya çocuklarımdan belirgin bir şekilde bahsedilmedi.",
+    "Adımın derin bir anlamı var; insanın aradığı koruma ve sığınma kavramıyla bağlantılı.",
+    "Halkım, yaşadıkları vadiye özgü coğrafi bir terimle tanınıyordu ve toprakları, özellikle bitki örtüsünün yokluğu nedeniyle küçümseniyordu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Hud",
+        "Peygamber Salih",
+        "Peygamber Şuayb",
+        "Peygamber Nuh",
+        "Peygamber Hudeyb"
+      ],
+      "answer": "Peygamber Hud"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "yeryüzünün tufanı",
+        "Kavurucu rüzgar",
+        "Yıkım depremi",
+        "Kuraklık ve kıtlık",
+        "denizde boğulma"
+      ],
+      "answer": "Kavurucu rüzgar"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yemen'in verimli vadisi",
+        "Midyan'ın kumlu çölü",
+        "Thamud'un kayalık vadisi",
+        "'Ad halkının kadim toprakları",
+        "Mısır'ın kıyı bölgesi"
+      ],
+      "answer": "'Ad halkının kadim toprakları"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Halkım tövbe etti ve cennete girdi.",
+        "Halkımdan hiç kimse bu cezadan sağ kurtulamadı.",
+        "Ben de tıpkı kardeşim Yunus gibi diri diri alındım.",
+        "Takipçilerimle birlikte mübarek bir diyara göç ettim.",
+        "Rüzgar sadece kâfirleri yok etti, müminler ise hayatta kaldı."
+      ],
+      "answer": "Halkımdan hiç kimse bu cezadan sağ kurtulamadı."
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

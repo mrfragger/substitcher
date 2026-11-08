@@ -1,0 +1,61 @@
+{
+  "title": "Il reietto del vitello d'oro",
+  "intro": "Una figura menzionata nel Corano ha sviato una grande moltitudine durante l'assenza di un nobile profeta. Un oggetto forgiato in oro ha conquistato i cuori di un'intera nazione, ma la storia di quest'individuo si conclude nella solitudine e in una strana maledizione. Chi sarà mai questo emarginato?",
+  "clues": [
+    "Sono emerso durante l'assenza di un grande profeta che era asceso per ricevere la guida divina.",
+    "Ho fatto sviare una grande moltitudine con qualcosa che ho creato con le mie stesse mani.",
+    "La creazione dorata che avevo realizzato sembrava avere vita propria, producendo suoni che ipnotizzavano chiunque la seguisse.",
+    "Sostenevo di aver visto ciò che gli altri non potevano percepire: uno scorcio dell'invisibile.",
+    "Ho tratto ispirazione dalle orme del messaggero divino e l'ho fusa in metallo.",
+    "Ero condannato a vagare da solo, con una maledizione unica: nessuno poteva toccare la mia pelle, né io potevo toccare la loro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraone (Fir'awn)",
+        "Abu Lahab",
+        "Profeta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Crearono un vitello d'oro per il culto",
+        "Costruii una torre che raggiungesse il cielo",
+        "Sfida gli stregoni d'Egitto",
+        "Ha guidato un esercito con bestie volanti",
+        "Dividere la luna come prova della profezia"
+      ],
+      "answer": "Crearono un vitello d'oro per il culto"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il vitello d'oro",
+        "Un bastone che si è trasformato in un serpente",
+        "Un roveto ardente su una montagna",
+        "Un'arca che riposa su una vetta",
+        "Una trincea piena di fiamme ardenti"
+      ],
+      "answer": "Il vitello d'oro"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Esiliato, gli è proibito essere toccato o toccare gli altri.",
+        "Annegato in mare insieme a un esercito",
+        "Bruciato vivo per aver rifiutato la fede",
+        "Colpito da un vento violento e ruggente",
+        "Perdonato ed elevato a una posizione elevata"
+      ],
+      "answer": "Esiliato, gli è proibito essere toccato o toccare gli altri."
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

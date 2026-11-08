@@ -1,0 +1,61 @@
+{
+  "title": "Gizli Hikmətin Xidmətçisi",
+  "intro": "Quran hekayələrinin genişliyində, ilahi elm və mərhəmətlə bəxş edilmiş Allahın bir qulu, sirli bir şəxsiyyət dayanır. Bu sirli şəxs ən böyük peyğəmbərlərdən biri ilə qarşılaşdı və bu, insan idrakının hüdudlarını şübhə altına alan çaşdırıcı hərəkətlərlə dolu bir səyahətə səbəb oldu. Hər bir hərəkət, zahirən ədalətsiz görünsə də, tale, səbir və ilahi qədərin arxasındakı görünməyən hikmət haqqında dərin dərslər gizlədirdi. Bu kölgəli şəxsiyyət kimdir və onlar hansı həqiqətləri ortaya çıxardılar?",
+  "clues": [
+    "Mən Allahın xüsusi elm və mərhəmət üçün seçilmiş bir qulu idim.",
+    "Böyük bir peyğəmbər məndən dərs almaq istədi və mən sərt şərtlər altında razılaşdım.",
+    "Görüşümüz zamanı yoldaşıma ədalətsiz görünən üç hərəkət etdim.",
+    "Kasıblara məxsus bir qayığa zərər verdim, amma bu, gizli bir mərhəmət idi.",
+    "Mən gənc bir oğlanın həyatına son qoydum, bu, qəddar görünsə də, valideynlərinin kədərini xilas etmək üçün idi.",
+    "Bizi qonaqpərvərliyə məhkum edən bir şəhərdə bir divar tikdim və onun altında bir xəzinə aşkar etdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "əl-Xızır (saleh bəndə)",
+        "İki bağçanın sahibi",
+        "Mağara Əhlindən Biri",
+        "İbrahimlə mübahisə edən padşah",
+        "100 il yatmış adam"
+      ],
+      "answer": "əl-Xızır (saleh bəndə)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İki dənizin qovşağında Musa peyğəmbərlə görüşmək",
+        "Yəcuc və Məcuc əleyhinə sədd çəkmək",
+        "Böyük bir atəşə atılmaq",
+        "Dənizi iki hissəyə bölmək",
+        "Tövrat lövhələrini almaq"
+      ],
+      "answer": "İki dənizin qovşağında Musa peyğəmbərlə görüşmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "İki dənizin qovşağı",
+        "Sina dağı",
+        "Səvr mağarası",
+        "Tuva vadisi",
+        "Zəmzəm quyusu"
+      ],
+      "answer": "İki dənizin qovşağı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "O, çaşdırıcı hərəkətlərinin arxasındakı ilahi hikməti izah etdi və Musa ilə yollarını ayırdı.",
+        "Səfərdən sonra ona peyğəmbərlik verildi.",
+        "Qayıq fırtına nəticəsində məhv olub",
+        "Oğlan həyata qaytarıldı",
+        "O, qonaqpərvər olmayan bir şəhərdə məscid tikdirdi"
+      ],
+      "answer": "O, çaşdırıcı hərəkətlərinin arxasındakı ilahi hikməti izah etdi və Musa ilə yollarını ayırdı."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

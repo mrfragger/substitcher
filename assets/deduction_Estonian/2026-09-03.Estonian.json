@@ -1,0 +1,61 @@
+{
+  "title": "Troon, mis rändas hetkega",
+  "intro": "Jõuka kuningriigi üle, mis oli õnnistatud mõõtmatu rikkusega, valitses tohutu autoriteediga isik. Ootamatu väljakutse tekkides seisis see valitseja silmitsi mitte mõõkade, vaid tarkuse ja usu katsumusega. See, mis lahti rullus, viis maise võimu tipust sügava südamemuutuseni.",
+  "clues": [
+    "Ma valitsesin kuningriiki, mis oli õnnistatud kujuteldamatu rikkuse ja õitsenguga",
+    "Olin võimas monarh, kes sai julge kirja, milles nõuti alistumist",
+    "Mu aadlikud andsid mulle nõu, kas võidelda või sõlmida rahu selle kauge kuningaga",
+    "Läksin ise selle kauge kuningaga kohtuma suurepäraste kingitustega",
+    "Mu kuninglik troon toodi silmapilguga kaugele maale, enne kui ma tagasi jõudsin",
+    "Kui ma sisenesin paleesse, mille põrand oli sile nagu klaas, kuulutasin lõpuks oma alistumist Allahile"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Bilqis, Seeba kuninganna",
+        "Vaarao naine",
+        "Al-Azizi naine",
+        "Maryam, Imrani tütar",
+        "Prohvet Luti naine"
+      ],
+      "answer": "Bilqis, Seeba kuninganna"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Julge kirja saamine, milles nõutakse alistumist",
+        "Lõõmavasse tulle heidetud",
+        "Suure kala poolt alla neelatud",
+        "Aastaid kestnud valus haigus",
+        "Inimeste hävingu tunnistajaks üleujutuse tagajärjel"
+      ],
+      "answer": "Julge kirja saamine, milles nõutakse alistumist"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Suurepärane kullast ja kalliskividest kuninglik troon",
+        "Personali, mis mere lahutas",
+        "Laev puhkab mäel",
+        "Püha kummardamiskoda Mekas",
+        "Kuldvasikas, keda rahvas kummardas"
+      ],
+      "answer": "Suurepärane kullast ja kalliskividest kuninglik troon"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Allahile alistumine koos prohvetiga",
+        "Merre uppumine vaenlase tagaajamise ajal",
+        "Imekombel lõõmavast tulekahjust pääsemine",
+        "Pagulus igavese õndsuse aiast",
+        "Tohutu võimuga kuningriigi saamine"
+      ],
+      "answer": "Allahile alistumine koos prohvetiga"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

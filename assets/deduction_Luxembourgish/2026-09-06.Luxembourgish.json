@@ -1,0 +1,61 @@
+{
+  "title": "Den Ausgestossenen vum Gëllene Kalb",
+  "intro": "Eng Figur, déi am Koran ernimmt gëtt, huet eng grouss Masse Leit an d'Ofwäichung bruecht, während engem noblen Prophet net do war. Eppes aus Gold gemaach, dat d'Häerzer vun enger ganzer Natioun ageholl huet - awer d'Geschicht vun dëser Persoun endet an der Einsamkeet an engem komesche Fluch. Wien kéint dësen Ausgestossenen sinn?",
+  "clues": [
+    "Ech sinn opgedaucht wärend der Absence vun engem grousse Prophet, deen opgestiegen war fir göttlech Féierung ze kréien.",
+    "Ech hunn eng grouss Masse Leit mat eppes, wat ech mat mengen eegenen Hänn gebastelt hunn, op de falsche Wee bruecht.",
+    "Déi gëllen Kreatioun, déi ech produzéiert hunn, schéngt Liewen ze hunn, a produzéiert Téin, déi déi, déi hir gefollegt sinn, faszinéiert hunn.",
+    "Ech hunn behaapt, gesinn ze hunn, wat anerer net konnten erkennen - e Bléck an dat Onsiichtbaart.",
+    "Ech hunn eppes aus de Spuere vum gëttleche Messenger gezunn an et a geschmollte Metall gegoss.",
+    "Ech war veruerteelt eleng ze wanderen, mat engem eenzegaartege Fluch, datt keen meng Haut beréiere däerf an ech och net hir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Pharao (Fir'awn)",
+        "Abu Lahab",
+        "Prophet Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "E gëllene Kalb fir d'Veréierung geschaf",
+        "En Tuerm gebaut, deen den Himmel erreecht",
+        "Huet d'Ägypter Zauberer erausgefuerdert",
+        "Huet eng Arméi mat fléiende Béischten ugefouert",
+        "De Mound als Beweis vun der Prophetschaft opdeelen"
+      ],
+      "answer": "E gëllene Kalb fir d'Veréierung geschaf"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Dat gëllent Kalb",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "E brennende Busch op engem Bierg",
+        "Eng Ark déi op engem Gipfel läit",
+        "E Gruef gefëllt mat brennendem Feier"
+      ],
+      "answer": "Dat gëllent Kalb"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Exiléiert, verbueden ugegraff ze ginn oder aner Leit unzeréieren",
+        "Am Mier zesumme mat enger Arméi erdronk",
+        "Lieweg verbrannt well se de Glawen ofgeleent huet",
+        "Vun engem gewaltegen, brüllenden Wand erofgeschloen",
+        "Verzeien an op eng héich Plaz erhuewen"
+      ],
+      "answer": "Exiléiert, verbueden ugegraff ze ginn oder aner Leit unzeréieren"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Kuao Kau Koura i Peia",
+  "intro": "Nā tētahi tangata i whakahuatia i roto i te Quran i ārahi te mano tini ki te hē i te ngaronga atu o tētahi poropiti rangatira. Nā tētahi mea i hangaia ki te koura i hopu ngā ngākau o tētahi iwi katoa — engari ka mutu te kōrero mō tēnei tangata i roto i te mokemoke me te kanga tauhou. Ko wai rā tēnei tangata i peia atu?",
+  "clues": [
+    "I puta mai ahau i te wā e ngaro atu ana tētahi poropiti nui i kake ki te whiwhi i te arataki a te Atua.",
+    "Nāku i he ai te mano tini ki tetahi mea i hanga e ōku ake ringaringa.",
+    "Te āhua nei he ora te mea koura i hangaia e au, ā, i puta mai he oro i miharo ai te hunga i whai i a ia.",
+    "I kī ahau kua kite ahau i ngā mea kāore e taea e ētahi atu te kite — he tirohanga ki te mea kāore e kitea.",
+    "I unuhia e ahau tetahi mea i ngā tapuwae o te karere atua, ā, maka ana e ahau ki roto ki te konganuku rewa.",
+    "I whiua ahau kia kopikopiko ko au anake, me te kanga ahurei e kore e taea e tetahi te pa ki toku kiri, e kore hoki ahau e pa ki o ratou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Hāmiri",
+        "Hāmana",
+        "Parao (Fir'awn)",
+        "Āpu Rāhapi",
+        "Poropiti Salih"
+      ],
+      "answer": "Hāmiri"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I hanga he kuao kau koura hei karakia",
+        "I hanga he pourewa e anga atu ana ki te rangi",
+        "I wero i ngā tohunga makutu o Ihipa",
+        "I ārahi i tētahi ope taua me ngā kararehe rere",
+        "Wehea te marama hei tohu o te poropititanga"
+      ],
+      "answer": "I hanga he kuao kau koura hei karakia"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te kuao kau koura",
+        "He tokotoko i huri hei nakahi",
+        "He rakau e mura ana i runga i te maunga",
+        "He āaka e takoto ana i runga i te tihi",
+        "He awaawa kī tonu i te ahi mura"
+      ],
+      "answer": "Te kuao kau koura"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I pei atu, i āraia kia kaua e pā atu, e pā atu rānei ki ētahi atu",
+        "I toremi ki te moana me te ope taua",
+        "I tahuna oratia mō te whakakāhore i te whakapono",
+        "I pāngia e te hau kaha, e haruru ana",
+        "Kua murua, ā, kua whakaarahia ki te tūranga teitei"
+      ],
+      "answer": "I pei atu, i āraia kia kaua e pā atu, e pā atu rānei ki ētahi atu"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

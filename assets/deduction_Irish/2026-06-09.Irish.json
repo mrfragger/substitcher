@@ -1,0 +1,61 @@
+{
+  "title": "An Glaoiteoir Gan Chlaonadh chun na Fírinne",
+  "intro": "Seasann teachtaire ina aonar i measc daoine ceanndána, ag glaoch orthu i dtreo an Aon Dia Fíor amháin agus iad fós ceangailte le hiodail bhréagacha. Tá ainm ag an bhfáidh seo a bhfuil brí chumhachtach leis - 'an té a lorgaíonn cosaint' - ach ní fhaigheann sé ach diúltú agus séanadh. Trí mheon milis agus rabhadh daingean, iompraíonn an t-anam seo teachtaireacht dhiaga a dhaingneoidh an chruinne féin sa deireadh. An féidir leat an figiúr daingean seo a aithint a léiríonn ceann de na scéalta is sine i scrioptúr Ioslamach?",
+  "clues": [
+    "D’adhraigh mo mhuintir go leor déithe, agus ghlaoigh mé orthu freastal ar an té a chruthaigh na flaithis agus an talamh.",
+    "Sheas mé os comhair mo náisiúin agus dhearbhaigh mé nach mbeadh aon luach saothair á lorg agam uathu—ní raibh uaim ach a dtreoir chun na fíréantachta.",
+    "Seoladh gaoth mhór ar mo mhuintir mar phionós diaga, gaoth a labhraíonn an Corán fúithi i bhfoirmeacha iolra agus baininscneacha araon.",
+    "Murab ionann agus roinnt fáithe, níor tugadh bean chéile ná clann dom a luadh go feiceálach i mo scéal, óir ba é mo mhisean glaoch ar mo mhuintir amháin.",
+    "Tá brí dhomhain le m'ainm—a bhaineann leis an gcoincheap maidir le cosaint agus tearmann a lorgaíonn duine.",
+    "Bhí téarma geografach ar leith ar mo mhuintir don ghleann inar chónaigh siad, agus rinneadh cur síos ar a dtír le drochmheas ar leith mar gheall ar an easpa fásra ann."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Hud",
+        "Fáidh Salih",
+        "Fáidh Shu'aib",
+        "Fáidh Nuh",
+        "Fáidh Hudayb"
+      ],
+      "answer": "Fáidh Hud"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Tuile na talún",
+        "An ghaoth loiscneach",
+        "Crith talún an scriosta",
+        "An triomach agus an gorta",
+        "An báthadh sa bhfarraige"
+      ],
+      "answer": "An ghaoth loiscneach"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gleann thorthúil na hÉimin",
+        "Fásach gainmheach Midian",
+        "Gleann creagach an Thamud",
+        "Tír ársa mhuintir 'Ad",
+        "Réigiún cósta na hÉigipte"
+      ],
+      "answer": "Tír ársa mhuintir 'Ad"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinne mo mhuintir aithrí agus chuaigh siad isteach i bparthas",
+        "Níor mhair aon duine de mo mhuintir an pionós",
+        "Tógadh suas mé beo cosúil le mo dheartháir Yunus",
+        "D’imigh mé le mo lucht leanúna go dtí tír bheannaithe",
+        "Níor scrios an ghaoth ach na neamhchreidmhigh agus mhair na creidmhigh"
+      ],
+      "answer": "Níor mhair aon duine de mo mhuintir an pionós"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

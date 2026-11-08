@@ -1,0 +1,61 @@
+{
+  "title": "Ýatyr galanlaryň niýaty",
+  "intro": "Siz iň çuňňur aýralyk bilen synag edilen, gözleri gözýaş dilini bilýän, ýöne ýüregi hiç haçan umydyny ýitirmedik bir ruh bilen duşuşmaga taýýarsyňyz. Aldaw, arzuw we ahyrsoňy gaýtadan duşuşmak baradaky hekaýada Allanyň bu asylly bendesi ähli döwürler üçin sabyrlylygyň simwolyna öwrüldi. Gizlin agyrylaryň ýyllaryna çydap, diňe bir pursatda göze görünýän we şatlyk dikeldilen kim?",
+  "clues": [
+    "Men uly ýitginiň öňünde ady sabyrlylygyň nyşanyna öwrülen pygamber.",
+    "Men köp ogul bilen bereketlendim, ýöne başgalaryň göripligi sebäpli birini menden aldym.",
+    "Ýiten adama bolan söýgim şeýle çuňňurdy welin, gözlerim gaýgydan akardy, ýöne men hiç haçan şikaýat etmedim, diňe Alladan başga.",
+    "Men ogullarymy ýitiren adamymy we onuň doganyny gözlemek üçin yzyna iberdim we olara umydyny üzmezligi haýyş etdim.",
+    "Hoş habar getirýän gelende, ýüzüme köýnek atyldy we birden dünýä ýene-de aýdyňlaşdy.",
+    "Men Ysraýyl hökmünde tanalýaryn we meniň on iki oglumdan uly milletiň on iki taýpasy gelip çykdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ýakup pygamber (Ýakup)",
+        "Ýusup pygamber (Ýusup)",
+        "Yshak pygamber (Ishak)",
+        "Ybraýym pygamber (Abraham)",
+        "Eýýup pygamber (Eýýup)"
+      ],
+      "answer": "Ýakup pygamber (Ýakup)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Söýgüli oglundan köp ýyllap aýrylyşmak",
+        "Ýanýan oda taşlanmak",
+        "Uly balyk tarapyndan ýuwudyldy",
+        "Agyr deri keselinden ejir çekýär",
+        "Garrylyk ýaşyna çenli çagasyz bolmak"
+      ],
+      "answer": "Söýgüli oglundan köp ýyllap aýrylyşmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýusubyň köýnegi",
+        "Musanyň taýagy",
+        "Nuhyň gämisi",
+        "Salihiň düýesi",
+        "Süleýmanyň ýüzügi"
+      ],
+      "answer": "Ýusubyň köýnegi"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Görmegi dikeldildi we ogly bilen gaýtadan duşuşdy",
+        "Zalym patyşadan ýeňiş gazanyldy",
+        "Diri göklere göterildi",
+        "Müsüriň hökümdary wezipesine bellendi",
+        "Garrylykda ogul berlende gudrat hökmünde"
+      ],
+      "answer": "Görmegi dikeldildi we ogly bilen gaýtadan duşuşdy"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

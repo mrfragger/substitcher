@@ -1,0 +1,61 @@
+{
+  "title": "La sorgente sotto la sabbia",
+  "intro": "Negli annali del Corano, una figura di immensa pazienza affrontò una prova che avrebbe spezzato anche i cuori più duri. Tutto le fu tolto: ricchezze, famiglia e salute. Eppure, dalle profondità della disperazione, un'umile preghiera trovò risposta nel modo più inaspettato. Sapreste identificare quest'anima la cui storia di rinascita risuona attraverso i secoli?",
+  "clues": [
+    "Sono stato messo alla prova da una prova così dura che verrà ricordata nei secoli.",
+    "Ho perso tutto ciò che contava: il mio patrimonio, i miei figli e la mia salute.",
+    "Il mio corpo era ricoperto di piaghe dolorose e tutti mi evitavano.",
+    "Nella mia disperazione, ho invocato Allah, dicendo che Satana mi aveva colpito con difficoltà e tormenti.",
+    "Allah mi ha risposto e mi ha comandato di colpire la terra con il piede.",
+    "Proprio da quel luogo sgorgò una fresca sorgente, e Allah ristabilì la mia famiglia e la raddoppiò per misericordia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Ayyub",
+        "Profeta Mosè",
+        "Il profeta Ilia",
+        "Profeta Sulayman",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Malattia grave e perdita di familiari e beni",
+        "Essere inghiottito da una grande balena",
+        "Esilio dalla città della Mecca",
+        "Prigionia in un pozzo profondo",
+        "Confronto con un sovrano arrogante"
+      ],
+      "answer": "Malattia grave e perdita di familiari e beni"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una fresca sorgente che sgorga dalla terra",
+        "Una barca su una grande alluvione",
+        "Un bastone che ha spaccato il mare",
+        "Un trono di vetro rialzato",
+        "Una grotta murata per dormire"
+      ],
+      "answer": "Una fresca sorgente che sgorga dalla terra"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Famiglia e ricchezza restaurate e raddoppiate",
+        "Uscita dalla pancia di un pesce",
+        "Passaggio sicuro attraverso le acque divise",
+        "Un regno destinato a governare",
+        "La nascita miracolosa di un figlio in tarda età"
+      ],
+      "answer": "Famiglia e ricchezza restaurate e raddoppiate"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

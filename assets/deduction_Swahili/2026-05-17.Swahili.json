@@ -1,0 +1,61 @@
+{
+  "title": "Wasanifu wa Mawe",
+  "intro": "Hebu fikiria ustaarabu wenye nguvu, uliojaa nguvu na ujuzi, ukichonga makazi makubwa kwenye vilima. Kundi hili lilikuwa na ustawi mkubwa na ustadi wa kipekee wa usanifu. Hata hivyo, licha ya kupokea maonyo yaliyo wazi, walichagua njia ambayo ingeongoza kwenye hitimisho la kushangaza na lisilosahaulika. Je, unaweza kutambua kundi hili ambalo hadithi yake ni somo kubwa kwa wote wanaotafakari?",
+  "clues": [
+    "Tulipewa nguvu na ujuzi, na kutuwezesha kuchonga nyumba nzuri moja kwa moja milimani.",
+    "Tulipewa ishara iliyo wazi kutoka kwa Mwenyezi Mungu, kiumbe wa kipekee ambaye alipaswa kuachwa bila usumbufu ili achunge.",
+    "Jumuiya yetu ikawa na kiburi, ikipinga ujumbe wa Mungu ulioletwa na mjumbe kutoka miongoni mwetu.",
+    "Tulipanga njama ya kuidhuru ishara ya muujiza, licha ya maonyo ya adhabu kali.",
+    "Tulipuuza amri ya kumruhusu kiumbe huyo maalum kunywa kutoka kwenye kisima chetu kwa siku mbadala.",
+    "Tulikutana na mwisho mbaya, tukipigwa na mlipuko mmoja wa kutisha baada ya tendo letu la uasi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Watu wa 'Ad",
+        "Watu wa Midiani",
+        "Watu wa Tembo",
+        "Watu wa Thamud",
+        "Watu wa Lut"
+      ],
+      "answer": "Watu wa Thamud"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio Letu Kuu",
+      "options": [
+        "Mafuriko yaliyoifunika nchi",
+        "Kugawanyika kwa bahari",
+        "Uharibifu kwa mlipuko/kelele moja",
+        "Kuungua kwa mji",
+        "Kugeuka kwa mlima kuwa vumbi"
+      ],
+      "answer": "Uharibifu kwa mlipuko/kelele moja"
+    },
+    "location": {
+      "label": "Kipengele Muhimu katika Hadithi Yetu",
+      "options": [
+        "Ndama wa dhahabu",
+        "Ngamia jike wa kimiujiza",
+        "Kichaka kinachowaka moto",
+        "Ndege anayezungumza",
+        "Kiti cha enzi chenye fahari"
+      ],
+      "answer": "Ngamia jike wa kimiujiza"
+    },
+    "outcome": {
+      "label": "Matokeo Yetu ya Mwisho",
+      "options": [
+        "Imepewa utajiri na nguvu nyingi",
+        "Kuinuliwa hadi unabii",
+        "Kuangamizwa kabisa kwa adhabu ya kimungu",
+        "Kusamehewa baada ya toba ya dhati",
+        "Imetawanyika duniani kote ili kutangatanga"
+      ],
+      "answer": "Kuangamizwa kabisa kwa adhabu ya kimungu"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

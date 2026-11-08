@@ -1,0 +1,61 @@
+{
+  "title": "Kutsal Alevin Yargılanması",
+  "intro": "Oyma taşlara olan bağlılığın her evde kök saldığı kadim bir diyarda, bir kişi diğerlerinden farklıydı. Sarsılmaz inancı ve ilahi koruması sayesinde, kesin ölüm olması gereken bir durumla yüzleşti ve yara almadan kurtuldu. Bu olağanüstü ruhun kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Ben, kendi elleriyle oydukları putlara tapan ve bu nesnelerin ilahi bir güce sahip olduğuna inanan bir halkın arasında büyüdüm.",
+    "Onların inançlarına meydan okuduğumda, önce beni ciddiye almadılar, ama bildiğim gerçek hakkında sessiz kalamazdım.",
+    "Bir gün, onlar bir araya toplanmışken, en büyüğü hariç tüm putlarını yıktım.",
+    "Geri döndüklerinde yaptıklarımı görünce, liderleri beni ateşe atmak amacıyla büyük bir odun yığını inşa edilmesini emretti.",
+    "Beni alev alev yanan ateşin içine attılar, fakat âlemlerin Rabbi, ateşin benim için soğumasını ve güvenli hale gelmesini emretti.",
+    "Alevlerin arasından tamamen yara almadan çıktım, oysa bana karşı komplo kuranlar tam bir yıkımla karşı karşıya kaldılar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İbrahim",
+        "Peygamber Musa",
+        "Peygamber Nuh",
+        "Peygamber İsa",
+        "Peygamber Yusuf"
+      ],
+      "answer": "Peygamber İbrahim"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Alev alev yanan bir ateşe atılmak",
+        "Büyük bir balina tarafından yutulmak",
+        "Büyük bir selden sağ kurtulmak",
+        "derin bir kuyuya atılmak",
+        "Kralın sihirbazlarıyla yüzleşmek"
+      ],
+      "answer": "Alev alev yanan bir ateşe atılmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yanan odunlardan oluşan devasa bir yığın.",
+        "Büyük bir ahşap gemi",
+        "Altın buzağı heykeli",
+        "Nehirde yüzen bir sepet",
+        "Muhteşem bir taht"
+      ],
+      "answer": "Yanan odunlardan oluşan devasa bir yığın."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Allah ateşi serin ve güvenli kıldı.",
+        "Nuh'un gemisi güvenli bir şekilde bir dağa indi.",
+        "Altın put gözlerinin önünde eridi.",
+        "Bir tiran ve ordusu denizde boğuldu.",
+        "Görme engelli bir adamın görme yetisi geri kazandırıldı."
+      ],
+      "answer": "Allah ateşi serin ve güvenli kıldı."
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

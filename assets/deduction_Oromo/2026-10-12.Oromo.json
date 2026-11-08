@@ -1,0 +1,61 @@
+{
+  "title": "Dhaadannoo Warra Hin Dhalanne",
+  "intro": "Lubbuun garaa qulqulluun osoo daa’imni hin dhufin waadaa qulqulluu galte. Seenaan fakkii kanaa dallaa mana qulqulluu tokkoo keessatti kan mul’atu yoo ta’u, bakka of kennuu fudhatama waaqaatiin wal argu. Gabrichi Rabbii kun eenyu?",
+  "clues": [
+    "Maatii Qur'aana keessatti kabajame keessaa ture.",
+    "Mucaa koo isa garaa keessa jiru tajaajila Rabbiif akkan of kennu waadaa cimaa seene.",
+    "Yeroon deessu ilma eegee ture ta'us intala ta'uu ishee argachuun na ajaa'ibe.",
+    "Mucaa koo maqaa of kennuu fi tajaajila calaqqisiisu Maariyaam jedheen moggaase.",
+    "Mucaa koo fi sanyii isheetiif eegumsa Rabbii sheyxaana abaaramaa irraa barbaade.",
+    "Mucaan koo Gooftaan fudhatama argatee kunuunsa Nabi Zakaariyaa jala bakka qulqulluutti galfame."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Haadha manaa Imraan (Haadha Maariyaam) .",
+        "Asiya, haadha manaa Fara'oon",
+        "Maariyaam haadha Isa",
+        "Haadha Nabi Muusaa",
+        "Mootittii Sheebaa"
+      ],
+      "answer": "Haadha manaa Imraan (Haadha Maariyaam) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Mucaa ishee mana qulqullummaaf akka kennitu dhaadachuu",
+        "Ibiddatti darbatamuu",
+        "Lafa gogaa irratti galaana qaxxaamuruu",
+        "Taabota guddaa ijaaruu",
+        "Qurxummii guddaa tokkoon liqimfamuu"
+      ],
+      "answer": "Mucaa ishee mana qulqullummaaf akka kennitu dhaadachuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Iddoo qulqulluu (mihrab) mucaan ishee itti kaa'ame",
+        "Taabota kakuu",
+        "Re'ee warqee",
+        "Ulee gara bofaatti jijjiirame",
+        "Damee isheen jala boqotte"
+      ],
+      "answer": "Iddoo qulqulluu (mihrab) mucaan ishee itti kaa'ame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Mucaan ishee fudhatama argatee kunuunsa Nabi Zakaariyaa jala galfame",
+        "Adabbii gabroomfataa jalaa baraarte",
+        "Ilma Yahya jedhamu isheef kenname",
+        "Sabni ishee obomboleettiidhaan barbadaa’e",
+        "Mootummaa guddaa tokko irratti mootittii taate"
+      ],
+      "answer": "Mucaan ishee fudhatama argatee kunuunsa Nabi Zakaariyaa jala galfame"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

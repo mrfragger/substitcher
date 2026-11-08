@@ -1,0 +1,61 @@
+{
+  "title": "Ububele obabuzisa uloyiko",
+  "intro": "Kwisixeko esasigcwele ububi, umkhonzi othembekileyo wamkela iindwendwe ezingalindelekanga ngenye imini. Exhalabele ukhuseleko lwabo, lo mntu wanikela ngokhuseleko, kodwa abantu besixeko bafuna into ehlazisayo. Elumkisiwe ngentshabalalo ezayo, umkhonzi wabaleka nosapho lwakhe ebumnyameni, eshiya ngasemva isixeko esiphawulelwe intshabalalo. Ngubani lo ukholwayo yedwa?",
+  "clues": [
+    "Ndathunywa njengomthunywa kubantu ababenze izenzo ezihlazisayo.",
+    "Iindwendwe ebezingalindelekanga zeza ekhayeni lam, kwaye bendixhalabele ukhuseleko lwazo ngaphezu kolwam.",
+    "Abantu bam bafuna ukubona iindwendwe zam ngeenjongo ezimbi, ndaza ndazama ukuqiqa nazo.",
+    "Iindwendwe zam zaziveza njengeengelosi zaza zandiyalela ukuba ndithathe usapho lwam ndihambe ebusuku.",
+    "Umfazi wam akazange aphulaphule ubizo lokubaleka waza wajamelana nentshabalalo efanayo nabantu basekhaya.",
+    "Isixeko sam sabhukuqwa yimvula yamatye odongwe olunezitena, iindawo zaso eziphakamileyo zehla zaba zezona ziphantsi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uLut",
+        "Umprofeti uMusa",
+        "Umprofeti uIbrahim",
+        "Umprofeti uNuh",
+        "Umprofeti uHud"
+      ],
+      "answer": "Umprofeti uLut"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Imfuneko yabantu bam yokusondela kwiindwendwe zam ngolunya",
+        "Ukuqhekeka kolwandle ukuze kuphunyuke umtyholi",
+        "Ukwakhiwa komkhombe omkhulu phakathi kokugculelwa",
+        "Umnikelo wonyana wam kuvavanyo lokholo",
+        "Amava okuginywa yintlanzi enkulu"
+      ],
+      "answer": "Imfuneko yabantu bam yokusondela kwiindwendwe zam ngolunya"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isixeko sabantu bam esibhukuqiweyo",
+        "Intaba apho ndafumana khona intetho kaThixo",
+        "Umkhombe owadlula kumkhukula omkhulu",
+        "Inkamela yemazi eyaphuma eliweni",
+        "Igadi enondwendwe olulilungisa olufihliweyo"
+      ],
+      "answer": "Isixeko sabantu bam esibhukuqiweyo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ndasindiswa kunye nosapho lwam ngaphambi kokuba isixeko sam sibhukuqwe",
+        "Ndikhokelele abantu bam enkululekweni ngaphesheya kolwandle",
+        "Ndakha umkhombe omkhulu ndaza ndasinda kumkhukula omkhulu",
+        "Ndinikwe ulawulo phezu kwemimoya neejinn",
+        "Ndanyamezela ubunzima ngomonde ndaza ndavuzwa ngosapho"
+      ],
+      "answer": "Ndasindiswa kunye nosapho lwam ngaphambi kokuba isixeko sam sibhukuqwe"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

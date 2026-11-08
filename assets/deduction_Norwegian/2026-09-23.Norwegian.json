@@ -1,0 +1,61 @@
+{
+  "title": "Kallet som tålte evigheter",
+  "intro": "Tenk deg en sjel som sto alene mot en hel sivilisasjon, fast bestemt på å lede dem tilbake fra villfarelse med urokkelig besluttsomhet. I århundrer ble budskapet avvist, hånet og avvist – men innsatsen opphørte aldri. Til slutt kom en stor oppgjør, og bare noen få kom til frelse ved siden av denne standhaftige sjelen. Kan du identifisere denne figuren fra Koranen?",
+  "clues": [
+    "Jeg ble sendt som en advarer til et folk som var fortapt på sine egne veier.",
+    "Jeg oppfordret dem til å søke tilgivelse og vende om fra sine feil, men de vendte seg bort.",
+    "Under guddommelig befaling konstruerte jeg et massivt fartøy mens folket mitt så på og latterliggjorde meg.",
+    "Jeg påkalte min Herre uopphørlig – til slutt svarte Han, og vann strømmet fra himmelen i strømmer.",
+    "Jeg gikk om bord i fartøyet med de troende da flomvannet steg over land.",
+    "Jeg ropte til en som hadde blitt igjen og ba dem søke tilflukt på et fjell, men befalingen var allerede vedtatt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Nuh",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Hud",
+        "Profeten Salih"
+      ],
+      "answer": "Profeten Nuh"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Å bygge en stor ark og overleve en verdensomspennende flom",
+        "Å bli kastet inn i en flammende ild",
+        "Konfrontasjon med en tyrann og hans mektige magikere",
+        "Å bli slukt av en stor fisk",
+        "Vitne til drapet på en hellig hunnkamel"
+      ],
+      "answer": "Å bygge en stor ark og overleve en verdensomspennende flom"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En massiv treark på rasende flomvann",
+        "En hellig dal med gamle steinruiner",
+        "En dyp hule hvor ledsagere sov i århundrer",
+        "Magen til en gigantisk hval i havets dyp",
+        "Et ruvende fjell av stein i villmarken"
+      ],
+      "answer": "En massiv treark på rasende flomvann"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Frelset med de troende om bord på skipet",
+        "Reddet uskadd fra brannen gjennom guddommelig befaling",
+        "Ledet en stor utvandring fra et mektig kongerike",
+        "Kastet ut fra fisken på en gold strand",
+        "Ledet folk bort fra urettferdighet gjennom et mirakuløst tegn"
+      ],
+      "answer": "Frelset med de troende om bord på skipet"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

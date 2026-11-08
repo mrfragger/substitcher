@@ -1,0 +1,61 @@
+{
+  "title": "Moya-xiviri wa Yindlu yo Kwetsima",
+  "intro": "Eka matluka ya Quran, xifaniso xi huma eka rixaka ra muprofeta lonkulu, loyi a nyikiwaka tanihi nyiko loko a dyuharile. Moya lowu wu tlangeriwa hikwalaho ka ntiyiso lowu nga tsekatsekiki ni xiphemu lexikulu eku simekeni ka ndhawu yo kwetsima leyi a yi ta va rivoni ra ripfumelo. Loko u ri karhi u hlaya swikombiso, yingisela hi vukheta rito leri humaka enkarhini lowu hundzeke, hikuva ri vulavula hi munhu wo sungula.",
+  "clues": [
+    "Ndzi boxiwile eka Quran etlhelo ka muprofeta un’wana tanihi nyiko leyi nyikiweke murhumiwa la dyuhaleke.",
+    "A ndzi ri un’wana wa vana vambirhi lava nyikiweke muprofeta yoloye emalembeni yakwe ya le ndzhaku.",
+    "Ndzi dzunisiwa eka Quran hi ku va ndzi ri ntiyiso eka rito ra mina.",
+    "Ndzi rhwale ku xiximiwa ka vuprofeta naswona ndzi rhumeriwe tanihi murhumiwa.",
+    "Ndzi joyine tatana eku tlakuseni ka masungulo ya Yindlu yo Kwetsima.",
+    "Ndzi tsundzukiwa tanihi un’wana wa lava lehisaka mbilu, naswona yindlu yo kwetsima leyi hi yi akeke yi hundzuke ndhawu yo vuyela ni ku sirheleleka eka vanhu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Ismail",
+        "Muprofeta Ishaq",
+        "Muprofeta Yaqub",
+        "Muprofeta Zakariya",
+        "Muprofeta Yahya"
+      ],
+      "answer": "Muprofeta Ismail"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku tlakusa masungulo ya Kaaba na Ibrahim",
+        "Ku lahleriwa endzilweni",
+        "Ku mitiwa hi whale",
+        "Ku rhangela Vaisrayele ku huma aEgipta",
+        "Ku aka ngalava"
+      ],
+      "answer": "Ku tlakusa masungulo ya Kaaba na Ibrahim"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Va kaaba",
+        "Ntshava ya Sinayi",
+        "Lwandle ro Tshwuka",
+        "Rhole ra Nsuku",
+        "Ntanga wa Edeni"
+      ],
+      "answer": "Va kaaba"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku hlayiwa exikarhi ka muvabyi",
+        "Ku hlayiwa exikarhi ka vadyohi",
+        "Ku hlayiwa exikarhi ka vangoma",
+        "Ku hlayiwa exikarhi ka lava nga pfumeriki",
+        "Ku hlayiwa exikarhi ka vakanganyisi"
+      ],
+      "answer": "Ku hlayiwa exikarhi ka muvabyi"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

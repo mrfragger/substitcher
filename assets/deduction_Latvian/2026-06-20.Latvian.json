@@ -1,0 +1,61 @@
+{
+  "title": "Izraidītais no dārza",
+  "intro": "Noslēpumaina būtne reiz mājoja radības augstākajos slāņos, tuvāk dievišķajam, nekā daudzi spēja aptvert. Tomēr lepnums iesakņojās, un viena nepakļaušanās rīcība mainīja eksistences gaitu. Tagad šī būtne klīst kā zvērēts ienaidnieks, čukstot un kaldinot viltības, līdz pienāk apsolītā diena. Vai vari atklāt šīs kritušās būtnes identitāti?",
+  "clues": [
+    "Reiz es biju starp tiem, kas bija vistuvāk Dievišķajai klātbūtnei, pacelts pāri lielai daļai radības.",
+    "Es tiku radīts no dedzinoša elementa, nevis no zemes vai māla.",
+    "Kad man pavēlēja paklanīties jauna radījuma priekšā, es atteicos — vadīts, manuprāt, sava pārākuma.",
+    "Mani izraidīja un nolādēja, bet galu galā man tika piešķirta atlikšana līdz zināmam, noteiktam laikam.",
+    "Es zvērēju maldināt pēc iespējas vairāk cilvēku, tuvojoties Ādama pēcnācējiem no visām pusēm.",
+    "Esmu atklāts, pasludināts visas cilvēces ienaidnieks, vienmēr plānojot un čukstot līdz nolemtajam galam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Iblis",
+        "Haruts",
+        "Samiri",
+        "Pravietis Iļja",
+        "Abu Lahābs"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Izmēģinājums / pasākums",
+      "options": [
+        "Atteikšanās paklanīties Ādama priekšā",
+        "Zelta teļa celtniecība, lai cilvēki to pielūgtu",
+        "Mācot burvestības Babilonas iedzīvotājiem",
+        "Jūras sadalīšana ar nūju",
+        "Vienā mirklī pārņemot Sābas karalienes troni"
+      ],
+      "answer": "Atteikšanās paklanīties Ādama priekšā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Ēdenes dārzs",
+        "Tūras kalns",
+        "Rasas aka",
+        "Faraona pils",
+        "Guļošo ala"
+      ],
+      "answer": "Ēdenes dārzs"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Atelpa piešķirta līdz Tiesas dienai",
+        "Noslīka jūrā kopā ar armiju",
+        "Apglabāts dzīvs zem sabrūkošas pils",
+        "Pārveidojies par pērtiķi vai pērtiķi",
+        "Pacelts augstākā amatā"
+      ],
+      "answer": "Atelpa piešķirta līdz Tiesas dienai"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

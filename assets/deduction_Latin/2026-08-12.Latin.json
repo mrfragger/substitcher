@@ -1,0 +1,61 @@
+{
+  "title": "Legati Misericordiae et Virtutis",
+  "intro": "Finge tibi quietam pomeridianam adventu viatorum ignotorum interruptam. Aspectus eorum vulgaris est, sed propositum eorum nihil aliud. Nuntium divinum portant qui cursum duarum nationum mutabit, risum domui sterili et terrorem urbi peccatrici afferens. Quinam sunt hi hospites arcani?",
+  "clues": [
+    "Missi sumus ad devotum servum Allah, ob infinitam hospitalitatem notum.",
+    "Habitu ignotorum advenimus, attamen hospes noster aliquid praeter mundanum in praesentia nostra sensit.",
+    "Nuntium attulimus qui anus incredula risum movit, vultum suum prae stupore percutiens.",
+    "Nobis mandatum erat familiam iustam protegere dum cladem in urbem corruptione imbutam infundimus.",
+    "Cena nobis oblatā participare recusavimus, quod suspicionem hospitis nostri tantum auxit.",
+    "Veram nostram naturam tantum ante discessum revelavimus, dicentes, \"Vere nuntii Domini tui sumus.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Hospites Abrahami",
+        "Discipuli Iesu",
+        "Socii Speluncae",
+        "Exercitus Abrahae",
+        "Nuntii Ya-Sin"
+      ],
+      "answer": "Hospites Abrahami"
+    },
+    "trial": {
+      "label": "Missio Nostra",
+      "options": [
+        "Ad fidem Abrahae de filio suo probandam",
+        "Ad tradendam scripturam Abrahamo",
+        "Ad nuntiandum ortum Isaac et exitium populi Loth",
+        "Ad Abrahamum ad Kaaba ducendum",
+        "Ut Abrahamum ex igne eriperem"
+      ],
+      "answer": "Ad nuntiandum ortum Isaac et exitium populi Loth"
+    },
+    "location": {
+      "label": "Locus Apparentiae",
+      "options": [
+        "In terra Aegypti",
+        "In urbe Ur",
+        "Apud domum Abrahami",
+        "In horto Eden",
+        "Ad puteum Zamzam"
+      ],
+      "answer": "Apud domum Abrahami"
+    },
+    "outcome": {
+      "label": "Resultatum",
+      "options": [
+        "Abraham rex factus est",
+        "Abraham Kaabam aedificavit",
+        "Sara Isaacum peperit et populus Loth deletus est",
+        "Abraham in Palaestinam migravit",
+        "Populus Abrahae a magno diluvio servatus est"
+      ],
+      "answer": "Sara Isaacum peperit et populus Loth deletus est"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Důvěryhodný Duch zjevení",
+  "intro": "V neviditelných říších se bytost z čistého světla pohybuje s přesností a bez váhání vykonává každý příkaz. Tato postava promlouvala k vyvoleným služebníkům, přinášela slova vedení a byla svědkem odhalování božských rozhodnutí napříč věky. Kdo je tato ctěná duše?",
+  "clues": [
+    "Jsem bytost z čistého světla, stvořená ze světla, a nikdy jsem neuposlechla jediný příkaz svého Pána.",
+    "Pohybuji se mezi nebesy a zemí, sestupuji s nařízeními Nejmilosrdnějšího.",
+    "Byl jsem poslán k ušlechtilé panně ve svatyni a zvěstoval jsem jí čistého syna.",
+    "Jsem duch svatosti a podporoval jsem proroka, kterému byla dána jasná znamení a evangelium.",
+    "Přišel jsem k jeskyni na hoře, abych pronesl první slova recitace, která bude navždy uchována.",
+    "Já jsem důvěryhodný duch a byl jsem to já, kdo seslal Korán do srdce posledního posla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Džibril (Gabriel)",
+        "Mikail (Michael)",
+        "Anděl smrti",
+        "Malik (Strážce pekla)",
+        "Harut (jeden ze dvou andělů v Babylonu)"
+      ],
+      "answer": "Džibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Klíčové poslání/role",
+      "options": [
+        "Předávání zjevení prorokům",
+        "Troubení na trubku v den soudu",
+        "Strážící brány pekla",
+        "Zaznamenávání lidských činů",
+        "Způsobuje déšť"
+      ],
+      "answer": "Předávání zjevení prorokům"
+    },
+    "location": {
+      "label": "Klíčový atribut nebo název",
+      "options": [
+        "Duch svatý (Ruh al-Kudus)",
+        "Duch moci",
+        "Duch milosrdenství",
+        "Duch vedení",
+        "Duch pravdy"
+      ],
+      "answer": "Duch svatý (Ruh al-Kudus)"
+    },
+    "outcome": {
+      "label": "Výsledek mise",
+      "options": [
+        "Korán byl zjeven proroku Mohamedovi",
+        "V den soudu zaznělo zatroubení na trubku",
+        "Peklo bylo střeženo a jeho brány byly zavřené",
+        "Kniha skutků byla předložena Alláhovi",
+        "Déšť byl seslán na zem"
+      ],
+      "answer": "Korán byl zjeven proroku Mohamedovi"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

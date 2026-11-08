@@ -1,0 +1,61 @@
+{
+  "title": "Os estraños visitantes dunha cidade amurallada",
+  "intro": "Un grupo chegou ás portas dunha cidade cuxo pobo nunca coñecera a verdade. Traían unha mensaxe, pero os habitantes volvéronse hostís, ameazando con violencia. Con todo, desde un lugar inesperado, unha soa voz elevouse para defender os descoñecidos, preparando o escenario para un xiro dramático dos acontecementos.",
+  "clues": [
+    "Entramos nunha cidade cuxa xente estaba sumida na incredulidade.",
+    "Miráronnos con sospeita e dixeron: \"Só sodes seres comúns coma nós\".",
+    "Avisámolos, pero levantaron pedras contra nós.",
+    "Un home correu dende o extremo máis afastado da cidade para afirmar a nosa verdade.",
+    "Declarou ao seu pobo: \"Por que non debería adorar a Aquel que me creou?\"",
+    "A negación da cidade rematou cun só estoupido, e reinou o silencio onde antes se burlaban."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Os Mensaxeiros de Ya-Sin",
+        "Os discípulos de Isa",
+        "A xente da trincheira",
+        "Os magos do faraón",
+        "O crente de Ya-Sin"
+      ],
+      "answer": "Os Mensaxeiros de Ya-Sin"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Rexeitamento e ameaza de lapidación",
+        "Ser lanzado a un lume feroz",
+        "Unha proba de paciencia cun neno perdido",
+        "Un xardín que sufriu destrución",
+        "Unha viaxe polo mar"
+      ],
+      "answer": "Rexeitamento e ameaza de lapidación"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O extremo máis afastado da cidade",
+        "O Mar Vermello",
+        "A gabia de lume",
+        "A cova do refuxio",
+        "A prisión de Exipto"
+      ],
+      "answer": "O extremo máis afastado da cidade"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A cidade foi destruída por un só berro",
+        "O mar abriuse e afogou o exército",
+        "O lume volveuse frío e seguro",
+        "O xardín foi consumido por un lume celestial",
+        "A balea devolveu a persoa á costa"
+      ],
+      "answer": "A cidade foi destruída por un só berro"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

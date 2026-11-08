@@ -1,0 +1,61 @@
+{
+  "title": "Pierzasty Zwiadowca",
+  "intro": "W królestwie rządzonym przez jednego, któremu powierzono władzę nad wiatrami, niewidzialnymi istotami i stworzeniami nieba, jeden mały i zwinny członek zniknął z szeregów – tylko po to, by powrócić z objawieniami, które miały odmienić losy odległego narodu. Ten bystry informator wydobył prawdę na światło dzienne tam, gdzie zakorzeniła się ignorancja. Kim jestem?",
+  "clues": [
+    "Służyłem na dworze, gdzie ludzie, istoty niewidzialne i stworzenia niebieskie podlegały jednemu mądremu władcy, który rozkazywał nawet wiatrom.",
+    "Przez pewien czas nie pełniłem swojego stanowiska, a jeśli nie podam przekonującego powodu, władca groził mi gniewem.",
+    "Jestem małym stworzeniem latającym, znanym ze swojego ostrego wzroku, a mój gatunek został zaszczycony bezpośrednim imieniem na kartach Objawienia.",
+    "Gdy wróciłem, przyniosłem wieści o odległej krainie, gdzie ludzie oddawali pokłon słońcu, ślepi na Tego, który stworzył niebo i ziemię.",
+    "Znalazłem kobietę rządzącą wielkim królestwem, siedzącą na wspaniałym tronie, która nigdy wcześniej nie znała prawdy.",
+    "Jestem tym, który odkrył królestwo Saby i przywiózł ze sobą list z zaproszeniem od proroka-króla, któremu powierzono władzę nad wiatrem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Dudek (Hudhud)",
+        "Mrówka z Doliny Sulajmana",
+        "Asif ibn Barkhiya",
+        "Ifrit Dżin",
+        "Anioł Tronu"
+      ],
+      "answer": "Dudek (Hudhud)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wyprawa do Królestwa Saby (Szeby)",
+        "Konfrontacja z czarownikami faraona",
+        "Potop proroka Noego",
+        "Zniszczenie Ludu Ad",
+        "Rozdzielenie Morza Czerwonego"
+      ],
+      "answer": "Wyprawa do Królestwa Saby (Szeby)"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ziemia Saby (Szeby)",
+        "Góra Synaj",
+        "Arka Proroka Noego",
+        "Jaskinia Ashab al-Kahf",
+        "Pałac Faraona"
+      ],
+      "answer": "Ziemia Saby (Szeby)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Bilqis poddała się dworowi Sulejmana",
+        "Faraon i jego armia utonęli w morzu",
+        "Ludzie z Ad zostali zniszczeni przez gwałtowny wiatr",
+        "Czarownicy faraona wierzyli w proroka Musę",
+        "Wielka powódź pochłonęła niewiernych"
+      ],
+      "answer": "Bilqis poddała się dworowi Sulejmana"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

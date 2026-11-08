@@ -1,0 +1,61 @@
+{
+  "title": "melodia gór o zmierzchu",
+  "intro": "Posłuchaj, jak doliny rozbrzmiewają echem uwielbienia u boku wybranego sługi Allaha. Głos obdarzony melodią, osąd poszukiwany przez spierających się w komnacie i metal zmiękczony boskim rozkazem czekają na odkrycie. Która postać czci i sprawiedliwych rządów przemawia przez te znaki?",
+  "clues": [
+    "Bóg obdarzył mnie obfitością darów i melodyjnym głosem chwalącym.",
+    "Bóg nauczył mnie rozumieć język sprawiedliwego osądu pomiędzy zwaśnionymi.",
+    "Stawiłem czoła potężnemu wojownikowi w bitwie i dzięki woli Allaha zwyciężyłem.",
+    "Otrzymałem mądrość, autorytet i objawioną księgę psalmów od Allaha.",
+    "Wieczorem i o wschodzie słońca wspólnie ze mną chwaliliśmy Allaha, towarzyszyły mi góry i ptaki.",
+    "Bóg nauczył mnie, jak robić kolczugi z żelaza, które stało się dla mnie miękkie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Dawud (Dawid)",
+        "Prorok Ismail (Izmael)",
+        "Prorok Jahja (Jan)",
+        "Dhul-Kifl",
+        "Prorok Al-Yasa (Elizeusz)"
+      ],
+      "answer": "Prorok Dawud (Dawid)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Pokonał Dżaluta (Goliata) w bitwie z woli Allaha",
+        "Zbudował Arkę, aby przetrwać wielką powódź",
+        "Zostałem wrzucony do ognia, który Allah ochłodził",
+        "Został połknięty przez wielką rybę w morzu",
+        "Został wniebowzięty, nie zaznawszy śmierci"
+      ],
+      "answer": "Pokonał Dżaluta (Goliata) w bitwie z woli Allaha"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Góry i ptaki łączą się w chwale Allaha",
+        "Laska, która zamieniła się w węża",
+        "Ogień, który stał się chłodny i spokojny",
+        "Wielbłądzica wysłana jako znak dla ludzi",
+        "Drewniana Arka spoczywająca na Górze Judi"
+      ],
+      "answer": "Góry i ptaki łączą się w chwale Allaha"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Udzielono mu królestwa, mądrości i Zabur (Psalmów)",
+        "Po żarliwej modlitwie otrzymał syna w podeszłym wieku",
+        "Przez wiele lat zapewniano mi bezpieczeństwo w jaskini",
+        "Udzielono mi źródła Zamzam na pustyni",
+        "Przyznano utonięcie armii w morzu"
+      ],
+      "answer": "Udzielono mu królestwa, mądrości i Zabur (Psalmów)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Elanga oyo ebungaki na butu moko",
+  "intro": "Kanisá elanga moko ya kitoko, oyo etondi na mbuma oyo ezali kokola mpe ezingami na banzete milai. Baoyo bazalaki kobatela yango bamikanisaki ete bazali na mayele, bazalaki kosala mwango ya kobuka mbuma na bango na bangonga ya kimya liboso ya ntɔngɔ ntɔngɔ, mosika na miso ya bato oyo bazalaki na mposa. Kasi Ye oyo alalaka ata moke te azalaki na myango mosusu mpo na bozwi na bango oyo ebombami. Okoki kokanisa nani atɛlɛmi nsima ya lisapo oyo ya likebisi oyo euti na Coran?",
+  "clues": [
+    "Kala tozalaki na elanga moko ya kitoko mpe ya ebele mpenza na boye ete ekómaki zuwa ya bato nyonso oyo bazalaki koleka.",
+    "Na mwango na biso, tozalaki kolobana na mongongo ya nse na ntongo ya yambo, kosakolaka ete molimo moko te ya bozangi ekopesamela nzela ya kokota mokolo wana.",
+    "Tozalaki bato ya bozwi, mpe mitema na biso ekufaki miso mpo na ntomo ya babola oyo bazalaki zingazinga na biso.",
+    "Ntango ntɔngɔ ya mbuma oyo tolingaki kobuka ekómaki, topusanaki penepene na elanga na biso kaka mpo na kokuta yango ebongwanaki esika oyo etikalaki moindo na butu moko.",
+    "Mobeko moko ya kobebisa ekɔtaki, mpe etikalaki eloko mosusu te bobele mputulu epai kuna bituluku ya mbuma oyo eteli ekangamaki kala.",
+    "Lisapo na biso ezali likebisi ya makasi oyo ekomami na Coran, epai toyebani lokola bankolo elanga oyo baboyaki bolingo malamu epai ya babola."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bakolo Elanga",
+        "Bato ya Libulu",
+        "Bayekoli ya Yis",
+        "Ba Compagnons ya Mabaya",
+        "Ba Invités ya Ibrahim"
+      ],
+      "answer": "Bakolo Elanga"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobuka mbuma na kobombana mpe kopekisa babola",
+        "Kolala na boumeli ya bikeke mingi na kati ya libulu",
+        "Koboya kobimisa kamela ya mwasi na libanga",
+        "Kosambela mwana ya ngɔmbɛ ya wolo na Ngomba Sinai",
+        "Kotonga masuwa monene mpo na kokima mpela"
+      ],
+      "answer": "Kobuka mbuma na kobombana mpe kopekisa babola"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Elanga oyo ezali na bifelo oyo etondi na banzete ya mbila mpe ya vinyo",
+        "Libulu moko ya molili na mozindo ya bangomba",
+        "Engumba oyo mopɛpɛ makasi ya bonzambe ezwaki",
+        "Lobwaku moko ya bule pene na Ndako ya Allah",
+        "Mabongo ya ebale moko oyo ezali kosopana"
+      ],
+      "answer": "Elanga oyo ezali na bifelo oyo etondi na banzete ya mbila mpe ya vinyo"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Elanga yango ezikisamaki na mobeko moko ya mɔ́tɔ oyo eutaki na likoló",
+        "Balalaki na kimya na boumeli ya mbula 309 ya sanza",
+        "Banyatamaki na mbula ya mabanga",
+        "Bazindaki na nse ya mbonge ya mpela moko monene",
+        "Bapalanganaki na mopɛpɛ makasi ya malili mpe ya makasi"
+      ],
+      "answer": "Elanga yango ezikisamaki na mobeko moko ya mɔ́tɔ oyo eutaki na likoló"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

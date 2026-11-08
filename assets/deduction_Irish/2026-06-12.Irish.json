@@ -1,0 +1,61 @@
+{
+  "title": "An Íobairt Thoiliúil",
+  "intro": "I ré tástálacha diaga, glaodh ar anam chun an ghnímh deiridh géilleadh. Tógadh an figiúr seo i dtír lom, agus d'fhás sé chun creideamh agus foighne a léiriú. Nuair a d'ordaigh fís íobairt, níor chrom siad. Is cloch choirnéil na dílseachta a scéal.",
+  "clues": [
+    "Ba mise freagra ar phaidir fháidh mhóir a raibhtear ag fanacht léi le fada.",
+    "Fágadh mise agus mo mháthair i ngleann uaigneach gan ach dátaí agus uisce againn.",
+    "D'fhás mé aníos agus bhí cáil orm as mo fhírinneacht agus mo fhoighne.",
+    "Chuidigh mé le m'athair bunsraitheanna tí naofa atá tiomnaithe d'Allah a thógáil.",
+    "Nuair a d’inis m’athair dom faoi bhrionglóid chun íobairt a dhéanamh dom, d’fhreagair mé, ‘Déan mar a ordaíodh duit.’",
+    "D’onóirigh Allah mo ghéilleadh trí reithe a sheoladh ón spéir chun mé a fhuascailt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Isma'il",
+        "Fáidh Ishaq",
+        "An Fáidh Ya'qub",
+        "Fáidh Ibrahim",
+        "Fáidh Iósaf"
+      ],
+      "answer": "Fáidh Isma'il"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag géilleadh go toilteanach le bheith íobairt",
+        "Á chaitheamh isteach i tine lasrach",
+        "Á shlogadh ag iasc mór",
+        "A bheith á ndíol i sclábhaíocht",
+        "Ag fáil tástála le tinneas trom"
+      ],
+      "answer": "Ag géilleadh go toilteanach le bheith íobairt"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tobar Zamzam",
+        "Áirc Nuh",
+        "Tine Nimrod",
+        "An Lao Órga",
+        "Foireann Mhúsa"
+      ],
+      "answer": "Tobar Zamzam"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Fuascailte le reithe mór",
+        "Sábháladh ón tine é",
+        "Sábháladh ón tuile é",
+        "Tógadh amach as an míol mór é",
+        "Tugadh ríocht agus eagna dó"
+      ],
+      "answer": "Fuascailte le reithe mór"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

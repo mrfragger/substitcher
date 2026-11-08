@@ -1,0 +1,61 @@
+{
+  "title": "Baich Rhodd a Wrthodwyd",
+  "intro": "Yng ngwawr hanes dynolryw, pan oedd y ddaear yn dal yn ifanc a'r byd yn dal ei anadl gyntaf, safodd enaid gerbron y Creawdwr gydag offrwm gostyngedig. Pwyswyd yr offrwm hwnnw yng nghydbwysedd derbyniad dwyfol - a chafwyd ei fod yn brin. Nid stori am faddeuant oedd yr hyn a ddilynodd, ond am galon wedi'i llyncu gan genfigen, gan arwain at weithred anghildroadwy a fyddai'n atseinio drwy gydol yr amser. Dyma stori un y daeth ei enw yn gyfystyr â'r anghyfiawnder difrifol cyntaf a gyflawnwyd erioed.",
+  "clues": [
+    "Deuthum i fodolaeth fel un o'r plant cyntaf erioed, wedi'i eni i riant yr ydych chi'n adnabod ei stori'n dda.",
+    "Unwaith offrymais aberth i Allah, ond ni chafodd ei dderbyn gennyf — er bod offrwm fy brawd neu chwaer wedi'i dderbyn â gras.",
+    "Gwreiddiodd cenfigen a chynddaredd yn fy nghalon, a bygythiais ladd fy nghenedl fy hun.",
+    "Rhybuddiodd fy chwaer fi i ofni Allah, ond ni fyddai fy balchder yn gadael i mi wrando.",
+    "Mewn eiliad o wendid ofnadwy, cyflawnais weithred annirnadwy ar fy mrawd fy hun.",
+    "Wedi hynny, doeddwn i ddim hyd yn oed yn gwybod sut i guddio'r hyn a wnes i - nes i greadur o'r ddaear gael ei anfon i'm dysgu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Mab y Proffwyd Nuh",
+        "Proffwyd Isma'il",
+        "Proffwyd Yusuf"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Offrymu aberth a wrthodwyd, gan arwain at y llofruddiaeth gyntaf",
+        "Adeiladu twr uchel i gyrraedd y nefoedd",
+        "Cael eich bwrw i dân cynddeiriog dros eich ffydd",
+        "Aberthu ei fab ei hun mewn ufudd-dod i Allah",
+        "Cael eich llyncu gan bysgodyn mawr am ffoi rhag eich dyletswydd"
+      ],
+      "answer": "Offrymu aberth a wrthodwyd, gan arwain at y llofruddiaeth gyntaf"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Brân a anfonwyd gan Allah i ddangos claddu",
+        "Llif mawr a foddodd bobl gyfan",
+        "Staff a drodd yn sarff fyw",
+        "Camel benywaidd a ddaeth allan o fynydd o graig",
+        "Gorsedd fawreddog a gludir gan wyntoedd nerthol"
+      ],
+      "answer": "Brân a anfonwyd gan Allah i ddangos claddu"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Daeth yn un o'r rhai difarus, wedi'u beichio gan y drosedd gyntaf a gyflawnwyd erioed",
+        "Cafodd ei faddau gan Allah a rhoddwyd Paradwys tragwyddol iddo",
+        "Cafodd ei godi i safle uchel o broffwydoliaeth a doethineb",
+        "Cafodd ei achub trwy drugaredd ddwyfol ar ôl galw allan o ddyfnderoedd y tywyllwch",
+        "Rhoddwyd awdurdod iddo dros y jinn, y gwynt a'r moroedd"
+      ],
+      "answer": "Daeth yn un o'r rhai difarus, wedi'u beichio gan y drosedd gyntaf a gyflawnwyd erioed"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

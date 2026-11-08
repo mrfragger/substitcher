@@ -1,0 +1,61 @@
+{
+  "title": "Haqiqatga chaqiruvchi tinimsiz",
+  "intro": "Bir elchi o'jar xalq orasida yolg'iz turib, ularni soxta butlarga bog'lanib qolgan holda yagona Haq Xudoga chaqiradi. Bu payg'ambar kuchli ma'noga ega bo'lgan ismga ega - \"himoya izlovchi\" - ammo faqat rad etish va inkorni oladi. Yumshoq ishontirish va qat'iy ogohlantirish orqali bu ruh oxir-oqibat koinotning o'zi oqlaydigan ilohiy xabarni olib yuradi. Islom yozuvlaridagi eng qadimgi rivoyatlardan birini ifodalovchi bu qat'iyatli shaxsni aniqlay olasizmi?",
+  "clues": [
+    "Mening xalqim ko'plab xudolarga sig'inishdi, men esa ularni osmonu yerni yaratgan Zotga xizmat qilishga chaqirdim.",
+    "Men xalqim oldida turib, ulardan hech qanday mukofot kutmasligimni, yagona istagim ularni solihlikka yo'naltirish ekanligini e'lon qildim.",
+    "Ilohiy jazo sifatida qavmimga kuchli shamol yuborildi, bu shamol haqida Qur'onda ham ko'plikda, ham ayol shaklida tilga olinadi.",
+    "Ba'zi payg'ambarlardan farqli o'laroq, menga rivoyatlarimda ko'zga tashlanadigan xotin yoki bolalar berilmagan, chunki mening vazifam faqat qavmimni chaqirish edi.",
+    "Mening ismim chuqur ma'noga ega — inson izlayotgan himoya va boshpana tushunchasi bilan bog'liq.",
+    "Mening xalqim o'zlari yashagan vodiy uchun o'ziga xos geografik atama bilan tanilgan va ularning yerlari o'simliklarning yo'qligi uchun ayniqsa nafrat bilan ta'riflangan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Hud",
+        "Payg'ambar Solih",
+        "Payg'ambar Shu'ayb",
+        "Nuh payg'ambar",
+        "Payg'ambar Hudayb"
+      ],
+      "answer": "Payg'ambar Hud"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yer yuzidagi suv toshqini",
+        "Kuchli shamol",
+        "Vayronagarchilik zilzilasi",
+        "Qurg'oqchilik va ocharchilik",
+        "Dengizda cho'kib ketish"
+      ],
+      "answer": "Kuchli shamol"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yamanning serhosil vodiysi",
+        "Midiyonning qumli cho'li",
+        "Samud qabilasining qoyali vodiysi",
+        "Ad xalqining qadimgi yurti",
+        "Misrning qirg'oqbo'yi mintaqasi"
+      ],
+      "answer": "Ad xalqining qadimgi yurti"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Mening xalqim tavba qildi va jannatga kirdi",
+        "Mening xalqimdan hech biri jazodan omon qolmadi",
+        "Meni akam Yunus kabi tiriklayin ko'tarib ketishdi",
+        "Men izdoshlarim bilan muborak yurtga hijrat qildim",
+        "Shamol faqat kofirlarni yo'q qildi, mo'minlar esa omon qoldi"
+      ],
+      "answer": "Mening xalqimdan hech biri jazodan omon qolmadi"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

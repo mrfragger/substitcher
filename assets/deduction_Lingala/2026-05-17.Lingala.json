@@ -1,0 +1,61 @@
+{
+  "title": "Ba Architectes ya Libanga",
+  "intro": "Kanisá sivilizasio moko ya nguya, oyo ezali na likabo ya makasi mpe ya mayele, oyo ezali koyema bandako minene ya kofanda na bangomba. Lisanga yango ezalaki na bomengo monene mpe na mayele ya architecture oyo ekokani na mosusu te. Nzokande, atako bazwaki makebisi ya polele, baponaki nzela oyo ekomema na bosukisi moko ya kokamwa mpe ya kobosana te. Okoki koyeba etuluku oyo lisolo na yango ezali liteya mozindo mpo na bato nyonso oyo bakanisaka?",
+  "clues": [
+    "Bapesaki biso makasi mpe mayele, yango epesaki biso likoki ya koyema bandako kitoko mbala moko na bangomba.",
+    "Bapesaki biso elembo ya polele oyo euti na Allah, ekelamu moko oyo ekokani na mosusu te oyo esengelaki kotika yango kozanga kotungisama mpo na kolya matiti.",
+    "Lisanga na biso ekomaki na lolendo, kotelemela nsango ya bonzambe oyo momemi-nsango moko uta na kati na biso amemaki.",
+    "Tosalaki likita mpo na kobebisa elembo ya likamwisi, atako makebisi ya etumbu makasi.",
+    "Toboyaki etinda ya kotika ekelamu ya sipesiale emela na libulu na biso na mikolo oyo ebalukaka.",
+    "Tokutanaki na nsuka moko ya kobebisa, tobetamamaki na bopanzani moko, ya nsomo nsima ya mosala na biso ya kobuka mobeko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Bato ya 'Ad",
+        "Bato ya Midian",
+        "Bato ya Nkoi",
+        "Bato ya Thamud",
+        "Bato ya Lut"
+      ],
+      "answer": "Bato ya Thamud"
+    },
+    "trial": {
+      "label": "Momekano/Evenement na biso ya munene",
+      "options": [
+        "Mpela oyo ezindaki mabele",
+        "Kokabwana ya mbu",
+        "Bobebisi na explosion/ganga moko",
+        "Kozika ya engumba moko",
+        "Kobongwana ya ngomba na mputulu"
+      ],
+      "answer": "Bobebisi na explosion/ganga moko"
+    },
+    "location": {
+      "label": "Elemento moko ya ntina na Lisolo na biso",
+      "options": [
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Kamela ya mwasi ya likamwisi",
+        "Nzete moko oyo ezali kozika",
+        "Ndɛkɛ oyo elobaka",
+        "Kiti ya bokonzi moko ya nkembo"
+      ],
+      "answer": "Kamela ya mwasi ya likamwisi"
+    },
+    "outcome": {
+      "label": "Litomba na biso ya nsuka",
+      "options": [
+        "Epesamaki bozwi mpe nguya monene mpenza",
+        "Totombolami na bosakoli",
+        "Kobebisama mpenza na etumbu ya Nzambe",
+        "Balimbisami nsima ya koyambola motema",
+        "Bapalangani na mabele mpo na koyengayenga"
+      ],
+      "answer": "Kobebisama mpenza na etumbu ya Nzambe"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

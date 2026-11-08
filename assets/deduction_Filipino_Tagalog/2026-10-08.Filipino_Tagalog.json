@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Ukit ng Bato ng Sinaunang Lambak",
+  "intro": "Gunigunihin ang isang kabihasnan na umusbong sa mabatong lambak ng Arabia, bihasa sa pag-ukit ng mga magagarang bahay mula sa mga gilid ng bundok. Umuunlad sila nang may lakas at husay sa sining, ngunit ang kanilang kwento ay minarkahan ng isang nakapangingilabot na pagsuway sa banal na babala. Habang sinisiyasat mo ang kanilang kwento, matutuklasan mo ang isang bayang ang kayabangan ay humantong sa kanilang ganap na pagkalipol. Sino sila?",
+  "clues": [
+    "Minana namin ang isang lupain ng mabatong kapatagan at matatayog na bangin, kung saan itinayo namin ang aming mga tahanan nang may walang kapantay na kasanayan.",
+    "Kilala kami sa pag-ukit ng mga matibay na tahanan sa mga bundok, na nakakaramdam ng kaligtasan mula sa anumang kapahamakan.",
+    "Isang sugo ang dumating sa amin mula sa aming mga piling tao, na nagpapaalala sa amin ng mga biyaya ng Allah at nagbabala sa amin tungkol sa parusa.",
+    "Humingi kami ng isang tanda, at isang mahimalang kamelyong babae ang lumitaw mula sa bato, isang malinaw na pagsubok mula kay Allah.",
+    "Sinuway namin ang babala at pinigilan ang babaeng kamelyo, kinutya ang mensahero at hinamon ang parusa.",
+    "Isang malakas na putok ang bumalot sa amin sa aming mga tahanan, at kinaumagahan ay nakahandusay kami, na parang hindi kami nakatira doon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang mga tao ng Thamud",
+        "Mga Tao ng 'Ad",
+        "Mga Tao ng Madyan",
+        "Ang mga tao ni Nuh",
+        "Ang mga tao ni Lut"
+      ],
+      "answer": "Ang mga tao ng Thamud"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pinigilan ang babaeng kamelyo",
+        "Sinira ang Sabbath",
+        "Sumamba sa ginintuang guya",
+        "Pinatay ang propetang isinugo sa kanila",
+        "Nagtayo ng tore para maabot ang langit"
+      ],
+      "answer": "Pinigilan ang babaeng kamelyo"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang kamelyong babae",
+        "Ang Kaban",
+        "Ang mga kawani",
+        "Ang puting kamay",
+        "Ang manna at mga pugo"
+      ],
+      "answer": "Ang kamelyong babae"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nawasak ng isang pagsabog",
+        "Nailigtas mula sa pagkawasak",
+        "Naging mga unggoy",
+        "Nalunod sa dagat",
+        "Nilamon ng lupa"
+      ],
+      "answer": "Nawasak ng isang pagsabog"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

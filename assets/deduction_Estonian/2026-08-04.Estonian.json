@@ -1,0 +1,61 @@
+{
+  "title": "Kaja läbi kaljude",
+  "intro": "Kujutage ette orgu, kus elamud on raiutud kaljudele ja õhk kannab mälestust hoiatusest, mida ei võetud kuulda. Kunagi õitses siin rahvas, õnnistatud, kuid trotslik, kuni kaljust, mida nad usaldasid, ilmus märk.",
+  "clues": [
+    "Me olime rahvas, kes uuristas mägedesse turvalisi kodusid, tundes end oma kivistes eluruumides turvaliselt.",
+    "Me elasime tasandike ja kivide maal, mida oli õnnistatud aedade ja allikatega.",
+    "Meie seast tuli sõnumitooja, kes kutsus meid hülgama oma valejumalad ja kummardama Üht tõelist Loojat.",
+    "Me seadsime ülbelt uskumise tingimuseks ainulaadse märgi, mis kerkiks esile just nendestsamadest kividest, mille me rauerdasime.",
+    "Kui tõotatud kaamel kaljult ilmus – selge märk –, keeldus meie eliit ikkagi ja lõikas ta kintsud läbi, hoolimata hoiatusest peatse hukatuse kohta.",
+    "Kolm päeva pärast meie tegu kajas läbi oru vali müristamine ja meist said varisenud rusud, meie kodud meie hauad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "¿Adi rahvas",
+        "Thamudi rahvas",
+        "Madjani rahvas",
+        "Salu rahvas",
+        "Koopa rahvas"
+      ],
+      "answer": "Thamudi rahvas"
+    },
+    "trial": {
+      "label": "Meie proovisõit/peaüritus",
+      "options": [
+        "Allahi emase kaameli reielihased",
+        "Kuldvasika kummardamine",
+        "Sabati murdmine",
+        "Taeva poole torni ehitamine",
+        "Prohvetite tapmine"
+      ],
+      "answer": "Allahi emase kaameli reielihased"
+    },
+    "location": {
+      "label": "Meie loo põhielement",
+      "options": [
+        "Allahi emane kaamel",
+        "Musa personal",
+        "Nuh' laev",
+        "Musa valge käsi",
+        "¿Isa lind"
+      ],
+      "answer": "Allahi emane kaamel"
+    },
+    "outcome": {
+      "label": "Meie tulemus",
+      "options": [
+        "Häving kõrvulukustava plahvatuse tagajärjel",
+        "Taevast sadas kivivihma",
+        "Maad katnud veeuputus",
+        "Metsik tuul, mis meid juurilt välja juuris",
+        "Maa neelab meid"
+      ],
+      "answer": "Häving kõrvulukustava plahvatuse tagajärjel"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

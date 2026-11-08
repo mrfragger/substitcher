@@ -1,0 +1,61 @@
+{
+  "title": "An Macalla a Shroich an Ríchathaoir",
+  "intro": "Tháinig figiúr faoi ualach i dtreo shuíochán an cheartais, a nguth ag crith ní le heagla ach le dóchas. Bhí an cheist phearsanta, ach dhéanfadh a réiteach macalla tríd an am, ag díchóimeáil traidisiúin leatromaigh. Cé hé an t-anam seo a raibh a ghearán cloiste thar na réaltaí?",
+  "clues": [
+    "Tháinig mé le croí trom, ag lorg ceartais i gcás a chuir bac ar mo theanga.",
+    "Ní hamháin chuig teachtaire a bhí mo achainí; chuaigh sé suas níos faide anonn, chuig an Té a chloiseann gach rud.",
+    "Bhí na focail a labhraíodh i mo choinne cosúil le slabhraí ó am atá thart.",
+    "D’áitigh agus d’réasúnaigh mé, le deora agus le loighic, ar son mo dhínite.",
+    "Tháinig nochtadh anuas orm, ag cur na sean-nósanna ina dtost agus ag admháil mo phian.",
+    "Tugann siad orm an té a rinne argóint faoi m’fhear céile, agus rinneadh comhchiallach ar m’ainm leis an gcaibidil a shaor mé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Bean chéile Imran (Máthair Maryam)",
+        "An Bhean a Díospóidigh faoina Fear Céile (Khawla bint Tha'laba)",
+        "Banríon Sheba (Bilqis)",
+        "Máthair Mhaois",
+        "Bean chéile an Fharó (Asiyah)"
+      ],
+      "answer": "An Bhean a Díospóidigh faoina Fear Céile (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "An Triail nó an Imeacht",
+      "options": [
+        "Gearradh cúis bhréagach uirthi as mígheanmnacht",
+        "Bhí sí gan leanbh agus bhí fonn uirthi leanbh a bheith aici.",
+        "Bhí sí os comhair nós colscartha leatromach",
+        "Ba bhanríon í ag idirbheartaíocht le fáidh",
+        "D’fholaigh sí a leanbh ó tíoránach"
+      ],
+      "answer": "Bhí sí os comhair nós colscartha leatromach"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Lao órga",
+        "Ríchathaoir iontach",
+        "Cleachtadh Zihar",
+        "Ciseán san abhainn",
+        "Gealltanas naofa tiomantais"
+      ],
+      "answer": "Cleachtadh Zihar"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bhí sí beannaithe le leanbh ina seanaois.",
+        "Sábháladh í ó bháthadh",
+        "Fuair ​​sí foilsiú diaga ag cur deireadh leis an nós",
+        "Rinneadh banríon di tar éis tástála",
+        "Bronnadh mac di a d’éirigh ina fháidh"
+      ],
+      "answer": "Fuair ​​sí foilsiú diaga ag cur deireadh leis an nós"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

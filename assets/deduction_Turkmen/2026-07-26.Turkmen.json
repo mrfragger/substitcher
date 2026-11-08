@@ -1,0 +1,61 @@
+{
+  "title": "Asmanlara garşy çykan täç",
+  "intro": "Gadymy patyşalyklaryň geçelgelerinde bir hökümdaryň ady zulum we tekepbirligiň alamatyna öwrüldi. Allanyň pespäl bir hyzmatkäri inkär edip bolmajak alamatlar bilen gelende, bu güýçli hökümdar hakykata boýun egmekden ýüz öwürdi. Şu gün siziň wezipäňiz hökümdarlygy dargap, ykbaly tolkunlaryň aşagynda çözülen bu rowaýata öwrülen şahsyýeti anyklamakdyr.",
+  "clues": [
+    "Men ady asyrlaryň dowamynda duýduryş hökmünde ýaňlanýan iň gorkunç hökümdar.",
+    "Men tutuş bir halka zynjyrlarda zähmet çekmegi, şöhratymy yglan edýän ýadygärlikleri gurmagy buýurdym.",
+    "Allanyň pygamberi meniň öňüme inkär edip bolmajak alamatlar bilen gelende, men tagzym etmekden ýüz öwürdim we ony jadygöýlik diýip atlandyrdym.",
+    "Men ýesir alnan halkyň arasynda çaga ogullaryny öldürmegi perman etdim, olaryň ruhuny direlmezden öň basyp ýatyrmak umydy bilen.",
+    "Men öz köşgümiň öňünde durup: \"Men siziň iň ýokary hökümdaryňyz\" diýip yglan etdim we hudaý hökmünde sežde etmegi talap etdim.",
+    "Baş ministrim ýanymda bolup, men gökleriň aňyrsyna çykmaga niýetlenen beýik bina gurdum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Fyrawn (Fyrawn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mugira"
+      ],
+      "answer": "Fyrawn (Fyrawn)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Gyzyl deňizde boğulmak",
+        "Semudyň halkyna iberilen düýe",
+        "Nuh pygamberiň uly sili",
+        "Handak sahabalarynyň jezasy",
+        "Abrahanyň goşunynyň guşlar tarapyndan ýok edilmegi"
+      ],
+      "answer": "Gyzyl deňizde boğulmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Haman bilen gurlan beýik bina",
+        "Suw joşgunynyň üstünde ýüzen gämi",
+        "Samiriler tarapyndan ýasalýan altyn göle",
+        "Şebanyň şa aýaly Bilkisiň tagty",
+        "Uklap ýatan ýaşlaryň gowagy"
+      ],
+      "answer": "Haman bilen gurlan beýik bina"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Deňizde gark boldy; jesedi duýduryş hökmünde saklanyp galdy",
+        "Sürgün edildi we çölde gezmäge mejbur edildi",
+        "Jeza hökmünde maýmynlara öwrüldi",
+        "Güýçli ýer titremesiniň täsiri astynda",
+        "Asmandan ýagýan daş ýagyşy bilen ýandy"
+      ],
+      "answer": "Deňizde gark boldy; jesedi duýduryş hökmünde saklanyp galdy"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

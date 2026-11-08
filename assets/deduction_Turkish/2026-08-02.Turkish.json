@@ -1,0 +1,61 @@
+{
+  "title": "Yer ve Gökyüzü Arasında",
+  "intro": "İlahi tarihin kutsal sayfalarında sizi gizemli bir ruh bekliyor; çağlar boyunca yankılanan işaretler ve mucizeler taşıyor. İpuçlarının izini sürerken, mucizelerle dolu bir hikâyenin içinde yolculuk edeceksiniz – mucizevi bir başlangıçtan gökyüzünün ötesine yükselişe kadar. Son ipucundan önce bu kutsanmış hizmetkarı tespit edebilecek misiniz?",
+  "clues": [
+    "Ben, İsrailoğullarına rahmet ve nur müjdesi getirmek üzere elçi olarak gönderildim.",
+    "Doğumum mucizevi bir işaretti; Yüce Allah'ın emriyle babasız olarak bu dünyaya geldim.",
+    "Daha bebekken konuştum ve annemin şerefini halkının suçlamalarına karşı savundum.",
+    "Allah'ın izniyle, kilden kuşlar şekillendirdim ve onlara üfledim; izleyenlerin gözleri önünde uçup gittiler.",
+    "Doğuştan kör olanları iyileştirdim, cüzzamlıyı tedavi ettim ve hatta ölüleri dirilttim; ancak her mucize Allah'ın izniyle oldu, benim kendi isteğimle değil.",
+    "Düşmanlarım beni yok etmek için planlar kurarken, Allah beni göklere yükseltti ve kıyamet gününden önce geri döneceğime dair söz verdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İsa (İsa)",
+        "Peygamber Musa (Musa)",
+        "Peygamber İbrahim (Abraham)",
+        "Peygamber Muhammed",
+        "Peygamber Yusuf (Joseph)"
+      ],
+      "answer": "Peygamber İsa (İsa)"
+    },
+    "trial": {
+      "label": "Belirleyici An",
+      "options": [
+        "Ben göklere yükseltildim.",
+        "Alev alev yanan bir ateşin içine atıldım.",
+        "Firavunun kudretli ordusuyla karşı karşıya geldim.",
+        "Büyük bir balina tarafından yutuldum.",
+        "Dağın üzerine bir gemi inşa ettim."
+      ],
+      "answer": "Ben göklere yükseltildim."
+    },
+    "location": {
+      "label": "Kutsal İşaret Gerçekleştirildi",
+      "options": [
+        "Kil kullanarak kuş şekilleri yaptım.",
+        "Bir asayı yılana dönüştürdüm.",
+        "Ay'ı ikiye böldüm.",
+        "Rüzgara ve cinlere hükmettim.",
+        "Bir kayanın içinden dişi bir deve çıkardım."
+      ],
+      "answer": "Kil kullanarak kuş şekilleri yaptım."
+    },
+    "outcome": {
+      "label": "Bana Ne Oldu?",
+      "options": [
+        "Göklere yükseltildi; geri döneceğine söz verildi.",
+        "Bir imparatorluğun büyük hükümdarı oldu.",
+        "Halkımı esaretten kurtardım.",
+        "Eşsiz dünyevi zenginlik kendisine bahşedildi.",
+        "Uzun bir ayrılığın ardından ailemle yeniden bir araya geldim."
+      ],
+      "answer": "Göklere yükseltildi; geri döneceğine söz verildi."
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

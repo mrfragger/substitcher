@@ -1,0 +1,61 @@
+{
+  "title": "Hlas z horiaceho kríka",
+  "intro": "Odhaľte identitu významnej postavy, ktorej cesta sa začala zázračným stretnutím a ktorej osud bol spätý s oslobodením utláčaného ľudu. Táto osoba bola vybraná pre monumentálnu úlohu, ktorá s božskou podporou čelí obrovským výzvam.",
+  "clues": [
+    "Narodil som sa do doby veľkého útlaku, kde boli zabíjané deti môjho ľudu.",
+    "V ranom veku ma rodičia hodili do rieky, no napriek tomu ma našli a vychovali priamo v domácnosti utláčateľa môjho ľudu.",
+    "Raz som utiekol z mesta po tom, čo som počas hádky neúmyselne spôsobil smrť niekoho.",
+    "Na posvätnom mieste, kde mi bolo prikázané postaviť sa mocnému vládcovi, som dostal božské posolstvo a zázračnú palicu.",
+    "Môj brat mi bol ustanovený za pomocníka v mojej misii kvôli vnímanej reči.",
+    "Viedol som svoj ľud cez rozdelené more a unikol prenasledovaniu tyranskej armády."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Júsuf",
+        "Prorok Isa",
+        "Prorok Músa",
+        "Prorok Nuh",
+        "Prorok Ibrahim"
+      ],
+      "answer": "Prorok Músa"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Trvalé roky sucha",
+        "Stavba archy",
+        "Konfrontácia s faraónom a jeho čarodejníkmi",
+        "Byť hodený do ohnivej pece",
+        "Zničenie ľudu Thamudu"
+      ],
+      "answer": "Konfrontácia s faraónom a jeho čarodejníkmi"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Kaaba",
+        "Železný múr",
+        "Zamestnanci",
+        "Loď Nuha",
+        "Sulajmánsky prsteň"
+      ],
+      "answer": "Zamestnanci"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Mesto Sodoma bolo zničené",
+        "Ľudia boli pohltení zemou",
+        "Veľká povodeň zachvátila krajinu",
+        "Faraón a jeho armáda sa utopili",
+        "Mestské hradby sa zrútili od kriku"
+      ],
+      "answer": "Faraón a jeho armáda sa utopili"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

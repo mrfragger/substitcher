@@ -1,0 +1,61 @@
+{
+  "title": "Vaaki va Ribye",
+  "intro": "Anakanya hi nhluvuko wa matimba, lowu nga ni matimba ni vutshila, wu vatla tindhawu letikulu to tshama eka tona ematlhelo ka tintshava. Ntlawa lowu a wu ri ni ku humelela lokukulu ni vutshila byo hlawuleka byo aka. Hambi swi ri tano, hambileswi va kumeke switsundzuxo leswi nga erivaleni, va hlawule ndlela leyi a yi ta yisa eka makumu lama hlamarisaka ni lama nga rivalekiki. Xana u nga kota ku vona ntlawa lowu lowu xitori xa wona xi tirhaka tanihi dyondzo leyikulu eka hinkwavo lava anakanyisisaka?",
+  "clues": [
+    "Hi nyikiwe matimba ni vutshila, leswi endleke leswaku hi kota ku vatla makaya yo saseka hi ku kongoma etintshaveni.",
+    "Hi nyikiwe xikombiso lexi nga erivaleni lexi humaka eka Allah, xivumbiwa xo hlawuleka lexi a xi fanele xi tshikiwa xi nga kavanyetiwi leswaku xi risa.",
+    "Vaaki va hina va sungule ku tikukumuxa, va tlhontlha rungula ra Xikwembu leri tisiweke hi murhumiwa loyi a humaka exikarhi ka hina.",
+    "Hi endle xikungu xo vavisa xikombiso xa singita, ku nga khathariseki switsundzuxo swa ku xupuriwa lokukulu.",
+    "Hi kanete xileriso xo tshika xivumbiwa xo hlawuleka xi nwa exihlobyeni xa hina hi masiku yo cincana.",
+    "Hi hlangane ni makumu lama onhaka, hi hlaseriwe ehansi hi ku buluka kun’we, loku chavisaka endzhaku ka xiendlo xa hina xa ku tlula nawu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Vanhu va 'Ad",
+        "Vanhu va le Midiyani",
+        "Vanhu va Ndlopfu",
+        "Vanhu va le Thamud",
+        "Vanhu va Lut"
+      ],
+      "answer": "Vanhu va le Thamud"
+    },
+    "trial": {
+      "label": "Ndzingo/Xiendlakalo Xa Hina Lexikulu",
+      "options": [
+        "Ndhambi leyi funengeteke tiko",
+        "Ku avana ka lwandle",
+        "Ku lovisiwa hi ku buluka/ku huwelela kan’we",
+        "Ku hisiwa ka muti",
+        "Ku hundzuka ka ntshava yi va ntshuri"
+      ],
+      "answer": "Ku lovisiwa hi ku buluka/ku huwelela kan’we"
+    },
+    "location": {
+      "label": "Xiphemu Xa Nkoka Eka Xitori Xa Hina",
+      "options": [
+        "Rhole ra nsuku",
+        "Kamela ya xisati ya singita",
+        "Xihlahla lexi pfurhaka",
+        "Xinyenyana lexi vulavulaka",
+        "Xiluvelo lexikulu"
+      ],
+      "answer": "Kamela ya xisati ya singita"
+    },
+    "outcome": {
+      "label": "Vuyelo Bya Hina Byo Hetelela",
+      "options": [
+        "U nyikiwile rifuwo lerikulu swinene ni matimba",
+        "Ku tlakusiwa ku ya eka vuprofeta",
+        "Ku herisiwa loku heleleke hi nxupulo wa Xikwembu",
+        "Ku rivaleriwa endzhaku ka ku hundzuka loku humaka embilwini",
+        "Va hangalakile emisaveni hinkwayo leswaku va famba-famba"
+      ],
+      "answer": "Ku herisiwa loku heleleke hi nxupulo wa Xikwembu"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

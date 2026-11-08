@@ -1,0 +1,61 @@
+{
+  "title": "Krik iz dubine",
+  "intro": "Sluga Najmilostivijeg se umorio od tvrdoglave nacije i otišao prije nego što mu je odobreno. Ova osoba je završila na mjestu gdje nijedan čovjek nikada nije bio, gdje poziv Božanskom čudno odjekuje kroz slojeve tame. Izranjajući oslabljena, ali transformirana, ova duša je postala bezvremenska lekcija o strpljenju, iskrenom pokajanju i bezgraničnoj milosti Stvoritelja. Možete li razotkriti misteriju?",
+  "clues": [
+    "Poslan sam kao glasnik svom narodu, ali oni su u svom nevjerovanju prešli sve granice i odbili su slušati.",
+    "Razljutio sam se zbog njihovog odbijanja i pobjegao od svog naroda prije nego što je stigla Allahova naredba.",
+    "Ukrcao sam se na brod natovaren preko svake mjere, i bacili smo žrijeb da odredimo ko će biti bačen u more.",
+    "Bio sam bačen u razjareno more i progutala me velika riba.",
+    "Zarobljen u tri sloja tame - utrobi, dubokom moru i zemlji ispod - zazvao sam svog Gospodara u iskrenom pokajanju.",
+    "Izronio sam iz ribe na otvorenu obalu, slab i umoran, a tikva je izrasla preko mene. Moj narod, sto hiljada ili više, konačno je povjerovao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Junus",
+        "Poslanik Ajjub",
+        "Poslanik Jusuf",
+        "Poslanik Musa",
+        "Poslanik Sulejman"
+      ],
+      "answer": "Poslanik Junus"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Progutala ga je velika riba",
+        "Bačen u plamteću vatru",
+        "Zarobljen na dnu bunara",
+        "Preplavljen velikom poplavom",
+        "Nepravedno zatvoren od strane kralja"
+      ],
+      "answer": "Progutala ga je velika riba"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Utroba velike ribe",
+        "Sveta dolina u blizini Kabe",
+        "Arka koja počiva na planini",
+        "Štap koji se pretvorio u zmiju",
+        "Prijestolje neusporedive veličanstvenosti"
+      ],
+      "answer": "Utroba velike ribe"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Njegov narod, sto hiljada ili više, vjerovao je",
+        "Živ uzdignut do neba",
+        "Postao je vladar nenadmašnog kraljevstva",
+        "Uništen prodornim krikom s neba",
+        "Prevrnuta razornim zemljotresom"
+      ],
+      "answer": "Njegov narod, sto hiljada ili više, vjerovao je"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

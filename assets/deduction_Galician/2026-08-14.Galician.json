@@ -1,0 +1,61 @@
+{
+  "title": "As mans malditas",
+  "intro": "Estás nas sinuosas ruelas da antiga Meca, onde unha alma influínte e rica outrora se afastou da chamada da verdade. A historia desta figura é un claro recordatorio de que os lazos de sangue non poden superar as cadeas do orgullo. Quen é esta persoa cuxo nome resoa co lume que agarda?",
+  "clues": [
+    "Camiñei polas rúas da Meca cun orgullo que me cegaba á verdade, aínda que o mensaxeiro era do meu propio sangue.",
+    "As miñas posesións eran vastas, pero convertéronse nunha maldición en vez de nun escudo.",
+    "O libro da guía fala da miña ruína, declarando que as miñas mans e a miña persoa perecerán.",
+    "O meu esposo uniuse á miña campaña de inimizade, recollendo espiñas para espallar no camiño daquele que invocou a Alá.",
+    "O día do xuízo, serei mergullado nun lume abrasador, e o meu esposo terá unha corda de fibra de palma arredor do pescozo.",
+    "Son coñecido por un nome que significa \"pai da chama\", un nome que presaxia a miña morada eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Proba ou evento clave",
+      "options": [
+        "Opúxose ao Profeta e foi maldito no Corán",
+        "Liderou un exército para destruír a Kaaba",
+        "Intentou matar o Profeta tirándolle pedras",
+        "Negouse a crer na división da Lúa",
+        "Construíu unha torre para chegar aos ceos"
+      ],
+      "answer": "Opúxose ao Profeta e foi maldito no Corán"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O lume abrasador do inferno",
+        "O bastón de Musa",
+        "A Arca de Nuh",
+        "O pozo de Zamzam",
+        "O Becerro de Ouro"
+      ],
+      "answer": "O lume abrasador do inferno"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Entrará no lume abrasador e as súas riquezas non lle servirán de nada",
+        "Arrepentiuse e converteuse en crente",
+        "Foi perdoado despois de retractarse",
+        "Morreu como mártir",
+        "Foi levado aos ceos"
+      ],
+      "answer": "Entrará no lume abrasador e as súas riquezas non lle servirán de nada"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

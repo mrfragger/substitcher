@@ -1,0 +1,60 @@
+{
+  "title": "El juicio bajo las olas",
+  "intro": "Un profeta, abrumado por su misión, tomó una decisión que lo alejó de su pueblo y lo enfrentó a una prueba inesperada. Su viaje dio un giro dramático, poniendo a prueba su fe y paciencia de la manera más profunda. ¿Puedes deducir los detalles de este extraordinario suceso a partir de las pistas proporcionadas?",
+  "clues": [
+    "Un profeta fue enviado a un pueblo, pero partió apresuradamente, frustrado por su rechazo.",
+    "Su viaje lo llevó al mar, donde abordó un barco muy cargado que buscaba paso.",
+    "Se desató una gran tormenta que amenazaba el barco, y se decidió, mediante sorteo, arrojar a una persona por la borda para aligerar la carga.",
+    "Fue engullido por una criatura de las profundidades, un acontecimiento milagroso decretado por la voluntad divina.",
+    "En el interior del vientre de la criatura, clamó a su Señor, arrepintiéndose y glorificando a Alá en la oscuridad.",
+    "Tras un período de intensas súplicas, fue arrojado a una costa desierta, débil pero con vida, y más tarde regresó para descubrir que su pueblo finalmente había creído."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Persona",
+      "options": [
+        "Profeta Noé",
+        "Profeta Lut",
+        "El profeta Musa",
+        "El profeta Yunus",
+        "Profeta Yusuf"
+      ],
+      "answer": "El profeta Yunus"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El diluvio de Noé",
+        "La destrucción de Sodoma",
+        "El viaje en el vientre del gran pez",
+        "La división del mar",
+        "La revelación de la zarza ardiente"
+      ],
+      "answer": "El viaje en el vientre del gran pez"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "Monte Sinaí",
+        "El personal de Musa",
+        "El Gran Pez",
+        "El pozo de Yusuf"
+      ],
+      "answer": "El Gran Pez"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Un nuevo pacto con la humanidad",
+        "Un nacimiento milagroso para su pueblo.",
+        "Un reino establecido para su linaje",
+        "Un regreso a su gente que entonces creía",
+        "Una victoria sobre un gobernante tiránico."
+      ],
+      "answer": "Un regreso a su gente que entonces creía"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

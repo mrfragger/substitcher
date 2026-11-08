@@ -1,0 +1,60 @@
+{
+  "title": "El enigma del trono lejano",
+  "intro": "Un poderoso monarca, dotado de un dominio extraordinario, se enfrentó a un desafío peculiar que involucraba a una reina de una tierra lejana. El monarca buscaba demostrar poder y sabiduría divinos, desencadenando un evento increíble que desafió las leyes del tiempo y el espacio. ¿Puedes deducir los detalles de este suceso milagroso?",
+  "clues": [
+    "A un gobernante se le otorgaba un poder inmenso, que incluía el control sobre seres invisibles y la capacidad de dominar los vientos.",
+    "Este gobernante recibió noticias de una reina adinerada que adoraba al sol y decidió invitarla a la corte.",
+    "Antes de la llegada de la reina, la soberana expresó su deseo de traer su magnífico centro de poder desde su lejano reino.",
+    "Un poderoso genio se ofreció a recuperar el objeto antes de que el gobernante pudiera levantarse de su consejo.",
+    "Sin embargo, alguien con un profundo conocimiento de las Sagradas Escrituras ofrecía una recuperación aún más rápida, completando la tarea en un abrir y cerrar de ojos.",
+    "Tras su llegada, el gobernante ordenó que el objeto fuera modificado para poner a prueba el intelecto y la percepción de la reina cuando finalmente llegara al palacio."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Persona",
+      "options": [
+        "El profeta Moisés",
+        "El profeta David",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Profeta Sulayman"
+      ],
+      "answer": "Profeta Sulayman"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La división del mar",
+        "La paciencia en la adversidad",
+        "La construcción de la Kaaba",
+        "La prueba de los jardines",
+        "Trayendo el trono de la reina"
+      ],
+      "answer": "Trayendo el trono de la reina"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "La montaña",
+        "El pozo",
+        "El Trono"
+      ],
+      "answer": "El Trono"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Un gran sacrificio",
+        "Se estableció un reino",
+        "Un pueblo castigado",
+        "Un nuevo pacto",
+        "La sumisión de la reina a Alá"
+      ],
+      "answer": "La sumisión de la reina a Alá"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

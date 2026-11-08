@@ -1,0 +1,61 @@
+{
+  "title": "Guth Fírinneach na Seanré",
+  "intro": "Tá anam sa Chorán a bhfuil a scéal á insint i gcúpla véarsa amháin, ach lonraíonn a gcáilíochtaí uaisle go soiléir. Molta ag an Uilechumhachtach as bua speisialta, tá áit ag an seirbhíseach ársa seo de chuid an Trócaire is Trócaire i leathanaigh an nochta. Is é an tasc atá agat an figiúr suntasach seo a aithint. An féidir leat buille faoi thuairim a thabhairt cé hiad?",
+  "clues": [
+    "Is fáidh Allah mé a mhair i measc chéad ghlúnta an chine dhaonna.",
+    "Luaigh Allah mé ina Leabhar in éineacht le fáithe eile, agus moladh tugtha acu uile as an uaisleacht chéanna.",
+    "Déantar cur síos orm mar fhear na fírinne sa Choran.",
+    "Thóg Allah mé go dtí stádas ard nach bhfuil bainte amach ag mórán eile.",
+    "Luaitear m'ainm i Surah Al-Anbiya, i dteannta beirt fáidh eile a bhfuil moladh faighte acu as a gcuid foighne.",
+    "Is mise Idris, an fáidh fírinneach agus ardaithe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Idris",
+        "Fáidh Nuh",
+        "Fáidh Ibrahim",
+        "an Fáidh Músa",
+        "Fáidh Ismail"
+      ],
+      "answer": "An Fáidh Idris"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag coinneáil foighne agus fírinneacht, ansin ardaithe go stádas ard",
+        "Áirc mhór á tógáil chun na creidmhigh a shábháil ó thuile tubaisteach",
+        "Á chaitheamh i dtine lasrach agus teacht amach gan dochar ar bith",
+        "Ag tabhairt aghaidh ar rí cumhachtach agus ag ruaigeadh a arm draoithe",
+        "Ag maireachtáil i mbolg éisc mhóir i ndoimhneacht na farraige"
+      ],
+      "answer": "Ag coinneáil foighne agus fírinneacht, ansin ardaithe go stádas ard"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Stádas ard agus forásach ag Allah",
+        "Long ollmhór tógtha as plancanna agus curtha le tarra",
+        "Tine mhór a bhí á lasadh ag lucht adhradh íol rí olc",
+        "Farraige ollmhór a scoilt ina cosáin thirime",
+        "Bolg dorcha míol mór mór ag bun an aigéin"
+      ],
+      "answer": "Stádas ard agus forásach ag Allah"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Glacadh isteach i dtrócaire Allah mar dhuine de na fíréan",
+        "Sábháilte mar aon leis na creidmhigh uile ó thuilte domhanda",
+        "Shiúil amach as na lasracha gan teagmháil leis an tine",
+        "Threoraigh siad Clann Iosrael go sábháilte trasna na farraige",
+        "Athcheangailte lena dteaghlach dílis tar éis blianta fada cruatain"
+      ],
+      "answer": "Glacadh isteach i dtrócaire Allah mar dhuine de na fíréan"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

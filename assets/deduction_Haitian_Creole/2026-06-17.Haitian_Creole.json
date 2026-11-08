@@ -1,0 +1,61 @@
+{
+  "title": "Eko ki soti nan kwen vil la",
+  "intro": "Nan yon vil ki te vire do bay gidans diven an, yon figi solitè te parèt nan katye ki deyò yo, ap kouri ak yon mesaj espwa ak avètisman. Nanm bliye sa a t ap vin tounen yon senbòl etènèl nan yon lafwa solid.",
+  "clues": [
+    "Mwen te temwen yo te voye mesaje nan vil mwen an, men pèp mwen an te meprize yo kòm moun òdinè.",
+    "Mwen te kwè nan mesaj yo a epi mwen te santi verite a rezone anndan mwen.",
+    "Mwen te mande pèp mwen an pou yo obeyi mesaje yo ki pa t mande okenn rekonpans.",
+    "Mwen te kouri soti nan bout vil la, mwen t ap eseye ijan pou fè yo konprann.",
+    "Pèp mwen an te leve kont mwen, yo te touye m', men mwen te jwenn lapè etènèl.",
+    "Allah di mwen, 'Antre nan Paradi,' epi mwen swete pèp mwen an te kapab temwen onè yo te ban mwen an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Kwayan Ya-Sin nan",
+        "Uzair, moun ki poze kesyon an",
+        "Al-Khidr Gid la",
+        "Kwayan nan fanmi Faraon an",
+        "Namrud Tiran an"
+      ],
+      "answer": "Kwayan Ya-Sin nan"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Konfwonte yon pèp ki pa t kwè ki te touye l",
+        "Yo jete yo nan yon gwo dife",
+        "Yon gwo pwason vale l",
+        "Konstriksyon yon gwo lach",
+        "Kouri anba lame yon tiran"
+      ],
+      "answer": "Konfwonte yon pèp ki pa t kwè ki te touye l"
+    },
+    "location": {
+      "label": "Kote kle",
+      "options": [
+        "Bout ki pi lwen nan vil la",
+        "Mòn Tur la",
+        "Vale foumi yo",
+        "Rivyè Nil yo",
+        "Kavèn nan kavèn nan"
+      ],
+      "answer": "Bout ki pi lwen nan vil la"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Mati ak antre imedya nan Paradi",
+        "Chape ak delivrans",
+        "Asansyon nan syèl la",
+        "Nwaye nan lanmè a",
+        "Transfòme an wòch"
+      ],
+      "answer": "Mati ak antre imedya nan Paradi"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

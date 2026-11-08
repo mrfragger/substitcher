@@ -1,0 +1,61 @@
+{
+  "title": "La melodía que movió las montañas",
+  "intro": "Estás a punto de descubrir la historia de un siervo excepcional de Alá. En una tierra de mensajeros y gobernantes, esta figura fue bendecida con un libro divino, una voz poderosa y una fuerza sobre el hierro. Al leer las pistas, ¿podrás identificar de quién se trata?",
+  "clues": [
+    "Yo era un siervo de Alá a quien se le concedió un libro especial.",
+    "Tenía una voz preciosa, y mis alabanzas eran tan queridas que incluso las colinas y los pájaros se unieron a mí.",
+    "Me enfrenté a un formidable adversario en una famosa batalla y, a pesar de ser más pequeño, salí victorioso.",
+    "El hierro se hizo maleable para mí, lo que me permitió fabricar armaduras con mis propias manos.",
+    "Me nombraron gobernante de una gran nación, y mi sabiduría en los juicios era reconocida.",
+    "A mi hijo, que también era profeta, se le concedió el control sobre el viento y los genios."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Dawud (David)",
+        "Profeta Sulaimán (Salomón)",
+        "Profeta Musa (Moisés)",
+        "Profeta Harún (Aarón)",
+        "Profeta Ilyas (Elías)"
+      ],
+      "answer": "Profeta Dawud (David)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Goliat (Jalut) derrotó.",
+        "El mar se separó",
+        "Sobrevivió a la ballena",
+        "Fue arrojado al fuego.",
+        "Construyeron el Arca"
+      ],
+      "answer": "Goliat (Jalut) derrotó."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Zabur (Salmos)",
+        "La Torá (Tawrat)",
+        "El Evangelio (Injil)",
+        "Los Rollos de Ibrahim",
+        "El Corán"
+      ],
+      "answer": "El Zabur (Salmos)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se convirtió en profeta y rey ​​de Israel.",
+        "Se convirtió en gobernante de Egipto.",
+        "Fue elevado a los cielos",
+        "Fue destruido por una tormenta.",
+        "Se convirtió en compañero de la cueva."
+      ],
+      "answer": "Se convirtió en profeta y rey ​​de Israel."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

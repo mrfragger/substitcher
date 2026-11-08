@@ -1,0 +1,61 @@
+{
+  "title": "Ku Landzula Exikarhi Ka Ku Tala",
+  "intro": "U tikuma u ri exikarhi ka vanhu lava timakete ta vona ti nga ni mabindzu, hambiswiritano swikalo swa vona swi rhelela hi ndlela leyi nga tshembekiki. Murhumiwa u tile eka vona a ri ni switsundzuxo leswi nga erivaleni, kambe va hleka va tlhelela endzhaku, va tiyiseka leswaku va ta humelela. Xibakabaka xi sungula ku va munyama, kambe va swi vona ku ri nkateko wa mpfula. I vamani vanhu lava?",
+  "clues": [
+    "Hi humelerile ematikweni ya mabindzu ni le ka swilo swo tala, hambiswiritano timbilu ta hina a ti nga ri na ntwela-vusiwana.",
+    "Murhumiwa u tile eka hina a ri na swikombiso leswi humaka eka Hosi ya hina, kambe hi hlekula switsundzuxo swa yena.",
+    "A hi tiveka hi bindzu ra hina, kambe a hi nyikela hi mpimo wo koma hi tlhela hi kanganyisa vanhu.",
+    "A hi tshama exikarhi ka mirhi yo tsindziyela ni swimilana leswi tlhumeke, kambe mikateko ya hina a hi yi teka yi nga ri ya nkoka.",
+    "Loko papa ra ntima ri tshinela, hi tsakile, hi ehleketa leswaku mpfula yi ta na ematikweni ya hina lama omeke.",
+    "Ematshan’weni ya sweswo, papa rero ri humese nxupulo lowu hisaka, naswona hi khomiwe hi ku xanisiwa ka siku ra ndzhuti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Ashab al-Aykah (Vaseketeri va Tihunyi) .",
+        "Vanhu va le Thamud",
+        "Vanhu va 'Ad",
+        "Vanhu va Lut",
+        "Vanhu va le Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Vaseketeri va Tihunyi) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Va ale murhumiwa wa vona kutani va kanganyisa hi ku xaviselana",
+        "A va gandzela rhole ra nsuku kutani va hambukisiwa",
+        "A va endla vusodoma naswona a va hlasela vafambi",
+        "Va ake swihondzo swo leha va tlhela va tlhontlha Xikwembu",
+        "Va arile ku avelana mati kutani va vavisa kamela ya xisati"
+      ],
+      "answer": "Va ale murhumiwa wa vona kutani va kanganyisa hi ku xaviselana"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Khwati leri tlhumeke kumbe xihlahla",
+        "Ntshava leyi vatliweke yi va tindhawu to tshama eka tona",
+        "Muti lowu nga etlhelo ka lwandle",
+        "Nkova wa mananga lowu nga ni swihlovo",
+        "Ntanga lowu noneke lowu nga ni mihandzu yo tala"
+      ],
+      "answer": "Khwati leri tlhumeke kumbe xihlahla"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku lovisiwa hi papa ra ndzhuti ra ndzilo",
+        "Ku nwela hi ndhambi leyikulu",
+        "Ku mitiwa hi ku tsekatseka ka misava",
+        "Ku hlaseriwa hi moya wa matimba",
+        "Yi hundzuke ribye"
+      ],
+      "answer": "Ku lovisiwa hi papa ra ndzhuti ra ndzilo"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A tavasz a homok alatt",
+  "intro": "A Korán krónikáiban egy mérhetetlen türelemmel megáldott alak olyan megpróbáltatással nézett szembe, amely a legbátrabb szíveket is összetörte volna. Mindent megfosztottak tőle – vagyont, családot és egészséget. Mégis, a kétségbeesés mélyéről egy alázatos ima a legváratlanabb módon választ kapott. Felismered ezt a lelket, akinek a helyreállításának története korokon átível?",
+  "clues": [
+    "Olyan súlyos megpróbáltatás érte, hogy korokon át emlékezni fognak rá.",
+    "Mindent elvesztettem, ami számított – a vagyonomat, a gyermekeimet és az egészségemet.",
+    "A testemet fájdalmas sebek borították, és mindenki elkerült.",
+    "Kétségbeesésemben Allahhoz kiáltottam, mondván, hogy a Sátán nehézségekkel és gyötrelmekkel sújtott engem.",
+    "Allah válaszolt nekem, és megparancsolta, hogy üssek a földre a lábammal.",
+    "Abból a helyből egy hűs forrás tört fel, és Allah helyreállította a családomat, és kegyelemből megduplázta őket."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ayyub próféta",
+        "Mózes próféta",
+        "Ilja próféta",
+        "Szulejmán próféta",
+        "Dawud próféta"
+      ],
+      "answer": "Ayyub próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Súlyos betegség, család és vagyon elvesztése",
+        "Egy hatalmas bálna lenyelése",
+        "Száműzetés Mekka városából",
+        "Mély kútba zárva",
+        "Szembesülés egy arrogáns uralkodóval"
+      ],
+      "answer": "Súlyos betegség, család és vagyon elvesztése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy hűs tavasz a földből",
+        "Egy hajó egy nagy árvízen",
+        "Egy bot, amely kettéhasította a tengert",
+        "Egy magas üvegtrón",
+        "Fallal körülvett barlang alváshoz"
+      ],
+      "answer": "Egy hűs tavasz a földből"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Család és vagyon helyreállítva és megduplázva",
+        "Kilépés a hal gyomrából",
+        "Biztonságos áthaladás az elvált vizeken",
+        "Egy uralkodásra adott királyság",
+        "Egy fiú csodálatos születése idős korban"
+      ],
+      "answer": "Család és vagyon helyreállítva és megduplázva"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

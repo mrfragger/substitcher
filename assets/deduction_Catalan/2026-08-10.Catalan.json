@@ -1,0 +1,61 @@
+{
+  "title": "Els guardians de la collita secreta",
+  "intro": "En una terra verda, un grup d'individus va fer un pla secret sota la cobertura de la foscor. Compartien un propòsit comú, però la seva intenció era lluny de ser justa. No sabien que un gir diví els esperava mentre dormien.",
+  "clues": [
+    "Vam prendre una ferma resolució, pensant que el nostre pla era impecable.",
+    "Teníem la intenció de sortir d'hora, abans que els altres poguessin ni tan sols moure's.",
+    "Vam endinsar-nos en una parcel·la fèrtil, confiant en les nostres provisions.",
+    "Quan vam arribar a la nostra destinació, la vam trobar àrida i desolada, així que vam pensar que ens havíem perdut.",
+    "Aleshores ens vam adonar que realment era el nostre lloc, i vam cridar de desesperació, culpant-nos mútuament de la nostra pèrdua.",
+    "Aquell matí havíem jurat excloure els pobres de la nostra collita, però el càstig d'Al·là ens va caure mentre dormíem, convertint el nostre jardí en ruïnes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Els propietaris del jardí a la sura 68",
+        "La gent de Saba",
+        "Els companys de la cova",
+        "La gent de l'elefant",
+        "La gent de la trinxera"
+      ],
+      "answer": "Els propietaris del jardí a la sura 68"
+    },
+    "trial": {
+      "label": "El nostre judici",
+      "options": [
+        "El nostre jardí va ser destruït per una calamitat del cel",
+        "El nostre jardí va ser arrasat per una inundació",
+        "El nostre jardí va ser cremat per un foc d'un enemic",
+        "El nostre jardí estava ple de llagostes",
+        "El nostre jardí va ser engolit per un terratrèmol"
+      ],
+      "answer": "El nostre jardí va ser destruït per una calamitat del cel"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Vam jurar collir-ne els fruits al matí",
+        "Vam construir una presa per regar el nostre jardí",
+        "Vam buscar refugi en una cova per protegir-nos",
+        "Vam preparar un exèrcit per conquerir un regne",
+        "Vam navegar en vaixell per creuar el mar"
+      ],
+      "answer": "Vam jurar collir-ne els fruits al matí"
+    },
+    "outcome": {
+      "label": "El nostre destí",
+      "options": [
+        "Ens vam penedir i vam esperar la misericòrdia d'Al·là",
+        "Vam ser completament destruïts i mai ens vam penedir",
+        "Vam fugir de la terra i no vam tornar mai més",
+        "Vam tornar a ser poderosos i rics",
+        "Ens van castigar convertint-nos en micos"
+      ],
+      "answer": "Ens vam penedir i vam esperar la misericòrdia d'Al·là"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

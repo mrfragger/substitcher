@@ -1,0 +1,61 @@
+{
+  "title": "I pari që kërkon falje",
+  "intro": "Kthehuni pas në kohën para lindjes së diellit të parë, përpara se ndonjë njeri të ecte mbi tokë. Një figurë u krijua nga materialet më të thjeshta, iu dha një pozicion mbi engjëjt dhe u vendos në një kopsht të shenjtë me një paralajmërim të qartë. Megjithatë, në një moment të vetëm, u bë një zgjedhje - një zgjedhje që do të jehonte në të gjithë historinë njerëzore. Kush është kjo figurë?",
+  "clues": [
+    "Unë u solla në ekzistencë në një mënyrë të pashoqe nga asnjë tjetër - i formuar nga pluhuri i tokës dhe më është dhënë një shpirt i gjallë nga dora e Krijuesit.",
+    "Më është dhënë një njohuri aq e thellë saqë edhe engjëjt qiellorë u mahnitën me të.",
+    "I gjithë qielli u urdhërua të përkulej para meje dhe të gjithë iu nënshtruan - përveç njërit, i cili refuzoi nga krenaria.",
+    "Më vendosën në një kopsht të shenjtë, një vend rehatie dhe furnizimi të përjetshëm - por me një ndalim të rreptë.",
+    "Harrova, rrëshqita dhe nuk iu binda — dhe e ndjeva thellë peshën e gabimit tim.",
+    "Iu drejtova Zotit tim me fjalë të përzemërta dhe Ai e pranoi pendimin tim, sepse Ai është Mëshiruesi i Madh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Adam",
+        "Profeti Davud",
+        "Profeti Muhamed",
+        "Iblisi",
+        "Profeti Jakub"
+      ],
+      "answer": "Profeti Adam"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Engjëjve iu urdhërua të bënin sexhde",
+        "Përmbytja e Madhe u dërgua",
+        "Një zjarr i madh u bë i freskët dhe i sigurt",
+        "Një sundimtar arrogant u mbyt në det",
+        "Një ushtri elefantësh u shkatërrua"
+      ],
+      "answer": "Engjëjve iu urdhërua të bënin sexhde"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Kopshti i Lumturisë",
+        "Mali Sinai",
+        "Xhamia e Shenjtë",
+        "Lumi Nil",
+        "Shpella"
+      ],
+      "answer": "Kopshti i Lumturisë"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Pendimi u pranua nga Allahu",
+        "U mbyt në det",
+        "Gëlltitur nga një peshk i madh",
+        "Kombi u godit nga një shpërthim i fuqishëm",
+        "I djegur nga një erë përvëluese"
+      ],
+      "answer": "Pendimi u pranua nga Allahu"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

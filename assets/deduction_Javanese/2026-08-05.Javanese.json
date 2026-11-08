@@ -1,0 +1,61 @@
+{
+  "title": "Dina Pagelaran Pungkasan",
+  "intro": "Diundang kanggo pertunjukan kekuasaan sing gedhe, sekelompok pemain trampil ngadhepi bebener sing ora dikarepke sing bakal ngganti uripe selawase.",
+  "clues": [
+    "Kita misuwur amarga keahlian kita, ahli ilusi lan akal bulus.",
+    "Kita ditimbali dening panguwasa kanggo ngadhepi penantang sing nggunakake tongkat prasaja.",
+    "Nalika kita weruh bebener, kita banjur sujud, ngumumaké kapercayan marang Pangéraning jagad kabèh.",
+    "Tiran mau ngancam kita nganggo paukuman sing abot, nanging kita ora goyah.",
+    "Kita kalebu wong-wong sing pisanan percaya marang pesen kasebut sawise nyakseni pratandha sing jelas.",
+    "Kita wis syahid amarga iman kita, nanging kita bakal dadi wong pisanan sing mlebu swarga bebarengan karo wong-wong sing bener."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Kita?",
+      "options": [
+        "Para Tukang Sihir Firaun",
+        "Wong Israel",
+        "Kaum Tsamud",
+        "Para Muridé Nabi Isa",
+        "Tentara Abrahah"
+      ],
+      "answer": "Para Tukang Sihir Firaun"
+    },
+    "trial": {
+      "label": "Uji Coba / Acara",
+      "options": [
+        "Kontes karo Nabi Musa",
+        "Mbangun Menara",
+        "Banjir Gedhe",
+        "Wabah Walang",
+        "Segara sing Misah"
+      ],
+      "answer": "Kontes karo Nabi Musa"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Dina Festival",
+        "Lembah Tuwa",
+        "Kutha Iram",
+        "Taman Langgeng",
+        "Dataran Arafat"
+      ],
+      "answer": "Dina Festival"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Wong-wong mau disalib ing ngarepe wong akeh",
+        "Wong-wong mau padha klelep ing segara",
+        "Wong-wong mau padha dadi pengikute kanjeng nabi",
+        "Wong-wong mau dikirim menyang pangasingan",
+        "Wong-wong mau diobong dening geni"
+      ],
+      "answer": "Wong-wong mau disalib ing ngarepe wong akeh"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

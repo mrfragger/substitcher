@@ -1,0 +1,61 @@
+{
+  "title": "Ndị Na-ege Ntị Site n'Ihe A Na-ahụghị Anya",
+  "intro": "N'ofe ihe mkpuchi nke ụwa a na-ahụ anya, otu nzukọ zoro ezo zukọrọ n'ọchịchịrị, dọtara na ụda nke na-emegide ihe niile ha maara. Ha agagharịwo ruo ọtụtụ afọ na-enweghị ezigbo nduzi, ruo mgbe olu batara n'ime jụụ nke alaeze ha a na-adịghị ahụ anya wee kpalite ihe dị n'ime. N'abalị a, a kpọrọ gị òkù ka ị gafere onyinyo ahụ wee kpughee njirimara nke otu ihe omimi a, ndị zutere okwu Chineke dugara ha azụ n'ebe ndị ha nọ dị ka ndị na-adọ aka ná ntị banyere eziokwu nke a na-apụghị ijide.",
+  "clues": [
+    "Anyị bụ ndị ochie, ndị dịrị ndụ ogologo oge tupu ọtụtụ mba ị gụrụ maka ha, mana a naghị ekwu maka anyị n'akụkọ ifo mmadụ.",
+    "Ọdịdị anyị adịghị ka nke gị, nke e ji ihe ndị a na-adịghị ahụ anya kpụọ, anyị nwekwara ike ndị na-emegide ihe nkịtị.",
+    "Ruo ọtụtụ afọ, anyị na-agagharị n'enweghị ezigbo nduzi, ruo mgbe ụda ruru anyị nke kpaliri ihe dị n'ime anyị.",
+    "Anyị nụrụ okwu dị ka ihe ọ bụla anyị nụtụrụla, okwu ndị karịrị okwu ọ bụla.",
+    "Anyị gbachiri nkịtị n'ime nzuzo, na-enye iwu ka anyị gbachie nkịtị, mgbe amaokwu ndị ahụ gwụchara, anyị enweghị ike ịnọ otu ebe.",
+    "Anyị laghachiri n'ebe ndị anyị nọ wee kwuo, sị: 'Unu ndị anyị, anyị anụla akwụkwọ e kpughere mgbe Mozis gasịrị, na-akwado ihe dị n'ihu ya, na-eduzi anyị gaa n'eziokwu.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Hawariyyun (Ndị na-eso ụzọ Isa)",
+        "Jin onye kwere mgbe ọ nụrụ Quran",
+        "Ndị Enyi nke Ọgba ahụ",
+        "Ndị mmụọ ozi nke eluigwe dị ala",
+        "Ndị Fero ndị soro ụzọ ya"
+      ],
+      "answer": "Jin onye kwere mgbe ọ nụrụ Quran"
+    },
+    "trial": {
+      "label": "Nnwale / Ihe Omume",
+      "options": [
+        "A chụpụrụ anyị maka ịjụ ịkpọ isiala n'ihu onye e kere ọhụrụ",
+        "E mechiri anyị ọnụ n'ọgba ruo narị afọ atọ na itoolu",
+        "E nyere anyị iwu ka anyị gafee oké osimiri nke kewara n'ihu anyị",
+        "E zigara anyị n'ala anwansi ka anyị mụọ anwansi.",
+        "Anyị gere ntị n'ihe e kwuru n'ụzọ nzuzo, o wee gbanwee anyị site na ya."
+      ],
+      "answer": "Anyị gere ntị n'ihe e kwuru n'ụzọ nzuzo, o wee gbanwee anyị site na ya."
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Nwa ehi ọlaedo e ji ihe ịchọ mma nke ndị mmadụ kpụọ",
+        "Ọgba ebe ụra dịruru ọtụtụ ọgbọ",
+        "Ndị mmụọ ozi abụọ nọ na Babịlọn bụ́ ndị kụziri ihe ọmụma a machibidoro iwu",
+        "Akwụkwọ e kpughere mgbe Mozis gasịrị, nke na-akwado Torah",
+        "Osisi na-ere ọkụ n'elu ugwu nsọ"
+      ],
+      "answer": "Akwụkwọ e kpughere mgbe Mozis gasịrị, nke na-akwado Torah"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A bụrụ anyị ọnụ ruo ụbọchị ikpe",
+        "Anyị lụsoro onye ọchịchị dị ike ọgụ ma wulite ihe mgbochi n'ala ahụ",
+        "A gbanwere anyị ka anyị ghọọ enwe na ezì",
+        "Anyị laghachiri n'ebe ndị anyị nọ dị ka ndị na-adọ aka ná ntị, na-ekwupụta nkwenye",
+        "Anyị nwụrụ n'oké osimiri n'akụkụ onye ndu anyị."
+      ],
+      "answer": "Anyị laghachiri n'ebe ndị anyị nọ dị ka ndị na-adọ aka ná ntị, na-ekwupụta nkwenye"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

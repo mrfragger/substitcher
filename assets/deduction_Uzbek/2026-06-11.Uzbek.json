@@ -1,0 +1,61 @@
+{
+  "title": "Sinov qirg'og'idagi qishloq",
+  "intro": "Siz o'zingizni qirg'oqbo'yi qishloqda topasiz, u yerda to'lqinlarning ovozi unutilgan xalqning pichirlashlari bilan aralashib ketadi. Ularga dam olish buyurilgan edi, ammo ularning ochko'zligi hali ham jimgina aytiladigan jazoga olib keldi. Ular kimligini aniqlay olasizmi?",
+  "clues": [
+    "Biz qirg'oq bo'yida yashardik va bizga dam olish kunini belgilash buyurilgan edi.",
+    "O'sha kuni baliq bizga mo'l-ko'l kelardi, lekin bizga ularni olish taqiqlangan edi.",
+    "Ba'zilarimiz qonunbuzarlikdan ogohlantirishdi, ammo boshqalar baribir baliq ovlashga til biriktirishdi.",
+    "Biz muqaddas amrni buzdik va o'zimizga qattiq jazo keltirdik.",
+    "Bizning jazomiz bizni buzuq va sharmanda qilgan o'zgarish edi.",
+    "Biz maymunlarga aylantirildik, bu bizdan keyin keladiganlar uchun alomat edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Shabbat kuni odamlari",
+        "Samud qavmi",
+        "Ad qavmi",
+        "G'or odamlari",
+        "Fil odamlari"
+      ],
+      "answer": "Shabbat kuni odamlari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Shanba kuni baliq ovlash",
+        "Oltin buzoqqa sig'inish",
+        "Hudning xabarini inkor etish",
+        "Urg'ochi tuyani o'ldirish",
+        "Jannatga minora qurish"
+      ],
+      "answer": "Shanba kuni baliq ovlash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Baliq",
+        "Urg'ochi tuya",
+        "Xodim",
+        "Qayiq",
+        "Bog'"
+      ],
+      "answer": "Baliq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Maymunlarga aylangan",
+        "To'fon tomonidan vayron qilingan",
+        "Yonayotgan olov bilan vayron qilingan",
+        "Yer tomonidan yutib yuborilgan",
+        "Shamol tomonidan sochilib ketgan"
+      ],
+      "answer": "Maymunlarga aylangan"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

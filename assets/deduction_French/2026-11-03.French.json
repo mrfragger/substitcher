@@ -1,0 +1,61 @@
+{
+  "title": "Le sommeil des justes",
+  "intro": "À une époque où la foi était dangereuse et où les puissants cherchaient à anéantir les croyances, un petit groupe de jeunes gens fit un choix dont l'écho traverserait les siècles. Fuyant tout ce qu'ils connaissaient, ils trouvèrent refuge dans l'obscurité cachée d'une montagne et placèrent leur confiance en Allah. Ce qui suivit deviendrait un signe intemporel pour ceux qui méditent.",
+  "clues": [
+    "Nous étions un groupe de jeunes gens qui croyaient en notre Seigneur, et Il nous a guidés toujours davantage.",
+    "Nous nous sommes tenus devant notre peuple et avons déclaré que nous n'invoquerions jamais aucune autre divinité qu'Allah.",
+    "Nous nous sommes réfugiés dans une grotte, en disant : « Seigneur, accorde-nous Ta miséricorde et guide-nous sur le droit chemin. »",
+    "Nous avons dormi pendant de très nombreuses années, et le soleil s'inclinait à l'opposé de notre grotte et ne nous touchait pas.",
+    "Notre chien était allongé de tout son long à l'entrée de la grotte, nous gardant comme s'il était de garde.",
+    "À notre réveil, nous nous sommes demandé combien de temps nous avions tardé, et l'un de nous a été envoyé avec des pièces d'argent pour acheter de la nourriture."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les gens de la grotte",
+        "Les gens de la tranchée",
+        "Peuple du sabbat",
+        "Le peuple de l'éléphant",
+        "Compagnons du bois"
+      ],
+      "answer": "Les gens de la grotte"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Ils se sont réfugiés dans une grotte pour échapper aux persécutions liées à leur foi.",
+        "Détruit par un vent violent",
+        "Englouti par la terre",
+        "Noyé dans la mer",
+        "Frappé par une tempête de pierres"
+      ],
+      "answer": "Ils se sont réfugiés dans une grotte pour échapper aux persécutions liées à leur foi."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un chien garde l'entrée de la grotte",
+        "Une grande arche",
+        "Un bâton qui s'est transformé en serpent",
+        "Une huppe",
+        "Un veau doré"
+      ],
+      "answer": "Un chien garde l'entrée de la grotte"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Elles restèrent dans la grotte pendant 309 ans, puis furent érigées en signe",
+        "Ils furent transformés en singes",
+        "Ils ont été détruits par une inondation",
+        "Ils ont été contraints de traverser la mer",
+        "On leur a donné un royaume"
+      ],
+      "answer": "Elles restèrent dans la grotte pendant 309 ans, puis furent érigées en signe"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

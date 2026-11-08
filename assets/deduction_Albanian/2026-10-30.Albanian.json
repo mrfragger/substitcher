@@ -1,0 +1,61 @@
+{
+  "title": "Vigjilja e të pikëlluarve",
+  "intro": "Do të hasësh një shpirt të sprovuar nga ndarja më e thellë, sytë e të cilit e njihnin gjuhën e lotëve, por zemra e të cilit nuk e humbi kurrë shpresën. Në një histori mashtrimi, malli dhe ribashkimi përfundimtar, ky shërbëtor fisnik i Allahut u bë simbol i durimit për të gjitha kohërat. Kush i duroi vitet e dhimbjes së fshehur, vetëm për t'i rikthyer shikimin dhe gëzimin në një moment të vetëm?",
+  "clues": [
+    "Unë jam një profet, emri i të cilit u bë simbol i durimit përballë humbjeve të mëdha.",
+    "U bekova me shumë bij, por njërin ma mori xhelozia e të tjerëve.",
+    "Dashuria ime për atë të humbur ishte aq e thellë sa sytë më u zbardhën nga pikëllimi, megjithatë nuk u ankova kurrë përveç Allahut.",
+    "I dërgova bijtë e mi përsëri për të kërkuar atë që kisha humbur dhe vëllain e tij, duke i nxitur të mos e humbnin shpresën.",
+    "Kur mbërriti lajmëtari i mirë, më hodhën një këmishë mbi fytyrë dhe papritmas bota u bë përsëri e qartë.",
+    "Unë njihem si Izrael dhe nga dymbëdhjetë bijtë e mi dolën dymbëdhjetë fiset e një kombi të madh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Jakub (Jakob)",
+        "Profeti Jusuf (Joseph)",
+        "Profeti Is’hak (Is’ak)",
+        "Profeti Ibrahim (Abraham)",
+        "Profeti Ejub (Job)"
+      ],
+      "answer": "Profeti Jakub (Jakob)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ndarja nga një djalë i dashur për shumë vite",
+        "Duke u hedhur në një zjarr të ndezur",
+        "Gëlltitur nga një peshk i madh",
+        "I prekur nga një sëmundje e rëndë e lëkurës",
+        "Të qenit pa fëmijë deri në pleqëri"
+      ],
+      "answer": "Ndarja nga një djalë i dashur për shumë vite"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Këmisha e Jusufit",
+        "Stafi i Musës",
+        "Arka e Nuhut",
+        "Deveja e Salihut",
+        "Unaza e Sulejmanit"
+      ],
+      "answer": "Këmisha e Jusufit"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Shikimi iu rikthye dhe u ribashkua me të birin",
+        "I dha fitoren mbi një mbret tiran",
+        "I ngritur në qiell i gjallë",
+        "U emërua sundimtar mbi Egjiptin",
+        "I dha një djalë në pleqëri si një mrekulli"
+      ],
+      "answer": "Shikimi iu rikthye dhe u ribashkua me të birin"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

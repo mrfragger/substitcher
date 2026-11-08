@@ -1,0 +1,61 @@
+{
+  "title": "Os canteiros do Val Antigo",
+  "intro": "Imaxina unha civilización que xurdiu nos vales rochosos de Arabia, hábil en esculpir magníficas casas nas ladeiras das montañas. Floreceron con forza e arte, pero a súa historia está marcada por un desafío arrepiante ás advertencias divinas. Ao afondar na súa historia, descubrirás un pobo cuxa arrogancia levou á súa aniquilación total. Quen eran?",
+  "clues": [
+    "Herdamos unha terra de chairas rochosas e cantís imponentes, onde construímos as nosas vivendas cunha habilidade sen igual.",
+    "Éramos coñecidos por esculpir fogares seguros nas montañas, sentíndonos a salvo de calquera dano.",
+    "Un mensaxeiro veu a nós de entre nós, lembrándonos dos favores de Alá e advertíndonos do castigo.",
+    "Esiximos un sinal, e unha cameloa milagrosa emerxeu da rocha, unha proba clara de Alá.",
+    "Desafiamos o aviso e cortamos os xavós da cameloa, burlándonos do mensaxeiro e desafiando o castigo.",
+    "Unha única explosión alcanzounos nas nosas casas e, pola mañá, xacíamos postrados, coma se nunca vivíramos alí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Xente de Thamud",
+        "Xente de 'Ad",
+        "Xente de Madyan",
+        "Xente de Nuh",
+        "Xente de Lut"
+      ],
+      "answer": "Xente de Thamud"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Cortoulle o tendón á camelo",
+        "Rompeu o sábado",
+        "Adorou o becerro de ouro",
+        "Mataron o profeta que lles enviaron",
+        "Construíu unha torre para chegar ao ceo"
+      ],
+      "answer": "Cortoulle o tendón á camelo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A cameloa",
+        "A Arca",
+        "O persoal",
+        "A man branca",
+        "O maná e as codornices"
+      ],
+      "answer": "A cameloa"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruído por unha explosión",
+        "Salvado da destrución",
+        "Convertidos en simios",
+        "Afogado no mar",
+        "Tragado pola terra"
+      ],
+      "answer": "Destruído por unha explosión"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

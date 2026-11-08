@@ -1,0 +1,61 @@
+{
+  "title": "Auditores ex Invisibilibus",
+  "intro": "Ultra velum mundi visibilis, coetus occultus in tenebris congregatus est, ad sonum tractus qui omnia quae antea noverant refutabat. Saecula sine vero ductu vagati erant, donec vox per silentium regni eorum invisibilis penetravit et aliquid intus profunde movit. Hac nocte, invitamini ut umbras ultra progrediamini et identitatem huius coetus mysteriosi detegatis, cuius occursus cum verbis divinis eos ad populum suum reduxit ut monentes veritatis quae contineri non poterat.",
+  "clues": [
+    "Nos sumus entia antiqua, multo ante multas gentes de quibus legistis exstantes, tamen raro de nobis in fabulis humanis agitur.",
+    "Natura nostra vestrae dissimilis est, ex elementis invisibilibus contexta, et vires habemus quae ordinaria superant.",
+    "Per saecula, sine vero duce vagati sumus, donec sonus nos attigit qui aliquid penitus intus commovit.",
+    "Recitationem audivimus qualem nihil umquam audiveramus, verba quae pondus ultra quamlibet orationem ferebant.",
+    "Clam arcte iungebamus, nostris silentium imperantes, et versus finitis, quieti manere non potuimus.",
+    "Ad populum nostrum reversi sumus et declaravimus: \"O populus noster, librum post Mosen revelatum audivimus, confirmantem quae ante eum erant, ad veritatem ducentem.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "The Hawariyyun (Disciples of Isa)",
+        "Jinn qui credidit postquam Quranum audiverunt",
+        "Socii Speluncae",
+        "Angeli caeli infimi",
+        "Populus Pharaonis qui viam eius secuti sunt"
+      ],
+      "answer": "Jinn qui credidit postquam Quranum audiverunt"
+    },
+    "trial": {
+      "label": "Iudicium / Eventum",
+      "options": [
+        "Eiecti sumus quod recusavimus nos inclinare ante ens recens creatum",
+        "In spelunca trecentos novem annos clausi sumus",
+        "Iussi sumus mare transire quod ante nos scissus est",
+        "Ad terram magicam missi sumus ut magiam disceremus",
+        "Recitationem clam audivimus et ab ea transformati sumus."
+      ],
+      "answer": "Recitationem clam audivimus et ab ea transformati sumus."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus aureus ex ornamentis populi factus",
+        "Spelunca in qua somnus per generationes duravit",
+        "Duo angeli in Babylone qui scientiam vetitam docuerunt",
+        "Liber post Mosen revelatus, Torah confirmans",
+        "Rubus ardens super montem sanctum"
+      ],
+      "answer": "Liber post Mosen revelatus, Torah confirmans"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Maledicti eramus usque ad diem iudicii",
+        "Contra principem potentem surreximus et munimentum in terra aedificavimus",
+        "In simias et porcos transformati sumus",
+        "Ad populum nostrum reversi sumus ut monentes, fidem praedicantes",
+        "In mari submersi sumus una cum duce nostro"
+      ],
+      "answer": "Ad populum nostrum reversi sumus ut monentes, fidem praedicantes"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

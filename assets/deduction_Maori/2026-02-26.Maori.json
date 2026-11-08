@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakamātautau o te Matewai",
+  "intro": "I tono tētahi hapori, e hiahia ana ki ngā kaiārahi hei tiaki i tā rātou kaupapa, kia whakatūria he rangatira mō rātou. I te whakautua o tā rātou tono, i tūtaki te hunga i whiriwhiria ki te ruarua, nā te mea kāore i a ia te mana o te ao i tumanakohia e rātou. I mua i te pakanga whakamutunga, ka whakamātautau tēnei kaiārahi hou i te whakahaere o te ope taua mā te whakamātautau ngāwari, engari hohonu, o te manawanui.",
+  "clues": [
+    "I whakatūria ahau hei rangatira i muri i te tono a tōku iwi i tētahi rangatira hei whawhai i te ara o Allah.",
+    "I te tīmatanga, he tokomaha o tōku ake iwi i pātai i tōku whakatūnga, e kī ana kāore au i te whai rawa, kāore hoki ōku uri rangatira.",
+    "I whiriwhiria ahau nā te mea kua homai e Atua ki ahau te nui o te mātauranga me te pakari o te tinana.",
+    "Ko tētahi tohu mārama o taku whakatūnga atua ko te hokinga mai o te Āka o te Kawenata, i amohia e ngā anahera, i kawea mai ai te rangimārie ki ngā ngākau o te hunga whakapono.",
+    "I a au e haere ana me aku hōia, ka kī atu ahau ka whakamatautauria mātou ki te taha o te awa.",
+    "I whakahau ahau i taku ope taua, ko te tangata e inu nui ana i te awa, kaua ia e noho hei hoa mōku; ko te tangata ia e tango noa i te kotahi koko ki tōna ringa ka noho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Jalut (Koriata)",
+        "Talut (Saul)",
+        "Poropiti a Rawiri",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "He aha te Whakamātautau Matua i Whakamātauria e Au?",
+      "options": [
+        "Te hanga i tētahi ārai hei ārai i a Koka rāua ko Makoka",
+        "Te tū atu ki tētahi tangata nunui i te pakanga takitahi",
+        "Te whakamātautau i te ngohengohe o te ope taua i te awa",
+        "Te ārahi i tētahi ope taua o ngā jinn me ngā manu",
+        "Te ora i te maka ki roto i te ahi"
+      ],
+      "answer": "Te whakamātautau i te ngohengohe o te ope taua i te awa"
+    },
+    "location": {
+      "label": "He aha te tohu matua o tōku mana?",
+      "options": [
+        "He tokotoko i huri hei nakahi",
+        "He kamera i puta mai i te toka",
+        "He kōti mēra i hangaia mai i te rino ngohengohe",
+        "Te Āka o te Kawenata (At-Tabut)",
+        "He tēpu kai mai i te rangi"
+      ],
+      "answer": "Te Āka o te Kawenata (At-Tabut)"
+    },
+    "outcome": {
+      "label": "He aha te hua o taku pakanga?",
+      "options": [
+        "Te hinganga o te ope taua a Jalut (Koriata)",
+        "Te wehe i te Moana Whero hei mawhiti i te kaitukino",
+        "Te whakatū i tētahi whare rangatira pumau i runga i tōku ingoa",
+        "Te hanga i te Kaaba tapu i Makkah",
+        "Te hiki ake ki te rangi, kāore e mate"
+      ],
+      "answer": "Te hinganga o te ope taua a Jalut (Koriata)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Seuralainen, joka kääntyi pois",
+  "intro": "Olet pian paljastamassa tarinan sielusta, joka eli profeetan varjossa, mutta valitsi polun, joka johti tuhoon. Tämä hahmo jakoi kodin yhden Allahin valitun sanansaattajan kanssa, mutta ei läpäissyt uskonkoetta. Kuka on tämä kadonnut seuralainen?",
+  "clues": [
+    "Elin ihmisten keskuudessa, jotka hylkäsivät kutsun vanhurskauteen, enkä vastustanut heitä.",
+    "Olin naimisissa Allahin profeetan kanssa, mutta en jakanut uskoa.",
+    "Kun sanansaattajat tulivat kotiini varoituksen kanssa, en uskonut heitä.",
+    "Puolisoni käskettiin lähtemään kaupungista uskovien kanssa, enkä minä ollut heidän joukossaan.",
+    "Rangaistus kohtasi kansaani, ja minut tuhottiin heidän kanssaan.",
+    "Minut mainitaan Koraanissa epäuskon esimerkkinä Nooan vaimon rinnalla suurassa At-Tahrimissa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Nooan vaimo",
+        "Profeetta Lutin vaimo",
+        "Profeetta Ibrahimin vaimo",
+        "Profeetta Musan vaimo",
+        "Profeetta Ayyubin vaimo"
+      ],
+      "answer": "Profeetta Lutin vaimo"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Petti miehensä olemalla epäuskoinen",
+        "Hyläsi profeetta Hudin viestin",
+        "Palvoivat epäjumalia avoimesti Kaabassa",
+        "Juoniteltu miehensä tehtävää vastaan",
+        "Kieltäytyi hyväksymästä poikansa profeetan asemaa"
+      ],
+      "answer": "Petti miehensä olemalla epäuskoinen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Sodoman kaupunki",
+        "Madyanin kaupunki",
+        "Iramin kaupunki",
+        "Babylonin kaupunki",
+        "Jerusalemin kaupunki"
+      ],
+      "answer": "Sodoman kaupunki"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Pelastettu miehensä kanssa",
+        "Tuhottu epäuskoisten kanssa",
+        "Karkotettu kaukaiseen maahan",
+        "Katuivat ja saivat anteeksi",
+        "Tuli myöhemmin uskoon"
+      ],
+      "answer": "Tuhottu epäuskoisten kanssa"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

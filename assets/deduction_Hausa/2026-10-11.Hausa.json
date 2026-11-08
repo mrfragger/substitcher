@@ -1,0 +1,61 @@
+{
+  "title": "Muryar da ke cikin Tsohuwar Yashi",
+  "intro": "Daga cikin manzannin Allah na farko, akwai wanda sunansa ya bayyana a cikin Alqur'ani na ɗan lokaci amma yana da ma'ana. Wannan mutumin ya rayu tun kafin a aiko annabawan da yawa, kuma an san shi da gaskiya da haƙuri mai ƙarfi. Labarinsu gajere ne amma gadonsu ya dawwama a cikin tarihin madawwami. Wanene wannan rai mai daraja?",
+  "clues": [
+    "Ni ɗaya ne daga cikin manzanni na farko, an ambace ni a taƙaice amma kuma ina da ma'ana a cikin Alƙur'ani.",
+    "An bayyana halina ta hanyar jajircewa ga gaskiya ba tare da wata shakka ba.",
+    "Ana ambatona a cikin littafin Allah a cikin waɗanda suka yi haƙuri da haƙuri.",
+    "Ayoyi kaɗan ne kawai a cikin Alqur'ani suka ba ni labarina.",
+    "Allah ya girmama ni ta hanyar da ta kebanta da ni, ba tare da raba ni da sauran annabawa ba.",
+    "An ɗaga ni zuwa wani babban matsayi, wani babban matsayi a cikin Alƙur'ani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Idris",
+        "Annabi Ilyas",
+        "Dhul-Kifl",
+        "Annabi Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Annabi Idris"
+    },
+    "trial": {
+      "label": "Ma'anar Lokacin",
+      "options": [
+        "Allah Ya daukaka ni zuwa babban matsayi",
+        "Na gina babban jirgi domin ceton mutanena",
+        "Na kalubalanci masu sihirin Fir'auna",
+        "'Yan'uwana ne suka jefa ni cikin rami",
+        "Na rasa ganina saboda baƙin cikin da nake yi game da ɗana"
+      ],
+      "answer": "Allah Ya daukaka ni zuwa babban matsayi"
+    },
+    "location": {
+      "label": "Nassoshi Masu Tsarki",
+      "options": [
+        "Suratul Anbiya",
+        "Suratul Kahf",
+        "Suratul Taha",
+        "Suratul Ash-Shu'ara",
+        "Suratu Yasin"
+      ],
+      "answer": "Suratul Anbiya"
+    },
+    "outcome": {
+      "label": "Daraja ta Allah",
+      "options": [
+        "Babban tasha ba kamar sauran ba",
+        "Mulki akan aljanu da iskoki",
+        "Masarautar ɗaukaka mai ban mamaki",
+        "Magaji daga tsufana",
+        "Alkawari da aka kulla da Allah"
+      ],
+      "answer": "Babban tasha ba kamar sauran ba"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

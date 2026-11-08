@@ -1,0 +1,61 @@
+{
+  "title": "La prova della creatura sacra",
+  "intro": "Un segno fu inviato a una nazione che si era smarrita. Nel bel mezzo delle loro vite agiate giunse un avvertimento, accompagnato da una creatura straordinaria che sarebbe diventata la prova definitiva della loro fede. La loro risposta avrebbe segnato per sempre il loro destino. Riuscirai a scoprire chi ha portato questo avvertimento e cosa è successo a coloro che lo hanno rifiutato?",
+  "clues": [
+    "Eravamo un popolo che era stato guidato da messaggeri precedenti.",
+    "Dalla montagna emerse una creatura magnifica, segno del Signore per questa nazione.",
+    "Ho detto loro: \"Questa è una cammella che appartiene ad Allah, quindi lasciatela pascolare sulla terra di Allah e non fatele del male.\"",
+    "Ma il popolo ha legato la mia cammella, disobbedendo al comando del loro Signore.",
+    "Io sono solo un messaggero del vostro Signore, inviato con la verità: sono un profeta e un servo degno di fiducia.",
+    "Quanto ai malfattori, il Signore li colpì con un suono fragoroso, ed essi rimasero immobili nelle loro case."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Hud del popolo di A'ad",
+        "Il profeta Salih del popolo di Thamud",
+        "Il profeta Shu'aib di Madian",
+        "Il profeta Lot del popolo di Sodoma",
+        "Il profeta Nuh dell'Arca"
+      ],
+      "answer": "Il profeta Salih del popolo di Thamud"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il diluvio che sommerse una nazione incredula",
+        "Il terremoto che distrusse una città peccaminosa",
+        "La cammella inviata come segno divino e prova",
+        "La tempesta che punì gli abitanti di Midian",
+        "La distruzione del popolo di Lot mediante la lapidazione"
+      ],
+      "answer": "La cammella inviata come segno divino e prova"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La città di Sodoma nella valle del Giordano",
+        "La valle di Al-Hijr tra l'Hijaz e la Siria",
+        "L'antica terra di A'ad nell'Arabia meridionale",
+        "Le foreste di Midian vicino al Mar Rosso",
+        "Le pianure del monte Judi in Mesopotamia"
+      ],
+      "answer": "La valle di Al-Hijr tra l'Hijaz e la Siria"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Furono salvati dopo essersi pentiti e aver creduto",
+        "Una pioggia di pietre li distrusse completamente.",
+        "Un suono fragoroso li fece immobilizzare",
+        "Furono portati via da un vento violento",
+        "Un terremoto li inghiottì sottoterra."
+      ],
+      "answer": "Un suono fragoroso li fece immobilizzare"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Isqun Señalkuna Apaq",
+  "intro": "Huk siqi hatarirqan qallariykunamanta aswan huch’uyllamanta, huk destinowan qelqasqa Diospa munayninpi. Huch’uyllaraq kashaspa pakasqa, llaqtankuta chinkachiyta munaq kikin kamachikuqpa perqan ukhupi wiñasqa, kay almaqa qhepamanmi waqyasqa karqan huk atiyniyoq misionman. Mana imawanpas equipasqa kaspanku, aswanpas iñiywan, huch’uyyaykukuq michiq k’aspiwan ima, chay tiempopi aswan atiyniyoq kamachikuqpa ñawpaqenpin sayarirqanku, hinaspan kamachi kasqa runakunata libre kanankupaq mañakurqanku. Kikin pachaqa kamachisqankuman hinan kuyukuq hina karqan — unukuna t’aqanakurqan, hanaq pacha rimarqan, huk qhapaq suyutaq urmarqan.",
+  "clues": [
+    "Ñawpaq p’unchawniykunaqa manchakuymi karqan — ñuqa hina wawakunataqa nacesqankumantapachan mana khuyapayakuq kamachikuq hap’irqan, hamuq pachata manchakuq.",
+    "Yakuwanmi qespichiwarqa, hinaspam chinkachisqayta maskaq kamachiqpa palacion ukupi uywasqa karqani.",
+    "Qonqaylla sucedesqan qhepamanmi llaqtaymanta ayqekurqani, karu llaqtapi huch’uyyaykukuq michiqman tukupurqani.",
+    "Kutirqanim chay atiyniyuq kamachikuqta huk sasan tawnawan hinaspa sutilla willakuywan atipanakunaypaq, llaqtaypa libre kanankupaq mañakuspay.",
+    "Qatiwaqniykunapaqmi hatun unuta rakirqani, hinaspam qawarqani chay yakukuna enemigoyta llapanta millp'uykuptin.",
+    "Huk sagrado orqomanmi seqarqani Allahmanta Diospa pusawayninta chaskinaypaq, chaymi isqon sut’i señalkunata qowarqanku cheqaq kasqanmanta prueba hina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Ibrahim sutiyuq runa",
+        "Profeta Yusuf sutiyuq runa",
+        "Profeta Lut"
+      ],
+      "answer": "Profeta Musa"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Cortenpi Faraonwan tupaspa",
+        "Hatun unu hunt’aymanta mana wañunanpaq Arcata ruway",
+        "Idolo ruwaqkunaq nina rawraq ninaman wikch’usqa kay",
+        "Wawqeykuna ukhu pukyuman uraykachisqa kasqay",
+        "Llaqtayta qhelli ruwaykunamanta hark’ayta munaspa"
+      ],
+      "answer": "Cortenpi Faraonwan tupaspa"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Mach’aqwayman tikrakuq K’aspi",
+        "Nuh llaqtapi Arca",
+        "Bilqispa Trono",
+        "Wayrata, jinnikunata ima kamachiq Anillo",
+        "Llavekuna ahorrado tesoros chayna llasa"
+      ],
+      "answer": "Mach’aqwayman tikrakuq K’aspi"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Llaqtayta pusarqani rakisqa yakukunata chimpaspa libre kayman",
+        "Huk Arca ukhupi hatun unu hunt’aymanta qespichisqa karqan",
+        "Sinchi ñak’ariy qhepamanmi qhali kapurqan, familianmanpas kutichipurqan",
+        "Kawsachkaq hatun challwamanta wischusqa karqa",
+        "Sagrado Wasiq teqsinkunata hatarichirqan"
+      ],
+      "answer": "Llaqtayta pusarqani rakisqa yakukunata chimpaspa libre kayman"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

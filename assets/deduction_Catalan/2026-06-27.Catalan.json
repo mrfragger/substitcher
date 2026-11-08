@@ -1,0 +1,61 @@
+{
+  "title": "La Sagrada Absència",
+  "intro": "Més enllà de les dunes del temps, hi ha una història de devoció inquebrantable i una confiança tan pesada que l'ànima que la portava podria haver-se trencat. En un moment en què la gent es va girar cap a la follia i l'or, una figura es va mantenir ferma, cridant-los enrere, suplicant paciència i suportant el pes d'una promesa sagrada. Aquesta és la història d'algú que va ser escollit com a ajudant, visir i guardià de la fe durant una absència sagrada. Pots descobrir la identitat d'aquesta ànima ferma?",
+  "clues": [
+    "Comparteixo la sang d'un gran profeta que va ser escollit per parlar amb Al·là directament sobre una muntanya sagrat.",
+    "El meu germà va suplicar una vegada a Al·là que l'ajudés a parlar clarament a un gran opressor.",
+    "Vaig ser escollit per Al·là per estar al costat del meu germà com a ajudant i visir.",
+    "Junts ens vam enfrontar a un governant tirànic que exigia ser anomenat el més alt dels déus.",
+    "Mentre el meu germà comuniava amb Al·là a la muntanya, el nostre poble es va fabricar un ídol amb el seu or.",
+    "Sóc el germà de Moisès, nomenat per Al·là com el seu visir, esmentat pel meu nom a l'Alcorà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Harun (Aaron)",
+        "Profeta Musa",
+        "Profeta Dawud",
+        "Profeta Yaqub",
+        "Profeta Ishaq"
+      ],
+      "answer": "Profeta Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "La crisi del culte del vedell",
+        "El Gran Diluvi de Nuh",
+        "La batalla de Badr",
+        "La destrucció de Thamud",
+        "La destrucció de Sodoma"
+      ],
+      "answer": "La crisi del culte del vedell"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El vedell d'or",
+        "L'Arca de Noè",
+        "L'Arbust Ardent",
+        "La cova d'Hira",
+        "El Tron de Saba"
+      ],
+      "answer": "El vedell d'or"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Innocència confirmada per Al·là",
+        "Ofegament del faraó",
+        "La construcció de la Kaaba",
+        "Travessa segura del mar",
+        "Ascensió als cels"
+      ],
+      "answer": "Innocència confirmada per Al·là"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

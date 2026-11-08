@@ -1,0 +1,61 @@
+{
+  "title": "Varuhi vrta",
+  "intro": "V bujnem vrtu je skupnost dala slovesno zaobljubo. Toda njihova odločnost je bila preizkušena, ko je posegla božja volja in njihovo obilje spremenila v nerodovitno deželo.",
+  "clues": [
+    "Blagoslovljeni smo bili z obilnim vrtom, a postali smo arogantni.",
+    "Naredili smo načrt, da bomo pridelek želili, ne da bi ga delili z revnimi.",
+    "Zgodaj zjutraj smo se odpravili, prepričani v svoj načrt.",
+    "Ko pa smo prispeli, smo ugotovili, da je bil naš vrt čez noč uničen.",
+    "Spoznali smo svojo napako in se začeli kriviti drug drugega.",
+    "Končno smo se pokesali, a lekcijo smo se naučili prepozno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Ljudje z vrta",
+        "Ljudje iz jame",
+        "Ljudje slona",
+        "Ljudje iz Thamuda",
+        "Ljudje iz 'Ad"
+      ],
+      "answer": "Ljudje z vrta"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Vrt, ki se je spremenil v pepel",
+        "Poplava, ki je uničila vse",
+        "Lakota, ki je prizadela deželo",
+        "Napadajoča vojska ptic",
+        "Močan veter, ki je izruval drevesa"
+      ],
+      "answer": "Vrt, ki se je spremenil v pepel"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrt",
+        "Jama",
+        "Ladja",
+        "Gora",
+        "Palača"
+      ],
+      "answer": "Vrt"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Pokesali so se, a izgubili svoj vrt",
+        "Bili so popolnoma uničeni",
+        "Spremenili so jih v opice",
+        "Rešeni so bili po veri",
+        "Postali so vladarji"
+      ],
+      "answer": "Pokesali so se, a izgubili svoj vrt"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

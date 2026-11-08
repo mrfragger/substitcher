@@ -1,0 +1,61 @@
+{
+  "title": "Ääni joka haastoi idolin valtakauden",
+  "intro": "Kaikkivaltiaan sanansaattajien joukossa oli järkkymätön palvelija, joka nousi itsepäisen kansakunnan keskuudesta julistamaan totuutta. Heidän kansansa oli omaksunut keinotekoisen jumaluuden ja kääntynyt pois kaiken olemassa olevan Luojasta. Horjumattomalla päättäväisyydellä tämä henkilö kutsui heidät takaisin – mutta viestiin vastattiin kieltävästi ja torjuvasti. Käy läpi vihjeet ja selvitä, kuka tämä omistautunut palvelija oli.",
+  "clues": [
+    "Minut lähetettiin sanansaattajaksi itsepäisen kansan luo, joka oli eksynyt kauas oikealta polulta.",
+    "Tulin muistuttamaan kansakuntaani Hänestä, joka loi kaiken olemassa olevan – parhaasta kaikista luojista.",
+    "Kansani oli kääntynyt väärän epäjumalan puoleen, jota he palvoivat ja huusivat päivin ja öin.",
+    "Haastoin heidät rohkeasti kysymällä, miksi he palvoisivat keksittyä jumaluutta ja hylkäisivät todellisen Herransa.",
+    "He kielsivät minut, kieltäytyivät kuuntelemasta ja pitivät kiinni valheestaan ​​– kuitenkin Herrani varjeli minut.",
+    "Minä olen Ilyas – ja minulle suotiin rauha, ja minut luettiin Armollisimman uskovien palvelijoiden joukkoon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ilja",
+        "Profeetta Idris",
+        "Profeetta Alyasa",
+        "Profeetta Dhul-Kifl",
+        "Profeetta Nooa"
+      ],
+      "answer": "Profeetta Ilja"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kutsuen kansaa pois Baalin palvonnasta",
+        "Kohtaamassa tyrannin, joka väitti olevansa jumala",
+        "Varoitus ihmisille lähestyvästä tulvasta",
+        "Heitetään suureen, roihuavaan tuleen",
+        "Johtamassa pakoa orjuuden maasta"
+      ],
+      "answer": "Kutsuen kansaa pois Baalin palvonnasta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Ba'al-niminen idoli",
+        "Suuri, tukevasta puusta rakennettu arkki",
+        "Sauva, joka halkaisi valtavan meren",
+        "Pyhä vaate, joka on tahrattu verellä",
+        "Palava pensas pyhällä vuorella"
+      ],
+      "answer": "Ba'al-niminen idoli"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Myönnettiin rauha ja luettiin Allahin valittujen palvelijoiden joukkoon",
+        "Johdettiin paratiisiin, kun kaikki muut tuhottiin",
+        "Pelastettu suuresta tulipalosta, josta tuli viileä ja turvallinen",
+        "Annettu valta džinnien, ihmiskunnan ja tuulen yli",
+        "Ruumis säilyi pysyvänä merkkinä kautta aikojen"
+      ],
+      "answer": "Myönnettiin rauha ja luettiin Allahin valittujen palvelijoiden joukkoon"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

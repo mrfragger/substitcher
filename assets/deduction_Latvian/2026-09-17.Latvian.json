@@ -1,0 +1,61 @@
+{
+  "title": "Dateļpalmas ēnā",
+  "intro": "Stāsts par dvēseli, kas pirms dzimšanas tika atdalīta, lolota svētās sienās un izvēlēta nest zīmi, ko pasaule nekad nebija redzējusi. Kad no visām pusēm atskanēja apsūdzības, no visnegaidītākajām vietām atskanēja balss, lai apklusinātu visas šaubas. Vai vari atklāt, kas staigāja zem dateļpalmas ēnas?",
+  "clues": [
+    "Es biju veltīta Visvarenā kalpošanai vēl pirms savas pirmās elpas vilciena – šo solījumu deva tas, kurš mani nesa.",
+    "Es uzaugu taisnīga aizbildņa uzraudzībā pielūgsmes vietas svētajās telpās.",
+    "Ikreiz, kad mans aizbildnis ieradās manā istabā, viņš pie manis atrada pārtiku no gadalaikiem, kuriem nevajadzēja būt.",
+    "Man tika paziņots par dēlu, lai gan mani apstākļi neatstāja vietu apsolītajam.",
+    "Es atkāpos tālā vietā, kur dateļpalma man sniedza ēnu, kamēr apakšā plūda strauts.",
+    "Kad mani apsūdzēja un apšaubīja jautājumi, es norādīju uz savu jaundzimušo bērnu — un viņš runāja jau no šūpuļa, apklusinot visas šaubas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Marija",
+        "Sāra",
+        "Hava",
+        "Umm Musa",
+        "Nū sieva"
+      ],
+      "answer": "Marija"
+    },
+    "trial": {
+      "label": "Izmēģinājums / pasākums",
+      "options": [
+        "Brīnumaina dēla piedzimšana vientulībā",
+        "Elku pielūdzēju iemests liesmojošā ugunī",
+        "Izdzīvojot lielos plūdus kopā ar dažiem izredzētajiem",
+        "Atšķirts no zīdaiņa, kas iemests upē",
+        "Sastopoties ar vareno Ēģiptes valdnieku"
+      ],
+      "answer": "Brīnumaina dēla piedzimšana vientulībā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Dateļpalma un zem tās plūstoša straume",
+        "Varens šķirsts uz augstiem viļņiem",
+        "Zizlis, kas pāršķēla lielu jūru divās daļās",
+        "Ugunsgrēks, kas paredzēts uzticīgas dvēseles aprīšanai",
+        "Zelta tronis, kas rotāts ar dārgakmeņiem"
+      ],
+      "answer": "Dateļpalma un zem tās plūstoša straume"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Godināta kā viscildenākā no visām sievietēm",
+        "Atkal satikās ar mīļoto bērnu pēc ilgas šķiršanās",
+        "Izveda veselu tautu no tirāna verdzības",
+        "Brīdināja tautu, kas apmaldījusies amoralitātē",
+        "Piešķirta vara pār džiniem, cilvēci un vējiem"
+      ],
+      "answer": "Godināta kā viscildenākā no visām sievietēm"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

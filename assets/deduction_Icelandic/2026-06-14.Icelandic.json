@@ -1,0 +1,61 @@
+{
+  "title": "Loginn sem bar arfleifð",
+  "intro": "Í sögum mótspyrnunnar stendur persóna sem nafnið sjálft varð viðvörun til enda veraldar. Þessi einstaklingur valdi fjandskap fram yfir skyldleika, þrjósku fram yfir undirgefni og stóð gegn kalli um miskunn. Hlustið vandlega á bergmál fornrar yfirlýsingar þegar við afhjúpum hver þessi alræmda sál er.",
+  "clues": [
+    "Ég fæddist inn í sama ættbálk og síðasti sendiboði Allah, en samt stóð ég gegn þeim á hverju strái.",
+    "Nafn mitt bar merkingu — nafn sem þýddi „faðir logans“, nafn sem myndi fyrirboða eilífa örlög mín.",
+    "Ég beitti sannleikabera skaða og jafnvel mitt eigið heimili tók þátt í þessari grimmdarherferð.",
+    "Ég notaði auð minn og áhrif til að þagga niður í kallinu til Allah, í þeirri trú að peningar gætu slökkt guðdómlegt ljós.",
+    "Allah tileinkaði mér heilan kafla – kafla svo stuttan að hægt er að lesa hann upp á nokkrum sekúndum, en samt helst þyngd hans til dómsdags.",
+    "Förunautur minn í hér eftir lífið gengur á eftir mér, bundinn með trefjareipi um hálsinn, berandi sömu þyrna og þeir voru vanir að dreifa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Abú Lahab",
+        "Abú Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abú Lahab"
+    },
+    "trial": {
+      "label": "Að skilgreina átök",
+      "options": [
+        "Leiðandi andstöðunnar gegn spámanninum í Mekka",
+        "Flutti til Abessiníu til að flýja ofsóknir",
+        "Að byggja Kaaba með spámanninum Ibrahim",
+        "Að taka við Íslam á dánarbeði",
+        "Að móta Hudaybiyyah-sáttmálann"
+      ],
+      "answer": "Leiðandi andstöðunnar gegn spámanninum í Mekka"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Kona sem bar þyrna og eldivið",
+        "Staf sem breyttist í höggorm",
+        "Hringur með innsigli Salómons",
+        "Gullkálfur sem fólkið dýrkaði",
+        "Lind sem spratt upp vatn"
+      ],
+      "answer": "Kona sem bar þyrna og eldivið"
+    },
+    "outcome": {
+      "label": "Lokauppgjör",
+      "options": [
+        "Heil súra opinberuð þar sem lýst er yfir algjöru eyðileggingu",
+        "Varð leiðtogi múslimasamfélagsins",
+        "Fékk fyrirgefningu á dauðastundu",
+        "Byggði mikla mosku í Medínu",
+        "Var reistur upp meðal réttlátra"
+      ],
+      "answer": "Heil súra opinberuð þar sem lýst er yfir algjöru eyðileggingu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

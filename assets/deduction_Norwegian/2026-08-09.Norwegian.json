@@ -1,0 +1,61 @@
+{
+  "title": "Den sannferdige stemmen fra oldtiden",
+  "intro": "Det finnes en sjel i Koranen hvis historie fortelles i bare noen få vers, men deres edle egenskaper skinner gjennom med strålende klarhet. Denne gamle tjeneren til den Mest Barmhjertige, som er prist av Den Allmektige for en spesiell dyd, har en plass på sidene i åpenbaringen. Din oppgave er å identifisere denne bemerkelsesverdige skikkelsen. Kan du gjette hvem de er?",
+  "clues": [
+    "Jeg er en profet av Allah som levde blant menneskehetens tidlige generasjoner.",
+    "Allah nevnte meg i Sin bok sammen med andre profeter, alle lovprist for den samme edle dyden.",
+    "Jeg blir beskrevet som en sannhetens mann i Koranen.",
+    "Allah løftet meg til en høy stilling som få andre har oppnådd.",
+    "Mitt navn er nevnt i Surah Al-Anbiya, gruppert sammen med to andre profeter som er rost for sin tålmodighet.",
+    "Jeg er Idris, den sannferdige og opphøyde profeten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Idris",
+        "Profeten Nuh",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Ismail"
+      ],
+      "answer": "Profeten Idris"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Bevarte tålmodighet og sannferdighet, deretter forfremmet til en høy stilling",
+        "Bygge en stor ark for å redde de troende fra en ødeleggende flom",
+        "Å bli kastet inn i en flammende ild og komme ut helt uskadd",
+        "Konfrontere en mektig konge og beseire hans hær av magikere",
+        "Å overleve i magen til en stor fisk i havets dyp"
+      ],
+      "answer": "Bevarte tålmodighet og sannferdighet, deretter forfremmet til en høy stilling"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En høy og opphøyet stilling hos Allah",
+        "Et massivt skip bygget av planker og dekket med tjære",
+        "En rasende ild drevet av avgudsdyrkerne til en ond konge",
+        "Et enormt hav som delte seg i tørre stier",
+        "Den mørke buken til en stor hval på havets bunn"
+      ],
+      "answer": "En høy og opphøyet stilling hos Allah"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Opptatt i Allahs nåde som en av de rettferdige",
+        "Reddet sammen med alle de troende fra en verdensomspennende flom",
+        "Gikk ut av flammene uberørt av ilden",
+        "Ledet Israels barn trygt til frihet over havet",
+        "Gjenforent med sin kjære familie etter lange år med motgang"
+      ],
+      "answer": "Opptatt i Allahs nåde som en av de rettferdige"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

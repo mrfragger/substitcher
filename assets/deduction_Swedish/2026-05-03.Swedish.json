@@ -1,0 +1,61 @@
+{
+  "title": "De slumrande sanningssökarna",
+  "intro": "Föreställ dig en tid då tron ​​utmanades och en grupp själar valde orubblig övertygelse framför världslig bekvämlighet. Inför ett skrämmande val sökte de skydd och gav sig ut på en resa som ledde till en extraordinär sömn. Deras berättelse är ett bevis på gudomligt beskydd och trons kraft mot förtryck. Kan du urskilja identiteten på dessa anmärkningsvärda individer?",
+  "clues": [
+    "Vi var en liten församling, förenade av en djup tro på den ende Skaparen.",
+    "Vi levde i en tid då en mäktig härskare krävde dyrkan av andra än Allah.",
+    "För att bevara vår tro bestämde vi oss för att överge våra hem och fly från förtrycket.",
+    "En lojal följeslagare, en jordisk varelse, följde oss på vår resa.",
+    "Vi fann en fristad på en avskild plats, där Allah lät oss falla i en djup, långvarig sömn.",
+    "När vi vaknade trodde vi att bara en dag eller en del av en dag hade gått, men århundraden hade verkligen gått."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Folket i diket",
+        "Folket i Thamud",
+        "Sabas folk",
+        "Grottans folk",
+        "Madyans folk"
+      ],
+      "answer": "Grottans folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Testas med ett kargt land",
+        "Står inför en stor översvämning",
+        "Söker skydd från en tyrannisk härskare",
+        "Att kastas in i en brinnande eld",
+        "Att utmana en trollkarls magi"
+      ],
+      "answer": "Söker skydd från en tyrannisk härskare"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Ett storslaget palats",
+        "Ett skepp/en ark",
+        "En djup brunn",
+        "En grotta",
+        "Ett högt berg"
+      ],
+      "answer": "En grotta"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Att få ett kungarike",
+        "En mirakulös sömn i århundraden",
+        "Att bli uppslukad av jorden",
+        "Att bli räddad från en förödande storm",
+        "Att få ett himmelskt bord"
+      ],
+      "answer": "En mirakulös sömn i århundraden"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

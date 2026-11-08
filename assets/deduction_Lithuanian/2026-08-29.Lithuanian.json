@@ -1,0 +1,61 @@
+{
+  "title": "Kantrybė, kuri įveikė sielvartą",
+  "intro": "Vyresnysis, kurio kantrybė tapo legenda, kurio vizija išblėso iš sielvarto, tačiau kurio tikėjimas dieviškuoju planu niekada nesvyravo. Šis asmuo matė, kaip dvylika sūnų užaugo ir įkūrė gentis, patyrė skausmingą mylimo vaiko netektį ir tapo nesenstančiu gražios kantrybės simboliu didžiulio sielvarto akivaizdoje. Gerbiama siela, kurios istorija pasakojama apreiškimo puslapiuose. Ar galite atpažinti šią figūrą iš Korano?",
+  "clues": [
+    "Aš buvau pranašas, kurio istorija išsamiai papasakota vienoje iš pagrindinių Korano surų.",
+    "Aš turėjau dvylika sūnų, kurie tapo Bani Izraelio giminių protėviais.",
+    "Liepiau savo sūnums įeiti pro skirtingus vartus, kad nebūtų atpažinti kaip viena tauta.",
+    "Mano akys išbalo nuo nepaliaujamų verksmų dėl iš manęs atimto mylimo vaiko.",
+    "Aš nepasidaviau nevilčiai net tada, kai kiti sūnūs mane tai daryti ragino, sakydami, kad skundžiuosi tik Alachui.",
+    "Aš esu pranašo Jusufo tėvas, kurio pats vardas arabų kalba reiškia „didintojas“."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Jakubas (Jokūbas)",
+        "Pranašas Jusufas",
+        "Pranašas Ibrahimas",
+        "Pranašas Musa",
+        "Pranašas Dawudas"
+      ],
+      "answer": "Pranašas Jakubas (Jokūbas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Mylimo sūnaus netektis prie šulinio",
+        "Didysis potvynis, užliejęs visą tautą",
+        "Migracija iš ugnies garbinimo karalystės",
+        "Susidūrimas su galingu Egipto tironu",
+        "Tremtis į banginio pilvą"
+      ],
+      "answer": "Mylimo sūnaus netektis prie šulinio"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Marškinėliai, išteptas netikru krauju",
+        "Lazdelė, kuri virto gyvate",
+        "Ant kalno pastatyta arka",
+        "Iš uolos išdrožta kupranugarė",
+        "Auksinis veršelis"
+      ],
+      "answer": "Marškinėliai, išteptas netikru krauju"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Regėjimas atkurtas, kai mylimo sūnaus veidas buvo uždengtas marškinėliais",
+        "Išgelbėjimas po įmetimo į didelės žuvies pilvą",
+        "Khalilullah titulo gavimas iš Alacho",
+        "Jūros kirtimas su iš nelaisvės išlaisvinta tauta",
+        "Vaivorykštė, pasirodanti kaip vilties ženklas po potvynio"
+      ],
+      "answer": "Regėjimas atkurtas, kai mylimo sūnaus veidas buvo uždengtas marškinėliais"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Atsisakytos dovanos našta",
+  "intro": "Žmonijos istorijos aušroje, kai žemė dar buvo jauna ir pasaulis sulaikė pirmąjį kvėpavimą, siela stojo prieš Kūrėją su nuolankia auka. Ta auka buvo pasverta dieviškojo priėmimo svarstyklėmis ir pripažinta nepakankama. Vėliau sekė ne atleidimo istorija, o pavydo apimtos širdies istorija, vedanti į negrįžtamą veiksmą, kuris aidės per visus laikus. Tai istorija apie žmogų, kurio vardas tapo pirmosios kada nors padarytos sunkios neteisybės sinonimu.",
+  "clues": [
+    "Aš atėjau kaip vienas pirmųjų kada nors gimusių vaikų, gimęs tėvams, kurių istoriją jūs gerai žinote.",
+    "Kartą paaukojau Alachui auką, bet ji iš manęs nebuvo priimta – nors mano brolio ir sesers auka buvo priimta su malone.",
+    "Pavydas ir pyktis įsišaknijo mano širdyje, ir aš grasinau atimti savo giminaičio gyvybę.",
+    "Mano brolis ir sesuo perspėjo mane bijoti Alacho, bet mano išdidumas neleido man klausyti.",
+    "Baisaus silpnumo akimirką padariau neapsakomą poelgį savo broliui.",
+    "Vėliau net nežinojau, kaip nuslėpti, ką padariau – kol manęs pamokyti nebuvo atsiųstas žemės padaras."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Qabil (Kainas)",
+        "Habil (Abelis)",
+        "Pranašo Nuho sūnus",
+        "Pranašas Ismailas",
+        "Pranašas Jusufas"
+      ],
+      "answer": "Qabil (Kainas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Aukos, kuri buvo atmesta, aukojimas ir pirmoji žmogžudystė",
+        "Statyti aukštą bokštą, kad pasiektų dangų",
+        "Būti įmestam į liepsnojančią ugnį dėl savo tikėjimo",
+        "Savo sūnaus paaukojimas paklusant Alachui",
+        "Būti prarytam didelės žuvies už tai, kad pabėgai nuo pareigos"
+      ],
+      "answer": "Aukos, kuri buvo atmesta, aukojimas ir pirmoji žmogžudystė"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Alacho atsiųsta varna, pademonstruojanti laidotuves",
+        "Didelis potvynis, nuskandinęs ištisą tautą",
+        "Lazdelė, kuri virto gyva gyvate",
+        "Kupranugarė, išnirusi iš uolėto kalno",
+        "Didingas sostas, nešamas galingų vėjų"
+      ],
+      "answer": "Alacho atsiųsta varna, pademonstruojanti laidotuves"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapo gailėtinu, slegiamu pirmojo įvykdyto nusikaltimo",
+        "Alachas atleido ir suteikė amžinąjį Rojų",
+        "Buvo iškeltas į aukštą pranašystės ir išminties statusą",
+        "Buvo išgelbėtas dieviškojo gailestingumo, pašauktas iš tamsos gelmių",
+        "Buvo duota valdžia džinams, vėjui ir jūroms"
+      ],
+      "answer": "Tapo gailėtinu, slegiamu pirmojo įvykdyto nusikaltimo"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Go tlhokafala go go Boitshepo",
+  "intro": "Ka kwa ga dithota tsa nako, go na le kgang ya boineelo jo bo sa reketleng le tshepo e e bokete thata mo mowa o o e tshotseng o ka bong o thubegile. Mo motsotsong fa batho ba ne ba retologela kwa boeleele le gauta, setshwantsho se le sengwe se ne sa ema se tiile—se ba bitsa gape, se kopa bopelotelele, le go rwala bokete jwa tsholofetso e e boitshepo. E ke kgang ya mongwe yo o neng a tlhophiwa go nna mothusi, vizier, le motlhokomedi wa tumelo ka nako ya go tlhokafala go go boitshepo. A o ka ribolola gore moya ono o o tlhomameng ke mang?",
+  "clues": [
+    "Ke abelana madi a moporofeta yo mogolo yo o neng a tlhophilwe go bua le Allah ka tlhamalalo mo thabeng e e boitshepo.",
+    "Motho wa gaetsho o kile a kopa Allah gore a mo thuse go bua ka tsela e e utlwalang sentle le mogateledi yo mogolo.",
+    "Ke ne ka tlhophiwa ke Allah go ema fa thoko ga ngwanake jaaka mothusi le vizier.",
+    "Mmogo re ne ra lebana le mmusi yo o bogagapa yo o neng a batla gore a bidiwe yo o kwa godimo mo medimong.",
+    "Fa ngwanake a ntse a buisana le Allah mo thabeng, batho ba rona ba ne ba itirela modingwana ka gauta ya bone.",
+    "Ke morwarraagwe Moshe, yo o tlhomilweng ke Allah go nna vizier wa gagwe, yo o umakilweng ka leina mo Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Harun (Aarone)",
+        "Moporofeti Musa",
+        "Moporofeti Dawud",
+        "Moporofeti Yaqub",
+        "Moporofeti Ishaq"
+      ],
+      "answer": "Moporofeti Harun (Aarone)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Mathata a Kobamelo ya Namane",
+        "Morwalela o Mogolo wa ga Nuh",
+        "Ntwa ya Badr",
+        "Go Senngwa ga ga Thamude",
+        "Go Senngwa ga Sodoma"
+      ],
+      "answer": "Mathata a Kobamelo ya Namane"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Namane ya Gauta",
+        "Areka ya ga Noa",
+        "Setlhatshana se se Fisang",
+        "Logaga lwa Hira",
+        "Setulo sa Bogosi sa Sheba"
+      ],
+      "answer": "Namane ya Gauta"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Botlhokamolato bo netefaditswe ke Allah",
+        "Go nwela ga ga Faro",
+        "Kago ya Kaaba",
+        "Go Kgabaganya Lewatle ka Pabalesego",
+        "Tlhatlogo kwa Magodimong"
+      ],
+      "answer": "Botlhokamolato bo netefaditswe ke Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

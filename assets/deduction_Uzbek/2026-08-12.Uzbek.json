@@ -1,0 +1,61 @@
+{
+  "title": "Rahmat va qudrat elchilari",
+  "intro": "Notanish sayohatchilarning kelishi bilan to'xtatilgan sokin tushni tasavvur qiling. Ularning tashqi ko'rinishi oddiy, ammo maqsadi boshqacha. Ular ikki xalqning yo'lini o'zgartiradigan, bepoyon uyga kulgi va gunohkor shaharga dahshat keltiradigan ilohiy xabarni olib yurishadi. Bu sirli mehmonlar kimlar?",
+  "clues": [
+    "Bizni cheksiz mehmondo'stligi bilan mashhur bo'lgan Allohning fidoyi bandasi huzuriga yubordilar.",
+    "Biz notanish odam qiyofasida keldik, ammo mezbon bizning borligimizda g'ayrioddiy bir narsani sezdi.",
+    "Biz keksa ayolni ishonmay kuldirgan va hayratdan o'z yuziga urgan xabarni keltirdik.",
+    "Bizga solih oilani himoya qilish vazifasi yuklatilgan edi, shu bilan birga buzuqlikka botgan shaharga vayronagarchilik yog'dirish vazifasi ham yuklatilgan edi.",
+    "Bizga taklif qilingan taomni tanovul qilishdan bosh tortdik, bu esa mezbonning shubhasini yanada kuchaytirdi.",
+    "Biz ketishdan oldin o'zimizning asl mohiyatimizni ochib berdik va: \"Albatta, biz Parvardigoringizning elchilarimiz\", dedik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Ibrohimning mehmonlari",
+        "Iso Masihning shogirdlari",
+        "G'or egalari",
+        "Abraha armiyasi",
+        "Ya-Sin elchilari"
+      ],
+      "answer": "Ibrohimning mehmonlari"
+    },
+    "trial": {
+      "label": "Bizning vazifamiz",
+      "options": [
+        "Ibrohimning o'g'liga bo'lgan imonini sinash uchun",
+        "Muqaddas Kitobni Ibrohimga yetkazish uchun",
+        "Ishoqning tug'ilishi va Lut qavmining yo'q qilinishini e'lon qilish",
+        "Ibrohim alayhissalomni Ka'baga olib borish uchun",
+        "Ibrohimni olovdan qutqarish uchun"
+      ],
+      "answer": "Ishoqning tug'ilishi va Lut qavmining yo'q qilinishini e'lon qilish"
+    },
+    "location": {
+      "label": "Tashqi ko'rinish joyi",
+      "options": [
+        "Misr yurtida",
+        "Ur shahrida",
+        "Ibrohimning uyida",
+        "Adan bog'ida",
+        "Zamzam qudug'ida"
+      ],
+      "answer": "Ibrohimning uyida"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ibrohim shoh bo'ldi",
+        "Ibrohim alayhissalom Ka'bani qurdilar",
+        "Sora Ishoqni tug'di va Lutning qavmi yo'q qilindi",
+        "Ibrohim Falastinga ko'chib o'tdi",
+        "Ibrohimning qavmi buyuk to'fondan qutqarildi"
+      ],
+      "answer": "Sora Ishoqni tug'di va Lutning qavmi yo'q qilindi"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

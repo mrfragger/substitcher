@@ -1,0 +1,61 @@
+{
+  "title": "Neatlaidīgais patiesības meklētājs",
+  "intro": "Laikā, ko apvij neziņa un viltus dievību pielūgšana, risinājās dziļš ticības ceļojums. Šis indivīds apstrīdēja savas sabiedrības normas, ar nelokāmu pārliecību meklējot Vienīgo Patieso Radītāju. Sagatavojieties atklāt dvēseles identitāti, kuras mantojums turpina iedvesmot miljonus.",
+  "clues": [
+    "Es apšaubīju debesu ķermeņus, meklējot patieso Kungu, kas visu rada un uztur.",
+    "Man pavēlēja pamest savu dzimteni un doties uz zemi, ko svētījis Allāhs.",
+    "Es izaicināju savas tautas elkus, tieši konfrontējot to bezjēdzību, tos salaužot.",
+    "Mani ļaudis mani iemeta spēcīgā ugunī, tomēr pēc Allāha pavēles tur man kļuva vēss un mierīgs.",
+    "Mani pārbaudīja ar pavēli upurēt savu mīļoto pirmdzimto dēlu, kas bija pilnīgas pakļaušanās pārbaudījums.",
+    "Es kopā ar savu dēlu liku pamatus pirmajam Dievnamam uz Zemes – svētnīcai visai cilvēcei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Nuhs",
+        "Pravietis Jusufs",
+        "Pravietis Salihs",
+        "Pravietis Ibrahims",
+        "Pravietis Isa"
+      ],
+      "answer": "Pravietis Ibrahims"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lielie plūdi",
+        "Jūras sadalīšana",
+        "Tamuda iznīcināšana",
+        "Pavēle ​​upurēt dēlu",
+        "Ceļojums cauri tuksnesim ar Arku"
+      ],
+      "answer": "Pavēle ​​upurēt dēlu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Personāls",
+        "Tūras kalns",
+        "Arka",
+        "Kaaba",
+        "Zelta teļš"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva par Ēģiptes valdnieku",
+        "Viņa ļaudis noslīka",
+        "Tika piešķirta gudrība un taisnīga izcelsme",
+        "Tika norīts valis",
+        "Viņa pilsēta tika apgāzta"
+      ],
+      "answer": "Tika piešķirta gudrība un taisnīga izcelsme"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

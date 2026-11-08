@@ -1,0 +1,61 @@
+{
+  "title": "Ar mision er gêr gozh",
+  "intro": "Ur gêr gozh poultrennek, he fobl gwriziennet en nac'hadenn, hag ur c'hemenn diwezhañ na voe ket selaouet. Hiziv, kemer perzh e roll ar re kaset gant Allah evit kas ur gemennadenn d'ur bobl pennek. Un istor a nac'hadenn, ur vouezh feiz dibar, hag un dibenn siellet gant un dekred distrujus. Piv a gomz dre an titouroù-se ?",
+  "clues": [
+    "Kaset omp bet gant Allah d'ur gêr ma oa bet distroet he fobl diouzh ar wirionez",
+    "Daou ac'hanomp a zeuas da gentañ, goude-se e teuas un trede evit kreñvaat hor mision",
+    "Tud ar gêr o deus nac'het ac'hanomp, o lavarout ne oamp nemet tud evelto",
+    "Un ene hepken eus penn pellañ kêr a redas da lavarout d'an dud heuliañ ac'hanomp",
+    "Pedet hon eus outo, met kaletaet o deus o c'halonoù hag en em droet a-enep deomp",
+    "En ur griadenn distrujus eus an neñvoù, e voe sioulaet hor c'hêr a-bezh"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Kannaded ar gêr e Soura Ya-Sin",
+        "An Hawwariyyun (Diskibien Isa)",
+        "Sorserien lez Faraon",
+        "Kompagnuned ar sabad",
+        "Tud an Olifant"
+      ],
+      "answer": "Kannaded ar gêr e Soura Ya-Sin"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Nac'het ha galvet gaouiad gant tud ar gêr",
+        "Devet bev en un tan bras",
+        "Lonket gant ur pesk bras er mor don",
+        "Rediet da labourat o sevel ur piler uhel",
+        "Jahinet en ur foz tan fuloret"
+      ],
+      "answer": "Nac'het ha galvet gaouiad gant tud ar gêr"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar gêr gozh (al-Qaryah)",
+        "Ur forn-tan brav",
+        "Kof ur pesk bras",
+        "Ar piler uhel a stok ouzh an oabl",
+        "An Ti sakr (Kaaba)"
+      ],
+      "answer": "Ar gêr gozh (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Distrujet e voe ar gêr gant ur griadenn spontus hepken (Sayha)",
+        "An tirant hag e arme a voe beuzet er mor dispartiet",
+        "Treuzfurmet e voe an dud e marmouzed ha marmouzed",
+        "Ur glav mein eus an oabl a zistrujas kêr",
+        "Un dour-beuz feuls a gasas kuit ar gumuniezh a-bezh"
+      ],
+      "answer": "Distrujet e voe ar gêr gant ur griadenn spontus hepken (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

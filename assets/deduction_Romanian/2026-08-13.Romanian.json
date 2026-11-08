@@ -1,0 +1,61 @@
+{
+  "title": "Sufletul răbdător al Casei Sacre",
+  "intro": "În paginile Coranului, o figură apare din linia unui mare profet, oferită ca dar la bătrânețe. Acest suflet este celebrat pentru sinceritatea sa neclintită și rolul său profund în stabilirea unui sanctuar care avea să devină un far al credinței. Pe măsură ce citiți indiciile, ascultați cu atenție vocea din trecut, căci vorbește la persoana întâi.",
+  "clues": [
+    "Sunt menționat în Coran alături de un alt profet, ca un dar acordat unui mesager în vârstă.",
+    "Am fost unul dintre cei doi urmași dăruiți acelui profet în ultimii săi ani.",
+    "Sunt lăudat în Coran pentru că sunt credincios cuvântului meu.",
+    "Am purtat onoarea profeției și am fost trimis ca mesager.",
+    "M-am alăturat tatălui meu în ridicarea fundațiilor Casei Sacre.",
+    "Sunt amintit ca unul dintre cei răbdători, iar casa sacră pe care am construit-o a devenit un loc de întoarcere și siguranță pentru oameni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Ismail",
+        "Profetul Ishaq",
+        "Profetul Yaqub",
+        "Profetul Zakariya",
+        "Profetul Yahya"
+      ],
+      "answer": "Profetul Ismail"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ridicarea fundațiilor Kaaba alături de Ibrahim",
+        "A fi aruncat în foc",
+        "Înghițit de o balenă",
+        "Conducerea israeliților afară din Egipt",
+        "Construirea unei arce"
+      ],
+      "answer": "Ridicarea fundațiilor Kaaba alături de Ibrahim"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Kaaba",
+        "Muntele Sinai",
+        "Marea Roșie",
+        "Vițelul de Aur",
+        "Grădina Edenului"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Numărat printre pacienți",
+        "Numărat printre răufăcători",
+        "Numărat printre magicieni",
+        "Numărat printre necredincioși",
+        "Numărat printre ipocriți"
+      ],
+      "answer": "Numărat printre pacienți"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

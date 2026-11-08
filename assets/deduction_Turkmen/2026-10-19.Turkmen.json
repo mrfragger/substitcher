@@ -1,0 +1,61 @@
+{
+  "title": "Gökleriň kowlup çykarylmagy",
+  "intro": "Syrly bir jandar ýaradylyş bilen ret edilmegiň çatrygynda durýar. Olaryň hekaýasy deňsiz-taýsyz tekepbirlik we ilahi buýruga iň ýokary derejede garşy çykmakdyr. Olaryň saýlawy her nesilde ýaňlanýar we bu dünýä doglan her bir jan üçin synaga öwrülýär. Bu ebedi garşydaşy kesgitläp bilersiňizmi?",
+  "clues": [
+    "Men kosmos ähmiýetli bir wakada gatnaşdym, şonda täze bir jandar palçykdan emele gelip, Rehimdaryň Demi bilen jan berildi.",
+    "Men özüm tozan jandaryndan tapawutlylykda, ýeke-täk ýanýan elementden döredildim.",
+    "Maňa bir buýruk berildi, men ony öz wezipämden aşak hasapladym.",
+    "Içimde tekepbirlik güýçlendi we men bu tabşyrygy ýerine ýetirmekden berk boýun gaçyrdym.",
+    "Başgalary aldamak baradaky yglan eden maksadyma ýetmek üçin maňa bellenen gün berlençä yza süýşürildi.",
+    "Men ýer ýüzünde ýöreýänleriň, aldawlary pyşyrdaýanlaryň we olary dogry ýoldan çykarýanlaryň ählisiniň yglan edilen duşmanydyryn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Iblis (Şeýtan)",
+        "Fyrawn (Fyrawn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Şeýtan)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Adamyň öňünde baş egmekden boýun gaçyrdy",
+        "Ýalandan Hudaýlyk diýip yglan etdi",
+        "Sežde etmek üçin altyn göle ýasady",
+        "Göriplik sebäpli doganyny öldürdi",
+        "Mekkede müşrikleriň garşylygyna ýolbaşçylyk etdi"
+      ],
+      "answer": "Adamyň öňünde baş egmekden boýun gaçyrdy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Jennet (Jennet)",
+        "Müsürdäki faraonyň köşgi",
+        "Tuwanyň mukaddes jülgesi",
+        "Deňiziň çuňluklary",
+        "Şeba bagy"
+      ],
+      "answer": "Jennet (Jennet)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Kyýamat gününe çenli möhle berildi",
+        "Goşun bilen birlikde deňizde gark boldy",
+        "Ýer hazynalar bilen birlikde ýuwudyldy",
+        "Sabat günini bozandygy üçin maýmynlara öwrüldi",
+        "Asmandan zyňylan daşlar bilen ýandy"
+      ],
+      "answer": "Kyýamat gününe çenli möhle berildi"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

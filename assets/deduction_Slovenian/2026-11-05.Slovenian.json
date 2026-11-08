@@ -1,0 +1,61 @@
+{
+  "title": "melodija gora v mraku",
+  "intro": "Prisluhnite, kako doline odmevajo s hvalo ob izbranem Alahovem služabniku. Glas, obdarjen z melodijo, sodba, ki jo iščejo prepiralci v dvorani, in kovina, omehčana z božanskim ukazom, čakajo na odkritje. Katera figura čaščenja in pravične vladavine govori skozi te znake?",
+  "clues": [
+    "Alah me je blagoslovil z obiljem in melodičnim glasom hvale.",
+    "Alah me je naučil razumeti jezik pravične sodbe med prepirajočima se.",
+    "V bitki sem se soočil z mogočnim orjaškim bojevnikom in po Alahovi volji sem ga premagal.",
+    "Od Alaha mi je bila dana modrost, oblast in razodeti sveti spis psalmov.",
+    "Zvečer in ob sončnem vzhodu so se mi pridružile gore in ptice pri hvaljenju Alaha z mano.",
+    "Alah me je naučil izdelovati verižne oklepe iz železa, ki je bilo zame mehko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Davud (David)",
+        "Prerok Ismail (Izmael)",
+        "Prerok Jahja (Janez)",
+        "Zul-kifl",
+        "Prerok Al-Jasa (Eliš"
+      ],
+      "answer": "Prerok Davud (David)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Po Alahovi volji je v bitki premagal Jaluta (Goljata)",
+        "Zgradili so barko, da bi preživeli veliko poplavo",
+        "Bil je vržen v ogenj, ki ga je Alah ohladil",
+        "Požrla ga je velika riba v morju",
+        "Bil je dvignjen v nebesa, ne da bi okusil smrt"
+      ],
+      "answer": "Po Alahovi volji je v bitki premagal Jaluta (Goljata)"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Gore in ptice se združujejo v hvali Alaha",
+        "Palica, ki se je spremenila v kačo",
+        "Ogenj, ki je postal hladen in miren",
+        "Kamela, poslana kot znamenje ljudem",
+        "Lesena skrinja počiva na gori Judi"
+      ],
+      "answer": "Gore in ptice se združujejo v hvali Alaha"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Podeljeno kraljevanje, modrost in Zabur (psalmi)",
+        "Po iskreni molitvi v starosti dobil sina",
+        "Zagotovljena varnost v jami več let",
+        "Podeljen izvir Zamzama v puščavi",
+        "Odobreno utopitev vojske v morju"
+      ],
+      "answer": "Podeljeno kraljevanje, modrost in Zabur (psalmi)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

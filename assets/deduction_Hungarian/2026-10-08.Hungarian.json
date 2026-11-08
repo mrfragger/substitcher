@@ -1,0 +1,61 @@
+{
+  "title": "Az Ősi Völgy kőfaragói",
+  "intro": "Képzelj el egy civilizációt, amely Arábia sziklás völgyeiben emelkedett fel, és képes volt csodálatos otthonokat faragni a hegyoldalakból. Erővel és művészettel virágoztak, mégis történetüket az isteni figyelmeztetés hátborzongató elutasítása jellemzi. Ahogy elmélyedsz történetükben, felfedezel egy olyan népet, amelynek arroganciája a teljes megsemmisülésükhöz vezetett. Kik voltak ők?",
+  "clues": [
+    "Sziklás síkságok és magasodó sziklák földjét örököltük, ahol páratlan szakértelemmel építettük fel otthonainkat.",
+    "Arról voltunk híresek, hogy biztonságos otthonokat vájtunk a hegyekbe, biztonságban érezve magunkat minden bajtól.",
+    "Egy küldött jött hozzánk közülünk, emlékeztetve minket Allah kegyeire és figyelmeztetve a büntetésre.",
+    "Jelt követeltünk, és egy csodálatos nőstény teve bukkant elő a sziklából, Allah egyértelmű próbájaként.",
+    "Dacoltunk a figyelmeztetéssel, és megbénítottuk a nőstény tevét, gúnyolódva a hírvivőn és kérdőjelezve a büntetést.",
+    "Egyetlen robbanás ért el minket otthonainkban, és reggelre úgy feküdtünk földön, mintha soha nem éltünk volna ott."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Thamud népe",
+        "'Ad emberei",
+        "Madyan népe",
+        "Nuh népe",
+        "Lut népe"
+      ],
+      "answer": "Thamud népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Megbénította a nőstény tevét",
+        "Megtörte a szombatot",
+        "Imádta az aranyborjút",
+        "Megölték a hozzájuk küldött prófétát",
+        "Tornyot épített, hogy elérje az eget"
+      ],
+      "answer": "Megbénította a nőstény tevét"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A nőstény teve",
+        "A bárka",
+        "A személyzet",
+        "A fehér kéz",
+        "A manna és a fürjek"
+      ],
+      "answer": "A nőstény teve"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Robbanás pusztította el",
+        "Megmentve a pusztulástól",
+        "Majmokká változtak",
+        "Megfulladt a tengerben",
+        "Elnyelte a föld"
+      ],
+      "answer": "Robbanás pusztította el"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

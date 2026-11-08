@@ -1,0 +1,61 @@
+{
+  "title": "Egy parázs felett kimondott ígéret",
+  "intro": "Egy sivatagi tűz mellett állsz, miközben gondosan megrakott parazsat raknak. Látogatók érkeznek, hogy találkozzanak a csendben, és egyetlen üzenet nyit egy ígéret, meglepetés és egy még be nem teljesült jövő történetét.",
+  "clues": [
+    "Átkeltünk a távolságon, hogy elérjük a sivatagban lévő hűséges szolgát.",
+    "Kértük, hogy rakjanak parazsat a tűzrakáshoz.",
+    "Beszéltünk valakivel, aki a lángokhoz kiáltott hidegvérért és biztonságért.",
+    "Újszülött hírét vittük valakinek, aki már túllépte a gyermekvállalás korát.",
+    "A megígért gyermeket Izsáknak neveztük el.",
+    "Örömhírt vittünk Ibrahimnak egy fiúról, és a megdöbbentő hír megnevettette Ibrahimot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az angyalok, akik örömhírt hoztak Izsákról Ibrahimnak",
+        "Az angyalok, akik figyelmeztették Lutot",
+        "A trónus angyalai",
+        "A pokol angyalai",
+        "A Noéhoz küldött angyalok"
+      ],
+      "answer": "Az angyalok, akik örömhírt hoztak Izsákról Ibrahimnak"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Izsák születésének örömhírét hirdetve Ibrahimnak",
+        "Figyelmeztetés Lútnak, mielőtt népe megbüntetésre kerülne",
+        "Yahya születésének bejelentése Zakariyyának",
+        "A trón viselése az ítélet napján",
+        "Isa születésének bejelentése Maryamnak"
+      ],
+      "answer": "Izsák születésének örömhírét hirdetve Ibrahimnak"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Szétszórt parazsból készített tűz",
+        "Egy bárka úszik az árvízen",
+        "Egy gördülő kővel lezárt barlang",
+        "Egy sóoldattal megkeményedett agyaghegy",
+        "Egy létra nyúlik az égbe"
+      ],
+      "answer": "Szétszórt parazsból készített tűz"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Örömhír egy Izsák nevű fiúról",
+        "Örömhír egy Yahya nevű fiúról",
+        "Talut kiválasztása Izrael fiai feletti uralkodóvá",
+        "Figyelmeztetés Lut népének megbüntetése előtt",
+        "Parancs bárkaépítésre az özönvíz előtt"
+      ],
+      "answer": "Örömhír egy Izsák nevű fiúról"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

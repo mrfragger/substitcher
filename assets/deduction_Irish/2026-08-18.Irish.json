@@ -1,0 +1,61 @@
+{
+  "title": "An té a thuill Surah",
+  "intro": "Samhlaigh anam umhal ag druidim le ceann de Theachtairí Allah le croí lán d’onáirdeacht agus fonn domhain chun foghlama. Ach ag an nóiméad sin féin, tharraing duine saibhir agus stádais aird an Teachtaire, agus díríodh gruaim ar an gcuardaitheoir. Ní raibh ann ach caibidil iomlán den Qurán ina dhiaidh sin, a seoladh chun an Teachtaire a cheartú agus onóir a thabhairt don anam a tháinig ag lorg.",
+  "clues": [
+    "Tháinig mé chuig Teachtaire Allah le croí oscailte agus fonn domhain ar threoir.",
+    "Ní raibh aon stádas saoghalta agam le tairiscint, ach anam umhal ag lorg na fírinne",
+    "Ní raibh mo shúile fisiciúla in ann a fheiceáil, ach bhí mo fhís spioradálta soiléir",
+    "Shroich mé ag tráth míchaoithiúil, nuair a bhí an Teachtaire gnóthach le duine a raibh tionchar mór aige.",
+    "Chas gruaim orm, ach d’fhreagair Allah le ceartú diaga.",
+    "Is mise Abdullah ibn Umm Maktum, an compánach díograiseach ar spreag a scéal Surah Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Triail / Imeacht",
+      "options": [
+        "A bheith á dhiúltú ag an bhFáidh ar son duine saibhir",
+        "Á chaitheamh isteach i tine mhór ag naimhde",
+        "Á dhíol agus á ghéarleanúint mar sclábhaí",
+        "Ag tabhairt dúshlán do chomhrac le laoch cumhachtach",
+        "Á shlogadh ag iasc mór"
+      ],
+      "answer": "A bheith á dhiúltú ag an bhFáidh ar son duine saibhir"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Caibidil Quránach a thosaíonn le gruaim (Surah Abasa)",
+        "Tine fionnuar agus sábháilte",
+        "Foireann a scoilt farraige mhór",
+        "Áirc tógtha ar shliabh ard",
+        "Éan múnlaithe as cré cruaite"
+      ],
+      "answer": "Caibidil Quránach a thosaíonn le gruaim (Surah Abasa)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Nocht Allah sura Quránach ag cosaint mé",
+        "Rinne Allah an tine fionnuar agus sábháilte domsa",
+        "Scar Allah an fharraige chun mé a shábháil ó thóir",
+        "Bhronn Allah ríocht agus eagna mór orm",
+        "Thug Allah mé go neamh gan bás"
+      ],
+      "answer": "Nocht Allah sura Quránach ag cosaint mé"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

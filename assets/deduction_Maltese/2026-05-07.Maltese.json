@@ -1,0 +1,61 @@
+{
+  "title": "Is-Sejjieħ mill-Fond",
+  "intro": "Immaġina ruħ fdata b’messaġġ divin, iżda waħda li, f’mument ta’ għaġla, telqet minn niesha mingħajr permess espliċitu. Dan il-vjaġġ wassalhom għal prova straordinarja, test profond ta’ paċenzja u fiduċja fl-Aktar Għoli. Min hu dan l-individwu li l-istorja tiegħu tgħallimna dwar l-indiema u l-kobor tal-ħniena ta’ Alla?",
+  "clues": [
+    "Intbgħatt għand nazzjon kbir, imma ċ-ċaħda inizjali tagħhom ikkawżatli niket.",
+    "Tlaqt lin-nies tiegħi, billi nemmen li l-missjoni tiegħi kienet lesta, qabel ma rċevejt kmand ċar biex nitlaq.",
+    "Fittixt vjaġġ fuq vapur, iżda maltempata qawwija u tlugħ bix-xorti wasslu għal sitwazzjoni ħażina.",
+    "Intfajt fil-baħar, u ħlejqa setgħana tal-baħar fond belgħetni għalkollox.",
+    "Fid-dlam ta’ żaqqu, għajjatt lil Alla, nammettiet l-iżball tiegħi u tlabt il-maħfra Tiegħu.",
+    "Alla ordna lill-kreatura biex titfagħni fuq ix-xatt, u jien ġejt irkuprat għall-fejqan taħt pjanta unika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Yusuf (Ġużeppi)",
+        "Profeta Nuh (Noè)",
+        "Il-Profeta Yunus (Ġona)",
+        "Il-Profeta Sulaiman (Salomon)",
+        "Il-Profeta Ayyub (Ġob)"
+      ],
+      "answer": "Il-Profeta Yunus (Ġona)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Il-qsim tal-baħar",
+        "In-nar ta’ Nimrod",
+        "Nibla’ minn ħuta kbira",
+        "L-għargħar",
+        "Il-qerda ta’ belt bil-ġebel"
+      ],
+      "answer": "Nibla’ minn ħuta kbira"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka",
+        "L-Istaff",
+        "Iż-żaqq tal-ħuta",
+        "Il-bir",
+        "L-għollieq jaqbad"
+      ],
+      "answer": "Iż-żaqq tal-ħuta"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Sar ħakkiem kbir",
+        "Bniet il-Kaaba",
+        "Irritorna biex jiggwida ġens niedem",
+        "Ingħata dominju fuq il-ġinn",
+        "Mexxa lin-nies madwar id-deżert"
+      ],
+      "answer": "Irritorna biex jiggwida ġens niedem"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

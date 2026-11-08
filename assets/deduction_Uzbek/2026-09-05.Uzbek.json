@@ -1,0 +1,61 @@
+{
+  "title": "Cho'kib ketgan ulug'vorlik",
+  "intro": "Tasavvur qiling-a: ajoyib kiyimlarga burkangan va tasavvur qilib bo'lmaydigan xazinalar bilan o'ralgan ruh. Bu shaxs o'z boyliklarini o'zining aql-zakovati bilan topganiga ishongan va hech qachon haqiqiy rizq manbasini tan olmagan. Qudratli payg'ambarning izdoshlari orasida yurgan bu shaxs kamtarlikka bo'lgan har qanday chaqiriqni rad etgan. Bugun biz ulug'vor boyligi ularning oxirgi dam olish maskaniga aylangan shaxsning shaxsini ochib beramiz.",
+  "clues": [
+    "Men o'jar xalqni haqiqatga chaqirgan payg'ambar davrida yashadim.",
+    "Men tanlangan jamoaning bir qismi edim, ammo yuragim xabardan yuz o'girdi.",
+    "Oltin va kumush meni har qanday ilohiy amrdan ko'ra ko'proq o'ziga jalb qildi.",
+    "Xazina omborlarim shunchalik kengayib ketdiki, kuchli odamlar guruhi kalitlarni zo'rg'a ko'tara oldilar.",
+    "Men boyligim menga o'z bilimim tufayli berilganligi bilan maqtandim.",
+    "Oxir-oqibat, men va butun uyim ogohlantirish sifatida yerga yutib yuborildik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Qorun",
+        "Xomon",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qorun"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Boylikka nisbatan kibr va xayriyadan bosh tortish",
+        "Eritilgan zargarlik buyumlaridan oltin but yasash",
+        "Kuchli shohlik ustidan ilohiylikni e'lon qilish",
+        "Makkadagi ilk mo'minlarni ta'qib qilish",
+        "Muqaddas Uyni vayron qilish kampaniyasiga rahbarlik qilish"
+      ],
+      "answer": "Boylikka nisbatan kibr va xayriyadan bosh tortish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kalitlari ko'plab kuchli odamlarga og'irlik qilgan xazinalar",
+        "Ovoz chiqargan oltin buzoq",
+        "Uzoq yurtdan kelgan ulug'vor taxt",
+        "Yonayotgan olov bilan to'ldirilgan xandaq",
+        "Urush fillarining qudratli qo'shini"
+      ],
+      "answer": "Kalitlari ko'plab kuchli odamlarga og'irlik qilgan xazinalar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Uy bilan birga yer tomonidan yutib yuborilgan",
+        "Dengizda qo'shin bilan cho'kib ketdi",
+        "Olov chuqurida tiriklayin yonib ketdi",
+        "Uvillagan va shiddatli shamol tomonidan vayron qilingan",
+        "Bitta kuchli portlash bilan urildi"
+      ],
+      "answer": "Uy bilan birga yer tomonidan yutib yuborilgan"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

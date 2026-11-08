@@ -1,0 +1,61 @@
+{
+  "title": "Diwaller ar Flamm Dilazhañ",
+  "intro": "Ur skeudenn a zo e-tal al lec'h spontusañ en diwelus, fiziet ennañ un dever na fell da boud all ebet. Pa c'halv an eneoù o c'houzañv evit kaout truez, e klever ur respont strizh dre ar c'hambroù tan. Ha gallout a rit dizoloiñ identelezh ar gwazour peurbadus-se ?",
+  "clues": [
+    "Sevel a ran ouzh mont-tre ul lec'h spontus a gastiz en diwelus.",
+    "Un tan flamm ha na c'hell ket bezañ lazhet eo kreiz ma dever solennel.",
+    "Eneoù o c'houzañv a c'halv va anv, o c'houlenn ma vefen dieubet diouzh o boan difin.",
+    "Pa c'houlennont, e lavaran ne'z aint ket kuit, biskoazh.",
+    "N'on ket den, na jinn — un den krouet a sentidigezh glan on.",
+    "Me eo an ael pennañ anvet da warezer peurbadus an tan-ifern."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Tud an Ifern a c'houlenn ma vo echuet o boan",
+        "Sonet e vez an drompilh evit sinañ deiz ar varn",
+        "Diskuliet eo ar C'horan e kalon ar Profed",
+        "Ur Profed a zo taolet en un tan bras gant o fobl",
+        "Savet eo ur voger c'halloudus evit derc'hel ur vroad breinet"
+      ],
+      "answer": "Tud an Ifern a c'houlenn ma vo echuet o boan"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "An tan-ifern (Jahannam)",
+        "Ar wezenn lote e harz ar baradoz",
+        "Un trompilh toull",
+        "Ur vazh a dreuzfurm en un naer",
+        "Un tron ​​doueel meurdezus"
+      ],
+      "answer": "An tan-ifern (Jahannam)"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Lavaret e vez da annezidi an Ifern e chomint da viken",
+        "Pardonet ha dieubet eo annezidi an Ifern",
+        "Roet e vez un eil chañs d'ar feiz da annezidi an Ifern",
+        "Dilec'hiet eo annezidi an Ifern en ul lec'h fresk",
+        "Distrujet penn-da-benn eo annezidi an Ifern gant un arnev"
+      ],
+      "answer": "Lavaret e vez da annezidi an Ifern e chomint da viken"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

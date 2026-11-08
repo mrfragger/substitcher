@@ -1,0 +1,61 @@
+{
+  "title": "Butparazlara garşy çykan elçi",
+  "intro": "Ybadat azaşyp başlan döwürde, bir ilçi älemleriň Rebbine ybadat etmäge gaýdyp gelmek üçin çagyryş bilen çykdy. Bu şahsyýet ýalan taňra ybadat etmekde kök uran halka garşy berk durup, olara hakyky Ýaradyjysyny we ata-babalarynyň Rebbini ýatlatdy. Şeýle-de bolsa, halk gaflatda galdy we duýduryşy ret etdi, öz ykbalyny kesgitledi. Bu üýtgewsiz çagyryşçy kimdi?",
+  "clues": [
+    "Men ýeke-täk Hakyky Hudaýyň ýolundan ýüz öwüren bir kowumyň ýanyna iberildim.",
+    "Men öz halkymdan: \"Siz Alladan gorkmaýarsyňyzmy?\" diýip soradym.",
+    "Men olary Baal atly ýalan hudaýa sežde etmekden ýüz öwürmäge çagyrdym.",
+    "Meniň halkym meniň çagyryşymy ret etdi we butparazlyklarynda dowam etdi.",
+    "Inkär edendikleri üçin, olar, elbetde, jeza üçin getirilerler.",
+    "Rebbim maňa parahatçylyk we soňky nesiller üçin bereketli ýatlama berdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ylýas pygamber",
+        "Ýahýa pygamber",
+        "Zul-Kifl pygamber",
+        "Ýusup pygamber",
+        "Şuaýb pygamber"
+      ],
+      "answer": "Ylýas pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Öz halkyny Baaldan ýüz öwürmäge çagyrdy",
+        "Möminleri halas etmek üçin gämi gurdy",
+        "Oda taşlandy",
+        "Zalym Fyrowndan gaçyp",
+        "Suw çykarmak üçin daşa urdy"
+      ],
+      "answer": "Öz halkyny Baaldan ýüz öwürmäge çagyrdy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Parahatçylyk we bereketli ýatlama berildi",
+        "Ýer tarapyndan ýuwudyldy",
+        "Güýçli tupandan weýran boldy",
+        "Daşa öwrüldi",
+        "Deňizde gark boldy"
+      ],
+      "answer": "Parahatçylyk we bereketli ýatlama berildi"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

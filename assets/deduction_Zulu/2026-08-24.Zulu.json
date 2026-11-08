@@ -1,0 +1,61 @@
+{
+  "title": "Abalaleli Abafihliwe Ababekholwa",
+  "intro": "Ngesikhathi sokuthula kombuthano ongcwele, kwafika umhlangano omangalisayo uvela endaweni engabonakali. Bedonswa yizindlebe zokuthize okumangalisayo, balalela ukulandisa okwakuzoqinisekisa isiphetho sabo kuze kube phakade. Ubufakazi babo buhlala bungobunye bobuyingqayizivele kakhulu emibhalweni engcwele.",
+  "clues": [
+    "Singabantu abavela endaweni engabonakali ngabaningi, futhi seza njengeqembu.",
+    "Saya embuthanweni ukuze sizwe okuthile okumangalisayo.",
+    "Lapho sifika, salalela ingoma eyasishiya simangele.",
+    "Savuma obala ukuthi abanye phakathi kwethu balungile kanti abanye abalungile.",
+    "Sasazi ukuthi asinakubalekela isinqumo sikaNkulunkulu emhlabeni, noma ngokubalekela esibhakabhakeni.",
+    "Lapho sizwa isiqondiso, sakholwa kuso; noma ngubani okholwa eNkosini yakhe ngeke esabe ukulahlekelwa noma umthwalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Iqembu lamaJinn",
+        "Abantu base-Iram",
+        "Abantu baseTubba'",
+        "UMbuso WaseRoma",
+        "Isizwe samaQuraysh"
+      ],
+      "answer": "Iqembu lamaJinn"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukulalela ukulandisa okungcwele",
+        "Ukwakha izinsika eziphakeme edolobheni lethu",
+        "Ukuzingela ikamela lensikazi elihle kakhulu",
+        "Ukubhujiswa ngokubulala abaprofethi bethu",
+        "Ukwandisa ingcebo ngaphezu kokulinganiswa"
+      ],
+      "answer": "Ukulalela ukulandisa okungcwele"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umhlangano wokuphindaphinda okungcwele",
+        "Idolobha lezinsika ezinde (i-Iram)",
+        "Umthombo ogwadule",
+        "Isigodlo esikhulu segolide",
+        "Umhume ongcwele ezintabeni"
+      ],
+      "answer": "Umhlangano wokuphindaphinda okungcwele"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Sakholwa futhi saxwayisa abantu bethu",
+        "Wabhujiswa ukuqhuma okukhulu okuvela esibhakabhakeni",
+        "Ukujeziswa umoya oshisayo nobhubhisayo",
+        "Unikezwe ingcebo enkulu namandla",
+        "Ngahlala ngiqinile ngingakholwa"
+      ],
+      "answer": "Sakholwa futhi saxwayisa abantu bethu"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

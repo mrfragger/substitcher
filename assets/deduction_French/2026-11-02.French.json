@@ -1,0 +1,61 @@
+{
+  "title": "L'allié indéfectible dans une épreuve d'or",
+  "intro": "À l'ombre d'un grand prophète, une âme d'une grande éloquence et d'une foi profonde fut choisie pour contribuer à une mission monumentale. Cette figure demeura inébranlable lorsque les foules vacillèrent, prêchant contre une transgression flagrante qui menaçait le cœur même du monothéisme. Lorsque le prophète revint et constata l'égarement du peuple, sa défense ne reposa pas sur la culpabilité, mais sur le devoir et la crainte de la division. Qui est ce serviteur dévoué d'Allah ?",
+  "clues": [
+    "J'ai été choisi par Allah pour accomplir une mission sacrée aux côtés d'une autre, et mon rôle était celui du soutien et de la proclamation.",
+    "J'ai recouvré la liberté d'expression et j'ai accompagné un messager pour affronter un puissant oppresseur.",
+    "Au cours d'un voyage crucial, le messager gravit seul une montagne, me laissant veiller sur le peuple.",
+    "En leur absence, le peuple a façonné une image en or, et je les ai suppliés de rester fidèles, mais ils ont refusé mes conseils.",
+    "Lorsque le messager revint, rempli de colère et de chagrin, je fus saisi, mais j'expliquai que j'avais été maîtrisé et que je craignais de semer la discorde parmi eux.",
+    "Je suis le prophète qui se tenait aux côtés de Moïse, mon frère, partageant son fardeau et restant ferme contre l'idolâtrie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Harun",
+        "Le prophète Moïse",
+        "Le prophète Isaïe",
+        "Prophète Dawud",
+        "Le prophète Zacharie"
+      ],
+      "answer": "Le prophète Harun"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Malgré les avertissements, le peuple vénérait un veau d'or.",
+        "On m'a jeté dans un feu déchaîné",
+        "J'ai été avalé par un énorme poisson",
+        "J'ai été emprisonné sur la base de fausses accusations.",
+        "J'ai été exilé de ma ville pour avoir prêché."
+      ],
+      "answer": "Malgré les avertissements, le peuple vénérait un veau d'or."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le veau d'or",
+        "Le Buisson Ardent",
+        "Le bâton qui se transforma en serpent",
+        "Les Tables de l'Alliance",
+        "L'Arche d'Alliance"
+      ],
+      "answer": "Le veau d'or"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "J'ai été innocenté et j'ai poursuivi ma mission prophétique.",
+        "J'ai été puni pour le péché du peuple",
+        "On m'a confié une nouvelle nation à guider",
+        "J'ai été emmené vivant au ciel",
+        "J'ai été nommé souverain d'un royaume"
+      ],
+      "answer": "J'ai été innocenté et j'ai poursuivi ma mission prophétique."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

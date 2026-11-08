@@ -1,0 +1,61 @@
+{
+  "title": "Antik Kumların İçindeki Ses",
+  "intro": "Allah'ın ilk peygamberleri arasında, Kur'an'da adı kısa ama anlamlı bir şekilde geçen biri vardı. Bu kişi, birçok büyük peygamber gönderilmeden çok önce yaşamış ve sarsılmaz dürüstlüğü ve sabrı ile tanınmıştır. Hikayesi kısa olsa da mirası ebedi kayıtlarda yer almaktadır. Bu yüce ruh kimdir?",
+  "clues": [
+    "Ben, Kur'an'da kısaca ama anlamlı bir şekilde anılan ilk peygamberlerden biriyim.",
+    "Karakterim, gerçeğe olan sarsılmaz bağlılığımla tanımlanıyordu.",
+    "Allah'ın kitabında, sebat eden ve sabredenler arasında anılıyorum.",
+    "Kur'an'da benim hikâyemi anlatan sadece birkaç kısa ayet var.",
+    "Allah beni, diğer peygamberlerle paylaşılmayan, eşsiz bir şekilde şereflendirdi.",
+    "Ben, Kur'an'da eşsiz bir şeref olan yüksek bir makama yükseltildim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İdris",
+        "Peygamber İlyas",
+        "Zül-Kifl",
+        "Peygamber Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Peygamber İdris"
+    },
+    "trial": {
+      "label": "Belirleyici An",
+      "options": [
+        "Allah tarafından yüksek bir makama yükseltildim.",
+        "Halkımı kurtarmak için büyük bir gemi inşa ettim.",
+        "Firavunun büyücülerine meydan okudum.",
+        "Kardeşlerim beni bir kuyuya attılar.",
+        "Oğlumun kaybından duyduğum üzüntüden dolayı görme yetimi kaybettim."
+      ],
+      "answer": "Allah tarafından yüksek bir makama yükseltildim."
+    },
+    "location": {
+      "label": "Kutsal Referans",
+      "options": [
+        "Enbiya Suresi",
+        "Kehf Suresi",
+        "Taha Suresi",
+        "Şuara Suresi",
+        "Yasin Suresi"
+      ],
+      "answer": "Enbiya Suresi"
+    },
+    "outcome": {
+      "label": "İlahi Şeref",
+      "options": [
+        "Benzeri benzeri olmayan yüksek bir konum",
+        "Cinler ve rüzgarlar üzerinde egemenlik",
+        "Eşsiz bir ihtişam krallığı",
+        "Yaşlılığımdan kalma bir mirasçı",
+        "Allah ile yapılmış bir antlaşma"
+      ],
+      "answer": "Benzeri benzeri olmayan yüksek bir konum"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La chiamata che l’ha invegià",
+  "intro": "Figürate un’anema che la se mett da sola cuntra tüta una civiltà, decisa a purtal indrée dal sbaglià cunt una risoluziun ferma. Par secoi, ol messaj ‘l é stait refutad, ciapad in gir e scartad, anc’mò ‘l sforz ‘l é mai stait cessad. A la fin, l’è rivà un grand calcul, e sultant pooch sun nà a la salveza insema a chesta anima ferma. Pœdet identificà chesta figüra del Coran?",
+  "clues": [
+    "Sun stà mandà cuma avvertidur a un popul perdü in di sò mod.",
+    "I g’ho invità a cercà el perdun e a turnà indrè di luur sbagli, ma lür se sun voltà indrè.",
+    "Sotta el comand divin, g’ho costruì un bastiment grandissim menter la me gent la me vardava e la me ridiculizava.",
+    "Ho invocad el me Signor senza cessar - a la fin Luu l’ha respondud, e l’aqua la s’è spurgada del ciel in torrents.",
+    "Mi son montà sü la nav cun quei che credevan quand che l’aqua de diluvio l’era levada sü la terra.",
+    "Ho criad a quel che l’era restà, dumandant de rifugiàs sü una muntagna, ma el decreto l’era giamò passà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Nuh",
+        "El prufeta Ibrahim",
+        "Profeta Musa",
+        "Profeta Hud",
+        "Profeta Salih"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Costruir una grand arca e soravif a un diluvio mundial",
+        "Vesser butad ind un fœg ardent",
+        "Afruntà un tiranno e i sò magich pudent",
+        "Vesser inglutid da un grand pess",
+        "Assistir a la mort de una sacra camel"
+      ],
+      "answer": "Costruir una grand arca e soravif a un diluvio mundial"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una grandissima arca de legn sü l’aqua de inondaziun",
+        "Una vall sacra cun vècc rovin de pedra",
+        "Una caverna prufunda indué i cumpagn durmivan per secul",
+        "La panza de una balena gigant in di profondità del ocean",
+        "Una volta montagna de pedra in del deserto"
+      ],
+      "answer": "Una grandissima arca de legn sü l’aqua de inondaziun"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Salvà cunt i credent a bord del bastiment",
+        "Salvà senza danè dal fœuch travers del cumand divin",
+        "G’ha purtà un grand esodo fœura de un regn pudent",
+        "Cascià fœura del pèss sü una riva steril",
+        "G’ha purtà i gent luntan dal malfatt travers de un segn miraculus"
+      ],
+      "answer": "Salvà cunt i credent a bord del bastiment"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

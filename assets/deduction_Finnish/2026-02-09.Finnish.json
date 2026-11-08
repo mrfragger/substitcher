@@ -1,0 +1,60 @@
+{
+  "title": "Aaltojen alla oleva koettelemus",
+  "intro": "Tehtävänsä taakan alla profeetta teki päätöksen, joka johdatti hänet kauas kansastaan ​​odottamattomaan koettelemukseen. Hänen matkansa otti dramaattisen käänteen, joka koetteli hänen uskoaan ja kärsivällisyyttään syvällisesti. Voitko päätellä tämän poikkeuksellisen tapahtuman yksityiskohdat annetuista vihjeistä?",
+  "clues": [
+    "Profeetta lähetettiin kansan luo, mutta hän lähti kiireesti pois tuntien turhautumista heidän hylkäämiseensä.",
+    "Hänen matkansa johdatti hänet merelle, missä hän nousi raskaasti lastattuun alukseen, joka etsi kulkua.",
+    "Nousi suuri myrsky, joka uhkasi laivaa, ja arvalla päätettiin heittää yksi henkilö yli laidan kuorman keventämiseksi.",
+    "Syvyyksien olento nielaisi hänet, mikä oli jumalallisen tahdon määräämä ihmeellinen tapahtuma.",
+    "Olennon vatsan rajoissa hän huusi Herraansa, katuen ja ylistäen Allahia pimeydessä.",
+    "Hartaan anomuksen jälkeen hänet heitettiin karulle rannalle heikkona mutta elossa, ja myöhemmin palattuaan hän huomasi kansansa vihdoin uskoneen."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeetta/Henkilö",
+      "options": [
+        "Profeetta Nooa",
+        "Profeetta Lut",
+        "Profeetta Musa",
+        "Profeetta Yunus",
+        "Profeetta Yusuf"
+      ],
+      "answer": "Profeetta Yunus"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Nuhin tulva",
+        "Sodoman tuho",
+        "Matka suuren kalan vatsassa",
+        "Meren jakautuminen",
+        "Palavan pensaan ilmestys"
+      ],
+      "answer": "Matka suuren kalan vatsassa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Siinainvuori",
+        "Musan sauva",
+        "Suuri kala",
+        "Yusufin kaivo"
+      ],
+      "answer": "Suuri kala"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Uusi liitto ihmiskunnan kanssa",
+        "Ihmeellinen syntymä hänen kansalleen",
+        "Hänen sukuaan varten perustettu valtakunta",
+        "Paluu kansansa luo, joka silloin uskoi",
+        "Voitto tyrannimaisesta hallitsijasta"
+      ],
+      "answer": "Paluu kansansa luo, joka silloin uskoi"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ar bobl aet da get",
+  "intro": "Sevel a rez dirak troioù ur gumuniezh hec'h istor skrivet er gwagennoù. An eneoù-se a glevas ur galv, a zibabjont enebiñ, hag a en em gavjont dirak un heuliad a adkempennas an douar. Piv int, ha petra a zo deuet da vezañ gant o bed ?",
+  "clues": [
+    "Pell zo e vevemp, hag eur c’hannad a deuaz d’e-omp euz hon touez hon-unan.",
+    "Azeuliñ a reomp pemp idol ha nac'hañ a reomp o dilezel.",
+    "Goap a reomp eus ar c'hannad ha tamall a reomp anezhañ da vezañ gwallgaset.",
+    "Goulenn a reomp digantañ degas ar c'hastiz ma oa gwirion.",
+    "Gwelet hon eus an oabl o skuilhañ glav hag an douar o strinkañ feunteunioù.",
+    "Pignat a reomp betek al lec'hioù uhel evit tec'hout, met ar gwagennoù a dremenas ac'hanomp."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Tud Nuh",
+        "Tud 'Ad",
+        "Tud Thamud",
+        "Pobl Lut",
+        "Tud Madyan"
+      ],
+      "answer": "Tud Nuh"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Beuzet omp bet en ul liñvadenn vras",
+        "Distrujet omp bet gant ur gorventenn",
+        "Lazhet omp bet gant un taol kreñv",
+        "Lonket omp bet gant an douar",
+        "Taolet e oamp bet gant mein eus an oabl"
+      ],
+      "answer": "Beuzet omp bet en ul liñvadenn vras"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Un dour-beuz bras",
+        "Un avel feuls",
+        "Ur barrad mein",
+        "Un taol-tan",
+        "Ur c'hren-douar |"
+      ],
+      "answer": "Un dour-beuz bras"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Kollet omp holl nemet ar feizidi gant Nuh",
+        "Treuzfurmet omp bet e marmouzed",
+        "Lezet omp bet evel dismantroù evit ar veajourien",
+        "Troet omp bet e holen",
+        "Roet e oa bet deomp un ehan"
+      ],
+      "answer": "Kollet omp holl nemet ar feizidi gant Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

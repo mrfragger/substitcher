@@ -1,0 +1,61 @@
+{
+  "title": "Der Architekt der Arroganz",
+  "intro": "In einem uralten Land, das von einer trotzigen Macht beherrscht wurde, bekleidete eine Schlüsselfigur eine einflussreiche Position. Diese Person spielte eine entscheidende Rolle in den finsteren Plänen des Herrschers, trug zu dessen Unterdrückung bei und stellte die göttliche Botschaft in Frage. Ihr Vermächtnis ist eng verknüpft mit dem Streben nach weltlicher Macht und der Verleugnung der Wahrheit.",
+  "clues": [
+    "Ich diente einem furchterregenden Herrscher, der ein Volk über Generationen unterdrückte.",
+    "Mein Name wird im Göttlichen Buch häufig zusammen mit diesem mächtigen Anführer erwähnt.",
+    "Mir wurde ein gewaltiges Bauprojekt übertragen, ein gigantisches Bauwerk, das bis in den Himmel reichen sollte.",
+    "Ich riet meinem Herrn, die Söhne der Kinder Israels zu töten und ihre Töchter zu verschonen.",
+    "Ich war in Komplotte und Verschwörungen gegen einen mächtigen Gesandten Allahs verwickelt.",
+    "Mein Ende, zusammen mit meinem Herrn und seinem Heer, kam in den Fluten eines riesigen Meeres."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliath",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Auf die Probe gestellt mit immensem Reichtum",
+        "Eine Armee gegen ein heiliges Haus führen",
+        "Einen Turm bauen, um Gott zu erreichen",
+        "Wegen ihres Glaubens ins Feuer geworfen werden",
+        "Von Geschwistern in einen Brunnen geworfen werden"
+      ],
+      "answer": "Einen Turm bauen, um Gott zu erreichen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Der Berg",
+        "Der Turm",
+        "Der Wal"
+      ],
+      "answer": "Der Turm"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihm wurde immense Weisheit verliehen.",
+        "Ein Prophet werden",
+        "Von der Erde verschluckt werden",
+        "Ein Königreich gewährt bekommen",
+        "Ertrinken im Meer"
+      ],
+      "answer": "Ertrinken im Meer"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

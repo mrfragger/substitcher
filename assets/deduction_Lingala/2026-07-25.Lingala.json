@@ -1,0 +1,61 @@
+{
+  "title": "Bato oyo bafandaka na bilanga mibale",
+  "intro": "Na mboka oyo mapamboli ezalaki kosopana mingi, kala lisangá moko ezalaki kosepela na ebele ya bilanga mibale ya kitoko. Bomoi na bango ezalaki litatoli ya boboto ya bonzambe, nzokande lisolo na bango ezwaki mbongwana ntango botondi ekitanaki, ememaki na mbongwana oyo ekokoma elembo ya koumela mpo na banso oyo bakanisaka.",
+  "clues": [
+    "Tozalaki bato oyo bapambolamaki na mboka ya pete mpe ya ebele.",
+    "Nkolo na biso apesaki biso bilanga mibale ya kitoko, ya kitoko mpe ya kobota mbuma na ngambo nyonso.",
+    "Topesamaki etinda ya kozala na botondi, kasi toponaki kozanga botondi mpe tobalukaki.",
+    "Barrage moko monene ekangaki mai oyo epesaki bomoi na mabele na biso.",
+    "Ntango tolendelaki kosala mabe na biso, barrage epasuka mpe mai ya mpela ekɔtaki na kati.",
+    "Elanga na biso oyo kala ezalaki kitoko ezwaki esika ya mbuma ya bololo, tamaris, mpe mwa banzete ya lote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Saba",
+        "Bato ya Thamud",
+        "Bato ya Madyan",
+        "Ba Compagnons ya Libulu",
+        "Bato ya Nkoi"
+      ],
+      "answer": "Bato ya Saba"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mopɛpɛ makasi na boumeli ya butu nsambo",
+        "Mbula ya mabanga oyo euti na likoló",
+        "Mpela ya kobebisa oyo euti na barrage oyo ezali kopasuka",
+        "Koganga makasi oyo euti na likoló",
+        "Kozinda na mbu"
+      ],
+      "answer": "Mpela ya kobebisa oyo euti na barrage oyo ezali kopasuka"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Barrage monene ya Ma'rib",
+        "Lobwaku ya Wadi al-Qura",
+        "Elanga ya Iram",
+        "Libulu ya Zamzam",
+        "Ngomba ya Sinai"
+      ],
+      "answer": "Barrage monene ya Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bazwaki esika ya bilanga na biso na mbuma ya bololo mpe banzete oyo ezalaki mingi te",
+        "Mabelé emɛlaki biso na koningana ya mabele",
+        "Tobongwanaki na ba singes mpe ba ngulu",
+        "Tozindaki na mpela moko monene",
+        "Tobebisamaki na mbula ya mabanga"
+      ],
+      "answer": "Bazwaki esika ya bilanga na biso na mbuma ya bololo mpe banzete oyo ezalaki mingi te"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

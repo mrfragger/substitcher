@@ -1,0 +1,61 @@
+{
+  "title": "Nën hijen e palmës së hurmës",
+  "intro": "Një histori e një shpirti të ndarë përpara lindjes, të ushqyer brenda mureve të shenjta dhe të zgjedhur për të mbajtur një shenjë që bota nuk e kishte parë kurrë. Kur akuzat dolën nga çdo drejtim, një zë erdhi nga vendet më të papritura për të heshtur çdo dyshim. A mund ta zbuloni se kush eci nën hijen e palmës së hurmës?",
+  "clues": [
+    "Isha i përkushtuar në shërbim të të Plotfuqishmit përpara se të merrja frymën e parë, një betim i bërë nga ai që më mbante në krahë.",
+    "U rrita nën kujdesin vigjilent të një kujdestari të drejtë brenda dhomave të shenjta të një vendi adhurimi.",
+    "Sa herë që kujdestari im vinte në dhomën time, ai gjente me mua furnizime nga stinë që nuk duhej të kishin qenë.",
+    "Më dhanë lajmin e gëzuar për një djalë, megjithëse rrethanat e mia nuk linin vend për atë që ishte premtuar.",
+    "U tërhoqa në një vend të largët dhe atje një palmë hurme më ofroi hije, ndërsa një përrua rridhte poshtë.",
+    "Kur erdhën akuzat dhe më rrethuan pyetjet, tregova me gisht nga fëmija im i porsalindur — dhe ai foli që në djep për të heshtur çdo dyshim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Merjem",
+        "Sara",
+        "Hava",
+        "Umm Musa",
+        "Gruaja e Nuhut"
+      ],
+      "answer": "Merjem"
+    },
+    "trial": {
+      "label": "Provë / Ngjarje",
+      "options": [
+        "Lindja e një djali të mrekullueshëm në izolim",
+        "Të hidhesh në një zjarr flakërues nga idhujtarët",
+        "Mbijetesa e përmbytjes së madhe me një pakicë të zgjedhurish",
+        "Të ndahesh nga një foshnjë e hedhur në lumë",
+        "Përballja me sundimtarin e fuqishëm të Egjiptit"
+      ],
+      "answer": "Lindja e një djali të mrekullueshëm në izolim"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një palmë hurme dhe një përrua që rrjedh poshtë saj",
+        "Një arkë e fuqishme mbi valë gjigante",
+        "Një shkop që ndau një det të madh në dysh",
+        "Një zjarr flakërues që synon të konsumojë një shpirt besnik",
+        "Një fron i artë i zbukuruar me gurë të çmuar"
+      ],
+      "answer": "Një palmë hurme dhe një përrua që rrjedh poshtë saj"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "E nderuar si më e lartësuar nga të gjitha gratë",
+        "Ribashkuar me një fëmijë të dashur pas një ndarjeje të gjatë",
+        "E nxori një komb të tërë nga skllavëria e një tirani",
+        "Paralajmëroi një popull të humbur në imoralitet",
+        "I është dhënë sundim mbi xhindët, njerëzimin dhe erërat"
+      ],
+      "answer": "E nderuar si më e lartësuar nga të gjitha gratë"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

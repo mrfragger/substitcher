@@ -1,0 +1,61 @@
+{
+  "title": "Aniq tanlangan",
+  "intro": "Ilohiy so'zlar tushgan tog' soyasida, oltin jilosi ostida xalqning imoni titrab ketdi. Notiqlik qobiliyatiga ega bo'lgan bir qalb buyuk vazifani qo'llab-quvvatladi, ammo chuqur sinov lahzasiga duch keldi. Tanlangan elchi muqaddas uchrashuvga ko'tarilganda, bu shaxs orqada qoldi va bezovta xalqqa yolvorib turdi. Butparastlikka qarshi ovozi ko'tarilgan bu qat'iyatli qalb kim?",
+  "clues": [
+    "Men Alloh tomonidan payg'ambar bo'lish uchun tanlanganman, garchi mening hikoyam ko'pincha boshqa hikoyalar bilan birga hikoya qilinadi.",
+    "Meni zolim hukmdor oldiga yuborishdi, lekin mening vazifam rahbarlik qilish emas, balki qo'llab-quvvatlash edi.",
+    "Men notiqlik qobiliyatiga ega edim va so'zlarim qalblarni yumshatish uchun mo'ljallangan edi.",
+    "Hamrohim muqaddas bir uchrashuvga jo'nab ketganida, men notinch xalqqa yo'l ko'rsatishim kerak edi.",
+    "Ular sabrsizlik bilan bezaklaridan biror narsa yasashdi va men ulardan Allohga sodiq qolishlarini iltimos qildim.",
+    "Hamrohim qaytib kelib, meni ushladi, lekin men odamlar meni mag'lub etib, deyarli o'ldirishganini va men zolimlardan emasligimni tushuntirdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Muso payg'ambar",
+        "Horun payg'ambar",
+        "Payg'ambar Iso",
+        "Yahyo payg'ambar",
+        "Zakariyo payg'ambar"
+      ],
+      "answer": "Horun payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Olovga tashlanmoqda",
+        "Quduqqa tashlanmoqda",
+        "Oltin buzoq hodisasiga duch kelish",
+        "Og'ir kasallik testi",
+        "Boylik va bolalarni yo'qotish sinovi"
+      ],
+      "answer": "Oltin buzoq hodisasiga duch kelish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Xodimlar",
+        "Ahd sandig'i",
+        "Tabletkalar",
+        "Yonayotgan buta"
+      ],
+      "answer": "Oltin buzoq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Qattiq jazolandi",
+        "Kechirilgan va oqlangan",
+        "Shoh qildi",
+        "Osmonga olib ketilgan",
+        "Yangi Muqaddas Kitob berilgan"
+      ],
+      "answer": "Kechirilgan va oqlangan"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ehdottoman auktoriteetin vaatimus",
+  "intro": "Muinaisina aikoina mahtava henkilö nousi hallitsemaan laajaa maata ja sen asukkaita. Tämän hahmon hallituskautta leimasi valtava ylpeys ja syvällinen haaste jumalalliselle auktoriteetille. Valmistaudu paljastamaan sielun henkilöllisyys, jonka lopullinen kohtalo tuli pysyväksi opetukseksi kaikille sukupolville.",
+  "clues": [
+    "Hallitsin mahtavaa valtakuntaa, jossa sanani oli laki.",
+    "Julistin itseni korkeimmaksi jumaluudeksi ja vaadin palvontaa kaikilta alaisuudessani olevilta.",
+    "Sorsin tiettyä yhteisöä orjuuttamalla heidät ja määräämällä heidän poikavauvojensa tappamisen.",
+    "Kohtasin toistuvasti nöyrän Jumalan sanansaattajan, joka teki selkeitä ihmeitä minun ja maagieni edessä.",
+    "Minä torjuin itsepäisesti totuuden, syytin sanansaattajaa noituudesta ja suunnittelin hänen ja hänen seuraajiensa tuhoamista.",
+    "Koko armeijani ja minut hukkui mereen, kun ajoimme armottomasti takaa niitä, jotka olivat vapautuneet otteestani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri tulva",
+        "Palava tuli",
+        "Sortajan hukkuminen",
+        "Tuulen tuho",
+        "Epäuskon maanjäristys"
+      ],
+      "answer": "Sortajan hukkuminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Nooan arkki",
+        "Mooseksen sauva",
+        "Kultainen idoli",
+        "Zamzamin kaivo",
+        "Bilqisin valtaistuin"
+      ],
+      "answer": "Mooseksen sauva"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Myönsi valtavan valtakunnan",
+        "Ruumis säilytetty merkkinä",
+        "Anteeksi annettu katumuksen jälkeen",
+        "Ylennetty profeetan asemaan",
+        "Hänen kansansa tuli hurskaiksi"
+      ],
+      "answer": "Ruumis säilytetty merkkinä"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

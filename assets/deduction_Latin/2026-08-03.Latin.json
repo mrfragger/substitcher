@@ -1,0 +1,61 @@
+{
+  "title": "Fons Sub Arena",
+  "intro": "In annalibus Corani, persona patientia immensae probationem subiit quae corda etiam fortissima frangeret. Omnia ablata sunt - divitiae, familia, valetudo. Attamen ex intima desperatione, preces humilis modo inopinatissimo exauditae sunt. Potesne hanc animam agnoscere, cuius historia restitutionis per saecula resonat?",
+  "clues": [
+    "Tanta probatione probatus sum ut per saecula memoria teneatur.",
+    "Omnia quae magni momenti erant amisi — divitias meas, liberos meos, valetudinem meam.",
+    "Corpus meum ulceribus dolentibus tectum erat, et ab omnibus vitabar.",
+    "Desperans mea, Allah invocavi, dicens Satanam me aerumnis et cruciatu tetigisse.",
+    "Allah mihi exaudivit et mihi imperavit ut terram pede percuterem.",
+    "Ex illo loco fons frigidus erupit, et Allah familiam meam restituit et eos duplicavit misericordiam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ayyub",
+        "Propheta Musa",
+        "Propheta Ilyas",
+        "Propheta Sulayman",
+        "Propheta Dawud"
+      ],
+      "answer": "Propheta Ayyub"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Morbus gravis et iactura familiae et divitiarum",
+        "Ab magna balaena deglutitus",
+        "Exsul ex urbe Mecca",
+        "Carcer in puteo profundo",
+        "Conflictus cum arrogante principe"
+      ],
+      "answer": "Morbus gravis et iactura familiae et divitiarum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Fons frigidus e terra",
+        "Navis super magnum diluvium",
+        "Baculus qui mare scindit",
+        "Thronus vitreus elevatus",
+        "Spelunca murata ad dormiendum"
+      ],
+      "answer": "Fons frigidus e terra"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Familia et divitiae restitutae et duplicatae",
+        "Exitus ex ventre piscis",
+        "Transitus tutus per aquas divisas",
+        "Regnum ad regnandum datum",
+        "Mirabilis filii nativitas in senectute"
+      ],
+      "answer": "Familia et divitiae restitutae et duplicatae"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

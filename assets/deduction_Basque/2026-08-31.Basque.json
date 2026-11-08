@@ -1,0 +1,61 @@
+{
+  "title": "Haraneko Ahots Isila",
+  "intro": "Egin atzera denboran, behin mirari bizidun bat proba gisa jaso zuen herri boteretsu batera. Harrokeriak eta burugogorkeriak zigilatu zuten haien patua. Jarraitu al dezakezu istorioa eta deskubritu zer gertatu zen inflexio-puntu dramatiko honetan?",
+  "clues": [
+    "Jainkozko proba gisa bidali ninduten indarragatik eta desafioagatik ezaguna den herri boteretsu bati.",
+    "Mirari paregabea nintzen —ni bezalakorik ez zen inoiz haien artean agertu.",
+    "Txandaka partekatzen nuen putzu bateko edateko ura nire jendearekin.",
+    "Ohartarazi zieten nire aurkako edozein kaltek zigor azkarra ekarriko zuela.",
+    "Ausartenek abisua ez zuten kontuan hartu eta lodiak trabatu ninduten.",
+    "Nire heriotzaren ondoren, goitik etorritako oihu bakar batek nire herri osoa suntsitu zuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Salih-en gamelu emea",
+        "Musaren behia.",
+        "Nuh-en itsasontzia",
+        "Musaren langileak",
+        "Bilqisen tronua"
+      ],
+      "answer": "Salih-en gamelu emea"
+    },
+    "trial": {
+      "label": "Nire Patua",
+      "options": [
+        "Zain-zaurituta eta hilda",
+        "Sakrifizio gisa hil zuten",
+        "Suge bihurtuta.",
+        "Uholde handi baten bidez babestuta",
+        "Erresuma batetik azkar eramana"
+      ],
+      "answer": "Zain-zaurituta eta hilda"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ur putzu bat.",
+        "Harrizko tableta bat",
+        "Sasi erretzen ari den bat",
+        "Egurrezko kutxa bat.",
+        "Urrezko eta zilarrezko tronu bat"
+      ],
+      "answer": "Ur putzu bat."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Oihu bakar batek suntsitu zuen",
+        "Uholde handi batean itota",
+        "Harri zaparrada batek erreta",
+        "Haize bortitz batek astindua",
+        "Lurrak irentsia."
+      ],
+      "answer": "Oihu bakar batek suntsitu zuen"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

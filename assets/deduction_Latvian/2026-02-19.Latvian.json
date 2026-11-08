@@ -1,0 +1,61 @@
+{
+  "title": "Lielo ambīciju muļķība",
+  "intro": "Dodieties ceļojumā, lai atklātu kolektīvas vienības identitāti, kuras pārdrošie plāni piedzīvoja negaidītu, spēcīgu galu. Šis stāsts kalpo kā dziļš atgādinājums par dievišķo varenību un pasaulīgās varas trauslumu, kad tā pretojas svētajam. Atklājiet šīs grupas noslēpumu, kuras stāsts ir iegravēts Korānā kā brīdinājums visiem, kas cenšas pārkāpt likumus.",
+  "clues": [
+    "Mēs lolojām grandiozas ambīcijas, ticot, ka mūsu spēks ir nepārspējams, un devāmies ceļojumā ar skaidru, destruktīvu mērķi.",
+    "Mūsu vadītājs, pilns augstprātības, centās apgānīt svēto Namu, ko daudzi godāja, cenšoties novirzīt svētceļojumus uz mūsu celtni.",
+    "No tālas zemes mēs soļojām ar milzīgu spēku, pārliecināti par savu spēju nojaukt seno celtni Svētajā Pilsētā.",
+    "Mūsu armija bija iespaidīga, tās priekšgalā bija krāšņas radības, ko šādā kampaņā reti, ja vispār, redzēja mūsu iebrukuma zemes iedzīvotāji.",
+    "Kad sasniedzām galamērķi, notika dievišķa iejaukšanās; parādījās mazas, spārnotas radības, kas apmētāja mūs ar cepta māla akmeņiem.",
+    "Visa mūsu ekspedīcija piedzīvoja postošas ​​beigas, pilnībā iznīcinot mūsu iespaidīgo spēku kā sakošļātus salmus, mūsu lielo plānu pārvēršot putekļos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tamudas iedzīvotāji",
+        "Reklāmas cilvēki",
+        "Sodomas iedzīvotāji",
+        "Ziloņu ļaudis",
+        "Dārza ļaudis"
+      ],
+      "answer": "Ziloņu ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lielie plūdi",
+        "Kampaņa pret Kaabu",
+        "Elku iznīcināšana",
+        "Jūras sadalīšana",
+        "Midiānas zemestrīce"
+      ],
+      "answer": "Kampaņa pret Kaabu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Kaaba",
+        "Zelta teļš",
+        "Uguns"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Dievišķā pestīšana",
+        "Ilgs labklājības periods",
+        "Pievēršanās islāmam",
+        "Pilnīga iznīcināšana",
+        "Trimdā no savas zemes"
+      ],
+      "answer": "Pilnīga iznīcināšana"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

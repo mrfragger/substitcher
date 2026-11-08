@@ -1,0 +1,61 @@
+{
+  "title": "Kamtarin Haqiqat Izlovchilar",
+  "intro": "Qadimgi kuch va sehrgarlik mamlakatida katta qarama-qarshilik yuzaga keladi. Bir tomon ilohiy alomatlarning kuchidan foydalanadi, ikkinchisi esa imkonsiz narsaga mos kelishga harakat qiladi. Natija tarix yo'nalishini abadiy o'zgartiradi. Siz eng oliy haqiqatga guvoh bo'lgan va uning oldida o'zlarini kamtar tutganlarning kimligini ochib bera olasizmi?",
+  "clues": [
+    "Biz sehrgarlik hiylalaridan tashqariga chiqadigan alomatlarga guvoh bo'ldik",
+    "Hammamiz sajdaga yiqildik, haqiqatni inkor eta olmadik",
+    "Biz bu alomatlar yagona Haq Xudodan kelganini angladik",
+    "Biz iymonni shunday dramatik tarzda qabul qilgan birinchi jamoa edik",
+    "Bizga iymonimiz uchun mukofot sifatida jannat va'da qilingan edi",
+    "Arqonlarimiz va tayoqlarimiz ko'z o'ngimizda ilonlarga aylandi, ammo biz itoatkorlikni tanladik"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avnning sehrgarlari",
+        "Ibrohim payg'ambarning qavmi",
+        "Kamtar haqiqat izlovchilar",
+        "G'or ahli",
+        "Qirolicha Bilqisning xalqi"
+      ],
+      "answer": "Fir'avnning sehrgarlari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Muso payg'ambarning tayoqchasi bilan uchrashuv",
+        "Payg'ambar Hudning shamolining sinovi",
+        "Solih payg'ambarning tuyasidan kelgan chaqiriq",
+        "Payg'ambar ustiga buyuk to'fon yuborildi",
+        "Payg'ambarning kit ichidagi sayohati"
+      ],
+      "answer": "Muso payg'ambarning tayoqchasi bilan uchrashuv"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Qadimgi Misr",
+        "Makkadagi muqaddas uy",
+        "Midiyon shahri",
+        "Samud cho'li",
+        "Qadimgi shpallar g'ori"
+      ],
+      "answer": "Qadimgi Misr"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Jannat ularning mukofoti sifatida",
+        "Qabrdagi jazo",
+        "Ularning mo'l-ko'l bog'larining yo'qolishi",
+        "To'satdan sodir bo'lgan zilzila natijasida vayron bo'lish",
+        "Katta kitdan qutqarilish"
+      ],
+      "answer": "Jannat ularning mukofoti sifatida"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

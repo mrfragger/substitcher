@@ -1,0 +1,61 @@
+{
+  "title": "Balsas iš degančio krūmo",
+  "intro": "Atskleiskite gilios asmenybės, kurios kelionė prasidėjo stebuklingu susitikimu ir kurios likimas buvo susijęs su prislėgtos tautos išlaisvinimu, tapatybę. Ši asmenybė buvo pasirinkta monumentaliam uždaviniui, susidūrus su didžiuliais iššūkiais, su dieviška parama.",
+  "clues": [
+    "Gimiau didelio priespaudos laikotarpiu, kai buvo žudomi mano tautos kūdikiai.",
+    "Mano ankstyvajame gyvenime tėvai mane įmetė į upę, tačiau aš buvau rastas ir užaugau savo tautos engėjo namuose.",
+    "Kartą pabėgau iš miesto, netyčia sukėlęs žmogaus mirtį ginčo metu.",
+    "Šventoje vietoje, kur man buvo įsakyta stoti prieš galingą valdovą, gavau dievišką žinią ir stebuklingą lazdą.",
+    "Mano brolis buvo paskirtas mano pagalbininku misijoje dėl pastebėto kalbos sutrikimo.",
+    "Aš vedžiau savo žmones per prasiskyrusią jūrą, bėgdamas nuo tironiškos armijos persekiojimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Jusufas",
+        "Pranašas Isa",
+        "Pranašas Musa",
+        "Pranašas Nuh",
+        "Pranašas Ibrahimas"
+      ],
+      "answer": "Pranašas Musa"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Ilgalaikė sausra",
+        "Arkos statyba",
+        "Susidūrimas su faraonu ir jo burtininkais",
+        "Įmetimas į ugningą krosnį",
+        "Tamudo žmonių sunaikinimas"
+      ],
+      "answer": "Susidūrimas su faraonu ir jo burtininkais"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Kaaba",
+        "Geležinė siena",
+        "Personalas",
+        "Nuho laivas",
+        "Sulaimano žiedas"
+      ],
+      "answer": "Personalas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sodomos miestas buvo sugriautas",
+        "Žmones prarijo žemė",
+        "Didysis potvynis užliejo žemę",
+        "Faraonas ir jo armija nuskendo",
+        "Miesto sienos sugriuvo nuo riksmo"
+      ],
+      "answer": "Faraonas ir jo armija nuskendo"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

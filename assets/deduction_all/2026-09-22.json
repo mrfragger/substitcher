@@ -1,0 +1,61 @@
+{
+  "title": "The Builders of the Lofty Pillars",
+  "intro": "You stand before the ruins of a majestic ancient city, its lofty pillars now fallen. The wind howls through the empty streets, carrying the memory of a mighty people who once ruled these lands. Who were they?",
+  "clues": [
+    "We were a people of immense strength and skill, known for our great buildings and advanced civilization.",
+    "We lived in a land of sand dunes and rocky hills, and we believed no one could overpower us.",
+    "A messenger came to us from among our own kin, calling us to worship Allah alone, but we rejected and ridiculed him.",
+    "We boasted, 'Who is stronger than us?' and we continued in our arrogance and idol worship.",
+    "Allah sent upon us a furious wind that blew for seven nights and eight days, laying waste to everything.",
+    "We were the people of 'Ad, the builders of Iram, and our fate became a warning for all who came after."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "People of 'Ad",
+        "People of Thamud",
+        "People of Madyan",
+        "People of Tubba'",
+        "People of al-Rass"
+      ],
+      "answer": "People of 'Ad"
+    },
+    "trial": {
+      "label": "What was the punishment sent upon them?",
+      "options": [
+        "A devastating wind",
+        "A shower of stones",
+        "A loud blast",
+        "Drowning by flood",
+        "Swallowed by the earth"
+      ],
+      "answer": "A devastating wind"
+    },
+    "location": {
+      "label": "What is the name of their legendary city?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "What was their ultimate fate?",
+      "options": [
+        "They were destroyed and their remains became a lesson",
+        "They repented and were saved",
+        "They were transformed into apes",
+        "They were drowned in the sea",
+        "They were buried under a landslide"
+      ],
+      "answer": "They were destroyed and their remains became a lesson"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

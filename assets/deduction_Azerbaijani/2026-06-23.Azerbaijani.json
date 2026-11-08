@@ -1,0 +1,61 @@
+{
+  "title": "Çayın kənarındakı The Guardian",
+  "intro": "Bir zalımın fərmanı bir çox evə kədər gətirdiyi bir diyarda, bir ruh bütün qorxulara meydan oxuyan bir mesaj aldı. Etibarla dolu bir ürəklə, bir millətin gedişatını dəyişdirəcək bir iman hərəkətinə başladılar. Sular qiymətli bir yük daşıyarkən, ümid cərəyanlarla qarışdı.",
+  "clues": [
+    "Mən zülm və qorxu dövründə yaşamışam.",
+    "Mənə cəsarət verən ilahi ilham aldım.",
+    "Mənə qorxmamaq və kədərlənməmək əmr edildi.",
+    "Uşağımı sandığa qoyub suyun üzərinə qoydum.",
+    "Uşağımı hökmdarın evi tapdı, amma digər uşağım da onun ardınca gəldi.",
+    "Allahın vədinə uyğun olaraq, uşağımı əmizdirmək üçün onunla yenidən görüşdüm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Musanın anası",
+        "Fironun arvadı",
+        "Musanın bacısı",
+        "İsanın anası",
+        "Səba kraliçası"
+      ],
+      "answer": "Musanın anası"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Bir uşağı çaya atmaq üçün ilham almaq",
+        "Sehr duelinə meydan oxunmaq",
+        "Bir ordu tərəfindən təqib olunur",
+        "İkiyə ayrılan dənizi keçmək",
+        "Müqəddəs bir ev tikmək"
+      ],
+      "answer": "Bir uşağı çaya atmaq üçün ilham almaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Çaya qoyulmuş sandıq",
+        "Yanan bir kol",
+        "İlana çevrilən bir əsa",
+        "Qızıl buzov",
+        "Taxt"
+      ],
+      "answer": "Çaya qoyulmuş sandıq"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Uşaq sağ-salamat tibb bacısına qaytarıldı",
+        "Uşaq əbədi olaraq itdi",
+        "Uşaq uzaq bir diyara aparıldı",
+        "Uşaq dərhal hökmdar oldu",
+        "Uşaq varlı bir tacir tərəfindən övladlığa götürülmüşdür"
+      ],
+      "answer": "Uşaq sağ-salamat tibb bacısına qaytarıldı"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

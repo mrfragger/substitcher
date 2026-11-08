@@ -1,0 +1,61 @@
+{
+  "title": "Orașul care a crezut în timp",
+  "intro": "În analele milei divine, există o comunitate al cărei punct de cotitură a fost un moment de conștientizare colectivă. Ești pe cale să descoperi povestea lor - o poveste despre avertisment, pocăință și o amânare care i-a diferențiat de soarta altor națiuni.",
+  "clues": [
+    "Am fost un popor căruia i-a fost trimis un mesager și la început ne-am îndepărtat de chemarea lui.",
+    "Când semnele pedepsei iminente au devenit clare, ne-am dat seama de adevărul avertismentului său.",
+    "Ne-am întors către Domnul nostru cu pocăință sinceră, iar credința noastră a fost acceptată.",
+    "Pedeapsa care fusese decretată asupra noastră a fost ridicată datorită credinței noastre.",
+    "Povestea noastră este citată ca o excepție printre orașele care au crezut după ce au văzut pedeapsa.",
+    "Noi eram poporul profetului care a fost înghițit de balenă, și totuși am fost salvați de la distrugere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din Yunus",
+        "Oamenii din Nuh",
+        "Oamenii din Hud",
+        "Oamenii din Salih",
+        "Oamenii din Lut"
+      ],
+      "answer": "Oamenii din Yunus"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "O inundație devastatoare",
+        "O furtună puternică",
+        "O pedeapsă iminentă a rușinii care a fost evitată",
+        "Pământul îi înghite",
+        "O ploaie de pietre"
+      ],
+      "answer": "O pedeapsă iminentă a rușinii care a fost evitată"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca",
+        "Cămila",
+        "Un oraș de o sută de mii",
+        "Personalul lui Musa",
+        "Comoara din Qarun"
+      ],
+      "answer": "Un oraș de o sută de mii"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Au fost distruși complet",
+        "Li s-a oferit o vreme de bucurie",
+        "Au fost transformați în maimuțe",
+        "S-au înecat",
+        "Au fost înghițiți de pământ"
+      ],
+      "answer": "Li s-a oferit o vreme de bucurie"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

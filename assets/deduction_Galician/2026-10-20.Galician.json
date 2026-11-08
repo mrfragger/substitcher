@@ -1,0 +1,61 @@
+{
+  "title": "O arquitecto da falsa ambición",
+  "intro": "Unha figura de gran autoridade serviu noutro tempo a un dos tiranos máis notorios da historia no antigo Exipto. A este individuo confióuselle unha orde audaz: construír unha estrutura destinada a desafiar os ceos. A súa historia queda no Corán como unha lección rechamante sobre como a obediencia cega á arrogancia só leva á ruína.",
+  "clues": [
+    "Servín nas cortes dun poderoso gobernante que afirmaba ser divino sobre as terras.",
+    "Ocupei un alto cargo ministerial, asesorando o tirano máis arrogante do meu tempo.",
+    "O meu gobernante estaba consumido por desafiar o Deus de Moisés, a quen se negaron a recoñecer.",
+    "Ordenáronme que construíse unha torre de ladrillos cocidos ao lume para que o meu gobernante puidese ascender aos ceos.",
+    "A torre nunca chegou ao ceo, e a miña servidume á arrogancia valeume a desgraza eterna.",
+    "Perecín con quen seguín, e o meu nome converteuse nunha advertencia duradeira contra aqueles que permiten aos tiranos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Amán",
+        "Azar (pai de Ibrahim)",
+        "Illyas (un profeta)",
+        "Dhu al-Kifl",
+        "Harut (un dos dous anxos de Babilonia)"
+      ],
+      "answer": "Amán"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Ordenáronlle construír unha estrutura imponente para chegar aos ceos",
+        "Pedíuselle que interpretase un soño enviado polo dios",
+        "Lanzado a un lume abrasador como proba de fe",
+        "Obrigados a escoller entre o trono e a verdade",
+        "Desafiado nun concurso de bruxería"
+      ],
+      "answer": "Ordenáronlle construír unha estrutura imponente para chegar aos ceos"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha torre de ladrillos cocidos ao lume",
+        "Un bastón que se transformou nunha serpe",
+        "Un barco navegando a través dunha gran inundación",
+        "Un xardín pechado por altos muros",
+        "Un trono adornado con rubís e ouro"
+      ],
+      "answer": "Unha torre de ladrillos cocidos ao lume"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado xunto ao opresor no mar",
+        "Converteuse nun poderoso monarca de vastas terras",
+        "Escapou ileso dun incendio abrasador",
+        "Construíu un próspero reino de sabedoría",
+        "Reuníuse coa súa familia despois de anos de exilio"
+      ],
+      "answer": "Afogado xunto ao opresor no mar"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

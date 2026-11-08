@@ -1,0 +1,61 @@
+{
+  "title": "Dijminê Agirkuj",
+  "intro": "Di rojên destpêkê yên wehyê de, kesayetek wekî dijberekî serhişk ê rastiyê derket holê. Bi dewlemendî û statuyê pîroz, vî giyanî serbilindî li ser rêberiyê hilbijart, û çîroka wan di ayetên dawîn ên sûreyekê de bû hişyariyek tund.",
+  "clues": [
+    "Ez li heman bajarî bi Pêxember re dijiyam, û ez yek ji xizmên wî yên herî nêzîk bûm, lê dîsa jî serbilindiya min min ji rastiyê dûr dixist.",
+    "Min xwediyê dewlemendiyeke mezin û milkên pirjimar bû, û min digot qey çavkaniyên min dê her tim min biparêzin.",
+    "Dema ku peyam hat eşkerekirin, min bi eşkereyî tinazên xwe pê kir û zivirîm, xwe ji bawermendan bilindtir dît.",
+    "Dijminatiya min ewqas navdar bû ku sûreyek Quranê rasterast ji min re axivî û bi navê ku yên din min nas dikirin gazî min kir.",
+    "Ji min re hat gotin ku ne dewlemendiya min û ne jî qezenca min dê bi kêrî min neyê û ez ê bikevim nav agirê gurr.",
+    "Ez wekî bavê agir têm nasîn, û jina min dê darên agir bi têlek ji têlên xurmê li dora stûyê xwe hilgire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Ebû Leheb",
+        "Ebû Cehl",
+        "Ebû Sufyan",
+        "El-Welîd ibn el-Muxîre",
+        "El-As ibn Wail"
+      ],
+      "answer": "Ebû Leheb"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Îslam red kir û bi eşkereyî li dijî Pêxember derket.",
+        "Plana kuştina Pêxember kiribûn",
+        "Li dijî Misilmanan boykoteke civakî hate lidarxistin",
+        "Di şerê Bedirê de şer kir",
+        "Bilal ibn Rebah îşkence lê hat kirin"
+      ],
+      "answer": "Îslam red kir û bi eşkereyî li dijî Pêxember derket."
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Têlek ji têla palmê",
+        "Şûrekî tûj",
+        "Zincîrek giran",
+        "Dara darîn",
+        "Qamçiyek çermî"
+      ],
+      "answer": "Têlek ji têla palmê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Di agirê geş de dê bişewite",
+        "Poşman bû û bû heval",
+        "Dewlemendiya xwe winda kir lê bi rûmet mir",
+        "Reviya ber bi Habeşistanê ve",
+        "Di deryayê de xeniqî"
+      ],
+      "answer": "Di agirê geş de dê bişewite"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

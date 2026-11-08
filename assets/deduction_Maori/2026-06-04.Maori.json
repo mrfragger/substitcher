@@ -1,0 +1,61 @@
+{
+  "title": "Te Tohu i waenganui i ngā Kōhatu",
+  "intro": "I tētahi whenua i whakairohia ai ngā maunga hei kāinga, ka tae mai tētahi karere me tētahi tohu merekara mai i a Allah. I tono te iwi i tētahi tohu, ā, i riro mai i a rātou tētahi mea hanga mai i te toka totoka. Engari nā tō rātou whakapehapeha i ārahi rātou ki te whakahē i te whakatūpato, ā, i hiritia ai tō rātou aituā.",
+  "clues": [
+    "I tonoa ahau ki tētahi iwi e noho ana i ngā whare i keria ki ngā maunga.",
+    "I werohia ahau kia mauria mai he tohu, nō reira i whakaputaina mai ai e ahau he kamera i te toka.",
+    "I whakahau ahau i a rātou kia inu noa te kamera, kaua hoki e whara i a ia.",
+    "Kāore rātou i whakarongo, ā, i whakangāwari hoki i te kamera, i te whakahē hoki i taku whakatūpato.",
+    "I kī atu ahau ka whiua i muri i ngā rā e toru.",
+    "I te ata, ka whakangaromia rātou e te pahū nui, engari i ora mātou ko aku akonga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Salih",
+        "Poropiti a Hūta",
+        "Poropiti Ruta",
+        "Poropiti Shu'ayb",
+        "Poropiti Ihāperama"
+      ],
+      "answer": "Poropiti Salih"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tono mō tētahi kamera uha i roto i te toka",
+        "Te tono mō te kuao kau koura",
+        "I horapa te tono mō tētahi tēpu i te rangi",
+        "Te tono mō te waipuke",
+        "Te tono kia huri te tokotoko hei nakahi"
+      ],
+      "answer": "Te tono mō tētahi kamera uha i roto i te toka"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te kamera uha me tana kuao",
+        "Te Āka a Noa",
+        "Te Rākau o Mohi",
+        "Te Kuao Kau Koura",
+        "Te Ahi o Ibrahim"
+      ],
+      "answer": "Te kamera uha me tana kuao"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia e te pahūtanga nui",
+        "I toremi i te waipuke",
+        "Horomia e te whenua",
+        "Kua hurihia hei makimaki",
+        "I whakangaromia e te hau kaha"
+      ],
+      "answer": "I whakangaromia e te pahūtanga nui"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

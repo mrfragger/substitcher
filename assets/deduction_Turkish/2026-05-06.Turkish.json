@@ -1,0 +1,61 @@
+{
+  "title": "Yanan Çalıdan Gelen Ses",
+  "intro": "Mucizevi bir karşılaşmayla başlayan yolculuğu ve ezilmiş bir halkın kurtuluşuyla iç içe geçmiş kaderiyle, derin bir figürün kimliğini ortaya çıkarın. Bu kişi, ilahi destekle muazzam zorluklarla yüzleşerek, devasa bir görev için seçilmiştir.",
+  "clues": [
+    "Ben, halkımın bebeklerinin öldürüldüğü, büyük bir zulüm döneminde doğdum.",
+    "Çocukluğumda ailem tarafından nehre bırakıldım, ancak daha sonra halkımın zalimlerinin evinde bulunup büyütüldüm.",
+    "Bir keresinde, bir tartışma sırasında istemeden bir kişinin ölümüne neden olduktan sonra şehirden kaçtım.",
+    "Kutsal bir yerde ilahi bir mesaj ve mucizevi bir asa aldım ve orada güçlü bir hükümdarla yüzleşmem emredildi.",
+    "Konuşmamda bir engel olduğu düşünüldüğü için, kardeşim görevimde bana yardımcı olarak atandı.",
+    "Halkımı yarılan bir denizin üzerinden geçirdim ve zalim bir ordunun takibinden kurtardım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yusuf",
+        "Peygamber İsa",
+        "Peygamber Musa",
+        "Peygamber Nuh",
+        "Peygamber İbrahim"
+      ],
+      "answer": "Peygamber Musa"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yıllarca süren kuraklık",
+        "Nuh'un Gemisi'nin İnşası",
+        "Firavun ve büyücüleriyle yüzleşmek",
+        "Alevli bir fırına atılmak",
+        "Thamud halkının yok edilmesi"
+      ],
+      "answer": "Firavun ve büyücüleriyle yüzleşmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kabe",
+        "Demir Duvar",
+        "Personel",
+        "Nuh'un Gemisi",
+        "Süleyman'ın Yüzüğü"
+      ],
+      "answer": "Personel"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Sodom şehri yerle bir edildi.",
+        "İnsanlar yerin dibine gömüldüler.",
+        "Büyük sel, ülkeyi sular altında bıraktı.",
+        "Firavun ve ordusu boğuldu.",
+        "Şehrin surları bir çığlıkla yıkıldı."
+      ],
+      "answer": "Firavun ve ordusu boğuldu."
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mojari oa Molaetsa o Bohloko",
+  "intro": "Moya o lokileng o ile wa romelwa ho tataisa batho ba lahlehileng ditlolong tse sa kang tsa bonwa pele. Lenqosa lena le ile la ema le tiile, la fana ka temoso e matla kgahlanong le bobodu bo neng bo hanyetsa taolo ya tlhaho. Ho sa tsotellehe dikopo tse tiileng, setjhaba se ile sa teba lefifing le ho feta, sa lokisa motheo wa kahlolo ya Modimo e sa tshwaneng le e nngwe. Na o ka tseba mohlanka enwa ya tiileng wa Allah?",
+  "clues": [
+    "Ke ne ke le mong ka moprofeta e mong e moholo, 'me ke ile ka falla le eena, ka siea naha ea habo rona.",
+    "Ke ile ka romeloa ho batho bao bokhopo ba bona bo neng bo ikhetha, tlōlo eo ho seng sebopuoa se kileng sa e etsa pele ho bona.",
+    "Lelapa leso le ne le arohane; setho se haufi sa lelapa se ne se tšehetsa ba sa lumelang ka sekhukhu.",
+    "Mangeloi, a le sebōpehong sa bahlankana ba batle, a ile a tla lapeng la ka e le baeti, a ntšoenya haholo ka lebaka la polokeho ea bona.",
+    "Ke ile ka fa batho ba heso barali ba ka hore ba ba nyale, ka boiteko bo matla ba ho ba thibela ho etsa liketso tsa bona tse hlabisang lihlong.",
+    "Batho ba heso ba ile ba timetsoa ke sello se tšabehang le pula ea majoe a letsopa le besitsoeng, ha 'na le ba lelapa la ka, ntle le a le mong, re ile ra pholosoa ke ho tsamaea har'a bosiu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Shu'ayb",
+        "Moprofeta Salih",
+        "Moprofeta Lute",
+        "Moprofeta Hud",
+        "Moprofeta Nuh"
+      ],
+      "answer": "Moprofeta Lute"
+    },
+    "trial": {
+      "label": "Teko ea ka ea Bohlokoa e ne e le Eng?",
+      "options": [
+        "Ho kholisa morena ea hatellang hore a se ke a nchesa mollong.",
+        "Ho sebetsana le poulelo ea banab'eso le ho lahleloa ka selibeng.",
+        "Ho tobana le batho ba etsang boitšoaro bo bobe ba thobalano bo sa tloaelehang.",
+        "Ho etella batho ba ka pele ho tsoa botlamuoeng ho Faro ea matla.",
+        "Ho haha ​​sekepe se seholo ho pholosa balumeli moroallong o moholo."
+      ],
+      "answer": "Ho tobana le batho ba etsang boitšoaro bo bobe ba thobalano bo sa tloaelehang."
+    },
+    "location": {
+      "label": "Sebaka sa Thomo ea Ka e ne e le Sefe?",
+      "options": [
+        "Motse oa Madyan",
+        "Motse oa boholo-holo oa Iram",
+        "Naha ea Egepeta tlas'a Faro",
+        "Metse ea Sodoma le Gomora",
+        "Motse oa Ninive"
+      ],
+      "answer": "Metse ea Sodoma le Gomora"
+    },
+    "outcome": {
+      "label": "Phello ea ho Qetela e bile Efe?",
+      "options": [
+        "Metse e ile ea heletsoa 'me ea tšoloha ka majoe a letsopa le besitsoeng.",
+        "Batho ba ka ba ile ba metsoa ke lefatše hammoho le moetapele oa bona ea ruileng.",
+        "Batho ba ka ba ile ba timetsoa ke moea o matla ka masiu a supileng le matsatsi a robeli.",
+        "Batho ba ka ba ne ba tšoeroe ke mafu a kang litsie, linta le lihohoana.",
+        "Tlhapi e kgolo e ile ya metsa nna ka mora hore ke tlohele thomo ya ka."
+      ],
+      "answer": "Metse e ile ea heletsoa 'me ea tšoloha ka majoe a letsopa le besitsoeng."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

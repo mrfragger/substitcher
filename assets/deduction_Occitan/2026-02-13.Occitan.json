@@ -1,0 +1,61 @@
+{
+  "title": "La Granda Somission del Sobeiran",
+  "intro": "Te retrobas dins una tèrra de meravilhas ancianas e de revelacion prigonda. Un regent poderós, fàcia a una convidacion inesperada, s'embarquèt dins un viatge que cambiariá lo cors de son destin e la fe de son pòble. Podètz descobrir l'identitat d'aquela figura majestuosa?",
+  "clues": [
+    "Governèri sus un reialme prospèr, ornat d'una riquesa immensa e d'un tròn magnific.",
+    "Mon pòble e ieu adoràvem un còrs celèst, en lo cresent èsser nòstre senhor, e mai s'aculhissiái de dobtes dins mon còr.",
+    "Un messatgièr curiós, un aucèl, me liurèt una letra, me cridant e mon pòble a la somission a l'Unic Dieu.",
+    "Consultèri mos conselhièrs, qu'èran poderoses en fòrça, sus cossí respondre a aquel messatge sens precedents.",
+    "Decidiguèri de mandar un present preciós a aquel qu'a mandat la letra, en esperant de mesurar son poder e sas intencions.",
+    "A mon arribada, foguèri estonat per un palais amb un solèr fach de veire, apareissent coma un estanh d'aiga, e foguèt alara que declarèri ma somission al Senhor de tota creacion."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Faraon",
+        "Reina de Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Lo profèta Yusuf"
+      ],
+      "answer": "Reina de Saba"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "La fendidura de la mar",
+        "Lo grand inondacion",
+        "Lo viatge per rescontrar lo profèta Sulayman",
+        "La destruccion del pòble de Lut",
+        "La cremacion del profèta Ibrahim"
+      ],
+      "answer": "Lo viatge per rescontrar lo profèta Sulayman"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "Lo personal",
+        "Lo Tròn",
+        "La Montanha",
+        "Lo fuòc"
+      ],
+      "answer": "Lo Tròn"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Venguèt un profèta",
+        "Foguèt destruch per Allah",
+        "Embraçat l'islam",
+        "Menèt son pòble a la guèrra",
+        "Bastiguèt un grand temple"
+      ],
+      "answer": "Embraçat l'islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

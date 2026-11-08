@@ -1,0 +1,61 @@
+{
+  "title": "Spiorad Iontaofa an Nochtadh",
+  "intro": "Sna ríochtaí dofheicthe, bogann créatúr solais íon go cruinn, ag cur gach ordú i gcrích gan leisce. Labhair an figiúr seo le seirbhísigh roghnaithe, thug sé focail threorach, agus chonaic sé foraithne dhiaga ag teacht chun cinn thar na haoiseanna. Cé hé an t-anam onórach seo?",
+  "clues": [
+    "Is créatúr solais íon mé, cruthaithe as solas, agus níor sháraigh mé riamh ordú amháin ó mo Thiarna.",
+    "Bogaim idir na flaithis agus an talamh, ag dul anuas le foraithne an Té is Trócaireaí.",
+    "Cuireadh mé chuig maighdean uasal sa tearmann, ag fógairt di mac íon.",
+    "Is mise spiorad na naofachta, agus thacaigh mé le fáidh a tugadh comharthaí soiléire agus an Soiscéal dó.",
+    "Tháinig mé chuig uaimh ar sliabh chun na chéad fhocail d’aithris a chaomhnófaí go deo a sheachadadh.",
+    "Is mise an spiorad iontaofa, agus ba mise a thug an Corán anuas ar chroí an teachtaire dheireanaigh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mícheál (Mícheál)",
+        "Aingeal an Bháis",
+        "Malik (Coimeádaí Ifrinn)",
+        "Harut (ceann den dá aingeal i mBabilóin)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Príomh-Misean/Ról",
+      "options": [
+        "Ag tabhairt nochtaithe do na fáithe",
+        "Ag séideadh an trumpa ar Lá an Bhreithiúnais",
+        "Ag cosaint geataí Ifrinn",
+        "Ag taifeadadh gníomhartha daoine",
+        "Ag cur an bháisteach ag titim"
+      ],
+      "answer": "Ag tabhairt nochtaithe do na fáithe"
+    },
+    "location": {
+      "label": "Príomhthréith nó Teideal",
+      "options": [
+        "An Spiorad Naomh (Ruh al-Qudus)",
+        "Spiorad na Cumhachta",
+        "Spiorad na Trócaire",
+        "Spiorad na Treorach",
+        "Spiorad na Fírinne"
+      ],
+      "answer": "An Spiorad Naomh (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Toradh na Misean",
+      "options": [
+        "Nochtadh an Corán don Fháidh Muhammad",
+        "Séideadh an trumpa ar Lá an Bhreithiúnais",
+        "Bhí ifreann faoi gharda agus a geataí dúnta",
+        "Bronnadh Leabhar na nGníomhas ar Allah",
+        "Seoladh an bháisteach síos go dtí an talamh"
+      ],
+      "answer": "Nochtadh an Corán don Fháidh Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

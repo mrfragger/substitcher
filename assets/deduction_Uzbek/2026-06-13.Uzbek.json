@@ -1,0 +1,61 @@
+{
+  "title": "Makkaning rostgo'ylari",
+  "intro": "Vahiyning dastlabki kunlarida, haqiqat xabari qattiq qarshilikka duch kelganida, ba'zi ruhlar o'z e'tiqodlarida sobit turishgan. Bu mo'minlar imon nurini o'chirishga intilganlarning tasavvur qilib bo'lmaydigan shafqatsizligiga duch kelishdi. Ularning azobi qattiq, azoblari ulkan edi - ammo tillari hech qachon Allohning yagonaligini e'lon qilishdan to'xtamadi. Hatto umidsizlik tubiga tashlangan taqdirda ham, ilohiy himoya ularni o'rab oldi va sinovlarini abadiy imon vasiyatiga aylantirdi. Keling, bu ajoyib ruhlarning sayohatini ko'rib chiqaylik.",
+  "clues": [
+    "Biz yagona Xudoga bo'lgan imonimizdan voz kechmaganimiz uchun qattiq jazo bilan sinovdan o'tdik",
+    "Xalqimizning shafqatsizligi qanchalik ijodiy bo'lmasin, qat'iyatimizni sindira olmadi",
+    "Bizni kunduzi quduqdan uzib qo'yishardi, ammo ilohiy yordam doim yonida edi",
+    "Bizning matonatimiz hatto bizning chidamliligimizni ko'rganlarni ham hayratda qoldirdi",
+    "Makkada ko'pchilik bizni o'z fikrimizdan voz kechishga majburlashga harakat qildi, ammo biz qat'iyatli bo'lib qoldik.",
+    "Hammasi yo'qolganday tuyulganida, bizning ozodligimiz mo''jizaviy ilohiy aralashuv orqali keldi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Bilol al-Habashiy",
+        "Ammar ibn Yasir",
+        "Miqdod ibn al-Asvad",
+        "Xabbob ibn al-Arat",
+        "Salmon al-Forsiy"
+      ],
+      "answer": "Bilol al-Habashiy"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Payg'ambarga qarshi jang",
+        "Butlarga sig'inishdan bosh tortgani uchun ta'qiblar",
+        "Yong'in hodisasi bo'yicha ishonch sinovi",
+        "Ikkiga bo'lingan tungi sayohatning sinovi",
+        "Bog'ning vayron bo'lishi sinovi"
+      ],
+      "answer": "Butlarga sig'inishdan bosh tortgani uchun ta'qiblar"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Uhud tog'i",
+        "Ka'baning muqaddas maydoni",
+        "Abu Sufyon qudug'i",
+        "Quraysh saroyi",
+        "Madina shahri"
+      ],
+      "answer": "Abu Sufyon qudug'i"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Buyuk jangdagi g'alaba",
+        "Ilohiy aralashuv orqali ozodlik",
+        "Alloh yo'lida shahidlik",
+        "Jannatga to'g'ridan-to'g'ri qabul qilish",
+        "Muborak yurtga ko'chish"
+      ],
+      "answer": "Ilohiy aralashuv orqali ozodlik"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Verrattoman majesteettisen kadonneen kaupungin",
+  "intro": "Mahtava sivilisaatio hallitsi aikoinaan laajoja maapallon alueita, ja sitä ylistettiin korkeista, taivaisiin ulottuvista rakennuksista. Tämän loiston alla kuitenkin kasvoi itsepäinen kieltäminen – kieltäytyminen kuuntelemasta yhteisön sisältä lähetettyä jumalallista varoittajaa. Ylpeys ja ylimielisyys johtaisivat pian rangaistukseen, jollaista ei maa eikä taivas ollut koskaan nähnyt.",
+  "clues": [
+    "Hallitsimme kerran laajoja maapallon alueita kerskuen voimalla, jonka uskoimme olevan lähellä minkään muun sivilisaation suhdetta.",
+    "Valtakuntamme oli kuuluisa korkeista, mahtavista pylväisistään koostuvista rakennuksista, joilla ei ollut vertaistaan ​​missään tunnetussa maassa.",
+    "Omasta yhteisöstämme nousi varoittaja, joka kehotti meitä jokaista alistumaan yksin Yhdelle Luojalle.",
+    "Kieltäydyimme meille välitetystä viestistä ja kieltäydyimme luopumasta perimämme polusta.",
+    "Raivoisa, ulvova ja ylivoimaisen ankara tuuli päästi meidät valloilleen ja jätti meidät täysin puolustuskyvyttömiksi.",
+    "Meidät jätettiin kuin onttoja palmunrunkoja, hajallaan ja unohdettuina, opetukseksi jokaiselle seuraavalle sukupolvelle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "A'adin kansa",
+        "Nuhin kansa",
+        "Lutin kansa",
+        "Madyanin kansa",
+        "Tubban kansa"
+      ],
+      "answer": "A'adin kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Armoton, raivoava, ankaran rangaistuksen tuuli",
+        "Tulva, joka peitti jokaisen vuorenhuipun",
+        "Palavien savikivien sade ylhäältä",
+        "Yksi kauhistuttava huuto taivaasta",
+        "Voimakas maanjäristys, joka halkaisi maan"
+      ],
+      "answer": "Armoton, raivoava, ankaran rangaistuksen tuuli"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Iram, korkeiden pylväiden kaupunki",
+        "Massiivinen puuarkki, joka rakennettiin vuorelle",
+        "Naaraskameli, joka nousi ihmeen kaupalla kivestä",
+        "Siinain vuori, jolle jumalalliset käskyt laskeutuivat",
+        "Kristallista ja hienosta lasista tehty palatsi, josta on näköala virtaaville vesille"
+      ],
+      "answer": "Iram, korkeiden pylväiden kaupunki"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Jäljelle kuin onttoja palmujen runkoja, hajallaan ja elottomia",
+        "Hukkui suuren tulvan ylivoimaisten aaltojen alle",
+        "Muuttuivat apinoita ja sikoja muistuttaviksi olennoiksi",
+        "Murskattuna kovettuneiden savikivien sateen alla",
+        "Yhden korviahuumaavan huudon nielaisemana, joka lävisti sielun"
+      ],
+      "answer": "Jäljelle kuin onttoja palmujen runkoja, hajallaan ja elottomia"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

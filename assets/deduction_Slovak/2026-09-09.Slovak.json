@@ -1,0 +1,61 @@
+{
+  "title": "Prvá duša, ktorá vstala",
+  "intro": "Dlho predtým, ako po zemi kráčal akýkoľvek posol, predtým, ako bolo zjavené akékoľvek písmo, vznikla bytosť, ktorá sa nepodobala žiadnej inej. Túto dušu formovali božské ruky, dostala miesto bezkonkurenčnej krásy a bola skúšaná spôsobom, ktorý sa ozýval celou ľudskou históriou. Nasledoval príbeh slabosti, úprimného pokánia a osudu, ktorý navždy zmenil smer stvorenia. Viete uhádnuť, kto to je?",
+  "clues": [
+    "Bol som vyformovaný rukami Najmilosrdnejšieho z prachu zeme",
+    "Dostal som domov bezkonkurenčnej krásy, kde ma nedotkol hlad ani únava",
+    "Bolo mi prikázané, aby som sa nikdy nepriblížil k jedinému stromu, pretože to bolo zakázané",
+    "Môj spoločník a ja sme boli oklamaní a priblížili sme sa k zakázanému stromu, proti príkazu nášho Pána.",
+    "S úprimným pokáním sme sa obrátili k nášmu Pánovi a boli nám odpustené naše priestupky",
+    "Z nás pochádza celé ľudstvo; ja som úplne prvý, kto kráčal po tejto zemi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Adam",
+        "Prorok Músa",
+        "Prorok Nuh",
+        "Prorok Júsuf",
+        "Prorok Isa"
+      ],
+      "answer": "Prorok Adam"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Pokušenie zakázaným stromom",
+        "Konfrontácia s faraónom",
+        "Stavba veľkej archy",
+        "Obeť milovaného syna",
+        "Byť hodený do veľkého ohňa"
+      ],
+      "answer": "Pokušenie zakázaným stromom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zakázaný strom",
+        "Horiaci ker",
+        "Zlatý personál",
+        "Veľká archa",
+        "Zlaté teľa"
+      ],
+      "answer": "Zakázaný strom"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zoslaný na zem ako prvý opatrovník ľudstva",
+        "Faraón a jeho armáda sa utopili v mori",
+        "Veľká potopa zničila bezbožných",
+        "Oheň sa stal chladným a pokojným",
+        "Bola mu udelená moc nad Egyptským kráľovstvom"
+      ],
+      "answer": "Zoslaný na zem ako prvý opatrovník ľudstva"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kaybolan Kalabalık",
+  "intro": "Dalgaların üzerinde yazılı bir hikâyeye sahip bir topluluğun yankılarının önünde duruyorsunuz. Bu ruhlar bir çağrı duydu, meydan okumayı seçti ve dünyayı yeniden şekillendiren bir sonuçla karşılaştı. Kimlerdi onlar ve dünyalarına ne oldu?",
+  "clues": [
+    "Çok eski zamanlarda yaşadık ve aramızdan bize bir elçi geldi.",
+    "Beş puta taptık ve onları terk etmeyi reddettik.",
+    "Biz elçiyi alaya aldık ve sapkınlıkla suçladık.",
+    "Eğer doğru söylüyorsa, cezayı getirmesini talep ettik.",
+    "Gökyüzünden sağanak yağmur yağdığını ve yeryüzünden pınarların fışkırdığını gördük.",
+    "Kurtulmak için yüksek yerlere tırmandık, ama dalgalar bizi alt etti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Nuh Halkı",
+        "'Ad' halkı",
+        "Thamud Halkı",
+        "Lut halkı",
+        "Madyan halkı"
+      ],
+      "answer": "Nuh Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Büyük bir selde boğulduk.",
+        "Kasırga tarafından yerle bir edildik.",
+        "Şiddetli bir patlama sonucu öldük.",
+        "Yerin içine gömüldük.",
+        "Gökyüzünden taş yağmuruna tutulduk."
+      ],
+      "answer": "Büyük bir selde boğulduk."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Büyük bir sel",
+        "Şiddetli bir rüzgar",
+        "Bir taş yağmuru",
+        "Alevli bir patlama",
+        "Bir deprem"
+      ],
+      "answer": "Büyük bir sel"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Nuh ile birlikte müminler hariç hepimiz helak olduk.",
+        "Maymunlara dönüştürüldük",
+        "Bizler, gezginler için harabeler halinde bırakıldık.",
+        "Biz tuza dönüştürüldük",
+        "Bize bir süre daha dinlenme fırsatı verildi."
+      ],
+      "answer": "Nuh ile birlikte müminler hariç hepimiz helak olduk."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

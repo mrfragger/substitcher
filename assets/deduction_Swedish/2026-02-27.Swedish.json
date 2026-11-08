@@ -1,0 +1,61 @@
+{
+  "title": "Det osynligas röst",
+  "intro": "I den gudomliga kommunikationens annaler framstår en figur vars historia är vävd med mirakulösa tecken och orubblig tro. Denna individ mottog en unik uppenbarelse som utmanade sin tids normer och talade bortom den vanliga uppfattningens slöja. Deras budskap kom inte genom konventionella medel utan genom en djup förbindelse som trotsade mänsklig förståelse och kallade människor att inse sanningen på oväntade sätt. Denna Allahs tjänares resa tjänar som ett bevis på hur vägledning kan manifesteras under de mest extraordinära omständigheter och inbjuder till reflektion över själva uppenbarelsens natur.",
+  "clues": [
+    "Jag fick ett meddelande som kom genom en mystisk röst från en osynlig källa.",
+    "Mitt folk avvisade inledningsvis mitt budskap och krävde mer konventionella bevis på min sanningsenlighet.",
+    "Jag utmanade dem att producera något liknande det jag hade fått, men det gick inte.",
+    "Uppenbarelsen jag kom med beskrevs som tydliga verser som gjorde sanningen uppenbar.",
+    "Jag varnade mitt folk för stränga straff om de fortsatte i sin misstro och arrogans.",
+    "Min berättelse nämns tillsammans med andra budbärare i en sura som betonar tecknen på Allahs makt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Hud",
+        "Profeten Salih",
+        "Profeten Shu'ayb",
+        "Den troende från Fir'awns familj",
+        "Profeten Musa"
+      ],
+      "answer": "Profeten Salih"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att kastas in i en brinnande ugn",
+        "Att möta en tyrannisk härskares förtryck",
+        "Att frambringa en honkamel som ett mirakulöst tecken",
+        "Att överleva en stor översvämning",
+        "Att kastas i havet i en kista"
+      ],
+      "answer": "Att frambringa en honkamel som ett mirakulöst tecken"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Tuwa-dalen",
+        "Staden Madyan",
+        "Thamuds land",
+        "Fir'awns hov",
+        "Hiras grotta"
+      ],
+      "answer": "Thamuds land"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "answer": "Mitt folk förintades för att de dödade den mirakulösa kamelhonan",
+      "options": [
+        "Mitt folk omvände sig och blev frälsta",
+        "Jag togs levande upp till himlen",
+        "Mitt folk förintades för att de dödade den mirakulösa kamelhonan",
+        "Jag blev en stor härskare",
+        "Jag räddades genom att läggas i en ark"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

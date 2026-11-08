@@ -1,0 +1,61 @@
+{
+  "title": "Transgresiunea de pe țărm",
+  "intro": "Stai pe nisipurile unui țărm uitat, unde valurile șoptesc despre o comunitate pusă la încercare de o poruncă divină. Aerul este greu de amintirea unei încălcări care a dus la o transformare surprinzătoare. Cine erau aceste suflete și care a fost natura încercării lor?",
+  "clues": [
+    "Am fost o comunitate care a primit o poruncă clară de la Domnul nostru, totuși am găsit modalități de a o sfida.",
+    "Locuiam lângă o întindere de apă, iar mijloacele noastre de trai depindeau de creaturile acesteia.",
+    "O încercare a venit asupra noastră în ziua în care ni s-a poruncit să ne abținem de la preocupările lumești.",
+    "Creaturile apei au venit la noi în număr mare chiar în ziua aceea, ispitindu-ne peste măsură.",
+    "Am născocit un truc viclean pentru a ocoli ordinul divin, crezând că putem păcăli decretul.",
+    "Păcatul nostru a dus la o transformare umilitoare; am devenit maimuțe disprețuite prin porunca lui Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii Sabatului",
+        "Oamenii din Rass",
+        "Oamenii din Tubba",
+        "Oamenii din peșteră",
+        "Companionii Șanțului"
+      ],
+      "answer": "Oamenii Sabatului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Apariția peștilor în Sabat",
+        "Un an de secetă severă",
+        "O armată de păsări trimisă împotriva lor",
+        "O inundație care i-a copleșit",
+        "Un cutremur violent"
+      ],
+      "answer": "Apariția peștilor în Sabat"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Marea",
+        "Un munte",
+        "O peșteră",
+        "O vale deșertică",
+        "Un oraș fortificat"
+      ],
+      "answer": "Marea"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Transformați în maimuțe",
+        "Înghițit de pământ",
+        "Distrus de un vânt urlător",
+        "Înecat în mare",
+        "Lovit de o ploaie de pietre"
+      ],
+      "answer": "Transformați în maimuțe"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bolluq Arasında İnkar",
+  "intro": "Özünü elə bir qövmün arasında görürsən ki, onların bazarları ticarətlə doludur, amma tərəziləri aldadıcıdır. Onlara açıq-aşkar xəbərdarlıq edən bir elçi gəlmişdi, amma onlar gülür və öz bərəkətlərinə güvənərək üz çevirirlər. Göy qaralmağa başlayır, amma onlar bunu yağışın bir neməti kimi görürlər. Bu insanlar kimlərdir?",
+  "clues": [
+    "Ticarət və bolluq torpaqlarında çiçəkləndik, amma qəlblərimiz daşlaşdı.",
+    "Rəbbimizdən bizə möcüzələr gətirən bir elçi gəldi, amma biz onun xəbərdarlıqlarına istehza etdik.",
+    "Biz sənətkarlığımızla tanınırdıq, amma ölçünü azaltdıq və xalqı aldatdıq.",
+    "Biz sıx ağacların və sulu bitkilərin arasında yaşayırdıq, amma nemətlərimizi adi bir şey kimi qəbul edirdik.",
+    "Qara bir bulud yaxınlaşanda sevindik, çünki quru torpaqlarımıza yağış yağdıracağını düşünürdük.",
+    "Əksinə, o bulud yandırıcı bir əzab göndərdi və biz kölgə gününün əzabına düçar olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Əshab əl-Aykah (Meşə Əhli)",
+        "Səmud xalqı",
+        "Ad xalqı",
+        "Lut qövmü",
+        "Nuh qövmü"
+      ],
+      "answer": "Əshab əl-Aykah (Meşə Əhli)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Onlar elçilərini yalançı hesab etdilər və ticarətdə xəyanət etdilər.",
+        "Onlar qızıl buzova ibadət etdilər və yoldan çıxdılar",
+        "Onlar sodomiya ilə məşğul olur və səyahətçilərə hücum edirdilər",
+        "Onlar hündür qüllələr tikib Tanrıya meydan oxudular",
+        "Onlar su paylaşmaqdan imtina etdilər və dişi dəvəyə zərər verdilər"
+      ],
+      "answer": "Onlar elçilərini yalançı hesab etdilər və ticarətdə xəyanət etdilər."
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Sıx meşə və ya kolluq",
+        "Yaşayış yerlərinə oyulmuş bir dağ",
+        "Dəniz kənarında bir şəhər",
+        "Quyuları olan səhra vadisi",
+        "Bol meyvəli bərəkətli bir bağ"
+      ],
+      "answer": "Sıx meşə və ya kolluq"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Alov kölgəsi buludu ilə məhv edilib",
+        "Böyük bir daşqın nəticəsində boğuldu",
+        "Zəlzələ ilə udulmuş",
+        "Şiddətli külək vurdu",
+        "Daşa çevrildi"
+      ],
+      "answer": "Alov kölgəsi buludu ilə məhv edilib"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

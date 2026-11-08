@@ -1,0 +1,61 @@
+{
+  "title": "L'araldo del grande diluvio",
+  "intro": "Quest'individuo è stato per secoli un pilastro di resilienza, richiamando una società ribelle alla luce della verità, affrontando scherno e rifiuto. Nonostante le avversità schiaccianti e il peso di un messaggio che si estendeva per generazioni, questo servitore è rimasto saldo nella sua missione fino all'emanazione del decreto finale.",
+  "clues": [
+    "Ho trascorso novecentocinquanta anni a chiamare il mio popolo sulla via della rettitudine, giorno e notte, in segreto e in pubblico.",
+    "Avevo avvertito il mio popolo di una punizione dolorosa, eppure essi, con arroganza, si sono tappati le orecchie e si sono coperti con le loro vesti.",
+    "Mi fu comandato di costruire qualcosa di imponente sotto lo sguardo vigile del mio Signore, sebbene non ci fosse acqua in vista.",
+    "Mentre lavoravo, i capi del mio popolo passavano e mi deridevano, ma io dicevo loro che presto saremmo stati noi a deridere loro.",
+    "Ho implorato i miei stessi familiari di unirsi a me, ma hanno scelto di rifugiarsi su una montagna, credendo che li avrebbe salvati dall'innalzamento della marea.",
+    "La mia imbarcazione alla fine si posò sul monte Judi, dopo che la terra inghiottì le sue acque e il cielo cessò di piovere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Nuh",
+        "Profeta Lutero",
+        "Profeta Shu'ayb"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il bastone trasformabile",
+        "Il grande diluvio",
+        "Il fuoco che si raffredda",
+        "Il mare che si divide",
+        "Il Cammello di Dio"
+      ],
+      "answer": "Il grande diluvio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il vitello d'oro",
+        "Lo staff",
+        "La camicia",
+        "L'Arca",
+        "L'anello"
+      ],
+      "answer": "L'Arca"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Entrare nella Terra Promessa",
+        "Annegare nel Mar Rosso",
+        "Riposando sul monte Judi",
+        "Essere gettati in una fossa",
+        "Ascendendo al cielo"
+      ],
+      "answer": "Riposando sul monte Judi"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

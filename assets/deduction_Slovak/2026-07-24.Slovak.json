@@ -1,0 +1,61 @@
+{
+  "title": "Zahalený konšpirátor",
+  "intro": "Ocitnete sa v prítomnosti mocnej postavy z čias zjavenia. Táto osoba bola známa svojím intelektom, bohatstvom a postavením medzi svojimi ľuďmi. Keď prišli jasné znamenia, rozpoznali krásu, no pred podriadenosťou si vybrali vzdor. Čo viedlo túto dušu k tomu, aby v tme spletiarila a aký bol jej konečný osud?",
+  "clues": [
+    "Bol som požehnaný bohatými zdrojmi a vplyvom, vďaka čomu som v zhromaždeniach silne vyjadroval svoje slová.",
+    "Keď boli recitované božské slová, nemohol som poprieť ich výrečnosť, ale moja pýcha mi nedovolila podriadiť sa.",
+    "Zhromaždil som svojich poradcov a izoloval sa, aby som premýšľal o spôsobe, ako zdiskreditovať toto posolstvo.",
+    "Po dlhom premýšľaní som vyhlásil, že je to len „mágia zdedená z minulosti“, ktorá má ľudí odradiť.",
+    "Zjavenie sa potom priamo obrátilo na mňa: „Nechaj ma s tým, koho som stvoril, na pokoji.“ Bol som vybraný za svoje intrigy.",
+    "Čoskoro ma ten istý oheň, pred ktorým som bol varovaný, chytí za vlasy na čele a nebudem mať úniku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abú Laháb",
+        "Abu Džahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Sprisahal sa s cieľom zavraždiť Proroka",
+        "Viedol bojkot proti moslimom",
+        "Zhromaždil radu, aby označil Korán za mágiu",
+        "Plánoval vyhnať Proroka z Mekky",
+        "Odmietol sa podeliť o svoj majetok so sirotami"
+      ],
+      "answer": "Zhromaždil radu, aby označil Korán za mágiu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zjavenie",
+        "Rada",
+        "Predný prameň",
+        "Bohatstvo",
+        "Pero"
+      ],
+      "answer": "Predný prameň"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Činil pokánie a prijal islam",
+        "Emigroval do Habeša",
+        "Postihla ho smrteľná choroba",
+        "Zomrel v boji proti moslimom",
+        "Bol odsúdený na pekelný oheň"
+      ],
+      "answer": "Bol odsúdený na pekelný oheň"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

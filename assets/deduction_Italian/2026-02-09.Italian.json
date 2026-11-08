@@ -1,0 +1,60 @@
+{
+  "title": "La prova sotto le onde",
+  "intro": "Un profeta, oppresso dalla sua missione, prese una decisione che lo condusse lontano dal suo popolo e in una prova inaspettata. Il suo viaggio prese una svolta drammatica, mettendo alla prova la sua fede e la sua pazienza nel modo più profondo. Riuscite a dedurre i dettagli di questo straordinario evento dagli indizi forniti?",
+  "clues": [
+    "Un profeta fu inviato a un popolo, ma se ne andò in fretta, frustrato dal loro rifiuto.",
+    "Il suo viaggio lo condusse al mare, dove si imbarcò su una nave pesantemente carica in cerca di un passaggio.",
+    "Si scatenò una violenta tempesta che minacciò la nave, e si decise, tramite sorteggio, di gettare in mare una persona per alleggerire il carico.",
+    "Fu inghiottito da una creatura degli abissi, un evento miracoloso decretato dalla volontà divina.",
+    "Nel ventre della creatura, invocò il suo Signore, pentendosi e glorificando Allah nell'oscurità.",
+    "Dopo un periodo di intense suppliche, fu abbandonato su una spiaggia deserta, debole ma vivo, e in seguito fece ritorno scoprendo che il suo popolo aveva finalmente creduto in lui."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Persona",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Lutero",
+        "Profeta Mosè",
+        "Il profeta Yunus",
+        "Il profeta Yusuf"
+      ],
+      "answer": "Il profeta Yunus"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il diluvio di Nuh",
+        "La distruzione di Sodoma",
+        "Il viaggio nel ventre del grande pesce",
+        "La divisione del mare",
+        "La rivelazione del roveto ardente"
+      ],
+      "answer": "Il viaggio nel ventre del grande pesce"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca",
+        "Monte Sinai",
+        "Lo staff di Musa",
+        "Il Grande Pesce",
+        "Il pozzo di Yusuf"
+      ],
+      "answer": "Il Grande Pesce"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Un nuovo patto con l'umanità",
+        "Una nascita miracolosa per il suo popolo",
+        "Un regno istituito per la sua stirpe",
+        "Un ritorno al suo popolo che allora credeva",
+        "Una vittoria su un sovrano tirannico"
+      ],
+      "answer": "Un ritorno al suo popolo che allora credeva"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

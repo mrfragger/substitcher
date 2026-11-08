@@ -1,0 +1,61 @@
+{
+  "title": "Le Prophète des Montagnes Sculptées",
+  "intro": "Dans les déserts arides de l'Arabie antique, une figure se distingua parmi un peuple réputé pour son artisanat exceptionnel. Leurs demeures s'élevaient de la roche, mais leurs cœurs étaient plus durs que les montagnes qu'ils sculptaient. Un messager divin arriva avec un signe unique et miraculeux, mais l'orgueil et la rébellion entraînèrent des conséquences rapides et terrifiantes. Saurez-vous identifier ce noble serviteur dont le peuple choisit la destruction plutôt que la voie à suivre ?",
+  "clues": [
+    "J'ai été envoyé comme avertisseur auprès de mon peuple, l'appelant à adorer le Dieu unique.",
+    "Mon peuple vivait au milieu de formations rocheuses spectaculaires, creusant de magnifiques habitations à flanc de montagne.",
+    "Une chamelle miraculeuse a surgi de la roche solide à ma prière, un signe clair du Tout-Puissant.",
+    "J'ai dit à mon peuple de partager l'eau avec cette chamelle et de ne pas lui faire de mal.",
+    "Mon peuple a comploté contre la chamelle et l'a mutilée, scellant ainsi sa propre destruction.",
+    "Un terrible tremblement de terre a frappé mon peuple, et ils sont restés figés et immobiles dans leurs habitations."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Salih",
+        "Prophète Hud",
+        "Prophète Shu'ayb",
+        "Prophète Noé",
+        "Le prophète Moïse"
+      ],
+      "answer": "Prophète Salih"
+    },
+    "trial": {
+      "label": "Quel a été le procès décisif ?",
+      "options": [
+        "La blessure aux ischio-jambiers d'une chamelle miraculeuse",
+        "Construire une grande arche au milieu des moqueries",
+        "Affronter un pharaon tyrannique",
+        "Être jeté dans un feu ardent",
+        "La violation de l'alliance du sabbat"
+      ],
+      "answer": "La blessure aux ischio-jambiers d'une chamelle miraculeuse"
+    },
+    "location": {
+      "label": "Quel était l'élément central ?",
+      "options": [
+        "Une chamelle qui a émergé d'un rocher",
+        "Une grande arche en bois",
+        "Un bâton qui a fendu la mer",
+        "Une baleine énorme",
+        "Une montagne suspendue au-dessus"
+      ],
+      "answer": "Une chamelle qui a émergé d'un rocher"
+    },
+    "outcome": {
+      "label": "Quel fut leur destin final ?",
+      "options": [
+        "Un tremblement de terre soudain venu du ciel",
+        "Noyés dans une puissante inondation",
+        "Leurs villes furent renversées par ordre divin.",
+        "Brûlé par un vent brûlant",
+        "Englouti par la terre"
+      ],
+      "answer": "Un tremblement de terre soudain venu du ciel"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

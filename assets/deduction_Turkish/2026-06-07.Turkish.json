@@ -1,0 +1,61 @@
+{
+  "title": "Nil'in Azap Çeken Ruhu",
+  "intro": "Büyük bir baskı çağında, bir tiranın ülkeyi mutlak bir zulümle yönettiği dönemde, bir ruh krallığın rahatlığı yerine inanç yolunu seçti. Bu kişi iktidarın kalbinde yaşadı, ancak mütevazı bir peygamberin mesajında ​​gerçeği buldu. Yolculuğu, sabır, fedakarlık ve sarsılmaz inanç konusunda zamansız bir ders olacaktı. Dünyevi statü yerine ilahi zevki tercih eden bu olağanüstü kişiyi tanıyabilir misiniz?",
+  "clues": [
+    "Büyük bir gücün sarayında yaşadım, yine de kalbim mütevazı bir mesajda gerçeği buldu.",
+    "Karşılaşacağım sonuçları bilmeme rağmen Musa'nın rehberliğine uymayı seçtim.",
+    "Zamanımın en güçlü tiranıyla evliydim, yine de onun sahte tanrılarını reddettim.",
+    "Tek Tanrı'ya olan inancım yüzünden cezalandırıldığım için çektiğim acılar çok şiddetliydi.",
+    "En şiddetli işkencelerle karşı karşıya kaldığımda bile inancımdan asla vazgeçmedim.",
+    "Rabbim sabrımı takdir etti ve beni cennette şerefli bir yere seçti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Hz. Musa'nın annesi",
+        "Firavunun karısı",
+        "Peygamber Musa'nın kız kardeşi",
+        "Antik Mısır'ın bir kraliçesi",
+        "İsrailoğullarının bir hizmetkarı"
+      ],
+      "answer": "Firavunun karısı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Allah yolunda bir orduyla savaşmak",
+        "Firavunla yüzleşmek ve inancını ilan etmek",
+        "Mısır'da ibadet yerleri inşa etmek",
+        "Musa ile denizde yolculuk",
+        "Allah'tan vahiy almak"
+      ],
+      "answer": "Firavunla yüzleşmek ve inancını ilan etmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Midyan çölü",
+        "Mısır kraliyet sarayı",
+        "Nil Nehri kıyıları",
+        "Sina Dağı",
+        "Kenan diyarı"
+      ],
+      "answer": "Mısır kraliyet sarayı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Uzun yıllar sonra peygamber oldu.",
+        "İsrailoğullarını Mısır'dan çıkardı.",
+        "Mısır üzerinde egemenlik verildi.",
+        "Şehit edildi ve Allah tarafından şereflendirildi.",
+        "Yaşlılığa kadar rahat bir yaşam sürdü."
+      ],
+      "answer": "Şehit edildi ve Allah tarafından şereflendirildi."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

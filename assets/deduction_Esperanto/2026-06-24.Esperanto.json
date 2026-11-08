@@ -1,0 +1,61 @@
+{
+  "title": "La Gardanto de la Neestingebla Flamo",
+  "intro": "Figuro staras ĉe la sojlo de la plej timata loko en la nevideblaĵo, komisiita per tasko, kiun neniu alia estaĵo deziras. Kiam suferantaj animoj krias por kompato, severa respondo eĥas tra la fajraj ĉambroj. Ĉu vi povas malkovri la identecon de ĉi tiu eterna gardanto?",
+  "clues": [
+    "Mi staras ĉe la enirejo de terura loko de puno en la nevideblaĵo.",
+    "Flamanta, neestingebla fajro estas la centra parto de mia solena devo.",
+    "Suferantaj animoj vokas mian nomon, petegante por liberiĝo de sia senfina turmento.",
+    "Kiam ili petegas, mi deklaras, ke ili ne foriros, neniam.",
+    "Mi ne estas homo, nek ĝino — mi estas kreita estaĵo de pura obeemo.",
+    "Mi estas la ĉefa anĝelo nomumita kiel la eterna gardanto de la Infero."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikaelo",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La popolo de Infero petegas por la fino de ilia turmento",
+        "La trumpeto estas blovata por signali la Tagon de Juĝo",
+        "La Korano estas rivelita al la koro de la Profeto",
+        "Profeto estas ĵetita en grandan fajron fare de sia popolo",
+        "Potenca muro estas konstruita por enhavi koruptitan nacion"
+      ],
+      "answer": "La popolo de Infero petegas por la fino de ilia turmento"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Inferfajro (Jahannam)",
+        "La Lotarbo ĉe la limo de Paradizo",
+        "Penetranta trumpeto",
+        "Bastono kiu transformiĝas en serpenton",
+        "Grandioza dia trono"
+      ],
+      "answer": "La Inferfajro (Jahannam)"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "La loĝantoj de Infero estas diritaj, ke ili restos eterne",
+        "La loĝantoj de Infero estas pardonitaj kaj liberigitaj",
+        "La loĝantoj de Infero ricevas duan ŝancon por kredo",
+        "La loĝantoj de Infero estas translokigitaj al loko de malvarmeto",
+        "La loĝantoj de Infero estas tute detruitaj per tondrokojno"
+      ],
+      "answer": "La loĝantoj de Infero estas diritaj, ke ili restos eterne"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Masu Tsaron Lambun",
+  "intro": "A cikin wani lambu mai cike da albarka, wata al'umma ta yi alƙawari mai girma. Amma an gwada ƙudurinsu lokacin da nufin Allah ya shiga tsakani, inda ya mayar da ni'imar su zuwa ƙasa mara amfani.",
+  "clues": [
+    "Mun sami albarka da lambu mai yalwa, amma muka zama masu girman kai.",
+    "Mun yi shirin girbi ba tare da raba wa talakawa ba.",
+    "Mun tashi da sassafe, muna da kwarin gwiwa a kan shirinmu.",
+    "Amma da muka isa, sai muka ga an lalata gonarmu cikin dare ɗaya.",
+    "Mun fahimci kuskurenmu kuma muka fara zargin junanmu.",
+    "A ƙarshe mun tuba, amma darasin ya yi latti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Mutanen Lambun",
+        "Mutanen Kogo",
+        "Mutanen Giwa",
+        "Mutanen Samudawa",
+        "Mutanen 'Ad'"
+      ],
+      "answer": "Mutanen Lambun"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Lambun da ya zama toka",
+        "Ambaliyar da ta lalata komai",
+        "Yunwa da ta addabi ƙasar",
+        "Rundunar tsuntsaye masu kai hari",
+        "Iska mai ƙarfi da ta tumɓuke bishiyoyi"
+      ],
+      "answer": "Lambun da ya zama toka"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Lambun",
+        "Kogo",
+        "Jirgin ruwa",
+        "Dutsen",
+        "Fadar sarauta"
+      ],
+      "answer": "Lambun"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Sun tuba amma sun rasa lambunsu",
+        "An lalata su gaba ɗaya",
+        "An mayar da su birrai",
+        "An cece su ta wurin bangaskiya",
+        "Sun zama masu mulki"
+      ],
+      "answer": "Sun tuba amma sun rasa lambunsu"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

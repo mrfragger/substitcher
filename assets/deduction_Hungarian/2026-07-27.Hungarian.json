@@ -1,0 +1,61 @@
+{
+  "title": "Az áldozat, amely megváltoztatta a sorsot",
+  "intro": "Az emberiség legkorábbi napjaiban a lélek tiszta szándékkal ajánlott fel ajándékot. Az elfogadás árnyékában azonban irigység leselkedett. Fedezd fel ennek az alaknak a történetét, akinek jámborságát és tragikus végét isteni kinyilatkoztatás örökítette meg.",
+  "clues": [
+    "Az emberiség első generációi közé tartoztam.",
+    "Áldozatot mutattam be Uramnak, és kegyesen fogadták.",
+    "Testvérem felajánlását elutasították, és az irigység elsötétítette a szívét.",
+    "Azt mondtam neki: „Ha felém nyújtod a kezed, hogy megölj, én nem fogom feléd nyújtani a kezem; bizony félem Allahot, a világok Urát.”",
+    "Én lettem az első gyilkosság áldozata a földön.",
+    "Vérem felkiáltott, és én voltam az ártatlanság első mártírja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Habil (Ábel)",
+        "Qabil (Káin)",
+        "A férfi Ya-Sinből",
+        "A szamiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Ábel)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Felajánlását elfogadták, ami miatt testvére irigykedni kezdett, és meggyilkolták.",
+        "Lángoló kemencébe vetették, de sértetlenül kijött belőle",
+        "Isteni útmutatás alatt hatalmas hajót épített",
+        "Egy nagy hal nyelte el, és sötétségben maradt.",
+        "Átvezette népét egy kettévált tengeren"
+      ],
+      "answer": "Felajánlását elfogadták, ami miatt testvére irigykedni kezdett, és meggyilkolták."
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy elfogadott felajánlás",
+        "Egy személyzet kígyóvá változik",
+        "A nőstény teve, mint isteni jel",
+        "Egy búbos banka híreket hoz",
+        "Egy aranyborjút imádtak"
+      ],
+      "answer": "Egy elfogadott felajánlás"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A történelem első gyilkossága; testvérét elítélték",
+        "Elnyelte a föld vagyonával együtt",
+        "Majmokká változtak a vétség miatt",
+        "Egy heves, jeges szél pusztította el",
+        "Büntetésből egy nagy árvízbe fulladt"
+      ],
+      "answer": "A történelem első gyilkossága; testvérét elítélték"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

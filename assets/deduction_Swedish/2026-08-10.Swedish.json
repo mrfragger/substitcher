@@ -1,0 +1,61 @@
+{
+  "title": "Den hemliga skördens bevarare",
+  "intro": "I ett grönskande land smidde en grupp individer en hemlig plan i skydd av mörkret. De delade ett gemensamt syfte, men deras avsikt var långt ifrån rättfärdig. Föga anade de att en gudomlig vändning väntade dem medan de sov.",
+  "clues": [
+    "Vi gjorde ett fast beslut och trodde att vår plan var felfri.",
+    "Vi hade tänkt gå ut tidigt, innan andra ens hann röra på sig.",
+    "Vi inledde en bördig tomt, säkra på våra förnödenheter.",
+    "När vi nådde vår destination fann vi den karg och öde, så vi trodde att vi hade gått vilse.",
+    "Sedan insåg vi att det verkligen var vår plats, och vi skrek ut i förtvivlan och skyllde på varandra för vår förlust.",
+    "Vi hade svurit den morgonen att utesluta de fattiga från vår skörd, men Allahs straff kom över oss medan vi sov och förvandlade vår trädgård till ruiner."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Ägarna av trädgården i Surah 68",
+        "Sabas folk",
+        "Grottans följeslagare",
+        "Elefantens folk",
+        "Folket i skyttegraven"
+      ],
+      "answer": "Ägarna av trädgården i Surah 68"
+    },
+    "trial": {
+      "label": "Vår rättegång",
+      "options": [
+        "Vår trädgård förstördes av en olycka från himlen",
+        "Vår trädgård svepte över av en översvämning",
+        "Vår trädgård brändes ner av en eld från en fiende",
+        "Vår trädgård var full av gräshoppor",
+        "Vår trädgård slukades av en jordbävning"
+      ],
+      "answer": "Vår trädgård förstördes av en olycka från himlen"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Vi svor att plocka dess frukter på morgonen",
+        "Vi byggde en damm för att bevattna vår trädgård",
+        "Vi sökte skydd i en grotta",
+        "Vi förberedde en armé för att erövra ett kungarike",
+        "Vi seglade ett skepp för att korsa havet"
+      ],
+      "answer": "Vi svor att plocka dess frukter på morgonen"
+    },
+    "outcome": {
+      "label": "Vårt öde",
+      "options": [
+        "Vi ångrade oss och hoppades på nåd från Allah",
+        "Vi blev fullständigt förstörda och ångrade oss aldrig",
+        "Vi flydde från landet och återvände aldrig",
+        "Vi blev mäktiga och rika igen",
+        "Vi straffades genom att förvandlas till apor"
+      ],
+      "answer": "Vi ångrade oss och hoppades på nåd från Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

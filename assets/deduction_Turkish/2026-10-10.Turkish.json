@@ -1,0 +1,61 @@
+{
+  "title": "Tüylü İzci",
+  "intro": "Rüzgarlara, görünmeyen varlıklara ve gökyüzü yaratıklarına hükmetme yetkisine sahip birinin yönettiği bir krallıkta, küçük ve çevik bir üye saflardan kayboldu; ancak uzak bir ulusun kaderini yeniden şekillendirecek vahiylerle geri döndü. Bu keskin gözlü muhbir, cehaletin kök saldığı yerde gerçeği gün yüzüne çıkardı. Ben Kimim?",
+  "clues": [
+    "İnsanların, görünmez varlıkların ve gökyüzü yaratıklarının, rüzgârlara bile hükmeden tek bir bilge hükümdara hesap verdiği bir mahkemede görev yaptım.",
+    "Bir süreliğine görev yerimden uzaktaydım ve tatmin edici bir gerekçe sunamazsam hükümdarın gazabına uğrayacağım söylendi.",
+    "Ben, keskin görüşüyle ​​tanınan, uçabilen küçük bir yaratığım ve türümün adı Vahiy sayfalarında doğrudan belirtilerek onurlandırılmıştır.",
+    "Döndüğümde, insanların güneşe secde ettiği, gökleri ve yeri yaratanı görmezden geldiği uzak bir diyardan haberler getirdim.",
+    "Büyük bir krallığı yöneten, muhteşem bir tahtta oturan, daha önce gerçeği hiç bilmeyen bir kadınla karşılaştım.",
+    "Saba diyarını keşfeden ve rüzgâra hükmetme yetkisi verilen bir peygamber-kraldan gelen davet mektubunu taşıyan kişi benim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Hüdhüd",
+        "Süleyman Vadisi'nden Karınca",
+        "Asif ibn Barkhiya",
+        "İfrit Cin",
+        "Tahtın Meleği"
+      ],
+      "answer": "Hüdhüd"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Saba (Şeba) Krallığına yapılan sefer",
+        "Firavunun büyücüleriyle yüzleşme",
+        "Peygamber Nuh'un tufanı",
+        "Ad halkının yok edilmesi",
+        "Kızıldeniz'in yarılması"
+      ],
+      "answer": "Saba Krallığı'na (Şeba) yapılan sefer"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Saba Diyarı (Şeba)",
+        "Sina Dağı",
+        "Peygamber Nuh'un Sandığı",
+        "Aşab el-Kahf Mağarası",
+        "Firavunun Sarayı"
+      ],
+      "answer": "Saba Diyarı (Şeba)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bilqis, Süleyman'ın sarayına boyun eğerek geldi.",
+        "Firavun ve ordusu denizde boğuldu.",
+        "Ad halkı şiddetli bir rüzgar tarafından yok edildi.",
+        "Firavunun büyücüleri Musa Peygamber'e inanıyorlardı.",
+        "Büyük bir tufan kâfirleri yuttu."
+      ],
+      "answer": "Bilqis, Süleyman'ın sarayına boyun eğerek geldi."
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

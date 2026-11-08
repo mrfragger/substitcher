@@ -1,0 +1,61 @@
+{
+  "title": "Głupota wielkiej ambicji",
+  "intro": "Wyrusz w podróż, by odkryć tożsamość kolektywnego bytu, którego śmiałe plany spotkały nieoczekiwany, potężny koniec. Ta opowieść stanowi głębokie przypomnienie boskiej potęgi i kruchości ziemskiej władzy, gdy sprzeciwia się ona temu, co święte. Odkryj tajemnicę tej grupy, której historia została zapisana w Koranie jako ostrzeżenie dla wszystkich, którzy dążą do wykroczenia.",
+  "clues": [
+    "Mieliśmy wielkie ambicje i wierzyliśmy, że nasza potęga jest niezrównana. Wyruszyliśmy w podróż z jasnym, niszczycielskim celem.",
+    "Nasz przywódca, pełen arogancji, usiłował zbezcześcić święty Dom czczony przez wielu, mając na celu odciągnięcie pielgrzymów od budowli przez nas zbudowanej.",
+    "Z dalekiej krainy wyruszyliśmy z potężną siłą, pewni, że uda nam się rozebrać starożytną budowlę w Świętym Mieście.",
+    "Nasza armia była potężna, dowodzona przez majestatyczne stworzenia – widok, którego mieszkańcy ziem, które najechaliśmy, rzadko, jeśli w ogóle, byli świadkami podczas tego typu kampanii.",
+    "Gdy dotarliśmy do celu, nastąpiła boska interwencja: pojawiły się małe, uskrzydlone stworzenia i zaczęły obrzucać nas kamieniami z wypalonej gliny.",
+    "Cała nasza wyprawa spotkała się z druzgocącym końcem – nasze potężne siły zostały całkowicie unicestwione, niczym przeżuta słoma, a nasz wspaniały plan obrócił się w pył."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z Thamud",
+        "Ludzie z „Ad”",
+        "Ludzie Sodomy",
+        "Ludzie Słonia",
+        "Ludzie Ogrodu"
+      ],
+      "answer": "Ludzie Słonia"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wielka Powódź",
+        "Kampania przeciwko Kaabie",
+        "Zniszczenie bożków",
+        "Rozdzielenie morza",
+        "Trzęsienie ziemi w Midianie"
+      ],
+      "answer": "Kampania przeciwko Kaabie"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Kaaba",
+        "Złoty cielec",
+        "Ogień"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Boskie zbawienie",
+        "Długi okres dobrobytu",
+        "Konwersja na islam",
+        "Całkowite zniszczenie",
+        "Wygnanie z ich ziemi"
+      ],
+      "answer": "Całkowite zniszczenie"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

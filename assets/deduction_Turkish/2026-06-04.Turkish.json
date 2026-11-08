@@ -1,0 +1,61 @@
+{
+  "title": "Taşlar Arasındaki İşaret",
+  "intro": "Dağların evlere oyulduğu bir diyarda, Allah'tan mucizevi bir işaret getiren bir elçi geldi. İnsanlar bunun kanıtını istediler ve onlara kayadan yaratılmış bir varlık gönderildi. Ancak kibirleri onları uyarıyı hiçe saymaya ve kaderlerini mühürlemeye sevk etti.",
+  "clues": [
+    "Dağların içine oyulmuş evlerde yaşayan bir halkın yanına gönderildim.",
+    "Benden bir pankart getirmemi istediler, ben de bir kayadan deve figürü çıkardım.",
+    "Onlara deveye serbestçe su içirmelerini ve ona zarar vermemelerini emrettim.",
+    "Uyarıma kulak asmadılar ve devenin bacaklarını sakatlayarak onu engellediler.",
+    "Üç gün sonra cezanın verileceğini duyurdum.",
+    "Sabahleyin müthiş bir patlama onları yok etti, ama ben ve takipçilerim kurtulduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Salih",
+        "Peygamber Hud",
+        "Peygamber Lut",
+        "Peygamber Şuayb",
+        "Peygamber İbrahim"
+      ],
+      "answer": "Peygamber Salih"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bir kayadan dişi deveye olan talep",
+        "Altın buzağıya olan talep",
+        "Cennetten gelen bir sofra talebi",
+        "Sel talebi",
+        "Personelin yılana dönüşmesi talebi"
+      ],
+      "answer": "Bir kayadan dişi deveye olan talep"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Dişi deve ve yavrusu",
+        "Nuh'un Gemisi",
+        "Musa'nın Asası",
+        "Altın Buzağı",
+        "İbrahim'in Ateşi"
+      ],
+      "answer": "Dişi deve ve yavrusu"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Muazzam bir patlamayla yok edildi",
+        "Selde boğuldu",
+        "Toprak tarafından yutuldu",
+        "Maymunlara dönüştüler",
+        "Şiddetli bir rüzgar tarafından yıkıldı"
+      ],
+      "answer": "Muazzam bir patlamayla yok edildi"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

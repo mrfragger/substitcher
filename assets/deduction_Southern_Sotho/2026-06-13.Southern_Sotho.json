@@ -1,0 +1,61 @@
+{
+  "title": "Ba 'Nete ba Makkah",
+  "intro": "Matsatsing a pele a tshenolo, ha molaetsa wa nnete o ne o tobane le kganyetso e matla, meya e meng e ile ya ema e sa sisinyehe tumelong ya yona. Badumedi bana ba ile ba tobana le sehloho se sa kgoneheng ho ba neng ba batla ho tima lesedi la tumelo. Tlhokofatso ya bona e ne e le kgolo, mahlomola a bona a le maholo—leha ho le jwalo maleme a bona ha a ka a kgaotsa ho phatlalatsa Bonngwe ba Allah. Esita le ha ba ne ba lahlelwa botebong ba ho nyahama, tshireletso ya Modimo e ile ya ba pota-pota, ya fetola teko ya bona hore e be bopaki bo sa feleng ba tumelo. A re hlahlobeng leeto la meya ena e makatsang.",
+  "clues": [
+    "Re ile ra lekoa ka kotlo e boima ka lebaka la ho hana ho lahla tumelo ea rona ho Molimo a le Mong",
+    "Batho ba rona ba ne ba ke ke ba roba boikemisetso ba rona, ho sa tsotelehe hore na bokhopo ba bona bo bile boqapi hakae",
+    "Re ne re leketlile selibeng motšehare, empa thuso ea Molimo e ne e le haufi kamehla",
+    "Ho tiea ha rona ho ile ha makatsa esita le ba boneng mamello ea rona",
+    "Ba bangata Makka ba ile ba leka ho re qobella ho hula tumelo ea rona morao, empa re ile ra lula re tiile",
+    "Ha tsohle li ne li bonahala li lahlehile, tokoloho ea rona e fihlile ka ho kenella ha Molimo ka mohlolo"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ntoa khahlanong le Moprofeta",
+        "Mahloriso ka lebaka la ho hana ho rapela litšoantšo",
+        "Teko ea tumelo mabapi le ketsahalo ea mollo",
+        "Teko ea leeto la bosiu le arohaneng",
+        "Teko ea timetso ea serapa"
+      ],
+      "answer": "Mahloriso ka lebaka la ho hana ho rapela litšoantšo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Thaba ea Uhud",
+        "Sebaka se halalelang sa Kabah",
+        "Seliba sa Abu Sufyan",
+        "Ntlo ea borena ea Maquraysh",
+        "Motse oa Madina"
+      ],
+      "answer": "Seliba sa Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Tlhōlo ntoeng e kholo",
+        "Tokoloho ka ho kenella ha Molimo",
+        "Boshoela-tumelo tseleng ea Allah",
+        "Kamohelo paradeiseng ka kotloloho",
+        "Ho fallela naheng e hlohonolofalitsoeng"
+      ],
+      "answer": "Tokoloho ka ho kenella ha Molimo"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

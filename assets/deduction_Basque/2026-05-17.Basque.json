@@ -1,0 +1,61 @@
+{
+  "title": "Harrizko Arkitektoak.",
+  "intro": "Imajinatu zibilizazio boteretsu bat, indarrez eta trebetasunez hornitua, mendi-hegaletan etxebizitza handiak zizelkatzen zituena. Kolektibo honek oparotasun izugarria eta arkitektura-trebetasun paregabea zituen. Hala ere, abisu argiak jaso arren, ondorio dramatiko eta ahaztezin batera eramango zuen bide bat aukeratu zuten. Identifika al dezakezu hausnartzen duten guztientzat ikasgai sakona den istorioa duen talde hau?",
+  "clues": [
+    "Indarra eta trebetasuna eman ziguten, mendietan etxe bikainak zuzenean zizelkatzeko aukera emanez.",
+    "Ala-rengandik seinale argi bat eman ziguten, bazkatzen utzi behar zen izaki paregabe bat.",
+    "Gure komunitatea harroputz bihurtu zen, gure artetik mezulari batek ekarritako jainkozko mezua zalantzan jarriz.",
+    "Zigor larriaren abisuak gorabehera, mirariaren seinaleari kalte egiteko konspiratu genuen.",
+    "Izaki bereziari gure putzutik txandaka edaten uzteko aginduari desafio egin genion.",
+    "Amaiera suntsitzailea izan genuen, gure transgresio ekintzaren ondoren leherketa bakar eta beldurgarri batek jota."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "'Ad-eko jendea",
+        "Midiango jendea",
+        "Elefantearen jendea.",
+        "Thamudeko jendea",
+        "Luteko jendea."
+      ],
+      "answer": "Thamudeko jendea"
+    },
+    "trial": {
+      "label": "Gure Epaiketa/Ekitaldi Nagusia",
+      "options": [
+        "Lurra irentsi zuen uholdeak",
+        "Itsasoaren zatiketa.",
+        "Eztanda/oihu bakar batek eragindako suntsipena",
+        "Hiri baten erreketa.",
+        "Mendi bat hauts bihurtzea"
+      ],
+      "answer": "Eztanda/oihu bakar batek eragindako suntsipena"
+    },
+    "location": {
+      "label": "Gure istorioko elementu gako bat",
+      "options": [
+        "Urrezko txahal bat",
+        "Gamelu eme miragarri bat",
+        "Sasi erretzen ari den bat",
+        "Txori hiztun bat",
+        "Tronu dotorea."
+      ],
+      "answer": "Gamelu eme miragarri bat"
+    },
+    "outcome": {
+      "label": "Gure Azken Emaitza",
+      "options": [
+        "Aberastasun eta botere izugarria eman zioten",
+        "Profeziara igoa.",
+        "Jainkozko zigor baten bidezko suntsipen osoa",
+        "Barkatua damu zintzoaren ondoren",
+        "Lurrean zehar sakabanatuta ibiltzeko"
+      ],
+      "answer": "Jainkozko zigor baten bidezko suntsipen osoa"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

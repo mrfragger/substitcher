@@ -1,0 +1,61 @@
+{
+  "title": "An fhoighne a mhair níos faide ná an brón",
+  "intro": "Fear scothaosta a raibh a fhoighne ina finscéal, a raibh a fhís imithe i léig de bharr bróin, ach a raibh a chreideamh sa phlean diaga riamh ag meath. Chonaic an duine seo dháréag mac ag fás i mbunús treibheanna, ag fulaingt cailliúint phianmhar linbh an-ghrámhar, agus ag éirí ina shiombail gan teorainn d’fhoighne álainn i bhfianaise bróin mhóir. Anam measúil a n-insítear a scéal ar fud leathanaigh an nochta. An féidir leat an figiúr seo a aithint ón gCorán?",
+  "clues": [
+    "Ba fáidh mé a bhfuil a scéal insithe go mion i surah mór den Corán.",
+    "Bhí dháréag mac agam a tháinig chun bheith ina n-athracha do threibheanna Bani Israel.",
+    "Dúirt mé le mo mhic dul isteach trí gheataí difriúla, ar eagla go n-aithneofaí mar phobal aonair iad.",
+    "Bhánaigh mo shúile ó caoineadh gan stad faoi leanbh ionúin a tógadh uaim.",
+    "Dhiúltaigh mé éadóchas a chur orm fiú nuair a spreag mo mhic eile mé é sin a dhéanamh, ag rá nach ndéanaim gearán ach le Allah.",
+    "Is mise athair an fháidh Yusuf, a chiallaíonn a ainm féin 'an méadaitheoir' in Araibis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Yaqub (Iacób)",
+        "Fáidh Iósaf",
+        "Fáidh Ibrahim",
+        "an Fáidh Músa",
+        "Fáidh Dawud"
+      ],
+      "answer": "An Fáidh Yaqub (Iacób)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Cailliúint mic ghrámhar i dtobar",
+        "An tuile mhór a shlog muintir ar fad",
+        "An imirce ó ríocht adhradh tine",
+        "An aghaidh le tíoránach cumhachtach na hÉigipte",
+        "An deoraíocht go bolg míolta móra"
+      ],
+      "answer": "Cailliúint mic ghrámhar i dtobar"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Léine atá daite le fuil bhréagach",
+        "Bata a d’iompaigh ina nathair",
+        "Áirc tógtha ar shliabh",
+        "Camall baineann snoite as carraig",
+        "Lao órga"
+      ],
+      "answer": "Léine atá daite le fuil bhréagach"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Fuair ​​sé a radharc ar ais nuair a cuireadh léine a mhic ghrámhar thar an aghaidh.",
+        "Slánú tar éis a bheith caite i mbolg éisc mhóir",
+        "Ag fáil teideal Khalilullah ó Allah",
+        "Ag trasnú na farraige le muintir saor ó dhaoirse",
+        "Bogha ceatha le feiceáil mar chomhartha dóchais i ndiaidh na tuile"
+      ],
+      "answer": "Fuair ​​sé a radharc ar ais nuair a cuireadh léine a mhic ghrámhar thar an aghaidh."
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

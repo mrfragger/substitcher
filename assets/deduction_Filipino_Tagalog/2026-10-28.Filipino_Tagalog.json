@@ -1,0 +1,61 @@
+{
+  "title": "Isang Pangakong Binigkas sa Ibabaw ng Baga",
+  "intro": "Nakatayo ka sa tabi ng apoy sa disyerto habang maingat na ikinakalat ang mga baga nito. Dumarating ang mga bisita para sa isang engkwentro sa katahimikan, at isang mensahe ang nagbubukas ng isang kuwento ng pangako, sorpresa, at isang kinabukasan na hindi pa natutupad.",
+  "clues": [
+    "Tinawid namin ang distansya upang marating ang isang tapat na lingkod sa disyerto.",
+    "Hiniling namin na ikalat ang mga baga upang makapaghanda ng apoy.",
+    "Nakausap namin ang isa na humingi ng lamig at kaligtasan sa apoy.",
+    "Nagdala kami ng balita tungkol sa isang bagong silang na sanggol sa isang taong lampas na sa edad ng pagkakaroon ng mga anak.",
+    "Pinangalanan namin ang ipinangakong batang si Isaac.",
+    "Nagdala kami ng masayang balita tungkol sa isang anak na lalaki kay Ibrahim, at ang nakakagulat na balita ay nagpatawa kay Ibrahim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang mga Anghel na Nagdala ng Masayang Balita tungkol kay Isaac kay Ibrahim",
+        "Ang mga Anghel na Nagbabala kay Lut",
+        "Ang mga Anghel na Nagbubuhat ng Trono",
+        "Ang mga Anghel ng Impiyerno",
+        "Ang mga Anghel na Isinugo kay Noe"
+      ],
+      "answer": "Ang mga Anghel na Nagdala ng Masayang Balita tungkol kay Isaac kay Ibrahim"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Naghahatid ng masayang balita tungkol sa kapanganakan ni Isaac kay Ibrahim",
+        "Babala kay Lut bago ang parusa sa kanyang mga tao",
+        "Pagbabalita ng kapanganakan ni Yahya kay Zakariyya",
+        "Pagdadala ng Trono sa Araw ng Paghuhukom",
+        "Pagbabalita ng kapanganakan ni Isa kay Maryam"
+      ],
+      "answer": "Naghahatid ng masayang balita tungkol sa kapanganakan ni Isaac kay Ibrahim"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang apoy na inihanda mula sa mga baga na kumakalat",
+        "Isang arka na lumulutang sa tubig-baha",
+        "Isang kuweba na tinatakan ng gumugulong na bato",
+        "Isang bundok ng luwad na pinatigas ng tubig-alat",
+        "Isang hagdan na umaabot sa kalangitan"
+      ],
+      "answer": "Isang apoy na inihanda mula sa mga baga na kumakalat"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Masayang balita tungkol sa isang anak na nagngangalang Isaac",
+        "Masayang balita tungkol sa isang anak na lalaki na nagngangalang Yahya",
+        "Ang pagpili kay Talut bilang pinuno ng mga anak ni Israel",
+        "Isang babala bago ang parusa sa mga tao ni Lut",
+        "Isang utos na gumawa ng arka bago ang Baha"
+      ],
+      "answer": "Masayang balita tungkol sa isang anak na nagngangalang Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

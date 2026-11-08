@@ -1,0 +1,61 @@
+{
+  "title": "Mmụọ nke Mkpughe nke A Tụkwasiri Obi",
+  "intro": "N'ebe a na-adịghị ahụ anya, ihe dị ndụ nke ìhè dị ọcha na-agagharị nke ọma, na-emezu iwu niile n'enweghị obi abụọ. Onye a agwaala ndị ohu ahọpụtara okwu, weta okwu nduzi, ma hụkwa mkpughe nke iwu Chineke n'oge niile. Ònye bụ mkpụrụ obi a a na-asọpụrụ?",
+  "clues": [
+    "Abụ m onye nwere ìhè dị ọcha, e ji ìhè kee m, ọ dịghịkwa mgbe m nupụrụ isi n'iwu Onyenwe m.",
+    "M na-agagharị n'etiti eluigwe na ụwa, na-agbadata na iwu nke Onye Kasị Ebere.",
+    "E zigara m n'ebe otu nwa agbọghọ dị nsọ nọ, gwa ya na ọ bụ nwa nwoke dị ọcha.",
+    "Abụ m mmụọ nke ịdị nsọ, akwadokwara m onye amụma e nyere ihe ịrịba ama doro anya na Oziọma.",
+    "Abịara m n'ọgba dị n'ugwu iji kwuo okwu mbụ nke okwu a ga-echeta ruo mgbe ebighị ebi.",
+    "Abụ m mmụọ a pụrụ ịtụkwasị obi, ọ bụkwa m tinyere Quran n'obi onye ozi ikpeazụ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Maịkel)",
+        "Mmụọ Ozi nke Ọnwụ",
+        "Malik (Onye Nchebe nke Hel)",
+        "Harut (otu n'ime ndị mmụọ ozi abụọ dị na Babịlọn)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Ọrụ/Ọrụ Dị Mkpa",
+      "options": [
+        "Izipu mkpughe nye ndị amụma",
+        "Ịfụ opi n'ụbọchị ikpe",
+        "Nche ọnụ ụzọ ámá nke Hel",
+        "Ịdekọ ihe ndị mmadụ mere",
+        "Na-eme ka mmiri zoo"
+      ],
+      "answer": "Izipu mkpughe nye ndị amụma"
+    },
+    "location": {
+      "label": "Isi Njirimara ma ọ bụ Aha Mbụ",
+      "options": [
+        "Mmụọ Nsọ (Ruh al-Qudus)",
+        "Mmụọ nke Ike",
+        "Mmụọ nke Ebere",
+        "Mmụọ nke Nduzi",
+        "Mmụọ nke Eziokwu"
+      ],
+      "answer": "Mmụọ Nsọ (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Ihe si na ọrụ a pụta",
+      "options": [
+        "E kpugheere onye amụma Muhammad Quran",
+        "A fụrụ opi n'ụbọchị ikpe",
+        "A na-eche Hel nche, e mechikwara ọnụ ụzọ ámá ya",
+        "E nyere Allah Akwụkwọ nke Ọrụ",
+        "E tinyere mmiri ozuzo n'ụwa"
+      ],
+      "answer": "E kpugheere onye amụma Muhammad Quran"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

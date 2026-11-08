@@ -1,0 +1,61 @@
+{
+  "title": "Caomhnóirí an Ghairdín",
+  "intro": "I ngairdín lush, rinne pobal móid sollúnta. Ach cuireadh a ndíograis faoi thástáil nuair a idirghabháil toil dhiaga, ag athrú a bhflúirse ina talamh lom.",
+  "clues": [
+    "Bhí gairdín flúirseach againn, ach d’éirigh muid sotalach.",
+    "Rinneamar plean chun an fómhar a bhaint gan a roinnt leis na boicht.",
+    "D’imíomar go moch ar maidin, muiníneach inár scéim.",
+    "Ach nuair a shroicheamar, fuaireamar amach go raibh ár ngairdín scriosta thar oíche.",
+    "Thuigeamar ár mbotún agus thosaíomar ag cur an milleáin ar a chéile.",
+    "Rinneamar aithrí sa deireadh, ach foghlaimíodh an ceacht rómhall."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Muintir an Ghairdín",
+        "Muintir na hUaimhe",
+        "Muintir an Eilifint",
+        "Muintir Thamud",
+        "Muintir 'Ad"
+      ],
+      "answer": "Muintir an Ghairdín"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Gairdín a iompú ina luaithreach",
+        "Tuile a scrios gach rud",
+        "Gorta a bhuail an tír",
+        "Arm éan ag ionsaí",
+        "Gaoth mhór a bhain crainn as a chéile"
+      ],
+      "answer": "Gairdín a iompú ina luaithreach"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gairdín",
+        "Uaimh",
+        "Long",
+        "Sliabh",
+        "Pálás"
+      ],
+      "answer": "Gairdín"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinne siad aithrí ach chaill siad a ngairdín",
+        "Scriosadh iad go hiomlán",
+        "Rinneadh apaí díobh",
+        "Sábháladh iad trí chreideamh",
+        "Rinneadh rialóirí díobh"
+      ],
+      "answer": "Rinne siad aithrí ach chaill siad a ngairdín"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Jumuiya Iliyoidharau Siku ya Pumziko",
+  "intro": "Ingia katika makazi ya pwani ambapo amri ya Mungu ilitenga siku moja kwa ajili ya ibada na vizuizi. Kundi ndani ya jamii hii lilichagua kujaribu mipaka ya amri hiyo kwa mpango wa ujanja, na kusababisha mabadiliko ambayo yangerudiwa kwa karne nyingi. Nafsi hizi zilikuwa nani, na nini kilitokea kwao?",
+  "clues": [
+    "Tuliishi karibu na pwani, ambapo bahari ilitupatia riziki.",
+    "Tuliamriwa kuheshimu siku moja ya juma, tukiitenga na mambo ya kidunia.",
+    "Siku hiyo, samaki walikuja kwetu kwa wingi, kana kwamba walitushawishi kuvunja amri.",
+    "Tulibuni mpango wa kuwanasa samaki usiku wa kuamkia siku takatifu, kisha kuwakusanya baada ya kupita.",
+    "Baadhi yetu walipotuonya dhidi ya udanganyifu huu, tulipuuza ushauri wao na kuendelea.",
+    "Kwa sababu ya makosa yetu, tulibadilishwa kuwa nyani, tulidharauliwa na kukataliwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Sabato",
+        "Watu wa Shimoni",
+        "Watu wa Wood",
+        "Watu wa Bustani",
+        "Watu wa Tembo"
+      ],
+      "answer": "Watu wa Sabato"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Uvuvi Siku ya Sabato",
+        "Kujenga mnara mrefu",
+        "Kuua ngamia jike mtakatifu",
+        "Kukataa nabii aliyetumwa kwao",
+        "Kuvuka mipaka katika uzito wa biashara"
+      ],
+      "answer": "Uvuvi Siku ya Sabato"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bahari na samaki wake",
+        "Moto uliopoa",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Sanduku la wokovu",
+        "Vibao vya mawe"
+      ],
+      "answer": "Bahari na samaki wake"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imebadilishwa kuwa nyani",
+        "Imemezwa na ardhi",
+        "Imeharibiwa na upepo mkali",
+        "Kuzama baharini",
+        "Kupigwa na mvua ya mawe"
+      ],
+      "answer": "Imebadilishwa kuwa nyani"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

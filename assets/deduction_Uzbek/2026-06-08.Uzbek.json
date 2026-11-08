@@ -1,0 +1,61 @@
+{
+  "title": "Muqaddas joyning iltijo qiluvchisi",
+  "intro": "Tunning sokin soatlarida, muqaddas joyning muqaddas devorlari ichida fidoyi bir qalb Rahmdil Zotga iltijo qildi. Yillar davomida sobit imon va sabr-toqat quvonch va payg'ambarlik merosini olib keladigan mo''jiza bilan taqdirlanishi kerak edi.",
+  "clues": [
+    "Men kunlarim va tunlarimni muqaddas ma'badda ibodat bilan o'tkazdim, doimo Rabbimga iltijo qildim.",
+    "Men qarib qoldim, xotinim esa bepusht edi, lekin men hech qachon Allohning rahmatidan umidimni uzmadim.",
+    "Menga Yahyo ismli o'g'il berildi, u payg'ambar va solihlik mash'alasi bo'ldi.",
+    "Men o'zim payg'ambar edim, Bani Isroilga hidoyat qilish uchun yuborilgan edim.",
+    "Men Horun payg'ambarning avlodidan edim va Ma'badda ruhoniy bo'lib xizmat qilardim.",
+    "Menga Iso alayhissalomning onasi Maryamga g'amxo'rlik qilish ishonib topshirilgan edi va men uning mo''jizalariga guvoh bo'ldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Zakariyo payg'ambar",
+        "Yahyo payg'ambar",
+        "Payg'ambar Ilyos",
+        "Payg'ambar Ishoq",
+        "Ya'qub payg'ambar"
+      ],
+      "answer": "Zakariyo payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Qarilikda o'g'il ato etdi",
+        "Yonayotgan olovdan qutqarildi",
+        "Baliq qornidan qutqarildi",
+        "Katta suv toshqinidan omon qoldi",
+        "Og'ir kasallikdan davolangan"
+      ],
+      "answer": "Qarilikda o'g'il ato etdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Mihrab (ibodat joyi)",
+        "Ka'ba",
+        "Yonayotgan buta",
+        "Ahd sandig'i",
+        "Yetti uxlab yotganning g'ori"
+      ],
+      "answer": "Mihrab (ibodat joyi)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Payg'ambar bo'lgan solih o'g'ilni berdi",
+        "Kuchli bo'ron tomonidan vayron qilingan",
+        "Dengizda cho'kib ketdi",
+        "Kuyishdan qutulgan",
+        "Baliqdan qutqarilgandan keyin o'z qavmiga qaytib kelishdi"
+      ],
+      "answer": "Payg'ambar bo'lgan solih o'g'ilni berdi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

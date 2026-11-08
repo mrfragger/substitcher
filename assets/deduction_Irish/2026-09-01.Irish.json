@@ -1,0 +1,61 @@
+{
+  "title": "An Guth ó na hImeall",
+  "intro": "Seasann tú i gcathair inar tháinig triúr teachtairí le comharthaí soiléire, ach déanann na daoine magadh fúthu agus cloíonn siad lena sean-nósanna. Ón gcuid is faide den chathair, ritheann figiúr i dtreo an tslua, gan anáil agus diongbháilte, chun an fhírinne a labhairt i bhfianaise an diúltaithe. Cé hé an t-anam seo a chuir gach rud i mbaol ar son teachtaireachta nach leis féin í?",
+  "clues": [
+    "Bhí cónaí orm i measc pobail a fuair teachtairí le comharthaí soiléire, ach d’iompaigh siad uathu le huabhar.",
+    "Tháinig mé ag rith ón gcuid is faide den chathair nuair a chuala mé glaoch na dteachtairí.",
+    "Dúirt mé le mo mhuintir, ‘A mhuintir, leanaigí na teachtairí. Leanaigí iad siúd nach n-iarrann luach saothair oraibh, óir tá siad treoraithe i gceart.’",
+    "Ní raibh mé i mo fháidh, ach chreid mé sna teachtairí agus spreag mé mo mhuintir chun an rud céanna a dhéanamh.",
+    "Rinne mo mhuintir ceap magaidh de mo chomhairle agus chuir siad ina leith mé gur antoisceach mé.",
+    "Nuair a mharaigh siad mé, dúirt Allah liom dul isteach i bParthas, agus ba mhian liom go mbeadh a fhios ag mo mhuintir an maithiúnas agus an onóir a fuair mé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An fear ón gcuid is faide den chathair (Ya-Sin)",
+        "Ceann de na trí theachtaire a seoladh chuig an gcathair",
+        "Ceannaí mór le rá sa chathair",
+        "Rialtóir na cathrach",
+        "Ceannaire na n-easchreidmheach"
+      ],
+      "answer": "An fear ón gcuid is faide den chathair (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag seanmóireacht dá mhuintir na teachtairí a leanúint",
+        "Ag tógáil loinge chun creidmhigh a shábháil ó thuilte",
+        "A bheith caite isteach sa tine ar son creidimh",
+        "Á shlogadh ag míol mór",
+        "Ríocht agus eagna a thabhairt duit"
+      ],
+      "answer": "Ag seanmóireacht dá mhuintir na teachtairí a leanúint"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An chuid is faide den chathair",
+        "An áirc",
+        "An tobar",
+        "An tor dóite",
+        "An uaimh"
+      ],
+      "answer": "An chuid is faide den chathair"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Chuaigh sé isteach i bParthas agus b'fhearr leis go mbeadh a mhaithiúnas ar eolas ag a mhuintir",
+        "Báite lena mhuintir as an teachtaireacht a dhiúltú",
+        "Tugadh míorúilt an chamaill baineann di",
+        "Rinneadh rialóir de tar éis a thriail",
+        "Sábháladh é ag Allah agus d'fhan sé lena mhuintir"
+      ],
+      "answer": "Chuaigh sé isteach i bParthas agus b'fhearr leis go mbeadh a mhaithiúnas ar eolas ag a mhuintir"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

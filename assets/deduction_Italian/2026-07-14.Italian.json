@@ -1,0 +1,61 @@
+{
+  "title": "Le anime della trincea",
+  "intro": "Ti ritrovi catapultato in un'epoca in cui un sovrano spietato esigeva devozione assoluta a false divinità. Una piccola comunità di anime devote si rifiutò, subendo una punizione così severa da essere condannata all'eternità. La loro storia riecheggia nel Corano come testimonianza di una fede incrollabile. Riesci a identificare questo gruppo di fedeli?",
+  "clues": [
+    "Vivevamo in una terra sotto la tirannia di un sovrano che esigeva il culto di false divinità.",
+    "La nostra comunità ha subito gravi persecuzioni unicamente per la nostra fede in Allah soltanto.",
+    "Il sovrano ordinò che venisse scavata una grande trincea e alimentata con fiamme feroci",
+    "Poiché ci siamo rifiutati di rinunciare alla nostra fede, siamo stati gettati uno ad uno in quella fossa ardente.",
+    "La nostra storia è entrata a far parte del Corano, e coloro che ci hanno perseguitato sono stati maledetti in eterno.",
+    "La sura che narra la nostra prova prende il nome dai grandi segni celesti del cielo"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Compagni della trincea (Ashab al-Ukhdud)",
+        "Il popolo della caverna (Ashab al-Kahf)",
+        "Popolo del sabato",
+        "Popolo di A'ad",
+        "Popolo di Thamud"
+      ],
+      "answer": "Compagni della trincea (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "La nostra prova",
+      "options": [
+        "Essere bruciati vivi in ​​una fossa infuocata",
+        "Essere rimasto sigillato in una grotta per molti anni",
+        "Pesca nel giorno sacro di riposo",
+        "Distrutto da un vento ululante",
+        "Uccidere una cammella sacra"
+      ],
+      "answer": "Essere bruciati vivi in ​​una fossa infuocata"
+    },
+    "location": {
+      "label": "L'elemento chiave",
+      "options": [
+        "Una trincea di fuoco fiammeggiante",
+        "Una grotta nascosta con un cane fedele",
+        "Alte colonne di un'antica città condannata",
+        "Abitazioni di montagna scavate nelle pareti rocciose",
+        "Una pianura aperta spazzata da venti violenti"
+      ],
+      "answer": "Una trincea di fuoco fiammeggiante"
+    },
+    "outcome": {
+      "label": "Il nostro risultato",
+      "options": [
+        "Noi siamo stati martirizzati e i persecutori sono stati maledetti in eterno.",
+        "Ci siamo svegliati dopo aver dormito per 309 anni",
+        "Siamo stati trasformati in scimmie per la nostra trasgressione",
+        "Un vento impetuoso e ululante ci ha distrutti tutti",
+        "Un singolo grido devastante ha frantumato la nostra esistenza"
+      ],
+      "answer": "Noi siamo stati martirizzati e i persecutori sono stati maledetti in eterno."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

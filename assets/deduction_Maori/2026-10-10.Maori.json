@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaitātari Huruhuru",
+  "intro": "I roto i tētahi rangatiratanga i raro i te mana o tētahi i whakawhiwhia ki te mana o ngā hau, o ngā mea ngaro, me ngā mea hanga o te rangi, ka ngaro atu tētahi mema iti, tere hoki i te rārangi — ā, ka hoki mai me ngā whakakitenga hei huri i te mutunga o tētahi iwi tawhiti. Nā tēnei kaikōrero kanohi koi i kawe mai te pono ki te māramatanga i te wāhi i ahu mai ai te kuware. Ko wai ahau?",
+  "clues": [
+    "I mahi ahau i roto i tētahi kooti i reira ngā tāngata, ngā mea ngaro, me ngā mea hanga o te rangi e whakautu ana ki tētahi rangatira whakaaro nui kotahi nāna i whakahau ngā hau.",
+    "I ngaro ahau i taku tūranga mō tētahi wā, ā, i oatitia mai ka riri te rangatira mēnā kāore au e hoatu he take e tika ana.",
+    "He mea iti ahau e rere ana, e mōhiotia ana mō te koi o taku tirohanga, ā, i whakahonoretia tōku momo ki te whakaingoa tika i roto i ngā whārangi o te whakakitenga.",
+    "I taku hokinga mai, i kawea mai e au he rongo mō tētahi whenua tawhiti, i takoto ai te iwi ki te rā, e matapo ana ki te Kaihanga o te rangi me te whenua.",
+    "I kite ahau i tētahi wahine e whakahaere ana i tētahi kingitanga nui, e noho ana i runga i tētahi torona kororia, kāhore anō kia mōhio ki te pono i mua.",
+    "Ko au te tangata nāna i kite te kingitanga o Saba', ā, nāku hoki i kawe mai tētahi reta pōwhiri mai i tētahi poropiti-kīngi i tukua ki a ia te mana o te hau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Huhū (Hudhud)",
+        "Te Pōpokorua o te Raorao o Sulaiman",
+        "Āsif ibn Barkhiya",
+        "Ifrit te Jinn",
+        "He Anahera o te Torona"
+      ],
+      "answer": "Te Huhū (Hudhud)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te haerenga ki te rangatiratanga o Saba' (Sheba)",
+        "Te pakanga ki ngā tohunga makutu a Parao",
+        "Te waipuke o te Poropiti a Noa",
+        "Te whakangaromanga o te iwi o 'Ad",
+        "Te wehenga o te Moana Whero"
+      ],
+      "answer": "Te haerenga ki te rangatiratanga o Saba' (Sheba)"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Whenua o Saba' (Sheba)",
+        "Maunga Hinai",
+        "Te Āka a te Poropiti a Noa",
+        "Te Ana o Ashab al-Kahf",
+        "Te Whare o Parao"
+      ],
+      "answer": "Te Whenua o Saba' (Sheba)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I ngohengohe a Bilqis ki te kooti o Sulaiman",
+        "I toremi a Parao rātou ko tana ope taua ki te moana",
+        "I whakangaromia te iwi o 'Ad e te hau nui",
+        "I whakapono ngā tohunga makutu a Parao ki a Mohi",
+        "I pau te hunga whakaponokore i te waipuke nui"
+      ],
+      "answer": "I ngohengohe a Bilqis ki te kooti o Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Əyilən On Bir Ulduz",
+  "intro": "Qurandakı bir fiqura uşaqlıqda dərin bir görüntü — səma cisimlərinin hörmətlə baş əydiyini görmək xəyalı verildi. Bu görüntünün gerçəkləşməsi üçün illər keçdi, xəyanət, ayrılıq, yalan ittihamlar və həbsxana həyatı yaşandı. Quranın ən uzun surəsini əhatə edən bu möhkəm ruh kimdir?",
+  "clues": [
+    "Mən bir vaxtlar gənc idim, hətta öz atamın belə mənə gizli saxlamağımı xəbərdar etdiyi əlamətdar bir yuxu ilə bəxtiyar idim.",
+    "Paxıllıqdan kor olan qardaşlarım mənə qarşı sui-qəsd hazırladılar və məni dərin və qaranlıq bir quyuya atdılar.",
+    "Məni uzaq bir diyara apardılar və nəcib bir məmurun evinə satdılar. Orada lütf tapdım və məsuliyyətim artdı.",
+    "Yalan ittihamlar məni haqsız yerə həbs etməyə gətirib çıxardı, amma o qaranlıq yerdə Allaha dua və səcdə ilə təsəlli tapdım.",
+    "Allah mənə nadir yuxu yozmaq qabiliyyətini bəxş etdi və bu qabiliyyət məni ölkənin hökmdarının hüzuruna gətirdi və yüksək bir etibarlı məqama yüksəltdi.",
+    "Uzun illər ayrılıqdan sonra sevimli ailəmə qovuşdum və nəhayət ki, uşaqlıq arzum - on bir ulduz, günəş və ayın mənə baş əyməsi gerçəkləşdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yusif peyğəmbər",
+        "Peyğəmbər Saleh",
+        "İlyas peyğəmbər",
+        "Qədim Himyar hökmdarı Tubba'",
+        "Fələstin təpələrindən olan təvazökar bir çoban"
+      ],
+      "answer": "Yusif peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qısqanc qardaşlar tərəfindən dərin və qaranlıq bir quyuya atılmaq",
+        "Dərin dənizlərin nəhəng bir məxluqu tərəfindən udulur",
+        "Bütpərəstlər tərəfindən alovlanan oda atılmaq",
+        "İlahi bir məhv küləyi tərəfindən süpürülmək",
+        "Bütün torpağı bürüyən böyük bir daşqından sağ çıxmaq"
+      ],
+      "answer": "Qısqanc qardaşlar tərəfindən dərin və qaranlıq bir quyuya atılmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Tərk edildiyim səhrada quru bir quyu",
+        "Dərin dənizlərin böyük bir balığı",
+        "İlahi əmrlə tikilmiş nəhəng bir gəmi",
+        "Göylərə çatmaq üçün tikilmiş bir qüllə",
+        "Yanmaqdan imtina edən müqəddəs bir od"
+      ],
+      "answer": "Tərk edildiyim səhrada quru bir quyu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İllərdir ayrılıqdan sonra ailəsi ilə yenidən qovuşdu və etibarlı bir keşiş oldu",
+        "Xalqımın iki yerə bölünmüş dənizdən böyük bir köçünə səbəb oldum",
+        "Millətimi onları bürüyən yaxınlaşan fəlakət barədə xəbərdar etdi",
+        "Hamı üçün müqəddəs bir məkana çevrilən bir müqəddəs ev tikdi",
+        "Üç gündən sonra böyük bir məxluqun qarnından sağ-salamat çıxdı"
+      ],
+      "answer": "İllərdir ayrılıqdan sonra ailəsi ilə yenidən qovuşdu və etibarlı bir keşiş oldu"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

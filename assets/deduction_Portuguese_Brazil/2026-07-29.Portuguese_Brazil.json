@@ -1,0 +1,61 @@
+{
+  "title": "A Perseguição Cortesã",
+  "intro": "Nos corredores do poder, uma figura de alto status se apaixonou por uma serva de beleza sobrenatural. Essa paixão desencadeou uma série de eventos que testariam lealdades, revelariam verdades ocultas e, por fim, confirmariam a inocência da serva.",
+  "clues": [
+    "Vivi na terra do Nilo, em um palácio de grande influência.",
+    "Um jovem entrou na minha casa e a sua presença perturbou o meu mundo.",
+    "Tentei seduzi-lo, mas ele buscou refúgio em seu Senhor.",
+    "Rasguei sua roupa por trás, mas as evidências apontavam para o meu engano.",
+    "Para silenciar as fofocas das nobres, convidei-as para uma reunião e coloquei objetos pontiagudos em suas mãos.",
+    "No fim, confessei publicamente minha culpa, reconhecendo a verdade perante o rei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A esposa de Al-Aziz",
+        "Asiya (Esposa do Faraó)",
+        "Bilqis (Rainha de Sabá)",
+        "Maria (Mãe de Isa)",
+        "A mãe de Moisés"
+      ],
+      "answer": "A esposa de Al-Aziz"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Ela tentou seduzir o profeta Yusuf.",
+        "Ela tentou matar o profeta Moisés.",
+        "Ela afirmava ser uma deusa.",
+        "Ela construiu uma torre para desafiar Alá.",
+        "Ela liderou um exército contra Meca."
+      ],
+      "answer": "Ela tentou seduzir o profeta Yusuf."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma camisa rasgada nas costas",
+        "Um bezerro de ouro",
+        "Um cajado que se transformou em serpente.",
+        "Uma camela",
+        "Uma lâmpada"
+      ],
+      "answer": "Uma camisa rasgada nas costas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ela confessou e reconheceu a verdade.",
+        "Ela se afogou junto com seu exército.",
+        "Ela se transformou em uma estátua de sal.",
+        "Ela foi engolida pela terra.",
+        "Ela foi destruída por um vento uivante."
+      ],
+      "answer": "Ela confessou e reconheceu a verdade."
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

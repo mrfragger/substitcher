@@ -1,0 +1,60 @@
+{
+  "title": "De Schlof vun den Zäitalteren",
+  "intro": "Dir sidd amgaang eng Rees duerch d'Zäit ze maachen, wou Dir e grousst Geheimnis vum Glawen a vun der göttlecher Kraaft begéint. Stellt Iech eng Grupp vu Leit vir, déi sech géint d'Norme vun hirer Gesellschaft gestallt hunn a sech an enger Welt vum Polytheismus un de Monotheismus festhalen. Hir Geschicht ass en Zeie vun der Fäegkeet vum Allah, seng gerecht Dénger op déi aussergewéinlechst Manéier ze schützen. Kënnt Dir d'Identitéit vun dëse bemierkenswäerte Figuren entdecken?",
+  "clues": [
+    "Mir waren eng kleng Grupp vu jonke Männer, déi un ee Gott gegleeft hunn, trotz dem verbreeten Polytheismus vun eisem Vollek.",
+    "Mir sinn virun engem tyranneschen Herrscher geflücht, deen eis wéinst eisem Glawen menacéiert huet, aus Angscht virun Verfollegung an Doud.",
+    "Mir hunn op enger ofgeleeëner Plaz Zuflucht gesicht, an der Hoffnung op Allahs Barmhäerzegkeet a Schutz virun eisen Ënnerdrécker.",
+    "Eise Här huet eis an en déiwe Schlof fale gelooss, e wonnerbare Schlof, deen dem Verlaf vun der Zäit trotzdem getrotz huet.",
+    "Wéi mir erwächt sinn, hu mir gegleeft, datt mir nëmmen een Dag oder en Deel vun engem Dag ausgerout hätten, ouni eis bewosst ze sinn iwwer déi laang Zäit, déi wierklech vergaangen war.",
+    "De Koran erzielt, datt mir dräihonnert Joer an eisem Staat bliwwe sinn, an dat ëm néng Joer iwwerschratt hunn, andeems mir e Zeechen fir d'Mënschheet goufen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Leit vum Gruef",
+        "D'Leit vun Thamud",
+        "D'Leit vun der Höhl",
+        "D'Leit vu Madyan",
+        "D'Begleeder vum Elefant"
+      ],
+      "answer": "D'Leit vun der Höhl"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Mat enger grousser Iwwerschwemmung konfrontéiert",
+        "Vun der Äerd verschléckt ginn",
+        "De laange wonnerbare Schlof",
+        "D'Zerstéierung vun hirer Stad",
+        "D'Spaltung vum Mier"
+      ],
+      "answer": "De laange wonnerbare Schlof"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E brennende Busch",
+        "E Bierg",
+        "E Boot",
+        "Eng Höhl",
+        "E Brunn"
+      ],
+      "answer": "Eng Höhl"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si kruten immense Räichtum a Muecht zougesprach",
+        "Si goufen an Affen a Schwäin verwandelt",
+        "Si goufen aus dem Schlof als e staarkt Zeechen erwächt",
+        "Si sinn an enger grousser Iwwerschwemmung erdronk",
+        "Si hunn e prächtegt Kinnekräich gebaut"
+      ],
+      "answer": "Si goufen aus dem Schlof als e staarkt Zeechen erwächt"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

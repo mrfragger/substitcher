@@ -1,0 +1,61 @@
+{
+  "title": "An Chathair Chaillte de Mhórgacht Gan Shampla",
+  "intro": "Bhí sibhialtacht chumhachtach i réim tráth ar stráicí fairsinge an domhain, a raibh cáil uirthi as a struchtúir arda a shroich suas go dtí na spéartha. Ach faoin mhéid seo, d'fhás séanadh righin - diúltú aird a thabhairt ar an rabhadh diaga a seoladh ón bpobal féin. Go luath, thiocfadh pionós nach bhfaca an domhan ná na flaithis riamh roimhe mar gheall ar an uabhar agus an t-uabhar.",
+  "clues": [
+    "Rialaíomar tráth thar stráicí fairsinge an domhain, ag déanamh mórtais as neart nár chreid muid nach bhféadfadh aon sibhialtacht eile a shárú.",
+    "Bhí cáil ar ár ríocht as struchtúir arda le piléir chumhachtacha a sheas gan sárú ar fud aon tír ar a raibh aithne againn.",
+    "D’éirigh rabhaidh ónár bpobal féin suas, ag impí orainn go léir géilleadh don Aon Chruthaitheoir amháin.",
+    "Shéanamar an teachtaireacht a seachadadh dúinn agus dhiúltaíomar an cosán a bhí mar oidhreacht againn a thréigean.",
+    "Scaoileadh gaoth fíochmhar, ulcach, déine thar a bheith déine inár n-aghaidh, ag fágáil gan chosaint ar bith muid.",
+    "Fágadh sinn cosúil le stoic logaithe crainn pailme, scaipthe agus dearmadta, mar cheacht do gach glúin ina dhiaidh sin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir A'ad",
+        "Muintir Nuh",
+        "Muintir Lut",
+        "Muintir Madyan",
+        "Muintir Tubba'"
+      ],
+      "answer": "Muintir A'ad"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Gaoth raging gan staonadh de phionós dian",
+        "Tuile a chlúdaigh gach buaic sléibhe",
+        "Báisteach clocha cré dóite ó thuas",
+        "Scread uafásach amháin ó na flaithis",
+        "Crith talún foréigneach a scoilt an talamh"
+      ],
+      "answer": "Gaoth raging gan staonadh de phionós dian"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Iram, cathair na bpiléar arda",
+        "Áirc ollmhór adhmaid tógtha ar shliabh",
+        "Camall baineann a tháinig amach go míorúilteach as cloch",
+        "Sliabh Shíonáí áit ar tháinig orduithe Dé anuas",
+        "Pálás criostail agus gloine bhreá ag breathnú amach ar uiscí sreabhacha"
+      ],
+      "answer": "Iram, cathair na bpiléar arda"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Fágtha cosúil le stoic log crainn pailme, scaipthe agus gan bheatha",
+        "Báite faoi thonnta móra tuile mhóir",
+        "Claochlaithe ina gcréatúir cosúil le apaí agus muca",
+        "Brúite faoi bháisteach clocha cré cruaite",
+        "Ídithe i nglaoch bodhar amháin a tholladh an anam"
+      ],
+      "answer": "Fágtha cosúil le stoic log crainn pailme, scaipthe agus gan bheatha"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

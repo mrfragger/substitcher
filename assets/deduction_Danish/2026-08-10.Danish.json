@@ -1,0 +1,61 @@
+{
+  "title": "Vogterne af den hemmelige høst",
+  "intro": "I et grønt land lavede en gruppe individer en hemmelig plan i ly af mørket. De delte et fælles formål, men deres intention var langt fra retfærdig. De vidste ikke, at en guddommelig drejning ventede dem, mens de sov.",
+  "clues": [
+    "Vi traf en fast beslutning, idet vi mente, at vores plan var fejlfri.",
+    "Vi havde til hensigt at gå tidligt ud, før andre overhovedet kunne nå at røre sig.",
+    "Vi begav os ud på en frugtbar grund, tillidsfulde i vores forsyninger.",
+    "Da vi nåede vores destination, fandt vi den gold og øde, så vi troede, vi var faret vild.",
+    "Så indså vi, at det faktisk var vores sted, og vi råbte ud i fortvivlelse og gav hinanden skylden for vores tab.",
+    "Vi havde svoret den morgen at udelukke de fattige fra vores høst, men Allahs straf kom over os, mens vi sov, og forvandlede vores have til ruiner."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Havens ejere i Surah 68",
+        "Sabas folk",
+        "Hulens ledsagere",
+        "Elefantens folk",
+        "Folket i skyttegraven"
+      ],
+      "answer": "Havens ejere i Surah 68"
+    },
+    "trial": {
+      "label": "Vores prøve",
+      "options": [
+        "Vores have blev ødelagt af en ulykke fra himlen",
+        "Vores have blev oversvømmet",
+        "Vores have blev brændt af en fjendeild",
+        "Vores have var fyldt med græshopper",
+        "Vores have blev opslugt af et jordskælv"
+      ],
+      "answer": "Vores have blev ødelagt af en ulykke fra himlen"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Vi svor at plukke dens frugter om morgenen",
+        "Vi byggede en dæmning for at vande vores have",
+        "Vi søgte tilflugt i en hule for beskyttelse",
+        "Vi forberedte en hær til at erobre et kongerige",
+        "Vi sejlede et skib for at krydse havet"
+      ],
+      "answer": "Vi svor at plukke dens frugter om morgenen"
+    },
+    "outcome": {
+      "label": "Vores skæbne",
+      "options": [
+        "Vi angrede og håbede på nåde fra Allah",
+        "Vi blev fuldstændig ødelagt og omvendte os aldrig",
+        "Vi flygtede fra landet og vendte aldrig tilbage",
+        "Vi blev magtfulde og rige igen",
+        "Vi blev straffet ved at blive forvandlet til aber"
+      ],
+      "answer": "Vi angrede og håbede på nåde fra Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

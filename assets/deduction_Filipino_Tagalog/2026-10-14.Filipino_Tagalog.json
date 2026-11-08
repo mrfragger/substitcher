@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Sumira sa Tipan na Tinapon",
+  "intro": "Noong mga unang araw ng isang bagong tatag na komunidad, isang tribo ang dating nanirahan sa mga nakukutaang tirahan, na nakatali sa isang kasunduan. Nang ang kasunduang iyon ay ipagkanulo, ang mga bunga nito ay umalingawngaw sa mga pahina ng Quran. Sino ang mga taong ito, at ano ang nangyari sa kanilang mga tahanan at mga taniman ng prutas?",
+  "clues": [
+    "Nanatili kami sa mga kuta na nagbigay sa amin ng maling pakiramdam ng seguridad.",
+    "Tayo noon ay mga tao ng Kasulatan, ngunit sinira natin ang ating tipan.",
+    "Nagplano kami laban sa mensahero pagkatapos niyang pumunta sa amin, ngunit nabigo ang aming plano.",
+    "Ang aming mga puno ng palma ay pinutol sa utos ni Allah, isang tanda ng Kanyang kapangyarihan.",
+    "Pinalayas kami sa aming mga tahanan, at hindi na muling nakabalik, bilang parusa sa aming pagsuway.",
+    "Binanggit tayo ng Quran sa kabanata ng pagtitipon, at ang ating kwento ay nagsisilbing babala para sa mga lumalabag sa kasunduan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Mga Tao ng Madyan",
+        "Ang mga tao ng Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagkubkob at pagpapalayas mula sa kanilang mga tahanan",
+        "Pagkalunod sa dagat",
+        "Nilalamon ng lupa",
+        "Pagkawasak ng bagyo",
+        "Pagiging mga unggoy"
+      ],
+      "answer": "Pagkubkob at pagpapalayas mula sa kanilang mga tahanan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Pinutol ang mga puno ng palma",
+        "Ang mga kawani",
+        "Ang arka",
+        "Ang balon ng tubig",
+        "Ang kuweba"
+      ],
+      "answer": "Pinutol ang mga puno ng palma"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ipinatapon at kinuha ang kanilang ari-arian",
+        "Bumalik na matagumpay",
+        "Pinatawad at nanatili",
+        "Agad na pumasok sa paraiso",
+        "Tinamaan ng salot"
+      ],
+      "answer": "Ipinatapon at kinuha ang kanilang ari-arian"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

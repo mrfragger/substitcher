@@ -1,0 +1,61 @@
+{
+  "title": "Ozvěna klamu",
+  "intro": "Příbuzenské pouto prověřila vlna závisti. Vznikl tajný plán, který spustil řetězec událostí, jež se měly rozprostírat po celé roky a překonat obrovské vzdálenosti. Činy této skupiny vedly k hlubokému odloučení a zármutku, ale příběh tím nekončil. Je to příběh o klamu, lítosti a konečném naplnění božského plánu. Dokážete odhalit identitu těchto jednotlivců, jejichž volby se odrážely napříč generacemi?",
+  "clues": [
+    "Spalovala nás žárlivost kvůli náklonnosti projevované jednomu z našich.",
+    "V naší závisti jsme se spikli a hodili našeho sourozence do temnoty studny.",
+    "Abychom zakryli svůj čin, darovali jsme otci oděv potřísněný falešnou krví.",
+    "O několik let později nás krutý hladomor donutil cestovat do Egypta, abychom hledali zásoby.",
+    "Tam jsme stáli před mocným guvernérem, který, aniž bychom to věděli, byl ten samý bratr, kterému jsme ukřivdili.",
+    "Naší poslední zkouškou bylo přivést našeho nejmladšího bratra Benjamína, což vedlo k odhalení naší minulosti a toho, že naším otcem byl prorok Jakub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Synové Adamovi (Qabil a Habil)",
+        "Učedníci proroka Isaa",
+        "Bratři proroka Jusufa",
+        "Lidé z Madyanu",
+        "Kouzelníci z Far'awnu"
+      ],
+      "answer": "Bratři proroka Jusufa"
+    },
+    "trial": {
+      "label": "Jaký byl náš hlavní prohřešek?",
+      "options": [
+        "Stavba zlatého telete k uctívání",
+        "Požadavek na přímé setkání s Alláhem",
+        "Zesměšňování proroka za to, že postavil archu",
+        "Klameme našeho otce a opouštěme našeho bratra",
+        "Porušení sabatu rybolovem"
+      ],
+      "answer": "Klameme našeho otce a opouštěme našeho bratra"
+    },
+    "location": {
+      "label": "Jaký objekt byl ústředním bodem našeho klamu?",
+      "options": [
+        "Sada nápisových tabulek",
+        "Košile potřísněná falešnou krví",
+        "Zlaté tele",
+        "Krásný pták (dudek obecný)",
+        "Hůl, která se proměnila v hada"
+      ],
+      "answer": "Košile potřísněná falešnou krví"
+    },
+    "outcome": {
+      "label": "Jaký byl konečný výsledek našeho příběhu?",
+      "options": [
+        "Byli jsme zničeni mohutnou povodní",
+        "Byli jsme proměněni v opice",
+        "Byli jsme pohlceni zemí",
+        "Bylo nám odpuštěno a znovu jsme se sešli s naší rodinou",
+        "Utopili jsme se v moři"
+      ],
+      "answer": "Bylo nám odpuštěno a znovu jsme se sešli s naší rodinou"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

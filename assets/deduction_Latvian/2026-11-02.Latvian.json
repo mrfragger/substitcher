@@ -1,0 +1,61 @@
+{
+  "title": "Nelokāmais sabiedrotais zelta pārbaudījumā",
+  "intro": "Diža pravieša ēnā tika izvēlēta daiļrunīga un ticīga dvēsele, lai palīdzētu monumentālā misijā. Šī persona stingri turējās pie sava, kad masas svārstījās, sludinot pret klaju pārkāpumu, kas apdraudēja monoteisma pašu būtību. Kad pravietis atgriezās, lai liecinātu tautas grēkā krišanai, šī persona aizstāvējās nevis vainas, bet gan pienākuma un baiļu no šķelšanās vārdā. Kas ir šis uzticīgais Allāha kalps?",
+  "clues": [
+    "Allāhs mani izvēlējās svētam pienākumam līdzās citam, un mana loma bija atbalstīt un sludināt.",
+    "Man tika dota skaidra runa, un es pavadīju vēstnesi, lai stātos pretī varenam apspiedējam.",
+    "Kritiska ceļojuma laikā vēstnesis viens pats uzkāpa kalnā, atstājot mani pieskatīt cilvēkus.",
+    "Viņu prombūtnes laikā ļaudis izgatavoja zelta tēlu, un es lūdzu viņus palikt uzticīgiem, bet viņi atteicās uzklausīt manu padomu.",
+    "Kad vēstnesis atgriezās, dusmu un bēdu pārņemts, mani pārņēma, bet es paskaidroju, ka esmu ticis pārspēts un baidos izraisīt nesaskaņas viņu starpā.",
+    "Es esmu pravietis, kas stāvēja blakus Musam, savam brālim, daloties viņa nasta un paliekot nelokāms pret elkdievību."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Haruns",
+        "Pravietis Musa",
+        "Pravietis Isa",
+        "Pravietis Davuds",
+        "Pravietis Zakarija"
+      ],
+      "answer": "Pravietis Haruns"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Cilvēki pielūdza zelta teļu, neskatoties uz brīdinājumiem",
+        "Cilvēki mani iemeta liesmojošā ugunī",
+        "Mani aprija liela zivs",
+        "Mani ieslodzīja, pamatojoties uz nepatiesām apsūdzībām",
+        "Mani izraidīja no savas pilsētas par sludināšanu"
+      ],
+      "answer": "Cilvēki pielūdza zelta teļu, neskatoties uz brīdinājumiem"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš",
+        "Degošais krūms",
+        "Personāla, kas pārvērtās par čūsku",
+        "Derības plāksnes",
+        "Derības šķirsts"
+      ],
+      "answer": "Zelta teļš"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Es tiku attaisnots un turpināju savu pravietisko misiju",
+        "Es tiku sodīts par tautas grēkiem",
+        "Man tika dota jauna tauta, kuru vadīt",
+        "Es tiku dzīvs pacelts debesīs",
+        "Es tiku iecelts par valdnieku pār karaļvalsti"
+      ],
+      "answer": "Es tiku attaisnots un turpināju savu pravietisko misiju"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Séanadh i measc na Flúirse",
+  "intro": "Tá tú i measc daoine a bhfuil a margaí ag borradh le trádáil, ach a scálaí ag claonadh go mímhacánta. Tá teachtaire tagtha chucu le rabhaidh shoiléire, ach déanann siad gáire agus casann siad uathu, muiníneach as a rathúnas. Tosaíonn an spéir ag dorchadú, ach feiceann siad é mar bheannacht báistí. Cé hiad na daoine seo?",
+  "clues": [
+    "D’éirigh linn i dtíortha tráchtála agus flúirseacha, ach d’fhás ár gcroíthe crua.",
+    "Tháinig teachtaire chugainn le comharthaí ónár dTiarna, ach rinneamar magadh faoina rabhaidh.",
+    "Bhí cáil orainn as ár gceird, ach thugamar gearr-thomhas agus mheallamar na daoine.",
+    "Bhí cónaí orainn i measc crainn dlútha agus fásra flúirseach, ach ghlacamar lenár mbeannachtaí mar rud cinnte.",
+    "Nuair a tháinig scamall dorcha i ngar dúinn, rinneamar áthas, ag smaoineamh go dtabharfadh sé báisteach dár gcríocha tirime.",
+    "Ina áit sin, scaoil an scamall sin pionós loiscneach, agus ghabh céasadh lá an scátha sinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Ashab al-Aykah (Compánaigh na Coille)",
+        "Muintir Thamud",
+        "Muintir 'Ad",
+        "Muintir Lut",
+        "Muintir Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Compánaigh na Coille)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Dhiúltaigh siad dá dteachtaire agus rinne siad calaois sa trádáil",
+        "Rinne siad adhradh do lao órga agus cuireadh ar strae iad",
+        "Chleacht siad sodamaíocht agus rinne siad ionsaí ar thaistealaithe",
+        "Thóg siad túir arda agus thug siad dúshlán do Dhia",
+        "Dhiúltaigh siad uisce a roinnt agus rinne siad dochar do chamall baineann."
+      ],
+      "answer": "Dhiúltaigh siad dá dteachtaire agus rinne siad calaois sa trádáil"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Foraois nó toir dhlúth",
+        "Sliabh snoite ina áitribh",
+        "Cathair cois farraige",
+        "Gleann fásaigh le tobair",
+        "Gairdín thorthúil le go leor torthaí"
+      ],
+      "answer": "Foraois nó toir dhlúth"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosta ag scamall scáth tine",
+        "Báite ag tuile mhór",
+        "Slogtha ag crith talún",
+        "Buailte ag gaoth fhoréigneach",
+        "Iompú ina chloch"
+      ],
+      "answer": "Scriosta ag scamall scáth tine"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Haven der forsvandt natten over",
+  "intro": "Forestil dig en frodig have, fyldt med modnende frugter og omgivet af tårnhøje træer. De, der passede den, syntes, de var kloge og planlagde deres høst i de stille timer før daggry, væk fra de trængendes øjne. Men Ham, der aldrig sover, havde andre planer for deres skjulte overflod. Kan du gætte, hvem der står bag denne advarende fortælling fra Koranen?",
+  "clues": [
+    "Vi havde engang en have så frodig og overdådig, at den blev misundt af alle, der gik forbi.",
+    "I vores planlægning hviskede vi til hinanden tidligt om morgenen og erklærede, at ingen trængende sjæl ville få adgang den dag.",
+    "Vi var velhavende mennesker, og vores hjerter var blevet blinde for de fattiges rettigheder omkring os.",
+    "Da dagen for vores planlagte høst oprandt, nærmede vi os vores have, kun for at opdage, at den natten over var forvandlet til en sortbrun ruin.",
+    "Et ødelæggende dekret fejede igennem og efterlod intet andet end aske, hvor klaser af moden frugt engang havde hængt.",
+    "Vores fortælling er en streng advarsel nedskrevet i Koranen, hvor vi er kendt som havens ejere, der tilbageholdt velgørenhed fra de trængende."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Ejerne af haven",
+        "Folkene i hulen",
+        "Isa's disciple",
+        "Skovens ledsagere",
+        "Ibrahims gæster"
+      ],
+      "answer": "Ejerne af haven"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Hemmelighedsfuld høst af frugt og udelukkelse af de fattige",
+        "Sovende i århundreder inde i en hule",
+        "Nægter at frembringe en hunkamel af sten",
+        "Tilbedelse af en guldkalv ved Sinaibjerget",
+        "Bygger en stor ark for at undslippe en oversvømmelse"
+      ],
+      "answer": "Hemmelighedsfuld høst af frugt og udelukkelse af de fattige"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En muromkranset have fyldt med palmer og vinstokke",
+        "En mørk hule dybt inde i bjergene",
+        "En by overtaget af en guddommelig orkan",
+        "En hellig dal nær Allahs hus",
+        "Bredderne af en strømmende flod"
+      ],
+      "answer": "En muromkranset have fyldt med palmer og vinstokke"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Haven blev fortæret af et brændende dekret fra himlen",
+        "De sov fredeligt i 309 måneår",
+        "De blev knust af en regn af sten",
+        "De druknede under bølgerne af en stor oversvømmelse",
+        "De blev spredt af en kold, rasende vindpust"
+      ],
+      "answer": "Haven blev fortæret af et brændende dekret fra himlen"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

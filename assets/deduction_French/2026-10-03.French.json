@@ -1,0 +1,61 @@
+{
+  "title": "La veillée à la porte flamboyante",
+  "intro": "Une multitude silencieuse et redoutable veille à un seuil terrifiant, sans jamais goûter ni à la nourriture, ni à la boisson, ni au repos. Façonnés d'une substance différente de l'argile humaine, ils attendent un unique dessein funeste – et ils n'ont jamais désobéi à un seul commandement de leur Seigneur.",
+  "clues": [
+    "Nous sommes des êtres différents des humains, créés à partir d'une substance qui ne mange, ne boit et ne se fatigue pas.",
+    "Notre nombre exact est connu et révélé dans le Livre — nous ne sommes ni innombrables ni une multitude.",
+    "Nous n'avons jamais désobéi à notre Créateur, et nous ne parlons jamais sans y avoir été invités.",
+    "Lorsque ce jour arrivera, les incrédules seront conduits vers nous par groupes, et nous leur ouvrirons les portes.",
+    "Nous leur demanderons : « Des messagers de votre peuple ne vous sont-ils pas venus pour vous avertir de ce Jour ? »",
+    "Nous gardons un lieu d'où aucune âme ne sort jamais — un domaine ardent de châtiment éternel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les Gardiens de l'Enfer (Zabaniyah)",
+        "Les porteurs du trône d'Allah",
+        "Les anges de l'enregistrement (Kiraman Katibin)",
+        "Les anges de la mort",
+        "Les gardiens du paradis"
+      ],
+      "answer": "Les Gardiens de l'Enfer (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Notre devoir principal",
+      "options": [
+        "Gardiens des portes de l'enfer",
+        "Consigner chaque acte humain",
+        "Porter le trône d'Allah",
+        "Prendre les âmes des défunts",
+        "Maîtriser les vents et les nuages"
+      ],
+      "answer": "Gardiens des portes de l'enfer"
+    },
+    "location": {
+      "label": "Que protégeons-nous ?",
+      "options": [
+        "Le feu de l'enfer",
+        "Le Trône d'Allah",
+        "Les rouleaux des exploits",
+        "Les fleuves du paradis",
+        "Les montagnes de la Terre"
+      ],
+      "answer": "Le feu de l'enfer"
+    },
+    "outcome": {
+      "label": "Le destin de ceux qui se trouvent dans notre domaine",
+      "options": [
+        "Ils resteront à jamais et ne partiront jamais.",
+        "Ils seront finalement graciés et libérés.",
+        "Ils seront purifiés au fil du temps.",
+        "Ils seront transformés en d'autres formes",
+        "Ils alterneront entre l'enfer et le paradis"
+      ],
+      "answer": "Ils resteront à jamais et ne partiront jamais."
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

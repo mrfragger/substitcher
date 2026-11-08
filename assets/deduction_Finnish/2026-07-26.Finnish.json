@@ -1,0 +1,61 @@
+{
+  "title": "Kruunu, joka haastoi taivaan",
+  "intro": "Muinaisten kuningaskuntien käytävillä yhden hallitsijan nimestä tuli tyrannian ja ylimielisyyden kuvaus. Kun nöyrä Allahin palvelija saapui paikalle kiistattomia merkkejä kantaen, tämä mahtava hallitsija kieltäytyi alistumasta totuudelle. Tänään tehtäväsi on tunnistaa tämä legendaarinen hahmo, jonka valta mureni ja jonka kohtalo sinetöitiin aaltojen alla.",
+  "clues": [
+    "Olen pelätyin hallitsija, jonka nimi kaikuu edelleen varoituksena läpi aikojen.",
+    "Käskin kokonaisen kansan työskennellä kahleissa ja pystyttää muistomerkkejä, jotka julistivat kunniaani.",
+    "Kun Allahin lähettiläs tuli eteeni kiistattomien merkkien kanssa, kieltäydyin kumartamasta ja kutsuin sitä noituudeksi.",
+    "Määräsin vangittujen ihmisten poikavauvojen tappamisen toivoen murskaavani heidän henkensä ennen kuin he ehtisivät nousta ylös.",
+    "Seisoin hovini edessä ja julistin: \"Olen teidän korkein herranne\", vaatien palvontaa jumalana.",
+    "Pääministerini rinnallani rakensin korkean rakennelman, jonka tavoitteena oli kiivetä taivaiden tuolle puolen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Faarao (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faarao (Fir'awn)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Hukkuminen Punaisessameressä",
+        "Thamudin kansalle lähetetty naaraskameli",
+        "Nuhin suuri tulva",
+        "Juoksuhaudan seuralaisten rangaistus",
+        "Lintujen tuhoama Abraha-armeija"
+      ],
+      "answer": "Hukkuminen Punaisessameressä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Hamanin kanssa rakennettu tornimainen rakennelma",
+        "Arkki, joka purjehti tulvan yli",
+        "Samirien muovaama kultainen vasikka",
+        "Saban kuningattaren Bilqisin valtaistuin",
+        "Nukkuvien nuorten luola"
+      ],
+      "answer": "Hamanin kanssa rakennettu tornimainen rakennelma"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hukkui mereen; ruumis säilyi varoituksena",
+        "Karkotettu ja pakotettu vaeltamaan erämaassa",
+        "Muuttuivat apinoiksi rangaistukseksi",
+        "Voimakas maanjäristys iski maahan",
+        "Taivaasta sataneen kiven polttama"
+      ],
+      "answer": "Hukkui mereen; ruumis säilyi varoituksena"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

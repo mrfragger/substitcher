@@ -1,0 +1,61 @@
+{
+  "title": "Dai la Mamlaka Kamilifu",
+  "intro": "Katika nyakati za kale, mtu mwenye nguvu aliinuka kutawala nchi kubwa na wakazi wake. Utawala wa mtu huyu ulionyeshwa na kiburi kikubwa na changamoto kubwa kwa mamlaka ya kimungu. Jiandae kufichua utambulisho wa roho ambayo hatima yake ya mwisho ikawa somo la kudumu kwa vizazi vyote.",
+  "clues": [
+    "Nilitawala juu ya himaya yenye nguvu, ambapo neno langu lilikuwa sheria.",
+    "Nilijitangaza kuwa mungu mkuu, nikidai ibada kutoka kwa wote walio chini ya utawala wangu.",
+    "Nilikandamiza jamii fulani, nikawafanya watumwa na kuamuru kuuawa kwa watoto wao wachanga wa kiume.",
+    "Nilikabiliwa mara kwa mara na mjumbe mnyenyekevu wa Mungu, ambaye alifanya miujiza iliyo wazi mbele yangu na wachawi wangu.",
+    "Nilikataa ukweli kwa ukaidi, nikimtuhumu mjumbe huyo kwa uchawi na kupanga njama ya kumwangamiza yeye na wafuasi wake.",
+    "Mimi na jeshi langu lote tulizingirwa na bahari tulipokuwa tukiwafuatilia bila kuchoka wale waliokuwa wameachiliwa kutoka mikononi mwangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nimrodi",
+        "Abu Jahl",
+        "Iblis",
+        "Firauni",
+        "Hamani"
+      ],
+      "answer": "Firauni"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Gharika Kuu",
+        "Moto Unaowaka",
+        "Kuzama kwa Mkandamizaji",
+        "Uharibifu wa Upepo",
+        "Tetemeko la Ardhi la Kutokuamini"
+      ],
+      "answer": "Kuzama kwa Mkandamizaji"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Safina ya Nuhu",
+        "Fimbo ya Musa",
+        "Sanamu ya Dhahabu",
+        "Kisima cha Zamzam",
+        "Kiti cha Enzi cha Bilqis"
+      ],
+      "answer": "Fimbo ya Musa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imepewa ufalme mkubwa",
+        "Mwili umehifadhiwa kama ishara",
+        "Kusamehewa baada ya toba",
+        "Kuinuliwa hadi unabii",
+        "Watu wake wakawa wachamungu"
+      ],
+      "answer": "Mwili umehifadhiwa kama ishara"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

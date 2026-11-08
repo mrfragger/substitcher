@@ -1,0 +1,61 @@
+{
+  "title": "El guardián de la puerta del sol naciente",
+  "intro": "A lo largo del Corán, ciertas almas recorren la tierra dejando huellas de sabiduría y asombro. Una de ellas viajó a los confines de la creación, donde sale y se pone el sol, donde una barrera contiene el caos mismo. A este siervo de Alá se le concedió un reino que nadie volvería a poseer jamás. A través de tres viajes distintos, el propósito de este individuo se hizo evidente. ¿Puedes identificar a este legendario viajero entre las sombras de la historia?",
+  "clues": [
+    "El Misericordioso me otorgó autoridad para gobernar la tierra de una manera que nadie más ha logrado jamás.",
+    "Viajé hacia el oeste hasta llegar al lugar donde se pone el sol, encontrándolo ocultándose en un manantial turbio, y allí presencié la presencia de un pueblo.",
+    "Viajé hacia el este hasta llegar al lugar donde sale el sol, y lo encontré saliendo sobre un pueblo para el cual no habíamos provisto ningún refugio contra él.",
+    "Viajé entre esos dos puntos extremos hasta llegar a un valle entre dos montañas, donde encontré a un pueblo que apenas podía entender el lenguaje hablado.",
+    "En la montaña encontré dos sólidas barreras de hierro que se extendían a derecha e izquierda, y entre ellas, un estrecho pasaje. Aquellas personas me pidieron que derribara la barrera que contenía el caos.",
+    "Tomé mi provisión y dije: «Cuando la barrera se rompa, habrá una clara separación entre nosotros y esta gente». Y cuando llegó el momento señalado, observé cómo la barrera finalmente se rompía."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Profeta Sulayman",
+        "Profeta Ibrahim",
+        "El rey de Ghassaniyah",
+        "Dhul-Qarnain el Errante"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Rompiendo la barrera de hierro para la gente de Yajuj y Majuj.",
+        "Construyendo el barco bajo el mando de un profeta",
+        "Construcción de un templo en Jerusalén",
+        "Cruzando el Mar Rojo con los creyentes",
+        "Construir una represa para proteger a una nación justa."
+      ],
+      "answer": "Rompiendo la barrera de hierro para la gente de Yajuj y Majuj."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La barrera de hierro entre dos montañas",
+        "El barco ancló en una montaña.",
+        "La casa sagrada de culto en Jerusalén",
+        "El río en la tierra de Egipto",
+        "El pozo de las bendiciones en Madyan"
+      ],
+      "answer": "La barrera de hierro entre dos montañas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "La barrera se rompió cuando llegó el momento señalado, y el caos se desató.",
+        "Los incrédulos se ahogaron mientras que los creyentes se salvaron.",
+        "Los justos fueron guiados al paraíso eterno.",
+        "La ciudad fue destruida por un viento aullador.",
+        "Los ídolos fueron destruidos y el pueblo se arrepintió."
+      ],
+      "answer": "La barrera se rompió cuando llegó el momento señalado, y el caos se desató."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

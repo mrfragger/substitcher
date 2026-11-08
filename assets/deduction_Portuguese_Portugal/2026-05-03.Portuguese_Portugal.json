@@ -1,0 +1,61 @@
+{
+  "title": "Os Buscadores Adormecidos da Verdade",
+  "intro": "Imagine uma época em que a fé foi posta à prova e um grupo de pessoas escolheu a convicção inabalável em vez do conforto mundano. Diante de uma escolha difícil, buscaram refúgio, embarcando em uma jornada que os levou a um sono profundo e extraordinário. Sua história é um testemunho da proteção divina e do poder da fé contra a opressão. Você consegue discernir a identidade desses indivíduos notáveis?",
+  "clues": [
+    "Éramos uma pequena assembleia, unidos por uma profunda crença no Criador Único.",
+    "Vivíamos numa época em que um governante poderoso exigia a adoração de outros deuses além de Alá.",
+    "Para preservar nossa fé, decidimos abandonar nossos lares e fugir da opressão.",
+    "Um companheiro leal, uma criatura da terra, nos acompanhou em nossa jornada.",
+    "Encontramos refúgio em um lugar isolado, onde Alá nos fez cair em um sono profundo e prolongado.",
+    "Ao acordarmos, acreditávamos que apenas um dia ou parte de um dia havia passado, mas na verdade séculos haviam se passado."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O Povo da Valeta",
+        "O povo de Thamud",
+        "O povo de Sabá'",
+        "O Povo da Caverna",
+        "O povo de Madyan"
+      ],
+      "answer": "O Povo da Caverna"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Sendo testado em uma terra árida",
+        "Diante de uma grande inundação",
+        "Buscando refúgio de um governante tirano",
+        "Ser lançado em um fogo ardente",
+        "Desafiando a magia de um feiticeiro"
+      ],
+      "answer": "Buscando refúgio de um governante tirano"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Um grande palácio",
+        "Um navio/arca",
+        "Um poço profundo",
+        "Uma caverna",
+        "Uma montanha imponente"
+      ],
+      "answer": "Uma caverna"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Receber um reino como recompensa",
+        "Um sono milagroso por séculos.",
+        "Sendo engolido pela terra",
+        "Ser salvo de uma tempestade destrutiva",
+        "Ter à disposição uma mesa celestial"
+      ],
+      "answer": "Um sono milagroso por séculos."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

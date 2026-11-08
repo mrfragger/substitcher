@@ -1,0 +1,61 @@
+{
+  "title": "Stultitia Magnae Ambitionis",
+  "intro": "Iter suscipe ut identitatem entitatis communis detegas, cuius audacia consilia finem inexpectatum et potentem invenerunt. Haec narratio profundam admonitionem praebet de potentia divina et fragilitate potestatis mundanae cum sacro adversatur. Mysterium huius coetus, cuius historia in Alcorano insculpta est ut admonitio omnibus qui transgredi volunt, detege.",
+  "clues": [
+    "Magnam ambitionem fovebamus, vires nostras incomparabiles esse credentes, iter cum proposito claro et pernicioso suscepimus.",
+    "Dux noster, arrogantia repletus, sacram domum a multis veneratam violare conatus est, peregrinationem ad structuram a nobis constructam avertere volens.",
+    "Ex terra longinqua, ingenti copia processimus, confidentes in nostra facultate ad vetus aedificium in Urbe Sancta diruendum.",
+    "Exercitus noster formidabilis erat, ductu bestiarum magnificarum, spectaculum raro, si umquam, ab incolis terrae quam invasimus in tali expeditione visum.",
+    "Cum ad destinatum locum pervenissemus, divina interventio accidit; parvae creaturae alatae apparuerunt, lapidibus e luto cocto nos iactantes.",
+    "Tota nostra expeditio finem vastantem passa est, copia nostra formidabili instar stipulae manducatae funditus deleta, magno consilio nostro in pulverem redacto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Thamudensis",
+        "Populus 'Ad",
+        "Sodomae incolae",
+        "Populus Elephantis",
+        "Homines Horti"
+      ],
+      "answer": "Populus Elephantis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum Diluvium",
+        "Expeditio contra Kaabam",
+        "Destructiones Idolorum",
+        "Scissio Maris",
+        "Terraemotus Madianensis"
+      ],
+      "answer": "Expeditio contra Kaabam"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Kaaba",
+        "Vitulus Aureus",
+        "Ignis"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Salus divina",
+        "Longum tempus prosperitatis",
+        "Conversio ad Islam",
+        "Destructio absoluta",
+        "Exsul ex terra sua"
+      ],
+      "answer": "Destructio absoluta"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

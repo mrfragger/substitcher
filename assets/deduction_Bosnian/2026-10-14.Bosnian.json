@@ -1,0 +1,61 @@
+{
+  "title": "Prognani prekršitelji zavjeta",
+  "intro": "U ranim danima mlade zajednice, pleme je nekada živjelo u utvrđenim nastambama, vezano paktom. Kada je taj pakt iznevjeren, posljedice su se odražavale na stranicama Kur'ana. Ko su bili ti ljudi i šta se dogodilo s njihovim domovima i voćnjacima?",
+  "clues": [
+    "Živjeli smo u uporištima koja su nam davala lažni osjećaj sigurnosti.",
+    "Bili smo narod Svetog pisma, a ipak smo prekršili svoj savez.",
+    "Kovali smo zavjeru protiv glasnika nakon što je došao k nama, ali naš plan je propao.",
+    "Naše palme su posječene po Allahovoj naredbi, što je znak Njegove moći.",
+    "Protjerani smo iz naših domova, da se nikada ne vratimo, kao kazna za naš prkos.",
+    "Kuran nas spominje u suri okupljanja, a naša priča služi kao upozorenje onima koji krše ugovore."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Banu Nadir",
+        "Banu Kurejza",
+        "Banu Kajnuka",
+        "Ljudi iz Madjana",
+        "Ljudi iz Semuda"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Opsada i protjerivanje iz njihovih domova",
+        "Utapanje u moru",
+        "Biti progutan od zemlje",
+        "Uništenje uzrokovano olujom",
+        "Pretvaranje u majmune"
+      ],
+      "answer": "Opsada i protjerivanje iz njihovih domova"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Posječene palme",
+        "Osoblje",
+        "Kovčeg",
+        "Bunar vode",
+        "Pećina"
+      ],
+      "answer": "Posječene palme"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Prognani i oduzeta im je imovina",
+        "Vratio se pobjednički",
+        "Bili su oprošteni i ostali",
+        "Odmah ušao u raj",
+        "Pogodila ih je kuga"
+      ],
+      "answer": "Prognani i oduzeta im je imovina"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

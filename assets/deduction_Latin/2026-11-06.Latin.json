@@ -1,0 +1,61 @@
+{
+  "title": "Primus Sanguis Invidiae Effusus",
+  "intro": "Finge te primos dies humanitatis, cum totus mundus una familia esset. Vides dum duo dona coram Deo ponuntur — una accepta, altera repudiata. Invidia in corde radices agit, et minae in ira susurrantur. Quae sequuntur vestigia in historia in perpetuum relinquent, et etiam avis parva magistra fiet.",
+  "clues": [
+    "Ad primam familiam in terra pertineo.",
+    "Oblationem obtuli Deo, sed meam non acceptam est, altera vero oblatio accepta est.",
+    "Invidia praesens locutus sum et vitam adimere minatus sum.",
+    "Primam iniustam caedem in terra perpessi.",
+    "Corvum vidi terram scalpentem ut mihi demonstraret quomodo corpus celare possem.",
+    "Paenitentia plenus relictus sum et inter victos factus sum propter ea quae manus meae fecerunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Qabil (Cain), filius Adami",
+        "Samiri, vitulus fabricator",
+        "Namrud, tyrannus qui cum Ibrahim disputavit",
+        "Azar, fabricator idolorum",
+        "Kan'an, filius Nuh submersus"
+      ],
+      "answer": "Qabil (Cain), filius Adami"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Caedes fratris ex invidia post oblationem reiectam",
+        "Turrim excelsam aedificans ut caelum spectare possis",
+        "Vitulum aureum ad cultum fabricans",
+        "Mensam de caelo paratam postulantes",
+        "Ducens exercitum elephantorum ad Kaaba delendum"
+      ],
+      "answer": "Caedes fratris ex invidia post oblationem reiectam"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Corvus terram scalpens sepulturam ostendens",
+        "Vitulus aureus qui mugivit",
+        "Arca magna super aquas diluvii",
+        "Baculus qui in serpentem factus est",
+        "Mensa cibo de caelo instructa"
+      ],
+      "answer": "Corvus terram scalpens sepulturam ostendens"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Paenitentia affectus et inter victos factus est",
+        "In magno diluvio submersus est",
+        "A terra cum thesauro absorptus est",
+        "Septem annos lepra percussus est",
+        "Regnum cum potestate ventorum concessum est"
+      ],
+      "answer": "Paenitentia affectus et inter victos factus est"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

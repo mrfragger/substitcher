@@ -1,0 +1,61 @@
+{
+  "title": "Die Melodie, die die Berge versetzte",
+  "intro": "Sie werden nun die Geschichte eines außergewöhnlichen Dieners Allahs entdecken. In einem Land voller Boten und Herrscher wurde diese Gestalt mit einem göttlichen Buch, einer kraftvollen Stimme und der Macht über Eisen gesegnet. Können Sie anhand der Hinweise herausfinden, um wen es sich handeln könnte?",
+  "clues": [
+    "Ich war ein Diener Allahs, dem ein besonderes Buch gewährt wurde.",
+    "Ich hatte eine wunderschöne Stimme, und mein Lob war so beliebt, dass sogar die Hügel und Vögel mitmachten.",
+    "Ich stand einem gewaltigen Gegner in einer berühmten Schlacht gegenüber und konnte mich trotz meiner geringeren Körpergröße durchsetzen.",
+    "Eisen wurde für mich formbar gemacht, sodass ich mit meinen eigenen Händen Rüstungen herstellen konnte.",
+    "Ich wurde zum Herrscher über ein großes Volk ernannt, und meine Weisheit im Urteilsvermögen war berühmt.",
+    "Mein Sohn, der ebenfalls ein Prophet ist, erhielt die Herrschaft über den Wind und die Dschinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Dawud (David)",
+        "Prophet Sulaiman (Salomo)",
+        "Prophet Musa (Moses)",
+        "Prophet Harun (Aaron)",
+        "Prophet Ilyas (Elias)"
+      ],
+      "answer": "Prophet Dawud (David)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Goliath (Jalut) besiegt",
+        "Das Meer teilte sich",
+        "Den Wal überlebt",
+        "Wurde ins Feuer geworfen",
+        "Die Arche wurde gebaut"
+      ],
+      "answer": "Goliath (Jalut) besiegt"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Zabur (Psalmen)",
+        "Die Tora (Tawrat)",
+        "Das Evangelium (Injil)",
+        "Die Schriftrollen Ibrahims",
+        "Der Koran"
+      ],
+      "answer": "Der Zabur (Psalmen)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde Prophet und König von Israel",
+        "Wurde Herrscher von Ägypten",
+        "Wurde in den Himmel erhoben",
+        "Wurde durch einen Sturm zerstört",
+        "Wurde ein Begleiter der Höhle"
+      ],
+      "answer": "Wurde Prophet und König von Israel"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

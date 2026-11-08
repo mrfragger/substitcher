@@ -1,0 +1,61 @@
+{
+  "title": "Ang Echo gikan sa Ngilit sa Siyudad",
+  "intro": "Sa usa ka siyudad nga mitalikod sa balaan nga giya, usa ka nag-inusarang tawo ang migawas gikan sa gawas, nga nagdala sa mensahe sa paglaum ug pasidaan. Kining nakalimtan nga kalag mahimong usa ka walay katapusan nga simbolo sa lig-on nga pagtuo.",
+  "clues": [
+    "Nakasaksi ako og mga mensahero nga gipadala sa akong siyudad, apan gisalikway sila sa akong katawhan isip ordinaryong mga tawo.",
+    "Mituo ko sa ilang mensahe ug gibati ang kamatuoran nga milanog sa akong pagkatawo.",
+    "Gitawagan nako ang akong katawhan sa pagsunod sa mga mensahero nga wala mangayo og ganti.",
+    "Midagan ko gikan sa pinakalayong dapit sa siyudad, naningkamot nga masabtan nila ang ilang rason.",
+    "Ang akong katawhan mialsa batok kanako, ug ako gipatay, apan nakakaplag ako ug kalinaw nga walay katapusan.",
+    "Si Allah miingon kanako, 'Sulod sa Paraiso,' ug ako nanghinaut nga ang akong katawhan makasaksi sa dungog nga gihatag kanako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang Nagtuo sa Ya-Sin",
+        "Si Uzair ang Tigpangutana",
+        "Si Al-Khidr ang Giya",
+        "Ang Magtutuo sa Pamilya ni Paraon",
+        "Si Namrud ang Malupigon"
+      ],
+      "answer": "Ang Nagtuo sa Ya-Sin"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pag-atubang sa mga tawo nga wala motuo nga mipatay kaniya",
+        "Gilabay ngadto sa nagdilaab nga kalayo",
+        "Gitulon sa usa ka dakong isda",
+        "Pagtukod og dakong arka",
+        "Pag-ikyas gikan sa kasundalohan sa usa ka malupigon"
+      ],
+      "answer": "Pag-atubang sa mga tawo nga wala motuo nga mipatay kaniya"
+    },
+    "location": {
+      "label": "Pangunang Lokasyon",
+      "options": [
+        "Ang pinakalayong dapit sa siyudad",
+        "Ang bukid sa Tur",
+        "Ang Walog sa mga Hulmigas",
+        "Ang mga pangpang sa Nilo",
+        "Ang langob sa langob"
+      ],
+      "answer": "Ang pinakalayong dapit sa siyudad"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pagkamartir ug diha-diha nga pagsulod sa Paraiso",
+        "Pag-ikyas ug kaluwasan",
+        "Pagsaka sa langit",
+        "Pagkalumos sa dagat",
+        "Nahimong bato"
+      ],
+      "answer": "Pagkamartir ug diha-diha nga pagsulod sa Paraiso"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

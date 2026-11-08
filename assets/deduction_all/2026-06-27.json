@@ -1,0 +1,61 @@
+{
+  "title": "The Sacred Absence",
+  "intro": "Beyond the dunes of time, there lies a tale of unwavering devotion and a trust so heavy that the soul carrying it could have broken. In a moment when the people turned toward folly and gold, one figure stood firm—calling them back, pleading for patience, and bearing the weight of a sacred promise. This is the story of one who was chosen as a helper, a vizier, and a guardian of faith during a sacred absence. Can you uncover the identity of this steadfast soul?",
+  "clues": [
+    "I share the blood of a great prophet who was chosen to speak with Allah directly upon a sacred mount.",
+    "My sibling once pleaded with Allah for assistance in speaking clearly to a great oppressor.",
+    "I was chosen by Allah to stand beside my sibling as a helper and vizier.",
+    "Together we faced a tyrannical ruler who demanded to be called the highest of gods.",
+    "While my sibling communed with Allah upon the mountain, our people fashioned for themselves an idol from their gold.",
+    "I am the brother of Moses, appointed by Allah as his vizier, mentioned by name in the Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Harun (Aaron)",
+        "Prophet Musa",
+        "Prophet Dawud",
+        "Prophet Yaqub",
+        "Prophet Ishaq"
+      ],
+      "answer": "Prophet Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The Calf Worship Crisis",
+        "The Great Flood of Nuh",
+        "The Battle of Badr",
+        "The Destruction of Thamud",
+        "The Destruction of Sodom"
+      ],
+      "answer": "The Calf Worship Crisis"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The Golden Calf",
+        "Noah's Ark",
+        "The Burning Bush",
+        "The Cave of Hira",
+        "The Throne of Sheba"
+      ],
+      "answer": "The Golden Calf"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Innocence Confirmed by Allah",
+        "Drowning of Pharaoh",
+        "The Building of the Kaaba",
+        "Safe Crossing of the Sea",
+        "Ascension to the Heavens"
+      ],
+      "answer": "Innocence Confirmed by Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

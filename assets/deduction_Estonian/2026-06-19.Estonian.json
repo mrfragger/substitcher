@@ -1,0 +1,61 @@
+{
+  "title": "Püsiva hinge katsumus",
+  "intro": "Hing seisab jumaliku katsumuse hetkel, otsides alandliku järjekindlusega juhatust. See, kes teab kõike, pöörab selle otsija selja, et hiljem paljastada, et see oli südame katsumus. Selle salapärase vestluse kaudu avaneb jumaliku tarkuse õppetund neile, kes selle üle järele mõtlevad. Kas suudad selle tegelase Koraani jutustusest ära tunda?",
+  "clues": [
+    "Ma otsisin teadmisi ja juhatust armastatud Allahi sõnumitoojalt",
+    "Ma tulin otsima tõde, pöördudes prohveti poole tõsise sooviga",
+    "Mind noomiti ja pöörati ära, sest Allahi tarkusel olid selleks hetkeks teised plaanid.",
+    "Ometi ma ei heitnud meelt – selle asemel püüdsin edasi",
+    "See, kes kõike teab, kuulutas, et see on südame katsumus ja hoiatus",
+    "Ma olin nende seas, kelle kohta Koraan ütleb: „Ta kortsutas kulmu ja pööras ära, sest tema juurde tuli pime mees.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Silmakirjatseja otsib kahtlust",
+        "Pime tõeotsija",
+        "Meka ebajumalakummardaja",
+        "Uskmatu pilkab prohvetit",
+        "Jeemenist pärit rändur"
+      ],
+      "answer": "Pime tõeotsija"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Prohvet Muhamedi noomitus palve ajal",
+        "Mekas põua ja näljahäda käes kannatamine",
+        "Paradiisi väravas ära pööratud",
+        "Oma rahva poolt usu pärast tagasilükkamine",
+        "Rikkuse ja lastega proovile panemine"
+      ],
+      "answer": "Prohvet Muhamedi noomitus palve ajal"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kaaba sees palverännakute ajal",
+        "Prohveti juuresolekul ettelugemise ajal",
+        "Safa mäe tipus hommikutundidel",
+        "Meka turul, ümbritsetuna uskmatutest",
+        "Zamzami kaevu lähedal Hadži ajal"
+      ],
+      "answer": "Prohveti juuresolekul ettelugemise ajal"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Otsija suri usu pärast qurayshi mässu poolt",
+        "Juhtum jäädvustati umma katsumuse ja õppetunnina",
+        "Otsijast sai kaaslane ja juht",
+        "Otsija varandus kümnekordistus",
+        "Otsija vajus taas uskmatusse"
+      ],
+      "answer": "Juhtum jäädvustati umma katsumuse ja õppetunnina"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

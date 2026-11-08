@@ -1,0 +1,61 @@
+{
+  "title": "Esteiden rakentaja",
+  "intro": "Laajojen maiden halki mahtava henkilö aloitti sarjan tutkimusretkiä, joille annettiin valtavat valtuudet ja resurssit. Tämä sielu kohtasi erilaisia ​​yhteisöjä ja ainutlaatuisia haasteita, jättäen pysyvän jäljen historiaan ja uskoon tekojensa ja viisautensa kautta, samalla tunnustaen voimansa todellisen lähteen.",
+  "clues": [
+    "Minulle annettiin valta ja keinot kaikkeen, ja seurasin tietäni.",
+    "Matkani vei minut auringon laskupaikkaan, josta kohtasin kansan.",
+    "Tapasin yhteisön, joka tuskin ymmärsi puhetta ja asui kahden vuoren välissä.",
+    "Minua pyydettiin rakentamaan este, ei henkilökohtaisen hyödyn vuoksi, vaan suojaksi tuhoavaa voimaa vastaan.",
+    "Julistin, että voima tämän massiivisen muurin rakentamiseen tuli Allahilta ja että se pysyisi pystyssä luvattuun aikaan asti.",
+    "Nimeni, joka usein käännetään \"Kaksisarvinen\", symboloi ulottuvuuttani maan päälle tai kenties kahta erillistä aikakautta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Musa",
+        "Profeetta Sulayman",
+        "Dhul-Qarnayn",
+        "farao",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ilmoituksen saaminen",
+        "Tyrannin kohtaaminen",
+        "Suuren laivan rakentaminen",
+        "Mahtavan esteen rakentaminen",
+        "Kalan nielaiseminen"
+      ],
+      "answer": "Mahtavan esteen rakentaminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Rautainen este",
+        "Niili",
+        "Valtaistuin"
+      ],
+      "answer": "Rautainen este"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Pelastus vedenpaisumuksesta",
+        "Suureksi valtakunnaksi tuleminen",
+        "Kansan suojelu",
+        "Sortajan tuhoaminen",
+        "Kestävää viisautta"
+      ],
+      "answer": "Kansan suojelu"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

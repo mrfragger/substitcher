@@ -1,0 +1,61 @@
+{
+  "title": "Vokteren av den uslukkelige flammen",
+  "intro": "En skikkelse står på terskelen til det mest fryktede stedet i det usynlige, betrodd en plikt ingen andre vesener ønsker. Når lidende sjeler roper om nåde, runger en streng respons gjennom ildkamrene. Kan du avsløre identiteten til denne evige vokteren?",
+  "clues": [
+    "Jeg står ved inngangen til et skremmende sted med straff i det usynlige.",
+    "En flammende, uslukkelig ild er midtpunktet i min høytidelige plikt.",
+    "Lidende sjeler roper ut mitt navn og ber om lindring fra sin endeløse pine.",
+    "Når de trygler, erklærer jeg at de aldri skal dra.",
+    "Jeg er ikke menneske, og heller ikke djinn – jeg er et skapt vesen av ren lydighet.",
+    "Jeg er den øverste engelen som er utnevnt til den evige vokteren av helvetesilden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Helvetes folk ber om at pinslene deres må ta slutt",
+        "Trompeten blåses for å signalisere dommedag",
+        "Koranen er åpenbart til profetens hjerte",
+        "En profet blir kastet i en stor ild av sitt folk",
+        "En mektig mur er bygget for å holde en korrupt nasjon inne"
+      ],
+      "answer": "Helvetes folk ber om at pinslene deres må ta slutt"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Helvetesilden (Jahannam)",
+        "Lotetreet ved grensen til paradiset",
+        "En gjennomtrengende trompet",
+        "En stav som forvandles til en slange",
+        "En storslått guddommelig trone"
+      ],
+      "answer": "Helvetesilden (Jahannam)"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Helvetes beboere får beskjed om at de skal forbli evig",
+        "Helvetes beboere er tilgitt og løslatt",
+        "Helvetes beboere får en ny sjanse til tro",
+        "Helvetes beboere flyttes til et sted med kjølighet",
+        "Helvetes beboere blir fullstendig ødelagt av et tordenkile"
+      ],
+      "answer": "Helvetes beboere får beskjed om at de skal forbli evig"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Misija u drevnom gradu",
+  "intro": "Prašnjavi drevni grad, njegovi stanovnici ukorijenjeni u poricanju i posljednje upozorenje koje je ostalo zanemareno. Danas uđite u ulogu onih koje je Allah poslao da prenesu poruku tvrdoglavom narodu. Priča o odbacivanju, jedinstvenom glasu vjere i kraju zapečaćenom razornom odredbom. Tko govori kroz ove tragove?",
+  "clues": [
+    "Allah nas je poslao u grad čiji su se stanovnici okrenuli od istine",
+    "Prvo nas je došlo dvoje, a zatim se pridružio treći kako bismo ojačali našu misiju",
+    "Mještani su nas odbacili, govoreći da smo samo ljudi poput njih",
+    "Jedna jedina duša s najudaljenijeg kraja grada potrčala je reći ljudima da nas slijede",
+    "Molili smo ih, ali su otvrdnuli svoja srca i okrenuli se protiv nas",
+    "U jednom razornom kriku s nebesa, cijeli naš grad je utihnuo"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanici grada u suri Ja-Sin",
+        "Hawwariyyun (Isaovi učenici)",
+        "Čarobnjaci faraonova dvora",
+        "Suputnici subote",
+        "Ljudi slona"
+      ],
+      "answer": "Poslanici grada u suri Ja-Sin"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Odbijeni i nazvani lažljivcima od strane građana",
+        "Živ spaljen u velikom plamtećem požaru",
+        "Progutala ga je velika riba u dubokom moru",
+        "Prisiljen raditi gradeći visoki stup",
+        "Mučen u rovu bjesneće vatre"
+      ],
+      "answer": "Odbijeni i nazvani lažljivcima od strane građana"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Drevni grad (al-Qaryah)",
+        "Velika užarena peć",
+        "Trbuh velike ribe",
+        "Uzvišeni stup koji dodiruje nebo",
+        "Sveta kuća (Kaaba)"
+      ],
+      "answer": "Drevni grad (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Grad je uništen jednim razornim krikom (Sayha)",
+        "Tiranin i njegova vojska utopili su se u razdvojenom moru",
+        "Ljudi su se pretvorili u majmune i majmune",
+        "Kiša kamenja s neba uništila je grad",
+        "Snažna poplava odnijela je cijelu zajednicu"
+      ],
+      "answer": "Grad je uništen jednim razornim krikom (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

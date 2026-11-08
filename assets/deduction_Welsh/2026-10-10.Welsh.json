@@ -1,0 +1,61 @@
+{
+  "title": "Y Sgowt Pluog",
+  "intro": "O fewn teyrnas a reolir gan un a roddwyd iddo awdurdod dros y gwyntoedd, y bodau anweledig, a chreaduriaid yr awyr, diflannodd un aelod bach a chyflym o'r rhengoedd - dim ond i ddychwelyd gyda datgeliadau a fyddai'n ail-lunio tynged cenedl bell. Daeth yr hysbysydd craff hwn â gwirionedd i'r amlwg lle'r oedd anwybodaeth wedi gwreiddio. Pwy Ydw I?",
+  "clues": [
+    "Gwasanaethais mewn llys lle'r oedd bodau dynol, bodau anweledig, a chreaduriaid yr awyr yn atebol i un rheolwr doeth a oedd yn rheoli'r gwyntoedd iawn.",
+    "Roeddwn i'n absennol o'm swydd am gyfnod, ac addawyd digofaint y llywodraethwr pe bawn i'n methu â darparu rheswm boddhaol.",
+    "Creadur bach sy'n gallu hedfan ydw i, yn adnabyddus am olwg finiog, ac anrhydeddwyd fy math i gydag enwi'n uniongyrchol yn nhudalennau'r datguddiad.",
+    "Pan ddychwelais, daethpwyd â newyddion am wlad bell lle'r oedd y bobl yn ymgrymu i'r haul, yn ddall i'r Un a greodd y nefoedd a'r ddaear.",
+    "Des i o hyd i fenyw yn teyrnasu dros deyrnas fawr, yn eistedd ar orsedd ysblennydd, heb erioed wybod y gwir o'r blaen.",
+    "Myfi yw'r un a ddarganfuodd deyrnas Saba ac a gariodd lythyr gwahoddiad gan frenin-broffwyd a roddwyd iddo arglwyddiaeth dros y gwynt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Y Hoopoe (Hudhud)",
+        "Y Morgrugyn o Gwm Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit y Jinn",
+        "Angel yr Orsedd"
+      ],
+      "answer": "Y Hoopoe (Hudhud)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Yr alldaith i Deyrnas Saba (Sheba)",
+        "Y gwrthdaro â swynwyr Pharo",
+        "Dilyw'r Proffwyd Nuh",
+        "Dinistr Pobl 'Ad",
+        "Hollti'r Môr Coch"
+      ],
+      "answer": "Yr alldaith i Deyrnas Saba (Sheba)"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Gwlad Saba (Sheba)",
+        "Mynydd Sinai",
+        "Arch y Proffwyd Nuh",
+        "Ogof Ashab al-Kahf",
+        "Palas y Pharo"
+      ],
+      "answer": "Gwlad Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Daeth Bilqis yn ufudd i lys Sulaiman",
+        "Boddodd Pharo a'i fyddin yn y môr",
+        "Dinistriwyd Pobl 'Ad gan wynt treisgar",
+        "Roedd dewiniaid y Pharo yn credu yn y Proffwyd Musa",
+        "Llifodd llifogydd mawr yr anghredinwyr"
+      ],
+      "answer": "Daeth Bilqis yn ufudd i lys Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

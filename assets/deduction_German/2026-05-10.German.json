@@ -1,0 +1,61 @@
+{
+  "title": "Die Erbauer der Türme",
+  "intro": "In längst vergangenen Zeiten erhob sich eine mächtige Zivilisation, die sich durch beeindruckende Bauleistungen und ungeheure Stärke auszeichnete. Dieses Volk verfügte über reichlich Ressourcen und körperliche Überlegenheit, doch es wählte einen Weg des Widerstands gegen die göttliche Botschaft, die es leiten sollte. Seine Geschichte ist eine tiefgreifende Lehre in den Annalen der Geschichte, ein Zeugnis für die Folgen der Ablehnung der Wahrheit.",
+  "clues": [
+    "Uns wurde eine immense körperliche Stärke und Statur verliehen, anders als allen anderen Völkern unserer Zeit.",
+    "Wir waren dafür bekannt, an jedem hohen Ort gewaltige Bauwerke und hoch aufragende Säulen zu errichten, in der Annahme, wir würden ewig leben.",
+    "Ein Gesandter aus unserer Mitte wurde gesandt, um uns zu warnen und uns aufzurufen, Allah allein anzubeten und unsere Götzenbilder aufzugeben.",
+    "Wir stellten unseren Gesandten hochmütig in Frage und fragten, ob sie nur zu uns gekommen seien, um uns dazu zu bringen, Allah anzubeten und das aufzugeben, was unsere Vorfahren angebetet hatten.",
+    "Unser Land war gesegnet mit Gärten, Quellen und fruchtbaren Feldern, aber wir schrieben unseren Wohlstand unserer eigenen Kraft zu, nicht unserem Schöpfer.",
+    "Wegen unseres anhaltenden Unglaubens und Spottes wurden wir schließlich von einem furchtbaren, wütenden Wind vernichtet, der viele Tage und Nächte lang tobte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Volk der Thamud",
+        "Volk von Fir'aun",
+        "Volk von Nuh",
+        "Menschen von Madyan",
+        "Leute von 'Ad"
+      ],
+      "answer": "Leute von 'Ad"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Aufforderung, ein bestimmtes Kamel zu opfern",
+        "Die Herausforderung, zehn Suren wie den Koran zu verfassen",
+        "Die Spaltung des Meeres gezeigt bekommen",
+        "Von einem Propheten vor der bevorstehenden Flut gewarnt werden",
+        "Die Ablehnung eines Propheten, der vor übermäßigem Bauen und Götzendienst warnte"
+      ],
+      "answer": "Die Ablehnung eines Propheten, der vor übermäßigem Bauen und Götzendienst warnte"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Das Feuer",
+        "Die Stadt Sodom",
+        "Hohe Säulen und starke Behausungen"
+      ],
+      "answer": "Hohe Säulen und starke Behausungen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ertrunken in einer großen Flut",
+        "Von der Erde verschluckt",
+        "In Affen und Schweine verwandelt",
+        "Von einer gewaltigen Explosion zerstört",
+        "Vernichtet von einem wütenden, verheerenden Wind"
+      ],
+      "answer": "Vernichtet von einem wütenden, verheerenden Wind"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

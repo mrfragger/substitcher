@@ -1,0 +1,61 @@
+{
+  "title": "Doğan Günəşin Qapısının Keşikçisi",
+  "intro": "Quran boyunca müəyyən ruhlar yer üzündə hikmət və heyrət izləri buraxaraq səyahət edirlər. Belə bir şəxsiyyət yaradılışın ən ucqar nöqtələrinə - günəşin doğub batdığı, xaosun özünün qarşısını bir maneənin aldığı yerə səyahət edir. Allahın bu quluna heç kimin bir daha sahib ola bilməyəcəyi bir səltənət verildi. Üç fərqli səyahətdən sonra bu fərdin məqsədi aydın oldu. Tarixin kölgələri arasından bu əfsanəvi səyyahı müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Mənə Mərhəmətli Allah tərəfindən yer üzündə heç kimin nail ola bilmədiyi bir şəkildə hökmranlıq etmək səlahiyyəti verildi.",
+    "Günəşin batdığı yerə çatana qədər qərbə doğru getdim və günəşin bulanıq bir bulaqda batdığını gördüm. Orada bir xalqın olduğunu gördüm.",
+    "Şərqə doğru hərəkət etdim, ta ki günəşin doğduğu yerə çatanda gördüm ki, günəş bir qövmün üzərinə doğur, onlara günəşdən qorunmaq üçün heç bir sığınacaq verməmişdik.",
+    "İki dağ arasındakı bir vadiyə çatana qədər o iki ucqar nöqtə arasında səyahət etdim və orada nitqi çətinliklə başa düşən bir xalqla qarşılaşdım.",
+    "Dağda sağa və sola uzanan iki sərt dəmir maneə və aralarında dar bir keçid tapdım. Onlar məndən xaosun qarşısını alan maneəni aşmağımı istədilər.",
+    "Azuqəmi götürüb dedim: “Sərhəd yarılanda, bu xalqla bizim aramızda açıq bir ayrılıq olacaq”. Təyin olunmuş vaxt çatanda isə nəhayət, səddin necə aşıldığını izlədim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Zülqərneyn",
+        "Süleyman peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Qəssaniyyə kralı",
+        "Səyyah Zülqərneyn"
+      ],
+      "answer": "Zülqərneyn"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Yəcuc və Məcuc xalqı üçün dəmir maneəni aşmaq",
+        "Peyğəmbərin əmri ilə gəminin inşası",
+        "Yerusəlimdə məbəd tikmək",
+        "Mömin insanlarla birlikdə Qırmızı dənizi keçmək",
+        "Saleh bir milləti qorumaq üçün bənd tikmək"
+      ],
+      "answer": "Yəcuc və Məcuc xalqı üçün dəmir maneəni aşmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "İki dağ arasında dəmir sədd",
+        "Gəmi bir dağda lövbər saldı",
+        "Yerusəlimdəki müqəddəs ibadət evi",
+        "Misir torpağındakı çay",
+        "Mədyəndəki nemət quyusu"
+      ],
+      "answer": "İki dağ arasında dəmir sədd"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Təyin olunmuş vaxt gələndə maneə aşıldı və xaos başladı",
+        "Kafirlər boğuldu, möminlər isə xilas oldular.",
+        "Salehlər əbədi cənnətə doğru yola yönəldilər",
+        "Şəhər şiddətli bir küləklə dağıdıldı",
+        "Bütlər parçalandı və insanlar tövbə etdilər"
+      ],
+      "answer": "Təyin olunmuş vaxt gələndə maneə aşıldı və xaos başladı"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

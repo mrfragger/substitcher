@@ -1,0 +1,61 @@
+{
+  "title": "Molimo ya Liboso oyo etelemaki",
+  "intro": "Kala liboso ete momemi-nsango moko atambola na mabele, liboso ete makomi moko ebimisama, ekelamu moko oyo ekeseni na mosusu nyonso esalemaki. Molimo oyo esalemaki na maboko ya bonzambe, epesamaki esika ya kitoko oyo ekokani na mosusu te, mpe emekamaki na lolenge oyo ekoyokana na lisolo mobimba ya bato. Oyo elandaki ezalaki lisolo ya botau, boyamboli ya sembo, mpe nsuka oyo ekobongola nzela ya bozalisi mpo na libela. Okoki kokanisa soki oyo azali nani?",
+  "clues": [
+    "Nabongisamaki na maboko ya Motema mawa mingi uta na mputulu mpenza ya mabele",
+    "Bapesaki ngai ndako ya kitoko oyo ekokani na mosusu te, epai nzala to kolɛmba moko te ekokaki kosimba ngai",
+    "Bapesaki ngai etinda ete napusana penepene na nzete moko ata moke te, mpo ete epekisamaki",
+    "Ngai na moninga na ngai tokosamaki mpe topusanaki penepene na nzete oyo epekisamaki, na kotelemela etinda ya Nkolo na biso",
+    "Tozongaki lisusu epai ya Nkolo na biso na boyamboli ya solo, mpe tolimbisamaki bobukami na biso",
+    "Uta na biso, bato nyonso bakitaki; Nazali moto ya liboso mpenza ya kotambola na mabele oyo"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Adama",
+        "Mosakoli Musa",
+        "Mosakoli Nuh",
+        "Mosakoli Yusuf",
+        "Mosakoli Yis"
+      ],
+      "answer": "Mosakoli Adama"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Momekano na nzete oyo epekisami",
+        "Kokutana na Farao",
+        "Kotonga Sanduku monene",
+        "Mbeka ya mwana ya bolingo",
+        "Kobwakama na mɔtɔ monene"
+      ],
+      "answer": "Momekano na nzete oyo epekisami"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nzete oyo Epekisami",
+        "Nzete oyo ezali kozika",
+        "Bato ya wolo",
+        "Sanduku Monene",
+        "Mwana ya Ngombe ya Wolo"
+      ],
+      "answer": "Nzete oyo Epekisami"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Atindamaki na nse na mabele lokola mobateli ya liboso ya bomoto",
+        "Farao ná basoda na ye bazindaki na mbu",
+        "Mpela monene ebebisaki bato mabe",
+        "Mɔtɔ ekómaki malili mpe kimya",
+        "Bapesaki ye bokonzi likoló na bokonzi ya Ezipito"
+      ],
+      "answer": "Atindamaki na nse na mabele lokola mobateli ya liboso ya bomoto"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mmaba yo o tukang",
+  "intro": "Mo malatsing a ntlha a tshenolo, go ne ga tlhaga setshwantsho sengwe e le moganetsi yo o tlhogoethata wa boammaaruri. E re ka moya ono o ne o segofaditswe ka khumo le maemo, o ne wa tlhopha go ikgogomosa go na le go kaelwa, mme kgang ya bone e ne ya nna tlhagiso e e tlhamaletseng mo ditemaneng tsa bofelo tsa surah.",
+  "clues": [
+    "Ke ne ke nna mo motseng o le mongwe le Moporofeti, mme ke ne ke le mo gare ga ba losika lo lo gaufi thata le ene, le fa go ntse jalo boikgogomoso jwa me bo ne jwa dira gore ke nne kgakala le boammaaruri.",
+    "Ke ne ke na le khumo e ntsi le dithoto tse dintsintsi, mme ke ne ke akanya gore dithoto tsa me di tla nna di ntshireletsa ka metlha.",
+    "Fa molaetsa o senolwa, ke ne ka o sotla phatlalatsa mme ka fapoga, ke itsaya ke le kwa godimo ga badumedi.",
+    "Bobaba jwa me bo ne bo itsege thata jaana mo e leng gore surah nngwe ya Quran e ne ya bua le nna ka tlhamalalo, e mpitsa ka leina le ba bangwe ba neng ba nkitse ka lone.",
+    "Ke ne ka tlhagisiwa gore khumo ya me le madi a ke neng ke a bona ga di kitla di nthusa, mme ke ne ke tla latlhelwa mo molelong o o tukang.",
+    "Ke itsege jaaka rraagwe kgabo, mme mosadi wa me o tla rwala dikgong tsa molelo ka thapo ya tlhale ya palema mo molaleng wa gagwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-Ase ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O ne a gana Boiselamo mme a ganetsa Moporofeti phatlalatsa",
+        "Go loga leano la go bolaya Moporofeti",
+        "O ne a etelela pele kganetso ya setšhaba kgatlhanong le Bamoseleme",
+        "O lwetswe mo Ntweng ya Badr",
+        "O ne a bogisiwa Bilal ibn Rabah"
+      ],
+      "answer": "O ne a gana Boiselamo mme a ganetsa Moporofeti phatlalatsa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Thapo ya tlhale ya palema",
+        "Tšhaka e e bogale",
+        "Ketane e e bokete",
+        "Lore lwa logong",
+        "Sefepi sa letlalo"
+      ],
+      "answer": "Thapo ya tlhale ya palema"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E tla tuka mo molelong o o tukang",
+        "O ne a ikwatlhaya mme a nna molekane",
+        "O latlhegetswe ke khumo ya gagwe mme a tlhokafala a tlotlilwe",
+        "O ne a tshabela kwa Abisinia",
+        "O nwetse mo lewatleng"
+      ],
+      "answer": "E tla tuka mo molelong o o tukang"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

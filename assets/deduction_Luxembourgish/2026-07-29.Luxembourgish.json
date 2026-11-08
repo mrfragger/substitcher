@@ -1,0 +1,61 @@
+{
+  "title": "Déi héiflech Verfollegung",
+  "intro": "An de Korridore vun der Muecht huet sech eng Persoun mat héijem Status an e Knecht verléift, deem seng Schéinheet aussergewéinlech war. Dës Verléiftheet huet zu enger Serie vun Eventer gefouert, déi d'Loyalitéit op d'Prouf gestallt hunn, verstoppte Wourechten opgedeckt hunn an letztendlich d'Onschold vum Knecht bestätegt hunn.",
+  "clues": [
+    "Ech hunn am Land vum Nil gelieft, an engem Palais vu groussen Afloss.",
+    "E jonke Mann koum a mäin Haus, a seng Präsenz huet meng Welt op d'Kopp gestallt.",
+    "Ech hunn probéiert hien ze verführen, mä hien huet Zouflucht bei sengem Här gesicht.",
+    "Ech hunn säi Kleed vun hannen zerräissen, mä d'Beweiser hunn op meng Bedruch higewisen.",
+    "Fir de Klatsch vun den Adelsfraen ze stëmmen, hunn ech si op eng Versammlung invitéiert an hinnen schaarf Géigestänn an d'Hänn geluecht.",
+    "Schlussendlech hunn ech meng Schold ëffentlech zouginn an d'Wourecht virum Kinnek unerkannt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Fra vum Al-Aziz",
+        "Asiya (Fra vum Pharao)",
+        "Bilqis (Kinnigin vu Scheba)",
+        "Maryam (Mamm vum Isa)",
+        "D'Mamm vum Musa"
+      ],
+      "answer": "D'Fra vum Al-Aziz"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Si huet versicht, de Prophet Yusuf ze verführen",
+        "Si huet probéiert de Prophet Musa ëmzebréngen",
+        "Si huet behaapt, eng Gëttin ze sinn",
+        "Si huet en Tuerm gebaut fir Allah erauszefuerderen",
+        "Si huet eng Arméi géint Mekka ugefouert"
+      ],
+      "answer": "Si huet versicht, de Prophet Yusuf ze verführen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Hemd vun hannen ofgerappt",
+        "E gëllent Kalb",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "E Kamel",
+        "Eng Luucht"
+      ],
+      "answer": "E Hemd vun hannen ofgerappt"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si huet d'Wourecht zouginn an unerkannt",
+        "Si ass mat hirer Arméi erdronk",
+        "Si huet sech an eng Salzsaile verwandelt",
+        "Si gouf vun der Äerd verschléckt",
+        "Si gouf vun engem jäizenden Wand zerstéiert"
+      ],
+      "answer": "Si huet d'Wourecht zouginn an unerkannt"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Tidernas slummer",
+  "intro": "Du är på väg att ge dig ut på en tidsresa och möta ett djupt mysterium om tro och gudomlig makt. Föreställ dig en grupp individer som trotsar samhällets normer och klamrar sig fast vid monoteism i en värld av polyteism. Deras historia är ett bevis på Allahs förmåga att skydda sina rättfärdiga tjänare på de mest extraordinära sätt. Kan du reda ut identiteten på dessa anmärkningsvärda personer?",
+  "clues": [
+    "Vi var en liten grupp unga män som trodde på en enda Gud, trots den utbredda polyteismen bland vårt folk.",
+    "Vi flydde från en tyrannisk härskare som hotade oss för vår tro, i fruktan för förföljelse och död.",
+    "Vi sökte tillflykt på en avskild plats i hopp om Allahs barmhärtighet och beskydd från våra förtryckare.",
+    "Vår Herre lät oss falla i en djup sömn, en mirakulös slummer som trotsade tidens gång.",
+    "När vi vaknade trodde vi att vi bara hade vilat en dag eller en del av en dag, omedvetna om den stora tid som verkligen hade gått.",
+    "Koranen nämner att vi förblev i vårt tillstånd i trehundra år, och översteg det med nio, och blev ett tecken för mänskligheten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Folket i diket",
+        "Folket i Thamud",
+        "Grottans folk",
+        "Madyans folk",
+        "Elefantens följeslagare"
+      ],
+      "answer": "Grottans folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Står inför en stor översvämning",
+        "Att bli uppslukad av jorden",
+        "Den långa mirakulösa sömnen",
+        "Förstörelsen av deras stad",
+        "Havets delning"
+      ],
+      "answer": "Den långa mirakulösa sömnen"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En brinnande buske",
+        "Ett berg",
+        "En båt",
+        "En grotta",
+        "En brunn"
+      ],
+      "answer": "En grotta"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De tilldelades enorm rikedom och makt",
+        "De förvandlades till apor och svin",
+        "De väcktes ur sömnen som ett djupt tecken",
+        "De drunknade i en stor syndaflod",
+        "De byggde ett magnifikt kungarike"
+      ],
+      "answer": "De väcktes ur sömnen som ett djupt tecken"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

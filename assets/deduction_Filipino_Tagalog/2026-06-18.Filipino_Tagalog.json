@@ -1,0 +1,61 @@
+{
+  "title": "Ang Unang Humingi ng Tawad",
+  "intro": "Balikan ang panahon bago ang unang pagsikat ng araw, bago pa man lumakad ang sinumang mortal sa mundo. Isang pigura ang hinubog mula sa pinakasimpleng materyales, binigyan ng posisyon na mas mataas kaysa sa mga anghel, at inilagay sa isang sagradong hardin na may malinaw na babala. Ngunit sa isang iglap, isang pagpili ang ginawa — isa na mag-uulit sa buong kasaysayan ng tao. Sino ang pigurang ito?",
+  "clues": [
+    "Ako ay nilikha sa paraang hindi katulad ng iba — hinubog mula sa alabok ng lupa at binigyan ng isang buhay na kaluluwa sa pamamagitan ng kamay ng Lumikha.",
+    "Ipinagkaloob sa akin ang kaalamang napakalalim na maging ang mga anghel sa itaas ay namangha rito.",
+    "Ang buong langit ay inutusang yumuko sa harap ko, at lahat sila ay nagpasakop — maliban sa isa, na tumanggi dahil sa kapalaluan.",
+    "Ako ay inilagay sa isang sagradong hardin, isang lugar ng walang hanggang kaginhawahan at paglalaan — ngunit may isang mahigpit na pagbabawal.",
+    "Nakalimutan ko, nadulas ako, at sumuway ako — at labis kong naramdaman ang bigat ng aking pagkakamali.",
+    "Bumaling ako sa aking Panginoon nang may taos-pusong mga salita, at tinanggap Niya ang aking pagsisisi, sapagkat Siya ang Pinakamapagpatawad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Adan",
+        "Propeta David",
+        "Propeta Muhammad",
+        "Iblis",
+        "Propeta Yaqub"
+      ],
+      "answer": "Propeta Adan"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Inutusan ang mga anghel na magpatirapa",
+        "Ipinadala ang Malaking Baha",
+        "Isang malaking apoy ang ginawang malamig at ligtas",
+        "Isang mayabang na pinuno ang nalunod sa dagat",
+        "Isang hukbo ng mga elepante ang nawasak"
+      ],
+      "answer": "Inutusan ang mga anghel na magpatirapa"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Hardin ng Kaligayahan",
+        "Bundok Sinai",
+        "Ang Sagradong Moske",
+        "Ang Ilog Nilo",
+        "Ang Kweba"
+      ],
+      "answer": "Ang Hardin ng Kaligayahan"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Tinanggap ng Allah ang pagsisisi",
+        "Nalunod sa dagat",
+        "Nilunok ng isang malaking isda",
+        "Tinamaan ang bansa ng isang malakas na pagsabog",
+        "Nasusunog ng nakakapasong hangin"
+      ],
+      "answer": "Tinanggap ng Allah ang pagsisisi"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

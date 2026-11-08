@@ -1,0 +1,61 @@
+{
+  "title": "Överträdelsen vid stranden",
+  "intro": "Du står på sanden på en bortglömd strand, där vågorna viskar om ett samhälle som prövats av en gudomlig befallning. Luften är tung av minnet av en överträdelse som ledde till en häpnadsväckande förvandling. Vilka var dessa själar, och vad var deras prövnings natur?",
+  "clues": [
+    "Vi var en gemenskap som fick ett tydligt bud från vår Herre, men ändå fann vi sätt att trotsa det.",
+    "Vi bodde nära ett vattendrag, och vår försörjning var beroende av dess djur.",
+    "Ett prov ställdes inför oss den dagen vi befalldes att avstå från världsliga strävanden.",
+    "Vattnets varelser kom till oss i stort antal just den dagen och frestade oss över all uthärdlighet.",
+    "Vi uttänkte ett listigt knep för att kringgå den gudomliga befallningen, i tron ​​att vi kunde överlista dekretet.",
+    "Vår överträdelse ledde till en förödmjukande förvandling; vi blev föraktade apor på Allahs befallning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Sabbatens folk",
+        "Rass folk",
+        "Tubbas folk",
+        "Grottans folk",
+        "Dikets följeslagare"
+      ],
+      "answer": "Sabbatens folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Fiskens utseende på sabbaten",
+        "Ett år av svår torka",
+        "En armé av fåglar skickades mot dem",
+        "En översvämning som översköljde dem",
+        "En våldsam jordbävning"
+      ],
+      "answer": "Fiskens utseende på sabbaten"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Havet",
+        "Ett berg",
+        "En grotta",
+        "En ökendal",
+        "En befäst stad"
+      ],
+      "answer": "Havet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förvandlades till apor",
+        "Slukad av jorden",
+        "Förstört av en skrikande vind",
+        "Drunknade i havet",
+        "Träffad av en stenregn"
+      ],
+      "answer": "Förvandlades till apor"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

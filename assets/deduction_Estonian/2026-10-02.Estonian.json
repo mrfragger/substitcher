@@ -1,0 +1,61 @@
+{
+  "title": "Suverään, kes läbis maailma otsad",
+  "intro": "Kujutage ette võimast valitsejat, kellele on antud jõud ja võim kogu maa üle. See tegelane asus erakordsetele rännakutele, jõudes paika, kus päike loojub, ja paika, kus see tõuseb, kohtudes võõraste rahvastega ja seistes silmitsi suure väljakutsega kahelt korrumpeerunud rahvalt. Kes on see mõistatuslik juht?",
+  "clues": [
+    "Olin valitseja, kellele oli antud võim ja vahendid maailma kaugeimate nurkadeni jõudmiseks.",
+    "Ma rändasin läände ja nägin päikeseloojangut sogases kevadises ilmas.",
+    "Kohtasin tõusva päikese lähedal inimesi, kellel polnud selle kuumuse eest varju.",
+    "Üks teine ​​kogukond palus minu abi kahe kõlvatu rahva vastu, keda tuntakse Googi ja Maagoogi nime all.",
+    "Ehitasin nende piiramiseks rauast ja sulavasest tõkke.",
+    "Ma kuulutasin, et see barjäär on mu Issanda halastus ja see jääb püsima määratud ajani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Prohvet Sulaiman",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Tõkke ehitamine Googi ja Magogi vastu",
+        "Suure üleujutuse üleelamine",
+        "Tulle viskamine",
+        "Mere ületamine",
+        "Võitlus hiiglasega"
+      ],
+      "answer": "Tõkke ehitamine Googi ja Magogi vastu"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Rauast ja vasest barjäär",
+        "Personali, mis muutus maoks",
+        "Puidust laev",
+        "Klaasist palee",
+        "Datlipalmide aed"
+      ],
+      "answer": "Rauast ja vasest barjäär"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Goog ja Maagoog olid vangis kuni määratud ajani",
+        "Temast sai prohvet",
+        "Teda karistati ülbuse eest",
+        "Ta vallutas kogu maailma",
+        "Ta elas igavesti"
+      ],
+      "answer": "Goog ja Maagoog olid vangis kuni määratud ajani"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

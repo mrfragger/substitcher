@@ -1,0 +1,61 @@
+{
+  "title": "Priestupok pri brehu",
+  "intro": "Stojíte na piesku zabudnutého brehu, kde vlny šepkajú o komunite skúšanej božským príkazom. Vzduch je ťažký spomienkou na porušenie, ktoré viedlo k prekvapujúcej premene. Kto boli tieto duše a aká bola povaha ich skúšky?",
+  "clues": [
+    "Boli sme komunitou, ktorá dostala jasné prikázanie od nášho Pána, no napriek tomu sme našli spôsoby, ako mu vzdorovať.",
+    "Bývali sme blízko vodnej plochy a naša obživa závisela od jej tvorov.",
+    "Skúška na nás prišla v deň, keď nám bolo prikázané zdržať sa svetských záujmov.",
+    "V ten istý deň k nám prišli vodné tvory vo veľkom počte a pokúšali nás na neúnosnú úroveň.",
+    "Vymysleli sme prefíkaný trik, ako obísť božský rozkaz, v domnení, že dokážeme prekabátiť dekrét.",
+    "Náš priestupok viedol k ponižujúcej premene; na príkaz Alaha sme sa stali opovrhovanými opicami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia Sabatu",
+        "Ľudia z Rassu",
+        "Ľudia z Tubby",
+        "Ľudia z jaskyne",
+        "Spoločníci z priekopy"
+      ],
+      "answer": "Ľudia Sabatu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Výskyt rýb v sobotu",
+        "Rok silného sucha",
+        "Armáda vtákov vyslaná proti nim",
+        "Povodeň, ktorá ich zaplavila",
+        "Silné zemetrasenie"
+      ],
+      "answer": "Výskyt rýb v sobotu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "More",
+        "Hora",
+        "Jaskyňa",
+        "Púštne údolie",
+        "Opevnené mesto"
+      ],
+      "answer": "More"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Premenené na opice",
+        "Pohltený zemou",
+        "Zničený kričiacim vetrom",
+        "Utopený v mori",
+        "Zasiahnutý spŕškou kameňov"
+      ],
+      "answer": "Premenené na opice"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

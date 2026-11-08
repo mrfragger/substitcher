@@ -1,0 +1,61 @@
+{
+  "title": "L'écho qui parvint au trône",
+  "intro": "Une silhouette accablée s'avança vers le tribunal, la voix tremblante non de peur, mais d'espoir. L'affaire était personnelle, mais son dénouement résonnerait à travers les âges, brisant une tradition oppressive. Qui était cette âme dont la plainte avait été entendue au-delà des étoiles ?",
+  "clues": [
+    "Je suis venu le cœur lourd, en quête de justice dans une affaire qui me laissait sans voix.",
+    "Ma prière ne s'adressait pas seulement à un messager ; elle montait au-delà, jusqu'à Celui qui entend tout.",
+    "Les mots prononcés contre moi étaient comme les chaînes d'un passé lointain.",
+    "J'ai argumenté et raisonné, avec des larmes et avec logique, pour défendre ma dignité.",
+    "Une révélation s'est abattue sur moi, faisant taire les anciennes coutumes et reconnaissant ma douleur.",
+    "On m'appelle celle qui a contesté mon mari, et mon nom est devenu synonyme du chapitre qui m'a libérée."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "L'épouse d'Imran (mère de Maryam)",
+        "La femme qui se disputait au sujet de son mari (Khawla bint Tha'laba)",
+        "La reine de Saba (Bilqis)",
+        "La mère de Moïse",
+        "L'épouse du Pharaon (Asiyah)"
+      ],
+      "answer": "La femme qui se disputait au sujet de son mari (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "Le procès ou l'événement",
+      "options": [
+        "Elle a été faussement accusée d'impureté",
+        "Elle était stérile et désirait ardemment un enfant.",
+        "Elle a été confrontée à une coutume de divorce oppressive",
+        "C'était une reine négociant avec un prophète",
+        "Elle a caché son enfant à un tyran."
+      ],
+      "answer": "Elle a été confrontée à une coutume de divorce oppressive"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un veau doré",
+        "Un trône magnifique",
+        "La pratique du Zihar",
+        "Un panier dans la rivière",
+        "Un vœu sacré de dévotion"
+      ],
+      "answer": "La pratique du Zihar"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Elle a eu la joie d'avoir un enfant à un âge avancé.",
+        "Elle a été sauvée de la noyade.",
+        "Elle a reçu une révélation divine abolissant la coutume",
+        "Elle est devenue reine après un test",
+        "Elle reçut en bénédiction un fils qui devint prophète."
+      ],
+      "answer": "Elle a reçu une révélation divine abolissant la coutume"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo o te Mea Kāore e Kitea",
+  "intro": "I roto i ngā pukapuka o te whakawhitiwhiti kōrero a te Atua, ka tū mai tētahi tangata, ko tana kōrero he mea whatu ki ngā tohu whakamiharo me te whakapono pumau. I whiwhi tēnei tangata i tētahi whakakitenga ahurei i wero i ngā tikanga o tōna wā, i a ia e kōrero ana i tua atu i te arai o te tirohanga noa. Kāore i tae mai tā rātou karere mā roto i ngā tikanga tuku iho engari mā roto i tētahi hononga hohonu i whakahē i te māramatanga tangata, e karanga ana i te tangata kia mōhio ki te pono i roto i ngā huarahi ohorere. Ko te haerenga o tēnei pononga a Allah he tohu mō te āhua o te arataki e taea ai te whakaatu i roto i ngā āhuatanga tino rerekē, e tono ana kia whakaaroarohia te āhua o te whakakitenga tonu.",
+  "clues": [
+    "I homai he karere ki ahau i puta mai i roto i tētahi reo ngaro mai i tētahi pūtake kāore i kitea.",
+    "I te tīmatanga i whakakahoretia taku karere e tōku iwi, me te tono kia nui ake ngā taunakitanga tuku iho mō tōku pono.",
+    "I wero ahau i a rātou kia hanga mai i tētahi mea e rite ana ki tāku i whiwhi ai, engari kāore i taea e rātou.",
+    "Ko te whakakitenga i kawea mai e au i whakaahuatia hei whiti mārama i whakamārama i te pono.",
+    "I whakatūpato ahau i taku iwi mō te whiu nui mēnā ka mau tonu rātou i tō rātou whakaponokore me te whakapehapeha.",
+    "Kua whakahuatia taku kōrero i te taha o ētahi atu karere i roto i tētahi sura e whakanui ana i ngā tohu o te mana o Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hūta",
+        "Poropiti Salih",
+        "Poropiti Shu'ayb",
+        "Te Kaiwhakapono o te Whānau o Fir'awn",
+        "Poropiti a Mohi"
+      ],
+      "answer": "Poropiti Salih"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te maka ki roto i te oumu mura",
+        "Te aro atu ki te tukino a te rangatira nanakia",
+        "Te whakaputa i tētahi kamera uha hei tohu merekara",
+        "Te ora i te waipuke nui",
+        "Te maka ki te moana i roto i te pouaka"
+      ],
+      "answer": "Te whakaputa i tētahi kamera uha hei tohu merekara"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te awaawa o Tūwa",
+        "Te tāone o Madyan",
+        "Te whenua o te Thamud",
+        "Te kooti o Fir'awn",
+        "Te ana o Hira"
+      ],
+      "answer": "Te whenua o te Thamud"
+    },
+    "outcome": {
+      "label": "Hua",
+      "answer": "I whakangaromia tōku iwi mō te patunga i te kamera uha merekara",
+      "options": [
+        "I ripeneta taku iwi, ā, i whakaorangia",
+        "I haria oratia ahau ki te rangi",
+        "I whakangaromia tōku iwi mō te patunga i te kamera uha merekara",
+        "I riro ahau hei rangatira nui",
+        "I whakaorangia ahau mā te maka ki roto i te āaka"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Egiaren Deitzaile Irmoa",
+  "intro": "Mezulari bat bakarrik dago herri burugogor baten artean, Jainko Egiazko Bakarrarengana deituz, idolo faltsuei lotuta jarraitzen duten bitartean. Profeta honek esanahi indartsua duen izena darama —\"babesa bilatzen duena\"—, baina ezezkoa eta ukapena baino ez ditu jasotzen. Konbentzimendu leun eta abisu sendoaren bidez, arima honek unibertsoak berak azkenean aldarrikatuko duen mezu jainkotiarra darama. Identifika al dezakezu islamiar idatzietako kontakizun zaharrenetako bat ordezkatzen duen figura sendo hau?",
+  "clues": [
+    "Nire herriak jainko asko gurtzen zituen, eta nik zeruak eta lurra sortu zituena zerbitzatzera deitu nituen.",
+    "Nire nazioaren aurrean zutik jarri nintzen eta adierazi nuen ez nuela saririk eskatuko haiengandik; nire desio bakarra zuzentasunerako gidaritza zen.",
+    "Haize handi bat bidali zuten nire herriaren gainera jainkozko zigor gisa, Koranak pluralean zein femeninoan aipatzen duen haizea.",
+    "Profeta batzuek ez bezala, ez zidaten emazterik edo seme-alabarik eman nire kontakizunean nabarmen aipatuta, nire misioa nire herriari bakarrik deitzea baitzen.",
+    "Nire izenak esanahi sakona du—norberak bilatzen duen babes eta aterpe kontzeptuarekin lotuta.",
+    "Nire herria bizi zen haranaren izen geografiko espezifiko batekin ezagutzen zen, eta haien lurra bereziki mespretxuz deskribatzen zen landaretza faltagatik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hud profeta",
+        "Salih profeta",
+        "Shu'aib profeta",
+        "Nuh profeta",
+        "Hudayb profeta"
+      ],
+      "answer": "Hud profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Lurraren uholdea.",
+        "Haize erretzailea.",
+        "Suntsipenaren lurrikara.",
+        "Lehortea eta gosetea",
+        "Itsasoan itota egotea."
+      ],
+      "answer": "Haize erretzailea."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Yemengo haran emankorra",
+        "Midiango basamortu hareatsua",
+        "Thamud-eko harana harritsua",
+        "'Ad herriaren antzinako lurraldea",
+        "Egiptoko kostaldeko eskualdea"
+      ],
+      "answer": "'Ad herriaren antzinako lurraldea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Nire herriak damutu eta paradisura sartu zen",
+        "Nire herriko inork ez zuen zigorra gainditu",
+        "Nire anaia Yunus bezala bizirik eraman ninduten",
+        "Nire jarraitzaileekin lurralde bedeinkatu batera migratu nuen",
+        "Haizeak sinestun ez zirenak bakarrik suntsitu zituen, sinestunak bizirik iraun zuten bitartean."
+      ],
+      "answer": "Nire herriko inork ez zuen zigorra gainditu"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Izandla Eziqalekisiweyo",
+  "intro": "Umi kwiindlela ezijikelezayo zaseMakkah yamandulo, apho umphefumlo onempembelelo nobutyebi wawukhe waphambuka kubizo lwenyaniso. Ibali lalo mntu lisisikhumbuzo esicacileyo sokuba amaqhina egazi awanakuwoyisa amatyathanga ekratshi. Ngubani lo ogama lakhe livakala njengomlilo olindeleyo?",
+  "clues": [
+    "Ndihambe ezitalatweni zaseMakka ndinekratshi elandimfamekisayo ukuba ndingayazi inyaniso, nangona umthunywa wayengowegazi lam.",
+    "Izinto zam zazininzi, kodwa zaba sisiqalekiso endaweni yokuba yikhaka.",
+    "Incwadi yesikhokelo ithetha ngokonakala kwam, ivakalisa ukuba izandla zam kunye nomzimba wam ziya kutshabalala.",
+    "Iqabane lam lajoyina iphulo lam lobutshaba, liqokelela ameva ukuze asasazeke endleleni yalowo ubiza u-Allah.",
+    "Ngomhla womgwebo, ndiza kuphoswa emlilweni ovuthayo, kwaye iqabane lam liza kuba nentambo yesundu entanyeni.",
+    "Ndiyaziwa ngegama elithetha 'uyise welangatye' — igama elixela kwangaphambili indawo yam yokuhlala ngonaphakade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "U-Abu Lahab",
+        "U-Abu Jahl",
+        "U-Abu Talib",
+        "U-Abu Sufyan",
+        "U-Al-Walid ibn al-Mughira"
+      ],
+      "answer": "U-Abu Lahab"
+    },
+    "trial": {
+      "label": "Uvavanyo oluPhambili okanye iSiganeko",
+      "options": [
+        "Wamchasa uMprofeti waza waqalekiswa kwiQuran",
+        "Wakhokela umkhosi ukutshabalalisa iKaaba",
+        "Wazama ukubulala uMprofeti ngokuphosa amatye",
+        "Wenqaba ukukholelwa ekwahlukaneni kwenyanga",
+        "Wakha inqaba yokufikelela emazulwini"
+      ],
+      "answer": "Wamchasa uMprofeti waza waqalekiswa kwiQuran"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umlilo ovuthayo weSihogo",
+        "Abasebenzi bakaMusa",
+        "Ityeya kaNuh",
+        "Iqula laseZamzam",
+        "Ithole Legolide"
+      ],
+      "answer": "Umlilo ovuthayo weSihogo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uza kungena eMlilweni ovuthayo, kwaye ubutyebi bakhe abuyi kumnceda nganto.",
+        "Waguquka waza waba likholwa",
+        "Waxolelwa emva kokulahla inkolelo yakhe",
+        "Wafa njengomfeli-nkolo",
+        "Wanyuselwa ezulwini"
+      ],
+      "answer": "Uza kungena eMlilweni ovuthayo, kwaye ubutyebi bakhe abuyi kumnceda nganto."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

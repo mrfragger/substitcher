@@ -1,0 +1,61 @@
+{
+  "title": "UMbusi Owayefuna UbuNkulunkulu",
+  "intro": "Umbusi onamandla nozikhukhumezayo wayekholelwa ukuthi akekho owayemi ngaphezu kwesihlalo sakhe sobukhosi. Baxosha iqembu elalibaleka emanzini amaningi, kodwa bagcina befike esiphelweni esimangalisayo. Indaba yalo mbusi izwakala ezindimeni eziningi zeQuran, isebenza njengesixwayiso kubo bonke.",
+  "clues": [
+    "Ngangingumbusi onamandla owayekholelwa ukuthi akukho gunya elidlula elami emazweni engangiwabusa.",
+    "Nganginomuntu owayengithemba ogama lakhe linguHaman owangisiza ekwenzeni imisebenzi emikhulu yokwakha.",
+    "Ngabiza izangoma ezinhle kakhulu ezweni lakithi ukuze zingiphonsele inselelo ngezibonakaliso zesithunywa esingiphikisayo.",
+    "Ngenqaba ukuvumela abantu ababeyizigqila embusweni wami bahambe, naphezu kwezifo nezixwayiso ezicacile.",
+    "Ngabaxosha ngaphesheya kolwandle olukhulu nebutho lami lonke nezinqola zami.",
+    "Lolo lwandle lwangisibekela mina namabutho ami, lwasicwilisa sonke, ngesikhathi bewela ngokuphepha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UFir'awn (uFaro)",
+        "I-Namrud",
+        "Abu Lahab",
+        "UHamani",
+        "U-Abu Jahl"
+      ],
+      "answer": "UFir'awn (uFaro)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Izinhlupho kanye nokubhekana noMose (uMose)",
+        "Ukwakha umkhumbi ngaphambi kukazamcolo omkhulu",
+        "Impi noJalut esigodini",
+        "Ukugwinywa whale",
+        "Ukuvikela izilinganiso zokuhweba ezithembekile"
+      ],
+      "answer": "Izinhlupho kanye nokubhekana noMose (uMose)"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Imibhoshongo emide nezigxobo",
+        "Umkhumbi omkhulu wokhuni",
+        "Ithole legolide",
+        "Induku eyaphenduka inyoka",
+        "Umkhomo omkhulu"
+      ],
+      "answer": "Imibhoshongo emide nezigxobo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ngicwile olwandle nebutho",
+        "Ukusindiswa ngesihe nokubekezela kuka-Allah kuvuzwa",
+        "Ngiphinde ngahlangana nomndeni wami ngemuva kweminyaka eminingi yobunzima",
+        "Kugwinywe umhlaba",
+        "Kushiswe emlilweni"
+      ],
+      "answer": "Ngicwile olwandle nebutho"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

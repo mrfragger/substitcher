@@ -1,0 +1,61 @@
+{
+  "title": "Klaim Kawenangan Mutlak",
+  "intro": "Jaman baheula, aya hiji jalma anu kuat naék tahta pikeun ngawasa hiji tanah anu lega sareng pangeusina. Pamaréntahan tokoh ieu ditandaan ku kareueus anu ageung sareng tantangan anu jero kana otoritas ilahi. Siap-siap pikeun ngungkabkeun idéntitas hiji jiwa anu nasibna pamungkas janten palajaran anu langgeng pikeun sadaya generasi.",
+  "clues": [
+    "Kuring ngawasa hiji karajaan anu perkasa, dimana kecap-kecap kuring nyaéta hukum.",
+    "Kuring nyatakeun diri kuring salaku déwa anu pang luhurna, nungtut disembah ti sakumna anu aya di handapeun kakawasaan kuring.",
+    "Kuring nindas hiji komunitas husus, ngajadikeun maranéhna budak beulian sarta nitah maehan orok lalaki maranéhanana.",
+    "Kuring sababaraha kali dikonfrontasi ku utusan Allah anu rendah haté, anu ngalakukeun mukjizat anu atra di hareupeun kuring sareng di payuneun tukang sihir kuring.",
+    "Kuring kalawan keras kepala nolak bebeneran, nuduh utusan éta ngalakukeun sihir sarta ngarencanakeun pikeun ngancurkeun anjeunna sareng para pengikutna.",
+    "Sakabéh pasukan kuring jeung kuring kalelep ku laut nalika kami terus-terusan ngudag jalma-jalma anu geus dibébaskeun tina genggeman kuring."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Nimrod",
+        "Abu Jahal",
+        "Iblis",
+        "Fir'aun",
+        "Haman"
+      ],
+      "answer": "Fir'aun"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Banjir Ageung",
+        "Seuneu Nu Ngaduruk",
+        "Tilelepna Si Penindas",
+        "Karusakan ku Angin",
+        "Lindhu Kateupercayaan"
+      ],
+      "answer": "Tilelepna Si Penindas"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Bahtera Nabi Nuh",
+        "Tongkat Musa",
+        "Idola Emas",
+        "Sumur Zamzam",
+        "Tahta Bilqis"
+      ],
+      "answer": "Tongkat Musa"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diberikan kerajaan yang luas",
+        "Awak dijaga salaku tanda",
+        "Dihampura saatos tobat",
+        "Diangkat jadi kenabian",
+        "Rahayatna janten jalmi anu soleh"
+      ],
+      "answer": "Awak dijaga salaku tanda"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

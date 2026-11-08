@@ -1,0 +1,61 @@
+{
+  "title": "Korona, która rzuciła wyzwanie niebiosom",
+  "intro": "W korytarzach starożytnych królestw imię pewnego władcy stało się synonimem tyranii i arogancji. Kiedy pokorny sługa Allaha przybył, niosąc niezaprzeczalne znaki, ten potężny władca odmówił poddania się prawdzie. Dziś Twoim zadaniem jest zidentyfikowanie tej legendarnej postaci, której panowanie legło w gruzach, a los został przypieczętowany falami.",
+  "clues": [
+    "Jestem najbardziej obawianym władcą, którego imię wciąż rozbrzmiewa echem od wieków jako ostrzeżenie.",
+    "Rozkazałem całemu ludowi pracować w łańcuchach, wznosząc pomniki, które głosiły moją chwałę.",
+    "Kiedy posłaniec Allaha przybył przede mną z niezaprzeczalnymi znakami, odmówiłem pokłonu i nazwałem to czarami.",
+    "Zarządzałem zabijanie małych chłopców spośród jeńców, mając nadzieję, że złamię ich ducha, zanim zdążą powstać.",
+    "Stanąłem przed moim dworem i oświadczyłem: „Jestem waszym najwyższym panem”, domagając się czci należnej bogu.",
+    "Mając u boku mojego szefa rządu, zbudowałem ogromną konstrukcję, która miała sięgnąć poza niebiosa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Faraon (Firawn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraon (Firawn)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Utonięcie w Morzu Czerwonym",
+        "Wielbłądzica wysłana do mieszkańców Thamud",
+        "Wielka powódź Nuh",
+        "Kara dla Towarzyszy Okopu",
+        "Zniszczenie armii Abrahy przez ptaki"
+      ],
+      "answer": "Utonięcie w Morzu Czerwonym"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wznosząca się budowla zbudowana przez Hamana",
+        "Arka, która płynęła podczas potopu",
+        "Złoty cielec wykonany przez Samirów",
+        "Tron Bilqis, królowej Saby",
+        "Jaskinia śpiących młodzieńców"
+      ],
+      "answer": "Wznosząca się budowla zbudowana przez Hamana"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Utonął w morzu; ciało zachowano jako ostrzeżenie",
+        "Wygnany i zmuszony do tułaczki po dziczy",
+        "Zamienieni w małpy jako kara",
+        "Powalony przez gwałtowne trzęsienie ziemi",
+        "Spalone deszczem kamieni z nieba"
+      ],
+      "answer": "Utonął w morzu; ciało zachowano jako ostrzeżenie"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

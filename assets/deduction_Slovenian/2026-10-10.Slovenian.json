@@ -1,0 +1,61 @@
+{
+  "title": "Pernati skavt",
+  "intro": "V kraljestvu, ki mu je vladal nekdo, ki mu je bila podeljena oblast nad vetrovi, nevidnimi bitji in nebeškimi bitji, je majhen in hiter član izginil iz vrst – le da bi se vrnil z razodetji, ki so spremenila usodo oddaljenega naroda. Ta ostrooki informator je razkril resnico tam, kjer se je ukoreninila nevednost. Kdo sem jaz?",
+  "clues": [
+    "Služil sem na dvoru, kjer so ljudje, nevidna bitja in nebeška bitja odgovarjali enemu samemu modremu vladarju, ki je poveljeval celo vetrovom.",
+    "Nekaj ​​časa sem bil odsoten s svojega položaja in vladarjeva jeza je bila obljubljena, če ne bi navedel zadovoljivega razloga.",
+    "Sem majhno leteče bitje, znano po ostrem vidu, in moja vrsta je bila počaščena z neposrednim poimenovanjem na straneh razodetja.",
+    "Ko sem se vrnil, sem prinesel novico o daljni deželi, kjer so se ljudje klanjali soncu, slepi za Tistega, ki je ustvaril nebesa in zemljo.",
+    "Našel sem žensko, ki je vladala velikemu kraljestvu, sedela na veličastnem prestolu in še nikoli prej ni poznala resnice.",
+    "Jaz sem tisti, ki je odkril kraljestvo Saba in prinesel pismo s povabilom preroka-kralja, ki mu je bila dana oblast nad vetrom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Udjavec (Hudhud)",
+        "Mravlja iz Sulejmanove doline",
+        "Asif ibn Barkhiya",
+        "Ifrit Džin",
+        "Angel prestola"
+      ],
+      "answer": "Udjavec (Hudhud)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Odprava v kraljestvo Saba (Šeba)",
+        "Soočenje s faraonovimi čarovniki",
+        "Poplava preroka Nuha",
+        "Uničenje ljudstva Ad",
+        "Razcepitev Rdečega morja"
+      ],
+      "answer": "Odprava v kraljestvo Saba (Šeba)"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dežela Saba (Šeba)",
+        "Gora Sinaj",
+        "Skrinja preroka Nuha",
+        "Jama Ashab al-Kahf",
+        "Faraonova palača"
+      ],
+      "answer": "Dežela Saba (Šeba)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Bilkis se je podredil Sulejmanovemu dvoru",
+        "Faraon in njegova vojska sta se utopila v morju",
+        "Prebivalce Ada je uničil silovit veter",
+        "Faraonovi čarovniki so verjeli v preroka Musa",
+        "Velika poplava je požrla nevernike"
+      ],
+      "answer": "Bilkis se je podredil Sulejmanovemu dvoru"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

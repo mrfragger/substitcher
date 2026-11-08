@@ -1,0 +1,61 @@
+{
+  "title": "Uzta ugariaren madarikazioa",
+  "intro": "Antzinako lurralde batean, arima jakin bat bere komunitateko aberatsenen artean zegoen. Bi aldiz iritsi zitzaizkien lurraren bedeinkapenak urte jarraian, uzta bikoitza, esker onez bete beharko liekeena. Hala ere, tragedia gertatu eta gau bakarrean zuten guztia kendu zietenean, haien erantzunak beren arimaren benetako izaera agerian utzi zuen. Jakin al dezakezu zein den Alaren bedeinkapenetan sinesgaiztasunaren aurkako abisu gisa balio duen pertsonaia honen nortasuna?",
+  "clues": [
+    "Lurraldeko arima zoriontsuenen artean nengoen, hornidura ugariz bedeinkatua.",
+    "Bi aldiz heldu zitzaidan uzta bi urtetan zehar, baina nire bihotza esker txarrekoa izan zen nire Jaunarekin.",
+    "Mahatsondo, olibondo eta palmondoekin lorategi handi bat nuen—Alaren faborearen lekuko.",
+    "Nire lorategia suntsitu zutenean, hondakinen artean zutik egon nintzen, eskuak zerurantz luzatuta, nire patua madarikatzen.",
+    "Ukatu nuen Ala-k halako galera eragin zezakeenik, etsipenez esku-ahurrak zapaldu arren.",
+    "Nire zigorra ez zen nire lorategia galtzea bakarrik, baizik eta hondakinetan guztiz babesgabe uztea, inori laguntzarik eskatu ezinik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "26. Surako lorategiaren jabea",
+        "Lurralde urrun bateko bi lorategiren jabea",
+        "Oparotasunaren hiriko arima aberats bat",
+        "Surah Al-Kahf-en aipatzen den nekazaria",
+        "Shu'aib profetaren garaiko mahastizain bat"
+      ],
+      "answer": "26. Surako lorategiaren jabea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gau bakarrean suntsitutako lorategi baten galera",
+        "Lurra estali zuen uholde handia",
+        "Egiazko eta gezurrezko profetekin probatua izatea",
+        "Sutara botatzearen proba",
+        "Lurrak irentsi izanaren proba"
+      ],
+      "answer": "Gau bakarrean suntsitutako lorategi baten galera"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Bi urtetan zehar suntsitutako mahatsondo, olibondo eta palmondoen lorategia",
+        "Mendi altu batean eraikitako itsasontzia",
+        "Nazio transgresore baten hiria",
+        "Antzinako Midiango putzu bat",
+        "Paradisuko ibaia."
+      ],
+      "answer": "Bi urtetan zehar suntsitutako mahatsondo, olibondo eta palmondoen lorategia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erabateko babesgabetasuna — laguntzarik gabe suntsituta",
+        "Paradisura sartzeko berpizkundea",
+        "Alaren profeta bihurtzea",
+        "Nazio handi baten lidergoa",
+        "Betiko zigorra suan"
+      ],
+      "answer": "Erabateko babesgabetasuna — laguntzarik gabe suntsituta"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

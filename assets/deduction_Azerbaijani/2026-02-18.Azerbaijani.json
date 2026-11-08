@@ -1,0 +1,61 @@
+{
+  "title": "Möhkəm Şahid",
+  "intro": "Dərin bir hekayə, böyük bir zülm qarşısında bir cəmiyyətin sarsılmaz qətiyyətini ortaya qoyur. Onların hekayəsi, hətta son qurbanla qarşılaşdıqda belə, imanın sübutudur. Bu hekayə bizə böyük zülmə qarşı imanın gücünü xatırladır.",
+  "clues": [
+    "Biz hekayəsi qısa və təsirli bir surədə təsvir edilən və təqiblərə qarşı xəbərdarlıq edən bir qrup idik.",
+    "Biz Ərşin Rəbbi, Tərifəlayiq olan Tək Allaha olan inancımızı aradan qaldırmaq istəyən bir hökmdarla qarşılaşdıq.",
+    "Biz yerin dərinliyində qazılmış nəhəng bir quyu ilə bağlı dəhşətli bir sınaqla qarşılaşdıq.",
+    "Biz körpələr də daxil olmaqla, imanlıların həmin çuxurun içində şiddətli bir cəhənnəmə atıldığını izlədik.",
+    "Bizə əzab verənlər əməllərinə görə lənətləndilər, bizə isə səbrimizə görə böyük mükafat vəd edildi.",
+    "Hökmdarın imanımızı söndürmək cəhdi, hər şeyə şahid olan Allah yanında şəhid kimi yerimizi daha da möhkəmləndirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Səmud xalqı",
+        "Ad xalqı",
+        "Xəndək İnsanları",
+        "Lut qövmü",
+        "Fil Xalqı"
+      ],
+      "answer": "Xəndək İnsanları"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük Daşqın",
+        "Yanan Kol",
+        "Dənizdə Boğulma",
+        "Odlu Çuxur",
+        "Zəlzələ"
+      ],
+      "answer": "Odlu Çuxur"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Xəndək",
+        "Dağ",
+        "Quyu"
+      ],
+      "answer": "Xəndək"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Onlara bir padşahlıq verildi",
+        "Möcüzə ilə xilas oldular",
+        "Şəhidliyə və Cənnətə nail olmaq",
+        "Torpaqlara səpələnmişdilər",
+        "Onlara böyük sərvət verildi"
+      ],
+      "answer": "Şəhidliyə və Cənnətə nail olmaq"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

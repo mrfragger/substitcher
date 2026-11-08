@@ -1,0 +1,61 @@
+{
+  "title": "Suverenning buyuk itoatkorligi",
+  "intro": "Siz o'zingizni qadimiy mo''jizalar va chuqur vahiylar diyorida topasiz. Kutilmagan taklifga duch kelgan qudratli hukmdor o'z taqdirining yo'nalishini va xalqining e'tiqodini o'zgartiradigan sayohatga otlandi. Bu ulug'vor shaxsning kimligini ochib bera olasizmi?",
+  "clues": [
+    "Men ulkan boylik va ulug'vor taxt bilan bezatilgan, gullab-yashnagan saltanat ustidan hukmronlik qildim.",
+    "Men va xalqim samoviy jismga sig'inardik, uni bizning xo'jayinimiz deb hisoblardik, garchi yuragimda shubhalar bo'lsa ham.",
+    "G'alati bir xabarchi, qush, menga va xalqimni yagona Xudoga bo'ysunishga chaqiruvchi xat yetkazdi.",
+    "Men bu misli ko'rilmagan xabarga qanday javob berish haqida juda kuchli maslahatchilarim bilan maslahatlashdim.",
+    "Men xatni yuborgan odamning kuchi va niyatlarini baholash umidida unga qimmatbaho sovg'a yuborishga qaror qildim.",
+    "Yetib kelganimda, shishadan yasalgan, suv havzasiga o'xshab ko'rinadigan polli saroy meni hayratda qoldirdi va o'shanda men barcha mavjudotlarning Parvardigoriga itoatkorligimni e'lon qildim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avn",
+        "Sheba malikasi",
+        "Zulqarnayn",
+        "Luqmon",
+        "Yusuf payg'ambar"
+      ],
+      "answer": "Sheba malikasi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Dengizning ikkiga bo'linishi",
+        "Buyuk toshqin",
+        "Sulaymon payg'ambar bilan uchrashish safari",
+        "Lut qavmining halokati",
+        "Ibrohim payg'ambarning yondirilishi"
+      ],
+      "answer": "Sulaymon payg'ambar bilan uchrashish safari"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Taxt",
+        "Tog'",
+        "Olov"
+      ],
+      "answer": "Taxt"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Payg'ambar bo'ldi",
+        "Alloh tomonidan vayron qilingan",
+        "Islomni qabul qildi",
+        "Xalqini urushga boshlab bordi",
+        "Buyuk ma'bad qurdi"
+      ],
+      "answer": "Islomni qabul qildi"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

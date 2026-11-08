@@ -1,0 +1,61 @@
+{
+  "title": "Ognisty Przeciwnik",
+  "intro": "Na początku objawienia pojawiła się postać upartego przeciwnika prawdy. Obdarzona bogactwem i statusem, dusza ta wybrała dumę zamiast przewodnictwa, a jej historia stała się surowym ostrzeżeniem w ostatnich wersetach sury.",
+  "clues": [
+    "Mieszkałem w tym samym mieście co Prorok i byłem jedną z jego najbliższych krewnych, jednak moja duma trzymała mnie z dala od prawdy.",
+    "Posiadałem wielki majątek i liczne nieruchomości i myślałem, że moje zasoby zawsze mnie ochronią.",
+    "Kiedy przesłanie zostało objawione, otwarcie je wyśmiałem i odwróciłem się, uważając się za lepszego od wierzących.",
+    "Moja wrogość była tak powszechna, że ​​jedna z sur Koranu zwróciła się bezpośrednio do mnie, nazywając mnie imieniem, pod którym znali mnie inni.",
+    "Ostrzegano mnie, że mój majątek i zarobki nie przyniosą mi żadnej korzyści i że zostanę wrzucony w płonący ogień.",
+    "Znany jestem jako ojciec płomienia, a moja żona będzie nosić drewno na opał, mając na szyi linę z włókien palmowych."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Abu Lahab",
+        "Abu Dżahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Odrzucił islam i otwarcie sprzeciwił się Prorokowi",
+        "Zaplanowano zabójstwo Proroka",
+        "Prowadził bojkot społeczny przeciwko muzułmanom",
+        "Walczył w bitwie pod Badr",
+        "Torturowany Bilal ibn Rabah"
+      ],
+      "answer": "Odrzucił islam i otwarcie sprzeciwił się Prorokowi"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Lina z włókna palmowego",
+        "Ostry miecz",
+        "Ciężki łańcuch",
+        "Drewniany kij",
+        "Skórzany bicz"
+      ],
+      "answer": "Lina z włókna palmowego"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Spłonie w płonącym ogniu",
+        "Żałował i został towarzyszem",
+        "Stracił majątek, ale zmarł z szacunkiem",
+        "Uciekł do Abisynii",
+        "Utonął w morzu"
+      ],
+      "answer": "Spłonie w płonącym ogniu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

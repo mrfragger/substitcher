@@ -1,0 +1,61 @@
+{
+  "title": "I-Scout Enezimpaphe",
+  "intro": "Ngaphakathi kombuso obuswa yilowo onikwe ubukhosi phezu kwemimoya, izidalwa ezingabonakali, kanye nezidalwa zezulu, ilungu elilodwa elincane nelisheshayo lanyamalala ezikhundleni - labuya nezambulo ezazizokwakha kabusha isiphetho sesizwe esikude. Lo mnikezeli onolwazi onamehlo abukhali waletha iqiniso ekukhanyeni lapho ukungazi kwaqala khona. Ngingubani?",
+  "clues": [
+    "Ngakhonza enkantolo lapho abantu, izidalwa ezingabonakali, nezidalwa zezulu zazisabela kumbusi oyedwa ohlakaniphile owayelawula imimoya.",
+    "Bengingekho emsebenzini wami isikhashana, futhi intukuthelo yombusi yathenjiswa uma nginganikezi isizathu esanele.",
+    "Ngiyisidalwa esincane esindizayo, esaziwa ngokubona okubukhali, futhi uhlobo lwami lwahlonishwa ngokuqanjwa ngamagama ngqo emakhasini esambulo.",
+    "Lapho ngibuya, ngilethe izindaba zezwe elikude lapho abantu babekhothamela khona ilanga, bengaboni kuLowo owadala amazulu nomhlaba.",
+    "Ngithole owesifazane ebusa umbuso omkhulu, ehlezi esihlalweni sobukhosi esihle kakhulu, engakaze alazi iqiniso ngaphambili.",
+    "Nginguyena owathola umbuso waseSaba futhi waphatha incwadi yesimemo esivela kumprofethi-inkosi eyanikwa ukubusa phezu komoya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "I-Hoopoe (i-Hudhud)",
+        "Intuthwane evela eSigodini sikaSulaiman",
+        "U-Asif ibn Barkhiya",
+        "Ifrit the Jinn",
+        "Ingelosi Yesihlalo Sobukhosi"
+      ],
+      "answer": "I-Hoopoe (i-Hudhud)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Uhambo oluya eMbusweni waseSaba' (Sheba)",
+        "Ukungqubuzana nabathakathi bakaFaro",
+        "Isikhukhula soMprofethi uNuh",
+        "Ukubhujiswa kwabantu base-'Ad",
+        "Ukuhlukana koLwandle Olubomvu"
+      ],
+      "answer": "Uhambo oluya eMbusweni waseSaba' (Sheba)"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Izwe laseSaba' (Sheba)",
+        "INtaba iSinayi",
+        "Umphongolo woMprofethi uNuh",
+        "Umhume ka-Ashab al-Kahf",
+        "Isigodlo sikaFaro"
+      ],
+      "answer": "Izwe laseSaba' (Sheba)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "UBilqis wazithoba enkantolo kaSulaiman",
+        "UFaro nebutho lakhe baminza olwandle",
+        "Abantu base-'Ad babhujiswa umoya onamandla",
+        "Abathakathi bakaFaro babekholelwa kuMprofethi uMose",
+        "Isikhukhula esikhulu saqothula abangakholwa"
+      ],
+      "answer": "UBilqis wazithoba enkantolo kaSulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

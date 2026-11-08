@@ -1,0 +1,61 @@
+{
+  "title": "Pārkāpums pie krasta",
+  "intro": "Tu stāvi aizmirsta krasta smiltīs, kur viļņi čukst par kopienu, ko pārbaudījusi dievišķa pavēle. Gaiss ir smags ar atmiņām par pārkāpumu, kas novedis pie pārsteidzošas pārvērtības. Kas bija šīs dvēseles un kāds bija viņu pārbaudījumu raksturs?",
+  "clues": [
+    "Mēs bijām kopiena, kas saņēma skaidru pavēli no mūsu Kunga, tomēr atradām veidus, kā to ignorēt.",
+    "Mēs dzīvojām netālu no ūdenstilpnes, un mūsu iztika bija atkarīga no tās radībām.",
+    "Dienā, kad mums pavēlēja atturēties no pasaulīgām nodarbēm, mūs piemeklēja pārbaudījums.",
+    "Ūdens radības tanī pašā dienā lielā skaitā ieradās pie mums, kārdinot mūs pāri izturībai.",
+    "Mēs izdomājām viltīgu triku, lai apietu dievišķo rīkojumu, domājot, ka varam pārspēt dekrētu.",
+    "Mūsu pārkāpums noveda pie pazemojošas pārvērtības; pēc Allāha pavēles mēs kļuvām par nicinātiem pērtiķiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Sabata ļaudis",
+        "Rasas ļaudis",
+        "Tubbas iedzīvotāji",
+        "Alas ļaudis",
+        "Grāvja biedri"
+      ],
+      "answer": "Sabata ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Zivju parādīšanās sabatā",
+        "Smaga sausuma gads",
+        "Pret viņiem nosūtīta putnu armija",
+        "Plūdi, kas viņus pārņēma",
+        "Spēcīga zemestrīce"
+      ],
+      "answer": "Zivju parādīšanās sabatā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Jūra",
+        "Kalns",
+        "Ala",
+        "Tuksneša ieleja",
+        "Nocietināta pilsēta"
+      ],
+      "answer": "Jūra"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Pārvērtās par pērtiķiem",
+        "Zeme norīja",
+        "Iznīcināts kliedzoša vēja ietekmē",
+        "Noslīcis jūrā",
+        "Saskārusi akmeņu lietusgāze"
+      ],
+      "answer": "Pārvērtās par pērtiķiem"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

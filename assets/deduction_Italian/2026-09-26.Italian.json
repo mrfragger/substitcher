@@ -1,0 +1,61 @@
+{
+  "title": "La negazione in mezzo all'abbondanza",
+  "intro": "Vi trovate tra un popolo i cui mercati brulicano di commercio, eppure le loro bilance pendono disonestamente. Un messaggero è giunto con chiari avvertimenti, ma loro ridono e si voltano, fiduciosi nella loro prosperità. Il cielo comincia a oscurarsi, ma loro lo interpretano come una benedizione, un presagio di pioggia. Chi sono queste persone?",
+  "clues": [
+    "Prosperammo in terre di commercio e abbondanza, eppure i nostri cuori si indurirono.",
+    "Un messaggero venne a noi con segni del nostro Signore, ma noi ci facemmo beffe dei suoi avvertimenti.",
+    "Eravamo noti per la nostra attività commerciale, ma davamo misure insufficienti e imbrogliavamo la gente.",
+    "Vivevamo immersi in una fitta vegetazione e in una vegetazione lussureggiante, ma davamo per scontate le nostre fortune.",
+    "Quando si avvicinò una nuvola scura, ci rallegrammo, pensando che avrebbe portato la pioggia alle nostre terre aride.",
+    "Invece, quella nube scatenò una punizione bruciante, e fummo colti dal tormento del giorno delle tenebre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Ashab al-Aykah (I compagni del bosco)",
+        "Popolo di Thamud",
+        "Persone di 'Ad",
+        "Popolo di Lutero",
+        "Popolo di Nuh"
+      ],
+      "answer": "Ashab al-Aykah (I compagni del bosco)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Hanno rigettato il loro messaggero e hanno truffato nel commercio",
+        "Adoravano un vitello d'oro e furono sviati",
+        "Praticavano la sodomia e attaccavano i viaggiatori.",
+        "Costruirono alte torri e sfidarono Dio",
+        "Si sono rifiutati di condividere l'acqua e hanno fatto del male a una cammella."
+      ],
+      "answer": "Hanno rigettato il loro messaggero e hanno truffato nel commercio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una fitta foresta o un boschetto",
+        "Una montagna scavata in abitazioni",
+        "Una città sul mare",
+        "Una valle desertica con pozzi",
+        "Un giardino fertile con molti frutti"
+      ],
+      "answer": "Una fitta foresta o un boschetto"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Distrutto da una nube d'ombra di fuoco",
+        "Annegato da una grande alluvione",
+        "Inghiottito da un terremoto",
+        "Colpito da un vento violento",
+        "Trasformato in pietra"
+      ],
+      "answer": "Distrutto da una nube d'ombra di fuoco"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

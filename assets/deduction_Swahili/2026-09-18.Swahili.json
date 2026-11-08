@@ -1,0 +1,61 @@
+{
+  "title": "Wito kutoka Bonde Takatifu",
+  "intro": "Zaidi ya kurasa za historia kuna hadithi ya nafsi iliyosimama kati ya mtawala mwenye nguvu na watu wote waliokuwa watumwa. Mtu huyu aliitwa kuliokoa taifa kutokana na udhalimu, akifanya maajabu yaliyopinga kila sheria ya asili. Kuanzia mlima mtakatifu hadi muujiza juu ya maji, mtumishi huyu wa Mwenyezi Mungu alishuhudia ishara ambazo zingerudiwa kwa karne nyingi. Kazi yako leo ni kumtambua mtu huyu wa ajabu ambaye urithi wake uliunda historia ya mwanadamu.",
+  "clues": [
+    "Nilizaliwa wakati ambapo watu wangu walikabiliwa na amri ya kifo, na familia yangu iliniweka majini ili kuokoa maisha yangu.",
+    "Nilipatikana na kukulia katika nyumba ya mtawala aliyeamuru vifo vya aina yangu.",
+    "Nilikimbilia mlima mtakatifu ambapo niliona moto juu ya mti ambao haukuteketea, na sauti ikasema nami kutoka humo.",
+    "Nilirudishwa kwa mtawala huyo huyo kwa miujiza, nikidai uhuru wa watu wangu waliotumwa.",
+    "Niliipiga bahari kwa fimbo yangu, nayo ikagawanyika na kuwa njia kavu, ikawameza wale waliokuwa wakiwafuatia watu wangu.",
+    "Nilizungumza na Bwana wangu mlimani kwa usiku arobaini, na nikapewa vibao vya mwongozo wa kimungu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Musa",
+        "Nabii Harun",
+        "Nabii Ibrahimu",
+        "Nabii Yusufu",
+        "Nabii Daudi"
+      ],
+      "answer": "Nabii Musa"
+    },
+    "trial": {
+      "label": "Jaribio Langu Linalofafanua",
+      "options": [
+        "Kugawanyika kwa Bahari",
+        "Kujenga Safina Kubwa",
+        "Jaribio la Moto Unaowaka",
+        "Kufungiwa Tumboni mwa Nyangumi",
+        "Kifungo na Afisa wa Misri"
+      ],
+      "answer": "Kugawanyika kwa Bahari"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Fimbo ya Mchungaji",
+        "Sanduku Kubwa la Mbao",
+        "Pango Ambapo Wakati Ulilala",
+        "Bustani Yenye Chemchemi Mbili",
+        "Kiti cha Enzi Kilichopambwa kwa Dhahabu"
+      ],
+      "answer": "Fimbo ya Mchungaji"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu Wangu Walivuka Bahari Kuelekea Usalama",
+        "Gharika Kubwa Iliangamiza Makafiri",
+        "Moto wa Mtawala Ukawa Baridi na wa Amani",
+        "Bahari Yawateka Wafungwa Wake Ufukweni",
+        "Mfungwa Akawa Mweka Hazina wa Misri"
+      ],
+      "answer": "Watu Wangu Walivuka Bahari Kuelekea Usalama"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

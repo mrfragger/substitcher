@@ -1,0 +1,61 @@
+{
+  "title": "Ang Halad nga Nag-usab sa Kapalaran",
+  "intro": "Sa unang mga adlaw sa katawhan, usa ka kalag ang mitanyag og gasa nga may putli nga mga intensyon. Apan, ang kasina nagpahipi sa landong sa pagdawat. Diskobrehi ang istorya niining tawo kansang pagkadiosnon ug trahedya nga katapusan gibilin nga walay kamatayon sa balaang pagpadayag.",
+  "clues": [
+    "Usa ako sa pinakaunang mga henerasyon sa katawhan.",
+    "Naghalad ako sa akong Ginoo, ug kini gidawat uban ang pag-uyon.",
+    "Gisalikway ang halad sa akong igsoon, ug ang kasina mipangitngit sa iyang kasingkasing.",
+    "Giingnan nako siya, 'Kon imong ituy-od ang imong kamot kanako aron patyon ako, dili ko ituy-od ang akong kamot aron patyon ka; sa pagkatinuod nahadlok ako kang Allah, ang Ginoo sa mga kalibutan.'",
+    "Nahimo akong biktima sa unang buhat sa pagpatay dinhi sa yuta.",
+    "Misinggit ang akong dugo, ug ako ang unang martir sa pagka-inosente."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Cain)",
+        "Ang Lalaki gikan sa Ya-Sin",
+        "Ang Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gidawat ang iyang halad, hinungdan sa kasina sa iyang igsoon ug sa iyang pagpatay",
+        "Gilabay siya ngadto sa nagdilaab nga hudno apan migawas nga wala maunsa",
+        "Nagtukod siyag dakong barko ubos sa giya sa Diyos",
+        "Gilamoy siya sa usa ka dakong isda ug nagpabilin sa kangitngit",
+        "Gipangulohan niya ang iyang katawhan latas sa nabahin nga dagat"
+      ],
+      "answer": "Gidawat ang iyang halad, hinungdan sa kasina sa iyang igsoon ug sa iyang pagpatay"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka gidawat nga tanyag",
+        "Usa ka sungkod nga nahimong bitin",
+        "Usa ka bayeng kamelyo isip usa ka balaang timaan",
+        "Usa ka hoopoe nga nagdala og balita",
+        "Usa ka bulawan nga nating baka nga gisimba"
+      ],
+      "answer": "Usa ka gidawat nga tanyag"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Unang pagpatay sa kasaysayan; ang iyang igsoon gikondenar",
+        "Gilamoy sa yuta uban sa iyang bahandi",
+        "Nahimong mga unggoy tungod sa kalapasan",
+        "Giguba sa kusog ug nagyelo nga hangin",
+        "Nalumos sa dakong baha isip silot"
+      ],
+      "answer": "Unang pagpatay sa kasaysayan; ang iyang igsoon gikondenar"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

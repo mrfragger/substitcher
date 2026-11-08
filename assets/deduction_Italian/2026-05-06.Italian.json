@@ -1,0 +1,61 @@
+{
+  "title": "La voce del roveto ardente",
+  "intro": "Svela l'identità di una figura di grande spessore, il cui cammino ebbe inizio con un incontro miracoloso e il cui destino si intrecciò con la liberazione di un popolo oppresso. Quest'individuo fu scelto per un compito monumentale, affrontando immense sfide con il sostegno divino.",
+  "clues": [
+    "Sono nato in un'epoca di grande oppressione, in cui i neonati del mio popolo venivano uccisi.",
+    "Nei primi anni della mia vita, i miei genitori mi abbandonarono in un fiume, ma fui poi ritrovato e cresciuto nella stessa casa dell'oppressore del mio popolo.",
+    "Una volta sono fuggito da una città dopo aver causato involontariamente la morte di una persona durante una lite.",
+    "In un luogo sacro ho ricevuto un messaggio divino e un bastone miracoloso, e mi è stato comandato di affrontare un potente sovrano.",
+    "Mio fratello fu incaricato di assistermi nella mia missione, a causa di un presunto difetto di pronuncia.",
+    "Ho guidato il mio popolo attraverso un mare diviso, sfuggendo all'inseguimento di un esercito tirannico."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Yusuf",
+        "Profeta Isa",
+        "Profeta Mosè",
+        "Profeta Nuh",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Mosè"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Anni di siccità prolungata",
+        "Costruire l'Arca",
+        "Affrontare il faraone e i suoi stregoni",
+        "Essere gettati in una fornace ardente",
+        "La distruzione del popolo di Thamud"
+      ],
+      "answer": "Affrontare il faraone e i suoi stregoni"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La Kaaba",
+        "Il Muro di Ferro",
+        "Lo staff",
+        "La nave di Nuh",
+        "L'anello di Sulaiman"
+      ],
+      "answer": "Lo staff"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "La città di Sodoma fu rovesciata",
+        "Le persone furono inghiottite dalla terra",
+        "La grande alluvione sommerse la terra",
+        "Il faraone e il suo esercito furono annegati",
+        "Le mura della città crollarono a causa di un grido"
+      ],
+      "answer": "Il faraone e il suo esercito furono annegati"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ingoma Eyashukumisa Iintaba",
+  "intro": "Uza kutyhila ibali lomkhonzi omangalisayo ka-Allah. Kwilizwe labathunywa nabalawuli, lo mntu wasikelelwa ngencwadi engcwele, ilizwi elinamandla, namandla ngaphezu kwesinyithi. Njengoko ufunda izikhokelo, ngaba ungamchonga lo mntu?",
+  "clues": [
+    "Ndandingumkhonzi ka-Allah owanikwa incwadi ekhethekileyo.",
+    "Ndandinelizwi elimnandi, kwaye indumiso yam yayithandwa kangangokuba neenduli neentaka zandilandela.",
+    "Ndajongana nomchasi onamandla kwidabi elidumileyo, kwaye nangona ndandimncinci, ndoyisa.",
+    "Intsimbi yenziwe yaba lula kum, yandenza ndakwazi ukwenza izixhobo ngezandla zam.",
+    "Ndenziwa umlawuli phezu kwesizwe esikhulu, kwaye ubulumko bam ekugwebeni baduma.",
+    "Unyana wam, naye owayengumprofeti, wanikwa ulawulo phezu komoya kunye neejinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uDawud (uDavide)",
+        "Umprofeti uSulaiman (uSolomon)",
+        "Umprofeti uMusa (uMoses)",
+        "Umprofeti uHarun (uAron)",
+        "Umprofeti u-Ilyas (uEliya)"
+      ],
+      "answer": "Umprofeti uDawud (uDavide)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "UGoliyati owoyisiweyo (uJalut)",
+        "Yahlula ulwandle",
+        "Wasinda kwi-whale",
+        "Waphoswa emlilweni",
+        "Wakha Ityeya"
+      ],
+      "answer": "UGoliyati owoyisiweyo (uJalut)"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "I-Zabur (iiNdumiso)",
+        "ITorah (iTawrat)",
+        "IVangeli (Injil)",
+        "Imisongo ka-Ibrahim",
+        "IQur'an"
+      ],
+      "answer": "I-Zabur (iiNdumiso)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waba ngumprofeti nokumkani wakwaSirayeli",
+        "Waba ngumlawuli waseYiputa",
+        "Waphakanyiselwa emazulwini",
+        "Yatshatyalaliswa sisiphango",
+        "Waba liqabane lomqolomba"
+      ],
+      "answer": "Waba ngumprofeti nokumkani wakwaSirayeli"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

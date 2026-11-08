@@ -1,0 +1,61 @@
+{
+  "title": "Suara dari Pinggir Bandar",
+  "intro": "Anda berdiri di sebuah kota di mana tiga utusan telah datang dengan tanda-tanda yang jelas, tetapi orang ramai mengejek mereka dan berpegang teguh pada cara lama mereka. Dari bahagian paling jauh kota, satu susuk tubuh berlari ke arah orang ramai, tercungap-cungap dan bertekad, untuk mengatakan kebenaran meskipun ditolak. Siapakah jiwa ini yang mempertaruhkan segalanya untuk mesej yang bukan milik mereka sendiri?",
+  "clues": [
+    "Aku hidup di antara kaum yang telah menerima rasul-rasul dengan keterangan-keterangan yang jelas, namun mereka berpaling dengan kesombongan.",
+    "Aku berlari dari bahagian paling jauh kota ketika aku mendengar panggilan utusan-utusan itu.",
+    "Aku berkata kepada kaumku, \"Wahai kaumku, ikutilah rasul-rasul itu. Ikutilah orang-orang yang tidak meminta upah daripada kamu, kerana merekalah orang-orang yang mendapat petunjuk.\"",
+    "Aku bukan seorang nabi, tetapi aku percaya kepada para rasul dan menggesa kaumku untuk melakukan perkara yang sama.",
+    "Orang-orang saya mengejek nasihat saya dan menuduh saya sebagai seorang ekstremis.",
+    "Ketika mereka membunuhku, Allah menyuruhku masuk ke dalam Syurga, dan aku berharap kaumku dapat mengetahui pengampunan dan kehormatan yang telah kuterima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Lelaki dari bahagian paling jauh di bandar (Ya-Sin)",
+        "Salah seorang daripada tiga utusan yang dihantar ke bandar",
+        "Seorang saudagar terkemuka di bandar itu",
+        "Seorang pemerintah bandar",
+        "Pemimpin orang-orang kafir"
+      ],
+      "answer": "Lelaki dari bahagian paling jauh di bandar (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Berdakwah kepada kaumnya untuk mengikuti para rasul",
+        "Membina kapal untuk menyelamatkan orang percaya daripada banjir",
+        "Dicampakkan ke dalam api kerana iman",
+        "Ditelan ikan paus",
+        "Diberikan kerajaan dan kebijaksanaan"
+      ],
+      "answer": "Berdakwah kepada kaumnya untuk mengikuti para rasul"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Bahagian paling jauh di bandar ini",
+        "Bahtera itu",
+        "Perigi itu",
+        "Semak yang terbakar",
+        "Gua itu"
+      ],
+      "answer": "Bahagian paling jauh di bandar ini"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Masuk ke Syurga dan berharap kaumnya dapat mengetahui pengampunannya",
+        "Tenggelam bersama kaumnya kerana menolak mesej itu",
+        "Diberi keajaiban unta betina",
+        "Menjadi pemerintah selepas perbicaraannya",
+        "Diselamatkan oleh Allah dan kekal bersama kaumnya"
+      ],
+      "answer": "Masuk ke Syurga dan berharap kaumnya dapat mengetahui pengampunannya"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il supplicante del santuario",
+  "intro": "Nelle ore silenziose della notte, un'anima devota invocò il Misericordioso tra le sacre mura di un luogo sacro. Anni di fede incrollabile e pazienza stavano per essere ricompensati con un miracolo che avrebbe portato gioia e un'eredità profetica.",
+  "clues": [
+    "Ho trascorso giorni e notti in devozione all'interno di un santuario sacro, supplicando incessantemente il mio Signore.",
+    "Sono invecchiato e mia moglie è diventata sterile, eppure non ho mai perso la speranza nella misericordia di Allah.",
+    "Mi fu concesso un figlio, di nome Yahya, che divenne profeta e faro di giustizia.",
+    "Anch'io ero un profeta, inviato per guidare i figli d'Israele.",
+    "Ero un discendente del profeta Harun e ho servito come sacerdote nel Tempio.",
+    "Mi fu affidata la cura di Maria, la madre di Isa, e fui testimone dei suoi miracoli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Zakariyya",
+        "Profeta Yahya",
+        "Il profeta Ilia",
+        "Profeta Isacco",
+        "Profeta Ya'qub"
+      ],
+      "answer": "Profeta Zakariyya"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Concesse un figlio in tarda età",
+        "Salvato da un incendio divampante",
+        "Salvato dalla pancia di un pesce",
+        "È sopravvissuto a una grande alluvione",
+        "Guarito da una grave malattia"
+      ],
+      "answer": "Concesse un figlio in tarda età"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il mihrab (nicchia di preghiera)",
+        "La Kaaba",
+        "Il roveto ardente",
+        "L'Arca dell'Alleanza",
+        "La grotta dei sette dormienti"
+      ],
+      "answer": "Il mihrab (nicchia di preghiera)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Gli fu concesso un figlio giusto che divenne profeta.",
+        "Distrutto da una violenta tempesta",
+        "Annegato in mare",
+        "Scampato all'incendio",
+        "Ritornarono alla loro gente dopo essere stati salvati da un pesce"
+      ],
+      "answer": "Gli fu concesso un figlio giusto che divenne profeta."
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

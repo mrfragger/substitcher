@@ -1,0 +1,61 @@
+{
+  "title": "Sare di Luhur Waktos",
+  "intro": "Bayangkeun hiji mangsa nalika bebeneran dibungkem sareng jalma-jalma anu percaya diburu. Sakelompok leutik milih mundur tibatan nyerah, milarian panyumputan di tempat anu paling teu kaduga — tempat anu bakal janten tempat istirahat salami mangabad-abad anu teu kaétang. Nalika aranjeunna tungtungna hudang, dunya parantos robih di sakurilingna. Saha jiwa-jiwa anu keur saré ieu?",
+  "clues": [
+    "Kami téh nonoman anu cicing di kota kuno.",
+    "Komunitas kami nungtut kami ibadah bareng sareng aranjeunna, tapi kami nolak.",
+    "Kami kabur ti kota milarian panyumputan ti jalma-jalma anu ngalawan kapercayaan kami.",
+    "Saurang sobat satia suku opat cicing di lawang tempat panyumputan kami.",
+    "Allah ngajadikeun urang sare salami tilu ratus salapan taun.",
+    "Nalika urang tungtungna hudang, kota urang anu baheula nganiaya parantos ngagem iman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Urang?",
+      "options": [
+        "Ashab al-Kahf (Ahli Gua)",
+        "Ashab al-Fil (Tentara Gajah)",
+        "Ashab al-Ukhdud (Para Sahabat Parit)",
+        "The Hawariyyun (Murid Isa)",
+        "Ya’juj wa Ma’juj (Ya’juj jeung Ma’juj)"
+      ],
+      "answer": "Ashab al-Kahf (Ahli Gua)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Kami mundur ka guha sareng bobo salami mangabad-abad",
+        "Urang disalametkeun tina seuneu anu ngagedur",
+        "Urang ditelan ku lauk badag",
+        "Urang diuji ku onta bikang anu ajaib",
+        "Kami dipasihan salapan tanda anu jelas"
+      ],
+      "answer": "Kami mundur ka guha sareng bobo salami mangabad-abad"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Guha anu jero di pagunungan",
+        "Parahu di laut lepas",
+        "Wangunan anu jangkung ngahontal langit",
+        "Kebon anu dibagi antara dua saingan",
+        "Halangan beusi jeung tambaga"
+      ],
+      "answer": "Guha anu jero di pagunungan"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kami hudang mendakan kota kami parantos janten iman",
+        "Seuneu anu ngagedur janten tiis sareng damai",
+        "Tentara musuh tilelep di laut",
+        "Manuk-manuk nu mawa batu ngancurkeun musuh",
+        "Lauk badag ngaleupaskeun urang ka basisir"
+      ],
+      "answer": "Kami hudang mendakan kota kami parantos janten iman"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

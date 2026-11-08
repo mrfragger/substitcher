@@ -1,0 +1,61 @@
+{
+  "title": "Un pequeno aviso antes dunha hoste en marcha",
+  "intro": "Entra nun val onde se achega un poderoso gobernante e unha vasta hoste, e imaxina un pequeno viaxeiro dando un aviso que salva a unha comunidade enteira. Cando a comunidade ameazada chega a refuxio, o perigo pasa. Segue as pistas para identificar a figura esquecida detrás dese aviso.",
+  "clues": [
+    "Son unha das pequenas criaturas asociadas co reino dun gobernante.",
+    "A miña comunidade vive en vivendas dentro dun val, onde un de nós pode chamar aos demais.",
+    "Enfrontámonos a unha ameaza por parte dese gobernante e dos exércitos que viaxan con el.",
+    "Eu son quen chama á miña comunidade a entrar nas súas moradas e nos advirte de que non nos deixemos esmagar sen sabelo.",
+    "O gobernante é Sulayman, e a miña especie está entre as criaturas postas baixo o seu mando.",
+    "Eu son a formiga dese val; despois do meu aviso, entramos nas nosas moradas e escapamos do esmagamento que doutro xeito nos tería colleito desprevenidos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A formiga do val",
+        "A Bubela",
+        "O corvo",
+        "A Serpe",
+        "A Mula"
+      ],
+      "answer": "A formiga do val"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Un aviso que salvou unha comunidade de formigas",
+        "Unha petición dun anel dun peixe",
+        "A procura dun trono desaparecido",
+        "O rescate dos ollos roubados",
+        "Negativa a comer a comida dun gobernante"
+      ],
+      "answer": "Un aviso que salvou unha comunidade de formigas"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O Val das Formigas",
+        "O anel de selo de Sulayman",
+        "A camisa manchada de sangue de Yusuf",
+        "O Becerro de Ouro do Éxodo",
+        "O bastón de Musa"
+      ],
+      "answer": "O Val das Formigas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A comunidade salvouse tras refuxiarse",
+        "A comunidade foi destruída sen refuxio",
+        "A comunidade salvouse porque o exército se retirou",
+        "A comunidade foi recompensada co control sobre as aves",
+        "A comunidade foi levada cativa á corte real"
+      ],
+      "answer": "A comunidade salvouse tras refuxiarse"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Konspiratzaile estaliaren",
+  "intro": "Errebelazio garaiko figura boteretsu baten aurrean aurkitzen zara. Pertsona hau bere adimenagatik, aberastasunagatik eta bere herriaren artean zuen estatusagatik zen ezaguna. Seinale argiak iritsi zirenean, edertasuna aitortu zuten, baina men egitearen gainetik desafioa aukeratu zuten. Zerk bultzatu zuen arima hau iluntasunean konspiratzera, eta zein izan zen bere azken patua?",
+  "clues": [
+    "Baliabide eta eragin ugariz bedeinkatu ninduten, nire hitza batzarretan astun bihurtuz.",
+    "Jainkozko hitzak errezitatzen zirenean, ezin nuen ukatu haien elokuentzia, baina nire harrotasunak ez zidan amore ematen uzten.",
+    "Nire aholkulariak bildu nituen, mezua diskreditatzeko modu bat hausnartzeko neure burua isolatuz.",
+    "Luze pentsatu ondoren, jendea uxatzeko 'iraganetik jasotako magia' baino ez zela adierazi nuen.",
+    "Orduan, errebelazioak zuzenean zuzendu zidan: «Utzi bakean sortu dudanarekin». Nire azpijokoagatik hautatu ninduten.",
+    "Laster, ohartarazi ninduten su berak kopetatik helduko nau, eta ez dut ihesbiderik izango."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Profeta hiltzeko konspiratu zuten",
+        "Musulmanen aurkako boikota egin zuen",
+        "Korana magiatzat jotzeko kontseilu bat bildu zuten",
+        "Profeta Mekatik kanporatzeko plan bat egin zuten",
+        "Umezurtzekin bere aberastasuna partekatzeari uko egin zion"
+      ],
+      "answer": "Korana magiatzat jotzeko kontseilu bat bildu zuten"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Errebelazioa",
+        "Kontseilua",
+        "Txapela",
+        "Aberastasuna",
+        "Luma"
+      ],
+      "answer": "Txapela"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Damutu eta Islama bereganatu zuen",
+        "Abisiniara emigratu zuen.",
+        "Gaixotasun hilgarri batek jota zegoen",
+        "Musulmanen aurkako borrokan hil zen",
+        "Infernuko sutara kondenatu zuten."
+      ],
+      "answer": "Infernuko sutara kondenatu zuten."
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

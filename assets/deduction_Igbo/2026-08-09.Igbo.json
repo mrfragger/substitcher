@@ -1,0 +1,61 @@
+{
+  "title": "Olu Eziokwu nke Oge Ochie",
+  "intro": "E nwere mkpụrụ obi n'ime Quran nke a kọrọ akụkọ ya n'amaokwu ole na ole, mana àgwà ọma ha na-enwu gbaa nke ọma. Onye Pụrụ Ime Ihe Niile toro ya maka omume ọma pụrụ iche, ohu ochie a nke Onye Kasị Ebere nwere ọnọdụ n'akwụkwọ mkpughe. Ọrụ gị bụ ịchọpụta onye a pụrụ iche. Ị nwere ike ịkọ onye ha bụ?",
+  "clues": [
+    "Abụ m onye amụma Allah onye biri ndụ n'etiti ọgbọ mbụ nke ụmụ mmadụ.",
+    "Allah kpọrọ m aha n'Akwụkwọ Ya na ndị amụma ndị ọzọ, a na-eto ha niile maka otu omume ọma ahụ.",
+    "A kọwara m dị ka onye eziokwu n'ime Quran.",
+    "Allah kpọlitere m n'ọkwa dị elu nke mmadụ ole na ole ndị ọzọ erutela.",
+    "A kpọrọ aha m aha n'ime Surah Al-Anbiya, e kekọtara ya na ndị amụma abụọ ọzọ e toro maka ndidi ha.",
+    "Abụ m Idris, onye amụma eziokwu na onye e buliri elu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Idris",
+        "Onye Amụma Nua",
+        "Onye Amụma Ibrahim",
+        "Onye Amụma Mozis",
+        "Onye Amụma Ismail"
+      ],
+      "answer": "Onye Amụma Idris"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ijide ndidi na eziokwu, wee bulie ya elu ruo n'ọkwa dị elu",
+        "Ịrụ nnukwu ụgbọ iji zọpụta ndị kwere ekwe site na idei mmiri nke ga-ebibi ụwa.",
+        "Ịtụba n'ọkụ na-ere ọkụ ma pụta n'enweghị mmerụ ahụ ọ bụla",
+        "Izute otu eze dị ike ma merie ndị agha ya nke ndị dibịa afa",
+        "Ịdị ndụ n'ime afọ nnukwu azụ̀ n'ime omimi nke oké osimiri"
+      ],
+      "answer": "Ijide ndidi na eziokwu, wee bulie ya elu ruo n'ọkwa dị elu"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ọdụ dị elu ma dị elu site n'aka Allah",
+        "Nnukwu ụgbọ mmiri e ji osisi rụọ ma jiri ahịhịa tụba ya",
+        "Ọkụ na-ere ọkụ nke ndị na-ekpere arụsị nke eze ọjọọ na-akwanye",
+        "Oké osimiri buru ibu nke kewara ghọọ ụzọ akọrọ",
+        "Afọ gbara ọchịchịrị nke nnukwu whale dị n'ala oké osimiri"
+      ],
+      "answer": "Ọdụ dị elu ma dị elu site n'aka Allah"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E tinyere ya n'ime ebere Allah dịka otu n'ime ndị ezi omume",
+        "A zọpụtara ya na ndị kwere ekwe niile site na iju mmiri zuru ụwa ọnụ",
+        "Si n'ọkụ ahụ pụọ nke ọkụ ahụ metụrụ aka",
+        "Duru Ụmụ Izrel n'enweghị nsogbu ruo n'inwe onwe ha gafee oké osimiri",
+        "Ha na ezinụlọ ha ha hụrụ n'anya laghachiri azụ mgbe ọtụtụ afọ nke ihe isi ike gasịrị"
+      ],
+      "answer": "E tinyere ya n'ime ebere Allah dịka otu n'ime ndị ezi omume"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

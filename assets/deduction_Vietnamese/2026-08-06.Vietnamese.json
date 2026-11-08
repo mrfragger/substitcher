@@ -1,0 +1,61 @@
+{
+  "title": "Tâm hồn tỉnh thức bên bờ sông",
+  "intro": "Một chàng trai trẻ được giao một nhiệm vụ bí mật, quan sát từ xa khi số phận diễn ra trên biển cả. Không ai biết đến và không ai nghi ngờ, nhân vật này sẽ đóng một vai trò then chốt trong việc thay đổi dòng chảy lịch sử của một quốc gia.",
+  "clues": [
+    "Mẹ tôi giao cho tôi một nhiệm vụ, một nhiệm vụ đòi hỏi sự lén lút và cảnh giác.",
+    "Mắt tôi dõi theo một chiếc nôi nhỏ trôi theo dòng nước, lòng nặng trĩu lo lắng.",
+    "Khi một người không ngờ tới phát hiện ra nó, tôi tiến lại gần, lòng đầy lo lắng.",
+    "Tôi nhận thấy sự tuyệt vọng của họ trong việc tìm người chăm sóc và đã đưa ra một giải pháp mà không tiết lộ sự thật.",
+    "Sự can thiệp kịp thời của tôi đã mang lại tấm lòng yêu thương cho người cần nó nhất.",
+    "Tại các phiên tòa của những người quyền lực, tôi đã nói: \"Tôi có thể giới thiệu cho các vị một gia đình sẽ nuôi dưỡng và chăm sóc cậu bé chu đáo không?\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Em gái của Musa",
+        "Mẹ của Musa",
+        "Vợ của Pharaoh",
+        "Một nữ hộ sinh",
+        "Con gái của Shu'aib"
+      ],
+      "answer": "Em gái của Musa"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Việc ném một đứa trẻ xuống sông.",
+        "Sự chia đôi biển",
+        "Việc thiêu sống con bê",
+        "Việc đóng con tàu Noah",
+        "Nạn châu chấu"
+      ],
+      "answer": "Việc ném một đứa trẻ xuống sông."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Dòng sông",
+        "Sa mạc",
+        "Ngọn núi",
+        "Cung điện",
+        "Ngọn lửa"
+      ],
+      "answer": "Dòng sông"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Cô ấy đã giúp đứa trẻ đoàn tụ với mẹ của mình.",
+        "Nàng đã tự cứu mình khỏi binh lính của Pharaoh.",
+        "Bà trở thành nữ hoàng.",
+        "Cô ấy bị trừng phạt vì tội làm gián điệp.",
+        "Bà đã lãnh đạo dân Israel."
+      ],
+      "answer": "Cô ấy đã giúp đứa trẻ đoàn tụ với mẹ của mình."
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

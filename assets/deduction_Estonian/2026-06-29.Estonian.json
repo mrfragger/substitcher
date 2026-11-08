@@ -1,0 +1,61 @@
+{
+  "title": "Kannatlik hing",
+  "intro": "Prohvetluse annaalides elas hing, kelle kannatlikkus oli sööbinud tema olemuse sügavale kangale. Läbi pisarate ja aja hoidsid nad kõvasti lootusest kinni, saades ajatuks eeskujuks usaldusest jumaliku tarkuse vastu. Kas suudad selle vankumatu kuju saladuse lahti harutada?",
+  "clues": [
+    "Ma sündisin prohvetite perre, kuid minu suurim katsumus tuli läbi lapse, keda ma kõige rohkem armastasin.",
+    "Sain unenäost, mida mu poeg jagas, hoiatuse armukadeduse eest ja kartsin tema turvalisuse pärast.",
+    "Mu silmad läksid kurbusest valgeks, kuid ma ei kaotanud kunagi usku Allahi halastusse.",
+    "Mu kadunud lapse lõhn jõudis minuni kaugelt ja ma teadsin siis, et taasühinemine on lähedal.",
+    "Mu perekond kummardas tänulikult, kui vana nägemus täitus ja mu nägemine taastati.",
+    "Mina olin see, kellele kingiti verega määrdunud särk, et hiljem saada särk, mis mu nägemise terveks tegi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ibrahim",
+        "Prohvet Iisak",
+        "Prohvet Yaqub",
+        "Prohvet Yusuf",
+        "Prohvet Ayyub"
+      ],
+      "answer": "Prohvet Yaqub"
+    },
+    "trial": {
+      "label": "Otsustav katsumus",
+      "options": [
+        "Lahutus armastatud lapsest ja nägemise kaotus",
+        "Lõõmavasse tulle heidetud",
+        "Suure kala poolt alla neelatud",
+        "Rikkuse, laste ja tervise kaotamise talumine",
+        "Vendade poolt reedetud ja kaevu visatud"
+      ],
+      "answer": "Lahutus armastatud lapsest ja nägemise kaotus"
+    },
+    "location": {
+      "label": "Sümboolne objekt",
+      "options": [
+        "Särk, mis esmalt varjas tõde ja siis paljastas selle",
+        "Personali, mis muutus maoks",
+        "Vaal, kes neelas prohveti alla",
+        "Tuli, mis muutus jahedaks",
+        "Sandaalipaar põleva põõsa juures"
+      ],
+      "answer": "Särk, mis esmalt varjas tõde ja siis paljastas selle"
+    },
+    "outcome": {
+      "label": "Jumalik otsus",
+      "options": [
+        "Kadunud lähedasega taaskohtumine ja nägemise taastamine",
+        "Päästmine rõhutud rahva käest",
+        "Päästmine kala kõhust",
+        "Päästmine lõõmavast tulest",
+        "Suurele troonile tõusmine"
+      ],
+      "answer": "Kadunud lähedasega taaskohtumine ja nägemise taastamine"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

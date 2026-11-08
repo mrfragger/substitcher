@@ -1,0 +1,61 @@
+{
+  "title": "Les bâtisseurs des piliers élancés",
+  "intro": "Vous vous tenez devant les ruines d'une cité antique majestueuse, dont les hautes colonnes se sont effondrées. Le vent hurle dans les rues désertes, emportant avec lui le souvenir d'un peuple puissant qui régnait jadis sur ces terres. Qui étaient-ils ?",
+  "clues": [
+    "Nous étions un peuple d'une force et d'une habileté immenses, connu pour nos grands édifices et notre civilisation avancée.",
+    "Nous vivions au pays des dunes de sable et des collines rocheuses, et nous pensions que personne ne pouvait nous vaincre.",
+    "Un messager issu de notre propre famille est venu à nous, nous appelant à adorer Allah seul, mais nous l'avons rejeté et ridiculisé.",
+    "Nous nous sommes vantés : « Qui est plus fort que nous ? » et nous avons persisté dans notre arrogance et notre culte des idoles.",
+    "Allah envoya sur nous un vent furieux qui souffla pendant sept nuits et huit jours, dévastant tout.",
+    "Nous étions le peuple d’Ad, les bâtisseurs d’Iram, et notre destin est devenu un avertissement pour tous ceux qui sont venus après nous."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les gens de 'Ad",
+        "Peuple de Thamud",
+        "Les habitants de Madyan",
+        "Les habitants de Tubba'",
+        "Les habitants d'al-Rass"
+      ],
+      "answer": "Les gens de 'Ad"
+    },
+    "trial": {
+      "label": "Quelle punition leur a été infligée ?",
+      "options": [
+        "Un vent dévastateur",
+        "Une pluie de pierres",
+        "Une forte explosion",
+        "Noyade par les inondations",
+        "Englouti par la terre"
+      ],
+      "answer": "Un vent dévastateur"
+    },
+    "location": {
+      "label": "Quel est le nom de leur ville légendaire ?",
+      "options": [
+        "Iram",
+        "Sodome",
+        "Midian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Quel fut leur destin final ?",
+      "options": [
+        "Ils furent détruits et leurs vestiges devinrent une leçon.",
+        "Ils se repentirent et furent sauvés.",
+        "Ils furent transformés en singes",
+        "Ils se sont noyés dans la mer",
+        "Ils ont été ensevelis sous un glissement de terrain."
+      ],
+      "answer": "Ils furent détruits et leurs vestiges devinrent une leçon."
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

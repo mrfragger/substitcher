@@ -1,0 +1,61 @@
+{
+  "title": "Flammen i arrogansens palass",
+  "intro": "Bak de store murene til det mektigste palasset i antikken levde en skikkelse hvis hjerte bar på en hemmelighet som ingen kongelig bestemmelse kunne stilne. Mens alle rundt bøyde seg for falske guder, beholdt denne sjelen en stille tro som brant i seg. Landets hersker trodde seg guddommelig, men denne personen valgte sannhet fremfor komfort og hengivenhet fremfor sikkerhet. I dag er din oppgave å oppdage hvem denne modige sjelen var, hvis historie fortsatt er et av de mektigste eksemplene på urokkelig tro.",
+  "clues": [
+    "Jeg bodde på et sted med enorm rikdom og uovertruffen storhet, hvor landets hersker hadde absolutt makt over alt.",
+    "Mens de rundt meg bøyde seg for falske guder, bevarte jeg et stille lys av tro i hjertet mitt.",
+    "Jeg oppdaget og adopterte et barn som ble brakt til meg på en uvanlig måte – ikke ved fødsel, men gjennom vannet i en stor elv.",
+    "Jeg ba til min Herre og ba om et hjem nær Ham i Paradis og frelse fra tyranniet som omringet meg.",
+    "Barnet jeg oppdro vokste opp til å utfordre selve herskeren som kontrollerte min skjebne, og jeg sto fast i min tro selv da jeg ble truet.",
+    "Jeg er den hvis navn er æret i Koranen som et forbilde for tro, og jeg bodde i faraos palass."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Asiya, faraos kone",
+        "Maryam, moren til Isa",
+        "Bilqis, dronningen av Saba",
+        "Profeten Luts kone",
+        "Imrans kone"
+      ],
+      "answer": "Asiya, faraos kone"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Oppdage og oppdra et forlatt spedbarn som ble en stor profet",
+        "Å bli kastet inn i en stor ild av en tyrann",
+        "Vitne til en stor flom som ødela et folk",
+        "Vitne til en daddelpalmeshake og gi næring",
+        "Å bli gravid med en sønn til tross for høy alder"
+      ],
+      "answer": "Oppdage og oppdra et forlatt spedbarn som ble en stor profet"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Et kongelig palass av uovertruffen prakt",
+        "Et flott skip bygget for å tåle en flom",
+        "En dyp hule gjemt i fjellene",
+        "En flammende ild bygget på en fjelltopp",
+        "En hage omgitt av murer"
+      ],
+      "answer": "Et kongelig palass av uovertruffen prakt"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Et hjem ble gitt i Paradis ved Allahs vilje",
+        "En stor flom ødela de vantro i en gammel nasjon",
+        "Et kongerike med enorm makt og autoritet ble gitt i denne verden",
+        "En mektig hær ble spredt av fugler i flukt",
+        "En tyrann som hevdet guddommelighet druknet i havet"
+      ],
+      "answer": "Et hjem ble gitt i Paradis ved Allahs vilje"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

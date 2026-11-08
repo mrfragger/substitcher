@@ -1,0 +1,61 @@
+{
+  "title": "Taolo e e sa ineeleng",
+  "intro": "Go ralala dinaga tsa bogologolo, go kile ga bo go na le taolo e e maatla, e laola dithoto tse dintsintsi le matshelo a batho ba le bantsintsi. Le fa go ne go na le matshwao a a bonalang sentle le ditlhagiso, mmusi yono o ne a tlhopha tsela ya go tlhoka maitseo, mme seno sa dira gore go nne le thulano e e tseneletseng e e neng e tla boelediwa fa nako e ntse e tsamaya.",
+  "clues": [
+    "Ke ne ke bolela gore ke na le maatla le taolo e kgolo mo lefelong le legolo.",
+    "Ke ne ka gwetlha morongwa yo o ikokobeditseng yo o rometsweng ke Morena wa mafatshe otlhe.",
+    "Batho ba gaetsho ba ne ba itsege ka bokgoni jwa bone jwa go aga dikago tse dikgolo le noka e e neng e tshegetsa tlhabologo ya rona.",
+    "Ke ne ka bona ditshupo tse dintsi tsa kgakgamatso, go akaretsa le thobane e e neng e fetoga noga le seatla se se neng se phatsima thata.",
+    "Ke ne ka gana go letla setlhopha sa batho ba ba neng ba dirilwe makgoba gore se tswe mo lefatsheng la gaetsho, go sa kgathalesege ditaelo tsa Modimo.",
+    "Go latelela ga me batho ba ba neng ba tsamaya go ne ga dira gore nna le masole a me re tsene mo gare ga lewatle le le kgaoganeng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Yusuf",
+        "Kgosi Talut",
+        "Fir’awn (Faro)",
+        "Moporofeti Dawud",
+        "Namrut"
+      ],
+      "answer": "Fir’awn (Faro)"
+    },
+    "trial": {
+      "label": "Thulano ya Botlhokwa",
+      "options": [
+        "Morwalela o o aparetseng lefatshe",
+        "Go kgaogana ga lewatle",
+        "Setlhatshana se se tukang",
+        "Go agiwa ga Kaaba",
+        "Tshenyego e e dirilweng ke phefo e e maatla"
+      ],
+      "answer": "Go kgaogana ga lewatle"
+    },
+    "location": {
+      "label": "Ntlha e e Tlhalosang",
+      "options": [
+        "Phologolo e e buang",
+        "Lore le seatla se se phatsimang",
+        "Tsalo e e gakgamatsang",
+        "Khapete e e fofang",
+        "Setulo sa bogosi se se tlotlegang se se mo godimo ga metsi"
+      ],
+      "answer": "Lore le seatla se se phatsimang"
+    },
+    "outcome": {
+      "label": "Phelelo",
+      "options": [
+        "A tlhatlogela kwa magodimong",
+        "E meditswe ke lefatshe",
+        "O nwetse mo lewatleng",
+        "E fetotswe go nna tshwene",
+        "Go newa khumo e e seng kana ka sepe le maatla"
+      ],
+      "answer": "O nwetse mo lewatleng"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

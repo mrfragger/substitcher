@@ -1,0 +1,61 @@
+{
+  "title": "Wong sing Dibuang saka Swarga",
+  "intro": "Makhluk misterius ngadeg ing persimpangan antarane titah lan penolakan. Crita iki minangka crita babagan kesombongan sing ora ana tandhingane lan pembangkangan pungkasan marang prentah ilahi. Pilihane terus digemakake saben generasi, dadi ujian kanggo saben jiwa sing lair ing jagad iki. Apa sampeyan bisa ngenali mungsuh langgeng iki?",
+  "clues": [
+    "Aku ana ing sawijining prastawa sing nduweni makna kosmik, nalika makhluk anyar dibentuk saka lempung lan diwenehi urip dening Napas Sing Maha Welas Asih.",
+    "Aku dhewe dilairake saka siji unsur sing murub, ora kaya makhluk sing digawe saka bledug.",
+    "Ana prentah sing diwenehake marang aku sing dakanggep ana ing sangisore kalungguhanku.",
+    "Rasa bangga saya gedhe ing njero atiku, lan aku kanthi keras ora gelem nuruti prentahe kasebut.",
+    "Aku diundur nganti dina sing wis ditemtokake, supaya aku bisa nerusake tujuanku sing wis kasebut yaiku nyasarake wong liya.",
+    "Aku iki mungsuhé saben wong sing mlaku ing bumi, ngbisikaké goroh lan nggodha wong-wong mau saka dalan sing bener."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Iblis (Setan)",
+        "Firaun (Firaun)",
+        "Haman",
+        "Abu Jahal",
+        "Samiri"
+      ],
+      "answer": "Iblis (Setan)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Ora gelem sujud ing ngarepe Adam",
+        "Ngaku-ngaku ketuhanan kanthi palsu",
+        "Nggawe pedhet emas kanggo disembah",
+        "Matèni seduluré merga iri",
+        "Mimpin oposisi musyrik ing Mekah"
+      ],
+      "answer": "Ora gelem sujud ing ngarepe Adam"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Swarga (Jannah)",
+        "Istana Firaun ing Mesir",
+        "Lembah suci Tuwa",
+        "Jeroning segara",
+        "Taman Sheba"
+      ],
+      "answer": "Swarga (Jannah)"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Diwenehi wektu istirahat nganti dina kiamat",
+        "Kecemplung ing segara bareng karo tentara",
+        "Diuntal bumi bebarengan karo bandha",
+        "Diowah dadi kethek amarga nglanggar dina Sabat",
+        "Kobong dening watu sing diuncalake saka langit"
+      ],
+      "answer": "Diwenehi wektu istirahat nganti dina kiamat"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Paslėpti klausytojai, kurie tikėjo",
+  "intro": "Švento susibūrimo tyloje iš nematomos karalystės atvyko nepaprasta bendruomenė. Šnabždesių apie kažką nuostabaus jie klausėsi deklamavimo, kuris amžiams nulems jų likimą. Jų liudijimas išlieka vienu unikaliausių dieviškuose raštuose.",
+  "clues": [
+    "Esame būtybės iš daugumos nematomos sferos ir atėjome kaip grupė.",
+    "Keliavome link susibūrimo, kad išgirstume kažką nepaprasto.",
+    "Atvykę klausėmės deklamacijos, kuri mus nustebino.",
+    "Mes atvirai pripažinome, kad kai kurie iš mūsų yra teisūs, o kai kurie – ne.",
+    "Žinojome, kad negalime išvengti dieviškojo įsakymo nei žemėje, nei skrisdami į dangų.",
+    "Kai išgirdome vadovavimą, juo patikėjome; kas tiki savo Viešpačiu, nebijos nei nuostolių, nei naštos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Džinų grupė",
+        "Iramo žmonės",
+        "Tubbos žmonės",
+        "Romos imperija",
+        "Kuraišų gentis"
+      ],
+      "answer": "Džinų grupė"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Klausantis šventos deklamacijos",
+        "Statome aukštas kolonas mūsų mieste",
+        "Medžiojant nuostabią kupranugarinę patelę",
+        "Sunaikinami už mūsų pranašų nužudymą",
+        "Turto dauginimas neribotai"
+      ],
+      "answer": "Klausantis šventos deklamacijos"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Šventosios maldos susibūrimas",
+        "Aukštų kolonų miestas (Iramas)",
+        "Šulinys dykumoje",
+        "Didingi aukso rūmai",
+        "Šventa ola kalnuose"
+      ],
+      "answer": "Šventosios maldos susibūrimas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mes tikėjome ir perspėjome savo žmones",
+        "Sunaikintas galingo smūgio iš dangaus",
+        "Nubaustas žvarbaus, griaunančio vėjo",
+        "Suteikė didžiulius turtus ir galią",
+        "Liko tvirtai įsitikinęs netikėjimu"
+      ],
+      "answer": "Mes tikėjome ir perspėjome savo žmones"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vzvišeni Alahov služabnik",
+  "intro": "Slišite šepetanje o osebnosti iz davnih časov, Alahovem služabniku, ki je bil povzdignjen na položaj nad običajnim. Ta posameznik je bil znan po neomajni potrpežljivosti in absolutni resnicoljubnosti ter je bil poslan k ljudstvu, ki se je obrnilo stran od sporočila. Kdo je ta vzvišena duša?",
+  "clues": [
+    "Alah me je izbral za preroka in omenjen sem v svetem Koranu.",
+    "Znan sem bil po svoji potrpežljivosti in resnicoljubnosti, lastnostih, ki jih Alah hvali.",
+    "Poklical sem svoje ljudstvo, da častijo Edinega Boga, a mnogi so me zavrnili.",
+    "Alah je povzdignil moj položaj in podelil mi je visok čin.",
+    "Pogosto me omenjajo skupaj z drugimi preroki, kot sta Ismail in Zul-Kifl.",
+    "Allah o meni pravi: »In dvignili smo ga na visok položaj.« (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Idris",
+        "Prerok Elija",
+        "Prerok Zhu al-Kifl",
+        "Prerok Al-Jasa",
+        "Prerok Hud"
+      ],
+      "answer": "Prerok Idris"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Pozval ljudi k čaščenju Alaha",
+        "Zgradil je barko",
+        "Boril se je proti faraonu",
+        "Preizkušen je bil s hudo boleznijo",
+        "Bil je vržen v ogenj"
+      ],
+      "answer": "Pozval ljudi k čaščenju Alaha"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vzvišen čin/visoka postaja",
+        "Skrinja",
+        "Osebje",
+        "Ogenj",
+        "Vodnjak"
+      ],
+      "answer": "Vzvišen čin/visoka postaja"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Povišan v visok status",
+        "Utopljen v poplavi",
+        "Pogoltnil ga je kit",
+        "Rešen pred ognjem",
+        "Postal je kralj"
+      ],
+      "answer": "Povišan v visok status"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

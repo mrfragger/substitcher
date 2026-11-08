@@ -1,0 +1,60 @@
+{
+  "title": "Usingizi wa Zama",
+  "intro": "Unakaribia kuanza safari kupitia wakati, ukikutana na fumbo kubwa la imani na nguvu ya kimungu. Hebu fikiria kundi la watu binafsi waliokataa kanuni za jamii yao, wakishikilia imani ya Mungu mmoja katika ulimwengu wa ushirikina. Hadithi yao ni ushuhuda wa uwezo wa Mwenyezi Mungu wa kuwalinda watumishi wake waadilifu kwa njia za ajabu sana. Je, unaweza kufichua utambulisho wa watu hawa wa ajabu?",
+  "clues": [
+    "Tulikuwa kikundi kidogo cha vijana walioamini katika Mungu mmoja, licha ya ushirikina ulioenea wa watu wetu.",
+    "Tulikimbia kutoka kwa mtawala mkatili aliyetutishia kwa ajili ya imani yetu, akiogopa mateso na kifo.",
+    "Tulitafuta kimbilio mahali pa faragha, tukitarajia rehema na ulinzi wa Mwenyezi Mungu kutokana na wakandamizaji wetu.",
+    "Bwana wetu alitufanya tulale usingizi mzito, usingizi wa kimiujiza ambao haukuweza kupita muda.",
+    "Tulipoamka, tuliamini kwamba tulikuwa tumepumzika kwa siku moja au sehemu ya siku, bila kujua kipindi kirefu ambacho kilikuwa kimepita kweli.",
+    "Quran inataja kwamba tulibaki katika hali yetu kwa miaka mia tatu, na tukazidi tisa, na kuwa ishara kwa wanadamu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Shimoni",
+        "Watu wa Thamud",
+        "Watu wa Pango",
+        "Watu wa Madyan",
+        "Masahaba wa Tembo"
+      ],
+      "answer": "Watu wa Pango"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukabiliana na mafuriko makubwa",
+        "Kumezwa na ardhi",
+        "Usingizi mrefu wa kimiujiza",
+        "Uharibifu wa mji wao",
+        "Kugawanyika kwa bahari"
+      ],
+      "answer": "Usingizi mrefu wa kimiujiza"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kichaka kinachowaka moto",
+        "Mlima",
+        "Mashua",
+        "Pango",
+        "Kisima"
+      ],
+      "answer": "Pango"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Walipewa utajiri na mamlaka makubwa",
+        "Walibadilishwa kuwa nyani na nguruwe",
+        "Walifufuliwa kutoka usingizini kama ishara kubwa",
+        "Walizama katika gharika kubwa",
+        "Walijenga ufalme mzuri sana"
+      ],
+      "answer": "Walifufuliwa kutoka usingizini kama ishara kubwa"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

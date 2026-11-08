@@ -1,0 +1,61 @@
+{
+  "title": "El company que es va allunyar",
+  "intro": "Esteu a punt de descobrir la història d'una ànima que va viure a l'ombra de la profecia, però que va triar un camí que el va conduir a la ruïna. Aquesta figura va compartir llar amb un dels missatgers escollits per Al·là, però va fallar la prova de fe. Qui és aquest company perdut?",
+  "clues": [
+    "Vaig viure entre gent que rebutjava la crida a la justícia, i no m'hi vaig oposar.",
+    "Estava casada amb un profeta d'Al·là, però no compartia la creença.",
+    "Quan els missatgers van venir a casa meva amb un avís, no els vaig creure.",
+    "A la meva esposa se li va ordenar que marxés de la ciutat amb els creients, i jo no hi era.",
+    "El càstig va caure sobre el meu poble, i jo vaig ser destruït juntament amb ells.",
+    "Se'm menciona a l'Alcorà com a exemple d'incredulitat, juntament amb l'esposa de Nuh, a la sura At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Esposa del profeta Nuh",
+        "Esposa del profeta Lut",
+        "Esposa del profeta Ibrahim",
+        "Esposa del profeta Musa",
+        "Esposa del profeta Ayyub"
+      ],
+      "answer": "Esposa del profeta Lut"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va trair el seu marit per no creure-li",
+        "Va rebutjar el missatge del profeta Hud",
+        "Adoraven ídols obertament a la Kaaba",
+        "Va conspirar contra la missió del seu marit",
+        "Es va negar a acceptar la profecia del seu fill"
+      ],
+      "answer": "Va trair el seu marit per no creure-li"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La ciutat de Sodoma",
+        "La ciutat de Madyan",
+        "La ciutat d'Iram",
+        "La ciutat de Babilònia",
+        "La ciutat de Jerusalem"
+      ],
+      "answer": "La ciutat de Sodoma"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Salvada amb el seu marit",
+        "Destruït amb els incrèduls",
+        "Exiliat a una terra llunyana",
+        "Es va penedir i va ser perdonat",
+        "Es va convertir en creient més tard"
+      ],
+      "answer": "Destruït amb els incrèduls"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

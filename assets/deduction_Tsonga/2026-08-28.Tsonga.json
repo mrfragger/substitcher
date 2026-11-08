@@ -1,0 +1,61 @@
+{
+  "title": "Xihinga eNdlwini ya Khale",
+  "intro": "Edorobeni ro kwetsima, munhu wa matimba u pfurhile hi vukarhi loko rungula lerintshwa ri sungula ku hangalaka. Munhu loyi, loyi vito ra yena ri veke rito leri fanaka ni ku kaneta ntiyiso, u hlalele nkucetelo wa vona wu ri karhi wu tshoveka ehansi ka ndzhwalo wa nhlavutelo ya Xikwembu. Xana a ku ri mani moya-xiviri lowu, lowu vumundzuku bya wona a byi funghiwile exihlaleni xa ndhawu ya nyimpi leyi dumeke?",
+  "clues": [
+    "A ndzi ri ndhuna exikarhi ka vanhu va ka hina, a ndzi tiviwa hi rifuwo ra mina ni nkucetelo wa mina emutini lowu a wu ri ni ndhawu yo kwetsima ya khale.",
+    "Loko wanuna un’wana wa rixaka ra ka hina a sungula ku twarisa rungula ra Xikwembu xin’we, ndzi n’wi hlekile ni tinhlavutelo ta yena, ndzi ti vitana mintsheketo ntsena ya nkarhi lowu hundzeke.",
+    "Ndzi langutane na wanuna yoloye loko a ri karhi a khongela ekusuhi ni muako wo kwetsima, ndzi xungeta ku yimisa vugandzeri bya yena hi nkani loko swi laveka.",
+    "A ndzi ri exikarhi ka varhangeri lava a va kunguhata ku miyeta ripfumelo lerintshwa, va kaneta valandzeri va rona hi marito ni matlhari.",
+    "Ndzi mache ni vuthu ndzi ya endhawini leyi vuriwaka Badr, ndzi tiyiseka leswaku hi ta pfotlosa ntlawa lowutsongo wa vapfumeri.",
+    "Kambe endhawini yoleyo ya nyimpi, vutomi bya mina byi fike emakumu, naswona rifu ra mina ri ve dyondzo eka lava va phikelelaka va nga pfumeli endzhaku ka swikombiso leswi nga erivaleni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb, ku vula ka yena",
+        "Al-Nadr ibn al-Harith, ku vula ka yena",
+        "Umayyah ibn Khalaf hi ku vula ka yena",
+        "Utbah ibn Rabi’ah, loyi a nga ni vuxiyaxiya"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku sivela Muprofeta ku khongela eKaaba",
+        "Ku aka Kaaba",
+        "Ku tsala Quran",
+        "Ku rhangela vuthu ra ndlopfu",
+        "Ku avanyisa n’weti"
+      ],
+      "answer": "Ku sivela Muprofeta ku khongela eKaaba"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Va kaaba",
+        "Areka ya Muprofeta Nuh",
+        "Nhonga ya Muprofeta Musa",
+        "Rhole ra Nsuku",
+        "Xiluvelo xa Hosi ya Xisati ya Xeba"
+      ],
+      "answer": "Va kaaba"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U dlayiwile eNyimpini ya Badr",
+        "U hundzukile kutani a va Mumoslem",
+        "U balekile a ya eAbyssinia",
+        "U lovile hi Lembe ra Ndlopfu",
+        "U ve munghana wa Muprofeta"
+      ],
+      "answer": "U dlayiwile eNyimpini ya Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

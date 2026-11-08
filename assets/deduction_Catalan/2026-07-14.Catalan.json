@@ -1,0 +1,61 @@
+{
+  "title": "Les ànimes de la trinxera",
+  "intro": "Viatgeu a una època en què un governant despietat exigia una devoció absoluta a deïtats falses. Una petita comunitat d'ànimes devotes s'hi va negar i va afrontar un càstig tan sever que va quedar maleït eternament. La seva història ressona a l'Alcorà com a testimoni d'una fe inquebrantable. Podeu identificar aquest grup ferm?",
+  "clues": [
+    "Vivíem en una terra sota la tirania d'un governant que exigia l'adoració de deïtats falses",
+    "La nostra comunitat va patir una severa persecució únicament per la nostra creença en Al·là.",
+    "El governant va ordenar que es cavés una gran trinxera i que s'alimentés amb flames ferotges",
+    "Com que ens vam negar a renunciar a la nostra fe, vam ser llançats a aquell pou ardent un per un",
+    "La nostra història va esdevenir part de l'Alcorà, i els que ens van perseguir van ser maleïts eternament.",
+    "La sura que registra la nostra prova rep el nom dels grans signes celestials del cel"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Companys de la Trinxera (Ashab al-Ukhdud)",
+        "Gent de la Cova (Ashab al-Kahf)",
+        "Gent del Sàbat",
+        "Gent d'A'ad",
+        "Gent de Thamud"
+      ],
+      "answer": "Companys de la Trinxera (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "El nostre judici",
+      "options": [
+        "Ser cremat viu en un pou de foc",
+        "Estar tancat en una cova durant molts anys",
+        "Pescar el dia sant de descans",
+        "Sent destruït per un vent udolant",
+        "Matar una camella sagrada"
+      ],
+      "answer": "Ser cremat viu en un pou de foc"
+    },
+    "location": {
+      "label": "L'element clau",
+      "options": [
+        "Una trinxera de foc ardent",
+        "Una cova amagada amb un gos fidel",
+        "Alts pilars d'una antiga ciutat condemnada",
+        "Habitatges de muntanya esculpits en penya-segats de pedra",
+        "Una plana oberta escombrada per vents violents"
+      ],
+      "answer": "Una trinxera de foc ardent"
+    },
+    "outcome": {
+      "label": "El nostre resultat",
+      "options": [
+        "Vam ser martiritzats i els perseguidors van ser maleïts eternament",
+        "Ens vam despertar després de dormir durant 309 anys",
+        "Vam ser transformats en simis per la nostra transgressió",
+        "Un vent fort i udolant ens va destruir a tots",
+        "Un sol crit devastador va destrossar la nostra existència"
+      ],
+      "answer": "Vam ser martiritzats i els perseguidors van ser maleïts eternament"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

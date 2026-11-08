@@ -1,0 +1,60 @@
+{
+  "title": "Zenginliğin Yükü",
+  "intro": "Önünüzde muazzam bir servetin, altın ve güçle süslenmiş bir hayatın öyküsü var; ancak bu öykü, dünyevi ihtişamın peşinde koşan herkes için nihayetinde ibretlik bir ders niteliğinde. Zaman içinde yankılanan, dünyevi malların geçici doğasına tanıklık eden bu figürün kimliğini çözebilir misiniz?",
+  "clues": [
+    "Ben büyük bir Peygamberin soyundan geliyordum, fakat kibir ve zulüm yolunu seçtim.",
+    "Allah bana muazzam bir servet bahşetti; öyle ki, hazinelerimin anahtarları güçlü bir grup adam için bile ağır bir yük olurdu.",
+    "Halkım bana zenginliğimle övünmemem konusunda nasihatte bulundu ve Allah'ın övünenleri sevmediğini hatırlattı.",
+    "Kibirli bir şekilde, büyük servetimin Allah'tan bir lütuf değil, kendi bilgi ve çabalarımın sonucu olduğunu iddia ettim.",
+    "Yolsuzluktan sakınmam konusunda uyarıldım ve Allah'ın bana verdiğiyle ahireti aramam gerektiği hatırlatıldı, ama dinlemeyi reddettim ve gururuma yenik düştüm.",
+    "Sonunda Allah, yerin beni ve evimi yutmasını sağladı ve O'nun hükmüne karşı beni yardımcısız bıraktı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Firavun",
+        "Haman",
+        "Karun",
+        "Ebu Lahab",
+        "Namrud"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Denizin yarılması",
+        "Nimrod'un ateşi",
+        "sel",
+        "yer tarafından yutulma",
+        "Çekirge istilası"
+      ],
+      "answer": "yer tarafından yutulma"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Altın Buzağı",
+        "Hazineler/Anahtarlar",
+        "Zemzem Kuyusu"
+      ],
+      "answer": "Hazineler/Anahtarlar"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Krallık verildi",
+        "Yıkımdan kurtarıldı",
+        "Toprak tarafından yutuldu",
+        "Peygamber oldu",
+        "Huzur içinde vefat etti."
+      ],
+      "answer": "Toprak tarafından yutuldu"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

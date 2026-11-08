@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tinig mula sa Labas ng Mundo",
+  "intro": "Nakatayo ka sa isang lungsod kung saan dumating ang tatlong mensahero na may dalang malinaw na mga tanda, ngunit kinukutya ito ng mga tao at kumakapit sa kanilang mga lumang kaugalian. Mula sa pinakamalayong bahagi ng lungsod, isang pigura ang tumakbo patungo sa karamihan, hinihingal at determinado, na magsalita ng katotohanan sa harap ng pagtanggi. Sino ang kaluluwang ito na isinugal ang lahat para sa isang mensaheng hindi sa kanila?",
+  "clues": [
+    "Nabuhay ako kasama ng mga taong tumanggap sa mga sugo na may malinaw na mga tanda, ngunit sila ay tumalikod nang may pagmamataas.",
+    "Tumatakbo ako mula sa pinakadulong bahagi ng lungsod nang marinig ko ang tawag ng mga mensahero.",
+    "Sinabi ko sa aking mga tao, 'O aking mga tao, sundin ninyo ang mga sugo. Sundan ninyo ang mga hindi humihingi ng gantimpala sa inyo, sapagkat sila ay napatnubayan nang tama.'",
+    "Hindi ako propeta, ngunit naniwala ako sa mga sugo at hinimok ko ang aking mga tao na gawin din iyon.",
+    "Kinukutya ng mga kababayan ko ang payo ko at inakusahan akong ekstremista.",
+    "Nang patayin nila ako, sinabihan ako ni Allah na pumasok sa Paraiso, at hinangad ko na malaman ng aking mga kababayan ang kapatawaran at karangalang natanggap ko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang lalaki mula sa pinakamalayong bahagi ng lungsod (Ya-Sin)",
+        "Isa sa tatlong mensahero na ipinadala sa lungsod",
+        "Isang kilalang mangangalakal ng lungsod",
+        "Isang pinuno ng lungsod",
+        "Ang pinuno ng mga hindi naniniwala"
+      ],
+      "answer": "Ang lalaki mula sa pinakamalayong bahagi ng lungsod (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pangangaral sa kanyang mga tao na sundin ang mga sugo",
+        "Paggawa ng barko upang iligtas ang mga mananampalataya mula sa baha",
+        "Ang pagtapon sa apoy dahil sa pananampalataya",
+        "Nilunok ng balyena",
+        "Pagkakalooban ng kaharian at karunungan"
+      ],
+      "answer": "Pangangaral sa kanyang mga tao na sundin ang mga sugo"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang pinakamalayong bahagi ng lungsod",
+        "Ang arka",
+        "Ang balon",
+        "Ang nasusunog na palumpong",
+        "Ang kuweba"
+      ],
+      "answer": "Ang pinakamalayong bahagi ng lungsod"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pumasok sa Paraiso at hinangad na malaman ng kanyang mga tao ang kanyang kapatawaran",
+        "Nalunod kasama ng kanyang mga tao dahil sa pagtanggi sa mensahe",
+        "Binigyan ng himala ang kamelyong babae",
+        "Naging pinuno pagkatapos ng kanyang paglilitis",
+        "Iniligtas ni Allah at nanatili kasama ng kanyang mga tao"
+      ],
+      "answer": "Pumasok sa Paraiso at hinangad na malaman ng kanyang mga tao ang kanyang kapatawaran"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Voz Ignorada dos Séculos",
+  "intro": "Em tempos muito anteriores ao surgimento das grandes cidades, uma alma solitária se ergueu em meio a um povo que havia se afastado da verdade. Sua obstinação só era comparável à paciência desse pregador solitário, que suplicou por gerações sem perder a determinação. Quando todos os avisos caíram em ouvidos surdos, um acerto de contas sem precedentes remodelou a própria Terra. Hoje, os ecos dessa história ainda reverberam em cada relato. Você consegue identificar essa alma resoluta?",
+  "clues": [
+    "Fui criado em meio a um povo que adorava ídolos falsos e ignorava os sinais ao seu redor, mas fui escolhido para despertá-los de sua negligência.",
+    "Eu clamei ao meu povo repetidas vezes, mas eles me acusaram de ser apenas mais um igual a eles, zombando da minha mensagem e tapando os ouvidos.",
+    "Dia e noite, eu os suplicava com sabedoria e suaves lembretes, mas minhas palavras pareciam se dissipar no ar, inaudíveis e ignoradas.",
+    "Sob instrução divina, construí uma enorme embarcação de madeira e tábuas em terra seca, e meu povo riu de mim como se eu tivesse perdido a razão.",
+    "Quando o grande dilúvio chegou, como prometido, meu próprio filho se recusou a embarcar comigo, acreditando que uma montanha o protegeria das águas que subiam.",
+    "Eu me tornei o patriarca de um novo começo na Terra, e minha história está preservada em um capítulo do Alcorão que leva meu nome."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Noé",
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Ló",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Noé"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O Grande Dilúvio que remodelou a Terra",
+        "Ser lançado em uma fogueira ardente pelos idólatras",
+        "Confronto com os magos do faraó no palácio",
+        "A destruição dos jardins prósperos por uma tempestade celestial.",
+        "A derrubada dos habitantes das trincheiras"
+      ],
+      "answer": "O Grande Dilúvio que remodelou a Terra"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Arca construída com madeira e tábuas",
+        "A casa sagrada construída sobre alicerces antigos",
+        "O cajado que se transformou em serpente",
+        "A caverna dos jovens adormecidos",
+        "O trono carregado por uma criatura poderosa"
+      ],
+      "answer": "A Arca construída com madeira e tábuas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Os descrentes se afogaram, enquanto os crentes foram salvos a bordo da embarcação.",
+        "O fogo esfriou e tornou-se seguro, e a pessoa que ligou saiu ilesa.",
+        "Os magos prostraram-se e abraçaram a fé.",
+        "O jardim foi concedido ao vizinho justo em seu lugar.",
+        "Os adormecidos despertaram após séculos, transformados."
+      ],
+      "answer": "Os descrentes se afogaram, enquanto os crentes foram salvos a bordo da embarcação."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

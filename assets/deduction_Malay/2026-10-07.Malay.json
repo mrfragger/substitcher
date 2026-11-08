@@ -1,0 +1,61 @@
+{
+  "title": "Api di dalam istana keangkuhan",
+  "intro": "Di sebalik tembok-tembok megah istana paling berkuasa di dunia kuno, tinggal seorang tokoh yang hatinya menyimpan rahsia yang tidak dapat dibungkam oleh sebarang titah diraja. Ketika semua orang tunduk kepada tuhan-tuhan palsu, jiwa ini menyimpan iman yang tenang di dalam dirinya. Pemerintah tanah itu percaya diri mereka ilahi, namun individu ini memilih kebenaran daripada keselesaan, dan pengabdian daripada keselamatan. Hari ini, tugas anda adalah untuk mengetahui siapa jiwa yang berani ini, yang kisahnya kekal sebagai salah satu contoh iman yang teguh dan paling ampuh.",
+  "clues": [
+    "Aku tinggal di tempat yang kaya raya dan megah, di mana pemerintah negeri itu memegang kuasa mutlak ke atas semua.",
+    "Sementara orang-orang di sekelilingku tunduk kepada tuhan-tuhan palsu, aku menyimpan cahaya iman yang tenang di dalam hatiku.",
+    "Saya menemui dan mengambil seorang anak angkat yang dibawa kepada saya dengan cara yang luar biasa - bukan melalui kelahiran, tetapi melalui perairan sungai yang besar.",
+    "Aku berdoa kepada Tuhanku, memohon rumah di sisi-Nya di Syurga dan keselamatan dari kezaliman yang mengelilingiku.",
+    "Anak yang saya besarkan telah membesar untuk mencabar pemerintah yang mengawal nasib saya, dan saya berdiri teguh dalam kepercayaan saya walaupun diancam.",
+    "Akulah orang yang namanya dihormati dalam Al-Quran sebagai contoh iman, dan aku pernah tinggal di istana Firaun sendiri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Asiya, isteri Firaun",
+        "Maryam, ibu Isa",
+        "Bilqis, Ratu Sheba",
+        "Isteri Nabi Luth",
+        "Isteri Imran"
+      ],
+      "answer": "Asiya, isteri Firaun"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Menemui dan membesarkan seorang bayi terbiar yang menjadi seorang nabi agung",
+        "Dicampakkan ke dalam api yang dahsyat oleh seorang zalim",
+        "Menyaksikan banjir besar yang memusnahkan sekelompok orang",
+        "Menyaksikan minuman shake kurma dan memberikan khasiat",
+        "Mengandung anak lelaki walaupun usianya sudah lanjut"
+      ],
+      "answer": "Menemui dan membesarkan seorang bayi terbiar yang menjadi seorang nabi agung"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Istana diraja yang tiada tandingannya",
+        "Sebuah kapal besar yang dibina untuk menahan banjir",
+        "Gua yang dalam tersembunyi di pergunungan",
+        "Api yang marak dibina di puncak gunung",
+        "Taman yang dikelilingi oleh dinding"
+      ],
+      "answer": "Istana diraja yang tiada tandingannya"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Sebuah rumah telah dikurniakan di Syurga dengan kehendak Allah",
+        "Banjir besar memusnahkan orang-orang kafir dari suatu bangsa kuno",
+        "Sebuah kerajaan yang mempunyai kuasa dan kewibawaan yang besar telah diberikan di dunia ini",
+        "Sebuah tentera yang perkasa telah dihamburkan oleh burung-burung yang terbang",
+        "Seorang tiran yang mengaku dirinya dewa telah ditenggelamkan di laut"
+      ],
+      "answer": "Sebuah rumah telah dikurniakan di Syurga dengan kehendak Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

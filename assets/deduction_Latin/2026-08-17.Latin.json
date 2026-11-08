@@ -1,0 +1,61 @@
+{
+  "title": "Transgressio ad litus",
+  "intro": "Super arenas litoris obliti stas, ubi fluctus susurrant de communitate divino mandato probata. Aer gravis est memoria violationis quae ad transformationem miram duxit. Quaenam erant hae animae, et qualis erat natura probationis earum?",
+  "clues": [
+    "Communitas eramus quae mandatum clarum a Domino nostro accepimus, tamen vias invenimus ad id contemnendum.",
+    "Prope aquam habitabamus, et victus noster a creaturis eius pendebat.",
+    "Examen nobis venit die quo iussi sumus a mundanis studiis abstinere.",
+    "Creaturae aquaticae ad nos magno numero eo ipso die venerunt, nos ultra tolerantiam tentantes.",
+    "Callidum dolum excogitavimus ad divinum ordinem eludendum, putantes nos decretum superare posse.",
+    "Transgressio nostra ad ignominiosam transformationem duxit; simiae despectæ facti sumus iussu Dei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Sabbati",
+        "Populus Rassensis",
+        "Populus Tubbae",
+        "Populus Speluncae",
+        "Socii Fossae"
+      ],
+      "answer": "Populus Sabbati"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Apparentia piscium die Sabbati",
+        "Annus siccitatis gravis",
+        "Exercitus avium contra eos missus",
+        "Diluvium quod eos oppressit",
+        "Vehemens terrae motus"
+      ],
+      "answer": "Apparentia piscium die Sabbati"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Mare",
+        "Mons",
+        "Spelunca",
+        "Vallis deserta",
+        "Urbs munita"
+      ],
+      "answer": "Mare"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In simias conversi",
+        "A terra absorptus",
+        "Vento stridente deleta",
+        "In mari submersus",
+        "Imbri lapidum percussus"
+      ],
+      "answer": "In simias conversi"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

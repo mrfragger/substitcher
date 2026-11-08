@@ -1,0 +1,61 @@
+{
+  "title": "Penjaga Api yang Tidak Terpadamkan",
+  "intro": "Sebuah figura berdiri di ambang tempat yang paling digeruni di tempat yang ghaib, diamanahkan dengan tugas yang tidak diingini oleh makhluk lain. Apabila jiwa-jiwa yang menderita menjerit meminta belas kasihan, satu tindak balas tegas bergema melalui ruang api. Bolehkah anda mendedahkan identiti penjaga abadi ini?",
+  "clues": [
+    "Aku berdiri di pintu masuk tempat hukuman yang menakutkan di tempat yang ghaib.",
+    "Api yang marak dan tidak terpadamkan adalah inti dari tugasku yang khidmat.",
+    "Jiwa-jiwa yang menderita memanggil nama-Ku, merayu untuk kelegaan daripada seksaan mereka yang tidak berkesudahan.",
+    "Apabila mereka merayu, Aku mengisytiharkan bahawa mereka tidak akan pergi, selama-lamanya.",
+    "Aku bukan manusia, mahupun jin — aku diciptakan dengan ketaatan yang tulen.",
+    "Akulah malaikat utama yang dilantik sebagai penjaga abadi Api Neraka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Malik",
+        "Jibril",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Ahli neraka merayu agar seksaan mereka dihentikan",
+        "Trompet ditiup untuk menandakan Hari Kiamat",
+        "Al-Quran diturunkan ke hati Nabi",
+        "Seorang Nabi dicampakkan ke dalam api yang dahsyat oleh kaumnya",
+        "Tembok yang kukuh dibina untuk membendung negara yang korup"
+      ],
+      "answer": "Ahli neraka merayu agar seksaan mereka dihentikan"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Api Neraka (Jahannam)",
+        "Pokok Bidara di sempadan Syurga",
+        "Trompet yang menusuk",
+        "Tongkat yang berubah menjadi ular",
+        "Takhta ilahi yang megah"
+      ],
+      "answer": "Api Neraka (Jahannam)"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Penghuni neraka diberitahu bahawa mereka akan kekal selama-lamanya",
+        "Penghuni Neraka diampuni dan dibebaskan",
+        "Penghuni Neraka diberi peluang kedua untuk beriman",
+        "Penghuni neraka dipindahkan ke tempat yang sejuk",
+        "Penghuni Neraka dibinasakan sepenuhnya oleh halilintar"
+      ],
+      "answer": "Penghuni neraka diberitahu bahawa mereka akan kekal selama-lamanya"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Musun da Aka Yi a Tsakanin Yawa",
+  "intro": "Kana ganin kanka a cikin mutanen da kasuwanninsu ke cike da kasuwanci, amma sikelinsu yana karkacewa ba tare da gaskiya ba. Wani manzo ya zo musu da gargaɗi bayyanannu, amma suka yi dariya suka juya baya, suna da tabbacin wadatarsu. Sama ta fara duhu, amma suna ganin hakan a matsayin albarkar ruwan sama. Su waye waɗannan mutanen?",
+  "clues": [
+    "Mun bunƙasa a ƙasashen kasuwanci da wadata, amma zukatanmu sun yi rauni.",
+    "Wani manzo ya zo mana da ayoyi daga Ubangijinmu, amma mun yi izgili da gargaɗinsa.",
+    "An san mu da sana'armu, amma mun yi ɗan gajeren lokaci muna yaudarar mutane.",
+    "Mun zauna a tsakanin bishiyoyi masu yawa da ciyayi masu kyau, amma mun ɗauki albarkarmu da wasa.",
+    "Lokacin da gajimare mai duhu ya zo, mun yi murna, muna tunanin zai kawo ruwan sama ga ƙasashenmu da suka bushe.",
+    "Madadin haka, wannan gajimare ya fitar da azaba mai zafi, kuma azabar ranar inuwa ta kama mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Ashab al-Aykah (Asahabban Daji)",
+        "Mutanen Samudawa",
+        "Mutanen 'Ad'",
+        "Mutanen Lutu",
+        "Mutanen Nuhu"
+      ],
+      "answer": "Ashab al-Aykah (Asahabban Daji)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Sun ƙi manzonsu kuma sun yi zamba a ciniki",
+        "Sun bauta wa ɗan maraƙi na zinariya kuma aka karkatar da su",
+        "Sun yi luwadi kuma sun kai wa matafiya hari",
+        "Sun gina hasumiyai masu tsayi kuma suka ƙalubalanci Allah",
+        "Sun ƙi raba ruwa suka kuma cutar da raƙumi"
+      ],
+      "answer": "Sun ƙi manzonsu kuma sun yi zamba a ciniki"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Daji mai yawa ko kuma kauri",
+        "Dutsen da aka sassaka a gidaje",
+        "Birni a bakin teku",
+        "Kwarin hamada mai rijiyoyi",
+        "Lambu mai albarka mai 'ya'yan itatuwa da yawa"
+      ],
+      "answer": "Daji mai yawa ko kuma kauri"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An halaka ta da gajimare mai duhu na wuta",
+        "Ruwan sama mai ƙarfi ya nitse da shi",
+        "Girgizar ƙasa ta haɗiye shi",
+        "Iska mai ƙarfi ta buge shi",
+        "Ya zama dutse"
+      ],
+      "answer": "An halaka ta da gajimare mai duhu na wuta"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

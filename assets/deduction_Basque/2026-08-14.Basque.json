@@ -1,0 +1,61 @@
+{
+  "title": "Esku Madarikatuak",
+  "intro": "Antzinako Meka-ko kalezulo bihurgunetsuetan zaude, eragin eta aberastasun handiko arima batek egiaren deia baztertu zuen lekuan. Pertsonaia honen istorioak gogorarazten digu odol-loturek ezin dituztela harrotasunaren kateak gainditu. Nor da zain dagoen suarekin batera oihartzun egiten duen izena duen hau?",
+  "clues": [
+    "Mekako kaleetan zehar ibili nintzen egia ikusteko itsutzen ninduen harrotasun batekin, nahiz eta mezularia nire odolekoa izan.",
+    "Nire ondasunak izugarriak ziren, baina ezkutu bat baino madarikazio bihurtu ziren.",
+    "Gida liburuak nire hondamendiaz hitz egiten du, nire eskuak eta nire pertsona hilko direla adieraziz.",
+    "Nire ezkontidea nire etsaitasun kanpainan batu zen, arantzak bilduz Ala-ri dei egin zionaren bidean zabaltzeko.",
+    "Judizio egunean, su bizian murgilduko naiz, eta nire emazteak palma-zuntzezko soka bat izango du lepoan.",
+    "'Sugarraren aita' esan nahi duen izen batekin ezagutzen naiz — nire betiko bizilekua iragartzen duen izena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Gako Epaiketa edo Gertaera",
+      "options": [
+        "Profetaren aurka egin zuen eta Koranean madarikatua izan zen",
+        "Kaaba suntsitzeko armada bat zuzendu zuen",
+        "Profeta harriak botaz hiltzen saiatu zen",
+        "Ilargiaren zatiketan sinesteari uko egin zion",
+        "Dorre bat eraiki zuen zerura iristeko"
+      ],
+      "answer": "Profetaren aurka egin zuen eta Koranean madarikatua izan zen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Infernuko Suaren Sua",
+        "Musaren langileak",
+        "Nuh-ren Arka",
+        "Zamzam-eko putzua",
+        "Urrezko Txahala"
+      ],
+      "answer": "Infernuko Suaren Sua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Su bizian sartuko da, eta bere aberastasunak ez dio balioko",
+        "Damutu eta sinestun bihurtu zen",
+        "Barkatu zioten atzera egin ondoren",
+        "Martiri gisa hil zen.",
+        "Zeruetara eraman zuten."
+      ],
+      "answer": "Su bizian sartuko da, eta bere aberastasunak ez dio balioko"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

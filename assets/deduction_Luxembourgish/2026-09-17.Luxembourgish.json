@@ -1,0 +1,61 @@
+{
+  "title": "Ënnert dem Schiet vun der Dattelpalm",
+  "intro": "Eng Geschicht erzielt sech vun enger Séil, déi virun der Gebuert ofgesot gouf, a hellege Mauere gefleegt a gewielt gouf, fir en Zeechen ze droen, dat d'Welt nach ni gesinn hat. Wéi aus alle Richtungen Ukloe koumen, koum eng Stëmm aus der onwahrscheinlechster Plaz, fir all Zweiwel ze stëllen. Kënnt Dir erausfannen, wien ënnert dem Schiet vun der Dattelpalm gaangen ass?",
+  "clues": [
+    "Ech war dem Déngscht vum Allmächtegen gewidmet, ier ech iwwerhaapt mäin éischten Otemzuch gezunn hunn, e Gelübde vun deem, deen mech gedroen huet.",
+    "Ech sinn ënner der opmierksamer Opsiicht vun engem gerechte Bewaacher an de hellege Kammeren vun enger Kultplaz opgewuess.",
+    "Wann ëmmer mäi Végemann a mäi Zëmmer koum, huet hie bei mir Proviant vu Joreszäiten fonnt, déi net hätten solle sinn.",
+    "Ech krut eng gutt Noriicht vun engem Jong, obwuel meng Ëmstänn kee Raum fir dat gelooss hunn, wat versprach gouf.",
+    "Ech hunn mech op eng wäit ewech Plaz zréckgezunn, an do huet mir eng Dattelpalm Schiet gebueden, während e Baach drënner gefloss ass.",
+    "Wéi d'Ukloe koumen a Froen mech ëmginn hunn, hunn ech op mäi neigebuerent Kand gewisen - an hien huet vun der Wieg aus geschwat fir all Zweiwel ze stëmmen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Maryam",
+        "Sarah",
+        "Hawa",
+        "Umm Musa",
+        "D'Fra vum Nuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Prozess / Event",
+      "options": [
+        "D'Gebuert vun engem wonnerbare Jong an Isolatioun",
+        "Vun Gëtzendénger an e flammend Feier gehäit ginn",
+        "Déi grouss Iwwerschwemmung mat e puer Ausgewielten iwwerliewen",
+        "Vun engem Puppelchen getrennt ginn, dat an de Floss gehäit gouf",
+        "Konfrontatioun mam mächtege Herrscher vun Egypten"
+      ],
+      "answer": "D'Gebuert vun engem wonnerbare Jong an Isolatioun"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng Dattelpalm an e fléissende Baach drënner",
+        "Eng mächteg Ark op riesegen Wellen",
+        "E Staf, deen e grousst Mier an zwee gespléckt huet",
+        "E flammend Feier, dat eng trei Séil soll konsuméieren",
+        "En gëllene Troun mat Edelsteng dekoréiert"
+      ],
+      "answer": "Eng Dattelpalm an e fléissende Baach drënner"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Geéiert als déi erhuewenst vun alle Fraen",
+        "No enger laanger Trennung erëm mat engem beléifte Kand vereenegt",
+        "Eng ganz Natioun aus der Knechtschaft vun engem Tyrann gefouert",
+        "Huet e Vollek gewarnt, dat an der Immoralitéit verluer ass",
+        "Herrschaft iwwer Djinn, Mënschheet an d'Wand kritt"
+      ],
+      "answer": "Geéiert als déi erhuewenst vun alle Fraen"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

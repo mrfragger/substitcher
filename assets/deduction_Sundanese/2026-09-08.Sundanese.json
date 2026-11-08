@@ -1,0 +1,61 @@
+{
+  "title": "Sidang Api Suci",
+  "intro": "Di hiji nagri kuno dimana kadeudeuh kana batu ukiran parantos ngakar di unggal bumi, aya hiji jalma anu nangtung misah. Ngaliwatan kayakinan anu teu kendat sareng panyalindungan ilahi, aranjeunna nyanghareupan naon anu sakuduna maot — sareng angkat tanpa cilaka. Naha anjeun tiasa ngungkabkeun idéntitas jiwa anu luar biasa ieu?",
+  "clues": [
+    "Kuring digedékeun di antara jalma-jalma anu sujud ka brahala anu diukir ku leungeunna sorangan, percaya yén barang-barang éta ngandung kakuatan ilahi.",
+    "Nalika kuring nangtang kapercayaan aranjeunna, mimitina aranjeunna nolak kuring, tapi kuring teu tiasa cicing waé ngeunaan bebeneran anu kuring terang.",
+    "Dina hiji poe nalika maranehna dikumpulkeun, Kami ngancurkeun brahala-brahala maranehna, ngan nyesakeun anu panggedéna wungkul.",
+    "Nalika aranjeunna uih deui sareng ningali naon anu parantos kuring lakukeun, pamimpinna nitah ngadamel tempat pembakaran kai anu ageung, niatna rék ngaduruk kuring.",
+    "Aranjeunna ngalungkeun abdi kana seuneu anu ngagedur, tapi Gusti Nu Maha Agung nitah supaya éta seuneu jadi tiis jeung aman pikeun abdi.",
+    "Abdi kaluar tina seuneu tanpa tatu, sedengkeun jalma-jalma anu ngarencanakeun jahat ka abdi bakal nyanghareupan karusakan total."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Nabi Ibrahim",
+        "Nabi Musa",
+        "Nabi Nuh",
+        "Nabi Isa",
+        "Nabi Yusuf"
+      ],
+      "answer": "Nabi Ibrahim"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Dilebur kana seuneu anu ngagedur",
+        "Ditelan ku paus badag",
+        "Salamet tina banjir ageung",
+        "Dileueutkeun kana sumur anu jero",
+        "Ngalawan tukang sihir raja"
+      ],
+      "answer": "Dilebur kana seuneu anu ngagedur"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Tumpukan kai anu kaduruk ageung",
+        "Peti kai anu ageung",
+        "Patung anak sapi emas",
+        "Karanjang anu ngambang di walungan",
+        "Tahta anu megah"
+      ],
+      "answer": "Tumpukan kai anu kaduruk ageung"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Allah ngajadikeun seuneu tiis jeung aman",
+        "Bahtera éta badarat kalayan aman di gunung",
+        "Berhala emas éta lebur di hareupeun panonna",
+        "Hiji tiran jeung pasukanana tilelep di laut",
+        "Panempo lalaki lolong dibalikeun deui"
+      ],
+      "answer": "Allah ngajadikeun seuneu tiis jeung aman"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

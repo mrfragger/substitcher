@@ -1,0 +1,61 @@
+{
+  "title": "Vox Constantiae",
+  "intro": "Hic homo propter sapientiam profundam et ducem memoratur, consilium offerens quod generationes transcendit. Verba eorum testimonium sunt pietatis et momenti agnoscendi beneficia et tribulationes a Divino. Identitatem huius animae veneratae detege.",
+  "clues": [
+    "Propheta non eram, sed sapientia mea in Divina Scriptura immortalizata est.",
+    "Consilium meum filio meo gratiam erga Allah et vitandam contemptionem rerum non abusivarum (vel shirk) significavit.",
+    "De momenti precationis, boni praecipiendi, et mali prohibendi docui.",
+    "Monui de arrogantia et deambulatione insolenti super terram.",
+    "Nomen meum toti capitulo in Alcorano datur, quod doctrinas meas illustrat.",
+    "Patientiam in adversis consilium meum comprehendit, nam profecto ea ex rebus firmissimis est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Idris propheta",
+        "Propheta Yahya",
+        "Luqman",
+        "Imran",
+        "Propheta Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Doctrina/Consilium Clavis",
+      "options": [
+        "Arcam aedificans",
+        "Adversus exercitum validum",
+        "Sapientiam et consilium morale dispensans",
+        "Interpretatio somniorum",
+        "Ducens gentem ad victoriam"
+      ],
+      "answer": "Sapientiam et consilium morale dispensans"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Rubus ardens",
+        "Piscis magnus",
+        "Mons quidam",
+        "Consilium sapiens progenii",
+        "Magnum palatium"
+      ],
+      "answer": "Consilium sapiens progenii"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Rex factus est",
+        "Prophetatus concessus est",
+        "Sapientia eius in Corano relata est.",
+        "Populum suum ad novam terram duxit",
+        "Ingentes divitiae accepi"
+      ],
+      "answer": "Sapientia eius in Corano relata est."
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

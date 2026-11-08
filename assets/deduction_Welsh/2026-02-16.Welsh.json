@@ -1,0 +1,61 @@
+{
+  "title": "Yr Hawliad o Awdurdod Absoliwt",
+  "intro": "Yn yr hen amser, cododd unigolyn pwerus i lywodraethu dros dir helaeth a'i thrigolion. Nodweddwyd teyrnasiad y ffigur hwn gan falchder aruthrol a her ddofn i awdurdod dwyfol. Paratowch i ddatgelu hunaniaeth enaid y daeth ei dynged yn wers barhaol i bob cenhedlaeth.",
+  "clues": [
+    "Roeddwn i'n rheoli ymerodraeth gadarn, lle'r oedd fy ngair yn gyfraith.",
+    "Datganais fy hun yn dduwdod goruchaf, gan fynnu addoliad gan bawb o dan fy rheolaeth.",
+    "Fe wnes i orthrymu cymuned benodol, gan eu caethiwo a gorchymyn lladd eu babanod gwrywaidd.",
+    "Cefais fy wynebu dro ar ôl tro gan negesydd gostyngedig Duw, a gyflawnodd wyrthiau clir o'm blaen i a'm hudwyr.",
+    "Gwrthodais y gwirionedd yn ystyfnig, gan gyhuddo'r negesydd o ddewiniaeth a chynllwynio i'w ddinistrio ef a'i ddilynwyr.",
+    "Cafodd fy myddin gyfan a minnau eu llyncu gan y môr wrth i ni erlid yn ddi-baid y rhai a oedd wedi cael eu rhyddhau o fy gafael."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Y Llifogydd Mawr",
+        "Y Tân Llosgi",
+        "Boddi'r Gormeswr",
+        "Y Dinistr gan y Gwynt",
+        "Daeargryn yr Anghrediniaeth"
+      ],
+      "answer": "Boddi'r Gormeswr"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Arch Noa",
+        "Staff Moses",
+        "Yr Idol Aur",
+        "Ffynnon Zamzam",
+        "Gorsedd Bilqis"
+      ],
+      "answer": "Staff Moses"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi cael teyrnas helaeth",
+        "Corff wedi'i gadw fel arwydd",
+        "Maddeuant ar ôl edifeirwch",
+        "Wedi'i ddyrchafu i broffwydiaeth",
+        "Daeth ei bobl yn dduwiol"
+      ],
+      "answer": "Corff wedi'i gadw fel arwydd"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

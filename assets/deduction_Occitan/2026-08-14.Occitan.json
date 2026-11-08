@@ -1,0 +1,61 @@
+{
+  "title": "Las Mans Maudichas",
+  "intro": "Te pausas dins los carriòls serpentós de l'anciana Meca, ont una anma d'influéncia e de riquesa se desvièt un còp de la crida de la vertat. L'istòria d'aquela figura es un rapèl fòrt que los ligams de sang pòdon pas superar las cadenas de l'orgulh. Qual es aquel que son nom fa resson amb lo fuòc qu'espèra?",
+  "clues": [
+    "Caminèri per las carrièras de Meca amb una orgulh que m'aveguèt a la vertat, e mai se lo messatgièr èra de mon pròpri sang.",
+    "Mas possessions èran vastas, mas venguèron una malediccion puslèu qu'un escut.",
+    "Lo libre de la guida parla de ma roïna, declarant que las miás mans e la miá persona periràn.",
+    "Mon espós rejonhèt ma campanha d'enemistat, en amassant d'espinas per s'espandir sul camin d'aquel qu'apelava Allah.",
+    "Lo jorn del jutjament, serèi plonjat dins un fuòc de flama ardenta, e mon espós aurà una còrda de fibra de palma a l'entorn del còl.",
+    "Soi conegut per un nom que significa 'paire de flama' — un nom que predís mon abitacion eternala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ensag o eveniment clau",
+      "options": [
+        "S'opausèt al Profèta e foguèt maudit dins l'Alcoran",
+        "Menèt una armada per destruire la Kaaba",
+        "Ensagèt de tuar lo Profèta en tirant de pèiras",
+        "Refusèt de creire a la scission de la luna",
+        "Bastiguèt una torre per aténher los cèls"
+      ],
+      "answer": "S'opausèt al Profèta e foguèt maudit dins l'Alcoran"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo fuòc ardent de l'infèrn",
+        "L'Estat Major de Musa",
+        "L'Arca de Nuh",
+        "Lo Potz de Zamzam",
+        "Lo vedèl d'aur"
+      ],
+      "answer": "Lo fuòc ardent de l'infèrn"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Dintrarà dins lo fuòc ardent, e sa riquesa li servirà pas",
+        "Se repentiguèt e venguèt cresent",
+        "Foguèt perdonat après aver recantat",
+        "Moriguèt coma martir",
+        "Fo menat als cels ."
+      ],
+      "answer": "Dintrarà dins lo fuòc ardent, e sa riquesa li servirà pas"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

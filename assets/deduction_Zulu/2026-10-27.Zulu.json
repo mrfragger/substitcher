@@ -1,0 +1,61 @@
+{
+  "title": "Ukuvinjezelwa Ngaphansi Kwesibhakabhaka Esingazelelwe",
+  "intro": "Umi phambi kwebutho elinamandla elisondela endaweni ehloniphekile, zonke izikhali sezilungile futhi ukunqoba kubonakala kuqinisekile. Ngaphambi kokuba kuqale ukuhlasela, kuvela amandla angalindelekile, futhi umncintiswano uthatha ijika okungekho muntu owalibona kusengaphambili.",
+  "clues": [
+    "Sahamba ngokuqiniseka ukuthi akukho mandla asemhlabeni anganyakazisa.",
+    "Silethe izindlovu ezinamandla, futhi amandla ethu abonakala sengathi akhiwe nxazonke zazo.",
+    "Sasize ukuzobhidliza indawo engcwele ehlonishwayo, sikholelwa ukuthi ukunqoba kwethu kwase kuqinisekisiwe kakade.",
+    "Lapho sifika kuyo, umhlambi wehla esibhakabhakeni ngaphezu kwethu.",
+    "Izinyoni zaphonsa amatshe obumba oluqinile kumaqhawe ethu.",
+    "Sanqotshwa ngokuphelele kangangokuthi amandla ethu amakhulu aqhekeka futhi ahlakazeka njengomlotha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu Bendlovu",
+        "Izikhulu Ezimbili",
+        "Abafowabo bakaJosefa",
+        "Inceku Ka-Allah eDhul-Kifl",
+        "Abangane Bomuntu Olungile"
+      ],
+      "answer": "Abantu Bendlovu"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlaselwa kweKaaba okuholwa yindlovu",
+        "Ulwandle luhlukana phambi kweqembu elilethiwe",
+        "Ukuthunjwa koMphongolo ngabantu abanonya",
+        "Uhambo lwasebusuku phakathi kwama-mosque amabili",
+        "Ukwelashwa konochoko ngamandla aphezulu"
+      ],
+      "answer": "Ukuhlaselwa kweKaaba okuholwa yindlovu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Izinyoni eziphethe izingcezu zobumba",
+        "Umkhumbi we-gopherwood",
+        "Intonga yaphenduka inyoka",
+        "Itshe elivalwe ngophawu",
+        "Isihlahla esivuthayo"
+      ],
+      "answer": "Izinyoni eziphethe izingcezu zobumba"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Amandla abo amakhulu adilika njengomlotha",
+        "Bawela ulwandle ngokuphepha",
+        "Bahamba ngaphandle kokulimala esithandweni somlilo esivuthayo",
+        "Bangena ePharadesi ngababili",
+        "Balala emhumeni iminyaka engama-309"
+      ],
+      "answer": "Amandla abo amakhulu adilika njengomlotha"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Creado mediante la palabra",
+  "intro": "Una figura emerge de la historia sagrada, portadora de milagros que desafiaron el orden natural. Esta alma llegó por un mandato divino, defendió a un progenitor de graves acusaciones y partió de este mundo antes de que las cadenas terrenales pudieran atarla. La historia abarca desde una humilde cuna hasta los cielos. ¿Quién podría ser?",
+  "clues": [
+    "Fui enviado como una señal y una misericordia de Alá para los Hijos de Israel.",
+    "Mi llegada fue diferente a todas las anteriores: llegué a la existencia por la palabra divina \"¡Sé!\", sin un padre terrenal.",
+    "Mis padres sufrieron crueles calumnias, pero una revelación sagrada descendió para declarar su inocencia y elevar su posición.",
+    "Siendo un bebé recién nacido, asombré a quienes me rodeaban al hablar con claridad desde mi cuna para limpiar el nombre de mis padres.",
+    "Con el permiso de Alá, di forma a la vida a partir de arcilla inerte, devolví la vista a los ciegos y curé al leproso con mi toque.",
+    "Fui elevado a los cielos antes de que el mal pudiera tocarme, y regresaré a este mundo antes de que llegue la Hora final."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Isaías",
+        "El profeta Musa",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Isaías"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Hablando desde la cuna, cuando era un bebé.",
+        "Sobreviviendo en el vientre de un gran pez",
+        "Ser arrojado a un fuego ardiente",
+        "Construir una gran arca antes de un diluvio",
+        "Enfrentando la hechicería de la corte del faraón"
+      ],
+      "answer": "Hablando desde la cuna, cuando era un bebé."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Injeel (Evangelio)",
+        "La Torá",
+        "El Zabur (Salmos)",
+        "Los Suhuf (Pergaminos de Ibrahim)",
+        "Un bastón que partió el mar"
+      ],
+      "answer": "El Injeel (Evangelio)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Elevados a los cielos, regresarán antes del Día del Juicio.",
+        "Condujo a los hijos de Israel fuera de Egipto.",
+        "Se convirtió en rey con dominio sobre los genios, los humanos y las aves.",
+        "Sobrevivió a una inundación masiva con los fieles",
+        "Construyó la casa sagrada en La Meca."
+      ],
+      "answer": "Elevados a los cielos, regresarán antes del Día del Juicio."
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

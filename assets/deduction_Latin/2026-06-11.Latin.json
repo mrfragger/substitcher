@@ -1,0 +1,61 @@
+{
+  "title": "Vicus ad Litora Iudicii",
+  "intro": "In vico litorali te invenis, ubi sonitus fluctuum cum susurris populi obliti miscetur. Quietis imperium eis datum est, sed avaritia eorum ad poenam duxit, de qua adhuc submissa voce dicitur. Potesne detegere qui fuerint?",
+  "clues": [
+    "Ad litus habitavimus et mandatum accepimus ut diem quietis observaremus.",
+    "Eo die, pisces abundanter ad nos veniebant, sed eos capere vetitum erat.",
+    "Quidam inter nos de transgressione monuerunt, alii autem nihilominus coniuraverunt ut piscarentur.",
+    "Sacrum mandatum violavimus et gravem nobis supplicium intulimus.",
+    "Poena nostra fuit transformatio quae nos deformatos et ignominiosos reliquit.",
+    "In simias conversi sumus, signum omnibus qui posteri erant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Sabbati",
+        "Populus Thamudensis",
+        "Populus 'Ad",
+        "Homines Speluncae",
+        "Populus Elephantis"
+      ],
+      "answer": "Populus Sabbati"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Piscatio Sabbato",
+        "Vitulum aureum adorantes",
+        "Negando nuntium Hud",
+        "Camelam occidens",
+        "Turrim ad caelum aedificans"
+      ],
+      "answer": "Piscatio Sabbato"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Pisces",
+        "Camelus",
+        "Baculus",
+        "Navis",
+        "Hortus"
+      ],
+      "answer": "Pisces"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In simias conversi",
+        "Diluvio deletus",
+        "Igne ardenti deletus",
+        "A terra absorptus",
+        "Vento dispersus"
+      ],
+      "answer": "In simias conversi"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Le suppliant du sanctuaire",
+  "intro": "Au cœur de la nuit, une âme dévouée implora le Tout-Miséricordieux dans l'enceinte sacrée d'un lieu saint. Des années de foi et de patience inébranlables allaient être récompensées par un miracle, source de joie et d'un héritage prophétique.",
+  "clues": [
+    "J'ai passé mes jours et mes nuits en dévotion dans un sanctuaire sacré, suppliant sans cesse mon Seigneur.",
+    "J'ai vieilli, et ma femme était stérile, pourtant je n'ai jamais perdu espoir en la miséricorde d'Allah.",
+    "Il m'a été donné un fils, nommé Yahya, qui devint prophète et phare de justice.",
+    "J'étais moi-même un prophète, envoyé pour guider les Enfants d'Israël.",
+    "J'étais un descendant du prophète Harun et j'ai servi comme prêtre au Temple.",
+    "On m'a confié la responsabilité de Maryam, la mère d'Isa, et j'ai été témoin de ses miracles."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Zacharie",
+        "Prophète Yahya",
+        "Le prophète Ilyas",
+        "Prophète Ishaq",
+        "Le prophète Ya'qub"
+      ],
+      "answer": "Le prophète Zacharie"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Un fils lui fut accordé dans sa vieillesse",
+        "Sauvé d'un incendie dévastateur",
+        "Sauvé du ventre d'un poisson",
+        "A survécu à une grande inondation",
+        "Guéri d'une maladie grave"
+      ],
+      "answer": "Un fils lui fut accordé dans sa vieillesse"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le Mihrab (niche de prière)",
+        "La Kaaba",
+        "Le Buisson Ardent",
+        "L'Arche d'Alliance",
+        "La grotte des sept dormeurs"
+      ],
+      "answer": "Le Mihrab (niche de prière)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il eut un fils juste qui devint prophète",
+        "Détruit par une violente tempête",
+        "Noyé dans la mer",
+        "Épargné des flammes",
+        "Ils sont retournés auprès des leurs après avoir été sauvés d'un poisson."
+      ],
+      "answer": "Il eut un fils juste qui devint prophète"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

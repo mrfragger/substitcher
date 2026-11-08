@@ -1,0 +1,61 @@
+{
+  "title": "d'Melodie vun de Bierger an der Dämmerung",
+  "intro": "Lauschtert wéi d'Däller mat Luef niewent engem gewielten Dénger vun Allah widderhallen. Eng Stëmm mat Melodie begabt, e Geriichtsurteel, dat vun de Sträitpersounen am Raum gesicht gëtt, a Metall, dat duerch göttlech Uerder mëll gemaach gouf, waarden op d'Entdeckung. Wéi eng Figur vu Verehrung a gerechter Herrschaft schwätzt duerch dës Zeeche?",
+  "clues": [
+    "Ech gouf vun Allah mat Guttméiglechkeeten an enger melodescher Stëmm vum Luef geseent.",
+    "Mir gouf vun Allah geléiert, d'Sprooch vum gerechte Uerteel tëscht Sträitparteien ze verstoen.",
+    "Ech sinn an der Schluecht géint e mächtege Ris Krieger gestouss an duerch Allahs Wëllen hunn ech si gewonnen.",
+    "Mir gouf Wäisheet, Autoritéit an eng offenbart Schrëft vu Psalmen vun Allah ginn.",
+    "Ech gouf vun de Bierger an de Vigel begleet, fir Allah owes an bei Sonnenopgang mat mir ze verherrlechen.",
+    "Allah huet mir geléiert, Panzer aus Eisen ze maachen, déi fir mech mëll gemaach goufen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Dawud (David)",
+        "De Prophet Ismail (Ishmael)",
+        "De Prophet Yahya (Johannes)",
+        "Dhul-Kifl",
+        "De Prophet Al-Yasa (Elisha)"
+      ],
+      "answer": "De Prophet Dawud (David)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Huet de Jalut (Goliath) an der Schluecht duerch Allahs Wëlle besiegt",
+        "D'Ark gouf gebaut fir déi grouss Iwwerschwemmung ze iwwerliewen",
+        "Gouf an e Feier gehäit, dat Allah ofgekillt huet",
+        "Gouf vun engem grousse Fësch am Mier verschléckt",
+        "Gouf an den Himmel opgehuewen, ouni den Doud ze schmaachen"
+      ],
+      "answer": "Huet de Jalut (Goliath) an der Schluecht duerch Allahs Wëlle besiegt"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Bierger a Vigel luewen Allah zesummen",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "E Feier, dat kill a friddlech gouf",
+        "E Kamel, dat als Zeeche fir d'Leit geschéckt gouf",
+        "Eng hëlze Ark, déi um Bierg Judi läit"
+      ],
+      "answer": "Bierger a Vigel luewen Allah zesummen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Kinnekräich, Wäisheet an den Zabur (Psalmen) kritt",
+        "Am Alter e Jong geschenkt, nodeems hien eescht gebiet huet",
+        "Sécherheet an der Höhl fir vill Joren garantéiert",
+        "Eng Quell vu Zamzam an der Wüst kritt",
+        "Zougestanen Ertrénkung vun der Arméi am Mier"
+      ],
+      "answer": "Kinnekräich, Wäisheet an den Zabur (Psalmen) kritt"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Suara yang Menolak Keputusasaan",
+  "intro": "Masuklah ke sebuah rumah tangga di mana kehilangan terus berdatangan, namun satu suara tenang menolak keputusasaan. Sebuah seruan dalam Al-Qur'an mengubah kesabaran menjadi titik balik; dapatkah Anda menelusuri petunjuk menuju orang di balik suara itu?",
+  "clues": [
+    "Aku adalah suara kesabaran di dalam sebuah rumah tangga di mana berkah diuji oleh musibah.",
+    "Aku tetap tinggal di rumah yang kosong akibat kehilangan harta benda dan anak-anak.",
+    "Aku tahu bahwa penyakit juga telah menyerang temanku itu, yang tubuhnya sedang sakit.",
+    "Ketika kesusahan semakin parah, aku berseru sambil mengingatkan akan nama Allah.",
+    "Saya menyampaikan satu pernyataan: Allah adalah Kebenaran, jadi bersabarlah.",
+    "Aku memanggil Ayyub dengan namanya; setelah itu, Allah menghilangkan musibah dan memulihkan keluarga tersebut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Istri Nabi Ayyub",
+        "Istri Nabi Nuh",
+        "Istri Nabi Ibrahim",
+        "Istri Nabi Ya'qub",
+        "Putri Firaun"
+      ],
+      "answer": "Istri Nabi Ayyub"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Tetap bersama Ayyub melewati kehilangan dan penyakit, kemudian menyerukan kesabaran.",
+        "Memperingatkan seorang utusan yang saleh untuk meninggalkan komunitas yang korup.",
+        "Berdoa untuk kelahiran keturunan di masa depan",
+        "Menafsirkan mimpi di dalam penjara kerajaan",
+        "Menemukan anak yang dipercayakan di tepi sungai"
+      ],
+      "answer": "Tetap bersama Ayyub melewati kehilangan dan penyakit, kemudian menyerukan kesabaran."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Pernyataan bahwa Allah adalah Kebenaran dan kesabaran diperlukan.",
+        "Pohon palem di samping mata air",
+        "Seruan untuk membangun kapal jauh dari ombak.",
+        "Mimpi tentang sebelas bintang dan matahari terbit",
+        "Sebuah keranjang yang dibawa menyusuri Sungai Nil"
+      ],
+      "answer": "Pernyataan bahwa Allah adalah Kebenaran dan kesabaran diperlukan."
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Musibah yang menimpa Ayyub telah hilang dan keluarganya dipulihkan.",
+        "Setelah doa yang sia-sia, akhirnya seorang anak yang telah lama dinantikan dikaruniai.",
+        "Seorang penguasa muda menafsirkan tujuh tahun kelimpahan dan kelangkaan.",
+        "Seorang anak yang dipercayakan diselamatkan dari arus air.",
+        "Peringatan mendahului banjir yang merusak."
+      ],
+      "answer": "Musibah yang menimpa Ayyub telah hilang dan keluarganya dipulihkan."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

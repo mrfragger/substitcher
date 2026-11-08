@@ -1,0 +1,61 @@
+{
+  "title": "Isiguli",
+  "intro": "Kudala, ezinsukwini zokuqala zomlando wesintu, imiphefumulo emibili yayimi phambi koMdali wayo neminikelo. Omunye wamukelwa, omunye wangamukelwa. Okwalandela kwaba yinhlekelele yokuqala enkulu phakathi kwezelamani - isenzo esisodwa sokuzibamba ngesineke kanye nesenzo esisodwa sokuziphindiselela okubuhlungu. Ungangithola ukuthi ngingubani?",
+  "clues": [
+    "Ngazalwa ezinsukwini zokuqala zokuphila komuntu emhlabeni",
+    "Ngangingumntwana wabantu ababili bokuqala ukuhamba kulo mhlaba",
+    "Ngake nganikela umhlatshelo ovela kokuhle kakhulu emhlambini wami ukuze ngijabulise uMdali wami",
+    "Umnikelo wami wamukelwa uvela phezulu, kanti umnikelo womfowethu wenqatshwa",
+    "Lapho ngisongelwa ngokufa, ngakhetha ukungaphakamisi isandla sami ngokumelene nomfowethu noma udadewethu",
+    "Ngaba ngumuntu wokuqala emlandweni wesintu ukubulawa ngokungemthetho ngomunye umuntu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UHabili (u-Abela), indodana ka-Adamu",
+        "UQabil (uKhayini), indodana ka-Adamu",
+        "U-Adamu, umuntu wokuqala",
+        "Nuh (uNowa)",
+        "U-Ibrahim (u-Abrahama)"
+      ],
+      "answer": "UHabili (u-Abela), indodana ka-Adamu"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukubulala kokuqala emlandweni wesintu",
+        "Isikhukhula esikhulu sikaNuh",
+        "Ukubhujiswa kwebutho likaFirawn",
+        "Umhlatshelo ka-Ismail ngu-Ibrahim",
+        "Impi ngokumelene noJalut (uGoliyathi)"
+      ],
+      "answer": "Ukubulala kokuqala emlandweni wesintu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Imvu enikelwa njengomhlatshelo othokozisayo",
+        "Umkhumbi omkhulu wokhuni",
+        "Induku eyaphenduka inyoka",
+        "Inyoni eyi-hoopoe ephethe umyalezo wasebukhosini",
+        "Umsele womlilo ovuthayo"
+      ],
+      "answer": "Imvu enikelwa njengomhlatshelo othokozisayo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waba yisisulu sokuqala sokubulawa emlandweni wesintu",
+        "Wasinda esikhukhuleni esikhulu ngaphakathi komkhumbi wokhuni",
+        "Wahlala esiswini senhlanzi enkulu",
+        "Wabusa phezu kwama-jinn, abantu, nomoya",
+        "Wazulazula iminyaka engamashumi amane ehlane elikhulu"
+      ],
+      "answer": "Waba yisisulu sokuqala sokubulawa emlandweni wesintu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

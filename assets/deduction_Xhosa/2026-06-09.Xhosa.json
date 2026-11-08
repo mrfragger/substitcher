@@ -1,0 +1,61 @@
+{
+  "title": "Umceli Ongagungqiyo KwiNyaniso",
+  "intro": "Umthunywa umi yedwa phakathi kwabantu abanenkani, ebabiza kuThixo omnye weNyaniso ngelixa besanamathele kwizithixo zobuxoki. Lo mprofeti unegama elivakala ngentsingiselo enamandla—'lowo ufuna ukhuseleko'—kodwa ufumana kuphela ukwaliwa nokukhanyelwa. Ngokuncenga okuthambileyo kunye nesilumkiso esiqinileyo, lo mphefumlo uphethe umyalezo kaThixo oya kuthi ekugqibeleni indalo ngokwayo iwuqinisekise. Ungamchonga lo mntu uqinileyo omele enye yeengxelo zakudala kwizibhalo zamaSilamsi?",
+  "clues": [
+    "Abantu bam babenqula oothixo abaninzi, ngoxa mna ndibabizele ukukhonza Lowo wadala amazulu nomhlaba.",
+    "Ndema phambi kwesizwe sam ndaza ndathi andiyi kufuna mvuzo kubo—umnqweno wam kuphela yayikukukhokelwa kwabo ukuya ebulungiseni.",
+    "Umoya omkhulu wathunyelwa ebantwini bam njengesohlwayo sikaThixo, umoya iQuran ethetha ngawo ngeendlela ezininzi nezingokwesini.",
+    "Ngokungafaniyo nabanye abaprofeti, andizange ndinikwe umfazi okanye abantwana abakhankanywa kakhulu kwibali lam, kuba umsebenzi wam yayikukubiza abantu bam bodwa.",
+    "Igama lam linentsingiselo enzulu—enxulumene nengcamango yokhuseleko nendawo yokusabela umntu ayifunayo.",
+    "Abantu bakowethu babesaziwa ngegama elithile lendawo yentlambo ababehlala kuyo, kwaye umhlaba wabo wawuchazwa ngokudelelwa ngokukodwa ngenxa yokunqongophala kwezityalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uHud",
+        "Umprofeti uSalih",
+        "Umprofeti uShu'aib",
+        "Umprofeti uNuh",
+        "Umprofeti uHudayb"
+      ],
+      "answer": "Umprofeti uHud"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umkhukula womhlaba",
+        "Umoya otshisayo",
+        "Inyikima yentshabalalo",
+        "Imbalela nendlala",
+        "Ukutshona elwandle"
+      ],
+      "answer": "Umoya otshisayo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intlambo echumileyo yaseYemen",
+        "Intlango yesanti yaseMidiyan",
+        "Intlambo enamatye yaseThamud",
+        "Ilizwe lamandulo labantu base-'Ad",
+        "Ummandla wonxweme lwaseJiphutha"
+      ],
+      "answer": "Ilizwe lamandulo labantu base-'Ad"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Abantu bam baguquka baza bangena eparadesi",
+        "Akukho namnye kubantu bam osindileyo kwisohlwayo",
+        "Ndathathwa ndiphila njengomnakwethu uYunus",
+        "Ndafudukela nabalandeli bam kwilizwe elisikelelekileyo",
+        "Umoya watshabalalisa abangakholwayo kuphela ngoxa abakholwayo basinda."
+      ],
+      "answer": "Akukho namnye kubantu bam osindileyo kwisohlwayo"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

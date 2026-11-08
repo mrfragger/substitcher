@@ -1,0 +1,61 @@
+{
+  "title": "Vigilia ad Portam Flammeam",
+  "intro": "Multitudo silens et formidabilis ad limen formidabile vigilat, numquam cibum, potum, aut quietem gustans. Ex materia dissimili argillae humanae factae, unum finem horrendum exspectant—nec umquam ulli quidem mandato Domini sui oboedierunt.",
+  "clues": [
+    "Entia sumus, dissimilia hominibus, creati ex substantia quae non edit, non bibit, non defatigatur.",
+    "Numerus noster exactus in Libro notus est et revelatus — neque innumerabiles sumus neque multitudo.",
+    "Numquam Creatori nostro inoboedivimus, neque umquam loquimur antequam iussa simus.",
+    "Cum Dies advenerit, infideles ad nos coetui compellentur, et portas eis aperiemus.",
+    "Interrogabimus eos: \"Nonne venerunt ad vos nuntii ex vestro genere, vos de hoc Die monentes?\"",
+    "Locum custodimus unde nulla anima umquam emergit—flagrans aeternae poenae regnum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Custodes Inferni (Zabaniyah)",
+        "Throni Dei Baiuli",
+        "De Angelis (Kiraman Katibin)",
+        "Angeli Mortis",
+        "Ianitoribus Paradisi"
+      ],
+      "answer": "Custodes Inferni (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Officium Nostrum Primum",
+      "options": [
+        "Custodientes portas Inferni",
+        "Omne factum humanum notans",
+        "Thronum Allah portans",
+        "Animas defunctorum accipiens",
+        "Imperans ventis et nubibus"
+      ],
+      "answer": "Custodientes portas Inferni"
+    },
+    "location": {
+      "label": "Quid custodimus?",
+      "options": [
+        "Ignis Infernalis",
+        "Thronus Allah",
+        "Volumina Factorum",
+        "Flumina Paradisi",
+        "Montes Terrae"
+      ],
+      "answer": "Ignis Infernalis"
+    },
+    "outcome": {
+      "label": "Fatum Eorum in Dominio Nostro",
+      "options": [
+        "In aeternum manebunt numquamque discedent",
+        "Tandem veniam dabunt et liberabuntur.",
+        "Purgabuntur tempore procedente",
+        "In alias formas transformabuntur",
+        "Inter Infernum et Paradisum alternabunt"
+      ],
+      "answer": "In aeternum manebunt numquamque discedent"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

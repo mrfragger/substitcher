@@ -1,0 +1,61 @@
+{
+  "title": "Ndị Nche nke Ubi ahụ",
+  "intro": "N'ogige mara mma, otu obodo kwere nkwa dị mkpa. Mana a nwalere mkpebi siri ike ha mgbe uche Chineke tinyere aka, wee gbanwee ihe onwunwe ha ka ọ bụrụ ala tọgbọrọ chakoo.",
+  "clues": [
+    "Anyị nwetara ubi bara ụba, mana anyị ghọrọ ndị mpako.",
+    "Anyị mere atụmatụ iwe ihe ubi n'esoghị ndị ogbenye kerịta ya.",
+    "Anyị malitere n'isi ụtụtụ, obi siri anyị ike na atụmatụ anyị ga-emezu.",
+    "Ma mgbe anyị rutere, anyị hụrụ na e bibiri ubi anyị n'otu abalị.",
+    "Anyị ghọtara mmejọ anyị wee malite ịta ibe anyị ụta.",
+    "Anyị mechara chegharịa, mana ihe mmụta ahụ amụtara n'oge gara aga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka anyị bụ?",
+      "options": [
+        "Ndị Ubi ahụ",
+        "Ndị nke Ọgba ahụ",
+        "Ndị nke Enyí",
+        "Ndị Temọd",
+        "Ndị 'Ad'"
+      ],
+      "answer": "Ndị Ubi ahụ"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ubi ghọrọ ntụ",
+        "Idei mmiri nke bibiri ihe niile",
+        "Ụnwụ nke dara n'ala ahụ",
+        "Ndị agha nnụnụ na-awakpo",
+        "Oké ifufe nke kwapụrụ osisi"
+      ],
+      "answer": "Ubi ghọrọ ntụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ubi",
+        "Ọgba",
+        "Ụgbọ mmiri",
+        "Ugwu",
+        "Obí eze"
+      ],
+      "answer": "Ubi"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Ha chegharịrị mana ha furu ubi ha",
+        "E bibiri ha kpamkpam",
+        "A gbanwere ha ka ha bụrụ enwe",
+        "E ji okwukwe zọpụta ha",
+        "Ha ghọrọ ndị ọchịchị"
+      ],
+      "answer": "Ha chegharịrị mana ha furu ubi ha"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

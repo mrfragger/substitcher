@@ -1,0 +1,61 @@
+{
+  "title": "Wito uliodumu kwa muda mrefu",
+  "intro": "Hebu fikiria nafsi iliyosimama peke yake dhidi ya ustaarabu mzima, ikiazimia kuwaongoza kutoka kwenye upotovu kwa azimio lisiloyumba. Kwa karne nyingi, ujumbe ulikataliwa, kudhihakiwa, na kupuuzwa—lakini juhudi hazikukoma. Hatimaye, hesabu kubwa ilikuja, na ni wachache tu waliopata wokovu pamoja na nafsi hii imara. Je, unaweza kutambua mtu huyu kutoka Quran?",
+  "clues": [
+    "Nilitumwa kama mwonyaji kwa watu waliopotea katika njia zao wenyewe.",
+    "Niliwaalika waombe msamaha na kuachana na makosa yao, lakini waligeuka.",
+    "Chini ya amri ya Mungu, nilijenga chombo kikubwa huku watu wangu wakinitazama na kunidhihaki.",
+    "Nilimwomba Mola wangu bila kukoma—hatimaye aliitikia, na maji yakamwagika kutoka mbinguni kwa mafuriko.",
+    "Nilipanda chombo pamoja na wale walioamini wakati maji ya gharika yalipopanda juu ya nchi kavu.",
+    "Nilimlilia mmoja aliyekuwa amebaki nyuma, nikiwaomba wajikinge mlimani, lakini amri ilikuwa tayari imepitishwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Nuh",
+        "Nabii Ibrahimu",
+        "Nabii Musa",
+        "Nabii Hud",
+        "Nabii Salih"
+      ],
+      "answer": "Nabii Nuh"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujenga safina kubwa na kunusurika gharika ya duniani kote",
+        "Kutupwa kwenye moto unaowaka",
+        "Kukabiliana na mtawala dhalimu na wachawi wake wenye nguvu",
+        "Kumezwa na samaki mkubwa",
+        "Kushuhudia kuuawa kwa ngamia jike mtakatifu"
+      ],
+      "answer": "Kujenga safina kubwa na kunusurika gharika ya duniani kote"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Safina kubwa ya mbao juu ya maji ya mafuriko yanayoendelea",
+        "Bonde takatifu lenye magofu ya mawe ya kale",
+        "Pango refu ambapo wenzake walilala kwa karne nyingi",
+        "Tumbo la nyangumi mkubwa katika vilindi vya bahari",
+        "Mlima mrefu wa mawe jangwani"
+      ],
+      "answer": "Safina kubwa ya mbao juu ya maji ya mafuriko yanayoendelea"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aliokolewa pamoja na waumini ndani ya chombo",
+        "Niliokolewa bila kujeruhiwa kutoka kwa moto kupitia amri ya Mungu",
+        "Aliongoza msafara mkubwa kutoka katika ufalme wenye nguvu",
+        "Tupa kutoka kwa samaki hadi ufukweni tasa",
+        "Aliwaongoza watu mbali na matendo maovu kupitia ishara ya miujiza"
+      ],
+      "answer": "Aliokolewa pamoja na waumini ndani ya chombo"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

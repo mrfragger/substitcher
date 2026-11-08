@@ -1,0 +1,60 @@
+{
+  "title": "Le Sommeil des Âges",
+  "intro": "Vous vous apprêtez à entreprendre un voyage à travers le temps, à la découverte d'un profond mystère de foi et de puissance divine. Imaginez un groupe d'individus qui ont défié les normes de leur société, s'accrochant au monothéisme dans un monde polythéiste. Leur histoire témoigne de la capacité d'Allah à protéger Ses serviteurs vertueux de la manière la plus extraordinaire. Parviendrez-vous à percer le mystère de ces personnages remarquables ?",
+  "clues": [
+    "Nous étions un petit groupe de jeunes hommes qui croyions en un seul Dieu, malgré le polythéisme répandu au sein de notre peuple.",
+    "Nous avons fui un dirigeant tyrannique qui nous menaçait à cause de notre foi, craignant la persécution et la mort.",
+    "Nous avons cherché refuge dans un lieu isolé, espérant la miséricorde et la protection d'Allah contre nos oppresseurs.",
+    "Notre Seigneur nous a plongés dans un profond sommeil, un sommeil miraculeux qui a défié le passage du temps.",
+    "À notre réveil, nous pensions n'avoir dormi qu'une journée ou une partie de journée, sans nous rendre compte de la vaste période qui s'était réellement écoulée.",
+    "Le Coran mentionne que nous sommes restés dans notre état pendant trois cents ans, et même neuf ans de plus, devenant ainsi un signe pour l'humanité."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les gens du fossé",
+        "Le peuple de Thamud",
+        "Le peuple de la caverne",
+        "Le peuple de Madyan",
+        "Les Compagnons de l'Éléphant"
+      ],
+      "answer": "Le peuple de la caverne"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Face à une grande inondation",
+        "Être englouti par la terre",
+        "Le long et miraculeux sommeil",
+        "La destruction de leur ville",
+        "La séparation de la mer"
+      ],
+      "answer": "Le long et miraculeux sommeil"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un buisson ardent",
+        "Une montagne",
+        "Un bateau",
+        "Une grotte",
+        "Un puits"
+      ],
+      "answer": "Une grotte"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "On leur accorda une immense richesse et un immense pouvoir.",
+        "Ils furent transformés en singes et en porcs.",
+        "Ils furent tirés du sommeil comme un signe profond",
+        "Ils furent noyés dans un grand déluge.",
+        "Ils ont construit un royaume magnifique"
+      ],
+      "answer": "Ils furent tirés du sommeil comme un signe profond"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

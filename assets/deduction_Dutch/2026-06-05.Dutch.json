@@ -1,0 +1,61 @@
+{
+  "title": "De nederige waarheidszoekers",
+  "intro": "In een land van oeroude macht en toverkunst ontvouwt zich een grote confrontatie. De ene partij beschikt over de autoriteit van goddelijke tekens, terwijl de andere het onmogelijke probeert te evenaren. De uitkomst zal de loop van de geschiedenis voorgoed veranderen. Kun jij de identiteit achterhalen van hen die de ultieme waarheid hebben aanschouwd en zich ervoor hebben vernederd?",
+  "clues": [
+    "We waren getuige van tekenen die verder gingen dan toverkunsten.",
+    "Wij vielen allen in aanbidding neer, niet in staat de waarheid te ontkennen.",
+    "Wij beseften dat deze tekenen afkomstig waren van de Ene Ware God.",
+    "Wij waren de eerste gemeenschap die het geloof op zo'n ingrijpende manier omarmde.",
+    "Ons werd het paradijs beloofd als beloning voor ons geloof.",
+    "Onze touwen en stokken veranderden voor onze ogen in slangen, maar toch kozen we voor onderwerping."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "De tovenaars van de farao",
+        "Het volk van profeet Ibrahim",
+        "De nederige waarheidszoekers",
+        "De mensen van de grot",
+        "Het land van koningin Bilqis"
+      ],
+      "answer": "De tovenaars van de farao"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "De ontmoeting met de staf van profeet Musa",
+        "De beproeving van de wind van profeet Hud",
+        "De uitdaging van de kameel van profeet Salih",
+        "De grote vloed die over een profeet werd gezonden",
+        "De reis van een profeet in een walvis"
+      ],
+      "answer": "De ontmoeting met de staf van profeet Musa"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Oud Egypte",
+        "Het heilige huis in Mekka",
+        "De stad Midian",
+        "De woestijn van Thamud",
+        "De grot van de oude slapers"
+      ],
+      "answer": "Oud Egypte"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Het paradijs als hun beloning.",
+        "Straf in het graf",
+        "Het verlies van hun weelderige tuinen",
+        "Verwoesting door een plotselinge aardbeving",
+        "Redding door een grote walvis"
+      ],
+      "answer": "Het paradijs als hun beloning."
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

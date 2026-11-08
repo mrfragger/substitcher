@@ -1,0 +1,61 @@
+{
+  "title": "Qədim Evdəki Maneə",
+  "intro": "Müqəddəs şəhərdə yeni bir mesaj yayılmağa başlayanda güclü bir şəxsiyyət qəzəblə qaynayırdı. Adı həqiqətə qarşı çıxmaqla sinonimləşən bu şəxs, təsirinin ilahi vəhy yükü altında necə çökdüyünü seyr edirdi. Taleyi məşhur döyüş meydanının qumlarında möhürlənmiş bu ruh kim idi?",
+  "clues": [
+    "Mən qədim bir ziyarətgahın yerləşdiyi bir şəhərdə var-dövlətim və nüfuzumla tanınan xalqımın başçısı idim.",
+    "Qəbiləmizdən bir kişi tək bir Tanrının mesajını təbliğ etməyə başlayanda mən onu və onun vəhylərini lağa qoyub onları sadəcə keçmişin nağılları adlandırdım.",
+    "Müqəddəs binanın yanında dua edərkən həmin adamla qarşılaşdım və lazım gələrsə, ibadətini zorla dayandıracağı ilə hədələdim.",
+    "Mən yeni dini susdurmaq, onun ardıcıllarına həm sözlə, həm də silahla qarşı çıxmaq üçün sui-qəsd hazırlayan liderlərdən biri idim.",
+    "Mən azsaylı mömin dəstəsini əzəcəyimizə əmin olaraq bir ordu ilə Bədr adlı bir yerə getdim.",
+    "Amma o döyüş meydanında həyatım sona çatdı və ölümüm açıq-aydın əlamətlərdən sonra küfrdə israr edənlər üçün bir dərs oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əbu Cəhil",
+        "Əbu Süfyan ibn Hərb",
+        "Əl-Nədr ibn əl-Haris",
+        "Üməyyə ibn Xələf",
+        "Ütbə ibn Rəbiə"
+      ],
+      "answer": "Əbu Cəhil"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Peyğəmbərin Kəbədə namaz qılmasının qarşısını almaq",
+        "Kəbənin tikilməsi",
+        "Quranı yazmaq",
+        "Fil ordusuna rəhbərlik etmək",
+        "Ayı bölmək"
+      ],
+      "answer": "Peyğəmbərin Kəbədə namaz qılmasının qarşısını almaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Kəbə",
+        "Nuh peyğəmbərin gəmisi",
+        "Musa peyğəmbərin əsası",
+        "Qızıl buzov",
+        "Səba Kraliçası Taxtı"
+      ],
+      "answer": "Kəbə"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bədr döyüşündə şəhid olan",
+        "Tövbə etdi və müsəlman oldu",
+        "Həbəşistana qaçdı",
+        "Fil ilində vəfat etdi",
+        "Peyğəmbərin səhabəsi oldu"
+      ],
+      "answer": "Bədr döyüşündə şəhid olan"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

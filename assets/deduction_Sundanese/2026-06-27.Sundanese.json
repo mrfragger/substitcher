@@ -1,0 +1,61 @@
+{
+  "title": "Henteuna Suci",
+  "intro": "Di saluareun gundukan waktu, aya carita ngeunaan kasatiaan anu teu kendat sareng amanah anu beurat pisan anu jiwa anu nanggungna tiasa pegat. Dina hiji momen nalika jalma-jalma malik kana kabodoan sareng emas, hiji sosok nangtung pageuh—ngageroan aranjeunna deui, ngajurung kasabaran, sareng nanggung beurat jangji suci. Ieu carita ngeunaan hiji jalma anu dipilih janten penolong, wazir, sareng wali iman nalika teu aya anu suci. Naha anjeun tiasa ngungkabkeun idéntitas jiwa anu teguh ieu?",
+  "clues": [
+    "Abdi ngaraos getih nabi agung anu dipilih pikeun nyarios langsung sareng Allah di luhur gunung suci.",
+    "Adi kuring sakali neneda ka Allah supados tiasa nyarios kalawan jelas ka jalma anu nganiaya.",
+    "Abdi dipilih ku Allah pikeun nangtung di gigireun adi abdi salaku pembantu sareng wazir.",
+    "Babarengan urang nyanghareupan pamingpin tirani anu nungtut disebut déwa anu pangluhurna.",
+    "Nalika adi kuring keur ngobrol jeung Allah di gunung, jalma-jalma kuring nyieun brahala tina emasna sorangan.",
+    "Abdi teh dulurna Nabi Musa, anu diangkat ku Allah janten wazir-Na, namina disebatkeun dina Al-Qur'an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Nabi Harun (Harun)",
+        "Nabi Musa",
+        "Nabi Dawud",
+        "Nabi Ya'qub",
+        "Nabi Ishak"
+      ],
+      "answer": "Nabi Harun (Harun)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Krisis Ibadah Anak Sapi",
+        "Banjir Nuh Nuh",
+        "Perang Badar",
+        "Karusakan Kaum Tsamud",
+        "Karusakan Sodom"
+      ],
+      "answer": "Krisis Ibadah Anak Sapi"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Anak Sapi Emas",
+        "Bahtera Nabi Nuh",
+        "Rungkun Nu Ngaduruk",
+        "Gua Hira",
+        "Tahta Sheba"
+      ],
+      "answer": "Anak Sapi Emas"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kasucian anu dikonfirmasi ku Allah",
+        "Tilelepna Firaun",
+        "Pangwangunan Ka'bah",
+        "Nyebrang Laut anu Aman",
+        "Naék ka Surga"
+      ],
+      "answer": "Kasucian anu dikonfirmasi ku Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

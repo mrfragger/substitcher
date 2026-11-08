@@ -1,0 +1,61 @@
+{
+  "title": "En lille advarsel før en marcherende vært",
+  "intro": "Træd ind i en dal, hvor en mægtig hersker og en enorm hær nærmer sig, og forestil dig en lille rejsende, der giver en advarsel, der redder et helt samfund. Da det truede samfund når ly, er faren overstået. Følg ledetrådene for at identificere den oversete figur bag advarslen.",
+  "clues": [
+    "Jeg er blandt de små skabninger, der er forbundet med en herskers kongerige.",
+    "Mit samfund bor i boliger inde i en dal, hvor en af ​​os kan ringe til de andre.",
+    "Vi står over for en trussel fra den hersker og de hære, der rejser med herskeren.",
+    "Jeg er den, der kalder mit samfund til at træde ind i deres boliger og advarer os mod at blive knust ubevidst.",
+    "Herskeren er Sulayman, og min art er blandt de skabninger, der er underlagt hans kommando.",
+    "Jeg er myren i den dal; efter min advarsel gik vi ind i vores boliger og undslap den knusning, der ellers ville have overrumplet os."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Dalens myre",
+        "Hærfuglen",
+        "Kragen",
+        "Slangen",
+        "Muldyret"
+      ],
+      "answer": "Dalens myre"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "En advarsel der skånede et myresamfund",
+        "En anmodning om en ring fra en fisk",
+        "En jagt på en forsvunden trone",
+        "Redningen af ​​stjålne øjne",
+        "En afvisning af at spise en herskers mad"
+      ],
+      "answer": "En advarsel der skånede et myresamfund"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Myrernes Dal",
+        "Sulaymans signetring",
+        "Yusufs blodplettede skjorte",
+        "Udvandringens guldkalv",
+        "Musas stab"
+      ],
+      "answer": "Myrernes Dal"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Samfundet blev skånet efter at have søgt ly",
+        "Samfundet blev ødelagt uden at søge ly",
+        "Samfundet blev skånet, fordi hæren trak sig tilbage",
+        "Samfundet blev belønnet med kontrol over fuglene",
+        "Samfundet blev ført til fange ved det kongelige hof"
+      ],
+      "answer": "Samfundet blev skånet efter at have søgt ly"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

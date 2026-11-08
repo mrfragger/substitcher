@@ -1,0 +1,61 @@
+{
+  "title": "A hírnök, aki szembeszállt a bálványimádókkal",
+  "intro": "Egy olyan időben, amikor az áhítat eltávolodott, egy hírnök emelkedett fel azzal a felhívással, hogy térjenek vissza a világok Urának imádatához. Ez a személy szilárdan állt egy olyan néppel szemben, amely egy hamis istenség imádatában gyökerezett, emlékeztetve őket igazi Teremtőjükre és őseik Urára. Az emberek azonban nem voltak tekintettel, és elutasították a figyelmeztetést, megpecsételve saját sorsukat. Ki volt ez a rendíthetetlen hívő?",
+  "clues": [
+    "Egy olyan néphez küldtek, amely letért az Egy Igaz Isten útjáról.",
+    "Megkérdeztem a népemet: „Nem félitek Allahot?”",
+    "Felszólítottam őket, hogy hagyják fel a Baal nevű hamis istenség imádatával.",
+    "Népem elutasította hívásomat, és kitartott a bálványimádásban.",
+    "Tagoldásuk miatt biztosan elő fogják hozni őket büntetésre.",
+    "Uram békét és áldott emlékezetet adott nekem a későbbi nemzedékek között."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ilja próféta",
+        "Jahja próféta",
+        "Dhul-Kifl próféta",
+        "Juszuf próféta",
+        "Suajb próféta"
+      ],
+      "answer": "Ilja próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Felszólította népét, hogy hagyják el Baált",
+        "Bárkát épített a hívők megmentésére",
+        "Tűzbe dobták",
+        "Elmenekült a zsarnok fáraó elől",
+        "Megütött egy sziklát, hogy vizet fakasszon"
+      ],
+      "answer": "Felszólította népét, hogy hagyják el Baált"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Baál",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baál"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Békét és áldott emlékezést adva",
+        "Elnyelte a föld",
+        "Egy heves vihar pusztította el",
+        "Kővé változott",
+        "Megfulladt a tengerben"
+      ],
+      "answer": "Békét és áldott emlékezést adva"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

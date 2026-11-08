@@ -1,0 +1,61 @@
+{
+  "title": "Lekuko sendoak",
+  "intro": "Imajinatu sinesmena suaren bidez probatu zen garaia, eta konbikzio irmoa erronka goren bihurtu zen garaia. Koranean kontatzen den talde baten istorioa argitzea duzu zeregina, tirania gaindiezinaren aurkako fede sakonaren kontakizuna. Argitu pistak arima hauek nor ziren eta zein egoera bereziri aurre egin behar izan zieten jakiteko.",
+  "clues": [
+    "Gure fedea ukatzeko presio izugarria jasan arren, irmo eutsi genion gure konbentzimenduari.",
+    "Monoteismoaren argia itzali nahi zuen agintari boteretsu batek jomugan jarri gintuen.",
+    "Seinale eta mirari handiak ikusi genituen, baina gure zapaltzaileak axolagabe jarraitu zuten.",
+    "Beste batzuk menperatzera behartzeko eta izutzeko diseinatutako jazarpen metodo lazgarri bat jasan genuen.",
+    "Infernu sugartsu batera bota gintuzten, baina gure irmotasunak postu altua eman zigun Allahren aurrean.",
+    "Gure istorioa zeruko konstelazioen izena daraman sura batean kontatzen da, sinestunen jazarpenaren patuaren berri emanez."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Thamudeko jendea",
+        "'Ad-eko jendea",
+        "Lubakiko jendea",
+        "Midiango jendea",
+        "Elefantearen Jendea"
+      ],
+      "answer": "Lubakiko jendea"
+    },
+    "trial": {
+      "label": "Gure jazarpena",
+      "options": [
+        "Uholde batean itota egotea",
+        "Haize erretzaile batek irentsita",
+        "Suzko lubaki batera botata egotea",
+        "Lurrak irentsita egotea.",
+        "Tximinoetan eraldatzea."
+      ],
+      "answer": "Suzko lubaki batera botata egotea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Uholde izugarria.",
+        "Lurrikara handi bat.",
+        "Lubaki sakon eta erretzaile bat",
+        "Idolo boteretsu bat.",
+        "Lehorte suntsitzailea."
+      ],
+      "answer": "Lubaki sakon eta erretzaile bat"
+    },
+    "outcome": {
+      "label": "Gure Azken Patua",
+      "options": [
+        "Lurreko erreinua eman zitzaien.",
+        "Ihesaldi miragarri bati esker salbatu ziren.",
+        "Martirioa eta betiko saria lortu zituzten.",
+        "Beste espezie batean eraldatu ziren.",
+        "Aberastasun eta oparotasun izugarria eman zitzaien."
+      ],
+      "answer": "Martirioa eta betiko saria lortu zituzten."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

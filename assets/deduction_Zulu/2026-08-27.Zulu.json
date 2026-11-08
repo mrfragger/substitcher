@@ -1,0 +1,61 @@
+{
+  "title": "Okhethiwe Oqondayo",
+  "intro": "Emthunzini wentaba lapho amazwi angcwele ehla khona, ukholo lwabantu lwantengantenga ngaphansi kokukhanya kwegolide. Umphefumulo owodwa, onesiphiwo sobuciko, wema njengomsizi emsebenzini omkhulu, kodwa wabhekana nomzuzu wokuvivinywa okujulile. Lapho isithunywa esikhethiwe sikhuphukela esimisweni esingcwele, lesi sibalo sasala ngemuva, sinxusa isizwe esingahlaliseki. Ubani lo mphefumulo oqinile ozwi lakhe liphikisana nokukhonza izithombe?",
+  "clues": [
+    "Ngakhethwa ngu-Allah ukuba ngibe umprofethi, yize indaba yami ivame ukuxoxwa kanye nomunye.",
+    "Ngathunyelwa kumbusi ononya, kodwa umsebenzi wami kwakuwukusekela, hhayi ukuhola.",
+    "Nganginesiphiwo sobuciko bokukhuluma, futhi amazwi ami ayehloselwe ukuthambisa izinhliziyo.",
+    "Lapho umngane wami ehamba eya esivumelwaneni esingcwele, ngashiywa ukuba ngiqondise abantu abangahlaliseki.",
+    "Ngenxa yokungabekezeli kwabo, bakha isithombe ngemihlobiso yabo, futhi ngabancenga ukuba bahlale beqotho ku-Allah.",
+    "Umngani wami wabuya wangibamba, kodwa ngachaza ukuthi abantu banginqobe futhi bacishe bangibulala; ngangingekho phakathi kwabenzi bobubi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uMusa",
+        "Umprofethi uHarun",
+        "Umprofethi u-Isa",
+        "Umprofethi uYahya",
+        "Umprofethi uZakariya"
+      ],
+      "answer": "Umprofethi uHarun"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuphonswa emlilweni",
+        "Ukuphonswa emthonjeni",
+        "Ukubhekana nesigameko sethole legolide",
+        "Ukuhlolwa kwesifo esinzima",
+        "Ukuhlolwa kokulahlekelwa yingcebo nezingane"
+      ],
+      "answer": "Ukubhekana nesigameko sethole legolide"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ithole legolide",
+        "Abasebenzi",
+        "Umphongolo Wesivumelwano",
+        "Amaphilisi",
+        "Isihlahla esivuthayo"
+      ],
+      "answer": "Ithole legolide"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wajeziswa kanzima",
+        "Uthethelelwe futhi wakhululwa",
+        "Kwenziwe inkosi",
+        "Kuthathwe ezulwini",
+        "Unikezwe umbhalo omusha"
+      ],
+      "answer": "Uthethelelwe futhi wakhululwa"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den vedvarende sjæls prøvelse",
+  "intro": "En sjæl står i et øjeblik med guddommelig prøvelse og søger vejledning med ydmyg vedholdenhed. Den, der ved alt, afviser denne søger, kun for senere at afsløre, at dette var en hjertets prøvelse. Gennem denne mystiske udveksling udfolder en lektie om guddommelig visdom sig for dem, der reflekterer. Kan du identificere denne figur fra den koranske fortælling?",
+  "clues": [
+    "Jeg søgte viden og vejledning fra Allahs elskede sendebud",
+    "Jeg kom og søgte sandhed og påkaldte profeten med et oprigtigt ønske.",
+    "Jeg blev irettesat og vendt væk, for Allahs visdom havde andre planer for det øjeblik.",
+    "Alligevel fortvivlede jeg ikke – i stedet fortsatte jeg min søgen",
+    "Den, der kender alt, erklærede, at dette var en prøvelse af hjertet og en advarsel",
+    "Jeg var blandt dem, som Koranen afslører om: 'Han rynkede panden og vendte sig bort, fordi den blinde mand kom til ham'."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Hykleren, der søger tvivl",
+        "Den blinde sandhedssøger",
+        "Afgudsdyrkeren i Mekka",
+        "Den vantro håner profeten",
+        "Den rejsende fra Yemen"
+      ],
+      "answer": "Den blinde sandhedssøger"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "At blive irettesat af profeten Muhammed under bøn",
+        "Testet af tørke og hungersnød i Mekka",
+        "At blive afvist ved paradisets porte",
+        "At blive afvist af sit eget folk for tro",
+        "At blive prøvet med rigdom og børn"
+      ],
+      "answer": "At blive irettesat af profeten Muhammed under bøn"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Inde i Kaabaen under pilgrimsrejsesæsonen",
+        "I profetens nærvær under recitationen",
+        "På toppen af ​​Safa-bjerget i morgentimerne",
+        "På markedspladsen i Mekka omgivet af vantro",
+        "Nær Zamzams brønd under Hajj"
+      ],
+      "answer": "I profetens nærvær under recitationen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Søgeren blev martyrdræbt af Quraysh for tro",
+        "Hændelsen blev registreret som en prøvelse og en lektie for Ummah",
+        "Søgeren blev en ledsager og leder",
+        "Søgerens rigdom blev tidoblet",
+        "Søgeren vendte tilbage til vantro"
+      ],
+      "answer": "Hændelsen blev registreret som en prøvelse og en lektie for Ummah"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

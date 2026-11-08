@@ -1,0 +1,61 @@
+{
+  "title": "Egy példa nélküli bűn hírnöke",
+  "intro": "A Korán néhány története feltárja, milyen mély romlásba süllyedhet egy egész társadalom. Ez a küldött egyedül állt, és könyörgött egy olyan néphez, amely egy olyan perverzióba fulladt, amelyet előttük egyetlen nemzet sem követett el. Az évekig tartó figyelmeztetés ellenére a szívek megkeményedtek, és az isteni végzés a legfélelmetesebb módon érkezett el. Be tudod azonosítani Allah e nemes küldöttjét?",
+  "clues": [
+    "Figyelmeztetőként küldöttem egy olyan néphez, amelyet olyan perverzió emésztett, amit előttük egyetlen nemzet sem követett el.",
+    "A népem hazugnak nevezett, és azzal fenyegetett, hogy kiűzi engem és a követőimet az országból.",
+    "Tisztelt látogatók érkeztek otthonomba sztrájkoló fiatalemberek képében, és mély szomorúságot éreztem a biztonságukért.",
+    "Az embereim azt követelték, hogy adjam át nekik a vendégeimet, nem sejtve, hogy ezek a látogatók Allah által küldött angyalok.",
+    "A saját házastársam nem osztozott a hitemben, és úgy döntött, hogy a végzetre ítéltekkel marad.",
+    "Hajnalban megmenekültem a lányaimmal együtt, amikor pusztító kőzápor zúdult ránk, és városainkat feldöntötték."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Lut próféta",
+        "Su'aib próféta",
+        "Hud próféta",
+        "Nuh próféta",
+        "Szálih próféta"
+      ],
+      "answer": "Lut próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy hatalmas árvíz elárasztja a földet",
+        "Látásvesztés hosszan tartó szenvedés miatt",
+        "Egy isteni mivoltát valló zsarnok",
+        "Lángoló tűzbe vetve",
+        "Követik a nagyra becsült vendégek átadását"
+      ],
+      "answer": "Követik a nagyra becsült vendégek átadását"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy hatalmas, kézzel épített bárka",
+        "Egy bot, amely kettéhasította a tengert",
+        "Egy csodálatos nőstény teve",
+        "Lángoló tűz",
+        "Felborult városok"
+      ],
+      "answer": "Felborult városok"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megfulladt, miközben üldözte a hívőket",
+        "Sértetlenül megmenekült a tűz kemencéjéből",
+        "Élve a mennyekbe emelve",
+        "Család veszett oda egy nagy árvízben",
+        "A család megmenekült, kivéve a hűtlen feleséget"
+      ],
+      "answer": "A család megmenekült, kivéve a hűtlen feleséget"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

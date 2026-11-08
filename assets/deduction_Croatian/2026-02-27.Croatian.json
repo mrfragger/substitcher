@@ -1,0 +1,61 @@
+{
+  "title": "Glas nevidljivog",
+  "intro": "U analima božanske komunikacije ističe se lik čija je priča isprepletena čudesnim znakovima i nepokolebljivom vjerom. Ova je osoba primila jedinstveno otkrivenje koje je izazvalo norme njihovog vremena, govoreći s one strane vela obične percepcije. Njihova poruka nije došla konvencionalnim sredstvima, već kroz duboku vezu koja je prkosila ljudskom razumijevanju, pozivajući ljude da prepoznaju istinu na neočekivane načine. Putovanje ovog Allahovog sluge služi kao svjedočanstvo o tome kako se vodstvo može manifestirati u najneobičnijim okolnostima, potičući na razmišljanje o prirodi samog otkrivenja.",
+  "clues": [
+    "Dobio sam poruku koja je došla kroz tajanstveni glas iz nevidljivog izvora.",
+    "Moj narod je isprva odbacio moju poruku, zahtijevajući konvencionalnije dokaze moje istinitosti.",
+    "Izazvao sam ih da naprave nešto slično onome što sam primio, ali nisu mogli.",
+    "Objava koju sam donio opisana je kao jasni ajeti koji su istinu učinili očiglednom.",
+    "Upozorio sam svoj narod na tešku kaznu ako nastave sa svojim nevjerovanjem i ohološću.",
+    "Moja priča se spominje uz ostale poslanike u suri koja naglašava znakove Allahove moći."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Hud",
+        "Poslanik Salih",
+        "Poslanik Šu'ajb",
+        "Vjernik iz Faraonove obitelji",
+        "Poslanik Musa"
+      ],
+      "answer": "Poslanik Salih"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti bačen u užarenu peć",
+        "Suočavanje s ugnjetavanjem tiranskog vladara",
+        "Rađanje deve kao čudesan znak",
+        "Preživljavanje velike poplave",
+        "Biti bačen u more u škrinji"
+      ],
+      "answer": "Rađanje deve kao čudesan znak"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dolina Tuwa",
+        "Grad Madyan",
+        "Zemlja Semuda",
+        "Faraonov sud",
+        "Špilja Hira"
+      ],
+      "answer": "Zemlja Semuda"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "answer": "Moj narod je uništen zbog ubojstva čudesne deve",
+      "options": [
+        "Moj se narod pokajao i bio spašen",
+        "Živ sam uznesen u nebo",
+        "Moj narod je uništen zbog ubojstva čudesne deve",
+        "Postao sam veliki vladar",
+        "Spašen sam stavljanjem u arku"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Izopćenik Zlatnog teleta",
+  "intro": "Lik spomenut u Kur'anu odveo je veliko mnoštvo u zabludu tijekom odsutnosti plemenitog proroka. Nešto izrađeno od zlata osvojilo je srca cijele nacije - ali priča o toj osobi završava u samoći i čudnom prokletstvu. Tko bi mogao biti ovaj izopćenik?",
+  "clues": [
+    "Pojavio sam se za vrijeme odsutnosti velikog proroka koji se uzdigao kako bi primio božansko vodstvo.",
+    "Naveo sam veliko mnoštvo da skrene s pravog puta nečim što sam izradio vlastitim rukama.",
+    "Zlatna kreacija koju sam stvorio činila se živom, proizvodeći zvukove koji su hipnotizirali one koji su je pratili.",
+    "Tvrdio sam da sam vidio ono što drugi nisu mogli opaziti - uvid u neviđeno.",
+    "Iz tragova božanskog glasnika izvukao sam nešto i bacio to u rastaljeni metal.",
+    "Bio sam osuđen lutati sam, s jedinstvenim prokletstvom da nitko nije mogao dotaknuti moju kožu, niti ja njihovu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraon (Faraon)",
+        "Ebu Lehab",
+        "Poslanik Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Stvorio je zlatno tele za štovanje",
+        "Izgradio toranj koji dopire do neba",
+        "Izazvao je egipatske čarobnjake",
+        "Predvodio je vojsku s letećim zvijerima",
+        "Rascijepiti Mjesec kao dokaz proročanstva"
+      ],
+      "answer": "Stvorio je zlatno tele za štovanje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlatno tele",
+        "Štap koji se pretvorio u zmiju",
+        "Gorući grm na planini",
+        "Arka koja počiva na vrhu",
+        "Rov ispunjen plamtećom vatrom"
+      ],
+      "answer": "Zlatno tele"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Prognan, zabranjeno ga je dodirivati ​​ili dodirivati ​​druge",
+        "Utopio se u moru zajedno s vojskom",
+        "Živ spaljen zbog odbacivanja vjere",
+        "Udaren silovitim, urlajućim vjetrom",
+        "Oprošteno i uzdignuto na visok položaj"
+      ],
+      "answer": "Prognan, zabranjeno ga je dodirivati ​​ili dodirivati ​​druge"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

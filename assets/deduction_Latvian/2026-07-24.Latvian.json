@@ -1,0 +1,61 @@
+{
+  "title": "Plīvurotais sazvērnieks",
+  "intro": "Jūs atrodaties ietekmīgas personības klātbūtnē no atklāsmes laikiem. Šī persona bija pazīstama ar savu intelektu, bagātību un statusu savas tautas vidū. Kad pienāca skaidras zīmes, viņi atpazina skaistumu, tomēr izvēlējās nepakļāvību, nevis pakļaušanos. Kas pamudināja šo dvēseli plānot tumsā, un kāds bija viņas galīgais liktenis?",
+  "clues": [
+    "Mani svētīja bagātīgi resursi un ietekme, kas padarīja manu vārdu svarīgu sapulcēs.",
+    "Kad tika deklamēti dievišķie vārdi, es nevarēju noliegt to daiļrunību, taču mans lepnums neļāva man pakļauties.",
+    "Es sapulcināju savus padomdevējus, izolējoties, lai pārdomātu veidu, kā diskreditēt vēstījumu.",
+    "Pēc ilgām pārdomām es pasludināju, ka tā ir tikai un vienīgi \"no pagātnes nodota maģija\", lai atbaidītu cilvēkus.",
+    "Tad atklāsme uzrunāja mani tieši: “Atstāj Mani vienu ar to, kuru Es radīju.” Mani izcēla par saviem plāniem.",
+    "Drīz mani sagrābs aiz pieres tā pati uguns, par kuru mani brīdināja, un man nebūs izbēgšanas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Al-Valīds ibn al-Mughira",
+        "Abu Lahābs",
+        "Abu Džahls",
+        "Ukba ibn Abi Muajt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Valīds ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sazvērējušies nogalināt pravieti",
+        "Vadīja boikotu pret musulmaņiem",
+        "Sapulcināja padomi, lai Korānu pasludinātu par maģiju",
+        "Sazvērējās izraidīt pravieti no Mekas",
+        "Atteicās dalīties savā bagātībā ar bāreņiem"
+      ],
+      "answer": "Sapulcināja padomi, lai Korānu pasludinātu par maģiju"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Atklāsme",
+        "Padome",
+        "Priekšējais cekuls",
+        "Bagātība",
+        "Pildspalva"
+      ],
+      "answer": "Priekšējais cekuls"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņš nožēloja grēkus un pieņēma islāmu",
+        "Viņš pārcēlās uz Abesīniju",
+        "Viņu piemeklēja nāvējoša slimība",
+        "Viņš krita kaujā pret musulmaņiem",
+        "Viņš tika notiesāts uz elles uguni"
+      ],
+      "answer": "Viņš tika notiesāts uz elles uguni"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

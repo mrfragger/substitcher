@@ -1,0 +1,61 @@
+{
+  "title": "Aed, mis üleöö kadus",
+  "intro": "Kujutage ette lopsakat aeda, mis on täis valmivaid vilju ja mida ümbritsevad kõrged puud. Need, kes selle eest hoolitsesid, pidasid end targaks, planeerides oma saaki vaiksetel koidikueelsetel tundidel, eemal abivajajate pilkudest. Kuid Sellel, kes kunagi ei maga, olid nende varjatud külluse jaoks teised plaanid. Kas suudate arvata, kes seisab selle Koraani hoiatava loo taga?",
+  "clues": [
+    "Meil oli kunagi nii lopsakas ja külluslik aed, et kõik möödujad kadestasid seda.",
+    "Oma plaanide tegemisel sosistasime varahommikul omavahel, et sel päeval ei lubata ühtegi abivajajat sisse.",
+    "Me olime jõukad inimesed ja meie südamed olid muutunud pimedaks ümbritsevate vaeste õiguste suhtes.",
+    "Kui meie kavandatud saagikoristuse koidik kätte jõudis, lähenesime oma aiale vaid selleks, et näha, kuidas see oli üleöö mustaks varemeks muutunud.",
+    "Laastav dekreet pühkis läbi, jättes maha vaid tuha kohtades, kus kunagi rippusid küpsed viljakobarad.",
+    "Meie lugu on karm hoiatus, mis on kirjas Koraanis, kus meid tuntakse aia omanikena, kes keeldusid abivajajatele heategevust jagamast."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Aia omanikud",
+        "Koopa rahvas",
+        "Jesa jüngrid",
+        "Metsa kaaslased",
+        "Ibrahimi külalised"
+      ],
+      "answer": "Aia omanikud"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Salaja puuviljade koristamine ja vaeste keelamine",
+        "Sajandeid koopas magamine",
+        "Keeldudes kivist emase kaameli tootmisest",
+        "Kuldvasika kummardamine Siinai mäel",
+        "Suure laeva ehitamine üleujutuse eest pääsemiseks"
+      ],
+      "answer": "Salaja puuviljade koristamine ja vaeste keelamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Palmide ja viinapuudega täidetud müüriga aed",
+        "Pime koobas sügaval mägedes",
+        "Linn, mida tabas jumalik orkaan",
+        "Püha org Allahi koja lähedal",
+        "Voolava jõe kaldad"
+      ],
+      "answer": "Palmide ja viinapuudega täidetud müüriga aed"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Aed hävitati kõrvetava taevase otsusega",
+        "Nad magasid rahulikult 309 kuuaastat",
+        "Nad purustati kivivihma all",
+        "Nad uppusid suure üleujutuse lainete alla",
+        "Nad pillutas laiali külm, raevukas tuul"
+      ],
+      "answer": "Aed hävitati kõrvetava taevase otsusega"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

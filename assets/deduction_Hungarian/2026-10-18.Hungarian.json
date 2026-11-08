@@ -1,0 +1,61 @@
+{
+  "title": "Az örömhír öregkorban",
+  "intro": "Egy olyan pillanatnak vagyunk tanúi, amikor újra feléled a remény. Egy pár, akik már rég túl vannak a szülői koron, egy olyan ígéretet kapnak, amely dacol a természet törvényeivel. Közöttük áll egy alak, akinek puszta létezése az isteni irgalom jele – egy lélek, aki prófétaságra van hivatott, és generációkon átívelő örökséget hordoz. Ki ez a figyelemre méltó személy?",
+  "clues": [
+    "Idős korú szülőktől születtem, akiknek nem voltak gyermekeik.",
+    "Születésemet angyalok hirdették ki, akik vendégként érkeztek a családomhoz.",
+    "Bölcsességet és prófétai méltóságot kaptam, és a türelmesek között emlegetnek.",
+    "Apámat Allah barátjának nevezték, és én ajándék voltam neki idősebb korában.",
+    "Volt egy bátyám, aki szintén próféta volt, és mindketten megáldottak voltunk az Úrtól.",
+    "A fiam is próféta volt, a leszármazottaim pedig megkapták a Szentírást és a prófétai mivoltot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Izsák próféta",
+        "Iszmáil próféta (Izmael)",
+        "Jakub próféta (Jákob)",
+        "Jahja (János) próféta",
+        "Uzair próféta (Ezsdrás)"
+      ],
+      "answer": "Izsák próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Idős szülők gyermekeként született",
+        "Tűzbe dobták",
+        "Királyságot és gazdagságot kapva",
+        "Kivezette népét Egyiptomból",
+        "Bárkát épített a hívők megmentésére"
+      ],
+      "answer": "Idős szülők gyermekeként született"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy fiú örömhíre",
+        "Az égő csipkebokor",
+        "Az aranyborjú",
+        "A szövetség ládája",
+        "A prófétaság személyzete"
+      ],
+      "answer": "Egy fiú örömhíre"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Próféta lett, próféták leszármazási vonalával",
+        "Gazdag király lett",
+        "Népét hitetlenségük miatt pusztították el",
+        "Megmentették a tűzből",
+        "Csecsemőként kapta meg a beszéd képességét"
+      ],
+      "answer": "Próféta lett, próféták leszármazási vonalával"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

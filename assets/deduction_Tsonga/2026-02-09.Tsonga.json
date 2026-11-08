@@ -1,0 +1,60 @@
+{
+  "title": "Ndzingo Ehansi Ka Magandlati",
+  "intro": "Muprofeta un’wana, loyi a tikisiweke hi vurhumiwa bya yena, u endle xiboho lexi n’wi yiseke ekule ni vanhu va yena ivi a nghena eka ndzingo lowu a nga wu langutelanga. Riendzo ra yena ri teke ku hundzuka lokukulu, ri ringa ripfumelo ra yena ni ku lehisa mbilu hi ndlela leyi dzikeke swinene. Xana u nga kuma vuxokoxoko bya xiendlakalo lexi lexi nga tolovelekangiki eka swikombiso leswi nyikeriweke?",
+  "clues": [
+    "Muprofeta u rhumeriwe eka vanhu vo karhi, kambe u sukile hi ku hatlisa, a titwa a hlundzukile hi ku ala ka vona.",
+    "Riendzo ra yena ri n’wi yise elwandle, laha a khandziyeke xikepe lexi rhwaleke ndzhwalo wo tala a lava ku hundza.",
+    "Ku pfuke xidzedze lexikulu, xi xungeta xikepe, naswona ku endliwe xiboho xo lahlela munhu un’we elwandle leswaku ku oloviwa ndzhwalo, lexi kunguhatiweke hi vuhlolotwana.",
+    "U mitiwe hi xivumbiwa xa le ndzeni, xiendlakalo xa singita lexi vekiweke hi ku navela ka Xikwembu.",
+    "Endzeni ka swipimelo swa khwiri ra xivumbiwa, u huwelerile eka Hosi ya yena, a hundzuka ni ku dzunisa Allah emunyameni.",
+    "Endzhaku ka nkarhi wo karhi wa xikombelo lexikulu, u lahleriwe eribuweni leri nga riki na nchumu, a tsanile kambe a ha hanya, naswona endzhakunyana u vuyile a kuma leswaku vanhu va yena va hetelele va pfumerile."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Muprofeta/Munhu",
+      "options": [
+        "Muprofeta Nuh",
+        "Muprofeta Lut",
+        "Muprofeta Musa",
+        "Muprofeta Yunus",
+        "Muprofeta Yusuf"
+      ],
+      "answer": "Muprofeta Yunus"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ndhambi ya Nuh",
+        "Ku lovisiwa ka Sodoma",
+        "Riendzo leri nga ekhwirini ra nhlampfi leyikulu",
+        "Ku avana ka lwandle",
+        "Nhlavutelo ya xihlahla lexi pfurhaka"
+      ],
+      "answer": "Riendzo leri nga ekhwirini ra nhlampfi leyikulu"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Areka",
+        "Ntshava ya Sinayi",
+        "Ntirhi wa Musa",
+        "Nhlampfi Leyikulu",
+        "Xihlovo xa Yusuf"
+      ],
+      "answer": "Nhlampfi Leyikulu"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ntwanano lowuntshwa na vumunhu",
+        "Ku velekiwa ka singita eka vanhu va yena",
+        "Mfumo lowu simekiweke hikwalaho ka rixaka ra yena",
+        "Ku tlhelela eka vanhu va yena lava hi nkarhi wolowo va pfumeleke",
+        "Ku hlula eka mufumi wa tihanyi"
+      ],
+      "answer": "Ku tlhelela eka vanhu va yena lava hi nkarhi wolowo va pfumeleke"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

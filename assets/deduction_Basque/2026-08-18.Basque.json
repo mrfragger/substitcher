@@ -1,0 +1,61 @@
+{
+  "title": "Sura bat irabazi zuena",
+  "intro": "Imajinatu arima apal bat Alaren Mezulariengana hurbiltzen dela zintzotasunez betetako bihotzarekin eta ikasteko irrika sakonarekin. Hala ere, une horretan bertan, aberats eta estatus handiko pertsona batek Mezulariaren arreta erakarri zuen, eta zimur bat zuzendu zitzaion bilatzaileari. Ondoren etorri zena Koranaren kapitulu oso bat baino ez zen izan, Mezularia zuzentzeko eta bila etorri zen arima ohoratzeko bidalia.",
+  "clues": [
+    "Bihotz zabalik eta gidaritzarako irrika sakonarekin etorri nintzen Alaren Mezulariarengana.",
+    "Ez nuen mundu mailako estatusik eskaintzeko, egia bilatzen zuen arima xume bat besterik ez.",
+    "Nire begi fisikoek ezin zuten ikusi, baina nire ikuspegi espirituala argia zen",
+    "Une desegoki batean iritsi nintzen, Mezularia eragin handiko pertsona batekin lanean ari zenean.",
+    "Bekainak zimurtu zitzaizkidan, baina Ala-k jainkozko zuzenketa batekin erantzun zidan",
+    "Abdullah ibn Umm Maktum naiz, bere istorioak Surah Abasa inspiratu zuen bidelaguna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Proba / Ekitaldia",
+      "options": [
+        "Profetak aberats batengatik baztertua izatea",
+        "Etsaiek su bizian botata izatea",
+        "Esklabo gisa saldua eta jazarria izatea",
+        "Gerlari ahaltsu batek duelu batera erronka egitea",
+        "Arrain handi batek irentsi izana"
+      ],
+      "answer": "Profetak aberats batengatik baztertua izatea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Bekainak zimurtuz hasten den Koraneko kapitulu bat (Surah Abasa)",
+        "Sua fresko eta seguru bihurtuta",
+        "Itsaso izugarri bat zatitu zuen makila bat",
+        "Mendi garai baten gainean eraikitako arka bat",
+        "Buztin gogortuz moldatutako txoria"
+      ],
+      "answer": "Bekainak zimurtuz hasten den Koraneko kapitulu bat (Surah Abasa)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ala-k Koraneko sura bat errebelatu zuen ni defendatzen",
+        "Ala-k sua fresko eta seguru egin zuen niretzat",
+        "Ala-k itsasoa zatitu zuen ni jazarpenetik salbatzeko",
+        "Jainkoak erreinu eta jakinduria handi bat eman zidan",
+        "Ala-k zerura eraman ninduen heriotzarik gabe"
+      ],
+      "answer": "Ala-k Koraneko sura bat errebelatu zuen ni defendatzen"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

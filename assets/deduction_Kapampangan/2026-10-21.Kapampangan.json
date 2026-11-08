@@ -1,0 +1,61 @@
+{
+  "title": "Ing Tubud a Mekipagsapalaran karing Sasamba karing Idolo",
+  "intro": "King panaun a ing debosyon mewala ya, metung a tubud ing tinalakad a maki aus ban mibalik king pamanyamba king Ginu da ring yatu. Ing pigura ayni tinalakad yang matatag laban kareng taung makabasi keng pamanyamba keng e tutung diwata, pepaganaka na karela ing tune dang Miglalang at ing Ginu da reng karelang makatua. Pero ding tau ala lang pansin at tinanggi ra ing babala, at tinatak da ing sarili dang kapalaran. ninu ining alang patugut a mamaus?",
+  "clues": [
+    "Mitubud ku king metung a balayan a likuan na ing dalan ning Metung a Tutung Dios.",
+    "kitang ku kareng tau ku, \"E kayu tatakut keng Allah?\"",
+    "Inaus ku la king lakuan da ing pamanyamba ra king e tutung dios a milagyuan Baal.",
+    "Tinggap da ring memalen ku ing kanakung aus at menatili la king karelang pamanyamba karing idolo.",
+    "Uli na ning pamagtakwil da, siguradu lang idala para king parusa.",
+    "Ing Ginu ku dininan na kung kapayapan at metung a mapalad a pamiganaka kareng tutuking lahi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Propeta Ilyas",
+        "Propeta Yahya",
+        "Propeta Dhul-Kifl",
+        "Propeta Yusuf",
+        "Propeta Shu'ayb"
+      ],
+      "answer": "Propeta Ilyas"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Inaus no reng memalen na ban lakuan de i Baal",
+        "Mitalakad yang daung ban miligtas la ding talasalpantaya",
+        "miyugse ya keng api",
+        "Tinakas ya king tiranung Faraon",
+        "menabu ya keng batu para mika danum"
+      ],
+      "answer": "Inaus no reng memalen na ban lakuan de i Baal"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Mipagkalub kapayapan at mapalad a pamiganaka",
+        "Melaklak ne ning yatu",
+        "mesira ya keng masikan a bagyu",
+        "Meging batu",
+        "Linud king dagat"
+      ],
+      "answer": "Mipagkalub kapayapan at mapalad a pamiganaka"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

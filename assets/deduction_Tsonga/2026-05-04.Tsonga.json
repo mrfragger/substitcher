@@ -1,0 +1,61 @@
+{
+  "title": "Muaki wa Vumaki bya ku Tikukumuxa",
+  "intro": "Etikweni ra khale leri a ri fumiwa hi mfumo lowu kanetaka, munhu wa nkoka a a ri ni xikhundlha xa nkucetelo. Moya-xiviri lowu wu pfune ngopfu eka makungu lamakulu ya mufumi, wu hoxa xandla eku fumeni ka vona loku tshikilelaka ni ku tlhontlha rungula ra Xikwembu. Ndzhaka ya vona yi hlanganisiwe ni ku hlongorisa matimba ya misava ni ku landzula ntiyiso.",
+  "clues": [
+    "Ndzi tirhele mufumi la chavisaka loyi a tshikileleke vanhu ku ringana switukulwana swo tala.",
+    "Vito ra mina ri tshamela ku boxiwa eka Buku ya Xikwembu etlhelo ka murhangeri loyi wa matimba.",
+    "Ndzi nyikiwe ntirho lowukulu wo aka, ku nga muako lowu tlakukeke lowu a wu endleriwe ku fika ematilweni.",
+    "Ndzi tsundzuxe n’wini wa mina leswaku a dlaya vana va Vaisraele ni ku tsetselela vana va vona va vanhwanyana.",
+    "A ndzi katseka eka makungu ni makungu yo lwisana ni murhumiwa wa matimba wa Allah.",
+    "Makumu ya mina, kun’we ni n’wini wa mina ni vuthu rakwe, ma fike ematini ya lwandle lerikulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Nimrodi",
+        "Abraha",
+        "Goliyadi",
+        "Iblis",
+        "Hamani"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku ringiwa hi rifuwo lerikulu swinene",
+        "Ku rhangela vuthu ro lwisana ni yindlu yo kwetsima",
+        "Ku aka xihondzo xo fikelela Xikwembu",
+        "Ku lahleriwa endzilweni hikwalaho ka ripfumelo ra vona",
+        "Ku hoxiwa exihlobyeni hi vamakwavo"
+      ],
+      "answer": "Ku aka xihondzo xo fikelela Xikwembu"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Areka",
+        "Vatirhi va kona",
+        "Ntshava ya Ntshava",
+        "Xihondzo xa Xihondzo",
+        "Xiharhi xa Whale"
+      ],
+      "answer": "Xihondzo xa Xihondzo"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku nyikiwa vutlhari lebyikulu swinene",
+        "Ku va muprofeta",
+        "Ku mitiwa hi misava",
+        "Ku nyikiwa mfumo",
+        "Ku nwela elwandle"
+      ],
+      "answer": "Ku nwela elwandle"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

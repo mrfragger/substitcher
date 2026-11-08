@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Manawanui o te Whare Tapu",
+  "intro": "I roto i ngā whārangi o te Quran, ka puta mai tētahi tangata i te whakapapa o tētahi poropiti nui, i tukuna hei koha i te kaumātuatanga. E whakanuia ana tēnei wairua mō tōna pono pumau me tana mahi nui ki te whakatū i tētahi wāhi tapu hei tohu mō te whakapono. I a koe e pānui ana i ngā tohu, whakarongo pai ki te reo o mua, nā te mea e kōrero ana i te tangata tuatahi.",
+  "clues": [
+    "Kua whakahuatia ahau i roto i te Quran me tētahi atu poropiti hei koha i tukuna ki tētahi karere kaumātua.",
+    "Ko ahau tētahi o ngā uri e rua i tukua ki taua poropiti i ōna tau whakamutunga.",
+    "E whakanuia ana ahau i roto i te Quran mō te pono ki taku kupu.",
+    "I mau ahau i te honore o te poropititanga, ā, i tonoa mai ahau hei karere.",
+    "I uru atu ahau ki tōku matua ki te whakaara i ngā turanga o te Whare Tapu.",
+    "E maumaharatia ana ahau hei tētahi o te hunga manawanui, ā, ko te whare tapu i hanga e mātou i riro hei wāhi hoki, hei wāhi haumaru hoki mō te tangata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Ihimaera",
+        "Poropiti a Ihaka",
+        "Poropiti a Hākupa",
+        "Poropiti Hakaraia",
+        "Poropiti a Yahya"
+      ],
+      "answer": "Poropiti a Ihimaera"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakaara ake i ngā turanga o te Kaaba me Ibrahim",
+        "Te maka ki roto i te ahi",
+        "Te horomia e te tohorā",
+        "Te ārahi i ngā Iharaira i waho i Ihipa",
+        "Te hanga i tētahi āka"
+      ],
+      "answer": "Te whakaara ake i ngā turanga o te Kaaba me Ibrahim"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Kaaba",
+        "Maunga Hinai",
+        "Te Moana Whero",
+        "Te Kuao Kau Koura",
+        "Te Māra o Ētene"
+      ],
+      "answer": "Te Kaaba"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I roto i te tūroro",
+        "I roto i te hunga hara",
+        "I roto i ngā tohunga makutu",
+        "I roto i te hunga whakaponokore",
+        "I roto i te hunga tinihanga"
+      ],
+      "answer": "I roto i te tūroro"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

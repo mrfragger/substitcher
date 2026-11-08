@@ -1,0 +1,61 @@
+{
+  "title": "Der Aufstieg des Träumers",
+  "intro": "Eine Seele, zu Großem berufen, aber durch schwere Prüfungen auf die Probe gestellt, begab sich auf eine außergewöhnliche Reise. Ihr Weg war geprägt von Neid, Trennung und ungerechtem Leid, nur um schließlich in einer Position immenser Verantwortung und einer tiefen Wiedervereinigung zu gipfeln. Können Sie diese bemerkenswerte Gestalt aus dem Koran identifizieren?",
+  "clues": [
+    "Ich wurde einst von meinen Nächsten beneidet, was zu einer tiefen Entfremdung von meinen Eltern und meinem Zuhause führte.",
+    "Ich durchlebte eine Zeit großer Schwierigkeiten; unter anderem wurde ich von Reisenden für einen Spottpreis verkauft.",
+    "Ich wurde zu Unrecht eines Fehlverhaltens beschuldigt und verbrachte Jahre in Haft, doch mein Glaube blieb unerschütterlich.",
+    "Mir wurde die einzigartige Fähigkeit verliehen, komplexe Visionen zu interpretieren, was sich auf meinem Weg zur Freiheit als entscheidend erwies.",
+    "Meine Weisheit und Integrität führten mich schließlich zu einer Position großer Autorität und hohen Vertrauens in einem fremden Land.",
+    "Durch eine Reihe von Ereignissen wurde ich nach einer langen und schmerzhaften Trennung mit meinen betagten Eltern und Geschwistern wiedervereint."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Sulaiman",
+        "Prophet Isa",
+        "Prophet Yusuf",
+        "Prophet Dawud",
+        "Prophet Yahya"
+      ],
+      "answer": "Prophet Yusuf"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Von einem großen Fisch verschluckt werden",
+        "Eine Arche bauen, um die Schöpfung zu retten",
+        "Ertragen falscher Anschuldigungen und Gefängnisaufenthalte",
+        "Einem tyrannischen Herrscher mit Wundern entgegentreten",
+        "Auf die Probe gestellt mit schwerer Krankheit und Verlust"
+      ],
+      "answer": "Ertragen falscher Anschuldigungen und Gefängnisaufenthalte"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein brennender Busch",
+        "Ein sprechender Vogel",
+        "Ein Brunnen",
+        "Ein Stab, der sich in eine Schlange verwandelt",
+        "Eine Kamelstute als Zeichen"
+      ],
+      "answer": "Ein Brunnen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Anführen einer Migration in ein gelobtes Land",
+        "Aufstieg zu einem mächtigen Minister in Ägypten",
+        "göttliches Urteil über ein arrogantes Volk empfangen",
+        "Ein riesiges Königreich mit Weisheit und Gerechtigkeit regieren",
+        "Aufstieg zum Himmel"
+      ],
+      "answer": "Aufstieg zu einem mächtigen Minister in Ägypten"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "El sucesor designado",
+  "intro": "Una figura de tiempos remotos se alza lista para entrar en la historia. Cuando el camino parecía incierto y la duda se extendía entre la gente, este siervo fue elegido para asumir la responsabilidad de guiar. Con el peso de una misión sagrada sobre sus hombros, dio un paso al frente para liderar donde otros dudaban en seguir.",
+  "clues": [
+    "Fui elegido para acompañar a un profeta y aprendí de su sabiduría.",
+    "Estuve frente al Arca cuando la promesa de nuestro Sustentador se acercaba, y vi que la gente comenzaba a dudar.",
+    "Me hicieron quedarme al borde de lo prometido mientras nuestro líder se lamentaba y suplicaba a Alá por nosotros.",
+    "Me designaron para continuar una misión que le había sido encomendada a otra persona antes que yo.",
+    "Se me concedió autoridad divina para guiar a la gente a su destino.",
+    "Logré completar lo que se había comenzado antes que yo, y recibí la afirmación del pueblo sobre mi guía."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Yusha ibn Nun",
+        "Caleb hijo de Yefunneh",
+        "Eldad y Medad",
+        "Profeta Ezequiel (Hizqiyyal)",
+        "Profeta Harún (Aarón)"
+      ],
+      "answer": "Yusha ibn Nun"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Negarse a entrar en la Tierra Santa prometida",
+        "Los ejércitos del faraón nos persiguen por el mar.",
+        "El culto al becerro de oro",
+        "Dudas al escuchar el mandato de la Torá",
+        "La rebelión de Dathan y Abiram"
+      ],
+      "answer": "Negarse a entrar en la Tierra Santa prometida"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El rollo de la Torá entregado a Musa",
+        "El Arca de la Alianza en batalla",
+        "El cruce del río Jordán",
+        "El desierto de cuarenta años",
+        "La revelación del Monte Sinaí"
+      ],
+      "answer": "El rollo de la Torá entregado a Musa"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Entrando en la Tierra Santa prometida.",
+        "Construir un muro de protección contra los invasores",
+        "Construcción de un lugar sagrado de culto",
+        "Ahogándose en la persecución de aquellos que negaron la verdad.",
+        "Derribar los ídolos de un pueblo corrupto"
+      ],
+      "answer": "Entrando en la Tierra Santa prometida."
+    }
+  },
+  "verseRef": "5:21",
+  "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+  "verse": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" (5:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kusukela Ekujuleni Komthombo",
+  "intro": "Uhambo lomphefumulo osemusha lwaqala ngombono onamandla wezidalwa zasezulwini zikhothama ngenhlonipho. Impilo yalo muntu yaphawulwa ukukhashelwa okujulile kwalabo abaseduze, kwalandelwa iminyaka yokugqilazwa nokuboshwa ngokungemthetho. Kodwa ngokholo olungantengantengi nesiqondiso saphezulu, lo muntu wasuka emgodini ophansi kakhulu waba ngomunye wabantu abanamandla kakhulu embusweni omkhulu. Ungakwazi yini ukuthola ukuthi ungubani lo mkhonzi omangalisayo ka-Allah?",
+  "clues": [
+    "Ngaboniswa umbono wezinkanyezi eziyishumi nanye, ilanga, nenyanga zikhothama phambi kwami",
+    "Ngangingumntwana othandekayo kakhulu womzali wami, okwadala umona phakathi kwabafowethu",
+    "Ngabanjwa abafowethu, ngakhunyulwa ingubo yami, ngafaka emthonjeni ojulile nomnyama.",
+    "Ngathengiswa njengempahla emakethe futhi ngathuthwa ngayiswa kude nezwe lakithi",
+    "Owesifazane onamandla wazama ukunginika udumo, futhi ngaphonswa ejele ngenxa yokwenqaba ukushelwa kwakhe",
+    "Ngabusiswa ngesipho sokuhumusha amaphupho, futhi ngavuka ekubeni yisiboshwa esikhohliwe ngaba yinduna enkulu yaseGibhithe"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uYusuf",
+        "Umprofethi uMusa",
+        "Umprofethi uDawud",
+        "Umprofethi u-Ayyub",
+        "Umprofethi uSulayman"
+      ],
+      "answer": "Umprofethi uYusuf"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuphonswa emthonjeni ojulile ngabafowabo",
+        "Ukusinda kuzamcolo omkhulu womhlaba wonke",
+        "Ukuphonswa esithandweni somlilo esivuthayo",
+        "Ukulwa neqhawe elikhulu enkundleni yempi",
+        "Ukugwinywa yinhlanzi enkulu"
+      ],
+      "answer": "Ukuphonswa emthonjeni ojulile ngabafowabo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umthombo ojulile, owomile ehlane",
+        "Umkhumbi omkhulu wokhuni ophezu kwentaba",
+        "Intonga eyaphenduka inyoka",
+        "Isihlalo sobukhosi esihle kakhulu esikhazimulayo",
+        "Indwayimane namatshe amahlanu abushelelezi"
+      ],
+      "answer": "Umthombo ojulile, owomile ehlane"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "URose waba ngungqongqoshe omkhulu waseGibhithe futhi wahlangana nomndeni wakhe othandekayo",
+        "Wakha umkhumbi omkhulu futhi wabizela abantu ekukholweni",
+        "Wahola isizwe sonke wasikhulula ebugqilini eGibhithe",
+        "Wanikwa umbuso nokubusa phezu kokungabonakali",
+        "Wanikwa isineke ngenxa yokugula okukhulu futhi welashwa"
+      ],
+      "answer": "URose waba ngungqongqoshe omkhulu waseGibhithe futhi wahlangana nomndeni wakhe othandekayo"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

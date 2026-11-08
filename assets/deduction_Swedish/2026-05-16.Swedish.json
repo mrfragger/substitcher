@@ -1,0 +1,61 @@
+{
+  "title": "Den ståndaktige byggaren av frälsning",
+  "intro": "Denna person, som präglades av oerhört tålamod och orubblig övertygelse, ägnade otaliga år åt ett gudomligt uppdrag, och mötte obevekligt hån och avvisande. Deras berättelse är ett kraftfullt bevis på tro inför överväldigande misstro, vilket kulminerade i en betydelsefull händelse som omformade världen.",
+  "clues": [
+    "Jag ägnade en otroligt lång period av mitt liv åt att kalla mitt folk till dyrkan av Allah.",
+    "Mitt folk hånade mig och anklagade mig för uppenbart fel och galenskap.",
+    "Jag fick befallning att bygga något som verkade ovanligt för mitt inlandssamhälle.",
+    "Endast ett fåtal trodde och anslöt sig till mig och min familj på denna unika konstruktion.",
+    "Jag bar ombord par av alla levande varelser, enligt Allahs anvisningar.",
+    "En stor flod uppslukade jorden och räddade endast de som var med mig i mitt fartyg, medan min egen son omkom för sin otro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Salih",
+        "Profeten Hud",
+        "Profeten Nuh",
+        "Profeten Dawud",
+        "Profeten Sulayman"
+      ],
+      "answer": "Profeten Nuh"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Förstörelsen av en jordbävning",
+        "Havets delning",
+        "Den stora översvämningen",
+        "Nimrods eld",
+        "Grodornas pest"
+      ],
+      "answer": "Den stora översvämningen"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Den brinnande busken",
+        "Arken",
+        "Vattenbrunnen",
+        "Guldkalven",
+        "Berget Tur"
+      ],
+      "answer": "Arken"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Fick ett kungarike",
+        "Hans folk förvandlades till apor",
+        "Hans folk räddades genom ett mirakel",
+        "Hans folk drunknade",
+        "Hans folk träffades av en åskväder"
+      ],
+      "answer": "Hans folk drunknade"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

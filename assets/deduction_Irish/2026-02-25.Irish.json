@@ -1,0 +1,61 @@
+{
+  "title": "Tástáil na Carraige Lom",
+  "intro": "Pobal, oilte agus bródúil, shnoigh siad a n-oidhreacht sna sléibhte féin. Ach nuair a seoladh comhartha soiléir chucu, tástáil ar chreideamh agus ar smacht, threoraigh a n-uabhar iad síos cosán gan filleadh. An féidir leat an grúpa seo agus iarmhairt a ndúshláin a aithint?",
+  "clues": [
+    "Bhí muidne ina máistrí cloiche, ag snoíodóireacht áitribh iontacha go díreach i leitheanna na sléibhte.",
+    "Tháinig teachtaire ónár muintir féin chugainn, ag glaoch orainn adhradh a thabhairt don Aon Dia Fíor amháin.",
+    "D’éilíomar comhartha chun a chuid focal a chruthú, agus tugadh créatúr uathúil chun cinn mar thástáil dúinn.",
+    "Tugadh ordú simplí dúinn: ár bhfoinse uisce a roinnt leis an chréatúr seo, agus ligean dó ól ar a lá ainmnithe.",
+    "Inár n-uabhar, rinne cúpla duine againn comhcheilg agus sháraíomar an rabhadh, ag bualadh an chréatúir a bhí ceaptha a bheith ina chomhartha againn.",
+    "Tugadh trí lá dúinn roimh ár ndiongbháilteacht, agus ansin ghabh pléascadh mór sinn inár dtithe, ag fágáil gan bheatha sinn agus bun os cionn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Muintir 'Ad",
+        "Muintir Madyan",
+        "Muintir Thamud",
+        "Muintir Saba",
+        "Muintir Lut"
+      ],
+      "answer": "Muintir Thamud"
+    },
+    "trial": {
+      "label": "Cad a bhí inár bPríomhthástáil?",
+      "options": [
+        "Áirc a thógáil chun maireachtáil i ndiaidh tuile",
+        "Ag cur i gcoinne an dúil chun iascaireacht a dhéanamh ar an tSabóid",
+        "Tréigiú cleachtais ghnó calaoiseacha",
+        "Ag cosaint camall baineann míorúilteach",
+        "Ag maireachtáil gorta seacht mbliana"
+      ],
+      "answer": "Ag cosaint camall baineann míorúilteach"
+    },
+    "location": {
+      "label": "Cad a bhí mar phríomhghné dár scéal?",
+      "options": [
+        "An Lao Órga",
+        "An Camall Baininscneach",
+        "Foireann an Fháidh Músa",
+        "Damba Mór Ma'rib",
+        "An Bord Scaipthe ó Neamh"
+      ],
+      "answer": "An Camall Baininscneach"
+    },
+    "outcome": {
+      "label": "Cad a bhí i ndán dúinn ar deireadh?",
+      "options": [
+        "Báite i dtuile mhór",
+        "Iompú ina n-apaí agus ina muca",
+        "Buailte ag gaoth fíochmhar",
+        "Scaipthe ag pléascadh damba",
+        "Scriosta ag pléasc/crith talún ollmhór"
+      ],
+      "answer": "Scriosta ag pléasc/crith talún ollmhór"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

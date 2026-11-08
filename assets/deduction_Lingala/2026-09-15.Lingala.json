@@ -1,0 +1,61 @@
+{
+  "title": "Boyambi bapaya oyo ememaki bobangi",
+  "intro": "Na engumba moko oyo mabe esilisaki, mosaleli moko ya sembo azwaki bapaya oyo akanisaki te mokolo moko. Lokola azalaki komibanzabanza mpo na libateli na bango, moto yango apesaki libateli, kasi bato ya engumba yango basɛngaki likambo moko ya nsɔni. Lokola akebisamaki mpo na libebi moko oyo ezalaki koya, mosaleli yango akimaki elongo na libota na ye na nse ya ezipeli ya molili, mpe atikaki engumba oyo etiamaki elembo mpo na kobebisama. Mondimi oyo azali ye moko azali nani?",
+  "clues": [
+    "Batindaki ngai lokola momemi-nsango epai ya bato oyo basalaki makambo ya nsɔni.",
+    "Bapaya oyo nakanisaki te bazalaki koya na ndako na ngai, mpe nazalaki komitungisa mingi mpo na libateli na bango koleka oyo ya ngai.",
+    "Bato na ngai bazalaki kosɛnga ete bámona bapaya na ngai mpo na mikano mabe, mpe namekaki kosolola na bango.",
+    "Bapaya na ngai bamimonisaki lokola baanzelu mpe batindaki ngai namema libota na ngai mpe nakende na butu.",
+    "Mwasi na ngai ayokaki te libiangi ya kokima mpe akutanaki na libebi lokola bato na ngai.",
+    "Engumba na ngai ebalukaki na mbula ya mabanga ya mabele ya lima oyo etondi na biteni, biteni na yango oyo eleki likoló ememaki na nse mingi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Luta",
+        "Mosakoli Musa",
+        "Mosakoli Ibrahim",
+        "Mosakoli Nuh",
+        "Mosakoli Hud"
+      ],
+      "answer": "Mosakoli Luta"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bosenga ya bato na ngai ya kopusana penepene na bapaya na ngai na ndenge ya mabe",
+        "Kokabwana ya mbu mpo na kokima moto moko ya mobulu",
+        "Kotonga masuwa monene na kati ya maseki",
+        "Mbeka ya mwana na ngai ya mobali na momekano ya kondima",
+        "Expérience ya komela na mbisi monene"
+      ],
+      "answer": "Bosenga ya bato na ngai ya kopusana penepene na bapaya na ngai na ndenge ya mabe"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Engumba oyo epanzani ya bato na ngai",
+        "Ngomba epai nazwaki maloba ya bonzambe",
+        "Masuwa oyo elekaki na mpela monene",
+        "Kamela ya mwasi oyo ebimaki na libanga",
+        "Elanga na mopaya moko ya sembo oyo abombami"
+      ],
+      "answer": "Engumba oyo epanzani ya bato na ngai"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Nabikisamaki elongo na libota na ngai liboso ete engumba na ngai epanzana",
+        "Namemaki bato na ngai na bonsomi na ngambo mosusu ya mbu",
+        "Natongaki masuwa moko monene mpe nabikaki na mpela makasi",
+        "Bapesaki ngai bokonzi likoló na mipɛpɛ mpe ba jinn",
+        "Na motema molai nayikaki mpiko na bampasi mpe nazwaki mbano ya libota"
+      ],
+      "answer": "Nabikisamaki elongo na libota na ngai liboso ete engumba na ngai epanzana"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

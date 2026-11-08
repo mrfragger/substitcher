@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Isinumpang Kamay",
+  "intro": "Nakatayo ka sa paliko-likong mga eskinita ng sinaunang Makkah, kung saan ang isang kaluluwa ng impluwensya at kayamanan ay dating tumalikod sa tawag ng katotohanan. Ang kuwento ng pigurang ito ay isang malinaw na paalala na ang mga ugnayan ng dugo ay hindi kayang malampasan ang mga tanikala ng pagmamataas. Sino ang isang ito na ang pangalan ay umaalingawngaw sa apoy na naghihintay?",
+  "clues": [
+    "Naglakad ako sa mga lansangan ng Makkah taglay ang pagmamalaking bumulag sa akin sa katotohanan, bagama't ang sugo ay kadugo ko rin.",
+    "Napakarami ko ngang ari-arian, pero naging sumpa ang mga iyon sa halip na kalasag.",
+    "Ang aklat ng patnubay ay nagsasalita tungkol sa aking pagkawasak, na nagpapahayag na ang aking mga kamay at ang aking pagkatao ay mapapahamak.",
+    "Sumali ang aking asawa sa aking kampanya ng pagkapoot, nagtitipon ng mga tinik upang ikalat sa landas ng isa na nananawagan kay Allah.",
+    "Sa araw ng paghuhukom, ako'y ilulublob sa nagliliyab na apoy, at ang aking asawa ay magkakaroon ng lubid na gawa sa hibla ng palma sa leeg.",
+    "Kilala ako sa pangalang nangangahulugang 'ama ng apoy' — isang pangalang humuhula ng aking walang hanggang tahanan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Pangunahing Pagsubok o Kaganapan",
+      "options": [
+        "Sinalungat ang Propeta at isinumpa sa Quran",
+        "Pinangunahan ang isang hukbo upang sirain ang Kaaba",
+        "Tinangka niyang patayin ang Propeta sa pamamagitan ng paghagis ng mga bato",
+        "Tumanggi na maniwala sa pagkahati ng buwan",
+        "Nagtayo ng tore upang maabot ang kalangitan"
+      ],
+      "answer": "Sinalungat ang Propeta at isinumpa sa Quran"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang nagliliyab na Apoy ng Impiyerno",
+        "Ang Tungkod ni Musa",
+        "Ang Arka ni Noah",
+        "Ang Balon ng Zamzam",
+        "Ang Ginintuang Guya"
+      ],
+      "answer": "Ang nagliliyab na Apoy ng Impiyerno"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Papasok siya sa nagliliyab na Apoy, at ang kanyang kayamanan ay hindi makakatulong sa kanya",
+        "Nagsisi siya at naging mananampalataya",
+        "Pinatawad siya matapos bawiin ang kanyang mga kasalanan",
+        "Namatay siya bilang isang martir",
+        "Siya ay dinala pataas sa langit"
+      ],
+      "answer": "Papasok siya sa nagliliyab na Apoy, at ang kanyang kayamanan ay hindi makakatulong sa kanya"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

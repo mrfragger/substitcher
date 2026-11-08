@@ -1,0 +1,61 @@
+{
+  "title": "A hospitalidade que causava medo",
+  "intro": "Em uma cidade consumida pela maldade, um servo fiel recebeu visitas inesperadas. Preocupado com a segurança deles, ofereceu proteção, mas os habitantes da cidade exigiram algo vergonhoso. Avisado de uma desgraça iminente, o servo fugiu com sua família sob a proteção da escuridão, deixando para trás uma cidade marcada para a destruição. Quem é esse crente solitário?",
+  "clues": [
+    "Fui enviado como mensageiro a um povo que havia cometido atos vergonhosos.",
+    "Visitantes inesperados apareceram em minha casa, e eu estava mais preocupado com a segurança deles do que com a minha.",
+    "Meu povo exigiu ver meus convidados por suspeitarem de más intenções, e eu tentei argumentar com eles.",
+    "Meus visitantes se revelaram como anjos e me ordenaram que levasse minha família e partisse durante a noite.",
+    "Minha esposa não atendeu ao chamado para fugir e enfrentou a mesma destruição que meu povo.",
+    "Minha cidade foi devastada por uma chuva de pedras de argila em camadas, e suas partes mais altas foram reduzidas ao nível mais baixo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Ló",
+        "Profeta Moisés",
+        "Profeta Ibrahim",
+        "Profeta Noé",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Ló"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A exigência do meu povo de abordar meus convidados de forma perversa",
+        "A abertura do mar para escapar de um tirano",
+        "A construção de uma grande arca em meio ao escárnio.",
+        "O sacrifício do meu filho em uma prova de fé.",
+        "A experiência de ser engolido por um peixe enorme."
+      ],
+      "answer": "A exigência do meu povo de abordar meus convidados de forma perversa"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A cidade destruída do meu povo",
+        "A montanha onde recebi a mensagem divina.",
+        "A arca que navegou através de um grande dilúvio",
+        "A camela que emergiu da rocha",
+        "O jardim com um visitante justo escondido"
+      ],
+      "answer": "A cidade destruída do meu povo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fui salvo com minha família antes que minha cidade fosse destruída.",
+        "Eu conduzi meu povo à liberdade através do mar.",
+        "Construí uma grande arca e sobrevivi a um dilúvio poderoso.",
+        "Recebi domínio sobre os ventos e os gênios.",
+        "Suportei o sofrimento pacientemente e fui recompensado com a família."
+      ],
+      "answer": "Fui salvo com minha família antes que minha cidade fosse destruída."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

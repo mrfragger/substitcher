@@ -1,0 +1,61 @@
+{
+  "title": "La corona que va desafiar els cels",
+  "intro": "Als passadissos dels regnes antics, el nom d'un governant es va convertir en sinònim de tirania i arrogància. Quan un humil servent d'Al·là va arribar portant signes innegables, aquest poderós sobirà es va negar a rendir-se a la veritat. Avui, la vostra tasca és identificar aquesta figura llegendària, el domini de la qual es va esfondrar i el destí de la qual va ser segellat sota les onades.",
+  "clues": [
+    "Sóc el governant més temut, el nom del qual encara ressona com un avís a través dels segles.",
+    "Vaig ordenar a tot un poble que treballés encadenat, aixecant monuments que proclamaven la meva glòria.",
+    "Quan un missatger d'Al·là va venir davant meu amb signes innegables, vaig rebutjar inclinar-me i ho vaig anomenar bruixeria.",
+    "Vaig decretar la matança de fills petits entre un poble captiu, amb l'esperança d'aixafar el seu esperit abans que poguessin aixecar-se.",
+    "Em vaig posar davant la meva cort i vaig declarar: «Sóc el vostre senyor més alt», exigint que m'adores com a un déu.",
+    "Amb el meu ministre principal al meu costat, vaig construir una estructura imponent destinada a enfilar-me més enllà del cel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Faraó (Fir'awn)",
+        "Namrud",
+        "Aman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraó (Fir'awn)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "L'ofegament al Mar Roig",
+        "La camella enviada a la gent de Thamud",
+        "El gran diluvi de Nuh",
+        "El càstig dels Companys de la Trinxera",
+        "La destrucció de l'exèrcit d'Abraha pels ocells"
+      ],
+      "answer": "L'ofegament al Mar Roig"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'imponent estructura construïda amb Haman",
+        "L'arca que va navegar sobre el diluvi",
+        "El vedell d'or creat pels samiris",
+        "El tron ​​de Bilqis, reina de Saba",
+        "La cova dels joves adormits"
+      ],
+      "answer": "L'imponent estructura construïda amb Haman"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ofegat al mar; el cos es conserva com a advertència",
+        "Exiliat i obligat a vagar pel desert",
+        "Transformats en simis com a càstig",
+        "Assolit per un violent terratrèmol",
+        "Cremat per una pluja de pedres del cel"
+      ],
+      "answer": "Ofegat al mar; el cos es conserva com a advertència"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

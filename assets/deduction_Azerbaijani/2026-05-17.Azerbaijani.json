@@ -1,0 +1,61 @@
+{
+  "title": "Daş Memarları",
+  "intro": "Güc və bacarıqla istedadlı, dağların yamaclarında möhtəşəm yaşayış yerləri oymuş güclü bir sivilizasiyanı təsəvvür edin. Bu kollektiv böyük çiçəklənməyə və unikal memarlıq bacarığına malik idi. Lakin, açıq-aydın xəbərdarlıqlar alsalar da, dramatik və unudulmaz bir nəticəyə aparacaq bir yol seçdilər. Hekayəsi düşünən hər kəs üçün dərin bir dərs olan bu qrupu müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Bizə güc və bacarıq verildi və bu da bizə dağların içinə möhtəşəm evlər tikməyə imkan verdi.",
+    "Bizə Allahdan açıq-aydın bir əlamət, otlamaq üçün rahatlıqla buraxılmalı olan unikal bir məxluq verildi.",
+    "İcmamız təkəbbürlü oldu və aramızdan bir elçinin gətirdiyi ilahi mesaja meydan oxudu.",
+    "Şiddətli cəza xəbərdarlığına baxmayaraq, möcüzəvi əlamətə zərər vermək üçün sui-qəsd qurduq.",
+    "Xüsusi məxluqun növbə ilə quyumuzdan su içməsinə icazə vermək əmrinə tabe olmadıq.",
+    "Qanun pozuntusundan sonra tək bir dəhşətli partlayışla məhv olduq, dağıdıcı bir sonluqla qarşılaşdıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Ad xalqı",
+        "Mədinə xalqı",
+        "Fil Xalqı",
+        "Səmud xalqı",
+        "Lut qövmü"
+      ],
+      "answer": "Səmud xalqı"
+    },
+    "trial": {
+      "label": "Əsas Sınaq/Tədbirimiz",
+      "options": [
+        "Torpağı bürüyən sel",
+        "Dənizin iki yerə bölünməsi",
+        "Tək bir partlayış/qışqırıqla məhv",
+        "Bir şəhərin yandırılması",
+        "Dağın toza çevrilməsi"
+      ],
+      "answer": "Tək bir partlayış/qışqırıqla məhv"
+    },
+    "location": {
+      "label": "Hekayəmizdə Əsas Element",
+      "options": [
+        "Qızıl buzov",
+        "Möcüzəvi bir dişi dəvə",
+        "Yanan bir kol",
+        "Danışan quş",
+        "Əzəmətli bir taxt"
+      ],
+      "answer": "Möcüzəvi bir dişi dəvə"
+    },
+    "outcome": {
+      "label": "Son Nəticəmiz",
+      "options": [
+        "Böyük sərvət və güc bəxş etdi",
+        "Peyğəmbərlik dərəcəsinə yüksəldi",
+        "İlahi cəza ilə tamamilə məhv olmaq",
+        "Səmimi tövbədən sonra bağışlanma",
+        "Gəzmək üçün yer üzünə səpələnib"
+      ],
+      "answer": "İlahi cəza ilə tamamilə məhv olmaq"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mwali ndani ya jumba la kiburi",
+  "intro": "Nyuma ya kuta kubwa za jumba lenye nguvu zaidi la ulimwengu wa kale aliishi mtu ambaye moyo wake ulikuwa na siri ambayo hakuna amri ya kifalme ingeweza kuinyamazisha. Huku pande zote zikiinama kwa miungu ya uongo, roho hii iliweka imani tulivu ikiwaka ndani. Mtawala wa nchi hiyo alijiamini kuwa wa kimungu, lakini mtu huyu alichagua ukweli badala ya faraja, na kujitolea badala ya usalama. Leo, kazi yako ni kugundua nafsi hii jasiri ilikuwa nani, ambayo hadithi yake inabaki kuwa mojawapo ya mifano yenye nguvu zaidi ya imani isiyoyumba.",
+  "clues": [
+    "Niliishi katika eneo lenye utajiri mwingi na ukuu usio na kifani, ambapo mtawala wa nchi alikuwa na mamlaka kamili juu ya yote.",
+    "Wakati wale walionizunguka waliinama kwa miungu ya uongo, niliweka mwanga mtulivu wa imani moyoni mwangu.",
+    "Niligundua na kumlea mtoto ambaye aliletwa kwangu kwa njia isiyo ya kawaida - si kwa kuzaliwa, bali kupitia maji ya mto mkubwa.",
+    "Nilimwomba Mola wangu, nikimwomba nyumba karibu Naye Peponi na wokovu kutokana na udhalimu ulionizunguka.",
+    "Mtoto niliyemlea alikua akimpinga mtawala yuleyule aliyedhibiti hatima yangu, na nilisimama imara katika imani yangu hata nilipotishiwa.",
+    "Mimi ndiye ambaye jina lake limeheshimiwa katika Quran kama mfano wa imani, na niliishi katika jumba la Farao mwenyewe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Asiya, mke wa Farao",
+        "Maryam, mama yake Isa",
+        "Bilqis, Malkia wa Sheba",
+        "Mke wa Nabii Lut",
+        "Mke wa Imran"
+      ],
+      "answer": "Asiya, mke wa Farao"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kugundua na kumlea mtoto mchanga aliyeachwa ambaye alikua nabii mkuu",
+        "Kutupwa kwenye moto mkubwa na mtawala wa kiimla",
+        "Kushuhudia gharika kubwa iliyowaangamiza watu",
+        "Kushuhudia mtikiso wa mitende na kutoa lishe",
+        "Kupata mimba ya mwana licha ya umri mkubwa"
+      ],
+      "answer": "Kugundua na kumlea mtoto mchanga aliyeachwa ambaye alikua nabii mkuu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Jumba la kifalme lenye fahari isiyo na kifani",
+        "Meli kubwa iliyojengwa ili kustahimili mafuriko",
+        "Pango refu lililofichwa milimani",
+        "Moto mkali uliojengwa juu ya mlima",
+        "Bustani iliyofungwa kwa kuta"
+      ],
+      "answer": "Jumba la kifalme lenye fahari isiyo na kifani"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Nyumba ilitolewa Peponi kwa mapenzi ya Mwenyezi Mungu",
+        "Gharika kubwa iliwaangamiza makafiri wa taifa la kale",
+        "Ufalme wenye nguvu na mamlaka makubwa ulitolewa katika ulimwengu huu",
+        "Jeshi kubwa lilitawanywa na ndege waliokuwa wakiruka",
+        "Mtawala aliyedai kuwa mungu alizama baharini"
+      ],
+      "answer": "Nyumba ilitolewa Peponi kwa mapenzi ya Mwenyezi Mungu"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

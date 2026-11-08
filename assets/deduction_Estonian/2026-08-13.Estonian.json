@@ -1,0 +1,61 @@
+{
+  "title": "Püha Maja kannatlik hing",
+  "intro": "Koraani lehekülgedel ilmub suure prohveti soost esile tegelane, kes anti kingitusena vanemas eas. Seda hinge hinnatakse vankumatu tõemeelsuse ja sügava rolli eest pühamu rajamisel, millest sai usu majakas. Vihjeid lugedes kuulake tähelepanelikult häält minevikust, sest see räägib esimeses isikus.",
+  "clues": [
+    "Koraanis mainitakse mind koos teise prohvetiga kui kingitust, mis anti eakale sõnumitoojale.",
+    "Mina olin üks kahest järglasest, kes sellele prohvetile tema hilisematel aastatel kingiti.",
+    "Koraanis kiidetakse mind selle eest, et ma oma sõnale truu olen.",
+    "Ma kandsin prohveti au ja mind saadeti sõnumitoojana.",
+    "Liitusin oma isaga Püha Maja aluste rajamisel.",
+    "Mind mäletatakse kui üht kannatlikku inimest ja pühast majast, mille me ehitasime, sai inimestele tagasipöördumise ja turvalisuse paik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ismail",
+        "Prohvet Iisak",
+        "Prohvet Yaqub",
+        "Prohvet Zakariya",
+        "Prohvet Jahja"
+      ],
+      "answer": "Prohvet Ismail"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kaaba aluste rajamine koos Ibrahimiga",
+        "Tulle viskamine",
+        "Vaala allaneelamine",
+        "Iisraellaste Egiptusest väljajuhtimine",
+        "Laeva ehitamine"
+      ],
+      "answer": "Kaaba aluste rajamine koos Ibrahimiga"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kaaba",
+        "Siinai mägi",
+        "Punane meri",
+        "Kuldvasikas",
+        "Eedeni aed"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Patsientide hulka arvatud",
+        "Pahategijate hulka arvatud",
+        "Mustkunstnike hulka kuuluv",
+        "Uskmatute hulka arvatud",
+        "Silmakirjatsejate hulka arvatud"
+      ],
+      "answer": "Patsientide hulka arvatud"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

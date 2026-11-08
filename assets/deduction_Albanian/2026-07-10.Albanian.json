@@ -1,0 +1,61 @@
+{
+  "title": "Bartësi i Nëntë Shenjave",
+  "intro": "Një figurë u ngrit nga fillimet më të përulura, me një fat të shkruar në vullnetin hyjnor. I fshehur në foshnjëri dhe i rritur brenda mureve të sundimtarit që kërkoi të shkatërronte popullin e tyre, ky shpirt u thirr përfundimisht në një mision të fuqishëm. Të pajisur me asgjë tjetër përveç besimit dhe një shkop bariu të përulur, ata qëndruan para sundimtarit më të fuqishëm të epokës dhe kërkuan liri për ata që ishin skllavëruar. Vetë bota dukej se lëvizte nën komandën e tyre - ujërat u ndanë, qiejt folën dhe një mbretëri ra.",
+  "clues": [
+    "Ditët e mia të para u shënuan nga frika - foshnjat si unë u ndoqën që në lindje nga një sundimtar i pamëshirshëm që kishte frikë nga e ardhmja.",
+    "U shpëtova nga uji dhe u rrita brenda pallatit të po atij sundimtari që kërkoi shkatërrimin tim.",
+    "U largova nga atdheu im pas një incidenti të papritur, duke u bërë një bari i përulur në një tokë të largët.",
+    "U ktheva për t’u përballur me atë sundimtar të fuqishëm me një shkop të thjeshtë dhe një mesazh të qartë, duke kërkuar lirinë e popullit tim.",
+    "Ndava një masë të madhe uji për ata që më ndiqnin dhe pashë teksa ato ujëra e gëlltitën të plotë armikun tim.",
+    "U ngjita në një mal të shenjtë për të marrë udhëzim hyjnor nga Allahu dhe më u dhanë nëntë shenja të qarta si provë të së vërtetës."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Musa",
+        "Profeti Nuh",
+        "Profeti Ibrahim",
+        "Profeti Jusuf",
+        "Profeti Lut"
+      ],
+      "answer": "Profeti Musa"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Përballja me Faraonin në oborrin e tij",
+        "Ndërtimi i Arkës për të mbijetuar një përmbytje të madhe",
+        "Të hidhesh në një zjarr flakërues nga idhujtarët",
+        "Më ulën në një pus të thellë vëllezërit e mi",
+        "Duke u përpjekur t'i ndaloj njerëzit e mi nga sjelljet imorale"
+      ],
+      "answer": "Përballja me Faraonin në oborrin e tij"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Shkopi që u shndërrua në gjarpër",
+        "Arka e Nuhut",
+        "Froni i Bilqisit",
+        "Unaza që kontrollonte erën dhe xhindët",
+        "Çelësat e thesareve të grumbulluara kaq të rënda"
+      ],
+      "answer": "Shkopi që u shndërrua në gjarpër"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Udhëhoqi popullin tim përtej ujërave të ndara drejt lirisë",
+        "U shpëtua nga një përmbytje e madhe brenda një Arke",
+        "U rikthye në shëndet dhe familje pas vuajtjeve të thella",
+        "U hodh i gjallë nga një peshk i madh",
+        "Ndërtoi themelet e Shtëpisë së Shenjtë"
+      ],
+      "answer": "Udhëhoqi popullin tim përtej ujërave të ndara drejt lirisë"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

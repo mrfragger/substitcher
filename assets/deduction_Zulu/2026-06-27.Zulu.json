@@ -1,0 +1,61 @@
+{
+  "title": "Ukungabikho Okungcwele",
+  "intro": "Ngale kwezindunduma zesikhathi, kukhona indaba yokuzinikela okungantengantengi kanye nokwethemba okunzima kangangokuthi umphefumulo okuthwalayo wawungaphuka. Ngesikhathi abantu bephendukela ebuwula nasegolideni, umuntu oyedwa wema eqinile—ebabiza ukuba babuye, ecela ukubekezela, futhi ethwele isisindo sesithembiso esingcwele. Lena indaba yomuntu owakhethwa njengomsizi, isazi, kanye nomqaphi wokholo ngesikhathi sokungabikho okungcwele. Ungakwazi yini ukuthola ukuthi ungubani lo mphefumulo oqinile?",
+  "clues": [
+    "Ngihlanganyela igazi lomprofethi omkhulu owakhethwa ukukhuluma no-Allah ngqo entabeni engcwele.",
+    "Umfowethu wakithi wake wancenga u-Allah ukuba amsize ekukhulumeni ngokucacile nomcindezeli omkhulu.",
+    "Ngakhethwa ngu-Allah ukuba ngime eceleni komfowethu njengomsizi kanye nephini.",
+    "Sonke sabhekana nombusi ononya owayefuna ukubizwa ngokuthi onkulunkulu abaphakeme kunabo bonke.",
+    "Ngesikhathi umfowethu ekhuluma no-Allah entabeni, abantu bakithi bazenzela isithombe ngegolide labo.",
+    "Ngingumfowabo kaMose, omiswe ngu-Allah njengenduna yakhe, okhulunywe ngegama lakhe ku-Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uHarun (u-Aroni)",
+        "Umprofethi uMusa",
+        "Umprofethi uDawud",
+        "Umprofethi uYaqub",
+        "Umprofethi u-Ishaq"
+      ],
+      "answer": "Umprofethi uHarun (u-Aroni)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Inkinga Yokukhulekelwa Kwethole",
+        "UZamcolo Omkhulu kaNuh",
+        "Impi yaseBadr",
+        "Ukubhujiswa kweThamud",
+        "Ukubhujiswa kweSodoma"
+      ],
+      "answer": "Inkinga Yokukhulekelwa Kwethole"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ithole Legolide",
+        "Umkhumbi KaNowa",
+        "Isihlahla Esivuthayo",
+        "Umhume waseHira",
+        "Isihlalo Sobukhosi saseSheba"
+      ],
+      "answer": "Ithole Legolide"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukungabi Nacala Kuqinisekiswe Ngu-Allah",
+        "Ukuminza kukaFaro",
+        "Ukwakhiwa kweKaaba",
+        "Ukuwela Ulwandle Ngokuphepha",
+        "Ukunyukela Emazulwini"
+      ],
+      "answer": "Ukungabi Nacala Kuqinisekiswe Ngu-Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Isizwe Esaphonsela Inselelo Indlu Engcwele",
+  "intro": "Ezikhathini zasendulo, isizwe esinamandla sanquma ukuhlasela indawo engcwele eyayihlonishwa amakholwa. Leli qembu lalicebile, linamandla, futhi liqiniseka ngamandla alo empi. Baletha nesidalwa esikhulu esasizoba yisikhali sabo sempi. Umgomo wabo wawucacile: ukubhidliza indlu engcwele nokuchoboza ukholo lwabantu bayo. Kodwa ukuzikhukhumeza kwabo kwase kuzobhekana nempendulo ebhubhisayo evela phezulu. Lesi senzakalo somlando saba uphawu nesifundo kubo bonke abalandela. Ungakwazi yini ukulibona leli qembu ngezinkomba?",
+  "clues": [
+    "Sasiyisizwe esibusiswe ngengcebo kanye nekhono lezempi.",
+    "Saqoqa amabutho ethu saletha isilo esikhulu ukuze sisisebenzise emkhankasweni wethu.",
+    "Umgomo wethu kwakuyindawo engcwele esasifisa ukuyibhubhisa ngokuphelele.",
+    "Sasikholelwa ukuthi amandla ethu azokwanela ukunqoba noma yisiphi isivikelo saphezulu.",
+    "Kodwa iNkosi yasithumela isijeziso esivela ezulwini esasingasilindele.",
+    "Sabhujiswa ngokuphazima kweso, sahlakazeka njengotshani obuphukile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu Bendlovu",
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abangane Bomhume",
+        "Isizwe Somprofethi uHud"
+      ],
+      "answer": "Abantu Bendlovu"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhambisa indlovu iya endlini engcwele ukuze iyibhubhise",
+        "Ukwakha umbhoshongo ukuze ufinyelele ezulwini",
+        "Ukwakha isithombe segolide sokukhulekelwa",
+        "Ukwenqaba ukulalela isithunywa sika-Allah",
+        "Ukumba umthombo ukuze kulimaze abakholwayo"
+      ],
+      "answer": "Ukuhambisa indlovu iya endlini engcwele ukuze iyibhubhise"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Indlovu",
+        "Ithole Legolide",
+        "Induku kaMusa",
+        "Inhlanzi kaYunus",
+        "Insimbi KaDawud"
+      ],
+      "answer": "Indlovu"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Babhujiswa yimihlambi yezinyoni ngamatshe",
+        "Baminza esikhukhuleni esikhulu",
+        "Baguqulwa baba izinkawu nezingulube",
+        "Bangcwatshwa ngaphansi kwamatshe awela entabeni",
+        "Bashiswa ngumlilo ovela esibhakabhakeni"
+      ],
+      "answer": "Babhujiswa yimihlambi yezinyoni ngamatshe"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

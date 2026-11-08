@@ -1,0 +1,61 @@
+{
+  "title": "Molimo ya Motema molai ya Ndako Mosantu",
+  "intro": "Na nkasa ya Coran, elilingi moko ebimi na molɔngɔ ya mosakoli moko monene, oyo epesami lokola likabo na bobange. Molimo oyo ekumisami mpo na bosolo oyo etɛngamá te mpe mokumba monene mpo na kotya esika mosantu oyo elingaki kokóma mwinda ya kondima. Ntango ozali kotánga bilembo, yoká malamu mongongo oyo euti na ntango ya kala, mpamba te elobaka na moto ya liboso.",
+  "clues": [
+    "Nalobelami na Coran pembeni ya profeta mosusu lokola likabo oyo epesami na momemi-nsango moko ya mobange.",
+    "Nazalaki moko ya bana mibale oyo bapesaki profeta wana na mibu na ye ya nsuka.",
+    "Nakumisami na Coran mpo nazali solo na liloba na ngai.",
+    "Namemaki lokumu ya boprofeta mpe natindamaki lokola momemi-nsango.",
+    "Nasanganaki na tata na ngai mpo na kotombola miboko ya Ndako Mosantu.",
+    "Nakanisami lokola moko ya bato ya motema molai, mpe ndako ya bule oyo totongaki ekomaki esika ya bozongi mpe ya libateli mpo na bato."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ismail",
+        "Mosakoli Ishaq",
+        "Mosakoli Yaqub",
+        "Mosakoli Zakariya",
+        "Mosakoli Yahya"
+      ],
+      "answer": "Mosakoli Ismail"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kotombola ba fondements ya Kaaba na Ibrahim",
+        "Kobwakama na mɔtɔ",
+        "Komelama na baleine",
+        "Kokamba Bayisraele na Ezipito",
+        "Kotonga masuwa"
+      ],
+      "answer": "Kotombola ba fondements ya Kaaba na Ibrahim"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ba Kaaba",
+        "Ngomba Sinai",
+        "Mbu Motane",
+        "Mwana ya Ngombe ya Wolo",
+        "Elanga ya Edene"
+      ],
+      "answer": "Ba Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Batangamaki kati na mobɛli",
+        "Batangamaki na kati ya basali mabe",
+        "Batangamaki na kati ya ba magiciens",
+        "Batangamaki na kati ya bato oyo bazangi kondima",
+        "Batangamaki kati na bato ya bokosi"
+      ],
+      "answer": "Batangamaki kati na mobɛli"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Musuh yang Berapi-api",
+  "intro": "Pada masa awal turunnya wahyu, muncul seorang tokoh yang keras kepala menentang kebenaran. Diberkahi dengan kekayaan dan kedudukan, jiwa ini memilih kesombongan daripada petunjuk, dan kisahnya menjadi peringatan keras dalam ayat-ayat terakhir sebuah surah.",
+  "clues": [
+    "Aku tinggal di kota yang sama dengan Nabi, dan aku termasuk kerabat terdekatnya, namun kesombonganku membuatku menjauh dari kebenaran.",
+    "Saya memiliki kekayaan yang besar dan banyak harta benda, dan saya mengira sumber daya saya akan selalu melindungi saya.",
+    "Ketika pesan itu diungkapkan, aku mengejeknya secara terang-terangan dan berpaling, menganggap diriku lebih tinggi daripada orang-orang yang beriman.",
+    "Permusuhan saya begitu terkenal sehingga sebuah surah dalam Al-Quran menyebut saya secara langsung, memanggil saya dengan nama yang dikenal orang lain.",
+    "Aku telah diperingatkan bahwa kekayaan dan penghasilanku tidak akan berguna bagiku, dan aku akan dilemparkan ke dalam api yang menyala-nyala.",
+    "Saya dikenal sebagai bapak api, dan istri saya akan membawa kayu bakar dengan tali dari serat palem di lehernya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Menolak Islam dan secara terbuka menentang Nabi.",
+        "Merencanakan pembunuhan terhadap Nabi.",
+        "Memimpin boikot sosial terhadap umat Muslim",
+        "Berperang dalam Pertempuran Badr",
+        "Bilal bin Rabah yang disiksa"
+      ],
+      "answer": "Menolak Islam dan secara terbuka menentang Nabi."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Tali dari serat palem",
+        "Pedang tajam",
+        "Rantai yang berat",
+        "Tongkat kayu",
+        "Cambuk kulit"
+      ],
+      "answer": "Tali dari serat palem"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Akan terbakar dalam api yang berkobar",
+        "Bertobat dan menjadi sahabat",
+        "Kehilangan kekayaannya tetapi meninggal dengan terhormat.",
+        "Melarikan diri ke Abyssinia",
+        "Tenggelam di laut"
+      ],
+      "answer": "Akan terbakar dalam api yang berkobar"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

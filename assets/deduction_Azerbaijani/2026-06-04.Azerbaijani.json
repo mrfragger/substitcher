@@ -1,0 +1,61 @@
+{
+  "title": "Daşlar Arasındakı Lövhə",
+  "intro": "Dağların evlərə çevrildiyi bir diyarda bir elçi Allahdan möcüzəvi bir əlamət gətirdi. Xalq dəlil tələb etdi və onlar bərk qayadan bir məxluq aldılar. Lakin təkəbbürləri onları xəbərdarlığa qarşı çıxmağa və taleyini həll etməyə vadar etdi.",
+  "clues": [
+    "Mən dağlardan oyulmuş evlərdə yaşayan bir qövmə göndərildim.",
+    "Onlar məndən bir işarə gətirməyimi istədilər, mən də qayadan bir dəvə çıxardım.",
+    "Mən onlara dəvənin su içməsinə icazə vermələrini və ona zərər verməmələrini əmr etdim.",
+    "Onlar asi oldular və xəbərdarlığıma məhəl qoymadan dəvənin ayaq vətərini kəsdilər.",
+    "Mən cəzanın üç gündən sonra gələcəyini elan etdim.",
+    "Səhər tezdən güclü bir külək onları məhv etdi, amma mən və yanımdakılar xilas olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Peyğəmbər Saleh",
+        "Hud peyğəmbər",
+        "Lut peyğəmbər",
+        "Şüeyb peyğəmbər",
+        "İbrahim peyğəmbər"
+      ],
+      "answer": "Peyğəmbər Saleh"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qayadan dişi dəvə tələbi",
+        "Qızıl buzov tələbi",
+        "Göydən açılmış süfrə tələbi",
+        "Daşqın tələbi",
+        "Əsanın ilana çevrilməsi tələbi"
+      ],
+      "answer": "Qayadan dişi dəvə tələbi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dişi dəvə və onun balası",
+        "Nuhun gəmisi",
+        "Musanın əsası",
+        "Qızıl buzov",
+        "İbrahimin atəşi"
+      ],
+      "answer": "Dişi dəvə və onun balası"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Güclü bir partlayışla məhv edildi",
+        "Daşqında boğulub",
+        "Torpaq tərəfindən udulmuş",
+        "Meymunlara çevrildi",
+        "Şiddətli küləklə məhv edildi"
+      ],
+      "answer": "Güclü bir partlayışla məhv edildi"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

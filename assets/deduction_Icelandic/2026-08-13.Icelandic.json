@@ -1,0 +1,61 @@
+{
+  "title": "Þolinmóð sál hins helga húss",
+  "intro": "Á síðum Kóransins kemur fram persóna úr ættkvísl mikils spámanns, sem gefinn var sem gjöf á efri árum. Þessi sál er heiðruð fyrir óhagganlega sannleiksgildi og mikilvægan þátt í að koma á fót helgidómi sem átti eftir að verða viti trúarinnar. Þegar þú lest vísbendingarnar skaltu hlusta vandlega á röddina úr fortíðinni, því hún talar í fyrstu persónu.",
+  "clues": [
+    "Ég er nefndur í Kóraninum ásamt öðrum spámanni sem gjöf gefin öldruðum sendiboða.",
+    "Ég var annar tveggja afkomenda sem þessum spámanni voru gefnir á efri árum hans.",
+    "Ég er lofaður í Kóraninum fyrir að vera trúr orðum mínum.",
+    "Ég bar heiður spámannsdómsins og var sendur sem sendiboði.",
+    "Ég tók þátt í að reisa grunninn að Heilaga húsinu ásamt föður mínum.",
+    "Ég er minnst sem eins af hinum þolinmóðu og hið helga hús sem við byggðum varð staður þar sem fólk gat komið aftur og notið öryggis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Ísmael",
+        "Spámaðurinn Íshaq",
+        "Spámaðurinn Yaqub",
+        "Spámaðurinn Zakariya",
+        "Spámaðurinn Yahya"
+      ],
+      "answer": "Spámaðurinn Ísmael"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að reisa grunninn að Kaaba með Ibrahim",
+        "Að vera kastað í eld",
+        "Að vera gleypt af hval",
+        "Að leiða Ísraelsmenn út úr Egyptalandi",
+        "Að smíða örk"
+      ],
+      "answer": "Að reisa grunninn að Kaaba með Ibrahim"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Kaaba",
+        "Sínaífjall",
+        "Rauðahafið",
+        "Gullkalfurinn",
+        "Edengarðurinn"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Talið meðal sjúklinganna",
+        "Talinn meðal brotamanna",
+        "Talinn meðal galdramanna",
+        "Talinn meðal vantrúaðra",
+        "Talinn meðal hræsnaranna"
+      ],
+      "answer": "Talið meðal sjúklinganna"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

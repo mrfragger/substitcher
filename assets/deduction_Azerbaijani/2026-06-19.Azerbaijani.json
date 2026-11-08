@@ -1,0 +1,61 @@
+{
+  "title": "Davamlı Ruhun Sınaqları",
+  "intro": "Bir ruh ilahi sınaq anında dayanır və təvazökarlıqla rəhbərlik axtarır. Hər şeyi bilən bu axtaranı geri qaytarır, lakin sonradan bunun qəlbin sınağı olduğunu ortaya qoyur. Bu sirli söhbət vasitəsilə düşünənlər üçün ilahi hikmət haqqında bir dərs açılır. Bu fiquru Quran hekayəsindən müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Allahın sevimli elçisindən elm və rəhbərlik istədim",
+    "Mən həqiqəti axtararaq gəldim, Peyğəmbəri səmimi bir istəklə çağırdım.",
+    "Məni danladılar və geri çevirdilər, çünki Allahın hikmətinin o an üçün başqa planları var idi.",
+    "Amma ümidsizliyə qapılmadım - əksinə, axtarışlarımda irəlilədim",
+    "Hər şeyi Bilən Bunun qəlbin sınağı və xəbərdarlıq olduğunu elan etdi",
+    "Mən Quranda haqqında belə buyurulur: “O, qaşqabağını salladı və üzünü çevirdi, çünki kor ona gəlmişdi”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şübhə Axtaran Münafiq",
+        "Həqiqətin Kor Axtaranı",
+        "Məkkənin bütpərəst ibadətçisi",
+        "Kafirin Peyğəmbəri lağa qoyması",
+        "Yəmənli Səyyah"
+      ],
+      "answer": "Həqiqətin Kor Axtaranı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Namaz əsnasında Məhəmməd peyğəmbər tərəfindən danlanmaq",
+        "Məkkədə quraqlıq və qıtlıqla sınağa çəkilir",
+        "Cənnətin qapılarında üz döndərilir",
+        "Öz xalqı tərəfindən imana görə rədd edilmək",
+        "Var-dövlət və övladlarla imtahana çəkilmək"
+      ],
+      "answer": "Namaz əsnasında Məhəmməd peyğəmbər tərəfindən danlanmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Həcc mövsümündə Kəbənin içərisində",
+        "Peyğəmbərin hüzurunda tilavət zamanı",
+        "Səhər saatlarında Səfa dağının zirvəsində",
+        "Məkkə bazarında kafirlərin əhatəsində",
+        "Həcc zamanı Zəmzəm quyusunun yanında"
+      ],
+      "answer": "Peyğəmbərin hüzurunda tilavət zamanı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Dindar Qureyş tərəfindən iman yolunda şəhid edildi.",
+        "Hadisə ümmət üçün bir sınaq və dərs kimi qeydə alındı",
+        "Axtaran yoldaş və lider oldu",
+        "Axtaranın sərvəti on qat artdı",
+        "Axtaran yenidən inamsızlığa qapıldı"
+      ],
+      "answer": "Hadisə ümmət üçün bir sınaq və dərs kimi qeydə alındı"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

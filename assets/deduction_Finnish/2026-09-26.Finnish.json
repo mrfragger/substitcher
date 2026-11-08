@@ -1,0 +1,61 @@
+{
+  "title": "Kieltäminen yltäkylläisyyden keskellä",
+  "intro": "Olet kansan keskellä, jonka toreilla kuhisee kauppaa, mutta heidän vaakakuppinsa kallistuu epärehellisesti. Heidän luokseen on tullut sanansaattaja selkeiden varoitusten kanssa, mutta he nauravat ja kääntyvät pois, luottaen menestykseensä. Taivas alkaa pimetä, mutta he näkevät sen sateen siunauksena. Keitä nämä ihmiset ovat?",
+  "clues": [
+    "Kukoistimme kaupan ja yltäkylläisyyden maissa, mutta sydämemme kovettuivat.",
+    "Lähettiläs tuli luoksemme Herramme merkkien kanssa, mutta me pilkkasimme hänen varoituksiaan.",
+    "Meidät tunnettiin ammatistamme, mutta annoimme vähän rahaa ja huijasimme ihmisiä.",
+    "Elimme tiheiden puiden ja rehevän kasvillisuuden keskellä, mutta pidimme siunauksiamme itsestäänselvyyksinä.",
+    "Kun synkkä pilvi lähestyi, iloitsimme ajatellen, että se toisi sadetta kuiville maillemme.",
+    "Sen sijaan tuo pilvi päästi valloilleen polttavan rangaistuksen, ja meidät valtasi varjon päivän tuska."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Ashab al-Aykah (Metsän seuralaiset)",
+        "Thamudin kansa",
+        "'Ad:n ihmiset",
+        "Lutin kansa",
+        "Nuhin kansa"
+      ],
+      "answer": "Ashab al-Aykah (Metsän seuralaiset)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "He hylkäsivät sanansaattajansa ja petollisesti toimivat kaupassa",
+        "He palvoivat kultaista vasikkaa ja joutuivat harhaan",
+        "He harjoittivat sodomiaa ja hyökkäsivät matkailijoiden kimppuun",
+        "He rakensivat korkeita torneja ja haastoivat Jumalan",
+        "He kieltäytyivät jakamasta vettä ja vahingoittivat naaraskamelia"
+      ],
+      "answer": "He hylkäsivät sanansaattajansa ja petollisesti toimivat kaupassa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Tiheä metsä tai pensasto",
+        "Vuori, johon on kaiverrettu asuntoja",
+        "Kaupunki meren rannalla",
+        "Aavikkolaakso kaivoineen",
+        "Hedelmällinen puutarha, jossa on paljon hedelmiä"
+      ],
+      "answer": "Tiheä metsä tai pensasto"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuhoutui tulisen varjopilven alla",
+        "Hukkui suureen tulvaan",
+        "Maanjäristyksen nielaisema",
+        "Voimakkaan tuulen iskiessä",
+        "Muuttui kiveksi"
+      ],
+      "answer": "Tuhoutui tulisen varjopilven alla"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Iż-Żerriegħa tal-Ġlied",
+  "intro": "Qabel ma d-dinja kienet taf kunflitt mifrux, seħħ test profond ta’ fidi u ubbidjenza. Din in-narrattiva tesplora l-għażliet magħmula minn individwu, li l-azzjonijiet tiegħu stabbilixxew preċedent għall-ġenerazzjonijiet futuri. Ipprepara biex tiżvela l-istorja ta’ ruħ li qed titħabat ma’ għira immensa u l-konsegwenzi devastanti tagħha.",
+  "clues": [
+    "Jien kont fost l-ewwel dixxendenti li mxew fuq l-art, wild tal-ewwel koppja umana.",
+    "Jien u ħija ġejna kmandati biex noffru sagrifiċċju lil Alla, prova tas-sinċerità tagħna.",
+    "L-offerta tiegħi ma ġietx aċċettata, filwaqt li ta’ ħija ġiet, u dan imlieli qalbi b’emozzjoni terribbli.",
+    "Għedt kliem ta’ theddida lil ħija, immexxi mill-imrar tar-rifjut.",
+    "Ħija wieġeb bl-għerf u l-pjetà, u fakkarni fil-ġustizzja ta’ Alla u l-biża’ Tiegħu.",
+    "Minkejja l-kliem ġentili ta’ ħija u r-rieda tiegħu li jaħfer, ħadt ħajja, u sirt wieħed mit-telliefa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Adam",
+        "Iblis",
+        "Profeta Nuh",
+        "Qabil (Kajin)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kajin)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-għargħar kbir",
+        "Il-qsim tal-baħar",
+        "Il-bini tal-Kaaba",
+        "L-offerta tas-sagrifiċċji",
+        "It-tentazzjoni fil-Ġnien"
+      ],
+      "answer": "L-offerta tas-sagrifiċċji"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka",
+        "L-Istaff",
+        "Il-Muntanja ta' Safa",
+        "Is-Sagrifiċċju",
+        "L-Għollieq Jaħraq"
+      ],
+      "answer": "Is-Sagrifiċċju"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Sar messaġġier",
+        "Għerqet",
+        "Bnew saltna kbira",
+        "Sar eżempju ta’ dispjaċir",
+        "Ingħata ġid immens"
+      ],
+      "answer": "Sar eżempju ta’ dispjaċir"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

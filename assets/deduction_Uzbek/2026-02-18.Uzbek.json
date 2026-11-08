@@ -1,0 +1,61 @@
+{
+  "title": "Sodiq guvoh",
+  "intro": "Chuqur hikoya ochiladi, ulkan zulmga qarshi jamiyatning qat'iyatliligini ochib beradi. Ularning hikoyasi, hatto eng katta qurbonlikka duch kelganda ham, imonning dalili bo'lib xizmat qiladi. Bu hikoya bizga imonning eng katta zulmga qarshi kuchini eslatadi.",
+  "clues": [
+    "Biz hikoyasi qisqa va ta'sirli surada hikoya qilingan, ta'qiblarga qarshi ogohlantiruvchi guruh edik.",
+    "Biz yagona Xudoga, Arshning Parvardigoriga va Maqtovga sazovor Zotga bo'lgan ishonchimizni yo'q qilishni istagan hukmdorga duch keldik.",
+    "Biz yerga qazilgan ulkan chuqur bilan bog'liq dahshatli sinovga duch keldik.",
+    "Biz imonlilarning, jumladan, go'daklarning ham o'sha chuqur ichidagi dahshatli do'zaxga tashlanganini kuzatdik.",
+    "Bizni qiynayotganlar qilmishlari uchun la'natlangan edilar, bizga esa sabr-toqatimiz uchun ulkan mukofotlar va'da qilingan edi.",
+    "Hukmdorning iymonimizni so'ndirishga urinishi, barcha narsaga guvoh bo'lgan Alloh huzurida shahid sifatidagi o'rnimizni yanada mustahkamladi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Samud qavmi",
+        "Ad qavmi",
+        "Xandaq odamlari",
+        "Lut qavmi",
+        "Fil odamlari"
+      ],
+      "answer": "Xandaq odamlari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buyuk To'fon",
+        "Yonayotgan buta",
+        "Dengizda cho'kish",
+        "Olovli chuqur",
+        "Zilzila"
+      ],
+      "answer": "Olovli chuqur"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Xandaq",
+        "Tog'",
+        "Quduq"
+      ],
+      "answer": "Xandaq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ularga qirollik berildi",
+        "Mo''jiza tufayli qutqarildik",
+        "Shahidlik va Jannatga erishildi",
+        "Yerlar bo'ylab tarqalib ketgan edilar",
+        "Ularga ulkan boylik berilgan"
+      ],
+      "answer": "Shahidlik va Jannatga erishildi"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

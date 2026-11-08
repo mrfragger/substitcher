@@ -1,0 +1,61 @@
+{
+  "title": "O Paciente Um",
+  "intro": "Há muito tempo, nos primórdios da história da humanidade, duas almas compareceram perante seu Criador com oferendas. Uma foi aceita, a outra não. O que se seguiu se tornaria a primeira grande tragédia entre irmãos — um ato de paciência e contenção, e outro de amarga vingança. Você consegue descobrir quem eu sou?",
+  "clues": [
+    "Nasci nos primórdios da existência humana na Terra.",
+    "Eu era filho do primeiro casal de humanos a caminhar sobre a Terra.",
+    "Certa vez, ofereci um sacrifício do melhor do meu rebanho para agradar ao meu Criador.",
+    "Minha oferta foi aceita lá de cima, enquanto a oferta do meu irmão foi rejeitada.",
+    "Ao ser ameaçado de morte, optei por não levantar a mão contra meu irmão/irmã.",
+    "Tornei-me a primeira pessoa em toda a história da humanidade a ser morta injustamente por outra pessoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Habil (Abel), filho de Adão",
+        "Caim (Qabil), filho de Adão",
+        "Adão, o primeiro ser humano",
+        "Nuh (Noé)",
+        "Ibrahim (Abraão)"
+      ],
+      "answer": "Habil (Abel), filho de Adão"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O primeiro assassinato da história da humanidade.",
+        "O grande dilúvio de Noé",
+        "A destruição do exército de Fir'awn",
+        "O sacrifício de Ismael por Abraão",
+        "A batalha contra Jalut (Golias)"
+      ],
+      "answer": "O primeiro assassinato da história da humanidade."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma ovelha oferecida como sacrifício agradável",
+        "Uma grande arca de madeira",
+        "Um cajado que se transformou em serpente.",
+        "Uma poupa carregando uma mensagem real.",
+        "Uma trincheira em chamas"
+      ],
+      "answer": "Uma ovelha oferecida como sacrifício agradável"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tornou-se a primeira vítima de assassinato na história da humanidade.",
+        "Sobreviveu a uma grande inundação dentro de uma embarcação de madeira.",
+        "Vivia dentro da barriga de um grande peixe.",
+        "Governava os gênios, os humanos e o vento.",
+        "Vagou por quarenta anos numa vasta região selvagem."
+      ],
+      "answer": "Tornou-se a primeira vítima de assassinato na história da humanidade."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

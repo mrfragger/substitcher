@@ -1,0 +1,61 @@
+{
+  "title": "Kaevu sügavusest",
+  "intro": "Noore hinge teekond algas võimsa nägemusega taevakehadest, kes kummardavad aupaklikult. Selle inimese elu iseloomustas lähedaste sügavaim reetmine, millele järgnesid aastad orjust ja ebaõiglast vangistust. Kuid tänu vankumatule usule ja jumalikule juhatusele tõusis see tegelane sügavaimast august suure impeeriumi võimsaimaks inimeseks. Kas suudad paljastada selle tähelepanuväärse Allahi teenri isiku?",
+  "clues": [
+    "Mulle näidati nägemust üheteistkümnest tähest, päikesest ja kuust, mis minu ees kummardasid",
+    "Olin oma vanemate sügavalt armastatud laps, mis tekitas mu vendades armukadedust.",
+    "Mu enda vennad võtsid mind kinni, riisusid mu rüüd seljast ja viskasid sügavasse, pimedasse kaevu",
+    "Mind müüdi turul kaubana ja viidi kodumaalt kaugele",
+    "Võimas naine üritas mu au rikkuda ja mind pandi vangi, kuna ma keeldusin tema lähenemiskatsetest.",
+    "Mind õnnistati unenägude tõlgendamise andiga ja ma tõusin unustatud vangist Egiptuse peaministriks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Yusuf",
+        "Prohvet Musa",
+        "Prohvet Dawud",
+        "Prohvet Ayyub",
+        "Prohvet Sulayman"
+      ],
+      "answer": "Prohvet Yusuf"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Oma vendade poolt sügavasse kaevu heidetud",
+        "Suure ülemaailmse veeuputuse üleelamine",
+        "Põlevasse ahju visatud",
+        "Võitlus hiiglasliku sõdalase vastu lahinguväljal",
+        "Suure kala poolt alla neelatud"
+      ],
+      "answer": "Oma vendade poolt sügavasse kaevu heidetud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Sügav, kuiv kaev kõrbes",
+        "Suur puust laev mäe tipus",
+        "Personali, mis muutus maoks",
+        "Suurepärane ja hiilgava troon",
+        "Lint ja viis siledat kivi"
+      ],
+      "answer": "Sügav, kuiv kaev kõrbes"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Rose'ist sai Egiptuse peaminister ja ta taasühines oma armastatud perega.",
+        "Ehitas suure laeva ja kutsus inimesi usku",
+        "Juhtis terve rahva Egiptuse orjusest välja",
+        "Sai kuningriigi ja valitsuse nähtamatu üle",
+        "Sai raske haiguse ajal kannatlikkust ja paranes"
+      ],
+      "answer": "Rose'ist sai Egiptuse peaminister ja ta taasühines oma armastatud perega."
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

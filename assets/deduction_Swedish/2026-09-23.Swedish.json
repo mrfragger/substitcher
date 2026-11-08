@@ -1,0 +1,61 @@
+{
+  "title": "Samtalet som uthärdade evigheter",
+  "intro": "Föreställ dig en själ som stod ensam mot en hel civilisation, fast besluten att vägleda dem tillbaka från vilseledande med orubblig beslutsamhet. I århundraden förkastades, hånades och avfärdades budskapet – men ansträngningarna upphörde aldrig. Så småningom kom en stor uppgörelse, och endast ett fåtal nådde frälsning vid sidan av denna orubbliga själ. Kan du identifiera denna figur från Koranen?",
+  "clues": [
+    "Jag sändes som en varnare till ett folk som gått vilse på sina egna vägar.",
+    "Jag uppmanade dem att söka förlåtelse och vända om från sina fel, men de vände sig bort.",
+    "Under gudomlig befallning konstruerade jag ett massivt fartyg medan mitt folk tittade på och hånade mig.",
+    "Jag åkallade oupphörligt min Herre – till slut svarade Han, och vatten öste fram från himlen i strömmar.",
+    "Jag gick ombord på fartyget med de troende när flodvattnet steg över land.",
+    "Jag ropade till en som hade stannat kvar och bad honom söka skydd på ett berg, men befallningen hade redan utfärdats."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Nuh",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Hud",
+        "Profeten Salih"
+      ],
+      "answer": "Profeten Nuh"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att bygga en stor ark och överleva en världsomfattande översvämning",
+        "Att kastas in i en flammande eld",
+        "Att konfrontera en tyrann och hans mäktiga magiker",
+        "Att bli uppslukad av en stor fisk",
+        "Bevittna dödandet av en helig kamelhona"
+      ],
+      "answer": "Att bygga en stor ark och överleva en världsomfattande översvämning"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En massiv träark på rasande flodvatten",
+        "En helig dal med forntida stenruiner",
+        "En djup grotta där kamrater sov i århundraden",
+        "Magen på en jätteval i havets djup",
+        "Ett högt berg av sten i vildmarken"
+      ],
+      "answer": "En massiv träark på rasande flodvatten"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Frälst med de troende ombord på fartyget",
+        "Räddades oskadda från elden genom gudomlig befallning",
+        "Ledde en stor utvandring ur ett mäktigt kungarike",
+        "Kastad ut från fisken till en karg strand",
+        "Ledde människor bort från orättfärdighet genom ett mirakulöst tecken"
+      ],
+      "answer": "Frälst med de troende ombord på fartyget"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

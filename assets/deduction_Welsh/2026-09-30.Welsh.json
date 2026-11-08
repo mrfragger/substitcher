@@ -1,0 +1,61 @@
+{
+  "title": "Yr Un Claf",
+  "intro": "Amser maith yn ôl, yn nyddiau cynharaf hanes dynolryw, safodd dau enaid gerbron eu Creawdwr gydag offrymau. Derbyniwyd un, ni dderbyniwyd un. Byddai'r hyn a ddilynodd yn dod yn drasiedi fawr gyntaf rhwng brodyr a chwiorydd - un weithred o ataliaeth amyneddgar ac un weithred o ddial chwerw. Allwch chi ddatgelu pwy ydw i?",
+  "clues": [
+    "Cefais fy ngeni yn ystod dyddiau cyntaf bodolaeth ddynol ar y ddaear",
+    "Roeddwn i'n blentyn i'r pâr cyntaf o fodau dynol i gerdded y ddaear hon erioed",
+    "Unwaith offrymais aberth o'r gorau o fy mhraidd i blesio fy Nghreawdwr",
+    "Derbyniwyd fy offrwm oddi uchod, tra gwrthodwyd offrwm fy nghwaer",
+    "Pan oeddwn i’n cael fy bygwth â marwolaeth, dewisais i beidio â chodi fy llaw yn erbyn fy nghwaer/chwaer",
+    "Fi oedd y person cyntaf yn holl hanes dynolryw i gael fy ladd ar gam gan rywun arall"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Habil (Abel), mab Adda",
+        "Qabil (Cain), mab Adda",
+        "Adda, y bod dynol cyntaf",
+        "Noa (Nuh)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), mab Adda"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Y llofruddiaeth gyntaf yn hanes dynolryw",
+        "Dilyw mawr Nuh",
+        "Dinistr byddin Fir'awn",
+        "Aberth Ismail gan Ibrahim",
+        "Y frwydr yn erbyn Jalut (Goliath)"
+      ],
+      "answer": "Y llofruddiaeth gyntaf yn hanes dynolryw"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Dafad a offrymwyd fel aberth dymunol",
+        "Arch bren fawr",
+        "Staff a drodd yn sarff",
+        "Aderyn hwpoe yn cario neges frenhinol",
+        "Ffos dân llachar"
+      ],
+      "answer": "Dafad a offrymwyd fel aberth dymunol"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Daeth yn ddioddefwr llofruddiaeth cyntaf yn hanes dynolryw",
+        "Goroesodd lifogydd mawr y tu mewn i long bren",
+        "Yn byw y tu mewn i fol pysgodyn mawr",
+        "Yn rheoli dros jinn, bodau dynol, a'r gwynt",
+        "Crwydrodd am ddeugain mlynedd mewn anialwch helaeth"
+      ],
+      "answer": "Daeth yn ddioddefwr llofruddiaeth cyntaf yn hanes dynolryw"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pagendatud lepingu rikkujad",
+  "intro": "Ühe tärkava kogukonna algusaegadel elas üks hõim kindlustatud elamutes, keda seob pakt. Kui see pakt reedeti, kajasid tagajärjed Koraani lehekülgedel. Kes need inimesed olid ja mis sai nende kodudest ja viljapuuaedadest?",
+  "clues": [
+    "Me elasime kindlustes, mis andsid meile vale turvatunde.",
+    "Me olime Pühakirja rahvas, aga me murdsime oma lepingu.",
+    "Me sepitsesime vandenõu sõnumitooja vastu pärast seda, kui ta meie juurde tuli, aga meie plaan nurjus.",
+    "Meie palmipuud raiuti maha Allahi käsul, mis on märk Tema väest.",
+    "Karistuseks meie vastuhaku eest aeti meid kodudest välja ja me ei saanud enam kunagi tagasi pöörduda.",
+    "Koraan mainib meid kogunemise peatükis ja meie lugu on hoiatuseks neile, kes lepinguid rikuvad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Madjani rahvas",
+        "Thamudi rahvas"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Piiramine ja kodudest väljaajamine",
+        "Uppumine meres",
+        "Maa alla neelata",
+        "Tormi poolt hävitamine",
+        "Ahvideks muutumine"
+      ],
+      "answer": "Piiramine ja kodudest väljaajamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Palmipuud maha raiutud",
+        "Personal",
+        "Laev",
+        "Vee kaev",
+        "Koobas"
+      ],
+      "answer": "Palmipuud maha raiutud"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Paguluses ja nende vara ära võetud",
+        "Tagasi võidukalt",
+        "Andestati ja jäid",
+        "Sisenes kohe paradiisi",
+        "Meid tabas katk"
+      ],
+      "answer": "Paguluses ja nende vara ära võetud"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

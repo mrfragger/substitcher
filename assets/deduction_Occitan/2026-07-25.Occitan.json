@@ -1,0 +1,61 @@
+{
+  "title": "Los Habitants dels Dos Jardins",
+  "intro": "Dins una tèrra ont las benediccions rajavan abondantament, una comunautat gaudissiá un còp de la riquesa de dos jardins magnifics. Lors vidas èran un testament de la favor divina, pasmens lor istòria prenguèt un viratge quand la gratitud s'escafava, menant a una transformacion que vendrà un signe duradís per totes los que reflexionan.",
+  "clues": [
+    "Èrem un pòble benesit d’una tèrra d’aisidança e d’abondància.",
+    "Nòstre Senhor nos concediguèt dos jardins esplendids, exuberants e fruchós de totes costats.",
+    "Èrem comandats d'èsser agraïts, mas causiguèrem l'ingratitud e nos desvièrem.",
+    "Un grand barratge retenguèt las aigas que donèron vida a nòstra tèrra.",
+    "Quand persistèrem dins nòstre malfach, lo barratge esclatèt e las aigas d'inondacion s'escobèron.",
+    "Nòstres jardins un còp exuberants foguèron remplaçats per de fruchas amaras, de tamariscs, e qualques arbres de lote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "La gent de Saba",
+        "Lo pòble de Thamud",
+        "Lo pòble de Madyan",
+        "Los Companhs de la Cava",
+        "Lo Pòble de l'Elefant"
+      ],
+      "answer": "La gent de Saba"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Un vent violent pendent sèt nuèches",
+        "Una pluèja de pèiras del cèl",
+        "Una inondacion destructiva d'un barratge en petaçon",
+        "Un crit fòrt del cèl",
+        "Afogar dins la mar"
+      ],
+      "answer": "Una inondacion destructiva d'un barratge en petaçon"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo grand barratge de Ma'rib",
+        "La vallée de Wadi al-Qura",
+        "L'òrt d'Iram",
+        "Lo potz de Zamzam",
+        "La montanha de Sinai"
+      ],
+      "answer": "Lo grand barratge de Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Nòstres òrts foguèron remplaçats per de fruchas amaras e d'arbres escasses",
+        "Foguèrem engolits per la tèrra dins un tèrratrem",
+        "Foguèrem transformats en simis e pòrcs",
+        "Foguèrem afogats dins una granda inondacion",
+        "Foguèrem destruits per una pluèja de pèiras"
+      ],
+      "answer": "Nòstres òrts foguèron remplaçats per de fruchas amaras e d'arbres escasses"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

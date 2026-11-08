@@ -1,0 +1,61 @@
+{
+  "title": "Mütləq Hakimiyyət İddiasında",
+  "intro": "Qədim dövrlərdə güclü bir şəxs geniş bir torpaq və onun sakinləri üzərində hökmranlıq etməyə yüksəlmişdi. Bu şəxsiyyətin hakimiyyəti böyük qürur və ilahi hakimiyyətə qarşı dərin bir meydan oxuma ilə yadda qalmışdı. Son taleyi bütün nəsillər üçün əbədi bir dərsə çevrilən bir ruhun kimliyini kəşf etməyə hazır olun.",
+  "clues": [
+    "Mən sözümün qanun olduğu qüdrətli bir imperiyaya hakim idim.",
+    "Özümü ali tanrı elan etdim və hakimiyyətim altında olan hər kəsdən ibadət tələb etdim.",
+    "Mən müəyyən bir icmaya zülm edir, onları kölələşdirir və körpə erkəklərinin öldürülməsini əmr edirdim.",
+    "Mənə və sehrbazlarımın qarşısında açıq-aydın möcüzələr göstərən Allahın təvazökar bir elçisi ilə dəfələrlə qarşılaşdım.",
+    "Mən inadkarlıqla həqiqəti rədd etdim, elçini sehrbazlıqda günahlandırdım və onu və ardıcıllarını məhv etmək üçün sui-qəsd hazırladım.",
+    "Əlimdən azad olanları amansızcasına təqib edərkən mən və bütün ordum dənizdə batmışdıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Nəmrud",
+        "Əbu Cəhil",
+        "İblis",
+        "Firon",
+        "Haman"
+      ],
+      "answer": "Firon"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük Daşqın",
+        "Yanan Od",
+        "Zülmkarın Boğulması",
+        "Külək tərəfindən məhv",
+        "Küfr Zəlzələsi"
+      ],
+      "answer": "Zülmkarın Boğulması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Nuhun gəmisi",
+        "Musanın əsası",
+        "Qızıl İdol",
+        "Zəmzəm Quyusu",
+        "Bilqis taxtı"
+      ],
+      "answer": "Musanın əsası"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Geniş bir səltənət verildi",
+        "Bədən əlamət olaraq qorunub saxlanılıb",
+        "Tövbədən sonra bağışlanma",
+        "Peyğəmbərlik dərəcəsinə yüksəldi",
+        "Onun xalqı dindar oldu"
+      ],
+      "answer": "Bədən əlamət olaraq qorunub saxlanılıb"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

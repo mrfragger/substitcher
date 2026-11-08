@@ -1,0 +1,61 @@
+{
+  "title": "Bangsa yang Menentang Tatanan Alam",
+  "intro": "Di wilayah yang kisahnya bergema sepanjang zaman, sebuah komunitas hidup dalam pemberontakan terbuka terhadap hukum kesucian. Perbuatan mereka begitu luar biasa sehingga dikenang sebagai peringatan bagi seluruh umat manusia. Siapakah jiwa-jiwa ini, dan nasib apa yang menimpa mereka?",
+  "clues": [
+    "Kami tinggal di suatu negeri di tepi jalan yang sering dilewati para pelancong, tetapi kami membuat perjalanan mereka berbahaya.",
+    "Kami melakukan tindakan tidak senonoh yang belum pernah dilakukan siapa pun di dunia sebelumnya.",
+    "Seorang utusan dari kalangan kami menyeru kami untuk meninggalkan jalan kami, tetapi kami menolaknya dan menuntut hukuman jika dia benar.",
+    "Ketika tamu-tamu tampan datang ke kota kami, kami berusaha menyerang mereka, tanpa mengetahui bahwa mereka adalah pembawa pesan kehancuran.",
+    "Kami telah diperingatkan akan hukuman yang mengerikan jika kami tidak berhenti, tetapi kami mengabaikan peringatan itu dan tetap berada dalam dosa kami.",
+    "Hujan batu dari langit menghujani kami, dan rumah-rumah kami terbalik, tidak meninggalkan jejak kecuali tanda bagi mereka yang merenung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang-orang Lut",
+        "Orang-orang Tsamud",
+        "Kaum A'ad",
+        "Penduduk Madyan",
+        "Penduduk Saba"
+      ],
+      "answer": "Orang-orang Lut"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Melakukan tindakan amoral yang belum pernah terjadi sebelumnya dan menghalangi jalan.",
+        "Menyembah anak lembu emas",
+        "Membunuh unta betina suci",
+        "Menipu dalam perdagangan dan merugikan rakyat",
+        "Membangun menara tinggi untuk menantang langit"
+      ],
+      "answer": "Melakukan tindakan amoral yang belum pernah terjadi sebelumnya dan menghalangi jalan."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Para malaikat menyamar sebagai tamu tampan.",
+        "Seekor unta betina muncul dari balik bebatuan.",
+        "Tongkat yang berubah menjadi ular",
+        "Sebuah perahu yang dibangun di atas gunung.",
+        "Api yang kemudian menjadi sejuk dan damai."
+      ],
+      "answer": "Para malaikat menyamar sebagai tamu tampan."
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Hancur diterjang hujan batu dari langit",
+        "Ditelan oleh bumi",
+        "Tenggelam dalam banjir besar",
+        "Terkena ledakan dahsyat",
+        "Berubah menjadi kera"
+      ],
+      "answer": "Hancur diterjang hujan batu dari langit"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Misiona i te Tāone Tawhito",
+  "intro": "He tāone tawhito puehu, ko ōna tāngata kua mau tonu ki te whakakāhore, me te whakatūpato whakamutunga kāore i arohia. I tēnei rā, tū atu ki te tūranga o te hunga i tonoa e Allah ki te kawe karere ki tētahi iwi uaua. He kōrero mō te whakakāhore, he reo whakapono motuhake, me te mutunga i hiritia e tētahi ture whakangaro. Ko wai te kōrero mā roto i ēnei tohu?",
+  "clues": [
+    "I tonoa mātou e Allah ki tētahi tāone kua tahuri kē tōna iwi i te pono",
+    "Tokorua mātou i tae tuatahi mai, kātahi ka tae mai tētahi tuatoru hei whakapakari i tā mātou kaupapa",
+    "I whakakahoretia mātou e te iwi, me te kī he tangata noa iho mātou pērā i a rātou",
+    "Kotahi te wairua i te pito rawa o te tāone i oma ki te kī atu ki te iwi kia whai i a mātou",
+    "I inoi mātou ki a rātou, engari i whakapakeketia e rātou ō rātou ngākau, ā, i tahuri ke mai ki a mātou",
+    "I roto i tētahi karanga whakamataku mai i te rangi, ka wahangu tō mātou tāone katoa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā Karere o te Tāone i roto i te Surah Ya-Sin",
+        "Te Hawwariyyun (Nga akonga a Isa)",
+        "Ngā Tohunga Makutu o te Kōti o Parao",
+        "Ngā Hoa o te Hāpati",
+        "Te Iwi o te Arewhana"
+      ],
+      "answer": "Ngā Karere o te Tāone i roto i te Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakakahoretia, ā, i kiia he hunga teka e te tangata o te tāone",
+        "I tahuna oratia i roto i te ahi nui e mura ana",
+        "I horomia e te ika nui i te moana hohonu",
+        "I akiakihia kia mahi i te hanga i tētahi pou tiketike",
+        "I whakamamaetia i roto i te awaawa o te ahi mura"
+      ],
+      "answer": "I whakakahoretia, ā, i kiia he hunga teka e te tangata o te tāone"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tāone tawhito (al-Qaryah)",
+        "He oumu nui e mura ana",
+        "Te puku o te ika nui",
+        "Ko te pou teitei e pa ana ki te rangi",
+        "Te Whare Tapu (Kaaba)"
+      ],
+      "answer": "Te tāone tawhito (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia te tāone e te karanga whakangaro kotahi (Sayha)",
+        "I toremi te kaitukino me tana ope taua i te moana pakaru",
+        "I hurihia te iwi hei makimaki me ngā makimaki",
+        "I whakangaromia te tāone e te ua kōhatu i te rangi",
+        "I horomia te hapori katoa e te waipuke nui"
+      ],
+      "answer": "I whakangaromia te tāone e te karanga whakangaro kotahi (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

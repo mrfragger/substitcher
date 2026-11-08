@@ -1,0 +1,61 @@
+{
+  "title": "Die Seelen des Schützengrabens",
+  "intro": "Du reist zurück in eine Zeit, in der ein skrupelloser Herrscher absolute Verehrung falscher Götter forderte. Eine kleine Gemeinschaft frommer Menschen weigerte sich und wurde daraufhin so schwer bestraft, dass sie auf ewig verflucht wurde. Ihre Geschichte hallt im Koran wider als Zeugnis unerschütterlichen Glaubens. Kannst du diese standhafte Gruppe identifizieren?",
+  "clues": [
+    "Wir lebten in einem Land unter der Tyrannei eines Herrschers, der die Verehrung falscher Götter forderte.",
+    "Unsere Gemeinschaft wurde allein aufgrund unseres Glaubens an Allah allein schwer verfolgt.",
+    "Der Herrscher befahl, einen großen Graben auszuheben und ihn mit heftigen Flammen zu befeuern.",
+    "Weil wir uns weigerten, unserem Glauben abzuschwören, wurden wir einer nach dem anderen in diese glühende Grube geworfen.",
+    "Unsere Geschichte wurde Teil des Korans, und diejenigen, die uns verfolgten, wurden auf ewig verflucht.",
+    "Die Sure, die unsere Prüfung aufzeichnet, ist nach den großen Himmelszeichen benannt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Gefährten des Grabens (Ashab al-Ukhdud)",
+        "Die Höhlenbewohner (Ashab al-Kahf)",
+        "Menschen des Sabbats",
+        "Menschen von A'ad",
+        "Volk der Thamud"
+      ],
+      "answer": "Gefährten des Grabens (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Unser Prozess",
+      "options": [
+        "Bei lebendigem Leibe in einer Feuergrube verbrannt werden",
+        "Viele Jahre lang in einer Höhle eingesperrt gewesen",
+        "Angeln am heiligen Ruhetag",
+        "Von einem heulenden Wind zerstört werden",
+        "Tötung einer heiligen Kamelstute"
+      ],
+      "answer": "Bei lebendigem Leibe in einer Feuergrube verbrannt werden"
+    },
+    "location": {
+      "label": "Das Schlüsselelement",
+      "options": [
+        "Ein lodernder Feuergraben",
+        "Eine versteckte Höhle mit einem treuen Hund",
+        "Hohe Säulen einer alten, dem Untergang geweihten Stadt",
+        "In Felswände gehauene Bergwohnungen",
+        "Eine offene Ebene, die von heftigen Winden gepeitscht wird."
+      ],
+      "answer": "Ein lodernder Feuergraben"
+    },
+    "outcome": {
+      "label": "Unser Ergebnis",
+      "options": [
+        "Wir wurden als Märtyrer getötet und die Verfolger wurden auf ewig verflucht.",
+        "Wir erwachten nach 309 Jahren Schlaf.",
+        "Für unser Vergehen wurden wir in Affen verwandelt.",
+        "Ein gewaltiger, heulender Wind hat uns alle vernichtet.",
+        "Ein einziger verheerender Schrei erschütterte unsere Existenz"
+      ],
+      "answer": "Wir wurden als Märtyrer getötet und die Verfolger wurden auf ewig verflucht."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

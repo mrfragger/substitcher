@@ -1,0 +1,61 @@
+{
+  "title": "Borliqqa Aytilgan",
+  "intro": "Muqaddas tarixdan tabiiy tartibni buzgan mo''jizalarni ko'tarib yurgan bir shaxs paydo bo'ladi. Bu ruh yagona ilohiy amr orqali yetib keldi, ota-onasini jiddiy ayblovlardan himoya qildi va yerdagi zanjirlar ularni bog'lashdan oldin bu dunyoni tark etdi. Hikoya oddiy beshikdan osmongacha bo'lgan voqealarni qamrab oladi. Bu kim bo'lishi mumkin?",
+  "clues": [
+    "Men Alloh tomonidan Isroil avlodiga mo''jiza va rahmat sifatida yuborildim.",
+    "Mening kelishim avvalgilariga o'xshamas edi — men ilohiy \"Bo'l!\" so'zi bilan dunyoviy otasiz paydo bo'ldim.",
+    "Ota-onam shafqatsiz tuhmatga duch kelishdi, ammo ularning aybsizligini e'lon qilish va mavqeini ko'tarish uchun muqaddas vahiy tushdi.",
+    "Yangi tug'ilgan go'dak sifatida, ota-onamning nomini oqlash uchun beshigimdan boshlab aniq gapirib, atrofdagilarni hayratda qoldirdim.",
+    "Allohning izni bilan men jonsiz loydan hayot yaratdim, ko'rlarga ko'z ochdim va qo'lim bilan moxovni davoladim.",
+    "Menga balo yetmasdan oldin osmonga ko'tarildim va oxirgi soat kelishidan oldin bu dunyoga qaytaman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Iso",
+        "Muso payg'ambar",
+        "Ibrohim payg'ambar",
+        "Yusuf payg'ambar",
+        "Payg'ambar Dovud"
+      ],
+      "answer": "Payg'ambar Iso"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Go'dakligida beshikdan turib gapirish",
+        "Katta baliqning qornida omon qolish",
+        "Yonayotgan olovga tashlanmoqda",
+        "To'fondan oldin katta kema qurish",
+        "Fir'avn saroyining sehriga duch kelish"
+      ],
+      "answer": "Go'dakligida beshikdan turib gapirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Injil (Xushxabar)",
+        "Tavrot (Tavrot)",
+        "Zabur (Zabur)",
+        "Suhuf (Ibrohimning kitoblari)",
+        "Dengizni ikkiga bo'ladigan tayoq"
+      ],
+      "answer": "Injil (Xushxabar)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Osmonga ko'tarilgan, Qiyomat kunidan oldin qaytib keladi",
+        "Isroil farzandlarini Misrdan olib chiqdi",
+        "Jinlar, odamlar va qushlar ustidan hukmronlik qiladigan shoh bo'ldi",
+        "Mo'minlar bilan ulkan suv toshqinidan omon qoldi",
+        "Makkada muqaddas uyni qurdi"
+      ],
+      "answer": "Osmonga ko'tarilgan, Qiyomat kunidan oldin qaytib keladi"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

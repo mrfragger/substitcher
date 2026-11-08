@@ -1,0 +1,61 @@
+{
+  "title": "Lentsoe la 'Nete la Mehleng ea Boholo-holo",
+  "intro": "Ho na le moea ka hare ho Quran oo pale ea oona e phetiloeng ka litemana tse 'maloa feela, leha ho le joalo litšobotsi tsa bona tse ntle li khanya ka ho hlaka ho hoholo. Mohlanka enoa oa boholo-holo oa Mohau ea Hlohonolofalitsoeng, ea rorisitsoeng ke Ea Matla 'Ohle ka lebaka la bokhabane bo ikhethang, o na le sebaka maqepheng a tšenolo. Mosebetsi oa hau ke ho khetholla motho enoa ea ikhethang. Na u ka hakanya hore na ke bo-mang?",
+  "clues": [
+    "Ke moprofeta oa Allah ea phetseng har'a meloko ea pele ea batho.",
+    "Allah o mpoleletse Bukeng ea Hae hammoho le baprofeta ba bang, bohle ba rorisoa ka bokhabane bo tšoanang bo botle.",
+    "Ke hlalosoa ke le monna oa 'nete ho Quran.",
+    "Allah o nthusitse boemong bo phahameng boo ba bang ba seng bakae ba bo fihletseng.",
+    "Lebitso la ka le boletsoe ho Surah Al-Anbiya, le kopantsoe le baprofeta ba bang ba babeli ba rorisoang ka mamello ea bona.",
+    "Ke Idris, moporofeta ea nang le 'nete le ea phahameng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Idris",
+        "Moprofeta Nuh",
+        "Moprofeta Ibrahim",
+        "Moprofeta Musa",
+        "Moprofeta Ismail"
+      ],
+      "answer": "Moprofeta Idris"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho boloka mamello le 'nete, ebe o phahamisetsoa boemong bo phahameng",
+        "Ho haha ​​​​areka e kholo ho pholosa balumeli moroallong o senyang",
+        "Ho lahleloa mollong o tukang le ho tsoa ntle le kotsi ka ho feletseng",
+        "Ho tobana le morena ea matla le ho hlola lebotho la hae la linohe",
+        "Ho phela ka hare ho mpa ea tlhapi e kholo botebong ba leoatle"
+      ],
+      "answer": "Ho boloka mamello le 'nete, ebe o phahamisetsoa boemong bo phahameng"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Sebaka se phahameng le se phahameng se tsoang ho Allah",
+        "Sekepe se seholo se hahiloeng ka mapolanka 'me se lahleloa ka sekontiri",
+        "Mollo o tukang o hotetsoang ke barapeli ba litšoantšo ba morena ea khopo",
+        "Leoatle le leholo le ileng la arohana litsela tse omileng",
+        "Mpa e lefifi ea leruarua le leholo botlaaseng ba leoatle"
+      ],
+      "answer": "Sebaka se phahameng le se phahameng se tsoang ho Allah"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "A amoheloa mohaung oa Allah e le e mong oa ba lokileng",
+        "Ba pholositsoe hammoho le balumeli bohle moroallong oa lefatše lohle",
+        "Ke tsamaile ka ntle ho malakabe a sa angoang ke mollo",
+        "O ile a etella pele Bana ba Iseraele ka polokeho ho ea tokolohong ho tšela leoatle",
+        "Ba kopane hape le lelapa la bona le ratoang ka mor'a lilemo tse telele tsa mathata"
+      ],
+      "answer": "A amoheloa mohaung oa Allah e le e mong oa ba lokileng"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dārza sargi",
+  "intro": "Sulīgā dārzā kopiena deva svinīgu solījumu. Taču viņu apņēmība tika pārbaudīta, kad iejaucās dievišķā griba, pārvēršot viņu bagātības neauglīgā zemē.",
+  "clues": [
+    "Mums bija svētīts bagātīgs dārzs, bet mēs kļuvām augstprātīgi.",
+    "Mēs izstrādājām plānu novākt ražu, nedaloties ar nabagiem.",
+    "Mēs devāmies ceļā agri no rīta, pārliecināti par savu plānu.",
+    "Bet, kad mēs ieradāmies, mēs atklājām, ka mūsu dārzs ir iznīcināts pa nakti.",
+    "Mēs sapratām savu kļūdu un sākām vainot viens otru.",
+    "Mēs beidzot nožēlojām grēkus, bet mācība tika apgūta pārāk vēlu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Dārza ļaudis",
+        "Alas ļaudis",
+        "Ziloņu ļaudis",
+        "Tamudas iedzīvotāji",
+        "Reklāmas cilvēki"
+      ],
+      "answer": "Dārza ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Dārzs pārvērtās pelnos",
+        "Plūdi, kas visu iznīcināja",
+        "Bads, kas piemeklēja zemi",
+        "Putnu armija uzbrūk",
+        "Liels vējš, kas izrāva kokus ar saknēm"
+      ],
+      "answer": "Dārzs pārvērtās pelnos"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Dārzs",
+        "Ala",
+        "Kuģis",
+        "Kalns",
+        "Pils"
+      ],
+      "answer": "Dārzs"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņi nožēloja grēkus, bet zaudēja savu dārzu",
+        "Tie tika pilnībā iznīcināti",
+        "Viņi tika pārvērsti par pērtiķiem",
+        "Viņi tika glābti ticībā",
+        "Viņi kļuva par valdniekiem"
+      ],
+      "answer": "Viņi nožēloja grēkus, bet zaudēja savu dārzu"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

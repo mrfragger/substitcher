@@ -1,0 +1,61 @@
+{
+  "title": "Výkřik z hlubin",
+  "intro": "Služebník Nejmilosrdnějšího se unavil tvrdohlavým národem a odešel dříve, než mu bylo uděleno svolení. Tento jedinec skončil na místě, kde nikdy žádný člověk nebyl, kde volání k Božství podivně zní skrz vrstvy temnoty. Vynořila se oslabená, ale proměněná, tato duše se stala nadčasovou lekcí trpělivosti, upřímného pokání a bezmezného milosrdenství Stvořitele. Dokážete rozluštit záhadu?",
+  "clues": [
+    "Byl jsem poslán jako posel ke svému lidu, ale oni ve své nevíře překročili veškeré meze a odmítli naslouchat.",
+    "Rozzlobil jsem se na jejich odmítnutí a uprchl jsem od svého lidu dříve, než přišel Alláhův příkaz.",
+    "Nastoupil jsem na loď naloženou nad rámec své kapacity a losovali jsme, kdo bude hozen přes palubu.",
+    "Byl jsem vržen do rozbouřeného moře a spolkla mě velká ryba.",
+    "Uvězněn ve třech vrstvách temnoty – v břiše, hlubokém moři a zemi pod námi – jsem volal k svému Pánu v upřímné lítosti.",
+    "Vynořil jsem se z ryby na otevřený břeh, slabý a unavený, a nade mnou se rozrostla tykev. Můj lid, sto tisíc nebo i více, konečně uvěřil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Júnus",
+        "Prorok Ayyub",
+        "Prorok Jusuf",
+        "Prorok Músa",
+        "Prorok Sulajmán"
+      ],
+      "answer": "Prorok Júnus"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Spolknuto velkou rybou",
+        "Vhozen do planoucího ohně",
+        "Uvězněni na dně studny",
+        "Zahlceni velkou povodní",
+        "Nespravedlivě uvězněn králem"
+      ],
+      "answer": "Spolknuto velkou rybou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Břicho velké ryby",
+        "Posvátné údolí poblíž Kaaby",
+        "Archa odpočívající na hoře",
+        "Hůl, která se proměnila v hada",
+        "Trůn bezkonkurenční vznešenosti"
+      ],
+      "answer": "Břicho velké ryby"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Jeho lid, sto tisíc nebo i více, uvěřil",
+        "Zaživa vzneseni k nebesům",
+        "Stal se vládcem bezkonkurenčního království",
+        "Zničen pronikavým pláčem z nebe",
+        "Převráceno ničivým zemětřesením"
+      ],
+      "answer": "Jeho lid, sto tisíc nebo i více, uvěřil"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

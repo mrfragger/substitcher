@@ -1,0 +1,61 @@
+{
+  "title": "Déi onopgehéiert Stëmm vun de Joerhonnerte",
+  "intro": "An enger Zäit laang ier déi grouss Stied entstane sinn, ass eng eenzeg Séil ënner engem Vollek opgestan, dat sech vun der Wourecht ewechgedréit hat. Hir Sturheet gouf nëmme vun der Gedold vun dësem eenzege Ruffer gläichgestallt, deen duerch Generatiounen gebiet huet, ouni d'Entschlossenheet ze verléieren. Wéi all Warnungen op taub Oueren gefall sinn, huet eng ongehéiert Ofrechnung d'Äerd selwer nei geformt. Haut kléngen d'Echoe vun där Geschicht nach ëmmer duerch all Rezitatioun. Kënnt Dir dës resolut Séil identifizéieren?",
+  "clues": [
+    "Ech sinn ënner engem Vollek opgewuess, dat falsch Gëtzendénger ugebiet huet an d'Zeeche ronderëm si ignoréiert huet, awer ech gouf gewielt, fir si aus hirer Onvorsichtegkeet z'erwächen.",
+    "Ech hunn ëmmer erëm meng Leit geruff, mä si hunn mech beschëllegt, näischt anescht ze sinn wéi si, hunn meng Botschaft veruerteelt an hir Oueren zougedeckt.",
+    "Dag an Nuecht hunn ech si mat Wäisheet a sanften Erënnerungen ugefléckt, mä meng Wierder schéngen an der Loft verschwonnen ze sinn, onerhéiert an net berécksiichtegt.",
+    "Ënner göttlecher Instruktioun hunn ech e grousst Schëff aus Holz a Planken op dréchenem Land gebaut, a mäi Vollek huet mech ausgelacht, wéi wann ech de Verstand verluer hätt.",
+    "Wéi déi grouss Iwwerschwemmung koum, wéi versprach, huet mäin eegene Jong refuséiert, mat mir un d'Schëff ze goen, well hie gegleeft huet, datt e Bierg hie virum steigende Waasser géif schützen.",
+    "Ech sinn de Patriarch vun engem neien Ufank op der Äerd ginn, a meng Geschicht ass an engem Kapitel vum Koran erhalen, dat mäin Numm dréit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Lut",
+        "Prophet Hud"
+      ],
+      "answer": "Prophet Nuh"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Déi grouss Iwwerschwemmung, déi d'Äerd nei geformt huet",
+        "Vun den Ofgottdénger an e flammend Feier gehäit ginn",
+        "Konfrontatioun mat de Magier vum Pharao am Palais",
+        "D'Zerstéierung vun de räiche Gäert duerch en himmlesche Stuerm",
+        "D'Ëmkierzung vun den Trenchbewunner"
+      ],
+      "answer": "Déi grouss Iwwerschwemmung, déi d'Äerd nei geformt huet"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark aus Holz a Planken gebaut",
+        "Dat hellegt Haus, dat op ale Fundamenter gebaut gouf",
+        "De Staff, deen sech an eng Schlaang verwandelt huet",
+        "D'Höhl vun de schlofende Jugendlechen",
+        "Den Troun, deen vun enger mächteger Kreatur gedroe gëtt"
+      ],
+      "answer": "D'Ark aus Holz a Planken gebaut"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Déi Ongleeweg sinn erdronk, während déi Gleeweg u Bord vum Schëff gerett goufen",
+        "D'Feier ass kal a sécher ginn, an den Uruffenden ass ouni Verletzungen dovunner komm.",
+        "D'Magier hunn sech op d'Knéie gefall an de Glawen ugeholl",
+        "De Gaart gouf dem gerechte Noper amplaz dovunner geschenkt",
+        "D'Schlofer sinn no Joerhonnerte erwächt, transforméiert"
+      ],
+      "answer": "Déi Ongleeweg sinn erdronk, während déi Gleeweg u Bord vum Schëff gerett goufen"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

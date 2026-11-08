@@ -1,0 +1,61 @@
+{
+  "title": "Jehona e Mashtrimit",
+  "intro": "Një lidhje farefisnore u vu në provë nga një valë zilie. U kurdis një plan sekret, duke vënë në lëvizje një zinxhir ngjarjesh që do të shtriheshin në vite dhe do të kalonin distanca të gjera. Veprimet e këtij grupi çuan në ndarje dhe pikëllim të thellë, por historia nuk mbaroi aty. Është një rrëfim mashtrimi, keqardhjeje dhe shpalosjes përfundimtare të një plani hyjnor. A mund ta zbuloni identitetin e këtyre individëve, zgjedhjet e të cilëve jehonin nëpër breza?",
+  "clues": [
+    "Na kishte pushtuar xhelozia për dashurinë që i tregonim njërit prej nesh.",
+    "Nga zilia jonë, ne komplotuam së bashku dhe e hodhëm vëllain/vëllain tonë në errësirën e një pusi.",
+    "Për të fshehur veprën tonë, i dhuruam babait tonë një veshje të njollosur me gjak të rremë.",
+    "Vite më vonë, një zi e madhe buke na detyroi të udhëtonim për në Egjipt për të kërkuar furnizime.",
+    "Atje, ne dolëm para një guvernatori të fuqishëm i cili, pa dijeninë tonë, ishte pikërisht vëllai/motra të cilit i kishim bërë padrejtësi.",
+    "Testi ynë i fundit ishte të sillnim vëllain tonë më të vogël, Benjaminin, gjë që çoi në zbulimin e së kaluarës sonë dhe të babait tonë që ishte Profeti Jakub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jemi ne?",
+      "options": [
+        "Bijtë e Adamit (Kabili dhe Habili)",
+        "Dishepujt e Profetit Isa",
+        "Vëllezërit e Profetit Jusuf",
+        "Populli i Medjenit",
+        "Magjistarët e Faraonit"
+      ],
+      "answer": "Vëllezërit e Profetit Jusuf"
+    },
+    "trial": {
+      "label": "Cili ishte veprimi ynë kryesor i gabuar?",
+      "options": [
+        "Ndërtimi i një viçi të artë për adhurim",
+        "Kërkesa për ta parë Allahun drejtpërdrejt",
+        "Tallja e një profeti për ndërtimin e një arke",
+        "Duke mashtruar babanë tonë dhe duke braktisur vëllain tonë",
+        "Thyerja e Sabatit me anë të peshkimit"
+      ],
+      "answer": "Duke mashtruar babanë tonë dhe duke braktisur vëllain tonë"
+    },
+    "location": {
+      "label": "Cili objekt ishte qendror në mashtrimin tonë?",
+      "options": [
+        "Një set tabletash të gdhendura",
+        "Një këmishë e njollosur me gjak të rremë",
+        "Një viç i artë",
+        "Një zog i bukur (Pupla)",
+        "Një shkop që u shndërrua në gjarpër"
+      ],
+      "answer": "Një këmishë e njollosur me gjak të rremë"
+    },
+    "outcome": {
+      "label": "Cili ishte rezultati përfundimtar i historisë sonë?",
+      "options": [
+        "Ne u shkatërruam nga një përmbytje e fuqishme",
+        "Ne u shndërruam në majmunë",
+        "Na gëlltiti toka",
+        "Ne u falëm dhe u ribashkuam me familjen tonë",
+        "Ne u mbytëm në det"
+      ],
+      "answer": "Ne u falëm dhe u ribashkuam me familjen tonë"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

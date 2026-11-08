@@ -1,0 +1,61 @@
+{
+  "title": "A proba da rocha árida",
+  "intro": "Unha comunidade, hábil e orgullosa, gravou o seu legado nas propias montañas. Pero cando se lles enviou un sinal claro, unha proba de fe e moderación, a súa arrogancia levounos por un camiño sen retorno. Podes identificar este grupo e as consecuencias do seu desafío?",
+  "clues": [
+    "Eramos mestres da pedra, esculpindo magníficas vivendas directamente nas ladeiras das montañas.",
+    "Un mensaxeiro de entre a nosa propia xente veu a nós, chamándonos a adorar ao Único Deus Verdadeiro.",
+    "Esiximos un sinal para probar as súas palabras, e presentouse unha criatura única como proba para nós.",
+    "Déronnos unha orde sinxela: compartir a nosa fonte de auga con esta criatura, deixándoa beber no día designado.",
+    "Na nosa arrogancia, uns poucos de nós conspiraron e desafiamos o aviso, derrotando a criatura que debía ser o noso sinal.",
+    "Déronnos tres días antes da nosa condena, e entón unha forte explosión apoderouse de nós nas nosas casas, deixándonos sen vida e derrubados."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Xente de 'Ad",
+        "Xente de Madyan",
+        "Xente de Thamud",
+        "Xente de Saba",
+        "Xente de Lut"
+      ],
+      "answer": "Xente de Thamud"
+    },
+    "trial": {
+      "label": "Cal foi a nosa proba principal?",
+      "options": [
+        "Construíndo unha arca para sobrevivir a unha inundación",
+        "Resistindo as ganas de pescar no sábado",
+        "Abandono de prácticas comerciais fraudulentas",
+        "Protexendo unha cameloa milagrosa",
+        "Soportando unha fame de sete anos"
+      ],
+      "answer": "Protexendo unha cameloa milagrosa"
+    },
+    "location": {
+      "label": "Cal foi o elemento central da nosa historia?",
+      "options": [
+        "O Becerro de Ouro",
+        "A cameloa",
+        "O bastón do profeta Musa",
+        "A Gran Presa de Ma'rib",
+        "A mesa posta dende o ceo"
+      ],
+      "answer": "A cameloa"
+    },
+    "outcome": {
+      "label": "Cal foi o noso destino final?",
+      "options": [
+        "Afogado nun gran diluvio",
+        "Convertidos en monos e porcos",
+        "Abrumado por un vento furioso",
+        "Espallados pola rotura dunha presa",
+        "Destruído por unha forte explosión/terremoto"
+      ],
+      "answer": "Destruído por unha forte explosión/terremoto"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

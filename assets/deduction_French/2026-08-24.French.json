@@ -1,0 +1,61 @@
+{
+  "title": "Les auditeurs cachés qui croyaient",
+  "intro": "Dans le silence d'une assemblée sacrée, une communauté extraordinaire arriva d'un royaume invisible. Attirés par des murmures de merveilles, ils écoutèrent une récitation qui scellerait leur destin à jamais. Leur témoignage demeure l'un des plus singuliers des Écritures.",
+  "clues": [
+    "Nous sommes des êtres venus d'un royaume invisible à la plupart, et nous sommes venus en groupe.",
+    "Nous avons fait le déplacement vers un rassemblement pour entendre quelque chose de remarquable.",
+    "À notre arrivée, nous avons assisté à une récitation qui nous a émerveillés.",
+    "Nous avons ouvertement reconnu que certains d'entre nous sont justes et d'autres ne le sont pas.",
+    "Nous savions que nous ne pouvions échapper au décret divin ni sur terre, ni en nous envolant dans les cieux.",
+    "Lorsque nous avons entendu ces paroles, nous y avons cru ; celui qui croit en son Seigneur ne craindra ni la perte ni le fardeau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Un groupe de djinns",
+        "Le peuple d'Iram",
+        "Le peuple de Tubba'",
+        "L'Empire romain",
+        "La tribu de Quraysh"
+      ],
+      "answer": "Un groupe de djinns"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Écouter une récitation sacrée",
+        "Ériger de hauts piliers dans notre ville",
+        "Chasse à une magnifique chamelle",
+        "Être détruits pour avoir tué nos prophètes",
+        "Multiplier la richesse au-delà de toute mesure"
+      ],
+      "answer": "Écouter une récitation sacrée"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un rassemblement de récitation sacrée",
+        "Une ville aux hautes colonnes (Iram)",
+        "Un puits dans le désert",
+        "Un grand palais d'or",
+        "Une grotte sacrée dans les montagnes"
+      ],
+      "answer": "Un rassemblement de récitation sacrée"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Nous avons cru et nous avons averti notre peuple",
+        "Détruit par une puissante explosion venue du ciel",
+        "Punis par un vent brûlant et destructeur",
+        "Doté d'une immense richesse et d'un immense pouvoir",
+        "Il est resté inébranlable dans son incrédulité"
+      ],
+      "answer": "Nous avons cru et nous avons averti notre peuple"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

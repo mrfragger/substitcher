@@ -1,0 +1,61 @@
+{
+  "title": "Korkuyu beraberinde getiren misafirperverlik",
+  "intro": "Kötülüğün kol gezdiği bir şehirde, sadık bir hizmetkâr bir gün beklenmedik ziyaretçilerle karşılaştı. Güvenliklerinden endişe eden bu kişi, onları korumayı teklif etti, ancak şehrin halkı utanç verici bir şey talep etti. Yaklaşan bir felaketin habercisi olan hizmetkâr, karanlıkta ailesiyle birlikte kaçtı ve yıkıma mahkum edilmiş bir şehri geride bıraktı. Bu yalnız inançlı kişi kimdir?",
+  "clues": [
+    "Ben, utanç verici işlere karışmış bir halka elçi olarak gönderildim.",
+    "Evime beklenmedik misafirler geldi ve kendi güvenliğimden çok onların güvenliği için endişelendim.",
+    "Halkım, misafirlerimi kötü niyetlerle görmek istedi ve ben de onları ikna etmeye çalıştım.",
+    "Ziyaretçilerim kendilerini melek olarak tanıttılar ve bana ailemi alıp geceleyin oradan ayrılmamı emrettiler.",
+    "Eşim kaçma çağrısına kulak asmadı ve benim halkım gibi aynı yıkımla karşı karşıya kaldı.",
+    "Şehrim, katmanlı kilden oluşan taş yağmuruyla altüst oldu, en yüksek yerleri en dibe vurdu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Lut",
+        "Peygamber Musa",
+        "Peygamber İbrahim",
+        "Peygamber Nuh",
+        "Peygamber Hud"
+      ],
+      "answer": "Peygamber Lut"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Halkımın misafirlerime kötü niyetle yaklaşma talebi.",
+        "Bir tiranın zulmünden kaçmak için denizin ikiye ayrılması",
+        "Alay konusu olan büyük bir Nuh'un gemisinin inşası",
+        "Oğlumun iman sınavındaki fedakarlığı",
+        "Büyük bir balık tarafından yutulma deneyimi"
+      ],
+      "answer": "Halkımın misafirlerime kötü niyetle yaklaşma talebi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Halkımın yerle bir olmuş şehri",
+        "İlahi sözleri aldığım dağ.",
+        "Büyük bir tufanın içinden geçen gemi",
+        "Kayadan çıkan dişi deve",
+        "Gizli bir dürüst ziyaretçinin bulunduğu bahçe"
+      ],
+      "answer": "Halkımın yerle bir olmuş şehri"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Şehrimiz yerle bir edilmeden önce ailemle birlikte kurtarıldım.",
+        "Halkımı denizin ötesine, özgürlüğe götürdüm.",
+        "Büyük bir gemi inşa ettim ve büyük bir selden sağ kurtuldum.",
+        "Rüzgarlar ve cinler üzerinde egemenlik bana verildi.",
+        "Sabırla acılara katlandım ve bunun karşılığında aile sahibi oldum."
+      ],
+      "answer": "Şehrimiz yerle bir edilmeden önce ailemle birlikte kurtarıldım."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

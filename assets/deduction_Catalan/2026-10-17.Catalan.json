@@ -1,0 +1,61 @@
+{
+  "title": "L'anhel a la Cambra Sagrada",
+  "intro": "Entres al santuari silenciós i veus un servent devot d'Al·là dret en oració. Té les mans aixecades, els ulls alçats i el cor porta un anhel que ha abastat tota una vida. Qui és aquesta ànima pacient, la confiança de la qual en Al·là mai ha flaquejat?",
+  "clues": [
+    "Vaig passar llargs anys en adoració i oració, presenciant miracles que van enfortir la meva fe.",
+    "Em van donar la responsabilitat de cuidar d'una jove ànima beneïda al santuari.",
+    "A mesura que em feia vell, el meu dolor més gran era no tenir fills, ja que la meva dona era estèril i tots dos érem avançats en edat.",
+    "Vaig pregar al meu Senyor per un successor de la meva pròpia família, algú que continués el llegat de la profecia.",
+    "Mentre estava dret al nínxol de l'oració, els àngels em van cridar dient: \"Al·là et dóna bones noves\", i em va colpir la por i el respecte.",
+    "Em van dir que tindria un fill que es diria Yahya, un nom que no s'havia posat mai a ningú abans, i com a senyal que no parlaria amb la gent durant tres dies."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Zacaries",
+        "Profeta Yahya",
+        "Profeta Isa",
+        "Profeta Dawud",
+        "Luqman el Savi"
+      ],
+      "answer": "Profeta Zacaries"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Esterilitat i vellesa mentre es desitja un hereu just",
+        "Ser llançat a un foc ardent",
+        "Ser engolit per un gran peix",
+        "Perdre un regne a mans d'un tirà",
+        "Ser exiliat de la pàtria"
+      ],
+      "answer": "Esterilitat i vellesa mentre es desitja un hereu just"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El nínxol d'oració (mihrab)",
+        "El gran vaixell (Arca)",
+        "L'arbust ardent",
+        "El bastó que es va convertir en una serp",
+        "La camella d'Al·là"
+      ],
+      "answer": "El nínxol d'oració (mihrab)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Va rebre un fill just i va tornar a parlar després de tres dies de silenci",
+        "Destruït per una inundació per incredulitat",
+        "Donat un vast regne i control sobre el vent",
+        "Sorgit del ventre d'un peix",
+        "Engolit per la terra"
+      ],
+      "answer": "Va rebre un fill just i va tornar a parlar després de tres dies de silenci"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

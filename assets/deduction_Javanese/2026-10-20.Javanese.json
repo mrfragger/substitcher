@@ -1,0 +1,61 @@
+{
+  "title": "Arsitek Ambisi Palsu",
+  "intro": "Tokoh sing nduweni panguwasa gedhe tau ngladeni salah sawijining tiran paling kondhang ing sejarah Mesir kuna. Wong iki diwenehi prentah sing wani - kanggo mbangun struktur sing dimaksudake kanggo nglawan swarga. Kisahe ana ing Al-Qur'an minangka piwulang sing narik kawigaten babagan kepiye kepatuhan sing wuta marang kesombongan mung ndadékaké karusakan.",
+  "clues": [
+    "Aku ngladèni ing kratoné sawijining panguwasa sing kuwasa sing ngaku dadi dewa ing tanah-tanah kono.",
+    "Aku njabat jabatan menteri tinggi, menehi saran marang tiran paling sombong ing jamanku.",
+    "Panggedhe kula kebak tantangan marang Gusti Allahe Nabi Musa, sing ora diakoni dening wong-wong mau.",
+    "Aku diprentahake supaya mbangun menara saka bata sing diobong geni supaya panguwasaku bisa munggah menyang swarga.",
+    "Menara iku ora tau tekan langit, lan pangabdianku marang kesombongan ndadekake aku nandhang wirang langgeng.",
+    "Aku mati bareng karo wong sing tak turuti, lan jenengku dadi pepéling langgeng marang wong-wong sing mènèhi kekuwatan marang para tiran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Haman",
+        "Azar (bapake Ibrahim)",
+        "Ilyas (nabi)",
+        "Dhu al-Kifl",
+        "Harut (salah siji saka rong malaikat ing Babilon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Diprentahake supaya mbangun struktur sing dhuwur supaya bisa tekan swarga",
+        "Dijaluk nerjemahake impen sing dikirim saka dewa",
+        "Dibuwang menyang geni sing murub minangka ujian iman",
+        "Kepeksa milih antarane tahta lan bebener",
+        "Ditantang ing kontes sihir"
+      ],
+      "answer": "Diprentahake supaya mbangun struktur sing dhuwur supaya bisa tekan swarga"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Menara bata sing dibakar nganggo geni",
+        "Teken sing malih dadi ula",
+        "Kapal sing ngliwati banjir gedhe",
+        "Taman sing diubengi tembok sing dhuwur",
+        "Tahta sing dihias nganggo watu mirah lan emas"
+      ],
+      "answer": "Menara bata sing dibakar nganggo geni"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Kelelep bareng karo penindas ing segara",
+        "Dadi raja sing kuat ing tanah sing jembar",
+        "Luput saka geni sing murub tanpa tatu",
+        "Mbangun kraton kang makmur kanthi kawicaksanan",
+        "Wis ketemu maneh karo kulawarga sawise pirang-pirang taun dikucilke"
+      ],
+      "answer": "Kelelep bareng karo penindas ing segara"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

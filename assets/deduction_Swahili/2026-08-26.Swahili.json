@@ -1,0 +1,61 @@
+{
+  "title": "Wivu Uliotumiwa",
+  "intro": "Hadithi ya zamani kuliko ufalme wowote au maandiko—msiba wa kwanza wa mwanadamu uliotokana na wivu. Nafsi moja, mkubwa wa watoto wawili waliozaliwa na wazazi wa kwanza, ilitazama kwa hasira huku ndugu mdogo akipokea kibali ambacho kilikataliwa. Kilichofuata kilikuwa chaguo jeusi zaidi, ikiacha damu ya kwanza kumwagwa duniani. Je, unaweza kufichua utambulisho, jaribio, na majuto machungu?",
+  "clues": [
+    "Nilizaliwa na jozi ya kwanza kabisa ya wanadamu kutembea duniani.",
+    "Niliwahi kutoa sadaka kwa Mwenyezi Mungu, lakini haikukubaliwa kutoka kwangu.",
+    "Sadaka ya ndugu yangu ilikubaliwa, huku yangu ikikataliwa—jambo ambalo sikuweza kuvumilia.",
+    "Nilimtishia kaka yangu mwenyewe kwa uharibifu.",
+    "Nikawa wa kwanza kufanya mauaji hapa duniani, nikichukua uhai wa ndugu yangu mwenyewe.",
+    "Mwenyezi Mungu alituma kiumbe wa ardhini—ndege mweusi akichimba ardhini—kunifundisha jinsi ya kuficha nilichokuwa nimefanya, nami nikabaki na majuto tu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Qabil (Kaini)",
+        "Habili (Abeli)",
+        "Nabii Yaqub",
+        "Nabii Musa",
+        "Nabii Adamu"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Sadaka iliyokataliwa na Mwenyezi Mungu",
+        "Kutupwa kwenye moto mkubwa",
+        "Aliachwa akiwa mtoto mtoni",
+        "Imejaribiwa na ufalme mkubwa",
+        "Aliamriwa kumtoa mwanawe kafara"
+      ],
+      "answer": "Sadaka iliyokataliwa na Mwenyezi Mungu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kunguru aliyetumwa na Mwenyezi Mungu",
+        "Ndama wa dhahabu",
+        "Sanduku juu ya mlima",
+        "Kichaka kinachowaka moto",
+        "Ngamia jike aliyechongwa kutoka kwenye mwamba"
+      ],
+      "answer": "Kunguru aliyetumwa na Mwenyezi Mungu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Nilijawa na majuto na miongoni mwa walioshindwa",
+        "Imemezwa ardhini pamoja na hazina",
+        "Akawa mjumbe mtukufu wa Mwenyezi Mungu",
+        "Aliingia Peponi kwa rehema ya Mungu",
+        "Alitawala ufalme usio na kifani"
+      ],
+      "answer": "Nilijawa na majuto na miongoni mwa walioshindwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

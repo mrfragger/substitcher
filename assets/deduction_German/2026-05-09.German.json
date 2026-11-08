@@ -1,0 +1,61 @@
+{
+  "title": "Die verblassenden Gärten des Wohlstands",
+  "intro": "In einem Land, das im Überfluss gesegnet war, blühte eine Gemeinschaft auf, die inmitten göttlicher Gnade lebte. Ihr Wohlstand zeugte von der Gunst ihres Herrn, ein Geschenk, das Dankbarkeit und Gehorsam wecken sollte. Doch trotz der deutlichen Zeichen ihres Segens kam ein Wendepunkt, der ihre Wertschätzung für die Quelle ihres immensen Reichtums und Komforts auf die Probe stellte.",
+  "clues": [
+    "Wir hatten das Glück, zwei Gärten zu besitzen, einen rechts und einen links, die reichlich mit Erzeugnissen versorgt waren.",
+    "Uns wurde geboten, von der Versorgung unseres Herrn zu essen und Ihm dankbar zu sein für ein gutes Land und einen vergebenden Herrn.",
+    "Wir wurden arrogant und wandten uns vom Weg der Dankbarkeit ab, indem wir mit unserem Reichtum und unserer Macht prahlten.",
+    "Wir verlangten von unserem Herrn, die Entfernung zwischen unseren Reisen zu vergrößern, und zeigten damit unsere Verachtung für die Leichtigkeit, die er uns gewährt hatte.",
+    "Wir wurden von einem Boten gewarnt, aber wir wiesen die Botschaft zurück und verharrten in unserer Unachtsamkeit.",
+    "Unser großer Staudamm, der unseren Wohlstand sicherte, brach schließlich, was zu einer verheerenden Flut führte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Volk der Thamud",
+        "Menschen von Midian",
+        "Leute von 'Aad",
+        "Volk von Lut",
+        "Die Bevölkerung von Saba"
+      ],
+      "answer": "Die Bevölkerung von Saba"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Hungersnot und Dürre",
+        "Invasion durch eine mächtige Armee",
+        "Ein verheerendes Erdbeben",
+        "Eine verheerende Flut nach einem Dammbruch",
+        "Unterdrückung durch einen tyrannischen Herrscher"
+      ],
+      "answer": "Eine verheerende Flut nach einem Dammbruch"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein goldenes Kalb",
+        "Eine wundersame Kamelstute",
+        "Ein großartiger Staudamm",
+        "Ein hoch aufragendes Bauwerk",
+        "Ein tiefer Brunnen"
+      ],
+      "answer": "Ein großartiger Staudamm"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wir wurden in Affen und Schweine verwandelt.",
+        "Wir wurden gerettet und wanderten in ein neues Land aus.",
+        "Wir wurden zerstreut und unser Land wurde unfruchtbar.",
+        "Wir stiegen in den Himmel auf.",
+        "Wir haben ein neues, wohlhabenderes Königreich errichtet."
+      ],
+      "answer": "Wir wurden zerstreut und unser Land wurde unfruchtbar."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Scout oyo azali na nsala",
+  "intro": "Na kati ya bokonzi oyo etambwisamaki na moto oyo apesamaki bokonzi likoló na mipɛpɛ, bikelamu oyo emonanaka te, mpe bikelamu ya likoló, mosangani moko ya moke mpe ya mbangu abungaki na milɔngɔ —bobele mpo na kozonga na bimoniseli oyo ekobongola nsuka ya ekólo moko ya mosika. Mopesi sango oyo ya miso makasi abimisaki bosolo na pole esika bozangi boyebi ezwaki misisa. Nazali Nani?",
+  "clues": [
+    "Nasalaki na lopango moko epai bato, bikelamu oyo emonanaka te, mpe bikelamu ya likoló bazalaki koyanola na mokonzi moko ya mayele oyo azalaki kotindáká mipɛpɛ mpenza.",
+    "Nazalaki te na poste na ngai mpo na mwa ntango, mpe nkanda ya mokonzi elakamaki soki nazangi kopesa ntina ya kosepelisa.",
+    "Nazali ekelamu moke ya kopumbwa, eyebani mpo na bomoni ya makasi, mpe lolenge na ngai ekumisamaki na kopesa nkombo ya semba na nkasa ya emoniseli.",
+    "Ntango nazongaki, namemaki nsango ya mboka moko ya mosika epai bato bafukamaki liboso ya moi, bakufá miso liboso ya Ye oyo akelaki likoló mpe mabele.",
+    "Nakutaki mwasi moko azali koyangela bokonzi moko monene, afandi na kiti ya bokonzi ya lokumu, ayebaki solo liboso te.",
+    "Nazali moto oyo azwaki bokonzi ya Saba’ mpe namemaki mokanda ya libyangi oyo euti na mosakoli-mokonzi moko oyo bapesaki ye bokonzi likoló ya mopɛpɛ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato oyo babengi Hoopoe (Hudhud) .",
+        "Fourmi oyo euti na lobwaku ya Sulaiman",
+        "Asif ibn Barkhiya azali moto ya mayele",
+        "Ifrit ba Jinn",
+        "Anzelu moko ya Kiti ya Bokonzi"
+      ],
+      "answer": "Bato oyo babengi Hoopoe (Hudhud) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Expédition na Bokonzi ya Saba’ (Sheba) .",
+        "Bokutani na banganga-nkisi ya Farao",
+        "Mpela ya Prophète Nuh",
+        "Kobebisama ya Bato ya 'Ad",
+        "Kokabwana ya Mbu Motane"
+      ],
+      "answer": "Expédition na Bokonzi ya Saba’ (Sheba) ."
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mokili ya Saba’ (Sheba) .",
+        "Ngomba Sinai",
+        "Sanduku ya Profeta Nuh",
+        "Libulu ya Ashab al-Kahf",
+        "Ndako monene ya Farao"
+      ],
+      "answer": "Mokili ya Saba’ (Sheba) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bilqis ayaki na soumission na tribunal ya Sulaiman",
+        "Farao ná basoda na ye bazindaki na mbu",
+        "Bato ya 'Ad babebisamaki na mopepe makasi",
+        "Ba ndoki ya Faraon bandimaki Prophète Musa",
+        "Mpela moko monene esilisaki bato oyo bazalaki kondima te"
+      ],
+      "answer": "Bilqis ayaki na soumission na tribunal ya Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

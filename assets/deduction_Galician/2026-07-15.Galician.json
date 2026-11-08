@@ -1,0 +1,61 @@
+{
+  "title": "O Retiro Solitario",
+  "intro": "Nos anais do favor divino, existe unha alma de pureza sen parangón, apartada do seu pobo para buscar a soidade nunha dirección sagrada. Pouco sabían que este illamento traería un sinal para todos os mundos, unha proba de fe da que se falaría por toda a eternidade.",
+  "clues": [
+    "Estiven dedicado a unha vida de servizo antes do meu nacemento.",
+    "Fun posto baixo a tutela dun nobre profeta.",
+    "Fun sostido con provisións de Alá que abraiaron ao meu titor.",
+    "Retireime da miña familia a un lugar do leste.",
+    "Aparecéuseme un anxo na forma dun home perfecto, traendo novas dun fillo puro.",
+    "Cando volvín co meu recén nacido, a miña xente acusoume, pero o bebé falou na miña defensa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Maryam (María)",
+        "Asiyah (esposa do faraón)",
+        "Hajar (nai de Ismail)",
+        "Sara (esposa de Ibrahim)",
+        "A nai de Musa"
+      ],
+      "answer": "Maryam (María)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Concepción milagrosa e nacemento dun fillo",
+        "Ser lanzado a un lume",
+        "Ser tragado por un peixe xigante",
+        "Construíndo unha gran arca",
+        "Cruzando o mar"
+      ],
+      "answer": "Concepción milagrosa e nacemento dun fillo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un lugar illado do leste",
+        "A sarza ardente",
+        "O Mar Vermello",
+        "A rocha da que brotou auga",
+        "A balea"
+      ],
+      "answer": "Un lugar illado do leste"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Un bebé falou en defensa dunha nai",
+        "O mar estaba partido",
+        "O lume volveuse frío e seguro",
+        "A balea vomitou na costa",
+        "A arca aterrou nun monte"
+      ],
+      "answer": "Un bebé falou en defensa dunha nai"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

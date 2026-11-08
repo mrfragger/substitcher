@@ -1,0 +1,61 @@
+{
+  "title": "Echo oyo euti na Bord ya Ville",
+  "intro": "Na engumba oyo epɛngwaki na litambwisi ya Nzambe, moto moko oyo azalaki ye moko abimaki na libándá, azalaki kopota mbangu na nsango ya elikya mpe ya likebisi. Molimo oyo ebosanamaki ekokoma elembo ya seko ya kondima ya kokangama.",
+  "clues": [
+    "Namonaki bamemi-nsango bazalaki kotindama na engumba na ngai, kasi bato na ngai balongolaki bango lokola bato mpamba.",
+    "Nandimaki nsango na bango mpe nayokaki bosolo koyokana na kati ya bomoto na ngai.",
+    "Nabengaki bato na ngai mpo na kotosa bamemi-nsango oyo basengaki mbano te.",
+    "Nakimaki mbangu longwa na nsuka ya mosika mpenza ya engumba, kolukaka nokinoki kotinda bango bámona ntina.",
+    "Bato na ngai batelemaki na ngai, mpe nabomamaki, kasi nazwaki kimia ya seko.",
+    "Allah alobaki na ngai ete, ‘Kokota na Paradis,’ mpe nalingaki ete bato na ngai bakoka kotatola lokumu oyo epesami na ngai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mondimi ya Ya-Sin",
+        "Uzair Motuni",
+        "Al-Khidr motambwisi",
+        "Mondimi ya Libota ya Farao",
+        "Namrud Mokonzi ya Mokonzi"
+      ],
+      "answer": "Mondimi ya Ya-Sin"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kokutana na bato oyo bazalaki kondima te oyo babomaki ye",
+        "Kobwakama na mɔtɔ oyo ezali kopela",
+        "Komelama na mbisi monene",
+        "Kotonga masuwa moko monene",
+        "Kokima limpinga ya mobulu"
+      ],
+      "answer": "Kokutana na bato oyo bazalaki kondima te oyo babomaki ye"
+    },
+    "location": {
+      "label": "Esika ya ntina",
+      "options": [
+        "Nsuka ya engumba oyo eleki mosika",
+        "Ngomba ya Tur",
+        "Lobwaku ya Bafourmi",
+        "Mabongo ya ebale Nil",
+        "Libulu ya libulu"
+      ],
+      "answer": "Nsuka ya engumba oyo eleki mosika"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Martiru mpe kokota mbala moko na Paradis",
+        "Kima mpe lobiko",
+        "Komata na likoló",
+        "Kozinda na mbu",
+        "Kobongwana na libanga"
+      ],
+      "answer": "Martiru mpe kokota mbala moko na Paradis"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

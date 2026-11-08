@@ -1,0 +1,61 @@
+{
+  "title": "La prueba del alma persistente",
+  "intro": "Un alma se encuentra en un momento de prueba divina, buscando guía con humilde perseverancia. Aquel que todo lo sabe rechaza a este buscador, para luego revelar que se trataba de una prueba del corazón. A través de este misterioso intercambio, se revela una lección sobre la sabiduría divina a quienes reflexionan. ¿Puedes identificar esta figura en la narración coránica?",
+  "clues": [
+    "Busqué conocimiento y guía del amado mensajero de Alá.",
+    "Vine buscando la verdad, invocando al Profeta con ferviente deseo.",
+    "Fui reprendido y rechazado, pues la sabiduría de Alá tenía otros planes para ese momento.",
+    "Sin embargo, no me desesperé; en cambio, seguí adelante en mi búsqueda.",
+    "Aquel que lo sabe todo declaró que esto era una prueba del corazón y una advertencia.",
+    "Yo estaba entre aquellos de quienes el Corán revela: \"Frunció el ceño y se dio la vuelta, porque se le acercó el ciego\"."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El hipócrita que busca la duda",
+        "El buscador ciego de la verdad",
+        "El adorador de ídolos de La Meca",
+        "El incrédulo burlándose del profeta",
+        "El viajero de Yemen"
+      ],
+      "answer": "El buscador ciego de la verdad"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser reprendido por el Profeta Mahoma durante la oración",
+        "La sequía y la hambruna ponen a prueba a Meca.",
+        "Ser rechazado en las puertas del paraíso",
+        "Ser rechazado por el propio pueblo por la fe.",
+        "Ser puesto a prueba con la riqueza y los niños"
+      ],
+      "answer": "Ser reprendido por el Profeta Mahoma durante la oración"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Dentro de la Kaaba durante la temporada de peregrinación.",
+        "En presencia del Profeta durante la recitación",
+        "En la cima del monte Safa durante las horas de la mañana.",
+        "En el mercado de La Meca, rodeado de incrédulos",
+        "Cerca del pozo de Zamzam durante el Hajj."
+      ],
+      "answer": "En presencia del Profeta durante la recitación"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "El buscador fue martirizado por los Quraysh por su fe.",
+        "El incidente quedó registrado como una prueba y una lección para la Ummah.",
+        "El buscador se convirtió en compañero y líder.",
+        "La riqueza del buscador se multiplicó por diez.",
+        "El buscador volvió a la incredulidad."
+      ],
+      "answer": "El incidente quedó registrado como una prueba y una lección para la Ummah."
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

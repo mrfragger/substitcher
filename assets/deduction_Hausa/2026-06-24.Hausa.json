@@ -1,0 +1,61 @@
+{
+  "title": "Mai Kula da Wutar da Ba Za a Iya Kashewa Ba",
+  "intro": "Wani mutum yana tsaye a bakin kofa na wurin da aka fi tsoro a cikin gaibi, an ɗora masa wani aiki da babu wani buri da yake so. Lokacin da rayuka masu wahala suka yi kukan jinƙai, martani mai ƙarfi yana ratsawa ta cikin ɗakunan wuta. Za ku iya gano asalin wannan mai tsaron har abada?",
+  "clues": [
+    "Ina tsaye a ƙofar wani wuri mai ban tsoro na azaba a cikin gaibi.",
+    "Wuta mai ci da ba za a iya kashewa ba ita ce ginshiƙin aikina mai muhimmanci.",
+    "Rayukan da ke shan wahala suna kiran sunana, suna roƙon samun sauƙi daga azabar da ba ta ƙarewa.",
+    "Idan suka yi roƙo, ina shelanta cewa ba za su taɓa barin ba.",
+    "Ni ba mutum ba ne, kuma ba aljani ba ne - ni halitta ce mai biyayya ta gaskiya.",
+    "Ni ne babban mala'ika da aka naɗa a matsayin mai kula da Wutar Jahannama har abada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Mutanen Jahannama suna roƙon Allah Ya kawo ƙarshen azabarsu",
+        "Ana busa ƙaho domin nuna alamar Ranar Alkiyama",
+        "An saukar da Alqur'ani ga zuciyar Annabi",
+        "An jefa wani Annabi cikin babbar wuta ta hannun mutanensu",
+        "An gina wani katangar da za ta iya kare al'umma mai cin hanci da rashawa"
+      ],
+      "answer": "Mutanen Jahannama suna roƙon Allah Ya kawo ƙarshen azabarsu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Wutar Jahannama (Jahannam)",
+        "Itacen magarya a iyakar Aljanna",
+        "Ƙaho mai hudawa",
+        "Sanda da ta rikide ta zama maciji",
+        "Kursiyin allahntaka mai girma"
+      ],
+      "answer": "Wutar Jahannama (Jahannam)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An gaya wa mazauna Jahannama cewa za su dawwama har abada",
+        "Ana gafarta wa mazauna Jahannama kuma ana sake su",
+        "An ba wa mazauna Jahannama dama ta biyu ta imani",
+        "Ana mayar da mazauna Jahannama zuwa wurin sanyi",
+        "An halaka mazauna Jahannama gaba ɗaya da tsawa"
+      ],
+      "answer": "An gaya wa mazauna Jahannama cewa za su dawwama har abada"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

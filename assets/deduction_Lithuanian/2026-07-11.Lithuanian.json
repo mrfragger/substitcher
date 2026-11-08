@@ -1,0 +1,61 @@
+{
+  "title": "Žaliuojančio lauko keliautojai",
+  "intro": "Senovėje du asmenys rūpinosi kaimyninėmis žemėmis. Jų keliai buvo susipynę, tačiau širdys vedė juos į visiškai skirtingas vietas. Vienas ėjo tiesiu keliu, o kitas nuklydo į neigimo tamsą. Ar galite įminti šių dviejų derliaus saugotojų paslaptį?",
+  "clues": [
+    "Turėjau gausų derlių, prabangų derlių, kuris akindavo praeivių akis.",
+    "Mano kaimynas turėjo dar didesnį dosnumą nei aš, tačiau aš labiau troškau jo dalies nei savosios.",
+    "Pasiūliau visiškai sunaikinti jų derlių, kad viską sutelkčiau savo kontrolėje.",
+    "Savo kvailais planais sunaikinau ir savo paties derlių.",
+    "Stovėjau bejėgis, kai per vieną naktį mano derlius nuvyto, o turtas virto dulkėmis.",
+    "Aš neturėjau jokios dalies pomirtiniame gyvenime, o mano paskutinė buveinė virto liepsnojančios ugnies duobe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Žmogus, kuris neigė prisikėlimą ir teismą",
+        "Valdovas, kuris engė teisųjį ūkininką",
+        "Turtingas žemvaldys, kuriam trūko dėkingumo",
+        "Ūkininkas, kuris geidė savo kaimyno žemės",
+        "Klastingas partneris, kuris planavo sunaikinimą"
+      ],
+      "answer": "Ūkininkas, kuris geidė savo kaimyno žemės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Dieviškojo apreiškimo gavimo išbandymas",
+        "Turto ir kantrybės iššūkis",
+        "Pagunda sunaikinti teisiojo pragyvenimo šaltinį",
+        "Įsakymas teisingai padalyti palikimą",
+        "Kova su tirono priespauda"
+      ],
+      "answer": "Pagunda sunaikinti teisiojo pragyvenimo šaltinį"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Žaliuojantys rojaus sodai",
+        "Du gretimi pasėlių laukai",
+        "Kalnai, kurie liudijo sunaikinimą",
+        "Šventoji Mekos šventovė",
+        "Palaimintos žemės upių krantai"
+      ],
+      "answer": "Du gretimi pasėlių laukai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Amžinas rojus kaip atlygis už teisumą",
+        "Visiškas abiejų derlių sunaikinimas šiame gyvenime",
+        "Tremtis ir klajonės iki mirties",
+        "Laikinas klestėjimas, po kurio seka amžina ugnis",
+        "Stebuklingas atkūrimas ir dviguba dovana"
+      ],
+      "answer": "Visiškas abiejų derlių sunaikinimas šiame gyvenime"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

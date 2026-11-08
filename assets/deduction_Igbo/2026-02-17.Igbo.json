@@ -1,0 +1,61 @@
+{
+  "title": "Mkpụrụ nke Esemokwu",
+  "intro": "Tupu ụwa amata esemokwu zuru ebe niile, ule dị ukwuu nke okwukwe na nrubeisi pụtara. Akụkọ a na-enyocha nhọrọ nke onye mere, onye ihe o mere setịpụrụ ihe nlereanya maka ọgbọ ndị ga-abịa n'ihu. Kwadebe iji kọwaa akụkọ banyere mkpụrụ obi nke na-alụso oke ekworo na ihe ọjọọ ndị na-esi na ya apụta.",
+  "clues": [
+    "Eso m n'ime ụmụ mbụ bi n'ụwa, bụ́ ụmụ nke di na nwunye mbụ ahụ.",
+    "E nyere mụ na nwanne m nwoke iwu ka anyị chụọrọ Allah àjà, nke bụ ule nke eziokwu anyị.",
+    "A nabataghị onyinye m, ebe a nabatakwara nke nwanne m nwoke, nke mere ka obi m jupụta n'oké mmetụta uche.",
+    "Ekwuru m okwu iyi egwu nye nwanne m nwoke, n'ihi obi ilu nke ịjụ.",
+    "Nwanne m nwoke zara ya n'amamihe na nsọpụrụ Chineke, na-echetara m ikpe ziri ezi nke Allah na egwu Ya.",
+    "N'agbanyeghị okwu dị nro nwanne m nwoke na ọchịchọ ya ịgbaghara, m gburu onwe m, wee bụrụ otu n'ime ndị furu efu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Adam",
+        "Iblis",
+        "Onye Amụma Nua",
+        "Qabil (Ken)",
+        "Fero"
+      ],
+      "answer": "Qabil (Ken)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Oké idei mmiri ahụ",
+        "Nkewa nke oké osimiri",
+        "Ụlọ nke Kaaba",
+        "Àjà nke àjà",
+        "Ọnwụnwa n'ime Ubi ahụ"
+      ],
+      "answer": "Àjà nke àjà"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Igbe ahụ",
+        "Ndị Ọrụ ahụ",
+        "Ugwu Safa",
+        "Àjà ahụ",
+        "Osisi Na-ere Ọkụ"
+      ],
+      "answer": "Àjà ahụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Aghọrọ m onye ozi",
+        "Mmiri riri m",
+        "Wuru alaeze ukwu",
+        "Aghọọla ihe atụ nke mwute",
+        "E nyere ya nnukwu akụnụba"
+      ],
+      "answer": "Aghọọla ihe atụ nke mwute"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

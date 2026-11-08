@@ -1,0 +1,61 @@
+{
+  "title": "Diatla Tse di Hutsitsweng",
+  "intro": "O eme mo ditseleng tse di tshekeletsa tsa Makkah wa bogologolo, kwa moya wa tlhotlheletso le khumo o kileng wa fapoga pitso ya boammaaruri gone. Kgang ya setshwantsho seno ke kgopotso e e tlhamaletseng ya gore dikgole tsa madi ga di kake tsa fenya dikeetane tsa boikgogomoso. Ke mang yo leina la gagwe le utlwalang le molelo o o letileng?",
+  "clues": [
+    "Ke ne ke tsamaya mo mebileng ya Makkah ka boikgogomoso jo bo neng jwa nfoufatsa gore ke se ka ka bona boammaaruri, le fa morongwa yono e ne e le wa madi a me.",
+    "Dithoto tsa me di ne di le dintsi thata, mme di ne tsa nna phutso go na le go nna thebe.",
+    "Buka ya kaelo e bua ka tshenyego ya me, e bolela gore diatla tsa me le motho wa me di tla nyelela.",
+    "Molekane wa me o ne a kopanela mo letsholong la me la bobaba, a phutha mitlwa go e anamisa mo tseleng ya yo o neng a bitsa Allah.",
+    "Ka letsatsi la katlholo, ke tla tsenngwa mo molelong wa kgabo e e tukang, mme molekane wa me o tla bo a na le thapo ya tlhale ya palema mo molaleng.",
+    "Ke itsege ka leina le le kayang ‘rraagwe kgabo’ — leina le le bolelelang pele bonno jwa me jo bo sa khutleng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Teko kgotsa Tiragalo ya Botlhokwa",
+      "options": [
+        "O ne a ganetsa Moporofeti mme a hutsiwa mo Quran",
+        "O ne a etelela pele mophato go senya Kaaba",
+        "Maiteko a go bolaya Moporofeti ka go mo latlhela matlapa",
+        "O ne a gana go dumela mo go kgaoganeng ga ngwedi",
+        "A aga tora gore e fitlhe kwa magodimong"
+      ],
+      "answer": "O ne a ganetsa Moporofeti mme a hutsiwa mo Quran"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Molelo o o tukang wa Dihele",
+        "Badiri ba ga Musa",
+        "Letlole la ga Nuhe",
+        "Sediba sa Zamzam",
+        "Namane ya Gauta"
+      ],
+      "answer": "Molelo o o tukang wa Dihele"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O tla tsena mo molelong o o tukang, mme khumo ya gagwe ga e kitla e mo thusa",
+        "O ne a ikwatlhaya mme a nna modumedi .",
+        "O ne a itshwarelwa morago ga go ikwatlhaya",
+        "O tlhokafetse e le moswelatumelo",
+        "O ne a tlhatlosediwa kwa magodimong"
+      ],
+      "answer": "O tla tsena mo molelong o o tukang, mme khumo ya gagwe ga e kitla e mo thusa"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

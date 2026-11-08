@@ -1,0 +1,61 @@
+{
+  "title": "Den heliga flammans rättegång",
+  "intro": "I ett forntida land där hängivenhet till huggen sten hade slagit rot i varje hem, stod en individ ut. Genom orubblig övertygelse och gudomligt beskydd mötte de vad som borde ha varit säker död – och gick oskadda därifrån. Kan du avslöja identiteten på denna anmärkningsvärda själ?",
+  "clues": [
+    "Jag växte upp bland människor som böjde sig för avgudar de hade snidat med sina egna händer, i tron ​​att dessa föremål hade gudomlig kraft.",
+    "När jag ifrågasatte deras övertygelser avfärdade de mig först, men jag kunde inte tiga om sanningen jag visste.",
+    "En dag då de församlades, förstörde jag deras avgudar och lämnade endast den största orörd.",
+    "När de återvände och såg vad jag hade gjort, beordrade deras ledare att ett stort bål skulle byggas i avsikt att kasta mig i lågorna.",
+    "De kastade mig i den flammande elden, men världarnas Herre befallde att den skulle bli sval och trygg för mig.",
+    "Jag kom ut ur lågorna helt oskadd, medan de som konspirerade mot mig stod inför fullständig undergång."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Nuh",
+        "Profeten Isa",
+        "Profeten Yusuf"
+      ],
+      "answer": "Profeten Ibrahim"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att kastas in i en flammande eld",
+        "Att bli uppslukad av en stor val",
+        "Att överleva en stor översvämning",
+        "Att kastas ner i en djup brunn",
+        "Att konfrontera en kungs magiker"
+      ],
+      "answer": "Att kastas in i en flammande eld"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En massiv bål av brinnande ved",
+        "En stor ark av trä",
+        "En gyllene kalvstaty",
+        "En flytande korg på en flod",
+        "En magnifik tron"
+      ],
+      "answer": "En massiv bål av brinnande ved"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Allah gjorde elden sval och säker",
+        "Arken landade säkert på ett berg",
+        "Den gyllene avguden smälte framför deras ögon",
+        "En tyrann och hans armé drunknade i havet",
+        "En blind mans syn återställdes"
+      ],
+      "answer": "Allah gjorde elden sval och säker"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

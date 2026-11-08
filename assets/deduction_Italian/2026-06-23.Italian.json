@@ -1,0 +1,61 @@
+{
+  "title": "Il guardiano in riva al fiume",
+  "intro": "In una terra dove il decreto di un tiranno aveva portato dolore in molte case, un'anima ricevette un messaggio che sfidava ogni paura. Con il cuore colmo di fiducia, intraprese un atto di fede che avrebbe cambiato il corso di una nazione. Mentre le acque trasportavano un carico prezioso, la speranza si mescolava alle correnti.",
+  "clues": [
+    "Ho vissuto in un'epoca di oppressione e paura.",
+    "Ho ricevuto un'ispirazione divina che mi ha dato coraggio.",
+    "Mi è stato comandato di non temere né di rattristarmi.",
+    "Ho messo mio figlio in una cassa e l'ho adagiata sull'acqua.",
+    "Mio figlio fu trovato dalla famiglia del sovrano, ma l'altro mio figlio lo seguì.",
+    "Mi sono riunita con mio figlio per allattarlo, proprio come Allah aveva promesso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La madre di Mosè",
+        "La moglie del faraone",
+        "La sorella di Mosè",
+        "La Madre di Gesù",
+        "La regina di Saba"
+      ],
+      "answer": "La madre di Mosè"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "L'ispirazione di gettare un bambino in un fiume",
+        "Essere sfidato a un duello di magia",
+        "Essere inseguito da un esercito",
+        "Attraversando un mare che si divideva",
+        "Costruire una casa sacra"
+      ],
+      "answer": "L'ispirazione di gettare un bambino in un fiume"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una cassa posta nel fiume",
+        "Un roveto ardente",
+        "Un bastone che si è trasformato in un serpente",
+        "Un vitello dorato",
+        "Un trono"
+      ],
+      "answer": "Una cassa posta nel fiume"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il bambino è stato riportato sano e salvo all'infermiera.",
+        "Il bambino è andato perduto per sempre.",
+        "Il bambino fu portato in una terra lontana",
+        "Il bambino divenne subito un sovrano",
+        "Il bambino fu adottato da un ricco mercante"
+      ],
+      "answer": "Il bambino è stato riportato sano e salvo all'infermiera."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

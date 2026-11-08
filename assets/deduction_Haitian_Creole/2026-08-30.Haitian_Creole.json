@@ -1,0 +1,61 @@
+{
+  "title": "Lespri Revelasyon an ki fè nou konfyans",
+  "intro": "Nan wayòm envizib yo, yon èt ki fèt ak limyè pi deplase avèk presizyon, li egzekite chak lòd san ezitasyon. Figi sa a te pale ak sèvitè yo chwazi, li te pote pawòl gidans, epi li te temwen dewouleman dekrè diven yo atravè listwa. Ki moun ki nanm onore sa a?",
+  "clues": [
+    "Mwen se yon èt ki fèt ak limyè pi, mwen te kreye ak limyè, epi mwen pa janm dezobeyi yon sèl kòmandman Senyè mwen an.",
+    "M ap deplase ant syèl la ak tè a, m ap desann avèk dekrè Moun ki gen Pi Mizèrikòd la.",
+    "Yo te voye m' bò kote yon vyèj nòb nan sanktyè a, pou m' anonse l' yon pitit gason ki pi bon kalite.",
+    "Mwen se lespri sentete a, epi mwen te soutni yon pwofèt ki te resevwa siy klè ak Levanjil la.",
+    "Mwen te rive nan yon gwòt sou yon mòn pou m te resite premye pawòl yon resitasyon ki t ap rete pou tout tan.",
+    "Mwen se lespri ki merite konfyans lan, epi se mwen menm ki te fè Koran an desann nan kè dènye mesaje a."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Jibril (Gabriyèl)",
+        "Mikail (Michael)",
+        "Zanj Lanmò a",
+        "Malik (Gadyen Lanfè)",
+        "Harout (youn nan de zanj ki nan Babilòn yo)"
+      ],
+      "answer": "Jibril (Gabriyèl)"
+    },
+    "trial": {
+      "label": "Misyon/Wòl kle",
+      "options": [
+        "Bay pwofèt yo revelasyon",
+        "Soufle twonpèt la nan Jou Jijman an",
+        "Ap veye pòtay lanfè yo",
+        "Anrejistre aksyon moun yo",
+        "Lakòz lapli a tonbe"
+      ],
+      "answer": "Bay pwofèt yo revelasyon"
+    },
+    "location": {
+      "label": "Atribi kle oswa Tit",
+      "options": [
+        "Sentespri a (Ruh al-Qudus)",
+        "Lespri pouvwa a",
+        "Lespri Mizèrikòd la",
+        "Lespri Gidans lan",
+        "Lespri Verite a"
+      ],
+      "answer": "Sentespri a (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Rezilta Misyon an",
+      "options": [
+        "Yo te revele Koran an bay pwofèt Muhammad",
+        "Yo te soufle twonpèt la nan Jou Jijman an",
+        "Lanfè te siveye epi pòtay li yo te fèmen",
+        "Yo te prezante Liv Aksyon yo bay Allah",
+        "Lapli a te voye desann sou tè a"
+      ],
+      "answer": "Yo te revele Koran an bay pwofèt Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

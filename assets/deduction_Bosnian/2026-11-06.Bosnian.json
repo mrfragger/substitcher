@@ -1,0 +1,61 @@
+{
+  "title": "Prva krv prolivena iz zavisti",
+  "intro": "Zamislite najranije dane čovječanstva, kada je cijeli svijet bio jedna porodica. Gledate kako se dva prinosa stavljaju pred Allaha - jedan prihvaćen, drugi odbijen. Zavist se ukorijenjuje u srcu, a prijetnja se šapuće u ljutnji. Ono što slijedi ostavit će trag u historiji zauvijek, i čak će i mala ptica postati učiteljica.",
+  "clues": [
+    "Pripadam prvoj porodici na svijetu.",
+    "Prinio sam Allahu žrtvu, ali moja nije bila prihvaćena, dok druga žrtva jeste.",
+    "Progovorio sam iz zavisti i prijetio da ću oduzeti život.",
+    "Počinio sam prvo nepravedno ubistvo na Zemlji.",
+    "Vidio sam vranu kako grebe po tlu da mi pokaže kako da sakrijem tijelo.",
+    "Ostao sam pun kajanja i postao među gubitnicima zbog onoga što su moje ruke učinile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Kabil (Kain), sin Adamov",
+        "Samiri, tvorac teleta",
+        "Namrud, tiranin koji se svađao s Ibrahimom",
+        "Azar, tvorac idola",
+        "Kan'an, utopljeni Nuhov sin"
+      ],
+      "answer": "Kabil (Kain), sin Adamov"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Ubistvo brata/sestre iz zavisti nakon odbijene ponude",
+        "Gradeći uzvišenu kulu da gledam u nebesa",
+        "Pravljenje zlatnog teleta za obožavanje",
+        "Zahtijevajući stol postavljen s neba",
+        "Predvođenje vojske slonova da unište Kabu"
+      ],
+      "answer": "Ubistvo brata/sestre iz zavisti nakon odbijene ponude"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrana grebe zemlju kako bi pokazala sahranu",
+        "Zlatno tele koje je mukalo",
+        "Velika arka na potopnim vodama",
+        "Štap koji se pretvorio u zmiju",
+        "Stol prekriven hranom s neba"
+      ],
+      "answer": "Vrana grebe zemlju kako bi pokazala sahranu"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postao sam kajan i među gubitnicima",
+        "Utopio se u velikoj poplavi",
+        "Progutala ga je zemlja s blagom",
+        "Bio je pogođen gubom sedam godina",
+        "Dobio je kraljevstvo s kontrolom nad vjetrovima"
+      ],
+      "answer": "Postao sam kajan i među gubitnicima"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

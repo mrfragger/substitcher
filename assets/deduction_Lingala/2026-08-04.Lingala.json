@@ -1,0 +1,61 @@
+{
+  "title": "Echo Na nzela ya Mabanga",
+  "intro": "Kanisá na lobwaku moko epai bakati bandako ya kofanda na mabanga, mpe mopɛpɛ ememaka bokundoli ya likebisi oyo bato batye likebi te. Bato moko kala bazalaki kokola malamu awa, bapambolamaki kasi bazalaki koboya, kino elembo moko ebimaki na libanga mpenza oyo bazalaki kotyela motema.",
+  "clues": [
+    "Tozalaki bato oyo bazalaki koyema bandako ya libateli uta na bangomba, koyokaka libateli na bisika na biso ya kofanda ya mabanga.",
+    "Tozalaki kofanda na mboka ya patatalu mpe ya mabanga, oyo epambolamaki na bilanga mpe maziba.",
+    "Momemi-nsango moko oyo autaki na kati na biso ayaki, kobenga biso tótika banzambe na biso ya lokuta mpe tósambela Mozalisi Moko ya solo.",
+    "Na lolendo nyonso totyaki ezalela mpo na kondima: elembo oyo ekokani na mosusu te oyo ekobima na mabanga mpenza oyo toyemaki.",
+    "Ntango kamela-mwasi oyo elakamaki ebimaki uta na libanga, elembo ya polele, bato na biso ya lokumu baboyaki kaka mpe bakangaki ye na makolo atako likebisi ya libebi moko oyo ezalaki koya.",
+    "Mikolo misato nsima ya mosala na biso, nkake moko eyokanaki na lobwaku, mpe tokitanaki na bitika oyo ekweaki, bandako na biso malita na biso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Bato ya ¿Ad",
+        "Bato ya Thamud",
+        "Bato ya Madyan",
+        "Bato ya Zamba",
+        "Bato ya Libulu"
+      ],
+      "answer": "Bato ya Thamud"
+    },
+    "trial": {
+      "label": "Momekano na biso/Evenement Principal",
+      "options": [
+        "Kokangama ya makolo ya kamela ya mwasi ya Allah",
+        "Losambo ya mwana ya ngɔmbɛ ya wolo",
+        "Kobukana ya Sabata",
+        "Kotonga ndako molai moko tii na likoló",
+        "Bobomi ya basakoli"
+      ],
+      "answer": "Kokangama ya makolo ya kamela ya mwasi ya Allah"
+    },
+    "location": {
+      "label": "Elemento ya ntina na Lisolo na biso",
+      "options": [
+        "Kamela ya mwasi ya Allah",
+        "Ba staff ya Musa",
+        "Sanduku ya Nuh",
+        "Loboko ya pembe ya Musa",
+        "Ndeke ya ¿Isa"
+      ],
+      "answer": "Kamela ya mwasi ya Allah"
+    },
+    "outcome": {
+      "label": "Litomba na biso",
+      "options": [
+        "Kobebisama na nzela ya mopɛpɛ oyo ezali kokanga matoi",
+        "Mbula ya mabanga oyo euti na likoló",
+        "Mpela oyo ezipaki mabele",
+        "Mopɛpɛ makasi oyo elongolaki biso na misisa",
+        "Mabele ezo mela biso"
+      ],
+      "answer": "Kobebisama na nzela ya mopɛpɛ oyo ezali kokanga matoi"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

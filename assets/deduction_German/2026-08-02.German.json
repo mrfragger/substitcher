@@ -1,0 +1,61 @@
+{
+  "title": "Zwischen Erde und Himmel",
+  "intro": "Eine geheimnisvolle Seele erwartet dich in den heiligen Schriften der göttlichen Geschichte, voller Zeichen und Wunder, deren Nachhall durch die Zeitalter reicht. Folge den Hinweisen und begib dich auf eine Reise durch eine Geschichte voller Wunder – von einem wundersamen Anfang bis zum Aufstieg über den Himmel hinaus. Kannst du diesen gesegneten Diener vor dem letzten Hinweis identifizieren?",
+  "clues": [
+    "Ich wurde als Bote zu den Kindern Israels gesandt, um ihnen die Kunde der Barmherzigkeit und des Lichts zu verkünden.",
+    "Meine Geburt war ein wundersames Zeichen – ich kam ohne Vater auf die Welt, auf Geheiß des Allmächtigen.",
+    "Schon als Säugling sprach ich und verteidigte die Ehre meiner Mutter gegen die Anschuldigungen ihres Volkes.",
+    "Mit Allahs Erlaubnis formte ich Vögel aus Lehm und hauchte ihnen Leben ein – sie flogen vor den Augen derer davon, die zusahen.",
+    "Ich heilte Blindgeborene, kurierte Aussätzige und erweckte sogar Tote zum Leben – doch jedes Wunder geschah mit Allahs Erlaubnis, nicht aus eigener Kraft.",
+    "Als meine Feinde planten, mich zu vernichten, erhob Allah mich in den Himmel und versprach meine Rückkehr vor dem Tag des Gerichts."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Isa (Jesus)",
+        "Prophet Musa (Moses)",
+        "Prophet Ibrahim (Abraham)",
+        "Prophet Muhammad",
+        "Prophet Yusuf (Joseph)"
+      ],
+      "answer": "Prophet Isa (Jesus)"
+    },
+    "trial": {
+      "label": "Der entscheidende Moment",
+      "options": [
+        "Ich wurde in den Himmel erhoben.",
+        "Ich wurde in ein loderndes Feuer geworfen",
+        "Ich stand der mächtigen Armee des Pharaos gegenüber.",
+        "Ich wurde von einem riesigen Wal verschluckt",
+        "Ich baute eine Arche auf dem Berg"
+      ],
+      "answer": "Ich wurde in den Himmel erhoben."
+    },
+    "location": {
+      "label": "Heiliges Zeichen vollzogen",
+      "options": [
+        "Ich formte Vögel aus Ton.",
+        "Ich verwandelte einen Stab in eine Schlange.",
+        "Ich spaltete den Mond in zwei",
+        "Ich gebot dem Wind und den Dschinn",
+        "Ich habe eine Kamelstute aus einem Felsen hervorgebracht"
+      ],
+      "answer": "Ich formte Vögel aus Ton."
+    },
+    "outcome": {
+      "label": "Was wurde aus mir?",
+      "options": [
+        "In den Himmel erhoben; versprochen, zurückzukehren",
+        "Wurde ein großer Herrscher eines Imperiums",
+        "Ich habe mein Volk aus der Gefangenschaft geführt",
+        "Ihm wurde unvergleichlicher irdischer Reichtum zuteil",
+        "Nach langer Trennung wurde ich wieder mit meiner Familie vereint."
+      ],
+      "answer": "In den Himmel erhoben; versprochen, zurückzukehren"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

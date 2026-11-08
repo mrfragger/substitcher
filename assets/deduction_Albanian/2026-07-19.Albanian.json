@@ -1,0 +1,61 @@
+{
+  "title": "Zëri i Padëgjuar i Shekujve",
+  "intro": "Në një kohë shumë kohë para se të ngriheshin qytetet e mëdha, një shpirt i vetmuar u ngrit midis një populli që i ishte larguar së vërtetës. Kokëfortësia e tyre krahasohej vetëm me durimin e këtij thirrësi të vetmuar, i cili lutej brez pas brezi pa humbur vendosmërinë. Kur të gjitha paralajmërimet ranë në veshë të shurdhër, një llogaridhënie e paparë riformësoi vetë tokën. Sot, jehona e asaj historie ende valëvitet në çdo recitim. A mund ta identifikoni këtë shpirt të vendosur?",
+  "clues": [
+    "U rrita mes një populli që adhuronte idhuj të rremë dhe injoronte shenjat përreth tyre, megjithatë u zgjodha për t'i zgjuar ata nga pakujdesia e tyre.",
+    "I thirra njerëzit e mi vazhdimisht, por ata më akuzuan se nuk isha gjë tjetër veçse një person si ata, duke tallur mesazhin tim dhe duke ua mbuluar veshët.",
+    "Natë e ditë, i lutesha me mençuri dhe përkujtesa të buta, por fjalët e mia dukeshin sikur zhdukeshin në ajër, të padëgjuara dhe të pavëmendshme.",
+    "Nën udhëzimin hyjnor, ndërtova një anije të madhe prej druri dhe dërrasash në tokë të thatë, dhe populli im qeshi me mua sikur të kisha humbur arsyen.",
+    "Kur përmbytja e madhe erdhi siç ishte premtuar, djali im refuzoi të hipte në anije me mua, duke besuar se një mal do ta strehonte nga ujërat që ngriheshin.",
+    "U bëra patriarku i një fillimi të ri mbi tokë dhe historia ime është ruajtur në një kapitull të Kuranit që mban emrin tim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Nuh",
+        "Profeti Ibrahim",
+        "Profeti Musa",
+        "Profeti Lut",
+        "Profeti Hud"
+      ],
+      "answer": "Profeti Nuh"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Përmbytja e Madhe që riformësoi tokën",
+        "Të hidhesh në një zjarr flakërues nga idhujtarët",
+        "Përballja me magjistarët e Faraonit në pallat",
+        "Shkatërrimi i kopshteve të begata nga një stuhi qiellore",
+        "Përmbysja e banorëve të llogoreve"
+      ],
+      "answer": "Përmbytja e Madhe që riformësoi tokën"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Arka e ndërtuar nga druri dhe dërrasat",
+        "Shtëpia e shenjtë e ndërtuar mbi themele të lashta",
+        "Shkopi që u transformua në gjarpër",
+        "Shpella e të rinjve që flenë",
+        "Froni i mbajtur nga një krijesë e fuqishme"
+      ],
+      "answer": "Arka e ndërtuar nga druri dhe dërrasat"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Jobesimtarët u mbytën, ndërsa besimtarët u shpëtuan në anije.",
+        "Zjarri u qetësua dhe u bë i sigurt, dhe telefonuesi doli i padëmtuar.",
+        "Magjistarët ranë në sexhde dhe përqafuan besimin",
+        "Kopshti iu dha fqinjit të drejtë në vend të tij",
+        "Të fjeturit u zgjuan pas shekujsh, të transformuar"
+      ],
+      "answer": "Jobesimtarët u mbytën, ndërsa besimtarët u shpëtuan në anije."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

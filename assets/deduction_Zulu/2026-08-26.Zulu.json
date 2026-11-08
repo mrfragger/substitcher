@@ -1,0 +1,61 @@
+{
+  "title": "Umona Owawudla",
+  "intro": "Indaba endala kunanoma yimuphi umbuso noma umbhalo—inhlekelele yokuqala yomuntu eyazalwa umona. Umphefumulo owodwa, omdala wezingane ezimbili ezazalwa abazali bokuqala, wabuka ngentukuthelo njengoba umfowabo omncane ethola umusa owenqatshwa. Okwalandela kwaba ukukhetha okubi kakhulu, kwashiya igazi lokuqala elachitheka emhlabeni. Ungakwazi yini ukuthola ukuthi ungubani, isilingo, kanye nokuzisola okubuhlungu?",
+  "clues": [
+    "Ngazalwa ngabantu ababili bokuqala ukuhamba emhlabeni.",
+    "Ngake ngenza umnikelo ku-Allah, kodwa awuzange wamukelwe kimi.",
+    "Umnikelo womfowethu wamukelwa, kanti owami wenqatshwa—into engangingenakuyithwala.",
+    "Ngasongela umfowethu ngokumbhubhisa.",
+    "Ngaba ngowokuqala ukubulala emhlabeni, ngabulala umfowethu.",
+    "U-Allah wathumela isidalwa somhlaba—inyoni emnyama eyayimba emhlabathini—ukuze angifundise ukufihla engangikwenzile, futhi ngasala ngizisola kuphela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UQabil (uKhayini)",
+        "UHabil (u-Abela)",
+        "Umprofethi uYaqub",
+        "Umprofethi uMusa",
+        "Umprofethi u-Adamu"
+      ],
+      "answer": "UQabil (uKhayini)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Umnikelo wenqatshwa ngu-Allah",
+        "Kuphonswa emlilweni omkhulu",
+        "Washiywa esemncane emfuleni",
+        "Kuvivinywe ngombuso omkhulu",
+        "Uyalwa ukuba umuntu anikele ngendodana yakhe"
+      ],
+      "answer": "Umnikelo wenqatshwa ngu-Allah"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Igwababa elithunyelwe ngu-Allah",
+        "Ithole legolide",
+        "Umkhumbi phezu kwentaba",
+        "Isihlahla esivuthayo",
+        "Ikamela lesifazane eliqoshwe edwaleni"
+      ],
+      "answer": "Igwababa elithunyelwe ngu-Allah"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wagcwala ukuzisola futhi waba phakathi kwabalahlekile",
+        "Kugwinywe emhlabeni kanye nengcebo",
+        "Waba yisithunywa sika-Allah esihle kakhulu",
+        "Wangena ePharadesi ngesihe sikaNkulunkulu",
+        "Wabusa phezu kombuso ongenakuqhathaniswa"
+      ],
+      "answer": "Wagcwala ukuzisola futhi waba phakathi kwabalahlekile"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

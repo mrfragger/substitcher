@@ -1,0 +1,61 @@
+{
+  "title": "Helgedomens bönfallare",
+  "intro": "Under nattens tysta timmar ropade en hängiven själ till den Barmhärtigaste inom de heliga väggarna på en helig plats. År av orubblig tro och tålamod skulle snart belönas med ett mirakel som skulle bringa glädje och ett arv av profetskap.",
+  "clues": [
+    "Jag tillbringade mina dagar och nätter i hängivenhet i en helig helgedom, och bad ständigt till min Herre.",
+    "Jag blev gammal, och min hustru var ofruktsam, men jag förlorade aldrig hoppet om Allahs barmhärtighet.",
+    "Jag fick en son, vid namn Yahya, som blev en profet och en rättfärdighetens ledstjärna.",
+    "Jag var själv profet, sänd för att vägleda Israels barn.",
+    "Jag var en ättling till profeten Harun och tjänstgjorde som präst i templet.",
+    "Jag anförtroddes Maryams, Isas mors, vård och bevittnade hennes mirakel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Zakariyya",
+        "Profeten Yahya",
+        "Profeten Ilyas",
+        "Profeten Ishaq",
+        "Profeten Ya'qub"
+      ],
+      "answer": "Profeten Zakariyya"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Skänkte en son på ålderdomen",
+        "Räddad från en flammande brand",
+        "Räddad ur fiskens mage",
+        "Överlevde en stor översvämning",
+        "Botad från en svår sjukdom"
+      ],
+      "answer": "Skänkte en son på ålderdomen"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Mihrab (böneplatsen)",
+        "Kaba",
+        "Den brinnande busken",
+        "Förbundsarken",
+        "De sju sovarnas grotta"
+      ],
+      "answer": "Mihrab (böneplatsen)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Fick en rättfärdig son som blev profet",
+        "Förstört av en våldsam storm",
+        "Drunknade i havet",
+        "Skonas från att bli bränd",
+        "Återvände till sitt folk efter att ha räddats från en fisk"
+      ],
+      "answer": "Fick en rättfärdig son som blev profet"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

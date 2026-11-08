@@ -1,0 +1,61 @@
+{
+  "title": "A szent hiány",
+  "intro": "Az idő dűnéin túl egy történet húzódik meg a rendíthetetlen odaadásról és egy olyan nehéz bizalomról, amelyet a hordozó lélek szinte összetörhetett volna. Egy olyan pillanatban, amikor az emberek a bolondság és az arany felé fordultak, egy alak szilárdan állt – visszahívta őket, türelemért könyörgött, és egy szent ígéret súlyát viselte. Ez egy olyan személy története, akit segítőnek, vezírnek és a hit őrzőjének választottak egy szent távollét idején. Fel tudod fedezni ennek a rendíthetetlen léleknek a kilétét?",
+  "clues": [
+    "Egy nagy próféta véréből fakadok, akit arra választottak ki, hogy közvetlenül Allahhal beszéljen egy szent hegyen.",
+    "A testvérem egyszer Allahhoz könyörgött, hogy segítsen világosan beszélni egy nagy elnyomóval.",
+    "Allah engem választott ki, hogy segítőként és vezírként álljak a testvérem mellé.",
+    "Együtt néztünk szembe egy zsarnoki uralkodóval, aki követelte, hogy őt nevezzék a legfőbb istennek.",
+    "Míg a testvérem Allahhal beszélgetett a hegyen, a mi népünk aranyból készített magának bálványszobrot.",
+    "Mózes testvére vagyok, akit Allah vezírjének nevezett ki, és név szerint említenek a Koránban."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Hárun próféta (Áron)",
+        "Mózes próféta",
+        "Dawud próféta",
+        "Jakub próféta",
+        "Izsák próféta"
+      ],
+      "answer": "Hárun próféta (Áron)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A borjúimádat válsága",
+        "A Nuh nagy áradása",
+        "A badri csata",
+        "Thamud pusztulása",
+        "Szodoma pusztulása"
+      ],
+      "answer": "A borjúimádat válsága"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az aranyborjú",
+        "Noé bárkája",
+        "Az égő csipkebokor",
+        "A Hira-barlang",
+        "Sába trónja"
+      ],
+      "answer": "Az aranyborjú"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Allah által megerősített ártatlanság",
+        "A fáraó fulladása",
+        "A Kába építése",
+        "Biztonságos tengerátkelés",
+        "Felemelkedés a mennyekbe"
+      ],
+      "answer": "Allah által megerősített ártatlanság"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

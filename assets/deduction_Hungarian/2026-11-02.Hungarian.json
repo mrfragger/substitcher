@@ -1,0 +1,61 @@
+{
+  "title": "A rendíthetetlen szövetséges az aranypróbában",
+  "intro": "Egy nagy próféta árnyékában egy ékesszóló és hívő lelket választottak ki, hogy segítsen egy monumentális küldetésben. Ez a személy szilárdan állt, amikor a tömegek ingadoztak, és prédikált egy égbekiáltó vétség ellen, amely a monoteizmus lényegét fenyegette. Amikor a próféta visszatért, hogy tanúja legyen a nép hanyatlásának, a védelme nem a bűntudat, hanem a kötelességtudat és a megosztottságtól való félelem volt. Ki Allahnak ez az odaadó szolgája?",
+  "clues": [
+    "Allah egy szent kötelességre választott ki egy másik mellett, és a szerepem a támogatás és a hirdetés volt.",
+    "Tisztán beszélhettem, és egy hírvivővel szálltam szembe egy hatalmas elnyomóval.",
+    "Egy kritikus út során a hírvivő egyedül ment fel egy hegyre, engem pedig otthagyott, hogy vigyázzak az emberekre.",
+    "Távollétükben az emberek egy aranyszobrot készítettek, én pedig könyörögtem nekik, hogy maradjanak hűségesek, de nem fogadták meg a tanácsomat.",
+    "Amikor a hírvivő visszatért, tele dühvel és bánattal, elfogott a düh, de elmagyaráztam neki, hogy legyőztek, és félek, hogy viszályt szítok közöttük.",
+    "Én vagyok a próféta, aki Mózes, a testvérem mellett állt, osztozva terhén, és rendíthetetlenül kitartva a bálványimádás ellen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Harun próféta",
+        "Mózes próféta",
+        "Isa próféta",
+        "Dawud próféta",
+        "Zakariyya próféta"
+      ],
+      "answer": "Harun próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az emberek a figyelmeztetések ellenére imádták az aranyborjút",
+        "Az emberek lángoló tűzbe dobtak engem",
+        "Elnyelt egy hatalmas hal",
+        "Hamis vádak alapján börtönbe zártak",
+        "Prédikálásért száműztek a városomból"
+      ],
+      "answer": "Az emberek a figyelmeztetések ellenére imádták az aranyborjút"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az aranyborjú",
+        "Az égő csipkebokor",
+        "A kígyóvá változott bot",
+        "A szövetségtáblák",
+        "A Frigyláda"
+      ],
+      "answer": "Az aranyborjú"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Felmentettek, és folytathattam prófétai küldetésemet",
+        "Megbüntettek az emberek bűneiért",
+        "Egy új nemzetet kaptam, hogy vezessek",
+        "Élve felvittek a mennybe",
+        "Egy királyság uralkodójává tettek"
+      ],
+      "answer": "Felmentettek, és folytathattam prófétai küldetésemet"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

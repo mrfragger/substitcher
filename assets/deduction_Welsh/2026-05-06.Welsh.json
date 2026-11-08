@@ -1,0 +1,61 @@
+{
+  "title": "Y Llais o'r Llwyn Llosgi",
+  "intro": "Datgelwch hunaniaeth ffigwr dwys y dechreuodd ei daith gyda chyfarfyddiad gwyrthiol a'i dynged wedi'i chydblethu â rhyddhad pobl dan orthrwm. Dewiswyd yr unigolyn hwn ar gyfer tasg aruthrol, gan wynebu heriau aruthrol gyda chefnogaeth ddwyfol.",
+  "clues": [
+    "Cefais fy ngeni i gyfnod o orthrwm mawr, lle'r oedd babanod fy mhobl yn cael eu lladd.",
+    "Roedd fy mywyd cynnar yn cynnwys cael fy rhoi mewn afon gan fy rhiant, ond cefais fy nghael a'm magu yn nheulu gormeswr fy mhobl.",
+    "Unwaith, fe ffoes i o ddinas ar ôl achosi marwolaeth unigolyn yn anfwriadol yn ystod anghydfod.",
+    "Cefais neges ddwyfol a staff wyrthiol mewn lle cysegredig, lle cefais orchymyn i wynebu llywodraethwr pwerus.",
+    "Penodwyd fy mrawd yn gynorthwyydd i mi yn fy nghenhadaeth, oherwydd rhwystr canfyddedig yn fy lleferydd.",
+    "Arweiniais fy mhobl ar draws môr wedi'i hollti, gan ddianc rhag erlid byddin ormesol."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Yusuf",
+        "Proffwyd Isa",
+        "Proffwyd Musa",
+        "Proffwyd Nuh",
+        "Proffwyd Ibrahim"
+      ],
+      "answer": "Proffwyd Musa"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Blynyddoedd parhaus o sychder",
+        "Adeiladu'r Arch",
+        "Wynebu Pharo a'i swynwyr",
+        "Cael eich taflu i ffwrnais dânllyd",
+        "Dinistr pobl Thamud"
+      ],
+      "answer": "Wynebu Pharo a'i swynwyr"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y Kaaba",
+        "Y Wal Haearn",
+        "Y Staff",
+        "Llong Nuh",
+        "Cylch Sulaiman"
+      ],
+      "answer": "Y Staff"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cafodd dinas Sodom ei dymchwel",
+        "Llyncwyd y bobl gan y ddaear",
+        "Llyncodd y llifogydd mawr y tir",
+        "Boddwyd Pharo a'i fyddin",
+        "Cwympodd muriau'r ddinas o gri"
+      ],
+      "answer": "Boddwyd Pharo a'i fyddin"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

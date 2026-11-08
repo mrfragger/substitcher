@@ -1,0 +1,61 @@
+{
+  "title": "Ọnwụnwa nke Ọkụ Dị Nsọ",
+  "intro": "N'ala ochie ebe nraranye nye nkume a kpụrụ akpụ gbanyere mkpọrọgwụ n'ụlọ ọ bụla, otu onye guzoro iche. Site na nkwenye siri ike na nchebe Chineke, ha chere ihe kwesịrị ịbụ ọnwụ ihu - ma pụọ ​​​​n'enweghị mmerụ ahụ. Ị nwere ike ịchọpụta njirimara nke mkpụrụ obi a dị ịrịba ama?",
+  "clues": [
+    "A zụlitere m n'etiti ndị na-akpọ isiala nye arụsị ha ji aka ha kpụọ, na-ekwere na ihe ndị a nwere ike Chineke.",
+    "Mgbe m jụrụ ha ihe ha kweere, ha chụpụrụ m na mbụ, mana enweghị m ike ịgbachi nkịtị gbasara eziokwu m maara.",
+    "N'ụbọchị e chịkọtara ha, ebibiri m arụsị ha, naanị nke kachasị ukwuu ka m hapụrụ.",
+    "Mgbe ha lọtara wee hụ ihe m mere, ndị isi ha nyere iwu ka e wuo nnukwu ọkụ, na-achọ ịtụba m n'ọkụ.",
+    "Ha tụbara m n'ọkụ na-ere ọkụ, mana Onyenwe ụwa nyere iwu ka ọ dị jụụ ma dị nchebe nye m.",
+    "Apụtaara m n'ọkụ ahụ n'enweghị ihe ọ bụla mere m, ebe ndị mere atụmatụ megide m chere mbibi kpamkpam ihu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Ibrahim",
+        "Onye Amụma Mozis",
+        "Onye Amụma Nua",
+        "Onye Amụma Aịza",
+        "Onye Amụma Josef"
+      ],
+      "answer": "Onye Amụma Ibrahim"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịtụba n'ime ọkụ na-ere ọkụ",
+        "Ịbụ onye nnukwu whale loro",
+        "Ịlanarị nnukwu idei mmiri",
+        "Ịtụba n'ime olulu mmiri miri emi",
+        "Izute ndị dibịa afa eze"
+      ],
+      "answer": "Ịtụba n'ime ọkụ na-ere ọkụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Nnukwu osisi ọkụ",
+        "Igbe osisi mara mma",
+        "Ihe oyiyi nwa ehi ọlaedo",
+        "Nkata na-ese n'elu mmiri",
+        "Ocheeze mara mma"
+      ],
+      "answer": "Nnukwu osisi ọkụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Allah mere ka ọkụ ahụ dị jụụ ma dị nchebe",
+        "Ụgbọ ahụ dara n'ugwu n'enweghị nsogbu",
+        "Arụsị ọlaedo ahụ gbazere n'ihu ha n'anya",
+        "Onye ọchịchị aka ike na ndị agha ya nwụrụ n'oké osimiri",
+        "E meghere anya otu onye ìsì"
+      ],
+      "answer": "Allah mere ka ọkụ ahụ dị jụụ ma dị nchebe"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

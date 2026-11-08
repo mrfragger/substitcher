@@ -1,0 +1,61 @@
+{
+  "title": "The Trial of Sacred Flame",
+  "intro": "In an ancient land where devotion to carved stone had taken root in every home, one individual stood apart. Through unwavering conviction and divine protection, they faced what should have been certain death — and walked away unharmed. Can you uncover the identity of this remarkable soul?",
+  "clues": [
+    "I was raised among people who bowed to idols they had carved with their own hands, believing these objects held divine power.",
+    "When I challenged their beliefs, they dismissed me at first, but I could not remain silent about the truth I knew.",
+    "On a day when they were gathered away, I destroyed their idols, leaving only the largest one untouched.",
+    "When they returned and saw what I had done, their leaders commanded a great pyre to be built, intending to cast me into the flames.",
+    "They hurled me into the blazing fire, but the Lord of the worlds commanded it to become cool and safe for me.",
+    "I emerged from the flames completely unharmed, while those who plotted against me faced utter ruin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Isa",
+        "Prophet Yusuf"
+      ],
+      "answer": "Prophet Ibrahim"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Being cast into a blazing fire",
+        "Being swallowed by a great whale",
+        "Surviving a great flood",
+        "Being thrown into a deep well",
+        "Confronting a king's magicians"
+      ],
+      "answer": "Being cast into a blazing fire"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A massive pyre of burning wood",
+        "A great wooden ark",
+        "A golden calf statue",
+        "A floating basket on a river",
+        "A magnificent throne"
+      ],
+      "answer": "A massive pyre of burning wood"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Allah made the fire cool and safe",
+        "The ark landed safely on a mountain",
+        "The golden idol melted before their eyes",
+        "A tyrant and his army drowned in the sea",
+        "A blind man's sight was restored"
+      ],
+      "answer": "Allah made the fire cool and safe"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

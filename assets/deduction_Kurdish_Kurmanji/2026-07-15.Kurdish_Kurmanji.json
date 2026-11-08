@@ -1,0 +1,61 @@
+{
+  "title": "Vekişîna Tenêtiyê",
+  "intro": "Di salnameyên kerema îlahî de, giyanek bi paqijiyeke bêhempa heye, ku ji gelê xwe hatiye veqetandin da ku li tenêtiyê di rêgezek pîroz de bigere. Wan hindik dizanibû ku ev tenêtî dê ji bo hemû cîhanan nîşanek derxe holê, ceribandinek baweriyê ku dê heta hetayê were behs kirin.",
+  "clues": [
+    "Berî jidayikbûna xwe, ez ji bo jiyaneke xizmetkar hatibûm veqetandin.",
+    "Ez di bin çavdêriya pêxemberekî hêja de hatim danîn.",
+    "Ez bi rizqên ji Xwedê hatim xwedîkirin ku ew parêzvanê min matmayî kir.",
+    "Ez ji malbata xwe vekişiyam û çûm cihekî rojhilat.",
+    "Firîşteyek di şiklê mirovekî bêkêmahî de ji min re xuya bû û mizgîniya kurekî pak anî.",
+    "Dema ez bi pitika xwe ya nûbûyî vegeriyam, xelkê min ez sûcdar kirim, lê pitik ji bo parastina min axivî."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Meryem (Meryem)",
+        "Asiye (jina Fîrewn)",
+        "Hacer (dayika Îsmaîl)",
+        "Sara (jina Îbrahîm)",
+        "Dayîka Mûsa"
+      ],
+      "answer": "Meryem (Meryem)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ducanbûna bi mûcîze û jidayikbûna kurekî",
+        "Tê avêtin nav agir",
+        "Ji aliyê masîyekî mezin ve tê daqurtandin",
+        "Avakirina keştiyek mezin",
+        "Derbaskirina deryayê"
+      ],
+      "answer": "Ducanbûna bi mûcîze û jidayikbûna kurekî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Cihêkî rojhilatî yê dûr",
+        "Dara şewitî",
+        "Deryaya Sor",
+        "Kevirê ku av jê diherikî",
+        "Balîna"
+      ],
+      "answer": "Cihêkî rojhilatî yê dûr"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Zarokek ji bo parastina dayikê axivî",
+        "Derya ji hev bû",
+        "Agir sar û ewle bû",
+        "Balîna li ser peravê vereşiya",
+        "Keştiya gemiyê li ser çiyayekî danî"
+      ],
+      "answer": "Zarokek ji bo parastina dayikê axivî"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

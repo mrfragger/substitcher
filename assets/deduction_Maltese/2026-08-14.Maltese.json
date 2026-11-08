@@ -1,0 +1,61 @@
+{
+  "title": "L-Idejn Misħuta",
+  "intro": "Inti wieqaf fis-sqaqien imdawwrin ta' Mekka tal-qedem, fejn ruħ influwenti u għanja darba warrbet is-sejħa tal-verità. L-istorja ta' din il-figura hija tfakkira qawwija li r-rabtiet tad-demm ma jistgħux jegħlbu l-ktajjen tal-kburija. Min hu dan li ismu jidwi man-nar li qed jistenna?",
+  "clues": [
+    "Imxejt fit-toroq ta’ Mekka b’kburija li għamietni għall-verità, għalkemm il-messaġġier kien tad-demm tiegħi stess.",
+    "Il-ġid tiegħi kien vast, iżda sar saħta aktar milli tarka.",
+    "Il-ktieb tal-gwida jitkellem dwar ir-rovina tiegħi, u jiddikjara li idejja u l-persuna tiegħi se jmutu.",
+    "Żewġi ngħaqdet mal-kampanja ta’ għadwa tiegħi, tiġbor xewk biex tifrex fit-triq ta’ dak li sejjaħ lil Alla.",
+    "F’jum il-ġudizzju, jien se ninġarr f’nar jaqbad, u l-għarus tiegħi se jkollu ħabel magħmul minn fibra tal-palm madwar għonqu.",
+    "Jiena magħruf b'isem li jfisser 'missier il-fjamma' — isem li jbassar ir-residenza eterna tiegħi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova jew Avveniment Ewlieni",
+      "options": [
+        "Oppona lill-Profeta u ġie misħut fil-Koran",
+        "Mexxa armata biex teqred il-Kaaba",
+        "Ipprova joqtol lill-Profeta billi jitfa’ l-ġebel",
+        "Irrifjuta li jemmen fil-qsim tal-qamar",
+        "Bniet torri biex tilħaq is-smewwiet"
+      ],
+      "answer": "Oppona lill-Profeta u ġie misħut fil-Koran"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "In-Nar Jaħraq tal-Infern",
+        "L-Istaff ta’ Musa",
+        "L-Arka ta’ Nuh",
+        "Il-Bir ta’ Zamzam",
+        "L-Għoġol tad-Deheb"
+      ],
+      "answer": "In-Nar Jaħraq tal-Infern"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Huwa jidħol fin-Nar jaħraq, u l-ġid tiegħu ma jiswielu xejn",
+        "Hu nidem u sar jemmen",
+        "Huwa ġie maħfur wara li rrifjuta",
+        "Huwa miet bħala martri",
+        "Huwa ttieħed lejn is-smewwiet"
+      ],
+      "answer": "Huwa jidħol fin-Nar jaħraq, u l-ġid tiegħu ma jiswielu xejn"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

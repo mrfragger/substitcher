@@ -1,0 +1,61 @@
+{
+  "title": "Hasta Bir",
+  "intro": "Çok uzun zaman önce, insanlık tarihinin en eski günlerinde, iki ruh Yaratıcılarının huzuruna adaklar sunmuştu. Biri kabul edildi, diğeri edilmedi. Ardından kardeşler arasında ilk büyük trajedi yaşandı: biri sabırlı bir özveri, diğeri ise acı bir intikam eylemi. Benim kim olduğumu ortaya çıkarabilir misin?",
+  "clues": [
+    "Ben, insanlığın yeryüzündeki varoluşunun ilk günlerinde doğdum.",
+    "Ben, bu yeryüzünde yürüyen ilk insan çiftinin çocuğuyum.",
+    "Bir zamanlar, Yaratıcımı memnun etmek için sürümün en iyilerinden bir kurban sunmuştum.",
+    "Benim sunduğum adak yukarıdan kabul edildi, kardeşimin sunduğu adak ise reddedildi.",
+    "Ölümle tehdit edildiğimde, kardeşime karşı elimi kaldırmamayı tercih ettim.",
+    "İnsanlık tarihinde bir başkası tarafından haksız yere öldürülen ilk kişi oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Habil (Abel), Âdem'in oğlu",
+        "Kabil (Kain), Âdem oğlu",
+        "Adam, ilk insan",
+        "Nuh (Nuh)",
+        "İbrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), Âdem'in oğlu"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İnsanlık tarihindeki ilk cinayet",
+        "Nuh tufanı",
+        "Fir'awn'ın ordusunun yok edilmesi",
+        "İbrahim'in İsmail'i kurban etmesi",
+        "Jalut'a (Golyat) karşı savaş"
+      ],
+      "answer": "İnsanlık tarihindeki ilk cinayet"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Hoşnutluk uyandıracak bir kurban olarak sunulan koyun",
+        "Büyük bir ahşap gemi",
+        "Yılana dönüşen bir asa",
+        "Kraliyet mesajı taşıyan bir ibibik kuşu",
+        "Alev alev yanan bir hendek"
+      ],
+      "answer": "Hoşnutluk uyandıracak bir kurban olarak sunulan koyun"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İnsanlık tarihinde cinayete kurban giden ilk kişi oldu.",
+        "Ahşap bir geminin içinde büyük bir selden sağ kurtuldu.",
+        "Büyük bir balığın karnının içinde yaşadı.",
+        "Cinlere, insanlara ve rüzgara hükmederdi.",
+        "Kırk yıl boyunca uçsuz bucaksız bir vahşi doğada dolaştı."
+      ],
+      "answer": "İnsanlık tarihinde cinayete kurban giden ilk kişi oldu."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

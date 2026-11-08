@@ -1,0 +1,61 @@
+{
+  "title": "Salajase saagi hoidjad",
+  "intro": "Rohelikus maal sepitses grupp inimesi pimeduse varjus salaplaani. Neil oli ühine eesmärk, kuid nende kavatsus polnud kaugeltki õiglane. Nad ei teadnud veel, et neid unes ootab ees jumalik pööre.",
+  "clues": [
+    "Tegime kindla otsuse, arvates, et meie plaan on veatu.",
+    "Me kavatsesime varakult välja minna, enne kui teised jõudsidki liikuda.",
+    "Me asusime viljakale maatükile, kindlad oma varude üle.",
+    "Sihtkohta jõudes leidsime selle viljatu ja mahajäetuna, nii et arvasime, et oleme teelt eksinud.",
+    "Siis taipasime, et see on tõepoolest meie koht, ja hüüdsime meeleheites, süüdistades teineteist oma kaotuses.",
+    "Olime sel hommikul vandunud, et vaesed oma saagist välja jätame, aga Allahi karistus tabas meid une ajal ja muutis meie aia varemeteks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Aia omanikud suuras 68",
+        "Saba rahvas",
+        "Koopa kaaslased",
+        "Elevandi rahvas",
+        "Kaeviku rahvas"
+      ],
+      "answer": "Aia omanikud suuras 68"
+    },
+    "trial": {
+      "label": "Meie kohtuprotsess",
+      "options": [
+        "Meie aed hävis taevast tulnud õnnetuse tagajärjel",
+        "Meie aeda pühkis üleujutus",
+        "Meie aed põles vaenlase tulekahjus maha",
+        "Meie aed oli täis rohutirtse",
+        "Meie aed neelas maavärin alla"
+      ],
+      "answer": "Meie aed hävis taevast tulnud õnnetuse tagajärjel"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Me vandusime, et korjame hommikul selle vilju",
+        "Ehitasime oma aia niisutamiseks tammi",
+        "Otsisime koopast varjupaika, et kaitset leida",
+        "Valmistasime ette armee kuningriigi vallutamiseks",
+        "Me purjetasime laevaga merd ületama"
+      ],
+      "answer": "Me vandusime, et korjame hommikul selle vilju"
+    },
+    "outcome": {
+      "label": "Meie saatus",
+      "options": [
+        "Me kahetsesime ja lootsime Allahilt halastust",
+        "Meid hävitati täielikult ja me ei kahetsenud kunagi",
+        "Me põgenesime maalt ja ei tulnud enam tagasi",
+        "Meist said jälle võimsad ja rikkad",
+        "Meid karistati ahvideks muutmisega"
+      ],
+      "answer": "Me kahetsesime ja lootsime Allahilt halastust"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

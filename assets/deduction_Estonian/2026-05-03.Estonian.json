@@ -1,0 +1,61 @@
+{
+  "title": "Uinunud tõeotsijad",
+  "intro": "Kujutage ette aega, mil uskumus seati kahtluse alla ja grupp hingi valis vankumatu veendumuse maise mugavuse asemel. Hirmuäratava valiku ees otsisid nad varjupaika ja asusid teekonnale, mis viis erakordse unne. Nende lugu on tunnistus jumalikust kaitsest ja usu väest rõhumise vastu. Kas suudate nende tähelepanuväärsete inimeste identiteeti eristada?",
+  "clues": [
+    "Me olime väike kogudus, keda ühendas sügav usk Ühtsesse Loojasse.",
+    "Me elasime ajal, mil võimas valitseja nõudis kellegi teise kummardamist peale Allahi.",
+    "Oma usu säilitamiseks otsustasime oma kodud maha jätta ja rõhumise eest põgeneda.",
+    "Meie teekonnal saatis meid ustav kaaslane, maapealne olend.",
+    "Leidsime varjupaiga eraldatud paigas, kus Allah lasi meil sügavasse ja pikale unne vajuda.",
+    "Ärgates uskusime, et möödunud on vaid päev või osa päevast, aga tegelikult olid möödunud sajandeid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Kraavi rahvas",
+        "Thamudi rahvas",
+        "Saba rahvas",
+        "Koopa rahvas",
+        "Madjani rahvas"
+      ],
+      "answer": "Koopa rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Katsumused viljatu maa peal",
+        "Suure üleujutusega silmitsi seistes",
+        "Otsides varjupaika türanliku valitseja eest",
+        "Põlevasse tulle heidetud",
+        "Nõia maagia vaidlustamine"
+      ],
+      "answer": "Otsides varjupaika türanliku valitseja eest"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Suurejooneline palee",
+        "Laev/laev",
+        "Sügav kaev",
+        "Koobas",
+        "Kõrguv mägi"
+      ],
+      "answer": "Koobas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Kuningriigi saamine",
+        "Imeline uni sajandeid",
+        "Maa alla neelata",
+        "Päästetud hävitavast tormist",
+        "Taevase laua saamine"
+      ],
+      "answer": "Imeline uni sajandeid"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

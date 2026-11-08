@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe le le Didimetseng la Mokgatšha",
+  "intro": "Boela morago mo nakong kwa bathong ba ba maatla ba ba kileng ba amogela kgakgamatso e e tshelang jaaka teko. Boikgogomoso le botlhogoethata di ne tsa tshwaya phelelo ya bone. A o ka latedisa kgang eno le go lemoga gore go ne ga diragala eng mo phetogong eno e e gakgamatsang?",
+  "clues": [
+    "Ke ne ka romelwa jaaka teko ya bomodimo kwa bathong ba ba nonofileng ba ba neng ba itsege ka maatla le go tlhoka maitseo ga bone.",
+    "Ke ne ke le selo se se gakgamatsang se se tlhomologileng—batho ba ba tshwanang le nna ba ne ba ise ba ko ba tlhagelele mo gare ga bone.",
+    "Ke ne ke abelana metsi a go nwa a a tswang mo sedibeng le batho ba gaetsho ka malatsi a a farologaneng.",
+    "Ba ne ba tlhagisiwa gore go utlwisiwa botlhoko gope fela go ne go tla dira gore ke otlhaiwe ka bonako.",
+    "Ba ba neng ba le pelokgale thata mo go bone ba ne ba itlhokomolosa tlhagiso mme ba nkgobatsa.",
+    "Morago ga loso lwa me, selelo se le sengwe fela sa maru se se tswang kwa godimo se ne sa senya batho ba gaetsho botlhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Kamela e e namagadi ya ga Salih",
+        "Kgomo ya ga Musa",
+        "Sekepe sa Nuh",
+        "Badiri ba ga Musa",
+        "Terone ya ga Bilqis"
+      ],
+      "answer": "Kamela e e namagadi ya ga Salih"
+    },
+    "trial": {
+      "label": "Phelelo ya me",
+      "options": [
+        "O kgaotswe marapo a bo a bolawa",
+        "E tlhabilwe e le setlhabelo",
+        "E fetotswe go nna noga",
+        "E bolokilwe ka morwalela o mogolo",
+        "E tlisitswe ka bonako go kgabaganya bogosi"
+      ],
+      "answer": "O kgaotswe marapo a bo a bolawa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Sediba sa metsi",
+        "Letlapa la letlapa",
+        "Setlhatshana se se tukang",
+        "Letlole la logong",
+        "Setulo sa bogosi sa gouta le selefera"
+      ],
+      "answer": "Sediba sa metsi"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E sentswe ke go goa gangwe fela",
+        "A nwela mo morwaleleng o mogolo",
+        "E fisitswe ke pula ya matlapa",
+        "E thubagantswe ke phefo e e maatla",
+        "E meditswe ke lefatshe"
+      ],
+      "answer": "E sentswe ke go goa gangwe fela"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

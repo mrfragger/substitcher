@@ -1,0 +1,61 @@
+{
+  "title": "Drottininn sem ferðaðist um enda veraldar",
+  "intro": "Ímyndaðu þér öflugan stjórnanda, sem hefur fengið styrk og vald yfir landinu. Þessi persóna lagði upp í óvenjuleg ferðalög, komst þangað sem sólin sest og þangað sem hún rís, hitti framandi fólk og stóð frammi fyrir mikilli áskorun frá tveimur spilltum þjóðum. Hver er þessi dularfulli leiðtogi?",
+  "clues": [
+    "Ég var stjórnandi sem hafði vald og leiðir til að ná til ystu króka jarðar.",
+    "Ég ferðaðist til vesturs og varð vitni að sólinni setjast í dimmu vori.",
+    "Ég rakst á fólk nálægt upprásar sólarinnar sem hafði ekkert skjól fyrir hita hennar.",
+    "Annað samfélag bað mig um hjálp gegn tveimur spilltum þjóðum sem kallast Góg og Magóg.",
+    "Ég byggði hindrun úr járni og bráðnum kopar til að halda þeim inni.",
+    "Ég lýsti því yfir að þessi hindrun væri miskunn frá Drottni mínum og hún muni standa þar til tilsetts tíma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Spámaðurinn Súlaiman",
+        "Qarun",
+        "Talút",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að byggja upp hindrun gegn Góg og Magóg",
+        "Að lifa af stórflóð",
+        "Að vera kastað í eld",
+        "Að fara yfir hafið",
+        "Að berjast við risa"
+      ],
+      "answer": "Að byggja upp hindrun gegn Góg og Magóg"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Hindrun úr járni og kopar",
+        "Stafurinn sem varð að snák",
+        "Skip úr tré",
+        "Höll úr gleri",
+        "Garður með döðlupálmum"
+      ],
+      "answer": "Hindrun úr járni og kopar"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Góg og Magóg voru haldið í skefjum þar til tilsettur tími kom.",
+        "Hann varð spámaður",
+        "Hann var refsað fyrir hroka",
+        "Hann sigraði allan heiminn",
+        "Hann lifði að eilífu"
+      ],
+      "answer": "Góg og Magóg voru haldið í skefjum þar til tilsettur tími kom."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

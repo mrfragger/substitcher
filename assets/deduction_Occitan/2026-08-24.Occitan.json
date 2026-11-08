@@ -1,0 +1,61 @@
+{
+  "title": "Los Escotaires Amagats que Cresián",
+  "intro": "Dins l'immobilitat d'una reünion sacrada, una assemblada remarcabla arribèt d'un reialme invisible. Atirat per de murmurs de quicòm de meravilhós, escotèron de recitacions que sagellariá lor destin per totjorn. Lor testimoniatge demòra un dels mai unics de l'escritura divina.",
+  "clues": [
+    "Sèm d'èssers d'un reialme invisible per la màger part, e sèm venguts en grop.",
+    "Viatgèrem cap a un rescontre per ausir quicòm de remarcable.",
+    "Quand arribèrem, escotèrem una recitacion que nos daissèt esbalausit.",
+    "Reconeguèrem dobèrtament que d'unes d'entre nosautres son justes e d'unes non.",
+    "Sabiam que podiam pas escapar al decrèt divin sus tèrra, ni per fugida dins lo cèl.",
+    "Quand ausissèm l'orientacion, i creguèrem; qui cre en son Senhor non aura paor de perda ni de carga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Un grop de Jinn",
+        "Lo pòble d'Iram",
+        "Lo Gòble de Tubba'.",
+        "L'Empèri Roman",
+        "La Tribú de Quraysh"
+      ],
+      "answer": "Un grop de Jinn"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Escotar una recitacion sacrada",
+        "Bastir de pilars elevats dins nòstra vila",
+        "Caçant una magnifica camèla",
+        "Èsser destruch per aver tuat nòstres profètas",
+        "Multiplicar la riquesa al delà de la mesura"
+      ],
+      "answer": "Escotar una recitacion sacrada"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una reünion de recitacion sagrada",
+        "Una ciutat de nauts pilars (Iram)",
+        "Un potz dins lo desèrt",
+        "Un grand palais d'aur",
+        "Una cauna sagrada dins las montanhas"
+      ],
+      "answer": "Una reünion de recitacion sagrada"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Creguèrem e avertiguèrem nòstre pòble",
+        "Destruch per un poderós buf del cèl",
+        "Castigat per un vent ardent e destructor",
+        "Concedida una riquesa e un poder immenses",
+        "Demorèt ferm dins l'incredulitat"
+      ],
+      "answer": "Creguèrem e avertiguèrem nòstre pòble"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

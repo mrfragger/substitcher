@@ -1,0 +1,61 @@
+{
+  "title": "Armija, kuru sagaidīja lidojošais māls",
+  "intro": "Laikā pirms pravieša Muhameda kāds varens Jemenas valdnieks uzsāka militāru kampaņu, kuras mērķis bija iznīcināt svētu svētnīcu Mekā. Šis ienaidnieks vadīja milzīgu armiju, kurā bija arī kara ziloņi, pārliecināts par savu spēku un skaitu. Tomēr viņu ceļojums pēkšņi beidzās, kad viņi saskārās ar negaidītu dievišķu iejaukšanos. Vai vari noteikt, kam nācās saskarties ar šo ievērojamo atmaksas brīdi?",
+  "clues": [
+    "Mēs devāmies soļojot ar milzīgu armiju un spēcīgiem kara ziloņiem uz svēto namu",
+    "Mēs iecerējām izrauti un iznīcināt pielūgsmes vietu, ko uzcēla Visžēlsirdīgākā kalpi",
+    "Pret mums tika sūtīts mazu putnu bars, kas knābjos un nagos nesa māla akmeņus",
+    "Mūs sagaidīja skaņa, kas meta mums virsū akmeņus, pārvēršot mūs samītās drupās",
+    "Es biju no Jemenas zemes un kalpoju valdnieka pakļautībā, kurš centās saglabāt svēto svētnīcu",
+    "Mēs tikām radīti par piemēru tiem, kas uzdrošinājās nicināt Allāha svētnīcu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Abraha al-Ašrama armija",
+        "Etiopijas spēki",
+        "Persiešu iekarotāji",
+        "Romas leģioni",
+        "Beduīnu laupītāji"
+      ],
+      "answer": "Abraha al-Ašrama armija"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Tuksneša cietokšņa aplenkums",
+        "Iebrukums svētajā svētnīcā Mekā",
+        "Jūras kauja jūrā",
+        "Sacelšanās pret tirānu karali",
+        "Pazudušā pravieša meklējumi"
+      ],
+      "answer": "Iebrukums svētajā svētnīcā Mekā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Mīnas ieleja netālu no Mekas",
+        "Sanas pils Jemenā",
+        "Tihamas kalni",
+        "Senā Jeruzalemes pilsēta",
+        "Sarkanās jūras krasti"
+      ],
+      "answer": "Mīnas ieleja netālu no Mekas"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Svētā nama uzvara un iznīcināšana",
+        "Sakāve, ko veic putni, kas nes māla akmeņus",
+        "Miermīlīga padošanās un atgriešanās",
+        "Bads un dabas katastrofa",
+        "Atkāpšanās spēcīgu lietusgāžu dēļ"
+      ],
+      "answer": "Sakāve, ko veic putni, kas nes māla akmeņus"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

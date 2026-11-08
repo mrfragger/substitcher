@@ -1,0 +1,61 @@
+{
+  "title": "Qədim Vadinin Daş Yonucuları",
+  "intro": "Ərəbistanın qayalı vadilərində ucalmış, dağ yamaclarından möhtəşəm evlər oymaqda usta olan bir sivilizasiyanı təsəvvür edin. Onlar güc və sənətkarlıqla çiçəklənsələr də, onların hekayəsi ilahi xəbərdarlığa qarşı qorxunc bir itaətsizliklə yadda qalıb. Onların hekayəsini araşdırdıqca, təkəbbürləri tamamilə məhv olan bir xalqı aşkar edəcəksiniz. Onlar kim idilər?",
+  "clues": [
+    "Bizə misilsiz məharətlə evlərimizi tikdiyimiz qayalı düzənliklər və uca qayalar torpağı miras qalıb.",
+    "Biz dağlarda təhlükəsiz evlər tikməyimizlə tanınırdıq və özümüzü hər hansı bir zərərdən qorunmuş hiss edirdik.",
+    "Bizə öz aramızdan bir elçi gəldi, bizə Allahın nemətlərini xatırladır və bizi əzabla qorxudurdu.",
+    "Biz bir əlamət tələb etdik və qayadan möcüzəvi bir dişi dəvə çıxdı ki, bu da Allah tərəfindən açıq-aşkar bir sınaq idi.",
+    "Biz xəbərdarlığa məhəl qoymadıq və dəvənin ayaq vədini kəsdik, elçini lağa qoyduq və cəzaya etiraz etdik.",
+    "Evlərimizdə tək bir səs bizi bürüdü və səhərə yaxın sanki orada heç yaşamamış kimi üzüqoylu uzandıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Səmud xalqı",
+        "Ad xalqı",
+        "Mədyən xalqı",
+        "Nuh qövmü",
+        "Lut qövmü"
+      ],
+      "answer": "Səmud xalqı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Dişi dəvənin ayaq budlarını dartın",
+        "Şənbə gününü pozdu",
+        "Qızıl buzova ibadət etdi",
+        "Onlara göndərilən peyğəmbəri öldürdülər",
+        "Göyə çatmaq üçün bir qüllə tikdi"
+      ],
+      "answer": "Dişi dəvənin ayaq budlarını dartın"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dişi dəvə",
+        "Gəmi",
+        "İşçilər",
+        "Ağ əl",
+        "Manna və bildirçinlər"
+      ],
+      "answer": "Dişi dəvə"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Partlayış nəticəsində dağıdılıb",
+        "Məhv olmaqdan xilas oldu",
+        "Meymunlara çevrildi",
+        "Dənizdə boğuldu",
+        "Torpaq tərəfindən udulmuş"
+      ],
+      "answer": "Partlayış nəticəsində dağıdılıb"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

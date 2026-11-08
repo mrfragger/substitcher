@@ -1,0 +1,61 @@
+{
+  "title": "Sự hiếu khách mang đến nỗi sợ hãi",
+  "intro": "Trong một thành phố chìm đắm trong tội lỗi, một người đầy tớ trung thành nọ nhận được những vị khách không mời mà đến. Lo lắng cho sự an toàn của họ, người đầy tớ đề nghị bảo vệ, nhưng dân chúng thành phố lại đòi hỏi một điều nhục nhã. Được cảnh báo về một tai họa sắp xảy ra, người đầy tớ đã bỏ trốn cùng gia đình dưới màn đêm, bỏ lại phía sau một thành phố đang bị định đoạt sự hủy diệt. Người tín đồ đơn độc này là ai?",
+  "clues": [
+    "Tôi được phái đến làm sứ giả cho một dân tộc đã phạm phải những hành vi đáng hổ thẹn.",
+    "Những vị khách không mời mà đến đã bất ngờ xuất hiện tại nhà tôi, và tôi lo lắng cho sự an toàn của họ hơn là của chính mình.",
+    "Người dân của tôi yêu cầu được gặp khách của tôi vì những ý đồ xấu xa, và tôi đã cố gắng thuyết phục họ bằng lý lẽ.",
+    "Những vị khách của tôi hiện thân là các thiên thần và ra lệnh cho tôi đưa gia đình rời đi trong đêm.",
+    "Vợ tôi đã không nghe theo lời kêu gọi chạy trốn và cũng phải chịu chung số phận bi thảm với người dân của tôi.",
+    "Thành phố của tôi bị đảo lộn bởi một trận mưa đá đất sét nhiều lớp, những phần cao nhất bị hạ xuống thấp nhất."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Lut",
+        "Tiên tri Musa",
+        "Tiên tri Ibrahim",
+        "Tiên tri Nuh",
+        "Tiên tri Hud"
+      ],
+      "answer": "Tiên tri Lut"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Yêu cầu của người dân tôi là tiếp cận khách của tôi một cách xấu xa.",
+        "Rẽ biển để trốn thoát khỏi bạo chúa",
+        "Việc đóng một con tàu lớn giữa sự chế giễu",
+        "Sự hy sinh của con trai tôi trong một thử thách đức tin.",
+        "Trải nghiệm bị một con cá lớn nuốt chửng"
+      ],
+      "answer": "Yêu cầu của người dân tôi là tiếp cận khách của tôi một cách xấu xa."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thành phố bị lật đổ của dân tộc tôi",
+        "Ngọn núi nơi tôi nhận được lời nói thiêng liêng",
+        "Con thuyền Noah đã vượt qua trận đại hồng thủy.",
+        "Con lạc đà cái xuất hiện từ tảng đá.",
+        "Khu vườn với một vị khách chính trực ẩn mình"
+      ],
+      "answer": "Thành phố bị lật đổ của dân tộc tôi"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Tôi và gia đình đã được cứu thoát trước khi thành phố của tôi bị lật đổ.",
+        "Tôi đã dẫn dắt dân tộc mình vượt biển đến tự do.",
+        "Tôi đã đóng một con thuyền lớn và sống sót qua một trận lụt kinh hoàng.",
+        "Ta được ban cho quyền cai quản gió và thần linh.",
+        "Tôi kiên nhẫn chịu đựng đau khổ và được đền đáp bằng tình cảm gia đình."
+      ],
+      "answer": "Tôi và gia đình đã được cứu thoát trước khi thành phố của tôi bị lật đổ."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

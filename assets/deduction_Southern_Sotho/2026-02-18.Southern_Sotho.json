@@ -1,0 +1,61 @@
+{
+  "title": "Paki e Tiileng",
+  "intro": "Pale e tebileng ea hlahella, e senola boikemisetso bo sa sisinyeheng ba sechaba ha se tobane le bokhopo bo boholo. Pale ea bona e sebetsa e le bopaki ba tumelo, leha se tobane le sehlabelo sa ho qetela. Tlaleho ena e re hopotsa matla a tumelo khahlanong le khatello e matla.",
+  "clues": [
+    "Re ne re le sehlopha seo pale ea sona e phetoang ka surah e khutšoanyane, e matla, e lemosang khahlanong le mahloriso.",
+    "Re ile ra tobana le 'musi ea neng a lakatsa ho felisa tumelo ea rona ho Molimo a le Mong, Morena oa Terone, Ea Lokelang ho Rorisoa.",
+    "Re ile ra tobana le teko e tšabehang e amanang le mokoti o moholo o chekiloeng mobung.",
+    "Re ile ra shebella ha balumeli, ho kenyeletsoa le masea, ba lahleloa mollong o tukang ka har'a sekoti seo.",
+    "Bahlorisi ba rona ba ile ba rohakoa ka lebaka la liketso tsa bona, ha rona re ne re tšepisitsoe moputso o moholo bakeng sa ho tiea ha rona.",
+    "Boiteko ba 'musi ba ho tima tumelo ea rona bo tiisitse sebaka sa rona joalo ka bashoela-tumelo mahlong a Allah, eo e leng paki ea lintho tsohle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba Thamud",
+        "Batho ba 'Ad",
+        "Batho ba Sekoti",
+        "Batho ba Lute",
+        "Batho ba Tlou"
+      ],
+      "answer": "Batho ba Sekoti"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Moroallo o Moholo",
+        "Sehlahla se Chesang",
+        "Ho Khangoa ke Metsi Leoatleng",
+        "Sekoti sa Mollo",
+        "Tšisinyeho ea Lefatše"
+      ],
+      "answer": "Sekoti sa Mollo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Areka",
+        "Basebetsi",
+        "Sekoti",
+        "Thaba",
+        "Seliba"
+      ],
+      "answer": "Sekoti"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Ba filoe 'muso",
+        "Ba pholositsoe ka mohlolo",
+        "Ho fihlela tumelo le Paradeise",
+        "Li ne li hasane linaheng tse ling",
+        "Ba ne ba fuoe leruo le leholo"
+      ],
+      "answer": "Ho fihlela tumelo le Paradeise"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

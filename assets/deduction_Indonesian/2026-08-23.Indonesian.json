@@ -1,0 +1,61 @@
+{
+  "title": "Kerumunan yang Hilang",
+  "intro": "Anda berdiri di hadapan gema sebuah komunitas yang kisahnya tertulis di ombak. Jiwa-jiwa ini mendengar panggilan, memilih pembangkangan, dan menghadapi konsekuensi yang mengubah bumi. Siapakah mereka, dan apa yang terjadi pada dunia mereka?",
+  "clues": [
+    "Kita hidup di masa lalu, dan seorang utusan datang kepada kita dari antara kita sendiri.",
+    "Kami menyembah lima berhala dan menolak untuk meninggalkannya.",
+    "Kami mengejek utusan itu dan menuduhnya sesat.",
+    "Kami menuntut agar dia menjatuhkan hukuman jika dia mengatakan yang sebenarnya.",
+    "Kami melihat langit menurunkan hujan lebat dan bumi memancarkan mata air.",
+    "Kami memanjat ke tempat yang tinggi untuk menyelamatkan diri, tetapi ombak menerjang kami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Orang-orang Nuh",
+        "Orang-orang 'Ad",
+        "Orang-orang Tsamud",
+        "Orang-orang Lut",
+        "Penduduk Madyan"
+      ],
+      "answer": "Orang-orang Nuh"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Kami tenggelam dalam banjir besar.",
+        "Kami hancur akibat badai",
+        "Kami tewas akibat ledakan keras.",
+        "Kami ditelan oleh bumi.",
+        "Kami dilempari batu dari langit."
+      ],
+      "answer": "Kami tenggelam dalam banjir besar."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Banjir besar",
+        "Angin kencang",
+        "Hujan batu",
+        "Ledakan dahsyat",
+        "Gempa bumi"
+      ],
+      "answer": "Banjir besar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kita semua binasa kecuali orang-orang beriman bersama Nuh.",
+        "Kami berubah menjadi kera",
+        "Kami ditinggalkan sebagai reruntuhan bagi para pelancong.",
+        "Kami diubah menjadi garam",
+        "Kami diberi waktu istirahat"
+      ],
+      "answer": "Kita semua binasa kecuali orang-orang beriman bersama Nuh."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Los guardianes del jardín",
+  "intro": "En un jardín exuberante, una comunidad hizo un solemne voto. Pero su determinación se puso a prueba cuando la voluntad divina intervino, transformando su abundancia en una tierra estéril.",
+  "clues": [
+    "Tuvimos la suerte de contar con un jardín abundante, pero nos volvimos arrogantes.",
+    "Hicimos un plan para cosechar sin compartir con los pobres.",
+    "Salimos temprano por la mañana, confiados en nuestro plan.",
+    "Pero cuando llegamos, descubrimos que nuestro jardín había quedado destrozado durante la noche.",
+    "Nos dimos cuenta de nuestro error y empezamos a culparnos mutuamente.",
+    "Finalmente nos arrepentimos, pero aprendimos la lección demasiado tarde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Gente del jardín",
+        "Gente de la cueva",
+        "Gente del elefante",
+        "Gente de Thamud",
+        "Gente de 'Anuncio'"
+      ],
+      "answer": "Gente del jardín"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Un jardín convertido en cenizas",
+        "Una inundación que lo destruyó todo.",
+        "Una hambruna que azotó la tierra",
+        "Un ejército de pájaros atacando",
+        "Un fuerte viento que arrancó árboles de raíz"
+      ],
+      "answer": "Un jardín convertido en cenizas"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un jardín",
+        "Una cueva",
+        "Un barco",
+        "Una montaña",
+        "Un palacio"
+      ],
+      "answer": "Un jardín"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se arrepintieron, pero perdieron su jardín.",
+        "Fueron destruidos por completo",
+        "Se convirtieron en simios",
+        "Fueron salvados por la fe.",
+        "Se convirtieron en gobernantes"
+      ],
+      "answer": "Se arrepintieron, pero perdieron su jardín."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

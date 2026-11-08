@@ -1,0 +1,61 @@
+{
+  "title": "Przeklęte ręce",
+  "intro": "Stoisz w krętych zaułkach starożytnej Mekki, gdzie wpływowa i bogata dusza odwróciła się niegdyś od zewu prawdy. Historia tej postaci to dobitne przypomnienie, że więzy krwi nie są w stanie przezwyciężyć okowów pychy. Kim jest ten, którego imię rozbrzmiewa echem w ogniu, który na niego czeka?",
+  "clues": [
+    "Chodziłem ulicami Mekki z dumą, która nie pozwalała mi dostrzec prawdy, chociaż posłańcem byłem ja sam.",
+    "Posiadałem ogromne dobra, które jednak stały się dla mnie przekleństwem, a nie tarczą.",
+    "Księga przewodnictwa mówi o mojej zagładzie, ogłaszając, że moje ręce i moja osoba zginą.",
+    "Mój małżonek przyłączył się do mojej kampanii wrogości, zbierając ciernie, aby rozrzucić je na ścieżce Tego, który wzywał Allaha.",
+    "W dniu sądu zostanę wrzucony w płonący ogień, a mój małżonek będzie miał na szyi sznur z włókien palmowych.",
+    "Jestem znany pod imieniem, które oznacza „ojciec płomienia” — imieniem, które przepowiada moje wieczne przebywanie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Abu Lahab",
+        "Abu Dżahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Kluczowe badanie lub wydarzenie",
+      "options": [
+        "Sprzeciwił się Prorokowi i został przeklęty w Koranie",
+        "Poprowadził armię, która zniszczyła Kaabę",
+        "Próbowano zabić Proroka rzucając kamieniami",
+        "Odmówił wiary w rozdzielenie się księżyca",
+        "Zbudowałem wieżę, aby sięgnąć nieba"
+      ],
+      "answer": "Sprzeciwił się Prorokowi i został przeklęty w Koranie"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Płonący Ogień Piekielny",
+        "Laska Musy",
+        "Arka Noego",
+        "Studnia Zamzam",
+        "Złoty cielec"
+      ],
+      "answer": "Płonący Ogień Piekielny"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wstąpi w płonący ogień, a jego bogactwo nie pomoże mu",
+        "Pokutował i uwierzył",
+        "Został mu wybaczone po odwołaniu",
+        "Zmarł jako męczennik",
+        "Został wzięty do nieba"
+      ],
+      "answer": "Wstąpi w płonący ogień, a jego bogactwo nie pomoże mu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

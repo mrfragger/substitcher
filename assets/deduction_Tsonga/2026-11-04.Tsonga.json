@@ -1,0 +1,61 @@
+{
+  "title": "xuma lexi nweleke ehansi ka ku tikukumuxa",
+  "intro": "Anakanya u yime emahlweni ka tinhulu ta rifuwo lerikulu lerova ku rhwala swilotlelo ntsena swi nga karharisa ntlawa wa vanhu lava tiyeke. Eka wena, marito ma khutaza ku titsongahata ni ku tsundzuka, hambiswiritano ku tikukumuxa ku kula ku tlula ku tlangela. Ku humelela yini loko vunyingi byi hundzuka ndzingo naswona ku tikukumuxa ku fungha vuyelo bya kona?",
+  "clues": [
+    "A ndzi huma exikarhi ka vanhu va Musa, hambi swi ri tano ndzi va tlula nawu.",
+    "Ndzi nyikiwe rifuwo lerikulu lerova swilotlelo swa rona a swi ta rhwala ntlawa wa vavanuna va matimba.",
+    "Ndzi tsundzuxiwile hi vanhu va mina leswaku ndzi nga tsaki ni ku lava Makumu ya le ndzhaku handle ko rivala xiphemu xa mina xa misava leyi.",
+    "A ndzi vula leswaku leswi a ndzi ri na swona swi nyikiwe ntsena hikwalaho ka vutivi lebyi a ndzi ri na byona.",
+    "Ndzi parade emahlweni ka vanhu va mina ndzi tikhavisile, naswona lava navelaka vutomi bya misava a va navela leswi fanaka ni leswi a ndzi ri na swona.",
+    "Ndzi mitiwe hi misava swin’we ni vutshamo bya mina, naswona a ku na un’we loyi a nga ndzi pfunaka naswona a ndzi nga swi koti ku ti pfuna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U tibumabume hi rifuwo naswona u arile ku tsakeriwa hi Allah hambileswi a a nyikiwa xitsundzuxo",
+        "U tlhontlhe Ibrahim mayelana no nyika vutomi na rifu",
+        "U rhangele vuthu ro lwisana na Talut na Dawud",
+        "Swifaniso leswi vatliweke leswaku vanhu va swi gandzela",
+        "U dlaye makwerhu hikwalaho ka mavondzo hikwalaho ka gandzelo"
+      ],
+      "answer": "U tibumabume hi rifuwo naswona u arile ku tsakeriwa hi Allah hambileswi a a nyikiwa xitsundzuxo"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Swilotlelo swa rifuwo lerikulu swinene",
+        "Areka ya Ntwanano",
+        "Rhole ra nsuku ra swikhaviso",
+        "Damu leri nga exikarhi ka tintshava timbirhi",
+        "Khume-n’we wa tinyeleti enorhweni"
+      ],
+      "answer": "Swilotlelo swa rifuwo lerikulu swinene"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku mitiwa hi misava hi vutshamo ni rifuwo",
+        "Ku nwela elwandle loko a ri karhi a hlongorisa Musa",
+        "U biwe ehansi hi ribye leri humaka eka xibalesa xa Dawud",
+        "Ku lovisiwa hi ku buluka lokukulu hikwalaho ko rhuketela kamela ya xisati",
+        "Yi hundzuke tindlopfu hikwalaho ko tlula Savata"
+      ],
+      "answer": "Ku mitiwa hi misava hi vutshamo ni rifuwo"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ndzhwalo Wa Nyiko Leyi Aleke",
+  "intro": "Eku sunguleni ka matimu ya vanhu, loko misava ya ha ri yitsongo naswona misava yi khome moya wo sungula, moya-xiviri wu yime emahlweni ka Muvumbi wu ri ni gandzelo ro titsongahata. Gandzelo rero ri pimiwe hi ku ringanisela ka ku amukeriwa hi Xikwembu — naswona ri kumiwile ri kayivela. Leswi landzeleke a ku nga ri xitori xa ku rivalela, kambe xa mbilu leyi dyiweke hi mavondzo, leyi yisaka eka xiendlo lexi nga hundzukiki lexi a xi ta twala hi nkarhi hinkwawo. Lexi i xitori xa un’wana loyi vito rakwe ri veke leri fanaka ni ku pfumaleka ka vululami ko sungula lokukulu loku tshameke ku endliwa.",
+  "clues": [
+    "Ndzi ve kona tanihi un’wana wa vana vo sungula swinene lava tshameke va velekiwa, ndzi velekiwile hi mutswari loyi xitori xa yena u xi tivaka kahle.",
+    "Ndzi tshame ndzi nyikela gandzelo eka Allah, kambe a ri amukeriwanga eka mina — hambi leswi gandzelo ra makwerhu wa mina ri amukeriweke hi tintswalo.",
+    "Mavondzo ni vukarhi swi dzime timitsu embilwini ya mina, kutani ndzi xungeta ku herisa vutomi bya maxaka ya mina.",
+    "Makwerhu wa mina u ndzi tsundzuxe leswaku ndzi chava Allah, kambe ku tikukumuxa ka mina a ku ndzi pfumelelanga ku yingisela.",
+    "Hi nkarhinyana wa ku tsana loku chavisaka, ndzi endle xiendlo lexi nga hlamuselekiki eka makwerhu wa mina n’wini.",
+    "Endzhaku ka sweswo, a ndzi nga swi tivi hambi ku ri ku fihla leswi ndzi swi endleke — ku kondza ku rhumeriwa xivumbiwa xa misava leswaku xi ta ndzi dyondzisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Kabil (Kayini) .",
+        "Habil (Abele) .",
+        "N’wana wa Muprofeta Nuh",
+        "Muprofeta Isma'il",
+        "Muprofeta Yusuf"
+      ],
+      "answer": "Kabil (Kayini) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku nyikela gandzelo leri a ri ariwile, leri yiseke eku dlayeni ko sungula",
+        "Ku aka xihondzo lexi tlakukeke leswaku u ta fika ematilweni",
+        "Ku hoxiwa endzilweni lowu pfurhaka hikwalaho ka ripfumelo ra munhu",
+        "Ku nyikela hi n’wana wa wena hi ku yingisa Allah",
+        "Ku mitiwa hi nhlampfi leyikulu hikwalaho ko balekela ntirho wa wena"
+      ],
+      "answer": "Ku nyikela gandzelo leri a ri ariwile, leri yiseke eku dlayeni ko sungula"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ximanga lexi rhumeriweke hi Allah ku ya kombisa ku lahliwa",
+        "Ndhambi leyikulu leyi nweleke vanhu hinkwavo",
+        "Nhonga leyi hundzukeke nyoka leyi hanyaka",
+        "Kamela ya xisati leyi humeke entshaveni ya ribye",
+        "Xiluvelo xo hlamarisa lexi rhwariweke hi mimoya ya matimba"
+      ],
+      "answer": "Ximanga lexi rhumeriweke hi Allah ku ya kombisa ku lahliwa"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku ve ka lava tisolaka, va tikeriwa hi vugevenga byo sungula lebyi tshameke byi endliwa",
+        "U rivaleriwile hi Allah naswona u nyikiwe Paradeyisi leyi nga heriki",
+        "U tlakuseriwe exitichini lexi tlakukeke xa vuprofeta ni vutlhari",
+        "U ponisiwile hi tintswalo ta Xikwembu endzhaku ko huwelela a ri evuentweni bya munyama",
+        "U nyikiwe vulawuri ehenhla ka jinn, moya ni malwandle"
+      ],
+      "answer": "Ku ve ka lava tisolaka, va tikeriwa hi vugevenga byo sungula lebyi tshameke byi endliwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

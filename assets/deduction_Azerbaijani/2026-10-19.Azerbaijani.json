@@ -1,0 +1,61 @@
+{
+  "title": "Göylərdən Qovulmuşlar",
+  "intro": "Sirli bir varlıq yaradılış və rədd edilmənin kəsişməsində dayanır. Onların hekayəsi misilsiz təkəbbür və ilahi əmrə son dərəcə itaətsizlik hekayəsidir. Onların seçimi hər nəsildə əks-səda verir və bu dünyaya doğulan hər bir ruh üçün bir sınaq halına gəlir. Bu əbədi düşməni müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Mən kosmik əhəmiyyətə malik bir hadisədə iştirak edirdim, o zaman Mərhəmətlinin Nəfəsi ilə yeni bir varlıq palçıqdan əmələ gəlmiş və ona həyat verilmişdi.",
+    "Mən özüm də tozdan fərqli olaraq, tək bir alovlu elementdən yaranmışam.",
+    "Mənə elə bir əmr verildi ki, onu öz mövqeyimin altında hesab etdim.",
+    "İçimdə qürur hissi alovlandı və mən bu əmri qətiyyətlə yerinə yetirməkdən imtina etdim.",
+    "Başqalarını yoldan çıxarmaq kimi elan etdiyim məqsədimə çatmaq üçün mənə təyin olunmuş bir günə qədər təxirə salındı.",
+    "Mən yer üzündə gəzən, yalanlar pıçıldayan və onları düz yoldan azdıran hər kəsin elan edilmiş düşməniyəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İblis (Şeytan)",
+        "Firon (Firon)",
+        "Haman",
+        "Əbu Cəhil",
+        "Samiri"
+      ],
+      "answer": "İblis (Şeytan)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Adəmin qarşısında baş əyməkdən imtina etdi",
+        "Yalandan ilahilik iddiası etdi",
+        "İbadət üçün qızıl buzov düzəltdi",
+        "Qardaşını paxıllıq üzündən öldürdü",
+        "Məkkədə müşrik müxalifətinə rəhbərlik etmişdir"
+      ],
+      "answer": "Adəmin qarşısında baş əyməkdən imtina etdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Cənnət (Cənnət)",
+        "Misirdə Fironun sarayı",
+        "Müqəddəs Tuva vadisi",
+        "Dənizin dərinlikləri",
+        "Səba bağı"
+      ],
+      "answer": "Cənnət (Cənnət)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Qiyamət gününə qədər möhlət verildi",
+        "Dənizdə ordu ilə birlikdə boğuldu",
+        "Xəzinələrlə birlikdə yer tərəfindən uduldu",
+        "Şənbə gününü pozduğuna görə meymuna çevrildi",
+        "Göydən atılan daşlarla yanıb"
+      ],
+      "answer": "Qiyamət gününə qədər möhlət verildi"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

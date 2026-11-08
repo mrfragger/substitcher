@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Iliyopinga Utawala wa Sanamu",
+  "intro": "Miongoni mwa wajumbe wa Mwenyezi Mungu Mtukufu alikuwepo mtumishi imara aliyeinuka miongoni mwa taifa lenye ukaidi ili kutoa ukweli. Watu wao walikuwa wamechukua mungu wa kubuni, wakimwacha Muumba wa vyote vilivyopo. Kwa azimio lisiloyumba, mtu huyu aliwaita warudi — lakini ujumbe huo ulikabiliwa na kukataliwa na kupotezwa. Pitia vidokezo ili kugundua mtumishi huyu aliyejitolea alikuwa nani.",
+  "clues": [
+    "Nilitumwa kama mjumbe kwa watu wakaidi ambao walikuwa wamepotoka mbali na njia iliyonyooka.",
+    "Nilikuja kuwakumbusha taifa langu kuhusu Yule aliyeumba vyote vilivyopo — bora kuliko waumbaji wote.",
+    "Watu wangu walikuwa wamegeukia sanamu ya uongo waliyoiheshimu na kuiita mchana na usiku.",
+    "Niliwapa changamoto kwa ujasiri, nikiwauliza kwa nini wangemwabudu mungu aliyebuniwa na kumwacha Bwana wao wa kweli.",
+    "Walinikana, walikataa kusikiliza, na walishikilia uongo wao — lakini Bwana wangu alinilinda.",
+    "Mimi ni Ilyas — na amani ilipewa juu yangu, na nilihesabiwa miongoni mwa waja waumini wa Mwenye kurehemu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ilyas",
+        "Nabii Idris",
+        "Nabii Alyasa",
+        "Nabii Dhul-Kifl",
+        "Nabii Nuh"
+      ],
+      "answer": "Nabii Ilyas"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuwaita watu waache ibada ya Baali",
+        "Kukabiliana na mtawala wa kidikteta aliyedai kuwa mungu",
+        "Kuwaonya watu kuhusu mafuriko yanayokuja",
+        "Kutupwa kwenye moto mkubwa unaowaka",
+        "Kuongoza kutoka katika nchi ya utumwa"
+      ],
+      "answer": "Kuwaita watu waache ibada ya Baali"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanamu inayoitwa Baali",
+        "Safina kubwa iliyojengwa kwa mbao imara",
+        "Fimbo iliyogawanya bahari kubwa",
+        "Vazi takatifu lililotiwa damu",
+        "Kichaka kinachowaka moto juu ya mlima mtakatifu"
+      ],
+      "answer": "Sanamu inayoitwa Baali"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Amani na kuhesabiwa miongoni mwa watumishi wateule wa Mwenyezi Mungu",
+        "Waliongozwa hadi paradiso huku wengine wote wakiharibiwa",
+        "Niliokolewa kutoka kwenye moto mkubwa uliokuwa baridi na salama",
+        "Amepewa mamlaka juu ya majini, wanadamu, na upepo",
+        "Mwili umehifadhiwa kama ishara ya kudumu kwa vizazi vyote"
+      ],
+      "answer": "Amani na kuhesabiwa miongoni mwa watumishi wateule wa Mwenyezi Mungu"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

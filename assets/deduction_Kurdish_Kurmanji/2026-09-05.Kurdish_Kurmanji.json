@@ -1,0 +1,61 @@
+{
+  "title": "Şewqa ku Binav Bû",
+  "intro": "Vê xeyal bike: giyanek bi cilên xweşik pêçayî û bi xezîneyên ku ji xeyalê wêdetir in dorpêçkirî. Ev kes bawer dikir ku dewlemendiya wî bi jîrîtiya xwe hatiye qezenckirin, qet çavkaniya dabînkirina rastîn qebûl nake. Di nav peyrewên pêxemberekî bihêz de dimeşiya, vî kesî her banga dilnizmiyê red dikir. Îro, em nasnameya kesayetiyek eşkere dikin ku dewlemendiya wî ya mezin bûye cihê mayîna wî ya dawî.",
+  "clues": [
+    "Ez di serdema pêxemberekî de jiyam ku miletekî serhişk gazî rastiyê dikir.",
+    "Ez beşek ji civateke bijartî bûm, lê dilê min ji peyamê dûr ket.",
+    "Zêr û zîv ji her fermaneke îlahî bêtir min matmayî kirin.",
+    "Depoyên xezîneya min ewqas fireh bûn ku komeke xurt ji mêran bi zorê dikarîbûn mifteyan rakin.",
+    "Min pesnê xwe da ku dewlemendiya min ji ber zanîna min bi xwe hatiye dayîn min.",
+    "Di dawiyê de, ez û hemû xaniyê min wek hişyariyek ji aliyê erdê ve hatin daqurtandin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Qarûn",
+        "Haman",
+        "Samirî",
+        "Bilqis",
+        "Talût (Şawûl)"
+      ],
+      "answer": "Qarûn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Xweperestî li ser dewlemendiyê û redkirina xêrxwaziyê",
+        "Çêkirina pûtekî zêrîn ji zêrên heliyayî",
+        "Îlankirina xwedayîtiyê li ser padîşahiyek bi hêz",
+        "Zilmkirina bawermendên pêşîn li Mekkeyê",
+        "Serkêşiya kampanyayekê ji bo hilweşandina Mala Pîroz dike"
+      ],
+      "answer": "Xweperestî li ser dewlemendiyê û redkirina xêrxwaziyê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Xezîneyên ku mifteyên wan barê gelek mêrên bihêz danîn ser xwe",
+        "Golikê zêrîn ku deng derdixist",
+        "Textekî bi heybet ji welatekî dûr",
+        "Xendek tijî agirê geş",
+        "Artêşeke bihêz a fîlanên şer"
+      ],
+      "answer": "Xezîneyên ku mifteyên wan barê gelek mêrên bihêz danîn ser xwe"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Erd û xanî bi hev re daqurtandin",
+        "Bi artêşekê re di deryayê de xeniqî",
+        "Di çala agir de zindî şewitî",
+        "Bi bayekî dijwar û gurrîn ve hatiye wêrankirin",
+        "Bi teqîneke yekane ya bi hêz hat hejandin"
+      ],
+      "answer": "Erd û xanî bi hev re daqurtandin"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

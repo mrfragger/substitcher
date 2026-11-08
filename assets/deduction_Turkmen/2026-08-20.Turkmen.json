@@ -1,0 +1,61 @@
+{
+  "title": "Garşylyk sesi",
+  "intro": "Ilkinji ynsan ýer ýüzünde ýaşamazdan has öň, ägirt uly güýçlü bir jandar iň wepaly jandarlar bilen gurşalan, kämil parahatçylyk äleminde durdy. Bir buýruk berlende, her ses boýun egip, ýöne bir ses garşylyk görkezdi we bu garşylyk soňky güne çenli her döwürde ýaňlanardy. Bu günäkär jandar kim?",
+  "clues": [
+    "Men ýalpyldap ýanýan zatdan ýaradyldym, meniň ýanymda başgalar bolsa olaryň üstünde ýören zadyndan ýaradyldy.",
+    "Men mukaddes ýerde, wepaly jandarlaryň arasynda ýaşaýardym, ýöne ýekeje buýruk ähli zady tersine öwürdi.",
+    "Buýruk gelende, menden başga hemmeler baş egdi; meniň ret etmegim tekepbirlikden döräpdi.",
+    "Men şol mukaddes ýerden kowuldym, ebedi galjak nälet bilen bellendim.",
+    "Men kyýamat gününe çenli wagt diledim we ol berildi. Men her bir jana ýakynlaşyp, olary ýoldan çykarmaga kasam etdim.",
+    "Surnaý çalynanda, meniň yzymdan gelenler meniň ykbalymy paýlaşarlar, hiç bir kömekçiniň halas edip bilmejek ýanýan otda meniň bilen bile bolarlar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Iblis",
+        "Fyrawn (Fyrawn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (Ybraýymyň kakasy)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Kesgitleýji pursat",
+      "options": [
+        "Adamyň öňünde sežde etmekden boýun gaçyrmak",
+        "Beýik imperiýanyň üstünden hudaýlygy basyp almak",
+        "Dogruçyl adamy oda taşlamak üçin plan düzmek",
+        "Halky altyn heýkele sežde etmäge itermek",
+        "Deňizde uly goşuny gark etmek"
+      ],
+      "answer": "Adamyň öňünde sežde etmekden boýun gaçyrmak"
+    },
+    "location": {
+      "label": "Mukaddes ýer",
+      "options": [
+        "Jennet (Jennet)",
+        "Nil derýasyndaky ajaýyp köşk",
+        "Asmana tarap uzalyp barýan kerpiç diňi",
+        "Bezeglerden ýasalan altyn göle şekili",
+        "Ýalpyldap duran ot peji"
+      ],
+      "answer": "Jennet (Jennet)"
+    },
+    "outcome": {
+      "label": "Soňky Ykbal",
+      "options": [
+        "Wada edilen güne çenli möhledip, çykarylyň",
+        "Tolkunlaryň aşagynda goşunlar bilen gark boldy",
+        "Asmandan zyňylan daşlar bilen ezildi",
+        "Uçuş edýän guşlaryň sürüleri tarapyndan bölünip aýrylan",
+        "Ýekeje güýçli partlama bilen ýok edildi"
+      ],
+      "answer": "Wada edilen güne çenli möhledip, çykarylyň"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

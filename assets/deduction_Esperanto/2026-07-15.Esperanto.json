@@ -1,0 +1,61 @@
+{
+  "title": "La Izola Retiriĝo",
+  "intro": "En la analoj de dia favoro, ekzistas animo de senkompara pureco, apartigita de sia popolo por serĉi solecon en sankta direkto. Ili tute ne sciis, ke ĉi tiu soleco alportus signon por ĉiuj mondoj, provon de fido, pri kiu oni parolos por eterneco.",
+  "clues": [
+    "Mi estis dediĉita al vivo de servo antaŭ mia naskiĝo.",
+    "Mi estis metita sub la kuratorecon de nobla profeto.",
+    "Mi estis subtenata per provizaĵoj de Alaho, kiuj mirigis mian gardanton.",
+    "Mi retiriĝis de mia familio al orienta loko.",
+    "Anĝelo aperis al mi en la formo de perfekta viro, alportante novaĵon pri pura filo.",
+    "Kiam mi revenis kun mia novnaskito, mia popolo akuzis min, sed la bebo parolis por defendi min."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Mariam (Maria)",
+        "Asiyah (edzino de Faraono)",
+        "Hajar (patrino de Ismail)",
+        "Sara (edzino de Ibrahim)",
+        "La patrino de Musa"
+      ],
+      "answer": "Mariam (Maria)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Mirakla koncipo kaj naskiĝo de filo",
+        "Esti ĵetita en fajron",
+        "Estante englutita de giganta fiŝo",
+        "Konstruante grandan arkeon",
+        "Transirante la maron"
+      ],
+      "answer": "Mirakla koncipo kaj naskiĝo de filo"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Izolita orienta loko",
+        "La brulanta arbusto",
+        "La Ruĝa Maro",
+        "La roko, el kiu akvo ŝprucis",
+        "La baleno"
+      ],
+      "answer": "Izolita orienta loko"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Bebo parolis defende de patrino",
+        "La maro estis dividita",
+        "La fajro fariĝis malvarmeta kaj sekura",
+        "La baleno vomis sur la bordon",
+        "La arkeo alteriĝis sur monton"
+      ],
+      "answer": "Bebo parolis defende de patrino"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

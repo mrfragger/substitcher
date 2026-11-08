@@ -1,0 +1,61 @@
+{
+  "title": "I viaggiatori del campo verdeggiante",
+  "intro": "In tempi antichi, due individui coltivavano terre confinanti. I loro cammini si intrecciarono, eppure i loro cuori li condussero verso destinazioni ben diverse. Uno percorse la retta via, mentre l'altro si smarriva nelle tenebre della negazione. Riuscirai a svelare il mistero di questi due custodi del raccolto?",
+  "clues": [
+    "Possedevo raccolti abbondanti, rigogliose messe che abbagliavano gli occhi degli astanti.",
+    "Il mio vicino possedeva ricchezze persino maggiori delle mie, eppure io desideravo la sua parte più della mia.",
+    "Ho suggerito di distruggere completamente i loro raccolti, per consolidare tutto sotto il mio controllo.",
+    "Ho rovinato anche il mio raccolto, distruggendo ogni cosa con i miei folli piani.",
+    "Rimasi impotente mentre i miei raccolti appassivano e le mie ricchezze si riducevano in polvere in una sola notte.",
+    "Non avevo parte nell'Aldilà, e la mia dimora finale divenne una fossa di fuoco ardente."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "L'uomo che ha negato la resurrezione e il giudizio",
+        "Il sovrano che opprimeva il contadino giusto",
+        "Il ricco proprietario terriero che non era grato",
+        "Il contadino che bramava la terra del vicino",
+        "Il socio infido che ha ordito la distruzione"
+      ],
+      "answer": "Il contadino che bramava la terra del vicino"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La prova per ricevere la rivelazione divina",
+        "La sfida della ricchezza e della pazienza",
+        "La tentazione di distruggere il sostentamento di una persona retta",
+        "Il comando di dividere equamente l'eredità",
+        "La lotta contro l'oppressione di un tiranno"
+      ],
+      "answer": "La tentazione di distruggere il sostentamento di una persona retta"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "I rigogliosi giardini del paradiso",
+        "Due campi coltivati ​​confinanti",
+        "Le montagne che hanno assistito alla distruzione",
+        "Il sacro santuario della Mecca",
+        "Le rive di una terra benedetta"
+      ],
+      "answer": "Due campi coltivati ​​confinanti"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il paradiso eterno come ricompensa per la rettitudine",
+        "Distruzione completa di entrambi i raccolti in questa vita",
+        "Esilio e vagabondaggio fino alla morte",
+        "Prosperità temporanea seguita da un fuoco eterno",
+        "Un restauro miracoloso e una ricompensa raddoppiata"
+      ],
+      "answer": "Distruzione completa di entrambi i raccolti in questa vita"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

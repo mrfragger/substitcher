@@ -1,0 +1,61 @@
+{
+  "title": "Kutoka Kina cha Kisima",
+  "intro": "Safari ya roho changa ilianza na maono yenye nguvu ya miili ya mbinguni ikiinama kwa heshima. Maisha ya mtu huyu yalionyeshwa na usaliti mkubwa zaidi kutoka kwa wale walio karibu zaidi, ikifuatiwa na miaka ya utumwa na kifungo kisicho cha haki. Lakini kupitia imani isiyoyumba na mwongozo wa kimungu, mtu huyu aliinuka kutoka shimo la chini kabisa na kuwa mmoja wa watu wenye nguvu zaidi katika himaya kubwa. Je, unaweza kufichua utambulisho wa mtumishi huyu wa ajabu wa Mwenyezi Mungu?",
+  "clues": [
+    "Nilionyeshwa maono ya nyota kumi na moja, jua, na mwezi vikinisujudia",
+    "Nilikuwa mtoto mpendwa sana wa mzazi wangu, jambo lililosababisha wivu miongoni mwa ndugu zangu",
+    "Nilikamatwa na ndugu zangu, nikavuliwa nguo zangu, na kutupwa kwenye kisima kirefu chenye giza",
+    "Niliuzwa kama bidhaa sokoni na kusafirishwa mbali na nchi yangu",
+    "Mwanamke mwenye nguvu alijaribu kuhatarisha heshima yangu, nami nikafungwa gerezani kwa kukataa kushawishiwa kwake.",
+    "Nilibarikiwa na kipawa cha tafsiri ya ndoto, na nikainuka kutoka mfungwa aliyesahaulika hadi kuwa waziri mkuu wa Misri"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Yusufu",
+        "Nabii Musa",
+        "Nabii Daudi",
+        "Nabii Ayyub",
+        "Nabii Sulayman"
+      ],
+      "answer": "Nabii Yusufu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Ndugu za mtu hutupa kwenye kisima kirefu",
+        "Kunusurika mafuriko makubwa duniani kote",
+        "Kutupwa katika tanuru inayowaka moto",
+        "Kupigana na shujaa mkubwa kwenye uwanja wa vita",
+        "Kumezwa na samaki mkubwa"
+      ],
+      "answer": "Ndugu za mtu hutupa kwenye kisima kirefu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kisima kirefu na kikavu jangwani",
+        "Safina kubwa ya mbao juu ya mlima",
+        "Fimbo iliyobadilika na kuwa nyoka",
+        "Kiti cha enzi kitukufu chenye fahari kubwa",
+        "Teo na mawe matano laini"
+      ],
+      "answer": "Kisima kirefu na kikavu jangwani"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Rose kuwa waziri mkuu wa Misri na kuungana tena na familia yake mpendwa",
+        "Alijenga meli kubwa na kuwaita watu kwenye imani",
+        "Aliongoza taifa zima kutoka utumwani Misri",
+        "Alipewa ufalme na mamlaka juu ya yasiyoonekana",
+        "Alipewa uvumilivu katika ugonjwa mbaya na akapona"
+      ],
+      "answer": "Rose kuwa waziri mkuu wa Misri na kuungana tena na familia yake mpendwa"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

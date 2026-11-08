@@ -1,0 +1,61 @@
+{
+  "title": "Uka Maldicionat Amparanaka",
+  "intro": "Nayra Makkah markan k’añask callejón ukan sayt’atätawa, kawkhantix mä kutix mä almax ch’amanchata ukhamarak qamirïtax chiqawj jawsañat jithiqtawayi. Aka chimpun sarnaqäwipax wila masinakan lazonakapax janiw jach’a jach’a tukuñ cadenanakar atipt’kaspati sasaw wali amtayistu. ¿Khitis akax sutipax suyt’ir ninamp ist’asi?",
+  "clues": [
+    "Makkah markan callinakapan jach’a jach’a tukusaw sarnaqawayta, ukax chiqa yatichäwinak juykhuptayitu, uka yatiyirix nayan wilajat juykhupt’kchïnsa.",
+    "Nayan yänakajajj wali jachʼänwa, ukampis mä escudot sipansa mä maldicionaruw tuküna.",
+    "Irpañ librox t’unjatätaxtwa parli, amparanakajasa, jaqisa tukusiñap yatiyasa.",
+    "Chachaja jan ukax warmijax uñisiñ campañajaruw chikañchasïna, ch’aphinak apthapisin khititix Allah ukar jawskäna ukan thakipar ch’iqiyañataki.",
+    "Taripäwi urunxa, nina nakhaskir ninar jaquntatäxarakïwa, chachajax palmera fibrat lurat mä soga kunkapar uchatäniwa.",
+    "Nayax mä sutimpiw uñt’ata, ukax ‘nina awki’ sañ muni — uka sutix wiñay jakañ yatiyi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Khitis nayajja?",
+      "options": [
+        "Abu Lahab jupax ukham sataynawa",
+        "Abu Jahl jupax ukham sataynawa",
+        "Abu Talib jupax ukham sataynawa",
+        "Abu Sufyan jupax ukham sataynawa",
+        "Al-Walid ibn al-Mughira sat chachan sutipawa"
+      ],
+      "answer": "Abu Lahab jupax ukham sataynawa"
+    },
+    "trial": {
+      "label": "Jach’a Yant’awi jan ukax Evento",
+      "options": [
+        "Profetarux uñisitaynawa ukat Quran qillqatanx maldecitänwa",
+        "Mä ejercito irpxaruwayäna Kaaba uksa t’unjañataki",
+        "Profetarux qalanak jaquntasaw jiwayañ yant’äna",
+        "Phaxsin t’aqanuqtataparux janiw iyawsañ munkänti",
+        "Alaxpachar puriñatakikiw mä torre lurapxäna"
+      ],
+      "answer": "Profetarux uñisitaynawa ukat Quran qillqatanx maldecitänwa"
+    },
+    "location": {
+      "label": "Elemento Clave ukax mä juk’a pachanakanwa",
+      "options": [
+        "Infiernon nina nakhantatapa",
+        "Uka Staff ukax Musa",
+        "Uka Arcajj Nuh",
+        "Zamzam markan phujupa",
+        "Quri Wawa"
+      ],
+      "answer": "Infiernon nina nakhantatapa"
+    },
+    "outcome": {
+      "label": "Utjiri",
+      "options": [
+        "Jupax nina nakhaskir Ninaruw mantani, qamir kankañapasti janiw yanapt'kaniti",
+        "Jupasti arrepentisisaw iyawsiriruw tuküna",
+        "Jupajj jan jaytjasajj perdonatäjjänwa",
+        "Jupax mä martirio ukhamaw jiwxäna",
+        "Jupajj alajjpacharuw apatäjjäna"
+      ],
+      "answer": "Jupax nina nakhaskir Ninaruw mantani, qamir kankañapasti janiw yanapt'kaniti"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

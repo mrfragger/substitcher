@@ -1,0 +1,61 @@
+{
+  "title": "La Envio Kiu Konsumis",
+  "intro": "Rakonto pli malnova ol iu ajn regno aŭ skribaĵo — la unua homa tragedio naskita de ĵaluzo. Unu animo, la pli aĝa el du infanoj naskitaj de la unuaj gepatroj, kolere rigardis, dum pli juna gefrato ricevis favoron, kiu estis rifuzita. Kio sekvis estis la plej malhela elekto, lasante malantaŭ si la unuan sangon iam verŝitan sur la teron. Ĉu vi povas malkovri la identecon, la provon kaj la amaran bedaŭron?",
+  "clues": [
+    "Mi naskiĝis el la plej unua paro da homoj, kiuj piediris sur la tero.",
+    "Mi iam faris oferon al Alaho, sed ĝi ne estis akceptita de mi.",
+    "La propono de mia gefrato estis akceptita, dum la mia estis malakceptita — ion, kion mi ne povis elteni.",
+    "Mi minacis mian propran fraton per detruo.",
+    "Mi fariĝis la unua, kiu faris murdon sur ĉi tiu tero, prenante la vivon de mia propra frato.",
+    "Alaho sendis estaĵon de la tero — nigran birdon fosantan en la tero — por instrui min kiel kaŝi tion, kion mi faris, kaj mi restis kun nenio krom bedaŭro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Qabil (Kaino)",
+        "Habil (Abelo)",
+        "Profeto Yaqub",
+        "Profeto Moseo",
+        "Profeto Adamo"
+      ],
+      "answer": "Qabil (Kaino)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Ofero malakceptita de Alaho",
+        "Ĵetita en grandan fajron",
+        "Forlasita kiel bebo en rivero",
+        "Testita kun grandega regno",
+        "Ordonita oferi onian filon"
+      ],
+      "answer": "Ofero malakceptita de Alaho"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La korvo sendita de Alaho",
+        "La ora bovido",
+        "La arkeo sur la monto",
+        "La brulanta arbusto",
+        "La kamelo ĉizita el roko"
+      ],
+      "answer": "La korvo sendita de Alaho"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Pleniĝis de bedaŭro kaj inter la malgajnintoj",
+        "Englutita en la teron kune kun trezoroj",
+        "Fariĝis nobla mesaĝisto de Alaho",
+        "Eniris Paradizon per dia kompato",
+        "Regis super nekomparebla regno"
+      ],
+      "answer": "Pleniĝis de bedaŭro kaj inter la malgajnintoj"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

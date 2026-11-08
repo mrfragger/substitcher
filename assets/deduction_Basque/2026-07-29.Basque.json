@@ -1,0 +1,61 @@
+{
+  "title": "Gorteko Jazarpena",
+  "intro": "Boterearen korridoreetan, estatus handiko pertsonaia bat beste munduko edertasuna zuen zerbitzari batekin maitemindu zen. Maitasun horrek leialtasunak proban jarriko, egia ezkutuak agerian utziko eta, azken finean, zerbitzariaren errugabetasuna baieztatuko zuten gertaera sorta bat ekarri zuen.",
+  "clues": [
+    "Nilo ibaiaren lurraldean bizi izan nintzen, eragin handiko jauregi batean.",
+    "Gizon gazte bat sartu zen nire etxera, eta haren presentziak nire mundua asaldatu zuen.",
+    "Liluratzen saiatu nintzen, baina bere Jaunarengan bilatu zuen babesa.",
+    "Atzetik urratu nion jantzia, baina frogak nire engainua zela adierazten zuten.",
+    "Emakume nobleen zurrumurruak isilarazteko, bilkura batera gonbidatu eta objektu zorrotzak jarri nizkien eskuetan.",
+    "Azkenean, nire errua publikoki aitortu nuen, egia erregearen aurrean onartuz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Al-Azizen emaztea",
+        "Asiya (Faraoiaren emaztea)",
+        "Bilqis (Sabako erregina)",
+        "Maryam (Isaren ama)",
+        "Musaren ama."
+      ],
+      "answer": "Al-Azizen emaztea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Yusuf profeta limurtzen saiatu zen",
+        "Musa profeta hiltzen saiatu zen",
+        "Jainkosa zela aldarrikatu zuen",
+        "Alaren aurka egiteko dorre bat eraiki zuen",
+        "Mekaren aurkako armada bat zuzendu zuen"
+      ],
+      "answer": "Yusuf profeta limurtzen saiatu zen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Atzetik urratutako alkandora bat",
+        "Urrezko txahal bat",
+        "Suge bihurtu zen makila",
+        "Gamelu eme bat",
+        "Lanpara bat"
+      ],
+      "answer": "Atzetik urratutako alkandora bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Egia aitortu eta onartu zuen",
+        "Bere armadarekin batera ito zen",
+        "Gatz zutabe bihurtu zen",
+        "Lurrak irentsi zuen.",
+        "Haize oihuka ari zen batek suntsitu zuen"
+      ],
+      "answer": "Egia aitortu eta onartu zuen"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

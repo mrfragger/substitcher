@@ -1,0 +1,61 @@
+{
+  "title": "Vyslanci milosrdenství a moci",
+  "intro": "Představte si klidné odpoledne přerušené příjezdem neznámých cestovatelů. Jejich vzhled je obyčejný, ale jejich účel je vším možným. Nesou božské poselství, které změní směr dvou národů, přinese smích do pustého domova a hrůzu do hříšného města. Kdo jsou tito záhadní návštěvníci?",
+  "clues": [
+    "Byli jsme posláni k oddanému služebníkovi Alláha, známému pro svou bezmeznou pohostinnost.",
+    "Dorazili jsme v přestrojení za cizince, a přesto náš hostitel z naší přítomnosti vycítil něco nadpozemského.",
+    "Přinesli jsme zprávu, která rozesmála jednu starší ženu nevěřícně a v úžasu se udeřila do obličeje.",
+    "Dostali jsme za úkol chránit spravedlivou rodinu a zároveň sesílat zkázu na město ponořené v korupci.",
+    "Odmítli jsme se zúčastnit nabízeného jídla, což jen prohloubilo podezření našeho hostitele.",
+    "Teprve před odchodem jsme odhalili svou pravou podstatu a řekli: „Jsme poslové Pána vašeho.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Hosté Abrahama",
+        "Ježíšovi učedníci",
+        "Společníci jeskyně",
+        "Armáda Abrahy",
+        "Poslové Ya-Sina"
+      ],
+      "answer": "Hosté Abrahama"
+    },
+    "trial": {
+      "label": "Naše poslání",
+      "options": [
+        "Aby vyzkoušel Abrahamovu víru ohledně jeho syna",
+        "Abych Abrahamovi předal Písmo",
+        "Oznámit narození Izáka a zničení Lotova lidu",
+        "Dovést Abrahama ke Kaabě",
+        "Aby zachránil Abrahama z ohně"
+      ],
+      "answer": "Oznámit narození Izáka a zničení Lotova lidu"
+    },
+    "location": {
+      "label": "Místo vystoupení",
+      "options": [
+        "V egyptské zemi",
+        "Ve městě Ur",
+        "V Abrahamově domě",
+        "V zahradě Eden",
+        "U studny Zamzam"
+      ],
+      "answer": "V Abrahamově domě"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Abraham se stal králem",
+        "Abraham postavil Kaabu",
+        "Sára porodila Izáka a Lotův lid byl zničen",
+        "Abraham se stěhoval do Palestiny",
+        "Abrahamův lid byl zachráněn před velkou potopou"
+      ],
+      "answer": "Sára porodila Izáka a Lotův lid byl zničen"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

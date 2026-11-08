@@ -1,0 +1,61 @@
+{
+  "title": "Sauti ya Hekima Katika Vivuli",
+  "intro": "Mtu kutoka nyakati za kale, anayejulikana kwa ufahamu wa kina, anazungumza nawe katika karne nyingi. Mtu huyu hakuwahi kudai unabii, lakini hekima ya Mungu ilitiririka kupitia maneno yao. Mzazi aliyeacha urithi wa milele wa mwongozo, ushauri wao unabaki umehifadhiwa mioyoni mwa mamilioni, ukisomwa na kutafakariwa hadi leo.",
+  "clues": [
+    "Nilipokea zawadi ya kimungu iliyonitofautisha - hekima yenye kina kirefu sana hivi kwamba ikawa sifa yangu kuu katika historia yote.",
+    "Sikuwa mjumbe wala malaika - ni nafsi iliyobarikiwa na uelewa wa kina na ufahamu wa ulimwengu.",
+    "Uhusiano wangu wa karibu zaidi ulikuwa na mtoto wangu, na kupitia uhusiano huu, ujumbe wangu wa kudumu zaidi ulitolewa.",
+    "Nilimsihi ashukuru Yule aliyenipa kila kitu, na kuonya dhidi ya kiburi na majivuno.",
+    "Nilifundisha kuhusu uzito wa matendo hata ya punje ya haradali, na umuhimu wa mtu kupunguza sauti yake kwa unyenyekevu.",
+    "Sura katika Quran ina jina langu, ambapo ushauri wangu kwa mwanangu mpendwa umehifadhiwa milele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Luqman Mwenye Hekima",
+        "Dhul-Kifl Mcha Mungu",
+        "Khidr Mzururaji Mwenye Hekima",
+        "Haruti Malaika huko Babeli",
+        "Marut Malaika huko Babeli"
+      ],
+      "answer": "Luqman Mwenye Hekima"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujaribiwa kwa uvumilivu kupitia ugonjwa",
+        "Kumpa mtoto hekima na kumshauri",
+        "Kutupwa kwenye moto mkubwa",
+        "Kuinuliwa mbinguni wakiwa hai",
+        "Kujenga chombo kikubwa ili kuepuka uharibifu"
+      ],
+      "answer": "Kumpa mtoto hekima na kumshauri"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Nyumba takatifu ya ibada",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Maneno ya hekima isiyopitwa na wakati yanayoelekezwa kwa mwana wa mtu",
+        "Kiti cha enzi kizuri cha kioo",
+        "Bustani iliyoharibiwa na uharibifu"
+      ],
+      "answer": "Maneno ya hekima isiyopitwa na wakati yanayoelekezwa kwa mwana wa mtu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Hekima na shukrani kwa Mwenyezi Mungu",
+        "Akawa mtawala wa majini, wanadamu, na upepo",
+        "Alichukuliwa akiwa hai mbinguni",
+        "Alimezwa na nyangumi mkubwa na akaibuka upya",
+        "Ndugu wenye wivu walimtupa kisimani"
+      ],
+      "answer": "Hekima na shukrani kwa Mwenyezi Mungu"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

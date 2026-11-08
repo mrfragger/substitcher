@@ -1,0 +1,61 @@
+{
+  "title": "Mo'l-ko'lchilik orasida inkor",
+  "intro": "Siz o'zingizni bozorlari savdo-sotiq bilan gavjum bo'lgan, ammo tarozilari nohaq tebranadigan qavm orasida topasiz. Ularga ochiq-oydin ogohlantirishlar bilan bir payg'ambar keldi, lekin ular kulib, o'zlarining farovonligiga ishonib, yuz o'girishdi. Osmon qorong'ilasha boshladi, lekin ular buni yomg'ir ne'mati deb bilishdi. Bu odamlar kimlar?",
+  "clues": [
+    "Biz savdo-sotiq va mo'l-ko'lchilik yerlarida gullab-yashnadik, ammo qalbimiz shafqatsiz bo'lib qoldi.",
+    "Bizga Rabbimizdan mo''jizalar keltirgan Payg'ambar keldi, biz esa uning ogohlantirishlarini masxara qildik.",
+    "Biz hunarimiz bilan tanilgan edik, lekin kamtarlik qilib, xalqni aldadik.",
+    "Biz zich daraxtlar va yam-yashil o'simliklar orasida yashardik, lekin ne'matlarimizni qadrsiz deb qabul qilardik.",
+    "Qora bulut yaqinlashganda, biz qurigan yerlarimizga yomg'ir yog'diradi deb o'ylab, xursand bo'ldik.",
+    "Aksincha, o'sha bulut jazirama azob yubordi va bizni soya kunining azobi tutdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Ashob al-Aykah (O'rmon egalari)",
+        "Samud qavmi",
+        "Ad qavmi",
+        "Lut qavmi",
+        "Nuh qavmi"
+      ],
+      "answer": "Ashob al-Aykah (O'rmon egalari)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ular payg'ambarlarini yolg'onchi qildilar va savdoda xiyonat qildilar.",
+        "Ular oltin buzoqqa sig'inishdi va yo'ldan adashdilar",
+        "Ular sodomiya bilan shug'ullanishgan va sayohatchilarga hujum qilishgan",
+        "Ular baland minoralar qurishdi va Xudoga qarshi chiqishdi",
+        "Ular suvni baham ko'rishdan bosh tortishdi va urg'ochi tuyaga zarar yetkazishdi"
+      ],
+      "answer": "Ular payg'ambarlarini yolg'onchi qildilar va savdoda xiyonat qildilar."
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Zich o'rmon yoki chakalakzor",
+        "Uylarga o'yilgan tog'",
+        "Dengiz bo'yidagi shahar",
+        "Quduqlari bo'lgan cho'l vodiysi",
+        "Ko'p mevali serhosil bog'"
+      ],
+      "answer": "Zich o'rmon yoki chakalakzor"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Olov soyasi buluti tomonidan vayron qilingan",
+        "Katta suv toshqini ostida cho'kib ketgan",
+        "Zilzila tomonidan yutib yuborilgan",
+        "Kuchli shamol urdi",
+        "Toshga aylangan"
+      ],
+      "answer": "Olov soyasi buluti tomonidan vayron qilingan"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Balss no degošā krūma",
+  "intro": "Atklājiet dziļas personības identitāti, kuras ceļojums sākās ar brīnumainu tikšanos un kuras liktenis bija savijies ar apspiestas tautas atbrīvošanu. Šī persona tika izvēlēta monumentālam uzdevumam, saskaroties ar milzīgiem izaicinājumiem ar dievišķu atbalstu.",
+  "clues": [
+    "Es piedzimu lielas apspiešanas laikā, kad tika nogalināti manas tautas zīdaiņi.",
+    "Mana agrīnā dzīve bija saistīta ar to, ka vecāki mani ievietoja upē, tomēr es tiku atrasta un uzaugu savas tautas apspiedēja mājās.",
+    "Reiz es aizbēgu no pilsētas pēc tam, kad strīda laikā netīšām izraisīju kāda cilvēka nāvi.",
+    "Svētā vietā, kur man pavēlēja stāties pretī varenam valdniekam, es saņēmu dievišķu vēstījumu un brīnumainu spieķi.",
+    "Mans brālis tika iecelts par manu palīgu manā misijā, jo man tika uztverts kā traucēklis manā runā.",
+    "Es vadīju savu tautu pāri pāršķeltajai jūrai, bēgot no tirāniskas armijas vajāšanas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Jusufs",
+        "Pravietis Isa",
+        "Pravietis Musa",
+        "Pravietis Nuhs",
+        "Pravietis Ibrahims"
+      ],
+      "answer": "Pravietis Musa"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Ilgstoši sausuma gadi",
+        "Arkas būvēšana",
+        "Sastopoties ar faraonu un viņa burvjiem",
+        "Iemešana degošā krāsnī",
+        "Tamudas tautas iznīcināšana"
+      ],
+      "answer": "Sastopoties ar faraonu un viņa burvjiem"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Kaaba",
+        "Dzelzs siena",
+        "Personāls",
+        "Nū kuģis",
+        "Sulaimana gredzens"
+      ],
+      "answer": "Personāls"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Sodomas pilsēta tika apgāzta",
+        "Zeme aprija cilvēkus",
+        "Lielie plūdi pārņēma zemi",
+        "Faraons un viņa armija tika noslīcināti",
+        "Pilsētas sienas sabruka no kliedziena"
+      ],
+      "answer": "Faraons un viņa armija tika noslīcināti"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

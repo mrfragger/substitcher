@@ -1,0 +1,61 @@
+{
+  "title": "Ubizo Olungalalelwanga Ezweni Lokuzikhukhumeza",
+  "intro": "Umi emanxiweni empucuko eyayikade inkulu, lapho amandla nokuziqhenya kwakungenamingcele. Isithunywa sasihamba phakathi kwabo, sibiza iqiniso, kodwa izinhliziyo zabo zazilukhuni. Isixwayiso asizange silalelwe, futhi isibhakabhaka ngokwaso saba ithuluzi lolaka. Wayengubani lesi sithunywa, futhi kwenzekani ngalabo abenqaba ubizo?",
+  "clues": [
+    "Ngathunyelwa kubantu ababenamandla angenakuqhathaniswa futhi abakha isikhumbuzo kuzo zonke izindawo eziphakemeyo.",
+    "Abantu bami babezibona bengenakunqotshwa futhi bathi, 'Ngubani onamandla kunathi?'",
+    "Ngababiza ukuba bakhonze u-Allah kuphela, kodwa bangisola ngobuwula nokuqamba amanga.",
+    "Bangiphonsela inselelo yokuthi ngilethe isijeziso engangisithembisile uma ngikhuluma iqiniso.",
+    "U-Allah wathumela phezu kwabo umoya ongenalutho ongashiyi lutho owafika phezu kwabo.",
+    "Mina nalabo abakholwa kanye nami sasindiswa ngesihe sika-Allah, kanti abangakholwa babhujiswa ngokuphelele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uHud",
+        "Umprofethi uSalih",
+        "Umprofethi uShuaib",
+        "Umprofethi uLut",
+        "Umprofethi uNuh"
+      ],
+      "answer": "Umprofethi uHud"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Umoya obhubhisayo wabhubhisa abangakholwa",
+        "Isikhukhula esikhulu sagubha abangakholwa",
+        "Imvula yamatshe yana",
+        "Ukukhala okukhulu kwabamba abangakholwa",
+        "Ukuzamazama komhlaba kwashaya abangakholwa"
+      ],
+      "answer": "Umoya obhubhisayo wabhubhisa abangakholwa"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umoya ongapheli",
+        "Umkhumbi wokhuni",
+        "Ikamela lensikazi",
+        "Imvula yamatshe obumba",
+        "Umlilo ovuthayo"
+      ],
+      "answer": "Umoya ongapheli"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "UHud kanye namakholwa basindiswa, kwathi abangakholwa babhujiswa",
+        "UHud wakhushulelwa esikhundleni esiphakeme",
+        "UHud wabulawa ngabantu bakhe",
+        "Abantu bakaHud baphenduka futhi basindiswa",
+        "UHud washiya abantu bakhe ngaphambi kwanoma yisiphi isijeziso"
+      ],
+      "answer": "UHud kanye namakholwa basindiswa, kwathi abangakholwa babhujiswa"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Suaren lekukoa.",
+  "intro": "Errealitate gorena ezagutzera dedikatzen zen pertsona sakon batek aurkikuntza espiritualaren bidaia bati ekin zion. Beren konbentzimendu irmoak ezarritako arauak zalantzan jartzera eraman zituen, fedearen mugak probatu zituzten proba izugarriei aurre eginez. Arima honen istorioa jainkozko babes eta gidaritzapean islatzen da.",
+  "clues": [
+    "Jaunarengandik titulu berezi batekin bedeinkatu ninduen, lotura sakon eta berezi bat adierazten duena.",
+    "Nire lehen bizitzako irudi landuen aurrean makurtzen zen herri baten artean eman nuen, baina nire bihotzak Jainko Egiazko Bakarra irrikatzen zuen.",
+    "Zeruko gorputzak, eguzkia, ilargia eta izarrak behatu nituen, haien gorakada eta beherakada hausnartuz, ezin zirela nire Jauna izan ondorioztatuz.",
+    "Politeismo zabalduaren aurkako desafio ekintza batean, jainko faltsuei aurre egin nien, jainko handiago eta bakarti bat isilpean utziz, salatzaile isil gisa.",
+    "Idololatriarako nire erronkak zigor gogorra ekarri zidan, infernu sutsu batera botatzera kondenatu ninduten eta.",
+    "Hala ere, nire Sortzailearen aginduz, sugar biziak freskotasun eta segurtasun iturri bihurtu ziren, nire bizitza salbatuz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musa profeta",
+        "Nuh profeta",
+        "Ibrahim profeta",
+        "Isa profeta",
+        "Yusuf profeta"
+      ],
+      "answer": "Ibrahim profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsaso Gorria zeharkatzea",
+        "Uholdea",
+        "Seme baten sakrifizioa",
+        "Suzko Proba",
+        "Balearen sabela."
+      ],
+      "answer": "Suzko Proba"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Tronpeta",
+        "Sua",
+        "Putzua"
+      ],
+      "answer": "Sua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Jendea segurtasunera eraman zuen",
+        "Erresuma handi bat jaso zuen oinordetzan",
+        "Arrain batek irentsi zuen",
+        "Erreketatik salbatu zen",
+        "Tabletak jaso ditu"
+      ],
+      "answer": "Erreketatik salbatu zen"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

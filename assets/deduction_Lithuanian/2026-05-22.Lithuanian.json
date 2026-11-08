@@ -1,0 +1,61 @@
+{
+  "title": "Svajotojo pakilimas",
+  "intro": "Siela, lemta didybei, tačiau išbandyta sunkių išbandymų, leidosi į nepaprastą kelionę. Šio žmogaus kelią žymėjo pavydas, išsiskyrimas ir neteisinga kančia, o galiausiai jis baigėsi didžiulės atsakomybės ir gilaus susijungimo pozicija. Ar galite atpažinti šią nepaprastą Korano asmenybę?",
+  "clues": [
+    "Kadaise man pavydėjo artimiausi žmonės, todėl labai atsiskyriau nuo tėvų ir namų.",
+    "Patyriau didelių sunkumų laikotarpį, įskaitant tai, kad keliautojai mane pardavinėjo už menką kainą.",
+    "Buvau neteisingai apkaltintas nusikaltimais ir metus praleidau kalėjime, tačiau mano tikėjimas išliko nepajudinamas.",
+    "Man buvo suteiktas unikalus gebėjimas interpretuoti sudėtingas vizijas, kurios pasirodė esančios labai svarbios mano kelyje į laisvę.",
+    "Mano išmintis ir sąžiningumas galiausiai atvedė mane į labai autoritetingą ir patikimą poziciją svetimoje šalyje.",
+    "Dėl daugybės įvykių po ilgo ir skausmingo nebuvimo vėl susitikau su savo pagyvenusiais tėvais ir broliais bei seserimis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Sulaimanas",
+        "Pranašas Isa",
+        "Pranašas Jusufas",
+        "Pranašas Dawudas",
+        "Pranašas Jahja"
+      ],
+      "answer": "Pranašas Jusufas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Praryti didelės žuvies",
+        "Arkos statymas kūrinijai išsaugoti",
+        "Kęsti melagingus kaltinimus ir įkalinimą",
+        "Susidūrimas su tironišku valdovu stebuklais",
+        "Išbandoma sunkia liga ir netektimi"
+      ],
+      "answer": "Kęsti melagingus kaltinimus ir įkalinimą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Degantis krūmas",
+        "Kalbantis paukštis",
+        "Šulinys",
+        "Personalas, virstantis gyvate",
+        "Kupranugarė kaip ženklas"
+      ],
+      "answer": "Šulinys"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Veda migraciją į pažadėtąją žemę",
+        "Tapimas įtakingu ministru Egipte",
+        "Dievo bausmės priėmimas arogantiškiems žmonėms",
+        "Išmintingai ir teisingai valdant didžiulę karalystę",
+        "Kylant į dangų"
+      ],
+      "answer": "Tapimas įtakingu ministru Egipte"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

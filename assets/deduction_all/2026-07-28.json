@@ -1,0 +1,61 @@
+{
+  "title": "The Sacred Creature's Test",
+  "intro": "A sign was sent to a nation that had gone astray. In the midst of their comfortable lives came a warning—accompanied by a remarkable creature that would become the ultimate test of their faith. Their response would seal their fate forever. Can you uncover who delivered this warning and what became of those who rejected it?",
+  "clues": [
+    "We were a people who had been guided by previous messengers before us.",
+    "A magnificent creature emerged from the mountain, a sign from our Lord for this nation.",
+    "I told them: 'This is a she-camel belonging to Allah, so leave her to eat from Allah's earth and do not touch her with harm.'",
+    "But the people hamstrung my she-camel, defying the command of their Lord.",
+    "I am only a messenger from your Lord, sent with the truth—I am a trustworthy prophet and servant.",
+    "As for the wrongdoers, our Lord struck them with a thunderous sound, and they became motionless in their homes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Hud of the people of A'ad",
+        "Prophet Salih of the people of Thamud",
+        "Prophet Shu'aib of Midian",
+        "Prophet Lut of the people of Sodom",
+        "Prophet Nuh of the Ark"
+      ],
+      "answer": "Prophet Salih of the people of Thamud"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The Flood that drowned a disbelieving nation",
+        "The earthquake that destroyed a sinful city",
+        "The she-camel sent as a divine sign and test",
+        "The storm that punished the people of Midian",
+        "The destruction of the people of Lot with stones"
+      ],
+      "answer": "The she-camel sent as a divine sign and test"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The city of Sodom in the Jordan Valley",
+        "The valley of Al-Hijr between Hijaz and Syria",
+        "The ancient land of A'ad in southern Arabia",
+        "The forests of Midian near the Red Sea",
+        "The plains of Mount Judi in Mesopotamia"
+      ],
+      "answer": "The valley of Al-Hijr between Hijaz and Syria"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "They were saved after repenting and believing",
+        "A rain of stones destroyed them completely",
+        "A thunderous sound struck them motionless",
+        "They were carried away by a violent wind",
+        "An earthquake swallowed them into the ground"
+      ],
+      "answer": "A thunderous sound struck them motionless"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

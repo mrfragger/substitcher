@@ -1,0 +1,61 @@
+{
+  "title": "Nnabata nke wetara egwu",
+  "intro": "N'obodo nke ihe ọjọọ juru, otu ohu kwesịrị ntụkwasị obi nabatara ndị ọbịa a na-atụghị anya ya otu ụbọchị. N'ihi nchegbu maka nchekwa ha, onye a nyere nchebe, mana ndị obodo ahụ chọrọ ihe ihere. Mgbe a dọrọ onye ohu ahụ aka ná ntị maka ọdachi na-abịa, ọ gbapụrụ ya na ezinụlọ ya n'okpuru ọchịchịrị, wee hapụ obodo e ji akara maka mbibi. Ònye bụ onye kwere ekwe a naanị ya?",
+  "clues": [
+    "E zigara m dịka onye ozi nye ndị mere ihe ihere.",
+    "Ndị ọbịa a na-atụghị anya ha bịara n'ụlọ m, m wee na-echegbu onwe m maka nchekwa ha karịa nke m.",
+    "Ndị m chọrọ ịhụ ndị ọbịa m maka ihe ọjọọ ha bu n'obi, agbalịkwara m ịgwa ha okwu.",
+    "Ndị ọbịa m gosipụtara onwe ha dị ka ndị mmụọ ozi ma nye m iwu ka m kpọrọ ezinụlọ m lawa n'abalị.",
+    "Nwunye m egeghị ntị n'okwu a ka ọ gbapụ, o wee chee otu mbibi ahụ ndị m mere ihu.",
+    "E ji nkume ụrọ kpuchie obodo m, akụkụ ya kachasị elu wee dị ala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Lọt",
+        "Onye Amụma Mozis",
+        "Onye Amụma Ibrahim",
+        "Onye Amụma Nua",
+        "Onye Amụma Hud"
+      ],
+      "answer": "Onye Amụma Lọt"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Arịrịọ nke ndị m ka ha bịaruo ndị ọbịa m nso n'ụzọ ọjọọ",
+        "Nkewa nke oké osimiri iji gbanahụ onye ọchịchị aka ike",
+        "Iwuli nnukwu ụgbọ n'etiti ịkwa emo",
+        "Àjà nke nwa m nwoke n'ule okwukwe",
+        "Ahụmịhe nke ịbụ onye azụ̀ dị ukwuu loro"
+      ],
+      "answer": "Arịrịọ nke ndị m ka ha bịaruo ndị ọbịa m nso n'ụzọ ọjọọ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Obodo ndị m gbagọrọ agbagọ",
+        "Ugwu ahụ ebe m nụrụ okwu Chineke",
+        "Ụgbọ ahụ nke gafere oké idei mmiri",
+        "Nne kamel nke si n'okwute pụta",
+        "Ubi ahụ nwere onye ọbịa ezi omume zoro ezo"
+      ],
+      "answer": "Obodo ndị m gbagọrọ agbagọ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A zọpụtara m na ezinụlọ m tupu e mebie obodo m",
+        "Eduru m ndị m gaa nnwere onwe gafee oke osimiri",
+        "Ewuru m nnukwu ụgbọ mmiri ma lanarị nnukwu idei mmiri",
+        "E nyere m ikike ịchị ifufe na jinn",
+        "Eji m ndidi die nhụjuanya, e wee nye m ezinụlọ ya ụgwọ ọrụ."
+      ],
+      "answer": "A zọpụtara m na ezinụlọ m tupu e mebie obodo m"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

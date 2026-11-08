@@ -1,0 +1,61 @@
+{
+  "title": "Putun Ardındaki Ruh",
+  "intro": "Zulmün pençesinden büyük bir kaçışın gölgesinde, bu gizemli figür ıssızlıkta bekliyordu. Seçilmiş bir halkın lideri ilahi birliktelik için kutsal bir dağa çıkarken, geride kalanların üzerine büyük bir imtihan çöktü. Bu kişi, tüm bir topluluğun inançlarını yeniden şekillendirmek için bu anı kullandı. Lider gerçekle geri döndüğünde, eşsiz ve ebedi bir ceza ilan edildi. Bu tartışmalı ve kurnaz ruhun kim olduğunu çözebilir misiniz?",
+  "clues": [
+    "Mucizevi işaretler sayesinde güçlü bir zalimin elinden kurtulmuş bir halkla birlikte seyahat ettim.",
+    "Liderleri rehberlik almak için dağa çıktığında, ben geride kalanların arasında bekledim.",
+    "Onların süs eşyalarından değerli metaller topladım ve onlardan ses çıkaran bir şey yaptım.",
+    "Bu yaratım sayesinde, tüm bir nesli çölde tanrılarını bulduklarına ikna ettim.",
+    "Lider geri döndüğünde, özellikle ben seçildim ve bana bu kadar büyük bir aldatmacaya neden olduğumu sordular.",
+    "Bu dünyadaki cezam, kimsenin bana dokunmaması veya yaklaşmamasıydı; bu, sonsuza dek taşıyacağım bir utanç damgası."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Samiri",
+        "Peygamber Musa",
+        "Firavunun sihirbazları",
+        "Firavunun bakanı Haman",
+        "İblis, reddedilen kişi"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Altın buzağının yapımı",
+        "Firavunla yüzleşme",
+        "Büyük bir geminin inşası",
+        "Adem'in önünde eğilmeyi reddetmek",
+        "Lut şehirlerinin yıkımı"
+      ],
+      "answer": "Altın buzağının yapımı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Altın buzağı putu",
+        "Yılana dönüşen bir asa",
+        "Kayadan çıkan dişi bir deve",
+        "Dağın üzerine inşa edilmiş bir gemi.",
+        "Rüzgarın taşıdığı bir taht"
+      ],
+      "answer": "Altın buzağı putu"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Dokunulmaz olmaya mahkum, sonsuza dek 'iletişim yok' diyecek.",
+        "Zalim hükümdar ve ordusuyla birlikte boğuldu.",
+        "Soğuyup huzur bulan bir ateşe atıldı.",
+        "Gerçeği reddettiği için körlüğe mahkum edildi.",
+        "Kıskanç akrabaları tarafından bir çukura terk edildi."
+      ],
+      "answer": "Dokunulmaz olmaya mahkum, sonsuza dek 'iletişim yok' diyecek."
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

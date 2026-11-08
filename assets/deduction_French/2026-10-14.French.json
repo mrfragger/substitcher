@@ -1,0 +1,61 @@
+{
+  "title": "Les briseurs d'alliance exilés",
+  "intro": "Aux origines d'une communauté naissante, une tribu vivait dans des demeures fortifiées, liée par un pacte. Lorsque ce pacte fut trahi, les conséquences se répercutèrent dans les pages du Coran. Qui étaient ces gens, et qu'advint-il de leurs maisons et de leurs vergers ?",
+  "clues": [
+    "Nous vivions dans des forteresses qui nous procuraient un faux sentiment de sécurité.",
+    "Nous étions un peuple des Écritures, et pourtant nous avons rompu notre alliance.",
+    "Nous avons comploté contre le messager après sa venue, mais notre plan a échoué.",
+    "Nos palmiers ont été abattus sur ordre d'Allah, signe de Sa puissance.",
+    "Nous avons été expulsés de nos foyers, pour ne jamais y revenir, en guise de punition pour notre rébellion.",
+    "Le Coran nous mentionne dans le chapitre du rassemblement, et notre histoire sert d'avertissement à ceux qui rompent leurs pactes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Les habitants de Madyan",
+        "Peuple de Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Siège et expulsion de leurs foyers",
+        "Se noyer dans la mer",
+        "Être englouti par la terre",
+        "Destruction par une tempête",
+        "Être transformés en singes"
+      ],
+      "answer": "Siège et expulsion de leurs foyers"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Palmiers abattus",
+        "Le personnel",
+        "L'arche",
+        "Le puits d'eau",
+        "La grotte"
+      ],
+      "answer": "Palmiers abattus"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Exilés et leurs biens confisqués",
+        "Revenu victorieux",
+        "Ont été pardonnés et sont restés",
+        "Je suis entré immédiatement au paradis",
+        "Ont été frappés par une peste"
+      ],
+      "answer": "Exilés et leurs biens confisqués"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

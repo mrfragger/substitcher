@@ -1,0 +1,61 @@
+{
+  "title": "Dvorsko zasledovanje",
+  "intro": "V hodnikih moči se je visokopostavljena osebnost zaljubila v služabnico, katere lepota je bila nadnaravna. Ta zaljubljenost je vodila do vrste dogodkov, ki so preizkusili zvestobo, razkrili skrite resnice in na koncu potrdili služabnikovo nedolžnost.",
+  "clues": [
+    "Živel sem v deželi Nila, v palači velikega vpliva.",
+    "V mojo hišo je prišel mladenič in njegova prisotnost je pretresla moj svet.",
+    "Poskušal sem ga zapeljati, a se je zatekel k svojemu Gospodu.",
+    "Od zadaj sem mu strgal oblačilo, toda dokazi so kazali na mojo prevaro.",
+    "Da bi utišal govorice plemkinj, sem jih povabil na zborovanje in jim v roke položil ostre predmete.",
+    "Na koncu sem javno priznal svojo krivdo in pred kraljem priznal resnico."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Žena Al-Aziza",
+        "Asija (žena faraona)",
+        "Bilkis (kraljica iz Sabe)",
+        "Marjam (mati Isa)",
+        "Musajeva mati"
+      ],
+      "answer": "Žena Al-Aziza"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Poskušala je zapeljati preroka Jusufa",
+        "Poskušala je ubiti preroka Muso",
+        "Trdila je, da je boginja",
+        "Zgradila je stolp, da bi izzvala Alaha",
+        "Vodila je vojsko proti Meki"
+      ],
+      "answer": "Poskušala je zapeljati preroka Jusufa"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Srajca, raztrgana od zadaj",
+        "Zlato tele",
+        "Palica, ki se je spremenila v kačo",
+        "Kamela",
+        "Svetilka"
+      ],
+      "answer": "Srajca, raztrgana od zadaj"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Priznala je in priznala resnico",
+        "Utopila se je s svojo vojsko",
+        "Spremenila se je v solni steber",
+        "Požrla jo je zemlja",
+        "Uničil jo je kričeč veter"
+      ],
+      "answer": "Priznala je in priznala resnico"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

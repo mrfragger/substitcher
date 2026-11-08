@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Karaa Cirracha",
+  "intro": "Mee gammoojjii manneen jireenyaa cirracha irraa bocamanii fi qilleensi yaadannoo akeekkachiisa tokko osoo hin xiyyeeffatin baatu yaadi. Ummanni tokko yeroo tokko asitti guddachaa ture, eebbifame garuu mormii malee, hamma mallattoon dhagaa isaan amanan sana keessaa bahutti.",
+  "clues": [
+    "Uummata gaara irraa mana nageenya qabu bocuun, mana jireenyaa keenya isa dhagaa taʼe keessatti nageenyi nutti dhagaʼamu turre.",
+    "Biyya dirree fi dhagaa, iddoo biqiltuu fi burqaawwan eebbifamte keessa jiraanna turre.",
+    "Ergamaan tokko nu keessaa dhufe, waaqolii sobaa keenya dhiisnee Uumaa dhugaa Tokkicha akka waaqessinu nu waame.",
+    "Of tuulummaadhaan amantiidhaaf haal-duree kaa’anna: mallattoo addaa dhagaa bocne keessaa ba’u.",
+    "Gaalli dubaraa waadaa galte sun dhagaa irraa yeroo mul’attu, mallattoo ifa ta’e, elite keenya ammallee didee balaa dhufuuf jiru akeekkachiisni ishee hamstrung ta’us.",
+    "Gocha keenya booda guyyaa sadii booda, dhohinsi qilleensaa gammoojjii keessaa dhaga’amee, gara caccabaa kufetti, manneen keenya awwaala keenyatti gadi buune."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Ummata ¿Ad",
+        "Ummata Thamud",
+        "Uummata Madyan",
+        "Ummata Bosonaa",
+        "Ummata Holqa"
+      ],
+      "answer": "Ummata Thamud"
+    },
+    "trial": {
+      "label": "Yaali/Taatee Guddaa Keenya",
+      "options": [
+        "Hamstringing gaala dubartii Rabbii",
+        "Waaqeffannaa re'ee warqee",
+        "Cabsa Sanbataa",
+        "Ijaarsa masaraa gara samiitti",
+        "Ajjeechaa raajotaa"
+      ],
+      "answer": "Hamstringing gaala dubartii Rabbii"
+    },
+    "location": {
+      "label": "Seenaa Keenya Keessatti Qaama Ijoo",
+      "options": [
+        "Gaala dubaraa Rabbii",
+        "Hojjettoonni Muusaa",
+        "Taabotni Nuh",
+        "Harka adii Muusaa",
+        "Simbirroon ¿Isa"
+      ],
+      "answer": "Gaala dubaraa Rabbii"
+    },
+    "outcome": {
+      "label": "Bu'aa Keenya",
+      "options": [
+        "Dhohinsa gurra namaa duuchuudhaan badiisni",
+        "Roobni dhagaa samii irraa roobe",
+        "Lolaan lafa uwwise",
+        "Qilleensi hamaa hundee nu buqqise",
+        "Lafti nu liqimsaa jirtu"
+      ],
+      "answer": "Dhohinsa gurra namaa duuchuudhaan badiisni"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

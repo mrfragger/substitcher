@@ -1,0 +1,61 @@
+{
+  "title": "La voz antes de la tormenta",
+  "intro": "Una figura en el desierto surgió para llamar a una poderosa nación de vuelta a la verdad. Su gente era conocida por sus magníficos edificios y su fuerza inigualable. Sin embargo, su orgullo los cegó y se negaron a escuchar. Finalmente, un castigo devastador cayó sobre ellos, perdonando solo a un pequeño grupo de creyentes.",
+  "clues": [
+    "Me enviaron a un pueblo poderoso que habitaba en tierras abiertas y era conocido por su poderío.",
+    "Mi pueblo surgió tras la destrucción de otra gran nación.",
+    "Tenían estructuras magníficas y construyeron altas torres.",
+    "Los llamé a adorar a un solo Dios, pero se negaron a abandonar sus ídolos.",
+    "Un castigo violento les sobrevino, perdonando solo a aquellos que creían conmigo.",
+    "Soy el enviado a un pueblo poderoso conocido como Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shu'aib",
+        "Profeta Noé",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El gran diluvio",
+        "Un viento violento y rugiente",
+        "Un terremoto y un grito aterrador",
+        "Una lluvia de piedras ardientes",
+        "Fuego celestial desde lo alto"
+      ],
+      "answer": "Un viento violento y rugiente"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una gran arca construida sobre una montaña.",
+        "Una camella única",
+        "Un bastón que se convirtió en serpiente",
+        "Edificios altos y estructuras elevadas",
+        "Una pira ardiente"
+      ],
+      "answer": "Edificios altos y estructuras imponentes"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Todos se ahogaron en una gran inundación.",
+        "Mi pueblo fue destruido por un viento violento, mientras que yo fui salvado.",
+        "Mi pueblo golpeado por un terremoto y llora",
+        "Mi pueblo fue apedreado desde el cielo.",
+        "Mi pueblo fue arrojado a un fuego abrasador."
+      ],
+      "answer": "Mi pueblo fue destruido por un viento violento, mientras que yo fui salvado."
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

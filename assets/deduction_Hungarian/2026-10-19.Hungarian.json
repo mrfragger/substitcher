@@ -1,0 +1,61 @@
+{
+  "title": "A mennyek kitaszítottai",
+  "intro": "Egy titokzatos lény áll a teremtés és az elutasítás kereszteződésében. Történetük páratlan arroganciáról és az isteni parancs végső megtagadásáról szól. Választásuk minden generáción át visszhangzik, és próbává válik minden lélek számára, aki erre a világra születik. Be tudod azonosítani ezt az örök ellenséget?",
+  "clues": [
+    "Jelen voltam egy kozmikus jelentőségű eseményen, amikor egy új lény formálódott agyagból, és az Irgalmas Lehelete által életre kelt.",
+    "Én magam is egyetlen lángoló elemből jöttem létre, ellentétben azzal, ami porból volt.",
+    "Egy olyan parancsot kaptam, amit rangomon alulinak ítéltem.",
+    "Büszkeség áradt belőlem, és hajthatatlanul megtagadtam a parancs teljesítését.",
+    "Halasztást kaptam egy kijelölt Napig, hogy követhessem kinyilvánított célomat, mások félrevezetését.",
+    "Én vagyok a földön járó mindenek kimondott ellensége, megtévesztéseket suttogva és letérítve őket az egyenes útról."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Iblisz (Sátán)",
+        "Fáraó (Fir'awn)",
+        "Hámán",
+        "Abu Dzsahl",
+        "Szamiri"
+      ],
+      "answer": "Iblisz (Sátán)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Nem volt hajlandó meghajolni Ádám előtt",
+        "Hamisan állította az istenit",
+        "Aranyborjút kovácsolt imádatra",
+        "Irigységből megölte a testvérét",
+        "A mekkai politeista ellenzéket vezette"
+      ],
+      "answer": "Nem volt hajlandó meghajolni Ádám előtt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Paradicsom (Jannah)",
+        "A fáraó palotája Egyiptomban",
+        "A szent Tuwa völgy",
+        "A tenger mélye",
+        "Sába kertje"
+      ],
+      "answer": "Paradicsom (Jannah)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Haladékot kapott az ítélet napjáig",
+        "A sereggel együtt a tengerbe fulladtak",
+        "A föld elnyelte kincsekkel együtt",
+        "Majmokká változtak a szombat megszegése miatt",
+        "Égből zúduló kövek égették el"
+      ],
+      "answer": "Haladékot kapott az ítélet napjáig"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

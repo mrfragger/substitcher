@@ -1,0 +1,61 @@
+{
+  "title": "Nazio bidegabe baten aurka egin zuen arima izengabea",
+  "intro": "Koranaren orrialdeetan, izenak ezkutatu zitzaizkigun pertsonaiak daude, haien irakaspenak hausnartzeko. Horrelako arima bat bere mezulariak arbuiatu zituen nazio batean jaio zen, baina pertsona honek bereizten zituen fede ezkutu bat zuen. Suntsipena hurbiltzen ari zenean, pertsona honek bere sinesmen sekretuan tinko eutsi zion. Azken dekretua iritsi aurretik bere herria abisatzen duen pertsonaia misteriotsu honen nortasuna asmatu al dezakezu?",
+  "clues": [
+    "Alak bidalitako mezulariak behin eta berriz ukatu zituen herri baten artean bizi nintzen.",
+    "Nire nazioarekin ez bezala, egia ezagutu nuen nire Jaunarengandik seinale argiak ekarri zituen mezulari bat iritsi zenean.",
+    "Nire fedea ezkutatu nien nire zapaltzaileei, badakielako kalte egingo zidatela nire sinesmena aurkitzen bazuten.",
+    "Zigorraren agindua hurbildu zenean, nire leialtasuna adierazi nuen ireki eta nire herriari abisatu nion bere burua salbatzeko.",
+    "Gogorarazi nien mezulari fidagarria naizela, lehenago bidalitakoen ezberdina ez dena, eta ez luketela Ala izan ezik gurtu behar.",
+    "Nire herriak sorginkeriaz eta eromenaz leporatu zidan, baina ohartarazi zieten zigorra azkenean gainditu egin zituen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hud profeta, Aad herriaren mezularia",
+        "Hud profetaren nazioko sinestun bat, martirizatua izan zena",
+        "Aad herriaren agintaria, egia ukatu zuena",
+        "Salih profetaren lagun bat, jainkozko seinaleak zalantzan jartzen zituena",
+        "Aaden herria suntsitzeko bidalitako aingeru bat"
+      ],
+      "answer": "Hud profetaren nazioko sinestun bat, martirizatua izan zena"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Lehortearen eta gosetearen probak haien pazientzia probatu zuen",
+        "Nazio zapaltzaile eta sinesgabe baten aurrean fedea deklaratzearen epaiketa",
+        "Uholde handi batetik ihes egiteko itsasontzi bat eraikitzeko proba",
+        "Alagan sinesteagatik sutara botatzearen proba",
+        "Aberastasunarekin eta oparotasunarekin probatua izatearen proba"
+      ],
+      "answer": "Nazio zapaltzaile eta sinesgabe baten aurrean fedea deklaratzearen epaiketa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Meka hiria, non etxe sakratua eraiki zen",
+        "Beren mezularia ukatu zuen nazioaren basamortuko lautadak",
+        "Madiango mendiak, non Shu'aib profeta bidali zuten",
+        "Egiptoko ibaiertza, non Musa profeta aurkitu zuten",
+        "Aad herriaren harana, haize bortitz batek jota"
+      ],
+      "answer": "Beren mezularia ukatu zuen nazioaren basamortuko lautadak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Itsasontzi batean salbatu nintzen eta Ala nahi izan zuen arte bizi izan nintzen",
+        "Nire herriak nire ondoren sinetsi zuen eta bide zuzenera gidatu zituzten",
+        "Nire herriak hil ninduen, baina nire arima Alaren errukiak eraman zuen.",
+        "Probatu ondoren damutu nintzen eta Alak nire damua onartu zuen",
+        "Nire heriotzaren ondoren, nire herriak gurtutako idolo bihurtu nintzen"
+      ],
+      "answer": "Nire herriak hil ninduen, baina nire arima Alaren errukiak eraman zuen."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

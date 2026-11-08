@@ -1,0 +1,61 @@
+{
+  "title": "Xewna Wêdetir Demê",
+  "intro": "Xeyal bikin ku demek heye rastî bêdeng dibû û bawermend dihatin nêçîrkirin. Komek piçûk vekişîn li şûna teslîmbûnê hilbijart, li cihên herî ne gengaz penageh dîtin - cihekî ku dê ji bo sedsalan bêhejmar bibe cihê bêhnvedana wan. Dema ku ew di dawiyê de şiyar bûn, cîhan li dora wan veguherîbû. Ev giyanên razayî kî ne?",
+  "clues": [
+    "Em ciwan bûn ku li bajarekî kevnar dijiyan.",
+    "Civaka me daxwaz kir ku em li kêleka wan îbadet bikin, lê me red kir.",
+    "Em ji bajêr reviyan da ku ji wan kesên ku li dijî baweriyên me bûn, penagehek bibînin.",
+    "Hevalekî çar lingî yê dilsoz li ber deriyê cihê veşartina me ma.",
+    "Xwedê sê sed û neh salan em xistin xewê.",
+    "Dema ku em di dawiyê de şiyar bûn, bajarê me yê ku berê zordar bû, bawerî qebûl kiribû."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Eshab el-Kehf (Xelkê Şikeftê)",
+        "Eshab el-Fîl (Artêşa Fîlan)",
+        "Eshab el-Uxdud (Hevalên Xendekê)",
+        "Hawariyyun (Şagirtên Îsa)",
+        "Yecuc we Mecuc (Gog û Magog)"
+      ],
+      "answer": "Eshab el-Kehf (Xelkê Şikeftê)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Em xwe avêtin nav şikeftekê û bi sedsalan razayî",
+        "Em ji agirê geş xilas bûn",
+        "Masîyekî mezin em daqurtandin",
+        "Em bi deveyekî mûcîzeyî hatin ceribandin",
+        "Neh nîşanên zelal ji me re hatin dayîn"
+      ],
+      "answer": "Em xwe avêtin nav şikeftekê û bi sedsalan razayî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Şikefteke kûr di nav çiyayan de",
+        "Keştiyek li ser deryaya vekirî",
+        "Avahiyek bilind ku digihîje ezmanan",
+        "Baxçeyek di navbera du reqîban de dabeşkirî",
+        "Astengiyek ji hesin û sifir"
+      ],
+      "answer": "Şikefteke kûr di nav çiyayan de"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Em şiyar bûn û dîtin ku bajarê me berê xwe daye baweriyê",
+        "Agirekî geş bû sar û aram",
+        "Artêşeke dijmin di deryayê de xeniqî",
+        "Çûkên ku kevir hildigirtin dijmin wêran kirin",
+        "Masiyekî mezin me berda ser peravê"
+      ],
+      "answer": "Em şiyar bûn û dîtin ku bajarê me berê xwe daye baweriyê"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

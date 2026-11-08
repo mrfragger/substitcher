@@ -1,0 +1,61 @@
+{
+  "title": "La crida inascotada dins la tèrra de l'arrogància",
+  "intro": "Sètz dins las roïnas d'una civilizacion un còp èra granda, ont lo poder e l'orgulh coneissián pas de limits. Un messatgièr caminava entre eles, cridant a la vertat, mas lors còrs èran durcits. L'avertiment foguèt desrevelhat, e lo cèl meteis venguèt un instrument de colèra. Qual èra aquel messatgièr, e qué se passèt d'aqueles que refusèron la crida?",
+  "clues": [
+    "Foguèri mandat a un pòble qu'èra incomparable en fòrça e que bastiguèt sus cada luòc naut un monument.",
+    "Mon pòble se considerava invencible e diguèt: 'Qual es mai poderós que nosautres en fòrça?'",
+    "Los cridèri a adorar Allah sol, mas m'acusèron de foliá e de mentida.",
+    "Me desfisèron de portar lo castig que prometiái se èri vertadièr.",
+    "Allah mandèt sus eles un vent èrm qu'esparnhava pas res que venguèt sus eles.",
+    "Ieu e los que cresián amb ieu foguèrem salvats per la misericòrdia d'Allah, del temps que los increduls foguèron completament destruches."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Hud",
+        "Profèta Salih",
+        "Profèta Shuaib",
+        "Lo profèta Lut",
+        "Profèta Nuh"
+      ],
+      "answer": "Profèta Hud"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Un vent devastator destruguèt los descresents",
+        "Una granda inondacion engulhèt los infidèls",
+        "Una pluèja de pèiras tombèt",
+        "Un crit fòrt s'apoderèt dels descresents",
+        "Un tèrratrem tustèt los descresents"
+      ],
+      "answer": "Un vent devastator destruguèt los descresents"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un vent implacable",
+        "Una arca de fusta",
+        "Una camèla",
+        "Una pluèja de pèiras d'argila",
+        "Un fuòc ardent"
+      ],
+      "answer": "Un vent implacable"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hud e los cresents foguèron salvats, e los descresents foguèron destruits",
+        "Hud foguèt elevat a una estacion nauta",
+        "Hud foguèt tuat per son pòble",
+        "Lo pòble d'Hud se repentiguèt e foguèt esparnhat",
+        "Hud quitèt son pòble abans tota punicion"
+      ],
+      "answer": "Hud e los cresents foguèron salvats, e los descresents foguèron destruits"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

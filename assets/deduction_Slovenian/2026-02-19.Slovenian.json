@@ -1,0 +1,61 @@
+{
+  "title": "Neumnost velikih ambicij",
+  "intro": "Podajte se na potovanje, da bi odkrili identiteto kolektivne entitete, katere drzni načrti so naleteli na nepričakovan, a močan konec. Ta pripoved služi kot globok opomnik na božansko moč in krhkost posvetne oblasti, ko se ta upira svetemu. Razkrijte skrivnost te skupine, katere zgodba je zapisana v Koranu kot opozorilo vsem, ki želijo prestopiti.",
+  "clues": [
+    "Gojili smo veliko ambicijo, saj smo verjeli, da je naša moč neprekosljiva, in se odpravili na pot z jasnim, uničujočim ciljem.",
+    "Naš vodja, poln arogance, je želel oskruniti sveto hišo, ki jo mnogi častijo, in preusmeriti romanje k zgradbi, ki smo jo zgradili mi.",
+    "Iz daljne dežele smo korakali z ogromno silo, prepričani v svojo sposobnost, da razstavimo starodavno zgradbo v Svetem mestu.",
+    "Naša vojska je bila mogočna, na čelu s veličastnimi bitji, prizor, ki so ga prebivalci dežele, ki smo jo napadli, redko, če sploh kdaj, videli v takšnem pohodu.",
+    "Ko smo prispeli na cilj, se je zgodil božji poseg; pojavila so se majhna, krilata bitja, ki so nas obmetavala s kamenjem iz žgane gline.",
+    "Celotna naša odprava je doživela uničujoč konec, naša mogočna sila je bila popolnoma uničena, kot prežvečena slama, naš veliki načrt pa je bil zmeden v prah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz Thamuda",
+        "Ljudje iz 'Ad",
+        "Ljudje iz Sodome",
+        "Ljudje slona",
+        "Ljudje z vrta"
+      ],
+      "answer": "Ljudje slona"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Velika poplava",
+        "Kampanja proti Kaabi",
+        "Uničenje idolov",
+        "Razcep morja",
+        "Potres v Midjanu"
+      ],
+      "answer": "Kampanja proti Kaabi"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Osebje",
+        "Kaba",
+        "Zlato tele",
+        "Ogenj"
+      ],
+      "answer": "Kaba"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Božansko odrešenje",
+        "Dolgo obdobje blaginje",
+        "Spreobrnitev v islam",
+        "Popolno uničenje",
+        "Izgnanstvo iz njihove zemlje"
+      ],
+      "answer": "Popolno uničenje"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

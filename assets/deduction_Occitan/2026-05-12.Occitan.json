@@ -1,0 +1,61 @@
+{
+  "title": "L'Autoritat Inflexibla",
+  "intro": "A travèrs de tèrras ancianas, una autoritat poderosa teniá un còp lo poder, comandant d'immensas ressorsas e de vidas d'individús innombrables. Malgrat de signes e d'avertiments clars, aquel sobeiran causiguèt un camin de desfís, menant a una confrontacion prigonda que fariá resson dins lo temps.",
+  "clues": [
+    "Reivindiquèri lo poder e l'autoritat finals sus un domeni vast.",
+    "Desfièri un umil messatgièr mandat pel Senhor de totes los reialmes.",
+    "Mon pòble èra conegut per son mestritge de las grandas estructuras e del riu que sosteniá nòstra civilizacion.",
+    "Foguèri testimòni de fòrça signes miraculoses, dont un baston que se transformèt en sèrp e una man que brilhava.",
+    "Refusèri de daissar un grop d'esclaus quitar ma tèrra, malgrat los òrdres divins.",
+    "Ma persecucion del pòble en partent me menèt e mas armadas dins lo còr d'una mar dividida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Yusuf",
+        "Lo rei Talut",
+        "Fir'awn (Faraon)",
+        "Lo profèta Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraon)"
+    },
+    "trial": {
+      "label": "Confrontacion clau",
+      "options": [
+        "L'inondacion qu'engulhèt la tèrra",
+        "La fendidura de la mar",
+        "L'arbust ardent",
+        "La construccion de la Kaaba",
+        "La destruccion per un vent poderós"
+      ],
+      "answer": "La fendidura de la mar"
+    },
+    "location": {
+      "label": "Aspècte de definicion",
+      "options": [
+        "Un animal parlant",
+        "Un baston e una man lusenta",
+        "Una naissença miraculosa",
+        "Una moqueta volanta",
+        "Un tròn majestuós sus l'aiga"
+      ],
+      "answer": "Un baston e una man lusenta"
+    },
+    "outcome": {
+      "label": "Lo destin final",
+      "options": [
+        "Pujat als cèls",
+        "Engolit per la tèrra",
+        "Afogat dins la mar",
+        "Transformat en simi",
+        "Donada una riquesa e un poder immenses"
+      ],
+      "answer": "Afogat dins la mar"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

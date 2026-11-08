@@ -1,0 +1,61 @@
+{
+  "title": "Ingadi Eyanyamalala Ngobusuku Obodwa",
+  "intro": "Cabanga ngensimu evundile, egcwele izithelo ezivuthiwe futhi izungezwe izihlahla ezinde. Labo ababeyinakekela babecabanga ukuthi bahlakaniphile, behlela isivuno sabo emahoreni athule ngaphambi kokusa, kude namehlo alabo abaswele. Kodwa Lowo ongalali wayenezinye izinhlelo zenzuzo yabo efihliwe. Ungaqagela ukuthi ubani omi ngemuva kwale ndaba yesixwayiso evela ku-Quran?",
+  "clues": [
+    "Sake saba nensimu evundile futhi eningi kangangokuthi yaba nomona kubo bonke abadlulayo.",
+    "Ekuhleleni kwethu, sahlebelana ekuseni kakhulu, samemezela ukuthi akukho muntu oswele ozovunyelwa ukungena ngalolo suku.",
+    "Sasingabantu abacebile, futhi izinhliziyo zethu zase zingasaboni amalungelo abampofu abasizungezile.",
+    "Lapho kufika ukusa kokuvunwa esasikuhlosile, sasondela engadini yethu sayithola iguqulwe yaba yincithakalo emnyama ngobusuku obubodwa.",
+    "Isimemezelo esibhubhisayo sadlula, sashiya umlotha kuphela lapho kwakulenga khona amaqoqo ezithelo ezivuthiwe.",
+    "Indaba yethu iyisixwayiso esiqinile esilotshwe kuyiQuran, lapho saziwa khona njengabanikazi bensimu ababegodlela abaswele usizo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abanikazi Bensimu",
+        "Abantu Bomhume",
+        "Abafundi baka-Isa",
+        "Abangane Behlathi",
+        "Izivakashi Zika-Ibrahim"
+      ],
+      "answer": "Abanikazi Bensimu"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuvuna izithelo ngasese nokuvimbela abampofu",
+        "Ukulala amakhulu eminyaka ngaphakathi emhumeni",
+        "Ukwenqaba ukukhiqiza ikamela lesifazane elivela etsheni",
+        "Ukukhulekela ithole legolide eNtabeni iSinayi",
+        "Ukwakha umkhumbi omkhulu ukuze ubalekele uzamcolo"
+      ],
+      "answer": "Ukuvuna izithelo ngasese nokuvimbela abampofu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ingadi ebiyelwe ngodonga egcwele amasundu nemivini",
+        "Umhume omnyama ojulile ezintabeni",
+        "Idolobha elinqotshwe yisiphepho saphezulu",
+        "Isigodi esingcwele eduze kweNdlu ka-Allah",
+        "Ugu lomfula ogelezayo"
+      ],
+      "answer": "Ingadi ebiyelwe ngodonga egcwele amasundu nemivini"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Insimu yadliwa yisimemezelo esishisayo esivela ezulwini",
+        "Balala ngokuthula iminyaka engama-309 yenyanga",
+        "Bachotshozwa yimvula yamatshe",
+        "Baminza ngaphansi kwamagagasi esikhukhula esikhulu",
+        "Bahlakazeka ngumoya obandayo, ovunguzayo"
+      ],
+      "answer": "Insimu yadliwa yisimemezelo esishisayo esivela ezulwini"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

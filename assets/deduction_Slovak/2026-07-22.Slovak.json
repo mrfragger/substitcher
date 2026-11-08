@@ -1,0 +1,61 @@
+{
+  "title": "Z hlbín studne",
+  "intro": "Cesta mladej duše sa začala silnou víziou nebeských telies, ktoré sa v úcte klaňajú. Život tejto osoby bol poznačený najhlbšou zradou od svojich najbližších, po ktorej nasledovali roky otroctva a nespravodlivého väznenia. Napriek tomu sa táto postava vďaka neochvejnej viere a božskému vedeniu povzniesla z najhlbšej jamy a stala sa jednou z najmocnejších osôb vo veľkej ríši. Dokážete odhaliť identitu tohto pozoruhodného služobníka Alaha?",
+  "clues": [
+    "Bolo mi ukázané videnie jedenástich hviezd, slnka a mesiaca, ktoré sa mi klaňali.",
+    "Bol som hlboko milovaným dieťaťom svojich rodičov, čo medzi mojimi bratmi vyvolávalo žiarlivosť.",
+    "Chytili ma moji vlastní bratia, vyzliekli ma z rúcha a hodili do hlbokej, tmavej studne",
+    "Bol som predaný ako tovar na trhu a odvezený ďaleko od mojej vlasti",
+    "Vplyvná žena sa pokúsila spochybniť moju česť a ja som bol uväznený za to, že som odmietol jej návrhy.",
+    "Bol som požehnaný darom výkladu snov a zo zabudnutého väzňa som sa stal hlavným ministrom Egypta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Júsuf",
+        "Prorok Músa",
+        "Prorok Dawud",
+        "Prorok Ayyub",
+        "Prorok Sulajmán"
+      ],
+      "answer": "Prorok Júsuf"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Vrhnutý do hlbokej studne vlastnými bratmi",
+        "Prežitie veľkej celosvetovej potopy",
+        "Byť hodený do rozpálenej pece",
+        "Boj s obrovským bojovníkom na bojisku",
+        "Byť prehltnutý veľkou rybou"
+      ],
+      "answer": "Vrhnutý do hlbokej studne vlastnými bratmi"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Hlboká, suchá studňa v divočine",
+        "Veľká drevená archa na vrchole hory",
+        "Palica, ktorá sa premenila na hada",
+        "Veľkolepý trón veľkej nádhery",
+        "Prak a päť hladkých kameňov"
+      ],
+      "answer": "Hlboká, suchá studňa v divočine"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Vypracoval sa na hlavného ministra Egypta a opäť sa stretol s milovanou rodinou",
+        "Postavil veľkú loď a volal ľudí k viere",
+        "Vyviedol celý národ z otroctva v Egypte",
+        "Bolo mu udelené kráľovstvo a vláda nad neviditeľným",
+        "Dostal trpezlivosť počas ťažkej choroby a uzdravil sa"
+      ],
+      "answer": "Vypracoval sa na hlavného ministra Egypta a opäť sa stretol s milovanou rodinou"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

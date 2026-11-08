@@ -1,0 +1,61 @@
+{
+  "title": "Le conspirateur voilé",
+  "intro": "Vous vous trouvez en présence d'une figure marquante de l'époque des révélations. Cet individu était réputé pour son intelligence, sa richesse et son influence au sein de son peuple. Lorsque les signes furent manifestes, il en reconnut la beauté, mais choisit la rébellion plutôt que la soumission. Qu'est-ce qui poussa cette âme à comploter dans l'ombre, et quel fut son destin ?",
+  "clues": [
+    "J'ai eu la chance de bénéficier de ressources et d'une influence considérables, ce qui a permis à ma parole de peser lourd dans les assemblées.",
+    "Lorsque les paroles divines furent récitées, je ne pus nier leur éloquence, mais mon orgueil m'empêchait de m'y soumettre.",
+    "J’ai réuni mes conseillers et me suis isolé pour réfléchir à un moyen de discréditer le message.",
+    "Après mûre réflexion, j'ai conclu que repousser les gens n'était rien d'autre qu'une « magie transmise du passé ».",
+    "La révélation s'adressa alors directement à moi : « Laisse-moi seul avec celui que j'ai créé. » J'étais pointé du doigt pour mes manigances.",
+    "Bientôt, ce feu même dont on m'a averti me saisira par la mèche, et je n'aurai aucune issue."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abou Lahab",
+        "Abou Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Ils ont conspiré pour assassiner le Prophète",
+        "A mené un boycott contre les musulmans",
+        "Ils ont réuni un conseil pour qualifier le Coran de magie.",
+        "Complot visant à expulser le Prophète de La Mecque",
+        "Il a refusé de partager sa richesse avec les orphelins."
+      ],
+      "answer": "Ils ont réuni un conseil pour qualifier le Coran de magie."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Apocalypse",
+        "Le Conseil",
+        "La mèche",
+        "La richesse",
+        "Le stylo"
+      ],
+      "answer": "La mèche"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il s'est repenti et s'est converti à l'islam.",
+        "Il a émigré en Abyssinie",
+        "Il a été frappé par une maladie mortelle",
+        "Il est mort au combat contre les musulmans.",
+        "Il fut condamné aux flammes de l'enfer"
+      ],
+      "answer": "Il fut condamné aux flammes de l'enfer"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

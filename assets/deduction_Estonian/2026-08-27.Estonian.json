@@ -1,0 +1,61 @@
+{
+  "title": "Liigendav Väljavalitu",
+  "intro": "Mäe varjus, kuhu jumalikud sõnad laskusid, kõikus rahva usk kuldse läikega. Üks hing, kellel oli õnn kõneosavus, seisis toeks suuremale missioonile, kuid seisis silmitsi sügava katsumuse hetkega. Kui valitud sõnumitooja astus pühale ametikohale, jäi see kuju maha ja anus rahutut rahvast. Kes on see vankumatu hing, kelle hääl tõusis ebajumalakummardamise vastu?",
+  "clues": [
+    "Allah valis mind prohvetiks, kuigi minu lugu jutustatakse sageli koos teise looga.",
+    "Mind saadeti türannist valitseja juurde, aga minu roll oli teda toetada, mitte juhtida.",
+    "Mul oli annet kõneosavusele ja mu sõnad olid mõeldud südameid pehmendama.",
+    "Kui mu kaaslane pühale kohtumisele lahkus, jäin mina juhtima rahutut rahvast.",
+    "Oma kannatamatuses sepistasid nad oma ehetest kuju ja ma anusin neid jääma Allahile truuks.",
+    "Mu kaaslane tuli tagasi ja haaras mu kinni, aga ma selgitasin, et inimesed said minust jagu ja oleksid mu peaaegu tapnud; mina ei olnud kurjategijate hulgas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Musa",
+        "Prohvet Harun",
+        "Prohvet Isa",
+        "Prohvet Jahja",
+        "Prohvet Zakariya"
+      ],
+      "answer": "Prohvet Harun"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Tulle viskamine",
+        "Kaevu heidetud",
+        "Kuldvasika intsidendiga silmitsi seistes",
+        "Raske haiguse test",
+        "Rikkuse ja laste kaotamise katsumus"
+      ],
+      "answer": "Kuldvasika intsidendiga silmitsi seistes"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kuldvasikas",
+        "Personal",
+        "Lepingulaegas",
+        "Tabletid",
+        "Põlev põõsas"
+      ],
+      "answer": "Kuldvasikas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Karistati rängalt",
+        "Andestatud ja õigeks mõistetud",
+        "Tegi kuningaks",
+        "Taevasse viidud",
+        "Antud uus pühakirjakoht"
+      ],
+      "answer": "Andestatud ja õigeks mõistetud"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

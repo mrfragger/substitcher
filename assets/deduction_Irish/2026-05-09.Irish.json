@@ -1,0 +1,61 @@
+{
+  "title": "Gairdíní na Rathúlachta atá ag Imeacht",
+  "intro": "I dtír a raibh flúirse mhór uirthi, bhí pobal faoi bhláth, ina gcónaí i measc comharthaí grásta diaga. Ba fhianaise ar fhabhar a dTiarna a rathúnas, bronntanas a bhí ceaptha chun buíochas agus umhlaíocht a spreagadh. Ach, in ainneoin na comharthaí soiléire ar a mbeannachtaí, tháinig pointe casaidh, ag cur dúshlán a meas ar fhoinse a saibhris agus a gcompord ollmhór.",
+  "clues": [
+    "Bhí dhá ghairdín againn, ceann ar dheis agus ceann ar chlé, lán le torthaí agus glasraí.",
+    "Tugadh ordú dúinn ithe ó sholáthar ár dTiarna agus a bheith buíoch dó as talamh maith agus as Tiarna maithiúnach.",
+    "D’éirigh muid sotalach agus chasamar ó chonair na buíochais, ag déanamh gaisce as ár saibhreas agus ár gcumhacht.",
+    "D’éilíomar ar ár dTiarna an t-achar idir ár dturais a mhéadú, ag léiriú drochmheasa ar an éascaíocht a chuir sé ar fáil.",
+    "Thug teachtaire rabhadh dúinn, ach dhiúltaíomar don teachtaireacht agus leanamar lenár neamhaird.",
+    "Briseadh ár damba mór, a chothaigh ár rathúnas, sa deireadh, rud a d’fhág go raibh tuile tubaisteach ann."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir Thamud",
+        "Muintir Mhidiáin",
+        "Muintir 'Aad",
+        "Muintir Lut",
+        "Muintir Saba"
+      ],
+      "answer": "Muintir Saba"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Gorta agus triomach",
+        "Ionradh ag arm cumhachtach",
+        "Crith talún tubaisteach",
+        "Tuile millteach ó damba briste",
+        "Cosc ag rialóir tíoránta"
+      ],
+      "answer": "Tuile millteach ó damba briste"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Lao órga",
+        "Camall baineann míorúilteach",
+        "Damba iontach",
+        "Foirgneamh ard",
+        "Tobar domhain"
+      ],
+      "answer": "Damba iontach"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh apaí agus muca dínn",
+        "Sábháladh sinn agus chuaigh muid ar imirce go tír nua",
+        "Scaipeadh sinn agus rinneadh lom dár dtír",
+        "Dhreap muid suas go dtí na flaithis",
+        "Thóg muid ríocht nua, níos rathúla"
+      ],
+      "answer": "Scaipeadh sinn agus rinneadh lom dár dtír"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

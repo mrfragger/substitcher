@@ -1,0 +1,61 @@
+{
+  "title": "Zemes apskāviens",
+  "intro": "Lielu pārbaudījumu laikā kādai slavenai personai tika dāvāta milzīga pasaulīga pārpilnība, pateicības un pazemības pārbaudījums. Šīs personas ceļojums kalpo kā dziļa mācība par materiālo labumu īslaicīgo dabu un augstprātības sekām. Atklājiet šīs dvēseles identitāti, kuras stāsts ir iegravēts pašā zemē zem mums.",
+  "clues": [
+    "Es dzīvoju starp cilvēkiem, kurus vadīja dižs vēstnesis.",
+    "Allāhs man bija devis tik milzīgas bagātības, ka pat atslēgas uz manām mantām daudziem spēcīgiem cilvēkiem bija smags slogs.",
+    "Mani ļaudis, zinot manu bagātību, ieteica man meklēt pēcnāves mājvietu ar to, ko Allāhs man ir devis, neaizmirst savu daļu pasaulē un darīt labu, kā Allāhs man ir darījis labu.",
+    "Es augstprātīgi paziņoju, ka mana milzīgā bagātība ir iegūta tikai ar manām zināšanām un pūlēm, noliedzot jebkādu dievišķu labvēlību.",
+    "Kad man lūdza ziedot vai atzīt Allāha dāsnumu, es lepni atteicos, uzskatot, ka mana manta pieder tikai man.",
+    "Manas ārkārtīgās augstprātības un apspiešanas rezultātā Allāhs pavēlēja zemei ​​atvērties un norīt mani un manu mājokli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Hamans",
+        "Abu Lahābs",
+        "Koruns"
+      ],
+      "answer": "Koruns"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Tiekot iemests ugunī",
+        "Slīkšana jūrā",
+        "Izraidīšana no dārza",
+        "Pārveidošanās par pērtiķi",
+        "Tikt norītai zemei"
+      ],
+      "answer": "Tikt norītai zemei"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš",
+        "Varens šķirsts",
+        "Runājošs putns",
+        "Brīnumains personāls",
+        "Milzīgi dārgumi un atslēgas"
+      ],
+      "answer": "Milzīgi dārgumi un atslēgas"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļūstot par lielu valdnieku",
+        "Dievišķās atklāsmes saņemšana",
+        "Paceļoties debesīs",
+        "Dzīvojot ilgu dievbijīgu mūžu",
+        "Pilnīga iznīcība augstprātības dēļ"
+      ],
+      "answer": "Pilnīga iznīcība augstprātības dēļ"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den Echo vum Rand vun der Stad",
+  "intro": "An enger Stad, déi sech vun der göttlecher Féierung ewechgedréit huet, ass eng eenzeg Figur aus dem Rand vun der Stad opgedaucht, déi mat enger Botschaft vun Hoffnung a Warnung gerannt ass. Dës vergiess Séil sollt en éiwegt Symbol vum standhafte Glawen ginn.",
+  "clues": [
+    "Ech hunn Zeienaussoe gesinn, wéi Boten a meng Stad geschéckt goufen, mä meng Leit hunn se als normal Mënschen ofgedoen.",
+    "Ech hunn un hir Botschaft gegleeft an hunn d'Wourecht a mengem Wiesen gefillt.",
+    "Ech hunn mäi Vollek opgeruff, de Boten ze gehorchen, déi keng Belounung gefrot hunn.",
+    "Ech sinn vum wäitsten Enn vun der Stad gelaf, fir dréngend ze probéieren, hinnen d'Vernunft ze weisen.",
+    "Mäi Vollek huet sech géint mech opgestan, an ech gouf ëmbruecht, awer ech hunn den éiwege Fridden fonnt.",
+    "Allah sot zu mir: \"Gitt an d'Paradies eran\", an ech hunn gewënscht, datt mäi Vollek d'Éier kéint gesinn, déi mir zougestane gëtt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Gleewegen vum Ya-Sin",
+        "Uzair de Froesteller",
+        "Al-Khidr de Guide",
+        "De Gleewegen vun der Famill vum Pharao",
+        "Namrud den Tyrann"
+      ],
+      "answer": "De Gleewegen vum Ya-Sin"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Konfrontatioun mat engem ongleewegen Vollek, dat hien ëmbruecht huet",
+        "An e brennend Feier gehäit ginn",
+        "Vun engem grousse Fësch verschléckt ginn",
+        "De Bau vun enger massiver Ark",
+        "Flucht virun der Arméi vun engem Tyrann"
+      ],
+      "answer": "Konfrontatioun mat engem ongleewegen Vollek, dat hien ëmbruecht huet"
+    },
+    "location": {
+      "label": "Schlësselplaz",
+      "options": [
+        "Dat wäitst Enn vun der Stad",
+        "De Bierg vum Tur",
+        "D'Dall vun den Ameisen",
+        "D'Ufer vum Nil",
+        "D'Höhl vun der Höhl"
+      ],
+      "answer": "Dat wäitst Enn vun der Stad"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Märtyrertum an direkten Entrée an d'Paradies",
+        "Flucht a Rettung",
+        "Himmelfahrt",
+        "Erdrénken am Mier",
+        "Zu Steen verwandelen"
+      ],
+      "answer": "Märtyrertum an direkten Entrée an d'Paradies"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

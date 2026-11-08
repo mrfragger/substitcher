@@ -1,0 +1,61 @@
+{
+  "title": "Ubuwula Besifiso Esikhulu",
+  "intro": "Qalisa uhambo lokuthola ukuthi ungubani iqembu elihlangene elinezinhlelo zalo ezinesibindi ezifinyelele esiphethweni esingalindelekile nesinamandla. Le ndaba isebenza njengesikhumbuzo esijulile samandla aphezulu kanye nobuthakathaka bamandla omhlaba lapho ephikisana nezinto ezingcwele. Vula imfihlakalo yaleli qembu, elindaba yalo iqoshwe ku-Quran njengesixwayiso kubo bonke abafuna ukweqa umthetho.",
+  "clues": [
+    "Sasinesifiso esikhulu, sikholelwa ukuthi amandla ethu awalingani, sabe sesiqala uhambo sinomgomo ocacile nobhubhisayo.",
+    "Umholi wethu, egcwele ukuzikhukhumeza, wayefuna ukungcolisa iNdlu engcwele ehlonishwa ngabaningi, ehlose ukuphambukisa uhambo lokuya endaweni engcwele eyakhiwa yithi.",
+    "Sisuka ezweni elikude, sahamba nebutho elikhulu, siqiniseka ngekhono lethu lokudiliza isakhiwo sasendulo eMzini Ongcwele.",
+    "Ibutho lethu lalinamandla, liholwa yizidalwa ezinhle kakhulu, into eyayingavamile, uma ike yabonwa, emkhankasweni onjalo yizakhamuzi zezwe esasilihlasela.",
+    "Lapho sifika lapho sasisiya khona, kwavela ukungenelela kukaNkulunkulu; kwavela izidalwa ezincane, ezinamaphiko, zisishaya ngamatshe obumba olubhakiwe.",
+    "Lonke uhambo lwethu lwafinyelela esiphelweni esibi kakhulu, kwashiya ibutho lethu elinamandla liqothulwe ngokuphelele, njengotshani obuhlafunwe, uhlelo lwethu olukhulu luphenduke uthuli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu baseSodoma",
+        "Abantu Bendlovu",
+        "Abantu baseNsimini"
+      ],
+      "answer": "Abantu Bendlovu"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "UZamcolo Omkhulu",
+        "Umkhankaso wokulwa neKaaba",
+        "Ukubhujiswa Kwezithombe",
+        "Ukuqhekeka Kolwandle",
+        "Ukuzamazama Komhlaba KwamaMidiyani"
+      ],
+      "answer": "Umkhankaso wokulwa neKaaba"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "UMphongolo",
+        "Abasebenzi",
+        "I-Kaaba",
+        "Ithole Legolide",
+        "Umlilo"
+      ],
+      "answer": "I-Kaaba"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Insindiso yaphezulu",
+        "Isikhathi eside sokuchuma",
+        "Ukuguqukela kwi-Islam",
+        "Ukubhujiswa okuphelele",
+        "Ukudingiswa ezweni labo"
+      ],
+      "answer": "Ukubhujiswa okuphelele"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

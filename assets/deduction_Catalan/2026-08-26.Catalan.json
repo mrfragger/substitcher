@@ -1,0 +1,61 @@
+{
+  "title": "L'enveja que consumia",
+  "intro": "Una història més antiga que qualsevol regne o escriptura: la primera tragèdia humana nascuda de la gelosia. Una ànima, la més gran de dos fills nascuts dels primers pares, va veure amb fúria com un germà petit rebia un favor que li havia estat negat. El que va seguir va ser la més fosca de les decisions, deixant enrere la primera sang mai vessada sobre la terra. Pots descobrir la identitat, la prova i el penediment amarg?",
+  "clues": [
+    "Vaig néixer de la primera parella d'humans que va caminar sobre la Terra.",
+    "Una vegada vaig fer una ofrena a Al·là, però no la vaig acceptar.",
+    "L'ofrena del meu germà va ser acceptada, mentre que la meva va ser rebutjada, una cosa que no podia suportar.",
+    "Vaig amenaçar el meu propi germà amb la destrucció.",
+    "Vaig ser el primer a cometre un assassinat sobre aquesta terra, prenent la vida del meu propi germà.",
+    "Al·là va enviar una criatura de la terra —un ocell negre que excavava a terra— per ensenyar-me a amagar el que havia fet, i no em va quedar res més que penediment."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Qabil (Caín)",
+        "Habil (Abel)",
+        "Profeta Yaqub",
+        "Profeta Musa",
+        "Profeta Adam"
+      ],
+      "answer": "Qabil (Caín)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ofrena rebutjada per Al·là",
+        "Llançat a un gran foc",
+        "Abandonat quan era un nadó en un riu",
+        "Provat amb un regne immens",
+        "Ordenen sacrificar el propi fill"
+      ],
+      "answer": "Ofrena rebutjada per Al·là"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El corb enviat per Al·là",
+        "El vedell d'or",
+        "L'arca a la muntanya",
+        "L'arbust ardent",
+        "La camella esculpida a la roca"
+      ],
+      "answer": "El corb enviat per Al·là"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va omplir de penediment i es va trobar entre els perdedors",
+        "Engolit a la terra juntament amb tresors",
+        "Es va convertir en un noble missatger d'Al·là",
+        "Va entrar al Paradís per la misericòrdia divina",
+        "Va governar un regne sense igual"
+      ],
+      "answer": "Es va omplir de penediment i es va trobar entre els perdedors"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

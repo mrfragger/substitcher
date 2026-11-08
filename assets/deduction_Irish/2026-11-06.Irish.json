@@ -1,0 +1,61 @@
+{
+  "title": "An Chéad Fhuil a Doirteadh in Éad",
+  "intro": "Samhlaigh laethanta tosaigh na daonnachta, nuair a bhí an domhan ar fad ina theaghlach amháin. Féachann tú agus dhá ofráil á gcur os comhair Allah - glactar le ceann amháin, diúltaítear don cheann eile. Cuireann éad fréamh i gcroí, agus cogarnaítear bagairt i bhfeirg. Fágann an méid a leanann rian ar an stair go deo, agus beidh fiú éan beag ina mhúinteoir.",
+  "clues": [
+    "Is leis an gcéad teaghlach ar domhan mé.",
+    "Thug mé ofráil do Allah, ach níor glacadh le mo chuid féin agus an ofráil eile á glacadh.",
+    "Labhair mé amach le héad agus bhagair mé beatha a bhaint de.",
+    "Rinne mé an chéad dúnmharú éagórach ar domhan.",
+    "Chonaic mé préachán ag scríobadh na talún le taispeáint dom conas corp a cheilt.",
+    "Fágadh mé lán aiféala agus bhí mé i measc na gcailleoirí as an méid a rinne mo lámha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Qabil (Cáin), mac Ádhaimh",
+        "Samiri, déantóir an lao",
+        "Namrud, an tíoránach a d’argóintigh le Ibrahim",
+        "Azar, déantóir na n-íodal",
+        "Kan'an, mac báite Nuh"
+      ],
+      "answer": "Qabil (Cáin), mac Ádhaimh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Dúnmharú dearthár/deirfiúr as éad tar éis tairiscint a dhiúltú",
+        "Ag tógáil túir ard le breathnú ar na flaithis",
+        "Ag déanamh lao órga le haghaidh adhartha",
+        "Ag éileamh tábla leathadh ó neamh",
+        "Ag treorú arm eilifintí chun an Kaaba a scrios"
+      ],
+      "answer": "Dúnmharú dearthár/deirfiúr as éad tar éis tairiscint a dhiúltú"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Préachán ag scríobadh na talún chun adhlacadh a thaispeáint",
+        "Lao órga a bhí ag gol",
+        "Áirc mhór ar uiscí na tuile",
+        "Sloinne a d’éirigh ina nathair",
+        "Bord lán le bia ó neamh"
+      ],
+      "answer": "Préachán ag scríobadh na talún chun adhlacadh a thaispeáint"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Tháinig aiféala air agus bhí sé i measc na gcailleoirí",
+        "Bádh sa tuile mhór",
+        "Slogadh an talamh é le stór",
+        "Buaileadh le lobhra é ar feadh seacht mbliana",
+        "Bronnadh ríocht air le smacht ar na gaotha"
+      ],
+      "answer": "Tháinig aiféala air agus bhí sé i measc na gcailleoirí"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

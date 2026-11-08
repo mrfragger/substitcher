@@ -1,0 +1,60 @@
+{
+  "title": "Uvavanyo Ngaphantsi Kwamaza",
+  "intro": "Umprofeti, exinezelekile ngumsebenzi wakhe, wenza isigqibo esamsa kude nabantu bakowabo waza wangena kwisilingo esingalindelekanga. Uhambo lwakhe lwatshintsha ngendlela emangalisayo, luvavanya ukholo lwakhe nomonde wakhe ngendlela enzulu. Ngaba ungafumana iinkcukacha zesi siganeko singaqhelekanga kwiingcebiso ezinikiweyo?",
+  "clues": [
+    "Umprofeti wathunyelwa ebantwini, kodwa wemka ngokukhawuleza, edanile ngenxa yokwaliwa kwabo.",
+    "Uhambo lwakhe lwamkhokelela elwandle, apho wakhwela khona isikhephe esithwele kakhulu esifuna indlela.",
+    "Kwavela isivuthuvuthu esikhulu, esasisongela inqanawa, kwaza kwenziwa isigqibo sokuphosa umntu omnye elwandle ukuze kuphungulwe umthwalo, okwamiselwa ngamaqashiso.",
+    "Waginywa sisidalwa esinzulu, isiganeko esimangalisayo esamiselwa yintando kaThixo.",
+    "Ngaphakathi kwesisu sesidalwa, wabiza iNkosi yakhe, eguquka kwaye edumisa uAllah ebumnyameni.",
+    "Emva kwexesha lokuncenga ngokunzulu, waphoswa elunxwemeni olungenanto, ebuthathaka kodwa ephila, waza kamva wabuya wafumana abantu bakhe sele bekholiwe ekugqibeleni."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Umprofeti/uMntu",
+      "options": [
+        "Umprofeti uNuh",
+        "Umprofeti uLut",
+        "Umprofeti uMusa",
+        "Umprofeti uYunus",
+        "Umprofeti uYusuf"
+      ],
+      "answer": "Umprofeti uYunus"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umkhukula kaNuh",
+        "Ukutshatyalaliswa kweSodom",
+        "Uhambo esiswini sentlanzi enkulu",
+        "Ukwahlukana kolwandle",
+        "Isityhilelo sesihlahla esivuthayo"
+      ],
+      "answer": "Uhambo esiswini sentlanzi enkulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "INtaba yeSinayi",
+        "Abasebenzi bakaMusa",
+        "Intlanzi Enkulu",
+        "Iqula likaYusuf"
+      ],
+      "answer": "Intlanzi Enkulu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Umnqophiso omtsha noluntu",
+        "Ukuzalwa okumangalisayo kwabantu bakhe",
+        "Ubukumkani obumiselwe umnombo wakhe",
+        "Ukubuyela kubantu bakhe ababekholelwa ngoko",
+        "Ukoyisa umlawuli okhohlakeleyo"
+      ],
+      "answer": "Ukubuyela kubantu bakhe ababekholelwa ngoko"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

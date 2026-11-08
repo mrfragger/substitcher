@@ -1,0 +1,61 @@
+{
+  "title": "Yam-yashil dala sayohatchilari",
+  "intro": "Qadim zamonlarda ikki kishi qo'shni yerlarda boqishgan. Ularning yo'llari bir-biri bilan chambarchas bog'liq edi, ammo qalblari ularni butunlay boshqa manzillarga olib borardi. Biri to'g'ri yo'ldan borardi, ikkinchisi esa inkor zulmatiga adashib kirardi. Hosilni saqlovchi bu ikki kishining sirini ochib bera olasizmi?",
+  "clues": [
+    "Men mo'l hosilga, tomoshabinlarning ko'zlarini qamashtiradigan mo'l hosilga ega bo'ldim.",
+    "Qo'shnim mendan ham ko'proq ne'matga ega edi, lekin men o'zimnikidan ko'ra ularning ulushiga ko'proq havas qilardim.",
+    "Men hamma narsani o'z nazoratim ostida birlashtirish uchun ularning hosilini butunlay yo'q qilishni taklif qildim.",
+    "Men oʻz hosilimga ham halokat keltirdim, ahmoqona hiyla-nayrangim bilan hamma narsani barbod qildim.",
+    "Hosillarim qurib, boyligim bir kechada changga aylanganida, men ojiz qoldim.",
+    "Oxiratda mening hech qanday nasibam yo'q edi va oxirgi maskanim alangali olov chuquriga aylandi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Tirilish va hukmni inkor etgan odam",
+        "Solih dehqonga zulm qilgan hukmdor",
+        "Minnatdorchilikdan mahrum bo'lgan boy yer egasi",
+        "Qo'shnisining yeriga havas qilgan fermer",
+        "Vayronagarchilikni rejalashtirgan xoin sherik"
+      ],
+      "answer": "Qo'shnisining yeriga havas qilgan fermer"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ilohiy vahiyni qabul qilish sinovi",
+        "Boylik va sabr-toqatning qiyinligi",
+        "Solih odamning tirikchiligini yo'q qilish vasvasasi",
+        "Merosni adolatli taqsimlash to'g'risidagi buyruq",
+        "Zolimning zulmiga qarshi kurash"
+      ],
+      "answer": "Solih odamning tirikchiligini yo'q qilish vasvasasi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Jannatning yashil bog'lari",
+        "Ikki qo'shni ekin maydonlari",
+        "Vayronagarchilikka guvoh bo'lgan tog'lar",
+        "Makkaning muqaddas maskani",
+        "Muborak yurtning daryo bo'ylari"
+      ],
+      "answer": "Ikki qo'shni ekin maydonlari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Solihlik uchun mukofot sifatida abadiy jannat",
+        "Bu hayotda ikkala hosilning ham butunlay yo'q qilinishi",
+        "O'limgacha surgun va sarson-sargardonlik",
+        "Vaqtinchalik farovonlik va undan keyin abadiy olov",
+        "Mo''jizaviy tiklanish va ikki baravar ne'mat"
+      ],
+      "answer": "Bu hayotda ikkala hosilning ham butunlay yo'q qilinishi"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Aia valvurid",
+  "intro": "Lopsakas aias andis kogukond pühaliku tõotuse. Kuid nende otsusekindlus pandi proovile, kui jumalik tahe sekkus, muutes nende külluse viljatuks maaks.",
+  "clues": [
+    "Meid õnnistati küllusliku aiaga, aga meist said ülbed.",
+    "Tegime plaani koristada saaki ilma vaestega jagamata.",
+    "Asusime teele varahommikul, kindlad oma plaanis.",
+    "Aga kui me kohale jõudsime, avastasime, et meie aed oli üleöö hävinud.",
+    "Saime oma veast aru ja hakkasime teineteist süüdistama.",
+    "Lõpuks me kahetsesime, aga õppetund saime liiga hilja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Aia rahvas",
+        "Koopa inimesed",
+        "Elevandi rahvas",
+        "Thamudi rahvas",
+        "'Redi inimesed"
+      ],
+      "answer": "Aia rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Aed muutus tuhaks",
+        "Üleujutus, mis hävitas kõik",
+        "Maad tabas nälg",
+        "Lindude armee ründab",
+        "Suur tuul, mis juurtega puid üles kiskus"
+      ],
+      "answer": "Aed muutus tuhaks"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Aed",
+        "Koobas",
+        "Laev",
+        "Mägi",
+        "Palee"
+      ],
+      "answer": "Aed"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Nad kahetsesid, aga kaotasid oma aia",
+        "Need hävitati täielikult",
+        "Nad muudeti ahvideks",
+        "Nad päästeti usu läbi",
+        "Neist said valitsejad"
+      ],
+      "answer": "Nad kahetsesid, aga kaotasid oma aia"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

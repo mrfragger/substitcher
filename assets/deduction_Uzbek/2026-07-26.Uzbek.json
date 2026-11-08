@@ -1,0 +1,61 @@
+{
+  "title": "Osmonga qarshi chiqqan toj",
+  "intro": "Qadimgi qirolliklarning yo'laklarida bir hukmdorning ismi zulm va takabburlikning masaliga aylangan. Allohning kamtarin xizmatkori inkor etib bo'lmaydigan alomatlar bilan kelganida, bu qudratli hukmdor haqiqatga taslim bo'lishdan bosh tortdi. Bugun sizning vazifangiz hukmronligi qulagan va taqdiri to'lqinlar ostida hal qilingan bu afsonaviy shaxsni aniqlashdir.",
+  "clues": [
+    "Men eng qo'rqinchli hukmdorman, uning nomi asrlar davomida ogohlantirish sifatida aks-sado beradi.",
+    "Men butun bir xalqqa zanjirband bo'lib mehnat qilishni, shon-sharafimni e'lon qiluvchi yodgorliklarni o'rnatishni buyurdim.",
+    "Allohning elchisi menga inkor etib bo'lmaydigan mo''jizalar bilan kelganida, men sajda qilishdan bosh tortdim va buni sehr deb atadim.",
+    "Men asirga olingan xalq orasida go'dak o'g'il bolalarni o'ldirishni buyurdim, ular tirilishidan oldin ularning ruhini ezish umidida.",
+    "Men sud oldida turib, “Men sizning oliy xo‘jayiningizman”, deb e’lon qildim va xudo sifatida sajda qilishni talab qildim.",
+    "Bosh vazirim yonimda bo'lib, osmondan ham balandroqqa ko'tarilishga mo'ljallangan ulkan inshoot qurdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avn (Fir'avn)",
+        "Namrud",
+        "Xomon",
+        "Abu Lahab",
+        "Valid ibn al-Mug'ira"
+      ],
+      "answer": "Fir'avn (Fir'avn)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Qizil dengizda cho'kish",
+        "Samud qavmiga yuborilgan urg'ochi tuya",
+        "Nuhning buyuk to'foni",
+        "Xandaq sahobalarining jazosi",
+        "Abraha qo'shinining qushlar tomonidan yo'q qilinishi"
+      ],
+      "answer": "Qizil dengizda cho'kish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Homon bilan qurilgan ulkan bino",
+        "To'fon ustida suzib ketgan kema",
+        "Samiriylar tomonidan yaratilgan oltin buzoq",
+        "Sheba malikasi Bilqisning taxti",
+        "Uxlayotgan yoshlarning g'ori"
+      ],
+      "answer": "Homon bilan qurilgan ulkan bino"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Dengizda cho'kib ketgan; jasad ogohlantirish sifatida saqlanib qolgan",
+        "Surgun qilindi va cho'lda kezib yurishga majbur bo'ldi",
+        "Jazo sifatida maymunlarga aylantirildi",
+        "Kuchli zilzila natijasida vayron bo'lgan",
+        "Osmondan yog'ayotgan toshlar yomg'iri bilan kuydirilgan"
+      ],
+      "answer": "Dengizda cho'kib ketgan; jasad ogohlantirish sifatida saqlanib qolgan"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

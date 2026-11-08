@@ -1,0 +1,61 @@
+{
+  "title": "Tekebbirligiň arhitektory",
+  "intro": "Gadymy ýurtda garşylyk görkezýän güýç tarapyndan dolandyrylýan möhüm şahsyýet täsirli wezipe eýeläpdir. Bu jan hökümdaryň uly meýilnamalarynda möhüm orun eýeleýärdi, olaryň zalym hökümdarlygyna goşant goşdy we ilahi habara garşy çykdy. Olaryň mirasy dünýewi güýjüň yzyndan gitmek we hakykaty inkär etmek bilen baglanyşyklydyr.",
+  "clues": [
+    "Men nesillerboýy bir halka zulum eden güýçli hökümdara gulluk etdim.",
+    "Meniň adym Ylahy Kitapda bu güýçli ýolbaşçynyň ýanynda köp agzalýar.",
+    "Maňa uly gurluşyk taslamasy, göklere ýetmeli beýik gurluş tabşyryldy.",
+    "Men hojaýynyma Ysraýyl ogullaryny öldürip, gyzlaryny diri galdyrmagy maslahat berdim.",
+    "Men Allanyň beýik ilçisine garşy dildüwşüklere we dildüwşüklere gatnaşypdym.",
+    "Meniň ahyrym, hojaýynym we onuň goşuny bilen bilelikde giň deňziň suwlarynda geldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Nimrod",
+        "Abraha",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ummasyz baýlyk bilen synagdan geçirilýär",
+        "Mukaddes öýe garşy goşuna ýolbaşçylyk etmek",
+        "Hudaýa ýetmek üçin diň gurmak",
+        "Ynançlary üçin oda taşlanmak",
+        "Doganlar tarapyndan guýa taşlanýar"
+      ],
+      "answer": "Hudaýa ýetmek üçin diň gurmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Sandyk",
+        "Işgärler",
+        "Dag",
+        "Minara",
+        "Kit"
+      ],
+      "answer": "Minara"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Uly akyldarlyk berlen",
+        "Pygamber bolmak",
+        "Ýer tarapyndan ýuwutulmak",
+        "Patyşalygyň berilmegi",
+        "Deňizde gark bolmak"
+      ],
+      "answer": "Deňizde gark bolmak"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

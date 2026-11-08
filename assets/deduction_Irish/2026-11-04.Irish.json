@@ -1,0 +1,61 @@
+{
+  "title": "an stór a chuaigh faoi uaill",
+  "intro": "Samhlaigh go seasfá os comhair carnán saibhris chomh mór sin go mbeadh grúpa daoine láidre tuirseach de bharr na n-eochracha amháin a iompar. Timpeall ort, spreagann guthanna umhlaíocht agus cuimhneamh, ach bíonn an t-uabhar níos airde ná an buíochas. Cad a tharlaíonn nuair a thagann flaithiúlacht chun bheith ina tástáil agus nuair a shéalaíonn an t-uabhar an toradh?",
+  "clues": [
+    "Ba as measc mhuintir Mhúsa mé, ach chiontaigh mé ina gcoinne.",
+    "Bronnadh seoda chomh ollmhór sin orm gur ualach mór a bheadh ​​​​ina n-eochracha ar ghrúpa fear láidir.",
+    "Chomhairligh mo mhuintir dom gan lúcháir a bheith agam agus an saol eile a lorg gan dearmad a dhéanamh ar mo sciar den saol seo.",
+    "Mhaígh mé nár tugadh dom an rud a bhí agam ach mar gheall ar an eolas a bhí agam.",
+    "Rinne mé mórshiúl os comhair mo mhuintire i ngnéithe maisiúla, agus iad siúd a raibh dúil acu sa saol saoghalta, bhí fonn orthu a leithéid a bheith agamsa.",
+    "Shlog an talamh mé féin agus mo theach cónaithe, agus ní raibh aon duine in ann cabhrú liom ná ní raibh mise in ann cabhrú liom féin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Qarún",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarún"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Bhí sé ag déanamh mórtais as a shaibhreas agus ag diúltú fabhar Allah in ainneoin comhairle",
+        "Dúshlán do Ibrahim faoi bheatha agus bás a thabhairt",
+        "Threoraigh arm i gcoinne Talut agus Dawud",
+        "Íodail snoite le go n-adhrófaí iad ag na daoine",
+        "Mharaigh deartháir as éad faoi ofráil"
+      ],
+      "answer": "Bhí sé ag déanamh mórtais as a shaibhreas agus ag diúltú fabhar Allah in ainneoin comhairle"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Eochracha chuig seoda ollmhóra",
+        "Áirc an Chonartha",
+        "Lao órga maisiúcháin",
+        "Damba idir dhá shliabh",
+        "Aon réalta déag i mbrionglóid"
+      ],
+      "answer": "Eochracha chuig seoda ollmhóra"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Slogtha ag an talamh le cónaí agus le saibhreas",
+        "Báthadh sa bhfarraige agus é ag tóraíocht Musa",
+        "Buailte síos le cloch ó slabhra Dawud",
+        "Scriosta ag pléascadh mór as camall baineann a shá isteach sa chromán",
+        "Iompú ina n-apaí as briseadh na Sabóide"
+      ],
+      "answer": "Slogtha ag an talamh le cónaí agus le saibhreas"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

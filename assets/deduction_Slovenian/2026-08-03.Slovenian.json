@@ -1,0 +1,61 @@
+{
+  "title": "Izvir pod peskom",
+  "intro": "V analih Korana se je lik neizmerne potrpežljivosti soočil s preizkušnjo, ki bi zlomila tudi najpogumnejša srca. Vse mu je bilo odvzeto – bogastvo, družina in zdravje. Vendar pa je bila iz globin obupa na najbolj nepričakovan način uslišana ponižna molitev. Ali lahko prepoznate to dušo, katere zgodba o obnovi odmeva skozi stoletja?",
+  "clues": [
+    "Preizkušnja je bila tako huda, da se je bom spominjal skozi veke.",
+    "Izgubila sem vse, kar mi je bilo pomembno – bogastvo, otroke in zdravje.",
+    "Moje telo je bilo prekrito z bolečimi ranami in vsi so se me izogibali.",
+    "V obupu sem klical k Alahu in mu rekel, da se me je Satan dotaknil s težavami in mučenjem.",
+    "Alah mi je odgovoril in mi ukazal, naj z nogo udarim ob zemljo.",
+    "Iz tistega mesta je bruhnil hladen izvir in Alah je obnovil mojo družino ter jo kot milost podvojil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Ajjub",
+        "Prerok Musa",
+        "Prerok Iljas",
+        "Prerok Sulejman",
+        "Prerok Davud"
+      ],
+      "answer": "Prerok Ajjub"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Huda bolezen in izguba družine in bogastva",
+        "Biti pogoltnjen s strani velikega kita",
+        "Izgnanstvo iz mesta Meka",
+        "Zapor v globokem vodnjaku",
+        "Soočenje z arogantnim vladarjem"
+      ],
+      "answer": "Huda bolezen in izguba družine in bogastva"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Hladen izvir iz zemlje",
+        "Čoln ob veliki poplavi",
+        "Palica, ki je razcepila morje",
+        "Vzvišen stekleni prestol",
+        "Obzidana jama za spanje"
+      ],
+      "answer": "Hladen izvir iz zemlje"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Družina in bogastvo sta bila obnovljena in podvojila",
+        "Izhod iz trebuha ribe",
+        "Varen prehod skozi razdeljene vode",
+        "Kraljestvo, dano za vladanje",
+        "Sinovo čudežno rojstvo v starosti"
+      ],
+      "answer": "Družina in bogastvo sta bila obnovljena in podvojila"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

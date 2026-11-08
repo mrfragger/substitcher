@@ -1,0 +1,61 @@
+{
+  "title": "Tichý hlas údolia",
+  "intro": "Vráťte sa v čase k mocnému ľudu, ktorý kedysi dostal ako skúšku živý zázrak. Arogancia a tvrdohlavosť spečatili ich osud. Dokážete vystopovať príbeh a zistiť, čo sa odohralo v tomto dramatickom zlomovom bode?",
+  "clues": [
+    "Bol som poslaný ako božská skúška mocnému ľudu, známemu svojou silou a vzdorom.",
+    "Bol som jedinečný zázrak – nič podobné mne sa medzi nimi ešte nikdy neobjavilo.",
+    "Každý druhý deň som sa s mojimi ľuďmi delil o pitnú vodu zo studne.",
+    "Boli varovaní, že akékoľvek ublíženie na mojej strane bude rýchlo potrestané.",
+    "Tí najodvážnejší z nich ignorovali varovanie a podrazili mi žily.",
+    "Po mojej smrti jediný hromový výkrik zhora zničil celý môj ľud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ťava zo Sáliha",
+        "Krava Músa",
+        "Loď Nuha",
+        "Zamestnanci Músu",
+        "Trón Bilqis"
+      ],
+      "answer": "Ťava zo Sáliha"
+    },
+    "trial": {
+      "label": "Môj osud",
+      "options": [
+        "Podrezaný a zabitý",
+        "Zabitý ako obeta",
+        "Premenený na hada",
+        "Zachované počas veľkej povodne",
+        "Rýchlo prenesené cez kráľovstvo"
+      ],
+      "answer": "Podrezaný a zabitý"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Studňa s vodou",
+        "Kamenná tabuľa",
+        "Horiaci ker",
+        "Drevená archa",
+        "Trón zo zlata a striebra"
+      ],
+      "answer": "Studňa s vodou"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zničený jediným výkrikom",
+        "Utopený vo veľkej povodni",
+        "Spálený spŕškou kameňov",
+        "Zničený prudkým vetrom",
+        "Pohltený zemou"
+      ],
+      "answer": "Zničený jediným výkrikom"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

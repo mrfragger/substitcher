@@ -1,0 +1,61 @@
+{
+  "title": "Pazudusī ļaužu pulks",
+  "intro": "Jūs stāvat kopienas atbalsu priekšā, kuras stāsts ir rakstīts viļņos. Šīs dvēseles dzirdēja aicinājumu, izvēlējās nepakļāvību un saskārās ar sekām, kas pārveidoja zemi. Kas viņi ir un kas noticis ar viņu pasauli?",
+  "clues": [
+    "Mēs dzīvojām sen atpakaļ, un no mūsu pašu vidus pie mums atnāca vēstnesis.",
+    "Mēs pielūdzām piecus elkus un atteicāmies tos pamest.",
+    "Mēs izsmējām vēstnesi un apsūdzējām viņu maldīšanā.",
+    "Mēs pieprasījām, lai viņš saņem sodu, ja runā patiesību.",
+    "Mēs redzējām, kā debesis līst lietus un zeme izplūst avoti.",
+    "Mēs uzkāpām augstākās vietās, lai izbēgtu, bet viļņi mūs pārņēma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Nuhas iedzīvotāji",
+        "Reklāmas cilvēki",
+        "Tamudas iedzīvotāji",
+        "Lutas iedzīvotāji",
+        "Madjanas iedzīvotāji"
+      ],
+      "answer": "Nuhas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Mūs noslīcināja lieli plūdi",
+        "Mūs iznīcināja viesuļvētra",
+        "Mūs nogalināja skaļš sprādziens",
+        "Mūs aprija zeme",
+        "Mūs apmētāja ar akmeņiem no debesīm"
+      ],
+      "answer": "Mūs noslīcināja lieli plūdi"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Lieli plūdi",
+        "Spēcīgs vējš",
+        "Akmeņu lietus",
+        "Ugunīgs sprādziens",
+        "Zemestrīce"
+      ],
+      "answer": "Lieli plūdi"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mēs visi gājām bojā, izņemot ticīgos kopā ar Nuhu",
+        "Mēs tikām pārvērsti par pērtiķiem",
+        "Mēs bijām atstāti kā drupas ceļotājiem",
+        "Mēs bijām pārvērsti sālī",
+        "Mums tika dota atpūta"
+      ],
+      "answer": "Mēs visi gājām bojā, izņemot ticīgos kopā ar Nuhu"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

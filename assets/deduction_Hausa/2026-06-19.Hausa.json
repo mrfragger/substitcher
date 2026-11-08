@@ -1,0 +1,61 @@
+{
+  "title": "Gwajin Rai Mai Dorewa",
+  "intro": "Rai yana tsaye a lokacin jarabawar Allah, yana neman shiriya da juriya cikin tawali'u. Wanda ya san komai yana juya wannan mai neman, amma daga baya ya bayyana cewa wannan jarabawar zuciya ce. Ta hanyar wannan musayar sirri, darasi game da hikimar Allah yana bayyana a gaban waɗanda suka yi tunani. Za ku iya gane wannan mutum daga labarin Alƙur'ani?",
+  "clues": [
+    "Na nemi ilimi da shiriya daga manzon Allah mai ƙauna",
+    "Na zo ina neman gaskiya, ina kiran Annabi da sha'awa ta gaske",
+    "An tsawata mini aka kuma juya min baya, domin hikimar Allah tana da wasu tsare-tsare na wannan lokacin.",
+    "Duk da haka ban yanke ƙauna ba—maimakon haka, na ci gaba da neman abin da nake nema",
+    "Wanda ya san komai ya bayyana cewa wannan jarabawa ce ta zuciya da kuma gargaɗi",
+    "Ina cikin waɗanda Alqur'ani ya bayyana game da su: 'Ya yi fushi ya juya baya, domin makaho ya zo masa'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Munafuki Mai Neman Shakka",
+        "Makaho Mai Neman Gaskiya",
+        "Mai bautar gumaka na Makkah",
+        "Kafirin Da Yake Yi Wa Annabi Izgili",
+        "Matafiyi daga Yemen"
+      ],
+      "answer": "Makaho Mai Neman Gaskiya"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ana tsawatar da Annabi Muhammadu yayin sallah",
+        "Ana gwada shi da fari da yunwa a Makka",
+        "Ana juya shi a ƙofar aljanna",
+        "Mutane sun ƙi mutum saboda imaninsa",
+        "Ana gwada shi da dukiya da yara"
+      ],
+      "answer": "Ana tsawatar da Annabi Muhammadu yayin sallah"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "A cikin Ka'aba a lokacin aikin hajji",
+        "A gaban Annabi yayin karatu",
+        "A saman Dutsen Safa da safe",
+        "A kasuwar Makkah da kafirai suka kewaye ta",
+        "Kusa da rijiyar Zamzam a lokacin aikin Hajji"
+      ],
+      "answer": "A gaban Annabi yayin karatu"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Quraysh ya yi shahada ga mai neman saboda imani",
+        "An rubuta lamarin a matsayin gwaji da darasi ga Al'umma",
+        "Mai neman ya zama aboki kuma shugaba",
+        "An ninka dukiyar mai neman ta ninki goma",
+        "Mai neman ya koma rashin yarda"
+      ],
+      "answer": "An rubuta lamarin a matsayin gwaji da darasi ga Al'umma"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

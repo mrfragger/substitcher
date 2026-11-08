@@ -1,0 +1,61 @@
+{
+  "title": "Le bâtisseur de barrières",
+  "intro": "À travers de vastes contrées, un être exceptionnel entreprit une série d'expéditions, investi d'une autorité et de moyens immenses. Cette âme rencontra des communautés diverses et fit face à des défis uniques, laissant une empreinte indélébile sur l'histoire et la foi par ses actions et sa sagesse, tout en reconnaissant la véritable source de sa force.",
+  "clues": [
+    "On m'a accordé pouvoir et moyens sur toute chose, et j'ai suivi une voie.",
+    "Mon voyage m'a conduit jusqu'au lieu du coucher du soleil, où j'ai rencontré un peuple.",
+    "J'ai rencontré une communauté qui comprenait à peine le langage parlé, vivant entre deux montagnes.",
+    "On m'a demandé de construire une barrière, non pas pour un gain personnel, mais pour me protéger d'une force destructrice.",
+    "J'ai déclaré que la force nécessaire pour construire ce mur massif venait d'Allah, et qu'il resterait debout jusqu'au temps promis.",
+    "Mon nom, souvent traduit par « Celui qui a deux cornes », symbolise mon influence à travers la terre ou peut-être deux époques distinctes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Moïse",
+        "Le prophète Sulayman",
+        "Dhul-Qarnayn",
+        "pharaon",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Recevoir la révélation",
+        "Face à un tyran",
+        "Construire un grand navire",
+        "Construire une barrière puissante",
+        "Être avalé par un poisson"
+      ],
+      "answer": "Construire une barrière puissante"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "La barrière de fer",
+        "Le Nil",
+        "Le Trône"
+      ],
+      "answer": "La barrière de fer"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Sauvetage des inondations",
+        "Devenir un grand royaume",
+        "Protection pour un peuple",
+        "Destruction d'un oppresseur",
+        "Sagesse éternelle"
+      ],
+      "answer": "Protection pour un peuple"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

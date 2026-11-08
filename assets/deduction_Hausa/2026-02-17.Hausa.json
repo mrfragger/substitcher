@@ -1,0 +1,61 @@
+{
+  "title": "Tsarin Rikici",
+  "intro": "Kafin duniya ta san cewa rikici ya yaɗu, an fara samun babban gwaji na imani da biyayya. Wannan labarin ya binciki zaɓin da wani mutum ya yi, wanda ayyukansa suka kafa misali ga tsararraki masu zuwa. Ku shirya don warware labarin wata rai da ke fama da kishi mai yawa da kuma mummunan sakamakonsa.",
+  "clues": [
+    "Ni ɗaya ne daga cikin zuri'un farko da suka yi tafiya a duniya, ɗan mutum na farko.",
+    "An umurci ni da ɗan'uwana mu miƙa hadaya ga Allah, wato jarabawar gaskiyarmu.",
+    "Ba a karɓi tayina ba, yayin da aka karɓi na ɗan'uwana, wanda ya cika zuciyata da mummunan motsin rai.",
+    "Na yi wa ɗan'uwana kalaman barazana, saboda ɗacin kin amincewa da na yi.",
+    "Ɗan'uwana ya amsa da hikima da tsoron Allah, yana tunatar da ni adalcin Allah da kuma tsoronsa.",
+    "Duk da kalaman ɗan'uwana masu taushi da kuma yadda yake son ya yafe mini, na kashe kaina, na zama ɗaya daga cikin waɗanda suka yi asara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Adamu",
+        "Iblis",
+        "Annabi Nuhu",
+        "Qabil (Ka'in)",
+        "Fir'auna"
+      ],
+      "answer": "Qabil (Ka'in)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Babban ambaliyar ruwa",
+        "Rabe-raben teku",
+        "Ginin Ka'aba",
+        "Hadayar hadayu",
+        "Jarabawa a Cikin Lambun"
+      ],
+      "answer": "Hadayar hadayu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Ma'aikatan",
+        "Dutsen Safa",
+        "Hadayar",
+        "Dajin da ke Konewa"
+      ],
+      "answer": "Hadayar"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama manzo",
+        "An nutsar da shi",
+        "Gina babbar masarauta",
+        "Ya zama misali na nadama",
+        "An ba shi dukiya mai yawa"
+      ],
+      "answer": "Ya zama misali na nadama"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

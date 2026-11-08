@@ -1,0 +1,61 @@
+{
+  "title": "Salaisen sadon vartijat",
+  "intro": "Vehreässä maassa joukko ihmisiä laati salaisen suunnitelman pimeyden turvin. Heillä oli yhteinen tarkoitus, mutta heidän aikeensa olivat kaikkea muuta kuin vanhurskaat. He eivät tienneet, että heitä odotti jumalallinen käänne heidän nukkuessaan.",
+  "clues": [
+    "Teimme lujan päätöksen, ajatellen suunnitelmamme olevan virheetön.",
+    "Aioimme lähteä ulos aikaisin, ennen kuin muut ehtivät edes liikahtaa.",
+    "Asetuimme hedelmälliselle maalle luottaen varantoihimme.",
+    "Saapuessamme määränpäähämme huomasimme sen olevan karu ja autio, joten luulimme eksyneemme tieltä.",
+    "Sitten ymmärsimme, että se todellakin oli meidän paikkamme, ja huusimme epätoivoissamme syytellen toisiamme menetyksestämme.",
+    "Olimme sinä aamuna vannoneet, ettemme saisi köyhiä mukaan satoon, mutta Allahin rangaistus kohtasi meitä nukkuessamme ja muutti puutarhamme raunioiksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Puutarhan omistajat suurassa 68",
+        "Saban kansa",
+        "Luolan seuralaiset",
+        "Norsun kansa",
+        "Juoksuhaudan kansa"
+      ],
+      "answer": "Puutarhan omistajat suurassa 68"
+    },
+    "trial": {
+      "label": "Kokeilumme",
+      "options": [
+        "Puutarhamme tuhoutui taivaan alla tulleesta onnettomuudesta",
+        "Puutarhamme pyyhkäisi tulva",
+        "Puutarhamme paloi vihollisen sytyttämässä tulipalossa",
+        "Puutarhamme oli täynnä heinäsirkkoja",
+        "Maanjäristys nielaisi puutarhamme"
+      ],
+      "answer": "Puutarhamme tuhoutui taivaan alla tulleesta onnettomuudesta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Vannoimme poimivamme sen hedelmät aamulla",
+        "Rakensimme padon puutarhamme kastelemiseksi",
+        "Etsimme turvaa luolasta",
+        "Valmistelimme armeijan valloittamaan kuningaskunnan",
+        "Purjehdimme laivalla ylittääksemme meren"
+      ],
+      "answer": "Vannoimme poimivamme sen hedelmät aamulla"
+    },
+    "outcome": {
+      "label": "Kohtalomme",
+      "options": [
+        "Me kaduimme ja toivoimme Allahin armoa",
+        "Meidät tuhottiin täysin emmekä koskaan katuneet",
+        "Pakenimme maasta emmekä koskaan palanneet",
+        "Meistä tuli jälleen mahtavia ja rikkaita",
+        "Meidät rangaistiin muuttamalla meidät apinoiksi"
+      ],
+      "answer": "Me kaduimme ja toivoimme Allahin armoa"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

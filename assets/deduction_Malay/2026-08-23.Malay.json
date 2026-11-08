@@ -1,0 +1,61 @@
+{
+  "title": "Orang Ramai Yang Hilang",
+  "intro": "Anda berdiri di hadapan gema sebuah komuniti yang kisahnya tertulis di ombak. Jiwa-jiwa ini mendengar panggilan, memilih untuk menentang, dan menghadapi akibat yang membentuk semula bumi. Siapakah mereka, dan apa yang terjadi dengan dunia mereka?",
+  "clues": [
+    "Kita hidup dahulu kala, dan seorang utusan datang kepada kita dari kalangan kita sendiri.",
+    "Kami menyembah lima berhala dan enggan meninggalkannya.",
+    "Kami mengejek utusan itu dan menuduhnya sesat.",
+    "Kami menuntut dia menjatuhkan hukuman jika dia jujur.",
+    "Kami melihat langit mencurahkan hujan dan bumi memancarkan mata air.",
+    "Kami mendaki ke tempat tinggi untuk melarikan diri, tetapi ombak melanda kami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Kaum Nabi Nuh",
+        "Kaum 'Ad",
+        "Kaum Tsamud",
+        "Kaum Luth",
+        "Orang Madyan"
+      ],
+      "answer": "Kaum Nabi Nuh"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Kami lemas dalam banjir besar",
+        "Kami musnah akibat taufan",
+        "Kami terbunuh akibat letupan kuat",
+        "Kami ditelan bumi",
+        "Kami dilempari batu dari langit"
+      ],
+      "answer": "Kami lemas dalam banjir besar"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Banjir besar",
+        "Angin yang ganas",
+        "Hujan batu",
+        "Letupan yang berapi-api",
+        "Gempa bumi"
+      ],
+      "answer": "Banjir besar"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Kita semua binasa kecuali orang-orang yang beriman bersama Nabi Nuh",
+        "Kami telah berubah menjadi beruk",
+        "Kami ditinggalkan sebagai runtuhan bagi pengembara",
+        "Kami telah diubah menjadi garam",
+        "Kami diberi rehat"
+      ],
+      "answer": "Kita semua binasa kecuali orang-orang yang beriman bersama Nabi Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

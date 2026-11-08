@@ -1,0 +1,61 @@
+{
+  "title": "Dengê Dengê Ji Qeraxa Bajar",
+  "intro": "Li bajarekî ku ji rêberiya îlahî dûr ketibû, kesayetiyek tenê ji derdora bajêr derket, bi peyama hêvî û hişyariyê re dibezî. Ev giyanê jibîrkirî dê bibûya sembolek herheyî ya baweriya bêqusûr.",
+  "clues": [
+    "Min dît ku qasid ji bajarê min re hatin şandin, lê gelê min wan wek mirovên asayî nedît.",
+    "Min baweriya xwe bi peyama wan anî û min hîs kir ku rastî di hundirê min de deng vedide.",
+    "Min gazî gelê xwe kir ku guh bidin peyamberên ku ti xelatek nexwestin.",
+    "Ez ji dawiya herî dûr a bajêr reviyam, bi lezgînî hewl didam ku wan bi aqil bibînim.",
+    "Gelê min li dijî min rabû û ez hatim kuştin, lê min aştiya herheyî dît.",
+    "Xwedê ji min re got, 'Biçe bihuştê,' û min xwest ku gelê min bikaribin şahidiya rûmeta ku ji min re hatiye dayîn bikin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Bawermendê Ya-Sin",
+        "Uzeyr Pirsyarker",
+        "El-Xidr Rêber",
+        "Bawermendê Malbata Fîrewn",
+        "Nemrûdê Zordar"
+      ],
+      "answer": "Bawermendê Ya-Sin"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bi gelê kafir re rûbirû dibe ku wî kuşt",
+        "Têne avêtin nav agirê geş",
+        "Ji aliyê masiyek mezin ve tê daqurtandin",
+        "Avakirina keştiyek mezin",
+        "Reviya ji artêşa zalimekî"
+      ],
+      "answer": "Bi gelê kafir re rûbirû dibe ku wî kuşt"
+    },
+    "location": {
+      "label": "Cihê Sereke",
+      "options": [
+        "Dawîya herî dûr a bajêr",
+        "Çiyayê Turê",
+        "Geliyê Morîyan",
+        "Qeraxên Nîlê",
+        "Şikefta şikeftê"
+      ],
+      "answer": "Dawîya herî dûr a bajêr"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Şehîdbûn û ketina yekser a bihuştê",
+        "Revîn û rizgarbûn",
+        "Hilkişîna ber bi asîmanan",
+        "Di deryayê de dixeniqe",
+        "Veguherî kevir"
+      ],
+      "answer": "Şehîdbûn û ketina yekser a bihuştê"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

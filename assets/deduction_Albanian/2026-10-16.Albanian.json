@@ -1,0 +1,61 @@
+{
+  "title": "Komuniteti që sfidoi ditën e pushimit",
+  "intro": "Hyni në një vendbanim bregdetar ku një urdhër hyjnor i caktuar një ditë për adhurim dhe përmbajtje. Një grup brenda këtij komuniteti zgjodhi të testonte kufijtë e atij urdhri me një plan dinak, duke çuar në një transformim që do të jehonte nëpër shekuj. Kush ishin këta shpirtra dhe çfarë u bë me ta?",
+  "clues": [
+    "Ne jetonim pranë bregdetit, ku deti na siguronte jetesën.",
+    "Na u urdhërua të nderonim një ditë të javës, duke e lënë mënjanë nga ndjekjet e kësaj bote.",
+    "Atë ditë, peshqit na erdhën në numër të madh, sikur të na tundonin të shkelnim urdhrin.",
+    "Ne hartuam një plan për t’i zënë peshqit në grackë në prag të ditës së shenjtë, dhe pastaj për t’i mbledhur pasi të kalonte ajo.",
+    "Kur disa prej nesh paralajmëruan kundër këtij mashtrimi, ne i shpërfillëm këshillat e tyre dhe ngulmuam.",
+    "Për shkak të shkeljes sonë, ne u transformuam në majmunë, u përçmuam dhe u hodhëm poshtë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Njerëzit e Sabatit",
+        "Njerëzit e Hendekut",
+        "Njerëzit e Pyllit",
+        "Njerëzit e Kopshtit",
+        "Njerëzit e Elefantit"
+      ],
+      "answer": "Njerëzit e Sabatit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Peshkimi në Sabat",
+        "Ndërtimi i një kulle të lartë",
+        "Vrasja e një deveje të shenjtë",
+        "Mohimi i një profeti të dërguar tek ata",
+        "Shkelja e peshave tregtare"
+      ],
+      "answer": "Peshkimi në Sabat"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Deti dhe peshqit e tij",
+        "Zjarri që u ftoh",
+        "Shkopi që u bë gjarpër",
+        "Arka e shpëtimit",
+        "Pllakat prej guri"
+      ],
+      "answer": "Deti dhe peshqit e tij"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Të transformuar në majmunë",
+        "Gëlltitur nga toka",
+        "Shkatërrohet nga një erë e fortë",
+        "U mbyt në det",
+        "I goditur nga një shi gurësh"
+      ],
+      "answer": "Të transformuar në majmunë"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

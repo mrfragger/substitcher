@@ -1,0 +1,61 @@
+{
+  "title": "Engumba oyo ebungaki ya Majesty oyo ekokani na mosusu te",
+  "intro": "Kala, sivilizasio moko ya nguya ezalaki koyangela bisika minene ya mabele, oyo bato bazalaki kosepela na yango mpo na bandako milai oyo ezalaki kokóma tii na likoló. Nzokande na nse ya bonene oyo, bowangani ya motó makasi ekolaki —koboya koyoka mokebisi ya bonzambe oyo atindamaki uta na kati ya lisanga yango moko. Lolendo mpe lolendo ekobimisa nokinoki etumbu oyo ezala mabele to likoló emona naino te.",
+  "clues": [
+    "Kala tozalaki koyangela bisika minene ya mabele, komikumisa mpo na makasi oyo tondimaki ete sivilizasio mosusu te ekokaki kokokana na yango.",
+    "Bokonzi na biso eyebanaki mingi mpo na bandako milai oyo ezalaki na makonzí minene oyo etɛlɛmaki kozanga kokokana na mokili nyonso oyo eyebani.",
+    "Mokebisi moko uta na lisanga na biso mpenza atɛlɛmaki, kosɛnga mokomoko na biso amikitisa na Mozalisi Moko ye moko.",
+    "Towanganaki nsango oyo bapesaki biso mpe toboyaki kotika nzela oyo tozwaki.",
+    "Mopɛpɛ moko ya nkanda mpe ya koganga ya makasi mpenza ebimisamaki mpo na kobundisa biso, mpe etikalaki biso mpenza kozanga komibatela.",
+    "Totikalaki lokola mikuwa ya banzete ya mbila oyo ezali na mabulu, epalangani mpe tobosanaki, lokola liteya mpo na nkola nyonso nsima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya A'ad",
+        "Bato ya Nuh",
+        "Bato ya Lut",
+        "Bato ya Madyan",
+        "Bato ya Tubba'."
+      ],
+      "answer": "Bato ya A'ad"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mopɛpɛ ya makasi oyo ekoki kosila te ya etumbu makasi",
+        "Mpela oyo ezipaki nsɔngɛ nyonso ya bangomba",
+        "Mbula ya mabanga ya mabele ya lima oyo ezali kozika uta likoló",
+        "Koganga moko ya nsɔmɔ oyo euti na likoló",
+        "Koningana ya mabele ya makasi oyo ekabolaki mokili"
+      ],
+      "answer": "Mopɛpɛ ya makasi oyo ekoki kosila te ya etumbu makasi"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Iram, engumba ya makonzí milai",
+        "Sanduku monene ya mabaya oyo etongamaki likoló ya ngomba",
+        "Kamela ya mwasi oyo ebimaki na libanga na ndenge ya likamwisi",
+        "Ngomba Sinai epai mitindo ya bonzambe ekita",
+        "Ndako monene ya cristal mpe ya vitre ya malamu oyo ezali kotala mai oyo ezali kosopana"
+      ],
+      "answer": "Iram, engumba ya makonzí milai"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Etikali lokola mikuwa ya banzete ya mbila oyo ezali na mabulu, epalangani mpe ezangi bomoi",
+        "Azindaki na nse ya mbonge makasi ya mpela monene",
+        "Ebongwanaki bikelamu oyo ekokani na ba singes mpe ngulu",
+        "Enyatami na nse ya mbula ya mabanga ya mabele ya lima oyo ekómi makasi",
+        "Esilisaki na kolela moko ya kokanga matoi oyo etɔbɔlaki molimo"
+      ],
+      "answer": "Etikali lokola mikuwa ya banzete ya mbila oyo ezali na mabulu, epalangani mpe ezangi bomoi"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

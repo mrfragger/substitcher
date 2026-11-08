@@ -1,0 +1,61 @@
+{
+  "title": "Sèvitè Allah ki Elve a",
+  "intro": "Ou tande pale de yon pèsonaj ki soti nan tan lontan, yon sèvitè Allah ki te monte nan yon pozisyon ki pi wo pase moun òdinè yo. Moun sa a te konnen pou pasyans li san fay ak verasite absoli li, epi yo te voye l bay yon pèp ki te vire do bay mesaj la. Ki moun ki nanm elve sa a?",
+  "clues": [
+    "Allah te chwazi mwen kòm pwofèt epi Koran an mansyone mwen.",
+    "Mwen te konnen pou pasyans mwen ak verasite mwen, kalite ke Allah fè lwanj.",
+    "Mwen te rele pèp mwen an pou adore sèl Bondye a, men anpil moun te rejte m.",
+    "Allah te ogmante pozisyon mwen, epi li te ban mwen yon ran ki wo.",
+    "Yo souvan mansyone mwen ansanm ak lòt pwofèt tankou Ismail ak Dhul-Kifl.",
+    "Allah di sou mwen: 'Epi Nou te leve l' nan yon pozisyon ki wo.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Idris",
+        "Pwofèt Elyas",
+        "Pwofèt Dhu al-Kifl",
+        "Pwofèt Al-Yasa",
+        "Pwofèt Hud"
+      ],
+      "answer": "Pwofèt Idris"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Li te rele moun pou adore Bondye",
+        "Bati lach la",
+        "Goumen kont Farawon an",
+        "Yo te fè tès la avèk yon maladi grav",
+        "Yo te jete l nan dife"
+      ],
+      "answer": "Li te rele moun pou adore Bondye"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Ran ki wo/estasyon ki wo",
+        "Lach la",
+        "Anplwaye yo",
+        "Dife a",
+        "Pi a"
+      ],
+      "answer": "Ran ki wo/estasyon ki wo"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Elve nan yon estati ki wo",
+        "Nwaye nan inondasyon an",
+        "Yon balèn te vale l",
+        "Sove anba dife a",
+        "Li te vin tounen yon wa"
+      ],
+      "answer": "Elve nan yon estati ki wo"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

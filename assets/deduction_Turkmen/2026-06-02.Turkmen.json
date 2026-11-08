@@ -1,0 +1,61 @@
+{
+  "title": "Dogýan Günüň Derwezesiniň Saklaýjysy",
+  "intro": "Kuranyň dowamynda käbir ruhlar ýer ýüzünde akyldarlyk we haýran galdyryjy yzlary galdyryp syýahat edýärler. Şeýle şahsyýetleriň biri ýaradylyşyň iň çetki nokatlaryna - günüň dogup-batýan ýerine, päsgelçilik betbagtçylygyň özüni saklaýan ýerine syýahat edýär. Allanyň bu bendesine hiç kimiň gaýtadan eýe bolup bilmejek patyşalygy berildi. Üç aýry syýahat arkaly bu adamyň maksady aýdyňlaşdy. Taryhyň kölegeleriniň arasyndan bu rowaýata öwrülen syýahatçyny tanap bilersiňizmi?",
+  "clues": [
+    "Maňa iň Rehimli Taňry tarapyndan başga hiç kimiň gazanyp bilmeýän usulynda ýer ýüzüne höküm sürmek ygtyýary berildi.",
+    "Men günbatara tarap ýola düşdüm, tä Gün batýan ýere ýetdim, onuň bulanyk çeşmede batýandygyny gördüm we ol ýerde bir adamyň bardygyny gördüm.",
+    "Men gündogara tarap ýola düşüp, Gün dogýan ýere ýetdim we onuň günden goranmak üçin hiç hili gaçybatalga bermedik bir halkyň üstünde dogýandygyny gördüm.",
+    "Men şol iki çetki nokadyň arasynda iki dagyň arasyndaky jülgä ýetýänçäm, şol ýerde gepleýşi asla düşünip bilmeýän bir adama duşdum.",
+    "Men dagda sag we çep taraplara uzalyp gidýän iki sany berk demir böwet we olaryň arasynda dar bir geçelge tapdym. Bu adamlar menden betbagtçylygyň öňüni alýan böwetden geçmegi haýyş etdiler.",
+    "Men öz azyk önümlerimi alyp: \"Böwet döwülende, bu biziň bilen bu halkyň arasynda aýdyň bölünişik bolar\" diýdim. Bellenen wagt gelende, men böwediň ahyrsoňy döwülmegini synladym."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Zül-karneýn",
+        "Süleýman pygamber",
+        "Ybraýym pygamber",
+        "Gassaniýanyň patyşasy",
+        "Zulkarneýn geziji"
+      ],
+      "answer": "Zül-karneýn"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ýajuj we Majuj halky üçin demir päsgelçiligi ýok etmek",
+        "Pygamberiň buýrugy bilen gämini gurmak",
+        "Iýerusalimde ybadathana gurmak",
+        "Ynanýan adamlar bilen Gyzyl deňzi geçmek",
+        "Adalatly milleti goramak üçin bend gurmak"
+      ],
+      "answer": "Ýajuj we Majuj halky üçin demir päsgelçiligi ýok etmek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Iki dagyň arasyndaky demir böwet",
+        "Gämi dagda löwürläp durdy",
+        "Iýerusalimdäki mukaddes ybadat jaýy",
+        "Müsür topragyndaky derýa",
+        "Medýandaky bereket guýusy"
+      ],
+      "answer": "Iki dagyň arasyndaky demir böwet"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Bellenen wagt gelende, päsgelçilik döwüldi we betbagtçylyk başlandy",
+        "Kafirler suwa gark edildi, möminler bolsa halas boldular",
+        "Salyhlar ebedi jennete ýol görkezdiler",
+        "Şäher güýçli ýel bilen weýran boldy",
+        "Butlar dargadyldy we halk toba etdi"
+      ],
+      "answer": "Bellenen wagt gelende, päsgelçilik döwüldi we betbagtçylyk başlandy"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Qîrîna Ji Kûrahiyê",
+  "intro": "Xizmetkarekî Xwedayê Herî Dilovan ji miletekî serhişk westiya û berî ku destûr bê dayîn çû. Ev kes li cihekî ku tu mirov lê neçûbû, li wir banga Xwedayî bi awayekî ecêb di nav tebeqeyên tarîtiyê de deng vedide. Ev giyan, ku lawaz bû lê veguherî, bû dersek bêdem a sebir, tobeya dilsoz û dilovaniya bêdawî ya Afirîner. Ma hûn dikarin vê sirê eşkere bikin?",
+  "clues": [
+    "Ez wek peyamberek ji bo gelê xwe hatim şandin, lê wan di bêbaweriya xwe de hemû sînor derbas kirin û red kirin ku guhdarî bikin.",
+    "Ez ji ber redkirina wan hêrs bûm û berî ku fermana Xwedê were, ez ji gelê xwe reviyam.",
+    "Ez li keştîyekê siwar bûm ku ji kapasîteya xwe zêdetir barkirî bû, û me pişk kişand da ku diyar bikin ka kî dê were avêtin deryayê.",
+    "Ez hatim avêtin nav deryaya har û ji aliyê masiyek mezin ve hatim daqurtandin.",
+    "Di sê tebeqeyên tariyê de asê mayî - zik, deryaya kûr û erd li jêr - min bi tobeyeke dilsoz gazî Rebê xwe kir.",
+    "Ez ji nav masiyan derketim ser perava vekirî, lawaz û westiyayî, û giyayek kundir li ser min şîn bû. Gelê min, sed hezar an jî zêdetir, di dawiyê de bawer kir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Yunus",
+        "Pêxember Eyûb",
+        "Pêxember Yûsif",
+        "Pêxember Mûsa",
+        "Pêxember Suleyman"
+      ],
+      "answer": "Pêxember Yunus"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ji aliyê masiyek mezin ve hat daqurtandin",
+        "Di agirê geş de hat avêtin",
+        "Li binê bîrekê asê maye",
+        "Ji ber lehiyê mezin sermest bû",
+        "Ji aliyê padîşahekî ve bi neheqî hatiye girtin"
+      ],
+      "answer": "Ji aliyê masiyek mezin ve hat daqurtandin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Zikê masiyek mezin",
+        "Geliyê pîroz li nêzîkî Kaabê",
+        "Keştiyek li ser çiyayekî radiweste",
+        "Dara ku veguherî mar",
+        "Textekî bi heybeteke bêhempa"
+      ],
+      "answer": "Zikê masiyek mezin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Gelê wî, sed hezar an jî zêdetir, bawer dikir ku",
+        "Zindî ber bi asîmanan ve hat rakirin",
+        "Bû serwerê padîşahiyek bêhempa",
+        "Bi qîrînek tûj ji asîman ve hate wêrankirin",
+        "Ji aliyê erdhejeke wêranker ve hat hilweşandin"
+      ],
+      "answer": "Gelê wî, sed hezar an jî zêdetir, bawer dikir ku"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

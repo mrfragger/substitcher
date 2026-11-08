@@ -1,0 +1,61 @@
+{
+  "title": "Molumo o Fetang Mafikeng",
+  "intro": "Ak'u nahane ka phula eo matlo a betliloeng ho eona mafikeng, 'me moea o hopola temoso e sa eloang hloko. Batho ba kileng ba atleha mona, ba hlohonolofalitsoe empa ba manganga, ho fihlela pontšo e hlaha lefikeng leo ba neng ba le tšepa.",
+  "clues": [
+    "Re ne re le batho ba neng ba betla matlo a sireletsehileng lithabeng, re ikutloa re sireletsehile matlong a rona a majoe.",
+    "Re ne re phela naheng e nang le mabala le majoe, e hlohonolofalitsoeng ka lirapa le liliba.",
+    "Lenģosa le tsoang har'a rona le ile la tla, le re bitsa hore re lahle melimo ea rona ea bohata 'me re rapele 'Mōpi a le mong oa 'nete.",
+    "Ka boikhohomoso re behile boemo ba tumelo: pontšo e ikhethang e neng e tla hlaha mafikeng ao re a betlileng.",
+    "Ha kamele e tšehali e tšehali e tšepisitsoeng e hlaha lefikeng, e le pontšo e hlakileng, batho ba maemo a holimo ba rona ba ile ba hana 'me ba e khaola mesifa ho sa tsotellehe temoso ea timetso e tlang.",
+    "Matsatsi a mararo ka mor'a ketso ea rona, molumo o matla oa lerata o ile oa utloahala phuleng, 'me ra fetoha lithako tse oeleng, matlo a rona mabitla a rona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Batho ba Ad",
+        "Batho ba Thamud",
+        "Batho ba Madyan",
+        "Batho ba Grove",
+        "Batho ba Lehaheng"
+      ],
+      "answer": "Batho ba Thamud"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo ea Rona e Kholo",
+      "options": [
+        "Ho otloa ha kamele e tšehali ea Allah",
+        "Borapeli ba namane ea khauta",
+        "Ho roba Sabatha",
+        "Ho hahuoa ha tora ho ea leholimong",
+        "Ho bolaoa ha baprofeta"
+      ],
+      "answer": "Ho otloa ha kamele e tšehali ea Allah"
+    },
+    "location": {
+      "label": "Ntlha ea Bohlokoa Paleng ea Rona",
+      "options": [
+        "Kamele e tšehali ea Allah",
+        "Basebetsi ba Musa",
+        "Areka ea Nuh",
+        "Letsoho le lesoeu la Musa",
+        "Nonyana ea Isa"
+      ],
+      "answer": "Kamele e tšehali ea Allah"
+    },
+    "outcome": {
+      "label": "Sephetho sa Rona",
+      "options": [
+        "Tšenyo e bakoang ke ho phatloha ho thibang litsebe",
+        "Pula ea majoe a tsoang leholimong",
+        "Moroallo o ileng oa koahela lefatše",
+        "Moea o matla o re fothileng",
+        "Lefatše lea re metsa"
+      ],
+      "answer": "Tšenyo e bakoang ke ho phatloha ho thibang litsebe"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

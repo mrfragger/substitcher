@@ -1,0 +1,61 @@
+{
+  "title": "Apreiškimo perrašytas ryšys",
+  "intro": "Įsivaizduokite save, kai jums patikėtas labai svarbus asmuo, o jūs susiduriate su įsakymu, kuris nutraukia ryšį dėl paklusnumo. Apreiškimas pakeitė visus namų ūkius, ir vardas, esantis įsakymo centre, niekada nebuvo tas, į kurį buvo kreipiamasi.",
+  "clues": [
+    "Stovėjau ten, kur asmeninė ištikimybė turėjo nusileisti dieviškajam paklusnumui.",
+    "Pasiuntinio namuose buvau žinomas kaip įsūnis.",
+    "Sužinojau, kad mano santuoka tapo apreiškimo, adresuoto Alacho Pasiuntiniui, objektu.",
+    "Išgirdau žodžius: „Išlaikyk savo žmoną ir bijok Alacho“, skirtus man.",
+    "Tada sužinojau, kad Alachas įsakė Alacho Pasiuntiniui išsiskirti su tam tikromis žmonomis, ir mano paties santuoka turėjo nutrūkti pagal šį įsakymą.",
+    "Aš esu Zayd ibn Harithah, įvaikintas sūnus, pavadintas Sura Al-Ahzb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Pranašas Harunas",
+        "Pranašas Jahja",
+        "Mirties angelas",
+        "Jusufo broliai"
+      ],
+      "answer": "Zayd ibn Harithah"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Jam buvo liepta pasilikti žmoną, o paskui nurodyta su ja išsiskirti",
+        "Praryti didelės žuvies",
+        "Įmetimas į ugningą krosnį",
+        "Miegas oloje šimtmečius",
+        "Susidūrimas su gyvate su lazda"
+      ],
+      "answer": "Jam buvo liepta pasilikti žmoną, o paskui nurodyta su ja išsiskirti"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Alacho Pasiuntinio namų ūkis",
+        "Faraono rūmai Egipte",
+        "Miegančiųjų kompanionų ola",
+        "Dviejų tikinčiųjų bendražygių sodas",
+        "Karuno įtvirtinti rūmai"
+      ],
+      "answer": "Alacho Pasiuntinio namų ūkis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pakluso įsakymui, išsiskyrė su žmona ir santuoka buvo nutraukta",
+        "Buvo išgelbėtas nenukentėjęs iš liepsnojančios krosnies",
+        "Buvo išgelbėtas po to, kai jį prarijo didelė žuvis",
+        "Jam buvo suteiktas sodas su dviem šaltiniais",
+        "Suteikė valdžią Rytuose ir Vakaruose"
+      ],
+      "answer": "Pakluso įsakymui, išsiskyrė su žmona ir santuoka buvo nutraukta"
+    }
+  },
+  "verseRef": "33:37",
+  "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+  "verse": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished. (33:37)"
+}

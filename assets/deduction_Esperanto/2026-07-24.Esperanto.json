@@ -1,0 +1,61 @@
+{
+  "title": "La Vualita Konspiranto",
+  "intro": "Vi trovas vin en la ĉeesto de potenca figuro el la tagoj de revelacio. Ĉi tiu individuo estis konata pro sia intelekto, riĉeco kaj statuso inter sia popolo. Kiam la klaraj signoj venis, ili rekonis la belecon, tamen elektis spitemon anstataŭ submetiĝon. Kio pelis ĉi tiun animon konspiri en la mallumo, kaj kia estis ilia finfina sorto?",
+  "clues": [
+    "Mi estis benita per abundaj rimedoj kaj influo, igante mian vorton peza en la asembleoj.",
+    "Kiam la vortoj de la diaĵo estis deklamataj, mi ne povis nei ilian elokventecon, sed mia fiereco ne permesis al mi submetiĝi.",
+    "Mi kunvenigis miajn konsilistojn, izolante min por pripensi manieron misfamigi la mesaĝon.",
+    "Post multe da pripensado, mi deklaris ĝin nenio krom \"magio transdonita el la pasinteco\" por forpuŝi homojn.",
+    "La revelacio tiam alparolis min rekte: 'Lasu min sola kun tiu, kiun mi kreis.' Mi estis elstarigita pro mia intrigado.",
+    "Baldaŭ, la fajro mem, pri kiu mi estis avertita, kaptos min je la frunto, kaj mi ne havos eskapon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Al-Ŭalid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Ŭalid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Konspiris por asasini la Profeton",
+        "Gvidis bojkoton kontraŭ la islamanoj",
+        "Kunigis konsilion por marki la Koranon kiel magion",
+        "Konspiris por forpeli la Profeton el Mekko",
+        "Rifuzis dividi sian riĉaĵon kun orfoj"
+      ],
+      "answer": "Kunigis konsilion por marki la Koranon kiel magion"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Revelacio",
+        "La Konsilio",
+        "La Frunto",
+        "La Riĉeco",
+        "La Skribilo"
+      ],
+      "answer": "La Frunto"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Li pentis kaj ampleksis Islamon",
+        "Li migris al Abisinio",
+        "Lin trafis mortiga malsano",
+        "Li mortis en batalo kontraŭ islamanoj",
+        "Li estis kondamnita al Infero"
+      ],
+      "answer": "Li estis kondamnita al Infero"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

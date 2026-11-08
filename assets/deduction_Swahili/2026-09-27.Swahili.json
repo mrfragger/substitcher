@@ -1,0 +1,61 @@
+{
+  "title": "Bustani Iliyotoweka Usiku Mmoja",
+  "intro": "Hebu fikiria bustani yenye majani mengi, yenye matunda yaliyoiva na kuzungukwa na miti mirefu. Wale walioitunza walijiona werevu, wakipanga mavuno yao katika saa tulivu kabla ya alfajiri, mbali na macho ya wale wanaohitaji. Lakini Yule ambaye halali kamwe alikuwa na mipango mingine kwa ajili ya fadhila yao iliyofichwa. Je, unaweza kukisia ni nani anayesimama nyuma ya hadithi hii ya tahadhari kutoka kwa Quran?",
+  "clues": [
+    "Wakati mmoja tulikuwa na bustani yenye majani mengi na yenye rutuba kiasi kwamba ikawa wivu wa wote waliopita.",
+    "Katika mipango yetu, tulinong'onezana asubuhi na mapema, tukitangaza kwamba hakuna mtu yeyote mwenye uhitaji atakayeruhusiwa kuingia siku hiyo.",
+    "Tulikuwa watu matajiri, na mioyo yetu ilikuwa imepofuka kwa haki za maskini waliotuzunguka.",
+    "Mapambazuko ya mavuno yetu yalipofika, tulikaribia bustani yetu na kuikuta imegeuzwa kuwa magofu meusi usiku kucha.",
+    "Amri ya uharibifu ilipita, bila kuacha chochote ila majivu ambapo makundi ya matunda yaliyoiva yalikuwa yametundikwa hapo awali.",
+    "Hadithi yetu ni onyo kali lililoandikwa katika Quran, ambapo tunajulikana kama wamiliki wa bustani waliowanyima maskini sadaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Wamiliki wa Bustani",
+        "Watu wa Pango",
+        "Wanafunzi wa Isa",
+        "Masahaba wa Wood",
+        "Wageni wa Ibrahimu"
+      ],
+      "answer": "Wamiliki wa Bustani"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuvuna matunda kwa siri na kuwazuia maskini",
+        "Kulala kwa karne nyingi ndani ya pango",
+        "Kukataa kutoa ngamia jike kutoka kwa jiwe",
+        "Kuabudu ndama wa dhahabu kwenye Mlima Sinai",
+        "Kujenga safina kubwa ili kuepuka mafuriko"
+      ],
+      "answer": "Kuvuna matunda kwa siri na kuwazuia maskini"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bustani iliyozungukwa na ukuta iliyojaa mitende na mizabibu",
+        "Pango lenye giza ndani kabisa ya milima",
+        "Mji uliokumbwa na kimbunga cha kimungu",
+        "Bonde takatifu karibu na Nyumba ya Mwenyezi Mungu",
+        "Kingo za mto unaotiririka"
+      ],
+      "answer": "Bustani iliyozungukwa na ukuta iliyojaa mitende na mizabibu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Bustani iliteketezwa na amri kali kutoka mbinguni",
+        "Walilala kwa amani kwa miaka 309 ya mwezi",
+        "Walivunjwa na mvua ya mawe",
+        "Walizama chini ya mawimbi ya mafuriko makubwa",
+        "Walitawanyika na upepo mkali na baridi"
+      ],
+      "answer": "Bustani iliteketezwa na amri kali kutoka mbinguni"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

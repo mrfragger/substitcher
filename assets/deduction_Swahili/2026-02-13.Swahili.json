@@ -1,0 +1,61 @@
+{
+  "title": "Utii Mkuu wa Mfalme",
+  "intro": "Unajikuta katika nchi ya maajabu ya kale na ufunuo wa kina. Mtawala mwenye nguvu, akikabiliwa na mwaliko usiotarajiwa, alianza safari ambayo ingebadilisha mwelekeo wa hatima yake na imani ya watu wake. Je, unaweza kufichua utambulisho wa mtu huyu mkuu?",
+  "clues": [
+    "Nilitawala ufalme uliostawi, uliopambwa kwa utajiri mwingi na kiti cha enzi kizuri.",
+    "Mimi na watu wangu tuliabudu mwili wa mbinguni, tukiamini kuwa ni bwana wetu, ingawa nilikuwa na mashaka moyoni mwangu.",
+    "Mjumbe wa kipekee, ndege, aliniletea barua, akiniita mimi na watu wangu kumtii Mungu Mmoja.",
+    "Niliwasiliana na washauri wangu, ambao walikuwa na nguvu nyingi, kuhusu jinsi ya kujibu ujumbe huu ambao haujawahi kutokea.",
+    "Niliamua kumtumia zawadi yenye thamani yule aliyetuma barua, nikitumaini kupima nguvu na nia yake.",
+    "Nilipofika, nilishangazwa na jumba lenye sakafu iliyotengenezwa kwa kioo, likionekana kama bwawa la maji, na hapo ndipo nilipotangaza kujisalimisha kwangu kwa Bwana wa viumbe vyote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Farao",
+        "Malkia wa Sheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Nabii Yusufu"
+      ],
+      "answer": "Malkia wa Sheba"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kugawanyika kwa bahari",
+        "Mafuriko makubwa",
+        "Safari ya kukutana na Mtume Sulayman",
+        "Kuangamizwa kwa watu wa Lut",
+        "Kuchomwa kwa Nabii Ibrahim"
+      ],
+      "answer": "Safari ya kukutana na Mtume Sulayman"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Kiti cha Enzi",
+        "Mlima",
+        "Moto"
+      ],
+      "answer": "Kiti cha Enzi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa nabii",
+        "Aliangamizwa na Mwenyezi Mungu",
+        "Kukubali Uislamu",
+        "Aliwaongoza watu wake vitani",
+        "Kujengwa hekalu kubwa"
+      ],
+      "answer": "Kukubali Uislamu"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

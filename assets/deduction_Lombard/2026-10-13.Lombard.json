@@ -1,0 +1,61 @@
+{
+  "title": "L'avversario focoso",
+  "intro": "In di prim dì de la rivelaziun, una figüra l’è nassuda cuma un aversari testard de la verità. Benedeta de richeza e status, qesta anema qì l’ha cernid l’orgœi sora la guida, e la soa storia l’è diventada un avvertiment fort ind i versets final de una sura.",
+  "clues": [
+    "Vivevi in ​​de la stessa cità del Profeta, e l’eri intra i parent püsee visin a lù, anca se el me orgœuj el me tegniva luntan de la verità.",
+    "G’havevi tanta richezza e tant proprietà, e pensavi che i me risurs m’avarian semper prutegiü.",
+    "Quand el messagg l’è stà rivelà, g’ho ciapà in gir apert e g’ho voltà via, cunsiderand mi superiur ai credent.",
+    "La mia nemicizia l’era inscì famusa che una sura del Coran la se rivolgeva diretament a mi, e la me ciamava cunt el nomm che i olter me cognossevan.",
+    "Sun stà avvertì che la me richeza e i me guadagn g’havarian minga servia, e seri stà butà in d’un fööch ardent.",
+    "Sun famus cuma el pà de la flama, e la me dona la purtarà la legna cunt una corda de fibra de palma intorn al còll."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Refudà l’Islam e s’è opost avertament al Profeta",
+        "Tramad per assassinar el Profeta",
+        "Guidad un boicott social cuntra i musulman",
+        "Cumbattù in de la bataja de Badr",
+        "Torturad Bilal ibn Rabah"
+      ],
+      "answer": "Refudà l’Islam e s’è opost avertament al Profeta"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una corda de fibra de palma",
+        "Una spada affilada",
+        "Una cadena pesant",
+        "Un bastun de legn",
+        "Una frusta de pel"
+      ],
+      "answer": "Una corda de fibra de palma"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Brusarà en un fœuch ardent",
+        "Se pentì e l’è diventà un cumpagn",
+        "Perdü la sò richeza ma l’è mort onorà",
+        "Scapà in Abissinia",
+        "Anegato in del mar"
+      ],
+      "answer": "Brusarà en un fœuch ardent"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

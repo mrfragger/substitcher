@@ -1,0 +1,61 @@
+{
+  "title": "Pencari Kebenaran yang Rendah Hati",
+  "intro": "Di tanah yang penuh dengan kuasa dan sihir kuno, satu konfrontasi hebat berlaku. Satu pihak memegang kuasa tanda-tanda ilahi, sementara pihak yang satu lagi cuba menandingi perkara yang mustahil. Hasilnya akan mengubah perjalanan sejarah selama-lamanya. Bolehkah anda mendedahkan identiti mereka yang menyaksikan kebenaran hakiki dan merendahkan diri di hadapannya?",
+  "clues": [
+    "Kami menyaksikan tanda-tanda yang melangkaui helah sihir",
+    "Kami semua sujud, tidak dapat menafikan kebenaran",
+    "Kami menyedari bahawa tanda-tanda ini datang dari Tuhan Yang Maha Esa",
+    "Kami merupakan komuniti pertama yang memeluk agama dengan cara yang begitu dramatik",
+    "Kita dijanjikan syurga sebagai balasan atas iman kita",
+    "Tali dan tongkat kami menjadi ular di depan mata kami, namun kami memilih untuk tunduk"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Ahli sihir Firaun",
+        "Kaum Nabi Ibrahim",
+        "Para pencari kebenaran yang rendah hati",
+        "Orang-orang Gua",
+        "Bangsa Ratu Bilqis"
+      ],
+      "answer": "Ahli sihir Firaun"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Pertemuan dengan tongkat Nabi Musa as",
+        "Ujian angin Nabi Hud",
+        "Cabaran daripada unta betina Nabi Saleh",
+        "Banjir besar yang menimpa seorang nabi",
+        "Perjalanan seorang nabi di dalam ikan paus"
+      ],
+      "answer": "Pertemuan dengan tongkat Nabi Musa as"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Mesir Purba",
+        "Rumah suci di Mekah",
+        "Bandar Midian",
+        "Gurun Tsamud",
+        "Gua orang-orang tidur purba"
+      ],
+      "answer": "Mesir Purba"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Syurga sebagai balasan mereka",
+        "Hukuman di dalam kubur",
+        "Kehilangan kebun mereka yang subur",
+        "Kemusnahan akibat gempa bumi yang tiba-tiba",
+        "Penyelamatan daripada ikan paus yang hebat"
+      ],
+      "answer": "Syurga sebagai balasan mereka"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

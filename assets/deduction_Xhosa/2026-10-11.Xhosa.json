@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi kwiSandwithi yamandulo",
+  "intro": "Phakathi kwabathunywa bokuqala baka-Allah, kwakukho omnye ogama lakhe likhanya kancinci kodwa linentsingiselo kwiQuran. Lo mntu waphila ixesha elide ngaphambi kokuba kuthunyelwe abaprofeti abaninzi abakhulu, kwaye wayesaziwa ngokunyaniseka okungagungqiyo nomonde. Ibali labo lifutshane kodwa ilifa labo lihlala likho kwirekhodi engunaphakade. Ngubani lo mphefumlo uhloniphekileyo?",
+  "clues": [
+    "Ndingomnye wabathunywa bokuqala, abakhankanywa kafutshane kodwa banentsingiselo kwiQuran.",
+    "Ubuntu bam buchazwe kukuzinikela okungagungqiyo kwinyaniso.",
+    "Ndikhunjulwa kwincwadi ka-Allah phakathi kwabo babeqinile kwaye benomonde.",
+    "Zimbalwa iivesi ezimfutshane kwiQuran ezibalisa ibali lam.",
+    "U-Allah undihloniphile ngendlela eyam yodwa, engeyiyo eyabanye abaprofeti.",
+    "Ndikhuliswe kwisikhundla esiphezulu, imbeko ekhethekileyo kwiQuran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uIdris",
+        "Umprofeti uIlyas",
+        "Dhul-Kifl",
+        "Umprofeti u-Alyasa",
+        "uAsif ibn Barkhiya"
+      ],
+      "answer": "Umprofeti uIdris"
+    },
+    "trial": {
+      "label": "Ukuchaza ixesha",
+      "options": [
+        "Ndiphakanyiselwe kwisikhundla esiphezulu nguAllah",
+        "Ndakha umkhombe omkhulu ukuze ndisindise abantu bam",
+        "Ndibacelile umngeni abathakathi bakaFaro",
+        "Ndaphoswa emngxunyeni ngabantakwethu",
+        "Ndaphelelwa liliso ngenxa yosizi ngenxa yonyana wam"
+      ],
+      "answer": "Ndiphakanyiselwe kwisikhundla esiphezulu nguAllah"
+    },
+    "location": {
+      "label": "Isalathiso Esingcwele",
+      "options": [
+        "ISurah Al-Anbiya",
+        "ISurah Al-Kahf",
+        "Surah Taha",
+        "ISurah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "ISurah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Imbeko kaThixo",
+      "options": [
+        "Isikhululo esiphezulu esingafaniyo nezinye",
+        "Ulawulo phezu kweejin kunye nemimoya",
+        "Ubukumkani obunozuko olungenakuthelekiswa nanto",
+        "Indlalifa yokwaluphala kwam",
+        "Umnqophiso otywinwe noAllah"
+      ],
+      "answer": "Isikhululo esiphezulu esingafaniyo nezinye"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pêşkêşiya ku Çarenûs Guherand",
+  "intro": "Di rojên herî pêşîn ên mirovahiyê de, giyanek bi niyetên paqij diyariyek pêşkêş dikir. Lê belê, çavnebarî di bin siya qebûlkirinê de veşartî bû. Çîroka vê kesayetiyê kifş bikin ku xwedaparêzî û dawiya wî ya trajîk di wehya îlahî de nemir bûye.",
+  "clues": [
+    "Ez yek ji nifşên herî pêşîn ên mirovahiyê bûm.",
+    "Min qurbanek pêşkêşî Xudanê xwe kir, û ew bi kêfxweşî hat pêşwazîkirin.",
+    "Pêşkêşa birayê min hat redkirin, û çavnebariyê dilê wî tarî kir.",
+    "Min jê re got: 'Eger tu destê xwe dirêjî min bikî da ku min bikujî, ez destê xwe dirêj nakim da ku te bikujim; bi rastî ez ji Xwedayê ku Xwedayê aleman e, ditirsim.'",
+    "Ez bûm qurbanê yekem kiryara kuştinê li ser rûyê erdê.",
+    "Xwîna min qêriya, û ez şehîdê yekem ê bêgunehiyê bûm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Habîl (Habîl)",
+        "Qabîl (Qabîl)",
+        "Mirovê ji Ya-Sin",
+        "Samirî",
+        "Luqman"
+      ],
+      "answer": "Habîl (Habîl)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Pêşkêşa wî hat qebûlkirin, û ev yek bû sedema çavnebariya birayê wî û kuştina wî.",
+        "Ew avêtin nav agirê agirîn lê bê zirar derket",
+        "Wî di bin rêberiya Xwedê de keştiyek mezin ava kir",
+        "Masiyek mezin ew daqurtand û di tariyê de ma",
+        "Wî gelê xwe di nav deryayeke perçebûyî re bir"
+      ],
+      "answer": "Pêşkêşa wî hat qebûlkirin, û ev yek bû sedema çavnebariya birayê wî û kuştina wî."
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Pêşniyarek pejirandî",
+        "Darek ku dibe mar",
+        "Deve wek nîşanek xwedayî",
+        "Çapek nûçeyan tîne",
+        "Golikekî zêrîn dihat perestin"
+      ],
+      "answer": "Pêşniyarek pejirandî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Yekem kuştin di dîrokê de; birayê wî hate mehkûmkirin",
+        "Erd digel dewlemendiya xwe daqurtand",
+        "Ji ber gunehê veguherî meymûnan",
+        "Ji aliyê bayekî dijwar û qeşagirtî ve hatiye wêrankirin",
+        "Wek ceza di lehiyê mezin de xeniqîn"
+      ],
+      "answer": "Yekem kuştin di dîrokê de; birayê wî hate mehkûmkirin"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

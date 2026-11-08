@@ -1,0 +1,61 @@
+{
+  "title": "La Vera Voĉo de Antikvaj Tempoj",
+  "intro": "Ekzistas animo en la Korano, kies historio estas rakontita en nur kelkaj versoj, tamen ĝiaj noblaj kvalitoj brilas kun brila klareco. Laŭdata de la Plejpotenca pro speciala virto, ĉi tiu antikva servisto de la Plej Kompatema okupas lokon en la paĝoj de la revelacio. Via tasko estas identigi ĉi tiun rimarkindan figuron. Ĉu vi povas diveni, kiuj ili estas?",
+  "clues": [
+    "Mi estas profeto de Alaho, kiu vivis inter la fruaj generacioj de la homaro.",
+    "Alaho menciis min en Sia Libro kun aliaj profetoj, ĉiuj laŭdataj pro la sama nobla virto.",
+    "Mi estas priskribita kiel homo de vero en la Korano.",
+    "Alaho levis min al alta pozicio, kiun malmultaj aliaj atingis.",
+    "Mia nomo estas menciita en Surao Al-Anbiya, grupigita kun du aliaj profetoj laŭdataj pro ilia pacienco.",
+    "Mi estas Idriso, la verema kaj nobla profeto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Idris",
+        "Profeto Nuh",
+        "Profeto Ibrahim",
+        "Profeto Moseo",
+        "Profeto Ismael"
+      ],
+      "answer": "Profeto Idris"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Konservante paciencon kaj verecon, poste levita al alta stacio",
+        "Konstruante grandan arkeon por savi la kredantojn de detruiga diluvo",
+        "Esti ĵetita en flamantan fajron kaj eliri tute senvunda",
+        "Alfrontante potencan reĝon kaj venkante lian armeon de magiistoj",
+        "Supervivante en la ventro de granda fiŝo en la profundoj de la maro"
+      ],
+      "answer": "Konservante paciencon kaj verecon, poste levita al alta stacio"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Alta kaj ekzaltita pozicio de Alaho",
+        "Masiva ŝipo konstruita el lignotabuloj kaj kovrita per gudro",
+        "Furioza fajro instigita de la idolanoj de malbona reĝo",
+        "Vasta maro kiu dividiĝis en sekajn vojojn",
+        "La malhela ventro de granda baleno ĉe la fundo de la oceano"
+      ],
+      "answer": "Alta kaj ekzaltita pozicio de Alaho"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Akceptita en la kompaton de Alaho kiel unu el la justuloj",
+        "Savita kune kun ĉiuj kredantoj de tutmonda diluvo",
+        "Eliris el la flamoj netuŝita de la fajro",
+        "Kondukis la infanojn de Izrael sekure al libereco trans la maron",
+        "Reunuiĝintaj kun sia amata familio post longaj jaroj da malfacilaĵoj"
+      ],
+      "answer": "Akceptita en la kompaton de Alaho kiel unu el la justuloj"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

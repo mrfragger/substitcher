@@ -1,0 +1,61 @@
+{
+  "title": "Týnda borgin með óviðjafnanlega hátign",
+  "intro": "Voldug siðmenning réði einu sinni yfir víðáttumiklum svæðum jarðar, fræg fyrir turnháar byggingar sem náðu til himins. En undir þessari mikilfengleika óx þrjósk afneitun - neitun til að hlusta á guðdómlegan viðvarana sem sendur var innan frá samfélaginu sjálfu. Stolt og hroki myndu brátt leiða til refsingar sem hvorki jörðin né himinninn höfðu nokkurn tímann orðið vitni að.",
+  "clues": [
+    "Við réðum eitt sinn yfir víðáttumiklum jarðarsvæðum, státuðum af styrk sem við trúðum að engin önnur siðmenning gæti keppt við.",
+    "Ríki okkar var frægt fyrir turnháar byggingar með voldugum súlum sem stóðu óviðjafnanlegar í öllum þekktum löndum.",
+    "Viðvarari úr okkar eigin samfélagi reis upp og hvatti okkur öll til að lúta einum skapara.",
+    "Við höfnuðum þeim boðskap sem okkur var sendur og neituðum að yfirgefa þá leið sem við höfðum erft.",
+    "Æsihraður, öskrandi vindur af yfirþyrmandi hörku blés gegn okkur og skildi okkur eftir algerlega varnarlaus.",
+    "Við vorum eftir eins og holir pálmatrjástofnar, dreifðir og gleymdir, sem lexía fyrir hverja kynslóð á eftir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið í A'ad",
+        "Fólkið í Nuh",
+        "Fólkið í Lút",
+        "Fólkið í Madyan",
+        "Fólkið í Tubba'"
+      ],
+      "answer": "Fólkið í A'ad"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Óþreytandi ofsafenginn vindur harðra refsinga",
+        "Flóð sem huldi hvern fjallstind",
+        "Regn af brennandi leirsteinum að ofan",
+        "Eitt hræðilegt óp af himnum",
+        "Öflugur jarðskjálfti sem klofnaði landið"
+      ],
+      "answer": "Óþreytandi ofsafenginn vindur harðra refsinga"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Íram, borg hinna háu súlna",
+        "Risavaxin örk úr timbri byggð á fjalli",
+        "Úlfaldakvenna sem reis á undraverðan hátt upp úr steini",
+        "Sínaífjall þar sem guðleg boðorð komu niður",
+        "Höll úr kristal og fínu gleri með útsýni yfir rennandi vatn"
+      ],
+      "answer": "Íram, borg hinna háu súlna"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Eftir eins og holir pálmatrjástofnar, dreifðir og líflausir",
+        "Drukknaði undan yfirþyrmandi öldum mikils flóðs",
+        "Umbreyttust í verur sem líkjast öpum og svínum",
+        "Mulinn undir regni af hörðum leirsteinum",
+        "Gleypt af einu deyfandi ópi sem skarst í gegnum sálina"
+      ],
+      "answer": "Eftir eins og holir pálmatrjástofnar, dreifðir og líflausir"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

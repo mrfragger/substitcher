@@ -1,0 +1,61 @@
+{
+  "title": "Etsai Sutsua",
+  "intro": "Errebelazioaren lehen egunetan, egiaren aurkari temati gisa agertu zen figura bat. Aberastasunaz eta estatus sozialaz bedeinkatua, arima honek harrotasuna aukeratu zuen gidaritza baino, eta haien istorioa sura baten azken bertsoetan abisu zorrotz bihurtu zen.",
+  "clues": [
+    "Profetaren hiri berean bizi nintzen, eta haren senide hurbilenen artean nengoen, baina nire harrotasunak egiatik urrun mantendu ninduen.",
+    "Aberastasun handia eta ondasun ugari nituen, eta uste nuen nire baliabideek beti babestuko nindutela.",
+    "Mezua agerian geratu zenean, agerian iseka egin nion eta alde egin nuen, sinestunen gainetik neure burua kontsideratuz.",
+    "Nire etsaitasuna hain zen ezaguna, ezen Koraneko sura batek zuzenean zuzendu baitzidan, besteek ezagutzen ninduten izenarekin deituz.",
+    "Ohartarazi zidaten nire aberastasunak eta irabaziek ez zidatela balioko, eta su bizian botako nindutela.",
+    "Sugarraren aita bezala ezagutzen naute, eta nire emazteak egurra eramango du lepoan palma-zuntzezko soka batekin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Islama ukatu eta Profetaren aurka agertu zen irekiki",
+        "Profeta hiltzeko konspiratu zuten",
+        "Musulmanen aurkako boikot soziala egin zuen",
+        "Badr-eko guduan borrokatu zen",
+        "Bilal ibn Rabah torturatua"
+      ],
+      "answer": "Islama ukatu eta Profetaren aurka agertu zen irekiki"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Palma-zuntzezko soka bat",
+        "Ezpata zorrotz bat.",
+        "Kate astun bat.",
+        "Egurrezko makila bat.",
+        "Larruzko zartagin bat"
+      ],
+      "answer": "Palma-zuntzezko soka bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Su bizian erreko da",
+        "Damutu eta lagun bihurtu zen",
+        "Bere aberastasuna galdu zuen, baina ohorez hil zen",
+        "Abisiniara ihes egin zuen",
+        "Itsasoan itota."
+      ],
+      "answer": "Su bizian erreko da"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

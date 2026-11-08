@@ -1,0 +1,61 @@
+{
+  "title": "Varlığa Danışılmış",
+  "intro": "Müqəddəs tarixdən təbii nizama zidd olan möcüzələr daşıyan bir fiqur ortaya çıxır. Bu ruh tək bir ilahi əmrlə gəldi, valideynlərini ağır ittihamlardan qorudu və dünyəvi zəncirlər onları bağlamağa macal tapmamış bu dünyanı tərk etdi. Hekayə təvazökar bir beşikdən yuxarıdakı göylərə qədər uzanır. Bu kim ola bilər?",
+  "clues": [
+    "Mən Allah tərəfindən İsrail oğullarına bir möcüzə və mərhəmət olaraq göndərildim.",
+    "Mənim gəlişimi əvvəlkindən fərqli idi — mən dünyəvi ata olmadan ilahi “Ol!” sözü ilə yarandım.",
+    "Valideynlərim qəddar böhtanlarla üzləşdilər, lakin müqəddəs vəhy onların günahsızlığını elan etmək və mövqelərini yüksəltmək üçün nazil oldu.",
+    "Yeni doğulmuş körpə kimi, valideynlərimin adını ləkələmək üçün beşikdən aydın danışaraq ətrafımdakıları heyrətləndirdim.",
+    "Allahın izni ilə cansız palçıqdan həyat yaratdım, korlara göz açdırdım və toxunuşumla cüzamlıya şəfa verdim.",
+    "Mənə bir bəla toxunmazdan əvvəl göylərə qaldırıldım və qiyamət saatı gəlməzdən əvvəl bu dünyaya qayıdacağam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İsa peyğəmbər",
+        "Musa peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Yusif peyğəmbər",
+        "Davud peyğəmbər"
+      ],
+      "answer": "İsa peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Körpəlikdən beşikdən danışmaq",
+        "Böyük bir balığın qarnında sağ qalmaq",
+        "Alovlu bir oda atılmaq",
+        "Daşqından əvvəl böyük bir gəmi tikmək",
+        "Firon sarayının sehrbazlığı ilə üzləşmək"
+      ],
+      "answer": "Körpəlikdən beşikdən danışmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "İncil (Müjdə)",
+        "Tövrat (Tövrat)",
+        "Zəbur (Zəbur)",
+        "Suhuf (İbrahimin tumarları)",
+        "Dənizi iki yerə bölən bir əsa"
+      ],
+      "answer": "İncil (Müjdə)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Göylərə qaldırılacaq, Qiyamət günündən əvvəl geri dönəcək",
+        "İsrail oğullarını Misirdən çıxardı",
+        "Cinlər, insanlar və quşlar üzərində hökmranlıq edən bir padşah oldu",
+        "Möminlərlə birlikdə böyük bir daşqından sağ çıxdı",
+        "Məkkədə müqəddəs ev tikdi"
+      ],
+      "answer": "Göylərə qaldırılacaq, Qiyamət günündən əvvəl geri dönəcək"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

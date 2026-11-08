@@ -1,0 +1,61 @@
+{
+  "title": "La nación que desafió el orden natural",
+  "intro": "En una región cuya historia resuena a través de los siglos, una comunidad vivió en abierta rebeldía contra las leyes de la pureza. Sus actos fueron tan insólitos que se recuerdan como una advertencia para toda la humanidad. ¿Quiénes eran estas almas y qué destino les deparó?",
+  "clues": [
+    "Habitábamos una tierra situada junto a una ruta que los viajeros solían recorrer, pero hacíamos que su viaje fuera peligroso.",
+    "Cometimos actos de indecencia que nadie en el mundo había cometido jamás antes.",
+    "Un mensajero de entre nosotros nos exhortó a abandonar nuestras costumbres, pero lo rechazamos y exigimos el castigo si decía la verdad.",
+    "Cuando llegaban a nuestra ciudad huéspedes apuestos, intentábamos atacarlos, sin saber que eran mensajeros de destrucción.",
+    "Se nos advirtió de un castigo terrible si no desistíamos, pero nos burlamos de la advertencia y persistimos en nuestro pecado.",
+    "Una lluvia de piedras cayó del cielo sobre nosotros, y nuestras casas fueron derribadas, sin dejar rastro alguno, salvo una señal para aquellos que reflexionan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Pueblo de Lut",
+        "Gente de Thamud",
+        "Gente de A'ad",
+        "Pueblo de Madyan",
+        "Gente de Saba"
+      ],
+      "answer": "Pueblo de Lut"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Cometieron actos de inmoralidad sin precedentes y obstruyeron las carreteras.",
+        "Adoraban un becerro de oro.",
+        "Mataron a la camella sagrada.",
+        "Engañaron en el comercio y estafaron a la gente.",
+        "Construyó una imponente torre para desafiar a los cielos."
+      ],
+      "answer": "Cometieron actos de inmoralidad sin precedentes y obstruyeron las carreteras."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Ángeles disfrazados de apuestos invitados",
+        "Una camella emergiendo de una roca.",
+        "Un bastón que se transforma en serpiente",
+        "Un barco construido en una montaña",
+        "Un fuego que se volvió fresco y pacífico."
+      ],
+      "answer": "Ángeles disfrazados de apuestos invitados"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruido por una lluvia de piedras del cielo",
+        "Engullido por la tierra",
+        "Ahogado en una gran inundación",
+        "Golpeado por una explosión ensordecedora",
+        "Transformados en simios"
+      ],
+      "answer": "Destruido por una lluvia de piedras del cielo"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

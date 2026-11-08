@@ -1,0 +1,61 @@
+{
+  "title": "Cộng đồng bất chấp ngày nghỉ lễ",
+  "intro": "Bước vào một khu định cư ven biển, nơi một mệnh lệnh thiêng liêng đã dành riêng một ngày để thờ phượng và kiềm chế. Một nhóm người trong cộng đồng này đã chọn cách thử thách giới hạn của mệnh lệnh đó bằng một kế hoạch xảo quyệt, dẫn đến một sự biến đổi vang vọng qua nhiều thế kỷ. Những người này là ai, và điều gì đã xảy ra với họ?",
+  "clues": [
+    "Chúng tôi sống gần bờ biển, nơi biển cả là nguồn sinh kế của chúng tôi.",
+    "Chúng ta được lệnh phải tôn kính một ngày trong tuần, dành riêng ngày đó cho những việc trần tục.",
+    "Ngày hôm đó, cá kéo đến với chúng tôi rất nhiều, như thể đang cám dỗ chúng tôi phá vỡ điều răn.",
+    "Chúng tôi đã lên kế hoạch bẫy cá vào đêm trước ngày lễ thiêng liêng, rồi thu gom chúng sau khi ngày đó qua đi.",
+    "Khi một số người trong chúng ta cảnh báo về sự lừa dối này, chúng ta đã phớt lờ lời khuyên của họ và tiếp tục làm như vậy.",
+    "Vì tội lỗi của chúng ta, chúng ta đã bị biến thành loài vượn, bị khinh miệt và ruồng bỏ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Dân tộc của ngày Sa-bát",
+        "Người dân sống bên mương",
+        "Người dân rừng",
+        "Những người dân của khu vườn",
+        "Người dân của Voi"
+      ],
+      "answer": "Dân tộc của ngày Sa-bát"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Câu cá vào ngày Sa-bát",
+        "Xây dựng một tòa tháp cao",
+        "Giết một con lạc đà cái thiêng liêng",
+        "Chối bỏ một vị tiên tri được phái đến với họ.",
+        "Vi phạm quy định về trọng lượng thương mại"
+      ],
+      "answer": "Câu cá vào ngày Sa-bát"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Biển cả và những loài cá trong đó",
+        "Ngọn lửa đã nguội",
+        "Cây gậy biến thành con rắn",
+        "Con tàu cứu rỗi",
+        "Những tấm bia đá"
+      ],
+      "answer": "Biển cả và những loài cá trong đó"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Biến thành vượn",
+        "Bị đất nuốt chửng",
+        "Bị phá hủy bởi một cơn gió dữ dội",
+        "Chết đuối trên biển",
+        "Bị trúng một trận mưa đá"
+      ],
+      "answer": "Biến thành vượn"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

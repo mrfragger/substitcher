@@ -1,0 +1,61 @@
+{
+  "title": "O Espírito Confiável da Revelação",
+  "intro": "Nos reinos invisíveis, um ser de pura luz move-se com precisão, executando cada comando sem hesitação. Essa figura falou com servos escolhidos, trouxe palavras de orientação e testemunhou o desenrolar de decretos divinos ao longo dos tempos. Quem é essa alma honrada?",
+  "clues": [
+    "Sou um ser de pura luz, criado a partir da luz, e jamais desobedeci a uma única ordem do meu Senhor.",
+    "Eu transito entre os céus e a terra, descendo com os decretos do Misericordioso.",
+    "Fui enviado a uma virgem nobre no santuário, anunciando-lhe um filho puro.",
+    "Eu sou o espírito da santidade e apoiei um profeta que recebeu sinais claros e o Evangelho.",
+    "Cheguei a uma caverna na montanha para proferir as primeiras palavras de uma recitação que seria preservada para sempre.",
+    "Eu sou o espírito confiável, e fui Eu quem trouxe o Alcorão ao coração do último mensageiro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "O Anjo da Morte",
+        "Malik (Guardião do Inferno)",
+        "Harut (um dos dois anjos da Babilônia)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Missão/Função Principal",
+      "options": [
+        "Entregar a revelação aos profetas",
+        "Tocar a trombeta no Dia do Juízo Final",
+        "Guardando os portões do Inferno",
+        "Registrando os feitos dos humanos",
+        "Fazendo com que a chuva caia."
+      ],
+      "answer": "Entregar a revelação aos profetas"
+    },
+    "location": {
+      "label": "Atributo ou título principal",
+      "options": [
+        "O Espírito Santo (Ruh al-Qudus)",
+        "O Espírito do Poder",
+        "O Espírito de Misericórdia",
+        "O Espírito de Orientação",
+        "O Espírito da Verdade"
+      ],
+      "answer": "O Espírito Santo (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Resultado da Missão",
+      "options": [
+        "O Alcorão foi revelado ao Profeta Maomé.",
+        "A trombeta foi tocada no Dia do Juízo Final.",
+        "O inferno era guardado e seus portões estavam fechados.",
+        "O Livro das Obras foi apresentado a Alá.",
+        "A chuva foi enviada para a terra."
+      ],
+      "answer": "O Alcorão foi revelado ao Profeta Maomé."
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

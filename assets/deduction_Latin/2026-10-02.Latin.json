@@ -1,0 +1,61 @@
+{
+  "title": "Dominus Qui Fines Terrae Peragravit",
+  "intro": "Finge tibi principem potentem, viribus et auctoritate in terram praeditum. Hic vir itinera extraordinaria suscepit, ad locum ubi sol occidit et ad locum ubi ortur perveniens, gentibus ignotis occurrens et magnam provocationem a duabus nationibus corruptis subiens. Quis est hic dux enigmaticus?",
+  "clues": [
+    "Princeps eram, cui auctoritate et facultate praeditus sum ad ultimos terrae angulos pervenire.",
+    "Ad occidentem iter feci et solem in nubilo vere occidentem vidi.",
+    "Populum prope solem orientem offendi, qui nullum ab eius aestu perfugium habebat.",
+    "Alia communitas auxilium meum rogavit contra duas gentes corruptas, quae Gog et Magog appellantur.",
+    "Vallum ferro et aere liquefacto construxi ad eos continendos.",
+    "Declaravi hoc impedimentum misericordiam Domini mei esse, et mansurum usque ad tempus constitutum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Propheta Sulaiman",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Aedificantes munimentum contra Gog et Magog",
+        "Superstes diluvii magni",
+        "In ignem coniectus",
+        "Trans mare",
+        "Pugnans contra gigantem"
+      ],
+      "answer": "Aedificantes munimentum contra Gog et Magog"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Obiex ferri et aeris",
+        "Baculus qui in serpentem factus est",
+        "Navis lignea",
+        "Palatium vitreum",
+        "Hortus palmarum dactylorum"
+      ],
+      "answer": "Obiex ferri et aeris"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Gog et Magog contenti sunt usque ad tempus constitutum",
+        "Propheta factus est",
+        "Propter arrogantiam poena affectus est",
+        "Orbem terrarum totum vicit",
+        "In aeternum vixit"
+      ],
+      "answer": "Gog et Magog contenti sunt usque ad tempus constitutum"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

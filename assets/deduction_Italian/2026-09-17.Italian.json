@@ -1,0 +1,61 @@
+{
+  "title": "All'ombra della palma da datteri",
+  "intro": "Si dipana la storia di un'anima consacrata prima della nascita, nutrita tra mura sacre e scelta per portare un segno che il mondo non aveva mai visto. Quando le accuse si levarono da ogni parte, una voce proveniente dal luogo più improbabile mise a tacere ogni dubbio. Riuscirai a scoprire chi camminava all'ombra della palma da datteri?",
+  "clues": [
+    "Prima ancora di esalare il mio primo respiro, ero già consacrato al servizio dell'Onnipotente, un voto fatto da Colui che mi ha portato in grembo.",
+    "Sono cresciuto sotto la vigile protezione di un retto tutore all'interno delle sacre stanze di un luogo di culto.",
+    "Ogni volta che il mio tutore entrava nella mia stanza, trovava con me provviste risalenti a stagioni che non avrebbero dovuto esserci.",
+    "Mi era stata annunciata la lieta notizia della nascita di un figlio, sebbene le mie circostanze non lasciassero spazio a quanto promesso.",
+    "Mi ritirai in un luogo appartato, dove una palma da datteri mi offrì ombra mentre un ruscello scorreva ai miei piedi.",
+    "Quando sono arrivate le accuse e sono stata sommersa dalle domande, ho indicato il mio bambino appena nato, ed egli ha parlato dalla culla per mettere a tacere ogni dubbio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Mariam",
+        "Sara",
+        "Hawwa",
+        "Umm Musa",
+        "La moglie di Nuh"
+      ],
+      "answer": "Mariam"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Dare alla luce un figlio miracoloso in isolamento",
+        "Essere gettati in un fuoco ardente dagli idolatri",
+        "Sopravvivere al grande diluvio con pochi eletti",
+        "Essere separati da un neonato gettato nel fiume",
+        "Affrontare il potente sovrano d'Egitto"
+      ],
+      "answer": "Dare alla luce un figlio miracoloso in isolamento"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una palma da datteri e un ruscello che scorre ai suoi piedi.",
+        "Una possente arca sulle onde imponenti",
+        "Un bastone che divise in due un grande mare",
+        "Un fuoco ardente destinato a consumare un'anima fedele",
+        "Un trono d'oro ornato di pietre preziose"
+      ],
+      "answer": "Una palma da datteri e un ruscello che scorre ai suoi piedi."
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Onorata come la più esaltata di tutte le donne",
+        "Riunito con l'amato figlio dopo una lunga separazione",
+        "Ha liberato un'intera nazione dalla schiavitù di un tiranno.",
+        "Avvertì un popolo perduto nell'immoralità",
+        "Gli fu concesso il dominio sui jinn, sull'umanità e sui venti."
+      ],
+      "answer": "Onorata come la più esaltata di tutte le donne"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

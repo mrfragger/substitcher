@@ -1,0 +1,61 @@
+{
+  "title": "D'Stëmm aus dem brennende Busch",
+  "intro": "Entdeckt d'Identitéit vun enger bedeitender Figur, där hir Rees mat enger wonnerbarer Begegnung ugefaangen huet a där hiert Schicksal mat der Befreiung vun engem ënnerdréckte Vollek verbonnen war. Dës Persoun gouf fir eng monumental Aufgab ausgewielt, wou si mat göttlecher Ënnerstëtzung immens Erausfuerderunge gestallt huet.",
+  "clues": [
+    "Ech sinn an enger Zäit vu grousser Ënnerdréckung gebuer, wou Puppelcher vu mengem Vollek ëmbruecht goufen.",
+    "Meng fréi Liewen huet bedeit, datt meng Elteren mech an e Floss gesat hunn, awer ech gouf am Stot vum Ënnerdrécker vu mengem Vollek fonnt an opgewuess.",
+    "Ech sinn emol aus enger Stad geflücht, nodeems ech ongewollt den Doud vun enger Persoun während engem Sträit verursaacht hat.",
+    "Ech krut eng göttlech Botschaft an e wonnerbare Staff op enger helleger Plaz, wou ech den Uerder krut, mech mat engem mächtege Herrscher ze konfrontéieren.",
+    "Mäi Brudder gouf als Helfer fir mech bei menger Missioun ernannt, wéinst enger vermeintlecher Behënnerung a menger Ried.",
+    "Ech hunn mäi Vollek iwwer e gespléckt Mier gefouert, fir der Verfollegung vun enger tyrannescher Arméi ze flüchten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Yusuf",
+        "Prophet Isa",
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Ibrahim"
+      ],
+      "answer": "Prophet Musa"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Dauerhaft Joer vun Dréchent",
+        "D'Ark bauen",
+        "Konfrontatioun mam Pharao a senge Zauberer",
+        "An e feierlechen Uewen gehäit ginn",
+        "D'Zerstéierung vum Vollek vun Thamud"
+      ],
+      "answer": "Konfrontatioun mam Pharao a senge Zauberer"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Kaaba",
+        "D'Eisenmauer",
+        "D'Personal",
+        "D'Schëff vum Nuh",
+        "De Rank vum Sulaiman"
+      ],
+      "answer": "D'Personal"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Stad Sodom gouf zerstéiert",
+        "D'Leit goufe vun der Äerd verschléckt",
+        "Déi grouss Iwwerschwemmung huet d'Land iwwerschwemmt",
+        "De Pharao a seng Arméi sinn erdronk",
+        "D'Stadmaueren sinn duerch e Gejäiz zesummegebrach"
+      ],
+      "answer": "De Pharao a seng Arméi sinn erdronk"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

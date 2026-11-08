@@ -1,0 +1,61 @@
+{
+  "title": "Sufletul veghetor de pe malul râului",
+  "intro": "Unui tânăr suflet i s-a încredințat o misiune secretă, aceea de a observa de la o distanță sigură cum destinul se desfășura pe ape. Nevăzută și nebănuită, această figură avea să joace un rol esențial în schimbarea cursului istoriei unei națiuni.",
+  "clues": [
+    "Mama mi-a dat o sarcină, una care necesita furt și vigilență.",
+    "Ochii mei au urmărit un mic leagăn plutind în aer, cu inima grea de îngrijorare.",
+    "Când a fost găsit de cineva neașteptat, m-am apropiat, plin de trepidație.",
+    "Am văzut disperarea lor pentru un îngrijitor și le-am oferit o soluție fără să dezvălui adevărul.",
+    "Intervenția mea la momentul potrivit a adus un suflet îngrijitor înapoi la cel care avea cea mai mare nevoie de el.",
+    "În curțile celor puternici, am vorbit: „Să te îndrum către o familie care să-l hrănească și să aibă grijă de el?”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Sora lui Musa",
+        "Mama lui Musa",
+        "Soția faraonului",
+        "O moașă",
+        "Fiica lui Șu'aib"
+      ],
+      "answer": "Sora lui Musa"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Aruncarea unui copil în râu",
+        "Despărțirea mării",
+        "Arderea vițelului",
+        "Construirea arca",
+        "Infestarea lăcustelor"
+      ],
+      "answer": "Aruncarea unui copil în râu"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Râul",
+        "Deșertul",
+        "Muntele",
+        "Palatul",
+        "Focul"
+      ],
+      "answer": "Râul"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Ea l-a reunit pe copil cu mama sa",
+        "Ea s-a salvat de soldații faraonului",
+        "Ea a devenit regină",
+        "A fost pedepsită pentru spionaj",
+        "Ea i-a condus pe israeliți"
+      ],
+      "answer": "Ea l-a reunit pe copil cu mama sa"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

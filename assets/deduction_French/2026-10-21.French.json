@@ -1,0 +1,61 @@
+{
+  "title": "Le messager qui a affronté les idolâtres",
+  "intro": "À une époque où la dévotion s'était égarée, un messager s'éleva, appelant à revenir au culte du Seigneur des mondes. Cette figure se dressa fermement contre un peuple enraciné dans le culte d'une fausse divinité, leur rappelant leur véritable Créateur et le Seigneur de leurs ancêtres. Pourtant, le peuple demeura insensible et rejeta l'avertissement, scellant ainsi son propre destin. Qui était cet appel inébranlable ?",
+  "clues": [
+    "J'ai été envoyé vers un peuple qui s'était détourné du chemin du Seul Vrai Dieu.",
+    "J'ai demandé à mon peuple : « N'aurez-vous pas peur d'Allah ? »",
+    "Je les ai appelés à abandonner leur culte d'une fausse divinité nommée Baal.",
+    "Mon peuple a rejeté mon appel et a persisté dans son idolâtrie.",
+    "Du fait de leur déni, ils seront assurément traduits en justice pour être punis.",
+    "Mon Seigneur m'a accordé la paix et un souvenir béni parmi les générations futures."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ilyas",
+        "Prophète Yahya",
+        "Prophète Dhul-Kifl",
+        "Prophète Yusuf",
+        "Prophète Shu'ayb"
+      ],
+      "answer": "Le prophète Ilyas"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il appela son peuple à abandonner Baal",
+        "Il a construit une arche pour sauver les croyants",
+        "A été jeté dans un feu",
+        "Il s'est enfui du tyran Pharaon",
+        "J'ai frappé une pierre pour faire jaillir l'eau."
+      ],
+      "answer": "Il appela son peuple à abandonner Baal"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Que la paix et un souvenir béni soient accordés",
+        "Englouti par la terre",
+        "Détruit par une violente tempête",
+        "Transformé en pierre",
+        "Noyé dans la mer"
+      ],
+      "answer": "Que la paix et un souvenir béni soient accordés"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

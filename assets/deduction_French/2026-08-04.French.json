@@ -1,0 +1,61 @@
+{
+  "title": "L'écho à travers les falaises",
+  "intro": "Imaginez une vallée où les habitations sont taillées à même la falaise, et où l'air porte le souvenir d'un avertissement resté lettre morte. Jadis, un peuple y prospérait, béni et pourtant rebelle, jusqu'à ce qu'un signe surgisse de la roche même en laquelle il avait confiance.",
+  "clues": [
+    "Nous étions un peuple qui creusait des demeures sûres dans les montagnes, nous sentant en sécurité dans nos habitations rocheuses.",
+    "Nous vivions dans un pays de plaines et de pierres, béni par des jardins et des sources.",
+    "Un messager issu de notre peuple est venu, nous appelant à abandonner nos faux dieux et à adorer le seul et véritable Créateur.",
+    "Nous avons, avec arrogance, posé une condition à la croyance : un signe unique qui émergerait des roches mêmes que nous avions sculptées.",
+    "Lorsque la chamelle promise apparut du rocher, signe évident, notre élite refusa encore et la mutila malgré l'avertissement d'un désastre imminent.",
+    "Trois jours après notre acte, une détonation tonitruante a retenti dans la vallée, et nous avons été réduits à un amas de décombres, nos maisons à nos tombes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les habitants de ¿Ad",
+        "Le peuple de Thamud",
+        "Le peuple de Madyan",
+        "Les gens du bosquet",
+        "Le peuple de la caverne"
+      ],
+      "answer": "Le peuple de Thamud"
+    },
+    "trial": {
+      "label": "Notre essai/événement principal",
+      "options": [
+        "L'amputation de la chamelle d'Allah",
+        "Le culte du veau d'or",
+        "La violation du sabbat",
+        "La construction d'une tour vers le ciel",
+        "Le massacre des prophètes"
+      ],
+      "answer": "L'amputation de la chamelle d'Allah"
+    },
+    "location": {
+      "label": "Élément clé de notre histoire",
+      "options": [
+        "La chamelle d'Allah",
+        "Le personnel de Musa",
+        "L'arche de Noé",
+        "La main blanche de Moïse",
+        "L'oiseau d'Isa"
+      ],
+      "answer": "La chamelle d'Allah"
+    },
+    "outcome": {
+      "label": "Notre résultat",
+      "options": [
+        "Destruction par une explosion assourdissante",
+        "Une pluie de pierres du ciel",
+        "Un déluge qui a recouvert la terre",
+        "Un vent violent qui nous a déracinés",
+        "La terre nous engloutit"
+      ],
+      "answer": "Destruction par une explosion assourdissante"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

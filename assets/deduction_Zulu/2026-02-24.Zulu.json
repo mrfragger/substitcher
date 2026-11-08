@@ -1,0 +1,61 @@
+{
+  "title": "Ukuphindaphinda Kwenkohliso",
+  "intro": "Isibopho sobuhlobo savivinywa ngokukhukhumala komona. Kwaqalwa icebo eliyimfihlo, laqala uchungechunge lwezehlakalo ezazizothatha iminyaka futhi zidlule amabanga amade. Izenzo zaleli qembu zaholela ekuhlukaneni okukhulu nasekudabukeni, kodwa indaba ayizange iphele lapho. Yindaba yokukhohlisa, ukuzisola, kanye nokwembuleka kokugcina kwecebo laphezulu. Ungakwazi yini ukuhlukanisa ukuthi bangobani laba bantu abakhetha izinto ezifanayo ezizukulwaneni ngezizukulwane?",
+  "clues": [
+    "Sasigcwele umona ngenxa yothando oluboniswa komunye wethu.",
+    "Ngenxa yomona wethu, sakha uzungu ndawonye futhi saphonsa umfowethu ebumnyameni bomthombo.",
+    "Ukuze sifihle isenzo sethu, sanikeza ubaba ingubo, egcotshwe igazi mbumbulu.",
+    "Eminyakeni eminingi kamuva, indlala enkulu yasiphoqa ukuba siye eGibhithe siyofuna ukudla.",
+    "Lapho, seza phambi kombusi onamandla, thina esingamazi, owayeyiso kanye isizukulwane sakithi esasimonile.",
+    "Isivivinyo sethu sokugcina kwakuwukuletha umfowethu omncane, uBinyamin, okwaholela ekwambulweni kwesikhathi sethu esidlule kanye nobaba wethu enguMprofethi uYa'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani thina?",
+      "options": [
+        "Amadodana ka-Adamu (uQabil noHabil)",
+        "Abafundi bomprofethi u-Isa",
+        "Abafowabo Bomprofethi uYusuf",
+        "Abantu baseMadyan",
+        "Izazi zikaFirawn"
+      ],
+      "answer": "Abafowabo Bomprofethi uYusuf"
+    },
+    "trial": {
+      "label": "Yisiphi isenzo sethu esiyinhloko?",
+      "options": [
+        "Ukwakha ithole legolide lokukhulekelwa",
+        "Ukufuna ukubona u-Allah ngqo",
+        "Ukuhlekisa ngomprofethi ngokwakha umkhumbi",
+        "Ukukhohlisa ubaba wethu nokulahla umfowethu",
+        "Ukwephula iSabatha ngokudoba"
+      ],
+      "answer": "Ukukhohlisa ubaba wethu nokulahla umfowethu"
+    },
+    "location": {
+      "label": "Yisiphi isici esasibalulekile ekukhohlisweni kwethu?",
+      "options": [
+        "Isethi yamathebulethi aqoshiwe",
+        "Ihembe eligcwele igazi mbumbulu",
+        "Ithole legolide",
+        "Inyoni enhle (i-Hoopoe)",
+        "Induku eyaphenduka inyoka"
+      ],
+      "answer": "Ihembe eligcwele igazi mbumbulu"
+    },
+    "outcome": {
+      "label": "Waba yini umphumela wokugcina wendaba yethu?",
+      "options": [
+        "Sabhujiswa uzamcolo omkhulu",
+        "Saphendulwa saba yizinkawu",
+        "Sagwinywa umhlaba",
+        "Sathethelelwa futhi sahlangana kabusha nomndeni wethu",
+        "Saminza olwandle"
+      ],
+      "answer": "Sathethelelwa futhi sahlangana kabusha nomndeni wethu"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

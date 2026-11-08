@@ -1,0 +1,61 @@
+{
+  "title": "Augsti godātais Allāha kalps",
+  "intro": "Jūs dzirdat čukstus par senatnes personību, Allāha kalpu, kurš tika pacelts virs parastā. Šis cilvēks bija pazīstams ar nelokāmu pacietību un absolūtu patiesumu un tika sūtīts pie cilvēkiem, kuri novērsās no vēsts. Kas ir šī cildenā dvēsele?",
+  "clues": [
+    "Mani par pravieti izvēlējās Allāhs, un esmu pieminēts Svētajā Korānā.",
+    "Es biju pazīstams ar savu pacietību un patiesumu – īpašībām, kuras slavē Allāhs.",
+    "Es aicināju savus ļaudis pielūgt Vienīgo Dievu, bet daudzi mani noraidīja.",
+    "Allāhs paaugstināja manu stāvokli, un man tika piešķirts augsts rangs.",
+    "Mani bieži piemin līdzās citiem praviešiem, piemēram, Ismaīlu un Dhul-Kiflu.",
+    "Allāhs par mani saka: “Un Mēs viņu pacēlām augstā amatā.” (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Idriss",
+        "Pravietis Elija",
+        "Pravietis Dhu al-Kifls",
+        "Pravietis Al-Jasa",
+        "Pravietis Huds"
+      ],
+      "answer": "Pravietis Idriss"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Aicināja cilvēkus pielūgt Allāhu",
+        "Uzcēla šķirstu",
+        "Cīnījās pret faraonu",
+        "Tika pārbaudīts ar smagu slimību",
+        "Tika iemests ugunī"
+      ],
+      "answer": "Aicināja cilvēkus pielūgt Allāhu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Augsts rangs/augsts amats",
+        "Šķirsts",
+        "Personāls",
+        "Ugunsgrēks",
+        "Aka"
+      ],
+      "answer": "Augsts rangs/augsts amats"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Pacelts augstā statusā",
+        "Noslīcis plūdos",
+        "Valis norīts",
+        "Izglābts no uguns",
+        "Kļuva par karali"
+      ],
+      "answer": "Pacelts augstā statusā"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

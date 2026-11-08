@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaiwhakapono i Oati",
+  "intro": "I haereere tētahi poropiti whakaute i waenganui i te iwi, e karanga ana i a rātou ki te pono. He tokomaha i tahuri ke atu i runga i te pakeketanga, engari i whakautua e tētahi porowhita iti i whakatapua te karanga, ā, i oati rātou ki a rātou anō me te ngākau pono. I whakamatautauria rātou e ngā ruarua, ā, i maia ki te rapu i te oranga o te rangi. Ko tō rātou ngākau pono pumau i waiho hei akoranga whakapono pumau. Ko wai rātou?",
+  "clues": [
+    "He rōpū iti mātou i whakatika ake ki te tautoko i tētahi misioni atua i tēnei wā e horapa haere ana te whakaponokore.",
+    "I haere mai tētahi poropiti whakaute, ā, i karanga mai kia tū mātou hei hoa tautoko i te ara o Allah.",
+    "I te pātaitanga a te poropiti ko wai hei tautoko i te Atua, ka whakautu mātou me te kore whakaroa.",
+    "I maia mātou ki te tono i tētahi hakari whakamiharo kia tukuna iho i te rangi hei whakakaha i ō mātou ngākau.",
+    "I whakamahara mai tō mātou poropiti kia wehi ki a Allah mēnā he hunga whakapono pono mātou, heoi i whakamanahia tā mātou tono whakaiti.",
+    "Ko mātou te porowhita o roto i te hunga pono i oati i te whakapono pumau i te taha o Iēha, te tama a Meriama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Hawariyyun (Nga akonga a Isa)",
+        "Te Iwi o te Ana (Ashab al-Kahf)",
+        "Te Iwi o Madyan",
+        "Te Iwi o Thamud",
+        "Ngā Hoa o Taluta (Haora)"
+      ],
+      "answer": "Te Hawariyyun (Nga akonga a Isa)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tono kia tautoko i te kaupapa a Allah",
+        "Te mātakitaki i te tautohetohe a te rangatira me te poropiti",
+        "Te whakahaunga kia whakaorangia he kamera uha whakamiharo",
+        "Te rere ki roto i te ana hei mawhiti i te whakatoi",
+        "Te whiti i te awa hei whakamātautau i te ngohengohe"
+      ],
+      "answer": "Te tono kia tautoko i te kaupapa a Allah"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He tēpu kua horahia mai i te rangi (Mawlidah)",
+        "Te Āaka nui i runga i ngā wai waipuke",
+        "He kamera uwha i puta mai i te toka",
+        "He tokotoko i huri hei nakahi",
+        "He whare rangatira e anga atu ana ki te rangi"
+      ],
+      "answer": "He tēpu kua horahia mai i te rangi (Mawlidah)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I riro mātou hei hunga whakapono pumau, toa hoki",
+        "I whakangaromia tātou e te whiu mai i runga",
+        "I toremi mātou i roto i te waipuke nui",
+        "I moe mātou i roto i tētahi ana mō ngā rau tau",
+        "I āraia mātou i te tomo ki te whenua tapu"
+      ],
+      "answer": "I riro mātou hei hunga whakapono pumau, toa hoki"
+    }
+  },
+  "verseRef": "61:14",
+  "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+  "verse": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant. (61:14)"
+}

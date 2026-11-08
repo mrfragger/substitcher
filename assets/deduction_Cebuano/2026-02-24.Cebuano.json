@@ -1,0 +1,61 @@
+{
+  "title": "Ang Echo sa Paglimbong",
+  "intro": "Usa ka bugkos sa pagka-pamilya ang nasulayan sa usa ka pag-usbaw sa kasina. Usa ka sekreto nga plano ang namugna, nga nagsugod sa usa ka kadena sa mga panghitabo nga molungtad og mga katuigan ug motabok sa lagyong mga distansya. Ang mga aksyon niining grupoha misangpot sa dakong panagbulag ug kasubo, apan ang istorya wala matapos didto. Kini usa ka sugilanon sa limbong, pagmahay, ug ang katapusang pagpadayag sa usa ka balaan nga plano. Mahimo ba nimo nga mahibal-an ang pagkatawo niining mga indibidwal kansang mga pagpili naglanog sa daghang henerasyon?",
+  "clues": [
+    "Nalubong mi sa kasina tungod sa pagmahal nga gipakita sa usa sa among mga kaedad.",
+    "Sa among kasina, nagkunsabo kami ug gilabay ang among igsoon ngadto sa kangitngit sa usa ka atabay.",
+    "Aron itago ang among gibuhat, among gihatag ang usa ka bisti sa among amahan, nga namantsahan sa bakak nga dugo.",
+    "Paglabay sa mga katuigan, usa ka grabeng kagutom ang nagpugos kanamo sa pagbiyahe ngadto sa Ehipto aron mangita og mga pagkaon.",
+    "Didto, miatubang kami sa usa ka gamhanang gobernador nga, wala kami mahibalo, mao diay ang mismong igsoon nga among gihilabtan.",
+    "Ang among katapusang pagsulay mao ang pagdala sa among kamanghuran nga igsoon, si Binyamin, nga misangpot sa pagpadayag sa among nangagi ug sa among amahan nga mao si Propeta Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa man kita?",
+      "options": [
+        "Ang mga Anak nga Lalaki ni Adan (Qabil ug Habil)",
+        "Ang mga Tinun-an ni Propeta Isa",
+        "Ang mga Igsoon ni Propeta Yusuf",
+        "Ang mga Tawo sa Madyan",
+        "Ang mga Salamangkero ni Fir'awn"
+      ],
+      "answer": "Ang mga Igsoon ni Propeta Yusuf"
+    },
+    "trial": {
+      "label": "Unsa ang atong pangunang kalapasan?",
+      "options": [
+        "Pagtukod og bulawan nga nating baka alang sa pagsimba",
+        "Pagpangayo nga makita direkta si Allah",
+        "Pagbiaybiay sa usa ka propeta tungod sa pagtukod og arka",
+        "Paglimbong sa among amahan ug pagbiya sa among igsoon",
+        "Paglapas sa Adlawng Igpapahulay pinaagi sa pagpangisda"
+      ],
+      "answer": "Paglimbong sa among amahan ug pagbiya sa among igsoon"
+    },
+    "location": {
+      "label": "Unsa nga butang ang sentro sa atong pagpanglimbong?",
+      "options": [
+        "Usa ka hugpong sa mga papan nga adunay sinulat",
+        "Usa ka kamiseta nga namantsahan sa bakak nga dugo",
+        "Usa ka bulawan nga nating baka",
+        "Usa ka matahum nga langgam (ang Hoopoe)",
+        "Usa ka sungkod nga nahimo nga bitin"
+      ],
+      "answer": "Usa ka kamiseta nga namantsahan sa bakak nga dugo"
+    },
+    "outcome": {
+      "label": "Unsa ang katapusang resulta sa atong istorya?",
+      "options": [
+        "Nalaglag kami sa usa ka kusog nga baha",
+        "Nahimo kaming mga unggoy",
+        "Gilamoy mi sa yuta",
+        "Gipasaylo kami ug nahiusa pag-usab sa among pamilya",
+        "Nalumos mi sa dagat"
+      ],
+      "answer": "Gipasaylo kami ug nahiusa pag-usab sa among pamilya"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

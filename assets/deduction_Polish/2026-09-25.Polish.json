@@ -1,0 +1,61 @@
+{
+  "title": "Tama, która zniszczyła królestwo",
+  "intro": "Kraina rwących rzek, dwóch zielonych ogrodów i niezrównanego dobrobytu – ale jej mieszkańcy zignorowali Tego, który ich błogosławił. Kiedy nadeszły przypomnienia wzywające ich do powrotu, odwrócili się. Nastąpiła kara, która do dziś rozbrzmiewa jak ostrzeżenie. Kim była ta starożytna społeczność?",
+  "clues": [
+    "Mieszkaliśmy w krainie tak błogosławionej, że nasz dom leżał pomiędzy dwoma zielonymi ogrodami.",
+    "Cieszyliśmy się widokami rzek przepływających przez nasze ziemie i obfitymi zbiorami wypełniającymi nasze domy.",
+    "Jednak gdy zostaliśmy wezwani do wdzięczności i posłuszeństwa naszemu Panu, odwróciliśmy się z pychą.",
+    "Nasze bogactwo i wygoda sprawiły, że zapomnieliśmy o Tym, który nam to wszystko darował.",
+    "Wtedy nadeszła niespodziewana powódź, która przebiła się przez wielką barierę, na której polegaliśmy.",
+    "Jesteśmy ludem Saby, którego ziemia słynie z wielkiej tamy Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ludzie Saby",
+        "Ludzie z Okopu",
+        "Towarzysze Studni",
+        "Ludzie z Tubby",
+        "Ludzie Midianu"
+      ],
+      "answer": "Ludzie Saby"
+    },
+    "trial": {
+      "label": "Nasz upadek",
+      "options": [
+        "Powódź spowodowana pęknięciem tamy",
+        "Gwałtowny wiatr z nieba",
+        "Płonący w okopie ognia",
+        "Ogromne trzęsienie ziemi",
+        "Utonięcie w wielkiej powodzi"
+      ],
+      "answer": "Powódź spowodowana pęknięciem tamy"
+    },
+    "location": {
+      "label": "Kluczowa lokalizacja",
+      "options": [
+        "Tama Ma'rib",
+        "Góra Synaj",
+        "Jaskinia Siedmiu Śpiących",
+        "Płonący krzew",
+        "Rozdzielenie morza"
+      ],
+      "answer": "Tama Ma'rib"
+    },
+    "outcome": {
+      "label": "Nasz los",
+      "options": [
+        "Dwa gorzkie ogrody zastąpiły nasze bujne",
+        "Nasze ogrody stały się jeszcze bardziej bujne",
+        "Ziemia zatonęła pod morzem",
+        "Zostaliśmy pogrzebani w popiele wulkanicznym",
+        "Nasz naród podzielił się na dwanaście plemion"
+      ],
+      "answer": "Dwa gorzkie ogrody zastąpiły nasze bujne"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

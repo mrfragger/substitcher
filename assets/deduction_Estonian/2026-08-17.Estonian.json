@@ -1,0 +1,61 @@
+{
+  "title": "Üleastumine kaldal",
+  "intro": "Sa seisad unustatud kalda liival, kus lained sosistavad jumaliku käsu läbi proovile pandud kogukonnast. Õhk on raske mälestusest üleastumisest, mis viis jahmatava muutuseni. Kes need hinged olid ja milline oli nende katsumus?",
+  "clues": [
+    "Me olime kogukond, mis sai Issandalt selge käsu, kuid leidsime viise, kuidas seda eirata.",
+    "Me elasime veekogu lähedal ja meie elatis sõltus selle olenditest.",
+    "Päeval, mil meil kästi hoiduda ilmalikest ettevõtmistest, tabas meid katsumus.",
+    "Selsamal päeval tulid meie juurde hulgaliselt veeelukaid, kiusates meid üle ootuste.",
+    "Me mõtlesime välja kavala nipi, et jumalikust korrast mööda hiilida, arvates, et suudame dekreedist üle kavaldada.",
+    "Meie üleastumine viis alandava muutumiseni; Allahi käsul muutusime põlatud ahvideks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Hingamispäeva rahvas",
+        "Rassi rahvas",
+        "Tubba rahvas",
+        "Koopa rahvas",
+        "Kraavi kaaslased"
+      ],
+      "answer": "Hingamispäeva rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kalade ilmumine hingamispäeval",
+        "Tõsise põua aasta",
+        "Nende vastu saadeti lindude armee",
+        "Üleujutus, mis nad üle ujutas",
+        "Vägivaldne maavärin"
+      ],
+      "answer": "Kalade ilmumine hingamispäeval"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Meri",
+        "Mägi",
+        "Koobas",
+        "Kõrbeorg",
+        "Kindlustatud linn"
+      ],
+      "answer": "Meri"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Muutusid ahvideks",
+        "Maa poolt neelatud",
+        "Hävitas karjuv tuul",
+        "Uppus merre",
+        "Kivisadu tabas"
+      ],
+      "answer": "Muutusid ahvideks"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

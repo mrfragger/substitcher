@@ -1,0 +1,61 @@
+{
+  "title": "UMniki Wobulumko Obungenasiphelo",
+  "intro": "Umntu ohlonitshwayo, owaziwa ngokuqonda kwakhe okunzulu kunye neengcebiso zakhe ezikrelekrele, wakha wanikela isiluleko esingaphaya kwezizukulwana. Amazwi abo, abhalwe kwizibhalo ezingcwele, akhokela abantu ekuboniseni umbulelo, umonde, kunye nokuziphatha okulungileyo.",
+  "clues": [
+    "Ndisikelelwe ngobulumko, kungekhona ubuprofeti.",
+    "Ndimcebise umntwana wam ngezona zono zinkulu: ukunxulumana namaqabane no-Allah.",
+    "Ndifundise ngobunzima bezenzo, kwanexabiso lembewu yemostade, nendlela uAllah aza kuyivelisa ngayo.",
+    "Ndigxininise umbulelo ku-Allah nakubazali, ndivuma ubunzima bokukhulisa umntwana.",
+    "Icebiso lam laliquka ukumisela umthandazo, ukuyalela okulungileyo, ukuthintela ububi, nokunyamezela ngomonde oko kuyehlela umntu.",
+    "Isahluko kwiQuran sibizwa ngegama lam, siqulathe iimfundiso zam kunye nezifundo endabelana ngazo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uSulaiman",
+        "Umprofeti uDawud",
+        "Umprofeti uYahya",
+        "uLuqman",
+        "Umprofeti uMusa"
+      ],
+      "answer": "uLuqman"
+    },
+    "trial": {
+      "label": "Umxholo oPhakathi",
+      "options": [
+        "Ukwakha iKaaba",
+        "Ukwahlulahlula ulwandle",
+        "Ukunika ubulumko",
+        "Ukusinda kwisikhukula",
+        "Ukuginywa yintlanzi"
+      ],
+      "answer": "Ukunika ubulumko"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Abasebenzi",
+        "INtaba yaseTur",
+        "Unyana Wakhe",
+        "Ithole Legolide"
+      ],
+      "answer": "Unyana Wakhe"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Abantu bakhe batshatyalaliswa",
+        "Ubulumko bakhe baba ngumkhokeli",
+        "Wanikwa ubukumkani",
+        "Waphakanyiselwa emazulwini",
+        "Wanikwa ubutyebi obukhulu"
+      ],
+      "answer": "Ubulumko bakhe baba ngumkhokeli"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

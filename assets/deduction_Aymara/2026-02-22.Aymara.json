@@ -1,0 +1,61 @@
+{
+  "title": "Tʼaqhesit alman pacienciapa",
+  "intro": "Historia anales ukanx mä jaqiw utji, jupan sutipax aguantañamp sasiwa. Uka jaqejj akapachankir taqe chuymachtʼäwinakap aptʼasisaw yantʼat uñjasïna, ukampis Lurir Diosar taqe chuyma servirjamaw qheparäna. Walja maranakaw jan walt’äwinakampi, janchi usunakampi, uka almax chuymapax iyawsäwin anclatäskäna, taqi jan walt’äwinakar puripki ukanakatakix mä suyt’äwiw utjäna.",
+  "clues": [
+    "Nayax Allah-an taqi chuyma luqtiripäyätwa, walja qamir yänakampi, walja wawanakampi ukat wali k’umaräñampiw bendicitäna.",
+    "Jakäwijajj mayjtʼawayiwa, kunapachatï qamirïtajsa familiajatsa aptʼasipjjetäna ukhajja, janiw kunas utj-jjänti, jan ukasti iyawsäwijakiw utjäna.",
+    "Nayajj jaya tiempo ukat wali tʼaqhesiñ usumpiw tʼaqhesiyäta, uka usujj jaqenakan aguantañ yatipjjatap yantʼäna.",
+    "Taqi tʼaqhisiñanakajanxa, janiw Tatitujat quejasiñ munkayätti, uñisirix jan suytʼäwir irpañ munkäna ukhasa.",
+    "Qhepatjja, Tatitujar jawsayäta ukhajja, janiw qamirïñ maytʼkti, jan ukasti llakisiñaw chuym chʼalljjtayitu sasaw amuyayäta.",
+    "Nayarojj kayujampiw aka oraqe jawqʼjañama sasaw sapjjetäna, ukatwa thaya uma phuchʼu mistunïna, cuerpojar qollañataki, umat pharjañajataki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Khitis nayajja?",
+      "options": [
+        "Profeta Yaqub jupax ukham sataynawa",
+        "Profeta Ayub jupax ukham sataynawa",
+        "Zakariyyah profetax ukham sataynawa",
+        "Profeta Yahya satawa",
+        "Profeta Shu'ayb jupax ukham sataynawa"
+      ],
+      "answer": "Profeta Ayub jupax ukham sataynawa"
+    },
+    "trial": {
+      "label": "Yant’awi/Evento",
+      "options": [
+        "Walja maranakaw sinti usuntata ukat chhaqhata",
+        "Mä manqha phuch’ur jaquntatäña",
+        "Mä jach’a challwampi manq’antatäña",
+        "Mä tirano nina taypin uñkatasiña",
+        "Yatichiri thaqhañataki mä jach’a thakhi"
+      ],
+      "answer": "Walja maranakaw sinti usuntata ukat chhaqhata"
+    },
+    "location": {
+      "label": "Elemento Clave ukax mä juk’a pachanakanwa",
+      "options": [
+        "Mä thujru quta t’aqanuqt’iri",
+        "Mä kamisax utan thujsapawa",
+        "Mä qullañ uma phuch’u",
+        "Mä qulluw laqʼar tukuwayxäna",
+        "Mä p’iya wali ch’ullqhi ikiña"
+      ],
+      "answer": "Mä qullañ uma phuch’u"
+    },
+    "outcome": {
+      "label": "Utjiri",
+      "options": [
+        "Jach’a uraqin apnaqiripar tukuña",
+        "Mä ejercito atipjañar irpaña",
+        "K’umara jakaña ukhamaraki familia ukanaka mayampi utt’ayaña",
+        "Yupaychañataki qullan uta luraña",
+        "Alaxpachat ch’iqiyata mä mesa katuqaña"
+      ],
+      "answer": "K’umara jakaña ukhamaraki familia ukanaka mayampi utt’ayaña"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

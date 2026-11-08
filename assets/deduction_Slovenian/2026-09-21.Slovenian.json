@@ -1,0 +1,61 @@
+{
+  "title": "Krik iz globin",
+  "intro": "Služabnik Najusmiljenejšega se je naveličal trmastega naroda in odšel, preden je dobil dovoljenje. Ta posameznik se je znašel na mestu, kjer še ni bilo človeka, kjer klic k Božanskemu nenavadno odmeva skozi plasti teme. Izhajajoč oslabljena, a preobražena, je ta duša postala brezčasna lekcija o potrpežljivosti, iskrenem kesanju in brezmejnem usmiljenju Stvarnika. Ali lahko razvozlate skrivnost?",
+  "clues": [
+    "Poslan sem bil kot sel k svojemu ljudstvu, toda v svoji neveri so presegli vse meje in niso hoteli poslušati.",
+    "Zaradi njihove zavrnitve sem se razjezil in zbežal od svojega ljudstva, še preden je prišel Alahov ukaz.",
+    "Vkrcal sem se na ladjo, ki je bila naložena preko nosilnosti, in žrebali smo, kdo bo vržen v vodo.",
+    "Vrglo me je v razburkano morje in pogoltnila me je velika riba.",
+    "Ujet v treh plasteh teme – v trebuhu, globokem morju in zemlji spodaj – sem v iskrenem kesanju klical k svojemu Gospodu.",
+    "Iz rib sem se izkopal na odprto obalo, šibek in utrujen, in nad mano je zrasla buča. Moje ljudstvo, sto tisoč ali več, je končno verjelo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Junus",
+        "Prerok Ajjub",
+        "Prerok Jusuf",
+        "Prerok Musa",
+        "Prerok Sulejman"
+      ],
+      "answer": "Prerok Junus"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Pogoltnila ga je velika riba",
+        "Vržen v plameneči ogenj",
+        "Ujet na dnu vodnjaka",
+        "Preplavila jih je velika poplava",
+        "Nepravično zaprt s strani kralja"
+      ],
+      "answer": "Pogoltnila ga je velika riba"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Trebuh velike ribe",
+        "Sveta dolina blizu Kaabe",
+        "Barka počiva na gori",
+        "Palica, ki se je spremenila v kačo",
+        "Prestol neprimerljive veličine"
+      ],
+      "answer": "Trebuh velike ribe"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Njegovo ljudstvo, sto tisoč ali več, je verjelo",
+        "Živ dvignjen v nebesa",
+        "Postal je vladar neprekosljivega kraljestva",
+        "Uničen od prodornega krika z neba",
+        "Prevrnil ga je uničujoč potres"
+      ],
+      "answer": "Njegovo ljudstvo, sto tisoč ali več, je verjelo"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kutengwa kwa Ndama wa Dhahabu",
+  "intro": "Mtu aliyetajwa katika Quran aliongoza umati mkubwa katika upotovu wakati wa kutokuwepo kwa nabii mtukufu. Kitu kilichotengenezwa kwa dhahabu kiliteka mioyo ya taifa zima — lakini hadithi ya mtu huyu inaishia katika upweke na laana ya ajabu. Huyu aliyetengwa anaweza kuwa nani?",
+  "clues": [
+    "Nilijitokeza wakati nabii mkuu hayupo ambaye alikuwa amepanda ili kupokea mwongozo wa kimungu.",
+    "Nilisababisha umati mkubwa kupotea kwa kitu nilichokitengeneza kwa mikono yangu mwenyewe.",
+    "Uumbaji wa dhahabu nilioutengeneza ulionekana kuwa na uhai, ukitoa sauti zilizowavutia wale walioufuata.",
+    "Nilidai kuwa nimeona kile ambacho wengine hawakuweza kukiona — mtazamo mdogo wa kile kisichoonekana.",
+    "Nilitoa kitu kutoka kwenye nyayo za mjumbe wa Mungu na kukitupa kwenye chuma kilichoyeyushwa.",
+    "Nilihukumiwa kutangatanga peke yangu, nikiwa na laana ya kipekee kwamba hakuna mtu aliyeweza kugusa ngozi yangu wala mimi kugusa yao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Samiri",
+        "Hamani",
+        "Farao (Firauni)",
+        "Abu Lahab",
+        "Nabii Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Aliumba ndama wa dhahabu kwa ajili ya ibada",
+        "Kujenga mnara unaofika mbinguni",
+        "Aliwapinga wachawi wa Misri",
+        "Aliongoza jeshi lenye wanyama wanaoruka",
+        "Kugawanya mwezi kama uthibitisho wa unabii"
+      ],
+      "answer": "Aliumba ndama wa dhahabu kwa ajili ya ibada"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa dhahabu",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Kichaka kinachowaka moto juu ya mlima",
+        "Safina ikipumzika juu ya kilele",
+        "Mtaro uliojaa moto unaowaka"
+      ],
+      "answer": "Ndama wa dhahabu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Uhamisho, marufuku kuguswa au kugusa wengine",
+        "Kuzama baharini pamoja na jeshi",
+        "Alichomwa moto akiwa hai kwa kukataa imani",
+        "Kupigwa na upepo mkali na ngurumo",
+        "Kusamehewa na kuinuliwa hadi cheo cha juu"
+      ],
+      "answer": "Uhamisho, marufuku kuguswa au kugusa wengine"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

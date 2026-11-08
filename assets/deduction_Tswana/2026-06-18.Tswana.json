@@ -1,0 +1,61 @@
+{
+  "title": "Wa Ntlha go Batla Boitshwarelo",
+  "intro": "Boela morago kwa nakong ya pele ga tlhabo ya ntlha ya letsatsi, pele ga motho ope yo o swang a tsamaya mo lefatsheng. Go ne ga bopiwa setshwantsho ka dilo tse di kwa tlase thata, se newa seteishene se se kwa godimo ga baengele, mme se bewa mo tshingwaneng e e boitshepo se na le tlhagiso e e utlwalang sentle. Le fa go ntse jalo mo motsotsong o le mongwe fela, go ne ga dirwa tlhopho — e e neng e tla boeletsa mo hisitoring yotlhe ya batho. Palo eno ke mang?",
+  "clues": [
+    "Ke ne ka tlholwa ka tsela e e sa tshwaneng le epe e nngwe — ka bopiwa ka lerole la lefatshe mme ka newa mowa o o tshelang ka seatla sa Mmopi.",
+    "Ke ne ka newa kitso e e tseneletseng thata jaana mo e leng gore le baengele ba ba kwa godimo ba ne ba e gakgamalela.",
+    "Legodimo lotlhe le ne la laelwa go obama fa pele ga me, mme botlhe ba ne ba ineela — kwa ntle ga a le mongwe, yo o neng a gana ka ntlha ya boikgogomoso.",
+    "Ke ne ka bewa mo tshingwaneng e e boitshepo, lefelo la kgomotso le tlamelo e e sa khutleng — mme ka thibelo e le nngwe e e gagametseng.",
+    "Ke ne ka lebala, ka relela, mme ka se ka ka utlwa — mme ka utlwa bokete jwa phoso ya me kwa teng.",
+    "Ke ne ka retologela kwa Moreneng wa me ka mafoko a a tswang pelong, mme a amogela boikwatlhao jwa me, gonne ke ene yo o itshwarelang thata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Adame",
+        "Moporofeti Dawud",
+        "Moporofeti Muhammad",
+        "Iblis",
+        "Moporofeti Yaqub"
+      ],
+      "answer": "Moporofeti Adame"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Baengele ba ne ba laelwa gore ba khubame",
+        "Morwalela o Mogolo o ne wa romelwa .",
+        "Molelo o mogolo o ne wa dirwa gore o tsidifale e bile o babalesegile",
+        "Mmusi mongwe yo o ikgogomosang o ne a nwela mo lewatleng",
+        "Mophato wa ditlou o ne wa senngwa"
+      ],
+      "answer": "Baengele ba ne ba laelwa gore ba khubame"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Tshingwana ya Boitumelo",
+        "Thaba ya Sinai",
+        "Mosque o o Boitshepo",
+        "Noka ya Nile",
+        "Logaga"
+      ],
+      "answer": "Tshingwana ya Boitumelo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go ikwatlhaya go ne ga amogelwa ke Allah",
+        "O nwetse mo lewatleng",
+        "E meditswe ke tlhapi e kgolo",
+        "Setšhaba se ne sa itewa ke go thunya go go maatla",
+        "A fisitswe ke phefo e e fisang"
+      ],
+      "answer": "Go ikwatlhaya go ne ga amogelwa ke Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

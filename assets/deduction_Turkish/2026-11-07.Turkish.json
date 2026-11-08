@@ -1,0 +1,61 @@
+{
+  "title": "yıldızlarla aydınlatılmış kesinlik arayışı",
+  "intro": "Uçsuz bucaksız gece gökyüzünün altında durduğunuzu, parlak ışıkların yükselip sonra kaybolmasını izlerken, gerçekten tapınmaya layık olanı aradığınızı hayal edin. Etrafınızda, sessizce oyulmuş heykeller övgü ve adaklar alıyor, ancak sağduyu onların gücünü sorguluyor. Korkusuz bir ses, miras alınan geleneğe meydan okuyup göklerin ve yerin Yaratıcısına işaret etmek üzere.",
+  "clues": [
+    "Yıldızlara, aya ve güneşe baktım ve onların Rabbim olamayacağı sonucuna vardım çünkü onlar batıp kayboluyorlar.",
+    "Halkımın Allah'tan başka neye taptığını açıkça reddettim ve onları yalnızca Yaratıcıya ibadet etmeye çağırdım.",
+    "Hayat ve ölüm bahşettiğini iddia eden kibirli bir hükümdarla tartıştım ve ona Allah'ın güneşi doğudan getirdiğini söyleyerek cevap verdim.",
+    "Putları parçalayıp yıktım, sadece en büyüğünü bıraktım ki insanlar ona geri dönebilsinler.",
+    "Halkım beni yakaladı ve mahkum etti; bir yapı inşa edip beni alev alev yanan ateşe atmamızı söylediler.",
+    "Allah ateşin benim için serinlik ve güvenlik olmasını emrettiğinde kurtuldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İbrahim (Abraham)",
+        "Peygamber Yahya (Yuhanna)",
+        "Peygamber El-Yasa (Elişa)",
+        "Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Peygamber İbrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Putperestlikle yüzleşti ve gök cisimlerinin anlamı üzerine tartışmalar yürüttü.",
+        "Öfkeyle ayrıldıktan sonra büyük bir balık tarafından yutuldu.",
+        "Allah'ın ikiye ayırdığı bir denizden takipçilerine önderlik etti.",
+        "Ölümü tatmadan diri diri göklere yükseltildi.",
+        "Uzun yıllar boyunca arkadaşlarıyla birlikte bir mağarada uyudu."
+      ],
+      "answer": "Putperestlikle yüzleşti ve gök cisimlerinin anlamı üzerine tartışmalar yürüttü."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Allah tarafından soğutulmuş ve güvenli hale getirilmiş, alev alev yanan bir ateş.",
+        "İnananları tufandan geçiren gemi",
+        "Yılana dönüşen asa",
+        "Cennetten serilmiş sofra",
+        "Dişi deve bir işaret olarak gönderildi."
+      ],
+      "answer": "Allah tarafından soğutulmuş ve güvenli hale getirilmiş, alev alev yanan bir ateş."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Ateşten korunmuş ve dürüst nesiller bahşedilmiştir.",
+        "İnkarcıların büyük bir selinde boğulduk",
+        "Şabat gününü ihlal ettiği için dönüştürüldü.",
+        "Kil taşları taşıyan kuşlar tarafından tahrip edildi.",
+        "Hazinelerle dolu toprak tarafından yutuldu"
+      ],
+      "answer": "Ateşten korunmuş ve dürüst nesiller bahşedilmiştir."
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Jarabawar Wuta Mai Tsarki",
+  "intro": "A cikin wata tsohuwar ƙasa inda ibada ga duwatsun da aka sassaka ta fara ƙarko a cikin kowane gida, mutum ɗaya ya tsaya cak. Ta hanyar tabbaci mara misaltuwa da kariyar Allah, sun fuskanci abin da ya kamata ya zama mutuwa - kuma suka tafi ba tare da wata matsala ba. Za ku iya gano asalin wannan rai mai ban mamaki?",
+  "clues": [
+    "An haife ni a tsakanin mutanen da suka yi wa gumakan da suka sassaka da hannuwansu sujada, suna da yakinin cewa waɗannan abubuwa suna da ikon allahntaka.",
+    "Da na ƙalubalantar imaninsu, sun kore ni da farko, amma ban iya yin shiru game da gaskiyar da na sani ba.",
+    "A ranar da aka tattara su, na lalata gumakansu, na bar mafi girmansu kawai ba tare da an taɓa su ba.",
+    "Da suka dawo suka ga abin da na yi, shugabanninsu suka ba da umarnin a gina wani babban gungume, suna da niyyar jefa ni cikin wuta.",
+    "Sun jefa ni cikin wutar da ke ci, amma Ubangijin halittu ya umarce shi da ya yi sanyi kuma ya zama amintacce a gare ni.",
+    "Na fito daga wutar ba tare da na ji rauni ba, yayin da waɗanda suka yi mini makirci suka fuskanci halaka gaba ɗaya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Ibrahim",
+        "Annabi Musa",
+        "Annabi Nuhu",
+        "Annabi Isa",
+        "Annabi Yusufu"
+      ],
+      "answer": "Annabi Ibrahim"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ana jefa shi cikin wuta mai ƙuna",
+        "Babban kifin whale ya haɗiye shi",
+        "Tsira daga babban ambaliya",
+        "A jefa shi cikin rijiya mai zurfi",
+        "Fuskantar masu sihirin sarki"
+      ],
+      "answer": "Ana jefa shi cikin wuta mai ƙuna"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Babban tarin itacen wuta",
+        "Babban akwatin katako",
+        "Mutum-mutumin maraƙin zinare",
+        "Kwandon shawagi a kan kogi",
+        "Kursi mai girma"
+      ],
+      "answer": "Babban tarin itacen wuta"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Allah ya sanya wutar ta yi sanyi kuma ta yi aminci",
+        "Jirgin ya sauka lafiya a kan dutse",
+        "Gumin zinare ya narke a gaban idanunsu",
+        "Wani azzalumi da rundunarsa sun nutse a cikin teku",
+        "An mayar wa wani makaho ganinsa"
+      ],
+      "answer": "Allah ya sanya wutar ta yi sanyi kuma ta yi aminci"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

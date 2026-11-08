@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Sugo ng Awa at Kapangyarihan",
+  "intro": "Isipin ang isang tahimik na hapon na naputol ng pagdating ng mga hindi pamilyar na manlalakbay. Karaniwan lang ang kanilang anyo, ngunit ang kanilang layunin ay ibang-iba. May dala silang banal na mensahe na magpapabago sa takbo ng dalawang bansa, na magdadala ng tawanan sa isang tigang na tahanan at takot sa isang makasalanang lungsod. Sino ang mga mahiwagang bisitang ito?",
+  "clues": [
+    "Ipinadala kami sa isang debotong lingkod ng Allah, na kilala sa kanilang walang hanggang pagtanggap.",
+    "Dumating kami na nagkukunwaring mga estranghero, ngunit may naramdaman ang aming punong-abala na kakaiba sa aming presensya.",
+    "Nagdala kami ng balita na nagpatawa sa isang matandang babae sa hindi paniniwala, at napatitig sa sarili niyang mukha sa pagkamangha.",
+    "Inatasan kaming protektahan ang isang matuwid na pamilya habang pinapaulanan ng kapahamakan ang isang lungsod na puno ng katiwalian.",
+    "Tumanggi kaming makibahagi sa pagkaing inialok sa amin, na lalo lamang nagpalalim ng hinala ng aming punong-abala.",
+    "Ipinakita lamang namin ang aming tunay na kalikasan bago kami umalis, na nagsasabing, 'Tunay nga, kami ay mga sugo ng iyong Panginoon.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Tayo?",
+      "options": [
+        "Ang mga Panauhin ni Abraham",
+        "Ang mga Disipulo ni Hesus",
+        "Ang mga Kasama ng Yungib",
+        "Ang Hukbo ng Abraha",
+        "Ang mga Mensahero ng Ya-Sin"
+      ],
+      "answer": "Ang mga Panauhin ni Abraham"
+    },
+    "trial": {
+      "label": "Ang Aming Misyon",
+      "options": [
+        "Upang subukin ang pananampalataya ni Abraham patungkol sa kaniyang anak",
+        "Upang ihatid ang banal na kasulatan kay Abraham",
+        "Upang ipahayag ang kapanganakan ni Isaac at ang pagkawasak ng mga tao ni Lot",
+        "Upang gabayan si Abraham patungo sa Kaaba",
+        "Upang iligtas si Abraham mula sa apoy"
+      ],
+      "answer": "Upang ipahayag ang kapanganakan ni Isaac at ang pagkawasak ng mga tao ni Lot"
+    },
+    "location": {
+      "label": "Lugar ng Pagpapakita",
+      "options": [
+        "Sa lupain ng Ehipto",
+        "Sa lungsod ng Ur",
+        "Sa tahanan ni Abraham",
+        "Sa hardin ng Eden",
+        "Sa balon ng Zamzam"
+      ],
+      "answer": "Sa tahanan ni Abraham"
+    },
+    "outcome": {
+      "label": "Ang Resulta",
+      "options": [
+        "Si Abraham ay naging hari",
+        "Itinayo ni Abraham ang Kaaba",
+        "Ipinanganak ni Sarah si Isaac at nalipol ang mga tao ni Lot",
+        "Lumipat si Abraham sa Palestina",
+        "Ang mga tao ni Abraham ay naligtas mula sa isang malaking baha"
+      ],
+      "answer": "Ipinanganak ni Sarah si Isaac at nalipol ang mga tao ni Lot"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

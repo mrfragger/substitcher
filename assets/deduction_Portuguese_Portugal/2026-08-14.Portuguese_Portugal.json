@@ -1,0 +1,61 @@
+{
+  "title": "As Mãos Amaldiçoadas",
+  "intro": "Você está nos becos sinuosos da antiga Meca, onde uma alma influente e rica outrora se desviou do chamado da verdade. A história dessa figura é um lembrete contundente de que laços de sangue não podem superar as correntes do orgulho. Quem é esse cujo nome ecoa com o fogo que o aguarda?",
+  "clues": [
+    "Percorri as ruas de Meca com um orgulho que me cegou para a verdade, embora o mensageiro fosse do meu próprio sangue.",
+    "Meus bens eram vastos, mas se tornaram uma maldição em vez de um escudo.",
+    "O livro da orientação fala da minha ruína, declarando que minhas mãos e meu corpo perecerão.",
+    "Meu cônjuge se uniu à minha campanha de inimizade, reunindo espinhos para espalhar no caminho daquele que chamou a Deus.",
+    "No dia do julgamento, serei mergulhado em um fogo ardente, e minha esposa terá uma corda de fibra de palmeira em volta do pescoço.",
+    "Sou conhecido por um nome que significa 'pai da chama' — um nome que prenuncia minha morada eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Julgamento ou evento chave",
+      "options": [
+        "Opôs-se ao Profeta e foi amaldiçoado no Alcorão.",
+        "Liderou um exército para destruir a Caaba.",
+        "Tentaram matar o Profeta atirando pedras.",
+        "Recusaram-se a acreditar na divisão da lua.",
+        "Construiu uma torre para alcançar os céus"
+      ],
+      "answer": "Opôs-se ao Profeta e foi amaldiçoado no Alcorão."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O fogo ardente do inferno",
+        "O Cajado de Musa",
+        "A Arca de Noé",
+        "O Poço de Zamzam",
+        "O Bezerro de Ouro"
+      ],
+      "answer": "O fogo ardente do inferno"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ele entrará no fogo ardente, e sua riqueza não lhe valerá de nada.",
+        "Ele se arrependeu e se tornou um crente.",
+        "Ele foi perdoado após se retratar.",
+        "Ele morreu como um mártir.",
+        "Ele foi levado para os céus."
+      ],
+      "answer": "Ele entrará no fogo ardente, e sua riqueza não lhe valerá de nada."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Shenja midis gurëve",
+  "intro": "Në një vend ku shtëpitë ishin të gdhendura në male, një lajmëtar mbërriti me një shenjë të mrekullueshme nga Allahu. Njerëzit kërkuan prova dhe morën një krijesë nga shkëmbi i fortë. Por arroganca e tyre i shtyu ata të sfidonin paralajmërimin, duke vulosur fatin e tyre.",
+  "clues": [
+    "Unë u dërgova te një popull që jetonte në banesa të gdhendura në male.",
+    "Ata më sfiduan të sillja një shenjë, kështu që nxora një deve nga një shkëmb.",
+    "Unë i urdhërova që ta linin devenë të pinte lirisht dhe të mos e dëmtonin.",
+    "Ata nuk iu bindën dhe ia prenë devenë, duke shpërfillur paralajmërimin tim.",
+    "Unë njoftova se ndëshkimi do të vinte pas tre ditësh.",
+    "Në mëngjes, një shpërthim i fuqishëm i shkatërroi ata, por unë dhe pasuesit e mi shpëtuam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Salih",
+        "Profeti Hud",
+        "Profeti Lut",
+        "Profeti Shuajb",
+        "Profeti Ibrahim"
+      ],
+      "answer": "Profeti Salih"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Kërkesë për një deve nga një shkëmb",
+        "Kërkesa për një viç të artë",
+        "Kërkesa për një tryezë të shpërndarë nga qielli",
+        "Kërkesa për një përmbytje",
+        "Kërkesa që një shkop të bëhet gjarpër"
+      ],
+      "answer": "Kërkesë për një deve nga një shkëmb"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Deveja dhe viçi i saj",
+        "Arka e Noeut",
+        "Shkopi i Moisiut",
+        "Viçi i Artë",
+        "Zjarri i Ibrahimit"
+      ],
+      "answer": "Deveja dhe viçi i saj"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Shkatërrohet nga një shpërthim i fuqishëm",
+        "U mbyt në përmbytje",
+        "Gëlltitur nga toka",
+        "U shndërruan në majmunë",
+        "Shkatërrohet nga një erë e fortë"
+      ],
+      "answer": "Shkatërrohet nga një shpërthim i fuqishëm"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

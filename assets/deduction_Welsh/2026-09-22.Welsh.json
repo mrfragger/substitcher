@@ -1,0 +1,61 @@
+{
+  "title": "Adeiladwyr y Pileri Uchel",
+  "intro": "Rydych chi'n sefyll o flaen adfeilion dinas hynafol fawreddog, ei phileri uchel bellach wedi cwympo. Mae'r gwynt yn udo trwy'r strydoedd gwag, gan gario atgof pobl nerthol a arferai reoli'r tiroedd hyn. Pwy oedden nhw?",
+  "clues": [
+    "Roedden ni'n bobl o gryfder a sgiliau aruthrol, yn adnabyddus am ein hadeiladau gwych a'n gwareiddiad datblygedig.",
+    "Roedden ni'n byw mewn gwlad o dwyni tywod a bryniau creigiog, ac roedden ni'n credu na allai neb ein gorchfygu ni.",
+    "Daeth negesydd atom o blith ein perthnasau ein hunain, yn ein galw i addoli Allah yn unig, ond fe’i gwrthodom a’i watwar.",
+    "Ymffrostio wnaethon ni, ‘Pwy sy’n gryfach na ni?’ a pharhaon ni yn ein balchder a’n haddoliad eilunod.",
+    "Anfonodd Allah arnom wynt cynddeiriog a chwythodd am saith noson ac wyth diwrnod, gan ddinistrio popeth.",
+    "Ni oedd pobl 'Ad, adeiladwyr Iram, a daeth ein tynged yn rhybudd i bawb a ddaeth ar eu hôl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pobl 'Ad",
+        "Pobl Thamud",
+        "Pobl Madyan",
+        "Pobl Tubba'",
+        "Pobl al-Rass"
+      ],
+      "answer": "Pobl 'Ad"
+    },
+    "trial": {
+      "label": "Beth oedd y gosb a anfonwyd atynt?",
+      "options": [
+        "Gwynt dinistriol",
+        "Cawod o gerrig",
+        "Ffrwydrad uchel",
+        "Boddi gan lifogydd",
+        "Wedi'i lyncu gan y ddaear"
+      ],
+      "answer": "Gwynt dinistriol"
+    },
+    "location": {
+      "label": "Beth yw enw eu dinas chwedlonol?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midian",
+        "Babilon",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Beth oedd eu tynged yn y pen draw?",
+      "options": [
+        "Fe'u dinistriwyd a daeth eu gweddillion yn wers",
+        "Fe wnaethon nhw edifarhau a chael eu hachub",
+        "Fe'u trawsnewidiwyd yn epaod",
+        "Boddwyd nhw yn y môr",
+        "Claddwyd nhw o dan dirlithriad"
+      ],
+      "answer": "Fe'u dinistriwyd a daeth eu gweddillion yn wers"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dinas Goll o Fawrhydi Heb ei Ail",
+  "intro": "Ar un adeg roedd gwareiddiad nerthol yn dominyddu darnau helaeth o'r ddaear, yn enwog am ei strwythurau uchel a oedd yn ymestyn tua'r awyr. Ac eto o dan y mawredd hwn, tyfodd gwadu ystyfnig - gwrthod gwrando ar y rhybuddiwr dwyfol a anfonwyd o fewn y gymuned ei hun. Byddai balchder a thrahausrwydd yn fuan yn arwain at gosb na welodd y ddaear na'r nefoedd erioed ei thebyg.",
+  "clues": [
+    "Ar un adeg roedden ni'n teyrnasu dros ddarnau helaeth o'r ddaear, yn ymffrostio mewn cryfder na chredem y gallai unrhyw wareiddiad arall ei gyfateb.",
+    "Roedd ein teyrnas yn enwog am strwythurau uchel gyda phileri cadarn a safai’n ddigymar ar draws pob tir hysbys.",
+    "Cododd rhybuddiwr o'n cymuned ein hunain, gan annog pob un ohonom i ildio i'r Un Creawdwr yn unig.",
+    "Fe wnaethon ni wadu'r neges a gyflwynwyd inni a gwrthod cefnu ar y llwybr a etifeddwyd gennym.",
+    "Rhyddhawyd gwynt cynddeiriog, udo o ddifrifoldeb llethol yn ein herbyn, gan ein gadael yn gwbl ddiamddiffyn.",
+    "Fe'n gadawyd fel boncyffion gwag coed palmwydd, wedi'u gwasgaru a'n hanghofio, fel gwers i bob cenhedlaeth ar ôl hynny."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pobl A'ad",
+        "Pobl Nuh",
+        "Pobl Lut",
+        "Pobl Madyan",
+        "Pobl Tubba'"
+      ],
+      "answer": "Pobl A'ad"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gwynt cynddeiriog di-ildio o gosb ddifrifol",
+        "Llif a orchuddiodd bob copa mynydd",
+        "Glaw o gerrig clai yn llosgi oddi uchod",
+        "Un sgrech ofnadwy o'r nefoedd",
+        "Daeargryn treisgar a holltodd y tir"
+      ],
+      "answer": "Gwynt cynddeiriog di-ildio o gosb ddifrifol"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Iram, dinas y colofnau uchel",
+        "Arch enfawr o bren wedi'i hadeiladu ar fynydd",
+        "Camel benywaidd a ddaeth i'r amlwg yn wyrthiol o garreg",
+        "Mynydd Sinai lle disgynnodd gorchmynion dwyfol",
+        "Palas o grisial a gwydr cain yn edrych dros ddyfroedd llifo"
+      ],
+      "answer": "Iram, dinas y colofnau uchel"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'u gadael fel boncyffion gwag coed palmwydd, wedi'u gwasgaru a difywyd",
+        "Boddi o dan donnau llethol llifogydd mawr",
+        "Wedi'u trawsnewid yn greaduriaid tebyg i epaod a moch",
+        "Wedi'i falu o dan law o gerrig clai caled",
+        "Wedi'i fwyta mewn un crio byddarol a drywanodd yr enaid"
+      ],
+      "answer": "Wedi'u gadael fel boncyffion gwag coed palmwydd, wedi'u gwasgaru a difywyd"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

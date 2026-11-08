@@ -1,0 +1,61 @@
+{
+  "title": "Pirmās skaudībā izlietās asinis",
+  "intro": "Iztēlojieties cilvēces pirmsākumus, kad visa pasaule bija viena ģimene. Jūs vērojat, kā Allāha priekšā tiek nesti divi upuri — viens pieņemts, otrs noraidīts. Sirdī iesakņojas skaudība, un dusmās tiek čukstēts drauds. Tas, kas notiks tālāk, uz visiem laikiem atstās pēdas vēsturē, un pat mazs putniņš kļūs par skolotāju.",
+  "clues": [
+    "Es piederu pie pašas pirmās ģimenes uz zemes.",
+    "Es pienesu upuri Allāham, bet mans netika pieņemts, kamēr otrs upuris tika pieņemts.",
+    "Es skaudībā ierunājos un draudēju atņemt dzīvību.",
+    "Es izdarīju pirmo netaisnīgo slepkavību uz zemes.",
+    "Es redzēju vārnu, kas skrāpēja zemi, lai parādītu man, kā paslēpt līķi.",
+    "Mani pārņēma nožēla, un es kļuvu par vienu no zaudētājiem par to, ko manas rokas bija izdarījušas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Kabils (Kains), Ādama dēls",
+        "Samiri, teļa darinātājs",
+        "Namruds, tirāns, kurš strīdējās ar Ibrahimu",
+        "Azārs, elku veidotājs",
+        "Kan'an, noslīkušais Nū dēls"
+      ],
+      "answer": "Kabils (Kains), Ādama dēls"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Brāļa vai māsas slepkavība skaudības dēļ pēc piedāvājuma noraidīšanas",
+        "Celt augstu torni, lai skatītos debesīs",
+        "Zelta teļa veidošana pielūgsmei",
+        "Pieprasot no debesīm klātu galdu",
+        "Vadot ziloņu armiju, lai iznīcinātu Kaabu"
+      ],
+      "answer": "Brāļa vai māsas slepkavība skaudības dēļ pēc piedāvājuma noraidīšanas"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Vārna skrāpē zemi, lai parādītu apbedījumu",
+        "Zelta teļš, kas bļāva",
+        "Liels šķirsts virs plūdu ūdeņiem",
+        "Persona, kas pārvērtās par čūsku",
+        "Galds klāts ar ēdienu no debesīm"
+      ],
+      "answer": "Vārna skrāpē zemi, lai parādītu apbedījumu"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva nožēlojošs un starp zaudētājiem",
+        "Noslīka lielajos plūdos",
+        "Tika aprīts zemē ar dārgumiem",
+        "Septiņus gadus mocījās ar spitālību",
+        "Tika piešķirta karaļvalsts ar vēju kontroli"
+      ],
+      "answer": "Kļuva nožēlojošs un starp zaudētājiem"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

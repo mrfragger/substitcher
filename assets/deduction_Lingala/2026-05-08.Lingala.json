@@ -1,0 +1,61 @@
+{
+  "title": "Moto oyo azali koluka solo na molende",
+  "intro": "Na eleko oyo ezipamaki na kozanga boyebi mpe losambo ya banzambe ya lokuta, mobembo moko ya mozindo ya kondima esalemaki. Moto yango atyaki ntembe na mibeko ya bato na bango, kolukaka Mozalisi Moko ya Solo na kondima oyo etɛngamá te. Bomibongisa mpo na kobimisa bomoto ya molimo oyo libula na yango ezali kokoba kofula bamilio ya bato.",
+  "clues": [
+    "Natunaki nzoto ya lola, kolukaka Nkolo ya solo oyo azali kokela mpe kosungaka banso.",
+    "Bapesaki ngai mitindo ya kolongwa na mboka na ngai, kosala mobembo na mboka oyo Nzambe apambolaki.",
+    "Natɛmɛlaki bikeko ya bato na ngai, nazalaki kokutana mbala moko na mpambampamba na bango na kobukaka yango.",
+    "Nabwakama na moto ya makasi na bato na ngai, nzokande ekomaki malili mpe kimia mpo na ngai na etinda ya Allah.",
+    "Namekamaki na etinda ya kopesa mbeka ya mwana na ngai ya mobali ya liboso ya bolingo, momekano ya botosi ya nsuka.",
+    "Ngai, elongo na mwana na ngai ya mobali, totombolaki miboko ya Ndako ya Losambo ya liboso na Mabele, esika mosantu mpo na bato banso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Nuh",
+        "Mosakoli Yusuf",
+        "Mosakoli Salih",
+        "Mosakoli Ibrahim",
+        "Mosakoli Yis"
+      ],
+      "answer": "Mosakoli Ibrahim"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mpela monene",
+        "Kokabwana ya mbu",
+        "Kobebisama ya Thamud",
+        "Etinda ya kopesa mwana mobali mbeka",
+        "Mobembo na esobe elongo na Sanduku"
+      ],
+      "answer": "Etinda ya kopesa mwana mobali mbeka"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Bato ya mosala",
+        "Ngomba ya Tur",
+        "Sanduku",
+        "Ba Kaaba",
+        "Mwana ya Ngombe ya Wolo"
+      ],
+      "answer": "Ba Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki mokonzi ya Ezipito",
+        "Bato na ye bazindaki na mai",
+        "Bapesaki ye mayele mpe libota ya sembo",
+        "Emelamaki na baleine moko",
+        "Engumba na ye ebalukaki"
+      ],
+      "answer": "Bapesaki ye mayele mpe libota ya sembo"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

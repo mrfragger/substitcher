@@ -1,0 +1,61 @@
+{
+  "title": "Ailtire na hUaillmhian Bréagach",
+  "intro": "Bhí figiúr mór-údarásach ag fónamh tráth do cheann de na tíoránaigh is cáiliúla sa stair san Éigipt ársa. Tugadh ordú dána don duine seo - struchtúr a thógáil a bhí ceaptha chun na flaithis a shárú. Seasann a scéal sa Chorán mar cheacht suntasach faoi mar a bhíonn géilleadh dall don uabhar ina chúis le scrios amháin.",
+  "clues": [
+    "D’fhóin mé i gcúirteanna rialóra chumhachtaigh a mhaígh go raibh diaghachta aige ar na tailte.",
+    "Bhí post ard-aire agam, ag tabhairt comhairle don tíoránach ba sotalach de mo linne.",
+    "Bhí mo rialóir ag iarraidh dúshlán a thabhairt do Dhia Mhaois, nár aithin siad.",
+    "Tugadh orduithe dom túr brící bácáilte le tine a thógáil ionas go bhféadfadh mo rialóir dul suas chun na bhflaitheas.",
+    "Níor shroich an túr an spéir riamh, agus thuill mo dhaoirse don uabhar náire shíoraí dom.",
+    "Fuair ​​mé bás leis an té a lean mé, agus ba rabhadh buan m’ainm i gcoinne na ndaoine a chuireann ar chumas tíoránaithe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Haman",
+        "Azar (athair Ibrahim)",
+        "Illyas (fáidh)",
+        "Dhu al-Kifl",
+        "Harut (ceann den dá aingeal i mBabilóin)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ordaíodh struchtúr ard a thógáil chun na flaithis a bhaint amach",
+        "Iarrtar air aisling a léirmhíniú a seoladh ón diaga",
+        "Caite i dtine lasrach mar thástáil creidimh",
+        "Éigeantach rogha a dhéanamh idir ríchathaoir agus fírinne",
+        "Dúshlán tugtha i gcomórtas draíochta"
+      ],
+      "answer": "Ordaíodh struchtúr ard a thógáil chun na flaithis a bhaint amach"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Túr brící bácáilte sa tine",
+        "Sloinne a d’athraigh ina nathair",
+        "Long ag seoladh trí thuile mhór",
+        "Gairdín atá faoi iamh ag ballaí arda",
+        "Ríchathaoir maisithe le rubin agus ór"
+      ],
+      "answer": "Túr brící bácáilte sa tine"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Báite taobh leis an bhfear a bhí ag brúchtadh sa bhfarraige",
+        "Rinneadh monarc cumhachtach de ar thalamh fairsing",
+        "D’éalaigh sé tine lasrach gan dochar",
+        "Thóg ríocht rathúil eagna",
+        "Athcheangaileadh le teaghlach tar éis blianta deoraíochta"
+      ],
+      "answer": "Báite taobh leis an bhfear a bhí ag brúchtadh sa bhfarraige"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

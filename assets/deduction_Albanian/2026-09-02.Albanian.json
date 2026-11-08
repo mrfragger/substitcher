@@ -1,0 +1,61 @@
+{
+  "title": "Gjumi Përtej Kohës",
+  "intro": "Imagjinoni një kohë kur e vërteta heshtte dhe besimtarët ndiqeshin. Një grup i vogël zgjodhi tërheqjen në vend të dorëzimit, duke gjetur strehim në vendet më të papritura - një vend që do të bëhej vendi i tyre i pushimit për shekuj të panumërt. Kur më në fund u zgjuan, bota ishte transformuar përreth tyre. Kush janë këta shpirtra që flenë?",
+  "clues": [
+    "Ne ishim të rinj që jetonim në një qytet të lashtë.",
+    "Komuniteti ynë kërkoi që ne të adhuronim përkrah tyre, por ne refuzuam.",
+    "Ne ikëm nga qyteti në kërkim të strehimit nga ata që kundërshtonin bindjet tona.",
+    "Një shok besnik me katër këmbë qëndroi në hyrje të vendit tonë të fshehtë.",
+    "Allahu na bëri të flemë për treqind e nëntë vjet.",
+    "Kur më në fund u zgjuam, qyteti ynë, dikur persekutues, kishte përqafuar besimin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush Jemi Ne?",
+      "options": [
+        "Ashab al-Kahf (Njerëzit e Shpellës)",
+        "Ashab al-Fil (Ushtria e Elefantit)",
+        "Ashab al-Ukhdud (Shokët e Hendekut)",
+        "Hawariyyun (Dishepujt e Isait)",
+        "Jexhuxh ue Mexhuxh (Gog dhe Mexhuxh)"
+      ],
+      "answer": "Ashab al-Kahf (Njerëzit e Shpellës)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "U tërhoqëm në një shpellë dhe fjetëm për shekuj me radhë",
+        "Ne shpëtuam nga një zjarr i madh",
+        "Na gëlltiti një peshk i madh",
+        "Ne u sprovuam me një deve të mrekullueshme",
+        "Na u dhanë nëntë shenja të qarta"
+      ],
+      "answer": "U tërhoqëm në një shpellë dhe fjetëm për shekuj me radhë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një shpellë e thellë në male",
+        "Një varkë në det të hapur",
+        "Një strukturë madhështore që arrin deri në qiell",
+        "Një kopsht i ndarë midis dy rivalëve",
+        "Një pengesë prej hekuri dhe bakri"
+      ],
+      "answer": "Një shpellë e thellë në male"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U zgjuam dhe zbuluam se qyteti ynë ishte kthyer në besim",
+        "Një zjarr flakërues u bë i freskët dhe paqësor",
+        "Një ushtri armike u mbyt në det",
+        "Zogjtë që mbanin gurë shkatërruan armikun",
+        "Një peshk i madh na lëshoi ​​në breg"
+      ],
+      "answer": "U zgjuam dhe zbuluam se qyteti ynë ishte kthyer në besim"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

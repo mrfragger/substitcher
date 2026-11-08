@@ -1,0 +1,61 @@
+{
+  "title": "Den závěrečné přehlídky",
+  "intro": "Skupina zkušených umělců, povolána k velkolepé demonstraci moci, se ocitla tváří v tvář nečekané pravdě, která navždy změnila jejich životy.",
+  "clues": [
+    "Byli jsme proslulí svým řemeslem, mistři iluzí a triků.",
+    "Vládce nás povolal, abychom se postavili vyzyvateli, který ovládal jednoduchou hůl.",
+    "Když jsme spatřili pravdu, padli jsme na zem a prohlásili jsme, že uvěřili v Pána světů.",
+    "Tyran nám vyhrožoval přísným trestem, ale my jsme nezaváhali.",
+    "Byli jsme mezi prvními, kdo uvěřili poselství poté, co jsme byli svědky jasného znamení.",
+    "Byli jsme umučeni pro naši víru, ale budeme první, kdo vstoupí do ráje se spravedlivými."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Faraónovi kouzelníci",
+        "Izraelité",
+        "Lidé z Thamudu",
+        "Učedníci Izáše",
+        "Armáda Abrahy"
+      ],
+      "answer": "Faraónovi kouzelníci"
+    },
+    "trial": {
+      "label": "Zkušební verze / událost",
+      "options": [
+        "Soutěž s prorokem Musou",
+        "Stavba věže",
+        "Velká potopa",
+        "Mor kobylek",
+        "Rozdělující se moře"
+      ],
+      "answer": "Soutěž s prorokem Musou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Festivalový den",
+        "Údolí Tuwy",
+        "Město Iram",
+        "Zahrada věčnosti",
+        "Arafatská pláň"
+      ],
+      "answer": "Festivalový den"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byli ukřižováni na veřejnosti",
+        "Utopili se v moři",
+        "Stali se z nich následovníci proroka",
+        "Byli posláni do exilu",
+        "Byli pohlceni ohněm"
+      ],
+      "answer": "Byli ukřižováni na veřejnosti"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

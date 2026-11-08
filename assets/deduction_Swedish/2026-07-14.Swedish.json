@@ -1,0 +1,61 @@
+{
+  "title": "Skyttegravens själar",
+  "intro": "Du reser tillbaka till en tid då en hänsynslös härskare krävde absolut hängivenhet till falska gudar. En liten grupp hängivna själar vägrade och fick ett så hårt straff att det blev evigt förbannat. Deras historia ekar genom Koranen som ett bevis på orubblig tro. Kan du identifiera denna ståndaktiga grupp?",
+  "clues": [
+    "Vi levde i ett land under tyranni av en härskare som krävde dyrkan av falska gudar",
+    "Vårt samhälle utsattes för svår förföljelse enbart för vår tro på Allah allena",
+    "Härskaren beordrade att en stor dike skulle grävas och eldas med våldsamma lågor",
+    "Eftersom vi vägrade att avsäga oss vår tro, kastades vi ner i den flammande gropen en efter en",
+    "Vår berättelse blev en del av Koranen, och de som förföljde oss blev evigt förbannade.",
+    "Suran som beskriver vår prövning är uppkallad efter himlens stora himmelska tecken"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Skyttegravens följeslagare (Ashab al-Ukhdud)",
+        "Grottans folk (Ashab al-Kahf)",
+        "Sabbatens folk",
+        "Folket i A'ad",
+        "Folket i Thamud"
+      ],
+      "answer": "Skyttegravens följeslagare (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Vår rättegång",
+      "options": [
+        "Att bli levande bränd i en brinnande grop",
+        "Att vara instängd i en grotta i många år",
+        "Fiske på den heliga vilodagen",
+        "Förstörs av en ylande vind",
+        "Att döda en helig kamelhona"
+      ],
+      "answer": "Att bli levande bränd i en brinnande grop"
+    },
+    "location": {
+      "label": "Nyckelelementet",
+      "options": [
+        "En flammande skyttegrav av eld",
+        "En gömd grotta med en lojal hund",
+        "Höga pelare i en forntida dömd stad",
+        "Bergsbostäder uthuggna i stenklippor",
+        "En öppen slätt sveps av våldsamma vindar"
+      ],
+      "answer": "En flammande skyttegrav av eld"
+    },
+    "outcome": {
+      "label": "Vårt resultat",
+      "options": [
+        "Vi led martyrdöden och förföljarna blev evigt förbannade",
+        "Vi vaknade efter att ha sovit i 309 år",
+        "Vi förvandlades till apor för vår överträdelse",
+        "En mäktig vinande vind förstörde oss alla",
+        "Ett enda förödande rop krossade vår existens"
+      ],
+      "answer": "Vi led martyrdöden och förföljarna blev evigt förbannade"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

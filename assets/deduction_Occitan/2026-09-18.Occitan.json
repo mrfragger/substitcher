@@ -1,0 +1,61 @@
+{
+  "title": "La Crida de la Val Sagrada",
+  "intro": "Al delà de las paginas de l'istòria se tròba l'istòria d'una anma que se plaçava entre un governant poderós e un pòble entièr esclavat. Aquel individú foguèt cridat a desliurar una nacion de la tirania, en fasent de meravilhas que desfisavan cada lei naturala. D'un mont sacrat a un miracle sus las aigas, aquel servicial d'Allah foguèt testimòni de signes que farián resson dins los sègles. Vòstra tòca uèi es d'identificar aquela figura remarcabla que son legat faguèt lo cors de l'istòria umana.",
+  "clues": [
+    "Nasquèri pendent un temps ont mon pòble afrontèt un decrèt mortal, e ma familha me placèt dins las aigas per salvar ma vida.",
+    "Foguèri trobat e elevat dins lo quite ostal del regent qu'aviá ordenat las mòrts de mon genre.",
+    "Fugiguèri cap a un mont sacrat ont vegèri de fuòc sus un arbre que foguèt pas consumit, e una votz me parlèt d'aquò.",
+    "Foguèri tornat a aquel quite sobeiran amb de miracles, exigissent la libertat de mon pòble esclau.",
+    "Tustèri la mar amb mon baston, e se despartiguèt en camins secs, engolint los perseguidors que seguissián mon pòble.",
+    "Comuniguèri amb mon Senhor sus un mont pendent quaranta nuèches, e me foguèron concedidas de tauletas de guida divina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Musa",
+        "Profèta Harun",
+        "Lo profèta Ibrahim",
+        "Lo profèta Yusuf",
+        "Lo profèta Dawud"
+      ],
+      "answer": "Lo profèta Musa"
+    },
+    "trial": {
+      "label": "Mon ensag de definicion",
+      "options": [
+        "La Despartiment de la Mar",
+        "Construccion de la Granda Arca",
+        "Jutjament per un fuòc ardent",
+        "Confinament dins lo ventre d'una balena",
+        "Emprisonament per un foncionari egipcian"
+      ],
+      "answer": "La Despartiment de la Mar"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un baston de pastre",
+        "Una granda arca de fusta",
+        "Una cauna ont lo temps dormissiá",
+        "Un Jardin amb doas fonts",
+        "Un tròn ornat d'aur"
+      ],
+      "answer": "Un baston de pastre"
+    },
+    "outcome": {
+      "label": "Lo resultat",
+      "options": [
+        "Mon pòble traversèt la mar per la seguretat",
+        "Un grand inondacion destruguèt los increduls",
+        "Lo fuòc d'un tiran venguèt fresc e pacific",
+        "La mar lancèt son captiu sus la riba",
+        "Lo Captiu Venguèt lo Tresaurièr d'Egipte"
+      ],
+      "answer": "Mon pòble traversèt la mar per la seguretat"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

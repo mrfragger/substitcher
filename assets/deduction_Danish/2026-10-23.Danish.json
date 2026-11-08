@@ -1,0 +1,61 @@
+{
+  "title": "Missionen i den gamle by",
+  "intro": "En støvet, gammel by, dens indbyggere dybt forankret i fornægtelse, og en sidste advarsel, der gik ubemærket hen. I dag kan du indtage rollen som dem, der er sendt af Allah for at overbringe et budskab til et stædigt folk. En historie om afvisning, en enestående troens stemme og en afslutning beseglet af et ødelæggende dekret. Hvem taler gennem disse spor?",
+  "clues": [
+    "Vi blev sendt af Allah til en by, hvis folk havde vendt sig bort fra sandheden",
+    "To af os kom først, så sluttede en tredje sig til for at styrke vores mission",
+    "Byens indbyggere afviste os og sagde, at vi ikke var andet end mennesker ligesom dem",
+    "En enkelt sjæl fra den fjerneste ende af byen løb hen for at fortælle folk, at de skulle følge os",
+    "Vi tryglede dem, men de forhærdede deres hjerter og vendte sig imod os",
+    "Med et eneste ødelæggende råb fra himlen blev hele vores by tavs"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Byens budbringere i Surah Ya-Sin",
+        "Hawwariyyun (disciple af Isa)",
+        "Troldmændene ved Faraos hof",
+        "Sabbattens ledsagere",
+        "Elefantens folk"
+      ],
+      "answer": "Byens budbringere i Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Afvist og kaldt løgnere af byens borgere",
+        "Brændt levende i en stor flammende ild",
+        "Slugt af en stor fisk i det dybe hav",
+        "Tvunget til at arbejde med at bygge en tårnhøj søjle",
+        "Tortureret i en skyttegrav af rasende ild"
+      ],
+      "answer": "Afvist og kaldt løgnere af byens borgere"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Den gamle by (al-Qaryah)",
+        "En stor flammende ovn",
+        "Maven på en stor fisk",
+        "Den høje himmelberørende søjle",
+        "Det hellige hus (Kaabaen)"
+      ],
+      "answer": "Den gamle by (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Byen blev ødelagt af et enkelt, ødelæggende råb (Sayha)",
+        "Tyrannen og hans hær druknede i det delte hav",
+        "Menneskerne blev forvandlet til aber og aber",
+        "En regn af sten fra himlen ødelagde byen",
+        "En voldsom oversvømmelse skyllede hele samfundet med sig"
+      ],
+      "answer": "Byen blev ødelagt af et enkelt, ødelæggende råb (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

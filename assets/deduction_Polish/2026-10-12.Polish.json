@@ -1,0 +1,61 @@
+{
+  "title": "Przysięga Nienarodzonego",
+  "intro": "Szczera dusza złożyła świętą obietnicę przed narodzinami dziecka. Historia tej postaci rozgrywa się w murach sanktuarium, gdzie oddanie spotyka się z boską akceptacją. Kim jest ten sługa Allaha?",
+  "clues": [
+    "Należałem do rodziny czczonej w Koranie.",
+    "Złożyłam uroczystą przysięgę, że poświęcę moje nienarodzone dziecko służbie Allahowi.",
+    "Kiedy urodziłam, byłam zaskoczona, że ​​to córka, chociaż spodziewałam się syna.",
+    "Nadałem swojemu dziecku imię Maryam, które odzwierciedla oddanie i służbę.",
+    "Zwracałam się do Allaha z prośbą o ochronę mojego dziecka i jego potomków przed przeklętym Szatanem.",
+    "Moje dziecko zostało przyjęte przez Pana i oddane pod opiekę Proroka Zachariasza w sanktuarium."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Żona Imrana (Matka Maryam)",
+        "Asiya, żona faraona",
+        "Maryam, matka Isy",
+        "Matka proroka Musy",
+        "Królowa Saby"
+      ],
+      "answer": "Żona Imrana (Matka Maryam)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Przysięgając poświęcić swoje dziecko świątyni",
+        "Wrzucenie do ognia",
+        "Przejście przez morze suchym lądem",
+        "Budowanie wielkiej arki",
+        "Połknięcie przez dużą rybę"
+      ],
+      "answer": "Przysięgając poświęcić swoje dziecko świątyni"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Sanktuarium (mihrab), w którym umieszczono jej dziecko",
+        "Arka Przymierza",
+        "Złoty cielec",
+        "Personel, który zamienił się w węża",
+        "Palma daktylowa, pod którą odpoczywała"
+      ],
+      "answer": "Sanktuarium (mihrab), w którym umieszczono jej dziecko"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Jej dziecko zostało przyjęte i oddane pod opiekę proroka Zachariasza",
+        "Została uratowana przed karą tyrana",
+        "Dano jej syna o imieniu Yahya",
+        "Jej lud został zniszczony przez burzę",
+        "Została królową wielkiego królestwa"
+      ],
+      "answer": "Jej dziecko zostało przyjęte i oddane pod opiekę proroka Zachariasza"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

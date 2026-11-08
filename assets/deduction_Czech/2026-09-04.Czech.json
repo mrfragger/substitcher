@@ -1,0 +1,61 @@
+{
+  "title": "Melodie, která pohnula horami",
+  "intro": "Chystáte se odhalit příběh pozoruhodného služebníka Alláha. V zemi poslů a vládců byla tato postava obdařena božskou knihou, mocným hlasem a silou nad železo. Dokážete při čtení indicií identifikovat, o koho by se mohlo jednat?",
+  "clues": [
+    "Byl jsem služebníkem Alláha, kterému byla dána zvláštní kniha.",
+    "Měl jsem krásný hlas a moje chvála byla tak milovaná, že se ke mně přidávaly i kopce a ptáci.",
+    "Ve slavné bitvě jsem čelil silnému soupeři a přestože jsem byl menší, zvítězil jsem.",
+    "Železo se pro mě stalo poddajným, což mi umožnilo vyrobit si brnění vlastníma rukama.",
+    "Byl jsem ustanoven vládcem nad velkým národem a má moudrost v úsudku byla proslulá.",
+    "Mému synovi, také prorokovi, byla dána moc nad větrem a džiny."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Dawud (David)",
+        "Prorok Sulajmán (Šalamoun)",
+        "Prorok Músa (Mojžíš)",
+        "Prorok Harun (Áron)",
+        "Prorok Iljas (Eliáš)"
+      ],
+      "answer": "Prorok Dawud (David)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Poražený Goliáš (Džalut)",
+        "Rozdělil moře",
+        "Přežil velrybu",
+        "Byl vhozen do ohně",
+        "Postaven Archa"
+      ],
+      "answer": "Poražený Goliáš (Džalut)"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Žalmy (Zabur)",
+        "Tóra (Tawrat)",
+        "Evangelium (Indžil)",
+        "Svitky Ibrahima",
+        "Korán"
+      ],
+      "answer": "Žalmy (Zabur)"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Stal se prorokem a králem Izraele",
+        "Stal se vládcem Egypta",
+        "Byl pozvednut do nebes",
+        "Byl zničen bouří",
+        "Stal se společníkem jeskyně"
+      ],
+      "answer": "Stal se prorokem a králem Izraele"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

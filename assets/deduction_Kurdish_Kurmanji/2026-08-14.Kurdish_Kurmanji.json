@@ -1,0 +1,61 @@
+{
+  "title": "Destên Lanetkirî",
+  "intro": "Hûn di kolanên bizmarî yên Mekkeya kevnar de radiwestin, li wir giyanekî bi bandor û dewlemend carekê ji banga rastiyê dûr ketibû. Çîroka vê kesayetiyê bîranînek eşkere ye ku girêdanên xwînê nikarin zincîrên serbilindiyê bi ser bixin. Ev kî ye ku navê wî bi agirê li bendê ye deng vedide?",
+  "clues": [
+    "Ez li kolanên Mekkeyê bi serbilindiyekê digeriyam ku min ji rastiyê kor dikir, her çend peyamber ji xwîna min bi xwe bû jî.",
+    "Mal û milkên min pir mezin bûn, lê ew ji bo min bûn nifir ne wek mertal.",
+    "Pirtûka rêberiyê behsa hilweşîna min dike, radigihîne ku dest û canê min wê helak bibin.",
+    "Hevjîna min tevlî kampanyaya min a dijminatiyê bû, û tirî kom kir da ku li ser rêya kesê ku gazî Xwedê dikir biçîne.",
+    "Di roja qiyametê de, ez ê bikevim nav agirê gurr û geş, û hevjîna min dê têlek ji têlên xurmê li dora stûyê wê bigire.",
+    "Ez bi navekî têm nasîn ku tê wateya 'bavê agir' — navekî ku pêşbîniya wargeha min a herheyî dike."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Ebû Leheb",
+        "Ebû Cehl",
+        "Ebû Talib",
+        "Ebû Sufyan",
+        "El-Welîd ibn el-Muxîre"
+      ],
+      "answer": "Ebû Leheb"
+    },
+    "trial": {
+      "label": "Ceribandin an Bûyera Sereke",
+      "options": [
+        "Li dijî Pêxember derket û di Quranê de nifir lê hat kirin",
+        "ji bo wêrankirina Kabeyê fermandariya artêşekê kir",
+        "Hewl dan bi keviran Pêxember bikujin",
+        "Baweriya bi parçebûna heyvê red kir",
+        "Ji bo gihîştina ezmanan bircêk ava kir"
+      ],
+      "answer": "Li dijî Pêxember derket û di Quranê de nifir lê hat kirin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Agirê Dojehê yê geş",
+        "Karmendê Mûsa",
+        "Keştiya Nûh",
+        "Kaniya Zemzemê",
+        "Golika Zêrîn"
+      ],
+      "answer": "Agirê Dojehê yê geş"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ew ê bikeve agirê geş, û dewlemendiya wî dê sûdê jê re nede",
+        "Ew tobe kir û bû bawermend",
+        "Piştî ku dev ji gotina xwe berda, ew hate bexşandin",
+        "Ew wek şehîd ket",
+        "Ew hate hilkişandin ber bi ezmanan ve"
+      ],
+      "answer": "Ew ê bikeve agirê geş, û dewlemendiya wî dê sûdê jê re nede"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

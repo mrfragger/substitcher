@@ -1,0 +1,61 @@
+{
+  "title": "la melodia delle montagne al crepuscolo",
+  "intro": "Ascolta le valli risuonare di lode accanto a un servo eletto di Allah. Una voce dotata di melodia, un giudizio ricercato dai contendenti nella camera e un metallo ammorbidito dal comando divino attendono di essere scoperti. Quale figura di adorazione e di giusto governo parla attraverso questi segni?",
+  "clues": [
+    "Sono stato benedetto da Allah con abbondanza e una voce melodiosa di lode.",
+    "Allah mi ha insegnato a comprendere il linguaggio del giusto giudizio tra le parti in causa.",
+    "Ho affrontato in battaglia un possente guerriero gigante e, per volontà di Allah, ho prevalso su di lui.",
+    "Da Allah ho ricevuto saggezza, autorità e una scrittura rivelata contenente i salmi.",
+    "La sera e all'alba, le montagne e gli uccelli si univano a me nel glorificare Allah.",
+    "Allah mi ha insegnato a confezionare cotte di maglia con il ferro che era stato reso morbido per me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Dawud (Davide)",
+        "Il profeta Ismaele",
+        "Profeta Yahya (Giovanni)",
+        "Dhul-Kifl",
+        "Profeta Al-Yasa (Eliseo)"
+      ],
+      "answer": "Profeta Dawud (Davide)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Sconfisse Jalut (Golia) in battaglia per volontà di Allah.",
+        "Costruirono l'Arca per sopravvivere al grande diluvio.",
+        "Fu gettato nel fuoco che Allah rese freddo",
+        "Fu inghiottito da un grosso pesce nel mare",
+        "Fu elevato al cielo senza aver conosciuto la morte"
+      ],
+      "answer": "Sconfisse Jalut (Golia) in battaglia per volontà di Allah."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Montagne e uccelli che si uniscono nella lode di Allah",
+        "Un bastone che si è trasformato in un serpente",
+        "Un fuoco che si è raffreddato e ha portato pace",
+        "Una cammella inviata come segno al popolo",
+        "Un'arca di legno che riposa sul monte Judi"
+      ],
+      "answer": "Montagne e uccelli che si uniscono nella lode di Allah"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Concesse la regalità, la saggezza e lo Zabur (Salmi)",
+        "Dopo ferventi preghiere, gli fu concesso un figlio in tarda età.",
+        "Ha avuto la sicurezza nella grotta per molti anni",
+        "Gli fu concessa una sorgente di Zamzam nel deserto.",
+        "È stata concessa la morte per annegamento dell'esercito in mare."
+      ],
+      "answer": "Concesse la regalità, la saggezza e lo Zabur (Salmi)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Peujabat Taman nyan",
+  "intro": "Lam saboh taman nyang subur, saboh masyarakat jipeugot janji nyang suci. Teuma tekad awaknyan teu-uji watée keuheundak ilahi jicampur tangan, ji-ubah karunia awaknyan jeuet keu tanoh nyang tan.",
+  "clues": [
+    "Kamoe geubri beureukat deungon taman nyang le that, teuma kamoe jeuet keu sombong.",
+    "Kamoe peugot reuncana keu kamoe panen hana meubagi-bagi keu ureung gasien.",
+    "Kamoe beurangkat beungoh that, yakin keu skema kamoe.",
+    "Teuma watèë kamoë trôh, kamoë meurumpok taman kamoë ka hancô lam siuroë.",
+    "Kamoe sadar keusalahan kamoe dan mulai saleng meusalah.",
+    "Akhéjih kamoe meutobat, tapi peulajaran nyan ka treb that."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Soe Geutanyoe?",
+      "options": [
+        "Ureung Taman .",
+        "Ureueng Gua .",
+        "Ureung Gajah .",
+        "Ureueng Tsamud .",
+        "Ureueng 'Ad ."
+      ],
+      "answer": "Ureung Taman ."
+    },
+    "trial": {
+      "label": "Sidang/Acara",
+      "options": [
+        "Saboh taman ka meuubah jeuet keu abe .",
+        "Ié raya nyang peuhancô mandum .",
+        "Saboh deuk nyang jipoh nanggroe .",
+        "Saboh teuntra cicém jijak seurang .",
+        "Angen raya nyang jipeuhabéh bak-bak kayée ."
+      ],
+      "answer": "Saboh taman ka meuubah jeuet keu abe ."
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Saboh taman",
+        "Saboh guha",
+        "Saboh kapai",
+        "Saboh gunong",
+        "Saboh meuligoe ."
+      ],
+      "answer": "Saboh taman"
+    },
+    "outcome": {
+      "label": "Hasee",
+      "options": [
+        "Awaknyan ka meutobat teuma gadôh taman awaknyan .",
+        "Awaknyan teupeuhanco banmandum .",
+        "Awaknyan ka ji ubah jeuet keu kera .",
+        "Awaknyan teupeuseulamat sabab meuiman .",
+        "Awaknyan jeuet keu peunguasa ."
+      ],
+      "answer": "Awaknyan ka meutobat teuma gadôh taman awaknyan ."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

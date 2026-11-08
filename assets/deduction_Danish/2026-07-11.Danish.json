@@ -1,0 +1,61 @@
+{
+  "title": "De rejsende i den grønne mark",
+  "intro": "I oldtiden levede to personer i naboland. Deres stier var flettet sammen, men deres hjerter førte dem mod vidt forskellige destinationer. Den ene gik den lige vej, mens den anden forvildede sig ind i fornægtelsens mørke. Kan du opklare mysteriet om disse to høstvogtere?",
+  "clues": [
+    "Jeg besad rigelige afgrøder, frodige høster, der blændede tilskuernes øjne.",
+    "Min nabo besad endnu større gavmildhed end jeg, men jeg begærede deres del mere end min egen.",
+    "Jeg foreslog, at vi fuldstændig destruerede deres afgrøder for at konsolidere alt under min kontrol.",
+    "Jeg bragte også ødelæggelse over min egen høst og ødelagde alt i mine tåbelige planer.",
+    "Jeg stod hjælpeløs, mens mine afgrøder visnede, og min rigdom blev til støv på én nat.",
+    "Jeg havde ingen del i det hinsides, og mit sidste hjem blev en brændende ild."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Manden, der benægtede opstandelse og dom",
+        "Herskeren, der undertrykte den retfærdige landmand",
+        "Den velhavende godsejer, der manglede taknemmelighed",
+        "Landmanden, der begærede sin nabos jord",
+        "Den forræderiske partner, der planlagde ødelæggelse"
+      ],
+      "answer": "Landmanden, der begærede sin nabos jord"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Testen på at modtage guddommelig åbenbaring",
+        "Udfordringen med rigdom og tålmodighed",
+        "Fristelsen til at ødelægge en retfærdig persons levebrød",
+        "Budet om at fordele arven retfærdigt",
+        "Kampen mod en tyranns undertrykkelse"
+      ],
+      "answer": "Fristelsen til at ødelægge en retfærdig persons levebrød"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Paradisets frodige haver",
+        "To tilstødende marker med afgrøder",
+        "Bjergene, der var vidne til ødelæggelse",
+        "Det hellige fristed i Mekka",
+        "Flodbredderne i et velsignet land"
+      ],
+      "answer": "To tilstødende marker med afgrøder"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Det evige paradis som belønning for retfærdighed",
+        "Fuldstændig ødelæggelse af begge afgrøder i dette liv",
+        "Eksil og vandring til døden",
+        "Midlertidig velstand efterfulgt af evig ild",
+        "En mirakuløs genoprettelse og fordoblet dusør"
+      ],
+      "answer": "Fuldstændig ødelæggelse af begge afgrøder i dette liv"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

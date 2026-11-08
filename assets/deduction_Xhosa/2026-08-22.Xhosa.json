@@ -1,0 +1,61 @@
+{
+  "title": "Idolophu Eyayikholelwa Kwixesha",
+  "intro": "Kwiingxelo zenceba kaThixo, kukho uluntu oluye lwatshintsha yaba ngumzuzu wokuqonda izinto ngokubanzi. Uza kutyhila ibali labo—ibali lesilumkiso, inguquko, kunye nokuphumla okubenza bahluke kwisiphelo sezinye iintlanga.",
+  "clues": [
+    "Sasingabantu ababethunywe isithunywa kubo, saza sayeka ubizo lwakhe ekuqaleni.",
+    "Xa iimpawu zesohlwayo esisondelayo zacaca, saqonda ukuba isilumkiso sakhe siyinyaniso.",
+    "Sabuyela eNkosini yethu ngenguquko enyanisekileyo, kwaye ukholo lwethu lwamkelwe.",
+    "Isohlwayo esasimiselwe phezu kwethu sasuswa ngenxa yokholo lwethu.",
+    "Ibali lethu licatshulwe njengento eyahlukileyo phakathi kweedolophu ezazikholelwa emva kokubona isohlwayo.",
+    "Sasingabantu bomprofeti owaginywa yinenga, kodwa sasindiswa ekutshatyalalisweni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseYunus",
+        "Abantu baseNuh",
+        "Abantu baseHud",
+        "Abantu baseSalih",
+        "Abantu bakaLut"
+      ],
+      "answer": "Abantu baseYunus"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umkhukula otshabalalisayo",
+        "Umoya ovuthuzayo onamandla",
+        "Isohlwayo esisondelayo sehlazo esasithintelwe",
+        "Umhlaba uyabaginya",
+        "Imvula yamatye"
+      ],
+      "answer": "Isohlwayo esisondelayo sehlazo esasithintelwe"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Inkamela eyimazi",
+        "Isixeko esinamawaka alikhulu",
+        "Abasebenzi bakaMusa",
+        "Ingqokelela yeQarun"
+      ],
+      "answer": "Isixeko esinamawaka alikhulu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Batshatyalaliswa ngokupheleleyo",
+        "Banikwa ulonwabo okwethutyana",
+        "Baguqulwa baba ziinkawu",
+        "Batshoniswe ngamanzi",
+        "Baginywa ngumhlaba"
+      ],
+      "answer": "Banikwa ulonwabo okwethutyana"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

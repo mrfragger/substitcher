@@ -1,0 +1,61 @@
+{
+  "title": "Tekepbirligiň ýurdunda jogap berilmedik çagyryş",
+  "intro": "Siz bir wagtlar beýik bolan siwilizasiýanyň harabalyklarynda dursuňyz, bu ýerde güýç we tekepbirlik çägi ýokdy. Olaryň arasynda bir ilçi ýöredi we hakykata çagyrýardy, ýöne olaryň ýürekleri gatylaşypdy. Duýduryşa üns berilmedi we asmanyň özi gazap guralyna öwrüldi. Bu ilçi kimdi we çagyryşy ret edenleriň ahyry näme boldy?",
+  "clues": [
+    "Men güýji boýunça deňsiz-taýsyz we her belent ýerde ýadygärlik guran bir halkyň ýanyna iberildim.",
+    "Meniň halkym özüni ýeňilmez hasaplap: «Bizden güýçlüsi kim bar?» diýdi.",
+    "Men olary diňe Alla ybadat etmäge çagyrdym, ýöne olar meni akmaklykda we ýalançylykda aýypladylar.",
+    "Eger men dogruçyl bolsam, wada beren jezamy çekmegime olar meni çagyryp başladylar.",
+    "Allatagala olaryň üstüne hiç bir zady aýamaz ýaly güýçli ýel iberdi.",
+    "Men we meniň bilen iman edenler Allanyň rehimi bilen halas bolduk, kapyrlar bolsa düýbünden ýok edildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Hud pygamber",
+        "Salih pygamber",
+        "Şuaýb pygamber",
+        "Lut pygamber",
+        "Nuh pygamber"
+      ],
+      "answer": "Hud pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Kafirleri ýok eden güýçli ýel",
+        "Kafirleri uly bir sil basdy",
+        "Daş ýagyşy ýagdy",
+        "Kafirleri güýçli bir gykylyk gurşap aldy",
+        "Kafirleriň ýer titremesi boldy"
+      ],
+      "answer": "Kafirleri ýok eden güýçli ýel"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýalpyldawsyz ýel",
+        "Agaçdan ýasalan sandyk",
+        "Däne",
+        "Toýun daşlaryndan ýagyş",
+        "Ýalpyldap duran ot"
+      ],
+      "answer": "Ýalpyldawsyz ýel"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Hud we möminler halas boldular, kapyrlar bolsa ýok edildi.",
+        "Hud ýokary derejä göterildi",
+        "Hud öz halky tarapyndan öldürildi",
+        "Hudyň halky toba etdi we halas boldy",
+        "Hud öz halkyny jezadan öň terk etdi"
+      ],
+      "answer": "Hud we möminler halas boldular, kapyrlar bolsa ýok edildi."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

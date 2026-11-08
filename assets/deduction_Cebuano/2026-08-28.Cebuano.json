@@ -1,0 +1,61 @@
+{
+  "title": "Ang Babag sa Karaang Balay",
+  "intro": "Sa sagradong siyudad, usa ka gamhanang tawo ang nagbukal sa kasuko samtang ang usa ka bag-ong mensahe nagsugod sa pagkaylap. Kining tawhana, kansang ngalan nahimong sinonimo sa pagsupak sa kamatuoran, nakakita sa ilang impluwensya nga nahugno ubos sa gibug-aton sa balaang pagpadayag. Kinsa kining kalag, kansang kapalaran naselyohan sa balas sa usa ka bantogang natad sa panggubatan?",
+  "clues": [
+    "Usa ako ka pangulo sa akong katawhan, nailhan tungod sa akong bahandi ug impluwensya sa usa ka siyudad nga adunay karaang santuwaryo.",
+    "Sa dihang usa ka lalaki gikan sa among tribo nagsugod sa pagmantala sa mensahe sa usa ka Diyos, akong gibugalbugalan siya ug ang iyang mga pinadayag, nga gitawag kini nga mga sugilanon lamang sa nangagi.",
+    "Giatubang nako kadtong tawhana samtang nag-ampo siya duol sa sagrado nga estruktura, nga naghulga nga ihunong ang iyang pagsimba kon gikinahanglan.",
+    "Usa ako sa mga lider nga nagplano sa pagpahilom sa bag-ong pagtuo, nga gisupak ang mga sumusunod niini gamit ang mga pulong ug mga hinagiban.",
+    "Nagmartsa ko uban sa usa ka kasundalohan paingon sa usa ka lugar nga gitawag og Badr, masaligon nga among madugmok ang gamay nga pundok sa mga magtutuo.",
+    "Apan sa maong natad sa panggubatan, natapos ang akong kinabuhi, ug ang akong kamatayon nahimong usa ka leksyon alang niadtong nagpadayon sa pagkawalay pagtuo human sa tin-aw nga mga timaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagpugong sa Propeta sa pag-ampo sa Kaaba",
+        "Pagtukod sa Kaaba",
+        "Pagsulat sa Quran",
+        "Nanguna sa kasundalohan sa elepante",
+        "Pagbahin sa bulan"
+      ],
+      "answer": "Pagpugong sa Propeta sa pag-ampo sa Kaaba"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Kaaba",
+        "Ang Arka ni Propeta Nuh",
+        "Ang Sungkod ni Propeta Musa",
+        "Ang Bulawanong Baka",
+        "Ang Trono sa Rayna sa Sheba"
+      ],
+      "answer": "Ang Kaaba"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Namatay sa Gubat sa Badr",
+        "Naghinulsol ug nahimong Muslim",
+        "Mikalagiw ngadto sa Abyssinia",
+        "Namatay sa Tuig sa Elepante",
+        "Nahimong kauban sa Propeta"
+      ],
+      "answer": "Namatay sa Gubat sa Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

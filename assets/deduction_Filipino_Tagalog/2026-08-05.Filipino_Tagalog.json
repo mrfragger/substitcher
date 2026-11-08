@@ -1,0 +1,61 @@
+{
+  "title": "Ang Araw ng Pangwakas na Pagtatanghal",
+  "intro": "Ipinatawag para sa isang dakilang pagpapakita ng kapangyarihan, isang grupo ng mga bihasang tagapagtanghal ang nahaharap sa isang hindi inaasahang katotohanan na magpapabago sa kanilang buhay magpakailanman.",
+  "clues": [
+    "Kilala kami sa aming kahusayan, mga dalubhasa sa ilusyon at panlilinlang.",
+    "Ipinatawag kami ng pinuno upang harapin ang isang kalaban na may hawak na simpleng tungkod.",
+    "Nang makita namin ang katotohanan, nagpatirapa kami, na nagpapahayag ng paniniwala sa Panginoon ng mga sanlibutan.",
+    "Pinagbantaan kami ng malupit na pinuno ng matinding parusa, ngunit hindi kami natinag.",
+    "Kabilang kami sa mga unang naniwala sa mensahe matapos masaksihan ang malinaw na tanda.",
+    "Tayo ay naging martir dahil sa ating pananampalataya, ngunit tayo ang unang makakapasok sa Paraiso kasama ng mga matuwid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Tayo?",
+      "options": [
+        "Ang mga Salamangkero ng Paraon",
+        "Ang mga Israelita",
+        "Ang mga Tao ng Thamud",
+        "Ang mga Disipulo ni Isa",
+        "Ang Hukbo ng Abraha"
+      ],
+      "answer": "Ang mga Salamangkero ng Paraon"
+    },
+    "trial": {
+      "label": "Pagsubok / Kaganapan",
+      "options": [
+        "Pakikipagkumpitensya kay Propeta Musa",
+        "Pagtatayo ng Tore",
+        "Ang Malaking Baha",
+        "Ang Salot ng mga Balang",
+        "Ang Naghahating Dagat"
+      ],
+      "answer": "Pakikipagkumpitensya kay Propeta Musa"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Araw ng Pista",
+        "Ang Lambak ng Tuwa",
+        "Ang Lungsod ng Iram",
+        "Ang Hardin ng Walang Hanggan",
+        "Ang Kapatagan ng Arafat"
+      ],
+      "answer": "Ang Araw ng Pista"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ipinako sila sa krus sa publiko",
+        "Nalunod sila sa dagat",
+        "Sila ay ginawang tagasunod ng propeta",
+        "Sila ay ipinadala sa pagkatapon",
+        "Tinupok sila ng apoy"
+      ],
+      "answer": "Ipinako sila sa krus sa publiko"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

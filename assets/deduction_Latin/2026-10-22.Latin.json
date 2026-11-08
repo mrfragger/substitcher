@@ -1,0 +1,61 @@
+{
+  "title": "Communitas Primae Transgressionis",
+  "intro": "In terra urbium antiquarum, populus quidam olim florebat. Nuntius eos cum clara vocatione visitavit, tamen avertit se et viam quam nemo umquam ingrediebatur secuti sunt. Fabula eorum est de contumacia, nequitia, et poena quae patriam eorum reliquit ut signum omnibus qui cogitant. Quaenam sunt hae animae?",
+  "clues": [
+    "In urbibus planitiei habitavimus, ubi propheta noster nos ad iustitiam vocavit.",
+    "Primi fuimus qui impudentiam commisimus quam nemo antea in toto orbe terrarum fecerat.",
+    "Viatores insidiabamus et mala palam in coetibus nostris committebamus.",
+    "Nuntium ad nos missum repudivimus et minati sumus eum e terra nostra expellere.",
+    "Ad domum eius concurrimus, ut hospites nobis traderet postulantes.",
+    "Poena nostra fuit pluvia lapidum, et urbs nostra eversa est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Populus Lut",
+        "Populus Nuh",
+        "Populus 'Ad",
+        "Populus Thamudensis",
+        "Populus Madyani"
+      ],
+      "answer": "Populus Lut"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Primum actum sodomiae commisit",
+        "Idola colebant",
+        "In commercio fraudatus",
+        "Prophetam eorum interfecerunt",
+        "Parentibus suis non oboedierunt"
+      ],
+      "answer": "Primum actum sodomiae commisit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Urbs planitiei",
+        "Urbs putei",
+        "Urbs fossae",
+        "Urbs elephantis",
+        "Urbs horti"
+      ],
+      "answer": "Urbs planitiei"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Lapidibus pluit et evertit",
+        "Diluvio submersus",
+        "Vento vehementi deleta",
+        "A terra absorptus",
+        "Magno fragore percussus"
+      ],
+      "answer": "Lapidibus pluit et evertit"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "De standhafte Sicher vun der Wourecht",
+  "intro": "An enger Zäit, déi vun Ignoranz an der Verehrung vu falschen Gottheeten gehüllt war, huet sech eng déifgräifend Rees vum Glawen ofgespillt. Dës Persoun huet d'Norme vun hirer Gesellschaft a Fro gestallt a mat onerschütterlecher Iwwerzeegung den eenzege richtege Schëpfer gesicht. Maacht Iech prett, d'Identitéit vun enger Séil opzedecken, där hiert Ierfschaft weiderhin Millioune Leit inspiréiert.",
+  "clues": [
+    "Ech hunn d'Himmelskierper a Fro gestallt, op der Sich no dem richtegen Här, deen alles erschaf an erhalen huet.",
+    "Ech krut den Uerder, meng Heemecht ze verloossen a an e Land ze reesen, dat vun Allah geseent gouf.",
+    "Ech hunn d'Idolen vu mengem Vollek erausgefuerdert a mech direkt mat hirer Sinnlosegkeet konfrontéiert, andeems ech se gebrach hunn.",
+    "Ech gouf vu mengem Vollek an e rosen Feier gehäit, awer et ass op dem Gebot vum Allah kill a friddlech fir mech ginn.",
+    "Ech gouf mat dem Gebot op d'Prouf gestallt, mäi léiwe éischtgebuerene Jong ze opferen, eng Prüfung vun der ultimativer Ënnerwerfung.",
+    "Ech, zesumme mat mengem Jong, hunn d'Fundamenter vum éischten Haus vun der Gottesdéngscht op der Äerd gebaut, engem Hellegtum fir déi ganz Mënschheet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Yusuf",
+        "Prophet Salih",
+        "Prophet Ibrahim",
+        "Prophet Isa"
+      ],
+      "answer": "Prophet Ibrahim"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Déi grouss Iwwerschwemmung",
+        "D'Spaltung vum Mier",
+        "D'Zerstéierung vum Thamud",
+        "Den Uerder, e Jong ze opferen",
+        "D'Rees duerch d'Wüst mat der Ark"
+      ],
+      "answer": "Den Uerder, e Jong ze opferen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Personal",
+        "De Bierg vun Tur",
+        "D'Ark",
+        "D'Kaaba",
+        "Dat gëllent Kalb"
+      ],
+      "answer": "D'Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gëtt Herrscher vun Egypten",
+        "Seng Leit sinn erdronk",
+        "Huet Wäisheet an eng gerecht Ofstamung geschenkt",
+        "Gouf vun engem Wal verschléckt",
+        "Seng Stad gouf ëmgekéiert"
+      ],
+      "answer": "Huet Wäisheet an eng gerecht Ofstamung geschenkt"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

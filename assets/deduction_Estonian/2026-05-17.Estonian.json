@@ -1,0 +1,61 @@
+{
+  "title": "Kivi arhitektid",
+  "intro": "Kujutage ette võimast tsivilisatsiooni, mis on õnnistatud jõu ja oskustega ning mis ehitab mäenõlvadele uhkeid eluruume. Sellel kollektiivil oli tohutu õitseng ja ainulaadne arhitektuuriline oskus. Vaatamata selgetele hoiatustele valisid nad tee, mis viis dramaatilise ja unustamatu lõpuni. Kas suudate tuvastada selle grupi, kelle lugu on sügavaks õppetunniks kõigile, kes selle üle järele mõtlevad?",
+  "clues": [
+    "Meile anti jõudu ja oskusi, mis võimaldasid meil otse mägedesse uhkeid maju raiuda.",
+    "Meile anti Allahilt selge märk – ainulaadne olend, keda tohtis häirimatult karjatada jätta.",
+    "Meie kogukond muutus ülbeks, seades kahtluse alla jumaliku sõnumi, mille oli toonud meie endi seast pärit sõnumitooja.",
+    "Me sepitsesime vandenõu imelise märgi kahjustamiseks, hoolimata hoiatustest karmi karistuse eest.",
+    "Me eirasime käsku lasta erilisel olendil meie kaevust juua ülepäeviti.",
+    "Meid tabas laastav lõpp, olles pärast meie üleastumist maha löödud üheainsa, hirmuäratava plahvatuse poolt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "'Redi inimesed",
+        "Midjani rahvas",
+        "Elevandi rahvas",
+        "Thamudi rahvas",
+        "Luti rahvas"
+      ],
+      "answer": "Thamudi rahvas"
+    },
+    "trial": {
+      "label": "Meie peamine kohtuprotsess/üritus",
+      "options": [
+        "Üleujutus, mis maad haaras",
+        "Mere lõhenemine",
+        "Häving üheainsa plahvatuse/hüüde tagajärjel",
+        "Linna põlemine",
+        "Mäe muutumine tolmuks"
+      ],
+      "answer": "Häving üheainsa plahvatuse/hüüde tagajärjel"
+    },
+    "location": {
+      "label": "Meie loo võtmeelement",
+      "options": [
+        "Kuldne vasikas",
+        "Imeline emane kaamel",
+        "Põlev põõsas",
+        "Rääkiv lind",
+        "Majesteetlik troon"
+      ],
+      "answer": "Imeline emane kaamel"
+    },
+    "outcome": {
+      "label": "Meie lõpptulemus",
+      "options": [
+        "Andis tohutu rikkuse ja võimu",
+        "Ülendatud prohvetiametisse",
+        "Täielik hävitamine jumaliku karistuse läbi",
+        "Pärast siirast meeleparandust andestati",
+        "Hajutatud üle maa rändama"
+      ],
+      "answer": "Täielik hävitamine jumaliku karistuse läbi"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

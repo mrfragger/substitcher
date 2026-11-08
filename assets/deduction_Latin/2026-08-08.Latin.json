@@ -1,0 +1,61 @@
+{
+  "title": "Vox Ante Tempestatem",
+  "intro": "Figura quaedam in deserto surrexit ut gentem potentem ad veritatem revocaret. Populus propter magnifica aedificia et incomparabilem vim notus erat. Attamen superbia eos excaecavit, et audire recusaverunt. Tandem poena gravis eos invasit, parvam tantum fidelium turbam servans.",
+  "clues": [
+    "Ad populum potentem, qui in terris apertis habitabat et propter virtutem suam notus erat, missus sum.",
+    "Populus meus venit post aliam gentem magnam quae deleverat.",
+    "Structuras magnificas habebant et turres altas aedificaverunt.",
+    "Vocavi eos ut unum Deum colerent, sed idola sua deserere noluerunt.",
+    "Poena violenta eos invasit, pepercens tantum eos qui mecum crediderunt.",
+    "Ego sum qui ad populum potentem, Aad nomine, missus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Hud",
+        "Propheta Salih",
+        "Propheta Shu'aib",
+        "Propheta Nuh",
+        "Propheta Ibrahim"
+      ],
+      "answer": "Propheta Hud"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum diluvium",
+        "Ventus vehemens fremens",
+        "Terrae motus et clamor terribilis",
+        "Pluvia lapidum ardentium",
+        "Ignis caelestis desuper"
+      ],
+      "answer": "Ventus vehemens fremens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca magna in monte aedificata",
+        "Camelus singularis",
+        "Baculus qui in serpentem factus est",
+        "Aedificia alta et structurae excelsae",
+        "Rogus flammans"
+      ],
+      "answer": "Aedificia alta et structurae excelsae"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Omnes in magna inundatione submersi",
+        "Populus meus vento vehementi vastatus est, dum ego servatus sum",
+        "Populus meus terrae motu percussus clamat",
+        "Populus meus lapidibus e caelo iactus",
+        "Populus meus in ignem ardentem proiectus est"
+      ],
+      "answer": "Populus meus vento vehementi vastatus est, dum ego servatus sum"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

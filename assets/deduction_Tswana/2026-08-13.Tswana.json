@@ -1,0 +1,61 @@
+{
+  "title": "Moya o o Pelotelele wa Ntlo e e Boitshepo",
+  "intro": "Mo ditsebeng tsa Quran, go tlhagelela setshwantsho go tswa mo losikeng lwa moporofeti yo mogolo, se se neilweng jaaka mpho mo botsofeng. Moya ono o ketekiwa ka ntlha ya boammaaruri jo bo sa reketleng le seabe se se tseneletseng mo go tlhomeng lefelo le le boitshepo le le neng le tla nna lesedi la tumelo. Fa o ntse o bala dintlha tse di go thusang, reetsa lentswe le le tswang mo nakong e e fetileng ka kelotlhoko, ka gonne le bua ka motho wa ntlha.",
+  "clues": [
+    "Ke umakiwa mo Quran mmogo le moporofeti yo mongwe jaaka mpho e e neilweng morongwa yo o godileng.",
+    "Ke ne ke le mongwe wa bana ba babedi ba ba neng ba abelwa moporofeti yoo mo dingwageng tsa gagwe tsa moragonyana.",
+    "Ke akgolwa mo Quran ka go nna boammaaruri mo lefokong la me.",
+    "Ke ne ke rwele tlotlo ya boporofeti mme ka romelwa jaaka morongwa.",
+    "Ke ne ka kopanela le rre mo go tsoseng metheo ya Ntlo e e Boitshepo.",
+    "Ke gakologelwa ke le mongwe wa ba ba neng ba le pelotelele, mme ntlo e e boitshepo e re neng ra e aga e ne ya nna lefelo le batho ba neng ba boela kwa go lone le go sireletsega mo go lone."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Ismail",
+        "Moporofeti Ishaq",
+        "Moporofeti Yaqub",
+        "Moporofeti Zakariya",
+        "Moporofeti Yahya"
+      ],
+      "answer": "Moporofeti Ismail"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go tsosa metheo ya Kaaba le Ibrahim",
+        "Go latlhelwa mo molelong",
+        "Go mediwa ke leruarua",
+        "Go etelela pele Baiseraele go tswa kwa Egepeto",
+        "Go aga araka"
+      ],
+      "answer": "Go tsosa metheo ya Kaaba le Ibrahim"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Kaaba",
+        "Thaba ya Sinai",
+        "Lewatle le Lehibidu",
+        "Namane ya Gauta",
+        "Tshimo ya Edene"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E balelwa mo balwetseng",
+        "A balelwa mo gare ga badiraphoso",
+        "A balelwa mo gare ga maselamotse",
+        "A balelwa mo gare ga ba ba sa dumeleng",
+        "A balelwa mo gare ga baitimokanyi"
+      ],
+      "answer": "E balelwa mo balwetseng"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

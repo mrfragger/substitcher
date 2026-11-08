@@ -1,0 +1,61 @@
+{
+  "title": "Vox e Suburbiis",
+  "intro": "In urbe stas ubi tres nuntii cum signis perspicuis venerunt, sed populus eos deridet et veteribus moribus adhaeret. Ab extremo urbis parte, figura ad turbam currit, anhelans et determinata, veritatem dicere contra repudiationem. Quis est haec anima quae omnia periclitatus est pro nuntio non suo?",
+  "clues": [
+    "Habitavi in ​​populo qui nuntios cum signis manifestis exceperat, tamen illi arroganter aversi sunt.",
+    "Ex remotissima urbis parte accurri cum de clamore nuntiorum audivi.",
+    "Dixi populo meo, 'O populus meus, sequimini nuntios. Sequimini eos qui nullam mercedem a vobis petunt, nam recte ducuntur.'",
+    "Non eram propheta, sed nuntiis credidi et populum meum ad idem faciendum hortatus sum.",
+    "Mei consilium meum deriserunt et me extremistae esse accusaverunt.",
+    "Cum me interfecerunt, Allah mihi dixit ut Paradisum intrarem, et optavi ut populus meus veniam et honorem quem accepi cognosceret."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Vir ex ultima parte urbis (Ya-Sin)",
+        "Unus e tribus nuntiis ad urbem missis",
+        "Mercator urbis insignis",
+        "Princeps urbis",
+        "Dux infidelium"
+      ],
+      "answer": "Vir ex ultima parte urbis (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Praedicans populo suo ut nuntios sequerentur",
+        "Navis aedificanda ad fideles a diluvio servandos",
+        "Pro fide in ignem conici",
+        "A balaena deglutiri",
+        "Regnum et sapientia accipiens"
+      ],
+      "answer": "Praedicans populo suo ut nuntios sequerentur"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ultima pars urbis",
+        "Arca",
+        "Puteus",
+        "Rubus ardens",
+        "Spelunca"
+      ],
+      "answer": "Ultima pars urbis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Paradisum ingressus est et optavit ut populus eius veniam cognosceret",
+        "Cum populo suo submersus est quod nuntium reiecit",
+        "Miraculum camelæ accepi",
+        "Post iudicium princeps factus est",
+        "A Deo servatus est et cum populo suo mansit"
+      ],
+      "answer": "Paradisum ingressus est et optavit ut populus eius veniam cognosceret"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

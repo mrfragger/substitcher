@@ -1,0 +1,61 @@
+{
+  "title": "Gar sakratuaren arima errenditua",
+  "intro": "Aurrean ausardia aparteko istorio bat duzu, non pertsona batek zibilizazio oso baten sinesmen errotuenak zalantzan jartzera ausartu zen. Jarraitu iraganeko xuxurla hauei, eta fede irmoak, biziraupen miragarriak eta milaka milioi pertsonen bidaia espirituala moldatuko zuten oinarriak ezartzeak markatutako bizitza bat aurkituko duzu. Jarraitu arretaz pista bakoitza — su sakratuak oraindik gogoratzen du.",
+  "clues": [
+    "Zeruko gorputzak eta idoloak zizelkatzen zituen etxe batean jaio nintzen, baina nire barne-barneko zerbaitek haiek gurtzen zutena ukatzen zuen.",
+    "Nire lurraldeko agintari boteretsuenaren aurka egin nuen, nire herriak makurtzen zituen idoloak berak apurtuz, eta zeruko Sortzaileak bakarrik merezi zuela debozioa aldarrikatuz.",
+    "Su sutan erretzeko agindua eman zen nire izenean, baina aldarrikatu nuen nik bakarrik zerbitzatzen nuenak salbatuko ninduela — eta garrak hoztu eta seguru bihurtzeko agindua eman zitzaien.",
+    "Jainkozko aginduz ezaguna zitzaidan guztia atzean utzi nuen, haran idorretan zehar familiarekin ibiliz, oraindik ikusten ez nuen hornidura batean konfiantza hartuta.",
+    "Haran antzu batean nire lehen-semearen ondoan zutik, etxe sakratu baten oinarriak eraiki genituen elkarrekin, men egiten duten guztientzat pentsatutako santutegi bat.",
+    "Khalilullah bezala ezagutzen naute —Errukitsuenaren lagun min— eta nire izena betiko lotuta geratu zen amore emateko eta men egiteko fedearekin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ibrahim (Abraham) profeta",
+        "Musa (Moises) profeta",
+        "Nuh (Noe) profeta",
+        "Isa profeta (Jesus)",
+        "Mahoma profeta (la paz eta lah)"
+      ],
+      "answer": "Ibrahim (Abraham) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Tirano batek su bizian botata izatea",
+        "Itsasoko arrain handi baten barruan irentsia izatea",
+        "Anaia jeloskorren ondorioz zulo batera jaistea",
+        "Izaki hegodun baten gainean eramaten ari izatea",
+        "Egurrezko ontzi baten barruan uholde handi bat jasaten"
+      ],
+      "answer": "Tirano batek su bizian botata izatea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Etxe Sakratua (Kaaba)",
+        "Muntai baten gainean eraikitako egurrezko ontzi handi bat",
+        "Itsasoa ireki zezakeen makila bat",
+        "Loaldi luzeko kobazulo bat txakur leial batekin",
+        "Lege errebelatuaren pergamino bat mendi bati eman zitzaion"
+      ],
+      "answer": "Etxe Sakratua (Kaaba)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Khalilullah bezala ezagutu zen, Alaren lagun minaren izena.",
+        "Itsaso zatitu batetik zehar herri bat segurtasunera eraman zuen",
+        "Haizeen eta indar ikusezinen gaineko nagusitasuna eman zitzaion",
+        "Sendatzaile bihurtu zen, sendaketa miragarriekin bedeinkatua",
+        "Hamabi tribu sakabanatu batu zituzten itun bakar baten pean"
+      ],
+      "answer": "Khalilullah bezala ezagutu zen, Alaren lagun minaren izena."
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

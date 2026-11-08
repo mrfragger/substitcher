@@ -1,0 +1,61 @@
+{
+  "title": "Konspirator Terselubung",
+  "intro": "Anda mendapati diri anda berada di hadapan seorang tokoh yang berkuasa dari zaman wahyu. Individu ini dikenali kerana intelek, kekayaan, dan status mereka di kalangan kaum mereka. Apabila tanda-tanda yang jelas datang, mereka mengenali keindahan itu namun memilih untuk menentang daripada tunduk. Apakah yang mendorong jiwa ini untuk merancang dalam kegelapan, dan apakah nasib mereka yang muktamad?",
+  "clues": [
+    "Aku dikurniakan sumber dan pengaruh yang melimpah ruah, menjadikan perkataanku berat di dalam perhimpunan.",
+    "Ketika kata-kata suci dibacakan, aku tidak dapat menafikan kefasihan mereka, tetapi kesombonganku tidak mengizinkanku untuk tunduk.",
+    "Saya mengumpulkan penasihat saya, mengasingkan diri untuk memikirkan cara untuk mempertikaikan mesej tersebut.",
+    "Setelah berfikir panjang, saya mengisytiharkannya hanyalah 'sihir yang diturunkan dari masa lalu' untuk menghalau orang.",
+    "Wahyu itu kemudian ditujukan secara langsung kepadaku: 'Tinggalkan Aku dengan apa yang Aku ciptakan sendirian.' Aku telah dipilih kerana licikku.",
+    "Tidak lama lagi, api yang telah diperingatkan kepadaku akan mencengkam ubun-ubunku, dan aku tidak akan dapat melarikan diri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahal",
+        "Uqbah bin Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Berkomplot untuk membunuh Nabi",
+        "Mengetuai boikot terhadap umat Islam",
+        "Mengumpulkan satu majlis untuk melabelkan al-Quran sebagai sihir",
+        "Berkomplot untuk mengusir Nabi dari Mekah",
+        "Enggan berkongsi kekayaannya dengan anak yatim"
+      ],
+      "answer": "Mengumpulkan satu majlis untuk melabelkan al-Quran sebagai sihir"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Wahyu",
+        "Majlis",
+        "Jambul",
+        "Kekayaan",
+        "Pena"
+      ],
+      "answer": "Jambul"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dia bertaubat dan memeluk Islam",
+        "Dia berhijrah ke Habsyah",
+        "Dia diserang penyakit yang membawa maut",
+        "Dia gugur dalam pertempuran melawan umat Islam",
+        "Dia dihukum ke Neraka"
+      ],
+      "answer": "Dia dihukum ke Neraka"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

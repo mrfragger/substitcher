@@ -1,0 +1,61 @@
+{
+  "title": "Say Solitary Retreat",
+  "intro": "Diad saray salaysay na madibinon pabor, walay kamarerwa ya agnaparaan so kalinisan to, ya insian ed saray totoo ra pian mananap na panbukbukor ed sakey a sagradon direksion. Ag da amta ya sayan inkaapag-apag et mangiter na tanda parad amin a mundo, sakey a subok na pananisia ya pantongtongan ed andi-anggaan.",
+  "clues": [
+    "Dedikado ak ed bilay na serbisyo antis ak ya inyanak.",
+    "Niiyan ak ed panangasikaso na sakey a gagalangen a propita.",
+    "Siak so sinustinian na saray probisyon manlapud si Allah ya amabigla ed guardian ko.",
+    "Inmarawi ak ed pamilyak tan linma ak ed sakey a pasen ed bukig.",
+    "Pinmanengneng ed siak so sakey ya anghil a kaparpara na sakey a perpekton too, ya angitarok na balita nipaakar ed sakey a puron anak.",
+    "Nen pinmawil ak ya awit koy kapangiyanak ko, inakusaan ak na saray totook, balet nansalitay ogogaw a mangyagel ed siak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiyah (asawa nen Faraon)",
+        "Hajar (ina nen Ismail)",
+        "Sarah (asawa nen Ibrahim)",
+        "Say ina nen Musa"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Milagroson inkilukon tan inkianak na sakey a laki",
+        "Say pangibantak ed apoy",
+        "Say inakmon na sakey a higanten sira",
+        "Manggagawa na baleg a biong",
+        "Manbabaliw ed dayat"
+      ],
+      "answer": "Milagroson inkilukon tan inkianak na sakey a laki"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey a nisulinek a pasen ed bukig",
+        "Say manpopoolan a kakiewan",
+        "Say Ambalangan Dayat",
+        "Say bato ya nanlapuan na danum",
+        "Say balyena"
+      ],
+      "answer": "Sakey a nisulinek a pasen ed bukig"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Sakey ya ugaw so nansalita pian idepensa so ina to",
+        "Say dayat so naapag",
+        "Nagmaliw ya ambetel tan maligen so apoy",
+        "Insuka na balyena ed gilig na dayat",
+        "Say biong dinmakmomo ed sakey a palandey"
+      ],
+      "answer": "Sakey ya ugaw so nansalita pian idepensa so ina to"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

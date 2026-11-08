@@ -1,0 +1,61 @@
+{
+  "title": "Desa ing Pesisir Pengadilan",
+  "intro": "Kowé nemokaké awakmu dhéwé ing désa pesisir, ing ngendi swara ombak nyampur karo bisikan saka wong-wong sing wis dilalekake. Wong-wong mau diwènèhi prentah kanggo ngaso, nanging keserakahané ndadékaké paukuman sing isih dicritakake kanthi swara lirih. Apa kowé bisa nemokake sapa wong-wong mau?",
+  "clues": [
+    "Awaké dhéwé manggon ing pinggir pesisir lan diwènèhi prentah supaya ngurmati dina ngaso.",
+    "Ing dina kuwi, iwak bakal teka akeh banget, nanging kita dilarang njupuk.",
+    "Ana ing antarane kita sing menehi peringatan supaya ora nglanggar, nanging ana uga sing konspirasi kanggo mancing.",
+    "Kita nglanggar prentah suci lan nekakake paukuman sing abot marang awake dhewe.",
+    "Ukuman kita kuwi owah-owahan sing nggawe kita cacat lan isin.",
+    "Kita wis malih dadi kethek, minangka pratandha kanggo kabeh wong sing bakal teka sawise iku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Wong-wong ing dina Sabat",
+        "Wong-wong Tsamud",
+        "Wong-wong 'Ad",
+        "Wong-wong ing Gua",
+        "Wong-wong Gajah"
+      ],
+      "answer": "Wong-wong ing dina Sabat"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Mancing ing dina Sabat",
+        "Nyembah pedhet emas",
+        "Nolak pesen Hud",
+        "Matèni unta wadon",
+        "Mbangun menara menyang swarga"
+      ],
+      "answer": "Mancing ing dina Sabat"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Iwak-iwak kasebut",
+        "Unta wadon",
+        "Staf",
+        "Prau",
+        "Kebon"
+      ],
+      "answer": "Iwak-iwak kasebut"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Diowah dadi kethek",
+        "Rusak kena banjir",
+        "Dirusak dening geni sing murub",
+        "Ditelan bumi",
+        "Kasebar dening angin"
+      ],
+      "answer": "Diowah dadi kethek"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

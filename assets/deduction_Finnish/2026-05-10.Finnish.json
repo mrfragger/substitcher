@@ -1,0 +1,61 @@
+{
+  "title": "Tornien rakentajat",
+  "intro": "Kauan menneisyydessä nousi mahtava sivilisaatio, jolle oli ominaista vaikuttavat rakennustaidot ja valtava voima. Tälle kollektiiviselle kokonaisuudelle annettiin runsaasti resursseja ja fyysistä kyvykkyyttä, mutta he valitsivat uhmaten jumalallista sanomaa, joka oli lähetetty heitä opastavaksi. Heidän tarinansa toimii syvällisenä oppituntina historian aikakirjoissa, todisteena totuuden hylkäämisen seurauksista.",
+  "clues": [
+    "Meille annettiin suunnaton fyysinen voima ja koko, jollaista ei ollut kenelläkään muulla aikamme kansalla.",
+    "Meidät tunnettiin siitä, että rakensimme suuria rakennuksia ja korkeita pylväitä kaikille korkeille paikoille ajatellen elävämme ikuisesti.",
+    "Keskuudestamme lähetettiin sanansaattaja varoittamaan meitä ja kehottamaan meitä palvomaan yksin Allahia ja hylkäämään epäjumalemme.",
+    "Me kyseenalaistimme ylimielisesti sanansaattajamme ja kysyimme, tulivatko he luoksemme vain saadakseen meidät palvomaan Allahia ja hylkäämään esi-isiemme palvonnan.",
+    "Maamme oli siunattu puutarhoilla, lähteillä ja hedelmällisillä pelloilla, mutta me pidimme vaurauttamme oman voimamme ansiona, emme Luojamme ansiona.",
+    "Jatkuvan epäuskomme ja pilkkamme vuoksi meidät lopulta tuhosi kauhistuttava, raivoisa tuuli, joka raivosi monta päivää ja yötä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Thamudin kansa",
+        "Fir'aunin kansa",
+        "Nuhin kansa",
+        "Madyanin kansa",
+        "'Ad:n ihmiset"
+      ],
+      "answer": "'Ad:n ihmiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Pyydetty uhraamaan tietty kameli",
+        "Haasteena tuottaa kymmenen Koraanin kaltaista suuraa",
+        "Näytetään meren jakautuminen",
+        "Profeetan varoitus lähestyvästä vedenpaisumuksesta",
+        "Liiallisesta rakentamisesta ja epäjumalien palvonnasta varoittavan profeetan hylkääminen"
+      ],
+      "answer": "Liiallisesta rakentamisesta ja epäjumalien palvonnasta varoittavan profeetan hylkääminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Tuli",
+        "Sodoman kaupunki",
+        "Ylevät pilarit ja vahvat asumukset"
+      ],
+      "answer": "Ylevät pilarit ja vahvat asumukset"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hukkui suureen tulvaan",
+        "Maan nielaisema",
+        "Muuttuivat apinoiksi ja sioiksi",
+        "Tuhoutui ukkosen jyrinässä",
+        "Raivoisan, tuhoisan tuulen tuhoama"
+      ],
+      "answer": "Raivoisan, tuhoisan tuulen tuhoama"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A persecución cortesá",
+  "intro": "Nos corredores do poder, unha figura de alto status namorouse dunha criada cuxa beleza era doutro mundo. Este namoramento levou a unha serie de acontecementos que porían a proba as lealdades, revelarían verdades ocultas e, en última instancia, afirmarían a inocencia da criada.",
+  "clues": [
+    "Vivín na terra do Nilo, nun palacio de grande influencia.",
+    "Un mozo entrou na miña casa e a súa presenza inquietou o meu mundo.",
+    "Intentei seducilo, pero el buscou refuxio no seu Señor.",
+    "Rasgueille a roupa por detrás, pero as probas apuntaban ao meu engano.",
+    "Para silenciar as murmuracións das nobres, convideinas a unha reunión e puxenlles obxectos afiados nas mans.",
+    "Ao final, confesei publicamente a miña culpa, recoñecendo a verdade diante do rei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A esposa de Al-Aziz",
+        "Asiya (esposa do faraón)",
+        "Bilqis (Raíña de Saba)",
+        "Maryam (Nai de Isa)",
+        "A nai de Musa"
+      ],
+      "answer": "A esposa de Al-Aziz"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Ela intentou seducir ao profeta Yusuf",
+        "Ela intentou matar o profeta Moisés",
+        "Ela afirmaba ser unha deusa",
+        "Ela construíu unha torre para desafiar a Alá",
+        "Ela liderou un exército contra a Meca"
+      ],
+      "answer": "Ela intentou seducir ao profeta Yusuf"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha camisa rasgada por detrás",
+        "Un becerro de ouro",
+        "Un bastón que se converteu nunha serpe",
+        "Unha cameloa",
+        "Unha lámpada"
+      ],
+      "answer": "Unha camisa rasgada por detrás"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ela confesou e recoñeceu a verdade",
+        "Afogouse co seu exército",
+        "Converteuse nunha columna de sal",
+        "Foi tragada pola terra",
+        "Foi destruída por un vento berrante"
+      ],
+      "answer": "Ela confesou e recoñeceu a verdade"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

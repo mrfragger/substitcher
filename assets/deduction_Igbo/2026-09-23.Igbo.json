@@ -1,0 +1,61 @@
+{
+  "title": "Oku ahụ nke mere ka afọ ju afọ",
+  "intro": "Chee echiche banyere mkpụrụ obi nke guzoro naanị ya megide mmepeanya dum, kpebisiri ike iduzi ha site na njehie na mkpebi siri ike. Ruo ọtụtụ narị afọ, a jụrụ ozi ahụ, kwara ya emo, ma jụ ya—ma mgbalị ahụ akwụsịghị. N'ikpeazụ, nnukwu ajụjụ bịara, naanị mmadụ ole na ole nwetara nzọpụta n'akụkụ mkpụrụ obi a siri ike. Ị nwere ike ịchọpụta onye a site na Quran?",
+  "clues": [
+    "E zigara m dịka onye ịdọ aka ná ntị nye ndị furu efu n'ụzọ nke ha.",
+    "Akpọrọ m ha òkù ka ha rịọ mgbaghara ma hapụ ihe ọjọọ ha mere, mana ha jụrụ.",
+    "N'okpuru iwu Chineke, arụrụ m nnukwu ụgbọ mmiri ebe ndị m na-ele m anya ma na-akwa m emo.",
+    "Akpọrọ m Onyenwe m n'akwụsịghị akwụsị—n'ikpeazụ, O zara, mmiri wee si n'eluigwe wụpụta n'oké osimiri.",
+    "M banyere n'ụgbọ mmiri ahụ na ndị kwere ekwe mgbe idei mmiri ahụ ruru n'elu ala.",
+    "M tikuru otu onye nọdụrụ ala, na-arịọ ha ka ha gbaba n'ugwu, mana iwu ahụ agafeela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Nua",
+        "Onye Amụma Ibrahim",
+        "Onye Amụma Mozis",
+        "Onye Amụma Hud",
+        "Onye Amụma Salih"
+      ],
+      "answer": "Onye Amụma Nua"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịrụ nnukwu ụgbọ mmiri na ịlanarị iju mmiri zuru ụwa ọnụ",
+        "Ịtụba n'ime ọkụ na-ere ọkụ",
+        "Izute onye ọchịchị aka ike na ndị dibịa anwansi ya dị ike",
+        "Ịbụ onye azụ̀ dị egwu loro",
+        "Ịhụ ogbugbu nke nne kamel dị nsọ"
+      ],
+      "answer": "Ịrụ nnukwu ụgbọ mmiri na ịlanarị iju mmiri zuru ụwa ọnụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ụgbọ osisi buru ibu nke dị n'elu mmiri ozuzo",
+        "Ndagwurugwu dị nsọ nwere mkpọmkpọ nkume oge ochie",
+        "Ọgba miri emi ebe ndị enyi ya dinara ruo ọtụtụ narị afọ",
+        "Afọ nnukwu whale n'ime omimi oké osimiri",
+        "Ugwu nkume dị elu n'ọzara"
+      ],
+      "answer": "Ụgbọ osisi buru ibu nke dị n'elu mmiri ozuzo"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A zọpụtara ya na ndị kwere ekwe nọ n'ụgbọ mmiri ahụ",
+        "A napụtara ya n'ọkụ ahụ n'enweghị mmerụ ahụ site n'iwu Chineke",
+        "Duru nnukwu ọpụpụ si n'alaeze dị ike pụta",
+        "Tụpụ azụ̀ ahụ n'akụkụ mmiri tọgbọ chakoo",
+        "Dupụrụ ndị mmadụ pụọ n'ihe ọjọọ site n'ihe ịrịba ama ọrụ ebube"
+      ],
+      "answer": "A zọpụtara ya na ndị kwere ekwe nọ n'ụgbọ mmiri ahụ"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

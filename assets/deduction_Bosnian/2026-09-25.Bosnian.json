@@ -1,0 +1,61 @@
+{
+  "title": "Brana koja je uništila kraljevstvo",
+  "intro": "Zemlja tekućih rijeka, dva zelena vrta i neuporedivog prosperiteta - ali njeni stanovnici su postali nepažljivi prema Onome koji ih je blagoslovio. Kada su stigle opomene koje su ih pozivale nazad, okrenuli su se. Ono što je uslijedilo bila je kazna koja još uvijek odjekuje kao upozorenje. Ko je bila ova drevna zajednica?",
+  "clues": [
+    "Živjeli smo u zemlji toliko blagoslovljenoj da se naš dom nalazio između dva zelena vrta.",
+    "Uživali smo u rijekama koje su tekle kroz naše zemlje i obilnim žetvama koje su ispunjavale naše domove.",
+    "Pa ipak, kada smo bili pozvani na zahvalnost i poslušnost našem Gospodu, okrenuli smo se u ponosu.",
+    "Naše bogatstvo i lagoda su nas natjerali da zaboravimo Onoga koji nam je sve to podario.",
+    "Zatim je naišla iznenadna bujica koja je probila veliku barijeru na koju smo se oslanjali.",
+    "Mi smo narod Sabe, čija je zemlja bila poznata po velikoj brani Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko smo mi?",
+      "options": [
+        "Ljudi iz Sabe",
+        "Ljudi iz rova",
+        "Pratitelji bunara",
+        "Ljudi iz Tubbe",
+        "Ljudi iz Midjana"
+      ],
+      "answer": "Ljudi iz Sabe"
+    },
+    "trial": {
+      "label": "Naš pad",
+      "options": [
+        "Poplava zbog pucanja brane",
+        "Silovit vjetar s neba",
+        "Gori u vatrenom rovu",
+        "Masivan zemljotres",
+        "Utapanje u velikoj poplavi"
+      ],
+      "answer": "Poplava zbog pucanja brane"
+    },
+    "location": {
+      "label": "Ključna lokacija",
+      "options": [
+        "Brana Ma'rib",
+        "Planina Sinaj",
+        "Pećina sedam spavača",
+        "Gorući grm",
+        "Cijepanje mora"
+      ],
+      "answer": "Brana Ma'rib"
+    },
+    "outcome": {
+      "label": "Naša sudbina",
+      "options": [
+        "Dva gorka vrta zamijenila su naše bujne",
+        "Naši vrtovi su postali još bujniji",
+        "Zemlja je potonula pod more",
+        "Bili smo zakopani u vulkanskom pepelu",
+        "Naš narod je podijeljen na dvanaest plemena"
+      ],
+      "answer": "Dva gorka vrta zamijenila su naše bujne"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

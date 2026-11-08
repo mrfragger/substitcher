@@ -1,0 +1,61 @@
+{
+  "title": "Neuslišeni poziv u zemlji arogancije",
+  "intro": "Stojite u ruševinama nekada velike civilizacije, gdje moć i ponos nisu poznavali granice. Glasnik je hodao među njima, pozivajući na istinu, ali njihova srca su otvrdnula. Upozorenje je ostalo zanemareno, a samo nebo je postalo instrument gnjeva. Ko je bio ovaj glasnik i šta se dogodilo s onima koji su odbacili poziv?",
+  "clues": [
+    "Bio sam poslan narodu koji je bio nenadmašan po snazi ​​i koji je na svakom uzvišenom mjestu sagradio spomenik.",
+    "Moj narod se smatrao nepobjedivim i govorio je: 'Ko je jači od nas snagom?'",
+    "Pozvao sam ih da obožavaju samo Allaha, ali su me optužili za glupost i laž.",
+    "Izazvali su me da izvršim kaznu koju sam obećao ako budem iskren.",
+    "Allah je na njih poslao neplodan vjetar koji nije štedio ništa na šta je naišlo.",
+    "Ja i oni koji su sa mnom vjerovali bili smo spašeni Allahovom milošću, dok su nevjernici bili potpuno uništeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Hud",
+        "Poslanik Salih",
+        "Poslanik Šuaib",
+        "Poslanik Lut",
+        "Poslanik Nuh"
+      ],
+      "answer": "Poslanik Hud"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Razorni vjetar uništio je nevjernike",
+        "Velika poplava je zahvatila nevjernike",
+        "Kiša kamenja se spustila",
+        "Glasan krik obuze nevjernike",
+        "Zemljotres je pogodio nevjernike"
+      ],
+      "answer": "Razorni vjetar uništio je nevjernike"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Nemilosrdan vjetar",
+        "Drveni kovčeg",
+        "Ženka deve",
+        "Kiša glinenog kamenja",
+        "Plamteća vatra"
+      ],
+      "answer": "Nemilosrdan vjetar"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Hud i vjernici su spašeni, a nevjernici su uništeni.",
+        "Hud je uzdignut na visok položaj",
+        "Huda su ubili njegovi ljudi",
+        "Hudov narod se pokajao i bio je pošteđen",
+        "Hud je napustio svoj narod prije bilo kakve kazne"
+      ],
+      "answer": "Hud i vjernici su spašeni, a nevjernici su uništeni."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

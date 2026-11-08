@@ -1,0 +1,61 @@
+{
+  "title": "Ding Tubud ning Pakalulu at Kapangyarihan",
+  "intro": "Isipan mu ing tahimik a gatpanapun a mibagsak keng pamagdatang da reng e pamilyar a maglakbe. Ing karelang itsura ordinaryu mu, pero ing karelang sangkan nanu man. Magdala lang banal a mensahi a magbayu king dalan da ring adwang bangsa, magdalang katawa king metung a balen a alang tanaman at takut king metung a siudad a makasalanan. Ninu reng misteryosung bisita?",
+  "clues": [
+    "Pepadala da kami keng metung a tapat a talasuyu nang Allah, a kilala keng alang kapupusan a pamagmasabal.",
+    "dinatang kami keng panga-aliwa, at makanyan man ing kekaming host atin yang dimdam a aliwang bage tungkul keng kekaming presensya.",
+    "Migdala kaming balita na mekapagtawa keng metung a matwang babai keng e kapaniwalan, at menabu ya keng sarili nang lupa keng pamagmulala.",
+    "Atin kaming obra para protektan ing metung a matulid a pamilya kabang papauran ing kasiran keng metung a siudad a mitmung korapsyon.",
+    "E kami bisang makiabe keng pamangan a inampang da kekami, na lalu mung pepalalam ing kapanaligan ning kekaming host.",
+    "Pepakit mi ing tune ming pangatau bayu kami meko, ngana, 'Tune, tubud kami ning Ginu mu.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Tamu?",
+      "options": [
+        "Ding Tamu nang Abraham",
+        "Ding alagad nang Jesus",
+        "Ding Kayabe ning Kueba",
+        "Ing Army nang Abraha",
+        "Ding Sugo ning Ya-Sin"
+      ],
+      "answer": "Ding Tamu nang Abraham"
+    },
+    "trial": {
+      "label": "Ing Misyun mi",
+      "options": [
+        "ban subukan ing kasalpantayanan nang Abraham tungkul king anak na",
+        "Ban ibie ing kasulatan kang Abraham",
+        "Ban ipabalu ing pangabait nang Isaac at ing pangasira da ring memalen nang Lot",
+        "Ban ituntun ne i Abraham papunta king Kaaba",
+        "ban iligtas ne i Abraham king api"
+      ],
+      "answer": "Ban ipabalu ing pangabait nang Isaac at ing pangasira da ring memalen nang Lot"
+    },
+    "location": {
+      "label": "Lugar ning Pamaglawe",
+      "options": [
+        "King labuad na ning Ehipto",
+        "King siudad ning Ur",
+        "King bale nang Abraham",
+        "King mula ning Eden",
+        "keng talaga ning zamzam"
+      ],
+      "answer": "King bale nang Abraham"
+    },
+    "outcome": {
+      "label": "Ing resulta",
+      "options": [
+        "Meging ari ya i Abraham",
+        "Telakad neng Abraham ing Kaaba",
+        "Anak neng Sarah i Isaac at mesira la ding memalen nang Lot",
+        "I Abraham mig migrate ya papunta Palestine",
+        "Miligtas la ding memalen nang Abraham king maragul a albug"
+      ],
+      "answer": "Anak neng Sarah i Isaac at mesira la ding memalen nang Lot"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

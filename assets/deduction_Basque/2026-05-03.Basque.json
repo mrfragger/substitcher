@@ -1,0 +1,61 @@
+{
+  "title": "Egiaren bila dabiltzan lozorroan",
+  "intro": "Imajinatu sinesmena zalantzan jarri zen garai bat, eta arima talde batek munduaren erosotasunaren gainetik konbentzimendu irmoa aukeratu zuen. Aukera beldurgarri baten aurrean, babesa bilatu zuten, loaldi berezi batera eraman zuen bidaia bati ekinez. Haien istorioa jainkozko babesaren eta fedearen boterearen testigantza da zapalkuntzaren aurka. Pertsona bikain hauen nortasuna bereiz dezakezu?",
+  "clues": [
+    "Batzar txiki bat ginen, Sortzaile Bakarrarenganako sinesmen sakonak batuta.",
+    "Agintari boteretsu batek Ala ez den beste norbait gurtzea eskatzen zuen garaian bizi ginen.",
+    "Gure fedea gordetzeko, gure etxeak uztea eta zapalkuntzatik ihes egitea erabaki genuen.",
+    "Lurreko izaki bat, lagun zigun bidaian.",
+    "Leku isolatu batean aurkitu genuen babeslekua, non Alak lo sakon eta luze batean murgilarazi gintuen.",
+    "Esnatzean, egun bat edo egun baten zati bat bakarrik igaro zela uste genuen, baina mendeak benetan joan ziren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Lubakiko jendea",
+        "Thamudeko jendea",
+        "Sabako jendea",
+        "Kobazuloko jendea",
+        "Madyango jendea."
+      ],
+      "answer": "Kobazuloko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Lur antzu batekin probatzen ari dira",
+        "Uholde handi bati aurre eginez",
+        "Agintari tirano batetik babes bila",
+        "Su erretzaile batera botata egotea",
+        "Azti baten magiari erronka eginez"
+      ],
+      "answer": "Agintari tirano batetik babes bila"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Jauregi handi bat.",
+        "Itsasontzi/arka bat",
+        "Putzu sakon bat.",
+        "Kobazulo bat",
+        "Mendi garai bat."
+      ],
+      "answer": "Kobazulo bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erreinua eman izana",
+        "Mendeetan zehar lo miragarri bat",
+        "Lurrak irentsita egotea.",
+        "Ekaitz suntsitzaile batetik salbatuta egotea",
+        "Zeruko mahaia hornituta izatea"
+      ],
+      "answer": "Mendeetan zehar lo miragarri bat"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La première âme à se lever",
+  "intro": "Bien avant que le moindre messager ne foule la terre, avant même que les Écritures ne soient révélées, un être sans pareil vit le jour. Façonnée par des mains divines, cette âme reçut un lieu d'une beauté incomparable et fut mise à l'épreuve d'une manière qui résonnerait à travers toute l'histoire de l'humanité. S'ensuivit une histoire de faiblesse, de repentir sincère et d'un destin qui allait changer à jamais le cours de la création. Devinez de qui il s'agit ?",
+  "clues": [
+    "J'ai été façonné par les mains du Très Miséricordieux à partir de la poussière même du sol.",
+    "On m'a offert une demeure d'une beauté incomparable, où ni la faim ni la fatigue ne pouvaient m'atteindre.",
+    "Il m'a été ordonné de ne jamais m'approcher d'un seul arbre, car cela était interdit.",
+    "Mon compagnon et moi avons été trompés et nous nous sommes approchés de l'arbre interdit, contre l'ordre de notre Seigneur.",
+    "Nous nous sommes tournés vers notre Seigneur avec un repentir sincère, et nos transgressions nous ont été pardonnées.",
+    "De nous descend toute l'humanité ; je suis le tout premier à avoir foulé cette terre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Adam",
+        "Le prophète Moïse",
+        "Prophète Noé",
+        "Prophète Yusuf",
+        "Le prophète Isaïe"
+      ],
+      "answer": "Le prophète Adam"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La tentation près de l'arbre interdit",
+        "Confrontation avec le pharaon",
+        "La construction de la grande arche",
+        "Sacrifice du fils bien-aimé",
+        "Être jeté dans un grand feu"
+      ],
+      "answer": "La tentation près de l'arbre interdit"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'arbre interdit",
+        "Le Buisson Ardent",
+        "Le bâton d'or",
+        "La Grande Arche",
+        "Le veau d'or"
+      ],
+      "answer": "L'arbre interdit"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Envoyé sur Terre en tant que premier gardien de l'humanité",
+        "Pharaon et son armée se sont noyés dans la mer",
+        "Le grand déluge a détruit les méchants",
+        "Le feu s'est refroidi et est devenu paisible.",
+        "Il reçut l'autorité sur le royaume d'Égypte."
+      ],
+      "answer": "Envoyé sur Terre en tant que premier gardien de l'humanité"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

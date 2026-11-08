@@ -1,0 +1,61 @@
+{
+  "title": "La buona novella nella vecchiaia",
+  "intro": "State assistendo a un momento in cui la speranza si riaccende. Una coppia, ormai lontana dall'età della genitorialità, riceve una promessa che sfida le leggi della natura. In mezzo a loro si erge una figura la cui stessa esistenza è segno di misericordia divina: un'anima destinata alla profezia, portatrice di un'eredità che si protrarrà per generazioni. Chi è questa persona straordinaria?",
+  "clues": [
+    "Sono nato da genitori che, giunti in età avanzata, non avevano figli.",
+    "La mia nascita fu annunciata dagli angeli, che vennero come ospiti nella mia famiglia.",
+    "Mi è stata data la saggezza e la profezia, e il mio nome è annoverato tra i malati.",
+    "Mio padre era chiamato l'amico di Allah, e io sono stata un dono per lui nei suoi ultimi anni di vita.",
+    "Avevo un fratello che era anche lui un profeta, ed entrambi siamo stati benedetti dal nostro Signore.",
+    "Anche mio figlio fu un profeta, e ai miei discendenti furono date le Scritture e la profezia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Isacco (Ishaq)",
+        "Il profeta Ismaele",
+        "Il profeta Yaqub (Giacobbe)",
+        "Profeta Yahya (Giovanni)",
+        "Profeta Uzair (Ezra)"
+      ],
+      "answer": "Il profeta Isacco (Ishaq)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Nato da genitori anziani",
+        "Gettato nel fuoco",
+        "Dato un regno e una ricchezza",
+        "Condusse il suo popolo fuori dall'Egitto",
+        "Costruirono un'arca per salvare i credenti"
+      ],
+      "answer": "Nato da genitori anziani"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La lieta notizia di un figlio",
+        "Il roveto ardente",
+        "Il vitello d'oro",
+        "L'arca dell'alleanza",
+        "Il bastone della profezia"
+      ],
+      "answer": "La lieta notizia di un figlio"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Divenne un profeta con una stirpe di profeti",
+        "Divenne un re ricco",
+        "Il suo popolo fu distrutto per la sua incredulità.",
+        "Fu salvato dall'incendio",
+        "Gli fu data la capacità di parlare fin da neonato"
+      ],
+      "answer": "Divenne un profeta con una stirpe di profeti"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

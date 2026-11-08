@@ -1,0 +1,61 @@
+{
+  "title": "el tresor que es va enfonsar sota l'orgull",
+  "intro": "Imagineu-vos estar davant de piles de riquesa tan grans que només portar les claus esgotaria un grup d'individus forts. Al vostre voltant, les veus insten a la humilitat i al record, però l'orgull creix més fort que la gratitud. Què passa quan la generositat es converteix en una prova i l'arrogància segella el resultat?",
+  "clues": [
+    "Jo era del poble de Musa, però vaig transgredir contra ells.",
+    "Em van concedir tresors tan immensos que les seves claus serien una càrrega per a una banda d'homes forts.",
+    "El meu poble em va aconsellar que no m'alegrés i que busqués l'altra vida sense oblidar la meva part d'aquest món.",
+    "Vaig afirmar que allò que posseïa m'havia estat donat només gràcies al coneixement que tenia.",
+    "Vaig desfilar davant del meu poble vestit amb adorns, i els que desitjaven una vida mundana desitjaven alguna cosa semblant a la que jo tenia.",
+    "Em va engolir la terra juntament amb la meva llar, i ningú em va poder ajudar ni jo mateix."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Vanitós de riquesa i negat el favor d'Al·là malgrat el consell",
+        "Va desafiar Ibrahim sobre donar la vida i la mort",
+        "Va liderar un exèrcit contra Talut i Dawud",
+        "Ídols tallats perquè la gent els adorés",
+        "Va matar un germà per enveja per una ofrena"
+      ],
+      "answer": "Vanitós de riquesa i negat el favor d'Al·là malgrat el consell"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Claus d'immensos tresors",
+        "L'Arca de l'Aliança",
+        "Un vedell d'or d'adorns",
+        "Una presa entre dues muntanyes",
+        "Onze estrelles en un somni"
+      ],
+      "answer": "Claus d'immensos tresors"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Engolit per la terra amb habitatge i riquesa",
+        "Es va ofegar al mar mentre perseguia Musa",
+        "Atropellat per una pedra de la fona de Dawud",
+        "Destruït per una poderosa explosió per haver tallat els isquiotibials a una camella",
+        "Convertits en simis per trencar el Sàbat"
+      ],
+      "answer": "Engolit per la terra amb habitatge i riquesa"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

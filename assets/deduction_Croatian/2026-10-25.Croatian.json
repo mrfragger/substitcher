@@ -1,0 +1,61 @@
+{
+  "title": "Žalba se čula iznad buke",
+  "intro": "Čujete glas koji se diže iz društva u kojem je ugnjetavanje postalo rutina. Nikakvo pokazivanje moći ne odgovara na pritužbu; umjesto toga, izravna molba dopire do Allaha, a odgovor pogađa srž samog obožavanja. Tko je iznio tu pritužbu, koje je pitanje uslijedilo i koja je istina potvrđena?",
+  "clues": [
+    "Počelo me uznemiravati ugnjetavanje ljudi oko mene.",
+    "Izrazio sam tu pritužbu izravno Allahu u osobnoj pritužbi.",
+    "Allah je čuo pritužbu i odgovorio izazovom o mom vlastitom vjerovanju.",
+    "Odgovor je pitao kako sam mogao ne vjerovati u Allaha, koji je Jedan i Uzvišeni.",
+    "Zatim sam upitao zašto bi Allah favorizirao ljude koji ne vjeruju.",
+    "Ja sam Uzair, spomenut u suri Ez-Zuhruf kao onaj čiju je žalbu Allah čuo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Uzair",
+        "Suputnik koji je plovio tijekom velike poplave",
+        "Sluga koji je hodao po vodi",
+        "Spavač zaštićen u pećini",
+        "Sluga koji je donio kamenje u rijeku"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Žaleći se Allahu na ugnjetavanje ljudi",
+        "Hodanje po vodi tijekom oluje",
+        "Nošenje kamenja do rijeke koja je imala manjak vode",
+        "Plovidba kroz veliku poplavu na Arki",
+        "Primanje ključa za neizmjerno blago"
+      ],
+      "answer": "Žaleći se Allahu na ugnjetavanje ljudi"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Izravna pritužba upućena Allahu",
+        "Štap koji se pretvorio u zmiju",
+        "Peć učinjena hladnom i mirnom",
+        "Arka pluta iznad poplavne vode",
+        "Riba guta slugu"
+      ],
+      "answer": "Izravna pritužba upućena Allahu"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Allah je čuo pritužbu i potvrdio božansko Jedinstvo i Vrhovno Gospodstvo",
+        "Sigurno hodanje po vodi tijekom oluje",
+        "Siguran prelazak velike poplave na Arki",
+        "Vraćanje vida unutar palače arogancije",
+        "Primanje vlasti koja se proteže od istoka do zapada"
+      ],
+      "answer": "Allah je čuo pritužbu i potvrdio božansko Jedinstvo i Vrhovno Gospodstvo"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

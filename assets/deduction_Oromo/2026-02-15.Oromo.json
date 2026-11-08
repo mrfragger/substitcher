@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Dhaabbii",
+  "intro": "Namni dhuunfaa kun ogummaa fi qajeelfama gadi fagoo ta’een kan yaadatamu yoo ta’u, gorsa dhaloota irra darbu kennuudhaani. Dubbiin isaanii Waaqayyoon sodaachuu fi barbaachisummaa eebbaa fi qorumsa Waaqummaa irraa adda baasuuf ragaadha. Eenyummaa lubbuu kabajamtuu kanaa saaxii.",
+  "clues": [
+    "Ani raajii hin turre, garuu ogummaan koo Caaffata Waaqaa keessatti kan hin duunedha.",
+    "Gorsi ani mucaa kootiif kenne Rabbiif galata galchuu fi shirkii irraa fagaachuu cimsee ture.",
+    "Waa’ee barbaachisummaa kadhannaa, gaarii ajajuu fi hamaa dhowwuu barsiiseera.",
+    "Of tuulummaa fi of tuulummaadhaan lafa irratti akka hin deemne akeekkachiiseera.",
+    "Maqaan koo Qur’aana keessatti boqonnaa guutuuf kan kenname yoo ta’u, barsiisa koo kan calaqqisiisudha.",
+    "Gorsi koo rakkina keessatti obsa kan dabalatu ture, sababiin isaas dhugumatti, sun dhimmoota hunda caalaa murteessoo taʼan irraa waan taʼeef."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Idriis",
+        "Nabi Yahyaa",
+        "Luqmaan",
+        "Imraan",
+        "Nabi Hud"
+      ],
+      "answer": "Luqmaan"
+    },
+    "trial": {
+      "label": "Barsiisa/Qajeelfama Ijoo",
+      "options": [
+        "Taabotaa ijaaruu",
+        "Waraana jabaa tokko fuulduratti",
+        "Ogummaa fi gorsa naamusaa kennuu",
+        "Abjuu hiikuu",
+        "Saba tokko gara injifannootti geggeessuu"
+      ],
+      "answer": "Ogummaa fi gorsa naamusaa kennuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Bosona gubaa jiru",
+        "Qurxummii guddaa",
+        "Gaara addaa",
+        "Sanyii tokkoof gorsa ogummaa qabu",
+        "Masaraa guddaa"
+      ],
+      "answer": "Sanyii tokkoof gorsa ogummaa qabu"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Mootii ta'e",
+        "Raajii ta'uun kennameef",
+        "Ogummaan isaa Qur’aana keessatti galmaa’ee ture",
+        "Saba isaa gara biyya haaraatti geggeesse",
+        "Qabeenyi hangana hin jedhamne kennameef"
+      ],
+      "answer": "Ogummaan isaa Qur’aana keessatti galmaa’ee ture"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

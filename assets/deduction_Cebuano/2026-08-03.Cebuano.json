@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tuburan sa Ilalom sa Balas",
+  "intro": "Sa mga talaan sa Quran, usa ka tawo nga adunay dakong pailub ang nag-atubang sa usa ka pagsulay nga makabungkag sa labing maisog nga mga kasingkasing. Ang tanan gikuha - bahandi, pamilya, ug kahimsog. Apan gikan sa kahiladman sa kawalay paglaum, usa ka mapaubsanong pag-ampo ang gitubag sa labing wala damha nga paagi. Makaila ka ba niining kalag kansang istorya sa pagpahiuli naglanog sa tibuok nga mga katuigan?",
+  "clues": [
+    "Gisulayan ako sa usa ka pagsulay nga grabe kaayo nga kini mahinumduman sa tibuok nga katuigan.",
+    "Nawala nako ang tanan nga importante—ang akong bahandi, ang akong mga anak, ug ang akong panglawas.",
+    "Ang akong lawas napuno sa masakit nga mga samad, ug gilikayan ako sa tanan.",
+    "Sa akong kawalay paglaum, nanawag ako kang Allah, nga nag-ingon nga si Satanas nagtandog kanako sa kalisud ug pagsakit.",
+    "Si Allah mitubag kanako ug nagsugo kanako sa paghampak sa yuta gamit ang akong tiil.",
+    "Gikan niadtong dapita, mibuto ang usa ka bugnaw nga tubod, ug gipahiuli sa Allah ang akong pamilya ug gidoble sila isip usa ka kalooy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Ayyub",
+        "Propeta Musa",
+        "Propeta Ilyas",
+        "Propeta Sulayman",
+        "Propeta David"
+      ],
+      "answer": "Propeta Ayyub"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Grabe nga sakit ug pagkawala sa pamilya ug bahandi",
+        "Gitulon sa usa ka dakong balyena",
+        "Pagkadestiyero gikan sa siyudad sa Makkah",
+        "Pagkabilanggo sa lawom nga atabay",
+        "Pakig-atubang sa usa ka arogante nga magmamando"
+      ],
+      "answer": "Grabe nga sakit ug pagkawala sa pamilya ug bahandi"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka bugnaw nga tubod gikan sa yuta",
+        "Usa ka sakayan sa ibabaw sa dakong baha",
+        "Usa ka sungkod nga nagbahin sa dagat",
+        "Usa ka gibayaw nga trono nga hinimo sa bildo",
+        "Usa ka langob nga gilibutan og paril para sa pagkatulog"
+      ],
+      "answer": "Usa ka bugnaw nga tubod gikan sa yuta"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang pamilya ug bahandi napahiuli ug nadoble",
+        "Paggawas gikan sa tiyan sa isda",
+        "Luwas nga pag-agi sa nabahin nga katubigan",
+        "Usa ka gingharian nga gihatag aron magmando",
+        "Milagrosong pagkatawo sa usa ka anak nga lalaki sa pagkatigulang"
+      ],
+      "answer": "Ang pamilya ug bahandi napahiuli ug nadoble"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

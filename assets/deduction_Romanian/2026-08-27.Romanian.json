@@ -1,0 +1,61 @@
+{
+  "title": "Alesul articulat",
+  "intro": "La umbra unui munte unde cuvintele divine coborau, credința unui popor se clătina sub strălucirea aurului. Un suflet, înzestrat cu elocvență, s-a ridicat ca sprijin pentru o misiune mai mare, dar s-a confruntat cu un moment de încercare profundă. Când mesagerul ales s-a înălțat la o întâlnire sacră, această figură a rămas în urmă, implorând o națiune neliniștită. Cine este acest suflet statornic al cărui glas s-a ridicat împotriva idolatriei?",
+  "clues": [
+    "Am fost ales de Allah să fiu profet, deși povestea mea este adesea spusă alături de alta.",
+    "Am fost trimis la un conducător tiran, dar rolul meu a fost să sprijin, nu să conduc.",
+    "Eram înzestrat cu elocvență, iar cuvintele mele erau menite să înmoaie inimile.",
+    "Când tovarășul meu a plecat pentru o întâlnire sacră, am fost lăsat să îndrum un popor neliniștit.",
+    "În nerăbdarea lor, au făurit o imagine din podoabele lor, iar eu i-am implorat să-I rămână credincioși lui Allah.",
+    "Însoțitorul meu s-a întors și m-a apucat, dar i-am explicat că oamenii m-au copleșit și aproape m-au omorât; nu eram printre răufăcători."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Musa",
+        "Profetul Harun",
+        "Profetul Isa",
+        "Profetul Yahya",
+        "Profetul Zakariya"
+      ],
+      "answer": "Profetul Harun"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A fi aruncat în foc",
+        "Fiind aruncat într-o fântână",
+        "Confruntarea cu incidentul vițelului de aur",
+        "Testul unei boli grave",
+        "Testul pierderii averii și a copiilor"
+      ],
+      "answer": "Confruntarea cu incidentul vițelului de aur"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Vițelul de aur",
+        "Personalul",
+        "Arca Legământului",
+        "Tabletele",
+        "Rugul aprins"
+      ],
+      "answer": "Vițelul de aur"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Pedepsit aspru",
+        "Iertat și exonerat",
+        "Făcut rege",
+        "Luat în rai",
+        "Având o nouă scriptură"
+      ],
+      "answer": "Iertat și exonerat"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

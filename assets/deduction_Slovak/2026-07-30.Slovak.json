@@ -1,0 +1,61 @@
+{
+  "title": "Zvláštni návštevníci opevneného mesta",
+  "intro": "Skupina dorazila k bránam mesta, ktorého obyvatelia nikdy nepoznali pravdu. Priniesli posolstvo, ale obyvatelia sa správali nepriateľsky a vyhrážali sa násilím. Napriek tomu sa z neočakávaného miesta ozval jediný hlas na obranu cudzincov, čím sa pripravila pôda pre dramatický zvrat udalostí.",
+  "clues": [
+    "Vstúpili sme do mesta, ktorého obyvateľov pohltil neveriacky dojem.",
+    "Pozreli sa na nás s podozrievaním a povedali: „Ste len obyčajné bytosti ako my.“",
+    "Varovali sme ich, ale oni proti nám zdvihli kamene.",
+    "Z najvzdialenejšieho konca mesta sa ponáhľal muž, aby potvrdil našu pravdu.",
+    "Vyhlásil svojmu ľudu: „Prečo by som nemal uctievať Toho, ktorý ma stvoril?“",
+    "Popieranie mesta sa skončilo jediným výbuchom a tam, kde sa kedysi posmievali, zavládlo ticho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Poslovia Ya-Sina",
+        "Učeníci Izáša",
+        "Ľudia zo zákopu",
+        "Faraónovi kúzelníci",
+        "Veriaci Ya-Sina"
+      ],
+      "answer": "Poslovia Ya-Sina"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Odmietnutie a hrozba ukameňovania",
+        "Byť hodený do prudkého ohňa",
+        "Skúška trpezlivosti so strateným dieťaťom",
+        "Záhrada, ktorá utrpela zničenie",
+        "Cesta cez more"
+      ],
+      "answer": "Odmietnutie a hrozba ukameňovania"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Najvzdialenejší koniec mesta",
+        "Červené more",
+        "Ohnivá priekopa",
+        "Jaskyňa útočiska",
+        "Egyptské väzenie"
+      ],
+      "answer": "Najvzdialenejší koniec mesta"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Mesto bolo zničené jediným výkrikom",
+        "More sa rozstúpilo a potopilo armádu",
+        "Oheň sa stal chladným a bezpečným",
+        "Záhradu pohltil nebeský oheň",
+        "Veľryba vrátila človeka na breh"
+      ],
+      "answer": "Mesto bolo zničené jediným výkrikom"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

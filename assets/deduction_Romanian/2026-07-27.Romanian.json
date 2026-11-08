@@ -1,0 +1,61 @@
+{
+  "title": "Ofranda care a alterat destinul",
+  "intro": "În primele zile ale umanității, un suflet oferea un dar cu intenții pure. Totuși, invidia pândea în umbra acceptării. Descoperiți povestea acestei figuri a cărei evlavie și sfârșit tragic sunt imortalizate în revelația divină.",
+  "clues": [
+    "Am fost printre primele generații ale omenirii.",
+    "Am adus o ofrandă Domnului meu și a fost primită cu favoare.",
+    "Oferta fratelui meu a fost respinsă, iar invidia i-a întunecat inima.",
+    "I-am spus: „Dacă îți întinzi mâna spre mine ca să mă ucizi, eu nu o voi întinde să te ucid; cu adevărat, mă tem de Allah, Domnul lumilor.”",
+    "Am devenit victima primului act de crimă de pe pământ.",
+    "Sângele meu a strigat, iar eu am fost primul martir al inocenței."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Cain)",
+        "Omul din Ya-Sin",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Oferta sa a fost acceptată, provocând invidia fratelui său și uciderea acestuia.",
+        "A fost aruncat într-un cuptor aprins, dar a ieșit nevătămat",
+        "El a construit o corabie masivă sub îndrumare divină",
+        "A fost înghițit de un pește mare și a rămas în întuneric",
+        "El și-a condus poporul printr-o mare despărțită"
+      ],
+      "answer": "Oferta sa a fost acceptată, provocând invidia fratelui său și uciderea acestuia."
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O ofertă acceptată",
+        "Un toiag care se transformă într-un șarpe",
+        "O cămilă ca semn divin",
+        "O pupăză care aduce vești",
+        "Un vițel de aur venerat"
+      ],
+      "answer": "O ofertă acceptată"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Prima crimă din istorie; fratele său a fost condamnat",
+        "Înghițit de pământ împreună cu averea sa",
+        "Transformați în maimuțe din cauza încălcării legii",
+        "Distrus de un vânt puternic și înghețat",
+        "Înecat într-o mare inundație ca pedeapsă"
+      ],
+      "answer": "Prima crimă din istorie; fratele său a fost condamnat"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

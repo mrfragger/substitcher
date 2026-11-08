@@ -1,0 +1,61 @@
+{
+  "title": "Abafuni Beqiniso Abalele",
+  "intro": "Cabanga ngesikhathi lapho inkolelo yayiphikiswa khona, futhi iqembu lemiphefumulo lakhetha ukuqiniseka okungenakunyakaziswa kunokunethezeka kwezwe. Bebhekene nokukhetha okunzima, bafuna indawo yokukhosela, baqala uhambo olwaholela ebuthongweni obungavamile. Indaba yabo iwubufakazi bokuvikelwa kwaphezulu kanye namandla okholo ekucindezelweni. Ungakwazi yini ukubona ukuthi bangobani laba bantu abaphawulekayo?",
+  "clues": [
+    "Sasiyiqembu elincane, sihlanganiswe yinkolelo ejulile kuMdali Oyedwa.",
+    "Sasiphila esikhathini lapho umbusi onamandla wayefuna ukukhulekelwa komunye umuntu ngaphandle kuka-Allah.",
+    "Ukuze silondoloze ukholo lwethu, sanquma ukushiya amakhaya ethu futhi sibalekele ukucindezelwa.",
+    "Umngane othembekile, isidalwa sasemhlabeni, wayehamba nathi ohambweni lwethu.",
+    "Sithole indawo yokukhosela endaweni engasese, lapho u-Allah wasenza salala ubuthongo obujulile nobude.",
+    "Lapho sivuka, sasikholelwa ukuthi usuku noma ingxenye yosuku kuphela eseludlulile, kodwa amakhulu eminyaka ayesedlulile ngempela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu baseMgodini",
+        "Abantu baseThamud",
+        "Abantu baseSaba'",
+        "Abantu Bomhume",
+        "Abantu baseMadyan"
+      ],
+      "answer": "Abantu Bomhume"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlolwa ngezwe elingenalutho",
+        "Ukubhekana nozamcolo omkhulu",
+        "Ukufuna isiphephelo kumbusi ononya",
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukuphonsela inselelo umlingo womthakathi"
+      ],
+      "answer": "Ukufuna isiphephelo kumbusi ononya"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isigodlo esikhulu",
+        "Umkhumbi/umkhumbi",
+        "Umthombo ojulile",
+        "Umhume",
+        "Intaba ende"
+      ],
+      "answer": "Umhume"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukunikezwa umbuso",
+        "Ubuthongo obumangalisayo amakhulu eminyaka",
+        "Ukugwinywa umhlaba",
+        "Ukusindiswa esiphephweni esibhubhisayo",
+        "Ukunikezwa itafula lasezulwini"
+      ],
+      "answer": "Ubuthongo obumangalisayo amakhulu eminyaka"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

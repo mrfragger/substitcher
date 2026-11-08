@@ -1,0 +1,61 @@
+{
+  "title": "Znak wśród kamieni",
+  "intro": "Do krainy, gdzie góry były wykute w domach, przybył posłaniec z cudownym znakiem od Allaha. Ludzie zażądali dowodu i otrzymali stworzenie z litej skały. Jednak ich arogancja sprawiła, że ​​zignorowali ostrzeżenie, przypieczętowując swój los.",
+  "clues": [
+    "Zostałem posłany do ludu, który żył w domach wykutych w górach.",
+    "Wyzwali mnie, żebym przyniósł znak, więc wyciągnąłem wielbłąda ze skały.",
+    "Rozkazałem im, aby pozwolili wielbłądowi pić swobodnie i nie robili mu krzywdy.",
+    "Nie posłuchali i okaleczyli wielbłąda, lekceważąc moje ostrzeżenie.",
+    "Ogłosiłem, że kara nastąpi po trzech dniach.",
+    "Nad ranem potężna eksplozja ich zniszczyła, ale ja i moi zwolennicy zostaliśmy uratowani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Salih",
+        "Prorok Hud",
+        "Prorok Lut",
+        "Prorok Szuajb",
+        "Prorok Ibrahim"
+      ],
+      "answer": "Prorok Salih"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Żądanie wielbłądzicy ze skały",
+        "Popyt na złotego cielca",
+        "Żądanie stołu nakrytego jak z nieba",
+        "Żądanie powodzi",
+        "Żądanie, aby personel stał się wężem"
+      ],
+      "answer": "Żądanie wielbłądzicy ze skały"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wielbłądzica i jej cielę",
+        "Arka Noego",
+        "Laska Mojżesza",
+        "Złoty cielec",
+        "Ogień Ibrahima"
+      ],
+      "answer": "Wielbłądzica i jej cielę"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zniszczony przez potężny wybuch",
+        "Utonął w powodzi",
+        "Pochłonięty przez ziemię",
+        "Zamienieni w małpy",
+        "Zniszczony przez gwałtowny wiatr"
+      ],
+      "answer": "Zniszczony przez potężny wybuch"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

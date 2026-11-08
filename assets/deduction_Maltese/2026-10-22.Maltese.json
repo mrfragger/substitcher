@@ -1,0 +1,61 @@
+{
+  "title": "Il-Komunità tal-Ewwel Trasgressjoni",
+  "intro": "Fl-art tal-bliet antiki, poplu darba kien jiffjorixxi. Huma ġew viżitati minn messaġġier b'sejħa ċara, iżda daru u segwew triq li ħadd qatt ma kien mexa fiha. L-istorja tagħhom hija waħda ta' sfida, depravazzjoni, u kastig li telaq minn art twelidhom bħala sinjal għal dawk kollha li jirriflettu. Min huma dawn l-erwieħ?",
+  "clues": [
+    "Għexna fi bliet tal-pjanura, fejn il-profeta tagħna sejħilna għat-tjieba.",
+    "Konna l-ewwel li wettaqna indeċenza li ħadd fid-dinja kollha qatt ma kien għamel qabel.",
+    "Aħna dħalna lill-vjaġġaturi u għamilna l-ħażen fil-beraħ fil-laqgħat tagħna.",
+    "Ċaħdna l-messaġġier li ntbagħat lilna u heddejna li nkeċċuh minn artna.",
+    "Ġrejna lejn daru u tlabnieh iċedi l-mistednin tiegħu f'idejna.",
+    "Il-kastig tagħna kien xita ta’ ġebel, u l-belt tagħna nqalbet ta’ taħt fuq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Nies ta' Lut",
+        "Nies ta' Nuh",
+        "Nies ta' 'Ad",
+        "Nies ta' Thamud",
+        "Nies ta' Madyan"
+      ],
+      "answer": "Nies ta' Lut"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Wettaq l-ewwel att ta’ sodomija",
+        "Idoli meqjuma",
+        "Imqarraq fil-kummerċ",
+        "Qatlu l-profeta tagħhom",
+        "Ma obdewx lill-ġenituri tagħhom"
+      ],
+      "answer": "Wettaq l-ewwel att ta’ sodomija"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-belt tal-pjanura",
+        "Il-belt tal-bir",
+        "Il-belt tal-foss",
+        "Il-belt tal-iljunfant",
+        "Il-belt tal-ġnien"
+      ],
+      "answer": "Il-belt tal-pjanura"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ix-xita bil-ġebel u nqalbet",
+        "Għerqet minn għargħar",
+        "Meqrud minn riħ qawwi",
+        "Mibela’ mill-art",
+        "Milqut minn splużjoni qawwija"
+      ],
+      "answer": "Ix-xita bil-ġebel u nqalbet"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

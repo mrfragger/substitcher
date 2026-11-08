@@ -1,0 +1,61 @@
+{
+  "title": "La Kortega Okupo",
+  "intro": "En la koridoroj de potenco, alta statuso enamiĝis al servisto, kies beleco estis alimonda. Ĉi tiu pasio kondukis al serio da eventoj, kiuj testus lojalecojn, rivelus kaŝitajn verojn, kaj finfine konfirmus la senkulpecon de la servisto.",
+  "clues": [
+    "Mi loĝis en la lando de Nilo, en palaco de granda influo.",
+    "Junulo venis en mian hejmon, kaj lia ĉeesto maltrankviligis mian mondon.",
+    "Mi provis delogi lin, sed li serĉis rifuĝon en sia Sinjoro.",
+    "Mi ŝiris lian veston de malantaŭe, sed la pruvoj montris mian trompon.",
+    "Por silentigi la klaĉadon de la nobelinoj, mi invitis ilin al kunveno kaj metis akrajn objektojn en iliajn manojn.",
+    "Fine, mi publike konfesis mian kulpon, agnoskante la veron antaŭ la reĝo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La edzino de Al-Aziz",
+        "Asiya (Edzino de Faraono)",
+        "Bilqis (Reĝino de Ŝeba)",
+        "Mariam (Patrino de Isa)",
+        "La Patrino de Musa"
+      ],
+      "answer": "La edzino de Al-Aziz"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Ŝi provis delogi la profeton Jusuf",
+        "Ŝi provis mortigi la profeton Moise",
+        "Ŝi asertis esti diino",
+        "Ŝi konstruis turon por defii Alaho'n",
+        "Ŝi gvidis armeon kontraŭ Mekko"
+      ],
+      "answer": "Ŝi provis delogi la profeton Jusuf"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Ĉemizo ŝirita de la dorso",
+        "Ora bovido",
+        "Bastono kiu fariĝis serpento",
+        "Kamelo",
+        "Lampo"
+      ],
+      "answer": "Ĉemizo ŝirita de la dorso"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ŝi konfesis kaj agnoskis la veron",
+        "Ŝi dronis kun sia armeo",
+        "Ŝi fariĝis kolono el salo",
+        "Ŝi estis englutita de la tero",
+        "Ŝi estis detruita de krianta vento"
+      ],
+      "answer": "Ŝi konfesis kaj agnoskis la veron"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

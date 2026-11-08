@@ -1,0 +1,61 @@
+{
+  "title": "Sang Penguasa yang Menuntut Keilahian",
+  "intro": "Seorang penguasa yang kuat dan arogan percaya bahwa tak seorang pun lebih tinggi kedudukannya dari takhtanya. Ia mengejar sekelompok orang yang melarikan diri melintasi perairan yang luas, hanya untuk menemui akhir yang dramatis. Kisah penguasa ini bergema di banyak bagian Al-Quran, berfungsi sebagai peringatan bagi semua orang.",
+  "clues": [
+    "Aku adalah penguasa yang kuat yang percaya bahwa tidak ada otoritas yang melampaui otoritasku sendiri di wilayah yang kuperintah.",
+    "Saya memiliki seorang wazir tepercaya bernama Haman yang membantu saya melaksanakan proyek-proyek arsitektur besar.",
+    "Aku memanggil para penyihir terbaik di negeriku untuk menantang tanda-tanda dari seorang utusan yang menentangku.",
+    "Aku menolak membiarkan orang-orang yang diperbudak di wilayahku pergi, meskipun ada wabah penyakit dan peringatan yang jelas.",
+    "Aku mengejar mereka melintasi lautan luas dengan seluruh pasukan dan kereta perangku.",
+    "Laut itu menenggelamkan saya dan pasukan saya, sementara mereka menyeberang dengan selamat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Fir'awn (Firaun)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Firaun)"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Wabah penyakit dan konfrontasi dengan Musa (Moses)",
+        "Membangun bahtera sebelum banjir besar.",
+        "Pertempuran melawan Jalut di lembah",
+        "Ditelan oleh seekor paus",
+        "Membela timbangan perdagangan yang jujur"
+      ],
+      "answer": "Wabah penyakit dan konfrontasi dengan Musa (Moses)"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Menara dan tiang pancang yang tinggi",
+        "Sebuah bahtera kayu besar",
+        "Anak lembu emas",
+        "Tongkat yang berubah menjadi ular",
+        "Seekor paus raksasa"
+      ],
+      "answer": "Menara dan tiang pancang yang tinggi"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Tenggelam di laut bersama tentara",
+        "Diselamatkan oleh rahmat Allah dan kesabaran akan diberi pahala.",
+        "Bersatu kembali dengan keluarga setelah bertahun-tahun mengalami kesulitan.",
+        "Ditelan oleh bumi",
+        "Terbakar dalam kebakaran"
+      ],
+      "answer": "Tenggelam di laut bersama tentara"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

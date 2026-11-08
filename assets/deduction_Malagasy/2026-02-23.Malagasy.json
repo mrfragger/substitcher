@@ -1,0 +1,61 @@
+{
+  "title": "Ny Feon'ny Faharesen-dahatra Miafina",
+  "intro": "Tao am-pon'ny fitsarana jadona, izay lalàna mifehy ny firenena ny tsy finoana, dia nisy fanahy manirery nandeha tamin'ny tady tery feno finoana sy tahotra. Ity olona ity, akaikin'ny foiben'ny fahefana, nihaino ny hafatry ny mpaminany iray izay notsenain'ny fanesoana sy fandrahonana. Tonga ny fotoanan'ny fahamarinana, nanery ity olona ity hisafidy eo amin'ny fiarovana mangina sy ny filazana fahamarinana mampidi-doza. Azonao fantarina ve ny mombamomba ity mpisolovava be herim-po ity?",
+  "clues": [
+    "Niaina tao an-tranon'ny mpitondra jadona iray aho, nahita maso mivantana ny avonavona izay nandà ny famantarana avy amin'Andriamanitra.",
+    "Nohazoniko ho tsiambaratelo ny finoako, harena nafenina tao amin'ny lapan'ny fanompoan-tsampy.",
+    "Reko fa nikasa hamono irak'i Allah, lehilahy iray antsoina hoe Musa, ilay mpitarika izay notompoiko.",
+    "Nanontany tena momba ny lojikany aho, nampahatsiahy azy ireo ny anjaran'ny vahoakan'i Noa, 'Ad ary Thamoud.",
+    "Nametraka fanontaniana manakiana tamin'ny oloko aho hoe: 'Raha mpandainga izy dia ho azy ny laingany; fa raha marina kosa izy dia hisy amin'izay ampanantenainy ho tonga aminao.'",
+    "Ny tantarako dia tantaraina ho ohatra maneho finoana ao amin'ny surah antsoina hoe 'Ilay Mpamela Heloka', izay nampitandremako ny oloko tamin'ny teti-dratsin'ny mahery."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny mpino avy amin'ny fianakavian'i Fir'awn",
+        "Hamana",
+        "Ireo mpanao majika an'i Fir'awn",
+        "Karun",
+        "Ny Samiri"
+      ],
+      "answer": "Ny mpino avy amin'ny fianakavian'i Fir'awn"
+    },
+    "trial": {
+      "label": "Inona no fitsapana nanjo ahy?",
+      "options": [
+        "Niaro ny Mpaminany Musa teo anatrehan'ny mpanjaka jadona",
+        "Manangana tilikambo avo mba hahatratra ny lanitra",
+        "Atsipy ao anaty afo mirehitra",
+        "Voatelina trondro goavambe",
+        "Very ny harena sy ny fahasalamana rehetra"
+      ],
+      "answer": "Niaro ny Mpaminany Musa teo anatrehan'ny mpanjaka jadona"
+    },
+    "location": {
+      "label": "Inona no lohahevitry ny adihevitra nataoko?",
+      "options": [
+        "Ny vokatry ny fandavana ny hafatry ny mpaminany",
+        "Ny fangatahana famantarana avy amin'ny hazo masina",
+        "Ny famoronana zanak'omby avy amin'ny firavaka narendrika",
+        "Ny fahagagana nataon'ny rameva avy tao anaty vatolampy",
+        "Ny fandikana ny nofin'ny mpitondra iray"
+      ],
+      "answer": "Ny vokatry ny fandavana ny hafatry ny mpaminany"
+    },
+    "outcome": {
+      "label": "Inona no vokany?",
+      "options": [
+        "Andriamanitra no namonjy ity olona ity tamin'ny teti-dratsiny",
+        "Nanaiky avy hatrany ny finoana silamo ny fitsarana iray manontolo",
+        "Nibebaka ilay mpitondra jadona raha vao maty an-drano",
+        "Natelina tamin'ny tany ilay mpitondra jadona",
+        "Natao sesitany tany an-tany lavitra ilay olona"
+      ],
+      "answer": "Andriamanitra no namonjy ity olona ity tamin'ny teti-dratsiny"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

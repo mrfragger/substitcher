@@ -1,0 +1,61 @@
+{
+  "title": "Gizli İnanan",
+  "intro": "İnançsızlığın ve zulmün hüküm sürdüğü iktidarın gösterişli salonlarında, beklenmedik bir yerden tek başına bir hakikat sesi yükseldi. Bu kişi, gerçeği ilan etmek için kendi güvenliğini riske atarak, bir elçiyi koruma yetkisine meydan okudu.",
+  "clues": [
+    "Büyük bir zulüm ülkesinde yaşadım ve kendini tanrı ilan eden bir hükümdara hizmet ettim.",
+    "Gerçek inançlarımı, onları açığa vurmanın sonuçlarından korkarak, uzun yıllar boyunca gizledim.",
+    "Açık delillerle gelen bir elçiye inandım, fakat halkım ona karşı komplo kurdu.",
+    "Zalim hükümdarın ve meclisinin önünde durup, masum bir habercinin öldürülmemesi gerektiğini savundum.",
+    "Onlara, Nuh ve Ad kavmi gibi, gerçeği reddeden geçmiş milletlerin cezalandırılacağını bildirdim.",
+    "Allah beni onların kötü planlarından korudu ve zalim rejimin yıkılışına şahit oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Firavun Ailesinden İnanan",
+        "Firavunun Büyücüsü",
+        "Firavunun Veziri",
+        "Firavunun Karısı",
+        "Firavunun Hazinedarı"
+      ],
+      "answer": "Firavun Ailesinden İnanan"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bir peygamberi idamdan korumak",
+        "Bir sihirbazın numaralarına meydan okumak",
+        "Gökyüzüne ulaşmak için bir kule inşa etmek",
+        "Kaçış için denizi ikiye ayırmak",
+        "Bir kralın rüyasını yorumlamak"
+      ],
+      "answer": "Bir peygamberi idamdan korumak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Firavunun sarayı",
+        "Yanan çalı",
+        "altın buzağı",
+        "Madyan Kuyusu",
+        "Peygamber Nuh'un gemisi"
+      ],
+      "answer": "Firavunun sarayı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Zalimler yok edilirken, biz zarar görmekten kurtulduk.",
+        "Güçlü bir hükümdar oldu.",
+        "Ateşe atıldı ve yara almadan kurtuldu.",
+        "Toprak tarafından yutuldu",
+        "Kırk yıl boyunca ıssız yerlerde dolaştı."
+      ],
+      "answer": "Zalimler yok edilirken, biz zarar görmekten kurtulduk."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

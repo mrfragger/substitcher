@@ -1,0 +1,61 @@
+{
+  "title": "Pirmojo nusižengimo bendruomenė",
+  "intro": "Senovės miestų žemėje kadaise klestėjo tauta. Juos aplankė pasiuntinys su aiškiu kvietimu, tačiau jie nusisuko ir pasuko keliu, kuriuo niekas niekada nebuvo ėjęs. Jų istorija yra apie nepaklusnumą, sugedimą ir bausmę, kuri paliko jų tėvynę kaip ženklas visiems, kurie apie tai susimąsto. Kas yra šios sielos?",
+  "clues": [
+    "Mes gyvenome lygumų miestuose, kur mūsų pranašas pašaukė mus į teisumą.",
+    "Mes pirmieji padarėme nepadorumą, kurio niekas visame pasaulyje niekada anksčiau nebuvo padaręs.",
+    "Mes užpuolėme keliautojus ir atvirai darėme piktadarybes savo susibūrimuose.",
+    "Mes atmetėme mums siųstą pasiuntinį ir grasinome išvaryti jį iš mūsų žemės.",
+    "Nuskubėjome į jo namus reikalaudami, kad jis mums atiduotų savo svečius.",
+    "Mūsų bausmė buvo akmenų lietus, o mūsų miestas apvirto aukštyn kojomis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Luto žmonės",
+        "Nuh žmonės",
+        "„Ad“ žmonės",
+        "Tamudo žmonės",
+        "Madjano žmonės"
+      ],
+      "answer": "Luto žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įvykdė pirmąjį sodomijos aktą",
+        "Garbino stabus",
+        "Apgautas prekyboje",
+        "Nužudė savo pranašą",
+        "Nepakluso savo tėvams"
+      ],
+      "answer": "Įvykdė pirmąjį sodomijos aktą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Lygumos miestas",
+        "Šulinio miestas",
+        "Griovio miestas",
+        "Dramblio miestas",
+        "Sodo miestas"
+      ],
+      "answer": "Lygumos miestas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Aplijo akmenimis ir apvirto",
+        "Nuskendo potvynio",
+        "Sunaikintas smarkaus vėjo",
+        "Prarytas žemės",
+        "Nutiko garsus sprogimas"
+      ],
+      "answer": "Aplijo akmenimis ir apvirto"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

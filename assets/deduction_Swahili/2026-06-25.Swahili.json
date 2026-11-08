@@ -1,0 +1,61 @@
+{
+  "title": "Wasikilizaji Kutoka Visivyoonekana",
+  "intro": "Zaidi ya pazia la ulimwengu unaoonekana, kusanyiko lililofichwa lilikusanyika gizani, likivutiwa na sauti iliyopinga yote waliyoyajua. Walikuwa wametangatanga kwa miaka mingi bila mwongozo wa kweli, hadi sauti ilipopenya ukimya wa ulimwengu wao usioonekana na kuchochea kitu ndani kabisa. Usiku wa leo, unaalikwa kupiga hatua zaidi ya vivuli na kufichua utambulisho wa kundi hili la ajabu, ambalo kukutana kwao na maneno ya kimungu kuliwarudisha kwa watu wao kama maonyo ya ukweli ambao haungeweza kuzuilika.",
+  "clues": [
+    "Sisi ni viumbe vya kale, tuliishi muda mrefu kabla ya mataifa mengi uliyosoma kuyahusu, lakini hatuzungumzwi sana katika hadithi za wanadamu.",
+    "Asili yetu ni tofauti na yako, imefumwa kutoka kwa vipengele vya vitu visivyoonekana, na tuna nguvu zinazopingana na kawaida.",
+    "Kwa miaka mingi, tulizunguka-zunguka bila mwongozo wa kweli, hadi sauti ilipotufikia ambayo ilisisimua kitu ndani kabisa.",
+    "Tulisikia kisomo kisicho na maana ambacho tumewahi kusikia, maneno ambayo yalikuwa na uzito zaidi ya usemi wowote.",
+    "Tulijisogeza karibu kwa siri, tukiwaamuru wenzetu wanyamaze, na mistari ilipoisha, hatukuweza kutulia.",
+    "Tulirudi kwa watu wetu na tukasema: 'Enyi watu wetu! Tumesikia Kitabu kilichoteremshwa baada ya Musa, kinachothibitisha yaliyotangulia, kinachoongoza kwenye haki.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Hawariyyun (Wanafunzi wa Isa)",
+        "Majini walioamini baada ya kusikia Quran",
+        "Masahaba wa Pango",
+        "Malaika wa mbingu ya chini kabisa",
+        "Watu wa Firauni waliofuata njia yake"
+      ],
+      "answer": "Majini walioamini baada ya kusikia Quran"
+    },
+    "trial": {
+      "label": "Kesi / Tukio",
+      "options": [
+        "Tulitupwa nje kwa kukataa kuinama mbele ya kiumbe kipya",
+        "Tulifungwa ndani ya pango kwa miaka mia tatu na tisa",
+        "Tuliamriwa kuvuka bahari iliyogawanyika mbele yetu",
+        "Tulitumwa katika nchi ya uchawi ili kujifunza uchawi",
+        "Tulisikiliza kisomo kwa siri na tukabadilishwa nacho"
+      ],
+      "answer": "Tulisikiliza kisomo kwa siri na tukabadilishwa nacho"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa dhahabu aliyetengenezwa kutokana na mapambo ya watu",
+        "Pango ambalo usingizi ulidumu kwa vizazi vingi",
+        "Malaika wawili huko Babeli waliofundisha maarifa yaliyokatazwa",
+        "Kitabu kilichofunuliwa baada ya Musa, kikithibitisha Torati",
+        "Kichaka kinachowaka moto juu ya mlima mtakatifu"
+      ],
+      "answer": "Kitabu kilichofunuliwa baada ya Musa, kikithibitisha Torati"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Tulilaaniwa hadi Siku ya Hukumu",
+        "Tulisimama dhidi ya mtawala mwenye nguvu na tukajenga kizuizi katika nchi",
+        "Tulibadilishwa kuwa nyani na nguruwe",
+        "Tulirudi kwa watu wetu kama waonyaji, tukitangaza imani",
+        "Tulizama baharini pamoja na kiongozi wetu"
+      ],
+      "answer": "Tulirudi kwa watu wetu kama waonyaji, tukitangaza imani"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

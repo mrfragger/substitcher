@@ -1,0 +1,61 @@
+{
+  "title": "A Coroa que Desafiou os Céus",
+  "intro": "Nos corredores dos antigos reinos, o nome de um governante tornou-se sinônimo de tirania e arrogância. Quando um humilde servo de Alá chegou portando sinais inegáveis, esse poderoso soberano recusou-se a render-se à verdade. Hoje, sua tarefa é identificar essa figura lendária cujo domínio desmoronou e cujo destino foi selado sob as ondas.",
+  "clues": [
+    "Sou o governante mais temido, cujo nome ainda ressoa como um aviso através dos tempos.",
+    "Ordenei que um povo inteiro trabalhasse acorrentado, erguendo monumentos que proclamavam a minha glória.",
+    "Quando um mensageiro de Alá se apresentou diante de mim com sinais inegáveis, recusei-me a curvar-me e chamei aquilo de feitiçaria.",
+    "Decretei o assassinato de filhos recém-nascidos entre um povo cativo, na esperança de esmagar seu espírito antes que pudessem se rebelar.",
+    "Compareci perante a minha corte e declarei: 'Eu sou o vosso senhor supremo', exigindo adoração como a um deus.",
+    "Com meu ministro-chefe ao meu lado, construí uma estrutura imponente com o objetivo de alcançar os céus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Faraó (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraó (Fir'awn)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O afogamento no Mar Vermelho",
+        "A camela enviada ao povo de Thamud",
+        "O grande dilúvio de Noé",
+        "O castigo dos Companheiros da Trincheira",
+        "A destruição do exército de Abraha por pássaros"
+      ],
+      "answer": "O afogamento no Mar Vermelho"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A imponente estrutura construída com Haman",
+        "A arca que navegou sobre o dilúvio",
+        "O bezerro de ouro confeccionado pelos Samiri",
+        "O trono de Bilqis, Rainha de Sabá",
+        "A caverna dos jovens adormecidos"
+      ],
+      "answer": "A imponente estrutura construída com Haman"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado no mar; corpo preservado como advertência.",
+        "Exilados e forçados a vagar pelo deserto.",
+        "Transformados em macacos como punição",
+        "Atingido por um violento terremoto",
+        "Queimado por uma chuva de pedras do céu"
+      ],
+      "answer": "Afogado no mar; corpo preservado como advertência."
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

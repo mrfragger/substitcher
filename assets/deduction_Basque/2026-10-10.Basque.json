@@ -1,0 +1,61 @@
+{
+  "title": "Lumadun Eskaut-a",
+  "intro": "Haizeen, izaki ikusezinen eta zeruko izakien gaineko agintea eman zitzaion erreinu batean, kide txiki eta azkar bat desagertu zen lerroetatik — urrutiko nazio baten patua aldatuko zuten errebelazioekin itzultzeko bakarrik. Informatzaile zorrotz honek egia argitara atera zuen ezjakintasuna errotuta zegoen lekuan. Nor naiz ni?",
+  "clues": [
+    "Gizakiek, izaki ikusezinek eta zeruko izakiek haizeei ere agintzen zien agintari jakintsu bakar bati erantzuten zioten gorte batean zerbitzatu nuen.",
+    "Denbora batez nire kargutik kanpo egon nintzen, eta agintariaren haserrea agindu zen arrazoi asegarririk ematen ez banuen.",
+    "Hegan egiteko gai den izaki txiki bat naiz, ikusmen zorrotzagatik ezaguna, eta nire espeziekoei ohore zuzena eman zitzaien errebelazio orrialdeetan.",
+    "Itzuli nintzenean, urrutiko lurralde baten berriak ekarri nituen, non jendea eguzkiari ahuspeztzen zen, zeruak eta lurra sortu zituenari itsu-itsuan.",
+    "Erresuma handi baten gaineko emakume bat aurkitu nuen, tronu bikain batean eserita, lehenago egia inoiz ezagutu gabe.",
+    "Ni naiz Saba'ren erreinua aurkitu eta haizearen gaineko agintea eman zitzaion profeta-errege baten gonbidapen gutun bat eraman nuena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Upupa (Hudhud)",
+        "Sulaimanen Haraneko Inurria",
+        "Asif ibn Barkhiya",
+        "Ifrit Jinna",
+        "Tronuko Aingeru bat"
+      ],
+      "answer": "Upupa (Hudhud)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Sabako Erresumara (Sheba) egindako espedizioa",
+        "Faraoiaren aztiekin izandako liskarra",
+        "Nuh profetaren uholdea",
+        "'Ad-eko herriaren suntsipena",
+        "Itsaso Gorriaren zatiketa"
+      ],
+      "answer": "Sabako Erresumara (Sheba) egindako espedizioa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sabako lurraldea (Sheba)",
+        "Sinai mendia",
+        "Nuh profetaren arka",
+        "Ashab al-Kahfen kobazuloa",
+        "Faraoiaren Jauregia."
+      ],
+      "answer": "Sabako lurraldea (Sheba)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bilqis Sulaimanen gorteari men egin zion",
+        "Faraoia eta bere armada itsasoan ito ziren",
+        "'Ad-eko jendea haize bortitz batek suntsitu zuen",
+        "Faraoiaren aztiek Musa profetarengan sinesten zuten",
+        "Uholde handi batek irentsi zituen sinesgabeak"
+      ],
+      "answer": "Bilqis Sulaimanen gorteari men egin zion"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

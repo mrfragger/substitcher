@@ -1,0 +1,61 @@
+{
+  "title": "Te Pikinga o te Moemoeā",
+  "intro": "He wairua kua whakaritea kia nui, engari i whakamatautauria e ngā whakamātautau nui, i tīmata i tētahi haerenga whakamiharo. I tohuhia te ara o tēnei tangata e te hae, te wehenga, me te mamae hē, ā, i mutu i roto i tētahi tūranga kawenga nui me te huihuinga hohonu. Ka taea e koe te tautuhi i tēnei tangata whakamiharo mai i te Quran?",
+  "clues": [
+    "I haea ahau e te hunga e tata ana ki ahau i mua, ā, i tino wehea ahau i ōku mātua me tōku kāinga.",
+    "I pā mai tētahi wā uaua nui ki ahau, tae atu ki te hokonga atu i ahau mō tētahi utu iti e ngā kairāwhiti.",
+    "I whakapaetia hētia ahau mō te mahi hē, ā, i noho ahau i roto i te whare herehere mō ngā tau maha, heoi, i mau tonu tōku whakapono.",
+    "I whakawhiwhia ahau ki tētahi pūkenga ahurei ki te whakamārama i ngā kitenga uaua, ā, i kitea he mea nui tēnei i roto i tōku ara ki te herekoretanga.",
+    "Nā tōku whakaaro nui me tōku ngākau tapatahi i ārahi ahau ki tētahi tūranga mana nui me te whakawhirinakitanga i tētahi whenua ke.",
+    "Nā te maha o ngā kaupapa i tūtaki anō ai ahau ki ōku mātua kua kaumātuatia me ōku teina, tuākana hoki, whai muri i te ngaro roa, mamae hoki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Sulaimana",
+        "Poropiti a Ihaia",
+        "Poropiti a Yusuf",
+        "Poropiti a Rawiri",
+        "Poropiti a Yahya"
+      ],
+      "answer": "Poropiti a Yusuf"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te horomia e te ika nui",
+        "Te hanga i tētahi Āraka hei whakaora i te ao hanga",
+        "Te whakamanawanui i ngā whakapae teka me te mauheretanga",
+        "Te tū atu ki tētahi rangatira nanakia me ngā merekara",
+        "Te whakamatautauria ki te mate kino me te mate"
+      ],
+      "answer": "Te whakamanawanui i ngā whakapae teka me te mauheretanga"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He rakau e mura ana",
+        "He manu kōrero",
+        "He puna",
+        "He tokotoko e huri ana hei nakahi",
+        "He kamera uha hei tohu"
+      ],
+      "answer": "He puna"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te ārahi i te hekenga ki te whenua i oatitia",
+        "Te noho hei minita whai mana i Ihipa",
+        "Te whiwhinga i te whakawa a te Atua ki tētahi iwi whakakake",
+        "Te whakahaere i tētahi kingitanga nui me te whakaaro nui me te tika",
+        "Te piki ki te rangi"
+      ],
+      "answer": "Te noho hei minita whai mana i Ihipa"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pasiuntinys, kuris stojo prieš stabmeldžius",
+  "intro": "Laikais, kai atsidavimas nuklydo, iškilo pasiuntinys su kvietimu grįžti prie pasaulių Viešpaties garbinimo. Ši figūra tvirtai stojo prieš žmones, įklimpusius į netikro dievo garbinimą, primindama jiems apie jų tikrąjį Kūrėją ir protėvių Viešpatį. Tačiau žmonės buvo neatsargūs ir atmetė perspėjimą, taip užantspauduodami savo likimą. Kas buvo šis nepalenkiamas šauklys?",
+  "clues": [
+    "Buvau pasiųstas pas žmones, kurie buvo nusisukę nuo Vieno Tikrojo Dievo kelio.",
+    "Aš paklausiau savo žmonių: „Ar jūs nebijosite Alacho?“",
+    "Aš juos pašaukiau atsisakyti netikro dievo, vardu Baalas, garbinimo.",
+    "Mano tauta atmetė mano kvietimą ir toliau laikėsi savo stabmeldystės.",
+    "Dėl savo neigimo jie tikrai bus ištraukti bausmei.",
+    "Viešpats suteikė man ramybę ir palaimintą atminimą vėlesnėse kartose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ilja",
+        "Pranašas Jahja",
+        "Pranašas Dhul-Kifl",
+        "Pranašas Jusufas",
+        "Pranašas Šuayb"
+      ],
+      "answer": "Pranašas Ilja"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Paragino savo žmones palikti Baalą",
+        "Pastatė arką, kad išgelbėtų tikinčiuosius",
+        "Buvo įmestas į ugnį",
+        "Pabėgo nuo tirono faraono",
+        "Smūgiavo į uolą, kad ištekėtų vanduo"
+      ],
+      "answer": "Paragino savo žmones palikti Baalą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Baalas",
+        "Al-Latas",
+        "Al-Uzza",
+        "Manatas",
+        "Hubalas"
+      ],
+      "answer": "Baalas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteikta ramybė ir palaimintas atminimas",
+        "Prarytas žemės",
+        "Sugriauta smarkios audros",
+        "Pavirto akmeniu.",
+        "Nuskendo jūroje"
+      ],
+      "answer": "Suteikta ramybė ir palaimintas atminimas"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

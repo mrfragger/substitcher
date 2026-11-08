@@ -1,0 +1,61 @@
+{
+  "title": "Thronus Veritatis",
+  "intro": "Princeps potens, sapientia magna et solio magnifico notus, nuntium arcanum ab ignoto fonte accipit. Haec inopinata communicatio eorum opiniones et auctoritatem provocat, eos in iter diplomaticum inducit quod intellectum eorum probabit et tandem ad profundam expergefactionem spiritualem ducet. Potesne identitatem huius regis et eventus qui totum regnum eorum transformaverunt detegere?",
+  "clues": [
+    "Ego et populus meus solem adoravimus, mores maiorum nostrorum sequentes.",
+    "Avis, upupa, fuit nuntius inusitatus qui mihi epistulam a duce potenti attulit.",
+    "Ad sapientiam mittentis experirendam, dona pretiosa misi, sed reddita sunt, cum mittentis multo maiores divitias ab Allah praediti essent.",
+    "Antequam ad aulam mittentis pervenissem, thronus meus magnificus mirabiliter eo momento oculi translatus est.",
+    "Cum advenissem, rogatus sum num thronus translatus meus esset, et respondi, \"Quasi is ipse sit.\"",
+    "Intravi aulam magnam, cuius solum pro piscina aquae habui, et in illo momento reverentiae, me una cum Propheta Sulaiman Deo, Domino mundorum, submisi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Regina Sabae",
+        "Zulaikha (Uxor Al-Aziz)",
+        "Asiya (uxor Pharaonis)",
+        "Mater Musae",
+        "Maria (Mater Isae)"
+      ],
+      "answer": "Regina Sabae"
+    },
+    "trial": {
+      "label": "Eventus Centralis",
+      "options": [
+        "Accipiendo epistulam a propheta Sulaimano",
+        "In ignem coniectus",
+        "Arcam aedificans ad diluvium superandum",
+        "Dividendo Mare Rubrum",
+        "Immodestiae accusatus"
+      ],
+      "answer": "Accipiendo epistulam a propheta Sulaimano"
+    },
+    "location": {
+      "label": "Obiectum Clave",
+      "options": [
+        "Thronus magnificus",
+        "Vitulus aureus",
+        "Toga multorum colorum",
+        "Baculus qui in serpentem conversus est",
+        "Navis ex tabulis et clavis facta"
+      ],
+      "answer": "Thronus magnificus"
+    },
+    "outcome": {
+      "label": "Exitus Ultimus",
+      "options": [
+        "Subiectio Deo unico vero (Allaho)",
+        "In statuam salis transformatus",
+        "Turrim altam aedificans ut Deum attingamus",
+        "Ab magno pisce deglutitus",
+        "Amissio immensarum divitiarum poena"
+      ],
+      "answer": "Subiectio Deo unico vero (Allaho)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

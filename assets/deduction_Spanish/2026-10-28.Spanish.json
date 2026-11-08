@@ -1,0 +1,61 @@
+{
+  "title": "Una promesa pronunciada sobre brasas",
+  "intro": "Te encuentras junto a un fuego en el desierto mientras sus brasas se esparcen con cuidado. Los visitantes llegan para un encuentro en la quietud, y un simple mensaje da inicio a una historia de promesas, sorpresas y un futuro aún por cumplir.",
+  "clues": [
+    "Recorrimos la distancia para llegar hasta un fiel siervo en el desierto.",
+    "Pedimos que se esparcieran brasas para preparar un fuego.",
+    "Hablamos con una persona que había invocado una llama en busca de frescor y seguridad.",
+    "Le dimos la noticia del nacimiento de un bebé a alguien que ya había pasado la edad de tener hijos.",
+    "Llamamos al niño prometido Isaac.",
+    "Le trajimos a Ibrahim la buena noticia de que tendríamos un hijo, y la asombrosa noticia hizo que Ibrahim se riera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Los ángeles que trajeron la buena nueva de Isaac a Ibrahim",
+        "Los ángeles que advirtieron a Lut",
+        "Los ángeles portadores del trono",
+        "Los ángeles del infierno",
+        "Los ángeles enviados a Noé"
+      ],
+      "answer": "Los ángeles que trajeron la buena nueva de Isaac a Ibrahim"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Llevando la buena noticia del nacimiento de Isaac a Ibrahim",
+        "Advirtiendo a Lut antes del castigo de su pueblo.",
+        "Anunciando el nacimiento de Yahya a Zakariyya",
+        "Portando el Trono en el Día del Juicio",
+        "Anunciando el nacimiento de Isa a Maryam"
+      ],
+      "answer": "Llevando la buena noticia del nacimiento de Isaac a Ibrahim"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un fuego preparado con brasas esparcidas",
+        "Un arca flotando sobre las aguas de la inundación.",
+        "Una cueva sellada por una piedra rodante.",
+        "Una montaña de arcilla endurecida por la salmuera.",
+        "Una escalera que se extiende hacia el cielo"
+      ],
+      "answer": "Un fuego preparado con brasas esparcidas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Buenas noticias: un hijo llamado Isaac.",
+        "Buenas noticias: un hijo llamado Yahya.",
+        "La elección de Talut como gobernante sobre los Hijos de Israel",
+        "Una advertencia antes del castigo del pueblo de Lut",
+        "Una orden para construir un arca antes del Diluvio"
+      ],
+      "answer": "Buenas noticias: un hijo llamado Isaac."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

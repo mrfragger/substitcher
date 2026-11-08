@@ -1,0 +1,60 @@
+{
+  "title": "Tālā troņa mīkla",
+  "intro": "Varens monarhs, apveltīts ar ārkārtēju varu, saskārās ar savdabīgu izaicinājumu, kurā bija iesaistīta karaliene no tālas zemes. Monarhs centās parādīt dievišķo spēku un gudrību, aizsākot neticamu notikumu, kas nepakļāvās laika un telpas likumiem. Vai vari izsecināt šī brīnumainā notikuma detaļas?",
+  "clues": [
+    "Valdniekam tika piešķirta milzīga vara, tostarp vara pār neredzamām būtnēm un spēja pavēlēt vējiem.",
+    "Šis valdnieks saņēma ziņas par bagātu karalieni, kura pielūdza sauli, un nolēma viņu uzaicināt uz galmu.",
+    "Pirms karalienes ierašanās valdniece izteica vēlmi atvest savu krāšņo varas centru no savas tālās valstības.",
+    "Varens džins piedāvājās atgūt priekšmetu, pirms valdnieks varētu piecelties no savas padomes.",
+    "Tomēr kāds ar dziļām zināšanām par Dievišķajiem Rakstiem piedāvāja vēl ātrāku atgūšanu, paveicot uzdevumu acu mirklī.",
+    "Pēc tā ierašanās valdnieks pavēlēja to pārveidot, lai pārbaudītu karalienes intelektu un uztveri, kad viņa beidzot sasniegs pili."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Pravietis/Persona",
+      "options": [
+        "Pravietis Mozus",
+        "Pravietis Dāvids",
+        "Pravietis Ibrahims",
+        "Pravietis Jusufs",
+        "Pravietis Suleimans"
+      ],
+      "answer": "Pravietis Suleimans"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Jūras sadalīšana",
+        "Pacietība grūtībās",
+        "Kaabas celtniecība",
+        "Dārzu pārbaudījums",
+        "Karalienes troņa ieņemšana"
+      ],
+      "answer": "Karalienes troņa ieņemšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Kalns",
+        "Aka",
+        "Tronis"
+      ],
+      "answer": "Tronis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Liels upuris",
+        "Nodibināta valstība",
+        "Tauta, kas sodīta",
+        "Jauna derība",
+        "Karalienes pakļaušanās Allāham"
+      ],
+      "answer": "Karalienes pakļaušanās Allāham"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

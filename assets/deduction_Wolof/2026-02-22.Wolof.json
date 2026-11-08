@@ -1,0 +1,61 @@
+{
+  "title": "Muñ xol bu tiis",
+  "intro": "Ci téere taarix, amna nit ku turam méngoo ak muñ. Nit kii dafa ñàkk bépp xol bu neex ci àdduna, waaye mingi wéy di nekk jaamu Boroom bi. Ci ay at yu bari yu mu dundu ay jafe-jafe ak ay feebar yu metti, xol bu ruuh bi wéy di nekk ci ngëm, di joxe yaakaar ci képp ku jànkoonte ak jafe-jafe.",
+  "clues": [
+    "Jaamub Yàlla bu baax la woon, barkeel ma ci alal ju bari, am doom yu bari, ak wér gu rafet.",
+    "Sama dund dafa soppiku bi ñu ma nangue samay alal ak sama njaboot, ma desee lenn lu dul sama ngëm.",
+    "Feebaru metit wu metti lool daf ma sonal, mu natt fi nit mëna muñ.",
+    "Ci samay tiis yépp, bañ naa ñaxtu sama Boroom, doonte noon bi dafa bëggoon ma yóbbu ci ñàkk yaakaar.",
+    "Bima demee ba woo sama Boroom, ñaanuma alal, waaye nangu naa ni tiis daf ma laal.",
+    "Dañu ma wax ma dóor sama tànk ci suuf, foofu la ndox mu sedd di génn ngir wéral sama yaram, faj sama mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Yaqub",
+        "Ayyub Yalla",
+        "Zakariyyah",
+        "Yahya",
+        "Boroom bi Shu'ayb"
+      ],
+      "answer": "Ayyub Yalla"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "At yu bari yu feebar bu metti ak ñàkk",
+        "ñu sànni ko ci bën bu xóot",
+        "Jën wu rëy wann ko",
+        "Jano ak tiran ci biir safara",
+        "Tukki bu gudd ngir wër jàngalekat"
+      ],
+      "answer": "At yu bari yu feebar bu metti ak ñàkk"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Baton bu xaajale géej gi",
+        "Chemise bu xeeñ kër",
+        "Ndox muy wéral",
+        "Tund wu daanu nekk pënd",
+        "Grotte bu nelaw yu xóot"
+      ],
+      "answer": "Ndox mu am ndox muy faj"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekk nguuru réew mu mag",
+        "Yorandi larme ngir am ndam",
+        "Defaraat wérgi-yaram ak njaboot",
+        "Tabax ab këru jaamu bu sell",
+        "Jot taabal ju tasaaroo ci asamaan si"
+      ],
+      "answer": "Defaraat wérgi-yaram ak njaboot"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Moqapi oa Boikhohomoso",
+  "intro": "Naheng ea boholo-holo e neng e busoa ke matla a hanyetsang, motho ea ka sehloohong o ne a e-na le boemo ba tšusumetso. Moea ona o ne o le bohlokoa mererong e meholo ea 'musi, o kenya letsoho pusong ea bona ea khatello le ho phephetsa molaetsa oa bomolimo. Lefa la bona le hokahane le ho lelekisa matla a lefatše le ho latola 'nete.",
+  "clues": [
+    "Ke sebeleditse mmusi ya matla ya neng a hatella batho melokong e mengata.",
+    "Lebitso la ka le bolelwa kgafetsa Bukeng ya Modimo hammoho le moetapele enwa ya matla.",
+    "Ke ne ke filoe mosebetsi oa projeke e kholo ea kaho, mohaho o molelele o reretsoeng ho fihla maholimong.",
+    "Ke ile ka eletsa mong'a ka hore a bolaee bara ba bana ba Iseraele 'me a boloke barali ba bona.",
+    "Ke ne ke ameha mererong le mererong e mebe khahlanong le lenģosa le matla la Allah.",
+    "Bofelo ba ka, hammoho le morena oa ka le lebotho la hae, bo fihlile metsing a leoatle le leholo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Nimrode",
+        "Abraha",
+        "Goliathe",
+        "Li-Iblis",
+        "Hamane"
+      ],
+      "answer": "Hamane"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho lekoa ka leruo le leholo",
+        "Ho etella pele lebotho khahlanong le ntlo e halalelang",
+        "Ho haha ​​tora ho fihlela Molimo",
+        "Ho lahleloa mollong ka lebaka la tumelo ea bona",
+        "Ho lahleloa ka selibeng ke banab'eso"
+      ],
+      "answer": "Ho haha ​​tora ho fihlela Molimo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Areka",
+        "Basebetsi",
+        "Thaba",
+        "Tora",
+        "Leruarua"
+      ],
+      "answer": "Tora"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Ho fuoa bohlale bo boholo",
+        "Ho ba moprofeta",
+        "Ho metsoa ke lefats'e",
+        "Ho fuoa 'muso",
+        "Ho qoela ka leoatleng"
+      ],
+      "answer": "Ho qoela ka leoatleng"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

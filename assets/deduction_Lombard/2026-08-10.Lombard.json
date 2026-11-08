@@ -1,0 +1,61 @@
+{
+  "title": "I custodi del raccòlt segret",
+  "intro": "En una terra verda, un grupp de gent g’ha fatt un pian segret sotta el cuperchio del buio. Lür cundivideven ün scopo comun, ma la sò intenziün l’era minga giüsta. Lür saveven minga che una svolta divina l’era drèe a spetà menter durmiven.",
+  "clues": [
+    "G’hem ciapà una decisiun ferma, pensand che el noster pian l’era perfett.",
+    "G’hem pensà de nà fœura prima, prima che i olter pudevan anca mes’ciàs.",
+    "Se mettem sü una trama fertil, sicür di noster pruvisiun.",
+    "Quand sem rivà a la destinaziun, l’em truvà steril e desulà, inscì sem pensà de avegh perdü la strada.",
+    "Poeu g’hem capì che l’era propri el noster post, e g’hem crià de disperaziun, dand la colpa l’un a l’olter per la noster perdita.",
+    "Avem giurà chela matina de escluder i puaret del noster raccòlt, ma la puniziun de Allah l’è rivà sü de noi menter durmivom, trasfurmand el noster giardin en rovina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "I proprietari del giardin in de la Sura 68",
+        "El popul de Saba",
+        "I compagn de la caverna",
+        "El popul del elefant",
+        "La gent de la fossa"
+      ],
+      "answer": "I proprietari del giardin in de la Surah 68"
+    },
+    "trial": {
+      "label": "La nostra prova",
+      "options": [
+        "El noster giardin l’è stà distrutt de un calamità del ciel",
+        "El noster giardin l’è stà scovà de un’alluviun",
+        "El noster giardin l’è stà brüsà de un fööch de un nemìs",
+        "El noster giardin l’era pien de locust",
+        "El noster giardin l’è stà engutì de un terremot"
+      ],
+      "answer": "El noster giardin l’è stà distrutt de un calamità del ciel"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "G’hem giurà de tirà sü i sò frütt al matin",
+        "G’hem costruì una diga per dà de l’àqua al noster giardin",
+        "G’hem cercà rifugi in d’una caverna per pruteziun",
+        "G’hem preparad un esercit per conquistar un regn",
+        "G’hem navigà cunt una barca per traversà el mar"
+      ],
+      "answer": "G’hem giurà de tirà sü i sò frütt al matin"
+    },
+    "outcome": {
+      "label": "El noster destin",
+      "options": [
+        "Num se pentem e sperem la misericordia de Allah",
+        "Sem stad completament distrutt e se sem mai pentì",
+        "Sem scapà de la terra e sem mai pü turnà",
+        "Sem diventà ancamò pudent e richi",
+        "Sun stà punì de ​​vèss trasfurmà en sumì"
+      ],
+      "answer": "Num se pentem e sperem la misericordia de Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

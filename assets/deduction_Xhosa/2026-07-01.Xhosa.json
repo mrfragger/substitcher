@@ -1,0 +1,61 @@
+{
+  "title": "Umphefumlo Ongabizwanga Ngagama Owamelana Nesizwe Esingalunganga",
+  "intro": "Kwiphepha leQuran, kukho abantu abamagama abo afihliweyo ukuze sicinge ngezifundo zabo. Omnye umntu onjalo wazalwa phakathi kwesizwe esasingabamkeli abathunywa baso, kodwa lo mntu wayenokholo olufihlakeleyo olwalubahlula. Xa intshabalalo yayisondela, lo mntu wema ngokuqinileyo kwinkolelo yakhe eyimfihlo. Ungamtyhila na lo mntu ungaqondakaliyo olumkisa abantu bakhe ngaphambi kokuba umyalelo wokugqibela ufike?",
+  "clues": [
+    "Ndandihlala phakathi kwabantu ababesoloko bephika abathunywa ababethunyelwe kubo ngu-Allah.",
+    "Ngokungafaniyo nesizwe sam, ndayiqonda inyaniso xa kufika umthunywa onemiqondiso ecacileyo evela eNkosini yam.",
+    "Ndazifihla ukholo lwam kubacinezeli bam, ndisazi ukuba baza kundenzakalisa ukuba bafumanisa ukuba ndiyakholelwa.",
+    "Xa umyalelo wesohlwayo wawusondela, ndavakalisa ukunyaniseka kwam ngokuphandle ndaza ndalumkisa abantu bam ukuba bazisindise.",
+    "Ndibakhumbuze ukuba ndingumthunywa othembekileyo, ongahlukanga kwabo bathunyelwe ngaphambili, kwaye akufuneki banqule ngaphandle kuka-Allah.",
+    "Abantu bakuthi bandityhola ngokuba ndingumlingo nokuba ndiphambene, kodwa isohlwayo ababelunyukisiwe ngaso safika kubo ekugqibeleni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uHud, umthunywa kubantu base-Aad",
+        "Indoda ekholwayo evela kwisizwe soMprofeti uHud owabulawa ngenxa yokholo",
+        "Umlawuli wabantu base-Aad owala inyaniso",
+        "Iqabane loMprofeti uSalih owayengaqinisekanga ngemiqondiso kaThixo",
+        "Ingelosi yathunyelwa ukuba itshabalalise abantu base-Aad"
+      ],
+      "answer": "Indoda ekholwayo evela kwisizwe soMprofeti uHud owabulawa ngenxa yokholo"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Uvavanyo lwembalela nendlala oluvavanye umonde wabo",
+        "Ityala lokuvakalisa ukholo phambi kwesizwe esicinezelayo esingakholwayo",
+        "Ityala lokwakha inqanawa ukuze ibalekele umkhukula omkhulu",
+        "Ityala lokuphoswa emlilweni ngenxa yokukholelwa ku-Allah",
+        "Uvavanyo lokuvavanywa ngobutyebi nempumelelo"
+      ],
+      "answer": "Ityala lokuvakalisa ukholo phambi kwesizwe esicinezelayo esingakholwayo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isixeko saseMakka apho yakhiwa khona indlu engcwele",
+        "Amathafa asentlango esizwe esamkhanyelayo umthunywa waso",
+        "Iintaba zaseMidiyan apho uMprofeti uShu'aib wathunyelwa khona",
+        "Unxweme lomlambo waseYiputa apho kwafunyanwa khona uMprofeti uMusa",
+        "Intlambo yabantu base-Aad, ebhujiswe ngumoya onamandla"
+      ],
+      "answer": "Amathafa asentlango esizwe esamkhanyelayo umthunywa waso"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ndasindiswa enqanaweni ndaza ndaphila de kwathanda uAllah",
+        "Abantu bam bakholelwa emva kwam baza bakhokelelwa kwindlela ethe tye",
+        "Ndabulawa ngabantu bam kodwa umphefumlo wam wathathwa yinceba ka-Allah",
+        "Ndaguquka emva kokuvavanywa kwaye uAllah wamkela inguquko yam",
+        "Ndaguqulwa ndaba sisithixo esinqulwa ngabantu bam emva kokufa kwam"
+      ],
+      "answer": "Ndabulawa ngabantu bam kodwa umphefumlo wam wathathwa yinceba ka-Allah"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

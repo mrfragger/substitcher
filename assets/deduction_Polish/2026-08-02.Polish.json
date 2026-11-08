@@ -1,0 +1,61 @@
+{
+  "title": "Między ziemią a niebem",
+  "intro": "Tajemnicza dusza czeka na ciebie na świętych kartach boskiej historii, niosąc znaki i cuda, których echo wciąż rozbrzmiewa przez wieki. Podążając szlakiem wskazówek, przemierzysz historię naznaczoną cudami – od cudownego początku po wzniesienie się ponad niebiosa. Czy potrafisz rozpoznać tego błogosławionego sługę przed ostatnią wskazówką?",
+  "clues": [
+    "Zostałem wysłany jako posłaniec do Dzieci Izraela z nowiną miłosierdzia i światła.",
+    "Moje narodziny były cudownym znakiem — przyszedłem na ten świat bez ojca, z rozkazu Wszechmogącego.",
+    "Przemawiałem, będąc jeszcze niemowlęciem, broniąc honoru mojej matki przed oskarżeniami jej ludu.",
+    "Za pozwoleniem Allaha ulepiłem ptaki z gliny i tchnąłem w nie życie. Odleciały na oczach tych, którzy je obserwowali.",
+    "Uzdrawiałem niewidomych od urodzenia, leczyłem trędowatych, a nawet wskrzeszałem zmarłych — ale wszystkie cuda działy się za przyzwoleniem Allaha, nie moim.",
+    "Kiedy moi wrogowie planowali mnie zniszczyć, Allah wyniósł mnie do niebios i obiecał mój powrót przed Dniem Sądu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Isa (Jezus)",
+        "Prorok Musa (Mojżesz)",
+        "Prorok Ibrahim (Abraham)",
+        "Prorok Mahomet",
+        "Prorok Jusuf (Józef)"
+      ],
+      "answer": "Prorok Isa (Jezus)"
+    },
+    "trial": {
+      "label": "Decydujący moment",
+      "options": [
+        "Zostałem podniesiony do nieba",
+        "Zostałem wrzucony w płonący ogień",
+        "Stawiłem czoła potężnej armii faraona",
+        "Zostałem połknięty przez wielkiego wieloryba",
+        "Zbudowałem arkę na górze"
+      ],
+      "answer": "Zostałem podniesiony do nieba"
+    },
+    "location": {
+      "label": "Wykonano Święty Znak",
+      "options": [
+        "Uformowałem ptaki z gliny",
+        "Zamieniłem laskę w węża",
+        "Podzieliłem księżyc na dwie części",
+        "Rozkazałem wiatrowi i dżinom",
+        "Wyprowadziłem wielbłądzicę ze skały"
+      ],
+      "answer": "Uformowałem ptaki z gliny"
+    },
+    "outcome": {
+      "label": "Co się ze mną stało",
+      "options": [
+        "Wyniesiony do nieba; obiecał powrót",
+        "Został wielkim władcą imperium",
+        "Wyprowadziłem mój lud z niewoli",
+        "Otrzymał niezrównane bogactwo ziemskie",
+        "Po długiej rozłące znów spotkałem się z rodziną"
+      ],
+      "answer": "Wyniesiony do nieba; obiecał powrót"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

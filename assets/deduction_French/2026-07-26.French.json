@@ -1,0 +1,61 @@
+{
+  "title": "La couronne qui a défié les cieux",
+  "intro": "Dans les couloirs des anciens royaumes, le nom d'un souverain devint synonyme de tyrannie et d'arrogance. Lorsqu'un humble serviteur d'Allah arriva, porteur de signes indéniables, ce puissant dirigeant refusa de se soumettre à la vérité. Aujourd'hui, votre mission est d'identifier cette figure légendaire dont le pouvoir s'est effondré et dont le destin fut scellé par les flots.",
+  "clues": [
+    "Je suis le souverain le plus redouté, dont le nom résonne encore comme un avertissement à travers les âges.",
+    "J'ai ordonné à tout un peuple de travailler dans les chaînes, à ériger des monuments qui proclamaient ma gloire.",
+    "Lorsqu'un messager d'Allah s'est présenté devant moi avec des signes indéniables, j'ai refusé de m'incliner et j'ai qualifié cela de sorcellerie.",
+    "J'ai décrété le massacre des nourrissons parmi un peuple captif, espérant briser leur esprit avant qu'ils ne puissent se relever.",
+    "Je me suis tenu devant ma cour et j'ai déclaré : « Je suis votre seigneur suprême », exigeant d'être adoré comme un dieu.",
+    "Avec mon ministre en chef à mes côtés, j'ai bâti une structure gigantesque destinée à s'élever au-delà des cieux."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Pharaon (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abou Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Pharaon (Fir'awn)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La noyade en mer Rouge",
+        "La chamelle envoyée au peuple de Thamud",
+        "Le grand déluge de Noé",
+        "Le châtiment des Compagnons de la Tranchée",
+        "La destruction de l'armée d'Abraha par les oiseaux"
+      ],
+      "answer": "La noyade en mer Rouge"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La structure imposante construite avec Haman",
+        "L'arche qui a navigué sur le déluge",
+        "Le veau d'or façonné par les Samiri",
+        "Le trône de Bilqis, reine de Saba",
+        "La grotte des jeunes gens endormis"
+      ],
+      "answer": "La structure imposante construite avec Haman"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Noyé en mer ; son corps a été conservé comme un avertissement.",
+        "Exilés et contraints d'errer dans la nature sauvage",
+        "Transformés en singes en guise de punition",
+        "Frappé par un violent tremblement de terre",
+        "Brûlé par une pluie de pierres tombées du ciel"
+      ],
+      "answer": "Noyé en mer ; son corps a été conservé comme un avertissement."
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

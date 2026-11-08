@@ -1,0 +1,61 @@
+{
+  "title": "Tornide ehitajad",
+  "intro": "Kauges minevikus kerkis võimas tsivilisatsioon, mida iseloomustasid muljetavaldavad ehituslikud saavutused ja aukartustäratav tugevus. Sellele kollektiivsele üksusele anti külluslikke ressursse ja füüsilist võimekust, kuid nad valisid trotsides jumaliku sõnumi vastu, mis oli saadetud neid juhatama. Nende lugu on sügav õppetund ajaloo annaalides, tunnistus tõe hülgamise tagajärgedest.",
+  "clues": [
+    "Meile anti tohutu füüsiline jõud ja kasv, erinevalt kõigist teistest meie aja inimestest.",
+    "Meid tunti selle poolest, et ehitasime igale kõrgele paigale suuri ehitisi ja kõrgeid sambaid, arvates, et elame igavesti.",
+    "Meie seast saadeti sõnumitooja meid hoiatama ja kutsuma meid üles kummardama üksnes Allahi ning hülgama oma ebajumalad.",
+    "Me küsitlesime ülbelt oma sõnumitoojat, küsides, kas nad tulid meie juurde ainult selleks, et panna meid kummardama Allahi ja hülgama seda, mida meie esivanemad kummardasid.",
+    "Meie maad õnnistati aedade, allikate ja viljakate põldudega, aga me omistasime oma õitsengu omaenda väele, mitte Loojale.",
+    "Meie pideva uskmatuse ja pilkamise tõttu hävitas meid lõpuks hirmuäratav, raevukas tuul, mis möllas mitu päeva ja ööd."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Thamudi rahvas",
+        "Fir'auni rahvas",
+        "Nuhi rahvas",
+        "Madjani rahvas",
+        "'Redi inimesed"
+      ],
+      "answer": "'Redi inimesed"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Palutakse ohverdada konkreetne kaamel",
+        "Ülesandeks on luua kümme Koraani-sarnast suurat",
+        "Näidatakse mere jagunemist",
+        "Prohveti hoiatus peatselt saabuva veeuputuse kohta",
+        "Liigse ehitamise ja ebajumalate kummardamise eest hoiatava prohveti hülgamine"
+      ],
+      "answer": "Liigse ehitamise ja ebajumalate kummardamise eest hoiatava prohveti hülgamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Tuli",
+        "Soodoma linn",
+        "Kõrged sambad ja tugevad elamud"
+      ],
+      "answer": "Kõrged sambad ja tugevad elamud"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uppus suures üleujutuses",
+        "Maa poolt neelatud",
+        "Muutusid ahvideks ja sigadeks",
+        "Hävitas äikesetorm",
+        "Hävitanud raevukas, laastav tuul"
+      ],
+      "answer": "Hävitanud raevukas, laastav tuul"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

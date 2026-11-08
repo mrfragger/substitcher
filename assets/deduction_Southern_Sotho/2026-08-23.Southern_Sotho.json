@@ -1,0 +1,61 @@
+{
+  "title": "Bongata bo Feletseng",
+  "intro": "U ema ka pel'a melumo ea sechaba seo pale ea sona e ngotsoeng maqhubung. Meea ena e utloile pitso, ea khetha ho se mamele, 'me ea tobana le phello e ileng ea fetola lefatše. Ke bo-mang, hona ho ile ha etsahala'ng ka lefatše la bona?",
+  "clues": [
+    "Re phetse khale, 'me lenģosa le ile la tla ho rona le tsoa har'a rona.",
+    "Re ne re rapela litšoantšo tse hlano 'me re hana ho li lahla.",
+    "Re ile ra soma lenģosa mme ra mo qosa ka hore o khelohile.",
+    "Re ile ra batla hore a tlise kotlo haeba a ne a bua 'nete.",
+    "Re bone maholimo a tšoloha pula 'me lefatše le ntša liliba.",
+    "Re ile ra nyolohela libakeng tse phahameng ho baleha, empa maqhubu a ile a re fihlela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Batho ba Nuh",
+        "Batho ba 'Ad",
+        "Batho ba Thamud",
+        "Batho ba Lute",
+        "Batho ba Madyan"
+      ],
+      "answer": "Batho ba Nuh"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Re ile ra khangoa ke moroallo o moholo",
+        "Re ile ra senngoa ke sefefo",
+        "Re bolailoe ke ho phatloha ho hoholo",
+        "Re ile ra metsoa ke lefats'e",
+        "Re ile ra betsoa ka majoe a tsoang leholimong"
+      ],
+      "answer": "Re ile ra khangoa ke moroallo o moholo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Moroallo o moholo",
+        "Moea o matla",
+        "Pula ea majoe",
+        "Ho phatloha ho tukang",
+        "Tšisinyeho ea lefatše"
+      ],
+      "answer": "Moroallo o moholo"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Kaofela re timetse ntle le balumeli ba nang le Nuh",
+        "Re ile ra fetoloa litšoene",
+        "Re ile ra sala re le lithako bakeng sa baeti",
+        "Re ile ra fetoloa letsoai",
+        "Re ile ra fuoa phomolo"
+      ],
+      "answer": "Kaofela re timetse ntle le balumeli ba nang le Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

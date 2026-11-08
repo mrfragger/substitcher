@@ -1,0 +1,61 @@
+{
+  "title": "Şahidên Bêdeng",
+  "intro": "Demekê xeyal bike ku bawerî bi agir dihat ceribandin, û baweriya bêdawî bû serhildana herî dawî. Erka te ye ku nasnameya komekê eşkere bikî ku çîroka wan di Quranê de, çîrokeke baweriyeke kûr li dijî zordariya serdest, tê vegotin. Nîşaneyan veke da ku kifş bikî ka ev giyan kî bûn, û şert û mercên awarte yên ku ew pê re rû bi rû man.",
+  "clues": [
+    "Em di baweriya xwe de bi israr rawestiyan, tevî zexteke mezin ji bo devjêberdana baweriya xwe.",
+    "Em ji aliyê hukumdarekî bihêz ve hatin hedefgirtin ku hewl da ronahiya yekxwedayetiyê vemirîne.",
+    "Me nîşan û mûcîzeyên mezin dîtin, lê dîsa jî zordarên me bêxem man.",
+    "Me rêbazeke zordariyê ya hovane tehemûl kir ku ji bo tirsandina yên din da ku teslîm bibin hatibû çêkirin.",
+    "Em hatin avêtin nav dojeheke agirîn, lê dîsa jî sebir û sebira me ji me re li cem Xwedê pileyeke bilind qezenc kir.",
+    "Çîroka me di Sûreyekê de ku navê xwe ji komstêrên ezmanî digire, tê vegotin û li ser çarenûsa kesên ku li bawermendan zilmê dikin hişyarî dide."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Gelê Semûdê",
+        "Gelê Adê",
+        "Xelkê Xendekê",
+        "Gelê Midyanê",
+        "Gelê Fîl"
+      ],
+      "answer": "Xelkê Xendekê"
+    },
+    "trial": {
+      "label": "Zilm û zordariya me",
+      "options": [
+        "Di lehiyê de xeniqîn",
+        "Ji aliyê bayekî germ ve tê xwarin",
+        "Avêtina nav çengek agirîn",
+        "Ji aliyê erdê ve tê daqurtandin",
+        "Veguherîna meymûnan"
+      ],
+      "answer": "Avêtina nav çengek agirîn"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Lehiyeke mezin",
+        "Erdhejeke mezin",
+        "Xendekeke kûr û şewitî",
+        "Îdolekî bi hêz",
+        "Hişkesaliyeke wêranker"
+      ],
+      "answer": "Xendekeke kûr û şewitî"
+    },
+    "outcome": {
+      "label": "Çarenûsa me ya dawîn",
+      "options": [
+        "Padîşahiyek li ser erdê ji wan re hat dayîn.",
+        "Ew bi revînek mûcîzeyî hatin xilas kirin.",
+        "Wan şehadet û xelata herheyî bi dest xistin.",
+        "Ew veguherî cureyekî cuda.",
+        "Serwet û dewlemendiyeke mezin ji wan re hat dayîn."
+      ],
+      "answer": "Wan şehadet û xelata herheyî bi dest xistin."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

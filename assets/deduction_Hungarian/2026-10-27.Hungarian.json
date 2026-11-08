@@ -1,0 +1,61 @@
+{
+  "title": "Ostrom hirtelen jött ég alatt",
+  "intro": "Egy félelmetes sereg előtt állsz, amely egy tisztelt szentélyhez közeledik, minden fegyverrel készenlétben, a győzelem pedig biztosnak tűnik. Mielőtt a támadás elkezdődhetne, egy váratlan hatalom jelenik meg a fejed felett, és a küzdelem olyan fordulatot vesz, amit senki sem látott előre.",
+  "clues": [
+    "Olyan magabiztossággal meneteltünk, amelyet földi hatalom nem tudott megingatni.",
+    "Hatalmas elefántokat hoztunk, és úgy tűnt, hogy a seregünk köréjük épül.",
+    "Azért jöttünk, hogy leromboljunk egy tisztelt szentélyt, abban a hitben, hogy a győzelmünk már biztos.",
+    "Amikor odaértünk, egy csapat madár vonult át felettünk az égen.",
+    "A madarak megkeményedett agyagköveket dobáltak harcosainkra.",
+    "Olyan teljes vereséget szenvedtünk, hogy hatalmas erőnk porrá zúzódott és szétszóródott, mint a hamu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az elefánt népe",
+        "A két herceg",
+        "József testvérei",
+        "Allah szolgája Dhul-Kiflben",
+        "Az igaz ember társai"
+      ],
+      "answer": "Az elefánt népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Elefántok vezette támadás a Kába ellen",
+        "A tenger kettéválik egy kiszállított csoport előtt",
+        "A Frigyláda lefoglalása egy zsarnok nép által",
+        "Éjszakai utazás két mecset között",
+        "Egy leprás gyógyítása isteni erő által"
+      ],
+      "answer": "Elefántok vezette támadás a Kába ellen"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Madarak, akik agyaggolyókat cipelnek",
+        "Göferfából készült bárka",
+        "Egy személyzet kígyóvá változott",
+        "Egy jellel lepecsételt kő",
+        "Egy égő csipkebokor"
+      ],
+      "answer": "Madarak, akik agyaggolyókat cipelnek"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hatalmas erejük hamuként omlott össze",
+        "Biztonságban átkeltek a tengeren",
+        "Sértetlenül mentek át egy lángoló kemencén",
+        "Párosával léptek be a Paradicsomba",
+        "309 évig aludtak egy barlangban"
+      ],
+      "answer": "Hatalmas erejük hamuként omlott össze"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

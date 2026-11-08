@@ -1,0 +1,61 @@
+{
+  "title": "O Grito das Profundezas",
+  "intro": "Um servo do Misericordioso cansou-se de uma nação obstinada e partiu antes de lhe ser concedida permissão. Esse indivíduo acabou num lugar onde nenhum ser humano jamais estivera, onde o chamado do Divino ressoa estranhamente através das camadas de escuridão. Emergindo enfraquecido, mas transformado, essa alma tornou-se uma lição atemporal de paciência, arrependimento sincero e a infinita misericórdia do Criador. Você consegue desvendar o mistério?",
+  "clues": [
+    "Fui enviado como mensageiro ao meu povo, mas eles ultrapassaram todos os limites em sua descrença e se recusaram a ouvir.",
+    "Fiquei furioso com a rejeição deles e fugi do meu povo antes que chegasse a ordem de Alá.",
+    "Embarquei num navio lotado além da capacidade, e fizemos um sorteio para determinar quem seria lançado ao mar.",
+    "Fui atirado ao mar revolto e engolido por um grande peixe.",
+    "Preso em três camadas de escuridão — o ventre, o mar profundo e a terra abaixo — clamei ao meu Senhor em sincero arrependimento.",
+    "Saí do peixe para a praia aberta, fraco e exausto, e uma planta de cabaça cresceu sobre mim. Meu povo, cem mil ou mais, finalmente acreditou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Yunus",
+        "Profeta Jó",
+        "Profeta Yusuf",
+        "Profeta Moisés",
+        "Profeta Sulaiman"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Engolido por um peixe enorme",
+        "Atirado em um fogo ardente",
+        "Preso no fundo de um poço",
+        "Inundado por uma grande enchente",
+        "Preso injustamente por um rei"
+      ],
+      "answer": "Engolido por um peixe enorme"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A barriga de um peixe grande",
+        "O vale sagrado perto da Caaba",
+        "Uma arca repousando sobre uma montanha",
+        "Um cajado que se transformou em serpente.",
+        "Um trono de grandeza inigualável"
+      ],
+      "answer": "A barriga de um peixe grande"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Seu povo, cem mil ou mais, acreditava",
+        "Elevados vivos aos céus",
+        "Tornou-se governante de um reino sem igual.",
+        "Destruído por um grito penetrante vindo do céu",
+        "Derrubado por um terremoto devastador"
+      ],
+      "answer": "Seu povo, cem mil ou mais, acreditava"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

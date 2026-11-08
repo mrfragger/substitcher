@@ -1,0 +1,61 @@
+{
+  "title": "I testimoni perid",
+  "intro": "In ün temp pasà, una comunità la abitava in ün incrocio tra i imperi. El luur profet g’ha ciamà vers el camin de la verità, e ancamò se sun tacà a l’incredulità e a l’upresiun. Chesta storia la finiss in de la puniziun divina. Pœdet identificà chesta naziun e luur destin di indizi che g’he sun sotta?",
+  "clues": [
+    "Un popol l’ha refudad l’avvertiment portad de vun dei so messajer.",
+    "El messagger l’ha ciamà a venerà sultant Allah e l’ha avvertì cuntra la corruziun.",
+    "La nostra transgresion l’era refudar el profeta mandà intra de nun cun giüstizia.",
+    "Num g’hem dubità de l’autorità del messagger e g’hem acusà de ingannà.",
+    "La puniziun l’è rivada quand che stavim en mod sicür in di noster cà.",
+    "Num sem stà distrutt perché g’hem negà el noster profet e g’hem perseguì i credent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Ricef un profet che g’ha ciamà a la giüstizia",
+        "Vèss testà cunt una carestia",
+        "Aver interpretad un sogn",
+        "Ricef la Torah",
+        "Viajar travers el mar"
+      ],
+      "answer": "Ricef un profet che g’ha ciamà a la giüstizia"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Midian",
+        "Babilonia",
+        "Sodoma",
+        "El Mar Ross",
+        "L'Arca"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "El popul l’è stà distrutt per incredulità",
+        "El popul el se pentì e l’è stà guidà",
+        "El popul l’è entrà in del Paradis",
+        "La gent l’è soravissuu e l’è rivada",
+        "El popul l’è migrà en una nœuva terra"
+      ],
+      "answer": "El popul l’è stà distrutt per incredulità"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

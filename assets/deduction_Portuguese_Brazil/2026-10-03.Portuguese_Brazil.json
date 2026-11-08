@@ -1,0 +1,61 @@
+{
+  "title": "A Vigília no Portão Flamejante",
+  "intro": "Uma multidão silenciosa e formidável permanece de guarda em um limiar temível, sem jamais provar comida, bebida ou descanso. Moldados de uma substância diferente da argila humana, aguardam um único propósito terrível — e jamais desobedeceram a um único mandamento de seu Senhor.",
+  "clues": [
+    "Somos seres diferentes dos humanos, criados a partir de uma substância que não come, não bebe e não se cansa.",
+    "Nosso número exato é conhecido e revelado no Livro — não somos incontáveis ​​nem uma multidão.",
+    "Nunca desobedecemos ao nosso Criador, nem jamais falamos antes de recebermos uma ordem.",
+    "Quando chegar o Dia, os incrédulos serão levados até nós em grupos, e nós lhes abriremos os portões.",
+    "Perguntaremos a eles: 'Não vos chegaram mensageiros dentre vós mesmos, avisando-vos deste Dia?'",
+    "Guardamos um lugar de onde nenhuma alma jamais emerge — um domínio flamejante de punição eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Os Guardiões do Fogo do Inferno (Zabaniyah)",
+        "Os Portadores do Trono de Alá",
+        "Os anjos da gravação (Kiraman Katibin)",
+        "Os Anjos da Morte",
+        "Os Guardiões do Paraíso"
+      ],
+      "answer": "Os Guardiões do Fogo do Inferno (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Nossa principal responsabilidade",
+      "options": [
+        "Guardando os portões do Fogo Infernal",
+        "Registrando cada ação humana",
+        "Carregando o Trono de Alá",
+        "Levar as almas dos falecidos",
+        "Dominando os ventos e as nuvens"
+      ],
+      "answer": "Guardando os portões do Fogo Infernal"
+    },
+    "location": {
+      "label": "O que protegemos?",
+      "options": [
+        "O Fogo do Inferno",
+        "O Trono de Alá",
+        "Os Pergaminhos dos Feitos",
+        "Os Rios do Paraíso",
+        "As Montanhas da Terra"
+      ],
+      "answer": "O Fogo do Inferno"
+    },
+    "outcome": {
+      "label": "Destino daqueles em nosso domínio",
+      "options": [
+        "Eles permanecerão para sempre e nunca partirão.",
+        "Eles acabarão sendo perdoados e libertados.",
+        "Eles serão purificados com o tempo.",
+        "Eles serão transformados em outras formas.",
+        "Eles irão alternar entre o Inferno e o Paraíso."
+      ],
+      "answer": "Eles permanecerão para sempre e nunca partirão."
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

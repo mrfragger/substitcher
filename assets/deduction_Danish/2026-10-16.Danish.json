@@ -1,0 +1,61 @@
+{
+  "title": "Det samfund, der trodsede hviledagen",
+  "intro": "Træd ind i en kystbebyggelse, hvor en guddommelig befaling har afsat én dag til tilbedelse og tilbageholdenhed. En gruppe i dette samfund valgte at teste grænserne for denne befaling med en snedig plan, hvilket førte til en forvandling, der ville give genlyd gennem tiderne. Hvem var disse sjæle, og hvad blev der af dem?",
+  "clues": [
+    "Vi boede nær kysten, hvor havet sørgede for vores levebrød.",
+    "Vi blev befalet at ære én dag i ugen og sætte den til side fra verdslige stræben.",
+    "Den dag kom fiskene til os i stort antal, som om de fristede os til at bryde budet.",
+    "Vi udtænkte en plan om at fange fiskene på tærsklen til den hellige dag og derefter indsamle dem, når den var overstået.",
+    "Da nogle iblandt os advarede mod dette bedrag, ignorerede vi deres råd og insisterede.",
+    "For vores overtrædelse blev vi forvandlet til aber, foragtet og forkastet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Sabbattens folk",
+        "Folket i grøften",
+        "Skovens folk",
+        "Havens folk",
+        "Elefantens folk"
+      ],
+      "answer": "Sabbattens folk"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Fiskeri på sabbatten",
+        "Bygger et højt tårn",
+        "At dræbe en hellig hunkamel",
+        "At benægte en profet, der var sendt til dem",
+        "Overskridelse af handelsvægte"
+      ],
+      "answer": "Fiskeri på sabbatten"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Havet og dets fisk",
+        "Ilden, der blev kølet ned",
+        "Staven der blev til en slange",
+        "Frelsens ark",
+        "Stentavlerne"
+      ],
+      "answer": "Havet og dets fisk"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Forvandlet til aber",
+        "Opslugt af jorden",
+        "Ødelagt af en voldsom vind",
+        "Druknet i havet",
+        "Ramt af en byge af sten"
+      ],
+      "answer": "Forvandlet til aber"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

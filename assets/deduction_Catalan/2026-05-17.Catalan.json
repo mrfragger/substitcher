@@ -1,0 +1,61 @@
+{
+  "title": "Els arquitectes de pedra",
+  "intro": "Imagineu-vos una civilització poderosa, dotada de força i habilitat, que esculpia grans habitatges als vessants de les muntanyes. Aquest col·lectiu posseïa una immensa prosperitat i una destresa arquitectònica única. Tot i això, tot i rebre clars avisos, van triar un camí que els portaria a una conclusió dramàtica i inoblidable. Podeu identificar aquest grup la història del qual serveix com a profunda lliçó per a tots els que reflexionen?",
+  "clues": [
+    "Ens van donar força i habilitat, cosa que ens va permetre esculpir cases magnífiques directament a les muntanyes.",
+    "Al·là ens va donar un senyal clar, una criatura única que havia de ser deixada pasturar sense ser molestada.",
+    "La nostra comunitat es va tornar arrogant, desafiant el missatge diví portat per un missatger d'entre nosaltres.",
+    "Vam conspirar per fer malbé el senyal miraculós, tot i els advertiments de càstigs severs.",
+    "Vam desafiar l'ordre de deixar que la criatura especial begués del nostre pou en dies alterns.",
+    "Vam tenir un final devastador, colpejats per una sola i terrorífica explosió després del nostre acte de transgressió."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Gent d'Ad",
+        "Gent de Madian",
+        "Gent de l'elefant",
+        "Gent de Thamud",
+        "Gent de Lut"
+      ],
+      "answer": "Gent de Thamud"
+    },
+    "trial": {
+      "label": "El nostre gran assaig/esdeveniment",
+      "options": [
+        "La inundació que va engolir la terra",
+        "La divisió del mar",
+        "La destrucció per un sol crit/explosió",
+        "L'incendi d'una ciutat",
+        "La conversió d'una muntanya en pols"
+      ],
+      "answer": "La destrucció per un sol crit/explosió"
+    },
+    "location": {
+      "label": "Un element clau de la nostra història",
+      "options": [
+        "Un vedell d'or",
+        "Una camella miraculosa",
+        "Un arbust ardent",
+        "Un ocell parlant",
+        "Un tron ​​majestuós"
+      ],
+      "answer": "Una camella miraculosa"
+    },
+    "outcome": {
+      "label": "El nostre resultat final",
+      "options": [
+        "Atorgat immensa riquesa i poder",
+        "Elevat a la profecia",
+        "Aniquilació total per un càstig diví",
+        "Perdonat després d'un sincer penediment",
+        "Esparsos per la terra per vagar"
+      ],
+      "answer": "Aniquilació total per un càstig diví"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "O Arauto de um Pecado Sem Precedentes",
+  "intro": "Algumas histórias do Alcorão revelam a profundidade da corrupção em que uma sociedade inteira pode cair. Este mensageiro estava sozinho, suplicando a um povo mergulhado em uma perversão que nenhuma nação antes deles jamais havia perseguido. Apesar de anos de advertências, os corações permaneceram endurecidos, e o decreto divino chegou de uma maneira terrível. Você consegue identificar este nobre mensageiro de Deus?",
+  "clues": [
+    "Fui enviado como um mensageiro para um povo consumido por uma perversão que nenhuma nação antes deles jamais havia cometido.",
+    "Meu povo me chamou de mentiroso e ameaçou expulsar a mim e aos meus seguidores daquela terra.",
+    "Visitantes ilustres vieram à minha casa na forma de jovens impressionantes, e senti profunda preocupação com a segurança deles.",
+    "Meu povo exigiu que eu entregasse meus hóspedes a eles, sem saber que esses visitantes eram anjos enviados por Alá.",
+    "Meu próprio cônjuge não compartilhava da minha fé e escolheu ficar para trás com os condenados.",
+    "Fui salva com minhas filhas ao amanhecer, quando uma chuva devastadora de pedras caiu e nossas cidades foram arrasadas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Ló",
+        "Profeta Shu'aib",
+        "Profeta Hud",
+        "Profeta Noé",
+        "Profeta Salih"
+      ],
+      "answer": "Profeta Ló"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Uma grande inundação que engolfou a terra",
+        "Perda da visão devido a sofrimento prolongado",
+        "Um tirano que se dizia divino",
+        "Ser atirado em um fogo ardente.",
+        "Exigindo a entrega de convidados de honra"
+      ],
+      "answer": "Exigindo a entrega de convidados de honra"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma grande arca construída à mão",
+        "Um cajado que dividiu o mar",
+        "Uma camela milagrosa",
+        "Um incêndio devastador",
+        "Cidades derrubadas"
+      ],
+      "answer": "Cidades derrubadas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogou-se enquanto perseguia os crentes.",
+        "Salvo ileso de uma fornalha em chamas.",
+        "Elevados vivos aos céus",
+        "Família pereceu em uma grande enchente",
+        "Família salva, exceto por uma esposa infiel."
+      ],
+      "answer": "Família salva, exceto por uma esposa infiel."
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

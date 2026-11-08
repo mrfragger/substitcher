@@ -1,0 +1,61 @@
+{
+  "title": "Chematorul din adâncuri",
+  "intro": "Imaginați-vă un suflet căruia i s-a încredințat un mesaj divin, dar care, într-un moment de grabă, s-a îndepărtat de poporul său fără permisiune explicită. Această călătorie i-a condus într-o încercare extraordinară, un test profund al răbdării și al încrederii în Cel Preaînalt. Cine este acest individ a cărui poveste ne învață despre pocăință și despre imensitatea milostivirii lui Allah?",
+  "clues": [
+    "Am fost trimis într-o națiune mare, dar respingerea lor inițială m-a tulburat.",
+    "Mi-am părăsit oamenii, crezând că misiunea mea era îndeplinită, înainte de a primi ordinul clar de plecare.",
+    "Am căutat o călătorie cu o navă, dar o furtună puternică și o tragere la sorți au dus la o situație dezastruoasă.",
+    "Am fost aruncat în mare și o creatură puternică din adâncuri m-a înghițit cu totul.",
+    "În întunericul din pântecele său, L-am chemat pe Allah, recunoscându-mi greșeala și cerându-I iertarea.",
+    "Allah i-a poruncit creaturii să mă arunce pe țărm și mi-am fost însănătoșit sub o plantă unică."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Yusuf (Iosif)",
+        "Profetul Nuh (Noe)",
+        "Profetul Yunus (Iona)",
+        "Profetul Sulaiman (Solomon)",
+        "Profetul Ayyub (Iov)"
+      ],
+      "answer": "Profetul Yunus (Iona)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Despărțirea mării",
+        "Focul lui Nimrod",
+        "Fiind înghițit de un pește mare",
+        "Inundația",
+        "Distrugerea unui oraș de către pietre"
+      ],
+      "answer": "Fiind înghițit de un pește mare"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca",
+        "Personalul",
+        "Burta peștelui",
+        "Fântâna",
+        "Rugul aprins"
+      ],
+      "answer": "Burta peștelui"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A devenit un mare conducător",
+        "A construit Kaaba",
+        "S-a întors să călăuzească o națiune pocăită",
+        "I s-a dat stăpânire asupra djinnilor",
+        "I-a condus pe oameni prin deșert"
+      ],
+      "answer": "S-a întors să călăuzească o națiune pocăită"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

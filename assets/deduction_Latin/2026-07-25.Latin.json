@@ -1,0 +1,61 @@
+{
+  "title": "Incolae Duorum Hortorum",
+  "intro": "In terra ubi benedictiones abundanter affluebant, olim quaedam communitas duorum hortorum magnificorum ubertate fruebatur. Vitae eorum testimonium divini favoris erant, tamen historia eorum, gratia imminuta, mutationem cepit, ad transformationem ducens quae omnibus qui rem meditantur signum perpetuum fieret.",
+  "clues": [
+    "Populus eramus terra otii et abundantiae beatus.",
+    "Dominus noster nobis duos hortos splendidos concessit, undique uberes et fertiles.",
+    "Iussi sumus grati esse, sed ingratitudinem elegimus et avertimus.",
+    "Magnum agger aquas, quae terrae nostrae vitam dederunt, cohibuit.",
+    "Cum in malis perseveraremus, agger ruptus est et aquae diluvii pervaderunt.",
+    "Horti nostri olim laetissimi fructus amari, tamarici, et paucis arboribus loti substituti sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Sabae",
+        "Populus Thamud",
+        "Populus Madyani",
+        "Socii Speluncae",
+        "Populus Elephantis"
+      ],
+      "answer": "Populus Sabae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Ventus vehemens per septem noctes",
+        "Pluvia lapidum de caelo",
+        "Diluvium perniciosum ex aggere rupto",
+        "Magnus clamor de caelo",
+        "Submersus in mari"
+      ],
+      "answer": "Diluvium perniciosum ex aggere rupto"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Magna moles Maribensis",
+        "Vallis Wadi al-Qura",
+        "Hortus Irae",
+        "Puteus Zamzam",
+        "Mons Sinai"
+      ],
+      "answer": "Magna moles Maribensis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Horti nostri fructibus amaris et arboribus sparsis substituti sunt",
+        "Terra terraemotu absorpti sumus",
+        "In simias et porcos transformati sumus",
+        "In magna inundatione submersi sumus",
+        "Imbri lapidum deleti sumus"
+      ],
+      "answer": "Horti nostri fructibus amaris et arboribus sparsis substituti sunt"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

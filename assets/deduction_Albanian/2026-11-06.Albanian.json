@@ -1,0 +1,61 @@
+{
+  "title": "Gjaku i parë i derdhur nga zilia",
+  "intro": "Imagjinoni ditët e para të njerëzimit, kur e gjithë bota ishte një familje e vetme. Ju shikoni teksa dy oferta i paraqiten Allahut - njëra pranohet, tjetra refuzohet. Zilia zë rrënjë në një zemër dhe një kërcënim pëshpëritet në zemërim. Ajo që do të pasojë do të lërë një gjurmë në histori përgjithmonë, dhe madje edhe një zog i vogël do të bëhet një mësues.",
+  "clues": [
+    "Unë i përkas familjes së parë në tokë.",
+    "I paraqita një ofertë Allahut, por imja nuk u pranua, ndërsa oferta tjetër u pranua.",
+    "Fola hapur nga zilia dhe kërcënova se do t’i merrja jetën një personi.",
+    "Unë kryeva vrasjen e parë të padrejtë në tokë.",
+    "Pashë një sorrë që kruante tokën për të më treguar se si ta fshihja një trup.",
+    "Mbeta plot keqardhje dhe u bëra ndër të humburit për atë që kishin bërë duart e mia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Qabili (Kaini), djali i Adamit",
+        "Samiri, krijuesi i viçit",
+        "Nemrudi, tirani që debatoi me Ibrahimin",
+        "Azari, krijuesi i idhujve",
+        "Kan'an, djali i mbytur i Nuhut"
+      ],
+      "answer": "Qabili (Kaini), djali i Adamit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Vrasja e një vëllai/motre nga zilia pas një oferte të refuzuar",
+        "Ndërtimi i një kulle të lartë për të parë qiellin",
+        "Duke formuar një viç të artë për adhurim",
+        "Duke kërkuar një tryezë të shtruar nga qielli",
+        "Duke udhëhequr një ushtri elefantësh për të shkatërruar Qaben"
+      ],
+      "answer": "Vrasja e një vëllai/motre nga zilia pas një oferte të refuzuar"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një sorrë që kruan tokën për të treguar varrimin",
+        "Një viç i artë që ulërinte",
+        "Një arkë e madhe mbi ujërat e përmbytjes",
+        "Një shkop që u bë gjarpër",
+        "Një tryezë e shtruar me ushqim nga qielli"
+      ],
+      "answer": "Një sorrë që kruan tokën për të treguar varrimin"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U bë i penduar dhe midis humbësve",
+        "U mbyt në përmbytjen e madhe",
+        "U gëlltit nga toka me thesarin",
+        "U godit nga lebra për shtatë vjet",
+        "iu dha një mbretëri me kontroll mbi erërat"
+      ],
+      "answer": "U bë i penduar dhe midis humbësve"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

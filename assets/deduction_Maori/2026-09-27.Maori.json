@@ -1,0 +1,61 @@
+{
+  "title": "Te Māra i Ngaro i te Pō",
+  "intro": "Whakaarohia he māra momona, kī tonu i ngā hua e pakari haere ana, ā, e karapotia ana e ngā rākau teitei. Ko te hunga i tiaki i taua māra i whakaaro he mātau rātou, e whakamahere ana i ā rātou kotinga i ngā hāora marino i mua i te ata, kia matara atu i ngā kanohi o te hunga e matea ana. Engari ko te Mea e kore e moe, he mahere anō āna mō ā rātou taonga huna. Ka taea e koe te matapae ko wai kei muri i tēnei kōrero whakatūpato mai i te Quran?",
+  "clues": [
+    "I a mātou tētahi māra i mua, he nui ngā mea momona, ā, i hae ai te hunga katoa e haere ana.",
+    "I a mātou e whakamahere ana, i kōrero pōhēhē mātou tetahi ki tetahi i te atatu, me te kī kāore he wairua rawakore e whakaaetia kia tomo ki roto i taua rā.",
+    "He hunga whai rawa mātou, ā, kua matapo ō mātou ngākau ki ngā tika o te hunga rawakore i tō mātou taha.",
+    "I te taenga mai o te ata o te kotinga i whakaarohia e mātou, ka whakatata atu mātou ki tā mātou māra, ā, i te pō kotahi kua huri hei ururua mangu.",
+    "I puta mai tētahi ture whakangaro, ā, ko ngā pungarehu anake i mahue i te wāhi i iri ai ngā tautau hua pakari.",
+    "He whakatūpato pakari tā tātou kōrero i roto i te Quran, e mōhiotia ana tātou ko ngā rangatira o te māra i kore e atawhai i te hunga rawakore."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā Rangatira o te Māra",
+        "Te Iwi o te Ana",
+        "Ngā Ākonga a Ihaia",
+        "Ngā Hoa o te Ngāhere",
+        "Ngā Manuhiri o Ibrahim"
+      ],
+      "answer": "Ngā Rangatira o te Māra"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hauhake puku i ngā hua, me te aukati i te hunga rawakore",
+        "Te moe mō ngā rautau i roto i te ana",
+        "Te kore e hanga he kamera uha mai i te kōhatu",
+        "Te karakia ki tētahi kuao kau koura i Maunga Hinai",
+        "Te hanga i tētahi āka nui hei mawhiti i te waipuke"
+      ],
+      "answer": "Te hauhake puku i ngā hua, me te aukati i te hunga rawakore"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He māra taiepa kī tonu i ngā nikau me ngā waina",
+        "He ana pōuri i roto i ngā maunga",
+        "He tāone i pāngia e te awhiowhio atua",
+        "He awaawa tapu e tata ana ki te Whare o Allah",
+        "Ngā pareparenga o te awa e rere ana"
+      ],
+      "answer": "He māra taiepa kī tonu i ngā nikau me ngā waina"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I pau te māra i te ture werawera mai i te rangi",
+        "I moe marie rātou mō ngā tau 309 o te marama",
+        "I pakaru rātou i te ua o ngā kōhatu",
+        "I toremi rātou i raro i ngā ngaru o te waipuke nui",
+        "I marara noa atu rātou i te pupuhi o te hau makariri, te hau kaha"
+      ],
+      "answer": "I pau te māra i te ture werawera mai i te rangi"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

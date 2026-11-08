@@ -1,0 +1,60 @@
+{
+  "title": "De Slaap der Eeuwen",
+  "intro": "Je staat op het punt een reis door de tijd te maken en een diepgaand mysterie van geloof en goddelijke macht te ontdekken. Stel je een groep mensen voor die de normen van hun samenleving trotseerden en vasthielden aan het monotheïsme in een wereld van polytheïsme. Hun verhaal getuigt van Allah's vermogen om Zijn rechtvaardige dienaren op buitengewone wijze te beschermen. Kun jij de identiteit van deze bijzondere figuren ontrafelen?",
+  "clues": [
+    "Wij waren een kleine groep jonge mannen die in één God geloofden, ondanks het wijdverbreide polytheïsme onder ons volk.",
+    "We vluchtten voor een tirannieke heerser die ons vanwege ons geloof bedreigde, uit angst voor vervolging en de dood.",
+    "We zochten onze toevlucht op een afgelegen plek, in de hoop op Allah's barmhartigheid en bescherming tegen onze onderdrukkers.",
+    "Onze Heer liet ons in een diepe slaap vallen, een wonderbaarlijke sluimer die de tand des tijds trotseerde.",
+    "Toen we wakker werden, dachten we dat we slechts een dag of een deel van een dag hadden gerust, ons niet bewust van de enorme tijd die werkelijk was verstreken.",
+    "De Koran vermeldt dat we driehonderd jaar in onze staat zijn gebleven, en dat we die periode met negen jaar hebben overschreden, waarmee we een teken voor de mensheid zijn geworden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "De mensen van de sloot",
+        "Het volk van Thamud",
+        "De mensen van de grot",
+        "De inwoners van Madyan",
+        "De metgezellen van de olifant"
+      ],
+      "answer": "De mensen van de grot"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Geconfronteerd met een grote overstroming",
+        "Opgeslokt worden door de aarde",
+        "De lange wonderbaarlijke slaap",
+        "De verwoesting van hun stad",
+        "De splitsing van de zee"
+      ],
+      "answer": "De lange wonderbaarlijke slaap"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Een brandende struik",
+        "Een berg",
+        "Een boot",
+        "Een grot",
+        "Een put"
+      ],
+      "answer": "Een grot"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Aan hen werden immense rijkdom en macht geschonken.",
+        "Ze werden veranderd in apen en varkens.",
+        "Ze werden uit hun slaap gewekt als een veelbetekenend teken.",
+        "Ze verdronken in een grote vloedgolf.",
+        "Ze bouwden een prachtig koninkrijk."
+      ],
+      "answer": "Ze werden uit hun slaap gewekt als een veelbetekenend teken."
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

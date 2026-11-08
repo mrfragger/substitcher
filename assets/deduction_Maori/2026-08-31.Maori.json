@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo Mārire o te Raorao",
+  "intro": "Hoki whakamuri ki te wā o mua ki tētahi iwi nui i whiwhi i tētahi mea whakamiharo ora hei whakamātautau. Nā te whakapehapeha me te pakeke i hiri tō rātou aituā. Ka taea e koe te whai i te kōrero me te kite i ngā mea i puta i tēnei wā hurihanga whakamiharo?",
+  "clues": [
+    "I tonoa mai ahau hei whakamātautau atua ki tētahi iwi nunui e mōhiotia ana mō tō rātou kaha me tō rātou māia.",
+    "He mīharo ahurei ahau—kāore anō kia puta mai he tangata pēnei i ahau i roto i a rātou.",
+    "I inu tahi mātou ko tōku iwi i te wai mai i te puna i ngā rā rerekē.",
+    "I whakatūpatohia rātou mēnā ka pā mai he kino ki ahau, ka tere tonu te whiu.",
+    "Ko te hunga tino maia o rātou i kore e aro ki te whakatūpato, ā, i whakamatea ahau.",
+    "I muri i tōku matenga, ka whakangaromia katoatia tōku iwi e te hamama nui mai i runga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Kāmera Wahine o Salih",
+        "Te Kau a Musa",
+        "Te Waka o Noa",
+        "Ngā Rākau o Musa",
+        "Te Torona o Bilqis"
+      ],
+      "answer": "Te Kāmera Wahine o Salih"
+    },
+    "trial": {
+      "label": "Tōku Ao",
+      "options": [
+        "I whakawhāititia, ā, i patua",
+        "I patua hei patunga tapu",
+        "I hurihia hei nakahi",
+        "I tiakina i te waipuke nui",
+        "I tere te kawe mai puta noa i tētahi rangatiratanga"
+      ],
+      "answer": "I whakawhāititia, ā, i patua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He puna wai",
+        "He papa kohatu",
+        "He rakau e mura ana",
+        "He āka rakau",
+        "He torona koura, he hiriwa"
+      ],
+      "answer": "He puna wai"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia e te hamama kotahi",
+        "I toremi i roto i te waipuke nui",
+        "I tahuna e te ua kohatu",
+        "I pakaruhia e te hau kaha",
+        "Horomia e te whenua"
+      ],
+      "answer": "I whakangaromia e te hamama kotahi"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

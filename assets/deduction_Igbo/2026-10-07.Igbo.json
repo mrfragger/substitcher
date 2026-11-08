@@ -1,0 +1,61 @@
+{
+  "title": "Ọkụ dị n'ime obí eze nke mpako",
+  "intro": "N'azụ mgbidi ukwu nke obí eze kachasị ike n'ụwa ochie, e nwere otu onye obi ya zoro ezo nke iwu eze na-enweghị ike imechi. Mgbe gburugburu ya na-akpọrọ chi ụgha isiala, mkpụrụ obi a nọgidere na-enwe okwukwe dị jụụ n'ime ya. Onye ọchịchị nke ala ahụ kwenyere na ya bụ chi, mana onye a họọrọ eziokwu karịa nkasi obi, na nraranye karịa nchekwa. Taa, ọrụ gị bụ ịchọpụta onye mkpụrụ obi a nwere obi ike bụ, onye akụkọ ya ka bụ otu n'ime ihe atụ kachasị ike nke okwukwe na-adịghị agbanwe agbanwe.",
+  "clues": [
+    "Ebi m n'ebe nwere nnukwu akụnụba na nnukwu ebube, ebe onye na-achị ala ahụ nwere ike zuru oke n'elu ihe niile.",
+    "Mgbe ndị gbara m gburugburu na-akpọrọ chi ụgha isiala, m tinyere ìhè dị jụụ nke okwukwe n'ime obi m.",
+    "Ahụrụ m ma zụlite otu nwatakịrị nke e ji ụzọ pụrụ iche kpọtaara m - ọ bụghị site n'ọmụmụ, kama site na mmiri nke nnukwu osimiri.",
+    "Ekpere m Onyenwe m, na-arịọ maka ebe obibi dị ya nso na Paradaịs na nzọpụta site n'aka ọchịchị aka ike gbara m gburugburu.",
+    "Nwatakịrị m zụlitere toro iji maa onye ọchịchị ahụ nke na-achịkwa akara aka m aka, eguzosikwara m ike n'okwukwe m ọbụlagodi mgbe a na-eyi m egwu.",
+    "Abụ m onye a na-asọpụrụ aha ya na Quran dị ka ihe nlereanya nke okwukwe, ebikwara m n'obí Fero n'onwe ya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Asiya, nwunye Fero",
+        "Meri, nne Isa",
+        "Bilqis, Eze Nwanyị Sheba",
+        "Nwunye onye amụma Lut",
+        "Nwunye Imran"
+      ],
+      "answer": "Asiya, nwunye Fero"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịchọpụta na ịzụlite nwa ọhụrụ a gbahapụrụ agbahapụ nke ghọrọ onye amụma ukwu",
+        "Ịbụ onye ọchịchị aka ike tụbara n'ime nnukwu ọkụ",
+        "Ịhụ oké idei mmiri nke bibiri ndị mmadụ",
+        "Ịhụ ka a na-ama jijiji nkwụ ma na-enye nri",
+        "Ịtụrụ ime nwa nwoke n'agbanyeghị na ọ katala ahụ́"
+      ],
+      "answer": "Ịchọpụta na ịzụlite nwa ọhụrụ a gbahapụrụ agbahapụ nke ghọrọ onye amụma ukwu"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Obí eze mara mma nke ukwuu",
+        "Ụgbọ mmiri dị ukwuu e wuru iji nagide idei mmiri",
+        "Ọgba miri emi nke zoro n'ugwu",
+        "Ọkụ na-ere ọkụ nke e wuru n'elu ugwu",
+        "Ubi e ji mgbidi gbaa gburugburu"
+      ],
+      "answer": "Obí eze mara mma nke ukwuu"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E nyere otu ebe obibi na Paradaịs site n'uche Allah",
+        "Nnukwu idei mmiri bibiri ndị na-ekweghị ekwe nke mba ochie",
+        "E nyere alaeze nke nwere ike na ikike dị ukwuu n'ụwa a",
+        "Nnụnụ ndị na-efe efe gbasasịrị ìgwè ndị agha dị ike",
+        "A tụbara onye aka ike nke kwuru na ọ bụ chi n'ime oké osimiri."
+      ],
+      "answer": "E nyere otu ebe obibi na Paradaịs site n'uche Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

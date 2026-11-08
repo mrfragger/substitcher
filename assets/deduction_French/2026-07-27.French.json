@@ -1,0 +1,61 @@
+{
+  "title": "L'offrande qui a changé le destin",
+  "intro": "Aux origines de l'humanité, une âme offrit un don avec des intentions pures. Pourtant, l'envie se dissimulait derrière cette acceptation. Découvrez l'histoire de cette figure dont la piété et la fin tragique sont immortalisées dans la révélation divine.",
+  "clues": [
+    "J'appartenais aux toutes premières générations de l'humanité.",
+    "J'ai présenté une offrande à mon Seigneur, et elle a été reçue avec faveur.",
+    "L'offrande de mon frère fut rejetée, et l'envie obscurcit son cœur.",
+    "Je lui ai dit : « Si tu étends la main vers moi pour me tuer, je ne l'étendrai pas pour te tuer ; en vérité, je crains Allah, Seigneur des mondes. »",
+    "Je suis devenu la victime du premier meurtre commis sur terre.",
+    "Mon sang a crié, et j'ai été le premier martyr de l'innocence."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Caïn)",
+        "L'homme de Ya-Sin",
+        "Le Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Son offrande fut acceptée, provoquant la jalousie de son frère et son meurtre",
+        "Il fut jeté dans une fournaise ardente, mais en sortit indemne.",
+        "Il construisit un navire gigantesque sous l'influence divine.",
+        "Il fut avalé par un grand poisson et demeura dans les ténèbres.",
+        "Il a conduit son peuple à travers une mer séparée."
+      ],
+      "answer": "Son offrande fut acceptée, provoquant la jalousie de son frère et son meurtre"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une offre acceptée",
+        "Un bâton se transformant en serpent",
+        "Une chamelle comme signe divin",
+        "Une huppe porteuse de nouvelles",
+        "Un veau d'or vénéré"
+      ],
+      "answer": "Une offre acceptée"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Premier meurtre de l'histoire ; son frère a été condamné.",
+        "Englouti par la terre avec sa richesse",
+        "Transformés en singes à cause de leur transgression",
+        "Détruit par un vent glacial et violent",
+        "Noyés lors d'un grand déluge en guise de punition"
+      ],
+      "answer": "Premier meurtre de l'histoire ; son frère a été condamné."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

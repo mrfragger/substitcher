@@ -1,0 +1,61 @@
+{
+  "title": "sojusz, który zapraszał do ruiny",
+  "intro": "Wyobraź sobie, że jesteś pod jednym dachem z objawieniem, ale wybierasz inną lojalność. Ta postać żyła blisko prawdy i proroctwa, ale zwróciła się ku tym, którzy je odrzucili. Jej historia stanowi uroczyste ostrzeżenie, że sama bliskość prawości nie uratuje duszy, która zdradziła zaufanie.",
+  "clues": [
+    "Mieszkałem w domu proroka wybranego przez Allaha.",
+    "Wiedziałam, jaką prawdę głosił mój mąż, lecz tak naprawdę w nią nie wierzyłam.",
+    "Zdradziłem jego zaufanie, stając po stronie odrzucającego go ludu i pomagając mu przeciwko niemu.",
+    "Jestem wymieniona obok małżonki innego proroka, która również zdradziła, jako przykład dla niewierzących.",
+    "Moja historia opowiedziana jest w Surze At-Tahrim jako ostrzeżenie, że pokrewieństwo z prorokami nie daje żadnej ochrony.",
+    "Zginąłem wraz z tymi, którzy czynili zło, gdy Allah zniszczył lud Lota, pozostawiony razem z tymi, którzy pozostali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Żona proroka Luta",
+        "Asiya, żona faraona",
+        "Żona Imrana",
+        "Sara, żona proroka Ibrahima",
+        "Żona Al-Aziza"
+      ],
+      "answer": "Żona proroka Luta"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Zdradził proroka, pomagając niewiernym przeciwko niemu",
+        "Wrzuć niemowlę do rzeki w koszyku, żeby je uratować",
+        "Zażądał zbudowania złotego cielca podczas nieobecności proroka",
+        "Oskarżył prawego ministra o popełnienie przestępstwa i uwięził go",
+        "Poprowadził armię słoni, aby zniszczyć Kaabę"
+      ],
+      "answer": "Zdradził proroka, pomagając niewiernym przeciwko niemu"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Zburzone miasta ludu Luta",
+        "Arka zbudowana na boskim rozkazie",
+        "Ogień ostudził Ibrahima",
+        "Jaskinia schronienia dla śpiącej młodzieży",
+        "Rzeka, w której znaleziono koszyk z niemowlęciem"
+      ],
+      "answer": "Zburzone miasta ludu Luta"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zginął wraz z niewiernymi, mimo że poślubił proroka",
+        "Został zbawiony wraz z wierzącymi i wszedł do Raju w pokoju",
+        "Został przekształcony w filar jako znak dla przyszłych pokoleń",
+        "Został pochłonięty przez ziemię z ogromnymi skarbami",
+        "Otrzymał cudowne dziecko w podeszłym wieku"
+      ],
+      "answer": "Zginął wraz z niewiernymi, mimo że poślubił proroka"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

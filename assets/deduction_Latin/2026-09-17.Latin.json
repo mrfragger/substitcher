@@ -1,0 +1,61 @@
+{
+  "title": "Sub Umbra Palmae Dactyliferae",
+  "intro": "Fabula explicatur de anima ante ortum separata, intra muros sacros nutrita, et electa ut signum ferret quod mundus numquam viderat. Cum accusatio undique oriretur, vox ex loco improbabili venit ut omnem dubitationem silentium imponeret. Potesne invenire quis sub umbra palmae dactylariae ambulavit?",
+  "clues": [
+    "Omnipotentis servitio dedicatus eram antequam primum spiritum ducerem, votum ab ea quae me portabat factum.",
+    "Sub vigilanti cura iusti custodis intra sacras conclavia loci cultus crevi.",
+    "Quotiescumque custos meus cubiculum meum veniebat, apud me inveniebat commeatus ex temporibus quae non debuissent esse.",
+    "Nuntium laetum de filio mihi datum est, quamquam res meae nullum locum promissionis relinquebant.",
+    "In locum longinquum me recepi, et ibi palma dattilis mihi umbram praebuit, dum rivus subter fluebat.",
+    "Cum accusatio advenit et interrogationes me circumdederunt, infantem meum recens natum monstravi — et ille ab cunis locutus est ut omnem dubitationem silentium imponeret."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Mariam",
+        "Sara",
+        "Hawwa",
+        "Umm Musa",
+        "Uxor Nuh"
+      ],
+      "answer": "Mariam"
+    },
+    "trial": {
+      "label": "Iudicium / Eventum",
+      "options": [
+        "Filium mirabilem in isolatione peperit",
+        "Ab idololatris in ignem ardentem conici",
+        "Superstes diluvii magni cum paucis electis",
+        "Separatus ab infante in flumen proiecto",
+        "Adversans potentem Aegypti principem"
+      ],
+      "answer": "Filium mirabilem in isolatione peperit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Palma dactylifera et rivus fluens sub ea",
+        "Arca ingens super undas altas",
+        "Baculus qui magnum mare in duas partes divisit",
+        "Ignis ardens animam fidelem consumere destinatus",
+        "Thronus aureus gemmis pretiosis ornatus"
+      ],
+      "answer": "Palma dactylifera et rivus fluens sub ea"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Honorata ut omnium feminarum praestantissima",
+        "Post longam separationem cum dilecto filio iterum coniunctus",
+        "Totam gentem e vinculis tyranni eduxit",
+        "Populum in immoralitate perditum monuit",
+        "Dominium super jinn, homines, et ventos concessum"
+      ],
+      "answer": "Honorata ut omnium feminarum praestantissima"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

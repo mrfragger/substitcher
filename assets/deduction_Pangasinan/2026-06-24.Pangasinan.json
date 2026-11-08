@@ -1,0 +1,61 @@
+{
+  "title": "Say Managbantay na Agnaerep ya Apoy",
+  "intro": "Sakey a pigura so akaalagey ed puerta na sankatatakotan a pasen ed agnanengneng, ya inmatalek ed sakey a kimey ya ag labay na arum a pinalsa. No onkekerew na panangasi iray maniirap a kamarerwa, walay masebeg ya ebat ya onlelereg ed saray silir na apoy. Sarag mon naamtaan so pakabidbiran na sayan andi-anggaan a managbantay?",
+  "clues": [
+    "Manalalagey ak ed lolooban na makapataktakot a pasen na dusa ed ag nanengneng.",
+    "Say manliob tan agnaerep ya apoy so manunan kabiangan na seryoson kimey ko.",
+    "Saray maniirap a kamarerwa et ontatawag ed ngaran ko, ya onkekerew na pakainawaan ed andi-anggaan a paniirap da.",
+    "No onkerew ira, ibagak ya ag ira ontaynan, anggan kapigan.",
+    "Aliwa ak ya too, odino jinn — sakey ak ya pinalsa ya puron katutulok.",
+    "Siak so manunan anghel ya aturo bilang andi-anggaan a managbantay na Impierno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Saray totoo ed Impierno so mikakasi pian nasumpal so paniirap da",
+        "Paknolen so trumpeta pian ipabidbir so Agew na Panangukom",
+        "Say Quran et niparungtal ed puso na Propeta",
+        "Sakey a Propeta so imbantak na saray totoo ra ed baleg ya apoy",
+        "Nipaalagey so sakey a mabiskeg a padir pian nasebelan so sakey a bansan abulok"
+      ],
+      "answer": "Saray totoo ed Impierno so mikakasi pian nasumpal so paniirap da"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say Hellfire (Jahannam)",
+        "Say Kiew na Lote ed ketegan na Paraiso",
+        "Sakey a makapataktakot a trumpeta",
+        "Sakey a baston ya manpasimbalo ed sakey ya uleg",
+        "Sakey a makapadinayew a madibinon trono"
+      ],
+      "answer": "Say Hellfire (Jahannam)"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Saray manaayam ed Impierno et nibaga ya mansiansia ira ya andi-anggaan",
+        "Saray manaayam ed Impierno et naperdona tan nibulos",
+        "Saray manaayam ed Impierno et naitdan na komaduan pankanawnawa ed pananisia",
+        "Saray manaayam ed Impierno et niyalis ed sakey a pasen ya ambetel",
+        "Saray manaayam ed Impierno et sigpot ya naderal ed sakey a kirmat"
+      ],
+      "answer": "Saray manaayam ed Impierno et nibaga ya mansiansia ira ya andi-anggaan"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

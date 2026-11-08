@@ -1,0 +1,61 @@
+{
+  "title": "Te Mataara i te Kūaha Mura",
+  "intro": "He mano tini puku, whakamataku e tū ana i te paepae whakamataku, e mātaki ana, kāore e whakamātau i te kai, i te inu, i te okioki rānei. He mea hanga mai i tētahi mea kāore i rite ki te paru tangata, e tatari ana rātou ki tētahi kaupapa whakamataku kotahi—ā, kāore anō rātou kia takahi i tētahi whakahau a tō rātou Ariki.",
+  "clues": [
+    "He mea hanga tātou, kāore i rite ki te tangata, he mea hanga mai i tētahi matū e kore e kai, e inu, e ngenge rānei.",
+    "E mōhiotia ana tō tātou tokomaha tuturu, ā, e whakakitea ana hoki i roto i te Pukapuka—ehara tātou i te mea e kore e taea te tatau, e kore hoki e te mano tini.",
+    "Kāore mātou i tutu ki tō mātou Kaihanga, kāore hoki mātou e kōrero i mua i te whakahaunga.",
+    "Kia tae mai te Rā, ka peia mai te hunga whakateka ki a mātou i roto i ngā rōpū, ā, mā mātou e whakatuwhera ngā kūaha mō rātou.",
+    "Ka pātai atu mātou ki a rātou: 'Kāore ianei i tae mai ki a koutou ngā karere nō roto i tō koutou ake iwi, hei whakatūpato i a koutou mō tēnei Rā?'",
+    "Ka tiakina e mātou tētahi wāhi e kore rawa ai he wairua e puta mai i reira—he rohe mura tonu o te whiu mutungakore."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā Kaitiaki o te Ahi Reinga (Zabaniyah)",
+        "Ngā Kaimau o te Torona o Allah",
+        "The Recording Angels (Kiraman Katibin)",
+        "Ngā Anahera o te Mate",
+        "Ngā Kaitiaki Kūaha o Pararaiha"
+      ],
+      "answer": "Ngā Kaitiaki o te Ahi Reinga (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Tō Tātou Mahi Matua",
+      "options": [
+        "Te tiaki i ngā kūaha o te Ahi Reinga",
+        "Te tuhi i ngā mahi katoa a te tangata",
+        "Te amo i te torona o Allah",
+        "Te tango i ngā wairua o te hunga mate",
+        "Te whakahau i ngā hau me ngā kapua"
+      ],
+      "answer": "Te tiaki i ngā kūaha o te Ahi Reinga"
+    },
+    "location": {
+      "label": "He aha tā tātou e tiaki ai?",
+      "options": [
+        "Te Ahi Reinga",
+        "Te Torona o Allah",
+        "Ngā Pukapuka o Ngā Mahi",
+        "Ngā Awa o Pararaiha",
+        "Ngā Maunga o te Ao"
+      ],
+      "answer": "Te Ahi Reinga"
+    },
+    "outcome": {
+      "label": "Te mutunga o te hunga i roto i tō tātou rohe",
+      "options": [
+        "Ka noho tonu rātou ake ake, e kore rawa e wehe atu",
+        "Ka murua ō rātou hara i te mutunga, ā, ka tukuna rātou",
+        "Ka purea rātou i roto i te wā",
+        "Ka hurihia rātou ki ētahi atu āhua",
+        "Ka tauwhitiwhiti rātou i waenganui i te Reinga me te Pararaiha"
+      ],
+      "answer": "Ka noho tonu rātou ake ake, e kore rawa e wehe atu"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

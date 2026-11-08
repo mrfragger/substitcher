@@ -1,0 +1,61 @@
+{
+  "title": "Qarshilik ovozi",
+  "intro": "Birinchi inson yer yuziga kelishidan ancha oldin, ulkan qudratga ega bo'lgan mavjudot eng fidoyi qalblar qurshovida mukammal tinchlik hukm surgan joyda turardi. Bitta buyruq berilganda, har bir ovoz itoatkorlik bilan bosh egdi - lekin bitta ovoz qarshilik ko'tardi va bu qarshilik oxirgi kungacha har bir davrda aks-sado berdi. Bu gunohkor mavjudot kim?",
+  "clues": [
+    "Men yorqin yonib turgan narsadan yaratilganman, yonimdagi boshqalar esa ular yurgan narsadan yaratilgan.",
+    "Men muqaddas joyda, fidoyi mavjudotlar orasida yashadim, toki bitta buyruq hamma narsani ag'darib tashlamaguncha.",
+    "Buyruq kelganda, mendan boshqa hamma bosh egdi; mening rad etishim mag'rurlikdan tug'ildi.",
+    "Men o'sha muqaddas joydan quvib chiqarildim, abadiy davom etadigan la'nat bilan belgilandim.",
+    "Qiyomat kunigacha vaqt so'radim va u berildi. Men har bir jonga yaqinlashishga va ularni yo'ldan ozdirishga qasam ichdim.",
+    "Karnay chalinganda, menga ergashganlar mening taqdirimni baham ko'rishadi, hech qanday yordamchi ularni qutqara olmaydigan alangali olovda men bilan birga bo'lishadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Iblis",
+        "Fir'avn (Fir'avn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (Ibrohimning otasi)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Aniqlovchi moment",
+      "options": [
+        "Odam Ato oldida sajda qilishdan bosh tortish",
+        "Buyuk imperiya ustidan ilohiylikni egallab olish",
+        "Solih odamni olovga tashlash uchun fitna uyushtirish",
+        "Xalqni oltin haykalga sig'inishga undash",
+        "Dengizda buyuk qo'shinni cho'ktirish"
+      ],
+      "answer": "Odam Ato oldida sajda qilishdan bosh tortish"
+    },
+    "location": {
+      "label": "Muqaddas joy",
+      "options": [
+        "Jannat (Jannat)",
+        "Nil bo'yidagi ulug'vor saroy",
+        "Osmonga cho'zilgan g'isht minorasi",
+        "Bezaklardan yasalgan oltin buzoq",
+        "Yonayotgan olovli pech"
+      ],
+      "answer": "Jannat (Jannat)"
+    },
+    "outcome": {
+      "label": "Yakuniy taqdir",
+      "options": [
+        "Va'da qilingan Kungacha muhlat bilan chiqarib yuborilsin.",
+        "To'lqinlar ostida qo'shinlar bilan cho'kib ketdi",
+        "Osmondan otilgan toshlar bilan ezilgan",
+        "Parvozdagi qushlar to'dasi tomonidan parchalanib ketgan",
+        "Bitta kuchli portlash bilan yo'q qilindi"
+      ],
+      "answer": "Va'da qilingan Kungacha muhlat bilan chiqarib yuborilsin."
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

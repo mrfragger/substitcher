@@ -1,0 +1,61 @@
+{
+  "title": "Sodo sargai",
+  "intro": "Vešliame sode bendruomenė davė iškilmingą įžadą. Tačiau jų ryžtas buvo išbandytas, kai įsikišo dieviškoji valia, paversdama jų dosnumą nevaisinga žeme.",
+  "clues": [
+    "Mums buvo suteiktas gausus sodas, bet mes tapome arogantiški.",
+    "Mes sudarėme planą nuimti derlių nesidalydami su vargšais.",
+    "Anksti ryte išsiruošėme, užtikrintai įgyvendindami savo planą.",
+    "Bet atvykę pamatėme, kad mūsų sodas per naktį buvo sunaikintas.",
+    "Supratome savo klaidą ir pradėjome kaltinti vienas kitą.",
+    "Galiausiai atgailavome, bet pamoką išmokome per vėlai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Sodo žmonės",
+        "Olos žmonės",
+        "Dramblio žmonės",
+        "Tamudo žmonės",
+        "„Ad“ žmonės"
+      ],
+      "answer": "Sodo žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Sodas virto pelenais",
+        "Potvynis, kuris sunaikino viską",
+        "Badas, kuris ištiko šalį",
+        "Paukščių armija puola",
+        "Didelis vėjas, kuris išvertė medžius"
+      ],
+      "answer": "Sodas virto pelenais"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Sodas",
+        "Ola",
+        "Laivas",
+        "Kalnas",
+        "Rūmai"
+      ],
+      "answer": "Sodas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jie atgailavo, bet prarado savo sodą",
+        "Jie buvo visiškai sunaikinti",
+        "Jie buvo paversti beždžionėmis",
+        "Jie buvo išgelbėti tikėjimu",
+        "Jie tapo valdovais"
+      ],
+      "answer": "Jie atgailavo, bet prarado savo sodą"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

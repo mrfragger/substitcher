@@ -1,0 +1,61 @@
+{
+  "title": "Próba wytrwałej duszy",
+  "intro": "Dusza stoi w chwili boskiej próby, szukając wskazówek z pokorną wytrwałością. Ten, który wie wszystko, odwraca tego poszukiwacza, by później ujawnić, że była to próba serca. Poprzez tę tajemniczą wymianę myśli, przed tymi, którzy się nad nią zastanawiają, otwiera się lekcja o boskiej mądrości. Czy potrafisz rozpoznać tę postać z narracji Koranu?",
+  "clues": [
+    "Szukałem wiedzy i wskazówek u ukochanego posłańca Allaha",
+    "Przyszedłem szukać prawdy, wzywając Proroka z gorącym pragnieniem",
+    "Zostałem zganiony i odwrócony, ponieważ mądrość Allaha miała inne plany na tamten moment",
+    "Jednak nie traciłem nadziei – zamiast tego kontynuowałem poszukiwania",
+    "Ten, który wie wszystko, powiedział, że to była próba serca i ostrzeżenie",
+    "Byłem wśród tych, o których Koran objawia: „Zmarszczył brwi i odwrócił się, bo przyszedł do niego niewidomy człowiek”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Hipokryta szukający wątpliwości",
+        "Ślepy poszukiwacz prawdy",
+        "Czciciel bożków z Mekki",
+        "Niewierzący kpiący z Proroka",
+        "Podróżnik z Jemenu"
+      ],
+      "answer": "Ślepy poszukiwacz prawdy"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Otrzymanie nagany od Proroka Mahometa podczas modlitwy",
+        "Wystawiani na próbę przez suszę i głód w Mekce",
+        "Bycie odrzuconym u bram raju",
+        "Odrzucenie przez własny lud z powodu wiary",
+        "Bycie testowanym przez bogactwo i dzieci"
+      ],
+      "answer": "Otrzymanie nagany od Proroka Mahometa podczas modlitwy"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wnętrze Kaaby w okresie pielgrzymkowym",
+        "W obecności Proroka podczas recytacji",
+        "Na szczycie góry Safa w godzinach porannych",
+        "Na rynku w Mekce, w otoczeniu niewiernych",
+        "W pobliżu studni Zamzam podczas pielgrzymki Hadżdż"
+      ],
+      "answer": "W obecności Proroka podczas recytacji"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Poszukiwacz został zamordowany przez Kurajszytów za wiarę",
+        "Incydent ten został odnotowany jako próba i nauczka dla Ummy",
+        "Poszukiwacz stał się towarzyszem i przywódcą",
+        "Bogactwo poszukiwacza pomnożyło się dziesięciokrotnie",
+        "Poszukiwacz powrócił do niedowierzania"
+      ],
+      "answer": "Incydent ten został odnotowany jako próba i nauczka dla Ummy"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

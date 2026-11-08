@@ -1,0 +1,61 @@
+{
+  "title": "Helistaja sügavusest",
+  "intro": "Kujutage ette hinge, kellele on usaldatud jumalik sõnum, kuid kes kiirustades lahkus oma rahva juurest ilma selgesõnalise loata. See teekond viis nad erakordse katsumuseni, sügava kannatlikkuse ja Kõigekõrgemale lootmise proovilepanemiseni. Kes on see inimene, kelle lugu õpetab meile meeleparandusest ja Allahi halastuse ulatusest?",
+  "clues": [
+    "Mind saadeti suure rahva juurde, aga nende esialgne tagasilükkamine tekitas minus ahastust.",
+    "Ma lahkusin oma rahva juurest, uskudes, et mu missioon on täidetud, enne kui sain selge käsu lahkuda.",
+    "Ma otsisin laevaga kohta, aga tugev torm ja loosimine viisid kohutavasse olukorda.",
+    "Mind heideti merre ja võimas sügavikuolend neelas mu tervenisti alla.",
+    "Selle kõhu pimeduses hüüdsin ma Allahi poole, tunnistades oma väärtegu ja paludes Tema andestust.",
+    "Allah käskis olendil mind kaldale visata ja ainulaadse taime all taastusin ma terveks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Yusuf (Joosep)",
+        "Prohvet Nuh (Noa)",
+        "Prohvet Junus (Joona)",
+        "Prohvet Sulaiman (Saalomon)",
+        "Prohvet Ayyub (Iiob)"
+      ],
+      "answer": "Prohvet Junus (Joona)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Mere lõhenemine",
+        "Nimrodi tuli",
+        "Suure kala poolt alla neelatud",
+        "Üleujutus",
+        "Linna hävitamine kividega"
+      ],
+      "answer": "Suure kala poolt alla neelatud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Kala kõht",
+        "Kaev",
+        "Põlev põõsas"
+      ],
+      "answer": "Kala kõht"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai suureks valitsejaks",
+        "Ehitas Kaaba",
+        "Naases kahetsevat rahvast juhtima",
+        "anti džinnide üle valitsemine",
+        "Juhtis inimesi üle kõrbe"
+      ],
+      "answer": "Naases kahetsevat rahvast juhtima"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Amsar da Ta Kai Ga Al'arshi",
+  "intro": "Wani mutum mai nauyin nauyi ya kusanci kujerar shari'a, muryarsu tana rawa ba tare da tsoro ba amma da bege. Al'amarin na sirri ne, duk da haka ƙudurinsa zai yi ta maimaitawa a kowane lokaci, yana wargaza al'adar zalunci. Wace irin rai ce wannan da aka ji ƙarar fiye da taurari?",
+  "clues": [
+    "Na zo da zuciya mai nauyi, ina neman adalci a cikin wani lamari da ya ɗaure min harshe.",
+    "Roƙona ba ga manzo kawai ba ne; ya wuce gona da iri, ga wanda yake jin komai.",
+    "Kalmomin da aka yi mini a kaina kamar sarƙoƙi ne na tsohon tarihi.",
+    "Na yi jayayya da tunani, da hawaye da kuma dabaru, don girmama ni.",
+    "Wani wahayi ya sauko, yana rufe tsoffin hanyoyin kuma yana yarda da azabata.",
+    "Suna kirana wanda ya yi jayayya game da mijina, kuma sunana ya zama daidai da babin da ya 'yantar da ni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Matar Imran (Uwar Maryam)",
+        "Matar da ta yi jayayya game da mijinta (Khawla bint Tha'laba)",
+        "Sarauniyar Sheba (Bilqis)",
+        "Uwar Musa",
+        "Matar Fir'auna (Asiyah)"
+      ],
+      "answer": "Matar da ta yi jayayya game da mijinta (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "Shari'a ko Abin da Ya Faru",
+      "options": [
+        "An zarge ta da rashin tsarkin zuciya",
+        "Ba ta da haihuwa kuma tana sha'awar haihuwa",
+        "Ta fuskanci wata mummunar al'ada ta saki",
+        "Ita sarauniya ce tana tattaunawa da wani annabi",
+        "Ta ɓoye ɗanta daga azzalumi"
+      ],
+      "answer": "Ta fuskanci wata mummunar al'ada ta saki"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ɗan maraƙi na zinariya",
+        "Kursi mai girma",
+        "Aikin Zihar",
+        "Kwando a cikin kogin",
+        "Alƙawari mai tsarki na sadaukarwa"
+      ],
+      "answer": "Aikin Zihar"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An albarkace ta da ɗa a tsufa",
+        "An cece ta daga nutsewa",
+        "Ta sami wahayi na allahntaka wanda ya kawar da al'adar",
+        "Ta zama sarauniya bayan gwaji",
+        "An ba ta ɗa wanda ya zama annabi"
+      ],
+      "answer": "Ta sami wahayi na allahntaka wanda ya kawar da al'adar"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

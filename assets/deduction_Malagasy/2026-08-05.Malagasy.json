@@ -1,0 +1,61 @@
+{
+  "title": "Ny Andro Fampirantiana Farany",
+  "intro": "Nantsoina ho amin'ny fampisehoana hery lehibe ny vondron'olona mpanao fampisehoana mahay iray, ka niatrika fahamarinana tsy nampoizina izay hanova mandrakizay ny fiainan'izy ireo.",
+  "clues": [
+    "Nalaza noho ny fahaizanay izahay, ary nahay namitaka sy nandainga.",
+    "Nantsoin'ny mpitondra izahay mba hiatrika mpihantsy iray izay nitana tehina tsotra.",
+    "Rehefa nahita ny marina izahay dia niankohoka sady nino ny Tompon'izao tontolo izao.",
+    "Nandrahona anay tamin'ny sazy mafy ilay mpitondra jadona, saingy tsy nihemotra izahay.",
+    "Anisan'ireo voalohany nino ny hafatra izahay rehefa avy nahita ny famantarana mazava.",
+    "Maty maritiora noho ny finoantsika isika, saingy isika no ho voalohany hiditra ao amin'ny Paradisa miaraka amin'ireo olo-marina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Ireo mpanao majika an'i Farao",
+        "Ny Israelita",
+        "Ny vahoakan'ny Thamoud",
+        "Ireo mpianatr'i Isa",
+        "Ny tafik'i Abraha"
+      ],
+      "answer": "Ireo mpanao majika an'i Farao"
+    },
+    "trial": {
+      "label": "Fitsapana / Hetsika",
+      "options": [
+        "Fifaninanana tamin'ny Mpaminany Musa",
+        "Fanorenana ny Tilikambo",
+        "Ny Safodrano Lehibe",
+        "Ny Loza ateraky ny Valala",
+        "Ny Ranomasina Mizara"
+      ],
+      "answer": "Fifaninanana tamin'ny Mpaminany Musa"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Andro Fetibe",
+        "Ny Lohasahan'i Tuwa",
+        "Ny tanànan'i Iram",
+        "Ny Zaridainan'ny Mandrakizay",
+        "Ny Lemaka Arafat"
+      ],
+      "answer": "Ny Andro Fetibe"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nohomboana teo imason'ny olona izy ireo",
+        "Natsipy an-drano izy ireo",
+        "Natao mpanara-dia ny mpaminany izy ireo",
+        "Nalefa tany an-tsesitany izy ireo",
+        "Lanin'ny afo izy ireo"
+      ],
+      "answer": "Nohomboana teo imason'ny olona izy ireo"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La voce nelle antiche sabbie",
+  "intro": "Tra i primi messaggeri di Allah, ve n'è uno il cui nome risplende brevemente ma significativamente nel Corano. Quest'uomo visse molto prima dell'invio di molti grandi profeti ed era noto per la sua incrollabile veridicità e pazienza. La sua storia è breve, ma la sua eredità perdura negli annali eterni. Chi è quest'anima nobile?",
+  "clues": [
+    "Sono uno dei primi messaggeri, menzionato brevemente ma in modo significativo nel Corano.",
+    "Il mio carattere era definito da un impegno incrollabile verso la verità.",
+    "Nel libro di Allah sono ricordato tra coloro che sono stati saldi e pazienti.",
+    "Solo pochi brevi versi del Corano raccontano la mia storia.",
+    "Allah mi ha onorato in un modo che mi appartiene in maniera del tutto personale, non condivisa con altri profeti.",
+    "Sono stato elevato a una posizione elevata, un onore singolare nel Corano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Idris",
+        "Il profeta Ilia",
+        "Dhul-Kifl",
+        "Il profeta Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Il profeta Idris"
+    },
+    "trial": {
+      "label": "Momento decisivo",
+      "options": [
+        "Sono stato elevato a una posizione elevata da Allah.",
+        "Ho costruito una grande arca per salvare il mio popolo",
+        "Ho sfidato gli stregoni del faraone",
+        "Sono stato gettato in una fossa dai miei fratelli",
+        "Ho perso la vista per il dolore per mio figlio"
+      ],
+      "answer": "Sono stato elevato a una posizione elevata da Allah."
+    },
+    "location": {
+      "label": "Riferimenti sacri",
+      "options": [
+        "Sura Al-Anbiya",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Ash-Shu'ara",
+        "Sura Yasin"
+      ],
+      "answer": "Sura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Onore Divino",
+      "options": [
+        "Una stazione elevata diversa da qualsiasi altra",
+        "Dominio sui jinn e sui venti",
+        "Un regno di gloria ineguagliabile",
+        "Un erede della mia vecchiaia",
+        "Un patto sigillato con Allah"
+      ],
+      "answer": "Una stazione elevata diversa da qualsiasi altra"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

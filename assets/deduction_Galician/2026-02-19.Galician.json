@@ -1,0 +1,61 @@
+{
+  "title": "A loucura da gran ambición",
+  "intro": "Embárcate nunha viaxe para descubrir a identidade dunha entidade colectiva cuxos audaces plans atoparon un final inesperado e poderoso. Esta narrativa serve como un profundo recordatorio do poder divino e da fraxilidade do poder mundano cando se opón ao sagrado. Desvela o misterio deste grupo, cuxa historia está gravada no Corán como advertencia para todos os que buscan transgredir.",
+  "clues": [
+    "Albergabamos unha gran ambición, crendo que o noso poderío non tiña rival, e emprendemos unha viaxe cun obxectivo claro e destrutivo.",
+    "O noso líder, cheo de arrogancia, procurou profanar unha Casa sagrada venerada por moitos, co obxectivo de desviar a peregrinación cara a unha estrutura construída por nós.",
+    "Dende unha terra afastada, marchamos cunha forza masiva, confiados na nosa capacidade para desmantelar o antigo edificio da Cidade Santa.",
+    "O noso exército era formidable, encabezado por criaturas magníficas, un espectáculo raramente, ou nunca, visto nunha campaña semellante polos habitantes da terra que invadimos.",
+    "Cando chegamos ao noso destino, produciuse unha intervención divina; apareceron pequenas criaturas aladas, lanzándonos pedras de arxila cocida.",
+    "Toda a nosa expedición tivo un final devastador, deixando a nosa formidable forza completamente aniquilada, coma palla mastigada, e o noso gran plan reducido a po."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Xente de Thamud",
+        "Xente de 'Ad",
+        "Xente de Sodoma",
+        "Xente do elefante",
+        "Xente do Xardín"
+      ],
+      "answer": "Xente do elefante"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A Gran Inundación",
+        "A campaña contra a Kaaba",
+        "A destrución dos ídolos",
+        "A división do mar",
+        "O terremoto de Madián"
+      ],
+      "answer": "A campaña contra a Kaaba"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Arca",
+        "O persoal",
+        "A Kaaba",
+        "O Becerro de Ouro",
+        "O lume"
+      ],
+      "answer": "A Kaaba"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Salvación divina",
+        "Un longo período de prosperidade",
+        "Conversión ao islam",
+        "Destrución absoluta",
+        "Exiliados da súa terra"
+      ],
+      "answer": "Destrución absoluta"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

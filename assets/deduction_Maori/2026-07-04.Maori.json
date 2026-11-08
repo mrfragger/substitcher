@@ -1,0 +1,61 @@
+{
+  "title": "Ko te Tangata i piko ai te rangatiratanga ki ōna tohu",
+  "intro": "He haerenga whakamiharo kei te tatari atu ki te hunga e maia ana ki te whakaoti i tēnei mea ngaro. I roto i ngā whārangi o te Whakakitenga, i noho tētahi rangatira, ā, ko tana tūtakitanga ki tētahi poropiti ka huri i te āhua o tētahi iwi katoa. I whakahaere tēnei tangata mai i tētahi torona tawhiti, i arahina e ngā tikanga tawhito, tae noa ki tētahi wā whakamiharo o te pono atua i huri ai te rangatira me te kingitanga ake ake. Ka hurahia e koe te tuakiri o tēnei wairua whakamiharo, ko tana kōrero e hono ana i te mea whakamiharo me te mea hohonu?",
+  "clues": [
+    "I whakahaere ahau i tētahi iwi whai rawa i tērā taha o ngā wai tawhiti, i rongonui mō ā mātou māra me tō mātou whare rangatira teitei.",
+    "I tino teitei tōku mana, heoi i tae mai tētahi rangatiratanga nui ki te wero i tō mātou oranga me tō mātou tuakiri.",
+    "I kawea mai e tētahi manu iti tētahi karere whakamiharo, ā, nā ngā mea whakamiharo i whai mai i pakaru ai aku whakaaro katoa mō te mana.",
+    "I taku kitenga i tētahi torona kua hurihia i mua i ōku kanohi, i mōhio ahau kāore he tangata e whai mana pēnei.",
+    "I whakapuakina e au taku ngohengohe ki te Ariki Kotahi o te rangi me te whenua, me te whakarērea hoki o ngā mea katoa i arohaina e au i mua.",
+    "I tahuri ke tātou, hei iwi, i te karakia rā onamata, ā, i awhi i te pono i whakarerekē i ngā mea katoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Bilqis – te Kuīni o Sheba",
+        "Te Kuīni o Madyan",
+        "He wahine nā te Poropiti a Hohepa",
+        "Te Kuini o Ihipa",
+        "He Pirinihi o Papurona"
+      ],
+      "answer": "Bilqis – te Kuīni o Sheba"
+    },
+    "trial": {
+      "label": "Te Whakamātautau Nui",
+      "options": [
+        "He waipuke nui i whakangaro i te kingitanga",
+        "Te whiwhi karere ngaro mā roto i tētahi manu rerekē",
+        "He pakanga ki ngā ope taua a te Poropiti a Sulaimana",
+        "Toru tekau tau o te tauraki nui me te uauatanga",
+        "He rū whenua i horomia ai te whare kingi"
+      ],
+      "answer": "Te whiwhi karere ngaro mā roto i tētahi manu rerekē"
+    },
+    "location": {
+      "label": "Tauwāhi Matua",
+      "options": [
+        "Te awa o te Nile i Ihipa onamata",
+        "Te Wāhi Tapu o Makkah",
+        "Te Marae o te Poropiti a Rawiri",
+        "Yemen me ōna māra rongonui",
+        "Ngā mania o Hiruharama"
+      ],
+      "answer": "Te Marae o te Poropiti a Rawiri"
+    },
+    "outcome": {
+      "label": "Te Hua",
+      "options": [
+        "I whakangaromia te kingitanga hei whiu mō te kore whakapono",
+        "I moe ahau i a Poropiti Sulaimana, ā, i noho ahau ki Hiruharama.",
+        "I ngohengohe mātou ki a Allah, ā, i awhi i te whakapono pono",
+        "I hoki ahau ki tōku torona, ā, i haere tonu taku whakahaere i te kingitanga pērā i mua",
+        "I riro te iwi, ā, i whakaurua ki tētahi atu emepaea"
+      ],
+      "answer": "I ngohengohe mātou ki a Allah, ā, i awhi i te whakapono pono"
+    }
+  },
+  "verseRef": "38:32",
+  "arabic": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+  "verse": "And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until it [i.e., the sun] disappeared into the curtain [of darkness].\" (38:32)"
+}

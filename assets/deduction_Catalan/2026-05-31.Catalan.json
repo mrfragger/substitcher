@@ -1,0 +1,61 @@
+{
+  "title": "Els testimonis perduts",
+  "intro": "En una era remota, una comunitat habitava en una cruïlla de terres entre imperis. El seu profeta els va cridar cap al camí de la veritat, però ells es van aferrar a la incredulitat i l'opressió. Aquesta història acaba amb un càstig diví. Pots identificar aquesta nació i el seu destí a partir de les pistes següents?",
+  "clues": [
+    "Un poble va rebutjar l'advertència portada per un dels seus propis missatgers.",
+    "El missatger ens va cridar a adorar només Al·là i ens va advertir contra la corrupció.",
+    "La nostra transgressió va ser rebutjar el profeta enviat entre nosaltres amb justícia.",
+    "Vam dubtar de l'autoritat del missatger i el vam acusar d'engany.",
+    "El càstig ens va sobrevenir mentre habitàvem segurs a les nostres llars.",
+    "Vam ser destruïts per negar el nostre profeta i perseguir els creients."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Rebre un profeta que crida a la justícia",
+        "Sent posat a prova amb una fam",
+        "Tenir un somni interpretat",
+        "Rebre la Torà",
+        "Viatjant pel mar"
+      ],
+      "answer": "Rebre un profeta que crida a la justícia"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Midian",
+        "Babilònia",
+        "Sodoma",
+        "El Mar Roig",
+        "L'Arca"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "El poble va ser destruït per la seva incredulitat",
+        "El poble es va penedir i va ser guiat",
+        "La gent va entrar al Paradís",
+        "El poble va sobreviure i va prosperar",
+        "La gent va emigrar a una nova terra"
+      ],
+      "answer": "El poble va ser destruït per la seva incredulitat"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

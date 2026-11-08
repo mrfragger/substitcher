@@ -1,0 +1,61 @@
+{
+  "title": "Vyvrženec nebes",
+  "intro": "Na křižovatce stvoření a odmítnutí stojí záhadná bytost. Její příběh je příběhem bezprecedentní arogance a vrcholného vzdoru božskému příkazu. Jejich volba se odráží v každé generaci a stává se zkouškou pro každou duši zrozenou na tomto světě. Dokážete identifikovat tohoto věčného protivníka?",
+  "clues": [
+    "Byl jsem přítomen události kosmického významu, kdy byla z hlíny vytvořena nová bytost a Dechem Milosrdného jí byl vdechnut život.",
+    "Já sám jsem byl stvořen z jediného planoucího prvku, na rozdíl od toho, že jsem z prachu.",
+    "Byl mi vydán rozkaz, který jsem považoval za pod mé postavení.",
+    "Vzedmula mě pýcha a já jsem neústupně odmítl tento příkaz splnit.",
+    "Byla mi dána odkladná doba do stanoveného dne, abych mohl splnit svůj vyhlášený cíl, a to klamat ostatní.",
+    "Jsem vyhlášeným nepřítelem všech, kdo chodí po zemi, šeptám klamy a lákám je z přímé cesty."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Iblis (Satan)",
+        "Faraon (Fir'awn)",
+        "Haman",
+        "Abu Džahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Odmítl se poklonit před Adamem",
+        "Falešně prohlašoval božství",
+        "Ukoval zlaté tele k uctívání",
+        "Zabil svého bratra ze závisti",
+        "Vedl polyteistickou opozici v Mekce"
+      ],
+      "answer": "Odmítl se poklonit před Adamem"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Ráj (Džanna)",
+        "Faraonův palác v Egyptě",
+        "Posvátné údolí Tuwa",
+        "Hlubiny moře",
+        "Zahrada ze Sáby"
+      ],
+      "answer": "Ráj (Džanna)"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Dopřán odklad až do Soudného dne",
+        "Utopil se spolu s armádou v moři",
+        "Pohlceni zemí spolu s poklady",
+        "Proměněni v opice za porušení Sabatu",
+        "Spálen kamením vrženým z nebe"
+      ],
+      "answer": "Dopřán odklad až do Soudného dne"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

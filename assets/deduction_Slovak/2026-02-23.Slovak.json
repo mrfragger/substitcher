@@ -1,0 +1,61 @@
+{
+  "title": "Hlas skrytého presvedčenia",
+  "intro": "V srdci tyranského dvora, kde nevera bola zákonom krajiny, kráčala osamelá duša po lane viery a strachu. Táto osoba, blízko centra moci, počúvala, ako sa prorokovo posolstvo stretáva s pohŕdaním a hrozbami. Prišiel okamih pravdy, ktorý prinútil túto osobu vybrať si medzi tichým bezpečím a hlásením nebezpečnej pravdy. Dokážete odhaliť identitu tohto odvážneho zástancu?",
+  "clues": [
+    "Žil som priamo v domácnosti tyrana a na vlastné oči som bol svedkom arogancie, ktorá odmietala božské znamenia.",
+    "Svoju vieru som uchovával v tajnosti, ako skrytý poklad v paláci modlárstva.",
+    "Počul som, ako vodca, ktorému som slúžil, plánuje zabiť posla Alaha, muža menom Músa.",
+    "Spochybnil som ich logiku a pripomenul som im osud ľudu Nuha, Ada a Samúda.",
+    "Položil som svojim ľuďom kritickú otázku: „Ak je klamár, jeho lož je na ňom; ale ak je pravdovravný, niektoré z jeho sľubov vás zasiahnu.“",
+    "Môj príbeh je rozprávaný ako príklad viery v súre s názvom „Odpúšťajúci“, kde som varoval svoj ľud pred úkladmi mocných."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Veriaci z faraónovej rodiny",
+        "Háman",
+        "Faraónovi kúzelníci",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Veriaci z faraónovej rodiny"
+    },
+    "trial": {
+      "label": "Aká bola moja skúška?",
+      "options": [
+        "Obhajoba proroka Musu na tyranovom dvore",
+        "Stavba vznešenej veže, ktorá dosiahne nebesia",
+        "Byť uvrhnutý do planúceho ohňa",
+        "Byť prehltnutý obrovskou rybou",
+        "Strata všetkého bohatstva a zdravia"
+      ],
+      "answer": "Obhajoba proroka Musu na tyranovom dvore"
+    },
+    "location": {
+      "label": "Aká bola téma mojej hádky?",
+      "options": [
+        "Dôsledky odmietnutia prorokovho posolstva",
+        "Požiadavka na znamenie z posvätného stromu",
+        "Vytvorenie teľaťa z roztavených šperkov",
+        "Zázrak ťavy zo skaly",
+        "Výklad snov vládcu"
+      ],
+      "answer": "Dôsledky odmietnutia prorokovho posolstva"
+    },
+    "outcome": {
+      "label": "Aký bol výsledok?",
+      "options": [
+        "Alah zachránil tohto človeka pred jeho zlým plánom",
+        "Celý dvor okamžite prijal islam",
+        "Tyran ľutoval v momente topenia",
+        "Tyrana pohltila zem",
+        "Jednotlivec bol vyhnaný do vzdialenej krajiny"
+      ],
+      "answer": "Alah zachránil tohto človeka pred jeho zlým plánom"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

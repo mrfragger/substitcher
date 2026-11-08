@@ -1,0 +1,61 @@
+{
+  "title": "Sure Kazanan Kişi",
+  "intro": "Düşünün ki, mütevazı bir ruh, samimiyetle dolu bir kalple ve derin bir öğrenme arzusuyla Allah'ın elçilerinden birine yaklaşıyor. Ancak tam o anda, varlıklı ve mevki sahibi bir kişi elçinin dikkatini çekiyor ve arayan kişiye kaşlarını çatarak bakıyor. Bunun ardından, elçiyi düzeltmek ve bilgi edinmeye gelen ruha şeref vermek için Kur'an'dan bir bölüm okundu.",
+  "clues": [
+    "Allah'ın bir elçisine açık bir kalple ve derin bir rehberlik özlemiyle geldim.",
+    "Sunabileceğim hiçbir dünyevi statüm yoktu, sadece gerçeği arayan mütevazı bir ruhtum.",
+    "Fiziksel gözlerim göremiyordu, ama ruhsal görüşüm netti.",
+    "Tam da elçinin nüfuz sahibi bir kişiyle meşgul olduğu uygunsuz bir anda vardım.",
+    "Bana kaşlarını çatarak baktılar, ama Allah ilahi bir düzeltmeyle karşılık verdi.",
+    "Ben hikayesi Abasa Suresi'ne ilham veren sadık sahabe Abdullah ibn Ümmü Mektum'um."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Sabit",
+        "Salman el-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Deneme / Etkinlik",
+      "options": [
+        "Peygamberin zengin bir kişi için onu geri çevirmesi",
+        "Düşmanlar tarafından şiddetli bir ateşe atılmak",
+        "Köle olarak satılmak ve zulme uğramak",
+        "Güçlü bir savaşçı tarafından düelloya davet edilmek",
+        "Büyük bir balık tarafından yutulmak"
+      ],
+      "answer": "Peygamberin zengin bir kişi için onu geri çevirmesi"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kaş çatmayla başlayan bir Kur'an suresi (Abasa Suresi)",
+        "Soğutulmuş ve güvenli hale getirilmiş bir ateş",
+        "Koca bir denizi yaran bir asa",
+        "Yüksek bir dağın üzerine inşa edilmiş bir gemi",
+        "Sertleştirilmiş kilden şekillendirilmiş bir kuş"
+      ],
+      "answer": "Kaş çatmayla başlayan bir Kur'an suresi (Abasa Suresi)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Allah beni korumak için Kur'an'dan bir sure indirdi.",
+        "Allah ateşi benim için serin ve güvenli kıldı.",
+        "Allah beni takipten kurtarmak için denizi ikiye ayırdı.",
+        "Allah bana büyük bir krallık ve bilgelik bahşetti.",
+        "Allah beni ölümden cennete götürdü."
+      ],
+      "answer": "Allah beni korumak için Kur'an'dan bir sure indirdi."
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

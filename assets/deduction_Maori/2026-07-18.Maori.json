@@ -1,0 +1,61 @@
+{
+  "title": "Te Mea i Whakakorea e te Whakamātautau a te Wai",
+  "intro": "I roto i ngā pukapuka tawhito o ngā karaipiture, kei reira tētahi tangata whakamīharo, kāore tana kōrero i tīmata i tētahi merekara whakamiharo, i tētahi whakakitenga whatitiri rānei, engari i tētahi whakamātautau whakapono ngāwari engari hohonu. I tū tētahi iwi i te huarahi whakawhiti, e rapu ana i te arataki a te Atua mō te kaiārahi. Ko te mea i puta ko tētahi whakamātautau tino mohio i whakakitea ai ko wai ngā whakapono pono i roto i a rātou. Ka taea e koe te wetewete i tēnei mea ngaro mai i ngā tohu i mahue iho?",
+  "clues": [
+    "I ahu mai ahau i tētahi whakapapa i whakanuia e te iwi, ā, i whiriwhiria ahau e Allah mō tētahi kaupapa tapu kāore i taea e rātou te mārama.",
+    "He tohu motuhake tōku tinana, kāore i kitea e ētahi atu, ā, i tū motuhake ai ahau i roto i tōku iwi.",
+    "I te wā i whakapuakina ai te awa hei whakamātautau, i tahuri whakamuri te nuinga—engari i haere tonu ahau ki mua, i akiakihia e te whakapono pumau ki te kupu whakaari a Allah.",
+    "I whakahaua ahau kia kaua rawa e inu i te wai tapu, heoi kotahi te pata i puta mai i ōku ngutu—he hara i whaiwhai i tōku ngākau ake ake.",
+    "I whakaritea ahau e te Atua kia tūtaki ki tētahi hepara taitamariki, ā, i tētahi rā ka noho hei tangata rongonui mō te patu i tētahi hoariri nui.",
+    "I te pakanga o ngā taua, ehara i te mea i hinga ahau i te ringa o te hoariri, engari nā te ture a te Atua i whiu ai ahau mō taku tutu i te awa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Talut (Saul) – Te Kīngi Tuatahi o Bani Iharaira",
+        "Poropiti Rawiri (Rāwhiti) – Te Kīngi Hepara",
+        "Ko Koriata (Jalut) – Te Rapa Nui o Bani Iharaira",
+        "Poropiti Sulayman (Horoma) – Te Ariki o te Hau me te Jinn",
+        "Ko te Heneral a Kingi Haora nāna i amo te aaka"
+      ],
+      "answer": "Talut (Saul) – Te Kīngi Tuatahi o Bani Iharaira"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te korenga e inu i te awa o te Naera i te wā o te Whakapuakinatanga",
+        "Te whakamātautau i te ope taua mā te whakahau i a rātou kia kaua e inu i te awa tapu",
+        "Te hanganga o te temepara o Hiruharama i roto i ngā tau e whā tekau",
+        "Te whawhai ki ngā Amareki me te poropiti a Mohi",
+        "Te hanga i tētahi whare mō te Kuīni o Sheba, a Bilqis"
+      ],
+      "answer": "Te whakamātautau i te ope taua mā te whakahau i a rātou kia kaua e inu i te awa tapu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te awa o Horano e tata ana ki Hiruharama",
+        "Te awa i te rohe o te Whenua i Whakapuakina",
+        "Te awa o Uparati i Papurona",
+        "Te awa o te Nile i Ihipa",
+        "Ngā wai e karapoti ana i te tāone o Heriko"
+      ],
+      "answer": "Te awa i te rohe o te Whenua i Whakapuakina"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I riro ahau hei kingi nui rawa atu, ā, i hanga e ahau te temepara o Hiruharama",
+        "I hinga ahau i te pakanga hei whiu mō taku mahi tutu kotahi",
+        "I whakaorangia ahau e tōku whakapono, ā, i riro ahau hei poropiti",
+        "I raupatuhia e taku ope taua te ao katoa e mōhiotia ana",
+        "I ora ahau kia kite i taku tama, i a Horomona, e riro ana i ahau tōku kingitanga"
+      ],
+      "answer": "I hinga ahau i te pakanga hei whiu mō taku mahi tutu kotahi"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

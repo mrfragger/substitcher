@@ -1,0 +1,61 @@
+{
+  "title": "Hiljainen ääni kammiossa",
+  "intro": "Rukous kaikui kauan sitten pyhän kammion hiljaisuudessa, nousten ikääntyvästä sielusta, joka kaipasi sitä, minkä maailma oli julistanut mahdottomaksi. Tämä ikääntynyt ja tulevaisuuden huolista kuormitettu hahmo kääntyi Herransa puoleen henkilökohtaisella pyynnöllä. Seurasi jumalallinen vastaus, joka uhmasi kaikkia luonnollisia odotuksia – todistus epätoivoiseen kutsuun vastaavan Hänen armostaan.",
+  "clues": [
+    "Rukoilin Herraani yksityisesti vetäytyen kammioon, jossa omistauduin Hänen palvontaansa.",
+    "Tunnustin Herralleni, että pelkäsin niiden puolesta, jotka tulisivat minun jälkeeni, ja että olin huolissani kansani johdatuksesta lähtöni jälkeen.",
+    "Vanhuus oli vallannut minut – luuni olivat heikentyneet ja valkoiset hiukset levinneet päähäni.",
+    "Puolisoni oli ollut hedelmätön koko elämänsä, mutta silti pyysin Herraani antamaan minulle perillisen omasta läsnäolostaan.",
+    "Pyysin merkkiä, ja Herrani vastasi estämällä minua puhumasta kenenkään kanssa kolmeen yöhön, kunnes pysyin fyysisesti terveenä.",
+    "Minulle luvattiin poika, jonka nimi olisi Yahya, nimi, jota Herrani julisti olevan antamatta kenellekään aiemmin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Zakariya",
+        "Profeetta Nooa",
+        "Profeetta Musa",
+        "Profeetta Yusuf",
+        "Profeetta Daavid"
+      ],
+      "answer": "Profeetta Zakariya"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Rukoileminen perillisen puolesta vanhalla iällä hedelmättömän puolison kanssa",
+        "Heitetään liekehtivään tuleen",
+        "Joudun suuren kalan nielaisemaksi pimeydessä",
+        "Perheen, vaurauden ja terveyden menetyksen kestäminen",
+        "Käsketään rakentamaan suuri arkki"
+      ],
+      "answer": "Rukoileminen perillisen puolesta vanhalla iällä hedelmättömän puolison kanssa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Rukouskammio (mihrab)",
+        "Sauva, joka muuttui käärmeeksi",
+        "Suuri puinen arkki",
+        "Puutarha, jossa on ainutlaatuinen lähde",
+        "Vuori, jossa linnut kokoontuivat"
+      ],
+      "answer": "Rukouskammio (mihrab)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Sai ihmeellisesti nimetyn pojan äärimmäisestä iästä huolimatta",
+        "Pelastettu liekehtivästä tulesta jumalallisen käskyn kautta",
+        "Suuri tulva tuhosi uskottomat",
+        "Palautettu perheeseen, vaurauteen ja terveyteen kärsivällisyyden avulla",
+        "Faarao ja hänen armeijansa hukkuivat mereen"
+      ],
+      "answer": "Sai ihmeellisesti nimetyn pojan äärimmäisestä iästä huolimatta"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

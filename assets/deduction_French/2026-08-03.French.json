@@ -1,0 +1,61 @@
+{
+  "title": "La source sous le sable",
+  "intro": "Dans les annales du Coran, une figure d'une patience immense a affronté une épreuve qui aurait brisé les cœurs les plus vaillants. Elle a tout perdu : richesse, famille, santé. Pourtant, du plus profond du désespoir, une humble prière a été exaucée de la manière la plus inattendue. Pouvez-vous identifier cette âme dont l'histoire de renaissance résonne à travers les âges ?",
+  "clues": [
+    "J'ai subi une épreuve si terrible qu'elle reste gravée dans les mémoires à travers les âges.",
+    "J'ai tout perdu : ma fortune, mes enfants et ma santé.",
+    "Mon corps était couvert de plaies douloureuses et j'étais rejeté par tous.",
+    "Dans mon désespoir, j'ai imploré Allah, disant que Satan m'avait touché par l'épreuve et le tourment.",
+    "Allah m'a répondu et m'a ordonné de frapper le sol du pied.",
+    "De cet endroit précis jaillit une source fraîche, et Allah rétablit ma famille et la doubla par miséricorde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Ayyub",
+        "Le prophète Moïse",
+        "Le prophète Ilyas",
+        "Le prophète Sulayman",
+        "Prophète Dawud"
+      ],
+      "answer": "Prophète Ayyub"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Maladie grave, perte de la famille et du patrimoine",
+        "Être avalé par une grande baleine",
+        "Exil de la ville de La Mecque",
+        "Emprisonnement dans un puits profond",
+        "Confrontation avec un dirigeant arrogant"
+      ],
+      "answer": "Maladie grave, perte de la famille et du patrimoine"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une source fraîche jaillissant de la terre",
+        "Un bateau sur une grande inondation",
+        "Un bâton qui a fendu la mer",
+        "Un trône de verre surélevé",
+        "Une grotte fortifiée pour dormir"
+      ],
+      "answer": "Une source fraîche jaillissant de la terre"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Famille et richesse restaurées et doublées",
+        "Sortie du ventre d'un poisson",
+        "Passage sûr à travers les eaux séparées",
+        "Un royaume donné à gouverner",
+        "La naissance miraculeuse d'un fils à un âge avancé"
+      ],
+      "answer": "Famille et richesse restaurées et doublées"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

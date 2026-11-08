@@ -1,0 +1,61 @@
+{
+  "title": "Bdijenje ožalošćenih",
+  "intro": "Susrest ćete dušu iskušanu najdubljom odvojenošću, čije su oči poznavale jezik suza, a opet čije srce nikada nije gubilo nadu. U priči o obmani, čežnji i konačnom ponovnom susretu, ovaj plemeniti Allahov sluga postao je simbol strpljenja za sva vremena. Tko je izdržao godine skrivene boli, samo da bi mu se u jednom trenutku vratio vid i radost?",
+  "clues": [
+    "Ja sam prorok čije je ime postalo simbol strpljenja u suočavanju s velikim gubitkom.",
+    "Bio sam blagoslovljen s mnogo sinova, ali jednog mi je oduzela ljubomora drugih.",
+    "Moja ljubav prema toj izgubljenoj osobi bila je toliko duboka da su mi oči pobijeljele od tuge, ali se nikada nisam žalio osim Allahu.",
+    "Poslao sam sinove natrag da traže onoga kojeg sam izgubio i njegovog brata, potičući ih da ne gube nadu.",
+    "Kad je stigao glasnik dobrih vijesti, preko lica mi je bačena košulja i svijet mi je odjednom ponovno postao jasan.",
+    "Poznat sam kao Izrael, a od mojih dvanaest sinova nastalo je dvanaest plemena velikog naroda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Jakub (a.s.)",
+        "Poslanik Jusuf (Josif)",
+        "Poslanik Ishak (Izak)",
+        "Poslanik Ibrahim (Abraham)",
+        "Poslanik Ajjub (Job)"
+      ],
+      "answer": "Poslanik Jakub (a.s.)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Odvojenost od voljenog sina dugi niz godina",
+        "Biti bačen u plamteću vatru",
+        "Progutala ga je velika riba",
+        "Obolio od teške kožne bolesti",
+        "Biti bez djece do starosti"
+      ],
+      "answer": "Odvojenost od voljenog sina dugi niz godina"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Jusufova košulja",
+        "Musino osoblje",
+        "Nuhova barka",
+        "Salihova deva",
+        "Sulejmanov prsten"
+      ],
+      "answer": "Jusufova košulja"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Vid mu se vratio i ponovno se susreo sa sinom.",
+        "Dobio pobjedu nad tiranskim kraljem",
+        "Uzdignut u nebesa živ",
+        "Imenovan za vladara nad Egiptom",
+        "Dobio sina u starosti kao čudo"
+      ],
+      "answer": "Vid mu se vratio i ponovno se susreo sa sinom."
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

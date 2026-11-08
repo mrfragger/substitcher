@@ -1,0 +1,61 @@
+{
+  "title": "Der Herrscher, der Göttlichkeit forderte",
+  "intro": "Ein mächtiger und arroganter Herrscher glaubte, niemand stünde über seinem Thron. Er verfolgte eine fliehende Gruppe über ein riesiges Gewässer und fand dabei ein dramatisches Ende. Die Geschichte dieses Herrschers findet sich in vielen Passagen des Korans wieder und dient als Warnung für alle.",
+  "clues": [
+    "Ich war ein mächtiger Herrscher, der der Überzeugung war, dass in den von mir regierten Ländern keine Autorität über meiner eigenen stand.",
+    "Ich hatte einen vertrauenswürdigen Wesir namens Haman, der mir bei der Durchführung großer Architekturprojekte half.",
+    "Ich rief die besten Magier meines Landes zusammen, um die Zeichen eines Boten, der sich mir widersetzte, in Frage zu stellen.",
+    "Ich weigerte mich, ein in meinem Reich versklavtes Volk ziehen zu lassen, trotz Seuchen und eindeutiger Warnungen.",
+    "Ich verfolgte sie über ein weites Meer mit meinem gesamten Heer und meinen Streitwagen.",
+    "Das Meer schloss sich über mir und meinen Truppen und ertränkte uns alle, während sie sicher hinüberkamen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Fir'awn (Pharao)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Pharao)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Plagen und Konfrontation mit Musa (Moses)",
+        "Bau einer Arche vor einer großen Flut",
+        "Kampf gegen Jalut im Tal",
+        "Von einem Wal verschluckt werden",
+        "Verteidigung ehrlicher Handelsgewichte"
+      ],
+      "answer": "Plagen und Konfrontation mit Musa (Moses)"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Hohe Türme und Pfähle",
+        "Eine große hölzerne Arche",
+        "Ein goldenes Kalb",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein riesiger Wal"
+      ],
+      "answer": "Hohe Türme und Pfähle"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Im Meer ertrunken mit der Armee",
+        "Durch Allahs Gnade und Geduld gerettet und belohnt",
+        "Nach Jahren der Entbehrung wieder mit der Familie vereint",
+        "Von der Erde verschluckt",
+        "Im Feuer verbrannt"
+      ],
+      "answer": "Im Meer ertrunken mit der Armee"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Zemljin zagrljaj",
+  "intro": "U vremenu velikih kušnji, jednoj poznatoj osobi darovano je golemo svjetovno obilje, test zahvalnosti i poniznosti. Putovanje ove osobe služi kao duboka lekcija o prolaznosti materijalnih posjeda i posljedicama arogancije. Otkrijte identitet ove duše čija je priča urezana u samo tlo pod nama.",
+  "clues": [
+    "Živio sam među ljudima koje je vodio veliki glasnik.",
+    "Allah mi je podario tako ogromno bogatstvo da su i sami ključevi mojih blaga bili teško breme za mnoge snažne pojedince.",
+    "Moj narod, znajući moje bogatstvo, savjetovao mi je da tražim ahiret s onim što mi je Allah dao i da ne zaboravim svoj dio svijeta, te da činim dobro kao što je Allah učinio dobro meni.",
+    "Arogantno sam izjavio da sam svoje ogromno bogatstvo stekao isključivo vlastitim znanjem i trudom, niječući svaku božansku milost.",
+    "Kada su me zamolili da doprinesem ili priznam Allahovu blagodat, ponosno sam odbio, vjerujući da su moji posjedi isključivo moji.",
+    "Zbog moje ekstremne arogancije i ugnjetavanja, Allah je naredio zemlji da se otvori i proguta mene i moj dom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Faraon",
+        "Iblis",
+        "Haman",
+        "Ebu Lehab",
+        "Karun"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti bačen u vatru",
+        "Utapanje u moru",
+        "Biti prognan iz vrta",
+        "Pretvaranje u majmuna",
+        "Biti progutan od zemlje"
+      ],
+      "answer": "Biti progutan od zemlje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlatno tele",
+        "Moćna arka",
+        "Ptica koja govori",
+        "Čudesni štap",
+        "Neizmjerna blaga i ključevi"
+      ],
+      "answer": "Neizmjerna blaga i ključevi"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postati veliki vladar",
+        "Primanje božanske objave",
+        "Uzdižući se do nebesa",
+        "Živjeti dug život pobožnosti",
+        "Potpuno uništenje zbog arogancije"
+      ],
+      "answer": "Potpuno uništenje zbog arogancije"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

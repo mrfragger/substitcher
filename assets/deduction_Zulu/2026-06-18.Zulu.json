@@ -1,0 +1,61 @@
+{
+  "title": "Abokuqala Ukufuna Intethelelo",
+  "intro": "Buyela emuva esikhathini esingaphambi kokuphuma kwelanga kokuqala, ngaphambi kokuba noma ubani ofayo ahambe emhlabeni. Umuntu wadalwa ngezinto eziphansi kakhulu, wanikezwa isikhundla ngaphezu kwezingelosi, wabekwa engadini engcwele enesexwayiso esicacile. Kodwa ngomzuzwana owodwa, kwenziwa ukukhetha - okwakuzozwakala kuwo wonke umlando wesintu. Ubani lo muntu?",
+  "clues": [
+    "Ngadalwa ngendlela engafani nanoma iyiphi enye — ngadalwa ngothuli lomhlabathi futhi nganikwa umphefumulo ophilayo ngesandla soMdali.",
+    "Nganikwa ulwazi olujulile kangangokuthi ngisho nezingelosi eziphezulu zamangala ngalo.",
+    "Lonke izulu layalwa ukuba likhothame phambi kwami, futhi bonke bazithoba—ngaphandle koyedwa, owenqaba ngenxa yokuqhosha.",
+    "Ngabekwa engadini engcwele, indawo yenduduzo yaphakade kanye nokudla okunomsoco — kodwa ngenqatshelwe eyodwa eqinile.",
+    "Ngikhohliwe, ngashelela, futhi angilalelanga — futhi ngazizwa ngisinda kakhulu isiphambeko sami.",
+    "Ngaphendukela eNkosini yami ngamazwi asuka enhliziyweni, futhi yamukela ukuphenduka kwami, ngoba iyona Ethethelela Kakhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Adamu",
+        "Umprofethi uDawud",
+        "Umprofethi uMuhammad",
+        "I-Iblis",
+        "Umprofethi uYaqub"
+      ],
+      "answer": "Umprofethi u-Adamu"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Izingelosi zayalwa ukuba zikhothame",
+        "UZamcolo Omkhulu wathunyelwa",
+        "Umlilo omkhulu wenziwa waba pholile futhi waphephile",
+        "Umbusi oqhoshayo waminza olwandle",
+        "Ibutho lezindlovu labhujiswa"
+      ],
+      "answer": "Izingelosi zayalwa ukuba zikhothame"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Insimu Yenjabulo",
+        "INtaba iSinayi",
+        "I-Mosque Engcwele",
+        "UMfula iNayile",
+        "Umhume"
+      ],
+      "answer": "Insimu Yenjabulo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukuphenduka kwamukelwa ngu-Allah",
+        "Ukuminza olwandle",
+        "Kugwinywe yinhlanzi enkulu",
+        "Isizwe sashaywa ukuqhuma okukhulu",
+        "Kushiswe umoya oshisayo"
+      ],
+      "answer": "Ukuphenduka kwamukelwa ngu-Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

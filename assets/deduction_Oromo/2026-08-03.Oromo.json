@@ -1,0 +1,61 @@
+{
+  "title": "Birraan Cirracha Jala Jiru",
+  "intro": "Seenaa Qur’aanaa keessatti namni obsa guddaa qabu tokko qormaata onnee jajjaboo cabsu isa mudate. Wanti hundinuu mulqame - qabeenya, maatii, fi fayyaa. Ta’us gadi fageenya abdii kutannaa keessaa kadhannaan gad of qabuu karaa baay’ee hin eegamneen deebii argate. Lubbuu seenaan deebisanii dhaabuu ishee bara dheeraa keessatti sagalee dhageessisaa jiru kana adda baasuu dandeessaa?",
+  "clues": [
+    "Qormaata baay'ee cimaa ta'een bara dheeraa keessatti yaadatamuun na qorame.",
+    "Waan barbaachisaa ta'e hunda dhabe - qabeenya koo, ijoollee koo, fi fayyaa koo.",
+    "Qaamni koo madaa dhukkubsataa taʼeen kan uwwifame siʼa taʼu, hundumaan na irraa fagaachaa ture.",
+    "Abdii kutannaa koo keessatti, sheyxaanni rakkinaa fi gidiraan na tuqe jedhee gara Rabbiin waame.",
+    "Rabbiin naaf deebisee miila kootiin dachii akkan rukutu na ajaje.",
+    "Bakka sanarraa burqaa qabbanaa’aan dhoohe, Rabbiin maatii kiyya deebisee rahmata godhee dachaa godhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Ayyuub",
+        "Nabi Muusaa",
+        "Nabi Ilyaas",
+        "Nabi Suleeymaan",
+        "Nabi Daawud"
+      ],
+      "answer": "Nabi Ayyuub"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Dhukkuba cimaa fi maatii fi qabeenya dhabuu",
+        "Whale guddaa tokkoon liqimfamuu",
+        "Magaalaa Makkaa irraa baqachuu",
+        "Boolla gadi fagoo keessatti hidhamuu",
+        "Bulchaa of tuultuu waliin wal dura dhaabbachuu"
+      ],
+      "answer": "Dhukkuba cimaa fi maatii fi qabeenya dhabuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Burqaa qabbanaawaa lafa irraa",
+        "Doonii lolaa guddaa irra jirtu",
+        "Ulee galaana addaan qoodu",
+        "Teessoo olka’aa kan geejjibaa",
+        "Holqa dallaa qabu hirribaaf"
+      ],
+      "answer": "Burqaa qabbanaawaa lafa irraa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Maatii fi qabeenyi deebi’ee dachaa ta’e",
+        "Garaa qurxummii keessaa ba'i",
+        "Bishaan addaan ba’e keessa nagaadhaan darbuu",
+        "Mootummaa bulchuuf kenname",
+        "Ilma dulluma keessatti dinqiidhaan dhalate"
+      ],
+      "answer": "Maatii fi qabeenyi deebi’ee dachaa ta’e"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

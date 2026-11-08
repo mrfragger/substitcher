@@ -1,0 +1,61 @@
+{
+  "title": "Te Taumahatanga o tētahi Koha i Whakakahoretia",
+  "intro": "I te tīmatanga o te hītori o te tangata, i te wā e tamariki ana te whenua, ā, i te wā e manawa ana te ao, ka tū tetahi wairua ki te aroaro o te Kaihanga me tētahi whakahere whakaiti. I paunatia taua whakahere ki te pauna o te manako o te Atua - ā, i kitea he hapa. Ko te mea i muri mai ehara i te kōrero mō te murunga hara, engari mō te ngākau kua pau i te hae, e ārahi ana ki tētahi mahi e kore e taea te whakakore ka haruru tonu i ngā wā katoa. Koinei te kōrero mō tētahi tangata i noho ko tōna ingoa hei kupu whakarite mō te hē nui tuatahi i mahia.",
+  "clues": [
+    "I whānau mai ahau hei tētahi o ngā tamariki matamua rawa atu i whānau mai, i whānau mai i tētahi mātua e mōhiotia paitia ana e koe tōna kōrero.",
+    "I patua e au tētahi patunga tapu ki a Allah i mua, engari kāore i manakohia e au - ahakoa i manakohia te whakahere a tōku tuakana/teina me te atawhai.",
+    "Ka tipu ake te hae me te riri i roto i tōku ngākau, ā, ka whakatuma ahau ki te whakamate i te ora o ōku whanaunga.",
+    "I whakatūpato mai tōku tuakana/teina kia wehi i a Allah, engari kāore tōku whakapehapeha i pai kia whakarongo ahau.",
+    "I roto i tētahi wā ngoikore rawa, ka mahia e au tētahi mahi tino kino ki tōku ake teina.",
+    "I muri iho, kāore au i mōhio me pēhea te huna i taku i mea ai — tae noa ki te tonoa mai o tētahi mea hanga o te whenua hei whakaako i ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Qabil (Kaina)",
+        "Hāpiri (Āpera)",
+        "Te tama a te Poropiti a Noa",
+        "Poropiti Ihimaera",
+        "Poropiti a Yusuf"
+      ],
+      "answer": "Qabil (Kaina)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tuku i tētahi patunga tapu i whakakahoretia, ā, i arahina atu ki te kohuru tuatahi",
+        "Te hanga i tētahi pourewa tiketike hei eke ki te rangi",
+        "Te maka ki roto i te ahi mura mō te whakapono o te tangata",
+        "Te patu i tana ake tama i runga i te ngohengohe ki a Allah",
+        "Te horomia e te ika nui mō te oma atu i te mahi"
+      ],
+      "answer": "Te tuku i tētahi patunga tapu i whakakahoretia, ā, i arahina atu ki te kohuru tuatahi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He rākau i tonoa e Allah hei whakaatu i te tanumanga",
+        "He waipuke nui i toremi ai te iwi katoa",
+        "He tokotoko i huri hei nakahi ora",
+        "He kamera uwha i puta mai i te maunga toka",
+        "He torona whakahīhī e haria ana e ngā hau kaha"
+      ],
+      "answer": "He rākau i tonoa e Allah hei whakaatu i te tanumanga"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tino pouri, i taumaha hoki i te hara tuatahi i mahia",
+        "I murua ngā hara e Allah, ā, i tukuna ki a ia te Pararaiha mutungakore",
+        "I whakaarahia ki te tūranga teitei o te poropititanga me te whakaaro nui",
+        "I whakaorangia e te aroha o te Atua i muri i tana karanga mai i te hohonutanga o te pōuri",
+        "I tukuna ki a ia te mana whakahaere i ngā jinn, i te hau, me ngā moana"
+      ],
+      "answer": "I tino pouri, i taumaha hoki i te hara tuatahi i mahia"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

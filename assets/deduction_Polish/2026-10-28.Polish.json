@@ -1,0 +1,61 @@
+{
+  "title": "Obietnica wypowiedziana nad żarem",
+  "intro": "Stoisz przy pustynnym ognisku, gdy jego żar jest starannie rozrzucany. Goście przybywają, by spotkać się w ciszy, a jedna wiadomość rozpoczyna historię obietnicy, niespodzianki i przyszłości, która jeszcze się nie spełniła.",
+  "clues": [
+    "Pokonaliśmy dystans, aby spotkać się z wiernym sługą na pustyni.",
+    "Poprosiliśmy o rozrzucenie żaru i przygotowanie ogniska.",
+    "Rozmawialiśmy z osobą, która zwróciła się do płomienia, aby poczuć ochłodę i bezpieczeństwo.",
+    "Przynieśliśmy wieść o narodzinach noworodka komuś, kto przekroczył już wiek, w którym można mieć dzieci.",
+    "Obiecanemu dziecku nadaliśmy imię Izaak.",
+    "Przynieśliśmy Ibrahimowi radosną nowinę o synu, a ta zdumiewająca nowina rozbawiła Ibrahima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Aniołowie, którzy przynieśli Ibrahimowi radosną nowinę o Izaaku",
+        "Aniołowie, którzy ostrzegali Luta",
+        "Aniołowie niosący tron",
+        "Aniołowie piekła",
+        "Aniołowie wysłani do Noego"
+      ],
+      "answer": "Aniołowie, którzy przynieśli Ibrahimowi radosną nowinę o Izaaku"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Przekazanie Ibrahimowi radosnej nowiny o narodzinach Izaaka",
+        "Ostrzeżenie Luta przed karą dla jego ludu",
+        "Zapowiedź narodzin Yahyi dla Zakariyya",
+        "Niosąc tron ​​w Dniu Sądu",
+        "Zapowiedź narodzin Isy dla Maryam"
+      ],
+      "answer": "Przekazanie Ibrahimowi radosnej nowiny o narodzinach Izaaka"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogień przygotowany z rozrzuconych żarów",
+        "Arka unosząca się na wodzie powodziowej",
+        "Jaskinia zamknięta toczącym się kamieniem",
+        "Góra gliny utwardzona solanką",
+        "Drabina sięgająca nieba"
+      ],
+      "answer": "Ogień przygotowany z rozrzuconych żarów"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Radosna nowina o synu imieniem Izaak",
+        "Radosna nowina o synu o imieniu Yahya",
+        "Wybór Taluta na władcę nad dziećmi Izraela",
+        "Ostrzeżenie przed karą dla ludu Luta",
+        "Polecenie zbudowania arki przed potopem"
+      ],
+      "answer": "Radosna nowina o synu imieniem Izaak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

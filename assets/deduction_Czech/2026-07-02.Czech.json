@@ -1,0 +1,61 @@
+{
+  "title": "Služebník skryté moudrosti",
+  "intro": "V rozsáhlé tapiserii koránských vyprávění stojí záhadná postava, služebník Alláha obdařený božským poznáním a milosrdenstvím. Tato záhadná osobnost se setkala s jedním z největších proroků, což vedlo k cestě plné matoucích činů, které zpochybňovaly hranice lidského chápání. Každý čin, ačkoli zdánlivě nespravedlivý, skrýval hluboké ponaučení o osudu, trpělivosti a neviditelné moudrosti, která se skrývá za božským rozhodnutím. Kdo je tato stinná postava a jaké pravdy odhalila?",
+  "clues": [
+    "Byl jsem služebníkem Alláha, vyvoleným pro zvláštní znalosti a milosrdenství.",
+    "Jeden velký prorok se ode mě chtěl učit a já jsem souhlasil za přísných podmínek.",
+    "Během našeho setkání jsem provedl tři činy, které se mému společníkovi zdály nespravedlivé.",
+    "Poškodil jsem loď patřící chudým lidem, a přesto to bylo skryté milosrdenství.",
+    "Vzal jsem život malému chlapci, i když se to zdálo kruté, chtěl jsem ušetřit zármutek jeho rodičů.",
+    "Znovu jsem postavil zeď ve městě, které nám odepíralo pohostinnost, a odhalil jsem pod ní poklad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Al-Khidr (spravedlivý služebník)",
+        "Majitel obou zahrad",
+        "Jeden z lidí z jeskyně",
+        "Král, který se hádal s Ibrahimem",
+        "Muž, který spal 100 let"
+      ],
+      "answer": "Al-Khidr (spravedlivý služebník)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Setkání s prorokem Músou na soutoku dvou moří",
+        "Stavba bariéry proti Gogovi a Magogovi",
+        "Být vhozen do velkého ohně",
+        "Rozdělení moře na dvě poloviny",
+        "Přijetí tabulek Tóry"
+      ],
+      "answer": "Setkání s prorokem Músou na soutoku dvou moří"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Spojení dvou moří",
+        "Hora Sinaj",
+        "Jeskyně Thawr",
+        "Údolí Tuwy",
+        "Studna Zamzam"
+      ],
+      "answer": "Spojení dvou moří"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Vysvětlil božskou moudrost, která se skrývala za jeho záhadnými činy, a rozloučil se s Músou",
+        "Po cestě mu bylo uděleno proroctví",
+        "Loď byla zničena bouří",
+        "Chlapce přivedli zpět k životu",
+        "Postavil mešitu v nehostinném městě"
+      ],
+      "answer": "Vysvětlil božskou moudrost, která stála za jeho záhadnými činy, a rozloučil se s Músou"
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

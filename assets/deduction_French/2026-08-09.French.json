@@ -1,0 +1,61 @@
+{
+  "title": "La voix véridique des temps anciens",
+  "intro": "Dans le Coran, une âme est mentionnée en quelques versets seulement, mais ses nobles qualités transparaissent avec une clarté éclatante. Loué par le Tout-Puissant pour une vertu particulière, cet ancien serviteur du Très Miséricordieux occupe une place de choix dans les pages de la révélation. Votre mission est d'identifier cette figure remarquable. Saurez-vous la reconnaître ?",
+  "clues": [
+    "Je suis un prophète d'Allah ayant vécu parmi les premières générations de l'humanité.",
+    "Allah m'a mentionné dans Son Livre avec d'autres prophètes, tous loués pour la même noble vertu.",
+    "Je suis décrit comme un homme de vérité dans le Coran.",
+    "Allah m'a élevé à un rang que peu d'autres ont atteint.",
+    "Mon nom est mentionné dans la sourate Al-Anbiya, aux côtés de deux autres prophètes loués pour leur patience.",
+    "Je suis Idris, le prophète véridique et élevé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Idris",
+        "Prophète Noé",
+        "Le prophète Ibrahim",
+        "Le prophète Moïse",
+        "Le prophète Ismaïl"
+      ],
+      "answer": "Le prophète Idris"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "En faisant preuve de patience et de sincérité, il fut ensuite élevé à un poste élevé.",
+        "La construction d'une grande arche pour sauver les croyants d'un déluge dévastateur",
+        "Être jeté dans un brasier et en ressortir indemne",
+        "Affronter un roi puissant et vaincre son armée de magiciens",
+        "Survivre à l'intérieur du ventre d'un grand poisson dans les profondeurs de la mer"
+      ],
+      "answer": "En faisant preuve de patience et de sincérité, il fut ensuite élevé à un poste élevé."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une station élevée et exaltée par Allah",
+        "Un navire massif construit en planches et enduit de goudron",
+        "Un feu dévastateur alimenté par les idolâtres d'un roi impie",
+        "Une vaste mer qui se divisait en bras secs",
+        "Le ventre sombre d'une grande baleine au fond de l'océan"
+      ],
+      "answer": "Une station élevée et exaltée par Allah"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Admis à la miséricorde d'Allah comme l'un des justes",
+        "Sauvés avec tous les croyants d'un déluge mondial",
+        "Il est sorti des flammes indemne du feu.",
+        "Il a conduit les enfants d'Israël sains et saufs vers la liberté, de l'autre côté de la mer.",
+        "Retrouvailles avec leur famille bien-aimée après de longues années de souffrance"
+      ],
+      "answer": "Admis à la miséricorde d'Allah comme l'un des justes"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaihanga o te Hiahia Hē",
+  "intro": "I mua, i mahi tētahi tangata whai mana nui ki tētahi o ngā kaitukino rongonui o te hītori o Īhipa onamata. I tukua ki tēnei tangata tētahi whakahau māia - ki te hanga i tētahi hanganga hei whakakeke i ngā rangi. Ko tā rātou kōrero i roto i te Quran he akoranga whakamiharo mō te pehea e arahi ai te ngohengohe matapo ki te whakapehapeha ki te whakangaromanga.",
+  "clues": [
+    "I mahi ahau i roto i ngā kōti o tētahi rangatira kaha i kī ko ia te atua o te whenua.",
+    "I noho ahau i tētahi tūranga minita nui, hei kaitohutohu i te kaitukino whakakake rawa atu o tōku wā.",
+    "I whakapau kaha tōku rangatira ki te wero i te Atua o Mohi, i whakakahoretia nei e rātou.",
+    "I whakahaua ahau kia hanga he pourewa ki ngā pereki i tunua ki te ahi kia taea ai e taku rangatira te piki ki te rangi.",
+    "Kāore te pourewa i tae ki te rangi, ā, nā taku pononga ki te whakapehapeha ahau i whakama ai ake ake.",
+    "I mate tahi māua ko te tangata i aru ahau, ā, ko tōku ingoa hei whakatūpato pumau mō te hunga e whakamana ana i ngā kaitukino."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Hāmana",
+        "Azar (matua o Ibrahim)",
+        "Ilias (he poropiti)",
+        "Dhu al-Kifl",
+        "Harut (tetahi o ngā anahera tokorua i Papurona)"
+      ],
+      "answer": "Hāmana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakahaua kia hanga he whare tiketike hei eke ki te rangi",
+        "I tonoa kia whakamārama i tētahi moemoeā i tukuna mai e te atua",
+        "Ka maka ki roto i te ahi mura hei whakamātautau i te whakapono",
+        "I akiakihia kia whiriwhiri i waenga i te torona me te pono",
+        "I whakataetaehia i roto i te whakataetae makutu"
+      ],
+      "answer": "I whakahaua kia hanga he whare tiketike hei eke ki te rangi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He pourewa pereki i tunua ki te ahi",
+        "He tokotoko i huri hei nakahi",
+        "He kaipuke e rere ana i roto i te waipuke nui",
+        "He māra e karapotia ana e ngā taiepa teitei",
+        "He torona kua whakapaipaihia ki ngā rupi me te koura"
+      ],
+      "answer": "He pourewa pereki i tunua ki te ahi"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi i te taha o te kaitukino i te moana",
+        "I noho hei kingi mana nui mō ngā whenua whānui",
+        "I mawhiti mai i te mura ahi, kāore i whara",
+        "I hanga he kingitanga whai rawa o te whakaaro nui",
+        "I tūtaki anō ki te whānau i muri i ngā tau o te noho manene"
+      ],
+      "answer": "I toremi i te taha o te kaitukino i te moana"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

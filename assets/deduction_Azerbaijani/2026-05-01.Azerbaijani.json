@@ -1,0 +1,61 @@
+{
+  "title": "Həqiqət Taxtı",
+  "intro": "Böyük müdrikliyi və möhtəşəm taxtı ilə tanınan güclü bir hökmdar naməlum mənbədən sirli bir mesaj alır. Bu gözlənilməz ünsiyyət onların inanclarına və səlahiyyətlərinə meydan oxuyur, onları zəkalarını sınayacaq və nəticədə dərin mənəvi oyanışa səbəb olacaq diplomatik səyahətə çıxarır. Bu hökmdarın kimliyini və bütün krallığını dəyişdirən hadisələri aşkar edə bilərsinizmi?",
+  "clues": [
+    "Mən və xalqım əcdadlarımızın yolunu davam etdirərək günəşə ibadət edirdik.",
+    "Güclü bir liderdən mənə məktub gətirən gözlənilməz elçi, yəni şanapipik idi.",
+    "Göndərənin müdrikliyini sınamaq üçün qiymətli hədiyyələr göndərdim, amma göndərənin Allahdan daha çox sərvəti olduğu üçün onlar geri qaytarıldı.",
+    "Mən göndərənin sarayına çatmamışdan əvvəl əzəmətli taxtım möcüzəvi şəkildə bir göz qırpımında ora aparıldı.",
+    "Mən çatanda daşınan taxtın mənim olub-olmadığı soruşuldu və mən də cavab verdim ki, “Sanki o, məhz mənimdir”.",
+    "Döşəməsini su hovuzu ilə səhv saldığım böyük bir salona girdim və o heyrət anında özümü aləmlərin Rəbbi olan Allaha, Süleyman peyğəmbərlə birlikdə təslim etdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Səba kraliçası",
+        "Züleyxa (Əzizin həyat yoldaşı)",
+        "Asiya (Fironun arvadı)",
+        "Musanın anası",
+        "Məryəm (İsanın anası)"
+      ],
+      "answer": "Səba kraliçası"
+    },
+    "trial": {
+      "label": "Mərkəzi Tədbir",
+      "options": [
+        "Süleyman peyğəmbərdən məktub almaq",
+        "Oda atılmaq",
+        "Daşqından sağ çıxmaq üçün gəmi tikmək",
+        "Qırmızı dənizin ayrılması",
+        "Təvazökarlıqda ittiham olunur"
+      ],
+      "answer": "Süleyman peyğəmbərdən məktub almaq"
+    },
+    "location": {
+      "label": "Əsas Obyekt",
+      "options": [
+        "Möhtəşəm bir taxt",
+        "Qızıl buzov",
+        "Çox rəngli bir palto",
+        "İlana çevrilən bir əsa",
+        "Taxta və mismarlardan düzəldilmiş gəmi"
+      ],
+      "answer": "Möhtəşəm bir taxt"
+    },
+    "outcome": {
+      "label": "Son Nəticə",
+      "options": [
+        "Tək həqiqi Tanrıya (Allaha) təslim olmaq",
+        "Duz sütununa çevrilmək",
+        "Tanrıya çatmaq üçün hündür bir qüllə tikmək",
+        "Böyük bir balığın udması",
+        "Cəza olaraq böyük sərvət itirmək"
+      ],
+      "answer": "Tək həqiqi Tanrıya (Allaha) təslim olmaq"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

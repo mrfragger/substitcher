@@ -1,0 +1,61 @@
+{
+  "title": "Pavydas, kuris sunaikino",
+  "intro": "Pasakojimas, senesnis už bet kokią karalystę ar šventraštį – pirmoji žmonių tragedija, gimusi iš pavydo. Viena siela, vyriausia iš dviejų vaikų, gimusių pirmiesiems tėvams, įniršusi stebėjo, kaip jaunesnis brolis sulaukė palankumo, kuris buvo atmestas. Po to sekė tamsiausias pasirinkimas, palikęs pirmąjį žemėje pralietą kraują. Ar galite atskleisti tapatybę, išbandymą ir karčią atgailą?",
+  "clues": [
+    "Aš gimiau iš pačios pirmosios žmonių poros, vaikščiojusios žeme.",
+    "Kartą paaukojau Alachui, bet ji iš manęs nebuvo priimta.",
+    "Mano brolio ir sesers auka buvo priimta, o manoji – atmesta – to negalėjau pakęsti.",
+    "Grasinau savo broliui sunaikinimu.",
+    "Aš tapau pirmuoju, įvykdžiusiu žmogžudystę šioje žemėje, atimdamas savo brolio ar sesers gyvybę.",
+    "Alachas pasiuntė žemės padarą – juodą paukštį, rausiantį žemėje, – kad išmokytų mane nuslėpti savo poelgį, ir man neliko nieko kito, tik apgailestavimas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Qabil (Kainas)",
+        "Habil (Abelis)",
+        "Pranašas Jakubas",
+        "Pranašas Musa",
+        "Pranašas Adomas"
+      ],
+      "answer": "Qabil (Kainas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Alachas atmetė auką",
+        "Įmestas į didelę ugnį",
+        "Paliktas upėje kaip kūdikis",
+        "Išbandyta su didžiule karalyste",
+        "Įsakyta paaukoti savo sūnų"
+      ],
+      "answer": "Alachas atmetė auką"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Alacho siųsta varna",
+        "Auksinis veršis",
+        "Arka ant kalno",
+        "Degantis krūmas",
+        "Iš uolos išdrožta kupranugarė"
+      ],
+      "answer": "Alacho siųsta varna"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Apimtas apgailestavimo ir tarp pralaimėtojų",
+        "Praryta žemėje kartu su lobiais",
+        "Tapo kilniu Alacho pasiuntiniu",
+        "Įžengė į Rojų per dieviškąją gailestingumą",
+        "Valdė neprilygstamą karalystę"
+      ],
+      "answer": "Apimtas apgailestavimo ir tarp pralaimėtojų"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

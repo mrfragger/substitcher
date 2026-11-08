@@ -1,0 +1,61 @@
+{
+  "title": "Ohverdus, mis muutis saatust",
+  "intro": "Inimkonna algusaegadel pakkus hing kingituse puhaste kavatsustega. Ometi varitses vastuvõtmise varjus kadedus. Avastage selle tegelase lugu, kelle vagadus ja traagiline lõpp on jumalikus ilmutuses surematuks jäädvustatud.",
+  "clues": [
+    "Ma kuulusin inimkonna esimeste põlvkondade hulka.",
+    "Ma tõin oma Issandale ohvri ja see võeti vastu soosinguga.",
+    "Mu venna pakkumine lükati tagasi ja kadedus pimestas ta südant.",
+    "Ma ütlesin talle: „Kui sa sirutad oma käe minu poole, et mind tappa, siis mina ei siruta oma kätt sind tappa; ma kardan tõepoolest Allahi, maailmade Issandat.“",
+    "Minust sai esimese mõrva ohver maa peal.",
+    "Mu veri kisendas ja ma olin esimene süütuse märter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Kain)",
+        "Mees Ya-Sinist",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Tema pakkumine võeti vastu, mis põhjustas ta venna kadeduse ja ta mõrva",
+        "Ta visati põlevasse ahju, kuid tuli sealt vigastusteta välja",
+        "Ta ehitas jumaliku juhatuse all tohutu laeva",
+        "Suur kala neelas ta alla ja ta jäi pimedusse",
+        "Ta juhtis oma rahvast läbi lõhenenud mere"
+      ],
+      "answer": "Tema pakkumine võeti vastu, mis põhjustas ta venna kadeduse ja ta mõrva"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Vastuvõetud pakkumine",
+        "Personali muutumine maoks",
+        "Emane kaamel kui jumalik märk",
+        "Käguputk toob uudiseid",
+        "Kuldvasikas kummardati"
+      ],
+      "answer": "Vastuvõetud pakkumine"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Esimene mõrv ajaloos; tema vend mõisteti süüdi",
+        "Maa neelas ta koos oma rikkusega alla",
+        "Üleastumise tõttu ahvideks muutunud",
+        "Hävitas äge, jäine tuul",
+        "Karistuseks uppus suurde üleujutusse"
+      ],
+      "answer": "Esimene mõrv ajaloos; tema vend mõisteti süüdi"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Veu de l'Invisible",
+  "intro": "En els annals de la comunicació divina, destaca una figura la història de la qual està teixida amb signes miraculosos i una fe inquebrantable. Aquest individu va rebre una revelació única que va desafiar les normes del seu temps, parlant des de més enllà del vel de la percepció ordinària. El seu missatge no va arribar per mitjans convencionals, sinó a través d'una connexió profunda que va desafiar la comprensió humana, cridant a la gent a reconèixer la veritat de maneres inesperades. El viatge d'aquest servent d'Al·là serveix com a testimoni de com la guia es pot manifestar en les circumstàncies més extraordinàries, convidant a la reflexió sobre la naturalesa de la revelació mateixa.",
+  "clues": [
+    "Vaig rebre un missatge que va arribar a través d'una veu misteriosa d'una font invisible.",
+    "Inicialment, la meva gent va rebutjar el meu missatge, exigint proves més convencionals de la meva veracitat.",
+    "Els vaig desafiar a produir alguna cosa similar al que jo havia rebut, però no van poder.",
+    "La revelació que vaig portar es va descriure com a versos clars que feien evident la veritat.",
+    "Vaig advertir al meu poble d'un càstig sever si continuaven en la seva incredulitat i arrogància.",
+    "La meva història s'esmenta juntament amb altres missatgers en una sura que emfatitza els signes del poder d'Al·là."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shu'ayb",
+        "El creient de la família de Fir'awn",
+        "Profeta Musa"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ser llançat a un forn ardent",
+        "Enfrontant-se a l'opressió d'un governant tirànic",
+        "Produir una camella com a signe miraculós",
+        "Sobreviure a una gran inundació",
+        "Ser llançat al mar en un cofre"
+      ],
+      "answer": "Produir una camella com a signe miraculós"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La vall de Tuwa",
+        "La ciutat de Madyan",
+        "La terra de Thamud",
+        "La cort de Fir'awn",
+        "La cova d'Hira"
+      ],
+      "answer": "La terra de Thamud"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "answer": "El meu poble va ser destruït per haver matat la miraculosa camella",
+      "options": [
+        "El meu poble es va penedir i va ser salvat",
+        "Vaig ser endut viu al cel",
+        "El meu poble va ser destruït per haver matat la miraculosa camella",
+        "Vaig esdevenir un gran governant",
+        "Em van rescatar posant-me en una arca"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

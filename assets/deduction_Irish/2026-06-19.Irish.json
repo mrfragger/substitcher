@@ -1,0 +1,61 @@
+{
+  "title": "Triail an Anama Bhuan",
+  "intro": "Seasann anam i nóiméad tástála diaga, ag lorg treorach le buanseasmhacht umhal. Casann an Té a bhfuil a fhios aige gach rud an cuardaitheoir seo ar shiúl, ach nochtann sé níos déanaí gur triail chroí a bhí ann. Tríd an malartú mistéireach seo, nochtar ceacht faoi eagna diaga os comhair na ndaoine a mhachnaíonn. An féidir leat an figiúr seo a aithint ón scéal Coránach?",
+  "clues": [
+    "D'iarr mé eolas agus treoir ó theachtaire grámhar Allah",
+    "Tháinig mé ag lorg na fírinne, ag glaoch ar an bhFáidh le fonn ó chroí",
+    "Gearradh an milleán orm agus chas mé ar shiúl, óir bhí pleananna eile ag eagna Allah don nóiméad sin.",
+    "Ach níor chuir mé éadóchas orm—ina áit sin, lean mé ar aghaidh i mo chuardach",
+    "D’fhógair an Té a bhfuil a fhios aige gach rud gur triail chroí agus rabhadh a bhí ann.",
+    "Bhí mé i measc na ndaoine a nochtann an Corán fúthu: 'Rinne sé gruaim agus chas sé uaidh, mar tháinig an fear dall chuige'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Bréagach ag Lorg Amhrais",
+        "An Cuardaitheoir Dall ar an bhFírinne",
+        "Adhradh Íol Mecca",
+        "An tAonchreidmheach ag Magadh faoin bhFáidh",
+        "An Taistealaí ón Éimin"
+      ],
+      "answer": "An Cuardaitheoir Dall ar an bhFírinne"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag cáineadh ag an bhFáidh Muhammad le linn paidir",
+        "Á thástáil le triomach agus gorta i Mecca",
+        "Á ndiúltú ag geataí na bparthas",
+        "A bheith diúltaithe ag a mhuintir féin mar gheall ar chreideamh",
+        "Á thástáil le saibhreas agus le páistí"
+      ],
+      "answer": "Ag cáineadh ag an bhFáidh Muhammad le linn paidir"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Taobh istigh den Kaaba le linn shéasúr na oilithreachta",
+        "I láthair an Fháidh le linn aithriseoireachta",
+        "Ar bharr Sliabh Safa le linn uaireanta na maidine",
+        "I margadh Mecca timpeallaithe ag neamhchreidmhigh",
+        "In aice le tobar Zamzam le linn Hajj"
+      ],
+      "answer": "I láthair an Fháidh le linn aithriseoireachta"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Cuireadh an cuardaitheoir chun báis ag Quraysh ar son a chreidimh",
+        "Taifeadadh an eachtra mar thriail agus ceacht don Ummah",
+        "Rinneadh compánach agus ceannaire den chuardaitheoir",
+        "Méadaíodh saibhreas an chuardaitheora deich n-uaire",
+        "D’fhill an cuardaitheoir ar a dhíchreidiúint"
+      ],
+      "answer": "Taifeadadh an eachtra mar thriail agus ceacht don Ummah"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

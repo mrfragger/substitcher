@@ -1,0 +1,61 @@
+{
+  "title": "I-Trust Ephathiswe uMfula",
+  "intro": "Umphefumulo wabhekana nesinqumo esingenakwenzeka, lapho impilo yosana olusanda kuzalwa yayilenga khona. Uqondiswa ukuphefumulelwa kwaphezulu, umyalo onzima walalelwa, futhi imfihlo eyigugu yasuswa emsinga, kodwa yabuyiselwa ngendlela engalindelekile.",
+  "clues": [
+    "Bengiphila ngaphansi komthunzi wombusi owayelawula ukubulawa kwabesilisa abasanda kuzalwa.",
+    "Kwafika ugqozi oluvela kuNkulunkulu kimi, lwangiyala ukuba ngithathe isinyathelo sokuphelelwa yithemba nesibuhlungu.",
+    "Ngafaka usana lwami oluyigugu ebhokisini ngalibeka emfuleni ogelezayo.",
+    "Inhliziyo yami yaba yize, futhi ngacishe ngadalula imfihlo, kodwa u-Allah waqinisa ukuzimisela kwami.",
+    "Ngithumele othile ukuba alandele uhambo lwengane ehla ngomfula njengoba umsinga uthwala isifuba.",
+    "Ingane yatholwa yindlu yomashiqela, futhi ekugcineni, ngahlangana nengane yami futhi ngaba ngumnakekeli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umama woMprofethi uMusa",
+        "U-Asiya (UmkaFaro)",
+        "UMaryam (Umama woMprofethi u-Isa)",
+        "UmkaMprofethi uLut",
+        "Umama woMprofethi uYahya (umkaZakariya)"
+      ],
+      "answer": "Umama woMprofethi uMusa"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wabeka ingane yakhe ebhokisini wayibeka emfuleni",
+        "Wafihla ingane yakhe emhumeni",
+        "Washiya ingane yakhe ehlane",
+        "Waphonsa ingane yakhe emlilweni",
+        "Washiya ingane yakhe emnyango we-mosque"
+      ],
+      "answer": "Wabeka ingane yakhe ebhokisini wayibeka emfuleni"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ibhokisi elibekwe phezu komfula",
+        "Isihlahla esivuthayo",
+        "Intonga eyaphenduka inyoka",
+        "Itafula elinokudla okuvela ezulwini",
+        "Ikamela lensikazi lithunyelwe njengesibonakaliso"
+      ],
+      "answer": "Ibhokisi elibekwe phezu komfula"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waphinde wahlangana nomntwana wakhe futhi wamncelisa",
+        "Akaphindanga wayibona ingane yakhe",
+        "Wabulawa ngumbusi oyisihluku",
+        "Waba yindlovukazi eGibhithe",
+        "Wathuthela kwelinye izwe wahlala ekudingisweni"
+      ],
+      "answer": "Waphinde wahlangana nomntwana wakhe futhi wamncelisa"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

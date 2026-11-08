@@ -1,0 +1,61 @@
+{
+  "title": "Els constructors de torres",
+  "intro": "En un temps passat remot, va sorgir una poderosa civilització, distingida per les seves impressionants gestes de construcció i la seva formidable força. Aquesta entitat col·lectiva va rebre abundants recursos i destresa física, però va triar un camí de desafiament contra el missatge diví enviat per guiar-los. La seva història serveix com una profunda lliçó en els annals de la història, un testimoni de les conseqüències de rebutjar la veritat.",
+  "clues": [
+    "Ens van concedir una força física i una estatura immenses, a diferència de qualsevol altre poble del nostre temps.",
+    "Érem coneguts per construir grans estructures i pilars elevats en tots els llocs elevats, pensant que viurem per sempre.",
+    "Un missatger d'entre nosaltres va ser enviat per advertir-nos, cridant-nos a adorar només Al·là i a abandonar els nostres ídols.",
+    "Vam interrogar arrogantment el nostre missatger, preguntant-li si només havien vingut a nosaltres per fer-nos adorar Al·là i abandonar allò que adoraven els nostres avantpassats.",
+    "La nostra terra estava beneïda amb jardins, fonts i camps fèrtils, però atribuíem la nostra prosperitat a la nostra pròpia força, no al nostre Creador.",
+    "Per la nostra persistent incredulitat i burla, finalment vam ser aniquilats per un vent terrorífic i furiós que va assolar durant molts dies i nits."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent de Thamud",
+        "Gent de Fir'aun",
+        "Gent de Nuh",
+        "Gent de Madyan",
+        "Gent d'Ad"
+      ],
+      "answer": "Gent d'Ad"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Se'ls demana que sacrifiquin un camell específic",
+        "Ser desafiat a produir deu sures com l'Alcorà",
+        "Se li mostra l'escissió del mar",
+        "Ser advertit per un profeta sobre el diluvi imminent",
+        "Rebutjant un profeta que va advertir contra la construcció excessiva i l'adoració d'ídols"
+      ],
+      "answer": "Rebutjant un profeta que va advertir contra la construcció excessiva i l'adoració d'ídols"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "El foc",
+        "La ciutat de Sodoma",
+        "Pilars elevats i habitatges forts"
+      ],
+      "answer": "Pilars elevats i habitatges forts"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ofegat en una gran inundació",
+        "Engolit per la terra",
+        "Transformats en simis i porcs",
+        "Destruït per una explosió tronadora",
+        "Aniquilat per un vent furiós i devastador"
+      ],
+      "answer": "Aniquilat per un vent furiós i devastador"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Urrezko Proban Aliatu Irmoa",
+  "intro": "Profeta handi baten itzalean, elokuentzia eta fedearen arima bat aukeratu zuten misio monumental batean laguntzeko. Figura hau tinko eutsi zion masek zalantzan jarri zirenean, monoteismoaren muina bera mehatxatzen zuen transgresio nabarmen baten aurka predikatuz. Profeta herriaren hutsegitea ikusteko itzuli zenean, figura honen defentsa ez zen erruduna izan, betebeharra eta zatiketaren beldurra baizik. Nor da Alaren zerbitzari deboto hau?",
+  "clues": [
+    "Alak aukeratu ninduen beste batekin batera betebehar sakratu baterako, eta nire eginkizuna laguntza eta aldarrikapena zen.",
+    "Hitz egiteko argitasuna eman zidaten, eta mezulari batekin joan nintzen zapaltzaile boteretsu bati aurre egitera.",
+    "Bidaia kritiko batean, mezularia bakarrik mendi batera igo zen, ni herriaren zaintzaile gisa utziz.",
+    "Haien faltan, herriak urrezko irudi bat egin zuen, eta leial jarraitzeko erregutu nien, baina nire aholkua ukatu zuten.",
+    "Mezularia itzuli zenean, haserre eta atsekabeaz beteta, harrapatu egin ninduten, baina azaldu nien menderatu egin nindutela eta haien artean desadostasuna sortzearen beldur nintzela.",
+    "Ni naiz Musa nire anaiaren ondoan egon zen profeta, haren zama partekatuz eta idolatriaren aurka tinko mantenduz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Harun profeta",
+        "Musa profeta",
+        "Isa profeta",
+        "Dawud profeta",
+        "Zakariyya profeta"
+      ],
+      "answer": "Harun profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Jendeak urrezko zekorra gurtu zuen abisuak gorabehera",
+        "Jendeak su bizian bota ninduen",
+        "Arrain handi batek irentsi ninduen",
+        "Kargu faltsuengatik espetxeratu ninduten",
+        "Nire hiritik erbesteratu ninduten predikatzeagatik"
+      ],
+      "answer": "Jendeak urrezko zekorra gurtu zuen abisuak gorabehera"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko Txahala",
+        "Sasi Erretzailea",
+        "Suge bihurtu zen makila",
+        "Itunaren Tabletak",
+        "Itunaren Arka"
+      ],
+      "answer": "Urrezko Txahala"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Absolbitu egin ninduten eta nire misio profetikoa jarraitu nuen",
+        "Herriaren bekatuagatik zigortu ninduten",
+        "Nazio berri bat eman zidaten gidatzeko",
+        "Bizirik zerura eraman ninduten",
+        "Erresuma baten gaineko agintari izendatu ninduten"
+      ],
+      "answer": "Absolbitu egin ninduten eta nire misio profetikoa jarraitu nuen"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

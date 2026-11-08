@@ -1,0 +1,61 @@
+{
+  "title": "Popotniki zelenega polja",
+  "intro": "V davnih časih sta dva posameznika skrbela za sosednji zemlji. Njuni poti sta bili prepleteni, a njuni srci sta ju vodili proti zelo različnim ciljem. Eden je hodil po pravi poti, drugi pa je zašel v temo zanikanja. Ali lahko razvozlate skrivnost teh dveh varuhov žetve?",
+  "clues": [
+    "Imel sem obilne pridelke, bujne žetve, ki so zaslepljevale oči opazovalcev.",
+    "Moj sosed je imel še večje bogastvo kot jaz, vendar sem si njegovega deleža bolj želel kot svojega.",
+    "Predlagal sem, da jim popolnoma uničimo pridelke, da bi utrdili vse pod mojim nadzorom.",
+    "Tudi svojo žetev sem uničil, saj sem s svojim neumnim načrtom uničil vse.",
+    "Nemočno sem stal, ko so moji pridelki oveneli in se je moje bogastvo v eni sami noči spremenilo v prah.",
+    "V onostranstvu nisem imel deleža in moje zadnje prebivališče je postalo brezno plamenečega ognja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Mož, ki je zanikal vstajenje in sodbo",
+        "Vladar, ki je zatiral pravičnega kmeta",
+        "Bogat posestnik, ki mu je manjkala hvaležnost",
+        "Kmet, ki si je želel sosedove zemlje",
+        "Zahrbtni partner, ki je načrtoval uničenje"
+      ],
+      "answer": "Kmet, ki si je želel sosedove zemlje"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Preizkus prejemanja božanskega razodetja",
+        "Izziv bogastva in potrpežljivosti",
+        "Skušnjava uničenja preživetja pravičnika",
+        "Zapoved o pravični delitvi dediščine",
+        "Boj proti zatiranju tirana"
+      ],
+      "answer": "Skušnjava uničenja preživetja pravičnika"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zeleni rajski vrtovi",
+        "Dve sosednji polji pridelkov",
+        "Gore, ki so bile priča uničenju",
+        "Sveto svetišče Meke",
+        "Rečni bregovi blagoslovljene dežele"
+      ],
+      "answer": "Dve sosednji polji pridelkov"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Večni raj kot nagrada za pravičnost",
+        "Popolno uničenje obeh žetev v tem življenju",
+        "Izgnanstvo in potepanje do smrti",
+        "Začasna blaginja, ki ji sledi večni ogenj",
+        "Čudežna obnova in podvojena nagrada"
+      ],
+      "answer": "Popolno uničenje obeh žetev v tem življenju"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

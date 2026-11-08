@@ -1,0 +1,61 @@
+{
+  "title": "Vesela novica v starosti",
+  "intro": "Priča ste trenutku, ko se ponovno prebudi upanje. Par, ki je že zdavnaj presegel starost starševstva, prejme obljubo, ki kljubuje zakonom narave. Med njima stoji oseba, katere že sam obstoj je znak božanskega usmiljenja – duša, namenjena prerokovanju, ki nosi zapuščino, ki bo trajala skozi generacije. Kdo je ta izjemna oseba?",
+  "clues": [
+    "Rodil sem se staršem, ki so dosegli visoko starost in niso imeli otrok.",
+    "Moje rojstvo so oznanili angeli, ki so prišli kot gostje k moji družini.",
+    "Bila mi je dana modrost in preroštvo, omenjen pa sem tudi med potrpežljivimi.",
+    "Mojega očeta so imenovali Alahov prijatelj, jaz pa sem bil zanj darilo v njegovih poznejših letih.",
+    "Imel sem brata, ki je bil tudi prerok, in oba naju je blagoslovil naš Gospod.",
+    "Tudi moj sin je bil prerok in mojim potomcem so bili dani sveti spisi in preroštvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Izak (Išak)",
+        "Prerok Ismail (Izmael)",
+        "Prerok Jakub (Jakob)",
+        "Prerok Jahja (Janez)",
+        "Prerok Uzair (Ezra)"
+      ],
+      "answer": "Prerok Izak (Išak)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Rojen ostarelim staršem",
+        "Vržen v ogenj",
+        "Dano kraljestvo in bogastvo",
+        "Svoje ljudstvo je vodil iz Egipta",
+        "Zgradil je barko, da bi rešil vernike"
+      ],
+      "answer": "Rojen ostarelim staršem"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vesela novica o sinu",
+        "Goreči grm",
+        "Zlato tele",
+        "Skrinja zaveze",
+        "Palica prerokovanja"
+      ],
+      "answer": "Vesela novica o sinu"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal je prerok z rodom prerokov",
+        "Postal je bogat kralj",
+        "Njegovo ljudstvo je bilo uničeno zaradi nevere",
+        "Rešen je bil pred ognjem",
+        "Sposobnost govora je dobil že kot dojenček"
+      ],
+      "answer": "Postal je prerok z rodom prerokov"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

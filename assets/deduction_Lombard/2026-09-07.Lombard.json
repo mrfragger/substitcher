@@ -1,0 +1,61 @@
+{
+  "title": "El compagn che s’è voltà via",
+  "intro": "Te l’è drèe a descüvrir la storia de un’anema che g’ha vissuu a l’ombra de la profezia ma che g’ha scernì un camin che g’ha purtà a la ruina. Chesta figüra la cundivideva una cà cunt un di messager scelt de Allah ma l’è minga stada capas de la prœuva de la fed. Chi l’è chestu cumpagn perdü?",
+  "clues": [
+    "Vivi intra i gent che refudavan la ciamada a la giüstizia, e mi me oponevi minga.",
+    "Mi l’eri maridà cunt un prufet de Allah, ma cundividevi no la credenza.",
+    "Quand i messagger sun rivà a cà mia cunt un avvertiment, g’ho minga creduu.",
+    "La mia sposa l’era stada comandad de lassà la cità cunt i credent, e mi l’eri minga intra de luur.",
+    "La puniziun l’è vegnuda sül me popul, e mi sun stà distrutt insema a luur.",
+    "Sun menziunà in del Coran cuma esempi de incredulità, insema a la dona de Nuh, in de la Sura At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Dona del Profeta Nuh",
+        "Dona del Profeta Lut",
+        "Dona del Profeta Ibrahim",
+        "Dona del Profeta Musa",
+        "Dona del Profeta Ayyub"
+      ],
+      "answer": "Dona del Profeta Lut"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "L’ha tradid sò marì senza creder",
+        "Refudà el messagg del Profeta Hud",
+        "Adoraven idoli avertament in de la Kaaba",
+        "Tramad cuntra la mission de sò marì",
+        "Refudà de acetà la profezia de sò fiœul"
+      ],
+      "answer": "L’ha tradid sò marì senza creder"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La cità de Sodoma",
+        "La cità de Madyan",
+        "La cità de Iram",
+        "La cità de Babilonia",
+        "La cità de Gerusalemm"
+      ],
+      "answer": "La cità de Sodoma"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Salvada cun sò marì",
+        "Distrut cunt i incredul",
+        "Esiliad in una terra luntana",
+        "Pentì e l’è stà perdonad",
+        "L’è diventà credent dopu"
+      ],
+      "answer": "Distrut cunt i incredul"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

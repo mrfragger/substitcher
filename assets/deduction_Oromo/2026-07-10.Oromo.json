@@ -1,0 +1,61 @@
+{
+  "title": "Baattuu Mallattoo Sagal",
+  "intro": "Fakkiin tokko jalqaba gad of deebisu irraa ka’e, hiree fedha waaqaatiin barreeffame qaba. Daa’imummaatti dhokattee dallaa bulchaa uummata isaanii balleessuuf barbaade sana keessa guddattee lubbuun kun dhuma irratti ergama guddaa tokkoof waamamte. Amantii fi ulee tiksee gad of deebisu malee homaa kan hin hidhanne siʼa taʼu, bulchaa bara sanaa isa hunda caalaa humna guddaa qabu dura dhaabbatanii warra garboomfaman bilisummaa gaafatan. Addunyaan mataan ishee ajaja isaaniitiin waan socho’u fakkaata ture — bishaan addaan ba’e, samiin ni dubbate, mootummaan tokkos ni kufe.",
+  "clues": [
+    "Guyyoonni koo jalqabaa sodaadhaan kan beekaman turan — daa’imman akka koo yeroo dhalatan bulchaa gara laafina hin qabne kan egeree sodaatuun adamfamaniiru.",
+    "Bishaan baraaramee masaraa bulchaa isa badiisa koo barbaade sanaa keessa guddadhe.",
+    "Biyya fagootti tiksee gad of deebisu taʼee, taatee akka tasaa erga mudateen booda biyya kootii baqadheen baʼe.",
+    "Bulchaa humna guddaa qabu sana ulee salphaa fi ergaa ifa ta’een, bilisummaa saba koo gaafachuun fuulduratti deebi’e.",
+    "Warra na hordofaniif bishaan guddaa addaan qoodeen, bishaan sun diina koo guutummaatti yeroo liqimsan ilaalaa ture.",
+    "Rabbiin irraa qajeelfama waaqaa argachuuf gaara qulqulluu tokko ol bahee, ragaa dhugaa ta’ee mallattoo ifa ta’e sagal naaf kenname."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Muusaa",
+        "Nabi Nuh",
+        "Nabi Ibraahim",
+        "Nabi Yuusuf",
+        "Nabi Luut"
+      ],
+      "answer": "Nabi Muusaa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Mana murtii isaa keessatti Fara’oon waliin wal dura dhaabbachuu",
+        "Lolaa guddaa jalaa bahuuf Taabota ijaaruu",
+        "Warra waaqa tolfamaa hojjetaniin ibidda boba'aa keessa darbatamuu",
+        "Obboleeyyan kootiin gara boolla bishaanii gadi fagootti gadi bu'uu",
+        "Sabni koo gocha safuu badaa irraa dhowwuuf yaaluun"
+      ],
+      "answer": "Mana murtii isaa keessatti Fara’oon waliin wal dura dhaabbachuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Ulee gara bofaatti jijjiirame",
+        "Taabotni Nuh",
+        "Teessoo Bilqis",
+        "Gingilcha qilleensaa fi jinnii too'atu",
+        "Furtuu qabeenya kuufamaa akkas ulfaataa"
+      ],
+      "answer": "Ulee gara bofaatti jijjiirame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Ummata koo bishaan addaan ba'e qaxxaamuree gara bilisummaatti geesse",
+        "Lolaa guddaa Taabota tokko keessaa baraare",
+        "Gidiraa gadi fagoo booda fayyaa fi maatiitti deebi'e",
+        "Qurxummii guddaa lubbuun jiru keessaa darbatame",
+        "Bu'uura Mana Qulqulluu ijaare"
+      ],
+      "answer": "Ummata koo bishaan addaan ba'e qaxxaamuree gara bilisummaatti geesse"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

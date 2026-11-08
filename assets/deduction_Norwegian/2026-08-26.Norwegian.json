@@ -1,0 +1,61 @@
+{
+  "title": "Misunnelsen som fortærte",
+  "intro": "En fortelling eldre enn noe kongerike eller skrift – den første menneskelige tragedien født av sjalusi. Én sjel, den eldste av to barn født av de første foreldrene, så i raseri på mens en yngre søsken mottok en gunst som ble nektet. Det som fulgte var det mørkeste valget, og etterlot seg det første blodet som noen gang ble utgytt på jorden. Kan du avdekke identiteten, prøvelsen og den bitre angeren?",
+  "clues": [
+    "Jeg ble født av det aller første menneskeparet som vandret på jorden.",
+    "Jeg ofret en gang til Allah, men det ble ikke akseptert fra meg.",
+    "Søskenene mine sitt offer ble akseptert, mens mitt ble avvist – noe jeg ikke klarte å bære.",
+    "Jeg truet min egen bror med ødeleggelse.",
+    "Jeg ble den første til å begå mord på denne jorden, og tok livet av mitt eget søsken.",
+    "Allah sendte en jordisk skapning – en svart fugl som gravde i bakken – for å lære meg hvordan jeg skulle skjule det jeg hadde gjort, og jeg satt ikke igjen med annet enn anger."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Profeten Yaqub",
+        "Profeten Musa",
+        "Profeten Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Offer avvist av Allah",
+        "Kastet inn i en stor ild",
+        "Forlatt som baby i en elv",
+        "Testet med et enormt kongerike",
+        "Befalt å ofre sin sønn"
+      ],
+      "answer": "Offer avvist av Allah"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Kråken sendt av Allah",
+        "Gullkalven",
+        "Arken på fjellet",
+        "Den brennende busken",
+        "Hunkamelen hugget ut av stein"
+      ],
+      "answer": "Kråken sendt av Allah"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Ble fylt med anger og blant taperne",
+        "Svelget ned i jorden sammen med skatter",
+        "Ble en edel sendebud fra Allah",
+        "Gikk inn i paradiset ved guddommelig barmhjertighet",
+        "Hersket over et uovertruffent kongerike"
+      ],
+      "answer": "Ble fylt med anger og blant taperne"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

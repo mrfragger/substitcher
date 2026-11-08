@@ -1,0 +1,61 @@
+{
+  "title": "Dengê ku Serweriya Pûtekî Dikeve Dijberiyê",
+  "intro": "Di nav peyamberên Xwedayê Teala de xizmetkarekî bêwestan hebû ku di nav miletekî serhişk de rabû ser piyan da ku rastiyê ragihîne. Gelê wan xwedayekî çêkirî qebûl kiribû û ji Afirînerê her tiştî dûr ketibû. Bi biryardariyeke bê şik, vî kesî gazî wan kir - lê peyam bi înkar û redkirinê re rû bi rû ma. Ji bo ku hûn kifş bikin ka ev xizmetkarê dilsoz kî bû, gav bavêjin nav nîşanan.",
+  "clues": [
+    "Ez wek peyamberek ji bo gelek serhişk hatim şandin ku ji rêya rast dûr ketibûn.",
+    "Ez hatim ku ji miletê xwe re bibîr bînim ka yê ku her tiştê heyî afirandiye - çêtirîn afirîner e.",
+    "Gelê min berê xwe dabû pûtekî derewîn ku ew bi şev û roj perizîn û gazî wî dikirin.",
+    "Min bi wêrekî ji wan re got, çima ew ê xwedayekî sexte biperizin û Xwedayê xwe yê rastîn berdin.",
+    "Wan ez înkar kirim, guh nedan min û bi derewên xwe ve girêdayî man - lê Xwedayê min min parast.",
+    "Ez Îlyas im - û selam li ser min hat dayîn, û ez di nav bendeyên bawermend ên Xwedayê Mezin de hatim hejmartin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îlyas",
+        "Pêxember Îdrîs",
+        "Pêxember Elyasa",
+        "Pêxemberê Zul-Kifl",
+        "Pêxember Nûh"
+      ],
+      "answer": "Pêxember Îlyas"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Gazîkirina gelekî ji perestina Ba'al",
+        "Rastbûna bi zordarekî ku îdîa dikir xweda ye",
+        "Hişyarkirina xelkê li ser lehiyê ya nêzîk",
+        "Tê avêtin nav agirê mezin ê geş",
+        "Rêberiya derketina ji welatê koletiyê dike"
+      ],
+      "answer": "Gazîkirina gelekî ji perestina Ba'al"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Pûtê bi navê Ba'al",
+        "Keştiyeke mezin ji darê zexm hatiye çêkirin",
+        "Darek ku deryayeke mezin ji hev veqetand",
+        "Cilên pîroz ên bi xwînê lekeyî",
+        "Dareke dişewite li ser çiyayekî pîroz"
+      ],
+      "answer": "Pûtê bi navê Ba'al"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Aştî lê hat dayîn û di nav evdên Xwedê yên bijartî de hat hesibandin",
+        "Ber bi bihuştê ve birin dema ku yên din hemû hatin wêrankirin",
+        "Ji agirê mezin rizgar bû ku sar û ewle bû",
+        "Serdestî li ser cin, mirovahiyê û bayê hat dayîn",
+        "Laş wekî nîşanek mayînde ji bo temenan tê parastin"
+      ],
+      "answer": "Aştî lê hat dayîn û di nav evdên Xwedê yên bijartî de hat hesibandin"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

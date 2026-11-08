@@ -1,0 +1,61 @@
+{
+  "title": "Il fardello che ha portato la guarigione",
+  "intro": "Un'anima messa alla prova oltre ogni limite fu privata di ogni conforto, di ogni compagnia e di ogni forza fisica. Isolato in una profonda afflizione, questo servo di Allah si rivolse unicamente al Divino. Grazie a una pazienza incrollabile e a una preghiera sincera, giunse un'ondata di misericordia che superò ogni aspettativa. Chi è questa figura la cui devozione ha aperto una porta di redenzione?",
+  "clues": [
+    "Ero un servo prediletto di Allah, che godeva di abbondanza, di una famiglia prospera e di buona salute durante la mia vita.",
+    "Poi si abbatté su di me una prova: le ricchezze svanirono, le persone care se ne andarono e la mia stessa carne fu colpita da una grave afflizione.",
+    "Le persone a me vicine non riuscirono a sopportare la mia condizione, e rimasi isolato, il mio corpo dilaniato dalla sofferenza.",
+    "Ho invocato il mio Signore, dichiarando che Satana mi aveva colpito con spossatezza e punizione.",
+    "La risposta arrivò: un comando di battere il piede a terra, e da esso sgorgò acqua fresca per guarire.",
+    "Il Signore ha rimosso completamente le difficoltà e mi ha restituito la mia famiglia, moltiplicata, come segno di misericordia per coloro che riflettono."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Ayyub",
+        "Profeta Mosè",
+        "Il profeta Yusuf",
+        "Il profeta Yunus",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Malattia grave e perdita di tutto",
+        "Gettato nel fuoco per ordine di un tiranno",
+        "Imprigionato in una profonda fossa dai parenti",
+        "Inghiottito da un grande pesce in mare",
+        "Vagabondando in esilio dalla patria"
+      ],
+      "answer": "Malattia grave e perdita di tutto"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La fresca sorgente che sgorgava dal terreno",
+        "Il fuoco fresco e pacifico",
+        "L'arca che riposa su una montagna",
+        "Il personale che ha diviso il mare",
+        "Il cesto che galleggia sul fiume"
+      ],
+      "answer": "La fresca sorgente che sgorgava dal terreno"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Famiglia e benedizioni restaurate, raddoppiate",
+        "È scampato illeso all'incendio.",
+        "Raggiunse la più alta carica di un regno",
+        "Uscito dalla pancia di un grosso pesce, è arrivato sano e salvo",
+        "Condusse un popolo attraverso un mare diviso"
+      ],
+      "answer": "Famiglia e benedizioni restaurate, raddoppiate"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

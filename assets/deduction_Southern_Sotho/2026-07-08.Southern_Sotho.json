@@ -1,0 +1,61 @@
+{
+  "title": "Baeki ba Bakhethoa",
+  "intro": "Ho theosa le nalane, manģosa a halalelang a ne a tsamaea har'a batho, 'me ba bang ba haufi le bona ba ile ba hlōleha ho lemoha leseli. Tlaleho ena e potoloha meea e 'meli eo ho ba haufi le boporofeta e ileng ea e-ba teko ea bona, 'me lefa la bona e bile thuto e sa feleng.",
+  "clues": [
+    "Re phetse mehleng ea baprofeta ba baholo, empa mahlo a rona a ile a lula a koaletsoe 'nete eo ba e tlisitseng.",
+    "Malapa a rona a ne a tletse tšenolo e tsoang ho Molimo, empa lipelo tsa rona li ne li thatafetse.",
+    "Re ne re nyetse banna ba neng ba khethiloe ho lemosa batho ba bona.",
+    "Ha kotlo e fihla, ha rea ​​ka ra batla setšabelo ka arekeng kapa ra baleha pula e tukang, hobane re ile ra soma litemoso.",
+    "Ho boletsoe ka hare ho Quran e le mohlala bakeng sa ba sa lumeleng, ho bontša hore esita le kamano e haufi le moprofeta ha e pholose.",
+    "Re basali ba Nuh le Lut, ba ileng ba ba eka 'me kahoo ba ahloloa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Basali ba Nuh le Lut",
+        "Basali ba Ibrahim le Isma'il",
+        "Basali ba Musa le Harun",
+        "Basali ba Dawud le Sulayman",
+        "Basali ba Ayyub le Yunus"
+      ],
+      "answer": "Basali ba Nuh le Lut"
+    },
+    "trial": {
+      "label": "Teko ea bona e ne e le efe?",
+      "options": [
+        "Ba ne ba nyetsoe ke baprofeta empa ba sa lumele",
+        "Ba ne ba le nyopa 'me ba beha baprofeta molato",
+        "Ba ne ba ruile ebile ba ikhohomosa",
+        "Ba ile ba lekoa ke Iblis hore ba tlohe malapeng a bona",
+        "Ba ne ba rapela Namane ea Khauta"
+      ],
+      "answer": "Ba ne ba nyetsoe ke baprofeta empa ba sa lumele"
+    },
+    "location": {
+      "label": "Qetello ea bona e ne e amana le eng?",
+      "options": [
+        "Moroallo le pula ea majoe",
+        "Moea o matla",
+        "Tšisinyeho ea lefatše",
+        "Kotlo ea litsie",
+        "Ho aroloa ha leoatle"
+      ],
+      "answer": "Moroallo le pula ea majoe"
+    },
+    "outcome": {
+      "label": "Qetello ea bona e bile efe?",
+      "options": [
+        "Ba timetse le ba sa lumelang",
+        "Ba ile ba baka 'me ba pholosoa",
+        "Ba ile ba sala ba se na bana",
+        "Ba ile ba lelekoa ka ho sa feleng",
+        "Ba ile ba fetoloa litšoene le likolobe"
+      ],
+      "answer": "Ba timetse le ba sa lumelang"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Sankta Foresto",
+  "intro": "Trans la dunoj de tempo, kuŝas rakonto pri neŝancelebla sindonemo kaj fido tiel peza, ke la animo portanta ĝin povus esti rompinta. En momento, kiam la homoj turnis sin al malsaĝeco kaj oro, unu figuro staris firme — vokante ilin reen, petegante paciencon, kaj portante la pezon de sankta promeso. Jen la rakonto pri iu, kiu estis elektita kiel helpanto, veziro kaj gardanto de fido dum sankta foresto. Ĉu vi povas malkovri la identecon de ĉi tiu firma animo?",
+  "clues": [
+    "Mi dividas la sangon de granda profeto, kiu estis elektita por paroli kun Alaho rekte sur sankta monto.",
+    "Mia gefrato iam petegis Alaho-n por helpo por paroli klare al granda subpremanto.",
+    "Mi estis elektita de Alaho por stari apud mia gefrato kiel helpanto kaj veziro.",
+    "Kune ni alfrontis tiranan reganton, kiu postulis esti nomata la plej alta el la dioj.",
+    "Dum mia frato komuniiĝis kun Alaho sur la monto, nia popolo faris al si idolon el sia oro.",
+    "Mi estas la frato de Moseo, nomumita de Alaho kiel lia veziro, menciita laŭnome en la Korano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Harun (Aaron)",
+        "Profeto Moseo",
+        "Profeto Daŭd",
+        "Profeto Yaqub",
+        "Profeto Ishaq"
+      ],
+      "answer": "Profeto Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La Krizo de la Surkultado",
+        "La Granda Diluvo de Nuh",
+        "La Batalo de Badr",
+        "La Detruo de Tamud",
+        "La Detruo de Sodomo"
+      ],
+      "answer": "La Krizo de la Surkultado"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Ora Bovido",
+        "Arkeo de Noa",
+        "La Brulanta Arbusto",
+        "La Kaverno de Hira",
+        "La Trono de Ŝeba"
+      ],
+      "answer": "La Ora Bovido"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Senkulpeco Konfirmita de Alaho",
+        "Dronado de Faraono",
+        "La Konstruado de la Kaaba",
+        "Sekura Transiro de la Maro",
+        "Ĉieliro al la Ĉieloj"
+      ],
+      "answer": "Senkulpeco Konfirmita de Alaho"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

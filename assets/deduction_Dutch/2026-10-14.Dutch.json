@@ -1,0 +1,61 @@
+{
+  "title": "De verbannen verbondsbrekers",
+  "intro": "In de beginjaren van een jonge gemeenschap leefde eens een stam in versterkte woningen, verbonden door een verbond. Toen dat verbond werd verbroken, vonden de gevolgen hun weerklank in de Koran. Wie waren deze mensen, en wat gebeurde er met hun huizen en boomgaarden?",
+  "clues": [
+    "We verbleven in bolwerken die ons een vals gevoel van veiligheid gaven.",
+    "Wij waren een volk uit de Schrift, en toch hebben wij ons verbond verbroken.",
+    "We smeedden een complot tegen de boodschapper nadat hij bij ons was gekomen, maar ons plan mislukte.",
+    "Onze palmbomen werden op bevel van Allah omgehakt, een teken van Zijn macht.",
+    "Als straf voor ons verzet werden we uit onze huizen gezet en mochten we nooit meer terugkeren.",
+    "De Koran noemt ons in het hoofdstuk over de bijeenkomst, en ons verhaal dient als waarschuwing voor hen die verbonden verbreken."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "De inwoners van Madyan",
+        "De inwoners van Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Belegering en verdrijving uit hun huizen",
+        "Verdrinken in de zee",
+        "Opgeslokt worden door de aarde",
+        "Verwoesting door een storm",
+        "Veranderd worden in apen"
+      ],
+      "answer": "Belegering en verdrijving uit hun huizen"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Palmbomen gekapt",
+        "Het personeel",
+        "De ark",
+        "De waterput",
+        "De grot"
+      ],
+      "answer": "Palmbomen gekapt"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Verbannen en hun bezittingen afgenomen.",
+        "Keerde zegevierend terug",
+        "Werd vergeven en bleef",
+        "Ik betrad direct het paradijs.",
+        "Werd getroffen door een pestepidemie"
+      ],
+      "answer": "Verbannen en hun bezittingen afgenomen."
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

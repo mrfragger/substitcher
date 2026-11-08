@@ -1,0 +1,61 @@
+{
+  "title": "Senās ielejas akmens grebēji",
+  "intro": "Iedomājieties civilizāciju, kas radās Arābijas akmeņainajās ielejās un bija prasmīga kalnu nogāzēs celt krāšņas mājas. Tā uzplauka ar spēku un mākslinieciskumu, tomēr tās stāstu iezīmē šausminoša nepakļaušanās dievišķajam brīdinājumam. Iedziļinoties viņu stāstā, jūs atklāsiet tautu, kuras augstprātība noveda pie pilnīgas iznīcināšanas. Kas viņi bija?",
+  "clues": [
+    "Mēs mantojām zemi ar akmeņainiem līdzenumiem un augstiem klintīm, kur mēs uzcēlām savas mājvietas ar nepārspējamu prasmi.",
+    "Mēs bijām pazīstami ar to, ka kalnos izcirta drošas mājas, jūtoties pasargāti no jebkāda ļaunuma.",
+    "Pie mums no mūsu pašu vidus atnāca vēstnesis, kas atgādināja mums par Allāha labvēlību un brīdināja mūs par sodu.",
+    "Mēs pieprasījām zīmi, un no klints iznira brīnumaina kamieļu mātīte – skaidrs Allāha pārbaudījums.",
+    "Mēs nepaklausījām brīdinājumam un pārgriezām kamieļmātei šķipsnas, izsmejot vēstnesi un apstrīdot sodu.",
+    "Viens vienīgs sprādziens mūs pārņēma mūsu mājās, un līdz rītam mēs gulējām guļam bezspēcībā, it kā nekad tur nebūtu dzīvojuši."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tamudas iedzīvotāji",
+        "Reklāmas cilvēki",
+        "Madjanas iedzīvotāji",
+        "Nuhas iedzīvotāji",
+        "Lutas iedzīvotāji"
+      ],
+      "answer": "Tamudas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sastiepta kamieļa šķielēšana",
+        "Pārkāpa sabatu",
+        "Pielūdza zelta teļu",
+        "Nogalināja viņiem sūtīto pravieti",
+        "Uzcēla torni, lai sasniegtu debesis"
+      ],
+      "answer": "Sastiepta kamieļa šķielēšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Kamielis",
+        "Arka",
+        "Personāls",
+        "Baltā roka",
+        "Manna un paipalas"
+      ],
+      "answer": "Kamielis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Iznīcināts sprādzienā",
+        "Glābts no iznīcināšanas",
+        "Pārvērtās par pērtiķiem",
+        "Noslīcis jūrā",
+        "Zeme norīja"
+      ],
+      "answer": "Iznīcināts sprādzienā"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

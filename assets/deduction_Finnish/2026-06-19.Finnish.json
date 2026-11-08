@@ -1,0 +1,61 @@
+{
+  "title": "Pysyvän sielun koettelemus",
+  "intro": "Sielu seisoo jumalallisen koetuksen hetkellä ja etsii johdatusta nöyrällä sinnikkyydellä. Hän, joka tietää kaiken, käännyttää etsijän pois, vain paljastaakseen myöhemmin, että kyseessä oli sydämen koetus. Tämän salaperäisen keskustelun kautta oppitunti jumalallisesta viisaudesta avautuu niille, jotka pohtivat asiaa. Voitko tunnistaa tämän hahmon Koraanin kertomuksesta?",
+  "clues": [
+    "Etsin tietoa ja opastusta Allahin rakkaalta lähettiläältä",
+    "Tulin etsimään totuutta, huusin Profeetan puoleen vilpittömällä halulla",
+    "Minua nuhdeltiin ja käännytettiin pois, sillä Allahin viisaudella oli muita suunnitelmia sillä hetkellä",
+    "En kuitenkaan vaipunut epätoivoon – sen sijaan jatkoin etsintääni",
+    "Hän, joka tietää kaiken, julisti tämän sydämen koettelemukseksi ja varoitukseksi",
+    "Kuuluin niihin, joista Koraanissa kerrotaan: \"Hän kurtisti kulmiaan ja kääntyi pois, koska sokea mies tuli hänen luokseen.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Epäilystä etsivä tekopyhä",
+        "Sokea totuudenetsijä",
+        "Mekan epäjumalanpalvoja",
+        "Epäuskoinen pilkkaa profeettaa",
+        "Jemeniläinen matkailija"
+      ],
+      "answer": "Sokea totuudenetsijä"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Profeetta Muhammedin nuhteleminen rukouksen aikana",
+        "Kuivuus ja nälänhätä koetellaan Mekassa",
+        "Käännytetään pois paratiisin porteilla",
+        "Oman kansan hylkäämäksi tuleminen uskon vuoksi",
+        "Rikkaus ja lapset koetellaan"
+      ],
+      "answer": "Profeetta Muhammedin nuhteleminen rukouksen aikana"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kaaban sisällä pyhiinvaelluskauden aikana",
+        "Profeetan läsnäollessa lausunnan aikana",
+        "Safa-vuoren huipulla aamutunneilla",
+        "Mekan torilla epäuskoisten ympäröimänä",
+        "Zamzamin kaivon lähellä Hajjin aikana"
+      ],
+      "answer": "Profeetan läsnäollessa lausunnan aikana"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Quraishilaiset tappoivat etsijän marttyyriksi uskonsa vuoksi",
+        "Tapahtuma kirjattiin koettelemuksena ja opetuksena ummalle",
+        "Etsijästä tuli seuralainen ja johtaja",
+        "Etsijän varallisuus kymmenkertaistui",
+        "Etsijä palasi epäuskoon"
+      ],
+      "answer": "Tapahtuma kirjattiin koettelemuksena ja opetuksena ummalle"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

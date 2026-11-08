@@ -1,0 +1,61 @@
+{
+  "title": "Neužgesinamos liepsnos sargas",
+  "intro": "Figūra stovi ant baisiausios nematomos vietos slenksčio, jai patikėta pareiga, kurios joks kitas padaras netrokšta. Kai kenčiančios sielos šaukiasi pasigailėjimo, griežtas atsakas aidi per ugnies kameras. Ar galite atskleisti šio amžinojo globėjo tapatybę?",
+  "clues": [
+    "Stoviu prie siaubingos bausmės vietos, nematomos, įėjimo.",
+    "Liepsnojanti, neužgesinama ugnis yra mano iškilmingos pareigos pagrindas.",
+    "Kenčiančios sielos šaukiasi mano vardo, maldaudamos palengvėjimo nuo savo nesibaigiančių kančių.",
+    "Kai jie maldaus, aš pareiškiu, kad jie niekada neišeis.",
+    "Aš nesu nei žmogus, nei džinas – esu sukurta būtybė, besivadovaujanti grynu paklusnumu.",
+    "Aš esu vyriausiasis angelas, paskirtas amžinuoju Pragaro Ugnies sargu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Malikas",
+        "Džibrilas",
+        "Mikaelis",
+        "Harutas",
+        "Marutas"
+      ],
+      "answer": "Malikas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pragaro gyventojai maldauja, kad jų kančios būtų nutrauktos",
+        "Trimitas pučiamas skelbiant Teismo dieną",
+        "Koranas yra apreikštas pranašo širdžiai",
+        "Pranašas savo žmonių įmetamas į didelę ugnį",
+        "Galinga siena pastatyta sugedusiai tautai sulaikyti"
+      ],
+      "answer": "Pragaro gyventojai maldauja, kad jų kančios būtų nutrauktos"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Pragaro ugnis (Džahannamas)",
+        "Lotos medis Rojaus pakraštyje",
+        "Auskarų vėrimo trimitas",
+        "Lazdelė, kuri virsta gyvate",
+        "Nuostabus dieviškasis sostas"
+      ],
+      "answer": "Pragaro ugnis (Džahannamas)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pragaro gyventojams sakoma, kad jie liks amžinai",
+        "Pragaro gyventojams atleidžiama ir jie išlaisvinami",
+        "Pragaro gyventojams suteikiamas antras šansas tikėti",
+        "Pragaro gyventojai perkeliami į vėsią vietą",
+        "Pragaro gyventojus visiškai sunaikina žaibas"
+      ],
+      "answer": "Pragaro gyventojams sakoma, kad jie liks amžinai"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

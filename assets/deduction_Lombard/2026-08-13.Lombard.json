@@ -1,0 +1,61 @@
+{
+  "title": "L'anima pazient de la cà sacra",
+  "intro": "Ind ei pagine dol Coran, una figura la vegn fœra de la lignaj de un grand profeta, conceduda coma regal ind ella vegiania. Chesta ànima l’è celebrada per la verità inflexibil e per un ròll prufund in de la creaziun de un santuari che sarès diventà un faro de fed. Menter leget i indizi, asculta ben la vus del pasà, perché la parla en prima persuna.",
+  "clues": [
+    "Sun menziunà in del Coran insema a un olter profet cuma un regal cuncess a un messagger vècc.",
+    "Mi l’eri vun dei do fiœi conferids a qell profet ind i so ann sucessiv.",
+    "Sun ludà in del Coran per vèss fidel a la me parolla.",
+    "Ho purtà l’onor de la profezia e sun stà mandà cuma messagger.",
+    "Me son unì a me pà per levà sü i fundament de la Cà Sacra.",
+    "Me regordi cuma vun di pazient e la cà sacra che g’hem costruì l’è diventada un post de riturn e de sicureza per la gent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El prufeta Ismail",
+        "El prufeta Ishaq",
+        "El prufeta Yaqub",
+        "Profeta Zacaria",
+        "Profeta Yahya"
+      ],
+      "answer": "El prufeta Ismail"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Alzar i fondament de la Kaaba cun Ibrahim",
+        "Vesser butad ind un fœg",
+        "Vesser inglutid da una balena",
+        "Menar i israelit fœra de l'Egit",
+        "Costruir un'arca"
+      ],
+      "answer": "Alzar i fondament de la Kaaba cun Ibrahim"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La Kaaba",
+        "El Monte Sinai",
+        "El Mar Ross",
+        "El vitell d'or",
+        "El giardin de Eden"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Cuntà intra i pazient",
+        "Cuntà intra i malfattur",
+        "Cuntà intra i magi",
+        "Cuntà intra i incredul",
+        "Cuntà intra i ipocriti"
+      ],
+      "answer": "Cuntà intra i pazient"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

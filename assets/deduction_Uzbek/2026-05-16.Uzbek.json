@@ -1,0 +1,61 @@
+{
+  "title": "Najotning sobit quruvchisi",
+  "intro": "Bu shaxs ulkan sabr-toqat va qat'iy ishonchga ega bo'lgan shaxs sifatida, shafqatsiz nafrat va rad etishga duch kelgan holda, son-sanoqsiz yillarni ilohiy missiyaga bag'ishladi. Ularning hikoyasi dunyoni o'zgartirgan muhim voqea bilan yakunlangan, haddan tashqari kufrga qaramay, imonning kuchli dalilidir.",
+  "clues": [
+    "Men umrimning nihoyatda uzoq bir qismini xalqimni Allohga ibodat qilishga chaqirishga bag'ishladim.",
+    "Qavmim meni masxara qildi va meni ochiq xato va jinnilikda aybladi.",
+    "Menga dengizga chiqish imkoni bo'lmagan jamoam uchun g'ayrioddiy tuyulgan narsani qurish buyurilgan edi.",
+    "Bu noyob qurilishga faqat bir nechtasi ishondi va menga va oilamga qo'shildi.",
+    "Allohning amriga binoan, men kemada har bir tirik jonzotdan juft-juft qilib olib yurdim.",
+    "Yer yuzini ulkan suv toshqini qamrab oldi, faqat men bilan kemamda bo'lganlargina qutqarildi, o'g'lim esa imonsizligi uchun halok bo'ldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Solih",
+        "Payg'ambar Hud",
+        "Nuh payg'ambar",
+        "Payg'ambar Dovud",
+        "Payg'ambar Sulaymon"
+      ],
+      "answer": "Nuh payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Zilzila natijasida vayronagarchilik",
+        "Dengizning ikkiga bo'linishi",
+        "Buyuk toshqin",
+        "Nimrodning olovi",
+        "Qurbaqalar vabosi"
+      ],
+      "answer": "Buyuk toshqin"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yonayotgan buta",
+        "Kema",
+        "Suv qudug'i",
+        "Oltin buzoq",
+        "Tur tog'i"
+      ],
+      "answer": "Kema"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Shohlikni qabul qildi",
+        "Uning xalqi maymunlarga aylandi",
+        "Uning xalqi mo''jiza bilan qutqarildi",
+        "Uning xalqi cho'kib ketdi",
+        "Uning xalqini chaqmoq urdi"
+      ],
+      "answer": "Uning xalqi cho'kib ketdi"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

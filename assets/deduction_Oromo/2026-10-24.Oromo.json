@@ -1,0 +1,61 @@
+{
+  "title": "Akeekkachiisa Lafa Jala Jiru",
+  "intro": "Mee qotiinsa gadi fagoo tokko cinaa dhaabbattee yeroo sagaleewwan gadi irraa ka’anii fi addunyaan gubbaa jiru callisee yaadi. Qur’aanni mul’ata kana akka akeekkachiisaatti eega: hawaasni tokko waan ergamtoonni fidan ni dide, adabbiin ni cufa, boo’ichi illee qaama ragaa ta’a. Waldaan kamtu caqasoota sanaan dubbata?",
+  "clues": [
+    "Qur'aana keessatti maqaa nama dhuunfaatiin osoo hin taane hiree waliinii tokkoon ibsamnee walitti qabaa ta'uun yaadatamna.",
+    "Ergaa ergamtoonni fidan wanti isaan jedhan dhugaa ta’us ni didde.",
+    "Eenyummaan keenya yaadatamu lafa keessatti ciccitaa gadi fagootti kan hidhame yoo ta’u, amalli sun qaama maqaa keenyaa ta’e.",
+    "Guyyaa beellamame sanatti baasnee gara ibiddaatti harkifamne.",
+    "Adabbii sana ofirraa ittisuu hin dandeenye, boo’icha isaas dhaga’uu hin dandeenye.",
+    "Fuulli keenya ibidda keessa garagalfama, nutis gara isaatti ni oofama ture; gaafa gaafataman warra deebii kennuu hin dandeenye keessaa tokko jirra jenna turre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Sahaabonni Boollaa",
+        "Sabni Bishaan Badiisaa Guddaa Irraa Bilisa Ta'e",
+        "Waaqeffattoota Re'ee Warqee",
+        "Gareen Holqa Gaaraa Keessatti gaaddisa godhate",
+        "Hawaasni Ibidda Ibiddaa Irraa Baase"
+      ],
+      "answer": "Sahaabonni Boollaa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Harkifamee Ibiddatti gatame",
+        "Ibidda ibiddaa irraa kan baafame",
+        "Lolaa guddaa keessa nagaadhaan kan geeffame",
+        "Holqa keessa jaarraa hedduuf gaaddisa godhate",
+        "Boolla bishaanii keessa erga gatamee booda baraarame"
+      ],
+      "answer": "Harkifamee Ibiddatti gatame"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Boolla ykn boolla",
+        "Galaana guddaa",
+        "Holqa gaaraa",
+        "Masaraa olka'aa",
+        "Boolla gammoojjii"
+      ],
+      "answer": "Boolla ykn boolla"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Of ittisuu dadhabuu fi boo'icha Ibiddaa dhaga'uu dadhabuu",
+        "Baraaramee gara iddoo biqiltuu bara baraatti akka seenu hayyamameef",
+        "Lolaa diigaa keessa darbee nagaan kan geeffame",
+        "Holqa keessaa hirriba dheeraatiin kan eegamu",
+        "Mootummaa bara baraatiin kabajame"
+      ],
+      "answer": "Of ittisuu dadhabuu fi boo'icha Ibiddaa dhaga'uu dadhabuu"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Zilia që përpiu",
+  "intro": "Një rrëfim më i vjetër se çdo mbretëri apo shkrim i shenjtë - tragjedia e parë njerëzore e lindur nga xhelozia. Një shpirt, më i madhi i dy fëmijëve të lindur nga prindërit e parë, shikoi me tërbim ndërsa një vëlla/motër më e vogël merrte favor që iu mohua. Ajo që pasoi ishte zgjedhja më e errët, duke lënë pas gjakun e parë të derdhur ndonjëherë mbi tokë. A mund ta zbuloni identitetin, sprovën dhe keqardhjen e hidhur?",
+  "clues": [
+    "Unë linda nga çifti i parë i njerëzve që ecën në tokë.",
+    "Njëherë i bëra një ofertë Allahut, por nuk më pranuan.",
+    "Oferta e vëllait/motrës sime u pranua, ndërsa imja u refuzua—diçka që nuk mund ta duroja.",
+    "E kërcënova vëllain tim me shkatërrim.",
+    "Unë u bëra i pari që kreu vrasje në këtë tokë, duke i marrë jetën vëllait tim.",
+    "Allahu dërgoi një krijesë të tokës - një zog të zi që gërmonte në tokë - për të më mësuar si ta fsheh atë që kisha bërë, dhe nuk më mbeti gjë tjetër veçse keqardhje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Profeti Jakub",
+        "Profeti Musa",
+        "Profeti Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Oferta e refuzuar nga Allahu",
+        "I hedhur në një zjarr të madh",
+        "I braktisur si foshnjë në një lumë",
+        "I testuar me një mbretëri të madhe",
+        "I urdhëruar të sakrifikojë djalin e vet"
+      ],
+      "answer": "Oferta e refuzuar nga Allahu"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Sorra e dërguar nga Allahu",
+        "Viçi i artë",
+        "Arka mbi mal",
+        "Shkurre që digjet",
+        "Deveja e gdhendur në shkëmb"
+      ],
+      "answer": "Sorra e dërguar nga Allahu"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U mbusha me keqardhje dhe u bëra midis humbësve",
+        "Gëlltitur në tokë së bashku me thesaret",
+        "U bë një i dërguar fisnik i Allahut",
+        "Hyri në Parajsë nëpërmjet mëshirës hyjnore",
+        "Sundoi mbi një mbretëri të pakrahasueshme"
+      ],
+      "answer": "U mbusha me keqardhje dhe u bëra midis humbësve"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

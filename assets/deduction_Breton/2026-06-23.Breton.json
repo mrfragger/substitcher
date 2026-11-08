@@ -1,0 +1,61 @@
+{
+  "title": "Ar Gward war ribl ar stêr",
+  "intro": "En ur vro ma tegasas urzhiad un tirant glac'har e meur a diegezh, un ene a resevas ur gemennadenn a zifenne pep aon. Gant ur galon leun a fiziañs e krogjont gant un ober a feiz a cheñche hent ur vroad. E-keit ma kase an dourioù ur c'harg prizius, e veze mesket an esperañs gant ar redoù.",
+  "clues": [
+    "Bevet em eus en ur mare gwask ha spont.",
+    "Resevet em eus un awen doueel a roas din kalon.",
+    "Gourc’hemennet e oa bet din chom hep kaout aon na glac’har.",
+    "Lakaet em eus ma bugel en ur c'hof ha lakaet em eus anezhañ war an dour.",
+    "Kavet e voe va bugel gant tiegezh ar rener, met va bugel all a heulias.",
+    "Adkavet on bet gant ma bugel evit e vagañ, evel m'en doa prometet Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Mamm Moizez",
+        "Gwreg Faraon",
+        "C'hoar Moizez",
+        "Mamm Jezuz",
+        "Rouanez Saba"
+      ],
+      "answer": "Mamm Moizez"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Bezañ awenet da deurel ur bugel en ur stêr",
+        "Bezañ desket d'un emgann hud",
+        "Bezañ heuliet gant un arme",
+        "O treuziñ ur mor a zispartias",
+        "Sevel un ti sakr"
+      ],
+      "answer": "Bezañ awenet da deurel ur bugel en ur stêr"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ur c'houfr lakaet er stêr",
+        "Ur vodenn o teviñ",
+        "Ur vazh a zo deuet da vezañ un naer",
+        "Eul leue aour",
+        "Un tron"
+      ],
+      "answer": "Ur c'houfr lakaet er stêr"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Distroet e oa bet ar bugel d'ar glañvdiourez en un doare sur",
+        "Ar bugel a oa kollet da viken",
+        "Kaset e voe ar bugel d'ur vro bell",
+        "Ar bugel a zeuas da vezañ rener diouzhtu",
+        "Degemeret e voe ar bugel gant ur marc'hadour pinvidik"
+      ],
+      "answer": "Distroet e oa bet ar bugel d'ar glañvdiourez en un doare sur"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

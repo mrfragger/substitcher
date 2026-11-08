@@ -1,0 +1,61 @@
+{
+  "title": "Ukungqingwa Phantsi Kwesibhakabhaka Esingalindelekanga",
+  "intro": "Umi phambi komkhosi onamandla usondela kwindawo engcwele ehlonelwayo, unesikhali ngasinye esilungele kwaye uloyiso lubonakala luqinisekile. Ngaphambi kokuba uhlaselo luqale, kuvela amandla angalindelekanga, kwaye ukhuphiswano lujika kungekho mntu ulubonayo kwangaphambili.",
+  "clues": [
+    "Sahamba siqinisekile ukuba akukho gunya lasemhlabeni elinokushukuma.",
+    "Sizise iindlovu ezinamandla, kwaye amandla ethu abonakala ngathi akhiwe ngeenxa zonke kuzo.",
+    "Sasize kudiliza indawo engcwele ehlonelwayo, sikholelwa ukuba uloyiso lwethu lwalusele luqinisekisiwe.",
+    "Sakufika kuyo, umhlambi wehla esibhakabhakeni ngaphezu kwethu.",
+    "Iintaka zaphosa amatye odongwe oluqinileyo kumajoni ethu.",
+    "Soyiswa ngokupheleleyo kangangokuba amandla ethu amakhulu aqhekeka aza asasazeka njengothuthu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu Bendlovu",
+        "Iinkosana Ezimbini",
+        "AbantakwaboYosefu",
+        "Umkhonzi ka-Allah eDhul-Kifl",
+        "Amaqabane Endoda Elilungisa"
+      ],
+      "answer": "Abantu Bendlovu"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Uhlaselo olukhokelwa yindlovu kwiKaaba",
+        "Ulwandle luhlukana phambi kweqela elithunyelweyo",
+        "Ukuthinjwa kweTyeya ngabantu abakhohlakeleyo",
+        "Uhambo lwasebusuku phakathi kweemosque ezimbini",
+        "Ukuphiliswa komntu oneqhenqa ngamandla kaThixo"
+      ],
+      "answer": "Uhlaselo olukhokelwa yindlovu kwiKaaba"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Iintaka ezithwele iipleyiti zodongwe",
+        "Ityeya yemithi yegopher",
+        "Intonga yajika yaba yinyoka",
+        "Ilitye elitywinwe ngophawu",
+        "Isihlahla esitshayo"
+      ],
+      "answer": "Iintaka ezithwele iipleyiti zodongwe"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Amandla abo amakhulu aqhekeka njengothuthu",
+        "Bawela ulwandle ngokukhuselekileyo",
+        "Bahamba bengenzakalanga esithandweni somlilo esivuthayo",
+        "Bangena eParadesi ngababini",
+        "Balala emqolombeni iminyaka engama-309"
+      ],
+      "answer": "Amandla abo amakhulu aqhekeka njengothuthu"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

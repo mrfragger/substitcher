@@ -1,0 +1,61 @@
+{
+  "title": "Mata Air di Bawah Pasir",
+  "intro": "Dalam catatan sejarah Al-Quran, seorang tokoh dengan kesabaran luar biasa menghadapi cobaan yang akan menghancurkan hati yang paling tabah sekalipun. Segala sesuatu direnggut darinya - kekayaan, keluarga, dan kesehatan. Namun dari kedalaman keputusasaan, sebuah doa yang sederhana dikabulkan dengan cara yang paling tak terduga. Dapatkah Anda mengenali jiwa ini yang kisah pemulihannya bergema sepanjang zaman?",
+  "clues": [
+    "Saya diuji dengan cobaan yang begitu berat sehingga dikenang sepanjang masa.",
+    "Aku kehilangan segala sesuatu yang berarti bagiku - kekayaanku, anak-anakku, dan kesehatanku.",
+    "Tubuhku dipenuhi luka-luka yang menyakitkan, dan aku dijauhi oleh semua orang.",
+    "Dalam keputusasaanku, aku berdoa kepada Allah, seraya mengatakan bahwa setan telah menimpakan kesulitan dan siksaan kepadaku.",
+    "Allah mengabulkan permintaanku dan memerintahkanku untuk menghentakkan kakiku ke bumi.",
+    "Dari tempat itu juga, sebuah mata air yang sejuk muncul, dan Allah memulihkan keluargaku dan melipatgandakan mereka sebagai rahmat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Ayyub",
+        "Nabi Musa",
+        "Nabi Ilyas",
+        "Nabi Sulaiman",
+        "Nabi Dawud"
+      ],
+      "answer": "Nabi Ayyub"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Penyakit parah dan kehilangan keluarga serta harta benda",
+        "Ditelan oleh paus besar",
+        "Pengasingan dari kota Mekah",
+        "Penjara di dalam sumur yang dalam",
+        "Konfrontasi dengan penguasa yang arogan"
+      ],
+      "answer": "Penyakit parah dan kehilangan keluarga serta harta benda"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Mata air sejuk dari bumi",
+        "Sebuah perahu di tengah banjir besar.",
+        "Tongkat yang membelah laut",
+        "Singgasana kaca yang ditinggikan",
+        "Gua berdinding untuk tidur"
+      ],
+      "answer": "Mata air sejuk dari bumi"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Keluarga dan kekayaan dipulihkan dan berlipat ganda.",
+        "Keluar dari perut ikan",
+        "Perjalanan aman melalui perairan yang terbelah",
+        "Sebuah kerajaan yang diberi kekuasaan",
+        "Kelahiran ajaib seorang putra di usia tua"
+      ],
+      "answer": "Keluarga dan kekayaan dipulihkan dan berlipat ganda."
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

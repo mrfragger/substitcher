@@ -1,0 +1,61 @@
+{
+  "title": "Shahar chetidan aks-sado",
+  "intro": "Ilohiy yo'l-yo'riqdan yuz o'girgan shaharda, chekkadan yolg'iz bir shaxs paydo bo'lib, umid va ogohlantirish xabarini yetkazdi. Bu unutilgan qalb mustahkam imonning abadiy ramziga aylanadi.",
+  "clues": [
+    "Men shahrimga xabarchilar yuborilganiga guvoh bo'ldim, ammo xalqim ularni oddiy odamlar deb rad etdi.",
+    "Men ularning xabariga ishondim va haqiqat mening qalbimda aks-sado berayotganini his qildim.",
+    "Men qavmimni hech qanday mukofot so'ramagan payg'ambarlarga itoat qilishga chaqirdim.",
+    "Men shaharning eng chekkasidan yugurib, shoshilinch ravishda ularga sabab ko'rsatishga harakat qildim.",
+    "Xalqim menga qarshi qo'zg'olon ko'tardi va men halok bo'ldim, ammo men abadiy tinchlikni topdim.",
+    "Alloh menga: \"Jannatga kir\", dedi va men qavmim menga berilgan sharafga guvoh bo'lishini istadim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Ya-Singa ishonuvchi",
+        "Savol beruvchi Uzayr",
+        "Al-Xizr yo'lboshchi",
+        "Fir'avn oilasining mo'minlari",
+        "Zolim Namrud"
+      ],
+      "answer": "Ya-Singa ishonuvchi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Uni o'ldirgan kofir qavmga qarshi turish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Katta baliq tomonidan yutib yuborilmoqda",
+        "Ulkan kema qurish",
+        "Zolim qo'shinidan qochish"
+      ],
+      "answer": "Uni o'ldirgan kofir qavmga qarshi turish"
+    },
+    "location": {
+      "label": "Asosiy joylashuv",
+      "options": [
+        "Shaharning eng chekkasi",
+        "Tur tog'i",
+        "Chumolilar vodiysi",
+        "Nil qirg'oqlari",
+        "G'orning g'ori"
+      ],
+      "answer": "Shaharning eng chekkasi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Shahidlik va jannatga darhol kirish",
+        "Qochish va najot",
+        "Osmonga ko'tarilish",
+        "Dengizda cho'kish",
+        "Toshga aylanish"
+      ],
+      "answer": "Shahidlik va jannatga darhol kirish"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

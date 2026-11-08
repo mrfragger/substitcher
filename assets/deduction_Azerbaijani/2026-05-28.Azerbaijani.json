@@ -1,0 +1,61 @@
+{
+  "title": "Sarsılmaz Səbirli Bir",
+  "intro": "Peyğəmbərlik tarixinin salnamələrində az adam bu qədər dərin itkiyə və fiziki əzaba sarsılmaz imanla dözmüşdür. Bu şəxsiyyətin hekayəsi səbir və ilahi hikmətə inamın əbədi bir dərsidir. Bu ruh kimdir?",
+  "clues": [
+    "Allah məni bir mesaj çatdırmaq üçün seçmişdi, amma ən böyük sınağım rədd edilməklə deyil, şəxsi bəla ilə gəldi.",
+    "Var-dövlətim, mal-qaram və uşaqlarım bir-birinin ardınca əlimdən alındı.",
+    "Bədənim yaralarla örtülmüşdü və həyat yoldaşımın dəstəyindən başqa tək qalmışdım.",
+    "Çəkdiyim əzabı etiraf edərək və Onun mərhəmətini diləyərək Rəbbimə yalvardım.",
+    "Mənə ayağımla yerə vurmaq tapşırıldı və təravətləndirici bir bulaq fışqırdı.",
+    "Allah sağlamlığımı bərpa etdi, mənə yeni bir ailə və əvvəlkindən daha çox sərvət verdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Peyğəmbər Əyyub",
+        "İbrahim peyğəmbər",
+        "Musa peyğəmbər",
+        "İsa peyğəmbər",
+        "Nuh peyğəmbər"
+      ],
+      "answer": "Peyğəmbər Əyyub"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Sərvət və ailə itkisi",
+        "Oda atılmaq",
+        "Balıq tərəfindən udulmaq",
+        "Ailəsindən ayrılıb köləliyə satılmaq",
+        "Qızıl buzovla sınaqdan keçirilir"
+      ],
+      "answer": "Sərvət və ailə itkisi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Bir su bulağında",
+        "İlana çevrilən bir əsa",
+        "Taxta sandıq",
+        "Əridilmiş buzov",
+        "Xurma ağacı"
+      ],
+      "answer": "Bir su bulağında"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Ailənin və sərvətin bərpası",
+        "Cənnətə yüksəliş",
+        "Kral olmaq",
+        "Balinadan xilas olmaq",
+        "Qocalıqda oğul qəbul etmək"
+      ],
+      "answer": "Ailənin və sərvətin bərpası"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

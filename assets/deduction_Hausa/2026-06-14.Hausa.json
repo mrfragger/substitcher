@@ -1,0 +1,61 @@
+{
+  "title": "Wutar da ta Bayyana Gado",
+  "intro": "A cikin tarihin juriya, akwai wani mutum wanda sunansa ya zama gargaɗi har zuwa ƙarshen zamani. Wannan mutumin ya zaɓi ƙiyayya fiye da dangi, ya zaɓi rashin biyayya fiye da biyayya, kuma ya tsaya a kan adawa da kiran rahama. Ku saurara da kyau ga sautin wata sanarwa ta dā yayin da muke gano asalin wannan ruhi mai suna.",
+  "clues": [
+    "An haife ni a cikin ƙabila ɗaya da manzon Allah na ƙarshe, duk da haka na tsaya a kansu a kowane lokaci.",
+    "Sunana yana da ma'ana—suna mai ma'ana 'uban harshen wuta,' suna wanda zai yi nuni ga makomar dawwama.",
+    "Na yi wa mai gaskiya barna, har ma iyalina sun shiga wannan kamfen na zalunci.",
+    "Na yi amfani da dukiyata da tasirina don dakatar da kiran Allah, ina tsammanin kuɗi zai iya kashe hasken Allah.",
+    "Allah ya keɓe mini sura gaba ɗaya—sura mai gajeruwa wadda za a iya karantawa cikin daƙiƙa kaɗan, duk da haka nauyinta yana nan har zuwa Ranar Alƙiyama.",
+    "Abokina a lahira yana tafiya a bayana, an ɗaure shi da igiya a wuyansa, yana ɗauke da ƙayayuwa da suka saba shimfiɗawa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah bin Nawfal",
+        "Umayyah bin Khalaf",
+        "Uqbah bin Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Bayyana Jayayya",
+      "options": [
+        "Jagorancin adawa da Annabi a Makka",
+        "Yin ƙaura zuwa Habasha don gujewa zalunci",
+        "Gina Ka'aba tare da Annabi Ibrahim",
+        "Karɓar Musulunci a kan gadon mutuwa",
+        "Ƙirƙirar Yarjejeniyar Hudaybiyyah"
+      ],
+      "answer": "Jagorancin adawa da Annabi a Makka"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Matar da ke ɗauke da ƙaya da itace",
+        "Sanda wadda ta rikide ta zama maciji",
+        "Zoben da ke ɗauke da hatimin Sulemanu",
+        "Ɗan maraƙin zinariya da mutane ke bautawa",
+        "Maɓuɓɓugar ruwa mai ɓuɓɓugar ruwa"
+      ],
+      "answer": "Matar da ke ɗauke da ƙaya da itace"
+    },
+    "outcome": {
+      "label": "Hisabi na Ƙarshe",
+      "options": [
+        "Surah gaba ɗaya ta bayyana tana bayyana halaka gaba ɗaya",
+        "Ya zama shugaban al'ummar Musulmi",
+        "Ya sami gafara a lokacin mutuwa",
+        "An gina babban masallaci a Madina",
+        "An tashe shi daga matattu a cikin masu adalci"
+      ],
+      "answer": "Surah gaba ɗaya ta bayyana tana bayyana halaka gaba ɗaya"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

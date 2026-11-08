@@ -1,0 +1,61 @@
+{
+  "title": "O fardo de um presente recusado",
+  "intro": "Nos alvoreceres da história humana, quando a Terra ainda era jovem e o mundo respirava pela primeira vez, uma alma se apresentou diante do Criador com uma humilde oferenda. Essa oferenda foi pesada na balança da aceitação divina — e considerada insuficiente. O que se seguiu não foi uma história de perdão, mas de um coração consumido pelo ciúme, levando a um ato irreversível que ecoaria por toda a eternidade. Esta é a história de alguém cujo nome se tornou sinônimo da primeira grande injustiça já cometida.",
+  "clues": [
+    "Eu vim ao mundo como uma das primeiras crianças a nascer, de um pai cuja história você conhece bem.",
+    "Certa vez ofereci um sacrifício a Alá, mas ele não foi aceito da minha parte — embora a oferta do meu irmão tenha sido recebida com benevolência.",
+    "A inveja e a raiva criaram raízes em meu coração, e eu ameacei tirar a vida dos meus próprios parentes.",
+    "Meu irmão me alertou para temer a Alá, mas meu orgulho não me permitiu ouvi-lo.",
+    "Num momento de terrível fraqueza, cometi um ato indizível contra meu próprio irmão.",
+    "Depois, eu nem sabia como esconder o que tinha feito — até que uma criatura da terra foi enviada para me ensinar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Qabil (Caim)",
+        "Habil (Abel)",
+        "O filho do profeta Noé",
+        "Profeta Ismael",
+        "Profeta Yusuf"
+      ],
+      "answer": "Qabil (Caim)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Oferecer um sacrifício que foi rejeitado, levando ao primeiro assassinato.",
+        "Construindo uma torre imponente para alcançar os céus",
+        "Ser lançado em um fogo ardente por causa da própria fé.",
+        "Sacrificar o próprio filho em obediência a Alá.",
+        "Ser engolido por um grande peixe por fugir do próprio dever."
+      ],
+      "answer": "Oferecer um sacrifício que foi rejeitado, levando ao primeiro assassinato."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Um corvo enviado por Alá para demonstrar o sepultamento.",
+        "Uma grande inundação que afogou um povo inteiro.",
+        "Um cajado que se transformou em uma serpente viva.",
+        "Uma camela que emergiu de uma montanha rochosa.",
+        "Um magnífico trono carregado por ventos poderosos"
+      ],
+      "answer": "Um corvo enviado por Alá para demonstrar o sepultamento."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tornou-se um dos arrependidos, sobrecarregado pelo primeiro crime que já cometeu.",
+        "Foi perdoado por Alá e recebeu o Paraíso eterno.",
+        "Foi elevado a uma alta posição de profecia e sabedoria.",
+        "Fui salvo pela misericórdia divina após clamar das profundezas da escuridão.",
+        "Foi-lhe dado domínio sobre os gênios, o vento e os mares."
+      ],
+      "answer": "Tornou-se um dos arrependidos, sobrecarregado pelo primeiro crime que já cometeu."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kaderi Değiştiren Sunu",
+  "intro": "İnsanlığın en eski dönemlerinde, bir ruh saf niyetlerle bir armağan sundu. Ancak, kabulün gölgesinde kıskançlık gizleniyordu. Dindarlığı ve trajik sonu ilahi vahiyde ölümsüzleştirilen bu figürün hikayesini keşfedin.",
+  "clues": [
+    "Ben insanlığın ilk nesilleri arasındaydım.",
+    "Rabbime bir sunu sundum ve o da kabul edildi.",
+    "Kardeşimin sunduğu şey reddedildi ve kıskançlık yüreğini kararttı.",
+    "Ona, 'Eğer beni öldürmek için elini bana uzatırsan, ben seni öldürmek için elimi uzatmam; çünkü ben âlemlerin Rabbi olan Allah'tan korkarım' dedim.",
+    "Yeryüzündeki ilk cinayetin kurbanı oldum.",
+    "Kanım haykırdı ve ben masumiyetin ilk şehidi oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Habil (Abel)",
+        "Kabil (Kain)",
+        "Ya-Sin'den Gelen Adam",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Sunduğu teklif kabul edildi, bu da kardeşinin kıskançlığına ve onun öldürülmesine yol açtı.",
+        "Alev alev yanan bir fırına atıldı ama yara almadan kurtuldu.",
+        "İlahi rehberlik altında devasa bir gemi inşa etti.",
+        "Büyük bir balık tarafından yutuldu ve karanlıkta kaldı.",
+        "Halkını ikiye ayrılmış bir denizden geçirdi."
+      ],
+      "answer": "Sunduğu teklif kabul edildi, bu da kardeşinin kıskançlığına ve onun öldürülmesine yol açtı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kabul edilmiş bir teklif",
+        "Bir asanın yılana dönüşmesi",
+        "Dişi deve, ilahi bir işaret olarak",
+        "Haber getiren bir ibibik kuşu.",
+        "Altın buzağıya tapılıyordu."
+      ],
+      "answer": "Kabul edilmiş bir teklif"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Tarihteki ilk cinayet; kardeşi mahkum edildi.",
+        "Servetiyle birlikte toprak tarafından yutuldu.",
+        "İhlal sonucu maymuna dönüştürüldüler.",
+        "Şiddetli, buz gibi bir rüzgar tarafından yıkıldı.",
+        "Ceza olarak büyük bir selde boğuldu."
+      ],
+      "answer": "Tarihteki ilk cinayet; kardeşi mahkum edildi."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

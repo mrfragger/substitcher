@@ -1,0 +1,61 @@
+{
+  "title": "La Grand Sottomisiun del Sovran",
+  "intro": "Te te truvet en una terra de vècc meravigli e de prufunda rivelaziun. Una suvranna pudend, denanz a ün invito che g’havea minga spetà, l’ha cuminciad ün viagg che l’avarìa cambiad el curs del sò destin e la fede del sò popul. Pœdet descüvrir l’identidà de chesta figüra majestuosa?",
+  "clues": [
+    "Ho guvernad sü ün regn pruspero, adornad cun tanta richezza e ün tron ​​magnifico.",
+    "El me popul e mi veneram un corp celest, credend che l’era el noster signur, anca se g’havevi di dubi in del me cœur.",
+    "Un messagger particular, un usel, m’ha consegnà una letra, che la ciamava mi e el me popul a la sottomisiun a l’Unic Dio.",
+    "Ho consultad i me consilier, qe eren tant forts, su coma responder a qest messaj qe g’ha mai vist inanz.",
+    "Ho decidü de mandà un regal prezius a chel che g’ha mandà la letra, in de la speranza de valutar el sò podè e i sò intenziun.",
+    "Quand sun rivà, sun stà stupì de un palazz cunt un paviment de veder, che pareva cuma un piscin d’aqua, e l’è stà inscì che g’ho dichiarà la mè sottomisiun al Signur de tüta la creaziun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Faraon",
+        "Regina de Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Profeta Yusuf"
+      ],
+      "answer": "Regina de Saba"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "La scissiun del mar",
+        "La grand diluviun",
+        "El viagg per incuntrar el Profeta Sulayman",
+        "La distruziun del popul de Lut",
+        "La brusadura del Profeta Ibrahim"
+      ],
+      "answer": "El viagg per incuntrar el Profeta Sulayman"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "El Tron",
+        "La Montagna",
+        "El Fœg"
+      ],
+      "answer": "El Tron"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Diventà un profet",
+        "L’è stà distrutt de Allah",
+        "Abraçad l'Islam",
+        "G’ha purtà el sò popul a la guerra",
+        "Costruì un grand tempi"
+      ],
+      "answer": "Abraçad l'Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

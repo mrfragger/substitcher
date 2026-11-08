@@ -1,0 +1,61 @@
+{
+  "title": "L'advertència sota terra",
+  "intro": "Imagineu-vos estar al costat d'una excavació profunda mentre les veus s'eleven des de baix i el món de dalt queda en silenci. L'Alcorà conserva aquesta escena com a advertència: una comunitat rebutja el que porten els missatgers, el càstig s'acosta i fins i tot el seu rugit esdevé part del testimoni. Quin col·lectiu parla a través d'aquests versos?",
+  "clues": [
+    "A l'Alcorà som recordats com un col·lectiu definit per un destí compartit en lloc de per un nom individual.",
+    "Vam rebutjar el missatge portat pels missatgers, tot i que el que deien era veritat.",
+    "La nostra identitat recordada està lligada a un profund tall a la terra, i aquesta característica es va convertir en part del nostre nom.",
+    "El dia assenyalat, ens van portar fora i ens van arrossegar cap al foc.",
+    "No ens podíem defensar del càstig, i no podíem sentir el seu rugit.",
+    "Les nostres cares es girarien al foc, i ens hi endurien; quan ens preguntessin, diríem que érem entre els que no podien respondre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Els companys de la trinxera",
+        "La nació alliberada del Gran Diluvi",
+        "Els adoradors del vedell d'or",
+        "El grup es va refugiar dins de la cova de la muntanya",
+        "La comunitat alliberada del forn ardent"
+      ],
+      "answer": "Els companys de la trinxera"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Arrossegat i llançat al foc",
+        "Alliberat d'un forn ardent",
+        "Portat amb seguretat a través d'una gran inundació",
+        "Protegit durant segles dins d'una cova",
+        "Rescatat després de ser llançat a un pou"
+      ],
+      "answer": "Arrossegat i llançat al foc"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una trinxera o fossa",
+        "Un gran mar",
+        "Una cova de muntanya",
+        "Un palau alt",
+        "Un pou del desert"
+      ],
+      "answer": "Una trinxera o fossa"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Incapaços de defensar-se i incapaços de sentir el rugit del Foc",
+        "Rescat i amb l'entrada als jardins eterns",
+        "Lliurat amb seguretat a través d'una inundació destructiva",
+        "Protegit per un llarg son dins d'una cova",
+        "Honorat amb un regne etern"
+      ],
+      "answer": "Incapaços de defensar-se i incapaços de sentir el rugit del Foc"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

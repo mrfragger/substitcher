@@ -1,0 +1,61 @@
+{
+  "title": "Wajenzi wa Minara",
+  "intro": "Katika kipindi kirefu kilichopita, ustaarabu mkubwa uliibuka, ukitofautishwa na matendo yake ya kuvutia ya ujenzi na nguvu kubwa. Kiumbe hiki cha pamoja kilipewa rasilimali nyingi na uhodari wa kimwili, lakini walichagua njia ya kuasi dhidi ya ujumbe wa Mungu uliotumwa kuwaongoza. Hadithi yao inatumika kama somo kubwa katika historia, ushuhuda wa matokeo ya kukataa ukweli.",
+  "clues": [
+    "Tulipewa nguvu na kimo kikubwa cha kimwili, tofauti na watu wengine wowote wa wakati wetu.",
+    "Tulijulikana kwa kujenga majengo makubwa na nguzo ndefu katika kila mahali pa juu, tukifikiri tungeishi milele.",
+    "Mjumbe kutoka miongoni mwetu alitumwa kutuonya, akituita tumuabudu Mwenyezi Mungu pekee na kuachana na masanamu yetu.",
+    "Tulimuuliza mjumbe wetu kwa kiburi, tukiuliza kama walikuja kwetu ili tumwabudu Mwenyezi Mungu na kuacha yale ambayo mababu zetu waliabudu.",
+    "Nchi yetu ilibarikiwa na bustani, chemchemi, na mashamba yenye rutuba, lakini tulihusisha ustawi wetu na nguvu zetu wenyewe, si kwa Muumba wetu.",
+    "Kwa kutokuamini kwetu na kejeli yetu iliyoendelea, hatimaye tuliangamizwa na upepo mkali na wa kutisha uliovuma kwa siku nyingi na usiku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Thamud",
+        "Watu wa Fir'aun",
+        "Watu wa Nuh",
+        "Watu wa Madyan",
+        "Watu wa 'Ad"
+      ],
+      "answer": "Watu wa 'Ad"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuombwa kutoa kafara ngamia maalum",
+        "Kupewa changamoto ya kutoa sura kumi kama Quran",
+        "Kuonyeshwa mgawanyiko wa bahari",
+        "Kuonywa na nabii kuhusu gharika inayokuja",
+        "Kumkataa nabii aliyeonya dhidi ya kujenga kupita kiasi na kuabudu sanamu"
+      ],
+      "answer": "Kumkataa nabii aliyeonya dhidi ya kujenga kupita kiasi na kuabudu sanamu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Moto",
+        "Mji wa Sodoma",
+        "Nguzo refu na makao imara"
+      ],
+      "answer": "Nguzo refu na makao imara"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuzama katika mafuriko makubwa",
+        "Imemezwa na ardhi",
+        "Alibadilishwa kuwa nyani na nguruwe",
+        "Imeharibiwa na mlipuko mkubwa",
+        "Kuangamizwa na upepo mkali na wenye uharibifu"
+      ],
+      "answer": "Kuangamizwa na upepo mkali na wenye uharibifu"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

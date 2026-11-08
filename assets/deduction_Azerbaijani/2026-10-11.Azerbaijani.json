@@ -1,0 +1,61 @@
+{
+  "title": "Qədim Qumlardakı Səs",
+  "intro": "Allahın ilk elçiləri arasında adı Quranda qısa, lakin mənalı şəkildə işıqlandırılan biri var idi. Bu şəxs bir çox böyük peyğəmbərlərin göndərilməsindən çox əvvəl yaşamış və sarsılmaz doğruçuluğu və səbri ilə tanınırdı. Onların hekayəsi qısadır, lakin mirasları əbədi qeydlərdə qalmışdır. Bu nəcib ruh kimdir?",
+  "clues": [
+    "Mən Quranda qısa, lakin mənalı şəkildə bəhs edilən ilk elçilərdən biriyəm.",
+    "Xarakterim həqiqətə sarsılmaz sadiqlik ilə müəyyən edilmişdi.",
+    "Mən Allahın kitabında səbirli və səbirli olanlarla birlikdə xatırlanmışam.",
+    "Quranda yalnız bir neçə qısa ayə mənim hekayəmi izah edir.",
+    "Allah məni digər peyğəmbərlərlə paylaşılmayan, yalnız mənə məxsus bir şəkildə şərəfləndirdi.",
+    "Mən yüksək bir məqama yüksəldim, Quranda bu, tək bir şərəfdir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İdris peyğəmbər",
+        "İlyas peyğəmbər",
+        "Zül-Kifl",
+        "Peyğəmbər Əlyasə",
+        "Asif ibn Bərxiya"
+      ],
+      "answer": "İdris peyğəmbər"
+    },
+    "trial": {
+      "label": "Müəyyənedici An",
+      "options": [
+        "Məni Allah yüksək bir məqama yüksəltdi",
+        "Xalqımı xilas etmək üçün böyük bir gəmi düzəltdim",
+        "Mən Fironun sehrbazlarına meydan oxudum",
+        "Qardaşlarım tərəfindən çuxura atıldım",
+        "Oğlumun kədərindən görmə qabiliyyətimi itirdim"
+      ],
+      "answer": "Məni Allah yüksək bir məqama yüksəltdi"
+    },
+    "location": {
+      "label": "Müqəddəs istinad",
+      "options": [
+        "Əl-Ənbiya surəsi",
+        "Kəhf surəsi",
+        "Taha surəsi",
+        "Əş-Şuəra surəsi",
+        "Yasin surəsi"
+      ],
+      "answer": "Əl-Ənbiya surəsi"
+    },
+    "outcome": {
+      "label": "İlahi Şərəf",
+      "options": [
+        "Başqa heç bir stansiyaya bənzəməyən yüksək stansiya",
+        "Cinlər və küləklər üzərində hökmranlıq",
+        "Misilsiz şöhrət səltənəti",
+        "Qocalığımdan bir varis",
+        "Allahla bağlanmış əhd"
+      ],
+      "answer": "Başqa heç bir stansiyaya bənzəməyən yüksək stansiya"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

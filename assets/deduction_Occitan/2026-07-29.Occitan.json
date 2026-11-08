@@ -1,0 +1,61 @@
+{
+  "title": "La persecucion cortesa",
+  "intro": "Dins los corredors del poder, una figura d'estatut naut s'enamorèt d'un servicial que sa beutat èra d'un autre mond. Aquela enfadança menèt a una tièra d'eveniments que testarián las leialtats, revelarián de vertats amagadas, e fin finala afirmarián l'innocéncia del servicial.",
+  "clues": [
+    "Visquèri dins la tèrra del Nil, dins un palais de granda influéncia.",
+    "Un jove òme dintrèt dins mon ostal, e sa preséncia desrevelhèt mon mond.",
+    "Ensagèri de lo seduire, mas cerquèt refugi dins son Senhor.",
+    "Arranquèri son vestit de darrièr, mas las pròvas soslinhèron mon engana.",
+    "Per far calar los charradisses de las nòblas femnas, las convidèri a un rassemblament e li pausèri d'objèctes aguts dins lors mans.",
+    "A la fin, confessèri publicament ma fauta, en reconeissent la vertat davant lo rei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "La femna d'Al-Aziz",
+        "Asiya (Esposa de Faraon)",
+        "Bilqis (Reina de Saba)",
+        "Maryam (Maire d'Isa)",
+        "La Maire de Musa"
+      ],
+      "answer": "La femna d'Al-Aziz"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Ensagèt de seduire lo profèta Yusuf",
+        "Ensagèt de tuar lo profèta Musa",
+        "Pretendiá èsser una divessa",
+        "Bastiguèt una torre per desfisar Allah",
+        "Menèt una armada contra Meca"
+      ],
+      "answer": "Ensagèt de seduire lo profèta Yusuf"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una camisa arrancada de l'esquina",
+        "Un vedèl d'aur",
+        "Un baston que se transformèt en sèrp",
+        "Una camèla",
+        "Una lampa"
+      ],
+      "answer": "Una camisa arrancada de l'esquina"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Confessèt e reconeguèt la vertat",
+        "Foguèt afogada amb son armada",
+        "Se transformèt en un pilar de sal",
+        "Foguèt engolida per la tèrra",
+        "Foguèt destrucha per un vent cridant"
+      ],
+      "answer": "Confessèt e reconeguèt la vertat"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

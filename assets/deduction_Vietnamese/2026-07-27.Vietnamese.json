@@ -1,0 +1,61 @@
+{
+  "title": "Lễ vật đã thay đổi số phận",
+  "intro": "Vào những ngày đầu của nhân loại, một linh hồn đã dâng tặng một món quà với ý định thuần khiết. Tuy nhiên, lòng đố kỵ vẫn ẩn hiện trong bóng tối của sự chấp nhận. Hãy khám phá câu chuyện về nhân vật này, người mà lòng mộ đạo và kết cục bi thảm đã được bất tử hóa trong mặc khải thiêng liêng.",
+  "clues": [
+    "Tôi thuộc thế hệ đầu tiên của nhân loại.",
+    "Tôi dâng lễ vật lên Chúa, và lễ vật ấy đã được chấp nhận.",
+    "Lễ vật của anh trai tôi bị từ chối, và lòng ghen tị đã làm tối tăm trái tim anh ấy.",
+    "Tôi nói với anh ta: \"Nếu anh giơ tay về phía tôi để giết tôi, tôi sẽ không giơ tay giết anh; quả thật tôi kính sợ Allah, Chúa tể của muôn loài.\"",
+    "Tôi đã trở thành nạn nhân của vụ giết người đầu tiên trên trái đất.",
+    "Máu tôi gào thét, và tôi là vị tử đạo đầu tiên của sự trong trắng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Cain)",
+        "Người đàn ông đến từ Ya-Sin",
+        "Người Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Lễ vật của ông được chấp nhận, điều này khiến người anh trai ghen tị và giết chết anh ta.",
+        "Ông bị ném vào lò lửa đang cháy nhưng vẫn không hề hấn gì.",
+        "Ông đã chế tạo một con tàu khổng lồ dưới sự hướng dẫn của thần thánh.",
+        "Ông ta bị một con cá lớn nuốt chửng và ở lại trong bóng tối.",
+        "Ông dẫn dắt dân tộc mình vượt qua biển rẽ đôi."
+      ],
+      "answer": "Lễ vật của ông được chấp nhận, điều này khiến người anh trai ghen tị và giết chết anh ta."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một đề nghị được chấp nhận",
+        "Một cây gậy biến thành con rắn",
+        "Con lạc đà cái như một dấu hiệu thiêng liêng",
+        "Một con chim mào mang tin tức",
+        "Một con bê vàng được thờ cúng"
+      ],
+      "answer": "Một đề nghị được chấp nhận"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Vụ giết người đầu tiên trong lịch sử; anh trai của hắn đã bị kết án.",
+        "Bị đất nuốt chửng cùng với toàn bộ tài sản của mình.",
+        "Bị biến thành khỉ do phạm tội",
+        "Bị phá hủy bởi một cơn gió băng giá dữ dội.",
+        "Bị dìm chết trong trận đại hồng thủy như một hình phạt"
+      ],
+      "answer": "Vụ giết người đầu tiên trong lịch sử; anh trai của hắn đã bị kết án."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

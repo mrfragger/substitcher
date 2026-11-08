@@ -1,0 +1,61 @@
+{
+  "title": "El conspirador velat",
+  "intro": "Et trobes en presència d'una figura poderosa dels dies de la revelació. Aquest individu era conegut pel seu intel·lecte, riquesa i estatus entre el seu poble. Quan van arribar els signes clars, van reconèixer la bellesa però van triar la desafiança en lloc de la submissió. Què va impulsar aquesta ànima a conspirar en la foscor i quin va ser el seu destí final?",
+  "clues": [
+    "Vaig ser beneït amb abundants recursos i influència, fent que la meva paraula fos pesada a les assemblees.",
+    "Quan es recitaven les paraules del diví, no podia negar la seva eloqüència, però el meu orgull no em permetia sotmetre'm.",
+    "Vaig reunir els meus assessors i em vaig aïllar per pensar en una manera de desacreditar el missatge.",
+    "Després de pensar-ho molt, vaig declarar que no era res més que \"màgia heretada del passat\" per fer allunyar la gent.",
+    "La revelació es va dirigir directament a mi: «Deixa'm sol amb el que he creat». Em van criticar per les meves intrigues.",
+    "Aviat, el mateix foc del qual m'havien advertit m'agafarà per la tupè, i no tindré escapatòria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Conspiraven per assassinar el Profeta",
+        "Va liderar un boicot contra els musulmans",
+        "Va reunir un consell per titllar l'Alcorà de màgia",
+        "Conspirat per expulsar el profeta de la Meca",
+        "Es va negar a compartir la seva riquesa amb els orfes"
+      ],
+      "answer": "Va reunir un consell per titllar l'Alcorà de màgia"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Revelació",
+        "El Consell",
+        "El tupè",
+        "La riquesa",
+        "El bolígraf"
+      ],
+      "answer": "El tupè"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va penedir i va abraçar l'Islam",
+        "Va emigrar a Abissínia",
+        "Va ser afectat per una malaltia mortal",
+        "Va morir en batalla contra els musulmans",
+        "Va ser condemnat a l'infern"
+      ],
+      "answer": "Va ser condemnat a l'infern"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A szent teremtmény próbája",
+  "intro": "Jel érkezett egy letért nemzethez. Kényelmes életük közepette figyelmeztetés érkezett – egy figyelemre méltó teremtmény kíséretében, amely hitük végső próbájává vált. Válaszuk örökre megpecsételte sorsukat. Ki tudja, ki adta át ezt a figyelmeztetést, és mi lett azokkal, akik elutasították?",
+  "clues": [
+    "Olyan nép voltunk, akiket előző hírnökök vezettek.",
+    "Egy csodálatos teremtmény emelkedett ki a hegyből, jel a mi Urunktól ennek a nemzetnek.",
+    "Azt mondtam nekik: „Ez egy teve, amely Allahé, hagyjátok hát, hogy Allah földjéből egyen, és ne bántsátok.”",
+    "De az emberek megbénították a tevémet, dacolva Uruk parancsával.",
+    "Én csak egy küldött vagyok Uratoktól, akit az igazsággal küldtek – megbízható próféta és szolga vagyok.",
+    "Ami a gonosztevőket illeti, Urunk mennydörgő hanggal sújtott le rájuk, és mozdulatlanná váltak otthonaikban."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Hud próféta, A'ad népének tagja",
+        "Thamud népének Szálih prófétája",
+        "Midiáni Su'aib próféta",
+        "Lut próféta, Szodoma népének",
+        "Nuh próféta, a Frigyláda"
+      ],
+      "answer": "Thamud népének Szálih prófétája"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az özönvíz, amely elnyelt egy hitetlen nemzetet",
+        "A földrengés, amely elpusztított egy bűnös várost",
+        "A nőstény teve isteni jelként és próbatételként küldve",
+        "A vihar, amely megbüntette Midián népét",
+        "Lót népének kövekkel való elpusztítása"
+      ],
+      "answer": "A nőstény teve isteni jelként és próbatételként küldve"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Szodoma városa a Jordán völgyében",
+        "Al-Hijr völgye Hidzsáz és Szíria között",
+        "A'ad ősi földje Dél-Arábiában",
+        "Midián erdei a Vörös-tenger közelében",
+        "A Judi-hegy síksága Mezopotámiában"
+      ],
+      "answer": "Al-Hijr völgye Hidzsáz és Szíria között"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megtértek, miután hittek és bűnbánatot tartottak",
+        "Egy kőeső teljesen elpusztította őket",
+        "Egy mennydörgő hang mozdulatlanná tette őket",
+        "Elsodorta őket egy heves szél",
+        "Egy földrengés nyelte el őket a földbe"
+      ],
+      "answer": "Egy mennydörgő hang mozdulatlanná tette őket"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

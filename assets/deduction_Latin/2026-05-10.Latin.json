@@ -1,0 +1,61 @@
+{
+  "title": "Turrium Aedificatores",
+  "intro": "Olim, civilizatio ingens exorta est, operibus aedificatoriis admirabilibus et robore formidabili insignis. Huic communi enti copia et opibus abundantibus et virtute corporis donati sunt, tamen viam rebellionis contra nuntium divinum ad eos ducendos missum elegerunt. Historia eorum tamquam profunda lectio in annalibus historiae est, testimonium consequentiarum reiectionis veritatis.",
+  "clues": [
+    "Vis corporis immensa et statura nobis donata sunt, dissimiles ulli alii populi nostri temporis.",
+    "Noti eramus ob aedificandas magnas structuras et columnas sublimes in omni loco excelso, putantes nos in aeternum victuros esse.",
+    "Nuntius ex nobis missus est ut nos moneret, nos vocans ut solum Allah coleremus et idola nostra relinqueremus.",
+    "Superbe nuntium nostrum interrogavimus, rogantes num ad nos venissent solum ut nos cogerent Allah colere et ea quae maiores nostri colebant relinquere.",
+    "Terra nostra hortis, fontibus et agris fertilibus benedicta erat, sed prosperitatem nostram nostris viribus, non Creatori nostro, tribuimus.",
+    "Ob perseverantem nostram incredulitatem et derisum, tandem deleti sumus vento terribili ac vehementi qui per multos dies noctesque saeviit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Thamudensis",
+        "Populus Fir'aunensis",
+        "Populus Nuh",
+        "Populus Madyani",
+        "Populus 'Ad"
+      ],
+      "answer": "Populus 'Ad"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Rogatus ut camelum specificum sacrifices",
+        "Provocatus ad decem suras similes Corano producendas",
+        "Maris scissura monstrata",
+        "A propheta de imminente diluvio monitus",
+        "Reiectio prophetae qui monuit contra immoderatam aedificationem et adorationem idolorum"
+      ],
+      "answer": "Reiectio prophetae qui monuit contra immoderatam aedificationem et adorationem idolorum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Ignis",
+        "Urbs Sodomae",
+        "Columnae excelsae et domus firmae"
+      ],
+      "answer": "Columnae excelsae et domus firmae"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In magna inundatione submersus",
+        "A terra absorptus",
+        "In simias et porcos transformati",
+        "Tonitruali fragore deleta",
+        "Annihilatus vento furioso et vastante"
+      ],
+      "answer": "Annihilatus vento furioso et vastante"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

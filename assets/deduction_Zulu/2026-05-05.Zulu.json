@@ -1,0 +1,61 @@
+{
+  "title": "Ukwamukela Komhlaba",
+  "intro": "Ngesikhathi sovivinyo olukhulu, umuntu odumile wanikezwa inala enkulu yezwe, isivivinyo sokubonga nokuthobeka. Uhambo lwalo muntu lusebenza njengesifundo esijulile ngesimo sezinto ezibonakalayo esidlulayo kanye nemiphumela yokuzikhukhumeza. Yembula ukuthi ungubani lo mphefumulo onendaba eqoshwe phansi ngaphansi kwethu.",
+  "clues": [
+    "Bengihlala phakathi kwabantu abaqondiswa yisithunywa esikhulu.",
+    "UNkulunkulu wanginika ingcebo enkulu kangangokuthi izihluthulelo zengcebo yami zaziwumthwalo osindayo kubantu abaningi abanamandla.",
+    "Abantu bami, bebazi ingcebo yami, bangeluleka ukuthi ngifune indawo yokuhlala yaphakade ngalokho u-Allah anginike khona futhi ngingakhohlwa isabelo sami sezwe, futhi ngenze okuhle njengoba u-Allah angenzele okuhle.",
+    "Ngamemezela ngokuqhosha ukuthi ingcebo yami enkulu itholakale ngolwazi lwami kanye nomzamo wami kuphela, ngiphika noma yimuphi umusa kaNkulunkulu.",
+    "Lapho ngicelwa ukuba nginikele noma ngivume isibusiso sika-Allah, ngenqaba ngokuziqhenya, ngikholelwa ukuthi izimpahla zami zazingezami kuphela.",
+    "Ngenxa yokuzikhukhumeza kwami ​​okukhulu kanye nokucindezela, u-Allah wayala umhlaba ukuthi uvuleke ungigwinye mina kanye nendlu yami yokuhlala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UFir'awn",
+        "I-Iblis",
+        "UHamani",
+        "Abu Lahab",
+        "I-Qarun"
+      ],
+      "answer": "I-Qarun"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuphonswa emlilweni",
+        "Ukuminza olwandle",
+        "Ukuxoshwa engadini",
+        "Ukuguqulwa ube yinkawu",
+        "Ukugwinywa umhlaba"
+      ],
+      "answer": "Ukugwinywa umhlaba"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ithole legolide",
+        "Umkhumbi onamandla",
+        "Inyoni ekhulumayo",
+        "Intonga eyisimangaliso",
+        "Ingcebo enkulu nezihluthulelo"
+      ],
+      "answer": "Ingcebo enkulu nezihluthulelo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukuba umbusi omkhulu",
+        "Ukuthola isambulo saphezulu",
+        "Ukukhuphukela emazulwini",
+        "Ukuphila impilo ende yokuzinikela",
+        "Ukubhujiswa okuphelele ngenxa yokuzikhukhumeza"
+      ],
+      "answer": "Ukubhujiswa okuphelele ngenxa yokuzikhukhumeza"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Balss, kas pievienojās kalniem",
+  "intro": "Taisnīga dvēsele saņēma neparastas dāvanas no debesīm, kļūstot par valdnieku un karotāju, kura daba šķita savstarpēji saistīta ar pašu radību. Viņu stāsts savijas caur pravietojumiem, karaļvaru un meistarību, atstājot mantojumu, kas atbalsojas dievišķās atklāsmes lappusēs.",
+  "clues": [
+    "Es tiku izraudzīts par Allāha kalpu un man tika piešķirta varena valstība starp izredzēto ļaudīm.",
+    "Kalni un putni atbalsosies kopā ar mani, slavējot Visaugstāko.",
+    "Dzelzs manās rokās kļuva mīksts kā māls, tikai pēc Allāha gribas.",
+    "Es izgatavoju aizsargbruņas, kas pasargāja karotājus kaujas karstumā.",
+    "Reiz es izturēju grūtu pārbaudījumu, kad divi strīdnieki negaidīti ielauzās manā pielūgsmes vietā.",
+    "Mani piemin līdzās valdniekam, kurš pavēlēja vējam un džiniem — jo šis valdnieks bija mans paša pēcnācējs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Davuds",
+        "Pravietis Musa",
+        "Pravietis Suleimans",
+        "Pravietis Ibrahims",
+        "Pravietis Jakubs"
+      ],
+      "answer": "Pravietis Davuds"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Divi strīdnieki ielauzās manā pielūgsmes vietā",
+        "Saskāros ar lieliem plūdiem, kas iznīcināja manu tautu",
+        "Tika norīta liela zivs",
+        "Mani ļaudis iemeta liesmojošā ugunī",
+        "Tika pārbaudīts, zaudējot visu ģimeni un bagātību"
+      ],
+      "answer": "Divi strīdnieki ielauzās manā pielūgsmes vietā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Dzelzs kļuva lokans manās rokās",
+        "Liela dziļūdens zivs",
+        "Personāla, kas pārvērtās par čūsku",
+        "Lielisks dārzs ar divu veidu produktiem",
+        "Svētais kalns, ko sauc par Turu"
+      ],
+      "answer": "Dzelzs kļuva lokans manās rokās"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Saņēma Psalmus (Zabur) un kļuva par taisnīgu valdnieku",
+        "Izglābts no zivs vēdera, un cilvēki ticēja",
+        "Atbrīvoju manu tautu no tirāna varām",
+        "Piešķirta vara pār vēju un džinu",
+        "Atgūta veselība un dota vēl vairāk svētību"
+      ],
+      "answer": "Saņēma Psalmus (Zabur) un kļuva par taisnīgu valdnieku"
+    }
+  },
+  "verseRef": "34:11",
+  "arabic": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍۢ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+  "verse": "[Commanding him], \"Make full coats of mail and calculate [precisely] the links, and work [all of you] righteousness. Indeed I, of what you do, am Seeing.\" (34:11)"
+}

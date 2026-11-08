@@ -1,0 +1,61 @@
+{
+  "title": "La voix silencieuse de la vallée",
+  "intro": "Remontez le temps jusqu'à un peuple puissant qui reçut jadis un prodige vivant comme épreuve. L'arrogance et l'obstination scellèrent leur destin. Saurez-vous retracer leur histoire et découvrir ce qui se joua lors de ce tournant dramatique ?",
+  "clues": [
+    "J'ai été envoyé comme une épreuve divine à un peuple puissant, connu pour sa force et sa résistance.",
+    "J'étais un phénomène unique et merveilleux — personne comme moi n'était jamais apparu parmi eux.",
+    "Je partageais l'eau potable d'un puits avec les miens un jour sur deux.",
+    "Ils ont été avertis que tout acte malveillant à mon encontre serait immédiatement puni.",
+    "Les plus téméraires d'entre eux ont ignoré l'avertissement et m'ont immobilisé.",
+    "Après ma mort, un seul cri tonitruant venu d'en haut a anéanti tout mon peuple."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "La chamelle de Salih",
+        "La vache de Moussa",
+        "Le navire de Noé",
+        "Le bâton de Moïse",
+        "Le Trône de Bilqis"
+      ],
+      "answer": "La chamelle de Salih"
+    },
+    "trial": {
+      "label": "Mon destin",
+      "options": [
+        "Jambé et tué",
+        "Abattus en sacrifice",
+        "Transformé en serpent",
+        "Préservé lors d'une grande inondation",
+        "Transporté rapidement à travers un royaume"
+      ],
+      "answer": "Jambé et tué"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un puits d'eau",
+        "Une tablette de pierre",
+        "Un buisson ardent",
+        "Une arche en bois",
+        "Un trône d'or et d'argent"
+      ],
+      "answer": "Un puits d'eau"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Détruit par un seul cri",
+        "Noyés lors d'une grande inondation",
+        "Brûlé par une pluie de pierres",
+        "Brûlé par un vent violent",
+        "Englouti par la terre"
+      ],
+      "answer": "Détruit par un seul cri"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

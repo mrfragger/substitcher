@@ -1,0 +1,61 @@
+{
+  "title": "El Sovran che dumandava la divinità",
+  "intro": "Un suvran pudent e arrugant credeva che nissun l’era sora el sò tron. L’han inseguì ün grup che scapava sü ün vast corp d’aqua, dumà per incuntrà una fin dramatica. La storia de chestu sovran la fà eco in tanti passagg del Coran, e la fà da avvertiment per tüt.",
+  "clues": [
+    "L’eri ün suvran pudend che credeva che nissuna autorità la superava la mia in di terr che guvernavi.",
+    "G’havevi un visir de fiducia che se ciamava Aman e che m’ha vuttaa a purtà innanz di grand prugett architetonich.",
+    "Ho convocad i migliur magh de la mia terra per sfidar i segn de un messagger che m’era contra.",
+    "Me son refudad de lassà partir un popul s’ciavi denter del me regn, anca se g’heren di peste e di ciar avvertiment.",
+    "I g’ho seguì travers de un mar vast cun tüt el me esercit e i me carr.",
+    "Quel mar stess el s’è serrà sü de mi e sü i me armäd, affogand tüt, menter che traversavan en mod sicür."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Firaun (Faraon)",
+        "Namrud",
+        "Abu Lahab",
+        "Aman",
+        "Abu Jahl"
+      ],
+      "answer": "Firaun (Faraon)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Pestile e confronto con Musa (Mosé)",
+        "Costruir un'arca prima de un grand diluvio",
+        "Bataja contra Jalut in de la vall",
+        "Vesser inglutid da una balena",
+        "Difender i pes cumerciai onest"
+      ],
+      "answer": "Pestile e confronto con Musa (Mosé)"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Torr volt e pali",
+        "Una grand arca de legn",
+        "Un vitell dorà",
+        "Un bastun che s’è trasfurmà en serpent",
+        "Una balena grandissima"
+      ],
+      "answer": "Torr volt e pali"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Anegato in del mar con l'esercito",
+        "Salvà de la misericordia e de la pazienza de Allah ricumpensà",
+        "Riunid cun la fameja dopu tanti an de dificultà",
+        "Inglutì de la terra",
+        "Brusà in d’un fööch"
+      ],
+      "answer": "Anegato in del mar con l'esercito"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "It-Trasgressjoni max-Xatt",
+  "intro": "Inti wieqaf fuq ir-ramel ta’ xatt minsi, fejn il-mewġ igerger ta’ komunità ttestjata minn kmand divin. L-arja hija tqila bil-memorja ta’ ksur li wassal għal trasformazzjoni xokkanti. Min kienu dawn l-erwieħ, u x’kienet in-natura tal-prova tagħhom?",
+  "clues": [
+    "Konna komunità li rċevejna kmandament ċar mingħand Sidna, iżda sibna modi kif nisfidawh.",
+    "Konna ngħixu ħdejn ġisem ta’ ilma, u l-għajxien tagħna kien jiddependi mill-ħlejjaq tiegħu.",
+    "Ġietna prova dakinhar li ġejna kmandati biex nibqgħu lura mill-ġiri tad-dinja.",
+    "Il-ħlejjaq tal-ilma ġew għandna f’għadd kbir dakinhar stess, u tentuna aktar milli stajna nissaportu.",
+    "Ħsibna f'trikk makakk biex indawru l-ordni divin, għax ħsibna li nistgħu negħlbu d-digriet.",
+    "It-trasgressjoni tagħna wasslet għal trasformazzjoni umiljanti; sirna xadini disprezzati bil-kmand ta’ Alla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "In-Nies tas-Sabat",
+        "In-Nies ta' Rass",
+        "In-Nies ta' Tubba",
+        "In-Nies tal-Għar",
+        "Il-Kumpanji tal-Foss"
+      ],
+      "answer": "In-Nies tas-Sabat"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Id-dehra tal-ħut fis-Sabat",
+        "Sena ta’ nixfa qawwija",
+        "Armata ta’ għasafar mibgħuta kontrihom",
+        "Għargħar li għarraqhom",
+        "Terremot vjolenti"
+      ],
+      "answer": "Id-dehra tal-ħut fis-Sabat"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-baħar",
+        "Muntanja",
+        "Għar",
+        "Wied tad-deżert",
+        "Belt fortifikata"
+      ],
+      "answer": "Il-baħar"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Mibdula f'xadini",
+        "Mibela’ mill-art",
+        "Meqrud minn riħ jgħajjat",
+        "Għerqet fil-baħar",
+        "Milqut minn xita ta’ ġebel"
+      ],
+      "answer": "Mibdula f'xadini"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

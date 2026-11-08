@@ -1,0 +1,61 @@
+{
+  "title": "Trýzněná duše Nilu",
+  "intro": "V době velkého útlaku, kdy tyran vládl zemi s naprostou krutostí, si jedna duše zvolila cestu víry před pohodlím královské rodiny. Tato postava přebývala v srdci moci, ale přesto našla pravdu v poselství pokorného proroka. Jejich cesta se stala nadčasovou lekcí trpělivosti, oběti a neochvějného přesvědčení. Dokážete identifikovat tohoto pozoruhodného jedince, který dával přednost božskému potěšení před světským postavením?",
+  "clues": [
+    "Žil jsem v paláci velké moci, a přesto mé srdce našlo pravdu v pokorném poselství.",
+    "Rozhodl jsem se následovat vedení Músy, protože jsem věděl, jaké následky mě čekají.",
+    "Byla jsem vdaná za nejmocnějšího tyrana své doby, přesto jsem odmítla jeho falešné bohy.",
+    "Mé utrpení bylo kruté, protože jsem byl potrestán za svou víru v jediného Boha.",
+    "Nikdy jsem ve své víře nezakolísal, ani když jsem čelil těm nejkrutějším mukám.",
+    "Můj Pán byl potěšen mou trpělivostí a vyvolil mi čestné místo v ráji."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Matka proroka Musy",
+        "Manželka faraona",
+        "Sestra proroka Musy",
+        "Královna starověkého Egypta",
+        "Služebník Izraelitů"
+      ],
+      "answer": "Manželka faraona"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Boj v Alláhově věci s armádou",
+        "Konfrontace s faraonem a vyznání víry",
+        "Stavba modliteb v Egyptě",
+        "Cestování přes moře s Musou",
+        "Přijímání zjevení od Alláha"
+      ],
+      "answer": "Konfrontace s faraonem a vyznání víry"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Midjánská poušť",
+        "Egyptský královský palác",
+        "Břehy řeky Nil",
+        "Hora Sinaj",
+        "Země Kanaán"
+      ],
+      "answer": "Egyptský královský palác"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Po mnoha letech se stal prorokem",
+        "Vyvedl Izraelity z Egypta",
+        "Byla mu dána svrchovanost nad Egyptem",
+        "Byl umučen a poctěn Alláhem",
+        "Dožil se stáří v pohodlí"
+      ],
+      "answer": "Byl umučen a poctěn Alláhem"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

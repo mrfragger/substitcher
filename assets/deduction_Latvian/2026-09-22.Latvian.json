@@ -1,0 +1,61 @@
+{
+  "title": "Augsto pīlāru celtnieki",
+  "intro": "Jūs stāvat majestātiskas senas pilsētas drupu priekšā, kuras augstie pīlāri tagad ir sabrukuši. Vējš gaudo pa tukšajām ielām, nesot atmiņas par vareniem cilvēkiem, kas kādreiz valdīja šajās zemēs. Kas viņi bija?",
+  "clues": [
+    "Mēs bijām milzīga spēka un prasmju tauta, kas bija pazīstama ar savām dižajām ēkām un attīstīto civilizāciju.",
+    "Mēs dzīvojām zemē ar smilšu kāpām un akmeņainiem pakalniem, un mēs ticējām, ka neviens nevar mūs pārspēt.",
+    "Pie mums atnāca vēstnesis no mūsu pašu radiniekiem, aicinot mūs pielūgt tikai Allāhu, bet mēs viņu noraidījām un izsmējām.",
+    "Mēs lielījāmies: “Kas ir stiprāks par mums?” un turpinājām savu augstprātību un elku pielūgšanu.",
+    "Allāhs sūtīja pār mums niknu vēju, kas pūta septiņas naktis un astoņas dienas, visu izpostot.",
+    "Mēs bijām Ada tauta, Irama cēlāji, un mūsu liktenis kļuva par brīdinājumu visiem, kas nāks pēc mums."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Reklāmas cilvēki",
+        "Tamudas iedzīvotāji",
+        "Madjanas iedzīvotāji",
+        "Tubbas iedzīvotāji",
+        "Al-Rasas iedzīvotāji"
+      ],
+      "answer": "Reklāmas cilvēki"
+    },
+    "trial": {
+      "label": "Kāds sods viņiem tika piespriests?",
+      "options": [
+        "Postošs vējš",
+        "Akmeņu lietus",
+        "Skaļš sprādziens",
+        "Slīkšana plūdos",
+        "Zeme norīja"
+      ],
+      "answer": "Postošs vējš"
+    },
+    "location": {
+      "label": "Kā sauc viņu leģendāro pilsētu?",
+      "options": [
+        "Irams",
+        "Sodoma",
+        "Midiāna",
+        "Bābele",
+        "Petra"
+      ],
+      "answer": "Irams"
+    },
+    "outcome": {
+      "label": "Kāds bija viņu galīgais liktenis?",
+      "options": [
+        "Tie tika iznīcināti, un viņu atliekas kļuva par mācību",
+        "Viņi nožēloja grēkus un tika izglābti",
+        "Viņi tika pārveidoti par pērtiķiem",
+        "Viņi noslīka jūrā",
+        "Viņi tika aprakti zem zemes nogruvuma"
+      ],
+      "answer": "Tie tika iznīcināti, un viņu atliekas kļuva par mācību"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

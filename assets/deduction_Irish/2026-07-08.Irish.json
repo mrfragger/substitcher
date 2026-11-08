@@ -1,0 +1,61 @@
+{
+  "title": "Brathadóirí na Roghnaithe",
+  "intro": "Ar feadh na staire, shiúil teachtairí diaga i measc na daonnachta, agus theip ar chuid de na daoine ba ghaire dóibh an solas a aithint. Díríonn an cuntas seo ar dhá anam a raibh a ngaireacht don fháidh ina dtástáil orthu, agus a n-oidhreacht ina ceacht gan teorainn.",
+  "clues": [
+    "Bhíomar beo i ré na bhfáithe móra, ach d’fhan ár súile dúnta don fhírinne a thug siad.",
+    "Bhí ár dtithe lán le nochtadh diaga, ach bhí ár gcroíthe cruaite.",
+    "Bhíomar pósta le fir a roghnaíodh chun rabhadh a thabhairt dá muintir.",
+    "Nuair a tháinig an pionós, níor lorgaíomar foscadh san áirc ná níor theith muid ón mbáisteach loiscneach, mar gur cheapamar faoi na rabhaidh.",
+    "Luaitear sinn sa Choran mar shampla dóibh siúd nach gcreideann, rud a léiríonn nach sábhálann fiú caidreamh dlúth le fáidh.",
+    "Is muidne mná céile Nuh agus Lut, a bhrath iad agus a daoradh dá bhrí sin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Mná céile Nuh agus Lut",
+        "Mná céile Ibrahim agus Isma'il",
+        "Mná céile Musa agus Harun",
+        "Mná céile Dawud agus Sulayman",
+        "Mná céile Ayyub agus Yunus"
+      ],
+      "answer": "Mná céile Nuh agus Lut"
+    },
+    "trial": {
+      "label": "Cén sórt trialach a bhí orthu?",
+      "options": [
+        "Bhí siad pósta le fáithe ach níor chreid siad",
+        "Bhí siad lom agus chuir siad an milleán ar na fáithe",
+        "Bhí siad saibhir agus sotalach",
+        "Bhí Iblis ag iarraidh orthu a dtithe a fhágáil",
+        "Rinne siad adhradh don Lao Órga"
+      ],
+      "answer": "Bhí siad pósta le fáithe ach níor chreid siad"
+    },
+    "location": {
+      "label": "Cad leis a raibh a gcinniúint ceangailte?",
+      "options": [
+        "An tuile agus báisteach na gcloch",
+        "Gaoth fíochmhar",
+        "Crith talún",
+        "Plá na lócaistí",
+        "Scoilteadh na farraige"
+      ],
+      "answer": "An tuile agus báisteach na gcloch"
+    },
+    "outcome": {
+      "label": "Cad a bhí mar dheireadh orthu?",
+      "options": [
+        "Fuair ​​siad bás leis na heaschreidmhigh",
+        "Rinne siad aithrí agus sábháladh iad",
+        "Fágadh gan chlann iad",
+        "Díbríodh iad go deo",
+        "Rinneadh moncaithe agus muca díobh"
+      ],
+      "answer": "Fuair ​​siad bás leis na heaschreidmhigh"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

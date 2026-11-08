@@ -1,0 +1,61 @@
+{
+  "title": "Liekki ylimielisyyden palatsissa",
+  "intro": "Muinaisen maailman mahtavimman palatsin mahtavien muurien takana eli hahmo, jonka sydämessä oli salaisuus, jota mikään kuninkaallinen asetus ei voinut vaientaa. Samalla kun kaikki ympärillä kumarsivat vääriä jumalia, tämä sielu piti sisällään hiljaisen uskon palavana. Tuon maan hallitsija uskoi olevansa jumalallinen, mutta tämä yksilö valitsi totuuden mukavuuden sijaan ja omistautumisen turvallisuuden sijaan. Tänään tehtäväsi on selvittää, kuka tämä rohkea sielu oli, jonka tarina on edelleen yksi voimakkaimmista esimerkeistä horjumattomasta uskosta.",
+  "clues": [
+    "Asuin valtavan vaurauden ja vertaansa vailla olevan loiston paikassa, jossa maan hallitsijalla oli ehdoton valta kaikkeen.",
+    "Samalla kun ympärilläni olevat kumarsivat vääriä jumalia, minä pidin sydämessäni hiljaisen uskon valon.",
+    "Löysin ja adoptoin lapsen, joka tuotiin luokseni epätavallisella tavalla – ei syntymän, vaan suuren joen vesien kautta.",
+    "Rukoilin Herraani ja pyysin kotia Hänen lähellään paratiisissa ja pelastusta minua ympäröivältä tyrannialta.",
+    "Kasvattamani lapsi varttui haastamaan juuri sen hallitsijan, joka määräsi kohtaloni, ja pysyin lujana uskossani jopa uhattuina.",
+    "Minä olen se, jonka nimeä kunnioitetaan Koraanissa uskon mallina, ja asuin itse faaraon palatsissa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Asiya, faaraon vaimo",
+        "Maryam, Isan äiti",
+        "Bilqis, Saban kuningatar",
+        "Profeetta Lutin vaimo",
+        "Imranin vaimo"
+      ],
+      "answer": "Asiya, faaraon vaimo"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Hylätyn vauvan löytäminen ja kasvattaminen, josta tuli suuri profeetta",
+        "Tyrannin heittämä suureen tuleen",
+        "Todistamassa suurta tulvaa, joka tuhosi kansan",
+        "Todistamassa taatelipalmun ravistelua ja tarjoamassa ravintoa",
+        "Pojan saaminen korkeasta iästä huolimatta"
+      ],
+      "answer": "Hylätyn vauvan löytäminen ja kasvattaminen, josta tuli suuri profeetta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Vertaansa vailla olevan loiston kuninkaallinen palatsi",
+        "Suuri laiva, joka on rakennettu kestämään tulvan",
+        "Syvä luola piilossa vuoristossa",
+        "Vuorenhuipulle tehty liekehtivä nuotio",
+        "Muurien ympäröimä puutarha"
+      ],
+      "answer": "Vertaansa vailla olevan loiston kuninkaallinen palatsi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Allahin tahdosta annettiin koti paratiisissa",
+        "Suuri tulva tuhosi muinaisen kansakunnan epäuskoiset",
+        "Tässä maailmassa annettiin valtavan voiman ja auktoriteetin valtakunta",
+        "Mahtava armeija hajosi lentävien lintujen joukkoon",
+        "Jumaluutta väittänyt tyranni hukkui mereen"
+      ],
+      "answer": "Allahin tahdosta annettiin koti paratiisissa"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

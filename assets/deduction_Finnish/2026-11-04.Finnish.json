@@ -1,0 +1,61 @@
+{
+  "title": "aarre, joka upposi ylpeyden alle",
+  "intro": "Kuvittele seisovasi valtavien rikkauksien edessä, joiden pelkkä avainten kantaminen uuvuttaa joukon vahvoja yksilöitä. Ympärilläsi äänet kehottavat nöyryyteen ja muistamiseen, mutta ylpeys ylittää kiitollisuuden. Mitä tapahtuu, kun anteliaisuudesta tulee koetus ja ylimielisyys sinetöi lopputuloksen?",
+  "clues": [
+    "Olin Moosen kansaa, mutta tein heille rikkomuksia.",
+    "Minulle annettiin niin valtavia aarteita, että niiden avaimet riittäisivät rasittamaan joukkoa vahvoja miehiä.",
+    "Kansani neuvoi minua olemaan riemuitsematta ja etsimään tuonpuoleista unohtamatta osuuttani tässä maailmassa.",
+    "Väitin, että se, mitä minulla oli, oli annettu minulle vain tiedon ansiosta, joka minulla oli.",
+    "Kuljin kansani edessä koristeena, ja ne, jotka halusivat maallista elämää, toivoivat samanlaista kuin minä.",
+    "Maa nielaisi minut ja asumukseni, eikä kukaan voinut auttaa minua, enkä minäkään voinut auttaa itseäni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kerskaili vauraudella ja kielsi Allahin suosion neuvosta huolimatta",
+        "Haastoi Ibrahimin elämän ja kuoleman antamisesta",
+        "Johti armeijaa Talutia ja Dawudia vastaan",
+        "Veistettyjä epäjumalia ihmisten palvottavaksi",
+        "Tappoi veljen kateudesta uhrilahjan vuoksi"
+      ],
+      "answer": "Kerskaili vauraudella ja kielsi Allahin suosion neuvosta huolimatta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Avaimet valtaviin aarteisiin",
+        "Liitonarkki",
+        "Kultainen koristevasikka",
+        "Pato kahden vuoren välissä",
+        "Yksitoista tähteä unessa"
+      ],
+      "answer": "Avaimet valtaviin aarteisiin"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Maan nielaisema asumuksella ja vauraudella",
+        "Hukkui mereen ajaessaan takaa Musaa",
+        "Dawudin linko osui kiveen maahan",
+        "Tuhottu mahtavassa räjähdyksessä naaraskamelin takareisien murtamisesta",
+        "Muuttuivat apinoiksi sapatin rikkomisesta"
+      ],
+      "answer": "Maan nielaisema asumuksella ja vauraudella"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

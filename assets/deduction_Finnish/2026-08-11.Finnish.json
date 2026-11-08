@@ -1,0 +1,61 @@
+{
+  "title": "Kohdun lupaus",
+  "intro": "Jumalalliselle omistetun sydämen hiljaisissa kammioissa syntyi pyhä vala. Tämä vala keskittyi vielä hengähtämättömään elämään, ja sen täyttyminen muuttaisi hengellisen perinnön kulkua ikuisiksi ajoiksi. Astu sielun mysteeriin, jonka lupaus kaikuu ikuisesti.",
+  "clues": [
+    "Asuin taloudessa, joka tunnettiin hurskaudestaan, ja kaipasin lahjaa, joka toisi minut lähemmäksi Allahia.",
+    "Tein Herrani kanssa juhlallisen liiton siitä, mitä minussa oli kätkettynä, ja vannoin omistavani sen kokonaan Hänen palvelukseensa.",
+    "Kun paljastumisen hetki koitti, saamani oli odottamatonta, mutta uskoin asian Kaikkitietävän huostaan.",
+    "Annoin lapselleni nimen, joka symboloi omistautumista, ja anoin suojelusta hänelle ja hänen jälkeläisilleen kirotukselta.",
+    "Lapseni sijoitettiin pyhään pyhäkköön Aaronin sukuun kuuluvan profeetan suojelukseen.",
+    "Tyttäreni tuli tunnetuksi puhtaudestaan ​​ja hänet valittiin kaikkien naisten joukosta. Myöhemmin hänestä tuli suuren profeetan äiti, vaikkakin hän pysyi koskemattomana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Imranin vaimo",
+        "Musan äiti",
+        "Faaraon vaimo",
+        "Al-Azizin vaimo",
+        "Isan äiti"
+      ],
+      "answer": "Imranin vaimo"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Vala omistaa syntymättömän lapsensa temppelille",
+        "Pitkän sairauden aikana kärsivällisyyden koetus",
+        "Matka kaukaiseen maahan uskon tähden",
+        "Yhteenotto tyrannikuninkaan kanssa",
+        "Ihmeellinen ruoan antaminen taivaasta"
+      ],
+      "answer": "Vala omistaa syntymättömän lapsensa temppelille"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Lapsi nimeltä Maryam",
+        "Sauva, joka muuttui käärmeeksi",
+        "Kultainen vasikka",
+        "Zamzamin kaivo",
+        "Nooan arkki"
+      ],
+      "answer": "Lapsi nimeltä Maryam"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hänen lapsensa hyväksyttiin Allahin toimesta, ja hän kasvoi profeettojen hoivissa.",
+        "Hänen lapsestaan ​​tuli profeetta ja hän sai pyhän kirjoituksen",
+        "Hänen lapsensa nousi taivaisiin",
+        "Hänen lapsensa rakensi pyhän talon",
+        "Hänen lapselleen annettiin valtavasti viisautta ja vaurautta"
+      ],
+      "answer": "Hänen lapsensa hyväksyttiin Allahin toimesta, ja hän kasvoi profeettojen hoivissa."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

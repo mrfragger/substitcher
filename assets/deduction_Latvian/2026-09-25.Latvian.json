@@ -1,0 +1,61 @@
+{
+  "title": "Dambis, kas sagrāva karalisti",
+  "intro": "Zeme ar plūstošām upēm, diviem zaļiem dārziem un nepārspējamu labklājību, taču tās iedzīvotāji kļuva vienaldzīgi pret To, kas viņus bija svētījis. Kad nāca atgādinājumi, kas aicināja viņus atgriezties, viņi novērsās. Sekoja sods, kas joprojām atskan kā brīdinājums. Kas bija šī senā kopiena?",
+  "clues": [
+    "Mēs dzīvojām tik svētītā zemē, ka mūsu mājas atradās starp diviem zaļiem dārziem.",
+    "Mēs baudījām upes, kas plūda cauri mūsu zemēm, un bagātīgo ražu, kas piepildīja mūsu mājas.",
+    "Tomēr, kad mūs aicināja būt pateicīgiem un paklausīgiem mūsu Kungam, mēs lepnumā novērsāmies.",
+    "Mūsu bagātība un ērtības lika mums aizmirst To, kurš mums visu bija devis.",
+    "Tad pēkšņi nāca strauja straume, kas pārrāva lielo barjeru, uz kuru bijām paļāvušies.",
+    "Mēs esam Sabas tauta, kuras zeme bija pazīstama ar vareno Maribas aizsprostu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Sabas iedzīvotāji",
+        "Tranšejas cilvēki",
+        "Akas pavadoņi",
+        "Tubbas iedzīvotāji",
+        "Midiānas iedzīvotāji"
+      ],
+      "answer": "Sabas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Mūsu krišana",
+      "options": [
+        "Plūdi no pārsprāguša dambja",
+        "Spēcīgs vējš no debesīm",
+        "Degšana ugunsgrēka tranšejā",
+        "Masīva zemestrīce",
+        "Slīkšana lielos plūdos"
+      ],
+      "answer": "Plūdi no pārsprāguša dambja"
+    },
+    "location": {
+      "label": "Galvenā atrašanās vieta",
+      "options": [
+        "Ma'ribas dambis",
+        "Sinaja kalns",
+        "Septiņu gulētāju ala",
+        "Degošais krūms",
+        "Jūras sadalīšana"
+      ],
+      "answer": "Ma'ribas dambis"
+    },
+    "outcome": {
+      "label": "Mūsu liktenis",
+      "options": [
+        "Divi rūgti dārzi nomainīja mūsu sulīgos",
+        "Mūsu dārzi kļuva vēl sulīgāki",
+        "Zeme nogrima zem jūras",
+        "Mūs aprakti vulkāniskajos pelnos",
+        "Mūsu tauta sadalījās divpadsmit ciltīs"
+      ],
+      "answer": "Divi rūgti dārzi nomainīja mūsu sulīgos"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

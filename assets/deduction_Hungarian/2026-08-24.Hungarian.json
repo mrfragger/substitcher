@@ -1,0 +1,61 @@
+{
+  "title": "A rejtett hallgatók, akik hittek",
+  "intro": "Egy szent összejövetel csendjében egy figyelemre méltó gyülekezet érkezett egy láthatatlan birodalomból. Valami csodálatos suttogásától vonzva, olyan szavalatot hallgattak, amely örökre megpecsételte sorsukat. Bizonyságtételük az isteni szentírások egyik legegyedibbjei közé tartozik.",
+  "clues": [
+    "Egy olyan birodalomból származó lények vagyunk, amelyet a legtöbben nem látnak, és csoportként érkeztünk.",
+    "Egy összejövetel felé vettük az irányt, hogy valami figyelemre méltó dolgot halljunk.",
+    "Amikor megérkeztünk, egy szavalást hallgattunk, ami lenyűgözött minket.",
+    "Nyíltan elismertük, hogy vannak közöttünk igazlelkűek, és vannak nem.",
+    "Tudtuk, hogy sem a földön, sem az égbe repülve nem kerülhetjük el az isteni végzést.",
+    "Amikor hallottuk az útmutatást, hittünk benne; aki hisz az Urában, nem fél a veszteségtől vagy a tehertől."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Egy dzsinn csoport",
+        "Irám népe",
+        "Tubba népe",
+        "A Római Birodalom",
+        "A Kurajs törzs"
+      ],
+      "answer": "Egy dzsinn csoport"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Szent ima hallgatása",
+        "Magas pilléreket építünk városunkban",
+        "Egy csodálatos nőstény tevére vadászva",
+        "Elpusztulnak a prófétáink megöléséért",
+        "A vagyon mértéktelen sokszorozása"
+      ],
+      "answer": "Szent ima hallgatása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Szent imák összejövetele",
+        "Magas oszlopokból álló város (Iram)",
+        "Egy kút a sivatagban",
+        "Egy grandiózus aranypalota",
+        "Egy szent barlang a hegyekben"
+      ],
+      "answer": "Szent imák összejövetele"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hittünk és figyelmeztettük népünket",
+        "Egy hatalmas égi robbanás pusztította el",
+        "Perzselő, pusztító szél sújtotta",
+        "Hatalmas vagyont és hatalmat adományoztak",
+        "Hitetlenkedve állhatatos maradt"
+      ],
+      "answer": "Hittünk és figyelmeztettük népünket"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

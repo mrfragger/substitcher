@@ -1,0 +1,60 @@
+{
+  "title": "Icala Ngaphansi Kwamagagasi",
+  "intro": "Umprofethi, ecindezelwe umsebenzi wakhe, wenza isinqumo esamholela kude nabantu bakubo futhi wangena esivivinyweni esingalindelekile. Uhambo lwakhe lwathatha ushintsho olukhulu, lwavivinya ukholo lwakhe nokubekezela kwakhe ngendlela ejulile. Ungakwazi yini ukuthola imininingwane yalesi senzakalo esingavamile ezinkomba ezinikeziwe?",
+  "clues": [
+    "Umprofethi wathunyelwa kubantu, kodwa wahamba ngokushesha, ekhungathekile ngokwenqatshwa kwabo.",
+    "Uhambo lwakhe lwamholela olwandle, lapho angena khona esikebheni esasithwele kakhulu efuna indlela.",
+    "Kwavela isiphepho esikhulu, esasongela umkhumbi, kwase kwenziwa isinqumo sokuphonsa umuntu oyedwa olwandle ukuze kuncishiswe umthwalo, okwanqunywa ngenkatho.",
+    "Wagwinywa yisidalwa sasemanzini, isenzakalo esimangalisayo esanqunywa yintando kaNkulunkulu.",
+    "Ngaphakathi kwesisu sesidalwa, wabiza iNkosi yakhe, ephenduka futhi edumisa u-Allah ebumnyameni.",
+    "Ngemva kwesikhathi sokuncenga okukhulu, waphonswa ogwini olungenalutho, ebuthakathaka kodwa ephila, kamuva wabuya wathola ukuthi abantu bakhe base bekholiwe ekugcineni."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Umprofethi/Umuntu",
+      "options": [
+        "Umprofethi uNuh",
+        "Umprofethi uLut",
+        "Umprofethi uMusa",
+        "Umprofethi uYunus",
+        "Umprofethi uYusuf"
+      ],
+      "answer": "Umprofethi uYunus"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Isikhukhula sikaNuh",
+        "Ukubhujiswa kweSodoma",
+        "Uhambo esiswini senhlanzi enkulu",
+        "Ukuhlukana kolwandle",
+        "Isambulo sesihlahla esivuthayo"
+      ],
+      "answer": "Uhambo esiswini senhlanzi enkulu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "UMphongolo",
+        "INtaba iSinayi",
+        "Induku kaMusa",
+        "Inhlanzi Enkulu",
+        "Umthombo kaYusuf"
+      ],
+      "answer": "Inhlanzi Enkulu"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Isivumelwano esisha nesintu",
+        "Ukuzalwa okuyisimangaliso kwabantu bakhe",
+        "Umbuso wamiswa ngenxa yozalo lwakhe",
+        "Ukubuyela kubantu bakhe ababese bekholwa",
+        "Ukunqoba umbusi ononya"
+      ],
+      "answer": "Ukubuyela kubantu bakhe ababese bekholwa"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

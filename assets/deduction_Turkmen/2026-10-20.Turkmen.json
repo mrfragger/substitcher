@@ -1,0 +1,61 @@
+{
+  "title": "Ýalan ambisiýanyň arhitektory",
+  "intro": "Beýik ygtyýarly şahsyýet gadymy Müsürde taryhyň iň meşhur zalymlarynyň birine gulluk edipdir. Bu şahsyýete batyrgaý buýruk — asmana garşy çykmak üçin niýetlenen bina gurmak tabşyrylypdyr. Olaryň hekaýasy Kuranda tekepbirlige körlük bilen boýun egmegiň diňe heläkçilige getirýändigi barada ajaýyp sapak hökmünde beýan edilýär.",
+  "clues": [
+    "Men ýerleriň üstünden hudaýlyk dawasyny eden güýçli hökümdaryň köşgünde gulluk etdim.",
+    "Men ýokary ministr wezipesini eýeläp, döwrümiň iň tekepbir zalymyna maslahat berýärdim.",
+    "Meniň hökümdarym Musanyň Hudaýyna garşy çykmakdan ýadapdy, sebäbi olar ony ykrar etmekden ýüz öwürdiler.",
+    "Maňa hökümdarymyň göge çykmagy üçin otda bişirilen kerpiçlerden diň gurmagy tabşyrdylar.",
+    "Minara asmana ýetmedi we tekepbirlige gulçulygym maňa ebedi utanç getirdi.",
+    "Men yzymdan ýören adam bilen birlikde heläk boldum we meniň adym zalymlara ýol berýänlere garşy hemişelik duýduryş boldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Haman",
+        "Azar (Ybraýymyň kakasy)",
+        "Ylýas (pygamber)",
+        "Zul-Kifl",
+        "Harut (Babylondaky iki perişdäniň biri)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Göklere ýetmek üçin beýik bir bina gurmak tabşyryldy",
+        "Hudaýdan iberilen düýşi ýormagy haýyş edildi",
+        "Ynam synagy hökmünde ýanýan oda taşlandy",
+        "Tagtyň we hakykatyň arasynda saýlamaga mejbur boldy",
+        "Jadygöýlik bäsleşiginde kynçylyk çekýär"
+      ],
+      "answer": "Göklere ýetmek üçin beýik bir bina gurmak tabşyryldy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Otda bişirilen kerpiçlerden ýasalan diň",
+        "Ýylana öwrülen taýak",
+        "Uly sil suwunyň içinden geçýän gämi",
+        "Beýik diwarlar bilen gurşalan bag",
+        "Ýakut we altyn bilen bezelen tagt"
+      ],
+      "answer": "Otda bişirilen kerpiçlerden ýasalan diň"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Deňizde zulumçynyň ýanynda gark boldy",
+        "Giň ýerleriň güýçli hökümdaryna öwrüldi",
+        "Ýanýan otdan zyýansyz gaçdy",
+        "Paýhasly gülläp ösýän patyşalygy gurdy",
+        "Ýyllarboýy sürgünden soň maşgalasy bilen gaýtadan duşuşdy"
+      ],
+      "answer": "Deňizde zulumçynyň ýanynda gark boldy"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

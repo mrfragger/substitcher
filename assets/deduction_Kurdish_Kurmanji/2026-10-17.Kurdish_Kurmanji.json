@@ -1,0 +1,61 @@
+{
+  "title": "Hesreta li Odeya Pîroz",
+  "intro": "Tu diçî nav perestgeha bêdeng û dibînî ku xizmetkarekî dilsoz ê Xwedê radiweste û dua dike. Destên wan bilind in, çavên wan bilind in, û dilê wan hesretek dihewîne ku tevahiya jiyanê dom kiriye. Ev giyanê sebirdar kî ye ku baweriya wî bi Xwedê qet neqelişe?",
+  "clues": [
+    "Min salên dirêj di îbadet û dua de derbas kirin, min dît ku mûcîze hene ku baweriya min xurt kirin.",
+    "Berpirsiyariya lênêrîna giyanekî ciwan ê pîroz li perestgehê ji min re hat dayîn.",
+    "Her ku ez pîr dibûm, xemgîniya min a herî mezin ew bû ku min zarok tunebû, ji ber ku jina min bêzar bû û em herdu jî di temenê xwe yê pîr de bûn.",
+    "Min ji Rebê xwe lava kir ku ji malbata min cîgirekî min hebe, kesek ku mîrata pêxembertiyê bidomîne.",
+    "Dema ez di nav kuncê nimêjê de rawestiyabûm, firîşteyan gazî min kirin û gotin, 'Xwedê mizgîniyê dide te', û ez ketim nav tirs û xofê.",
+    "Ji min re gotin ku kurekî min ê bi navê Yahya çêbibe, navekî ku berê qet ji kesî re nehatiye dayîn, û wekî nîşanek ez ê sê rojan bi mirovan re neaxivim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Zekeriya",
+        "Pêxember Yahya",
+        "Pêxember Îsa",
+        "Pêxember Dawud",
+        "Luqmanê Zana"
+      ],
+      "answer": "Pêxember Zekeriya"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bêzarî û pîrbûn di heman demê de xwestina mîratgirekî rast",
+        "Têne avêtin nav agirê geş",
+        "Ji aliyê masiyek mezin ve tê daqurtandin",
+        "Windakirina padîşahiyek ji destê zordarekî",
+        "Ji welatê xwe sirgûnkirin"
+      ],
+      "answer": "Bêzarî û pîrbûn di heman demê de xwestina mîratgirekî rast"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kulûba nimêjê (mihrab)",
+        "Keştiya mezin (Ark)",
+        "Dara şewitî",
+        "Dara ku veguherî mar",
+        "Deveya Xwedê"
+      ],
+      "answer": "Kulûba nimêjê (mihrab)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Kurekî rast da wî û piştî sê rojan bêdengiyê dîsa axivî",
+        "Ji ber bêbaweriyê ji aliyê lehiyê ve hat wêrankirin",
+        "Padîşahiyek mezin û kontrol li ser bayê tê dayîn",
+        "Ji zikê masiyekê hatiye derxistin",
+        "Ji aliyê erdê ve hatiye daqurtandin"
+      ],
+      "answer": "Kurekî rast da wî û piştî sê rojan bêdengiyê dîsa axivî"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

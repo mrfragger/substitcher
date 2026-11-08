@@ -1,0 +1,61 @@
+{
+  "title": "Armia, którą spotkała latająca glina",
+  "intro": "W czasach przed prorokiem Mahometem, potężny władca Jemenu rozpoczął kampanię militarną mającą na celu zniszczenie świętego sanktuarium w Mekce. Wróg ten poprowadził ogromną armię, w tym słonie bojowe, ufny w swoją siłę i liczebność. Jednak ich podróż zakończyła się nagle, gdy napotkali niespodziewaną boską interwencję. Czy potrafisz rozpoznać, kto stanął w obliczu tego niezwykłego rozrachunku?",
+  "clues": [
+    "Maszerowaliśmy z ogromną armią i potężnymi słoniami bojowymi w kierunku świętego domu",
+    "Chcieliśmy wyrwać i zniszczyć miejsce kultu zbudowane przez sługi Najmiłosierniejszego",
+    "Stado małych ptaków zostało wysłane przeciwko nam, niosąc w dziobach i pazurach gliniane kamienie",
+    "Powitał nas dźwięk, który rzucił w nas kamieniami, zamieniając nas w stratowane resztki",
+    "Pochodziłem z Jemenu i służyłem pod władcą, który chciał zniszczyć święte sanktuarium",
+    "Staliśmy się przykładem dla tych, którzy ośmielili się zbezcześcić świątynię Allaha"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Armia Abraha al-Ashram",
+        "Siły etiopskie",
+        "Perscy zdobywcy",
+        "Legiony rzymskie",
+        "Najeźdźcy Beduinów"
+      ],
+      "answer": "Armia Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Oblężenie pustynnej twierdzy",
+        "Najazd na święte sanktuarium w Mekce",
+        "Bitwa morska na morzu",
+        "Bunt przeciwko tyranowi-królowi",
+        "Poszukiwania zaginionego proroka"
+      ],
+      "answer": "Najazd na święte sanktuarium w Mekce"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Dolina Mina w pobliżu Mekki",
+        "Pałac w Sanie w Jemenie",
+        "Góry Tihamah",
+        "Starożytne miasto Jerozolima",
+        "Brzegi Morza Czerwonego"
+      ],
+      "answer": "Dolina Mina w pobliżu Mekki"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zwycięstwo i zniszczenie świętego domu",
+        "Porażka ptaków niosących gliniane kamienie",
+        "Pokojowe poddanie się i nawrócenie",
+        "Głód i klęski żywiołowe",
+        "Wycofanie się z powodu intensywnych opadów deszczu"
+      ],
+      "answer": "Porażka ptaków niosących gliniane kamienie"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Unang Kalag nga Mibarog",
+  "intro": "Dugay na sa wala pa ang bisan kinsang mensahero naglakaw sa yuta, sa wala pa ang bisan unsang kasulatan gipadayag, usa ka binuhat nga lahi sa uban ang mitungha. Kini nga kalag giumol sa mga kamot sa Dios, gihatagan og dapit nga walay sama nga katahum, ug gisulayan sa usa ka paagi nga molanog sa tibuok kasaysayan sa tawo. Ang misunod mao ang usa ka istorya sa kahuyang, sinsero nga paghinulsol, ug usa ka kapalaran nga mag-usab sa dagan sa paglalang hangtod sa hangtod. Makatag-an ka ba kon kinsa kini?",
+  "clues": [
+    "Giumol ako sa mga kamot sa Labing Maloloy-on gikan sa abog sa yuta",
+    "Gihatagan ako og usa ka panimalay nga walay sama nga katahum, diin walay kagutom o kakapoy nga makahikap kanako",
+    "Gisugo ako nga dili gayud moduol bisan usa ka kahoy, kay gidili kini",
+    "Ang akong kauban ug ako nalimbongan ug miduol sa gidili nga kahoy, supak sa sugo sa atong Ginoo",
+    "Mibalik kami sa among Ginoo uban ang kinasingkasing nga paghinulsol, ug gipasaylo ang among mga kalapasan",
+    "Gikan kanato, ang tanang katawhan naggikan; Ako ang una nga naglakaw niining yutaa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Adan",
+        "Propeta Musa",
+        "Propeta Nuh",
+        "Propeta Yusuf",
+        "Propeta Isa"
+      ],
+      "answer": "Propeta Adan"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Tentasyon sa gidili nga kahoy",
+        "Pakig-atubang kang Paraon",
+        "Pagtukod sa Dakong Arka",
+        "Sakripisyo sa minahal nga anak",
+        "Gilabay ngadto sa dakong kalayo"
+      ],
+      "answer": "Tentasyon sa gidili nga kahoy"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Gidili nga Kahoy",
+        "Ang Nagdilaab nga Kahoy",
+        "Ang Bulawanong Sungkod",
+        "Ang Dakong Arka",
+        "Ang Bulawanong Baka"
+      ],
+      "answer": "Ang Gidili nga Kahoy"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Gipadala nganhi sa yuta isip unang tig-atiman sa katawhan",
+        "Ang Paraon ug ang iyang kasundalohan nalumos sa dagat",
+        "Ang dakong baha naglaglag sa mga dautan",
+        "Ang kalayo nahimong bugnaw ug malinawon",
+        "Gihatagan og awtoridad sa gingharian sa Ehipto"
+      ],
+      "answer": "Gipadala nganhi sa yuta isip unang tig-atiman sa katawhan"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Primul suflet care stă în picioare",
+  "intro": "Cu mult înainte ca vreun mesager să umble pe pământ, înainte ca vreo scriptură să fie revelată, o ființă diferită de oricare alta a luat ființă. Acest suflet a fost modelat de mâini divine, i s-a dat un loc de o frumusețe neegalată și a fost testat într-un mod care va răsuna în întreaga istorie a omenirii. Ceea ce a urmat a fost o poveste despre slăbiciune, pocăință sinceră și un destin care va schimba pentru totdeauna cursul creației. Poți ghici cine este acesta?",
+  "clues": [
+    "Am fost modelat de mâinile Celui Prea Milostiv din chiar țărâna pământului",
+    "Mi s-a dat o casă de o frumusețe neegalat, unde nicio foame sau oboseală nu mă putea atinge.",
+    "Mi s-a poruncit să nu mă apropii niciodată de niciun copac, căci era interzis",
+    "Eu și tovarășul meu am fost înșelați și ne-am apropiat de copacul interzis, împotriva poruncii Domnului nostru.",
+    "Ne-am întors la Domnul nostru cu pocăință sinceră și ne-a fost iertată greșeala",
+    "Din noi, întreaga umanitate a descins; eu sunt primul care a pășit pe acest pământ"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Adam",
+        "Profetul Musa",
+        "Profetul Nuh",
+        "Profetul Yusuf",
+        "Profetul Isa"
+      ],
+      "answer": "Profetul Adam"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ispita copacului interzis",
+        "Confruntare cu Faraonul",
+        "Construirea Marii Arche",
+        "Jertfa fiului iubit",
+        "Fiind aruncat într-un foc mare"
+      ],
+      "answer": "Ispita copacului interzis"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Copacul interzis",
+        "Rugul Aprins",
+        "Toiagul de Aur",
+        "Marea Arcă",
+        "Vițelul de Aur"
+      ],
+      "answer": "Copacul interzis"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Trimis pe pământ ca primul îngrijitor al umanității",
+        "Faraonul și armata sa s-au înecat în mare",
+        "Marele potop i-a distrus pe cei răi",
+        "Focul a devenit răcoros și pașnic",
+        "I s-a acordat autoritate asupra regatului Egiptului"
+      ],
+      "answer": "Trimis pe pământ ca primul îngrijitor al umanității"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

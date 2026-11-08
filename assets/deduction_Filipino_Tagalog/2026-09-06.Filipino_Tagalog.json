@@ -1,0 +1,61 @@
+{
+  "title": "Ang Itinapon ng Ginintuang Guya",
+  "intro": "Isang pigura na nabanggit sa Quran ang nagtulak sa napakaraming tao na lumihis sa landas noong wala ang isang marangal na propeta. Isang bagay na gawa sa ginto ang bumihag sa puso ng isang buong bansa — ngunit ang kwento ng indibidwal na ito ay nagtatapos sa pag-iisa at isang kakaibang sumpa. Sino kaya ang itinakwil na ito?",
+  "clues": [
+    "Lumitaw ako noong wala ang isang dakilang propeta na umakyat sa langit upang tumanggap ng banal na patnubay.",
+    "Iniligaw ko ang napakaraming tao gamit ang isang bagay na ginawa ko mismo.",
+    "Ang ginintuang nilikha ko ay tila may buhay, na naglalabas ng mga tunog na nakakabighani sa mga sumusunod dito.",
+    "Inaangkin kong nakita ko ang hindi mahahalata ng iba—isang sulyap sa hindi nakikita.",
+    "Humugot ako ng isang bagay mula sa mga bakas ng banal na mensahero at inihagis ito sa tinunaw na metal.",
+    "Hinatulang gumala akong mag-isa, dala ang isang kakaibang sumpa na walang sinuman ang maaaring humawak sa aking balat ni ako man ay hindi rin maaaring humawak sa kanila."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Paraon (Fir'awn)",
+        "Abu Lahab",
+        "Propeta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Gumawa ng ginintuang guya para sa pagsamba",
+        "Nagtayo ng tore na umaabot sa langit",
+        "Hinamon ang mga salamangkero ng Ehipto",
+        "Pinangunahan ang isang hukbo na may mga lumilipad na halimaw",
+        "Hatiin ang buwan bilang patunay ng pagkapropeta"
+      ],
+      "answer": "Gumawa ng ginintuang guya para sa pagsamba"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang ginintuang guya",
+        "Isang tungkod na naging ahas",
+        "Isang nasusunog na palumpong sa isang bundok",
+        "Isang arka na nakapatong sa tuktok",
+        "Isang kanal na puno ng nagliliyab na apoy"
+      ],
+      "answer": "Ang ginintuang guya"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ipinatapon, pinagbawalang mahawakan o makahipo ng iba",
+        "Nalunod sa dagat kasama ang isang hukbo",
+        "Sinunog nang buhay dahil sa pagtanggi sa pananampalataya",
+        "Hinampas ng malakas at umuugong na hangin",
+        "Pinatawad at itinaas sa mataas na antas"
+      ],
+      "answer": "Ipinatapon, pinagbawalang mahawakan o makahipo ng iba"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

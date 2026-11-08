@@ -1,0 +1,61 @@
+{
+  "title": "Nenavadni obiskovalci obzidanega mesta",
+  "intro": "Skupina je prispela pred vrata mesta, katerega prebivalci niso nikoli poznali resnice. Prinesli so sporočilo, toda prebivalci so postali sovražni in so grozili z nasiljem. Vendar se je iz nepričakovanega mesta zaslišal en sam glas, ki je branil tujce in s tem pripravil oder za dramatičen preobrat dogodkov.",
+  "clues": [
+    "Vstopili smo v mesto, katerega prebivalce je prevzel neverjeten ton.",
+    "Sumničavo so nas pogledali in rekli: 'Vi ste le navadna bitja, kot mi.'",
+    "Opozorili smo jih, a so proti nam dvignili kamenje.",
+    "Moški je prihitel z najbolj oddaljenega konca mesta, da bi potrdil našo resnico.",
+    "Svojemu ljudstvu je rekel: »Zakaj ne bi častil Tistega, ki me je ustvaril?«",
+    "Zanikanje mesta se je končalo z enim samim pokom in tam, kjer so se nekoč posmehovali, je zavladala tišina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Glasniki Ya-Sina",
+        "Izajevi učenci",
+        "Ljudje iz jarka",
+        "Faraonovi čarovniki",
+        "Vernik Ya-Sina"
+      ],
+      "answer": "Glasniki Ya-Sina"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zavrnitev in grožnja s kamenjanjem",
+        "Biti vržen v hud ogenj",
+        "Preizkus potrpežljivosti z izgubljenim otrokom",
+        "Vrt, ki je bil uničen",
+        "Potovanje skozi morje"
+      ],
+      "answer": "Zavrnitev in grožnja s kamenjanjem"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Najbolj oddaljen konec mesta",
+        "Rdeče morje",
+        "Ognjeni jarek",
+        "Jama zatočišča",
+        "Egiptovski zapor"
+      ],
+      "answer": "Najbolj oddaljen konec mesta"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Mesto je bilo uničeno z enim samim krikom",
+        "Morje se je razdelilo in utopilo vojsko",
+        "Ogenj je postal hladen in varen",
+        "Vrt je pogoltnil nebeški ogenj",
+        "Kit je osebo vrnil na obalo"
+      ],
+      "answer": "Mesto je bilo uničeno z enim samim krikom"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Das Hindernis im alten Haus",
+  "intro": "In der heiligen Stadt brodelte der Zorn einer mächtigen Gestalt, als sich eine neue Botschaft zu verbreiten begann. Dieser Mann, dessen Name zum Synonym für Widerstand gegen die Wahrheit geworden war, musste mit ansehen, wie sein Einfluss unter der Last göttlicher Offenbarung schwand. Wer war diese Seele, deren Schicksal im Sand eines berühmten Schlachtfelds besiegelt wurde?",
+  "clues": [
+    "Ich war ein Anführer meines Volkes und bekannt für meinen Reichtum und Einfluss in einer Stadt, die ein uraltes Heiligtum beherbergte.",
+    "Als ein Mann aus meinem Stamm begann, die Botschaft eines einzigen Gottes zu verkünden, verspottete ich ihn und seine Offenbarungen und nannte sie bloße Geschichten aus der Vergangenheit.",
+    "Ich stellte den Mann zur Rede, als er in der Nähe des heiligen Bauwerks betete, und drohte ihm, ihn notfalls mit Gewalt von seiner Anbetung abzuhalten.",
+    "Ich gehörte zu den Anführern, die planten, den neuen Glauben zum Schweigen zu bringen, und die sich seinen Anhängern sowohl mit Worten als auch mit Waffen entgegenstellten.",
+    "Ich marschierte mit einem Heer zu einem Ort namens Badr, in der festen Überzeugung, dass wir die kleine Gruppe der Gläubigen vernichten würden.",
+    "Doch auf diesem Schlachtfeld fand mein Leben ein Ende, und mein Tod wurde zu einer Lektion für all jene, die trotz eindeutiger Zeichen weiterhin im Unglauben verharren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayya ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Den Propheten am Beten in der Kaaba hindern",
+        "Der Bau der Kaaba",
+        "Das Schreiben des Korans",
+        "An der Spitze der Elefantenarmee",
+        "Den Mond spalten"
+      ],
+      "answer": "Den Propheten am Beten in der Kaaba hindern"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Kaaba",
+        "Die Arche des Propheten Noah",
+        "Der Stab des Propheten Musa",
+        "Das goldene Kalb",
+        "Der Thron der Königin von Saba"
+      ],
+      "answer": "Die Kaaba"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Gefallen in der Schlacht von Badr",
+        "Er bereute und wurde Muslim.",
+        "Floh nach Abessinien",
+        "Gestorben im Jahr des Elefanten",
+        "Wurde ein Gefährte des Propheten"
+      ],
+      "answer": "Gefallen in der Schlacht von Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

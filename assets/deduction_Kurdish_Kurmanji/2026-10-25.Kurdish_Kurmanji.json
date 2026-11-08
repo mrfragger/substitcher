@@ -1,0 +1,61 @@
+{
+  "title": "Gilî li ser Dengê Hatî Bihîstin",
+  "intro": "Hûn dengekî dibihîzin ku ji civakekê derdikeve ku zilm lê bûye rûtîn. Tu nîşandana hêzê bersiva gilî û gazinan nade; li şûna wê, gazîyek rasterast digihîje Xwedê, û bersiv li dilê îbadetê bi xwe dixe. Kê ew gilî kir, çi pirs li pey hat, û çi rastî hat pejirandin?",
+  "clues": [
+    "Ez ji ber zilm û zordariya mirovên li dora xwe aciz bûm.",
+    "Min ew gilî û gazind rasterast di giliyek şexsî de ji Xwedê re anî ziman.",
+    "Xwedê giliyê min bihîst û bi şikayetekê li ser baweriya min bersiv da.",
+    "Bersiv ew bû ku ez çawa dikarim baweriya xwe bi Xwedayê ku Yek û Bilind e, neynim.",
+    "Paşê min pirsî çima Xwedê divê milletekî ku kafir in, bide wî/wê.",
+    "Ez Uzeyr im, di Sûreyê Zuxruf de navê min ew kes e ku Xwedê giliyê wî bihîstiye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Uzeyr",
+        "Hevalê ku di lehiyê mezin de sefer kir",
+        "Xizmetkarê ku li ser avê meşiya",
+        "Xewvan di şikeftekê de tê parastin",
+        "Xulamê ku kevir anî çem"
+      ],
+      "answer": "Uzeyr"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Gilî û gazin ji Xwedê kirin ji ber zilm û zorê li xelkê kirin",
+        "Di dema tofanê de li ser avê meşiya",
+        "Kevir hilgirtin ber bi çemekî bê av",
+        "Bi Keştiyê re di nav lehiyê mezin re derbas dibe",
+        "Wergirtina mifteya gencîneyek mezin"
+      ],
+      "answer": "Gilî û gazin ji Xwedê kirin ji ber zilm û zorê li xelkê kirin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Gazindên rasterast ji Xwedê re hatine şandin",
+        "Dara ku bû mar",
+        "Sobayek sar û aram çêkirî",
+        "Keştiyek li ser avên lehiyê diherike",
+        "Masî xulamekî dadiqurtîne"
+      ],
+      "answer": "Gazindên rasterast ji Xwedê re hatine şandin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Xwedê giliyê bihîst û Yekîtî û Rebbiyeta Xwedê piştrast kir.",
+        "Di dema tofanê de bi ewlehî li ser avê meşiya",
+        "Bi ewlehî li ser Keştiyê ji lehiyê mezin derbas bûn",
+        "Ji nû ve dîtinê di hundirê qesreke xudperestiyê de",
+        "Desthilatdariya ji Rojhilat heta Rojava werdigire"
+      ],
+      "answer": "Xwedê giliyê bihîst û Yekîtî û Rebbiyeta Xwedê piştrast kir."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

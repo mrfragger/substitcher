@@ -1,0 +1,60 @@
+{
+  "title": "Il sonno dei secoli",
+  "intro": "State per intraprendere un viaggio nel tempo, alla scoperta di un profondo mistero di fede e potere divino. Immaginate un gruppo di individui che hanno sfidato le norme della loro società, rimanendo fedeli al monoteismo in un mondo di politeismo. La loro storia testimonia la capacità di Allah di proteggere i Suoi servi giusti nei modi più straordinari. Riuscirete a svelare l'identità di queste figure straordinarie?",
+  "clues": [
+    "Eravamo un piccolo gruppo di giovani che credevano in un solo Dio, nonostante il politeismo diffuso tra la nostra gente.",
+    "Siamo fuggiti da un sovrano tirannico che ci minacciava per la nostra fede, temendo persecuzioni e morte.",
+    "Ci siamo rifugiati in un luogo appartato, sperando nella misericordia di Allah e nella sua protezione dai nostri oppressori.",
+    "Nostro Signore ci ha fatto cadere in un sonno profondo, un sonno miracoloso che ha sfidato lo scorrere del tempo.",
+    "Al nostro risveglio, credevamo di aver riposato solo per un giorno o parte di esso, ignari del lungo periodo di tempo che era effettivamente trascorso.",
+    "Il Corano menziona che rimanemmo nel nostro stato per trecento anni, e lo superammo di nove, diventando un segno per l'umanità."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La gente del fosso",
+        "Il popolo di Thamud",
+        "Il popolo della caverna",
+        "Il popolo di Madyan",
+        "I compagni dell'elefante"
+      ],
+      "answer": "Il popolo della caverna"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Di fronte a una grande alluvione",
+        "Essere inghiottito dalla terra",
+        "Il lungo sonno miracoloso",
+        "La distruzione della loro città",
+        "La divisione del mare"
+      ],
+      "answer": "Il lungo sonno miracoloso"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un roveto ardente",
+        "Una montagna",
+        "Una barca",
+        "Una grotta",
+        "pozzo"
+      ],
+      "answer": "Una grotta"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Furono loro concesse immense ricchezze e potere",
+        "Furono trasformati in scimmie e maiali",
+        "Sono stati svegliati dal sonno come un segno profondo",
+        "Furono travolti da un grande diluvio",
+        "Costruirono un regno magnifico"
+      ],
+      "answer": "Sono stati svegliati dal sonno come un segno profondo"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

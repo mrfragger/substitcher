@@ -1,0 +1,61 @@
+{
+  "title": "L'avvertimento sotto terra",
+  "intro": "Immaginate di trovarvi accanto a uno scavo profondo, mentre delle voci si levano dal basso e il mondo in superficie tace. Il Corano conserva questa scena come monito: se una comunità rifiuta ciò che i messaggeri portano, la punizione si avvicina e persino il suo fragore diventa parte della testimonianza. Quale collettività parla attraverso questi versi?",
+  "clues": [
+    "Nel Corano veniamo ricordati come un collettivo definito da un destino condiviso, piuttosto che da un nome individuale.",
+    "Abbiamo respinto il messaggio portato dai messaggeri, sebbene ciò che dicevano fosse vero.",
+    "La nostra identità, così come ci è stata tramandata, è legata a una profonda fenditura nella terra, e questa caratteristica è diventata parte del nostro nome.",
+    "Nel giorno stabilito, fummo condotti fuori e trascinati verso il fuoco.",
+    "Non potevamo difenderci dalla punizione e non potevamo udirne il ruggito.",
+    "I nostri volti sarebbero stati rivolti verso il fuoco, e noi saremmo stati spinti dentro; quando ci avrebbero interrogati, avremmo detto di essere tra coloro che non potevano rispondere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "I compagni della trincea",
+        "La nazione liberata dal grande diluvio",
+        "I fedeli del vitello d'oro",
+        "Il gruppo si è rifugiato all'interno della grotta di montagna.",
+        "La comunità liberata dalla fornace ardente"
+      ],
+      "answer": "I compagni della trincea"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Trascinato e gettato nel fuoco",
+        "Uscito da una fornace ardente",
+        "Trasportato sano e salvo attraverso una grande alluvione",
+        "Rimasto al riparo per secoli all'interno di una grotta",
+        "Salvato dopo essere stato gettato in un pozzo"
+      ],
+      "answer": "Trascinato e gettato nel fuoco"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una trincea o una fossa",
+        "Un grande mare",
+        "Una grotta di montagna",
+        "Un palazzo alto",
+        "Un pozzo nel deserto"
+      ],
+      "answer": "Una trincea o una fossa"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Incapaci di difendersi e incapaci di udire il ruggito del fuoco.",
+        "Salvato e ammesso ai giardini eterni",
+        "Consegnato sano e salvo nonostante un'alluvione devastante.",
+        "Protetti da un lungo sonno all'interno di una grotta",
+        "Onorato con un regno eterno"
+      ],
+      "answer": "Incapaci di difendersi e incapaci di udire il ruggito del fuoco."
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

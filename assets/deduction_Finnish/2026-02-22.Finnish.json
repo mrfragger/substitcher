@@ -1,0 +1,61 @@
+{
+  "title": "Kärsivän sielun kärsivällisyys",
+  "intro": "Historian aikakirjoissa on henkilö, jonka nimi on synonyymi kestävyydelle. Tätä henkilöä koeteltiin menetämällä kaikki maalliset mukavuudet, mutta hän pysyi silti Luojan omistautuneena palvelijana. Vuosien vaikeuksien ja fyysisten sairauksien läpi tämän sielun sydän pysyi ankkuroituna uskoon ja tarjosi toivon majakan kaikille vastoinkäymisiä kohtaaville.",
+  "clues": [
+    "Olin Allahin omistautunut palvelija, jota oli siunattu runsaalla vauraudella, monilla lapsilla ja erinomaisella terveydellä.",
+    "Elämäni kääntyi päälaelleen, kun minut riistettiin rikkauksistani ja perheestäni, ja minulle jäi jäljelle vain uskoni.",
+    "Minua vaivasi pitkäaikainen ja tuskallinen sairaus, joka koetteli ihmisen kestävyyden rajoja.",
+    "Kärsimykseni aikana kieltäydyin valittamasta Herraani vastaan, silloinkin kun vastustaja yritti johdattaa minut epätoivoon.",
+    "Kun vihdoin huusin Herraani, en pyytänyt vaurautta, vaan yksinkertaisesti tunnustin, että ahdistus oli koskettanut minua.",
+    "Minua käskettiin lyömään maata jalallani, ja siitä pulppusi viileän veden lähde, joka paransi ruumistani ja sammutti janoni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Yaqub",
+        "Profeetta Ayyub",
+        "Profeetta Zakariyyah",
+        "Profeetta Jahja",
+        "Profeetta Shu'ayb"
+      ],
+      "answer": "Profeetta Ayyub"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Vuosia vakavia sairauksia ja menetyksiä",
+        "Syvään kaivoon heitettynä",
+        "Jättiläiskalan nielaisemaksi joutuminen",
+        "Kohtaamassa tyrannia tulessa",
+        "Pitkä matka opettajan etsinnässä"
+      ],
+      "answer": "Vuosia vakavia sairauksia ja menetyksiä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Sauva, joka halkaisi meren",
+        "Paita, joka tuoksui kodilta",
+        "Parantava vesilähde",
+        "Vuori, joka mureni tomuksi",
+        "Syvän unen luola"
+      ],
+      "answer": "Parantava vesilähde"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Suuren maan kuvernööriksi tuleminen",
+        "Armeijan johtaminen voittoon",
+        "Terveyden ja perheen palauttaminen",
+        "Pyhän palvontapaikan rakentaminen",
+        "Taivaasta katetun pöydän vastaanottaminen"
+      ],
+      "answer": "Terveyden ja perheen palauttaminen"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

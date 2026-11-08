@@ -1,0 +1,61 @@
+{
+  "title": "Az olthatatlan láng őrzője",
+  "intro": "Egy alak áll a láthatatlan legfélelmetesebb hely küszöbén, olyan feladattal bízva, amelyre senki más nem vágyik. Amikor a szenvedő lelkek irgalomért kiáltanak, szigorú válasz visszhangzik a tűz kamráiban. Vajon fel tudod fedezni ennek az örök őrzőnek a kilétét?",
+  "clues": [
+    "Egy rémisztő, láthatatlan büntetés helyének bejáratánál állok.",
+    "Egy lobogó, olthatatlan tűz áll ünnepélyes kötelességem középpontjában.",
+    "Szenvedő lelkek hívják a nevemet, könyörögve a végtelen gyötrelmük enyhüléséért.",
+    "Amikor könyörögnek, kijelentem, hogy soha nem fognak elmenni.",
+    "Nem vagyok ember, sem dzsinn – egy tiszta engedelmességből teremtett lény vagyok.",
+    "Én vagyok a főangyal, akit a Pokol tüzének örök őrzőjévé neveztek ki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Malik",
+        "Dzsibríl",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A pokol népe könyörög a gyötrelmük végéért",
+        "A trombita megfújása jelzi az ítélet napját",
+        "A Korán a Próféta szívének lett kinyilatkoztatva",
+        "Egy prófétát népe nagy tűzbe vet",
+        "Egy hatalmas falat építenek, hogy megfékezzék a korrupt nemzetet"
+      ],
+      "answer": "A pokol népe könyörög a gyötrelmük végéért"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Pokol tüze (Jahannam)",
+        "A lótuszfa a Paradicsom határán",
+        "Egy átható trombita",
+        "Egy kígyóvá változó személyzet",
+        "Egy csodálatos isteni trón"
+      ],
+      "answer": "A Pokol tüze (Jahannam)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A pokol lakóinak azt mondják, hogy örökké ott maradnak",
+        "A pokol lakói megbocsáttatnak és szabadon engedik őket",
+        "A pokol lakói második esélyt kapnak a hitre",
+        "A pokol lakóit hűvös helyre költöztetik",
+        "A pokol lakóit teljesen elpusztítja egy villámcsapás"
+      ],
+      "answer": "A pokol lakóinak azt mondják, hogy örökké ott maradnak"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

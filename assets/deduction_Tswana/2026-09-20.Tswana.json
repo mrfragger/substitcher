@@ -1,0 +1,61 @@
+{
+  "title": "Modumedi yo o Bipileng mo Kgotleng ya Mogateledi",
+  "intro": "Mo teng ga diholo tse di kgabisitsweng ka gauta tsa mmusi yo o mabela thata yo o itsiweng ke Quran — koo go tlhoka maitseo ga Bomodimo go neng go tlhalosa taelo nngwe le nngwe — moya o le mongwe o ne o tsamaya mo gare ga batho ba ba nang le ditshiamelo, o fitlha diphiri tse di kotsi thata tse di neng di bonwa ke batho botlhe. Motho yono o ne a tshotse tumelo e e neng e thibetswe thata mo teng ga dipota tseo mo e leng gore go ribololwa ga yone go ne go tla raya loso lo lo tlhomameng. Le fa go ntse jalo go tlhomamisega go ne go tuka jaaka kgabo ka fa tlase ga molora, mme fa motsotso o goroga, boammaaruri bo ne jwa lela ka bopelokgale jo bo neng jwa tshikinya motheo wa ntlo ya segosi ya mogateledi.",
+  "clues": [
+    "Ke ne ke nna mo gare ga batho ba ba neng ba le mo gare ga mmusi yo o maatla le yo o mabela thata wa motlha wa me, ke dikologilwe ke manobonobo le tlhotlheletso.",
+    "Ke ne ka fitlha tumelo ya me ya boammaaruri kwa tengteng mo pelong ya me, ke tshaba botshelo jwa me mo bathong ba ba neng ba busa ka bosetlhogo le ka kgatelelo.",
+    "Fa batho ba me ba ne ba belaela le go reketla fa ba lebane le boammaaruri, ke ne ka gatela pele go ba tlhagisa ka phelelo e e botlhoko e e neng ya diragalela merafe e e fetileng e e neng ya gana barongwa ba Morena wa bone.",
+    "Ke ne ka gakolola batho ba me ka kgang ya mosha yo o rategang yo o lorang yo o neng a latlhelwa fa fatshe ke ba losika lwa gagwe mme le fa go ntse jalo a tlhatlogela kwa bolaoding jo bogolo kwa lefatsheng le le kgakala.",
+    "Ke ne ka rotloetsa batho ba me gore ba se ka ba ikobela mmusi yo o neng a ba timetsa, go na le moo ke ne ka ba laletsa go ntshala morago mo tseleng ya tshiamo le kaelo.",
+    "Ke ne ka bua boammaaruri phatlalatsa le fa balatedi ba mmusaesi yono ba ne ba ntshosetsa ka gore ba tla nkgobotletsa ka maje kgotsa ba tla nteleka mo nageng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Modumedi yo o Fitlhegileng mo Lelapeng la ga Faro",
+        "Tlhogo ya Lotso e e Pelotelele e e Lelang e sa Bone Go Fitlha Morwawe a Boa",
+        "Motlhanka yo o Ikanyegang yo Kgabagare Bolwetse jwa Gagwe jwa Letlalo bo neng jwa Fodisiwa",
+        "Morwa yo o Leofileng yo o Ganang Taletso ya Moporofeti ya go Palama Areka",
+        "Mogateledi yo o Setlhogo yo o neng a Ipolela gore ke Bomodimo"
+      ],
+      "answer": "Modumedi yo o Fitlhegileng mo Lelapeng la ga Faro"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go fitlha tumelo mo kgotleng ya mogateledi",
+        "Go foufala ka ntlha ya go lela dingwaga di le dintsi",
+        "Go lekwa ke go latlhegelwa ke ba lelapa le pogiso e e botlhoko",
+        "Go aga sekepe se segolo o ntse o sotlwa",
+        "Go itshokela mogote o o fisang wa molelo o mogolo"
+      ],
+      "answer": "Go fitlha tumelo mo kgotleng ya mogateledi"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ntlo ya segosi ya ga Faro",
+        "Setlhoa sa thaba se go neng ga agiwa araka mo go sone",
+        "Mokgatšha o o boitshepo o o kafa tlase ga Thaba ya Sinai",
+        "Tshingwana e ntle e e nang le melatswana e mebedi e e elelang",
+        "Setulo sa bogosi sa kristale se se fa godimo ga noka e e kafa tlase ga lefatshe"
+      ],
+      "answer": "Ntlo ya segosi ya ga Faro"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Tshireletso ya bomodimo fa bagateledi ba ne ba kopana le tshenyego ya bone",
+        "O ne a kopanngwa gape le ba lelapa morago ga dingwaga di le lesome ba kgaogane",
+        "O ne a newa bopelotelele, a boela a nna le botsogo jo bo siameng, le lelapa le legolo",
+        "O ne a bolokwa mo mokorong fa lefatshe lotlhe le ne le nwela",
+        "O ne a namolwa mo dikgabong a sa gobala ka taelo ya ga Allah"
+      ],
+      "answer": "Tshireletso ya bomodimo fa bagateledi ba ne ba kopana le tshenyego ya bone"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

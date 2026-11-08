@@ -1,0 +1,61 @@
+{
+  "title": "La pazzia de la grand ambiziun",
+  "intro": "Imbarcàs en un viagg per descüvrir l’identidà de un’entità cullettiva e i sò plan audaci g’han incuntrà un fin inaspetà e pudent. Chesta narrativa la fà da ricurd prufund del podè divin e de la fragilità del podè mundano quand che se oppon al sacr. Desfà el mistero de chestu grupp, che la sò storia l’è incisa in del Coran cuma un avvertiment per tüt quei che cercan de trasgredir.",
+  "clues": [
+    "G’hem avü una grand ambiziun, credend che la noster forza l’era inigualabl, e g’hem partì per un viagg cunt un ubietif ciar e distrutif.",
+    "El noster capo, pien de arroganza, g’ha cercà de profanar una Cà sacra venerada de tanti gent, cunt el fin de deviar el pelegrinagg a una strütüra costruida de noi.",
+    "De una terra luntana, marciavom cond una forza grandissima, fiduciads de la nostra capacitaa de desmantellar ‘l vegg edifizi de la Cità Santa.",
+    "El noster esercit l’era formidabil, guidà di creatur magnifich, una spèta rarament, se mai, vista in una campagna inscì di abitant de la terra che g’hem invadü.",
+    "Quand sem rivà a la noster destinaziun, g’he stà un intervent divin; creatur piscinin e alad cumparivan, che g’havevan slanzà cun di sass de argila cotta.",
+    "Tuta la noster spediziun l’è finida devastant, lassand la noster forza formidabil completament distrutta, cuma paglia mastegada, el noster grand pian ridott en polvar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Popol de Thamud",
+        "Gent de 'Ad",
+        "Gent de Sodoma",
+        "La gent del elefant",
+        "Gent del giardin"
+      ],
+      "answer": "La gent del elefant"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "El Grand Diluvio",
+        "La Campagna contra la Kaaba",
+        "La distruziun di idol",
+        "La scissiun del mar",
+        "El terremot de Midian"
+      ],
+      "answer": "La Campagna contra la Kaaba"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "La Kaaba",
+        "El vitell d'or",
+        "El Fœg"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Salvazion divina",
+        "Un luungh periud de prosperità",
+        "La cunversiun a l'Islam",
+        "Distruziun total",
+        "Esilio da la sò terra"
+      ],
+      "answer": "Distruziun total"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

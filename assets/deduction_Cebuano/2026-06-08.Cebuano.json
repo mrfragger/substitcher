@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mangamuyo sa Santuwaryo",
+  "intro": "Sa hilom nga mga oras sa kagabhion, usa ka debotado nga kalag ang nanawag sa Labing Maloloy-on sulod sa balaan nga mga bungbong sa usa ka sagrado nga dapit. Mga katuigan sa walay pagduhaduha nga pagtuo ug pailub hapit na gantihan og usa ka milagro nga magdala og kalipay ug usa ka kabilin sa pagkapropeta.",
+  "clues": [
+    "Gigugol nako ang akong mga adlaw ug gabii sa debosyon sulod sa usa ka balaang santuwaryo, kanunay nga nangamuyo sa akong Ginoo.",
+    "Natigulang na ko, ug ang akong asawa baog, apan wala gyud ko mawad-i og paglaum sa kalooy sa Allah.",
+    "Gihatagan ako og anak nga lalaki, nga ginganlan og Yahya, kinsa nahimong propeta ug suga sa pagkamatarong.",
+    "Ako mismo usa ka propeta, gipadala aron sa paggiya sa mga Anak sa Israel.",
+    "Kaliwat ako ni Propeta Harun ug nagserbisyo isip pari sa Templo.",
+    "Gisaligan ako sa pag-atiman ni Maryam, ang inahan ni Isa, ug nasaksihan ko ang iyang mga milagro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Zakariyya",
+        "Propeta Yahya",
+        "Propeta Ilyas",
+        "Propeta Ishaq",
+        "Propeta Ya'qub"
+      ],
+      "answer": "Propeta Zakariyya"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gihatagan og anak nga lalaki sa pagkatigulang",
+        "Naluwas gikan sa nagdilaab nga kalayo",
+        "Naluwas gikan sa tiyan sa isda",
+        "Nakaluwas sa dakong baha",
+        "Naayo gikan sa grabe nga sakit"
+      ],
+      "answer": "Gihatagan og anak nga lalaki sa pagkatigulang"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Mihrab (lugar sa pag-ampo)",
+        "Ang Kaaba",
+        "Ang Nagdilaab nga Kahoy",
+        "Ang Arka sa Kasabotan",
+        "Ang Langob sa Pito ka Natulog"
+      ],
+      "answer": "Ang Mihrab (lugar sa pag-ampo)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Gihatagan og usa ka matarong nga anak nga lalaki nga nahimong usa ka propeta",
+        "Naguba sa kusog nga bagyo",
+        "Nalumos sa dagat",
+        "Naluwas gikan sa pagkasunog",
+        "Nibalik sa ilang katawhan human maluwas gikan sa isda"
+      ],
+      "answer": "Gihatagan og usa ka matarong nga anak nga lalaki nga nahimong usa ka propeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

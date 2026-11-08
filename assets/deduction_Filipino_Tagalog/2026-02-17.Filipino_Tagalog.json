@@ -1,0 +1,61 @@
+{
+  "title": "Ang Binhi ng Alitan",
+  "intro": "Bago pa man nalaman ng mundo ang malawakang tunggalian, isang matinding pagsubok sa pananampalataya at pagsunod ang naganap. Sinusuri ng salaysay na ito ang mga pagpiling ginawa ng isang indibidwal, na ang mga kilos ay nagtakda ng isang huwaran para sa mga susunod na henerasyon. Maghanda upang lutasin ang kuwento ng isang kaluluwang nakikipagbuno sa matinding selos at sa mapaminsalang mga bunga nito.",
+  "clues": [
+    "Kabilang ako sa mga unang supling na lumakad sa lupa, isang anak ng pinakaunang mag-asawang tao.",
+    "Kami ng aking kapatid ay inutusang mag-alay ng sakripisyo kay Allah, isang pagsubok sa aming katapatan.",
+    "Hindi tinanggap ang handog ko, samantalang ang sa kapatid ko ay tinanggap, na pumuno sa aking puso ng isang kakila-kilabot na emosyon.",
+    "Nagsalita ako ng mga salitang banta sa aking kapatid, dala ng kapaitan ng pagtanggi.",
+    "Tumugon ang aking kapatid nang may karunungan at kabanalan, na nagpapaalala sa akin ng katarungan ng Allah at ng takot sa Kanya.",
+    "Sa kabila ng malumanay na mga salita ng aking kapatid at ng kanyang kahandaang magpatawad, kumitil pa rin ako ng buhay, at naging isa sa mga talunan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Adan",
+        "Iblis",
+        "Propeta Noah",
+        "Qabil (Cain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang malaking baha",
+        "Ang paghahati ng dagat",
+        "Ang pagtatayo ng Kaaba",
+        "Ang pag-aalay ng mga sakripisyo",
+        "Ang tukso sa Hardin"
+      ],
+      "answer": "Ang pag-aalay ng mga sakripisyo"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Kaban",
+        "Ang mga Kawani",
+        "Ang Bundok ng Safa",
+        "Ang Sakripisyo",
+        "Ang Nasusunog na Palumpong"
+      ],
+      "answer": "Ang Sakripisyo"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naging mensahero",
+        "Nalunod",
+        "Nagtayo ng isang dakilang kaharian",
+        "Naging halimbawa ng panghihinayang",
+        "Pinagkalooban ng napakalaking kayamanan"
+      ],
+      "answer": "Naging halimbawa ng panghihinayang"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

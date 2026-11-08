@@ -1,0 +1,61 @@
+{
+  "title": "Na hÉisteoirí ón Neamhfheicthe",
+  "intro": "Taobh thiar de bhrat an domhain infheicthe, bhailigh tionól ceilte sa dorchadas, meallta ag fuaim a sháraigh gach a raibh aithne acu air. Bhí siad ag fánaíocht le fada an lá gan treoir fhíor, go dtí gur phléasc guth trí chiúnas a ríochta dofheicthe agus gur spreag sé rud éigin go domhain istigh iontu. Anocht, tugtar cuireadh duit céim a thógáil thar na scáthanna agus céannacht an ghrúpa mistéireach seo a nochtadh, a raibh a dteagmháil le focail dhiaga ina threoraigh ar ais chuig a muintir iad mar rabhaidh ar fhírinne nach bhféadfaí a choinneáil.",
+  "clues": [
+    "Is créatúir ársa muid, a bhí ann i bhfad roimh go leor náisiún a léigh tú fúthu, ach is annamh a labhraítear fúinn i scéalta daonna.",
+    "Tá ár nádúr difriúil ó do nádúr féin, fite fuaite ó eilimintí den rud dofheicthe, agus tá cumhachtaí againn a sháraíonn an gnáthrud.",
+    "Ar feadh na mblianta, bhíomar ag fánaíocht gan treoir fhíor, go dtí gur shroich fuaim sinn a chuir corraíl i rud éigin go domhain ionainn.",
+    "Chuala muid aithris nach raibh a leithéid cloiste againn riamh, focail a raibh meáchan níos mó iontu ná aon chaint ar bith.",
+    "Dhlúthaigh muid go dlúth i ngan fhios, ag ordú dár gcuid féin a bheith ina dtost, agus nuair a chríochnaigh na véarsaí, ní raibh muid in ann fanacht socair.",
+    "D’fhill muid ar ár muintir agus dhearbhaíomar: ‘A mhuintir féin, chuala muid Leabhar a nochtadh i ndiaidh Mhaois, ag deimhniú a raibh roimhe, ag treorú chun na fírinne.’"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Hawariyyun (Deisceabail Isa)",
+        "An Jinn a chreid tar éis dóibh an Corán a chloisteáil",
+        "Compánaigh na hUaimhe",
+        "Aingil na bhflaitheas is ísle",
+        "Muintir Pharaoh a lean a chonair"
+      ],
+      "answer": "An Jinn a chreid tar éis dóibh an Corán a chloisteáil"
+    },
+    "trial": {
+      "label": "Triail / Imeacht",
+      "options": [
+        "Caitheadh ​​amach sinn as diúltú umhlaíocht a dhéanamh os comhair créatúir nua-chruthaithe",
+        "Bhíomar séalaithe i bpluais ar feadh trí chéad agus naoi mbliana",
+        "Tugadh ordú dúinn trasnú farraige a scoilt romhainn",
+        "Cuireadh sinn chuig tír draíochta chun draíocht a fhoghlaim",
+        "D’éist muid le haithris i ngan fhios agus athraigh sé sinn."
+      ],
+      "answer": "D’éist muid le haithris i ngan fhios agus athraigh sé sinn."
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Lao órga déanta as ornáidí daoine",
+        "Uaimh inar mhair codladh ar feadh glúnta",
+        "Dhá aingeal i mBabilóin a mhúin eolas toirmiscthe",
+        "Leabhar a nochtadh i ndiaidh Mhaois, ag deimhniú an Tóra",
+        "Tor dóite ar bharr sliabh naofa"
+      ],
+      "answer": "Leabhar a nochtadh i ndiaidh Mhaois, ag deimhniú an Tóra"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bhí mallacht orainn go dtí Lá an Bhreithiúnais",
+        "D’éirigh muid i gcoinne rialóra chumhachtaigh agus thóg muid bacainn sa tír",
+        "Rinneadh apaí agus muca dínn",
+        "D’fhill muid ar ár muintir mar rabhaidh, ag fógairt creidimh",
+        "Báthadh muid sa bhfarraige in éineacht lenár gceannaire"
+      ],
+      "answer": "D’fhill muid ar ár muintir mar rabhaidh, ag fógairt creidimh"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

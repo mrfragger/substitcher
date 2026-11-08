@@ -1,0 +1,61 @@
+{
+  "title": "Den Näid, deen verbraucht huet",
+  "intro": "Eng Geschicht, déi méi al ass wéi all Kinnekräich oder Schrëft - déi éischt mënschlech Tragödie, déi aus Jalousie entstanen ass. Eng Séil, déi eelst vun zwee Kanner, déi vun den éischten Elteren gebuer goufen, huet mat Roserei zougekuckt, wéi e jéngere Geschwëster eng Gunst kritt huet, déi refuséiert gouf. Wat duerno koum, war déi däischterst Wiel, an huet dat éischt Blutt hannerlooss, dat jee op der Äerd vergoss gouf. Kënnt Dir d'Identitéit, d'Prüfung an déi batter Bedauern entdecken?",
+  "clues": [
+    "Ech sinn aus dem alleréischte Mënschepuer gebuer, dat op der Äerd gelieft huet.",
+    "Ech hunn eemol en Offer un Allah gemaach, awer et gouf vu mir net ugeholl.",
+    "D'Offer vu mengem Geschwëster gouf ugeholl, während mäin refuséiert gouf – eppes wat ech net erdroe konnt.",
+    "Ech hunn mäi eegene Brudder mat Zerstéierung menacéiert.",
+    "Ech war den Éischten, deen e Mord op dëser Äerd begaangen huet, andeems ech mäin eegene Geschwëster d'Liewe geholl hunn.",
+    "Allah huet eng Kreatur vun der Äerd geschéckt - e schwaarze Vugel, deen am Buedem grueft - fir mir ze léieren, wéi ech verstoppen kann, wat ech gemaach hat, an ech hunn näischt anescht wéi Bedauern hannerlooss."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Prophet Yaqub",
+        "Prophet Musa",
+        "Prophet Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Offer refuséiert vun Allah",
+        "An e grousst Feier gehäit",
+        "Als Puppelchen an engem Floss verlooss",
+        "Mat engem risege Kinnekräich getest",
+        "Befeeler, säi Jong ze opferen"
+      ],
+      "answer": "Offer refuséiert vun Allah"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Kräi, déi vun Allah geschéckt gouf",
+        "Dat gëllent Kalb",
+        "D'Ark um Bierg",
+        "De brennende Busch",
+        "D'Kamel aus dem Fiels geschnëtzt"
+      ],
+      "answer": "D'Kräi, déi vun Allah geschéckt gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gouf voller Bedauern an ënner de Verléierer",
+        "An d'Äerd verschléckt zesumme mat Schätz",
+        "Ass e noble Messenger vun Allah ginn",
+        "Duerch göttlech Barmhäerzegkeet an d'Paradies komm",
+        "Regéiert iwwer en onvergläichlecht Kinnekräich"
+      ],
+      "answer": "Gouf voller Bedauern an ënner de Verléierer"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

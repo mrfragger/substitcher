@@ -1,0 +1,60 @@
+{
+  "title": "Amžių miegas",
+  "intro": "Netrukus leisitės į kelionę laiku, susidurdami su gilia tikėjimo ir dieviškosios galios paslaptimi. Įsivaizduokite grupę asmenų, kurie nepakluso savo visuomenės normoms ir politeizmo pasaulyje laikosi monoteizmo. Jų istorija liudija apie Alacho gebėjimą apsaugoti savo teisius tarnus pačiais nepaprastiausiais būdais. Ar galite atskleisti šių nepaprastų asmenybių tapatybę?",
+  "clues": [
+    "Mes buvome maža grupelė jaunų vyrų, tikėjusių vienu Dievu, nepaisant plačiai paplitusio mūsų tautos politeizmo.",
+    "Bėgome nuo tironiško valdovo, kuris grasino mums dėl mūsų tikėjimo, bijodami persekiojimo ir mirties.",
+    "Ieškojome prieglobsčio nuošalioje vietoje, tikėdamiesi Alacho gailestingumo ir apsaugos nuo mūsų engėjų.",
+    "Mūsų Viešpats privertė mus giliai užmigti, stebuklingu miegu, nepaklusniu laiko tėkmėi.",
+    "Pabudę manėme, kad ilsėjomės tik dieną ar jos dalį, nesuvokdami, koks ilgas laikotarpis iš tikrųjų praėjo.",
+    "Korane minima, kad mes išbuvome savo valstybėje tris šimtus metų ir viršijome devynerius, tapdami ženklu žmonijai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Griovio žmonės",
+        "Tamudo žmonės",
+        "Olos žmonės",
+        "Madjano žmonės",
+        "Dramblio draugai"
+      ],
+      "answer": "Olos žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Susidūrę su dideliu potvyniu",
+        "Prarytas žemės",
+        "Ilgas stebuklingas miegas",
+        "Jų miesto sunaikinimas",
+        "Jūros padalijimas"
+      ],
+      "answer": "Ilgas stebuklingas miegas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Degantis krūmas",
+        "Kalnas",
+        "Valtis",
+        "Ola",
+        "Šulinys"
+      ],
+      "answer": "Ola"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jiems buvo suteikti didžiuliai turtai ir galia",
+        "Jie buvo paversti beždžionėmis ir kiaulėmis",
+        "Jie buvo prikelti iš miego kaip gilus ženklas",
+        "Jie buvo nuskendę dideliame tvane",
+        "Jie sukūrė didingą karalystę"
+      ],
+      "answer": "Jie buvo prikelti iš miego kaip gilus ženklas"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Strážca neuhasiteľného plameňa",
+  "intro": "Na prahu najobávanejšieho miesta v neviditeľnom svete stojí postava, poverená úlohou, po ktorej žiadna iná bytosť netúži. Keď trpiace duše volajú o milosť, prísna odpoveď sa ozýva ohnivými komnatami. Dokážete odhaliť identitu tohto večného strážcu?",
+  "clues": [
+    "Stojím pri vchode do desivého miesta trestu v neviditeľnom.",
+    "Plynajúci, neuhasiteľný oheň je stredobodom mojej slávnostnej povinnosti.",
+    "Trpiace duše volajú moje meno a prosia o úľavu od svojho nekonečného trápenia.",
+    "Keď prosia, vyhlasujem, že nikdy neodídu.",
+    "Nie som človek, ani džin – som stvorená bytosť čistej poslušnosti.",
+    "Som hlavný anjel ustanovený za večného strážcu pekelného ohňa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Malik",
+        "Džibríl",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Ľudia z pekla prosia o ukončenie ich mučenia",
+        "Trúbenie na trúbu signalizuje Súdny deň",
+        "Korán je zjavený do Prorokovho srdca",
+        "Prorok je uvrhnutý do veľkého ohňa vlastným ľudom",
+        "Mohutný múr je postavený, aby zadržal skazený národ"
+      ],
+      "answer": "Ľudia z pekla prosia o ukončenie ich mučenia"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Pekelný oheň (Džahannam)",
+        "Lotosový strom na hranici raja",
+        "Prenikavá trúbka",
+        "Palica, ktorá sa premení na hada",
+        "Veľkolepý božský trón"
+      ],
+      "answer": "Pekelný oheň (Džahannam)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Obyvateľom pekla sa hovorí, že tam zostanú naveky",
+        "Obyvatelia pekla sú odpustení a prepustení",
+        "Obyvatelia pekla dostávajú druhú šancu na vieru",
+        "Obyvatelia pekla sú presunutí na miesto chladu",
+        "Obyvatelia pekla sú úplne zničení bleskom"
+      ],
+      "answer": "Obyvateľom pekla sa hovorí, že tam zostanú naveky"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

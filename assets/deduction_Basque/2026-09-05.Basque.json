@@ -1,0 +1,61 @@
+{
+  "title": "Hondoratu zen handitasuna",
+  "intro": "Imajinatu hau: jantzi ederrez jantzitako eta irudimenetik haratago doazen altxorrez inguratutako arima bat. Pertsona honek uste zuen bere aberastasuna bere distiraren bidez lortu zuela, benetako horniduraren iturria inoiz ez aitortuz. Profeta boteretsu baten jarraitzaileen artean ibiliz, pertsona honek umiltasunerako dei guztiei uko egin zien. Gaur, bere azken atsedenleku bihurtu zen fortuna bikaina zuen pertsonaia baten nortasuna aurkitzen dugu.",
+  "clues": [
+    "Nazio burugogor bati egiaren alde deitu zion profeta baten garaian bizi izan nintzen.",
+    "Aukeratutako komunitate bateko kide nintzen, baina nire bihotza mezutik aldendu zen.",
+    "Urreak eta zilarrak jainkozko edozein agindu baino gehiago liluratu ninduten.",
+    "Nire altxor kutxak hain handiak bihurtu ziren, ezen gizon talde sendo batek ere ia ez baitzituen giltzak altxatu ahal izan.",
+    "Harrotu nintzen nire aberastasuna nire jakintzari esker eman zidatela.",
+    "Azkenean, lurrak irentsi gintuen ni eta nire etxebizitza osoa, abisu gisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Aberastasunaren gaineko harrokeria eta karitatea ukatzea",
+        "Urtutako bitxietatik urrezko idolo bat forjatzea",
+        "Jainkotasuna erreinu boteretsu baten gainean aldarrikatuz",
+        "Mekako lehen sinestunen jazarpena",
+        "Etxe Sakratua suntsitzeko kanpaina baten buru"
+      ],
+      "answer": "Aberastasunaren gaineko harrokeria eta karitatea ukatzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Gizon indartsu askoren giltzak zamatu zituzten altxorrak",
+        "Soinua sortzen zuen urrezko txahal bat",
+        "Lurralde urrun bateko tronu loriatsu bat",
+        "Su biziz betetako lubaki bat",
+        "Gerra-elefanteen armada indartsu bat"
+      ],
+      "answer": "Gizon indartsu askoren giltzak zamatu zituzten altxorrak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurrak irentsi zuen etxebizitzarekin batera",
+        "Itsasoan itota armada batekin",
+        "Suzko zulo batean bizirik erreta",
+        "Haize bortitz eta ozen batek suntsitua",
+        "Eztanda indartsu bakar batek jota"
+      ],
+      "answer": "Lurrak irentsi zuen etxebizitzarekin batera"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

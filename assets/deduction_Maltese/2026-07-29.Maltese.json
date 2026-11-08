@@ -1,0 +1,61 @@
+{
+  "title": "L-Insegwiment Qortiż",
+  "intro": "Fil-kurituri tal-poter, figura ta’ status għoli nħabbet ma’ qaddej li s-sbuħija tiegħu kienet stramba. Din l-infatuazzjoni wasslet għal sensiela ta’ avvenimenti li kienu se jittestjaw il-lealtà, jikxfu veritajiet moħbija, u fl-aħħar mill-aħħar jaffermaw l-innoċenza tal-qaddej.",
+  "clues": [
+    "Għext fl-art tan-Nil, f'palazz ta' influwenza kbira.",
+    "Raġel żagħżugħ daħal f'dari, u l-preżenza tiegħu ħasditni.",
+    "Ippruvajt nisseduċih, imma hu fittex kenn fil-Mulej tiegħu.",
+    "Qattajtlu l-libsa minn wara, iżda l-evidenza wriet il-qerq tiegħi.",
+    "Biex insikkt it-tqassis tan-nisa nobbli, stedinthom għal laqgħa u poġġejtilhom oġġetti li jaqtgħu f’idejhom.",
+    "Fl-aħħar, stqarrejt pubblikament il-ħtija tiegħi, u ammettejt il-verità quddiem is-sultan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Mara ta' Al-Aziz",
+        "Asiya (Mart il-Fargħun)",
+        "Bilqis (Reġina ta' Saba)",
+        "Maryam (Omm Isa)",
+        "Omm Musa"
+      ],
+      "answer": "Il-Mara ta' Al-Aziz"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Hija ppruvat tisseduċi lill-Profeta Yusuf",
+        "Hija ppruvat toqtol lill-Profeta Musa",
+        "Hija sostniet li hija alla",
+        "Hija bniet torri biex tisfida lil Alla",
+        "Hija mexxiet armata kontra Mekka"
+      ],
+      "answer": "Hija ppruvat tisseduċi lill-Profeta Yusuf"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Qmis imqatta’ minn wara",
+        "Għoġol tad-deheb",
+        "Bastun li nbidel f’serp",
+        "Ġemela",
+        "Lampa"
+      ],
+      "answer": "Qmis imqatta’ minn wara"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Hija stqarret u rrikonoxxiet il-verità",
+        "Hija għerqet mal-armata tagħha",
+        "Hi nbidlet f’pilastru tal-melħ",
+        "Hija nbelgħet mill-art",
+        "Hija nqerdet minn riħ jgħajjat"
+      ],
+      "answer": "Hija stqarret u rrikonoxxiet il-verità"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

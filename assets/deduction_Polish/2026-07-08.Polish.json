@@ -1,0 +1,61 @@
+{
+  "title": "Zdrajcy Wybranych",
+  "intro": "Na przestrzeni dziejów boscy posłańcy wędrowali wśród ludzkości, a niektórzy z ich najbliższych nie rozpoznali światła. Ta historia koncentruje się na dwóch duszach, których bliskość proroctwa stała się dla nich próbą, a ich dziedzictwo ponadczasową lekcją.",
+  "clues": [
+    "Żyliśmy w czasach wielkich proroków, lecz nasze oczy pozostawały zamknięte na prawdę, którą oni przynieśli.",
+    "Nasze domy były wypełnione boskim objawieniem, lecz nasze serca były zatwardziałe.",
+    "Wyszłyśmy za mąż za mężczyzn, którzy zostali wybrani, aby ostrzegać swój lud.",
+    "Kiedy nadeszła kara, nie szukaliśmy schronienia w arce ani nie uciekaliśmy przed palącym deszczem, ponieważ drwiliśmy z ostrzeżeń.",
+    "Jesteśmy wymienieni w Koranie jako przykład dla niewierzących, pokazując, że nawet bliska relacja z prorokiem nie zbawia.",
+    "Jesteśmy żonami Noego i Lota, którzy ich zdradzili i dlatego zostali potępieni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Żony Noego i Lota",
+        "Żony Ibrahima i Isma’ila",
+        "Żony Musy i Haruna",
+        "Żony Dawuda i Sulaymana",
+        "Żony Ajjuba i Yunusa"
+      ],
+      "answer": "Żony Noego i Lota"
+    },
+    "trial": {
+      "label": "Na czym polegał ich proces?",
+      "options": [
+        "Wyszły za mąż za proroków, ale nie wierzyły",
+        "Byli bezpłodni i obwiniali proroków",
+        "Byli bogaci i aroganccy",
+        "Iblis kusił ich, żeby opuścili swoje domy",
+        "Oddawali cześć Złotemu Cielcowi"
+      ],
+      "answer": "Wyszły za mąż za proroków, ale nie wierzyły"
+    },
+    "location": {
+      "label": "Z czym wiązał się ich los?",
+      "options": [
+        "Powódź i deszcz kamieni",
+        "Silny wiatr",
+        "Trzęsienie ziemi",
+        "Plaga szarańczy",
+        "Rozdzielenie morza"
+      ],
+      "answer": "Powódź i deszcz kamieni"
+    },
+    "outcome": {
+      "label": "Jaki był ich koniec?",
+      "options": [
+        "Zginęli wraz z niewiernymi",
+        "Pokutowali i zostali zbawieni",
+        "Pozostali bezdzietni",
+        "Zostali wygnani na zawsze",
+        "Zmienili się w małpy i świnie"
+      ],
+      "answer": "Zginęli wraz z niewiernymi"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

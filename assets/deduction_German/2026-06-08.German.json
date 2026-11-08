@@ -1,0 +1,61 @@
+{
+  "title": "Der Bittsteller des Heiligtums",
+  "intro": "In der Stille der Nacht rief eine gläubige Seele innerhalb der heiligen Mauern eines sakralen Ortes zum Allerbarmer. Jahre unerschütterlichen Glaubens und Geduld sollten nun mit einem Wunder belohnt werden, das Freude und ein prophetisches Erbe bringen würde.",
+  "clues": [
+    "Ich verbrachte meine Tage und Nächte in Andacht in einem heiligen Heiligtum und flehte unaufhörlich zu meinem Herrn.",
+    "Ich wurde alt, und meine Frau war unfruchtbar, doch ich verlor nie die Hoffnung auf Allahs Barmherzigkeit.",
+    "Mir wurde ein Sohn geschenkt, namens Yahya, der ein Prophet und ein Leuchtfeuer der Gerechtigkeit wurde.",
+    "Ich selbst war ein Prophet, gesandt, um die Kinder Israels zu führen.",
+    "Ich war ein Nachkomme des Propheten Harun und diente als Priester im Tempel.",
+    "Mir wurde die Betreuung von Maryam, der Mutter von Isa, anvertraut, und ich wurde Zeuge ihrer Wunder."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Zakariyya",
+        "Prophet Yahya",
+        "Prophet Ilyas",
+        "Prophet Ishaq",
+        "Prophet Ya'qub"
+      ],
+      "answer": "Prophet Zakariyya"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er schenkte uns im Alter einen Sohn.",
+        "Aus einem lodernden Feuer gerettet",
+        "Aus dem Bauch eines Fisches gerettet",
+        "Überlebte eine große Flut",
+        "Von einer schweren Krankheit geheilt"
+      ],
+      "answer": "Er schenkte uns im Alter einen Sohn."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Mihrab (Gebetsnische)",
+        "Die Kaaba",
+        "Der brennende Busch",
+        "Die Bundeslade",
+        "Die Höhle der Sieben Schläfer"
+      ],
+      "answer": "Der Mihrab (Gebetsnische)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihm wurde ein gerechter Sohn geschenkt, der ein Prophet wurde.",
+        "Von einem heftigen Sturm zerstört",
+        "Im Meer ertrunken",
+        "Vor dem Verbrennen bewahrt",
+        "Sie kehrten zu ihrem Volk zurück, nachdem sie vor einem Fisch gerettet worden waren."
+      ],
+      "answer": "Ihm wurde ein gerechter Sohn geschenkt, der ein Prophet wurde."
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

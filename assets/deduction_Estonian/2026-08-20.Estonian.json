@@ -1,0 +1,61 @@
+{
+  "title": "Trotsi hääl",
+  "intro": "Kaua enne seda, kui esimene inimene maa peal kõndis, seisis täiusliku rahu maailmas tohutu väega olend, ümbritsetuna kõige pühendunumatest hingedest. Kui anti üksainus käsk, kummardus iga hääl alistudes – kuid üks hääl tõusis trotsides ja see trots kajas läbi iga ajastu kuni viimse päevani. Kes on see langenud olend?",
+  "clues": [
+    "Mind loodi millestki, mis eredalt põles, samas kui teised minu kõrval vormiti sellest, millel nad kõndisid.",
+    "Ma elasin pühas paigas pühendunud olendite seas, kuni üksainus käsk kõik pea peale pööras.",
+    "Kui käsk tuli, kummardas iga hing peale minu; minu keeldumine oli sündinud uhkusest.",
+    "Mind heideti sellest pühast paigast välja, märgistatuna igaveseks kestva needusega.",
+    "Ma anusin aega ülestõusmispäevani ja see anti. Ma vandusin läheneda igale hingele ja juhtida nad eksiteele.",
+    "Kui pasun kõlab, siis jagavad need, kes mulle järgnesid, minu saatust, liitudes minuga lõõmavas tules, kus ükski abiline ei suuda neid päästa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Iblis",
+        "Vaarao (Fir'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (Ibrahimi isa)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Määrav hetk",
+      "options": [
+        "Keeldudes Aadama ees kummardamast",
+        "Jumaluse haaramine suure impeeriumi üle",
+        "Plaanis õiglane tulle paisata",
+        "Rahva juhtimine kuldset kuju kummardama",
+        "Suure armee uputamine merre"
+      ],
+      "answer": "Keeldudes Aadama ees kummardamast"
+    },
+    "location": {
+      "label": "Püha paik",
+      "options": [
+        "Jannah (Paradiis)",
+        "Suurepärane palee Niiluse ääres",
+        "Taeva poole sirutuv telliskivitorn",
+        "Ehted kuldvasikas",
+        "Lõõmava tulega ahi"
+      ],
+      "answer": "Jannah (Paradiis)"
+    },
+    "outcome": {
+      "label": "Lõplik saatus",
+      "options": [
+        "Välja heidetud, hingetõmbeajaga kuni lubatud päevani",
+        "Uppunud lainete alla armeedega",
+        "Taevast alla visatud kivide poolt purustatud",
+        "Lennul olevate lindude parvede poolt tükkideks rebitud",
+        "Ühe võimsa plahvatuse poolt tarbitud"
+      ],
+      "answer": "Välja heidetud, hingetõmbeajaga kuni lubatud päevani"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

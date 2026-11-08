@@ -1,0 +1,61 @@
+{
+  "title": "Il-Bennej Sod tas-Salvazzjoni",
+  "intro": "Figura ta’ paċenzja immensa u konvinzjoni soda, dan l-individwu ddedika għadd bla tarf ta’ snin għal missjoni divina, fejn iffaċċja disprezz u rifjut bla waqfien. L-istorja tagħhom hija xhieda qawwija tal-fidi quddiem nuqqas ta’ twemmin kbir, li laħqet il-qofol tagħha f’avveniment monumentali li fassal mill-ġdid id-dinja.",
+  "clues": [
+    "Iddedikajt perjodu twil ħafna ta’ ħajti nsejjaħ lill-poplu tiegħi għall-qima ta’ Alla.",
+    "In-nies tiegħi żebilħuni u akkużawni b’żball manifest u ġenn.",
+    "Ġejt ordnat nibni xi ħaġa li dehret mhux tas-soltu għall-komunità tiegħi li mhix magħluqa mal-baħar.",
+    "Ftit biss emmnu u ngħaqdu miegħi u mal-familja tiegħi f'din il-kostruzzjoni unika.",
+    "Ġorrt pari ta’ kull ħlejqa ħajja abbord, kif qalli Alla.",
+    "Dilluvju kbir għarraq l-art, u salva biss lil dawk li kienu miegħi fil-bastiment tiegħi, filwaqt li ibni stess miet minħabba n-nuqqas ta’ twemmin tiegħu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Salih",
+        "Profeta Hud",
+        "Profeta Nuh",
+        "Il-Profeta Dawud",
+        "Il-Profeta Sulayman"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Il-qerda minn terremot",
+        "Il-qsim tal-baħar",
+        "L-għargħar kbir",
+        "In-nar ta’ Nimrod",
+        "Il-pesta taż-żrinġijiet"
+      ],
+      "answer": "L-għargħar kbir"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-għollieq jaqbad",
+        "L-arka",
+        "Il-bir tal-ilma",
+        "L-għoġol tad-deheb",
+        "Il-muntanja ta’ Tur"
+      ],
+      "answer": "L-arka"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Irċieva saltna",
+        "In-nies tiegħu ġew trasformati f’xadini",
+        "Il-poplu tiegħu ġie salvat b’miraklu",
+        "In-nies tiegħu għerqu",
+        "In-nies tiegħu ntlaqtu minn sajjetta"
+      ],
+      "answer": "In-nies tiegħu għerqu"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

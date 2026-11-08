@@ -1,0 +1,61 @@
+{
+  "title": "Röddin í hinum fornu söndum",
+  "intro": "Meðal fyrstu sendiboða Allahs var einn sem nafnið skín stuttlega en merkingarbært í Kóraninum. Þessi einstaklingur lifði löngu áður en margir miklir spámenn voru sendir og var þekktur fyrir óhagganlega sannleiksgildi og þolinmæði. Saga þeirra er stutt en arfleifð þeirra varir í eilífum heimildum. Hver er þessi göfuga sál?",
+  "clues": [
+    "Ég er einn af fyrstu boðberunum, nefndur stuttlega en þýðingarmikið í Kóraninum.",
+    "Persónuleiki minn einkenndist af óhagganlegri skuldbindingu við sannleikann.",
+    "Ég er minnst í bók Allah meðal þeirra sem voru staðfastir og þolinmóðir.",
+    "Aðeins fáein stutt vers í Kóraninum segja sögu mína.",
+    "Allah heiðraði mig á þann hátt sem er einstakur minn, ekki deilt með öðrum spámönnum.",
+    "Ég var hækkaður í stöðu, sem er einstakur heiður í Kóraninum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Idris",
+        "Spámaðurinn Ilyas",
+        "Dhul-Kifl",
+        "Spámaðurinn Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Spámaðurinn Idris"
+    },
+    "trial": {
+      "label": "Skilgreinandi augnablik",
+      "options": [
+        "Ég var reistur upp í háa stöðu af Allah",
+        "Ég smíðaði mikla örk til að bjarga fólki mínu",
+        "Ég áskoraði galdramenn Faraós",
+        "Ég var kastað í gryfju af bræðrum mínum",
+        "Ég missti sjónina af sorg yfir syni mínum"
+      ],
+      "answer": "Ég var reistur upp í háa stöðu af Allah"
+    },
+    "location": {
+      "label": "Heilög tilvísun",
+      "options": [
+        "Súra Al-Anbiya",
+        "Súra Al-Kahf",
+        "Súra Taha",
+        "Súra Ash-Shu'ara",
+        "Súra Yasin"
+      ],
+      "answer": "Súra Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Guðdómlegur heiður",
+      "options": [
+        "Hástöð ólík öllum öðrum",
+        "Yfirráð yfir djinn og vindum",
+        "Ríki óviðjafnanlegrar dýrðar",
+        "Erfingi frá elli minni",
+        "Sáttmáli innsiglaður með Allah"
+      ],
+      "answer": "Hástöð ólík öllum öðrum"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

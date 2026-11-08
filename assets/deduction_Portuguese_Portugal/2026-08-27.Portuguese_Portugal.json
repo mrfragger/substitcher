@@ -1,0 +1,61 @@
+{
+  "title": "O Escolhido Articulado",
+  "intro": "À sombra de uma montanha onde palavras divinas desceram, a fé de um povo vacilou sob o brilho do ouro. Uma alma, dotada de eloquência, ergueu-se como apoio a uma missão maior, mas enfrentou um momento de profunda provação. Quando o mensageiro escolhido ascendeu a um compromisso sagrado, essa figura permaneceu para trás, suplicando a uma nação inquieta. Quem é essa alma firme cuja voz se ergueu contra a idolatria?",
+  "clues": [
+    "Fui escolhido por Alá para ser um profeta, embora minha história seja frequentemente contada junto com a de outro.",
+    "Fui enviado para governar um tirano, mas meu papel era dar apoio, não liderar.",
+    "Eu tinha o dom da eloquência, e minhas palavras serviam para amolecer corações.",
+    "Quando meu companheiro partiu para um compromisso sagrado, fiquei encarregado de guiar um povo inquieto.",
+    "Em sua impaciência, eles forjaram uma imagem a partir de seus adornos, e eu implorei que permanecessem fiéis a Alá.",
+    "Meu companheiro voltou e me agarrou, mas eu expliquei que as pessoas me dominaram e quase me mataram; eu não estava entre os malfeitores."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Moisés",
+        "Profeta Harun",
+        "Profeta Isa",
+        "Profeta Yahya",
+        "Profeta Zacarias"
+      ],
+      "answer": "Profeta Harun"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Ser jogado no fogo",
+        "Ser jogado em um poço",
+        "Enfrentando o incidente do bezerro de ouro",
+        "O teste de uma doença grave",
+        "O teste de perder riqueza e filhos"
+      ],
+      "answer": "Enfrentando o incidente do bezerro de ouro"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O bezerro de ouro",
+        "A equipe",
+        "A Arca da Aliança",
+        "Os comprimidos",
+        "A sarça ardente"
+      ],
+      "answer": "O bezerro de ouro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Punido severamente",
+        "Perdoado e exonerado",
+        "Feito rei",
+        "Levado para o céu",
+        "Dada uma nova escritura"
+      ],
+      "answer": "Perdoado e exonerado"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

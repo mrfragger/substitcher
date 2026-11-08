@@ -1,0 +1,61 @@
+{
+  "title": "Püha olendi test",
+  "intro": "Rahvale, kes oli eksiteele sattunud, saadeti märk. Nende mugava elu keskel saabus hoiatus – millega kaasnes tähelepanuväärne olend, kellest pidi saama nende usu lõplik proovikivi. Nende vastus pitseeris nende saatuse igaveseks. Kas suudad avastada, kes selle hoiatuse edastas ja mis sai neist, kes selle hülgasid?",
+  "clues": [
+    "Me olime rahvas, keda olid juhatanud eelmised sõnumitoojad enne meid.",
+    "Mäest ilmus välja võimas olend, märk meie Issandalt sellele rahvale.",
+    "Ma ütlesin neile: „See on Allahile kuuluv kaamel, seega laske tal süüa Allahi maast ja ärge puudutage teda kahju tekitamiseks.“",
+    "Aga rahvas murdis mu kaameli kintsud, trotsides oma Issanda käsku.",
+    "Ma olen vaid teie Issanda sõnumitooja, läkitatud tõega – ma olen ustav prohvet ja teener.",
+    "Mis puutub üleastujatesse, siis meie Issand lõi neid kõuekärgatusega ja nad jäid oma kodudes liikumatult seisma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "A'adi rahva prohvet Hud",
+        "Thamudi rahva prohvet Salih",
+        "Midjani prohvet Shu'aib",
+        "Soodoma rahva prohvet Lut",
+        "Prohvet Noah, laeka omanik"
+      ],
+      "answer": "Thamudi rahva prohvet Salih"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Veeuputus, mis uputas uskmatu rahva",
+        "Maavärin, mis hävitas patuse linna",
+        "Jumaliku märgi ja katsumusena saadetud emane kaamel",
+        "Torm, mis karistas Midjani rahvast",
+        "Loti rahva kividega hävitamine"
+      ],
+      "answer": "Jumaliku märgi ja katsumusena saadetud emane kaamel"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Soodoma linn Jordani orus",
+        "Al-Hijri org Hijazi ja Süüria vahel",
+        "Muistne A'adi maa Lõuna-Araabias",
+        "Midjani metsad Punase mere lähedal",
+        "Judi mäe tasandikud Mesopotaamias"
+      ],
+      "answer": "Al-Hijri org Hijazi ja Süüria vahel"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Nad päästeti pärast meeleparandust ja uskumist",
+        "Kivivihm hävitas nad täielikult",
+        "Kõuekõmin lõi nad liikumatult seisma",
+        "Neid kandis minema tugev tuul",
+        "Maavärin neelas nad maa sisse"
+      ],
+      "answer": "Kõuekõmin lõi nad liikumatult seisma"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

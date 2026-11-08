@@ -1,0 +1,61 @@
+{
+  "title": "Sauti ya Uaminifu",
+  "intro": "Muda mrefu kabla ya mwanadamu wa kwanza kutembea duniani, kiumbe mwenye nguvu nyingi alisimama katika ulimwengu wa amani kamilifu, akizungukwa na roho zilizojitolea zaidi. Amri moja ilipotolewa, kila sauti iliinama kwa unyenyekevu—lakini sauti moja ilipanda kwa uasi, na uasi huo ungesikika katika kila kizazi hadi Siku ya mwisho. Ni nani huyu kiumbe aliyeanguka?",
+  "clues": [
+    "Niliumbwa kutokana na kitu kilichowaka kwa uangavu, huku wengine waliokuwa kando yangu wakiumbwa kutokana na kile walichotembea juu yake.",
+    "Niliishi mahali patakatifu miongoni mwa viumbe waliojitolea, hadi amri moja ilipogeuza kila kitu chini chini.",
+    "Amri ilipofika, kila roho iliinama isipokuwa mimi; kukataa kwangu kulitokana na kiburi.",
+    "Nilifukuzwa kutoka mahali hapo patakatifu, nikiwa nimetiwa alama ya laana ambayo ingedumu milele.",
+    "Niliomba muda hadi Siku ya Kiyama, na ikakubaliwa. Niliapa kuikaribia kila roho na kuipotosha.",
+    "Tarumbeta itakapolia, wale walionifuata watashiriki hatima yangu, wakiungana nami katika moto unaowaka ambapo hakuna msaidizi awezaye kuwaokoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Iblis",
+        "Farao (Firauni)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (baba yake Ibrahim)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Wakati wa Kufafanua",
+      "options": [
+        "Kukataa kusujudu mbele ya Adamu",
+        "Kujipatia uungu juu ya himaya kubwa",
+        "Kupanga kumtupa mtu mwadilifu kwenye moto",
+        "Kuwaongoza watu kuabudu sanamu ya dhahabu",
+        "Kuzamisha jeshi kubwa baharini"
+      ],
+      "answer": "Kukataa kusujudu mbele ya Adamu"
+    },
+    "location": {
+      "label": "Mahali Patakatifu",
+      "options": [
+        "Jannah (Peponi)",
+        "Jumba la kifahari kwenye Mto Nile",
+        "Mnara wa matofali unaoelekea angani",
+        "Ndama wa dhahabu aliyetengenezwa kwa mapambo",
+        "Tanuru ya moto unaowaka"
+      ],
+      "answer": "Jannah (Peponi)"
+    },
+    "outcome": {
+      "label": "Hatima ya Mwisho",
+      "options": [
+        "Tupwa nje, kwa muda mfupi hadi Siku iliyoahidiwa",
+        "Kuzama na majeshi chini ya mawimbi",
+        "Kupondwa na mawe yaliyorushwa kutoka angani",
+        "Imepasuka na makundi ya ndege wanaoruka",
+        "Imeteketezwa na mlipuko mmoja mkubwa"
+      ],
+      "answer": "Tupwa nje, kwa muda mfupi hadi Siku iliyoahidiwa"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

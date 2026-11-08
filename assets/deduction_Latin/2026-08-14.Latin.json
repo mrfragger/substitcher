@@ -1,0 +1,61 @@
+{
+  "title": "Manus Malditae",
+  "intro": "In angiportis flexuosis antiquae Meccae stas, ubi anima olim potens et divitiosa a veritatis vocatione aversa est. Historia huius personae acerba est admonitio nexus sanguinis vincula superbiae superare non posse. Quis est hic cuius nomen cum igne expectante resonat?",
+  "clues": [
+    "Per vias Meccae ambulavi cum superbia quae me ad veritatem excaecavit, quamvis nuntius mei ipsius sanguinis esset.",
+    "Possessiones meae ingentes erant, sed maledictio potius quam scutum factae sunt.",
+    "Liber gubernationis de mea ruina loquitur, affirmans manus meas et corpus meum perituros esse.",
+    "Coniunx mea se inimicitiarum expeditioni meae adiunxit, spinas colligens ut in viam eius qui ad Deum invocabat spargeret.",
+    "Die iudicii, in ignem flammae ardentis demergar, et sponsa mea funem e fibra palmae circa collum habebit.",
+    "Nomine notus sum quod significat 'pater flammae' — nomen quod sedem meam aeternam praenuntiat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Iudicium vel Eventum Clavem",
+      "options": [
+        "Prophetae adversatus est et in Corano maledictus est.",
+        "Exercitum ad Kaaba delendum duxit",
+        "Conatus est prophetam necare lapidibus iactis",
+        "Lunae divisionem credere recusavit",
+        "Turrim aedificavi ut ad caelum perveniret"
+      ],
+      "answer": "Prophetae adversatus est et in Corano maledictus est."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ignis Inferni Ardens",
+        "Baculus Musae",
+        "Arca Nuh",
+        "Puteus Zamzam",
+        "Vitulus Aureus"
+      ],
+      "answer": "Ignis Inferni Ardens"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In ignem ardentem ingredietur, et divitiae eius ei non proderunt.",
+        "Paenitentia egit et fidelis factus est",
+        "Postquam se ab retractavit, veniam accepit.",
+        "Martyr mortuus est",
+        "In caelum assumptus est"
+      ],
+      "answer": "In ignem ardentem ingredietur, et divitiae eius ei non proderunt."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

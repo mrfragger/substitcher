@@ -1,0 +1,61 @@
+{
+  "title": "An Caomhnóir ar Bhruach na hAbhann",
+  "intro": "I dtír inar thug foraithne tíoránta brón ar go leor tithe, fuair anam teachtaireacht a sháraigh gach eagla. Le croí lán de mhuinín, chuir siad tús le gníomh creidimh a d’athródh cúrsa náisiúin. De réir mar a d’iompair na huiscí lastas luachmhar, mheasc dóchas leis na sruthanna.",
+  "clues": [
+    "Bhí mé ina chónaí i ré an leatrom agus an eagla.",
+    "Fuair ​​mé inspioráid dhiaga a thug misneach dom.",
+    "Tugadh ordú dom gan eagla ná brón a bheith orm.",
+    "Chuir mé mo leanbh i gcófra agus leag mé ar an uisce é.",
+    "Fuair ​​teaghlach an rialóra mo leanbh, ach lean mo leanbh eile é.",
+    "Athcheanglaíodh mé le mo leanbh chun é a chothú, díreach mar a gheall Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Máthair Mhaois",
+        "Bean chéile an Fharó",
+        "Deirfiúr Mhaois",
+        "Máthair Íosa",
+        "Banríon Sheba"
+      ],
+      "answer": "Máthair Mhaois"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Spreagadh chun leanbh a chaitheamh isteach in abhainn",
+        "Ag tabhairt dúshlán do chomhrac draíochta",
+        "Á leanúint ag arm",
+        "Ag trasnú farraige a scar",
+        "Ag tógáil tí naofa"
+      ],
+      "answer": "Spreagadh chun leanbh a chaitheamh isteach in abhainn"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cófra curtha san abhainn",
+        "Tor dóite",
+        "Sloinne a d’iompaigh ina nathair",
+        "Lao órga",
+        "Ríchathaoir"
+      ],
+      "answer": "Cófra curtha san abhainn"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Tugadh an leanbh ar ais chuig an altra go sábháilte",
+        "Cailleadh an leanbh go deo",
+        "Tógadh an leanbh go tír i bhfad i gcéin",
+        "Rinneadh rialóir den leanbh láithreach",
+        "Uchtáladh an leanbh ag ceannaí saibhir"
+      ],
+      "answer": "Tugadh an leanbh ar ais chuig an altra go sábháilte"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

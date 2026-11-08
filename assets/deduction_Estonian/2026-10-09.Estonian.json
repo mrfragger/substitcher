@@ -1,0 +1,61 @@
+{
+  "title": "Kuulamata kutse ülbuse maal",
+  "intro": "Sa seisad kunagi suure tsivilisatsiooni varemetes, kus võim ja uhkus ei tundnud piire. Nende seas kõndis sõnumitooja, kes kutsus tõde, kuid nende südamed olid paadunud. Hoiatust ei võetud kuulda ja taevast endast sai viha instrument. Kes oli see sõnumitooja ja mis sai neist, kes kutse tagasi lükkasid?",
+  "clues": [
+    "Mind läkitati rahva juurde, kellel polnud võrratut jõudu ja kes ehitas igale kõrgendikule mälestusmärgi.",
+    "Mu rahvas pidas end võitmatuks ja ütles: „Kes on meist vägevam?”",
+    "Ma kutsusin neid üles üksnes Allahi kummardama, aga nad süüdistasid mind rumaluses ja valetamises.",
+    "Nad nõudsid mul lubatud karistuse toomist, kui ma aus olen.",
+    "Allah saatis nende peale viljatu tuule, mis ei säästnud midagi, mille peale see tuli.",
+    "Mina ja need, kes minuga koos uskusid, päästeti Allahi halastuse läbi, samas kui uskmatud hävitati täielikult."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Hud",
+        "Prohvet Salih",
+        "Prohvet Shuaib",
+        "Prohvet Lut",
+        "Prohvet Noa"
+      ],
+      "answer": "Prohvet Hud"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Lagunev tuul hävitas uskmatud",
+        "Suur veeuputus haaras uskmatud enda alla",
+        "Kivide vihm sadas alla",
+        "Valju karje haaras uskmatuid",
+        "Uskmatuid tabas maavärin"
+      ],
+      "answer": "Lagunev tuul hävitas uskmatud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Halastamatu tuul",
+        "Puidust laev",
+        "Emane kaamel",
+        "Savikivide vihm",
+        "Lõõmav tuli"
+      ],
+      "answer": "Halastamatu tuul"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Hud ja usklikud päästeti, uskmatud aga hävitati",
+        "Hud ülendati kõrgele seisusele",
+        "Hudi rahvas tappis",
+        "Hudi rahvas kahetses ja pääses",
+        "Hud lahkus oma rahvast enne karistust"
+      ],
+      "answer": "Hud ja usklikud päästeti, uskmatud aga hävitati"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

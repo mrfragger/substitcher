@@ -1,0 +1,61 @@
+{
+  "title": "Jaribio la Moto Mtakatifu",
+  "intro": "Katika nchi ya kale ambapo ibada ya mawe yaliyochongwa ilikuwa imekita mizizi katika kila nyumba, mtu mmoja alisimama tofauti. Kupitia imani isiyoyumba na ulinzi wa kimungu, walikabiliwa na kile ambacho kingekuwa kifo cha hakika - na wakaondoka bila kujeruhiwa. Je, unaweza kufichua utambulisho wa nafsi hii ya ajabu?",
+  "clues": [
+    "Nililelewa miongoni mwa watu walioabudu sanamu walizokuwa wamezichonga kwa mikono yao wenyewe, wakiamini kwamba vitu hivi vina nguvu za kimungu.",
+    "Nilipopinga imani zao, walinipuuza mwanzoni, lakini sikuweza kukaa kimya kuhusu ukweli nilioujua.",
+    "Siku moja walipokusanyika mbali, niliharibu sanamu zao, na kuacha kubwa zaidi pekee bila kuguswa.",
+    "Waliporudi na kuona nilichokuwa nimefanya, viongozi wao waliamuru kujengwa kwa moto mkubwa, wakikusudia kunitupa kwenye moto.",
+    "Walinitupa kwenye moto unaowaka, lakini Bwana wa walimwengu aliamuru iwe baridi na salama kwangu.",
+    "Nilitoka kwenye miali ya moto bila madhara kabisa, huku wale waliopanga njama dhidi yangu wakikabiliwa na uharibifu mkubwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ibrahimu",
+        "Nabii Musa",
+        "Nabii Nuh",
+        "Nabii Isa",
+        "Nabii Yusufu"
+      ],
+      "answer": "Nabii Ibrahimu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutupwa kwenye moto unaowaka",
+        "Kumezwa na nyangumi mkubwa",
+        "Kunusurika mafuriko makubwa",
+        "Kutupwa kwenye kisima kirefu",
+        "Kukabiliana na wachawi wa mfalme"
+      ],
+      "answer": "Kutupwa kwenye moto unaowaka"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Moto mkubwa wa kuni unaowaka",
+        "Sanduku kubwa la mbao",
+        "Sanamu ya ndama ya dhahabu",
+        "Kikapu kinachoelea juu ya mto",
+        "Kiti cha enzi kizuri sana"
+      ],
+      "answer": "Moto mkubwa wa kuni unaowaka"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mwenyezi Mungu aliufanya moto uwe wa baridi na salama",
+        "Safina ilitua salama juu ya mlima",
+        "Sanamu ya dhahabu iliyeyuka mbele ya macho yao",
+        "Mtawala na jeshi lake walizama baharini",
+        "Kipofu aliona tena"
+      ],
+      "answer": "Mwenyezi Mungu aliufanya moto uwe wa baridi na salama"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

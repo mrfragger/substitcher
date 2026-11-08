@@ -1,0 +1,61 @@
+{
+  "title": "Ykbalyň Üýtgedilen Sadaka",
+  "intro": "Adamzadyň ilkinji günlerinde bir jan arassa niýet bilen sowgat hödürläpdir. Şeýle-de bolsa, kabul etmegiň kölegesinde göriplik gizlenipdir. Takwasy we pajygaly soňy ylahy wahyda ebedileşdirilen bu şahsyýetiň hekaýasyny açyň.",
+  "clues": [
+    "Men adamzadyň ilkinji nesilleriniň arasyndadym.",
+    "Men Rebbime gurbanlyk berdim we ol hoş kabul edildi.",
+    "Agamyň hödürlän zady ret edildi we göriplik onuň ýüregini garaňkylaşdyrdy.",
+    "Men oňa: «Eger sen meni öldürmek üçin elini uzatsaň, men seni öldürmek üçin elini uzatmaryn; hakykatdanam men älemleriň Rebbi bolan Alladan gorkýaryn» diýdim.",
+    "Men ýer ýüzündäki ilkinji ganhorlugyň pidasy boldum.",
+    "Ganym aglady we men bigünäligiň ilkinji şehitleri boldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Habil (Abel)",
+        "Kabil (Kabil)",
+        "Ýa-Sinden gelen adam",
+        "Samiri",
+        "Lukman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Onuň gurbanlygy kabul edildi, bu bolsa doganynyň göripligine we öldürilmegine sebäp boldy",
+        "Ol ýanyp duran peje taşlandy, ýöne sag-aman çykdy",
+        "Ol Hudaýyň ýolbaşçylygynda ägirt uly gämi gurdy",
+        "Ony uly balyk ýuwutdy we garaňkylykda galdy",
+        "Ol öz halkyny iki bölege bölünen deňizden geçirdi"
+      ],
+      "answer": "Onuň gurbanlygy kabul edildi, bu bolsa doganynyň göripligine we öldürilmegine sebäp boldy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Kabul edilen teklip",
+        "Taýagyň ýylana öwrülmegi",
+        "Däne ylahy alamat hökmünde",
+        "Habar getirýän şapalak",
+        "Altyn göle sežde edildi"
+      ],
+      "answer": "Kabul edilen teklip"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Taryhda ilkinji adam öldürmek; onuň dogany jezalandyryldy",
+        "Baýlygy bilen birlikde ýer tarapyndan ýuwudyldy",
+        "Günä geçiş sebäpli maýmynlara öwrüldi",
+        "Güýçli, buzly ýel bilen weýran edildi",
+        "Jeza hökmünde uly silde gark boldy"
+      ],
+      "answer": "Taryhda ilkinji adam öldürmek; onuň dogany jezalandyryldy"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

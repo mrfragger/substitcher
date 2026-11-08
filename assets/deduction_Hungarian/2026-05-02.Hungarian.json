@@ -1,0 +1,61 @@
+{
+  "title": "A súlyos üzenet hordozója",
+  "intro": "Egy igaz lélek küldetett, hogy vezesse a példátlan bűnökben elveszett népet. Ez a hírnök szilárdan állt, és komoly figyelmeztetést adott a természetes rendet dacoló romlottság ellen. A komoly könyörgések ellenére a közösség egyre mélyebb sötétségbe süllyedt, előkészítve a terepet egy olyan isteni elszámoláshoz, amihez foghatót még nem láttál. Felismered Allahnak ezt a rendíthetetlen szolgáját?",
+  "clues": [
+    "Egy másik nagy próféta rokona voltam, és vele vándoroltam, magunk mögött hagyva hazánkat.",
+    "Egy olyan néphez küldettem, amelynek gonoszsága egyedülálló volt, egy olyan vétke, amelyet előttük egyetlen teremtmény sem követett el.",
+    "A saját háztartásom megosztott volt; egy közeli családtagom titokban a hitetlenek oldalára állt.",
+    "Angyalok, jóképű fiatalemberek képében, vendégekként érkeztek az otthonomba, nagy aggodalmat okozva nekem a biztonságukért.",
+    "Saját lányaimat adtam feleségül népemnek, kétségbeesett kísérletként, hogy eltérítsem őket szégyenletes tetteiktől.",
+    "Népemet szörnyű kiáltás és égetett agyagkőzápor pusztította el, míg engem és a családomat – egy kivételével – az éjszaka közepén mentettük meg."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Suajb próféta",
+        "Szálih próféta",
+        "Lut próféta",
+        "Hud próféta",
+        "Nuh próféta"
+      ],
+      "answer": "Lut próféta"
+    },
+    "trial": {
+      "label": "Mi volt az elsődleges tárgyalásom?",
+      "options": [
+        "Meggyőzni egy zsarnok királyt, hogy ne égessen el tűzben.",
+        "Megbirkózni a testvéreim féltékenységével és azzal, hogy egy kútba vetettek.",
+        "Szembenézni egy olyan néppel, amely példátlan szexuális erkölcstelenséget folytat.",
+        "Kivezetem népemet egy hatalmas fáraó rabszolgaságából.",
+        "Egy hatalmas hajó építése, hogy megmentse a hívőket egy nagy árvíztől."
+      ],
+      "answer": "Szembenézni egy olyan néppel, amely példátlan szexuális erkölcstelenséget folytat."
+    },
+    "location": {
+      "label": "Hol volt a misszióm helyszíne?",
+      "options": [
+        "Madyan városa",
+        "Iram ősi városa",
+        "Egyiptom földje a fáraó uralma alatt",
+        "Szodoma és Gomora városai",
+        "Ninive városa"
+      ],
+      "answer": "Szodoma és Gomora városai"
+    },
+    "outcome": {
+      "label": "Mi volt a végső kimenetel?",
+      "options": [
+        "A városokat ledöntötték és égetett agyagkövekkel borították be.",
+        "Népemet elnyelte a föld gazdag vezetőjükkel együtt.",
+        "Hét éjjel és nyolc napon át tomboló heves szél pusztította népemet.",
+        "Népemet sújtották olyan csapások, mint a sáskák, tetvek és békák.",
+        "Egy óriási hal lenyelt, miután feladtam a küldetésemet."
+      ],
+      "answer": "A városokat ledöntötték és égetett agyagkövekkel borították be."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

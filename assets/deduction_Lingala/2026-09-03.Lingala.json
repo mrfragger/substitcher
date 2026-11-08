@@ -1,0 +1,61 @@
+{
+  "title": "Kiti ya bokonzi oyo etambolaki na mbala moko",
+  "intro": "Moto moko ya bokonzi monene azalaki koyangela bokonzi moko ya bozwi oyo epambolamaki na bozwi oyo eleki ndelo. Ntango mokakatano moko oyo akanisaki te ebimaki, mokonzi yango akutanaki na komekama ya mipanga te kasi ya mayele mpe ya kondima. Oyo ekobima ekokamba uta na nsɔngɛ ya nguya ya mokili kino na mbongwana monene ya motema.",
+  "clues": [
+    "Nayangelaki bokonzi oyo epambolamaki na bozwi mpe bozwi oyo eleki makanisi",
+    "Nazalaki mokonzi moko ya nguya oyo azwaki mokanda moko ya mpiko oyo ezalaki kosɛnga ete bátosa ye",
+    "Bato na ngai ya lokumu bapesaki ngai toli mpo na koyeba soki nasengeli kobunda to kosala kimya na mokonzi wana oyo azalaki mosika",
+    "Nabandaki mobembo na makabo ya kokamwa mpo na kokutana na mokonzi oyo ya mosika ngai moko",
+    "Kiti na ngai ya bokonzi ememamaki na mokili moko ya mosika na mbala moko, liboso nakoka kozonga",
+    "Ntango nakɔtaki na ndako moko ya mokonzi oyo ezalaki na mabele oyo ezalaki pɛtɛɛ lokola vitre, nsukansuka nasakolaki ete namikitisi epai ya Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bilqis, Mokonzi-mwasi ya Sheba",
+        "Mwasi ya Farao",
+        "Mwasi ya Al-Aziz",
+        "Maryam, Mwana mwasi ya Imran",
+        "Mwasi ya Prophète Lut"
+      ],
+      "answer": "Bilqis, Mokonzi-mwasi ya Sheba"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kozwa mokanda ya moindo makasi oyo ezali kosɛnga ete bátinda yango",
+        "Kobwakama na mɔtɔ oyo ezali kopela",
+        "Komelama na mbisi monene",
+        "Koyika mpiko na bambula ya maladi ya mpasi",
+        "Kotatola kobebisama ya bato moko na mpela"
+      ],
+      "answer": "Kozwa mokanda ya moindo makasi oyo ezali kosɛnga ete bátinda yango"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Kiti ya bokonzi moko kitoko oyo esalemi na wolo mpe mabanga ya ntalo",
+        "Nzete moko oyo ekabolaki mbu",
+        "Masuwa oyo ezali kopema likoló ya ngomba",
+        "Ndako ya losambo ya bule na Makkah",
+        "Mwana ya ngɔmbɛ ya wolo oyo bato moko basambelaka"
+      ],
+      "answer": "Kiti ya bokonzi moko kitoko oyo esalemi na wolo mpe mabanga ya ntalo"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Komikitisa epai ya Allah pembeni ya mosakoli",
+        "Kozinda na mbu ntango ozali kolanda monguna",
+        "Kobikisama na ndenge ya likamwisi na mɔ́tɔ oyo ezalaki kopela",
+        "Bokangami uta na elanga ya esengo ya seko",
+        "Kozwa bokonzi ya nguya monene"
+      ],
+      "answer": "Komikitisa epai ya Allah pembeni ya mosakoli"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

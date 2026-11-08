@@ -1,0 +1,61 @@
+{
+  "title": "Kota Anu Percaya Kana Waktu",
+  "intro": "Dina catetan welas asih ilahi, aya hiji komunitas anu titik balikna nyaéta momen kasadaran koléktif. Anjeun badé ngungkabkeun caritana—carita peringatan, tobat, sareng panangguhan anu ngabédakeun aranjeunna tina nasib bangsa-bangsa sanés.",
+  "clues": [
+    "Kami teh hiji kaum anu diutus ka anjeunna hiji utusan, sarta kami mimitina ngabantah ajakanana.",
+    "Nalika tanda-tanda hukuman anu bakal datang janten jelas, urang sadar kana bebeneran tina peringatan anjeunna.",
+    "Kami malik ka Gusti kalayan tobat anu tulus ikhlas, sareng iman kami ditampi.",
+    "Hukuman anu parantos ditetepkeun ka urang dicabut kusabab kapercayaan urang.",
+    "Carita urang disebutkeun salaku pengecualian di antara kota-kota anu percaya saatos ningali hukuman.",
+    "Kami téh umat nabi anu ditelan ku paus, tapi kami disalametkeun tina karusakan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Kaom Yunus",
+        "Kaum Nabi Nuh",
+        "Urang Hud",
+        "Kaum Salih",
+        "Kaum Luth"
+      ],
+      "answer": "Kaom Yunus"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Banjir anu dahsyat",
+        "Angin topan anu dahsyat",
+        "Hukuman aib anu bakal datang anu dihindari",
+        "Bumi ngelek aranjeunna",
+        "Hujan batu"
+      ],
+      "answer": "Hukuman aib anu bakal datang anu dihindari"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Bahtera",
+        "Onta bikang",
+        "Kota anu jumlahna saratus rébu",
+        "Staf Musa",
+        "Gudang Qarun"
+      ],
+      "answer": "Kota anu jumlahna saratus rébu"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Aranjeunna ancur sagemblengna",
+        "Aranjeunna dipasihan kasenangan kanggo sawatara waktos",
+        "Aranjeunna robah jadi monyét",
+        "Aranjeunna tilelep",
+        "Aranjeunna ditelan ku bumi"
+      ],
+      "answer": "Aranjeunna dipasihan kasenangan kanggo sawatara waktos"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

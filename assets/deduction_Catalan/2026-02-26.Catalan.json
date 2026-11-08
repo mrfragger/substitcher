@@ -1,0 +1,61 @@
+{
+  "title": "La prova de la set",
+  "intro": "Una comunitat, anhelant un lideratge per defensar la seva causa, va sol·licitar que es nomenés un comandant. Quan la seva petició va ser resposta, l'escollit va ser rebut amb escepticisme, ja que aquest individu no posseïa l'estatus mundà que esperaven. Abans de la confrontació final, aquest nou líder posaria a prova la disciplina mateixa de l'exèrcit amb una simple però profunda prova de contenció.",
+  "clues": [
+    "Vaig ser nomenat comandant després que el meu poble exigís un líder per lluitar per la causa d'Al·là.",
+    "Molts de la meva pròpia gent van qüestionar inicialment el meu nomenament, al·legant la meva manca de riquesa i llinatge noble.",
+    "Vaig ser escollit perquè Al·là m'havia atorgat una abundància de coneixement i una estatura física poderosa.",
+    "Un signe clar del meu nomenament diví va ser el retorn de l'Arca de l'Aliança, portada per àngels, que va portar pau als cors dels creients.",
+    "Mentre marxava amb els meus soldats, vaig anunciar que seríem posats a prova per un riu.",
+    "Vaig ordenar al meu exèrcit que qui begués profundament del riu no fos de la meva companyia, mentre que els que només prenguessin una sola cullerada a la mà es quedarien."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Jalut (Goliat)",
+        "Talut (Saül)",
+        "Profeta Dawud",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Saül)"
+    },
+    "trial": {
+      "label": "Quina va ser la meva prova principal?",
+      "options": [
+        "Construint una barrera contra Gog i Magog",
+        "Enfrontant-se a un gegant en combat singular",
+        "Posant a prova l'obediència d'un exèrcit en un riu",
+        "Liderant un exèrcit de djins i ocells",
+        "Sobreviure a ser llançat al foc"
+      ],
+      "answer": "Posant a prova l'obediència d'un exèrcit en un riu"
+    },
+    "location": {
+      "label": "Quin va ser un signe clau de la meva autoritat?",
+      "options": [
+        "Un bastó que es va convertir en una serp",
+        "Un camell que va sortir d'una roca",
+        "Una cota de malla feta de ferro estovat",
+        "L'Arca de l'Aliança (At-Tabut)",
+        "Una taula de menjar del cel"
+      ],
+      "answer": "L'Arca de l'Aliança (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Quin va ser el resultat de la meva campanya?",
+      "options": [
+        "Derrotant l'exèrcit de Jalut (Goliat)",
+        "Separant el Mar Roig per escapar d'un tirà",
+        "Establint una dinastia duradora en el meu nom",
+        "Construcció de la sagrada Kaaba a la Meca",
+        "Ser elevat als cels sense morir"
+      ],
+      "answer": "Derrotant l'exèrcit de Jalut (Goliat)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

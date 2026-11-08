@@ -1,0 +1,61 @@
+{
+  "title": "Az Őrző a Folyó Szélén",
+  "intro": "Egy olyan országban, ahol egy zsarnok rendelete sok otthonra bánatot hozott, egy lélek olyan üzenetet kapott, amely minden félelmet legyőzött. Bizalommal teli szívvel indultak el egy hitből fakadó cselekedetre, amely megváltoztatta egy nemzet sorsát. Miközben a vizek értékes rakományt szállítottak, remény vegyült az áramlatokkal.",
+  "clues": [
+    "Egy elnyomás és félelem korában éltem.",
+    "Isteni sugallatot kaptam, ami bátorságot adott nekem.",
+    "Azt a parancsot kaptam, hogy ne féljek és ne bánkódjak.",
+    "Betettem a gyermekemet egy ládába, és a vízre tettem.",
+    "Az uralkodó háznépe megtalálta a gyermekemet, de a másik gyermekem követte.",
+    "Újra találkozhattam a gyermekemmel, hogy szoptassam, ahogy Allah megígérte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes anyja",
+        "A fáraó felesége",
+        "Mózes nővére",
+        "Jézus anyja",
+        "Sába királynője"
+      ],
+      "answer": "Mózes anyja"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Inspiráció arra, hogy egy gyermeket a folyóba dobjunk",
+        "Varázspárbajra hívják ki",
+        "Egy hadsereg üldözi",
+        "Átkelve egy kettévált tengeren",
+        "Szent ház építése"
+      ],
+      "answer": "Inspiráció arra, hogy egy gyermeket a folyóba dobjunk"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy folyóba helyezett láda",
+        "Egy égő csipkebokor",
+        "Egy személyzet, ami kígyóvá változott",
+        "Egy aranyborjú",
+        "Egy trón"
+      ],
+      "answer": "Egy folyóba helyezett láda"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A gyermeket biztonságban visszajuttatták az ápolónőhöz",
+        "A gyermek örökre elveszett",
+        "A gyermeket távoli földre vitték",
+        "A gyermek azonnal uralkodóvá vált",
+        "A gyermeket egy gazdag kereskedő fogadta örökbe"
+      ],
+      "answer": "A gyermeket biztonságban visszajuttatták az ápolónőhöz"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

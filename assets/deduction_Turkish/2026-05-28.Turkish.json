@@ -1,0 +1,61 @@
+{
+  "title": "Sarsılmaz Sabırlı Bir",
+  "intro": "Peygamberlik tarihinin kayıtlarında, böylesine derin bir kayıp ve fiziksel acıya sarsılmaz bir imanla katlanan çok az kişi olmuştur. Bu şahsiyetin öyküsü, sabır ve ilahi bilgeliğe güvenme konusunda zamansız bir derstir. Bu ruh kimdir?",
+  "clues": [
+    "Allah tarafından bir mesaj iletmek üzere seçildim, ancak en büyük imtihanım reddedilmekle değil, kişisel bir felaketle geldi.",
+    "Servetim, hayvanlarım ve çocuklarım birer birer elimden alındı.",
+    "Vücudum yaralarla kaplıydı ve eşimin desteği dışında yapayalnızdım.",
+    "Çektiğim acıyı itiraf ederek ve O'nun merhametini dileyerek Rabbime yalvardım.",
+    "Bana ayağımla yere vurmam söylendi ve ferahlatıcı bir kaynak suyu fışkırdı.",
+    "Allah sağlığımı geri verdi, bana yeni bir aile ve eskiden sahip olduğumdan daha fazla zenginlik bahşetti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Eyyub",
+        "Peygamber İbrahim",
+        "Peygamber Musa",
+        "Peygamber İsa",
+        "Peygamber Nuh"
+      ],
+      "answer": "Peygamber Eyyub"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Servet ve aile kaybı",
+        "ateşe atılmak",
+        "Bir balık tarafından yutulmak",
+        "Aileden ayrılıp köle olarak satılmak",
+        "Altın buzağı ile sınanmak"
+      ],
+      "answer": "Servet ve aile kaybı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir su kaynağı",
+        "Yılana dönüşen bir asa",
+        "Ahşap bir gemi",
+        "Erimiş bir buzağı",
+        "Bir palmiye ağacı"
+      ],
+      "answer": "Bir su kaynağı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Aile ve servetin yeniden kurulması",
+        "Göğe yükseliş",
+        "Kral olmak",
+        "Balina saldırısından kurtarılmak",
+        "Yaşlılıkta bir oğul sahibi olmak"
+      ],
+      "answer": "Aile ve servetin yeniden kurulması"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Promeso Parolita Super Ardaĵoj",
+  "intro": "Vi staras apud dezerta fajro dum ĝiaj ardaĵoj estas zorge disĵetitaj. Vizitantoj alvenas por renkonto en la trankvilo, kaj ununura mesaĝo malfermas rakonton pri promeso, surprizo kaj estonteco ankoraŭ ne plenumita.",
+  "clues": [
+    "Ni transiris la distancon por atingi fidelan serviston en la dezerto.",
+    "Ni petis, ke oni disĵetu ardaĵojn por prepari fajron.",
+    "Ni parolis kun unu, kiu vokis al flamo por malvarmeto kaj sekureco.",
+    "Ni alportis novaĵojn pri novnaskito al iu, kiu jam preterpasis la aĝon por havi infanojn.",
+    "Ni nomis la promesitan infanon Isaak.",
+    "Ni alportis ĝojan novaĵon pri filo al Ibrahim, kaj la miriga novaĵo lasis Ibrahim ridi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La Anĝeloj Kiuj Alportis Ĝojan Novaĵon pri Isaak al Ibrahim",
+        "La Anĝeloj Kiuj Avertis Lut",
+        "La Tronportantaj Anĝeloj",
+        "La Anĝeloj de Infero",
+        "La Anĝeloj Senditaj al Noaĥo"
+      ],
+      "answer": "La Anĝeloj Kiuj Alportis Ĝojan Novaĵon pri Isaak al Ibrahim"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Alportante ĝojan novaĵon pri la naskiĝo de Isaak al Ibrahim",
+        "Averto Lut antaŭ la puno de lia popolo",
+        "Anoncante la naskiĝon de Yahya al Zakariyya",
+        "Portante la Tronon en la Tago de Juĝo",
+        "Anoncante la naskiĝon de Isa al Maryam"
+      ],
+      "answer": "Alportante ĝojan novaĵon pri la naskiĝo de Isaak al Ibrahim"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Fajro preparita el disvastiĝintaj ardaĵoj",
+        "Arkeo flosanta sur inundakvo",
+        "Kaverno sigelita per rulanta ŝtono",
+        "Monto de argilo hardita per sala akvo",
+        "Ŝtuparo etendiĝanta en la ĉielon"
+      ],
+      "answer": "Fajro preparita el disvastiĝintaj ardaĵoj"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ĝoja novaĵo pri filo nomata Isaak",
+        "Ĝoja novaĵo pri filo nomata Yahya",
+        "La elekto de Talut kiel reganto super la Infanoj de Israelo",
+        "Averto antaŭ la puno de la popolo de Lut",
+        "Ordono konstrui arkeon antaŭ la Diluvo"
+      ],
+      "answer": "Ĝoja novaĵo pri filo nomata Isaak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

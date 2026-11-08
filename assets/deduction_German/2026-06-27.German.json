@@ -1,0 +1,61 @@
+{
+  "title": "Die heilige Abwesenheit",
+  "intro": "Jenseits der Dünen der Zeit liegt eine Geschichte von unerschütterlicher Hingabe und einem so schweren Vertrauen, dass die Seele, die es trug, hätte zerbrechen können. In einer Zeit, als sich die Menschen Torheit und Gold zuwandten, blieb eine Gestalt standhaft – sie rief sie zurück, flehte um Geduld und trug die Last eines heiligen Versprechens. Dies ist die Geschichte eines Menschen, der in einer heiligen Zeit zum Helfer, zum Wesir und zum Hüter des Glaubens auserwählt wurde. Können Sie die Identität dieser standhaften Seele ergründen?",
+  "clues": [
+    "Ich teile das Blut eines großen Propheten, der auserwählt wurde, auf einem heiligen Berg direkt mit Allah zu sprechen.",
+    "Mein Geschwisterkind flehte einst Allah um Hilfe an, damit es klar und deutlich mit einem großen Unterdrücker sprechen könne.",
+    "Ich wurde von Allah auserwählt, meinem Geschwisterkind als Helfer und Wesir zur Seite zu stehen.",
+    "Gemeinsam stellten wir uns einem tyrannischen Herrscher entgegen, der verlangte, als der höchste Gott bezeichnet zu werden.",
+    "Während mein Bruder auf dem Berg mit Allah Zwiesprache hielt, fertigte sich unser Volk aus seinem Gold ein Götzenbild an.",
+    "Ich bin der Bruder von Moses, von Allah zu seinem Wesir ernannt, und werde im Koran namentlich erwähnt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Harun (Aaron)",
+        "Prophet Musa",
+        "Prophet Dawud",
+        "Prophet Yaqub",
+        "Prophet Ishaq"
+      ],
+      "answer": "Prophet Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Krise der Kälberanbetung",
+        "Die große Sintflut von Nuh",
+        "Die Schlacht von Badr",
+        "Die Zerstörung von Thamud",
+        "Die Zerstörung von Sodom"
+      ],
+      "answer": "Die Krise der Kälberanbetung"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das goldene Kalb",
+        "Arche Noah",
+        "Der brennende Busch",
+        "Die Höhle von Hira",
+        "Der Thron von Saba"
+      ],
+      "answer": "Das goldene Kalb"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Allahs Unschuld bestätigt",
+        "Ertrinken des Pharaos",
+        "Der Bau der Kaaba",
+        "Sichere Überfahrt über das Meer",
+        "Aufstieg in den Himmel"
+      ],
+      "answer": "Allahs Unschuld bestätigt"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

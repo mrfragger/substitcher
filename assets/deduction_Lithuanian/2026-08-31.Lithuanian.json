@@ -1,0 +1,61 @@
+{
+  "title": "Tylusis slėnio balsas",
+  "intro": "Grįžkite laiku atgal į galingą tautą, kuri kadaise gavo gyvą stebuklą kaip išbandymą. Arogancija ir užsispyrimas nulėmė jų likimą. Ar galite atsekti istoriją ir sužinoti, kas nutiko šiame dramatiškame lūžio taške?",
+  "clues": [
+    "Buvau pasiųstas kaip dieviškas išbandymas galingiems žmonėms, žinomiems dėl savo stiprybės ir nepaklusnumo.",
+    "Buvau nepakartojamas stebuklas – toks kaip aš dar niekada nebuvo pasirodęs tarp jų.",
+    "Kas antrą dieną su savo žmonėmis dalijausi geriamuoju vandeniu iš šulinio.",
+    "Jie buvo įspėti, kad bet koks man padarytas nusikaltimas užtrauks greitą bausmę.",
+    "Drąsiausi iš jų nepaisė perspėjimo ir mane sužalojo.",
+    "Po mano mirties vienas griausmingas šauksmas iš viršaus sunaikino visą mano tautą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Saliha kupranugarė",
+        "Musos karvė",
+        "Nuho laivas",
+        "Musos personalas",
+        "Bilqio sostas"
+      ],
+      "answer": "Saliha kupranugarė"
+    },
+    "trial": {
+      "label": "Mano likimas",
+      "options": [
+        "Sužalotas ir nužudytas",
+        "Paskerstas kaip auka",
+        "Pavirto į gyvatę",
+        "Išsaugotas per didelį potvynį",
+        "Greitai pervežtas per karalystę"
+      ],
+      "answer": "Sužalotas ir nužudytas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Vandens šulinys",
+        "Akmens lentelė",
+        "Degantis krūmas",
+        "Medinė arka",
+        "Aukso ir sidabro sostas"
+      ],
+      "answer": "Vandens šulinys"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sunaikintas vieno riksmo",
+        "Nuskendo dideliame potvynyje",
+        "Sudegino akmenų lietus",
+        "Sudaužytas smarkaus vėjo",
+        "Prarytas žemės"
+      ],
+      "answer": "Sunaikintas vieno riksmo"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

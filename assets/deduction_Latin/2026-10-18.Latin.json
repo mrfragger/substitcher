@@ -1,0 +1,61 @@
+{
+  "title": "Nuntium Laetum in Senectute",
+  "intro": "Momentum vides ubi spes denuo accenditur. Coniuges, aetate parentum iamdudum praeterita, promissionem accipiunt quae leges naturae superat. In medio eorum stat figura cuius ipsa existentia signum est divinae misericordiae – anima ad prophetiam destinata, hereditatem portans quae per generationes transibit. Quis est hic insignis homo?",
+  "clues": [
+    "Natus sum parentibus qui iam senes pervenerant et liberos non habebant.",
+    "Nativitatem meam nuntiavit angelis qui tamquam hospites ad familiam meam venerunt.",
+    "Sapientia et prophetia mihi data sunt, et inter patientes commemoratus sum.",
+    "Pater meus amicus Allah appellabatur, et ego ei donum fui in annis posterioribus.",
+    "Fratrem habebam qui etiam propheta erat, et ambo a Domino nostro benedicti sumus.",
+    "Filius meus etiam propheta erat, et posteris meis scriptura et prophetia data sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Isaac (Isaac)",
+        "Propheta Ismail (Ismael)",
+        "Propheta Yaqub (Iacob)",
+        "Propheta Yahya (Ioannes)",
+        "Propheta Uzair (Esdras)"
+      ],
+      "answer": "Propheta Isaac (Isaac)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Natus parentibus senibus",
+        "In ignem coniectus",
+        "Datum regno et divitiis",
+        "Populum suum ex Aegypto eduxit",
+        "Arcam aedificavit ad credentes servandos"
+      ],
+      "answer": "Natus parentibus senibus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Nuntium laetum filii",
+        "Rubus ardens",
+        "Vitulus aureus",
+        "Arca foederis",
+        "Baculus prophetiae"
+      ],
+      "answer": "Nuntium laetum filii"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Propheta factus est cum stirpe prophetarum",
+        "Rex dives factus est",
+        "Populus eius propter incredulitatem deletus est",
+        "Servatus est ab igne",
+        "Ei data est facultas loquendi ut infans esset"
+      ],
+      "answer": "Propheta factus est cum stirpe prophetarum"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

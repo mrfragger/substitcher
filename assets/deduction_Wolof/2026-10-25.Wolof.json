@@ -1,0 +1,61 @@
+{
+  "title": "Plainte biñu dégg ci kaw bruit bi",
+  "intro": "Danga dégg benn baat buy joge ci askan wu ñuy noot ñépp. Amul benn kàttan buy tontu ñaxtu bi; lu moy loolu, woote bi dafay yegg ci Yàlla, te tontu bi dafay yegg ci xol jaamu Yàlla ci boppam. Kan moo def plainte boobu, ban laaj moo ci topp, te ban dëgg lañu firndeel?",
+  "clues": [
+    "Nit ñi ma wër di noot daf may jaaxal.",
+    "Maa ngi wax sama ñaxtu ci Yàlla ci sama plainte.",
+    "Allah dégg na plainte bi ba noppi tontu ma ci sama ngëm.",
+    "Tontu bi mooy, naka laa mënee baña gëm Yàlla, moom miy Kenn te Kawe.",
+    "Ma laaj lu tax Yàlla wara bëgg askan wu gëmul?",
+    "Man maay Uzair, ñu tuddee ko ci Suuratu Az-Zukhruf ni ki Yàlla dégg sama ñaxtu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Uzair",
+        "Àndando bi tukki ci mbënd mu mag mi",
+        "Surga bi dox ci kaw ndox",
+        "Kiy nelaw ñu ngi ko aar ci biir grotte",
+        "Surga bi indi xeer ci dex gi"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Di plainte Yallah ci fitnaal askan wi",
+        "Dox ci kaw ndox ci jamonoy taw",
+        "yóbbu xeer ci dex gu ñàkk ndox",
+        "Naaw ci biir mbënd mu rëy ci gaal gi",
+        "Jox caabi alal ju rëy"
+      ],
+      "answer": "Di plainte Yallah ci fitnaal askan wi"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Plainte direct jublu ci Yallah",
+        "Baton bu mujjee nekk jaan",
+        "Four buy seddal te am jàmm",
+        "Ark buy féey ci kaw ndox mi",
+        "Jën wu wann surga"
+      ],
+      "answer": "Plainte direct jublu ci Yallah"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Allah dégg na plainte bi ba noppi firndeel benn boroom bi ak boroom bi gëna mag",
+        "Dox ci kaw ndox ci jamonoy taw",
+        "Jàll mbënd mu rëy ci jàmm ci gaal gi",
+        "Xoolaat ci biir palaasu réy-réy",
+        "Jox nguur gu tàmbalee ci penku dem ci sowwu"
+      ],
+      "answer": "Allah dégg na plainte bi ba noppi firndeel benn boroom bi ak boroom bi gëna mag"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

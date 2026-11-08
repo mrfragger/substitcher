@@ -1,0 +1,61 @@
+{
+  "title": "Yashirin hosilni saqlovchilar",
+  "intro": "Yashil yurtda bir guruh odamlar zulmat ostida yashirin reja tuzishdi. Ularning umumiy maqsadi bor edi, lekin niyati adolatdan yiroq edi. Ular uxlab yotganlarida ilohiy burilish kutayotganini ular bilishmasdi.",
+  "clues": [
+    "Rejamiz benuqson deb o'ylab, qat'iy qaror qildik.",
+    "Boshqalar uyg'onib ulgurmasdan oldin, biz erta chiqib ketishni niyat qilgan edik.",
+    "Biz o'z ehtiyojlarimizga ishonib, unumdor yerga yo'l oldik.",
+    "Manzilimizga yetib borganimizda, u yerni sahro va kimsasiz holda topdik, shuning uchun yo'ldan adashib qoldik deb o'yladik.",
+    "Keyin biz bu haqiqatan ham bizning joyimiz ekanligini angladik va umidsizlikdan qichqirib, yo'qotishimiz uchun bir-birimizni aybladik.",
+    "Biz o'sha kuni ertalab kambag'allarni hosilimizdan chetlashtirishga qasam ichgan edik, ammo uxlab yotganimizda Allohning azobi bizga tushdi va bog'imizni vayron qildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "68-suradagi bog' egalari",
+        "Saba xalqi",
+        "G'or egalari",
+        "Fil xalqi",
+        "Xandaq ahli"
+      ],
+      "answer": "68-suradagi bog' egalari"
+    },
+    "trial": {
+      "label": "Bizning sinovimiz",
+      "options": [
+        "Bog'imiz osmondan tushgan ofat tufayli vayron bo'ldi",
+        "Bog'imizni suv bosdi",
+        "Bog'imiz dushman olovi bilan yonib ketdi",
+        "Bog'imiz chigirtkalarga to'la edi",
+        "Bog'imizni zilzila yutib yubordi"
+      ],
+      "answer": "Bog'imiz osmondan tushgan ofat tufayli vayron bo'ldi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Biz uning mevalarini ertalab uzib olishga qasam ichdik",
+        "Biz bog'imizni sug'orish uchun to'g'on qurdik",
+        "Biz himoya uchun g'orga panoh topdik",
+        "Biz qirollikni zabt etish uchun qo'shin tayyorladik",
+        "Dengizni kesib o'tish uchun kemada suzib ketdik"
+      ],
+      "answer": "Biz uning mevalarini ertalab uzib olishga qasam ichdik"
+    },
+    "outcome": {
+      "label": "Bizning taqdirimiz",
+      "options": [
+        "Biz tavba qildik va Allohdan rahmat umid qildik",
+        "Biz butunlay vayron bo'ldik va hech qachon tavba qilmadik",
+        "Biz yurtdan qochib ketdik va qaytib kelmadik",
+        "Biz yana kuchli va boy bo'ldik",
+        "Bizni maymunga aylantirish bilan jazolashdi"
+      ],
+      "answer": "Biz tavba qildik va Allohdan rahmat umid qildik"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

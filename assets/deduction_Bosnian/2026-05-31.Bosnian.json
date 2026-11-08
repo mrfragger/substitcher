@@ -1,0 +1,61 @@
+{
+  "title": "Stradali svjedoci",
+  "intro": "U davnoj prošlosti, jedna zajednica je živjela na raskršću između carstava. Njihov prorok ih je pozivao na put istine, ali su se oni ipak držali nevjerovanja i ugnjetavanja. Ova priča završava božanskom odmazdom. Možete li prepoznati ovaj narod i njihovu sudbinu iz donjih tragova?",
+  "clues": [
+    "Jedan narod je odbacio upozorenje koje je donio jedan od njihovih vlastitih glasnika.",
+    "Poslanik nas je pozvao da obožavamo samo Allaha i upozorio na korupciju.",
+    "Naš prijestup je bio odbacivanje proroka poslanog među nas s pravednošću.",
+    "Sumnjali smo u autoritet glasnika i optužili ga za obmanu.",
+    "Kazna nas je stigla dok smo sigurno živjeli u svojim domovima.",
+    "Uništeni smo zbog poricanja našeg proroka i progona vjernika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Šuaib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Šuaib"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Primanje proroka koji je pozivao na pravednost",
+        "Biti iskušan glađu",
+        "Tumačenje sna",
+        "Primanje Tore",
+        "Putovanje kroz more"
+      ],
+      "answer": "Primanje proroka koji je pozivao na pravednost"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Midjanski",
+        "Babilon",
+        "Sodoma",
+        "Crveno more",
+        "Kovčeg"
+      ],
+      "answer": "Midjanski"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ljudi su uništeni zbog nevjerovanja",
+        "Ljudi su se pokajali i bili upućeni",
+        "Ljudi su ušli u Raj",
+        "Narod je preživio i napredovao",
+        "Ljudi su se preselili u novu zemlju"
+      ],
+      "answer": "Ljudi su uništeni zbog nevjerovanja"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

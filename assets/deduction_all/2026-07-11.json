@@ -1,0 +1,61 @@
+{
+  "title": "The Travelers of the Verdant Field",
+  "intro": "In an ancient time, two individuals tended neighboring lands. Their paths were intertwined, yet their hearts led them toward vastly different destinations. One walked the straight path, while the other strayed into the darkness of denial. Can you unravel the mystery of these two keepers of the harvest?",
+  "clues": [
+    "I possessed abundant crops, luxuriant harvests that dazzled the eyes of onlookers.",
+    "My neighbor possessed even greater bounty than I did, yet I coveted their portion more than my own.",
+    "I suggested we destroy their crops entirely, to consolidate everything under my control.",
+    "I brought ruin upon my own harvest as well, destroying everything in my foolish scheming.",
+    "I stood helpless as my crops withered and my wealth turned to dust in a single night.",
+    "I had no share in the Hereafter, and my final abode became a pit of blazing fire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "The man who denied resurrection and judgment",
+        "The ruler who oppressed the righteous farmer",
+        "The wealthy landowner who lacked gratitude",
+        "The farmer who coveted their neighbor's land",
+        "The treacherous partner who plotted destruction"
+      ],
+      "answer": "The farmer who coveted their neighbor's land"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The test of receiving divine revelation",
+        "The challenge of wealth and patience",
+        "The temptation to destroy a righteous person's livelihood",
+        "The command to divide inheritance fairly",
+        "The struggle against a tyrant's oppression"
+      ],
+      "answer": "The temptation to destroy a righteous person's livelihood"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The verdant gardens of paradise",
+        "Two neighboring fields of crops",
+        "The mountains that witnessed destruction",
+        "The sacred sanctuary of Makkah",
+        "The riverbanks of a blessed land"
+      ],
+      "answer": "Two neighboring fields of crops"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Eternal paradise as a reward for righteousness",
+        "Complete destruction of both harvests in this life",
+        "Exile and wandering until death",
+        "Temporary prosperity followed by eternal fire",
+        "A miraculous restoration and doubled bounty"
+      ],
+      "answer": "Complete destruction of both harvests in this life"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

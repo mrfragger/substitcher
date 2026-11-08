@@ -1,0 +1,61 @@
+{
+  "title": "De verschleierte Verschwörer",
+  "intro": "Dir fannt Iech a Präsenz vun enger mächteger Figur aus den Deeg vun der Offenbarung. Dës Persoun war bekannt fir hiren Intellekt, Räichtum a Status bei hirem Vollek. Wéi déi kloer Zeeche koumen, hunn si d'Schéinheet erkannt, awer trotzdem iwwer Ënnerwerfung gewielt. Wat huet dës Séil dozou bruecht, am Däischteren ze plangen, a wat war hiert schlussendlecht Schicksal?",
+  "clues": [
+    "Ech war mat vill Ressourcen an Afloss geseent, sou datt mäi Wuert an de Versammlungen schwéier war.",
+    "Wéi d'Wierder vum Göttlechen rezitéiert goufen, konnt ech hir Eloquenz net verleegnen, awer mäi Stolz huet mir net erlaabt, mech ze ënnerwerfen.",
+    "Ech hunn meng Beroder zesummegeruff, mech isoléiert fir iwwer eng Manéier nozedenken, wéi ech d'Botschaft diskreditéiere kéint.",
+    "No laangem Iwwerleeë hunn ech erkläert, datt et näischt anescht wéi 'Magie, déi aus der Vergaangenheet iwwerliwwert gouf', fir d'Leit ofzewieren.",
+    "D'Offenbarung huet sech dann direkt un mech geriicht: \"Loosst mech mat deem eleng, deen ech erschaf hunn.\" Ech gouf fir meng Intrig erausgepickt.",
+    "Geschwënn wäert mech dat selwecht Feier, virun deem ech gewarnt gouf, um Stirnholz gräifen, an ech wäert keng Flucht hunn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Verschwörung fir de Prophet ze ermuerden",
+        "Hunn e Boykott géint Muslime gefouert",
+        "Huet e Conseil zesummegestallt fir de Koran als Magie ze markéieren",
+        "Plang fir de Prophet aus Mekka ze verdreiwen",
+        "Hie wollt säi Räichtum mat Weesen deelen"
+      ],
+      "answer": "Huet e Conseil zesummegestallt fir de Koran als Magie ze markéieren"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Offenbarung",
+        "De Conseil",
+        "De Stirlock",
+        "De Räichtum",
+        "De Bic"
+      ],
+      "answer": "De Stirlock"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hie huet sech bekéiert an den Islam ugeholl",
+        "Hie ass an Abessinien ausgewandert",
+        "Hie gouf vun enger déidlecher Krankheet betraff",
+        "Hie stierft am Kampf géint Muslimen",
+        "Hie gouf zum Hellfeier veruerteelt"
+      ],
+      "answer": "Hie gouf zum Hellfeier veruerteelt"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

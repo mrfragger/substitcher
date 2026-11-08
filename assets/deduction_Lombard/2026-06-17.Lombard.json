@@ -1,0 +1,61 @@
+{
+  "title": "L'eco dal bord de la cità",
+  "intro": "In una cità che la s’è voltada via da la guida divina, una figüra solitaria l’è vegnuda fœura di periferie, che la curreva cunt un messagg de speranza e de avvertiment. Chesta anima desmentegada la sarès diventada un simbul eterno de fede ferma.",
+  "clues": [
+    "Ho vist che i messager vegnevan mandà in de la me cità, ma la me gent i licenziava cuma gent comun.",
+    "Credevi in ​​del luur messaj e sentivi la verità che resonava denter del me vesser.",
+    "Ho invità el me popul a obedir ai messagger che dumandavan no recompensa.",
+    "Corri da l’estremità pusè luntan de la cità, per pruà a fac vedè la rason.",
+    "El me popul s’è levà sü cuntra de mi, e mi sun stà copà, ma g’ho truvà la pas eterna.",
+    "Allah m’ha dit: “Entra in del Paradis”, e mi desiderava che el me popul pudeva vedè l’onor che m’è stà dà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El credent de Ya-Sin",
+        "Uzair el dumandant",
+        "Al-Khidr la guida",
+        "El credent de la famiglia del faraon",
+        "Namrud el tirann"
+      ],
+      "answer": "El credent de Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Affrontar un popul incredul che l’ha copà",
+        "Vess butà denter de un fœuch ardent",
+        "Vesser inglutid da un grand pess",
+        "Costruir un'arca grandissima",
+        "Scapar da un esercito de tiranno"
+      ],
+      "answer": "Affrontar un popul incredul che l’ha copà"
+    },
+    "location": {
+      "label": "Posiziun chiave",
+      "options": [
+        "L'estremità püsee luntan de la cità",
+        "La montagna de Tur",
+        "La Val dei Formighe",
+        "I riv del Nil",
+        "La caverna de la caverna"
+      ],
+      "answer": "L'estremità püsee luntan de la cità"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Martirio e imediata entrata in del Paradis",
+        "Fuga e salveza",
+        "Ascension in del ciel",
+        "Anegare in del mar",
+        "Trasfurmàs en pedra"
+      ],
+      "answer": "Martirio e imediata entrata in del Paradis"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

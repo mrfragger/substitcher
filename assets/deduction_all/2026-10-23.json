@@ -1,0 +1,61 @@
+{
+  "title": "The Mission in the Ancient City",
+  "intro": "A dusty ancient town, its people entrenched in denial, and a final warning that went unheeded. Today, step into the role of those sent by Allah to deliver a message to a stubborn people. A story of rejection, a singular voice of faith, and an ending sealed by a devastating decree. Who speaks through these clues?",
+  "clues": [
+    "We were sent by Allah to a town whose people had turned away from truth",
+    "Two of us came first, then a third joined to strengthen our mission",
+    "The townsfolk rejected us, saying we were nothing but humans like them",
+    "A single soul from the farthest end of the city ran to tell the people to follow us",
+    "We pled with them, but they hardened their hearts and turned against us",
+    "In one devastating cry from the heavens, our entire city was silenced"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "The Messengers of the Town in Surah Ya-Sin",
+        "The Hawwariyyun (Disciples of Isa)",
+        "The Sorcerers of Pharaoh's Court",
+        "The Companions of the Sabbath",
+        "The People of the Elephant"
+      ],
+      "answer": "The Messengers of the Town in Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Rejected and called liars by the townspeople",
+        "Burned alive in a great blazing fire",
+        "Swallowed by a great fish in the deep sea",
+        "Forced to labor building a towering pillar",
+        "Tortured in a trench of raging fire"
+      ],
+      "answer": "Rejected and called liars by the townspeople"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The ancient town (al-Qaryah)",
+        "A great blazing furnace",
+        "The belly of a great fish",
+        "The lofty sky-touching pillar",
+        "The sacred House (Kaaba)"
+      ],
+      "answer": "The ancient town (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "The town was destroyed by a single devastating cry (Sayha)",
+        "The tyrant and his army were drowned in the parted sea",
+        "The people were transformed into apes and monkeys",
+        "A rain of stones from the sky destroyed the city",
+        "A violent flood swept away the entire community"
+      ],
+      "answer": "The town was destroyed by a single devastating cry (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

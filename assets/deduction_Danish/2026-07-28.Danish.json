@@ -1,0 +1,61 @@
+{
+  "title": "Den hellige skabnings prøve",
+  "intro": "Et tegn blev sendt til en nation, der var faret vild. Midt i deres komfortable liv kom en advarsel – ledsaget af en bemærkelsesværdig skabning, der skulle blive den ultimative prøve på deres tro. Deres reaktion skulle besegle deres skæbne for evigt. Kan du afdække, hvem der gav denne advarsel, og hvad der skete med dem, der afviste den?",
+  "clues": [
+    "Vi var et folk, der var blevet vejledt af tidligere budbringere før os.",
+    "En storslået skabning kom frem fra bjerget, et tegn fra vor Herre til denne nation.",
+    "Jeg sagde til dem: \"Dette er en hunkamel, der tilhører Allah, så lad hende spise af Allahs jord, og rør hende ikke med skade.\"",
+    "Men folket overhalede min hunkamel i trods mod deres Herres befaling.",
+    "Jeg er blot et sendebud fra din Herre, sendt med sandheden – jeg er en troværdig profet og tjener.",
+    "Hvad angår uretfærdighederne, slog vor Herre dem med en tordnende lyd, og de blev ubevægelige i deres hjem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Hud for folket i A'ad",
+        "Profeten Salih af Thamuds folk",
+        "Profeten Shu'aib af Midjan",
+        "Profeten Lut af folket i Sodoma",
+        "Profeten Nuh af Arken"
+      ],
+      "answer": "Profeten Salih af Thamuds folk"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Syndfloden der druknede en vantro nation",
+        "Jordskælvet, der ødelagde en syndig by",
+        "Hunkamelen sendt som et guddommeligt tegn og en prøve",
+        "Stormen der straffede Midjans folk",
+        "Lots folks ødelæggelse med sten"
+      ],
+      "answer": "Hunkamelen sendt som et guddommeligt tegn og en prøve"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Byen Sodoma i Jordandalen",
+        "Al-Hijr-dalen mellem Hijaz og Syrien",
+        "Det gamle land A'ad i det sydlige Arabien",
+        "Midjans skove nær Det Røde Hav",
+        "Sletterne på Judi-bjerget i Mesopotamien"
+      ],
+      "answer": "Al-Hijr-dalen mellem Hijaz og Syrien"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De blev frelst efter at have omvendt sig og troet",
+        "En regn af sten ødelagde dem fuldstændigt",
+        "En tordnende lyd ramte dem ubevægelige",
+        "De blev revet med af en voldsom vind",
+        "Et jordskælv opslugte dem i jorden"
+      ],
+      "answer": "En tordnende lyd ramte dem ubevægelige"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

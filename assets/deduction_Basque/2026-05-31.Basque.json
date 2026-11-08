@@ -1,0 +1,61 @@
+{
+  "title": "Hildako lekukoak",
+  "intro": "Aspaldiko garai batean, komunitate bat inperioen arteko bidegurutze batean bizi zen. Haien profetak egiaren bidetik deitu zituen, baina sinesgaiztasunari eta zapalkuntzari eutsi zioten. Istorio hau jainkozko mendekuarekin amaitzen da. Identifikatu al dezakezu nazio hau eta haren patua beheko arrastoetatik?",
+  "clues": [
+    "Herri batek bere mezularietako batek ekarritako abisua arbuiatu zuen.",
+    "Mezulariak Ala bakarrik gurtzera deitu gintuen eta ustelkeriaren aurka ohartarazi zigun.",
+    "Gure transgresioa gure artean bidalitako profeta zuzentasunez arbuiatzea izan zen.",
+    "Mezulariaren autoritatea zalantzan jarri eta engainua leporatu genion.",
+    "Gure etxeetan seguru bizi ginenean harrapatu gintuen zigorra.",
+    "Gure profeta ukatu eta sinestunei jazartzeagatik suntsitu gintuzten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Zuzenbidera deitu zuen profeta bat jasotzea",
+        "Gosete batekin probatua izatea",
+        "Amets bat interpretatzea",
+        "Tora jasotzea.",
+        "Itsasoan zehar bidaiatzen"
+      ],
+      "answer": "Zuzenbidera deitu zuen profeta bat jasotzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Midian",
+        "Babilonia",
+        "Sodoma",
+        "Itsaso Gorria",
+        "Arka"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Jendea suntsitu zuten sinesgaiztasunagatik",
+        "Jendea damutu eta gidatu egin zen",
+        "Jendea Paradisura sartu zen",
+        "Jendea bizirik iraun eta oparoa izan zen",
+        "Jendea lurralde berri batera emigratu zen"
+      ],
+      "answer": "Jendea suntsitu zuten sinesgaiztasunagatik"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Taleyi Dəyişdirən Təklif",
+  "intro": "Bəşəriyyətin ilk dövrlərində bir ruh təmiz niyyətlə bir hədiyyə təqdim edirdi. Lakin qəbulun kölgəsində paxıllıq gizlənirdi. Təqvası və faciəli sonu ilahi vəhydə əbədiləşdirilmiş bu şəxsiyyətin hekayəsini kəşf edin.",
+  "clues": [
+    "Mən bəşəriyyətin ilk nəsillərindən biri idim.",
+    "Rəbbimə bir qurban təqdim etdim və o, lütflə qəbul edildi.",
+    "Qardaşımın təklifi rədd edildi və paxıllıq onun ürəyini qaraltdı.",
+    "Mən ona dedim: “Əgər məni öldürmək üçün mənə əl qaldırsan, mən səni öldürmək üçün əlimi uzatmayacağam. Həqiqətən, mən aləmlərin Rəbbi olan Allahdan qorxuram”.",
+    "Mən yer üzündə ilk qətl hadisəsinin qurbanı oldum.",
+    "Qanım fəryad etdi və mən günahsızlığın ilk şəhidi oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Habil (Habil)",
+        "Qabil (Qabil)",
+        "Ya-Sindən olan Adam",
+        "Samiri",
+        "Loğman"
+      ],
+      "answer": "Habil (Habil)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Onun təklifi qəbul edildi və bu, qardaşının paxıllığına və qətlinə səbəb oldu",
+        "O, alovlanan sobaya atıldı, amma sağ-salamat çıxdı",
+        "O, ilahi rəhbərlik altında nəhəng bir gəmi inşa etdi",
+        "O, böyük bir balıq tərəfindən uduldu və qaranlıqda qaldı",
+        "O, xalqını iki yerə bölünmüş dənizdən keçirdi"
+      ],
+      "answer": "Onun təklifi qəbul edildi və bu, qardaşının paxıllığına və qətlinə səbəb oldu"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qəbul edilmiş təklif",
+        "İlana çevrilən bir əsa",
+        "İlahi bir əlamət olaraq dişi dəvə",
+        "Xəbər gətirən şanapipik",
+        "Qızıl buzov ibadət edildi"
+      ],
+      "answer": "Qəbul edilmiş təklif"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Tarixdə ilk qətl; qardaşı məhkum edildi",
+        "Sərvəti ilə birlikdə torpaq tərəfindən uduldu",
+        "Qanun pozuntusu səbəbindən meymuna çevrilib",
+        "Şiddətli, buzlu küləklə məhv edildi",
+        "Cəza olaraq böyük bir daşqında boğuldu"
+      ],
+      "answer": "Tarixdə ilk qətl; qardaşı məhkum edildi"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

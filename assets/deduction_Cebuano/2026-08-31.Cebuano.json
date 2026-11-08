@@ -1,0 +1,61 @@
+{
+  "title": "Ang Hilom nga Tingog sa Walog",
+  "intro": "Balik sa panahon sa usa ka gamhanang katawhan nga kaniadto nakadawat og buhing katingalahan isip pagsulay. Ang pagkamapahitas-on ug pagkagahi og ulo nagselyo sa ilang kapalaran. Masubay ba nimo ang istorya ug madiskobrehan kung unsa ang nahitabo niining dramatikong punto sa pagbag-o?",
+  "clues": [
+    "Gipadala ako isip usa ka diosnon nga pagsulay ngadto sa usa ka gamhanang katawhan nga nailhan tungod sa ilang kusog ug pagkamasukihon.",
+    "Usa ako ka talagsaon nga katingalahan—wala pa gyud sukad nga adunay mga tawo nga sama kanako nga nagpakita kanila.",
+    "Nagpaambit ko og tubig nga mainom gikan sa atabay uban sa akong mga tawo matag adlaw.",
+    "Gipasidan-an sila nga ang bisan unsang kadaot nga buhaton kanako magdala ug dali nga silot.",
+    "Ang labing maisog kanila wala magtagad sa pasidaan ug gipiangan ako.",
+    "Human sa akong kamatayon, usa ka kusog nga singgit gikan sa itaas ang nakaguba sa akong tibuok katawhan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang Kamelyo nga Babaye ni Salih",
+        "Ang Baka ni Musa",
+        "Ang Barko ni Nuh",
+        "Ang mga Sungkod ni Musa",
+        "Ang Trono ni Bilqis"
+      ],
+      "answer": "Ang Kamelyo nga Babaye ni Salih"
+    },
+    "trial": {
+      "label": "Akong Kapalaran",
+      "options": [
+        "Gibunalan ug gipatay",
+        "Giihaw isip sakripisyo",
+        "Nabag-o ngadto sa usa ka bitin",
+        "Napreserbar atol sa dakong baha",
+        "Dali nga gidala sa tibuok gingharian"
+      ],
+      "answer": "Gibunalan ug gipatay"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka atabay sa tubig",
+        "Usa ka papan nga bato",
+        "Usa ka nagdilaab nga sapinit",
+        "Usa ka arka nga hinimo sa kahoy",
+        "Usa ka trono nga hinimo sa bulawan ug pilak"
+      ],
+      "answer": "Usa ka atabay sa tubig"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalaglag sa usa ka singgit",
+        "Nalumos sa dakong baha",
+        "Nasunog sa ulan sa mga bato",
+        "Gibunalan sa kusog nga hangin",
+        "Gilubong sa yuta"
+      ],
+      "answer": "Nalaglag sa usa ka singgit"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

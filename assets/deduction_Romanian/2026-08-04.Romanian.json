@@ -1,0 +1,61 @@
+{
+  "title": "Ecoul prin stânci",
+  "intro": "Imaginează-ți o vale unde locuințele sunt săpate în stânci, iar aerul poartă amintirea unui avertisment neascultat. Un popor a prosperat odată aici, binecuvântat, dar sfidător, până când un semn a ieșit chiar din stânca în care aveau încredere.",
+  "clues": [
+    "Am fost un popor care a săpat case sigure în munți, simțindu-se în siguranță în locuințele noastre stâncoase.",
+    "Trăiam într-un ținut de câmpie și piatră, binecuvântat cu grădini și izvoare.",
+    "Un mesager dintre noi a venit, chemându-ne să renunțăm la zeii noștri falși și să ne închinăm Unicului Creator adevărat.",
+    "Am impus cu aroganță o condiție pentru credință: un semn unic care să iasă chiar din rocile pe care le-am sculptat.",
+    "Când cămila promisă a apărut din stâncă, un semn clar, elita noastră a refuzat în continuare și i-a pus piedicile în cale, în ciuda avertismentului unei pieiri iminente.",
+    "La trei zile după fapta noastră, o bubuitură a răsunat prin vale și am fost transformați în moloz, iar casele, în morminte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oamenii din ¿Ad",
+        "Oamenii din Thamud",
+        "Oamenii din Madyan",
+        "Oamenii din Dumbravă",
+        "Oamenii din peșteră"
+      ],
+      "answer": "Oamenii din Thamud"
+    },
+    "trial": {
+      "label": "Proba/Evenimentul nostru principal",
+      "options": [
+        "Întinderea hamstring-ului cămilei lui Allah",
+        "Închinarea vițelului de aur",
+        "Încălcarea Sabatului",
+        "Construirea unui turn spre cer",
+        "Uciderea profeților"
+      ],
+      "answer": "Întinderea hamstring-ului cămilei lui Allah"
+    },
+    "location": {
+      "label": "Element cheie în povestea noastră",
+      "options": [
+        "Cămila lui Allah",
+        "Personalul lui Musa",
+        "Arca lui Nuh",
+        "Mâna albă a lui Musa",
+        "Pasărea lui Isa"
+      ],
+      "answer": "Cămila lui Allah"
+    },
+    "outcome": {
+      "label": "Rezultatul nostru",
+      "options": [
+        "Distrugere prin explozie asurzitoare",
+        "O ploaie de pietre din cer",
+        "O inundație care a acoperit pământul",
+        "Un vânt puternic care ne-a dezrădăcinat",
+        "Pământul care ne înghite"
+      ],
+      "answer": "Distrugere prin explozie asurzitoare"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

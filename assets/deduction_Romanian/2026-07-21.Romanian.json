@@ -1,0 +1,61 @@
+{
+  "title": "Blestemul recoltei abundente",
+  "intro": "Într-un ținut străvechi, un anumit suflet se afla printre cei mai bogați din comunitatea lor. De două ori în ani consecutivi, au primit binecuvântările pământului, o recoltă dublă care ar fi trebuit să le umple inima de recunoștință. Totuși, când tragedia a lovit-o și tot ce posedau le-a fost luat într-o singură noapte, reacția lor a dezvăluit adevărata natură a sufletului lor. Poți descoperi identitatea acestei figuri a cărei poveste servește drept avertisment împotriva necredinței în binecuvântările lui Allah?",
+  "clues": [
+    "Eram printre cele mai norocoase suflete din tot țara, binecuvântat cu provizii din belșug.",
+    "De două ori am recoltat în doi ani, totuși inima mea a rămas nerecunoscătoare Domnului meu.",
+    "Am avut o grădină mare cu viță de vie, măslini și palmieri – o dovadă a favoării lui Allah.",
+    "Când grădina mea a fost distrusă, am stat în ruinele ei cu mâinile întinse spre ceruri, blestemându-mi soarta.",
+    "Am negat că Allah ar fi putut cauza o astfel de pierdere, chiar dacă mi-am zdrobit palmele de disperare.",
+    "Pedeapsa mea nu a fost doar pierderea grădinii, ci și faptul că am fost lăsat complet neajutorat în ruinele ei, incapabil să invoc vreun ajutor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Proprietarul grădinii din Sura 26",
+        "Proprietarul a două grădini dintr-o țară îndepărtată",
+        "Un suflet bogat din orașul prosperității",
+        "Fermierul menționat în Sura Al-Kahf",
+        "Un podgor din vremea profetului Shu'aib"
+      ],
+      "answer": "Proprietarul grădinii din Sura 26"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Pierderea unei grădini distruse într-o singură noapte",
+        "Marele potop care a acoperit pământul",
+        "Fiind testați cu profeți adevărați și falși",
+        "Încercarea de a fi aruncat în foc",
+        "Încercarea de a fi înghițit de pământ"
+      ],
+      "answer": "Pierderea unei grădini distruse într-o singură noapte"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O grădină cu viță de vie, măslini și palmieri distrusă timp de doi ani",
+        "O corabie construită pe un munte înalt",
+        "Orașul unei națiuni transgresoare",
+        "O fântână în Madianul antic",
+        "Râul paradisului"
+      ],
+      "answer": "O grădină cu viță de vie, măslini și palmieri distrusă timp de doi ani"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Neputință totală - distrusă fără ajutor",
+        "Învierea pentru a intra în paradis",
+        "A deveni profet al lui Allah",
+        "Conducerea unei mari națiuni",
+        "Pedeapsa veșnică în foc"
+      ],
+      "answer": "Neputință totală - distrusă fără ajutor"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

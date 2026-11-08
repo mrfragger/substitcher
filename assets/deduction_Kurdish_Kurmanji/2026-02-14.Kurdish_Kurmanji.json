@@ -1,0 +1,61 @@
+{
+  "title": "Avakerê Astengiyan",
+  "intro": "Li seranserê erdên berfireh, kesekî bi hêz dest bi rêze seferên seferî kir, desthilat û derfetên mezin wergirt. Ev giyan rastî civakên cihêreng hat û bi dijwarîyên bêhempa re rû bi rû ma, bi kirin û şehrezayiya xwe şopek mayînde li ser dîrok û baweriyê hişt, di heman demê de çavkaniya rastîn a hêza xwe qebûl kir.",
+  "clues": [
+    "Li ser her tiştî hêz û îmkan ji min re hatin dayîn, û min rêyek şopand.",
+    "Rêwîtiya min ez bir cihê ku roj lê diçe ava, li wir min gelek dît.",
+    "Min rastî civatekê hat ku di navbera du çiyayan de dijiya û bi zorê axaftinê fêm dikir.",
+    "Ji min hat xwestin ku ez astengiyekê ava bikim, ne ji bo berjewendiya şexsî, lê ji bo parastina li dijî hêzek wêranker.",
+    "Min ragihand ku hêza avakirina vî dîwarê mezin ji Xwedê tê, û ew ê heta demek diyarkirî li ser piyan bimîne.",
+    "Navê min, ku pir caran wekî 'Yê Du-Stirî' tê wergerandin, gihîştina min li seranserê cîhanê an jî dibe ku du serdemên cuda nîşan dide."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Mûsa",
+        "Pêxember Suleyman",
+        "Zul-Qerneyn",
+        "Fîrewn",
+        "Luqman"
+      ],
+      "answer": "Zul-Qerneyn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Wergirtina wehyê",
+        "Bi zordarekî re rû bi rû dimînin",
+        "Avakirina keştiyek mezin",
+        "Avakirina astengiyeke bi hêz",
+        "Ji aliyê masiyek ve tê daqurtandin"
+      ],
+      "answer": "Avakirina astengiyeke bi hêz"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keşti",
+        "Karmend",
+        "Astengiya Hesinî",
+        "Çemê Nîlê",
+        "Text"
+      ],
+      "answer": "Astengiya Hesinî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Rizgarkirin ji lehî",
+        "Ku bibe padîşahiyek mezin",
+        "Parastina ji bo gel",
+        "Kuştina dagirkerekî",
+        "Zîrekiya mayînde"
+      ],
+      "answer": "Parastina ji bo gel"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

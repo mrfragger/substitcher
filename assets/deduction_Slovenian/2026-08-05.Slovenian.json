@@ -1,0 +1,61 @@
+{
+  "title": "Dan zadnje razstave",
+  "intro": "Skupina spretnih izvajalcev, poklicana k veličastnemu prikazu moči, se je znašla soočena z nepričakovano resnico, ki jim je za vedno spremenila življenja.",
+  "clues": [
+    "Znani smo bili po svoji obrti, mojstri iluzij in trikov.",
+    "Vladar nas je poklical, da se soočimo z izzivalcem, ki je vihtel preprosto palico.",
+    "Ko smo videli resnico, smo padli na tla in izjavili, da verjamemo v Gospodarja svetov.",
+    "Tiran nam je grozil s hudo kaznijo, vendar se nismo obotavljali.",
+    "Bili smo med prvimi, ki smo verjeli sporočilu, potem ko smo bili priča jasnemu znamenju.",
+    "Zaradi vere smo bili mučeni, a mi bomo prvi, ki bomo vstopili v raj s pravičniki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Faraonovi čarovniki",
+        "Izraelci",
+        "Ljudje iz Thamuda",
+        "Izajevi učenci",
+        "Abrahova vojska"
+      ],
+      "answer": "Faraonovi čarovniki"
+    },
+    "trial": {
+      "label": "Preizkus / dogodek",
+      "options": [
+        "Tekmovanje s prerokom Muso",
+        "Gradnja stolpa",
+        "Velika poplava",
+        "Nadloga kobilic",
+        "Razcepljeno morje"
+      ],
+      "answer": "Tekmovanje s prerokom Muso"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Festivalski dan",
+        "Dolina Tuwa",
+        "Mesto Iram",
+        "Vrt večnosti",
+        "Arafatska ravnica"
+      ],
+      "answer": "Festivalski dan"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Križali so jih javno",
+        "Utopili so se v morju",
+        "Postali so prerokovi sledilci",
+        "Poslali so jih v izgnanstvo",
+        "Požrl jih je ogenj"
+      ],
+      "answer": "Križali so jih javno"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

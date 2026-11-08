@@ -1,0 +1,61 @@
+{
+  "title": "Izvorul de sub nisip",
+  "intro": "În analele Coranului, o figură cu o răbdare imensă s-a confruntat cu o încercare care avea să frângă și cele mai curajoase inimi. Totul a fost deposedat - bogăția, familia și sănătatea. Totuși, din adâncurile disperării, o rugăciune umilă a primit răspuns în cel mai neașteptat mod. Puteți identifica acest suflet a cărui poveste de reabilitare răsună de-a lungul veacurilor?",
+  "clues": [
+    "Am fost pus la încercare cu o încercare atât de grea încât este amintită de-a lungul veacurilor.",
+    "Am pierdut tot ce conta - averea, copiii și sănătatea.",
+    "Corpul meu era acoperit de răni dureroase și eram respins de toți.",
+    "În disperarea mea, l-am chemat pe Allah, spunând că Satana m-a atins cu greutăți și chinuri.",
+    "Allah mi-a răspuns și mi-a poruncit să lovesc pământul cu piciorul.",
+    "Chiar din acel loc, a țâșnit un izvor răcoros, iar Allah mi-a întărit familia și i-a îndurat și mai mult ca o milă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Ayyub",
+        "Profetul Musa",
+        "Profetul Ilia",
+        "Profetul Sulayman",
+        "Profetul Dawud"
+      ],
+      "answer": "Profetul Ayyub"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Boală gravă și pierderea familiei și a averii",
+        "Fiind înghițit de o balenă uriașă",
+        "Exilul din orașul Mecca",
+        "Închisoare într-o fântână adâncă",
+        "Confruntare cu un conducător arogant"
+      ],
+      "answer": "Boală gravă și pierderea familiei și a averii"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un izvor răcoros din pământ",
+        "O barcă pe o mare inundație",
+        "Un toiag care a despicat marea",
+        "Un tron ​​​​înălțat de sticlă",
+        "O peșteră împrejmuită cu ziduri pentru somn"
+      ],
+      "answer": "Un izvor răcoros din pământ"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Familia și averea restaurate și dublate",
+        "Ieșire din burta unui pește",
+        "Trecere sigură prin ape despărțite",
+        "Un regat dat să conducă",
+        "Nașterea miraculoasă a unui fiu la bătrânețe"
+      ],
+      "answer": "Familia și averea restaurate și dublate"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

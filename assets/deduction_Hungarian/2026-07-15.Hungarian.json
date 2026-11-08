@@ -1,0 +1,61 @@
+{
+  "title": "A magányos elvonulás",
+  "intro": "Az isteni kegyelem krónikáiban létezik egy páratlanul tiszta lélek, akit elkülönítettek népétől, hogy magányt keressen egy szent irányban. Nem is sejtették, hogy ez az elszigeteltség jelet hoz majd az egész világ számára, a hit próbáját, amelyről örökké beszélni fognak.",
+  "clues": [
+    "Születésem előtt a szolgálatnak szenteltem az életemet.",
+    "Egy nemes próféta gyámsága alá helyeztek.",
+    "Allah olyan ellátásban részesültem, ami ámulatba ejtette gyámomat.",
+    "Elvonultam a családomtól egy keleti helyre.",
+    "Egy angyal jelent meg nekem tökéletes ember képében, és hírt hozott egy tiszta fiúról.",
+    "Amikor visszatértem az újszülöttemmel, a családom megvádolt, de a csecsemő a védelmemre szólalt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Maryam (Mária)",
+        "Asija (a fáraó felesége)",
+        "Hadzsar (Iszmáil anyja)",
+        "Sára (Ibrahim felesége)",
+        "Mózes anyja"
+      ],
+      "answer": "Maryam (Mária)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Csodálatos fogantatás és fiú születése",
+        "Tűzbe dobva",
+        "Egy óriási hal lenyelte",
+        "Egy hatalmas bárka építése",
+        "Átkelés a tengeren"
+      ],
+      "answer": "Csodálatos fogantatás és fiú születése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy félreeső keleti hely",
+        "Az égő csipkebokor",
+        "A Vörös-tenger",
+        "A szikla, amelyből víz fakadt",
+        "A bálna"
+      ],
+      "answer": "Egy félreeső keleti hely"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egy csecsemő az anyja védelmében beszélt",
+        "A tenger kettévált",
+        "A tűz lehűlt és biztonságossá vált",
+        "A bálna a partra hányt",
+        "A bárka egy hegyen landolt"
+      ],
+      "answer": "Egy csecsemő az anyja védelmében beszélt"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

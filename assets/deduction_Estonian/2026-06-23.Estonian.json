@@ -1,0 +1,61 @@
+{
+  "title": "The Guardian jõe ääres",
+  "intro": "Maal, kus türanni määrus tõi paljudesse kodudesse kurbust, sai üks hing sõnumi, mis trotsis igasugust hirmu. Usaldusest tulvil südamega asusid nad usuteole, mis muutis terve rahva käekäiku. Kui veed kandsid väärtuslikku lasti, segunes lootus hoovustega.",
+  "clues": [
+    "Ma elasin rõhumise ja hirmu ajal.",
+    "Sain jumalikku inspiratsiooni, mis andis mulle julgust.",
+    "Mul kästi mitte karta ega kurvastada.",
+    "Panin lapse kasti ja asetasin vee peale.",
+    "Valitseja kodakondsus leidis mu lapse, aga teine ​​laps järgnes talle.",
+    "Mind taasühinesin oma lapsega, et teda imetada, just nagu Allah lubas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Moosese ema",
+        "Vaarao naine",
+        "Moosese õde",
+        "Jeesuse ema",
+        "Seeba kuninganna"
+      ],
+      "answer": "Moosese ema"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Inspiratsiooni saamine lapse jõkke viskamiseks",
+        "Maagilise duelli väljakutse",
+        "Armee jälitamine",
+        "Mere ületamine, mis lahknes",
+        "Püha maja ehitamine"
+      ],
+      "answer": "Inspiratsiooni saamine lapse jõkke viskamiseks"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Jõkke asetatud rindkere",
+        "Põlev põõsas",
+        "Personal, mis muutus maoks",
+        "Kuldne vasikas",
+        "Troon"
+      ],
+      "answer": "Jõkke asetatud rindkere"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Laps anti turvaliselt õe juurde tagasi",
+        "Laps oli igaveseks kadunud",
+        "Laps viidi kaugele maale",
+        "Lapsest sai kohe valitseja",
+        "Lapse lapsendas jõukas kaupmees"
+      ],
+      "answer": "Laps anti turvaliselt õe juurde tagasi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

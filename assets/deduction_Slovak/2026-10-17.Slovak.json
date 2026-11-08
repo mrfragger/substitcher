@@ -1,0 +1,61 @@
+{
+  "title": "Túžba v posvätnej komnate",
+  "intro": "Vkročíte do tichej svätyne a uvidíte oddaného služobníka Alaha, ako stojí v modlitbe. Ich ruky sú zdvihnuté, ich oči pozdvihnuté a ich srdce nesie túžbu, ktorá trvá celý život. Kto je táto trpezlivá duša, ktorej dôvera v Alaha nikdy nezakolísala?",
+  "clues": [
+    "Dlhé roky som strávil v uctievaní a modlitbe a bol som svedkom zázrakov, ktoré posilnili moju vieru.",
+    "Bola mi zverená zodpovednosť starať sa o požehnanú mladú dušu v svätyni.",
+    "Ako som starol, mojím najväčším zármutkom bolo, že som nemal dieťa, pretože moja žena bola neplodná a obaja sme boli v pokročilom veku.",
+    "Modlil som sa k svojmu Pánovi za nástupcu z mojej vlastnej rodiny, niekoho, kto by pokračoval v odkaze proroctva.",
+    "Keď som stál v modlitebnom výklenku, anjeli ma zavolali a povedali: „Alah ti dáva radostnú zvesť“ a ja som bol zasiahnutý strachom a úžasom.",
+    "Povedali mi, že budem mať syna menom Yahya, meno, ktoré ešte nikto nedostal, a ako znamenie, že tri dni nebudem s ľuďmi hovoriť."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Zakariyya",
+        "Prorok Jahja",
+        "Prorok Isa",
+        "Prorok Dawud",
+        "Lukmán Múdry"
+      ],
+      "answer": "Prorok Zakariyya"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Neplodnosť a staroba pri túžbe po spravodlivom dedičovi",
+        "Byť hodený do planúceho ohňa",
+        "Byť prehltnutý veľkou rybou",
+        "Strata kráľovstva v prospech tyrana",
+        "Byť vyhnaný z vlasti"
+      ],
+      "answer": "Neplodnosť a staroba pri túžbe po spravodlivom dedičovi"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Modlitebný výklenok (mihráb)",
+        "Veľká loď (Archa)",
+        "Horiaci ker",
+        "Zamestnanec, ktorý sa premenil na hada",
+        "Alahova ťava"
+      ],
+      "answer": "Modlitebný výklenok (mihráb)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Darovaný spravodlivý syn a po troch dňoch mlčania opäť prehovoril",
+        "Zničený povodňou pre neveru",
+        "Dostali rozsiahle kráľovstvo a kontrolu nad vetrom",
+        "Vynesené z brucha ryby",
+        "Pohltený zemou"
+      ],
+      "answer": "Darovaný spravodlivý syn a po troch dňoch mlčania opäť prehovoril"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

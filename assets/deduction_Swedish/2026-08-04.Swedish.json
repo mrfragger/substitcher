@@ -1,0 +1,61 @@
+{
+  "title": "Ekot genom klipporna",
+  "intro": "Föreställ dig en dal där bostäder är uthuggna ur klippor, och luften bär på minnet av en varning som inte uppmärksammats. Ett folk frodades en gång här, välsignade men trotsiga, tills ett tecken dök upp ur just den klippa de litade på.",
+  "clues": [
+    "Vi var ett folk som högg ut trygga hem ur bergen och kände oss trygga i våra steniga boningar.",
+    "Vi levde i ett land av slätter och sten, välsignat med trädgårdar och källor.",
+    "En budbärare från oss kom och kallade oss att överge våra falska gudar och dyrka den ende sanne Skaparen.",
+    "Vi satte arrogant ett villkor för tron: ett unikt tecken som skulle komma fram ur just de stenar vi högg ut.",
+    "När den utlovade kamelhonan dök upp ur klippan, ett tydligt tecken, vägrade vår elit fortfarande och satte stopp för henne trots varningen om en annalkande undergång.",
+    "Tre dagar efter vår dåd ekade en dånande dunst genom dalen, och vi förvandlades till rasmassor, våra hem våra gravar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Folket i ¿Ad",
+        "Folket i Thamud",
+        "Madyans folk",
+        "Lundens folk",
+        "Grottans folk"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Vårt provspel/huvudevenemang",
+      "options": [
+        "Hamstringen av Allahs honkamel",
+        "Dyrkan av guldkalven",
+        "Brottet mot sabbaten",
+        "Byggandet av ett torn mot himlen",
+        "Profeternas mord"
+      ],
+      "answer": "Hamstringen av Allahs honkamel"
+    },
+    "location": {
+      "label": "Viktigt element i vår berättelse",
+      "options": [
+        "Allahs honkamel",
+        "Musas personal",
+        "Nuhs ark",
+        "Musas vita hand",
+        "Isas fågel"
+      ],
+      "answer": "Allahs honkamel"
+    },
+    "outcome": {
+      "label": "Vårt resultat",
+      "options": [
+        "Förstörelse av en öronbedövande explosion",
+        "Ett regn av stenar från himlen",
+        "En översvämning som täckte jorden",
+        "En hård vind som ryckte upp oss med rötterna",
+        "Jorden som slukar oss"
+      ],
+      "answer": "Förstörelse av en öronbedövande explosion"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

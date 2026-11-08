@@ -1,0 +1,61 @@
+{
+  "title": "Armén som möttes av flygande lera",
+  "intro": "I eran före profeten Muhammed inledde en mäktig härskare från Jemen en militär kampanj som syftade till att förstöra en helig fristad i Mecka. Denna fiende ledde en enorm armé komplett med krigselefanter, säkra på sin styrka och antal. Men deras resa skulle ta slut abrupt när de mötte ett oväntat gudomligt ingripande. Kan du identifiera vem som stod inför denna anmärkningsvärda uppgörelse?",
+  "clues": [
+    "Vi marscherade med en massiv armé och mäktiga krigselefanter mot det heliga huset",
+    "Vi hade för avsikt att upprycka och förstöra en gudstjänstlokal byggd av den Barmhärtiges tjänare",
+    "En flock småfåglar skickades mot oss, bärande lerstenar i sina näbbar och klor",
+    "Vi möttes av ett ljud som kastade stenar på oss och förvandlade oss till nedtrampade kvarlevor",
+    "Jag var från Jemen och tjänade under en härskare som försökte försona den heliga helgedomen",
+    "Vi blev ett exempel för dem som vågar vanhelga Allahs helgedom"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Abraha al-Ashrams armé",
+        "De etiopiska styrkorna",
+        "De persiska erövrarna",
+        "De romerska legionerna",
+        "Beduinernas plundrare"
+      ],
+      "answer": "Abraha al-Ashrams armé"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "En belägring av en ökenfästning",
+        "En invasion av den heliga platsen i Mecka",
+        "Ett sjöslag till sjöss",
+        "Ett uppror mot en tyrannisk kung",
+        "En jakt på en försvunnen profet"
+      ],
+      "answer": "En invasion av den heliga platsen i Mecka"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Mina-dalen nära Mecka",
+        "Sana'as palats i Jemen",
+        "Tihamahs berg",
+        "Den antika staden Jerusalem",
+        "Röda havets stränder"
+      ],
+      "answer": "Mina-dalen nära Mecka"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Seger och förstörelse av det heliga huset",
+        "Nederlag av fåglar som bär lerstenar",
+        "Fredlig kapitulation och omvändelse",
+        "Svält och naturkatastrof",
+        "Tillbakadragande på grund av kraftigt regn"
+      ],
+      "answer": "Nederlag av fåglar som bär lerstenar"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

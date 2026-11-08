@@ -1,0 +1,61 @@
+{
+  "title": "Zastrti zarotnik",
+  "intro": "Znajdete se v prisotnosti mogočne osebnosti iz časov razodetja. Ta posameznik je bil znan po svojem intelektu, bogastvu in statusu med svojim ljudstvom. Ko so prišla jasna znamenja, so prepoznali lepoto, a so se raje uprli kot pa se podredili. Kaj je to dušo gnalo k snovanju zarote v temi in kakšna je bila njihova končna usoda?",
+  "clues": [
+    "Blagoslovljen sem bil z obilnimi viri in vplivom, zaradi česar sem v skupščinah močno poudarjal svojo besedo.",
+    "Ko so recitirali božanske besede, nisem mogel zanikati njihove zgovornosti, a moj ponos mi ni dovolil, da bi se jim podredil.",
+    "Zbral sem svoje svetovalce in se osamil, da bi razmislil o načinu, kako bi diskreditiral sporočilo.",
+    "Po dolgem premisleku sem razglasil, da gre zgolj za 'magijo, prepuščeno iz preteklosti', ki odvrača ljudi.",
+    "Razodetje se je nato obrnilo neposredno name: 'Pusti me s tistim, ki sem ga ustvaril.' Izbrali so me zaradi mojih spletk.",
+    "Kmalu me bo za las zgrabil isti ogenj, pred katerim so me opozorili, in ne bom mogel pobegniti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Al-Valid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Džahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Valid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zarotili so se za atentat na preroka",
+        "Vodil je bojkot proti muslimanom",
+        "Zbral svet, da bi Koran označil za magijo",
+        "Načrtovali so izgon preroka iz Meke",
+        "Ni hotel deliti svojega bogastva s sirotami"
+      ],
+      "answer": "Zbral svet, da bi Koran označil za magijo"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Razodetje",
+        "Svet",
+        "Prednji pramen",
+        "Bogastvo",
+        "Pero"
+      ],
+      "answer": "Prednji pramen"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Pokesal se je in sprejel islam",
+        "Preselil se je v Abesinijo",
+        "Zbolela ga je smrtonosna bolezen",
+        "Umrl je v boju proti muslimanom",
+        "Obsojen je bil na peklenski ogenj"
+      ],
+      "answer": "Obsojen je bil na peklenski ogenj"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

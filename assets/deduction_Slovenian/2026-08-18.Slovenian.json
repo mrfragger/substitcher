@@ -1,0 +1,61 @@
+{
+  "title": "Tisti, ki si je prislužil suro",
+  "intro": "Predstavljajte si ponižno dušo, ki se približa enemu od Alahovih poslancev s srcem, polnim iskrenosti, in globoko željo po učenju. Pa vendar je ravno v tistem trenutku bogata in ugledna oseba pritegnila Poslančevo pozornost, iskalec pa se je namrščil. Kar je sledilo, ni bilo nič manj kot celotno poglavje Korana, poslano, da bi popravilo Poslanca in počastilo dušo, ki je prišla iskat.",
+  "clues": [
+    "K Allahovemu poslancu sem prišel z odprtim srcem in globoko željo po vodstvu.",
+    "Nisem imel posvetnega statusa, le ponižno dušo, ki išče resnico",
+    "Moje fizične oči niso mogle videti, moj duhovni vid pa je bil jasen",
+    "Prispel sem v neprimernem trenutku, ko je bil sel zaposlen z osebo velikega vpliva.",
+    "Namrščen pogled se je obrnil proti meni, a Alah se je odzval z božanskim popravkom.",
+    "Sem Abdullah ibn Umm Maktum, zvesti spremljevalec, čigar zgodba je navdihnila suro Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Džabal",
+        "Zajd ibn Tabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Preizkus / dogodek",
+      "options": [
+        "Biti zavrnjen s strani preroka zaradi bogate osebe",
+        "Biti vržen v divji ogenj s strani sovražnikov",
+        "Biti prodan in preganjan kot suženj",
+        "Biti izzvan na dvoboj s strani mogočnega bojevnika",
+        "Biti pogoltnjen s strani velike ribe"
+      ],
+      "answer": "Biti zavrnjen s strani preroka zaradi bogate osebe"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Koransko poglavje, ki se začne z namrščenim izrazom (sura Abasa)",
+        "Ogenj, ki je postal hladen in varen",
+        "Palica, ki je razcepila mogočno morje",
+        "Barka, zgrajena na visoki gori",
+        "Ptica, oblikovana iz strjene gline"
+      ],
+      "answer": "Koransko poglavje, ki se začne z namrščenim izrazom (sura Abasa)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Allah je razodel koransko suro, ki me brani",
+        "Alah je ogenj naredil hladen in varen zame",
+        "Alah je razprl morje, da bi me rešil pred zasledovanjem",
+        "Alah mi je podelil veliko kraljestvo in modrost",
+        "Alah me je vzel v nebesa brez smrti"
+      ],
+      "answer": "Allah je razodel koransko suro, ki me brani"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

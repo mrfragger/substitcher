@@ -1,0 +1,61 @@
+{
+  "title": "Leungeun-Leungeun Anu Dikutuk",
+  "intro": "Anjeun nangtung di gang-gang anu ngalingkung di Mekah kuno, dimana hiji jiwa anu berpengaruh sareng beunghar baheula ngajauhan panggero bebeneran. Carita tokoh ieu mangrupikeun panginget anu jelas yén ikatan getih moal tiasa ngungkulan ranté kareueus. Saha ieu anu namina ngageter dina seuneu anu ngantosan?",
+  "clues": [
+    "Kuring leumpang di jalan-jalan Mekah kalawan adigung anu ngabutakeun kuring kana bebeneran, sanajan utusan éta téh getih kuring sorangan.",
+    "Harta banda kuring kacida lobana, tapi éta jadi kutukan lain tameng.",
+    "Kitab pituduh nyarioskeun ngeunaan karuksakan kuring, nyatakeun yén leungeun sareng diri kuring bakal binasa.",
+    "Pamajikan kuring ngiringan kampanye mumusuhan kuring, ngumpulkeun cucuk pikeun disebarkeun di jalan jalma anu ngadawuh ka Allah.",
+    "Dina poé kiamat, abdi bakal dilelepkeun kana seuneu anu ngagedur, sareng pasangan abdi bakal ngagantungkeun tali tina ijuk kana beuheungna.",
+    "Abdi dikenal ku nami anu hartosna 'bapa seuneu' — nami anu ngaramalkeun tempat tinggal abdi anu langgeng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahal",
+        "Abu Thalib",
+        "Abu Sufyan",
+        "Al-Walid bin al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Uji Coba atanapi Acara Kunci",
+      "options": [
+        "Ngalawan Nabi sareng dikutuk dina Al-Qur'an",
+        "Mingpin pasukan pikeun ngancurkeun Ka'bah",
+        "Nyobian maehan Nabi ku cara ngalungkeun batu",
+        "Teu percaya kana beulahna bulan",
+        "Ngawangun menara pikeun ngahontal langit"
+      ],
+      "answer": "Ngalawan Nabi sareng dikutuk dina Al-Qur'an"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Seuneu Naraka anu ngagedur",
+        "Staf Musa",
+        "Bahtera Nabi Nuh",
+        "Sumur Zamzam",
+        "Anak Sapi Emas"
+      ],
+      "answer": "Seuneu Naraka anu ngagedur"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Anjeunna bakal asup ka seuneu naraka anu ngagedur, sareng hartana moal aya mangpaatna pikeun anjeunna",
+        "Anjeunna tobat sareng janten jalmi anu iman",
+        "Anjeunna dihampura saatos ngabatalkeun dosana",
+        "Anjeunna maot salaku martir",
+        "Anjeunna diangkat ka langit"
+      ],
+      "answer": "Anjeunna bakal asup ka seuneu naraka anu ngagedur, sareng hartana moal aya mangpaatna pikeun anjeunna"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

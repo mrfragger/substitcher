@@ -1,0 +1,61 @@
+{
+  "title": "Sovrani që kërkoi hyjni",
+  "intro": "Një sundimtar i fuqishëm dhe arrogant besonte se askush nuk qëndronte mbi fronin e tij. Ata ndoqën një grup njerëzish që po iknin përmes një sipërfaqeje të madhe uji, vetëm për të përjetuar një fund dramatik. Historia e këtij sovrani jehon në shumë fragmente të Kuranit, duke shërbyer si një paralajmërim për të gjithë.",
+  "clues": [
+    "Isha një sundimtar i fuqishëm që besoja se asnjë autoritet nuk e tejkalonte timin në tokat që qeverisja.",
+    "Kisha një vezir të besuar të quajtur Haman, i cili më ndihmonte të realizoja projekte të mëdha arkitekturore.",
+    "Thirra magjistarët më të mirë të tokës sime për të sfiduar shenjat e një të dërguari që më kundërshtoi.",
+    "Unë refuzova të lejoja një popull të skllavëruar brenda mbretërisë sime të largohej, pavarësisht murtajave dhe paralajmërimeve të qarta.",
+    "I ndoqa ata përtej një deti të gjerë me tërë ushtrinë dhe qerret e mia.",
+    "Pikërisht ai det u mbyll mbi mua dhe forcat e mia, duke na mbytur të gjithëve, ndërsa ata kalonin shëndoshë e mirë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Faraoni",
+        "Nemrud",
+        "Ebu Leheb",
+        "Haman",
+        "Ebu Xhehl"
+      ],
+      "answer": "Faraoni"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Murtajat dhe përballja me Musain (Moisiun)",
+        "Ndërtimi i një arke para një përmbytjeje të madhe",
+        "Beteja kundër Jalutit në luginë",
+        "Gëlltitja nga një balenë",
+        "Mbrojtja e peshave të ndershme tregtare"
+      ],
+      "answer": "Murtajat dhe përballja me Musain (Moisiun)"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Kulla dhe kunja të larta",
+        "Një arkë e madhe prej druri",
+        "Një viç i artë",
+        "Një shkop që u shndërrua në gjarpër",
+        "Një balenë masive"
+      ],
+      "answer": "Kulla dhe kunja të larta"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U mbyt në det me ushtrinë",
+        "I shpëtuar nga mëshira dhe durimi i Allahut i shpërblyer",
+        "Ribashkohet me familjen pas vitesh të vështira",
+        "Gëlltitur nga toka",
+        "I djegur në zjarr"
+      ],
+      "answer": "U mbyt në det me ushtrinë"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

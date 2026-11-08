@@ -1,0 +1,61 @@
+{
+  "title": "The Outcast of the Heavens",
+  "intro": "A mysterious being stands at the crossroads of creation and rejection. Their story is one of unparalleled arrogance and the ultimate defiance of a divine command. Their choice echoes through every generation, becoming a test for every soul born into this world. Can you identify this eternal adversary?",
+  "clues": [
+    "I was present at an event of cosmic significance, when a new being was formed from clay and given life by the Breath of the Merciful.",
+    "I myself was brought into existence from a single blazing element, unlike that being of dust.",
+    "A command was issued to me that I deemed beneath my station.",
+    "Pride swelled within me, and I adamantly refused to comply with that command.",
+    "A delay until an appointed Day was granted to me, so that I might pursue my declared purpose of misleading others.",
+    "I am the declared enemy of all who walk the earth, whispering deceptions and luring them away from the straight path."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Iblis (Satan)",
+        "Pharaoh (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Refused to bow before Adam",
+        "Claimed divinity falsely",
+        "Forged a golden calf for worship",
+        "Killed his brother out of envy",
+        "Led the polytheist opposition in Makkah"
+      ],
+      "answer": "Refused to bow before Adam"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Paradise (Jannah)",
+        "Pharaoh's palace in Egypt",
+        "The sacred valley of Tuwa",
+        "The depths of the sea",
+        "The garden of Sheba"
+      ],
+      "answer": "Paradise (Jannah)"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Granted respite until the Day of Judgment",
+        "Drowned along with the army in the sea",
+        "Swallowed by the earth along with treasures",
+        "Transformed into apes for violating the Sabbath",
+        "Burned by stones hurled from the sky"
+      ],
+      "answer": "Granted respite until the Day of Judgment"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

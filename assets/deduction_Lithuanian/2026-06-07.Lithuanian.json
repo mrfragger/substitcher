@@ -1,0 +1,61 @@
+{
+  "title": "Kankinama Nilo siela",
+  "intro": "Didelės priespaudos amžiuje, kai tironas valdė kraštą su absoliučiu žiaurumu, viena siela pasirinko tikėjimo kelią, o ne karališkosios šeimos paguodą. Ši asmenybė, gyvenusi valdžios širdyje, rado tiesą nuolankaus pranašo pamoksle. Jų kelionė tapo nesenstančia kantrybės, pasiaukojimo ir nepajudinamo įsitikinimo pamoka. Ar galite atpažinti šią nepaprastą asmenybę, kuri pirmenybę teikė dieviškam malonumui, o ne žemiškam statusui?",
+  "clues": [
+    "Gyvenau didžios galios rūmuose, tačiau mano širdis rado tiesą nuolankioje žinioje.",
+    "Pasirinkau sekti Musos nurodymais, žinodamas, su kokiomis pasekmėmis susidursiu.",
+    "Buvau ištekėjusi už galingiausio savo laikų tirono, tačiau atmečiau jo netikrus dievus.",
+    "Mano kančia buvo sunki, nes buvau nubaustas už tikėjimą Vienu Dievu.",
+    "Niekada nesvyravau savo tikėjimu, net susidūręs su sunkiausiomis kančiomis.",
+    "Mano Viešpats buvo patenkintas mano kantrybe ir išrinko mane garbingai vietai Rojuje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašo Mozės motina",
+        "Faraono žmona",
+        "Pranašo Musos sesuo",
+        "Senovės Egipto karalienė",
+        "Izraelitų tarnas"
+      ],
+      "answer": "Faraono žmona"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Kovojame Alacho labui su armija",
+        "Susidūrimas su faraonu ir tikėjimo išpažinimas",
+        "Kulto vietų statyba Egipte",
+        "Kelionė per jūrą su Musa",
+        "Gauti apreiškimą iš Alacho"
+      ],
+      "answer": "Susidūrimas su faraonu ir tikėjimo išpažinimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Midjano dykuma",
+        "Egipto karališkieji rūmai",
+        "Nilo upės krantai",
+        "Sinajaus kalnas",
+        "Kanaano žemė"
+      ],
+      "answer": "Egipto karališkieji rūmai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Po daugelio metų tapo pranašu",
+        "Išvedė izraelitus iš Egipto",
+        "Jam buvo suteikta suverenitetas Egipte",
+        "Buvo nukankintas ir pagerbtas Alacho",
+        "Iki senatvės gyveno patogiai"
+      ],
+      "answer": "Buvo nukankintas ir pagerbtas Alacho"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

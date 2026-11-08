@@ -1,0 +1,61 @@
+{
+  "title": "O arquitecto da arrogancia",
+  "intro": "Nunha terra antiga gobernada por un poder desafiante, un individuo clave ocupaba unha posición de influencia. Esta alma foi fundamental nos grandes plans do gobernante, contribuíndo ao seu reinado opresivo e desafiando a mensaxe divina. O seu legado está entrelazado coa busca do poder mundano e a negación da verdade.",
+  "clues": [
+    "Servín a un gobernante formidable que oprimiu a un pobo durante xeracións.",
+    "O meu nome menciónase con frecuencia no Libro Divino xunto a este poderoso líder.",
+    "Encargáronme un gran proxecto de construción, unha estrutura imponente destinada a alcanzar os ceos.",
+    "Aconsellei ao meu amo que matase os fillos dos fillos de Israel e perdoase as súas fillas.",
+    "Estiven involucrado en complots e conspiracións contra un poderoso mensaxeiro de Alá.",
+    "O meu fin, xunto co meu señor e o seu exército, chegou nas augas dun vasto mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliat",
+        "Iblis",
+        "Amán"
+      ],
+      "answer": "Amán"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Sendo postos a proba con inmensas riquezas",
+        "Liderando un exército contra unha casa sagrada",
+        "Construíndo unha torre para chegar a Deus",
+        "Sendo lanzados ao lume polas súas crenzas",
+        "Ser lanzado a un pozo polos seus irmáns"
+      ],
+      "answer": "Construíndo unha torre para chegar a Deus"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Arca",
+        "O persoal",
+        "A montaña",
+        "A Torre",
+        "A balea"
+      ],
+      "answer": "A Torre"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Sendo outorgada unha inmensa sabedoría",
+        "Converterse en profeta",
+        "Ser engulido pola terra",
+        "Concedéndose un reino",
+        "Afogándose no mar"
+      ],
+      "answer": "Afogándose no mar"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

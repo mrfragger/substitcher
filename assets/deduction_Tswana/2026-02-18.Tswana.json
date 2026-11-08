@@ -1,0 +1,61 @@
+{
+  "title": "Mosupi yo o Tlhomameng",
+  "intro": "Go tlhagelela kanelo e e tseneletseng, e e senolang tshwetso e e sa reketleng ya setšhaba fa se lebane le bosetlhogo jo bogolo. Kgang ya bone e dira jaaka bosupi jwa tumelo, le fa ba lebane le setlhabelo sa bofelo. Pego eno e re gakolola maatla a tumelo kgatlhanong le kgatelelo e e boitshegang.",
+  "clues": [
+    "Re ne re le setlhopha se kgang ya sone e anelwang mo surah e khutshwane e e maatla, e e tlhagisang kgatlhanong le pogiso.",
+    "Re ne ra lebana le mmusi yo o neng a eletsa go fedisa tumelo ya rona mo Modimong o le Mongwe, Morena wa Setulo sa Bogosi, Yo o Tshwanetsweng ke Pako.",
+    "Re ne ra lebana le teko e e boitshegang e e neng e akaretsa go epa mokoti o mogolo mo lefatsheng.",
+    "Re ne re lebile fa badumedi, go akaretsa le masea, ba latlhelwa mo diheleng tse di tukang mo teng ga mokoti oo.",
+    "Batho ba ba neng ba re bogisa ba ne ba hutsiwa ka ntlha ya ditiro tsa bone, fa rona re ne re solofediwa tuelo e e seng kana ka sepe ka ntlha ya go tlhomama ga rona.",
+    "Maiteko a mmusi a go tima tumelo ya rona a ne a tiisa fela lefelo la rona jaaka baswelatumelo mo matlhong a ga Allah, yo e leng mosupi wa dilo tsotlhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Thamude",
+        "Batho ba 'Ad",
+        "Batho ba Mosele",
+        "Batho ba Lute",
+        "Batho ba Tlou"
+      ],
+      "answer": "Batho ba Mosele"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Morwalela o Mogolo",
+        "Setlhatshana se se Fisang",
+        "Go Nwela mo Lewatleng",
+        "Mosima wa Molelo",
+        "Thoromo ya Lefatshe"
+      ],
+      "answer": "Mosima wa Molelo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Badiri",
+        "Mosele",
+        "Thaba",
+        "Sediba"
+      ],
+      "answer": "Mosele"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ba ne ba newa bogosi",
+        "Ba pholositswe ke kgakgamatso",
+        "O fitlheletse boswelatumelo le Paradaese",
+        "Ba ne ba gasame mo mafatsheng otlhe",
+        "Ba ne ba newa khumo e ntsi thata"
+      ],
+      "answer": "O fitlheletse boswelatumelo le Paradaese"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

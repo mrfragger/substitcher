@@ -1,0 +1,61 @@
+{
+  "title": "Allahi kõrgendatud teener",
+  "intro": "Sa kuuled sosinat iidsetest aegadest pärit tegelasest, Allahi teenrist, kes ülendati tavalisest kõrgemale seisusele. See inimene oli tuntud oma vankumatu kannatlikkuse ja absoluutse tõesuse poolest ning saadeti rahva juurde, kes pöördus sõnumist ära. Kes on see ülev hing?",
+  "clues": [
+    "Mind valis Allah prohvetiks ja mind on mainitud Pühas Koraanis.",
+    "Mind tunti oma kannatlikkuse ja tõemeelsuse poolest – omaduste poolest, mida Allah kiidab.",
+    "Ma kutsusin oma rahvast üles kummardama Ühte Jumalat, aga paljud hülgasid mind.",
+    "Allah ülendas mu seisust ja mulle anti kõrge auaste.",
+    "Mind mainitakse sageli koos teiste prohvetitega, näiteks Ismaili ja Dhul-Kifliga.",
+    "Allah ütleb minu kohta: „Ja Me tõstsime ta kõrgele seisusele.“ (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Idris",
+        "Prohvet Elias",
+        "Prohvet Dhu al-Kifl",
+        "Prohvet Al-Yasa",
+        "Prohvet Hud"
+      ],
+      "answer": "Prohvet Idris"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kutsus inimesi Allahi kummardama",
+        "Ehitas laeva",
+        "Võitles vaarao vastu",
+        "Testiti raske haigusega",
+        "Visati tulle"
+      ],
+      "answer": "Kutsus inimesi Allahi kummardama"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kõrge auaste/kõrge ametikoht",
+        "Laev",
+        "Personal",
+        "Tuli",
+        "Kaev"
+      ],
+      "answer": "Kõrge auaste/kõrge ametikoht"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Kõrgele staatusesse tõstetud",
+        "Uppus üleujutuses",
+        "Vaala poolt alla neelatud",
+        "Päästetud tulest",
+        "Sai kuningaks"
+      ],
+      "answer": "Kõrgele staatusesse tõstetud"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

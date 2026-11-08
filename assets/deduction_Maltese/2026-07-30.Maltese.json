@@ -1,0 +1,61 @@
+{
+  "title": "Il-Viżitaturi Strambi ta’ Belt Imdawra bis-Swar",
+  "intro": "Grupp wasal fil-bibien ta’ belt li n-nies tagħha qatt ma kienu jafu l-verità. Huma ġabu messaġġ, iżda l-abitanti saru ostili, u heddew bil-vjolenza. Madankollu, minn post mhux mistenni, qamet vuċi waħda biex tiddefendi lill-barranin, u wittiet it-triq għal żvolta drammatika tal-ġrajjiet.",
+  "clues": [
+    "Dħalna f'belt li n-nies tagħha kienu mgħaddsa fl-inkredulità.",
+    "Ħarsu lejna b’suspett u qalulna, ‘Intom biss bnedmin ordinarji bħalna.’",
+    "Aħna wissejnihom, imma huma tellgħu l-ġebel kontrina.",
+    "Raġel ġera mill-aktar tarf imbiegħed tal-belt biex jafferma l-verità tagħna.",
+    "Huwa ddikjara lill-poplu tiegħu, 'Għaliex m'għandix inqim lil Dak li ħalaqni?'",
+    "Iċ-ċaħda tal-belt intemmet b’daqqa waħda ta’ ħoss, u rrenja s-skiet fejn qabel kienu jgħajjru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Il-Messaġġiera ta’ Ya-Sin",
+        "Id-Dixxipli ta’ Isa",
+        "In-Nies tat-Trinka",
+        "Il-Maġi tal-Fargħun",
+        "Il-Kredent ta' Ya-Sin"
+      ],
+      "answer": "Il-Messaġġiera ta’ Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ċaħda u theddida ta’ tħaġġir",
+        "Li jintrema f'nar qawwi",
+        "Test tal-paċenzja ma’ tifel mitluf",
+        "Ġnien li sofra qerda",
+        "Vjaġġ fil-baħar"
+      ],
+      "answer": "Ċaħda u theddida ta’ tħaġġir"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-iktar tarf imbiegħed tal-belt",
+        "Il-Baħar l-Aħmar",
+        "Il-foss tan-nar",
+        "L-għar tar-refuġju",
+        "Il-ħabs tal-Eġittu"
+      ],
+      "answer": "L-iktar tarf imbiegħed tal-belt"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-belt inqerdet b’għajta waħda",
+        "Il-baħar infetaħ u għarraq l-armata",
+        "In-nar sar kiesaħ u sigur",
+        "Il-ġnien inħataf minn nar tas-sema",
+        "Il-baliena rritornat lill-persuna lejn ix-xatt"
+      ],
+      "answer": "Il-belt inqerdet b’għajta waħda"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

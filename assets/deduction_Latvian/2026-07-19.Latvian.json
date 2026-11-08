@@ -1,0 +1,61 @@
+{
+  "title": "Gadsimtu neieklausītā balss",
+  "intro": "Ilgi pirms lielo pilsētu celšanās, starp tautu, kas bija novērsusies no patiesības, radās vientuļa dvēsele. Viņu spītībai līdzinājās tikai šī vientuļā saucēja pacietība, kurš lūdza cauri paaudzēm, nezaudējot apņēmību. Kad visi brīdinājumi palika nedzirdīgi, nepieredzēts atmaksas brīdis pārveidoja pašu zemi. Šodien šī stāsta atbalsis joprojām viļņojas katrā nolasījumā. Vai vari atpazīt šo apņēmīgo dvēseli?",
+  "clues": [
+    "Es uzaugu starp cilvēkiem, kas pielūdza viltus elkus un ignorēja apkārtējās zīmes, tomēr es tiku izredzēts, lai pamodinātu viņus no viņu neuzmanības.",
+    "Es atkal un atkal saucu savus ļaudis, bet viņi mani apsūdzēja, ka es neesmu nekas vairāk kā cilvēks kā viņi, izsmejot manu vēsti un aizspiežot savas ausis.",
+    "Dienu un nakti es viņus lūdzu ar gudrību un maigiem atgādinājumiem, bet mani vārdi it kā izgaisa gaisā, nedzirdēti un neievēroti.",
+    "Pēc dievišķa norādījuma es uz sauszemes uzbūvēju milzīgu kuģi no kokmateriāliem un dēļiem, un mani ļaudis smējās par mani kā par tādu, kas zaudējis saprātu.",
+    "Kad, kā solīts, pienāca lielie plūdi, mans paša dēls atteicās kāpt kopā ar mani uz kuģa, ticot, ka kalns viņu pasargās no pieaugošajiem ūdeņiem.",
+    "Es kļuvu par jauna sākuma patriarhu uz zemes, un mans stāsts ir saglabāts Korāna nodaļā, kurā ir mans vārds."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Nuhs",
+        "Pravietis Ibrahims",
+        "Pravietis Musa",
+        "Pravietis Lūts",
+        "Pravietis Huds"
+      ],
+      "answer": "Pravietis Nuhs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lielie plūdi, kas pārveidoja Zemi",
+        "Elku pielūdzēju iemests liesmojošā ugunī",
+        "Konfrontācija ar faraona burvjiem pilī",
+        "Debesu vētra iznīcina plaukstošos dārzus",
+        "Tranšeju iemītnieku apgāšana"
+      ],
+      "answer": "Lielie plūdi, kas pārveidoja Zemi"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "No kokmateriāliem un dēļiem celta šķirsta",
+        "Svētā māja, kas celta uz seniem pamatiem",
+        "Personāla, kas pārvērtās par čūsku,",
+        "Guļošo jaunekļu ala",
+        "Troni nes varena radība"
+      ],
+      "answer": "No kokmateriāliem un dēļiem celta šķirsta"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Neticīgie noslīka, kamēr ticīgie tika izglābti uz kuģa.",
+        "Ugunsgrēks atdzisa un kļuva drošs, un zvanītājs izkļuva neskarts.",
+        "Burvji nokrita zemē un pieņēma ticību",
+        "Dārzs tika piešķirts taisnīgajam kaimiņam tā vietā",
+        "Gulētāji pamodās pēc gadsimtiem, pārveidojušies"
+      ],
+      "answer": "Neticīgie noslīka, kamēr ticīgie tika izglābti uz kuģa."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

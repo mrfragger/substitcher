@@ -1,0 +1,61 @@
+{
+  "title": "O Eco da Orla da Cidade",
+  "intro": "Em uma cidade que se afastou da orientação divina, uma figura solitária emergiu da periferia, correndo com uma mensagem de esperança e advertência. Essa alma esquecida se tornaria um símbolo eterno de fé inabalável.",
+  "clues": [
+    "Testemunhei o envio de mensageiros à minha cidade, mas meu povo os desconsiderou, tratando-os como seres humanos comuns.",
+    "Acreditei na mensagem deles e senti a verdade ressoar dentro de mim.",
+    "Exortei meu povo a obedecer aos mensageiros que não pediram recompensa.",
+    "Corri do extremo mais distante da cidade, tentando desesperadamente fazê-los enxergar a razão.",
+    "Meu povo se levantou contra mim, e eu fui morto, mas encontrei a paz eterna.",
+    "Alá me disse: 'Entre no Paraíso', e eu desejei que meu povo pudesse testemunhar a honra que me foi concedida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O crente de Ya-Sin",
+        "Uzair, o Questionador",
+        "Al-Khidr, o Guia",
+        "O crente da família do faraó",
+        "Namrud, o Tirano"
+      ],
+      "answer": "O crente de Ya-Sin"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Confrontando um povo incrédulo que o matou.",
+        "Ser atirado em um fogo ardente.",
+        "Ser engolido por um peixe enorme",
+        "Construindo uma arca enorme",
+        "Fugindo do exército de um tirano"
+      ],
+      "answer": "Confrontando um povo incrédulo que o matou."
+    },
+    "location": {
+      "label": "Localização chave",
+      "options": [
+        "O extremo mais distante da cidade",
+        "A montanha de Tur",
+        "O Vale das Formigas",
+        "As margens do Nilo",
+        "A caverna da caverna"
+      ],
+      "answer": "O extremo mais distante da cidade"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Martírio e entrada imediata no Paraíso",
+        "Fuga e salvação",
+        "Ascensão aos céus",
+        "Afogando-se no mar",
+        "Transformando-se em pedra"
+      ],
+      "answer": "Martírio e entrada imediata no Paraíso"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

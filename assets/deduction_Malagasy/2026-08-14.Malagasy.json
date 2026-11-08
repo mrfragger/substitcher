@@ -1,0 +1,61 @@
+{
+  "title": "Ireo Tanana Voaozona",
+  "intro": "Mijoro eo amin'ireo lalantsara miolikolika ao amin'ny tanànan'i Makkah fahiny ianao, izay toerana nandavan'ny fanahin'ny olona manan-kery sy manankarena ny antson'ny fahamarinana. Ny tantaran'ity olona ity dia fampahatsiahivana mazava fa ny fifamatoran'ny ra dia tsy afaka mandresy ny rojo vy avonavona. Iza moa ity iray ity izay maneno miaraka amin'ny afo miandry ny anarany?",
+  "clues": [
+    "Nandeha teny amin'ny araben'i Lameka aho tamim-pireharehana izay nanajamba ahy tsy hahita ny fahamarinana, na dia avy tamin'ny foko ihany aza ilay iraka.",
+    "Be dia be ny fananako, saingy lasa ozona fa tsy ampinga.",
+    "Ny bokin'ny fitarihana dia miresaka momba ny faharavako, manambara fa ho faty ny tanako sy ny tenako.",
+    "Nanatevin-daharana ny fanafihako ny vadiko, nanangona tsilo mba hamafazana eo amin'ny lalan'ilay miantso an'i Allah.",
+    "Amin'ny andro fitsarana dia hatsipy ao anaty afo mirehitra aho, ary ny vadiko dia hafatotra amin'ny tady vita amin'ny hazo palmie.",
+    "Fantatra amin'ny anarana midika hoe 'rain'ny lelafo' aho — anarana izay manambara mialoha ny toeram-ponenako mandrakizay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sofyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Fitsapana na hetsika manan-danja",
+      "options": [
+        "Nanohitra ny Mpaminany ary voaozona ao amin'ny Korany",
+        "Nitarika tafika handrava ny Kaaba",
+        "Niezaka namono ny Mpaminany tamin'ny fitoraham-bato",
+        "Tsy nety nino ny fiparitahan'ny volana",
+        "Nanangana tilikambo iray mba hanatratrarana ny lanitra"
+      ],
+      "answer": "Nanohitra ny Mpaminany ary voaozona ao amin'ny Korany"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny afo mirehitra any amin'ny helo",
+        "Ny Tehin'i Musa",
+        "Ny Fiaraben'i Noa",
+        "Ny Farihin'i Zamzam",
+        "Ilay Ombilahy Kely Volamena"
+      ],
+      "answer": "Ny afo mirehitra any amin'ny helo"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Hiditra ao amin'ny afo mirehitra izy, ary tsy hahasoa azy ny harenany",
+        "Nibebaka izy ary lasa mpino",
+        "Voavela ny helony rehefa avy niala tamin'ny finoany izy",
+        "Maty maritiora izy",
+        "Nentina tany an-danitra izy"
+      ],
+      "answer": "Hiditra ao amin'ny afo mirehitra izy, ary tsy hahasoa azy ny harenany"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

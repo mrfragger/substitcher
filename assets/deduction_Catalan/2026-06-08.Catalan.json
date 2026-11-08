@@ -1,0 +1,61 @@
+{
+  "title": "El suplicant del santuari",
+  "intro": "En les hores tranquil·les de la nit, una ànima devota va invocar el Més Misericordiós dins dels murs sagrats d'un lloc sagrat. Anys de fe i paciència inquebrantables estaven a punt de ser recompensats amb un miracle que portaria alegria i un llegat de profecia.",
+  "clues": [
+    "Vaig passar els meus dies i les meves nits en devoció dins d'un santuari sant, suplicant constantment al meu Senyor.",
+    "Vaig envellir i la meva dona era estèril, però mai vaig perdre l'esperança en la misericòrdia d'Al·là.",
+    "Em van concedir un fill, anomenat Yahya, que es va convertir en un profeta i un far de justícia.",
+    "Jo mateix vaig ser un profeta, enviat per guiar els fills d'Israel.",
+    "Jo era descendent del profeta Harun i vaig servir com a sacerdot al Temple.",
+    "Em van confiar la cura de Maryam, la mare d'Isa, i vaig presenciar els seus miracles."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Zacaries",
+        "Profeta Yahya",
+        "Profeta Ilyas",
+        "Profeta Ishaq",
+        "Profeta Ya'qub"
+      ],
+      "answer": "Profeta Zacaries"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va atorgar un fill a la vellesa",
+        "Salvat d'un incendi ardent",
+        "Rescat del ventre d'un peix",
+        "Va sobreviure a una gran inundació",
+        "Curat d'una greu malaltia"
+      ],
+      "answer": "Va atorgar un fill a la vellesa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El Mihrab (nínxol d'oració)",
+        "La Kaaba",
+        "L'Arbust Ardent",
+        "L'Arca de l'Aliança",
+        "La Cova dels Set Dorments"
+      ],
+      "answer": "El Mihrab (nínxol d'oració)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Concedit un fill just que es va convertir en profeta",
+        "Destruït per una violenta tempesta",
+        "Ofegat al mar",
+        "Salvat de ser cremat",
+        "Van tornar amb el seu poble després de ser salvats d'un peix"
+      ],
+      "answer": "Concedit un fill just que es va convertir en profeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

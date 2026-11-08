@@ -1,0 +1,61 @@
+{
+  "title": "Közlər üzərində deyilən bir vəd",
+  "intro": "Səhra ocağının közləri diqqətlə səpələnərkən onun yanında dayanırsınız. Qonaqlar sükut içində görüşmək üçün gəlirlər və tək bir mesaj vəd, sürpriz və hələ gerçəkləşməmiş bir gələcək hekayəsini açır.",
+  "clues": [
+    "Səhrada sadiq bir xidmətçiyə çatmaq üçün məsafəni qət etdik.",
+    "Biz tonqal hazırlamaq üçün közlərin yayılmasını xahiş etdik.",
+    "Sərinlik və təhlükəsizlik üçün alov çağıran biri ilə danışdıq.",
+    "Uşaq sahibi olmaq yaşını keçmiş birinə yeni doğulmuş körpə xəbərini çatdırdıq.",
+    "Vəd edilmiş uşağa İshaq adını verdik.",
+    "Biz İbrahimə bir oğul müjdəsi verdik və bu heyrətamiz xəbər İbrahimi güldürdü."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İbrahimə İshaqın müjdəsini gətirən mələklər",
+        "Lutu xəbərdar edən mələklər",
+        "Taxt Daşıyan Mələklər",
+        "Cəhənnəm Mələkləri",
+        "Nuha göndərilən mələklər"
+      ],
+      "answer": "İbrahimə İshaqın müjdəsini gətirən mələklər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İbrahimə İshaqın doğulması xəbərini çatdırmaq",
+        "Lut öz xalqının cəzasından əvvəl xəbərdarlıq edir",
+        "Zəkəriyyəyə Yəhyanın doğulduğunu xəbər vermək",
+        "Qiyamət günü taxtı daşımaq",
+        "İsanın doğulduğunu Məryəmə xəbər vermək"
+      ],
+      "answer": "İbrahimə İshaqın doğulması xəbərini çatdırmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Səpələnmiş közlərdən hazırlanmış od",
+        "Daşqın suyunun üzərində üzən bir gəmi",
+        "Yuvarlanan daşla möhürlənmiş mağara",
+        "Duzlu su ilə bərkimiş gil dağı",
+        "Göyə uzanan bir nərdivan"
+      ],
+      "answer": "Səpələnmiş közlərdən hazırlanmış od"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İshaq adlı bir oğulun müjdəsi",
+        "Yəhya adlı bir oğul müjdəsi",
+        "Talutun İsrail oğullarına hökmdar seçilməsi",
+        "Lut qövmünün cəzasından əvvəl bir xəbərdarlıq",
+        "Daşqından əvvəl gəmi tikmək əmri"
+      ],
+      "answer": "İshaq adlı bir oğulun müjdəsi"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

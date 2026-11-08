@@ -1,0 +1,61 @@
+{
+  "title": "Ang Unang Dugo nga Giula sa Kasina",
+  "intro": "Handurawa ang unang mga adlaw sa katawhan, sa dihang ang tibuok kalibutan usa pa ka pamilya. Makita nimo ang duha ka halad nga gibutang sa atubangan ni Allah — ang usa gidawat, ang usa gisalikway. Ang kasina mogamot sa kasingkasing, ug ang hulga ihunghong sa kasuko. Ang mosunod magbilin ug marka sa kasaysayan hangtod sa hangtod, ug bisan ang usa ka gamay nga langgam mahimong magtutudlo.",
+  "clues": [
+    "Sakop ako sa pinakaunang pamilya dinhi sa yuta.",
+    "Naghalad ako kang Allah, apan ang akoa wala gidawat samtang ang usa ka halad gidawat.",
+    "Nasina ko ug naghulga nga mohunot og kinabuhi.",
+    "Ako ang nakahimo sa unang dili makiangayon nga pagpatay dinhi sa yuta.",
+    "Nakakita kog uwak nga nagkalot sa yuta aron ipakita nako unsaon pagtago sa usa ka patayng lawas.",
+    "Napuno ako sa pagbasol ug nahiapil ako sa mga napildi tungod sa gibuhat sa akong mga kamot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Qabil (Cain), anak ni Adan",
+        "Si Samiri, ang magbubuhat sa nati nga baka",
+        "Si Namrud, ang malupigon nga nakiglalis kang Ibrahim",
+        "Si Azar, ang magbubuhat sa mga diosdios",
+        "Si Kan'an, ang nalumos nga anak ni Nuh"
+      ],
+      "answer": "Qabil (Cain), anak ni Adan"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagpatay sa igsoon tungod sa kasina human gibalibaran ang tanyag",
+        "Pagtukod og taas nga tore aron pagtan-aw sa langit",
+        "Paghulma og bulawan nga nating baka alang sa pagsimba",
+        "Nangayo og lamesa nga gibuklad gikan sa langit",
+        "Nanguna sa kasundalohan sa mga elepante aron gub-on ang Kaaba"
+      ],
+      "answer": "Pagpatay sa igsoon tungod sa kasina human gibalibaran ang tanyag"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka uwak nga nagkalot sa yuta aron ipakita ang lubong",
+        "Usa ka bulawan nga nating baka nga nag-uwang",
+        "Usa ka dakong arka ibabaw sa mga tubig sa lunop",
+        "Usa ka sungkod nga nahimong bitin",
+        "Usa ka lamesa nga puno sa pagkaon gikan sa langit"
+      ],
+      "answer": "Usa ka uwak nga nagkalot sa yuta aron ipakita ang lubong"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nahimong mahinulsulon ug lakip sa mga napildi",
+        "Nalumos sa dakong baha",
+        "Gilamoy sa yuta uban sa bahandi",
+        "Gisakit ug sanla sulod sa pito ka tuig",
+        "Gihatagan og gingharian nga makakontrol sa mga hangin"
+      ],
+      "answer": "Nahimong mahinulsulon ug lakip sa mga napildi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

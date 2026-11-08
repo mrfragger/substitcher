@@ -1,0 +1,61 @@
+{
+  "title": "Jainkozko zeinu baten zaindaria",
+  "intro": "Santutegi sakratu baten sakonean, arima bedeinkatu bat jainkozko zaintzapean zaindu zuten. Pertsona honek gertaera miragarri batean funtsezko zeregina betetzea zuen helburu, Alaren botere eta jakinduria mugagabearen lekuko bihurtuz. Haien bidaiak egia sakon bat agerian utzi zuen, pertzepzioak zalantzan jarriz eta gizateria osoarentzako seinale paregabea ezarriz.",
+  "clues": [
+    "Alak aukeratu eta purifikatu ninduen nire garaiko emakume guztien artean.",
+    "Profeta zuzen baten zaintzapean jarri ninduten, eta hark mirari baten moduan eman zion bizibidea nire otoitz-gelan.",
+    "Familiatik leku pribatu batera isolatu nintzen Ala gurtzeko.",
+    "Aingeru bat agertu zitzaidan gizon perfektu baten itxuran, seme garbi baten berri emanez, nahiz eta ez nuen gizonezkorik ezagutu.",
+    "Erditze-minaren ondoren, palmondo baten enborra astintzeko agindu zidaten janari berria aurkitzeko.",
+    "Jaioberria eskuan nuen jendearengana itzuli nintzenean, galdekatu egin zidaten, baina nire seme haurtxoak, mirari gisa, sehaskatik hitz egin zuen nire alde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sara (Ibrahim profetaren emaztea)",
+        "Hajar (Ismail profetaren ama)",
+        "Bilqis (Sabako erregina)",
+        "Asiya (Faraoiaren emaztea)",
+        "Maryam (Maria)"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde handi batek suntsitu zuen nazio sinesgaitz bat",
+        "Idoloak ukatzeagatik su bizian botata izatea",
+        "Aitarik gabeko haur baten jaiotza miragarria",
+        "Misio bat uzteagatik balea batek irentsi izana",
+        "Hiri baten suntsipena praktika immoralengatik"
+      ],
+      "answer": "Aitarik gabeko haur baten jaiotza miragarria"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko txahal bat",
+        "Itunaren Arka",
+        "Otoitz-ganbera sakratua (Mihrab)",
+        "Txori hiztun bat (Hudhud)",
+        "Suge bihurtu zen makila"
+      ],
+      "answer": "Otoitz-ganbera sakratua (Mihrab)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Tenplu bikain baten eraikuntza",
+        "Itsasoa zatitzea herri batek zeharkatu ahal izateko",
+        "Sehaskatik gurasoen alde hitz egin zuen haurra",
+        "Gizateria gidatzeko jainkozko liburu baten errebelazioa",
+        "Haize eta jinn-ez bedeinkatutako erreinua"
+      ],
+      "answer": "Sehaskatik gurasoen alde hitz egin zuen haurra"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

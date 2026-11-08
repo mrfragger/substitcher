@@ -1,0 +1,61 @@
+{
+  "title": "Multitudo Evanescens",
+  "intro": "Coram resonantia communitatis cuius historia in undis scripta est, stas. Hae animae clamorem audiverunt, contumaciam elegerunt, et consequentiam quae terram reformavit subierunt. Quinam sunt, et quid de mundo eorum factum est?",
+  "clues": [
+    "Olim viximus, et nuntius ad nos venit ex nobis.",
+    "Quinque idola coluimus et ea deserere recusavimus.",
+    "Nuntium derisimus et errorem accusavimus.",
+    "Postulavimus ut poenam adferret si verax esset.",
+    "Vidimus caelos imbrem fundere et terram fontes proruere.",
+    "Ad excelsa ascendimus ut effugeremus, sed undae nos praevaluerunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Populus Nuh",
+        "Populus 'Ad",
+        "Populus Thamudensis",
+        "Populus Lut",
+        "Populus Madyani"
+      ],
+      "answer": "Populus Nuh"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "In magna inundatione submersi sumus",
+        "Procella deleti sumus",
+        "Magna fragore interfecti sumus",
+        "A terra absorpti sumus",
+        "Lapidibus e caelo iacti sumus"
+      ],
+      "answer": "In magna inundatione submersi sumus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Magnum diluvium",
+        "Ventus vehemens",
+        "Pluvia lapidum",
+        "Flatus igneus",
+        "Terrae motus"
+      ],
+      "answer": "Magnum diluvium"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Omnes periimus praeter credentes cum Nuh.",
+        "In simias transformati sumus",
+        "Ruinae viatoribus relicti sumus",
+        "In salem conversi sumus",
+        "Nobis concessum est requies"
+      ],
+      "answer": "Omnes periimus praeter credentes cum Nuh."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

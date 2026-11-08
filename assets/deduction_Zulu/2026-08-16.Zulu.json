@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Elithule Ekamelweni",
+  "intro": "Umthandazo owaphindwa ethule ekamelweni elingcwele kudala, uvuka emphefumulweni osekhulile olangazelela lokho izwe elalikubize ngokuthi akunakwenzeka. Lesi sibalo, esikhulile ngeminyaka futhi sinomthwalo wokukhathazeka ngekusasa, saphendukela eNkosini yaso ngokunxusa komuntu siqu. Okwalandela kwaba impendulo yaphezulu eyamelana nakho konke okulindelwe ngokwemvelo—ubufakazi bomusa waLowo ophendula ubizo oluphelelwe yithemba.",
+  "clues": [
+    "Ngabiza iNkosi yami ngasese, ngaya ekamelweni lapho ngazinikela khona ekukhulekeleni kwayo.",
+    "Ngavuma eNkosini yami ukuthi ngangisaba labo ababezoza emva kwami, ngikhathazekile ngesiqondiso sabantu bakithi uma sengihambile.",
+    "Ukuguga kwase kungificile—amathambo ami ayesebuthakathaka futhi izinwele ezimhlophe zase zisakazeke ekhanda lami.",
+    "Umlingani wami wayeyinyumba impilo yakhe yonke, kodwa ngisacela iNkosi yami ukuba ingiphe indlalifa evela ebukhoneni bayo.",
+    "Ngacela isibonakaliso, iNkosi yami yangiphendula ngokungivimba ukuthi ngingakhulumi nanoma ubani ubusuku obuthathu, kuyilapho ngihlala ngiphilile ngokomzimba.",
+    "Ngathenjiswa indodana ebizo layo linguYahya, igama iNkosi yami eyathi alikaze linikwe muntu ngaphambili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uZakariya",
+        "Umprofethi uNuh",
+        "Umprofethi uMusa",
+        "Umprofethi uYusuf",
+        "Umprofethi uDawud"
+      ],
+      "answer": "Umprofethi uZakariya"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuthandazela indlalifa ekugugeni nomlingani oyinyumba",
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukugwinywa yinhlanzi enkulu ebumnyameni",
+        "Ukubekezelela ukulahlekelwa umndeni, ingcebo, kanye nempilo",
+        "Uyalwa ukuba akhe umkhumbi omkhulu"
+      ],
+      "answer": "Ukuthandazela indlalifa ekugugeni nomlingani oyinyumba"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Igumbi lokuthandaza (i-mihrab)",
+        "Intonga eyaphenduka inyoka",
+        "Umkhumbi omkhulu wokhuni",
+        "Ingadi enentwasahlobo eyingqayizivele",
+        "Intaba lapho izinyoni zibuthana khona"
+      ],
+      "answer": "Igumbi lokuthandaza (i-mihrab)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wanikwa indodana eqanjwe ngokuyisimangaliso naphezu kokuguga kakhulu",
+        "Ngasindiswa emlilweni ovuthayo ngomyalo kaNkulunkulu",
+        "Isikhukhula esikhulu sabhubhisa abangakholwa",
+        "Ukubuyiselwa emndenini, engcebweni, nasempilweni ngemva kokubekezela",
+        "UFaro nebutho lakhe baminza olwandle"
+      ],
+      "answer": "Wanikwa indodana eqanjwe ngokuyisimangaliso naphezu kokuguga kakhulu"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

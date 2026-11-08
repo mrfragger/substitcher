@@ -1,0 +1,61 @@
+{
+  "title": "Verhottu uskovainen tyrannin hovissa",
+  "intro": "Koraanin tunteman ylimielisimmän hallitsijan kullatuissa saleissa – joissa jumalallisen uhmaaminen määritteli jokaisen määräyksen – yksi sielu kulki etuoikeutettujen joukossa piilottaen vaarallisimmat salaisuudet kaikkien nähtävillä. Tämä henkilö kantoi noiden seinien sisällä niin kiellettyä uskoa, että sen paljastaminen merkitsisi varmaa kuolemaa. Silti vakaumus paloi kuin liekki tuhkan alla, ja kun hetki koitti, totuus kaikui rohkeudella, joka ravisteli tyrannin palatsin perustuksia.",
+  "clues": [
+    "Elin aikani mahtavimman ja ylimielisimmän hallitsijan sisäpiirissä, ylellisyyden ja vaikutusvallan ympäröimänä.",
+    "Kätkin todellisen uskomukseni syvälle sydämeeni, peläten henkeni edestä niiltä, ​​jotka hallitsivat julmasti ja sortaen.",
+    "Kun kansani epäili ja horjui totuuden edessä, astuin esiin varoittamaan heitä traagisesta kohtalosta, joka oli kohdannut menneitä kansoja, jotka hylkäsivät Herransa sanansaattajat.",
+    "Muistutin kansaani tarinasta rakkaasta nuoresta unelmoijasta, jonka omat sukulaiset kukistivat, mutta joka nousi suureen auktoriteettiin kaukaisessa maassa.",
+    "Kehotin kansaani olemaan tottelematta hallitsijaa, joka oli johtanut heidät harhaan, vaan kutsuin heitä seuraamaan minua vanhurskauden ja johdatuksen polulla.",
+    "Puhuin avoimesti totuuden, vaikka tyrannin seuraajat uhkasivat kivittää minut tai karkottaa minut maasta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Faaraon perheen piilotettu uskovainen",
+        "Kärsivällinen patriarkka, joka itki sokeana, kunnes hänen poikansa palasi",
+        "Uskollinen palvelija, jonka ihosairaus lopulta parani",
+        "Syntinen poika, joka hylkäsi profeetan kutsun nousta arkkiin",
+        "Armoton tyranni, joka väitti olevansa jumalia"
+      ],
+      "answer": "Faaraon perheen piilotettu uskovainen"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Uskon salaaminen tyrannin hovissa",
+        "Kärsivät sokeudesta vuosien itkemisen jälkeen",
+        "Perheen menetyksen ja ankaran ahdingon koettelemana",
+        "Suuren laivan rakentaminen samalla kun sitä pilkataan",
+        "Suuren tulipalon polttavan kuumuuden kestäminen"
+      ],
+      "answer": "Uskon salaaminen tyrannin hovissa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Faaraon palatsi",
+        "Vuorenhuippu, jolle arkki rakennettiin",
+        "Pyhä laakso Siinainvuoren alla",
+        "Upea puutarha, jossa virtaa kaksi puroa",
+        "Kristallivaltaistuin maanalaisen joen yllä"
+      ],
+      "answer": "Faaraon palatsi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Jumalallinen suojelus sortajien tuhon aikana",
+        "Palasi perheen luo vuosikymmenten eron jälkeen",
+        "Sain kärsivällisyyttä, terveyteni palautui ja perheemme kasvoi",
+        "Pelastui veneellä, kun muu maailma hukkui",
+        "Pelastettiin vahingoittumattomana liekeistä Allahin käskystä"
+      ],
+      "answer": "Jumalallinen suojelus sortajien tuhon aikana"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

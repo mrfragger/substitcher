@@ -1,0 +1,61 @@
+{
+  "title": "Az arrogancia építésze",
+  "intro": "Egy dacos hatalom uralta ősi földön egy kulcsfontosságú személy befolyásos pozíciót töltött be. Ez a lélek fontos szerepet játszott az uralkodó nagyszabású terveiben, hozzájárult elnyomó uralkodásához és megkérdőjelezte az isteni üzenetet. Örökségük összefonódik a világi hatalom hajszolásával és az igazság tagadásával.",
+  "clues": [
+    "Egy félelmetes uralkodót szolgáltam, aki generációkon át elnyomott egy népet.",
+    "A nevem gyakran szerepel az Isteni Könyvben ezzel a hatalmas vezetővel együtt.",
+    "Egy grandiózus építési projekttel bíztak meg, egy hatalmas építménnyel, amelynek az eget kellett volna elérnie.",
+    "Azt tanácsoltam uramnak, hogy ölje meg Izrael gyermekeinek fiait, és hagyja életben a lányaikat.",
+    "Részt vettem Allah hatalmas küldötte elleni összeesküvésekben és cselszövésekben.",
+    "Végem, urammal és seregével együtt, egy hatalmas tenger vizében érkezett el."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Nimród",
+        "Ábrahám",
+        "Góliát",
+        "Iblisz",
+        "Hámán"
+      ],
+      "answer": "Hámán"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Hatalmas vagyonnal próbára téve",
+        "Hadsereget vezetve egy szent ház ellen",
+        "Tornyot építeni, hogy elérjük Istent",
+        "Tűzbe vetik őket a hitükért",
+        "Testvérek által kútba vetve"
+      ],
+      "answer": "Tornyot építeni, hogy elérjük Istent"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A hegy",
+        "A torony",
+        "A bálna"
+      ],
+      "answer": "A torony"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hatalmas bölcsességet kapva",
+        "Prófétává válni",
+        "Elnyeli a föld",
+        "Királyságot kapnak",
+        "Fulladás a tengerben"
+      ],
+      "answer": "Fulladás a tengerben"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

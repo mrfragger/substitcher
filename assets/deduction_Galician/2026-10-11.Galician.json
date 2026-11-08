@@ -1,0 +1,61 @@
+{
+  "title": "A Voz nas Areas Antigas",
+  "intro": "Entre os primeiros mensaxeiros de Alá, houbo un cuxo nome brilla brevemente pero significativamente no Corán. Este individuo viviu moito antes de que fosen enviados moitos grandes profetas e era coñecido pola súa veracidade e paciencia inquebrantables. A súa historia é breve, pero o seu legado perdura no rexistro eterno. Quen é esta nobre alma?",
+  "clues": [
+    "Son un dos primeiros mensaxeiros, mencionado brevemente pero significativamente no Corán.",
+    "O meu carácter definíase por un compromiso inquebrantable coa verdade.",
+    "Son lembrado no libro de Alá entre os que foron firmes e pacientes.",
+    "Só uns poucos versos curtos do Corán contan a miña historia.",
+    "Alá honroume dun xeito que é exclusivamente meu, non compartido con outros profetas.",
+    "Fun elevado a unha alta posición, unha honra singular no Corán."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Ilyas",
+        "Dhul-Kifl",
+        "Profeta Aliása",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Momento decisivo",
+      "options": [
+        "Fun elevado a unha alta posición por Alá",
+        "Construín unha gran arca para salvar ao meu pobo",
+        "Desafiei os feiticeiros do faraón",
+        "Os meus irmáns botáronme a un pozo",
+        "Perdín a vista pola dor polo meu fillo"
+      ],
+      "answer": "Fun elevado a unha alta posición por Alá"
+    },
+    "location": {
+      "label": "Referencia Sagrada",
+      "options": [
+        "Sura Al-Anbiya",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Ash-Shu'ara",
+        "Sura Yasin"
+      ],
+      "answer": "Sura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Honra Divina",
+      "options": [
+        "Unha estación alta como ningunha outra",
+        "Dominio sobre os djinn e os ventos",
+        "Un reino de gloria sen igual",
+        "Un herdeiro da miña vellez",
+        "Un pacto selado con Alá"
+      ],
+      "answer": "Unha estación alta como ningunha outra"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A tollas cserkész",
+  "intro": "Egy olyan királyságban, amelyet valaki uralt, akinek hatalma volt a szelek, a láthatatlan lények és az ég teremtményei felett, egy apró és gyors tag eltűnt a soraiból – hogy aztán olyan kinyilatkoztatásokkal térjen vissza, amelyek átformálják egy távoli nemzet sorsát. Ez az éles szemű informátor napvilágra hozta az igazságot ott, ahol a tudatlanság gyökeret vert. Ki vagyok én?",
+  "clues": [
+    "Egy olyan udvarban szolgáltam, ahol emberek, láthatatlan lények és az ég teremtményei egyetlen bölcs uralkodónak voltak alávetve, aki még a szeleket is uralta.",
+    "Egy ideig távol voltam a posztomtól, és az uralkodó haragját ígérték, ha nem tudok kielégítő indokot szolgáltatni.",
+    "Egy apró, repülő teremtmény vagyok, akit éles látásomról ismernek, és fajtámat a kinyilatkoztatás lapjain közvetlen névadással tisztelték meg.",
+    "Amikor visszatértem, hírt hoztam egy távoli vidékről, ahol az emberek a nap előtt borultak le, vakon arra, aki az eget és a földet teremtette.",
+    "Találtam egy asszonyt, aki egy nagy királyság felett uralkodott, egy pompás trónon ült, és soha azelőtt nem ismerte az igazságot.",
+    "Én fedeztem fel Saba birodalmát, és vittem egy meghívólevelet egy próféta-királytól, akinek hatalmat adott a szél felett."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A búbos banka (Hudhud)",
+        "A hangya Szulejmán völgyéből",
+        "Aszif ibn Barkhija",
+        "Ifrit, a dzsinn",
+        "A trón angyala"
+      ],
+      "answer": "A búbos banka (Hudhud)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az expedíció a Saba' (Sheba) Királyságába",
+        "A fáraó varázslóival való összecsapás",
+        "Nuh próféta özöne",
+        "Az 'Ad népének pusztulása",
+        "A Vörös-tenger kettéhasadása"
+      ],
+      "answer": "Az expedíció a Saba' (Sheba) Királyságába"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Sába (Sába) földje",
+        "Sínai-hegy",
+        "Nuh próféta ládája",
+        "Az Ashab al-Kahf barlang",
+        "A fáraó palotája"
+      ],
+      "answer": "Sába (Sába) földje"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Bilqis alávetette magát Szulejmán udvarának",
+        "A fáraó és serege tengerbe fulladt",
+        "'Ad népét heves szél pusztította el",
+        "A fáraó varázslói hittek Mózes prófétában",
+        "Egy nagy árvíz emésztette el a hitetleneket"
+      ],
+      "answer": "Bilqis alávetette magát Szulejmán udvarának"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

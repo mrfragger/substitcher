@@ -1,0 +1,61 @@
+{
+  "title": "An Misean sa Chathair Ársa",
+  "intro": "Baile ársa deannach, a mhuintir sáite i séanadh, agus rabhadh deiridh nár tugadh aird air. Inniu, glac ról na ndaoine a sheol Allah chun teachtaireacht a sheachadadh chuig pobal ceanndána. Scéal diúltaithe, guth uathúil creidimh, agus críoch séalaithe ag foraithne tubaisteach. Cé a labhraíonn trí na leideanna seo?",
+  "clues": [
+    "Chuir Allah sinn chuig baile a raibh a mhuintir tar éis iompú ón bhfírinne",
+    "Tháinig beirt againn ar dtús, agus ansin chuaigh an tríú duine isteach chun ár misean a neartú",
+    "Dhiúltaigh muintir an bhaile dúinn, ag rá nach raibh ionainn ach daoine cosúil leo féin",
+    "Rith anam aonair ó cheann is faide den chathair chun a rá leis na daoine sinn a leanúint",
+    "D’impíomar orthu, ach chruigh siad a gcroí agus chas siad inár n-aghaidh.",
+    "I nglao uafásach amháin ó na flaithis, cuireadh tost ar ár gcathair ar fad"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Teachtairí an Bhaile i Surah Ya-Sin",
+        "An Hawwariyyun (Deisceabail Isa)",
+        "Draoithe Chúirt an Fharó",
+        "Compánaigh na Sabóide",
+        "Muintir an Eilifint"
+      ],
+      "answer": "Teachtairí an Bhaile i Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Diúltaithe agus bréagadóirí tugtha orthu ag muintir an bhaile",
+        "Dóite beo i tine mhór lasrach",
+        "Slogtha ag iasc mór sa bhfarraige dhomhain",
+        "Éigean chun saothar a dhéanamh ag tógáil colúin arda",
+        "Céasadh i dtrinse tine raging"
+      ],
+      "answer": "Diúltaithe agus bréagadóirí tugtha orthu ag muintir an bhaile"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An baile ársa (al-Qaryah)",
+        "Foirnéis mhór lasrach",
+        "Bolg éisc mhóir",
+        "An colún ard a bhuaileann leis an spéir",
+        "An Teach Naofa (Kaaba)"
+      ],
+      "answer": "An baile ársa (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosadh an baile le scread uafásach amháin (Sayha)",
+        "Báthadh an tíoránach agus a arm sa bhfarraige scoilte",
+        "Claochlaíodh na daoine ina apaí agus ina moncaí",
+        "Scrios báisteach cloch ón spéir an chathair",
+        "Scuab tuile fhoréigneach an pobal ar fad"
+      ],
+      "answer": "Scriosadh an baile le scread uafásach amháin (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

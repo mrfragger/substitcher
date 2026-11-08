@@ -1,0 +1,61 @@
+{
+  "title": "La voix de la conviction dissimulée",
+  "intro": "Au cœur d'une cour tyrannique, où l'incrédulité était la loi, une âme solitaire marchait sur le fil du rasoir, partagée entre foi et peur. Cet individu, proche du pouvoir, entendit le message d'un prophète accueilli avec mépris et menaces. Un moment décisif survint, le contraignant à choisir entre le silence et la sécurité, ou la révélation d'une vérité dangereuse. Saurez-vous découvrir l'identité de ce courageux défenseur ?",
+  "clues": [
+    "J'ai vécu au sein même de la maison d'un tyran, témoin direct de l'arrogance qui rejetait les signes divins.",
+    "J'ai gardé ma foi secrète, un trésor caché dans un palais d'idolâtrie.",
+    "J'ai entendu le chef que je servais comploter pour tuer un messager d'Allah, un homme nommé Moïse.",
+    "J'ai remis en question leur logique, en leur rappelant le sort des peuples de Noé, d'Ad et de Thamoud.",
+    "J'ai posé une question cruciale à mon peuple : « S'il est menteur, son mensonge se retournera contre lui ; mais s'il est sincère, certaines de ses promesses vous frapperont de plein fouet. »",
+    "Mon histoire est racontée en exemple de foi dans la sourate intitulée « Le Pardonneur », où j'ai mis en garde mon peuple contre les complots des puissants."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le croyant de la famille de Fir'awn",
+        "Haman",
+        "Les Magiciens de Fir'awn",
+        "Qarun",
+        "Le Samiri"
+      ],
+      "answer": "Le croyant de la famille de Fir'awn"
+    },
+    "trial": {
+      "label": "En quoi consistait mon procès ?",
+      "options": [
+        "La défense du prophète Moïse devant le tribunal du tyran",
+        "Construire une tour vertigineuse pour atteindre les cieux",
+        "Être jeté dans un feu ardent",
+        "Être avalé par un poisson géant",
+        "Perdre toute sa richesse et sa santé"
+      ],
+      "answer": "La défense du prophète Moïse devant le tribunal du tyran"
+    },
+    "location": {
+      "label": "Quel était le thème de mon argumentation ?",
+      "options": [
+        "Les conséquences du rejet du message d'un prophète",
+        "La demande d'un signe d'un arbre sacré",
+        "La création d'un veau à partir de bijoux en fusion",
+        "Le miracle d'un chameau sorti de roche",
+        "L'interprétation des rêves d'un souverain"
+      ],
+      "answer": "Les conséquences du rejet du message d'un prophète"
+    },
+    "outcome": {
+      "label": "Quel a été le résultat ?",
+      "options": [
+        "Allah a sauvé cette personne de leur complot maléfique",
+        "L'ensemble du tribunal a immédiatement accepté l'islam.",
+        "Le tyran se repentit au moment de se noyer.",
+        "Le tyran fut englouti par la terre",
+        "L'individu fut exilé dans un pays lointain."
+      ],
+      "answer": "Allah a sauvé cette personne de leur complot maléfique"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

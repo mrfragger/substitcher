@@ -1,0 +1,61 @@
+{
+  "title": "Tiếng Nói Thầm Lặng của Thung Lũng",
+  "intro": "Hãy quay ngược thời gian về một dân tộc hùng mạnh từng nhận được một kỳ tích sống như một thử thách. Sự kiêu ngạo và ngoan cố đã định đoạt số phận của họ. Bạn có thể lần theo câu chuyện và khám phá điều gì đã xảy ra trong bước ngoặt đầy kịch tính này không?",
+  "clues": [
+    "Tôi được phái đến như một thử thách thiêng liêng cho một dân tộc hùng mạnh, nổi tiếng về sức mạnh và sự bất khuất.",
+    "Tôi là một hiện tượng độc nhất vô nhị—chưa từng có ai giống tôi xuất hiện giữa họ.",
+    "Tôi chia sẻ nước uống từ giếng với người dân của mình cách ngày.",
+    "Họ đã được cảnh báo rằng bất kỳ hành vi gây hại nào đối với tôi sẽ bị trừng phạt ngay lập tức.",
+    "Kẻ liều lĩnh nhất trong số họ đã phớt lờ lời cảnh báo và làm tê liệt tôi.",
+    "Sau khi tôi chết, một tiếng gầm vang dội từ trên cao đã hủy diệt toàn bộ dân tộc tôi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Con lạc đà cái của Salih",
+        "Con bò của Musa",
+        "Con tàu của Nuh",
+        "Cây gậy của Musa",
+        "Ngai vàng của Bilqis"
+      ],
+      "answer": "Con lạc đà cái của Salih"
+    },
+    "trial": {
+      "label": "Số phận của tôi",
+      "options": [
+        "Bị trói chân và bị giết",
+        "Bị giết như một vật tế lễ",
+        "Biến thành một con rắn",
+        "Được bảo tồn qua trận đại hồng thủy.",
+        "Được đưa nhanh chóng qua một vương quốc."
+      ],
+      "answer": "Bị trói chân và bị giết"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một giếng nước",
+        "Một tấm bia đá",
+        "Một bụi cây bốc cháy",
+        "Một chiếc hòm gỗ",
+        "Một ngai vàng bằng vàng và bạc"
+      ],
+      "answer": "Một giếng nước"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị tiêu diệt chỉ bằng một tiếng thét",
+        "Chết đuối trong trận lụt lớn",
+        "Bị bỏng bởi một trận mưa đá.",
+        "Bị gió mạnh quật ngã",
+        "Bị đất nuốt chửng"
+      ],
+      "answer": "Bị tiêu diệt chỉ bằng một tiếng thét"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

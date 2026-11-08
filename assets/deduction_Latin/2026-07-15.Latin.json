@@ -1,0 +1,61 @@
+{
+  "title": "Refugium Solitarium",
+  "intro": "In annalibus divinae gratiae, anima puritatis incomparabilis exstat, a populo suo separata ut solitudinem in sacra directione quaereret. Parum sciebant hanc seclusionem signum omnibus mundis allaturam esse, fidei probationem de qua in aeternum loquentur.",
+  "clues": [
+    "Vitae servitio dedicata eram ante ortum meum.",
+    "Sub tutelam nobilis prophetae commissus sum.",
+    "Provisis ab Allah sustentatus sum, quae custodem meum miratum reddiderunt.",
+    "A familia mea in locum orientalem me recessi.",
+    "Apparuit mihi angelus in forma viri perfecti, nuntium afferens de filio puro.",
+    "Cum cum infante meo recens nato redii, mei me accusaverunt, sed infans pro me locutus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Maria (Maria)",
+        "Asiyah (uxor Pharaonis)",
+        "Hajar (mater Ismaili)",
+        "Sara (uxor Ibrahimi)",
+        "Mater Musae"
+      ],
+      "answer": "Maria (Maria)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Mirabilis conceptio et nativitas filii",
+        "In ignem coniectus",
+        "Ab ingenti pisce deglutitus",
+        "Arcam magnam aedificans",
+        "Trans mare"
+      ],
+      "answer": "Mirabilis conceptio et nativitas filii"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Locus orientalis secretus",
+        "Rubus ardens",
+        "Mare Rubrum",
+        "Petra ex qua aqua profluxit",
+        "Balaena"
+      ],
+      "answer": "Locus orientalis secretus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Infans pro matre locutus est",
+        "Mare divisum est",
+        "Ignis frigidus et tutus factus est",
+        "Balaena in litus evomuit",
+        "Arca in montem appulit"
+      ],
+      "answer": "Infans pro matre locutus est"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

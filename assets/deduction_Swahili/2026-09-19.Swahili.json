@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Zilizojitolea Kando ya Nabii",
+  "intro": "Katika nchi ya mbali, mjumbe mtukufu alikabiliwa na kukataliwa vikali na mamlaka tawala za enzi hiyo. Lakini duara dogo la roho zilizojitolea zilisimama kando ya mtumishi huyu wa Mwenyezi Mungu, zikiwa na hamu ya kujibu wito wa kimungu. Imani yao isiyoyumba ingegawanya taifa lenye nguvu na hatimaye kushinda nguvu za ukafiri.",
+  "clues": [
+    "Tulikuwa kikundi kidogo kilichojitolea, kilichoungana katika imani na kusudi.",
+    "Tulisimama kando ya mjumbe mtukufu ambaye alikataliwa na mamlaka yenye nguvu ya nchi yao.",
+    "Mjumbe huyu alipouliza, 'Ni nani wasaidizi wangu katika njia ya Mwenyezi Mungu?' tulijibu bila kusita.",
+    "Tulimwomba mjumbe huyu atafute karamu kutoka mbinguni ili kuleta uhakikisho mioyoni mwetu.",
+    "Miongoni mwa watu wa enzi hiyo, baadhi waliamini kupitia ujumbe wetu na wengine walikataa kwa ukaidi, lakini Mwenyezi Mungu aliwatia nguvu waumini.",
+    "Sisi ni Hawwariyyun — wanafunzi waaminifu wa Isa, waliofanywa washindi kupitia msaada wa Mwenyezi Mungu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Hawwariyyun (Wanafunzi wa Isa)",
+        "Masahaba wa Pango",
+        "Mke wa Firauni Mwaminifu",
+        "Familia ya Kifalme ya Saba",
+        "Wachawi walioamini katika mahakama ya Farao"
+      ],
+      "answer": "Hawwariyyun (Wanafunzi wa Isa)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuahidi uaminifu kama wafuasi wa misheni ya nabii",
+        "Kuhifadhiwa usingizini ndani ya pango lililofungwa",
+        "Kutupwa kwenye handaki linalowaka moto kwa ajili ya imani",
+        "Kunusurika njama ya kuangamiza watoto wachanga",
+        "Kushuhudia bahari zikitengana kwa amri ya nabii"
+      ],
+      "answer": "Kuahidi uaminifu kama wafuasi wa misheni ya nabii"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Meza iliyopambwa kwa chakula cha mbinguni kutoka angani",
+        "Meli iliyojengwa na Mungu ikipumzika kwenye kilele cha mlima",
+        "Fimbo iliyokula uchawi wa madhalimu",
+        "Pango lililofungwa kwa ulinzi wa kimungu",
+        "Ngamia jike aliyetoka kwenye mwamba imara"
+      ],
+      "answer": "Meza iliyopambwa kwa chakula cha mbinguni kutoka angani"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Walitawaliwa na mamlaka juu ya wale waliokataa ujumbe",
+        "Nililala kwa amani kwa miaka mia tatu",
+        "Waliokolewa kutoka kwa maji ya gharika kuu",
+        "Alishuhudia mtawala mkandamizaji na jeshi lake wakizama majini",
+        "Walikusanya dhahabu na hazina zisizohesabika lakini waliharibiwa na kiburi"
+      ],
+      "answer": "Walitawaliwa na mamlaka juu ya wale waliokataa ujumbe"
+    }
+  },
+  "verseRef": "61:14",
+  "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+  "verse": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant. (61:14)"
+}

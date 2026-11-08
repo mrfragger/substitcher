@@ -1,0 +1,61 @@
+{
+  "title": "Glas v starodavnem pesku",
+  "intro": "Med najzgodnejšimi Alahovimi poslanci je bil eden, čigar ime se v Koranu na kratko, a pomenljivo omenja. Ta oseba je živela dolgo preden so bili poslani mnogi veliki preroki, in je bila znana po neomajni resnicoljubnosti in potrpežljivosti. Njihova zgodba je kratka, a njihova zapuščina ostane v večnih zapisih. Kdo je ta plemenita duša?",
+  "clues": [
+    "Sem eden najzgodnejših poslancev, omenjen v Koranu na kratko, a pomenljivo.",
+    "Moj značaj je zaznamovala neomajna predanost resnici.",
+    "V Allahovi knjigi sem omenjen med tistimi, ki so bili vztrajni in potrpežljivi.",
+    "Le nekaj kratkih verzov v Koranu pripoveduje mojo zgodbo.",
+    "Allah me je počastil na način, ki je edinstveno moj in ga ne delim z drugimi preroki.",
+    "Bil sem povišan na visok položaj, kar je v Koranu edinstvena čast."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Idris",
+        "Prerok Iljas",
+        "Zul-kifl",
+        "Prerok Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Prerok Idris"
+    },
+    "trial": {
+      "label": "Prelomni trenutek",
+      "options": [
+        "Alah me je dvignil na visok položaj",
+        "Zgradil sem veliko barko, da bi rešil svoje ljudstvo",
+        "Izzval sem faraonove čarovnike",
+        "Bratje so me vrgli v jamo",
+        "Zaradi žalosti za sinom sem izgubil vid"
+      ],
+      "answer": "Alah me je dvignil na visok položaj"
+    },
+    "location": {
+      "label": "Sveto sklicevanje",
+      "options": [
+        "Sura Al-Anbija",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Aš-Šuara",
+        "Sura Jasin"
+      ],
+      "answer": "Sura Al-Anbija"
+    },
+    "outcome": {
+      "label": "Božanska čast",
+      "options": [
+        "Visoka postaja, kakršne ni mogoče primerjati z drugimi",
+        "Vladavina nad džini in vetrovi",
+        "Kraljestvo neprimerljive slave",
+        "Dedič iz moje starosti",
+        "Zaveza, zapečatena z Alahom"
+      ],
+      "answer": "Visoka postaja, kakršne ni mogoče primerjati z drugimi"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Büyük Hırsın Aptallığı",
+  "intro": "Cesur planları beklenmedik ve güçlü bir sonla karşılaşan kolektif bir varlığın kimliğini ortaya çıkarmak için bir yolculuğa çıkın. Bu anlatı, ilahi kudretin ve kutsal olana karşı geldiğinde dünyevi gücün kırılganlığının derin bir hatırlatıcısı niteliğindedir. Hikayesi Kur'an'da, haddi aşmaya çalışan herkes için bir uyarı olarak kazınmış olan bu grubun gizemini çözün.",
+  "clues": [
+    "Eşsiz gücümüze inanarak büyük bir hırs besledik ve açık, yıkıcı bir amaçla bir yolculuğa çıktık.",
+    "Kibirle dolu liderimiz, birçok kişi tarafından saygı duyulan kutsal bir evi kirletmeye çalışarak, hacıların bizim inşa ettiğimiz bir yapıya yönlendirilmesini hedefledi.",
+    "Uzak bir diyardan, kutsal şehirdeki kadim yapıyı yıkabileceğimize olan güvenimizle, büyük bir kuvvetle ilerledik.",
+    "Ordumuz müthişti, önderliğinde muhteşem yaratıklar vardı; bu, işgal ettiğimiz toprakların sakinlerinin böyle bir seferde nadiren, hatta hiç tanık olmadığı bir manzaraydı.",
+    "Varış noktamıza ulaştığımızda, ilahi bir müdahale gerçekleşti; küçük, kanatlı yaratıklar ortaya çıktı ve üzerimize pişmiş kilden taşlar fırlattılar.",
+    "Tüm seferimiz yıkıcı bir sonla karşılaştı; muazzam gücümüz, çiğnenmiş saman çöpü gibi tamamen yok oldu, büyük planımız toz haline geldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Thamud Halkı",
+        "'Ad' halkı",
+        "Sodom halkı",
+        "Fil Halkı",
+        "Bahçe Halkı"
+      ],
+      "answer": "Fil Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Büyük Tufan",
+        "Kabe'ye Karşı Kampanya",
+        "Putların Yıkımı",
+        "Denizin Yarılması",
+        "Midyan Depremi"
+      ],
+      "answer": "Kabe'ye Karşı Kampanya"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Kabe",
+        "Altın Buzağı",
+        "Yangın"
+      ],
+      "answer": "Kabe"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İlahi kurtuluş",
+        "Uzun bir refah dönemi",
+        "İslam'a Geçiş",
+        "Tamamen yıkım",
+        "Topraklarından sürgün edildiler."
+      ],
+      "answer": "Tamamen yıkım"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

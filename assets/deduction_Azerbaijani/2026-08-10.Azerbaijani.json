@@ -1,0 +1,61 @@
+{
+  "title": "Gizli Məhsulun Qoruyucuları",
+  "intro": "Yaşıl bir diyarda bir qrup şəxs qaranlıq pərdəsi altında gizli bir plan qurdu. Onların ortaq bir məqsədi var idi, amma niyyətləri doğru deyildi. Onlar yatarkən ilahi bir dönüşün onları gözlədiyini bilmirdilər.",
+  "clues": [
+    "Planımızın qüsursuz olduğunu düşünərək qəti qərar verdik.",
+    "Başqaları tərpənməzdən əvvəl, tez çıxmaq istəyirdik.",
+    "Biz ehtiyatlarımıza güvənib, münbit bir torpağa qədəm qoyduq.",
+    "Təyinat yerimizə çatanda oranı boş və kimsəsiz gördük, ona görə də yolumuzu azdığımızı düşündük.",
+    "Sonra başa düşdük ki, bura həqiqətən də bizim yerimizdir və itkimizə görə bir-birimizi günahlandıraraq ümidsizlikdən qışqırdıq.",
+    "Həmin səhər kasıbları məhsulumuzdan uzaqlaşdıracağımıza and içmişdik, amma yatarkən Allahın əzabı bizə gəldi və bağımızı xarabalığa çevirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "68-ci surədə Cənnət Sahibləri",
+        "Səba xalqı",
+        "Mağara Əhli",
+        "Fil xalqı",
+        "Xəndək Əhli"
+      ],
+      "answer": "68-ci surədə Cənnət Sahibləri"
+    },
+    "trial": {
+      "label": "Bizim sınaq",
+      "options": [
+        "Bağçamız göydən gələn bir fəlakətlə məhv oldu",
+        "Bağçamız sel altında qaldı",
+        "Bağçamız düşmən atəşi ilə yandı",
+        "Bağımız çəyirtkələrlə dolu idi",
+        "Bağçamız zəlzələ nəticəsində uduldu"
+      ],
+      "answer": "Bağçamız göydən gələn bir fəlakətlə məhv oldu"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Səhər meyvələrini dərməyə and içdik",
+        "Bağçamızı suvarmaq üçün bənd tikdik",
+        "Sığınacaq üçün bir mağarada sığındıq",
+        "Bir krallığı fəth etmək üçün bir ordu hazırladıq",
+        "Dənizi keçmək üçün gəmi ilə yola düşdük"
+      ],
+      "answer": "Səhər meyvələrini dərməyə and içdik"
+    },
+    "outcome": {
+      "label": "Bizim taleyimiz",
+      "options": [
+        "Biz tövbə etdik və Allahdan mərhəmət ümid etdik",
+        "Biz tamamilə məhv olduq və heç vaxt tövbə etmədik",
+        "Biz torpaqdan qaçdıq və bir daha geri qayıtmadıq",
+        "Yenidən güclü və varlı olduq",
+        "Biz meymuna çevrilməklə cəzalandırıldıq"
+      ],
+      "answer": "Biz tövbə etdik və Allahdan mərhəmət ümid etdik"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

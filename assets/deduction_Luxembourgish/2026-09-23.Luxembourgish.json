@@ -1,0 +1,61 @@
+{
+  "title": "De Ruff, deen d'Eewichte iwwerstanen huet",
+  "intro": "Stellt Iech eng Séil vir, déi eleng géint eng ganz Zivilisatioun stoung, entschloss, si mat onerschütterlecher Entschlossenheet aus der Irrféierung zréckzeféieren. Joerhonnertelaang gouf d'Botschaft verworf, verspott an ofgewisen - awer d'Ustrengung huet ni opgehalen. Schlussendlech koum eng grouss Rechnung, an nëmmen e puer sinn nieft dëser standhafter Séil un d'Erléisung komm. Kënnt Dir dës Figur aus dem Koran identifizéieren?",
+  "clues": [
+    "Ech gouf als Warner fir e Vollek geschéckt, dat op hiren eegene Weeër verluer war.",
+    "Ech hunn si opgeruff, Verzeiung ze sichen an sech vun hire Feeler zréckzedréinen, awer si hunn sech de Réck gedréint.",
+    "Ënnert göttleche Kommando hunn ech e massivt Schëff gebaut, während meng Leit mech gekuckt a veruerteelt hunn.",
+    "Ech hunn mäin Här ouni Opléisung geruff - schliisslech huet Hien geäntwert, an d'Waasser ass a Stréimunge vum Himmel gefloss.",
+    "Ech sinn mat deene gegleeften u Bord vum Schëff gaangen, wéi d'Iwwerschwemmungswaasser iwwer d'Land gestiegen ass.",
+    "Ech hunn zu engem geruff, deen zréckbliwwe war, a gefrot, ob hien op engem Bierg Schutz soll sichen, mä d'Dekret war schonn duerchgefouert."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Hud",
+        "Prophet Salih"
+      ],
+      "answer": "Prophet Nuh"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Eng grouss Ark bauen an eng weltwäit Iwwerschwemmung iwwerliewen",
+        "An e brennend Feier gehäit ginn",
+        "Konfrontatioun mat engem Tyrann a senge mächtege Magier",
+        "Vun engem grousse Fësch verschléckt ginn",
+        "Zeie vum Doud vun engem hellege Kamel"
+      ],
+      "answer": "Eng grouss Ark bauen an eng weltwäit Iwwerschwemmung iwwerliewen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng massiv Holzark op rosen Iwwerschwemmungswaasser",
+        "En hellegt Dall mat antike Steenruinen",
+        "Eng déif Hiel, wou Begleeder Joerhonnerte laang geschlof hunn",
+        "De Bauch vun engem risege Wal an den Déiften vum Ozean",
+        "E risege Bierg aus Steen an der Wüst"
+      ],
+      "answer": "Eng massiv Holzark op rosen Iwwerschwemmungswaasser"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gerett mat de Gleewegen u Bord vum Schëff",
+        "Onverletzt aus dem Feier gerett duerch göttlecht Gebot",
+        "Huet e groussen Exodus aus engem mächtege Kinnekräich gefouert",
+        "Vum Fësch op eng kaal Ufer erausgehäit",
+        "Huet d'Leit duerch e wonnerbart Zeechen vum Ongerechtegkeet ewechgefouert"
+      ],
+      "answer": "Gerett mat de Gleewegen u Bord vum Schëff"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

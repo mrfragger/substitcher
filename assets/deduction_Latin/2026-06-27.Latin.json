@@ -1,0 +1,61 @@
+{
+  "title": "Sacra Absentia",
+  "intro": "Ultra temporis dunas, iacet fabula devotionis indefessae et fiduciae tam gravis ut anima eam portans frangi potuisset. Quo momento populus ad stultitiam et aurum se vertebat, una figura firma stetit — eos revocans, patientiam implorans, et onus promissionis sacrae ferens. Haec est fabula de eo qui electus est ut adiutor, visir, et custos fidei per sacram absentiam. Potesne identitatem huius animae stabilis detegere?",
+  "clues": [
+    "Sanguinem magni prophetae communico, qui electus est ut cum Allah directe in monte sacro loqueretur.",
+    "Frater meus olim Deum imploravit ut ei auxilium ferret ut clare cum magno oppressore loqueretur.",
+    "Ab Allah electus sum ut iuxta fratrem meum starem tamquam adiutor et visir.",
+    "Una cum principe tyranno qui summus deorum appellari postulabat, obviam ivimus.",
+    "Dum frater meus cum Deo in monte communicabat, populus noster ex auro suo sibi idolum finxit.",
+    "Ego sum frater Moysis, ab Allah visir eius constitutus, in Alcorano nominatus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Harun (Aaron)",
+        "Propheta Musa",
+        "Propheta Dawud",
+        "Propheta Yaqub",
+        "Propheta Isaac"
+      ],
+      "answer": "Propheta Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Crisis Cultus Vitulorum",
+        "Magnum Diluvium Nuh",
+        "Proelium Badrianum",
+        "Destructio Thamudis",
+        "Destructio Sodomae"
+      ],
+      "answer": "Crisis Cultus Vitulorum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus Aureus",
+        "Arca Noae",
+        "Rubus Ardens",
+        "Antrum Hirae",
+        "Solium Sabae"
+      ],
+      "answer": "Vitulus Aureus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Innocentia ab Allah Confirmata",
+        "Submersio Pharaonis",
+        "Aedificatio Kaabae",
+        "Transitus Maris Tutus",
+        "Ascensio ad Caelos"
+      ],
+      "answer": "Innocentia ab Allah Confirmata"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

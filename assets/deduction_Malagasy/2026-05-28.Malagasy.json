@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Mahari-po Tsy Mihozongozona",
+  "intro": "Ao amin'ny tantaran'ny mpaminany, vitsy no niaritra fatiantoka lalina sy fahoriana ara-batana toy izany tamim-pinoana tsy azo hozongozonina. Ny tantaran'ity olona ity dia lesona tsy manam-potoana momba ny faharetana sy ny fahatokisana ny fahendren'Andriamanitra. Iza moa io fanahy io?",
+  "clues": [
+    "Nofidin'i Allah aho mba hampita hafatra, saingy ny fitsapana lehibe indrindra tamiko dia tsy avy amin'ny fandavana, fa avy amin'ny loza manokana.",
+    "Nalaina tamiko tsirairay ny fananako, ny biby fiompiko ary ny zanako.",
+    "Feno fery ny vatako, ary izaho irery no navela afa-tsy ny fanohanan'ny vadiko.",
+    "Niantsoantso tamin'ny Tompoko aho, niaiky ny fijaliako ary nitady ny famindram-pony.",
+    "Nasaina namely ny tany tamin'ny tongotro aho, ary dia niboiboika avy teo ny loharano mamelombelona.",
+    "Naverin'Andriamanitra tamiko ny fahasalamako ary nomeny fianakaviana vaovao aho ary harena bebe kokoa noho ny teo aloha aza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ayyub",
+        "Mpaminany Ibrahim",
+        "Mpaminany Musa",
+        "Mpaminany Isa",
+        "Mpaminany Noa"
+      ],
+      "answer": "Mpaminany Ayyub"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Very harena sy fianakaviana",
+        "Atsipy ao anaty afo",
+        "Voatelina trondro",
+        "Tafasaraka tamin'ny fianakaviana ary namidy ho andevo",
+        "Notsapaina tamin'ny ombilahy kely volamena"
+      ],
+      "answer": "Very harena sy fianakaviana"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Loharano misy rano",
+        "Tehina niova ho menarana",
+        "Vata hazo",
+        "Ombilahy kely narendrika",
+        "Hazo palmie"
+      ],
+      "answer": "Loharano misy rano"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Famerenana amin'ny laoniny ny fianakaviana sy ny harena",
+        "Fiakarana any an-danitra",
+        "Lasa mpanjaka",
+        "Voavonjy tamin'ny trozona",
+        "Mandray zanakalahy rehefa antitra"
+      ],
+      "answer": "Famerenana amin'ny laoniny ny fianakaviana sy ny harena"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

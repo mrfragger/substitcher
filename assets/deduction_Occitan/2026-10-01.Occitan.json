@@ -1,0 +1,61 @@
+{
+  "title": "Parlat en èsser",
+  "intro": "Una figura sortís de l'istòria sacrada, portant de miracles que desfisavan l'òrdre natural. Aquela anma arribèt per un sol comandament divin, defendèt un parent d'acusacions grèvas, e partiguèt d'aquel mond abans que las cadenas terrèstras los poguèsson ligar. L'istòria s'espandís d'un umil berç als cèls de naut. Qual poiriá èsser aquò?",
+  "clues": [
+    "Foguèri mandat coma un signe e una misericòrdia d'Allah als Filhs d'Israèl.",
+    "Mon arribada èra diferenta de cap d'abans — venguèri a l'existéncia pel mot divin 'Èsser!' sens un paire terrenal.",
+    "Mon parent afrontèt de calumnias crudèlas, mas una revelacion sacrada davalèt per declarar lor innocéncia e elevar lor estacion.",
+    "Coma un nenon recentament nascut, estonèri los que m'entornavan en parlant clarament dempuèi mon berç per netejar lo nom de mon parent.",
+    "Per la permission d'Allah, faguèri la vida a partir d'argila sens vida, donèri la vista als avegles, e guèri lo lepros amb mon toc.",
+    "Foguèri levat als cèls abans que lo mal me poguèsse tocar, e tornarai dins aquel mond abans que l'Ora finala arribe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Isa",
+        "Lo profèta Musa",
+        "Lo profèta Ibrahim",
+        "Lo profèta Yusuf",
+        "Lo profèta Dawud"
+      ],
+      "answer": "Profèta Isa"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Parlant dempuèi lo berç coma un nenon",
+        "Subreviure dins lo ventre d'un grand peis",
+        "Èsser getat dins un fuòc ardent",
+        "Bastir una granda arca abans un diluvi",
+        "En fàcia de la bruèissa de la cort del faraon"
+      ],
+      "answer": "Parlant dempuèi lo berç coma un nenon"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Injeel (Evangèli)",
+        "La Tawrah (Torah)",
+        "Lo Zabur (Salmes)",
+        "Los Suhuf (Pergamins d'Ibrahim)",
+        "Un baston que fendèt la mar"
+      ],
+      "answer": "L'Injeel (Evangèli)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Levat als cèls, tornarà abans lo Jorn del Jutjament",
+        "Menèt los Filhs d'Israèl fòra d'Egipte",
+        "Venguèt un rei amb lo domini suls jinns, los umans, e los aucèls",
+        "Subrevisquèt a una inondacion massissa amb los fidèls",
+        "Bastiguèt l'ostal sacrat a la Meca"
+      ],
+      "answer": "Levat als cèls, tornarà abans lo Jorn del Jutjament"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

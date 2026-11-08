@@ -1,0 +1,61 @@
+{
+  "title": "Herald Pechod Digynsail",
+  "intro": "Mae rhai straeon yn y Quran yn datgelu dyfnder y llygredd y gall cymdeithas gyfan syrthio iddo. Safodd y negesydd hwn ar ei ben ei hun, yn erfyn ar bobl a oedd wedi boddi mewn gwyrdro nad oedd unrhyw genedl o'u blaenau erioed wedi'i ddilyn. Er gwaethaf blynyddoedd o rybudd, parhaodd calonnau i galedu, a chyrhaeddodd y gorchymyn dwyfol mewn modd mwyaf brawychus. Allwch chi adnabod y negesydd bonheddig hwn gan Allah?",
+  "clues": [
+    "Cefais fy anfon fel rhybuddiwr at bobl a oedd wedi'u difa gan wyrdro nad oedd unrhyw genedl o'u blaenau erioed wedi'i gyflawni.",
+    "Galwodd fy mhobl fi'n gelwyddog a bygwth gyrru fy nilynwyr a minnau allan o'r wlad.",
+    "Daeth ymwelwyr anrhydeddus i'm cartref ar ffurf dynion ifanc oedd ar streic, ac roeddwn i'n teimlo gofid dwfn am eu diogelwch.",
+    "Mynnodd fy mhobl i mi ildio fy ngwesteion iddyn nhw, heb wybod mai angylion a anfonwyd gan Allah oedd yr ymwelwyr hyn.",
+    "Nid oedd fy mhriod fy hun yn rhannu yn fy ffydd a dewisodd aros ar ôl gyda'r rhai tyngheduol.",
+    "Cefais fy achub gyda fy merched ar doriad gwawr, wrth i law dinistriol o gerrig ddisgyn a'n dinasoedd gael eu dymchwel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Lut",
+        "Proffwyd Shu'aib",
+        "Proffwyd Hud",
+        "Proffwyd Nuh",
+        "Proffwyd Salih"
+      ],
+      "answer": "Proffwyd Lut"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Llif mawr yn llyncu'r ddaear",
+        "Colli golwg o ddioddefaint hir",
+        "Teyrn yn honni duwdod",
+        "Cael eich taflu i dân llachar",
+        "Cael eich gofyn i ildio gwesteion anrhydeddus"
+      ],
+      "answer": "Cael eich gofyn i ildio gwesteion anrhydeddus"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Arch fawr wedi'i hadeiladu â llaw",
+        "Staff a holltodd y môr",
+        "Camel benywaidd rhyfeddol",
+        "Tân llosg",
+        "Dinasoedd wedi'u dymchwel"
+      ],
+      "answer": "Dinasoedd wedi'u dymchwel"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Boddi wrth fynd ar ôl y credinwyr",
+        "Wedi'i achub o ffwrnais dân heb ei niweidio",
+        "Wedi'i godi i'r nefoedd yn fyw",
+        "Teulu wedi marw mewn llifogydd mawr",
+        "Teulu wedi'i achub ac eithrio gwraig anffyddlon"
+      ],
+      "answer": "Teulu wedi'i achub ac eithrio gwraig anffyddlon"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

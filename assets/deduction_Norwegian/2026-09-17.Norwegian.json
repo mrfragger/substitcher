@@ -1,0 +1,61 @@
+{
+  "title": "Under daddelpalmens skygge",
+  "intro": "En fortelling utfolder seg om en sjel som ble satt til side før fødselen, pleiet innenfor hellige vegger og valgt til å bære et tegn verden aldri hadde sett. Da anklager steg fra alle kanter, kom en stemme fra det mest usannsynlige sted for å stilne all tvil. Kan du oppdage hvem som vandret under daddelpalmens skygge?",
+  "clues": [
+    "Jeg var viet til tjeneste for Den allmektige før jeg i det hele tatt trakk mitt første åndedrag, et løfte gitt av ham som bar meg.",
+    "Jeg vokste opp under den årvåkne omsorgen til en rettferdig vokter i de hellige kamrene på et tilbedelsessted.",
+    "Hver gang min verge kom til kammerset mitt, fant han hos meg proviant fra årstider som ikke skulle ha vært der.",
+    "Jeg fikk det gode budskapet om en sønn, selv om omstendighetene mine ikke ga rom for det som var lovet.",
+    "Jeg trakk meg tilbake til et fjernt sted, og der ga en daddelpalme meg skygge mens en bekk rant nedenfor.",
+    "Da anklagene kom og spørsmålene omringet meg, pekte jeg på mitt nyfødte barn – og han snakket fra vuggen for å stilne all tvil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawa",
+        "Umm Musa",
+        "Nuhs kone"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Prøve / Arrangement",
+      "options": [
+        "Å føde en mirakuløs sønn i isolasjon",
+        "Å bli kastet inn i en flammende ild av avgudsdyrkere",
+        "Overlevde den store flommen med noen få utvalgte",
+        "Å bli skilt fra et spedbarn som ble kastet i elven",
+        "Konfrontasjon med den mektige herskeren av Egypt"
+      ],
+      "answer": "Å føde en mirakuløs sønn i isolasjon"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En daddelpalme og en rennende bekk under den",
+        "En mektig ark på ruvende bølger",
+        "En stav som delte et stort hav i to",
+        "En flammende ild ment å fortære en trofast sjel",
+        "En gyllen trone utsmykket med edelstener"
+      ],
+      "answer": "En daddelpalme og en rennende bekk under den"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Æret som den mest opphøyde av alle kvinner",
+        "Gjenforent med et elsket barn etter lang tids separasjon",
+        "Ledet en hel nasjon ut av en tyranns fangenskap",
+        "Advarte et folk som var fortapt i umoral",
+        "Gitt herredømme over djinn, menneskeheten og vindene"
+      ],
+      "answer": "Æret som den mest opphøyde av alle kvinner"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

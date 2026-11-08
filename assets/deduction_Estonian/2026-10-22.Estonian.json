@@ -1,0 +1,61 @@
+{
+  "title": "Esimese üleastumise kogukond",
+  "intro": "Muistsete linnade maal elas kord rahvas õitses. Neid külastas sõnumitooja selge kutsega, kuid nad pöördusid selja ja asusid teele, mida keegi polnud kunagi varem käinud. Nende lugu on trotsist, kõlvatusest ja karistusest, mis jättis nende kodumaa märgiks kõigile, kes selle üle järele mõtlevad. Kes need hinged on?",
+  "clues": [
+    "Me elasime tasandiku linnades, kus meie prohvet kutsus meid õiglusele.",
+    "Me olime esimesed, kes panid toime sündsusetuse, mida keegi kogu maailmas polnud varem teinud.",
+    "Me ründasime rändureid ja tegime oma kogunemistel avalikult kurja.",
+    "Me lükkasime tagasi meile saadetud sõnumitooja ja ähvardasime ta meie maalt välja ajada.",
+    "Me tormasime tema majja ja nõudsime, et ta annaks oma külalised meile välja.",
+    "Meie karistuseks oli kivivihm ja meie linn pöörati pea peale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Luti rahvas",
+        "Nuhi rahvas",
+        "'Redi inimesed",
+        "Thamudi rahvas",
+        "Madjani rahvas"
+      ],
+      "answer": "Luti rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Pani toime esimese sodoomia teo",
+        "Kummardasid ebajumalaid",
+        "Petnud kaubanduses",
+        "Tapsid oma prohveti",
+        "Ei kuulanud oma vanemaid"
+      ],
+      "answer": "Pani toime esimese sodoomia teo"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tasandiku linn",
+        "Kaevu linn",
+        "Kraavi linn",
+        "Elevandi linn",
+        "Aia linn"
+      ],
+      "answer": "Tasandiku linn"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sadas kive ja kukkus ümber",
+        "Uppus üleujutuses",
+        "Hävitas tugev tuul",
+        "Maa poolt neelatud",
+        "Valju plahvatuse poolt tabatud"
+      ],
+      "answer": "Sadas kive ja kukkus ümber"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

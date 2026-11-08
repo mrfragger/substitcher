@@ -1,0 +1,61 @@
+{
+  "title": "L'eco de l'engany",
+  "intro": "Un vincle de parentiu va ser posat a prova per una onada d'enveja. Es va tramar un pla secret, posant en marxa una cadena d'esdeveniments que abastarien anys i creuarien vastes distàncies. Les accions d'aquest grup van conduir a una profunda separació i dolor, però la història no va acabar aquí. És una història d'engany, penediment i el desplegament final d'un pla diví. Pots desxifrar la identitat d'aquests individus les eleccions dels quals van ressonar a través de generacions?",
+  "clues": [
+    "Ens consumia la gelosia per l'afecte que es mostrava a un dels nostres.",
+    "En la nostra enveja, vam conspirar junts i vam llançar el nostre germà a la foscor d'un pou.",
+    "Per amagar el nostre acte, vam presentar al nostre pare una peça de vestir tacada de sang falsa.",
+    "Anys més tard, una greu fam ens va obligar a viatjar a Egipte a la recerca de provisions.",
+    "Allà, vam comparèixer davant d'un poderós governador que, sense que ho sabéssim, era el mateix germà a qui havíem fet mal.",
+    "La nostra prova final va ser portar el nostre germà petit, Binyamin, cosa que va portar a la revelació del nostre passat i que el nostre pare era el profeta Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Els fills d'Adam (Qabil i Habil)",
+        "Els deixebles del profeta Isa",
+        "Els germans del profeta Yusuf",
+        "El poble de Madyan",
+        "Els mags de Fir'awn"
+      ],
+      "answer": "Els germans del profeta Yusuf"
+    },
+    "trial": {
+      "label": "Quina va ser la nostra principal mala acció?",
+      "options": [
+        "Construint un vedell d'or per al culte",
+        "Exigint veure Al·là directament",
+        "Burlant-se d'un profeta per construir una arca",
+        "Enganyant el nostre pare i abandonant el nostre germà",
+        "Trencant el Sàbat pescant"
+      ],
+      "answer": "Enganyant el nostre pare i abandonant el nostre germà"
+    },
+    "location": {
+      "label": "Quin objecte va ser el centre del nostre engany?",
+      "options": [
+        "Un conjunt de tauletes inscrites",
+        "Una camisa tacada de sang falsa",
+        "Un vedell d'or",
+        "Un ocell preciós (la puput)",
+        "Un bastó que es va convertir en una serp"
+      ],
+      "answer": "Una camisa tacada de sang falsa"
+    },
+    "outcome": {
+      "label": "Quin va ser el resultat final de la nostra història?",
+      "options": [
+        "Vam ser destruïts per una poderosa inundació",
+        "Ens van convertir en simis",
+        "Ens va engolir la terra",
+        "Vam ser perdonats i reunits amb la nostra família",
+        "Ens vam ofegar al mar"
+      ],
+      "answer": "Vam ser perdonats i reunits amb la nostra família"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tuule ja leegi valitsusaeg",
+  "intro": "Kujutage ette valitsust, kus tuul ise allus ühele valitsejale, kus väikseimate olendite hääled kandsid kaalu ja kus tavalistele silmadele nähtamatud jõud olid hoolikalt teenistuses. See tegelane päris armastatud eelkäijalt erakordse kuningriigi, millel oli võim nii elementide kui ka džinnide üle. Kuid suure autoriteediga kaasnesid suured katsumused – ja viimane hetk paljastaks midagi hämmastavat elu ja surma olemuse kohta.",
+  "clues": [
+    "Ma pärisin suure kuningriigi oma armastatud vanemalt, kes oli ka prohvet ja Allahi teener.",
+    "Allah andis mulle võimu tuule üle, saates selle üheainsa hommikuga kuuajalisele teekonnale.",
+    "Isegi kõige väiksemad olendid räägiksid minu lähenemisest ja ma peatuksin, et imetleda nende teadlikkust.",
+    "Ma juhtisin tohutut džinnide, inimeste ja lindude armeed, kes kõik olid minu ees korrapäraselt rivistatud.",
+    "Kaugelt pärit valitseja tuli mind raske väljakutsega proovile panema ja ma lasin selle valitseja trooni oma õukonda tuua enne, kui külaline jõudis isegi istmelt tõusta.",
+    "Ma jäin kepile toetudes seisma, kuni väike maapealne olend selle läbi näris – ja alles siis said mu ümberolijad aru, et ma olin lahkunud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Sulayman (Saalomon)",
+        "Prohvet Dawud (David)",
+        "Prohvet Isa (Jeesus)",
+        "Prohvet Muhamed ﷺ",
+        "Prohvet Musa (Mooses)"
+      ],
+      "answer": "Prohvet Sulayman (Saalomon)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kauge kuninganna trooni toomine üleloomulike vahenditega",
+        "Lapsena sügavasse kaevu langetamine",
+        "Türanni võlurite vastasseis imeliste märkidega",
+        "Ema au kaitsmiseks hällist saati rääkides",
+        "Viimase ilmutatud pühakirja saamine pühal mäel"
+      ],
+      "answer": "Kauge kuninganna trooni toomine üleloomulike vahenditega"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Termiidi poolt läbi näritud puidust kepp",
+        "Suur laev, mis ehitati ülemaailmse veeuputuse üleelamiseks",
+        "Varras, mis muutus türanni ees maoks",
+        "Riidetükk, mida kasutatakse pimedate ravimiseks",
+        "Püha koobas, kus esmakordselt saadi ilmutus"
+      ],
+      "answer": "Termiidi poolt läbi näritud puidust kepp"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Külaskäigul viibinud aadlik valitseja võttis usu omaks pärast seda, kui oli näinud märke",
+        "Suur veeuputus hävitas kõik peale laeval olevate ustavate",
+        "Vaarao ja tema armee hukkusid meres",
+        "Õige kaaslane ülendati taevasse",
+        "Türannkuningas ja tema linn kukutati ja hävitati"
+      ],
+      "answer": "Külaskäigul viibinud aadlik valitseja võttis usu omaks pärast seda, kui oli näinud märke"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

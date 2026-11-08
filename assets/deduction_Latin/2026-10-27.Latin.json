@@ -1,0 +1,61 @@
+{
+  "title": "Obsidio Sub Caelo Subito",
+  "intro": "Coram exercitu formidabili ad venerabilem sanctuarium appropinquante stas, omnibus armis paratis et victoria certa videlicet. Antequam impetus incipere possit, vis inopinata supra caput apparet, et certamen cursum quem nemo praeviderat accipit.",
+  "clues": [
+    "Cum fiducia iter fecimus quam nulla terrena vis labefactare posset.",
+    "Elephantos magnos adduximus, et copiae nostrae circa eos constructae videbantur.",
+    "Ad diruendum veneramus, victoriam nostram iam certam esse credentes.",
+    "Cum eo pervenissemus, grex per caelum supra nos volatus est.",
+    "Aves lapides ex argilla dura in bellatores nostros iaciebant.",
+    "Tam omnino victi sumus ut ingens vis nostra corrueret et instar cinis dissolveretur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Elephantis",
+        "Duo Principes",
+        "Fratres Iosephi",
+        "Servus Dei in Dhul-Kifl",
+        "Socii Viri Iusti"
+      ],
+      "answer": "Populus Elephantis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Impetus elephantis ductus in Kaabam",
+        "Mare discedens ante gregem liberatum",
+        "Arcae captio a populo tyranno",
+        "Iter nocturnum inter duas meschitas",
+        "Sanatio leprosi divina virtute"
+      ],
+      "answer": "Impetus elephantis ductus in Kaabam"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Aves globulos argillae portantes",
+        "Arca e ligno gopher",
+        "Baculus in serpentem conversus",
+        "Lapis signo obsignatus",
+        "Rubus ardens"
+      ],
+      "answer": "Aves globulos argillae portantes"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Vis eorum ingens velut cinis disrupta est",
+        "Mare tuto transierunt",
+        "Per fornacem ardentem incolumes ambulaverunt",
+        "Paradisum bini intraverunt",
+        "In spelunca trecentos novem annos dormierunt"
+      ],
+      "answer": "Vis eorum ingens velut cinis disrupta est"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

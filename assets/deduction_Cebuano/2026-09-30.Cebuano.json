@@ -1,0 +1,61 @@
+{
+  "title": "Ang Pasyente",
+  "intro": "Dugay na kaayo, sa unang mga adlaw sa kasaysayan sa tawo, duha ka kalag ang mitindog atubangan sa ilang Magbubuhat nga may mga halad. Usa ang gidawat, usa ang wala. Ang misunod mao ang unang dakong trahedya tali sa managsoon - usa ka buhat sa mapailubon nga pagpugong ug usa ka buhat sa mapait nga pagpanimalos. Mahibal-an ba nimo kung kinsa ako?",
+  "clues": [
+    "Natawo ako sa labing unang mga adlaw sa paglungtad sa tawo dinhi sa yuta",
+    "Anak ako sa pinakaunang pares sa mga tawo nga naglakaw dinhi sa kalibutan",
+    "Naghalad ako kaniadto gikan sa labing maayo sa akong mga karnero aron pahimut-an ang akong Magbubuhat",
+    "Gidawat ang akong halad gikan sa kahitas-an, samtang gisalikway ang halad sa akong igsoon",
+    "Sa dihang gihulga nga patyon, gipili nako nga dili ibakyaw ang akong kamot batok sa akong igsoon",
+    "Ako ang unang tawo sa tibuok kasaysayan sa tawo nga gipatay sa laing tawo nga walay sala"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Habil (Abel), anak ni Adan",
+        "Qabil (Cain), anak ni Adan",
+        "Si Adan, ang unang tawo",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), anak ni Adan"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang unang pagpatay sa kasaysayan sa tawo",
+        "Ang dakong baha ni Nuh",
+        "Ang pagkaguba sa kasundalohan ni Fir'awn",
+        "Ang sakripisyo ni Ibrahim kang Ismail",
+        "Ang gubat batok kang Jalut (Goliath)"
+      ],
+      "answer": "Ang unang pagpatay sa kasaysayan sa tawo"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka karnero nga gihalad isip usa ka makapahimuot nga halad",
+        "Usa ka dakong arka nga kahoy",
+        "Usa ka sungkod nga nahimo nga bitin",
+        "Usa ka langgam nga hoopoe nga nagdala ug harianong mensahe",
+        "Usa ka nagdilaab nga kanal sa kalayo"
+      ],
+      "answer": "Usa ka karnero nga gihalad isip usa ka makapahimuot nga halad"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nahimong unang biktima sa pagpatay sa kasaysayan sa tawo",
+        "Nakaluwas sa dakong baha sulod sa usa ka barkong kahoy",
+        "Nagpuyo sulod sa tiyan sa usa ka dakong isda",
+        "Nagmando sa mga jinn, mga tawo, ug sa hangin",
+        "Naglatagaw sulod sa kwarenta ka tuig sa usa ka halapad nga kamingawan"
+      ],
+      "answer": "Nahimong unang biktima sa pagpatay sa kasaysayan sa tawo"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo ya Kimia na kati ya Chambre",
+  "intro": "Losambo moko eyokanaki na kimia ya ndako moko ya bule kala, kotombolaka uta na molimo moko ya mobange oyo ezalaki na mposa makasi ya oyo mokili esakolaki ete ekoki kosalema te. Motango oyo, oyo ekoli na mibu mpe kilo ya mitungisi mpo na mikolo mizali koya, abalukaki epai ya Nkolo na bango na libondeli ya moto ye moko. Oyo elandaki ezalaki eyano ya bonzambe oyo eboyaki bilikya nyonso ya bozalisi﻿—litatoli ya ngolu ya Ye oyo ayanolaka libiangi ya kozanga elikya.",
+  "clues": [
+    "Nabengaki Nkolo na ngai na nkuku, kozongaki nsima na ndako moko epai wapi namipesaki na losambo na Ye.",
+    "Nandimaki epai ya Nkolo na ngai ete nabangaki mpo na baye bakoya nsima na ngai, komitungisa mpo na bokambi ya bato na ngai mbala moko nalongwaki.",
+    "Bobange esili koleka ngai —mikuwa na ngai ekómaki kolɛmba mpe nsuki ya mpɛmbɛ epalanganaki na motó na ngai.",
+    "Mobalani na ngai azalaki kobota bomoi na ye mobimba, nzokande nazalaki kaka kosenga Nkolo na ngai apesa ngai mosangoli ya libula uta na miso na Ye moko.",
+    "Nasengaki elembo, mpe Nkolo na ngai ayanolaki na kopekisa ngai koloba na moto moko butu misato, nzokande natikalaki nzoto kolɔngɔnɔ.",
+    "Balakaki ngai mwana mobali oyo nkombo na ye ekozala Yahya, nkombo oyo Nkolo na ngai asakolaki ete epesamaki naino te na moto moko liboso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Zakariya",
+        "Mosakoli Nuh",
+        "Mosakoli Musa",
+        "Mosakoli Yusuf",
+        "Mosakoli Dawud"
+      ],
+      "answer": "Mosakoli Zakariya"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobondela mpo na mosangoli ya libula na bobange elongo na molongani oyo azali kobota te",
+        "Kobwakama na mɔtɔ oyo ezali kopela",
+        "Komela mbisi monene na molili",
+        "Koyika mpiko na kobungisa libota, bozwi mpe kolɔngɔnɔ ya nzoto",
+        "Kopesamela mitindo ya kotonga masuwa monene"
+      ],
+      "answer": "Kobondela mpo na mosangoli ya libula na bobange elongo na molongani oyo azali kobota te"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ndako ya losambo (mihrab) .",
+        "Nzete oyo ebongwanaki nyoka",
+        "Sanduku moko monene ya mabaya",
+        "Elanga oyo ezali na liziba moko oyo ekokani na mosusu te",
+        "Ngomba epai bandɛkɛ bazalaki koyangana"
+      ],
+      "answer": "Ndako ya losambo (mihrab) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Epesamaki mwana mobali oyo azwaki nkombo ya likamwisi atako akómaki mobange makasi",
+        "Abikisamaki na mɔ́tɔ oyo ezalaki kopela na etinda ya Nzambe",
+        "Mpela moko monene ebebisaki bato oyo bazangi kondima",
+        "Ezongisamaki na libota, na bozwi, mpe na bokolongono nsima ya motema molai",
+        "Farao ná basoda na ye bazindaki na mbu"
+      ],
+      "answer": "Epesamaki mwana mobali oyo azwaki nkombo ya likamwisi atako akómaki mobange makasi"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Tiomnóir Tapa den Ríchathaoir",
+  "intro": "I gcúirt rialóra chumhachtaigh, rinneadh éileamh dodhéanta, agus bhí go leor ag iarraidh a bhfiúchas a chruthú. Ach ní fhéadfaí an tasc a chur i gcrích ach amháin ag duine a raibh nasc aige le heolas diaga níos fearr ná aon chumas fisiciúil, rud a nochtfadh nóiméad a dhéanfadh macalla trí na haoiseanna.",
+  "clues": [
+    "Bhí mé i seirbhís rí mhóir a bhí ina fháidh freisin, agus bhí mé i measc a chiorcail ba iontaofa.",
+    "Ní créatúr tine ná créatúr a raibh neart fisiciúil mór agam, ach bhí rud éigin i bhfad níos cumhachtaí i mo sheilbh.",
+    "Nuair a d’iarr an rí go dtabharfaí ríchathaoir ó thír i bhfad i gcéin, bhí a fhios agam go díreach cad a dhéanfainn.",
+    "Labhair mé faoin eolas a bhí agam ón Leabhar, agus sula raibh deis ag aon duine freagairt, cuireadh an ríchathaoir os comhair an rí.",
+    "Ní de mo chumhacht féin a rinne mé mo ghníomh, ach léiriú gur ó Allah amháin a thagann fíor-eolas.",
+    "Is mise a thug ríchathaoir Bhanríon Sheba i gcnapán na súl, mar atá taifeadta i Surah An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An té a raibh eolas aige ar an Leabhar",
+        "An jinn cumhachtach Ifrit",
+        "Éan hoopoe Sulayman",
+        "Fáidh Sulayman",
+        "Banríon Sheba"
+      ],
+      "answer": "An té a raibh eolas aige ar an Leabhar"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag tabhairt ríchathaoir Bhanríon Sheba i gcnapán",
+        "Ag scoilteadh na Mara Rua do na hIosraeilítigh",
+        "Ag tógáil an Kaaba lena mhac",
+        "Ag maireachtáil an fhoirnéis tine",
+        "Á shábháil ó bholg an mhíolta móra"
+      ],
+      "answer": "Ag tabhairt ríchathaoir Bhanríon Sheba i gcnapán"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Ríchathaoir Bilqis",
+        "Foireann Mhúsa",
+        "Áirc Nuh",
+        "Tine Namrud",
+        "Míol Mór Yunus"
+      ],
+      "answer": "Ríchathaoir Bilqis"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Tháinig an ríchathaoir láithreach os comhair Sulayman mar thástáil buíochais.",
+        "Ghlac an bhanríon leis an Ioslam láithreach",
+        "Cuireadh an jinn i bpríosún as teip",
+        "Thréig Sulayman a ríocht",
+        "Briseadh an ríchathaoir ina phíosaí"
+      ],
+      "answer": "Tháinig an ríchathaoir láithreach os comhair Sulayman mar thástáil buíochais."
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

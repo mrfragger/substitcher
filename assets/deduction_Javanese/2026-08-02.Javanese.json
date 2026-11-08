@@ -1,0 +1,61 @@
+{
+  "title": "Antarane Bumi lan Langit",
+  "intro": "Jiwa misterius nunggu sampeyan ing kaca-kaca suci sejarah ilahi, nggawa pratandha lan mukjizat sing isih gema sajrone pirang-pirang abad. Nalika sampeyan ngetutake jejak petunjuk, sampeyan bakal lelungan liwat crita sing ditandhani karo mukjizat - saka wiwitan sing ajaib nganti pendakian ngluwihi langit. Apa sampeyan bisa ngenali abdi sing rahayu iki sadurunge petunjuk pungkasan?",
+  "clues": [
+    "Aku diutus dadi utusan marang Bani Israil kanthi nggawa kabar welas asih lan pepadhang.",
+    "Lairku minangka pratandha sing mukjizat — aku lair ing donya iki tanpa bapak, miturut dhawuhe Kang Mahakuwasa.",
+    "Aku wis ngomong nalika isih bayi, mbela kehormatan ibuku saka tuduhan-tuduhan bangsane.",
+    "Kanthi idin saka Allah, aku mbentuk manuk saka lempung lan menehi urip marang manuk-manuk mau — banjur mabur adoh ing ngarepe wong-wong sing ndeleng.",
+    "Aku nambani wong wuta lair, nambani wong kusta, lan malah nguripake wong mati — nanging saben mukjizat iku atas idin Allah, dudu mukjizatku dhewe.",
+    "Nalika mungsuhku ngrancang arep ngrusak aku, Allah ngangkat aku menyang swarga lan janji bakal bali sadurunge dina kiamat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Nabi Isa (Yesus)",
+        "Nabi Musa (Musa)",
+        "Nabi Ibrahim (Abraham)",
+        "Nabi Muhammad",
+        "Nabi Yusuf (Yusuf)"
+      ],
+      "answer": "Nabi Isa (Yesus)"
+    },
+    "trial": {
+      "label": "Momen sing Nemtokake",
+      "options": [
+        "Aku diangkat menyang swarga",
+        "Aku dibuwang menyang geni sing murub",
+        "Aku ngadhepi tentara Firaun sing perkasa",
+        "Aku diuntal dening paus gedhe",
+        "Aku nggawe prau ing ndhuwur gunung"
+      ],
+      "answer": "Aku diangkat menyang swarga"
+    },
+    "location": {
+      "label": "Tandha Suci Ditindakake",
+      "options": [
+        "Aku mbentuk manuk saka lempung",
+        "Aku ngowahi tongkat dadi ula",
+        "Aku misah rembulan dadi loro",
+        "Aku ndhawuhi angin lan jin",
+        "Aku ngetokake unta wadon saka watu"
+      ],
+      "answer": "Aku mbentuk manuk saka lempung"
+    },
+    "outcome": {
+      "label": "Apa sing Dadi Saka Aku",
+      "options": [
+        "Dijunjung menyang swarga; janji bakal bali",
+        "Dadi panguwasa gedhe ing sawijining kekaisaran",
+        "Nuntun umatku metu saka pembuwangan",
+        "Diwenehi bandha donya sing ora ana tandhingane",
+        "Ketemu maneh karo keluargaku sawise pisah suwe"
+      ],
+      "answer": "Dijunjung menyang swarga; janji bakal bali"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

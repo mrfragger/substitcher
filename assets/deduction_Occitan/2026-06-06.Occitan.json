@@ -1,0 +1,61 @@
+{
+  "title": "Lo servidor elevat d'Allah",
+  "intro": "Ausissètz de murmurs d'una figura de l'antiquitat, un servicial d'Allah que foguèt elevat a una estacion al dessús de l'ordinari. Aquel individú èra conegut per sa paciéncia inflexibla e sa vertat absoluda, e foguèt mandat a un pòble que se desvièt del messatge. Qual es aquela anma exaltada?",
+  "clues": [
+    "Foguèri causit per Allah coma profèta e soi mencionat dins lo Sant Alcoran.",
+    "Èri conegut per ma paciéncia e ma vertat, de qualitats qu'Allah lausa.",
+    "Cridèri mon pòble a adorar l'Unic Dieu, mas fòrça me refusèron.",
+    "Mon estacion foguèt elevada per Allah, e me foguèt concedit un reng naut.",
+    "Soi sovent mencionat al costat d'autres profètas coma Ismail e Dhul-Kifl.",
+    "Allah ditz a prepaus de ieu: 'E l'avèm levat a una posicion nauta.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Idris",
+        "Lo profèta Elias",
+        "Profèta Dhu al-Kifl",
+        "Profèta Al-Yasa",
+        "Profèta Hud"
+      ],
+      "answer": "Lo profèta Idris"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Cridat las gents a adorar Allah",
+        "Bastiguèt l'arca",
+        "Combatèt contra lo faraon",
+        "Foguèt testat amb una malautiá grèva",
+        "Foguèt getat dins lo fuòc"
+      ],
+      "answer": "Cridat las gents a adorar Allah"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Rang naut/estacion nauta",
+        "L'arca",
+        "Lo personal",
+        "Lo fuòc",
+        "Lo potz"
+      ],
+      "answer": "Rang naut/estacion nauta"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Elevat a un estatut naut",
+        "Afogat dins l'inondacion",
+        "Engolit per una balena",
+        "Salvat del fuòc",
+        "Venguèt un rei"
+      ],
+      "answer": "Elevat a un estatut naut"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

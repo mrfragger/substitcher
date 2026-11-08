@@ -1,0 +1,61 @@
+{
+  "title": "Slāpju pārbaudījums",
+  "intro": "Kopiena, ilgojoties pēc līdera, kas aizstāvētu viņu lietu, lūdza iecelt sev pāri komandieri. Kad viņu lūgums tika atbildēts, izvēlētais tika uztverts ar skepsi, jo šim indivīdam nebija gaidītā pasaulīgā statusa. Pirms galīgās konfrontācijas šis jaunais vadītājs pārbaudīs armijas disciplīnu ar vienkāršu, tomēr dziļu savaldības pārbaudījumu.",
+  "clues": [
+    "Mani iecēla par komandieri pēc tam, kad mana tauta pieprasīja vadītāju, kas cīnītos Allāha vārdā.",
+    "Daudzi mani cilvēki sākotnēji apšaubīja manu iecelšanu amatā, atsaucoties uz manu bagātības trūkumu un cēlu izcelsmi.",
+    "Mani izvēlēja, jo Allāhs man bija devis zināšanu pārpilnību un spēcīgu fizisko augumu.",
+    "Skaidra zīme manai dievišķajai iecelšanai bija Derības šķirsta atgriešanās, ko nesa eņģeļi, kas ienesa mieru ticīgo sirdīs.",
+    "Soļojot kopā ar saviem karavīriem, es paziņoju, ka mūs pārbaudīs upe.",
+    "Es pavēlēju savai armijai, ka tas, kurš dziļi iedzers no upes, nebūs manā pulkā, bet tie, kas paņēma rokā tikai vienu kausiņu, paliks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Džaluts (Goliāts)",
+        "Taluts (Sauls)",
+        "Pravietis Davuds",
+        "Dhul-Qarnayn",
+        "Namruds (Nimrods)"
+      ],
+      "answer": "Taluts (Sauls)"
+    },
+    "trial": {
+      "label": "Kāds bija mans galvenais pārbaudījums?",
+      "options": [
+        "Barjeras celšana pret Gogu un Magogu",
+        "Sastopoties ar milzi viencīņā",
+        "Armijas paklausības pārbaude pie upes",
+        "Džinnu un putnu armijas vadīšana",
+        "Izdzīvošana pēc iemešanas ugunī"
+      ],
+      "answer": "Armijas paklausības pārbaude pie upes"
+    },
+    "location": {
+      "label": "Kāda bija galvenā manas autoritātes pazīme?",
+      "options": [
+        "Personāla, kas pārvērtās par čūsku",
+        "Kamielis, kas iznira no klints",
+        "Krusta mētelis, kas izgatavots no mīkstināta dzelzs",
+        "Derības šķirsts (At-Tabut)",
+        "Debesu ēdienu galds"
+      ],
+      "answer": "Derības šķirsts (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Kāds bija manas kampaņas rezultāts?",
+      "options": [
+        "Džaluta (Goliāta) armijas sakāve",
+        "Sarkanās jūras šķelšana, lai izbēgtu no tirāna",
+        "Nodibinot ilgstošu dinastiju manā vārdā",
+        "Svētās Kaabas celtniecība Mekā",
+        "Tiekot paceltam debesīs bez nāves"
+      ],
+      "answer": "Džaluta (Goliāta) armijas sakāve"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tõe troon",
+  "intro": "Võimas valitseja, keda tuntakse suure tarkuse ja majesteetliku trooni poolest, saab tundmatust allikast salapärase sõnumi. See ootamatu teade seab kahtluse alla tema uskumused ja autoriteedi, suunates nad diplomaatilisele teekonnale, mis paneb proovile nende intellekti ja viib lõpuks sügava vaimse ärkamiseni. Kas suudad paljastada selle suverääni identiteedi ja sündmused, mis muutsid kogu tema kuningriiki?",
+  "clues": [
+    "Mina ja mu rahvas kummardasime päikest, järgides oma esivanemate kombeid.",
+    "Lind, vaenukägu, oli see ebatõenäoline sõnumitooja, kes tõi mulle kirja võimsalt juhilt.",
+    "Saatja tarkuse proovilepanekuks saatsin talle väärtuslikke kingitusi, aga need tagastati, kuna saatjal oli Allahilt saadud palju suurem rikkus.",
+    "Enne kui ma saatja õukonda jõudsin, oli mu suurepärane troon imekombel sinna silmapilguga toimetatud.",
+    "Saabudes küsiti minult, kas ümberpaigutatud troon on minu oma, ja ma vastasin: \"See on justkui seesama troon.\"",
+    "Läksin suurde saali, mille põrandat pidasin ekslikult veelombiks, ja sel aukartuse hetkel alistusin koos prohvet Sulaimaniga Allahile, maailmade Issandale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Seeba kuninganna",
+        "Zulaikha (Al-Azizi naine)",
+        "Asiya (vaarao naine)",
+        "Musa ema",
+        "Maryam (Isa ema)"
+      ],
+      "answer": "Seeba kuninganna"
+    },
+    "trial": {
+      "label": "Keskne sündmus",
+      "options": [
+        "Prohvet Sulaimanilt kirja saamine",
+        "Tulle viskamine",
+        "Laeva ehitamine veeuputuse üleelamiseks",
+        "Punase mere lahutamine",
+        "Süüdistatakse tagasihoidlikkuses"
+      ],
+      "answer": "Prohvet Sulaimanilt kirja saamine"
+    },
+    "location": {
+      "label": "Põhiobjekt",
+      "options": [
+        "Suurepärane troon",
+        "Kuldne vasikas",
+        "Paljude värvide mantel",
+        "Personali, mis muutus maoks",
+        "Laudadest ja naeltest tehtud laev"
+      ],
+      "answer": "Suurepärane troon"
+    },
+    "outcome": {
+      "label": "Lõplik tulemus",
+      "options": [
+        "Ainukesele tõelisele Jumalale (Allahile) allumine",
+        "Soolasambaks muutumine",
+        "Jumala juurde jõudmiseks kõrge torni ehitamine",
+        "Suure kala poolt alla neelatud",
+        "Tohutu rikkuse kaotamine karistusena"
+      ],
+      "answer": "Ainukesele tõelisele Jumalale (Allahile) allumine"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

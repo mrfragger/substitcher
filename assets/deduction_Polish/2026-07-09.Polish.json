@@ -1,0 +1,61 @@
+{
+  "title": "Poddana dusza świętego płomienia",
+  "intro": "Przed tobą leży opowieść o niezwykłej odwadze, gdzie jeden człowiek odważył się zakwestionować najbardziej zakorzenione przekonania całej cywilizacji. Podążaj za tymi szeptami z przeszłości, a odkryjesz życie naznaczone niezłomną wiarą, cudownym przetrwaniem i położeniem fundamentów, które ukształtowały duchową podróż miliardów. Uważnie śledź każdą wskazówkę – święty ogień wciąż pamięta.",
+  "clues": [
+    "Urodziłem się w domu, w którym czczono ciała niebieskie i rzeźbione bożki, jednak coś głęboko we mnie odrzucało to, co oni czcili.",
+    "Sprzeciwiłem się najpotężniejszemu władcy mojego kraju, rozbijając w pył bożki, którym kłaniał się mój lud, i oświadczając, że jedynie Stwórca niebios zasługuje na cześć.",
+    "W moim imieniu wydano rozkaz rozpalenia stosu, ale oznajmiłem, że Ten, któremu służyłem, mnie uratuje — i rozkazałem płomieniom ostygnąć i ugasić pożar.",
+    "Z boskiego rozkazu zostawiłem za sobą wszystko, co znane, i wraz z rodziną wędrowałem przez suche doliny, ufając w zaopatrzenie, którego jeszcze nie widziałem.",
+    "Stojąc obok mojego pierworodnego syna w jałowej dolinie, wspólnie wznieśliśmy fundamenty świętego domu, sanktuarium przeznaczonego dla wszystkich, którzy się podporządkują.",
+    "Jestem znany jako Khalilullah — bliski przyjaciel Najmiłosierniejszego — a imię moje na zawsze związało się z wiarą poddania się i uległości."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ibrahim (Abraham)",
+        "Prorok Musa (Mojżesz)",
+        "Prorok Noe (Noe)",
+        "Prorok Isa (Jezus)",
+        "Prorok Mahomet ﷺ"
+      ],
+      "answer": "Prorok Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wrzucenie w płonący ogień przez tyrana",
+        "Być połkniętym przez wielką rybę na morzu",
+        "Bycie spuszczanym do dołu przez zazdrosnych braci",
+        "Być unoszonym w górę na skrzydlatym stworzeniu",
+        "Wytrwanie wielkiej powodzi w drewnianym naczyniu"
+      ],
+      "answer": "Wrzucenie w płonący ogień przez tyrana"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Dom Święty (Kaaba)",
+        "Duży drewniany statek zbudowany na górze",
+        "Laska, która mogłaby rozłupać morze",
+        "Jaskinia długiego snu z wiernym psem",
+        "Zwój objawionego prawa przekazany górze"
+      ],
+      "answer": "Dom Święty (Kaaba)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Stał się znany jako Khalilullah, bliski przyjaciel Allaha",
+        "Poprowadziłem ludzi przez rozstąpione morze w bezpieczne miejsce",
+        "Otrzymał władzę nad wiatrami i niewidzialnymi siłami",
+        "Zostałem uzdrowicielem obdarzonym cudownymi uzdrowieniami",
+        "Zjednoczyć dwanaście rozproszonych plemion pod jednym przymierzem"
+      ],
+      "answer": "Stał się znany jako Khalilullah, bliski przyjaciel Allaha"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

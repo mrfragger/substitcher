@@ -1,0 +1,61 @@
+{
+  "title": "Hlas, který odmítl zoufalství",
+  "intro": "Vkročte do domácnosti, kde ztráta následuje za ztrátou, a přesto jeden klidný hlas odmítá zoufalství. Jediné volání v Koránu promění trpělivost v bod zlomu; dokážete vystopovat stopy k osobě, která se za tímto hlasem skrývá?",
+  "clues": [
+    "Byl jsem hlasem trpělivosti v domácnosti, kde požehnání zkoušela pohroma.",
+    "Zůstal jsem v domácnosti vyprázdněné ztrátou bohatství a dětí.",
+    "Věděl jsem, že nemoc postihla i toho společníka, jehož tělo bylo sužováno.",
+    "Když se tíseň stala velkou, volal jsem s připomínkou Alláha.",
+    "Prohlásil jsem jen jedno: Alláh je Pravda, proto buďte trpěliví.",
+    "Zavolal jsem jménem Ajjúba; Alláh potom odstranil trápení a obnovil rodinu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Manželka proroka Ajjúba",
+        "Manželka proroka Nuha",
+        "Manželka proroka Ibráhíma",
+        "Manželka proroka Jakuba",
+        "Faraonova dcera"
+      ],
+      "answer": "Manželka proroka Ajjúba"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Zůstat s Ayyubem i přes ztrátu a nemoc a poté volat po trpělivosti",
+        "Varování spravedlivého posla, aby opustil zkaženou společnost",
+        "Modlím se za zrození budoucí linie",
+        "Výklad snů v královském vězení",
+        "Nalezení svěřeného dítěte u řeky"
+      ],
+      "answer": "Zůstat s Ayyubem i přes ztrátu a nemoc a poté volat po trpělivosti"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Vyžaduje se prohlášení, že Alláh je Pravda, a trpělivost",
+        "Palma vedle pramene",
+        "Výzva k výstavbě lodi daleko od vln",
+        "Sen o jedenácti hvězdách a vycházejícím slunci",
+        "Koš nesený podél Nilu"
+      ],
+      "answer": "Vyžaduje se prohlášení, že Alláh je Pravda, a trpělivost"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Ajjúbovo postižení bylo odstraněno a jeho rodina obnovena",
+        "Dlouho očekávané dítě bylo uděleno po neplodné modlitbě",
+        "Mladý vládce interpretoval sedm let hojnosti a nedostatku",
+        "Svěřené dítě bylo zachráněno z tekoucí vody",
+        "Varování předcházelo ničivé povodni"
+      ],
+      "answer": "Ajjúbovo postižení bylo odstraněno a jeho rodina obnovena"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

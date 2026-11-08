@@ -1,0 +1,61 @@
+{
+  "title": "Peo ya Kgotlhang",
+  "intro": "Pele ga lefatshe le itse kgotlhang e e anameng, go ne ga nna le teko e e tseneletseng ya tumelo le kutlo. Kanelo e e sekaseka ditlhopho tse di dirilweng ke motho ka bongwe, yo ditiro tsa gagwe di tlhomang sekao mo dikokomaneng tse di tlang. Ipaakanyetse go phutholola kgang ya moya o o lwantshanang le lefufa le legolo le ditlamorago tsa lone tse di botlhoko.",
+  "clues": [
+    "Ke ne ke le mongwe wa bana ba ntlha go tsamaya mo lefatsheng, ke le ngwana wa banyalani ba ntlha fela.",
+    "Nna le morwarre re ne ra laelwa go ntshetsa Allah setlhabelo, e leng teko ya boammaaruri jwa rona.",
+    "Tshupelo ya me e ne ya se ka ya amogelwa, fa ya ga morwarre yone e ne e amogelwa, mme seno se ne sa tlatsa pelo ya me ka maikutlo a a boitshegang.",
+    "Ke ne ka bua mafoko a go tshosetsa morwarre, ke kgweediwa ke botlhoko jwa go ganwa.",
+    "Morwarre o ne a araba ka botlhale le poifomodimo, a nkgopotsa tshiamiso ya ga Allah le go mmoifa.",
+    "Le fa morwarre a ne a bua mafoko a a bonolo le go iketleeletsa go itshwarela, ke ne ka tsaya botshelo, ka nna mongwe wa ba ba neng ba latlhegelwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Adame",
+        "Iblis",
+        "Moporofeti Nuh",
+        "Kabile (Kaine)",
+        "Fir'awn"
+      ],
+      "answer": "Kabile (Kaine)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Morwalela o mogolo",
+        "Go kgaogana ga lewatle",
+        "Kago ya Kaaba",
+        "Tshupelo ya ditlhabelo",
+        "Thaelo mo Tshingwaneng"
+      ],
+      "answer": "Tshupelo ya ditlhabelo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Badiri",
+        "Thaba ya Safa",
+        "Setlhabelo",
+        "Setlhatshana se se Fisang"
+      ],
+      "answer": "Setlhabelo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ke ne ka nna morongwa",
+        "O ne a nwela",
+        "O agile bogosi jo bogolo",
+        "E nnile sekao sa go ikotlhaya",
+        "O ne a newa khumo e ntsi thata"
+      ],
+      "answer": "E nnile sekao sa go ikotlhaya"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

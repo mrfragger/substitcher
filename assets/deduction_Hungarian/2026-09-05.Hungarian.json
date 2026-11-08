@@ -1,0 +1,61 @@
+{
+  "title": "Az elsüllyedt ragyogás",
+  "intro": "Képzeljük el: egy lélek, akit finom ruhákba burkoltak, és képzeletet felülmúló kincsek vesznek körül. Ez az egyén úgy hitte, hogy vagyonát saját ragyogásával szerezte, és soha nem ismerte el az igazi ellátás forrását. Egy hatalmas próféta követői között járva ez a személy minden alázatra való felhívást visszautasított. Ma feltárjuk egy olyan személy kilétét, akinek csodálatos vagyona a végső nyughelye lett.",
+  "clues": [
+    "Egy olyan próféta idejében éltem, aki egy makacs népet hívott az igazságra.",
+    "Egy kiválasztott közösség tagja voltam, mégis elfordultam az üzenettől.",
+    "Az arany és az ezüst jobban lenyűgözött, mint bármilyen isteni parancs.",
+    "Kincses trezorjaim annyira hatalmasra nőttek, hogy egy erős férficsoport alig tudta felemelni a kulcsaikat.",
+    "Azzal dicsekedtem, hogy a vagyonomat a saját tudásomnak köszönhetően kaptam.",
+    "Végül engem és egész lakhelyemet elnyelte a föld figyelmeztetésképpen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Qarun",
+        "Hámán",
+        "Szamiri",
+        "Bilqis",
+        "Talút (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A vagyon feletti arrogancia és a jótékonyság elutasítása",
+        "Arany bálvány kovácsolása olvasztott ékszerekből",
+        "Isteni mivolt kinyilvánítása egy hatalmas királyság felett",
+        "A korai hívők üldözése Mekkában",
+        "Hadjáratot vezet a Szent Ház elpusztítására"
+      ],
+      "answer": "A vagyon feletti arrogancia és a jótékonyság elutasítása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Kincsek, melyek kulcsai sok erős embert nehezítettek",
+        "Egy hangot adó aranyborjú",
+        "Egy dicsőséges trón távoli földről",
+        "Lángoló tűzzel teli árok",
+        "Egy hatalmas harci elefánthadsereg"
+      ],
+      "answer": "Kincsek, melyek kulcsai sok erős embert nehezítettek"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Elnyelte a föld a lakással együtt",
+        "Tengerbe fulladva egy sereggel",
+        "Élve elégették egy tűzrakóhelyen",
+        "Egy üvöltő, tomboló szél pusztította el",
+        "Egyetlen hatalmas robbanás sújtotta le"
+      ],
+      "answer": "Elnyelte a föld a lakással együtt"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

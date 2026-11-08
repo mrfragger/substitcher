@@ -1,0 +1,61 @@
+{
+  "title": "Neizdzēšamās liesmas sargs",
+  "intro": "Figūra stāv uz visbaidītākās vietas sliekšņa neredzamajā pasaulē, kurai uzticēts pienākums, kuru neviena cita būtne nevēlas. Kad ciešanas piedzīvojošas dvēseles sauc pēc žēlastības, caur uguns kambariem atskan barga atbilde. Vai vari atklāt šī mūžīgā aizbildņa identitāti?",
+  "clues": [
+    "Es stāvu pie šausminošas soda vietas ieejas neredzamajā pasaulē.",
+    "Liesmojoša, neizdzēšama uguns ir mana svinīgā pienākuma centrālais elements.",
+    "Cietušas dvēseles sauc manu vārdu, lūdzot atvieglojumu no savām nebeidzamajām mokām.",
+    "Kad viņi lūgsies, es paziņoju, ka viņi nekad neaizies.",
+    "Es neesmu ne cilvēks, ne džins — esmu radīta būtne ar tīru paklausību.",
+    "Esmu galvenais eņģelis, kas iecelts par Elles uguņu mūžīgo sargu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Maliks",
+        "Džibrīls",
+        "Mikaels",
+        "Haruts",
+        "Maruts"
+      ],
+      "answer": "Maliks"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Elles ļaudis lūdz, lai viņu mokas tiktu izbeigtas",
+        "Trompete tiek pūsta, lai signalizētu par Tiesas dienu",
+        "Korāns tiek atklāts pravieša sirdij",
+        "Pravieti viņu ļaudis iemet lielā ugunī",
+        "Varens mūris ir uzcelts, lai ierobežotu samaitātu tautu"
+      ],
+      "answer": "Elles ļaudis lūdz, lai viņu mokas tiktu izbeigtas"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Elles liesmas (Džahannama)",
+        "Lotes koks Paradīzes malā",
+        "Pīrsējoša trompete",
+        "Personāla zizlis, kas pārvēršas par čūsku",
+        "Lielisks dievišķais tronis"
+      ],
+      "answer": "Elles liesmas (Džahannama)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Elles iemītniekiem tiek teikts, ka viņi tur paliks mūžīgi",
+        "Elles iemītniekiem tiek piedots un viņi tiek atbrīvoti",
+        "Elles iemītniekiem tiek dota otra iespēja ticībai",
+        "Elles iemītnieki tiek pārvietoti uz vēsu vietu",
+        "Elles iemītniekus pilnībā iznīcina zibens spēriens"
+      ],
+      "answer": "Elles iemītniekiem tiek teikts, ka viņi tur paliks mūžīgi"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

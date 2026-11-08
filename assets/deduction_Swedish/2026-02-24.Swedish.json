@@ -1,0 +1,61 @@
+{
+  "title": "Bedrägeriets eko",
+  "intro": "Ett släktskapsband prövades av en våg av avund. En hemlig plan kläcktes, vilket satte igång en händelsekedja som skulle sträcka sig över år och korsa stora avstånd. Denna grupps handlingar ledde till djup separation och sorg, men historien slutade inte där. Det är en berättelse om bedrägeri, ånger och den slutliga utvecklingen av en gudomlig plan. Kan du reda ut identiteten på dessa individer vars val ekade genom generationer?",
+  "clues": [
+    "Vi var uppslukade av avundsjuka över den tillgivenhet som visades en av våra egna.",
+    "I vår avund konspirerade vi tillsammans och kastade vårt syskon i en brunns mörker.",
+    "För att dölja vår gärning presenterade vi ett klädesplagg för vår far, befläckat med falskt blod.",
+    "År senare tvingade en svår hungersnöd oss ​​att resa till Egypten för att leta efter proviant.",
+    "Där ställdes vi inför en mäktig guvernör som, ovetande för oss, var just den syskon vi hade gjort orätt.",
+    "Vårt sista test var att ta med vår yngste bror, Benjamin, vilket ledde till uppenbarelsen om vårt förflutna och att vår far var profeten Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Adams söner (Qabil och Habil)",
+        "Profeten Isas lärjungar",
+        "Profeten Yusufs bröder",
+        "Madyans folk",
+        "Magikerna från Fir'awn"
+      ],
+      "answer": "Profeten Yusufs bröder"
+    },
+    "trial": {
+      "label": "Vad var vår främsta missgärning?",
+      "options": [
+        "Bygga en gyllene kalv för tillbedjan",
+        "Kräva att få träffa Allah direkt",
+        "Att håna en profet för att han byggt en ark",
+        "Att lura vår far och överge vår bror",
+        "Bryta sabbaten genom att fiska"
+      ],
+      "answer": "Att lura vår far och överge vår bror"
+    },
+    "location": {
+      "label": "Vilket objekt var centralt i vårt bedrägeri?",
+      "options": [
+        "En uppsättning inskrivna tabletter",
+        "En skjorta fläckad med falskt blod",
+        "En gyllene kalv",
+        "En vacker fågel (härfågeln)",
+        "En stav som förvandlades till en orm"
+      ],
+      "answer": "En skjorta fläckad med falskt blod"
+    },
+    "outcome": {
+      "label": "Vad blev det slutliga resultatet av vår berättelse?",
+      "options": [
+        "Vi förstördes av en mäktig översvämning",
+        "Vi förvandlades till apor",
+        "Vi slukades av jorden",
+        "Vi blev förlåtna och återförenade med vår familj",
+        "Vi drunknade i havet"
+      ],
+      "answer": "Vi blev förlåtna och återförenade med vår familj"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

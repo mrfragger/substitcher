@@ -1,0 +1,61 @@
+{
+  "title": "Abbaa Biyyummaa Waaqummaa Gaafate",
+  "intro": "Bulchaan humna guddaa qabuu fi of tuulu tokko teessoo isaanii ol akka hin dhaabbanne amana ture. Garee baqachaa ture tokko bishaan balʼaa tokko keessa ariʼanii, xumura dinqisiisaa taʼe tokko qofa argan. Seenaan abbaa biyyummaa kanaa kutaalee Qur’aana hedduu keessatti kan dhaga’amu yoo ta’u, hundaaf akeekkachiisa ta’ee tajaajila.",
+  "clues": [
+    "Ani bulchaa humna guddaa qabuu fi biyyoota ani bulchu keessatti aangoo tokkollee kan koo hin caalu jedhee amanu ture.",
+    "Vizier amanamaa Hamaan jedhamu kan pirojektoota ijaarsaa gurguddoo akkan hojjedhu na gargaare qaba ture.",
+    "Mallattoo ergamaa na mormu mormuuf falfaltoota lafa koo keessaa warra gaarii ta’an waamee ture.",
+    "Dha’icha fi akeekkachiisa ifa ta’e osoo jiruu, ummanni mootummaa koo keessatti garboome ta’e akka deemu nan dide.",
+    "Waraana koo guutuu fi gaariiwwan koo wajjin galaana balʼaa tokko qaxxaamuree isaan ariʼe.",
+    "Galaanni sun ana fi humnoota koo irratti cufamee, hunda keenya liqimsee, osoo isaan nagaadhaan qaxxaamuraa jiranii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Fir'awn (Fara'oon) .",
+        "Namrud jedhamuun beekama",
+        "Abuu Lahaab",
+        "Hamaan",
+        "Abuu Jahl"
+      ],
+      "answer": "Fir'awn (Fara'oon) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Dha'icha fi wal dura dhaabbannaa Muusaa (Musee) waliin .",
+        "Lolaa guddaa dura doonii ijaaruu",
+        "Lola Jalut gammoojjii keessatti",
+        "Qurxummii galaanaatiin liqimfamuu",
+        "Ulfaatina daldalaa amanamaa ittisuu"
+      ],
+      "answer": "Dha'icha fi wal dura dhaabbannaa Muusaa (Musee) waliin ."
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Masaraawwan dheeraa fi utubaawwan",
+        "Taabota mukaa guddaa",
+        "Re'ee warqee",
+        "Ulee gara bofaatti jijjiirame",
+        "Qurxummii galaanaa guddaa"
+      ],
+      "answer": "Masaraawwan dheeraa fi utubaawwan"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Waraana waliin galaana keessatti liqimfame",
+        "Rahmata Rabbii fi obsa badhaafameen fayye",
+        "Waggootaaf rakkina booda maatii waliin deebi'ee walitti makame",
+        "Lafaan liqimfame",
+        "Ibidda keessatti gubate"
+      ],
+      "answer": "Waraana waliin galaana keessatti liqimfame"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

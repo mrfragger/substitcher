@@ -1,0 +1,61 @@
+{
+  "title": "Piilotetun vakaumuksen ääni",
+  "intro": "Tyrannimaisen hovin sydämessä, jossa epäusko oli maan laki, yksinäinen sielu vaelsi uskon ja pelon nuoralla. Tämä henkilö, lähellä vallan keskustaa, kuunteli, kuinka profeetan sanomaa kohdeltiin halveksunnalla ja uhkauksilla. Totuuden hetki koitti ja pakotti tämän henkilön valitsemaan hiljaisen turvallisuuden ja vaarallisen totuuden puhumisen välillä. Pystytkö paljastamaan tämän rohkean puolustajan henkilöllisyyden?",
+  "clues": [
+    "Elin tyrannin taloudessa ja näin omin silmin ylimielisyyttä, joka hylkäsi jumalalliset merkit.",
+    "Pidin uskoni salassa, kätkettynä aarteena epäjumalanpalveluksen palatsissa.",
+    "Kuulin johtajani juonittelevan Allahin lähettilään, Musa-nimisen miehen, tappamista.",
+    "Kyseenalaistin heidän logiikkansa muistuttaen heitä Nuhin, Aadin ja Tamudin kansojen kohtalosta.",
+    "Esitin kansalleni kriittisen kysymyksen: \"Jos hän on valehtelija, hänen valheensa on hänen päällänsä; mutta jos hän on totuudenmukainen, osa hänen lupauksistaan ​​​​osuu teihin.\"",
+    "Tarinani kerrotaan uskon esimerkkinä suurassa nimeltä 'Anteeksiantaja', jossa varoitin kansaani mahtavien juonista."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Fir'awnin perheen uskovainen",
+        "Haman",
+        "Fir'awnin maagit",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Fir'awnin perheen uskovainen"
+    },
+    "trial": {
+      "label": "Mikä oli oikeudenkäyntini?",
+      "options": [
+        "Profeetta Musan puolustaminen tyrannin hovissa",
+        "Korkean tornin rakentaminen taivaisiin yltääkseen",
+        "Heitetään liekehtivään tuleen",
+        "Jättiläiskalan nielaisemaksi joutuminen",
+        "Menettää kaiken vaurauden ja terveyden"
+      ],
+      "answer": "Profeetta Musan puolustaminen tyrannin hovissa"
+    },
+    "location": {
+      "label": "Mikä oli argumenttini teema?",
+      "options": [
+        "Profeetan sanoman hylkäämisen seuraus",
+        "Vaatimus merkistä pyhältä puulta",
+        "Vasikan luominen sulasta korusta",
+        "Kamelin ihme kalliosta",
+        "Hallitsijan unien tulkinta"
+      ],
+      "answer": "Profeetan sanoman hylkäämisen seuraus"
+    },
+    "outcome": {
+      "label": "Mikä oli lopputulos?",
+      "options": [
+        "Allah pelasti tämän yksilön heidän pahan juoniltaan",
+        "Koko hovi hyväksyi välittömästi islamin",
+        "Tyranni katui hukkumisen hetkellä",
+        "Maa nielaisi tyrannin",
+        "Yksilö karkotettiin kaukaiseen maahan"
+      ],
+      "answer": "Allah pelasti tämän yksilön heidän pahan juoniltaan"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

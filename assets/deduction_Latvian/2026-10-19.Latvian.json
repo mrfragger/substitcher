@@ -1,0 +1,61 @@
+{
+  "title": "Debesu atstumtais",
+  "intro": "Noslēpumaina būtne stāv radīšanas un noraidījuma krustcelēs. Viņu stāsts ir par nepārspējamu augstprātību un pilnīgu nepakļaušanos dievišķai pavēlei. Viņu izvēle atbalsojas katrā paaudzē, kļūstot par pārbaudījumu ikvienai dvēselei, kas dzimusi šajā pasaulē. Vai vari atpazīt šo mūžīgo pretinieku?",
+  "clues": [
+    "Es biju klāt kosmiski nozīmīga notikuma brīdī, kad no māla tika veidota jauna būtne, kurai Žēlsirdīgā Elpa deva dzīvību.",
+    "Es pats esmu radīts no viena vienīga kvēlojoša elementa, atšķirībā no tā, kas ir no putekļiem.",
+    "Man tika dota pavēle, ko uzskatīju par zemāku par savu stāvokli.",
+    "Manī pārņēma lepnums, un es kategoriski atteicos pakļauties šai pavēlei.",
+    "Man tika dota atlikšana līdz noteiktai dienai, lai es varētu īstenot savu deklarēto mērķi – maldināt citus.",
+    "Esmu visu zemes staigātāju pasludinātais ienaidnieks, čukstot maldus un vilinot viņus prom no taisnā ceļa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Iblis (Sātans)",
+        "Faraons (Fir'awn)",
+        "Hamans",
+        "Abu Džahls",
+        "Samiri"
+      ],
+      "answer": "Iblis (Sātans)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Atteicās paklanīties Ādama priekšā",
+        "Nepatiesi apgalvoja dievišķību",
+        "Kala zelta teļu pielūgsmei",
+        "Nogalināja savu brāli aiz skaudības",
+        "Vadīja politeistisko opozīciju Mekā"
+      ],
+      "answer": "Atteicās paklanīties Ādama priekšā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Paradīze (Jannah)",
+        "Faraona pils Ēģiptē",
+        "Tuvas svētā ieleja",
+        "Jūras dziļumi",
+        "Šebas dārzs"
+      ],
+      "answer": "Paradīze (Jannah)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Piešķirta atpūta līdz Tiesas dienai",
+        "Noslīka kopā ar armiju jūrā",
+        "Zeme to norīja kopā ar dārgumiem",
+        "Pārveidoti par pērtiķiem par sabata pārkāpšanu",
+        "Sadedzināts no debesīm mestu akmeņu"
+      ],
+      "answer": "Piešķirta atpūta līdz Tiesas dienai"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

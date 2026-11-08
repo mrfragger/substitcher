@@ -1,0 +1,61 @@
+{
+  "title": "Mitkellem fil-Ħajja",
+  "intro": "Figura toħroġ mill-istorja sagra, iġġorr mirakli li sfidaw l-ordni naturali. Din ir-ruħ waslet permezz ta’ kmand divin wieħed, iddefendiet ġenitur minn akkużi gravi, u telqet minn din id-dinja qabel ma ktajjen tad-dinja setgħu jorbtuha. L-istorja testendi minn benniena umli sas-smewwiet ta’ fuq. Min jista’ jkun dan?",
+  "clues": [
+    "Jiena ntbgħatt bħala sinjal u ħniena mingħand Alla lil Ulied Iżrael.",
+    "Il-wasla tiegħi kienet differenti minn kwalunkwe waħda qabel — ġejt fil-ħajja bil-kelma divina 'Kun!' mingħajr missier fuq din l-art.",
+    "Il-ġenitur tiegħi ffaċċja malafama krudili, iżda niżlet rivelazzjoni sagra biex tiddikjara l-innoċenza tagħhom u televa l-pożizzjoni tagħhom.",
+    "Bħala tarbija tat-twelid, stagħġibt lil dawk ta' madwari billi tkellimt b'mod ċar mill-benniena tiegħi biex innaddaf isem il-ġenituri tiegħi.",
+    "Bil-permess t’Alla, sawwart il-ħajja minn tafal bla ħajja, tajt id-dawl lill-għomja, u fejjaqt lill-lebbruż bil-mess tiegħi.",
+    "Ġejt imtella’ sas-smewwiet qabel ma seta’ jolqotni l-ħsara, u se nerġa’ lura f’din id-dinja qabel ma tasal l-aħħar Siegħa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Isa",
+        "Il-Profeta Musa",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Il-Profeta Dawud"
+      ],
+      "answer": "Profeta Isa"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Nitkellem mill-benniena bħala tarbija",
+        "Jgħix fiż-żaqq ta’ ħuta kbira",
+        "Mitfugħ f’nar qawwi",
+        "Il-bini ta’ arka kbira qabel dilluvju",
+        "Niffaċċjaw is-seħer tal-qorti tal-Fargħun"
+      ],
+      "answer": "Nitkellem mill-benniena bħala tarbija"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Injeel (Evanġelju)",
+        "It-Tawrah (Torah)",
+        "Iż-Zabur (Salmi)",
+        "Is-Suhuf (Scrolls ta' Ibrahim)",
+        "Bastun li qassam il-baħar"
+      ],
+      "answer": "L-Injeel (Evanġelju)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Imtella’ lejn is-smewwiet, se jirritorna qabel Jum il-Ġudizzju",
+        "Mexxa lit-Tfal ta’ Iżrael ’il barra mill-Eġittu",
+        "Sar sultan b'dominju fuq il-ġinn, il-bnedmin, u l-għasafar",
+        "Għaddew minn għargħar kbir mal-fidili",
+        "Bnew id-dar sagra fil-Mekka"
+      ],
+      "answer": "Imtella’ lejn is-smewwiet, se jirritorna qabel Jum il-Ġudizzju"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

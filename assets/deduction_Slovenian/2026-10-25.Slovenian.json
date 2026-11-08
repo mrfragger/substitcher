@@ -1,0 +1,61 @@
+{
+  "title": "Pritožba, slišana čez hrup",
+  "intro": "Slišite glas, ki se dviga iz družbe, kjer je zatiranje postalo nekaj običajnega. Nobena demonstracija moči ne odgovarja na pritožbo; namesto tega neposreden poziv doseže Alaha in odgovor zadene bistvo samega čaščenja. Kdo je podal to pritožbo, katero vprašanje je sledilo in katera resnica je bila potrjena?",
+  "clues": [
+    "Začelo me je motiti zatiranje ljudi okoli mene.",
+    "To pritožbo sem izrazil neposredno Alahu v osebni pritožbi.",
+    "Alah je slišal pritožbo in odgovoril z izzivom glede moje lastne vere.",
+    "Odgovor je bil, kako lahko ne verjamem v Alaha, ki je Eden in Najvišji.",
+    "Nato sem vprašal, zakaj bi Allah naklonjen ljudstvu, ki ne veruje.",
+    "Jaz sem Uzair, v suri Az-Zuhruf imenovan kot tisti, čigar pritožbo je Allah slišal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Uzair",
+        "Spremljevalec, ki je plul med veliko poplavo",
+        "Služabnik, ki je hodil po vodi",
+        "Spač, zaščiten v jami",
+        "Služabnik, ki je prinesel kamenje k reki"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Pritoževanje Alahu zaradi zatiranja ljudi",
+        "Hoja po vodi med nevihto",
+        "Nošenje kamenja k reki, ki ji je primanjkovalo vode",
+        "Plovba skozi veliko poplavo na krovu Arke",
+        "Prejem ključa do neizmernega zaklada"
+      ],
+      "answer": "Pritoževanje Alahu zaradi zatiranja ljudi"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Neposredna pritožba, naslovljena na Alaha",
+        "Palica, ki se je spremenila v kačo",
+        "Peč, ki je postala hladna in mirna",
+        "Barka, ki plava nad poplavnimi vodami",
+        "Riba pogoltne služabnika"
+      ],
+      "answer": "Neposredna pritožba, naslovljena na Alaha"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Allah je slišal pritožbo in potrdil božansko Enost in Vrhovno Gospodstvo",
+        "Varna hoja po vodi med nevihto",
+        "Varno prečkanje velike poplave na krovu barke",
+        "Ponovna pridobitev vida v palači arogance",
+        "Prejemanje oblasti, ki se razteza od vzhoda do zahoda"
+      ],
+      "answer": "Allah je slišal pritožbo in potrdil božansko Enost in Vrhovno Gospodstvo"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

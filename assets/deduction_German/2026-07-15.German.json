@@ -1,0 +1,61 @@
+{
+  "title": "Der einsame Rückzugsort",
+  "intro": "In den Annalen göttlicher Gnade findet sich eine Seele von unvergleichlicher Reinheit, die sich von ihrem Volk absonderte, um in heiliger Abgeschiedenheit nach Einsamkeit zu suchen. Sie ahnte nicht, dass diese Einsamkeit ein Zeichen für alle Welten hervorbringen würde, eine Glaubensprüfung, von der in Ewigkeit erzählt werden würde.",
+  "clues": [
+    "Schon vor meiner Geburt war ich einem Leben im Dienste anderer verpflichtet.",
+    "Ich wurde unter die Obhut eines edlen Propheten gestellt.",
+    "Ich wurde von Allah mit Gaben versorgt, die meinen Vormund in Erstaunen versetzten.",
+    "Ich zog mich von meiner Familie in einen Ort im Osten zurück.",
+    "Ein Engel erschien mir in Gestalt eines vollkommenen Mannes und verkündete mir die Kunde von einem reinen Sohn.",
+    "Als ich mit meinem Neugeborenen zurückkehrte, klagten mich meine Leute an, aber das Kind sprach zu meiner Verteidigung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiyah (Ehefrau des Pharao)",
+        "Hajar (Mutter von Ismail)",
+        "Sarah (Ehefrau von Ibrahim)",
+        "Die Mutter von Musa"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Wunderbare Empfängnis und Geburt eines Sohnes",
+        "Ins Feuer geworfen werden",
+        "Von einem Riesenfisch verschluckt werden",
+        "Eine große Arche bauen",
+        "Überquerung des Meeres"
+      ],
+      "answer": "Wunderbare Empfängnis und Geburt eines Sohnes"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein abgelegener Ort im Osten",
+        "Der brennende Dornbusch",
+        "Das Rote Meer",
+        "Der Felsen, aus dem das Wasser sprudelte",
+        "Der Wal"
+      ],
+      "answer": "Ein abgelegener Ort im Osten"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ein Säugling sprach zur Verteidigung einer Mutter.",
+        "Das Meer teilte sich.",
+        "Das Feuer war abgekühlt und sicher.",
+        "Der Wal erbrach sich an Land",
+        "Die Arche landete auf einem Berg"
+      ],
+      "answer": "Ein Säugling sprach zur Verteidigung einer Mutter."
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Uspon sanjara",
+  "intro": "Duša predodređena za veličinu, ali ipak iskušana teškim iskušenjima, krenula je na izvanredno putovanje. Put ove osobe obilježili su ljubomora, razdvajanje i nepravedna patnja, samo da bi kulminirala pozicijom ogromne odgovornosti i dubokog ponovnog ujedinjenja. Možete li prepoznati ovu izvanrednu ličnost iz Kur'ana?",
+  "clues": [
+    "Nekada su mi najbliži zavidjeli, što je dovelo do dubokog odvajanja od roditelja i doma.",
+    "Prošao sam kroz period velikih poteškoća, uključujući i to što su me putnici prodavali za bijednu cijenu.",
+    "Nepravedno sam bio optužen za nedjelo i proveo sam godine u zatočeništvu, ali moja vjera je ostala nepokolebljiva.",
+    "Dobio sam jedinstvenu sposobnost tumačenja složenih vizija, što se pokazalo ključnim na mom putu ka slobodi.",
+    "Moja mudrost i integritet su me na kraju doveli do pozicije velikog autoriteta i povjerenja u stranoj zemlji.",
+    "Kroz niz događaja, ponovo sam se ujedinio sa svojim starijim roditeljem i braćom i sestrama nakon dugog i bolnog odsustva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Sulejman",
+        "Poslanik Isa",
+        "Poslanik Jusuf",
+        "Poslanik Davud",
+        "Poslanik Jahja"
+      ],
+      "answer": "Poslanik Jusuf"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Biti progutan od strane velike ribe",
+        "Izgradnja Arke za spašavanje stvaranja",
+        "Podnošenje lažnih optužbi i zatvora",
+        "Suočavanje s tiranskim vladarom pomoću čuda",
+        "Biti iskušan teškom bolešću i gubitkom"
+      ],
+      "answer": "Podnošenje lažnih optužbi i zatvora"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Gorući grm",
+        "Ptica koja govori",
+        "Bunar",
+        "Štap koji se pretvara u zmiju",
+        "Kamila kao znak"
+      ],
+      "answer": "Bunar"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Predvođenje migracije u obećanu zemlju",
+        "Postati moćan ministar u Egiptu",
+        "Primanje božanske osude nad arogantnim narodom",
+        "Vladajući ogromnim kraljevstvom mudro i pravdno",
+        "Uzdižući se do nebesa"
+      ],
+      "answer": "Postati moćan ministar u Egiptu"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

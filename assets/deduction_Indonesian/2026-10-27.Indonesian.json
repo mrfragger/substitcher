@@ -1,0 +1,61 @@
+{
+  "title": "Pengepungan di Bawah Langit yang Tiba-tiba",
+  "intro": "Anda berdiri di hadapan pasukan tangguh yang mendekati tempat suci yang dihormati, dengan setiap senjata siap dan kemenangan tampaknya sudah pasti. Sebelum serangan dapat dimulai, kekuatan tak terduga muncul di atas kepala, dan pertarungan berubah ke arah yang tak seorang pun duga.",
+  "clues": [
+    "Kami berbaris dengan keyakinan yang tak dapat digoyahkan oleh kekuatan duniawi mana pun.",
+    "Kami membawa gajah-gajah perkasa, dan kekuatan kami seolah dibangun di sekitar mereka.",
+    "Kami datang untuk menghancurkan tempat suci yang dihormati, dengan keyakinan bahwa kemenangan kami sudah pasti.",
+    "Saat kami sampai di sana, sekumpulan burung melintas di langit di atas kami.",
+    "Burung-burung melemparkan batu-batu dari tanah liat yang mengeras ke arah para prajurit kita.",
+    "Kami dikalahkan secara telak sehingga kekuatan besar kami hancur dan tercerai-berai seperti abu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang-orang Gajah",
+        "Kedua Pangeran",
+        "Saudara-saudara Yusuf",
+        "Hamba Allah di Dzul-Kifl",
+        "Para Sahabat Orang Saleh"
+      ],
+      "answer": "Orang-orang Gajah"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Serangan yang dipimpin gajah ke Ka'bah",
+        "Laut terbelah di depan kelompok yang dikirim",
+        "Perebutan Tabut Perjanjian oleh bangsa yang tirani",
+        "Perjalanan malam antara dua masjid",
+        "Penyembuhan penderita kusta oleh kuasa ilahi"
+      ],
+      "answer": "Serangan yang dipimpin gajah ke Ka'bah"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Burung-burung yang membawa butiran tanah liat",
+        "Sebuah bahtera dari kayu gopher.",
+        "Tongkat berubah menjadi ular.",
+        "Batu yang disegel dengan sebuah tanda",
+        "Semak yang terbakar"
+      ],
+      "answer": "Burung-burung yang membawa butiran tanah liat"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kekuatan besar mereka hancur seperti abu.",
+        "Mereka menyeberangi laut dengan selamat.",
+        "Mereka berjalan tanpa cedera melewati tungku yang menyala-nyala.",
+        "Mereka memasuki Surga berpasangan.",
+        "Mereka tidur di dalam gua selama 309 tahun."
+      ],
+      "answer": "Kekuatan besar mereka hancur seperti abu."
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

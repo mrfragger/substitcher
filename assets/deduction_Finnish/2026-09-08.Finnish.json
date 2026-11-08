@@ -1,0 +1,61 @@
+{
+  "title": "Pyhän liekin koettelemus",
+  "intro": "Muinaisessa maassa, jossa kivenveisto oli juurtunut jokaiseen kotiin, yksi yksilö erottui muista. Horjumattoman vakaumuksen ja jumalallisen suojeluksen avulla he kohtasivat varman kuoleman – ja selvisivät vahingoittumattomina. Pystytkö paljastamaan tämän merkittävän sielun henkilöllisyyden?",
+  "clues": [
+    "Kasvoin ihmisten keskuudessa, jotka kumarsivat omin käsin veistämiään epäjumalia uskoen, että näillä esineillä oli jumalallinen voima.",
+    "Kun kyseenalaistasin heidän uskomuksensa, he ensin torjuivat minut, mutta en voinut pysyä hiljaa totuudesta, jonka tiesin.",
+    "Sinä päivänä, kun heidät koottiin pois, minä tuhosin heidän epäjumalansa, jättäen vain suurimman koskemattomaksi.",
+    "Kun he palasivat ja näkivät, mitä olin tehnyt, heidän johtajansa käskivät rakentaa suuren rovion aikomuksenaan heittää minut liekkeihin.",
+    "He heittivät minut roihuavaan tuleen, mutta maailmojen Herra käski sen viilenemään ja rauhoittumaan minulle.",
+    "Selvisin liekeistä täysin vahingoittumattomana, kun taas ne, jotka juonittelivat minua vastaan, kohtasivat täydellisen tuhon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ibrahim",
+        "Profeetta Musa",
+        "Profeetta Nooa",
+        "Profeetta Isa",
+        "Profeetta Yusuf"
+      ],
+      "answer": "Profeetta Ibrahim"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Heitetään liekehtivään tuleen",
+        "Suuren valaan nielaisema",
+        "Selviytyminen suuresta tulvasta",
+        "Syvään kaivoon heitettynä",
+        "Kuninkaan velhojen kohtaaminen"
+      ],
+      "answer": "Heitetään liekehtivään tuleen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Massiivinen polttavan puun rovi",
+        "Suuri puinen arkki",
+        "Kultainen vasikkapatsas",
+        "Joella kelluva kori",
+        "Upea valtaistuin"
+      ],
+      "answer": "Massiivinen polttavan puun rovi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Allah teki tulesta viileän ja turvallisen",
+        "Arkki laskeutui turvallisesti vuorelle",
+        "Kultainen idoli suli heidän silmiensä edessä",
+        "Tyranni ja hänen armeijansa hukkuivat mereen",
+        "Sokean miehen näkö palautui"
+      ],
+      "answer": "Allah teki tulesta viileän ja turvallisen"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

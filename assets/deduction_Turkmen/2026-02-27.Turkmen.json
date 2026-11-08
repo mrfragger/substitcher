@@ -1,0 +1,61 @@
+{
+  "title": "Görünmeýänleriň sesi",
+  "intro": "Ylahy aragatnaşygyň ýyl ýazgylarynda täsin alamatlar we berk ynam bilen gurşalan bir şahsyýet tapawutlanýar. Bu şahsyýet öz döwrüniň kadalaryna garşy çykýan özboluşly bir wahy aldy, adaty düşünje perdesinden daşary çykyş etdi. Olaryň habary adaty usullar arkaly däl-de, ynsan düşünjesine garşy çykýan çuňňur baglanyşyk arkaly geldi, adamlary garaşylmadyk ýollar bilen hakykaty ykrar etmäge çagyrdy. Allanyň bu bendesiniň ýoly, hidaýatyň iň adatdan daşary ýagdaýlarda nähili ýüze çykyp biljekdiginiň subutnamasy bolup hyzmat edýär we wahyýyň özüniň tebigaty barada oýlanmaga çagyrýar.",
+  "clues": [
+    "Maňa görünmeýän çeşmeden syrly ses arkaly gelen habar berildi.",
+    "Ilki başda halkym meniň habarymy ret etdi we meniň dogruçyllygymyň has adaty subutnamasyny talap etdi.",
+    "Men olardan alan zadyma meňzeş bir zat öndürmegi talap etdim, ýöne olar başartmadylar.",
+    "Men getiren wahy hakykaty aýdyňlaşdyrýan aýdyň aýat hökmünde beýan edildi.",
+    "Eger olar imansyzlyklaryny we tekepbirliklerini dowam etdirseler, men halkyma agyr jeza berjekdigimi duýdurdym.",
+    "Meniň hekaýam beýleki pygamberler bilen birlikde Allanyň güýjüniň alamatlaryny nygtaýan bir sürede agzalýar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Hud pygamber",
+        "Salih pygamber",
+        "Şuaýb pygamber",
+        "Fyrgawnyň maşgalasyndan bolan mömin",
+        "Musa pygamber"
+      ],
+      "answer": "Salih pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Otly peje taşlanýar",
+        "Zalym hökümdaryň zulmuna duçar bolmak",
+        "Däne dogurmak gudratly alamat hökmünde",
+        "Beýik silden aman galmak",
+        "Sandykda deňze taşlanmak"
+      ],
+      "answer": "Däne dogurmak gudratly alamat hökmünde"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Tuwa jülgesi",
+        "Madýan şäheri",
+        "Samud kowumynyň ýurdy",
+        "Fyrgawnyň köşgi",
+        "Hira mağarasy"
+      ],
+      "answer": "Samud kowumynyň ýurdy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "answer": "Meniň halkym gudratly düýäni öldürendikleri üçin ýok edildi",
+      "options": [
+        "Meniň halkym toba etdi we halas boldy",
+        "Men diri göge göterildim",
+        "Meniň halkym gudratly düýäni öldürendikleri üçin ýok edildi",
+        "Men beýik hökümdar boldum",
+        "Meni gäminiň içine salyp halas etdiler"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

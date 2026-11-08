@@ -1,0 +1,61 @@
+{
+  "title": "Ireo mpihaino miafina izay nino",
+  "intro": "Tao anatin'ny fahanginan'ny fivoriana masina iray, dia nisy fivoriana niavaka tonga avy any amin'ny tontolo tsy hita maso. Voasarika tamin'ny bitsika momba ny zavatra mahagaga izy ireo, ka nihaino fanononana izay hanisy marika ny anjarany mandrakizay. Ny fijoroan'izy ireo ho vavolombelona dia iray amin'ireo miavaka indrindra ao amin'ny soratra masina.",
+  "clues": [
+    "Zavaboary avy amin'ny fanjakana tsy hitan'ny ankamaroan'ny olona isika, ary tonga toy ny vondrona iray.",
+    "Nandeha nanatona fivoriana izahay mba hihaino zavatra niavaka.",
+    "Rehefa tonga izahay dia nihaino famerimberenana izay nahagaga anay.",
+    "Niaiky ampahibemaso izahay fa misy amintsika marina ary misy kosa tsia.",
+    "Fantatray fa tsy afaka mandositra ny didin'Andriamanitra ety an-tany izahay, na amin'ny alalan'ny sidina mankany an-danitra.",
+    "Rehefa nandre ny tari-dalana izahay dia nino izany; na iza na iza mino ny Tompony dia tsy hatahotra ny fatiantoka na ny enta-mavesatra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Vondrona Jinn",
+        "Ny vahoakan'i Iram",
+        "Ny Vahoakan'i Tubba'",
+        "Ny Fanjakana Romana",
+        "Ny fokon'ny Quraysh"
+      ],
+      "answer": "Vondrona Jinn"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Mihaino toriteny masina",
+        "Fanorenana andry avo eto an-tanànantsika",
+        "Mihaza rameva vavy mahafinaritra",
+        "Horinganina noho ny namonoana ireo mpaminaninay",
+        "Mampitombo harena mihoatra ny fetra"
+      ],
+      "answer": "Mihaino toriteny masina"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Fivoriana fanaovana toriteny masina",
+        "Tanànan'ny andry avo (Iram)",
+        "Fantsakana any an'efitra",
+        "Lapa volamena lehibe",
+        "Lava-bato masina any an-tendrombohitra"
+      ],
+      "answer": "Fivoriana fanaovana toriteny masina"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nino sy nampitandrina ny vahoakanay izahay",
+        "Rava tamin'ny fipoahana mahery vaika avy any an-danitra",
+        "Voasazy tamin'ny rivotra mahamay sy manimba",
+        "Nomena harena sy fahefana tsy tambo isaina",
+        "Nijanona ho mafy orina tao anatin'ny tsy finoana"
+      ],
+      "answer": "Nino sy nampitandrina ny vahoakanay izahay"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

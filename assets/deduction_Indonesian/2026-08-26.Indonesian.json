@@ -1,0 +1,61 @@
+{
+  "title": "Kecemburuan yang Menghancurkan",
+  "intro": "Sebuah kisah yang lebih tua dari kerajaan atau kitab suci mana pun—tragedi manusia pertama yang lahir dari kecemburuan. Satu jiwa, anak sulung dari dua bersaudara yang lahir dari orang tua pertama, menyaksikan dengan marah ketika adik kandungnya menerima perlakuan istimewa yang ditolak darinya. Apa yang terjadi selanjutnya adalah pilihan-pilihan tergelap, meninggalkan darah pertama yang pernah tertumpah di bumi. Dapatkah Anda mengungkap identitasnya, cobaan yang dihadapinya, dan penyesalan yang pahit?",
+  "clues": [
+    "Aku lahir dari pasangan manusia pertama yang berjalan di bumi.",
+    "Aku pernah mempersembahkan sedekah kepada Allah, namun sedekahku tidak diterima.",
+    "Persembahan saudara saya diterima, sementara persembahan saya ditolak—sesuatu yang tidak bisa saya terima.",
+    "Aku mengancam saudaraku sendiri dengan kehancuran.",
+    "Aku menjadi orang pertama yang melakukan pembunuhan di bumi ini, merenggut nyawa saudara kandungku sendiri.",
+    "Allah mengutus makhluk bumi—seekor burung hitam yang menggali tanah—untuk mengajariku cara menyembunyikan apa yang telah kulakukan, dan yang tersisa hanyalah penyesalan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Nabi Yaqub",
+        "Nabi Musa",
+        "Nabi Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Persembahan yang ditolak oleh Allah",
+        "Dilemparkan ke dalam api yang besar",
+        "Ditinggalkan sebagai bayi di sungai.",
+        "Diuji dengan kerajaan yang sangat luas",
+        "Diperintahkan untuk mengorbankan putranya"
+      ],
+      "answer": "Persembahan yang ditolak oleh Allah"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Burung gagak yang dikirim oleh Allah",
+        "Anak lembu emas",
+        "Bahtera di atas gunung",
+        "Semak yang terbakar",
+        "Unta betina yang diukir dari batu"
+      ],
+      "answer": "Burung gagak yang dikirim oleh Allah"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diliputi penyesalan dan termasuk di antara para pecundang.",
+        "Tertelan ke dalam bumi bersama dengan harta karun",
+        "Menjadi seorang utusan Allah yang mulia",
+        "Masuk Surga berkat rahmat ilahi",
+        "Memerintah kerajaan yang tak tertandingi"
+      ],
+      "answer": "Diliputi penyesalan dan termasuk di antara para pecundang."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Solījums, kas teikts virs oglēm",
+  "intro": "Jūs stāvat blakus tuksneša ugunskuram, kura ogles tiek rūpīgi izklātas. Apmeklētāji ierodas uz tikšanos klusumā, un viens vēstījums atver stāstu par solījumu, pārsteigumu un vēl nepiepildītu nākotni.",
+  "clues": [
+    "Mēs šķērsojām attālumu, lai sasniegtu uzticīgu kalpu tuksnesī.",
+    "Mēs lūdzām, lai tiktu izklātas ogles, lai sagatavotu uguni.",
+    "Mēs runājām ar kādu, kurš bija saucis liesmu pēc vēsuma un drošības.",
+    "Mēs atnesām ziņas par jaundzimušo kādam, kurš jau bija sasniedzis bērnu laišanas pasaulē vecumu.",
+    "Apsolīto bērnu mēs nosaucām par Īzāku.",
+    "Mēs atnesām Ibrahimam priecīgas ziņas par dēlu, un pārsteidzošās ziņas lika Ibrahimam smieties."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Eņģeļi, kas atnesa Ibrahimam priecīgo vēsti par Īzāku",
+        "Eņģeļi, kas brīdināja Lutu",
+        "Troni nesošie eņģeļi",
+        "Elles eņģeļi",
+        "Eņģeļi, kas sūtīti pie Noasa"
+      ],
+      "answer": "Eņģeļi, kas atnesa Ibrahimam priecīgo vēsti par Īzāku"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Priecīgas ziņas par Īzaka dzimšanu pasludināšana Ibrahimam",
+        "Brīdinājums Lutam pirms viņa tautas sodīšanas",
+        "Paziņojot Zakarijam par Jahjas dzimšanu",
+        "Troņa nešana Tiesas dienā",
+        "Paziņojot par Īsas dzimšanu Maryam"
+      ],
+      "answer": "Priecīgas ziņas par Īzaka dzimšanu pasludināšana Ibrahimam"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "No izkaisītām oglēm sagatavota ugunskura",
+        "Šķirsts, kas peld pa plūdu ūdeni",
+        "Ala, ko aizzīmogo ripojošs akmens",
+        "Māla kalns, kas sacietējis sālsūdenī",
+        "Kāpnes, kas stiepjas debesīs"
+      ],
+      "answer": "No izkaisītām oglēm sagatavota ugunskura"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Priecīga vēsts par dēlu vārdā Īzāks",
+        "Priecīgas ziņas par dēlu vārdā Jahja",
+        "Taluta ievēlēšana par valdnieku pār Izraēla bērniem",
+        "Brīdinājums pirms Luta tautas sodīšanas",
+        "Pavēle ​​uzbūvēt šķirstu pirms Plūdiem"
+      ],
+      "answer": "Priecīga vēsts par dēlu vārdā Īzāks"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

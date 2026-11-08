@@ -1,0 +1,61 @@
+{
+  "title": "Somnus Iustorum",
+  "intro": "Tempore quo fides periculosa erat et potentes fidem opprimere conabantur, parva iuvenum animarum manus electionem fecit quae per saecula resonaret. Omnibus quae scirent fugientes, in occulta montis tenebra perfugium quaesiverunt et fidem suam omnino in Allah posuerunt. Quod deinde accidit signum aeternum iis qui meditantur futurum erat.",
+  "clues": [
+    "Coetus iuvenum eramus qui in Domino nostro credidebamus, et Ille nos in ductu auxit.",
+    "Coram populo nostro stetimus et declaravimus nos numquam ullum deum praeter Allah invocaturos esse.",
+    "In spelunca refugium quaesivimus, dicentes, \"Domine nostro, da nobis misericordiam a Te et dirige nos recte in rebus nostris.\"",
+    "Per multos annos dormivimus, et sol a spelunca nostra recedebat nec nos tangeret.",
+    "Canis noster ad introitum speluncae prostratus iacebat, nos quasi vigilans.",
+    "Cum experrecti essemus, mirati sumus quam diu morati essemus, et unus ex nobis cum nummis argenteis missus est ad cibum emendum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Homines Speluncae",
+        "Populus Fossae",
+        "Populus Sabbati",
+        "Populus Elephantis",
+        "Socii Silvae"
+      ],
+      "answer": "Homines Speluncae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Ad speluncam fugientes persecutionem propter fidem suam vitaverunt",
+        "Vento vehementi deleta",
+        "A terra absorptus",
+        "In mari submersus",
+        "Ictus tempestate lapidum"
+      ],
+      "answer": "Ad speluncam fugientes persecutionem propter fidem suam vitaverunt"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Canis speluncae introitum custodiens",
+        "Arca magna",
+        "Baculus qui in serpentem conversus est",
+        "Avis upupa",
+        "Vitulus aureus"
+      ],
+      "answer": "Canis speluncae introitum custodiens"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In spelunca trecentos novem annos manserunt, deinde in signum suscitati sunt.",
+        "In simias conversi sunt",
+        "Diluvio deleti sunt",
+        "Coacti sunt mare transire",
+        "Regnum eis datum est"
+      ],
+      "answer": "In spelunca trecentos novem annos manserunt, deinde in signum suscitati sunt."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

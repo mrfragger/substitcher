@@ -1,0 +1,61 @@
+{
+  "title": "Il paziente numero uno",
+  "intro": "Molto tempo fa, agli albori della storia umana, due anime si presentarono al cospetto del loro Creatore con delle offerte. Una fu accettata, l'altra no. Ciò che seguì sarebbe diventato la prima grande tragedia tra fratelli: un atto di paziente moderazione e un atto di amara vendetta. Puoi scoprire chi sono?",
+  "clues": [
+    "Sono nato nei primissimi giorni dell'esistenza umana sulla Terra.",
+    "Ero figlio della primissima coppia di esseri umani che abbia mai camminato su questa terra.",
+    "Una volta offrii un sacrificio dal meglio del mio gregge per compiacere il mio Creatore",
+    "La mia offerta è stata accettata dall'alto, mentre quella di mio fratello è stata rifiutata.",
+    "Quando sono stato minacciato di morte, ho scelto di non alzare la mano contro mio fratello.",
+    "Sono diventato la prima persona in tutta la storia dell'umanità ad essere uccisa ingiustamente da un'altra"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abele, figlio di Adamo",
+        "Qabil (Caino), figlio di Adamo",
+        "Adamo, il primo essere umano",
+        "Nuh (Noè)",
+        "Ibrahim (Abramo)"
+      ],
+      "answer": "Abele, figlio di Adamo"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il primo omicidio nella storia dell'umanità",
+        "Il grande diluvio di Nuh",
+        "La distruzione dell'esercito di Fir'awn",
+        "Il sacrificio di Ismail da parte di Abramo",
+        "La battaglia contro Jalut (Golia)"
+      ],
+      "answer": "Il primo omicidio nella storia dell'umanità"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una pecora offerta in sacrificio gradito",
+        "Una grande arca di legno",
+        "Un bastone che si è trasformato in un serpente",
+        "Un'upupa che porta un messaggio reale",
+        "Una trincea di fuoco fiammeggiante"
+      ],
+      "answer": "Una pecora offerta in sacrificio gradito"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Divenne la prima vittima di omicidio nella storia dell'umanità.",
+        "È sopravvissuto a una grande alluvione all'interno di un'imbarcazione di legno.",
+        "Viveva all'interno della pancia di un grande pesce",
+        "Governava i jinn, gli umani e il vento",
+        "Vagò per quarant'anni in una vasta landa desolata"
+      ],
+      "answer": "Divenne la prima vittima di omicidio nella storia dell'umanità."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

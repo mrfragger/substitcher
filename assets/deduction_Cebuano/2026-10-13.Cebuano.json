@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mapintas nga Kaaway",
+  "intro": "Sa unang mga adlaw sa pagpadayag, usa ka tawo ang mitumaw isip gahig ulo nga kontra sa kamatuoran. Gipanalanginan sa bahandi ug kahimtang, kining kalag mipili sa garbo kaysa giya, ug ang ilang istorya nahimong usa ka klaro nga pasidaan sa katapusang mga bersikulo sa usa ka surah.",
+  "clues": [
+    "Nagpuyo ko sa samang siyudad sa Propeta, ug usa ko sa labing suod niyang paryente, apan ang akong garbo nagpalayo kanako gikan sa kamatuoran.",
+    "Daghan kog bahandi ug mga kabtangan, ug naghunahuna ko nga ang akong mga kahinguhaan kanunayng manalipod kanako.",
+    "Sa dihang gipadayag ang mensahe, akong gibugalbugalan kini sa dayag ug mitalikod, nga naghunahuna sa akong kaugalingon nga labaw kay sa mga magtutuo.",
+    "Grabe kaayo ang akong pagdumot nga ang usa ka surah sa Quran direktang nagtumong kanako, nga nagtawag kanako sa ngalan nga nailhan sa uban.",
+    "Gipahimangnoan ako nga ang akong bahandi ug ang akong kinitaan dili makahatag kanako og kaayohan, ug ako ilabay ngadto sa nagdilaab nga kalayo.",
+    "Nailhan ako nga amahan sa siga, ug ang akong asawa magpas-an sa sugnod gamit ang pisi nga hinimo sa lanot sa palma sa iyang liog."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gisalikway ang Islam ug dayag nga gisupak ang Propeta",
+        "Nagplano sa pagpatay sa Propeta",
+        "Nanguna sa usa ka social boycott batok sa mga Muslim",
+        "Nakig-away sa Gubat sa Badr",
+        "Gisakit si Bilal ibn Rabah"
+      ],
+      "answer": "Gisalikway ang Islam ug dayag nga gisupak ang Propeta"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka pisi nga hinimo sa lanot sa palma",
+        "Usa ka mahait nga espada",
+        "Usa ka bug-at nga kadena",
+        "Usa ka sungkod nga kahoy",
+        "Usa ka latigo nga panit"
+      ],
+      "answer": "Usa ka pisi nga hinimo sa lanot sa palma"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Masunog sa nagdilaab nga kalayo",
+        "Naghinulsol ug nahimong kauban",
+        "Nawala ang iyang bahandi apan namatay nga dungganon",
+        "Mikalagiw ngadto sa Abyssinia",
+        "Nalumos sa dagat"
+      ],
+      "answer": "Masunog sa nagdilaab nga kalayo"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

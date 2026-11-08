@@ -1,0 +1,61 @@
+{
+  "title": "The Guardian da ke gefen Kogin",
+  "intro": "A ƙasar da dokar azzalumi ta kawo baƙin ciki ga gidaje da yawa, rai ya sami saƙo wanda ke ƙin dukkan tsoro. Da zuciya cike da aminci, suka fara aikin imani wanda zai canza al'umma. Yayin da ruwa ke ɗauke da kaya mai tamani, bege ya haɗu da raƙuman ruwa.",
+  "clues": [
+    "Na rayu a lokacin zalunci da tsoro.",
+    "Na sami wahayi daga Allah wanda ya ba ni ƙarfin hali.",
+    "An umarce ni da kada in ji tsoro ko in yi baƙin ciki.",
+    "Na sanya ɗana a cikin akwati na ajiye shi a kan ruwa.",
+    "Gidan mai mulkin ne ya sami ɗana, amma ɗayan yarona ya biyo baya.",
+    "Na sake haɗuwa da ɗana domin in shayar da shi nono, kamar yadda Allah ya yi alkawari."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Uwar Musa",
+        "Matar Fir'auna",
+        "'Yar'uwar Musa",
+        "Uwar Yesu",
+        "Sarauniyar Sheba"
+      ],
+      "answer": "Uwar Musa"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Yin wahayi zuwa ga jefa yaro cikin kogi",
+        "Ana ƙalubalantarsa ​​zuwa ga faɗan sihiri",
+        "Sojoji suna bin sa",
+        "Ketare teku da ta rabu",
+        "Gina gida mai tsarki"
+      ],
+      "answer": "Yin wahayi zuwa ga jefa yaro cikin kogi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwati da aka sanya a cikin kogin",
+        "Daji mai ƙonewa",
+        "Sanda da ta rikide ta zama maciji",
+        "Ɗan maraƙi na zinariya",
+        "Kursiyi"
+      ],
+      "answer": "Akwati da aka sanya a cikin kogin"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An mayar da yaron lafiya ga ma'aikacin jinya",
+        "Yaron ya ɓace har abada",
+        "An kai yaron zuwa wata ƙasa mai nisa",
+        "Yaron ya zama mai mulki nan da nan",
+        "Wani attajiri ɗan kasuwa ne ya ɗauki yaron"
+      ],
+      "answer": "An mayar da yaron lafiya ga ma'aikacin jinya"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

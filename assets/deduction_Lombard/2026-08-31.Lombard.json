@@ -1,0 +1,61 @@
+{
+  "title": "La vus muta de la vall",
+  "intro": "Torna indrè ind el temp a un popol potent qe una vœlta l’ha ricevud una meraviglia viventa come prova. L’arroganza e la testardità han segnad el sò destin. Pœdet tracià la storia e descuvrir cus’è che l’è sucedü in chestu mument de svolta dramatich?",
+  "clues": [
+    "Sun stà mandà cuma una pruva divina a un popul putent famus per luur forza e sfida.",
+    "L’eri una meraviglia unica: gent come mi l’era mai cumparsa intra de lür.",
+    "Cundividevi l’aqua de bef de un pozz cun la me gent in di dì alternà.",
+    "Sun stà avvertì che qual-sa-vöör dann cuntra de mi g’havaria purtà una puniziun rapida.",
+    "El pusè audaz de lür l’ha minga vardà l’avvertiment e m’ha sfracelad.",
+    "Dopu la me mort, un singul grid de sora g’ha distrutt tüt el me popul."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "La camel de Salih",
+        "La Vaca de Musa",
+        "La nav de Nuh",
+        "El personal de Musa",
+        "El Tron de Bilqis"
+      ],
+      "answer": "La camel de Salih"
+    },
+    "trial": {
+      "label": "El me destin",
+      "options": [
+        "Impizzato e copà",
+        "Mazzato come sacrificio",
+        "Trasfurmà en un serpent",
+        "Preservà travers de una grand inondaziun",
+        "Purtà rapidament travers de un regn"
+      ],
+      "answer": "Impizzato e copà"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un pozz d'aqua",
+        "Una tavola de pedra",
+        "Un busc in früsa",
+        "Un'arca de legn",
+        "Un tron ​​d'or e d'argent"
+      ],
+      "answer": "Un pozz d'aqua"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Distrutt de un sœul urlo",
+        "Anegato in una gran inondazione",
+        "Brusà de una piœuva de sass",
+        "Sfracià da un vent viulent",
+        "Inglutì de la terra"
+      ],
+      "answer": "Distrutt de un sœul urlo"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

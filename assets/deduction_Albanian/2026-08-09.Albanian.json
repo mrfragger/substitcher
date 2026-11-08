@@ -1,0 +1,61 @@
+{
+  "title": "Zëri i Vërtetë i Kohëve të Lashta",
+  "intro": "Në Kuran ka një shpirt, historia e të cilit tregohet vetëm në disa vargje, megjithatë cilësitë e tij fisnike shkëlqejnë me qartësi të shkëlqyer. I lavdëruar nga i Plotfuqishmi për një virtyt të veçantë, ky shërbëtor i lashtë i të Gjithëmëshirshmit zë një vend në faqet e shpalljes. Detyra juaj është ta identifikoni këtë figurë të jashtëzakonshme. A mund ta merrni me mend se kush janë ata?",
+  "clues": [
+    "Unë jam një profet i Allahut që jetova midis brezave të parë të njerëzimit.",
+    "Allahu më përmendi në Librin e Tij së bashku me profetë të tjerë, të gjithë të lavdëruar për të njëjtën virtyt fisnik.",
+    "Unë përshkruhem si një njeri i së vërtetës në Kuran.",
+    "Allahu më ngriti në një pozitë të lartë që pak të tjerë e kanë arritur.",
+    "Emri im përmendet në Suren El-Enbija, i grupuar me dy profetë të tjerë të lavdëruar për durimin e tyre.",
+    "Unë jam Idrisi, profeti i ndershëm dhe i lartësuar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Idris",
+        "Profeti Nuh",
+        "Profeti Ibrahim",
+        "Profeti Musa",
+        "Profeti Ismail"
+      ],
+      "answer": "Profeti Idris"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ruajtja e durimit dhe sinqeritetit, pastaj ngritja në një pozitë të lartë",
+        "Ndërtimi i një arke të madhe për të shpëtuar besimtarët nga një përmbytje shkatërruese",
+        "Të hidhesh në një zjarr përvëlues dhe të dalësh plotësisht i padëmtuar",
+        "Përballja me një mbret të fuqishëm dhe mposhtja e ushtrisë së tij të magjistarëve",
+        "Mbijetesa brenda barkut të një peshku të madh në thellësitë e detit"
+      ],
+      "answer": "Ruajtja e durimit dhe sinqeritetit, pastaj ngritja në një pozitë të lartë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një pozitë e lartë dhe e lartësuar nga Allahu",
+        "Një anije masive e ndërtuar me dërrasa dhe e veshur me zift",
+        "Një zjarr i tërbuar i nxitur nga idhujtarët e një mbreti të lig",
+        "Një det i gjerë që ndahej në shtigje të thata",
+        "Barku i errët i një balene të madhe në fund të oqeanit"
+      ],
+      "answer": "Një pozitë e lartë dhe e lartësuar nga Allahu"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I pranuar në mëshirën e Allahut si një nga të mirët",
+        "I shpëtuar së bashku me të gjithë besimtarët nga një përmbytje botërore",
+        "Doli nga flakët i paprekur nga zjarri",
+        "I udhëhoqi fëmijët e Izraelit shëndoshë e mirë drejt lirisë përtej detit",
+        "Të ribashkuar me familjen e tyre të dashur pas shumë vitesh vështirësish"
+      ],
+      "answer": "I pranuar në mëshirën e Allahut si një nga të mirët"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

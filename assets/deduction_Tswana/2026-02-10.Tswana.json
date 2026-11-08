@@ -1,0 +1,60 @@
+{
+  "title": "Boroko jwa Dingwaga",
+  "intro": "O tloga o simolola loeto mo nakong, o kopana le masaitsiweng a a tseneletseng a tumelo le maatla a bomodimo. Akanya fela setlhopha sa batho ba ba neng ba sa ikobele ditlwaelo tsa setšhaba sa bone, ba ngaparetse bodumedi jwa Modimo a le mongwe fela mo lefatsheng la bodumedi jwa medimo e mentsi. Kgang ya bone ke bosupi jwa bokgoni jwa ga Allah jwa go sireletsa batlhanka ba gagwe ba ba siameng ka ditsela tse di sa tlwaelegang thata. A o ka kgona go tlhalosa gore batho bano ba ba gakgamatsang ke bomang?",
+  "clues": [
+    "Re ne re le setlhopha se sennye sa makawana a a neng a dumela mo Modimong o le mongwe fela, le fa batho ba rona ba ne ba obamela medimo e mentsi thata.",
+    "Re ne ra tshaba mmusi yo o bogagapa yo o neng a re tshosetsa ka ntlha ya tumelo ya rona, re tshaba go bogisiwa le go bolawa.",
+    "Re ne ra batla botshabelo kwa lefelong le le kwa thoko, re solofetse gore Allah o tla re utlwela botlhoko le go re sireletsa mo bagateleding ba rona.",
+    "Morena wa rona o ne a dira gore re robale boroko jo bo tseneletseng, boroko jo bo gakgamatsang jo bo neng bo ganetsa go feta ga nako.",
+    "Fa re tsoga, re ne re dumela gore re ikhutsitse fela letsatsi kgotsa karolo ya letsatsi, re sa itse ka nako e kgolo e e neng e fetile eleruri.",
+    "Quran e umaka gore re ne ra nna mo seemong sa rona dingwaga di le makgolo a mararo, mme ra feta ka di le robongwe, ra nna sesupo mo bathong."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Mosele",
+        "Batho ba Thamude",
+        "Batho ba Logaga",
+        "Batho ba Madyan",
+        "Balekane ba Tlou"
+      ],
+      "answer": "Batho ba Logaga"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go lebana le morwalela o mogolo",
+        "Go komediwa ke lefatshe",
+        "Boroko jo boleele jwa kgakgamatso",
+        "Go senngwa ga motse wa bone",
+        "Go kgaogana ga lewatle"
+      ],
+      "answer": "Boroko jo boleele jwa kgakgamatso"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Setlhatshana se se tukang",
+        "Thaba",
+        "Mokoro",
+        "Logaga",
+        "Sediba"
+      ],
+      "answer": "Logaga"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ba ne ba newa khumo e ntsi thata le maatla",
+        "Ba ne ba fetolwa go nna ditshwene le dikolobe",
+        "Ba ne ba tsosiwa mo borokong e le sesupo se se tseneletseng",
+        "Ba ne ba nwediwa ke morwalela o mogolo",
+        "Ba ne ba aga bogosi jo bontlentle"
+      ],
+      "answer": "Ba ne ba tsosiwa mo borokong e le sesupo se se tseneletseng"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

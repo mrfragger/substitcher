@@ -1,0 +1,61 @@
+{
+  "title": "Niilin piinaama sielu",
+  "intro": "Suuren sorron aikakaudella, jolloin tyranni hallitsi maata ehdottoman julmasti, yksi sielu valitsi uskon tien kuninkaallisen mukavuuden sijaan. Tämä hahmo eli vallan sydämessä, mutta löysi totuuden nöyrän profeetan sanomasta. Heidän matkastaan ​​tulisi ajaton oppitunti kärsivällisyydestä, uhrautumisesta ja horjumattomasta vakaumuksesta. Voitko tunnistaa tämän merkittävän henkilön, joka asetti jumalallisen nautinnon maallisen aseman edelle?",
+  "clues": [
+    "Asuin mahtavassa palatsissa, mutta sydämeni löysi totuuden nöyrästä sanomasta.",
+    "Päätin seurata Musan ohjausta tietäen seuraukset, joita kohtaisin.",
+    "Olin naimisissa aikani mahtavimman tyrannin kanssa, mutta hylkäsin hänen väärät jumalansa.",
+    "Kärsimykseni oli ankara, sillä minua rangaistiin uskostani yhteen Jumalaan.",
+    "En koskaan horjunut uskossani, edes ankarimman piinan edessä.",
+    "Herrani oli tyytyväinen kärsivällisyyteeni ja valitsi minut kunnialliseen paikkaan paratiisissa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Musan äiti",
+        "Faaraon vaimo",
+        "Profeetta Musan sisar",
+        "Muinaisen Egyptin kuningatar",
+        "Israelilaisten palvelija"
+      ],
+      "answer": "Faaraon vaimo"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Taistelee Allahin asian puolesta armeijan kanssa",
+        "Kohtaamassa faaraota ja tunnustamassa uskoa",
+        "Palvontapaikkojen rakentaminen Egyptissä",
+        "Matkalla meren yli Musan kanssa",
+        "Ilmestyksen vastaanottaminen Allahilta"
+      ],
+      "answer": "Kohtaamassa faaraota ja tunnustamassa uskoa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Midianin erämaa",
+        "Egyptin kuninkaallinen palatsi",
+        "Niilin rannat",
+        "Siinain vuori",
+        "Kanaanin maa"
+      ],
+      "answer": "Egyptin kuninkaallinen palatsi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli profeetnaksi monien vuosien jälkeen",
+        "Johdatti israelilaiset pois Egyptistä",
+        "Sai Egyptin ylivallan",
+        "Hänet marttyyrikuolema koettiin ja Allah kunnioitti häntä",
+        "Eli mukavuudessa vanhuuteen asti"
+      ],
+      "answer": "Hänet marttyyrikuolema koettiin ja Allah kunnioitti häntä"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

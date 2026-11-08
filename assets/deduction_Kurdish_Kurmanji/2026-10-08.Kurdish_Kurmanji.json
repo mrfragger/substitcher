@@ -1,0 +1,61 @@
+{
+  "title": "Kevirçêkerên Geliyê Kevnar",
+  "intro": "Şaristaniyek xeyal bikin ku li geliyên kevirî yên Erebistanê bilind bûye, di çêkirina xanîyên mezin de ji çiyayan jêhatî ye. Ew bi hêz û hunerê geş bûn, lê çîroka wan bi nerazîbûnek tirsnak a hişyariya îlahî ve tê nîşankirin. Dema ku hûn di çîroka wan de kûr bibin, hûn ê gelek kesan bibînin ku xudperestiya wan bûye sedema tunekirina wan a tevahî. Ew kî bûn?",
+  "clues": [
+    "Me welatekî ji deştên kevirî û zinaran pêk dihat mîras girt, ku me xanîyên xwe bi jêhatîbûneke bêhempa li wir ava kirin.",
+    "Em bi kolandina malên ewle li çiyayan dihatin naskirin, û em xwe ji her zirarê ewle hîs dikirin.",
+    "Peyxamberek ji nav me hat ba me, nîmetên Xwedê bi bîr xist û me ji cezayê hişyar kir.",
+    "Me nîşanek xwest, û deveke mê ya mûcîzeyî ji zinaran derket, ceribandineke eşkere ji Xwedê.",
+    "Me hişyariyê red kir û deve çokê wê birrîn, tinazên xwe bi pêxember kir û cezayê li ber çavan girt.",
+    "Teqînek li malên me bandor li me kir, û sibê em li ser çokan dirêjkirî bûn, mîna ku em qet li wir nejiyane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Gelê Semûdê",
+        "Gelê Adê",
+        "Xelkê Medyenê",
+        "Gelê Nûh",
+        "Gelê Lûtê"
+      ],
+      "answer": "Gelê Semûdê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Deve birrîn",
+        "Şemiyê şikand",
+        "Perestina golikê zêrîn kirin",
+        "Pêxemberê ku ji wan re hatibû şandin kuşt",
+        "Ji bo gihîştina asîman bircêk ava kir"
+      ],
+      "answer": "Deve birrîn"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Deve",
+        "Keşti",
+        "Karmend",
+        "Destê spî.",
+        "Manna û bilbil"
+      ],
+      "answer": "Deve"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bi bombebaranê wêran bûye",
+        "Ji wêranbûnê rizgar kirin",
+        "Bûn meymûn",
+        "Di deryayê de xeniqî",
+        "Ji aliyê erdê ve hatiye daqurtandin"
+      ],
+      "answer": "Bi bombebaranê wêran bûye"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La missió a la ciutat antiga",
+  "intro": "Una ciutat antiga i polsegosa, amb la gent atrinxerada en la negació i un últim avís que no va ser escoltat. Avui, poseu-vos en el paper dels enviats per Al·là per lliurar un missatge a un poble tossut. Una història de rebuig, una veu singular de fe i un final segellat per un decret devastador. Qui parla a través d'aquestes pistes?",
+  "clues": [
+    "Al·là ens va enviar a una ciutat on la gent s'havia allunyat de la veritat",
+    "Dos de nosaltres vam arribar primer, després se'n va afegir un tercer per enfortir la nostra missió",
+    "La gent del poble ens va rebutjar, dient que no érem res més que humans com ells",
+    "Una sola ànima des de l'extrem més llunyà de la ciutat va córrer a dir a la gent que ens seguís",
+    "Els vam suplicar, però van endurir els seus cors i es van girar contra nosaltres",
+    "En un crit devastador del cel, tota la nostra ciutat va ser silenciada"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Els Missatgers de la Ciutat a la Sura Ya-Sin",
+        "Els Hawwariyyun (deixebles d'Isa)",
+        "Els bruixots de la cort del faraó",
+        "Els companys del Sàbat",
+        "La gent de l'elefant"
+      ],
+      "answer": "Els Missatgers de la Ciutat a la Sura Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Rebutjats i titllats de mentiders per la gent del poble",
+        "Cremat viu en un gran foc ardent",
+        "Engolit per un gran peix a les profunditats del mar",
+        "Treball obligat a construir un pilar imponent",
+        "Torturat en una trinxera de foc furiós"
+      ],
+      "answer": "Rebutjats i titllats de mentiders per la gent del poble"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La ciutat antiga (al-Qaryah)",
+        "Un gran forn ardent",
+        "El ventre d'un gran peix",
+        "L'elevat pilar que toca el cel",
+        "La Casa Sagrada (Kaaba)"
+      ],
+      "answer": "La ciutat antiga (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La ciutat va ser destruïda per un sol crit devastador (Sayha)",
+        "El tirà i el seu exèrcit es van ofegar al mar obert",
+        "La gent es va transformar en simis i micos",
+        "Una pluja de pedres del cel va destruir la ciutat",
+        "Una violenta inundació va arrasar tota la comunitat"
+      ],
+      "answer": "La ciutat va ser destruïda per un sol crit devastador (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

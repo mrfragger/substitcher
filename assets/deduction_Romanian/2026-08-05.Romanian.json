@@ -1,0 +1,61 @@
+{
+  "title": "Ziua ultimei expoziții",
+  "intro": "Chemați la o grandioasă demonstrație de putere, un grup de artiști pricepuți s-a trezit confruntat cu un adevăr neașteptat care avea să le schimbe viața pentru totdeauna.",
+  "clues": [
+    "Eram renumiți pentru meșteșugul nostru, maeștri ai iluziei și vicleșugului.",
+    "Am fost chemați de conducător să înfruntăm un adversar care mânuia un toiag simplu.",
+    "Când am văzut adevărul, am căzut la pământ, declarând credința în Domnul lumilor.",
+    "Tiranul ne-a amenințat cu pedepse aspre, dar nu am ezitat.",
+    "Am fost printre primii care au crezut în mesaj după ce am fost martori la semnul clar.",
+    "Am fost martirizați pentru credința noastră, dar vom fi primii care vor intra în Paradis alături de cei drepți."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Magicienii Faraonului",
+        "Israeliții",
+        "Oamenii din Thamud",
+        "Discipolii lui Isa",
+        "Armata lui Abraha"
+      ],
+      "answer": "Magicienii Faraonului"
+    },
+    "trial": {
+      "label": "Proces / Eveniment",
+      "options": [
+        "Concurs cu profetul Musa",
+        "Construirea Turnului",
+        "Marele Potop",
+        "Ciuma lăcustelor",
+        "Marea despicată"
+      ],
+      "answer": "Concurs cu profetul Musa"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Ziua Festivalului",
+        "Valea Tuwa",
+        "Orașul Iram",
+        "Grădina Eternității",
+        "Câmpia Arafat"
+      ],
+      "answer": "Ziua Festivalului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Au fost răstigniți în public",
+        "S-au înecat în mare",
+        "Ei au fost făcuți urmași ai profetului",
+        "Au fost trimiși în exil",
+        "Au fost mistuiți de foc"
+      ],
+      "answer": "Au fost răstigniți în public"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

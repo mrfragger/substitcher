@@ -1,0 +1,61 @@
+{
+  "title": "Ny Feo avy any Ambanivohitra",
+  "intro": "Mijoro ao an-tanàna ianao izay nisy iraka telo nitondra famantarana mazava, nefa ny olona dia maneso azy ireo ary mifikitra amin'ny fomba fanaony taloha. Avy any amin'ny faritra lavitra indrindra amin'ny tanàna, misy olona mihazakazaka manatona ny vahoaka, sempotra sy tapa-kevitra ny hilaza ny marina eo anatrehan'ny fandavana. Iza moa ity fanahy ity izay nanao vivery ny zava-drehetra ho an'ny hafatra tsy azy manokana?",
+  "clues": [
+    "Niaina teo anivon'ny vahoaka izay nandray iraka nitondra famantarana mazava aho, nefa niala tamim-pireharehana izy ireo.",
+    "Nihazakazaka avy tany amin'ny faritra lavitra indrindra amin'ny tanàna aho raha vao nandre ny antson'ireo iraka.",
+    "Hoy aho tamin'ny vahoakako: 'Ry vahoakako, araho ireo iraka. Araho ireo izay tsy mangataka valisoa aminareo, satria voatarika tsara izy ireo.'",
+    "Tsy mpaminany aho, fa nino ireo iraka ary nampirisika ny oloko hanao toy izany koa.",
+    "Naneso ny torohevitro ny oloko ary niampanga ahy ho mampidi-doza.",
+    "Rehefa novonoin'izy ireo aho dia nasain'i Allah niditra tao amin'ny Paradisa aho, ary naniry aho raha mba fantatry ny oloko ny famelan-keloka sy ny voninahitra azoko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ilay lehilahy avy any amin'ny faritra lavitra indrindra amin'ny tanàna (Ya-Sin)",
+        "Iray amin'ireo iraka telo nalefa tany an-tanàna",
+        "Mpivarotra malaza tao an-tanàna",
+        "Mpitondra ny tanàna",
+        "Ny mpitarika ny tsy mpino"
+      ],
+      "answer": "Ilay lehilahy avy any amin'ny faritra lavitra indrindra amin'ny tanàna (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Mitory amin'ny olony mba hanaraka ireo iraka",
+        "Fanamboarana sambo hamonjena ny mpino amin'ny tondra-drano",
+        "Atsipy ao anaty afo noho ny finoana",
+        "Voatelina trozona",
+        "Nomena fanjakana sy fahendrena"
+      ],
+      "answer": "Mitory amin'ny olony mba hanaraka ireo iraka"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny faritra lavitra indrindra amin'ny tanàna",
+        "Ny sambo fiara",
+        "Ny lavadrano",
+        "Ny kirihitra mirehitra",
+        "Ny lava-bato"
+      ],
+      "answer": "Ny faritra lavitra indrindra amin'ny tanàna"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Niditra tao amin'ny Paradisa ary naniry ny vahoakany hahafantatra ny famelan-keloka avy aminy",
+        "Nilentika niaraka tamin'ny olony noho ny fandavany ny hafatra",
+        "Nomena fahagagana ny amin'ny rameva vavy",
+        "Lasa mpitondra taorian'ny fitsarana azy",
+        "Novonjen'Andriamanitra ary nijanona niaraka tamin'ny olony"
+      ],
+      "answer": "Niditra tao amin'ny Paradisa ary naniry ny vahoakany hahafantatra ny famelan-keloka avy aminy"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

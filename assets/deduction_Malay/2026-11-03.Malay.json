@@ -1,0 +1,61 @@
+{
+  "title": "Tidur Orang Soleh",
+  "intro": "Pada zaman ketika iman berbahaya dan golongan berkuasa cuba menghancurkan kepercayaan, sekumpulan kecil jiwa muda membuat pilihan yang akan bergema selama berabad-abad. Melarikan diri dari semua yang mereka tahu, mereka mencari perlindungan dalam kegelapan tersembunyi di sebuah gunung dan meletakkan kepercayaan mereka sepenuhnya kepada Allah. Apa yang berlaku seterusnya akan menjadi tanda abadi bagi mereka yang merenung.",
+  "clues": [
+    "Kami adalah sekumpulan pemuda yang beriman kepada Tuhan kami, dan Dia menambahkan kepada kami petunjuk.",
+    "Kami berdiri di hadapan kaum kami dan mengisytiharkan bahawa kami tidak akan sekali-kali menyembah tuhan selain Allah.",
+    "Kami berlindung di dalam gua sambil berdoa, \"Ya Tuhan kami, kurniakanlah kepada kami rahmat daripada-Mu dan bimbinglah kami dalam urusan kami.\"",
+    "Kami tidur selama bertahun-tahun, dan matahari akan condong menjauhi gua kami dan tidak menyentuh kami.",
+    "Anjing kami terbaring terlentang di pintu masuk gua, menjaga kami seolah-olah sedang berjaga-jaga.",
+    "Apabila kami terjaga, kami tertanya-tanya berapa lama kami telah menunggu, dan salah seorang daripada kami dihantar dengan syiling perak untuk membeli makanan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang-orang Gua",
+        "Orang-orang Parit",
+        "Orang-orang Sabat",
+        "Orang-orang Gajah",
+        "Sahabat Hutan"
+      ],
+      "answer": "Orang-orang Gua"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Melarikan diri ke gua untuk melepaskan diri daripada penganiayaan kerana kepercayaan mereka",
+        "Dimusnahkan oleh angin kencang",
+        "Ditelan bumi",
+        "Lemas di laut",
+        "Dipukul ribut batu"
+      ],
+      "answer": "Melarikan diri ke gua untuk melepaskan diri daripada penganiayaan kerana kepercayaan mereka"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Seekor anjing yang menjaga pintu masuk gua",
+        "Sebuah bahtera yang besar",
+        "Tongkat yang bertukar menjadi ular",
+        "Burung hoopoe",
+        "Anak lembu emas"
+      ],
+      "answer": "Seekor anjing yang menjaga pintu masuk gua"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Mereka tinggal di dalam gua selama 309 tahun dan kemudian dibangkitkan sebagai tanda",
+        "Mereka telah berubah menjadi beruk",
+        "Mereka musnah akibat banjir",
+        "Mereka dipaksa menyeberangi laut",
+        "Mereka diberi sebuah kerajaan"
+      ],
+      "answer": "Mereka tinggal di dalam gua selama 309 tahun dan kemudian dibangkitkan sebagai tanda"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

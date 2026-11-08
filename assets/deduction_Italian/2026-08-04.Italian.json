@@ -1,0 +1,61 @@
+{
+  "title": "L'eco tra le scogliere",
+  "intro": "Immaginate una valle dove le abitazioni sono scavate nella roccia e l'aria porta con sé il ricordo di un avvertimento inascoltato. Un tempo qui prosperava un popolo, benedetto ma indomito, finché un segno non emerse proprio dalla roccia in cui riponevano la loro fiducia.",
+  "clues": [
+    "Eravamo un popolo che si ricavava dimore sicure dalle montagne, sentendosi al sicuro nelle proprie abitazioni rupestri.",
+    "Vivevamo in una terra di pianure e pietre, benedetta da giardini e sorgenti.",
+    "È giunto un messaggero tra noi, che ci chiama ad abbandonare i nostri falsi dèi e ad adorare l'Unico vero Creatore.",
+    "Con arroganza abbiamo posto una condizione per la fede: un segno unico che sarebbe emerso dalle stesse rocce che avevamo scolpito.",
+    "Quando la cammella promessa apparve dalla roccia, un segno inequivocabile, la nostra élite si rifiutò comunque di aiutarla e la immobilizzò, nonostante l'avvertimento di una catastrofe imminente.",
+    "Tre giorni dopo il nostro gesto, un boato fragoroso echeggiò nella valle, e fummo ridotti a un cumulo di macerie, le nostre case le nostre tombe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Il popolo di ¿Ad",
+        "Il popolo di Thamud",
+        "Il popolo di Madyan",
+        "Gli abitanti del boschetto",
+        "Il popolo della caverna"
+      ],
+      "answer": "Il popolo di Thamud"
+    },
+    "trial": {
+      "label": "La nostra prova/evento principale",
+      "options": [
+        "La mutilazione della cammella di Allah",
+        "Il culto del vitello d'oro",
+        "La violazione del sabato",
+        "La costruzione di una torre verso il cielo",
+        "L'uccisione dei profeti"
+      ],
+      "answer": "La mutilazione della cammella di Allah"
+    },
+    "location": {
+      "label": "Elemento chiave della nostra storia",
+      "options": [
+        "La cammella di Allah",
+        "Lo staff di Musa",
+        "L'arca di Nuh",
+        "La mano bianca di Musa",
+        "L'uccello di Isaia"
+      ],
+      "answer": "La cammella di Allah"
+    },
+    "outcome": {
+      "label": "Il nostro risultato",
+      "options": [
+        "Distruzione causata da un'esplosione assordante",
+        "Una pioggia di pietre dal cielo",
+        "Un diluvio che ha ricoperto la terra",
+        "Un vento impetuoso che ci ha sradicati",
+        "La terra ci sta inghiottendo"
+      ],
+      "answer": "Distruzione causata da un'esplosione assordante"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

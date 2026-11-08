@@ -1,0 +1,61 @@
+{
+  "title": "Glas iz gorućeg grma",
+  "intro": "Otkrijte identitet duboke osobe čije je putovanje započelo čudesnim susretom, a čija je sudbina bila isprepletena s oslobođenjem potlačenog naroda. Ova osoba je odabrana za monumentalni zadatak, suočavajući se s ogromnim izazovima uz božansku podršku.",
+  "clues": [
+    "Rođen sam u vrijeme velikog ugnjetavanja, gdje su ubijana dojenčad mog naroda.",
+    "U ranoj mladosti roditelji su me bacili u rijeku, no ipak sam pronađen i odrastao u samom kućanstvu tlačitelja mog naroda.",
+    "Jednom sam pobjegao iz grada nakon što sam nenamjerno izazvao smrt osobe tijekom svađe.",
+    "Primio sam božansku poruku i čudesni štap na svetom mjestu, gdje mi je bilo naređeno da se suočim s moćnim vladarom.",
+    "Moj brat je bio postavljen za pomoćnika u mojoj misiji zbog uočene mane u mom govoru.",
+    "Poveo sam svoj narod preko razdvojenog mora, bježeći od progona tiranske vojske."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Jusuf",
+        "Poslanik Isa",
+        "Poslanik Musa",
+        "Poslanik Nuh",
+        "Poslanik Ibrahim"
+      ],
+      "answer": "Poslanik Musa"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Dugogodišnje suše",
+        "Izgradnja Arke",
+        "Suočavanje s faraonom i njegovim čarobnjacima",
+        "Biti bačen u užarenu peć",
+        "Uništenje naroda Semuda"
+      ],
+      "answer": "Suočavanje s faraonom i njegovim čarobnjacima"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kaba",
+        "Željezni zid",
+        "Osoblje",
+        "Nuhov brod",
+        "Sulejmanov prsten"
+      ],
+      "answer": "Osoblje"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Grad Sodoma je bio srušen",
+        "Ljude je progutala zemlja",
+        "Velika poplava je zahvatila zemlju",
+        "Faraon i njegova vojska su se utopili",
+        "Gradski zidovi su se srušili od plača"
+      ],
+      "answer": "Faraon i njegova vojska su se utopili"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

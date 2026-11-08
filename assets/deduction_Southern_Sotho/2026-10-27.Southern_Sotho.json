@@ -1,0 +1,61 @@
+{
+  "title": "Ho Thibelloa Tlas'a Leholimo le Tšohanyetso",
+  "intro": "U eme ka pel'a lebotho le matla le atamelang sehalalelo se hlomphehang, sebetsa se seng le se seng se loketse 'me ho bonahala eka tlhōlo e tla rarolloa. Pele tlhaselo e ka qala, matla a sa lebelloang a hlaha holimo, 'me ntoa e nka lehlakore leo ho seng motho ea le boneng esale pele.",
+  "clues": [
+    "Re ile ra tsamaea ka kholiseho ea hore ha ho na matla a lefatše a ka sisinyehang.",
+    "Re tlisitse litlou tse matla, 'me matla a rona a ne a bonahala a hahiloe ho li potoloha.",
+    "Re ne re tlile ho tla heletsa sehalalelo se hlomphehang, re lumela hore tlhōlo ea rona e se e ntse e tiile.",
+    "Ha re fihla ho sona, mohlape o ile oa fofa ho pholletsa le leholimo ka holim'a rona.",
+    "Linonyana li ile tsa lahlela majwe a letsopa le thata ho bahlabani ba rona.",
+    "Re ile ra hlolwa ka ho feletseng hoo lebotho la rona le matla le ileng la pshatleha mme la hasana jwalo ka molora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba Tlou",
+        "Likhosana tse peli",
+        "Banab'abo Josefa",
+        "Mohlanka oa Allah ho Dhul-Kifl",
+        "Metsoalle ea Monna ea Lokileng"
+      ],
+      "answer": "Batho ba Tlou"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Tlhaselo e etelletsoeng pele ke litlou ho Kaaba",
+        "Leoatle le arohana ka pel'a sehlopha se rometsoeng",
+        "Ho haptjoa ha Areka ke batho ba hatellang",
+        "Leeto la bosiu pakeng tsa limoske tse peli",
+        "Pholiso ea molepera ka matla a bomolimo"
+      ],
+      "answer": "Tlhaselo e etelletsoeng pele ke litlou ho Kaaba"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Linonyana tse jereng lipete tsa letsopa",
+        "Areka ea patsi ea gopher",
+        "Lere le fetohile noha",
+        "Lejoe le tiisitsoeng ka letšoao",
+        "Sehlahla se tukang"
+      ],
+      "answer": "Linonyana tse jereng lipete tsa letsopa"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Matla a bona a maholo a ile a pshatleha joaloka molora",
+        "Ba tšetse leoatle ka polokeho",
+        "Ba tsamaile ba sa tsoa kotsi ka har'a sebōpi se tukang",
+        "Ba kene Paradeiseng ka bobeli",
+        "Ba ile ba robala lehaheng ka lilemo tse 309"
+      ],
+      "answer": "Matla a bona a maholo a ile a pshatleha joaloka molora"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

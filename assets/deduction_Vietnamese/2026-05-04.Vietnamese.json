@@ -1,0 +1,61 @@
+{
+  "title": "Kiến trúc sư của sự kiêu ngạo",
+  "intro": "Trong một vùng đất cổ xưa bị cai trị bởi một thế lực ngang ngược, một cá nhân chủ chốt nắm giữ vị trí có ảnh hưởng. Người này đóng vai trò quan trọng trong những kế hoạch lớn lao của kẻ cai trị, góp phần vào triều đại áp bức của họ và thách thức thông điệp thiêng liêng. Di sản của họ gắn liền với sự theo đuổi quyền lực thế tục và sự phủ nhận chân lý.",
+  "clues": [
+    "Tôi từng phục vụ một vị vua tàn bạo, người đã áp bức dân tộc tôi qua nhiều thế hệ.",
+    "Tên tôi thường xuyên được nhắc đến trong Kinh sách thiêng liêng cùng với vị lãnh đạo quyền lực này.",
+    "Tôi được giao nhiệm vụ thực hiện một dự án xây dựng quy mô lớn, một công trình cao chót vót hướng tới tận trời xanh.",
+    "Tôi khuyên chủ nhân của mình hãy giết các con trai của dân Israel và tha mạng cho các con gái của họ.",
+    "Tôi đã tham gia vào các âm mưu và kế hoạch chống lại một sứ giả vĩ đại của Allah.",
+    "Tôi, cùng với chủ nhân và đội quân của ông ta, đã chết đuối giữa biển khơi bao la."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Nimrod",
+        "Abraham",
+        "Goliath",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Được thử thách với khối tài sản khổng lồ.",
+        "Dẫn dắt một đội quân tấn công một ngôi nhà linh thiêng.",
+        "Xây dựng một tòa tháp để vươn tới Chúa.",
+        "Bị ném vào lửa vì niềm tin của họ",
+        "Bị anh chị em ruột ném xuống giếng"
+      ],
+      "answer": "Xây dựng một tòa tháp để vươn tới Chúa."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah",
+        "Nhân viên",
+        "Ngọn núi",
+        "Tháp",
+        "Cá voi"
+      ],
+      "answer": "Tháp"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được ban tặng trí tuệ vô cùng to lớn",
+        "Trở thành một nhà tiên tri",
+        "Bị đất nuốt chửng",
+        "Được ban cho một vương quốc",
+        "Chết đuối trên biển"
+      ],
+      "answer": "Chết đuối trên biển"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Der Schlaf jenseits der Zeit",
+  "intro": "Stellt euch eine Zeit vor, in der die Wahrheit unterdrückt und Gläubige verfolgt wurden. Eine kleine Gruppe wählte den Rückzug statt der Kapitulation und fand Zuflucht an einem höchst ungewöhnlichen Ort – einem Ort, der für unzählige Jahrhunderte ihre Ruhestätte werden sollte. Als sie schließlich erwachten, hatte sich die Welt um sie herum verändert. Wer sind diese schlafenden Seelen?",
+  "clues": [
+    "Wir waren junge Leute, die in einer alten Stadt lebten.",
+    "Unsere Gemeinde verlangte, dass wir gemeinsam mit ihnen Gottesdienst feiern, aber wir weigerten uns.",
+    "Wir flohen aus der Stadt auf der Suche nach Zuflucht vor denen, die unsere Überzeugungen ablehnten.",
+    "Ein treuer vierbeiniger Begleiter blieb am Eingang unseres Verstecks.",
+    "Allah ließ uns dreihundertneun Jahre lang schlafen.",
+    "Als wir schließlich erwachten, hatte unsere einst verfolgende Stadt den Glauben angenommen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Ashab al-Kahf (Die Leute der Höhle)",
+        "Ashab al-Fil (Die Armee des Elefanten)",
+        "Ashab al-Ukhdud (Die Gefährten des Grabens)",
+        "Die Hawariyyun (Jünger von Isa)",
+        "Yajuj wa Majuj (Gog und Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Die Leute der Höhle)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Wir zogen uns in eine Höhle zurück und schliefen jahrhundertelang.",
+        "Wir wurden aus einem lodernden Feuer gerettet",
+        "Wir wurden von einem riesigen Fisch verschluckt",
+        "Wir wurden mit einer wundersamen Kamelstute auf die Probe gestellt.",
+        "Uns wurden neun eindeutige Zeichen gegeben."
+      ],
+      "answer": "Wir zogen uns in eine Höhle zurück und schliefen jahrhundertelang."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine tiefe Höhle in den Bergen",
+        "Ein Boot auf dem offenen Meer",
+        "Ein himmelhohes Bauwerk",
+        "Ein Garten, der zwischen zwei Rivalen aufgeteilt ist",
+        "Eine Barriere aus Eisen und Kupfer"
+      ],
+      "answer": "Eine tiefe Höhle in den Bergen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wir erwachten und stellten fest, dass sich unsere Stadt dem Glauben zugewandt hatte.",
+        "Ein loderndes Feuer wurde kühl und friedlich.",
+        "Eine feindliche Armee ertrank im Meer",
+        "Vögel, die Steine ​​trugen, vernichteten den Feind.",
+        "Ein großer Fisch setzte uns am Ufer frei."
+      ],
+      "answer": "Wir erwachten und stellten fest, dass sich unsere Stadt dem Glauben zugewandt hatte."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

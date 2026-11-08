@@ -1,0 +1,61 @@
+{
+  "title": "Motse o o Latlhegileng wa Bontlentle jo bo sa Bapisiweng",
+  "intro": "Tlhabologo e e nonofileng e kile ya bo e laola dikarolo tse dikgolo tsa lefatshe, e e neng e ketekiwa ka ntlha ya dikago tse di kwa godimo tse di neng di fitlha kwa loaping. Le fa go ntse jalo ka fa tlase ga bogolo jo, go ne ga gola go itatola go go tlhogoethata — go gana go reetsa motlhagisi wa bomodimo yo o rometsweng go tswa mo teng ga setšhaba ka bosone. Go ise go ye kae boikgogomoso le boikgogomoso di ne di tla ntsha kotlhao e e tshwanang le yone lefatshe le magodimo di neng di ise di ko di bone.",
+  "clues": [
+    "Re kile ra busa dikarolo tse dikgolo tsa lefatshe, re ipelafatsa ka maatla a re neng re dumela gore ga go na tlhabologo epe e e ka lekanang le one.",
+    "Bogosi jwa rona bo ne bo tumile ka dikago tse di kwa godimo tse di nang le dipilara tse di nonofileng tse di neng di eme di sa tshwane le dipe go kgabaganya lefatshe lengwe le lengwe le le neng le itsege.",
+    "Motlhagisi yo o tswang mo setšhabeng sa rona o ne a tsoga, a rotloetsa mongwe le mongwe wa rona go ikobela Mmopi a le Mongwe fela.",
+    "Re ne ra gana molaetsa o re neng re o rometswe mme ra gana go tlogela tsela e re e ruileng.",
+    "Phefo e e galefileng, e e bokolelang e e bogale thata e ne ya re gololela, ya re tlogela re sa kgone go iphemela gotlhelele.",
+    "Re ne ra sala jaaka dikutu tse di khuti tsa ditlhare tsa mokolane, di gasame e bile di lebetswe, e le thuto ya kokomana nngwe le nngwe morago ga moo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba A'ad",
+        "Batho ba Nuh",
+        "Batho ba Lute",
+        "Batho ba Madyan",
+        "Batho ba Tubba'."
+      ],
+      "answer": "Batho ba A'ad"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Phefo e e sa kgaotseng e e bogale ya kotlhao e e bogale",
+        "Morwalela o o neng wa khurumetsa setlhoa sengwe le sengwe sa thaba",
+        "Pula ya matlapa a letsopa a a tukang go tswa kwa godimo",
+        "Go goa go le gongwe fela go go tshosang go tswa kwa magodimong",
+        "Thoromo e kgolo ya lefatshe e e neng ya kgaoganya lefatshe"
+      ],
+      "answer": "Phefo e e sa kgaotseng e e bogale ya kotlhao e e bogale"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Irame, motse wa dipilara tse di kwa godimo .",
+        "Areka e kgolo ya logong e e agilweng mo godimo ga thaba",
+        "Kamela e namagadi e e neng ya tswa ka kgakgamatso mo letlapeng",
+        "Thaba ya Sinai kwa ditaelo tsa bomodimo di fologetseng teng",
+        "Ntlo ya segosi e e dirilweng ka kristale le galase e e boleta e e okametseng metsi a a elelang"
+      ],
+      "answer": "Irame, motse wa dipilara tse di kwa godimo ."
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E tlogetswe jaaka dikutu tse di khuti tsa ditlhare tsa mokolane, di gasame e bile di se na botshelo",
+        "Go nwela ka fa tlase ga makhubu a a boitshegang a morwalela o mogolo",
+        "E fetotswe go nna dibopiwa tse di tshwanang le ditshwene le dikolobe",
+        "E thubagantswe ke pula ya matlapa a letsopa a a thatafaditsweng",
+        "E jelwe ke selelo se le sengwe fela se se thibang ditsebe se se neng se tlhaba mowa"
+      ],
+      "answer": "E tlogetswe jaaka dikutu tse di khuti tsa ditlhare tsa mokolane, di gasame e bile di se na botshelo"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

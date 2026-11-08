@@ -1,0 +1,61 @@
+{
+  "title": "Ripfumelo Leri Nga Endzhaku Ka Xiluvelo",
+  "intro": "Mimoya-xiviri yin’wana a yi ringiwi hi ndzilo kumbe ndhambi, kambe hi ntshikilelo lowu nonokaka wa ku hanya endzeni ka xigodlho xa mufumi wa tihanyi. Xifaniso lexi a xi yime etlhelo ka mufumi loyi a a vula leswaku i vukwembu ehenhla ka vanhu va vona, kambe exihundleni a a namarhela ripfumelo eka Xikwembu Xin’we xa Ntiyiso. Loko ku tinyiketela ka vona ku tshuburiwile, ku xaniseka ku tile — kambe ku ve na xitshembiso xa Xikwembu. Xana u nga swi kota ku ringanyeta leswaku loyi i mani?",
+  "clues": [
+    "A ndzi tshama ehansi ka lwangu ra mufumi wa matimba swinene wa tiko ra ka hina, eka xiyimo lexi a hi vangani lava a va ta xi ehleketa.",
+    "Mutekiwa wa mina u yime emahlweni ka vanhu kutani a tivula xikwembu — kambe mbilu ya mina a yi ri ya Hosi Yin’we ya Ntiyiso.",
+    "A ndzi hlevetela swikhongelo exihundleni, ndzi chava nxupulo lowu a wu ta eka hinkwavo lava a va kaneta munghana wa mina wa vukati.",
+    "Loko ripfumelo ra mina ri paluxiwa, ndzi khomiwile ndzi xanisiwa — hambiswiritano ririmi ra mina a ri si tshama ri vula rito ro pfumala ku pfumela.",
+    "Ndzi chululele mbilu ya mina eka Hosi ya mina, ndzi kombela yindlu eParadeyisini, ekule na swiendlo hinkwaswo swo biha.",
+    "Mina ndzi Asiya bint Muzahim — nsati wa Faro loyi a kaneteke Musa na Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Asiya bint Muzahim (Nsati wa Faro) .",
+        "Hawwa (Evha), wansati wo sungula",
+        "Sara, nsati wo sungula wa Ibrahim",
+        "Agara, mana wa Isimayili",
+        "Mana wa Maryam (nsati wa Imran) ."
+      ],
+      "answer": "Asiya bint Muzahim (Nsati wa Faro) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku tiyisela ku xanisiwa hikwalaho ko ala ku landzula ripfumelo",
+        "Ku pona endzeni ka khwiri ra nhlampfi leyikulu",
+        "Ku aka ngalava leyikulu leswaku ku balekela ndhambi",
+        "Ku hoxiwa endzilweni lowu pfurhaka",
+        "Ku vona ku hambana ka lwandle lerikulu"
+      ],
+      "answer": "Ku tiyisela ku xanisiwa hikwalaho ko ala ku landzula ripfumelo"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Yindlu leyi va akeriweke yona eParadeyisini",
+        "Nhonga leyi hundzukeke nyoka",
+        "Ngalava leyi rhwaleke mimpatswa ya xivumbiwa xin’wana ni xin’wana",
+        "Rhole ra nsuku leri gandzeriwaka hi tiko",
+        "Xigwitsirisi lexi a xi tirhisiwa ku hlula nhenha leyikulu"
+      ],
+      "answer": "Yindlu leyi va akeriweke yona eParadeyisini"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku xiximiwa hi ku tshama eParadeyisini etlhelo ka lavo lulama",
+        "Va nwele ehansi ka magandlati swin’we ni vuthu ra vona",
+        "Yi hisiwile hi malangavi kambe yi ponisiwile hi ku nghenelela ka Xikwembu",
+        "Yi mitiwa hi xivumbiwa lexikulu kutani yi lahleriwa eribuweni",
+        "U ve munhu la fuweke swinene enkarhini wa vona"
+      ],
+      "answer": "Ku xiximiwa hi ku tshama eParadeyisini etlhelo ka lavo lulama"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

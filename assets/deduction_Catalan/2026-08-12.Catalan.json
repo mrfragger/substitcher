@@ -1,0 +1,61 @@
+{
+  "title": "Els Enviats de la Misericòrdia i el Poder",
+  "intro": "Imagineu-vos una tarda tranquil·la interrompuda per l'arribada de viatgers desconeguts. El seu aspecte és normal, però el seu propòsit és tot el contrari. Porten un missatge diví que alterarà el curs de dues nacions, portant rialles a una llar àrida i terror a una ciutat pecadora. Qui són aquests visitants misteriosos?",
+  "clues": [
+    "Ens van enviar a un servent devot d'Al·là, conegut per la seva hospitalitat inesgotable.",
+    "Vam arribar disfressats d'estranys, i tot i així, el nostre amfitrió va percebre alguna cosa d'un altre món en la nostra presència.",
+    "Vam portar notícies que van fer riure incrèdula una dona gran i es va colpejar la cara amb sorpresa.",
+    "Ens van encarregar protegir una família justa mentre fèiem ploure destrucció sobre una ciutat immersa en la corrupció.",
+    "Ens vam negar a participar del menjar que ens van oferir, cosa que només va augmentar les sospites del nostre amfitrió.",
+    "Només vam revelar la nostra veritable naturalesa abans de marxar, dient: \"En efecte, som missatgers del vostre Senyor\"."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Els convidats d'Abraham",
+        "Els deixebles de Jesús",
+        "Els companys de la cova",
+        "L'exèrcit d'Abraha",
+        "Els Missatgers de Ya-Sin"
+      ],
+      "answer": "Els convidats d'Abraham"
+    },
+    "trial": {
+      "label": "La nostra missió",
+      "options": [
+        "Per posar a prova la fe d'Abraham respecte al seu fill",
+        "Per lliurar l'escriptura a Abraham",
+        "Per anunciar el naixement d'Isaac i la destrucció del poble de Lot",
+        "Per guiar Abraham fins a la Kaaba",
+        "Per rescatar Abraham del foc"
+      ],
+      "answer": "Per anunciar el naixement d'Isaac i la destrucció del poble de Lot"
+    },
+    "location": {
+      "label": "Lloc d'aparició",
+      "options": [
+        "A la terra d'Egipte",
+        "A la ciutat d'Ur",
+        "A casa d'Abraham",
+        "Al jardí de l'Edèn",
+        "Al pou de Zamzam"
+      ],
+      "answer": "A casa d'Abraham"
+    },
+    "outcome": {
+      "label": "El resultat",
+      "options": [
+        "Abraham es va convertir en rei",
+        "Abraham va construir la Kaaba",
+        "Sara va donar a llum Isaac i el poble de Lot va ser destruït",
+        "Abraham va emigrar a Palestina",
+        "El poble d'Abraham es va salvar d'un gran diluvi"
+      ],
+      "answer": "Sara va donar a llum Isaac i el poble de Lot va ser destruït"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

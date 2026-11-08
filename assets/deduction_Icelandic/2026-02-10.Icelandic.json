@@ -1,0 +1,60 @@
+{
+  "title": "Aldablundurinn",
+  "intro": "Þú ert að fara að leggja upp í ferðalag í gegnum tímann og rekast á djúpstæðan leyndardóm trúar og guðlegs máttar. Ímyndaðu þér hóp einstaklinga sem ögruðu viðmiðum samfélags síns og héldu fast við eingyðistrú í heimi fjölgyðistrúar. Saga þeirra er vitnisburður um getu Allah til að vernda réttláta þjóna sína á ótrúlegastan hátt. Geturðu ráðið hverjir þessir merkilegu einstaklingar eru?",
+  "clues": [
+    "Við vorum lítill hópur ungra manna sem trúðu á einn Guð, þrátt fyrir útbreidda fjölgyðistrú meðal fólks okkar.",
+    "Við flúðum undan harðstjóra sem hótaði okkur fyrir trú okkar, af ótta við ofsóknir og dauða.",
+    "Við leituðum hælis á afviknum stað í von um miskunn Allahs og vernd gegn kúgurum okkar.",
+    "Drottinn okkar lét okkur falla í djúpan svefn, undraverðan blund sem óhlýðnaðist tímanum.",
+    "Þegar við vöknuðum trúðum við að við hefðum aðeins hvílst í einn dag eða hluta úr degi, ómeðvituð um þann langa tímabil sem í raun var liðið.",
+    "Í Kóraninum er minnst á að við höfum verið í ríki okkar í þrjú hundruð ár og lifað þar af um níu, og orðið tákn fyrir mannkynið."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið í skurðinum",
+        "Fólkið í Thamud",
+        "Fólkið í hellinum",
+        "Fólkið í Madyan",
+        "Félagar fílsins"
+      ],
+      "answer": "Fólkið í hellinum"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Frammi fyrir miklu flóði",
+        "Að vera gleypt af jörðinni",
+        "Hinn langi, undraverði blundur",
+        "Eyðilegging borgarinnar þeirra",
+        "Klofingin í hafinu"
+      ],
+      "answer": "Hinn langi, undraverði blundur"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Brennandi runni",
+        "Fjall",
+        "Bátur",
+        "Hellir",
+        "Brunnur"
+      ],
+      "answer": "Hellir"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Þeim var veittur gríðarlegur auður og völd",
+        "Þau umbreyttust í apa og svín",
+        "Þau voru reist upp úr svefni sem djúpstætt tákn",
+        "Þau drukknuðu í miklu flóði",
+        "Þau reistu stórkostlegt konungsríki"
+      ],
+      "answer": "Þau voru reist upp úr svefni sem djúpstætt tákn"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

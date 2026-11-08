@@ -1,0 +1,61 @@
+{
+  "title": "A fátyolos hívő a zsarnok udvarában",
+  "intro": "A Korán által ismert legarrogánsabb uralkodó aranyozott csarnokaiban – ahol minden rendeletet az istenivel való dacolás jellemzett – egyetlen lélek járt a kiváltságosok között, a legveszélyesebb titkokat rejtve szem elől. Ez az egyén egy olyan hitet hordozott magában, amely annyira tiltott volt a falak között, hogy annak felfedezése biztos halált jelentett volna. A meggyőződés mégis lángként égett a hamu alatt, és amikor elérkezett a pillanat, az igazság olyan bátorsággal harsant fel, hogy megrengette a zsarnok palotájának alapjait.",
+  "clues": [
+    "Korom leghatalmasabb és legarrogánsabb uralkodójának belső körében éltem, luxus és befolyás vette körül.",
+    "Mélyen a szívemben rejtegettem az igaz meggyőződésemet, féltve az életemet azoktól, akik kegyetlenül és elnyomva uralkodtak.",
+    "Amikor népem kételkedett és ingadozott az igazsággal szemben, előléptem, hogy figyelmeztessem őket a tragikus sorsra, amely a múltbeli nemzeteket érte, akik elutasították Uruk hírnökeit.",
+    "Emlékeztettem népemet egy szeretett fiatal álmodozó történetére, akit saját rokonai taszítottak el, mégis nagy tekintélyre tett szert egy távoli földön.",
+    "Arra buzdítottam népemet, hogy ne engedelmeskedjenek az őket félrevezető uralkodónak, ehelyett arra hívtam őket, hogy kövessék az igazságosság és az útmutatás útját.",
+    "Nyíltan kimondtam az igazat, annak ellenére, hogy a zsarnok követői azzal fenyegetőztek, hogy megköveznek vagy kiűznek az országból."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A fáraó családjából származó rejtőzködő hívő",
+        "Egy türelmes pátriárka, aki vakon sírt, amíg fia vissza nem tért",
+        "Egy hűséges szolga, akinek a bőrbetegsége végül meggyógyult",
+        "Egy bűnös fiú, aki elutasította a próféta meghívását, hogy szálljon fel a bárkára",
+        "Egy könyörtelen zsarnok, aki isteni mivoltot követelt magának"
+      ],
+      "answer": "A fáraó családjából származó rejtőzködő hívő"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A zsarnok udvarában elrejtett hit",
+        "Vakságban szenvedett az évekig tartó sírástól",
+        "A család elvesztése és a súlyos megpróbáltatások próbája",
+        "Egy nagyszerű hajó építése, miközben gúnyolódnak",
+        "Egy nagy tűz perzselő hőségének elviselése"
+      ],
+      "answer": "A zsarnok udvarában elrejtett hit"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A fáraó palotája",
+        "Egy hegycsúcs, ahol bárkát építettek",
+        "Szent völgy a Sínai-hegy alatt",
+        "Egy csodálatos kert két csordogáló patakkal",
+        "Egy kristálytrón egy földalatti folyó felett"
+      ],
+      "answer": "A fáraó palotája"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Isteni védelem, miközben az elnyomók ​​elpusztultak",
+        "Több évtizedes különélés után újra találkozhatott a családjával",
+        "Türelmet, visszanyerett egészséget és nagyobb családot kapott",
+        "Egy hajón mentették meg, miközben a világ többi része megfulladt",
+        "Allah parancsára sértetlenül kimentették a lángokból"
+      ],
+      "answer": "Isteni védelem, miközben az elnyomók ​​elpusztultak"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

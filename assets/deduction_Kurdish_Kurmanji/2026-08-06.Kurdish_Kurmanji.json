@@ -1,0 +1,61 @@
+{
+  "title": "Ruhê Hişyar li kêleka Çem",
+  "intro": "Giyanekî ciwan bi mîsyonek veşartî hate spartin, da ku ji dûr ve çavdêriya çarenûsa li ser avê bike. Bêyî dîtin û guman, ev kesayet dê roleke girîng di guhertina rêça dîroka neteweyekê de bilîze.",
+  "clues": [
+    "Diya min karekî da min, karekî ku dizî û hişyariyê dixwest.",
+    "Çavên min li pey hêlînek biçûk ketin ku li ser herikînê diçû, dilê min ji fikaran giran bû.",
+    "Dema ku komeke neçaverêkirî ew dît, ez nêzîk bûm, tijî tirs.",
+    "Min bêhêvîtiya wan ji bo lênêrînerek dît û bêyî ku rastiyê eşkere bikim çareseriyek pêşkêş kir.",
+    "Mudaxeleya min a di wextê xwe de giyanekî hemşîre vegerand cem wî/wê yê ku herî zêde pêdivî bi wê hebû.",
+    "Li dadgehên desthilatdaran, min got: 'Ez te ber bi malbatekê ve bibim ku wî xwedî bike û bi baldarî lê binêre?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Xwişka Mûsa",
+        "Dayîka Mûsa",
+        "Jina Fîrewn",
+        "Pîrikêk",
+        "Keça Şuayb"
+      ],
+      "answer": "Xwişka Mûsa"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Avêtina zarokekî nav çem",
+        "Dabeşkirina deryayê",
+        "Şewitandina golik",
+        "Avakirina keştiyê",
+        "Belaya kuliyan"
+      ],
+      "answer": "Avêtina zarokekî nav çem"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Robar",
+        "Çol",
+        "Çiya",
+        "Qesr",
+        "Agir"
+      ],
+      "answer": "Robar"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Wê zarok bi diya wî re anî ba hev",
+        "Wê xwe ji leşkerên Fîrewn xilas kir",
+        "Ew bû şahbanû",
+        "Ew ji ber sîxuriyê hate cezakirin",
+        "Wê Îsraêliyan rêberî kir"
+      ],
+      "answer": "Wê zarok bi diya wî re anî ba hev"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

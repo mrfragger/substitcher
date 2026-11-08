@@ -1,0 +1,61 @@
+{
+  "title": "Yê ku Sûreyek Qezenc Kir",
+  "intro": "Xeyal bike ku giyanekî dilnizm bi dilê tijî dilsozî û xwestekeke kûr a fêrbûnê nêzîkî yek ji Pêxemberên Xwedê dibe. Lê di heman gavê de, kesekî dewlemend û xwedî paye bala Pêxember kişand û bi çavên tinazî li lêgerîner nihêrî. Tiştê ku piştre hat, ji tevahiya beşeke Quranê kêmtir nebû, ku ji bo sererastkirina Pêxember û rûmetdayîna giyanê ku lê digeriya hatibû hatibû şandin.",
+  "clues": [
+    "Ez bi dilek vekirî û bi hesretek kûr ji bo rêberiyê hatim ba Pêxemberê Xwedê",
+    "Min statuyek dinyayî pêşkêş nedikir, tenê giyanek dilnizm bû ku li rastiyê digeriya",
+    "Çavên min ên fîzîkî nedidîtin, lê dîtina min a giyanî zelal bû.",
+    "Ez di kêliyek ne guncaw de gihîştim, dema ku Peyamber bi kesekî xwedî bandor ve mijûl bû.",
+    "Rûyekî qermiçî li min zivirî, lê Xwedê bi îsbatkirina xwedayî bersiv da.",
+    "Ez Abdullah îbn Ummektûm im, hevalê fedakar ê ku çîroka wî îlhama Sureya Ebasa daye"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Abdullah ibn Umm Mektûm",
+        "Bîlal ibn Rebeh",
+        "Muadh ibn Cebel",
+        "Zeyd ibn Sabit",
+        "Selman el-Farisî"
+      ],
+      "answer": "Abdullah ibn Umm Mektûm"
+    },
+    "trial": {
+      "label": "Ceribandin / Bûyer",
+      "options": [
+        "Pêxember ji bo kesekî dewlemend red kir",
+        "Ji aliyê dijminan ve tê avêtin nav agirê herî mezin",
+        "Wek koleyan firotin û zulm lê kirin",
+        "Ji aliyê şervanekî bi hêz ve ji bo duelê tê teşwîqkirin",
+        "Ji aliyê masiyek mezin ve tê daqurtandin"
+      ],
+      "answer": "Pêxember ji bo kesekî dewlemend red kir"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Sûreyek ji Qur'anê ku bi qermiçî dest pê dike (Sûreya Ebese)",
+        "Agirekî sar û ewledar hatiye çêkirin",
+        "Dara ku deryayeke mezin perçe kir",
+        "Keştiyek li ser çiyayekî bilind hatiye avakirin",
+        "Çûkek ji axa hişk şekil girtiye"
+      ],
+      "answer": "Sûreyek ji Qur'anê ku bi qermiçî dest pê dike (Sûreya Ebese)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Xwedê sûreyek Quranê ji bo parastina min daxistiye",
+        "Xwedê agir ji bo min sar û ewle kir",
+        "Xwedê derya şeq kir da ku min ji şopandinê xilas bike",
+        "Xwedê şahîtî û hikmeteke mezin daye min",
+        "Xwedê bê mirin min bir bihuştê"
+      ],
+      "answer": "Xwedê sûreyek Quranê ji bo parastina min daxistiye"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

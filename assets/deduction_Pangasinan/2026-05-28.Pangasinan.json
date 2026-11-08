@@ -1,0 +1,61 @@
+{
+  "title": "Say Ag-ontutundan Pasyente",
+  "intro": "Diad saray awaran na propesiya, pigpigara so nansungdo ed ontan lan inkaandi tan pisikal a kairapan tekep na agnagiing a pananisia. Say istorya na sayan pigura et sakey ya ag-onsaew a leksion ed anos tan panagmatalek ed madibinon kakabatan. Siopa iyan kamarerwa?",
+  "clues": [
+    "Pinili ak nen Allah ya mangiter na mensahe, balet say sankabalgan ya subok ed siak et aliwan diad impangipulisay ed siak, noagta diad personal a kalamidad.",
+    "Nantutumbokan ya inala ray kayamanan ko, saray ayayep ko, tan saray anak ko.",
+    "Napno na sugat so laman ko, tan bukbukor ko nilikud ed suporta na asawak.",
+    "Tinmawag ak ed Katawan ko, ya binidbir ko so paniirap ko tan inanap koy panangasi To.",
+    "Siak so binilin ya igatin-gatin so salik ed dalin, tan pinmaway so makaparepreskon subol.",
+    "Inpawil nen Allah so bunigas ko tan inikdan to ak na balon pamilya tan mas dakel ni so kayamanan ko nen say dati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Ayyub",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Isa",
+        "Propeta Nuh"
+      ],
+      "answer": "Propeta Ayyub"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Naandi so kayamanan tan pamilya",
+        "Say pangibantak ed apoy",
+        "Say inakmon na sira",
+        "Say inkasian ed pamilya tan inlako ed aripen",
+        "Nasubok ed sakey a balitok a kilaw a baka"
+      ],
+      "answer": "Naandi so kayamanan tan pamilya"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey a subol na danum",
+        "Sakey a baston ya nagmaliw ya uleg",
+        "Sakey a biong a gawad kiew",
+        "Sakey a tinunaw a kilaw a baka",
+        "Sakey a kiew a palma"
+      ],
+      "answer": "Sakey a subol na danum"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Ipawil na pamilya tan kayamanan",
+        "Insegep ed tawen",
+        "Say pagmaliw ya ari",
+        "Say pakaliktar ed sakey a balyena",
+        "Say pangawat na anak a laki ed itatatken"
+      ],
+      "answer": "Ipawil na pamilya tan kayamanan"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

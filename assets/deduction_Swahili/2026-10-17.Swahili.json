@@ -1,0 +1,61 @@
+{
+  "title": "Tamaa Katika Chumba Kitakatifu",
+  "intro": "Unaingia ndani ya patakatifu tulivu na unamwona mtumishi mwaminifu wa Mwenyezi Mungu amesimama akisali. Mikono yao imeinuliwa, macho yao yameinuliwa, na mioyo yao ina hamu ambayo imedumu maisha yote. Ni nani huyu mtulivu ambaye imani yake kwa Mwenyezi Mungu haikuyumba?",
+  "clues": [
+    "Nilitumia miaka mingi katika ibada na maombi, nikishuhudia miujiza iliyoimarisha imani yangu.",
+    "Nilipewa jukumu la kumtunza kijana aliyebarikiwa katika patakatifu.",
+    "Nilipozeeka, huzuni yangu kubwa ilikuwa kwamba sikuwa na mtoto, kwani mke wangu alikuwa tasa na sote tulikuwa wazee.",
+    "Nilimwomba Mola wangu anipe mrithi kutoka katika familia yangu mwenyewe, mtu ambaye angeendeleza urithi wa unabii.",
+    "Nilipokuwa nimesimama kwenye sehemu ya kuswalia, malaika waliniita, wakisema, 'Mwenyezi Mungu anakupa habari njema', nami nikaingiwa na hofu na mshangao.",
+    "Niliambiwa nitapata mwana anayeitwa Yahya, jina ambalo halijawahi kupewa mtu yeyote hapo awali, na kama ishara nisingezungumza na watu kwa siku tatu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Zakaria",
+        "Nabii Yahya",
+        "Nabii Isa",
+        "Nabii Daudi",
+        "Luqman Mwenye Hekima"
+      ],
+      "answer": "Nabii Zakaria"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Utasa na uzee huku ukitamani mrithi mwadilifu",
+        "Kutupwa kwenye moto unaowaka",
+        "Kumezwa na samaki mkubwa",
+        "Kupoteza ufalme kwa mtawala dhalimu",
+        "Kufukuzwa kutoka nchi ya asili ya mtu"
+      ],
+      "answer": "Utasa na uzee huku ukitamani mrithi mwadilifu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sehemu ya maombi (mihrab)",
+        "Meli kubwa (Safina)",
+        "Kichaka kinachowaka moto",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ngamia jike wa Mwenyezi Mungu"
+      ],
+      "answer": "Sehemu ya maombi (mihrab)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alimpa mwana mwadilifu na akazungumza tena baada ya siku tatu za ukimya",
+        "Kuharibiwa na mafuriko kwa sababu ya kutoamini",
+        "Kupewa ufalme mkubwa na udhibiti wa upepo",
+        "Kuokolewa kutoka tumboni mwa samaki",
+        "Imemezwa na ardhi"
+      ],
+      "answer": "Alimpa mwana mwadilifu na akazungumza tena baada ya siku tatu za ukimya"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

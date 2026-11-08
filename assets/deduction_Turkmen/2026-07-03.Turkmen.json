@@ -1,0 +1,61 @@
+{
+  "title": "Görülmedik günäniň habarçysy",
+  "intro": "Kurandaky käbir hekaýalar tutuş jemgyýetiň nähili çuň zaýalanyp biljekdigini görkezýär. Bu ilçi ýeke özi durup, öň hiç bir millet yzarlamadyk azgynlyga gark bolan halkdan ýalbarýardy. Ýyllarboýy duýduryşlara garamazdan, ýürekler gatylaşdy we ylahy karar iň gorkunç ýagdaýda geldi. Siz bu hormatly Allanyň ilçisini tanap bilersiňizmi?",
+  "clues": [
+    "Men öň hiç bir ummatyň etmedik azgynçylygy bilen ýykylan bir kowuma duýduryş beriji hökmünde iberildim.",
+    "Meniň kowumym meni ýalançy diýip atlandyrdy we meni we meniň kowumdaşlarymy bu ýerden kowup çykarmak bilen haýbat atdy.",
+    "Hormatly myhmanlar meniň öýüme hüjümçi ýaş ýigitler görnüşinde geldiler we men olaryň howpsuzlygy üçin çuňňur gynanç duýdum.",
+    "Meniň kowumym myhmanlarymy olara bermegimi talap etdi, emma bu myhmanlaryň Allanyň iberen perişdeleridigini bilmeýärdi.",
+    "Meniň öz aýalym meniň dinimi paýlaşmady we heläk bolanlar bilen galmagy saýlady.",
+    "Daň atanda, güýçli daş ýagyşy ýagyp, şäherlerimiz agdarylanda, men we gyzlarym halas bolduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Lut pygamber",
+        "Şuaýb pygamber",
+        "Hud pygamber",
+        "Nuh pygamber",
+        "Salih pygamber"
+      ],
+      "answer": "Lut pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ýer ýüzüni gurşap alan uly sil",
+        "Uzak wagtlap ejir çekmekden gözleriniň ýitmegi",
+        "Hudaýlygy öňe sürýän zalym",
+        "Ýanýan oda taşlanmak",
+        "Hormatly myhmanlary tabşyrmak talap edilýär"
+      ],
+      "answer": "Hormatly myhmanlary tabşyrmak talap edilýär"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "El bilen gurlan uly gämi",
+        "Deňzi bölýän taýak",
+        "Möjüzeli düýe",
+        "Ýalpyldap duran ot",
+        "Agdarylan şäherler"
+      ],
+      "answer": "Agdarylan şäherler"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Möminleri yzarlaýarka suwa gark boldy",
+        "Ot peçinden sag-aman halas edildi",
+        "Diri göklere göterildi",
+        "Maşgala uly sil heläkçiliginde heläk boldy",
+        "Wepasyz aýaldan başga maşgala halas edildi"
+      ],
+      "answer": "Wepasyz aýaldan başga maşgala halas edildi"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

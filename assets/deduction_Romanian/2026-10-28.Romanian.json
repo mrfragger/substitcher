@@ -1,0 +1,61 @@
+{
+  "title": "O promisiune rostită peste jar",
+  "intro": "Stai lângă un foc în deșert, în timp ce jarul este împrăștiat cu grijă. Vizitatorii sosesc pentru o întâlnire în liniște, iar un singur mesaj deschide o poveste despre promisiuni, surprize și un viitor încă neîmplinit.",
+  "clues": [
+    "Am traversat distanța ca să ajungem la un slujitor credincios în deșert.",
+    "Am cerut să se împrăștie jar pentru a pregăti un foc.",
+    "Am vorbit cu unul care chemase o flacără pentru răcoare și siguranță.",
+    "I-am adus vești despre un nou-născut cuiva care depășise vârsta la care putea avea copii.",
+    "L-am numit pe copilul promis Isaac.",
+    "I-am adus lui Ibrahim vestea bună despre un fiu, iar vestea uimitoare l-a făcut pe Ibrahim să râdă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Îngerii care i-au adus lui Ibrahim vestea cea bună despre Isaac",
+        "Îngerii care au avertizat-o pe Lut",
+        "Îngerii purtători de tron",
+        "Îngerii Iadului",
+        "Îngerii trimiși la Noe"
+      ],
+      "answer": "Îngerii care i-au adus lui Ibrahim vestea cea bună despre Isaac"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Aducându-i lui Ibrahim vestea bună a nașterii lui Isaac",
+        "Avertismentul lui Lut înainte de pedepsirea poporului său",
+        "Anunțarea nașterii lui Yahya către Zakariyya",
+        "Purtând Tronul în Ziua Judecății",
+        "Anunțarea nașterii lui Isa către Maryam"
+      ],
+      "answer": "Aducându-i lui Ibrahim vestea bună a nașterii lui Isaac"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un foc preparat din jar împrăștiat",
+        "O arcă plutind pe apa potopului",
+        "O peșteră sigilată de o piatră rostogolitoare",
+        "Un munte de lut întărit de saramură",
+        "O scară care se întinde spre cer"
+      ],
+      "answer": "Un foc preparat din jar împrăștiat"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Vestea bună despre un fiu pe nume Isaac",
+        "Vestea bună a unui fiu pe nume Yahya",
+        "Alegerea lui Talut ca conducător peste copiii lui Israel",
+        "Un avertisment înainte de pedepsirea poporului lui Lut",
+        "O poruncă de a construi o arcă înainte de Potop"
+      ],
+      "answer": "Vestea bună despre un fiu pe nume Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

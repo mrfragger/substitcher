@@ -1,0 +1,61 @@
+{
+  "title": "De reizigers van het groene veld",
+  "intro": "In een oeroude tijd bewerkten twee mannen aangrenzende landerijen. Hun paden kruisten elkaar, maar hun harten leidden hen naar totaal verschillende bestemmingen. De een bewandelde het rechte pad, terwijl de ander afdwaalde in de duisternis van ontkenning. Kun jij het mysterie van deze twee hoeders van de oogst ontrafelen?",
+  "clues": [
+    "Ik had een overvloedige oogst, weelderige gewassen die de ogen van de toeschouwers verblindden.",
+    "Mijn buurman bezat nog meer rijkdom dan ik, maar toch begeerde ik zijn deel meer dan mijn eigen.",
+    "Ik stelde voor om hun gewassen volledig te vernietigen, zodat ik alles onder mijn controle kon brengen.",
+    "Ik heb ook mijn eigen oogst verwoest en alles vernietigd met mijn dwaze plannen.",
+    "Ik stond machteloos toe te kijken hoe mijn oogst verdorde en mijn rijkdom in één nacht tot stof verging.",
+    "Ik had geen deel aan het Hiernamaals, en mijn laatste verblijfplaats werd een helse vuurzee."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "De man die de opstanding en het oordeel ontkende.",
+        "De heerser die de rechtvaardige boer onderdrukte",
+        "De rijke landeigenaar die geen dankbaarheid toonde.",
+        "De boer die het land van zijn buurman begeerde",
+        "De verraderlijke partner die destructie beraamde."
+      ],
+      "answer": "De boer die het land van zijn buurman begeerde"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "De test voor het ontvangen van goddelijke openbaring",
+        "De uitdaging van rijkdom en geduld",
+        "De verleiding om het levensonderhoud van een rechtvaardig persoon te vernietigen.",
+        "Het commando om de erfenis eerlijk te verdelen.",
+        "De strijd tegen de onderdrukking door een tiran."
+      ],
+      "answer": "De verleiding om het levensonderhoud van een rechtvaardig persoon te vernietigen."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "De weelderige tuinen van het paradijs",
+        "Twee naast elkaar gelegen akkers",
+        "De bergen die getuige waren van verwoesting.",
+        "Het heilige heiligdom van Mekka",
+        "De rivieroevers van een gezegend land"
+      ],
+      "answer": "Twee naast elkaar gelegen akkers"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Het eeuwige paradijs als beloning voor rechtvaardigheid.",
+        "Volledige vernietiging van beide oogsten in dit leven",
+        "Ballingschap en zwerven tot de dood",
+        "Tijdelijke voorspoed gevolgd door eeuwig vuur",
+        "Een wonderbaarlijke herstelling en een verdubbeling van de opbrengst."
+      ],
+      "answer": "Volledige vernietiging van beide oogsten in dit leven"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kiy woo ci xóotaayu ndox mi",
+  "intro": "Xalaatal benn ruuh buñu dénk bataaxal bu jóge ci Yàlla, waaye ci saasi mu dem fu sori ci askanam te kenn mayu ko ndigal. Tukki boobu yóbbu leen ci fitna bu amul fenn, di fitna bu xóot ci muñ ak wóolu Ki gëna kawe. Kan mooy nit kii di nu jàngal tuub ak yaatuwaayu yërmaande Yàlla?",
+  "clues": [
+    "Dañu ma yónnee ci réew mu mag, waaye bi ñu ma njëkkee bañ, daf ma indil jafe-jafe.",
+    "Ma bàyyi sama askan, gëm ni sama wareef matna, balaa ñu may wax ma dem.",
+    "Maa ngi doon wër gaal gi may jaar, waaye taw bu metti, ñu daal di jël lote, daal di jànkoonte ak jafe-jafe yu metti.",
+    "Ñu sànni ma ci géej gi, mbindéef bu am doole wann ma lëmm.",
+    "Ci biir biir bu lëndëm gi, ma woo Yàlla, nangu sama njuumte, ñaan ko mu baal ma.",
+    "Allah dafa wax mbindéef mi mu sànni ma ci tefes gi, ma wér ci suufu gàñcax gu amul fenn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Yuusufa (Yuusufa)",
+        "Nuh (Noah)",
+        "Yunus (Yunus)",
+        "Suleymaan (Sulaymaan)",
+        "Ayyub (Ayub)"
+      ],
+      "answer": "Yunus (Yunus)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Xaajaloo géej gi",
+        "Safara bu Nimrod",
+        "Jën wu mag wann ko",
+        "Mbënd mi",
+        "Yaxxub dëkk ak xeer"
+      ],
+      "answer": "Jën wu mag wann ko"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Ark bi",
+        "Ndaw yi",
+        "Biir jën wi",
+        "Teen bi",
+        "Bush buy tàkk"
+      ],
+      "answer": "Biir jën wi"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekk na buur bu mag",
+        "Tabax na Kaaba gi",
+        "Dellu ngir jiite askan wu réccu",
+        "Dañu ko jox nguur ci kaw jinn yi",
+        "Yobbu nit ñi jàll desert bi"
+      ],
+      "answer": "Dellu ngir jiite askan wu réccu"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Jez, ki je uničil kraljestvo",
+  "intro": "Dežela tekočih rek, dveh bujnih vrtov in neprimerljive blaginje – toda njeni prebivalci so postali brezbrižni do Tistega, ki jih je blagoslovil. Ko so prišli opomini, ki so jih klicali nazaj, so se obrnili stran. Sledila je kazen, ki še vedno odmeva kot opozorilo. Kdo je bila ta starodavna skupnost?",
+  "clues": [
+    "Živeli smo v deželi, tako blagoslovljeni, da je naš dom ležal med dvema bujnima vrtovoma.",
+    "Uživali smo v rekah, ki so tekle skozi naša tla, in obilnih pridelkih, ki so polnili naše domove.",
+    "Ko pa smo bili poklicani k hvaležnosti in poslušnosti našemu Gospodu, smo se v ponosu obrnili stran.",
+    "Zaradi bogastva in udobja smo pozabili na Tistega, ki nam je vse to dal.",
+    "Nato je prišel nenaden hudournik, ki je prebil veliko oviro, na katero smo se zanašali.",
+    "Mi smo ljudstvo Sabe, katere dežela je bila znana po velikem jezu Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Ljudje iz Sabe",
+        "Ljudje iz jarka",
+        "Spremljevalci vodnjaka",
+        "Ljudje iz Tubbe",
+        "Ljudje iz Midjana"
+      ],
+      "answer": "Ljudje iz Sabe"
+    },
+    "trial": {
+      "label": "Naš propad",
+      "options": [
+        "Poplava zaradi poka jezu",
+        "Silovit veter z neba",
+        "Gorenje v ognjenem jarku",
+        "Močan potres",
+        "Utapljanje v veliki poplavi"
+      ],
+      "answer": "Poplava zaradi poka jezu"
+    },
+    "location": {
+      "label": "Ključna lokacija",
+      "options": [
+        "Jez Ma'rib",
+        "Gora Sinaj",
+        "Jama sedmih spečih",
+        "Goreči grm",
+        "Razcep morja"
+      ],
+      "answer": "Jez Ma'rib"
+    },
+    "outcome": {
+      "label": "Naša usoda",
+      "options": [
+        "Dva grenka vrta sta nadomestila naša bujna",
+        "Naši vrtovi so postali še bolj bujni",
+        "Zemlja se je potopila pod morje",
+        "Pokopali so nas v vulkanskem pepelu",
+        "Naš narod je razdeljen na dvanajst plemen"
+      ],
+      "answer": "Dva grenka vrta sta nadomestila naša bujna"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

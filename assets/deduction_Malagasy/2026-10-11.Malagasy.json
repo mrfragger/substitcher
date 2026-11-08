@@ -1,0 +1,61 @@
+{
+  "title": "Ny Feo ao amin'ny Fasika Fahiny",
+  "intro": "Anisan'ireo iraka voalohany avy amin'i Allah, nisy olona iray izay fohy nefa misy dikany ny anarany ao amin'ny CORAN. Niaina ela be talohan'ny nanirahana mpaminany lehibe maro ity olona ity, ary fantatra tamin'ny fahamarinana sy ny faharetana tsy azo hozongozonina. Fohy ny tantaran'izy ireo saingy maharitra ao amin'ny firaketana mandrakizay ny lovany. Iza moa io fanahy mendri-kaja io?",
+  "clues": [
+    "Izaho no iray amin'ireo iraka voalohany indrindra, voatonona fohifohy nefa misy dikany ao amin'ny CORAN.",
+    "Ny fanoloran-tena tsy azo hozongozonina tamin'ny fahamarinana no namaritana ny toetrako.",
+    "Tsaroana ao amin'ny bokin'i Allah aho ho isan'ireo izay nahatoky sy nanam-paharetana.",
+    "Andinin-tsoratra masina vitsivitsy monja ao amin'ny CORAN no mitantara ny tantarako.",
+    "Nomen'Andriamanitra voninahitra aho tamin'ny fomba izay ahy manokana, fa tsy nozaraina tamin'ny mpaminany hafa.",
+    "Nobeazina tamin'ny toerana ambony aho, voninahitra tsy manam-paharoa ao amin'ny CORAN."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Idris",
+        "Mpaminany Ilyas",
+        "Dhul-Kifl",
+        "Mpaminany Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Mpaminany Idris"
+    },
+    "trial": {
+      "label": "Fotoana mamaritra",
+      "options": [
+        "Nasandratr'Andriamanitra ho amin'ny toerana ambony aho",
+        "Nanangana sambo fiara lehibe aho mba hamonjena ny oloko",
+        "Nihaika ny mpanao ody ratsy an'i Farao aho",
+        "Natsipin'ireo rahalahiko tao anaty lavaka aho",
+        "Very ny masoko noho ny alaheloko ny zanako lahy"
+      ],
+      "answer": "Nasandratr'Andriamanitra ho amin'ny toerana ambony aho"
+    },
+    "location": {
+      "label": "Referansa Masina",
+      "options": [
+        "Sora Al-Anbiya",
+        "Soraty Al-Kahf",
+        "Sora Taha",
+        "Sora Ash-Shu'ara",
+        "Sora Yasin"
+      ],
+      "answer": "Sora Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Voninahitra masina",
+      "options": [
+        "Toerana avo tsy misy toa azy",
+        "Fanjakazakana amin'ny jiny sy ny rivotra",
+        "Fanjakana tsy manan-tsahala ny voninahitra",
+        "Mpandova hatramin'ny fahanterako",
+        "Fanekena nohamafisina tamin'i Allah"
+      ],
+      "answer": "Toerana avo tsy misy toa azy"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

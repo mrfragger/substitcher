@@ -1,0 +1,61 @@
+{
+  "title": "Trimisii Milostivirii și Puterii",
+  "intro": "Imaginează-ți o după-amiază liniștită, întreruptă de sosirea unor călători necunoscuți. Înfățișarea lor este obișnuită, dar scopul lor este cu totul altceva. Ei poartă un mesaj divin care va schimba cursul a două națiuni, aducând râsete într-o casă aridă și teroare într-un oraș păcătos. Cine sunt acești vizitatori misterioși?",
+  "clues": [
+    "Am fost trimiși la un slujitor devotat al lui Allah, cunoscut pentru ospitalitatea sa nemărginită.",
+    "Am sosit deghizați în niște străini și totuși gazda noastră a simțit ceva de altă lume în prezența noastră.",
+    "Am adus vești care au făcut o femeie în vârstă să râdă neîncrezătoare, lovindu-se la față de uimire.",
+    "Am avut sarcina de a proteja o familie dreaptă în timp ce se ascundea distrugerea asupra unui oraș cufundat în corupție.",
+    "Am refuzat să luăm parte la masa care ni s-a oferit, ceea ce nu a făcut decât să adâncească suspiciunea gazdei noastre.",
+    "Ne-am dezvăluit adevărata natură abia înainte de plecare, spunând: „Noi suntem mesageri ai Domnului tău.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oaspeții lui Avraam",
+        "Ucenicii lui Isus",
+        "Companionii Peșterii",
+        "Armata lui Abraha",
+        "Mesagerii lui Ya-Sin"
+      ],
+      "answer": "Oaspeții lui Avraam"
+    },
+    "trial": {
+      "label": "Misiunea noastră",
+      "options": [
+        "Pentru a testa credința lui Avraam în ceea ce privește fiul său",
+        "Să-i transmită scriptura lui Avraam",
+        "Pentru a anunța nașterea lui Isaac și distrugerea poporului lui Lot",
+        "Să-l călăuzească pe Avraam la Kaaba",
+        "Să-l salveze pe Avraam din foc"
+      ],
+      "answer": "Pentru a anunța nașterea lui Isaac și distrugerea poporului lui Lot"
+    },
+    "location": {
+      "label": "Locul apariției",
+      "options": [
+        "În țara Egiptului",
+        "În orașul Ur",
+        "La casa lui Avraam",
+        "În grădina Edenului",
+        "La fântâna lui Zamzam"
+      ],
+      "answer": "La casa lui Avraam"
+    },
+    "outcome": {
+      "label": "Rezultatul",
+      "options": [
+        "Avraam a devenit rege",
+        "Avraam a construit Kaaba",
+        "Sara l-a născut pe Isaac, iar poporul lui Lot a fost distrus",
+        "Avraam a emigrat în Palestina",
+        "Poporul lui Avraam a fost salvat de un mare potop"
+      ],
+      "answer": "Sara l-a născut pe Isaac, iar poporul lui Lot a fost distrus"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

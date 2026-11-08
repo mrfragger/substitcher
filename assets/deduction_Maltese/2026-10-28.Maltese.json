@@ -1,0 +1,61 @@
+{
+  "title": "Wegħda Mitkellma Fuq in-Nar",
+  "intro": "Inti wieqaf ħdejn nar fid-deżert hekk kif il-ġamar tiegħu jinfirex bir-reqqa. Il-viżitaturi jaslu għal laqgħa fis-skiet, u messaġġ wieħed jiftaħ storja ta’ wegħda, sorpriża, u futur li għadu ma twettqitx.",
+  "clues": [
+    "Qsamna d-distanza biex nilħqu qaddej fidil fid-deżert.",
+    "Tlabna li jinfirxu l-ġamar biex inħejju n-nar.",
+    "Tkellimna ma' wieħed li kien sejjaħ lil fjamma għall-kesħa u s-sigurtà.",
+    "Ġabna l-aħbar ta’ tarbija tat-twelid lil xi ħadd li kien qabeż l-età li jkollu t-tfal.",
+    "Semmejna lit-tifel imwiegħed Iżakk.",
+    "Ġabna l-aħbar it-tajba ta’ iben lil Ibrahim, u l-aħbar tal-għaġeb ħalliet lil Ibrahim jidħak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "L-Anġli Li Ġabu l-Aħbar it-Tajba ta’ Iżakk lil Ibrahim",
+        "L-Anġli Li Wissew lil Lut",
+        "L-Anġli li Jġorru t-Tron",
+        "L-Anġli tal-Infern",
+        "L-Anġli Mibgħuta lil Noè"
+      ],
+      "answer": "L-Anġli Li Ġabu l-Aħbar it-Tajba ta’ Iżakk lil Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Iwassal l-aħbar it-tajba tat-twelid ta’ Iżakk lil Ibrahim",
+        "Twissija lil Lut qabel il-kastig tal-poplu tiegħu",
+        "Tħabbira tat-twelid ta’ Yahya lil Zakariyya",
+        "Li ġġorr it-Tron f’Jum il-Ġudizzju",
+        "Tħabbira tat-twelid ta’ Isa lil Maryam"
+      ],
+      "answer": "Iwassal l-aħbar it-tajba tat-twelid ta’ Iżakk lil Ibrahim"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Nar imħejji minn ġammar mifrux",
+        "Arka f’wiċċ l-ilma tal-għargħar",
+        "Għar issiġillat minn ġebla li ddur",
+        "Muntanja ta’ tafal imwebbes bis-salmura",
+        "Sellum li jestendi fis-sema"
+      ],
+      "answer": "Nar imħejji minn ġammar mifrux"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Aħbar it-tajba ta’ iben jismu Iżakk",
+        "Aħbar it-tajba ta’ iben jismu Yahya",
+        "L-għażla ta' Talut bħala ħakkiem fuq it-Tfal ta' Iżrael",
+        "Twissija qabel il-kastig tan-nies ta’ Lut",
+        "Kmand biex tinbena arka qabel id-Dilluvju"
+      ],
+      "answer": "Aħbar it-tajba ta’ iben jismu Iżakk"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "To'lqinlar ostidagi sud jarayoni",
+  "intro": "O'z vazifasi yukiga tushgan payg'ambar uni qavmidan uzoqlashtirgan va kutilmagan sinovga duchor qilgan qaror qabul qildi. Uning sayohati dramatik burilish yasab, uning imoni va sabr-toqatini eng chuqur sinovdan o'tkazdi. Ushbu g'ayrioddiy voqeaning tafsilotlarini berilgan ishoralardan bilib olasizmi?",
+  "clues": [
+    "Bir qavmga payg'ambar yuborildi, ammo u rad etilganidan g'azablanib, shoshilib ketdi.",
+    "Uning sayohati uni dengizga olib bordi va u yerda yo'l izlab og'ir yuklangan kemaga chiqdi.",
+    "Kema uchun xavf tug'diradigan kuchli bo'ron ko'tarildi va yukni yengillashtirish uchun bir kishini dengizga uloqtirishga qaror qilindi, bu qur'a tashlash orqali aniqlandi.",
+    "Uni tubsizlikdagi bir mavjudot yutib yubordi, bu Ilohiy iroda bilan mo''jizaviy hodisa edi.",
+    "U maxluqning qornida tavba qilib, zulmatda Allohni ulug'lab, Parvardigoriga iltijo qildi.",
+    "Bir muddat tinimsiz iltijolardan so'ng, u zaif, ammo tirik holda unumsiz qirg'oqqa tashlandi va keyinroq qaytib kelib, xalqi nihoyat ishonganini ko'rdi."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Payg'ambar/Shaxs",
+      "options": [
+        "Nuh payg'ambar",
+        "Lut payg'ambar",
+        "Muso payg'ambar",
+        "Yunus payg'ambar",
+        "Yusuf payg'ambar"
+      ],
+      "answer": "Yunus payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Nuhning to'foni",
+        "Sado'mning vayron bo'lishi",
+        "Katta baliqning qornidagi sayohat",
+        "Dengizning ikkiga bo'linishi",
+        "Yonayotgan butaning vahiysi"
+      ],
+      "answer": "Katta baliqning qornidagi sayohat"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Sinay tog'i",
+        "Musoning tayoqchasi",
+        "Buyuk baliq",
+        "Yusuf qudug'i"
+      ],
+      "answer": "Buyuk baliq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Insoniyat bilan yangi ahd",
+        "Uning xalqi uchun mo''jizaviy tug'ilish",
+        "Uning nasl-nasabi uchun tashkil etilgan qirollik",
+        "O'shanda ishongan xalqiga qaytish",
+        "Zolim hukmdor ustidan g'alaba"
+      ],
+      "answer": "O'shanda ishongan xalqiga qaytish"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

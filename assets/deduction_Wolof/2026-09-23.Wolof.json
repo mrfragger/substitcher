@@ -1,0 +1,61 @@
+{
+  "title": "Wooy bi yàgg",
+  "intro": "Xalaatal benn ruuh bu taxaw moom kese di xeex ak siwilisasioŋ bu mat sëkk, fasoon yéene yóbbu leen ci réer ak pastéef gu dëgër. Lu weesu xarnu yu bari, ñu bañoon nangu kàddu yi, ñaawal ko, ba noppi bàyyi ko, waaye liggéey bi musul taxaw. Ginaaw ga, ñu mujjee am lim bu rëy, ñu néew kese ñoo yegg ci mucc gi ànd ak xol bu dëgër boobu. Ndax mën nga xàmmee lim bii ci Al Quran?",
+  "clues": [
+    "Dañu ma yónnee ngir ma artu nit ñu réer ci seeni yoon.",
+    "Ma wax leen ñu ñaan ñu baal ma, ñu bàyyi seen njuumte, waaye ñu dellu ginaaw.",
+    "Ci ndigalu Yàlla, ma defar gaal gu rëy, samay nit dima xool di ma ñaawal.",
+    "Maa ngi woo sama Boroom te baña xàddi, mu mujjee ma tontu, ndox mi tuuru ci asamaan si di wal bu baax.",
+    "Ma dugg ci gaal gi ak ñi gëm, bi ndox mi yéegee ci kaw suuf si.",
+    "Ma yuuxu ci kenn ku desoon ci ginaaw, di leen sàkku ñu rëcci ci benn tundu, waaye dogal bi jota génn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Yonent-Yàlla Nuh",
+        "Yonent-Yàlla Ibraahim",
+        "Boroom bi Musa",
+        "Boroom bi Hud",
+        "Boroom bi Salih"
+      ],
+      "answer": "Yonent-Yàlla Nuh"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Tabax gaal gu mag ak mucc ci mbënd mi dal àdduna bi yépp",
+        "ñu sànni leen ci safara gu tàng",
+        "Jano ak ab tiran ak ay luxuskat yu am doole",
+        "Jën wu mag wann ko",
+        "Seede ni ñuy ray gaam bu jigéen bu sell"
+      ],
+      "answer": "Tabax gaal gu mag ak mucc ci mbënd mi dal àdduna bi yépp"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Ark dénk bu rëy ci kaw ndox mu bari",
+        "Vallé bu sell bu am xeer yu yàgg",
+        "Grotte bu xóot bu ay àndadoo nelawoon ay xarnu",
+        "Biir bu baleine bu mag ci biir géej gi",
+        "Tundu xeer bu kawe ci àll bi"
+      ],
+      "answer": "Ark dénk bu rëy ci kaw ndox mu bari"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Mucc ak gëm yi ci gaal gi",
+        "Musal nañu ko ci lakk bi te dara dalu ko ci ndigalu Yàlla",
+        "Yobbu nañu génn gu mag ci réew mu am doole",
+        "Sànni jën wi ci tefes gu amul ndox",
+        "Yobbu nit ñi ci lu bon jaaraleko ci kéemtaanu kéemtaan"
+      ],
+      "answer": "Mucc ak gëm yi ci gaal gi"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Unha promesa dita sobre as brasas",
+  "intro": "Estás de pé xunto a un lume no deserto mentres as súas brasas se espallan coidadosamente. Os visitantes chegan para un encontro na quietude, e unha soa mensaxe abre unha historia de promesas, sorpresas e un futuro aínda non cumprido.",
+  "clues": [
+    "Cruzamos a distancia para chegar a un servo fiel no deserto.",
+    "Pedimos que se estendesen brasas para preparar un lume.",
+    "Falamos cun que chamara a unha chama pedindo frescura e seguridade.",
+    "Levamos a nova dun recén nacido a alguén que xa pasara a idade de ter fillos.",
+    "Chamámoslle ao neno prometido Isaac.",
+    "Trouxémoslle a boa nova dun fillo a Ibrahim, e a sorprendente noticia deixou a Ibrahim rindo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Os anxos que lle trouxeron a boa nova de Isaac a Ibrahim",
+        "Os anxos que avisaron a Lut",
+        "Os anxos que levan o trono",
+        "Os anxos do inferno",
+        "Os anxos enviados a Noé"
+      ],
+      "answer": "Os anxos que lle trouxeron a boa nova de Isaac a Ibrahim"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Traendo a boa nova do nacemento de Isaac a Ibrahim",
+        "Advertencia a Lut antes do castigo do seu pobo",
+        "Anunciando o nacemento de Yahya a Zakariyya",
+        "Levando o Trono no Día do Xuízo",
+        "Anunciándolle o nacemento de Isa a Maryam"
+      ],
+      "answer": "Traendo a boa nova do nacemento de Isaac a Ibrahim"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un lume preparado con brasas estendidas",
+        "Unha arca flotando sobre as augas da inundación",
+        "Unha cova selada por unha pedra rodante",
+        "Unha montaña de arxila endurecida pola salmoira",
+        "Unha escaleira que se estende cara ao ceo"
+      ],
+      "answer": "Un lume preparado con brasas estendidas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Boas novas dun fillo chamado Isaac",
+        "Boas novas dun fillo chamado Yahya",
+        "A elección de Talut como gobernante sobre os fillos de Israel",
+        "Un aviso antes do castigo do pobo de Lut",
+        "Unha orde de construír unha arca antes do Diluvio"
+      ],
+      "answer": "Boas novas dun fillo chamado Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

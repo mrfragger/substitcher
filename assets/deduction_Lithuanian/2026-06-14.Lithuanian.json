@@ -1,0 +1,61 @@
+{
+  "title": "Liepsna, palikusi palikimą",
+  "intro": "Pasipriešinimo metraščiuose minima asmenybė, kurios vien vardas tapo įspėjimu iki laikų pabaigos. Šis asmuo pasirinko priešiškumą vietoj giminystės, nepaklusnumą vietoj paklusnumo ir priešinosi gailestingumo kvietimui. Atidžiai klausykitės senovės pareiškimo aidų, mums atskleidžiant šios liūdnai pagarsėjusios sielos tapatybę.",
+  "clues": [
+    "Gimiau tame pačiame klane kaip ir paskutinis Alacho pasiuntinys, tačiau kiekviename žingsnyje priešinausi jiems.",
+    "Mano vardas turėjo prasmę – vardas reiškė „liepsnos tėvas“, vardas, kuris pranašavo mano amžinąją lemtį.",
+    "Aš paleidau pikta tiesos nešėjui, ir net mano paties namiškiai prisijungė prie šios žiaurumo kampanijos.",
+    "Savo turtus ir įtaką panaudojau, kad nutildyčiau Alacho šauksmą, tikėdamas, kad pinigai gali užgesinti dieviškąją šviesą.",
+    "Alachas man skyrė visą skyrių – skyrių, tokį trumpą, kad jį galima perskaityti per kelias sekundes, tačiau jo svoris išlieka iki pat Teismo dienos.",
+    "Mano palydovas pomirtiniame gyvenime eina iš paskos, surištas pluošto virve aplink kaklą, nešdamas tuos pačius spyglius, kuriuos jie anksčiau skleisdavo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Abu Lahabas",
+        "Abu Džahlas",
+        "Varaka ibn Naufalas",
+        "Umaija ibn Khalafas",
+        "Ukba ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahabas"
+    },
+    "trial": {
+      "label": "Konfrontacijos apibrėžimas",
+      "options": [
+        "Vadovavimas opozicijai prieš Pranašą Mekoje",
+        "Migracija į Abisiniją, siekiant išvengti persekiojimo",
+        "Kaabos statyba su pranašu Ibrahimu",
+        "Islamo priėmimas mirties patale",
+        "Hudaibiyyah sutarties sudarymas"
+      ],
+      "answer": "Vadovavimas opozicijai prieš Pranašą Mekoje"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Žmona, kuri nešė erškėčius ir malkas",
+        "Lazdelė, kuri virto gyvate",
+        "Žiedas su Saliamono antspaudu",
+        "Liaudies garbinamas auksinis veršis",
+        "Šaltinis, iš kurio tryško vanduo"
+      ],
+      "answer": "Žmona, kuri nešė erškėčius ir malkas"
+    },
+    "outcome": {
+      "label": "Galutinis atsiskaitymas",
+      "options": [
+        "Visa sura, skelbianti visišką sunaikinimą, atskleista",
+        "Tapo musulmonų bendruomenės lyderiu",
+        "Atleidimą gavo mirties akimirką",
+        "Medinoje pastatė didelę mečetę",
+        "Buvo prikeltas tarp teisiųjų"
+      ],
+      "answer": "Visa sura, skelbianti visišką sunaikinimą, atskleista"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

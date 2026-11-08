@@ -1,0 +1,61 @@
+{
+  "title": "Idir an Domhan agus an Spéir",
+  "intro": "Tá anam mistéireach ag fanacht leat i leathanaigh naofa stair dhiaga, ag iompar comharthaí agus míorúiltí a bhíonn fós ag macalla trí na haoiseanna. Agus tú ag leanúint rian na leideanna, rachaidh tú ar aistear trí scéal atá marcáilte ag míorúiltí - ó thús míorúilteach go dtí dreapadh thar an spéir. An féidir leat an seirbhíseach beannaithe seo a aithint roimh an leid dheireanach?",
+  "clues": [
+    "Cuireadh mé mar theachtaire chuig Clann Iosrael le scéala trócaire agus solais.",
+    "Comhartha míorúilteach ab ea mo bhreith — tháinig mé ar an saol seo gan athair, ar ordú an Uilechumhachtaigh.",
+    "Labhair mé agus mé fós i mo naíonán, ag cosaint onóir mo mháthar i gcoinne cúisimh a muintire.",
+    "Le cead ó Allah, mhúnlaigh mé éin as cré agus thug mé anáil bheatha iontu — d’eitil siad ar shiúl os comhair súile na ndaoine a bhí ag faire.",
+    "Shláin mé iad siúd a rugadh dall, leigheas mé na lobhair, agus thóg mé fiú na mairbh - ach ba le cead Allah a rinneadh gach míorúilt, ní le mo chead féin.",
+    "Nuair a bhí mo naimhde ag pleanáil mé a scrios, thóg Allah mé suas chun na bhflaitheas agus gheall sé mo fhilleadh roimh Lá an Bhreithiúnais."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Íosa (Íosa)",
+        "An Fáidh Músa (Maois)",
+        "An Fáidh Ibrahim (Abraham)",
+        "Fáidh Muhammad",
+        "An Fáidh Iósaf (Iósaf)"
+      ],
+      "answer": "An Fáidh Íosa (Íosa)"
+    },
+    "trial": {
+      "label": "An Nóiméad Cinniúnach",
+      "options": [
+        "Tógadh mé suas go dtí na flaithis",
+        "Caitheadh ​​​​mé i tine lasrach",
+        "Thug mé aghaidh ar arm cumhachtach Pharaoh",
+        "Shlogadh mé ag míol mór mór",
+        "Thóg mé áirc ar an sliabh"
+      ],
+      "answer": "Tógadh mé suas go dtí na flaithis"
+    },
+    "location": {
+      "label": "Comhartha Naofa Déanta",
+      "options": [
+        "Mhúnlaigh mé éin as cré",
+        "Rinne mé nathair de bhata",
+        "Roinn mé an ghealach ina dhá leath",
+        "D'ordaigh mé an ghaoth agus an jinn",
+        "Thug mé camall baineann amach as carraig"
+      ],
+      "answer": "Mhúnlaigh mé éin as cré"
+    },
+    "outcome": {
+      "label": "Cad a Tharla Díom",
+      "options": [
+        "Ardaithe chun na bhflaitheas; gealladh filleadh",
+        "Rinneadh rialóir mór ar impireacht de",
+        "Threoraigh mé mo mhuintir amach as braighdeanas",
+        "Tugadh saibhreas talmhaí gan sárú dó",
+        "Athcheangail mé le mo theaghlach tar éis scaradh fada"
+      ],
+      "answer": "Ardaithe chun na bhflaitheas; gealladh filleadh"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

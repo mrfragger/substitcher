@@ -1,0 +1,61 @@
+{
+  "title": "La comunità che sfidò il giorno del riposo",
+  "intro": "Entrate in un insediamento costiero dove un comandamento divino ha stabilito un giorno da dedicare al culto e alla moderazione. Un gruppo di persone all'interno di questa comunità scelse di mettere alla prova i limiti di quel comandamento con un piano astuto, che portò a una trasformazione destinata a risuonare nei secoli. Chi erano queste anime e che fine hanno fatto?",
+  "clues": [
+    "Vivevamo vicino alla costa, dove il mare ci garantiva il sostentamento.",
+    "Ci è stato comandato di onorare un giorno della settimana, mettendolo da parte dalle attività mondane.",
+    "Quel giorno i pesci ci vennero incontro in gran numero, quasi a tentarci a disobbedire al comando.",
+    "Abbiamo ideato un piano per catturare i pesci alla vigilia del giorno sacro, per poi raccoglierli dopo che questo fosse passato.",
+    "Quando alcuni tra noi ci misero in guardia contro questo inganno, ignorammo i loro consigli e persistemmo.",
+    "Per la nostra trasgressione, siamo stati trasformati in scimmie, disprezzati e rigettati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il popolo del sabato",
+        "La gente del fosso",
+        "Il popolo del bosco",
+        "Il popolo del giardino",
+        "Il popolo dell'elefante"
+      ],
+      "answer": "Il popolo del sabato"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Pescare di sabato",
+        "Costruire un'alta torre",
+        "Uccidere una cammella sacra",
+        "Rinnegare un profeta inviato loro",
+        "Violazione delle norme sui pesi commerciali"
+      ],
+      "answer": "Pescare di sabato"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il mare e i suoi pesci",
+        "Il fuoco che si è raffreddato",
+        "Il bastone che si trasformò in un serpente",
+        "L'arca della salvezza",
+        "Le tavole di pietra"
+      ],
+      "answer": "Il mare e i suoi pesci"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Trasformati in scimmie",
+        "Inghiottito dalla terra",
+        "Distrutto da un vento impetuoso",
+        "Annegato in mare",
+        "Colpito da una pioggia di pietre"
+      ],
+      "answer": "Trasformati in scimmie"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

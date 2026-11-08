@@ -1,0 +1,61 @@
+{
+  "title": "Baat bu noppi ci biir néeg bi",
+  "intro": "Benn ñaan bu amoon ci biir néeg bu sell bu yàgg, jog ci ruuh bu màgget, bëgg lu àdduna bi waxoon ni mënul am. Nit ki màgget lool, jaaxle lool ci ëlëg, mu wëlbatiku ci seen Boroom, di ñaanal seen boroom. Li ci topp mooy tontub Yàlla bu dëppoo ak lépp lu nit ñi mëna seentu—muy firndeel yërmaandeg Kiy tontu woote bu amul benn yaakaar.",
+  "clues": [
+    "Ma woo sama Boroom ci sama bopp, ma dem ci néeg bi ma jaamu ko.",
+    "Ma nangu sama Boroom ni dama ragal ñiy ñëw ci sama ginaaw, maa ngi jaaxle ci njiitu sama askan su ma demee.",
+    "Màgget daal di jàpp sama yaram—samay yax dañu tàmbali néew doole, kawar gu weex tasaaroo ci sama bopp.",
+    "Sama jabar amul doom ci dundam yépp, waaye ba leegi maa ngi ñaan sama Boroom mu may ma ndono ci kanamam.",
+    "Ma ñaan firnde, sama Boroom tontu ma, mu tere ma wax ak kenn ci diiru ñatti guddi, fekk maa ngi wér ci sama yaram.",
+    "Digoon nañu ma doom bu góor bu tuddu Yahya, tur wi sama Boroom wax ni kenn musu ko jox ci àdduna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Zakariya",
+        "Yonent-Yàlla Nuh",
+        "Boroom bi Musa",
+        "Yonent bi Yuusuf",
+        "Dawud"
+      ],
+      "answer": "Zakariya"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Ñaanal ab ndono ci màgget ak jabar ju mënul am doom",
+        "ñu sànni leen ci safara gu tàng",
+        "Jën wu mag wann ko ci lëndëm",
+        "Muñ ñàkka am njaboot, alal ak wérgi-yaram",
+        "Ñu digal leen ñu tabax gaal gu mag"
+      ],
+      "answer": "Ñaanal ab ndono ci màgget ak jabar ju mënul am doom"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "salle de prière (mihrab)",
+        "Baton bu soppiku nekk jaan",
+        "Ark dénk bu mag",
+        "Jardin bu am ndox mu amul fenn",
+        "Tund wu picc yi dajaloo"
+      ],
+      "answer": "salle de prière (mihrab)"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Maa ngi am doom ju góor ci kéemtaanu tur doonte daa màgget lool",
+        "Muccal nañu ko ci safara gu tàng ci ndigalu Yàlla",
+        "Mbënd mu réy yàq na weddikat yi .",
+        "Delloosi ci njaboot, alal, ak wérgi-yaram ginaaw muñ",
+        "Firawna ak ay soldaaram daanu ci géej gi"
+      ],
+      "answer": "Maa ngi am doom ju góor ci kéemtaanu tur doonte daa màgget lool"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

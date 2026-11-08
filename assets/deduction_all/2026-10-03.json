@@ -1,0 +1,61 @@
+{
+  "title": "The Vigil at the Blazing Gate",
+  "intro": "A silent, formidable multitude stands watch at a fearsome threshold, never tasting food, drink, or rest. Fashioned from a substance unlike human clay, they await a single dread purpose—and they have never disobeyed even one command from their Lord.",
+  "clues": [
+    "We are beings unlike humans, created from a substance that does not eat, drink, or tire.",
+    "Our exact number is known and revealed in the Book—we are neither countless nor a multitude.",
+    "We have never disobeyed our Creator, nor do we ever speak before being commanded.",
+    "When the Day arrives, the disbelievers will be driven to us in groups, and we will open the gates for them.",
+    "We will ask them: 'Did there not come to you messengers from your own kind, warning you of this Day?'",
+    "We guard a place from which no soul ever emerges—a blazing domain of eternal punishment."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "The Keepers of Hellfire (Zabaniyah)",
+        "The Bearers of the Throne of Allah",
+        "The Recording Angels (Kiraman Katibin)",
+        "The Angels of Death",
+        "The Gatekeepers of Paradise"
+      ],
+      "answer": "The Keepers of Hellfire (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Our Primary Duty",
+      "options": [
+        "Guarding the gates of Hellfire",
+        "Recording every human deed",
+        "Carrying the Throne of Allah",
+        "Taking the souls of the deceased",
+        "Commanding the winds and clouds"
+      ],
+      "answer": "Guarding the gates of Hellfire"
+    },
+    "location": {
+      "label": "What Do We Guard?",
+      "options": [
+        "The Hellfire",
+        "The Throne of Allah",
+        "The Scrolls of Deeds",
+        "The Rivers of Paradise",
+        "The Mountains of the Earth"
+      ],
+      "answer": "The Hellfire"
+    },
+    "outcome": {
+      "label": "Fate of Those in Our Domain",
+      "options": [
+        "They will remain forever and never leave",
+        "They will eventually be pardoned and released",
+        "They will be purified over time",
+        "They will be transformed into other forms",
+        "They will alternate between Hell and Paradise"
+      ],
+      "answer": "They will remain forever and never leave"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ugninis priešininkas",
+  "intro": "Ankstyvosiomis apreiškimo dienomis iškilo asmenybė, užsispyrusi tiesos priešininkė. Apdovanota turtais ir statusu, ši siela pasirinko pasididžiavimą, o ne vadovavimą, ir jų istorija tapo griežtu įspėjimu paskutinėse suros eilutėse.",
+  "clues": [
+    "Gyvenau tame pačiame mieste kaip ir pranašas ir buvau vienas artimiausių jo giminaičių, tačiau mano išdidumas mane laikė atokiai nuo tiesos.",
+    "Turėjau didelius turtus ir daugybę objektų, ir maniau, kad mano ištekliai visada mane apsaugos.",
+    "Kai žinia buvo apreikšta, aš atvirai iš jos tyčiojausi ir nusisukau, laikydamas save aukštesniu už tikinčiuosius.",
+    "Mano priešiškumas buvo toks pagarsėjęs, kad vienoje Korano suroje buvau tiesiogiai kreipęsis į mane vardu, kuriuo mane pažinojo kiti.",
+    "Buvau įspėtas, kad mano turtas ir uždarbis man nepadės ir būsiu įmestas į liepsnojančią ugnį.",
+    "Esu žinomas kaip liepsnos tėvas, o mano žmona nešios malkas su palmių pluošto virve ant kaklo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Abu Lahabas",
+        "Abu Džahlas",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahabas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Atmetė islamą ir atvirai priešinosi Pranašui",
+        "Planavo nužudyti pranašą",
+        "Vadovavo socialiniam boikotui prieš musulmonus",
+        "Kovojo Badro mūšyje",
+        "Kankintas Bilalas ibn Rabahas"
+      ],
+      "answer": "Atmetė islamą ir atvirai priešinosi Pranašui"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Palmių pluošto virvė",
+        "Aštrus kardas",
+        "Sunki grandinė",
+        "Medinis personalas",
+        "Odinis plaktukas"
+      ],
+      "answer": "Palmių pluošto virvė"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Degs liepsnojančioje ugnyje",
+        "Atgailavo ir tapo bendražygiu",
+        "Prarado turtus, bet mirė pagerbtas",
+        "Pabėgo į Abisiniją.",
+        "Nuskendo jūroje"
+      ],
+      "answer": "Degs liepsnojančioje ugnyje"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

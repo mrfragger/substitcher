@@ -1,0 +1,61 @@
+{
+  "title": "Hannun da aka La'anta",
+  "intro": "Kana tsaye a cikin lungunan da ke kan titin Makkah na da, inda wani rai mai tasiri da wadata ya taɓa kauce wa kiran gaskiya. Labarin wannan mutum-mutumin tunatarwa ce mai ƙarfi cewa alaƙar jini ba za ta iya shawo kan sarƙoƙin girman kai ba. Wanene wannan wanda sunansa ke amsawa da wutar da ke jira?",
+  "clues": [
+    "Na yi tafiya a titunan Makka da alfahari wanda ya makantar da ni daga ganin gaskiya, duk da cewa manzon jinin jikina ne.",
+    "Dukiyata tana da yawa, amma sun zama la'ana maimakon garkuwa.",
+    "Littafin jagora yana magana game da halakata, yana bayyana cewa hannuna da jikina za su halaka.",
+    "Matata ta shiga yakin ƙiyayya ta, tana tara ƙaya don ta bazu a kan hanyar wanda ya kira Allah.",
+    "A ranar shari'a, za a jefa ni cikin wutar harshen wuta mai zafi, kuma matata za ta ɗaure igiyar zare a wuyanta.",
+    "An san ni da suna da ke nufin 'uban harshen wuta' - sunan da ke annabta matsugunina na har abada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Gwaji Mai Muhimmanci ko Taro",
+      "options": [
+        "Ya yi adawa da Annabi kuma an la'ance shi a cikin Alqur'ani",
+        "Ya jagoranci runduna don rusa Ka'aba",
+        "An yi ƙoƙarin kashe Annabi ta hanyar jifa da duwatsu",
+        "Ya ƙi yarda da rabuwar wata",
+        "Gina hasumiya don isa ga sammai"
+      ],
+      "answer": "Ya yi adawa da Annabi kuma an la'ance shi a cikin Alqur'ani"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Wutar Jahannama Mai Cike Da Wuta",
+        "Ma'aikacin Musa",
+        "Jirgin Nuhu",
+        "Rijiyar Zamzam",
+        "Ɗan Maraƙin Zinare"
+      ],
+      "answer": "Wutar Jahannama Mai Cike Da Wuta"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Zai shiga Wutar Lantarki, kuma dukiyarsa ba za ta amfane shi ba",
+        "Ya tuba ya zama mai imani",
+        "An yafe masa bayan ya musanta laifinsa",
+        "Ya mutu a matsayin shahidi",
+        "An ɗauke shi zuwa sama"
+      ],
+      "answer": "Zai shiga Wutar Lantarki, kuma dukiyarsa ba za ta amfane shi ba"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

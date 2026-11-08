@@ -1,0 +1,61 @@
+{
+  "title": "Plângerea auzită mai presus de zgomot",
+  "intro": "Auzi o voce care se ridică dintr-o societate în care opresiunea a devenit o rutină. Nicio demonstrație de putere nu răspunde la plângere; în schimb, un apel direct ajunge la Allah, iar răspunsul lovește chiar în inima sfințeniei. Cine a făcut această plângere, ce întrebare a urmat și ce adevăr a fost afirmat?",
+  "clues": [
+    "Am devenit tulburat de opresiunea oamenilor din jurul meu.",
+    "Mi-am exprimat acea nemulțumire direct lui Allah într-o plângere personală.",
+    "Allah a auzit plângerea și a răspuns cu o provocare legată de propria mea credință.",
+    "Răspunsul a întrebat cum am putut să nu cred în Allah, care este Unul și Suprem.",
+    "Apoi am întrebat de ce Allah ar favoriza un popor care nu crede.",
+    "Eu sunt Uzair, numit în Sura Az-Zukhruf ca fiind cel a cărui plângere a fost auzită de Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Uzair",
+        "Companionul care a navigat pe marele potop",
+        "Slujitorul care a umblat pe apă",
+        "Dormitorul protejat într-o peșteră",
+        "Slujitorul care a adus pietre la râu"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Plângându-se lui Allah despre opresiunea oamenilor",
+        "Mersul pe apă în timpul unei furtuni",
+        "Cărând pietre la un râu fără apă",
+        "Navigând printr-un mare potop la bordul Arcei",
+        "Primirea cheii unei comori imense"
+      ],
+      "answer": "Plângându-se lui Allah despre opresiunea oamenilor"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O plângere directă adresată lui Allah",
+        "Un toiag care s-a transformat într-un șarpe",
+        "Un cuptor răcoros și liniștit",
+        "O arcă plutind peste apele potopului",
+        "Un pește care înghite un servitor"
+      ],
+      "answer": "O plângere directă adresată lui Allah"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Allah a auzit plângerea și a afirmat Unicitatea divină și Domnia Supremă",
+        "Mersul în siguranță pe apă în timpul unei furtuni",
+        "Traversând în siguranță un mare potop la bordul Arcii",
+        "Recăpătând vederea într-un palat al aroganței",
+        "Primind stăpânire care se întinde de la Est la Vest"
+      ],
+      "answer": "Allah a auzit plângerea și a afirmat Unicitatea divină și Domnia Supremă"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "De Prozess ënnert de Wellen",
+  "intro": "E Prophet, belaascht duerch seng Missioun, huet eng Entscheedung getraff, déi hien wäit vu sengem Vollek ewech an an eng onerwaart Prüfung gefouert huet. Seng Rees huet eng dramatesch Wendung geholl, déi säi Glawen a seng Gedold op déi déifgräifendst Aart a Weis op d'Prouf gestallt huet. Kënnt Dir d'Detailer vun dësem aussergewéinleche Evenement aus de geliwwerte Hiweiser ofleeden?",
+  "clues": [
+    "E Prophet gouf zu e Vollek geschéckt, awer ass séier fortgaang, well hien frustréiert iwwer hir Ofleenung war.",
+    "Seng Rees huet hien op d'Mier gefouert, wou hien an e schwéier beluedent Schëff geklommen ass, fir Passage ze sichen.",
+    "E grousse Stuerm ass opgestan, deen d'Schëff menacéiert huet, an et gouf decidéiert, eng Persoun iwwer Bord ze geheien, fir d'Laascht ze liichten, andeems d'Lous festgeluecht gouf.",
+    "Hie gouf vun enger Kreatur aus der Déift verschléckt, e wonnerbart Evenement, dat vum göttleche Wëllen dekretéiert gouf.",
+    "Bannent de Grenzen vum Bauch vun der Kreatur huet hien säin Här geruff, huet Reue gemaach an Allah an der Däischtert verherrlecht.",
+    "No enger Period vun intensivem Bidden gouf hie schwaach awer lieweg op e kaal Ufer gehäit, a koum spéider zréck fir festzestellen, datt säi Vollek endlech gegleeft hat."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prophet/Persoun",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Lut",
+        "Prophet Musa",
+        "Prophet Yunus",
+        "Prophet Yusuf"
+      ],
+      "answer": "Prophet Yunus"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Iwwerschwemmung vun Nuh",
+        "D'Zerstéierung vu Sodom",
+        "D'Rees am Bauch vum grousse Fësch",
+        "D'Spaltung vum Mier",
+        "D'Offenbarung vum brennende Busch"
+      ],
+      "answer": "D'Rees am Bauch vum grousse Fësch"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark",
+        "Bierg Sinai",
+        "D'Mataarbechter vum Musa",
+        "De Groussen Fësch",
+        "De Brunn vum Yusuf"
+      ],
+      "answer": "De Groussen Fësch"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "En neie Pakt mat der Mënschheet",
+        "Eng wonnerbar Gebuert fir säi Vollek",
+        "E Kinnekräich, dat fir seng Ofstamung gegrënnt gouf",
+        "Eng Réckkehr zu sengem Vollek, dat deemools gegleeft huet",
+        "E Victoire iwwer en tyranneschen Herrscher"
+      ],
+      "answer": "Eng Réckkehr zu sengem Vollek, dat deemools gegleeft huet"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

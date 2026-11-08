@@ -1,0 +1,61 @@
+{
+  "title": "Birinchi turgan jon",
+  "intro": "Yer yuzida biron bir xabarchi yurishidan, biron bir Muqaddas Kitob nozil qilinishidan ancha oldin, boshqa hech kimga o'xshamaydigan mavjudot paydo bo'lgan. Bu ruh ilohiy qo'llar bilan shakllantirilgan, unga mislsiz go'zallik berilgan va butun insoniyat tarixida aks-sado beradigan tarzda sinovdan o'tgan. Keyin zaiflik, chin dildan tavba qilish va yaratilish yo'nalishini abadiy o'zgartiradigan taqdir haqidagi hikoya paydo bo'ldi. Bu kimligini taxmin qila olasizmi?",
+  "clues": [
+    "Men Rahmli Zotning qo'llari bilan yerning changidan shakllantirildim.",
+    "Menga mislsiz go'zallik uyi berildi, u yerda hech qanday ochlik va charchoq menga tegmas edi",
+    "Menga hech qachon bitta daraxtga yaqinlashmaslik buyurilgan edi, chunki bu taqiqlangan edi",
+    "Men va hamrohim aldanib, Rabbimizning amriga qarshi taqiqlangan daraxtga yaqinlashdik.",
+    "Biz chin dildan tavba qilib Rabbimizga qaytdik va gunohlarimiz kechirildi.",
+    "Bizdan butun insoniyat kelib chiqqan; Men bu yer yuzida yurgan birinchi odamman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Odam",
+        "Muso payg'ambar",
+        "Nuh payg'ambar",
+        "Yusuf payg'ambar",
+        "Payg'ambar Iso"
+      ],
+      "answer": "Payg'ambar Odam"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Taqiqlangan daraxt vasvasasi",
+        "Fir'avn bilan to'qnashuv",
+        "Buyuk kemani qurish",
+        "Sevimli o'g'lining qurbonligi",
+        "Katta olovga tashlanmoqda"
+      ],
+      "answer": "Taqiqlangan daraxt vasvasasi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Taqiqlangan daraxt",
+        "Yonayotgan buta",
+        "Oltin tayoq",
+        "Buyuk kema",
+        "Oltin buzoq"
+      ],
+      "answer": "Taqiqlangan daraxt"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Insoniyatning birinchi vasiysi sifatida yerga yuborilgan",
+        "Fir'avn va uning qo'shini dengizda cho'kib ketishdi",
+        "Buyuk to'fon yovuzlarni yo'q qildi",
+        "Olov salqin va tinch bo'lib qoldi",
+        "Misr qirolligi ustidan hokimiyat berildi"
+      ],
+      "answer": "Insoniyatning birinchi vasiysi sifatida yerga yuborilgan"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

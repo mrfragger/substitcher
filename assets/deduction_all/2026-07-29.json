@@ -1,0 +1,61 @@
+{
+  "title": "The Courtly Pursuit",
+  "intro": "In the corridors of power, a figure of high status became infatuated with a servant whose beauty was otherworldly. This infatuation led to a series of events that would test loyalties, reveal hidden truths, and ultimately affirm the servant's innocence.",
+  "clues": [
+    "I lived in the land of the Nile, in a palace of great influence.",
+    "A young man came into my household, and his presence unsettled my world.",
+    "I tried to seduce him, but he sought refuge in his Lord.",
+    "I tore his garment from behind, but the evidence pointed to my deceit.",
+    "To silence the gossip of the noblewomen, I invited them to a gathering and placed sharp objects in their hands.",
+    "In the end, I publicly confessed my fault, acknowledging the truth before the king."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "The Wife of Al-Aziz",
+        "Asiya (Wife of Pharaoh)",
+        "Bilqis (Queen of Sheba)",
+        "Maryam (Mother of Isa)",
+        "The Mother of Musa"
+      ],
+      "answer": "The Wife of Al-Aziz"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "She attempted to seduce Prophet Yusuf",
+        "She tried to kill Prophet Musa",
+        "She claimed to be a goddess",
+        "She built a tower to challenge Allah",
+        "She led an army against Makkah"
+      ],
+      "answer": "She attempted to seduce Prophet Yusuf"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A shirt torn from the back",
+        "A golden calf",
+        "A staff that turned into a serpent",
+        "A she-camel",
+        "A lamp"
+      ],
+      "answer": "A shirt torn from the back"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "She confessed and acknowledged the truth",
+        "She was drowned with her army",
+        "She turned into a pillar of salt",
+        "She was swallowed by the earth",
+        "She was destroyed by a screaming wind"
+      ],
+      "answer": "She confessed and acknowledged the truth"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

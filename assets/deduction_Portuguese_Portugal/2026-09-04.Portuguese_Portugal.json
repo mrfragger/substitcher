@@ -1,0 +1,61 @@
+{
+  "title": "A Melodia Que Moveu as Montanhas",
+  "intro": "Você está prestes a descobrir a história de um servo extraordinário de Alá. Em uma terra de mensageiros e governantes, essa figura foi abençoada com um livro divino, uma voz poderosa e força inabalável. Ao ler as pistas, você consegue identificar quem poderia ser?",
+  "clues": [
+    "Eu era um servo de Alá a quem foi concedido um livro especial.",
+    "Eu tinha uma voz linda, e meu louvor era tão amado que até as colinas e os pássaros se juntavam a mim.",
+    "Enfrentei um oponente formidável em uma batalha famosa e, apesar de ser menor, saí vitorioso.",
+    "O ferro tornou-se maleável para mim, permitindo-me fabricar armaduras com minhas próprias mãos.",
+    "Fui nomeado governante de uma grande nação, e minha sabedoria em julgamento era renomada.",
+    "Meu filho, também profeta, recebeu o controle sobre o vento e os gênios."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Dawud (Davi)",
+        "Profeta Sulaiman (Salomão)",
+        "Profeta Musa (Moisés)",
+        "Profeta Harun (Aarão)",
+        "Profeta Elias"
+      ],
+      "answer": "Profeta Dawud (Davi)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Derrotou Golias (Jalut)",
+        "Separou o mar",
+        "Sobreviveu à baleia",
+        "Foi atirado ao fogo",
+        "Construiu a Arca"
+      ],
+      "answer": "Derrotou Golias (Jalut)"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Zabur (Salmos)",
+        "A Torá (Tawrat)",
+        "O Evangelho (Injil)",
+        "Os Pergaminhos de Abraão",
+        "O Alcorão"
+      ],
+      "answer": "O Zabur (Salmos)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tornou-se profeta e rei de Israel.",
+        "Tornou-se governante do Egito.",
+        "Foi elevado aos céus",
+        "Foi destruído por uma tempestade.",
+        "Tornou-se um companheiro da caverna"
+      ],
+      "answer": "Tornou-se profeta e rei de Israel."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

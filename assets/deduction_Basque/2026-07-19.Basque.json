@@ -1,0 +1,61 @@
+{
+  "title": "Mendeetako Ahots Entzun Gabekoa",
+  "intro": "Hiri handiak sortu baino askoz lehenagoko garai batean, arima bakarti bat altxatu zen egiatik aldendu zen herri baten artean. Haien burugogorkeria belaunaldiz belaunaldi erregutu zuen deitzaile bakarti honen pazientziarekin bakarrik parekatu zen. Abisu guztiak entzungor erori zirenean, aurrekaririk gabeko kontu-emate batek lurra bera birmoldatu zuen. Gaur egun, istorio horren oihartzunak oraindik ere errezitazio guztietan zehar isurtzen dira. Identifika al dezakezu arima erabakigarri hau?",
+  "clues": [
+    "Idolo faltsuak gurtzen zituen eta inguruko seinaleak alde batera uzten zituen herri batean hazi nintzen, baina aukeratu egin ninduten haien axolagabekeriatik esnatzeko.",
+    "Behin eta berriz dei egin nien nire jendeari, baina haiek bezalako pertsona bat baino ez nintzela leporatu zidaten, nire mezua iseka eginez eta belarriak estaliz.",
+    "Gau eta egun, jakinduriaz eta oroigarri leunekin erregutu nien, baina nire hitzak airean desagertzen zirela zirudien, entzun gabe eta kontuan hartu gabe.",
+    "Jainkozko agindupean, egur eta oholez egindako ontzi erraldoi bat eraiki nuen lehorrean, eta nire jendeak barre egin zidan arrazoia galdu nuen norbait bezala.",
+    "Uholde handia agindu bezala iritsi zenean, nire semeak uko egin zion nirekin itsasontzira igotzeari, mendi batek uren igoeretatik babestuko zuela sinetsita.",
+    "Lurrean hasiera berri baten patriarka bihurtu nintzen, eta nire istorioa nire izena daraman Koranaren kapitulu batean gordeta dago."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Nuh profeta",
+        "Ibrahim profeta",
+        "Musa profeta",
+        "Lut profeta",
+        "Hud profeta"
+      ],
+      "answer": "Nuh profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Lurra birmoldatu zuen Uholde Handia",
+        "Idoloatrak su bizian botata izatea",
+        "Faraoiaren magoekin jauregian izandako liskarra",
+        "Lorategi oparoak zeruko ekaitz batek suntsitzea",
+        "Lubakietako biztanleen iraulketa"
+      ],
+      "answer": "Lurra birmoldatu zuen Uholde Handia"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Zurezko eta oholez eraikitako Arka",
+        "Antzinako oinarrien gainean eraikitako etxe sakratua",
+        "Suge bihurtu zen makila",
+        "Gazte lotien kobazuloa",
+        "Izaki ahaltsu batek eramandako tronua"
+      ],
+      "answer": "Zurezko eta oholez eraikitako Arka"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Sinesgabeak itota hil ziren, sinestunak ontzian salbatu ziren bitartean.",
+        "Sua baretu eta seguru bihurtu zen, eta deitzailea onik atera zen.",
+        "Magoak lurrera erori eta fedea besarkatu zuten",
+        "Lorategia bizilagun zuzenari eman zitzaion bere ordez",
+        "Lotiak mendeen ondoren esnatu ziren, eraldatuta"
+      ],
+      "answer": "Sinesgabeak itota hil ziren, sinestunak ontzian salbatu ziren bitartean."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

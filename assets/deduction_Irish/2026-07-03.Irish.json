@@ -1,0 +1,61 @@
+{
+  "title": "Teachtaire Peaca Gan Samhail",
+  "intro": "Nochtann roinnt scéalta sa Chorán doimhneacht an éillithe inar féidir le sochaí ar fad titim. Sheas an teachtaire seo ina aonar, ag achainí le pobal a bhí báite i gclaonadh nár lean aon náisiún roimhe riamh. In ainneoin blianta rabhaidh, d’fhan na croíthe cruaite, agus tháinig an foraithne dhiaga ar bhealach an-uafásach. An féidir leat an teachtaire uasal seo ó Allah a aithint?",
+  "clues": [
+    "Cuireadh mé mar rabhaidh chuig pobal a bhí gafa ag claonadh nár dhein aon náisiún rompu riamh.",
+    "Dúirt mo mhuintir gur bréagadóir mé agus bhagair siad mé féin agus mo lucht leanúna a dhíbirt as an tír.",
+    "Tháinig cuairteoirí onóracha chuig mo theach i bhfoirm fear óg a bhí ag stailc, agus mhothaigh mé anró mhór ar a sábháilteacht.",
+    "D'éiligh mo mhuintir orm mo chuairteoirí a thabhairt suas dóibh, gan a fhios acu gur aingil a sheol Allah na cuairteoirí seo.",
+    "Níor roinn mo chéile féin mo chreideamh agus roghnaigh sí fanacht i measc na ndaoine a raibh an milleán orthu.",
+    "Sábháladh mé féin agus mo iníonacha ag breacadh an lae, agus báisteach uafásach cloch ag titim agus ár gcathracha á mbunú bun os cionn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Lút",
+        "Fáidh Shu'aib",
+        "Fáidh Hud",
+        "Fáidh Nuh",
+        "Fáidh Salih"
+      ],
+      "answer": "Fáidh Lút"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Tuile mhór ag slogadh an domhain",
+        "Cailliúint radhairc de bharr fulaingt fhada",
+        "Tíoránach ag éileamh diaga",
+        "Á chaitheamh isteach i tine lasrach",
+        "Á éileamh orthu aíonna onóra a thabhairt suas"
+      ],
+      "answer": "Á éileamh orthu aíonna onóra a thabhairt suas"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Áirc mhór tógtha de láimh",
+        "Foireann a scoilt an fharraige",
+        "Camall baineann míorúilteach",
+        "Tine lasrach",
+        "Cathracha a cuireadh bun os cionn"
+      ],
+      "answer": "Cathracha a cuireadh bun os cionn"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Báthadh agus é ag tóraíocht na gcreidmheach",
+        "Sábháilte ó fhoirnéis tine gan díobháil",
+        "Tógtha suas chun na bhflaitheas beo",
+        "Cailleadh teaghlach i dtuilte móra",
+        "Teaghlach sábháilte seachas bean chéile neamhdhílis"
+      ],
+      "answer": "Teaghlach sábháilte seachas bean chéile neamhdhílis"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

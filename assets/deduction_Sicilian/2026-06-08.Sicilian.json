@@ -1,0 +1,61 @@
+{
+  "title": "Lu Suplicanti dû Santuariu",
+  "intro": "Nta l'uri tranquilli dâ notti, n'ànima divuta chiamava lu Misericordiusu rintra li mura santificati di nu postu sacru. Anni di fidi e pazzienza 'nflexibbili èrunu 'n gradu di èssiri ricumpinsati cu nu miraculu ca purtava gioia e n'eredità di prufizzìa.",
+  "clues": [
+    "Passava li jorna e li notti 'n divuzzioni nna nu santuariu, prigannu sempri ô me Signuri.",
+    "Addivintàu 'nvicchiatu e me mugghieri era sterili, ma non pirdìa mai la spiranza ntâ misericordia di Allah.",
+    "Mi dettiru nu figghiu, chiamatu Yahya, ca addivintò nu prufeta e nu faro dâ giustizzia.",
+    "Ero iu stissu nu prufeta, mannatu pi guidari li Figghi di Israeli.",
+    "Ero discinnenti dû prufeta Harun e sirvìa comu parrinu ntô Tempiu.",
+    "Mi affidaru la cura di Maryam, la matri di Isa, e vitti li sò miraculi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sugnu iu?",
+      "options": [
+        "Lu prufeta Zakaria",
+        "Lu prufeta Yahya",
+        "Prufeta Ilya",
+        "Lu prufeta Ishaq",
+        "Lu prufeta Ya'qub"
+      ],
+      "answer": "Lu prufeta Zakaria"
+    },
+    "trial": {
+      "label": "Pruva/Eventu",
+      "options": [
+        "Dotatu nu figghiu ntâ vecchiaia",
+        "Sarvatu di nu focu ardenti",
+        "Salvatu dâ panza di nu pisci",
+        "Supravvissutu a na granni allagamentu",
+        "Guaritu di na malatìa gravi"
+      ],
+      "answer": "Dotatu nu figghiu ntâ vecchiaia"
+    },
+    "location": {
+      "label": "Elementu chiavi",
+      "options": [
+        "Lu Mihrab (nicchia di prijera)",
+        "La Kaaba",
+        "Lu rusceddu ardenti",
+        "L'Arca di l'Alliànza",
+        "La Grutta di li Setti Durmituri"
+      ],
+      "answer": "Lu Mihrab (nicchia di prijera)"
+    },
+    "outcome": {
+      "label": "Risurtatu",
+      "options": [
+        "Cuncidutu un figghiu giustu ca addivintò prufeta",
+        "Distruggiutu di na viulenta timpesta",
+        "Annegatu ntô mari",
+        "Risparmiatu di èssiri abbruciatu",
+        "Riturnatu ô sò pòpulu doppu èssiri statu sarvatu di nu pisci"
+      ],
+      "answer": "Cuncidutu un figghiu giustu ca addivintò prufeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

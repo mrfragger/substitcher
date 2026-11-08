@@ -1,0 +1,61 @@
+{
+  "title": "Glas prikritega prepričanja",
+  "intro": "V osrčju tiranskega dvora, kjer je bila nevera zakon dežele, je osamljena duša hodila po tanki vrvi vere in strahu. Ta posameznik, blizu središča moči, je poslušal prerokovo sporočilo, ki je bilo sprejeto s prezirom in grožnjami. Prišel je trenutek resnice in to osebo prisilil, da se odloči med tiho varnostjo in izrekanjem nevarne resnice. Ali lahko odkrijete identiteto tega pogumnega zagovornika?",
+  "clues": [
+    "Živel sem v gospodinjstvu tirana in bil na lastne oči priča aroganci, ki je zavračala božanska znamenja.",
+    "Svojo vero sem skrival, kot skriti zaklad v palači malikovanja.",
+    "Slišal sem voditelja, ki sem mu služil, da načrtuje umor Alahovega poslanca, moža po imenu Musa.",
+    "Podvomil sem v njihovo logiko in jih spomnil na usodo ljudstva Nuha, Ada in Semuda.",
+    "Svojemu ljudstvu sem postavil kritično vprašanje: 'Če je lažnivec, je njegova laž nad njim; če pa je resnicoljuben, vas bo nekaj od tega, kar obljublja, zadelo.'",
+    "Moja zgodba je kot primer vere pripovedovana v suri z naslovom 'Odpuščajoči', kjer sem svoje ljudstvo svaril pred spletkami mogočnih."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Vernik iz Faraonove družine",
+        "Haman",
+        "Faraonovi čarovniki",
+        "Karun",
+        "Samiri"
+      ],
+      "answer": "Vernik iz Faraonove družine"
+    },
+    "trial": {
+      "label": "Kakšna je bila moja preizkušnja?",
+      "options": [
+        "Branil preroka Musa na tiraninem dvoru",
+        "Gradnja visokega stolpa, ki bo dosegel nebesa",
+        "Biti vržen v plameneči ogenj",
+        "Biti pogoltnjen s strani orjaške ribe",
+        "Izguba vsega bogastva in zdravja"
+      ],
+      "answer": "Branil preroka Musa na tiraninem dvoru"
+    },
+    "location": {
+      "label": "Kaj je bila tema mojega argumenta?",
+      "options": [
+        "Posledice zavrnitve prerokovega sporočila",
+        "Zahteva po znamenju s svetega drevesa",
+        "Ustvarjanje teleta iz staljenega nakita",
+        "Čudež kamele iz skale",
+        "Razlaga vladarjevih sanj"
+      ],
+      "answer": "Posledice zavrnitve prerokovega sporočila"
+    },
+    "outcome": {
+      "label": "Kakšen je bil izid?",
+      "options": [
+        "Alah je rešil to osebo pred njihovo zlobno zaroto",
+        "Celotno dvorišče je takoj sprejelo islam",
+        "Tiran se je pokesal v trenutku utapljanja",
+        "Tirana je pogoltnila zemlja",
+        "Posameznik je bil izgnan v daljno deželo"
+      ],
+      "answer": "Alah je to osebo rešil pred njihovo zlobno zaroto"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

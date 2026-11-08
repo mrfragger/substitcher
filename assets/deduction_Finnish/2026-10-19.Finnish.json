@@ -1,0 +1,61 @@
+{
+  "title": "Taivaan hylkiö",
+  "intro": "Luomisen ja hylkäämisen risteyksessä seisoo salaperäinen olento. Heidän tarinansa on vertaansa vailla olevan ylimielisyyden ja jumalallisen käskyn äärimmäisen uhmakkuuden tarina. Heidän valintansa kaikuu läpi sukupolven ja siitä tulee testi jokaiselle tähän maailmaan syntyneelle sielulle. Voitko tunnistaa tämän ikuisen vastustajan?",
+  "clues": [
+    "Olin läsnä kosmisen merkityksen omaavassa tapahtumassa, kun uusi olento muovattiin savesta ja Armollisen henkäys antoi sille elämän.",
+    "Minut itse luotiin yhdestä liekehtivästä elementistä, toisin kuin tuo tomua oleva.",
+    "Minulle annettiin käsky, jonka katsoin olevan asemaani alentava.",
+    "Ylpeys paisui sisälläni, ja kieltäydyin jyrkästi tottelemasta käskyä.",
+    "Minulle annettiin lykkäys määrättyyn päivään asti, jotta voisin jatkaa ilmoitettua tarkoitustani johtaa muita harhaan.",
+    "Olen kaikkien maan päällä vaeltajien julistama vihollinen, kuiskaten petoksia ja houkutellen heidät pois suoralta polulta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Iblis (Saatana)",
+        "Faarao (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Saatana)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kieltäytyi kumartamasta Aadamin edessä",
+        "Väitti jumalallisuutta väärin perustein",
+        "Taottu kultainen vasikka palvontaa varten",
+        "Tappoi veljensä kateudesta",
+        "Johti polyteististä oppositiota Mekassa"
+      ],
+      "answer": "Kieltäytyi kumartamasta Aadamin edessä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Paratiisi (Jannah)",
+        "Faaraon palatsi Egyptissä",
+        "Tuwan pyhä laakso",
+        "Meren syvyydet",
+        "Saban puutarha"
+      ],
+      "answer": "Paratiisi (Jannah)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Armoa tuomiopäivään asti myönnetty",
+        "Hukkui armeijan kanssa mereen",
+        "Maan nielaisema aarteiden mukana",
+        "Muuttuivat apinoiksi sapatin rikkomisesta",
+        "Taivaasta sinkoutuneiden kivien polttama"
+      ],
+      "answer": "Armoa tuomiopäivään asti myönnetty"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

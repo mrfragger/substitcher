@@ -1,0 +1,61 @@
+{
+  "title": "Mwenzake Aliyegeuka",
+  "intro": "Uko karibu kufichua hadithi ya nafsi iliyoishi katika kivuli cha unabii lakini ikachagua njia iliyoelekea kwenye uharibifu. Mtu huyu aliishi pamoja na mmoja wa wajumbe waliochaguliwa na Mwenyezi Mungu lakini akashindwa mtihani wa imani. Je, huyu rafiki aliyepotea ni nani?",
+  "clues": [
+    "Niliishi miongoni mwa watu waliokataa wito wa haki, na sikuwapinga.",
+    "Nilikuwa nimeolewa na nabii wa Mwenyezi Mungu, lakini sikuwa na imani kama hiyo.",
+    "Wajumbe walipokuja nyumbani kwangu na onyo, sikuwaamini.",
+    "Mke wangu aliamriwa kuondoka mjini pamoja na waumini, nami sikuwa miongoni mwao.",
+    "Adhabu iliwashukia watu wangu, nami nikaangamizwa pamoja nao.",
+    "Nimetajwa katika Quran kama mfano wa ukafiri, pamoja na mke wa Nuh, katika Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mke wa Nabii Nuh",
+        "Mke wa Nabii Lut",
+        "Mke wa Nabii Ibrahim",
+        "Mke wa Nabii Musa",
+        "Mke wa Mtume Ayyub"
+      ],
+      "answer": "Mke wa Nabii Lut"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alimsaliti mumewe kwa kutoamini",
+        "Alikataa ujumbe wa Nabii Hud",
+        "Sanamu zilizoabudiwa hadharani katika Kaaba",
+        "Alipanga njama dhidi ya dhamira ya mumewe",
+        "Alikataa kukubali unabii wa mwanawe"
+      ],
+      "answer": "Alimsaliti mumewe kwa kutoamini"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mji wa Sodoma",
+        "Mji wa Madyan",
+        "Mji wa Iram",
+        "Mji wa Babeli",
+        "Mji wa Yerusalemu"
+      ],
+      "answer": "Mji wa Sodoma"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aliokolewa na mumewe",
+        "Kuangamizwa pamoja na makafiri",
+        "Kuhamishwa hadi nchi ya mbali",
+        "Alitubu na akasamehewa",
+        "Akawa mwamini baadaye"
+      ],
+      "answer": "Kuangamizwa pamoja na makafiri"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

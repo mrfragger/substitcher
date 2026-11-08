@@ -1,0 +1,61 @@
+{
+  "title": "Čežnja u svetoj odaji",
+  "intro": "Uđete u tiho svetište i vidite odanog Allahovog slugu kako stoji u molitvi. Njihove ruke su podignute, pogled im uzdignut, a srce nosi čežnju koja traje cijeli život. Ko je ta strpljiva duša čije povjerenje u Allaha nikada nije posustalo?",
+  "clues": [
+    "Proveo sam duge godine u bogosluženju i molitvi, svjedočeći čudima koja su ojačala moju vjeru.",
+    "Dobio sam odgovornost da se brinem o blagoslovljenoj mladoj duši u svetištu.",
+    "Kako sam stario, moja najveća tuga je bila što nisam imao djece, jer mi je žena bila neplodna, a oboje smo bili u poodmakloj dobi.",
+    "Molio sam se svom Gospodaru za nasljednika iz moje vlastite porodice, nekoga ko će nastaviti naslijeđe poslanstva.",
+    "Dok sam stajao u molitvenoj niši, meleci su me pozvali govoreći: 'Allah ti donosi radosne vijesti', i obuzeo me je strah i strahopoštovanje.",
+    "Rečeno mi je da ću imati sina po imenu Yahya, ime koje nikome prije nije dato, i kao znak da neću razgovarati s ljudima tri dana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Zakarija",
+        "Poslanik Jahja",
+        "Poslanik Isa",
+        "Poslanik Davud",
+        "Lukman Mudri"
+      ],
+      "answer": "Poslanik Zakarija"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Neplodnost i starost dok žudi za pravednim nasljednikom",
+        "Biti bačen u plamteću vatru",
+        "Biti progutan od strane velike ribe",
+        "Gubitak kraljevstva od tiranina",
+        "Biti prognan iz domovine"
+      ],
+      "answer": "Neplodnost i starost dok žudi za pravednim nasljednikom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Molitvena niša (mihrab)",
+        "Veliki brod (Ark)",
+        "Gorući grm",
+        "Štap koji se pretvorio u zmiju",
+        "Allahova kamila"
+      ],
+      "answer": "Molitvena niša (mihrab)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Darovan pravedni sin i ponovo progovorio nakon tri dana šutnje",
+        "Uništen poplavom zbog nevjerovanja",
+        "S obzirom na ogromno kraljevstvo i kontrolu nad vjetrom",
+        "Izvučeno iz riblje utrobe",
+        "Progutala zemlja"
+      ],
+      "answer": "Darovan pravedni sin i ponovo progovorio nakon tri dana šutnje"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Hindi Natitinag na Pasyente",
+  "intro": "Sa mga talaan ng kasaysayan ng mga propeta, kakaunti lamang ang nakaranas ng ganitong matinding pagkawala at pisikal na paghihirap nang may di-natitinag na pananampalataya. Ang kuwento ng pigurang ito ay isang walang-kupas na aral sa pagtitiis at pagtitiwala sa banal na karunungan. Sino ang kaluluwang ito?",
+  "clues": [
+    "Pinili ako ng Allah upang maghatid ng mensahe, ngunit ang pinakamalaking pagsubok sa akin ay hindi dumating sa pamamagitan ng pagtanggi, kundi sa pamamagitan ng personal na kalamidad.",
+    "Ang aking kayamanan, ang aking mga alagang hayop, at ang aking mga anak ay isa-isang kinuha sa akin.",
+    "Punong-puno ng mga sugat ang katawan ko, at naiwan akong mag-isa maliban sa suporta ng aking asawa.",
+    "Sumigaw ako sa aking Panginoon, kinikilala ang aking pagdurusa at hinihingi ang Kanyang awa.",
+    "Inutusan akong ihampas ang lupa gamit ang aking paa, at isang nakakapreskong bukal ang bumukal.",
+    "Ibinalik ni Allah ang aking kalusugan at binigyan ako ng bagong pamilya at mas maraming kayamanan kaysa dati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Ayyub",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Isa",
+        "Propeta Noah"
+      ],
+      "answer": "Propeta Ayyub"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagkawala ng kayamanan at pamilya",
+        "Itinapon sa apoy",
+        "Nilunok ng isda",
+        "Nahiwalay sa pamilya at ipinagbili sa pagkaalipin",
+        "Sinusubukan gamit ang isang ginintuang guya"
+      ],
+      "answer": "Pagkawala ng kayamanan at pamilya"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang bukal ng tubig",
+        "Isang tungkod na naging ahas",
+        "Isang kaban na gawa sa kahoy",
+        "Isang tinunaw na guya",
+        "Isang puno ng palma"
+      ],
+      "answer": "Isang bukal ng tubig"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pagpapanumbalik ng pamilya at kayamanan",
+        "Pag-akyat sa langit",
+        "Pagiging hari",
+        "Naligtas mula sa isang balyena",
+        "Pagtanggap ng anak na lalaki sa katandaan"
+      ],
+      "answer": "Pagpapanumbalik ng pamilya at kayamanan"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Id-Detentur ta’ Disa’ Sinjali",
+  "intro": "Figura telgħet mill-aktar bidu umli, b'destin miktub fir-rieda divina. Moħbija fit-tfulija u mrobbija fi ħdan il-ħitan tal-istess ħakkiem li fittex li jeqred lin-nies tagħhom, din ir-ruħ eventwalment ġiet imsejħa għal missjoni qawwija. Mgħammra b'xejn ħlief fidi u bastun umli ta' ragħaj, huma qagħdu quddiem l-aktar ħakkiem qawwi ta' dak iż-żmien u talbu l-libertà għal dawk li kienu lsiera. Id-dinja nnifisha dehret li tiċċaqlaq għall-kmand tagħhom - l-ilmijiet infetħu, is-smewwiet tkellmu, u saltna waqgħet.",
+  "clues": [
+    "L-ewwel jiem tiegħi kienu mmarkati mill-biża’ — trabi bħali kienu jiġu kkaċċjati mat-twelid minn ħakkiem bla ħniena li kien jibża’ mill-futur.",
+    "Ġejt salvat mill-ilma u trabbejt fil-palazz tal-istess ħakkiem li fittex il-qerda tiegħi.",
+    "Ħrabt minn art twelidi wara inċident f'daqqa, u sirt ragħaj umli f'art imbiegħda.",
+    "Jiena rġajt lura biex nikkonfronta lil dak il-ħakkiem setgħan b'bastun sempliċi u messaġġ ċar, fejn nitlob il-libertà tal-poplu tiegħi.",
+    "Fetqt ilma kbir għal dawk li segwewni, u rajt kif dawk l-ilmijiet belgħu l-għadu tiegħi kollu kemm hu.",
+    "Tlajt fuq muntanja sagra biex nirċievi gwida divina mingħand Alla, u ngħatajt disa' sinjali ċari bħala prova tal-verità."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Profeta Lut"
+      ],
+      "answer": "Il-Profeta Musa"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Jikkonfronta lill-Fargħun fil-qorti tiegħu",
+        "Il-bini tal-Arka biex tibqa’ ħajja wara dilluvju kbir",
+        "Mitfugħ f’nar jaħraq minn dawk li jagħmlu l-idoli",
+        "Niżżel f'bir fond minn ħuti",
+        "Nipprova nwaqqaf lin-nies tiegħi minn imġieba immorali"
+      ],
+      "answer": "Jikkonfronta lill-Fargħun fil-qorti tiegħu"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-Bastun li nbidel f’serp",
+        "L-Arka ta’ Nuh",
+        "It-Tron ta' Bilqis",
+        "Iċ-Ċirku li kkontrolla r-riħ u l-ġinn",
+        "Ċwievet għal teżori maħżuna daqshekk tqal"
+      ],
+      "answer": "Il-Bastun li nbidel f’serp"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Mexxejt lin-nies tiegħi minn fuq ilmijiet mifruda lejn il-libertà",
+        "Ġie salvat minn għargħar kbir ġewwa Arka",
+        "Irkupra għas-saħħa u għall-familja wara tbatija kbira",
+        "Tkeċċa ħaj minn ħuta kbira",
+        "Bnew il-pedamenti tad-Dar Sagra"
+      ],
+      "answer": "Mexxejt lin-nies tiegħi minn fuq ilmijiet mifruda lejn il-libertà"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

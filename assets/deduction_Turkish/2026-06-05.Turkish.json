@@ -1,0 +1,61 @@
+{
+  "title": "Mütevazı Hakikat Arayanlar",
+  "intro": "Kadim güç ve büyünün hüküm sürdüğü bir diyarda büyük bir çatışma yaşanıyor. Bir taraf ilahi işaretlerin otoritesini kullanırken, diğer taraf imkansızı başarmaya çalışıyor. Sonuç, tarihin seyrini sonsuza dek değiştirecek. Nihai gerçeğe tanık olan ve onun karşısında boyun eğenlerin kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Büyücülüğün sınırlarını aşan işaretlere şahit olduk.",
+    "Hepimiz yere kapandık, gerçeği inkar edemedik.",
+    "Bu işaretlerin Tek Gerçek Tanrı'dan geldiğini anladık.",
+    "İnancı böylesine çarpıcı bir şekilde benimseyen ilk topluluk bizdik.",
+    "İnancımızın karşılığı olarak bize cennet vaat edilmişti.",
+    "İplerimiz ve sopalarımız gözlerimizin önünde yılanlara dönüştü, yine de teslim olmayı seçtik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Firavunun sihirbazları",
+        "Hz. İbrahim'in halkı",
+        "Alçakgönüllü hakikat arayıcıları",
+        "Mağara Halkı",
+        "Kraliçe Bilqis'in ülkesi"
+      ],
+      "answer": "Firavunun sihirbazları"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Hz. Musa'nın asasıyla karşılaşma",
+        "Peygamber Hud'un rüzgarının imtihanı",
+        "Peygamber Salih'in dişi devesinden gelen meydan okuma",
+        "Peygamberin üzerine gönderilen büyük tufan",
+        "Bir peygamberin balinanın içindeki yolculuğu"
+      ],
+      "answer": "Hz. Musa'nın asasıyla karşılaşma"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Antik Mısır",
+        "Mekke'deki kutsal ev.",
+        "Midyan şehri",
+        "Thamud Çölü",
+        "Antik uyuyanların mağarası"
+      ],
+      "answer": "Antik Mısır"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Cennet onların ödülü olarak",
+        "Mezarda ceza",
+        "Bereketli bahçelerinin kaybı",
+        "Ani bir depremin yol açtığı yıkım",
+        "Büyük balinadan kurtarma"
+      ],
+      "answer": "Cennet onların ödülü olarak"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

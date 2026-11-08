@@ -1,0 +1,61 @@
+{
+  "title": "Pengadilan Api Suci",
+  "intro": "Di tanah kuno tempat pemujaan batu pahat telah berakar di setiap rumah, ada satu individu yang menonjol. Melalui keyakinan yang teguh dan perlindungan ilahi, mereka menghadapi apa yang seharusnya menjadi kematian yang pasti — dan lolos tanpa cedera. Dapatkah Anda mengungkap identitas jiwa yang luar biasa ini?",
+  "clues": [
+    "Saya dibesarkan di antara orang-orang yang menyembah berhala yang mereka ukir dengan tangan mereka sendiri, karena percaya bahwa benda-benda itu memiliki kekuatan ilahi.",
+    "Ketika saya mempertanyakan keyakinan mereka, awalnya mereka mengabaikan saya, tetapi saya tidak bisa tetap diam tentang kebenaran yang saya ketahui.",
+    "Pada hari ketika mereka dikumpulkan, Aku menghancurkan berhala-berhala mereka, hanya menyisakan yang terbesar saja.",
+    "Ketika mereka kembali dan melihat apa yang telah kulakukan, para pemimpin mereka memerintahkan agar tumpukan kayu bakar besar dibangun, dengan maksud untuk melemparkanku ke dalam api tersebut.",
+    "Mereka melemparkan aku ke dalam api yang berkobar, tetapi Tuhan semesta alam memerintahkan agar api itu menjadi dingin dan aman bagiku.",
+    "Aku keluar dari kobaran api tanpa terluka sedikit pun, sementara mereka yang bersekongkol melawanku menghadapi kehancuran total."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Ibrahim",
+        "Nabi Musa",
+        "Nabi Nuh",
+        "Nabi Isa",
+        "Nabi Yusuf"
+      ],
+      "answer": "Nabi Ibrahim"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Dilemparkan ke dalam api yang menyala-nyala",
+        "Ditelan oleh paus besar",
+        "Bertahan hidup dari banjir besar",
+        "Dilempar ke dalam sumur yang dalam",
+        "Menghadapi para penyihir raja"
+      ],
+      "answer": "Dilemparkan ke dalam api yang menyala-nyala"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Tumpukan kayu bakar yang sangat besar",
+        "Sebuah bahtera kayu besar",
+        "Patung anak sapi emas",
+        "Sebuah keranjang terapung di sungai",
+        "Sebuah singgasana yang megah"
+      ],
+      "answer": "Tumpukan kayu bakar yang sangat besar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Allah menjadikan api itu sejuk dan aman.",
+        "Bahtera itu mendarat dengan selamat di sebuah gunung.",
+        "Patung emas itu meleleh di depan mata mereka.",
+        "Seorang tiran dan pasukannya tenggelam di laut.",
+        "Penglihatan seorang pria buta telah dipulihkan."
+      ],
+      "answer": "Allah menjadikan api itu sejuk dan aman."
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

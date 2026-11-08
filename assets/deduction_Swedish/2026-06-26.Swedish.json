@@ -1,0 +1,61 @@
+{
+  "title": "Bördan av en vägrad gåva",
+  "intro": "I mänsklighetens gryning, när jorden fortfarande var ung och världen höll sitt första andetag, stod en själ inför Skaparen med en ödmjuk offergåva. Den offergåvan vägdes upp på en vågskål av gudomlig acceptans – och befanns för lätt. Det som följde var inte en berättelse om förlåtelse, utan om ett hjärta som förtärdes av svartsjuka, vilket ledde till en oåterkallelig handling som skulle eka genom all tid. Detta är berättelsen om en vars namn blev synonymt med den första allvarliga orättvisan som någonsin begåtts.",
+  "clues": [
+    "Jag kom till som ett av de allra första barnen som någonsin föddes, född av en förälder vars historia du känner väl.",
+    "Jag frambar en gång ett offer till Allah, men det accepterades inte från mig – även om mina syskons offer mottogs med nåd.",
+    "Avund och raseri slog rot i mitt hjärta, och jag hotade att ta livet av mina egna släktingar.",
+    "Min syskon varnade mig för att frukta Allah, men min stolthet lät mig inte lyssna.",
+    "I ett ögonblick av fruktansvärd svaghet utförde jag en outsäglig handling mot min egen bror.",
+    "Efteråt visste jag inte ens hur jag skulle dölja vad jag hade gjort – förrän en jordisk varelse sändes för att undervisa mig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Profeten Nuhs son",
+        "Profeten Ismael",
+        "Profeten Yusuf"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att offra ett offer som avvisades, vilket ledde till det första mordet",
+        "Bygga ett högt torn för att nå himlen",
+        "Att kastas in i en rasande eld för sin tro",
+        "Att offra sin egen son i lydnad mot Allah",
+        "Att bli uppslukad av en stor fisk för att man flyr sin plikt"
+      ],
+      "answer": "Att offra ett offer som avvisades, vilket ledde till det första mordet"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En kråka sänd av Allah för att demonstrera begravning",
+        "En stor översvämning som dränkte ett helt folk",
+        "En stav som förvandlades till en levande orm",
+        "En honkamel som kom upp ur ett berg av klippor",
+        "En magnifik tron ​​buren av mäktiga vindar"
+      ],
+      "answer": "En kråka sänd av Allah för att demonstrera begravning"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev av de ångerfulla, tyngd av det första brottet som någonsin begåtts",
+        "Blev förlåten av Allah och beviljad ett evigt paradis",
+        "Blev upphöjd till en hög ställning av profetia och visdom",
+        "Räddades av gudomlig barmhärtighet efter att ha kallat ut ur mörkrets djup",
+        "Fick herravälde över djinnerna, vinden och haven"
+      ],
+      "answer": "Blev av de ångerfulla, tyngd av det första brottet som någonsin begåtts"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

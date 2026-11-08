@@ -1,0 +1,61 @@
+{
+  "title": "Vwa Silansye Vale a",
+  "intro": "Retounen nan tan lontan, nan yon pèp puisan ki te resevwa yon mèvèy vivan kòm yon eprèv. Arogan ak tèt di te sele sò yo. Èske ou ka remonte istwa a epi dekouvri sa ki te dewoule nan moman enpòtan sa a?",
+  "clues": [
+    "Yo te voye m kòm yon eprèv diven pou yon pèp pwisan ki konnen pou fòs ak defi yo.",
+    "Mwen te yon mèvèy inik—pa t janm gen yon moun tankou mwen ki te parèt pami yo.",
+    "Mwen te pataje dlo pou bwè nan yon pi ak pèp mwen an chak jou altènatif.",
+    "Yo te avèti yo ke nenpòt mal ki ta fèt kont mwen t ap pote pinisyon rapid.",
+    "Moun ki pi brav yo pami yo te inyore avètisman an epi yo te mete yon fren nan vant mwen.",
+    "Apre lanmò mwen, yon sèl rèl loraj ki soti anwo te detwi tout pèp mwen an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Chamo Salih la",
+        "Bèf Musa a",
+        "Bato Nou a",
+        "Baton Musa a",
+        "Twòn Bilqis la"
+      ],
+      "answer": "Chamo Salih la"
+    },
+    "trial": {
+      "label": "Destine mwen",
+      "options": [
+        "Yo te gen pwoblèm ak janm yo epi yo te touye yo.",
+        "Touye kòm yon sakrifis",
+        "Transfòme an sèpan",
+        "Prezève pandan yon gwo inondasyon",
+        "Pote byen vit atravè yon wayòm"
+      ],
+      "answer": "Yo te gen pwoblèm ak janm yo epi yo te touye yo."
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon pi dlo",
+        "Yon tablèt wòch",
+        "Yon ti touf bwa ​​k ap boule",
+        "Yon bwat an bwa",
+        "Yon twòn an lò ak an ajan"
+      ],
+      "answer": "Yon pi dlo"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Detwi pa yon sèl rèl",
+        "Nwaye nan yon gwo inondasyon",
+        "Boule pa yon lapli wòch",
+        "Kraze pa yon gwo van",
+        "Latè vale l"
+      ],
+      "answer": "Detwi pa yon sèl rèl"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

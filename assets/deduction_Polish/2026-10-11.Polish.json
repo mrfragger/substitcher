@@ -1,0 +1,61 @@
+{
+  "title": "Głos w starożytnych piaskach",
+  "intro": "Wśród najwcześniejszych posłańców Allaha był ktoś, którego imię pojawia się w Koranie krótko, lecz znacząco. Żył on na długo przed posłaniem wielu wielkich proroków i słynął z niezachwianej prawdomówności i cierpliwości. Jego historia jest krótka, ale dziedzictwo przetrwało w wiecznym zapisie. Kim jest ta szlachetna dusza?",
+  "clues": [
+    "Jestem jednym z pierwszych posłańców, o którym Koran wspomina krótko, lecz znacząco.",
+    "Mój charakter został określony przez niezachwiane oddanie prawdzie.",
+    "Zostałem wymieniony w Księdze Allaha wśród tych, którzy byli wytrwali i cierpliwi.",
+    "Moją historię opowiada zaledwie kilka krótkich wersetów w Koranie.",
+    "Bóg uhonorował mnie w sposób, który jest wyłącznie mój, a nie wspólny dla wszystkich proroków.",
+    "Zostałem wyniesiony na wysoką pozycję, co jest wyjątkowym zaszczytem w Koranie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Idris",
+        "Prorok Ilyas",
+        "Dhul-Kifl",
+        "Prorok Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Prorok Idris"
+    },
+    "trial": {
+      "label": "Decydujący moment",
+      "options": [
+        "Zostałem wyniesiony na wysoką pozycję przez Allaha",
+        "Zbudowałem wielką arkę, aby ocalić mój lud",
+        "Wyzwałem czarowników Faraona",
+        "Moi bracia wrzucili mnie do dołu",
+        "Straciłem wzrok z żalu po synu"
+      ],
+      "answer": "Zostałem wyniesiony na wysoką pozycję przez Allaha"
+    },
+    "location": {
+      "label": "Święte odniesienie",
+      "options": [
+        "Sura Al-Anbija",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Surah Ash-Shu'ara",
+        "Sura Jasin"
+      ],
+      "answer": "Sura Al-Anbija"
+    },
+    "outcome": {
+      "label": "Boska cześć",
+      "options": [
+        "Wysoka stacja, inna niż wszystkie",
+        "Panowanie nad dżinami i wiatrami",
+        "Królestwo o niezrównanej chwale",
+        "Dziedzic mojej starości",
+        "Przymierze zawarte z Allahem"
+      ],
+      "answer": "Wysoka stacja, inna niż wszystkie"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

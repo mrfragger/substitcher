@@ -1,0 +1,61 @@
+{
+  "title": "Umidsizlikni rad etgan ovoz",
+  "intro": "Yo'qotish ortidan yo'qotishlar kelayotgan, ammo bitta xotirjam ovoz umidsizlikni rad etadigan oilaga qadam qo'ying. Qur'ondagi bitta chaqiriq sabrni burilish nuqtasiga aylantiradi; bu ovoz ortidagi odamga qanday iz qoldirganini bilib olasizmi?",
+  "clues": [
+    "Men ne'matlar falokat bilan sinovdan o'tgan xonadonda sabr ovozi edim.",
+    "Men boylik va bolalarni yo'qotish tufayli bo'sh qolgan xonadonda qoldim.",
+    "Men kasallik o'sha hamrohga ham yuqqanini bilardim, uning tanasi azob chekayotgan edi.",
+    "Qiyinchilik kuchayganida, men Allohni eslatib, duo qildim.",
+    "Men bitta bayonot berdim: Alloh haqdir, shuning uchun sabrli bo'ling.",
+    "Men Ayyubni ismini aytib chaqirdim; shundan keyin Alloh baloni ketkazdi va oilani qayta tikladi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ayyubning xotini",
+        "Nuh payg'ambarning xotini",
+        "Ibrohim payg'ambarning xotini",
+        "Ya'qub payg'ambarning xotini",
+        "Fir'avnning qizi"
+      ],
+      "answer": "Payg'ambar Ayyubning xotini"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ayyub bilan yo'qotish va kasallik paytida birga bo'lish, keyin sabr-toqat so'rash",
+        "Solih payg'ambarni buzuq jamoani tark etish haqida ogohlantirish",
+        "Kelajakdagi nasl tug'ilishi uchun ibodat qilish",
+        "Qirollik qamoqxonasida tushlarni talqin qilish",
+        "Daryo bo'yida ishonchli bolani topish"
+      ],
+      "answer": "Ayyub bilan yo'qotish va kasallik paytida birga bo'lish, keyin sabr-toqat so'rash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Allohning Haq ekanligi va sabr-toqat talab qilinadi, degan e'lon",
+        "Buloq yonidagi palma daraxti",
+        "To'lqinlardan uzoqda kema qurish chaqirig'i",
+        "O'n bir yulduz va ko'tarilayotgan quyosh haqidagi tush",
+        "Nil bo'ylab olib ketilgan savat"
+      ],
+      "answer": "Allohning Haq ekanligi va sabr-toqat talab qilinadi, degan e'lon"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ayyubning azob-uqubatlari bartaraf etildi va oilasi tiklandi.",
+        "Uzoq kutilgan bola bepusht ibodatdan keyin berildi",
+        "Yosh hukmdor yetti yillik mo'l-ko'lchilik va qashshoqlikni talqin qildi",
+        "Ishonchli bola oqayotgan suvdan qutqarildi",
+        "Vayronkor suv toshqini oldidan ogohlantirish berildi"
+      ],
+      "answer": "Ayyubning azob-uqubatlari bartaraf etildi va oilasi tiklandi."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

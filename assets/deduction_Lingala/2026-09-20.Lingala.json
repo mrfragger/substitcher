@@ -1,0 +1,61 @@
+{
+  "title": "Mondimi oyo alati voile na Cour ya Tyrant",
+  "intro": "Na kati ya bandako ya wolo ya mokonzi ya lolendo mingi oyo ayebani na Coran — epai wapi koboya ya Bonzambe elimbolaki mobeko nyonso —molimo moko etambolaki kati na bato ya libaku malamu, kobombaka basekele ya likama mingi na miso ya polele. Moto yango amemaki kondima oyo epekisamaki mpenza na kati ya bifelo wana na boye ete soki bakokuta yango ekolimbola liwa ya solosolo. Nzokande bondimi ezikaki lokola mɔ́tɔ na nse ya mputulu, mpe ntango ngonga yango ekómaki, bosolo eyokanaki na mpiko oyo eningisaki moboko mpenza ya ndako ya mokonzi ya mobulu.",
+  "clues": [
+    "Nazalaki kofanda kati na cercle ya kati ya mokonzi oyo aleki nguya mpe ya lolendo ya ntango na ngai, nazingami na biloko ya kitoko mpe na bopusi.",
+    "Nabombaki bindimeli na ngai ya solo na mozindo ya motema na ngai, na kobanga mpo na bomoi na ngai epai ya baoyo bazalaki koyangela na motema mabe mpe na minyoko.",
+    "Ntango bato na ngai bazalaki na ntembe mpe koningana liboso ya bosolo, nakendeki liboso mpo na kokebisa bango na ntina ya nsuka ya mawa oyo ekómelaki bikólo ya kala oyo baboyaki bamemi-nsango ya Nkolo na bango.",
+    "Nakundwelaki bato na ngai lisolo ya elenge moko ya bolingo oyo azalaki kolɔta ndɔtɔ oyo abwakama na nse na bandeko na ye moko nzokande atombolaki na bokonzi monene na mboka moko ya mosika.",
+    "Nasengaki bato na ngai ete bátosa mokonzi oyo akambaki bango nzela te, na esika na yango kobengisa bango bálanda ngai na nzela ya boyengebene mpe ya bokambi.",
+    "Nalobaki solo polele atako balandi ya mobulu yango bazalaki kobangisa ngai ete bakobatela ngai mabanga to bakobengana ngai na mboka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mondimi oyo abombami uta na Libota ya Falo",
+        "Patriarche Paciente Oyo Alelaki Aveugle Ti Muana Na Ye Azongi",
+        "Mosaleli moko ya sembo oyo nsukansuka maladi ya loposo na ye ebikisamaki",
+        "Mwana moko ya masumu oyo aboyaki libyangi ya Profeta mpo na komata na Sanduku",
+        "Tyrant moko ya motema mawa te oyo azalaki ko réclamer bonzambe mpo na bango moko"
+      ],
+      "answer": "Mondimi oyo abombami uta na Libota ya Falo"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobomba kondima na ndako ya mokonzi ya mobulu",
+        "Konyokwama na bokufi miso mpo na bambula ya kolela",
+        "Komekama na kobungisa libota mpe mpasi makasi",
+        "Kotonga masuwa monene wana bazali kotyola bango",
+        "Koyika mpiko na molunge makasi ya mɔ́tɔ monene"
+      ],
+      "answer": "Kobomba kondima na ndako ya mokonzi ya mobulu"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ndako ya mokonzi ya Farao",
+        "Nsɔngɛ ya ngomba epai bazalaki kotonga masuwa",
+        "Lobwaku moko mosantu na nse ya Ngomba Sinai",
+        "Elanga moko kitoko oyo ezali na bibale mibale oyo ezali kosopana",
+        "Kiti ya bokonzi ya kristale likoló ya ebale moko oyo ezali na nse ya mabele"
+      ],
+      "answer": "Ndako ya mokonzi ya Farao"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bobateli ya bonzambe ntango banyokoli bakutanaki na libebi na bango",
+        "Akutanaki lisusu na libota nsima ya bambula mingi ya kokabwana",
+        "Bapesaki ye motema molai, azongisaki kolɔngɔnɔ ya nzoto, mpe libota monene",
+        "Abikisamaki na masuwa ntango mokili mobimba ezindaki",
+        "Abikisamaki kozanga kozoka na milinga ya mɔ́tɔ na etinda ya Allah"
+      ],
+      "answer": "Bobateli ya bonzambe ntango banyokoli bakutanaki na libebi na bango"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

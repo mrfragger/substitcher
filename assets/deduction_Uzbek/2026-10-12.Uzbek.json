@@ -1,0 +1,61 @@
+{
+  "title": "Tug'ilmaganlarning qasamyodi",
+  "intro": "Samimiy qalb farzand tug'ilishidan oldin muqaddas va'da bergan edi. Bu shaxsning hikoyasi sadoqat ilohiy qabul bilan uchrashadigan muqaddas joy devorlari ichida rivojlanadi. Bu Allohning bandasi kim?",
+  "clues": [
+    "Men Qur'onda ulug'langan oilaga mansub edim.",
+    "Men tug'ilmagan farzandimni Allohga xizmat qilishga bag'ishlashga tantanali qasamyod qildim.",
+    "Tug'ganimda, o'g'il ko'rishni kutgan bo'lsam ham, qiz bo'lganini bilib hayron bo'ldim.",
+    "Men farzandimga Maryam deb ism qo'ydim, bu ism sadoqat va xizmatni aks ettiradi.",
+    "Men Allohdan farzandim va uning avlodlari uchun la'nati shaytondan himoya so'radim.",
+    "Farzandim Parvardigor tomonidan qabul qilindi va muqaddas joyda Zakariyo payg'ambarning qaramog'iga topshirildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Imronning xotini (Maryamning onasi)",
+        "Osiyo, Fir'avnning xotini",
+        "Iso alayhissalomning onasi Maryam",
+        "Muso payg'ambarning onasi",
+        "Sheba malikasi"
+      ],
+      "answer": "Imronning xotini (Maryamning onasi)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Farzandini ma'badga bag'ishlashga qasam ichmoqda",
+        "Olovga tashlanmoqda",
+        "Dengizni quruqlikda kesib o'tish",
+        "Buyuk kema qurish",
+        "Katta baliq tomonidan yutib yuborilmoqda"
+      ],
+      "answer": "Farzandini ma'badga bag'ishlashga qasam ichmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Farzandi qo'yilgan muqaddas joy (mihrab)",
+        "Ahd sandig'i",
+        "Oltin buzoq",
+        "Ilonga aylangan tayoq",
+        "U dam olgan xurmo daraxti"
+      ],
+      "answer": "Farzandi qo'yilgan muqaddas joy (mihrab)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Uning bolasi qabul qilindi va Zakariyo payg'ambarning qaramog'iga topshirildi.",
+        "U zolimning jazosidan qutqarildi",
+        "Unga Yahyo ismli o'g'il berildi",
+        "Uning xalqi bo'ron tufayli vayron bo'ldi",
+        "U buyuk qirollik ustidan malika bo'ldi"
+      ],
+      "answer": "Uning bolasi qabul qilindi va Zakariyo payg'ambarning qaramog'iga topshirildi."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

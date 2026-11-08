@@ -1,0 +1,61 @@
+{
+  "title": "Þorpið við strendur réttarhaldanna",
+  "intro": "Þú ert staddur í strandþorpi þar sem ölduhljóð blandast við hvísl gleymds fólks. Þeim var gefin hvíldarskipun en græðgi þeirra leiddi til refsingar sem enn er talað um í lágum rómi. Geturðu uppgötvað hverjir þeir voru?",
+  "clues": [
+    "Við bjuggum við ströndina og fengum fyrirmæli um að halda hvíldardag.",
+    "Þann dag kom fiskur til okkar í gnægð, en okkur var bannað að veiða hann.",
+    "Sumir okkar vöruðu við brotum, en aðrir lögðu á ráðin um að veiða samt sem áður.",
+    "Við brutum hið heilaga boðorð og urðum sjálfum okkur refsað harkalega.",
+    "Refsing okkar var umbreyting sem afmyndaði okkur og gerði okkur skömm.",
+    "Við vorum breytt í apa, tákn fyrir alla sem á eftir kæmu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólk hvíldardagsins",
+        "Fólkið í Thamud",
+        "Fólkið í 'Ad",
+        "Fólkið í hellinum",
+        "Fólkið í fílnum"
+      ],
+      "answer": "Fólk hvíldardagsins"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Veiði á hvíldardegi",
+        "Að tilbiðja gullkálf",
+        "Að afneita boðskap Húd",
+        "Að drepa úlfaldann",
+        "Að byggja turn til himins"
+      ],
+      "answer": "Veiði á hvíldardegi"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Fiskurinn",
+        "Úlfaldakven",
+        "Starfsfólk",
+        "Bátur",
+        "Garður"
+      ],
+      "answer": "Fiskurinn"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Breyttust í apa",
+        "Eyðilagður af flóði",
+        "Eyðilagðist af logandi eldi",
+        "Gleypt af jörðinni",
+        "Dreifð af vindi"
+      ],
+      "answer": "Breyttust í apa"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

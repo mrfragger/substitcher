@@ -1,0 +1,61 @@
+{
+  "title": "Odmev z roba mesta",
+  "intro": "V mestu, ki se je obrnilo stran od božanskega vodstva, se je iz obrobja pojavila osamljena postava, ki je hitela s sporočilom upanja in opozorila. Ta pozabljena duša je postala večni simbol neomajne vere.",
+  "clues": [
+    "Bil sem priča, kako so v moje mesto poslali sle, toda moji ljudje so jih zavrgli kot navadne ljudi.",
+    "Verjel sem njihovemu sporočilu in čutil, kako resnica odmeva v mojem bitju.",
+    "Pozval sem svoje ljudstvo, naj uboga poslance, ki niso zahtevali nagrade.",
+    "Stekel sem z najbolj oddaljenega konca mesta in jih nujno poskušal prepričati, da so se razumili.",
+    "Moje ljudstvo se je dvignilo proti meni in bil sem ubit, a našel sem večni mir.",
+    "Alah mi je rekel: 'Vstopi v raj,' in želel sem si, da bi moje ljudstvo lahko videlo čast, ki mi je bila izkazana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Vernik Ya-Sina",
+        "Uzair Spraševalec",
+        "Vodnik Al-Khidr",
+        "Vernik faraonove družine",
+        "Namrud tiran"
+      ],
+      "answer": "Vernik Ya-Sina"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Soočenje z nevernim ljudstvom, ki ga je ubilo",
+        "Biti vržen v plameneči ogenj",
+        "Biti pogoltnjen s strani velike ribe",
+        "Gradnja ogromne barke",
+        "Beg pred tiranovo vojsko"
+      ],
+      "answer": "Soočenje z nevernim ljudstvom, ki ga je ubilo"
+    },
+    "location": {
+      "label": "Ključna lokacija",
+      "options": [
+        "Najbolj oddaljen konec mesta",
+        "Gora Tur",
+        "Dolina mravelj",
+        "Bregovi Nila",
+        "Jama v jami"
+      ],
+      "answer": "Najbolj oddaljen konec mesta"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Mučeništvo in takojšen vstop v raj",
+        "Pobeg in odrešitev",
+        "Vzpon v nebesa",
+        "Utapljanje v morju",
+        "Spremeni se v kamen"
+      ],
+      "answer": "Mučeništvo in takojšen vstop v raj"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

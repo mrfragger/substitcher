@@ -1,0 +1,61 @@
+{
+  "title": "Ylevien pilarien rakentajat",
+  "intro": "Seisot majesteettisen muinaisen kaupungin raunioiden edessä, sen korkeat pilarit ovat sortuneet. Tuuli ulvoo tyhjillä kaduilla kantaen muistoa mahtavasta kansasta, joka aikoinaan hallitsi näitä maita. Keitä he olivat?",
+  "clues": [
+    "Olimme valtavan vahva ja taitava kansa, joka tunnettiin suurista rakennuksistamme ja edistyneestä sivilisaatiostamme.",
+    "Elimme hiekkadyynien ja kallioisten kukkuloiden maassa, emmekä uskoneet kenenkään voittavan meitä.",
+    "Sukulaissuvumme joukosta tuli meille sanansaattaja, joka kutsui meitä palvomaan yksin Allahia, mutta me torjuimme hänet ja pilkkasimme häntä.",
+    "Me kerskailimme: \"Kuka on meitä väkevämpi?\" ja jatkoimme ylimielisyyttämme ja epäjumalien palvontaa.",
+    "Allah lähetti meille raivoisan tuulen, joka puhalsi seitsemän yötä ja kahdeksan päivää ja tuhosi kaiken.",
+    "Me olimme Aadin kansa, Iramin rakentajat, ja kohtalostamme tuli varoitus kaikille heidän jälkeläisilleen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "'Ad:n ihmiset",
+        "Thamudin kansa",
+        "Madyanin kansa",
+        "Tubban kansa",
+        "Al-Rassin kansa"
+      ],
+      "answer": "'Ad:n ihmiset"
+    },
+    "trial": {
+      "label": "Mikä rangaistus heille langetettiin?",
+      "options": [
+        "Tuhoisa tuuli",
+        "Kivien suihku",
+        "Kova räjähdys",
+        "Hukkuminen tulvaan",
+        "Maan nielaisema"
+      ],
+      "answer": "Tuhoisa tuuli"
+    },
+    "location": {
+      "label": "Mikä on heidän legendaarisen kaupunkinsa nimi?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midian",
+        "Baabel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Mikä oli heidän lopullinen kohtalonsa?",
+      "options": [
+        "Ne tuhottiin ja niiden jäännöksistä tuli opetus",
+        "He katuivat ja pelastuivat",
+        "Ne muuttuivat apinoiksi",
+        "He hukkuivat mereen",
+        "Heidät hautautuivat maanvyörymän alle"
+      ],
+      "answer": "Ne tuhottiin ja niiden jäännöksistä tuli opetus"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

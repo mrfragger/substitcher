@@ -1,0 +1,60 @@
+{
+  "title": "Teret bogatstva",
+  "intro": "Stojite pred pričom o golemom bogatstvu, životu ukrašenom zlatom i moći, ali u konačnici i opominjućoj lekciji za sve koji traže svjetovnu raskoš. Možete li otkriti identitet ove osobe čija priča odjekuje kroz vrijeme, svjedočanstvo prolaznosti svjetovnih posjeda?",
+  "clues": [
+    "Bio sam iz naroda velikog Poslanika, ali sam odabrao put arogancije i ugnjetavanja.",
+    "Allah mi je podario ogromno bogatstvo, toliko da su ključevi mojih blaga bili težak teret za snažnu skupinu ljudi.",
+    "Moj narod mi je savjetovao da se ne hvalim svojim bogatstvom, podsjećajući me da Allah ne voli one koji se hvale.",
+    "Arogantno sam tvrdio da je moje ogromno bogatstvo rezultat mog vlastitog znanja i truda, a ne blagoslova od Allaha.",
+    "Bio sam upozoren na korupciju i podsjećen da tražim ahiret onim što mi je Allah dao, ali sam odbio poslušati i nastavio sam u svom ponosu.",
+    "Na kraju je Allah učinio da zemlja proguta mene i moj dom, ne ostavljajući me bez pomagača protiv Njegove odredbe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "faraon",
+        "Haman",
+        "Karun",
+        "Ebu Lehab",
+        "Namrud"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Cijepanje mora",
+        "Nimrodova vatra",
+        "Poplava",
+        "Gutanje od strane zemlje",
+        "Pošast skakavaca"
+      ],
+      "answer": "Gutanje od strane zemlje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Zlatno tele",
+        "Blago/Ključevi",
+        "Zemzamov bunar"
+      ],
+      "answer": "Blago/Ključevi"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dodijeljeno kraljevstvo",
+        "Spašen od uništenja",
+        "Progutala zemlja",
+        "Postao je prorok",
+        "Umro mirno"
+      ],
+      "answer": "Progutala zemlja"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

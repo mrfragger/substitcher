@@ -1,0 +1,61 @@
+{
+  "title": "Az árok lelkei",
+  "intro": "Visszautazol egy olyan korba, amikor egy könyörtelen uralkodó a hamis istenségek iránti teljes odaadást követelte. Egy odaadó lelkekből álló kis közösség ezt megtagadta, és olyan súlyos büntetéssel kellett szembenéznie, hogy örökre átkozottá vált. Történetük a Koránban is visszaköszön, mint a rendíthetetlen hit bizonyítéka. Be tudod azonosítani ezt a rendíthetetlen csoportot?",
+  "clues": [
+    "Egy olyan országban éltünk, ahol egy olyan uralkodó zsarnoksága uralkodott, aki hamis istenségek imádatát követelte.",
+    "Közösségünk súlyos üldöztetéssel nézett szembe, kizárólag azért, mert hittünk Allahban.",
+    "Az uralkodó elrendelte, hogy ássanak egy nagy árkot, és heves lángokkal égessék el.",
+    "Mivel nem voltunk hajlandóak megtagadni a hitünket, egyenként vetettek minket abba a lángoló gödörbe",
+    "Történetünk a Korán részévé vált, és akik üldöztek minket, örök átokra sújtottak.",
+    "A megpróbáltatásainkat feljegyző szúra az ég nagy jeleiről kapta a nevét."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Az árok társai (Asab al-Ukhdud)",
+        "A barlang népe (Asab al-Kahf)",
+        "A szombat népe",
+        "A'ad népe",
+        "Thamud népe"
+      ],
+      "answer": "Az árok társai (Asab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "A mi próbatételünk",
+      "options": [
+        "Élve elégetve egy tüzes gödörben",
+        "Sok éven át barlangba zárva lenni",
+        "Horgászat a szent pihenőnapon",
+        "Egy süvöltő szél pusztítja el",
+        "Egy szent nőstény teve megölése"
+      ],
+      "answer": "Élve elégetve egy tüzes gödörben"
+    },
+    "location": {
+      "label": "A kulcselem",
+      "options": [
+        "Egy lángoló tűzárok",
+        "Egy rejtett barlang egy hűséges kutyával",
+        "Egy ősi, halálra ítélt város magas oszlopai",
+        "Kőszirtekbe vájt hegyi lakások",
+        "Egy nyílt síkság, melyet heves szelek söpörnek végig"
+      ],
+      "answer": "Egy lángoló tűzárok"
+    },
+    "outcome": {
+      "label": "Eredményünk",
+      "options": [
+        "Mártírhalált haltunk, az üldözők pedig örök átokkal sújtottak minket",
+        "309 év alvás után felébredtünk",
+        "Majmokká változtunk a vétkeink miatt",
+        "Egy hatalmas, süvöltő szél pusztított el mindannyiunkat",
+        "Egyetlen pusztító sikoly rombolta szét létünket"
+      ],
+      "answer": "Mártírhalált haltunk, az üldözők pedig örök átokkal sújtottak minket"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

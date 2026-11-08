@@ -1,0 +1,61 @@
+{
+  "title": "D'Gelübde vum Ongebuerene",
+  "intro": "Eng oprecht Séil huet e hellegt Versprieche virun der Gebuert vun engem Kand gemaach. D'Geschicht vun dëser Figur spillt sech bannent de Mauere vun engem Hellegtum of, wou Andacht op göttlech Akzeptanz trëfft. Wien ass dësen Dénger vun Allah?",
+  "clues": [
+    "Ech hunn zu enger Famill gehéiert, déi am Koran geéiert gëtt.",
+    "Ech hunn e feierlecht Gelübde gemaach, mäin ongebuer Kand dem Déngscht vun Allah ze widmen.",
+    "Wéi ech gebuer hunn, war ech iwwerrascht festzestellen, datt et eng Duechter war, obwuel ech e Jong erwaart hat.",
+    "Ech hunn mäi Kand Maryam genannt, en Numm, deen Hingabe a Service reflektéiert.",
+    "Ech hunn Allahs Schutz fir mäi Kand an hir Nokommen virum verfluchten Satan gesicht.",
+    "Mäi Kand gouf vum Här ugeholl a gouf ënner d'Ofwiesenheet vum Prophet Zakariya am Hellegtum gestallt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Fra vum Imran (Mamm vun der Maryam)",
+        "Asiya, Fra vum Pharao",
+        "Maryam, Mamm vum Isa",
+        "D'Mamm vum Prophet Musa",
+        "D'Kinnigin vu Scheba"
+      ],
+      "answer": "D'Fra vum Imran (Mamm vun der Maryam)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Verspriechen, hiert Kand dem Tempel ze widmen",
+        "An e Feier gehäit ginn",
+        "Iwwer d'Mier op dréchenem Land kräizen",
+        "Eng grouss Ark bauen",
+        "Vun engem grousse Fësch verschléckt ginn"
+      ],
+      "answer": "Verspriechen, hiert Kand dem Tempel ze widmen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Den Hellegtum (Mihrab) wou hiert Kand placéiert gouf",
+        "D'Ark vum Bund",
+        "Dat gëllent Kalb",
+        "De Personal, deen sech an eng Schlaang verwandelt huet",
+        "D'Dattelpalm, ënner där si gerout huet"
+      ],
+      "answer": "Den Hellegtum (Mihrab) wou hiert Kand placéiert gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hiert Kand gouf ugeholl an ënner d'Ofwiesenheet vum Prophet Zakariya gestallt",
+        "Si gouf virun der Strof vun engem Tyrann gerett",
+        "Si krut e Jong mam Numm Yahya",
+        "Hir Leit goufen duerch e Stuerm zerstéiert",
+        "Si gouf Kinnigin iwwer e grousst Kinnekräich"
+      ],
+      "answer": "Hiert Kand gouf ugeholl an ënner d'Ofwiesenheet vum Prophet Zakariya gestallt"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

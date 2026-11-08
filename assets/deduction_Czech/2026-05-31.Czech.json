@@ -1,0 +1,61 @@
+{
+  "title": "Zahynulí svědkové",
+  "intro": "V dávné minulosti žila jedna komunita na křižovatce mezi říšemi. Jejich prorok je volal po cestě pravdy, ale oni se drželi nevíry a útlaku. Tento příběh končí božským trestem. Dokážete identifikovat tento národ a jeho osud z níže uvedených vodítek?",
+  "clues": [
+    "Lid odmítl varování, které přinesl jeden z jejich vlastních poslů.",
+    "Posel nás vyzýval k uctívání pouze Alláha a varoval před zkažeností.",
+    "Naším přestupkem bylo odmítnutí proroka, který byl mezi nás vyslán se spravedlností.",
+    "Pochybovali jsme o autoritě posla a obvinili jsme ho z podvodu.",
+    "Trest nás stihl, když jsme bezpečně bydleli ve svých domovech.",
+    "Byli jsme zničeni za to, že jsme popírali našeho proroka a pronásledovali věřící."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Šuajb",
+        "Ibrahim",
+        "Lut",
+        "Né",
+        "Músa"
+      ],
+      "answer": "Šuajb"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Přijetí proroka, který volal ke spravedlnosti",
+        "Zkouška hladomorem",
+        "Nechat si vyložit sen",
+        "Přijetí Tóry",
+        "Cestování po moři"
+      ],
+      "answer": "Přijetí proroka, který volal ke spravedlnosti"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Midjánský",
+        "Babylon",
+        "Sodoma",
+        "Rudé moře",
+        "Archa"
+      ],
+      "answer": "Midjánský"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Lidé byli zničeni pro nevíru",
+        "Lidé činili pokání a byli vedeni",
+        "Lidé vstoupili do ráje",
+        "Lidé přežili a prosperovali",
+        "Lidé se stěhovali do nové země"
+      ],
+      "answer": "Lidé byli zničeni pro nevíru"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

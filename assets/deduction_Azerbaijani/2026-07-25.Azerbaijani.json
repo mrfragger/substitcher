@@ -1,0 +1,61 @@
+{
+  "title": "İki Bağçanın Sakinləri",
+  "intro": "Nemətlərin bol olduğu bir diyarda bir icma bir vaxtlar iki möhtəşəm bağın bolluğundan zövq alırdı. Onların həyatı ilahi lütfün sübutu idi, lakin minnətdarlıq azaldıqda hekayələri dəyişdi və bu, düşünən hər kəs üçün qalıcı bir əlamətə çevriləcək bir dəyişikliyə səbəb oldu.",
+  "clues": [
+    "Biz rahatlıq və bolluq diyarına malik bir xalq idik.",
+    "Rəbbimiz bizə hər tərəfi bol və bərəkətli iki gözəl bağ bəxş etdi.",
+    "Bizə şükür etmək əmr olunmuşdu, amma biz nankorluğu seçdik və üz döndərdik.",
+    "Torpağımıza həyat verən suların qarşısını böyük bir bənd tutmuşdu.",
+    "Biz səhvlərimizdə israr edəndə bənd partladı və daşqın suları onun içinə girdi.",
+    "Bir vaxtlar bol olan bağlarımızın yerini acı meyvələr, yulğunlar və bir neçə nilufər ağacı tutdu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Səba xalqı",
+        "Səmud xalqı",
+        "Mədyən xalqı",
+        "Mağara Əhli",
+        "Fil xalqı"
+      ],
+      "answer": "Səba xalqı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Yeddi gecə şiddətli bir külək",
+        "Göydən daş yağışı",
+        "Bəndin partlamasından dağıdıcı sel",
+        "Göydən uca bir qışqırıq",
+        "Dənizdə boğulmaq"
+      ],
+      "answer": "Bəndin partlamasından dağıdıcı sel"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Məribin böyük bəndi",
+        "Vadi əl-Qura vadisi",
+        "İrəm bağı",
+        "Zəmzəm quyusu",
+        "Sina dağı"
+      ],
+      "answer": "Məribin böyük bəndi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bağlarımız acı meyvələr və seyrək ağaclarla əvəz olundu",
+        "Zəlzələdə yer üzünə udulduq",
+        "Biz meymunlara və donuzlara çevrildik",
+        "Biz böyük bir daşqında boğulduq",
+        "Biz daş yağışı ilə məhv olduq"
+      ],
+      "answer": "Bağlarımız acı meyvələr və seyrək ağaclarla əvəz olundu"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

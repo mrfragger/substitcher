@@ -1,0 +1,61 @@
+{
+  "title": "Pacijent Jedan",
+  "intro": "Davno, u najranijim danima ljudske historije, dvije duše su stale pred svog Stvoritelja s prinosima. Jedna je prihvaćena, druga nije. Ono što je uslijedilo postala je prva velika tragedija između braće i sestara - jedan čin strpljivog suzdržavanja i jedan čin gorke osvete. Možete li otkriti ko sam ja?",
+  "clues": [
+    "Rođen sam u prvim danima ljudskog postojanja na Zemlji",
+    "Bio sam dijete prvog para ljudi koji su ikada hodali ovom zemljom.",
+    "Jednom sam prinio žrtvu od najboljih članova svog stada da udovoljim svom Stvoritelju.",
+    "Moja ponuda je prihvaćena odozgo, dok je ponuda mog brata ili sestre odbijena.",
+    "Kada su mi prijetili smrću, odlučio/la sam da ne dižem ruku na svog brata/sestru.",
+    "Postao sam prva osoba u cijeloj ljudskoj historiji koju je nepravedno ubio drugi čovjek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Habil (Abel), sin Adamov",
+        "Kabil (Kain), sin Adamov",
+        "Adam, prvi čovjek",
+        "Nuh (Noa)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), sin Adamov"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Prvo ubistvo u ljudskoj historiji",
+        "Velika poplava Nuha",
+        "Uništenje Faraonove vojske",
+        "Žrtvovanje Ismaila od strane Ibrahima",
+        "Bitka protiv Jaluta (Golijata)"
+      ],
+      "answer": "Prvo ubistvo u ljudskoj historiji"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ovca prinesena kao ugodna žrtva",
+        "Velika drvena arka",
+        "Štap koji se pretvorio u zmiju",
+        "Ptica pupavac koja nosi kraljevsku poruku",
+        "Plamteći vatreni rov"
+      ],
+      "answer": "Ovca prinesena kao ugodna žrtva"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postao je prva žrtva ubistva u ljudskoj historiji",
+        "Preživio veliku poplavu unutar drvenog broda",
+        "Živio je u utrobi velike ribe",
+        "Vladao je džinima, ljudima i vjetrom",
+        "Lutao je četrdeset godina po prostranoj divljini"
+      ],
+      "answer": "Postao je prva žrtva ubistva u ljudskoj historiji"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

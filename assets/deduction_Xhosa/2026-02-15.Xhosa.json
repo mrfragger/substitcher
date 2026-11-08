@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi Lokuqina",
+  "intro": "Lo mntu ukhunjulwa ngobulumko obunzulu kunye nesikhokelo, enika icebiso elingaphaya kwezizukulwana. Amazwi abo angqina ukuzinikela kunye nokubaluleka kokuqaphela iintsikelelo kunye nezilingo ezivela kuThixo. Tyhila ubuwena balo mphefumlo uhlonitshwayo.",
+  "clues": [
+    "Bendingengomprofeti, kodwa ubulumko bam abunakufa kwiZibhalo eziNgcwele.",
+    "Icebiso lam kumntwana wam ligxininise ekubuleleni uAllah nasekuphepheni i-shirk.",
+    "Ndifundise ngokubaluleka komthandazo, ukuyalela okulungileyo, nokuthintela ububi.",
+    "Ndilumkisile ngokuzikhukhumeza nokuhamba ngendelelo emhlabeni.",
+    "Igama lam linikwe isahluko esipheleleyo kwiQuran, sigxininisa iimfundiso zam.",
+    "Icebiso lam laliquka umonde xa kunzima, kuba ngokwenene, oko kuvela kwezona zinto zibalulekileyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uIdris",
+        "Umprofeti uYahya",
+        "uLuqman",
+        "Imran",
+        "Umprofeti uHud"
+      ],
+      "answer": "uLuqman"
+    },
+    "trial": {
+      "label": "Ukufundisa/Isikhokelo Esiphambili",
+      "options": [
+        "Ukwakha umkhombe",
+        "Ukujongana nomkhosi onamandla",
+        "Ukunika ubulumko neengcebiso zokuziphatha",
+        "Ukutolika amaphupha",
+        "Ukukhokela isizwe ukuya empumelelweni"
+      ],
+      "answer": "Ukunika ubulumko neengcebiso zokuziphatha"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isihlahla esitshayo",
+        "Intlanzi enkulu",
+        "Intaba ethile",
+        "Icebiso lobulumko kwinzala",
+        "Ibhotwe elikhulu"
+      ],
+      "answer": "Icebiso lobulumko kwinzala"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waba ngukumkani",
+        "Wanikwa umprofeti",
+        "Ubulumko bakhe bubhalwe kwiQuran",
+        "Wakhokela abantu bakhe kwilizwe elitsha",
+        "Wanikwa ubutyebi obukhulu"
+      ],
+      "answer": "Ubulumko bakhe bubhalwe kwiQuran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

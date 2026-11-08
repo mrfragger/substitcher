@@ -1,0 +1,61 @@
+{
+  "title": "La Velhada dels Enlucats",
+  "intro": "Sètz a mand de rescontrar una anma testada per la separacion mai prigonda, que sos uèlhs coneissián lo lengatge de las lagremas mas que son còr perdèt pas jamai l'espèr. Dins una istòria d'engana, d'anhel, e de reünion eventuala, aquel nòble servicial d'Allah venguèt un simbòl de paciéncia per totes los tempses. Qual suportèt las annadas de dolor amagada, sonque per aver la vista e la jòia restablidas en un sol moment?",
+  "clues": [
+    "Soi un profèta que son nom venguèt un simbòl de paciéncia fàcia a una granda pèrda.",
+    "Foguèri benesit de fòrça filhs, mas un me foguèt pres per la gelosia dels autres.",
+    "Mon amor per aquel perdut èra tan prigond que mos uèlhs venguèron blancs de pena, pasmens me planhiái pas jamai levat a Allah.",
+    "Tornèri mandar mos filhs per cercar aquel qu'aviái perdut e son fraire, en los incitant a daissar pas l'espèr.",
+    "Quand lo portaire de bonas novèlas arribèt, una camisa foguèt botada sus ma cara, e subte lo mond venguèt clar de nòu.",
+    "Soi conegut coma Israèl, e de mos dotze filhs venguèron las dotze tribús d'una granda nacion."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Yaqub (Jacob)",
+        "Lo profèta Yusuf (Josèp)",
+        "Lo profèta Isaac (Isaac)",
+        "Profèta Ibrahim (Abraham)",
+        "Profèta Ayub (Jòb)"
+      ],
+      "answer": "Profèta Yaqub (Jacob)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Separacion d'un filh aimat dempuèi fòrça ans",
+        "Èsser getat dins un fuòc ardent",
+        "Engolit per un grand peis",
+        "Afligit d'una malautiá de la pèl grèva",
+        "Èsser sens enfants fins a la vielhesa"
+      ],
+      "answer": "Separacion d'un filh aimat dempuèi fòrça ans"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La camisa de Yusuf",
+        "Lo personal de Musa",
+        "L'arca de Nuh",
+        "La camèla de Salih",
+        "L'anèl de Sulayman"
+      ],
+      "answer": "La camisa de Yusuf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La vista restablida e reünida amb son filh",
+        "Victòria concedida sus un rei tiran",
+        "Levat als cèls vius",
+        "Nomenat governant sus Egipte",
+        "Donat un filh dins la vielhesa coma un miracle"
+      ],
+      "answer": "La vista restablida e reünida amb son filh"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

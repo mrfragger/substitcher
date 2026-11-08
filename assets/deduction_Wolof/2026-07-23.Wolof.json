@@ -1,0 +1,61 @@
+{
+  "title": "Armée bi ñu daje ak ban buy naaw",
+  "intro": "Bi Mohamed di jiitu, amoon na benn njiit bu am doole bu bawoo Yemen, mu amal benn xeex ngir yàq barab bu sell bi ci Makkah. Noon boobu dafa jiitewoon larme bu mag bu fees dell ak ñay xare, wóolu seen doole ak limu nit ñi. Waaye, seen tukki dafa jekki rek jeex ndax dañu daje ak luñu xamul woon ci Yàlla. Ndax mën nga xam kan moo jànkoonte ak lim bu yéeme boobu?",
+  "clues": [
+    "Nu doxantu ak larme bu mag ak ñay yu am doole jubal ci kër gu sell gi",
+    "Nu ngi fasoon yéene dindi ak yàq barabu jaamu Yàlla bu jaamu Yàlla Mu tedd mi tabaxoon.",
+    "Ñu yónnee nu mbooloo mu picc yu ndaw, yor ay xeer yu ñu defaree ban ci seeni baat ak seeni weñ.",
+    "Ñu daje ak bruit bu nu sànni xeer, nu soppi nu nekk ay des yuñ tëj",
+    "Man maa ngi bawoo ci réewum Yemen, nekkoon ci ndigalu njiit lu doon fexe barab bu sell bi",
+    "Nu def nu royukaay ci ñi bëgga desafío barab bu sell bu Yàlla"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Armée de Abraha al-Ashram",
+        "Soldaari Ethiopie",
+        "Perse yiy daaneel",
+        "Legion yu Rome",
+        "Bedouin yi"
+      ],
+      "answer": "Armée de Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Siege ab forteres bu desert",
+        "dugg ci barab bu sell bi ci Makkah",
+        "Xeex gaal ci géej",
+        "Fippu ci buur buy jaay doole",
+        "Seetug yonent bu réer"
+      ],
+      "answer": "dugg ci barab bu sell bi ci Makkah"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Vallé de Mina ci wetu Makkah",
+        "Palais bu Sana'a ci Yemen",
+        "Tund yu Tihama",
+        "Dëkk bu yàgg ba Yerusalem",
+        "Tefesu Géeju Xorom"
+      ],
+      "answer": "Vallé de Mina ci wetu Makkah"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ndam ak yàqu-yàqu kër gu sell gi",
+        "Defet bu picc yi yor xeer yu ban",
+        "Jox sa bopp ci jàmm ak tuub",
+        "Xiif ak musiba gañcax",
+        "Dellu ginaaw ndax taw yu metti"
+      ],
+      "answer": "Defet ci picc yi yor xeer yu ban"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

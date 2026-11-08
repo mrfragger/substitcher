@@ -1,0 +1,61 @@
+{
+  "title": "Oduu Gammachiisaa Dulluma Keessatti",
+  "intro": "Yeroo abdiin itti deebi'ee itti boba'u dhugaa ba'aa jirta. Hiriyoonni gaaʼelaa, umriin warra taʼuu yeroo dheeraadhaaf darbe, waadaa seera uumamaa cabsu argatu. Isaan gidduutti fakkiin jiraachuun isaa mallattoo araara Waaqayyoo ta’e tokko dhaabbatee jira-lubbuu raajii ta’uuf murtaa’e, hambaa dhaloota dheeraa baattee deemtu. Namni dhuunfaa dinqisiisaa kun eenyu?",
+  "clues": [
+    "Warra dulluma ga’anii fi ijoollee hin qabne irraan dhaladhe.",
+    "Dhaloota koo kan beeksisan ergamoota maatii kootti keessummaa ta’anii dhufaniin.",
+    "Ogummaa fi raajii naaf kenname, obsa keessaas nan caqafama.",
+    "Abbaan kiyya michuu Rabbii jedhama, ani immoo waggoota boodaa isaaf kennaa ture.",
+    "Obboleessa tokkon qaba ture innis raajii ture, lamaan keenyayyuu Gooftaa keenyaan eebbifamne.",
+    "Ilmi koos raajii waan tureef, sanyii kootiif macaafa qulqulluu fi raajii ta’uun kennameefii ture."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Ishaaq (Isihaaq) .",
+        "Nabi Ismaa'eel (Ismaa'el) .",
+        "Nabi Yaaqub (Yaaqoob) .",
+        "Nabi Yahya (Yohaannis) .",
+        "Nabi Uzaayir (Izraa) ."
+      ],
+      "answer": "Nabi Ishaaq (Isihaaq) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Warra maanguddoota irraa dhalate",
+        "Ibiddatti darbatame",
+        "Mootummaa fi qabeenya kennameef",
+        "Saba isaa Gibxii keessaa baase",
+        "Amantoota fayyisuuf markaba ijaare"
+      ],
+      "answer": "Warra maanguddoota irraa dhalate"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Oduu gammachiisaa ilma tokkoo",
+        "Bosona gubaa jiru",
+        "Re'ee warqee",
+        "Taabota kakuu",
+        "Ulee raajii"
+      ],
+      "answer": "Oduu gammachiisaa ilma tokkoo"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Raajii hidda dhaloota raajotaa qabu ta'e",
+        "Mootii sooressaa ta'e",
+        "Ummanni isaa kufriif badeera",
+        "Ibidda jalaa baraare",
+        "Daa'imummaa isaatti dandeettiin dubbachuu isaaf kenname"
+      ],
+      "answer": "Raajii hidda dhaloota raajotaa qabu ta'e"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

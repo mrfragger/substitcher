@@ -1,0 +1,61 @@
+{
+  "title": "Le Héraut du Grand Déluge",
+  "intro": "Cet individu a été un pilier de persévérance pendant des siècles, appelant une société rebelle à la lumière de la vérité malgré les moqueries et le rejet. Malgré l'adversité et le poids d'un message qui traversait les générations, ce serviteur est resté fidèle à sa mission jusqu'au décret final.",
+  "clues": [
+    "J'ai passé neuf cent cinquante ans à appeler mon peuple sur le chemin de la droiture, jour et nuit, en secret et en public.",
+    "J'avais averti mon peuple d'un châtiment douloureux, et pourtant ils se sont bouchés les oreilles et se sont couverts de leurs vêtements avec arrogance.",
+    "Il m'a été ordonné de construire quelque chose de colossal sous le regard attentif de mon Seigneur, alors même qu'il n'y avait pas d'eau à l'horizon.",
+    "Pendant que je travaillais, les chefs de mon peuple passaient devant moi et se moquaient de moi, mais je leur disais que bientôt ce serait nous qui nous moquerions d'eux.",
+    "J’ai supplié mes proches de me rejoindre, mais ils ont choisi de se réfugier sur une montagne, croyant que cela les sauverait de la marée montante.",
+    "Mon navire finit par s'immobiliser sur le mont Judi après que la terre eut englouti ses eaux et que le ciel eut cessé de déverser son flot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Hud",
+        "Prophète Salih",
+        "Prophète Noé",
+        "Le prophète Lout",
+        "Prophète Shu'ayb"
+      ],
+      "answer": "Prophète Noé"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le personnel en transformation",
+        "Le Grand Déluge",
+        "Le feu qui refroidit",
+        "La mer qui se divise",
+        "Le chameau de Dieu"
+      ],
+      "answer": "Le Grand Déluge"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le veau d'or",
+        "Le personnel",
+        "La chemise",
+        "L'Arche",
+        "L'Anneau"
+      ],
+      "answer": "L'Arche"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Entrer en Terre promise",
+        "Noyade dans la mer Rouge",
+        "Se reposant sur le mont Judi",
+        "Être jeté dans une fosse",
+        "L'ascension vers les cieux"
+      ],
+      "answer": "Se reposant sur le mont Judi"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

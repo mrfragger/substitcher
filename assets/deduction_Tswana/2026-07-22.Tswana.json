@@ -1,0 +1,61 @@
+{
+  "title": "Go tswa mo Boteng jwa Sediba",
+  "intro": "Leeto la moya o mosha le ne la simolola ka pono e e maatla ya dilo tsa selegodimo di obama ka tlotlo. Botshelo jwa motho yono bo ne jwa tshwaiwa ke go oka go go tseneletseng thata ke batho ba ba neng ba le gaufi le ene, mme morago ga moo ga nna le dingwaga di le dintsi tsa go nna lekgoba le go tsenngwa mo kgolegelong ka tsela e e sa siamang. Le fa go ntse jalo ka tumelo e e sa reketleng le kaelo ya bomodimo, setshwantsho seno se ne sa tlhatloga go tswa mo mosimeng o o kwa tlase thata go nna mongwe wa batho ba ba maatla thata mo mmusomogolong o mogolo. A o ka ribolola gore motlhanka yono yo o gakgamatsang wa ga Allah ke mang?",
+  "clues": [
+    "Ke ne ka bontshiwa ponatshegelo ya dinaledi di le lesome le bongwe, letsatsi le ngwedi di khubame fa pele ga me .",
+    "Ke ne ke le ngwana yo motsadi wa me a neng a mo rata thata, mme seno se ne sa dira gore bomorwarre ba fufegele .",
+    "Ke ne ka tshwarwa ke bomorwarre, ka apolwa seaparo sa me, mme ka latlhelwa mo sedibeng se se boteng se se lefifi .",
+    "Ke ne ka rekisiwa jaaka thoto mo marekisetsong mme ka isiwa kgakala le nagagae ya me .",
+    "Mosadi mongwe yo o nang le taolo o ne a leka go senya tlotlo ya me, mme ke ne ka tsenngwa mo kgolegelong ka ntlha ya go gana dikopo tsa gagwe .",
+    "Ke ne ka segofadiwa ka mpho ya go tlhalosa ditoro, mme ka tsoga go tswa mo legolegweng le le lebetsweng go nna tonakgolo ya Egepeto ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Yusuf",
+        "Moporofeti Musa",
+        "Moporofeti Dawud",
+        "Moporofeti Ayyub",
+        "Moporofeti Sulayman"
+      ],
+      "answer": "Moporofeti Yusuf"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go latlhelwa mo sedibeng se se boteng ke bomorwarraagwe",
+        "Go falola morwalela o mogolo wa lefatshe lotlhe",
+        "Go latlhelwa mo leubelong le le tukang",
+        "Go lwantsha motlhabani yo mogolo mo lebaleng la ntwa",
+        "Go mediwa ke tlhapi e kgolo"
+      ],
+      "answer": "Go latlhelwa mo sedibeng se se boteng ke bomorwarraagwe"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Sediba se se boteng, se se omileng kwa nageng",
+        "Areka e kgolo ya logong e e mo godimo ga thaba",
+        "Lore lo lo neng lwa fetoga noga",
+        "Setulo se sentle sa bogosi sa bontlentle jo bogolo",
+        "Motsetse le matlapa a matlhano a a borethe"
+      ],
+      "answer": "Sediba se se boteng, se se omileng kwa nageng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O ne a tlhatloga go nna tonakgolo ya Egepeto mme a kopana gape le ba lelapa la gagwe ba ba rategang",
+        "A aga sekepe se segolo mme a bitsa batho go dumela",
+        "O ne a ntsha setšhaba sotlhe mo bokgobeng kwa Egepeto",
+        "O ne a newa bogosi le taolo mo go tse di sa bonweng",
+        "O ne a newa bopelotelele ka bolwetse jo bo masisi mme a fola"
+      ],
+      "answer": "O ne a tlhatloga go nna tonakgolo ya Egepeto mme a kopana gape le ba lelapa la gagwe ba ba rategang"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

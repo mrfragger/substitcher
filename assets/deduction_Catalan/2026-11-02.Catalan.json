@@ -1,0 +1,61 @@
+{
+  "title": "L'aliat inquebrantable en una prova d'or",
+  "intro": "A l'ombra d'un gran profeta, una ànima d'eloqüència i fe va ser escollida per ajudar en una missió monumental. Aquesta figura es va mantenir ferma quan les masses vacil·laven, predicant contra una transgressió flagrant que amenaçava el nucli mateix del monoteisme. Quan el profeta va tornar per presenciar la lapsus del poble, la defensa d'aquesta figura no va ser de culpa sinó de deure i por a la divisió. Qui és aquest servent devot d'Al·là?",
+  "clues": [
+    "Vaig ser escollit per Al·là per a un deure sagrat juntament amb un altre, i el meu paper era de suport i proclamació.",
+    "Em van concedir claredat de parla i vaig acompanyar un missatger per enfrontar-me a un poderós opressor.",
+    "Durant un viatge crític, el missatger va pujar sol a una muntanya, deixant-me a mi vetllar per la gent.",
+    "En la seva absència, el poble va elaborar una imatge d'or, i els vaig suplicar que es mantinguessin fidels, però van rebutjar el meu consell.",
+    "Quan el missatger va tornar, ple de ràbia i dolor, em van atrapar, però vaig explicar que m'havien dominat i que temia causar discòrdia entre ells.",
+    "Sóc el profeta que va estar al costat de Musa, el meu germà, compartint la seva càrrega i mantenint-me ferm contra la idolatria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Harun",
+        "Profeta Musa",
+        "Profeta Isa",
+        "Profeta Dawud",
+        "Profeta Zacaries"
+      ],
+      "answer": "Profeta Harun"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "La gent adorava un vedell d'or malgrat els avisos",
+        "La gent em va llançar a un foc ardent",
+        "Em va engolir un gran peix",
+        "Vaig ser empresonat per càrrecs falsos",
+        "Em van exiliar de la meva ciutat per predicar"
+      ],
+      "answer": "La gent adorava un vedell d'or malgrat els avisos"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El vedell d'or",
+        "L'Arbust Ardent",
+        "El bastó que es va convertir en una serp",
+        "Les Taules de l'Aliança",
+        "L'Arca de l'Aliança"
+      ],
+      "answer": "El vedell d'or"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vaig ser exonerat i vaig continuar la meva missió profètica",
+        "Vaig ser castigat pel pecat del poble",
+        "Em van donar una nova nació per guiar",
+        "Vaig ser endut viu al cel",
+        "Em van fer governant d'un regne"
+      ],
+      "answer": "Vaig ser exonerat i vaig continuar la meva missió profètica"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

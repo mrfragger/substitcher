@@ -1,0 +1,61 @@
+{
+  "title": "Il-Periti tal-Ġebla",
+  "intro": "Immaġina ċivilizzazzjoni qawwija, mogħnija bis-saħħa u l-ħila, li tnaqqax djar grandjużi fil-ġnub tal-muntanji. Dan il-kollettiv kellu prosperità immensa u ħila arkitettonika unika. Madankollu, minkejja li rċevew twissijiet ċari, għażlu triq li twassal għal konklużjoni drammatika u indimentikabbli. Tista' tidentifika dan il-grupp li l-istorja tiegħu sservi bħala lezzjoni profonda għal dawk kollha li jirriflettu?",
+  "clues": [
+    "Ingħatajna s-saħħa u l-ħila, li ppermettewlna naqqtu djar mill-isbaħ direttament fil-muntanji.",
+    "Ingħatajna sinjal ċar mingħand Alla, kreatura unika li kellha titħalla tirgħa bla ma tiġi mfixkla.",
+    "Il-komunità tagħna saret arroganti, u sfidat il-messaġġ divin li ġab messaġġier minn fostna.",
+    "Konfoffajna biex nagħmlu ħsara lis-sinjal mirakoluż, minkejja t-twissijiet ta’ kastig sever.",
+    "Sfidnajna l-kmand li nħallu l-kreatura speċjali tixrob mill-bir tagħna darba kuljum.",
+    "Iltqajna ma' tmiem devastanti, milquta minn splużjoni waħda u tal-biża' wara l-att ta' trasgressjoni tagħna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Nies ta' 'Ad",
+        "Nies ta’ Midjan",
+        "Nies tal-Iljunfant",
+        "Nies ta' Thamud",
+        "Nies ta' Lut"
+      ],
+      "answer": "Nies ta' Thamud"
+    },
+    "trial": {
+      "label": "Il-Prova/Avveniment Maġġuri Tagħna",
+      "options": [
+        "L-għargħar li ħakem l-art",
+        "Il-qsim tal-baħar",
+        "Il-qerda b'daqqa waħda ta' splużjoni/għajta",
+        "Il-ħruq ta’ belt",
+        "It-tibdil ta’ muntanja fi trab"
+      ],
+      "answer": "Il-qerda b'daqqa waħda ta' splużjoni/għajta"
+    },
+    "location": {
+      "label": "Element Ewlieni fl-Istorja Tagħna",
+      "options": [
+        "Għoġol tad-deheb",
+        "Ġemela mirakoluża",
+        "Siġra taqbad",
+        "Għasfur li jitkellem",
+        "Tron maestuż"
+      ],
+      "answer": "Ġemela mirakoluża"
+    },
+    "outcome": {
+      "label": "Ir-Riżultat Aħħari Tagħna",
+      "options": [
+        "Ingħata ġid u poter immens",
+        "Elevata għall-profezija",
+        "Annihilazzjoni totali permezz ta’ kastig divin",
+        "Maħfur wara ndiema sinċiera",
+        "Imxerrdin mad-dinja biex jiġġerrew"
+      ],
+      "answer": "Annihilazzjoni totali permezz ta’ kastig divin"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

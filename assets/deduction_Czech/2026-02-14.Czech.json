@@ -1,0 +1,61 @@
+{
+  "title": "Stavitel bariér",
+  "intro": "Napříč rozlehlými zeměmi se jeden mocný jedinec vydal na sérii expedic, kterým byla udělena nesmírná autorita a prostředky. Tato duše se setkala s rozmanitými komunitami a čelila jedinečným výzvám, zanechala trvalou stopu v historii a víře svými činy a moudrostí, a zároveň uznala skutečný zdroj své síly.",
+  "clues": [
+    "Byla mi dána moc a prostředky nade vším a já jsem se vydal svou cestou.",
+    "Moje cesta mě zavedla k místu západu slunce, kde jsem našel lid.",
+    "Narazil jsem na komunitu, která sotva rozuměla řeči a žila mezi dvěma horami.",
+    "Byl jsem požádán, abych postavil bariéru, ne pro osobní zisk, ale na ochranu před ničivou silou.",
+    "Prohlásil jsem, že síla k vybudování této mohutné zdi pochází od Alláha a že bude stát až do zaslíbeného času.",
+    "Mé jméno, často překládané jako „Dvourohý“, symbolizuje můj dosah po celé zemi nebo možná dvě odlišné éry."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Músa",
+        "Prorok Sulajmán",
+        "Dhul-Qarnayn",
+        "Faraon",
+        "Lukmán"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Přijímání zjevení",
+        "Tváří v tvář tyranovi",
+        "Stavba velké lodi",
+        "Stavba mohutné bariéry",
+        "Být spolknut rybou"
+      ],
+      "answer": "Stavba mohutné bariéry"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Archa",
+        "Zaměstnanci",
+        "Železná bariéra",
+        "Řeka Nil",
+        "Trůn"
+      ],
+      "answer": "Železná bariéra"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Záchrana před povodní",
+        "Stát se velkým královstvím",
+        "Ochrana pro lidi",
+        "Zničení utlačovatele",
+        "Trvalá moudrost"
+      ],
+      "answer": "Ochrana pro lidi"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

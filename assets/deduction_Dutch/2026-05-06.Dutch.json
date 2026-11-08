@@ -1,0 +1,61 @@
+{
+  "title": "De stem uit de brandende struik",
+  "intro": "Ontrafel de identiteit van een bijzondere figuur wiens reis begon met een wonderbaarlijke ontmoeting en wiens lot verweven was met de bevrijding van een onderdrukt volk. Deze persoon werd uitverkoren voor een monumentale taak en stond met goddelijke steun voor immense uitdagingen.",
+  "clues": [
+    "Ik ben geboren in een tijd van grote onderdrukking, waarin baby's van mijn volk werden gedood.",
+    "In mijn vroege jeugd werd ik door mijn ouders in een rivier gezet, maar ik werd gevonden en opgevoed in het huis van de onderdrukker van mijn volk.",
+    "Ik ben ooit een stad ontvlucht nadat ik tijdens een ruzie onbedoeld de dood van iemand had veroorzaakt.",
+    "Ik ontving een goddelijke boodschap en een wonderbaarlijke staf op een heilige plaats, waar ik de opdracht kreeg een machtige heerser te confronteren.",
+    "Mijn broer werd aangesteld als mijn helper bij mijn missie, vanwege een vermeende spraakstoornis bij mij.",
+    "Ik leidde mijn volk over een gespleten zee, op de vlucht voor de achtervolging van een tiranniek leger."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Profeet Yusuf",
+        "Profeet Isa",
+        "Profeet Musa",
+        "Profeet Nuh",
+        "Profeet Ibrahim"
+      ],
+      "answer": "Profeet Musa"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Jarenlange droogte",
+        "De ark bouwen",
+        "De confrontatie met de farao en zijn tovenaars.",
+        "In een vurige oven gegooid worden",
+        "De vernietiging van het volk van Thamud"
+      ],
+      "answer": "De confrontatie met de farao en zijn tovenaars."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "De Kaaba",
+        "De IJzeren Muur",
+        "Het personeel",
+        "Het schip van Nuh",
+        "De Ring van Sulaiman"
+      ],
+      "answer": "Het personeel"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "De stad Sodom werd omvergeworpen.",
+        "De mensen werden door de aarde verzwolgen.",
+        "De grote vloedgolf overspoelde het land.",
+        "De farao en zijn leger verdronken.",
+        "De stadsmuren stortten in door een kreet."
+      ],
+      "answer": "De farao en zijn leger verdronken."
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

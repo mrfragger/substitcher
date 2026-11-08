@@ -1,0 +1,61 @@
+{
+  "title": "Ofakazi Abaqinile",
+  "intro": "Cabanga ngesikhathi lapho ukukholwa kwavivinywa ngomlilo, futhi ukuqiniseka okungenakunyakaziswa kwaba ukuphikiswa okukhulu. Unikwe umsebenzi wokwembula ukuthi ungubani iqembu elindaba yalo ilandiswa ku-Quran, indaba yokholo olujulile ngokumelene nobudlova obukhulu. Vula izinkomba ukuze uthole ukuthi bangobani laba bantu, kanye nezimo ezingavamile ababhekene nazo.",
+  "clues": [
+    "Sama siqinile ekuqinisekeni kwethu, naphezu kokucindezelwa okukhulu kokulahla ukholo lwethu.",
+    "Sasihlaselwe umbusi onamandla owayefuna ukucima ukukhanya kobuNkulunkulu bukaNkulunkulu oyedwa.",
+    "Sabona izibonakaliso ezinkulu nezimangaliso, kodwa abacindezeli bethu bahlala benganaki.",
+    "Sabekezelela indlela esabekayo yokushushiswa eyayihloselwe ukwesabisa abanye ukuze bathobele.",
+    "Saphonswa esihogweni esivuthayo, kodwa ukuqina kwethu kwasitholela isikhundla esiphakeme no-Allah.",
+    "Indaba yethu ilandiswa kuyiSurah eqanjwe ngamaqoqo ezinkanyezi asezulwini, ixwayisa ngesiphetho salabo abashushisa amakholwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu baseMgodini",
+        "Abantu bakwaMidiyani",
+        "Abantu Bendlovu"
+      ],
+      "answer": "Abantu baseMgodini"
+    },
+    "trial": {
+      "label": "Ukushushiswa Kwethu",
+      "options": [
+        "Ukuminza esikhukhuleni",
+        "Ukudliwa umoya oshisayo",
+        "Ukuphonswa emseleni ovuthayo",
+        "Ukugwinywa umhlaba",
+        "Ukuguqulwa kube yizinkawu"
+      ],
+      "answer": "Ukuphonswa emseleni ovuthayo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isikhukhula esikhulu",
+        "Ukuzamazama komhlaba okukhulu",
+        "Umsele ojulile, ovuthayo",
+        "Isithixo esinamandla",
+        "Isomiso esibhubhisayo"
+      ],
+      "answer": "Umsele ojulile, ovuthayo"
+    },
+    "outcome": {
+      "label": "Isiphetho Sethu Esiphelele",
+      "options": [
+        "Banikwa umbuso emhlabeni.",
+        "Basindiswa ngokuphunyuka okuyisimangaliso.",
+        "Bazuze ukufela ukholo kanye nomvuzo waphakade.",
+        "Zaguqulwa zaba uhlobo oluhlukile.",
+        "Banikwa ingcebo enkulu kanye nokuchuma."
+      ],
+      "answer": "Bazuze ukufela ukholo kanye nomvuzo waphakade."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

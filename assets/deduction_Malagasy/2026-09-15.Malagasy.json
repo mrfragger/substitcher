@@ -1,0 +1,61 @@
+{
+  "title": "Ny fandraisam-bahiny izay nitondra tahotra",
+  "intro": "Tao an-tanàna iray feno faharatsiana, dia nisy mpanompo mahatoky iray nandray vahiny tsy nampoizina indray andro. Nanahy ny amin'ny fiarovana azy ireo ity olona ity ka nanolotra fiarovana, saingy nangataka zavatra mahamenatra ny vahoakan'ny tanàna. Rehefa nampitandremana ny amin'ny loza mananontanona ilay mpanompo ka nandositra niaraka tamin'ny fianakaviany tamin'ny alina, namela tanàna iray voatokana ho amin'ny fandringanana. Iza moa ity mpino irery ity?",
+  "clues": [
+    "Nirahina ho iraka ho an'ny vahoaka izay nanao zavatra mahamenatra aho.",
+    "Nisy vahiny tsy nampoizina tonga tao an-tranoko, ary ny fiarovana azy ireo no nanahy kokoa noho ny ahy.",
+    "Nangataka ny hihaona tamin'ireo vahiniko ny oloko noho ny fikasan-dratsy, ary niezaka nandresy lahatra azy ireo aho.",
+    "Niseho ho anjely ireo mpitsidika ahy ary nandidy ahy hitondra ny fianakaviako handeha amin'ny alina.",
+    "Tsy nihaino ny antso handositra ny vadiko ka niatrika fandringanana mitovy amin'ny fireneko.",
+    "Nirodana tamin'ny oram-bato tanimanga nifanongoa ny tanànako, ka nihena ho ambany ny tapany avo indrindra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Lota",
+        "Mpaminany Musa",
+        "Mpaminany Ibrahim",
+        "Mpaminany Noa",
+        "Mpaminany Hoda"
+      ],
+      "answer": "Mpaminany Lota"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny fangatahan'ny oloko hanatona ny vahiniko amin-kabibiana",
+        "Ny fisarahan'ny ranomasina mba handosirana mpitondra jadona",
+        "Ny fanorenana sambo fiara lehibe teo anivon'ny fanesoana",
+        "Ny sorona nataon'ny zanako lahy nandritra ny fitsapana ny finoana",
+        "Ny zavatra niainana rehefa voatelina trondro goavambe"
+      ],
+      "answer": "Ny fangatahan'ny oloko hanatona ny vahiniko amin-kabibiana"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny tanànan'ny oloko izay efa rava",
+        "Ilay tendrombohitra izay nahazoako ny tenin'Andriamanitra",
+        "Ny sambofiara izay nandalo tondra-drano lehibe",
+        "Ilay ramevavavy nivoaka avy tao anaty vatolampy",
+        "Ny zaridaina misy mpitsidika marina miafina"
+      ],
+      "answer": "Ny tanànan'ny oloko izay efa rava"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voavonjy niaraka tamin'ny fianakaviako aho talohan'ny nandravana ny tanànako",
+        "Nitarika ny oloko ho amin'ny fahafahana aho niampita ny ranomasina",
+        "Nanangana sambo fiara lehibe aho ary tafavoaka velona tamin'ny safodrano mahery vaika",
+        "Nomena fahefana tamin'ny rivotra sy ny jiny aho",
+        "Niaritra fijaliana tamim-paharetana aho ary nahazo valisoa tamin'ny fianakaviana"
+      ],
+      "answer": "Voavonjy niaraka tamin'ny fianakaviako aho talohan'ny nandravana ny tanànako"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

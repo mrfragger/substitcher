@@ -1,0 +1,61 @@
+{
+  "title": "Asrlarning e'tiborsiz ovozi",
+  "intro": "Buyuk shaharlar paydo bo'lishidan ancha oldin, haqiqatdan yuz o'girgan xalq orasida yolg'iz bir qalb paydo bo'ldi. Ularning o'jarligi faqat bu yolg'iz da'vatchining sabr-toqati bilan tenglashdi, u avlodlar davomida qat'iyatni yo'qotmasdan yolvorib turdi. Barcha ogohlantirishlar quloqqa chalinganda, misli ko'rilmagan hisob-kitob Yerning o'zini o'zgartirdi. Bugungi kunda bu hikoyaning aks-sadosi har bir qiroatda hali ham yangraydi. Siz bu qat'iyatli qalbni aniqlay olasizmi?",
+  "clues": [
+    "Men soxta butlarga sig'inadigan va atrofdagi alomatlarga e'tibor bermaydigan qavm orasida ulg'ayganman, ammo ularni beparvoliklaridan uyg'otish uchun tanlanganman.",
+    "Men xalqimga qayta-qayta murojaat qildim, lekin ular meni shunchaki oʻzlari kabi odam emasligimda, xabarimni masxara qilishda va quloqlarini berkitishda ayblashdi.",
+    "Kechayu kunduz men ularga donolik va muloyim eslatmalar bilan yolvordim, lekin so'zlarim havoda yo'q bo'lib ketayotgandek tuyuldi, eshitilmadi va e'tibor berilmadi.",
+    "Ilohiy ko'rsatma bilan men quruqlikda yog'och va taxtalardan ulkan idish yasadim va qavmim menga aqlini yo'qotgan odamdek kulishdi.",
+    "Va'da qilinganidek, buyuk suv toshqini kelganida, o'g'lim tog' uni ko'tarilayotgan suvlardan himoya qiladi deb o'ylab, men bilan kemaga chiqishdan bosh tortdi.",
+    "Men yer yuzida yangi boshlanishning patriarxi bo'ldim va mening hikoyam Qur'onning mening nomim bilan atalgan surasida saqlanib qolgan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Nuh payg'ambar",
+        "Ibrohim payg'ambar",
+        "Muso payg'ambar",
+        "Lut payg'ambar",
+        "Payg'ambar Hud"
+      ],
+      "answer": "Nuh payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yer yuzini o'zgartirgan Buyuk To'fon",
+        "Butparastlar tomonidan alangali olovga tashlanmoqda",
+        "Saroyda Fir'avn sehrgarlari bilan to'qnashuv",
+        "Samoviy bo'ron tomonidan gullab-yashnagan bog'larning vayron bo'lishi",
+        "Xandaqda yashovchilarning ag'darilishi"
+      ],
+      "answer": "Yer yuzini o'zgartirgan Buyuk To'fon"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema yog'och va taxtalardan qurilgan",
+        "Qadimgi poydevorlar ustiga qurilgan muqaddas uy",
+        "Ilonga aylangan tayoq",
+        "Uxlayotgan yoshlarning g'ori",
+        "Taxt qudratli mavjudot tomonidan ko'tarilgan"
+      ],
+      "answer": "Kema yog'och va taxtalardan qurilgan"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Kofirlar cho'kib ketishdi, mo'minlar esa kemada qutqarildilar.",
+        "Olov salqin va xavfsiz bo'ldi va qo'ng'iroq qiluvchi sog'-salomat chiqdi",
+        "Sehrgarlar sajda qilib, iymon keltirdilar.",
+        "Bog' o'rniga solih qo'shniga berildi",
+        "Uxlab yotganlar asrlar o'tib uyg'onishdi, o'zgarishdi"
+      ],
+      "answer": "Kofirlar cho'kib ketishdi, mo'minlar esa kemada qutqarildilar."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

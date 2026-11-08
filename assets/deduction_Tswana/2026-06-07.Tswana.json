@@ -1,0 +1,61 @@
+{
+  "title": "Moya o o Bogisiwang wa Nile",
+  "intro": "Mo motlheng wa kgatelelo e kgolo, fa mmusaesi a ne a busa lefatshe ka bosetlhogo jo bo feletseng, moya o le mongwe o ne wa tlhopha tsela ya tumelo go na le kgomotso ya bogosi. Setshwantsho seno se ne se nna mo pelong ya maatla le fa go ntse jalo se ne sa bona boammaaruri mo molaetseng wa moporofeti yo o ikokobeditseng. Leeto la bone le ne le tla nna thuto e e sa feleng ya bopelotelele, go intsha setlhabelo le go tlhomamisega go go sa reketleng. A o ka kgona go tlhaola motho yono yo o gakgamatsang yo o neng a rata menate ya bomodimo go na le maemo a lefatshe?",
+  "clues": [
+    "Ke ne ke nna mo ntlong ya segosi e e nang le maatla a magolo, le fa go ntse jalo pelo ya me e ne ya bona boammaaruri mo molaetseng o o ikokobeditseng.",
+    "Ke ne ka tlhopha go latela kaelo ya ga Musa, ke itse ditlamorago tse ke neng ke tla lebana le tsone.",
+    "Ke ne ke nyetswe ke mmusaesi yo o maatla go gaisa botlhe mo motlheng wa me, le fa go ntse jalo ke ne ka gana medimo ya gagwe ya maaka.",
+    "Pogo ya me e ne e le botlhoko thata, jaaka ke ne ke otlhaelwa tumelo ya me mo Modimong o le Mongwe fela.",
+    "Ga ke ise ke ko ke reketle mo tumelong ya me, tota le fa ke ne ke lebane le pogiso e e botlhoko thata.",
+    "Morena wa me o ne a itumelela bopelotelele jwa me mme a ntlhophela lefelo le le tlotlegang kwa Paradaiseng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Mmaagwe Moporofeti Musa",
+        "Mosadi wa ga Faro",
+        "Kgaitsadie Moporofeti Musa",
+        "Kgosigadi ya Egepeto wa bogologolo",
+        "Motlhanka wa Baiseraele"
+      ],
+      "answer": "Mosadi wa ga Faro"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go lwa mo lebakeng la ga Allah le mophato",
+        "Go lebana le Faro le go bolela gore o na le tumelo",
+        "Go aga mafelo a kobamelo kwa Egepeto",
+        "Go tsamaya le Musa go kgabaganya lewatle",
+        "Go amogela tshenolo go tswa go Allah"
+      ],
+      "answer": "Go lebana le Faro le go bolela gore o na le tumelo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Sekaka sa Midiana",
+        "Ntlo ya segosi ya Egepeto",
+        "Dintshing tsa Noka ya Nile",
+        "Thaba ya Sinai",
+        "Lefatshe la Kanana"
+      ],
+      "answer": "Ntlo ya segosi ya Egepeto"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ke ne ka nna moporofeti morago ga dingwaga di le dintsi",
+        "O ne a etelela Baiseraele pele go tswa kwa Egepeto",
+        "O ne a newa bolaodi jwa Egepeto",
+        "O ne a bolaelwa tumelo le go tlotliwa ke Allah",
+        "O ne a tshela go fitlha a tsofala mo boiketlong"
+      ],
+      "answer": "O ne a bolaelwa tumelo le go tlotliwa ke Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

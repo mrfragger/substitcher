@@ -1,0 +1,61 @@
+{
+  "title": "Ny Iraka tao amin'ny Tanàna Fahiny",
+  "intro": "Tanàna tranainy feno vovoka, ny mponina ao aminy dia voafatotry ny fandavana, ary fampitandremana farany izay tsy nohenoina. Androany, midira amin'ny andraikitry ny olona nirahin'i Allah mba hampita hafatra ho an'ny vahoaka mafy loha. Tantaran'ny fandavana, feo tokana maneho finoana, ary fiafarana voaisy tombo-kase tamin'ny didy mandrava. Iza no miteny amin'ny alalan'ireto fanoroana ireto?",
+  "clues": [
+    "Nirahin'Andriamanitra ho any amin'ny tanàna iray izay nivily ny vahoakany tamin'ny fahamarinana izahay",
+    "Roa taminay no tonga voalohany, avy eo ny fahatelo niaraka mba hanamafy orina ny iraka nampanaovina anay",
+    "Nanda anay ny mponina tao an-tanàna, nilaza fa olombelona tahaka azy ireo ihany izahay",
+    "Nisy olona iray avy any amin'ny faran'ny tanàna nihazakazaka nilaza tamin'ny olona mba hanaraka anay",
+    "Niangavy azy ireo izahay, saingy nanamafy ny fony izy ireo ary nivadika taminay",
+    "Tao anatin'ny antsoantso iray nandravarava avy any an-danitra, dia nangina ny tanànanay manontolo"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ireo iraky ny tanàna ao amin'ny Sourah Ya-Sin",
+        "Ny Hawwariyyun (mpianatr’i Isa)",
+        "Ireo Mpanompo Sampy tao amin'ny lapan'i Farao",
+        "Ireo mpiara-dia amin'ny Sabata",
+        "Ny Vahoakan'ny Elefanta"
+      ],
+      "answer": "Ireo iraky ny tanàna ao amin'ny Sourah Ya-Sin"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nolavin'ny mponina tao an-tanàna ary nolazainy fa mpandainga",
+        "Nodorana velona tao anaty afo mirehitra lehibe",
+        "Natelina trondro lehibe iray tao anaty ranomasina lalina",
+        "Voatery niasa mafy nanorina andry avo be",
+        "Nampijaliana tao anaty hady feno afo mirehitra"
+      ],
+      "answer": "Nolavin'ny mponina tao an-tanàna ary nolazainy fa mpandainga"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny tanàna fahiny (al-Qaryah)",
+        "Fatana mirehitra lehibe",
+        "Ny kibon'ny trondro lehibe iray",
+        "Ilay andry avo izay mikasika ny lanitra",
+        "Ny Trano Masina (Kaaba)"
+      ],
+      "answer": "Ny tanàna fahiny (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Rava tamin'ny fitarainana iray monja ny tanàna (Sayha)",
+        "Nilentika tao anaty ranomasina nizara roa ilay mpitondra jadona sy ny tafiny",
+        "Niova ho rajako sy rajako ny olona",
+        "Nisy oram-bato avy any an-danitra nandrava ny tanàna",
+        "Nisy tondra-drano mahery vaika nandrava ny fiarahamonina iray manontolo"
+      ],
+      "answer": "Rava tamin'ny fitarainana iray monja ny tanàna (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

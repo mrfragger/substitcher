@@ -1,0 +1,61 @@
+{
+  "title": "Tosh me'morlari",
+  "intro": "Kuch va mahoratga ega bo'lgan qudratli tsivilizatsiyani tasavvur qiling-a, tog' yonbag'irlariga ulug'vor uylar o'yib qurgan. Bu jamoa ulkan farovonlikka va noyob me'moriy mahoratga ega edi. Shunga qaramay, aniq ogohlantirishlarga qaramay, ular dramatik va unutilmas yakunga olib boradigan yo'lni tanladilar. Hikoyasi barcha mulohaza qiluvchilar uchun chuqur saboq bo'lib xizmat qiladigan bu guruhni aniqlay olasizmi?",
+  "clues": [
+    "Bizga kuch va mahorat berildi, bu bizga tog'larga to'g'ridan-to'g'ri ulug'vor uylar o'yib yasash imkonini berdi.",
+    "Bizga Alloh tomonidan aniq bir belgi berildi, bu o'tlab yurish uchun bezovta qilinmaydigan noyob jonzot edi.",
+    "Jamoamiz takabbur bo'lib, oramizdan kelgan elchi olib kelgan ilohiy xabarga qarshi chiqdi.",
+    "Biz qattiq jazo haqidagi ogohlantirishlarga qaramay, mo''jizaviy belgiga zarar yetkazish uchun til biriktirdik.",
+    "Biz maxsus mavjudotga boshqa kunlarda qudug'imizdan suv ichishga ruxsat berish buyrug'iga bo'ysunmadik.",
+    "Biz qonunbuzarlik qilganimizdan keyin dahshatli portlash bilan halokatli oqibatlarga duch keldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Ad qavmi",
+        "Midiyon xalqi",
+        "Fil odamlari",
+        "Samud qavmi",
+        "Lut qavmi"
+      ],
+      "answer": "Samud qavmi"
+    },
+    "trial": {
+      "label": "Bizning asosiy sinovimiz/tadbirimiz",
+      "options": [
+        "Yerni qamrab olgan toshqin",
+        "Dengizning ikkiga bo'linishi",
+        "Bitta portlash/qichqiriq bilan vayron bo'lish",
+        "Shaharning yonishi",
+        "Tog'ning changga aylanishi"
+      ],
+      "answer": "Bitta portlash/qichqiriq bilan vayron bo'lish"
+    },
+    "location": {
+      "label": "Hikoyamizdagi asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Mo''jizaviy urg'ochi tuya",
+        "Yonayotgan buta",
+        "Gapiradigan qush",
+        "Ulug'vor taxt"
+      ],
+      "answer": "Mo''jizaviy urg'ochi tuya"
+    },
+    "outcome": {
+      "label": "Bizning yakuniy natijamiz",
+      "options": [
+        "Ulkan boylik va kuch berdi",
+        "Payg'ambarlik darajasiga ko'tarildi",
+        "Ilohiy jazo bilan butunlay yo'q qilish",
+        "Chin dildan tavba qilgandan keyin kechiriladi",
+        "Sayr qilish uchun yer yuziga sochilib ketdi"
+      ],
+      "answer": "Ilohiy jazo bilan butunlay yo'q qilish"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

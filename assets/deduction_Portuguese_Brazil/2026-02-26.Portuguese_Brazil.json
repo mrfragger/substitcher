@@ -1,0 +1,61 @@
+{
+  "title": "A Prova da Sede",
+  "intro": "Uma comunidade, ansiando por uma liderança que defendesse sua causa, solicitou a nomeação de um comandante. Quando seu pedido foi atendido, o escolhido foi recebido com ceticismo, pois esse indivíduo não possuía o status social que esperavam. Antes do confronto final, esse novo líder testaria a própria disciplina do exército com uma prova de contenção simples, porém profunda.",
+  "clues": [
+    "Fui nomeado comandante depois que meu povo exigiu um líder para lutar pela causa de Alá.",
+    "Inicialmente, muitas pessoas do meu próprio povo questionaram minha nomeação, citando minha falta de riqueza e linhagem nobre.",
+    "Fui escolhido porque Alá me concedeu uma abundância de conhecimento e uma poderosa estatura física.",
+    "Um sinal claro da minha designação divina foi o retorno da Arca da Aliança, transportada por anjos, que trouxe paz aos corações dos crentes.",
+    "Ao marchar com meus soldados, anunciei que seríamos testados por um rio.",
+    "Ordenei ao meu exército que quem bebesse água em abundância do rio não pertencesse à minha companhia, enquanto aqueles que apenas tomassem uma pequena quantidade com a mão permaneceriam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Jalut (Golias)",
+        "Talut (Saul)",
+        "Profeta Dawud",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Qual foi meu principal julgamento?",
+      "options": [
+        "Construindo uma barreira contra Gogue e Magogue",
+        "Enfrentando um gigante em combate singular",
+        "Testando a obediência de um exército em um rio",
+        "Liderando um exército de gênios e pássaros.",
+        "Sobreviver a um mergulho no fogo"
+      ],
+      "answer": "Testando a obediência de um exército em um rio"
+    },
+    "location": {
+      "label": "Qual foi um sinal fundamental da minha autoridade?",
+      "options": [
+        "Um cajado que se transformou em serpente.",
+        "Um camelo que emergiu de uma rocha",
+        "Uma cota de malha feita de ferro amolecido",
+        "A Arca da Aliança (At-Tabut)",
+        "Uma mesa de comida dos céus"
+      ],
+      "answer": "A Arca da Aliança (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Qual foi o resultado da minha campanha?",
+      "options": [
+        "Derrotando o exército de Jalut (Golias)",
+        "Abrindo o Mar Vermelho para escapar de um tirano",
+        "Estabelecer uma dinastia duradoura em meu nome.",
+        "Construindo a sagrada Caaba em Meca",
+        "Ser elevado aos céus sem morrer"
+      ],
+      "answer": "Derrotando o exército de Jalut (Golias)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Olu nke mara ọchịchị arụsị aka",
+  "intro": "N'ime ndị ozi nke Onye Pụrụ Ime Ihe Niile, e nwere otu ohu siri ike nke biliri n'etiti mba siri ike iji kpughee eziokwu ahụ. Ndị ha nakweere chi e chepụtara echepụta, na-agbakụta Onye Okike nke ihe niile dị adị azụ. Site n'ikpebisi ike, onye a kpọghachiri ha azụ - mana ozi ahụ bịara n'ịgọnarị ma jụ ya. Gaa n'ihu na ihe ndị na-egosi na ọ bụ onye ohu a raara onwe ya nye.",
+  "clues": [
+    "E zigara m dịka onye ozi nye ndị isi ike bụ́ ndị kpafuru n'ụzọ dị anya site n'ụzọ kwụ ọtọ.",
+    "Abịara m ichetara mba m Onye kere ihe niile dị adị — onye kacha mma n'ime ndị okike niile.",
+    "Ndị m atụgharịala gaa n'ihe arụsị ụgha ha na-asọpụrụ ma na-akpọku n'ehihie na abalị.",
+    "M gbara ha ajụjụ n'atụghị egwu, na-ajụ ha ihe mere ha ga-eji fee chi e chepụtara echepụta ma hapụ ezi Onyenwe ha.",
+    "Ha gọnahụrụ m, jụ ige ntị, ma jidesie ụgha ha ike - ma Onyenwe m chebere m.",
+    "Abụ m Ilyas — udo dịkwa n'ahụ m, a gụkwara m n'ime ndị ohu kwere ekwe nke Onye Kasị Ebere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Ilyas",
+        "Onye Amụma Idris",
+        "Onye Amụma Alyasa",
+        "Onye Amụma Dhul-Kifl",
+        "Onye Amụma Nua"
+      ],
+      "answer": "Onye Amụma Ilyas"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịkpọ ndị mmadụ ka ha si n'ofufe Beal pụọ",
+        "Ịkpọ onye aka ike nke kwuru na ya bụ chi asị",
+        "Ịdọ ndị mmadụ aka ná ntị gbasara idei mmiri na-abịa",
+        "Ịtụba n'ime nnukwu ọkụ na-ere ọkụ",
+        "Na-edu ọpụpụ site n'ala ịbụ ohu"
+      ],
+      "answer": "Ịkpọ ndị mmadụ ka ha si n'ofufe Beal pụọ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Arụsị a na-akpọ Ba'al",
+        "Ụgbọ ukwu e ji osisi siri ike rụọ",
+        "Mkpanaka nke kewara nnukwu oké osimiri",
+        "Uwe dị nsọ nke e ji ọbara tee",
+        "Osisi na-ere ọkụ n'elu ugwu nsọ"
+      ],
+      "answer": "Arụsị a na-akpọ Ba'al"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E nyere udo ma gụọ ya n'etiti ndị ohu Allah ahọpụtara",
+        "E duuru ha banye na paradaịs ebe e bibiri ndị ọzọ niile",
+        "A napụtara m n'ọkụ dị ukwuu nke ghọrọ oyi ma dị nchebe",
+        "E nyere ikike ịchị jin, mmadụ, na ifufe",
+        "Ahụ dị ka ihe ịrịba ama na-adịgide adịgide ruo ọtụtụ afọ"
+      ],
+      "answer": "E nyere udo ma gụọ ya n'etiti ndị ohu Allah ahọpụtara"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

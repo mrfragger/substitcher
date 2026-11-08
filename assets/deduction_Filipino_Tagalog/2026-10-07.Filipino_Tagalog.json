@@ -1,0 +1,61 @@
+{
+  "title": "Ang apoy sa loob ng palasyo ng kayabangan",
+  "intro": "Sa likod ng mga malalaking pader ng pinakamakapangyarihang palasyo ng sinaunang mundo ay nabubuhay ang isang pigura na ang puso ay may dalang lihim na hindi kayang patahimikin ng anumang maharlikang utos. Habang ang lahat ay yumuyuko sa mga huwad na diyos, ang kaluluwang ito ay nagpapanatili ng tahimik na pananampalataya na nag-aalab sa loob. Naniniwala ang pinuno ng lupaing iyon na sila ay banal, ngunit pinili ng indibidwal na ito ang katotohanan kaysa sa ginhawa, at debosyon kaysa sa kaligtasan. Ngayon, ang iyong gawain ay tuklasin kung sino ang matapang na kaluluwang ito, na ang kwento ay nananatiling isa sa pinakamakapangyarihang halimbawa ng matibay na pananampalataya.",
+  "clues": [
+    "Nabuhay ako sa isang lugar na may napakalaking kayamanan at walang kapantay na kadakilaan, kung saan ang pinuno ng lupain ay may ganap na kapangyarihan sa lahat.",
+    "Habang ang mga nakapaligid sa akin ay yumuyuko sa mga huwad na diyos, nanatili akong tahimik na liwanag ng pananampalataya sa aking puso.",
+    "Natuklasan at inampon ko ang isang batang dinala sa akin sa kakaibang paraan - hindi sa pamamagitan ng kapanganakan, kundi sa pamamagitan ng tubig ng isang malaking ilog.",
+    "Nanalangin ako sa aking Panginoon, humihingi ng tahanan na malapit sa Kanya sa Paraiso at kaligtasan mula sa paniniil na nakapaligid sa akin.",
+    "Ang batang pinalaki ko ay lumaki upang hamunin ang mismong pinunong kumokontrol sa aking kapalaran, at nanatili akong matatag sa aking pananampalataya kahit na pinagbantaan.",
+    "Ako ang taong ang pangalan ay pinararangalan sa Quran bilang isang huwaran ng pananampalataya, at ako ay nanirahan sa palasyo mismo ng Paraon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Si Asiya, ang asawa ni Paraon",
+        "Si Maryam, ang ina ni Isa",
+        "Si Bilqis, ang Reyna ng Sheba",
+        "Ang asawa ni Propeta Lut",
+        "Ang asawa ni Imran"
+      ],
+      "answer": "Si Asiya, ang asawa ni Paraon"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagtuklas at pagpapalaki ng isang inabandunang sanggol na naging isang dakilang propeta",
+        "Ang pagtapon sa isang malaking apoy ng isang malupit na pinuno",
+        "Nasaksihan ang isang malaking baha na sumira sa isang bayan",
+        "Nakakasaksi ng date palm shake at nakapagbibigay ng sustansya",
+        "Pagbubuntis ng anak na lalaki sa kabila ng katandaan"
+      ],
+      "answer": "Pagtuklas at pagpapalaki ng isang inabandunang sanggol na naging isang dakilang propeta"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang palasyong maharlika na may walang kapantay na karilagan",
+        "Isang malaking barko na ginawa upang makatiis sa baha",
+        "Isang malalim na kuweba na nakatago sa mga bundok",
+        "Isang nagliliyab na apoy na itinayo sa tuktok ng bundok",
+        "Isang hardin na napapalibutan ng mga pader"
+      ],
+      "answer": "Isang palasyong maharlika na may walang kapantay na karilagan"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Isang tahanan ang ipinagkaloob sa Paraiso sa pamamagitan ng kalooban ng Allah",
+        "Isang malaking baha ang sumira sa mga hindi naniniwala sa isang sinaunang bansa",
+        "Isang kaharian na may napakalaking kapangyarihan at awtoridad ang ipinagkaloob sa mundong ito",
+        "Isang makapangyarihang hukbo ang ikinalat ng mga ibong lumilipad",
+        "Isang malupit na nag-angkin ng pagka-diyos ay nalunod sa dagat"
+      ],
+      "answer": "Isang tahanan ang ipinagkaloob sa Paraiso sa pamamagitan ng kalooban ng Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

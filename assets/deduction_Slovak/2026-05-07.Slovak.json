@@ -1,0 +1,61 @@
+{
+  "title": "Volajúci z hlbín",
+  "intro": "Predstavte si dušu, ktorej bolo zverené božské posolstvo, no napriek tomu sa v okamihu zhonu vzdialila od svojho ľudu bez výslovného súhlasu. Táto cesta ich priviedla do mimoriadnej skúšky, hlbokej skúšky trpezlivosti a dôvery v Najvyššieho. Kto je tento človek, ktorého príbeh nás učí o pokání a nesmiernosti Alahovho milosrdenstva?",
+  "clues": [
+    "Bol som poslaný do veľkého národa, ale ich počiatočné odmietnutie mi spôsobilo trápenie.",
+    "Opustil som svojich ľudí v domnení, že moja misia je splnená, skôr ako som dostal jasný rozkaz na odchod.",
+    "Hľadal som miesto na lodi, ale silná búrka a losovanie viedli k zúfalej situácii.",
+    "Bol som hodený do mora a mocný tvor z hlbočín ma celého prehltol.",
+    "V temnote jeho brucha som volal k Alahovi, priznal som si svoje previnenie a prosil som Ho o odpustenie.",
+    "Alah prikázal tvorovi, aby ma vyhodil na breh, a ja som sa uzdravil pod vplyvom jedinečnej rastliny."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Júsuf (Jozef)",
+        "Prorok Nuh (Noe)",
+        "Prorok Júnus (Jonáš)",
+        "Prorok Sulajmán (Šalamún)",
+        "Prorok Ayyub (Jób)"
+      ],
+      "answer": "Prorok Júnus (Jonáš)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Rozštiepenie mora",
+        "Oheň Nimroda",
+        "Byť prehltnutý veľkou rybou",
+        "Povodeň",
+        "Zničenie mesta kameňmi"
+      ],
+      "answer": "Byť prehltnutý veľkou rybou"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Archa",
+        "Zamestnanci",
+        "Brucho ryby",
+        "Studňa",
+        "Horiaci ker"
+      ],
+      "answer": "Brucho ryby"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Stal sa veľkým vládcom",
+        "Postavil Kaabu",
+        "Vrátil sa, aby viedol kajúcny národ",
+        "Bola mu daná vláda nad džinmi",
+        "Viedol ľudí cez púšť"
+      ],
+      "answer": "Vrátil sa, aby viedol kajúcny národ"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

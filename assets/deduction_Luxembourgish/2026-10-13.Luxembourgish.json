@@ -1,0 +1,61 @@
+{
+  "title": "De feierleche Géigner",
+  "intro": "An den Ufankszäiten vun der Offenbarung ass eng Figur als haartnäckege Géigner vun der Wourecht opgetrueden. Mat Räichtum a Status geseent, huet dës Séil Stolz iwwer Leedung gewielt, an hir Geschicht gouf zu enger staarker Warnung an de leschte Verse vun enger Surah.",
+  "clues": [
+    "Ech hunn an der selwechter Stad wéi de Prophet gewunnt, an ech war ee vun deene Familljememberen, déi him am nootste waren, awer mäi Stolz huet mech vun der Wourecht distanzéiert gehalen.",
+    "Ech hat e grousse Räichtum a vill Besëtz, an ech hunn geduecht, meng Ressourcen géifen mech ëmmer schützen.",
+    "Wéi d'Botschaft opgedeckt gouf, hunn ech se ëffentlech verspott a mech ewechgedréit, well ech mech selwer iwwer d'Gleeweger geheescht hunn.",
+    "Meng Feindschaft war sou bekannt, datt eng Surah aus dem Koran mech direkt ugeschwat huet, a mech mam Numm genannt huet, deen aner mech kannt hunn.",
+    "Ech gouf gewarnt, datt mäi Räichtum a mäi Verdéngscht mir net géifen hëllefen, an ech géif an e flammend Feier gehäit ginn.",
+    "Ech sinn als de Papp vun der Flam bekannt, a meng Fra wäert d'Brennholz mat engem Seel aus Palmfaseren ëm den Hals droen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Den Islam verworf an huet sech oppen géint de Prophet ausgeschwat",
+        "Plang fir de Prophet ëmzebréngen",
+        "E soziale Boykott géint Muslimen ugefouert",
+        "Gekämpft an der Schluecht vu Badr",
+        "Gefoltert Bilal ibn Rabah"
+      ],
+      "answer": "Den Islam verworf an huet sech oppen géint de Prophet ausgeschwat"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Seel aus Palmfaser",
+        "E schaarft Schwäert",
+        "Eng schwéier Kette",
+        "E Staff aus Holz",
+        "Eng Liederpeitsch"
+      ],
+      "answer": "E Seel aus Palmfaser"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Wäert an engem flammende Feier verbrennen",
+        "Huet sech berouegt a gouf e Begleeder",
+        "säi Räichtum verluer, awer mat Éier gestuerwen",
+        "An Abessinien geflücht",
+        "Am Mier erdronk"
+      ],
+      "answer": "Wäert an engem flammende Feier verbrennen"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

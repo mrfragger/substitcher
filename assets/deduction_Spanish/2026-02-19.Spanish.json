@@ -1,0 +1,61 @@
+{
+  "title": "La locura de la gran ambición",
+  "intro": "Embárcate en un viaje para descubrir la identidad de una entidad colectiva cuyos audaces planes tuvieron un final inesperado y poderoso. Esta narración sirve como un profundo recordatorio del poder divino y la fragilidad del poder terrenal cuando se opone a lo sagrado. Desvela el misterio de este grupo, cuya historia está grabada en el Corán como advertencia para todos aquellos que buscan transgredir.",
+  "clues": [
+    "Albergábamos una gran ambición, creyendo que nuestro poder era inigualable, y emprendimos un viaje con un objetivo claro y destructivo.",
+    "Nuestro líder, lleno de arrogancia, intentó profanar una Casa sagrada venerada por muchos, con el objetivo de desviar la peregrinación a una estructura construida por nosotros.",
+    "Desde una tierra lejana, marchamos con una fuerza masiva, confiados en nuestra capacidad para desmantelar el antiguo edificio de la Ciudad Santa.",
+    "Nuestro ejército era formidable, encabezado por magníficas criaturas, un espectáculo que rara vez, o nunca, habían presenciado los habitantes de la tierra que invadimos en una campaña de este tipo.",
+    "Al llegar a nuestro destino, se produjo una intervención divina: aparecieron unas pequeñas criaturas aladas que nos arrojaron piedras de arcilla cocida.",
+    "Toda nuestra expedición tuvo un final devastador, dejando a nuestra formidable fuerza completamente aniquilada, como paja masticada, y nuestro gran plan reducido a polvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Gente de Thamud",
+        "Gente de 'Anuncio'",
+        "Gente de Sodoma",
+        "Gente del elefante",
+        "Gente del jardín"
+      ],
+      "answer": "Gente del elefante"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El gran diluvio",
+        "La campaña contra la Kaaba",
+        "La destrucción de los ídolos",
+        "La división del mar",
+        "El terremoto de Madián"
+      ],
+      "answer": "La campaña contra la Kaaba"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "La Kaaba",
+        "El becerro de oro",
+        "El fuego"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "salvación divina",
+        "Un largo período de prosperidad",
+        "Conversión al Islam",
+        "Destrucción total",
+        "Exilio de su tierra"
+      ],
+      "answer": "Destrucción total"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bir Gecede Yok Olan Bahçe",
+  "intro": "Olgunlaşmış meyvelerle dolu, yemyeşil bir bahçe ve etrafını saran yüksek ağaçları hayal edin. Bu bahçeyi işleyenler, ihtiyaç sahiplerinin gözlerinden uzakta, şafak sökmeden önceki sessiz saatlerde hasatlarını planlayarak kendilerini zeki sanıyorlardı. Ama asla uyumayan Yüce Allah'ın, onların gizli nimetleri için başka planları vardı. Kur'an'dan bu ibretlik öykünün ardında kimin olduğunu tahmin edebilir misiniz?",
+  "clues": [
+    "Bir zamanlar öyle yemyeşil ve bereketli bir bahçemiz vardı ki, oradan geçen herkesin kıskançlığına neden olurdu.",
+    "Planlama aşamasında, sabahın erken saatlerinde birbirimize fısıldayarak, o gün hiçbir muhtaç insanın içeri girmesine izin verilmeyeceğini ilan ettik.",
+    "Biz varlıklı insanlardık ve kalplerimiz çevremizdeki yoksulların haklarına karşı körleşmişti.",
+    "Planladığımız hasat gününün şafağı söktüğünde, bahçemize yaklaştığımızda, bir gecede simsiyah bir harabeye dönüştüğünü gördük.",
+    "Yıkıcı bir kararname yürürlüğe girdi ve bir zamanlar olgun meyve salkımlarının asılı olduğu yerlerde geriye sadece küller kaldı.",
+    "Bizim hikâyemiz, Kur'an'da kayıtlı olan ve bizler, muhtaçlardan sadaka esirgeyen cennet sahipleri olarak anıldığımız sert bir uyarıdır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Bahçenin Sahipleri",
+        "Mağara Halkı",
+        "İsa'nın Öğrencileri",
+        "Ormanın Yoldaşları",
+        "İbrahim'in Misafirleri"
+      ],
+      "answer": "Bahçenin Sahipleri"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Meyveleri gizlice toplamak ve yoksulları dışarıda bırakmak.",
+        "Yüzyıllarca bir mağaranın içinde uyumak",
+        "Taştan dişi deve yapmayı reddetmek",
+        "Sina Dağı'nda altın buzağıya tapınma",
+        "Tufandan kaçmak için büyük bir gemi inşa etmek"
+      ],
+      "answer": "Meyveleri gizlice toplamak ve yoksulları dışarıda bırakmak."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Palmiye ve sarmaşıklarla dolu duvarla çevrili bir bahçe.",
+        "Dağların derinliklerinde karanlık bir mağara",
+        "İlahi bir kasırganın etkisi altına girmiş bir şehir",
+        "Allah'ın Evi'nin yakınındaki kutsal bir vadi",
+        "Akan bir nehrin kıyıları"
+      ],
+      "answer": "Palmiye ve sarmaşıklarla dolu duvarla çevrili bir bahçe."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bahçe, gökten gelen yakıcı bir fermanla kül oldu.",
+        "309 ay yılı boyunca huzur içinde uyudular.",
+        "Taş yağmuru altında ezildiler.",
+        "Büyük bir selin dalgaları altında boğuldular.",
+        "Şiddetli ve soğuk bir rüzgarın etkisiyle dağıldılar."
+      ],
+      "answer": "Bahçe, gökten gelen yakıcı bir fermanla kül oldu."
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

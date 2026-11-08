@@ -1,0 +1,61 @@
+{
+  "title": "Mwangwi kutoka Ukingo wa Jiji",
+  "intro": "Katika jiji lililoacha mwongozo wa kimungu, mtu mmoja pekee alitoka nje kidogo, akikimbia na ujumbe wa matumaini na onyo. Nafsi hii iliyosahaulika ingekuwa ishara ya milele ya imani thabiti.",
+  "clues": [
+    "Nilishuhudia wajumbe wakitumwa katika jiji langu, lakini watu wangu waliwapuuza kama wanadamu wa kawaida.",
+    "Niliamini ujumbe wao na nikahisi ukweli ukiingia ndani ya nafsi yangu.",
+    "Niliwaalika watu wangu kuwatii wajumbe ambao hawakuomba malipo.",
+    "Nilikimbia kutoka mwisho wa mbali zaidi wa jiji, nikijaribu haraka kuwafanya waone mantiki.",
+    "Watu wangu waliniasi, nami nikauawa, lakini nilipata amani ya milele.",
+    "Mwenyezi Mungu aliniambia, 'Ingia Peponi,' na nilitamani watu wangu wangeshuhudia heshima niliyopewa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Muumini wa Ya-Sin",
+        "Uzair Muulizaji",
+        "Al-Khidr Mwongozo",
+        "Mwamini wa Familia ya Farao",
+        "Namrud Mdhalimu"
+      ],
+      "answer": "Muumini wa Ya-Sin"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukabiliana na watu wasioamini waliomuua",
+        "Kutupwa kwenye moto unaowaka",
+        "Kumezwa na samaki mkubwa",
+        "Kujenga safina kubwa",
+        "Kukimbia jeshi la dhalimu"
+      ],
+      "answer": "Kukabiliana na watu wasioamini waliomuua"
+    },
+    "location": {
+      "label": "Eneo la Ufunguo",
+      "options": [
+        "Mwisho wa mbali zaidi wa jiji",
+        "Mlima wa Tur",
+        "Bonde la Mchwa",
+        "Kingo za Nile",
+        "Pango la pango"
+      ],
+      "answer": "Mwisho wa mbali zaidi wa jiji"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kifo cha shahidi na kuingia mara moja katika Paradiso",
+        "Kutoroka na wokovu",
+        "Kupaa mbinguni",
+        "Kuzama baharini",
+        "Kugeuka kuwa jiwe"
+      ],
+      "answer": "Kifo cha shahidi na kuingia mara moja katika Paradiso"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

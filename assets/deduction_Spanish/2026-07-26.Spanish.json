@@ -1,0 +1,61 @@
+{
+  "title": "La corona que desafió a los cielos",
+  "intro": "En los pasillos de los reinos antiguos, el nombre de un gobernante se convirtió en sinónimo de tiranía y arrogancia. Cuando un humilde siervo de Alá llegó portando señales innegables, este poderoso soberano se negó a someterse a la verdad. Hoy, tu tarea es identificar a esta figura legendaria cuyo dominio se derrumbó y cuyo destino quedó sellado bajo las olas.",
+  "clues": [
+    "Soy el gobernante más temido, cuyo nombre aún resuena como advertencia a través de los siglos.",
+    "Ordené a todo un pueblo que trabajara encadenado, erigiendo monumentos que proclamaban mi gloria.",
+    "Cuando un mensajero de Alá se presentó ante mí con señales innegables, me negué a inclinarme y lo llamé brujería.",
+    "Decreté la matanza de los varones infantes entre un pueblo cautivo, con la esperanza de aplastar su espíritu antes de que pudieran levantarse.",
+    "Me presenté ante mi corte y declaré: \"Soy vuestro señor supremo\", exigiendo ser adorado como a un dios.",
+    "Con mi primer ministro a mi lado, construí una imponente estructura destinada a elevarse más allá de los cielos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Faraón (Fir'awn)",
+        "Namrud",
+        "Hamán",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraón (Fir'awn)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El ahogamiento en el Mar Rojo",
+        "La camella enviada al pueblo de Thamud",
+        "El gran diluvio de Noé",
+        "El castigo de los Compañeros de la Trinchera",
+        "La destrucción del ejército de Abraha por las aves"
+      ],
+      "answer": "El ahogamiento en el Mar Rojo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La imponente estructura construida con Hamán",
+        "El arca que navegó sobre el diluvio",
+        "El becerro de oro forjado por los Samiri",
+        "El trono de Bilqis, reina de Saba",
+        "La cueva de los jóvenes durmientes"
+      ],
+      "answer": "La imponente estructura construida con Hamán"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se ahogó en el mar; su cuerpo fue conservado como advertencia.",
+        "Exiliado y obligado a vagar por el desierto",
+        "Transformados en simios como castigo",
+        "Azotada por un violento terremoto",
+        "Quemado por una lluvia de piedras del cielo"
+      ],
+      "answer": "Se ahogó en el mar; su cuerpo fue conservado como advertencia."
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

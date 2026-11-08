@@ -1,0 +1,61 @@
+{
+  "title": "Say panagparawes ya angitarok na takot",
+  "intro": "Diad sakey a syudad ya nauupot na kaugsan, walay matoor ya lingkor ya akaawat na ag-iilaloan iran bisita ed sakey ya agew. Lapud mapaga ed kaligenan da, sayan indibidual so angiyopresi na proteksion, balet ta kinerew na totoo ed syudad so makapabaing a bengatla. Lapud apasakbayan ed onsabin kadederal, say aripen so binmatik a kaiba toy pamilya to diad silong na kabilungetan, a tinaynan toy sakey a syudad a naderal. Siopa iyan manbukbukor a mananisia?",
+  "clues": [
+    "Nibaki ak a mangibaki ed saray totoon nanggawa na makapabaing iran gawa.",
+    "Wala ray ag-iilaloan ya bisita ed abung ko, tan mas mapaga ak ed kaligenan da nen say kaligenan ko.",
+    "Kinerew na totook ya nanengneng iray bisitak lapud mauges iran getma, tan sinali kon mikatunongan ed sikara.",
+    "Saray bisitak et angipatnag na inkasikara bilang anghel tan ingganggan da ak ya awiten koy pamilyak tan ontaynan ak ed labi.",
+    "Ag dinengel nen asawak so tawag ya ontakas tan inarap toy parehon kadederal a singa saray totook.",
+    "Say syudad ko et atumba lapud uran na saray bato ya nantutumbokan a pitek, saray sankatageyan a parte to so inawit na sankaabebaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Lut",
+        "Propeta Musa",
+        "Propeta Ibrahim",
+        "Propeta Nuh",
+        "Propeta Hud"
+      ],
+      "answer": "Propeta Lut"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Say kerew na totook ya onasingger ed saray bisitak a maruksa",
+        "Say inkaapag na dayat pian makaliktar ed sakey a managpairap",
+        "Say pangipaalagey na baleg a biong diad pegley na panagludlurey",
+        "Say impangibagat na anak ko ed sakey a subok na pananisia",
+        "Say eksperiensya na inakmon na baleg a sira"
+      ],
+      "answer": "Say kerew na totook ya onasingger ed saray bisitak a maruksa"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say atumba a syudad na totook",
+        "Say palandey ya angawatan ko na madibinon panagsalita",
+        "Say biong ya linmabas ed baleg a delap",
+        "Say kabatyan a kamelyo ya pinmaway ed bato",
+        "Say hardin ya walay akaamot a matunong ya bisita"
+      ],
+      "answer": "Say atumba a syudad na totook"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Nisalba ak kaiba so pamilyak antis ya atumba so syudad ko",
+        "Inwanwan ko ray totook ed kawayangan ed biek na dayat",
+        "Nanggawa ak na baleg a biong tan akaliktar ak ed baleg a delap",
+        "Niiter ed siak so pakauley ed saray dagem tan jinn",
+        "Maanos kon inanosan so paniirap tan atumangan ak na pamilya"
+      ],
+      "answer": "Nisalba ak kaiba so pamilyak antis ya atumba so syudad ko"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

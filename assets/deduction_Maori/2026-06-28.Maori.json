@@ -1,0 +1,61 @@
+{
+  "title": "Te Kai Tūpono a te Kaumātua",
+  "intro": "I roto i ngā wāhi tapu o te Whare o Allah, i pāngia tētahi pononga kaumātua o te Atua e tētahi mea ngaro hohonu i tino kitea. I kite tēnei tangata pono, kua roa kē atu i ngā tau o te mātua tūturu, i tētahi mea whakamiharo i whakaatu i te aroha mutunga kore o te Atua. Ko te panga kei roto i te hura i tēnei wā kua warewarehia i roto i te oranga o ngā poropiti.",
+  "clues": [
+    "I mōhiotia tōku iwi ko Iharaira, he uri nō tētahi patereareha nui o mua.",
+    "I whakapaua e ahau ōku pō ki te inoi, ki te piko ki te aroaro o tōku Ariki i roto i te temepara.",
+    "I tukua mai he tama ki ahau i tōku koroheketanga, he taonga kāore i mutu taku whakakororia i a Allah mōna.",
+    "Ko tāku whakamātautau i uru atu ai te kitenga i tētahi oranga mō tētahi wairua taitamariki i raro i taku manaaki.",
+    "He poropiti ahau, ko Zakariyya tōna ingoa, i tukuna ki ahau te mahi tiaki i a Maryam i Bayt al-Maqdis.",
+    "Kei roto i te whiti i whakaae a Allah ki a Meriama, ā, i whakarato hoki i te oranga mōna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ko te poropiti i tiaki i a Meriama i te temepara",
+        "Ko te poropiti nāna i hanga te whare tapu",
+        "I horomia te poropiti e te ika nui",
+        "Ko te poropiti i rere atu i tōna iwi",
+        "Ko te poropiti i kōrero tika ki a Allah"
+      ],
+      "answer": "Ko te poropiti i tiaki i a Meriama i te temepara"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "E whakamatautauria ana e ngā tau o te tauraki",
+        "Te kimi i te oranga i whakaratohia mō tētahi wāhanga taitamariki i roto i te mea ngaro",
+        "Te kauwhau ki tētahi iwi i whakakahore i te aratohu a te Atua",
+        "Te makanga ki roto i te poka e te iwi ake",
+        "Te whiwhi whakakitenga mā roto i ngā kitenga"
+      ],
+      "answer": "Te kimi i te oranga i whakaratohia mō tētahi wāhanga taitamariki i roto i te mea ngaro"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He kaipuke i hangaia mai i ngā papa me ngā whao",
+        "Te temepara tapu o Hiruharama",
+        "He māra i whakangaromia",
+        "He tāone i hanga e te kingi tika",
+        "Ngā hōhonutanga o te moana"
+      ],
+      "answer": "Te temepara tapu o Hiruharama"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakapono te iwi, ā, i aru i te karere",
+        "Te manako me te aroha o te Atua mō te hunga e whakatapua ana ki te karakia",
+        "I tau te whiu ki te hunga whakakeke",
+        "I whānau mai he tama i te koroheketanga e ai ki te kupu whakaari",
+        "Te ara haumaru i roto i te koraha"
+      ],
+      "answer": "Te manako me te aroha o te Atua mō te hunga e whakatapua ana ki te karakia"
+    }
+  },
+  "verseRef": "3:37",
+  "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+  "verse": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\" (3:37)"
+}

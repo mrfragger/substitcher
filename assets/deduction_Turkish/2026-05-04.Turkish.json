@@ -1,0 +1,61 @@
+{
+  "title": "Kibirin Mimarı",
+  "intro": "Eski bir diyarda, isyankar bir gücün hüküm sürdüğü bir yerde, kilit bir kişi nüfuz sahibi bir konumdaydı. Bu kişi, hükümdarın büyük planlarında etkili olmuş, baskıcı saltanatına katkıda bulunmuş ve ilahi mesajı sorgulamıştır. Mirası, dünyevi güç arayışı ve gerçeğin inkarıyla iç içe geçmiştir.",
+  "clues": [
+    "Nesiller boyunca bir halkı ezen, son derece güçlü bir hükümdara hizmet ettim.",
+    "Kutsal Kitap'ta adım, bu güçlü liderin yanında sık sık anılıyor.",
+    "Bana, gökyüzüne uzanacak devasa bir yapı olan büyük bir inşaat projesi verildi.",
+    "Efendime İsrailoğullarının oğullarını öldürmesini, kızlarını ise bağışlamasını tavsiye ettim.",
+    "Ben, Allah'ın yüce bir elçisine karşı kurulan komplolara ve entrikalara karıştım.",
+    "Benim sonum, efendim ve ordusuyla birlikte, uçsuz bucaksız bir denizin sularında geldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Nemrut",
+        "Abrahah",
+        "Golyat",
+        "İblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Muazzam zenginlikle sınanmak",
+        "Kutsal bir eve karşı orduya önderlik etmek",
+        "Tanrıya ulaşmak için bir kule inşa etmek",
+        "İnançları yüzünden ateşe atılmak",
+        "Kardeşler tarafından kuyuya atılmak"
+      ],
+      "answer": "Tanrıya ulaşmak için bir kule inşa etmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Dağ",
+        "Kule",
+        "Balina"
+      ],
+      "answer": "Kule"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Engin bilgeliğe sahip olmak",
+        "Peygamber olmak",
+        "Yer tarafından yutulmak",
+        "Bir krallığın kendisine verilmesi",
+        "Denizde boğulmak"
+      ],
+      "answer": "Denizde boğulmak"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

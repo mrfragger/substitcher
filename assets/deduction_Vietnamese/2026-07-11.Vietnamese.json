@@ -1,0 +1,61 @@
+{
+  "title": "Những lữ khách trên cánh đồng xanh mướt",
+  "intro": "Vào thời xa xưa, có hai người cùng canh giữ những mảnh đất liền kề. Con đường của họ đan xen, nhưng trái tim lại dẫn họ đến những đích đến hoàn toàn khác biệt. Một người bước đi trên con đường chính trực, trong khi người kia lạc lối vào bóng tối của sự chối bỏ. Bạn có thể giải mã bí ẩn về hai người giữ gìn mùa màng này không?",
+  "clues": [
+    "Tôi sở hữu mùa màng bội thu, những vụ thu hoạch tươi tốt khiến người xem phải trầm trồ.",
+    "Người hàng xóm của tôi còn giàu có hơn tôi, thế mà tôi lại thèm muốn phần của họ hơn phần của mình.",
+    "Tôi đề nghị chúng ta phá hủy toàn bộ mùa màng của họ để tập trung mọi thứ vào quyền kiểm soát của tôi.",
+    "Tôi cũng tự chuốc lấy tai họa cho mùa màng của mình, phá hủy mọi thứ trong những mưu đồ ngu xuẩn.",
+    "Tôi đứng đó bất lực nhìn mùa màng héo tàn và tài sản tan thành tro bụi chỉ sau một đêm.",
+    "Tôi không được hưởng phần nào ở thế giới bên kia, và nơi ở cuối cùng của tôi trở thành một hố lửa cháy rực."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người đàn ông đã phủ nhận sự phục sinh và phán xét",
+        "Kẻ cai trị đã áp bức người nông dân lương thiện.",
+        "Vị địa chủ giàu có nhưng thiếu lòng biết ơn",
+        "Người nông dân thèm muốn mảnh đất của người hàng xóm.",
+        "Người cộng sự phản bội đã âm mưu hủy diệt."
+      ],
+      "answer": "Người nông dân thèm muốn mảnh đất của người hàng xóm."
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Bài kiểm tra để nhận được sự mặc khải thiêng liêng",
+        "Thử thách của sự giàu có và lòng kiên nhẫn",
+        "Sự cám dỗ phá hoại kế sinh nhai của người lương thiện",
+        "Lệnh phân chia tài sản thừa kế một cách công bằng",
+        "Cuộc đấu tranh chống lại sự áp bức của bạo chúa"
+      ],
+      "answer": "Sự cám dỗ phá hoại kế sinh nhai của người lương thiện"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Những khu vườn xanh tươi của thiên đường",
+        "Hai cánh đồng trồng trọt liền kề nhau",
+        "Những ngọn núi đã chứng kiến ​​sự tàn phá",
+        "Thánh địa Mecca linh thiêng",
+        "Bờ sông của một vùng đất thiêng liêng"
+      ],
+      "answer": "Hai cánh đồng trồng trọt liền kề nhau"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Thiên đường vĩnh cửu như một phần thưởng cho sự công chính",
+        "Sự hủy diệt hoàn toàn cả hai vụ mùa trong đời này.",
+        "Lưu đày và lang thang cho đến chết",
+        "Thịnh vượng tạm thời, tiếp theo là lửa địa ngục vĩnh hằng.",
+        "Sự phục hồi kỳ diệu và ân huệ gấp đôi"
+      ],
+      "answer": "Sự hủy diệt hoàn toàn cả hai vụ mùa trong đời này."
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

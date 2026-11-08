@@ -1,0 +1,61 @@
+{
+  "title": "Den Architekt vun der Arroganz",
+  "intro": "An engem ale Land, dat vun enger trotzlecher Muecht regéiert gouf, hat eng Schlësselpersoun eng aflossräich Positioun. Dës Séil war instrumental an de grousse Pläng vum Herrscher, huet zu hirer ënnerdréckender Herrschaft bäigedroen an d'göttlech Botschaft a Fro gestallt. Hiert Ierfschaft ass mat enger Verfollegung vun der weltlëcher Muecht an enger Verleugnung vun der Wourecht verbonnen.",
+  "clues": [
+    "Ech hunn engem formidabelen Herrscher gedéngt, deen e Vollek iwwer Generatiounen ënnerdréckt huet.",
+    "Mäin Numm gëtt dacks am Göttleche Buch nieft dësem mächtege Leader ernimmt.",
+    "Ech krut e grousst Bauprojet zougewisen, eng immens Struktur, déi bis an den Himmel sollt erreeche.",
+    "Ech hunn mengem Meeschter geroden, d'Sënne vun de Kanner vun Israel ëmzebréngen an hir Duechtere ze verschounen.",
+    "Ech war a Komplott a Verschwörungsplang géint e mächtege Messenger vun Allah involvéiert.",
+    "Mäin Enn, zesumme mat mengem Meeschter a senger Arméi, ass an de Waasser vun engem wäite Mier komm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Nimrod",
+        "Abraha",
+        "Goliath",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Mat immensem Räichtum op d'Prouf gestallt ginn",
+        "Eng Arméi géint en hellegt Haus féieren",
+        "En Tuerm bauen fir Gott z'erreechen",
+        "Fir hire Glawen an d'Feier gehäit ginn",
+        "Vun Geschwëster an e Brunn gehäit ginn"
+      ],
+      "answer": "En Tuerm bauen fir Gott z'erreechen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark",
+        "D'Personal",
+        "De Bierg",
+        "Den Tuerm",
+        "De Wal"
+      ],
+      "answer": "Den Tuerm"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Onendlech Wäisheet geschenkt kréien",
+        "E Prophet ginn",
+        "Vun der Äerd verschléckt ginn",
+        "E Kinnekräich geschenkt kréien",
+        "Erdrénken am Mier"
+      ],
+      "answer": "Erdrénken am Mier"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

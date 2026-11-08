@@ -1,0 +1,61 @@
+{
+  "title": "Niezauważony głos wieków",
+  "intro": "Na długo przed powstaniem wielkich miast, wśród ludu, który odwrócił się od prawdy, pojawiła się samotna dusza. Jej upór dorównywał jedynie cierpliwości tego samotnego wołającego, który błagał przez pokolenia, nie tracąc determinacji. Gdy wszystkie ostrzeżenia trafiały w próżnię, bezprecedensowy rozrachunek przeobraził samą ziemię. Dziś echa tej historii wciąż rozbrzmiewają w każdym recytowaniu. Czy potrafisz rozpoznać tę odważną duszę?",
+  "clues": [
+    "Wychowałem się wśród ludzi, którzy czcili fałszywych bożków i ignorowali znaki wokół siebie, a jednak zostałem wybrany, aby obudzić ich z ich niefrasobliwości.",
+    "Wielokrotnie wzywałem swoich ludzi, ale oni oskarżali mnie, że jestem tylko człowiekiem takim jak oni, wyśmiewali moje przesłanie i zasłaniali im uszy.",
+    "Dniem i nocą zwracałem się do nich z mądrością i łagodnymi napomnieniami, ale moje słowa zdawały się rozpływać w powietrzu, niesłyszane i niezauważane.",
+    "Zgodnie z boskim poleceniem zbudowałem na suchym lądzie ogromny statek z drewna i desek, a mój lud śmiał się ze mnie, jakbym stracił rozum.",
+    "Kiedy zgodnie z obietnicą nadeszła wielka powódź, mój syn odmówił wejścia na pokład statku, wierząc, że góra osłoni go przed wzbierającą wodą.",
+    "Stałem się patriarchą nowego początku na ziemi, a moja historia została opisana w rozdziale Koranu noszącym moje imię."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Noh",
+        "Prorok Ibrahim",
+        "Prorok Musa",
+        "Prorok Lut",
+        "Prorok Hud"
+      ],
+      "answer": "Prorok Noh"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wielka Potop, która zmieniła kształt Ziemi",
+        "Wrzucenie w płonący ogień przez bałwochwalców",
+        "Konfrontacja z magikami faraona w pałacu",
+        "Zniszczenie bogatych ogrodów przez niebiańską burzę",
+        "Wywrócenie mieszkańców okopów"
+      ],
+      "answer": "Wielka Potop, która zmieniła kształt Ziemi"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka zbudowana z drewna i desek",
+        "Święty dom zbudowany na starożytnych fundamentach",
+        "Laska, która przemieniła się w węża",
+        "Jaskinia śpiących młodzieńców",
+        "Tron niesiony przez potężne stworzenie"
+      ],
+      "answer": "Arka zbudowana z drewna i desek"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Niewierni utonęli, podczas gdy wierzący zostali uratowani na pokładzie statku",
+        "Ogień ostygł i ugaszono go bezpiecznie, a osoba wzywająca pomocy wyszła z niego bez szwanku",
+        "Magowie upadli na twarz i przyjęli wiarę",
+        "Ogród został przyznany sprawiedliwemu sąsiadowi na jego miejsce",
+        "Śpiący obudzili się po wiekach, przemienieni"
+      ],
+      "answer": "Niewierni utonęli, podczas gdy wierzący zostali uratowani na pokładzie statku"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

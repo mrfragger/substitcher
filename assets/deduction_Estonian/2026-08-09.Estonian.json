@@ -1,0 +1,61 @@
+{
+  "title": "Muistsete aegade tõene hääl",
+  "intro": "Koraanis on hing, kelle lugu on jutustatud vaid mõnes salmis, kuid tema õilsad omadused säravad särava selgusega. Kõigeväelisema poolt erilise vooruse eest kiidetud iidne Kõigehalastaja teener omab kohta ilmutuse lehekülgedel. Sinu ülesanne on see tähelepanuväärne tegelane tuvastada. Kas sa oskad arvata, kes ta on?",
+  "clues": [
+    "Ma olen Allahi prohvet, kes elas inimkonna varajaste põlvkondade seas.",
+    "Allah mainis mind oma raamatus koos teiste prohvetitega, keda kõiki kiideti sama ülla vooruse eest.",
+    "Koraanis kirjeldatakse mind tõe mehena.",
+    "Allah tõstis mind kõrgele positsioonile, milleni vähesed teised on jõudnud.",
+    "Minu nime mainitakse suuras Al-Anbiyas koos kahe teise prohvetiga, keda kiidetakse kannatlikkuse eest.",
+    "Mina olen Idris, tõemeelne ja ülev prohvet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Idris",
+        "Prohvet Noa",
+        "Prohvet Ibrahim",
+        "Prohvet Musa",
+        "Prohvet Ismail"
+      ],
+      "answer": "Prohvet Idris"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kannatlikkuse ja tõemeelsuse säilitamine ning seejärel kõrgele positsioonile tõusmine",
+        "Suure laeva ehitamine, et päästa usklikke laastavast veeuputusest",
+        "Lõõmavasse tulle heidetud ja sealt täiesti vigastusteta välja tulnud",
+        "Võimsa kuningaga silmitsi seismine ja tema võlurite armee alistamine",
+        "Ellujäämine suure kala kõhus mere sügavustes"
+      ],
+      "answer": "Kannatlikkuse ja tõemeelsuse säilitamine ning seejärel kõrgele positsioonile tõusmine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kõrge ja ülev seisus Allahi poolt",
+        "Plankudest ehitatud ja tõrvaga kaetud massiivne laev",
+        "Pahelise kuninga ebajumalakummardajate poolt õhutatud raevukas tuli",
+        "Tohutu meri, mis jagunes kuivadeks radadeks",
+        "Suure vaala tume kõht ookeani põhjas"
+      ],
+      "answer": "Kõrge ja ülev seisus Allahi poolt"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Allahi halastusse vastu võetud kui üks õigemeelsetest",
+        "Päästetud koos kõigi usklikega ülemaailmsest veeuputusest",
+        "Kõndisin leekidest välja, tulest puutumata",
+        "Juhtis Iisraeli lapsed turvaliselt üle mere vabadusse",
+        "Pärast pikki raskuste aastaid taasühinesid nad oma armastatud perega"
+      ],
+      "answer": "Allahi halastusse vastu võetud kui üks õigemeelsetest"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Gastfrëndlechkeet, déi Angscht bruecht huet",
+  "intro": "An enger Stad, déi vun der Béisheet zerstéiert gouf, krut en treie Knecht enges Daags onerwaart Visiteuren. Aus Suerg ëm seng Sécherheet huet dës Persoun Schutz ugebueden, awer d'Leit vun der Stad hunn eppes Schimmtes gefuerdert. Virun engem drohenden Ënnergang gewarnt, ass den Knecht mat senger Famill ënner dem Deckmantel vun der Däischtert geflücht an huet eng Stad hannerlooss, déi fir d'Zerstéierung markéiert war. Wien ass dëse einsame Gleewegen?",
+  "clues": [
+    "Ech gouf als Bote bei e Vollek geschéckt, dat sech schändlech Dote bedeelegt hat.",
+    "Onerwaart Visiteuren koumen bei mech heem, an ech hunn mir méi Suergen ëm hir Sécherheet gemaach wéi ëm meng eegen.",
+    "Meng Leit hunn aus béise Absicht gefuerdert, meng Gäscht ze gesinn, an ech hunn probéiert, mat hinnen ze vernünfteg ze sinn.",
+    "Meng Gäscht hunn sech als Engelen gewisen a mir den Uerder ginn, meng Famill matzehuelen a an der Nuecht ze goen.",
+    "Meng Fra huet dem Ruff fir ze flüchten net nogeduecht a war mat der selwechter Zerstéierung konfrontéiert wéi mäi Vollek.",
+    "Meng Stad gouf vun engem Reen vu Steng aus geschichtetem Leem ëmgekippt, hir héchst Deeler déi niddregst bruecht."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Lut",
+        "Prophet Musa",
+        "Prophet Ibrahim",
+        "Prophet Nuh",
+        "Prophet Hud"
+      ],
+      "answer": "Prophet Lut"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Ufuerderung vu mengem Vollek, meng Gäscht béiswëlleg unzegoen",
+        "D'Trennung vum Mier fir engem Tyrann ze flüchten",
+        "De Bau vun enger grousser Ark ënner Spott",
+        "D'Affer vu mengem Jong an engem Glaawensprof",
+        "D'Erfahrung, vun engem grousse Fësch verschléckt ze ginn"
+      ],
+      "answer": "D'Ufuerderung vu mengem Vollek, meng Gäscht béiswëlleg unzegoen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Déi ëmgekéiert Stad vu mengem Vollek",
+        "De Bierg, wou ech göttlech Ried kritt hunn",
+        "D'Ark, déi duerch eng grouss Iwwerschwemmung gesegelt ass",
+        "D'Kamel, dat aus dem Fiels erauskoum",
+        "De Gaart mat engem verstoppte gerechte Besucher"
+      ],
+      "answer": "Déi ëmgekéiert Stad vu mengem Vollek"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ech gouf mat menger Famill gerett, ier meng Stad ëmgekéiert gouf",
+        "Ech hunn mäi Vollek iwwer d'Mier an d'Fräiheet gefouert",
+        "Ech hunn eng grouss Ark gebaut an eng mächteg Iwwerschwemmung iwwerlieft",
+        "Mir gouf d'Herrschaft iwwer d'Wand an d'Djinn ginn",
+        "Ech hunn gedëlleg Leed ausgehalen a gouf mat enger Famill belount"
+      ],
+      "answer": "Ech gouf mat menger Famill gerett, ier meng Stad ëmgekéiert gouf"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

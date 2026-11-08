@@ -1,0 +1,61 @@
+{
+  "title": "Az időn túli álom",
+  "intro": "Képzelj el egy olyan időt, amikor az igazságot elhallgattatták, és a hívőket üldözték. Egy kis csoport a visszavonulást választotta a megadás helyett, menedéket találva a legvalószínűtlenebb helyen – egy olyan helyen, amely évszázadokon át a nyughelyükké vált. Mire végre felébredtek, a világ átalakult körülöttük. Kik ezek az alvó lelkek?",
+  "clues": [
+    "Fiatalok voltunk, akik egy ősi városban éltünk.",
+    "A közösségünk követelte, hogy velük együtt imádkozzunk, de mi ezt megtagadtuk.",
+    "Menedéket keresve menekültünk a városból azok elől, akik szembeszálltak a hitünkkel.",
+    "Egy hűséges négylábú társunk maradt a rejtekhelyünk bejáratánál.",
+    "Allah háromszázkilenc évig aludtatott minket.",
+    "Mire végre felébredtünk, egykor üldöző városunk hitre lelt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Ashab al-Kahf (A barlang népe)",
+        "Ashab al-Fil (Az elefántok serege)",
+        "Ashab al-Ukhdud (Az árok társai)",
+        "A Hawariyyun (Isa tanítványai)",
+        "Yajuj wa Majuj (Gog és Magog)"
+      ],
+      "answer": "Ashab al-Kahf (A barlang népe)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Barlangba vonultunk és évszázadokig aludtunk",
+        "Megmentettek minket egy lángoló tűzből",
+        "Elnyelt minket egy hatalmas hal",
+        "Egy csodálatos nőstény tevével próbára tettek minket",
+        "Kilenc egyértelmű jelet kaptunk"
+      ],
+      "answer": "Barlangba vonultunk és évszázadokig aludtunk"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy mély barlang a hegyekben",
+        "Egy hajó a nyílt tengeren",
+        "Egy magasodó építmény, amely az eget súrolja",
+        "Egy kert, amelyet két rivális oszt meg",
+        "Vas és réz gátja"
+      ],
+      "answer": "Egy mély barlang a hegyekben"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Arra ébredtünk, hogy városunk a hit felé fordult",
+        "A lángoló tűz hűvössé és békéssé vált",
+        "Egy ellenséges hadsereg a tengerbe fulladt",
+        "Köveket hordozó madarak pusztították el az ellenséget",
+        "Egy nagy hal engedett minket a partra"
+      ],
+      "answer": "Arra ébredtünk, hogy városunk a hit felé fordult"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

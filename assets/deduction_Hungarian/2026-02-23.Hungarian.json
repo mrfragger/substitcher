@@ -1,0 +1,61 @@
+{
+  "title": "A rejtett meggyőződés hangja",
+  "intro": "Egy zsarnoki udvar szívében, ahol a hitetlenség volt az ország törvénye, egy magányos lélek a hit és a félelem kötelékén sétált. Ez a hatalom középpontjához közel álló személy hallgatta, ahogy egy próféta üzenetét megvetéssel és fenyegetésekkel fogadták. Elérkezett az igazság pillanata, arra kényszerítve ezt a személyt, hogy válasszon a csendes biztonság és a veszélyes igazság kimondása között. Vajon fel tudod fedezni ennek a bátor szószólónak a kilétét?",
+  "clues": [
+    "Egy zsarnok házában éltem, és első kézből láttam az isteni jeleket elutasító arroganciát.",
+    "Titokban tartottam a hitemet, egy elrejtett kincset a bálványimádás palotájában.",
+    "Hallottam, hogy a vezetőm, akit szolgáltam, Allah egyik küldöttének, egy Mózes nevű férfinak a megölését tervezte.",
+    "Megkérdőjeleztem a logikájukat, emlékeztetve őket Nuh, 'Ad és Thamud népének sorsára.",
+    "Kritikus kérdést tettem fel népemnek: „Ha hazug, akkor hazugsága rajta van; de ha igazmondó, akkor ígéretei közül néhány lesújt majd rátok.”",
+    "A történetemet a hit példájaként meséli el a „Megbocsátó” című szúra, amelyben figyelmeztettem népemet a hatalmasok cselszövései ellen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A hívő Fir'awn családjából",
+        "Hámán",
+        "Fir'awn mágusai",
+        "Qarun",
+        "A szamiri"
+      ],
+      "answer": "A hívő Fir'awn családjából"
+    },
+    "trial": {
+      "label": "Mi volt a megpróbáltatásom?",
+      "options": [
+        "Mózes próféta védelme a zsarnok udvarában",
+        "Magas tornyot építve, hogy elérje az eget",
+        "Lángoló tűzbe vetve",
+        "Egy óriási hal lenyelte",
+        "Minden vagyon és egészség elvesztése"
+      ],
+      "answer": "Mózes próféta védelme a zsarnok udvarában"
+    },
+    "location": {
+      "label": "Mi volt az érvelésem témája?",
+      "options": [
+        "A próféta üzenetének elutasításának következménye",
+        "A szent fától származó jel iránti igény",
+        "Borjú készítése olvadt ékszerekből",
+        "A sziklából faragott teve csodája",
+        "Egy uralkodó álmainak értelmezése"
+      ],
+      "answer": "A próféta üzenetének elutasításának következménye"
+    },
+    "outcome": {
+      "label": "Mi volt az eredmény?",
+      "options": [
+        "Allah megmentette ezt az embert gonosz tervüktől",
+        "Az egész udvar azonnal átvette az iszlámot",
+        "A zsarnok megbánta bűneit a fulladás pillanatában",
+        "A zsarnokot elnyelte a föld",
+        "Az egyént távoli földre száműzték"
+      ],
+      "answer": "Allah megmentette ezt az embert gonosz tervüktől"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo Oyo Ebenga Bosembo",
+  "intro": "Na mokili ya kala ya Midian, epai mombongo ezalaki kokola mingi mpe ba caravanes ezalaki kotambola na esobe minene, mosakoli moko ya Allah atɛlɛmaki kati na bato oyo bapengwi na nzela ya bosembo. Mosali oyo ya Allah atindamaki na mission divine oyo ekomeka kondima ya communauté mobimba. Na nzela ya mimekano ya motema molai mpe molende, molimo oyo etelemaki ngwi na kopesaka likebisi oyo ekoyokana na lisolo. Okoki kofungola libombami ya momemi-nsango oyo ya molende?",
+  "clues": [
+    "Naponama na Allah mpo na kotambwisa bato oyo babosanaki mitinda ya bosembo mpe bosembo na misala na bango.",
+    "Napesaki nsango moko kobenga lisanga na ngai kosambela moto mosusu te longola se Allah mpe koloba na bosolo na makambo nyonso.",
+    "Nakebisaki mpenzampenza mpo na momeseno ya kanyaka ya kolya bozwi na nzela ya makambo oyo eyokani te na mibeko mpe nalobelaki ntina ya bobele kilo mpe bomekoli.",
+    "Bato na ngai bayanolaki makebisi na ngai na maseki, kobangisaka ete bakobengana ngai na mabele na bango soki nakobi nsango na ngai.",
+    "Natikalaki na ekateli na misio na ngai atako bonguna na bango, kosakolaka ete mbano na ngai ezali epai ya Allah kaka.",
+    "Bato na ngai bakangamaki na etumbu moko ya kobebisa ntango nabikisamaki na ngolu ya Nkolo na ngai, lokola etinda na ngai ekokisamaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Shu’aib",
+        "Mosakoli Hud",
+        "Mosakoli Salih",
+        "Mosakoli Luta",
+        "Mosakoli Muhammad صلى الله عليه وسلم"
+      ],
+      "answer": "Mosakoli Shu’aib"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kokutana na bato oyo baboyaki bosolo mpe bazalaki kobangisa etumbu mpo na kopesa nsango ya Allah",
+        "Kotatola Mpela Monene oyo ebebisaki bato oyo bazangi kondima ya ekólo moko",
+        "Kozwa emoniseli ntango ozali kosala mobembo na lobwaku ya笃",
+        "Momekano ya kondima ntango mokonzi moko ya konyokola amekaki kokanga monɔkɔ ya libiangi ya kondima Nzambe kaka moko",
+        "Ekolo商ezali kosenga mbula na ntango ya kokauka makasi nsima ya bambula ya kozanga botosi"
+      ],
+      "answer": "Kokutana na bato oyo baboyaki bosolo mpe bazalaki kobangisa etumbu mpo na kopesa nsango ya Allah"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mokili ya Midiane, epai bato na ngai bazalaki kotambwisa mombongo mpe mombongo na bango",
+        "Pont ya masuwa moko monene oyo ebikisaki bandimi na mpela ya likama",
+        "Libulu moko na ngomba moko ya mabanga epai bilenge nsambo balukaki ekimelo na minyoko",
+        "Engumba mosantu ya Yelusaleme epai bamemaki ngai mpo na mobembo ya butu",
+        "Ndako moko ya mokonzi na Sheba epai bokonzi moko monene emilengelaki mpo na kotatola elembo moko ya bonzambe"
+      ],
+      "answer": "Mokili ya Midiane, epai bato na ngai bazalaki kotambwisa mombongo mpe mombongo na bango"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bato na ngai bakangamaki na etumbu ya nsomo ntango nabikisamaki, mpo ete nakokisaki mokumba na ngai epai ya Allah",
+        "Bato oyo bazangi kondima babongwanaki na ba singe lokola bazalaki kobuka bandelo ya bule ya Allah",
+        "Banguna na ngai bayambaki kondima nsima ya komona mbongwana ya likamwisi",
+        "Mokili yango epambolamaki na mbula ebele mpe bomengo nsima ya bato bayambolaki",
+        "Nazalaki martiru na bato na ngai moko mpo naboyaki kotika mission na ngai"
+      ],
+      "answer": "Bato na ngai bakangamaki na etumbu ya nsomo ntango nabikisamaki, mpo ete nakokisaki mokumba na ngai epai ya Allah"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

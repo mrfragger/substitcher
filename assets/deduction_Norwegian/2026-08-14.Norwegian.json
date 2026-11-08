@@ -1,0 +1,61 @@
+{
+  "title": "De forbannede hendene",
+  "intro": "Du står i de svingete smugene i det gamle Mekka, hvor en sjel med innflytelse og rikdom en gang vendte seg bort fra sannhetens kall. Denne figurens historie er en sterk påminnelse om at blodsbånd ikke kan overvinne stolthetens lenker. Hvem er denne hvis navn gir gjenlyd av ilden som venter?",
+  "clues": [
+    "Jeg vandret i Mekkas gater med en stolthet som blindet meg for sannheten, selv om budbringeren var av mitt eget blod.",
+    "Mine eiendeler var enorme, men de ble en forbannelse snarere enn et skjold.",
+    "Veiledningens bok taler om min undergang og erklærer at mine hender og min kropp skal gå til grunne.",
+    "Min ektefelle sluttet seg til min fiendtlige kampanje og samlet torner for å spre på veien til den som påkalte Allah.",
+    "På dommedag vil jeg bli kastet inn i en flammende ild, og min ektefelle vil ha et tau av palmefiber rundt halsen.",
+    "Jeg er kjent under et navn som betyr «flammens far» – et navn som forutsier mitt evige hjem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Viktig prøve eller hendelse",
+      "options": [
+        "Motarbeidet profeten og ble forbannet i Koranen",
+        "Ledet en hær for å ødelegge Kabaen",
+        "Forsøkte å drepe profeten ved å kaste steiner",
+        "Nektet å tro på månens deling",
+        "Bygget et tårn for å nå himmelen"
+      ],
+      "answer": "Motarbeidet profeten og ble forbannet i Koranen"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Helvetes flammende ild",
+        "Musas stab",
+        "Nuhs ark",
+        "Zamzams brønn",
+        "Den gylne kalven"
+      ],
+      "answer": "Helvetes flammende ild"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Han skal gå inn i den flammende Ilden, og hans rikdom skal ikke gagne ham.",
+        "Han omvendte seg og ble en troende",
+        "Han ble tilgitt etter å ha gjentatt synden",
+        "Han døde som martyr",
+        "Han ble tatt opp til himmelen"
+      ],
+      "answer": "Han skal gå inn i den flammende Ilden, og hans rikdom skal ikke gagne ham."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

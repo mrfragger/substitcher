@@ -1,0 +1,61 @@
+{
+  "title": "Oihartzuna amildegietan zehar",
+  "intro": "Imajinatu amildegietatik etxeak zulatuta dauden haran bat, eta aireak abisu baten oroitzapena daramala, entzun gabekoa. Behin herri bat loratu zen hemen, bedeinkatua baina ausarta, harik eta konfiantza zuten harkaitzetik seinale bat agertu zen arte.",
+  "clues": [
+    "Mendietatik etxe seguruak zizelkatu genituen herria ginen, gure harkaitzezko etxeetan seguru sentituz.",
+    "Lautada eta harrizko lurralde batean bizi ginen, lorategiz eta iturburuez bedeinkatua.",
+    "Gure artetik mezulari bat etorri zen, gure jainko faltsuak alde batera utzi eta Sortzaile bakarra eta egiazkoa gurtzera deituz.",
+    "Harrokeriaz baldintza bat ezarri genion sinesmenari: guk zizelkatu genituen harkaitzetatik bertatik aterako zen seinale paregabe bat.",
+    "Agindutako gamelu emea harkaitzetik agertu zenean, seinale argia, gure eliteak uko egin zion eta hankarteak itxi zizkion, patu hurbilaren abisua izan arren.",
+    "Gure ekintzaren hiru egunetik, trumoi-leherketa batek oihartzun egin zuen haranean, eta hondakin bihurtu ginen, gure etxeak gure hilobi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "¿Ad-eko jendea",
+        "Thamudeko jendea",
+        "Madyango jendea.",
+        "Groveko jendea",
+        "Kobazuloko jendea"
+      ],
+      "answer": "Thamudeko jendea"
+    },
+    "trial": {
+      "label": "Gure Proba/Ekitaldi Nagusia",
+      "options": [
+        "Alaren gamelu emearen izterreko ebakidura",
+        "Urrezko txahalaren gurtza",
+        "Sabatuaren haustura",
+        "Zeruraino dorre baten eraikuntza",
+        "Profeten hilketa."
+      ],
+      "answer": "Alaren gamelu emearen izterreko ebakidura"
+    },
+    "location": {
+      "label": "Gure istorioko elementu gakoa",
+      "options": [
+        "Alaren gamelu emea",
+        "Musaren langileak.",
+        "Nuh-ren arka",
+        "Musaren esku zuria",
+        "Isa-ren txoria"
+      ],
+      "answer": "Alaren gamelu emea"
+    },
+    "outcome": {
+      "label": "Gure emaitza",
+      "options": [
+        "Suntsipena eztanda izugarri batek eraginda",
+        "Harri-euri bat zerutik",
+        "Lurra estali zuen uholde batek",
+        "Haize bortitz batek errotik kendu gintuen",
+        "Lurrak irensten gaitu"
+      ],
+      "answer": "Suntsipena eztanda izugarri batek eraginda"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

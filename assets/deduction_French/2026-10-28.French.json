@@ -1,0 +1,61 @@
+{
+  "title": "Une promesse prononcée sur des braises",
+  "intro": "Vous vous tenez près d'un feu de désert dont les braises sont soigneusement dispersées. Des visiteurs arrivent pour une rencontre dans le silence, et un simple message ouvre une histoire de promesses, de surprises et d'un avenir encore incertain.",
+  "clues": [
+    "Nous avons parcouru la distance pour rejoindre un fidèle serviteur dans le désert.",
+    "Nous avons demandé que des braises soient répandues pour préparer un feu.",
+    "Nous avons parlé à une personne qui avait invoqué une flamme pour se rafraîchir et se sentir en sécurité.",
+    "Nous avons annoncé la naissance d'un enfant à une personne qui avait dépassé l'âge d'en avoir.",
+    "Nous avons nommé l'enfant promis Isaac.",
+    "Nous avons annoncé à Ibrahim la bonne nouvelle de la naissance d'un fils, et cette nouvelle étonnante l'a fait rire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les anges qui ont apporté la bonne nouvelle d'Isaac à Ibrahim",
+        "Les anges qui ont averti Lut",
+        "Les anges porteurs du trône",
+        "Les anges de l'enfer",
+        "Les anges envoyés à Noé"
+      ],
+      "answer": "Les anges qui ont apporté la bonne nouvelle d'Isaac à Ibrahim"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il annonça à Ibrahim la bonne nouvelle de la naissance d'Isaac.",
+        "Lut avertit avant le châtiment de son peuple",
+        "Annonce de la naissance de Yahya à Zakariyya",
+        "Porter le trône au jour du jugement",
+        "Annonce de la naissance d'Isa à Maryam"
+      ],
+      "answer": "Il annonça à Ibrahim la bonne nouvelle de la naissance d'Isaac."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un feu préparé à partir de braises dispersées",
+        "Une arche flottant sur les eaux de crue",
+        "Une grotte scellée par une pierre roulante",
+        "Une montagne d'argile durcie par la saumure",
+        "Une échelle s'élevant vers le ciel"
+      ],
+      "answer": "Un feu préparé à partir de braises dispersées"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Bonne nouvelle : un fils nommé Isaac",
+        "Bonne nouvelle : naissance d'un fils nommé Yahya",
+        "Le choix de Talout comme souverain des Enfants d'Israël",
+        "Un avertissement avant le châtiment du peuple de Lut",
+        "L'ordre de construire une arche avant le Déluge"
+      ],
+      "answer": "Bonne nouvelle : un fils nommé Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

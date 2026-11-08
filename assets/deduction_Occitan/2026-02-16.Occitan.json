@@ -1,0 +1,61 @@
+{
+  "title": "La revendicacion de l'autoritat absoluda",
+  "intro": "Dins l'antiquitat, un individú poderós montava al domini d'una tèrra vasta e de sos abitants. Lo règne d'aquela figura foguèt marcat per una fiertat immensa e un desfís prigond a l'autoritat divina. Preparatz-vos a descobrir l'identitat d'una anma que son destin final venguèt una leiçon duradissa per totas las generacions.",
+  "clues": [
+    "Teniái lo poder sus un empèri poderós, ont ma paraula èra lei.",
+    "Me declarèri la divinitat suprèma, exigissent l'adoracion de totes jos mon règne.",
+    "Oprimèri una comunautat especifica, las esclavizant e ordenant la tuariá de lors mascles infantils.",
+    "Foguèri confrontat a maitas represas per un umil messatgièr de Dieu, que faguèt de miracles clars davant ieu e mos magicians.",
+    "Refusèri testardament la vertat, en acusant lo messatgièr de bruèissa e en complotant per lo destruire e sos seguidors.",
+    "Tota mon armada e ieu foguèrem engolits per la mar del temps que perseguissiam incessantament los qu'èran estats liberats de ma presa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Nimròd",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Aman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Lo Grand Diluvi",
+        "Lo fuòc ardent",
+        "L'afogament de l'opressor",
+        "La destruccion pel vent",
+        "Lo tèrratrem de l'incredulitat"
+      ],
+      "answer": "L'afogament de l'opressor"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca de Noè",
+        "Lo Baston de Moïses",
+        "L'Idola d'Aur",
+        "Lo Potz de Zamzam",
+        "Lo Tròn de Bilqis"
+      ],
+      "answer": "Lo Baston de Moïses"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Concedida un vast reialme",
+        "Còrs conservat coma signe",
+        "Perdonat après lo repentiment",
+        "Elevat a la profecia",
+        "Son pòble venguèt piós"
+      ],
+      "answer": "Còrs conservat coma signe"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

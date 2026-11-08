@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Dhidi ya Vizito vya Uongo",
+  "intro": "Nafsi ya uaminifu ililelewa miongoni mwa wafanyabiashara na wafanyabiashara katika nchi ambapo mizani iliinama na vipimo vilifupishwa. Mtu huyu alisimama peke yake dhidi ya ukosefu wa uaminifu wa taifa zima, akiwaita kwenye haki na ibada ya Mungu Mmoja wa Kweli. Ingawa ujumbe ulikuwa wazi na wito ulikuwa wa haki, watu walikataa kusikiliza na walikabiliwa na hatima mbaya. Je, unaweza kumtambua mjumbe huyu mtukufu kutoka Quran?",
+  "clues": [
+    "Nilitumwa kama mjumbe kwa watu ambao riziki zao zilizunguka biashara na biashara.",
+    "Watu wangu walijulikana kote nchini kwa kutoa vipimo vifupi na kudanganya katika mizani.",
+    "Pia waliwatisha wasafiri barabarani na kueneza ufisadi duniani kote.",
+    "Niliwahimiza wamwabudu Mwenyezi Mungu pekee na kuwa waaminifu kabisa katika kushughulika kwao na wengine.",
+    "Walikataa ujumbe wangu na kutishia kunifukuza mimi na wale walioamini pamoja nami kutoka katika nchi.",
+    "Mwenyezi Mungu aliniokoa mimi na wafuasi wangu kwa rehema zake, huku madhalimu wakikamatwa na adhabu kali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Shuaib",
+        "Nabii Lut",
+        "Nabii Hud",
+        "Nabii Salih",
+        "Nabii Nuh"
+      ],
+      "answer": "Nabii Shuaib"
+    },
+    "trial": {
+      "label": "Dhambi ya Watu Wangu",
+      "options": [
+        "Kudanganya katika uzani na vipimo",
+        "Kujenga mnara mrefu dhidi ya anga",
+        "Kudai ngamia jike kutoka kwenye mwamba",
+        "Kuwapiga manabii waliotumwa kwao",
+        "Kuwazika wasichana wachanga wakiwa hai"
+      ],
+      "answer": "Kudanganya katika uzani na vipimo"
+    },
+    "location": {
+      "label": "Watu Wangu",
+      "options": [
+        "Watu wa Madyan",
+        "Watu wa 'Aad",
+        "Watu wa Thamud",
+        "Watu wa Farao",
+        "Watu wa Sabato"
+      ],
+      "answer": "Watu wa Madyan"
+    },
+    "outcome": {
+      "label": "Mwisho Wao",
+      "options": [
+        "Kilio cha kuchosha kiliwashika usiku",
+        "Mafuriko makubwa yaliwazamisha wote",
+        "Upepo mkali wa baridi uliwaangamiza",
+        "Mawe ya udongo uliookwa yaliwanyeshea mvua",
+        "Waligeuzwa kuwa nguzo za mawe"
+      ],
+      "answer": "Kilio cha kuchosha kiliwashika usiku"
+    }
+  },
+  "verseRef": "11:94",
+  "arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+  "verse": "And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone (11:94)"
+}

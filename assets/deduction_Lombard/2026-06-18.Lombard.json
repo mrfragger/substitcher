@@ -1,0 +1,61 @@
+{
+  "title": "El prim a cercà el perdun",
+  "intro": "Torna a un temp prima del prim alba, prima che qual-sa-vöör mortal caminava sü la terra. Una figura ‘l é staita creada cond i materiai plu umil, dada una stazion sora i angel e metuda ind un jardin sacr cond un ciar avvertiment. Eppure in ün solo mument, l’è stada fada una scelta, una che l’avaria fad eco in tutta la storia de l’òmm. Chi l’è chesta figüra?",
+  "clues": [
+    "Sun stà creà en mod diferent de qual-sa-vöör olter - creà de la polvar de la terra e dat un’anema vivent de la man del Creatur.",
+    "G’ho ricevü una cognossenza inscì prufunda che anca i angel de sora se meravigliavan.",
+    "Tut el ciel l’è stait comandad de inclinar-s denanz a mi, e tuts i se inn sottometuds - trann vun, qe l’ha refudad per orgoi.",
+    "Sun stà mettü en un giardin sacr, un sit cun eterno cunfort e pruvisiun, ma cunt un strict vieto.",
+    "Me son desmentegà, sun sciupà e g’ho minga obedì, e sentii profondament el pes del me errur.",
+    "Me son voltà al me Signur cun parolles sincer, e Luu g’ha acetà el me pentiment, perché L’è el Püsee Perdonant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Adam",
+        "El prufeta Dawud",
+        "Profeta Maometo",
+        "Iblis",
+        "El prufeta Yaqub"
+      ],
+      "answer": "Profeta Adam"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "A i angel l’è stait comandad de prostrar-s",
+        "El Grand Diluvi l’è stà mandà",
+        "Un grand fœuch l’è stà rendü frècc e sicür",
+        "Un suvran arugant l’è stà affogad in del mar",
+        "Un esercit de elefant l’è stà distrutt"
+      ],
+      "answer": "A i angel l’è stait comandad de prostrar-s"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El giardin de la beatitudin",
+        "El Monte Sinai",
+        "La Mosqea Sacra",
+        "El fiumm Nil",
+        "La Grota"
+      ],
+      "answer": "El giardin de la beatitudin"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "El pentiment l’è stà acetà de Allah",
+        "Anegato in del mar",
+        "Inglutì da un grand pess",
+        "La naziun l’è stada colpida de un esplosiun fort",
+        "Brusà de un vent brusant"
+      ],
+      "answer": "El pentiment l’è stà acetà de Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

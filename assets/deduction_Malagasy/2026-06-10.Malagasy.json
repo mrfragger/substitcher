@@ -1,0 +1,61 @@
+{
+  "title": "Ireo Mpiambina ny Zaridaina",
+  "intro": "Tao anaty zaridaina maitso mavana iray, nisy vondrom-piarahamonina iray nanao voady masina. Saingy nosedraina ny fahavononany rehefa niditra an-tsehatra ny sitrapon'Andriamanitra, ka nanova ny harenany ho tany ngazana.",
+  "clues": [
+    "Notahina tamin'ny zaridaina lonaka izahay, saingy lasa niavonavona.",
+    "Nanao drafitra izahay mba hijinja nefa tsy nizara izany tamin'ny mahantra.",
+    "Niainga vao maraina izahay, sady natoky tena tamin'ny tetika nataonay.",
+    "Saingy rehefa tonga izahay dia hitanay fa rava nandritra ny alina ny zaridainanay.",
+    "Tsapanay ny fahadisoanay ka nanomboka nifampilaza izahay.",
+    "Nibebaka ihany izahay nony farany, saingy tara loatra ny lesona azo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Olona ao amin'ny Zaridaina",
+        "Olona ao amin'ny lava-bato",
+        "Vahoakan'ny Elefanta",
+        "Vahoakan'ny Thamoud",
+        "Vahoakan'i 'Ad"
+      ],
+      "answer": "Olona ao amin'ny Zaridaina"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Zaridaina iray no lasa lavenona",
+        "Safodrano izay nandrava ny zava-drehetra",
+        "Mosary namely ny tany",
+        "Tafiky ny vorona manafika",
+        "Rivo-mahery izay nanongotra hazo"
+      ],
+      "answer": "Zaridaina iray no lasa lavenona"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Zaridaina iray",
+        "Lava-bato",
+        "Sambo iray",
+        "Tendrombohitra iray",
+        "Lapa iray"
+      ],
+      "answer": "Zaridaina iray"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nibebaka izy ireo saingy very ny zaridainany",
+        "Ringana tanteraka izy ireo",
+        "Novaina ho rajako izy ireo",
+        "Novonjen'ny finoana izy ireo",
+        "Lasa mpitondra izy ireo"
+      ],
+      "answer": "Nibebaka izy ireo saingy very ny zaridainany"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

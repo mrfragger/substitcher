@@ -1,0 +1,61 @@
+{
+  "title": "Inuwar da ke Bayan Al'arshi",
+  "intro": "Kana tsaye a cikin kotunan wata tsohuwar masarauta mai girma, inda wani mai iko ya ayyana kansa a matsayin allah ga dukkan mutane. A gefen wannan mai mulki akwai wani bawa mai aminci, wanda aka ba shi amanar manyan burin masarautar. Tare, suna shirya makirci da shiri, suna ƙin bin gargaɗin da aka aiko don ya jagorance su. Za ka iya gano ko wanene wannan bawa mai aminci?",
+  "clues": [
+    "Na rayu a cikin wata babbar masarauta wadda wani mutum mai iko yake mulkinta wanda ya yi iƙirarin allahntaka a kan dukkan mutane.",
+    "Na yi aiki a matsayin amintaccen ministan wannan masarauta, ina aiwatar da duk wani buri da umarninsu.",
+    "Lokacin da wani manzon Allah ya zo ƙasarmu yana kiranmu zuwa ga gaskiya, ni da sarkina muka ƙi saurara.",
+    "An umarce ni da in kunna babbar wuta kuma in shirya tubalan yumbu don babban gini.",
+    "Mai mulkina yana son gina wani gini mai tsayi sosai har ya kai sama.",
+    "A ƙarshe, ni da mai mulkina, da rundunarmu, muka tafi, muka nutse a cikin zurfin teku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Gina hasumiya don isa ga sammai",
+        "Ana jefa shi cikin wuta mai ƙuna",
+        "Farkatar da mutane daga bauta wa gumakan dutse",
+        "Raba wata a matsayin alamar allahntaka",
+        "Cin nasara a kan babban birni ta hanyar umarnin Allah"
+      ],
+      "answer": "Gina hasumiya don isa ga sammai"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Hasumiyar tubalin yumbu da aka gasa",
+        "Cikin kifin whale",
+        "Maɓuɓɓugar ruwa mai tsarki a cikin hamada",
+        "Daji mai ƙonewa a kan dutse mai tsarki",
+        "Jirgin ruwa yana ɗauke da iyali da aka zaɓa"
+      ],
+      "answer": "Hasumiyar tubalin yumbu da aka gasa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An nutsar da shi cikin zurfin teku",
+        "An ɗaga shi zuwa aminci a cikin wani kyakkyawan fada",
+        "An cece shi daga cikin babban kifi",
+        "An girmama shi da sarauta da hikimar Allah",
+        "An mayar da shi ƙura saboda kuka mai ratsa zuciya"
+      ],
+      "answer": "An nutsar da shi cikin zurfin teku"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

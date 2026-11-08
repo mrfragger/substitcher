@@ -1,0 +1,61 @@
+{
+  "title": "zvezdno obsijano iskanje gotovosti",
+  "intro": "Predstavljajte si, kako stojite pod prostranim nočnim nebom in opazujete svetle luči, ki vzhajajo in nato ugasnejo, medtem ko iščete tisto, kar si resnično zasluži predanost. Okoli vas tihe izrezljane podobe prejemajo hvalo in daritve, a jasen razum dvomi o njihovi moči. Neustrašen glas se bo kmalu postavil pod vprašaj podedovano tradicijo in pokazal na Stvarnika nebes in zemlje.",
+  "clues": [
+    "Pogledal sem zvezde, luno in sonce ter sklepal, da ne morejo biti moj Gospod, ker zaidejo in izginejo.",
+    "Odkrito sem zanikal, kar moje ljudstvo časti poleg Alaha, in jih pozval, naj častijo samo Stvarnika.",
+    "Prepiral sem se z bahavim vladarjem, ki je trdil, da daje življenje in smrt, in odgovoril sem z omembo Alaha, ki prinaša sonce z vzhoda.",
+    "Udaril sem malike in jih razbil, tako da sem pustil le največjega med njimi, da bi se ljudje lahko vrnili k njemu.",
+    "Moje ljudstvo me je zgrabilo in obsodilo, reklo mi je, naj zgradim zgradbo in me vrže v plameneči ogenj.",
+    "Rešen sem bil, ko je Allah ukazal, naj bo ogenj zame hlad in varnost."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Ibrahim (Abraham)",
+        "Prerok Jahja (Janez)",
+        "Prerok Al-Jasa (Eliš",
+        "Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Prerok Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Soočil se je z malikovanjem in razpravljal o pomenu nebesnih teles",
+        "Po jeznem odhodu ga je pogoltnila velika riba.",
+        "Vodil je sledilce skozi morje, ki ga je razdvojil Alah",
+        "Bil je živ dvignjen v nebesa, ne da bi okusil smrt",
+        "Dolga leta je spal v jami s tovariši"
+      ],
+      "answer": "Soočil se je z malikovanjem in razpravljal o pomenu nebesnih teles"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Plameneči ogenj, ki ga je Alah ohladil in varoval",
+        "Barka, ki je vernike prepeljala skozi potop",
+        "Palica, ki se je spremenila v kačo",
+        "Miza se je razprostrla z neba",
+        "Kamela, poslana kot znamenje"
+      ],
+      "answer": "Plameneči ogenj, ki ga je Alah ohladil in varoval"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Zaščiteno pred ognjem in podarjeno pravičnim potomcem",
+        "Utopljen z zanikalci v veliki poplavi",
+        "Preobrazba zaradi kršenja sobote",
+        "Uničeno od ptic, ki so nosile glinene kamne",
+        "Požrta od zemlje z zakladi"
+      ],
+      "answer": "Zaščiteno pred ognjem in podarjeno pravičnim potomcem"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

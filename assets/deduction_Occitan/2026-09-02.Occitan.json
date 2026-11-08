@@ -1,0 +1,61 @@
+{
+  "title": "Lo sòm al delà del temps",
+  "intro": "Imaginatz un temps ont la vertat èra silenciada e los cresents èran caçats. Un pichon grop causiguèt de se retirar puslèu que de se rendre, en trobant refugi dins los luòcs mai improbables — un luòc que vendriá lor luòc de repaus pendent de sègles al delà del compte. Quand se desrevelhèron enfin, lo mond s'èra transformat a l'entorn d'eles. Qui son aquelas anmas endormidas?",
+  "clues": [
+    "Èrem de joves que viviam dins una vila anciana.",
+    "Nòstra comunautat demandèt que adorèssem amb eles, mas refusèrem.",
+    "Fugiguèrem la vila a la recèrca de refugi d'aqueles que s'opausavan a nòstras cresenças.",
+    "Un fidèl companh de quatre patas demorèt a l'intrada de nòstre rescondut.",
+    "Allah nos faguèt dormir tres cents nòu ans.",
+    "Quand nos desrevelhèrem finalament, nòstra vila un còp èra perseguida aviá embraçat la fe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Ashab al-Kahf (Los gents de la cauna)",
+        "Ashab al-Fil (L'Armada de l'Elefant)",
+        "Ashab al-Ukhdud (Los companhs de la fossa)",
+        "Los Hawariyyun (Discipols d'Isa)",
+        "Yajuj wa Majuj (Gog e Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Los gents de la cauna)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Nos retirèrem dins una cauna e dormiguèrem pendent de sègles",
+        "Foguèrem salvats d'un fuòc ardent",
+        "Foguèrem engolits per un grand peis",
+        "Foguèrem testats amb una camèla miraculosa",
+        "Nos donèron nòu signes clars"
+      ],
+      "answer": "Nos retirèrem dins una cauna e dormiguèrem pendent de sègles"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una cauna prigonda dins las montanhas",
+        "Una barca sus la mar dubèrta",
+        "Una estructura torrejanta qu'arriba als cèls",
+        "Un jardin devesit entre dos rivals",
+        "Una barrièra de fèrre e de coire"
+      ],
+      "answer": "Una cauna prigonda dins las montanhas"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Nos desrevelhèrem per trobar que nòstra vila s'èra virada cap a la fe",
+        "Un fuòc ardent venguèt fresc e pacific",
+        "Una armada enemiga foguèt afogada dins la mar",
+        "D'aucèls portant de pèiras destruguèron l'enemic",
+        "Un grand peis nos lancèt sus la riba"
+      ],
+      "answer": "Nos desrevelhèrem per trobar que nòstra vila s'èra virada cap a la fe"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

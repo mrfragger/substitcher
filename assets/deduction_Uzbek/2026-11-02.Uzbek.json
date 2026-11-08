@@ -1,0 +1,61 @@
+{
+  "title": "Oltin sinovida qat'iy ittifoqchi",
+  "intro": "Buyuk payg'ambar soyasida, ulkan missiyaga yordam berish uchun notiqlik va iymonga ega ruh tanlandi. Bu shaxs omma ikkilanganda qat'iy turdi va monoteizmning asosiy mohiyatiga tahdid soladigan ochiq-oydin qonunbuzarlikka qarshi va'z qildi. Payg'ambar xalqning halok bo'lishiga guvoh bo'lish uchun qaytib kelganida, bu shaxsning himoyasi aybdorlik emas, balki burch va bo'linishdan qo'rqish edi. Allohning bu fidoyi bandasi kim?",
+  "clues": [
+    "Men Alloh tomonidan boshqa birov bilan birga muqaddas burch uchun tanlanganman va mening vazifam qo'llab-quvvatlash va e'lon qilish edi.",
+    "Menga nutq ravshanligi berildi va men kuchli zolimga qarshi turish uchun elchi bilan birga bordim.",
+    "Muhim safar paytida xabarchi yolg'iz o'zi toqqa chiqdi va meni odamlarni kuzatishga qoldirdi.",
+    "Ularning yo'qligida odamlar oltin haykal yasashdi va men ulardan sodiq qolishlarini iltimos qildim, ammo ular mening maslahatimni rad etishdi.",
+    "Xabarchi g'azab va qayg'uga to'lib qaytib kelganida, men o'zimni tutib oldim, lekin men mag'lubiyatga uchraganimni va ular orasida nizo chiqarishdan qo'rqqanimni tushuntirdim.",
+    "Men akam Muso bilan birga turgan, uning yukini baham ko'rgan va butparastlikka qarshi sobitqadam bo'lgan payg'ambarman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Horun payg'ambar",
+        "Muso payg'ambar",
+        "Payg'ambar Iso",
+        "Payg'ambar Dovud",
+        "Zakariyo payg'ambar"
+      ],
+      "answer": "Horun payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Odamlar ogohlantirishlarga qaramay, oltin buzoqqa sig'inishdi",
+        "Odamlar meni alangali olovga tashlashdi",
+        "Meni katta baliq yutib yubordi",
+        "Meni soxta ayblovlar bilan qamoqqa olishdi",
+        "Meni va'z qilganim uchun shahrimdan quvg'in qilishdi"
+      ],
+      "answer": "Odamlar ogohlantirishlarga qaramay, oltin buzoqqa sig'inishdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Yonayotgan buta",
+        "Ilonga aylangan tayoq",
+        "Ahd lavhalari",
+        "Ahd sandig'i"
+      ],
+      "answer": "Oltin buzoq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Men oqlandim va payg'ambarlik vazifamni davom ettirdim",
+        "Men xalqning gunohi uchun jazolandim",
+        "Menga yo'l-yo'riq ko'rsatish uchun yangi xalq berildi",
+        "Men tiriklayin osmonga ko'tarildim",
+        "Meni bir shohlik ustidan hukmdor qilib tayinlashdi"
+      ],
+      "answer": "Men oqlandim va payg'ambarlik vazifamni davom ettirdim"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

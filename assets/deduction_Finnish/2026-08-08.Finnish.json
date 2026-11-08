@@ -1,0 +1,61 @@
+{
+  "title": "Ääni ennen myrskyä",
+  "intro": "Erämaassa nousi hahmo kutsumaan mahtavan kansakunnan takaisin totuuteen. Ihmiset tunnettiin upeista rakennuksistaan ​​ja vertaansa vailla olevasta voimastaan. Silti heidän ylpeytensä sokaisi heidät, eivätkä he suostuneet kuuntelemaan. Lopulta heitä kohtasi tuhoisa rangaistus, joka säästi vain pienen joukon uskovia.",
+  "clues": [
+    "Minut lähetettiin mahtavien ihmisten luo, jotka asuivat avoimilla mailla ja olivat tunnettuja mahdistaan.",
+    "Kansani tuli toisen suuren, tuhotun kansakunnan perään.",
+    "Heillä oli upeita rakennuksia ja he rakensivat korkeita torneja.",
+    "Kutsuin heitä palvomaan yhtä Jumalaa, mutta he kieltäytyivät hylkäämästä epäjumaliaan.",
+    "Heitä kohtasi väkivaltainen rangaistus, joka säästi vain ne, jotka uskoivat minun kanssani.",
+    "Minut lähetettiin mahtavan kansan luokse, joka tunnetaan nimellä Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Hud",
+        "Profeetta Salih",
+        "Profeetta Shu'aib",
+        "Profeetta Nooa",
+        "Profeetta Ibrahim"
+      ],
+      "answer": "Profeetta Hud"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri tulva",
+        "Myrskyisä ja raju tuuli",
+        "Maanjäristys ja kauhistuttava huuto",
+        "Palavien kivien sade",
+        "Taivaallinen tuli ylhäältä"
+      ],
+      "answer": "Myrskyisä ja raju tuuli"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Suuri arkki rakennettu vuorelle",
+        "Ainutlaatuinen naaraskameli",
+        "Sauva, josta tuli käärme",
+        "Korkeat rakennukset ja korkeat rakennelmat",
+        "Liekehtivä rovio"
+      ],
+      "answer": "Korkeat rakennukset ja korkeat rakennelmat"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Kaikki hukkuivat suureen tulvaan",
+        "Kansani tuhoutui rajussa tuulessa, kun minut pelastettiin",
+        "Kansaani iski maanjäristys ja he itkevät",
+        "Kansaani heiteltiin kivillä taivaalta",
+        "Kansani heitetään roihuavaan tuleen"
+      ],
+      "answer": "Kansani tuhoutui rajussa tuulessa, kun minut pelastettiin"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

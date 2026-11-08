@@ -1,0 +1,61 @@
+{
+  "title": "Momekano ya Lolemo Mosantu",
+  "intro": "Na mokili moko ya kala epai wapi komipesa na mabanga oyo eyemami ezwaki misisa na ndako nyonso, moto moko atɛlɛmaki mosika. Na nzela ya bondimi ya koningana te mpe bobateli ya bonzambe, bakutanaki na oyo esengelaki kozala liwa ya solo — mpe batambolaki kozanga kozoka. Okoki komonisa bomoto ya molimo wana ya kokamwa?",
+  "clues": [
+    "Nakolaki na kati ya bato oyo bafukamaki liboso ya bikeko oyo bayemaki na maboko na bango moko, kondimaka ete biloko wana ezalaki na nguya ya bonzambe.",
+    "Ntango natɛmɛlaki bindimeli na bango, balongolaki ngai na mosala na ebandeli, kasi nakokaki te kotikala nyɛɛ mpo na solo oyo nayebaki.",
+    "Mokolo moko oyo bayanganisaki bango mosika, nabebisaki bikeko na bango, natikaki kaka oyo eleki monene oyo esimbamaki te.",
+    "Ntango bazongaki mpe bamonaki oyo nasalaki, bakambi na bango bapesaki mitindo ete bátonga mɔtɔ monene, na mokano ya kobwaka ngai na mɔ́tɔ.",
+    "Babwakaki ngai na moto oyo ezalaki kopela, kasi Nkolo ya mokili atindaki yango ekoma malili mpe na libateli mpo na ngai.",
+    "Nabimaki na mɔ́tɔ kozanga kozoka mpenza, nzokande baoyo bazalaki kosala mwango mpo na kobundisa ngai bakutanaki na libebi mpenza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ibrahim",
+        "Mosakoli Musa",
+        "Mosakoli Nuh",
+        "Mosakoli Yis",
+        "Mosakoli Yusuf"
+      ],
+      "answer": "Mosakoli Ibrahim"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobwakama na mɔtɔ oyo ezali kopela",
+        "Komelama na baleine moko monene",
+        "Kobika na mpela monene",
+        "Kobwakama na libulu ya mozindo",
+        "Kokutana na banganga-nkisi ya mokonzi moko"
+      ],
+      "answer": "Kobwakama na mɔtɔ oyo ezali kopela"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Likonzí monene ya mabaya oyo ezali kozika",
+        "Sanduku moko monene ya mabaya",
+        "Ekeko ya mwana ya ngɔmbɛ ya wolo",
+        "Kitunga oyo ezali kopumbwapumbwa likoló ya ebale",
+        "Kiti ya bokonzi moko ya kokamwa"
+      ],
+      "answer": "Likonzí monene ya mabaya oyo ezali kozika"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Allah asali que moto ezala malili pe ezala na sécurité",
+        "Masuwa yango ekitanaki malamu na ngomba moko",
+        "Ekeko ya wolo enyangwaki liboso ya miso na bango",
+        "Mokonzi moko ya mabe ná basoda na ye bazindaki na mbu",
+        "Moto moko oyo akufá miso emonanaki lisusu"
+      ],
+      "answer": "Allah asali que moto ezala malili pe ezala na sécurité"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

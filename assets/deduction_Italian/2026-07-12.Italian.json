@@ -1,0 +1,61 @@
+{
+  "title": "La città perduta di maestosità incomparabile",
+  "intro": "Un tempo una potente civiltà dominava vaste distese della terra, celebre per le sue imponenti strutture che si innalzavano verso il cielo. Eppure, sotto questa magnificenza, cresceva un'ostinata negazione: il rifiuto di dare ascolto all'avvertimento divino proveniente dall'interno della comunità stessa. Orgoglio e arroganza avrebbero presto scatenato una punizione di cui né la terra né i cieli avevano mai visto l'eguale.",
+  "clues": [
+    "Un tempo dominavamo vaste distese di terra, vantandoci di una forza che credevamo ineguagliabile da qualsiasi altra civiltà.",
+    "Il nostro regno era famoso per le sue imponenti strutture con possenti colonne, che non avevano eguali in nessuna terra conosciuta.",
+    "Dalla nostra stessa comunità si è levato un monito, che ha esortato ciascuno di noi a sottomettersi unicamente all'Unico Creatore.",
+    "Abbiamo respinto il messaggio che ci era stato recapitato e ci siamo rifiutati di abbandonare il cammino che avevamo ereditato.",
+    "Un vento furioso e ululante di una violenza inaudita si scatenò contro di noi, lasciandoci completamente indifesi.",
+    "Fummo lasciati come tronchi di palma cavi, dispersi e dimenticati, come monito per ogni generazione futura."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Popolo di A'ad",
+        "Popolo di Nuh",
+        "Popolo di Lutero",
+        "Popolo di Madyan",
+        "Abitanti di Tubba'"
+      ],
+      "answer": "Popolo di A'ad"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Un vento impetuoso e implacabile di punizione severa",
+        "Un'alluvione che ha sommerso ogni cima montuosa",
+        "Una pioggia di pietre di argilla incandescenti dall'alto",
+        "Un unico, terrificante urlo proveniente dal cielo",
+        "Un violento terremoto che ha spaccato la terra"
+      ],
+      "answer": "Un vento impetuoso e implacabile di punizione severa"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Iram, la città delle alte colonne",
+        "Una gigantesca arca di legno costruita su una montagna",
+        "Una cammella emersa miracolosamente dalla pietra",
+        "Monte Sinai dove discesero i comandamenti divini",
+        "Un palazzo di cristallo e vetro pregiato affacciato su acque cristalline."
+      ],
+      "answer": "Iram, la città delle alte colonne"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Lasciati lì come tronchi di palma cavi, sparsi e senza vita",
+        "Annegato sotto le onde travolgenti di una grande alluvione",
+        "Trasformati in creature simili a scimmie e maiali",
+        "Schiacciato sotto una pioggia di pietre di argilla indurita",
+        "Consumato in un unico grido assordante che trafisse l'anima"
+      ],
+      "answer": "Lasciati lì come tronchi di palma cavi, sparsi e senza vita"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

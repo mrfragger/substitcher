@@ -1,0 +1,61 @@
+{
+  "title": "Sakey a Pankubkob ed Silong na Biglan Katawenan",
+  "intro": "Manalalagey ka ed arap na makapataktakot ya armada ya onaasingger ed sakey a respetadon santuaryo, ya akaparaan so amin ya armas tan singa segurado so itatalona. Antis ya onggapo so panangataki, walay ag-iilaloan a pakayari ya pinmatnag ed tagey, tan say panlalaban et nagmaliw ya anggapoy makaamta.",
+  "clues": [
+    "Nanmartsa kami tekep na kompiyansa ya anggapoy mangaraldalin a pakayari a makapangiyegyeg.",
+    "Angawit kami na saray mabiskeg ya elepante, tan singa akapaliber ed sikara so puersa mi.",
+    "Linma kami pian deralen so sakey a respetadon santuaryo, ya manisia kamin segurado lay itatalona mi.",
+    "Nen akasabi kami diman, sakey a pulok so linmabas ed katawenan ed tagey mi.",
+    "Saray manok et angibantak na saray bato ya gawad pinaawet a pitek ed saray sundalo mi.",
+    "Sigpot kamin atalo kanyan abuyak tan nitaytayak a singa dapol so mabiskeg a puersa mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Saray Totoo na Elepante",
+        "Say Duaran Prinsipe",
+        "Agagi nen Jose",
+        "Say lingkor nen Allah ed Dhul-Kifl",
+        "Saray Kaiba na Matunong a Too"
+      ],
+      "answer": "Saray Totoo na Elepante"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Say inpan-atake na elepante ed Kaaba",
+        "Say dayat ya manbibiigan antis na sakey a grupon nideliber",
+        "Say impakasamsam na sakey a mapangtan totoo ed Kaban",
+        "Say biahe ed labi ed baetan na duaran moske",
+        "Say impamaabig ed sakey ya akating panamegley na madibinon pakayari"
+      ],
+      "answer": "Say inpan-atake na elepante ed Kaaba"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Saray manok ya mangaawit na saray pitek",
+        "Sakey a biong a gawad gopherwood",
+        "Sakey a baston ya nagmaliw ya uleg",
+        "Sakey a bato ya akatatak na tanda",
+        "Sakey a manpopoolan a kakiewan"
+      ],
+      "answer": "Saray manok ya mangaawit na saray pitek"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Say mabiskeg a puersa ra et atumba a singa dapol",
+        "Maligen iran binmaliw ed dayat",
+        "Nanakar iran anggapoy asugatan ed mandarlang ya hurnoan",
+        "Linmoob iran sandua ed Paraiso",
+        "Naugip ira ed sakey ya ungib ed loob na 309 a taon"
+      ],
+      "answer": "Say mabiskeg a puersa ra et atumba a singa dapol"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

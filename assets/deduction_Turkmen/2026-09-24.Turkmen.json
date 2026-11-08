@@ -1,0 +1,61 @@
+{
+  "title": "Hudaýlygy talap eden hökümdar",
+  "intro": "Güýçli we tekepbir hökümdar hiç kimiň öz tagtyndan ýokary galmajakdygyna ynanýardy. Olar gaçyp barýan topary ägirt uly suwuň üstünden yzarladylar, ýöne dramatik heläkçilige uçradylar. Bu hökümdaryň hekaýasy Gurhanyň köp böleginde gaýtalanýar we hemmelere duýduryş bolup hyzmat edýär.",
+  "clues": [
+    "Men dolandyrýan ýurtlarymda hiç bir häkimiýetiň özümden ýokary bolmajagyna ynanýan güýçli hökümdardym.",
+    "Meniň uly binagärlik taslamalaryny ýerine ýetirmäge kömek eden Haman atly ygtybarly wezirim bardy.",
+    "Maňa garşy çykan bir ilçiniň alamatlaryna garşy çykmak üçin ýurdumyň iň gowy jadygöýlerini çagyrdym.",
+    "Belalara we aýdyň duýduryşlara garamazdan, men öz patyşalygymdaky gul edilen halkyň gitmegine ýol bermedim.",
+    "Men ähli goşunym we arabalarym bilen olary giň deňizden yzarladym.",
+    "Şol deňiz meniň we güýçlerimiň üstümi ýapyp, biziň hemmämizi suwa gark etdi, olar bolsa howpsuz geçdiler."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Fyr'awn (Fyr'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fyr'awn (Fyr'awn)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Musa (Musa) bilen bela we gapma-garşylyk",
+        "Beýik silden öň gämi gurmak",
+        "Jülgede Jaluta garşy söweş",
+        "Kit tarapyndan ýuwutulmak",
+        "Dürüst söwda agramlaryny goramak"
+      ],
+      "answer": "Musa (Musa) bilen bela we gapma-garşylyk"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Beýik diňler we gazyklar",
+        "Beýik agaçdan ýasalan sandyk",
+        "Altyn göle",
+        "Ýylana öwrülen taýajyk",
+        "Ägirt uly kit"
+      ],
+      "answer": "Beýik diňler we gazyklar"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Goşun bilen deňizde gark boldy",
+        "Allanyň rehimi we sabyrlylygy bilen halas edildi",
+        "Köp ýyllaryň dowamyndaky kynçylyklardan soň maşgalasy bilen gaýtadan duşuşdy",
+        "Ýer tarapyndan ýuwudyldy",
+        "Otda ýandy"
+      ],
+      "answer": "Goşun bilen deňizde gark boldy"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

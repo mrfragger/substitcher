@@ -1,0 +1,61 @@
+{
+  "title": "Çatışmanın Tohumu",
+  "intro": "Dünya geniş çaplı çatışmalarla tanışmadan önce, inanç ve itaatin derin bir sınavı yaşandı. Bu anlatı, eylemleri gelecek nesiller için bir emsal teşkil eden bir bireyin yaptığı seçimleri ele alıyor. Büyük bir kıskançlıkla ve bunun yıkıcı sonuçlarıyla boğuşan bir ruhun öyküsünü çözmeye hazırlanın.",
+  "clues": [
+    "Ben yeryüzünde yürüyen ilk insanlardan biriydim, ilk insan çiftinin çocuğuydum.",
+    "Kardeşimle bana Allah'a kurban sunmamız emredildi; bu, samimiyetimizin bir sınanmasıydı.",
+    "Benim sunduğum adak kabul edilmezken, kardeşimin sunduğu adak kabul edildi; bu da kalbimi korkunç bir duyguyla doldurdu.",
+    "Reddedilmenin verdiği acıdan dolayı kardeşime tehdit dolu sözler söyledim.",
+    "Kardeşim hikmet ve takva ile karşılık vererek bana Allah'ın adaletini ve O'ndan korkmayı hatırlattı.",
+    "Kardeşimin nazik sözlerine ve affetme isteğine rağmen, bir can aldım ve kaybedenlerden biri oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Adem",
+        "İblis",
+        "Peygamber Nuh",
+        "Kabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "büyük tufan",
+        "Denizin yarılması",
+        "Kabe'nin inşası",
+        "Kurbanların sunulması",
+        "Bahçedeki ayartma"
+      ],
+      "answer": "Kurbanların sunulması"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Safa Dağı",
+        "Kurban",
+        "Yanan Çalı"
+      ],
+      "answer": "Kurban"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Haberci oldu",
+        "Boğuldu",
+        "Büyük bir krallık kurdu.",
+        "Pişmanlığın bir örneği haline geldi.",
+        "Kendisine muazzam bir servet bahşedildi."
+      ],
+      "answer": "Pişmanlığın bir örneği haline geldi."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bisu fësal bu mujj bi",
+  "intro": "Ñu daal di woo mbooloo mu mag ñu wane seen kàttan, ñu daal di jànkoonte ak dëgg guñu xamul woon guy soppi seen àdduna ba fàww.",
+  "clues": [
+    "Ñu siiwoon lool ci sunu art, nekkoon boroom xam-xam ci nax ak njuuj njaaj.",
+    "Ndaw si daf nu woo ngir nu jànkoonte ak benn xeexkat bu yor benn yatt bu woyof.",
+    "Bi nu gisee dëgg gi, nu daanu ci sujjud, di wax ni gëm nanu Boroom biy dundal àdduna.",
+    "Tiran bi daf nu ni daf nuy yar bu baax, waaye nu baña xàddi.",
+    "Nu bokk ci ñi njëkka gëm kàddu yi ginaaw bi ñu gisee firnde bu leer bi.",
+    "Dañu nu faat ndax sunu ngëm, waaye nooy njëkka dugg Aljanna ak ñi jub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nun la kan?",
+      "options": [
+        "Luxuskat yu Firawna",
+        "Bànni Israyil",
+        "Waa Samud",
+        "Taalibe Isa",
+        "Armée de Abraha"
+      ],
+      "answer": "Luxuskat yu Firawna"
+    },
+    "trial": {
+      "label": "Jàngat / Xew-xew",
+      "options": [
+        "Concours ak yonent bi Musa",
+        "Tabax Tower bi",
+        "Mbënd mu mag mi",
+        "Mbasum mboq",
+        "Geej giy xaajaloo"
+      ],
+      "answer": "Concours ak yonent bi Musa"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Bisu Festival bi",
+        "Vallée de Tuwa",
+        "Dëkk bu Iram",
+        "Jardinu ba fàww",
+        "Tool bu Arafat"
+      ],
+      "answer": "Bisu Festival bi"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ñu daaj leen ci bant ci kanamu ñépp",
+        "Ñu sàkku ci géej gi .",
+        "Def leen ñu topp yonent bi .",
+        "Ñu yóbbu leen dëkk bitim réew",
+        "Dañu leen lakk ci safara"
+      ],
+      "answer": "Ñu daaj leen ci bant ci kanamu ñépp"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

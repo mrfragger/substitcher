@@ -1,0 +1,61 @@
+{
+  "title": "Pazientzia Arima",
+  "intro": "Profetismoaren analetan, bazegoen pazientzia bere izatearen ehunean bertan grabatuta zuen arima bat. Malkoen eta denboraren bidez, itxaropenari eutsi zioten, jainkozko jakindurian konfiantzaren adibide betiereko bihurtuz. Argitu al dezakezu figura irmo honen misterioa?",
+  "clues": [
+    "Profeta familia batean jaio nintzen, baina nire proba handiena gehien maite nuen haurraren bidez etorri zen.",
+    "Nire semeak partekatutako amets batetik jeloskortasun abisua jaso nuen, eta haren segurtasunaren beldur nintzen.",
+    "Begiak zurbildu zitzaizkidan tristuraz, baina ez nuen inoiz fedea galdu Alaren errukian.",
+    "Nire haurraren usaina urrunetik iritsi zitzaidan, eta orduan jakin nuen berriro elkartzear zegoela.",
+    "Nire familia esker onez makurtu zen antzinako ikuspegia bete zenean, eta nire ikusmena berreskuratu zenean.",
+    "Ni naiz odolez zikindutako alkandora bat oparitu zidana, geroago ikusmena sendatu zidan alkandora bat jasotzeko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ibrahim profeta",
+        "Ishaq profeta",
+        "Yaqub profeta",
+        "Yusuf profeta",
+        "Ayyub profeta"
+      ],
+      "answer": "Yaqub profeta"
+    },
+    "trial": {
+      "label": "Epaiketa Garrantzitsua",
+      "options": [
+        "Maite duzun seme-alaba batetik banantzea eta ikusmena galtzea",
+        "Su bizian sartuta egotea",
+        "Arrain handi batek irentsi izana",
+        "Aberastasuna, seme-alabak eta osasuna galtzea jasaten",
+        "Anaiek traizionatu eta putzu batera bota zuten"
+      ],
+      "answer": "Maite duzun seme-alaba batetik banantzea eta ikusmena galtzea"
+    },
+    "location": {
+      "label": "Objektu sinbolikoa",
+      "options": [
+        "Egia lehenik ezkutatu eta gero agerian utzi zuen alkandora",
+        "Suge bihurtu zen makila",
+        "Profeta bat irentsi zuen balea",
+        "Hoztu zen sua",
+        "Sandalia pare bat sasi erretzen ari den tokian"
+      ],
+      "answer": "Egia lehenik ezkutatu eta gero agerian utzi zuen alkandora"
+    },
+    "outcome": {
+      "label": "Jainkozko Erabakia.",
+      "options": [
+        "Maite galdu batekin berriro elkartzea eta ikusmena berreskuratzea",
+        "Zapalkuntzaren nazio batetik erreskatatua",
+        "Arrain baten sabeletik askatzea",
+        "Su bizitik salbazioa",
+        "Tronu handi batera igotzea"
+      ],
+      "answer": "Maite galdu batekin berriro elkartzea eta ikusmena berreskuratzea"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pengembara di padang hijau",
+  "intro": "Pada zaman dahulu, dua individu menjaga tanah yang berjiran. Laluan mereka saling berkaitan, namun hati mereka membawa mereka ke destinasi yang jauh berbeza. Seorang berjalan di jalan yang lurus, sementara yang seorang lagi sesat ke dalam kegelapan penafian. Bolehkah anda merungkai misteri dua penjaga tuaian ini?",
+  "clues": [
+    "Aku memiliki hasil tanaman yang melimpah ruah, hasil tuaian yang mewah yang mempesonakan mata orang yang melihatnya.",
+    "Jiran saya memiliki kekayaan yang lebih besar daripada saya, namun saya lebih menginginkan bahagian mereka daripada bahagian saya sendiri.",
+    "Saya cadangkan kita memusnahkan tanaman mereka sepenuhnya, untuk menyatukan semuanya di bawah kawalan saya.",
+    "Aku juga telah merosakkan hasil tuaianku sendiri, memusnahkan segala-galanya dalam rancangan bodohku.",
+    "Aku berdiri tegak tidak berdaya ketika tanamanku layu dan kekayaanku menjadi debu dalam satu malam.",
+    "Aku tidak mempunyai bahagian di akhirat, dan tempat tinggalku yang terakhir menjadi lubang api yang menyala-nyala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang yang menyangkal kebangkitan dan penghakiman",
+        "Pemerintah yang menindas petani yang soleh",
+        "Pemilik tanah kaya yang tidak tahu berterima kasih",
+        "Petani yang mengidamkan tanah jirannya",
+        "Rakan kongsi khianat yang merancang kemusnahan"
+      ],
+      "answer": "Petani yang mengidamkan tanah jirannya"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Ujian menerima wahyu ilahi",
+        "Cabaran kekayaan dan kesabaran",
+        "Godaan untuk memusnahkan mata pencarian orang yang soleh",
+        "Perintah untuk membahagikan harta pusaka secara adil",
+        "Perjuangan menentang penindasan seorang tiran"
+      ],
+      "answer": "Godaan untuk memusnahkan mata pencarian orang yang soleh"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Taman-taman syurga yang menghijau",
+        "Dua ladang tanaman yang bersebelahan",
+        "Gunung-ganang yang menyaksikan kemusnahan",
+        "Tempat suci Mekah",
+        "Tebing sungai di tanah yang diberkati"
+      ],
+      "answer": "Dua ladang tanaman yang bersebelahan"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Syurga abadi sebagai ganjaran bagi kebenaran",
+        "Kemusnahan sepenuhnya kedua-dua hasil tuaian dalam kehidupan ini",
+        "Pengasingan dan pengembaraan sehingga mati",
+        "Kemakmuran sementara diikuti oleh api abadi",
+        "Pemulihan ajaib dan limpah kurnia yang berganda"
+      ],
+      "answer": "Kemusnahan sepenuhnya kedua-dua hasil tuaian dalam kehidupan ini"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

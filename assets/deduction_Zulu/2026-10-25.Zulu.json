@@ -1,0 +1,61 @@
+{
+  "title": "Isikhalazo Esizwakala Ngaphezu Komsindo",
+  "intro": "Uzwa izwi liphuma emphakathini lapho ukucindezelwa sekuyinto evamile. Akukho ukubonakaliswa kwamandla okuphendula isikhalo; kunalokho, isikhalo esiqondile sifinyelela ku-Allah, futhi impendulo ishaya enhliziyweni yokukhulekela uqobo. Ubani owafaka leso sikhalo, yimuphi umbuzo owalandela, futhi yiliphi iqiniso elaqinisekiswa?",
+  "clues": [
+    "Ngakhathazeka ngokucindezelwa kwabantu abangizungezile.",
+    "Ngaveza leso sikhalo ngqo ku-Allah esikhalweni sami siqu.",
+    "U-Allah wezwa isikhalo futhi waphendula ngenselele mayelana nenkolelo yami.",
+    "Impendulo yabuza ukuthi ngingahluleka kanjani ukukholelwa ku-Allah, oMunye futhi oPhakeme.",
+    "Ngabe sengibuza ukuthi kungani u-Allah kufanele athande abantu abangakholwa.",
+    "Ngingu-Uzair, oqanjwe ku-Surah Az-Zukhruf njengomuntu u-Allah akuzwa ukukhononda kwakhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Uzair",
+        "Umngane owahamba ngomkhumbi ngesikhukhula esikhulu",
+        "Inceku eyahamba phezu kwamanzi",
+        "Umuntu olele uvikelekile ngaphakathi emhumeni",
+        "Inceku eyaletha amatshe emfuleni"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukukhononda ku-Allah ngokucindezelwa kwabantu",
+        "Ukuhamba phezu kwamanzi ngesikhathi sesiphepho",
+        "Ukuthwala amatshe emfuleni owawungenamanzi",
+        "Ukuhamba ngomkhumbi phakathi kwesikhukhula esikhulu esikebheni",
+        "Ukuthola isihluthulelo sengcebo enkulu"
+      ],
+      "answer": "Ukukhononda ku-Allah ngokucindezelwa kwabantu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isikhalazo esiqondile esibhekiswe ku-Allah",
+        "Intonga eyaba yinyoka",
+        "Isithando somlilo esenziwe saphola futhi sathula",
+        "Umkhumbi untanta phezu kwamanzi kazamcolo",
+        "Inhlanzi igwinya inceku"
+      ],
+      "answer": "Isikhalazo esiqondile esibhekiswe ku-Allah"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "U-Allah wezwa isikhalazo futhi waqinisekisa ubunye baphezulu kanye nobukhosi obuphakeme",
+        "Ukuhamba ngokuphepha emanzini ngesikhathi sesiphepho",
+        "Ukuwela isikhukhula esikhulu ngokuphepha esikebheni",
+        "Ukuthola umbono kabusha esigodlweni sokuzikhukhumeza",
+        "Ukwamukela ubukhosi obusuka eMpumalanga kuya eNtshonalanga"
+      ],
+      "answer": "U-Allah wezwa isikhalazo futhi waqinisekisa ubunye baphezulu kanye nobukhosi obuphakeme"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

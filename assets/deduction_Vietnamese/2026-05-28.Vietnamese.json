@@ -1,0 +1,61 @@
+{
+  "title": "Bệnh nhân kiên định số một",
+  "intro": "Trong lịch sử các vị tiên tri, hiếm ai chịu đựng được mất mát sâu sắc và bệnh tật về thể xác với đức tin kiên định đến vậy. Câu chuyện của nhân vật này là một bài học vượt thời gian về lòng kiên nhẫn và niềm tin vào trí tuệ thiêng liêng. Linh hồn này là ai?",
+  "clues": [
+    "Tôi được Allah chọn để truyền tải một thông điệp, nhưng thử thách lớn nhất của tôi không đến từ sự từ chối, mà từ những tai họa cá nhân.",
+    "Tài sản, gia súc và con cái của tôi lần lượt bị cướp mất.",
+    "Toàn thân tôi đầy những vết lở loét, và tôi bị bỏ lại một mình, chỉ có sự giúp đỡ của người bạn đời.",
+    "Tôi kêu cầu cùng Chúa, thừa nhận nỗi đau khổ của mình và cầu xin lòng thương xót của Ngài.",
+    "Tôi được hướng dẫn dẫm mạnh xuống đất, và một dòng suối mát lạnh phun trào.",
+    "Allah đã phục hồi sức khỏe cho tôi, ban cho tôi một gia đình mới và thậm chí còn giàu có hơn trước đây."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Ayyub",
+        "Tiên tri Ibrahim",
+        "Tiên tri Musa",
+        "Tiên tri Isa",
+        "Tiên tri Nuh"
+      ],
+      "answer": "Tiên tri Ayyub"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Mất mát tài sản và gia đình",
+        "Bị ném vào lửa",
+        "Bị cá nuốt chửng",
+        "Bị chia cắt khỏi gia đình và bị bán làm nô lệ",
+        "Đang được thử thách với con bê vàng"
+      ],
+      "answer": "Mất mát tài sản và gia đình"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một dòng suối nước",
+        "Một cây gậy biến thành rắn",
+        "Một chiếc thuyền gỗ",
+        "Một con bê nóng chảy",
+        "Một cây cọ"
+      ],
+      "answer": "Một dòng suối nước"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Khôi phục gia đình và tài sản",
+        "Thăng thiên lên trời",
+        "Trở thành vua",
+        "Được cứu thoát khỏi một con cá voi",
+        "Đón tiếp con trai ở tuổi già"
+      ],
+      "answer": "Khôi phục gia đình và tài sản"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

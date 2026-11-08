@@ -1,0 +1,61 @@
+{
+  "title": "Paciente kaq",
+  "intro": "Unayñan, runaq qallariy p’unchayninkunapi, iskay almakuna Kamaqninkuq ñawpaqenpi sayasharqanku ofrendakunawan. Hukninmi chaskisqa karqan, huknintaq mana. Qatiqninqa wawqi-panipura ñawpaq hatun llakikuymi kanman karqan - huk pacienciawan hark'akuywan huk k'arak vengakuywan. ¿Atiwaqchu sut’inchayta pi kasqayta?",
+  "clues": [
+    "Kay pachapi runa kausay qallariy p’unchaykunapiraqmi nacerqani",
+    "Ñuqaqa kay pachapi puriq ñawpaq iskay runap wawan karqani",
+    "Huk kutinmi ovejaymanta allin kaq sacrificiota haywarqani Kamaqniyta kusichinaypaq",
+    "Ofrendayta hanaqmanta chaskirqanku, wawqeypa ofrendantataq mana chaskirqankuchu",
+    "Wañuchinaypaq amenazawaptinkum, wawqiy contra makiyta mana hoqarinaypaq akllakurqani",
+    "Runakunapa historianpi punta kaq runam karqani, hukpa mana allin wañuchisqan"
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Adanpa churin Habil (Abel).",
+        "Qabil (Caín), Adanpa churin",
+        "Adan, ñawpaq runa",
+        "Nuh (Noe) .",
+        "Ibrahim (Abraham) sutiyuq runa."
+      ],
+      "answer": "Adanpa churin Habil (Abel)."
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Runakunapa historianpi punta kaq wañuchinakuy",
+        "Nuh llaqtapi hatun unu hunt'aykusqan",
+        "Fir'awnpa ejercitonpa chinkachisqan",
+        "Ismailpa sacrificion Ibrahimpa ruwasqan",
+        "Jalut (Goliat) nisqawan maqanakuy ."
+      ],
+      "answer": "Runakunapa historianpi punta kaq wañuchinakuy"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Kusikunapaq sacrificiota haywasqa oveja",
+        "Hatun k’aspimanta arca",
+        "Mach’aqwayman tukuq k’aspi",
+        "Reypa willakuyninta apakuq hoopoe pisqu",
+        "Nina rawraq zanja"
+      ],
+      "answer": "Kusikunapaq sacrificiota haywasqa oveja"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Runakunapa historianpi punta kaq wañuchisqa runam karqa",
+        "Maderamanta ruwasqa buque ukhupi hatun unu hunt’aykusqanmantan kawsarqan",
+        "Hatun challwapa wiksan ukupi kawsaq",
+        "Jinnikunata, runakunata, wayratapas kamachirqan",
+        "Tawa chunka watañam hatun chunniqpi purirqani"
+      ],
+      "answer": "Runakunapa historianpi punta kaq wañuchisqa runam karqa"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

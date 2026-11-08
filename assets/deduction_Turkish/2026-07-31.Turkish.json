@@ -1,0 +1,61 @@
+{
+  "title": "Tahta Ulaşan Yankı",
+  "intro": "Ağır yük altında bir figür, adaletin kürsüsüne yaklaştı; sesi korkudan değil, umuttan titriyordu. Mesele kişiseldi, ancak çözümü zaman içinde yankılanacak, baskıcı bir geleneği yıkacaktı. Şikayeti yıldızların ötesinde duyulan bu ruh kimdi?",
+  "clues": [
+    "Dilimi tutamadığım bir konuda adalet arayarak, ağır bir yürekle geldim.",
+    "Yalvarışım sadece bir elçiye yönelik değildi; daha da öteye, her şeyi işiten Yüce Varlığa yükseldi.",
+    "Hakkımda söylenen sözler, kadim bir geçmişin zincirleri gibiydi.",
+    "Gözyaşlarıyla ve mantıkla, onurum için tartıştım ve gerekçeler sundum.",
+    "Bir aydınlanma indi, eski alışkanlıkları susturdu ve acımı kabul etti.",
+    "Bana kocam hakkında tartışma çıkaran kişi diyorlar ve adım, beni özgür bırakan bölümle özdeşleşti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "İmran'ın karısı (Meryem'in annesi)",
+        "Kocası Hakkında Tartışan Kadın (Havla bint Tha'laba)",
+        "Saba Kraliçesi (Bilqis)",
+        "Musa'nın Annesi",
+        "Firavunun Karısı (Asiyah)"
+      ],
+      "answer": "Kocası Hakkında Tartışan Kadın (Havla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "Duruşma veya Olay",
+      "options": [
+        "Ona iffetsizlik suçlaması asılsız olarak yöneltildi.",
+        "Kadın kısırdı ve bir çocuk sahibi olmayı çok istiyordu.",
+        "O, baskıcı bir boşanma geleneğiyle karşı karşıya kaldı.",
+        "O, bir peygamberle pazarlık yapan bir kraliçeydi.",
+        "Çocuğunu bir zalimden sakladı."
+      ],
+      "answer": "O, baskıcı bir boşanma geleneğiyle karşı karşıya kaldı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "altın buzağı",
+        "Muhteşem bir taht",
+        "Zihar uygulaması",
+        "Nehirde bir sepet",
+        "Kutsal bir adanma yemini"
+      ],
+      "answer": "Zihar uygulaması"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Yaşlılığında bir çocuk sahibi olma lütfuna erişti.",
+        "Boğulmaktan kurtarıldı.",
+        "O, bu geleneği ortadan kaldıran ilahi bir vahiy aldı.",
+        "Bir sınavdan sonra kraliçe oldu.",
+        "Ona bir oğul verildi ve bu oğul peygamber oldu."
+      ],
+      "answer": "O, bu geleneği ortadan kaldıran ilahi bir vahiy aldı."
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

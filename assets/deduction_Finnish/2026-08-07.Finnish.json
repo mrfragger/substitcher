@@ -1,0 +1,61 @@
+{
+  "title": "Usko valtaistuimen takana",
+  "intro": "Joitakin sieluja ei koeteta tulella tai tulvalla, vaan tyrannin palatsissa elämisen hitaalla paineella. Tämä hahmo seisoi hallitsijan vieressä, joka väitti olevansa kansansa jumaluus, mutta salaa uskoi yhteen tosi Jumalaan. Kun heidän omistautumisensa paljastui, seurasi kärsimys – mutta niin tuli myös jumalallinen lupaus. Arvaatkö kuka tämä on?",
+  "clues": [
+    "Elin maani mahtavimman hallitsijan katon alla, asemassa, jota harvat voisivat koskaan kuvitella.",
+    "Puolisoni seisoi kansan edessä ja julisti itsensä jumalaksi – mutta sydämeni kuului ainoalle todelliselle Herralle.",
+    "Kuiskasin rukouksia salaa peläten rangaistusta, joka kohtasi kaikkia, jotka uhmasivat puolisoani.",
+    "Kun uskoni paljastui, minua otettiin kiinni ja kidutettiin – mutta kieleni ei koskaan lausunut epäuskon sanaa.",
+    "Vuodatin sydämeni Herralleni ja pyysin taloa paratiisista, kaukana kaikesta vääryydestä.",
+    "Olen Asiya bint Muzahim – faaraon vaimo, joka vastusti Musaa ja Harunia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Asiya bint Muzahim (faaraon vaimo)",
+        "Hawwa (Eeva), ensimmäinen nainen",
+        "Saara, Ibrahimin ensimmäinen vaimo",
+        "Hagar, Isma'ilin äiti",
+        "Maryamin (Imranin vaimon) äiti"
+      ],
+      "answer": "Asiya bint Muzahim (faaraon vaimo)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kidutuksen kestäminen uskosta luopumisen kieltämisen vuoksi",
+        "Selviytyminen suuren kalan vatsassa",
+        "Massiivisen arkin rakentaminen tulvan varalta",
+        "Heitetään liekehtivään tuleen",
+        "Suuren meren jakautumisen todistajana"
+      ],
+      "answer": "Kidutuksen kestäminen uskosta luopumisen kieltämisen vuoksi"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Heille rakennettu talo paratiisissa",
+        "Sauva, joka muuttui käärmeeksi",
+        "Arkki, joka kuljettaa pareittain kaikkia olentoja",
+        "Kansakunnan palvoma kultainen vasikka",
+        "Linko, jota käytetään jättiläissoturin kukistamiseen"
+      ],
+      "answer": "Heille rakennettu talo paratiisissa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Kunnioitettu asumalla paratiisissa vanhurskaiden rinnalla",
+        "Hukkuivat aaltojen alle armeijansa kanssa",
+        "Paloi liekeissä, mutta pelastui jumalallisen väliintulon ansiosta",
+        "Suuri olento nielaisi ja heitti sitten rannalle",
+        "Tuli aikansa rikkaimmaksi ihmiseksi"
+      ],
+      "answer": "Kunnioitettu asumalla paratiisissa vanhurskaiden rinnalla"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Xwîna Yekem a Di Çavnebariyê De Hat Rijandin",
+  "intro": "Rojên herî pêşîn ên mirovahiyê xeyal bikin, dema ku tevahiya cîhanê yek malbat bû. Hûn temaşe dikin ku du qurban li ber Xwedê têne danîn - yek tê qebûlkirin, ya din tê redkirin. Çavnebarî di dil de kok çêdike, û gef di hêrsê de tê gotin. Tiştê ku piştre tê dê di dîrokê de her û her şopek bihêle, û tewra çûkek piçûk jî dê bibe mamoste.",
+  "clues": [
+    "Ez yek ji malbata herî pêşîn a li ser rûyê erdê me.",
+    "Min qurbanek pêşkêşî Xwedê kir, lê ya min nehat qebûlkirin, lê ya din hat qebûlkirin.",
+    "Min bi çavnebariyê axivî û gef xwar ku ez ê can bidimê.",
+    "Min yekem kuştina neheq li ser rûyê erdê kir.",
+    "Min qijikek dît ku erdê dixurand da ku nîşanî min bide ka meriv çawa cesedê vedişêre.",
+    "Ez ji ber tiştê ku destên min kiribûn, pir poşman bûm û ez bûm yek ji wan kesên ku winda kiribûn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Qabîl (Qabîl), kurê Adem",
+        "Samirî, çêkerê golikê",
+        "Nemrûd, zalimê ku bi Îbrahîm re nîqaş kir",
+        "Azer, çêkerê pûtan",
+        "Kenan, kurê Nûh, yê xeniqî"
+      ],
+      "answer": "Qabîl (Qabîl), kurê Adem"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Kuştina birayekî ji ber çavnebariyê piştî redkirina pêşkêşê",
+        "Ji bo temaşekirina ezmanan bircêkî bilind ava dikin",
+        "Çêkirina golikekî zêrîn ji bo îbadetê",
+        "Daxwaza sifreyekê ji bihuştê vekirî",
+        "Rêberiya artêşeke fîlan dike da ku Kabeyê hilweşîne"
+      ],
+      "answer": "Kuştina birayekî ji ber çavnebariyê piştî redkirina pêşkêşê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Qijikek erdê dixurîne da ku veşartinê nîşan bide",
+        "Golekî zêrîn ku nizim bû",
+        "Keştiyeke mezin li ser avên tofanê",
+        "Dara ku bû mar",
+        "Sifreyek bi xwarinên ji bihuştê hatiye raxistin"
+      ],
+      "answer": "Qijikek erdê dixurîne da ku veşartinê nîşan bide"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Poşman bû û di nav windakiriyan de bû",
+        "Di lehiya mezin de xeniqî",
+        "Bi xezîneyê re ji aliyê erdê ve hat daqurtandin",
+        "Heft salan bi nexweşiya cömürê ket",
+        "Padîşahiyek bi kontrola bayê re hat dayîn"
+      ],
+      "answer": "Poşman bû û di nav windakiriyan de bû"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

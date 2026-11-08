@@ -1,0 +1,61 @@
+{
+  "title": "Isihlwele Esinyamaleleyo",
+  "intro": "Umi phambi kweengxolo zoluntu olunebali elibhalwe emaza. Le miphefumlo yeva ubizo, yakhetha ukungathobeli, yaza yajongana nesiphumo esatshintsha umhlaba. Ngoobani, kwaye kwenzeka ntoni kwihlabathi labo?",
+  "clues": [
+    "Sasiphila kudala, kwaza kwafika umthunywa kuthi evela phakathi kwethu.",
+    "Sasinqula izithixo ezintlanu saza sala ukuzishiya.",
+    "Simhleka usulu umthunywa waza wamtyhola ngokuba uyaphambuka.",
+    "Sasifuna ukuba anike isohlwayo ukuba uthetha inyani.",
+    "Sibone isibhakabhaka sichitha imvula nomhlaba ukhupha imithombo.",
+    "Sanyuka saya kwiindawo eziphakamileyo ukuze sibaleke, kodwa amaza asifumana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Abantu baseNuh",
+        "Abantu be-'Ad",
+        "Abantu baseThamud",
+        "Abantu bakaLut",
+        "Abantu baseMadyan"
+      ],
+      "answer": "Abantu baseNuh"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Satshoniswa ngumkhukula omkhulu",
+        "Satshatyalaliswa yinkanyamba",
+        "Sibulewe kukuqhuma okukhulu",
+        "Saginywa ngumhlaba",
+        "Sasijikijelwa ngamatye avela esibhakabhakeni"
+      ],
+      "answer": "Satshoniswa ngumkhukula omkhulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umkhukula omkhulu",
+        "Umoya onamandla",
+        "Imvula yamatye",
+        "Ukuqhuma komlilo",
+        "Inyikima"
+      ],
+      "answer": "Umkhukula omkhulu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Sonke satshabalala ngaphandle kwabakholwayo kunye noNuh",
+        "Saguqulwa saba ziinkawu",
+        "Sashiywa njengamanxuwa abahambi",
+        "Saguqulwa saba yityuwa",
+        "Sanikwa ikhefu"
+      ],
+      "answer": "Sonke satshabalala ngaphandle kwabakholwayo kunye noNuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

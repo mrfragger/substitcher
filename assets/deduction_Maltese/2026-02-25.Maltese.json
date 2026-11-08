@@ -1,0 +1,61 @@
+{
+  "title": "It-Test tal-Blata Niexfa",
+  "intro": "Komunità, b'ħiliet u kburija, naqqxet il-wirt tagħha fl-istess muntanji. Imma meta ntbagħtilhom sinjal ċar, test ta' fidi u rażan, l-arroganza tagħhom wasslithom fi triq bla ritorn. Tista' tidentifika dan il-grupp u l-konsegwenza tad-diżappunt tagħhom?",
+  "clues": [
+    "Konna mastri tal-ġebel, inaqqxu djar magnífico direttament fil-ġnub tal-muntanji.",
+    "Messaġġier minn fost il-poplu tagħna ġie għandna, u sejħilna biex naduraw lill-Uniku Alla Veru.",
+    "Tlabna sinjal biex jipprova kliemu, u nġiebet kreatura unika bħala prova għalina.",
+    "Ingħatajna kmand sempliċi: li naqsmu s-sors tal-ilma tagħna ma' din il-kreatura, u nħalluha tixrob fil-jum magħżul għaliha.",
+    "Fl-arroganza tagħna, ftit fostna kkonfoffaw u sfidajna t-twissija, billi qtilna l-kreatura li kellha tkun is-sinjal tagħna.",
+    "Ingħatajna tlett ijiem qabel id-destin tagħna, u mbagħad splużjoni qawwija qabditna fi djarna, u ħallietna bla ħajja u maqlubin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Nies ta' 'Ad",
+        "Nies ta' Madyan",
+        "Nies ta' Thamud",
+        "Nies ta' Saba",
+        "Nies ta' Lut"
+      ],
+      "answer": "Nies ta' Thamud"
+    },
+    "trial": {
+      "label": "X'Kien it-Test Prinċipali Tagħna?",
+      "options": [
+        "Il-bini ta’ arka biex jgħix wara dilluvju",
+        "Nirreżistu x-xewqa li nistad fis-Sabat",
+        "L-abbandun ta' prattiki kummerċjali frodulenti",
+        "Nipproteġu ġemela mirakoluża",
+        "Jissaporti ġuħ ta’ seba’ snin"
+      ],
+      "answer": "Nipproteġu ġemela mirakoluża"
+    },
+    "location": {
+      "label": "X'kien l-Element Ċentrali tal-Istorja Tagħna?",
+      "options": [
+        "L-Għoġol tad-Deheb",
+        "Il-Ġemela",
+        "Il-Bastun tal-Profeta Musa",
+        "Id-Diga l-Kbira ta' Ma'rib",
+        "Il-Mejda Miftuħa mis-Sema"
+      ],
+      "answer": "Il-Ġemela"
+    },
+    "outcome": {
+      "label": "X'Kien id-Destin Aħħari Tagħna?",
+      "options": [
+        "Għerqet f’dilluvju kbir",
+        "Inbidlu f'xadini u ħnieżer",
+        "Megħlub minn riħ qawwi",
+        "Imxerred mit-tifqigħ ta’ diga",
+        "Meqrud minn splużjoni/terremot qawwi"
+      ],
+      "answer": "Meqrud minn splużjoni/terremot qawwi"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

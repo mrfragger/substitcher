@@ -1,0 +1,61 @@
+{
+  "title": "Aniden Ortaya Çıkan Bir Gökyüzünün Altında Kuşatma",
+  "intro": "Kutsal bir tapınağa yaklaşan, tüm silahları hazır ve zaferin kesin gibi göründüğü, güçlü bir ordunun karşısında duruyorsunuz. Saldırı başlamadan önce, beklenmedik bir güç başınızın üzerinde beliriyor ve mücadele kimsenin tahmin edemeyeceği bir yöne doğru ilerliyor.",
+  "clues": [
+    "Hiçbir dünyevi gücün sarsamayacağı bir özgüvenle yürüdük.",
+    "Yanımızda güçlü filler getirdik ve gücümüz onların etrafında şekillenmiş gibiydi.",
+    "Kutsal bir mabedi yıkmaya gelmiştik ve zaferimizin zaten kesin olduğuna inanıyorduk.",
+    "Oraya vardığımızda, üzerimizdeki gökyüzünde bir kuş sürüsü süzülüyordu.",
+    "Kuşlar, savaşçılarımızın üzerine sertleşmiş kilden taşlar fırlattılar.",
+    "Öyle ağır bir yenilgiye uğradık ki, muazzam gücümüz küller gibi dağılıp gitti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Fil Halkı",
+        "İki Prens",
+        "Joseph'in Kardeşleri",
+        "Zilhicce ayında Allah'ın kulu",
+        "Dürüst Adamın Yoldaşları"
+      ],
+      "answer": "Fil Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kabe'ye fillerin önderliğinde yapılan saldırı",
+        "Teslim edilen bir grubun önünde denizin ikiye ayrılması.",
+        "Zalim bir halk tarafından Kutsal Sandığın ele geçirilmesi",
+        "İki cami arasındaki gece yolculuğu",
+        "Cüzzamlı bir kişinin ilahi güçle iyileştirilmesi"
+      ],
+      "answer": "Kabe'ye fillerin önderliğinde yapılan saldırı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kil tanecikleri taşıyan kuşlar",
+        "Gopherwood ağacından yapılmış bir gemi",
+        "Bir asa yılana dönüştü",
+        "Üzerine bir işaret konulmuş taş.",
+        "Yanan bir çalı"
+      ],
+      "answer": "Kil tanecikleri taşıyan kuşlar"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Onların muazzam gücü kül gibi dağıldı.",
+        "Denizi güvenli bir şekilde geçtiler.",
+        "Alev alev yanan bir fırının içinden yara almadan geçtiler.",
+        "Cennete çiftler halinde girdiler.",
+        "309 yıl boyunca bir mağarada uyudular."
+      ],
+      "answer": "Onların muazzam gücü kül gibi dağıldı."
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

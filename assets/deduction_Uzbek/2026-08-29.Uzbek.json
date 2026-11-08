@@ -1,0 +1,61 @@
+{
+  "title": "Qayg'udan ustun bo'lgan sabr",
+  "intro": "Sabr-toqati afsonaga aylangan, qayg'udan ko'rish qobiliyati so'nib ketgan, ammo ilohiy rejaga bo'lgan ishonchi hech qachon so'nmagan oqsoqol. Bu shaxs o'n ikki o'g'lining qabila poydevoriga aylanishini kuzatdi, eng sevimli farzandining og'riqli yo'qotishini boshdan kechirdi va ulkan qayg'u oldida go'zal sabr-toqatning abadiy ramziga aylandi. Hikoyasi vahiy sahifalarida hikoya qilingan hurmatli qalb. Qur'ondan bu shaxsni aniqlay olasizmi?",
+  "clues": [
+    "Men Qur'onning asosiy surasida hikoyasi batafsil bayon etilgan payg'ambar edim.",
+    "Mening o'n ikki o'g'lim bor edi, ular Bani Isroil qabilalarining otalari bo'lishdi.",
+    "Men o'g'illarimga turli darvozalardan kirishni aytdim, toki ular bitta xalq sifatida tanib qolinmasin.",
+    "Mendan tortib olingan sevimli farzandim uchun tinimsiz yig'lashdan ko'zlarim oqardi.",
+    "Boshqa o'g'illarim meni faqat Allohga shikoyat qilishimni aytib, shunday qilishga undaganlarida ham, umidsizlikka tushmadim.",
+    "Men Yusuf payg'ambarning otasiman, uning ismi arab tilida \"ko'paytiruvchi\" degan ma'noni anglatadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Yaqub (Yoqub)",
+        "Yusuf payg'ambar",
+        "Ibrohim payg'ambar",
+        "Muso payg'ambar",
+        "Payg'ambar Dovud"
+      ],
+      "answer": "Payg'ambar Yaqub (Yoqub)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Sevimli o'g'lining quduqda yo'qolishi",
+        "Butun bir xalqni qamrab olgan buyuk suv toshqini",
+        "Olovga sig'inuvchi qirollikdan ko'chish",
+        "Misrning qudratli zolimi bilan to'qnashuv",
+        "Kitning qorniga surgun"
+      ],
+      "answer": "Sevimli o'g'lining quduqda yo'qolishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Soxta qon bilan bo'yalgan ko'ylak",
+        "Ilonga aylangan tayoq",
+        "Tog'da qurilgan kema",
+        "Toshdan o'yilgan urg'ochi tuya",
+        "Oltin buzoq"
+      ],
+      "answer": "Soxta qon bilan bo'yalgan ko'ylak"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Sevimli o'g'lining ko'ylagi yuziga qo'yilganda, ko'rish qobiliyati tiklandi",
+        "Katta baliqning qorniga tashlanganidan keyin najot",
+        "Allohdan Xalilulloh unvonini olish",
+        "Qullikdan ozod bo'lgan xalq bilan dengizni kesib o'tish",
+        "To'fondan keyin umid belgisi sifatida kamalak paydo bo'lmoqda"
+      ],
+      "answer": "Sevimli o'g'lining ko'ylagi yuziga qo'yilganda, ko'rish qobiliyati tiklandi"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

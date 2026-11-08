@@ -1,0 +1,61 @@
+{
+  "title": "O Firme Construtor da Salvación",
+  "intro": "Unha figura de inmensa paciencia e convicción inquebrantable, este individuo dedicou incontables anos a unha misión divina, enfrontándose a un desprezo e un rexeitamento implacables. A súa historia é un poderoso testemuño de fe ante unha incredulidade abrumadora, que culminou nun acontecemento trascendental que transformou o mundo.",
+  "clues": [
+    "Dediquei un período incriblemente longo da miña vida a chamar ao meu pobo á adoración de Alá.",
+    "A miña xente burlouse de min e acusoume de erro manifesto e loucura.",
+    "Ordenáronme que construíse algo que parecía inusual para a miña comunidade sen saída ao mar.",
+    "Só uns poucos creron e uníronse a min e á miña familia nesta construción única.",
+    "Levei a bordo parellas de cada criatura viva, segundo as instrucións de Alá.",
+    "Unha gran inundación asolagou a terra, salvando só os que estaban comigo na miña embarcación, mentres que o meu propio fillo pereceu pola súa incredulidade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Nuh",
+        "Profeta Dawud",
+        "Profeta Sulayman"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A destrución por un terremoto",
+        "A división do mar",
+        "A gran inundación",
+        "O lume de Nimrod",
+        "A praga das ras"
+      ],
+      "answer": "A gran inundación"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A sarza ardente",
+        "A arca",
+        "O pozo de auga",
+        "O becerro de ouro",
+        "O monte de Tur"
+      ],
+      "answer": "A arca"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Recibiu un reino",
+        "O seu pobo transformouse en simios",
+        "O seu pobo salvouse por un milagre",
+        "O seu pobo afogouse",
+        "O seu pobo foi alcanzado por un raio"
+      ],
+      "answer": "O seu pobo afogouse"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

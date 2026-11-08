@@ -1,0 +1,61 @@
+{
+  "title": "Gardianul de pe malul râului",
+  "intro": "Într-o țară în care decretul unui tiran a adus tristețe în multe case, un suflet a primit un mesaj care a sfidat orice teamă. Cu o inimă plină de încredere, au început un act de credință care avea să schimbe cursul unei națiuni. Pe măsură ce apele cărau o încărcătură prețioasă, speranța se amesteca cu curenții.",
+  "clues": [
+    "Am trăit într-o perioadă de opresiune și frică.",
+    "Am primit inspirație divină care mi-a dat curaj.",
+    "Mi s-a poruncit să nu mă tem și nici să nu mă întristez.",
+    "Mi-am pus copilul într-un cufăr și l-am așezat pe apă.",
+    "Copilul meu a fost găsit de casa conducătorului, dar celălalt copil al meu l-a urmat.",
+    "M-am reunit cu copilul meu ca să-l alăptez, așa cum a promis Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Mama lui Moise",
+        "Soția faraonului",
+        "Sora lui Moise",
+        "Mama lui Isus",
+        "Regina din Saba"
+      ],
+      "answer": "Mama lui Moise"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Inspirația de a arunca un copil într-un râu",
+        "Fiind provocat la un duel magic",
+        "Fiind urmărit de o armată",
+        "Traversând o mare care s-a despărțit",
+        "Construirea unei case sacre"
+      ],
+      "answer": "Inspirația de a arunca un copil într-un râu"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un cufăr așezat în râu",
+        "Un rug aprins",
+        "Un toiag care s-a transformat într-un șarpe",
+        "Un vițel de aur",
+        "Un tron"
+      ],
+      "answer": "Un cufăr așezat în râu"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Copilul a fost returnat în siguranță la asistentă medicală",
+        "Copilul a fost pierdut pentru totdeauna",
+        "Copilul a fost dus într-o țară îndepărtată",
+        "Copilul a devenit imediat conducător",
+        "Copilul a fost adoptat de un negustor bogat"
+      ],
+      "answer": "Copilul a fost returnat în siguranță la asistentă medicală"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

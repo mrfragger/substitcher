@@ -1,0 +1,61 @@
+{
+  "title": "Kaeviku hinged",
+  "intro": "Sa rändad tagasi ajastusse, mil halastamatu valitseja nõudis absoluutset pühendumist valejumalustele. Väike pühendunud hingede kogukond keeldus ja seisis silmitsi nii karmi karistusega, et see muutus igaveseks needuseks. Nende lugu kajab läbi Koraani kui tunnistus vankumatust usust. Kas sa suudad selle vankumatu grupi ära tunda?",
+  "clues": [
+    "Me elasime maal, mida valitses valitseja türannia, kes nõudis valejumalate kummardamist",
+    "Meie kogukonda kiusati taga rängalt ainuüksi Allahisse uskumise pärast",
+    "Valitseja käskis kaevata suure kaeviku ja põletada seda ägedate leekidega",
+    "Kuna me keeldusime oma usust loobumast, heideti meid ükshaaval sellesse lõõmavasse auku",
+    "Meie loost sai osa Koraanist ja need, kes meid taga kiusasid, olid igavesti neetud.",
+    "Suura, mis meie katsumust kirjeldab, on nimetatud taeva suurte märkide järgi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Kaeviku kaaslased (Ashab al-Ukhdud)",
+        "Koopa rahvas (Ashab al-Kahf)",
+        "Hingamispäeva inimesed",
+        "A'adi rahvas",
+        "Thamudi rahvas"
+      ],
+      "answer": "Kaeviku kaaslased (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Meie kohtuprotsess",
+      "options": [
+        "Elusalt tuleaugus põletamine",
+        "Aastaid koopasse suletud olemine",
+        "Kalapüük pühal puhkepäeval",
+        "Ulgava tuule poolt hävitatud",
+        "Püha emase kaameli tapmine"
+      ],
+      "answer": "Elusalt tuleaugus põletamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Lõõmav tulekraav",
+        "Varjatud koobas ustava koeraga",
+        "Muistse hukule määratud linna kõrged sambad",
+        "Kivikaljudesse raiutud mägielamud",
+        "Avatud tasandik, mida pühivad tugevad tuuled"
+      ],
+      "answer": "Lõõmav tulekraav"
+    },
+    "outcome": {
+      "label": "Meie tulemus",
+      "options": [
+        "Meid suri märtriks ja tagakiusajaid neeti igavesti",
+        "Me ärkasime pärast 309 aastat kestnud und",
+        "Meid muudeti ahvideks oma üleastumise pärast",
+        "Võimas ulguv tuul hävitas meid kõiki",
+        "Üksainus laastav nutt purustas meie eksistentsi"
+      ],
+      "answer": "Meid suri märtriks ja tagakiusajaid neeti igavesti"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

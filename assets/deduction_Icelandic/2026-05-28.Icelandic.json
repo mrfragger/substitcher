@@ -1,0 +1,61 @@
+{
+  "title": "Hinn óhagganlegi sjúklingur",
+  "intro": "Í spádómssögunni hafa fáir þolað jafn djúpstæð missi og líkamlega þjáningu með óhagganlegri trú. Saga þessarar persónu er tímalaus lexía í þolinmæði og trausti á guðlega visku. Hver er þessi sál?",
+  "clues": [
+    "Allah valdi mig til að flytja skilaboð, en stærsta prófraun mín kom ekki í gegnum höfnun, heldur í gegnum persónulega ógæfu.",
+    "Auður minn, búfénaður minn og börnin mín voru tekin frá mér, hvert á fætur öðru.",
+    "Líkami minn var þakinn sárum og ég var skilinn eftir einn nema með stuðningi maka míns.",
+    "Ég hrópaði til Drottins míns, viðurkenndi þjáningar mínar og leitaði miskunnar hans.",
+    "Mér var sagt að slá fæti mínum á jörðina og hressandi lind spratt fram.",
+    "Allah endurreisti heilsu mína og gaf mér nýja fjölskyldu og enn meiri auð en ég hafði áður."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Ayyub",
+        "Spámaðurinn Íbrahim",
+        "Spámaðurinn Músa",
+        "Spámaðurinn Ísa",
+        "Spámaðurinn Nuh"
+      ],
+      "answer": "Spámaðurinn Ayyub"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Tap á auð og fjölskyldu",
+        "Að vera kastað í eld",
+        "Að vera gleypt af fiski",
+        "Aðskilinn frá fjölskyldu og seldur í þrældóm",
+        "Að vera prófaður með gullkálfi"
+      ],
+      "answer": "Tap á auð og fjölskyldu"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Vatnslind",
+        "Stafurinn sem breyttist í höggorm",
+        "Tréörk",
+        "Bráðinn kálfur",
+        "Pálmatré"
+      ],
+      "answer": "Vatnslind"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Endurreisn fjölskyldu og auðs",
+        "Uppstigning til himins",
+        "Að verða konungur",
+        "Að vera bjargað frá hval",
+        "Að eignast son á gamals aldri"
+      ],
+      "answer": "Endurreisn fjölskyldu og auðs"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

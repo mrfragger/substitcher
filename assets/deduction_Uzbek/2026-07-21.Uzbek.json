@@ -1,0 +1,61 @@
+{
+  "title": "Mo'l hosilning la'nati",
+  "intro": "Qadimgi yurtda bir jon ularning jamoasining eng badavlatlari qatorida turardi. Ularga ketma-ket yillar davomida yer yuzining ikki barobar ne'matlari, ikki barobar hosil kelgan edi, bu ularning qalbini minnatdorchilik bilan to'ldirishi kerak edi. Ammo fojia yuz berganda va ulardagi barcha narsalar bir kechada tortib olinganda, ularning munosabati ularning qalbining asl mohiyatini ochib berdi. Allohning ne'matlariga ishonmaslik haqida ogohlantiruvchi bu shaxsning kimligini bilib olasizmi?",
+  "clues": [
+    "Men butun yurtdagi eng baxtli odamlardan biri edim, mo'l-ko'l rizq-ro'zga ega edim.",
+    "Ikki yil ichida ikki marta hosil oldim, ammo yuragim Rabbimga noshukurligicha qoldi.",
+    "Mening uzumzorlar, zaytun va palma daraxtlari o'sgan ulkan bog'im bor edi — bu Allohning marhamatidan dalolat edi.",
+    "Bog'im vayron bo'lganida, men uning xarobalarida qo'llarimni osmonga cho'zib, taqdirimni la'natlab turdim.",
+    "Men umidsizlikka tushib kaftlarimni ezib qo'ysam ham, Alloh bunday yo'qotishga sabab bo'lganini inkor etdim.",
+    "Mening jazom shunchaki bog'imning yo'qolishi emas, balki uning xarobalari ichida butunlay ojiz qolib, hech qanday yordamchi chaqira olmasligim edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "26-suradagi bog' egasi",
+        "Uzoq yurtdan kelgan ikkita bog'ning egasi",
+        "Farovonlik shahridan kelgan badavlat ruh",
+        "Kahf surasida tilga olingan dehqon",
+        "Shu'ayb payg'ambar davridan uzumzorchi"
+      ],
+      "answer": "26-suradagi bog' egasi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Bir kechada vayron bo'lgan bog'ning yo'qolishi",
+        "Yer yuzini qoplagan buyuk to'fon",
+        "Haqiqiy va soxta payg'ambarlar bilan sinovdan o'tmoqda",
+        "Olovga tashlanish sinovi",
+        "Yer tomonidan yutib yuborilish sinovi"
+      ],
+      "answer": "Bir kechada vayron bo'lgan bog'ning yo'qolishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Ikki yil ichida vayron bo'lgan uzumzorlar, zaytun va palma daraxtlari bo'lgan bog'",
+        "Baland tog'da qurilgan kema",
+        "Fosiq qavmning shahri",
+        "Qadimgi Midiyondagi quduq",
+        "Jannat daryosi"
+      ],
+      "answer": "Ikki yil ichida vayron bo'lgan uzumzorlar, zaytun va palma daraxtlari bo'lgan bog'"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Mutlaqo ojizlik — yordamchisiz yo'q qilindi",
+        "Jannatga kirish uchun tirilish",
+        "Allohning payg'ambari bo'lish",
+        "Buyuk millat rahbarligi",
+        "Olovda abadiy azob"
+      ],
+      "answer": "Mutlaqo ojizlik — yordamchisiz yo'q qilindi"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

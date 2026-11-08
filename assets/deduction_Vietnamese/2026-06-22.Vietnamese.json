@@ -1,0 +1,61 @@
+{
+  "title": "Người Tín Đồ Thầm Ngầm",
+  "intro": "Trong những sảnh đường quyền lực xa hoa, nơi sự hoài nghi và chuyên chế ngự trị, một tiếng nói chân lý đơn độc vang lên từ một nơi không ngờ tới. Nhân vật này đã thách thức chính quyền trong việc bảo vệ người đưa tin, liều lĩnh cả sự an toàn của chính mình để loan báo sự thật.",
+  "clues": [
+    "Tôi từng sống trong một vùng đất đầy bạo ngược, phục vụ một kẻ cai trị tự xưng là thần thánh.",
+    "Tôi đã giấu kín niềm tin thật sự của mình trong nhiều năm vì sợ những hậu quả nếu tiết lộ chúng.",
+    "Khi sứ giả đến với những dấu hiệu rõ ràng, tôi đã tin, nhưng dân tôi lại âm mưu chống lại ông ta.",
+    "Tôi đứng trước tên bạo chúa và hội đồng của hắn, tranh luận rằng họ không nên giết một người đưa tin vô tội.",
+    "Tôi đã cảnh báo họ về sự trừng phạt dành cho các dân tộc trong quá khứ đã chối bỏ lẽ thật, giống như dân của Nô-ê và A-đa.",
+    "Allah đã cứu tôi khỏi những âm mưu độc ác của chúng, và tôi đã chứng kiến ​​sự sụp đổ của chế độ áp bức."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người tín đồ thuộc dòng dõi Pharaoh",
+        "Phù thủy của Pharaoh",
+        "Tể tướng của Pharaoh",
+        "Vợ của Pharaoh",
+        "Thủ quỹ của Pharaoh"
+      ],
+      "answer": "Người tín đồ thuộc dòng dõi Pharaoh"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Bảo vệ một nhà tiên tri khỏi bị hành quyết",
+        "Thách thức mánh khóe của ảo thuật gia",
+        "Xây dựng một tòa tháp vươn tới bầu trời",
+        "Rẽ biển để thoát thân",
+        "Giải mã giấc mơ của nhà vua"
+      ],
+      "answer": "Bảo vệ một nhà tiên tri khỏi bị hành quyết"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Cung điện của Pharaoh",
+        "Bụi cây bốc cháy",
+        "Con bê vàng",
+        "Giếng Madyan",
+        "Hòm giao ước của Tiên tri Nuh"
+      ],
+      "answer": "Cung điện của Pharaoh"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được cứu thoát khỏi nguy hiểm trong khi những kẻ áp bức bị tiêu diệt.",
+        "Trở thành một người cai trị quyền lực",
+        "Bị ném vào lửa nhưng vẫn không hề hấn gì.",
+        "Bị đất nuốt chửng",
+        "Lang thang trong vùng hoang vu suốt bốn mươi năm."
+      ],
+      "answer": "Được cứu thoát khỏi nguy hiểm trong khi những kẻ áp bức bị tiêu diệt."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

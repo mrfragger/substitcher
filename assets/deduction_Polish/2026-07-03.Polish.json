@@ -1,0 +1,61 @@
+{
+  "title": "Zwiastun bezprecedensowego grzechu",
+  "intro": "Niektóre historie w Koranie ukazują głębię zepsucia, w jakie może popaść całe społeczeństwo. Ten posłaniec stanął samotnie, błagając lud pogrążony w zepsuciu, którego żaden naród przed nim nie doświadczył. Pomimo lat ostrzeżeń, serca pozostały zatwardziałe, a boski wyrok nadszedł w najbardziej przerażający sposób. Czy potrafisz rozpoznać tego szlachetnego posłańca Allaha?",
+  "clues": [
+    "Zostałem posłany jako ostrzeżenie do ludu pogrążonego w zepsuciu, jakiego żaden naród przed nimi nie popełnił.",
+    "Mój lud nazwał mnie kłamcą i groził, że wypędzi mnie i moich zwolenników z kraju.",
+    "Do mojego domu przybyli znamienici goście w postaci strajkujących młodych mężczyzn. Bardzo martwiłem się o ich bezpieczeństwo.",
+    "Mój lud zażądał, abym oddał im moich gości, nieświadomy, że ci goście są aniołami wysłanymi przez Allaha.",
+    "Mój małżonek nie podzielał mojej wiary i postanowił pozostać ze skazanymi na zagładę.",
+    "Zostałem uratowany wraz z córkami o świcie, gdy spadł niszczycielski deszcz kamieni i nasze miasta zostały zburzone."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Lut",
+        "Prorok Szu’ajb",
+        "Prorok Hud",
+        "Prorok Noh",
+        "Prorok Salih"
+      ],
+      "answer": "Prorok Lut"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wielka powódź pochłaniająca ziemię",
+        "Utrata wzroku spowodowana długotrwałym cierpieniem",
+        "Tyran podający się za boskość",
+        "Wrzucenie do płonącego ognia",
+        "Żądanie oddania szanowanych gości"
+      ],
+      "answer": "Żądanie oddania szanowanych gości"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wielka arka zbudowana ręcznie",
+        "Laska, która rozdzieliła morze",
+        "Cudowna wielbłądzica",
+        "Płonący ogień",
+        "Przewrócone miasta"
+      ],
+      "answer": "Przewrócone miasta"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Utonął podczas pościgu za wierzącymi",
+        "Ocalony z ognistego pieca bez szwanku",
+        "Podniesiony żywy do nieba",
+        "Rodzina zginęła w wielkiej powodzi",
+        "Rodzina uratowana, z wyjątkiem niewiernej żony"
+      ],
+      "answer": "Rodzina uratowana, z wyjątkiem niewiernej żony"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

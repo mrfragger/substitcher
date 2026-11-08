@@ -1,0 +1,61 @@
+{
+  "title": "La Malbenitaj Manoj",
+  "intro": "Vi staras en la kurbiĝemaj stratetoj de antikva Mekko, kie animo de influo kaj riĉeco iam forturniĝis de la voko de vero. La rakonto de ĉi tiu figuro estas akra memorigilo, ke sangaj ligiloj ne povas venki la ĉenojn de fiereco. Kiu estas ĉi tiu, kies nomo eĥas kun la fajro, kiu atendas?",
+  "clues": [
+    "Mi promenis sur la stratoj de Mekko kun fiereco, kiu blindigis min al la vero, kvankam la mesaĝisto estis el mia propra sango.",
+    "Miaj posedaĵoj estis vastaj, sed ili fariĝis malbeno anstataŭ ŝildo.",
+    "La libro de gvido parolas pri mia pereo, deklarante ke miaj manoj kaj mia persono pereos.",
+    "Mia edzino aliĝis al mia kampanjo de malamikeco, kolektante dornojn por disĵeti sur la vojon de tiu, kiu vokis Alaho-n.",
+    "En la tago de juĝo, mi estos enigita en fajron de flamanta flamo, kaj mia edzino havos ŝnuron el palmofibro ĉirkaŭ la kolo.",
+    "Mi estas konata per nomo kiu signifas \"patro de flamo\" — nomo kiu antaŭdiras mian eternan loĝejon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Ŭalid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ŝlosila Testo aŭ Okazaĵo",
+      "options": [
+        "Kontraŭstaris la Profeton kaj estis malbenita en la Korano",
+        "Gvidis armeon por detrui la Kaaba-on",
+        "Provis mortigi la Profeton per ĵetado de ŝtonoj",
+        "Rifuzis kredi je la disiĝo de la luno",
+        "Konstruis turon por atingi la ĉielon"
+      ],
+      "answer": "Kontraŭstaris la Profeton kaj estis malbenita en la Korano"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La flamanta Fajro de Infero",
+        "La Bastono de Musa",
+        "La Arkeo de Nuh",
+        "La Puto de Zamzam",
+        "La Ora Bovido"
+      ],
+      "answer": "La flamanta Fajro de Infero"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Li eniros la flamantan Fajron, kaj lia riĉeco ne utilos al li",
+        "Li pentis kaj fariĝis kredanto",
+        "Li estis pardonita post reprenado",
+        "Li mortis kiel martiro",
+        "Li estis prenita supren al la ĉielo"
+      ],
+      "answer": "Li eniros la flamantan Fajron, kaj lia riĉeco ne utilos al li"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

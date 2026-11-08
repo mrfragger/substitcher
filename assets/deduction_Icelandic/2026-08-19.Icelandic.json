@@ -1,0 +1,61 @@
+{
+  "title": "Þjóðin sem ögraði náttúrunni",
+  "intro": "Í svæði þar sem sagan bergmálar í gegnum aldirnar lifði samfélag í opinberri uppreisn gegn lögmálum hreinleikans. Verk þeirra voru svo fordæmalaus að þau eru minnst sem viðvörunarmerki fyrir allt mannkynið. Hverjar voru þessar sálir og hvaða örlög hlupu þær?",
+  "clues": [
+    "Við bjuggum í landi við leið sem ferðalangar fóru oft um, en við gerðum ferð þeirra hættulega.",
+    "Við frömdum slíka ósæmileika sem enginn í heiminum hafði nokkurn tímann gert áður.",
+    "Sendiboði úr okkar hópi kallaði okkur til að yfirgefa vegu okkar, en við höfnuðum honum og kröfðumst refsingar ef hann væri sannur.",
+    "Þegar myndarlegir gestir komu til borgar okkar reyndum við að ráðast á þá, án þess að vita að þeir voru boðberar tortímingar.",
+    "Við vorum vöruð við hræðilegri refsingu ef við hættum ekki við, en við hæddumst að viðvöruninni og héldum áfram að syndga.",
+    "Steinaregn af himni féll á okkur og heimili okkar kollvarpuðust og skildu ekki eftir sig neitt nema merki fyrir þá sem hugsa um það."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið í Lút",
+        "Fólkið í Thamud",
+        "Fólkið í A'ad",
+        "Fólkið í Madyan",
+        "Fólkið á Saba"
+      ],
+      "answer": "Fólkið í Lút"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Frömdu fordæmalaust siðleysi og lokuðu vegum",
+        "Tilbað gullkálf",
+        "Drap hina helgu úlfalda",
+        "Svikuðu í viðskiptum og svindluðu á fólki",
+        "Byggði háan turn til að skora á himininn"
+      ],
+      "answer": "Frömdu fordæmalaust siðleysi og lokuðu vegum"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Englar dulbúnir sem myndarlegir gestir",
+        "Úlfaldakvenna kemur upp úr kletti",
+        "Stafur sem breytist í höggorm",
+        "Bátur smíðaður á fjalli",
+        "Eldur sem varð kaldur og friðsæll"
+      ],
+      "answer": "Englar dulbúnir sem myndarlegir gestir"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Eyðilagður af steinasnjó af himni",
+        "Gleypt af jörðinni",
+        "Drukknaði í miklu flóði",
+        "Lenti í öskrandi sprengingu",
+        "Umbreyttust í apa"
+      ],
+      "answer": "Eyðilagður af steinasnjó af himni"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

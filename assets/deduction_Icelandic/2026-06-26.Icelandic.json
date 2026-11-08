@@ -1,0 +1,61 @@
+{
+  "title": "Byrðin af því að hafna gjöf",
+  "intro": "Í upphafi mannkynssögunnar, þegar jörðin var enn ung og heimurinn hélt í fyrsta andardráttinn, stóð sál frammi fyrir skaparanum með auðmjúka fórn. Sú fórn var vegin á vogarskálar guðlegrar viðurkenningar – og fundin léttvæg. Það sem fylgdi í kjölfarið var ekki saga um fyrirgefningu, heldur um hjarta sem var gripið af öfund, sem leiddi til óafturkræfrar athafnar sem myndi enduróma um alla tíð. Þetta er saga manns sem nafn varð samheiti við fyrsta alvarlega óréttlætið sem framið var.",
+  "clues": [
+    "Ég varð til sem eitt af allra fyrstu börnum sem nokkurn tímann fæddust, fædd foreldri sem þú þekkir vel sögu sína.",
+    "Ég færði einu sinni Allah fórn, en hún var ekki vel þegin frá mér — þótt fórn systkina minna hafi verið móttekin með náð.",
+    "Öfund og reiði festu rætur í hjarta mínu og ég hótaði að binda enda á líf ættingja minna.",
+    "Systkini mitt varaði mig við að óttast Allah, en stolt mitt leyfði mér ekki að hlusta.",
+    "Í augnabliki hræðilegs veikleika framdi ég ólýsanlegan verknað á eigin bróður mínum.",
+    "Eftir á vissi ég ekki einu sinni hvernig ég ætti að fela það sem ég hafði gert — fyrr en skepna jarðarinnar var send til að kenna mér."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Sonur spámannsins Nuh",
+        "Spámaðurinn Ísmael",
+        "Spámaðurinn Jósef"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að færa fórn sem var hafnað, sem leiddi til fyrsta morðsins",
+        "Að byggja háan turn til að ná til himins",
+        "Að vera kastað í brennandi eld fyrir trú sína",
+        "Að fórna eigin syni í hlýðni við Allah",
+        "Að vera gleyptur af stórum fiski fyrir að flýja skyldu sína"
+      ],
+      "answer": "Að færa fórn sem var hafnað, sem leiddi til fyrsta morðsins"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Kráka send af Allah til að sýna fram á greftrun",
+        "Mikil flóð sem drukknaði heilli þjóð",
+        "Stafurinn sem breyttist í lifandi höggorm",
+        "Úlfaldakven sem kom upp úr klettafjalli",
+        "Stórkostlegt hásæti borið af voldugum vindum"
+      ],
+      "answer": "Kráka send af Allah til að sýna fram á greftrun"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Varð af þeim sem iðrast, þungur af fyrsta glæpnum sem framinn var",
+        "Var fyrirgefið af Allah og veitt eilíf paradís",
+        "Var hækkaður í stöðu spádóms og visku",
+        "Var bjargað af guðlegri miskunn eftir að hafa kallað út úr djúpi myrkursins",
+        "Var gefið yfirráð yfir djinnunum, vindinum og höfunum"
+      ],
+      "answer": "Varð af þeim sem iðrast, þungur af fyrsta glæpnum sem framinn var"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Gästfriheten som väckte rädsla",
+  "intro": "I en stad som slukades av ondska fick en trogen tjänare en dag oväntade besökare. Denna person var orolig för sin säkerhet och erbjöd skydd, men stadens invånare krävde något skamligt. Varnad för en annalkande undergång flydde tjänaren med familjen i skydd av mörkret och lämnade efter sig en stad som var märkt för undergång. Vem är denne ensamme troende?",
+  "clues": [
+    "Jag sändes som budbärare till ett folk som hade begått skamliga handlingar.",
+    "Oväntade besökare kom till mitt hem, och jag var mer orolig för deras säkerhet än min egen.",
+    "Mitt folk krävde att få träffa mina gäster av onda avsikter, och jag försökte resonera med dem.",
+    "Mina besökare uppenbarade sig som änglar och befallde mig att ta med min familj och ge mig av i natten.",
+    "Min fru lyssnade inte på uppmaningen att fly och mötte samma förödelse som mitt folk.",
+    "Min stad vältedes av ett regn av stenar av lager av lera, dess högsta delar sänktes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Lut",
+        "Profeten Musa",
+        "Profeten Ibrahim",
+        "Profeten Nuh",
+        "Profeten Hud"
+      ],
+      "answer": "Profeten Lut"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Mitt folks krav att närma sig mina gäster ondskefullt",
+        "Havets deling för att undkomma en tyrann",
+        "Byggandet av en stor ark mitt under hån",
+        "Min sons offer i ett trosprövande",
+        "Upplevelsen av att bli uppslukad av en stor fisk"
+      ],
+      "answer": "Mitt folks krav att närma sig mina gäster ondskefullt"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Mitt folks omkullkastade stad",
+        "Berget där jag mottog gudomligt tal",
+        "Arken som seglade genom en stor översvämning",
+        "Kamelhonan som kom upp ur klippan",
+        "Trädgården med en dold rättfärdig besökare"
+      ],
+      "answer": "Mitt folks omkullkastade stad"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Jag räddades med min familj innan min stad störtades omkull",
+        "Jag ledde mitt folk till frihet över havet",
+        "Jag byggde en stor ark och överlevde en mäktig översvämning",
+        "Jag fick herravälde över vindarna och djinnerna",
+        "Jag uthärdade tålmodigt lidande och belönades med familj"
+      ],
+      "answer": "Jag räddades med min familj innan min stad störtades omkull"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

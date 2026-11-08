@@ -1,0 +1,61 @@
+{
+  "title": "Ang Trono na Naglakbay sa Isang Iglap",
+  "intro": "Isang pigura na may napakalaking awtoridad ang namuno sa isang mayamang kaharian na pinagpala ng kayamanang hindi masukat. Nang bumangon ang isang hindi inaasahang hamon, ang pinunong ito ay naharap sa isang pagsubok hindi sa mga espada kundi sa karunungan at pananampalataya. Ang magaganap ay hahantong mula sa tugatog ng makamundong kapangyarihan tungo sa isang malalim na pagbabago ng puso.",
+  "clues": [
+    "Pinamunuan ko ang isang kahariang pinagpala ng kayamanan at kasaganaan na higit pa sa inaasahan",
+    "Ako ay isang makapangyarihang monarko na nakatanggap ng isang matapang na liham na humihiling ng pagpapasakop",
+    "Pinayuhan ako ng aking mga maharlika kung lalaban o makikipagpayapaan sa haring ito na malayo sa akin.",
+    "Naglakbay ako dala ang mga kahanga-hangang regalo upang salubungin ang malayong haring ito",
+    "Ang aking maharlikang trono ay dinala sa isang malayong lupain sa isang kisap-mata, bago pa ako makabalik",
+    "Nang pumasok ako sa isang palasyo na ang sahig ay makinis na parang salamin, sa wakas ay ipinahayag ko ang aking pagsuko kay Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Bilqis, Reyna ng Sheba",
+        "Ang Asawa ni Paraon",
+        "Ang Asawa ni Al-Aziz",
+        "Maryam, anak na babae ni Imran",
+        "Ang Asawa ni Propeta Lut"
+      ],
+      "answer": "Bilqis, Reyna ng Sheba"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagtanggap ng isang matapang na liham na humihingi ng pagpapasakop",
+        "Itinapon sa nagliliyab na apoy",
+        "Nilunok ng isang malaking isda",
+        "Mga taon ng pagtitiis ng masasakit na karamdaman",
+        "Pagsaksi sa pagkawasak ng isang bayan sa pamamagitan ng isang baha"
+      ],
+      "answer": "Pagtanggap ng isang matapang na liham na humihingi ng pagpapasakop"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang kahanga-hangang trono ng hari na gawa sa ginto at mga hiyas",
+        "Isang tungkod na naghati sa dagat",
+        "Isang arka na nakapatong sa isang bundok",
+        "Isang sagradong bahay-sambahan sa Makkah",
+        "Isang ginintuang guya na sinasamba ng isang bayan"
+      ],
+      "answer": "Isang kahanga-hangang trono ng hari na gawa sa ginto at mga hiyas"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pagsuko kay Allah kasama ang isang propeta",
+        "Nalulunod sa dagat habang hinahabol ang isang kaaway",
+        "Ang mahimalang pagliligtas mula sa nagliliyab na apoy",
+        "Pagkatapon mula sa hardin ng walang hanggang kaligayahan",
+        "Pagtanggap ng isang kaharian na may napakalaking kapangyarihan"
+      ],
+      "answer": "Pagsuko kay Allah kasama ang isang propeta"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

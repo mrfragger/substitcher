@@ -1,0 +1,61 @@
+{
+  "title": "De Bewaker van de Onblusbare Vlam",
+  "intro": "Een figuur staat op de drempel van de meest gevreesde plek in het onzichtbare, belast met een taak die geen enkel ander wezen begeert. Wanneer lijdende zielen om genade smeken, klinkt er een streng antwoord door de vurige kamers. Kun jij de identiteit van deze eeuwige bewaker ontrafelen?",
+  "clues": [
+    "Ik sta aan de ingang van een angstaanjagende strafplaats in het onzichtbare.",
+    "Een laaiend, onblusbaar vuur vormt het middelpunt van mijn plechtige plicht.",
+    "Lijdende zielen roepen mijn naam aan en smeken om verlichting van hun eindeloze kwelling.",
+    "Wanneer ze smeken, verklaar ik dat ze nooit meer weg zullen gaan.",
+    "Ik ben geen mens, noch een djinn — ik ben een schepsel van pure gehoorzaamheid.",
+    "Ik ben de voornaamste engel, aangesteld als de eeuwige bewaker van het hellevuur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "De bewoners van de hel smeken om een ​​einde aan hun kwelling.",
+        "De trompet wordt geblazen om de Dag des Oordeels aan te kondigen.",
+        "De Koran is geopenbaard aan het hart van de Profeet.",
+        "Een profeet wordt door zijn eigen volk in een groot vuur geworpen.",
+        "Een machtige muur wordt gebouwd om een ​​corrupte natie in bedwang te houden."
+      ],
+      "answer": "De bewoners van de hel smeken om een ​​einde aan hun kwelling."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Het hellevuur (Jahannam)",
+        "De lotusboom aan de rand van het paradijs",
+        "Een doordringende trompet",
+        "Een staf die in een slang verandert.",
+        "Een schitterende goddelijke troon"
+      ],
+      "answer": "Het hellevuur (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "De bewoners van de hel wordt verteld dat ze daar voor eeuwig zullen blijven.",
+        "De bewoners van de hel worden vergeven en vrijgelaten.",
+        "De bewoners van de hel krijgen een tweede kans op geloof.",
+        "De bewoners van de hel worden overgebracht naar een koelere plek.",
+        "De bewoners van de hel worden volledig vernietigd door een blikseminslag."
+      ],
+      "answer": "De bewoners van de hel wordt verteld dat ze daar voor eeuwig zullen blijven."
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

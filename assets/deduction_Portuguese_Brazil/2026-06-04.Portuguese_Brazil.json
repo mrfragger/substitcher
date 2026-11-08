@@ -1,0 +1,61 @@
+{
+  "title": "O Sinal Entre as Pedras",
+  "intro": "Em uma terra onde as montanhas foram esculpidas para servir de moradia, um mensageiro chegou com um sinal milagroso de Alá. O povo exigiu provas e recebeu uma criatura feita de rocha sólida. Mas sua arrogância os levou a desobedecer à advertência, selando seu destino.",
+  "clues": [
+    "Fui enviado a um povo que vivia em moradias escavadas nas montanhas.",
+    "Eles me desafiaram a trazer um cartaz, então eu fiz um camelo de uma pedra.",
+    "Ordenei que deixassem o camelo beber livremente e que não lhe fizessem mal.",
+    "Eles desobedeceram e cortaram os tendões do camelo, desafiando meu aviso.",
+    "Anunciei que a punição viria depois de três dias.",
+    "Pela manhã, uma explosão poderosa os destruiu, mas eu e meus seguidores fomos salvos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Ló",
+        "Profeta Shu'ayb",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Pedido de uma camela de uma rocha",
+        "Demanda por um bezerro de ouro",
+        "Pedido de uma mesa posta vinda dos céus",
+        "Demanda por uma inundação",
+        "Exigência de um funcionário para se tornar uma serpente."
+      ],
+      "answer": "Pedido de uma camela de uma rocha"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A camela e seu filhote",
+        "A Arca de Noé",
+        "O Cajado de Moisés",
+        "O Bezerro de Ouro",
+        "O Fogo de Ibrahim"
+      ],
+      "answer": "A camela e seu filhote"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruído por uma explosão poderosa",
+        "Afogado na enchente",
+        "Engolido pela terra",
+        "Transformados em macacos",
+        "Destruído por um vento feroz."
+      ],
+      "answer": "Destruído por uma explosão poderosa"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

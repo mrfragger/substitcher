@@ -1,0 +1,61 @@
+{
+  "title": "Strážca pri brehu rieky",
+  "intro": "V krajine, kde tyranov dekrét priniesol smútok do mnohých domovov, jedna duša prijala posolstvo, ktoré vzdorovalo všetkému strachu. So srdcom naplneným dôverou sa pustili do činu viery, ktorý zmenil smerovanie národa. Zatiaľ čo vody niesli vzácny náklad, nádej sa miešala s prúdmi.",
+  "clues": [
+    "Žil som v dobe útlaku a strachu.",
+    "Dostal som božskú inšpiráciu, ktorá mi dodala odvahu.",
+    "Bolo mi prikázané, aby som sa nebál ani nesmútil.",
+    "Vložil som svoje dieťa do truhlice a postavil som ju na vodu.",
+    "Moje dieťa našla vládcova domácnosť, ale moje druhé dieťa ho nasledovalo.",
+    "Znova som sa stretla so svojím dieťaťom, aby som ho dojčila, presne ako Alah sľúbil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Mojžišova matka",
+        "Manželka faraóna",
+        "Mojžišova sestra",
+        "Ježišova matka",
+        "Kráľovná zo Sáby"
+      ],
+      "answer": "Mojžišova matka"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Byť inšpirovaný hodiť dieťa do rieky",
+        "Byť vyzvaný na magický súboj",
+        "Prenasledovaný armádou",
+        "Prechádzajúc cez more, ktoré sa rozdelilo",
+        "Stavba posvätného domu"
+      ],
+      "answer": "Byť inšpirovaný hodiť dieťa do rieky"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Truhlica umiestnená v rieke",
+        "Horiaci ker",
+        "Zamestnanec, ktorý sa premenil na hada",
+        "Zlaté teľa",
+        "Trón"
+      ],
+      "answer": "Truhlica umiestnená v rieke"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Dieťa bolo bezpečne vrátené zdravotnej sestre",
+        "Dieťa bolo navždy stratené",
+        "Dieťa bolo odvedené do ďalekej krajiny",
+        "Dieťa sa okamžite stalo vládcom",
+        "Dieťa si adoptoval bohatý obchodník"
+      ],
+      "answer": "Dieťa bolo bezpečne vrátené zdravotnej sestre"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

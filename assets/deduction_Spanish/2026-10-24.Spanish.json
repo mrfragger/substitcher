@@ -1,0 +1,61 @@
+{
+  "title": "La advertencia bajo tierra",
+  "intro": "Imagina estar junto a una profunda excavación mientras voces se elevan desde abajo y el mundo de arriba enmudece. El Corán conserva esta escena como advertencia: si una comunidad rechaza lo que traen los mensajeros, el castigo se cierne sobre ella, e incluso su clamor se convierte en testimonio. ¿Qué colectivo habla a través de esos versículos?",
+  "clues": [
+    "En el Corán se nos recuerda como un colectivo definido por un destino compartido, más que por un nombre individual.",
+    "Rechazamos el mensaje que trajeron los mensajeros, aunque lo que decían era cierto.",
+    "Nuestra identidad, tal como la recordamos, está ligada a una profunda hendidura en la tierra, y esa característica pasó a formar parte de nuestro nombre.",
+    "El día señalado, nos sacaron y nos arrastraron hacia el fuego.",
+    "No pudimos defendernos del castigo, ni pudimos oír su rugido.",
+    "Nos volverían la cara hacia el fuego, y nos empujarían hacia él; cuando nos interrogaran, diríamos que estábamos entre los que no podían responder."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Los Compañeros de la Trinchera",
+        "La nación liberada del gran diluvio",
+        "Los adoradores del becerro de oro",
+        "El grupo se refugió dentro de la cueva de la montaña.",
+        "La comunidad liberada del horno ardiente"
+      ],
+      "answer": "Los Compañeros de la Trinchera"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Arrastrado y arrojado al fuego",
+        "Entregado desde un horno ardiente",
+        "Transportado a salvo a través de una gran inundación.",
+        "Protegido durante siglos dentro de una cueva.",
+        "Rescatada tras ser arrojada a un pozo."
+      ],
+      "answer": "Arrastrado y arrojado al fuego"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una zanja o foso",
+        "Un gran mar",
+        "Una cueva de montaña",
+        "Un palacio alto",
+        "Un pozo del desierto"
+      ],
+      "answer": "Una zanja o foso"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Incapaces de defenderse e incapaces de oír el rugido del fuego",
+        "Rescatados y con acceso a jardines eternos",
+        "Entregado sano y salvo a través de una inundación devastadora.",
+        "Protegido por un largo sueño dentro de una cueva",
+        "Honrado con un reino eterno"
+      ],
+      "answer": "Incapaces de defenderse e incapaces de oír el rugido del fuego"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

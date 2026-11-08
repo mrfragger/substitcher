@@ -1,0 +1,61 @@
+{
+  "title": "Spanec onkraj časa",
+  "intro": "Predstavljajte si čas, ko je bila resnica utišana in verniki preganjani. Majhna skupina se je namesto predaje odločila za umik in našla zatočišče na najbolj neverjetnih krajih – kraju, ki bo postal njihovo počivališče za nešteto stoletij. Ko so se končno prebudili, se je svet okoli njih spremenil. Kdo so te speče duše?",
+  "clues": [
+    "Bili smo mladi ljudje, ki smo živeli v starodavnem mestu.",
+    "Naša skupnost je zahtevala, da častimo skupaj z njimi, vendar smo to zavrnili.",
+    "Iz mesta smo pobegnili v iskanju zatočišča pred tistimi, ki so nasprotovali našim prepričanjem.",
+    "Zvesti štirinožni spremljevalec je ostal pri vhodu v naše skrivališče.",
+    "Allah nas je uspaval tristo devet let.",
+    "Ko smo se končno zbudili, je naše nekoč preganjano mesto sprejelo vero."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Ashab al-Kahf (Ljudje iz jame)",
+        "Ashab al-Fil (Slonova vojska)",
+        "Ashab al-Ukhdud (Sopotniki jarka)",
+        "Hawariyyun (Isovi učenci)",
+        "Yajuj wa Majuj (Gog in Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Ljudje iz jame)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Umaknili smo se v jamo in spali stoletja",
+        "Rešeni smo bili pred gorečim ognjem",
+        "Požrla nas je velika riba",
+        "Preizkusili so nas s čudežno kamelo",
+        "Dobili smo devet jasnih znakov"
+      ],
+      "answer": "Umaknili smo se v jamo in spali stoletja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Globoka jama v gorah",
+        "Čoln na odprtem morju",
+        "Visoka struktura, ki sega do nebes",
+        "Vrt, razdeljen med dva tekmeca",
+        "Pregrada iz železa in bakra"
+      ],
+      "answer": "Globoka jama v gorah"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Zbudili smo se in ugotovili, da se je naše mesto obrnilo k veri",
+        "Plameneči ogenj je postal hladen in miren",
+        "Sovražna vojska se je utopila v morju",
+        "Ptice, ki so nosile kamenje, so uničile sovražnika",
+        "Velika riba nas je spustila na obalo"
+      ],
+      "answer": "Zbudili smo se in ugotovili, da se je naše mesto obrnilo k veri"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

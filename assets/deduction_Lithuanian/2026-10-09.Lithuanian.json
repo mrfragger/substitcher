@@ -1,0 +1,61 @@
+{
+  "title": "Neišgirstas šauksmas arogancijos šalyje",
+  "intro": "Jūs stovite kadaise didžios civilizacijos griuvėsiuose, kur galia ir išdidumas nežinojo ribų. Tarp jų vaikščiojo pasiuntinys, šaukdamas tiesą, bet jų širdys buvo užkietėjusios. Įspėjimas liko neišgirstas, ir pats dangus tapo rūstybės įrankiu. Kas buvo šis pasiuntinys ir kas nutiko tiems, kurie atmetė kvietimą?",
+  "clues": [
+    "Buvau pasiųstas pas neprilygstamos jėgos žmones, kurie kiekvienoje aukštumoje statė paminklus.",
+    "Mano tauta laikė save nenugalima ir sakė: „Kas yra stipresnis už mus?“",
+    "Aš juos pašaukiau garbinti vien Alachą, bet jie apkaltino mane kvailumu ir melu.",
+    "Jie metė man iššūkį įvykdyti bausmę, kurią pažadėjau, jei būčiau sąžiningas.",
+    "Alachas pasiuntė jiems nevaisingus vėjus, kurie nieko negailėjo.",
+    "Aš ir tie, kurie tikėjo kartu su manimi, buvome išgelbėti Alacho malonės, o netikintieji buvo visiškai sunaikinti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Hudas",
+        "Pranašas Salihas",
+        "Pranašas Šuaibas",
+        "Pranašas Lutas",
+        "Pranašas Nuh"
+      ],
+      "answer": "Pranašas Hudas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Smarkus vėjas sunaikino netikinčiuosius",
+        "Didelis potvynis užliejo netikinčiuosius",
+        "Akmenų lietus krito",
+        "Garsus klyksmas apėmė netikinčiuosius",
+        "Netikinčiuosius sukrėtė žemės drebėjimas"
+      ],
+      "answer": "Smarkus vėjas sunaikino netikinčiuosius"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Negailestingas vėjas",
+        "Medinė arka",
+        "Kupranugarė",
+        "Molio akmenų lietus",
+        "Liepsnojanti ugnis"
+      ],
+      "answer": "Negailestingas vėjas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Hudas ir tikintieji buvo išgelbėti, o netikintieji buvo sunaikinti",
+        "Hudas buvo pakeltas į aukštas pareigas",
+        "Hudą nužudė jo žmonės",
+        "Hudo žmonės atgailavo ir buvo išgelbėti",
+        "Hudas paliko savo žmones prieš bet kokią bausmę"
+      ],
+      "answer": "Hudas ir tikintieji buvo išgelbėti, o netikintieji buvo sunaikinti"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

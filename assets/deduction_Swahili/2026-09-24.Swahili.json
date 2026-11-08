@@ -1,0 +1,61 @@
+{
+  "title": "Mfalme Aliyedai Uungu",
+  "intro": "Mtawala mwenye nguvu na kiburi aliamini hakuna aliyesimama juu ya kiti chao cha enzi. Walifukuza kundi lililokuwa likikimbia kuvuka maji mengi, lakini wakapata mwisho wa kutisha. Hadithi ya mfalme huyu inarudiwa katika vifungu vingi vya Quran, ikiwa onyo kwa wote.",
+  "clues": [
+    "Nilikuwa mtawala mwenye nguvu ambaye aliamini hakuna mamlaka iliyozidi yangu katika nchi nilizotawala.",
+    "Nilikuwa na waziri niliyemwamini anayeitwa Haman ambaye alinisaidia kutekeleza miradi mikubwa ya usanifu majengo.",
+    "Niliwaita wachawi bora zaidi wa nchi yangu ili kupinga ishara za mjumbe aliyenipinga.",
+    "Nilikataa kuwaacha watu waliokuwa watumwa ndani ya ufalme wangu waondoke, licha ya mapigo na maonyo yaliyo wazi.",
+    "Niliwafuata kuvuka bahari kubwa pamoja na jeshi langu lote na magari yangu ya vita.",
+    "Bahari hiyo hiyo ilinifunika mimi na majeshi yangu, ikatuzamisha sote, huku wao wakivuka salama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Firauni (Farao)",
+        "Namrud",
+        "Abu Lahab",
+        "Hamani",
+        "Abu Jahl"
+      ],
+      "answer": "Firauni (Farao)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mapigo na mapambano na Musa (Musa)",
+        "Kujenga safina kabla ya gharika kubwa",
+        "Vita dhidi ya Jalut katika bonde",
+        "Kumezwa na nyangumi",
+        "Kutetea uzito wa biashara wa uaminifu"
+      ],
+      "answer": "Mapigo na mapambano na Musa (Musa)"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Minara mirefu na vigingi",
+        "Sanduku kubwa la mbao",
+        "Ndama wa dhahabu",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Nyangumi mkubwa"
+      ],
+      "answer": "Minara mirefu na vigingi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuzama baharini na jeshi",
+        "Kuokolewa kwa rehema na uvumilivu wa Mwenyezi Mungu kulilipwa",
+        "Nimeungana tena na familia baada ya miaka mingi ya shida",
+        "Imemezwa na ardhi",
+        "Imechomwa motoni"
+      ],
+      "answer": "Kuzama baharini na jeshi"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Görünmeyenden Gelen Dinleyiciler",
+  "intro": "Görünür dünyanın perdesinin ötesinde, karanlıkta gizli bir topluluk toplandı; bildikleri her şeye meydan okuyan bir sese doğru çekiliyorlardı. Gerçek bir rehberlik olmadan çağlar boyunca dolaşmışlardı, ta ki görünmez alemlerinin sessizliğini delen bir ses içlerindeki derin bir şeyi harekete geçirene kadar. Bu gece, gölgelerin ötesine geçmeye ve ilahi sözlerle karşılaşmaları onları, bastırılamayacak bir gerçeğin habercisi olarak halklarına geri döndüren bu gizemli grubun kimliğini ortaya çıkarmaya davetlisiniz.",
+  "clues": [
+    "Bizler, okuduğunuz birçok ulustan çok daha önce var olmuş kadim varlıklarız, ancak insan öykülerinde nadiren bahsediliriz.",
+    "Bizim doğamız sizinkinden farklıdır, görünmeyenin unsurlarından örülmüştür ve sıradanlığın ötesinde güçlere sahibiz.",
+    "Uzun yıllar boyunca gerçek bir rehber olmadan dolaştık, ta ki içimizde derin bir şeyleri harekete geçiren bir ses bize ulaşana kadar.",
+    "Daha önce hiç duymadığımız türden bir şiir okumasına kulak misafiri olduk; sözler, herhangi bir konuşmanın ötesinde bir ağırlık taşıyordu.",
+    "Gizlice birbirimize yaklaştık, kendi aramızdakilere sessiz olmalarını emrettik ve şiir bittiğinde biz de yerimizde duramadık.",
+    "Halkımıza döndük ve şöyle ilan ettik: 'Ey halkım! Musa'dan sonra indirilen, ondan önce gelenleri doğrulayan ve hakikate yönlendiren bir Kitap işittik.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Havariyyun (İsa'nın Müritleri)",
+        "Kur'an'ı dinledikten sonra iman eden cinler",
+        "Mağara Yoldaşları",
+        "En alt cennetin melekleri",
+        "Firavunun yolunu izleyen halkı"
+      ],
+      "answer": "Kur'an'ı dinledikten sonra iman eden cinler"
+    },
+    "trial": {
+      "label": "Deneme / Etkinlik",
+      "options": [
+        "Yeni yaratılmış bir varlığın önünde eğilmeyi reddettiğimiz için dışlandık.",
+        "Üç yüz dokuz yıl boyunca bir mağaraya hapsedildik.",
+        "Önümüzde ikiye ayrılan bir denizi geçmemiz emredildi.",
+        "Büyü öğrenmek için sihirli bir diyara gönderildik.",
+        "Gizlice yapılan bir okuma dinledik ve bundan etkilendik."
+      ],
+      "answer": "Gizlice yapılan bir okuma dinledik ve bundan etkilendik."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir halkın süs eşyalarından yapılmış altın bir buzağı.",
+        "Uykunun nesiller boyu sürdüğü bir mağara",
+        "Babil'de yasak bilgiyi öğreten iki melek.",
+        "Musa'dan sonra vahyedilen ve Tevrat'ı doğrulayan bir kitap.",
+        "Kutsal bir dağın tepesinde yanan bir çalı"
+      ],
+      "answer": "Musa'dan sonra vahyedilen ve Tevrat'ı doğrulayan bir kitap."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Kıyamet Gününe kadar lanetlendik.",
+        "Güçlü bir hükümdara karşı ayaklandık ve ülkeye bir sur inşa ettik.",
+        "Maymunlara ve domuzlara dönüştürüldük.",
+        "İnancımızı ilan eden uyarıcılar olarak halkımızın yanına döndük.",
+        "Liderimizle birlikte denizde boğulduk."
+      ],
+      "answer": "İnancımızı ilan eden uyarıcılar olarak halkımızın yanına döndük."
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

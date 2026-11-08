@@ -1,0 +1,61 @@
+{
+  "title": "Ein Versprechen, gesprochen über glühenden Kohlen",
+  "intro": "Du stehst neben einem Wüstenfeuer, dessen Glut vorsichtig verteilt wird. Besucher kommen zu einer Begegnung in der Stille, und eine einzige Botschaft eröffnet eine Geschichte voller Verheißung, Überraschung und einer noch ungewissen Zukunft.",
+  "clues": [
+    "Wir haben die Entfernung zurückgelegt, um einen treuen Diener in der Wüste zu erreichen.",
+    "Wir baten darum, Glut zu verteilen, um ein Feuer vorzubereiten.",
+    "Wir sprachen mit jemandem, der nach einer Flamme gerufen hatte, um Kühle und Schutz zu finden.",
+    "Wir überbrachten die frohe Botschaft von einem Neugeborenen an jemanden, der das Alter, in dem man Kinder bekommen kann, bereits überschritten hatte.",
+    "Wir nannten das verheißene Kind Isaak.",
+    "Wir brachten Ibrahim die frohe Botschaft von einem Sohn, und diese erstaunliche Nachricht brachte Ibrahim zum Lachen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Engel, die Ibrahim die frohe Botschaft von Isaak brachten",
+        "Die Engel, die Lut warnten",
+        "Die throntragenden Engel",
+        "Die Engel der Hölle",
+        "Die Engel, die zu Noah gesandt wurden"
+      ],
+      "answer": "Die Engel, die Ibrahim die frohe Botschaft von Isaak brachten"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er überbrachte Ibrahim die frohe Botschaft von Isaaks Geburt.",
+        "Warnung Lut vor der Bestrafung seines Volkes",
+        "Verkündung der Geburt von Yahya an Zakariyya",
+        "Den Thron am Tag des Jüngsten Gerichts tragen",
+        "Verkündung der Geburt von Isa an Maryam"
+      ],
+      "answer": "Er überbrachte Ibrahim die frohe Botschaft von Isaaks Geburt."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Feuer, das aus verstreuten Glutresten entfacht wurde",
+        "Eine Arche, die auf dem Hochwasser schwimmt",
+        "Eine Höhle, die von einem rollenden Stein versiegelt wurde",
+        "Ein Berg aus durch Salzlauge gehärtetem Lehm",
+        "Eine Leiter, die sich in den Himmel erstreckt"
+      ],
+      "answer": "Ein Feuer, das aus verstreuten Glutresten entfacht wurde"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Frohe Botschaft von einem Sohn namens Isaak",
+        "Frohe Botschaft von einem Sohn namens Yahya",
+        "Die Wahl Taluts zum Herrscher über die Kinder Israels",
+        "Eine Warnung vor der Bestrafung von Luts Volk",
+        "Der Befehl, vor der Sintflut eine Arche zu bauen."
+      ],
+      "answer": "Frohe Botschaft von einem Sohn namens Isaak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

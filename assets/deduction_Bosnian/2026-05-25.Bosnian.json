@@ -1,0 +1,61 @@
+{
+  "title": "Imenovani nasljednik",
+  "intro": "Ličnost iz prošlih vremena spremna je da zakorači u historiju. Kada se put činio nejasnim i sumnja se proširila među ljudima, ovaj sluga je izabran da preuzme plašt vodstva. Sa teretom svete misije na svojim ramenima, istupili su naprijed da vode tamo gdje su drugi oklijevali da ih slijede.",
+  "clues": [
+    "Bio sam izabran da pratim proroka i učio sam od njihove mudrosti.",
+    "Stajao sam pred Kovčegom kada se približilo obećanje našeg Gospodara i vidio sam kako ljudi počinju sumnjati.",
+    "Bio sam prisiljen stajati na rubu onoga što je obećano dok je naš vođa tugovao i molio se Allahu za nas.",
+    "Bio sam imenovan da nastavim misiju koja je bila povjerena nekome prije mene.",
+    "Dobio sam božanski autoritet da vodim ljude do njihovog odredišta",
+    "Uspio sam završiti ono što je započeto prije mene i dobio sam potvrdu ljudi za moje vodstvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Juša ibn Nun",
+        "Kaleb, sin Jefuneov",
+        "Eldad i Medad",
+        "Prorok Ezekijel (Hizkiyyal)",
+        "Prorok Harun (Aron)"
+      ],
+      "answer": "Juša ibn Nun"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Odbijanje ulaska u obećanu Svetu zemlju",
+        "Faraonove vojske nas progone kroz more",
+        "Obožavanje zlatnog teleta",
+        "Sumnja nakon slušanja Torinih naredbi",
+        "Pobuna Datana i Abirama"
+      ],
+      "answer": "Odbijanje ulaska u obećanu Svetu zemlju"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Tora data Musi",
+        "Kovčeg saveza u bitci",
+        "Prelazak preko rijeke Jordan",
+        "Pustinja četrdeset godina",
+        "Otkrivenje planine Sinaj"
+      ],
+      "answer": "Tora data Musi"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ulazak u obećanu Svetu zemlju",
+        "Izgradnja zaštitnog zida protiv osvajača",
+        "Izgradnja svetog hrama za bogosluženje",
+        "Daveći se u potjeri za onima koji su poricali istinu",
+        "Rušenje idola korumpiranog naroda"
+      ],
+      "answer": "Ulazak u obećanu Svetu zemlju"
+    }
+  },
+  "verseRef": "5:21",
+  "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+  "verse": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" (5:21)"
+}

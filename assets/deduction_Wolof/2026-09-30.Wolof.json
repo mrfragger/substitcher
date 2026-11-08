@@ -1,0 +1,61 @@
+{
+  "title": "Malaad bi",
+  "intro": "Bu yàgg, ci jamonoy taarixu doomi aadama yi, ñaari ruuh ñoo taxawoon ci kanamu seen Boroom, yóbbaale sarax. Benn nangu nañu ko, beneen nangu wuñu ko. Li ci topp mooy doon musiiba bu njëkk bi diggante ay mbokk- benn jëf buy tëye ak beneen jëf buy fayyu bu metti. Ndax mën nga wane ki ma doon?",
+  "clues": [
+    "Dama judd ci bis yi nit ñi njëkka am ci kaw suuf",
+    "Man maay doomu jëkkër ak jabar yi njëkka dox ci kaw suuf",
+    "Mas naa def sarax bu gën ci sama gétt ngir neexal sama Boroom .",
+    "Sama sarax nangu nañu ko ci kaw, waaye saraxu sama mbokk nangu nañu ko",
+    "Bi ñu ma wax ni dina ñu ma ray, dama tànn baña yëkkati sama loxo ci sama mbokk.",
+    "Ci taarixu doomi aadama yi, man maa njëkka nekk ki keneen ray ci lu jaarul yoon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Habil (Abel), doomu Adam",
+        "Qabil (Kayin), doomu Adam",
+        "Adam, nit ku jëkk ki",
+        "Nuh (Noah)",
+        "Ibrahim (Ibrahim)"
+      ],
+      "answer": "Habil (Abel), doomu Adam"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Faat bu njëkk ci taarixu doomi aadama",
+        "Mbënd mu mag mi amoon ca Nuh",
+        "Yaxxum larme Fir'awna",
+        "Sacrifice bu Ismail par Ibrahim",
+        "La guerre contre Jalut (Goliat)"
+      ],
+      "answer": "Faat bu njëkk ci taarixu doomi aadama"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Am baayima bu ñuy saraxe sarax bu neex",
+        "Ark dénk bu mag",
+        "Baton bu soppiku nekk jaan",
+        "Picc hoopoe yor mesaasu buur",
+        "Fosoŋu safara bu tàng"
+      ],
+      "answer": "Am baayima bu ñuy saraxe sarax bu neex"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Mooy ki ñu njëkka ray ci taarixu doomi aadama yi",
+        "Mucc na ci mbënd bu metti ci biir gaal dénk",
+        "Mingi dundu ci biir jën wu mag",
+        "Dafa jiite jinne yi, nit ñi ak ngelaw li",
+        "Doxantu ñeent-fukki at ci àll bu yaatu"
+      ],
+      "answer": "Mooy ki ñu njëkka ray ci taarixu doomi aadama yi"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

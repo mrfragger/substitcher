@@ -1,0 +1,61 @@
+{
+  "title": "A hívás, amely átvészelte az időket",
+  "intro": "Képzelj el egy lelket, aki egyedül áll egy egész civilizációval szemben, és eltökélt szándéka, hogy rendíthetetlen elszántsággal visszavezesse őket a tévútról. Évszázadokon át elutasították, kigúnyolták és semmibe vették az üzenetet – mégis soha nem szűnt meg az erőfeszítés. Végül elérkezett a nagy elszámolás, és csak kevesen szálltak fel az üdvösségre ezzel a rendíthetetlen lélekkel együtt. Felismered ezt a személyt a Koránból?",
+  "clues": [
+    "Figyelmeztetőként küldtek egy olyan néphez, amely eltévedt a saját útján.",
+    "Arra kértem őket, hogy kérjenek bocsánatot és forduljanak el a hibáiktól, de ők elfordultak.",
+    "Isteni parancsra egy hatalmas hajót építettem, miközben népem figyelt és gúnyolt engem.",
+    "Szüntelenül hívtam Uramat – végül válaszolt, és özönvízszerűen ömlött a víz az égből.",
+    "Felszálltam a hajóra azokkal, akik hívtek, amikor az özönvíz a föld fölé emelkedett.",
+    "Odakiáltottam az egyik ottmaradtnak, kérve, hogy menedéket találjon egy hegyen, de a rendelet már érvényben volt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Nuh próféta",
+        "Ibrahim próféta",
+        "Mózes próféta",
+        "Hud próféta",
+        "Szálih próféta"
+      ],
+      "answer": "Nuh próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy hatalmas bárka építése és egy világméretű özönvíz túlélése",
+        "Lángoló tűzbe vetve",
+        "Szembenézni egy zsarnokkal és hatalmas mágusaival",
+        "Egy nagy hal lenyelte",
+        "Egy szent nőstény teve megölésének szemtanúja"
+      ],
+      "answer": "Egy hatalmas bárka építése és egy világméretű özönvíz túlélése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy hatalmas fa bárka a tomboló árvízen",
+        "Egy szent völgy ősi kőromokkal",
+        "Egy mély barlang, ahol társak évszázadokon át aludtak",
+        "Egy óriásbálna hasa az óceán mélyén",
+        "Egy magasodó kőhegy a vadonban"
+      ],
+      "answer": "Egy hatalmas fa bárka a tomboló árvízen"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A hajón tartózkodó hívőkkel együtt üdvözültek",
+        "Isteni parancsra sértetlenül megmentették a tűzből",
+        "Nagy kivonulást vezetett egy hatalmas királyságból",
+        "Kidobva a halak közül egy kopár partra",
+        "Egy csodálatos jel által térítette el az embereket a helytelen cselekedetektől"
+      ],
+      "answer": "A hajón tartózkodó hívőkkel együtt üdvözültek"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

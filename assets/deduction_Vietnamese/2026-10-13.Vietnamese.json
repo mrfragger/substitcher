@@ -1,0 +1,61 @@
+{
+  "title": "Kẻ thù rực lửa",
+  "intro": "Trong những ngày đầu của sự mặc khải, một nhân vật nổi lên như một kẻ ngoan cố chống lại chân lý. Được ban phước lành về giàu sang và địa vị, người này đã chọn kiêu ngạo thay vì sự hướng dẫn, và câu chuyện của họ đã trở thành một lời cảnh báo nghiêm khắc trong những câu cuối của một chương kinh.",
+  "clues": [
+    "Tôi sống cùng thành phố với Nhà tiên tri và là một trong những người thân cận nhất của ông, thế nhưng lòng kiêu hãnh đã khiến tôi xa rời chân lý.",
+    "Tôi sở hữu khối tài sản khổng lồ và nhiều bất động sản, và tôi nghĩ rằng nguồn lực của mình sẽ luôn bảo vệ tôi.",
+    "Khi thông điệp được tiết lộ, tôi đã công khai chế giễu nó và quay lưng đi, tự cho mình hơn người tin.",
+    "Sự thù địch của tôi đối với người khác khét tiếng đến nỗi một chương trong kinh Quran đã trực tiếp nhắc đến tôi, gọi tôi bằng cái tên mà người khác biết đến.",
+    "Tôi đã được cảnh báo rằng của cải và thu nhập của tôi sẽ không giúp được gì cho tôi, và tôi sẽ bị ném vào ngọn lửa đang cháy.",
+    "Tôi được biết đến như người cha của ngọn lửa, và vợ tôi sẽ gánh củi bằng một sợi dây thừng làm từ xơ cọ buộc quanh cổ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Từ bỏ đạo Hồi và công khai chống đối Nhà tiên tri.",
+        "Âm mưu ám sát Nhà tiên tri",
+        "Phát động cuộc tẩy chay xã hội chống lại người Hồi giáo.",
+        "Tham chiến trong trận Badr",
+        "Bilal ibn Rabah bị tra tấn"
+      ],
+      "answer": "Từ bỏ đạo Hồi và công khai chống đối Nhà tiên tri."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một sợi dây làm từ xơ cọ",
+        "Một thanh kiếm sắc bén",
+        "Một sợi xích nặng",
+        "Một cây gậy gỗ",
+        "Một chiếc roi da"
+      ],
+      "answer": "Một sợi dây làm từ xơ cọ"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Sẽ cháy trong ngọn lửa dữ dội",
+        "Hối cải và trở thành người bạn đồng hành",
+        "Mất hết tài sản nhưng qua đời trong danh dự.",
+        "Trốn sang Abyssinia",
+        "Chết đuối trên biển"
+      ],
+      "answer": "Sẽ cháy trong ngọn lửa dữ dội"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

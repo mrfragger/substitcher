@@ -1,0 +1,61 @@
+{
+  "title": "Los Testimònis Perits",
+  "intro": "Dins una epòca longtemps passada, una comunautat demorava dins un encreuament de tèrra entre d'empèris. Lor profèta los cridèt cap al camin de la vertat, pasmens s'arrapèron a l'incredulitat e a l'opression. Aquela istòria s'acaba per una represalha divina. Podètz identificar aquela nacion e son destin a partir dels indicis çai-jos?",
+  "clues": [
+    "Un pòble refusèt l'avertiment portat per un de sos pròpris messatgièrs.",
+    "Lo messatgièr nos cridèt a adorar Allah sol e nos avertiguèt contra la corrupcion.",
+    "Nòstra transgression èra de refusar lo profèta mandat demest nosautres amb justícia.",
+    "Dobtèrem de l'autoritat del messatgièr e l'acusèrem d'engana.",
+    "Lo castig nos despassèt del temps que demoravam en seguretat dins nòstres ostals.",
+    "Foguèrem destruches per aver negat nòstre profèta e aver perseguit los cresents."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Receopent propheta lo quaì apella a iustìcia .",
+        "Èsser testat amb una famina",
+        "Aver un sòmi interpretat",
+        "Recebre la Torah",
+        "Viatjar per la mar"
+      ],
+      "answer": "Receopent propheta lo quaì apella a iustìcia ."
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Madian",
+        "Babilònia",
+        "Sodòma",
+        "La Mar Roja",
+        "L'Arca"
+      ],
+      "answer": "Madian"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Lo pòble foguèt destruch per incredulitat",
+        "Lo pòble se penediguèt e foguèt guidat .",
+        "Lo pòble dintrèt dins lo Paradís",
+        "Lo pòble subrevisquèt e prosperèt",
+        "Lo pòble migrèt cap a una nòva tèrra"
+      ],
+      "answer": "Lo pòble foguèt destruch per incredulitat"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

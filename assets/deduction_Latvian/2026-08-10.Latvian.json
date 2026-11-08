@@ -1,0 +1,61 @@
+{
+  "title": "Slepenās ražas glabātāji",
+  "intro": "Zaļā zemē cilvēku grupa tumsas aizsegā izstrādāja slepenu plānu. Viņiem bija kopīgs mērķis, taču viņu nodomi nebūt nebija taisnīgi. Viņi pat nenojauta, ka miega laikā viņus sagaida dievišķs pavērsiens.",
+  "clues": [
+    "Mēs stingri apņēmāmies, uzskatot, ka mūsu plāns ir nevainojams.",
+    "Mēs bijām iecerējuši iziet ārā agri, pirms citi pat paspēj pakustēties.",
+    "Mēs devāmies uz auglīgu zemes gabalu, pārliecināti par saviem krājumiem.",
+    "Sasniedzot galamērķi, mēs to atradām neauglīgu un pamestu, tāpēc domājām, ka esam apmaldījušies.",
+    "Tad mēs sapratām, ka tā tiešām ir mūsu vieta, un izmisumā iekliedzāmies, vainojot viens otru savā zaudējumā.",
+    "Tajā rītā mēs bijām zvērējuši neļaut nabagiem novākt ražu, bet Allāha sods nāca pār mums, kamēr mēs gulējām, pārvēršot mūsu dārzu drupās."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Dārza īpašnieki 68. sūrā",
+        "Sabas iedzīvotāji",
+        "Alas pavadoņi",
+        "Ziloņa ļaudis",
+        "Tranšejas ļaudis"
+      ],
+      "answer": "Dārza īpašnieki 68. sūrā"
+    },
+    "trial": {
+      "label": "Mūsu pārbaudījums",
+      "options": [
+        "Mūsu dārzu iznīcināja nelaime no debesīm",
+        "Mūsu dārzu noslaucīja plūdi",
+        "Mūsu dārzu nodedzināja ienaidnieka ugunsgrēks",
+        "Mūsu dārzs bija pilns ar siseņiem",
+        "Mūsu dārzu aprija zemestrīce"
+      ],
+      "answer": "Mūsu dārzu iznīcināja nelaime no debesīm"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Mēs zvērējām no rīta plūkt tā augļus",
+        "Mēs uzbūvējām aizsprostu, lai apūdeņotu savu dārzu",
+        "Mēs meklējām patvērumu alā, lai pasargātos",
+        "Mēs sagatavojām armiju, lai iekarotu karaļvalsti",
+        "Mēs ar kuģi šķērsojām jūru"
+      ],
+      "answer": "Mēs zvērējām no rīta plūkt tā augļus"
+    },
+    "outcome": {
+      "label": "Mūsu liktenis",
+      "options": [
+        "Mēs nožēlojām grēkus un cerējām uz Allāha žēlastību.",
+        "Mēs tikām pilnībā iznīcināti un nekad nenožēlojām grēkus",
+        "Mēs aizbēgām no zemes un nekad neatgriezāmies",
+        "Mēs atkal kļuvām vareni un bagāti",
+        "Mūs sodīja, pārvēršot par pērtiķiem"
+      ],
+      "answer": "Mēs nožēlojām grēkus un cerējām uz Allāha žēlastību."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

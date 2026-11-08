@@ -1,0 +1,61 @@
+{
+  "title": "Loisto joka upposi",
+  "intro": "Kuvittele tämä: sielu, joka on pukeutunut hienoihin vaatteisiin ja jota ympäröivät mielikuvituksen ylittämättömät aarteet. Tämä henkilö uskoi vaurautensa ansainneen itsensä omalla neroutensa voimalla, eikä koskaan tunnustanut todellisen varallisuuden lähdettä. Vaeltaessaan mahtavan profeetan seuraajien joukossa tämä henkilö kieltäytyi jokaisesta kutsusta nöyryyteen. Tänään paljastamme henkilön henkilöllisyyden, jonka loistokkaasta omaisuudesta tuli hänen viimeinen leposijansa.",
+  "clues": [
+    "Elin erään profeetan aikana, joka kutsui itsepäisen kansakunnan totuuteen.",
+    "Kuuluin valittuun yhteisöön, mutta sydämeni kääntyi pois sanomasta.",
+    "Kulta ja hopea kiehtoivat minua enemmän kuin mikään jumalallinen käsky.",
+    "Aarreholvini kasvoivat niin valtaviksi, että vahva miesryhmä tuskin pystyi nostamaan avaimia.",
+    "Kerskuilin, että vaurauteni annettiin minulle oman tietämykseni ansiosta.",
+    "Lopulta maa nielaisi minut ja koko asuntoni varoituksena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ylimielisyys vauraudesta ja hyväntekeväisyyden hylkääminen",
+        "Kultaisen idolin takominen sulatetuista koruista",
+        "Jumaluuden julistaminen mahtavan valtakunnan yli",
+        "Varhaisten uskovien vainoaminen Mekassa",
+        "Johtaa kampanjaa Pyhän Talon tuhoamiseksi"
+      ],
+      "answer": "Ylimielisyys vauraudesta ja hyväntekeväisyyden hylkääminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Aarteita, joiden avaimet rasittivat monia vahvoja miehiä",
+        "Kultainen vasikka, joka tuotti ääntä",
+        "Kaukaisesta maasta kotoisin oleva loistava valtaistuin",
+        "Kaivanto täynnä liekehtivää tulta",
+        "Mahtava sotanorsujen armeija"
+      ],
+      "answer": "Aarteita, joiden avaimet rasittivat monia vahvoja miehiä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Maan nielaisema asumuksen mukana",
+        "Hukkui mereen armeijan kanssa",
+        "Poltettiin elävältä tulen seassa",
+        "Ulvovan, raivoavan tuulen tuhoamana",
+        "Yhden mahtavan räjähdyksen iskiessä alas"
+      ],
+      "answer": "Maan nielaisema asumuksen mukana"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

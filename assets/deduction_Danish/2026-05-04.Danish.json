@@ -1,0 +1,61 @@
+{
+  "title": "Arrogansens arkitekt",
+  "intro": "I et gammelt land styret af en trodsig magt, havde en nøgleperson en indflydelsesrig position. Denne sjæl var afgørende for herskerens store planer, bidrog til deres undertrykkende regeringstid og udfordrede det guddommelige budskab. Deres arv er sammenflettet med en stræben efter verdslig magt og en fornægtelse af sandheden.",
+  "clues": [
+    "Jeg tjente en formidabel hersker, der undertrykte et folk i generationer.",
+    "Mit navn nævnes ofte i den Guddommelige Bog sammen med denne magtfulde leder.",
+    "Jeg fik til opgave at udføre et storslået byggeprojekt, en tårnhøj struktur beregnet til at nå himlen.",
+    "Jeg rådede min herre til at dræbe Israels børns sønner og skåne deres døtre.",
+    "Jeg var involveret i komplotter og konspirationer mod Allahs mægtige sendebud.",
+    "Mit endefald, sammen med min herre og hans hær, kom i vandet i et stort hav."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Nimrod",
+        "Abraha",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "At blive prøvet med umådelig rigdom",
+        "At lede en hær mod et helligt hus",
+        "At bygge et tårn for at nå Gud",
+        "At blive kastet i ilden for deres tro",
+        "At blive kastet i en brønd af søskende"
+      ],
+      "answer": "At bygge et tårn for at nå Gud"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Arken",
+        "Personalet",
+        "Bjerget",
+        "Tårnet",
+        "Hvalen"
+      ],
+      "answer": "Tårnet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "At blive tildelt enorm visdom",
+        "At blive en profet",
+        "At blive opslugt af jorden",
+        "At blive tildelt et kongerige",
+        "Drukning i havet"
+      ],
+      "answer": "Drukning i havet"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

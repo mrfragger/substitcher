@@ -1,0 +1,61 @@
+{
+  "title": "Ikholwa Elimboziwe Egcekeni Lomashiqela",
+  "intro": "Ngaphakathi kwamahholo egolide ombusi oqhoshayo kakhulu owaziwa yiQuran — lapho ukungalaleli uNkulunkulu kwachaza yonke imiyalo — umphefumulo owodwa wawuhamba phakathi kwabantu abanelungelo, ufihla izimfihlo eziyingozi kakhulu emehlweni asobala. Lo muntu wayephethe ukholo olwaluvinjelwe kakhulu kulezo zindonga kangangokuthi ukutholakala kwalo kwakuzosho ukufa okuqinisekile. Kodwa ukukholwa kwavutha njengelangabi ngaphansi komlotha, kwathi lapho kufika isikhathi, iqiniso lazwakala ngesibindi esanyakazisa isisekelo sesigodlo sombusi.",
+  "clues": [
+    "Bengihlala phakathi kweqembu elingaphakathi lombusi onamandla kakhulu nozikhukhumezayo wesikhathi sami, ngizungezwe ukunethezeka nethonya.",
+    "Ngafihla inkolelo yami yangempela ngaphakathi enhliziyweni yami, ngesaba impilo yami kulabo ababebusa ngonya nangokucindezelwa.",
+    "Lapho abantu bami bengabaza futhi benqikaza maqondana neqiniso, ngasukuma phambili ukuze ngibaxwayise ngesiphetho esibuhlungu esenzeke ezizweni ezidlule ezenqaba izithunywa zeNkosi yazo.",
+    "Ngikhumbuze abantu bakithi ngendaba yomphupha osemncane othandekayo owaphonswa phansi yizihlobo zakhe kodwa waphakama waba negunya elikhulu ezweni elikude.",
+    "Nganxusa abantu bami ukuba bangalaleli umbusi owabadukisa, esikhundleni salokho ngabamema ukuba bangilandele endleleni yokulunga nesiqondiso.",
+    "Ngakhuluma iqiniso obala yize abalandeli bomcindezeli babesongela ngokungikhanda ngamatshe noma ukungixosha ezweni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Ikholwa Elifihliwe Elivela Emndenini KaFaro",
+        "Inzalamizi Enesineke Eyakhala Ingaboni Kwaze Kwabuya Indodana Yayo",
+        "Inceku Ethembekile Esifo Sayo Sesikhumba Sagcina Siphulukisiwe",
+        "Indodana Enesono Eyenqaba Isimemo Somprofethi Sokungena Emkhunjini",
+        "Isishoshovu Esinonya Esathi SingoNkulunkulu"
+      ],
+      "answer": "Ikholwa Elifihliwe Elivela Emndenini KaFaro"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukufihla ukholo enkantolo yomashiqela",
+        "Ukuhlushwa ubumpumputhe ngenxa yokukhala iminyaka eminingi",
+        "Ukuhlolwa ukulahlekelwa umndeni kanye nokuhlupheka okukhulu",
+        "Ukwakha umkhumbi omkhulu ngenkathi uhlekwa usulu",
+        "Ukubekezelela ukushisa okukhulu komlilo omkhulu"
+      ],
+      "answer": "Ukufihla ukholo enkantolo yomashiqela"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isigodlo sikaFaro",
+        "Isiqongo sentaba lapho kwakhiwa khona umkhumbi",
+        "Isigodi esingcwele ngaphansi kweNtaba iSinayi",
+        "Ingadi enhle kakhulu enemifudlana emibili egeleza amanzi",
+        "Isihlalo sobukhosi sekristalu ngaphezu komfula ongaphansi komhlaba"
+      ],
+      "answer": "Isigodlo sikaFaro"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Isivikelo saphezulu ngenkathi abacindezeli bebhujiswa",
+        "Ngahlangana kabusha nomndeni ngemuva kweminyaka eminingi yokuhlukana",
+        "Wanikwa isineke, impilo ebuyiselwe esimweni sayo, kanye nomndeni omkhulu",
+        "Wasindiswa esikebheni kuyilapho wonke umhlaba waminza",
+        "Wasindiswa engalimele elangabini ngomyalo ka-Allah"
+      ],
+      "answer": "Isivikelo saphezulu ngenkathi abacindezeli bebhujiswa"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

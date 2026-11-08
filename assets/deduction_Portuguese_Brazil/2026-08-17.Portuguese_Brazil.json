@@ -1,0 +1,61 @@
+{
+  "title": "A Transgressão pela Costa",
+  "intro": "Você está em pé sobre as areias de uma praia esquecida, onde as ondas sussurram sobre uma comunidade testada por um mandamento divino. O ar está pesado com a lembrança de uma violação que levou a uma transformação surpreendente. Quem eram essas almas e qual foi a natureza de sua provação?",
+  "clues": [
+    "Éramos uma comunidade que recebeu um mandamento claro de nosso Senhor, mas encontramos maneiras de desobedecê-lo.",
+    "Vivíamos perto de um corpo d'água, e nosso sustento dependia das criaturas que ali viviam.",
+    "Fomos postos à prova no dia em que nos foi ordenado que nos abstivéssemos das atividades mundanas.",
+    "Naquele mesmo dia, as criaturas das águas vieram até nós em grande número, tentando-nos além da nossa resistência.",
+    "Elaboramos um truque astuto para contornar a ordem divina, pensando que poderíamos ser mais espertos que o decreto.",
+    "Nossa transgressão levou a uma transformação humilhante; nos tornamos macacos desprezíveis por ordem de Alá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O povo do sábado",
+        "O povo de Rass",
+        "O povo de Tumba",
+        "O Povo da Caverna",
+        "Os Companheiros da Trincheira"
+      ],
+      "answer": "O povo do sábado"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O aparecimento de peixes no sábado",
+        "Um ano de seca severa",
+        "Um exército de pássaros enviado contra eles",
+        "Uma inundação que os submergiu.",
+        "Um terremoto violento"
+      ],
+      "answer": "O aparecimento de peixes no sábado"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O mar",
+        "Uma montanha",
+        "Uma caverna",
+        "Um vale desértico",
+        "Uma cidade fortificada"
+      ],
+      "answer": "O mar"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Transformados em macacos",
+        "Engolido pela terra",
+        "Destruído por um vento uivante",
+        "Afogado no mar",
+        "Atingido por uma chuva de pedras"
+      ],
+      "answer": "Transformados em macacos"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

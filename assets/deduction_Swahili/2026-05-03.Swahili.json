@@ -1,0 +1,61 @@
+{
+  "title": "Watafuta Ukweli Wanaolala",
+  "intro": "Hebu fikiria wakati ambapo imani ilipingwa, na kundi la roho likachagua kusadiki bila kuyumba badala ya starehe ya kidunia. Wakiwa wamekabiliwa na chaguo la kutisha, walitafuta kimbilio, wakaanza safari iliyosababisha usingizi wa ajabu. Hadithi yao ni ushuhuda wa ulinzi wa kimungu na nguvu ya imani dhidi ya ukandamizaji. Je, unaweza kutambua utambulisho wa watu hawa wa ajabu?",
+  "clues": [
+    "Tulikuwa kusanyiko dogo, lililounganishwa na imani kubwa katika Muumba Mmoja.",
+    "Tuliishi katika wakati ambapo mtawala mwenye nguvu alidai kuabudiwa na mtu mwingine asiye Mwenyezi Mungu.",
+    "Ili kulinda imani yetu, tuliamua kuacha nyumba zetu na kukimbia ukandamizaji.",
+    "Rafiki mwaminifu, kiumbe wa dunia, alitusindikiza katika safari yetu.",
+    "Tulipata hifadhi mahali pa faragha, ambapo Mwenyezi Mungu alitufanya tuingie katika usingizi mzito na mrefu.",
+    "Tulipoamka, tuliamini siku moja au sehemu ya siku ilikuwa imepita, lakini karne zilikuwa zimepita kweli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Shimoni",
+        "Watu wa Thamud",
+        "Watu wa Saba",
+        "Watu wa Pango",
+        "Watu wa Madyan"
+      ],
+      "answer": "Watu wa Pango"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujaribiwa na ardhi tasa",
+        "Kukabiliana na mafuriko makubwa",
+        "Kutafuta kimbilio kutoka kwa mtawala mkatili",
+        "Kutupwa kwenye moto unaowaka",
+        "Kupinga uchawi wa mchawi"
+      ],
+      "answer": "Kutafuta kimbilio kutoka kwa mtawala mkatili"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Jumba kubwa la kifalme",
+        "Meli/safina",
+        "Kisima kirefu",
+        "Pango",
+        "Mlima mrefu"
+      ],
+      "answer": "Pango"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kupewa ufalme",
+        "Usingizi wa ajabu kwa karne nyingi",
+        "Kumezwa na ardhi",
+        "Kuokolewa kutoka kwa dhoruba ya uharibifu",
+        "Kupewa meza ya mbinguni"
+      ],
+      "answer": "Usingizi wa ajabu kwa karne nyingi"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

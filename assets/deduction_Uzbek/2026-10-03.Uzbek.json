@@ -1,0 +1,61 @@
+{
+  "title": "Yonayotgan darvoza oldidagi hushyorlik",
+  "intro": "Jim, dahshatga solingan olomon qo'rqinchli ostonada turib, hech qachon ovqat, ichimlik yoki dam olishni tatib ko'rmaydi. Inson loyidan farqli o'laroq, ular bitta dahshatli maqsadni kutmoqdalar va ular hech qachon Parvardigorlarining birorta ham amriga bo'ysunmaganlar.",
+  "clues": [
+    "Biz odamlardan farqli o'laroq, yemaydigan, ichmaydigan va charchamaydigan moddadan yaratilgan mavjudotlarmiz.",
+    "Bizning aniq sonimiz Kitobda ma'lum va vahiy qilingan — biz na son-sanoqsiz, na ko'p emasmiz.",
+    "Biz hech qachon Yaratguvchimizga itoatsizlik qilmaganmiz va buyruq berilmasdan oldin hech qachon gapirmaymiz.",
+    "Qiyomat kuni kelganda, kofirlar guruh-guruh bo'lib Biz tomon haydaladilar va Biz ularga eshiklarni ochamiz.",
+    "Biz ulardan: \"Sizlarga o'zlaringizdan bo'lgan payg'ambarlar bu kun haqida ogohlantirmaganmidi?\" - deb so'raymiz.",
+    "Biz hech bir jon chiqmaydigan joyni — abadiy azobning alangali maydonini qo'riqlaymiz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Do'zax qo'riqchilari (Zaboniya)",
+        "Allohning Arshining Ko'taruvchilari",
+        "Yozuvchi farishtalar (Kiraman Katibin)",
+        "O'lim farishtalari",
+        "Jannat darvozabonlari"
+      ],
+      "answer": "Do'zax qo'riqchilari (Zaboniya)"
+    },
+    "trial": {
+      "label": "Bizning asosiy vazifamiz",
+      "options": [
+        "Do'zax darvozalarini qo'riqlash",
+        "Insonning har bir ishini qayd etish",
+        "Allohning taxtini ko'tarish",
+        "Marhumlarning ruhlarini olish",
+        "Shamollar va bulutlarga buyruq berish"
+      ],
+      "answer": "Do'zax darvozalarini qo'riqlash"
+    },
+    "location": {
+      "label": "Biz nimani qo'riqlaymiz?",
+      "options": [
+        "Do'zax olovi",
+        "Allohning Arshi",
+        "Amallar kitobi",
+        "Jannat daryolari",
+        "Yerning tog'lari"
+      ],
+      "answer": "Do'zax olovi"
+    },
+    "outcome": {
+      "label": "Bizning hududimizdagilarning taqdiri",
+      "options": [
+        "Ular abadiy qoladilar va hech qachon ketmaydilar",
+        "Ular oxir-oqibat afv etilib, ozodlikka chiqariladi",
+        "Ular vaqt o'tishi bilan tozalanadi",
+        "Ular boshqa shakllarga aylantiriladi",
+        "Ular do'zax va jannat o'rtasida almashinib turadilar"
+      ],
+      "answer": "Ular abadiy qoladilar va hech qachon ketmaydilar"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kwayan kache a",
+  "intro": "Nan koulwa opulent pouvwa a, kote mefyans ak tirani t ap renye, yon vwa verite poukont li t ap pale soti nan yon kote inatandi. Figi sa a te defye otorite a pou pwoteje yon mesaje, li te riske pwòp sekirite li pou l te pwoklame verite a.",
+  "clues": [
+    "Mwen te viv nan yon peyi kote gen gwo tirani, m t ap sèvi yon chèf ki te pretann li se divinite.",
+    "Mwen te kenbe vrè kwayans mwen yo kache pandan plizyè ane, paske mwen te pè konsekans si m ta devwale yo.",
+    "Lè yon mesaje te vini ak siy klè, mwen te kwè, men pèp mwen an te fè konplo kont li.",
+    "Mwen te kanpe devan tiran an ak konsèy li a, ap diskite ke yo pa ta dwe touye yon mesaje inosan.",
+    "Mwen te avèti yo kont pinisyon nasyon tan lontan yo ki te rejte verite a, tankou pèp Noe ak Ad.",
+    "Allah te sove m' anba konplo mechan yo, epi mwen te temwen destriksyon rejim opresif la."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Kwayan nan fanmi Faraon an",
+        "Majisyen Faraon an",
+        "Vizir Faraon an",
+        "Madanm Faraon an",
+        "Trezorye Faraon an"
+      ],
+      "answer": "Kwayan nan fanmi Faraon an"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Defann yon pwofèt kont ekzekisyon",
+        "Defye ke trik majisyen an",
+        "Bati yon gwo kay pou rive nan syèl la",
+        "Separe lanmè a pou chape",
+        "Entèprete rèv yon wa"
+      ],
+      "answer": "Defann yon pwofèt kont ekzekisyon"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Lakou Faraon an",
+        "Ti touf bwa ​​a k ap boule",
+        "Ti bèf an lò a",
+        "Pi Madyan an",
+        "Lach pwofèt Nouh la"
+      ],
+      "answer": "Lakou Faraon an"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Sove anba danje pandan y ap detwi opresè yo",
+        "Li te vin tounen yon chèf pwisan",
+        "Yo te jete l nan dife epi li soti san pwoblèm",
+        "Latè te vale l",
+        "Li te mache nan dezè a pandan karant an"
+      ],
+      "answer": "Sove anba danje pandan y ap detwi opresè yo"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

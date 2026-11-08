@@ -1,0 +1,61 @@
+{
+  "title": "Bir Krallığı Yıkan Baraj",
+  "intro": "Akarsuların aktığı, iki yemyeşil bahçenin ve eşsiz bir refahın hüküm sürdüğü bir ülkeydi burası; ama sakinleri kendilerini kutsayan Kişiyi umursamazca davrandılar. Geri dönmeleri için gelen uyarılara aldırış etmediler. Bunun sonucunda, hâlâ bir uyarı olarak yankılanan bir ceza geldi. Peki bu kadim topluluk kimdi?",
+  "clues": [
+    "Öyle bereketli bir diyarda yaşıyorduk ki, evimiz iki yemyeşil bahçenin arasında yer alıyordu.",
+    "Topraklarımızdan akan nehirlerin ve evlerimizi dolduran bol hasatların tadını çıkardık.",
+    "Oysa Rabbimize şükran ve itaat etmeye çağrıldığımızda, gururumuz yüzünden yüz çevirdik.",
+    "Zenginliğimiz ve rahatlığımız, tüm bunları bize bahşedeni unutturdu.",
+    "Sonra aniden gelen bir sel, güvendiğimiz büyük bariyeri yıktı.",
+    "Bizler, toprakları büyük Ma'rib Barajı ile ünlü olan Saba halkıyız."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Saba halkı",
+        "Siperdeki İnsanlar",
+        "Kuyu Yoldaşları",
+        "Tubba Halkı",
+        "Midyan Halkı"
+      ],
+      "answer": "Saba halkı"
+    },
+    "trial": {
+      "label": "Bizim Çöküşümüz",
+      "options": [
+        "Barajın patlaması sonucu oluşan sel",
+        "Gökyüzünden gelen şiddetli bir rüzgar",
+        "Ateş hendeğinde yanmak",
+        "Büyük bir deprem",
+        "büyük bir selde boğulmak"
+      ],
+      "answer": "Barajın patlaması sonucu oluşan sel"
+    },
+    "location": {
+      "label": "Ana Konum",
+      "options": [
+        "Ma'rib Barajı",
+        "Sina Dağı",
+        "Yedi Uyuyanların Mağarası",
+        "Yanan Çalı",
+        "Denizin Yarılması"
+      ],
+      "answer": "Ma'rib Barajı"
+    },
+    "outcome": {
+      "label": "Kaderimiz",
+      "options": [
+        "Yeşil ve bereketli bahçelerimizin yerini iki acı bahçe aldı.",
+        "Bahçelerimiz daha da bereketli hale geldi.",
+        "Kara parçası denizin altına battı.",
+        "Volkanik küllerin altında kaldık.",
+        "Milletimiz on iki kabileye bölündü."
+      ],
+      "answer": "Yeşil ve bereketli bahçelerimizin yerini iki acı bahçe aldı."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

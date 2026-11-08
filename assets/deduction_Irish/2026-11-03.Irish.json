@@ -1,0 +1,61 @@
+{
+  "title": "Codladh na bhFíréan",
+  "intro": "I ré ina raibh an creideamh contúirteach agus na cumhachtaigh ag iarraidh an creideamh a bhriseadh, rinne grúpa beag anamacha óga rogha a mbeadh macalla de le brath air trí na haoiseanna. Ag teitheadh ​​ó gach a raibh aithne acu orthu, lorg siad tearmann i ndorchadas ceilte sléibhe agus chuir siad a muinín go hiomlán in Allah. Bheadh ​​​​an méid a tharla ina dhiaidh sin ina chomhartha gan teorainn dóibh siúd a mhachnaíonn.",
+  "clues": [
+    "Ba ghrúpa daoine óga muid a chreid inár dTiarna, agus mhéadaigh sé ár dtreoir.",
+    "Sheasamar os comhair ár ndaoine agus dhearbhaíomar nach nglaofaimis ar aon dia ach Allah.",
+    "D’iarr muid tearmann i bpluais, ag rá, ‘A Thiarna, trócaire a thabhairt dúinn uait féin agus treoraigh sinn i gceart inár gcúrsaí.’",
+    "Chodail muid ar feadh roinnt mhaith blianta, agus chlaonfadh an ghrian ar shiúl ónár n-uaimh agus ní bhainfeadh sí linn.",
+    "Bhí ár madra sínte amach ag bealach na huaimhe, ag garda orainn amhail is dá mba rud é go raibh sé ar faire.",
+    "Nuair a dhúisíomar, bhíomar ag smaoineamh cé chomh fada agus a bhíomar tar éis fanacht, agus cuireadh duine againn le boinn airgid chun bia a cheannach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir na hUaimhe",
+        "Muintir na Trinse",
+        "Muintir na Sabóide",
+        "Muintir an Eilifint",
+        "Compánaigh na Coille"
+      ],
+      "answer": "Muintir na hUaimhe"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Theith siad go dtí uaimh le héalú ó ghéarleanúint ar son a gcreidimh",
+        "Scriosta ag gaoth fhoréigneach",
+        "Slogtha ag an talamh",
+        "Báite sa bhfarraige",
+        "Buailte ag stoirm cloch"
+      ],
+      "answer": "Theith siad go dtí uaimh le héalú ó ghéarleanúint ar son a gcreidimh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Madra ag garda bealach isteach na huaimhe",
+        "Áirc mhór",
+        "Sloinne a d’iompaigh ina nathair",
+        "Éan crúba",
+        "Lao órga"
+      ],
+      "answer": "Madra ag garda bealach isteach na huaimhe"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "D’fhan siad san uaimh ar feadh 309 bliain agus ansin tógadh iad mar chomhartha",
+        "Rinneadh apaí díobh",
+        "Scriosadh iad le tuile",
+        "Cuireadh orthu an fharraige a thrasnú",
+        "Tugadh ríocht dóibh"
+      ],
+      "answer": "D’fhan siad san uaimh ar feadh 309 bliain agus ansin tógadh iad mar chomhartha"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ýeriň aşagyndaky duýduryş",
+  "intro": "Aşakdan sesler eşidilip, ýokardaky dünýä dymýarka, çuňňur gazuw-agtaryş işleriniň ýanynda durandygyňyzy göz öňüne getiriň. Gurhan bu sahnany duýduryş hökmünde saklaýar: bir jemgyýet ilçileriň getiren zadyny ret edýär, jeza golaýlaýar we hatda onuň gürrüldisi hem şaýatlykyň bir bölegine öwrülýär. Haýsy topar şol aýatlar arkaly gürleýär?",
+  "clues": [
+    "Biz Gurhanda şahsy at bilen däl-de, umumy bir ykbal bilen kesgitlenen umumy birlik hökmünde ýatlanýarys.",
+    "Elçileriň aýdanlary hakykat bolsa-da, olaryň getiren habaryny ret etdik.",
+    "Ýadymyzda galan kimligimiz ýer ýüzündäki çuňňur bir kesik bilen baglanyşyklydyr we bu aýratynlyk biziň adymyzyň bir bölegine öwrüldi.",
+    "Bellenen günde bizi daşaryk çykaryp, ot tarap süýräp gitdiler.",
+    "Biz jezadan özümizi gorap bilmedik we onuň gürrüldisini eşidip bilmedik.",
+    "Ýüzlerimiz oda öwrülerdi we biz oda iterildik; soralanda, jogap berip bilmeýänleriň arasyndadygymyzy aýdardyk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Handak ýoldaşlary",
+        "Beýik Tufandan halas bolan millet",
+        "Altyn göle sežde edýänler",
+        "Topar Dag Magarasynyň Içine Gizlendi",
+        "Otly peçden halas edilen jemgyýet"
+      ],
+      "answer": "Handak ýoldaşlary"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Süýräp oda taşlandy",
+        "Otly peçden halas edildi",
+        "Uly silden howpsuz geçdi",
+        "Asyrlarboýy gowagyň içinde gizlenip saklanan",
+        "Guýa taşlanandan soň halas edildi"
+      ],
+      "answer": "Süýräp oda taşlandy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Hendek ýa-da çukur",
+        "Beýik deňiz",
+        "Dag gowagy",
+        "Beýik köşk",
+        "Çöl guýusy"
+      ],
+      "answer": "Hendek ýa-da çukur"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Özlerini goramaga ukyply däl we Odyň gürrüldisini eşitmeýärler",
+        "Halas edildi we ebedi baglara girmäge rugsat berildi",
+        "Weýran ediji sil apatyndan howpsuz ýagdaýda eltildi",
+        "Magaraň içinde uzak wagtlap uklamak bilen goralýar",
+        "Ebedi patyşalyk bilen hormatlanyldy"
+      ],
+      "answer": "Özlerini goramaga ukyply däl we Odyň gürrüldisini eşitmeýärler"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

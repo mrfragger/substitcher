@@ -1,0 +1,60 @@
+{
+  "title": "Breme bogastva",
+  "intro": "Stojite pred zgodbo o neizmernem bogastvu, življenju, okrašenem z zlatom in močjo, a navsezadnje svarilni nauk za vse, ki iščejo posvetno veličino. Ali lahko razkrijete identiteto te osebe, katere zgodba odmeva skozi čas, kot dokaz minljivosti posvetnih dobrin?",
+  "clues": [
+    "Prihajal sem iz ljudstva velikega preroka, vendar sem izbral pot arogance in zatiranja.",
+    "Alah mi je podaril neizmerno bogastvo, tako veliko, da so bili ključi mojih zakladov težko breme za močno skupino mož.",
+    "Moji ljudje so mi svetovali, naj se ne veselim svojega bogastva, in me spomnili, da Allah ne mara veseljakov.",
+    "Arogantno sem trdil, da je moje ogromno bogastvo posledica mojega lastnega znanja in truda, ne pa blagoslova Alaha.",
+    "Opozorili so me pred pokvarjenostjo in me spomnili, naj iščem onostranstvo s tem, kar mi je dal Allah, vendar nisem poslušal in sem nadaljeval s svojim ponosom.",
+    "Sčasoma je Allah povzročil, da je zemlja pogoltnila mene in moje bivališče, tako da nisem imel pomoči proti Njegovi odredbi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Faraon",
+        "Haman",
+        "Karun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Razcep morja",
+        "Nimrodov ogenj",
+        "Poplava",
+        "Požiranje s strani zemlje",
+        "Nadloga kobilic"
+      ],
+      "answer": "Požiranje s strani zemlje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Osebje",
+        "Zlato tele",
+        "Zakladi/Ključi",
+        "Vodnjak Zamzam"
+      ],
+      "answer": "Zakladi/Ključi"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Podeljeno kraljevanje",
+        "Rešeno pred uničenjem",
+        "Požrla ga je zemlja",
+        "Postal je prerok",
+        "Umrl mirno"
+      ],
+      "answer": "Požrla ga je zemlja"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

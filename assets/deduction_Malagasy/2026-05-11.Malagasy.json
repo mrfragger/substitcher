@@ -1,0 +1,61 @@
+{
+  "title": "Ireo Vavolombelona Mahatoky",
+  "intro": "Alaivo sary an-tsaina ny fotoana iray izay nitsapana ny finoana tamin'ny afo, ary ny faharesen-dahatra tsy azo hozongozonina no lasa fanoherana faratampony. Andraikitrao ny mamantatra ny maha-izy azy ny vondrona iray izay voatantara ao amin'ny CORAN ny tantarany, fitantarana momba ny finoana lalina manohitra ny jadona mahery vaika. Sokafy ireo fanazavana mba hahitana hoe iza ireo fanahy ireo, ary ny toe-javatra miavaka natrehin'izy ireo.",
+  "clues": [
+    "Nijoro mafy tamin'ny finoanay izahay, na dia teo aza ny fanerena mafy handa ny finoanay.",
+    "Lasibatry ny mpitondra mahery iray izay nitady hamono ny fahazavan'ny finoana Andriamanitra tokana izahay.",
+    "Nahita famantarana sy fahagagana lehibe izahay, nefa mbola tsy niraharaha ireo mpampahory anay.",
+    "Niaritra fanenjehana mahatsiravina natao hampihorohoroana ny hafa mba hanaiky azy ireo izahay.",
+    "Natsipy tao anaty afo mirehitra izahay, kanefa ny faharetanay dia nahazoanay toerana ambony teo anatrehan'i Allah.",
+    "Voatantara ao amin'ny Sorah iray mitondra ny anaran'ny antokon-kintana eny amin'ny lanitra ny tantarantsika, izay mampitandrina ny amin'ny anjaran'ireo izay manenjika ny mpino."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Ny vahoakan'ny Thamoud",
+        "Ny Vahoakan'i 'Ad",
+        "Ny Vahoakan'ny Hady",
+        "Ny vahoakan'i Midiana",
+        "Ny Vahoakan'ny Elefanta"
+      ],
+      "answer": "Ny Vahoakan'ny Hady"
+    },
+    "trial": {
+      "label": "Ny Fanenjehana Anay",
+      "options": [
+        "Rendrika tao anaty tondra-drano",
+        "Lanin'ny rivotra mahamay",
+        "Natsipy tao anaty hady mirehitra",
+        "Voatelina amin'ny tany",
+        "Miova ho rajako"
+      ],
+      "answer": "Natsipy tao anaty hady mirehitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Tondra-drano goavana",
+        "Horohoron-tany lehibe",
+        "Hady lalina mirehitra",
+        "Sampy mahery",
+        "Hain-tany mahatsiravina"
+      ],
+      "answer": "Hady lalina mirehitra"
+    },
+    "outcome": {
+      "label": "Ny anjarantsika faratampony",
+      "options": [
+        "Nomena fanjakana teto an-tany izy ireo.",
+        "Voavonjy tamin'ny alalan'ny fandosirana mahagaga izy ireo.",
+        "Nahazo maritiora sy valisoa mandrakizay izy ireo.",
+        "Niova ho karazana hafa izy ireo.",
+        "Nomena harena sy fanambinana tsy tambo isaina izy ireo."
+      ],
+      "answer": "Nahazo maritiora sy valisoa mandrakizay izy ireo."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hökmdarın sonunun görünmədiyi krallıq",
+  "intro": "Tarixdə hər cür hökmdarlar olub, amma bu hökmdar kimi bir əraziyə çox az adam sahib olub. Küləyin öz əmrinə tabe olduğu və heç bir insanın görə bilmədiyi işçilərin səssizcə zəhmət çəkdiyi bu hökmranlıq əvvəlki və ya sonrakı hökmranlıqlara bənzəmirdi. Lakin ən möhtəşəm hökmranlıqlar belə sona çatmalı idi və bu hökmranlıq sona çatanda həqiqət o qədər təvazökar bir mənbədən ortaya çıxdı ki, heç kimin bundan şübhələnməyi ağlına belə gətirmədi.",
+  "clues": [
+    "Rəbbim mənə müqəddəs səhifələrdə bəhs edilən geniş bir səltənət bəxş etdi.",
+    "Məndən əvvəl sədaqətlə addımlayan bir valideyndən böyük müdriklik və səlahiyyət miras aldım.",
+    "Mən küləyə əmr etdim və o, məqsədlərim üçün uzaqlara uçdu.",
+    "Adi gözlərlə görünməyən varlıqlar mənim səlahiyyətim altında çalışaraq müqayisəolunmaz möcüzələr yaradırdılar.",
+    "Əridilmiş mis bulaqları mənim üçün axdı, bu, Allahın seçdiyi insanlar arasında misilsiz bir nemət idi.",
+    "Mən bu dünyadan köçəndə bədənim bir əsaya söykənmişdi. Yalnız kiçik bir torpaq məxluqu o əsanı yeyəndə ətrafımdakılar mənim öldüyümü anladılar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Süleyman peyğəmbər (Süleyman)",
+        "Davud peyğəmbər (ə)",
+        "Musa peyğəmbər (Musa)",
+        "Yusif peyğəmbər (Yusif)",
+        "İsa peyğəmbər (ə)"
+      ],
+      "answer": "Süleyman peyğəmbər (Süleyman)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Ölümü əsamı yeyən bir məxluq aşkar etdi",
+        "Xalqımı məhv edən böyük daşqın",
+        "Alovlu bir oda atılmaq",
+        "Bölünmüş dənizdən sürgün",
+        "Ən sevimli oğlumun qurbanı"
+      ],
+      "answer": "Ölümü əsamı yeyən bir məxluq aşkar etdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Əridilmiş mis bulaqları",
+        "Əhd sandığı",
+        "Suları iki yerə bölən bir əsa",
+        "Yanan bir kol",
+        "Qızıl buzov"
+      ],
+      "answer": "Əridilmiş mis bulaqları"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Cinlər əsa yeyilənə qədər işləməyə davam etdilər",
+        "Xalqım böyük bir gəmidə xilas oldu",
+        "Bir zalım dənizdə boğuldu",
+        "Qüdrətli bir millət dəhşətli bir küləklə məhv edildi",
+        "Mən diri-diri göylərə qaldırıldım"
+      ],
+      "answer": "Cinlər əsa yeyilənə qədər işləməyə davam etdilər"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

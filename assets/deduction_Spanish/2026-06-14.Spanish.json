@@ -1,0 +1,61 @@
+{
+  "title": "La llama que dejó un legado",
+  "intro": "En los anales de la resistencia, figura un personaje cuyo nombre se convirtió en una advertencia para siempre. Esta persona eligió la enemistad sobre la hermandad, el desafío sobre la sumisión, y se opuso a un llamado a la misericordia. Escuchen atentamente los ecos de una antigua proclama mientras descubrimos la identidad de esta alma infame.",
+  "clues": [
+    "Nací en el mismo clan que el último mensajero de Alá, pero me opuse a ellos en todo momento.",
+    "Mi nombre tenía un significado: un nombre que significaba \"padre de la llama\", un nombre que presagiaría mi destino eterno.",
+    "Desaté el daño contra el portador de la verdad, e incluso mi propia familia se unió a esta campaña de crueldad.",
+    "Utilicé mi riqueza e influencia para silenciar el llamado a Alá, creyendo que el dinero podía apagar la luz divina.",
+    "Allah me dedicó un capítulo entero, un capítulo tan breve que puede recitarse en segundos, pero cuya importancia perdura hasta el Día del Juicio.",
+    "Mi compañero en el Más Allá camina detrás de mí, atado al cuello con una cuerda de fibra, portando las mismas espinas que solían esparcir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definiendo la confrontación",
+      "options": [
+        "Liderando la oposición contra el Profeta en La Meca",
+        "Migrar a Abisinia para escapar de la persecución",
+        "Construyendo la Kaaba con el profeta Ibrahim.",
+        "Aceptar el Islam en el lecho de muerte",
+        "Forjando el Tratado de Hudaybiyyah"
+      ],
+      "answer": "Liderando la oposición contra el Profeta en La Meca"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una esposa que cargaba espinas y leña.",
+        "Un bastón que se transformó en serpiente",
+        "Un anillo con el sello de Salomón",
+        "Un becerro de oro venerado por el pueblo.",
+        "Un manantial que brotaba agua"
+      ],
+      "answer": "Una esposa que cargaba espinas y leña."
+    },
+    "outcome": {
+      "label": "Ajuste de cuentas final",
+      "options": [
+        "Se reveló una sura completa que declaraba la ruina total.",
+        "Se convirtió en el líder de la comunidad musulmana.",
+        "Recibió el perdón en el momento de la muerte.",
+        "Construyó una gran mezquita en Medina.",
+        "Resucitó entre los justos"
+      ],
+      "answer": "Se reveló una sura completa que declaraba la ruina total."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

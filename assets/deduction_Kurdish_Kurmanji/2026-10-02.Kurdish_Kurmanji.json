@@ -1,0 +1,61 @@
+{
+  "title": "Serwerê ku Serê Cîhanê Derbas Kir",
+  "intro": "Xeyal bike ku hukumdarekî bihêz, ku hêz û desthilatdariya wî li ser erdê hatiye dayîn. Ev kesayetî rêwîtiyek bêhempa kiriye, gihîştiye cihê ku roj lê diçe ava û cihê ku hiltê, rastî gelên xerîb hatiye û bi du neteweyên gendelkar re rû bi rû maye. Ev rêberê nepenî kî ye?",
+  "clues": [
+    "Ez serwerek bûm ku desthilat û derfet lê hatibûn dayîn ku bigihîjim quncikên herî dûr ên cîhanê.",
+    "Ez ber bi rojava ve çûm û min dît ku roj di bihareke tarî de ava dibe.",
+    "Li nêzîkî tava hilatê ez rastî gelek kesan hatim ku ji germahiya wê tu stargeh tunebûn.",
+    "Civatek din li dijî du neteweyên gendel ên bi navê Gog û Magog alîkarî ji min xwest.",
+    "Min ji bo ragirtina wan hesin û sifirê heliyayî astengiyek çêkir.",
+    "Min ragihand ku ev asteng dilovaniyek ji Rebê min e, û ew ê heta dema diyarkirî bimîne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Zul-Qerneyn",
+        "Pêxember Suleyman",
+        "Qarûn",
+        "Talut",
+        "Nemrûd"
+      ],
+      "answer": "Zul-Qerneyn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Avakirina bendavekê li dijî Gog û Magog",
+        "Ji lehiyê mezin xilasbûn",
+        "Tê avêtin nav agir",
+        "Derbaskirina deryayê",
+        "Şerê bi gewreyekî re"
+      ],
+      "answer": "Avakirina bendavekê li dijî Gog û Magog"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Astengiyek ji hesin û sifir",
+        "Dara ku bûye mar",
+        "Keştiyeke ji dar",
+        "Qesrek ji cam",
+        "Baxçeyek ji darên xurmeyê"
+      ],
+      "answer": "Astengiyek ji hesin û sifir"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Gog û Magog heta dema diyarkirî girtî bûn",
+        "Ew bû pêxember",
+        "Ji ber bêrûmetiyê hate cezakirin",
+        "Wî hemû cîhan dagir kir",
+        "Ew her û her jiya"
+      ],
+      "answer": "Gog û Magog heta dema diyarkirî girtî bûn"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ýitiren Göriplik",
+  "intro": "Islendik patyşalykdan ýa-da mukaddes ýazgylardan has gadymy erteki - göriplikden dörän ilkinji adamzat tragediýasyny. Ilkinji ene-atadan doglan iki çaganyň ulusy bolan bir jan, kiçi doganynyň ret edilen ýagşylyga eýe bolmagyny gahar bilen synlady. Soňra iň garaňky saýlawlar boldy we ýer ýüzünde dökülen ilkinji gany yzda galdyrdy. Kimligi, synagy we ajy gynanjy açyp bilersiňizmi?",
+  "clues": [
+    "Men ýer ýüzünde ýören ilkinji adamlaryň jübütinden doguldym.",
+    "Men bir gezek Allaha sadaka berdim, ýöne ol menden kabul edilmedi.",
+    "Doganymyň sadakasyny kabul etdiler, meniňki bolsa ret edildi — muňa men çydap bilmedim.",
+    "Men öz doganymy ýok etmek bilen haýbat atdym.",
+    "Men bu ýer ýüzünde öz doganymyň janyna kast edip, ilkinji adam öldüren adam boldum.",
+    "Allatagala maňa eden işimi nädip gizlemelidigini öwretmek üçin ýer ýüzüniň bir jandary — topragy gazýan gara guş — iberdi we men diňe ökündim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Kabil (Kabil)",
+        "Habil (Abel)",
+        "Ýakup pygamber",
+        "Musa pygamber",
+        "Adam pygamber"
+      ],
+      "answer": "Kabil (Kabil)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Alla tarapyndan ret edilen gurbanlyk",
+        "Uly oda taşlandy",
+        "Çagalyk döwründe derýada taşlanyp gidilen",
+        "Uly patyşalyk bilen synagdan geçirildi",
+        "Ogluny gurban etmek tabşyryldy"
+      ],
+      "answer": "Alla tarapyndan ret edilen gurbanlyk"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Allanyň iberen gargasy",
+        "Altyn göle",
+        "Dagyň üstündäki gämi",
+        "Ýanýan gyrymsy agaç",
+        "Gaýadan oýulan düýe"
+      ],
+      "answer": "Allanyň iberen gargasy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ökünç bilen doldy we ýeňilenleriň arasynda boldy",
+        "Hazynalar bilen birlikde ýere siňdi",
+        "Allanyň hormatly ilçisi boldy",
+        "Ylahy rehim bilen Jennete girdi",
+        "Deňsiz bir patyşalyga höküm sürdi"
+      ],
+      "answer": "Ökünç bilen doldy we ýeňilenleriň arasynda boldy"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

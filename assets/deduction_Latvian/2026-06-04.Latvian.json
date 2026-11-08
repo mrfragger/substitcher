@@ -1,0 +1,61 @@
+{
+  "title": "Zīme starp akmeņiem",
+  "intro": "Zemē, kur kalnos bija izcirstas mājas, ieradās vēstnesis ar brīnumainu zīmi no Allāha. Cilvēki pieprasīja pierādījumus, un viņi saņēma radību no cietas klints. Bet viņu augstprātība lika viņiem nepaklausīt brīdinājumam, apzīmogojot savu likteni.",
+  "clues": [
+    "Mani sūtīja pie cilvēkiem, kas dzīvoja kalnos izcirstās mājokļos.",
+    "Viņi mani izaicināja atnest zīmi, tāpēc es no klints izvilku kamieli.",
+    "Es pavēlēju viņiem ļaut kamielim brīvi dzert un tam nekaitēt.",
+    "Viņi nepaklausīja un pārgrieza kamielim šķielas, nepaklausot manam brīdinājumam.",
+    "Es paziņoju, ka sods sekos pēc trim dienām.",
+    "No rīta varens sprādziens viņus iznīcināja, bet es un mani sekotāji tikām izglābti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Salihs",
+        "Pravietis Huds",
+        "Pravietis Lūts",
+        "Pravietis Šuajbs",
+        "Pravietis Ibrahims"
+      ],
+      "answer": "Pravietis Salihs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pieprasījums pēc kamieļa mātītes no klints",
+        "Pieprasījums pēc zelta teļa",
+        "Pieprasījums pēc galda, kas klāts no debesīm",
+        "Pieprasījums pēc plūdiem",
+        "Prasība, lai spieķis pārvērstos par čūsku"
+      ],
+      "answer": "Pieprasījums pēc kamieļa mātītes no klints"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Kamielis un viņas teļš",
+        "Noasa šķirsts",
+        "Mozus spieķis",
+        "Zelta teļš",
+        "Ibrahima uguns"
+      ],
+      "answer": "Kamielis un viņas teļš"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Iznīcināts spēcīga sprādziena rezultātā",
+        "Noslīcis plūdos",
+        "Zeme norīja",
+        "Pārvērtās par pērtiķiem",
+        "Iznīcinājis spēcīgs vējš"
+      ],
+      "answer": "Iznīcināts spēcīga sprādziena rezultātā"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

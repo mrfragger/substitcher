@@ -1,0 +1,61 @@
+{
+  "title": "Y Llais Tawel yn y Siambr",
+  "intro": "Atseiniodd gweddi yn llonyddwch siambr gysegredig amser maith yn ôl, yn codi o enaid heneiddiol yn hiraethu am yr hyn yr oedd y byd wedi'i ddatgan yn amhosibl. Trodd y ffigur hwn, wedi mynd ymlaen mewn blynyddoedd ac wedi'i faich gan bryder am y dyfodol, at eu Harglwydd gyda deisyfiad personol. Yr hyn a ddilynodd oedd ymateb dwyfol a heriodd bob disgwyliad naturiol—tystiolaeth o drugaredd yr Un sy'n ateb yr alwad anobeithiol.",
+  "clues": [
+    "Gelwais ar fy Arglwydd yn breifat, gan encilio i ystafell lle ymroiais i'w addoliad.",
+    "Cyfaddefais i'm Harglwydd fy mod yn ofni am y rhai a fyddai'n dod ar fy ôl, yn poeni am arweiniad fy mhobl ar ôl i mi ymadael.",
+    "Roedd henaint wedi fy ngoddi—roedd fy esgyrn wedi mynd yn wan a gwallt gwyn wedi lledu ar draws fy mhen.",
+    "Roedd fy mhriod wedi bod yn ddiffrwyth drwy gydol ei hoes, ac eto gofynnais i'm Harglwydd roi etifedd i mi o'i bresenoldeb ei hun.",
+    "Gofynnais am arwydd, ac atebodd fy Arglwydd drwy fy atal rhag siarad ag unrhyw un am dair noson, tra roeddwn i'n parhau i fod yn iach yn gorfforol.",
+    "Cefais addewid mab a fyddai o'r enw Yahya, enw y datganodd fy Arglwydd na roddwyd erioed i unrhyw un o'r blaen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Zakariya",
+        "Proffwyd Nuh",
+        "Proffwyd Musa",
+        "Proffwyd Yusuf",
+        "Proffwyd Dawud"
+      ],
+      "answer": "Proffwyd Zakariya"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gweddïo am etifedd yn ei henaint gyda phriod diffrwyth",
+        "Cael eich taflu i dân llachar",
+        "Cael ei lyncu gan bysgodyn mawr yn y tywyllwch",
+        "Goddef colli teulu, cyfoeth ac iechyd",
+        "Cael gorchymyn i adeiladu arch fawr"
+      ],
+      "answer": "Gweddïo am etifedd yn ei henaint gyda phriod diffrwyth"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y siambr weddi (mihrab)",
+        "Staff a drawsnewidiodd yn sarff",
+        "Arch bren fawr",
+        "Gardd gyda ffynnon unigryw",
+        "Mynydd lle roedd adar yn ymgynnull"
+      ],
+      "answer": "Y siambr weddi (mihrab)"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi cael mab a enwyd yn wyrthiol er gwaethaf henaint eithafol",
+        "Wedi'i achub rhag tân llachar trwy orchymyn dwyfol",
+        "Dinistriodd llifogydd mawr yr anghredinwyr",
+        "Wedi'i adfer i deulu, cyfoeth ac iechyd ar ôl amynedd",
+        "Boddodd Pharo a'i fyddin yn y môr"
+      ],
+      "answer": "Wedi cael mab a enwyd yn wyrthiol er gwaethaf henaint eithafol"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

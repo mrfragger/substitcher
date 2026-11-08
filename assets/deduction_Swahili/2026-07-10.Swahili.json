@@ -1,0 +1,61 @@
+{
+  "title": "Mbebaji wa Ishara Tisa",
+  "intro": "Mtu mmoja aliinuka kutoka mwanzo mdogo kabisa, akiwa na hatima iliyoandikwa kwa mapenzi ya Mungu. Akiwa amefichwa akiwa mchanga na kukulia ndani ya kuta za mtawala yuleyule aliyetaka kuwaangamiza watu wake, roho hii hatimaye iliitwa kwenye misheni kuu. Wakiwa na imani tu na fimbo ya mchungaji mnyenyekevu, walisimama mbele ya mtawala mwenye nguvu zaidi wa wakati huo na kudai uhuru kwa wale waliokuwa watumwa. Ulimwengu wenyewe ulionekana kusogea kwa amri yao - maji yaligawanyika, mbingu zikasema, na ufalme ukaanguka.",
+  "clues": [
+    "Siku zangu za mwanzo kabisa zilikuwa na hofu — watoto wachanga kama mimi waliwindwa wakati wa kuzaliwa na mtawala mkatili ambaye aliogopa wakati ujao.",
+    "Niliokolewa na maji na kukulia ndani ya jumba la mtawala yuleyule aliyetaka kuniangamiza.",
+    "Nilikimbia nchi yangu baada ya tukio la ghafla, na kuwa mchungaji mnyenyekevu katika nchi ya mbali.",
+    "Nilirudi kumkabili mtawala huyo mwenye nguvu nikiwa na fimbo rahisi na ujumbe ulio wazi, nikidai uhuru wa watu wangu.",
+    "Niligawanya maji mengi kwa ajili ya wale walionifuata, na nikatazama maji hayo yakimmeza adui yangu mzima.",
+    "Nilipanda mlima mtakatifu ili kupata mwongozo wa kimungu kutoka kwa Mwenyezi Mungu, na nilipewa ishara tisa zilizo wazi kama uthibitisho wa ukweli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Musa",
+        "Nabii Nuh",
+        "Nabii Ibrahimu",
+        "Nabii Yusufu",
+        "Nabii Lut"
+      ],
+      "answer": "Nabii Musa"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukabiliana na Farao katika ua wake",
+        "Kujenga Safina ili kuokoka gharika kubwa",
+        "Kutupwa kwenye moto unaowaka na watengeneza sanamu",
+        "Kushushwa kwenye kisima kirefu na ndugu zangu",
+        "Kujaribu kuwazuia watu wangu kutokana na tabia mbaya"
+      ],
+      "answer": "Kukabiliana na Farao katika ua wake"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Sanduku la Nuhu",
+        "Kiti cha Enzi cha Bilqis",
+        "Pete iliyodhibiti upepo na majini",
+        "Funguo za hazina zilizohifadhiwa nzito sana"
+      ],
+      "answer": "Fimbo iliyogeuka kuwa nyoka"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Niliwaongoza watu wangu kuvuka maji yaliyogawanyika hadi uhuru",
+        "Aliokolewa kutoka kwa mafuriko makubwa ndani ya Safina",
+        "Alirejeshwa katika afya na familia baada ya mateso makubwa",
+        "Alitupwa kutoka kwa samaki mkubwa akiwa hai",
+        "Kujenga misingi ya Nyumba Takatifu"
+      ],
+      "answer": "Niliwaongoza watu wangu kuvuka maji yaliyogawanyika hadi uhuru"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

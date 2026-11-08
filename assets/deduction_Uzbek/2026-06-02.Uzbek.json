@@ -1,0 +1,61 @@
+{
+  "title": "Chiqayotgan Quyosh Darvozasining Qo'riqchisi",
+  "intro": "Qur'on davomida ba'zi ruhlar yer yuzida donolik va hayrat izlarini qoldirib, sayohat qilishadi. Shunday shaxslardan biri yaratilishning eng chekka nuqtalariga - quyosh chiqadi va botadi, to'siq betartiblikning o'zini to'sib turadigan joyga sayohat qilgan. Allohning bu xizmatkoriga hech kim endi ega bo'lmaydigan saltanat berilgan. Uch xil sayohat orqali bu shaxsning maqsadi aniq bo'ldi. Tarix soyalari orasidan bu afsonaviy sayohatchini aniqlay olasizmi?",
+  "clues": [
+    "Menga Rahmdil Zot tomonidan yer yuzini boshqa hech kim erisha olmagan tarzda boshqarish vakolati berilgan.",
+    "Men g'arbga qarab yo'l oldim, toki quyosh botadigan joyga yetib borganimda, uni loyqa buloqqa botayotganini ko'rdim va u yerda bir odamni ko'rdim.",
+    "Men sharqqa qarab yo'l oldim, toki quyosh chiqadigan joyga yetib borganimda, u biz undan panoh topmagan bir qavm ustiga chiqayotganini ko'rdim.",
+    "Men o'sha ikki chekka nuqta orasida sayohat qilib, ikki tog' orasidagi vodiyga yetib keldim va u yerda nutqni zo'rg'a tushunadigan bir xalqni uchratdim.",
+    "Men tog'da o'ng va chap tomonga cho'zilgan ikkita qattiq temir to'siqni va ular orasida tor yo'lakni topdim. Bu odamlar mendan tartibsizlikni to'sib qo'ygan to'siqni yorib o'tishimni so'rashdi.",
+    "Men oziq-ovqatimni olib: “To‘siq yorib o‘tganda, bu biz bilan bu xalq o‘rtasida aniq bir ajralish bo‘ladi”, dedim. Belgilangan vaqt kelganda, men to‘siqning nihoyat yorilishini kuzatdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Zulqarnayn",
+        "Payg'ambar Sulaymon",
+        "Ibrohim payg'ambar",
+        "G'assaniya qiroli",
+        "Zulqarnayn Sayyoh"
+      ],
+      "answer": "Zulqarnayn"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yajuj va Majuj xalqi uchun temir to'siqni yorib o'tish",
+        "Payg'ambarning buyrug'i ostida kema qurish",
+        "Quddusda ma'bad qurish",
+        "Qizil dengizdan mo'min odamlar bilan o'tish",
+        "Solih millatni himoya qilish uchun to'g'on qurish"
+      ],
+      "answer": "Yajuj va Majuj xalqi uchun temir to'siqni yorib o'tish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Ikki tog' orasidagi temir to'siq",
+        "Kema tog'ga langar tashladi",
+        "Quddusdagi muqaddas ibodat uyi",
+        "Misr yeridagi daryo",
+        "Madyandagi ne'matlar qudug'i"
+      ],
+      "answer": "Ikki tog' orasidagi temir to'siq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Belgilangan vaqt kelganda to'siq buzildi va tartibsizlik boshlandi",
+        "Kofirlar g'arq bo'ldi, mo'minlar esa najot topdilar.",
+        "Solihlar abadiy jannatga yo'l oldilar",
+        "Shahar kuchli shamol tomonidan vayron bo'ldi",
+        "Butlar parchalanib ketdi va odamlar tavba qilishdi"
+      ],
+      "answer": "Belgilangan vaqt kelganda to'siq buzildi va tartibsizlik boshlandi"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

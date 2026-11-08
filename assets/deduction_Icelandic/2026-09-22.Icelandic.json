@@ -1,0 +1,61 @@
+{
+  "title": "Byggjendur hinna háu súlna",
+  "intro": "Þú stendur frammi fyrir rústum tignarlegrar fornrar borgar, háleitir súlur hennar nú fallnar. Vindurinn ýlfrar um tómar göturnar og ber með sér minningu voldugs fólks sem eitt sinn réði yfir þessum löndum. Hverjir voru þeir?",
+  "clues": [
+    "Við vorum þjóð með gríðarlegan styrk og færni, þekkt fyrir miklar byggingar og háþróaða siðmenningu.",
+    "Við bjuggum í landi með sandhólum og grýttum hæðum og við trúðum því að enginn gæti yfirbugað okkur.",
+    "Sendiboði kom til okkar úr hópi ættmenna okkar og kallaði okkur til að tilbiðja Allah einan, en við höfnuðum honum og gerðum gys að honum.",
+    "Vér stærum oss: „Hver ​​er sterkari en vér?“ og héldum áfram hroka okkar og skurðgoðadýrkun.",
+    "Allah sendi yfir okkur grimmilegan vind sem blés í sjö nætur og átta daga og lagði allt í rúst.",
+    "Við vorum fólkið Ads, smiðirnir Írams, og örlög okkar urðu viðvörun öllum þeim sem á eftir komu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið í 'Ad",
+        "Fólkið í Thamud",
+        "Fólkið í Madyan",
+        "Fólkið í Tubba'",
+        "Fólkið í al-Rass"
+      ],
+      "answer": "Fólkið í 'Ad"
+    },
+    "trial": {
+      "label": "Hvaða refsing var þeim gefin?",
+      "options": [
+        "Eyðileggjandi vindur",
+        "Steinasláttur",
+        "Hávær sprenging",
+        "Drukknun vegna flóðs",
+        "Gleypt af jörðinni"
+      ],
+      "answer": "Eyðileggjandi vindur"
+    },
+    "location": {
+      "label": "Hvað heitir hin goðsagnakennda borg þeirra?",
+      "options": [
+        "Íram",
+        "Sódóma",
+        "Midían",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Íram"
+    },
+    "outcome": {
+      "label": "Hver urðu örlög þeirra að lokum?",
+      "options": [
+        "Þeim var eytt og leifar þeirra urðu að lexíu",
+        "Þau iðruðust og voru frelsuð",
+        "Þau voru umbreytt í apa",
+        "Þau drukknuðu í sjónum",
+        "Þau voru grafin undir skriðu"
+      ],
+      "answer": "Þeim var eytt og leifar þeirra urðu að lexíu"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

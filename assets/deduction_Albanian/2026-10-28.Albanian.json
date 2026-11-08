@@ -1,0 +1,61 @@
+{
+  "title": "Një premtim i thënë mbi prush",
+  "intro": "Qëndron pranë një zjarri në shkretëtirë, ndërsa prushat e tij shpërndahen me kujdes. Vizitorët mbërrijnë për një takim në qetësi, dhe një mesazh i vetëm hap një histori premtimi, surprize dhe një të ardhmeje ende të papërmbushur.",
+  "clues": [
+    "Ne e kaluam distancën për të arritur te një shërbëtor besnik në shkretëtirë.",
+    "Ne kërkuam që të shpërndaheshin prush për të përgatitur një zjarr.",
+    "Ne folëm me dikë që i kishte thirrur një flake për freski dhe siguri.",
+    "Ne i sollëm lajmin e një të porsalinduri dikujt që kishte kaluar moshën për të pasur fëmijë.",
+    "Ne e quajtëm fëmijën e premtuar Isak.",
+    "Ne i sollëm lajmin e gëzuar Ibrahimit për një djalë, dhe lajmi i habitshëm e la Ibrahimin të qeshte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Engjëjt që i sollën lajmin e gëzuar Ibrahimit për Isakun",
+        "Engjëjt që e paralajmëruan Lutin",
+        "Engjëjt që Mbajnë Fronin",
+        "Engjëjt e Ferrit",
+        "Engjëjt e dërguar te Noeu"
+      ],
+      "answer": "Engjëjt që i sollën lajmin e gëzuar Ibrahimit për Isakun"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Duke i sjellë lajmin e gëzuar Ibrahimit për lindjen e Isakut",
+        "Paralajmërimi i Lutit para ndëshkimit të popullit të tij",
+        "Duke i njoftuar Zekerijes lindjen e Jahjasë",
+        "Mbajtja e Fronit në Ditën e Gjykimit",
+        "Duke i lajmëruar Merjemes lindjen e Isait"
+      ],
+      "answer": "Duke i sjellë lajmin e gëzuar Ibrahimit për lindjen e Isakut"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një zjarr i përgatitur nga prush të përhapur",
+        "Një arkë që lundron mbi ujërat e përmbytjes",
+        "Një shpellë e mbyllur nga një gur që rrokulliset",
+        "Një mal me argjilë të ngurtësuar nga shëllira",
+        "Një shkallë që shtrihet në qiell"
+      ],
+      "answer": "Një zjarr i përgatitur nga prush të përhapur"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Lajm i gëzuar për një djalë të quajtur Isak",
+        "Lajm i gëzuar për një djalë të quajtur Jahja",
+        "Zgjedhja e Talutit si sundimtar mbi Bijtë e Izraelit",
+        "Një paralajmërim para ndëshkimit të popullit të Lutit",
+        "Një urdhër për të ndërtuar një arkë para Përmbytjes"
+      ],
+      "answer": "Lajm i gëzuar për një djalë të quajtur Isak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Häipyvät vaurauden puutarhat",
+  "intro": "Maassa, jota siunasi runsas runsaus, yhteisö kukoisti ja eli jumalallisen armon merkkien keskellä. Heidän vaurautensa oli osoitus heidän Herransa suosiosta, lahja, jonka tarkoituksena oli herättää kiitollisuutta ja kuuliaisuutta. Silti, huolimatta heidän siunaustensa selvistä merkeistä, koitti käännekohta, joka kyseenalaisti heidän arvostuksensa suunnattoman vaurautensa ja mukavuutensa lähdettä kohtaan.",
+  "clues": [
+    "Meitä siunattiin kahdella puutarhalla, yksi oikealla ja toinen vasemmalla, yltäkylläisesti satoa tuottavilla annoksilla.",
+    "Meitä käskettiin syömään Herramme antimia ja olemaan kiitollisia Hänelle hyvästä maasta ja anteeksiantavasta Herrasta.",
+    "Meistä tuli ylimielisiä ja käännyimme pois kiitollisuuden polulta, kerskuen vauraudellamme ja vallallamme.",
+    "Vaadimme Herraamme pidentämään matkoidemme välistä etäisyyttä osoittaen halveksuntaa sitä helppoutta kohtaan, jonka Hän oli meille suonut.",
+    "Sanansaattaja varoitti meitä, mutta me hylkäsimme viestin ja jatkoimme piittaamattomuuttamme.",
+    "Suuri pato, joka ylläpiti vaurauttamme, murtui lopulta, mikä johti tuhoisaan tulvaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Thamudin kansa",
+        "Midianin kansa",
+        "'Aadin kansa",
+        "Lutin kansa",
+        "Saban kansa"
+      ],
+      "answer": "Saban kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Nälänhätä ja kuivuus",
+        "Mahtavan armeijan hyökkäys",
+        "Tuhoisa maanjäristys",
+        "Tuhoisa tulva rikkoutuneesta padosta",
+        "Tyrannimaisen hallitsijan sorto"
+      ],
+      "answer": "Tuhoisa tulva rikkoutuneesta padosta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kultainen vasikka",
+        "Ihmeellinen naaraskameli",
+        "Suuri pato",
+        "Kohoava rakennus",
+        "Syvä kaivo"
+      ],
+      "answer": "Suuri pato"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Meidät muutettiin apinoiksi ja sioiksi",
+        "Meidät pelastettiin ja muutettiin uuteen maahan",
+        "Meidät hajotettiin ja maamme karuutui",
+        "Me nousimme taivaisiin",
+        "Rakensimme uuden, vauraamman kuningaskunnan"
+      ],
+      "answer": "Meidät hajotettiin ja maamme karuutui"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

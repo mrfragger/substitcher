@@ -1,0 +1,61 @@
+{
+  "title": "Prestol resnice",
+  "intro": "Močan vladar, znan po svoji veliki modrosti in veličastnem prestolu, prejme skrivnostno sporočilo iz neznanega vira. To nepričakovano sporočilo izzove njihova prepričanja in avtoriteto ter jih popelje na diplomatsko potovanje, ki bo preizkusilo njihov intelekt in na koncu pripeljalo do globokega duhovnega prebujenja. Ali lahko odkrijete identiteto tega vladarja in dogodke, ki so preobrazili celotno njihovo kraljestvo?",
+  "clues": [
+    "Moje ljudstvo in jaz smo častili sonce, sledeč potem naših prednikov.",
+    "Ptica, ud, je bila nepričakovani sel, ki mi je prinesel pismo mogočnega voditelja.",
+    "Da bi preizkusil pošiljateljevo modrost, sem poslal dragocena darila, vendar so bila vrnjena, saj je pošiljatelj imel od Alaha veliko večje bogastvo.",
+    "Še preden sem prispel na pošiljateljev dvor, je bil moj veličastni prestol v hipu čudežno prenesen tja.",
+    "Ob mojem prihodu so me vprašali, ali je preneseni prestol moj, in odgovoril sem: 'Kot da je to prav tisti.'",
+    "Vstopil sem v veliko dvorano, katere tla sem zamenjal za bazen vode, in v tistem trenutku strahospoštovanja sem se skupaj s prerokom Sulejmanom predal Alahu, Gospodarju svetov."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Kraljica iz Sabe",
+        "Zulaikha (žena Al-Aziza)",
+        "Asija (žena faraona)",
+        "Musajeva mati",
+        "Marjam (mati Isa)"
+      ],
+      "answer": "Kraljica iz Sabe"
+    },
+    "trial": {
+      "label": "Osrednji dogodek",
+      "options": [
+        "Prejem pisma preroka Sulejmana",
+        "Biti vržen v ogenj",
+        "Gradnja barke za preživetje poplave",
+        "Ločitev Rdečega morja",
+        "Obtožba neskromnosti"
+      ],
+      "answer": "Prejem pisma preroka Sulejmana"
+    },
+    "location": {
+      "label": "Ključni predmet",
+      "options": [
+        "Veličasten prestol",
+        "Zlato tele",
+        "Plašč številnih barv",
+        "Palica, ki se je spremenila v kačo",
+        "Ladja iz desk in žebljev"
+      ],
+      "answer": "Veličasten prestol"
+    },
+    "outcome": {
+      "label": "Končni izid",
+      "options": [
+        "Podreditev edinemu pravemu Bogu (Alahu)",
+        "Spremenjen v solni steber",
+        "Gradnja visokega stolpa, da bi dosegli Boga",
+        "Biti pogoltnjen s strani velike ribe",
+        "Izguba ogromnega bogastva kot kazen"
+      ],
+      "answer": "Podreditev edinemu pravemu Bogu (Alahu)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Voz da Periferia",
+  "intro": "Você está em uma cidade onde três mensageiros chegaram com sinais claros, mas o povo zomba deles e se apega aos seus costumes antigos. Da parte mais distante da cidade, uma figura corre em direção à multidão, ofegante e determinada, para falar a verdade mesmo diante da rejeição. Quem é essa alma que arriscou tudo por uma mensagem que não é sua?",
+  "clues": [
+    "Vivi entre um povo que recebeu mensageiros com sinais claros, mas, com arrogância, os rejeitou.",
+    "Vim correndo da parte mais distante da cidade quando ouvi o chamado dos mensageiros.",
+    "Eu disse ao meu povo: 'Ó meu povo, sigam os mensageiros. Sigam aqueles que não pedem recompensa alguma a vocês, pois eles estão bem guiados.'",
+    "Eu não era um profeta, mas acreditava nos mensageiros e incentivava meu povo a fazer o mesmo.",
+    "Meu povo zombou dos meus conselhos e me acusou de ser extremista.",
+    "Quando me mataram, Alá me disse para entrar no Paraíso, e eu desejei que meu povo pudesse conhecer o perdão e a honra que recebi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O homem da parte mais distante da cidade (Ya-Sin)",
+        "Um dos três mensageiros enviados à cidade",
+        "Um comerciante proeminente da cidade",
+        "Um governante da cidade",
+        "O líder dos incrédulos"
+      ],
+      "answer": "O homem da parte mais distante da cidade (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Pregando ao seu povo para que seguisse os mensageiros.",
+        "Construindo um navio para salvar os fiéis de um dilúvio",
+        "Ser lançado ao fogo por causa da fé",
+        "Ser engolido por uma baleia",
+        "Receber um reino e sabedoria"
+      ],
+      "answer": "Pregando ao seu povo para que seguisse os mensageiros."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A parte mais distante da cidade",
+        "A arca",
+        "O poço",
+        "A sarça ardente",
+        "A caverna"
+      ],
+      "answer": "A parte mais distante da cidade"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Entrou no Paraíso e desejou que seu povo pudesse conhecer seu perdão.",
+        "Afogado com seu povo por rejeitar a mensagem.",
+        "Recebeu um milagre da camela.",
+        "Tornou-se governante após seu julgamento.",
+        "Foi salvo por Alá e permaneceu com seu povo."
+      ],
+      "answer": "Entrou no Paraíso e desejou que seu povo pudesse conhecer seu perdão."
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

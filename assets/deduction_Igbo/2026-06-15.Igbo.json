@@ -1,0 +1,61 @@
+{
+  "title": "Ọchịchị nke Ifufe na Ọkụ",
+  "intro": "Chee echiche banyere ọchịchị ebe ifufe n'onwe ya na-aza otu onye ọchịchị, ebe olu nke ihe ndị kacha nta na-ebu ibu arọ, ebe a na-ejikwa ike ndị a na-ahụghị anya nkịtị na-ejere ozi nke ọma. Onye a ketara alaeze pụrụ iche n'aka onye bu ya ụzọ, na-eji ike n'elu ihe ndị dị n'eluigwe na ala. Ma ikike dị ukwuu bịara na nnukwu ule - oge ikpeazụ ga-ekpughe ihe dị ịtụnanya gbasara ọdịdị nke ndụ na ọnwụ n'onwe ya.",
+  "clues": [
+    "E ketara m alaeze ukwu n'aka nne na nna m hụrụ n'anya, onye bụkwa onye amụma na onye ohu Allah.",
+    "Allah nyere m ikike n'ikuku, wee ziga ya njem otu ọnwa n'otu ụtụtụ.",
+    "Ọbụnadị ihe ndị kacha nta n'ime ihe e kere eke ga-ekwu maka ụzọ m si aga, m ga-akwụsịkwa iche echiche banyere otú ha si mara ihe.",
+    "Eduziri m ọtụtụ ìgwè mmadụ nke jinn, mmadụ, na nnụnụ, ha niile dị n'usoro n'ihu m.",
+    "Otu onye ọchịchị dị anya bịara iji ihe ịma aka siri ike nwalee m, e wee kpọta ocheeze onye ọchịchị ahụ n'ụlọikpe m tupu onye ọbịa ahụ ebilite n'oche ya.",
+    "Anọ m na-eguzo, na-adabere n'osisi, ruo mgbe obere ihe dị ndụ nke ụwa tara ya - ọ bụ mgbe ahụ ka ndị gbara m gburugburu ghọtara na agafeela m."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Sulayman (Solomon)",
+        "Onye Amụma Devid (David)",
+        "Onye Amụma Aịza (Jizọs)",
+        "Onye amuma Muhammad ﷺ",
+        "Onye Amụma Mozis (Moses)"
+      ],
+      "answer": "Onye Amụma Sulayman (Solomon)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Iweta ocheeze eze nwanyị dị anya site n'ụzọ karịrị nke mmadụ",
+        "Ịbụ onye a na-eweda n'ime olulu mmiri miri emi dịka nwatakịrị",
+        "Ịhụ ndị dibịa anwansi nke onye ọchịchị aka ike n'anya site n'iji ihe ịrịba ama dị ebube",
+        "Na-ekwu okwu site n'oge ọ bụ nwata iji chebe nsọpụrụ nne",
+        "Ịnata akwụkwọ nsọ ikpeazụ e kpughere n'elu ugwu nsọ"
+      ],
+      "answer": "Iweta ocheeze eze nwanyị dị anya site n'ụzọ karịrị nke mmadụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Mkpara osisi tara ahụhụ site n'aka ụmụ ahụhụ",
+        "Ụgbọ ukwu e wuru iji gafee iju mmiri zuru ụwa ọnụ",
+        "Mkpanaka nke gbanwere ghọọ agwọ n'ihu onye ọchịchị aka ike",
+        "Ákwà e ji agwọ ndị ìsì",
+        "Ọgba dị nsọ ebe a nabatara mkpughe mbụ"
+      ],
+      "answer": "Mkpara osisi tara ahụhụ site n'aka ụmụ ahụhụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Otu onye ọchịchị a ma ama nke bịara ileta nabatara okwukwe mgbe ọ hụchara ihe ịrịba ama",
+        "Oké idei mmiri bibiri mmadụ niile nọ n'ụgbọ ahụ ma e wezụga ndị kwesịrị ntụkwasị obi",
+        "Fero na ndị agha ya nwụrụ n'oké osimiri",
+        "E buliri enyi ezi omume elu gaa eluigwe",
+        "E chụturu ma bibie otu eze aka ike na obodo ya"
+      ],
+      "answer": "Otu onye ọchịchị a ma ama nke bịara ileta nabatara okwukwe mgbe ọ hụchara ihe ịrịba ama"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

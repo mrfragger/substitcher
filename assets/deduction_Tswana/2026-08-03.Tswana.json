@@ -1,0 +1,61 @@
+{
+  "title": "Dikgakologo Tlase ga Motlhaba",
+  "intro": "Mo dibukeng tsa ditiragalo tsa Quran, motho yo o neng a na le bopelotelele jo bogolo o ne a lebana le teko e e neng e tla thuba dipelo tse di thata thata. Sengwe le sengwe se ne sa amogiwa - khumo, lelapa, le botsogo. Le fa go ntse jalo go tswa mo botennye jwa go itlhoboga, thapelo ya boikokobetso e ne ya arabiwa ka tsela e e neng e sa lebelelwa gotlhelele. A o ka kgona go supa mowa ono o kgang ya one ya go tsosolosiwa e boelelang mo dingwageng tsotlhe?",
+  "clues": [
+    "Ke ne ka lekwa ka teko e e bogale thata mo e gakologelwang mo dingwageng tsotlhe.",
+    "Ke ne ka latlhegelwa ke sengwe le sengwe se se neng se le botlhokwa - khumo ya me, bana ba me, le botsogo jwa me.",
+    "Mmele wa me o ne o tletse dintho tse di botlhoko, mme ke ne ke tilwa ke botlhe.",
+    "Ka go itlhoboga ga me, ke ne ka bitsa Allah, ke re Satane o nkgomile ka mathata le pogiso.",
+    "Allah o ne a nkaraba mme a ntaela gore ke iteye lefatshe ka leoto la me.",
+    "Go tswa mo go lone lefelo leo, go ne ga thunya motswedi o o tsidifetseng, mme Allah o ne a tsosolosa lelapa la gaetsho mme a le menaganya gabedi jaaka kutlwelobotlhoko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Ayyub",
+        "Moporofeti Musa",
+        "Moporofeti Ilyas",
+        "Moporofeti Sulayman",
+        "Moporofeti Dawud"
+      ],
+      "answer": "Moporofeti Ayyub"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Bolwetse jo bo masisi le go latlhegelwa ke lelapa le khumo",
+        "Go mediwa ke leruarua le legolo",
+        "Go lelekwa kwa toropong ya Makkah",
+        "Go golegwa mo sedibeng se se boteng",
+        "Go thulana le mmusi yo o mabela"
+      ],
+      "answer": "Bolwetse jo bo masisi le go latlhegelwa ke lelapa le khumo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Motswedi o o tsiditsana o o tswang mo lefatsheng",
+        "Mokoro mo godimo ga morwalela o mogolo",
+        "Lore lo lo kgaogantseng lewatle",
+        "Setulo sa bogosi se se tsholetsegileng sa galase",
+        "Logaga lo lo ageletsweng ka lobota lwa go robala"
+      ],
+      "answer": "Motswedi o o tsiditsana o o tswang mo lefatsheng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Lelapa le khumo di buseditswe gape di menagane gabedi",
+        "Go tswa mo mpeng ya tlhapi",
+        "Go feta ka pabalesego mo metsing a a kgaogantsweng",
+        "Bogosi jo bo neetsweng go busa",
+        "Go tsholwa ga morwa ka kgakgamatso mo botsofeng"
+      ],
+      "answer": "Lelapa le khumo di buseditswe gape di menagane gabedi"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

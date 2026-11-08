@@ -1,0 +1,61 @@
+{
+  "title": "Rad etilgan sovg'aning yuki",
+  "intro": "Insoniyat tarixining boshida, yer hali yosh bo'lgan va dunyo ilk nafasini olgan paytda, bir jon Yaratguvchi oldida kamtarona qurbonlik bilan turdi. Bu qurbonlik ilohiy qabul tarozida tortildi va yetarli emas deb topildi. Keyin kechirim haqida emas, balki rashk bilan to'lib-toshgan yurak haqida hikoya qilindi, bu esa butun zamon davomida aks-sado beradigan qaytarib bo'lmaydigan harakatga olib keldi. Bu uning nomi birinchi marta sodir etilgan og'ir adolatsizlik bilan sinonimga aylangan kishining hikoyasidir.",
+  "clues": [
+    "Men dunyoga kelgan ilk farzandlardan biri, hikoyasini yaxshi biladigan ota-onadan tug'ilganman.",
+    "Men bir marta Allohga qurbonlik keltirdim, lekin u mendan qabul qilinmadi — garchi akamning qurbonligi mamnuniyat bilan qabul qilingan bo'lsa ham.",
+    "Hasad va g'azab yuragimda ildiz otdi va men o'z qarindoshlarimning hayotini yo'q qilish bilan tahdid qildim.",
+    "Akam meni Allohdan qo'rqishim kerakligi haqida ogohlantirdi, lekin mag'rurligim quloq solishimga yo'l qo'ymadi.",
+    "Dahshatli zaiflik lahzasida men o'z akamga nisbatan so'zlab bo'lmaydigan bir ish qildim.",
+    "Keyinchalik, men qilgan ishimni qanday yashirishni ham bilmasdim — menga yer yuzidan bir jonzot o'rgatish uchun yuborilmaguncha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Qobil (Qobil)",
+        "Hobil (Abel)",
+        "Nuh payg'ambarning o'g'li",
+        "Payg'ambar Ismoil",
+        "Yusuf payg'ambar"
+      ],
+      "answer": "Qobil (Qobil)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Rad etilgan qurbonlikni keltirish, birinchi qotillikka olib keldi",
+        "Osmonga yetib borish uchun baland minora qurish",
+        "Iymoni uchun alangali olovga tashlanish",
+        "Allohga itoat qilish yo'lida o'z o'g'lini qurbon qilish",
+        "O'z burchidan qochgani uchun katta baliq tomonidan yutib yuborilish"
+      ],
+      "answer": "Rad etilgan qurbonlikni keltirish, birinchi qotillikka olib keldi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Dafn marosimini namoyish qilish uchun Alloh tomonidan yuborilgan qarg'a",
+        "Butun xalqni suvga cho'ktirgan ulkan toshqin",
+        "Tirik ilonga aylangan tayoq",
+        "Tosh tog'idan chiqqan urg'ochi tuya",
+        "Kuchli shamollar ko'tarib yurgan ulug'vor taxt"
+      ],
+      "answer": "Dafn marosimini namoyish qilish uchun Alloh tomonidan yuborilgan qarg'a"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Birinchi marta sodir etilgan jinoyatdan pushaymon bo'lib, og'ir yuk ostida qoldi",
+        "Alloh tomonidan kechirildi va abadiy jannatga sazovor bo'ldi",
+        "Bashorat va donolikning yuksak mavqeiga ko'tarildi",
+        "Zulmat tubidan iltijo qilganidan keyin ilohiy rahmat bilan qutqarildi",
+        "Jinlar, shamol va dengizlar ustidan hukmronlik qilindi"
+      ],
+      "answer": "Birinchi marta sodir etilgan jinoyatdan pushaymon bo'lib, og'ir yuk ostida qoldi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

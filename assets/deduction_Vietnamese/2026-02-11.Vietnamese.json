@@ -1,0 +1,60 @@
+{
+  "title": "Gánh nặng của sự giàu có",
+  "intro": "Bạn đang đứng trước một câu chuyện về sự giàu có tột bậc, một cuộc sống được tô điểm bằng vàng bạc châu báu và quyền lực, nhưng cuối cùng lại là một bài học cảnh tỉnh cho tất cả những ai tìm kiếm sự giàu sang vật chất. Liệu bạn có thể làm sáng tỏ danh tính của nhân vật này, người mà câu chuyện của ông vang vọng qua thời gian, một minh chứng cho bản chất phù du của cải vật chất?",
+  "clues": [
+    "Tôi xuất thân từ dòng dõi của một vị Tiên tri vĩ đại, nhưng tôi đã chọn con đường kiêu ngạo và áp bức.",
+    "Allah đã ban cho tôi khối tài sản khổng lồ, nhiều đến nỗi chìa khóa mở kho báu của tôi là một gánh nặng lớn đối với một nhóm người khỏe mạnh.",
+    "Người thân khuyên tôi đừng kiêu ngạo vì giàu có, nhắc nhở tôi rằng Allah không yêu những kẻ kiêu căng, tự phụ.",
+    "Tôi đã kiêu ngạo tuyên bố rằng khối tài sản khổng lồ của mình là do kiến ​​thức và nỗ lực của bản thân, chứ không phải là ân huệ từ Allah.",
+    "Tôi đã được cảnh báo về sự tham nhũng và được nhắc nhở phải tìm kiếm hạnh phúc ở kiếp sau với những gì Allah đã ban cho tôi, nhưng tôi đã từ chối lắng nghe và tiếp tục sống trong sự kiêu ngạo.",
+    "Cuối cùng, Allah đã khiến đất nuốt chửng tôi và nhà cửa của tôi, khiến tôi không còn ai giúp đỡ để chống lại ý muốn của Ngài."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Pharaoh",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Sự chia tách biển",
+        "Ngọn lửa của Nimrod",
+        "Lũ lụt",
+        "Sự nuốt chửng của trái đất",
+        "Nạn châu chấu"
+      ],
+      "answer": "Sự nuốt chửng của trái đất"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah",
+        "Nhân viên",
+        "Con bê vàng",
+        "Những Kho báu/Chìa khóa",
+        "Giếng Zamzam"
+      ],
+      "answer": "Những Kho báu/Chìa khóa"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được phong vương",
+        "Được cứu thoát khỏi sự hủy diệt",
+        "Bị đất nuốt chửng",
+        "Trở thành một nhà tiên tri",
+        "Đã qua đời một cách thanh thản."
+      ],
+      "answer": "Bị đất nuốt chửng"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

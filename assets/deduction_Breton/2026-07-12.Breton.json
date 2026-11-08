@@ -1,0 +1,61 @@
+{
+  "title": "Kêr kollet he meurdez dibar",
+  "intro": "Ur sevenadur galloudus a oa gwechall mestr war tachennoù bras eus an douar, brudet evit e savadurioù uhel a yae betek an oabl. Koulskoude dindan ar braster-se e kreskas ur nac'hadenn start — ur nac'hadenn da selaou ar c'hemenn doueel kaset eus diabarzh ar gumuniezh hec'h-unan. Ar lorc'h hag an ourgouilh a zegase buan ur c'hastiz na oa ket bet gwelet biskoazh gant an douar nag an neñvoù.",
+  "clues": [
+    "Gwechall e oamp o ren war tachennoù bras eus an douar, gant ur nerzh a gredemp ne c'hallje ket ur sevenadur all heñchañ.",
+    "Brudet e oa hor rouantelezh evit he savadurioù uhel gant pileroù galloudus a oa dibar war pep douar anavezet.",
+    "Ur c'hemenner eus hor c'humuniezh hec'h-unan a savas, o c'houlenn digant pep hini ac'hanomp bezañ soumet d'ar C'hrouer nemetañ.",
+    "Nac'het hon eus ar gemennadenn bet kaset deomp ha nac'het hon eus dilezel an hent hon doa hêrezet.",
+    "Un avel fuloret ha kriz a oa bet taolet a-enep deomp, o lezel ac'hanomp hep difenn penn-da-benn.",
+    "Lezet omp bet evel troc'hoù palmez toull, strewet ha disoñjet, evel ur gentel evit pep rummad war-lerc'h."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Tud A'ad",
+        "Tud Nuh",
+        "Pobl Lut",
+        "Tud Madyan",
+        "Tud Tubba'"
+      ],
+      "answer": "Tud A'ad"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Un avel fulor dic'hortoz a gastiz kalet",
+        "Un dour-beuz hag a c'holoe pep beg menez",
+        "Ur glav mein pri o teviñ eus an nec'h",
+        "Ur griadenn spontus hepken eus an neñvoù",
+        "Ur c'hren-douar feuls hag a rannas an douar"
+      ],
+      "answer": "Un avel fulor dic'hortoz a gastiz kalet"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Iram, kêr ar c'holonennoù uhel",
+        "Un arc'h koad bras savet war ur menez",
+        "Ur c'hañvalez a zeuas er-maez dre vurzhud eus ar maen",
+        "Menez Sinai e-lec'h ma tiskenne gourc'hemennoù doueel",
+        "Ur palez kristal ha gwer fin o sellout ouzh an dourioù o redek"
+      ],
+      "answer": "Iram, kêr ar c'holonennoù uhel"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Lezet evel troc'hoù palmez toull, strewet ha divuhez",
+        "Beuzet dindan gwagennoù bras ul liñvadenn vras",
+        "Treuzfurmet e krouadurioù heñvel ouzh ar marmouzed hag ar moc'h",
+        "Gwasket dindan ur glav mein pri kaletaet",
+        "Debret en ur griadenn vouzar hepken a dreuzas an ene"
+      ],
+      "answer": "Lezet evel troc'hoù palmez toull, strewet ha divuhez"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Gjyqi nën valë",
+  "intro": "Një profet, i rënduar nga misioni i tij, mori një vendim që e çoi larg popullit të tij dhe në një sprovë të papritur. Udhëtimi i tij mori një kthesë dramatike, duke i vënë në provë besimin dhe durimin në mënyrën më të thellë. A mund t’i nxirrni detajet e kësaj ngjarjeje të jashtëzakonshme nga të dhënat e dhëna?",
+  "clues": [
+    "Një profet iu dërgua një populli, por u largua me nxitim, duke ndjerë zhgënjim për refuzimin e tyre.",
+    "Udhëtimi i tij e çoi në det, ku ai hipi në një anije të ngarkuar rëndë për të kërkuar kalim.",
+    "Një stuhi e madhe shpërtheu, duke kërcënuar anijen, dhe u mor vendimi për të hedhur një person në det për të lehtësuar ngarkesën, i përcaktuar me short.",
+    "Ai u gëlltit nga një krijesë e thellësive, një ngjarje e mrekullueshme e dekretuar nga vullneti Hyjnor.",
+    "Brenda kufijve të barkut të krijesës, ai iu lut Zotit të tij, duke u penduar dhe duke e lavdëruar Allahun në errësirë.",
+    "Pas një periudhe lutjesh të zjarrta, ai u hodh në një breg të shkretë, i dobët por gjallë, dhe më vonë u kthye për të zbuluar se populli i tij më në fund kishte besuar."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profet/Person",
+      "options": [
+        "Profeti Nuh",
+        "Profeti Lut",
+        "Profeti Musa",
+        "Profeti Junus",
+        "Profeti Jusuf"
+      ],
+      "answer": "Profeti Junus"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Përmbytja e Nuhut",
+        "Shkatërrimi i Sodomës",
+        "Udhëtimi në barkun e peshkut të madh",
+        "Ndarja e detit",
+        "Zbulesa e shkurres që digjet"
+      ],
+      "answer": "Udhëtimi në barkun e peshkut të madh"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Arka",
+        "Mali Sinai",
+        "Shkopi i Musës",
+        "Peshku i Madh",
+        "Pusi i Jusufit"
+      ],
+      "answer": "Peshku i Madh"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Një besëlidhje e re me njerëzimin",
+        "Një lindje e mrekullueshme për popullin e tij",
+        "Një mbretëri e themeluar për prejardhjen e tij",
+        "Një kthim te populli i tij që atëherë besoi",
+        "Një fitore ndaj një sundimtari tiranik"
+      ],
+      "answer": "Një kthim te populli i tij që atëherë besoi"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

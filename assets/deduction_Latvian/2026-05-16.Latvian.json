@@ -1,0 +1,61 @@
+{
+  "title": "Neatlaidīgais pestīšanas celtnieks",
+  "intro": "Šī persona, apveltīta ar milzīgu pacietību un nelokāmu pārliecību, neskaitāmus gadus veltīja dievišķai misijai, saskaroties ar nežēlīgu nicinājumu un noraidījumu. Viņu stāsts ir spēcīga liecība par ticību milzīgas neticības priekšā, kulminējot ar nozīmīgu notikumu, kas mainīja pasauli.",
+  "clues": [
+    "Es veltīju neticami ilgu savas dzīves posmu, aicinot savus ļaudis pielūgt Allāhu.",
+    "Mani ļaudis mani izsmēja un apsūdzēja acīmredzamās kļūdās un neprātā.",
+    "Man pavēlēja uzcelt kaut ko tādu, kas manai piekrastes kopienai šķita neparasts.",
+    "Tikai daži noticēja un pievienojās man un manai ģimenei šajā unikālajā būvniecībā.",
+    "Es uz klāja paņēmu pārus no visām dzīvajām radībām, kā to bija norādījis Allāhs.",
+    "Lieli plūdi pārņēma zemi, izglābjot tikai tos, kas bija kopā ar mani manā kuģī, kamēr mans paša dēls gāja bojā savas neticības dēļ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Salihs",
+        "Pravietis Huds",
+        "Pravietis Nuhs",
+        "Pravietis Davuds",
+        "Pravietis Suleimans"
+      ],
+      "answer": "Pravietis Nuhs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Iznīcināšana zemestrīces rezultātā",
+        "Jūras sadalīšana",
+        "Lielie plūdi",
+        "Nimroda uguns",
+        "Varžu mēris"
+      ],
+      "answer": "Lielie plūdi"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Degošais krūms",
+        "Šķirsts",
+        "Ūdens aka",
+        "Zelta teļš",
+        "Tūras kalns"
+      ],
+      "answer": "Šķirsts"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Saņēma karaļvalsti",
+        "Viņa tauta tika pārvērsta par pērtiķiem",
+        "Viņa tauta tika izglābta brīnumainā kārtā",
+        "Viņa ļaudis noslīka",
+        "Viņa tautu skāra zibens spēriens"
+      ],
+      "answer": "Viņa ļaudis noslīka"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Barjerų statytojas",
+  "intro": "Per plačias žemes galingas asmuo, gavęs milžinišką valdžią ir išteklius, leidosi į seriją ekspedicijų. Ši siela sutiko įvairias bendruomenes ir susidūrė su unikaliais iššūkiais, savo veiksmais ir išmintimi palikdama ilgalaikį pėdsaką istorijoje ir tikėjime, tuo pačiu pripažindama tikrąjį savo stiprybės šaltinį.",
+  "clues": [
+    "Man buvo suteikta galia ir priemonės viskam, ir aš ėjau tam tikru keliu.",
+    "Mano kelionė nuvedė mane į saulės nusileidimo vietą, kur radau žmones.",
+    "Sutikau bendruomenę, kuri vos suprato kalbą, gyvendama tarp dviejų kalnų.",
+    "Manęs paprašė pastatyti barjerą ne dėl asmeninės naudos, o dėl apsaugos nuo griaunančios jėgos.",
+    "Aš pareiškiau, kad jėga pastatyti šią didžiulę sieną ateina iš Alacho ir ji stovės iki pažadėto laiko.",
+    "Mano vardas, dažnai verčiamas kaip „Dviragis“, reiškia mano aprėptį visoje žemėje arba galbūt dvi skirtingas epochas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Musa",
+        "Pranašas Suleimanas",
+        "Dhul-Qarnayn",
+        "Faraonas",
+        "Lukmanas"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Apreiškimo gavimas",
+        "Susidūrimas su tironu",
+        "Didžiojo laivo statyba",
+        "Statant galingą barjerą",
+        "Praryti žuvies"
+      ],
+      "answer": "Statant galingą barjerą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Geležinis barjeras",
+        "Nilo upė",
+        "Sostas"
+      ],
+      "answer": "Geležinis barjeras"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Išgelbėjimas nuo potvynio",
+        "Tapimas didele karalyste",
+        "Apsauga žmonėms",
+        "Engėjo sunaikinimas",
+        "Amžina išmintis"
+      ],
+      "answer": "Apsauga žmonėms"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

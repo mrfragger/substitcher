@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Kabla ya Dhoruba",
+  "intro": "Mtu mmoja jangwani aliinuka kuita taifa lenye nguvu kurudi kwenye ukweli. Watu walijulikana kwa majengo yao mazuri na nguvu isiyo na kifani. Lakini kiburi chao kiliwapofusha, nao wakakataa kusikiliza. Hatimaye, adhabu kali iliwapata, ikiwaacha kundi dogo tu la waumini.",
+  "clues": [
+    "Nilitumwa kwa watu wenye nguvu walioishi katika nchi wazi na walijulikana kwa nguvu zao.",
+    "Watu wangu walifuata taifa lingine kubwa lililokuwa limeangamizwa.",
+    "Walikuwa na majengo mazuri sana na walijenga minara mirefu.",
+    "Niliwaita wamwabudu Mungu Mmoja, lakini walikataa kuacha sanamu zao.",
+    "Adhabu kali iliwapata, ikiwaacha wale tu walioamini pamoja nami.",
+    "Mimi ndiye niliyetumwa kwa watu wenye nguvu wanaojulikana kama Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Hud",
+        "Nabii Salih",
+        "Nabii Shu'aib",
+        "Nabii Nuh",
+        "Nabii Ibrahimu"
+      ],
+      "answer": "Nabii Hud"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mafuriko makubwa",
+        "Upepo mkali unaovuma",
+        "Tetemeko la ardhi na kilio cha kutisha",
+        "Mvua ya mawe yanayowaka",
+        "Moto wa mbinguni kutoka juu"
+      ],
+      "answer": "Upepo mkali unaovuma"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Safina kubwa iliyojengwa juu ya mlima",
+        "Ngamia jike wa kipekee",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Majengo marefu na miundo mirefu",
+        "Moto unaowaka"
+      ],
+      "answer": "Majengo marefu na miundo mirefu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Wote walizama katika mafuriko makubwa",
+        "Watu wangu waliangamizwa na upepo mkali, huku mimi nikiokolewa",
+        "Watu wangu wamepigwa na tetemeko la ardhi na kulia",
+        "Watu wangu walipigwa mawe kutoka mbinguni",
+        "Watu wangu watatupwa kwenye moto unaowaka"
+      ],
+      "answer": "Watu wangu waliangamizwa na upepo mkali, huku mimi nikiokolewa"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

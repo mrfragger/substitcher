@@ -1,0 +1,61 @@
+{
+  "title": "Zeruei erronka egin zien koroa",
+  "intro": "Antzinako erreinuetako korridoreetan, agintari baten izena tirania eta harrokeriaren sinonimo bihurtu zen. Alaren zerbitzari xume bat seinale ukaezinak ekarri zituenean, errege ahaltsu honek uko egin zion egiaren aurrean amore emateari. Gaur, zure zeregina da figura mitiko hau identifikatzea, zeinaren nagusitasuna hautsi eta zeinaren patua olatuen azpian zigilatu zen.",
+  "clues": [
+    "Ni naiz agintari beldurgarriena, eta nire izena oraindik ere abisu gisa oihartzun egiten du mendeetan zehar.",
+    "Herri oso bati agindu nion kateetan lan egiteko, nire aintza aldarrikatzen zuten monumentuak eraikiz.",
+    "Allahren mezulari bat ukaezinak diren seinaleekin nire aurrean etorri zenean, makurtu nahi ez nuen eta sorginkeria deitu nion.",
+    "Gatibu zeuden herrien artean haurtxoak hiltzea dekretatu nuen, haien espiritua zapaltzeko asmoz, altxatu aurretik.",
+    "Nire gortearen aurrean zutik jarri eta «Zuen jaun gorena naiz» adierazi nuen, jainko gisa gurtzea eskatuz.",
+    "Nire ministro nagusia alboan nuela, zeruetatik haratago igotzeko helburua zuen egitura erraldoi bat eraiki nuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Faraoia (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraoia (Fir'awn)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsaso Gorrian itota hiltzea",
+        "Thamudeko jendeari bidalitako gamelu emea",
+        "Nuh-eko uholde handia",
+        "Lubakiko Lagunen zigorra",
+        "Abraharen armadaren suntsipena txoriek eginda"
+      ],
+      "answer": "Itsaso Gorrian itota hiltzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Hamanekin eraikitako egitura dorretsua",
+        "Uholdearen gainean nabigatu zuen arka",
+        "Samiriek egindako urrezko txahala",
+        "Bilqisen tronua, Sabako erregina",
+        "Gazte lotien kobazuloa"
+      ],
+      "answer": "Hamanekin eraikitako egitura dorretsua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Itsasoan itota; gorpua abisu gisa gorde dute",
+        "Erbesteratua eta basamortuan ibiltzera behartua",
+        "Tximino bihurtuak zigor gisa",
+        "Lurrikara bortitz batek jota",
+        "Zerutik eroritako harri-euri batek erreta"
+      ],
+      "answer": "Itsasoan itota; gorpua abisu gisa gorde dute"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

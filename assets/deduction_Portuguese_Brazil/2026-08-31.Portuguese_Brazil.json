@@ -1,0 +1,61 @@
+{
+  "title": "A Voz Silenciosa do Vale",
+  "intro": "Volte no tempo e conheça um povo poderoso que, certa vez, recebeu uma maravilha viva como prova. A arrogância e a teimosia selaram seu destino. Você consegue desvendar a história e descobrir o que aconteceu nesse momento decisivo?",
+  "clues": [
+    "Fui enviado como uma provação divina a um povo poderoso, conhecido por sua força e resistência.",
+    "Eu era uma maravilha única — ninguém como eu jamais havia aparecido entre eles.",
+    "Em dias alternados, eu compartilhava água potável de um poço com meu povo.",
+    "Eles foram avisados ​​de que qualquer dano contra mim acarretaria punição imediata.",
+    "O mais ousado deles ignorou o aviso e me prejudicou.",
+    "Após a minha morte, um único grito estrondoso vindo do céu destruiu todo o meu povo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A camela de Salih",
+        "A Vaca de Musa",
+        "O Navio de Noé",
+        "O Cajado de Musa",
+        "O Trono de Bilqis"
+      ],
+      "answer": "A camela de Salih"
+    },
+    "trial": {
+      "label": "Meu destino",
+      "options": [
+        "Com os tendões aleijados e morto",
+        "Abatido como sacrifício",
+        "Transformado em uma serpente",
+        "Preservado após uma grande inundação",
+        "Trazido rapidamente através de um reino"
+      ],
+      "answer": "Com os tendões aleijados e morto"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Um poço de água",
+        "Uma tábua de pedra",
+        "Uma sarça ardente",
+        "Uma arca de madeira",
+        "Um trono de ouro e prata."
+      ],
+      "answer": "Um poço de água"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruído por um único grito",
+        "Afogado em uma grande enchente",
+        "Queimado por uma chuva de pedras",
+        "Destroçado por um vento violento",
+        "Engolido pela terra"
+      ],
+      "answer": "Destruído por um único grito"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

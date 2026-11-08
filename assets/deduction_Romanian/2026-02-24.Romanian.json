@@ -1,0 +1,61 @@
+{
+  "title": "Ecoul înșelăciunii",
+  "intro": "O legătură de rudenie a fost pusă la încercare de un val de invidie. Un plan secret a fost pus la cale, punând în mișcare un lanț de evenimente care aveau să se întindă pe ani și să traverseze distanțe vaste. Acțiunile acestui grup au dus la o separare și o durere profundă, dar povestea nu s-a încheiat aici. Este o poveste despre decepție, regret și desfășurarea finală a unui plan divin. Poți descifra identitatea acestor indivizi ale căror alegeri au răsunat de-a lungul generațiilor?",
+  "clues": [
+    "Eram mistuiți de gelozie din cauza afecțiunii arătate unuia de-al nostru.",
+    "În invidia noastră, am conspirat împreună și l-am aruncat pe fratele nostru în întunericul unei fântâni.",
+    "Ca să ne ascundem fapta, i-am dat tatălui nostru o haină, pătată cu sânge fals.",
+    "Ani mai târziu, o foamete gravă ne-a obligat să călătorim în Egipt în căutare de provizii.",
+    "Acolo, am ajuns în fața unui guvernator puternic care, fără să știm, era chiar fratele căruia îi nedreptățisem.",
+    "Ultimul nostru test a fost să-l aducem pe fratele nostru cel mic, Binyamin, ceea ce a dus la revelația trecutului nostru și a faptului că tatăl nostru era profetul Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Fiii lui Adam (Qabil și Habil)",
+        "Discipolii profetului Isa",
+        "Frații profetului Yusuf",
+        "Oamenii din Madyan",
+        "Magicienii din Fir'awn"
+      ],
+      "answer": "Frații profetului Yusuf"
+    },
+    "trial": {
+      "label": "Care a fost principala noastră greșeală?",
+      "options": [
+        "Construirea unui vițel de aur pentru închinare",
+        "Cerând să-l vadă direct pe Allah",
+        "Batjocorind un profet pentru că a construit o arcă",
+        "Înșelându-ne tatăl și abandonându-ne fratele",
+        "Încălcarea Sabatului prin pescuit"
+      ],
+      "answer": "Înșelându-ne tatăl și abandonându-ne fratele"
+    },
+    "location": {
+      "label": "Ce obiect a fost esențial în înșelăciunea noastră?",
+      "options": [
+        "Un set de tablete inscripționate",
+        "O cămașă pătată cu sânge fals",
+        "Un vițel de aur",
+        "O pasăre frumoasă (pupăza)",
+        "Un toiag care s-a transformat într-un șarpe"
+      ],
+      "answer": "O cămașă pătată cu sânge fals"
+    },
+    "outcome": {
+      "label": "Care a fost rezultatul final al poveștii noastre?",
+      "options": [
+        "Am fost distruși de o inundație puternică",
+        "Am fost transformați în maimuțe",
+        "Am fost înghițiți de pământ",
+        "Am fost iertați și reuniți cu familia noastră",
+        "Ne-am înecat în mare"
+      ],
+      "answer": "Am fost iertați și reuniți cu familia noastră"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

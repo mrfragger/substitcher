@@ -1,0 +1,61 @@
+{
+  "title": "I costruttori di torri",
+  "intro": "In un tempo remoto, sorse una potente civiltà, contraddistinta da impressionanti imprese costruttive e da una forza formidabile. Questa entità collettiva, dotata di abbondanti risorse e di una straordinaria forza fisica, scelse tuttavia di ribellarsi al messaggio divino inviato per guidarla. La sua storia rappresenta una profonda lezione negli annali della storia, una testimonianza delle conseguenze del rifiuto della verità.",
+  "clues": [
+    "Ci è stata concessa una forza fisica e una statura immense, diverse da quelle di qualsiasi altro popolo del nostro tempo.",
+    "Eravamo noti per costruire grandi strutture e imponenti pilastri in ogni luogo elevato, convinti di vivere per sempre.",
+    "Un messaggero tra noi è stato inviato per ammonirci, invitandoci ad adorare solo Allah e ad abbandonare i nostri idoli.",
+    "Con arroganza abbiamo interrogato il nostro messaggero, chiedendogli se fosse venuto da noi solo per farci adorare Allah e abbandonare ciò che adoravano i nostri antenati.",
+    "La nostra terra era benedetta da giardini, sorgenti e campi fertili, ma attribuivamo la nostra prosperità alla nostra forza, non al nostro Creatore.",
+    "A causa della nostra persistente incredulità e del nostro scherno, fummo infine annientati da un vento terrificante e furioso che infuriò per molti giorni e molte notti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Popolo di Thamud",
+        "Popolo di Fir'aun",
+        "Popolo di Nuh",
+        "Popolo di Madyan",
+        "Persone di 'Ad"
+      ],
+      "answer": "Persone di 'Ad"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Essere chiamati a sacrificare un cammello specifico",
+        "Essere sfidati a produrre dieci sure come il Corano",
+        "Viene mostrata la divisione del mare",
+        "Essere avvertiti da un profeta dell'imminente diluvio",
+        "Rifiutare un profeta che metteva in guardia contro l'eccessiva costruzione e l'adorazione degli idoli"
+      ],
+      "answer": "Rifiutare un profeta che metteva in guardia contro l'eccessiva costruzione e l'adorazione degli idoli"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca",
+        "Lo staff",
+        "Il fuoco",
+        "La città di Sodoma",
+        "Alte colonne e solide dimore"
+      ],
+      "answer": "Alte colonne e solide dimore"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Annegato in una grande alluvione",
+        "Inghiottito dalla terra",
+        "Trasformati in scimmie e maiali",
+        "Distrutto da un'esplosione fragorosa",
+        "Annientato da un vento furioso e devastante"
+      ],
+      "answer": "Annientato da un vento furioso e devastante"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

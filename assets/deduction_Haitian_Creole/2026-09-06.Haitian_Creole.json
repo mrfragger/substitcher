@@ -1,0 +1,61 @@
+{
+  "title": "Moun ki te chase ti bèf an lò a",
+  "intro": "Yon pèsonaj yo mansyone nan Koran an te mennen yon gwo foul moun nan devye pandan absans yon pwofèt nòb. Yon bagay ki te fèt an lò te kaptive kè yon nasyon antye — men istwa moun sa a fini nan solitid ak yon malediksyon etranj. Ki moun ki te ka depòte sa a?",
+  "clues": [
+    "Mwen te parèt pandan absans yon gran pwofèt ki te monte pou resevwa gidans diven.",
+    "Mwen te lakòz yon gwo foul moun pèdi chemen yo ak yon bagay mwen te fè ak pwòp men m'.",
+    "Kreyasyon an lò mwen te pwodui a te sanble gen lavi, li te pwodui son ki te ipnotize moun ki te swiv li yo.",
+    "Mwen te pretann mwen te wè sa lòt moun pa t ka wè — yon ti aperçu nan sa ki envizib la.",
+    "Mwen rale yon bagay nan tras mesaje diven an epi mwen fè l tounen metal fonn.",
+    "Mwen te kondane pou m mache pou kont mwen, avèk yon madichon inik ki fè pèsonn pa t ka touche po mwen ni mwen pa t ka touche po yo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Samiri",
+        "Aman",
+        "Farawon (Fi'awn)",
+        "Abou Lahab",
+        "Pwofèt Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Li te kreye yon ti bèf an lò pou adore",
+        "Bati yon gwo kay won ki rive nan syèl la",
+        "Defye sòsye peyi Lejip yo",
+        "Dirije yon lame ak bèt k ap vole",
+        "Fann lalin nan kòm prèv pwofesi"
+      ],
+      "answer": "Li te kreye yon ti bèf an lò pou adore"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Ti bèf an lò a",
+        "Yon baton ki tounen yon sèpan",
+        "Yon ti touf bwa ​​k ap boule sou yon mòn",
+        "Yon lach ki repoze sou yon tèt mòn",
+        "Yon twou plen ak dife byen fò"
+      ],
+      "answer": "Ti bèf an lò a"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Ekzil, entèdi pou yo touche l oswa pou yo touche lòt moun",
+        "Nwaye nan lanmè a ansanm ak yon lame",
+        "Boule vivan paske yo te rejte lafwa",
+        "Frape atè pa yon van vyolan ak gwonde",
+        "Padone epi leve nan yon estasyon ki wo"
+      ],
+      "answer": "Ekzil, entèdi pou yo touche l oswa pou yo touche lòt moun"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

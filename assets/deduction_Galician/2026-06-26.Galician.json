@@ -1,0 +1,61 @@
+{
+  "title": "O peso dun agasallo rexeitado",
+  "intro": "Nos albores da historia da humanidade, cando a terra aínda era nova e o mundo contiña o seu primeiro alento, unha alma presentouse ante o Creador cunha humilde ofrenda. Esa ofrenda foi pesada na balanza da aceptación divina e achada insuficiente. O que seguiu non foi unha historia de perdón, senón dun corazón consumido polos celos, que levou a un acto irreversible que resoaría ao longo do tempo. Esta é a historia de alguén cuxo nome se converteu en sinónimo da primeira grave inxustiza xamais cometida.",
+  "clues": [
+    "Vin á existencia como un dos primeiros nenos do mundo, nacido dun pai cuxa historia coñeces ben.",
+    "Unha vez ofrecín un sacrificio a Alá, pero non foi aceptado de min, aínda que a ofrenda do meu irmán foi recibida con graza.",
+    "A envexa e a rabia arraigaron no meu corazón e ameacei con acabar coa vida da miña propia familia.",
+    "Meu irmán advertiume que temera a Alá, pero o meu orgullo non me deixou facerlle caso.",
+    "Nun momento de terrible debilidade, levei a cabo un acto indescritíbel contra o meu propio irmán.",
+    "Despois, nin sequera souben como ocultar o que fixera, ata que enviaron unha criatura da terra para ensinármolo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Qabil (Caín)",
+        "Habil (Abel)",
+        "O fillo do profeta Nuh",
+        "Profeta Ismael",
+        "Profeta Yusuf"
+      ],
+      "answer": "Qabil (Caín)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Ofrecendo un sacrificio que foi rexeitado, o que levou ao primeiro asasinato",
+        "Construíndo unha torre elevada para chegar aos ceos",
+        "Ser arroxado a un lume abrasador pola propia fe",
+        "Sacrificar o propio fillo en obediencia a Alá",
+        "Ser tragado por un gran peixe por fuxir do deber"
+      ],
+      "answer": "Ofrecendo un sacrificio que foi rexeitado, o que levou ao primeiro asasinato"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un corvo enviado por Alá para demostrar o enterro",
+        "Unha gran inundación que afogou a un pobo enteiro",
+        "Un bastón que se converteu nunha serpe viva",
+        "Unha cameloa que emerxeu dunha montaña de rocha",
+        "Un trono magnífico levado por ventos poderosos"
+      ],
+      "answer": "Un corvo enviado por Alá para demostrar o enterro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tornouse dos arrepentidos, agobiados polo primeiro crime xamais cometido",
+        "Foi perdoado por Alá e outorgado o Paraíso eterno",
+        "Foi elevado a unha alta posición de profecía e sabedoría",
+        "Foi salvado pola misericordia divina despois de chamar dende as profundidades da escuridade",
+        "Déronlle dominio sobre os xenios, o vento e os mares"
+      ],
+      "answer": "Tornouse dos arrepentidos, agobiados polo primeiro crime xamais cometido"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

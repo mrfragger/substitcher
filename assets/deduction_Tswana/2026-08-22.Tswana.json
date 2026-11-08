@@ -1,0 +1,61 @@
+{
+  "title": "Motse o o neng o dumela mo nakong",
+  "intro": "Mo dibukeng tsa ditiragalo tsa kutlwelobotlhoko ya bomodimo, go na le setšhaba se phetogo ya sone e neng e le motsotso wa go lemoga mmogo. O tloga o ribolola kgang ya bone—kgang ya tlhagiso, go ikwatlhaya le go emisiwa e e neng ya ba farologanya le phelelo ya merafe e mengwe.",
+  "clues": [
+    "Re ne re le batho ba go neng go rometswe morongwa kwa go bone, mme re ne ra fapoga pitso ya gagwe kwa tshimologong.",
+    "Fa matshwao a kotlhao e e neng e tla a bonala sentle, re ne ra lemoga boammaaruri jwa tlhagiso ya gagwe.",
+    "Re ne ra retologela kwa Moreneng wa rona ka boikwatlhao jwa boammaaruri, mme tumelo ya rona ya amogelwa.",
+    "Kotlhao e re neng re e laotswe e ne ya tlosiwa ka ntlha ya tumelo ya rona.",
+    "Kgang ya rona e umakiwa e le e e sa tlwaelegang mo metseng e e neng ya dumela morago ga go bona kotlhao.",
+    "Re ne re le batho ba moporofeta ya meditsweng ke leruarua, leha ho le jwalo re pholositswe tshenyehong."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Yunus",
+        "Batho ba Nuh",
+        "Batho ba Hud",
+        "Batho ba Salih",
+        "Batho ba Lute"
+      ],
+      "answer": "Batho ba Yunus"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Morwalela o o senyang",
+        "Sefefo se se maatla",
+        "Kotlhao e e neng e tla ya go tlhabiwa ke ditlhong e e neng ya thibelwa",
+        "Lefatshe le ba kometsa",
+        "Pula ya matlapa"
+      ],
+      "answer": "Kotlhao e e neng e tla ya go tlhabiwa ke ditlhong e e neng ya thibelwa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Kamela e namagadi",
+        "Motse wa batho ba le dikete di le lekgolo",
+        "Badiri ba Musa",
+        "Letlole la ga Qarun"
+      ],
+      "answer": "Motse wa batho ba le dikete di le lekgolo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ba ne ba senngwa gotlhelele",
+        "Ba ne ba newa monate ka nako nngwe",
+        "Ba ne ba fetolwa go nna ditshwene",
+        "Ba ne ba nwela",
+        "Ba ne ba mediwa ke lefatshe ."
+      ],
+      "answer": "Ba ne ba newa monate ka nako nngwe"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

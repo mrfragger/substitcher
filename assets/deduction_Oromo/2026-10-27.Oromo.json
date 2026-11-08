@@ -1,0 +1,61 @@
+{
+  "title": "Samii Tasa Jalatti Goolama",
+  "intro": "Meeshaan waraanaa hundi qophaa’ee fi injifannoon mirkanaa’e fakkaata, waraana sodaachisaa bakka qulqulluu kabajamaa tokkotti dhiyaatu fuuldura dhaabbattee jirta. Haleellaan sun osoo hin jalqabin humni hin eegamne tokko mataa gubbaatti mul’ata, dorgommiin kunis dabaree namni dursee hin argine fudhata.",
+  "clues": [
+    "Humni lafaa kamiyyuu raafamuu akka hin dandeenye ofitti amanamummaa qabannee hiriirre.",
+    "Elemoowwan jajjaboo fidne, humni keenyas naannoo isaaniitti kan ijaarame fakkaata ture.",
+    "Injifannoon keenya duruu mirkanaa’aa ta’uu isaa amanuudhaan bakka qulqulluu kabajamaa ta’e diiguuf dhufne turre.",
+    "Yeroo achi geenyu tuuti tokko samii nu gubbaa jiru keessaa ba’e.",
+    "Simbirroonni dhagaa suphee jabaate loltoota keenyatti darbatan.",
+    "Guutummaatti waan mo’amneef humni keenya inni guddaan akka asheetaatti caccabee faca’e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata Qeerroo",
+        "Abbootii Gadaa Lamaan",
+        "Obboleeyyan Yooseef",
+        "Gabricha Rabbii Dhul-Kifl keessatti",
+        "Sahaabonni Nama Qajeelaa"
+      ],
+      "answer": "Ummata Qeerroo"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Haleellaa sareen durfamu Kaaba irratti raawwatame",
+        "Galaanni garee geejjibsiifame duratti addaan ba'uu",
+        "Taabotni ummata gita bitaatiin qabamuu",
+        "Imala halkanii masjiidota lama gidduu jiru",
+        "Nama dhukkuba nadaayiitiin qabame humna waaqaatiin fayyisuu"
+      ],
+      "answer": "Haleellaa sareen durfamu Kaaba irratti raawwatame"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Simbirroonni peeleetii suphee baatanii deeman",
+        "Taabota gopherwood irraa hojjetame",
+        "Uleen tokko gara bofaatti jijjiirame",
+        "Dhagaa mallattoodhaan cufame",
+        "Bosona gubaa jiru"
+      ],
+      "answer": "Simbirroonni peeleetii suphee baatanii deeman"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Humni isaanii inni guddaan akka asheetaatti caccabee",
+        "Nagaan galaana ce'an",
+        "Ibidda ibiddaa bobaʼu keessa osoo hin miidhamiin deeman",
+        "Lamaan lama ta’anii Jannata seenan",
+        "Waggaa 309 holqa keessa rafan"
+      ],
+      "answer": "Humni isaanii inni guddaan akka asheetaatti caccabee"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

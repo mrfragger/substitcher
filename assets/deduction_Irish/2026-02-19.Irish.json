@@ -1,0 +1,61 @@
+{
+  "title": "Amaideacht na hUaillmhéine Móire",
+  "intro": "Cuir tús le turas chun céannacht eintitis chomhchoiteann a nochtadh a raibh deireadh gan choinne, cumhachtach lena bpleananna dána. Feidhmíonn an scéal seo mar mheabhrúchán domhain ar chumhacht dhiaga agus ar leochaileacht chumhacht an tsaoil nuair a chuireann sé i gcoinne an naofachta. Nochtaigh rúndiamhair an ghrúpa seo, a bhfuil a scéal greanta sa Chorán mar rabhadh do chách a fhéachann le sárú.",
+  "clues": [
+    "Bhí uaillmhian mhór againn, agus muid den tuairim nach raibh aon sárú ar ár gcumas, agus chuireamar romhainn ar aistear le cuspóir soiléir, millteach.",
+    "Bhí ár gceannaire, lán d’uabhar, ag iarraidh Teach naofa a raibh meas ag go leor air a thruailliú, agus é mar aidhm aige oilithreacht a atreorú chuig struchtúr a thógamar féin.",
+    "Ó thír i bhfad i gcéin, mháirseáil muid le fórsa ollmhór, muiníneach as ár gcumas an foirgneamh ársa sa Chathair Naofa a dhíchóimeáil.",
+    "Bhí ár n-arm cumhachtach, faoi cheannas créatúir iontacha, radharc nach bhfeictear go minic, más annamh a fheictear riamh, i bhfeachtas den sórt sin ag áitritheoirí na tíre ar ndearnamar ionradh orthu.",
+    "Nuair a shroicheamar ár gceann scríbe, tharla idirghabháil dhiaga; tháinig créatúir bheaga sciathánacha chun solais, ag caitheamh clocha cré bácáilte orainn.",
+    "Tháinig deireadh tubaisteach ar ár dturas ar fad, ag fágáil ár bhfórsa formidable scriosta go hiomlán, cosúil le tuí coganta, ár bplean mór laghdaithe go deannach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir Thamud",
+        "Muintir 'Ad",
+        "Muintir Shodom",
+        "Muintir an Eilifint",
+        "Muintir an Ghairdín"
+      ],
+      "answer": "Muintir an Eilifint"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An Tuilte Mór",
+        "An Feachtas i gcoinne an Kaaba",
+        "Scriosadh na nIdol",
+        "Scoilteadh na Farraige",
+        "Crith Talún Mhidiáin"
+      ],
+      "answer": "An Feachtas i gcoinne an Kaaba"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "An Kaaba",
+        "An Lao Órga",
+        "An Tine"
+      ],
+      "answer": "An Kaaba"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "slánú diaga",
+        "Tréimhse fhada rathúnais",
+        "Tiontú go hIoslam",
+        "Scriosadh iomlán",
+        "Deoraíocht óna dtír féin"
+      ],
+      "answer": "Scriosadh iomlán"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

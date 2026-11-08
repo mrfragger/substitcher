@@ -1,0 +1,61 @@
+{
+  "title": "Nykstantys klestėjimo sodai",
+  "intro": "Gausiais gėrybėmis palaimintoje žemėje klestėjo bendruomenė, gyvendama dieviškosios malonės ženklų apsuptyje. Jų klestėjimas buvo Viešpaties palankumo liudijimas, dovana, turėjusi įkvėpti dėkingumą ir paklusnumą. Tačiau nepaisant aiškių jų palaiminimų požymių, atėjo lūžio taškas, išbandęs jų dėkingumą už didžiulių turtų ir paguodos šaltinį.",
+  "clues": [
+    "Mums buvo palaiminta turėti du sodus, vieną dešinėje, o kitą kairėje, pilnus derliaus.",
+    "Mums buvo įsakyta valgyti iš mūsų Viešpaties aprūpinimo ir būti Jam dėkingiems už gerą žemę ir atleidžiantį Viešpatį.",
+    "Mes tapome arogantiški ir pasukome nuo dėkingumo kelio, girdamiesi savo turtais ir galia.",
+    "Mes pareikalavome, kad Viešpats padidintų atstumą tarp mūsų kelionių, paniekindami Jo suteiktą patogumą.",
+    "Mus perspėjo pasiuntinys, bet mes atmetėme žinią ir toliau elgėmės nerūpestingai.",
+    "Mūsų didžioji užtvanka, kuri palaikė mūsų klestėjimą, galiausiai buvo sugriauta ir sukėlė niokojantį potvynį."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tamudo žmonės",
+        "Midjano žmonės",
+        "Aado žmonės",
+        "Luto žmonės",
+        "Sabos žmonės"
+      ],
+      "answer": "Sabos žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Badas ir sausra",
+        "Galingos armijos invazija",
+        "Pražūtingas žemės drebėjimas",
+        "Griaunantis potvynis dėl sugriautos užtvankos",
+        "Tironiško valdovo priespauda"
+      ],
+      "answer": "Griaunantis potvynis dėl sugriautos užtvankos"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršelis",
+        "Stebuklinga kupranugarė",
+        "Puiki užtvanka",
+        "Didžiulis pastatas",
+        "Gilus šulinys"
+      ],
+      "answer": "Puiki užtvanka"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mes buvome paversti beždžionėmis ir kiaulėmis",
+        "Mes buvome išgelbėti ir persikėlėme į naują žemę",
+        "Mes buvome išsklaidyti, o mūsų žemė tapo nederlinga",
+        "Mes pakilome į dangų",
+        "Sukūrėme naują, klestinčią karalystę"
+      ],
+      "answer": "Mes buvome išsklaidyti, o mūsų žemė tapo nederlinga"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

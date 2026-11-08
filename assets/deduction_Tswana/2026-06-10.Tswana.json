@@ -1,0 +1,61 @@
+{
+  "title": "Batlhokomedi ba Tshingwana",
+  "intro": "Mo tshingwaneng e e tlhogang, morafe mongwe o ne wa dira maikano a a masisi. Mme boikemisetso jwa bone bo ne jwa lekwa fa thato ya bomodimo e ne e tsereganya, e fetola bontsi jwa bone go nna lefatshe le le senang sepe.",
+  "clues": [
+    "Re ne ra segofadiwa ka tshingwana e ntsi, mme re ne ra nna mabela.",
+    "Re ne ra dira leano la go roba re sa abelane le bahumanegi.",
+    "Re ne ra tsamaya go sa le phakela, re tlhomamisegile ka leano la rona.",
+    "Mme fa re goroga, re ne ra fitlhela tshingwana ya rona e sentswe ka bosigo bo le bongwe fela.",
+    "Re ne ra lemoga phoso ya rona mme ra simolola go pegana molato.",
+    "Kgabagare re ne ra ikwatlhaya, mme thuto e ne ya ithutiwa morago ga nako thata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batho ba Tshingwana",
+        "Batho ba Logaga",
+        "Batho ba Tlou",
+        "Batho ba Thamude",
+        "Batho ba 'Ad"
+      ],
+      "answer": "Batho ba Tshingwana"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Tshingwana e fetogile molora",
+        "Morwalela o o sentseng sengwe le sengwe",
+        "Leuba le le tlhasetseng lefatshe",
+        "Mophato wa dinonyane o tlhasela",
+        "Phefo e kgolo e e neng ya kumola ditlhare"
+      ],
+      "answer": "Tshingwana e fetogile molora"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Tshingwana",
+        "Logaga",
+        "Sekepe",
+        "Thaba",
+        "Ntlo ya segosi"
+      ],
+      "answer": "Tshingwana"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ba ne ba ikwatlhaya mme ba latlhegelwa ke tshingwana ya bone .",
+        "Ba ne ba senngwa gotlhelele",
+        "Ba ne ba fetolwa go nna ditshwene",
+        "Ba pholositswe ke tumelo .",
+        "Ba ne ba nna babusi"
+      ],
+      "answer": "Ba ne ba ikwatlhaya mme ba latlhegelwa ke tshingwana ya bone ."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

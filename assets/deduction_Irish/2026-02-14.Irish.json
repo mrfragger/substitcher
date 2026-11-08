@@ -1,0 +1,61 @@
+{
+  "title": "Tógálaí na mBacainní",
+  "intro": "Trasna tailte fairsinge, chuaigh duine cumhachtach ar shraith eachtraí, bronnadh údarás agus acmhainní ollmhóra air. Bhuail an t-anam seo le pobail éagsúla agus thug sé aghaidh ar dhúshláin uathúla, ag fágáil rian buan ar stair agus ar chreideamh trína ghníomhartha agus a eagna, agus ag an am céanna ag aithint fíorfhoinse a neart.",
+  "clues": [
+    "Bronnadh cumhacht agus acmhainní orm thar gach rud, agus lean mé bealach.",
+    "Thug mo thuras mé go dtí áit luí na gréine, áit a bhfuair mé pobal.",
+    "Bhuail mé le pobal nach raibh in ann cainte a thuiscint ar éigean, agus iad ina gcónaí idir dhá shliabh.",
+    "Iarradh orm bacainn a thógáil, ní ar mhaithe le gnóthachan pearsanta, ach chun cosaint a dhéanamh ar fhórsa millteach.",
+    "D’fhógair mé gurbh ó Allah a tháinig an neart chun an balla ollmhór seo a thógáil, agus go seasfadh sé go dtí am geallta.",
+    "Ciallaíonn m'ainm, a aistrítear go minic mar 'An Duine le Dhá Adharc,' mo raon feidhme ar fud an domhain nó b'fhéidir dhá ré ar leith."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "an Fáidh Músa",
+        "Fáidh Sulayman",
+        "Dhul-Qarnayn",
+        "Faraó",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag fáil nochtadh",
+        "Ag tabhairt aghaidh ar tíoránach",
+        "Ag tógáil long iontach",
+        "Bacainn chumhachtach á thógáil",
+        "A bheith á shlogadh ag iasc"
+      ],
+      "answer": "Bacainn chumhachtach á thógáil"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "An Bacainn Iarainn",
+        "Abhainn na Níle",
+        "An Ríchathaoir"
+      ],
+      "answer": "An Bacainn Iarainn"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Slánú ón tuile",
+        "Ag éirí ina ríocht mhór",
+        "Cosaint do dhaoine",
+        "Scriosadh an fhoréigin",
+        "Eagna bhuan"
+      ],
+      "answer": "Cosaint do dhaoine"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

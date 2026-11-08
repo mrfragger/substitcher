@@ -1,0 +1,61 @@
+{
+  "title": "Ropet från djupet",
+  "intro": "En tjänare till den Barmhärtige tröttnade på en envis nation och gav sig av innan tillstånd beviljades. Denna individ hamnade på en plats där ingen människa någonsin hade varit, där kallelsen till det Gudomliga ekar märkligt genom lager av mörker. Försvagad men förvandlad framträdde denna själ och blev en tidlös lektion i tålamod, uppriktig ånger och Skaparens gränslösa barmhärtighet. Kan du reda ut mysteriet?",
+  "clues": [
+    "Jag sändes som budbärare till mitt folk, men de överskred alla gränser i sin misstro och vägrade att lyssna.",
+    "Jag blev arg över deras avvisande och flydde från mitt folk innan Allahs befallning kom.",
+    "Jag gick ombord på ett skepp som var överbelastat, och vi drog lott om vem som skulle kastas överbord.",
+    "Jag kastades i det våldsamma havet och svaldes av en stor fisk.",
+    "Fångad i tre lager av mörker – magen, djupet och jorden nedanför – ropade jag till min Herre i uppriktig ånger.",
+    "Jag kom ut ur fisken och ut på den öppna stranden, svag och trött, och en kalebass växte över mig. Mitt folk, hundratusen eller fler, trodde slutligen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Yunus",
+        "Profeten Ayyub",
+        "Profeten Yusuf",
+        "Profeten Musa",
+        "Profeten Sulaiman"
+      ],
+      "answer": "Profeten Yunus"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Slukad av en stor fisk",
+        "Kastad i en flammande eld",
+        "Fångad på botten av en brunn",
+        "Överväldigad av en stor översvämning",
+        "Orättvist fängslad av en kung"
+      ],
+      "answer": "Slukad av en stor fisk"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Magen på en stor fisk",
+        "Den heliga dalen nära Kaba",
+        "En ark som vilar på ett berg",
+        "En stav som förvandlades till en orm",
+        "En tron ​​av oöverträffad storhet"
+      ],
+      "answer": "Magen på en stor fisk"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hans folk, hundratusen eller fler, trodde",
+        "Levande uppväckt till himlen",
+        "Blev härskare över ett oöverträffat kungarike",
+        "Förstört av ett genomträngande rop från himlen",
+        "Vältes av en förödande jordbävning"
+      ],
+      "answer": "Hans folk, hundratusen eller fler, trodde"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Say Kaiba ya Inmarawi",
+  "intro": "Naamtaan mo la so istorya na sakey a kamarerwa ya nambilay ed anino na inkapropeta balet ta pinili toy dalan ya mamaarap ed kadederal. Sayan pigura et nan-abung ed sakey ed saray pinilin mensahero nen Allah balet ta ag-akasumpal ed subok na pananisia. Siopa yan abalang ya kaiba?",
+  "clues": [
+    "Nanayam ak ed limog na totoon ag da labay so tawag ed inkatunong, tan ag ko ra sinmumpa.",
+    "Akasal ak ed sakey a propeta nen Allah, balet agko inabang so sisiaen ko.",
+    "Nen linmad abung ko iray imbaki ya walay pasakbay da, ag ko ra sinisia.",
+    "Ingganggan so asawak ya ontaynan ed syudad a kaiba iray mananisia, tan agak kaiba ra.",
+    "Linmeksab so dusa ed saray totook, tan siak so aderal a kaiba ra.",
+    "Siak so abitla ed Quran bilang sakey ya alimbawa na agpanisia, a kaiba so asawa nen Nuh, diad Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Asawa nen Propeta Nuh",
+        "Asawa nen Propeta Lut",
+        "Asawa nen Propeta Ibrahim",
+        "Asawa nen Propeta Musa",
+        "Asawa nen Propeta Ayyub"
+      ],
+      "answer": "Asawa nen Propeta Lut"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Tinaynan toy asawa to diad agto panisia",
+        "Ag-inawat so mensahe nen Propeta Hud",
+        "Nandayew ed saray talintao diad Kaaba",
+        "Nanplano sumpad misyon na asawa to",
+        "Agto inawat so inkapropeta na anak to"
+      ],
+      "answer": "Tinaynan toy asawa to diad agto panisia"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say syudad na Sodoma",
+        "Say syudad na Madyan",
+        "Say syudad na Iram",
+        "Say syudad na Babilonia",
+        "Say syudad na Jerusalem"
+      ],
+      "answer": "Say syudad na Sodoma"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Insalba toy asawa to",
+        "Naderal a kaiba iray ag mananisia",
+        "Nibantak ed arawin bansa",
+        "Nagbabawi tan aperdona",
+        "Nagmaliw a mananisia ed saginonor"
+      ],
+      "answer": "Naderal a kaiba iray ag mananisia"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

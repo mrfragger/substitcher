@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Manuhiri Tauhou o tētahi Tāone Taiepa",
+  "intro": "I tae atu tētahi rōpū ki ngā kūaha o tētahi tāone kāore anō kia mōhiotia e tōna iwi te pono. I kawea mai e rātou he karere, engari i tahuri ngā tāngata whenua ki te riri, ki te whakawehi i te tutu. Heoi, mai i tētahi wāhi kāore i whakaarohia, ka ara ake tētahi reo kotahi hei tiaki i ngā manene, ka whakatakoto i te atamira mō tētahi huringa nui o ngā kaupapa.",
+  "clues": [
+    "I tomo mātou ki tētahi tāone nui, ā, i miharo te iwi ki te kore whakapono.",
+    "I titiro mai rātou ki a mātou me te whakapae, ā, ka mea mai, 'He tangata noa iho koutou pērā i a mātou.'",
+    "I whakatūpato mātou i a rātou, engari i whakaarahia e rātou he kōhatu hei whakahē i a mātou.",
+    "I oma mai tetahi tangata i te pito rawa o te tāone ki te whakaū i tō mātou pono.",
+    "I kī atu ia ki tōna iwi, 'He aha ahau te kore ai e karakia ki te Kaihanga i ahau?'",
+    "Kotahi noa te pakūnga i mutu ai te whakakahore a te tāone, ā, kātahi ka noho te wāngu ki te wāhi i tawai ai rātou i mua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā Karere o Ya-Sin",
+        "Ngā Ākonga a Ihaia",
+        "Te Iwi o te Wairakau",
+        "Ngā Tohunga o Parao",
+        "Te Kaiwhakapono o Ya-Sin"
+      ],
+      "answer": "Ngā Karere o Ya-Sin"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakakorenga me te whakawehi o te kōhatu",
+        "Ka makaia ki roto i te ahi mura",
+        "He whakamātautau manawanui ki tētahi tamaiti ngaro",
+        "He māra i pakaru",
+        "He haerenga i roto i te moana"
+      ],
+      "answer": "Te whakakorenga me te whakawehi o te kōhatu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te pito rawa o te tāone",
+        "Te Moana Whero",
+        "Te awaawa ahi",
+        "Te ana piringa",
+        "Te whare herehere o Ihipa"
+      ],
+      "answer": "Te pito rawa o te tāone"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia te pa e te karanga kotahi",
+        "I wehea te moana, ā, i toremi te ope taua",
+        "I mātao te ahi, ā, i haumaru hoki",
+        "I pau te māra i te ahi o te rangi",
+        "I whakahokia te tangata e te tohorā ki uta"
+      ],
+      "answer": "I whakangaromia te pa e te karanga kotahi"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

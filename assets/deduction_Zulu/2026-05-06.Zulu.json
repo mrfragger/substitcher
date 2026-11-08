@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Elivela Esihlahleni Esivuthayo",
+  "intro": "Yembula ukuthi ungubani umuntu ojulile ohambo lwakhe lwaqala ngokuhlangana okuyisimangaliso futhi isiphetho sakhe sasihambisana nokukhululwa kwabantu abacindezelwe. Lo muntu wakhethwa umsebenzi omkhulu, ebhekene nezinselele ezinkulu ngokusekelwa nguNkulunkulu.",
+  "clues": [
+    "Ngazalelwa esikhathini sokucindezelwa okukhulu, lapho izinsana zabantu bakithi zazibulawa khona.",
+    "Impilo yami yokuqala yayihilela ukufakwa emfuleni ngumzali wami, kodwa ngatholakala futhi ngakhulela emndenini womcindezeli wabantu bakithi.",
+    "Ngake ngabaleka edolobheni ngemva kokubangela ukufa komuntu ngengozi ngesikhathi sengxabano.",
+    "Ngathola umyalezo waphezulu kanye nentonga eyisimangaliso endaweni engcwele, lapho ngayalwa khona ukuba ngibhekane nombusi onamandla.",
+    "Umfowethu wamiswa njengomsizi wami emsebenzini wami, ngenxa yokuthi nganginokuphazamiseka okukhulumayo.",
+    "Ngahola abantu bami ngaphesheya kolwandle oluhlukene, ngibalekela ukuxoshwa yibutho elinonya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uYusuf",
+        "Umprofethi u-Isa",
+        "Umprofethi uMusa",
+        "Umprofethi uNuh",
+        "Umprofethi u-Ibrahim"
+      ],
+      "answer": "Umprofethi uMusa"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Iminyaka ehlala njalo yesomiso",
+        "Ukwakha Umkhumbi",
+        "Ukubhekana noFaro nabathakathi bakhe",
+        "Ukuphonswa esithandweni somlilo",
+        "Ukubhujiswa kwabantu baseThamud"
+      ],
+      "answer": "Ukubhekana noFaro nabathakathi bakhe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "I-Kaaba",
+        "Udonga Lwensimbi",
+        "Abasebenzi",
+        "Umkhumbi kaNuh",
+        "Indandatho kaSulaiman"
+      ],
+      "answer": "Abasebenzi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Umuzi waseSodoma wagumbuqelwa",
+        "Abantu bagwinywa umhlaba",
+        "Isikhukhula esikhulu sagubha izwe",
+        "UFaro nebutho lakhe bacwila",
+        "Izindonga zomuzi zadilika ngenxa yokukhala"
+      ],
+      "answer": "UFaro nebutho lakhe bacwila"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

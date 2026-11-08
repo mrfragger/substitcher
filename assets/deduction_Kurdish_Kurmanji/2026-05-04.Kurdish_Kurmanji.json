@@ -1,0 +1,61 @@
+{
+  "title": "Mîmarê Serbilindiyê",
+  "intro": "Li welatekî kevnar ku ji aliyê hêzek serhildêr ve dihat birêvebirin, kesekî girîng xwedî meqameyekî bi bandor bû. Ev giyan di planên mezin ên serwer de roleke girîng lîst, beşdarî serweriya wan a zordar bû û peyama îlahî red kir. Mîrata wan bi lêgerîna hêza dinyayî û înkarkirina rastiyê ve girêdayî ye.",
+  "clues": [
+    "Min xizmet ji hukumdarekî tirsnak re kir ku bi nifşan gelek zilm li ser gel kir.",
+    "Navê min di Kitêba Pîroz de gelek caran li kêleka vî rêberê bihêz tê behs kirin.",
+    "Min bi projeyek avakirinê ya mezin, avahiyek bilind ku armanca wê gihîştina ezmanan bû, hat erkdarkirin.",
+    "Min şîret li efendiyê xwe kir ku kurên Îsraîl bikuje û keçên wan bihêle.",
+    "Ez di komplo û komployên li dijî pêxemberê Xwedê yê mezin de beşdar bûm.",
+    "Dawiya min, ligel efendiyê min û artêşa wî, di avên deryayeke mezin de hat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Nemrûd",
+        "Biraha",
+        "Golyat",
+        "Îblîs",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bi dewlemendiyeke mezin tê ceribandin",
+        "Rêberiya artêşekê li dijî xaniyek pîroz dike",
+        "Avakirina bircê ji bo gihîştina Xwedê",
+        "Ji ber baweriya xwe hatin avêtin nav agir",
+        "Ji aliyê xwişk û birayan ve avêtina bîrê"
+      ],
+      "answer": "Avakirina bircê ji bo gihîştina Xwedê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keşti",
+        "Karmend",
+        "Çiya",
+        "Birc",
+        "Balîna"
+      ],
+      "answer": "Birc"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "şehrezayiyeke mezin tê dayîn",
+        "Bibûna pêxember",
+        "Ji aliyê erdê ve tê daqurtandin",
+        "Dayîna padîşahiyekê",
+        "Di deryayê de dixeniqe"
+      ],
+      "answer": "Di deryayê de dixeniqe"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

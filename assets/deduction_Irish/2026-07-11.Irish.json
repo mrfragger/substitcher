@@ -1,0 +1,61 @@
+{
+  "title": "Taistealaithe na páirce glasa",
+  "intro": "I seanré, bhíodh beirt ag tabhairt aire do thalamh comharsanachta. Bhí a gcosáin fite fuaite lena chéile, ach threoraigh a gcroí iad i dtreo cinn scríbe an-difriúla. Shiúil duine acu an cosán díreach, agus chuaigh an duine eile ar seachrán isteach i ndorchadas an tséanta. An féidir leat rúndiamhair an bheirt choimeádaithe fómhair seo a réiteach?",
+  "clues": [
+    "Bhí barra flúirseacha agam, fómhair fhlúirseacha a chuir dalladh ar shúile na ndaoine a bhí ag breathnú orthu.",
+    "Bhí níos mó fós ag mo chomharsa ná mar a bhí agamsa, ach bhí níos mó suime agam ina sciar ná i mo sciar féin.",
+    "Mhol mé dúinn a gcuid barra a scriosadh go hiomlán, le gach rud a chomhdhlúthú faoi mo smacht.",
+    "Thug mé scrios ar mo fhómhar féin chomh maith, ag scrios gach rud i mo phleanáil amaideach.",
+    "Sheas mé gan chabhair agus mo bharra ag críonadh agus mo shaibhreas ag casadh ina deannach in aon oíche amháin.",
+    "Ní raibh aon sciar agam san saol eile, agus rinneadh poll tine lasrach de mo áit chónaithe dheireanach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An fear a shéan an aiséirí agus an breithiúnas",
+        "An rialóir a chuir an feirmeoir fíréanta faoi chois",
+        "An úinéir talún saibhir nárbh fhéidir buíochas a ghabháil leis",
+        "An feirmeoir a raibh dúil aige i dtalamh a chomharsan",
+        "An comhpháirtí fealltach a phleanáil scrios"
+      ],
+      "answer": "An feirmeoir a raibh dúil aige i dtalamh a chomharsan"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An tástáil chun nochtadh diaga a fháil",
+        "Dúshlán na saibhris agus na foighne",
+        "An cathú slí bheatha duine fíréanta a scriosadh",
+        "An t-ordú chun oidhreacht a roinnt go cothrom",
+        "An streachailt i gcoinne leatrom tíoránach"
+      ],
+      "answer": "An cathú slí bheatha duine fíréanta a scriosadh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gairdíní glasa na paradíse",
+        "Dhá réimse barraí comharsanacha",
+        "Na sléibhte a chonaic scrios",
+        "Tearmann naofa Mecca",
+        "Bruacha abhann tíre beannaithe"
+      ],
+      "answer": "Dhá réimse barraí comharsanacha"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Paradise síoraí mar luach saothair as fíréantacht",
+        "Scriosadh iomlán an dá fhómhar sa saol seo",
+        "Deoraíocht agus fánaíocht go dtí an bás",
+        "Rath sealadach agus tine shíoraí ina diaidh",
+        "Athchóiriú míorúilteach agus duais dhúbailte"
+      ],
+      "answer": "Scriosadh iomlán an dá fhómhar sa saol seo"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Derýanyň kenaryndaky \"The Guardian\"",
+  "intro": "Zalymyň permany köp öýlere gynanç getiren ýurtda bir jan ähli gorkulara garşy çykýan habary aldy. Ynam bilen doldurylan ýürek bilen olar milletiň ugruny üýtgetjek ynam hereketine başladylar. Suwlar gymmatly ýüki daşaýarka, umyt akymlar bilen garyşdy.",
+  "clues": [
+    "Men zulum we gorky döwründe ýaşadym.",
+    "Maňa batyrgaýlyk berýän ilahi ylham aldym.",
+    "Maňa gorkmazlyk we gynanmazlyk tabşyryldy.",
+    "Men çagamy sandyga salyp, suwuň üstüne goýdum.",
+    "Meniň çagamy hökümdaryň öýünde tapdylar, ýöne beýleki çagam onuň yzyndan geldi.",
+    "Allanyň wada berşi ýaly, men çagamy emdirmek üçin onuň bilen gaýtadan duşuşdym."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Musanyň ejesi",
+        "Fyrownyň aýaly",
+        "Musanyň gyz dogany",
+        "Isanyň ejesi",
+        "Şebanyň şa aýaly"
+      ],
+      "answer": "Musanyň ejesi"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Çagany derýa taşlamaga ylhamlanýar",
+        "Jadygöýlik dueline çagyrylmak",
+        "Goşun tarapyndan yzarlanýar",
+        "Bölünen deňzi geçmek",
+        "Mukaddes jaý gurmak"
+      ],
+      "answer": "Çagany derýa taşlamaga ylhamlanýar"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Derýada goýlan sandyk",
+        "Ýanýan gyrymsy agaç",
+        "Ýylana öwrülen taýajyk",
+        "Altyn göle",
+        "Tagt"
+      ],
+      "answer": "Derýada goýlan sandyk"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Çaga howpsuz ýagdaýda hemşire gaýtarylyp berildi",
+        "Çaga ebedi ýitirildi",
+        "Çaga uzak bir ýurda äkidildi",
+        "Çaga derrew hökümdar boldy",
+        "Çaga baý söwdagär tarapyndan ogullyga alyndy"
+      ],
+      "answer": "Çaga howpsuz ýagdaýda hemşire gaýtarylyp berildi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

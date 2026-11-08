@@ -1,0 +1,61 @@
+{
+  "title": "Die Krone, die den Himmel herausforderte",
+  "intro": "In den Korridoren antiker Königreiche wurde der Name eines Herrschers zum Inbegriff von Tyrannei und Arroganz. Als ein demütiger Diener Allahs mit unbestreitbaren Zeichen erschien, weigerte sich dieser mächtige Herrscher, sich der Wahrheit zu beugen. Heute ist es eure Aufgabe, diese legendäre Gestalt zu identifizieren, deren Herrschaft zerbrach und deren Schicksal in den Fluten besiegelt wurde.",
+  "clues": [
+    "Ich bin der gefürchtetste Herrscher, dessen Name noch immer als Warnung durch die Jahrhunderte hallt.",
+    "Ich befahl einem ganzen Volk, in Ketten zu arbeiten und Denkmäler zu errichten, die meinen Ruhm verkündeten.",
+    "Als ein Gesandter Allahs mit unbestreitbaren Zeichen vor mich trat, weigerte ich mich, mich zu verbeugen, und nannte es Zauberei.",
+    "Ich befahl die Tötung von Säuglingssöhnen unter einem gefangenen Volk, in der Hoffnung, ihren Geist zu brechen, bevor sie sich erheben konnten.",
+    "Ich trat vor meinen Hofstaat und erklärte: „Ich bin euer höchster Herr“, und forderte Anbetung als Gott.",
+    "Gemeinsam mit meinem Ministerpräsidenten errichtete ich ein gewaltiges Bauwerk, das bis in den Himmel reichen sollte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Pharao (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Pharao (Fir'awn)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Das Ertrinken im Roten Meer",
+        "Die Kamelstute, die an das Volk von Thamud geschickt wurde",
+        "Die große Sintflut von Nuh",
+        "Die Bestrafung der Gefährten des Schützengrabens",
+        "Die Vernichtung von Abrahas Heer durch Vögel"
+      ],
+      "answer": "Das Ertrinken im Roten Meer"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das hoch aufragende Bauwerk, errichtet mit Haman",
+        "Die Arche, die auf der Flut segelte",
+        "Das goldene Kalb, gefertigt von den Samiri",
+        "Der Thron von Bilqis, Königin von Saba",
+        "Die Höhle der schlafenden Jünglinge"
+      ],
+      "answer": "Das hoch aufragende Bauwerk, errichtet mit Haman"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Im Meer ertrunken; Leiche als Mahnmal konserviert",
+        "Verbannt und gezwungen, in der Wildnis umherzuirren",
+        "Zur Strafe in Affen verwandelt.",
+        "Von einem heftigen Erdbeben getroffen",
+        "Verbrannt von einem Steinhagel vom Himmel"
+      ],
+      "answer": "Im Meer ertrunken; Leiche als Mahnmal konserviert"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

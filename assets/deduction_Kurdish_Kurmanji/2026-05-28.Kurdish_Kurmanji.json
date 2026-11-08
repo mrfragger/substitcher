@@ -1,0 +1,61 @@
+{
+  "title": "Sebirê Bêdawî",
+  "intro": "Di salnameyên dîroka pêxemberan de, kêm kes bi baweriyeke bêdawî windahiyek ewqas kûr û êşên laşî tehemûl kirine. Çîroka vê kesayetiyê dersek bêdem e di sebir û baweriya bi şehrezayiya îlahî de. Ev giyan kî ye?",
+  "clues": [
+    "Ez ji aliyê Xwedê ve hatim hilbijartin ku peyamekê ragihînim, lê ceribandina min a herî mezin ne redkirinê, lê karesateke şexsî bû.",
+    "Serweta min, pez û zarokên min yek li dû yek ji min hatin standin.",
+    "Laşê min bi birînan dagirtî bû, û ez tenê mam ji bilî piştgiriya hevjînê/a xwe.",
+    "Min gazî Xudanê xwe kir, êşa xwe qebûl kir û dilovaniya wî xwest.",
+    "Ji min re hat gotin ku ez bi lingê xwe li erdê bidim, û kaniyek teze ji wir veheriya.",
+    "Xwedê tenduristiya min sererast kir û malbateke nû û ji berê jî dewlemendtir da min."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Eyûb",
+        "Pêxember Îbrahîm",
+        "Pêxember Mûsa",
+        "Pêxember Îsa",
+        "Pêxember Nûh"
+      ],
+      "answer": "Pêxember Eyûb"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Windakirina dewlemendî û malbatê",
+        "Tê avêtin nav agir",
+        "Ji aliyê masiyek ve tê daqurtandin",
+        "Ji malbatê veqetandin û firotin koletiyê",
+        "Bi golikê zêrîn tê ceribandin"
+      ],
+      "answer": "Windakirina dewlemendî û malbatê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kaniyeke avê",
+        "Dara ku veguherî mar",
+        "Keştiyek darîn",
+        "Gûlekî heliyayî",
+        "Dareke xurmê"
+      ],
+      "answer": "Kaniyeke avê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Vegerandina malbat û dewlemendiyê",
+        "Hilkişîna ber bi ezmanan",
+        "Bibûna padîşah",
+        "Rizgarkirin ji balînayekê",
+        "Wergirtina kurekî di temenê pîrbûnê de"
+      ],
+      "answer": "Vegerandina malbat û dewlemendiyê"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

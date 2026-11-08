@@ -1,0 +1,61 @@
+{
+  "title": "Yaslıların Nöbeti",
+  "intro": "En derin ayrılıkla sınanmış, gözleri gözyaşının dilini bilen ama kalbi asla umudunu kaybetmemiş bir ruhla karşılaşmak üzeresiniz. Aldatma, özlem ve nihayetinde yeniden bir araya gelme öyküsünde, Allah'ın bu asil kulu, tüm zamanlar için sabrın sembolü oldu. Yıllarca gizli acıya katlanıp, tek bir anda görme ve sevince kavuşan kimdi?",
+  "clues": [
+    "Ben, büyük kayıplar karşısında sabrın sembolü haline gelen bir peygamberim.",
+    "Birçok oğlum oldu, fakat birinin kıskançlığı yüzünden onlardan birini kaybettim.",
+    "Kaybettiğim o kişiye olan sevgim o kadar derindi ki, kederden gözlerim bembeyaz oldu; yine de Allah'tan başka kimseye şikayet etmedim.",
+    "Kaybettiğim oğlumu ve kardeşini aramaları için oğullarımı geri gönderdim ve onlara umutlarını kaybetmemeleri konusunda ısrar ettim.",
+    "İyi haberi getiren kişi geldiğinde, yüzüme bir gömlek örtüldü ve birdenbire dünya yeniden berraklaştı.",
+    "Ben İsrail olarak bilinirim ve on iki oğlumdan büyük bir ulusun on iki kabilesi türemiştir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yakup",
+        "Peygamber Yusuf (Joseph)",
+        "Peygamber İshak (İshak)",
+        "Peygamber İbrahim (Abraham)",
+        "Peygamber Eyüp (Job)"
+      ],
+      "answer": "Peygamber Yakup"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Sevgili oğlundan uzun yıllar ayrı kalmak",
+        "Alev alev yanan bir ateşe atılmak",
+        "Büyük bir balık tarafından yutuldu",
+        "Şiddetli bir cilt hastalığına yakalanmış",
+        "Yaşlılığa kadar çocuksuz olmak"
+      ],
+      "answer": "Sevgili oğlundan uzun yıllar ayrı kalmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yusuf'un gömleği",
+        "Musa'nın personeli",
+        "Nuh'un gemisi",
+        "Salih'in dişi devesi",
+        "Süleyman'ın yüzüğü"
+      ],
+      "answer": "Yusuf'un gömleği"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Görme yetisi geri geldi ve oğluyla yeniden bir araya geldi.",
+        "Zalim bir krala karşı zafer kazandı.",
+        "diri diri göklere yükseltildi",
+        "Mısır'ın yöneticisi olarak atandı.",
+        "Yaşlılığında mucizevi bir şekilde bir oğul sahibi oldu."
+      ],
+      "answer": "Görme yetisi geri geldi ve oğluyla yeniden bir araya geldi."
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

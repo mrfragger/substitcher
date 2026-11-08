@@ -1,0 +1,61 @@
+{
+  "title": "Potrpežljiva duša svete hiše",
+  "intro": "Na straneh Korana se iz rodu velikega preroka, ki je bil dan kot dar v starosti, pojavi lik. Ta duša je slavna zaradi neomajne resnicoljubnosti in pomembne vloge pri vzpostavitvi svetišča, ki bi postalo svetilnik vere. Medtem ko berete namige, pozorno prisluhnite glasu iz preteklosti, saj govori v prvi osebi.",
+  "clues": [
+    "V Koranu sem omenjen skupaj z drugim prerokom kot darilo, podarjeno ostarelemu poslancu.",
+    "Bil sem eden od dveh potomcev, ki sta bila podarjena temu preroku v njegovih poznejših letih.",
+    "V Koranu sem hvaljen, ker sem zvest svoji besedi.",
+    "Nosil sem čast prerokovanja in bil sem poslan kot poslanec.",
+    "Pridružil sem se očetu pri gradnji temeljev Svete hiše.",
+    "Spominjajo me kot enega potrpežljivih ljudi, sveta hiša, ki smo jo zgradili, pa je postala kraj vrnitve in varnosti za ljudi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Ismail",
+        "Prerok Ishak",
+        "Prerok Jakub",
+        "Prerok Zakarija",
+        "Prerok Jahja"
+      ],
+      "answer": "Prerok Ismail"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Dvigovanje temeljev Kaabe z Ibrahimom",
+        "Biti vržen v ogenj",
+        "Biti pogoltnjen s strani kita",
+        "Vodenje Izraelcev iz Egipta",
+        "Gradnja barke"
+      ],
+      "answer": "Dvigovanje temeljev Kaabe z Ibrahimom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kaba",
+        "Gora Sinaj",
+        "Rdeče morje",
+        "Zlato tele",
+        "Rajski vrt"
+      ],
+      "answer": "Kaba"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Šteje se med paciente",
+        "Šteti med prestopnike",
+        "Šteje se med čarovnike",
+        "Šteti med nevernike",
+        "Šteti med hinavce"
+      ],
+      "answer": "Šteje se med paciente"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

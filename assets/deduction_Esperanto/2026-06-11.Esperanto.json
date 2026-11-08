@@ -1,0 +1,61 @@
+{
+  "title": "La Vilaĝo sur la Marbordoj de Testo",
+  "intro": "Vi trovas vin en marborda vilaĝo, kie la sono de ondoj miksiĝas kun flustroj de forgesita popolo. Ili ricevis ordonon ripozi, sed ilia avideco kondukis al puno, pri kiu oni ankoraŭ parolas mallaŭte. Ĉu vi povas malkovri, kiuj ili estis?",
+  "clues": [
+    "Ni loĝis apud la marbordo kaj ricevis ordonon observi ripoztagon.",
+    "En tiu tago, fiŝoj venus al ni abunde, sed ni estis malpermesitaj preni ilin.",
+    "Kelkaj inter ni avertis kontraŭ malobeo, sed aliaj konspiris por fiŝkapti ĉiuokaze.",
+    "Ni malobeis la sanktan ordonon kaj alportis sur nin severan punon.",
+    "Nia puno estis transformo, kiu lasis nin malbeligitaj kaj malhonorigitaj.",
+    "Ni fariĝis simioj, signo por ĉiuj, kiuj venos poste."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Homoj de la Ŝabato",
+        "Homoj de Thamud",
+        "Homoj de 'Ad",
+        "Homoj de la Kaverno",
+        "Homoj de la Elefanto"
+      ],
+      "answer": "Homoj de la Ŝabato"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Fiŝkaptado dum la Ŝabato",
+        "Adorante oran bovidon",
+        "Neante la mesaĝon de Hud",
+        "Mortigante la kamelinon",
+        "Konstruante turon al la ĉielo"
+      ],
+      "answer": "Fiŝkaptado dum la Ŝabato"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La fiŝo",
+        "Kamelo",
+        "Kunlaborantaro",
+        "Boato",
+        "Ĝardeno"
+      ],
+      "answer": "La fiŝo"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Transformiĝis en homsimiojn",
+        "Detruita de inundo",
+        "Detruita de flamanta fajro",
+        "Englutita de la tero",
+        "Disĵetita de vento"
+      ],
+      "answer": "Transformiĝis en homsimiojn"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

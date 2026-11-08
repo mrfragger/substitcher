@@ -1,0 +1,61 @@
+{
+  "title": "Eegduu Abidda Hin Dhaamne",
+  "intro": "Fakkiin tokko dirqama uumamni biraa hin hawwine imaanaa itti kennamee, wanta hin mul’anne keessatti bakka baay’ee sodaatamu irra dhaabata. Lubbuuwwan rakkatan araara gaafachuuf yeroo iyyan, deebii cimaan golee ibiddaa keessaa ni dhaga’ama. Eenyummaa eegduu bara baraa kanaa saaxiluu dandeessaa?",
+  "clues": [
+    "Seensa iddoo adabbii sodaachisaa bakka hin mul'anne keessa nan dhaabadha.",
+    "Ibiddi boba’aa fi hin dhaamne dirqama koo isa guddaa keessatti wiirtuu dha.",
+    "Lubbuun rakkatte, gidiraa isaanii isa dhuma hin qabne irraa boqonnaa kadhachaa maqaa koo waamtu.",
+    "Yeroo kadhatan, akka hin baane nan labsa, yoomiyyuu.",
+    "Ani nama miti, jinnis miti — ani uumama uumame kan ajajamuu qulqulluudha.",
+    "Ani ergamaa angafa eegduu bara baraa ibidda Si’ool ta’ee muudameedha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Maalik",
+        "Jibreel",
+        "Mikaa'el",
+        "Harut",
+        "Marut jedhamuun beekama"
+      ],
+      "answer": "Maalik"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ummanni Jahannam gidiraan isaanii akka xumuramuuf kadhatu",
+        "Xurumbaa kan afuufamu Guyyaa Qiyaamaa argisiisuuf",
+        "Qur'aanni qalbii Rasuulaa irratti bu'a",
+        "Nabiyyiin tokko ummata isaaniitiin ibidda guddaa keessa darbatama",
+        "Dallaan jabaan saba manca’e of keessaa qabuuf ijaarama"
+      ],
+      "answer": "Ummanni Jahannam gidiraan isaanii akka xumuramuuf kadhatu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Ibidda Jahannam (Jahannam) .",
+        "Muka Lootee daangaa Jannataa irratti argamu",
+        "Xurumbaa bocame",
+        "Ulee gara bofaatti jijjiiramu",
+        "Teessoo waaqummaa ajaa'ibaa"
+      ],
+      "answer": "Ibidda Jahannam (Jahannam) ."
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Jiraattonni Jahannam bara baraan akka hafan itti himama",
+        "Jiraattonni Jahannam dhiifama godhamee gadi lakkifamu",
+        "Jiraattonni Jahannam carraan amantii lammataa ni kennamaaf",
+        "Jiraattonni Jahannam gara iddoo qabbanaa’aatti geeffama",
+        "Jiraattonni Jahannam guutumaan guututti bokkaadhaan ni balleeffamu"
+      ],
+      "answer": "Jiraattonni Jahannam bara baraan akka hafan itti himama"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

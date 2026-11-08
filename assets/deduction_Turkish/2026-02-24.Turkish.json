@@ -1,0 +1,61 @@
+{
+  "title": "Aldatmanın Yankısı",
+  "intro": "Akrabalık bağları, bir kıskançlık dalgasıyla sınandı. Gizli bir plan kuruldu ve bu plan, yıllar sürecek ve geniş mesafeleri aşacak bir olaylar zincirini başlattı. Bu grubun eylemleri derin bir ayrılığa ve üzüntüye yol açtı, ancak hikaye burada bitmedi. Bu, aldatma, pişmanlık ve nihayetinde ilahi bir planın ortaya çıkışının öyküsüdür. Seçimleri nesiller boyunca yankılanan bu kişilerin kimliğini çözebilir misiniz?",
+  "clues": [
+    "Kendi içimizden birine gösterilen sevgiye karşı duyduğumuz kıskançlık bizi tamamen ele geçirmişti.",
+    "Kıskançlığımızdan dolayı hep birlikte komplo kurduk ve kardeşimizi karanlık bir kuyuya attık.",
+    "Yaptığımız işi gizlemek için babamıza sahte kanla lekelenmiş bir giysi sunduk.",
+    "Yıllar sonra, şiddetli bir kıtlık bizi erzak temin etmek için Mısır'a gitmeye zorladı.",
+    "Orada, bilmediğimiz bir şekilde, haksızlık ettiğimiz kardeşimiz olan güçlü bir valinin huzuruna çıktık.",
+    "Son sınavımız, en küçük kardeşimiz Binyamin'i getirmekti; bu da geçmişimizin ve babamızın Peygamber Yakup olduğunun ortaya çıkmasına yol açtı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimiz?",
+      "options": [
+        "Âdem Oğulları (Kabil ve Habil)",
+        "Peygamber İsa'nın Öğrencileri",
+        "Yusuf Peygamberin Kardeşleri",
+        "Madyan Halkı",
+        "Fir'awn'ın Büyücüleri"
+      ],
+      "answer": "Yusuf Peygamberin Kardeşleri"
+    },
+    "trial": {
+      "label": "Başlıca hatamız neydi?",
+      "options": [
+        "Tapınma amacıyla altın bir buzağı inşa etmek",
+        "Allah'ı doğrudan görmek istemek",
+        "Bir peygamberin Nuh'un Gemisi'ni inşa etmesiyle alay etmek.",
+        "Babamızı aldattık ve kardeşimizi terk ettik.",
+        "Balık tutarak Şabat gününü bozmak"
+      ],
+      "answer": "Babamızı aldattık ve kardeşimizi terk ettik."
+    },
+    "location": {
+      "label": "Aldatmacamızın merkezinde hangi nesne vardı?",
+      "options": [
+        "Üzerine yazılar yazılmış bir dizi tablet",
+        "Sahte kanla lekelenmiş bir gömlek",
+        "altın buzağı",
+        "Güzel bir kuş (İbibik)",
+        "Yılana dönüşen bir asa"
+      ],
+      "answer": "Sahte kanla lekelenmiş bir gömlek"
+    },
+    "outcome": {
+      "label": "Hikayemizin nihai sonucu ne oldu?",
+      "options": [
+        "Muazzam bir sel felaketiyle yok olduk.",
+        "Maymunlara dönüştürüldük",
+        "Yerin içine gömüldük.",
+        "Affedildik ve ailemizle yeniden bir araya geldik.",
+        "Denizde boğulduk"
+      ],
+      "answer": "Affedildik ve ailemizle yeniden bir araya geldik."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

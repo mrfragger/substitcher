@@ -1,0 +1,60 @@
+{
+  "title": "Pārbaudījums zem viļņiem",
+  "intro": "Pravietis, savas misijas nomocīts, pieņēma lēmumu, kas viņu aizveda tālu prom no savas tautas un negaidītā pārbaudījumā. Viņa ceļojums ieguva dramatisku pavērsienu, visdziļākajā veidā pārbaudot viņa ticību un pacietību. Vai varat no sniegtajām norādēm izsecināt šī neparastā notikuma detaļas?",
+  "clues": [
+    "Pravietis tika sūtīts pie kādas tautas, bet steigšus aizgāja, jūtoties neapmierināts ar tās noraidījumu.",
+    "Viņa ceļojums viņu aizveda uz jūru, kur viņš uzkāpa uz smagi piekrauta kuģa, kas meklēja ceļu.",
+    "Izcēlās liela vētra, kas apdraudēja kuģi, un, lozējot, tika pieņemts lēmums izmest vienu cilvēku pār bortu, lai atvieglotu kravu.",
+    "Viņu aprija dzīļu radība, brīnumains notikums, ko noteica dievišķā griba.",
+    "Radības vēdera robežās viņš sauca savu Kungu, nožēlojot grēkus un slavinot Allāhu tumsā.",
+    "Pēc intensīvas lūgšanas viņš tika izmests neauglīgā krastā, vājš, bet dzīvs, un vēlāk atgriezās, lai atklātu, ka viņa ļaudis beidzot ir noticējuši."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Pravietis/Persona",
+      "options": [
+        "Pravietis Nuhs",
+        "Pravietis Lūts",
+        "Pravietis Musa",
+        "Pravietis Junuss",
+        "Pravietis Jusufs"
+      ],
+      "answer": "Pravietis Junuss"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Nū plūdi",
+        "Sodomas iznīcināšana",
+        "Ceļojums lielās zivs vēderā",
+        "Jūras sadalīšana",
+        "Degošā krūma atklāsme"
+      ],
+      "answer": "Ceļojums lielās zivs vēderā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Sinaja kalns",
+        "Musas personāls",
+        "Lielā zivs",
+        "Jusufa aka"
+      ],
+      "answer": "Lielā zivs"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Jauna derība ar cilvēci",
+        "Brīnumaina dzimšana viņa tautai",
+        "Viņa dzimtai nodibināta valstība",
+        "Atgriešanās pie savas tautas, kas toreiz ticēja",
+        "Uzvara pār tirānisku valdnieku"
+      ],
+      "answer": "Atgriešanās pie savas tautas, kas toreiz ticēja"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

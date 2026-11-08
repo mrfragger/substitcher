@@ -1,0 +1,61 @@
+{
+  "title": "Mekako Egiazkoak",
+  "intro": "Errebelazioaren lehen egunetan, egiaren mezuak oposizio gogorrari aurre egin behar izan zionean, arima batzuek tinko eutsi zioten beren usteari. Sinestun hauek fedearen argia itzaltzen saiatzen zirenen krudelkeria imajinaezina jasan zuten. Haien tortura larria zen, haien sufrimendua izugarria, baina haien mihiek ez zuten inoiz utzi Alaren batasuna aldarrikatzeari. Etsipenaren sakonean sartuta zeudenean ere, jainkozko babesak inguratu zituen, haien proba fedearen betiko testamentu bihurtuz. Azter dezagun arima bikain hauen bidaia.",
+  "clues": [
+    "Jainko Bakarrean dugun fedea uzteari uko egiteagatik zigor gogorrak jasan genituen",
+    "Gure herriak ezin zuen gure erabakia hautsi, haien krudelkeria zenbaterainoko sortzailea izan arren.",
+    "Egunez putzu batetik zintzilik geunden, baina jainkozko laguntza beti zegoen gertu",
+    "Gure irmotasunak gure erresistentzia ikusi zutenak ere harritu zituen",
+    "Mekan askok atzera egitera behartu nahi izan gintuzten, baina tinko jarraitu genuen.",
+    "Dena galduta zirudienean, gure askatasuna jainkozko esku-hartze miragarri baten bidez iritsi zen"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Profetaren aurkako borroka",
+        "Idoloak gurtzeari uko egiteagatik jazarpena",
+        "Sutearen inguruko fede proba",
+        "Gaueko bidaia zatituaren proba",
+        "Lorategiaren suntsipenaren proba"
+      ],
+      "answer": "Idoloak gurtzeari uko egiteagatik jazarpena"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Uhud mendia.",
+        "Kabah-ren barruti sakratua",
+        "Abu Sufyanen putzua",
+        "Quraysh-en jauregia",
+        "Medina hiria."
+      ],
+      "answer": "Abu Sufyanen putzua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gudu handi batean garaipena.",
+        "Jainkozko esku-hartzearen bidezko askapena",
+        "Martirioa Allahren bidean",
+        "Paradisuan zuzenean onartzea",
+        "Lur bedeinkatu batera migratzea"
+      ],
+      "answer": "Jainkozko esku-hartzearen bidezko askapena"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

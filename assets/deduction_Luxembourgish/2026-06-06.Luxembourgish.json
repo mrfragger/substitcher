@@ -1,0 +1,61 @@
+{
+  "title": "Den erhiewten Dénger vun Allah",
+  "intro": "Dir héiert Geflüster vun enger Figur aus der Antikitéit, engem Dénger vun Allah, deen op eng Plaz iwwer dem Alldeeglechen erhuewe gouf. Dës Persoun war bekannt fir hir onerschütterlech Gedold an absolut Wourecht, a gouf un e Vollek geschéckt, dat sech vun der Botschaft ewechgedréit huet. Wien ass dës erhuewen Séil?",
+  "clues": [
+    "Ech gouf vun Allah als Prophet erausgesicht a ginn am Hellege Koran ernimmt.",
+    "Ech war bekannt fir meng Gedold an Éierlechkeet, Qualitéiten, déi Allah lueft.",
+    "Ech hunn mäi Vollek opgeruff, den Eenzege Gott ze veréieren, awer vill hunn mech verworf.",
+    "Mäi Stand gouf vun Allah erhéicht, an ech krut en héije Rang.",
+    "Ech ginn dacks zesumme mat anere Prophéiten ernimmt, wéi dem Ismail an dem Dhul-Kifl.",
+    "Allah seet iwwer mech: \"An Mir hunn hien op eng héich Plaz erhuewen.\" (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Idris",
+        "De Prophet Elias",
+        "Prophet Dhu al-Kifl",
+        "De Prophet Al-Yasa",
+        "Prophet Hud"
+      ],
+      "answer": "Prophet Idris"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Leit opgeruff, Allah ze veréieren",
+        "D'Ark gebaut",
+        "Géint de Pharao gekämpft",
+        "Gouf mat schwéierer Krankheet getest",
+        "Gouf an d'Feier gehäit"
+      ],
+      "answer": "D'Leit opgeruff, Allah ze veréieren"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Héich Rang/héich Positioun",
+        "D'Ark",
+        "D'Personal",
+        "D'Feier",
+        "De Brunn"
+      ],
+      "answer": "Héich Rang/héich Positioun"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Op héije Status erhuewen",
+        "An der Iwwerschwemmung erdronk",
+        "Vun engem Wal verschléckt",
+        "Vum Feier gerett",
+        "Gouf e Kinnek"
+      ],
+      "answer": "Op héije Status erhuewen"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

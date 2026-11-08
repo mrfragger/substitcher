@@ -1,0 +1,61 @@
+{
+  "title": "Operený skaut",
+  "intro": "V kráľovstve, ktorému vládol niekto, komu bola udelená vláda nad vetrom, neviditeľnými bytosťami a nebeskými stvoreniami, jeden malý a rýchly člen zmizol z radov – len aby sa vrátil s odhaleniami, ktoré zmenili osud vzdialeného národa. Tento bystrý informátor vyniesol pravdu na svetlo tam, kde sa zakorenila nevedomosť. Kto som ja?",
+  "clues": [
+    "Slúžil som na dvore, kde ľudia, neviditeľné bytosti a nebeské stvorenia podliehali jedinému múdremu vládcovi, ktorý ovládal samotné vetry.",
+    "Istý čas som bol neprítomný vo svojom poste a vládcov hnev bol sľúbený, ak by som neposkytol uspokojivý dôvod.",
+    "Som malý lietajúci tvor, známy bystrým zrakom, a môj druh bol poctený priamym pomenovaním na stránkach zjavenia.",
+    "Keď som sa vrátil, priniesol som správu o vzdialenej krajine, kde sa ľudia klaňali slnku, slepí voči Tomu, ktorý stvoril nebesia a zem.",
+    "Našiel som ženu, ktorá vládla veľkému kráľovstvu, sedela na nádhernom tróne a nikdy predtým nepoznala pravdu.",
+    "Ja som ten, kto objavil ríšu Saba a priniesol pozývací list od kráľa-proroka, ktorému bola daná vláda nad vetrom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Dudok (Hudhud)",
+        "Mravec zo Sulajmánovho údolia",
+        "Asif ibn Barkhiya",
+        "Ifrit Džin",
+        "Anjel trónu"
+      ],
+      "answer": "Dudok (Hudhud)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Expedícia do kráľovstva Saba (Šeba)",
+        "Konfrontácia s faraónovými čarodejníkmi",
+        "Potopa proroka Nuha",
+        "Zničenie ľudu Ad",
+        "Rozdelenie Červeného mora"
+      ],
+      "answer": "Expedícia do kráľovstva Saba (Šeba)"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Krajina Saba (Šeba)",
+        "Hora Sinaj",
+        "Archa proroka Nuha",
+        "Jaskyňa Ashab al-Kahf",
+        "Faraónov palác"
+      ],
+      "answer": "Krajina Saba (Šeba)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Bilqis sa podriadil Sulajmánovmu dvoru",
+        "Faraón a jeho armáda sa utopili v mori",
+        "Ľudia z Adu boli zničení prudkým vetrom",
+        "Faraónovi čarodejníci verili v proroka Músu",
+        "Veľká potopa pohltila neveriacich"
+      ],
+      "answer": "Bilqis sa podriadil Sulajmánovmu dvoru"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

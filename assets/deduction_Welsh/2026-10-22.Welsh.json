@@ -1,0 +1,61 @@
+{
+  "title": "Cymuned y Trosedd Cyntaf",
+  "intro": "Yng ngwlad y dinasoedd hynafol, roedd pobl yn ffynnu ar un adeg. Cawsant ymweliad gan negesydd â galwad glir, ond eto fe wnaethant droi cefn a dilyn llwybr nad oedd neb erioed wedi cerdded arno. Mae eu stori yn un o herfeiddiad, llygredd, a chosb a adawodd eu mamwlad fel arwydd i bawb sy'n myfyrio. Pwy yw'r eneidiau hyn?",
+  "clues": [
+    "Roedden ni'n byw mewn dinasoedd ar y gwastadedd, lle galwodd ein proffwyd ni i gyfiawnder.",
+    "Ni oedd y cyntaf i gyflawni anwedduster nad oedd neb yn yr holl fyd erioed wedi'i wneud o'r blaen.",
+    "Fe wnaethon ni rwystro teithwyr a chyflawni drwg yn agored yn ein cynulliadau.",
+    "Gwrthodom y negesydd a anfonwyd atom a bygwth ei yrru allan o'n tir.",
+    "Rhuthron ni i'w dŷ gan fynnu iddo ildio ei westeion i ni.",
+    "Glaw o gerrig oedd ein cosb, a throwyd ein dinas wyneb i waered."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Pobl Lut",
+        "Pobl Nuh",
+        "Pobl 'Ad",
+        "Pobl Thamud",
+        "Pobl Madyan"
+      ],
+      "answer": "Pobl Lut"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Cyflawnodd y weithred gyntaf o sodomiaeth",
+        "Delwau addoledig",
+        "Twyllwyd mewn masnach",
+        "Lladdodd eu proffwyd",
+        "Anufuddhau i'w rhieni"
+      ],
+      "answer": "Cyflawnodd y weithred gyntaf o sodomiaeth"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Dinas y gwastadedd",
+        "Dinas y ffynnon",
+        "Dinas y ffos",
+        "Dinas yr eliffant",
+        "Dinas yr ardd"
+      ],
+      "answer": "Dinas y gwastadedd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi bwrw glaw o cherrig a'i ddymchwel",
+        "Boddi gan lifogydd",
+        "Wedi'i ddinistrio gan wynt treisgar",
+        "Wedi'i lyncu gan y ddaear",
+        "Wedi'i daro gan ffrwydrad uchel"
+      ],
+      "answer": "Wedi bwrw glaw o cherrig a'i ddymchwel"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

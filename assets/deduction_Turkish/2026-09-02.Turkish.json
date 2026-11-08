@@ -1,0 +1,61 @@
+{
+  "title": "Zamanın Ötesindeki Uyku",
+  "intro": "Gerçeğin susturulduğu ve inananların avlandığı bir zamanı hayal edin. Küçük bir grup teslim olmaktansa geri çekilmeyi seçti ve en beklenmedik yerlerden birinde sığınak buldu; bu yer, sayısız yüzyıl boyunca onların dinlenme yeri olacaktı. Sonunda uyandıklarında, dünya etraflarında değişmişti. Bu uyuyan ruhlar kimler?",
+  "clues": [
+    "Bizler, kadim bir şehirde yaşayan genç insanlardık.",
+    "Cemaatimiz bizden onlarla birlikte ibadet etmemizi istedi, ama biz reddettik.",
+    "İnançlarımıza karşı çıkanlardan kaçmak için şehirden sığınacak yer aradık.",
+    "Sadık dört ayaklı dostumuz saklandığımız yerin girişinde bekliyordu.",
+    "Allah bizi üç yüz dokuz yıl uyuttu.",
+    "Nihayet uyandığımızda, bir zamanlar bize zulmeden şehrimiz inancı kucaklamıştı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Ashab al-Kahf (Mağara Halkı)",
+        "Ashab al-Fil (Fil Ordusu)",
+        "Ashab al-Ukhdud (Hendek Arkadaşları)",
+        "Havariyyun (İsa'nın Müritleri)",
+        "Yajuj ve Majuj (Yecüc ve Mecüc)"
+      ],
+      "answer": "Ashab al-Kahf (Mağara Halkı)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bir mağaraya çekildik ve yüzyıllarca orada uyuduk.",
+        "Alev alev yanan bir yangından kurtarıldık.",
+        "Büyük bir balık tarafından yutulduk.",
+        "Mucizevi bir dişi deveyle sınandık.",
+        "Bize dokuz açık işaret verildi."
+      ],
+      "answer": "Bir mağaraya çekildik ve yüzyıllarca orada uyuduk."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Dağlardaki derin bir mağara",
+        "Açık denizde bir tekne",
+        "Gökyüzüne uzanan görkemli bir yapı",
+        "İki rakip arasında bölünmüş bir bahçe",
+        "Demir ve bakırdan bir bariyer"
+      ],
+      "answer": "Dağlardaki derin bir mağara"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Uyandığımızda şehrimizin inanca yöneldiğini gördük.",
+        "Alev alev yanan ateş soğudu ve huzur buldu.",
+        "Düşman ordusu denizde boğuldu.",
+        "Taş taşıyan kuşlar düşmanı yok etti.",
+        "Büyük bir balık bizi kıyıya bıraktı."
+      ],
+      "answer": "Uyandığımızda şehrimizin inanca yöneldiğini gördük."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

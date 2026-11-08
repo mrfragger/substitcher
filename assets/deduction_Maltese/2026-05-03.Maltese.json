@@ -1,0 +1,61 @@
+{
+  "title": "Dawk li Jfittxu l-Verità Reqdin",
+  "intro": "Immaġina żmien meta t-twemmin ġie sfidat, u grupp ta’ erwieħ għażlu konvinzjoni soda fuq il-kumdità tad-dinja. Iffaċċjati b’għażla skoraġġanti, fittxew kenn, u bdew vjaġġ li wassal għal rqad straordinarju. L-istorja tagħhom hija xhieda tal-protezzjoni divina u l-qawwa tal-fidi kontra l-oppressjoni. Tista’ tagħraf l-identità ta’ dawn l-individwi notevoli?",
+  "clues": [
+    "Konna assemblea żgħira, magħqudin minn twemmin profond fil-Ħallieq Uniku.",
+    "Għexna fi żmien meta ħakkiem setgħan kien jitlob qima ta’ ħaddieħor għajr Alla.",
+    "Biex nippreservaw il-fidi tagħna, iddeċidejna li nabbandunaw djarna u naħarbu mill-oppressjoni.",
+    "Sieħeb leali, kreatura tad-dinja, akkumpanjana fil-vjaġġ tagħna.",
+    "Sibna kenn f'post imwarrab, fejn Alla ġagħalna nidħlu f'rqad profond u twil.",
+    "Meta qomna, ħsibna li kien għadda biss ġurnata jew parti minn ġurnata, iżda kienu verament għaddew sekli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "In-Nies tal-Foss",
+        "Il-Poplu ta’ Thamud",
+        "Il-Poplu ta' Saba",
+        "In-Nies tal-Għar",
+        "Il-Poplu ta' Madyan"
+      ],
+      "answer": "In-Nies tal-Għar"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Li tkun ittestjat b'art sterili",
+        "Niffaċċjaw għargħar kbir",
+        "Fittex kenn minn ħakkiem tirann",
+        "Mitfugħ f’nar jaqbad",
+        "Sfida l-maġija ta' saħħar"
+      ],
+      "answer": "Fittex kenn minn ħakkiem tirann"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Palazz grandjuż",
+        "Vapur/arka",
+        "Bir fond",
+        "Għar",
+        "Muntanja għolja"
+      ],
+      "answer": "Għar"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Li tingħata saltna",
+        "Rqad mirakoluż għal sekli sħaħ",
+        "Nibla’ mill-art",
+        "Li tkun salvat minn maltempata distruttiva",
+        "Li tkun provdut b'mejda tas-sema"
+      ],
+      "answer": "Rqad mirakoluż għal sekli sħaħ"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

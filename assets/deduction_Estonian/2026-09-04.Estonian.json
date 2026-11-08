@@ -1,0 +1,61 @@
+{
+  "title": "Meloodia, mis liigutas mägesid",
+  "intro": "Sa oled avastamas lugu tähelepanuväärsest Allahi teenrist. Sõnumitoojate ja valitsejate maal oli see tegelane õnnistatud jumaliku raamatu, võimsa hääle ja raua üle oleva jõuga. Kas vihjeid lugedes suudad tuvastada, kes see võiks olla?",
+  "clues": [
+    "Olin Allahi teener, kellele oli antud eriline raamat.",
+    "Mul oli ilus hääl ja mu kiitus oli nii armastatud, et isegi mäed ja linnud ühinesid minuga.",
+    "Seisin end kuulsas lahingus silmitsi tugeva vastasega ja hoolimata sellest, et olin väiksem, võitsin ma.",
+    "Raud tehti minu jaoks painduvaks, võimaldades mul oma kätega soomusrüüd valmistada.",
+    "Mind pandi valitsejaks suure rahva üle ja mu otsustusvõime oli kuulus.",
+    "Mu pojale, kes oli samuti prohvet, anti võim tuule ja džinnide üle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Dawud (David)",
+        "Prohvet Sulaiman (Saalomon)",
+        "Prohvet Musa (Mooses)",
+        "Prohvet Harun (Aaron)",
+        "Prohvet Ilja (Elias)"
+      ],
+      "answer": "Prohvet Dawud (David)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Alistanud Koljati (Jalut)",
+        "Lõikas mere poole",
+        "Vaala üle elas",
+        "Visati tulle",
+        "Ehitas laeva"
+      ],
+      "answer": "Alistanud Koljati (Jalut)"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Zabur (Psalmid)",
+        "Toora (Tawrat)",
+        "Evangeelium (Injil)",
+        "Ibrahimi kirjarullid",
+        "Koraan"
+      ],
+      "answer": "Zabur (Psalmid)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai Iisraeli prohvetiks ja kuningaks",
+        "Sai Egiptuse valitsejaks",
+        "Taeva poole tõsteti",
+        "Torm hävitas selle",
+        "Sai koopa kaaslaseks"
+      ],
+      "answer": "Sai Iisraeli prohvetiks ja kuningaks"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

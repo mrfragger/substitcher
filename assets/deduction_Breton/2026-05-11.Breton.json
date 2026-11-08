@@ -1,0 +1,61 @@
+{
+  "title": "An Testoù Stad",
+  "intro": "Soñjit en ur mare ma oa bet amprouet ar gredenn gant an tan, ha ma oa deuet ar gredenn dic'hortoz da vezañ an enebiezh diwezhañ. Karget oc'h da zizoleiñ identelezh ur strollad a zo kontet e istor er C'horan, un danevell a feiz don a-enep an tiranniezh dreistordinal. Dizoloit an titouroù evit gouzout piv e oa an eneoù-se, hag an traoù dreistordinal a oa bet ganto.",
+  "clues": [
+    "Chom a reomp start en hor c'hredenn, daoust d'ar gwask bras a oa bet lakaet da zilezel hor feiz.",
+    "Taget e oamp gant ur rener galloudus hag a glaske lazhañ gouloù an undoueelezh.",
+    "Gwelet hon eus sinoù ha burzhudoù bras, koulskoude e chomas hon gwaskerien disoursi.",
+    "Gouzañvet hon eus un doare heskinañ spontus savet evit spontañ tud all evit ma vefent sujet.",
+    "Taolet omp bet en un ifern flamm, met hon nerzh-kalon en deus roet deomp ur renk uhel dirak Allah.",
+    "Kontet eo hon istor en ur Sourah anvet diwar anv steredegoù an oabl, o tiwall diwar-benn tonkad ar re a heskin ar feizidi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Pobl Thamud",
+        "Tud 'Ad",
+        "Tud ar Foz",
+        "Pobl Madian",
+        "Tud an Olifant"
+      ],
+      "answer": "Tud ar Foz"
+    },
+    "trial": {
+      "label": "Ar heskinerezh",
+      "options": [
+        "Bezañ beuzet en ul liñvadenn",
+        "Bezañ lonket gant un avel tev",
+        "Bezañ taolet en ur foz tan",
+        "Bezañ lonket gant an douar",
+        "Bezañ treuzfurmet e marmouzed"
+      ],
+      "answer": "Bezañ taolet en ur foz tan"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Un dour-beuz bras",
+        "Ur c'hren-douar bras",
+        "Ur foz don hag o teviñ",
+        "Un idol galloudus",
+        "Ur sec'hor spontus"
+      ],
+      "answer": "Ur foz don hag o teviñ"
+    },
+    "outcome": {
+      "label": "Hon tonkad diwezhañ",
+      "options": [
+        "Roet e voe dezho ur rouantelezh war an douar.",
+        "Saveteet e oant bet dre un tec'hadenn burzhudus.",
+        "Tizhout a rejont ar verzerenti hag ar gopr peurbadus.",
+        "Treuzfurmet e oant bet en ur spesad disheñvel.",
+        "Roet e voe dezho pinvidigezh ha pinvidigezh divent."
+      ],
+      "answer": "Tizhout a rejont ar verzerenti hag ar gopr peurbadus."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

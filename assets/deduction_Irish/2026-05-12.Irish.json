@@ -1,0 +1,61 @@
+{
+  "title": "An tÚdarás Neamh-Ghéilliúnach",
+  "intro": "Ar fud tailte ársa, bhí údarás cumhachtach i réim tráth, ag rialú acmhainní ollmhóra agus saolta líon mór daoine aonair. In ainneoin comharthaí agus rabhaidh shoiléire, roghnaigh an rialóir seo cosán dúshlánach, rud a d’fhág go raibh aghaidh dhomhain air a mbeadh macalla de le feiceáil air tríd an am.",
+  "clues": [
+    "D’éiligh mé an chumhacht agus an t-údarás deiridh thar réimse ollmhór.",
+    "Chuir mé dúshlán roimh theachtaire umhal a sheol Tiarna na ríocht uile.",
+    "Bhí cáil ar mo mhuintir as a máistreacht ar struchtúir mhóra agus ar an abhainn a chothaigh ár sibhialtacht.",
+    "Bhí mé ag faire ar go leor comharthaí míorúilteacha, ina measc bata ag casadh ina nathair agus lámh ag lonrú go geal.",
+    "Dhiúltaigh mé ligean do ghrúpa daoine sclábhaithe mo thír a fhágáil, in ainneoin orduithe diaga.",
+    "Threoraigh mo thóir ar na daoine a bhí ag imeacht mé féin agus mo chuid arm isteach i gcroílár farraige roinnte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Iósaf",
+        "Rí Talut",
+        "Fir'awn (Faraó)",
+        "Fáidh Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraó)"
+    },
+    "trial": {
+      "label": "Príomh-Aghaidh",
+      "options": [
+        "An tuile a shlog an talamh",
+        "Scoilteadh na farraige",
+        "An tor dóite",
+        "Tógáil an Kaaba",
+        "An scrios le gaoth mhór"
+      ],
+      "answer": "Scoilteadh na farraige"
+    },
+    "location": {
+      "label": "Gné Shainmhínithe",
+      "options": [
+        "Ainmhí ag caint",
+        "Foireann agus lámh lonrach",
+        "Breith mhíorúilteach",
+        "Cairpéad eitilte",
+        "Ríchathaoir mhórgánta ar uisce"
+      ],
+      "answer": "Foireann agus lámh lonrach"
+    },
+    "outcome": {
+      "label": "Cinniúint Deiridh",
+      "options": [
+        "Dhúisigh suas go dtí na flaithis",
+        "Slogtha ag an talamh",
+        "Báite sa bhfarraige",
+        "Claochlaithe ina apa",
+        "Bronnadh saibhreas agus cumhacht ollmhór air"
+      ],
+      "answer": "Báite sa bhfarraige"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

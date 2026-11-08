@@ -1,0 +1,61 @@
+{
+  "title": "Shifo keltirgan yuk",
+  "intro": "Cheksiz sinovdan o'tgan qalb tasalli, hamroh va jismoniy kuchdan mahrum bo'ldi. Chuqur azob-uqubatlarga chulg'ab qolgan bu Allohning bandasi faqat Ilohiyga yuzlandi. Sobitqadam sabr va chin dildan ibodat orqali barcha kutganlardan ham oshib ketgan rahm-shafqat oqimi keldi. Fidoyiligi tiklanish eshigini ochgan bu shaxs kim?",
+  "clues": [
+    "Men Allohning sevimli bandasi edim, o'z davrimda mo'l-ko'lchilikdan, farovon oiladan va sog'-salomatlikdan bahramand bo'ldim.",
+    "Keyin sinov boshlandi: boylik yo'qoldi, yaqinlarim ketdi va o'z tanam og'ir azob-uqubatlarga duchor bo'ldi.",
+    "Yaqinlarim mening ahvolimga chiday olmadilar va men yolg'iz qoldim, tanam azob-uqubatlarga to'lib ketdi.",
+    "Men Rabbimga iltijo qilib, shayton meni charchoq va azob bilan urgani haqida e'lon qildim.",
+    "Javob keldi — oyog'im bilan yerga urish buyrug'i, shundan keyin shifo uchun sovuq suv otilib chiqdi.",
+    "Parvardigorim qiyinchilikni butunlay ketkazdi va tafakkur qiluvchilar uchun rahmat belgisi sifatida menga oilamni ko'paytirib berdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ayyub",
+        "Muso payg'ambar",
+        "Yusuf payg'ambar",
+        "Yunus payg'ambar",
+        "Ibrohim payg'ambar"
+      ],
+      "answer": "Payg'ambar Ayyub"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Og'ir kasallik va barcha narsani yo'qotish",
+        "Zolimning buyrug'i bilan olovga tashlangan",
+        "Qarindoshlari tomonidan chuqur chuqurga qamalgan",
+        "Dengizda ulkan baliq yutib yubordi",
+        "Vatandan surgunda kezib yurish"
+      ],
+      "answer": "Og'ir kasallik va barcha narsani yo'qotish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yerdan otilib chiqqan salqin buloq",
+        "Salqin va tinch olov",
+        "Kema tog'da qotib qoldi",
+        "Dengizni ikkiga bo'lgan tayoq",
+        "Daryo ustida suzib yurgan savat"
+      ],
+      "answer": "Yerdan otilib chiqqan salqin buloq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Oila va barakalar tiklandi, ikki baravar ko'paydi",
+        "Yonayotgan olovdan sog'-salomat qochib qutuldi",
+        "Qirollikning eng yuqori lavozimiga ko'tarildi",
+        "Katta baliqning qornidan xavfsiz joyga chiqdi",
+        "Bir xalqni ikkiga bo'lingan dengiz orqali olib o'tdi"
+      ],
+      "answer": "Oila va barakalar tiklandi, ikki baravar ko'paydi"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

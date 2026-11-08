@@ -1,0 +1,61 @@
+{
+  "title": "El segn intra i sass",
+  "intro": "Ind una terra indove i montagn eren scolpids ind i cà, un messajer ‘l é ruvad cond un segn miracolos de Allah. El popul l’ha domandad la prœva, e l’ha ricevud una creatura de rocia massissa. Ma la sò arroganza l’ha purtà a sfidà l’avvertiment e a seglà el sò destin.",
+  "clues": [
+    "Sun stà mandà a un popul che viveva en di cà sculpì in di muntagn.",
+    "L’han sfidà a purtà un cartel, inscì g’ho tirà fœura un camel de una ròca.",
+    "G’ho cumandà de lassà bef el camel liber e de minga fàgh mal.",
+    "L’han minga obedì e g’han sgrifonà el camel, sfidand el me avvertiment.",
+    "Ho annunciad che la puniziun l’era drèe a rivà dopu tri dì.",
+    "La matina, una forte esplusiun g’ha distrutt, ma mi e i me seguitur sem stà salvà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Lut",
+        "Profeta Shu'ayb",
+        "El prufeta Ibrahim"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Dumanda de una camel de una ròca",
+        "Dumanda de un vitell d’or",
+        "Dumanda de un tavul spantegà del ciel",
+        "Dumanda de un’inondaziun",
+        "Dumanda de un bastun per diventar un serpent"
+      ],
+      "answer": "Dumanda de una camel de una ròca"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La camel e el sò vitell",
+        "L'Arca de Noè",
+        "El Baston de Mosé",
+        "El vitell d'or",
+        "El fœg de Ibrahim"
+      ],
+      "answer": "La camel e el sò vitell"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Distrutt de un’esplosiun fort",
+        "Anegato nel diluvio",
+        "Inglutì de la terra",
+        "Trasfurmà en scimi",
+        "Distrutt de un vent fort"
+      ],
+      "answer": "Distrutt de un’esplosiun fort"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

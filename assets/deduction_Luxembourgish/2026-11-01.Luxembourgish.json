@@ -1,0 +1,61 @@
+{
+  "title": "D'Stëmm, déi d'Verzweiflung refuséiert huet",
+  "intro": "Trëtt an en Haushalt, wou Verloscht op Verloscht follegt, awer eng roueg Stëmm d'Verzweiflung refuséiert. En eenzege Ruff am Koran mécht Gedold zu engem Wendepunkt; kënnt Dir d'Hiweiser op d'Persoun hannert där Stëmm verfollegen?",
+  "clues": [
+    "Ech war d'Stëmm vun der Gedold an engem Stot, wou Segen duerch Katastroph op d'Prouf gestallt goufen.",
+    "Ech sinn an engem Stot bliwwen, dat duerch de Verloscht vu Räichtum a Kanner eidel gouf.",
+    "Ech wousst, datt d'Krankheet och dee Begleeder getraff hat, deem säi Kierper geplot war.",
+    "Wéi d'Nout schwéier gouf, hunn ech mat enger Erënnerung un Allah geruff.",
+    "Ech hunn eng Erklärung gemaach: Allah ass d'Wourecht, also bleift gedëlleg.",
+    "Ech hunn den Ayyub beim Numm geruff; duerno huet Allah d'Leed ewechgeholl an d'Famill erëm hiergestallt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Fra vum Prophet Ayyub",
+        "D'Fra vum Prophet Nuh",
+        "D'Fra vum Prophet Ibrahim",
+        "D'Fra vum Prophet Ya'qub",
+        "D'Duechter vum Pharao"
+      ],
+      "answer": "D'Fra vum Prophet Ayyub"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Mat dem Ayyub duerch Verloscht a Krankheet bleiwen, dann no Gedold fuerderen",
+        "E gerechte Messenger warnt, eng korrupt Gemeinschaft opzeginn",
+        "Bieden fir d'Gebuert vun enger zukünfteger Linn",
+        "Dreem an engem kinnekleche Prisong interpretéieren",
+        "E vertraut Kand nieft engem Floss fannen"
+      ],
+      "answer": "Mat dem Ayyub duerch Verloscht a Krankheet bleiwen, dann no Gedold fuerderen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ausso, datt Allah d'Wourecht ass, a Gedold ass erfuerderlech",
+        "Eng Palme nieft enger Quell",
+        "En Opruff fir e Schëff wäit ewech vun de Wellen ze bauen",
+        "En Dram vun eelef Stären an enger opgängeger Sonn",
+        "E Kuerf, deen um Nil gedroe gëtt"
+      ],
+      "answer": "D'Ausso, datt Allah d'Wourecht ass, a Gedold ass erfuerderlech"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Dem Ayyub seng Krankheet gouf ewechgeholl a seng Famill gouf restauréiert",
+        "E laang erwaarde Kand gouf no engem onfruchtbare Gebied geschenkt",
+        "E jonke Herrscher huet siwe Joer vu Räichtum a Knappheet interpretéiert",
+        "E Kand, dat uvertraut gouf, gouf aus fléissendem Waasser gerett",
+        "Eng Warnung ass enger zerstéierender Iwwerschwemmung virausgaangen"
+      ],
+      "answer": "Dem Ayyub seng Krankheet gouf ewechgeholl a seng Famill gouf restauréiert"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

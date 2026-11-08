@@ -1,0 +1,61 @@
+{
+  "title": "Tanrısallık Talep Eden Hükümdar",
+  "intro": "Güçlü ve kibirli bir hükümdar, tahtının üstünde kimsenin olmadığına inanıyordu. Kaçan bir grubu geniş bir su kütlesi boyunca kovaladı ve dramatik bir sonla karşılaştı. Bu hükümdarın hikayesi, Kuran'ın birçok pasajında ​​yankılanarak herkese bir uyarı niteliği taşır.",
+  "clues": [
+    "Ben, yönettiğim topraklarda hiçbir otoritenin benden üstün olmadığına inanan güçlü bir hükümdardım.",
+    "Haman adında güvendiğim bir vezirim vardı ve o bana büyük mimari projelerimi gerçekleştirmemde yardımcı oldu.",
+    "Ülkemin en yetenekli sihirbazlarını, bana karşı çıkan bir elçinin işaretlerine meydan okumaları için çağırdım.",
+    "Salgınlara ve açık uyarılara rağmen, krallığım içindeki köleleştirilmiş bir halkın ayrılmasına izin vermeyi reddettim.",
+    "Tüm ordum ve savaş arabalarımla onları uçsuz bucaksız bir deniz boyunca takip ettim.",
+    "O deniz, benim ve birliklerimin üzerine kapandı ve hepimizi boğdu, oysa onlar güvenle karşıya geçtiler."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Firavun",
+        "Namrud",
+        "Ebu Lahab",
+        "Haman",
+        "Ebu Cehl"
+      ],
+      "answer": "Firavun"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Vebalar ve Musa ile karşılaşma",
+        "Büyük bir tufandan önce bir gemi inşa etmek",
+        "Vadide Jalut'a karşı savaş",
+        "Bir balina tarafından yutulmak",
+        "Dürüst ticaret ağırlıklarını savunmak"
+      ],
+      "answer": "Vebalar ve Musa ile karşılaşma"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Uzun kuleler ve kazıklar",
+        "Büyük bir ahşap gemi",
+        "altın buzağı",
+        "Yılana dönüşen bir asa",
+        "Dev bir balina"
+      ],
+      "answer": "Uzun kuleler ve kazıklar"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Ordu mensuplarıyla birlikte denizde boğuldu.",
+        "Allah'ın rahmeti ve sabrı sayesinde kurtarıldık ve ödüllendirildik.",
+        "Yıllarca süren zorlukların ardından ailesiyle yeniden bir araya geldi.",
+        "Toprak tarafından yutuldu",
+        "Yangında yandı"
+      ],
+      "answer": "Ordu mensuplarıyla birlikte denizde boğuldu."
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

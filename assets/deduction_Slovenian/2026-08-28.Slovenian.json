@@ -1,0 +1,61 @@
+{
+  "title": "Ovira v starodavni hiši",
+  "intro": "V svetem mestu je mogočna osebnost vrela od jeze, ko se je začelo širiti novo sporočilo. Ta posameznik, čigar ime je postalo sinonim za nasprotovanje resnici, je opazoval, kako se njihov vpliv ruši pod težo božanskega razodetja. Kdo je bila ta duša, katere usoda je bila zapečatena v pesku slavnega bojišča?",
+  "clues": [
+    "Bil sem poglavar med svojim ljudstvom, znan po svojem bogastvu in vplivu v mestu, kjer je bilo starodavno svetišče.",
+    "Ko je moški iz mojega plemena začel oznanjati sporočilo o enem Bogu, sem se njemu in njegovim razodetjem posmehoval, saj sem jih imenoval zgolj zgodbe iz preteklosti.",
+    "Soočil sem se s tem moškim, ko je molil blizu svetega objekta, in mu zagrozil, da bom po potrebi s silo ustavil njegovo čaščenje.",
+    "Bil sem med voditelji, ki so načrtovali utišanje nove vere in se njenim privržencem zoperstavljali tako z besedami kot z orožjem.",
+    "Z vojsko sem odkorakal proti kraju, imenovanemu Badr, prepričan, da bomo uničili majhno skupino vernikov.",
+    "Toda na tem bojišču se je moje življenje končalo in moja smrt je postala lekcija za tiste, ki vztrajajo v neverici po jasnih znamenjih."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Abu Džahl",
+        "Abu Sufjan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umaja ibn Kalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Džahl"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Preprečevanje preroka, da bi molil pri Kaabi",
+        "Gradnja Kaabe",
+        "Pisanje Korana",
+        "Vodenje vojske slonov",
+        "Razdelitev lune"
+      ],
+      "answer": "Preprečevanje preroka, da bi molil pri Kaabi"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kaba",
+        "Skrinja preroka Nuha",
+        "Palica preroka Muse",
+        "Zlato tele",
+        "Prestol kraljice iz Sabe"
+      ],
+      "answer": "Kaba"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Ubit v bitki pri Badru",
+        "Pokesal se je in postal musliman",
+        "Pobegnil v Abesinijo",
+        "Umrl v letu slona",
+        "Postal je prerokov spremljevalec"
+      ],
+      "answer": "Ubit v bitki pri Badru"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

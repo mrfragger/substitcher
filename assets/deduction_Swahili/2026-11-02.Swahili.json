@@ -1,0 +1,61 @@
+{
+  "title": "Mshirika Asiyeyuka Katika Jaribio la Dhahabu",
+  "intro": "Katika kivuli cha nabii mkuu, roho ya ufasaha na imani ilichaguliwa kusaidia katika misheni kubwa. Mtu huyu alisimama imara wakati umati ulipoyumba, akihubiri dhidi ya uvunjaji wa sheria uliokuwa unahatarisha kiini cha imani ya Mungu mmoja. Nabii aliporudi kushuhudia kupotea kwa watu, ulinzi wa mtu huyu haukuwa wa hatia bali wa wajibu na hofu ya mgawanyiko. Ni nani mtumishi huyu mwaminifu wa Mwenyezi Mungu?",
+  "clues": [
+    "Nilichaguliwa na Mwenyezi Mungu kwa ajili ya wajibu mtakatifu pamoja na mwingine, na jukumu langu lilikuwa la kuunga mkono na kutangaza.",
+    "Nilipewa usemi wazi, na niliandamana na mjumbe ili kukabiliana na mkandamizaji mwenye nguvu.",
+    "Wakati wa safari muhimu, mjumbe alipanda mlima peke yake, akiniacha niwaangalie watu.",
+    "Wakiwa hawapo, watu walitengeneza sanamu ya dhahabu, nami niliwasihi waendelee kuwa waaminifu, lakini walikataa ushauri wangu.",
+    "Mjumbe aliporudi, akiwa amejaa hasira na huzuni, nilikamatwa, lakini nilieleza kwamba nilikuwa nimeshindwa na niliogopa kusababisha mfarakano miongoni mwao.",
+    "Mimi ni nabii niliyesimama kando ya Musa, ndugu yangu, nikishiriki mzigo wake na kubaki imara dhidi ya ibada ya sanamu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Harun",
+        "Nabii Musa",
+        "Nabii Isa",
+        "Nabii Daudi",
+        "Nabii Zakaria"
+      ],
+      "answer": "Nabii Harun"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Watu waliabudu ndama wa dhahabu licha ya maonyo",
+        "Watu walinitupa kwenye moto mkali",
+        "Nilimezwa na samaki mkubwa",
+        "Nilifungwa kwa mashtaka ya uongo",
+        "Nilifukuzwa kutoka jiji langu kwa sababu ya kuhubiri"
+      ],
+      "answer": "Watu waliabudu ndama wa dhahabu licha ya maonyo"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa Dhahabu",
+        "Kichaka Kinachowaka Moto",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Vibao vya Agano",
+        "Sanduku la Agano"
+      ],
+      "answer": "Ndama wa Dhahabu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Niliondolewa hatia na kuendelea na kazi yangu ya unabii",
+        "Niliadhibiwa kwa dhambi ya watu",
+        "Nilipewa taifa jipya la kuongoza",
+        "Nilichukuliwa mbinguni nikiwa hai",
+        "Nilifanywa mtawala juu ya ufalme"
+      ],
+      "answer": "Niliondolewa hatia na kuendelea na kazi yangu ya unabii"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

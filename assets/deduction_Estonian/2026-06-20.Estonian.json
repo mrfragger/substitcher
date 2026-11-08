@@ -1,0 +1,61 @@
+{
+  "title": "Aiast väljatõugatu",
+  "intro": "Kunagi elas looduse kõrgeimates astmetes salapärane olend, jumalikule lähemal, kui paljud arvata oskasid. Ent uhkus juurdus ja üksainus vastuhakk muutis eksistentsi kulgu. Nüüd uitab see olend nagu vannutatud vaenlane, sosistades ja sepitsedes intriige, kuni saabub lubatud päev. Kas suudad selle langenud olendi isiku paljastada?",
+  "clues": [
+    "Kunagi olin ma üks neist, kes oli jumalikule kohalolekule kõige lähemal, kõrgemal suurest osast loodust.",
+    "Mind loodi kõrvetavast elemendist, mitte maast ega savist.",
+    "Kui mul kästi uue loodu ees kummardada, keeldusin ma – ajendatuna sellest, mida pidasin omaenda üleolekuks.",
+    "Mind heideti välja ja needti, aga lõpuks anti mulle armuaega kuni teadaoleva ja määratud ajani.",
+    "Ma vandusin eksitada nii paljusid kui võimalik, lähenedes Aadama järglastele igast suunast.",
+    "Ma olen kogu inimkonna avalik ja kuulutatud vaenlane, kes pidevalt plaane sepitseb ja sosistab kuni määratud lõpuni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Prohvet Ilja",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Prooviversioon / üritus",
+      "options": [
+        "Keeldumine Aadama ees kummardamast",
+        "Kuldvasika ehitamine rahva kummardamiseks",
+        "Õpetades Babüloni rahvale nõidust",
+        "Mere jagamine kepiga",
+        "Seeba kuninganna trooni hetkega kandmine"
+      ],
+      "answer": "Keeldumine Aadama ees kummardamast"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Eedeni aed",
+        "Turi mägi",
+        "Rassi kaev",
+        "Vaarao palee",
+        "Magajate koobas"
+      ],
+      "answer": "Eedeni aed"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Aeglustamine antud kuni kohtupäevani",
+        "Uppusid merre koos armeega",
+        "Maetud elusalt kokkuvariseva palee alla",
+        "Muutus ahviks või pärdiks",
+        "Tõstetud kõrgemale auastmele"
+      ],
+      "answer": "Aeglustamine antud kuni kohtupäevani"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

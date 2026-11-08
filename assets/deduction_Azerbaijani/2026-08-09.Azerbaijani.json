@@ -1,0 +1,61 @@
+{
+  "title": "Qədim Dövrlərin Həqiqi Səsi",
+  "intro": "Quranda bir neçə ayədə hekayəsi nəql edilən, lakin onun nəcib keyfiyyətləri parlaq aydınlıqla parlayan bir ruh var. Xüsusi bir fəzilətinə görə Uca Yaradan tərəfindən təriflənən bu qədim Rəhman bəndəsi vəhy səhifələrində yer tutur. Sizin vəzifəniz bu əlamətdar şəxsiyyəti müəyyən etməkdir. Onların kim olduğunu təxmin edə bilərsinizmi?",
+  "clues": [
+    "Mən bəşəriyyətin ilk nəsilləri arasında yaşamış Allahın bir peyğəmbəriyəm.",
+    "Allah məni Öz Kitabında digər peyğəmbərlərlə birlikdə qeyd etmişdir və hamısı eyni nəcib fəzilətə görə təriflənmişdir.",
+    "Mən Quranda doğruçu bir insan kimi təsvir olunuram.",
+    "Allah məni az adamın nail olduğu yüksək bir məqama yüksəltdi.",
+    "Mənim adım Ənbiya surəsində səbrlərinə görə təriflənən iki peyğəmbərlə birlikdə qeyd olunub.",
+    "Mən doğru danışan və uca peyğəmbər olan İdrisəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İdris peyğəmbər",
+        "Nuh peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Musa peyğəmbər",
+        "Peyğəmbər İsmayıl"
+      ],
+      "answer": "İdris peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Səbr və doğruçuluğu qoruyub saxladıqdan sonra yüksək bir məqama yüksəldi",
+        "Möminləri dağıdıcı daşqından xilas etmək üçün böyük bir gəmi tikmək",
+        "Alovlu bir oda atılmaq və tamamilə sağ-salamat çıxmaq",
+        "Qüdrətli bir padşahla qarşılaşmaq və onun sehrbaz ordusunu məğlub etmək",
+        "Dənizin dərinliklərində böyük bir balığın qarnında sağ qalmaq"
+      ],
+      "answer": "Səbr və doğruçuluğu qoruyub saxladıqdan sonra yüksək bir məqama yüksəldi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Allah tərəfindən yüksək və uca bir məqam",
+        "Taxtadan tikilmiş və qatranla doldurulmuş nəhəng bir gəmi",
+        "Pis bir padşahın bütpərəstləri tərəfindən alovlandırılan şiddətli bir atəş",
+        "Quru cığırlara bölünmüş geniş bir dəniz",
+        "Okeanın dibindəki böyük bir balinanın qaranlıq qarnı"
+      ],
+      "answer": "Allah tərəfindən yüksək və uca bir məqam"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "salehlərdən biri olaraq Allahın mərhəmətinə qovuşdurulur",
+        "Bütün möminlərlə birlikdə dünya miqyaslı daşqından xilas oldu",
+        "Alovdan toxunulmadan alovların arasından çıxdım",
+        "İsrail oğullarını dənizin o tayına sağ-salamat çıxardı",
+        "Uzun illər çətinlik çəkdikdən sonra sevimli ailələri ilə yenidən qovuşdular"
+      ],
+      "answer": "salehlərdən biri olaraq Allahın mərhəmətinə qovuşdurulur"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

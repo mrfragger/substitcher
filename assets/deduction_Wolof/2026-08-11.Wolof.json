@@ -1,0 +1,61 @@
+{
+  "title": "Pledge of Womb",
+  "intro": "Ci biir néeg yu noppi yi ci xol bu gëm Yàlla, dañu xalaat waat bu sell. Waat boobu dafa jëm ci dundu gu amul benn noyyig, te suñu ko amee dina soppi doxalinu xéewali ngëm ba fàww. Duggal ci kumpa gi ci ruuh gi digeem wéy ba fàww.",
+  "clues": [
+    "Maa ngi dëkkoon ci biir kër gu ñu ràññee ci ragal Yàlla, yàkkamtiwoon naa may gu ma gën a jegeel Yàlla.",
+    "Ma fas kóllóre gu mat sëkk ak sama Boroom ci li nëbbu ci sama xol, ma ni dinaa ko jox lépp ci liggéeyam.",
+    "Biñu demee ba ci jamonoy fësal mbir mi, lima jot xamuma woon, waaye ma dénk mbir mi ci Ki Xam lépp.",
+    "Ma jox sama doom tur wuy màndargaal njub, ba noppi ma ñaan Yàlla mu aar ko moom ak ay doomam ci ki alku.",
+    "Sama doom ñu ngi ko def ci barab bu sell bi, ci ndigalu yonent bu bawoo ci xeetu Aaron.",
+    "Sama doom ju jigéen siiw na ci sellaayam, ñu tànnee ko gëna mag ci jigéen ñi, ginaaw ga mu nekk yaayu yonent bu mag, waaye kenn laalu ko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Jabaru Imran",
+        "Yaayu Musa",
+        "Jabaru Firawna .",
+        "Jabaru Al-Aziz",
+        "Yaayu Isa"
+      ],
+      "answer": "Jabaru Imran"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Waat ngir jox doomam jimu nekk ci biiram jaamukaay bi",
+        "Natt muñ ci feebar bu yàgg",
+        "Tukki ci réew mu sori ngir ngëm",
+        "Xeex ak buur buy jaay doole",
+        "Lekk gu bawoo ci asamaan si ci anam wu yéeme"
+      ],
+      "answer": "Waat ngir jox doomam jimu nekk ci biiram jaamukaay bi"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Xale bu tuddu Maryam",
+        "Baton bi soppiku nekk jaan",
+        "Nagu wurus bi",
+        "Teenu Zamzam",
+        "Gaalu Nowe"
+      ],
+      "answer": "Xale bu tuddu Maryam"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Doomam Yàlla nangu ko, màgg ci ndigalu yonent",
+        "Doomam nekk na yonent, mu am mbind",
+        "Doomam dafa yéeg ba ci asamaan si",
+        "Doomam tabax na kër gu sell",
+        "Doomam am xam-xam ak alal ju bari"
+      ],
+      "answer": "Doomam Yàlla nangu ko, màgg ci ndigalu yonent"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

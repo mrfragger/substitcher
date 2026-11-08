@@ -1,0 +1,61 @@
+{
+  "title": "Kutsal Evin Sabırlı Ruhu",
+  "intro": "Kur'an sayfalarında, büyük bir peygamberin soyundan gelen, yaşlılığında bir armağan olarak bahşedilmiş bir figür ortaya çıkar. Bu ruh, sarsılmaz dürüstlüğü ve inancın bir feneri haline gelecek bir kutsal mekanın kurulmasındaki derin rolüyle kutlanır. İpuçlarını okurken, geçmişten gelen sese dikkatlice kulak verin, çünkü o birinci şahıs ağzından konuşuyor.",
+  "clues": [
+    "Kur'an'da başka bir peygamberle birlikte, yaşlı bir elçiye bahşedilen bir hediye olarak anılıyorum.",
+    "Peygamberin hayatının son yıllarında kendisine bahşedilen iki çocuğundan biri bendim.",
+    "Kur'an'da sözüme sadık kaldığım için övülüyorum.",
+    "Peygamberlik şerefini taşıdım ve elçi olarak gönderildim.",
+    "Babamla birlikte Kutsal Ev'in temellerini atmaya katıldım.",
+    "Ben sabırlı insanlardan biri olarak hatırlanıyorum ve inşa ettiğimiz kutsal ev, insanlar için bir dönüş ve güvenlik yeri haline geldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İsmail",
+        "Peygamber İshak",
+        "Peygamber Yakub",
+        "Peygamber Zekeriya",
+        "Peygamber Yahya"
+      ],
+      "answer": "Peygamber İsmail"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İbrahim ile birlikte Kâbe'nin temellerinin yükseltilmesi",
+        "ateşe atılmak",
+        "Bir balina tarafından yutulmak",
+        "İsrailoğullarını Mısır'dan çıkarmak",
+        "Bir gemi inşa etmek"
+      ],
+      "answer": "İbrahim ile birlikte Kâbe'nin temellerinin yükseltilmesi"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kabe",
+        "Sina Dağı",
+        "Kızıldeniz",
+        "Altın Buzağı",
+        "Cennet Bahçesi"
+      ],
+      "answer": "Kabe"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Hastalar arasında sayılanlar",
+        "Suçlular arasında sayılıyor",
+        "Sihirbazlar arasında sayılanlar",
+        "İnanmayanlar arasında sayılanlar",
+        "Münafıklar arasında sayılıyorlar"
+      ],
+      "answer": "Hastalar arasında sayılanlar"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

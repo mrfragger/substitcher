@@ -1,0 +1,61 @@
+{
+  "title": "Cộng đồng của sự vi phạm đầu tiên",
+  "intro": "Trên vùng đất của những thành phố cổ đại, từng có một dân tộc hưng thịnh. Họ được một sứ giả đến thăm với lời kêu gọi rõ ràng, nhưng họ đã quay lưng và theo đuổi con đường chưa ai từng đặt chân đến. Câu chuyện của họ là một câu chuyện về sự bất tuân, sự suy đồi và một hình phạt đã để lại cho quê hương họ một lời cảnh tỉnh cho tất cả những ai suy ngẫm. Những linh hồn này là ai?",
+  "clues": [
+    "Chúng tôi sống ở những thành phố vùng đồng bằng, nơi vị tiên tri của chúng tôi kêu gọi chúng tôi sống ngay thẳng.",
+    "Chúng ta là những người đầu tiên phạm phải một hành vi bất chính mà chưa ai trên toàn thế giới từng làm trước đây.",
+    "Chúng tôi đã phục kích những người lữ hành và công khai phạm tội ác trong các cuộc tụ họp của mình.",
+    "Chúng tôi đã từ chối người đưa tin được phái đến và đe dọa sẽ đuổi anh ta ra khỏi đất nước chúng tôi.",
+    "Chúng tôi vội vã đến nhà anh ta, yêu cầu anh ta giao nộp những vị khách của mình cho chúng tôi.",
+    "Hình phạt dành cho chúng tôi là một trận mưa đá, và thành phố của chúng tôi bị đảo lộn hoàn toàn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chúng tôi là ai?",
+      "options": [
+        "Người dân Lut",
+        "Người dân Nuh",
+        "Người dân của 'Ad",
+        "Người dân Thamud",
+        "Người dân Madyan"
+      ],
+      "answer": "Người dân Lut"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Đã phạm tội giao cấu đồng tính lần đầu tiên.",
+        "Thờ cúng thần tượng",
+        "Bị lừa đảo trong giao dịch",
+        "Họ đã giết nhà tiên tri của mình.",
+        "Không vâng lời cha mẹ"
+      ],
+      "answer": "Đã phạm tội giao cấu đồng tính lần đầu tiên."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thành phố trên đồng bằng",
+        "Thành phố của giếng",
+        "Thành phố của con mương",
+        "Thành phố của con voi",
+        "Thành phố của khu vườn"
+      ],
+      "answer": "Thành phố trên đồng bằng"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Mưa đá trút xuống và lật đổ mọi thứ.",
+        "Chết đuối trong trận lũ lụt",
+        "Bị phá hủy bởi một cơn gió mạnh.",
+        "Bị đất nuốt chửng",
+        "Bị đánh trúng bởi một tiếng nổ lớn"
+      ],
+      "answer": "Mưa đá trút xuống và lật đổ mọi thứ."
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

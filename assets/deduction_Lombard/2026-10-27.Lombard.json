@@ -1,0 +1,61 @@
+{
+  "title": "Un assedi sotta un ciel impruvis",
+  "intro": "Te steet devant de un esercit formidabil che se avvicina a un santuari venerà, cun tüt i armi pront e la vitoria che par certa. Prima che l’assalt pœu cumencià, un podè minga specià cumpariss e la gara la ciapa una svolta che nissun g’haveva previst.",
+  "clues": [
+    "Marciavom cun la sicurezza che nissun podè terrester pudeva tremar.",
+    "G’hem purtà elefant putent e la noster forza pareva costruida intorn a luur.",
+    "G’herem rivà a butà giò un santuari venerà, credend che la noster vitoria l’era giamò sicüra.",
+    "Quand che sem rivà, un gregg g’ha scovà el ciel sora de nun.",
+    "I œsèi g’han slanzà di sass de argila indura süi noster guerrier.",
+    "Sun stà battü inscì cumpletament che la noster forza putent la s’è sgruciada e la s’è sparpagnada cuma la cendra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El popul del elefant",
+        "I dü princip",
+        "I fradei de Giuseppe",
+        "El servitur de Allah a Zul-Kifl",
+        "I compagn del giüst"
+      ],
+      "answer": "El popul del elefant"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "L’assalt guidà di elefant sü la Kaaba",
+        "La separaziun del mar davaant a un grupp cunsegnà",
+        "La conquista de l'Arca da part de un popol tirannic",
+        "El viàgg de nott intra dü moschee",
+        "La guarigiun de un leproso per podè divin"
+      ],
+      "answer": "L’assalt guidà di elefant sü la Kaaba"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Ucei che purtan pellet de argila",
+        "Un'arca de legn de gofer",
+        "Un bastun trasfurmà en serpent",
+        "Una pedra sigillata cunt un cartel",
+        "Un busc in früsa"
+      ],
+      "answer": "Ucei che purtan pellet de argila"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "La luur forza putent s’è sgrumpà cuma la cendra",
+        "Traversà el mar en mod sicür",
+        "L’eran camminà senza danè travers de un forn in föch",
+        "Entraven in del Paradis en coppi",
+        "Dormiven in d’una caverna per 309 an"
+      ],
+      "answer": "La luur forza putent s’è sgrumpà cuma la cendra"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

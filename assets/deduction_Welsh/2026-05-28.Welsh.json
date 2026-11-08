@@ -1,0 +1,61 @@
+{
+  "title": "Yr Un Claf Diysgog",
+  "intro": "Yng nghofnodion hanes proffwydol, ychydig sydd wedi dioddef colled mor ddwfn a gofid corfforol â ffydd ddiysgog. Mae stori'r ffigur hwn yn wers dragwyddol mewn amynedd ac ymddiriedaeth mewn doethineb dwyfol. Pwy yw'r enaid hwn?",
+  "clues": [
+    "Cefais fy newis gan Allah i gyfleu neges, ond nid trwy wrthod y daeth fy mhrawf mwyaf, ond trwy drychineb personol.",
+    "Cymerwyd fy nghyfoeth, fy anifeiliaid, a'm plant oddi wrthyf, un ar ôl y llall.",
+    "Roedd fy nghorff wedi'i orchuddio â briwiau, a chefais fy ngadael ar fy mhen fy hun ac eithrio cefnogaeth fy mhriod.",
+    "Gwaeddais ar fy Arglwydd, gan gydnabod fy nioddefaint a cheisio Ei drugaredd.",
+    "Cefais gyfarwyddiadau i daro'r ddaear â'm troed, a llifodd ffynnon adfywiol allan.",
+    "Adferodd Allah fy iechyd a rhoi teulu newydd i mi a hyd yn oed mwy o gyfoeth nag oedd gen i o'r blaen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Ayyub",
+        "Proffwyd Ibrahim",
+        "Proffwyd Musa",
+        "Proffwyd Isa",
+        "Proffwyd Nuh"
+      ],
+      "answer": "Proffwyd Ayyub"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Colli cyfoeth a theulu",
+        "Cael eich taflu i dân",
+        "Cael eich llyncu gan bysgodyn",
+        "Cael eich gwahanu oddi wrth eich teulu a'ch gwerthu i gaethwasiaeth",
+        "Cael eich profi gyda llo aur"
+      ],
+      "answer": "Colli cyfoeth a theulu"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Ffynnon o ddŵr",
+        "Staff a drodd yn sarff",
+        "Arch bren",
+        "Llo tawdd",
+        "Palmwydden"
+      ],
+      "answer": "Ffynnon o ddŵr"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Adfer teulu a chyfoeth",
+        "Esgyniad i'r nefoedd",
+        "Dod yn frenin",
+        "Cael eich achub rhag morfil",
+        "Derbyn mab yn ei henaint"
+      ],
+      "answer": "Adfer teulu a chyfoeth"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

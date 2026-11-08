@@ -1,0 +1,61 @@
+{
+  "title": "El creient velat a la cort del tirà",
+  "intro": "Dins dels salons daurats del governant més arrogant conegut per l'Alcorà —on el desafiament a la Divinitat definia cada edicte—, una ànima caminava entre els privilegiats, amagant els secrets més perillosos a plena vista. Aquest individu portava una fe tan prohibida dins d'aquelles parets que el seu descobriment significaria una mort segura. Tanmateix, la convicció cremava com una flama sota les cendres, i quan va arribar el moment, la veritat va ressonar amb un coratge que va sacsejar els fonaments mateixos del palau del tirà.",
+  "clues": [
+    "Vaig viure entre el cercle íntim del governant més poderós i arrogant del meu temps, envoltat de luxe i influència.",
+    "Vaig amagar la meva veritable creença en el fons del meu cor, tement per la meva vida d'aquells que governaven amb crueltat i opressió.",
+    "Quan el meu poble va dubtar i vacil·lar davant la veritat, vaig fer un pas endavant per advertir-los del tràgic destí que havia patit les nacions passades que van rebutjar els missatgers del seu Senyor.",
+    "Vaig recordar al meu poble la història d'un jove somiador estimat que va ser abatut pels seus propis parents però que va assolir una gran autoritat en una terra llunyana.",
+    "Vaig instar el meu poble a no obeir el governant que els havia desviat, i en canvi els vaig convidar a seguir-me pel camí de la justícia i la guia.",
+    "Vaig dir la veritat obertament tot i que els seguidors del tirà van amenaçar de lapidar-me o expulsar-me del país."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "El creient ocult de la família del faraó",
+        "Un patriarca pacient que va plorar cec fins que el seu fill va tornar",
+        "Un servent fidel la malaltia de la pell del qual finalment es va curar",
+        "Un fill pecador que va rebutjar la invitació d'un profeta a pujar a l'arca",
+        "Un tirà despietat que es va autoproclamar divinitat"
+      ],
+      "answer": "El creient ocult de la família del faraó"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Amagant la fe a la cort d'un tirà",
+        "Patint ceguesa per anys de plors",
+        "Sent posat a prova per la pèrdua de la família i una greu aflicció",
+        "Construint un gran vaixell mentre et ridiculitzen",
+        "Suportant la calor abrasadora d'un gran incendi"
+      ],
+      "answer": "Amagant la fe a la cort d'un tirà"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Palau del faraó",
+        "Un cim de muntanya on es va construir una arca",
+        "Una vall sagrada sota el mont Sinaí",
+        "Un jardí magnífic amb dos rierols que flueixen",
+        "Un tron ​​de cristall sobre un riu subterrani"
+      ],
+      "answer": "Palau del faraó"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Protecció divina mentre els opressors van patir la seva destrucció",
+        "Es va reunir amb la família després de dècades de separació",
+        "Se li va concedir paciència, va recuperar la salut i una família més gran",
+        "Es va salvar en un vaixell mentre la resta del món s'ofegava",
+        "Va ser rescatat il·lès de les flames per ordre d'Al·là"
+      ],
+      "answer": "Protecció divina mentre els opressors van patir la seva destrucció"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

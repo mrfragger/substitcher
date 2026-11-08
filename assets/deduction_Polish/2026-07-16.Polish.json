@@ -1,0 +1,61 @@
+{
+  "title": "Głos, który rzucił wyzwanie panowaniu idola",
+  "intro": "Wśród posłańców Wszechmogącego był niezłomny sługa, który powstał pośród upartego narodu, by głosić prawdę. Ich lud przyjął wymyślone bóstwo, odwracając się od Stwórcy wszystkiego, co istnieje. Z niezachwianą determinacją ten człowiek wezwał ich z powrotem – ale przesłanie spotkało się z zaprzeczeniem i odrzuceniem. Przejrzyj wskazówki, aby odkryć, kim był ten oddany sługa.",
+  "clues": [
+    "Zostałem wysłany jako posłaniec do upartego ludu, który zbłądził daleko od prostej ścieżki.",
+    "Przybyłem, by przypomnieć mojemu narodowi o Tym, który stworzył wszystko, co istnieje — najlepszym ze wszystkich stwórców.",
+    "Mój lud zwrócił się ku fałszywemu bożkowi, którego czcił i którego wzywał dniem i nocą.",
+    "Odważnie rzuciłem im wyzwanie, pytając, dlaczego mieliby czcić wymyślone bóstwo i porzucić swojego prawdziwego Pana.",
+    "Zaprzeczyli mi, nie chcieli słuchać i mocno trzymali się kłamstwa — a jednak mój Pan mnie ocalił.",
+    "Jestem Ilyas — i pokój został mi dany, i zostałem zaliczony do wierzących sług Najmiłosierniejszego."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ilyas",
+        "Prorok Idris",
+        "Prorok Alyasa",
+        "Prorok Dhul-Kifl",
+        "Prorok Noh"
+      ],
+      "answer": "Prorok Ilyas"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Odwołanie ludzi od oddawania czci Baalowi",
+        "Konfrontacja z tyranem, który twierdził, że jest bogiem",
+        "Ostrzeżenie ludzi przed zbliżającym się potopem",
+        "Wrzucenie w wielki płonący ogień",
+        "Prowadzenie exodusu z krainy niewoli"
+      ],
+      "answer": "Odwołanie ludzi od oddawania czci Baalowi"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Bożek o imieniu Baal",
+        "Wielka arka zbudowana z mocnego drewna",
+        "Laska, która rozdzieliła ogromne morze",
+        "Święta szata splamiona krwią",
+        "Płonący krzew na świętej górze"
+      ],
+      "answer": "Bożek o imieniu Baal"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Obdarzony pokojem i zaliczony do wybranych sług Allaha",
+        "Zaprowadzono do raju, podczas gdy wszyscy inni zostali zniszczeni",
+        "Uratowany z wielkiego pożaru, stał się chłodny i bezpieczny",
+        "Dano panowanie nad dżinami, ludzkością i wiatrem",
+        "Ciało zachowane jako trwały znak na wieki"
+      ],
+      "answer": "Obdarzony pokojem i zaliczony do wybranych sług Allaha"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

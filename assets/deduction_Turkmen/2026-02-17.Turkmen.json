@@ -1,0 +1,61 @@
+{
+  "title": "Dawa-jenjelleriň tohumy",
+  "intro": "Dünýä giň ýaýran çaknyşyklary bilmezinden öň, ynamyň we gulak asmagyň çuňňur synagy ýüze çykdy. Bu hekaýada geljek nesiller üçin nusga bolup hyzmat edýän şahsyýetiň eden saýlawlary öwrenilýär. Uly göriplik we onuň weýran ediji netijeleri bilen göreşýän ruhuň hekaýasyny çözmäge taýýarlanyň.",
+  "clues": [
+    "Men ýer ýüzünde ýören ilkinji nesilleriň biri, ilkinji adam jübütiniň çagasydym.",
+    "Men we doganym, biziň yhlaslylygymyzyň synagy hökmünde, Allatagala gurbanlyk bermek tabşyryldy.",
+    "Meniň sadakam kabul edilmedi, doganymyňky bolsa kabul edildi, bu bolsa ýüregimi elhenç duýgy bilen doldurdy.",
+    "Men ret edilmegiň ajylygyndan ylham alyp, doganyma howp salýan sözler aýtdym.",
+    "Agam akyldarlyk we takwalyk bilen jogap berdi, maňa Allanyň adalatyny we Ondan gorkmagy ýatlatdy.",
+    "Agamyň ýumşak sözlerine we bagyşlamaga taýýarlygyna garamazdan, men bir adamyň janyna kast etdim we ýeňlenleriň biri boldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Adam pygamber",
+        "Iblis",
+        "Nuh pygamber",
+        "Kabil (Kabil)",
+        "Fyr'on"
+      ],
+      "answer": "Kabil (Kabil)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Beýik sil",
+        "Deňziň bölünmegi",
+        "Käbäniň binasy",
+        "Gurbanlyklaryň berilmegi",
+        "Bagdaky synag"
+      ],
+      "answer": "Gurbanlyklaryň berilmegi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Sandyk",
+        "Işgärler",
+        "Safa dagy",
+        "Gurbanlyk",
+        "Ýanýan Çala"
+      ],
+      "answer": "Gurbanlyk"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Habarçy boldy",
+        "Suwa gark boldy",
+        "Beýik patyşalyk gurdy",
+        "Ökünçligiň mysalyna öwrüldi",
+        "Oňa ägirt uly baýlyk berildi"
+      ],
+      "answer": "Ökünçligiň mysalyna öwrüldi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

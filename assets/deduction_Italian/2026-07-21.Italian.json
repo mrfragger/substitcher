@@ -1,0 +1,61 @@
+{
+  "title": "La maledizione del raccolto abbondante",
+  "intro": "In un'antica terra, un'anima particolare si distingueva tra i più ricchi della sua comunità. Per ben due volte, in anni consecutivi, aveva ricevuto le benedizioni della terra, un doppio raccolto che avrebbe dovuto riempirgli il cuore di gratitudine. Eppure, quando la tragedia si abbatté su di loro e tutto ciò che possedevano gli fu portato via in una sola notte, la loro reazione rivelò la vera natura della loro anima. Riuscite a scoprire l'identità di questa figura, la cui storia serve da monito contro la mancanza di fede nelle benedizioni di Allah?",
+  "clues": [
+    "Ero tra le anime più fortunate di tutta la terra, benedetto da abbondanti provviste.",
+    "Per due volte in due anni ho raccolto i frutti della mia terra, eppure il mio cuore è rimasto ingrato verso il Signore.",
+    "Possedevo un magnifico giardino con viti, ulivi e palme, a testimonianza del favore di Allah.",
+    "Quando il mio giardino fu distrutto, rimasi in piedi tra le sue rovine con le mani protese verso il cielo, maledicendo il mio destino.",
+    "Negai che Allah potesse aver causato una tale perdita, pur stringendo i palmi delle mani per la disperazione.",
+    "La mia punizione non fu solo la perdita del mio giardino, ma l'essere lasciato completamente indifeso tra le sue rovine, incapace di chiedere aiuto a nessuno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il proprietario del giardino nella Sura 26",
+        "Il proprietario di due giardini provenienti da una terra lontana",
+        "Un'anima ricca proveniente dalla città della prosperità",
+        "L'agricoltore menzionato nella Sura Al-Kahf",
+        "Un custode di vigneti risalente all'epoca del profeta Shu'aib"
+      ],
+      "answer": "Il proprietario del giardino nella Sura 26"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La perdita di un giardino distrutto in una sola notte",
+        "Il grande diluvio che ricoprì la terra",
+        "Essere messi alla prova con i veri e i falsi profeti",
+        "La prova di essere gettati nel fuoco",
+        "La prova di essere inghiottiti dalla terra"
+      ],
+      "answer": "La perdita di un giardino distrutto in una sola notte"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un giardino con viti, ulivi e palme distrutto in due anni",
+        "Una nave costruita su un'alta montagna",
+        "La città di una nazione trasgressore",
+        "Un pozzo nell'antica Madian",
+        "Il fiume del Paradiso"
+      ],
+      "answer": "Un giardino con viti, ulivi e palme distrutto in due anni"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Assoluta impotenza: distrutti senza alcun aiuto.",
+        "Risurrezione per entrare in paradiso",
+        "Diventare un profeta di Allah",
+        "La leadership di una grande nazione",
+        "Punizione eterna nel fuoco"
+      ],
+      "answer": "Assoluta impotenza: distrutti senza alcun aiuto."
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

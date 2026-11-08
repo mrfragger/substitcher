@@ -1,0 +1,61 @@
+{
+  "title": "Tangan-tangan Terkutuk",
+  "intro": "Anda berdiri di lorong-lorong berliku di Mekah kuno, di mana jiwa berpengaruh dan kaya pernah berpaling daripada panggilan kebenaran. Kisah tokoh ini merupakan peringatan yang jelas bahawa ikatan darah tidak dapat mengatasi rantai keangkuhan. Siapakah orang ini yang namanya bergema dengan api yang menanti?",
+  "clues": [
+    "Aku berjalan di jalan-jalan Mekah dengan rasa bangga yang membutakanku terhadap kebenaran, meskipun utusan itu adalah darah dagingku sendiri.",
+    "Hartaku memang banyak, tetapi ia menjadi kutukan dan bukannya perisai.",
+    "Kitab bimbingan itu menceritakan tentang kehancuranku, menyatakan bahawa tangan dan diriku akan binasa.",
+    "Pasangan saya menyertai kempen permusuhan saya, mengumpulkan duri untuk disebarkan di jalan orang yang menyeru kepada Allah.",
+    "Pada hari kiamat, aku akan diceburi ke dalam api yang menyala-nyala, dan pasanganku akan diikatkan tali ijuk di lehernya.",
+    "Saya dikenali dengan nama yang bermaksud 'bapa api' — nama yang meramalkan tempat tinggal abadi saya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahal",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Percubaan atau Acara Utama",
+      "options": [
+        "Menentang Nabi dan dikutuk dalam Al-Quran",
+        "Memimpin tentera untuk memusnahkan Kaabah",
+        "Cuba membunuh Nabi dengan melontar batu",
+        "Enggan mempercayai pembelahan bulan",
+        "Membina menara untuk mencapai langit"
+      ],
+      "answer": "Menentang Nabi dan dikutuk dalam Al-Quran"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Api Neraka yang menyala-nyala",
+        "Tongkat Musa",
+        "Bahtera Nabi Nuh",
+        "Telaga Zamzam",
+        "Anak Lembu Emas"
+      ],
+      "answer": "Api Neraka yang menyala-nyala"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dia akan masuk ke dalam neraka yang menyala-nyala, dan hartanya tidak akan berguna baginya.",
+        "Dia bertaubat dan menjadi seorang yang beriman",
+        "Dia diampuni setelah menarik balik dosanya",
+        "Dia mati sebagai syahid",
+        "Dia diangkat ke langit"
+      ],
+      "answer": "Dia akan masuk ke dalam neraka yang menyala-nyala, dan hartanya tidak akan berguna baginya."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

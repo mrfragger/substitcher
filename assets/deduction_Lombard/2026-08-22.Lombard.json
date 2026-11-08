@@ -1,0 +1,61 @@
+{
+  "title": "La cità che credeva in del temp",
+  "intro": "In di annal de la divina misericordia, g’he una comunità induè el punt de svolta l’è stà un mument de realizaziun culetiva. L’è drèe a descüvrir la sò storia: una storia de avvertiment, pentiment e ritardo che i distingue dal destin di olter naziun.",
+  "clues": [
+    "Num l’eran un popul a cui l’era mandad un messagger, e a l’inizi se s’èm voltà via de la sò chiamada.",
+    "Quand i segn de la puniziun imminent sun diventà ciar, g’hem capì la verità del sò avvertiment.",
+    "G’hem turnà al noster Signur cunt un sincer pentiment e la noster fed l’è stada acetada.",
+    "La puniziun che l’era stada decretada sü de nun l’è stada levada per la noster convinziun.",
+    "La nostra storia l’è citada cuma eceziun intra i cità che credevan dopu avegh vist la puniziun.",
+    "Num erem el popul del profeta che l’è stà engutì de la balena, ma serem salvà de la distruziun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Gent de Yunus",
+        "Gent de Nuh",
+        "Gent de Hud",
+        "Gent de Salih",
+        "Gent de Lut"
+      ],
+      "answer": "Gent de Yunus"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Un'inondaziun devastant",
+        "Una fort tempesta de vent",
+        "Una puniziun imminent de disgrazia che l’è stada evitada",
+        "La terra che i inglutiss",
+        "Una piœva de sass"
+      ],
+      "answer": "Una puniziun imminent de disgrazia che l’è stada evitada"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "L'arca",
+        "La camel",
+        "Una cità de centmila",
+        "El personal de Musa",
+        "La tesoroa de Qarun"
+      ],
+      "answer": "Una cità de centmila"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Sun stà distrutt cumpletament",
+        "G’han ricevü el piaser per un mument",
+        "Sun stà trasfurmà en simi",
+        "Sun stà affogà",
+        "Sun stà inglutì de la terra"
+      ],
+      "answer": "G’han ricevü el piaser per un mument"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Dea-Scéal san Aois",
+  "intro": "Tá tú ag tabhairt faoi deara nóiméad ina n-athbheoitear dóchas. Faigheann lánúin, atá i bhfad thar aois na tuismitheoireachta, gealltanas a sháraíonn dlíthe an nádúir. Ina measc seasann figiúr a bhfuil a bheith ann féin ina chomhartha ar thrócaire dhiaga - anam atá i ndán don fháidh, ag iompar oidhreachta a mhairfidh ar feadh na nglún. Cé hé an duine suntasach seo?",
+  "clues": [
+    "Rugadh mé do thuismitheoirí a bhí tar éis seanaois a bhaint amach agus nach raibh aon chlann acu.",
+    "D’fhógair aingil a tháinig mar aíonna chuig mo theaghlach mo bhreith.",
+    "Tugadh eagna agus fáidhiúlacht dom, agus luaitear mé i measc na n-othar.",
+    "Tugadh cara Allah ar m'athair, agus ba bhronntanas mé dó ina bhlianta ina dhiaidh sin.",
+    "Bhí deartháir agam a bhí ina fháidh freisin, agus bheannaigh ár dTiarna muid beirt.",
+    "Ba fáidh é mo mhac freisin, agus tugadh an scrioptúr agus an fháidhiúlacht do mo shliocht."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Íosác (Isaac)",
+        "An Fáidh Ismail (Ismael)",
+        "An Fáidh Yaqub (Iacób)",
+        "An Fáidh Yahya (Eoin)",
+        "An Fáidh Uzair (Ezra)"
+      ],
+      "answer": "An Fáidh Íosác (Isaac)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Rugadh do thuismitheoirí scothaosta",
+        "Caite isteach i dtine",
+        "Tugadh ríocht agus saibhreas dóibh",
+        "Threoraigh sé a mhuintir amach as an Éigipt",
+        "Thóg sé áirc chun creidmhigh a shábháil"
+      ],
+      "answer": "Rugadh do thuismitheoirí scothaosta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Dea-scéala mac",
+        "An tor dóite",
+        "An lao órga",
+        "Áirc an chonartha",
+        "Foireann na fáidheachta"
+      ],
+      "answer": "Dea-scéala mac"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh fáidh de le sliocht fáithe",
+        "Rinneadh rí saibhir de",
+        "Scriosadh a mhuintir mar gheall ar easpa creidimh",
+        "Sábháladh é ón tine",
+        "Tugadh an cumas labhartha dó agus é ina naíonán"
+      ],
+      "answer": "Rinneadh fáidh de le sliocht fáithe"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

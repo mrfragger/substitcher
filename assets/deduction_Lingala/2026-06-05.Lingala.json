@@ -1,0 +1,61 @@
+{
+  "title": "Bato ya komikitisa oyo balukaka solo",
+  "intro": "Na mokili oyo ezalaki na nguya ya kala mpe na bondɔki, kowelana monene esalemi. Mopanzi moko ezali na bokonzi ya bilembo ya Nzambe, nzokande mosusu emekaka kokokana na oyo ekoki kosalema te. Litomba na yango ekobongola libela nzela ya lisolo ya bato. Okoki kobimisa bomoto ya baoyo bamonaki solo ya nsuka mpe bamikitisaki liboso na yango?",
+  "clues": [
+    "Tomonaki bilembo oyo elekaki mayele mabe ya bondɔki",
+    "Biso banso tokweyaki na kofukama, kozangaka makoki ya kowangana bosolo",
+    "Toyebaki ete bilembo yango eutaki epai ya Nzambe Moko ya Solo",
+    "Tozalaki lisanga ya yambo oyo eyambaki bondimi na lolenge ya kokamwa boye",
+    "Balakaki biso paladiso lokola mbano na biso mpo na kondima na biso",
+    "Nsinga mpe banzete na biso ekómaki banyoka liboso ya miso na biso, nzokande toponaki komikitisa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya nganga-nkisi ya Farao",
+        "Bato ya Prophète Ibrahim",
+        "Bato ya komikitisa oyo balukaka solo",
+        "Bato ya Libulu",
+        "Ekolo ya Mokonzi-mwasi Bilqis"
+      ],
+      "answer": "Bato ya nganga-nkisi ya Farao"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bokutani na staff ya Prophète Musa",
+        "Momekano ya mopepe ya Profeta Hud",
+        "Mokakatano oyo euti na kamela ya mwasi ya Prophète Salih",
+        "Mpela monene etindaki mosakoli moko",
+        "Mobembo ya mosakoli na kati ya baleine"
+      ],
+      "answer": "Bokutani na staff ya Prophète Musa"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ezipito ya kala",
+        "Ndako ya bule na Makkah",
+        "Engumba ya Midian",
+        "Esobe ya Thamud",
+        "Libulu ya bato ya kala oyo balalaka"
+      ],
+      "answer": "Ezipito ya kala"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Paradis lokola mbano na bango",
+        "Etumbu na lilita",
+        "Kobungisa bilanga na bango ya ebele",
+        "Kobebisama na koningana ya mabele ya mbalakaka",
+        "Kobikisa na baleine moko monene"
+      ],
+      "answer": "Paradis lokola mbano na bango"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

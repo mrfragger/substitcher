@@ -1,0 +1,61 @@
+{
+  "title": "Sera se Chesang",
+  "intro": "Matsatsing a pele a tšenolo, motho e mong o ile a hlaha e le mohanyetsi ea manganga oa 'nete. Kaha o ne a hlohonolofalitsoe ka leruo le maemo, moea ona o ile oa khetha boikhohomoso ho feta tataiso, 'me pale ea bona ea fetoha temoso e matla litemaneng tsa ho qetela tsa surah.",
+  "clues": [
+    "Ke ne ke lula motseng o le mong le Moprofeta, 'me ke ne ke le har'a beng ka eena ba haufi-ufi, empa boikhohomoso ba ka bo ile ba nthibela hole le 'nete.",
+    "Ke ne ke e-na le leruo le leholo le thepa e mengata, 'me ke ne ke nahana hore matlotlo a ka a tla lula a ntšireletsa.",
+    "Ha molaetsa o senolwa, ke ile ka o soma phatlalatsa mme ka furalla, ke inka ke le moholo ho badumedi.",
+    "Bora ba ka bo ne bo tumme hoo surah ea Quran e neng e bua le 'na ka ho toba, e mpitsa ka lebitso leo ba bang ba neng ba ntseba ka lona.",
+    "Ke ile ka lemosoa hore leruo la ka le meputso ea ka li ke ke tsa ntsoela molemo, 'me ke tla lahleloa mollong o tukang.",
+    "Ke tsebahala ke le ntate oa lelakabe, 'me mosali oa ka o tla jara patsi ka thapo ea khoele ea palema molaleng oa hae."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O ile a hana Boislamo 'me a hanyetsa Moprofeta phatlalatsa",
+        "Morero oa ho bolaea Moprofeta",
+        "Etelletse pele letsholo la ho se mamele Mamoseleme sechabeng",
+        "E Loanetsoe Ntoeng ea Badr",
+        "O ile a hlokofatsoa Bilal ibn Rabah"
+      ],
+      "answer": "O ile a hana Boislamo 'me a hanyetsa Moprofeta phatlalatsa"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Thapo ea faeba ea palema",
+        "Sabole e bohale",
+        "Ketane e boima",
+        "Lere la lehong",
+        "Sephali sa letlalo"
+      ],
+      "answer": "Thapo ea faeba ea palema"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E tla cha mollong o tukang",
+        "O ile a baka 'me ea e-ba motsoalle",
+        "O lahlehetsoe ke leruo la hae empa o shoele a hlomphuoa",
+        "O balehetse Abyssinia",
+        "Ho khangoa ke metsi leoatleng"
+      ],
+      "answer": "E tla cha mollong o tukang"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

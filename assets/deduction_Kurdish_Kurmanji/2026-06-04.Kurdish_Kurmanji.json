@@ -1,0 +1,61 @@
+{
+  "title": "Nîşana Di Nav Keviran De",
+  "intro": "Li welatekî ku xanî li ser çiyayan hatine kolandin, peyamberek bi nîşanek mûcîzeyî ji Xwedê hat. Xelkê delîl xwest û wan ji kevirê hişk mexlûqek wergirt. Lê xudperestiya wan ew neçar kir ku li hember hişyariyê derkevin û çarenûsa xwe mohr bikin.",
+  "clues": [
+    "Ez ji bo gelekî hatim şandin ku di xanîyên ji çiyayan hatine kolandin de dijiyan.",
+    "Wan ji min xwestin ku ez nîşanekê bînim, ji ber vê yekê min ji kevir deveyekî derxist.",
+    "Min ferman da wan ku bila deveyê bi azadî avê vexwe û zirarê nedin wê.",
+    "Wan guh nedan û deve jê kirin, û bi ser hişyariya min deve paşguh kirin.",
+    "Min ragihand ku ceza dê piştî sê rojan were.",
+    "Serê sibê, teqînek mezin ew wêran kir, lê ez û şagirtên min xilas bûn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Salih",
+        "Pêxember Hûd",
+        "Pêxember Lût",
+        "Pêxember Şûayb",
+        "Pêxember Îbrahîm"
+      ],
+      "answer": "Pêxember Salih"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Daxwaza deveyekî ji zinaran",
+        "Daxwaza ji bo golikekî zêrîn",
+        "Daxwaza ji bo sifreyekê ji ezmanan belav bû",
+        "Daxwaza ji bo avjeniyê",
+        "Daxwaza ku darek bibe mar"
+      ],
+      "answer": "Daxwaza deveyekî ji zinaran"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Deve û golika wê",
+        "Keştiya Nûh",
+        "Çapa Mûsa",
+        "Golika Zêrîn",
+        "Agirê Îbrahîm"
+      ],
+      "answer": "Deve û golika wê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bi bombebaranek mezin wêran bûye",
+        "Di lehiyê de xeniqî",
+        "Ji aliyê erdê ve hatiye daqurtandin",
+        "Bûn meymûn",
+        "Bi bayekî dijwar wêran bûye"
+      ],
+      "answer": "Bi bombebaranek mezin wêran bûye"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

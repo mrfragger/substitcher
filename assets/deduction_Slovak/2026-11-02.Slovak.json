@@ -1,0 +1,61 @@
+{
+  "title": "Neochvejný spojenec v skúške zlata",
+  "intro": "V tieni veľkého proroka bola vybraná duša výrečnosti a viery, aby pomáhala v monumentálnej misii. Táto postava stála pevne, keď masy zaváhali, a kázala proti do očí bijúcemu priestupku, ktorý ohrozoval samotné jadro monoteizmu. Keď sa prorok vrátil, aby bol svedkom úpadku ľudu, jeho obrana nebola vinou, ale povinnosťou a strachom z rozdelenia. Kto je tento oddaný služobník Alaha?",
+  "clues": [
+    "Bol som vyvolený Alahom pre posvätnú úlohu po boku iného človeka a mojou úlohou bolo podporovať a hlásať.",
+    "Bola mi daná jasná reč a sprevádzal som posla, aby sa postavil mocnému utláčateľovi.",
+    "Počas kritickej cesty posol vystúpil na horu sám a nechal ma, aby som strážil ľudí.",
+    "V ich neprítomnosti si ľudia vyrobili zlatú sochu a ja som ich prosil, aby zostali verní, ale odmietli moju radu.",
+    "Keď sa posol vrátil, plný hnevu a žiaľu, chytili ma, ale vysvetlil som im, že som bol premožený a obával som sa, že medzi nimi spôsobím svár.",
+    "Ja som prorok, ktorý stál po boku Músu, môjho brata, zdieľal jeho bremeno a zostal neochvejný proti modlárstvu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Harun",
+        "Prorok Músa",
+        "Prorok Isa",
+        "Prorok Dawud",
+        "Prorok Zakariyya"
+      ],
+      "answer": "Prorok Harun"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Ľudia uctievali zlaté teľa napriek varovaniam",
+        "Ľudia ma hodili do plápolajúceho ohňa",
+        "Prehltla ma veľká ryba",
+        "Bol som uväznený na základe falošných obvinení",
+        "Bol som vyhnaný z môjho mesta za kázanie"
+      ],
+      "answer": "Ľudia uctievali zlaté teľa napriek varovaniam"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zlaté teľa",
+        "Horiaci ker",
+        "Zamestnanec, ktorý sa premenil na hada",
+        "Tabuľky zmluvy",
+        "Archa zmluvy"
+      ],
+      "answer": "Zlaté teľa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Bol som oslobodený a pokračoval som vo svojom prorockom poslaní",
+        "Bol som potrestaný za hriech ľudu",
+        "Dostal som nový národ, ktorý mám viesť",
+        "Bol som živý vzatý do neba",
+        "Bol som ustanovený za vládcu nad kráľovstvom"
+      ],
+      "answer": "Bol som oslobodený a pokračoval som vo svojom prorockom poslaní"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

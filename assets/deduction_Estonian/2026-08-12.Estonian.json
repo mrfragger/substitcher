@@ -1,0 +1,61 @@
+{
+  "title": "Halastuse ja väe saadikud",
+  "intro": "Kujutage ette vaikset pärastlõunat, mille katkestab võõraste rändurite saabumine. Nende välimus on tavaline, kuid nende eesmärk on kõike muud. Nad kannavad jumalikku sõnumit, mis muudab kahe rahva käekäiku, tuues naeru viljatusse koju ja õudust patusesse linna. Kes on need salapärased külastajad?",
+  "clues": [
+    "Meid saadeti pühendunud Allahi teenri juurde, kes oli tuntud oma piiritu külalislahkuse poolest.",
+    "Me saabusime võõraste varjus, aga ometi tajus meie võõrustaja meie kohalolekus midagi ebamaist.",
+    "Tõime teateid, mis panid ühe eaka naise uskumatult naerma ja iseendale hämmastusest näkku lüües.",
+    "Meile anti ülesandeks kaitsta õiglast perekonda, samal ajal kui me külvame hävingut linnale, mis on läbi imbunud korruptsioonist.",
+    "Me keeldusime pakutud söögist osa võtmast, mis ainult süvendas meie võõrustaja kahtlust.",
+    "Me paljastasime oma tõelise olemuse alles enne lahkumist, öeldes: „Tõesti, me oleme teie Issanda käskjalad.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Aabrahami külalised",
+        "Jeesuse jüngrid",
+        "Koopa kaaslased",
+        "Abraha armee",
+        "Ya-Sini sõnumitoojad"
+      ],
+      "answer": "Aabrahami külalised"
+    },
+    "trial": {
+      "label": "Meie missioon",
+      "options": [
+        "Aabrahami usu proovilepanekuks oma poja suhtes",
+        "Et anda pühakiri Aabrahamile edasi",
+        "Kuulutama Iisaki sündi ja Loti rahva hävingut",
+        "Aabrahami Kaabasse juhatama",
+        "Aabrahami tulest päästmiseks"
+      ],
+      "answer": "Kuulutama Iisaki sündi ja Loti rahva hävingut"
+    },
+    "location": {
+      "label": "Esinemiskoht",
+      "options": [
+        "Egiptuse maal",
+        "Uri linnas",
+        "Abrahami kodus",
+        "Eedeni aias",
+        "Zamzami kaevu juures"
+      ],
+      "answer": "Abrahami kodus"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Aabrahamist sai kuningas",
+        "Aabraham ehitas Kaaba",
+        "Saara sünnitas Iisaki ja Loti rahvas hävitati",
+        "Aabraham rändas Palestiinasse",
+        "Aabrahami rahvas päästeti suurest veeuputusest"
+      ],
+      "answer": "Saara sünnitas Iisaki ja Loti rahvas hävitati"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

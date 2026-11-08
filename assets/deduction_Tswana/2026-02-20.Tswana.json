@@ -1,0 +1,61 @@
+{
+  "title": "Mosupi wa Molelo",
+  "intro": "Motho yo o tseneletseng, yo o neng a ineetse go ribolola boammaaruri jwa bofelo, o ne a simolola loeto lwa go ribolola dilo tsa semoya. Go tlhomamisega ga bone go go sa reketleng go ne ga dira gore ba gwetlhe ditlwaelo tse di tlhomilweng, ba lebane le diteko tse dikgolo tse di neng tsa leka melelwane ya tumelo. Kgang eno ya moya ke bosupi jwa tshireletso le kaelo ya bomodimo.",
+  "clues": [
+    "Ke ne ka segofadiwa ka sereto se se kgethegileng se se tswang kwa Moreneng wa me, se se bontshang kgolagano e e tseneletseng le e e kgethegileng.",
+    "Botshelo jwa me jwa ntlha ke ne ka bo fetsa mo gare ga batho ba ba neng ba obamela ditshwantsho tse di dirilweng ka diatla, mme pelo ya me e ne e eletsa Modimo o le Mongwe wa Boammaaruri.",
+    "Ke ne ka ela tlhoko dilo tsa selegodimo, letsatsi, ngwedi le dinaledi, ke akanya ka go tlhatloga le go wa ga tsone, ke swetsa ka gore ga di ka ke tsa nna Morena wa me.",
+    "Mo tirong ya go ganana le kobamelo ya medimo e mentsi e e neng e aname, ke ne ka lebana le medimo ya maaka, ka tlogela medimo e e neng e le nosi, e kgolo e sa senyega e le molatofatsi yo o didimetseng.",
+    "Go gwetlha ga me kobamelo ya medimo ya disetwa go ne ga dira gore ke otlhaiwe thata, ka gonne ke ne ka atlholelwa go latlhelwa mo diheleng tse di tukang.",
+    "Mme lefa go ntse jalo, ka taelo ya Mmopi wa me, dikgabo tse di bogale di ne tsa fetoga motswedi wa botsidifatsi le pabalesego, tsa boloka botshelo jwa me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Musa",
+        "Moporofeti Nuh",
+        "Moporofeti Ibrahime",
+        "Moporofeti Isa",
+        "Moporofeti Yusuf"
+      ],
+      "answer": "Moporofeti Ibrahime"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go kgabaganya Lewatle le Lehibidu",
+        "Morwalela",
+        "Setlhabelo sa Morwa",
+        "Mathata a a Tukang",
+        "Mpa ya Leruarua"
+      ],
+      "answer": "Mathata a a Tukang"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Badiri",
+        "Terompeta",
+        "Molelo",
+        "Sediba"
+      ],
+      "answer": "Molelo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O gogetse batho kwa pabalesegong",
+        "O ruile bogosi jo bogolo",
+        "O meditswe ke tlhapi",
+        "E bolokilwe gore e se ka ya fisiwa",
+        "Ke amogetse matlapana"
+      ],
+      "answer": "E bolokilwe gore e se ka ya fisiwa"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Uasi Kando ya Pwani",
+  "intro": "Unasimama juu ya mchanga wa ufuo uliosahaulika, ambapo mawimbi yananong'ona ya jamii iliyojaribiwa kwa amri ya Mungu. Hewa imejaa kumbukumbu ya ukiukaji uliosababisha mabadiliko ya kushangaza. Nafsi hizi zilikuwa nani, na aina ya jaribu lao ilikuwa nini?",
+  "clues": [
+    "Tulikuwa jamii iliyopokea amri iliyo wazi kutoka kwa Mola wetu, lakini tulipata njia za kuikataa.",
+    "Tuliishi karibu na maji, na riziki yetu ilitegemea viumbe vyake.",
+    "Mtihani ulitujia siku tuliyoamriwa kujiepusha na mambo ya kidunia.",
+    "Viumbe wa majini walitujia kwa wingi siku hiyo hiyo, wakitujaribu kupita kiasi.",
+    "Tulibuni mbinu ya ujanja ili kukwepa amri ya Mungu, tukifikiri tunaweza kuizidi amri hiyo kwa ujanja.",
+    "Uasi wetu ulisababisha mabadiliko ya aibu; tukawa nyani waliodharauliwa kwa amri ya Mwenyezi Mungu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Sabato",
+        "Watu wa Rass",
+        "Watu wa Tubba",
+        "Watu wa Pango",
+        "Masahaba wa Shimoni"
+      ],
+      "answer": "Watu wa Sabato"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuonekana kwa samaki siku ya Sabato",
+        "Mwaka wa ukame mkali",
+        "Jeshi la ndege lililotumwa dhidi yao",
+        "Mafuriko yaliyowafunika",
+        "Tetemeko la ardhi lenye nguvu"
+      ],
+      "answer": "Kuonekana kwa samaki siku ya Sabato"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bahari",
+        "Mlima",
+        "Pango",
+        "Bonde la jangwa",
+        "Mji wenye ngome"
+      ],
+      "answer": "Bahari"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aligeuka kuwa nyani",
+        "Imemezwa na ardhi",
+        "Imeharibiwa na upepo unaovuma",
+        "Kuzama baharini",
+        "Kupigwa na mvua ya mawe"
+      ],
+      "answer": "Aligeuka kuwa nyani"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "mag'rurlik ostida cho'kib ketgan xazina",
+  "intro": "Kalitlarni ko'tarishning o'zi bir guruh kuchli shaxslarni charchatib qo'yadigan darajada ulkan boylik uyumlari oldida turganingizni tasavvur qiling. Atrofingizdagi ovozlar kamtarlik va eslashga undaydi, ammo mag'rurlik minnatdorchilikdan balandroq bo'ladi. Ne'mat sinovga aylanib, takabburlik natijani hal qilsa nima bo'ladi?",
+  "clues": [
+    "Men Muso qavmidan edim, lekin ularga nisbatan gunoh qildim.",
+    "Menga shunday ulkan xazinalar berildiki, ularning kalitlari bir guruh kuchli odamlarga og'irlik qilardi.",
+    "Qavmim menga bu dunyodan nasibamni unutmasdan, oxiratni orzu qilib, shodlanmaslikni maslahat bergan edi.",
+    "Men egalik qilgan narsalarim menga faqat bilimim tufayli berilgan deb da'vo qildim.",
+    "Men qavmim oldida ziynatlanib yurdim, dunyo hayotini istaganlar esa menda bor narsani orzu qilishdi.",
+    "Meni yer va uyim yutib yubordi, hech kim menga yordam bera olmadi va men ham o'zimga yordam bera olmadim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Qorun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qobil"
+      ],
+      "answer": "Qorun"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Boyligi bilan maqtanib, maslahatga qaramay, Allohning marhamatidan mahrum bo'ldi",
+        "Ibrohimga hayot va o'lim berish borasida shubha bildirdi",
+        "Tolut va Dovudga qarshi qo'shin boshqardi",
+        "Odamlar sajda qilishlari uchun o'yilgan butlar",
+        "Qurbonlikka hasad qilib, akasini o'ldirdi"
+      ],
+      "answer": "Boyligi bilan maqtanib, maslahatga qaramay, Allohning marhamatidan mahrum bo'ldi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "ulkan xazinalarning kalitlari",
+        "Ahd sandig'i",
+        "Bezaklar bilan bezatilgan oltin buzoq",
+        "Ikki tog' orasidagi to'g'on",
+        "Tushdagi o'n bitta yulduz"
+      ],
+      "answer": "ulkan xazinalarning kalitlari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Uy-joy va boylik bilan yerni yutib yubordi",
+        "Musoni ta'qib qilayotganda dengizga cho'kib ketdi",
+        "Dovudning slingidan tosh tegib yiqildi",
+        "Urg'ochi tuyaning son suyagini kesib tashlagani uchun kuchli portlash bilan vayron qilingan",
+        "Shabbat kunini buzgani uchun maymunga aylandi"
+      ],
+      "answer": "Uy-joy va boylik bilan yerni yutib yubordi"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Fajra Kontraŭulo",
+  "intro": "En la fruaj tagoj de revelacio, iu figuro aperis kiel obstina kontraŭulo de la vero. Benita per riĉeco kaj statuso, ĉi tiu animo elektis fierecon anstataŭ gvidadon, kaj ilia rakonto fariĝis severa averto en la finaj versoj de surao.",
+  "clues": [
+    "Mi loĝis en la sama urbo kiel la Profeto, kaj mi estis inter liaj plej proksimaj parencoj, tamen mia fiereco tenis min malproksima de la vero.",
+    "Mi posedis grandan riĉecon kaj multajn posedaĵojn, kaj mi pensis, ke miaj rimedoj ĉiam protektos min.",
+    "Kiam la mesaĝo estis rivelita, mi mokis ĝin malkaŝe kaj forturniĝis, konsiderante min supera al la kredantoj.",
+    "Mia malamikeco estis tiel fifama, ke surao de la Korano alparolis min rekte, nomante min per la nomo, kiun aliaj konis min.",
+    "Mi estis avertita, ke mia riĉeco kaj miaj gajnoj ne utilos al mi, kaj mi estos ĵetita en flamantan fajron.",
+    "Mi estas konata kiel la patro de la flamo, kaj mia edzino portos la brullignon kun ŝnuro el palma fibro ĉirkaŭ sia kolo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Ŭalid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Malakceptis Islamon kaj malkaŝe kontraŭstaris la Profeton",
+        "Konspiris por asasini la Profeton",
+        "Gvidis socian bojkoton kontraŭ islamanoj",
+        "Batalis en la Batalo de Badr",
+        "Torturita Bilal ibn Rabah"
+      ],
+      "answer": "Malakceptis Islamon kaj malkaŝe kontraŭstaris la Profeton"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Ŝnuro el palmofibro",
+        "Akra glavo",
+        "Peza ĉeno",
+        "Ligna bastono",
+        "Leda vipo"
+      ],
+      "answer": "Ŝnuro el palmofibro"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Brulos en flamanta fajro",
+        "Pentis kaj fariĝis kunulo",
+        "Perdis sian riĉaĵon sed mortis honorita",
+        "Fuĝis al Abisinio",
+        "Dronis en la maro"
+      ],
+      "answer": "Brulos en flamanta fajro"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

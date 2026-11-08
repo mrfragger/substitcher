@@ -1,0 +1,61 @@
+{
+  "title": "A Cidade Perdida de Majestade Inigualável",
+  "intro": "Uma poderosa civilização outrora dominou vastas extensões da Terra, célebre por suas estruturas imponentes que alcançavam os céus. Contudo, sob essa grandeza, crescia uma teimosa negação — a recusa em acatar o aviso divino enviado de dentro da própria comunidade. O orgulho e a arrogância logo trariam um castigo sem precedentes, nem a Terra nem os céus.",
+  "clues": [
+    "Outrora, governamos vastas extensões da Terra, vangloriando-nos de uma força que acreditávamos ser inigualável por qualquer outra civilização.",
+    "Nosso reino era famoso por suas estruturas imponentes com pilares majestosos, inigualáveis ​​em todas as terras conhecidas.",
+    "Um mensageiro da nossa própria comunidade se levantou, exortando cada um de nós a submetermo-nos somente ao Único Criador.",
+    "Recusamos a mensagem que nos foi transmitida e nos recusamos a abandonar o caminho que havíamos herdado.",
+    "Um vento furioso e uivante de força avassaladora foi desencadeado contra nós, deixando-nos completamente indefesos.",
+    "Ficamos como troncos ocos de palmeiras, dispersos e esquecidos, como lição para todas as gerações futuras."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Povo de A'ad",
+        "Povo de Noé",
+        "Povo de Lut",
+        "Povo de Madyan",
+        "Povo de Tumba'"
+      ],
+      "answer": "Povo de A'ad"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Um vento implacável e furioso de punição severa.",
+        "Uma inundação que cobriu todos os picos das montanhas.",
+        "Uma chuva de pedras de barro em chamas vinda de cima.",
+        "Um único grito aterrador vindo dos céus",
+        "Um violento terremoto que dividiu a terra"
+      ],
+      "answer": "Um vento implacável e furioso de punição severa."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Iram, a cidade dos pilares imponentes",
+        "Uma enorme arca de madeira construída sobre uma montanha",
+        "Uma camela que emergiu milagrosamente da pedra.",
+        "Monte Sinai, onde os mandamentos divinos foram revelados.",
+        "Um palácio de cristal e vidro fino com vista para as águas correntes."
+      ],
+      "answer": "Iram, a cidade dos pilares imponentes"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Deixados como troncos ocos de palmeiras, espalhados e sem vida.",
+        "Afogados sob as ondas avassaladoras de uma grande enchente.",
+        "Transformados em criaturas semelhantes a macacos e porcos.",
+        "Esmagados sob uma chuva de pedras de argila endurecidas",
+        "Consumido por um único grito ensurdecedor que atravessou a alma."
+      ],
+      "answer": "Deixados como troncos ocos de palmeiras, espalhados e sem vida."
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

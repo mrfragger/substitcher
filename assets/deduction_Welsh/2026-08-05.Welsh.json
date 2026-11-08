@@ -1,0 +1,61 @@
+{
+  "title": "Diwrnod yr Arddangosfa Derfynol",
+  "intro": "Wedi'u galw i arddangosfa fawreddog o bŵer, roedd grŵp o berfformwyr medrus yn wynebu gwirionedd annisgwyl a fyddai'n newid eu bywydau am byth.",
+  "clues": [
+    "Roedden ni'n enwog am ein crefft, yn feistri rhith a thwyll.",
+    "Galwyd ni gan y llywodraethwr i wynebu heriwr a oedd yn defnyddio ffon syml.",
+    "Pan welsom y gwirionedd, syrthiasom i lawr mewn ymostyngiad, gan ddatgan ein cred yn Arglwydd y bydoedd.",
+    "Bygythiodd y teyrn ni â chosb lem, ond ni wnaethon ni betruso.",
+    "Roedden ni ymhlith y cyntaf i gredu yn y neges ar ôl gweld yr arwydd clir.",
+    "Fe’n merthyron ni am ein ffydd, ond ni fydd y cyntaf i fynd i mewn i Baradwys gyda’r cyfiawn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Dewiniaid y Pharo",
+        "Yr Israeliaid",
+        "Pobl Thamud",
+        "Disgyblion Isa",
+        "Byddin Abraha"
+      ],
+      "answer": "Dewiniaid y Pharo"
+    },
+    "trial": {
+      "label": "Treial / Digwyddiad",
+      "options": [
+        "Cystadleuaeth gyda'r Proffwyd Musa",
+        "Adeiladu'r Tŵr",
+        "Y Llifogydd Mawr",
+        "Pla'r Locustiaid",
+        "Y Môr Hollti"
+      ],
+      "answer": "Cystadleuaeth gyda'r Proffwyd Musa"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Diwrnod yr Ŵyl",
+        "Dyffryn Tuwa",
+        "Dinas Iram",
+        "Gardd y Tragwyddoldeb",
+        "Gwastadedd Arafat"
+      ],
+      "answer": "Diwrnod yr Ŵyl"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Fe'u croeshoelwyd yn gyhoeddus",
+        "Boddwyd nhw yn y môr",
+        "Fe'u gwnaed yn ddilynwyr i'r proffwyd",
+        "Fe'u hanfonwyd i alltudiaeth",
+        "Fe'u llyncwyd gan dân"
+      ],
+      "answer": "Fe'u croeshoelwyd yn gyhoeddus"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

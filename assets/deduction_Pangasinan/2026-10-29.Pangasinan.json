@@ -1,0 +1,61 @@
+{
+  "title": "Sakey a Melag a Pasakbay Sakbay na Manmartsa a Manag-asikaso",
+  "intro": "Onloob ka ed sakey a lawak ya walay onaasingger a makapanyarin manuley tan dakel a sundalo, tan imadyin mo so sakey a melag a managbiahe a mangiiter na pasakbay a mangisalba ed interon komunidad. No onsabi so komunidad ya napepeligro ed panagsalimbengan, onlabas so peligro. Tumboken iray pakapatnagan pian naamtaan no antoy ag-anengneng ya pigura ed benegan na satan a pasakbay.",
+  "clues": [
+    "Kaiba ak ed saray angkekelag a pinalsa ya nisiglaot ed panarian na sakey a manuley.",
+    "Say komunidad mi et manaayam ed saray ayaman ed loob na lawak, ya ditan et nayarin ontawag so sakey ed sikami ed arum.",
+    "Nipapaarap itayo ed panamasegsegang manlapud satan a manuley tan saray sundalo a manbiabiahe a kaiba na manuley.",
+    "Siak so ontatawag ed komunidad ko ya onloob ed saray ayaman da tan mamapasakbay ed sikatayo ya ag tayo naderal ya agtayo amta.",
+    "Say manuley et si Sulayman, tan say klase ko et kaiba ed saray pinalsa ya inyan ed silong na ganggan to.",
+    "Siak so ant na satan a lawak; kayari na pasakbay ko, linmoob kami ed saray ayaman mi tan akaliktar kami ed inkaderal ya ag mi komon amta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Say Ant na Lawak",
+        "Say Hoopoe",
+        "Say Uwak",
+        "Say Uleg",
+        "Say Mule"
+      ],
+      "answer": "Say Ant na Lawak"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Sakey a pasakbay ya angilaban ed sakey a komunidad na ant",
+        "Say kerew na singsing ed sakey a sira",
+        "Say pananap ed sakey ya abalang ya trono",
+        "Say pangisalba ed saray mata ya tinakew",
+        "Say ag-inmabobon a mangan na tagano na sakey a manuley"
+      ],
+      "answer": "Sakey a pasakbay ya angilaban ed sakey a komunidad na ant"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say Lawak na Saray Ants",
+        "Say Signet Ring nen Sulayman",
+        "Say Bloodstained Shirt nen Yusuf",
+        "Say Balitok a Bakan baka na Exodo",
+        "Say Staff nen Musa"
+      ],
+      "answer": "Say Lawak na Saray Ants"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Say komunidad so niliktar kayari na impansalimbeng da",
+        "Say komunidad so aderal ya anggapoy nasalimbengan",
+        "Say komunidad so niliktar lapud inmatras so armada",
+        "Say komunidad so atumangan na panangontrol ed saray manok",
+        "Say komunidad so inawit ya kautibo ed palasyo na ari"
+      ],
+      "answer": "Say komunidad so niliktar kayari na impanamot da"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

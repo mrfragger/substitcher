@@ -1,0 +1,61 @@
+{
+  "title": "D'Arméi, déi vum Flying Clay begéint gouf",
+  "intro": "An der Ära virum Prophet Mohammed huet e mächtege Herrscher aus dem Jemen eng militäresch Kampagne gestart, déi drop aus war, en hellegt Heiligtum zu Mekka ze zerstéieren. Dëse Feind huet eng grouss Arméi mat Krichselefanten ugefouert, déi zouversiichtlech op hir Kraaft an Zuel waren. Hir Rees sollt awer abrupt ophalen, wéi si op eng onerwaart göttlech Interventioun gestouss sinn. Kënnt Dir identifizéieren, wien dëser bemierkenswäerter Rechnung stoung?",
+  "clues": [
+    "Mir sinn mat enger massiver Arméi a mächtege Krichselefanten Richtung Hellegen Haus marschéiert.",
+    "Mir haten vir, eng Kultplaz, déi vun Dénger vum Barmhäerzegsten gebaut gouf, auszerüsselen an ze zerstéieren",
+    "Eng Trapp kleng Vigel gouf géint eis geschéckt, déi Lehmsteng an hire Schniewel a Krallen gedroen hunn.",
+    "Mir goufe vun engem Geräisch begéint, deen Steng op eis gehäit huet an eis zu zertrampelte Reschter verwandelt huet.",
+    "Ech war aus dem Land Jemen a war ënner engem Herrscher, deen probéiert huet, dat hellegt Heiligtum ze verdeedegen.",
+    "Mir goufen zu engem Beispill fir déi gemaach, déi sech trauen, den Hellegtum vun Allah ze entweichen"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Arméi vun Abraha al-Ashram",
+        "Déi ethiopesch Truppen",
+        "Déi persesch Eroberer",
+        "Déi réimesch Legiounen",
+        "D'Beduinen-Raiber"
+      ],
+      "answer": "D'Arméi vun Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Eng Belagerung vun enger Wüstefestung",
+        "Eng Invasioun vum hellege Tempel zu Mekka",
+        "Eng Seeschlacht um Mier",
+        "Eng Rebellioun géint en Tyrann Kinnek",
+        "Eng Sich no engem verluerene Prophet"
+      ],
+      "answer": "Eng Invasioun vum hellege Tempel zu Mekka"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Dall vu Mina bei Mekka",
+        "De Palais vu Sana'a am Jemen",
+        "D'Bierger vun Tihamah",
+        "Déi antik Stad Jerusalem",
+        "D'Ufer vum Roude Mier"
+      ],
+      "answer": "D'Dall vu Mina bei Mekka"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Victoire an Zerstéierung vum hellege Haus",
+        "Néierlag duerch Vigel, déi Lehmsteng droen",
+        "Friddlech Kapitulatioun a Konversioun",
+        "Hongersnout a Naturkatastroph",
+        "Réckzuch wéinst staarkem Reen"
+      ],
+      "answer": "Néierlag duerch Vigel, déi Lehmsteng droen"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Al'ummar Laifukan Farko",
+  "intro": "A ƙasar tsoffin biranen, mutane sun taɓa bunƙasa. Manzo ya ziyarce su da kira bayyananne, duk da haka suka juya suka bi hanyar da babu wanda ya taɓa bi. Labarinsu na nuna rashin biyayya, ɓarna, da kuma azaba da ta bar ƙasarsu a matsayin alama ga duk wanda ya yi tunani. Su waye waɗannan rayuka?",
+  "clues": [
+    "Mun zauna a biranen fili, inda annabinmu ya kira mu zuwa ga adalci.",
+    "Mu ne farkon waɗanda suka aikata alfasha wadda babu wanda ya taɓa yi a duk duniya a da.",
+    "Mun yi wa matafiya fashi kuma mun aikata mugunta a fili a cikin tarukanmu.",
+    "Mun ƙi manzon da aka aiko mana kuma muka yi barazanar korarsa daga ƙasarmu.",
+    "Mun yi gaggawa zuwa gidansa muna buƙatar ya miƙa mana baƙinsa.",
+    "Hukuncinmu ruwan sama ne mai ƙarfi, kuma birninmu ya juye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Mutanen Lutu",
+        "Mutanen Nuhu",
+        "Mutanen 'Ad'",
+        "Mutanen Samudawa",
+        "Mutanen Madyana"
+      ],
+      "answer": "Mutanen Lutu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ya aikata aikin farko na luwaɗi",
+        "Gumakan da ake bautawa",
+        "An yi wawa a ciniki",
+        "Sun kashe annabinsu",
+        "Sun ƙi bin umarnin iyayensu"
+      ],
+      "answer": "Ya aikata aikin farko na luwaɗi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Birnin fili",
+        "Birnin rijiyar",
+        "Birnin ramin",
+        "Birnin giwa",
+        "Birnin lambun"
+      ],
+      "answer": "Birnin fili"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An yi ruwan sama da duwatsu kuma an kife su",
+        "Ambaliyar ruwa ta nutsar da shi",
+        "Iska mai ƙarfi ta halaka",
+        "Ƙasa ta haɗiye ta",
+        "An buge shi da ƙarar fashewa"
+      ],
+      "answer": "An yi ruwan sama da duwatsu kuma an kife su"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

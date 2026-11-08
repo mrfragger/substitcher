@@ -1,0 +1,61 @@
+{
+  "title": "Uçurumdan Gelen Ses",
+  "intro": "Kur'an'da, sabrın ve Tanrı'nın sınırsız merhametinin öyküsü anlatılır. Büyük bir şehre bir elçi gönderildi, ancak halkı uyarıyı reddetti ve gerçeği kabul etmedi. Hayal kırıklığına uğrayan bu ruh yola çıktı; ta ki azgın deniz tarafından sınanana ve en karanlık derinliklere gömülene kadar. Karanlığın karnından alçakgönüllü bir yakarış yükseldi ve En Merhametli olan karşılık verdi. Dönüşmüş olarak ortaya çıkan, halkı yüz binden fazla mümin haline gelecek olan bu ruh kimdir?",
+  "clues": [
+    "Ben, halkı iman yolundan sapmış olan büyük bir şehre uyarıcı olarak gönderildim.",
+    "Halkımı defalarca gerçeğe çağırdım, ancak onlar mesajımı alaya aldılar ve reddettiler.",
+    "İzin verilmeden önce hayal kırıklığı içinde onlardan ayrıldım ve açık denize doğru yöneldim.",
+    "Büyük bir fırtına koptu ve ben denize savrulup, devasa bir deniz canlısı tarafından bütün olarak yutuldum.",
+    "Karanlığın katmanları arasında —okyanusun derinliklerinde, yaratığın karnında ve derin deniz tabanında— şöyle haykırdım: 'Senden başka ilah yoktur; sana şükürler olsun; ben zalimler arasındaydım.'",
+    "Allah beni derinliklerden kurtardı ve geri döndüğümde, halkımdan yüz binden fazla kişi hakikati benimsemişti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yunus (Yunus)",
+        "Peygamber Musa (Musa)",
+        "Peygamber İbrahim (Abraham)",
+        "Peygamber Zekeriya (Zekarya)",
+        "Peygamber İdris (Enoch)"
+      ],
+      "answer": "Peygamber Yunus (Yunus)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Dev bir deniz canlısı tarafından yutulmak",
+        "Bir tiran ve onun sihirbazlarıyla yüzleşmek",
+        "Öfkeli bir kral tarafından alev alev yanan bir ateşe atılmak",
+        "Yaşlı ve güçsüzken bir oğulun doğumu müjdesini duymak",
+        "Yıkıcı bir sel felaketiyle yerle bir olmuş bir ülkeye tanık olmak"
+      ],
+      "answer": "Dev bir deniz canlısı tarafından yutulmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Okyanusun derinliklerinde yaşayan büyük bir deniz canlısının karnı.",
+        "Çorak bir vadide, dağlarla çevrili kutsal bir ev.",
+        "Soğutulup huzura kavuşturulan alev alev yanan bir ateş",
+        "Akan nehirleri ve gölgeleriyle muhteşem bir bahçe.",
+        "Bir dağın zirvesinde duran devasa bir gemi."
+      ],
+      "answer": "Okyanusun derinliklerinde yaşayan büyük bir deniz canlısının karnı."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Karanlıktan kurtarıldılar; büyük bir kalabalık inandı.",
+        "Alevler soğuyarak yanan bir ateşten kurtulmuş.",
+        "Güçlü bir ulusun lideri oldu ve onları zulümden kurtardı.",
+        "Yıllarca süren duaların ardından yaşlılıkta bir çocuk sahibi olma lütfu kendisine bahşedildi.",
+        "Ona engin bir bilgelik, bir krallık ve rüzgârlar ile cinler üzerinde egemenlik verildi."
+      ],
+      "answer": "Karanlıktan kurtarıldılar; büyük bir kalabalık inandı."
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

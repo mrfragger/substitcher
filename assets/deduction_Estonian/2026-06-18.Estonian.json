@@ -1,0 +1,61 @@
+{
+  "title": "Esimene, kes otsib andestust",
+  "intro": "Astuge tagasi aega enne esimest päikesetõusu, enne kui ükski surelik maa peal elas. Kõige lihtsamast materjalist valmistati kuju, talle anti inglitest kõrgem positsioon ja ta asetati pühasse aeda koos selge hoiatusega. Ometi tehti üheainsa hetkega valik – valik, mis kajas läbi kogu inimkonna ajaloo. Kes see kuju on?",
+  "clues": [
+    "Mind loodi viisil, mis erineb kõigist teistest – mind vormiti maa põrmust ja Looja käsi andis mulle elava hinge.",
+    "Mulle anti nii sügavad teadmised, et isegi taeva inglid imestasid nende üle.",
+    "Kogu taevas kästi minu ees kummardada ja nad kõik alistusid – välja arvatud üks, kes keeldus uhkusest.",
+    "Mind paigutati pühasse aeda, igavese mugavuse ja varustatuse paika – aga ühe range keeluga.",
+    "Ma unustasin, ma libastusin ja ma ei kuulanud sõna – ja ma tundsin oma vea raskust sügavalt.",
+    "Pöördusin oma Issanda poole südamlike sõnadega ja Ta võttis vastu mu meeleparanduse, sest Tema on Kõige Andestavam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Aadam",
+        "Prohvet Dawud",
+        "Prohvet Muhamed",
+        "Iblis",
+        "Prohvet Yaqub"
+      ],
+      "answer": "Prohvet Aadam"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Inglitele anti käsk kummardada",
+        "Suur veeuputus saadeti",
+        "Suur lõke tehti jahedaks ja ohutuks",
+        "Ülbe valitseja uppus merre",
+        "Elevantide armee hävitati"
+      ],
+      "answer": "Inglitele anti käsk kummardada"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Õndsuse aed",
+        "Siinai mägi",
+        "Püha mošee",
+        "Niiluse jõgi",
+        "Koobas"
+      ],
+      "answer": "Õndsuse aed"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Meeleparandus võeti Allahi poolt vastu",
+        "Uppus merre",
+        "Suur kala neelas alla",
+        "Rahvast tabas võimas plahvatus",
+        "Kõrvetav tuul põletas"
+      ],
+      "answer": "Meeleparandus võeti Allahi poolt vastu"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

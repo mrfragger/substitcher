@@ -1,0 +1,61 @@
+{
+  "title": "Bobukami na Libongo",
+  "intro": "Otelemi likolo ya zelo ya libongo oyo babosani, epai wapi mbonge ezali kolobaloba na mongongo ya nse ya lisanga moko oyo emekami na etinda ya bonzambe. Mopepe ezali kilo na bokundoli ya bobukami oyo ememaki na mbongwana ya kokamwa. Milimo yango ezalaki banani, mpe komekama na bango ezalaki ndenge nini?",
+  "clues": [
+    "Tozalaki lisanga oyo ezwaki etinda ya polele uta na Nkolo na biso, nzokande tozwaki banzela ya koboya yango.",
+    "Tozalaki kofanda pene na esika moko ya mai, mpe bomoi na biso etalelaki bikelamu na yango.",
+    "Momekano moko eyaki epai na biso mokolo oyo bapesaki biso mitindo ete tóboya misala ya mokili.",
+    "Bikelamu ya mai eyaki epai na biso na motango monene kaka na mokolo wana, komekaka biso koleka mpiko.",
+    "Tozwaki mayele moko ya mayele mabe mpo na kokima molongo ya bonzambe, kokanisaka ete tokoki koleka mobeko yango na mayele.",
+    "Kobuka mobeko na biso ememaki na mbongwana moko ya nsɔni; tokomaki ba singes oyo batyolamaki na etinda ya Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Sabata",
+        "Bato ya Rass",
+        "Bato ya Tubba",
+        "Bato ya Libulu",
+        "Ba Compagnons ya Fosse"
+      ],
+      "answer": "Bato ya Sabata"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobima ya mbisi na Sabata",
+        "Mbula moko ya kokauka ya makasi",
+        "Limpinga ya bandɛkɛ etindaki bango mpo na kobundisa bango",
+        "Mpela oyo ezindisaki bango",
+        "Koningana ya mabele ya mobulu"
+      ],
+      "answer": "Kobima ya mbisi na Sabata"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mbu ya mbu",
+        "Ngomba moko",
+        "Libulu moko",
+        "Lobwaku moko ya esobe",
+        "Engumba oyo ebatelami makasi"
+      ],
+      "answer": "Mbu ya mbu"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ebongwanaki na ba singes",
+        "Emelami na mabele",
+        "Ebebisami na mopɛpɛ oyo ezalaki koganga",
+        "Bazindaki na mai na mbu",
+        "Abetamaki na mbula ya mabanga"
+      ],
+      "answer": "Ebongwanaki na ba singes"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

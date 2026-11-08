@@ -1,0 +1,61 @@
+{
+  "title": "Uka Pacientejj",
+  "intro": "Nayrajja, jaqenakan nayrïr urunakapanjja, pä almanakaw Luriripan nayraqatapan ofrendanakampi saytʼasipjjäna. Maynix katuqatäxänwa, maynix janiw katuqatäkänti. Kunatix qhipat utjkän ukax nayrïr jach’a jan walt’äwiruw jila kullakanak taypin tukuñapäna - mä pacienciampi jark’aqasiñampi ukat mä q’añu venganzampi. ¿Khitïtsa uk qhanañchtʼasmati?",
+  "clues": [
+    "Jaqenakajj aka Oraqen jakapkäna uka nayrïr urunakanwa nasta",
+    "Nayax nayrïr panin jaqinakan wawapätwa, jupanakax aka uraqin sarnaqapxirïtwa",
+    "Mä kutejja, Luririjar kusisiyañatakejj ovejanakajat wali suma sacrificio loqtjjayäta",
+    "Nayan ofrendajajj alajjpachat katoqatäjjänwa, jilajan ofrendapasti janiw katoqatäkänti",
+    "Jiwayañ ajjsarayapjjetäna ukhajja, jilajar jan amparaj luqtañwa amtayäta",
+    "Jaqinakan sarnaqäwipanx nayrïr jaqiruw tukuwayta, yaqha jaqimp jan wali jiwayata"
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Khitis nayajja?",
+      "options": [
+        "Habil (Abel), Adanan yuqapa",
+        "Qabil (Caín), Adán chachan wawapa",
+        "Adana, nayrïr jaqe",
+        "Nuh (Noé) .",
+        "Ibrahim (Abraham) ukat juk’ampinaka."
+      ],
+      "answer": "Habil (Abel), Adanan yuqapa"
+    },
+    "trial": {
+      "label": "Yant’awi/Evento",
+      "options": [
+        "Jaqinakan sarnaqäwipan nayrïr jiwayawi",
+        "Uka jach’a uma jalsu Nuh",
+        "Fir'awn ejercitopan t'unjäwipa",
+        "Ismail jupan sacrificiopax Ibrahim jupan luratawa",
+        "Jalut (Goliat) sat jaqimp nuwasiñax ."
+      ],
+      "answer": "Jaqinakan sarnaqäwipan nayrïr jiwayawi"
+    },
+    "location": {
+      "label": "Elemento Clave ukax mä juk’a pachanakanwa",
+      "options": [
+        "Mä ovejajj kusiskañ sacrificiot loqtaskäna",
+        "Mä jach’a lawat lurat arca",
+        "Mä thujru, ukax mä katariruw tukuwayi",
+        "Mä hoopoe jamach’ix reyin yatiyawip apt’atawa",
+        "Mä nina nakhaskir trinchera"
+      ],
+      "answer": "Mä ovejajj kusiskañ sacrificiot loqtaskäna"
+    },
+    "outcome": {
+      "label": "Utjiri",
+      "options": [
+        "Jaqinakan sarnaqäwipanx nayrïr jiwayat jaqiruw tukuwayi",
+        "Mä lawat lurat barco manqhan mä jach’a uma jalsut qhispiwayi",
+        "Mä jach’a challwa puraka manqhan jakasïna",
+        "Jinn, jaqinakaru, thayaru apnaqatayna",
+        "Pusi tunka maraw mä jach’a wasaran sarnaqäna"
+      ],
+      "answer": "Jaqinakan sarnaqäwipanx nayrïr jiwayat jaqiruw tukuwayi"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

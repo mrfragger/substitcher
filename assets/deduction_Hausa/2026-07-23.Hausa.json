@@ -1,0 +1,61 @@
+{
+  "title": "Sojojin da Flying Clay ya Cika da Hannu",
+  "intro": "A zamanin kafin Annabi Muhammad, wani babban sarki daga Yemen ya ƙaddamar da wani yaƙin soja da nufin rusa wani wuri mai tsarki a Makka. Wannan abokin gaba ya jagoranci rundunar sojoji mai yawa tare da giwaye na yaƙi, suna da tabbacin ƙarfinsu da yawansu. Duk da haka, tafiyarsu za ta ƙare ba zato ba tsammani yayin da suka fuskanci wani taimako na Allah ba zato ba tsammani. Za ku iya gano waɗanda suka fuskanci wannan babban bincike?",
+  "clues": [
+    "Mun yi tafiya da babbar runduna da giwayen yaƙi masu ƙarfi zuwa gidan alfarma",
+    "Mun yi niyyar rusa wurin ibada da bayin Allah Mai rahama suka gina tare da rusa shi",
+    "An aika da ƙananan tsuntsaye a kanmu, suna ɗauke da duwatsun laka a bakinsu da fikafikansu",
+    "An haɗu da mu da wata ƙara da ta jefa mana duwatsu, ta mayar da mu ragowar da aka tattake",
+    "Na fito ne daga ƙasar Yemen kuma na yi aiki a ƙarƙashin wani mai mulki wanda ya nemi ya gina wurin ibada mai tsarki.",
+    "An sanya mu misali ga waɗanda za su yi ƙarfin halin rushe Haikalin Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Rundunar Abraha al-Ashram",
+        "Sojojin Habasha",
+        "Masu Nasara a Farisa",
+        "Rundunar Romawa",
+        "Mahara Masu Tafiya a Kauye"
+      ],
+      "answer": "Rundunar Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kawance a sansanin soja na hamada",
+        "Kutse a haramin Makkah",
+        "Yaƙin jiragen ruwa a teku",
+        "Tawaye ga azzalumin sarki",
+        "Neman annabin da ya ɓace"
+      ],
+      "answer": "Kutse a haramin Makkah"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kwarin Mina kusa da Makkah",
+        "Fadar Sana'a a Yemen",
+        "Duwatsun Tihamah",
+        "Tsohon birnin Urushalima",
+        "Bakin Tekun Bahar Maliya"
+      ],
+      "answer": "Kwarin Mina kusa da Makkah"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Nasara da lalata gidan alfarma",
+        "Shan kaye da tsuntsayen da ke ɗauke da duwatsun yumbu suka yi",
+        "Mika wuya da kuma tuba cikin lumana",
+        "Yunwa da Bala'i na Halitta",
+        "Ja da baya saboda ruwan sama mai yawa"
+      ],
+      "answer": "Shan kaye da tsuntsayen da ke ɗauke da duwatsun yumbu suka yi"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

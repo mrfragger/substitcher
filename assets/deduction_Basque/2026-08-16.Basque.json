@@ -1,0 +1,61 @@
+{
+  "title": "Ahots isila ganberan",
+  "intro": "Aspaldiko ganbera sakratu baten isiltasunean otoitz bat oihartzun zuen otoitz batek, munduak ezinezkotzat jo zuenaren irrika zuen arima zahartu batetik sortuz. Adinez aurreratua eta etorkizunaren kezkaz zamatuta zegoen figura honek bere Jaunarengana jo zuen erregu pertsonal batekin. Ondoren etorri zena jainkozko erantzuna izan zen, itxaropen natural guztiak gainditu zituena: dei etsiari erantzuten dionaren errukiaren testigantza.",
+  "clues": [
+    "Jaunari dei egin nion bakarka, eta gela batera erretiratu nintzen, non haren gurtzari eskaini nion neure burua.",
+    "Jaunari aitortu nion nire atzetik etorriko zirenen beldur nintzela, eta alde egin ondoren nire herriaren gidaritzaz kezkatuta nengoela.",
+    "Zahartzaroak harrapatu ninduen —hezurrak ahuldu zitzaizkidan eta ile zuria zabaldu zitzaidan buru osoan.",
+    "Nire ezkontidea antzua izan zen bere bizitza osoan, baina hala ere Jaunari eskatu nion bere presentziatik oinordeko bat emateko.",
+    "Seinale bat eskatu nuen, eta Jaunak erantzun zidan hiru gauez inorekin hitz egitea eragotziz, fisikoki osasuntsu nengoen bitartean.",
+    "Yahya izeneko seme bat agindu zidaten, nire Jaunak lehenago inori inoiz eman ez zitzaion izena adierazi zuena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Zakariya profeta",
+        "Nuh profeta",
+        "Musa profeta",
+        "Yusuf profeta",
+        "Dawud profeta"
+      ],
+      "answer": "Zakariya profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Ezkontide antzu batekin zahartzaroan oinordeko baten alde otoitz egitea",
+        "Su bizian botata egotea",
+        "Iluntasunean arrain handi batek irentsi izana",
+        "Familia, aberastasuna eta osasuna galtzea jasaten",
+        "Arka handi bat eraikitzeko agindua jasotzea"
+      ],
+      "answer": "Ezkontide antzu batekin zahartzaroan oinordeko baten alde otoitz egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Otoitz-ganbera (mihraba)",
+        "Suge bihurtu zen makila",
+        "Egurrezko kutxa handi bat",
+        "Udaberri paregabeko lorategia",
+        "Txoriak biltzen ziren mendia"
+      ],
+      "answer": "Otoitz-ganbera (mihraba)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Adin oso zaharreko arren, seme miragarri bat eman zioten",
+        "Jainkozko aginduz su bizitik salbatua",
+        "Uholde handi batek suntsitu zituen sinesgabeak",
+        "Pazientziaren ondoren, familia, aberastasuna eta osasuna berreskuratu ditu",
+        "Faraoia eta bere armada itsasoan ito ziren"
+      ],
+      "answer": "Adin oso zaharreko arren, seme miragarri bat eman zioten"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hlas z okraje",
+  "intro": "Stojíte ve městě, kam přišli tři poslové s jasnými znameními, ale lidé se jim posmívají a lpí na svých starých zvyklostech. Z nejvzdálenější části města se k davu řítí postava, zadýchaná a odhodlaná, aby mluvila pravdu tváří v tvář odmítnutí. Kdo je tato duše, která riskovala všechno pro poselství, které jí nepatří?",
+  "clues": [
+    "Žil jsem mezi lidmi, kteří sice přijali posly s jasnými znameními, ale oni se od nich arogantně odvrátili.",
+    "Když jsem uslyšel volání poslů, přiběhl jsem z nejvzdálenější části města.",
+    "Řekl jsem svému lidu: „Lide můj, následujte posly a následujte ty, kdož od vás nežádají odměnu, neboť ti jsou vedeni správnou cestou.“",
+    "Nebyl jsem prorok, ale věřil jsem poslům a naléhal jsem na svůj lid, aby dělal totéž.",
+    "Moji lidé se posmívali mé radě a obviňovali mě z extremismu.",
+    "Když mě zabili, Alláh mi řekl, abych vstoupil do ráje, a já si přál, aby můj lid poznal odpuštění a úctu, které se mi dostalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Muž z nejvzdálenější části města (Ya-Sin)",
+        "Jeden ze tří poslů vyslaných do města",
+        "Významný obchodník města",
+        "Vládce města",
+        "Vůdce nevěřících"
+      ],
+      "answer": "Muž z nejvzdálenější části města (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Kázal svému lidu, aby následoval posly",
+        "Stavba lodi na záchranu věřících před potopou",
+        "Být vhozen do ohně pro víru",
+        "Být spolknut velrybou",
+        "Dostávajíc království a moudrost"
+      ],
+      "answer": "Kázal svému lidu, aby následoval posly"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Nejvzdálenější část města",
+        "Archa",
+        "Studna",
+        "Hořící keř",
+        "Jeskyně"
+      ],
+      "answer": "Nejvzdálenější část města"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Vstoupil do ráje a přál si, aby jeho lid poznal jeho odpuštění",
+        "Utopil se se svými lidmi za odmítnutí poselství",
+        "Byl mu dán zázrak s velbloudí samicí",
+        "Po soudu se stal vládcem",
+        "Byl zachráněn Alláhem a zůstal se svým lidem"
+      ],
+      "answer": "Vstoupil do ráje a přál si, aby jeho lid poznal jeho odpuštění"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

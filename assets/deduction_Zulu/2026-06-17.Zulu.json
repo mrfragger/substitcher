@@ -1,0 +1,61 @@
+{
+  "title": "I-Echo evela Emaphethelweni Omuzi",
+  "intro": "Emzini owawufulathele isiqondiso saphezulu, kwavela umuntu oyedwa emaphethelweni, egijima nomyalezo wethemba nesixwayiso. Lo mphefumulo okhohliwe wawuzoba uphawu lwaphakade lokholo oluqinile.",
+  "clues": [
+    "Ngibone izithunywa zithunyelwa edolobheni lakithi, kodwa abantu bakithi bazibheka njengabantu abavamile.",
+    "Ngangikholelwa esigijimini sabo futhi ngezwa iqiniso lithinta umzimba wami.",
+    "Ngibize abantu bami ukuba balalele izithunywa ezingacelanga mvuzo.",
+    "Ngabaleka ngisuka ekugcineni kwedolobha, ngizama ngokushesha ukubenza babone isizathu.",
+    "Abantu bami bangivukela, ngabulawa, kodwa ngathola ukuthula okuphakade.",
+    "U-Allah wathi kimi, 'Ngena ePharadesi,' futhi ngangifisa sengathi abantu bami bangabona udumo engilunikwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Ikholwa likaYa-Sin",
+        "U-Uzair Umbuzo",
+        "U-Al-Khidr Umhlahlandlela",
+        "Ikholwa Lomndeni KaFaro",
+        "UNamrud uMbusi Wesihluku"
+      ],
+      "answer": "Ikholwa likaYa-Sin"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukubhekana nabantu abangakholwa abambulala",
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukugwinywa yinhlanzi enkulu",
+        "Ukwakha umkhumbi omkhulu",
+        "Ukubalekela ibutho lombusi oyisiqhwaga"
+      ],
+      "answer": "Ukubhekana nabantu abangakholwa abambulala"
+    },
+    "location": {
+      "label": "Indawo Eyinhloko",
+      "options": [
+        "Ukuphela okude kakhulu komuzi",
+        "Intaba yaseTur",
+        "Isigodi Sezintuthwane",
+        "Amabhange aseNayile",
+        "Umhume womhume"
+      ],
+      "answer": "Ukuphela okude kakhulu komuzi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukufela ukholo nokungena ngokushesha ePharadesi",
+        "Ukuphunyuka kanye nensindiso",
+        "Ukukhuphukela ezulwini",
+        "Ukuminza olwandle",
+        "Ukuphenduka itshe"
+      ],
+      "answer": "Ukufela ukholo nokungena ngokushesha ePharadesi"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

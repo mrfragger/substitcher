@@ -1,0 +1,61 @@
+{
+  "title": "Mîmarê Xeyala Derewîn",
+  "intro": "Kesayetekî xwedî desthilatdariyeke mezin carekê li Misra kevnar xizmeta yek ji tîranên herî navdar ên dîrokê dikir. Fermaneke wêrek li vî kesî hat spartin - ku avahiyek ava bike ku li dijî ezmanan derkeve. Çîroka wan di Quranê de wekî dersek berbiçav radiweste ka çawa guhdana kor a ji bo xudperestiyê tenê dibe sedema hilweşînê.",
+  "clues": [
+    "Min li dadgehên hukumdarekî bihêz xizmet kir ku îdia dikir ku ew li ser axan xweda ye.",
+    "Min di meqamê wezîrtiyê yê bilind de cih girt, û min şîret li zalimê herî xudperest ê serdema xwe dikir.",
+    "Serwerê min bi gefxwarina Xwedayê Mûsa ve mijûl bû, ku wan red kir ku wî nas bikin.",
+    "Ferman ji min re hat dayîn ku ez ji kerpîçên agirpêjkirî bircêk ava bikim da ku hukumdarê min bikaribe ber bi ezmanan ve biçe.",
+    "Birc qet negihîşt asîman, û koletiya min a ji bo xudperestiyê şermezariyeke herheyî ji min re anî.",
+    "Ez bi yê ku min li pey wî çûbû re winda bûm, û navê min bû hişyariyek mayînde li dijî wan kesên ku zordaran teşwîq dikin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Haman",
+        "Azer (bavê Îbrahîm)",
+        "Îlyas (pêxember)",
+        "Zû el-Kifl",
+        "Harût (yek ji du milyaketên li Babîlê)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ferman hat dayîn ku avahiyek bilind ava bike da ku bigihîje ezmanan",
+        "Ji min hat xwestin ku xewnek ji xwedayî şandiye şîrove bikim",
+        "Wek ceribandinek baweriyê hat avêtin nav agirê geş",
+        "Neçar ma ku di navbera text û rastiyê de hilbijêre",
+        "Di pêşbirkeke sêrbaziyê de hat ceribandin"
+      ],
+      "answer": "Ferman hat dayîn ku avahiyek bilind ava bike da ku bigihîje ezmanan"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Qûleyek ji kerpîçên agirpêketî",
+        "Darek ku veguherî mar",
+        "Keştiyek di nav lehiyek mezin re derbas dibe",
+        "Baxçeyek ku bi dîwarên bilind dorpêçkirî ye",
+        "Textekî bi yaqût û zêr xemilandî"
+      ],
+      "answer": "Qûleyek ji kerpîçên agirpêketî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Li kêleka zordar di deryayê de xeniqîn",
+        "Bû padîşahekî bihêz ê erdên berfireh",
+        "Ji agirê geş bê zirar rizgar bûn",
+        "Padîşahiya şehrezayî ya geş ava kir",
+        "Piştî salan ji sirgûnê gihîşt malbata xwe"
+      ],
+      "answer": "Li kêleka zordar di deryayê de xeniqîn"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

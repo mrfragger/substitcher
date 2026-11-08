@@ -1,0 +1,61 @@
+{
+  "title": "Mjenzi wa Vizuizi",
+  "intro": "Katika nchi kubwa, mtu mwenye nguvu alianza mfululizo wa safari, akapewa mamlaka na njia nyingi. Nafsi hii ilikutana na jamii mbalimbali na ikakabiliwa na changamoto za kipekee, ikiacha alama ya kudumu kwenye historia na imani kupitia matendo na hekima yao, huku ikitambua chanzo halisi cha nguvu zao.",
+  "clues": [
+    "Nilipewa mamlaka na uwezo juu ya kila kitu, na nikafuata njia.",
+    "Safari yangu ilinipeleka mahali pa kuchwa kwa jua, ambapo nilipata watu.",
+    "Nilikutana na jamii ambayo haikuweza kuelewa vizuri usemi, ikiishi kati ya milima miwili.",
+    "Niliombwa kujenga kizuizi, si kwa faida yangu binafsi, bali kujilinda dhidi ya nguvu ya uharibifu.",
+    "Nilitangaza kwamba nguvu ya kujenga ukuta huu mkubwa ilitoka kwa Mwenyezi Mungu, na itasimama hadi wakati ulioahidiwa.",
+    "Jina langu, ambalo mara nyingi hutafsiriwa kama 'Yule Mwenye Pembe Mbili,' linamaanisha ufikiaji wangu duniani kote au labda enzi mbili tofauti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Musa",
+        "Nabii Sulayman",
+        "Dhul-Qarnayn",
+        "Farao",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kupokea ufunuo",
+        "Kukabiliana na mtawala wa kidikteta",
+        "Kujenga meli nzuri",
+        "Kujenga kizuizi kikubwa",
+        "Kumezwa na samaki"
+      ],
+      "answer": "Kujenga kizuizi kikubwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Kizuizi cha Chuma",
+        "Mto Nile",
+        "Kiti cha Enzi"
+      ],
+      "answer": "Kizuizi cha Chuma"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Wokovu kutokana na mafuriko",
+        "Kuwa ufalme mkuu",
+        "Ulinzi kwa watu",
+        "Uharibifu wa mkandamizaji",
+        "Hekima ya kudumu"
+      ],
+      "answer": "Ulinzi kwa watu"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

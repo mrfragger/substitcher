@@ -1,0 +1,61 @@
+{
+  "title": "Magaalaa Bade Ulfina Wal Hin Qabne",
+  "intro": "Qaroominni cimaan tokko yeroo tokko lafa balʼaa kan olʼaantummaa qabu siʼa taʼu, caasaa ol kaʼaa gara samiitti gaʼuudhaan kabajama ture. Ta’us guddina kana jalatti, haaluun mata jabeessa guddate — akeekkachiisaa waaqummaa hawaasa keessaa ofii isaatii ergame dhaggeeffachuu diduu. Of tuuluun fi of tuuluun yeroo dhiyootti adabbii akka isaa laftis ta’e samiin argee hin beekne ni fida ture.",
+  "clues": [
+    "Yeroo tokko humna qaroominni biraa wal gitu hin danda’u jennee amanneen of jajnee lafa bal’aa bulchaa turre.",
+    "Mootummaan keenya caasaa ol kaʼaa utubaawwan gurguddaa qaban kan lafa beekamaa hunda irratti dorgomaa hin qabneen beekama ture.",
+    "Akeekkachiisaan hawaasa keenya irraa ka’ee tokkoon tokkoon keenya Uumaa Tokkicha qofaaf akka bitamne nu gaafate.",
+    "Ergaa nuuf dhaqqabe haaluudhaan daandii dhaalne dhiisuu didde.",
+    "Qilleensi aarii guddaa qabuu fi iyyituu hamaa cimaa taʼe nurratti gadi lakkifamee, guutummaatti ofirraa ittisuu akka hin dandeenye nu godhe.",
+    "Akka jirma meexxii qaawwa qabuutti, faffaca’ee fi dagatamee, dhaloota booda hundaaf barumsa ta’ee hafne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata A'ad",
+        "Ummata Nuh",
+        "Ummata Luut",
+        "Ummata Madyan",
+        "Ummata Tubbaa'."
+      ],
+      "answer": "Ummata A'ad"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Bubbee cimaa adabbii cimaa kan hin boqonne",
+        "Lolaa fiixee gaaraa hunda uwwise",
+        "Roobni dhagaa suphee gubaa gubbaadhaa",
+        "Iyya sodaachisaa tokko samii irraa",
+        "Kirkira lafaa hamaa lafa gargar baase"
+      ],
+      "answer": "Bubbee cimaa adabbii cimaa kan hin boqonne"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Iram, magaalaa utubaawwan olka’oo",
+        "Taabotni mukaa guddaa gaara irratti ijaarame",
+        "Gaala dubaraa dinqiidhaan dhagaa keessaa baate",
+        "Tulluu Siinaa bakka abboommiin waaqaa itti bu'e",
+        "Masaraa mootummaa kiristaala fi geejjibaa gaarii bishaan yaa'u ilaalu"
+      ],
+      "answer": "Iram, magaalaa utubaawwan olka’oo"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Akka jirma muka meexxii qaawwa qabuutti hafe, faffaca’ee fi lubbuu hin qabne",
+        "Dambalii lolaa guddaa humna guddaa qabu jalatti liqimfame",
+        "Gara uumamtoota hantuutaa fi allaattii fakkaatanitti jijjiirame",
+        "Roobaa dhagaa suphee jabaate jalatti caccabee",
+        "Iyya gurra namaa dhaamsu tokkoon lubbuu boceen nyaatame"
+      ],
+      "answer": "Akka jirma muka meexxii qaawwa qabuutti hafe, faffaca’ee fi lubbuu hin qabne"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

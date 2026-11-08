@@ -1,0 +1,61 @@
+{
+  "title": "Der Anrufer aus der Tiefe",
+  "intro": "Stell dir eine Seele vor, der eine göttliche Botschaft anvertraut wurde, die aber in einem Anflug von Eile ihr Volk ohne ausdrückliche Erlaubnis verließ. Diese Reise führte sie in eine außergewöhnliche Prüfung, eine tiefgreifende Bewährungsprobe ihrer Geduld und ihres Vertrauens auf den Allerhöchsten. Wer ist diese Person, deren Geschichte uns Reue und die Unermesslichkeit von Allahs Barmherzigkeit lehrt?",
+  "clues": [
+    "Ich wurde in ein großes Land entsandt, aber deren anfängliche Ablehnung hat mich sehr beunruhigt.",
+    "Ich verließ mein Volk im Glauben, meine Mission sei erfüllt, bevor ich den eindeutigen Befehl zum Aufbruch erhielt.",
+    "Ich versuchte, auf einem Schiff mitzufahren, doch ein heftiger Sturm und das Losverfahren führten zu einer verzweifelten Lage.",
+    "Ich wurde ins Meer geworfen, und ein gewaltiges Tiefseewesen verschlang mich im Ganzen.",
+    "In der Dunkelheit seines Inneren rief ich zu Allah, bekannte mein Fehlverhalten und bat Ihn um Vergebung.",
+    "Allah befahl dem Geschöpf, mich an Land zu werfen, und unter einer einzigartigen Pflanze wurde ich wieder gesund."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Yusuf (Joseph)",
+        "Prophet Nuh (Noah)",
+        "Prophet Yunus (Jona)",
+        "Prophet Sulaiman (Salomo)",
+        "Prophet Ayyub (Hiob)"
+      ],
+      "answer": "Prophet Yunus (Jona)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Spaltung des Meeres",
+        "Das Feuer Nimrods",
+        "Von einem großen Fisch verschluckt werden",
+        "Die Flut",
+        "Die Zerstörung einer Stadt durch Steine"
+      ],
+      "answer": "Von einem großen Fisch verschluckt werden"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Der Bauch des Fisches",
+        "Der Brunnen",
+        "Der brennende Dornbusch"
+      ],
+      "answer": "Der Bauch des Fisches"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde ein großer Herrscher",
+        "Errichtete die Kaaba",
+        "Kehrte zurück, um eine reumütige Nation zu führen",
+        "Ihm wurde die Herrschaft über die Dschinn gegeben",
+        "Führte Menschen durch die Wüste"
+      ],
+      "answer": "Kehrte zurück, um eine reumütige Nation zu führen"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

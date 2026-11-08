@@ -1,0 +1,61 @@
+{
+  "title": "Martorii pieriți",
+  "intro": "Într-o epocă demult trecută, o comunitate trăia la o răscruce de drumuri între imperii. Profetul lor i-a chemat pe calea adevărului, însă ei s-au agățat de necredință și opresiune. Această poveste se încheie cu o pedeapsă divină. Poți identifica această națiune și soarta ei din indiciile de mai jos?",
+  "clues": [
+    "Un popor a respins avertismentul adus de unul dintre propriii săi mesageri.",
+    "Mesagerul ne-a chemat să-l adorăm doar pe Allah și ne-a avertizat împotriva corupției.",
+    "Păcatul nostru a fost respingerea profetului trimis printre noi cu dreptate.",
+    "Ne-am îndoit de autoritatea mesagerului și l-am acuzat de înșelăciune.",
+    "Pedeapsa ne-a surprins în timp ce locuiam în siguranță în casele noastre.",
+    "Am fost distruși pentru că l-am tăgăduit pe profetul nostru și i-am persecutat pe credincioși."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Șu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Șu'aib"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Primirea unui profet care a chemat la dreptate",
+        "Fiind testat cu o foamete",
+        "Interpretarea unui vis",
+        "Primirea Torei",
+        "Călătorind prin mare"
+      ],
+      "answer": "Primirea unui profet care a chemat la dreptate"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Madian",
+        "Babilon",
+        "Sodoma",
+        "Marea Roșie",
+        "Arca"
+      ],
+      "answer": "Madian"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Oamenii au fost distruși din cauza necredinței lor",
+        "Oamenii s-au pocăit și au fost îndrumați",
+        "Oamenii au intrat în Paradis",
+        "Oamenii au supraviețuit și au prosperat",
+        "Oamenii au migrat într-o țară nouă"
+      ],
+      "answer": "Oamenii au fost distruși din cauza necredinței lor"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

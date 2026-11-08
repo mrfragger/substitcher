@@ -1,0 +1,61 @@
+{
+  "title": "Nuolankūs tiesos ieškotojai",
+  "intro": "Senovės galios ir magijos šalyje prasideda didysis susidūrimas. Viena pusė naudojasi dieviškų ženklų autoritetu, o kita bando prilygti neįmanomam. Rezultatas amžiams pakeis istorijos eigą. Ar galite atskleisti tų, kurie išvydo galutinę tiesą ir nusižemino prieš ją, tapatybę?",
+  "clues": [
+    "Mes matėme ženklus, kurie pranoko burtininkų triukus",
+    "Visi puolėme krūpčioti, negalėdami paneigti tiesos",
+    "Mes pripažinome, kad šie ženklai atėjo iš Vieno Tikrojo Dievo",
+    "Mes buvome pirmoji bendruomenė, kuri taip dramatiškai priėmė tikėjimą",
+    "Už tikėjimą mums buvo pažadėtas rojus",
+    "Mūsų virvės ir lazdos mūsų akyse virto gyvatėmis, tačiau mes pasirinkome paklusnumą"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Faraono magai",
+        "Pranašo Ibrahimo žmonės",
+        "Nuolankūs tiesos ieškotojai",
+        "Olos žmonės",
+        "Karalienės Bilqis tauta"
+      ],
+      "answer": "Faraono magai"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Susitikimas su pranašo Mozės personalu",
+        "Pranašo Hudo vėjo išbandymas",
+        "Pranašo Saleho kupranugario iššūkis",
+        "Didysis potvynis buvo atsiųstas pranašui",
+        "Pranašo kelionė banginio viduje"
+      ],
+      "answer": "Susitikimas su pranašo Mozės personalu"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Senovės Egiptas",
+        "Šventieji namai Mekoje",
+        "Midjano miestas",
+        "Tamudo dykuma",
+        "Senovės miegančiųjų ola"
+      ],
+      "answer": "Senovės Egiptas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Rojus kaip jų atlygis",
+        "Bausmė kape",
+        "Jų gausių sodų praradimas",
+        "Sunaikinimas dėl staigaus žemės drebėjimo",
+        "Gelbėjimas nuo didžiojo banginio"
+      ],
+      "answer": "Rojus kaip jų atlygis"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

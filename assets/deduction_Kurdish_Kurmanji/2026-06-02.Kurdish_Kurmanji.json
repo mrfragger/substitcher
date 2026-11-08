@@ -1,0 +1,61 @@
+{
+  "title": "Parêzvanê Deriyê Roja Hilatina",
+  "intro": "Di seranserê Quranê de, hin giyan li ser erdê digerin û şopên şehrezayî û ecêbmayî dihêlin. Kesayetiyek wisa rêwîtî kiriye heta xalên herî dûr ên afirandinê - li cihê ku roj hiltê û diçe ava, li cihê ku astengiyek kaosê digire. Ji vî xizmetkarê Xwedê re padîşahiyek hat dayîn ku êdî kes nikare xwediyê wê bibe. Bi sê rêwîtiyên cuda, armanca vî kesî eşkere bû. Hûn dikarin vî gerokê efsanewî ji nav siya dîrokê nas bikin?",
+  "clues": [
+    "Xwedayê Herî Dilovan desthilat da min ku ez li ser erdê bi awayekî ku kesekî din heta niha bi dest nexistiye, hikum bikim.",
+    "Ez ber bi rojava ve çûm heta ku gihîştim cihê ku roj lê diçe ava, min dît ku ew di kaniyek tarî de diçe ava, û min li wir gelek kes dîtin.",
+    "Ez ber bi rojhilat ve çûm heta ku ez gihîştim cihê ku roj lê hiltê, û min dît ku ew li ser miletekî hiltê ku Me ji bo wan tu stargehek peyda nekiribû.",
+    "Ez di navbera wan herdu xalên dawî de rêwîtî kirim heta ku ez gihîştim geliyekî di navbera du çiyayan de, li wir min gelek dît ku bi zorê dikarîn axaftinê fêm bikin.",
+    "Min li ser çiyê du astengên hesinî yên hişk dîtin ku ber bi rast û çepê ve dirêj dibûn, û di navbera wan de rêyek teng hebû. Van mirovan ji min xwestin ku ez astengiya ku kaosê asteng dikir bişkînim.",
+    "Min eşyayên xwe hilda û got: 'Dema ku asteng derbas bibe, ev dê di navbera me û vî gelî de cudahîyek eşkere be.' Û gava wextê diyarkirî hat, min temaşe kir ku çawa asteng di dawiyê de şikest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Zû el-Qarneyn",
+        "Pêxember Suleyman",
+        "Pêxember Îbrahîm",
+        "Padîşahê Ghassaniyye",
+        "Zulqerneynê Gerok"
+      ],
+      "answer": "Zû el-Qarneyn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Şikandina astengiya hesinî ji bo xelkê Yecûc û Mecûc",
+        "Avakirina Keştiyê di bin fermana pêxemberekî de",
+        "Avakirina perestgehek li Orşelîmê",
+        "Derbaskirina Deryaya Sor bi mirovên bawermend re",
+        "Avakirina bendavekê ji bo parastina neteweyek adil"
+      ],
+      "answer": "Şikandina astengiya hesinî ji bo xelkê Yecûc û Mecûc"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Sînorê hesinî di navbera du çiyayan de",
+        "Keştî li ser çiyayekî lenger kir",
+        "Mala pîroz a îbadetê li Orşelîmê",
+        "Çem li welatê Misrê",
+        "Kaniya bereketê li Medyenê"
+      ],
+      "answer": "Sînorê hesinî di navbera du çiyayan de"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Dema ku wextê diyarkirî hat, asteng hate şikandin û kaos belav bû.",
+        "Kafir hatin xeniqandin lê bawermend hatin rizgarkirin",
+        "Yên rast ber bi bihuşta herheyî ve hatin rêber kirin",
+        "Bajar ji ber bayê qîrînê wêran bû",
+        "Pût hatin şikandin û mirovan tobe kir"
+      ],
+      "answer": "Dema ku wextê diyarkirî hat, asteng hate şikandin û kaos belav bû."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

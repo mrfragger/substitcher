@@ -1,0 +1,61 @@
+{
+  "title": "Neomajni zaveznik v preizkušnji zlata",
+  "intro": "V senci velikega preroka je bila izbrana duša zgovornosti in vere, da bi pomagala pri monumentalnem poslanstvu. Ta osebnost je ostala neomajna, ko so množice omahovale, in pridigala proti očitnemu prestopku, ki je ogrožal samo jedro monoteizma. Ko se je prerok vrnil, da bi bil priča ljudskemu padcu, njegova obramba ni bila krivda, temveč dolžnost in strah pred razdorom. Kdo je ta predani Alahov služabnik?",
+  "clues": [
+    "Alah me je izbral za sveto dolžnost skupaj z nekom drugim, moja vloga pa je bila podpora in oznanjevanje.",
+    "Dana mi je bila jasnost govora in spremljal sem glasnika, da se je soočil z močnim zatiralcem.",
+    "Med ključnim potovanjem se je sel sam povzpel na goro, mene pa je pustil, da sem bdel nad ljudmi.",
+    "V njihovi odsotnosti so ljudje izdelali zlato podobo in jaz sem jih prosil, naj ostanejo zvesti, vendar so zavrnili moj nasvet.",
+    "Ko se je sel vrnil, poln jeze in žalosti, so me zgrabili, vendar sem jim razložil, da so me premagali in da se bojijo, da bom med njimi povzročil razdor.",
+    "Jaz sem prerok, ki je stal ob Musi, svojem bratu, delil njegovo breme in ostal neomajno proti malikovanju."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Harun",
+        "Prerok Musa",
+        "Prerok Isa",
+        "Prerok Davud",
+        "Prerok Zakarija"
+      ],
+      "answer": "Prerok Harun"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ljudje so častili zlato tele kljub opozorilom",
+        "Ljudje so me vrgli v goreči ogenj",
+        "Požrla me je velika riba",
+        "Zaprli so me na podlagi lažnih obtožb",
+        "Izgnali so me iz mojega mesta zaradi pridiganja"
+      ],
+      "answer": "Ljudje so častili zlato tele kljub opozorilom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlato tele",
+        "Goreči grm",
+        "Palica, ki se je spremenila v kačo",
+        "Tablice zaveze",
+        "Skrinja zaveze"
+      ],
+      "answer": "Zlato tele"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Bil sem oproščen in nadaljeval sem svoje preroško poslanstvo.",
+        "Kaznovan sem bil za grehe ljudstva",
+        "Dobil sem nov narod za vodenje",
+        "Živ sem bil vzet v nebesa",
+        "Postavljen sem bil za vladarja kraljestva"
+      ],
+      "answer": "Bil sem oproščen in nadaljeval sem svoje preroško poslanstvo."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

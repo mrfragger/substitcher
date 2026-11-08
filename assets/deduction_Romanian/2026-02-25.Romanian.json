@@ -1,0 +1,61 @@
+{
+  "title": "Testul Stâncii Stearpe",
+  "intro": "O comunitate pricepută și mândră și-a sculptat moștenirea chiar în munți. Dar când le-a fost trimis un semn clar, un test al credinței și al stăpânirii, aroganța lor i-a condus pe o cale fără întoarcere. Poți identifica acest grup și consecințele sfidării lor?",
+  "clues": [
+    "Eram maeștri ai pietrei, sculptând locuințe magnifice direct în versanții munților.",
+    "Un mesager din poporul nostru a venit la noi, chemându-ne să ne închinăm Singurului Dumnezeu Adevărat.",
+    "Am cerut un semn care să-i dovedească cuvintele și o creatură unică a fost adusă ca o probă pentru noi.",
+    "Ni s-a dat o poruncă simplă: să împărțim sursa noastră de apă cu această creatură, lăsând-o să bea în ziua stabilită.",
+    "În aroganța noastră, câțiva dintre noi au conspirat și am sfidat avertismentul, doborând creatura care trebuia să fie semnul nostru.",
+    "Ni s-au dat trei zile până la sfârșitul nostru, apoi o explozie puternică ne-a cuprins în casele noastre, lăsându-ne fără viață și răsturnați."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oamenii din 'Ad",
+        "Oamenii din Madyan",
+        "Oamenii din Thamud",
+        "Oamenii din Saba",
+        "Oamenii din Lut"
+      ],
+      "answer": "Oamenii din Thamud"
+    },
+    "trial": {
+      "label": "Care a fost testul nostru principal?",
+      "options": [
+        "Construirea unei arce pentru a supraviețui unui potop",
+        "Rezistența la tentația de a pescui în ziua de Sabat",
+        "Renunțarea la practicile comerciale frauduloase",
+        "Protejarea unei cămile miraculoase",
+        "Îndurarea unei foamete de șapte ani"
+      ],
+      "answer": "Protejarea unei cămile miraculoase"
+    },
+    "location": {
+      "label": "Care a fost elementul central al poveștii noastre?",
+      "options": [
+        "Vițelul de Aur",
+        "Cămila",
+        "Toiagul profetului Musa",
+        "Marele Baraj din Ma'rib",
+        "Masa întinsă din ceruri"
+      ],
+      "answer": "Cămila"
+    },
+    "outcome": {
+      "label": "Care a fost soarta noastră finală?",
+      "options": [
+        "Înecat într-un mare potop",
+        "Transformați în maimuțe și porci",
+        "Copleșit de un vânt furios",
+        "Împrăștiate de spargerea unui baraj",
+        "Distrus de o explozie/cutremur puternic"
+      ],
+      "answer": "Distrus de o explozie/cutremur puternic"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

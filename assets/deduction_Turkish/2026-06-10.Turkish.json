@@ -1,0 +1,61 @@
+{
+  "title": "Bahçenin Koruyucuları",
+  "intro": "Yemyeşil bir bahçede, bir topluluk ciddi bir yemin etti. Ancak ilahi iradenin müdahalesiyle kararlılıkları sınandı ve bereketli bahçeleri çorak bir toprağa dönüştü.",
+  "clues": [
+    "Bereketli bir bahçeye sahip olma şansına eriştik, ama kibirlendik.",
+    "Yoksullarla paylaşmadan hasat yapma planı yaptık.",
+    "Planımıza güvenerek sabahın erken saatlerinde yola koyulduk.",
+    "Ama vardığımızda bahçemizin bir gecede tahrip edildiğini gördük.",
+    "Hatayı fark ettik ve birbirimizi suçlamaya başladık.",
+    "Sonunda tövbe ettik, ama dersi çok geç öğrendik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Bahçe Halkı",
+        "Mağara Halkı",
+        "Fil Halkı",
+        "Thamud Halkı",
+        "'Ad' halkı"
+      ],
+      "answer": "Bahçe Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kül yığınına dönmüş bir bahçe",
+        "Her şeyi yok eden bir sel.",
+        "Ülkeyi vuran bir kıtlık",
+        "Kuşlardan oluşan bir ordu saldırıyor",
+        "Ağaçları kökünden söken şiddetli bir rüzgar."
+      ],
+      "answer": "Kül yığınına dönmüş bir bahçe"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir bahçe",
+        "Bir mağara",
+        "Bir gemi",
+        "Bir dağ",
+        "Bir saray"
+      ],
+      "answer": "Bir bahçe"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Pişman oldular ama bahçelerini kaybettiler.",
+        "Tamamen yok edildiler.",
+        "Onlar maymuna dönüştürüldüler.",
+        "Onlar iman sayesinde kurtuldular.",
+        "Onlar yönetici oldular."
+      ],
+      "answer": "Pişman oldular ama bahçelerini kaybettiler."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

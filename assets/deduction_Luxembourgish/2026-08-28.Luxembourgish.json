@@ -1,0 +1,61 @@
+{
+  "title": "D'Hindernis am Alen Haus",
+  "intro": "An der helleger Stad huet eng mächteg Figur vir Roserei gekacht, wéi sech eng nei Botschaft ugefaangen huet ze verbreeden. Dës Persoun, där hiren Numm synonym fir Oppositioun géint d'Wourecht gouf, huet hiren Afloss ënner dem Gewiicht vun der gëttlecher Offenbarung zerbriechen gesinn. Wien war dës Séil, där hiert Schicksal am Sand vun engem berühmte Schluechtfeld versiegelt war?",
+  "clues": [
+    "Ech war e Chef ënner mengem Vollek, bekannt fir mäi Räichtum an Afloss an enger Stad, déi en antikt Hellegtum hat.",
+    "Wéi e Mann aus mengem Stamm ugefaangen huet, eng Botschaft vun engem Gott ze verkënnegen, hunn ech hien a seng Offenbarunge veruerteelt a se nëmme Geschichten aus der Vergaangenheet genannt.",
+    "Ech hunn dee Mann konfrontéiert, wéi hien no beim hellege Gebai gebiet huet, a gedreet, säi Gottesdéngscht, wann et néideg wier, mat Gewalt ze stoppen.",
+    "Ech war ee vun de Leader, déi geplangt hunn, den neie Glawen zum Schweigen ze bréngen, andeems se sech géint seng Unhänger mat Wierder a Waffen ausgeschwat hunn.",
+    "Ech sinn mat enger Arméi op eng Plaz mam Numm Badr marschéiert, zouversiichtlech, datt mir déi kleng Grupp vu Gleewegen zerstéiere géifen.",
+    "Mä op deem Schluechtfeld ass mäi Liewen op en Enn gaangen, a mäin Doud ass eng Lektioun fir déi ginn, déi no kloere Zeeche weiderhin ongleewe bleiwen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "De Prophet dovun ofhalen, am Kaaba ze bieden",
+        "De Bau vun der Kaaba",
+        "De Koran schreiwen",
+        "D'Arméi vum Elefant féieren",
+        "De Mound opdeelen"
+      ],
+      "answer": "De Prophet dovun ofhalen, am Kaaba ze bieden"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Kaaba",
+        "D'Ark vum Prophet Noh",
+        "De Stab vum Prophet Musa",
+        "Dat gëllent Kalb",
+        "Den Troun vun der Kinnigin vu Scheba"
+      ],
+      "answer": "D'Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gestuerwen an der Schluecht vu Badr",
+        "Huet sech bekéiert a gouf Moslem",
+        "An Abessinien geflücht",
+        "Gestuerwen am Joer vum Elefant",
+        "Ass e Begleeder vum Prophet ginn"
+      ],
+      "answer": "Gestuerwen an der Schluecht vu Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

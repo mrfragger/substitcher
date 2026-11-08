@@ -1,0 +1,61 @@
+{
+  "title": "Baatu dëggu jamono yu yàgg ya",
+  "intro": "Amna ruuh ci Al Quran buñu nettali jaar-jaaram ci ay aaya yu néew, waaye seeni jikko yu rafet dañu leer nàññ. Jaamu Yàlla bu mag bii dafa màggal Yàlla ndax jikko ju baax ju amul fenn, te mingi am palaas ci xëti wahyu yi. Li nga wara def mooy ràññee nit ku am solo kii. Ndax mën nga xalaat ñooy kan?",
+  "clues": [
+    "Man yonent Yàlla laa bu dëkkoon ci biir nit ñu njëkk ñi.",
+    "Yàlla daf ma tuddee ci téeréem man ak yeneen yonent, ñu gërëm ñépp ci benn jikko ju rafet ji.",
+    "Al Quran daf may wax ni nit ku dëggu laa.",
+    "Allah yékkati nama ci rang bu kawe boo xamni ñu néew ñoo ko mëna yegg.",
+    "Sama tur mingi ci Surah Al-Anbiya, boole ci ñaari yeneen yonent yuñ sargal ci seen muñ.",
+    "Man maay Idris, yonent bu dëggu te kawe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Seydina Idris",
+        "Yonent-Yàlla Nuh",
+        "Yonent-Yàlla Ibraahim",
+        "Boroom bi Musa",
+        "Boroom bi Ismayil"
+      ],
+      "answer": "Seydina Idris"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Fexe am dal ak dëggu, ba noppi yéegal ko ci rang bu kawe",
+        "Tabax gaal gu mag ngir muccal gëmkat yi ci mbënd miy yàq",
+        "Ñu sànni ko ci safara gu tàng, mu génn ci dara te dara dalu ko",
+        "Di xeex ak buur bu am doole, di daan larme luxuskat yi",
+        "Muy dundu ci biir biir jën wu mag ci xóotaayu géej gi"
+      ],
+      "answer": "Fexe am dal ak dëggu, ba noppi yéegal ko ci rang bu kawe"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Station bu kawe te yéeg ci Yàlla",
+        "Gaal gu rëy ñu defaree ko ay plank, ñu defaree ko goudron",
+        "Safara bu tàng bu jaamu yàlla yu benn buur bu soxor di lakk",
+        "Geej gu yaatu gu xaajaloo ay yoon yu wow",
+        "Biir bu ñuul bu baleine bu mag ci suufu géej gi"
+      ],
+      "answer": "Station bu kawe te yéeg ci Yàlla"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Duggu ci yërmandé Yàlla nekk kenn ci ñu baax ñi",
+        "Mucc nañu ko ak gëmkat yépp ci mbënd mi dal àdduna bi yépp",
+        "Dox genni ci xal yi te laal wuñu ko",
+        "Yobbu nañu doomi Israyil ci jàmm, ñu jàll géej gi, ñu moom seen bopp.",
+        "Ñu dajewaat ak seen njaboot ginaaw ay at yu metti"
+      ],
+      "answer": "Duggu ci yërmandé Yàlla nekk kenn ci ñu baax ñi"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

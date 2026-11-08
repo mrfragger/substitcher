@@ -1,0 +1,61 @@
+{
+  "title": "Nasiono niezgody",
+  "intro": "Zanim świat poznał powszechny konflikt, nastąpiła głęboka próba wiary i posłuszeństwa. Ta opowieść zgłębia wybory dokonane przez jednostkę, której działania ustanowiły precedens dla przyszłych pokoleń. Przygotuj się na odkrycie historii duszy zmagającej się z ogromną zazdrością i jej niszczycielskimi konsekwencjami.",
+  "clues": [
+    "Byłem wśród pierwszych dzieci, które chodziły po Ziemi, dzieckiem pierwszej ludzkiej pary.",
+    "Mnie i mojemu bratu nakazano złożyć ofiarę Allahowi, co miało być testem naszej szczerości.",
+    "Moja ofiara nie została przyjęta, natomiast ofiara mojego brata tak, co napełniło moje serce straszliwym wzruszeniem.",
+    "Wypowiedziałem słowa groźby pod adresem mojego brata, powodowany goryczą odrzucenia.",
+    "Mój brat odpowiedział mądrze i pobożnie, przypominając mi o sprawiedliwości Allaha i bojaźni przed Nim.",
+    "Pomimo łagodnych słów mojego brata i jego chęci wybaczenia, odebrałem życie i stałem się jednym z przegranych."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Adam",
+        "Iblis",
+        "Prorok Noh",
+        "Kabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wielka powódź",
+        "Rozdzielenie morza",
+        "Budowa Kaaby",
+        "Składanie ofiar",
+        "Pokusa w Ogrodzie"
+      ],
+      "answer": "Składanie ofiar"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Góra Safa",
+        "Ofiara",
+        "Płonący krzew"
+      ],
+      "answer": "Ofiara"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zostałem posłańcem",
+        "Utonął",
+        "Zbudował wielkie królestwo",
+        "Stał się przykładem żalu",
+        "Otrzymał ogromne bogactwo"
+      ],
+      "answer": "Stał się przykładem żalu"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Gizlenmiş İnancın Sesi",
+  "intro": "İnançsızlığın kanun sayıldığı zalim bir sarayın kalbinde, yalnız bir ruh inanç ve korku arasında ince bir çizgide yürüyordu. Gücün merkezine yakın olan bu kişi, bir peygamberin mesajının alay ve tehditlerle karşılanmasına şahit oldu. Bir gerçekle yüzleşme anı geldi ve bu kişiyi sessiz bir güvenlik ile tehlikeli bir gerçeği dile getirmek arasında seçim yapmaya zorladı. Bu cesur savunucunun kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Bir tiranın evinde yaşadım ve ilahi işaretleri reddeden kibire bizzat şahit oldum.",
+    "İnancımı bir sır olarak sakladım, putperestlik sarayında gizli bir hazine gibi.",
+    "Hizmet ettiğim liderin, Allah'ın elçisi Musa adındaki bir adamı öldürmeyi planladığını duydum.",
+    "Onların mantığını sorguladım ve Nuh, Ad ve Semud kavimlerinin başına gelenleri hatırlattım.",
+    "Halkıma kritik bir soru yönelttim: 'Eğer yalancıysa, yalanı kendi elindedir; ama eğer doğru söylüyorsa, vaatlerinin bir kısmı sizi şaşırtacaktır.'",
+    "Hikâyem, 'Bağışlayan' suresinde imanın bir örneği olarak anlatılır; orada halkımı güçlülerin hilelerine karşı uyardım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Fir'awn'ın Ailesinden İnanan Kişi",
+        "Haman",
+        "Fir'awn'ın Büyücüleri",
+        "Karun",
+        "Samiri"
+      ],
+      "answer": "Fir'awn'ın Ailesinden İnanan Kişi"
+    },
+    "trial": {
+      "label": "Yargılanmam Nasıl Geçti?",
+      "options": [
+        "Zalim hükümdarın sarayında Peygamber Musa'yı savunmak",
+        "Gökyüzüne ulaşmak için yüksek bir kule inşa etmek",
+        "Alev alev yanan bir ateşe atılmak",
+        "Dev bir balık tarafından yutulmak",
+        "Tüm servetini ve sağlığını kaybetmek"
+      ],
+      "answer": "Zalim hükümdarın sarayında Peygamber Musa'yı savunmak"
+    },
+    "location": {
+      "label": "Tartışmamın Teması Neydi?",
+      "options": [
+        "Bir peygamberin mesajını reddetmenin sonuçları",
+        "Kutsal bir ağaçtan işaret isteme talebi",
+        "Erimiş mücevherden bir buzağı yaratılması",
+        "Kayadan çıkan devenin mucizesi",
+        "Bir hükümdarın rüyalarının yorumlanması"
+      ],
+      "answer": "Bir peygamberin mesajını reddetmenin sonuçları"
+    },
+    "outcome": {
+      "label": "Sonuç Ne Oldu?",
+      "options": [
+        "Allah bu kişiyi onların kötü planlarından kurtardı.",
+        "Mahkemenin tamamı İslam'ı hemen kabul etti.",
+        "Zalim hükümdar boğulma anında pişman oldu.",
+        "Zalim hükümdar yer tarafından yutuldu.",
+        "Söz konusu kişi uzak bir ülkeye sürgün edildi."
+      ],
+      "answer": "Allah bu kişiyi onların kötü planlarından kurtardı."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

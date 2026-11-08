@@ -1,0 +1,60 @@
+{
+  "title": "Sephiri sa Terone e Hōle",
+  "intro": "Morena ea matla, ea hlohonolofalitsoeng ka puso e ikhethang, o ile a tobana le phephetso e ikhethang e amang mofumahali ea tsoang naheng e hōle. Morena o ile a batla ho bontša matla le bohlale ba bomolimo, a qala ketsahalo e makatsang e neng e hanyetsa melao ea nako le sebaka. Na u ka fumana lintlha tsa ketsahalo ena e makatsang?",
+  "clues": [
+    "’Musi o ne a filoe matla a maholo, ho kenyeletsoa le taolo holim’a libōpuoa tse sa bonahaleng le bokhoni ba ho laola meea.",
+    "’Musi enoa o ile a fumana litaba tsa mofumahali ea ruileng ea neng a rapela letsatsi, ’me a etsa qeto ea ho mo mema lekhotleng.",
+    "Pele mofumahali a fihla, ’musi o ile a bontša takatso ea ho tlisa setulo sa hae se setle sa matla ho tsoa ’musong oa hae o hōle.",
+    "Lejini le matla le ile la ithaopela ho lata ntho eo pele ’musi a ka ema lekhotleng la hae.",
+    "Leha ho le jwalo, motho ya nang le tsebo e tebileng ya Mangolo a Halalelang o ile a fana ka ho kgutlisa Mangolo ka potlako le ho feta, a phetha mosebetsi ka ho panya ha leihlo.",
+    "Ha e fihla, mmusi o ile a laela hore ntho eo e fetoloe ho leka kelello le temoho ea mofumahali ha a qetella a fihlile ntlong ea borena."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Moprofeta/Motho",
+      "options": [
+        "Moprofeta Moshe",
+        "Moprofeta Davida",
+        "Moprofeta Ibrahim",
+        "Moprofeta Yusuf",
+        "Moprofeta Sulayman"
+      ],
+      "answer": "Moprofeta Sulayman"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho Petsoha ha Leoatle",
+        "Mamello Mahlomoleng",
+        "Kaho ea Kaaba",
+        "Teko ea Lirapa",
+        "Ho Tlisa Terone ea Mofumahali"
+      ],
+      "answer": "Ho Tlisa Terone ea Mofumahali"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Areka",
+        "Basebetsi",
+        "Thaba",
+        "Seliba",
+        "Terone"
+      ],
+      "answer": "Terone"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Sehlabelo se seholo",
+        "'Muso oa thehoa",
+        "Sechaba se otlwa",
+        "Selekane se secha",
+        "Boikokobetso ba Mofumahali ho Allah"
+      ],
+      "answer": "Boikokobetso ba Mofumahali ho Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

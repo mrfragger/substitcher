@@ -1,0 +1,61 @@
+{
+  "title": "Déi gedëlleg Séil vum Hellegen Haus",
+  "intro": "Op de Säite vum Koran erschéngt eng Figur aus der Linn vun engem grousse Prophet, deen am Alter als Kaddo geschenkt gouf. Dës Séil gëtt fir hir onerschütterlech Wourecht a fir eng déifgräifend Roll bei der Grënnung vun engem Hellegtum gefeiert, dat zu engem Liichttuerm vum Glawen sollt ginn. Wärend Dir d'Hiweiser liest, lauschtert gutt op d'Stëmm aus der Vergaangenheet, well se an der éischter Persoun schwätzt.",
+  "clues": [
+    "Ech ginn am Koran zesumme mat engem anere Prophet als Kaddo ernimmt, dat engem eelere Messenger ginn ass.",
+    "Ech war ee vun zwee Nokommen, déi dësem Prophet a senge spéidere Jore geschenkt goufen.",
+    "Ech ginn am Koran gelueft dofir, datt ech mengem Wuert trei bleiwen.",
+    "Ech hat d'Éier vun der Prophetschaft gedroen a gouf als Bote geschéckt.",
+    "Ech hunn zesumme mat mengem Papp d'Fundamenter vum Hellegen Haus gebaut.",
+    "Ech ginn als ee vun de Gedoldsleit an Erënnerung behalen, an dat hellegt Haus, dat mir gebaut hunn, ass fir d'Leit zu enger Plaz vum Réckkommen a Sécherheet ginn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Ismail",
+        "De Prophet Ishaq",
+        "Prophet Yaqub",
+        "De Prophet Zakariya",
+        "De Prophet Yahya"
+      ],
+      "answer": "Prophet Ismail"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Grondlage vum Kaaba mam Ibrahim opzeriichten",
+        "An e Feier gehäit ginn",
+        "Vun engem Wal verschléckt ginn",
+        "D'Israeliten aus Ägypten erausféieren",
+        "Eng Ark bauen"
+      ],
+      "answer": "D'Grondlage vum Kaaba mam Ibrahim opzeriichten"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Kaaba",
+        "Bierg Sinai",
+        "D'Rout Mier",
+        "Dat gëllent Kalb",
+        "De Gaart vun Eden"
+      ],
+      "answer": "D'Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Zu de Patienten gezielt",
+        "Zu den Ongerechten gezielt",
+        "Zu de Magier gezielt",
+        "Zu den Ongleewegen gezielt",
+        "Zu den Heuchler gezielt"
+      ],
+      "answer": "Zu de Patienten gezielt"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

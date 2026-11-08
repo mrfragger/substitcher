@@ -1,0 +1,61 @@
+{
+  "title": "Les habitants des deux jardins",
+  "intro": "Dans un pays où les bienfaits abondaient, une communauté jouissait jadis de la générosité de deux magnifiques jardins. Leurs vies témoignaient de la faveur divine, mais leur histoire prit un tournant lorsque leur gratitude s'estompa, entraînant une transformation qui deviendrait un signe durable pour tous ceux qui y réfléchissent.",
+  "clues": [
+    "Nous étions un peuple béni, vivant dans une terre de facilité et d'abondance.",
+    "Notre Seigneur nous a accordé deux jardins splendides, luxuriants et fertiles de tous côtés.",
+    "Il nous a été commandé d'être reconnaissants, mais nous avons choisi l'ingratitude et nous nous sommes détournés.",
+    "Un grand barrage retenait les eaux qui donnaient vie à notre terre.",
+    "Lorsque nous avons persisté dans nos méfaits, le barrage a cédé et les eaux de l'inondation ont tout emporté.",
+    "Nos jardins, jadis luxuriants, ont été remplacés par des arbres fruitiers amers, des tamaris et quelques lotus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le peuple de Saba",
+        "Le peuple de Thamud",
+        "Le peuple de Madyan",
+        "Les Compagnons de la Caverne",
+        "Le peuple de l'éléphant"
+      ],
+      "answer": "Le peuple de Saba"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Un vent violent pendant sept nuits",
+        "Une pluie de pierres tombant du ciel",
+        "Une inondation dévastatrice provoquée par la rupture d'un barrage",
+        "Un cri strident venu du ciel",
+        "Se noyer dans la mer"
+      ],
+      "answer": "Une inondation dévastatrice provoquée par la rupture d'un barrage"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le grand barrage de Ma'rib",
+        "La vallée de Wadi al-Qura",
+        "Le jardin d'Iram",
+        "Le puits de Zamzam",
+        "La montagne du Sinaï"
+      ],
+      "answer": "Le grand barrage de Ma'rib"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Nos jardins ont été remplacés par des fruits amers et des arbres clairsemés.",
+        "Nous avons été engloutis par la terre lors d'un tremblement de terre.",
+        "Nous avons été transformés en singes et en cochons.",
+        "Nous avons été engloutis par une grande inondation.",
+        "Nous avons été anéantis par une pluie de pierres"
+      ],
+      "answer": "Nos jardins ont été remplacés par des fruits amers et des arbres clairsemés."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

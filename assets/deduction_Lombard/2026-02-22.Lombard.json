@@ -1,0 +1,61 @@
+{
+  "title": "La pazienza de l'anima afflitta",
+  "intro": "In di annal de la storia g’he una figüra che l’è sinonim de resistenza. Chestu individuo l’è stà mettü a la prœuva cun la perdita de tüt i cunfort mundani, ma l’è restà un servitur devot del Creatur. Travers i ann de dificultà e de malatie fisich, el cœur de chesta anima l’è restà ancorà in de la fed, dand un faro de speranza per tüt chel che afruntan i dificultà.",
+  "clues": [
+    "Mi l’eri un servitur devot de Allah, benedett cun tanta richeza, tanti fiœui e una bona salud.",
+    "La me vita l’ha cambiad quand che m’è stad despojad de la me richezza e de la me familia, e g’ho lassà sultant la me fede.",
+    "L’eri afflitt da una malatia che l’era durada e dolorusa che l’ha metü a la prœuva i limit de la resistenza umana.",
+    "Durant tüt el me sufriment, g’ho refudà de lamentàm cuntra el me Signur, anca quand che l’aversari g’ha cercà de purtam a la disperaziun.",
+    "Quand finalment g’ho ciamà el me Signur, g’ho dumandà no richeza, ma semplicement g’ho recognossuu che el angustia m’haveva tocà.",
+    "G’han dit de cupà la terra cunt el pè, e da lì l’è vegnuuda una surgent d’aqua frècc per guarir el mè corp e calmà la set."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El prufeta Yaqub",
+        "Profeta Ayyub",
+        "El prufeta Zacaria",
+        "Profeta Yahya",
+        "Profeta Shu'ayb"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Ann de grave malatia e perdita",
+        "Vess butà denter de un pozz prufund",
+        "Vesser inglutid da un pess gigant",
+        "Afrontar un tiranno in un fogo",
+        "Un luungh viagg in cerca de un maester"
+      ],
+      "answer": "Ann de grave malatia e perdita"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un staff che separava el mar",
+        "Una camisa che faseva l'odur de cà",
+        "Una surgent d'aqua curativa",
+        "Una muntagna che la s’è sgrumpada en polvar",
+        "Una caverna de sonn profund"
+      ],
+      "answer": "Una surgent d'aqua curativa"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Diventar el guvernatur de una grand terra",
+        "Guidar un esercit a la vittoria",
+        "Restaur de la salud e de la fameja",
+        "Costruir una cà sacra de cult",
+        "Ricef una taula spantegada del ciel"
+      ],
+      "answer": "Restaur de la salud e de la famiglia"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

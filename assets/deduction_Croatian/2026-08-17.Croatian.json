@@ -1,0 +1,61 @@
+{
+  "title": "Prekršaj uz obalu",
+  "intro": "Stojiš na pijesku zaboravljene obale, gdje valovi šapuću o zajednici iskušanoj božanskom zapovijedi. Zrak je težak od sjećanja na kršenje pravila koje je dovelo do zapanjujuće transformacije. Tko su bile te duše i kakva je bila priroda njihovog iskušenja?",
+  "clues": [
+    "Bili smo zajednica koja je primila jasnu zapovijed od našeg Gospodina, ali smo ipak pronašli načine da joj prkosimo.",
+    "Živjeli smo blizu vodene površine, a naša egzistencija ovisila je o njenim stvorenjima.",
+    "Kušnja nam je došla onog dana kada nam je naređeno da se klonimo svjetovnih težnji.",
+    "Vodena stvorenja došla su nam u velikom broju baš tog dana, iskušavajući nas preko svake mjere.",
+    "Smislili smo lukav trik kako bismo zaobišli božansku naredbu, misleći da možemo nadmudriti uredbu.",
+    "Naš prijestup doveo je do ponižavajuće transformacije; postali smo prezreni majmuni po Allahovoj naredbi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ljudi subote",
+        "Ljudi iz Rassa",
+        "Ljudi iz Tubbe",
+        "Ljudi iz pećine",
+        "Suputnici iz jarka"
+      ],
+      "answer": "Ljudi subote"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Pojava ribe u subotu",
+        "Godina teške suše",
+        "Vojska ptica poslana protiv njih",
+        "Poplava koja ih je preplavila",
+        "Snažan potres"
+      ],
+      "answer": "Pojava ribe u subotu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "More",
+        "Planina",
+        "Špilja",
+        "Pustinjska dolina",
+        "Utvrđeni grad"
+      ],
+      "answer": "More"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pretvoreni u majmune",
+        "Progutala zemlja",
+        "Uništen vrištećim vjetrom",
+        "Utopljen u moru",
+        "Pogođen kišom kamenja"
+      ],
+      "answer": "Pretvoreni u majmune"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

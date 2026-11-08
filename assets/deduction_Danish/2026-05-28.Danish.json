@@ -1,0 +1,61 @@
+{
+  "title": "Den urokkelige patient",
+  "intro": "I den profetiske histories annaler har få udholdt så dybe tab og fysiske lidelser med urokkelig tro. Denne figurs historie er en tidløs lektie i tålmodighed og tillid til guddommelig visdom. Hvem er denne sjæl?",
+  "clues": [
+    "Jeg blev udvalgt af Allah til at overbringe et budskab, men min største prøve kom ikke gennem afvisning, men gennem personlig ulykke.",
+    "Min rigdom, mit husdyr og mine børn blev taget fra mig, den ene efter den anden.",
+    "Min krop var dækket af sår, og jeg blev efterladt alene bortset fra min ægtefælles støtte.",
+    "Jeg råbte til min Herre, erkendte min lidelse og søgte hans nåde.",
+    "Jeg fik besked på at slå jorden med min fod, og en forfriskende kilde vældede frem.",
+    "Allah genoprettede mit helbred og gav mig en ny familie og endnu mere rigdom, end jeg havde før."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Ayyub",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Isa",
+        "Profeten Nuh"
+      ],
+      "answer": "Profeten Ayyub"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Tab af rigdom og familie",
+        "At blive kastet i en ild",
+        "At blive slugt af en fisk",
+        "At blive adskilt fra familien og solgt som slave",
+        "At blive testet med en guldkalv"
+      ],
+      "answer": "Tab af rigdom og familie"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En kilde med vand",
+        "En stav der forvandlede sig til en slange",
+        "En træark",
+        "En smeltet kalv",
+        "Et palmetræ"
+      ],
+      "answer": "En kilde med vand"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Genoprettelse af familie og rigdom",
+        "Himmelfart",
+        "At blive konge",
+        "Reddet fra en hval",
+        "At få en søn i alderdommen"
+      ],
+      "answer": "Genoprettelse af familie og rigdom"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

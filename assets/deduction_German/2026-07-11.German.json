@@ -1,0 +1,61 @@
+{
+  "title": "Die Reisenden des grünen Feldes",
+  "intro": "In grauer Vorzeit bewirtschafteten zwei Männer benachbarte Ländereien. Ihre Wege kreuzten sich, doch ihre Herzen führten sie zu völlig unterschiedlichen Zielen. Der eine ging den geraden Pfad, der andere verfiel in die Dunkelheit der Verleugnung. Kannst du das Geheimnis dieser beiden Hüter der Ernte lüften?",
+  "clues": [
+    "Ich besaß reiche Ernten, üppige Erträge, die die Augen der Zuschauer blendeten.",
+    "Mein Nachbar besaß noch größeren Reichtum als ich, doch ich begehrte seinen Anteil mehr als meinen eigenen.",
+    "Ich schlug vor, ihre Ernten vollständig zu vernichten, um alles unter meine Kontrolle zu bringen.",
+    "Ich habe auch meine eigene Ernte ruiniert und in meinen törichten Plänen alles zerstört.",
+    "Ich stand hilflos da, als meine Ernte verdorrte und mein Reichtum in einer einzigen Nacht zu Staub zerfiel.",
+    "Ich hatte keinen Anteil am Jenseits, und meine letzte Ruhestätte wurde zu einer lodernden Feuergrube."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Der Mann, der Auferstehung und Gericht leugnete",
+        "Der Herrscher, der den gerechten Bauern unterdrückte",
+        "Der wohlhabende Landbesitzer, dem es an Dankbarkeit mangelte",
+        "Der Bauer, der das Land seines Nachbarn begehrte",
+        "Der treulose Partner, der die Zerstörung plante"
+      ],
+      "answer": "Der Bauer, der das Land seines Nachbarn begehrte"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Prüfung des Empfangs göttlicher Offenbarung",
+        "Die Herausforderung von Reichtum und Geduld",
+        "Die Versuchung, die Existenzgrundlage eines rechtschaffenen Menschen zu zerstören",
+        "Der Befehl, die Erbschaft gerecht aufzuteilen",
+        "Der Kampf gegen die Unterdrückung durch einen Tyrannen"
+      ],
+      "answer": "Die Versuchung, die Existenzgrundlage eines rechtschaffenen Menschen zu zerstören"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die grünen Gärten des Paradieses",
+        "Zwei benachbarte Felder mit Nutzpflanzen",
+        "Die Berge, die Zeugen der Zerstörung wurden",
+        "Das heilige Heiligtum von Mekka",
+        "Die Flussufer eines gesegneten Landes"
+      ],
+      "answer": "Zwei benachbarte Felder mit Nutzpflanzen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ewiges Paradies als Belohnung für Rechtschaffenheit",
+        "Vollständige Vernichtung beider Ernten in diesem Leben",
+        "Verbannung und Wanderschaft bis zum Tod",
+        "Vorübergehender Wohlstand, gefolgt von ewigem Feuer",
+        "Eine wundersame Wiederherstellung und verdoppelte Ausbeute"
+      ],
+      "answer": "Vollständige Vernichtung beider Ernten in diesem Leben"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

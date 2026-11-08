@@ -1,0 +1,61 @@
+{
+  "title": "Os Ouvintes do Invisível",
+  "intro": "Além do véu do mundo visível, uma assembleia oculta se reuniu na escuridão, atraída por um som que desafiava tudo o que conheciam. Eles vagaram por eras sem verdadeira orientação, até que uma voz penetrou o silêncio de seu reino invisível e despertou algo profundo em seus corações. Esta noite, você está convidado a ir além das sombras e descobrir a identidade deste misterioso grupo, cujo encontro com palavras divinas os conduziu de volta ao seu povo como arautos de uma verdade que não podia ser contida.",
+  "clues": [
+    "Somos seres ancestrais, existindo muito antes de muitas nações sobre as quais você já leu, contudo, raramente somos mencionados em histórias humanas.",
+    "Nossa natureza é diferente da sua, tecida a partir de elementos invisíveis, e possuímos poderes que desafiam o comum.",
+    "Durante eras, vagamos sem verdadeira orientação, até que um som nos alcançou e despertou algo profundo em nós.",
+    "Ouvimos por acaso uma recitação como nunca tínhamos ouvido antes, palavras que carregavam um peso que transcendia qualquer discurso.",
+    "Nos aproximamos em segredo, ordenando silêncio aos nossos, e quando os versos terminaram, não conseguimos ficar parados.",
+    "Retornamos ao nosso povo e declaramos: 'Ó nosso povo, ouvimos um Livro revelado depois de Moisés, confirmando o que o precedeu e guiando à verdade.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Os Hawariyyun (Discípulos de Isa)",
+        "Os gênios que creram após ouvirem o Alcorão",
+        "Os Companheiros da Caverna",
+        "Os anjos do céu mais baixo",
+        "O povo do Faraó que seguiu o seu caminho."
+      ],
+      "answer": "Os gênios que creram após ouvirem o Alcorão"
+    },
+    "trial": {
+      "label": "Julgamento/Evento",
+      "options": [
+        "Fomos expulsos por nos recusarmos a curvar-nos perante um ser recém-criado.",
+        "Ficamos selados em uma caverna por trezentos e nove anos.",
+        "Recebemos ordens para atravessar um mar que se dividia diante de nós.",
+        "Fomos enviados para uma terra mágica para aprender feitiçaria.",
+        "Ouvimos uma recitação em segredo e fomos transformados por ela."
+      ],
+      "answer": "Ouvimos uma recitação em segredo e fomos transformados por ela."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Um bezerro de ouro feito com os ornamentos de um povo.",
+        "Uma caverna onde o sono durou gerações.",
+        "Dois anjos na Babilônia que ensinaram conhecimento proibido",
+        "Um livro revelado após Moisés, confirmando a Torá.",
+        "Uma sarça ardente no topo de um monte sagrado"
+      ],
+      "answer": "Um livro revelado após Moisés, confirmando a Torá."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fomos amaldiçoados até o Dia do Juízo Final.",
+        "Nos levantamos contra um governante poderoso e construímos uma barreira na terra.",
+        "Fomos transformados em macacos e porcos.",
+        "Retornamos ao nosso povo como mensageiros, proclamando a crença.",
+        "Fomos afogados no mar junto com nosso líder."
+      ],
+      "answer": "Retornamos ao nosso povo como mensageiros, proclamando a crença."
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

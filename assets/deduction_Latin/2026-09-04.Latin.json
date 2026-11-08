@@ -1,0 +1,61 @@
+{
+  "title": "Melodia Quae Montes Movit",
+  "intro": "Historiam servi Dei insignis mox deteges. In terra nuntiorum et principum, hic vir libro divino, voce potenti, et robore super ferrum donatus est. Dum indicia legis, potesne cognoscere quis hic sit?",
+  "clues": [
+    "Servus Allah eram, cui liber specialis concessus est.",
+    "Vox mihi erat pulchra, et laus mea tam dilecta erat ut etiam colles et aves mecum coniungrentur.",
+    "Adversarium formidabilem in proelio famoso obviam ivi, et quamvis minor essem, vici.",
+    "Ferrum mihi flexibile factum est, ut arma propriis manibus fabricari possem.",
+    "Princeps factus sum super gentem magnam, et sapientia mea in iudicio insignis facta est.",
+    "Filio meo, qui quoque propheta est, imperium super ventum et jinn concessum est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Daud (David)",
+        "Propheta Sulaiman (Salomon)",
+        "Propheta Musa (Moses)",
+        "Propheta Harun (Aaron)",
+        "Propheta Ilyas (Elias)"
+      ],
+      "answer": "Propheta Daud (David)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Goliath (Jalut) vicit",
+        "Mare divisit",
+        "Balaenam supervixit",
+        "In ignem coniectus est",
+        "Arcam aedificavit"
+      ],
+      "answer": "Goliath (Jalut) vicit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Zabur (Psalmi)",
+        "Torah (Tawrat)",
+        "Evangelium (Injil)",
+        "Volumina Ibrahimi",
+        "Alcoranus"
+      ],
+      "answer": "Zabur (Psalmi)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Propheta et rex Israel factus est",
+        "Aegypti princeps factus est",
+        "Ad caelum sublatum est",
+        "Tempestate vastatus est",
+        "Socius speluncae factus est"
+      ],
+      "answer": "Propheta et rex Israel factus est"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

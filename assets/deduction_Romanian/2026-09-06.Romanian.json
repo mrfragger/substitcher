@@ -1,0 +1,61 @@
+{
+  "title": "Proscrisul vițelului de aur",
+  "intro": "O figură menționată în Coran a condus o mare mulțime la abatere în absența unui profet nobil. Ceva lucrat din aur a cucerit inimile unei întregi națiuni - dar povestea acestui individ se termină în singurătate și un blestem straniu. Cine ar putea fi acest proscris?",
+  "clues": [
+    "Am apărut în absența unui mare profet care se înălțase pentru a primi îndrumare divină.",
+    "Am rătăcit o mare mulțime cu ceva ce am făurit cu mâinile mele.",
+    "Creația de aur pe care am produs-o părea să aibă viață, producând sunete care îi fascinau pe cei care o urmăreau.",
+    "Am pretins că am văzut ceea ce alții nu puteau percepe — o privire în nevăzut.",
+    "Am scos ceva de pe urmele mesagerului divin și l-am turnat în metal topit.",
+    "Eram condamnat să rătăcesc singur, cu un blestem unic, că nimeni nu-mi putea atinge pielea, nici eu nu-i puteam atinge pe a lor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraon (Fir'awn)",
+        "Abu Lahab",
+        "Profetul Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A creat un vițel de aur pentru închinare",
+        "A construit un turn care se întindea până la ceruri",
+        "I-a provocat pe vrăjitorii Egiptului",
+        "A condus o armată cu bestii zburătoare",
+        "Despicarea lunii ca dovadă a profeției"
+      ],
+      "answer": "A creat un vițel de aur pentru închinare"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Vițelul de aur",
+        "Un toiag care s-a transformat într-un șarpe",
+        "Un rug aprins pe un munte",
+        "O arcă sprijinită pe un vârf",
+        "Un șanț plin de foc arzător"
+      ],
+      "answer": "Vițelul de aur"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Exilat, interzis să fie atins sau să atingă pe alții",
+        "Înecat în mare împreună cu o armată",
+        "Ars de viu pentru respingerea credinței",
+        "Lovit de un vânt violent și urlător",
+        "Iertat și ridicat la o poziție înaltă"
+      ],
+      "answer": "Exilat, interzis să fie atins sau să atingă pe alții"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

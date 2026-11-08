@@ -1,0 +1,61 @@
+{
+  "title": "Mellan jord och himmel",
+  "intro": "En mystisk själ väntar dig på de heliga sidorna av den gudomliga historien, bärandes på tecken och under som fortfarande ekar genom tiderna. När du följer ledtrådarnas spår kommer du att resa genom en berättelse präglad av mirakel – från en mirakulös början till en uppstigning bortom himlen. Kan du identifiera denna välsignade tjänare innan den sista ledtråden?",
+  "clues": [
+    "Jag sändes som budbärare till Israels barn med budskap om nåd och ljus.",
+    "Min födelse var ett mirakulöst tecken – jag kom till världen utan en far, på den Allsmäktiges befallning.",
+    "Jag talade medan jag fortfarande var ett spädbarn och försvarade min mors heder mot hennes folks anklagelser.",
+    "Med Allahs tillåtelse formade jag fåglar av lera och andades liv i dem – de flög iväg inför ögonen på dem som såg på.",
+    "Jag helade de blindfödda, botade spetälska och uppväckte till och med döda – men varje mirakel var med Allahs tillåtelse, inte min egen.",
+    "När mina fiender planerade att förgöra mig, upphöjde Allah mig till himlen och lovade min återkomst före Domedagen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Isa (Jesus)",
+        "Profeten Musa (Moses)",
+        "Profeten Ibrahim (Abraham)",
+        "Profeten Muhammed",
+        "Profeten Yusuf (Josef)"
+      ],
+      "answer": "Profeten Isa (Jesus)"
+    },
+    "trial": {
+      "label": "Det avgörande ögonblicket",
+      "options": [
+        "Jag blev uppvuxen till himlen",
+        "Jag kastades in i en flammande eld",
+        "Jag mötte Faraos mäktiga armé",
+        "Jag svaldes av en stor val",
+        "Jag byggde en ark på berget"
+      ],
+      "answer": "Jag blev uppvuxen till himlen"
+    },
+    "location": {
+      "label": "Heligt tecken utfört",
+      "options": [
+        "Jag formade fåglar av lera",
+        "Jag förvandlade en stav till en orm",
+        "Jag delade månen i två",
+        "Jag befallde vinden och djinnerna",
+        "Jag lät en honkamel komma fram ur klippan"
+      ],
+      "answer": "Jag formade fåglar av lera"
+    },
+    "outcome": {
+      "label": "Vad blev av mig",
+      "options": [
+        "Upphöjd till himlen; lovad att återvända",
+        "Blev en stor härskare över ett imperium",
+        "Ledde mitt folk ut ur fångenskap",
+        "Fick oöverträffad jordisk rikedom",
+        "Återförenades med min familj efter en lång separation"
+      ],
+      "answer": "Upphöjd till himlen; lovad att återvända"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

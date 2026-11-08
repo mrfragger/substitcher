@@ -1,0 +1,61 @@
+{
+  "title": "el tesoro que se hundió bajo el orgullo",
+  "intro": "Imagínese frente a montones de riqueza tan inmensos que tan solo cargar las llaves agotaría a un grupo de personas fuertes. A su alrededor, voces que claman por humildad y gratitud, pero el orgullo se impone. ¿Qué sucede cuando la abundancia se convierte en una prueba y la arrogancia sella el resultado?",
+  "clues": [
+    "Yo era del pueblo de Musa, pero pecé contra ellos.",
+    "Me fueron concedidos tesoros tan inmensos que las llaves de ellos supondrían una carga para un grupo de hombres fuertes.",
+    "Mi gente me aconsejó que no me regocijara y que buscara la vida después de la muerte sin olvidar mi parte en este mundo.",
+    "Afirmé que lo que poseía me fue dado únicamente gracias al conocimiento que tenía.",
+    "Desfilé ante mi pueblo engalanado, y aquellos que anhelaban la vida mundana deseaban tener algo semejante a lo que yo tenía.",
+    "La tierra me engulló junto con mi morada, y nadie pudo ayudarme, ni yo pude ayudarme a mí mismo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Se jactaba de su riqueza y negaba el favor de Alá a pesar de los consejos.",
+        "Desafió a Ibrahim sobre dar vida y muerte.",
+        "Dirigió un ejército contra Talut y Dawud.",
+        "Ídolos tallados para que la gente los adorara.",
+        "Mató a un hermano por envidia durante una ofrenda."
+      ],
+      "answer": "Se jactaba de su riqueza y negaba el favor de Alá a pesar de los consejos."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Llaves de inmensos tesoros",
+        "El Arca de la Alianza",
+        "Un becerro dorado de adornos",
+        "Una presa entre dos montañas",
+        "Once estrellas en un sueño"
+      ],
+      "answer": "Llaves de inmensos tesoros"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Engullido por la tierra con morada y riqueza",
+        "Se ahogó en el mar mientras perseguía a Musa.",
+        "Cayó derribado por una piedra lanzada con la honda de Dawud.",
+        "Destruido por una poderosa explosión por haber lesionado gravemente a una camella.",
+        "Se convirtieron en monos por quebrantar el sábado."
+      ],
+      "answer": "Engullido por la tierra con morada y riqueza"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

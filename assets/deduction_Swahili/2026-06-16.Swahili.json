@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Iliyoita kwa Haki",
+  "intro": "Katika nchi ya kale ya Midiani, ambapo biashara ilistawi na misafara ilisafiri katika jangwa kubwa, nabii wa Mwenyezi Mungu aliibuka miongoni mwa watu waliokuwa wamepotoka kutoka kwenye njia ya haki. Mtumishi huyu wa Mwenyezi Mungu alitumwa na utume wa kimungu ambao ungejaribu imani ya jamii nzima. Kupitia majaribu ya uvumilivu na uvumilivu, roho hii ilisimama imara katika kutoa onyo ambalo lingerudiwa katika historia. Je, unaweza kufichua fumbo la mjumbe huyu thabiti?",
+  "clues": [
+    "Nilichaguliwa na Mwenyezi Mungu kuwaongoza watu ambao walikuwa wamesahau kanuni za haki na uaminifu katika shughuli zao.",
+    "Nilitoa ujumbe nikiita jamii yangu isimwabudu yeyote ila Mwenyezi Mungu na kusema ukweli katika mambo yote.",
+    "Nilionya haswa dhidi ya tabia mbaya ya kula mali kwa njia zisizo halali na kusisitiza umuhimu wa vipimo na mizani ya haki.",
+    "Watu wangu waliitikia maonyo yangu kwa dhihaka, wakitishia kunifukuza kutoka katika nchi yao ikiwa ningeendelea na ujumbe wangu.",
+    "Nilibaki imara katika utume wangu licha ya uadui wao, nikitangaza kwamba thawabu yangu iko kwa Mwenyezi Mungu pekee.",
+    "Watu wangu walikamatwa na adhabu kali sana huku mimi nikiokolewa kwa rehema za Mola wangu, huku kazi yangu ikikamilika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Shu'aib",
+        "Nabii Hud",
+        "Nabii Salih",
+        "Nabii Lut",
+        "Mtume Muhammad ﷺ"
+      ],
+      "answer": "Nabii Shu'aib"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukabiliana na watu waliokataa ukweli na kutishia adhabu kwa kutoa ujumbe wa Mwenyezi Mungu",
+        "Kushuhudia Gharika Kuu iliyowaangamiza makafiri wa taifa",
+        "Kupokea ufunuo nilipokuwa nikisafiri kupitia bonde la",
+        "Jaribio la imani wakati mtawala mkandamizaji alipojaribu kunyamazisha wito wa Mungu mmoja",
+        "Taifa likiomba mvua wakati wa ukame mkali baada ya miaka mingi ya kutotii"
+      ],
+      "answer": "Kukabiliana na watu waliokataa ukweli na kutishia adhabu kwa kutoa ujumbe wa Mwenyezi Mungu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Nchi ya Midiani, ambapo watu wangu walifanya biashara na biashara zao",
+        "Siti ya meli kubwa iliyowaokoa waumini kutokana na mafuriko makubwa",
+        "Pango katika mlima wenye miamba ambapo vijana saba walitafuta kimbilio kutokana na mateso",
+        "Mji mtakatifu wa Yerusalemu ambapo nilipelekwa kwa safari ya usiku",
+        "Jumba la kifalme huko Sheba ambapo ufalme mkubwa ulijiandaa kushuhudia ishara ya kimungu"
+      ],
+      "answer": "Nchi ya Midiani, ambapo watu wangu walifanya biashara na biashara zao"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu wangu walikamatwa na adhabu kali wakati mimi niliokolewa, kwa sababu nilikuwa nimetimiza wajibu wangu kwa Mwenyezi Mungu.",
+        "Makafiri waligeuzwa kuwa nyani walipovunja mipaka mitakatifu ya Mwenyezi Mungu",
+        "Maadui zangu walikubali imani baada ya kushuhudia mabadiliko ya kimiujiza",
+        "Nchi ilibarikiwa na mvua nyingi na ustawi baada ya watu kutubu",
+        "Niliuawa kishahidi na watu wangu kwa kukataa kuacha misheni yangu"
+      ],
+      "answer": "Watu wangu walikamatwa na adhabu kali wakati mimi niliokolewa, kwa sababu nilikuwa nimetimiza wajibu wangu kwa Mwenyezi Mungu."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

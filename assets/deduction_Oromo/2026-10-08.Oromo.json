@@ -1,0 +1,61 @@
+{
+  "title": "Warra Dhagaa Bocan Gammoojjii Durii",
+  "intro": "Mee qaroomina gammoojjii dhagaa Arabaa keessatti kaʼee fi gaarreen irraa manneen dinqisiisoo bocuu irratti ogummaa qabu tokko yaadi. Humnaa fi aartiidhaan kan dagaagan taʼus, seenaan isaanii akeekkachiisa Waaqayyoo mormuu nama qabbaneessudhaan kan mallatteeffame dha. Oduu durii isaanii keessa yeroo lixxu, ummata of tuuluun isaa guutummaatti akka balleessan isaan taasise ni saaxilta. Eenyu turan?",
+  "clues": [
+    "Lafa dirree dhagaa fi cirracha olkaʼaa qabu dhaalnee, ogummaa gita hin qabneen mana jireenyaa keenya ijaarre.",
+    "Manneen nageenya qabu gaarreen bocuudhaan, miidhaa kamirraayyuu nageenya nutti dhagaʼamuun beekamna turre.",
+    "Ergamaan tokko of keessaa nutti dhufee tola Rabbii nu yaadachiisaa fi adabbii nu akeekkachiise.",
+    "Mallattoo gaafannee, gaalli dubaraa dinqisiisaa dhagaa keessaa baate, qormaata ifa ta’e Rabbiin biraa.",
+    "Akeekkachiisa sana mormnee gaala dubaraa sana hamstrung goone, ergamaa sanatti qoosnee adabbii mormne.",
+    "Dhohinsi tokko mana keenya keessatti nu qaqqabee, ganama akka waan achi jiraannee hin beekneetti sujuudaa ciifne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata Thamud",
+        "Namoonni 'Ad",
+        "Ummata Madyan",
+        "Ummata Nuh",
+        "Ummata Luut"
+      ],
+      "answer": "Ummata Thamud"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Hamstrung gaala dubaraa",
+        "Sanbata cabse",
+        "Re'ee warqee sana waaqeffate",
+        "Nabiyyiin isaanitti ergame ajjeese",
+        "Samii ga'uuf masaraa ijaare"
+      ],
+      "answer": "Hamstrung gaala dubaraa"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Gaala dubaraa",
+        "Taabota",
+        "Hojjettoonni",
+        "Harka adii",
+        "Mannaa fi quuqama"
+      ],
+      "answer": "Gaala dubaraa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Dhohinsa tokkoon barbadaa'e",
+        "Badiisaa irraa baraare",
+        "Gara hantuutaatti jijjiirame",
+        "Galaana keessatti liqimfame",
+        "Lafaan liqimfame"
+      ],
+      "answer": "Dhohinsa tokkoon barbadaa'e"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

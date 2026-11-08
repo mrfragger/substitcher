@@ -1,0 +1,61 @@
+{
+  "title": "Yawaitar da Ta Bace",
+  "intro": "Kana tsaye a gaban kururuwar al'umma wadda labarinta ya kasance a cikin raƙuman ruwa. Waɗannan rayuka sun ji kira, sun zaɓi rashin amincewa, kuma sun fuskanci sakamakon da ya sake fasalin duniya. Su wanene su, kuma me ya faru da duniyarsu?",
+  "clues": [
+    "Mun rayu tun da daɗewa, kuma wani manzo ya zo mana daga cikinmu.",
+    "Mun bauta wa gumaka biyar kuma muka ƙi barinsu.",
+    "Mun yi wa manzon ba'a kuma muka zarge shi da ɓata hanya.",
+    "Mun nemi ya kawo hukuncin idan yana da gaskiya.",
+    "Mun ga sama tana zuba ruwa, ƙasa kuma tana fitar da maɓuɓɓugan ruwa.",
+    "Mun hau zuwa wuraren tsafi don mu tsira, amma raƙuman ruwa suka mamaye mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Mutanen Nuhu",
+        "Mutanen 'Ad'",
+        "Mutanen Samudawa",
+        "Mutanen Lutu",
+        "Mutanen Madyana"
+      ],
+      "answer": "Mutanen Nuhu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "An nutsar da mu cikin ambaliyar ruwa mai girma",
+        "Guguwa ta halaka mu",
+        "An kashe mu da babbar fashewa",
+        "Ƙasa ta haɗiye mu",
+        "An yi mana jifa da duwatsu daga sama"
+      ],
+      "answer": "An nutsar da mu cikin ambaliyar ruwa mai girma"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Babban ambaliya",
+        "Iska mai ƙarfi",
+        "Ruwan duwatsu",
+        "Harin wuta mai zafi",
+        "Girgizar ƙasa"
+      ],
+      "answer": "Babban ambaliya"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Duk mun halaka sai muminai tare da Nuhu",
+        "An canza mu zuwa birai",
+        "An bar mu a matsayin kango ga matafiya",
+        "An mayar da mu gishiri",
+        "An ba mu hutu"
+      ],
+      "answer": "Duk mun halaka sai muminai tare da Nuhu"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

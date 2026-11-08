@@ -1,0 +1,61 @@
+{
+  "title": "Les Gardiens de la Moisson Secrète",
+  "intro": "Dans une contrée verdoyante, un groupe d'individus ourdit un complot en secret, à la faveur de la nuit. Ils partageaient un but commun, mais leurs intentions étaient loin d'être vertueuses. Ils ignoraient qu'un destin tragique les attendait dans leur sommeil.",
+  "clues": [
+    "Nous avons pris une décision ferme, persuadés que notre plan était infaillible.",
+    "Nous avions l'intention de sortir tôt, avant même que les autres ne se soient levés.",
+    "Nous nous sommes installés sur une parcelle fertile, confiants dans nos provisions.",
+    "Arrivés à destination, nous l'avons trouvée aride et désolée, et nous avons cru que nous nous étions perdus.",
+    "Alors nous avons compris que c'était bien notre place, et nous avons crié de désespoir, nous reprochant mutuellement notre perte.",
+    "Ce matin-là, nous avions juré d'exclure les pauvres de notre récolte, mais le châtiment d'Allah s'est abattu sur nous pendant notre sommeil, réduisant notre jardin en ruines."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les propriétaires du jardin dans la sourate 68",
+        "Le peuple de Saba",
+        "Les Compagnons de la Caverne",
+        "Le peuple de l'éléphant",
+        "Les gens de la tranchée"
+      ],
+      "answer": "Les propriétaires du jardin dans la sourate 68"
+    },
+    "trial": {
+      "label": "Notre procès",
+      "options": [
+        "Notre jardin a été détruit par une catastrophe venue du ciel.",
+        "Notre jardin a été emporté par une inondation.",
+        "Notre jardin a été brûlé par un incendie provoqué par un ennemi.",
+        "Notre jardin était envahi de sauterelles.",
+        "Notre jardin a été englouti par un tremblement de terre."
+      ],
+      "answer": "Notre jardin a été détruit par une catastrophe venue du ciel."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Nous avons juré de cueillir ses fruits demain matin.",
+        "Nous avons construit un barrage pour irriguer notre jardin.",
+        "Nous avons cherché refuge dans une grotte pour nous protéger.",
+        "Nous avons préparé une armée pour conquérir un royaume",
+        "Nous avons navigué sur un navire pour traverser la mer"
+      ],
+      "answer": "Nous avons juré de cueillir ses fruits demain matin."
+    },
+    "outcome": {
+      "label": "Notre destin",
+      "options": [
+        "Nous nous sommes repentis et avons espéré la miséricorde d'Allah.",
+        "Nous avons été complètement anéantis et nous ne nous sommes jamais repentis.",
+        "Nous avons fui le pays et ne sommes jamais revenus.",
+        "Nous sommes redevenus puissants et riches.",
+        "Nous avons été punis en étant transformés en singes."
+      ],
+      "answer": "Nous nous sommes repentis et avons espéré la miséricorde d'Allah."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

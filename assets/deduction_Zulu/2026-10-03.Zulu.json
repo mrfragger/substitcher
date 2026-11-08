@@ -1,0 +1,61 @@
+{
+  "title": "Umlindo Esangweni Elivuthayo",
+  "intro": "Isixuku esikhulu nesithule simi sibukele emnyango owesabekayo, singakunambithi ukudla, isiphuzo, noma ukuphumula. Njengoba benziwe ngento engafani nobumba lomuntu, balinde injongo eyodwa eyesabekayo—futhi abakaze baphule ngisho nomyalo owodwa ovela eNkosini yabo.",
+  "clues": [
+    "Siyizidalwa ezingafani nabantu, ezidalwe ngento engadli, engaphuzi, noma engakhathali.",
+    "Inani lethu eliqondile liyaziwa futhi lembulwe eNcwadini—asibalwa futhi asisibo abantu abaningi.",
+    "Asikaze simlalele uMdali wethu, futhi asikaze sikhulume ngaphambi kokuba siyalwe.",
+    "Uma usuku lufika, abangakholwa bazoxoshwa kithi ngamaqembu, futhi sizobavulela amasango.",
+    "Sizobabuza: 'Azifikanga yini kini izithunywa ezivela ohlotsheni lwenu, zinixwayisa ngalolu suku?'",
+    "Siqapha indawo lapho kungekho mphefumulo ophuma khona—indawo evuthayo yesijeziso saphakade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abagcini Besihogo Somlilo (Zabaniyah)",
+        "Abathwali Besihlalo Sobukhosi Sika-Allah",
+        "Izingelosi eziqoshiwe (Kiraman Katibin)",
+        "Izingelosi Zokufa",
+        "Abalindi Besango LePharadesi"
+      ],
+      "answer": "Abagcini Besihogo Somlilo (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Umsebenzi Wethu Oyinhloko",
+      "options": [
+        "Ukuqapha amasango omlilo wesihogo",
+        "Ukurekhoda yonke imisebenzi yomuntu",
+        "Ukuthwala Isihlalo Sobukhosi Sika-Allah",
+        "Ukuthatha imiphefumulo yabafileyo",
+        "Ukuyala imimoya namafu"
+      ],
+      "answer": "Ukuqapha amasango omlilo wesihogo"
+    },
+    "location": {
+      "label": "Yini Esiyiqaphayo?",
+      "options": [
+        "Isihogo Somlilo",
+        "Isihlalo sobukhosi sika-Allah",
+        "Imiqulu Yezenzo",
+        "Imifula yePharadesi",
+        "Izintaba Zomhlaba"
+      ],
+      "answer": "Isihogo Somlilo"
+    },
+    "outcome": {
+      "label": "Isiphetho Salabo Abasezindaweni Zethu",
+      "options": [
+        "Bazohlala phakade futhi abasoze bahamba",
+        "Ekugcineni bazoxolelwa futhi bakhululwe",
+        "Bazohlanzwa ngokuhamba kwesikhathi",
+        "Zizoguqulwa zibe ezinye izinhlobo",
+        "Bazoshintshana phakathi kwesihogo nePharadesi"
+      ],
+      "answer": "Bazohlala phakade futhi abasoze bahamba"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

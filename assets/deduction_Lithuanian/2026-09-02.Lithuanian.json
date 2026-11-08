@@ -1,0 +1,61 @@
+{
+  "title": "Miegas anapus laiko",
+  "intro": "Įsivaizduokite laikus, kai tiesa buvo nutildyta, o tikintieji – medžiojami. Maža grupelė pasirinko atsitraukimą, o ne pasidavimą, ieškodama prieglobsčio pačioje netikėčiausioje vietoje – vietoje, kuri tapo jų poilsio vieta nesuskaičiuojamiems šimtmečiams. Kai jie pagaliau pabudo, pasaulis aplink juos buvo pasikeitęs. Kas yra šios miegančios sielos?",
+  "clues": [
+    "Mes buvome jauni žmonės, gyvenę senoviniame mieste.",
+    "Mūsų bendruomenė reikalavo, kad melstumėmės kartu su jais, bet mes atsisakėme.",
+    "Mes pabėgome iš miesto ieškodami prieglobsčio nuo tų, kurie priešinosi mūsų įsitikinimams.",
+    "Ištikimas keturkojis draugas pasiliko prie mūsų slėptuvės įėjimo.",
+    "Alachas leido mums miegoti tris šimtus devynerius metus.",
+    "Kai pagaliau pabudome, mūsų kadaise persekiojęs miestas priėmė tikėjimą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Ašab al-Kahf (Olos žmonės)",
+        "Ašabas al-Filas (Dramblio armija)",
+        "Ašab al-Ukhdud (Tranšėjos palydovai)",
+        "Hawariyyun (Izos mokiniai)",
+        "Yajuj wa Majuj (Gogas ir Magogas)"
+      ],
+      "answer": "Ašab al-Kahf (Olos žmonės)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Mes pasislėpėme oloje ir miegojome šimtmečius",
+        "Mus išgelbėjo nuo siaučiančio gaisro",
+        "Mus prarijo didelė žuvis",
+        "Mus išbandė stebuklinga kupranugarė",
+        "Mums buvo duoti devyni aiškūs ženklai"
+      ],
+      "answer": "Mes pasislėpėme oloje ir miegojome šimtmečius"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Gilus urvas kalnuose",
+        "Laivelis atviroje jūroje",
+        "Į dangų siekianti didinga konstrukcija",
+        "Sodas, padalytas tarp dviejų konkurentų",
+        "Geležies ir vario barjeras"
+      ],
+      "answer": "Gilus urvas kalnuose"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pabudome ir pamatėme, kad mūsų miestas atsigręžė į tikėjimą",
+        "Liepsnojanti ugnis tapo vėsi ir rami",
+        "Priešo armija nuskendo jūroje",
+        "Paukščiai, nešantys akmenis, sunaikino priešą",
+        "Didelė žuvis paleido mus į krantą"
+      ],
+      "answer": "Pabudome ir pamatėme, kad mūsų miestas atsigręžė į tikėjimą"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

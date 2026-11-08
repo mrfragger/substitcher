@@ -1,0 +1,61 @@
+{
+  "title": "D'Gesandte vun der Barmhäerzegkeet a Muecht",
+  "intro": "Stellt Iech e rouegen Nomëtteg vir, deen duerch d'Arrivée vun onbekannte Reesenden ënnerbrach gëtt. Hiert Ausgesinn ass normal, awer hiren Zweck ass alles anescht wéi dat. Si droen eng göttlech Botschaft, déi de Kurs vun zwou Natiounen ännere wäert, Laachen an en onfruchtbaart Heem an Terror an eng sënneg Stad bréngt. Wien sinn dës mysteriéis Visiteuren?",
+  "clues": [
+    "Mir goufe bei en treiwe Knecht vun Allah geschéckt, deen fir seng grenzenlos Gaaschtfrëndlechkeet bekannt ass.",
+    "Mir sinn ënner der Verkleedung vu Friemen ukomm, an awer huet eise Gaascht eppes ausserierdesches an eiser Präsenz gemierkt.",
+    "Mir hunn eng Noriicht bruecht, déi eng eeler Fra vir Ongleewe laache gelooss huet, an hir eegent Gesiicht vir Erstaunen geschloen huet.",
+    "Mir kruten d'Aufgab, eng gerecht Famill ze schützen, während mir Zerstéierung iwwer eng Stad, déi vu Korruptioun duerchzunn ass, loossen.",
+    "Mir hunn refuséiert, um Iessen deelzehuelen, dat eis ugebueden gouf, wat de Verdächtegen vun eisem Gaaschtgeber nëmme verschäerft huet.",
+    "Mir hunn eis richteg Natur eréischt virum Fortgoe verroden a gesot: \"Tatsächlech sinn mir Boten vun Ärem Här.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "D'Gäscht vum Abraham",
+        "D'Jünger vum Jesus",
+        "D'Begleeder vun der Höhl",
+        "D'Arméi vun Abraha",
+        "D'Bote vum Ya-Sin"
+      ],
+      "answer": "D'Gäscht vum Abraham"
+    },
+    "trial": {
+      "label": "Eis Missioun",
+      "options": [
+        "Fir dem Abraham säi Glawen un säi Jong ze testen",
+        "Fir dem Abraham d'Schrëft ze iwwerginn",
+        "Fir d'Gebuert vum Isaak an d'Zerstéierung vum Lot sengem Vollek unzekënnegen",
+        "Fir den Abraham zum Kaaba ze féieren",
+        "Fir den Abraham aus dem Feier ze retten"
+      ],
+      "answer": "Fir d'Gebuert vum Isaak an d'Zerstéierung vum Lot sengem Vollek unzekënnegen"
+    },
+    "location": {
+      "label": "Plaz vum Optrëtt",
+      "options": [
+        "Am Land vun Egypten",
+        "An der Stad Ur",
+        "Am Haus vum Abraham",
+        "Am Gaart vun Eden",
+        "Beim Brunn vum Zamzam"
+      ],
+      "answer": "Am Haus vum Abraham"
+    },
+    "outcome": {
+      "label": "D'Resultat",
+      "options": [
+        "Den Abraham ass Kinnek ginn",
+        "Den Abraham huet d'Kaaba gebaut",
+        "D'Sarah huet den Isaak gebuer an d'Leit vum Lot goufen zerstéiert",
+        "Den Abraham ass a Palästina ausgewandert",
+        "D'Leit vum Abraham goufen virun enger grousser Iwwerschwemmung gerett"
+      ],
+      "answer": "D'Sarah huet den Isaak gebuer an d'Leit vum Lot goufen zerstéiert"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

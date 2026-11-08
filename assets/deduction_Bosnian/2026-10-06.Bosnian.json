@@ -1,0 +1,61 @@
+{
+  "title": "Istina koja je ućutkala sud",
+  "intro": "U palati gdje je vladalo poricanje, a moć bila apsolutna, grupa vještih praktičara stajala je pred neočekivanim izazovom. Zrak je pucketao od iščekivanja dok su se dva puta laži i istine trebala sudariti. Okupljeni nisu ni slutili da će im ovaj susret zauvijek promijeniti živote i urezati njihovu priču u sveti tekst.",
+  "clues": [
+    "Bili smo poznati po svojoj vještini u iluzijama i okupio nas je moćni vladar da se suočimo s izazivačem.",
+    "Kada je došao trenutak, bacili smo svoje instrumente i čekali ishod, sigurni u svoj zanat.",
+    "Ali ono čemu smo svjedočili učinilo je da naši vlastiti uređaji izgledaju kao obične igračke, a naša srca su prepoznala nepobitnu istinu.",
+    "Pali smo na zemlju u prostraciji, izjavljujući svoju vjeru u Gospodara Mojsija i Arona, uprkos bijesu vladara.",
+    "Taj vladar nam je prijetio najbrutalnijom kaznom, zaklinjući se da će nas razapeti i odsjeći nam udove na suprotne strane.",
+    "Ostali smo nepokolebljivi, govoreći da preferiramo sud našeg Gospoda nad bilo kakvim svjetovnim posljedicama, i bili smo mučeni zbog naše vjere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Faraonovi čarobnjaci",
+        "Ljudi iz pećine",
+        "Šumski pratioci",
+        "Učenici Ise",
+        "Narod slona"
+      ],
+      "answer": "Faraonovi čarobnjaci"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Mađioničarsko takmičenje protiv Muse",
+        "Vatra bačena na njih",
+        "Poplava koja ih je potopila",
+        "Suša i glad",
+        "Zemljotres"
+      ],
+      "answer": "Mađioničarsko takmičenje protiv Muse"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Štapovi i užad koji su se pretvorili u zmije",
+        "Gorući grm",
+        "Ženka deve",
+        "Drveni kovčeg",
+        "Kit"
+      ],
+      "answer": "Štapovi i užad koji su se pretvorili u zmije"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pogubljen zbog vjere, obećan Raj",
+        "Utopljen u moru",
+        "Postali su vladari Egipta",
+        "Preostali sljedbenici faraona",
+        "Naslijedio zemlju"
+      ],
+      "answer": "Pogubljen zbog vjere, obećan Raj"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

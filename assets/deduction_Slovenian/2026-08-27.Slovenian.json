@@ -1,0 +1,61 @@
+{
+  "title": "Izgovorljivi izbranec",
+  "intro": "V senci gore, kjer so se spuščale božanske besede, je vera ljudstva omahovala pod leskom zlata. Ena duša, obdarjena z zgovornostjo, je stala kot opora večjemu poslanstvu, a se je soočila s trenutkom globoke preizkušnje. Ko se je izbrani glasnik povzpel na sveto imenovanje, je ta osebnost ostala zadaj in prosila nemirni narod. Kdo je ta neomajna duša, katere glas se je dvignil proti malikovanju?",
+  "clues": [
+    "Alah me je izbral za preroka, čeprav se moja zgodba pogosto pripoveduje skupaj z drugo.",
+    "Poslali so me k tiranskemu vladarju, toda moja vloga je bila podpirati, ne voditi.",
+    "Bil sem nadarjen z zgovornostjo in moje besede so bile namenjene omehčanju src.",
+    "Ko je moj spremljevalec odšel na sveti sestanek, sem jaz ostal, da vodim nemirno ljudstvo.",
+    "V svoji nestrpnosti so si iz svojih okraskov ustvarili podobo, jaz pa sem jih prosil, naj ostanejo zvesti Alahu.",
+    "Moj spremljevalec se je vrnil in me zgrabil, vendar sem mu razložil, da so me ljudje premagali in skoraj ubili; nisem bil med prestopniki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Musa",
+        "Prerok Harun",
+        "Prerok Isa",
+        "Prerok Jahja",
+        "Prerok Zakarija"
+      ],
+      "answer": "Prerok Harun"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Biti vržen v ogenj",
+        "Biti vržen v vodnjak",
+        "Soočanje z incidentom z zlatim teletom",
+        "Preizkus hude bolezni",
+        "Preizkus izgube bogastva in otrok"
+      ],
+      "answer": "Soočanje z incidentom z zlatim teletom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlato tele",
+        "Osebje",
+        "Skrinja zaveze",
+        "Tablete",
+        "Goreči grm"
+      ],
+      "answer": "Zlato tele"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Strogo kaznovan",
+        "Odpuščeno in oproščeno",
+        "Postal kralj",
+        "Vzeti v nebesa",
+        "Glede na novo sveto pismo"
+      ],
+      "answer": "Odpuščeno in oproščeno"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

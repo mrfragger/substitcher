@@ -1,0 +1,61 @@
+{
+  "title": "Eo anelanelan'ny Tany sy ny Lanitra",
+  "intro": "Misy fanahy mistery miandry anao ao amin'ireo pejy masin'ny tantaran'Andriamanitra, mitondra famantarana sy fahagagana izay mbola manako hatrany amin'ny taona maro. Rehefa manaraka ny dian'ny fanoroana ianao dia handalo tantara iray voamariky ny fahagagana - manomboka amin'ny fiandohana mahagaga ka hatramin'ny fiakarana any an-danitra. Afaka mamantatra ity mpanompo voatahy ity ve ianao alohan'ny hanoroana farany?",
+  "clues": [
+    "Nirahina ho iraka ho an'ny Zanak'Isiraely aho nitondra vaovao mahafaly momba ny famindram-po sy ny fahazavana.",
+    "Famantarana mahagaga ny fahaterahako — tonga teto amin'ity izao tontolo izao ity aho tsy nanan-dray, araka ny didin'ny Tsitoha.",
+    "Niteny aho fony mbola zaza, niaro ny voninahitry ny reniko tamin'ny fiampangan'ny fireneny.",
+    "Noho ny fahazoan-dàlan'i Allah dia namorona vorona avy amin'ny tanimanga aho ary nanisy fofonaina aina tao anatiny — nanidina teo imason'ireo izay nijery izy ireo.",
+    "Nanasitrana ireo teraka jamba aho, nanasitrana ny boka, ary nanangana ny maty mihitsy aza — kanefa ny fahagagana rehetra dia noho ny fahazoan-dàlan'i Allah, fa tsy noho ny ahy.",
+    "Rehefa nikasa ny handringana ahy ny fahavaloko, dia nasandratr'i Allah ho any an-danitra aho ary nampanantena ny hiverenako alohan'ny Andro Fitsarana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Isa (Jesoa)",
+        "Mpaminany Musa (Mosesy)",
+        "Mpaminany Ibrahim (Abrahama)",
+        "Mpaminany Muhammad",
+        "Mpaminany Yusuf (Josefa)"
+      ],
+      "answer": "Mpaminany Isa (Jesoa)"
+    },
+    "trial": {
+      "label": "Ny Fotoana Nanamarika",
+      "options": [
+        "Nasandratra ho any an-danitra aho",
+        "Natsipy tao anaty afo mirehitra aho",
+        "Niatrika ny tafiky ny Farao mahery aho",
+        "Natelin'ny trozona lehibe aho",
+        "Nanangana sambo fiara teo an-tendrombohitra aho"
+      ],
+      "answer": "Nasandratra ho any an-danitra aho"
+    },
+    "location": {
+      "label": "Famantarana Masina Natao",
+      "options": [
+        "Namolavola vorona avy amin'ny tanimanga aho",
+        "Novako ho menarana ny tehina",
+        "Nozaraiko roa ny volana",
+        "Izaho no nandidy ny rivotra sy ny jiny",
+        "Nitondra rameva vavy avy tao anaty vatolampy aho"
+      ],
+      "answer": "Namolavola vorona avy amin'ny tanimanga aho"
+    },
+    "outcome": {
+      "label": "Inona no nanjo ahy?",
+      "options": [
+        "Nasandratra ho any an-danitra; nampanantenaina fa hiverina",
+        "Tonga mpitondra lehibe tao amin'ny empira iray",
+        "Nitarika ny oloko hiala tamin'ny fahababoana",
+        "Nomena harena tsy manan-tsahala teto an-tany",
+        "Nihaona indray tamin'ny fianakaviako rehefa avy nisaraka elaela"
+      ],
+      "answer": "Nasandratra ho any an-danitra; nampanantenaina fa hiverina"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

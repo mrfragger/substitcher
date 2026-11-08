@@ -1,0 +1,61 @@
+{
+  "title": "Premye san ki te koule nan jalouzi",
+  "intro": "Imajine premye jou limanite yo, lè lemonn antye te yon sèl fanmi. Ou wè de ofrann yo mete devan Allah — youn aksepte, lòt la rejte. Jalouzi pran rasin nan yon kè, epi yon menas yo chuichui nan kòlè. Sa k ap vini apre a ap kite yon mak nan listwa pou tout tan, e menm yon ti zwazo ap vin tounen yon pwofesè.",
+  "clues": [
+    "Mwen fè pati premye fanmi ki sou latè.",
+    "Mwen te prezante yon ofrann bay Allah, men pa m nan pa t aksepte alòske lòt ofrann nan te aksepte.",
+    "Mwen te pale avèk jalouzi epi mwen te menase pou m pran yon lavi.",
+    "Mwen te komèt premye krim enjis sou latè.",
+    "Mwen te wè yon kònèy k ap grate tè a pou montre m kijan pou m kache yon kadav.",
+    "Mwen te rete plen regrè epi mwen te vin pami moun ki pèdi pou sa men m yo te fè."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Qabil (Kayen), pitit gason Adan",
+        "Samiri, moun ki te fè ti bèf la",
+        "Namrud, tiran ki te diskite ak Ibrahim nan",
+        "Azar, moun ki fè zidòl yo",
+        "Kan'an, pitit gason Nouh ki te nwaye a"
+      ],
+      "answer": "Qabil (Kayen), pitit gason Adan"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Asasina yon frè ak sè akoz jalouzi apre yo te fin refize yon ofrann.",
+        "Bati yon gwo kay won pou gade syèl la",
+        "Fè yon ti bèf an lò pou adore",
+        "Ap mande yon tab ki soti nan syèl la",
+        "Dirije yon lame elefan pou detwi Kaaba a"
+      ],
+      "answer": "Asasina yon frè ak sè akoz jalouzi apre yo te fin refize yon ofrann."
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon kònèy k ap grate tè a pou montre antèman",
+        "Yon ti bèf an lò ki te rele",
+        "Yon gwo lach sou dlo inondasyon an",
+        "Yon baton ki tounen yon sèpan",
+        "Yon tab ki byen ranje ak manje ki soti nan syèl la"
+      ],
+      "answer": "Yon kònèy k ap grate tè a pou montre antèman"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Li te vin gen remò epi li te pami pèdan yo",
+        "Te nwaye nan gwo inondasyon an",
+        "Latè te vale l ak trezò",
+        "Li te pran lalèp pandan sèt ane",
+        "Yo te ba li yon wayòm ak kontwòl sou van yo"
+      ],
+      "answer": "Li te vin gen remò epi li te pami pèdan yo"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

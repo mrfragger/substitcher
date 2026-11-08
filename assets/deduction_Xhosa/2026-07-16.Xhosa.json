@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi Elachasa Ulawulo Lwesithixo",
+  "intro": "Phakathi kwabathunywa bakaSomandla kwakukho umkhonzi oqinileyo owaphakama phakathi kwesizwe esineenkani ukuze ahambise inyaniso. Abantu babo babesele bethathe uthixo ongeyonyani, bemshiya uMdali wazo zonke izinto ezikhoyo. Ngesigqibo esingagungqiyo, lo mntu wababiza ukuba babuye - kodwa umyalezo wahlangatyezwa ngokukhanyelwa nokulahlwa. Jonga izikhokelo ukuze ufumane ukuba ngubani lo mkhonzi uzinikeleyo.",
+  "clues": [
+    "Ndathunyelwa njengomthunywa kubantu abaneenkani ababephambukele kude nendlela ethe tye.",
+    "Ndize kukhumbuza isizwe sam ngoLowo wadala konke okukhoyo — oyena mdali ubalaseleyo kubo bonke.",
+    "Abantu bam babeguqukele kwisithixo sobuxoki ababesihlonela kwaye besibiza imini nobusuku.",
+    "Ndawaphikisa ngesibindi, ndiwabuza ukuba kutheni beya kunqula uthixo ongeyonyani baze bamlahle iNkosi yabo yokwenene.",
+    "Bandikhanyele, bala ukuphulaphula, baza babambelela ebuxokini babo—kodwa iNkosi yam yandilondoloza.",
+    "NdinguIlyas — kwaye uxolo lwandinikwa, kwaye ndabalwa phakathi kwabakhonzi abakholwayo boSobubele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uIlyas",
+        "Umprofeti uIdris",
+        "Umprofeti u-Alyasa",
+        "Umprofeti uDhul-Kifl",
+        "Umprofeti uNuh"
+      ],
+      "answer": "Umprofeti uIlyas"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukubiza abantu ukuba bayeke ukunqula uBhali",
+        "Ukujongana nomtyholi owayesithi unguthixo",
+        "Isilumkiso kubantu ngesikhukula esizayo",
+        "Ukuphoswa emlilweni omkhulu ovuthayo",
+        "Ukukhokela ufuduko kwilizwe lobukhoboka"
+      ],
+      "answer": "Ukubiza abantu ukuba bayeke ukunqula uBhali"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isithixo esibizwa ngokuba nguBhahali",
+        "Umkhombe omkhulu owakhiwe ngomthi oqinileyo",
+        "Intonga eyahlula ulwandle olukhulu",
+        "Ingubo engcwele edyojwe ligazi",
+        "Isihlahla esivuthayo entabeni engcwele"
+      ],
+      "answer": "Isithixo esibizwa ngokuba nguBhahali"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uxolo lunikwe kwaye lubalwa phakathi kwabakhonzi abakhethiweyo baka-Allah",
+        "Bakhokelwa bangena eparadesi ngelixa bonke abanye batshatyalaliswa",
+        "Ndasindiswa emlilweni omkhulu owaba shushu kwaye ukhuselekile",
+        "Unikwe ulawulo phezu kweejin, uluntu, nomoya",
+        "Umzimba ugcinwe njengophawu oluhlala luhleli ngonaphakade"
+      ],
+      "answer": "Uxolo lunikwe kwaye lubalwa phakathi kwabakhonzi abakhethiweyo baka-Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

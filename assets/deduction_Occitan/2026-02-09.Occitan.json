@@ -1,0 +1,60 @@
+{
+  "title": "Lo jutjament jos las ondas",
+  "intro": "Un profèta, cargat per sa mission, prenguèt una decision que lo menèt luènh de son pòble e dins un jutjament inesperat. Son viatge prenguèt un viratge dramatic, en testant sa fe e sa paciéncia del biais mai prigond. Podètz deduire los detalhs d'aquel eveniment extraordinari a partir dels indicis provesits?",
+  "clues": [
+    "Un profèta foguèt mandat cap a un pòble, mas partiguèt a la pressa, sentissent frustracion per lor refús.",
+    "Son viatge lo menèt a la mar, ont montèt dins un vaissèl fòrça cargat en cèrca de passatge.",
+    "Una granda tempèsta se levèt, menaçant la nau, e una decision foguèt presa de getar una persona per dessús la mar per alleujar la carga, determinada per sòrts.",
+    "Foguèt engolit per una creatura del prigond, un eveniment miraculos decretat per la volontat Divina.",
+    "Dins los confins del ventre de la creatura, cridèt son Senhor, en se repentant e en glorificant Allah dins l'escur.",
+    "Après un periòde de supplicacion intensa, foguèt getat sus una riba èrma, feble mas viu, e mai tard tornèt trobar que son pòble aviá enfin cregut."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profèta/Persona",
+      "options": [
+        "Profèta Nuh",
+        "Lo profèta Lut",
+        "Lo profèta Musa",
+        "Lo profèta Yunus",
+        "Lo profèta Yusuf"
+      ],
+      "answer": "Lo profèta Yunus"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "L'inondacion de Nuh",
+        "La destruccion de Sodòma",
+        "Lo viatge dins lo ventre del grand peis",
+        "La fendidura de la mar",
+        "La revelacion de l'arbust ardent"
+      ],
+      "answer": "Lo viatge dins lo ventre del grand peis"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "Mont Sinai",
+        "L'Estat Major de Musa",
+        "Lo Grand Peis",
+        "Lo Potz de Yusuf"
+      ],
+      "answer": "Lo Grand Peis"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Un novèl pacte amb l'umanitat",
+        "Una naissença miraculosa per son pòble",
+        "Un reialme establit per son linhatge",
+        "Un retorn a son pòble qu'alavetz cresiá",
+        "Una victòria sus un regent tiranic"
+      ],
+      "answer": "Un retorn a son pòble qu'alavetz cresiá"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

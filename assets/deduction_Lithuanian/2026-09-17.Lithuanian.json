@@ -1,0 +1,61 @@
+{
+  "title": "Datulių palmės pavėsyje",
+  "intro": "Pasakojama istorija apie sielą, atskirtą prieš gimimą, auginamą šventose sienose ir pasirinktą nešti ženklą, kurio pasaulis dar nematė. Kai iš visų pusių pasigirdo kaltinimai, iš netikėčiausios vietos pasigirdo balsas, nutildęs visas abejones. Ar galite sužinoti, kas vaikščiojo po datulių palmės pavėsiu?",
+  "clues": [
+    "Aš buvau pasišventusi Visagalio tarnybai dar prieš įkvėpdama pirmojo įkvėpimo – šį įžadą davė tas, kuris mane nešė.",
+    "Aš užaugau globojamas teisaus globėjo šventuose garbinimo vietos kambariuose.",
+    "Kai tik mano globėjas ateidavo į mano kambarius, rasdavo pas mane atsargų iš ne išeiginių laikų.",
+    "Man buvo pranešta apie sūnų, nors mano aplinkybės nepaliko laiko tam, kas buvo pažadėta.",
+    "Pasitraukiau į tolimą vietą, kur datulių palmė man teikė pavėsį, o apačioje tekėjo upelis.",
+    "Kai mane apėmė kaltinimai ir klausimai, parodžiau į savo naujagimį – ir jis kalbėjo nuo lopšio, nutildydamas visas abejones."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hava",
+        "Um Musa",
+        "Nuho žmona"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Bandomasis / Įvykis",
+      "options": [
+        "Vienišas stebuklingo sūnaus gimimas",
+        "Stabmeldžių įmetimas į liepsnojančią ugnį",
+        "Išgyventi didįjį tvaną su išrinktųjų grupe",
+        "Atskyrimas nuo kūdikio, įmesto į upę",
+        "Susidūrimas su galingu Egipto valdovu"
+      ],
+      "answer": "Vienišas stebuklingo sūnaus gimimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Datulių palmė ir po ja tekantis upelis",
+        "Galinga arka ant kylančių bangų",
+        "Lazdą, kuri didžiulę jūrą perskyrė pusiau",
+        "Liepsnojanti ugnis, skirta praryti ištikimą sielą",
+        "Auksinis sostas, papuoštas brangakmeniais"
+      ],
+      "answer": "Datulių palmė ir po ja tekantis upelis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Gerbiama kaip kilniausia iš visų moterų",
+        "Po ilgo išsiskyrimo vėl susitiko su mylimu vaiku",
+        "Išvadavo visą tautą iš tirono vergijos",
+        "Įspėjo amoralumo apimtą tautą",
+        "Suteikta valdžia džinams, žmonijai ir vėjams"
+      ],
+      "answer": "Gerbiama kaip kilniausia iš visų moterų"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

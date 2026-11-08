@@ -1,0 +1,61 @@
+{
+  "title": "Sofandi leitendur sannleikans",
+  "intro": "Ímyndaðu þér tíma þegar trú var véfengd og hópur sálna valdi óhagganlega sannfæringu fram yfir veraldlegan þægindi. Frammi fyrir erfiðri ákvörðun leituðu þær hælis og lögðu af stað í ferðalag sem leiddi til óvenjulegs svefns. Saga þeirra er vitnisburður um guðlega vernd og kraft trúarinnar gegn kúgun. Geturðu greint hverjir þessir einstöku einstaklingar eru?",
+  "clues": [
+    "Við vorum lítill hópur, sameinaður af djúpri trú á hinn eina skapara.",
+    "Við lifðum á tímum þegar voldugur stjórnandi krafðist tilbeiðslu annarra en Allah.",
+    "Til að varðveita trú okkar ákváðum við að yfirgefa heimili okkar og flýja kúgunina.",
+    "Tryggur félagi, skepna jarðarinnar, fylgdi okkur í ferð okkar.",
+    "Við fundum griðastað á afviknum stað þar sem Allah lét okkur sofna djúpt og langvarandi.",
+    "Þegar við vöknuðum trúðum við að aðeins einn dagur eða hluti úr degi væri liðinn, en aldir væru sannarlega liðnar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið í skurðinum",
+        "Fólkið í Thamud",
+        "Fólkið á Saba",
+        "Fólkið í hellinum",
+        "Fólkið í Madyan"
+      ],
+      "answer": "Fólkið í hellinum"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að vera prófaður með hrjóstrugu landi",
+        "Frammi fyrir miklu flóði",
+        "Að leita skjóls frá harðstjóra",
+        "Að vera kastað í brennandi eld",
+        "Að ögra töfrum galdramanns"
+      ],
+      "answer": "Að leita skjóls frá harðstjóra"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Stórkostlegt höll",
+        "Skip/örk",
+        "Djúpur brunnur",
+        "Hellir",
+        "Töfrandi fjall"
+      ],
+      "answer": "Hellir"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Að fá konungsríki",
+        "Undursamlegur blundur í aldir",
+        "Að vera gleypt af jörðinni",
+        "Að vera bjargað frá eyðileggjandi stormi",
+        "Að fá himneskt borð"
+      ],
+      "answer": "Undursamlegur blundur í aldir"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

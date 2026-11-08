@@ -1,0 +1,61 @@
+{
+  "title": "Der Tag der letzten Vorführung",
+  "intro": "Zu einer grandiosen Machtdemonstration aufgerufen, sahen sich einige talentierte Künstler einer unerwarteten Wahrheit gegenüber, die ihr Leben für immer verändern sollte.",
+  "clues": [
+    "Wir waren berühmt für unser Handwerk, Meister der Illusion und der Täuschung.",
+    "Wir wurden vom Herrscher vorgeladen, um uns einem Herausforderer zu stellen, der einen einfachen Stab schwang.",
+    "Als wir die Wahrheit erkannten, fielen wir nieder und bekannten unseren Glauben an den Herrn der Welten.",
+    "Der Tyrann drohte uns mit schwerer Bestrafung, aber wir blieben standhaft.",
+    "Wir gehörten zu den Ersten, die nach dem Erkennen des eindeutigen Zeichens an die Botschaft glaubten.",
+    "Wir wurden für unseren Glauben gemartert, aber wir werden die Ersten sein, die mit den Gerechten ins Paradies eingehen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Die Magier des Pharao",
+        "Die Israeliten",
+        "Das Volk von Thamud",
+        "Die Jünger von Jesa",
+        "Die Armee von Abraham"
+      ],
+      "answer": "Die Magier des Pharao"
+    },
+    "trial": {
+      "label": "Prüfung / Veranstaltung",
+      "options": [
+        "Wettstreit mit Prophet Musa",
+        "Bau des Turms",
+        "Die große Flut",
+        "Die Heuschreckenplage",
+        "Das gespaltene Meer"
+      ],
+      "answer": "Wettstreit mit Prophet Musa"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Festtag",
+        "Das Tal von Tuwa",
+        "Die Stadt Iram",
+        "Der Garten der Ewigkeit",
+        "Die Ebene von Arafat"
+      ],
+      "answer": "Der Festtag"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie wurden öffentlich gekreuzigt.",
+        "Sie ertranken im Meer",
+        "Sie wurden zu Anhängern des Propheten gemacht",
+        "Sie wurden ins Exil geschickt.",
+        "Sie wurden vom Feuer verzehrt."
+      ],
+      "answer": "Sie wurden öffentlich gekreuzigt."
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

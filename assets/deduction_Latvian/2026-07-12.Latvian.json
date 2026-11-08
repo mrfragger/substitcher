@@ -1,0 +1,61 @@
+{
+  "title": "Nepārspējamas majestātes pazudusī pilsēta",
+  "intro": "Kādreiz pār plašām zemes platībām valdīja varena civilizācija, kas bija slavena ar iespaidīgajām celtnēm, kas sniedzās pret debesīm. Tomēr zem šī varenības auga spītīga noliegšana — atteikšanās uzklausīt dievišķo brīdinājumu, kas sūtīts no pašas kopienas. Lepnums un augstprātība drīz vien novedīs pie tāda soda, kādu ne zeme, ne debesis nekad nebija pieredzējušas.",
+  "clues": [
+    "Reiz mēs valdījām pār plašām zemes platībām, lepojoties ar spēku, ar kuru, mūsuprāt, neviena cita civilizācija nespēja sacensties.",
+    "Mūsu valstība bija slavena ar savām milzīgajām celtnēm ar vareniem pīlāriem, kuriem nebija līdzvērtīgu vietu nevienā zināmā zemē.",
+    "No mūsu pašu kopienas piecēlās brīdinājuma vēstnesis, aicinot ikvienu no mums pakļauties tikai Vienīgajam Radītājam.",
+    "Mēs noraidījām mums sniegto vēstījumu un atteicāmies pamest ceļu, ko bijām mantojuši.",
+    "Pret mums tika palaists vaļā nikns, gaudojošs, ārkārtīgi spēcīgs vējš, atstājot mūs pilnīgi neaizsargātus.",
+    "Mēs bijām atstāti kā dobi palmu stumbri, izkaisīti un aizmirsti, kā mācība katrai nākamajai paaudzei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "A'adas iedzīvotāji",
+        "Nuhas iedzīvotāji",
+        "Lutas iedzīvotāji",
+        "Madjanas iedzīvotāji",
+        "Tubbas iedzīvotāji"
+      ],
+      "answer": "A'adas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Nežēlīgs, nikns, barga soda vējš",
+        "Plūdi, kas pārklāja katru kalnu virsotni",
+        "No augšas līst degošu māla akmeņu lietus",
+        "Viens šausminošs kliedziens no debesīm",
+        "Spēcīga zemestrīce, kas sašķēla zemi"
+      ],
+      "answer": "Nežēlīgs, nikns, barga soda vējš"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Irama, augsto pīlāru pilsēta",
+        "Milzīga koka šķirsta, kas celta kalnā",
+        "Kamielis, kas brīnumainā kārtā iznira no akmens",
+        "Sinaja kalns, kur nonāca dievišķie baušļi",
+        "Kristāla un smalka stikla pils, no kuras paveras skats uz plūstošiem ūdeņiem"
+      ],
+      "answer": "Irama, augsto pīlāru pilsēta"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Atstāti kā dobi palmu stumbri, izkaisīti un nedzīvi",
+        "Noslīcis zem milzīgu plūdu viļņiem",
+        "Pārveidoti par radībām, kas atgādina pērtiķus un cūkas",
+        "Saspiests zem sacietējušu māla akmeņu lietus",
+        "Aprīts vienā apdullinošā kliedzienā, kas caurdūra dvēseli"
+      ],
+      "answer": "Atstāti kā dobi palmu stumbri, izkaisīti un nedzīvi"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

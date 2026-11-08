@@ -1,0 +1,61 @@
+{
+  "title": "A jel a kövek között",
+  "intro": "Egy olyan földön, ahol a hegyekbe házakat vájtak, egy hírnök érkezett Allah csodálatos jelével. Az emberek bizonyítékot követeltek, és egy sziklából készült teremtményt kaptak. De arroganciájuk arra késztette őket, hogy dacoljanak a figyelmeztetéssel, megpecsételve sorsukat.",
+  "clues": [
+    "Egy olyan néphez küldtek, akik hegyekbe vájt lakásokban éltek.",
+    "Felszólítottak, hogy hozzak egy jelet, így előhúztam egy tevét egy sziklából.",
+    "Megparancsoltam nekik, hogy hagyjanak bőven inni a tevét, és ne bántsák.",
+    "Engedetlenek voltak, és megbénították a tevét, dacolva a figyelmeztetésemmel.",
+    "Kijelentettem, hogy három nap múlva jön a büntetés.",
+    "Reggel egy hatalmas robbanás pusztította el őket, de engem és követőimet megmentett a menekülés."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Szálih próféta",
+        "Hud próféta",
+        "Lut próféta",
+        "Suajb próféta",
+        "Ibrahim próféta"
+      ],
+      "answer": "Szálih próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Nőstény teve iránti igény egy sziklától",
+        "Az aranyborjú iránti kereslet",
+        "Az égből terjedő asztal iránti igény",
+        "Az árvíz iránti igény",
+        "Követelmény, hogy a személyzet kígyóvá váljon"
+      ],
+      "answer": "Nőstény teve iránti igény egy sziklától"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A nőstény teve és a borja",
+        "Noé bárkája",
+        "Mózes botja",
+        "Az aranyborjú",
+        "Ibrahim tüze"
+      ],
+      "answer": "A nőstény teve és a borja"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egy hatalmas robbanás pusztította el",
+        "Megfulladt az árvízben",
+        "Elnyelte a föld",
+        "Majmokká változtak",
+        "Egy heves szél pusztította el"
+      ],
+      "answer": "Egy hatalmas robbanás pusztította el"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

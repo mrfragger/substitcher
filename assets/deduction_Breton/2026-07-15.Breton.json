@@ -1,0 +1,61 @@
+{
+  "title": "An distro dizalc'h",
+  "intro": "E-barzh annaloù ar c'hras divin ez eus un ene a c'hlanded hep e bar, lakaet diouzh e bobl evit klask an digenvezded en un tu sakr. Ne ouient ket e tegase an digenvezded-se ur sin evit an holl bedoù, un amprouenn a feiz a vefe komzet diwar e benn da viken.",
+  "clues": [
+    "Gouestlet e oan d'ur vuhez servij a-raok ma c'hanedigezh.",
+    "Lakaet on bet dindan gwarez ur profed nobl.",
+    "Pourvezet on bet gant pourvezioù digant Allah a souezhas ma gwazour.",
+    "En em dennañ a ran diouzh ma familh evit mont d'ul lec'h er c'hreisteiz.",
+    "Un eal en em ziskouezas din dindan stumm un den parfet, o tigas ar c'heloù eus ur mab glan.",
+    "Pa zistrois gant va bugel nevez-c'hanet, va zud a damallas ac'hanon, met ar bugel bihan a gomzas evit va difenn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiya (gwreg Faraon)",
+        "Hajar (mamm Ismail)",
+        "Sarah (gwreg Ibrahim)",
+        "Mamm Musa"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Burzhudus ar c'hanedigezh hag ar ganedigezh eus ur mab",
+        "Bezañ taolet en tan",
+        "Bezañ lonket gant ur pesk ramzel",
+        "O sevel eun arc'h braz",
+        "O treuziñ ar mor"
+      ],
+      "answer": "Burzhudus ar c'hanedigezh hag ar ganedigezh eus ur mab"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ul lec'h digenvez er c'hreisteiz",
+        "Ar vodenn o teviñ",
+        "Ar Mor Ruz |",
+        "Ar roc'h ma strinke an dour diouti",
+        "Ar balum"
+      ],
+      "answer": "Ul lec'h digenvez er c'hreisteiz"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Ur bugel bihan a gomzas evit difenn ur vamm",
+        "Ar mor a oa dispartiet",
+        "Dont a reas an tan da vezañ fresk ha sur",
+        "Skuizhañ a reas ar balum war an aod",
+        "Diskenn a reas an arc'h war ur menez"
+      ],
+      "answer": "Ur bugel bihan a gomzas evit difenn ur vamm"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

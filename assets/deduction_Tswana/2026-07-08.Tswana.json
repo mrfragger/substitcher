@@ -1,0 +1,61 @@
+{
+  "title": "Baoki ba Batlhophiwa",
+  "intro": "Go ralala hisitori, barongwa ba bomodimo ba ne ba tsamaya mo gare ga batho, mme bangwe ba ba neng ba le gaufi thata le bone ba ne ba palelwa ke go lemoga lesedi. Pego e no e dikologa mewa e mebedi e go nna gaufi ga yone le boporofeti go neng ga nna teko ya yone, mme boswa jwa yone e le thuto e e sa feleng.",
+  "clues": [
+    "Re ne re tshela mo dinakong tsa baporofiti ba bagolo, le fa go ntse jalo matlho a rona a ne a nna a tswetswe mo boammaaruring jo ba neng ba bo tlisa.",
+    "Matlo a rona a ne a tletse ka tshenolo ya selegodimo, mme dipelo tsa rona di ne di thatafaditswe.",
+    "Re ne re nyetswe ke banna ba ba neng ba tlhophetswe go tlhagisa batho ba bone.",
+    "Fa kotlhao e tla, ga re a ka ra batla tshireletso mo arakeng le fa e le go tshaba pula e e tukang, ka gonne re ne re sotla ditlhagiso.",
+    "Re umakiwa mo Quran jaaka sekao sa bao ba sa dumeleng, go bontsha gore le botsalano jo bo gaufi le moporofeti ga bo pholose.",
+    "Re basadi ba ga Nuhe le Lute, ba ba neng ba ba oka mme ka jalo ba atlholwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Basadi ba ga Nuhe le Lute .",
+        "Basadi ba ga Ibrahime le Isma'ile",
+        "Basadi ba ga Musa le Haruna",
+        "Basadi ba ga Dawude le Sulaymane",
+        "Basadi ba ga Ayyub le Yunus"
+      ],
+      "answer": "Basadi ba ga Nuhe le Lute ."
+    },
+    "trial": {
+      "label": "Tsheko ya bone e ne e le eng?",
+      "options": [
+        "Ba ne ba nyetswe ke baporofeta mme ba sa dumele .",
+        "Ba ne ba le moopa mme ba pega baporofeti molato .",
+        "Ba ne ba humile e bile ba le mabela",
+        "Ba ne ba raelesega ke Iblis gore ba tswe mo matlong a bone .",
+        "Ba ne ba obamela Namane ya Gauta ."
+      ],
+      "answer": "Ba ne ba nyetswe ke baporofeta mme ba sa dumele ."
+    },
+    "location": {
+      "label": "Phelelo ya bone e ne e bofilwe mo go eng?",
+      "options": [
+        "Morwalela le pula ya matlapa .",
+        "Phefo e e bogale",
+        "Thoromo ya lefatshe",
+        "Sebetso sa tsie",
+        "Go kgaogana ga lewatle"
+      ],
+      "answer": "Morwalela le pula ya matlapa ."
+    },
+    "outcome": {
+      "label": "Bokhutlo jwa bone e ne e le bofe?",
+      "options": [
+        "Ba nyelela le baheitane",
+        "Ba ikwatlhaya mme ba pholosiwa .",
+        "Ba ne ba sala ba sena bana .",
+        "Ba ne ba isiwa botshwarwa ka bosakhutleng",
+        "Ba ne ba fetolwa go nna ditshwene le dikolobe"
+      ],
+      "answer": "Ba nyelela le baheitane"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

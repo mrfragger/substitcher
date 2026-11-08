@@ -1,0 +1,61 @@
+{
+  "title": "Ekkoet fra byens udkant",
+  "intro": "I en by, der havde vendt sig bort fra guddommelig vejledning, dukkede en ensom skikkelse op fra udkanten, løbsk med et budskab om håb og advarsel. Denne glemte sjæl skulle blive et evigt symbol på standhaftig tro.",
+  "clues": [
+    "Jeg var vidne til, at budbringere blev sendt til min by, men mit folk afviste dem som almindelige mennesker.",
+    "Jeg troede på deres budskab og følte sandheden give genlyd i mit indre.",
+    "Jeg opfordrede mit folk til at adlyde de sendebud, der ikke bad om nogen belønning.",
+    "Jeg løb fra den fjerneste ende af byen i et indtrængende forsøg på at få dem til at se fornuft.",
+    "Mit folk rejste sig imod mig, og jeg blev dræbt, men jeg fandt evig fred.",
+    "Allah sagde til mig: \"Gå ind i Paradis,\" og jeg ønskede, at mit folk kunne være vidne til den ære, der blev skænket mig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Den troende på Ya-Sin",
+        "Uzair Spørgeren",
+        "Al-Khidr, guiden",
+        "Den troende i Faraos familie",
+        "Namrud Tyrannen"
+      ],
+      "answer": "Den troende på Ya-Sin"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Konfrontation med et vantro folk, der dræbte ham",
+        "At blive kastet ind i en flammende ild",
+        "At blive slugt af en stor fisk",
+        "Konstruktion af en massiv ark",
+        "Flygter fra en tyranns hær"
+      ],
+      "answer": "Konfrontation med et vantro folk, der dræbte ham"
+    },
+    "location": {
+      "label": "Nøgleplacering",
+      "options": [
+        "Den fjerneste ende af byen",
+        "Tur-bjerget",
+        "Myrernes Dal",
+        "Nilens bredder",
+        "Hulens hule"
+      ],
+      "answer": "Den fjerneste ende af byen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Martyrium og øjeblikkelig adgang til Paradis",
+        "Flugt og frelse",
+        "Himmelfart",
+        "Drukning i havet",
+        "Forvandling til sten"
+      ],
+      "answer": "Martyrium og øjeblikkelig adgang til Paradis"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

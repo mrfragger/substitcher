@@ -1,0 +1,61 @@
+{
+  "title": "Lo signe demest las pèiras",
+  "intro": "Dins una tèrra ont las montanhas èran talhadas dins los ostals, un messatgièr arribèt amb un signe miraculos d'Allah. Lo pòble demandèt de pròvas, e recebèron una creatura de ròca solida. Mas lor arrogància los menèt a desfisar l'avertiment, en tancant lor destin.",
+  "clues": [
+    "Foguèri mandat a un pòble que viviá dins d'abitatges talhats de montanhas.",
+    "Me desfisèron de portar un panèu, alara produsiguèri un camèl d'una ròca.",
+    "Lor comandèri de daissar lo camèl beure liurament e de lo far pas mal.",
+    "Desobeïguèron e talhèron lo camèl, en desfisant mon avertiment.",
+    "Anoncièri que lo castig arribariá après tres jorns.",
+    "Al matin, una fòrta explosion los destruguèt, mas ieu e mos seguidors foguèrem salvats."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Salih",
+        "Profèta Hud",
+        "Lo profèta Lut",
+        "Profèta Shu'ayb",
+        "Lo profèta Ibrahim"
+      ],
+      "answer": "Profèta Salih"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Demanda d'una camèla d'una ròca",
+        "Demanda d'un vedèl d'aur",
+        "Demanda d'una taula espandida del cèl",
+        "Demanda d'una inondacion",
+        "Demanda d'un baston per venir una sèrp"
+      ],
+      "answer": "Demanda d'una camèla d'una ròca"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La camèla e son vedèl",
+        "L'Arca de Noè",
+        "Lo Baston de Moïses",
+        "Lo vedèl d'aur",
+        "Lo fuòc d'Ibrahim"
+      ],
+      "answer": "La camèla e son vedèl"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruit per un poderós esclat",
+        "Afogat dins l'inondacion",
+        "Engolit per la tèrra",
+        "Convertits en simis",
+        "Destruit per un vent ferotge"
+      ],
+      "answer": "Destruit per un poderós esclat"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

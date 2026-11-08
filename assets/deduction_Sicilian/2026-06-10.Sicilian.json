@@ -1,0 +1,61 @@
+{
+  "title": "Li Guardiani dû Jardinu",
+  "intro": "Ntâ nu jardinu lussureggianti, na cumunità fici nu votu solenni. Ma la sò risoluzzioni fu misu â prova quannu intervinni la vuluntà divina, trasfurmannu la sò ricchizza nna na terra sterili.",
+  "clues": [
+    "Fumu biniditti cu nu jardinu abbunnanti, ma addivintamu arrugganti.",
+    "Ficimu nu pianu pi arricogghiri senza cunnivìdiri cû pòviri.",
+    "Partìmu la matina prestu, sicuri dû nostru schema.",
+    "Ma quannu arrivàmu, attruvamu ca lu nostru jardinu era statu distruttu ntâ notti.",
+    "Capìamu lu nostru sbagghiu e accuminciamu a dari la culpa l'unu all'àutru.",
+    "Â fini ni pintìamu, ma la lizziuni fu 'mparata troppu tardu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi Semu Nui?",
+      "options": [
+        "Genti di lu jardinu",
+        "Genti da Grutta",
+        "Genti di l'Elifanti",
+        "Pòpulu di Thamud",
+        "Genti di 'Ad"
+      ],
+      "answer": "Genti di lu jardinu"
+    },
+    "trial": {
+      "label": "Pruva/Eventu",
+      "options": [
+        "Un jardinu trasfurmatu 'n cìniri",
+        "N'alluvioni ca distrudìu tuttu",
+        "Na caristìa chi curpìu la terra",
+        "N'asèrcitu d'aceddi ca attacca",
+        "Un ventu granni ca sradicàu l'àrburi"
+      ],
+      "answer": "Un jardinu trasfurmatu 'n cìniri"
+    },
+    "location": {
+      "label": "Elementu chiavi",
+      "options": [
+        "Nu jardinu",
+        "Na grutta",
+        "Na navi",
+        "Na muntagna",
+        "Nu palazzu"
+      ],
+      "answer": "Nu jardinu"
+    },
+    "outcome": {
+      "label": "Risurtatu",
+      "options": [
+        "Si pintiru ma pirderu lu jardinu",
+        "Foru distruggiuti cumpritamenti",
+        "Furu trasfurmati 'n scimmii",
+        "Foru sarvati pâ fidi",
+        "Addivintaru rignanti"
+      ],
+      "answer": "Si pintiru ma pirderu lu jardinu"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

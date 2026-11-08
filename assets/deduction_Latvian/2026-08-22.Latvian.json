@@ -1,0 +1,61 @@
+{
+  "title": "Pilsēta, kas ticēja laikam",
+  "intro": "Dievišķās žēlastības annālēs ir aprakstīta kopiena, kuras pagrieziena punkts bija kolektīvas atklāsmes brīdis. Jūs tūlīt atklāsiet viņu stāstu — brīdinājuma, grēku nožēlas un atpestīšanas stāstu, kas viņus atšķīra no citu tautu likteņiem.",
+  "clues": [
+    "Mēs bijām tauta, kurai tika sūtīts vēstnesis, un sākumā mēs novērsāmies no viņa aicinājuma.",
+    "Kad kļuva skaidras gaidāmā soda pazīmes, mēs sapratām viņa brīdinājuma patiesumu.",
+    "Mēs ar patiesu grēku nožēlu pievērsāmies savam Kungam, un mūsu ticība tika pieņemta.",
+    "Sods, kas mums bija piespriests, tika atcelts mūsu ticības dēļ.",
+    "Mūsu stāsts tiek minēts kā izņēmums starp pilsētām, kas ticēja pēc tam, kad bija redzējušas sodu.",
+    "Mēs bijām pravieša tauta, kuru aprija valis, tomēr mēs tikām izglābti no iznīcības."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Junusa ļaudis",
+        "Nuhas iedzīvotāji",
+        "Hudas iedzīvotāji",
+        "Salihas iedzīvotāji",
+        "Lutas iedzīvotāji"
+      ],
+      "answer": "Junusa ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Postoši plūdi",
+        "Spēcīga vētra",
+        "Gaidāms negoda sods, kas tika novērsts",
+        "Zeme tos aprij",
+        "Akmeņu lietus"
+      ],
+      "answer": "Gaidāms negoda sods, kas tika novērsts"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Šķirsts",
+        "Kamielis",
+        "Pilsēta ar simts tūkstošiem iedzīvotāju",
+        "Musas personāls",
+        "Koruna dārgumu krātuve"
+      ],
+      "answer": "Pilsēta ar simts tūkstošiem iedzīvotāju"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Tie tika pilnībā iznīcināti",
+        "Viņiem kādu laiku tika dots prieks",
+        "Viņi tika pārveidoti par pērtiķiem",
+        "Viņi tika noslīkuši",
+        "Viņus aprija zeme"
+      ],
+      "answer": "Viņiem kādu laiku tika dots prieks"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

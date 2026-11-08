@@ -1,0 +1,61 @@
+{
+  "title": "La flama che g’ha purtà un eredità",
+  "intro": "In di annal de la resistenza, g’he una figüra che el sò nomm l’è diventà un avvertiment per la fin di temp. Questa persuna l’ha scelt l’odio inveci de la parentela, la sfida inveci de la sottomisiün e l’è stada in oposiziun a una ciamada de misericordia. Asculta ben i echi de un’antica proclamaziun menter descoverzem l’identidà de chesta anima famusa.",
+  "clues": [
+    "L’eri nassuu in del stess clan del ültim messagger de Allah, eppure l’eri cuntra de luur a ogni curva.",
+    "El me nomm g’haveva un significà: un nomm che vœur dì “pà de la flama”, un nomm che g’haveva de preveder el me destin eterno.",
+    "Ho scatenà el dann cuntra el purtadur de la verità, e anca la mia familia la s’è unida a chesta campagna de crudeltà.",
+    "Ho duperà la me richeza e la me influenza per tasè la chiamada a Allah, credend che i dané pudevan spegner la lüs divina.",
+    "Allah m’ha dedicad un capitol intreg, un capitol insì curt qe al pœl vesser recitad in quai segond, ma el so pes al resta infina al Dì del Giudizi.",
+    "El me compagn in del Aldilà camina derè a mi, ligà de una corda de fibra intorn al còll, purtand i spini che duperavan per spantegà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah bn Nawfal",
+        "Umayya ibn Khalaf",
+        "Uqbah ibn Abi Muayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definir la cunfrontaziun",
+      "options": [
+        "Guidar l'oposiziun cuntra el Profeta a la Mecca",
+        "Migrar in Abissinia per scappar da la persecuziun",
+        "Costruir la Kaaba cunt el Profeta Ibrahim",
+        "Acetar l'Islam sul lecc de la mort",
+        "Falgià el tratà de Hudaybiyyah"
+      ],
+      "answer": "Guidar l'oposiziun cuntra el Profeta a la Mecca"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una dona che la purtava spine e legn",
+        "Un bastun che se trasfurmò en un serpent",
+        "Un anel che g’ha el segn de Salomon",
+        "Un vitell d’or venerà del popul",
+        "Una surgent che spurgava l’aqua"
+      ],
+      "answer": "Una dona che la purtava spine e legn"
+    },
+    "outcome": {
+      "label": "Relto final",
+      "options": [
+        "Una sura intera rivelada che la dichiarava la ruina total",
+        "L’è diventà el capo de la comunità musulmana",
+        "Ricevü el perdun in del mument de la mort",
+        "Costruì una grand moschèa a Medina",
+        "L’è stà resuscità intra i giüst"
+      ],
+      "answer": "Una sura intera rivelada che la dichiarava la ruina total"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

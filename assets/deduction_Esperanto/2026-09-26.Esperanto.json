@@ -1,0 +1,61 @@
+{
+  "title": "La Neo Meze de Abundo",
+  "intro": "Vi trovas vin inter popolo, kies merkatoj zumas de komerco, tamen ilia pesilo kliniĝas malhoneste. Mesaĝisto venis al ili kun klaraj avertoj, sed ili ridas kaj forturniĝas, memfidaj pri sia prospero. La ĉielo komencas mallumiĝi, sed ili vidas ĝin kiel benon de pluvo. Kiuj estas ĉi tiuj homoj?",
+  "clues": [
+    "Ni prosperis en teroj de komerco kaj abundo, tamen niaj koroj fariĝis senkora.",
+    "Mesaĝisto venis al ni kun signoj de nia Sinjoro, sed ni mokis liajn avertojn.",
+    "Ni estis konataj pro nia metio, sed ni estis mallonge mezurantaj kaj trompis la popolon.",
+    "Ni vivis inter densaj arboj kaj abunda vegetaĵaro, sed ni prenis niajn benojn kiel memkompreneblajn.",
+    "Kiam malhela nubo alproksimiĝis, ni ĝojis, pensante ke ĝi alportos pluvon al niaj sekaj teroj.",
+    "Anstataŭe, tiu nubo ellasis bruligan punon, kaj nin kaptis la turmento de la tago de ombro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "Aŝab al-Ajka (La Kunuloj de la Arbaro)",
+        "Homoj de Thamud",
+        "Homoj de 'Ad",
+        "Homoj de Lut",
+        "Homoj de Nuh"
+      ],
+      "answer": "Aŝab al-Ajka (La Kunuloj de la Arbaro)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Ili malakceptis sian mesaĝiston kaj fraŭdis en komerco",
+        "Ili adoris oran bovidon kaj estis misgviditaj",
+        "Ili praktikis sodomion kaj atakis vojaĝantojn",
+        "Ili konstruis altajn turojn kaj defiis Dion",
+        "Ili rifuzis dividi akvon kaj vundis kamelinon"
+      ],
+      "answer": "Ili malakceptis sian mesaĝiston kaj fraŭdis en komerco"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Densa arbaro aŭ arbustaro",
+        "Monto ĉizita en loĝejojn",
+        "Urbo apud la maro",
+        "Dezerta valo kun putoj",
+        "Fekunda ĝardeno kun multaj fruktoj"
+      ],
+      "answer": "Densa arbaro aŭ arbustaro"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Detruita de ombronubo de fajro",
+        "Dronita de granda inundo",
+        "Englutita de tertremo",
+        "Frapita de forta vento",
+        "Transformiĝis en ŝtonon"
+      ],
+      "answer": "Detruita de ombronubo de fajro"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

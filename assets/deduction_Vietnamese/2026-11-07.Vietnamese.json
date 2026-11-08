@@ -1,0 +1,61 @@
+{
+  "title": "cuộc tìm kiếm sự chắc chắn dưới ánh sao",
+  "intro": "Hãy tưởng tượng bạn đang đứng dưới bầu trời đêm rộng lớn, ngắm nhìn những ánh sáng rực rỡ mọc lên rồi tắt dần, trong khi tìm kiếm điều thực sự xứng đáng được tôn thờ. Xung quanh bạn, những hình tượng được chạm khắc im lặng nhận được lời ca ngợi và lễ vật, nhưng lý trí rõ ràng lại đặt câu hỏi về sức mạnh của chúng. Một giọng nói dũng cảm sắp sửa thách thức truyền thống lâu đời và hướng về Đấng Tạo Hóa của trời đất.",
+  "clues": [
+    "Tôi nhìn lên các vì sao, mặt trăng và mặt trời, và tôi suy luận rằng chúng không thể là Chúa của tôi vì chúng lặn và biến mất.",
+    "Tôi công khai phủ nhận mọi thứ mà người dân tôi thờ phụng ngoài Allah và kêu gọi họ chỉ thờ phụng Đấng Tạo Hóa.",
+    "Tôi đã tranh luận với một vị vua khoe khoang, người tự nhận mình có quyền ban sự sống và cái chết, và tôi đã đáp lại bằng cách nhắc đến việc Allah mang mặt trời từ phía đông đến.",
+    "Tôi đập vỡ các tượng thần, chỉ để lại tượng lớn nhất để mọi người có thể quay về với nó.",
+    "Tôi bị người dân của mình bắt giữ và kết án, họ bảo tôi phải xây một cái chòi rồi ném tôi vào lửa đang cháy.",
+    "Tôi đã được cứu sống khi Allah ra lệnh cho ngọn lửa trở thành nguồn mát và sự an toàn cho tôi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Ibrahim (Abraham)",
+        "Tiên tri Yahya (John)",
+        "Tiên tri Al-Yasa (Elisha)",
+        "Người Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Tiên tri Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Đã đối đầu với việc thờ cúng thần tượng và tranh luận về ý nghĩa của các thiên thể.",
+        "Sau khi bỏ đi trong cơn giận dữ, anh ta đã bị một con cá lớn nuốt chửng.",
+        "Dẫn dắt các tín đồ vượt qua biển cả được Allah rẽ đôi.",
+        "Được đưa lên trời khi còn sống mà không hề nếm trải cái chết.",
+        "Tôi đã ngủ trong hang động cùng với những người bạn đồng hành trong nhiều năm."
+      ],
+      "answer": "Đã đối đầu với việc thờ cúng thần tượng và tranh luận về ý nghĩa của các thiên thể."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Ngọn lửa bùng cháy đã được Allah làm cho nguội lạnh và an toàn.",
+        "Chiếc thuyền chở những người tin Chúa vượt qua trận lụt",
+        "Cây gậy biến thành con rắn",
+        "Bàn tiệc được bày biện từ trên trời xuống.",
+        "Con lạc đà cái được phái đến như một dấu hiệu."
+      ],
+      "answer": "Ngọn lửa bùng cháy đã được Allah làm cho nguội lạnh và an toàn."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được bảo vệ khỏi lửa và được ban cho con cháu chính trực",
+        "Chìm đắm trong biển người phủ nhận giữa trận lụt lớn.",
+        "Bị biến đổi vì vi phạm ngày Sa-bát",
+        "Bị phá hủy bởi những con chim tha những viên đá bằng đất sét",
+        "Bị đất mẹ nuốt chửng cùng với kho báu"
+      ],
+      "answer": "Được bảo vệ khỏi lửa và được ban cho con cháu chính trực"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

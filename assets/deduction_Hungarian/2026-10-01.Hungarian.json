@@ -1,0 +1,61 @@
+{
+  "title": "Létreszólalva",
+  "intro": "Egy alak bukkan fel a szent történelemből, olyan csodákat hordozva, amelyek dacoltak a természetes renddel. Ez a lélek egyetlen isteni parancsra érkezett, megvédte szülőjét a súlyos vádaktól, és elhagyta ezt a világot, mielőtt földi láncok megbéklyózhatták volna. A történet egy szerény bölcsőtől a mennyekig ível. Ki lehet ez?",
+  "clues": [
+    "Allah jelként és kegyelemként küldött engem Izrael gyermekeinek.",
+    "Érkezésem minden korábbihoz képest más volt – az isteni „Légy!” szóval jöttem a világra földi apa nélkül.",
+    "Szüleimet kegyetlen rágalmazással sújtották, de szent kinyilatkoztatás szállt alá, hogy kinyilvánítsa ártatlanságukat és felemelje rangjukat.",
+    "Újszülöttként már a bölcsőmtől fogva lenyűgöztem a körülöttem lévőket azzal, hogy tisztára mossam a szüleim nevét.",
+    "Allah engedelmével életet formáltam élettelen agyagból, látást adtam a vakoknak, és érintésemmel meggyógyítottam a leprást.",
+    "Mielőtt baj érhetett volna, a mennyekbe emeltettem, és visszatérek ebbe a világba, mielőtt elérkezik az utolsó óra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Isa próféta",
+        "Mózes próféta",
+        "Ibrahim próféta",
+        "Juszuf próféta",
+        "Dawud próféta"
+      ],
+      "answer": "Isa próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Csecsemőként a bölcsőtől kezdve beszélni",
+        "Túlélés egy nagy hal gyomrában",
+        "Lángoló tűzbe vetve",
+        "Egy hatalmas bárka építése az özönvíz előtt",
+        "Szembenézni a fáraó udvarának varázslatával"
+      ],
+      "answer": "Csecsemőként a bölcsőtől kezdve beszélni"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az Injeel (Evangélium)",
+        "A Tóra (Taura)",
+        "A Zabur (Zsoltárok)",
+        "A Suhuf (Ibrahim tekercsei)",
+        "Egy bot, amely kettéhasította a tengert"
+      ],
+      "answer": "Az Injeel (Evangélium)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A mennyekbe emeltetve, visszatér az ítélet napja előtt",
+        "Kivezette Izrael gyermekeit Egyiptomból",
+        "Király lett, uralkodott dzsinnek, emberek és madarak felett",
+        "Túlélt egy hatalmas árvizet a hívőkkel",
+        "Mekkában megépítették a szent házat"
+      ],
+      "answer": "A mennyekbe emeltetve, visszatér az ítélet napja előtt"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

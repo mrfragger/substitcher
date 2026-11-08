@@ -1,0 +1,61 @@
+{
+  "title": "Semeno sváru",
+  "intro": "Ešte predtým, ako svet poznal rozsiahly konflikt, sa odohrala hlboká skúška viery a poslušnosti. Tento príbeh skúma rozhodnutia jednotlivca, ktorého činy vytvorili precedens pre budúce generácie. Pripravte sa rozlúštiť príbeh duše zápasiacej s nesmiernou žiarlivosťou a jej ničivými následkami.",
+  "clues": [
+    "Bol som medzi prvými potomkami, ktorí chodili po zemi, dieťaťom úplne prvého ľudského páru.",
+    "Môjmu bratovi a mne bolo prikázané priniesť obetu Alahovi, čo bola skúška našej úprimnosti.",
+    "Moja obeta nebola prijatá, zatiaľ čo obeta môjho brata áno, čo moje srdce naplnilo hrozným dojmom.",
+    "Hovoril som bratovi slová vyhrážky, poháňaný horkosťou odmietnutia.",
+    "Môj brat odpovedal s múdrosťou a zbožnosťou a pripomenul mi Alahovu spravodlivosť a bázeň pred Ním.",
+    "Napriek bratovým jemným slovám a jeho ochote odpustiť som si vzal život a stal som sa jedným z porazených."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Adam",
+        "Iblis",
+        "Prorok Nuh",
+        "Qabil (Kain)",
+        "Faraón"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Veľká povodeň",
+        "Rozštiepenie mora",
+        "Budova Kaaby",
+        "Obetovanie obetí",
+        "Pokušenie v záhrade"
+      ],
+      "answer": "Obetovanie obetí"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Archa",
+        "Zamestnanci",
+        "Hora Safa",
+        "Obeť",
+        "Horiaci ker"
+      ],
+      "answer": "Obeť"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Stal sa poslom",
+        "Bol utopený",
+        "Vybudoval veľké kráľovstvo",
+        "Stal sa príkladom ľútosti",
+        "Bolo mu udelené obrovské bohatstvo"
+      ],
+      "answer": "Stal sa príkladom ľútosti"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

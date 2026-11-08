@@ -1,0 +1,61 @@
+{
+  "title": "Spánok za hranicami času",
+  "intro": "Predstavte si časy, keď bola pravda umlčiavaná a veriaci prenasledovaní. Malá skupina si zvolila ústup pred kapituláciou a našla útočisko na najnepravdepodobnejšom mieste – na mieste, ktoré sa stalo ich miestom odpočinku na nespočetné stáročia. Keď sa konečne prebudili, svet okolo nich sa zmenil. Kto sú tieto driemajúca duše?",
+  "clues": [
+    "Boli sme mladí ľudia žijúci v starobylom meste.",
+    "Naša komunita požadovala, aby sme sa s nimi modlili, ale odmietli sme.",
+    "Utiekli sme z mesta, aby sme hľadali útočisko pred tými, ktorí sa stavali proti nášmu presvedčeniu.",
+    "Pri vchode do nášho úkrytu zostal verný štvornohý spoločník.",
+    "Alah nás uspal na tristodeväť rokov.",
+    "Keď sme sa konečne prebudili, naše kedysi prenasledované mesto prijalo vieru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Ashab al-Kahf (Ľudia z jaskyne)",
+        "Ashab al-Fil (Armáda slona)",
+        "Ashab al-Ukhdud (Spoločníci zákopu)",
+        "Hawariyyun (Učeníci Isa)",
+        "Yajuj wa Majuj (Gog a Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Ľudia z jaskyne)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Utiahli sme sa do jaskyne a spali sme stáročia",
+        "Boli sme zachránení pred planúcim požiarom",
+        "Pohltila nás veľká ryba",
+        "Boli sme skúšaní zázračnou ťavou samicou",
+        "Dostali sme deväť jasných znamení"
+      ],
+      "answer": "Utiahli sme sa do jaskyne a spali sme stáročia"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Hlboká jaskyňa v horách",
+        "Loď na otvorenom mori",
+        "Tyčiaca sa stavba siahajúca až do nebies",
+        "Záhrada rozdelená medzi dvoch súperov",
+        "Bariéra zo železa a medi"
+      ],
+      "answer": "Hlboká jaskyňa v horách"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zobudili sme sa a zistili sme, že naše mesto sa obrátilo k viere",
+        "Plynajúci oheň sa stal chladným a pokojným",
+        "Nepriateľská armáda sa utopila v mori",
+        "Vtáky nesúce kamene zničili nepriateľa",
+        "Veľká ryba nás vytiahla na breh."
+      ],
+      "answer": "Zobudili sme sa a zistili sme, že naše mesto sa obrátilo k viere"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

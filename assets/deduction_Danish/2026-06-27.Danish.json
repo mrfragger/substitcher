@@ -1,0 +1,61 @@
+{
+  "title": "Det hellige fravær",
+  "intro": "Bag tidens klitter ligger en fortælling om urokkelig hengivenhed og en tillid så tung, at sjælen, der bar den, kunne være brudt. I et øjeblik, hvor folket vendte sig mod tåbelighed og guld, stod én skikkelse fast – kaldte dem tilbage, tryglede om tålmodighed og bar vægten af ​​et helligt løfte. Dette er historien om en, der blev valgt som hjælper, vesir og troens vogter under et helligt fravær. Kan du afdække identiteten af ​​denne standhaftige sjæl?",
+  "clues": [
+    "Jeg deler blodet fra en stor profet, som blev udvalgt til at tale direkte med Allah på et helligt bjerg.",
+    "Min søskende tryglede engang Allah om hjælp til at tale klart til en stor undertrykker.",
+    "Jeg blev udvalgt af Allah til at stå ved siden af ​​min søskende som hjælper og vesir.",
+    "Sammen stod vi over for en tyrannisk hersker, der krævede at blive kaldt den højeste af guder.",
+    "Mens min søskende talte med Allah på bjerget, lavede vores folk sig selv en statue af deres guld.",
+    "Jeg er Moses' bror, udpeget af Allah som hans vesir, nævnt ved navn i Koranen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Harun (Aaron)",
+        "Profeten Musa",
+        "Profeten Dawud",
+        "Profeten Yaqub",
+        "Profeten Ishaq"
+      ],
+      "answer": "Profeten Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Kalvedyrkelseskrisen",
+        "Den store oversvømmelse af Nuh",
+        "Slaget ved Badr",
+        "Thamuds ødelæggelse",
+        "Sodomas ødelæggelse"
+      ],
+      "answer": "Kalvedyrkelseskrisen"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Den gyldne kalv",
+        "Noahs Ark",
+        "Den brændende busk",
+        "Hira-hulen",
+        "Shebas trone"
+      ],
+      "answer": "Den gyldne kalv"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Uskyld bekræftet af Allah",
+        "Faraos drukning",
+        "Bygningen af ​​Kaabaen",
+        "Sikker krydsning af havet",
+        "Himmelfart"
+      ],
+      "answer": "Uskyld bekræftet af Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

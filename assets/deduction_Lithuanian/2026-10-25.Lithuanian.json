@@ -1,0 +1,61 @@
+{
+  "title": "Skundas, girdimas virš triukšmo",
+  "intro": "Girdite balsą, kylantį iš visuomenės, kurioje priespauda tapo kasdienybe. Į skundą neatsakoma jokia galios demonstracija; vietoj to, tiesioginis kreipimasis pasiekia Alachą, ir atsakas smogia į paties garbinimo esmę. Kas pateikė tą skundą, koks klausimas kilo ir kokia tiesa buvo patvirtinta?",
+  "clues": [
+    "Mane ėmė trikdyti aplinkinių žmonių priespauda.",
+    "Aš tą nusiskundimą išreiškiau tiesiogiai Alachui asmeniniame skunde.",
+    "Alachas išgirdo skundą ir atsakė, užginčydamas mano paties tikėjimą.",
+    "Atsakyme buvo klausiama, kaip aš galėjau netikėti Alachu, kuris yra Vienas ir Aukščiausiasis.",
+    "Tada paklausiau, kodėl Alachas turėtų palankiai vertinti netikinčiuosius.",
+    "Aš esu Uzairas, Suroje Az-Zukhruf įvardytas kaip tas, kurio skundą išgirdo Alachas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Uzairas",
+        "Kompanionas, kuris plaukė per didįjį potvynį",
+        "Tarnas, kuris vaikščiojo vandeniu",
+        "Miegamasis apsaugotas oloje",
+        "Tarnas, kuris atnešė akmenų į upę"
+      ],
+      "answer": "Uzairas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Skundai Alachui dėl žmonių priespaudos",
+        "Vaikščiojimas vandeniu audros metu",
+        "Akmenų nešiojimas į upę, kurioje trūko vandens",
+        "Plaukimas per didelį potvynį Arkos laivu",
+        "Gauti raktą į didžiulį lobį"
+      ],
+      "answer": "Skundai Alachui dėl žmonių priespaudos"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Tiesioginis skundas, adresuotas Alachui",
+        "Lazdelė, kuri virto gyvate",
+        "Krosnis, sukurta vėsi ir rami",
+        "Arka, plūduriuojanti virš potvynio vandenų",
+        "Žuvis, praryjanti tarną"
+      ],
+      "answer": "Tiesioginis skundas, adresuotas Alachui"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Alachas išgirdo skundą ir patvirtino dieviškąjį Vienybę ir Aukščiausiąjį Viešpatį",
+        "Saugus vaikščiojimas vandeniu audros metu",
+        "Saugus didelio potvynio kirtimas Arkos laive",
+        "Atgauti regėjimą arogancijos rūmuose",
+        "Gauna viešpatavimą, besitęsiantį nuo Rytų iki Vakarų"
+      ],
+      "answer": "Alachas išgirdo skundą ir patvirtino dieviškąjį Vienybę ir Aukščiausiąjį Viešpatį"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

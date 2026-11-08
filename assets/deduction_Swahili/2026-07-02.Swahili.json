@@ -1,0 +1,61 @@
+{
+  "title": "Mtumishi wa Hekima Iliyofichwa",
+  "intro": "Katika umbo kubwa la simulizi za Quran, kuna mtu mwenye fumbo, mtumishi wa Mwenyezi Mungu aliyepambwa kwa ujuzi na rehema za kimungu. Mtu huyu wa ajabu alikutana na mmoja wa manabii wakubwa, na kusababisha safari iliyojaa vitendo vya kutatanisha vilivyopinga mipaka ya ufahamu wa mwanadamu. Kila tendo, ingawa lilionekana kuwa lisilo la haki, lilificha masomo ya kina kuhusu hatima, uvumilivu, na hekima isiyoonekana nyuma ya amri ya kimungu. Mtu huyu mwenye kivuli ni nani, na ni kweli gani alizozifunua?",
+  "clues": [
+    "Nilikuwa mtumishi wa Mwenyezi Mungu, niliyechaguliwa kwa ajili ya elimu na rehema maalum.",
+    "Nabii mkuu alitafuta kujifunza kutoka kwangu, nami nilikubali chini ya masharti magumu.",
+    "Wakati wa mkutano wetu, nilifanya vitendo vitatu ambavyo vilionekana kuwa si vya haki kwa mwenzangu.",
+    "Niliharibu mashua ya watu maskini, lakini ilikuwa ni huruma iliyofichwa.",
+    "Niliua maisha ya mvulana mdogo, ingawa yalionekana kuwa ya kikatili, yalikuwa ni kuwaepusha wazazi wake na huzuni.",
+    "Nilijenga upya ukuta katika mji uliotunyima ukarimu, nikifunua hazina chini yake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Al-Khidr (mja mwema)",
+        "Mmiliki wa bustani hizo mbili",
+        "Mmoja wa Watu wa Pango",
+        "Mfalme aliyebishana na Ibrahim",
+        "Mwanamume aliyelala kwa miaka 100"
+      ],
+      "answer": "Al-Khidr (mja mwema)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukutana na Nabii Musa kwenye makutano ya bahari mbili",
+        "Kujenga kizuizi dhidi ya Gogu na Magogu",
+        "Kutupwa kwenye moto mkubwa",
+        "Kugawanya bahari katika nusu mbili",
+        "Kupokea vibao vya Torati"
+      ],
+      "answer": "Kukutana na Nabii Musa kwenye makutano ya bahari mbili"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Makutano ya bahari mbili",
+        "Mlima Sinai",
+        "Pango la Thawr",
+        "Bonde la Tuwa",
+        "Kisima cha Zamzam"
+      ],
+      "answer": "Makutano ya bahari mbili"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alielezea hekima ya Mungu nyuma ya matendo yake ya kutatanisha na akaachana na Musa.",
+        "Alipewa unabii baada ya safari",
+        "Meli iliharibiwa na dhoruba",
+        "Mvulana alifufuliwa",
+        "Alijenga msikiti katika mji usio na ukarimu"
+      ],
+      "answer": "Alielezea hekima ya Mungu nyuma ya matendo yake ya kutatanisha na akaachana na Musa."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

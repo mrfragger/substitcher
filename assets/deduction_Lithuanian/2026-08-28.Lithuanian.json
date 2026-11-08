@@ -1,0 +1,61 @@
+{
+  "title": "Kliūtis senovės namuose",
+  "intro": "Šventajame mieste galinga figūra virė pykčiu, kai pradėjo plisti nauja žinia. Šis asmuo, kurio vardas tapo pasipriešinimo tiesai sinonimu, stebėjo, kaip jų įtaka byra po dieviškojo apreiškimo našta. Kas buvo ši siela, kurios likimas buvo užantspauduotas garsaus mūšio lauko smėlynuose?",
+  "clues": [
+    "Buvau savo tautos vadas, žinomas dėl savo turtų ir įtakos mieste, kuriame buvo senovinė šventovė.",
+    "Kai vienas mano genties vyras pradėjo skelbti vieno Dievo žinią, aš jį ir jo apreiškimus išjuokiau, pavadindamas juos praeities pasakomis.",
+    "Aš susidūriau su tuo vyru, kai jis meldėsi netoli šventos struktūros, grasindamas prireikus jėga nutraukti jo garbinimą.",
+    "Buvau tarp lyderių, kurie planavo nutildyti naująjį tikėjimą, priešindamiesi jo pasekėjams tiek žodžiais, tiek ginklais.",
+    "Žygiavau su armija į vietą, vadinamą Badr, įsitikinęs, kad sutriuškinsime nedidelę tikinčiųjų grupę.",
+    "Tačiau tame mūšio lauke mano gyvenimas baigėsi, o mano mirtis tapo pamoka tiems, kurie ir toliau netiki aiškių ženklų akivaizdoje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Abu Džahlas",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umaija ibn Khalafas",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Džahlas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pranašui draudžiama melstis prie Kaabos",
+        "Kaabos statyba",
+        "Korano rašymas",
+        "Vadovaujant dramblio armijai",
+        "Mėnulio padalijimas"
+      ],
+      "answer": "Pranašui draudžiama melstis prie Kaabos"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Kaaba",
+        "Pranašo Nuho arka",
+        "Pranašo Mozės lazda",
+        "Auksinis veršelis",
+        "Šebos karalienės sostas"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Žuvo Badro mūšyje",
+        "Atgailavo ir tapo musulmonu",
+        "Pabėgo į Abisiniją.",
+        "Mirė Dramblio metais",
+        "Tapo pranašo palydovu"
+      ],
+      "answer": "Žuvo Badro mūšyje"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

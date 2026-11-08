@@ -1,0 +1,61 @@
+{
+  "title": "L'esploratore piumato",
+  "intro": "In un regno governato da colui al quale era stato concesso il dominio sui venti, sugli esseri invisibili e sulle creature del cielo, un membro piccolo e veloce scomparve dalle fila, per poi ritornare con rivelazioni che avrebbero cambiato il destino di una nazione lontana. Questo informatore dallo sguardo acuto portò alla luce la verità laddove l'ignoranza aveva messo radici. Chi sono io?",
+  "clues": [
+    "Ho prestato servizio in una corte dove umani, esseri invisibili e creature del cielo rispondevano a un unico, saggio sovrano che comandava persino i venti.",
+    "Sono stato assente dal mio incarico per un certo periodo, e mi è stata promessa l'ira del sovrano se non fossi riuscito a fornire una spiegazione soddisfacente.",
+    "Sono una piccola creatura volante, nota per la sua vista acuta, e la mia specie è stata onorata con una menzione diretta nelle pagine dell'Apocalisse.",
+    "Al mio ritorno, portai notizie di una terra lontana dove gli abitanti si prostravano al sole, ciechi a Colui che aveva creato i cieli e la terra.",
+    "Ho trovato una donna che regnava su un grande regno, seduta su un magnifico trono, senza aver mai conosciuto la verità prima.",
+    "Sono io colui che ha scoperto il regno di Saba' e che ha portato una lettera d'invito da un re profeta a cui era stato concesso il dominio sul vento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "L'upupa (Hudhud)",
+        "La formica della valle di Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit il Jinn",
+        "Un angelo del trono"
+      ],
+      "answer": "L'upupa (Hudhud)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La spedizione nel Regno di Saba (Sheba)",
+        "Lo scontro con gli stregoni del faraone",
+        "Il diluvio del profeta Nuh",
+        "La distruzione del popolo di 'Ad",
+        "La divisione del Mar Rosso"
+      ],
+      "answer": "La spedizione nel Regno di Saba (Sheba)"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La terra di Saba (Sheba)",
+        "Monte Sinai",
+        "L'Arca del profeta Nuh",
+        "La grotta di Ashab al-Kahf",
+        "Il palazzo del faraone"
+      ],
+      "answer": "La terra di Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Bilqis si sottomise alla corte di Sulaiman.",
+        "Il faraone e il suo esercito annegarono nel mare",
+        "Il popolo di 'Ad fu distrutto da un vento violento",
+        "Gli stregoni del faraone credevano nel profeta Musa",
+        "Un grande diluvio travolse gli increduli"
+      ],
+      "answer": "Bilqis si sottomise alla corte di Sulaiman."
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

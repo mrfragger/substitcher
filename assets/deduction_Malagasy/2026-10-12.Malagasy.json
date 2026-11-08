@@ -1,0 +1,61 @@
+{
+  "title": "Ny Voadin'ny Zaza Tsy Ateraka",
+  "intro": "Nisy fanahy tso-po nanao voady masina talohan'ny nahatongavan'ny zaza iray. Miharihary ao anatin'ny rindrin'ny toerana masina ny tantaran'ity olona ity, izay ahitana ny fanoloran-tena mihaona amin'ny fankasitrahan'Andriamanitra. Iza moa ity mpanompon'i Allah ity?",
+  "clues": [
+    "Anisan'ny fianakaviana iray hajaina ao amin'ny Korany aho.",
+    "Nanao voady masina aho fa hanolotra ny zanako ao am-bohoka ho amin'ny fanompoana an'i Allah.",
+    "Rehefa niteraka aho dia gaga aho nahita fa vavy ilay izy, na dia efa nanantena zazalahy aza aho.",
+    "Nomeko anarana hoe Maryam ny zanako, anarana maneho ny fanoloran-tena sy ny fanompoana.",
+    "Nitady ny fiarovan'Andriamanitra ho an'ny zanako sy ny taranany tamin'i Satana voaozona aho.",
+    "Neken'ny Tompo ny zanako ary napetraka teo ambany fiahian'ny Mpaminany Zakariya tao amin'ny fitoerana masina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny vadin'i Imran (Renin'i Maryam)",
+        "Asiya, vadin'i Farao",
+        "Maryam, renin'i Isa",
+        "Ny renin'ny Mpaminany Musa",
+        "Ny Mpanjakavavin'i Sheba"
+      ],
+      "answer": "Ny vadin'i Imran (Renin'i Maryam)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nivoady ny hanokana ny zanany ho an'ny tempoly",
+        "Atsipy ao anaty afo",
+        "Miampita ranomasina amin'ny tany maina",
+        "Fanorenana sambo fiara lehibe",
+        "Voatelina trondro lehibe"
+      ],
+      "answer": "Nivoady ny hanokana ny zanany ho an'ny tempoly"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny toerana masina (mihrab) izay nametrahana ny zanany",
+        "Ny fiaran'ny fanekena",
+        "Ilay zanak'omby volamena",
+        "Ilay tehina niova ho menarana",
+        "Ilay hazo palmie izay nipetrahany teo ambaniny"
+      ],
+      "answer": "Ny toerana masina (mihrab) izay nametrahana ny zanany"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nekena ny zanany ary napetraka teo ambany fiahian'ny Mpaminany Zakariya",
+        "Voavonjy tamin'ny sazin'ny mpitondra jadona izy",
+        "Nomena zanaka lahy antsoina hoe Yahya izy",
+        "Ravan'ny tafio-drivotra ny olony",
+        "Tonga mpanjakavavy teo amin'ny fanjakana lehibe iray izy"
+      ],
+      "answer": "Nekena ny zanany ary napetraka teo ambany fiahian'ny Mpaminany Zakariya"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

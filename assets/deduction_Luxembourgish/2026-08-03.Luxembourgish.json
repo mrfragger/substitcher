@@ -1,0 +1,61 @@
+{
+  "title": "D'Fréijoer ënnert dem Sand",
+  "intro": "An den Annalen vum Koran huet eng Figur mat immenser Gedold sech enger Prüfung erwisen, déi déi stäerkst Häerzer zerbriechen géif. Alles gouf ewechgeholl - Räichtum, Famill a Gesondheet. Awer aus den Déiften vun der Verzweiflung gouf e bescheident Gebied op déi onerwaartst Manéier beäntwert. Kënnt Dir dës Séil identifizéieren, där hir Geschicht vun der Restauratioun duerch d'Jore widderhallt?",
+  "clues": [
+    "Ech gouf mat enger sou schwéierer Prüfung op d'Prouf gestallt, datt sech drun duerch d'Jore erënnert.",
+    "Ech hunn alles verluer, wat mir wichteg war - mäi Räichtum, meng Kanner a meng Gesondheet.",
+    "Mäi Kierper war mat schmerzhafte Wonnen bedeckt, an ech gouf vun allen ausgeschloss.",
+    "An menger Verzweiflung hunn ech Allah geruff a gesot, datt de Satan mech mat Schwieregkeeten a Qualen beréiert huet.",
+    "Allah huet mir geäntwert a mir gebueden, d'Äerd mat mengem Fouss ze schloen.",
+    "Vun där selwechter Plaz ass eng kill Quell erausgebrach, an Allah huet meng Famill erëm hiergestallt a si als Barmhäerzegkeet verduebelt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Ayyub",
+        "Prophet Musa",
+        "Prophet Ilyas",
+        "Prophet Sulayman",
+        "Prophet Dawud"
+      ],
+      "answer": "De Prophet Ayyub"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Schwéier Krankheet a Verloscht vu Famill a Räichtum",
+        "Vun engem grousse Wal verschléckt ginn",
+        "Exil aus der Stad Mekka",
+        "Prisong an engem déiwe Brunn",
+        "Konfrontatioun mat engem arrogante Herrscher"
+      ],
+      "answer": "Schwéier Krankheet a Verloscht vu Famill a Räichtum"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E kille Fréijoer aus der Äerd",
+        "E Boot op enger grousser Iwwerschwemmung",
+        "E Staf, deen d'Mier gespléckt huet",
+        "En erhiewten Troun aus Glas",
+        "Eng ëmmauert Höhl fir ze schlofen"
+      ],
+      "answer": "E kille Fréijoer aus der Äerd"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Famill a Räichtum restauréiert a verduebelt",
+        "Aus dem Bauch vun engem Fësch erauskommen",
+        "Séchere Passage duerch getrennt Gewässer",
+        "E Kinnekräich, dat fir d'Herrschaft ginn ass",
+        "Déi wonnerbar Gebuert vun engem Jong am héijen Alter"
+      ],
+      "answer": "Famill a Räichtum restauréiert a verduebelt"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

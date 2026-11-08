@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mapagbantay na Kaluluwa sa Tabing-ilog",
+  "intro": "Isang batang kaluluwa ang pinagkatiwalaan ng isang lihim na misyon, upang magmasid mula sa isang ligtas na distansya habang ang tadhana ay nabubunyag sa tubig. Hindi nakikita at hindi inaasahan, ang pigurang ito ay gaganap ng isang mahalagang papel sa pagbabago ng takbo ng kasaysayan ng isang bansa.",
+  "clues": [
+    "Binigyan ako ng aking ina ng isang gawain, isang gawain na nangangailangan ng lihim at pagbabantay.",
+    "Sinundan ng mga mata ko ang isang maliit na duyan na inaagos sa agos, ang puso ko ay puno ng pag-aalala.",
+    "Nang matagpuan ito ng isang di-inaasahang grupo, lumapit ako, na puno ng pangamba.",
+    "Nakita ko ang kanilang desperasyon para sa isang tagapag-alaga kaya nag-alok ako ng solusyon nang hindi ibinubunyag ang katotohanan.",
+    "Ang aking napapanahong interbensyon ay nagbalik ng isang mapag-arugang kaluluwa sa taong higit na nangangailangan nito.",
+    "Sa mga korte ng mga makapangyarihan, nagsalita ako: 'Ipapakita ko ba sa iyo ang isang pamilyang magpapakain at mag-aalaga sa kanya nang may pag-iingat?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang kapatid na babae ni Musa",
+        "Ang ina ni Musa",
+        "Ang asawa ni Paraon",
+        "Isang komadrona",
+        "Ang anak na babae ni Shu'aib"
+      ],
+      "answer": "Ang kapatid na babae ni Musa"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang pagtapon ng bata sa ilog",
+        "Ang paghahati ng dagat",
+        "Ang pagsunog ng guya",
+        "Ang pagtatayo ng arka",
+        "Ang salot ng mga balang"
+      ],
+      "answer": "Ang pagtapon ng bata sa ilog"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang ilog",
+        "Ang disyerto",
+        "Ang bundok",
+        "Ang palasyo",
+        "Ang apoy"
+      ],
+      "answer": "Ang ilog"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Muling nakasama niya ang bata at ang kanyang ina",
+        "Iniligtas niya ang sarili mula sa mga sundalo ng Paraon",
+        "Siya ay naging isang reyna",
+        "Pinarusahan siya dahil sa pag-eespiya",
+        "Pinangunahan niya ang mga Israelita"
+      ],
+      "answer": "Muling nakasama niya ang bata at ang kanyang ina"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

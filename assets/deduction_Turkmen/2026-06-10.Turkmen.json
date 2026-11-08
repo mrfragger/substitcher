@@ -1,0 +1,61 @@
+{
+  "title": "Bagyň goragçylary",
+  "intro": "Ýaşyl bagda bir jemgyýet dabaraly kasam içdi. Emma olaryň tutanýerliligi ylahy erk goşulyp, olaryň bereketini çöl ýere öwürende synagdan geçirildi.",
+  "clues": [
+    "Biz bol bag bilen bereketlendik, ýöne biz tekepbir bolduk.",
+    "Biz garyplar bilen paýlaşmazdan hasyl ýygnamagyň meýilnamasyny düzdik.",
+    "Biz öz meýilnamamyza ynamly bolup, irden ýola düşdük.",
+    "Ýöne biz gelenimizde, bagymyzyň bir gijede weýran bolandygyny gördük.",
+    "Biz ýalňyşlygymyzy düşünip, biri-birimizi günäkärläp başladyk.",
+    "Ahyrsoňy toba etdik, ýöne sapak gaty giç öwrenildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Bagyň adamlary",
+        "Magaradaky adamlar",
+        "Pilleriň halky",
+        "Semud halky",
+        "Ad halky"
+      ],
+      "answer": "Bagyň adamlary"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Kül bolan bag",
+        "Hemme zady ýok eden sil",
+        "Ýurdy başdan geçiren açlyk",
+        "Guşlaryň goşuny hüjüm edýär",
+        "Agaçlary kökünden ýykyp taşlan güýçli ýel"
+      ],
+      "answer": "Kül bolan bag"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Bag",
+        "Bir gowak",
+        "Gämi",
+        "Dag",
+        "Köşk"
+      ],
+      "answer": "Bag"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Olar toba etdiler, ýöne baglaryny ýitirdiler",
+        "Olar düýbünden ýok edildi",
+        "Olar maýmynlara öwrüldiler",
+        "Olar iman arkaly halas boldular",
+        "Olar hökümdar boldular"
+      ],
+      "answer": "Olar toba etdiler, ýöne baglaryny ýitirdiler"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

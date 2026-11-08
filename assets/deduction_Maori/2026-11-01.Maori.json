@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i Whakakahore i te Ngakau Pōuri",
+  "intro": "Eke atu ki tētahi whare e whai ana te mate i te mate, engari kotahi te reo marino e whakakahore ana i te ngakaukore. Kotahi te karanga i roto i te Qur'an ka huri te manawanui hei pūwāhi hurihanga; ka taea e koe te whai i ngā tohu ki te tangata kei muri i taua reo?",
+  "clues": [
+    "Ko ahau te reo o te manawanui i roto i tētahi whare i whakamatautauria ai ngā manaakitanga e te aituā.",
+    "I noho ahau i roto i tētahi whare kua ururuatia e te ngaronga o te taonga me ngā tamariki.",
+    "I mōhio ahau kua pā mai te mate ki taua hoa, nō te mea kua pāngia tōna tinana e te mate.",
+    "I te kaha o te pōuri, ka karanga ahau me te whakamahara ki a Allah.",
+    "Kotahi taku kīanga: Ko Allah te Pono, nō reira kia manawanui.",
+    "I karanga ahau i a Ayyub mā te ingoa; ā, muri iho, ka tangohia e Allah te mamae, ā, ka whakahokia mai te whānau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te wahine a te Poropiti a Ayyub",
+        "Te wahine a te Poropiti a Noa",
+        "Te wahine a te Poropiti a Ihāperahama",
+        "Te Wahine a te Poropiti a Hākupa",
+        "Te tamahine a Parao"
+      ],
+      "answer": "Te wahine a te Poropiti a Ayyub"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te noho tahi me Ayyub i roto i te mate me te mate, kātahi ka karanga kia manawanui",
+        "He whakatūpato i tētahi karere tika kia whakarērea tētahi hapori pirau",
+        "Te inoi mō te whānautanga o tētahi whakapapa ā muri ake nei",
+        "Te whakamārama i ngā moemoeā i roto i te whare herehere kingi",
+        "Te kimi i tētahi tamaiti whakawhirinaki i te taha o te awa"
+      ],
+      "answer": "Te noho tahi me Ayyub i roto i te mate me te mate, kātahi ka karanga kia manawanui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te whakapuakitanga ko Allah te Pono, ā, e hiahiatia ana te manawanui",
+        "He nikau i te taha o te puna",
+        "He karanga kia hanga he waka kia matara atu i ngā ngaru",
+        "He moemoeā mō ngā whetu tekau mā tahi me te rā e ara ake ana",
+        "He kete e amohia ana i te awa o te Naera"
+      ],
+      "answer": "Ko te whakapuakitanga ko Allah te Pono, ā, e hiahiatia ana te manawanui"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tangohia te mamae o Ayyub, ā, i whakahokia mai tōna whānau",
+        "I muri i te inoi pakoko, i tukuna mai he tamaiti kua roa e tatarihia ana",
+        "I whakamāramahia e te rangatira taitamariki ngā tau e whitu o te hua me te koretake",
+        "I whakaorangia tētahi tamaiti i whakawhirinakihia mai i te wai e rere ana",
+        "I mua i te waipuke whakangaro i puta he whakatūpato"
+      ],
+      "answer": "I tangohia te mamae o Ayyub, ā, i whakahokia mai tōna whānau"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

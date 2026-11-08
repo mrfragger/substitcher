@@ -1,0 +1,61 @@
+{
+  "title": "Tvirtas liudytojas",
+  "intro": "Atsiskleidžia gilus pasakojimas, atskleidžiantis bendruomenės nepajudinamą ryžtą didžiulės tironijos akivaizdoje. Jų istorija liudija apie tikėjimą, net ir susidūrus su didžiausia auka. Šis pasakojimas primena mums apie tikėjimo galią prieš didžiulę priespaudą.",
+  "clues": [
+    "Mes buvome grupė, kurios istorija papasakota trumpoje, įtaigioje suroje, įspėjančioje apie persekiojimą.",
+    "Susdūrėme su valdovu, kuris norėjo išnaikinti mūsų tikėjimą Vienu Dievu, Sosto Viešpačiu, Garbinguoju.",
+    "Mums teko patirti siaubingą išbandymą – iškasėme didžiulę duobę žemėje.",
+    "Stebėjome, kaip tikintieji, įskaitant kūdikius, buvo įmesti į siautėjantį pragarą toje duobėje.",
+    "Mūsų kankintojai buvo prakeikti už savo veiksmus, o mums buvo pažadėtas didžiulis atlygis už mūsų tvirtumą.",
+    "Valdovo bandymas užgesinti mūsų tikėjimą tik sustiprino mūsų, kaip kankinių, vietą Alacho, kuris yra visko liudytojas, akyse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tamudo žmonės",
+        "„Ad“ žmonės",
+        "Griovio žmonės",
+        "Luto žmonės",
+        "Dramblio žmonės"
+      ],
+      "answer": "Griovio žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Didysis potvynis",
+        "Degantis krūmas",
+        "Skendimas jūroje",
+        "Ugninė duobė",
+        "Žemės drebėjimas"
+      ],
+      "answer": "Ugninė duobė"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Griovys",
+        "Kalnas",
+        "Šulinys"
+      ],
+      "answer": "Griovys"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Buvo suteikta karalystė",
+        "Buvo išgelbėti stebuklo dėka",
+        "Pasiekė kankinystę ir Rojų",
+        "Buvo išsibarstę po žemes",
+        "Buvo padovanoti didžiuliai turtai"
+      ],
+      "answer": "Pasiekė kankinystę ir Rojų"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

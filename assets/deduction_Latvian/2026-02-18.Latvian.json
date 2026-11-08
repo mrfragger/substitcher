@@ -1,0 +1,61 @@
+{
+  "title": "Nelokāmais liecinieks",
+  "intro": "Atklājas dziļš stāstījums, kas atklāj kopienas nelokāmo apņēmību milzīgas tirānijas priekšā. Viņu stāsts kalpo kā apliecinājums ticībai, pat saskaroties ar galīgo upuri. Šis stāsts atgādina mums par ticības spēku pret milzīgu apspiešanu.",
+  "clues": [
+    "Mēs bijām grupa, kuras stāsts ir aprakstīts īsā, spēcīgā surā, brīdinot par vajāšanām.",
+    "Mēs saskārāmies ar valdnieku, kurš vēlējās izskaust mūsu ticību Vienīgajam Dievam, Troņa Kungam, Slavējamajam.",
+    "Mūs pakļāva briesmīgam pārbaudījumam, kas ietvēra milzīgu bedri, kas tika izrakta zemē.",
+    "Mēs vērojām, kā ticīgie, tostarp zīdaiņi, tika iemesti spēcīgā liesmās tajā bedrē.",
+    "Mūsu mocītāji tika nolādēti par viņu rīcību, savukārt mums tika apsolīta milzīga atlīdzība par mūsu nelokāmību.",
+    "Valdnieka mēģinājums apdzēst mūsu ticību tikai nostiprināja mūsu kā mocekļu vietu Allāha acīs, kurš ir visu lietu liecinieks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tamudas iedzīvotāji",
+        "Reklāmas cilvēki",
+        "Grāvja ļaudis",
+        "Lutas iedzīvotāji",
+        "Ziloņu ļaudis"
+      ],
+      "answer": "Grāvja ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lielie plūdi",
+        "Degošais krūms",
+        "Slīkšana jūrā",
+        "Ugunīgā bedre",
+        "Zemestrīce"
+      ],
+      "answer": "Ugunīgā bedre"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Grāvis",
+        "Kalns",
+        "Aka"
+      ],
+      "answer": "Grāvis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Tika piešķirta karaliste",
+        "Tika izglābti brīnumainā kārtā",
+        "Sasniegusi mocekļa nāvi un Paradīzi",
+        "Bija izkaisīti pa zemēm",
+        "Tika dāvāta milzīga bagātība"
+      ],
+      "answer": "Sasniegusi mocekļa nāvi un Paradīzi"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

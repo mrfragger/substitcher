@@ -1,0 +1,61 @@
+{
+  "title": "Ngọn lửa hé lộ một di sản",
+  "intro": "Trong biên niên sử của những cuộc kháng chiến, có một nhân vật mà chính cái tên của ông đã trở thành lời cảnh báo đến tận cùng thời gian. Người này đã chọn thù hận thay vì tình thân, thách thức thay vì phục tùng, và chống lại lời kêu gọi của lòng thương xót. Hãy lắng nghe kỹ những tiếng vọng của một lời tuyên bố cổ xưa khi chúng ta khám phá danh tính của linh hồn khét tiếng này.",
+  "clues": [
+    "Tôi sinh ra trong cùng một dòng tộc với vị sứ giả cuối cùng của Allah, thế nhưng tôi luôn chống lại họ.",
+    "Tên tôi mang một ý nghĩa—một cái tên có nghĩa là 'cha của ngọn lửa', một cái tên báo trước số phận vĩnh hằng của tôi.",
+    "Tôi đã gây hại cho người mang đến sự thật, và thậm chí cả những người trong gia đình tôi cũng tham gia vào chiến dịch tàn ác này.",
+    "Tôi đã dùng của cải và quyền lực của mình để dập tắt lời kêu gọi đến Allah, tin rằng tiền bạc có thể dập tắt ánh sáng thiêng liêng.",
+    "Allah đã dành hẳn một chương cho tôi—một chương ngắn đến nỗi có thể đọc thuộc lòng trong vài giây, nhưng sức nặng của nó vẫn còn mãi đến Ngày Phán Xét.",
+    "Người bạn đồng hành của tôi ở thế giới bên kia bước theo sau tôi, bị trói bằng một sợi dây thừng quanh cổ, mang theo chính những chiếc gai mà họ từng gieo rắc."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Định nghĩa sự đối đầu",
+      "options": [
+        "Lãnh đạo phe đối lập chống lại Nhà tiên tri ở Mecca",
+        "Di cư đến Abyssinia để trốn tránh sự đàn áp",
+        "Việc xây dựng Kaaba cùng với Tiên tri Ibrahim",
+        "Chấp nhận đạo Hồi lúc hấp hối",
+        "Soạn thảo Hiệp ước Hudaybiyyah"
+      ],
+      "answer": "Lãnh đạo phe đối lập chống lại Nhà tiên tri ở Mecca"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một người vợ gánh gai và củi.",
+        "Một cây gậy biến thành rắn",
+        "Một chiếc nhẫn mang dấu ấn của Solomon",
+        "Một con bê vàng được người dân thờ cúng.",
+        "Một dòng suối phun trào nước"
+      ],
+      "answer": "Một người vợ gánh gai và củi."
+    },
+    "outcome": {
+      "label": "Phán xét cuối cùng",
+      "options": [
+        "Toàn bộ một surah được tiết lộ tuyên bố sự hủy diệt hoàn toàn.",
+        "Trở thành người lãnh đạo cộng đồng Hồi giáo",
+        "Được tha thứ vào thời điểm qua đời.",
+        "Đã xây dựng một nhà thờ Hồi giáo lớn ở Medina.",
+        "Đã được phục sinh giữa những người công chính"
+      ],
+      "answer": "Toàn bộ một surah được tiết lộ tuyên bố sự hủy diệt hoàn toàn."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

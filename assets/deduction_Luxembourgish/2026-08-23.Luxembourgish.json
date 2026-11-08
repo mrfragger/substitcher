@@ -1,0 +1,61 @@
+{
+  "title": "Déi verschwonne Masse",
+  "intro": "Dir stinn virun den Echoen vun enger Gemeinschaft, där hir Geschicht an de Wellen geschriwwe steet. Dës Séilen hunn e Ruff héieren, hunn sech géint d'Trots entscheet a sech mat Konsequenze konfrontéiert, déi d'Äerd nei geformt hunn. Wien sinn si, a wat ass aus hirer Welt ginn?",
+  "clues": [
+    "Mir hunn viru laanger Zäit gelieft, an e Bote koum aus eiser Mëtt zu eis.",
+    "Mir hunn fënnef Gëtzen ugebetet a refuséiert se opzeginn.",
+    "Mir hunn de Messenger verspott an him beschëllegt, sech op déi falsch Ebene ze befinnen.",
+    "Mir hunn gefuerdert, datt hie seng Strof verhängt, wann hie wouer wier.",
+    "Mir hunn den Himmel erofgegoss an d'Äerd Quelle spruddelnd gesinn.",
+    "Mir sinn op déi Héichte geklommen fir ze flüchten, mä d'Wellen hunn eis iwwerholl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "D'Leit vun Nuh",
+        "Leit vun 'Ad",
+        "Leit vun Thamud",
+        "Leit vu Lut",
+        "D'Leit vu Madyan"
+      ],
+      "answer": "D'Leit vun Nuh"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Mir sinn an enger grousser Iwwerschwemmung erdronk",
+        "Mir goufe vun engem Hurrikan zerstéiert",
+        "Mir goufen duerch eng haart Explosioun ëmbruecht",
+        "Mir goufe vun der Äerd verschléckt",
+        "Mir goufe mat Steng vum Himmel beschoss"
+      ],
+      "answer": "Mir sinn an enger grousser Iwwerschwemmung erdronk"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng grouss Iwwerschwemmung",
+        "E gewaltege Wand",
+        "Eng Dusch vu Steng",
+        "Eng feierlech Explosioun",
+        "En Äerdbiewen"
+      ],
+      "answer": "Eng grouss Iwwerschwemmung"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mir sinn all verluer gaangen, ausser de Gleeweger mat Nuh",
+        "Mir goufen an Affen transforméiert",
+        "Mir goufen als Ruine fir Reesender hannerlooss",
+        "Mir goufen a Salz verwandelt",
+        "Mir kruten eng Paus"
+      ],
+      "answer": "Mir sinn all verluer gaangen, ausser de Gleeweger mat Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Harrien arteko seinalea",
+  "intro": "Mendiak etxe bihurtuta zeuden lurralde batean, mezulari bat iritsi zen Alaren seinale miragarri batekin. Jendeak froga eskatu zuen, eta harkaitz sendo batetik ateratako izaki bat jaso zuten. Baina haien harrokeriak abisua ukatzera eraman zituen, beren patua zigilatuz.",
+  "clues": [
+    "Mendietan zizelkatutako etxebizitzetan bizi zen herri batengana bidali ninduten.",
+    "Seinale bat ekartzeko erronka egin zidaten, beraz, gamelu bat atera nuen harkaitz batetik.",
+    "Gameluari askatasunez edaten uzteko eta kalterik ez egiteko agindu nien.",
+    "Nire abisua baztertuz, gameluari hankak moztu eta desobeditu egin zioten.",
+    "Hiru egunen buruan zigorra etorriko zela iragarri nuen.",
+    "Goizean, leherketa handi batek suntsitu zituen, baina ni eta nire jarraitzaileak salbatu ginen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Salih profeta",
+        "Hud profeta",
+        "Lut profeta",
+        "Shu'ayb profeta",
+        "Ibrahim profeta"
+      ],
+      "answer": "Salih profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gamelu eme baten eskaera harkaitz batetik",
+        "Urrezko txahal baten eskaera",
+        "Zerutik mahai bat eskatzeko eskaera",
+        "Uholde baten eskaria",
+        "Langilaria suge bihurtzeko eskaera"
+      ],
+      "answer": "Gamelu eme baten eskaera harkaitz batetik"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Gamelu emea eta bere kumea",
+        "Noeren Arka",
+        "Moisesen makila",
+        "Urrezko Txahala",
+        "Ibrahim-en sua"
+      ],
+      "answer": "Gamelu emea eta bere kumea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Eztanda handi batek suntsitu zuen",
+        "Uholdean itota.",
+        "Lurrak irentsia.",
+        "Tximino bihurtuta.",
+        "Haize bortitz batek suntsitu zuen"
+      ],
+      "answer": "Eztanda handi batek suntsitu zuen"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

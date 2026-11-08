@@ -1,0 +1,61 @@
+{
+  "title": "Ibu nke Onyinye A Jụrụ Ajụ",
+  "intro": "N'oge mmalite akụkọ ihe mere eme mmadụ, mgbe ụwa ka dị obere ma ụwa wee kuo ume mbụ ya, otu mkpụrụ obi guzoro n'ihu Onye Okike na onyinye dị umeala n'obi. A tụrụ onyinye ahụ n'ọkwa nke nnabata Chineke - ma chọpụta na ọ dịghị mma. Ihe sochiri ya abụghị akụkọ mgbaghara, kama nke obi nke ekworo riri, nke dugara n'omume a na-apụghị ịgbanwe agbanwe nke ga-ada ụda ruo oge niile. Nke a bụ akụkọ nke onye aha ya ghọrọ otu ihe ahụ na ikpe na-ezighị ezi mbụ e mere.",
+  "clues": [
+    "A mụrụ m dịka otu n'ime ụmụ mbụ a mụrụ, ndị mụrụ ha bụ nne ma ọ bụ nna ha maara akụkọ ya nke ọma.",
+    "E nwere mgbe m chụrụ àjà nye Allah, mana anabataghị m ya n'aka m — ọ bụ ezie na a nabatara onyinye nwanne m nwoke n'amara.",
+    "Anyaụfụ na iwe gbanyere mkpọrọgwụ n'obi m, m wee yie egwu na m ga-egbu ndị ikwu m.",
+    "Nwanne m nwoke dọrọ m aka ná ntị ka m tụọ egwu Allah, mana mpako m ekweghị ka m gee ntị.",
+    "N'oge adịghị ike dị egwu, emere m ihe a na-apụghị ịkọwa akọwa n'ahụ nwanne m nwoke.",
+    "Mgbe nke ahụ gasịrị, amaghị m otu esi ezo ihe m mere — ruo mgbe e zigara anụ ọhịa nke ụwa ka ọ kụziere m ihe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Qabil (Ken)",
+        "Habil (Ebel)",
+        "Nwa onye amụma Nuh",
+        "Onye Amụma Isma'il",
+        "Onye Amụma Josef"
+      ],
+      "answer": "Qabil (Ken)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịchụ àjà nke a jụrụ, nke dugara n'igbu ọchụ mbụ",
+        "Iwuli ụlọ elu dị elu iji ruo eluigwe",
+        "Ịtụba mmadụ n'ọkụ na-ere ọkụ maka okwukwe ya",
+        "Ịchụ nwa ya nwoke n'àjà n'irubere Allah isi",
+        "Ịla azụ̀ dị ukwuu n'iyi maka ịgba ọsọ ọrụ mmadụ"
+      ],
+      "answer": "Ịchụ àjà nke a jụrụ, nke dugara n'igbu ọchụ mbụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ugoloọma nke Allah zitere iji gosi olili ozu",
+        "Oke idei mmiri nke rikpuru mmadụ niile",
+        "Mkpanaka nke ghọrọ agwọ dị ndụ",
+        "Nne kamel nke si n'ugwu nkume pụta",
+        "Ocheeze mara mma nke ifufe dị ike na-ebu"
+      ],
+      "answer": "Ugoloọma nke Allah zitere iji gosi olili ozu"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Aghọọla onye nwere mwute, onye mpụ mbụ e mere na-ebu ibu arọ",
+        "Allah gbaghaara ya ma nye ya Paradaịs ebighi ebi",
+        "E buliri ya elu n'ọkwa dị elu nke amụma na amamihe",
+        "E zọpụtara ya site n'ebere Chineke mgbe o si n'ime ọchịchịrị kpọpụta ya",
+        "E nyere ya ikike ịchị jin, ifufe, na oke osimiri"
+      ],
+      "answer": "Aghọọla onye nwere mwute, onye mpụ mbụ e mere na-ebu ibu arọ"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

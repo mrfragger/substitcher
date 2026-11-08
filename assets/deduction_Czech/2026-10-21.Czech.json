@@ -1,0 +1,61 @@
+{
+  "title": "Posel, který se postavil modlářům",
+  "intro": "V době, kdy oddanost zabloudila, povstal posel s výzvou k návratu k uctívání Pána světů. Tato postava pevně stála proti lidu zakořeněnému v uctívání falešného božstva a připomínala jim jejich pravého Stvořitele a Pána jejich předků. Lidé však byli nedbalí a varování odmítli, čímž si zpečetili svůj vlastní osud. Kdo byl tento neochvějný volající?",
+  "clues": [
+    "Byl jsem poslán k lidu, který se odvrátil od cesty Jediného Pravého Boha.",
+    "Zeptal jsem se svého lidu: „Nebudete se bát Alláha?“",
+    "Vyzval jsem je, aby opustili uctívání falešného boha jménem Baal.",
+    "Můj lid odmítl mé volání a setrvával ve svém modlářství.",
+    "Kvůli jejich popírání budou jistě přivedeni k trestu.",
+    "Můj Pán mi daroval mír a požehnanou vzpomínku mezi pozdějšími generacemi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Iljas",
+        "Prorok Jahja",
+        "Prorok Zul-Kifl",
+        "Prorok Jusuf",
+        "Prorok Šu'ajb"
+      ],
+      "answer": "Prorok Iljas"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Vyzval svůj lid, aby opustil Baala",
+        "Postavil archu, aby zachránil věřící",
+        "Byl vhozen do ohně",
+        "Uprchl před tyranským faraonem",
+        "Udeřil do skály, aby vytryskla voda"
+      ],
+      "answer": "Vyzval svůj lid, aby opustil Baala"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Darován pokoj a požehnaná vzpomínka",
+        "Pohlceno zemí",
+        "Zničeno prudkou bouří",
+        "Proměněn v kámen",
+        "Utopený v moři"
+      ],
+      "answer": "Darován pokoj a požehnaná vzpomínka"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

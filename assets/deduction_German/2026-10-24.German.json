@@ -1,0 +1,61 @@
+{
+  "title": "Die Warnung unter der Erde",
+  "intro": "Stellen Sie sich vor, Sie stehen neben einer tiefen Ausgrabungsstätte, Stimmen dringen aus der Tiefe empor und die Welt darüber verstummt. Der Koran überliefert diese Szene als Warnung: Eine Gemeinschaft verwirft die Botschaft der Boten, die Strafe naht, und selbst ihr Getöse wird Teil des Zeugnisses. Welche Gemeinschaft spricht durch diese Verse?",
+  "clues": [
+    "Im Koran werden wir als Kollektiv in Erinnerung behalten, das durch ein gemeinsames Schicksal definiert ist, und nicht durch einen individuellen Namen.",
+    "Wir wiesen die Botschaft der Boten zurück, obwohl das, was sie sagten, wahr war.",
+    "Unsere erinnerte Identität ist mit einer tiefen Einschnitt in der Erde verbunden, und dieses Merkmal wurde Teil unseres Namens.",
+    "Am besagten Tag wurden wir herausgeholt und zum Feuer geschleift.",
+    "Wir konnten uns gegen die Strafe nicht verteidigen und wir konnten ihr Dröhnen nicht hören.",
+    "Unsere Gesichter würden dem Feuer zugewandt sein, und wir würden hineingetrieben werden; wenn wir befragt würden, würden wir sagen, dass wir zu denen gehören, die nicht antworten können."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Gefährten des Schützengrabens",
+        "Die Nation, die von der großen Flut gerettet wurde",
+        "Die Anbeter des Goldenen Kalbs",
+        "Die Gruppe suchte in der Berghöhle Schutz.",
+        "Die aus dem Feuerofen gerettete Gemeinschaft"
+      ],
+      "answer": "Die Gefährten des Schützengrabens"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Ins Feuer geschleift und geworfen",
+        "Direkt aus einem glühenden Ofen",
+        "Sicher durch eine große Flut getragen",
+        "Jahrhundertelang in einer Höhle geschützt",
+        "Gerettet, nachdem er in einen Brunnen geworfen worden war"
+      ],
+      "answer": "Geschleift und ins Feuer geworfen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Graben oder eine Grube",
+        "Ein großes Meer",
+        "Eine Berghöhle",
+        "Ein hoher Palast",
+        "Ein Wüstenbrunnen"
+      ],
+      "answer": "Ein Graben oder eine Grube"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Unfähig, sich zu verteidigen und unfähig, das Tosen des Feuers zu hören",
+        "Gerettet und in den ewigen Garten aufgenommen",
+        "Sicher durch eine zerstörerische Flut geliefert",
+        "Geschützt durch einen langen Schlaf in einer Höhle",
+        "Ihm wurde ein ewiges Königreich verliehen"
+      ],
+      "answer": "Unfähig, sich zu verteidigen und unfähig, das Tosen des Feuers zu hören"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "El sacrificio voluntario",
+  "intro": "En tiempos de pruebas divinas, un alma fue llamada al acto supremo de sumisión. Criada en una tierra árida, esta figura llegó a encarnar la fe y la paciencia. Cuando una visión le exigió un sacrificio, no vaciló. Su historia es un pilar de la devoción.",
+  "clues": [
+    "Yo fui la respuesta a la largamente esperada oración de un gran profeta.",
+    "Mi madre y yo quedamos abandonadas en un valle desolado con solo dátiles y agua como provisiones.",
+    "Crecí hasta convertirme en un profeta conocido por mi veracidad y paciencia.",
+    "Ayudé a mi padre a levantar los cimientos de una casa sagrada dedicada a Alá.",
+    "Cuando mi padre me habló de un sueño en el que me pedía que me sacrificara, le respondí: \"Haz lo que se te ordena\".",
+    "Allah honró mi sumisión enviando un carnero del cielo para rescatarme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Isma'il",
+        "Profeta Ishaq",
+        "Profeta Ya'qub",
+        "Profeta Ibrahim",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Isma'il"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Someterse voluntariamente a ser sacrificado",
+        "Ser arrojado a un fuego ardiente",
+        "Ser tragado por un gran pez",
+        "Ser vendido como esclavo",
+        "Ser sometido a pruebas con una enfermedad grave"
+      ],
+      "answer": "Someterse voluntariamente a ser sacrificado"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Pozo de Zamzam",
+        "El Arca de Noé",
+        "El fuego de Nimrod",
+        "El becerro de oro",
+        "El personal de Musa"
+      ],
+      "answer": "Pozo de Zamzam"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fue rescatado con un gran carnero.",
+        "Se salvó del fuego",
+        "Se salvó de la inundación.",
+        "Fue sacado de la ballena.",
+        "Se le dio un reino y sabiduría."
+      ],
+      "answer": "Fue rescatado con un gran carnero."
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

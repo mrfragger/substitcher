@@ -1,0 +1,61 @@
+{
+  "title": "Clamor Immutabilis ad Veritatem",
+  "intro": "Nuntius solus stat inter populum pertinacem, eum ad Unum Verum Deum vocans dum illi falsis idolis adhaerent. Hic propheta nomen gerit quod significatione valida resonat — 'qui protectionem quaerit' — sed solum repudiationem et negationem accipit. Per lenem persuasionem et firmam admonitionem, haec anima nuntium divinum portat quem universum ipsum tandem vindicabit. Potesne hanc constantem figuram, quae unam ex antiquissimis narrationibus in scripturis Islamicis repraesentat, agnoscere?",
+  "clues": [
+    "Meus populus multa dea venerabatur, dum ego eos vocavi ut Ei servirent qui caelum et terram creavit.",
+    "Coram gente mea steti et declaravi me nullam praemiam ab eis petiturum esse; unicum desiderium meum erat eorum ductionem ad iustitiam.",
+    "Magnus ventus in populum meum missus est tamquam divina poena, ventus de quo Alcoranus loquitur et plurali et feminino modo.",
+    "Dissimilis quibusdam prophetis, mihi non data est uxor aut liberi, de quibus in narratione mea insigniter memorantur, nam mea missio erat populum meum solus vocare.",
+    "Nomen meum significationem profundam habet—ad notionem protectionis et perfugii quam quis quaerit pertinens.",
+    "Mei populi certo vocabulo geographico pro valle quam incolebant cognoscebantur, et terra eorum propter inopiam vegetationis peculiari cum contemptu describebatur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Hud",
+        "Propheta Salih",
+        "Propheta Shu'aib",
+        "Propheta Nuh",
+        "Propheta Hudayb"
+      ],
+      "answer": "Propheta Hud"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Diluvium terrae",
+        "Ventus urens",
+        "Terrae motus destructionis",
+        "Siccitas et fames",
+        "Submersio in mari"
+      ],
+      "answer": "Ventus urens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vallis fertilis Iemeniae",
+        "Desertum harenosum Madianense",
+        "Vallis saxosa Thamudi",
+        "Terra antiqua populi 'Ad",
+        "Regio maritima Aegypti"
+      ],
+      "answer": "Terra antiqua populi 'Ad"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populus meus paenitentiam egit et paradisum ingressus est",
+        "Nemo e populo meo poenam supervixit",
+        "Vivus sublatus sum sicut frater meus Yunus",
+        "Cum sectatoribus meis ad terram benedictam migravi",
+        "Ventus solos infideles peremit, fideles autem supervixerunt."
+      ],
+      "answer": "Nemo e populo meo poenam supervixit"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

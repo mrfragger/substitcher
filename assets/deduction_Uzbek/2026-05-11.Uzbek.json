@@ -1,0 +1,61 @@
+{
+  "title": "Sabrli Shohidlar",
+  "intro": "E'tiqod olov bilan sinovdan o'tgan va sobit ishonch eng yuqori qarshilikka aylangan bir davrni tasavvur qiling. Sizga Qur'onda hikoya qilingan, ulkan zulmga qarshi chuqur imon haqidagi hikoya bo'lgan guruhning kimligini aniqlash vazifasi yuklatilgan. Bu ruhlar kimligini va ular duch kelgan favqulodda vaziyatlarni aniqlash uchun izlarni oching.",
+  "clues": [
+    "Biz imonimizdan voz kechishga majbur bo'lgan kuchli bosimga qaramay, e'tiqodimizda qat'iy turdik.",
+    "Bizni monoteizm nurini o'chirishga intilgan qudratli hukmdor nishonga oldi.",
+    "Biz buyuk alomatlar va mo''jizalarga guvoh bo'ldik, ammo zolimlarimiz beparvo qolishdi.",
+    "Biz boshqalarni qo'rqitib, bo'ysundirish uchun mo'ljallangan dahshatli ta'qib usuliga chidadik.",
+    "Biz alangali do'zaxga tashlandik, ammo sabr-toqatimiz bizga Alloh huzurida yuksak maqomni keltirdi.",
+    "Bizning hikoyamiz samoviy yulduz turkumlari nomi bilan atalgan surada hikoya qilinadi va mo'minlarni ta'qib qiluvchilarning taqdiri haqida ogohlantiriladi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Samud qavmi",
+        "Od qavmi",
+        "Xandaq xalqi",
+        "Midiyon xalqi",
+        "Fil xalqi"
+      ],
+      "answer": "Xandaq xalqi"
+    },
+    "trial": {
+      "label": "Bizning ta'qibimiz",
+      "options": [
+        "To'fonda cho'kib ketish",
+        "Kuchli shamol tomonidan yutib yuborilmoqda",
+        "Olovli xandaqqa tashlanish",
+        "Yer tomonidan yutib yuborilmoqda",
+        "Maymunlarga aylanish"
+      ],
+      "answer": "Olovli xandaqqa tashlanish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Katta suv toshqini",
+        "Katta zilzila",
+        "Chuqur, yonayotgan xandaq",
+        "Kuchli but",
+        "Dahshatli qurg'oqchilik"
+      ],
+      "answer": "Chuqur, yonayotgan xandaq"
+    },
+    "outcome": {
+      "label": "Bizning yakuniy taqdirimiz",
+      "options": [
+        "Ularga yer yuzida shohlik berildi.",
+        "Ular mo''jizaviy ravishda qochish orqali qutqarildilar.",
+        "Ular shahidlik va abadiy mukofotga erishdilar.",
+        "Ular boshqa turga aylantirildi.",
+        "Ularga ulkan boylik va farovonlik berildi."
+      ],
+      "answer": "Ular shahidlik va abadiy mukofotga erishdilar."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lambun da Ya Bace Da Dare",
+  "intro": "Ka yi tunanin wani lambu mai kyau, mai cike da 'ya'yan itatuwa masu nuna kuma kewaye da manyan bishiyoyi. Waɗanda ke kula da shi sun yi tunanin kansu masu wayo, suna tsara girbinsu a cikin sa'o'i masu natsuwa kafin wayewar gari, nesa da idanun waɗanda ke cikin buƙata. Amma Wanda ba ya barci yana da wasu tsare-tsare don ɓoyayyun falalarsa. Za ka iya tunanin wanda ke tsaye a bayan wannan labarin gargaɗi daga Alƙur'ani?",
+  "clues": [
+    "Mun taɓa samun lambu mai cike da ciyayi da yalwar abinci wanda ya zama abin kishin duk wanda ya wuce.",
+    "A cikin shirinmu, mun yi wa juna rada da sassafe, muna shelanta cewa ba za a bar wani mai bukata ya shiga wannan rana ba.",
+    "Mu mutane ne masu arziki, kuma zukatanmu sun makance ga haƙƙin talakawan da ke kewaye da mu.",
+    "Da alfijir na lokacin girbin da muke shirin yi ya iso, mun kusanci lambunmu sai muka ga ya rikide ya zama kufai cikin dare ɗaya.",
+    "Wata mummunar doka ta ratsa ta, ba ta bar komai ba sai toka inda tarin 'ya'yan itatuwa da suka nuna suka rataye a da.",
+    "Labarinmu gargaɗi ne mai tsanani da aka rubuta a cikin Alƙur'ani, inda aka san mu da masu lambu waɗanda ke hana sadaka ga mabukata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Masu Lambun",
+        "Mutanen Kogo",
+        "Almajiran Isa",
+        "Sahabban Itace",
+        "Baƙin Ibrahim"
+      ],
+      "answer": "Masu Lambun"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Girbi 'ya'yan itace a ɓoye da kuma hana talakawa",
+        "Barci tsawon ƙarnuka da yawa a cikin kogo",
+        "Ƙin samar da raƙumi daga dutse",
+        "Bauta wa ɗan maraƙi na zinariya a Dutsen Sinai",
+        "Gina babban jirgi domin gujewa ambaliyar ruwa"
+      ],
+      "answer": "Girbi 'ya'yan itace a ɓoye da kuma hana talakawa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Lambun da aka yi wa katanga cike da itatuwan dabino da inabi",
+        "Kogo mai duhu mai zurfi a cikin tsaunuka",
+        "Birni da guguwar allahntaka ta mamaye",
+        "Kwarin alfarma kusa da Ɗakin Allah",
+        "Gaɓar kogi mai gudana"
+      ],
+      "answer": "Lambun da aka yi wa katanga cike da itatuwan dabino da inabi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An cinye lambun da wuta mai zafi daga sama",
+        "Sun yi barci cikin kwanciyar hankali tsawon shekaru 309 na wata",
+        "Ruwan duwatsu ya murƙushe su",
+        "Sun nutse a ƙarƙashin raƙuman ruwa mai girma",
+        "Iska mai sanyi da ƙarfi ta warwatse su"
+      ],
+      "answer": "An cinye lambun da wuta mai zafi daga sama"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

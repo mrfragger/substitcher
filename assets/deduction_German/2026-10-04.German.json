@@ -1,0 +1,61 @@
+{
+  "title": "Die Last, die Heilung brachte",
+  "intro": "Eine Seele, unermesslich geprüft, wurde jeglichen Trosts, jeglicher Gefährten und jeglicher körperlicher Kraft beraubt. In tiefem Leid gefangen, wandte sich dieser Diener Allahs allein dem Göttlichen zu. Durch unerschütterliche Geduld und inniges Gebet kam eine Welle der Gnade, die alle Erwartungen übertraf. Wer ist diese Gestalt, deren Hingabe den Weg zur Heilung öffnete?",
+  "clues": [
+    "Ich war ein von Allah auserwählter Diener und erfreute mich zu meinen Lebzeiten des Überflusses, eines blühenden Haushalts und guter Gesundheit.",
+    "Dann brach eine Prüfung über mich herein: Reichtum schwand, geliebte Menschen schliefen, und mein eigenes Fleisch wurde von schwerem Leid getroffen.",
+    "Diejenigen, die mir nahestanden, konnten meinen Zustand nicht ertragen, und ich blieb isoliert zurück, mein Körper von Leiden gequält.",
+    "Ich rief meinen Herrn an und erklärte, dass Satan mich mit Erschöpfung und Strafe getroffen habe.",
+    "Die Antwort kam – der Befehl, mit dem Fuß auf den Boden zu treten, und daraus sprudelte kühles Wasser zur Heilung hervor.",
+    "Mein Herr hat die Not gänzlich beseitigt und mir meine Familie, ja sogar vervielfacht, zurückgegeben, als Zeichen der Barmherzigkeit für diejenigen, die nachdenken."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ayyub",
+        "Prophet Musa",
+        "Prophet Yusuf",
+        "Prophet Yunus",
+        "Prophet Ibrahim"
+      ],
+      "answer": "Prophet Ayyub"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Schwere Krankheit und Verlust von allem",
+        "Auf Befehl eines Tyrannen ins Feuer geworfen.",
+        "Von Verwandten in einer tiefen Grube eingesperrt",
+        "Verschluckt von einem großen Fisch im Meer",
+        "Auf der Flucht aus der Heimat."
+      ],
+      "answer": "Schwere Krankheit und Verlust von allem"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die kühle Quelle, die aus dem Boden sprudelte",
+        "Das kühle und friedliche Feuer",
+        "Die Arche ruht auf einem Berg",
+        "Die Mitarbeiter, die das Meer teilten",
+        "Der Korb, der auf dem Fluss schwimmt"
+      ],
+      "answer": "Die kühle Quelle, die aus dem Boden sprudelte"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Familie und Segen wiederhergestellt, verdoppelt",
+        "Entkam dem brennenden Feuer unverletzt.",
+        "Er stieg bis zum höchsten Amt eines Königreichs auf",
+        "Kam aus dem Bauch eines riesigen Fisches in Sicherheit",
+        "Führte ein Volk durch ein geteiltes Meer"
+      ],
+      "answer": "Familie und Segen wiederhergestellt, verdoppelt"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

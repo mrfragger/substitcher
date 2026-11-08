@@ -1,0 +1,61 @@
+{
+  "title": "Wito Usiotiliwa Katika Nchi ya Kiburi",
+  "intro": "Unasimama katika magofu ya ustaarabu mkuu hapo awali, ambapo nguvu na kiburi havikuwa na mipaka. Mjumbe alitembea kati yao, akiita ukweli, lakini mioyo yao ilikuwa migumu. Onyo halikuzingatiwa, na anga lenyewe likawa chombo cha ghadhabu. Mjumbe huyu alikuwa nani, na nini kilitokea kwa wale waliokataa wito huo?",
+  "clues": [
+    "Nilitumwa kwa watu ambao hawakuwa na nguvu ya kulinganishwa nao na ambao walijenga mnara juu ya kila mahali pa juu.",
+    "Watu wangu walijiona kama wasioshindika na wakasema, 'Ni nani aliye na nguvu kuliko sisi?'",
+    "Niliwaita wamwabudu Mwenyezi Mungu pekee, lakini walinituhumu kwa upumbavu na uongo.",
+    "Walinipa changamoto ya kuleta adhabu niliyoahidi ikiwa nilikuwa mkweli.",
+    "Mwenyezi Mungu aliwapelekea upepo tasa ambao haukuacha chochote.",
+    "Mimi na wale walioamini pamoja nami tuliokolewa kwa rehema ya Mwenyezi Mungu, huku makafiri wakiangamizwa kabisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Hud",
+        "Nabii Salih",
+        "Nabii Shuaib",
+        "Nabii Lut",
+        "Nabii Nuh"
+      ],
+      "answer": "Nabii Hud"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Upepo mkali uliwaangamiza makafiri",
+        "Mafuriko makubwa yaliwafunika makafiri",
+        "Mvua ya mawe ilinyesha",
+        "Kelele kubwa iliwashika makafiri",
+        "Tetemeko la ardhi liliwakumba makafiri"
+      ],
+      "answer": "Upepo mkali uliwaangamiza makafiri"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Upepo usiokoma",
+        "Sanduku la mbao",
+        "Ngamia jike",
+        "Mvua ya mawe ya udongo",
+        "Moto unaowaka"
+      ],
+      "answer": "Upepo usiokoma"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Hud na waumini waliokolewa, na makafiri waliangamizwa",
+        "Hud alipandishwa cheo hadi cheo cha juu",
+        "Hud aliuawa na watu wake",
+        "Watu wa Hud walitubu na wakaokolewa",
+        "Hud aliwaacha watu wake kabla ya adhabu yoyote"
+      ],
+      "answer": "Hud na waumini waliokolewa, na makafiri waliangamizwa"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

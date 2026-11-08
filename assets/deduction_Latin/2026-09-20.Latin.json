@@ -1,0 +1,61 @@
+{
+  "title": "Fidelis Velatus in Aula Tyranni",
+  "intro": "Intra aulas aulae audacissimae rectoris arrogantissimi quem Alcorano noverat — ubi detestatio Divini omne edictum definiebat — anima quaedam inter privilegiatos ambulabat, periculosissima secreta in conspectu celans. Hic homo fidem tam vetitam intra muros illos gerebat ut eius detectio certam mortem significaret. Attamen convictio velut flamma sub cineribus ardebat, et cum momentum advenisset, veritas cum tali virtute resonabat ut ipsa fundamenta palatii tyranni concusseret.",
+  "clues": [
+    "In circulo intimo potentissimi et arrogantissimi mei temporis rectoris, luxu et auctoritate circumdatus, vixi.",
+    "Veram meam fidem in profundo corde celavi, vita mea timens ab iis qui cum crudelitate et oppressione regebant.",
+    "Cum populus meus veritatis faciem dubitaret et vacillaret, processi ut eos de tragico fato monerem, quod praeteritas gentes, quae nuntios Domini sui reiecerant, acciderat.",
+    "Populo meo fabulam de iuvene quodam dilecto somniatore admonui, qui a cognatione sua deiectus, tamen ad magnam auctoritatem in terra longinqua ascendit.",
+    "Populum meum hortatus sum ne rectori qui eos aberravit pareant, sed potius invitans ut me in via iustitiae et ducatus sequerentur.",
+    "Veritatem palam dixi, quamquam sectatores tyranni minabantur me lapidaturos aut e terra expulsuros."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Fidelis Occultus e Familia Pharaonis",
+        "Patiens Patriarcha Qui Caecus Flebat Donec Filius Rediit",
+        "Servus Fidelis Cuius Morbus Cutis Tandem Sanatus Est",
+        "Filius Peccator Qui Invitationem Prophetae Ad Arcam Conscendendam Reiecit",
+        "Tyrannus Implacalis Qui Divinitatem Sibi Arbitravit"
+      ],
+      "answer": "Fidelis Occultus e Familia Pharaonis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Fidem celans in aula tyranni",
+        "Caecitatem passus propter annos lacrimarum",
+        "Tentatio amissae familiae et gravi afflictione",
+        "Navem magnam aedificans dum derideris",
+        "Ferens aestum magni ignis"
+      ],
+      "answer": "Fidem celans in aula tyranni"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Palatium Pharaonis",
+        "Cacumen montis ubi arca constructa est",
+        "Vallis sacra sub monte Sinai",
+        "Hortus magnificus cum duobus rivis fluentibus",
+        "Thronus crystallinus supra flumen subterraneum"
+      ],
+      "answer": "Palatium Pharaonis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Divina protectio dum oppressores exitium subierunt",
+        "Post decennia separationis, cum familia iterum coniunctus est",
+        "Patientia, valetudo restituta, et familia maior concessa sunt",
+        "In navi servatus sum, dum reliquus mundus submersus est",
+        "Incolumis ex flammis iussu Dei servatus est"
+      ],
+      "answer": "Divina protectio dum oppressores exitium subierunt"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

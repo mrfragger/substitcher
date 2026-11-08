@@ -1,0 +1,61 @@
+{
+  "title": "Allahs upphöjda tjänare",
+  "intro": "Man hör viskningar om en gestalt från forntiden, en Allahs tjänare som upphöjdes till en ställning över det vanliga. Denna individ var känd för orubbligt tålamod och absolut sanningsenlighet, och sändes till ett folk som vände sig bort från budskapet. Vem är denna upphöjda själ?",
+  "clues": [
+    "Jag blev utvald av Allah till profet och är omnämnd i den heliga Koranen.",
+    "Jag var känd för mitt tålamod och min sanningsenlighet, egenskaper som Allah prisar.",
+    "Jag kallade mitt folk att dyrka den ende Guden, men många förkastade mig.",
+    "Min ställning upphöjdes av Allah, och jag tilldelades en hög rang.",
+    "Jag nämns ofta tillsammans med andra profeter som Ismail och Dhul-Kifl.",
+    "Allah säger om mig: \"Och Vi upphöjde honom till en hög ställning.\" (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Idris",
+        "Profeten Elias",
+        "Profeten Dhu al-Kifl",
+        "Profeten Al-Yasa",
+        "Profeten Hud"
+      ],
+      "answer": "Profeten Idris"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Uppmanade människor att dyrka Allah",
+        "Byggde arken",
+        "Kämpade mot farao",
+        "Testades med svår sjukdom",
+        "Kastades i eld"
+      ],
+      "answer": "Uppmanade människor att dyrka Allah"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Hög rang/position",
+        "Arken",
+        "Personalen",
+        "Elden",
+        "Brunnen"
+      ],
+      "answer": "Hög rang/position"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Upphöjd till hög status",
+        "Drunknade i översvämningen",
+        "Svald av en val",
+        "Räddad från elden",
+        "Blev kung"
+      ],
+      "answer": "Upphöjd till hög status"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

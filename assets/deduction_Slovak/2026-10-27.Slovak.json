@@ -1,0 +1,61 @@
+{
+  "title": "Obliehanie pod náhlou oblohou",
+  "intro": "Stojíte pred impozantnou armádou blížiacou sa k uctievanej svätyni, so všetkými zbraňami pripravenými a víťazstvo sa zdá byť isté. Ešte predtým, ako sa útok môže začať, sa nad vami objaví nečakaná sila a súboj naberie spád, ktorý nikto nepredvídal.",
+  "clues": [
+    "Pochodovali sme s istotou, ktorú žiadna pozemská mocnosť nemohla otriasť.",
+    "Priviedli sme mocné slony a zdalo sa, že naša sila je postavená okolo nich.",
+    "Prišli sme zbúrať uctievanú svätyňu v presvedčení, že naše víťazstvo je už isté.",
+    "Keď sme tam dorazili, nad nami sa po oblohe prehnal kŕdeľ.",
+    "Vtáky hádzali na našich bojovníkov kamene zo stvrdnutej hliny.",
+    "Boli sme tak úplne porazení, že sa naša mocná sila rozpadla a rozptýlila ako popol."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia slona",
+        "Dvaja princovia",
+        "Jozefovi bratia",
+        "Služobník Alaha v Dhul-Kifl",
+        "Spoločníci spravodlivého muža"
+      ],
+      "answer": "Ľudia slona"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Útok slonov na Kaabu",
+        "More sa rozchádza pred vyslobodenou skupinou",
+        "Zabavenie Archy tyranským ľudom",
+        "Nočná cesta medzi dvoma mešitami",
+        "Uzdravenie malomocného božskou mocou"
+      ],
+      "answer": "Útok slonov na Kaabu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Vtáky nesúce hlinené pelety",
+        "Archa z goferového dreva",
+        "Palica sa premenila na hada",
+        "Kameň zapečatený znamením",
+        "Horiaci ker"
+      ],
+      "answer": "Vtáky nesúce hlinené pelety"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Ich mocná sila sa rozpadla ako popol",
+        "Bezpečne prekročili more",
+        "Prešli bez zranenia cez horiacu pec",
+        "Vstúpili do raja vo dvojiciach",
+        "Spali v jaskyni 309 rokov"
+      ],
+      "answer": "Ich mocná sila sa rozpadla ako popol"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

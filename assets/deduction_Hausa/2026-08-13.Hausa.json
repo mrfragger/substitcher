@@ -1,0 +1,61 @@
+{
+  "title": "Ruhin Mai Haƙuri na Gidan Tsarki",
+  "intro": "A cikin shafukan Alƙur'ani, wani mutum ya fito daga zuriyar wani babban annabi, wanda aka ba shi kyauta a tsufa. Ana girmama wannan ruhi saboda gaskiya mai ƙarfi da kuma muhimmiyar rawa wajen kafa wurin ibada wanda zai zama fitilar imani. Yayin da kake karanta alamun, ka saurari muryar da ta fito daga baya, domin tana magana ne a matsayin mutum na farko.",
+  "clues": [
+    "An ambace ni a cikin Alqur'ani tare da wani annabi a matsayin kyauta da aka bai wa wani tsoho manzo.",
+    "Ni ɗaya ne daga cikin zuri'a biyu da aka haifa wa wannan annabin a ƙarshen rayuwarsa.",
+    "Alqur'ani ya yabe ni saboda na kasance mai gaskiya ga maganar da na yi.",
+    "Na ɗauki darajar annabci kuma an aiko ni a matsayin manzo.",
+    "Na bi mahaifina wajen ɗaga harsashin Haikalin Allah.",
+    "Ana tunawa da ni a matsayin ɗaya daga cikin waɗanda suka yi haƙuri, kuma gidan alfarma da muka gina ya zama wurin komawa da kuma tsaro ga mutane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Isma'ila",
+        "Annabi Ishak",
+        "Annabi Yaƙub",
+        "Annabi Zakariyya",
+        "Annabi Yahaya"
+      ],
+      "answer": "Annabi Isma'ila"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ɗaga harsashin Ka'aba tare da Ibrahim",
+        "Ana jefa shi cikin wuta",
+        "Kifin whale ya haɗiye shi",
+        "Jawo Isra'ilawa daga Masar daga hannun Masar",
+        "Gina jirgin ruwa"
+      ],
+      "answer": "Ɗaga harsashin Ka'aba tare da Ibrahim"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ka'aba",
+        "Dutsen Sinai",
+        "Tekun Ja",
+        "Ɗan Maraƙin Zinare",
+        "Lambun Adnin"
+      ],
+      "answer": "Ka'aba"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ƙirga shi a cikin marasa lafiya",
+        "An ƙirga shi cikin masu laifi",
+        "An ƙirga shi cikin masu sihiri",
+        "An ƙirga shi cikin kafirai",
+        "An ƙirga shi cikin munafukai"
+      ],
+      "answer": "An ƙirga shi a cikin marasa lafiya"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

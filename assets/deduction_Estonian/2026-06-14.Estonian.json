@@ -1,0 +1,61 @@
+{
+  "title": "Leek, mis paljastas pärandi",
+  "intro": "Vastupanu annaalides seisab tegelane, kelle nimigi sai hoiatuseks aegade lõpuni. See inimene valis vaenu suguluse asemel, trotsi alistumise asemel ja astus vastu halastuse kutsele. Kuulake tähelepanelikult iidse kuulutuse kaja, kui me paljastame selle kurikuulsa hinge identiteedi.",
+  "clues": [
+    "Ma sündisin samasse suguvõsa kui Allahi viimane sõnumitooja, kuid ometi seisin neile igal sammul vastu.",
+    "Mu nimel oli tähendus – nimi, mis tähendas „leegi isa“, nimi, mis ennustas ette minu igavest saatust.",
+    "Ma lasin tõe kandjal rünnaku valla ja isegi mu enda majapidamine ühines selle julmuse kampaaniaga.",
+    "Kasutasin oma rikkust ja mõjuvõimu, et vaigistada Allahi poole pöördumist, uskudes, et raha võib jumaliku valguse kustutada.",
+    "Allah pühendas mulle terve peatüki – peatüki, mis on nii lühike, et seda saab sekunditega ette lugeda, kuid selle kaal jääb kehtima kuni kohtupäevani.",
+    "Mu kaaslane teispoolsuses kõnnib mu taga, kaelas kiudköiega seotud, kandes samu okkaid, mida nad varem levitasid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Vastasseis",
+      "options": [
+        "Prohveti vastase opositsiooni juhtimine Mekas",
+        "Tagakiusamise eest põgenemiseks rännata Abessiiniasse",
+        "Kaaba ehitamine koos prohvet Ibrahimiga",
+        "Islami vastuvõtmine surmavoodil",
+        "Hudaybiyyahi lepingu sõlmimine"
+      ],
+      "answer": "Prohveti vastase opositsiooni juhtimine Mekas"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Naine, kes kandis okkaid ja küttepuid",
+        "Personali, mis muutus maoks",
+        "Saalomoni pitseriga sõrmus",
+        "Kuldvasikas, keda rahvas kummardas",
+        "Allikas, mis vett purskas"
+      ],
+      "answer": "Naine, kes kandis okkaid ja küttepuid"
+    },
+    "outcome": {
+      "label": "Lõplik arveteõiendamine",
+      "options": [
+        "Terve surah paljastas täieliku hävingu",
+        "Sai moslemikogukonna juhiks",
+        "Sai surma hetkel andeks",
+        "Ehitas Medinasse suure mošee",
+        "Tõusis üles õigete seas"
+      ],
+      "answer": "Terve surah paljastas täieliku hävingu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

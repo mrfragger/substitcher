@@ -1,0 +1,61 @@
+{
+  "title": "Skupnost, ki je kljubovala dnevu počitka",
+  "intro": "Stopite v obalno naselje, kjer je božji ukaz en dan namenil čaščenju in vzdržnosti. Skupina znotraj te skupnosti se je odločila preizkusiti meje tega ukaza z zvitim načrtom, ki je vodil do preobrazbe, ki bo odmevala skozi stoletja. Kdo so bile te duše in kaj se je zgodilo z njimi?",
+  "clues": [
+    "Živeli smo blizu obale, kjer nam je morje zagotavljalo preživetje.",
+    "Zapovedano nam je bilo, naj spoštujemo en dan v tednu in ga ločimo od posvetnih dejavnosti.",
+    "Tistega dne so ribe prišle k nam v velikem številu, kot da bi nas skušale prelomiti zapoved.",
+    "Zasnovali smo načrt, da ribe ujamemo na predvečer svetega dne in jih nato poberemo, ko mine.",
+    "Ko so nekateri med nami svarilni pred to prevaro, smo njihov nasvet prezrli in vztrajali.",
+    "Zaradi našega prestopka smo bili spremenjeni v opice, prezirani in zavrženi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje sobote",
+        "Ljudje iz jarka",
+        "Ljudje iz gozda",
+        "Ljudje z vrta",
+        "Ljudje slona"
+      ],
+      "answer": "Ljudje sobote"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ribolov na soboto",
+        "Gradnja visokega stolpa",
+        "Uboj svete kamele",
+        "Zanikanje preroka, ki jim je bil poslan",
+        "Kršitev trgovinskih uteži"
+      ],
+      "answer": "Ribolov na soboto"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Morje in njegove ribe",
+        "Ogenj, ki se je ohladil",
+        "Palica, ki se je spremenila v kačo",
+        "Skrinja odrešenja",
+        "Kamnite plošče"
+      ],
+      "answer": "Morje in njegove ribe"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Preobrazili se v opice",
+        "Požrla ga je zemlja",
+        "Uničen zaradi močnega vetra",
+        "Utopljen v morju",
+        "Zadet od kamnov"
+      ],
+      "answer": "Preobrazili se v opice"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

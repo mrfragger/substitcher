@@ -1,0 +1,61 @@
+{
+  "title": "Mekan totuudenmukaiset",
+  "intro": "Ilmestyksen alkuaikoina, kun totuuden sanoma kohtasi ankaraa vastustusta, jotkut sielut pysyivät horjumattomina vakaumuksessaan. Nämä uskovat kohtasivat käsittämätöntä julmuutta niiltä, ​​jotka pyrkivät sammuttamaan uskon valon. Heidän piinansa oli ankaraa, heidän kärsimyksensä valtavaa – silti heidän kielensä ei koskaan lakannut julistamasta Allahin ykseyttä. Jopa epätoivon syvyyksiin heitettyinä jumalallinen suojelus ympäröi heitä ja muutti heidän koettelemuksensa ikuiseksi uskon todistukseksi. Tutkikaamme näiden merkittävien sielujen matkaa.",
+  "clues": [
+    "Meitä koeteltiin ankaralla rangaistuksella, koska kieltäydyimme hylkäämästä uskoamme yhteen Jumalaan",
+    "Kansamme ei voinut murtaa päättäväisyyttämme, olipa heidän julmuutensa kuinka luovaa tahansa",
+    "Meidät riippui kaivosta päivällä, mutta jumalallinen apu oli aina lähellä",
+    "Lujuutemme hämmästytti jopa niitä, jotka todistivat kestävyytemme",
+    "Monet Mekassa yrittivät pakottaa meidät perumaan uskomme, mutta pysyimme päättäväisinä",
+    "Kun kaikki näytti menetettyä, vapautemme saapui ihmeellisen jumalallisen väliintulon kautta"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Taistelu profeettaa vastaan",
+        "Vaino epäjumalien palvonnan kieltämisestä",
+        "Uskonkoe tulipalon suhteen",
+        "Jaetun yömatkan koe",
+        "Puutarhan tuhon testi"
+      ],
+      "answer": "Vaino epäjumalien palvonnan kieltämisestä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Uhudin vuori",
+        "Kaaban pyhä alue",
+        "Abu Sufyanin kaivo",
+        "Quraishin palatsi",
+        "Medinan kaupunki"
+      ],
+      "answer": "Abu Sufyanin kaivo"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Voitto suuressa taistelussa",
+        "Vapautuminen jumalallisen väliintulon kautta",
+        "Marttyyrikuolema Allahin tiellä",
+        "Hyväksyminen suoraan paratiisiin",
+        "Muutto siunattuun maahan"
+      ],
+      "answer": "Vapautuminen jumalallisen väliintulon kautta"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

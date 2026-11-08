@@ -1,0 +1,61 @@
+{
+  "title": "L'Épreuve de la Flamme Sacrée",
+  "intro": "Dans une contrée ancestrale où la vénération de la pierre sculptée était ancrée dans chaque foyer, un individu se distinguait. Grâce à une conviction inébranlable et à la protection divine, il affronta ce qui aurait dû être une mort certaine et en sortit indemne. Saurez-vous découvrir l'identité de cette âme remarquable ?",
+  "clues": [
+    "J'ai grandi au milieu de gens qui se prosternaient devant des idoles qu'ils avaient sculptées de leurs propres mains, croyant que ces objets possédaient un pouvoir divin.",
+    "Lorsque j'ai remis en question leurs croyances, ils m'ont d'abord ignoré, mais je ne pouvais pas rester silencieux face à la vérité que je connaissais.",
+    "Un jour où ils étaient rassemblés, j'ai détruit leurs idoles, ne laissant intacte que la plus grande.",
+    "À leur retour, lorsqu'ils virent ce que j'avais fait, leurs chefs ordonnèrent qu'on construise un grand bûcher, dans l'intention de m'y jeter.",
+    "Ils m'ont jeté dans le feu ardent, mais le Seigneur des mondes a ordonné qu'il devienne frais et sûr pour moi.",
+    "Je suis sorti des flammes indemne, tandis que ceux qui avaient comploté contre moi ont été réduits à néant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ibrahim",
+        "Le prophète Moïse",
+        "Prophète Noé",
+        "Le prophète Isaïe",
+        "Prophète Yusuf"
+      ],
+      "answer": "Le prophète Ibrahim"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Être jeté dans un feu ardent",
+        "Être avalé par une grande baleine",
+        "Survivre à une grande inondation",
+        "Être jeté dans un puits profond",
+        "Affronter les magiciens d'un roi"
+      ],
+      "answer": "Être jeté dans un feu ardent"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un immense bûcher de bois en feu",
+        "Une grande arche en bois",
+        "Une statue de veau d'or",
+        "Un panier flottant sur une rivière",
+        "Un trône magnifique"
+      ],
+      "answer": "Un immense bûcher de bois en feu"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Allah a rendu le feu froid et sûr",
+        "L'arche a atterri sans encombre sur une montagne",
+        "L'idole dorée fondit sous leurs yeux.",
+        "Un tyran et son armée se sont noyés dans la mer",
+        "La vue d'un aveugle a été rétablie."
+      ],
+      "answer": "Allah a rendu le feu froid et sûr"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

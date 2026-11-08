@@ -1,0 +1,61 @@
+{
+  "title": "Slumbern bortom tiden",
+  "intro": "Tänk dig en tid då sanningen tystades och de troende jagades. En liten grupp valde reträtt framför kapitulation och fann tillflykt på de mest osannolika platser – en plats som skulle bli deras viloplats i oräkneliga århundraden. När de äntligen vaknade hade världen förändrats runt omkring dem. Vilka är dessa slumrande själar?",
+  "clues": [
+    "Vi var unga människor som bodde i en gammal stad.",
+    "Vårt samhälle krävde att vi skulle dyrka tillsammans med dem, men vi vägrade.",
+    "Vi flydde från staden för att söka skydd undan dem som motsatte sig vår tro.",
+    "En lojal fyrbent följeslagare stannade vid ingången till vårt gömställe.",
+    "Allah lät oss sova i trehundranio år.",
+    "När vi äntligen vaknade hade vår en gång förföljande stad omfamnat tron."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Ashab al-Kahf (Grottans folk)",
+        "Ashab al-Fil (Elefanternas armé)",
+        "Ashab al-Ukhdud (Skyttegravens följeslagare)",
+        "Hawariyyun (lärjungar av Isa)",
+        "Yajuj wa Majuj (Gog och Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Grottans folk)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Vi drog oss tillbaka till en grotta och sov i århundraden",
+        "Vi räddades från en flammande eld",
+        "Vi blev uppslukade av en stor fisk",
+        "Vi prövades med en mirakulös kamelhona",
+        "Vi fick nio tydliga tecken"
+      ],
+      "answer": "Vi drog oss tillbaka till en grotta och sov i århundraden"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En djup grotta i bergen",
+        "En båt på öppet hav",
+        "En hög byggnad som når himlen",
+        "En trädgård delad mellan två rivaler",
+        "En barriär av järn och koppar"
+      ],
+      "answer": "En djup grotta i bergen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vi vaknade och fann att vår stad hade vänt sig till tro",
+        "En flammande eld blev sval och fridfull",
+        "En fiendearmé drunknade i havet",
+        "Fåglar som bar stenar förintade fienden",
+        "En stor fisk släppte oss ut på stranden"
+      ],
+      "answer": "Vi vaknade och fann att vår stad hade vänt sig till tro"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

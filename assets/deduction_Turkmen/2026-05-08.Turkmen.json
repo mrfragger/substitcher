@@ -1,0 +1,61 @@
+{
+  "title": "Hakykatyň berk gözlegçisi",
+  "intro": "Nadanlyk we ýalan taňrylara sežde etmek bilen örtülen döwürde çuňňur iman ýoly açyldy. Bu adam jemgyýetiniň kadalaryna garşy çykyp, üýtgewsiz ynam bilen ýeke-täk Hakyky Ýaradyjyny gözleýär. Miraslary millionlarça adamy ylhamlandyrýan ruhuň kimligini açmaga taýýarlanyň.",
+  "clues": [
+    "Men asman jisimlerine sorag berdim, ähli zady ýaradýan we goldaýan hakyky Rebbi gözledim.",
+    "Maňa öz watanymdan çykyp, Allanyň bereket beren ýerine gitmek tabşyryldy.",
+    "Men halkymyň butlaryna garşy çykdym, olaryň peýdasyzlygyna gönüden-göni garşy durup, olary döwdüm.",
+    "Meni kowumum gyzgyn otlara taşladylar, emma ol Allanyň emri bilen meniň üçin sowuk we parahat boldy.",
+    "Men söýgüli ilkinji oglumy gurban etmek buýrugy bilen, iň soňky boýun egmegiň synagy bilen synagdan geçirildim.",
+    "Men oglum bilen bilelikde Ýer ýüzündäki ilkinji Ybadat Öýüniň, ähli adamzat üçin mukaddes ýeriň düýbüni tutdum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Nuh pygamber",
+        "Ýusup pygamber",
+        "Salih pygamber",
+        "Ybraýym pygamber",
+        "Isa pygamber"
+      ],
+      "answer": "Ybraýym pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Beýik sil",
+        "Deňziň bölünmegi",
+        "Samudyň ýok edilmegi",
+        "Ogul gurban etmek baradaky tabşyryk",
+        "Sandyk bilen çöldäki syýahat"
+      ],
+      "answer": "Ogul gurban etmek baradaky tabşyryk"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Işgärler",
+        "Tur dagy",
+        "Sandyk",
+        "Käbe",
+        "Altyn göle"
+      ],
+      "answer": "Käbe"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Müsüriň hökümdary boldy",
+        "Onuň halky suwa gark boldy",
+        "Oňa akyl we dogruçyl nesil berildi",
+        "Kit tarapyndan ýuwudyldy",
+        "Onuň şäheri agdaryldy"
+      ],
+      "answer": "Oňa akyl we dogruçyl nesil berildi"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

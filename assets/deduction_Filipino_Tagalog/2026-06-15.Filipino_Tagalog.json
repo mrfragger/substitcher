@@ -1,0 +1,61 @@
+{
+  "title": "Ang Kapangyarihan ng Hangin at Apoy",
+  "intro": "Isipin ang isang kapangyarihan kung saan ang hangin mismo ay sumasagot sa iisang pinuno, kung saan ang mga tinig ng pinakamaliit na nilalang ay may bigat, at kung saan ang mga puwersang hindi nakikita ng mga ordinaryong mata ay maingat na pinaglilingkuran. Ang pigurang ito ay nagmana ng isang pambihirang kaharian mula sa isang minamahal na hinalinhan, na may kapangyarihan sa mga elemento at sa mga jinn. Ngunit ang dakilang awtoridad ay may kasamang malalaking pagsubok — at ang huling sandali ay magbubunyag ng isang bagay na kamangha-mangha tungkol sa kalikasan ng buhay at kamatayan mismo.",
+  "clues": [
+    "Nagmana ako ng isang dakilang kaharian mula sa isang minamahal na magulang na isa ring propeta at lingkod ng Allah.",
+    "Binigyan ako ng Allah ng awtoridad sa hangin, ipinadala ito sa mga gawain na isang buwang paglalakbay sa isang umaga lamang.",
+    "Kahit ang pinakamaliit na nilalang ay magsasalita tungkol sa aking paglapit, at ako'y hihinto upang humanga sa kanilang kamalayan.",
+    "Pinamunuan ko ang isang malaking hukbo ng mga jinn, tao, at ibon, na lahat ay nakaayos sa maayos na hanay sa harap ko.",
+    "Isang pinuno mula sa malayo ang dumating upang subukin ako sa isang mahirap na hamon, at ipinatawag ko ang trono ng pinunong iyon sa aking korte bago pa man makatayo ang bisita mula sa kanyang upuan.",
+    "Nanatili akong nakatayo, nakasandal sa isang tungkod, hanggang sa kinagat ito ng isang maliit na nilalang sa lupa — at saka lang napagtanto ng mga nakapaligid sa akin na dumaan na ako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Sulayman (Solomon)",
+        "Propeta David (David)",
+        "Propeta Isa (Hesus)",
+        "Propeta Muhammad ﷺ",
+        "Propeta Musa (Moises)"
+      ],
+      "answer": "Propeta Sulayman (Solomon)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagdadala ng trono ng isang malayong reyna sa pamamagitan ng mga sobrenatural na paraan",
+        "Inilubog sa malalim na balon noong bata pa",
+        "Pagharap sa mga salamangkero ng isang mapang-api gamit ang mga mahimalang tanda",
+        "Nagsasalita mula sa duyan upang ipagtanggol ang karangalan ng isang ina",
+        "Pagtanggap sa huling ipinahayag na banal na kasulatan sa isang banal na bundok"
+      ],
+      "answer": "Pagdadala ng trono ng isang malayong reyna sa pamamagitan ng mga sobrenatural na paraan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang tungkod na kahoy na kinagat ng anay",
+        "Isang dakilang arka na itinayo upang makaligtas sa isang pandaigdigang baha",
+        "Isang tungkod na naging ahas sa harap ng isang malupit na pinuno",
+        "Isang piraso ng tela na ginagamit upang pagalingin ang bulag",
+        "Isang sagradong kuweba kung saan unang natanggap ang isang rebelasyon"
+      ],
+      "answer": "Isang tungkod na kahoy na kinagat ng anay"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Isang marangal na dumadalaw na pinuno ang yumakap sa pananampalataya matapos masaksihan ang mga palatandaan",
+        "Isang malaking baha ang sumira sa lahat ng nasa loob ng arka maliban sa mga tapat",
+        "Isang Paraon at ang kanyang hukbo ang namatay sa dagat",
+        "Isang matuwid na kasama ang itinaas sa langit",
+        "Isang mapang-api na hari at ang kanyang lungsod ay binawi at winasak"
+      ],
+      "answer": "Isang marangal na dumadalaw na pinuno ang yumakap sa pananampalataya matapos masaksihan ang mga palatandaan"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

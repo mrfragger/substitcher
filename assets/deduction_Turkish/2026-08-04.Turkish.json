@@ -1,0 +1,61 @@
+{
+  "title": "Kayalıklar Arasındaki Yankı",
+  "intro": "Kayalıkların içine oyulmuş evlerin bulunduğu bir vadi hayal edin; havada, dikkate alınmayan bir uyarının hatırası yankılanıyor. Bir zamanlar burada, kutsanmış ama bir o kadar da meydan okuyan bir halk yaşıyordu; ta ki güvendikleri kayadan bir işaret belirene kadar.",
+  "clues": [
+    "Bizler, dağlardan güvenli yuvalar oyan, kayalık evlerimizde kendimizi güvende hisseden bir halktık.",
+    "Ovalar ve taşlarla kaplı, bahçeler ve pınarlarla dolu bir diyarda yaşıyorduk.",
+    "Aramızdan bir elçi geldi ve bizleri sahte tanrılarımızı terk edip tek gerçek Yaratıcıya ibadet etmeye çağırdı.",
+    "Biz kibirli bir şekilde inanç için bir şart koştuk: oyduğumuz kayalardan ortaya çıkacak eşsiz bir işaret.",
+    "Vaat edilen dişi deve kayanın altından belirdiğinde, bu açık bir işaret olmasına rağmen, elitlerimiz yaklaşan felaket uyarısına rağmen yine de reddettiler ve devenin hareketlerini engellediler.",
+    "Olayı gerçekleştirmemizin üzerinden üç gün geçtikten sonra, vadide yankılanan gök gürültülü bir patlama oldu ve biz enkaz yığınına dönüştük, evlerimiz mezarlarımız oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "¿Ad Halkı",
+        "Thamud Halkı",
+        "Madyan Halkı",
+        "Koruluğun Halkı",
+        "Mağara Halkı"
+      ],
+      "answer": "Thamud Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Ana Etkinliğimiz",
+      "options": [
+        "Allah'ın dişi devesinin bacaklarının bağlanması",
+        "Altın buzağıya tapınma",
+        "Şabat gününün bozulması",
+        "Gökyüzüne doğru bir kule inşa etmek",
+        "Peygamberlerin öldürülmesi"
+      ],
+      "answer": "Allah'ın dişi devesinin bacaklarının bağlanması"
+    },
+    "location": {
+      "label": "Hikayemizdeki Kilit Unsur",
+      "options": [
+        "Allah'ın dişi devesi",
+        "Musa'nın personeli",
+        "Nuh'un gemisi",
+        "Musa'nın beyaz eli",
+        "İsa'nın kuşu"
+      ],
+      "answer": "Allah'ın dişi devesi"
+    },
+    "outcome": {
+      "label": "Sonuçlarımız",
+      "options": [
+        "Sağır edici bir patlamayla yıkım",
+        "Gökyüzünden taş yağmuru",
+        "Dünyayı kaplayan bir sel",
+        "Bizi kökünden söken şiddetli bir rüzgar",
+        "Dünya bizi yutuyor."
+      ],
+      "answer": "Sağır edici bir patlamayla yıkım"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

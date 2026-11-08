@@ -1,0 +1,61 @@
+{
+  "title": "Posłaniec, który przeciwstawił się bałwochwalcom",
+  "intro": "W czasach, gdy oddanie zanikło, pojawił się posłaniec z wezwaniem do powrotu do kultu Pana światów. Postać ta stawiła opór ludowi zakorzenionemu w kulcie fałszywego bóstwa, przypominając mu o prawdziwym Stwórcy i Panu przodków. Jednak ludzie byli nieuważni i odrzucili ostrzeżenie, przypieczętowując swój los. Kim był ten niezłomny wzywający?",
+  "clues": [
+    "Zostałem posłany do ludu, który odstąpił od drogi Jedynego Prawdziwego Boga.",
+    "Zapytałem mój lud: „Czy nie będziecie bać się Allaha?”",
+    "Wezwałem ich do porzucenia kultu fałszywego bóstwa o imieniu Baal.",
+    "Mój lud odrzucił moje wezwanie i trwał w swym bałwochwalstwie.",
+    "Za swoje zaparcie z pewnością zostaną postawieni przed sądem i ukarani.",
+    "Mój Pan obdarzył mnie pokojem i błogosławioną pamięcią wśród późniejszych pokoleń."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ilyas",
+        "Prorok Yahya",
+        "Prorok Dhul-Kifl",
+        "Prorok Yusuf",
+        "Prorok Szuajb"
+      ],
+      "answer": "Prorok Ilyas"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wezwał swój lud do porzucenia Baala",
+        "Zbudował arkę, aby ocalić wierzących",
+        "Został wrzucony do ognia",
+        "Uciekł przed tyranem faraonem",
+        "Uderzył w skałę, aby wypłynęła woda"
+      ],
+      "answer": "Wezwał swój lud do porzucenia Baala"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Udzielono pokoju i błogosławionej pamięci",
+        "Pochłonięty przez ziemię",
+        "Zniszczony przez gwałtowną burzę",
+        "Zamienił się w kamień",
+        "Utonął w morzu"
+      ],
+      "answer": "Udzielono pokoju i błogosławionej pamięci"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

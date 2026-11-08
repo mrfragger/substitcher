@@ -1,0 +1,61 @@
+{
+  "title": "Melodija, ki je premaknila gore",
+  "intro": "Kmalu boste odkrili zgodbo o izjemnem Alahovem služabniku. V deželi poslancev in vladarjev je bila ta oseba blagoslovljena z božansko knjigo, mogočnim glasom in močjo, ki je bila močnejša od železa. Ali lahko med branjem namigov prepoznate, kdo bi to lahko bil?",
+  "clues": [
+    "Bil sem Alahov služabnik, ki mu je bila podarjena posebna knjiga.",
+    "Imel sem čudovit glas in moja hvalnica je bila tako ljubljena, da so se mi pridružili celo hribi in ptice.",
+    "V slavni bitki sem se soočil z mogočnim nasprotnikom in kljub temu, da sem bil manjši, sem zmagal.",
+    "Železo je bilo zame mehko, kar mi je omogočilo, da sem z lastnimi rokami izdelal oklep.",
+    "Postavljen sem bil za vladarja velikega naroda in moja modrost v sodbi je bila znana.",
+    "Mojemu sinu, ki je bil tudi prerok, je bila podeljena oblast nad vetrom in džini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Davud (David)",
+        "Prerok Sulejman (Salomon)",
+        "Prerok Musa (Mojzes)",
+        "Prerok Harun (Aron)",
+        "Prerok Iljas (Elijas)"
+      ],
+      "answer": "Prerok Davud (David)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Poraženi Goljat (Jalut)",
+        "Razdelilo morje",
+        "Preživel kita",
+        "Vrgli so ga v ogenj",
+        "Zgradil je barko"
+      ],
+      "answer": "Poraženi Goljat (Jalut)"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zabur (Psalmi)",
+        "Tora (Tawrat)",
+        "Evangelij (Indžil)",
+        "Ibrahimovi zvitki",
+        "Koran"
+      ],
+      "answer": "Zabur (Psalmi)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal je prerok in kralj Izraela",
+        "Postal je vladar Egipta",
+        "Bil je dvignjen v nebesa",
+        "Uničila ga je nevihta",
+        "Postal je spremljevalec jame"
+      ],
+      "answer": "Postal je prerok in kralj Izraela"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Iqiniso Elathulisa Inkantolo",
+  "intro": "Esigodlweni lapho ukuphika kwakubusa khona futhi amandla ayephelele, isixuku sabachwepheshe abanekhono sasima phambi kwenselele engalindelekile. Umoya wawugcwele ukulindela njengoba izindlela ezimbili zamanga neqiniso zase zizoshayisana. Ababebuthene babengazi ukuthi lokhu kuhlangana kuzoguqula izimpilo zabo phakade futhi kuqophe indaba yabo ibe umbhalo ongcwele.",
+  "clues": [
+    "Sasidume ngekhono lethu lokucabanga izinto ezingelona iqiniso futhi saqoqwa ngumbusi onamandla ukuze sibhekane nomphikisi.",
+    "Lapho kufika isikhathi, saphonsa izinsimbi zethu futhi salinda umphumela, siqiniseka ngomsebenzi wethu.",
+    "Kodwa lokho esakubona kwenza amaqhinga ethu abonakala sengathi amathoyizi nje, futhi izinhliziyo zethu zaqaphela iqiniso elingenakuphikwa.",
+    "Sawa phansi ngokuzithoba, simemezela ukukholelwa kwethu eNkosini kaMose no-Aroni, naphezu kolaka lombusi.",
+    "Lowo mbusi wasisongela ngesijeziso esinonya kakhulu, efunga ukuthi uzosibethela esiphambanweni futhi asinqume imilenze ngezindlela eziphambene.",
+    "Sahlala siqinile, sithi sikhetha ukwahlulelwa yiNkosi yethu kunanoma yimuphi umphumela wezwe, futhi safela ukholo lwethu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abathakathi bakaFaro",
+        "Abantu Bomhume",
+        "Abangane Behlathi",
+        "Abafundi baka-Isa",
+        "Abantu Bendlovu"
+      ],
+      "answer": "Abathakathi bakaFaro"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Umncintiswano womlingo ngokumelene noMusa",
+        "Umlilo waphonswa phezu kwabo",
+        "Isikhukhula esabaminzisa",
+        "Isomiso nendlala",
+        "Ukuzamazama komhlaba"
+      ],
+      "answer": "Umncintiswano womlingo ngokumelene noMusa"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Izinduku nezintambo ezaphenduka izinyoka",
+        "Isihlahla esivuthayo",
+        "Ikamela lensikazi",
+        "Umphongolo wokhuni",
+        "Umkhomo"
+      ],
+      "answer": "Izinduku nezintambo ezaphenduka izinyoka"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wabulawa ngenxa yokholo, wathenjiswa iPharadesi",
+        "Ukuminza olwandle",
+        "Baba ababusi baseGibhithe",
+        "Abalandeli bakaFaro abasele",
+        "Ifa lomhlaba"
+      ],
+      "answer": "Wabulawa ngenxa yokholo, wathenjiswa iPharadesi"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

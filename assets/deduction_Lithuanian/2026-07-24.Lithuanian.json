@@ -1,0 +1,61 @@
+{
+  "title": "Užmaskuotas sąmokslininkas",
+  "intro": "Atsiduriate priešais galingą asmenybę iš apreiškimo laikų. Ši asmenybė buvo žinoma dėl savo intelekto, turtų ir padėties tarp žmonių. Kai pasirodė aiškūs ženklai, ji atpažino grožį, tačiau pasirinko nepaklusnumą, o ne pasidavimą. Kas paskatino šią sielą rezgti sąmokslą tamsoje ir koks buvo jos galutinis likimas?",
+  "clues": [
+    "Mane apdovanojo gausūs ištekliai ir įtaka, todėl mano žodis susirinkimuose buvo svarus.",
+    "Kai buvo skaitomi dieviškieji žodžiai, negalėjau paneigti jų iškalbos, bet mano išdidumas neleido man pasiduoti.",
+    "Surinkau savo patarėjus, izoliavausi ir svarstydavau, kaip diskredituoti žinią.",
+    "Ilgai pagalvojęs, pareiškiau, kad tai tėra „iš praeities paveldėta magija“, skirta atstumti žmones.",
+    "Tada apreiškimas buvo skirtas tiesiai man: „Palik Mane vieną su tuo, kurį sukūriau.“ Buvau išskirtas dėl savo kėslų.",
+    "Netrukus mane už kaktos pagriebs ta pati ugnis, apie kurią buvau įspėtas, ir aš niekur nepabėgsiu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahabas",
+        "Abu Džahlas",
+        "Ukba ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Sąmokslas nužudyti pranašą",
+        "Vedė boikotą prieš musulmonus",
+        "Surinko tarybą, kad Koraną pavadintų magija",
+        "Suplanavo išvaryti pranašą iš Mekos",
+        "Atsisakė dalytis savo turtais su našlaičiais"
+      ],
+      "answer": "Surinko tarybą, kad Koraną pavadintų magija"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Apreiškimas",
+        "Taryba",
+        "Kaktašys",
+        "Turtas",
+        "Rašiklis"
+      ],
+      "answer": "Kaktašys"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jis atgailavo ir priėmė islamą",
+        "Jis persikėlė į Abisiniją.",
+        "Jį užklupo mirtina liga",
+        "Žuvo mūšyje prieš musulmonus",
+        "Jis buvo pasmerktas pragaro ugniai"
+      ],
+      "answer": "Jis buvo pasmerktas pragaro ugniai"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

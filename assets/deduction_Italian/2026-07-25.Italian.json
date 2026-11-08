@@ -1,0 +1,61 @@
+{
+  "title": "Gli abitanti dei due giardini",
+  "intro": "In una terra dove le benedizioni abbondavano, una comunità godeva un tempo dei frutti di due magnifici giardini. Le loro vite erano una testimonianza del favore divino, eppure la loro storia prese una svolta quando la gratitudine venne meno, portando a una trasformazione che sarebbe diventata un segno indelebile per tutti coloro che rifletteranno.",
+  "clues": [
+    "Eravamo un popolo benedetto da una terra di agio e abbondanza.",
+    "Il Signore ci ha donato due splendidi giardini, rigogliosi e fertili da ogni lato.",
+    "Ci era stato comandato di essere grati, ma abbiamo scelto l'ingratitudine e ci siamo voltati dall'altra parte.",
+    "Una grande diga tratteneva le acque che davano vita alla nostra terra.",
+    "Quando persistemmo nei nostri errori, la diga crollò e le acque alluvionali travolsero tutto.",
+    "I nostri giardini, un tempo rigogliosi, sono stati sostituiti da frutti amari, tamerici e qualche albero di loto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il popolo di Saba",
+        "Il popolo di Thamud",
+        "Il popolo di Madyan",
+        "I compagni della caverna",
+        "Il popolo dell'elefante"
+      ],
+      "answer": "Il popolo di Saba"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Un vento violento per sette notti",
+        "Una pioggia di pietre dal cielo",
+        "Un'inondazione distruttiva causata dalla rottura di una diga",
+        "Un forte urlo dal cielo",
+        "Annegare in mare"
+      ],
+      "answer": "Un'inondazione distruttiva causata dalla rottura di una diga"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La grande diga di Ma'rib",
+        "La valle di Wadi al-Qura",
+        "Il giardino di Iram",
+        "Il pozzo di Zamzam",
+        "La montagna del Sinai"
+      ],
+      "answer": "La grande diga di Ma'rib"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "I nostri giardini sono stati sostituiti da frutti amari e alberi sparsi.",
+        "Siamo stati inghiottiti dalla terra durante un terremoto.",
+        "Siamo stati trasformati in scimmie e maiali",
+        "Siamo stati sommersi da una grande alluvione",
+        "Siamo stati distrutti da una pioggia di pietre"
+      ],
+      "answer": "I nostri giardini sono stati sostituiti da frutti amari e alberi sparsi."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

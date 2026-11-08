@@ -1,0 +1,61 @@
+{
+  "title": "Puhuttu olevaksi",
+  "intro": "Pyhästä historiasta nousee esiin hahmo, joka kantaa mukanaan luonnollista järjestystä uhmaavia ihmeitä. Tämä sielu saapui paikalle yhden jumalallisen käskyn kautta, puolusti vanhempaansa vakavilta syytöksiltä ja lähti tästä maailmasta ennen kuin maalliset kahleet ehtivät sitoa heidät. Tarina ulottuu vaatimattomasta kehdosta taivaisiin. Kuka tämä voisi olla?",
+  "clues": [
+    "Minut lähetettiin merkkinä ja armonosoituksena Allahilta Israelin lapsille.",
+    "Saapumiseni oli erilainen kuin mikään aiempi – tulin olemassaoloon jumalallisesta sanasta 'Ole!' ilman maallista isää.",
+    "Vanhempani kohtasi julmaa panettelua, mutta pyhä ilmestys laskeutui julistamaan heidän syyttömyytensä ja korottamaan heidän asemaansa.",
+    "Vastasyntyneenä vauvana hämmästytin ympärilläni olevia puhumalla selkeästi kehdostani asti puhdistaakseni vanhempieni maineen.",
+    "Allahin sallimuksella muovasin elämää elottomasta savesta, annoin sokeille näön ja paransin spitaalisen kosketuksellani.",
+    "Minut nostettiin taivaisiin ennen kuin vahinko ehti koskettaa minua, ja palaan tähän maailmaan ennen kuin Viimeinen Tunti koittaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Isa",
+        "Profeetta Musa",
+        "Profeetta Ibrahim",
+        "Profeetta Yusuf",
+        "Profeetta Daavid"
+      ],
+      "answer": "Profeetta Isa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Puhuminen vauvana kehdosta asti",
+        "Selviytyminen suuren kalan vatsassa",
+        "Heitetään liekehtivään tuleen",
+        "Suuren arkin rakentaminen ennen vedenpaisumusta",
+        "Kohdaten faaraon hovin noituuden"
+      ],
+      "answer": "Puhuminen vauvana kehdosta asti"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Injeel (evankeliumi)",
+        "Taura (Toora)",
+        "Zabur (Psalmit)",
+        "Suhuf (Ibrahimin kääröt)",
+        "Sauva, joka halkaisi meren"
+      ],
+      "answer": "Injeel (evankeliumi)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Taivaaseen kohotettu, palaa ennen tuomiopäivää",
+        "Johdatti israelilaiset pois Egyptistä",
+        "Tuli kuninkaaksi, jolla oli valta džinnien, ihmisten ja lintujen yli",
+        "Selviytyi valtavasta tulvasta uskollisten kanssa",
+        "Rakensi pyhän talon Mekkaan"
+      ],
+      "answer": "Taivaaseen kohotettu, palaa ennen tuomiopäivää"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

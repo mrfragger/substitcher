@@ -1,0 +1,61 @@
+{
+  "title": "Tuule sosin",
+  "intro": "Kujutage ette maailma, kus nähtamatu ja nähtav on põimunud, ning te seisate kuningriigi südames kuju ees, mis erineb kõigist teistest. See hing omab tavapärasest haardematuid teadmisi, juhtides jõude, mida teised suudavad vaid ette kujutada. Ometi suudab isegi kõige võimsam langeda pisikese olendi ette ja tõde võib jääda varjatuks kuni määratud ajani. Kes on see kuju, kelle pärand kajab läbi aegade?",
+  "clues": [
+    "Mulle anti kuningriik, mida kellelgi pärast mind ei oleks.",
+    "Pärisin teadmised ja tarkuse oma armsalt vanemalt.",
+    "Tuul oli minu käsutuses, liikus minu käsul kuhu iganes ma soovisin.",
+    "Ma sain lindude kõnest aru ja nad teenisid minu armees.",
+    "Sain väikeselt linnult teate kuningannast, kes kummardas päikest.",
+    "Mu surm jäi varjatuks, kuni üks maapealne olend mu kepi alla neelas, ja alles siis taipasid džinnid, et nad ei tea nähtamatut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Sulayman (Saalomon)",
+        "Prohvet Dawud (David)",
+        "Prohvet Musa (Mooses)",
+        "Prohvet Isa (Jeesus)",
+        "Prohvet Nuh (Noa)"
+      ],
+      "answer": "Prohvet Sulayman (Saalomon)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Seeba kuninganna külaskäik",
+        "Tulle viskamine",
+        "Mere lahutamine",
+        "Laeva ehitamine",
+        "Vaala allaneelamine"
+      ],
+      "answer": "Seeba kuninganna külaskäik"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Maa olendi poolt söödud personal",
+        "Personal, mis muutus maoks",
+        "Emane kaamel",
+        "Laev",
+        "Vaal"
+      ],
+      "answer": "Maa olendi poolt söödud personal"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Tema surma varjati džinnide eest, kuni ta kepp ära söödi.",
+        "Ta tõusis ellu taevasse",
+        "Ta päästeti tulest Allahi käsul",
+        "Talle anti Toora",
+        "Ta päästeti vaala käest"
+      ],
+      "answer": "Tema surma varjati džinnide eest, kuni ta kepp ära söödi."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

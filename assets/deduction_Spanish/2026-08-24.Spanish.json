@@ -1,0 +1,61 @@
+{
+  "title": "Los oyentes ocultos que creyeron",
+  "intro": "En el silencio de una reunión sagrada, una asamblea extraordinaria llegó de un reino invisible. Atraídos por susurros de algo maravilloso, escucharon una recitación que sellaría su destino para siempre. Su testimonio sigue siendo uno de los más singulares de las escrituras divinas.",
+  "clues": [
+    "Somos seres de un reino invisible para la mayoría, y vinimos en grupo.",
+    "Nos dirigimos hacia una reunión para escuchar algo extraordinario.",
+    "Al llegar, escuchamos una recitación que nos dejó asombrados.",
+    "Reconocimos abiertamente que algunos de nosotros somos justos y otros no.",
+    "Sabíamos que no podíamos escapar del decreto divino ni en la tierra ni volando hacia el cielo.",
+    "Cuando escuchamos la guía, creímos en ella; quien cree en su Señor no temerá la pérdida ni la carga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Un grupo de genios",
+        "El pueblo de Iram",
+        "La gente de Tubba'",
+        "El Imperio Romano",
+        "La tribu de Quraysh"
+      ],
+      "answer": "Un grupo de genios"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Escuchar una recitación sagrada",
+        "Construyendo pilares elevados en nuestra ciudad",
+        "Cazando una magnífica camella",
+        "Ser destruidos por matar a nuestros profetas",
+        "Multiplicando la riqueza sin medida"
+      ],
+      "answer": "Escuchar una recitación sagrada"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una reunión de recitación sagrada",
+        "Una ciudad de altas columnas (Iram)",
+        "Un pozo en el desierto",
+        "Un grandioso palacio de oro",
+        "Una cueva sagrada en las montañas"
+      ],
+      "answer": "Una reunión de recitación sagrada"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Creímos y advertimos a nuestra gente.",
+        "Destruido por una poderosa explosión del cielo.",
+        "Castigados por un viento abrasador y destructivo.",
+        "Se le concedió una inmensa riqueza y poder.",
+        "Permaneció firme en su incredulidad."
+      ],
+      "answer": "Creímos y advertimos a nuestra gente."
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Kaŝita Kredanto",
+  "intro": "En la luksaj haloj de potenco, kie regis nekredemo kaj tiraneco, sola voĉo de vero parolis el neatendita loko. Ĉi tiu figuro defiis la aŭtoritaton protekti mesaĝiston, riskante sian propran sekurecon por proklami la veron.",
+  "clues": [
+    "Mi vivis en lando de granda tiraneco, servante reganton, kiu asertis esti dieca.",
+    "Mi tenis miajn verajn kredojn kaŝitaj dum multaj jaroj, timante la sekvojn de ilia malkaŝo.",
+    "Kiam mesaĝisto venis kun klaraj signoj, mi kredis, sed mia popolo konspiris kontraŭ li.",
+    "Mi staris antaŭ la tirano kaj lia konsilio, argumentante ke ili ne devus mortigi senkulpan mesaĝiston.",
+    "Mi avertis ilin pri la puno de pasintaj nacioj, kiuj malakceptis la veron, kiel la homoj de Noa kaj Ad.",
+    "Alaho savis min de iliaj malbonaj intrigoj, kaj mi atestis la detruon de la subprema reĝimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La kredanto de la familio de Faraono",
+        "La Magiisto de Faraono",
+        "La Veziro de Faraono",
+        "La edzino de Faraono",
+        "La Kasisto de Faraono"
+      ],
+      "answer": "La kredanto de la familio de Faraono"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Defendante profeton kontraŭ ekzekuto",
+        "Defiante la trukojn de magiisto",
+        "Konstruante turon por atingi la ĉielon",
+        "Disigante la maron por eskapi",
+        "Interpretado de la sonĝo de reĝo"
+      ],
+      "answer": "Defendante profeton kontraŭ ekzekuto"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La kortego de Faraono",
+        "La brulanta arbusto",
+        "La ora bovido",
+        "La puto de Madyan",
+        "La arkeo de la profeto Nuh"
+      ],
+      "answer": "La kortego de Faraono"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Savita de damaĝo dum la subpremantoj estis detruitaj",
+        "Fariĝis potenca reganto",
+        "Estis ĵetita en fajron kaj eliris senvunda",
+        "Estis englutita de la tero",
+        "Vagis en la dezerto dum kvardek jaroj"
+      ],
+      "answer": "Savita de damaĝo dum la subpremantoj estis detruitaj"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kenar Mahallelerden Gelen Ses",
+  "intro": "Üç elçinin açık ve net mesajlarla geldiği, ancak halkın onlarla alay ettiği ve eski geleneklerine bağlı kaldığı bir şehirde duruyorsunuz. Şehrin en uzak köşesinden, nefes nefese ve kararlı bir figür, reddedilmeye rağmen gerçeği söylemek için kalabalığa doğru koşuyor. Kendi mesajı olmayan bir mesaj için her şeyi riske atan bu ruh kimdir?",
+  "clues": [
+    "Ben, elçilerden apaçık işaretler alan, fakat kibirle yüz çeviren bir halkın arasında yaşadım.",
+    "Habercilerin çağrısını duyunca şehrin en uzak köşesinden koşarak geldim.",
+    "Kavmime dedim ki: \"Ey kavmim, elçileri izleyin. Sizden hiçbir karşılık beklemeyenleri izleyin, çünkü onlar doğru yoldadırlar.\"",
+    "Ben bir peygamber değildim, ama peygamberlere inandım ve halkımı da aynısını yapmaya teşvik ettim.",
+    "Halkım verdiğim tavsiyelerle alay etti ve beni aşırılıkçı olmakla suçladı.",
+    "Beni öldürdüklerinde, Allah bana cennete gireceğimi söyledi ve ben de halkımın bana bahşedilen affı ve onuru bilmesini diledim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Şehrin en uzak köşesinden gelen adam (Ya-Sin)",
+        "Şehre gönderilen üç haberciden biri.",
+        "Şehrin önde gelen tüccarlarından biri.",
+        "Şehrin yöneticisi",
+        "Kâfirlerin lideri"
+      ],
+      "answer": "Şehrin en uzak köşesinden gelen adam (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Halkına elçileri takip etmeleri için vaaz veriyor.",
+        "Müminleri tufandan kurtarmak için bir gemi inşa etmek",
+        "İnanç uğruna ateşe atılmak",
+        "Bir balina tarafından yutulmak",
+        "Kendisine bir krallık ve bilgelik verilmesi"
+      ],
+      "answer": "Halkına elçileri takip etmeleri için vaaz veriyor."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Şehrin en uzak kısmı",
+        "Gemi",
+        "Kuyu",
+        "Yanan çalı",
+        "Mağara"
+      ],
+      "answer": "Şehrin en uzak kısmı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Cennete girdi ve halkının onun bağışlayıcılığını bilmesini diledi.",
+        "Mesajı reddettiği için kendi halkıyla birlikte boğuldu.",
+        "Dişi devenin mucizesi bana verildi.",
+        "Yargılanmasının ardından hükümdar oldu.",
+        "Allah tarafından kurtarıldı ve halkıyla birlikte kaldı."
+      ],
+      "answer": "Cennete girdi ve halkının onun bağışlayıcılığını bilmesini diledi."
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

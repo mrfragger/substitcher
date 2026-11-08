@@ -1,0 +1,61 @@
+{
+  "title": "Reddedilen Bir Hediyenin Yükü",
+  "intro": "İnsanlık tarihinin şafağında, yeryüzü henüz gençken ve dünya ilk nefesini alırken, bir ruh Yaratıcının huzuruna mütevazı bir sunu ile geldi. Bu sunu, ilahi kabulün terazisinde tartıldı ve yetersiz bulundu. Ardından gelen, bir affetme öyküsü değil, kıskançlıkla yanıp tutuşan bir kalbin öyküsüydü; bu da tüm zamanlar boyunca yankılanacak geri dönüşü olmayan bir eyleme yol açtı. Bu, adı tarihte işlenmiş ilk büyük haksızlıkla eşanlamlı hale gelen birinin öyküsüdür.",
+  "clues": [
+    "Ben, dünyaya gelen ilk çocuklardan biri olarak, hikayesini yakından bildiğiniz bir ebeveynin çocuğu olarak dünyaya geldim.",
+    "Bir keresinde Allah'a kurban sundum, ancak kurbanım kabul edilmedi; kardeşimin kurbanı ise kabul edilmişti.",
+    "Kıskançlık ve öfke kalbime kök saldı ve kendi akrabalarımın hayatına son vermekle tehdit ettim.",
+    "Kardeşim bana Allah'tan korkmamı öğütledi, ama gururum dinlememe izin vermedi.",
+    "Korkunç bir zaaf anında, öz kardeşime karşı tarif edilemez bir eylem gerçekleştirdim.",
+    "Sonrasında, yaptığım şeyi nasıl gizleyeceğimi bile bilmiyordum; ta ki yeryüzünden bir yaratık bana bunu öğretmek için gönderilene kadar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Peygamber Nuh'un oğlu",
+        "Peygamber İsmail",
+        "Peygamber Yusuf"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Sunulan kurbanın reddedilmesi, ilk cinayete yol açtı.",
+        "Gökyüzüne ulaşmak için yüksek bir kule inşa etmek",
+        "İnancı uğruna alev alev yanan bir ateşe atılmak",
+        "Allah'a itaat adına öz oğlunu kurban etmek",
+        "Görevinden kaçtığı için büyük bir balık tarafından yutulmak."
+      ],
+      "answer": "Sunulan kurbanın reddedilmesi, ilk cinayete yol açtı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Allah tarafından gömülmeyi göstermek için gönderilen bir karga.",
+        "Bütün bir halkı boğan büyük bir sel.",
+        "Canlı bir yılana dönüşen bir asa",
+        "Kayalık bir dağın içinden çıkan dişi bir deve",
+        "Güçlü rüzgarların taşıdığı muhteşem bir taht"
+      ],
+      "answer": "Allah tarafından gömülmeyi göstermek için gönderilen bir karga."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İşlenen ilk suçun ağırlığı altında ezilen, pişmanlık duyanların haline geldi.",
+        "Allah tarafından affedildi ve ebedi cennete layık görüldü.",
+        "Peygamberlik ve bilgelik alanında yüksek bir makama yükseltildi.",
+        "Karanlıkların derinliklerinden seslendikten sonra ilahi merhametle kurtarıldı.",
+        "Cinler, rüzgâr ve denizler üzerinde egemenlik verildi."
+      ],
+      "answer": "İşlenen ilk suçun ağırlığı altında ezilen, pişmanlık duyanların haline geldi."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

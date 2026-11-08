@@ -1,0 +1,61 @@
+{
+  "title": "Rito Leri Nga Yingisiwiki Ra Malembe-xidzana",
+  "intro": "Enkarhini lowu a wu nga si pfuka miti leyikulu, moya-xiviri lowu nga woxe wu pfukile exikarhi ka vanhu lava a va fularhele ntiyiso. Ku nonon’hwa ka vona a ku ringanisiwa ntsena ni ku lehisa mbilu ka mufoyini loyi a ri yexe, loyi a a kombela ku tsemakanya switukulwana handle ko lahlekeriwa hi ku tiyimisela. Loko switsundzuxo hinkwaswo swi wela etindleveni leti feke tindleve, ku hlayela loku nga si tshamaka ku va kona ku vumbe misava hi yoxe hi vuntshwa. Namuntlha, mpfumawulo wa xitori xexo wa ha ri karhi wu rhurhumela eka ku hlayiwa kun’wana ni kun’wana. Xana u nga wu vona moya-xiviri lowu wu tiyimiseleke?",
+  "clues": [
+    "Ndzi kurisiwe exikarhi ka vanhu lava a va gandzela swifaniso swa mavunwa ni ku honisa swikombiso leswi swi rhendzeleke, hambi swi ri tano ndzi hlawuriwile ku va pfuxa eka ku pfumala vuxiyaxiya ka vona.",
+    "Ndzi vitane vanhu va mina hi ku phindha-phindha, kambe va ndzi hehla hi ku va ndzi nga ri nchumu handle ka munhu wo fana na vona, ndzi hlekula rungula ra mina ni ku va funengeta tindleve.",
+    "Vusiku ni nhlikanhi, a ndzi va khongotela hi vutlhari ni switsundzuxo swo olova, kambe marito ya mina a ma vonaka ma nyamalala emoyeni, ma nga twiwi naswona a ma nga yingisi.",
+    "Hi ku dyondzisiwa hi Xikwembu, ndzi ake xibya lexikulu xa timhandzi ni mapulanga emisaveni leyi omeke, naswona vanhu va mina va ndzi hlekile tanihi loyi a lahlekeriweke hi xivangelo.",
+    "Loko ndhambi leyikulu yi fika hilaha yi tshembisiweke hakona, n’wana wa mina n’wini u arile ku khandziya xikepe na mina, a tshemba leswaku ntshava yi ta n’wi sirhelela ematini lama tlakukeke.",
+    "Ndzi ve mupatriyarka wa masungulo lamantshwa emisaveni, naswona xitori xa mina xi hlayisiwile eka ndzima ya Quran leyi rhwalaka vito ra mina hi roxe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Nuh",
+        "Muprofeta Ibrahim",
+        "Muprofeta Musa",
+        "Muprofeta Lut",
+        "Muprofeta Hud"
+      ],
+      "answer": "Muprofeta Nuh"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ndhambi Leyikulu leyi vumbeke misava hi vuntshwa",
+        "Ku hoxiwa endzilweni lowu pfurhaka hi vagandzeri va swifaniso",
+        "Ku lwisana ni vangoma va Faro exivandleni xa vuhosi",
+        "Ku lovisiwa ka mintanga leyi humelelaka hi xidzedze xa le tilweni",
+        "Ku mbundzumuxiwa ka vaaki va le mugodini"
+      ],
+      "answer": "Ndhambi Leyikulu leyi vumbeke misava hi vuntshwa"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Areka yi akiwile hi timhandzi ni mapulanga",
+        "Yindlu yo kwetsima leyi akiweke ehenhla ka masungulo ya khale",
+        "Nhonga leyi hundzukeke nyoka",
+        "Bako ra vantshwa lava etleleke",
+        "Xiluvelo lexi rhwariweke hi xivumbiwa xa matimba"
+      ],
+      "answer": "Areka yi akiwile hi timhandzi ni mapulanga"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Lava nga pfumeriki va nwile loko vapfumeri va ponisiwile eka xikepe",
+        "Ndzilo wu sungule ku kufumela naswona wu hlayisekile, naswona loyi a a n’wi bela riqingho u hume a nga vavisekanga",
+        "Vaendli va masalamusi va nkhinsamile va amukela ripfumelo",
+        "Ntanga lowu a wu nyikiwa muakelani wo lulama ematshan’weni ya wona",
+        "Lava etleleke va pfukile endzhaku ka malembe-xidzana yo tala, va hundzukile"
+      ],
+      "answer": "Lava nga pfumeriki va nwile loko vapfumeri va ponisiwile eka xikepe"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

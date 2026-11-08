@@ -1,0 +1,61 @@
+{
+  "title": "Xiyanetkarên Bijarteyan",
+  "intro": "Di seranserê dîrokê de, peyamberên îlahî di nav mirovahiyê de geriyan, û hin ji yên herî nêzîkî wan nekarîn ronahiyê nas bikin. Ev serpêhatî li dora du giyanan dizivire ku nêzîkbûna wan bi pêxemberîtiyê re bû ceribandina wan, û mîrata wan jî bû dersek bêdem.",
+  "clues": [
+    "Em di demên pêxemberên mezin de jiyan, lê çavên me ji rastiya ku ew anîn re girtî man.",
+    "Malên me bi wehya îlahî tijî bûn, lê dilên me hişk bûn.",
+    "Em bi mêran re zewicî bûn ku ji bo hişyarkirina gelê xwe hatibûn hilbijartin.",
+    "Dema ku ceza hat, me di keştiyê de stargeh negeriya û ne jî ji barana şewitî reviyan, ji ber ku me tinazên xwe bi hişyariyan kirin.",
+    "Em di Quranê de wek mînakek ji bo kesên ku kafir bûne têne behs kirin, ku nîşan dide ku heta têkiliyek nêzîk bi pêxember re jî xilas nake.",
+    "Em jinên Nûh û Lût bûn, yên ku xiyanet li wan kirin û ji ber vê yekê hatin mehkûmkirin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Jinên Nûh û Lût",
+        "Jinên Îbrahîm û Îsmaîl",
+        "Jinên Mûsa û Harûn",
+        "Jinên Dawud û Suleyman",
+        "Jinên Eyûb û Yûnis"
+      ],
+      "answer": "Jinên Nûh û Lût"
+    },
+    "trial": {
+      "label": "Darizandina wan çi bû?",
+      "options": [
+        "Ew bi pêxemberan re zewicî bûn lê kafir bûn",
+        "Ew bêzar bûn û sûcdarî pêxemberan kirin",
+        "Ew dewlemend û xwedêgir bûn",
+        "Îblîs wan teşwîq kir ku ji malên xwe derkevin",
+        "Wan perestiya Golika Zêrîn kir"
+      ],
+      "answer": "Ew bi pêxemberan re zewicî bûn lê kafir bûn"
+    },
+    "location": {
+      "label": "Çarenûsa wan bi çi ve girêdayî bû?",
+      "options": [
+        "Lehî û barana keviran",
+        "Bayekî dijwar",
+        "Erdhejek",
+        "Belaya kuliyan",
+        "Parçekirina deryayê"
+      ],
+      "answer": "Lehî û barana keviran"
+    },
+    "outcome": {
+      "label": "Dawîya wan çi bû?",
+      "options": [
+        "Ew bi kafiran re winda bûn",
+        "Ew tobe kirin û xilas bûn",
+        "Ew bê zarok man",
+        "Ew ji bo her û her hatin sirgûnkirin",
+        "Ew hatine veguhertin meymûn û berazan"
+      ],
+      "answer": "Ew bi kafiran re winda bûn"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

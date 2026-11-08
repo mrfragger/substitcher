@@ -1,0 +1,61 @@
+{
+  "title": "La carga que trajo sanación",
+  "intro": "Un alma probada al límite quedó despojada de consuelo, de compañía y de fuerza física. Aislada en profunda aflicción, esta sierva de Alá se volvió únicamente hacia lo Divino. Gracias a una paciencia inquebrantable y a una oración sincera, llegó una oleada de misericordia que superó toda expectativa. ¿Quién es esta figura cuya devoción abrió una puerta a la restauración?",
+  "clues": [
+    "Fui un siervo predilecto de Alá, disfrutando de abundancia, un hogar próspero y buena salud en mis días.",
+    "Entonces sobrevino una prueba: perdí riquezas, perdí seres queridos y mi propia carne fue afligida por una grave aflicción.",
+    "Las personas cercanas a mí no pudieron soportar mi estado, y quedé aislada, con el cuerpo destrozado por el sufrimiento.",
+    "Invoqué a mi Señor, declarando que Satanás me había tocado con agotamiento y castigo.",
+    "La respuesta llegó: una orden para golpear el suelo con el pie, y de él brotó agua fresca para curar.",
+    "Mi Señor eliminó por completo la adversidad y me devolvió a mi familia, multiplicada, como señal de misericordia para aquellos que reflexionan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Ayyub",
+        "El profeta Musa",
+        "Profeta Yusuf",
+        "El profeta Yunus",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Enfermedad grave y pérdida de todo",
+        "Arrojado al fuego por orden de un tirano",
+        "Aprisionado en un pozo profundo por sus parientes.",
+        "Engullido por un gran pez en el mar.",
+        "Vagando en el exilio lejos de la patria."
+      ],
+      "answer": "Enfermedad grave y pérdida de todo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El manantial fresco que brotaba del suelo",
+        "El fuego fresco y tranquilo",
+        "El arca descansando sobre una montaña.",
+        "El bastón que separó el mar",
+        "La cesta flotando sobre el río"
+      ],
+      "answer": "El manantial fresco que brotaba del suelo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Familia y bendiciones restauradas, duplicadas.",
+        "Escapó ileso del incendio.",
+        "Ascendió al cargo más alto de un reino.",
+        "Salió del vientre de un gran pez y se puso a salvo.",
+        "Lideró a un pueblo a través de un mar dividido"
+      ],
+      "answer": "Familia y bendiciones restauradas, duplicadas."
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La comunitat que va desafiar el dia de descans",
+  "intro": "Entreu en un assentament costaner on una ordre divina va reservar un dia per a l'adoració i la restricció. Un grup dins d'aquesta comunitat va decidir posar a prova els límits d'aquesta ordre amb un pla astut, que conduiria a una transformació que ressonaria a través dels segles. Qui eren aquestes ànimes i què se'n va fer?",
+  "clues": [
+    "Vivíem a prop de la costa, on el mar ens proporcionava la vida.",
+    "Se'ns va manar honrar un dia de la setmana, apartant-lo de les activitats mundanes.",
+    "Aquell dia, els peixos van venir a nosaltres en gran nombre, com si ens temptessin a incomplir l'ordre.",
+    "Vam idear un pla per atrapar els peixos la vigília del dia sagrat i després recollir-los després que passés.",
+    "Quan alguns de nosaltres ens van advertir contra aquest engany, vam ignorar els seus consells i vam persistir.",
+    "Per la nostra transgressió, vam ser transformats en simis, menyspreats i rebutjats."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La gent del Sàbat",
+        "La gent de la fossa",
+        "La gent del bosc",
+        "La gent del jardí",
+        "La gent de l'elefant"
+      ],
+      "answer": "La gent del Sàbat"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Pescar en dissabte",
+        "Construint una torre elevada",
+        "Matar una camella sagrada",
+        "Negant un profeta que els va ser enviat",
+        "Transgressió en els pesos comercials"
+      ],
+      "answer": "Pescar en dissabte"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El mar i els seus peixos",
+        "El foc que es va refredar",
+        "El bastó que es va convertir en una serp",
+        "L'arca de la salvació",
+        "Les tauletes de pedra"
+      ],
+      "answer": "El mar i els seus peixos"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Transformats en simis",
+        "Engolit per la terra",
+        "Destruït per un vent ferotge",
+        "Ofegat al mar",
+        "Colpejat per una pluja de pedres"
+      ],
+      "answer": "Transformats en simis"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

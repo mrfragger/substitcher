@@ -1,0 +1,61 @@
+{
+  "title": "Külək və Alovun Hakimiyyəti",
+  "intro": "Küləyin özünün tək bir hökmdara cavab verdiyi, ən kiçik canlıların səslərinin ağırlıq daşıdığı və adi gözlərə görünməyən qüvvələrin diqqətlə xidmət edildiyi bir hökmranlığı təsəvvür edin. Bu fiqur sevimli sələfindən fövqəladə bir səltənəti miras almış, elementlər və cinlər üzərində gücə sahib olmuşdur. Lakin böyük bir səlahiyyət böyük sınaqlarla birlikdə gəlmişdir və son an həyatın və ölümün özünün təbiəti haqqında heyrətamiz bir şey ortaya çıxaracaqdı.",
+  "clues": [
+    "Mənə Allahın peyğəmbəri və qulu olan sevimli bir valideynimdən böyük bir səltənət miras qalıb.",
+    "Allah mənə külək üzərində səlahiyyət verdi və onu bir səhərin içində bir aylıq səyahətə göndərdi.",
+    "Hətta ən kiçik məxluqlar belə mənim yaxınlaşmağımdan danışar və mən onların xəbərdarlığına heyran olmaq üçün dayanardım.",
+    "Mən cinlərdən, insanlardan və quşlardan ibarət böyük bir orduya əmr edirdim. Hamısı qarşımda nizamlı şəkildə düzülmüşdü.",
+    "Uzaqdan bir hökmdar məni çətin bir sınaqla sınamağa gəldi və qonaq kürsüsündən qalxmağa belə macal tapmamışdan əvvəl həmin hökmdarın taxtını sarayıma gətirdilər.",
+    "Kiçik bir torpaq məxluqu onu gəmirənə qədər ayaq üstə dayandım və yalnız bundan sonra ətrafımdakılar mənim keçdiyimi anladılar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Süleyman peyğəmbər (Süleyman)",
+        "Davud peyğəmbər (ə)",
+        "İsa peyğəmbər (ə)",
+        "Peyğəmbər Məhəmməd ﷺ",
+        "Musa peyğəmbər (Musa)"
+      ],
+      "answer": "Süleyman peyğəmbər (Süleyman)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Uzaq bir kraliçanın taxtını fövqəltəbii yollarla gətirmək",
+        "Uşaq ikən dərin bir quyuya salınmaq",
+        "Möcüzəvi əlamətlərlə zalımın sehrbazları ilə qarşılaşmaq",
+        "Beşikdən ananın şərəfini müdafiə etmək üçün danışmaq",
+        "Müqəddəs dağda sonuncu vəhy olunmuş ayəni qəbul etmək"
+      ],
+      "answer": "Uzaq bir kraliçanın taxtını fövqəltəbii yollarla gətirmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Termit tərəfindən gəmirilən taxta çubuq",
+        "Ümumdünya daşqınından xilas olmaq üçün tikilmiş böyük bir gəmi",
+        "Bir zalımın qarşısında ilana çevrilən bir əsa",
+        "Korları sağaltmaq üçün istifadə edilən bir parça",
+        "İlk dəfə vəhy aldığı müqəddəs mağara"
+      ],
+      "answer": "Termit tərəfindən gəmirilən taxta çubuq"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Nəcib bir ziyarətçi hökmdar əlamətlərə şahid olduqdan sonra iman gətirdi",
+        "Böyük bir daşqın gəmidəki möminlərdən başqa hamısını məhv etdi",
+        "Firon və ordusu dənizdə həlak oldu",
+        "Saleh bir yoldaş göylərə qaldırıldı",
+        "Bir zalım padşah və onun şəhəri alt-üst edildi və məhv edildi"
+      ],
+      "answer": "Nəcib bir ziyarətçi hökmdar əlamətlərə şahid olduqdan sonra iman gətirdi"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

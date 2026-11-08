@@ -1,0 +1,61 @@
+{
+  "title": "Gau batean desagertu zen lorategia",
+  "intro": "Imajinatu lorategi oparoa, fruitu helduz beteta eta zuhaitz erraldoiez inguratuta. Zaintzen zutenek azkarrak zirela uste zuten, egunsentiaren aurreko ordu lasaietan uzta planifikatzen zuten, behartsuen begietatik urrun. Baina inoiz lo egiten ez duenak beste plan batzuk zituen haien ezkutuko oparotasunerako. Asmatuko al duzu nor dagoen Koraneko istorio aleccionador honen atzean?",
+  "clues": [
+    "Behin, hain lorategi oparoa eta ugaria genuen, non handik pasatzen ziren guztien inbidia bihurtzen zen.",
+    "Gure plangintzan, goizaldean elkarri xuxurlatzen genion, egun hartan inongo behartsuri ez zitzaiola sartzen utziko adieraziz.",
+    "Aberatsak ginen, eta gure bihotzak itsutu egin ziren gure inguruko pobreen eskubideekiko.",
+    "Gure uztaren egunsentia iritsi zenean, gure lorategira hurbildu ginen, gau osoan hondakin belztu bihurtuta zegoela ikusteko.",
+    "Dekretu suntsitzaile bat zabaldu zen, eta errautsak baino ez zituen utzi lehen fruta helduen multzoak zintzilik zeuden lekuan.",
+    "Gure istorioa Koranean jasotako abisu zorrotza da, non behartsuei karitatea ukatu genien lorategiko jabe gisa ezagutzen gaituzten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Lorategiko jabeak.",
+        "Kobazuloko jendea",
+        "Isa-ren dizipuluak",
+        "Basoko Lagunak.",
+        "Ibrahim-en gonbidatuak"
+      ],
+      "answer": "Lorategiko jabeak."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Fruta isilpean biltzen eta pobreak debekatzen",
+        "Mendeetan zehar kobazulo baten barruan lo egiten",
+        "Harriz gamelu eme bat sortzeari uko egitea",
+        "Sinai mendian urrezko zekorra gurtzen",
+        "Uholde batetik ihes egiteko arka handi bat eraikitzea"
+      ],
+      "answer": "Fruta isilpean biltzen eta pobreak debekatzen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Palmondo eta mahatsondoz betetako lorategi harresitua",
+        "Mendi sakoneko kobazulo ilun bat",
+        "Jainkozko urakan batek hartutako hiria",
+        "Alaren etxearen ondoan dagoen haran sakratua",
+        "Ibai korronte baten ertzak"
+      ],
+      "answer": "Palmondo eta mahatsondoz betetako lorategi harresitua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lorategia zeruko dekretu erretzaile batek irentsi zuen",
+        "309 ilargi-urteetan bakean lo egin zuten",
+        "Harri-jasa batek zapaldu zituen",
+        "Uholde handi baten olatuen azpian ito ziren",
+        "Haize hotz eta bortitz batek sakabanatu zituen"
+      ],
+      "answer": "Lorategia zeruko dekretu erretzaile batek irentsi zuen"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

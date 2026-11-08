@@ -1,0 +1,61 @@
+{
+  "title": "Ukuxoshwa Kwamazulu",
+  "intro": "Isidalwa esiyimfihlakalo simi ekuxhumaneni kwendalo nokwenqatshwa. Indaba yabo iwukuzikhukhumeza okungenakuqhathaniswa kanye nokungalaleli umyalo kaNkulunkulu ngokuphelele. Ukukhetha kwabo kuzwakala kuzo zonke izizukulwane, kuba isivivinyo kuwo wonke umphefumulo ozelwe kuleli zwe. Ungasibona lesi sitha saphakade?",
+  "clues": [
+    "Ngangikhona emcimbini obaluleke kakhulu endaweni yonke, lapho isidalwa esisha sakhiwa ngobumba futhi sanikwa ukuphila nguMoya woMusa.",
+    "Mina ngokwami ​​ngadalwa ngisesitho esisodwa esivuthayo, ngokungafani naleyo nto eyenziwe ngothuli.",
+    "Nganikwa umyalo engangiwubona ungaphansi kwesikhundla sami.",
+    "Ukuziqhenya kwakhula ngaphakathi kimi, futhi ngenqaba ngokuqinile ukulandela lowo myalo.",
+    "Nganikwa ukulibaziseka kuze kube usuku olumisiwe, ukuze ngikwazi ukuphishekela injongo yami yokudukisa abanye.",
+    "Ngiyisitha esimenyezelwe sabo bonke abahamba emhlabeni, ngihlebela izinkohliso futhi ngibahuga basuke endleleni eqondile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "U-Iblis (uSathane)",
+        "UFaro (uFir'awn)",
+        "UHamani",
+        "U-Abu Jahl",
+        "IsiSamiri"
+      ],
+      "answer": "U-Iblis (uSathane)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wenqaba ukukhothama phambi kuka-Adamu",
+        "Ukuzibiza ngobuNkulunkulu ngamanga",
+        "Wakha ithole legolide ukuze alikhulekele",
+        "Wabulala umfowabo ngenxa yomona",
+        "Wahola iqembu eliphikisayo labakhulekeli bobunkulunkulu eMakkah"
+      ],
+      "answer": "Wenqaba ukukhothama phambi kuka-Adamu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "IPharadesi (iJannah)",
+        "Isigodlo sikaFaro eGibhithe",
+        "Isigodi esingcwele saseTuwa",
+        "Ukujula kolwandle",
+        "Insimu yaseSheba"
+      ],
+      "answer": "IPharadesi (iJannah)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kunikezwe ikhefu kuze kube uSuku Lokwahlulela",
+        "Ngicwile kanye nebutho olwandle",
+        "Kugwinywe umhlaba kanye nengcebo",
+        "Waguqulwa waba yizinkawu ngokwephula iSabatha",
+        "Washiswa ngamatshe ajikijelwa esibhakabhakeni"
+      ],
+      "answer": "Kunikezwe ikhefu kuze kube uSuku Lokwahlulela"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

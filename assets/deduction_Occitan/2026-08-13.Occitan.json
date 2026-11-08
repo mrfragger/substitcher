@@ -1,0 +1,61 @@
+{
+  "title": "L'Alma Pacienta de la Casa Sagrada",
+  "intro": "Dins las paginas de l'Alcoran, una figura emergís del linhatge d'un grand profèta, concedida coma present dins la vielhesa. Aquela anma es celebrada per sa vertat inflexibla e son ròtle prigond dins l'establiment d'un santuari que vendriá un far de fe. Del temps que legissètz los indicis, escotatz plan la votz del passat, perque parla en primièra persona.",
+  "clues": [
+    "Soi mencionat dins l'Alcoran a costat d'un autre profèta coma un present balhat a un messatgièr vièlh.",
+    "Èri un dels dos descendents autrejats a aquel profèta dins sos darrièrs ans.",
+    "Soi lausat dins l'Alcoran per èsser fidèl a ma paraula.",
+    "Portèri l'onor de la profecia e foguèri mandat coma messatgièr.",
+    "Me rejonhèri a mon paire per levar las fondacions de l'Ostal Sacrat.",
+    "Me sovenon coma un dels pacients, e l'ostal sacrat que bastiguèrem venguèt un luòc de retorn e de seguretat per las gents."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Ismail",
+        "Lo profèta Ishaq",
+        "Lo profèta Yaqub",
+        "Profèta Zakariya",
+        "Profèta Yahya"
+      ],
+      "answer": "Lo profèta Ismail"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Levant los fondaments de la Kaaba amb Ibrahim",
+        "Èsser getat dins un fuòc",
+        "Èsser engolit per una balena",
+        "Menant los israelians fòra d'Egipte",
+        "Bastir una arca"
+      ],
+      "answer": "Levant los fondaments de la Kaaba amb Ibrahim"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Kaaba",
+        "Mont Sinai",
+        "La Mar Roja",
+        "Lo vedèl d'aur",
+        "L'òrt d'Edèn"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Comptat demest lo pacient",
+        "Comptat demest los malfactors",
+        "Comptat demest los magues",
+        "Comptat demest los descresents",
+        "Comptat demest los ipocritas"
+      ],
+      "answer": "Comptat demest lo pacient"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

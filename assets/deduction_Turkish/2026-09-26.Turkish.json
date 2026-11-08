@@ -1,0 +1,61 @@
+{
+  "title": "Bolluk İçinde İnkar",
+  "intro": "Kendinizi, pazarları ticaretle dolup taşan, ancak terazileri hileli bir şekilde eğilen bir halkın arasında buluyorsunuz. Onlara açık uyarılar getiren bir elçi gelmiş, ancak onlar refahlarına güvenerek gülüp yüz çevirmişlerdir. Gökyüzü kararmaya başlar, ancak onlar bunu yağmurun bir nimeti olarak görürler. Bu insanlar kimdir?",
+  "clues": [
+    "Ticaret ve bolluk topraklarında refah içinde yaşadık, ama kalplerimiz katılaştı.",
+    "Rabbimizden bize müjdeler getiren bir elçi geldi, fakat biz onun uyarılarıyla alay ettik.",
+    "Ticarette ustaydık, ama eksik ödeme yaptık ve halkı aldattık.",
+    "Sık ağaçlar ve yemyeşil bitki örtüsü arasında yaşıyorduk, ama sahip olduğumuz nimetleri hafife alıyorduk.",
+    "Kara bir bulut yaklaştığında, kurak topraklarımıza yağmur getireceğini düşünerek sevindik.",
+    "Bunun yerine, o bulut yakıcı bir cezayı serbest bıraktı ve biz gölge gününün azabına kapıldık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Ashab al-Aykah (Ormanın Arkadaşları)",
+        "Thamud Halkı",
+        "'Ad' halkı",
+        "Lut halkı",
+        "Nuh Halkı"
+      ],
+      "answer": "Ashab al-Aykah (Ormanın Arkadaşları)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Elçilerini reddettiler ve ticarette hile yaptılar.",
+        "Altın buzağıya taptılar ve yoldan saptılar.",
+        "Eşcinsel ilişkiye giriyorlar ve yolculara saldırıyorlardı.",
+        "Yüksek kuleler inşa ettiler ve Tanrı'ya meydan okudular.",
+        "Su paylaşmayı reddettiler ve bir dişi deveye zarar verdiler."
+      ],
+      "answer": "Elçilerini reddettiler ve ticarette hile yaptılar."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yoğun bir orman veya çalılık",
+        "Dağdan oyulmuş konutlar",
+        "Deniz kenarında bir şehir",
+        "Kuyuların bulunduğu bir çöl vadisi",
+        "Bol meyve veren verimli bir bahçe"
+      ],
+      "answer": "Yoğun bir orman veya çalılık"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Ateşten oluşan bir gölge bulutu tarafından yok edildi",
+        "Büyük bir selde boğuldu",
+        "Deprem tarafından yutuldu",
+        "Şiddetli bir rüzgara yakalandı",
+        "Taşa dönüştü"
+      ],
+      "answer": "Ateşten oluşan bir gölge bulutu tarafından yok edildi"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

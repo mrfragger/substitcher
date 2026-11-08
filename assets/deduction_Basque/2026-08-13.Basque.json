@@ -1,0 +1,61 @@
+{
+  "title": "Etxe Sakratuaren Pazientzia Arima",
+  "intro": "Koranaren orrialdeetan, profeta handi baten leinuko figura bat agertzen da, zahartzaroan opari gisa emana. Arima hau egiazkotasun irmoagatik eta fedearen itsasargi bihurtuko zen santutegi bat ezartzeko izan zuen paper sakonagatik ospatzen da. Pistak irakurtzen dituzun bitartean, entzun arretaz iraganeko ahotsa, lehen pertsonan hitz egiten baitu.",
+  "clues": [
+    "Koranean aipatzen naute beste profeta batekin batera, mezulari adineko bati emandako opari gisa.",
+    "Profeta horri bere azken urteetan eman zizkioten bi ondorengoetako bat nintzen.",
+    "Koranean goraipatzen naute nire hitzari leial izateagatik.",
+    "Profezia ohorea eraman nuen eta mezulari gisa bidali ninduten.",
+    "Aitarekin batera Etxe Sakratuaren zimenduak eraikitzen aritu nintzen.",
+    "Pazientzia handiko pertsona gisa gogoratzen naute, eta eraiki genuen etxe sakratua jendearentzat itzulera eta segurtasun leku bihurtu zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ismail profeta",
+        "Ishaq profeta",
+        "Yaqub profeta",
+        "Zakariya profeta",
+        "Yahya profeta"
+      ],
+      "answer": "Ismail profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Kaabaren oinarriak altxatzen Ibrahimekin",
+        "Sutara botata egotea.",
+        "Balea batek irentsi izana",
+        "Israeldarrak Egiptotik ateratzen",
+        "Arka bat eraikitzea"
+      ],
+      "answer": "Kaabaren oinarriak altxatzen Ibrahimekin"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Kaaba",
+        "Sinai mendia",
+        "Itsaso Gorria",
+        "Urrezko Txahala",
+        "Eden lorategia"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Pazienteen artean zenbatuta.",
+        "Gaizkileen artean zenbatuta.",
+        "Magoen artean zenbatuta.",
+        "Sinesgabeen artean zenbatuta",
+        "Hipokritak artean zenbatuta."
+      ],
+      "answer": "Pazienteen artean zenbatuta."
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

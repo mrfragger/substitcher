@@ -1,0 +1,61 @@
+{
+  "title": "O Espírito de Revelación de confianza",
+  "intro": "Nos reinos invisibles, un ser de luz pura móvese con precisión, executando cada orde sen dubidar. Esta figura falou cos servos escollidos, trouxo palabras de guía e foi testemuña do desenvolvemento dos decretos divinos ao longo dos tempos. Quen é esta alma honorada?",
+  "clues": [
+    "Son un ser de pura luz, creado a partir da luz, e nunca desobedecín unha soa orde do meu Señor.",
+    "Móvome entre os ceos e a terra, descendendo cos decretos do Máis Misericordioso.",
+    "Fun enviado a unha nobre virxe no santuario, anunciándolle un fillo puro.",
+    "Eu son o espírito de santidade e apoiei a un profeta ao que se lle deron sinais claros e o Evanxeo.",
+    "Cheguei a unha cova nunha montaña para pronunciar as primeiras palabras dunha recitación que se conservaría para sempre.",
+    "Eu son o espírito digno de confianza, e fun Eu quen trouxe o Corán sobre o corazón do mensaxeiro final."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "O Anxo da Morte",
+        "Malik (Gardián do Inferno)",
+        "Harut (un dos dous anxos de Babilonia)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Misión/función clave",
+      "options": [
+        "Dar revelacións aos profetas",
+        "Tocando a trompeta no Día do Xuízo",
+        "Gardando as portas do Inferno",
+        "Rexistro dos actos das persoas",
+        "Facendo que caia a choiva"
+      ],
+      "answer": "Dar revelacións aos profetas"
+    },
+    "location": {
+      "label": "Atributo ou título clave",
+      "options": [
+        "O Espírito Santo (Ruh al-Qudus)",
+        "O Espírito do Poder",
+        "O Espírito da Misericordia",
+        "O Espírito de Guía",
+        "O Espírito da Verdade"
+      ],
+      "answer": "O Espírito Santo (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Resultado da Misión",
+      "options": [
+        "O Corán foi revelado ao profeta Mahoma",
+        "Tocouse a trompeta no Día do Xuízo",
+        "O inferno estaba gardado e as súas portas estaban pechadas",
+        "O Libro das Feitos foi presentado a Alá",
+        "A choiva foi enviada á terra"
+      ],
+      "answer": "O Corán foi revelado ao profeta Mahoma"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

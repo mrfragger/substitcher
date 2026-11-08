@@ -1,0 +1,61 @@
+{
+  "title": "Az önként vállalt áldozat",
+  "intro": "Az isteni próbák idején egy lélek a végső engedelmességre kapott meghívást. Egy kopár földön nevelkedett, ez az alak a hit és a türelem megtestesítőjévé vált. Amikor egy látomás áldozatot követelt, nem ingtak meg. Történetük az odaadás sarokköve.",
+  "clues": [
+    "Én voltam a válasz egy nagyszerű próféta régóta várt imájára.",
+    "Anyámmal egy sivár völgyben maradtunk, csak datolyával és vízzel.",
+    "Felnőttem, és egy olyan próféta lettem, akit az igazmondásomról és türelmemről ismertem.",
+    "Segítettem apámnak lerakni egy Allahnak szentelt szent ház alapjait.",
+    "Amikor apám mesélt nekem egy álmról, hogy feláldoz, azt feleltem: „Tedd, amit parancsolnak neked.”",
+    "Allah azzal tisztelte meg az engedelmességemet, hogy egy kost küldött az égből váltságdíjul."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Iszmáil próféta",
+        "Izsák próféta",
+        "Ya'qub próféta",
+        "Ibrahim próféta",
+        "Juszuf próféta"
+      ],
+      "answer": "Iszmáil próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Készségesen alávetve magát az áldozatnak",
+        "Lángoló tűzbe vetve",
+        "Egy nagy hal lenyelte",
+        "Rabszolgaságba adják el",
+        "Súlyos betegséggel tesztelik"
+      ],
+      "answer": "Készségesen alávetve magát az áldozatnak"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Zamzam kútja",
+        "Nuh ládája",
+        "Nimród tüze",
+        "Az aranyborjú",
+        "Mózes botja"
+      ],
+      "answer": "Zamzam kútja"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egy hatalmas kossal váltották ki",
+        "Megmentették a tűzből",
+        "Megmentették az árvíztől",
+        "Kivették a bálnából",
+        "Királyságot és bölcsességet kapott"
+      ],
+      "answer": "Egy hatalmas kossal váltották ki"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

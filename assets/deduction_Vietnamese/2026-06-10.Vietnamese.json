@@ -1,0 +1,61 @@
+{
+  "title": "Những Người Bảo Vệ Khu Vườn",
+  "intro": "Trong một khu vườn tươi tốt, một cộng đồng đã lập nên một lời thề trang trọng. Nhưng quyết tâm của họ đã bị thử thách khi ý chí thần thánh can thiệp, biến sự trù phú của họ thành một vùng đất cằn cỗi.",
+  "clues": [
+    "Chúng tôi được ban phước với một khu vườn trù phú, nhưng chúng tôi đã trở nên kiêu ngạo.",
+    "Chúng tôi đã lên kế hoạch thu hoạch mà không chia sẻ với người nghèo.",
+    "Chúng tôi khởi hành từ sáng sớm, tự tin vào kế hoạch của mình.",
+    "Nhưng khi chúng tôi đến nơi, chúng tôi phát hiện khu vườn của mình đã bị phá hủy chỉ sau một đêm.",
+    "Chúng tôi nhận ra sai lầm của mình và bắt đầu đổ lỗi cho nhau.",
+    "Cuối cùng chúng tôi cũng hối hận, nhưng bài học đã quá muộn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chúng tôi là ai?",
+      "options": [
+        "Người dân của khu vườn",
+        "Người dân hang động",
+        "Người dân của Voi",
+        "Người dân Thamud",
+        "Người dân của 'Ad"
+      ],
+      "answer": "Người dân của khu vườn"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Một khu vườn biến thành tro bụi",
+        "Một trận lũ lụt đã phá hủy mọi thứ.",
+        "Một nạn đói đã tàn phá vùng đất này.",
+        "Một đàn chim tấn công",
+        "Một cơn gió mạnh đã quật đổ cây cối."
+      ],
+      "answer": "Một khu vườn biến thành tro bụi"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một khu vườn",
+        "Một hang động",
+        "Một con tàu",
+        "Một ngọn núi",
+        "Một cung điện"
+      ],
+      "answer": "Một khu vườn"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Họ hối hận nhưng mất đi khu vườn của mình.",
+        "Chúng đã bị phá hủy hoàn toàn.",
+        "Họ bị biến thành vượn.",
+        "Họ được cứu rỗi bởi đức tin",
+        "Họ trở thành những người cai trị."
+      ],
+      "answer": "Họ hối hận nhưng mất đi khu vườn của mình."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

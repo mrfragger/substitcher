@@ -1,0 +1,61 @@
+{
+  "title": "Ang Nawalang Karamihan",
+  "intro": "Nakatayo ka sa harap ng mga alingawngaw ng isang komunidad na ang kwento ay nakasulat sa mga alon. Ang mga kaluluwang ito ay nakarinig ng isang panawagan, pinili ang pagsuway, at humarap sa isang bunga na humubog muli sa mundo. Sino sila, at ano ang nangyari sa kanilang mundo?",
+  "clues": [
+    "Nabuhay tayo noong unang panahon, at isang mensahero ang dumating sa atin mula sa ating mga sarili.",
+    "Sumamba kami sa limang idolo at tumangging talikuran ang mga ito.",
+    "Kinukutya namin ang mensahero at inakusahan siyang naligaw ng landas.",
+    "Hiniling namin na parusahan siya kung siya ay nagsasabi ng totoo.",
+    "Nakita namin ang langit na bumubuhos ng ulan at ang lupa ay nagbubuga ng mga bukal.",
+    "Umakyat kami sa matataas na lugar para makatakas, ngunit inabutan kami ng mga alon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Tayo?",
+      "options": [
+        "Ang mga tao ni Nuh",
+        "Mga Tao ng 'Ad",
+        "Ang mga tao ng Thamud",
+        "Ang mga tao ni Lut",
+        "Mga Tao ng Madyan"
+      ],
+      "answer": "Ang mga tao ni Nuh"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Nalunod kami sa isang malaking baha",
+        "Nawasak tayo ng bagyo",
+        "Namatay kami dahil sa isang malakas na pagsabog",
+        "Nilamon tayo ng lupa",
+        "Binato kami ng mga bato mula sa langit"
+      ],
+      "answer": "Nalunod kami sa isang malaking baha"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang malaking baha",
+        "Isang marahas na hangin",
+        "Isang ulan ng mga bato",
+        "Isang nagliliyab na pagsabog",
+        "Isang lindol"
+      ],
+      "answer": "Isang malaking baha"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Namatay tayong lahat maliban sa mga mananampalataya kasama ni Noah",
+        "Tayo ay naging mga unggoy",
+        "Tayo'y iniwan na parang mga guho para sa mga manlalakbay",
+        "Tayo ay ginawang asin",
+        "Binigyan kami ng pahinga"
+      ],
+      "answer": "Namatay tayong lahat maliban sa mga mananampalataya kasama ni Noah"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

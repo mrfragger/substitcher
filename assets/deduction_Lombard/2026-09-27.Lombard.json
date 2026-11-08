@@ -1,0 +1,61 @@
+{
+  "title": "El giardin che l’è scumparì durant la nott",
+  "intro": "Pensa-t a un giardin lüssuregh, pien de früta che maduran e cercià de alber volt. Quei che la curavan se pensavan furb, pianificand luur raccòlt in di ur tranquill prima del alba, luntan di œucc di gent che g’havevan bisogn. Ma Quell qe al dorm mai al g’haveva olter pian per la soa generosità sconduda. Pœdet indovinà chi l’è deré a chesta storia cauziunal del Coran?",
+  "clues": [
+    "Una volta g’hem un giardin inscì lüssuregh e abundant che l’era invidius de tüt quei che passavan.",
+    "In de la noster pianificaziun, g’hem sussurrà l’un a l’olter la matina bonora, disend che nissun anima bisognus g’havaria poduu entrà denter chel dì.",
+    "Erum gent ricch e i noster cœur l’eran diventà orb per i diritt di puaret che g’herem intorn.",
+    "Quand l’è rivà l’alba del noster raccòlt previst, se sem avvicinad al noster giardin sultant per truval trasfurmà en una ruina nera durant la nott.",
+    "Un decret devastant l’è traversà, lassà sultant cenere indué prima g’heren pendì di racc de früta madura.",
+    "La nòsta stòria l’è un avvertiment sever registrà in del Coran, indué sem famus cuma proprietari del giardin che trategnivan la carità ai pover."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "I proprietari del giardin",
+        "La gent de la caverna",
+        "I discepol de Isa",
+        "I compagn del legn",
+        "I ospit de Ibrahim"
+      ],
+      "answer": "I proprietari del giardin"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Raccògliar en segret i früta e blocar i puaret",
+        "Dormir per secul denter de una caverna",
+        "Refudar-s de produr una camel de pedra",
+        "Adorà un vitell d’or sul monte Sinai",
+        "Costruir una grand arca per scappar da un diluvio"
+      ],
+      "answer": "Raccògliar en segret i früta e blocar i puaret"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un giardin cunt i mür pien de palm e vis",
+        "Una caverna scura in del fund di muntagn",
+        "Una cità sorpassada da un divin uragan",
+        "Una vall sacra visin a la Cà de Allah",
+        "I riv de un fiumm che scorre"
+      ],
+      "answer": "Un giardin cunt i mür pien de palm e vis"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "El giardin l’è stà consumà de un decret brusant del ciel",
+        "Dormiven en pas per 309 an lünar",
+        "Sun stà sfracà giò de una piœuva de sass",
+        "A i se sun affogad sotta i onde de una grand diluviun",
+        "Sun stà sparpagnà de un vent frècc e furius"
+      ],
+      "answer": "El giardin l’è stà consumà de un decret brusant del ciel"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

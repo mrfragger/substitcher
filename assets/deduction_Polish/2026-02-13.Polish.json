@@ -1,0 +1,61 @@
+{
+  "title": "Wielkie poddanie się władcy",
+  "intro": "Znajdujesz się w krainie starożytnych cudów i głębokich objawień. Potężna władczyni, otrzymawszy nieoczekiwane zaproszenie, wyrusza w podróż, która odmieni jej losy i wiarę jej ludu. Czy potrafisz odkryć tożsamość tej majestatycznej postaci?",
+  "clues": [
+    "Rządziłem zamożnym królestwem, ozdobionym ogromnym bogactwem i wspaniałym tronem.",
+    "Mój lud i ja czciliśmy ciało niebieskie, wierząc, że jest ono naszym panem, choć w sercu miałem wątpliwości.",
+    "Pewien szczególny posłaniec, ptak, dostarczył mi list, wzywając mnie i mój lud do poddania się Jedynemu Bogu.",
+    "Skonsultowałem się z moimi doradcami, którzy dysponowali ogromną siłą, aby dowiedzieć się, jak zareagować na tę bezprecedensową wiadomość.",
+    "Postanowiłem wysłać cenny prezent osobie, która wysłała list, mając nadzieję, że uda mi się ocenić jej władzę i intencje.",
+    "Po przybyciu na miejsce zadziwił mnie pałac, którego podłoga była zrobiona ze szkła i który wyglądał jak kałuża. Wtedy właśnie oświadczyłem, że poddaję się Panu całego stworzenia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "faraon",
+        "Królowa Saby",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Prorok Yusuf"
+      ],
+      "answer": "Królowa Saby"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Rozdzielenie morza",
+        "Wielka powódź",
+        "Podróż na spotkanie z prorokiem Sulaymanem",
+        "Zniszczenie ludu Luta",
+        "Spalenie proroka Ibrahima"
+      ],
+      "answer": "Podróż na spotkanie z prorokiem Sulaymanem"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Tron",
+        "Góra",
+        "Ogień"
+      ],
+      "answer": "Tron"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Został prorokiem",
+        "Został zniszczony przez Allaha",
+        "Przyjęty islam",
+        "Poprowadziła swój lud na wojnę",
+        "Zbudował wielką świątynię"
+      ],
+      "answer": "Przyjęty islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

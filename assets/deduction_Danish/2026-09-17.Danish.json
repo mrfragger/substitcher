@@ -1,0 +1,61 @@
+{
+  "title": "Under daddelpalmens skygge",
+  "intro": "En fortælling udfolder sig om en sjæl, der er blevet sat til side før fødslen, opfostret inden for hellige mure og valgt til at bære et tegn, verden aldrig havde set. Da anklager lød fra alle sider, kom en stemme fra det mest usandsynlige sted for at dæmpe al tvivl. Kan du finde ud af, hvem der gik under dadelpalmens skygge?",
+  "clues": [
+    "Jeg var viet til den Almægtiges tjeneste, før jeg overhovedet trak mit første åndedrag, et løfte afgivet af den, der bar mig.",
+    "Jeg voksede op under en retfærdig vogters årvågne omsorg i de hellige kamre på et tilbedelsessted.",
+    "Når min værge kom til mit kammer, fandt han hos mig forsyninger fra årstider, som ikke burde have været der.",
+    "Jeg fik den gode nyhed om en søn, selvom mine omstændigheder ikke gav plads til det, der var lovet.",
+    "Jeg trak mig tilbage til et fjerntliggende sted, og dér gav en daddelpalme mig skygge, mens en bæk flød nedenfor.",
+    "Da anklagerne kom, og jeg blev omringet af spørgsmål, pegede jeg på mit nyfødte barn – og han talte fra vuggen for at bringe enhver tvivl til tavshed."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawa",
+        "Umm Musa",
+        "Nuhs hustru"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Prøve / Begivenhed",
+      "options": [
+        "At føde en mirakuløs søn i isolation",
+        "At blive kastet i en flammende ild af afgudsdyrkere",
+        "Overlevelse af den store oversvømmelse med nogle få udvalgte",
+        "At blive adskilt fra et spædbarn, der blev kastet i floden",
+        "Konfrontation med Egyptens mægtige hersker"
+      ],
+      "answer": "At føde en mirakuløs søn i isolation"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En daddelpalme og en strømmende bæk under den",
+        "En mægtig ark på tårnhøje bølger",
+        "En stav, der kløvede et stort hav i to",
+        "En flammende ild beregnet til at fortære en trofast sjæl",
+        "En gylden trone prydet med ædelsten"
+      ],
+      "answer": "En daddelpalme og en strømmende bæk under den"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Æret som den mest ophøjede af alle kvinder",
+        "Genforenet med et elsket barn efter lang tids adskillelse",
+        "Ledte en hel nation ud af en tyranns trældom",
+        "Advarede et folk fortabt i umoral",
+        "Givet herredømme over jinn, menneskeheden og vindene"
+      ],
+      "answer": "Æret som den mest ophøjede af alle kvinder"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

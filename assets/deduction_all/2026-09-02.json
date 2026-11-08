@@ -1,0 +1,61 @@
+{
+  "title": "The Slumber Beyond Time",
+  "intro": "Imagine a time when truth was silenced and believers were hunted. A small group chose retreat over surrender, finding refuge in the most unlikely of places — a place that would become their resting ground for centuries beyond counting. When they finally awoke, the world had transformed around them. Who are these slumbering souls?",
+  "clues": [
+    "We were young people living in an ancient city.",
+    "Our community demanded that we worship alongside them, but we refused.",
+    "We fled the city in search of refuge from those who opposed our beliefs.",
+    "A loyal four-legged companion stayed at the entrance of our hiding place.",
+    "Allah caused us to sleep for three hundred and nine years.",
+    "When we finally awoke, our once-persecuting city had embraced faith."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "Ashab al-Kahf (The People of the Cave)",
+        "Ashab al-Fil (The Army of the Elephant)",
+        "Ashab al-Ukhdud (The Companions of the Trench)",
+        "The Hawariyyun (Disciples of Isa)",
+        "Yajuj wa Majuj (Gog and Magog)"
+      ],
+      "answer": "Ashab al-Kahf (The People of the Cave)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "We retreated into a cave and slept for centuries",
+        "We were saved from a blazing fire",
+        "We were swallowed by a great fish",
+        "We were tested with a miraculous she-camel",
+        "We were given nine clear signs"
+      ],
+      "answer": "We retreated into a cave and slept for centuries"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A deep cave in the mountains",
+        "A boat on the open sea",
+        "A towering structure reaching the heavens",
+        "A garden divided between two rivals",
+        "A barrier of iron and copper"
+      ],
+      "answer": "A deep cave in the mountains"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "We awoke to find our city had turned to faith",
+        "A blazing fire became cool and peaceful",
+        "An enemy army was drowned in the sea",
+        "Birds carrying stones destroyed the foe",
+        "A great fish released us onto the shore"
+      ],
+      "answer": "We awoke to find our city had turned to faith"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

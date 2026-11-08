@@ -1,0 +1,61 @@
+{
+  "title": "Aizbildnis pie upes malas",
+  "intro": "Zemē, kur tirāna dekrēts daudzām mājām sagādāja bēdas, kāda dvēsele saņēma vēsti, kas pārspēja visas bailes. Ar paļāvības pilnu sirdi viņi uzsāka ticības aktu, kas mainītu tautas likteni. Ūdeņiem nesot dārgu kravu, cerība sajaucās ar straumēm.",
+  "clues": [
+    "Es dzīvoju apspiešanas un baiļu laikā.",
+    "Es saņēmu dievišķu iedvesmu, kas man deva drosmi.",
+    "Man tika pavēlēts nebaidīties un neskumt.",
+    "Es ievietoju savu bērnu lādē un noliku to uz ūdens.",
+    "Manu bērnu atrada valdnieka mājsaimniecība, bet otrs bērns sekoja.",
+    "Es atkalapvienojos ar savu bērnu, lai viņu zīdītu, tieši tā, kā Allāhs bija solījis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Mozus māte",
+        "Faraona sieva",
+        "Mozus māsa",
+        "Jēzus māte",
+        "Šebas karaliene"
+      ],
+      "answer": "Mozus māte"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Iedvesmojoties iemest bērnu upē",
+        "Izaicinājums uz burvju dueli",
+        "Armijas vajāšana",
+        "Šķērsojot jūru, kas pašķīrās",
+        "Svētās mājas celtniecība"
+      ],
+      "answer": "Iedvesmojoties iemest bērnu upē"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Lāde, kas novietota upē",
+        "Degošs krūms",
+        "Personāls, kas pārvērtās par čūsku",
+        "Zelta teļš",
+        "Tronis"
+      ],
+      "answer": "Lāde, kas novietota upē"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Bērns tika droši atdots medmāsai",
+        "Bērns bija pazudis uz visiem laikiem",
+        "Bērns tika aizvests uz tālu zemi",
+        "Bērns uzreiz kļuva par valdnieku",
+        "Bērnu adoptēja bagāts tirgotājs"
+      ],
+      "answer": "Bērns tika droši atdots medmāsai"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

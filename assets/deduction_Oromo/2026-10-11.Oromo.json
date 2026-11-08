@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Cirracha Durii Keessatti",
+  "intro": "Ergamtoota Rabbii jalqabaa keessaa tokko maqaan isaa Qur’aana keessatti yeroo gabaabaaf garuu hiika guddaa qabuun ifu ture. Namni dhuunfaa kun osoo raajonni gurguddoon hedduun hin ergamin dura yeroo dheeraa kan jiraate yoo ta’u, dhugaa dubbachuu fi obsa hin sochooneen beekama ture. Seenaan isaanii gabaabaa ta’us hambaan isaanii galmee bara baraa keessatti ni jiraata. Lubbuun kabajamtuu kun eenyu?",
+  "clues": [
+    "Ani ergamtoota jalqabaa keessaa tokko yoo ta’u, Qur’aana keessatti gabaabsee kan caqafame ta’us hiika guddaa qaba.",
+    "Amalli koo kan ibsame dhugaadhaaf of kennuu hin sochooneen ture.",
+    "Kitaaba Rabbii keessatti warra jabaatanii fi obsan biratti yaadatamaadha.",
+    "Qur’aana keessatti keeyyata gaggabaaboo muraasa qofatu seenaa koo hima.",
+    "Rabbiin haala adda ta'een kan koo ta'een na kabaje malee nabiyyoota biroof hin qoodne.",
+    "Buufata ol’aanaa, kabaja Qur’aana keessatti tokkicha ta’etti guddadhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Idriis",
+        "Nabi Ilyaas",
+        "Dhul-Kifl jedhamuun beekama",
+        "Nabi Alyasaa",
+        "Asiif ibnu Barkhiyaa jedhamtu"
+      ],
+      "answer": "Nabi Idriis"
+    },
+    "trial": {
+      "label": "Yeroo Hiikuu",
+      "options": [
+        "Buufata ol’aanaatti Rabbiin ol guddise",
+        "Saba koo baraaruuf markaba guddaa tokkon ijaare",
+        "Falfaltoota Fara'oon morme",
+        "Obbolaan kootiin boolla tokkotti na darbatame",
+        "Ilma koo irratti gadda irraan kan ka'e ija koo dhabe"
+      ],
+      "answer": "Buufata ol’aanaatti Rabbiin ol guddise"
+    },
+    "location": {
+      "label": "Wabii Qulqulluu",
+      "options": [
+        "Suuraa Al-Anbiyaa",
+        "Suuraa Al-Kahf",
+        "Suuraa Tahaa",
+        "Suuraa Ash-Shu'aaraa",
+        "Suuraa Yaasiin"
+      ],
+      "answer": "Suuraa Al-Anbiyaa"
+    },
+    "outcome": {
+      "label": "Kabaja Waaqaa",
+      "options": [
+        "Buufata olka'aa kan biroo irraa adda ta'e",
+        "Jinnii fi qilleensi irratti ol’aantummaa",
+        "Mootummaa ulfina gita hin qabne",
+        "Dhaaltuu dulluma koo irraa",
+        "Kakuu Rabbiin waliin mallatteeffame"
+      ],
+      "answer": "Buufata olka'aa kan biroo irraa adda ta'e"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pitso e sa Eloang Hloko Naheng ea Boikhohomoso",
+  "intro": "U eme lithakong tsa tsoelo-pele e kileng ea e-ba kholo, moo matla le boikhohomoso li neng li sa tsebe meeli. Lenģosa le ne le tsamaea har'a bona, le bitsa 'nete, empa lipelo tsa bona li ne li thatafetse. Temoso ha ea ka ea eloa hloko, 'me leholimo ka bolona la fetoha sesebelisoa sa khalefo. Lenģosa lena e ne e le mang, 'me ho ile ha etsahala'ng ka ba ileng ba hana pitso eo?",
+  "clues": [
+    "Ke ile ka romeloa ho batho ba neng ba se na matla a tšoanang le ’ona le ba hahileng sefika sebakeng se seng le se seng se phahameng.",
+    "Batho ba ka ba ne ba inka e le ba sa hlōloeng 'me ba re, 'Ke mang ea matla ho re feta ka matla?'",
+    "Ke ba bitsitse ho rapela Allah a le mong, empa ba nqosa ka booatla le leshano.",
+    "Ba ile ba mphehella hore ke tlise kotlo eo ke e tšepisitseng haeba ke bua 'nete.",
+    "Allah o ile a ba romela moea o se nang letho o sa kang oa ba qenehela.",
+    "Nna le bao ba neng ba dumela le nna re pholositswe ke mohau wa Allah, ha ba sa dumeleng ba ile ba timela ka ho feletseng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Hud",
+        "Moprofeta Salih",
+        "Moprofeta Shuaib",
+        "Moprofeta Lute",
+        "Moprofeta Nuh"
+      ],
+      "answer": "Moprofeta Hud"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Moea o senyang o ile oa timetsa ba sa lumelang",
+        "Moroallo o moholo o ile oa koahela ba sa lumelang",
+        "Pula ea majoe e ile ea na",
+        "Mohoo o moholo o ile oa tšoara ba sa lumelang",
+        "Tšisinyeho ea lefatše e ile ea otla ba sa lumelang"
+      ],
+      "answer": "Moea o senyang o ile oa timetsa ba sa lumelang"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Moea o sa khaotseng",
+        "Areka ea lehong",
+        "Kamele e tšehali",
+        "Pula ea majoe a letsopa",
+        "Mollo o tukang"
+      ],
+      "answer": "Moea o sa khaotseng"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Hud le balumeli ba ile ba pholosoa, 'me ba sa lumelang ba ile ba timetsoa",
+        "Hud o ile a phahamisetsoa boemong bo phahameng",
+        "Hud o ile a bolaoa ke batho ba hae",
+        "Batho ba Hud ba ile ba baka 'me ba pholosoa",
+        "Hud o ile a siea batho ba hae pele ho kotlo efe kapa efe"
+      ],
+      "answer": "Hud le balumeli ba ile ba pholosoa, 'me ba sa lumelang ba ile ba timetsoa"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Déi roueg Stëmm an der Chamber",
+  "intro": "E Gebied huet an der Rou vun engem hellege Raum viru laanger Zäit widderhallt, dat vun enger alternder Séil entstanen ass, déi sech no deem verlaangert huet, wat d'Welt fir onméiglech erkläert hat. Dës Figur, am Alter fortgeschratt a mat Suergen ëm d'Zukunft belaascht, huet sech mat enger perséinlecher Bitt un hiren Här gewandt. Wat gefollegt ass, war eng göttlech Äntwert, déi all natierlech Erwaardung trotzgaang ass - en Zeie vun der Barmhäerzegkeet vun deem Een, deen dem verzweifelte Ruff äntwert.",
+  "clues": [
+    "Ech hunn mäin Här am Privaten ugeruff a mech an e Raum zréckgezunn, wou ech mech senger Verehrung gewidmet hunn.",
+    "Ech hunn mengem Här zouginn, datt ech Angscht ëm déi hat, déi no mir kommen géifen, datt ech mir Suergen ëm d'Féierung vu mengem Vollek gemaach hunn, nodeems ech fortgaange wier.",
+    "Den Alter hat mech iwwerholl - meng Schanken ware schwaach ginn a wäiss Hoer hate sech iwwer mäi Kapp verbreet.",
+    "Meng Fra war hiert ganzt Liewen onfruchtbar, awer ech hunn mäin Här ëmmer nach gefrot, mir en Ierwe aus senger eegener Präsenz ze schenken.",
+    "Ech hunn e Zeechen gefrot, a mäin Här huet geäntwert andeems hien mech dräi Nuechte laang verhënnert huet, mat iergendeen ze schwätzen, soulaang ech kierperlech gesond bliwwen sinn.",
+    "Mir gouf e Jong versprach, deem säin Numm Yahya soll sinn, en Numm, vun deem mäin Här erkläert huet, datt nach ni virdru iergendeen ginn gi wier."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Zakariya",
+        "Prophet Nuh",
+        "Prophet Musa",
+        "Prophet Yusuf",
+        "Prophet Dawud"
+      ],
+      "answer": "De Prophet Zakariya"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Bieden fir en Ierwe am Alter mat engem onfruchtbare Partner",
+        "An e brennend Feier gehäit ginn",
+        "An der Däischtert vun engem grousse Fësch verschléckt ginn",
+        "De Verloscht vu Famill, Räichtum a Gesondheet erdroen",
+        "Befeeler kréien, eng grouss Ark ze bauen"
+      ],
+      "answer": "Bieden fir en Ierwe am Alter mat engem onfruchtbare Partner"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Gebiedskammer (Mihrab)",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "Eng grouss Holzark",
+        "E Gaart mat enger eenzegaarteger Quell",
+        "E Bierg, wou sech Vigel versammelt hunn"
+      ],
+      "answer": "D'Gebiedskammer (Mihrab)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "E wonnerbar benannte Jong geschenkt, trotz extremem Alter",
+        "Gerett virun engem flammende Feier duerch göttlecht Gebot",
+        "Eng grouss Iwwerschwemmung huet déi Ongleeweg zerstéiert",
+        "No Gedold erëm Famill, Räichtum a Gesondheet",
+        "Pharao a seng Arméi sinn am Mier erdronk"
+      ],
+      "answer": "E wonnerbar benannte Jong geschenkt, trotz extremem Alter"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nepokolebljivi saveznik u kušnji zlata",
+  "intro": "U sjeni velikog proroka, duša rječitosti i vjere odabrana je da pomogne u monumentalnoj misiji. Ova je figura čvrsto stajala kada su mase posustale, propovijedajući protiv očitog prijestupa koji je prijetio samoj srži monoteizma. Kada se prorok vratio kako bi svjedočio padu naroda, obrana ove figure nije bila krivnja, već dužnost i strah od podjele. Tko je ovaj odani Allahov sluga?",
+  "clues": [
+    "Allah me je odabrao za svetu dužnost uz drugoga, a moja je uloga bila podrška i proglašavanje.",
+    "Dobio sam jasnoću govora i pratio sam glasnika da se suoči s moćnim tlačiteljem.",
+    "Tijekom kritičnog putovanja, glasnik se sam popeo na planinu, ostavljajući mene da pazim na ljude.",
+    "U njihovoj odsutnosti, ljudi su izradili zlatni kip, a ja sam ih molio da ostanu vjerni, ali su odbili moj savjet.",
+    "Kad se glasnik vratio, pun bijesa i tuge, bio sam uhvaćen, ali sam objasnio da sam bio nadjačan i da se bojim da ću izazvati razdor među njima.",
+    "Ja sam prorok koji je stajao uz Musaa, svog brata, dijeleći njegov teret i ostajući nepokolebljiv protiv idolopoklonstva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Prorok Harun",
+        "Poslanik Musa",
+        "Poslanik Isa",
+        "Poslanik Davud",
+        "Poslanik Zakarija"
+      ],
+      "answer": "Prorok Harun"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Ljudi su obožavali zlatno tele unatoč upozorenjima",
+        "Ljudi su me bacili u plamteću vatru",
+        "Progutala me je velika riba",
+        "Bio sam zatvoren pod lažnim optužbama",
+        "Bio sam prognan iz svog grada zbog propovijedanja"
+      ],
+      "answer": "Ljudi su obožavali zlatno tele unatoč upozorenjima"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlatno tele",
+        "Gorući grm",
+        "Štap koji se pretvorio u zmiju",
+        "Ploče Saveza",
+        "Kovčeg saveza"
+      ],
+      "answer": "Zlatno tele"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Bio sam oslobođen i nastavio sam svoju proročku misiju",
+        "Bio sam kažnjen za grijehe naroda",
+        "Dobio sam novu naciju za voditi",
+        "Živ sam uznesen u nebo",
+        "Postavljen sam za vladara nad kraljevstvom"
+      ],
+      "answer": "Bio sam oslobođen i nastavio sam svoju proročku misiju"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

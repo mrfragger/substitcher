@@ -1,0 +1,61 @@
+{
+  "title": "Byn vid rättegångens stränder",
+  "intro": "Du befinner dig i en kustby där vågornas brus blandas med viskningar från ett bortglömt folk. De fick en befallning om vila, men deras girighet ledde till ett straff som fortfarande omtalas med dämpade röster. Kan du avslöja vilka de var?",
+  "clues": [
+    "Vi bodde vid stranden och fick en befallning att hålla en vilodag.",
+    "Den dagen kom fisk till oss i överflöd, men vi var förbjudna att fånga den.",
+    "Några av oss varnade för överträdelser, men andra konspirerade för att fiska ändå.",
+    "Vi bröt mot det heliga budet och ådrog oss själva ett hårt straff.",
+    "Vårt straff var en förvandling som lämnade oss vanställda och vanärade.",
+    "Vi förvandlades till apor, ett tecken för alla som skulle komma efter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Sabbatens folk",
+        "Folket i Thamud",
+        "Folket i 'Ad",
+        "Grottans folk",
+        "Elefantens folk"
+      ],
+      "answer": "Sabbatens folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Fiske på sabbaten",
+        "Att dyrka en guldkalv",
+        "Att förneka Huds budskap",
+        "Att döda honkamelen",
+        "Bygga ett torn mot himlen"
+      ],
+      "answer": "Fiske på sabbaten"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Fisken",
+        "En honkamel",
+        "En personal",
+        "En båt",
+        "En trädgård"
+      ],
+      "answer": "Fisken"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förvandlades till apor",
+        "Förstördes av en översvämning",
+        "Förstördes av en flammande eld",
+        "Slukad av jorden",
+        "Spridd av en vind"
+      ],
+      "answer": "Förvandlades till apor"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

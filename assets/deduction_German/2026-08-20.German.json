@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimme des Widerstands",
+  "intro": "Lange bevor der erste Mensch die Erde betrat, lebte ein Wesen von immenser Macht in einem Reich vollkommenen Friedens, umgeben von den frommsten Seelen. Auf jeden einzigen Befehl hin beugten sich alle Stimmen in Unterwerfung – doch eine Stimme erhob sich trotzig, und dieser Trotz sollte durch alle Zeitalter bis zum Jüngsten Tag nachhallen. Wer ist dieses gefallene Wesen?",
+  "clues": [
+    "Ich wurde aus etwas erschaffen, das hell brannte, während die anderen neben mir aus dem geformt wurden, worauf sie gingen.",
+    "Ich lebte an einem heiligen Ort unter frommen Wesen, bis ein einziger Befehl alles auf den Kopf stellte.",
+    "Als der Befehl erging, verneigten sich alle außer mir; meine Weigerung entsprang dem Stolz.",
+    "Ich wurde aus diesem heiligen Ort verbannt und mit einem Fluch belegt, der für immer andauern sollte.",
+    "Ich flehte um Zeit bis zum Tag der Auferstehung, und sie wurde mir gewährt. Ich schwor, jede Seele aufzusuchen und sie in die Irre zu führen.",
+    "Wenn die Trompete ertönt, werden diejenigen, die mir gefolgt sind, mein Schicksal teilen und sich mit mir in ein loderndes Feuer stürzen, aus dem kein Helfer sie retten kann."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Iblis",
+        "Pharao (Fir'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (der Vater von Ibrahim)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Der entscheidende Moment",
+      "options": [
+        "Er weigerte sich, sich vor Adam niederzuwerfen.",
+        "Die Anmaßung der Göttlichkeit über ein großes Reich",
+        "einen Plan schmieden, einen Gerechten in die Flammen zu werfen",
+        "Ein Volk dazu verleiten, ein goldenes Bild anzubeten",
+        "Eine große Armee im Meer ertränken"
+      ],
+      "answer": "Er weigerte sich, sich vor Adam niederzuwerfen."
+    },
+    "location": {
+      "label": "Der heilige Ort",
+      "options": [
+        "Jannah (Paradies)",
+        "Ein prächtiger Palast am Nil",
+        "Ein Turm aus Ziegelsteinen, der sich gen Himmel reckt",
+        "Ein goldenes Kalb aus Ornamenten",
+        "Ein Ofen voller lodernder Flammen"
+      ],
+      "answer": "Jannah (Paradies)"
+    },
+    "outcome": {
+      "label": "Das endgültige Schicksal",
+      "options": [
+        "Ausgestoßen, mit Aufschub bis zu einem verheißenen Tag",
+        "Unter den Wellen ertrunken mit Armeen",
+        "Zermalmt von Steinen, die vom Himmel geschleudert wurden",
+        "Von Vogelschwärmen im Flug auseinandergerissen",
+        "Von einer einzigen gewaltigen Explosion vernichtet"
+      ],
+      "answer": "Ausgestoßen, mit Aufschub bis zu einem verheißenen Tag"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

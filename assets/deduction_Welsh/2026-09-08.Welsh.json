@@ -1,0 +1,61 @@
+{
+  "title": "Treial y Fflam Sanctaidd",
+  "intro": "Mewn gwlad hynafol lle roedd ymroddiad i garreg gerfiedig wedi gwreiddio ym mhob cartref, safodd un unigolyn ar wahân. Trwy argyhoeddiad diysgog ac amddiffyniad dwyfol, fe wnaethon nhw wynebu'r hyn a ddylai fod wedi bod yn farwolaeth sicr - a cherdded i ffwrdd heb niwed. Allwch chi ddatgelu hunaniaeth yr enaid rhyfeddol hwn?",
+  "clues": [
+    "Cefais fy magu ymhlith pobl a oedd yn ymgrymu i eilunod yr oeddent wedi'u cerfio â'u dwylo eu hunain, gan gredu bod gan y gwrthrychau hyn bŵer dwyfol.",
+    "Pan heriais eu credoau, fe wnaethon nhw fy ngwrthod ar y dechrau, ond allwn i ddim aros yn dawel am y gwirionedd roeddwn i'n ei wybod.",
+    "Ar ddiwrnod pan gasglwyd hwy i ffwrdd, dinistriais eu heilunod, gan adael dim ond yr un mwyaf heb ei gyffwrdd.",
+    "Pan ddychwelasant a gweld yr hyn a wnes i, gorchmynnodd eu harweinwyr adeiladu coelcerth mawr, gyda'r bwriad o'm bwrw i'r fflamau.",
+    "Fe'm taflasant i'r tân llachar, ond gorchmynnodd Arglwydd y byd iddo oeri a bod yn ddiogel i mi.",
+    "Deuthum allan o'r fflamau heb niwed o gwbl, tra bod y rhai a gynllwyniodd yn fy erbyn yn wynebu dinistr llwyr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Ibrahim",
+        "Proffwyd Musa",
+        "Proffwyd Nuh",
+        "Proffwyd Isa",
+        "Proffwyd Yusuf"
+      ],
+      "answer": "Proffwyd Ibrahim"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Cael eich bwrw i dân llachar",
+        "Cael ei lyncu gan forfil mawr",
+        "Goroesi llifogydd mawr",
+        "Cael eich taflu i mewn i ffynnon ddofn",
+        "Wynebu dewiniaid brenin"
+      ],
+      "answer": "Cael eich bwrw i dân llachar"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Tân gwyllt enfawr o bren yn llosgi",
+        "Arch bren fawr",
+        "Cerflun llo aur",
+        "Basged arnofiol ar afon",
+        "Gorsedd fawreddog"
+      ],
+      "answer": "Tân gwyllt enfawr o bren yn llosgi"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Gwnaeth Allah y tân yn oer ac yn ddiogel",
+        "Glaniodd yr arch yn ddiogel ar fynydd",
+        "Toddodd yr eilun aur o flaen eu llygaid",
+        "Boddwyd teyrn a'i fyddin yn y môr",
+        "Adferwyd golwg dyn dall"
+      ],
+      "answer": "Gwnaeth Allah y tân yn oer ac yn ddiogel"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

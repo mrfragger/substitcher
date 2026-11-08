@@ -1,0 +1,61 @@
+{
+  "title": "Ang Kasina nga Naglamoy",
+  "intro": "Usa ka sugilanon nga mas karaan pa kay sa bisan unsang gingharian o kasulatan—ang unang trahedya sa tawo nga natawo tungod sa pangabugho. Usa ka kalag, ang kamagulangang anak sa duha ka anak nga natawo sa unang mga ginikanan, nagtan-aw nga may kasuko samtang ang usa ka manghod nakadawat og pabor nga gibalibaran. Ang misunod mao ang labing ngitngit nga mga pagpili, nga gibiyaan ang unang dugo nga giula sa yuta. Mahimo ba nimo nga madiskobrehan ang pagkatawo, ang pagsulay, ug ang mapait nga pagmahay?",
+  "clues": [
+    "Natawo ako sa pinakaunang pares sa mga tawo nga naglakaw sa yuta.",
+    "Naghalad ako kaniadto kang Allah, apan wala kini gidawat gikan kanako.",
+    "Gidawat ang halad sa akong igsoon, samtang ang akoa gisalikway—usa ka butang nga dili nako maagwanta.",
+    "Gihulga nako ang akong kaugalingong igsoon nga gub-on.",
+    "Ako ang unang nakapatay dinhi sa kalibutan, nga nagkuha sa kinabuhi sa akong kaugalingong igsoon.",
+    "Nagpadala si Allah og usa ka binuhat sa yuta—usa ka itom nga langgam nga nagkalot sa yuta—aron tudloan ako unsaon pagtago sa akong nabuhat, ug wala akoy nahabilin gawas sa pagmahay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Propeta Jacob",
+        "Propeta Musa",
+        "Propeta Adan"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang halad gisalikway ni Allah",
+        "Gilabay sa dakong kalayo",
+        "Gibiyaan isip usa ka bata sa suba",
+        "Gisulayan uban sa usa ka dakong gingharian",
+        "Gisugo sa paghalad sa anak nga lalaki"
+      ],
+      "answer": "Ang halad gisalikway ni Allah"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang uwak nga gipadala ni Allah",
+        "Ang bulawan nga nating baka",
+        "Ang arka ibabaw sa bukid",
+        "Ang nagdilaab nga sapinit",
+        "Ang bayeng kamelyo nga gikulit gikan sa bato"
+      ],
+      "answer": "Ang uwak nga gipadala ni Allah"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Napuno sa pagbasol ug lakip sa mga napildi",
+        "Gilamoy sa yuta uban sa mga bahandi",
+        "Nahimong usa ka halangdon nga mensahero sa Allah",
+        "Nakasulod sa Paraiso pinaagi sa balaang kalooy",
+        "Nagmando sa usa ka gingharian nga walay kaparis"
+      ],
+      "answer": "Napuno sa pagbasol ug lakip sa mga napildi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

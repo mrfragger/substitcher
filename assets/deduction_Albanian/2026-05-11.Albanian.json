@@ -1,0 +1,61 @@
+{
+  "title": "Dëshmitarët e Patundur",
+  "intro": "Imagjinoni një kohë kur besimi vihej në provë me zjarr dhe bindja e palëkundur bëhej sfida përfundimtare. Ju keni për detyrë të zbuloni identitetin e një grupi, historia e të cilit rrëfehet në Kuran, një rrëfim besimi të thellë kundër tiranisë dërrmuese. Zbuloni të dhënat për të zbuluar se kush ishin këta shpirtra dhe rrethanat e jashtëzakonshme me të cilat u përballën.",
+  "clues": [
+    "Ne qëndruam të vendosur në bindjet tona, pavarësisht presionit të madh për të hequr dorë nga besimi ynë.",
+    "Ne u vumë në shënjestër të një sundimtari të fuqishëm që kërkoi të shuante dritën e monoteizmit.",
+    "Ne pamë shenja dhe mrekulli të mëdha, megjithatë shtypësit tanë mbetën të pavëmendshëm.",
+    "Ne duruam një metodë të tmerrshme persekutimi të hartuar për të terrorizuar të tjerët që të nënshtroheshin.",
+    "Ne u hodhëm në një ferr të përvëluar, megjithatë qëndrueshmëria jonë na siguroi një pozitë të lartë tek Allahu.",
+    "Historia jonë rrëfehet në një sure të emëruar sipas yjësive qiellore, duke paralajmëruar për fatin e atyre që persekutojnë besimtarët."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush Jemi Ne?",
+      "options": [
+        "Populli i Themudit",
+        "Populli i Adit",
+        "Njerëzit e Hendekut",
+        "Populli i Madianit",
+        "Njerëzit e Elefantit"
+      ],
+      "answer": "Njerëzit e Hendekut"
+    },
+    "trial": {
+      "label": "Persekutimi ynë",
+      "options": [
+        "Të mbyturit në një përmbytje",
+        "Duke u konsumuar nga një erë përvëluese",
+        "Duke u hedhur në një gropë të zjarrtë",
+        "Duke u gëlltitur nga toka",
+        "Duke u transformuar në majmunë"
+      ],
+      "answer": "Duke u hedhur në një gropë të zjarrtë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një përmbytje masive",
+        "Një tërmet i madh",
+        "Një hendek i thellë, që digjet",
+        "Një idhull i fuqishëm",
+        "Një thatësirë ​​shkatërruese"
+      ],
+      "answer": "Një hendek i thellë, që digjet"
+    },
+    "outcome": {
+      "label": "Fati ynë përfundimtar",
+      "options": [
+        "Atyre iu dha një mbretëri në tokë.",
+        "Ata u shpëtuan nga një arratisje e mrekullueshme.",
+        "Ata arritën martirizimin dhe shpërblimin e përjetshëm.",
+        "Ata u transformuan në një specie tjetër.",
+        "Atyre iu dha pasuri dhe begati e jashtëzakonshme."
+      ],
+      "answer": "Ata arritën martirizimin dhe shpërblimin e përjetshëm."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

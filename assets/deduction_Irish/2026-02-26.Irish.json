@@ -1,0 +1,61 @@
+{
+  "title": "Triail an Tart",
+  "intro": "Bhí pobal, a bhí ag tnúth le ceannaireacht chun a gcúis a chosaint, ag iarraidh ceannasaí a cheapadh orthu. Nuair a freagraíodh a n-iarratas, cuireadh amhras ar an duine roghnaithe, mar ní raibh an stádas domhanda a raibh súil acu leis ag an duine seo. Roimh an gcoimhlint deiridh, chuirfeadh an ceannaire nua seo tástáil ar smacht an airm féin le triail shimplí, ach dhomhain, srianta.",
+  "clues": [
+    "Ceapadh mé mar cheannasaí tar éis do mo mhuintir ceannaire a éileamh chun troid ar son cúis Allah.",
+    "Chuir go leor de mo mhuintir féin ceist ar mo cheapachán ar dtús, ag lua mo easpa saibhris agus mo shinsearachta uasal.",
+    "Roghnaíodh mé mar gur bhronn Allah flúirse eolais agus stádas fisiciúil cumhachtach orm.",
+    "Comhartha soiléir ar mo cheapadh diaga ab ea filleadh Áirc an Chonartha, arna hiompar ag aingil, rud a thug síocháin do chroíthe na gcreidmheach.",
+    "Agus mé ag máirseáil amach le mo shaighdiúirí, d’fhógair mé go ndéanfaí tástáil orainn ag abhainn.",
+    "D’ordaigh mé do mo arm nach mbeadh aon duine a d’ólfadh go domhain as an abhainn i mo chuideachta, agus go bhfanfadh siad siúd nach nglacfadh ach scúp amháin ina láimh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Jalut (Goliath)",
+        "Talút (Saul)",
+        "Fáidh Dawud",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talút (Saul)"
+    },
+    "trial": {
+      "label": "Cad é mo Phríomh-Thriail?",
+      "options": [
+        "Ag tógáil bacainn i gcoinne Gog agus Magog",
+        "Ag tabhairt aghaidh ar fhathach i gcath aonair",
+        "Ag tástáil umhlaíocht arm ag abhainn",
+        "Ag ceannaireacht arm jinn agus éan",
+        "Ag maireachtáil tar éis a bheith caite isteach sa tine"
+      ],
+      "answer": "Ag tástáil umhlaíocht arm ag abhainn"
+    },
+    "location": {
+      "label": "Cad a bhí ina Phríomhchomhartha ar mo Údarás?",
+      "options": [
+        "Bata a d’iompaigh ina nathair",
+        "Camall a tháinig amach as carraig",
+        "Cóta maile déanta as iarann ​​bogtha",
+        "Áirc an Chonartha (At-Tabut)",
+        "Bord bia ó neamh"
+      ],
+      "answer": "Áirc an Chonartha (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Cad a bhí mar thoradh ar mo fheachtas?",
+      "options": [
+        "Ag buachan arm Jalut (Goliath)",
+        "Ag scoilteadh na Mara Rua chun éalú ó tíoránach",
+        "Ag bunú ríshliocht fhadtéarmach i mo ainm",
+        "Ag tógáil an Kaaba naofa i Mecca",
+        "A bheith ardaithe suas chun na bhflaitheas gan bás a fháil"
+      ],
+      "answer": "Ag buachan arm Jalut (Goliath)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dogruçyl adamlaryň ukusy",
+  "intro": "Ynanç howply bolan we güýçli adamlaryň ynanjy ýok etmäge synanyşýan döwründe, ýaş ruhlaryň kiçi bir topary asyrlaryň dowamynda ýaňlanjak saýlaw etdi. Bilýän zatlaryndan gaçyp, dagyň gizlin garaňkylygynda gaçybatalga gözlediler we doly Alla bil bagladylar. Soňra bolan waka oýlanýanlar üçin ebedi alamat bolardy.",
+  "clues": [
+    "Biz Rebbimize iman eden ýaşlaryň toparydyk we Ol bizi hidaýatda artdyrdy.",
+    "Biz öz halkymyzyň öňünde durup, Allahdan başga hiç bir hudaýa dua etmejekdigimizi yglan etdik.",
+    "Biz bir gowaga gaçybatalga soradyk we: \"Eý, Rebimiz, bize Öz tarapyňdan rehim ber we işimizde bizi dogry ýola sal\" diýdik.",
+    "Biz köp ýyllap ukladyk, gün bolsa gowagymyzdan başga tarapa egilip, bize degmeýärdi.",
+    "Itimiz gowagyň agzynda uzalyp ýatyrdy, bizi gözegçilik edýän ýaly gorap durdy.",
+    "Oýananymyzda, näçe wagtlap galandygymyzy pikir etdik we biziň birimiz iýmit satyn almaga kümüş teňňeler bilen iberildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Magaradaky adamlar",
+        "Okýanyň adamlary",
+        "Sabat güni adamlary",
+        "Pilleriň halky",
+        "Tokaýyň ýoldaşlary"
+      ],
+      "answer": "Magaradaky adamlar"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ynançlary üçin yzarlanmalardan gaça durmak üçin gowaga gaçyp gitdiler",
+        "Güýçli ýel bilen weýran boldy",
+        "Ýer tarapyndan ýuwudyldy",
+        "Deňizde gark boldy",
+        "Daş tupany bilen urlupdyr"
+      ],
+      "answer": "Ynançlary üçin yzarlanmalardan gaça durmak üçin gowaga gaçyp gitdiler"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Gowagyň girelgesini goraýan it",
+        "Beýik bir gämi",
+        "Ýylana öwrülen taýajyk",
+        "Hup-hup guşy",
+        "Altyn göle"
+      ],
+      "answer": "Gowagyň girelgesini goraýan it"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Olar 309 ýyllap gowakda galdylar we soňra alamat hökmünde galdyryldylar",
+        "Olar maýmynlara öwrüldiler",
+        "Olar sil sebäpli ýok edildi",
+        "Olar deňizden geçmäge mejbur edildiler",
+        "Olara patyşalyk berildi"
+      ],
+      "answer": "Olar 309 ýyllap gowakda galdylar we soňra alamat hökmünde galdyryldylar"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

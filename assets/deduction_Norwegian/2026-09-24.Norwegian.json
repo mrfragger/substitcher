@@ -1,0 +1,61 @@
+{
+  "title": "Suverenen som krevde guddommelighet",
+  "intro": "En mektig og arrogant hersker mente at ingen kunne stå over tronen deres. De jaget en flyktende gruppe over et stort vannområde, bare for å møte en dramatisk slutt. Denne monarkens historie gir gjenlyd i mange passasjer i Koranen og tjener som en advarsel til alle.",
+  "clues": [
+    "Jeg var en mektig hersker som mente at ingen autoritet overgikk min egen i landene jeg styrte.",
+    "Jeg hadde en betrodd vesir som het Haman, som hjalp meg med å gjennomføre store arkitektoniske prosjekter.",
+    "Jeg tilkalte de beste magikerne i mitt land for å utfordre tegnene til en budbringer som motarbeidet meg.",
+    "Jeg nektet å la et folk som var slavebundet i mitt rike dra, til tross for plager og klare advarsler.",
+    "Jeg forfulgte dem over et stort hav med hele min hær og vogner.",
+    "Det samme havet lukket seg over meg og styrkene mine og druknet oss alle, mens de krysset trygt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Fir'awn (farao)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (farao)"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Plager og konfrontasjon med Musa (Moses)",
+        "Å bygge en ark før en stor flom",
+        "Kamp mot Jalut i dalen",
+        "Å bli slukt av en hval",
+        "Forsvar av ærlige handelsvekter"
+      ],
+      "answer": "Plager og konfrontasjon med Musa (Moses)"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Høye tårn og staker",
+        "En flott treark",
+        "En gullkalv",
+        "En stav som ble til en slange",
+        "En massiv hval"
+      ],
+      "answer": "Høye tårn og staker"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Druknet i havet med hæren",
+        "Reddet av Allahs nåde og tålmodighet belønnet",
+        "Gjenforent med familien etter år med motgang",
+        "Svelget av jorden",
+        "Brent i en brann"
+      ],
+      "answer": "Druknet i havet med hæren"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

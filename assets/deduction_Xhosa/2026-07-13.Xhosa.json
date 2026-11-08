@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi Lobulumko",
+  "intro": "Ilizwi elithambileyo lobulumko elalikade linikwa isiluleko esidlula ixesha. Lo mntu, osikelelwe ngokuqonda okunzulu, wadlulisela izifundo ezibalulekileyo ezihlala zisibane kubo bonke abalangazelela ulwalathiso. Ngaba ungasityhila isizathu sokuba la mazwi ahlala ehleli?",
+  "clues": [
+    "Ndinikwe intsikelelo enkulu evela ku-Allah, isipho esakhanyisela intliziyo nengqondo yam.",
+    "Ndajika ndajonga umntwana wam endimthandayo, ndinqwenela ukwabelana naye ngobutyebi obuxabisekileyo endandinabo.",
+    "Ndalumkisa ukuba olona lwaphulo-mthetho lukhulu kukwakha amadlelane noThixo omnye wenyaniso.",
+    "Ndikhumbuze ukuba nobunzima bembewu yemostade, efihliweyo ngaphakathi kwelitye okanye ngaphaya kwesibhakabhaka, iya kuphendulwa nguAllah.",
+    "Ndibayalele ukuba bathobele abazali, nangona ukuthobela kuxhomekeke kuphela kwimiba yobulungisa.",
+    "Ndifundise iindlela ezilula: hamba ngokuthobeka emhlabeni kwaye uthomalalise ilizwi lakho; kuba isandi esiqatha kukugquma kweedonki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "uLuqman",
+        "U-Al-Khidr",
+        "Umprofeti uSulayman",
+        "Dhul-Qarnayn",
+        "Uzair"
+      ],
+      "answer": "uLuqman"
+    },
+    "trial": {
+      "label": "Ityala / Isiganeko",
+      "options": [
+        "Ukunika umntwana wakhe icebiso elinzulu",
+        "Ukwakha umkhombe ukuze usinde kumkhukula omkhulu",
+        "Ukunyamezela isifo esinzima ngomonde",
+        "Uhambo oluya eziphelweni zomhlaba",
+        "Ukwamkela amacwecwe kaThixo entabeni"
+      ],
+      "answer": "Ukunika umntwana wakhe icebiso elinzulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Icebiso kunyana wakhe",
+        "Isihlahla esitshayo",
+        "Abasebenzi bakaMusa",
+        "Ithole legolide",
+        "Amasango esinyithi"
+      ],
+      "answer": "Icebiso kunyana wakhe"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Icebiso lakhe laqinisekiswa ngokupheleleyo kwizibhalo ezingcwele",
+        "Wanikwa ubuprofeti nomthetho omtsha",
+        "Waba ngumlawuli onamandla phezu kobukumkani obukhulu",
+        "Wavuselwa ezulwini ngaphandle kokufa",
+        "Wafumana isityhilelo ngqo kwingelosi"
+      ],
+      "answer": "Icebiso lakhe laqinisekiswa ngokupheleleyo kwizibhalo ezingcwele"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

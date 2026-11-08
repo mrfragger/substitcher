@@ -1,0 +1,61 @@
+{
+  "title": "Usuku Lomboniso Wokugqibela",
+  "intro": "Libizelwe ukubonakalisa amandla amakhulu, iqela labadlali abanobuchule lazifumana lijongene nenyaniso engalindelekanga eyayiza kutshintsha ubomi balo ngonaphakade.",
+  "clues": [
+    "Sasidume ngobuchule bethu, iingcali zokukhohlisa nokukhohlisa.",
+    "Sabizwa ngumlawuli ukuba siye kujongana nomchasi-mthetho owayephethe intonga elula.",
+    "Sathi sakubona inyaniso, sawa phantsi saqubuda, sivakalisa ukukholelwa kwethu eNkosini yehlabathi.",
+    "Lo mlawuli ungqongqo wasisongela ngesohlwayo esiqatha, kodwa asizange sigungqe.",
+    "Sasiphakathi kwabokuqala ukukholelwa kwisigidimi emva kokubona uphawu olucacileyo.",
+    "Sabulawa ngenxa yokholo lwethu, kodwa siya kuba ngabokuqala ukungena eParadesi kunye namalungisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Izazi zikaFaro",
+        "AmaSirayeli",
+        "Abantu baseThamud",
+        "Abafundi baka-Isa",
+        "Umkhosi ka-Abraha"
+      ],
+      "answer": "Izazi zikaFaro"
+    },
+    "trial": {
+      "label": "Ityala / Isiganeko",
+      "options": [
+        "Ukhuphiswano noMprofeti uMusa",
+        "Ukwakha iNqaba",
+        "UMkhukula Omkhulu",
+        "Isibetho Seenkumbi",
+        "Ulwandle Oluqhekekayo"
+      ],
+      "answer": "Ukhuphiswano noMprofeti uMusa"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Usuku loMthendeleko",
+        "INtlambo yaseTuwa",
+        "Isixeko sase-Iram",
+        "Igadi Yaphakade",
+        "Ithafa laseArafat"
+      ],
+      "answer": "Usuku loMthendeleko"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Babethelelwa esiphambanweni esidlangalaleni",
+        "Batshoniswe elwandle",
+        "Benziwa abalandeli bomprofeti",
+        "Bathunyelwa ekuthinjweni",
+        "Batshiswa ngumlilo"
+      ],
+      "answer": "Babethelelwa esiphambanweni esidlangalaleni"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kamenoresci drevne doline",
+  "intro": "Zamislite civilizaciju koja se uzdigla u stjenovitim dolinama Arabije, vještu u klesanju veličanstvenih domova na planinskim obrocima. Procvjetali su snagom i umjetnošću, ali njihovu priču obilježava jeziv prkos božanskom upozorenju. Dok budete istraživali njihovu priču, otkrit ćete ljude čija je arogancija dovela do njihovog potpunog uništenja. Ko su bili oni?",
+  "clues": [
+    "Naslijedili smo zemlju kamenitih ravnica i visokih litica, gdje smo izgradili svoje domove s neusporedivom vještinom.",
+    "Bili smo poznati po tome što smo uklesali sigurne domove u planine, osjećajući se sigurno od bilo kakve opasnosti.",
+    "Došao nam je poslanik između nas samih, podsjećajući nas na Allahove blagodati i upozoravajući nas na kaznu.",
+    "Zahtijevali smo znak, i iz stijene se pojavila čudesna deva, jasan test od Allaha.",
+    "Prkosili smo upozorenju i prerezali nogu devi, rugajući se glasniku i osporavajući kaznu.",
+    "Jedan jedini udar nas je zatekao u našim domovima, i do jutra smo ležali ničice, kao da nikada nismo tamo živjeli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ljudi iz Semuda",
+        "Ljudi iz 'Ad",
+        "Ljudi iz Madjana",
+        "Nuhov narod",
+        "Ljudi Luta"
+      ],
+      "answer": "Ljudi iz Semuda"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Oštetio je devu",
+        "Prekršio je Sabat",
+        "Obožavao zlatno tele",
+        "Ubili su proroka koji im je poslan",
+        "Izgradio toranj da dosegne nebo"
+      ],
+      "answer": "Oštetio je devu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Deva",
+        "Kovčeg",
+        "Osoblje",
+        "Bijela ruka",
+        "Mana i prepelice"
+      ],
+      "answer": "Deva"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Uništeno eksplozijom",
+        "Spašen od uništenja",
+        "Pretvoreni u majmune",
+        "Utopljen u moru",
+        "Progutala zemlja"
+      ],
+      "answer": "Uništeno eksplozijom"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

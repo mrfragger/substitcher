@@ -1,0 +1,61 @@
+{
+  "title": "O Aliado Inabalável em uma Prova de Ouro",
+  "intro": "À sombra de um grande profeta, uma alma de eloquência e fé foi escolhida para auxiliar em uma missão monumental. Essa figura se manteve firme quando as massas vacilaram, pregando contra uma transgressão flagrante que ameaçava o próprio cerne do monoteísmo. Quando o profeta retornou para testemunhar o deslize do povo, a defesa dessa figura não foi baseada na culpa, mas no dever e no temor da divisão. Quem é esse servo devoto de Alá?",
+  "clues": [
+    "Fui escolhido por Alá para uma missão sagrada ao lado de outra pessoa, e meu papel era de apoio e proclamação.",
+    "Obtive clareza de expressão e acompanhei um mensageiro para confrontar um poderoso opressor.",
+    "Durante uma jornada crucial, o mensageiro subiu uma montanha sozinho, deixando-me a zelar pelo povo.",
+    "Na ausência deles, o povo fez uma imagem de ouro, e eu implorei que permanecessem fiéis, mas eles recusaram meu conselho.",
+    "Quando o mensageiro retornou, tomado pela raiva e pela tristeza, fui detido, mas expliquei que havia sido subjugado e temia causar discórdia entre eles.",
+    "Eu sou o profeta que esteve ao lado de Moisés, meu irmão, compartilhando seu fardo e permanecendo firme contra a idolatria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Harun",
+        "Profeta Moisés",
+        "Profeta Isa",
+        "Profeta Dawud",
+        "Profeta Zacarias"
+      ],
+      "answer": "Profeta Harun"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "As pessoas veneravam um bezerro de ouro apesar dos avisos.",
+        "As pessoas me jogaram em um incêndio.",
+        "Fui engolido por um peixe enorme.",
+        "Fui preso sob falsas acusações.",
+        "Fui exilado da minha cidade por pregar."
+      ],
+      "answer": "As pessoas veneravam um bezerro de ouro apesar dos avisos."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Bezerro de Ouro",
+        "A Sarça Ardente",
+        "O cajado que se transformou em serpente",
+        "As Tábuas da Aliança",
+        "A Arca da Aliança"
+      ],
+      "answer": "O Bezerro de Ouro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fui inocentado e continuei minha missão profética.",
+        "Fui punido pelo pecado do povo.",
+        "Recebi uma nova nação para guiar.",
+        "Fui levado vivo para o céu.",
+        "Fui nomeado governante de um reino."
+      ],
+      "answer": "Fui inocentado e continuei minha missão profética."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Čuvar Kapije Izlazećeg Sunca",
+  "intro": "Kroz cijeli Kuran, određene duše putuju zemljom ostavljajući tragove mudrosti i čuda. Jedna takva figura putovala je do najudaljenijih tačaka stvaranja - gdje sunce izlazi i zalazi, gdje barijera zadržava sam haos. Ovom Allahovom slugi je darovano kraljevstvo koje niko više nikada neće posjedovati. Kroz tri različita putovanja, svrha ove osobe postala je jasna. Možete li prepoznati ovog legendarnog lutalicu među sjenama historije?",
+  "clues": [
+    "Najmilostiviji mi je dao ovlaštenje da vladam Zemljom na način na koji niko drugi nikada nije postigao.",
+    "Putovao sam prema zapadu sve dok nisam stigao do mjesta gdje sunce zalazi, našavši ga kako zalazi u mutnom izvoru, i tamo sam vidio ljude.",
+    "Putovao sam prema istoku sve dok nisam stigao do mjesta gdje sunce izlazi, našavši ga kako izlazi nad narodom kojem nismo pružili zaklon od njega.",
+    "Putovao sam između te dvije krajnje tačke sve dok nisam stigao do doline između dvije planine, gdje sam našao narod koji je jedva razumio govor.",
+    "Na planini sam pronašao dvije tvrde željezne barijere koje su se protezale s desne i lijeve strane, a između njih uzak prolaz. Ovi ljudi su me zamolili da probijem barijeru koja je zadržavala haos.",
+    "Uzeo sam svoje namirnice i rekao: 'Kada barijera probije, to će biti jasna razlika između nas i ovog naroda.' I kada je došlo određeno vrijeme, gledao sam kako je barijera konačno probijena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Zul-Karnajn",
+        "Poslanik Sulejman",
+        "Poslanik Ibrahim",
+        "Kralj Ghassaniyah",
+        "Zul-Karnain Lutalica"
+      ],
+      "answer": "Zul-Karnajn"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Probijanje željezne barijere za narod Yajuja i Madžuja",
+        "Gradnja broda pod komandom proroka",
+        "Izgradnja hrama u Jerusalimu",
+        "Prelazak Crvenog mora s vjerujućim narodom",
+        "Izgradnja brane za zaštitu pravedne nacije"
+      ],
+      "answer": "Probijanje željezne barijere za narod Yajuja i Madžuja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Željezna barijera između dvije planine",
+        "Brod se usidrio na planini",
+        "Sveti hram u Jerusalemu",
+        "Rijeka u zemlji Egiptu",
+        "Bunar blagoslova u Madjanu"
+      ],
+      "answer": "Željezna barijera između dvije planine"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Barijera je probijena kada je došlo određeno vrijeme, i nastao je haos",
+        "Nevjernici su se utopili, dok su vjernici spašeni",
+        "Pravednici su bili upućeni u vječni raj",
+        "Grad je uništio vrišteći vjetar",
+        "Idoli su bili razbijeni i ljudi su se pokajali"
+      ],
+      "answer": "Barijera je probijena kada je došlo određeno vrijeme, i nastao je haos"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

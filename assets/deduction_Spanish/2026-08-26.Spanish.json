@@ -1,0 +1,61 @@
+{
+  "title": "La envidia que consumió",
+  "intro": "Una historia más antigua que cualquier reino o escritura: la primera tragedia humana nacida de los celos. Un alma, la mayor de dos hijos de los primeros padres, observó con furia cómo su hermano menor recibía un favor que a él se le negaba. Lo que siguió fue una decisión terrible, que dejó tras de sí la primera sangre derramada sobre la tierra. ¿Podrás descubrir la identidad, el juicio y el amargo arrepentimiento?",
+  "clues": [
+    "Nací de la primera pareja de seres humanos que caminaron sobre la Tierra.",
+    "Una vez hice una ofrenda a Alá, pero no fue aceptada.",
+    "La ofrenda de mi hermano fue aceptada, mientras que la mía fue rechazada, algo que no pude soportar.",
+    "Amenacé a mi propio hermano con destruirlo.",
+    "Me convertí en la primera persona en cometer un asesinato en esta tierra, al quitarle la vida a mi propio hermano.",
+    "Alá envió una criatura de la tierra —un pájaro negro que escarbaba en el suelo— para enseñarme a ocultar lo que había hecho, y no me quedó más que arrepentimiento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Qabil (Caín)",
+        "Habil (Abel)",
+        "Profeta Yaqub",
+        "El profeta Musa",
+        "El profeta Adán"
+      ],
+      "answer": "Qabil (Caín)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ofrenda rechazada por Alá",
+        "Arrojado a un gran fuego",
+        "Abandonado de bebé en un río.",
+        "Probado con un reino inmenso",
+        "Se le ordenó sacrificar a su hijo."
+      ],
+      "answer": "Ofrenda rechazada por Alá"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El cuervo enviado por Alá",
+        "El becerro de oro",
+        "El arca sobre la montaña",
+        "La zarza ardiente",
+        "La camella tallada en la roca."
+      ],
+      "answer": "El cuervo enviado por Alá"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se llenó de arrepentimiento y se convirtió en uno de los perdedores.",
+        "Engullidos por la tierra junto con sus tesoros.",
+        "Se convirtió en un noble mensajero de Alá.",
+        "Entró al Paraíso por la misericordia divina.",
+        "Gobernó un reino sin igual."
+      ],
+      "answer": "Se llenó de arrepentimiento y se convirtió en uno de los perdedores."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

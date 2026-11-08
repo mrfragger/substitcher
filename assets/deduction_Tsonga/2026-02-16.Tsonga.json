@@ -1,0 +1,61 @@
+{
+  "title": "Xikombelo xa Vulawuri lebyi heleleke",
+  "intro": "Eminkarhini ya khale, munhu la nga ni matimba u pfuke a fuma tiko lerikulu ni vaaki va rona. Ku fuma ka munhu loyi a ku funghiwe hi ku tikukumuxa lokukulu ni ntlhontlho lowukulu eka vulawuri bya Xikwembu. Tilunghiselele ku paluxa vumunhu bya moya-xiviri lowu vuyelo bya wona byo hetelela byi veke dyondzo leyi nga heriki eka tinxaka hinkwato.",
+  "clues": [
+    "Ndzi khome mfumo lowukulu, laha rito ra mina a ri ri nawu.",
+    "Ndzi tivule xikwembu lexi tlakukeke, ndzi lava vugandzeri eka hinkwavo lava nga ehansi ka vulawuri bya mina.",
+    "Ndzi tshikilele vaaki vo karhi, ndzi va endla mahlonga ni ku lerisa leswaku ku dlayiwa tincece ta vona ta xinuna.",
+    "Hi ku phindha-phindha ndzi langutane ni murhumiwa wa Xikwembu la titsongahataka, loyi a endleke masingita lama nga erivaleni emahlweni ka mina ni vangoma va mina.",
+    "Hi ku nonon’hwa ndzi arile ntiyiso, ndzi hehla murhumiwa loyi hi vungoma naswona ndzi kunguhate ku n’wi lovisa ni valandzeri va yena.",
+    "Mina ni vuthu ra mina hinkwaro hi funengetiwe hi lwandle loko hi ri karhi hi hlongorisa lava ntshunxiweke eku khomiweni ka mina hi nga heli matimba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Nimrodi",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Hamani"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ndhambi Leyikulu",
+        "Ndzilo Lowu Pfurhaka",
+        "Ku Nwela Ka Mutshikeleri",
+        "Ku Lovisiwa Hi Moya",
+        "Ku tsekatseka ka Misava ka ku nga pfumeli"
+      ],
+      "answer": "Ku Nwela Ka Mutshikeleri"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Areka ya Nowa",
+        "Nhonga ya Muxe",
+        "Xifaniso xa Nsuku",
+        "Xihlovo xa Zamzam",
+        "Xiluvelo xa Bilqis"
+      ],
+      "answer": "Nhonga ya Muxe"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku nyikiwe mfumo lowukulu",
+        "Miri lowu hlayisiweke tanihi xikombiso",
+        "Ku rivaleriwa endzhaku ka ku hundzuka",
+        "Ku tlakusiwa ku ya eka vuprofeta",
+        "Vanhu va yena va sungule ku chava Xikwembu"
+      ],
+      "answer": "Miri lowu hlayisiweke tanihi xikombiso"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

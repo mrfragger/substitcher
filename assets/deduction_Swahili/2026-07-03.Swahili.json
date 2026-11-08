@@ -1,0 +1,61 @@
+{
+  "title": "Mtangazaji wa Dhambi Isiyo na Kifani",
+  "intro": "Baadhi ya hadithi katika Quran zinafichua kina cha ufisadi ambacho jamii nzima inaweza kutumbukia. Mjumbe huyu alisimama peke yake, akiwasihi watu waliozama katika upotovu ambao hakuna taifa lolote lililowahi kuufuata kabla yao. Licha ya miaka mingi ya onyo, mioyo ilibaki kuwa migumu, na amri ya Mungu ilifika kwa njia ya kutisha sana. Je, unaweza kumtambua mjumbe huyu mtukufu wa Mwenyezi Mungu?",
+  "clues": [
+    "Nilitumwa kama mwonyaji kwa watu walioangamizwa na upotovu ambao hakuna taifa lolote lililowahi kuufanya kabla yao.",
+    "Watu wangu waliniita mwongo na kutishia kunifukuza mimi na wafuasi wangu kutoka nchini.",
+    "Wageni waheshimiwa walikuja nyumbani kwangu wakiwa kama vijana wanaogoma, nami nilihisi wasiwasi mkubwa kwa usalama wao.",
+    "Watu wangu waliniomba niwakabidhi wageni wangu, bila kujua kwamba wageni hawa walikuwa malaika waliotumwa na Mwenyezi Mungu.",
+    "Mwenzi wangu mwenyewe hakushiriki imani yangu na akachagua kubaki nyuma na waliohukumiwa.",
+    "Niliokolewa pamoja na binti zangu alfajiri, mvua kubwa ya mawe iliponyesha na miji yetu ikapinduliwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Lut",
+        "Nabii Shu'aib",
+        "Nabii Hud",
+        "Nabii Nuh",
+        "Nabii Salih"
+      ],
+      "answer": "Nabii Lut"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Gharika kubwa ikiifunika dunia",
+        "Kupoteza uwezo wa kuona kutokana na mateso ya muda mrefu",
+        "Mtawala wa kidikteta anayedai uungu",
+        "Kutupwa kwenye moto unaowaka",
+        "Kudaiwa kuwasalimisha wageni waheshimiwa"
+      ],
+      "answer": "Kudaiwa kuwasalimisha wageni waheshimiwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Safina kubwa iliyojengwa kwa mkono",
+        "Fimbo iliyogawanya bahari",
+        "Ngamia jike wa kimiujiza",
+        "Moto unaowaka",
+        "Miji iliyopinduliwa"
+      ],
+      "answer": "Miji iliyopinduliwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuzama majini huku akiwafuatilia waumini",
+        "Nimeokolewa kutoka kwenye tanuru ya moto bila kujeruhiwa",
+        "Aliinuliwa mbinguni akiwa hai",
+        "Familia iliangamia katika mafuriko makubwa",
+        "Familia iliokolewa isipokuwa mke asiye mwaminifu"
+      ],
+      "answer": "Familia iliokolewa isipokuwa mke asiye mwaminifu"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

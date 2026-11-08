@@ -1,0 +1,61 @@
+{
+  "title": "Isang Pagkubkob sa Ilalim ng Biglang Langit",
+  "intro": "Nakatayo ka sa harap ng isang kakila-kilabot na hukbo na papalapit sa isang iginagalang na santuwaryo, na ang bawat sandata ay handa at ang tagumpay ay tila tiyak. Bago pa man magsimula ang pagsalakay, isang hindi inaasahang kapangyarihan ang lumitaw sa itaas, at ang paligsahan ay naganap sa isang pangyayaring hindi inaasahan ninuman.",
+  "clues": [
+    "Nagmartsa kami nang may kumpiyansa na walang kapangyarihang makalupa ang makakayanan ang pagyanig.",
+    "Nagdala kami ng makapangyarihang mga elepante, at tila nakapalibot sa kanila ang aming puwersa.",
+    "Naparito kami upang gibain ang isang iginagalang na santuwaryo, sa paniniwalang tiyak na ang aming tagumpay.",
+    "Nang marating namin ito, isang kawan ang lumilipad sa kalangitan sa itaas namin.",
+    "Naghagis ang mga ibon ng mga batong gawa sa matigas na luwad sa ating mga mandirigma.",
+    "Talagang natalo kami nang lubusan kaya't ang aming makapangyarihang puwersa ay gumuho at nagkalat na parang abo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang mga Tao ng Elepante",
+        "Ang Dalawang Prinsipe",
+        "Mga Kapatid ni Jose",
+        "Ang Lingkod ni Allah sa Dhul-Kifl",
+        "Ang mga Kasamahan ng Matuwid na Tao"
+      ],
+      "answer": "Ang mga Tao ng Elepante"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang pagsalakay ng mga elepante sa Kaaba",
+        "Ang paghahati ng dagat sa harap ng isang grupong inihatid",
+        "Ang pagsamsam ng Kaban ng isang malupit na bayan",
+        "Ang paglalakbay sa gabi sa pagitan ng dalawang moske",
+        "Ang pagpapagaling ng isang ketongin sa pamamagitan ng banal na kapangyarihan"
+      ],
+      "answer": "Ang pagsalakay ng mga elepante sa Kaaba"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Mga ibong may dalang mga pellet ng luwad",
+        "Isang arka na gawa sa gopherwood",
+        "Isang tungkod na naging ahas",
+        "Isang batong tinatakan ng isang tanda",
+        "Isang nasusunog na palumpong"
+      ],
+      "answer": "Mga ibong may dalang mga pellet ng luwad"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang kanilang makapangyarihang puwersa ay gumuho na parang abo",
+        "Ligtas nilang natawid ang dagat",
+        "Naglakad sila nang walang pinsala sa nagliliyab na hurno",
+        "Pumasok sila sa Paraiso nang dala-dalawa",
+        "Natulog sila sa isang kuweba sa loob ng 309 na taon"
+      ],
+      "answer": "Ang kanilang makapangyarihang puwersa ay gumuho na parang abo"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

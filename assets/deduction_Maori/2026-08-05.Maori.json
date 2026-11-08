@@ -1,0 +1,61 @@
+{
+  "title": "Te Rā o te Whakaaturanga Whakamutunga",
+  "intro": "I karangatia tētahi rōpū kaiwhakaari pūkenga ki tētahi whakaaturanga nui o te mana, i kitea e rātou tētahi mea kāore i te tūmanakohia ka huri i ō rātou ao ake tonu atu.",
+  "clues": [
+    "I rongonui mātou mō ā mātou mahi toi, he tohunga ki te maminga me te mahi tinihanga.",
+    "I karangatia mātou e te rangatira kia tū atu ki tētahi kaiwhakataetae he tokotoko noa iho tāna.",
+    "I tō mātou kitenga i te pono, ka takoto mātou ki raro, me te whakapuaki i te whakapono ki te Ariki o ngā ao.",
+    "I whakawehi mai te kaitukino ki a mātou me te whiu nui, engari kāore mātou i mārō.",
+    "Ko mātou tētahi o te hunga tuatahi i whakapono ki te karere i muri i te kitenga i te tohu mārama.",
+    "I mate tātou mō tō tātou whakapono, engari ko tātou te hunga tuatahi ka tomo ki Pararaiha me te hunga tika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā Tohunga o Parao",
+        "Ngā Iharaira",
+        "Te Iwi o Thamud",
+        "Ngā Ākonga a Ihaia",
+        "Te Ope Taua a Āparaha"
+      ],
+      "answer": "Ngā Tohunga o Parao"
+    },
+    "trial": {
+      "label": "Whakamātautau / Takahanga",
+      "options": [
+        "Te whakataetae ki a Poropiti a Mohi",
+        "Te Hanga i te Pourewa",
+        "Te Waipuke Nui",
+        "Te Mate Pukupuku o ngā Mawhitiwhiti",
+        "Te Moana Wehewehe"
+      ],
+      "answer": "Te whakataetae ki a Poropiti a Mohi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Rā o te Hakari",
+        "Te Raorao o Tūwa",
+        "Te Tāone o Iram",
+        "Te Māra o te Mure Ore",
+        "Te Mania o Arafat"
+      ],
+      "answer": "Te Rā o te Hakari"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I ripekatia rātou i te aroaro o te iwi",
+        "I toremi rātou ki te moana",
+        "I meinga rātou hei akonga a te poropiti",
+        "I tonoa rātou ki te whakarau",
+        "I pau rātou i te ahi"
+      ],
+      "answer": "I ripekatia rātou i te aroaro o te iwi"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

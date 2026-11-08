@@ -1,0 +1,61 @@
+{
+  "title": "Balsas, kuris atsisakė nevilties",
+  "intro": "Įženkite į namus, kur netektis seka netektį, tačiau vienas ramus balsas nevilioja. Vienas Korano šauksmas kantrybę paverčia lūžio tašku; ar galite atsekti užuominas apie asmenį, slypintį už to balso?",
+  "clues": [
+    "Buvau kantrybės balsas namuose, kur palaiminimus išbandė nelaimės.",
+    "Likau namuose, ištuštėjusiuose dėl turto ir vaikų praradimo.",
+    "Žinojau, kad liga ištiko ir tą draugą, kurio kūnas buvo pakirstas.",
+    "Kai nelaimė tapo didelė, šaukiausi primindamas Alachą.",
+    "Aš pateikiau vieną pareiškimą: Alachas yra Tiesa, todėl būkite kantrūs.",
+    "Aš pašaukiau Ayyubą vardu; po to Alachas pašalino nelaimę ir sugrąžino šeimą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašo Ayyubo žmona",
+        "Pranašo Nuho žmona",
+        "Pranašo Ibrahimo žmona",
+        "Pranašo Ya'qubo žmona",
+        "Faraono duktė"
+      ],
+      "answer": "Pranašo Ayyubo žmona"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pasilikti su Ayyubu per netektį ir ligą, o tada prašyti kantrybės",
+        "Įspėjimas teisiam pasiuntiniui palikti korumpuotą bendruomenę",
+        "Meldžiamasi už būsimos giminės gimimą",
+        "Sapnų aiškinimas karališkajame kalėjime",
+        "Radus patikėtą vaiką prie upės"
+      ],
+      "answer": "Pasilikti su Ayyubu per netektį ir ligą, o tada prašyti kantrybės"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Reikalingas pareiškimas, kad Alachas yra Tiesa, ir kantrybė",
+        "Palmė šalia šaltinio",
+        "Kvietimas statyti laivą toli nuo bangų",
+        "Vienuolikos žvaigždžių ir kylančios saulės sapnas",
+        "Krepšys, nešamas palei Nilą"
+      ],
+      "answer": "Reikalingas pareiškimas, kad Alachas yra Tiesa, ir kantrybė"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Ayyubo nelaimė buvo pašalinta ir jo šeima atkurta",
+        "Ilgai lauktas vaikas buvo padovanotas po nevaisingos maldos",
+        "Jaunas valdovas interpretavo septynerius gausos ir nepritekliaus metus",
+        "Patikimas vaikas buvo išgelbėtas iš tekančio vandens",
+        "Prieš niokojantį potvynį buvo paskelbtas įspėjimas"
+      ],
+      "answer": "Ayyubo nelaimė buvo pašalinta ir jo šeima atkurta"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Liziba oyo ezali na nse ya zelo",
+  "intro": "Na mikanda ya kala ya Coran, moto moko ya motema molai monene akutanaki na momekano oyo ekobuka mitema ya makasi koleka. Balongolaki biloko nyonso - bozwi, libota, mpe bokolongono. Nzokande uta na bozindo ya kozanga elikya, losambo moko ya komikitisa eyanolamaki na lolenge oyo ekanisamaki te. Okoki koyeba molimo oyo oyo lisolo na ye ya bozongisi ezali koyokana na boumeli ya bileko?",
+  "clues": [
+    "Bamekaki ngai na momekano moko ya makasi mpenza na boye ete bakanisaka yango na boumeli ya bambula.",
+    "Nabungisaki nionso oyo ezalaki na ntina - bomengo na ngai, bana na ngai, mpe bokolongono na ngai.",
+    "Nzoto na ngai ezipamaki na bampota ya mpasi, mpe bato nyonso bazalaki kokima ngai.",
+    "Na kozanga elikya na ngai, nabengaki Allah, kolobaka ete Satana asimbaki ngai na mpasi mpe na minyoko.",
+    "Allah ayanolaki ngai mpe atindaki ngai nabeta mabele na lokolo na ngai.",
+    "Uta esika wana mpenza, liziba moko ya malili ebimaki, mpe Allah azongisaki libota na ngai mpe abakisaki yango mbala mibale lokola ngolu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ayyuub",
+        "Mosakoli Musa",
+        "Mosakoli Ilyas",
+        "Mosakoli Sulayman",
+        "Mosakoli Dawud"
+      ],
+      "answer": "Mosakoli Ayyuub"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Maladi makasi mpe kobungisa libota mpe bozwi",
+        "Komelama na baleine moko monene",
+        "Exil na ville ya Makkah",
+        "Kokangama na libulu ya mozindo",
+        "Kokutana na mokonzi moko ya lolendo"
+      ],
+      "answer": "Maladi makasi mpe kobungisa libota mpe bozwi"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Liziba ya malili oyo euti na mabele",
+        "Masuwa moko likoló ya mpela monene",
+        "Nzete oyo ekabolaki mbu",
+        "Kiti ya bokonzi oyo etombwami na vitre",
+        "Libulu oyo ezali na bifelo mpo na kolala"
+      ],
+      "answer": "Liziba ya malili oyo euti na mabele"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Libota mpe bozwi ezongaki mpe ekómaki mbala mibale",
+        "Bima na libumu ya mbisi",
+        "Koleka na libateli na mai oyo ekabwani",
+        "Bokonzi oyo epesami mpo na koyangela",
+        "Mbotama ya mwana mobali na ndenge ya likamwisi na bobange"
+      ],
+      "answer": "Libota mpe bozwi ezongaki mpe ekómaki mbala mibale"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

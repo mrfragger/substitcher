@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Mpitondra ny Fahotana Tsy Mbola Nisy Toy Izany",
+  "intro": "Misy tantara sasany ao amin'ny CORAN mampiseho ny halalin'ny kolikoly mety ho latsaka ao anatin'ny fiarahamonina iray manontolo. Nijoro irery ity iraka ity, niangavy ny vahoaka iray izay rendrika tao anatin'ny fahalotoam-pitondrantena izay tsy mbola nisy firenena teo alohany nanao izany. Na dia teo aza ny fampitandremana nandritra ny taona maro, dia mbola nihamafy ny fon'izy ireo, ary tonga tamin'ny fomba mahatsiravina indrindra ny didim-pitsaran'Andriamanitra. Fantatrao ve ity iraka mendri-kaja avy amin'i Allah ity?",
+  "clues": [
+    "Nirahina ho mpampitandrina ho an'ny vahoaka iray izay voataonan'ny faharatsiana izay tsy mbola nisy firenena nanao izany teo alohany.",
+    "Niantso ahy ho mpandainga ny oloko ary nandrahona ny handroaka ahy sy ny mpanara-dia ahy hiala amin'ny tany.",
+    "Tonga tao an-tranoko ireo vahiny manan-kaja tamin'ny endrika tovolahy nanao fitokonana, ary nahatsapa ory mafy aho noho ny fiarovana azy ireo.",
+    "Nangataka ahy hanolotra ny vahiniko ho azy ireo ny oloko, nefa tsy fantany akory fa anjely nirahin'i Allah ireo mpitsidika ireo.",
+    "Ny vadiko koa tsy nitovy finoana tamiko fa naleony nijanona niaraka tamin'ireo voaozona.",
+    "Voavonjy niaraka tamin'ireo zanako vavy aho raha vao mangiran-dratsy, raha nilatsaka ny oram-bato nandravarava ary rava ireo tanànantsika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Lota",
+        "Mpaminany Shu'aib",
+        "Mpaminany Hoda",
+        "Mpaminany Noa",
+        "Mpaminany Salih"
+      ],
+      "answer": "Mpaminany Lota"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Safodrano lehibe nandrakotra ny tany",
+        "Fahaverezan'ny fahitana noho ny fijaliana lava",
+        "Mpitondra jadona milaza ho andriamanitra",
+        "Atsipy ao anaty afo mirehitra",
+        "Takiana ny hanolo ireo vahiny manan-kaja"
+      ],
+      "answer": "Takiana ny hanolo ireo vahiny manan-kaja"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Sambo lehibe iray naorina tanana",
+        "Tehina iray izay nampisaraka ny ranomasina",
+        "Ramevavavy mahagaga",
+        "Afo mirehitra",
+        "Tanàna nirodana"
+      ],
+      "answer": "Tanàna nirodana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Maty an-drano raha nanenjika ireo mpino",
+        "Voavonjy tsy naninona avy tao anaty lafaoro mirehitra",
+        "Nasandratra ho any an-danitra velona",
+        "Maty tamin'ny tondra-drano lehibe ny fianakaviana",
+        "Voavonjy ny fianakaviana afa-tsy ny vady tsy nahatoky"
+      ],
+      "answer": "Voavonjy ny fianakaviana afa-tsy ny vady tsy nahatoky"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

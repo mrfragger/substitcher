@@ -1,0 +1,61 @@
+{
+  "title": "Sebra Giyanê Êşbir",
+  "intro": "Di salnameyên dîrokê de, kesayetiyek heye ku navê wî bi berxwedanê re hevwate ye. Ev kes bi windakirina her rehetiya dinyayê hat ceribandin, lê dîsa jî xizmetkarekî dilsoz ê Afirîner ma. Di nav salên zehmetî û nexweşiyên laşî de, dilê vî giyanî di baweriyê de ma, ji bo hemî kesên ku bi dijwarîyan re rû bi rû ne, ronahiyek hêviyê peyda kir.",
+  "clues": [
+    "Ez bendeyê Xwedê yê dilsoz bûm, bi dewlemendiyeke zêde, gelek zarok û tenduristiyeke pir baş.",
+    "Jiyana min guherî dema ku ez ji dewlemendî û malbata xwe hatim bêparkirin, û ji bilî baweriya min tiştek ji min re nema.",
+    "Ez bi nexweşiyeke demdirêj û bi êş ketim ku sînorên berxwedana mirovan ceriband.",
+    "Di tevahiya êşên xwe de, min red kir ku li dijî Xudanê xwe gilî bikim, her çend dijmin hewl da ku min bixe bêhêvîtiyê jî.",
+    "Dema ku min di dawiyê de gazî Rebê xwe kir, min dewlemendî nexwest, lê tenê qebûl kir ku tengasî li min xistiye.",
+    "Ji min re hat gotin ku ez bi lingê xwe li erdê bidim, û ji wir kaniyek ava sar derket da ku laşê min qenc bike û tîbûna min bişkîne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Yaqûb",
+        "Pêxember Eyûb",
+        "Pêxember Zekeriya",
+        "Pêxember Yahya",
+        "Pêxember Şûayb"
+      ],
+      "answer": "Pêxember Eyûb"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Çend salên nexweşiya giran û windakirinê",
+        "Tê avêtin nav bîreke kûr",
+        "Ji aliyê masîyekî mezin ve tê daqurtandin",
+        "Bi agir re rû bi rû bi zordarekî re rû bi rû mam",
+        "Rêwîtiyek dirêj di lêgerîna mamosteyekî de"
+      ],
+      "answer": "Çend salên nexweşiya giran û windakirinê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Dara ku derya ji hev veqetand",
+        "Kirasêk ku bêhna malê jê dihat",
+        "Kaniyeke avê ya şîfayî",
+        "Çiyayê ku bû toz",
+        "Şikefteke xewa kûr"
+      ],
+      "answer": "Kaniyeke avê ya şîfayî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bibûna parêzgarê welatekî mezin",
+        "Artêşek ber bi serkeftinê ve dibe",
+        "Vegerandina tenduristî û malbatê",
+        "Avakirina perestgehek pîroz",
+        "Sifreyek ji bihuştê hatî raxistin werdigirim"
+      ],
+      "answer": "Vegerandina tenduristî û malbatê"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

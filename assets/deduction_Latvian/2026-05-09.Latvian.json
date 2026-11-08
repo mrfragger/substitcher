@@ -1,0 +1,61 @@
+{
+  "title": "Izbalējušie labklājības dārzi",
+  "intro": "Zemē, kas bija svētīta ar bagātīgu bagātību, uzplauka kopiena, dzīvojot dievišķās žēlastības zīmju vidū. Viņu labklājība bija liecība par viņu Kunga labvēlību, dāvana, kas bija paredzēta, lai iedvesmotu pateicību un paklausību. Tomēr, neskatoties uz skaidrajām viņu svētību norādēm, pienāca pagrieziena punkts, kas apšaubīja viņu atzinību par viņu milzīgās bagātības un komforta avotu.",
+  "clues": [
+    "Mums tika svētīti divi dārzi, viens labajā pusē un otrs kreisajā pusē, kas bija bagāti ar ražu.",
+    "Mums tika pavēlēts ēst no mūsu Kunga dotā un būt Viņam pateicīgiem par labu zemi un piedodošo Kungu.",
+    "Mēs kļuvām augstprātīgi un novērsāmies no pateicības ceļa, lielīdamies ar savu bagātību un varu.",
+    "Mēs pieprasījām, lai mūsu Kungs palielinātu attālumu starp mūsu ceļojumiem, nicinot Viņa sniegto vieglumu.",
+    "Mūs brīdināja vēstnesis, bet mēs noraidījām vēsti un turpinājām savu neuzmanību.",
+    "Mūsu lielais dambis, kas uzturēja mūsu labklājību, galu galā tika sagrauts, izraisot postošus plūdus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tamudas iedzīvotāji",
+        "Midiānas iedzīvotāji",
+        "Aadas iedzīvotāji",
+        "Lutas iedzīvotāji",
+        "Sabas iedzīvotāji"
+      ],
+      "answer": "Sabas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Bads un sausums",
+        "Varenas armijas iebrukums",
+        "Postoša zemestrīce",
+        "Postoši plūdi no salauzta dambja",
+        "Tirāniska valdnieka apspiešana"
+      ],
+      "answer": "Postoši plūdi no salauzta dambja"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš",
+        "Brīnumaina kamieļu mātīte",
+        "Lielisks dambis",
+        "Stilīga celtne",
+        "Dziļa aka"
+      ],
+      "answer": "Lielisks dambis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mēs tikām pārvērsti par pērtiķiem un cūkām",
+        "Mēs tikām izglābti un pārcēlāmies uz jaunu zemi",
+        "Mēs tikām izklīdināti, un mūsu zeme kļuva neauglīga",
+        "Mēs uzkāpām debesīs",
+        "Mēs uzcēlām jaunu, labklājīgāku valstību"
+      ],
+      "answer": "Mēs tikām izklīdināti, un mūsu zeme kļuva neauglīga"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ing Mapagpasensyang Kaladwa ning Sagradung Bale",
+  "intro": "kareng bulung ning quran, metung a pigura ing linwal ibat keng linya ning metung a dakilang propeta, a mipagkalub bilang regalu keng pangamatua. Ing kaladwa ayni pagmasusian de para keng alang patugut a katutwan ampo ing malalam a papil na keng pamagtatag keng santuaryu na maging sulu ning kasalpantayanan. kabang babasa me ing clues, makiramdam kang masalese keng siwala ibat keng milabas, uling magsalita ya keng mumunang tau.",
+  "clues": [
+    "mebanggit ku keng quran kayabe ning metung pang propeta bilang regalu keng metung a matwang tubud.",
+    "Metung ku kareng adwang anak a mipagkalub keng propetang ita keng kayang tauling banua.",
+    "Pupurian da ku keng Quran uling tutu ku keng amanu ku.",
+    "Bitbit ku ing dangalan ning pangapropeta at mitubud kung tubud.",
+    "Mekiabe ku kang tatang ku king pamagtalakad karing pundasyun ning Sagradung Bale.",
+    "Aganaka da ku anting metung karing mapagpasensya, at ing sagradung bale a telakad mi meging yang lugal ning pamagbalik at seguridad da ring tau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Propeta Ismail",
+        "Propeta Ishaq",
+        "Propeta Yaqub",
+        "Propeta Zakariya",
+        "Propeta Yahya"
+      ],
+      "answer": "Propeta Ismail"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Ing pamagtas kareng pundasyun ning Kaaba kayabe nang Ibrahim",
+        "Miyugse ya keng api",
+        "Melamun ya keng balyena",
+        "Pamanimuna karing Israelita palual king Ehipto",
+        "Pamangawang daung"
+      ],
+      "answer": "Ing pamagtas kareng pundasyun ning Kaaba kayabe nang Ibrahim"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Ing Kaaba",
+        "Bunduk ning Sinai",
+        "Ing Dayatmalat a Malutu",
+        "Ing gintung baka",
+        "Ing Mula ning Eden"
+      ],
+      "answer": "Ing Kaaba"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "mebilang la kareng pasyenti",
+        "Mabibilang la karing taung e mayap",
+        "mebilang ya kareng salamangkero",
+        "mebilang la kareng e maniwala",
+        "mebilang ya kareng magkunwari"
+      ],
+      "answer": "mebilang la kareng pasyenti"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

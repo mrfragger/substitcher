@@ -1,0 +1,61 @@
+{
+  "title": "Ýaşyl meýdanyň syýahatçylary",
+  "intro": "Gadymy döwürde iki adam goňşy ýerleri ösdürip ýetişdirýärdi. Olaryň ýollary biri-biri bilen baglanyşyp, ýürekleri olary düýbünden başga-başga ugurlara alyp barýardy. Biri göni ýoldan ýöräp, beýlekisi bolsa inkär garaňkylygyna düşüpdi. Hasylyň bu iki sakçysynyň syryny açyp bilersiňizmi?",
+  "clues": [
+    "Men bol hasyla, tomaşaçylaryň gözüni gamaşdyrýan bol hasyla eýe boldum.",
+    "Goňşymyň menden has köp baýlygy bardy, ýöne men öz paýymdan has köp olaryň paýyna göz dikýärdim.",
+    "Men ähli zady öz gözegçiligimde jemlemek üçin olaryň ekinlerini doly ýok etmegi teklip etdim.",
+    "Men öz hasylyma hem weýrançylyk getirdim, akmak niýetim bilen ähli zady ýok etdim.",
+    "Ekinlerim gurap, baýlygym bir gijede tozana öwrülende, men ejiz galdym.",
+    "Ahyretde meniň paýym ýokdy we meniň ahyrýetim ýanyp duran ot çukuryna öwrüldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Direlişi we hökümi inkär eden adam",
+        "Adalatly daýhana zulum eden hökümdar",
+        "Minnetdarlygy bolmadyk baý ýer eýesi",
+        "Goňşusynyň ýerini gözläp alan daýhan",
+        "Ýok etmek niýetini guran dönük hyzmatdaş"
+      ],
+      "answer": "Goňşusynyň ýerini gözläp alan daýhan"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ilahi wahy kabul etmegiň synagy",
+        "Baýlyk we sabyrlylyk meselesi",
+        "Dogruçyl adamyň güzeranyny ýok etmek höwesi",
+        "Mirasyň adalatly bölünmegi baradaky buýruk",
+        "Zalymyň zulmuna garşy göreş"
+      ],
+      "answer": "Dogruçyl adamyň güzeranyny ýok etmek höwesi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Jennetiň ýaşyl baglary",
+        "Iki goňşy ekin meýdany",
+        "Weýrançylygyň şaýady bolan daglar",
+        "Mekkäniň mukaddes jaýy",
+        "Bereketli topragyň derýa kenarlary"
+      ],
+      "answer": "Iki goňşy ekin meýdany"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Dogruçyllyk üçin sylag hökmünde ebedi jennet",
+        "Bu durmuşda iki hasylyň hem doly ýok edilmegi",
+        "Ölüm çenli sürgün we gezelenç",
+        "Wagtlaýyn gülläp ösüş, soň bolsa ebedi ot",
+        "Möjüzeli dikeldiş we iki esse baýlyk"
+      ],
+      "answer": "Bu durmuşda iki hasylyň hem doly ýok edilmegi"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

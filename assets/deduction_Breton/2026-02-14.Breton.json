@@ -1,0 +1,61 @@
+{
+  "title": "Saver ar skoilhoù",
+  "intro": "A-dreuz douaroù bras, un den galloudus a grogas gant un heuliad ergerzhadegoù, roet dezhañ aotrouniezh ha binvioù divent. An ene-se en deus kejet gant kumuniezhioù liesseurt hag en em gavet dirak diaesterioù dibar, o lezel ur roud padus war an istor hag ar feiz dre o oberoù hag o furnez, en ur anavezout gwir vammenn o nerzh.",
+  "clues": [
+    "Roet e oa bet din galloud ha binvioù war pep tra, ha heuliet em eus un hent.",
+    "Va beaj a gasas ac’hanon betek lec’h kuzh an heol, e-lec’h ma kavas ur bobl.",
+    "Kejañ a ran gant ur gumuniezh a c'helle kompren a-boan ar gomz, o chom etre daou venez.",
+    "Goulennet e oa bet diganin sevel ur skoilh, n'eo ket evit ma c'hounid personel, met evit en em wareziñ diouzh un nerzh distrujus.",
+    "Disklêriet em eus e teue an nerzh da sevel ar voger vras-se eus Allah, hag e chomo betek ur mare prometet.",
+    "Ma anv, troet alies evel 'An Hini Daou C'horn', a dalvez ma hed a-dreuz an douar pe marteze daou amzervezh disheñvel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Musa",
+        "Ar profed Sulayman",
+        "Dhul-Qarnayn",
+        "Faraon",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "O resev diskuliadur",
+        "En em gavout dirak un tirant",
+        "O sevel ul lestr brav",
+        "O sevel ur skoilh kreñv",
+        "Bezañ lonket gant ur pesk"
+      ],
+      "answer": "O sevel ur skoilh kreñv"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "An Arc'h",
+        "Ar skipailh",
+        "Ar barrenn houarn",
+        "Ar stêr Nil",
+        "An Tron"
+      ],
+      "answer": "Ar barrenn houarn"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Silvidigezh diouzh an dour-beuz",
+        "Dont da vezañ ur rouantelezh vras",
+        "Gwarez evit ur bobl",
+        "Distruj un gwasker",
+        "Furnez padus"
+      ],
+      "answer": "Gwarez evit ur bobl"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nelokāmā autoritāte",
+  "intro": "Senās zemēs savulaik valdīja varena vara, kas pārvaldīja milzīgus resursus un neskaitāmu cilvēku dzīvības. Neskatoties uz skaidrām zīmēm un brīdinājumiem, šis valdnieks izvēlējās nepakļaušanās ceļu, kas noveda pie dziļas konfrontācijas, kas atbalsojās cauri laikam.",
+  "clues": [
+    "Es pieprasīju sev vislielāko varu un autoritāti pār plašu teritoriju.",
+    "Es izaicināju pazemīgu vēstnesi, ko sūtījis visu valstu Kungs.",
+    "Mani cilvēki bija pazīstami ar savu meistarību grandiozu celtņu un upes, kas uzturēja mūsu civilizāciju, būvniecībā.",
+    "Es biju liecinieks daudzām brīnumainām zīmēm, tostarp spieķim, kas pārvērtās par čūsku, un rokai, kas spoži mirdzēja.",
+    "Es atteicos ļaut vergu grupai pamest manu zemi, neskatoties uz dievišķajām pavēlēm.",
+    "Mana aizejošo cilvēku vajāšana mani un manus armijas noveda sadalītas jūras sirdī."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Jusufs",
+        "Karalis Taluts",
+        "Fir'awn (faraons)",
+        "Pravietis Davuds",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (faraons)"
+    },
+    "trial": {
+      "label": "Galvenā konfrontācija",
+      "options": [
+        "Plūdi, kas pārņēma zemi",
+        "Jūras sadalīšana",
+        "Degošais krūms",
+        "Kaabas celtniecība",
+        "Iznīcināšana spēcīga vēja dēļ"
+      ],
+      "answer": "Jūras sadalīšana"
+    },
+    "location": {
+      "label": "Definējošais aspekts",
+      "options": [
+        "Runājošs dzīvnieks",
+        "Personāla zizlis un mirdzoša roka",
+        "Brīnumaina dzimšana",
+        "Lidojošs paklājs",
+        "Majestātisks tronis uz ūdens"
+      ],
+      "answer": "Personāla zizlis un mirdzoša roka"
+    },
+    "outcome": {
+      "label": "Galīgais liktenis",
+      "options": [
+        "Pacēlies debesīs",
+        "Zeme norīja",
+        "Noslīcis jūrā",
+        "Pārveidojies par pērtiķi",
+        "Ņemot vērā milzīgo bagātību un varu"
+      ],
+      "answer": "Noslīcis jūrā"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

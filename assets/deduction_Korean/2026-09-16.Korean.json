@@ -1,0 +1,61 @@
+{
+  "title": "강이 시험한 통치",
+  "intro": "고대 시대에 신의 섭리에 따라 한 지도자가 등장합니다. 이 통치자의 통치는 영광으로 시작된 것이 아니라, 강물 앞에서의 시련으로 시작되었습니다. 강력한 적이 그의 군대에 도전했고, 그 결과는 역사의 흐름을 바꾸어 놓았습니다. 이 인물이 누구인지 짐작할 수 있습니까?",
+  "clues": [
+    "저는 위대한 나라를 이끌도록 선택받았지만, 그 임명은 국민이 아닌 위에서 내려온 것이었습니다.",
+    "신성한 물건이 내 백성에게 반환되었는데, 이는 내 통치를 확증하는 표시였다.",
+    "나는 병사들을 강물로 시험해 보았다. 대부분은 그 물을 마시고 시험에 떨어졌다.",
+    "잘루트라는 강력한 전사가 대군을 이끌고 우리에게 쳐들어왔다.",
+    "우리 부대의 한 젊은이가 오직 믿음 하나만으로 잘루트를 쓰러뜨렸다.",
+    "우리가 승리한 후, 왕국은 결국 그 젊은 영웅에게 맡겨졌습니다."
+  ],
+  "categories": {
+    "identity": {
+      "label": "나는 누구일까요?",
+      "options": [
+        "탈루트(사울)",
+        "잘루트(골리앗)",
+        "예언자 다윗",
+        "예언자 무사",
+        "예언자 하룬"
+      ],
+      "answer": "탈루트(사울)"
+    },
+    "trial": {
+      "label": "시험/이벤트",
+      "options": [
+        "강에서 테스트됨",
+        "활활 타오르는 불길 속으로 던져졌다",
+        "아들을 희생시키라는 명령을 받았다.",
+        "거대한 방주를 만들라는 명령을 받았다.",
+        "거대한 물고기에게 삼켜졌다"
+      ],
+      "answer": "강에서 테스트됨"
+    },
+    "location": {
+      "label": "핵심 요소",
+      "options": [
+        "언약궤",
+        "바다를 가르는 지팡이",
+        "새총과 매끄러운 돌",
+        "황금송아지 우상",
+        "웅장한 왕좌"
+      ],
+      "answer": "언약궤"
+    },
+    "outcome": {
+      "label": "결과",
+      "options": [
+        "왕국은 젊은 챔피언(다우드)에게 넘어갔다.",
+        "군대와 함께 바다에 빠져 죽었다",
+        "맹렬한 화재 속에서 안전하게 구조되었습니다.",
+        "땅속에 보물과 함께 삼켜졌다",
+        "불타는 도랑에서 산 채로 불타 죽었다"
+      ],
+      "answer": "왕국은 젊은 챔피언(다우드)에게 넘어갔다."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

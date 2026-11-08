@@ -1,0 +1,61 @@
+{
+  "title": "Die standhaften Zeugen",
+  "intro": "Stellen Sie sich eine Zeit vor, in der der Glaube auf die Probe gestellt wurde und unerschütterliche Überzeugung zum ultimativen Widerstand wurde. Ihre Aufgabe ist es, die Identität einer Gruppe zu enthüllen, deren Geschichte im Koran erzählt wird – eine Erzählung von tiefem Glauben gegen erdrückende Tyrannei. Entschlüsseln Sie die Hinweise, um herauszufinden, wer diese Menschen waren und welchen außergewöhnlichen Umständen sie ausgesetzt waren.",
+  "clues": [
+    "Wir blieben standhaft in unserer Überzeugung, trotz des immensen Drucks, unserem Glauben abzuschwören.",
+    "Wir wurden von einem mächtigen Herrscher ins Visier genommen, der das Licht des Monotheismus auslöschen wollte.",
+    "Wir wurden Zeugen großer Zeichen und Wunder, doch unsere Unterdrücker blieben ungerührt.",
+    "Wir erduldeten eine grausame Verfolgungsmethode, die darauf abzielte, andere durch Terror zur Unterwerfung zu zwingen.",
+    "Wir wurden in ein loderndes Inferno geworfen, doch unsere Standhaftigkeit brachte uns einen hohen Rang bei Allah ein.",
+    "Unsere Geschichte wird in einer Sure erzählt, die nach Himmelskörpern benannt ist und vor dem Schicksal derer warnt, die Gläubige verfolgen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Das Volk von Thamud",
+        "Die Leute von 'Ad",
+        "Die Leute des Grabens",
+        "Das Volk von Midian",
+        "Das Volk des Elefanten"
+      ],
+      "answer": "Die Leute des Grabens"
+    },
+    "trial": {
+      "label": "Unsere Verfolgung",
+      "options": [
+        "Ertrinken bei einer Überschwemmung",
+        "Von einem sengenden Wind verzehrt werden",
+        "In einen feurigen Graben geworfen werden",
+        "Von der Erde verschluckt werden",
+        "Verwandlung in Affen"
+      ],
+      "answer": "In einen feurigen Graben geworfen werden"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine gewaltige Flut",
+        "Ein starkes Erdbeben",
+        "Ein tiefer, brennender Graben",
+        "Ein mächtiges Idol",
+        "Eine verheerende Dürre"
+      ],
+      "answer": "Ein tiefer, brennender Graben"
+    },
+    "outcome": {
+      "label": "Unser endgültiges Schicksal",
+      "options": [
+        "Ihnen wurde ein Königreich auf Erden gewährt.",
+        "Sie wurden durch ein Wunder gerettet.",
+        "Sie erlangten das Martyrium und ewige Belohnung.",
+        "Sie wurden in eine andere Spezies verwandelt.",
+        "Ihnen wurde immenser Reichtum und Wohlstand zuteil."
+      ],
+      "answer": "Sie erlangten das Martyrium und ewige Belohnung."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

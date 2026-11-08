@@ -1,0 +1,61 @@
+{
+  "title": "Poziv koji je izdržao vijekove",
+  "intro": "Zamislite dušu koja je sama stajala protiv cijele civilizacije, odlučna da ih nepokolebljivom odlučnošću izvede iz zablude. Vekovima je poruka bila odbacivana, ismijavana i odbacivana - ali napor nikada nije prestao. Na kraju je došao veliki obračun i samo je nekolicina uspjela pronaći spas zajedno s ovom nepokolebljivom dušom. Možete li prepoznati ovu figuru iz Kur'ana?",
+  "clues": [
+    "Poslan sam kao upozoritelj narodu izgubljenom na svojim vlastitim putevima.",
+    "Pozvao sam ih da traže oproštaj i da se odvrate od svojih grijeha, ali su se okrenuli.",
+    "Pod božanskom zapovijedi, izgradio sam ogroman brod dok me je moj narod gledao i ismijavao.",
+    "Neprestano sam prizivao svog Gospoda - na kraju se On odazvao, i voda se s neba izlila u bujicama.",
+    "Ukrcao sam se na brod s onima koji su vjerovali kada su se vode potopa podigle iznad kopna.",
+    "Vapio sam jednome ko je ostao, moleći ga da se skloni na planinu, ali dekret je već bio prošao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Nuh",
+        "Poslanik Ibrahim",
+        "Poslanik Musa",
+        "Poslanik Hud",
+        "Poslanik Salih"
+      ],
+      "answer": "Poslanik Nuh"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Izgradnja velike arke i preživljavanje svjetskog potopa",
+        "Biti bačen u plamteću vatru",
+        "Suočavanje s tiranom i njegovim moćnim mađioničarima",
+        "Biti progutan od strane velike ribe",
+        "Svjedočenje ubijanja svete deve"
+      ],
+      "answer": "Izgradnja velike arke i preživljavanje svjetskog potopa"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Masivna drvena arka na bijesnoj poplavnoj vodi",
+        "Sveta dolina sa drevnim kamenim ruševinama",
+        "Duboka pećina u kojoj su drugovi spavali vijekovima",
+        "Utroba divovskog kita u dubinama okeana",
+        "Visoka kamena planina u divljini"
+      ],
+      "answer": "Masivna drvena arka na bijesnoj poplavnoj vodi"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Spašen s vjernicima na brodu",
+        "Spašen neozlijeđen iz vatre po božjoj zapovijedi",
+        "Predvodio je veliki egzodus iz moćnog kraljevstva",
+        "Izbačen iz ribe na neplodnu obalu",
+        "Čudesnim znakom je odveo ljude od zla"
+      ],
+      "answer": "Spašen s vjernicima na brodu"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

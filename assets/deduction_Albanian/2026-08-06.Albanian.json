@@ -1,0 +1,61 @@
+{
+  "title": "Shpirti Vigjilent pranë Bregut të Lumit",
+  "intro": "Një shpirt i ri iu besua një mision sekret, për të vëzhguar nga një distancë e sigurt ndërsa fati zhvillohej mbi ujëra. E padukshme dhe e papritur, kjo figurë do të luante një rol kyç në ndryshimin e rrjedhës së historisë së një kombi.",
+  "clues": [
+    "Nëna ime më dha një detyrë, një detyrë që kërkonte fshehtësi dhe vigjilencë.",
+    "Sytë e mi ndoqën një djep të vogël që lundronte përgjatë rrymës, me zemrën e rënduar nga shqetësimi.",
+    "Kur u gjet nga një grup i papritur, u afrova, plot ankth.",
+    "E pashë dëshpërimin e tyre për një kujdestar dhe ofrova një zgjidhje pa zbuluar të vërtetën.",
+    "Ndërhyrja ime në kohë i solli një shpirt kujdestar atij që kishte më shumë nevojë.",
+    "Në oborret e të fuqishmëve, unë fola: “A të të drejtoj te një familje që do ta ushqejë dhe do të kujdeset për të me kujdes?”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Motra e Musait",
+        "Nëna e Musait",
+        "Gruaja e Faraonit",
+        "Një mami",
+        "Vajza e Shuajbit"
+      ],
+      "answer": "Motra e Musait"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Hedhja e një fëmije në lumë",
+        "Ndarja e detit",
+        "Djegia e viçit",
+        "Ndërtimi i arkës",
+        "Murtaja e karkalecave"
+      ],
+      "answer": "Hedhja e një fëmije në lumë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Lumi",
+        "Shkretëtira",
+        "Mali",
+        "Pallati",
+        "Zjarri"
+      ],
+      "answer": "Lumi"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Ajo e bashkoi fëmijën me nënën e tij",
+        "Ajo shpëtoi veten nga ushtarët e Faraonit",
+        "Ajo u bë një mbretëreshë",
+        "Ajo u dënua për spiunazh",
+        "Ajo i udhëhoqi izraelitët"
+      ],
+      "answer": "Ajo e bashkoi fëmijën me nënën e tij"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

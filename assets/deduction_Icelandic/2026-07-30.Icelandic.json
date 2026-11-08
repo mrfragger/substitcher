@@ -1,0 +1,61 @@
+{
+  "title": "Undarlegir gestir í múruðum borgum",
+  "intro": "Hópur kom að hliðum borgar þar sem íbúar höfðu aldrei þekkt sannleikann. Þeir komu með skilaboð, en íbúarnir urðu fjandsamlegir og hótuðu ofbeldi. Samt sem áður, úr óvæntri átt, reis ein rödd upp til að verja ókunnugana og lagði grunninn að dramatískum atburðarás.",
+  "clues": [
+    "Við komum inn í borg þar sem íbúar voru gagnteknir vantrú.",
+    "Þau horfðu á okkur með tortryggni og sögðu: „Þið eruð bara venjulegar verur eins og við.“",
+    "Við vöruðum þá við, en þeir köstuðu steinum að okkur.",
+    "Maður hljóp þangað frá ysta enda borgarinnar til að staðfesta sannleika okkar.",
+    "Hann sagði við fólk sitt: „Hvers vegna ætti ég ekki að tilbiðja þann sem skapaði mig?“",
+    "Afneitun borgarinnar lauk með einum blástur og þögn ríkti þar sem þeir áður hæddust að."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hverjir erum við?",
+      "options": [
+        "Sendiboðar Ya-Sin",
+        "Lærisveinar Jesaja",
+        "Fólkið í skotgröfinni",
+        "Töframenn Faraós",
+        "Trúaður á Ya-Sin"
+      ],
+      "answer": "Sendiboðar Ya-Sin"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Höfnun og hótun um grýtingu",
+        "Að vera kastað í brennandi eld",
+        "Þolinmæðispróf með týndu barni",
+        "Garður sem varð fyrir eyðileggingu",
+        "Ferðalag um hafið"
+      ],
+      "answer": "Höfnun og hótun um grýtingu"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Ysta enda borgarinnar",
+        "Rauðahafið",
+        "Eldsskurðurinn",
+        "Hellirinn sem skjól",
+        "Fangelsið í Egyptalandi"
+      ],
+      "answer": "Ysta enda borgarinnar"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Borgin var eyðilögð með einu ópi",
+        "Sjórinn klofnaði og drukknaði hernum",
+        "Eldurinn varð kaldur og öruggur",
+        "Garðurinn var eyddur af himneskum eldi",
+        "Hvalurinn skilaði manninum aftur upp á land"
+      ],
+      "answer": "Borgin var eyðilögð með einu ópi"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

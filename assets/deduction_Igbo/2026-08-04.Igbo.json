@@ -1,0 +1,61 @@
+{
+  "title": "Echo Site n'Ugwu",
+  "intro": "Chee echiche banyere ndagwurugwu ebe a na-egwupụta ebe obibi site n'ugwu, ikuku na-echetakwa ịdọ aka ná ntị a na-anaghị ege ntị. Ndị mmadụ bi n'ebe a n'oge gara aga, ndị a gọziri agọzi ma na-enupụ isi, ruo mgbe ihe ịrịba ama pụtara site n'oké nkume ahụ ha tụkwasịrị obi.",
+  "clues": [
+    "Anyị bụ ndị na-akpụ ụlọ ndị dị nchebe site n'ugwu, na-enwe mmetụta nke ịnọ n'udo n'ebe obibi anyị dị oké nkume.",
+    "Anyị bi n'ala dị larịị na nkume, e ji ubi na isi iyi gọzie anyị.",
+    "Onye ozi si n'etiti anyị bịara, na-akpọ anyị ka anyị hapụ chi ụgha anyị wee fee otu onye Okike ezi ofufe.",
+    "Anyị ji mpako tinye ọnọdụ maka ikwere ihe: ihe ịrịba ama pụrụ iche nke ga-apụta site na nkume ndị anyị kpụrụ.",
+    "Mgbe nne kamel e kwere ná nkwa pụtara site n'okwute ahụ, ihe ịrịba ama doro anya, ndị isi anyị ka jụrụ ma gbuo ya n'agbanyeghị ịdọ aka ná ntị nke mbibi na-abịa.",
+    "Ụbọchị atọ ka ihe anyị mere gasịrị, oké ifufe dara n'ime ndagwurugwu ahụ, anyị wee ghọọ mkpọmkpọ ebe dara ada, ebe obibi anyị bụ ili anyị."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka anyị bụ?",
+      "options": [
+        "Ndị Ad",
+        "Ndị Temọd",
+        "Ndị Midian",
+        "Ndị bi n'Ugbo ahụ",
+        "Ndị bi n'ọgba ahụ"
+      ],
+      "answer": "Ndị Temọd"
+    },
+    "trial": {
+      "label": "Nnwale Anyị/Ihe Omume Kasị Ukwuu",
+      "options": [
+        "Ịkụda nne kamel nke Allah",
+        "Ofufe nke nwa ehi ọlaedo",
+        "Mmebi Ụbọchị Izu Ike",
+        "Iwu ụlọ elu gaa eluigwe",
+        "Ogbugbu ndị amụma"
+      ],
+      "answer": "Ịkụda nne kamel nke Allah"
+    },
+    "location": {
+      "label": "Isi ihe dị mkpa n'akụkọ anyị",
+      "options": [
+        "Nwanne kamel nke Allah",
+        "Ndị ọrụ nke Musa",
+        "Ụgbọ Noa",
+        "Aka ọcha nke Mozis",
+        "Nnụnụ nke ¿Isa"
+      ],
+      "answer": "Nwanne kamel nke Allah"
+    },
+    "outcome": {
+      "label": "Ihe si na ya pụta",
+      "options": [
+        "Mbibi site na mgbawa na-adachi ntị",
+        "Mmiri ozuzo nke nkume si n'eluigwe",
+        "Iju mmiri nke kpuchiri ụwa",
+        "Ifufe dị ike nke chụpụrụ anyị",
+        "Ụwa na-elo anyị"
+      ],
+      "answer": "Mbibi site na mgbawa na-adachi ntị"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

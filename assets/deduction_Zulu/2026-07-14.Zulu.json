@@ -1,0 +1,61 @@
+{
+  "title": "Imiphefumulo Yomsele",
+  "intro": "Ubuyela enkathini lapho umbusi ononya wayefuna ukuzinikela okuphelele konkulunkulu bamanga. Umphakathi omncane wemiphefumulo ezinikele wenqaba, futhi wabhekana nesijeziso esinzima kangangokuthi waba yisiqalekiso saphakade. Indaba yabo izwakala kulo lonke iQuran njengobufakazi bokholo olungantengantengi. Ungalibona leli qembu eliqinile?",
+  "clues": [
+    "Sasihlala ezweni elingaphansi kobushiqela bombusi owayefuna ukukhulekelwa konkulunkulu bamanga",
+    "Umphakathi wethu wabhekana nokushushiswa okunzima ngenxa yokukholelwa kwethu ku-Allah kuphela",
+    "Umbusi wayala ukuba kumbiwe umsele omkhulu bese kushiswa ngamalangabi avuthayo",
+    "Ngenxa yokuthi senqaba ukulahla ukholo lwethu, saphonswa kulowo mgodi ovuthayo ngamunye ngamunye",
+    "Indaba yethu yaba yingxenye yeQuran, futhi labo ababesishushisa baqalekiswa phakade.",
+    "I-surah eqopha usizi lwethu iqanjwe ngezibonakaliso ezinkulu zesibhakabhaka"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abangane Bomsele (u-Ashab al-Ukhdud)",
+        "Abantu Bomhume (Ashab al-Kahf)",
+        "Abantu beSabatha",
+        "Abantu base-A'ad",
+        "Abantu baseThamud"
+      ],
+      "answer": "Abangane Bomsele (u-Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Isivivinyo Sethu",
+      "options": [
+        "Ukushiswa uphila emgodini ovuthayo",
+        "Ukuvalwa emhumeni iminyaka eminingi",
+        "Ukudoba ngosuku olungcwele lokuphumula",
+        "Ukubhujiswa ngumoya ovunguzayo",
+        "Ukubulala ikamela elingcwele eliyinsikazi"
+      ],
+      "answer": "Ukushiswa uphila emgodini ovuthayo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umsele womlilo ovuthayo",
+        "Umhume ofihliwe onenja ethembekile",
+        "Izinsika ezinde zomuzi wasendulo owawubhujisiwe",
+        "Izindlu zasezintabeni eziqoshwe emaweni amatshe",
+        "Ithafa elivulekile elikhukhulwe yimimoya enamandla"
+      ],
+      "answer": "Umsele womlilo ovuthayo"
+    },
+    "outcome": {
+      "label": "Umphumela Wethu",
+      "options": [
+        "Sabulawa ukholo futhi abashushisi baqalekiswa phakade",
+        "Savuka ngemva kokulala iminyaka engu-309",
+        "Saguqulwa saba yizinkawu ngenxa yokuphambuka kwethu",
+        "Umoya omkhulu ovunguzayo wasibhubhisa sonke",
+        "Ukukhala okukodwa okubhubhisayo kwaphazamisa ukuphila kwethu"
+      ],
+      "answer": "Sabulawa ukholo futhi abashushisi baqalekiswa phakade"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

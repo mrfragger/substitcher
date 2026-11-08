@@ -1,0 +1,61 @@
+{
+  "title": "Barci Ya Wuce Lokaci",
+  "intro": "Ka yi tunanin lokacin da aka yi shiru da gaskiya aka kuma farautar masu bi. Wata ƙaramar ƙungiya ta zaɓi ja da baya maimakon mika wuya, ta nemi mafaka a wurare mafi ban mamaki - wuri wanda zai zama wurin hutawarsu tsawon ƙarni da yawa ba tare da ƙirgawa ba. Lokacin da suka farka daga ƙarshe, duniya ta canza a kusa da su. Su waye waɗannan rayuka masu barci?",
+  "clues": [
+    "Mu matasa ne da ke zaune a wani tsohon birni.",
+    "Al'ummarmu ta nemi mu yi ibada tare da su, amma muka ƙi.",
+    "Mun gudu daga birnin don neman mafaka daga waɗanda ke adawa da imaninmu.",
+    "Wani abokin tarayya mai ƙafafu huɗu ya tsaya a ƙofar maɓoyarmu.",
+    "Allah ya sa mun yi barci na tsawon shekaru ɗari uku da tara.",
+    "Da muka farka daga barci, birninmu da a da ake tsananta mana ya rungumi imani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Ashab al-Kahf (Mutanen Kogo)",
+        "Ashab al-Fil (Rundunar Giwa)",
+        "Ashab al-Ukhdud (Asahabban Madatsar Ruwa)",
+        "Hawariyyun (Almajiran Isa)",
+        "Yajuj wa Majuj (Gog and Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Mutanen Kogo)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Mun koma cikin kogo muka yi barci tsawon ƙarni da yawa",
+        "An cece mu daga wuta mai ci",
+        "Wani babban kifi ya haɗiye mu",
+        "An jarabce mu da raƙumi mai ban mamaki",
+        "An ba mu alamomi guda tara bayyanannu"
+      ],
+      "answer": "Mun koma cikin kogo muka yi barci tsawon ƙarni da yawa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kogo mai zurfi a cikin tsaunuka",
+        "Jirgin ruwa a kan teku mai buɗewa",
+        "Babban gini da ya kai sama",
+        "Lambun da aka raba tsakanin abokan hamayya biyu",
+        "Katanga ta ƙarfe da tagulla"
+      ],
+      "answer": "Kogo mai zurfi a cikin tsaunuka"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Mun farka muka ga birninmu ya koma ga imani",
+        "Wuta mai ci ta yi sanyi kuma ta kasance cikin kwanciyar hankali",
+        "An nutsar da rundunar abokan gaba a cikin teku",
+        "Tsuntsaye ɗauke da duwatsu sun halaka abokin gaba",
+        "Wani babban kifi ya sallame mu zuwa bakin teku"
+      ],
+      "answer": "Mun farka muka ga birninmu ya koma ga imani"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

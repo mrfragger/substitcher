@@ -1,0 +1,61 @@
+{
+  "title": "Wagta ynanýan şäher",
+  "intro": "Ylahy rehimdarlygyň ýyl ýazgylarynda, öwrülişik nokady umumy düşünje pursady bolan bir jemgyýet bar. Siz olaryň taryhyny — duýduryş, toba we olary beýleki halklaryň ykbalyndan tapawutlandyrýan ýeňillik hekaýasyny açmaga taýýarlanýarsyňyz.",
+  "clues": [
+    "Biz pygamber iberilen kowumdyk we ilki onuň çagyryşyndan ýüz öwürdik.",
+    "Ýakynlaşyp gelýän jezanyň alamatlary aýdyňlaşanda, biz onuň duýduryşynyň hakykatdygyna düşündik.",
+    "Biz tüýs ýürekden toba edip, Rebbimize ýüzlendik we imanymyz kabul edildi.",
+    "Bize berlen jeza ynanjymyz sebäpli aýryldy.",
+    "Biziň hekaýamyz jezany görenden soň iman eden şäherleriň arasynda istisna hökmünde görkezilýär.",
+    "Biz kit tarapyndan ýuwulan pygamberiň kowmydyk, ýöne heläkçilikden halas bolduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ýunus halky",
+        "Nuh pygamberiň halky",
+        "Hud halky",
+        "Salihiň halky",
+        "Lut pygamberiň halky"
+      ],
+      "answer": "Ýunus halky"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Weýran ediji sil",
+        "Güýçli ýel tupany",
+        "Öňüni alan utanç jezasy golaýlap gelýärdi",
+        "Ýer olary ýuwudýar",
+        "Daş ýagyşy"
+      ],
+      "answer": "Öňüni alan utanç jezasy golaýlap gelýärdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Gämi",
+        "Däne",
+        "Ýüz müň ilatly şäher",
+        "Musanyň taýagy",
+        "Karunyň hazynasy"
+      ],
+      "answer": "Ýüz müň ilatly şäher"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Olar düýbünden ýok edildi",
+        "Olara belli bir wagtlap lezzet berildi",
+        "Olar maýmynlara öwrüldiler",
+        "Olar suwa gark boldular",
+        "Olar ýer tarapyndan ýuwutyldy"
+      ],
+      "answer": "Olara belli bir wagtlap lezzet berildi"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

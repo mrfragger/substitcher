@@ -1,0 +1,61 @@
+{
+  "title": "Kararlı Şahit",
+  "intro": "Büyük bir zulüm karşısında bir topluluğun sarsılmaz azmini ortaya koyan, derin bir anlatı gözler önüne seriliyor. Onların öyküsü, en büyük fedakarlıkla karşı karşıya kalındığında bile inancın bir kanıtı niteliğinde. Bu öykü, ezici baskıya karşı inancın gücünü bize hatırlatıyor.",
+  "clues": [
+    "Biz, zulme karşı uyarıda bulunan kısa ama güçlü bir surede öyküsü anlatılan bir gruptuk.",
+    "Biz, tek Tanrı'ya, tahtın sahibine, övgüye layık olana olan inancımızı ortadan kaldırmak isteyen bir hükümdarla karşı karşıyaydık.",
+    "Yeraltına kazılmış devasa bir çukurun da dahil olduğu korkunç bir sınava tabi tutulduk.",
+    "İnananların, aralarında bebeklerin de bulunduğu kişilerin, o çukurun içindeki şiddetli bir cehennem ateşine atıldıklarını izledik.",
+    "Bize eziyet edenler yaptıkları yüzünden lanetlendi, biz ise metanetimiz için muazzam bir ödüle layık görüldük.",
+    "Hükümdarın inancımızı yok etme girişimi, her şeye şahit olan Allah katında şehitler olarak yerimizi daha da sağlamlaştırdı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Thamud Halkı",
+        "'Ad' halkı",
+        "Hendek Halkı",
+        "Lut halkı",
+        "Fil Halkı"
+      ],
+      "answer": "Hendek Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Büyük Tufan",
+        "Yanan Çalı",
+        "Denizde Boğulma",
+        "Ateş Çukuru",
+        "Deprem"
+      ],
+      "answer": "Ateş Çukuru"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Hendek",
+        "Dağ",
+        "Kuyu"
+      ],
+      "answer": "Hendek"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Onlara bir krallık verildi.",
+        "Bir mucize sayesinde kurtulduk",
+        "Şehitliğe ve cennete ulaştı.",
+        "Çeşitli topraklara dağılmışlardı.",
+        "Onlara muazzam bir servet verildi."
+      ],
+      "answer": "Şehitliğe ve cennete ulaştı."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

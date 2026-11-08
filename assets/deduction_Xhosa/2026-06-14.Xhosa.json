@@ -1,0 +1,61 @@
+{
+  "title": "Ilangatye Elatyhila Ilifa",
+  "intro": "Kwiingxelo zembali zokuchasana, kumi umntu ogama lakhe laba sisilumkiso kude kube sekupheleni kwexesha. Lo mntu wakhetha ubutshaba kunolwalamano, ukungathobeli kunokuzithoba, waza wema ngokuchasene nobizo lwenceba. Mamela ngononophelo amazwi esibhengezo samandulo njengoko sityhila ubuwena balo mphefumlo udumileyo.",
+  "clues": [
+    "Ndazalelwa kwisizwe esinye nesithunywa sokugqibela sika-Allah, kodwa ndandibachasa kuzo zonke iindlela.",
+    "Igama lam lalithetha intsingiselo—igama elithetha ‘uyise welangatye,’ igama elaliza kubonisa ikamva lam laphakade.",
+    "Ndabangela umonakalo kumphathi wenyaniso, kwanentsapho yam yajoyina eli phulo lenkohlakalo.",
+    "Ndisebenzise ubutyebi bam kunye nempembelelo yam ukuze ndithule ubizo oluya ku-Allah, ndikholelwa ukuba imali inokucima ukukhanya kobuthixo.",
+    "UAllah undinike isahluko esipheleleyo—isahluko esifutshane kangangokuba sinokufundwa ngemizuzwana, kodwa ubunzima baso buhlala bukho kude kube yiMini yoMgwebo.",
+    "Umlingane wam kwiLizwe Elizayo uhamba emva kwam, ebotshelelwe ngentambo yefayibha entanyeni, ephethe kanye ameva awayewasasaza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "U-Abu Lahab",
+        "U-Abu Jahl",
+        "UWaraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "U-Abu Lahab"
+    },
+    "trial": {
+      "label": "Ukuchaza ingxabano",
+      "options": [
+        "Ukukhokela inkcaso nxamnye noMprofeti eMecca",
+        "Ukufudukela e-Abyssinia ukuze ubalekele intshutshiso",
+        "Ukwakha iKaaba noMprofeti uIbrahim",
+        "Ukwamkela ubuSilamsi ebhedini yokufa",
+        "Ukuqulunqa iSivumelwano sikaHudaybiyyah"
+      ],
+      "answer": "Ukukhokela inkcaso nxamnye noMprofeti eMecca"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umfazi owayephethe ameva neenkuni",
+        "Intonga eyaguquka yaba yinyoka",
+        "Umsesane onetywina likaSolomon",
+        "Ithole legolide elinqulwa ngabantu",
+        "Umthombo okhupha amanzi"
+      ],
+      "answer": "Umfazi owayephethe ameva neenkuni"
+    },
+    "outcome": {
+      "label": "Uvavanyo lokugqibela",
+      "options": [
+        "I-surah yonke ityhile ukuba ivakalisa intshabalalo epheleleyo",
+        "Waba yinkokeli yoluntu lwamaSilamsi",
+        "Ndafumana uxolelo ngexesha lokufa",
+        "Wakha i-mosque enkulu eMedina",
+        "Wavuswa phakathi kwamalungisa"
+      ],
+      "answer": "I-surah yonke ityhile ukuba ivakalisa intshabalalo epheleleyo"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nationen som trotsade den naturliga ordningen",
+  "intro": "I en region vars historia ekar genom tiderna levde ett samhälle i öppet uppror mot renlighetens lagar. Deras gärningar var så exempellösa att de ihågkomms som en varning för hela mänskligheten. Vilka var dessa själar, och vilket öde drabbade dem?",
+  "clues": [
+    "Vi bodde i ett land längs en väg som resenärer ofta passerade, men vi gjorde deras resa farlig.",
+    "Vi begick sådana oanständigheter som ingen i världen någonsin hade gjort förut.",
+    "En budbärare bland oss ​​uppmanade oss att överge våra vägar, men vi avvisade honom och krävde straffet om han talade sanning.",
+    "När stiliga gäster kom till vår stad, försökte vi anfalla dem, utan att veta att de var budbärare av förödelse.",
+    "Vi varnades för ett fruktansvärt straff om vi inte avstod, men vi hånade varningen och förblev i vår synd.",
+    "Ett regn av stenar från himlen föll över oss, och våra hem välte omkull och lämnade inte ett spår förutom ett tecken för dem som reflekterar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Luts folk",
+        "Folket i Thamud",
+        "Folket i A'ad",
+        "Människor i Madyan",
+        "Sabas folk"
+      ],
+      "answer": "Luts folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Begick exempellös omoral och blockerade vägar",
+        "Dyrkade en guldkalv",
+        "Dödade den heliga honkamelen",
+        "Fuskade i handeln och förringade folket",
+        "Byggde ett högt torn för att utmana himlen"
+      ],
+      "answer": "Begick exempellös omoral och blockerade vägar"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Änglar förklädda till stiliga gäster",
+        "En honkamel som kommer ut ur en klippa",
+        "En stav som förvandlas till en orm",
+        "En båt byggd på ett berg",
+        "En eld som blev sval och fridfull"
+      ],
+      "answer": "Änglar förklädda till stiliga gäster"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förstört av ett regn av stenar från himlen",
+        "Slukad av jorden",
+        "Drunknade i en stor översvämning",
+        "Träffad av en skrikande smäll",
+        "Förvandlades till apor"
+      ],
+      "answer": "Förstört av ett regn av stenar från himlen"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

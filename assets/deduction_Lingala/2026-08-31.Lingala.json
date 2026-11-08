@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo ya Kimya ya Lobwaku",
+  "intro": "Bozonga sima na tango na bato ya nguya oyo kala bazwaki likamwisi ya bomoi lokola momekano. Lolendo mpe motó makasi ekangaki nsuka na bango. Okoki kolanda lisolo yango mpe koyeba makambo oyo esalemaki na mbongwana wana ya kokamwa?",
+  "clues": [
+    "Natindamaki lokola momekano ya bonzambe epai ya bato ya nguya oyo bayebani mpo na makasi mpe koboya na bango.",
+    "Nazalaki likamwisi moko ya kokamwa —bato lokola ngai babimaki naino te kati na bango.",
+    "Nazalaki kokabola mai ya komɛla na libulu moko elongo na bato na ngai na mikolo oyo ezalaki kolandana.",
+    "Bakebisaki bango ete mabe nyonso oyo bakosala ngai ekopesa ngai etumbu nokinoki.",
+    "Bato oyo bazalaki na mpiko mingi kati na bango batyaki likebi te na likebisi yango mpe bakangaki ngai na makolo.",
+    "Nsima ya liwa na ngai, kolela moko ya nkake oyo eutaki likoló ebebisaki bato na ngai mobimba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Kamela-mwasi ya Salih",
+        "Ngombe ya Musa",
+        "Masuwa ya Nuh",
+        "Ba Staff ya Musa",
+        "Kiti ya bokonzi ya Bilqis"
+      ],
+      "answer": "Kamela-mwasi ya Salih"
+    },
+    "trial": {
+      "label": "Destin na Ngai",
+      "options": [
+        "Hamstrung mpe kobomama",
+        "Babomaki bango lokola mbeka",
+        "Ebongwanaki na nyoka",
+        "Ebatelamaki na nzela ya mpela monene",
+        "Bamemaki nokinoki na ngambo mosusu ya bokonzi moko"
+      ],
+      "answer": "Hamstrung mpe kobomama"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Libulu ya mai",
+        "Etanda ya libanga",
+        "Nzete moko oyo ezali kozika",
+        "Sanduku moko ya mabaya",
+        "Kiti ya bokonzi ya wolo mpe ya palata"
+      ],
+      "answer": "Libulu ya mai"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ebebisami na koganga moko",
+        "Azindaki na mpela monene",
+        "Ezikisami na mbula ya mabanga",
+        "Ebukanaki na mopɛpɛ moko ya makasi",
+        "Emelami na mabele"
+      ],
+      "answer": "Ebebisami na koganga moko"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

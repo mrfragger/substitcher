@@ -1,0 +1,61 @@
+{
+  "title": "Nositeľ vážneho posolstva",
+  "intro": "Spravodlivá duša bola poslaná, aby viedla ľud stratený v bezprecedentných priestupkoch. Tento posol stál pevne a priniesol prísne varovanie pred skazenosťou, ktorá sa vzpierala prirodzenému poriadku. Napriek úprimným prosbám sa komunita ponárala ešte hlbšie do temnoty a pripravovala pôdu pre božské zúčtovanie, aké sa nepodobá žiadnemu inému. Viete identifikovať tohto neochvejného Alahovho služobníka?",
+  "clues": [
+    "Bol som príbuzný iného veľkého proroka a s ním som sa presťahoval, čím som zanechal našu vlasť.",
+    "Bol som poslaný k ľudu, ktorého zlo bolo jedinečné, priestupok, aký pred nimi žiadne stvorenie nespáchalo.",
+    "Moja vlastná domácnosť bola rozdelená; blízky člen rodiny sa tajne postavil na stranu neveriacich.",
+    "Anjeli v podobe pekných mladých mužov prišli ku mne domov ako hostia, čo mi spôsobilo veľké obavy o ich bezpečnosť.",
+    "V zúfalej snahe odvrátiť ich od ich hanebných skutkov som ponúkol svojmu ľudu za manželku vlastné dcéry.",
+    "Môj ľud zničil hrozný krik a dážď kameňov z pálenej hliny, zatiaľ čo ja a moja rodina, okrem jedného človeka, sme boli zachránení tým, že sme odišli uprostred noci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Šu'ayb",
+        "Prorok Sálih",
+        "Prorok Lut",
+        "Prorok Hud",
+        "Prorok Nuh"
+      ],
+      "answer": "Prorok Lut"
+    },
+    "trial": {
+      "label": "Aká bola moja primárna skúška?",
+      "options": [
+        "Presviedčať tyranského kráľa, aby ma neupálil v ohni.",
+        "Vyrovnávanie sa so žiarlivosťou mojich bratov a následné hodenie do studne.",
+        "Konfrontácia s ľuďmi, ktorí sa dopúšťajú bezprecedentnej sexuálnej nemravnosti.",
+        "Vediem svoj ľud z otroctva mocného faraóna.",
+        "Postavba obrovskej lode na záchranu veriacich pred veľkou potopou."
+      ],
+      "answer": "Konfrontácia s ľuďmi, ktorí sa dopúšťajú bezprecedentnej sexuálnej nemravnosti."
+    },
+    "location": {
+      "label": "Aké bolo miesto mojej misie?",
+      "options": [
+        "Mesto Madyan",
+        "Starobylé mesto Iram",
+        "Egyptská krajina pod faraónom",
+        "Mestá Sodoma a Gomora",
+        "Mesto Ninive"
+      ],
+      "answer": "Mestá Sodoma a Gomora"
+    },
+    "outcome": {
+      "label": "Aký bol konečný výsledok?",
+      "options": [
+        "Mestá boli zrútené naruby a zasypané kameňmi z pálenej hliny.",
+        "Môj ľud pohltila zem spolu s ich bohatým vodcom.",
+        "Môj ľud ničil prudký vietor sedem nocí a osem dní.",
+        "Môj ľud sužovali mory, ako sú kobylky, vši a žaby.",
+        "Po tom, čo som opustil svoju misiu, ma prehltla obrovská ryba."
+      ],
+      "answer": "Mestá boli zrútené naruby a zasypané kameňmi z pálenej hliny."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

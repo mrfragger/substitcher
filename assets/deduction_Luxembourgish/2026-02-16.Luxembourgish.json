@@ -1,0 +1,61 @@
+{
+  "title": "D'Fuerderung vun der absoluter Autoritéit",
+  "intro": "An der Antikitéit huet eng mächteg Persoun sech iwwer e grousst Land a seng Awunner erholl. D'Herrschaft vun dëser Figur war geprägt vun immensem Stolz an enger déiwer Erausfuerderung vun der göttlecher Autoritéit. Maacht Iech prett fir d'Identitéit vun enger Séil ze entdecken, där hiert schlussendlecht Schicksal eng dauerhaft Lektioun fir all Generatiounen gouf.",
+  "clues": [
+    "Ech hat d'Herrschaft iwwer e mächtegt Räich, wou mäi Wuert Gesetz war.",
+    "Ech hunn mech selwer als iewescht Gottheet erkläert a vun allen ënner menger Herrschaft d'Veréierung gefuerdert.",
+    "Ech hunn eng spezifesch Gemeinschaft ënnerdréckt, se versklavt an d'Ermuerdung vun hire jonke Männercher befaol.",
+    "Ech gouf ëmmer erëm vun engem demütegen Bote vu Gott konfrontéiert, deen kloer Wonner viru mir a menge Magier gemaach huet.",
+    "Ech hunn d'Wourecht stur verworf, andeems ech de Messenger vun Zaubererei beschëllegt hunn a geplangt hunn, hien a seng Unhänger ze zerstéieren.",
+    "Meng ganz Arméi an ech goufe vum Mier verschléckt, wéi mir onermiddlech déi verfollegt hunn, déi aus mengem Grëff befreit gi waren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Déi Grouss Iwwerschwemmung",
+        "Dat brennend Feier",
+        "D'Ertrénkung vum Ënnerdrécker",
+        "D'Zerstéierung duerch de Wand",
+        "D'Äerdbiewen vum Ongleewegkeet"
+      ],
+      "answer": "D'Ertrénkung vum Ënnerdrécker"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark vum Noah",
+        "De Staff vum Moses",
+        "De gëllene Idol",
+        "De Brunn vum Zamzam",
+        "Den Troun vum Bilqis"
+      ],
+      "answer": "De Staff vum Moses"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "E grousst Kinnekräich geschenkt",
+        "Kierper als Zeeche konservéiert",
+        "Verzeihung no der Reue",
+        "Zum Prophet erhuewen",
+        "Säi Vollek ass fromm ginn"
+      ],
+      "answer": "Kierper als Zeeche konservéiert"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

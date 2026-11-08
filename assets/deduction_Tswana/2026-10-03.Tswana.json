@@ -1,0 +1,61 @@
+{
+  "title": "Go Disa kwa Kgorong e e Tukang",
+  "intro": "Boidiidi jo bo didimetseng, jo bo boitshegang bo eme bo disitse mo serepoding se se boitshegang, ga bo ke bo latswa dijo, dino kgotsa boikhutso. E re ka di dirilwe ka selo se se sa tshwaneng le letsopa la batho, di emetse boikaelelo bo le bongwe fela jo bo boitshegang—mme ga di ise di ko di tlole le fa e le taelo e le nngwe fela e e tswang kwa Moreneng wa tsone.",
+  "clues": [
+    "Re ditshedi tse di sa tshwaneng le batho, re bopilwe ka selo se se sa jeng, se se sa nweng kgotsa se se sa lapeng.",
+    "Palo ya rona e e tlhomameng e itsiwe le go senolwa mo Bukeng—ga re batho ba ba senang palo kgotsa bontsintsi.",
+    "Ga re ise re ko re tlole Mmopi wa rona, e bile ga re ise re ko re bue pele ga re laelwa.",
+    "Fa Letsatsi le goroga, baheitane ba tla kgweediwa kwa go rona ka ditlhopha, mme re tla ba bulela dikgoro.",
+    "Re tla ba botsa jaana: ‘A ga go a tla barongwa ba mofuta wa lona kwa go wena, ba go tlhagisa ka Letsatsi leno?’",
+    "Re disa lefelo le go senang moya ope o o kileng wa tswa mo go lone—lefelo le le tukang la kotlhao e e sa khutleng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batlhokomedi ba Molelo wa Dihele (Zabaniyah)",
+        "Batshodi ba Setulo sa Bogosi sa ga Allah",
+        "Baengele ba ba rekotang (Kiraman Katibin)",
+        "Baengele ba Loso",
+        "Balebedi ba Dikgoro tsa Paradaise"
+      ],
+      "answer": "Batlhokomedi ba Molelo wa Dihele (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Tiro ya rona ya konokono",
+      "options": [
+        "Go disa dikgoro tsa Molelo wa Dihele",
+        "Go kwala tiro nngwe le nngwe ya motho",
+        "Go Rwala Setulo sa Bogosi sa ga Allah",
+        "Go tsaya mewa ya baswi",
+        "Go laela diphefo le maru"
+      ],
+      "answer": "Go disa dikgoro tsa Molelo wa Dihele"
+    },
+    "location": {
+      "label": "Re Disa Eng?",
+      "options": [
+        "Molelo wa Dihele",
+        "Setulo sa Bogosi sa ga Allah",
+        "Memeno ya Ditiro",
+        "Dinoka tsa Paradaese",
+        "Dithaba tsa Lefatshe"
+      ],
+      "answer": "Molelo wa Dihele"
+    },
+    "outcome": {
+      "label": "Phelelo ya Ba ba mo Nageng ya Rona",
+      "options": [
+        "Ba tla nna ka bosakhutleng mme ga ba kitla ba tsamaya",
+        "Ba tla feleletsa ba itshwaretswe le go gololwa",
+        "Di tla phepafadiwa fa nako e ntse e tsamaya",
+        "Di tla fetolwa go nna dipopego tse dingwe",
+        "Ba tla refosana fa gare ga Dihele le Paradaise"
+      ],
+      "answer": "Ba tla nna ka bosakhutleng mme ga ba kitla ba tsamaya"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

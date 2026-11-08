@@ -1,0 +1,61 @@
+{
+  "title": "Alƙawari da aka Faɗa Game da Gashin Gashi",
+  "intro": "Kana tsaye kusa da wutar hamada yayin da garwashinta ke yaɗuwa a hankali. Baƙi sun iso don ganawa a cikin shiru, sai saƙo guda ya buɗe labarin alkawari, mamaki, da kuma makomar da ba a cika ba tukuna.",
+  "clues": [
+    "Mun ketare tazara don isa ga wani amintaccen bawa a cikin hamada.",
+    "Mun nemi a baza garwashin wuta domin shirya wuta.",
+    "Mun yi magana da wani wanda ya yi kira ga harshen wuta don a kwantar da hankali da kuma aminci.",
+    "Mun kawo labarin jariri ga wanda ya wuce shekarun haihuwa.",
+    "Mun sanya wa yaron da aka yi wa alkawari suna Ishaku.",
+    "Mun yi wa Ibrahim albishir da ɗa, kuma labarin mai ban mamaki ya bar Ibrahim yana dariya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mala'iku da Suka Isa ga Ibrahim da Bisharar Ishaku",
+        "Mala'ikun da Suka Yi Gargaɗi ga Lutu",
+        "Mala'iku Masu Ɗauke da Al'arshi",
+        "Mala'ikun Jahannama",
+        "An Aika Mala'iku Zuwa Ga Nuhu"
+      ],
+      "answer": "Mala'iku da Suka Isa ga Ibrahim da Bisharar Ishaku"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Yana yi wa Ibrahim bushara da haihuwar Ishaku",
+        "Gargaɗi ga Lutu kafin a hukunta mutanensa",
+        "Sanarwa da haihuwar Yahya ga Zakariyya",
+        "Ɗauki Al'arshi a Ranar Hisabi",
+        "Sanar da haihuwar Annabi Isa ga Maryamu"
+      ],
+      "answer": "Yana yi wa Ibrahim bushara da haihuwar Ishaku"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Wuta da aka shirya daga garwashin wuta",
+        "Jirgin ruwa yana shawagi a kan ruwan ambaliya",
+        "Kogo da aka rufe da dutse mai birgima",
+        "Dutsen yumbu mai tauri da ruwan gishiri",
+        "Tsani da ke miƙewa zuwa sama"
+      ],
+      "answer": "Wuta da aka shirya daga garwashin wuta"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Albishir na ɗa mai suna Ishaku",
+        "Albishir game da ɗa mai suna Yahya",
+        "Zaɓen Talut a matsayin mai mulki a kan Bani Isra'ila",
+        "Gargaɗi kafin hukuncin mutanen Lutu",
+        "Umarni a gina jirgi kafin Ruwan Tsufana"
+      ],
+      "answer": "Albishir na ɗa mai suna Ishaku"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

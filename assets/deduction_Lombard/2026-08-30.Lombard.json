@@ -1,0 +1,61 @@
+{
+  "title": "El spirit fidà de la rivelaziun",
+  "intro": "In di regn invisibil, un vesser de lüs pura se mœuf cun precisiun, eseguend ogni cumand senza esitaziun. Chesta figüra g’ha parlà ai servitur scelt, g’ha purtà parolles de guida e g’ha vist el svilupp di decret divin in di secul. Chi l’è chesta anima onorada?",
+  "clues": [
+    "Son un vesser de lux pura, cread de la lux, e g’ho mai disubbidid a un sol comand del me Signor.",
+    "Me mœvi intra el ciel e la terra, discendend cunt i decret del Più Misericordius.",
+    "Mi sun stà mandà a una nobil vergin in del santuari, per annuncià-la un fiœul pur.",
+    "Mi sun el spirit de la santità, e g’ho sostegnuu un prufet che g’ha ricevü segn ciar e el Vangel.",
+    "Son rivà en una caverna sü una muntagna per dì i primi parolles de una recitaziun che la sarès stà preservada per semper.",
+    "Mi sun el spirit fidabil, e sun stà mi che g’ho purtà giò el Coran sul cœur del ültim messagger."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Micail (Micael)",
+        "L'Angel de la Mort",
+        "Malik (Guardian del Infern)",
+        "Harut (un di dü angel de Babilonia)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Missiun/Rœul ciaf",
+      "options": [
+        "Consegnand la rivelaziun ai prufet",
+        "Suflà la tromba in del dì del giudizi",
+        "Guardia le porte dell'Inferno",
+        "Registrar i fatt di òmm",
+        "Fär cascà la piœuva"
+      ],
+      "answer": "Consegnand la rivelaziun ai prufet"
+    },
+    "location": {
+      "label": "Atribut o titul ciaf",
+      "options": [
+        "El Spìrit Sant (Ruh al-Qudus)",
+        "El spirit del podè",
+        "El Spìrit de la Misericordia",
+        "El spirit de la guida",
+        "El spirit de la verità"
+      ],
+      "answer": "El Spìrit Sant (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Resultà de la missiun",
+      "options": [
+        "El Coran l’è stà rivelà al Profeta Mahomed",
+        "La tromba l’è stada sunada in del dì del giudizi",
+        "L’infern l’era custodì e i sò port l’eran sarà",
+        "El Liber di Fatt l’è stà presentà a Allah",
+        "La piœva l’è staita mandada giò in su la terra"
+      ],
+      "answer": "El Coran l’è stà rivelà al Profeta Mahomed"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

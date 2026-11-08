@@ -1,0 +1,61 @@
+{
+  "title": "Abidda Dhaala Baase",
+  "intro": "Seenaa diddaa keessatti fakkiin maqaan isaa hanga dhuma yerootti akeekkachiisa ta’e tokkotu jira. Namni kun firummaa irra diinummaa, bitamuu irra mormii filate, waamicha araaraa mormuudhaan dhaabbate. Eenyummaa lubbuu maqaa gaarii hin qabne kanaa yeroo saaxnu sagalee labsii durii tokkoo sirriitti dhaggeeffadhaa.",
+  "clues": [
+    "Ani ergamaa Rabbii isa dhumaa wajjin gosa tokko keessatti dhaladhe, ta’us garuu marsaa hunda irratti isaan dura dhaabadhe.",
+    "Maqaan koo hiika qaba ture—maqaa hiikni isaa ‘abbaa abiddaa,’ maqaa hiree koo isa bara baraa dursee kan argisiisu ture.",
+    "Nama dhugaa baatu irratti miidhaa gadhiisee, maatiin koo illee duula gara jabummaa kana keessatti hirmaatan.",
+    "Maallaqni ifa waaqaa dhaamsuu akka danda’u amanee qabeenyaafi dhiibbaa kootti fayyadamee waamicha gara Rabbii callise.",
+    "Rabbiin boqonnaa tokko guutuu naaf kenne-boqonnaa baay’ee gabaabaa ta’ee fi sekondii muraasa keessatti qara’amuu danda’u, ta’us ulfaatinni isaa hanga Guyyaa Qiyaamaatti jira.",
+    "Hiriyaan koo Aakhiraatti funyoo fiberiin mormatti hidhamee, qoree duraan facaasaa turan sana baattee na duubaan deema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Abuu Lahaab",
+        "Abuu Jahl",
+        "Waraqaa ibnu Nawfaal jedhamu",
+        "Umayyaa ibnu Khalaaf",
+        "Uqbah ibnu Abii Mu'aayit"
+      ],
+      "answer": "Abuu Lahaab"
+    },
+    "trial": {
+      "label": "Wal-duraa duubaan Hiikuu",
+      "options": [
+        "Mormitoota Nabiyyii irratti Makkaa irratti hoogganuu",
+        "Ari'atama jalaa miliquuf gara Abisiniyaatti godaanuu",
+        "Nabi Ibraahim waliin Kaabaa ijaaruu",
+        "Islaamummaa siree du'aa irratti fudhachuu",
+        "Waliigaltee Hudaybiyyaa bocuu"
+      ],
+      "answer": "Mormitoota Nabiyyii irratti Makkaa irratti hoogganuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Haadha manaa qoree fi muka ibiddaa baattee deemtu",
+        "Ulee gara bofaatti jijjiirame",
+        "Gingilchaa chaappaa Solomoon qabu",
+        "Re'ee warqee ummanni waaqeffatu",
+        "Burqaa bishaan dhangalaase"
+      ],
+      "answer": "Haadha manaa qoree fi muka ibiddaa baattee deemtu"
+    },
+    "outcome": {
+      "label": "Herrega Xumuraa",
+      "options": [
+        "Suuraan guutuun badiisa guutuu labsuun buuse",
+        "Hogganaa hawaasa muslimaa ta'e",
+        "Yeroo du'aatti dhiifama argate",
+        "Madiinaa keessatti masjiida guddaa ijaare",
+        "Qajeelota gidduutti du'aa ka'e"
+      ],
+      "answer": "Suuraan guutuun badiisa guutuu labsuun buuse"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

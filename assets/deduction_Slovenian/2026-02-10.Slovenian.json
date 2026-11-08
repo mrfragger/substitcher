@@ -1,0 +1,60 @@
+{
+  "title": "Spanec vek",
+  "intro": "Odpravili se boste na potovanje skozi čas, kjer boste srečali globoko skrivnost vere in božanske moči. Predstavljajte si skupino posameznikov, ki so kljubovali normam svoje družbe in se oklepali monoteizma v svetu politeizma. Njihova zgodba je dokaz o Alahovi sposobnosti, da svoje pravične služabnike zaščiti na najbolj izjemne načine. Ali lahko razkrijete identiteto teh izjemnih osebnosti?",
+  "clues": [
+    "Bili smo majhna skupina mladeničev, ki smo verjeli v enega Boga, kljub razširjenemu politeizmu našega ljudstva.",
+    "Zbežali smo pred tiranskim vladarjem, ki nam je grozil zaradi naše vere, saj smo se bali preganjanja in smrti.",
+    "Poiskali smo zatočišče na osamljenem kraju, v upanju na Alahovo milost in zaščito pred našimi zatiralci.",
+    "Naš Gospod nas je pokončal v globok spanec, čudežni spanec, ki je kljuboval minevanju časa.",
+    "Ko smo se zbudili, smo mislili, da smo počivali le en dan ali del dneva, ne da bi se zavedali ogromnega obdobja, ki je v resnici minilo.",
+    "Koran omenja, da smo v svojem stanju ostali tristo let in da smo ga presegli za devet let, kar je postalo znamenje za človeštvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz jarka",
+        "Ljudje iz Thamuda",
+        "Ljudje iz jame",
+        "Ljudje iz Madyana",
+        "Spremljevalci slona"
+      ],
+      "answer": "Ljudje iz jame"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Soočanje z veliko poplavo",
+        "Biti pogoltnjen od zemlje",
+        "Dolgi čudežni spanec",
+        "Uničenje njihovega mesta",
+        "Razcep morja"
+      ],
+      "answer": "Dolgi čudežni spanec"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Goreči grm",
+        "Gora",
+        "Čoln",
+        "Jama",
+        "Vodnjak"
+      ],
+      "answer": "Jama"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Podeljeno jim je bilo ogromno bogastvo in moč",
+        "Spremenili so se v opice in prašiče",
+        "Bili so dvignjeni iz spanja kot globoko znamenje",
+        "Utopila jih je velika poplava",
+        "Zgradili so veličastno kraljestvo"
+      ],
+      "answer": "Bili so dvignjeni iz spanja kot globoko znamenje"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

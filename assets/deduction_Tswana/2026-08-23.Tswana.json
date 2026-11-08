@@ -1,0 +1,61 @@
+{
+  "title": "Bontsi jo bo Nyeletseng",
+  "intro": "O eme fa pele ga medumo ya morafe o kgang ya one e kwadilweng mo makhubung. Mewa eno e ne ya utlwa pitso, ya tlhopha go gana, mme ya lebana le ditlamorago tse di neng tsa bopa lefatshe sesha. Ke bomang, mme go ne ga diragala eng ka lefatshe la bone?",
+  "clues": [
+    "Re tshedile bogologolo tala, mme morongwa a tla kwa go rona a tswa mo gare ga rona.",
+    "Re ne re obamela medingwana e le metlhano mme ra gana go e tlogela.",
+    "Re ne ra sotla morongwa yono mme ra mo latofatsa ka gore o timetse.",
+    "Re ne re batla gore a tlise kotlhao fa a ne a bua boammaaruri.",
+    "Re ne ra bona magodimo a tsholola pula le lefatshe le tshologa metswedi.",
+    "Re ne ra tlhatlogela kwa mafelong a a kwa godimo go tshaba, mme makhubu a ne a re feta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batho ba Nuh",
+        "Batho ba 'Ad",
+        "Batho ba Thamude",
+        "Batho ba Lute",
+        "Batho ba Madyan"
+      ],
+      "answer": "Batho ba Nuh"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Re ne ra nwediwa ke morwalela o mogolo",
+        "Re sentswe ke kgwanyape",
+        "Re bolailwe ke go thunya go go kwa godimo",
+        "Re meditswe ke lefatshe .",
+        "Re ne ra konopiwa ka matlapa go tswa kwa loaping"
+      ],
+      "answer": "Re ne ra nwediwa ke morwalela o mogolo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Morwalela o mogolo",
+        "Phefo e e maatla",
+        "Pula ya matlapa",
+        "Go thunya ga molelo",
+        "Thoromo ya lefatshe"
+      ],
+      "answer": "Morwalela o mogolo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Rotlhe re ne ra nyelela fa e se badumedi le Nuh .",
+        "Re ne ra fetolwa go nna ditshwene",
+        "Re ne ra tlogelwa re le matlotla a batsamai",
+        "Re fetotswe letswai",
+        "Re ne ra fiwa boikhutso"
+      ],
+      "answer": "Rotlhe re ne ra nyelela fa e se badumedi le Nuh ."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

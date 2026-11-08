@@ -1,0 +1,61 @@
+{
+  "title": "Yürüş edən bir qoşundan əvvəl kiçik bir xəbərdarlıq",
+  "intro": "Qüdrətli bir hökmdarın və böyük bir orduya yaxınlaşan bir vadiyə addımlayın və bütün bir icmanı xilas edən xəbərdarlıq verən kiçik bir səyyahı təsəvvür edin. Təhlükə altında olan icma sığınacağa çatdıqda təhlükə keçib gedir. Həmin xəbərdarlığın arxasındakı gözdən yayınan fiquru müəyyən etmək üçün ipuçlarını izləyin.",
+  "clues": [
+    "Mən hökmdarın padşahlığı ilə əlaqəli kiçik məxluqlar arasındayam.",
+    "Mənim icmam bir vadinin içindəki evlərdə yaşayır və birimiz digərimizə zəng edə bilərik.",
+    "Biz həmin hökmdar və hökmdarla birlikdə hərəkət edən ordular tərəfindən təhlükə ilə üzləşirik.",
+    "Mən ümmətimi evlərinə girməyə çağıran və bizi bilmədən əzilməmək üçün xəbərdar edənəm.",
+    "Hökmdar Süleymandır və mənim növüm onun əmri altında olan məxluqlardandır.",
+    "Mən o vadinin qarışqasıyam; xəbərdarlığımdan sonra evlərimizə girdik və əks halda xəbərsiz qalacağımız əzabdan xilas olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Vadinin Qarışqası",
+        "Şanapipik",
+        "Qarğa",
+        "İlan",
+        "Qatır"
+      ],
+      "answer": "Vadinin Qarışqası"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Qarışqa icmasını xilas edən bir xəbərdarlıq",
+        "Balıqdan üzük istəyi",
+        "İtkin düşmüş taxtın axtarışı",
+        "Oğurlanmış gözlərin xilası",
+        "Hökmdarın yeməyini yeməkdən imtina"
+      ],
+      "answer": "Qarışqa icmasını xilas edən bir xəbərdarlıq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qarışqalar Vadisi",
+        "Süleymanın möhür üzüyü",
+        "Yusifin qanlı köynəyi",
+        "Misirdən çıxışın qızıl buzovu",
+        "Musanın əsası"
+      ],
+      "answer": "Qarışqalar Vadisi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İcma sığınacaq aldıqdan sonra xilas edildi",
+        "İcma sığınacaq tapmadan məhv edildi",
+        "Ordu geri çəkildiyi üçün icma xilas oldu",
+        "İcma quşlar üzərində nəzarətlə mükafatlandırıldı",
+        "Camaat kral sarayına əsir aparıldı"
+      ],
+      "answer": "İcma sığınacaq aldıqdan sonra xilas edildi"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

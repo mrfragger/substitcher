@@ -1,0 +1,61 @@
+{
+  "title": "Ubizo oluye lwadlula ixesha elide",
+  "intro": "Khawucinge ngomphefumlo omele wodwa nxamnye nempucuko yonke, uzimisele ukubakhokela ukuba babuyele ekulahlekisweni ngesigqibo esingagungqiyo. Kangangeenkulungwane, isigidimi saliwa, sihlekwa, kwaye sachithwa—kodwa umzamo awuzange uphele. Ekugqibeleni, kwafika umgwebo omkhulu, kwaye bambalwa kuphela abafumana usindiso ecaleni kwalo mphefumlo uqinileyo. Ngaba ungawubona lo mfanekiso kwiQuran?",
+  "clues": [
+    "Ndathunyelwa njengomlumkisi kubantu abalahlekileyo ngeendlela zabo.",
+    "Ndabamema ukuba bacele uxolo baze babuye kwiimpazamo zabo, kodwa bajika.",
+    "Ngaphantsi komyalelo kaThixo, ndakha inqanawa enkulu ngelixa abantu bam bendibukele kwaye bendigculela.",
+    "Ndabiza iNkosi yam ngokungapheliyo—ekugqibeleni yaphendula, kwaye amanzi aphuma esibhakabhakeni aphuma ngamandla.",
+    "Ndakhwela emkhombeni kunye nabo babekholelwa xa amanzi ezikhukula enyuka phezu komhlaba.",
+    "Ndakhala komnye owayesele ngasemva, ndibacela ukuba bazimele entabeni, kodwa umyalelo wawusele udlulile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uNuh",
+        "Umprofeti uIbrahim",
+        "Umprofeti uMusa",
+        "Umprofeti uHud",
+        "Umprofeti uSalih"
+      ],
+      "answer": "Umprofeti uNuh"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukwakha umkhombe omkhulu nokusinda kumkhukula wehlabathi lonke",
+        "Ukuphoswa emlilweni ovuthayo",
+        "Ukujongana nomlawuli okhohlakeleyo kunye nezazi zakhe ezinamandla",
+        "Ukuginywa yintlanzi enkulu",
+        "Ukuzibonela ukubulawa kwenkamela engcwele"
+      ],
+      "answer": "Ukwakha umkhombe omkhulu nokusinda kumkhukula wehlabathi lonke"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umkhombe omkhulu womthi phezu kwamanzi akhukulayo",
+        "Intlambo engcwele enamanxuwa amatye amandulo",
+        "Umqolomba onzulu apho amaqabane alala khona kangangeenkulungwane",
+        "Isisu somnenga omkhulu enzulwini yolwandle",
+        "Intaba ende yamatye entlango"
+      ],
+      "answer": "Umkhombe omkhulu womthi phezu kwamanzi akhukulayo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Wasindiswa kunye namakholwa akhwele inqanawa",
+        "Usindiswe engenakwenzakala emlilweni ngomyalelo kaThixo",
+        "Wakhokela ufuduko olukhulu ebukumkanini obunamandla",
+        "Phuma kwintlanzi uye elunxwemeni olungenanto",
+        "Wakhokelela abantu kude nokwenza okubi ngomqondiso omangalisayo"
+      ],
+      "answer": "Wasindiswa kunye namakholwa akhwele inqanawa"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

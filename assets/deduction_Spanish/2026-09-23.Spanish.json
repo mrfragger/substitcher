@@ -1,0 +1,61 @@
+{
+  "title": "La llamada que ha resistido el paso del tiempo.",
+  "intro": "Imagina un alma que se enfrentó sola a toda una civilización, decidida a guiarla de vuelta del extravío con una resolución inquebrantable. Durante siglos, su mensaje fue rechazado, ridiculizado y desestimado, pero su esfuerzo nunca cesó. Finalmente, llegó el momento decisivo, y solo unos pocos alcanzaron la salvación junto a esta alma inquebrantable. ¿Puedes identificar a esta figura del Corán?",
+  "clues": [
+    "Me enviaron como mensajero a un pueblo perdido en sus propias costumbres.",
+    "Los invité a pedir perdón y a enmendar sus errores, pero me rechazaron.",
+    "Por mandato divino, construí una enorme nave mientras mi pueblo me observaba y se burlaba de mí.",
+    "Invoqué a mi Señor sin cesar; finalmente, Él respondió, y el agua cayó del cielo a borbotones.",
+    "Subí a bordo del barco con aquellos que creyeron cuando las aguas de la inundación subieron por encima de la tierra.",
+    "Le grité a uno de los que se había quedado atrás, pidiéndole que se refugiara en una montaña, pero el decreto ya había sido emitido."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Noé",
+        "Profeta Ibrahim",
+        "El profeta Musa",
+        "Profeta Hud",
+        "Profeta Salih"
+      ],
+      "answer": "Profeta Noé"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Construir una gran arca y sobrevivir a un diluvio universal",
+        "Ser arrojado a un fuego ardiente",
+        "Enfrentarse a un tirano y sus poderosos magos",
+        "Ser tragado por un gran pez",
+        "Presenciar la matanza de una camella sagrada."
+      ],
+      "answer": "Construir una gran arca y sobrevivir a un diluvio universal"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un enorme arca de madera sobre aguas turbulentas.",
+        "Un valle sagrado con antiguas ruinas de piedra.",
+        "Una cueva profunda donde los compañeros durmieron durante siglos.",
+        "El vientre de una ballena gigante en las profundidades del océano.",
+        "Una imponente montaña de piedra en medio de la naturaleza salvaje."
+      ],
+      "answer": "Un enorme arca de madera sobre aguas turbulentas."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Salvados junto con los creyentes a bordo del barco.",
+        "Rescatado ileso del fuego por mandato divino",
+        "Lideró un gran éxodo desde un reino poderoso.",
+        "Arrojado desde el pez hacia una orilla desierta.",
+        "Alejó a la gente del mal mediante una señal milagrosa."
+      ],
+      "answer": "Salvados junto con los creyentes a bordo del barco."
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

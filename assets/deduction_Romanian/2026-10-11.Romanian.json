@@ -1,0 +1,61 @@
+{
+  "title": "Vocea din Nisipurile Străvechi",
+  "intro": "Printre primii mesageri ai lui Allah, a existat unul al cărui nume strălucește pentru scurt timp, dar cu semnificație, în Coran. Această persoană a trăit cu mult înainte de trimiterea multor mari profeți și era cunoscută pentru sinceritatea și răbdarea sa neclintite. Povestea lor este scurtă, dar moștenirea lor dăinuie în cronica veșnică. Cine este acest suflet nobil?",
+  "clues": [
+    "Sunt unul dintre cei mai vechi mesageri, menționat pe scurt, dar cu semnificație, în Coran.",
+    "Caracterul meu a fost definit de un angajament neclintit față de adevăr.",
+    "Sunt pomenit în Cartea lui Allah printre cei care au fost statornici și răbdători.",
+    "Doar câteva versete scurte din Coran îmi spun povestea.",
+    "Allah m-a onorat într-un mod care este unic pentru mine, neîmpărtășit cu alți profeți.",
+    "Am fost ridicat la o poziție înaltă, o onoare singulară în Coran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Idris",
+        "Profetul Ilia",
+        "Dhul-Kifl",
+        "Profetul Alisa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Profetul Idris"
+    },
+    "trial": {
+      "label": "Moment definitoriu",
+      "options": [
+        "Am fost ridicat la o poziție înaltă de către Allah",
+        "Am construit o arcă mare pentru a-mi salva poporul",
+        "I-am provocat pe vrăjitorii faraonului",
+        "Am fost aruncat într-o groapă de frații mei",
+        "Mi-am pierdut vederea din cauza durerii pentru fiul meu"
+      ],
+      "answer": "Am fost ridicat la o poziție înaltă de către Allah"
+    },
+    "location": {
+      "label": "Referință sacră",
+      "options": [
+        "Sura Al-Anbiya",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Ash-Shu'ara",
+        "Sura Yasin"
+      ],
+      "answer": "Sura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Onoare Divină",
+      "options": [
+        "O stație înaltă, diferită de oricare alta",
+        "Dominion asupra djinnilor și a vânturilor",
+        "Un regat de o glorie neegalată",
+        "Un moștenitor de la bătrânețe",
+        "Un legământ pecetluit cu Allah"
+      ],
+      "answer": "O stație înaltă, diferită de oricare alta"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

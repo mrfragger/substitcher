@@ -1,0 +1,61 @@
+{
+  "title": "Bağışlanmanı istəyən ilk insan",
+  "intro": "İlk günəşin doğuşundan əvvəlki, hər hansı bir insanın yer üzünə gəlməsindən əvvəlki bir dövrə qayıdaq. Ən sadə materiallardan bir fiqur düzəldilmiş, mələklərdən üstün bir mövqe verilmiş və müqəddəs bir bağda açıq bir xəbərdarlıqla qoyulmuşdur. Lakin bir anda bütün bəşəriyyət tarixində əks-səda verəcək bir seçim edildi. Bu fiqur kimdir?",
+  "clues": [
+    "Mən başqa heç bir şəkildə - yerin tozundan düzəldilmiş və Yaradanın əli ilə canlı bir ruh verilmiş şəkildə - yaradıldım.",
+    "Mənə o qədər dərin bilik verildi ki, hətta yuxarıdakı mələklər də buna heyran qaldılar.",
+    "Bütün göylərə mənim qarşımda səcdə etmək əmr edildi və hamısı təslim oldu - təkəbbürdən imtina edənlərdən biri istisna olmaqla.",
+    "Mən müqəddəs bir bağda, əbədi rahatlıq və təminat məkanında yerləşdirildim — amma bir ciddi qadağa ilə.",
+    "Unutdum, səhv etdim və itaətsizlik etdim - və səhvimin ağırlığını dərindən hiss etdim.",
+    "Səmimi sözlərlə Rəbbimə üz tutdum və O, tövbəmi qəbul etdi, çünki O, çox bağışlayandır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Adəm peyğəmbər",
+        "Davud peyğəmbər",
+        "Məhəmməd peyğəmbər",
+        "İblis",
+        "Yaqub peyğəmbər"
+      ],
+      "answer": "Adəm peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Mələklərə səcdə etmək əmr edildi",
+        "Böyük Daşqın göndərildi",
+        "Böyük bir tonqal sərin və təhlükəsiz hala gətirildi",
+        "Təkəbbürlü bir hökmdar dənizdə boğuldu",
+        "Fillərdən ibarət bir ordu məhv edildi"
+      ],
+      "answer": "Mələklərə səcdə etmək əmr edildi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Səadət bağı",
+        "Sina dağı",
+        "Müqəddəs Məscid",
+        "Nil çayı",
+        "Mağara"
+      ],
+      "answer": "Səadət bağı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Tövbə Allah tərəfindən qəbul edildi",
+        "Dənizdə boğuldu",
+        "Böyük bir balıq tərəfindən uduldu",
+        "Millət güclü bir partlayışa məruz qaldı",
+        "Qızmar küləklə yanıb"
+      ],
+      "answer": "Tövbə Allah tərəfindən qəbul edildi"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

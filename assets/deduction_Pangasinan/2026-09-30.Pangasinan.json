@@ -1,0 +1,61 @@
+{
+  "title": "Say Pasyente",
+  "intro": "Abayag lan panaon, nen sankaunaan iran agew na awaran na too, duaran kamarerwa so inmalagey ed arap na Manamalsa ra a walaan na saray bagat. Sakey so inawat, sakey so andi. Say tinmumbok et nagmaliw ya sankaunaan ya baleg a trahedya ed baetan na sanaagi - sakey a gawa na maanos ya panag-amper tan sakey a gawa na mapait a panagbales. Sarag mon naamtaan no siopa ak?",
+  "clues": [
+    "Nianak ak nen inmunan agew na inkiwala na too diad dalin",
+    "Anak ak na sankaunaan ya paris na totoon nambilay ed sayan dalin",
+    "Aminsan et angiyapay ak na bagat manlapud sankaabigan ed pulok ko pian napaliket so Manamalsak",
+    "Say apay ko et inawat manlapud tagey, bangta say apay nen agik et ag inawat",
+    "Nen tinaktakot da ak ya pateyen, pinilik ya ag-itagey so limak ed agik",
+    "Siak so nagmaliw ya sankaunaan a too ed interon awaran na too ya lingon pinatey na sananey"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Habil (Abel), ya anak nen Adan",
+        "Qabil (Cain), ya anak nen Adan",
+        "Si Adan, say inmunan too",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), ya anak nen Adan"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Say sankaunaan ya impamatey ed awaran na too",
+        "Say baleg a delap na Nuh",
+        "Say inkaderal na armada nen Fir'awn",
+        "Say bagat nen Ismail nen Ibrahim",
+        "Say bakal sumpad Jalut (Goliath)"
+      ],
+      "answer": "Say sankaunaan ya impamatey ed awaran na too"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey a karnero ya inyapay bilang makapaliket a bagat",
+        "Sakey a baleg a biong a gawad kiew",
+        "Sakey a baston ya nagmaliw ya uleg",
+        "Sakey a manok ya hoopoe ya walay awit ton mensahe na ari",
+        "Sakey a manliob a kanal na apoy"
+      ],
+      "answer": "Sakey a karnero ya inyapay bilang makapaliket a bagat"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Nagmaliw ya sankaunaan ya biktima na panagpatey ed awaran na too",
+        "Akaliktar ed baleg a delap diad loob na sakey a bapor a gawad kiew",
+        "Manaayam ed loob na eges na baleg a sira",
+        "Inuleyan to ray jinn, totoo, tan say dagem",
+        "Nanakar-akar ed loob na apataplon taon ed malaknab a kalawakan"
+      ],
+      "answer": "Nagmaliw ya sankaunaan ya biktima na panagpatey ed awaran na too"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

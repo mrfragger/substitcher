@@ -1,0 +1,61 @@
+{
+  "title": "Bölvuðu hendurnar",
+  "intro": "Þú stendur í krókóttum göngum hins forna Mekka, þar sem áhrifamikill og auðugur einstaklingur sneri sér eitt sinn frá kalli sannleikans. Saga þessarar persónu er skýr áminning um að blóðbönd geta ekki sigrast á fjötrum stoltsins. Hver er þessi sem nafnið ómar með eldinum sem bíður?",
+  "clues": [
+    "Ég gekk um götur Mekka með stolti sem blindaði mig fyrir sannleikanum, þótt boðberinn væri af mínu eigin blóði.",
+    "Eignir mínar voru miklar, en þær urðu bölvun frekar en skjöldur.",
+    "Leiðbeiningarbókin talar um tortímingu mína og segir að hendur mínar og líkami muni farast.",
+    "Maki minn gekk til liðs við fjandskaparherferð mína, safnaði þyrnum til að dreifa á vegi þess sem kallaði til Allah.",
+    "Á dómsdegi verð ég steypt í logandi eld og maki minn mun hafa reipi úr pálmaþráðum um hálsinn.",
+    "Ég er þekktur undir nafni sem þýðir „faðir logans“ — nafn sem boðar eilífa búsetu mína."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Abú Lahab",
+        "Abú Jahl",
+        "Abú Talíb",
+        "Abú Súfjan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abú Lahab"
+    },
+    "trial": {
+      "label": "Lykiltilraun eða atburður",
+      "options": [
+        "Andmælti spámanninum og var bölvaður í Kóraninum",
+        "Leið her til að eyðileggja Kaaba",
+        "Reyndi að drepa spámanninn með því að kasta steinum",
+        "Neitaði að trúa á klofning tunglsins",
+        "Byggði turn til að ná til himins"
+      ],
+      "answer": "Andmælti spámanninum og var bölvaður í Kóraninum"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Logandi eldur helvítis",
+        "Starfsfólk Músa",
+        "Örk Núhs",
+        "Brunnurinn í Zamzam",
+        "Gullkalfurinn"
+      ],
+      "answer": "Logandi eldur helvítis"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Hann mun ganga inn í logandi eldinn og auður hans mun ekki gagnast honum.",
+        "Hann iðraðist og tók trú",
+        "Honum var fyrirgefið eftir að hafa dregið sig í hlé",
+        "Hann dó sem píslarvottur",
+        "Hann var tekinn upp til himins"
+      ],
+      "answer": "Hann mun ganga inn í logandi eldinn og auður hans mun ekki gagnast honum."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bendruomenė, kuri nepakluso poilsio dienai",
+  "intro": "Įženkite į pakrantės gyvenvietę, kur dieviškas įsakymas skyrė vieną dieną garbinimui ir suvaržymams. Šios bendruomenės grupė nusprendė išbandyti šio įsakymo ribas gudriu planu, vedančiu į transformaciją, kuri aidės per amžius. Kas buvo šios sielos ir kas joms nutiko?",
+  "clues": [
+    "Gyvenome netoli pakrantės, kur jūra mums teikė pragyvenimo šaltinį.",
+    "Mums buvo įsakyta pagerbti vieną savaitės dieną, atidėti ją nuo pasaulietiškų užsiėmimų.",
+    "Tą dieną žuvų pas mus atplaukė daugybė, tarsi viliodamos mus sulaužyti įsakymą.",
+    "Mes sugalvojome planą sugauti žuvis šventosios dienos išvakarėse, o jai praėjus surinkti.",
+    "Kai kurie iš mūsų perspėjo apie šią apgaulę, mes ignoravome jų patarimą ir atkakliai laikėmės savo nurodymų.",
+    "Dėl savo prasižengimo buvome paversti beždžionėmis, niekinami ir atstumti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Šabo žmonės",
+        "Griovio žmonės",
+        "Miško žmonės",
+        "Sodo žmonės",
+        "Dramblio žmonės"
+      ],
+      "answer": "Šabo žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Žvejyba per šabą",
+        "Aukšto bokšto statyba",
+        "Šventosios kupranugario patelės nužudymas",
+        "Neigdami jiems siųstą pranašą",
+        "Prekybos svorių viršijimas"
+      ],
+      "answer": "Žvejyba per šabą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Jūra ir jos žuvys",
+        "Ugnis, kuri buvo atvėsinta",
+        "Lazdelė, kuri virto gyvate",
+        "Išganymo arka",
+        "Akmens plokštės"
+      ],
+      "answer": "Jūra ir jos žuvys"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Paverstos beždžionėmis",
+        "Prarytas žemės",
+        "Sugriovė smarkus vėjas",
+        "Nuskendo jūroje",
+        "Akmenų lietus smogė"
+      ],
+      "answer": "Paverstos beždžionėmis"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

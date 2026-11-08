@@ -1,0 +1,61 @@
+{
+  "title": "Ƙaramin Gargaɗi Kafin Mai Ba da Gudummawa",
+  "intro": "Shiga cikin kwari inda wani babban mai mulki da wani babban runduna ke gabatowa, ka yi tunanin wani ƙaramin matafiyi yana ba da gargaɗi wanda ya ceci al'umma gaba ɗaya. Yayin da al'ummar da ke fuskantar barazanar ta isa mafaka, haɗarin ya wuce. Bi alamun don gano mutumin da aka yi watsi da shi a bayan wannan gargaɗin.",
+  "clues": [
+    "Ina cikin ƙananan halittu da ke da alaƙa da masarautar mai mulki.",
+    "Al'ummata tana zaune ne a cikin gidaje a cikin kwari, inda ɗayanmu zai iya kiran sauran.",
+    "Muna fuskantar barazana daga wannan mai mulki da rundunonin da ke tafiya tare da mai mulkin.",
+    "Ni ne wanda ke kiran al'ummata da su shiga gidajensu kuma yana yi mana gargaɗi da kada a murƙushe mu ba tare da sani ba.",
+    "Mai mulki shine Sulaiman, kuma nau'in halittuna yana cikin halittun da aka sanya masa iko.",
+    "Ni ne tururuwar wannan kwarin; bayan gargaɗina, mun shiga gidajenmu muka tsere daga turmutsutsun da ba haka ba, da ba mu sani ba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Tururuwar Kwarin",
+        "Mawakin Hutu",
+        "Hankaka",
+        "Macijin",
+        "Alfadari"
+      ],
+      "answer": "Tururuwar Kwarin"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Gargaɗin da ya ceci al'ummar tururuwa",
+        "Buƙatar zoben kifi daga wani kifi",
+        "Neman kursiyin da ya ɓace",
+        "Ceto idanun da aka sace",
+        "Ƙin cin abincin mai mulki"
+      ],
+      "answer": "Gargaɗin da ya ceci al'ummar tururuwa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kwarin Tururuwa",
+        "Zoben Hatimi na Sulaiman",
+        "Rigar Yusuf Mai Jini",
+        "Ɗan Maraƙin Zinare na Fitowa",
+        "Ma'aikacin Musa"
+      ],
+      "answer": "Kwarin Tururuwa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ceto al'umma bayan an yi garkuwa da su",
+        "An lalata al'umma ba tare da neman mafaka ba",
+        "An ceto al'umma saboda sojoji sun ja da baya",
+        "An ba wa al'umma lada da iko a kan tsuntsayen",
+        "An kai al'umma gidan yari zuwa kotun sarki"
+      ],
+      "answer": "An ceto al'umma bayan an yi garkuwa da su"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

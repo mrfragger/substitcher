@@ -1,0 +1,61 @@
+{
+  "title": "La melodia que va moure les muntanyes",
+  "intro": "Esteu a punt de descobrir la història d'un servent extraordinari d'Al·là. En una terra de missatgers i governants, aquesta figura va ser beneïda amb un llibre diví, una veu poderosa i força sobre el ferro. A mesura que llegiu les pistes, podeu identificar qui podria ser?",
+  "clues": [
+    "Jo era un servent d'Al·là a qui se li va concedir un llibre especial.",
+    "Tenia una veu bonica, i la meva lloança era tan estimada que fins i tot els turons i els ocells s'unien a mi.",
+    "Em vaig enfrontar a un oponent formidable en una batalla famosa, i tot i ser més petit, vaig prevaler.",
+    "El ferro es va fer flexible per a mi, permetent-me fabricar armadures amb les meves pròpies mans.",
+    "Vaig ser nomenat governant d'una gran nació, i la meva saviesa en el judici va ser reconeguda.",
+    "Al meu fill, també profeta, se li va concedir el control sobre el vent i els djinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Dawud (David)",
+        "Profeta Sulaiman (Salomó)",
+        "Profeta Musa (Moisès)",
+        "Profeta Harun (Aaron)",
+        "Profeta Ilyas (Elies)"
+      ],
+      "answer": "Profeta Dawud (David)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va derrotar Goliat (Jalut)",
+        "Va dividir el mar",
+        "Va sobreviure a la balena",
+        "Va ser llançat al foc",
+        "Construït l'Arca"
+      ],
+      "answer": "Va derrotar Goliat (Jalut)"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El Zabur (Salms)",
+        "La Torà (Tawrat)",
+        "L'Evangeli (Injil)",
+        "Els rotllos d'Ibrahim",
+        "L'Alcorà"
+      ],
+      "answer": "El Zabur (Salms)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va convertir en profeta i rei d'Israel",
+        "Es va convertir en el governant d'Egipte",
+        "Va ser elevat als cels",
+        "Va ser destruït per una tempesta",
+        "Es va convertir en un company de la cova"
+      ],
+      "answer": "Es va convertir en profeta i rei d'Israel"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

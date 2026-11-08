@@ -1,0 +1,61 @@
+{
+  "title": "La Forpelito de la Ora Bovido",
+  "intro": "Figuro menciita en la Korano kondukis grandan homamason al deviiĝo dum la foresto de nobla profeto. Io farita el oro kaptis la korojn de tuta nacio — sed la rakonto pri ĉi tiu individuo finiĝas en soleco kaj stranga malbeno. Kiu povus esti ĉi tiu forpelito?",
+  "clues": [
+    "Mi aperis dum la foresto de granda profeto, kiu supreniris por ricevi dian gvidadon.",
+    "Mi igis grandan homamason erarvagi per io, kion mi kreis per miaj propraj manoj.",
+    "La ora kreaĵo, kiun mi produktis, ŝajnis havi vivon, produktante sonojn, kiuj mesmerizis tiujn, kiuj sekvis ĝin.",
+    "Mi asertis esti vidinta tion, kion aliaj ne povis percepti — ekrigardon en la nevideblaĵon.",
+    "Mi tiris ion el la spuroj de la dia mesaĝisto kaj gisis ĝin en fanditan metalon.",
+    "Mi estis kondamnita vagadi sola, kun unika malbeno, ke neniu povus tuŝi mian haŭton, nek mi ilian."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraono (Fir'awn)",
+        "Abu Lahab",
+        "Profeto Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Kreis oran bovidon por adorado",
+        "Konstruis turon atingantan la ĉielon",
+        "Defiis la sorĉistojn de Egiptujo",
+        "Gvidis armeon kun flugantaj bestoj",
+        "Disfendi la lunon kiel pruvon de profeteco"
+      ],
+      "answer": "Kreis oran bovidon por adorado"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La ora bovido",
+        "Bastono kiu fariĝis serpento",
+        "Brulanta arbusto sur monto",
+        "Arkeo ripozanta sur pinto",
+        "Tranĉeo plena de flamanta fajro"
+      ],
+      "answer": "La ora bovido"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ekzilita, malpermesita esti tuŝita aŭ tuŝi aliajn",
+        "Dronis en la maro kune kun armeo",
+        "Bruligita vivanta pro malakcepto de kredo",
+        "Frapita de furioza, muĝanta vento",
+        "Pardonita kaj levita al alta stacio"
+      ],
+      "answer": "Ekzilita, malpermesita esti tuŝita aŭ tuŝi aliajn"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

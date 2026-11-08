@@ -1,0 +1,61 @@
+{
+  "title": "Ascensus Somniatoris",
+  "intro": "Anima ad magnitudinem destinata, tamen gravibus probationibus tentata, iter extraordinarium suscepit. Huius hominis iter invidia, separatione, et iniusta passione notatum est, solum ut in positione immensae responsabilitatis et profundae reunionis culminaret. Potesne hanc insignem figuram ex Alcorano agnoscere?",
+  "clues": [
+    "Olim ab iis qui mihi proximi erant invidebar, quod ad profundam separationem a parentibus meis et domo ducens perduxit.",
+    "Tempus magnarum difficultatum expertus sum, inter quas a viatoribus pro parvo pretio venditus sum.",
+    "Iniuste accusatus sum de scelere et annos in carcere egi, attamen fides mea inconcussa mansit.",
+    "Facultas singularis mihi concessa est interpretandi visiones complexas, quae in via mea ad libertatem maximi momenti fuit.",
+    "Sapientia mea et integritas me tandem ad locum magnae auctoritatis et fiduciae in terra aliena duxerunt.",
+    "Per seriem eventuum, post longam ac dolorosam absentiam, cum parente seniore et fratribus meis iterum coniunctus sum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Sulaiman",
+        "Propheta Isaias",
+        "Propheta Iosue",
+        "Propheta Dawud",
+        "Propheta Yahya"
+      ],
+      "answer": "Propheta Iosue"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "A pisce magno deglutiri",
+        "Arcae aedificatio ad creationem servandam",
+        "Falsas accusationes et carcerem tolerare",
+        "Miraculis contra principem tyrannicum oppugnare",
+        "Gravi morbo et iactura probatus"
+      ],
+      "answer": "Falsas accusationes et carcerem tolerare"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Rubus ardens",
+        "Avis loquens",
+        "Puteus",
+        "Baculus in serpentem mutatus",
+        "Camella in signum"
+      ],
+      "answer": "Puteus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Migrationem ad terram promissam ducens",
+        "Minister potens in Aegypto fieri",
+        "Accipiens iudicium divinum in populum arrogantem",
+        "Regnum vastum cum sapientia et iustitia regens",
+        "Ascendens ad caelum"
+      ],
+      "answer": "Minister potens in Aegypto fieri"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

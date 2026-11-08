@@ -1,0 +1,61 @@
+{
+  "title": "Onyo Chini ya Ardhi",
+  "intro": "Hebu fikiria umesimama kando ya uchimbaji wa kina huku sauti zikipanda kutoka chini na ulimwengu wa juu ukinyamaza. Qur'ani inahifadhi tukio hili kama onyo: jumuiya inakataa kile ambacho wajumbe huleta, adhabu inakaribia, na hata kishindo chake kinakuwa sehemu ya ushuhuda. Ni kundi gani linalozungumza kupitia mistari hiyo?",
+  "clues": [
+    "Tunakumbukwa katika Qur'ani kama kundi lililofafanuliwa na hatima moja ya pamoja badala ya jina la mtu binafsi.",
+    "Tulikataa ujumbe ulioletwa na wajumbe, ingawa walichosema kilikuwa kweli.",
+    "Utambulisho wetu unaokumbukwa umeunganishwa na sehemu kubwa ya ardhi, na sifa hiyo ikawa sehemu ya jina letu.",
+    "Siku iliyopangwa, tulitolewa nje na kuburutwa kuelekea motoni.",
+    "Hatukuweza kujilinda dhidi ya adhabu, na hatukuweza kusikia mngurumo wake.",
+    "Nyuso zetu zingegeuzwa motoni, nasi tungesukumwa ndani yake; tulipokuwa tukiulizwa, tungesema kwamba tulikuwa miongoni mwa wale ambao hawakuweza kujibu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Masahaba wa Handaki",
+        "Taifa Liliokolewa Kutokana na Gharika Kuu",
+        "Waabuduo Ndama wa Dhahabu",
+        "Kundi Lililojificha Ndani ya Pango la Mlimani",
+        "Jumuiya Iliyookolewa Kutoka Kwenye Tanuru ya Moto"
+      ],
+      "answer": "Masahaba wa Handaki"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuburutwa na kutupwa Motoni",
+        "Kuokolewa kutoka kwenye tanuru ya moto",
+        "Kubebwa salama kupitia mafuriko makubwa",
+        "Imehifadhiwa kwa karne nyingi ndani ya pango",
+        "Aliokolewa baada ya kutupwa kisimani"
+      ],
+      "answer": "Kuburutwa na kutupwa Motoni"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mtaro au shimo",
+        "Bahari kubwa",
+        "Pango la mlimani",
+        "Jumba refu",
+        "Kisima cha jangwa"
+      ],
+      "answer": "Mtaro au shimo"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Hawawezi kujitetea na hawawezi kusikia kishindo cha Moto",
+        "Waliokolewa na kupewa ruhusa ya kuingia katika bustani za milele",
+        "Kuokolewa salama kupitia mafuriko yenye uharibifu",
+        "Kulindwa na usingizi mrefu ndani ya pango",
+        "Kuheshimiwa na ufalme wa milele"
+      ],
+      "answer": "Hawawezi kujitetea na hawawezi kusikia kishindo cha Moto"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

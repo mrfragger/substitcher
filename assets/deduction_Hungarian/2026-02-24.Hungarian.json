@@ -1,0 +1,61 @@
+{
+  "title": "A megtévesztés visszhangja",
+  "intro": "Egy rokoni köteléket próbára tett az irigység hulláma. Egy titkos terv született, amely egy éveken átívelő és hatalmas távolságokat átívelő eseményláncolatot indított el. A csoport tettei mély elváláshoz és bánathoz vezettek, de a történet ezzel nem ért véget. Ez egy történet a megtévesztésről, a megbánásról és egy isteni terv végső kibontakozásáról. Vajon meg tudod fejteni azoknak az egyéneknek a kilétét, akiknek a döntései generációkon átíveltek?",
+  "clues": [
+    "Féltékenység emésztett minket az egyik közülünk iránt tanúsított vonzalom miatt.",
+    "Irigységünkben összeesküdtünk, és testvérünket egy kút sötétjébe vettük.",
+    "Hogy eltitkoljuk tettünket, egy hamis vérrel foltos ruhát ajándékoztunk apánknak.",
+    "Évekkel később egy súlyos éhínség arra kényszerített minket, hogy Egyiptomba utazzunk ellátmányért.",
+    "Ott egy hatalmas kormányzó elé kerültünk, aki – számunkra ismeretlenül – pontosan az a testvérünk volt, akit megbántottunk.",
+    "Utolsó próbánk az volt, hogy elhoztuk legfiatalabb testvérünket, Binyamint, ami a múltunk feltárásához vezetett, és ahhoz, hogy apánk Ja'kub próféta volt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Ádám fiai (Qabil és Habil)",
+        "Isa próféta tanítványai",
+        "Júszuf próféta testvérei",
+        "Madyan népe",
+        "Fir'awn mágusai"
+      ],
+      "answer": "Júszuf próféta testvérei"
+    },
+    "trial": {
+      "label": "Mi volt a fő bűnünk?",
+      "options": [
+        "Aranyborjú építése imádat céljából",
+        "Allah közvetlen látásának követelése",
+        "Egy próféta kigúnyolása, amiért bárkát épített",
+        "Megcsaltuk apánkat és elhagytuk testvérünket",
+        "A szombat megszegése halászattal"
+      ],
+      "answer": "Megcsaltuk apánkat és elhagytuk testvérünket"
+    },
+    "location": {
+      "label": "Mi volt a megtévesztésünk középpontjában?",
+      "options": [
+        "Feliratos táblák halmaza",
+        "Egy művérrel foltos ing",
+        "Egy aranyborjú",
+        "Egy gyönyörű madár (a búbos banka)",
+        "Egy kígyóvá változott személyzet"
+      ],
+      "answer": "Egy művérrel foltos ing"
+    },
+    "outcome": {
+      "label": "Mi volt a történetünk végső kimenetele?",
+      "options": [
+        "Egy hatalmas árvíz pusztított el minket",
+        "Majmokká változtunk",
+        "Elnyelt minket a föld",
+        "Megbocsátottak nekünk, és újra együtt lehettünk a családunkkal",
+        "Megfulladtunk a tengerben"
+      ],
+      "answer": "Megbocsátottak nekünk, és újra együtt lehettünk a családunkkal"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

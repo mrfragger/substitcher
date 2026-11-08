@@ -1,0 +1,61 @@
+{
+  "title": "Mission na Ville ya Kala",
+  "intro": "Engumba ya kala oyo etondi na mputulu, bato na yango bakangamaki na bowangani, mpe likebisi ya nsuka oyo bato batyaki likebi te. Lelo oyo, bo kota na rôle ya ba oyo Allah atindaki pona ko livrer message na peuple ya motó makasi. Lisolo ya koboya, mongongo ya bondimi ya bobele moko, mpe nsuka ekangamaki na mobeko moko ya kobebisa. Nani alobaka na nzela ya bilembo yango?",
+  "clues": [
+    "Totindamaki na Allah na engumba oyo bato na yango batikaki bosolo",
+    "Mibale kati na biso toyaki liboso, nsima moto ya misato asanganaki mpo na kolendisa misio na biso",
+    "Bato ya mboka baboyaki biso, balobaki ete tozali eloko mosusu te kaka bato lokola bango",
+    "Molimo moko oyo eutaki na nsuka ya mosika mpenza ya engumba ekendeki mbangu mpo na koyebisa bato bálanda biso",
+    "Tobondelaki bango, kasi bakómisaki mitema na bango makasi mpe babalukaki kotɛmɛla biso",
+    "Na kolela moko ya kobebisa oyo euti na likoló, engumba na biso mobimba ekangamaki monɔkɔ"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bamemi-nsango ya Mboka na Surah Ya-Sin",
+        "Ba Hawwariyyun (Bayekoli ya Isa) .",
+        "Bandoki ya Ndako ya Farao",
+        "Baninga ya Sabata",
+        "Bato ya Nkoi"
+      ],
+      "answer": "Bamemi-nsango ya Mboka na Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bato ya engumba baboyaki mpe babengaki bango bato ya lokuta",
+        "Azikisamaki na bomoi na mɔ́tɔ monene oyo ezalaki kopela mɔ́tɔ",
+        "Emelamaki na mbisi monene na kati ya mbu mozindo",
+        "Batindi bango na makasi mpo na kotonga likonzí moko molai",
+        "Banyokolamaki na kati ya libulu ya mɔ́tɔ oyo ezalaki makasi"
+      ],
+      "answer": "Bato ya engumba baboyaki mpe babengaki bango bato ya lokuta"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Engumba ya kala (al-Qaryah) .",
+        "Litumbu monene oyo ezali kopela mɔtɔ",
+        "Libumu ya mbisi monene",
+        "Likonzí oyo etombwami oyo esimbaka likoló",
+        "Ndako ya bule (Kaaba) ."
+      ],
+      "answer": "Engumba ya kala (al-Qaryah) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Engumba yango ebebisamaki na kolela moko ya kobebisa (Sayha) .",
+        "Mokonzi ya bokonzi mpe basoda na ye bazindaki na mbu oyo ekabwanaki",
+        "Bato yango babongwanaki na banyoka mpe banyoka",
+        "Mbula ya mabanga oyo eutaki na likoló ebebisaki engumba yango",
+        "Mpela moko ya mobulu elongolaki bato nyonso ya mboka"
+      ],
+      "answer": "Engumba yango ebebisamaki na kolela moko ya kobebisa (Sayha) ."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

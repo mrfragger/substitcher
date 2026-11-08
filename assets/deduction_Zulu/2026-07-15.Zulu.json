@@ -1,0 +1,61 @@
+{
+  "title": "Indawo Yokuphumula Yodwa",
+  "intro": "Ezincwadini zomusa kaNkulunkulu, kukhona umphefumulo omsulwa ongenakuqhathaniswa, ohlukanisiwe nabantu bawo ukuze afune ukuba yedwa endaweni engcwele. Babengazi ukuthi lokhu kuzihlukanisa kuzoletha isibonakaliso sawo wonke umhlaba, isivivinyo sokholo okwakuzokhulunywa ngaso kuze kube phakade.",
+  "clues": [
+    "Ngangizinikele empilweni yokukhonza ngaphambi kokuzalwa kwami.",
+    "Ngabekwa ngaphansi kokunakekelwa komprofethi ohloniphekile.",
+    "Ngasekelwa ukudla okuvela ku-Allah okwamangaza umnakekeli wami.",
+    "Ngazihlukanisa nomndeni wami ngaya endaweni esempumalanga.",
+    "Ingelosi yabonakala kimi ngesimo somuntu ophelele, iletha izindaba zendodana emsulwa.",
+    "Lapho ngibuya nosana lwami olusanda kuzalwa, abantu bakithi bangimangalela, kodwa usana lwakhuluma lungivikela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UMaryam (uMariya)",
+        "U-Asiyah (umkaFaro)",
+        "UHajar (umama ka-Ismail)",
+        "USarah (umka-Ibrahim)",
+        "Umama kaMusa"
+      ],
+      "answer": "UMaryam (uMariya)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukukhulelwa okuyisimangaliso nokuzalwa kwendodana",
+        "Ukuphonswa emlilweni",
+        "Ukugwinywa yinhlanzi enkulu",
+        "Ukwakha umkhumbi omkhulu",
+        "Ukuwela ulwandle"
+      ],
+      "answer": "Ukukhulelwa okuyisimangaliso nokuzalwa kwendodana"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Indawo engasese empumalanga",
+        "Isihlahla esivuthayo",
+        "ULwandle Olubomvu",
+        "Idwala lapho amanzi aphuma khona",
+        "Umkhomo"
+      ],
+      "answer": "Indawo engasese empumalanga"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Usana lukhulume luvikela umama",
+        "Ulwandle lwahlukaniswa",
+        "Umlilo waphola futhi waphephile",
+        "Umkhomo wahlanza ogwini",
+        "Umkhumbi wahlala entabeni"
+      ],
+      "answer": "Usana lukhulume luvikela umama"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

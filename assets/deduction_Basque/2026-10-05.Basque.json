@@ -1,0 +1,61 @@
+{
+  "title": "Ibaiari eskainitako konfiantza",
+  "intro": "Arima batek ezinezko dekretu bati aurre egin behar izan zion, non jaioberri baten bizitza orekan zegoen. Jainkozko inspirazioak gidatuta, agindu etsi bat bete zuen, eta sekretu preziatu bat korrontean utzi zen, aurreikusi gabeko moduan itzultzeko.",
+  "clues": [
+    "Jaioberri arren hilketa agintzen zuen tirano baten itzalean bizi nintzen.",
+    "Jainkozko inspirazio bat etorri zitzaidan, ekintza etsi eta bihotza urratzen zuen bat egiteko aginduz.",
+    "Nire haurtxo preziatua kutxa batean sartu eta ibaiertzean utzi nuen.",
+    "Bihotza hustu zitzaidan, eta ia sekretua agerian utzi nuen, baina Alak nire erabakia indartu zuen.",
+    "Norbait bidali nuen haurraren bidaia ibaian behera jarraitzera, korronteak kutxa eramaten zuen bitartean.",
+    "Tiranoaren etxeak aurkitu zuen haurra, eta azkenean, nire haurrarekin berriro elkartu nintzen eta haurtzain bihurtu nintzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musa profetaren ama",
+        "Asiya (Faraoiaren emaztea)",
+        "Maryam (Isa profetaren ama)",
+        "Lut profetaren emaztea",
+        "Yahya profetaren ama (Zakariaren emaztea)"
+      ],
+      "answer": "Musa profetaren ama"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Bere haurra kutxa batean sartu eta ibaian utzi zuen",
+        "Bere haurra kobazulo batean ezkutatu zuen",
+        "Bere haurra basamortuan utzi zuen",
+        "Bere haurra sutara bota zuen",
+        "Bere haurra meskita baten atean utzi zuen"
+      ],
+      "answer": "Bere haurra kutxa batean sartu eta ibaian utzi zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Kutxa bat ibaian flotatzen jarrita",
+        "Sasi erretzen ari den bat",
+        "Suge bihurtu zen makila",
+        "Zeruko janariarekin apaindutako mahaia",
+        "Gamelu eme bat seinale gisa bidalia"
+      ],
+      "answer": "Kutxa bat ibaian flotatzen jarrita"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bere haurrarekin berriro elkartu zen eta titia eman zion",
+        "Ez zuen inoiz gehiago bere haurra ikusi",
+        "Tiranoak exekutatu zuen.",
+        "Egiptoko erregina bihurtu zen",
+        "Beste lurralde batera emigratu eta erbestean bizi izan zen"
+      ],
+      "answer": "Bere haurrarekin berriro elkartu zen eta titia eman zion"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

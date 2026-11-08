@@ -1,0 +1,61 @@
+{
+  "title": "De Glanz, deen ënnergaangen ass",
+  "intro": "Stellt Iech dat vir: eng Séil, déi a schéine Kleeder gehüllt ass a vu Schätz ëmgi ass, déi iwwer all Virstellung erausgoen. Dës Persoun huet gegleeft, datt hire Räichtum duerch hir eege Brillanz verdéngt gouf, ouni d'Quell vun der richteger Versuergung unerkannt ze hunn. Ënnert de Follower vun engem mächtege Prophet huet dës Persoun all Opruff zur Demut refuséiert. Haut entdecken mir d'Identitéit vun enger Persoun, där hire prächtege Räichtum hir lescht Rouplaz gouf.",
+  "clues": [
+    "Ech hunn zu der Zäit vun engem Prophet gelieft, deen eng stur Natioun zur Wourecht geruff huet.",
+    "Ech war Deel vun enger gewielter Gemeinschaft, awer mäin Häerz huet sech vun der Botschaft ewechgedréint.",
+    "Gold a Sëlwer hunn mech méi faszinéiert wéi all göttlech Gebot.",
+    "Meng Schatzkammere sinn sou grouss ginn, datt eng staark Grupp vu Männer kaum d'Schlësselen hiewe konnt.",
+    "Ech hunn geprahlt, datt mäi Räichtum mir wéinst mengem eegenen Wëssen ginn ass.",
+    "Schlussendlech goufen ech a meng ganz Wunneng als Warnung vun der Äerd verschléckt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Arroganz iwwer Räichtum a Verweigerung vun der Charity",
+        "Schmiede vun engem gëllene Statu aus geschmoltenem Bijou",
+        "D'Gottheet iwwer e mächtegt Kinnekräich verkënnegen",
+        "Verfollegung vun den éischte Gleewegen zu Mekka",
+        "Eng Kampagne fir d'Zerstéierung vum Hellegen Haus féieren"
+      ],
+      "answer": "Arroganz iwwer Räichtum a Verweigerung vun der Charity"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Schätz, deenen hir Schlësselen vill staark Männer belaascht hunn",
+        "E gëllene Kalb, dat Toun produzéiert huet",
+        "En herrleche Troun aus engem wäitem Land",
+        "E Gruef gefëllt mat brennendem Feier",
+        "Eng mächteg Arméi vu Krichselefanten"
+      ],
+      "answer": "Schätz, deenen hir Schlësselen vill staark Männer belaascht hunn"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vun der Äerd zesumme mam Wunnraum verschléckt",
+        "Mat enger Arméi am Mier erdronk",
+        "Lieweg verbrannt an enger Lach vum Feier",
+        "Zerstéiert vun engem jäizenden, rosen Wand",
+        "Vun engem eenzege mächtege Schlag getraff"
+      ],
+      "answer": "Vun der Äerd zesumme mam Wunnraum verschléckt"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Stëmm virum Stuerm",
+  "intro": "Eng Figur an der Wüst ass opgestan, fir eng mächteg Natioun zréck zur Wourecht ze ruffen. D'Leit ware bekannt fir hir prächteg Gebaier an hir oniwwertraff Kraaft. Awer hire Stolz huet si geblennt, an si hunn refuséiert ze lauschteren. Schlussendlech ass si mat enger verheerender Strof bestrooft ginn, déi nëmmen eng kleng Grupp vu Gleewegen verschount bliwwen ass.",
+  "clues": [
+    "Ech gouf zu engem mächtege Vollek geschéckt, dat an den oppene Lännereien gelieft huet a fir hir Muecht bekannt war.",
+    "Mäi Vollek ass hannert enger anerer grousser Natioun hierkomm, déi zerstéiert gi war.",
+    "Si haten herrlech Strukturen a grouss Tierm gebaut.",
+    "Ech hunn si geruff, een Gott ze veréieren, awer si hunn refuséiert, hir Idolen opzeginn.",
+    "Eng gewaltsam Strof huet si iwwerholl, an nëmmen déi verschount bliwwen, déi mat mir gegleeft hunn.",
+    "Ech sinn deen, deen zu engem mächtege Vollek geschéckt gouf, bekannt als Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Hud",
+        "Prophet Salih",
+        "De Prophet Schu'aib",
+        "Prophet Nuh",
+        "Prophet Ibrahim"
+      ],
+      "answer": "Prophet Hud"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Déi grouss Iwwerschwemmung",
+        "E brüllende gewaltege Wand",
+        "En Äerdbiewen an e schrecklecht Gejäiz",
+        "E Reen vu brennende Steng",
+        "Himmelsfeier vun uewen"
+      ],
+      "answer": "E brüllende gewaltege Wand"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng grouss Ark, déi op engem Bierg gebaut gouf",
+        "Eng eenzegaarteg Kamelfra",
+        "E Staff, deen zu enger Schlaang gouf",
+        "Héich Gebaier a räich Strukturen",
+        "E flammende Scheiterhaufen"
+      ],
+      "answer": "Héich Gebaier a räich Strukturen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "All sinn an enger grousser Iwwerschwemmung erdronk",
+        "Mäi Vollek gouf vun engem staarke Wand zerstéiert, während ech gerett gouf",
+        "Mäi Vollek, dat vun engem Äerdbiewen getraff gouf, kräischen",
+        "Meng Leit goufen mat Steng vum Himmel beschoss",
+        "Mäi Vollek an e brennend Feier gehäit"
+      ],
+      "answer": "Mäi Vollek gouf vun engem staarke Wand zerstéiert, während ech gerett gouf"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

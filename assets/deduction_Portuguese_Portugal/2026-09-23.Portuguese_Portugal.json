@@ -1,0 +1,61 @@
+{
+  "title": "O chamado que resistiu aos tempos",
+  "intro": "Imagine uma alma que se ergueu sozinha contra toda uma civilização, determinada a guiá-la de volta do erro com uma resolução inabalável. Durante séculos, a mensagem foi rejeitada, ridicularizada e descartada — contudo, o esforço jamais cessou. Por fim, chegou o grande julgamento, e apenas alguns embarcaram na salvação ao lado dessa alma firme. Você consegue identificar essa figura no Alcorão?",
+  "clues": [
+    "Fui enviado como um mensageiro para um povo perdido em seus próprios caminhos.",
+    "Eu os convidei a pedir perdão e a se arrependerem de seus erros, mas eles se afastaram.",
+    "Sob comando divino, construí uma embarcação gigantesca enquanto meu povo observava e me ridicularizava.",
+    "Invoquei meu Senhor incessantemente — e finalmente Ele respondeu, e a água jorrou do céu em torrentes.",
+    "Embarquei no navio com aqueles que acreditavam quando as águas da enchente subiram sobre a terra.",
+    "Gritei para alguém que havia ficado para trás, pedindo que se refugiasse em uma montanha, mas o decreto já havia sido promulgado."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Noé",
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Hud",
+        "Profeta Salih"
+      ],
+      "answer": "Profeta Noé"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Construir uma grande arca e sobreviver a um dilúvio mundial.",
+        "Ser lançado em um fogo ardente",
+        "Enfrentando um tirano e seus poderosos magos",
+        "Ser engolido por um peixe enorme",
+        "Testemunhar o abate de uma camela sagrada"
+      ],
+      "answer": "Construir uma grande arca e sobreviver a um dilúvio mundial."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma enorme arca de madeira em meio às águas turbulentas da enchente.",
+        "Um vale sagrado com ruínas de pedra antigas",
+        "Uma caverna profunda onde companheiros dormiram por séculos.",
+        "A barriga de uma baleia gigante nas profundezas do oceano.",
+        "Uma imponente montanha de pedra em meio à natureza selvagem."
+      ],
+      "answer": "Uma enorme arca de madeira em meio às águas turbulentas da enchente."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Salvos com os crentes a bordo do navio",
+        "Resgatado ileso do incêndio por ordem divina.",
+        "Liderou um grande êxodo de um reino poderoso.",
+        "Lançado dos peixes para uma costa deserta",
+        "Conduziu as pessoas para longe do mal por meio de um sinal milagroso."
+      ],
+      "answer": "Salvos com os crentes a bordo do navio"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

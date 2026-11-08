@@ -1,0 +1,61 @@
+{
+  "title": "Svētnīcas lūdzējs",
+  "intro": "Klusās nakts stundās svētas vietas svētajās sienās kāda uzticīga dvēsele sauca Visžēlīgāko. Gadiem ilga nelokāma ticība un pacietība drīz tiks atalgota ar brīnumu, kas nesīs prieku un pravietības mantojumu.",
+  "clues": [
+    "Es pavadīju savas dienas un naktis dievbijīgā svētnīcā, pastāvīgi lūdzot savu Kungu.",
+    "Es novecoju, un mana sieva bija neauglīga, tomēr es nekad nezaudēju cerību uz Allāha žēlastību.",
+    "Man tika dāvāts dēls vārdā Jahja, kurš kļuva par pravieti un taisnības paraugu.",
+    "Es pats biju pravietis, sūtīts vadīt Izraēla bērnus.",
+    "Es biju pravieša Haruna pēctecis un kalpoju par priesteri Templī.",
+    "Man tika uzticēta Īsas mātes Marijas aprūpe, un es biju viņas brīnumu liecinieks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Zakarija",
+        "Pravietis Jahja",
+        "Pravietis Iļja",
+        "Pravietis Išaks",
+        "Pravietis Jakubs"
+      ],
+      "answer": "Pravietis Zakarija"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Vecumdienās uzdāvināja dēlu",
+        "Izglābts no liesmojošas uguns",
+        "Izglābts no zivs vēdera",
+        "Pārdzīvoja lielus plūdus",
+        "Izārstēts no smagas slimības"
+      ],
+      "answer": "Vecumdienās uzdāvināja dēlu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Mihrabs (lūgšanu niša)",
+        "Kaaba",
+        "Degošais krūms",
+        "Derības šķirsts",
+        "Septiņu gulētāju ala"
+      ],
+      "answer": "Mihrabs (lūgšanu niša)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Dāvāja taisnīgu dēlu, kurš kļuva par pravieti",
+        "Iznīcināta spēcīgas vētras laikā",
+        "Noslīcis jūrā",
+        "Pasargāts no apdegumiem",
+        "Atgriezās pie saviem cilvēkiem pēc glābšanas no zivs"
+      ],
+      "answer": "Dāvāja taisnīgu dēlu, kurš kļuva par pravieti"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaiwhaiwhai i waenganui i ngā Pae e Rua",
+  "intro": "I roto i ngā pukapuka ārahi a te Atua, ka tū motuhake tētahi tangata hei rangatira mana, hei pononga whakaiti hoki nā Allah. I haere tēnei tangata ki ngā pito tawhiti o te ao, me te mātakitaki i te putanga mai o te rā ki runga i tētahi iwi rerekē, me te tōnga ki roto i tētahi puna pango pōuriuri. Ko te mea whakamiharo, i tukuna ki tēnei pononga te mahi ki te hanga i tētahi ārai whakamiharo hei ārai i tētahi iwi kino nui. Ka taea e koe te tautuhi i tēnei tangata rongonui mai i te Quran?",
+  "clues": [
+    "I homai e te Atua Aroha ki ahau te mana me te awe i runga i te whenua",
+    "I haere ahau ki te wāhi e whiti ai te rā, e tō ai hoki",
+    "I tae atu ahau ki tētahi iwi kāore i te tino mārama ki tētahi kupu",
+    "I whakahaua ahau kia hanga he ārai nui ki te rino",
+    "I hiritia e au te āputa i waenganui i ngā maunga pari e rua ki te konganuku rewa",
+    "Ehara ahau i te anahera, ehara hoki i te poropiti, engari he pononga i atawhaitia e te Atua"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Dhu al-Qarnayn (Te Mea he Rua ōna Haona)",
+        "Kingi Suleiman (Hōromona)",
+        "Poropiti a Dhul-Kifl",
+        "Dhu al-Nun (Te Hoa Ika)",
+        "Te Anahera o te Ārai"
+      ],
+      "answer": "Dhu al-Qarnayn (Te Mea he Rua ōna Haona)"
+    },
+    "trial": {
+      "label": "Te Mahi Nui",
+      "options": [
+        "Te hanga i tētahi pourewa ki te rangi",
+        "Te hanga i tētahi ārai rino nui hei ārai i a Yajuj rāua ko Majuj",
+        "Te hanga i tētahi torona koura mō te whakawa",
+        "Te keri i te puna hohonu mō te hunga tika",
+        "Te hanga kaipuke i te wā o te waipuke nui"
+      ],
+      "answer": "Te hanga i tētahi ārai rino nui hei ārai i a Yajuj rāua ko Majuj"
+    },
+    "location": {
+      "label": "Te Tautuhinga",
+      "options": [
+        "Te whenua o Uzair i waenganui i ngā awa e rua",
+        "Te wāhi o te whitinga o te rā me te puna paru pango",
+        "Te awaawa tapu o Makkah",
+        "Te koraha o Madyan",
+        "Te moutere o Kaiperu"
+      ],
+      "answer": "Te wāhi o te whitinga o te rā me te puna paru pango"
+    },
+    "outcome": {
+      "label": "Te Kupu Whakaari Atua",
+      "options": [
+        "Ka tukuna tonutia te pararaiha mutunga kore",
+        "I whakangaromia te iwi e te hau wera",
+        "Ka mau te ārai tae noa ki te Rā Whakawakanga",
+        "Te herekoretanga mai i te mate mō te hunga whakapono katoa",
+        "He rangatiratanga mutunga kore"
+      ],
+      "answer": "Ka mau te ārai tae noa ki te Rā Whakawa"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

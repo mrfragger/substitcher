@@ -1,0 +1,61 @@
+{
+  "title": "Gdhendësit e Gurit të Luginës së Lashtë",
+  "intro": "Imagjinoni një qytetërim që u ngrit në luginat shkëmbore të Arabisë, i aftë në ndërtimin e shtëpive madhështore nga shpatet e maleve. Ata lulëzuan me forcë dhe mjeshtëri, megjithatë historia e tyre është e shënuar nga një sfidë e frikshme ndaj paralajmërimit hyjnor. Ndërsa zhyteni në historinë e tyre, do të zbuloni një popull, arroganca e të cilit çoi në shfarosjen e tyre të plotë. Kush ishin ata?",
+  "clues": [
+    "Ne trashëguam një tokë me fusha shkëmbore dhe shkëmbinj të lartë, ku ndërtuam banesat tona me një aftësi të pakrahasueshme.",
+    "Ne ishim të njohur për ndërtimin e shtëpive të sigurta në male, duke u ndjerë të sigurt nga çdo dëm.",
+    "Një i dërguar na erdhi nga mesi ynë, duke na kujtuar të mirat e Allahut dhe duke na paralajmëruar për ndëshkimin.",
+    "Ne kërkuam një shenjë dhe një deve e mrekullueshme doli nga shkëmbi, një provë e qartë nga Allahu.",
+    "Ne e sfiduam paralajmërimin dhe ia premë devenë, duke e tallur të dërguarin dhe duke sfiduar ndëshkimin.",
+    "Një shpërthim i vetëm na përfshiu në shtëpitë tona dhe në mëngjes u shtrimë përtokë, sikur të mos kishim jetuar kurrë atje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Populli i Themudit",
+        "Populli i Adit",
+        "Njerëzit e Medjenit",
+        "Populli i Nuhut",
+        "Populli i Lutit"
+      ],
+      "answer": "Populli i Themudit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ia preu devenë",
+        "Theu Sabatin",
+        "Adhuroi viçin e artë",
+        "Vrau profetin që u dërgua atyre",
+        "Ndërtoi një kullë për të arritur qiellin"
+      ],
+      "answer": "Ia preu devenë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Deveja",
+        "Arka",
+        "Stafi",
+        "Dora e bardhë",
+        "Mana dhe shkurtat"
+      ],
+      "answer": "Deveja"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Shkatërrohet nga një shpërthim",
+        "I shpëtuar nga shkatërrimi",
+        "U shndërruan në majmunë",
+        "U mbyt në det",
+        "Gëlltitur nga toka"
+      ],
+      "answer": "Shkatërrohet nga një shpërthim"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

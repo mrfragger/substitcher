@@ -1,0 +1,61 @@
+{
+  "title": "Hlas proti falešným váhám",
+  "intro": "V zemi, kde se váhy nakláněly a míry krátily, vyrostla mezi obchodníky a kupci věrná duše. Tato osoba se sama postavila proti nepoctivosti celého národa a vyzývala ho ke spravedlnosti a uctívání Jediného Pravého Boha. Ačkoli bylo poselství jasné a výzva spravedlivá, lidé odmítli naslouchat a čelili zničujícímu osudu. Dokážete identifikovat tohoto ušlechtilého posla z Koránu?",
+  "clues": [
+    "Byl jsem vyslán jako posel k lidu, jehož živobytí se točilo kolem obchodu a komerce.",
+    "Můj lid byl po celé zemi známý tím, že dávali málo odměrek a podváděli s vážením.",
+    "Také terorizovali cestovatele na cestách a šířili zkaženost po celé zemi.",
+    "Naléhal jsem na ně, aby uctívali pouze Alláha a byli ve svém jednání s ostatními naprosto poctiví.",
+    "Odmítli mé slovo a vyhrožovali, že mě i ty, kdo se mnou uvěřili, vyženou ze země.",
+    "Alláh zachránil mne a mé následovníky svým milosrdenstvím, zatímco provinilce postihl zničující trest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Šuajb",
+        "Prorok Lut",
+        "Prorok Hud",
+        "Prorok Sálih",
+        "Prorok Nuh"
+      ],
+      "answer": "Prorok Šuajb"
+    },
+    "trial": {
+      "label": "Hřích mého lidu",
+      "options": [
+        "Podvádění s mírami a vahami",
+        "Stavím vznešenou věž proti obloze",
+        "Požadovat velbloudici ze skály",
+        "Bijíc proroky, kteří k nim byli posláni",
+        "Pohřbívání zaživa kojeneckých dívek"
+      ],
+      "answer": "Podvádění s mírami a vahami"
+    },
+    "location": {
+      "label": "Moji lidé",
+      "options": [
+        "Lidé z Madyanu",
+        "Lidé z 'Aadu",
+        "Lidé z Thamudu",
+        "Faraonovi lidé",
+        "Lidé Sabatu"
+      ],
+      "answer": "Lidé z Madyanu"
+    },
+    "outcome": {
+      "label": "Jejich konec",
+      "options": [
+        "V noci je zachvátil pronikavý výkřik",
+        "Mohutná povodeň je všechny zaplavila",
+        "Zničil je prudký studený vítr",
+        "Pršely na ně kameny z vypálené hlíny",
+        "Byly proměněny v kamenné sloupy"
+      ],
+      "answer": "V noci je zachvátil pronikavý výkřik"
+    }
+  },
+  "verseRef": "11:94",
+  "arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+  "verse": "And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone (11:94)"
+}

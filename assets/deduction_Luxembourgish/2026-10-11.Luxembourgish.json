@@ -1,0 +1,61 @@
+{
+  "title": "D'Stëmm am ale Sand",
+  "intro": "Ënnert den éischte Gesandten vun Allah gouf et een, deem säin Numm kuerz awer bedeitungsvoll am Koran erschéngt. Dës Persoun huet laang gelieft, ier vill grouss Prophéiten geschéckt goufen, a war bekannt fir hir onerschütterlech Wourecht a Gedold. Hir Geschicht ass kuerz, awer hiert Ierfschaft bleift am éiwege Rekord. Wien ass dës nobel Séil?",
+  "clues": [
+    "Ech sinn ee vun den éischte Boten, kuerz awer bedeitungsvoll am Koran ernimmt.",
+    "Mäi Charakter gouf duerch eng onerschütterlech Engagement fir d'Wourecht definéiert.",
+    "Ech ginn am Buch vun Allah ënner deenen erënnert, déi standhaft a gedëlleg waren.",
+    "Nëmmen e puer kuerz Verse am Koran erzielen meng Geschicht.",
+    "Allah huet mech op eng Manéier geéiert, déi eenzegaarteg fir mech ass, an net mat anere Prophéiten gedeelt.",
+    "Ech gouf op eng héich Plaz erhuewen, eng eenzegaarteg Éier am Koran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Idris",
+        "Prophet Ilyas",
+        "Dhul-Kifl",
+        "Prophet Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Prophet Idris"
+    },
+    "trial": {
+      "label": "Definéierende Moment",
+      "options": [
+        "Ech gouf vun Allah op eng héich Plaz erhuewen",
+        "Ech hunn eng grouss Ark gebaut fir mäi Vollek ze retten",
+        "Ech hunn d'Zauberer vum Pharao erausgefuerdert",
+        "Ech gouf vu menge Bridder an eng Lach gehäit",
+        "Ech hunn mäi Siicht verluer wéinst dem Leed ëm mäi Jong"
+      ],
+      "answer": "Ech gouf vun Allah op eng héich Plaz erhuewen"
+    },
+    "location": {
+      "label": "Helleg Referenz",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Göttlech Éier",
+      "options": [
+        "Eng héich Statioun wéi keng aner",
+        "Herrschaft iwwer Djinn an d'Wand",
+        "E Kinnekräich vun oniwwertraffem Ruhm",
+        "En Ierwe vu mengem Alter",
+        "E Bund, dat mat Allah versiegelt gouf"
+      ],
+      "answer": "Eng héich Statioun wéi keng aner"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

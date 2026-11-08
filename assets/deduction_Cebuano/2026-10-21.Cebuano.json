@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mensahero Nga Miatubang sa mga Nagsimba sa mga Idolo",
+  "intro": "Sa panahon nga ang debosyon nawala, usa ka mensahero ang mibangon nga adunay panawagan nga mobalik sa pagsimba sa Ginoo sa mga kalibutan. Kini nga tawo lig-on nga mibarog batok sa katawhan nga nalambigit sa pagsimba sa usa ka bakak nga diyos, nga nagpahinumdom kanila sa ilang tinuod nga Magbubuhat ug ang Ginoo sa ilang mga katigulangan. Apan ang katawhan wala magpakabana ug misalikway sa pasidaan, nga nagselyo sa ilang kaugalingong kapalaran. Kinsa kining dili matarug nga tigpanawag?",
+  "clues": [
+    "Gipadala ako ngadto sa katawhan nga mibiya sa dalan sa Usa ka Tinuod nga Dios.",
+    "Nangutana ko sa akong mga katawhan, \"Dili ba kamo mahadlok kang Allah?\"",
+    "Gitawag ko sila nga biyaan ang ilang pagsimba sa usa ka bakak nga diyos nga ginganlag Baal.",
+    "Ang akong katawhan misalikway sa akong tawag ug nagpadayon sa ilang pagsimba sa mga diosdios.",
+    "Tungod sa ilang paglimud, sigurado nga sila pagadad-on alang sa silot.",
+    "Ang akong Ginoo naghatag kanako og kalinaw ug usa ka bulahan nga handumanan taliwala sa ulahi nga mga henerasyon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Ilyas",
+        "Propeta Yahya",
+        "Propeta Dhul-Kifl",
+        "Propeta Yusuf",
+        "Propeta Shu'ayb"
+      ],
+      "answer": "Propeta Ilyas"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gitawag niya ang iyang katawhan nga biyaan si Baal",
+        "Nagtukod ug arka aron maluwas ang mga tumutuo",
+        "Gilabay sa kalayo",
+        "Mikalagiw gikan sa malupigong Paraon",
+        "Gibunalan ang bato aron moagas ang tubig"
+      ],
+      "answer": "Gitawag niya ang iyang katawhan nga biyaan si Baal"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Gihatagan og kalinaw ug usa ka bulahan nga handumanan",
+        "Gilubong sa yuta",
+        "Naguba sa kusog nga bagyo",
+        "Nahimong bato",
+        "Nalumos sa dagat"
+      ],
+      "answer": "Gihatagan og kalinaw ug usa ka bulahan nga handumanan"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

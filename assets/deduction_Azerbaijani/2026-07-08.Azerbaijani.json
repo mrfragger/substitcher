@@ -1,0 +1,61 @@
+{
+  "title": "Seçilmişlərin Xəyanətkarları",
+  "intro": "Tarix boyu ilahi elçilər bəşəriyyət arasında gəzib dolaşıblar və onlara ən yaxın olanlardan bəziləri nuru tanımayıblar. Bu hekayə peyğəmbərliyə yaxınlığı onların sınağına, mirasları isə əbədi bir dərsə çevrilən iki ruh haqqındadır.",
+  "clues": [
+    "Biz böyük peyğəmbərlərin dövründə yaşamışıq, amma gözlərimiz onların gətirdiyi həqiqətlərə bağlı qalmışdı.",
+    "Evlərimiz ilahi vəhylə dolu idi, amma ürəklərimiz sərtləşmişdi.",
+    "Biz öz xalqını xəbərdar etmək üçün seçilmiş kişilərlə evli idik.",
+    "Cəza gələndə gəmiyə sığınmadıq və yanan yağışdan qaçmadıq, çünki xəbərdarlıqlara istehza etdik.",
+    "Quranda kafirlər üçün bir nümunə olaraq bəhs edilir və peyğəmbərlə yaxın münasibətin belə xilas etmədiyini göstərir.",
+    "Biz Nuh və Lutun arvadlarıyıq, onlara xəyanət etmiş və buna görə də məhkum edilmişlər."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Nuh və Lutun arvadları",
+        "İbrahim və İsmayılın həyat yoldaşları",
+        "Musa və Harunun arvadları",
+        "Davud və Süleymanın həyat yoldaşları",
+        "Əyyub və Yunusun həyat yoldaşları"
+      ],
+      "answer": "Nuh və Lutun arvadları"
+    },
+    "trial": {
+      "label": "Onların məhkəməsi nə idi?",
+      "options": [
+        "Onlar peyğəmbərlərlə evlənmişdilər, amma kafir idilər.",
+        "Onlar sonsuz idilər və peyğəmbərləri günahlandırdılar",
+        "Onlar varlı və təkəbbürlü idilər",
+        "İblis onları evlərindən çıxmağa vadar etdi.",
+        "Onlar Qızıl buzova ibadət edirdilər"
+      ],
+      "answer": "Onlar peyğəmbərlərlə evlənmişdilər, amma kafir idilər."
+    },
+    "location": {
+      "label": "Onların taleyi nə ilə bağlı idi?",
+      "options": [
+        "Daşqın və daş yağışı",
+        "Şiddətli bir külək",
+        "Zəlzələ",
+        "Çəyirtkələrin vəbası",
+        "Dənizin iki yerə bölünməsi"
+      ],
+      "answer": "Daşqın və daş yağışı"
+    },
+    "outcome": {
+      "label": "Onların sonu nə idi?",
+      "options": [
+        "Onlar kafirlərlə birlikdə həlak oldular.",
+        "Onlar tövbə etdilər və xilas oldular",
+        "Onlar övladsız qaldılar",
+        "Onlar əbədi sürgün edildilər",
+        "Onlar meymunlara və donuzlara çevrildilər"
+      ],
+      "answer": "Onlar kafirlərlə birlikdə həlak oldular."
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

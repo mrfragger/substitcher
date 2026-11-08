@@ -1,0 +1,61 @@
+{
+  "title": "Die Flamme, die ein Vermächtnis enthüllte",
+  "intro": "In den Annalen des Widerstands findet sich eine Gestalt, deren Name bis in alle Ewigkeit als Mahnung gilt. Diese Person wählte Feindschaft statt Verwandtschaft, Trotz statt Unterwerfung und widersetzte sich dem Ruf der Barmherzigkeit. Lauschen Sie den Echos einer uralten Proklamation, während wir die Identität dieser berüchtigten Seele enthüllen.",
+  "clues": [
+    "Ich wurde in denselben Clan hineingeboren wie der letzte Gesandte Allahs, doch ich stellte mich ihnen bei jeder Gelegenheit entgegen.",
+    "Mein Name hatte eine Bedeutung – ein Name, der „Vater der Flamme“ bedeutete, ein Name, der mein ewiges Schicksal vorwegnehmen sollte.",
+    "Ich habe dem Überbringer der Wahrheit Schaden zugefügt, und sogar meine eigene Familie hat sich an dieser Kampagne der Grausamkeit beteiligt.",
+    "Ich nutzte meinen Reichtum und meinen Einfluss, um den Ruf nach Allah zum Schweigen zu bringen, da ich glaubte, Geld könne das göttliche Licht auslöschen.",
+    "Allah hat mir ein ganzes Kapitel gewidmet – ein Kapitel, das so kurz ist, dass es in Sekunden rezitiert werden kann, dessen Bedeutung aber bis zum Tag des Gerichts bestehen bleibt.",
+    "Mein Gefährte im Jenseits geht hinter mir her, um den Hals mit einem Seil aus Fasern gebunden, und trägt ebendiese Dornen, die sie einst verbreiteten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayya ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Konfrontation definieren",
+      "options": [
+        "Er führte die Opposition gegen den Propheten in Mekka an.",
+        "Migration nach Abessinien, um der Verfolgung zu entgehen",
+        "Der Bau der Kaaba mit dem Propheten Ibrahim",
+        "Den Islam auf dem Sterbebett annehmen",
+        "Die Ausarbeitung des Vertrags von Hudaybiyyah"
+      ],
+      "answer": "Er führte die Opposition gegen den Propheten in Mekka an."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine Ehefrau, die Dornen und Brennholz trug",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein Ring mit dem Siegel Salomos",
+        "Ein goldenes Kalb, das vom Volk verehrt wurde.",
+        "Eine Quelle, aus der Wasser sprudelte"
+      ],
+      "answer": "Eine Ehefrau, die Dornen und Brennholz trug"
+    },
+    "outcome": {
+      "label": "Endgültige Abrechnung",
+      "options": [
+        "Eine ganze Sure wurde enthüllt, die den totalen Untergang verkündet.",
+        "Wurde zum Anführer der muslimischen Gemeinde",
+        "Er empfing im Augenblick des Todes Vergebung.",
+        "Er baute eine großartige Moschee in Medina",
+        "Er wurde unter den Gerechten auferweckt."
+      ],
+      "answer": "Eine ganze Sure wurde enthüllt, die den totalen Untergang verkündet."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

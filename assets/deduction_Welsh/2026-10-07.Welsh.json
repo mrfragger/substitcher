@@ -1,0 +1,61 @@
+{
+  "title": "Y fflam o fewn palas y balchder",
+  "intro": "Y tu ôl i furiau mawreddog palas mwyaf pwerus y byd hynafol roedd ffigur yn byw yr oedd ei galon yn cario cyfrinach na allai unrhyw orchymyn brenhinol ei dawelu. Tra bod pawb o'u cwmpas yn plygu i dduwiau ffug, cadwodd yr enaid hwn ffydd dawel yn llosgi ynddo'i hun. Credai llywodraethwr y wlad honno ei hun yn ddwyfol, ond dewisodd yr unigolyn hwn wirionedd dros gysur, ac ymroddiad dros ddiogelwch. Heddiw, eich tasg chi yw darganfod pwy oedd yr enaid dewr hwn, y mae ei stori yn parhau i fod yn un o'r enghreifftiau mwyaf pwerus o ffydd ddiysgog.",
+  "clues": [
+    "Roeddwn i'n byw mewn lle o gyfoeth aruthrol a mawredd heb ei ail, lle'r oedd gan reolwr y wlad rym llwyr dros bopeth.",
+    "Tra bod y rhai o'm cwmpas yn plygu i dduwiau gau, cadwais olau tawel o ffydd yn fy nghalon.",
+    "Fe wnes i ddarganfod a mabwysiadu plentyn a ddaeth ataf mewn ffordd anarferol - nid trwy enedigaeth, ond trwy ddyfroedd afon fawr.",
+    "Gweddïais ar fy Arglwydd, gan ofyn am gartref yn agos Ato ym Mharadwys ac iachawdwriaeth rhag y gormes a'm hamgylchynai.",
+    "Tyfodd y plentyn a fagais i fyny i herio'r union reolwr a oedd yn rheoli fy nhynged, a safais yn gadarn yn fy ffydd hyd yn oed pan oeddwn dan fygythiad.",
+    "Fi yw'r un y mae ei enw'n cael ei anrhydeddu yn y Quran fel model o ffydd, ac roeddwn i'n byw ym mhalas y Pharo ei hun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Asiya, gwraig y Pharo",
+        "Maryam, mam Isa",
+        "Bilqis, Brenhines Sheba",
+        "Gwraig y Proffwyd Lut",
+        "Gwraig Imran"
+      ],
+      "answer": "Asiya, gwraig y Pharo"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Darganfod a magu baban wedi'i adael a ddaeth yn broffwyd mawr",
+        "Cael eich bwrw i dân mawr gan deyrn",
+        "Yn dyst i lifogydd mawr a ddinistriodd bobl",
+        "Yn dyst i ysgwyd palmwydd dyddiad a darparu maeth",
+        "Beichiogi mab er gwaethaf oedran uchel"
+      ],
+      "answer": "Darganfod a magu baban wedi'i adael a ddaeth yn broffwyd mawr"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Palas brenhinol o ogoniant digymar",
+        "Llong wych wedi'i hadeiladu i wrthsefyll llifogydd",
+        "Ogof ddofn wedi'i chuddio yn y mynyddoedd",
+        "Tân llachar wedi'i adeiladu ar ben mynydd",
+        "Gardd wedi'i hamgylchynu gan waliau"
+      ],
+      "answer": "Palas brenhinol o ogoniant digymar"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Rhoddwyd cartref ym Mharadwys trwy ewyllys Allah",
+        "Dinistriodd llifogydd mawr anghredinwyr cenedl hynafol",
+        "Rhoddwyd teyrnas o rym ac awdurdod aruthrol yn y byd hwn",
+        "Gwasgarwyd byddin fawr gan adar yn hedfan",
+        "Boddwyd teyrn a honnodd dduwdod yn y môr"
+      ],
+      "answer": "Rhoddwyd cartref ym Mharadwys trwy ewyllys Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

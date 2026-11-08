@@ -1,0 +1,61 @@
+{
+  "title": "Wiara za tronem",
+  "intro": "Niektóre dusze są wystawiane na próbę nie przez ogień ani powódź, ale przez powolny ucisk życia w pałacu tyrana. Ta postać stała obok władcy, który twierdził, że jest boski wobec swojego ludu, a jednocześnie potajemnie trzymał się wiary w Jedynego Prawdziwego Boga. Kiedy ich oddanie zostało odkryte, przyszło cierpienie – ale i boska obietnica. Czy potrafisz zgadnąć, o kogo chodzi?",
+  "clues": [
+    "Mieszkałem pod dachem najpotężniejszego władcy mojego kraju, w sytuacji, jakiej mało kto mógłby sobie wyobrazić.",
+    "Mój małżonek stanął przed ludźmi i ogłosił się bogiem, ale moje serce należało do Jedynego Prawdziwego Pana.",
+    "Szeptałam modlitwy w tajemnicy, bojąc się kary, jaka czekała każdego, kto sprzeciwił się mojemu małżonkowi.",
+    "Gdy moja wiara została ujawniona, zostałem schwytany i torturowany — jednak mój język nigdy nie wypowiedział ani jednego słowa niewiary.",
+    "Wylałem swe serce przed Panem, prosząc o dom w Raju, z dala od wszelkiego zła.",
+    "Jestem Asiya bint Muzahim — żona faraona, który sprzeciwiał się Musie i Harunowi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Asiya bint Muzahim (żona faraona)",
+        "Hawwa (Ewa), pierwsza kobieta",
+        "Sara, pierwsza żona Ibrahima",
+        "Hagar, matka Isma’ila",
+        "Matka Maryam (żony Imrana)"
+      ],
+      "answer": "Asiya bint Muzahim (żona faraona)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Znoszenie tortur za odmowę wyrzeczenia się wiary",
+        "Przeżycie w brzuchu wielkiej ryby",
+        "Budowa ogromnej arki, aby uciec przed potopem",
+        "Wrzucenie w płonący ogień",
+        "Świadek rozstąpienia się wielkiego morza"
+      ],
+      "answer": "Znoszenie tortur za odmowę wyrzeczenia się wiary"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Dom zbudowany dla nich w Raju",
+        "Laska, która przemieniła się w węża",
+        "Arka niosąca pary każdego stworzenia",
+        "Złoty cielec czczony przez naród",
+        "Proca używana do pokonania gigantycznego wojownika"
+      ],
+      "answer": "Dom zbudowany dla nich w Raju"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Uhonorowany mieszkaniem w Raju obok sprawiedliwych",
+        "Utonął pod falami wraz ze swoją armią",
+        "Spalił się w płomieniach, ale został uratowany przez boską interwencję",
+        "Połknięty przez wielkie stworzenie, a następnie wyrzucony na brzeg",
+        "Stał się najbogatszym człowiekiem swoich czasów"
+      ],
+      "answer": "Uhonorowany mieszkaniem w Raju obok sprawiedliwych"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

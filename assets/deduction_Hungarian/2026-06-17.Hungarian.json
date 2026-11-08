@@ -1,0 +1,61 @@
+{
+  "title": "A visszhang a város széléről",
+  "intro": "Egy olyan városban, amely elfordult az isteni útmutatástól, egy magányos alak bukkant elő a külvárosból, reményt és figyelmeztetést hozva magával. Ez az elfeledett lélek a rendíthetetlen hit örök szimbólumává vált.",
+  "clues": [
+    "Láttam, ahogy hírvivőket küldenek a városomba, de a népem hétköznapi emberekként kezelte őket.",
+    "Hittem az üzenetükben, és éreztem, hogy az igazság visszhangzik a lényemben.",
+    "Felszólítottam népemet, hogy engedelmeskedjenek a küldötteknek, akik nem kértek jutalmat.",
+    "A város legtávolabbi végéből rohantam, és sürgetően próbáltam rávenni őket, hogy lássák az okukat.",
+    "Népem fellázadt ellenem, és engem megöltek, de én örök békére leltem.",
+    "Allah azt mondta nekem: „Lépj be a Paradicsomba!”, és azt kívántam, bárcsak népem tanúja lehetne a rám ruházott megtiszteltetésnek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A Ya-Sin hívője",
+        "Uzair, a Kérdező",
+        "Al-Khidr, az Útmutató",
+        "A fáraó családjának hívője",
+        "Namrud, a zsarnok"
+      ],
+      "answer": "A Ya-Sin hívője"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Szembenézve a hitetlen néppel, akik megölték őt",
+        "Lángoló tűzbe vetve",
+        "Egy nagy hal lenyelte",
+        "Egy hatalmas bárka építése",
+        "Menekülés egy zsarnok serege elől"
+      ],
+      "answer": "Szembenézve a hitetlen néppel, akik megölték őt"
+    },
+    "location": {
+      "label": "Kulcs helye",
+      "options": [
+        "A város legtávolabbi vége",
+        "A Túr-hegy",
+        "A Hangyák Völgye",
+        "A Nílus partjai",
+        "A barlang üregét"
+      ],
+      "answer": "A város legtávolabbi vége"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Mártíromság és azonnali belépés a Paradicsomba",
+        "Menekülés és megváltás",
+        "Felemelkedés a mennyekbe",
+        "Fulladás a tengerben",
+        "Kővé válás"
+      ],
+      "answer": "Mártíromság és azonnali belépés a Paradicsomba"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bec'h ur prof nac'het",
+  "intro": "E penn-kentañ istor mab-den, pa oa yaouank c'hoazh an douar hag ar bed o terc'hel e alan kentañ, e savas un ene dirak ar C'hrouer gant un oferenn izel. Pouezet e voe an oferenn-se e-barzh ar c'hevala degemer doueel — ha kavet e oa mankout. Ar pezh a zeuas da-heul ne oa ket un istor a bardon, met ur galon debret gant ar warizi, o kas d'un ober dic'hortoz hag a voe klevet a-hed an amzer. Setu istor unan hag a zo deuet e anv da vezañ keñveriet gant an direizhder grevus kentañ bet graet biskoazh.",
+  "clues": [
+    "Dont a ran da vezañ unan eus ar vugale gentañ bet ganet, ganet gant ur gerent hag a anavezit mat o istor.",
+    "Ur wech em eus kinniget un aberzh da Allah, met ne oa ket bet degemeret ganin — daoust ma oa bet degemeret kinnig ma c'hoar gant gras.",
+    "Ar gwarizi hag ar gounnar a grogas gwrizioù em c'halon, ha gourdrouzet em eus lakaat fin da vuhez va c'herent.",
+    "Ma c'hoar en deus gourc'hemennet din kaout aon rak Allah, met ne lezas ket ma lorc'h ac'hanon da selaou.",
+    "En ur mare gwander spontus em eus graet un ober dic'hortoz war ma breur.",
+    "Goude-se, ne ouien ket kennebeut penaos kuzhat ar pezh am boa graet — betek ma voe kaset ur c'hrouadur eus an douar da gelenn ac'hanon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Mab ar profed Nuh",
+        "Ar profed Isma'il",
+        "Ar profed Yusuf"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Kinnig un aberzh a voe nac'het, o kas d'ar muntr kentañ",
+        "Sevel un tour uhel evit tizhout an neñvoù",
+        "Bezañ taolet en un tan flamm evit e feiz",
+        "Aberzhiñ e vab e-unan evit sentiñ ouzh Allah",
+        "Bezañ lonket gant ur pesk bras evit bezañ tec'het diouzh e gefridi"
+      ],
+      "answer": "Kinnig un aberzh a voe nac'het, o kas d'ar muntr kentañ"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ur vran kaset gant Allah da ziskouez an douaradur",
+        "Un dour-beuz bras hag a beuzas ur bobl a-bezh",
+        "Ur vazh hag a zo deuet da vezañ un naer bev",
+        "Ur c'hañvalez a zeuas er-maez eus ur menez roc'hellek",
+        "Un tron ​​meurdezus douget gant avelioù kreñv"
+      ],
+      "answer": "Ur vran kaset gant Allah da ziskouez an douaradur"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Deuet da vezañ eus ar re glac'haret, karget gant ar c'hentañ torfed bet graet biskoazh",
+        "Pardonet eo bet gant Allah ha roet dezhañ ar baradoz peurbadus",
+        "Savet e oa bet betek ur renk uhel a brofeded hag a furnez",
+        "Salvet eo bet dre drugarez doueel goude bezañ galvet eus donderioù an deñvalijenn",
+        "Roet e oa bet galloud war ar jinn, an avel hag ar morioù"
+      ],
+      "answer": "Deuet da vezañ eus ar re glac'haret, karget gant ar c'hentañ torfed bet graet biskoazh"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

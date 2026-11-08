@@ -1,0 +1,61 @@
+{
+  "title": "Las manos malditas",
+  "intro": "Te encuentras en las sinuosas callejuelas de la antigua Meca, donde un alma influyente y adinerada se apartó del llamado de la verdad. La historia de esta figura es un crudo recordatorio de que los lazos de sangre no pueden vencer las cadenas del orgullo. ¿Quién es aquel cuyo nombre resuena con el fuego que aguarda?",
+  "clues": [
+    "Recorrí las calles de La Meca con un orgullo que me cegó ante la verdad, aunque el mensajero era de mi propia sangre.",
+    "Mis posesiones eran inmensas, pero se convirtieron en una maldición en lugar de un escudo.",
+    "El libro de guía habla de mi ruina, declarando que mis manos y mi persona perecerán.",
+    "Mi cónyuge se unió a mi campaña de enemistad, reuniendo espinas para esparcirlas en el camino de aquel que invocó a Alá.",
+    "El día del juicio final, seré arrojado a un fuego de llamas abrasadoras, y mi cónyuge llevará una soga de fibra de palma alrededor del cuello.",
+    "Soy conocido por un nombre que significa \"padre de la llama\", un nombre que presagia mi morada eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Juicio o evento clave",
+      "options": [
+        "Se opuso al Profeta y fue maldecido en el Corán.",
+        "Dirigió un ejército para destruir la Kaaba.",
+        "Intentaron matar al Profeta arrojándole piedras.",
+        "Se negó a creer en la división de la luna.",
+        "Construyó una torre para alcanzar el cielo."
+      ],
+      "answer": "Se opuso al Profeta y fue maldecido en el Corán."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El fuego abrasador del infierno",
+        "El personal de Musa",
+        "El Arca de Noé",
+        "El pozo de Zamzam",
+        "El becerro de oro"
+      ],
+      "answer": "El fuego abrasador del infierno"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Entrará en el fuego abrasador, y su riqueza no le servirá de nada.",
+        "Se arrepintió y se convirtió en creyente.",
+        "Fue perdonado tras retractarse.",
+        "Murió como mártir.",
+        "Fue llevado al cielo."
+      ],
+      "answer": "Entrará en el fuego abrasador, y su riqueza no le servirá de nada."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

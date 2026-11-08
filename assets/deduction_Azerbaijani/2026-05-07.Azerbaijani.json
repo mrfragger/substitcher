@@ -1,0 +1,61 @@
+{
+  "title": "Dərinliklərdən Çağırışçı",
+  "intro": "İlahi bir mesajla əmanət edilmiş, lakin tələsik bir anda açıq icazə almadan öz xalqından ayrılan bir insanı təsəvvür edin. Bu səyahət onları fövqəladə bir sınaq, səbr və Uca Tanrıya etibarın dərin bir sınağına apardı. Hekayəsi bizə tövbə və Allahın mərhəmətinin genişliyi haqqında öyrədən bu şəxs kimdir?",
+  "clues": [
+    "Məni böyük bir millətin yanına göndərdilər, amma onların ilkin rədd edilməsi məni narahat etdi.",
+    "Missiyamın tamamlandığına inanaraq xalqımdan ayrıldım, amma getmək üçün dəqiq bir əmr aldım.",
+    "Gəmi ilə yol axtardım, amma güclü fırtına və püşkatma çətin vəziyyətə səbəb oldu.",
+    "Dənizə atıldım və dərinliklərdəki qüdrətli bir məxluq məni tamamilə uddu.",
+    "Qarın qaranlığında Allaha yalvardım, günahımı etiraf etdim və bağışlanmasını dilədim.",
+    "Allah məxluqa məni sahilə atmağı əmr etdi və mən unikal bir bitkinin altında sağaldım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yusif peyğəmbər (Yusif)",
+        "Nuh peyğəmbər (ə)",
+        "Yunus peyğəmbər",
+        "Süleyman peyğəmbər (Süleyman)",
+        "Əyyub peyğəmbər"
+      ],
+      "answer": "Yunus peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Dənizin iki yerə bölünməsi",
+        "Nəmrudun atəşi",
+        "Böyük bir balığın udması",
+        "Daşqın",
+        "Şəhərin daşlarla dağıdılması"
+      ],
+      "answer": "Böyük bir balığın udması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Balığın qarnı",
+        "Quyu",
+        "Yanan kol"
+      ],
+      "answer": "Balığın qarnı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Böyük bir hökmdar oldu",
+        "Kəbəni tikdi",
+        "Tövbə edən bir millətə rəhbərlik etmək üçün geri döndü",
+        "Cinlər üzərində hakimiyyət verildi",
+        "İnsanları səhranın o biri tərəfinə apardı"
+      ],
+      "answer": "Tövbə edən bir millətə rəhbərlik etmək üçün geri döndü"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

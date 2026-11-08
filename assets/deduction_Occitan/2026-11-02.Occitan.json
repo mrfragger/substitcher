@@ -1,0 +1,61 @@
+{
+  "title": "L'aliat inflexible dins un jutjament d'aur",
+  "intro": "A l'ombra d'un grand profèta, una anma d'eloquéncia e de fe foguèt causida per assistir dins una mission monumentala. Aquela figura se mantenguèt ferma quand las massas tremolèron, predicant contra una transgression evidenta que menaçava lo quite còr del monoteïsme. Quand lo profèta tornèt veire lo lapse del pòble, la defensa d'aquela figura èra pas una de culpabilitat mas de dever e de paur de la division. Qual es aquel servidor devot d'Allah?",
+  "clues": [
+    "Foguèri causit per Allah per un dever sacrat a costat d'un autre, e mon ròtle èra un de sosten e de proclamacion.",
+    "Me foguèt concedida la clartat de paraula, e acompanhèri un messatgièr per afrontar un opressor poderós.",
+    "Pendent un viatge critic, lo messatgièr montèt una montanha tot sol, me daissant susvelhar las gents.",
+    "En lor abséncia, lo pòble faguèt una imatge d'aur, e los supliquèri de demorar fidèls, mas refusèron mon conselh.",
+    "Quand lo messatgièr tornèt, plen de colèra e de dòl, foguèri pres, mas expliquèri qu'èri estat subrecargat e que cresiái de causar de discòrdia entre eles.",
+    "Soi lo profèta que se pausèt al costat de Musa, mon fraire, en partejant son fardeu e en demorant ferm contra l'idolatria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Harun",
+        "Lo profèta Musa",
+        "Profèta Isa",
+        "Lo profèta Dawud",
+        "Profèta Zakariyya"
+      ],
+      "answer": "Profèta Harun"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Las gents adoravan un vedèl d'aur malgrat los avertiments",
+        "Las gents me lancèron dins un fuòc ardent",
+        "Foguèri engolida per un grand peis",
+        "Foguèri empresonat per de falsas acusacions",
+        "Foguèri exiliat de ma vila per predicacion"
+      ],
+      "answer": "Las gents adoravan un vedèl d'aur malgrat los avertiments"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo vedèl d'aur",
+        "Lo Busc Ardent",
+        "Lo Estaf que se transformèt en sèrp",
+        "Las Tabletas de l'Aliança",
+        "L'Arca de l'Aliança"
+      ],
+      "answer": "Lo vedèl d'aur"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Foguèri exonerat e contunhèri ma mission profètica",
+        "Foguèri castigat pel pecat del pòble",
+        "Me donèron una nacion novèla per guidar",
+        "Foguèri menat al cèl viu",
+        "Foguèri fach governant sus un reialme"
+      ],
+      "answer": "Foguèri exonerat e contunhèri ma mission profètica"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Der Neid, der verzehrte",
+  "intro": "Eine Geschichte, älter als jedes Königreich und jede heilige Schrift – die erste menschliche Tragödie, geboren aus Eifersucht. Eine Seele, das ältere von zwei Kindern der ersten Eltern, sah voller Wut zu, wie ein jüngeres Geschwisterkind Gunst erfuhr, die ihr verwehrt blieb. Was folgte, war die dunkelste aller Entscheidungen, die das erste Blutvergießen auf Erden zur Folge hatte. Kannst du die Identität, die Prüfung und die bittere Reue aufdecken?",
+  "clues": [
+    "Ich wurde als Sohn des allerersten Menschenpaares geboren, das die Erde bevölkerte.",
+    "Ich habe Allah einst ein Opfer dargebracht, aber es wurde nicht angenommen.",
+    "Das Angebot meines Geschwisters wurde angenommen, meines hingegen abgelehnt – etwas, das ich nicht ertragen konnte.",
+    "Ich habe meinem eigenen Bruder mit Vernichtung gedroht.",
+    "Ich war der erste Mensch, der auf dieser Erde einen Mord beging, indem ich das Leben meines eigenen Geschwisters nahm.",
+    "Allah sandte mir ein Geschöpf der Erde – einen schwarzen Vogel, der in der Erde gräbt –, um mich zu lehren, wie ich meine Tat verbergen kann, und mir blieb nichts als Reue."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Prophet Yaqub",
+        "Prophet Musa",
+        "Prophet Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Opfergabe von Allah abgelehnt",
+        "In ein großes Feuer geworfen",
+        "Als Baby in einem Fluss ausgesetzt",
+        "Getestet mit einem riesigen Königreich",
+        "Befohlen, den eigenen Sohn zu opfern"
+      ],
+      "answer": "Opfergabe von Allah abgelehnt"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die von Allah gesandte Krähe",
+        "Das goldene Kalb",
+        "Die Arche auf dem Berg",
+        "Der brennende Dornbusch",
+        "Die aus Fels gehauene Kamelstute"
+      ],
+      "answer": "Die von Allah gesandte Krähe"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Erfüllt von Reue und gehörte zu den Verlierern",
+        "Zusammen mit Schätzen von der Erde verschluckt",
+        "Er wurde ein edler Gesandter Allahs.",
+        "Durch göttliche Gnade ins Paradies eingetreten",
+        "Herrschte über ein unvergleichliches Königreich"
+      ],
+      "answer": "Erfüllt von Reue und gehörte zu den Verlierern"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

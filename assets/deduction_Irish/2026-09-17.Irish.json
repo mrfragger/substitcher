@@ -1,0 +1,61 @@
+{
+  "title": "Faoi Scáth na Pailme Dáta",
+  "intro": "Insítear scéal faoi anam a cuireadh ar leithligh roimh bhreith, a cothaíodh laistigh de bhallaí naofa, agus a roghnaíodh chun comhartha a iompar nár chonaic an domhan riamh. Nuair a tháinig cúiseamh ó gach treo, tháinig guth ó na háiteanna is dochreidte chun gach amhras a thostú. An féidir leat a fháil amach cé a shiúil faoi scáth na pailme dáta?",
+  "clues": [
+    "Bhí mé tiomanta do sheirbhís an Uilechumhachtaigh sular tharraing mé mo chéad anáil riamh, gealltanas a thug an té a d’iompair mé.",
+    "D'fhás mé aníos faoi chúram cúramach caomhnóra fíréantaigh laistigh de sheomraí naofa áit adhartha.",
+    "Aon uair a thagadh mo chaomhnóir chuig mo sheomra, gheobhainn sé soláthairtí ó shéasúir nár cheart a bheith ann agam.",
+    "Tugadh dea-scéal dom faoi mhac, cé nach raibh aon seans ann i mo chúinsí don rud a gealladh.",
+    "Tharraing mé siar go háit i bhfad i gcéin, agus thug pailme dáta scáth dom ansin agus sruthán ag sileadh faoi.",
+    "Nuair a tháinig cúiseamh agus ceisteanna timpeall orm, shín mé mo mhéar i dtreo mo linbh nuabheirthe — agus labhair sé ón gcliabhán chun gach amhras a chur ina thost."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Máire",
+        "Sára",
+        "Haváí",
+        "Umm Musa",
+        "Bean chéile Nuh"
+      ],
+      "answer": "Máire"
+    },
+    "trial": {
+      "label": "Triail / Imeacht",
+      "options": [
+        "Breith mac míorúilteach i leithlisiú",
+        "Á chaitheamh isteach i dtine lasrach ag idoladhróirí",
+        "Ag maireachtáil na tuile móire le cúpla duine roghnaithe",
+        "A bheith scartha ó naíonán a caitheadh ​​​​san abhainn",
+        "Ag tabhairt aghaidh ar rialóir cumhachtach na hÉigipte"
+      ],
+      "answer": "Breith mac míorúilteach i leithlisiú"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Pailme dáta agus sruthán ag sileadh faoi",
+        "Áirc chumhachtach ar thonnta arda",
+        "Foireann a scoilt farraige mhór ina dhá leath",
+        "Tine lasrach atá ceaptha chun anam dílis a dhó",
+        "Ríchathaoir órga maisithe le clocha luachmhara"
+      ],
+      "answer": "Pailme dáta agus sruthán ag sileadh faoi"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Onóraithe mar an bhean is mó a bhfuil meas uirthi de na mná uile",
+        "Athcheangailte le leanbh grámhar tar éis scaradh fada",
+        "Threoraigh náisiún iomlán amach as daoirse tíoránta",
+        "Thug rabhadh do phobal atá caillte i mímhoráltacht",
+        "Bronnadh ceannas ar jinn, ar an gcine daonna, agus ar na gaotha"
+      ],
+      "answer": "Onóraithe mar an bhean is mó a bhfuil meas uirthi de na mná uile"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

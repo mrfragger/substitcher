@@ -1,0 +1,61 @@
+{
+  "title": "Ngā kaihaerere o te mara matomato",
+  "intro": "I ngā wā onamata, tokorua ngā tāngata e tiaki ana i ngā whenua tata. I honoa ō rāua ara, engari i arahina rāua e ō rāua ngākau ki ngā wāhi tino rerekē. Ko tētahi i haere i te ara tika, ko tētahi i kotiti ke ki te pōuri o te whakakāhore. Ka taea e koe te wetewete i te mea ngaro o ēnei kaitiaki kotinga tokorua?",
+  "clues": [
+    "He nui ngā hua i a au, he momona ngā kotinga i miharo ai ngā kanohi o te hunga e mātakitaki ana.",
+    "Nui atu ngā taonga a tōku hoa noho i ahau, heoi i hiahia ahau ki tā rātou wahi nui atu i taku ake.",
+    "I mea atu ahau me whakangaro rawa ā rātou hua, kia whakakotahitia ngā mea katoa i raro i taku mana whakahaere.",
+    "I kawea mai e ahau te whakangaromanga ki taku ake kotinga, i whakangaromia nga mea katoa i roto i taku mahi wairangi.",
+    "I tū kahakore noa iho ahau i te mea e maroke ana aku hua, ā, kua memeha haere aku taonga i te pō kotahi.",
+    "Kāore he wāhi mōku i te ao tūroa, ā, ko tōku nohoanga whakamutunga hei poka ahi e mura ana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ko te tangata i whakakahore i te aranga me te whakawa",
+        "Te rangatira i tukino i te kaiahuwhenua tika",
+        "Te rangatira whenua whai rawa kāore i te whakawhetai",
+        "Te kaiahuwhenua i hiahia ki te whenua o tōna hoa noho",
+        "Te hoa tinihanga i whakatakoto i te whakangaromanga"
+      ],
+      "answer": "Te kaiahuwhenua i hiahia ki te whenua o tōna hoa noho"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakamātautau mō te whiwhi i te whakakitenga atua",
+        "Te wero o te taonga me te manawanui",
+        "Te whakamatautauranga ki te whakangaro i te oranga o te tangata tika",
+        "Te whakahau kia wehewehea tika te taonga tuku iho",
+        "Te pakanga ki te tukino a te kaitukino"
+      ],
+      "answer": "Te whakamatautauranga ki te whakangaro i te oranga o te tangata tika"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā māra matomato o te pararaiha",
+        "E rua ngā mara hua e tata ana",
+        "Ngā maunga i kite i te whakangaromanga",
+        "Te wāhi tapu o Makkah",
+        "Ngā tahataha awa o te whenua manaakitanga"
+      ],
+      "answer": "E rua ngā mara hua e tata ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "He pararaiha mutungakore hei utu mō te tika",
+        "Te whakangaromanga katoa o ngā kotinga e rua i tēnei ao",
+        "Te whakaraunga me te kopikopiko tae noa ki te mate",
+        "Te oranga rangitahi, ā, ka whai muri ko te ahi mutunga kore",
+        "He whakaoranga whakamiharo me te utu nui kua rua"
+      ],
+      "answer": "Te whakangaromanga katoa o ngā kotinga e rua i tēnei ao"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

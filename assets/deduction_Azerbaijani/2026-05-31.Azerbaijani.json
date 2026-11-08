@@ -1,0 +1,61 @@
+{
+  "title": "Həlak Olmuş Şahidlər",
+  "intro": "Keçmişdə, imperiyalar arasında bir torpaq kəsişməsində bir icma yaşayırdı. Onların peyğəmbəri onları haqq yoluna çağırsa da, onlar küfr və zülmə qapıldılar. Bu hekayə ilahi əzabla bitir. Aşağıdakı ipuçlarından bu milləti və onların taleyini müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Bir qövm öz elçilərindən birinin gətirdiyi xəbərdarlığı yalan hesab etdi.",
+    "Peyğəmbər bizi yalnız Allaha ibadət etməyə çağırdı və fitnə-fəsaddan çəkindirdi.",
+    "Bizim günahımız aramızda salehliklə göndərilən peyğəmbəri rədd etmək idi.",
+    "Biz elçinin səlahiyyətinə şübhə ilə yanaşdıq və onu yalan danışmaqda günahlandırdıq.",
+    "Evlərimizdə əmin-amanlıqda yaşayarkən əzab bizi bürüdü.",
+    "Biz peyğəmbərimizi inkar etdiyimiz və möminlərə zülm etdiyimiz üçün məhv olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şueyb",
+        "İbrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Şueyb"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Salehliyə çağıran bir peyğəmbəri qəbul etmək",
+        "Aclıqla sınaqdan keçirilir",
+        "Bir yuxunun yozulması",
+        "Tövratın qəbul edilməsi",
+        "Dənizdə səyahət"
+      ],
+      "answer": "Salehliyə çağıran bir peyğəmbəri qəbul etmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Midian",
+        "Babil",
+        "Sodom",
+        "Qırmızı dəniz",
+        "Gəmi"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İnsanlar küfr etdikləri üçün məhv edildilər",
+        "İnsanlar tövbə etdilər və doğru yola yönəldilər",
+        "İnsanlar Cənnətə daxil oldular",
+        "Xalq sağ qaldı və çiçəkləndi",
+        "İnsanlar yeni bir diyara köçdülər"
+      ],
+      "answer": "İnsanlar küfr etdikləri üçün məhv edildilər"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

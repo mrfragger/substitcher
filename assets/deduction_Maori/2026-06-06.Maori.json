@@ -1,0 +1,61 @@
+{
+  "title": "Te Pononga Whakahirahira a Allah",
+  "intro": "Ka rongo koe i ngā kōrero hāhā a tētahi tangata nō ngā rā onamata, he pononga nā Allah i whakanuia ki tētahi tūranga i runga ake i te hunga noa. I mōhiotia tēnei tangata mō tōna manawanui korekore me tōna pono tino pono, ā, i tukuna ia ki tētahi iwi i tahuri ke i te karere. Ko wai tēnei wairua whakahīhī?",
+  "clues": [
+    "I whiriwhiria ahau e Allah hei poropiti, ā, kua whakahuatia ahau i roto i te Quran Tapu.",
+    "I mōhiotia ahau mō tōku manawanui me tōku pono, ā, he āhuatanga ēnei e whakamoemititia ana e te Atua.",
+    "I karanga ahau i tōku iwi kia karakia ki te Atua Kotahi, engari he tokomaha i whakakahore i ahau.",
+    "I whakanuia tōku tūranga e Allah, ā, i homai hoki ki ahau he tūranga teitei.",
+    "He maha ngā wā ka whakahuatia ahau i te taha o ētahi atu poropiti pērā i a Ismail rāua ko Dhul-Kifli.",
+    "E mea ana a Allah mōku: 'Ā, i whakaarahia ia e mātou ki tētahi tūranga teitei.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Idris",
+        "Poropiti Iraia",
+        "Poropiti a Dhu al-Kifl",
+        "Poropiti Al-Yasa",
+        "Poropiti a Hūta"
+      ],
+      "answer": "Poropiti Idris"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I karangahia te iwi kia karakia ki a Allah",
+        "I hanga te āka",
+        "I whawhai ki a Parao",
+        "I whakamatautauria ki te mate kino",
+        "I maka ki te ahi"
+      ],
+      "answer": "I karangahia te iwi kia karakia ki a Allah"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Tūranga teitei/tūranga teitei",
+        "Te āaka",
+        "Ngā kaimahi",
+        "Te ahi",
+        "Te puna"
+      ],
+      "answer": "Tūranga teitei/tūranga teitei"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua whakanuia ki te tūranga teitei",
+        "I toremi i te waipuke",
+        "I horomia e te tohorā",
+        "I whakaorangia mai i te ahi",
+        "I riro hei kingi"
+      ],
+      "answer": "Kua whakanuia ki te tūranga teitei"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

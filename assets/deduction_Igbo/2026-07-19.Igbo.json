@@ -1,0 +1,61 @@
+{
+  "title": "Olu A Na-anaghị Egere Ntị nke Ọtụtụ narị Afọ",
+  "intro": "N'oge dị anya tupu nnukwu obodo e bilite, otu mkpụrụ obi biliri n'etiti ndị si n'eziokwu pụọ. Nkwenye ha bụ naanị ndidi nke onye a na-akpọ naanị ya, onye rịọrọ arịrịọ ruo ọtụtụ ọgbọ na-enweghị obi abụọ. Mgbe ịdọ aka ná ntị niile dara na ntị, akụkọ a na-enwetụbeghị ụdị ya gbanwere ụwa n'onwe ya. Taa, ụda nke akụkọ ahụ ka na-ada ụda n'ime ihe niile a na-agụ. Ị nwere ike ịchọpụta mkpụrụ obi a siri ike?",
+  "clues": [
+    "A zụlitere m n'etiti ndị na-efe arụsị ụgha ma na-eleghara ihe ịrịba ama ndị gbara ha gburugburu anya, mana a họpụtara m ịkpọte ha n'amaghị ama ha.",
+    "Akpọrọ m ndị m òkù ugboro ugboro, mana ha boro m ebubo na m bụ naanị mmadụ dị ka ha, na-akwa ozi m emo ma na-ekpuchi ntị ha.",
+    "Anọ m na-arịọ ha site n'amamihe na ncheta dị nro, mana okwu m yiri ka ọ na-apụ n'anya, a naghị anụ ya ma a nụghị ya.",
+    "Site n'iwu Chineke, arụrụ m nnukwu arịa osisi na osisi n'ala kpọrọ nkụ, ndị m chịrịkwa m ọchị dị ka onye na-enweghị uche.",
+    "Mgbe oké idei mmiri ahụ bịara dịka e kwere ná nkwa, nwa m nwoke jụrụ ịbanye n'ụgbọ mmiri ahụ, na-eche na ugwu ga-echebe ya pụọ ​​na mmiri na-ebili.",
+    "Aghọrọ m onyeisi mmalite ọhụrụ n'ụwa, akụkọ m dịkwa n'isiakwụkwọ nke Quran nke nwere aha m."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Nua",
+        "Onye Amụma Ibrahim",
+        "Onye Amụma Mozis",
+        "Onye Amụma Lọt",
+        "Onye Amụma Hud"
+      ],
+      "answer": "Onye Amụma Nua"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Oké Iju Mmiri ahụ nke gbanwere ụwa",
+        "Ndị na-ekpere arụsị tụbara n'ime ọkụ na-ere ọkụ",
+        "Isoro ndị dibịa afa Fero na-alụ ọgụ n'obí eze",
+        "Mbibi nke ubi bara ọgaranya site n'oké ifufe nke eluigwe",
+        "Mkpọda nke ndị bi n'ọgba mmiri ahụ"
+      ],
+      "answer": "Oké Iju Mmiri ahụ nke gbanwere ụwa"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "E ji osisi na osisi rụọ Igbe ahụ",
+        "Ụlọ nsọ e wuru n'elu ntọala ochie",
+        "Mkpanaka ahụ nke gbanwere ghọọ agwọ",
+        "Ọgba nke ndị ntorobịa na-ehi ụra",
+        "Ocheeze nke otu ihe dị ike ji ebu"
+      ],
+      "answer": "E ji osisi na osisi rụọ Igbe ahụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Ndị na-ekweghị ekwe riri mmiri ebe a zọpụtara ndị kwere ekwe n'ime ụgbọ mmiri ahụ.",
+        "Ọkụ ahụ jụrụ oyi ma dịkwa nchebe, onye kpọrọ oku ahụ pụtara n'enweghị ihe ọ bụla mere ya",
+        "Ndị dibịa anwansi ahụ dara n'ala wee nakwere okwukwe",
+        "E nyere ubi ahụ nye onye agbata obi ezi omume n'ọnọdụ ya",
+        "Ndị na-arahụ ụra tetara mgbe ọtụtụ narị afọ gasịrị, gbanwee"
+      ],
+      "answer": "Ndị na-ekweghị ekwe riri mmiri ebe a zọpụtara ndị kwere ekwe n'ime ụgbọ mmiri ahụ."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L’escluss del ciel",
+  "intro": "Un vesser misterios al se trova a l’incrox de la creazion e del refud. La sò storia l’è una de arroganza senza pari e de sfida ultima a un comand divin. La luur scelta la fà eco travers ogni generaziun, diventand una prœuva per ogni anima nassuuda en chestu mund. Pœdet identificar chestu eterno avversario?",
+  "clues": [
+    "Son stà present a un event de significà cosmich, quand un nœuf vesser s’è furmà de argila e g’ha dà la vita dal Respì del Misericordius.",
+    "Mi stess sun stà creà de un ünich element ardent, a diferenza de chel vèsser de polvar.",
+    "M’è stà dà un comand che pensavi sotta la mè staziun.",
+    "L’orgœuj s’è gonfià denter de mi, e me sun refudà de rispetà chel cumand.",
+    "L’è stà cuncess un ritardo fin a un dì fisà, inscì de pudel segutar el me proposit dichiarà de ingannà i olter.",
+    "Mi sun el nemìs dichiarà de tüt chel che camina sü la terra, sussurrand ingann e tirand via del camin dritt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Iblis (Satana)",
+        "Faraon (Fir'aun)",
+        "Aman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satana)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Refudà de inclinarse davaant a Adam",
+        "Divinità rivendicada en mod fals",
+        "Forgià un vitell d’or per venerà",
+        "G’ha copà sò fradel per invidia",
+        "Guidad l'oposiziun politeista a Mecca"
+      ],
+      "answer": "Refudà de inclinarse davaant a Adam"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Paradis (Giana)",
+        "Palazz del Faraon in Egitt",
+        "La vall sacra de Tuwa",
+        "La profondità del mar",
+        "El giardin de Seba"
+      ],
+      "answer": "Paradis (Giana)"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Concedü riposo fin al Dì del Giudizi",
+        "Anegad insema a l'esercito in del mar",
+        "Inghiottì de la terra insema ai tesori",
+        "Trasfurmà en scimi per avegh viulà el Sabat",
+        "Brusà di sass bütà del ciel"
+      ],
+      "answer": "Concedü riposo fin al Dì del Giudizi"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

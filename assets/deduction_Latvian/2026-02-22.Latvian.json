@@ -1,0 +1,61 @@
+{
+  "title": "Nomocītās dvēseles pacietība",
+  "intro": "Vēstures annālēs ir minēta persona, kuras vārds ir sinonīms izturībai. Šī persona tika pārbaudīta, zaudējot katru pasaulīgo komfortu, tomēr palika uzticīga Radītāja kalpone. Caur grūtību un fizisku slimību gadiem šīs dvēseles sirds palika noenkurota ticībā, sniedzot cerības staru visiem, kas saskaras ar grūtībām.",
+  "clues": [
+    "Es biju uzticīgs Allāha kalps, svētīts ar bagātīgu bagātību, daudziem bērniem un lielisku veselību.",
+    "Mana dzīve mainījās, kad man atņēma bagātību un ģimeni, atstājot mani bez nekā cita kā vien ticību.",
+    "Mani mocīja ilgstoša un sāpīga slimība, kas pārbaudīja cilvēka izturības robežas.",
+    "Visu savu ciešanu laikā es atteicos sūdzēties pret savu Kungu, pat tad, kad pretinieks centās mani ievest izmisumā.",
+    "Kad es beidzot piesaucu savu Kungu, es nelūdzu bagātību, bet vienkārši atzinu, ka mani ir skārušas ciešanas.",
+    "Man lika ar kāju sist pa zemi, un no tās iztecēja vēsa ūdens avots, kas dziedināja manu ķermeni un remdēja slāpes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Jakubs",
+        "Pravietis Ajūbs",
+        "Pravietis Zakarija",
+        "Pravietis Jahja",
+        "Pravietis Šuajbs"
+      ],
+      "answer": "Pravietis Ajūbs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Smagu slimību un zaudējumu gadi",
+        "Tiekot iemests dziļā akā",
+        "Milzu zivs norīšana",
+        "Sastopoties ar tirānu ugunī",
+        "Garš ceļojums skolotāja meklējumos"
+      ],
+      "answer": "Smagu slimību un zaudējumu gadi"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Personāla loceklis, kas pāršķīra jūru",
+        "Krekls, kas smaržoja pēc mājām",
+        "Dziedinošs ūdens avots",
+        "Kalns, kas sabruka putekļos",
+        "Dziļa miega ala"
+      ],
+      "answer": "Dziedinošs ūdens avots"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļūstot par lielas zemes pārvaldnieku",
+        "Vadīt armiju uz uzvaru",
+        "Veselības un ģimenes atjaunošana",
+        "Svētās pielūgsmes nama celtniecība",
+        "Saņemot no debesīm klātu galdu"
+      ],
+      "answer": "Veselības un ģimenes atjaunošana"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

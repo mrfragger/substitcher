@@ -1,0 +1,61 @@
+{
+  "title": "Müqəddəs Otaqdakı Həsrət",
+  "intro": "Sakit müqəddəs məkana addım atırsınız və Allahın sadiq bir qulunu dua edərkən görürsünüz. Əlləri qaldırılmış, gözləri dikilmiş və ürəkləri ömür boyu davam edən bir həsrət daşıyır. Allaha olan etimadı heç vaxt sarsılmayan bu səbirli ruh kimdir?",
+  "clues": [
+    "İllərdir ibadət və dua ilə məşğul oldum, imanımı gücləndirən möcüzələrə şahid oldum.",
+    "Müqəddəs məkanda mübarək bir gənc ruha qulluq etmək məsuliyyəti mənə həvalə edildi.",
+    "Yaşlandıqca ən böyük kədərim uşağımın olmaması idi, çünki həyat yoldaşım sonsuz idi və hər ikimiz qocalmışdıq.",
+    "Rəbbimdən öz ailəmdən bir xələf, peyğəmbərlik irsini davam etdirəcək bir kimsə istədim.",
+    "Namaz qılındığı yerdə dayandığım zaman mələklər məni çağırıb dedilər: “Allah sənə müjdə verir”. Məni qorxu və heyrət bürüdü.",
+    "Mənə deyildi ki, əvvəllər heç kimə verilməmiş Yəhya adında bir oğlum olacaq və bir əlamət olaraq üç gün insanlarla danışmayacağam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Zəkəriyyə peyğəmbər",
+        "Yəhya peyğəmbər",
+        "İsa peyğəmbər",
+        "Davud peyğəmbər",
+        "Loğman hikmət sahibi"
+      ],
+      "answer": "Zəkəriyyə peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Saleh bir varis arzulayarkən sonsuzluq və qocalıq",
+        "Alovlu bir oda atılmaq",
+        "Böyük bir balığın udması",
+        "Bir zalımın əlinə bir krallığı itirmək",
+        "Öz vətənindən sürgün edilmək"
+      ],
+      "answer": "Saleh bir varis arzulayarkən sonsuzluq və qocalıq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Namaz taxçası (mihrab)",
+        "Böyük gəmi (Gəmi)",
+        "Yanan kol",
+        "İlana çevrilən əsa",
+        "Allahın dişi dəvəsi"
+      ],
+      "answer": "Namaz taxçası (mihrab)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "saleh bir oğul bəxş etdi və üç günlük sükutdan sonra yenidən danışdı",
+        "İnamsızlıq üzündən sel nəticəsində məhv edildi",
+        "Geniş bir səltənət və külək üzərində nəzarət verilmişdir",
+        "Balığın qarnından xilas oldu",
+        "Torpaq tərəfindən udulmuş"
+      ],
+      "answer": "saleh bir oğul bəxş etdi və üç günlük sükutdan sonra yenidən danışdı"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

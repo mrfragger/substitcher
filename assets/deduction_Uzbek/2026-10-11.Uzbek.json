@@ -1,0 +1,61 @@
+{
+  "title": "Qadimgi qumlardagi ovoz",
+  "intro": "Allohning ilk elchilari orasida Qur'onda qisqa, ammo mazmunli tarzda porlagan bir kishi bor edi. Bu shaxs ko'plab buyuk payg'ambarlar yuborilishidan ancha oldin yashagan va sodiqligi va sabr-toqati bilan mashhur bo'lgan. Ularning hikoyasi qisqa, ammo merosi abadiy yozuvlarda saqlanib qolgan. Bu olijanob ruh kim?",
+  "clues": [
+    "Men Qur'onda qisqacha, ammo mazmunli tarzda tilga olingan ilk payg'ambarlardan biriman.",
+    "Mening xarakterim haqiqatga sodiqlik bilan belgilandi.",
+    "Men Allohning kitobida sabrli va sabrli zotlar qatorida eslandim.",
+    "Qur'ondagi bir nechta qisqa oyat mening hikoyamni hikoya qiladi.",
+    "Alloh meni boshqa payg'ambarlar bilan baham ko'rilmagan, faqat o'zimga xos tarzda ulug'ladi.",
+    "Men yuksak maqomga ko'tarildim, bu Qur'onda alohida sharafdir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Idris payg'ambar",
+        "Payg'ambar Ilyos",
+        "Zul-Kifl",
+        "Payg'ambar Alyasa",
+        "Osif ibn Barxiya"
+      ],
+      "answer": "Idris payg'ambar"
+    },
+    "trial": {
+      "label": "Aniqlovchi moment",
+      "options": [
+        "Meni Alloh yuksak maqomga ko'tardi.",
+        "Men xalqimni qutqarish uchun buyuk kema qurdim",
+        "Men Fir'avnning sehrgarlariga qarshi chiqdim",
+        "Meni akalarim chuqurga tashlashdi",
+        "O'g'lim uchun qayg'udan ko'zimni yo'qotdim"
+      ],
+      "answer": "Meni Alloh yuksak maqomga ko'tardi."
+    },
+    "location": {
+      "label": "Muqaddas ma'lumotnoma",
+      "options": [
+        "Anbiyo surasi",
+        "Kahf surasi",
+        "Toha surasi",
+        "Shuaro surasi",
+        "Yasin surasi"
+      ],
+      "answer": "Anbiyo surasi"
+    },
+    "outcome": {
+      "label": "Ilohiy sharaf",
+      "options": [
+        "Boshqa hech kimga o'xshamaydigan yuqori stansiya",
+        "Jinlar va shamollar ustidan hukmronlik",
+        "Misli ko'rilmagan shon-sharaf shohligi",
+        "Qarilikdan merosxo'r",
+        "Alloh bilan muhrlangan ahd"
+      ],
+      "answer": "Boshqa hech kimga o'xshamaydigan yuqori stansiya"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

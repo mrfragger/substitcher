@@ -1,0 +1,61 @@
+{
+  "title": "Jumaluutta vaativa hallitsija",
+  "intro": "Voimakas ja ylimielinen hallitsija uskoi, ettei kukaan seisonut hänen valtaistuimensa yläpuolella. He ajoivat takaa pakenevaa ryhmää valtavan vesistön poikki, vain kohtaamaan dramaattisen lopun. Tämän hallitsijan tarina kaikuu monissa Koraanin kohdissa ja toimii varoituksena kaikille.",
+  "clues": [
+    "Olin voimakas hallitsija, joka uskoi, ettei mikään auktoriteetti ylittänyt omaani hallitsemillani mailla.",
+    "Minulla oli luotettu visiiri nimeltä Haman, joka auttoi minua toteuttamaan suuria arkkitehtonisia hankkeita.",
+    "Kutsuin maani parhaat taikurit haastamaan minua vastustavan sanansaattajan merkit.",
+    "Kieltäydyin päästämästä valtakunnassani orjuutettua kansaa lähtemään vitsauksista ja selkeistä varoituksista huolimatta.",
+    "Ajoin heitä takaa laajan meren yli koko armeijani ja vaununi kanssa.",
+    "Juuri tuo meri sulkeutui minun ja joukkojeni ylle ja hukutti meidät kaikki heidän ylittäessään turvallisesti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Fir'awn (faarao)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (faarao)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ruttot ja yhteenotto Musan (Mooseksen) kanssa",
+        "Arkin rakentaminen ennen suurta vedenpaisumusta",
+        "Taistelu Jalutia vastaan ​​laaksossa",
+        "Valaan nielaiseminen",
+        "Rehellisten kauppapainojen puolustaminen"
+      ],
+      "answer": "Ruttot ja yhteenotto Musan (Mooseksen) kanssa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Korkeat tornit ja vaarnat",
+        "Suuri puinen arkki",
+        "Kultainen vasikka",
+        "Sauva, joka muuttui käärmeeksi",
+        "Massiivinen valas"
+      ],
+      "answer": "Korkeat tornit ja vaarnat"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hukkui mereen armeijan kanssa",
+        "Allahin armo ja kärsivällisyys pelastivat, palkittiin",
+        "Perheen kanssa jälleen yhdessä vuosien vaikeuksien jälkeen",
+        "Maan nielaisema",
+        "Paloi tulipalossa"
+      ],
+      "answer": "Hukkui mereen armeijan kanssa"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Custodes Messis Secretae",
+  "intro": "In terra viridi, coetus hominum sub tenebris consilium secretum cepit. Communi consilio inter se iungebantur, sed consilium eorum longe a recto aberat. Parum sciebant divinam fortunam eos dormientes exspectare.",
+  "clues": [
+    "Firmam sententiam fecimus, consilium nostrum sine macula esse credidentes.",
+    "Constitueramus mane exire, priusquam alii etiam movere possent.",
+    "In agrum fertilem ingressi sumus, commeatu nostro confidentes.",
+    "Cum ad destinatum locum pervenissemus, eum sterilem et desertum invenimus, itaque viam nos errasse putavimus.",
+    "Tum intelleximus revera nostrum locum esse, et desperatione clamavimus, invicem ob iacturam nostram culpantes.",
+    "Iuraveramus mane illo pauperes a messe nostra excludere, sed poena Dei super nos dormientibus incidit, hortum nostrum in ruinam convertens."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Domini Horti in Sura 68",
+        "Populus Sabae",
+        "Socii Speluncae",
+        "Populus Elephantis",
+        "Populus Fossae"
+      ],
+      "answer": "Domini Horti in Sura 68"
+    },
+    "trial": {
+      "label": "Iudicium Nostrum",
+      "options": [
+        "Hortus noster calamitate e caelo vastatus est.",
+        "Hortus noster diluvio vastatus est",
+        "Hortus noster igne hostili combustus est.",
+        "Hortus noster locustis plenus erat",
+        "Hortus noster terrae motu absorptus est"
+      ],
+      "answer": "Hortus noster calamitate e caelo vastatus est."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Iuravimus fructus eius mane carpere",
+        "Aggerem ad hortum nostrum irrigandum construximus",
+        "Refugium in spelunca quaesivimus ad tutelam",
+        "Exercitum ad regnum expugnandum paravimus",
+        "Nave navigavimus ut mare transiremus"
+      ],
+      "answer": "Iuravimus fructus eius mane carpere"
+    },
+    "outcome": {
+      "label": "Fatum Nostrum",
+      "options": [
+        "Paenitentiam egimus et misericordiam ab Allah speravimus",
+        "Penitus destructi sumus et numquam paenitentiam egimus",
+        "Terram fugimus et numquam reversi sumus",
+        "Potentes et divites iterum facti sumus",
+        "Poenis nostris in simias conversis"
+      ],
+      "answer": "Paenitentiam egimus et misericordiam ab Allah speravimus"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

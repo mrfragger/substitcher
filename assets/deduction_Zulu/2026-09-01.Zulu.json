@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Elivela Emaphethelweni",
+  "intro": "Umi edolobheni lapho izithunywa ezintathu zifike nezibonakaliso ezicacile, kodwa abantu bayabahleka usulu futhi banamathele ezindleleni zabo zakudala. Kusukela ezingxenyeni ezikude zomuzi, umuntu uyashesha ebheke esixukwini, ephefumula kanzima futhi ezimisele, ukukhuluma iqiniso naphezu kokulahlwa. Ubani lo mphefumulo owabeka konke engozini ngenxa yesigijimi esingesona esakhe?",
+  "clues": [
+    "Ngahlala phakathi kwabantu ababethole izithunywa ngezibonakaliso ezicacile, kodwa baphenduka ngokuzikhukhumeza.",
+    "Ngaphuma ngigijima ngisuka ezingxenyeni ezikude kakhulu zomuzi lapho ngizwa ngokubizwa kwezithunywa.",
+    "Ngathi kubantu bami, 'O bantu bami, landelani izithunywa. Landelani labo abangaceli mvuzo kini, ngoba baqondiswa kahle.'",
+    "Ngangingeyena umprofethi, kodwa ngangikholelwa ezithunyweni futhi nganxusa abantu bakithi ukuba benze okufanayo.",
+    "Abantu bakithi bangihleka usulu iseluleko sami futhi bangisola ngokuthi ngingumuntu oshisekela ubudlova.",
+    "Lapho bengibulala, u-Allah wangitshela ukuthi ngingene ePharadesi, futhi ngangifisa sengathi abantu bakithi bangazi intethelelo nenhlonipho engiyitholile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Indoda evela engxenyeni ekude kakhulu yedolobha (uYa-Sin)",
+        "Esinye sezithunywa ezintathu ezithunyelwe edolobheni",
+        "Umthengisi ovelele wedolobha",
+        "Umbusi wedolobha",
+        "Umholi wabangakholwayo"
+      ],
+      "answer": "Indoda evela engxenyeni ekude kakhulu yedolobha (uYa-Sin)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukushumayela kubantu bakhe ukulandela izithunywa",
+        "Ukwakha umkhumbi ukuze kusindiswe amakholwa esikhukhuleni",
+        "Ukuphonswa emlilweni ngenxa yokholo",
+        "Ukugwinywa whale",
+        "Ukunikezwa umbuso nokuhlakanipha"
+      ],
+      "answer": "Ukushumayela kubantu bakhe ukulandela izithunywa"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ingxenye ekude kakhulu yedolobha",
+        "Umkhumbi",
+        "Umthombo",
+        "Isihlahla esivuthayo",
+        "Umhume"
+      ],
+      "answer": "Ingxenye ekude kakhulu yedolobha"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wangena ePharadesi futhi wafisa sengathi abantu bakhe bangazi intethelelo yakhe",
+        "Wacwila nabantu bakhe ngenxa yokwenqaba umyalezo",
+        "Wanikwa isimangaliso sekamela lensikazi",
+        "Waba ngumbusi ngemva kwecala lakhe",
+        "Wasindiswa ngu-Allah futhi wahlala nabantu bakhe"
+      ],
+      "answer": "Wangena ePharadesi futhi wafisa sengathi abantu bakhe bangazi intethelelo yakhe"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

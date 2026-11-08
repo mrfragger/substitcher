@@ -1,0 +1,61 @@
+{
+  "title": "Qızıl buzovun qovulması",
+  "intro": "Quranda adı çəkilən bir şəxs, nəcib bir peyğəmbərin yoxluğunda böyük bir kütləni azğınlığa sürüklədi. Qızıldan hazırlanmış bir şey bütün bir millətin qəlbini fəth etdi - lakin bu fərdin hekayəsi tənhalıq və qəribə bir lənətlə bitir. Bu qovulmuş kim ola bilərdi?",
+  "clues": [
+    "Mən ilahi rəhbərlik almaq üçün yüksəlmiş böyük bir peyğəmbərin yoxluğunda zühur etdim.",
+    "Öz əllərimlə düzəltdiyim bir şeylə çoxlu insanı yoldan çıxartdım.",
+    "Yaratdığım qızılı əsər, izləyənləri valeh edən səslər çıxararaq, həyat vermiş kimi görünürdü.",
+    "Başqalarının görə bilmədiyini gördüyümü iddia etdim - görünməyənə bir nəzər salmaq.",
+    "Mən ilahi elçinin izlərindən bir şey çıxarıb əridilmiş metalın içinə tökdüm.",
+    "Təkbaşına gəzməyə məhkum idim, özünəməxsus bir lənətlə ki, nə mənim dərimə, nə də mən onların dərisinə toxuna bilərəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Firon (Firon)",
+        "Əbu Ləhəb",
+        "Peyğəmbər Saleh"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İbadət üçün qızıl buzov yaratdı",
+        "Göylərə çatan bir qüllə tikdi",
+        "Misirin sehrbazlarına meydan oxudu",
+        "Uçan heyvanlarla bir orduya rəhbərlik etdi",
+        "Peyğəmbərliyin sübutu olaraq ayı iki yerə bölün"
+      ],
+      "answer": "İbadət üçün qızıl buzov yaratdı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qızıl buzov",
+        "İlana çevrilən bir əsa",
+        "Dağda yanan bir kol",
+        "Zirvədə dayanan bir gəmi",
+        "Alovlu bir səngər"
+      ],
+      "answer": "Qızıl buzov"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Sürgün edilmiş, toxunulması və ya başqalarına toxunulması qadağandır",
+        "Bir ordu ilə birlikdə dənizdə boğuldu",
+        "İmanı rədd etdiyinə görə diri-diri yandırıldı",
+        "Şiddətli, uğultulu bir külək tərəfindən vuruldu",
+        "Bağışlandı və yüksək bir məqama yüksəldildi"
+      ],
+      "answer": "Sürgün edilmiş, toxunulması və ya başqalarına toxunulması qadağandır"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

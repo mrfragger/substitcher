@@ -1,0 +1,61 @@
+{
+  "title": "La voix qui a défié le règne d'une idole",
+  "intro": "Parmi les messagers du Tout-Puissant se trouvait un serviteur inébranlable qui s'éleva au sein d'une nation obstinée pour proclamer la vérité. Leur peuple avait adopté une divinité inventée, se détournant du Créateur de toute chose. Avec une détermination sans faille, cet homme les appela à revenir à lui, mais son message se heurta au déni et au rejet. Suivez les indices pour découvrir qui était ce serviteur dévoué.",
+  "clues": [
+    "J'ai été envoyé comme messager auprès d'un peuple obstiné qui s'était égaré loin du droit chemin.",
+    "Je suis venu rappeler à ma nation Celui qui a créé tout ce qui existe — le meilleur de tous les créateurs.",
+    "Mon peuple s'était tourné vers une fausse idole qu'il vénérait et qu'il invoquait jour et nuit.",
+    "Je les ai interpellés avec audace, leur demandant pourquoi ils adoraient une divinité fabriquée de toutes pièces et abandonnaient leur véritable Seigneur.",
+    "Ils m'ont renié, ont refusé d'écouter et se sont obstinés dans leur mensonge ; pourtant, mon Seigneur m'a préservé.",
+    "Je suis Ilyas — et la paix m'a été accordée, et j'ai été compté parmi les serviteurs croyants du Très Miséricordieux."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ilyas",
+        "Le prophète Idris",
+        "Prophète Alyasa",
+        "Prophète Dhul-Kifl",
+        "Prophète Noé"
+      ],
+      "answer": "Le prophète Ilyas"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Appeler un peuple à se détourner du culte de Baal",
+        "Affronter un tyran qui prétendait être un dieu",
+        "avertir la population d'une inondation imminente",
+        "Être jeté dans un grand feu flamboyant",
+        "Mener un exode hors du pays de l'esclavage"
+      ],
+      "answer": "Appeler un peuple à se détourner du culte de Baal"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'idole nommée Ba'al",
+        "Une grande arche construite en bois robuste",
+        "Un bâton qui a fendu une vaste mer",
+        "Un vêtement sacré taché de sang",
+        "Un buisson ardent sur une montagne sacrée"
+      ],
+      "answer": "L'idole nommée Ba'al"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Accordé la paix et compté parmi les serviteurs élus d'Allah",
+        "Conduits au paradis tandis que tous les autres étaient détruits",
+        "Sauvé d'un grand incendie qui s'est refroidi et est devenu sûr",
+        "Doté de la domination sur les djinns, les humains et le vent",
+        "Le corps préservé comme un témoignage durable pour les siècles à venir"
+      ],
+      "answer": "Accordé la paix et compté parmi les serviteurs élus d'Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Deň záverečnej prehliadky",
+  "intro": "Skupina zručných umelcov, povolaná k veľkolepej ukážke moci, sa ocitla tvárou v tvár neočakávanej pravde, ktorá navždy zmenila ich životy.",
+  "clues": [
+    "Boli sme preslávení svojím remeslom, majstri ilúzií a trikov.",
+    "Vládca nás povolal, aby sme sa postavili vyzývateľovi, ktorý ovládal jednoduchú palicu.",
+    "Keď sme uzreli pravdu, padli sme na zem a vyhlásili sme vieru v Pána svetov.",
+    "Tyran nám vyhrážal sa prísnym trestom, ale my sme nezaváhali.",
+    "Boli sme medzi prvými, ktorí uverili posolstvu po tom, čo sme boli svedkami jasného znamenia.",
+    "Boli sme umučení za svoju vieru, ale budeme prví, ktorí vstúpia do raja so spravodlivými."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Faraónovi kúzelníci",
+        "Izraeliti",
+        "Ľudia z Thamudu",
+        "Učeníci Izáša",
+        "Armáda Abrahy"
+      ],
+      "answer": "Faraónovi kúzelníci"
+    },
+    "trial": {
+      "label": "Skúšobná verzia / udalosť",
+      "options": [
+        "Súťaž s prorokom Musom",
+        "Stavba veže",
+        "Veľká potopa",
+        "Mor kobyliek",
+        "Rozštiepené more"
+      ],
+      "answer": "Súťaž s prorokom Musom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Festivalový deň",
+        "Údolie Tuwa",
+        "Mesto Iram",
+        "Záhrada večnosti",
+        "Arafatská nížina"
+      ],
+      "answer": "Festivalový deň"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Boli verejne ukrižovaní",
+        "Utopili sa v mori",
+        "Stali sa z nich nasledovníci proroka",
+        "Boli poslaní do exilu",
+        "Boli pohltení ohňom"
+      ],
+      "answer": "Boli verejne ukrižovaní"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

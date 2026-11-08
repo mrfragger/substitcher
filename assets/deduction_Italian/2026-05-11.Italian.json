@@ -1,0 +1,61 @@
+{
+  "title": "I Testimoni Incrollabili",
+  "intro": "Immaginate un'epoca in cui la fede veniva messa alla prova dal fuoco e la convinzione incrollabile diventava la forma di sfida definitiva. Il vostro compito è quello di scoprire l'identità di un gruppo la cui storia è narrata nel Corano, una storia di profonda fede contro una tirannia schiacciante. Decifrate gli indizi per scoprire chi erano queste anime e le straordinarie circostanze che dovettero affrontare.",
+  "clues": [
+    "Siamo rimasti fermi nelle nostre convinzioni, nonostante le immense pressioni per rinunciare alla nostra fede.",
+    "Siamo stati presi di mira da un potente sovrano che cercava di spegnere la luce del monoteismo.",
+    "Abbiamo assistito a grandi segni e miracoli, eppure i nostri oppressori sono rimasti indifferenti.",
+    "Abbiamo subito un metodo di persecuzione raccapricciante, concepito per terrorizzare gli altri e costringerli alla sottomissione.",
+    "Fummo gettati in un inferno di fiamme, eppure la nostra fermezza ci ha fatto guadagnare una posizione elevata presso Allah.",
+    "La nostra storia è narrata in una Sura che prende il nome da costellazioni celesti, e mette in guardia dal destino di coloro che perseguitano i credenti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Il popolo di Thamud",
+        "Il popolo di 'Ad",
+        "La gente del fosso",
+        "Il popolo del Midian",
+        "Il popolo dell'elefante"
+      ],
+      "answer": "La gente del fosso"
+    },
+    "trial": {
+      "label": "La nostra persecuzione",
+      "options": [
+        "Annegare in un'alluvione",
+        "Essere consumato da un vento rovente",
+        "Essere gettati in una trincea infuocata",
+        "Essere inghiottito dalla terra",
+        "Trasformarsi in scimmie"
+      ],
+      "answer": "Essere gettati in una trincea infuocata"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un'alluvione di proporzioni enormi",
+        "Un grande terremoto",
+        "Una profonda e ardente trincea",
+        "Un idolo potente",
+        "Una siccità devastante"
+      ],
+      "answer": "Una profonda e ardente trincea"
+    },
+    "outcome": {
+      "label": "Il nostro destino finale",
+      "options": [
+        "Fu loro concesso un regno sulla terra.",
+        "Si sono salvati grazie a una fuga miracolosa.",
+        "Hanno raggiunto il martirio e la ricompensa eterna.",
+        "Si trasformarono in una specie diversa.",
+        "Furono loro concesse immense ricchezze e prosperità."
+      ],
+      "answer": "Hanno raggiunto il martirio e la ricompensa eterna."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

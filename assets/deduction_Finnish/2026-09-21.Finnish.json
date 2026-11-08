@@ -1,0 +1,61 @@
+{
+  "title": "Huuto syvyyksistä",
+  "intro": "Armollisimman palvelija kyllästyi itsepäiseen kansakuntaan ja lähti ennen kuin lupaa myönnettiin. Tämä henkilö päätyi paikkaan, jossa yksikään ihminen ei ollut koskaan käynyt, jossa kutsu jumalalliselle kaikuu oudosti pimeyden kerrosten läpi. Heikentyneenä mutta muuttuneena tästä sielusta tuli ajaton oppitunti kärsivällisyydestä, vilpittömästä katumuksesta ja Luojan rajattomasta armosta. Pystytkö ratkaisemaan mysteerin?",
+  "clues": [
+    "Minut lähetettiin sanansaattajaksi kansani luo, mutta he ylittivät kaikki epäuskonsa rajat eivätkä halunneet kuunnella.",
+    "Vihastuin heidän torjunnastaan ​​ja pakenin kansani luota ennen kuin Allahin käsky tuli.",
+    "Nousin laivaan, joka oli lastattu yli kapasiteetin, ja arpomalla päätimme, kuka heitettäisiin yli laidan.",
+    "Minut heitettiin raivoavaan mereen ja suuri kala nielaisi minut.",
+    "Kolmen pimeyden kerroksen – vatsan, syvän meren ja maan – vangittuna huusin Herraani avuksi vilpittömässä katumuksessa.",
+    "Nousin kalasta avoimelle rannalle heikkona ja väsyneenä, ja kurpitsakasvi kasvoi ylleni. Kansani, satatuhatta tai enemmän, lopulta uskoi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Yunus",
+        "Profeetta Ayyub",
+        "Profeetta Yusuf",
+        "Profeetta Musa",
+        "Profeetta Sulaiman"
+      ],
+      "answer": "Profeetta Yunus"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri kala nielaisi",
+        "Heitetty roihuavaan tuleen",
+        "Loukussa kaivon pohjalla",
+        "Suuren tulvan hukuttama",
+        "Kuninkaan epäoikeudenmukaisesti vangitsema"
+      ],
+      "answer": "Suuri kala nielaisi"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Suuren kalan vatsa",
+        "Pyhä laakso lähellä Kaabaa",
+        "Arkki lepää vuorella",
+        "Sauva, joka muuttui käärmeeksi",
+        "Vertaansa vailla olevan loiston valtaistuin"
+      ],
+      "answer": "Suuren kalan vatsa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hänen kansansa, satatuhatta tai enemmän, uskoi",
+        "Herätetty elävältä taivaisiin",
+        "Tuli vertaansa vailla olevan kuningaskunnan hallitsijaksi",
+        "Taivaasta kantautuvan lävistävän huudon tuhoamana",
+        "Tuhoisa maanjäristys kaatoi"
+      ],
+      "answer": "Hänen kansansa, satatuhatta tai enemmän, uskoi"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

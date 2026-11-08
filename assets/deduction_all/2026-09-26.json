@@ -1,0 +1,61 @@
+{
+  "title": "The Denial Amidst Abundance",
+  "intro": "You find yourself among a people whose marketplaces buzz with trade, yet their scales tip dishonestly. A messenger has come to them with clear warnings, but they laugh and turn away, confident in their prosperity. The sky begins to darken, but they see it as a blessing of rain. Who are these people?",
+  "clues": [
+    "We thrived in lands of commerce and plenty, yet our hearts grew callous.",
+    "A messenger came to us with signs from our Lord, but we mocked his warnings.",
+    "We were known for our trade, but we gave short measure and cheated the people.",
+    "We lived among dense trees and lush vegetation, but we took our blessings for granted.",
+    "When a dark cloud approached, we rejoiced, thinking it would bring rain to our parched lands.",
+    "Instead, that cloud unleashed a scorching punishment, and we were seized by the torment of the day of shadow."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "Ashab al-Aykah (The Companions of the Wood)",
+        "People of Thamud",
+        "People of 'Ad",
+        "People of Lut",
+        "People of Nuh"
+      ],
+      "answer": "Ashab al-Aykah (The Companions of the Wood)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "They rejected their messenger and defrauded in trade",
+        "They worshiped a golden calf and were led astray",
+        "They practiced sodomy and attacked travelers",
+        "They built tall towers and challenged God",
+        "They refused to share water and harmed a she-camel"
+      ],
+      "answer": "They rejected their messenger and defrauded in trade"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A dense forest or thicket",
+        "A mountain carved into dwellings",
+        "A city by the sea",
+        "A desert valley with wells",
+        "A fertile garden with many fruits"
+      ],
+      "answer": "A dense forest or thicket"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Destroyed by a shadow cloud of fire",
+        "Drowned by a great flood",
+        "Swallowed by an earthquake",
+        "Struck by a violent wind",
+        "Turned into stone"
+      ],
+      "answer": "Destroyed by a shadow cloud of fire"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

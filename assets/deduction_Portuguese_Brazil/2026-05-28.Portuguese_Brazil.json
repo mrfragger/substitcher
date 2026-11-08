@@ -1,0 +1,61 @@
+{
+  "title": "O Paciente Inabalável Um",
+  "intro": "Nos anais da história profética, poucos suportaram perdas e aflições físicas tão profundas com fé inabalável. A história dessa figura é uma lição atemporal de paciência e confiança na sabedoria divina. Quem é essa alma?",
+  "clues": [
+    "Fui escolhido por Alá para entregar uma mensagem, mas meu maior teste não veio da rejeição, e sim de uma calamidade pessoal.",
+    "Minha riqueza, meu gado e meus filhos me foram tirados, um após o outro.",
+    "Meu corpo estava coberto de feridas e eu fiquei sozinha, exceto pelo apoio do meu cônjuge.",
+    "Clamei ao meu Senhor, reconhecendo meu sofrimento e buscando Sua misericórdia.",
+    "Recebi a instrução de bater o pé no chão, e uma fonte refrescante jorrou.",
+    "Alá restaurou minha saúde, me deu uma nova família e ainda mais riquezas do que eu tinha antes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Jó",
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Isa",
+        "Profeta Noé"
+      ],
+      "answer": "Profeta Jó"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Perda de patrimônio e família",
+        "Ser jogado no fogo",
+        "Ser engolido por um peixe",
+        "Separados de suas famílias e vendidos como escravos.",
+        "Sendo testado com um bezerro de ouro"
+      ],
+      "answer": "Perda de patrimônio e família"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma fonte de água",
+        "Um cajado que se transformou em serpente.",
+        "Uma arca de madeira",
+        "Um bezerro derretido",
+        "Uma palmeira"
+      ],
+      "answer": "Uma fonte de água"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Restauração da família e da riqueza",
+        "Ascensão ao céu",
+        "Tornar-se rei",
+        "Ser salvo de uma baleia",
+        "Receber um filho na velhice"
+      ],
+      "answer": "Restauração da família e da riqueza"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

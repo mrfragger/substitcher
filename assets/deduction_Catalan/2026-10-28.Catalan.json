@@ -1,0 +1,61 @@
+{
+  "title": "Una promesa pronunciada sobre les brases",
+  "intro": "Ets al costat d'un foc al desert mentre les seves brases s'escampen amb cura. Els visitants arriben per una trobada en la quietud, i un únic missatge obre una història de promesa, sorpresa i un futur encara no complert.",
+  "clues": [
+    "Vam creuar la distància per arribar a un servent fidel al desert.",
+    "Vam demanar que s'escampessin brases per preparar un foc.",
+    "Vam parlar amb algú que havia cridat a una flama per demanar frescor i seguretat.",
+    "Vam portar la notícia d'un nounat a algú que havia passat l'edat de tenir fills.",
+    "Vam anomenar Isaac al nen promès.",
+    "Vam portar la bona notícia d'un fill a Ibrahim, i la sorprenent notícia va fer riure a Ibrahim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Els àngels que van portar la bona nova d'Isaac a Ibrahim",
+        "Els àngels que van advertir Lut",
+        "Els àngels que porten el tron",
+        "Els àngels de l'infern",
+        "Els àngels enviats a Noè"
+      ],
+      "answer": "Els àngels que van portar la bona nova d'Isaac a Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Portant la bona nova del naixement d'Isaac a Ibrahim",
+        "Advertència a Lut abans del càstig del seu poble",
+        "Anunci del naixement de Yahya a Zakariyya",
+        "Portant el Tron el Dia del Judici",
+        "Anunci del naixement d'Isa a Maryam"
+      ],
+      "answer": "Portant la bona nova del naixement d'Isaac a Ibrahim"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un foc preparat a partir de brases esteses",
+        "Una arca flotant sobre l'aigua de la inundació",
+        "Una cova segellada per una pedra rodant",
+        "Una muntanya d'argila endurida per la salmorra",
+        "Una escala que s'estén cap al cel"
+      ],
+      "answer": "Un foc preparat a partir de brases esteses"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bones notícies d'un fill anomenat Isaac",
+        "Bones notícies d'un fill anomenat Yahya",
+        "L'elecció de Talut com a governant sobre els fills d'Israel",
+        "Un avís abans del càstig del poble de Lut",
+        "Un manament de construir una arca abans del Diluvi"
+      ],
+      "answer": "Bones notícies d'un fill anomenat Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

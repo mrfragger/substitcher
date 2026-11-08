@@ -1,0 +1,61 @@
+{
+  "title": "Te Tāone i Whakapono ki te Wā",
+  "intro": "I roto i ngā pukapuka o te aroha o te Atua, kei reira tētahi hapori, ko tōna wā hurihanga he wā o te mōhiotanga ngātahi. Kei te tata koe te hura i tā rātou kōrero—he kōrero whakatūpato, he ripeneta, me te whakamāmā i wehe ai rātou i te aituā o ētahi atu iwi.",
+  "clues": [
+    "He iwi mātou i tonoa atu he karere ki a rātou, ā, i tahuri kē mātou i tana karanga i te tuatahi.",
+    "I te māramatanga mai o ngā tohu o te whiu e tata mai ana, ka mōhio mātou ki te pono o tana whakatūpato.",
+    "I tahuri mātou ki tō mātou Ariki me te ripeneta pono, ā, i manakohia tō mātou whakapono.",
+    "I tangohia te whiu i whakaritea mō mātou nā tō mātou whakapono.",
+    "E kiia ana tā mātou kōrero he mea rerekē i roto i ngā tāone i whakapono i muri i te kitenga i te whiu.",
+    "Ko mātou te iwi o te poropiti i horomia e te tohorā, heoi i whakaorangia mātou i te whakangaromanga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te iwi o Yunus",
+        "te iwi o Noa",
+        "Te iwi o Hūta",
+        "Te iwi o Salih",
+        "Te iwi o Ruta"
+      ],
+      "answer": "Te iwi o Yunus"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "He waipuke kino",
+        "He tupuhi nui",
+        "He whiu whakama e haere mai ana i karohia",
+        "Te horomia o rātou e te whenua",
+        "He ua kōhatu"
+      ],
+      "answer": "He whiu whakama e haere mai ana i karohia"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te āaka",
+        "Te kamera uha",
+        "He tāone o te mano kotahi rau",
+        "Ngā kaimahi a Musa",
+        "Te taonga o Qarun"
+      ],
+      "answer": "He tāone o te mano kotahi rau"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia rawatia rātou",
+        "I whakaharitia rātou mō tētahi wā",
+        "I hurihia rātou hei makimaki",
+        "I toremi rātou",
+        "I horomia rātou e te whenua"
+      ],
+      "answer": "I whakaharitia rātou mō tētahi wā"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

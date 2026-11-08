@@ -1,0 +1,61 @@
+{
+  "title": "Prepreka u Drevnoj kući",
+  "intro": "U svetom gradu, moćna ličnost je kipjela od bijesa dok se nova poruka počela širiti. Ova osoba, čije je ime postalo sinonim za protivljenje istini, gledala je kako se njen utjecaj urušava pod težinom božanskog otkrivenja. Ko je bila ova duša, čija je sudbina zapečaćena u pijesku poznatog bojnog polja?",
+  "clues": [
+    "Bio sam poglavica među svojim narodom, poznat po bogatstvu i utjecaju u gradu u kojem se nalazilo drevno svetište.",
+    "Kada je čovjek iz mog plemena počeo propovijedati poruku o jednom Bogu, ismijao sam njega i njegova otkrivenja, nazivajući ih samo pričama iz prošlosti.",
+    "Suočio sam se s tim čovjekom dok se molio blizu svete građevine, prijeteći da ću mu silom prekinuti bogosluženje ako bude potrebno.",
+    "Bio sam među vođama koji su kovali zavjeru da ušutkaju novu vjeru, suprotstavljajući se njenim sljedbenicima i riječima i oružjem.",
+    "Marširao sam s vojskom prema mjestu zvanom Badr, uvjeren da ćemo uništiti malu grupu vjernika.",
+    "Ali na tom bojnom polju, moj život je došao kraj, a moja smrt je postala lekcija za one koji istraju u nevjerici nakon jasnih znakova."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ebu Džehl",
+        "Ebu Sufjan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umaja ibn Halef",
+        "Utba ibn Rabi'ah"
+      ],
+      "answer": "Ebu Džehl"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Sprečavanje Poslanika da klanja kod Kabe",
+        "Izgradnja Kabe",
+        "Pisanje Kur'ana",
+        "Predvodeći vojsku slonova",
+        "Cijepanje mjeseca"
+      ],
+      "answer": "Sprečavanje Poslanika da klanja kod Kabe"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kaba",
+        "Kovčeg proroka Nuha",
+        "Štap Poslanika Muse",
+        "Zlatno tele",
+        "Prijestolje kraljice od Sabe"
+      ],
+      "answer": "Kaba"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Poginuo u bici kod Badra",
+        "Pokajao se i postao musliman",
+        "Pobjegao u Abesiniju",
+        "Umro u godini slona",
+        "Postao je Poslanikov ashab"
+      ],
+      "answer": "Poginuo u bici kod Badra"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

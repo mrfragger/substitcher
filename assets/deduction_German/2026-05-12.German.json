@@ -1,0 +1,61 @@
+{
+  "title": "Die unnachgiebige Autorität",
+  "intro": "In uralten Landen herrschte einst eine mächtige Autorität, die über immense Ressourcen und das Leben unzähliger Menschen verfügte. Trotz deutlicher Anzeichen und Warnungen wählte dieser Herrscher den Weg des Widerstands, was zu einer tiefgreifenden Konfrontation führte, deren Nachwirkungen bis in die Neuzeit reichen sollten.",
+  "clues": [
+    "Ich beanspruchte die uneingeschränkte Macht und Autorität über ein riesiges Gebiet.",
+    "Ich forderte einen demütigen Boten heraus, der vom Herrn aller Reiche gesandt worden war.",
+    "Mein Volk war bekannt für seine Meisterschaft im Bau von imposanten Bauwerken und im Umgang mit dem Fluss, der unsere Zivilisation ernährte.",
+    "Ich wurde Zeuge vieler wundersamer Zeichen, darunter ein Stab, der sich in eine Schlange verwandelte, und eine Hand, die hell aufleuchtete.",
+    "Trotz göttlicher Gebote weigerte ich mich, eine Gruppe versklavter Menschen mein Land verlassen zu lassen.",
+    "Meine Verfolgung der abreisenden Menschen führte mich und meine Armeen mitten in ein geteiltes Meer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Yusuf",
+        "König Talut",
+        "Fir'awn (Pharao)",
+        "Prophet Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Pharao)"
+    },
+    "trial": {
+      "label": "Schlüsselkonfrontation",
+      "options": [
+        "Die Flut, die das Land überschwemmte",
+        "Die Spaltung des Meeres",
+        "Der brennende Dornbusch",
+        "Der Bau der Kaaba",
+        "Die Zerstörung durch einen gewaltigen Wind"
+      ],
+      "answer": "Die Spaltung des Meeres"
+    },
+    "location": {
+      "label": "Aspekt definieren",
+      "options": [
+        "Ein sprechendes Tier",
+        "Ein Stab und eine leuchtende Hand",
+        "Eine wundersame Geburt",
+        "Ein fliegender Teppich",
+        "Ein majestätischer Thron auf dem Wasser"
+      ],
+      "answer": "Ein Stab und eine leuchtende Hand"
+    },
+    "outcome": {
+      "label": "Letztes Schicksal",
+      "options": [
+        "Aufgestiegen in den Himmel",
+        "Von der Erde verschluckt",
+        "Im Meer ertrunken",
+        "In einen Affen verwandelt",
+        "Angesichts seines immensen Reichtums und seiner Macht"
+      ],
+      "answer": "Im Meer ertrunken"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

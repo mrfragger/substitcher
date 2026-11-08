@@ -1,0 +1,61 @@
+{
+  "title": "The Fire's Witness",
+  "intro": "A profound individual, dedicated to uncovering the ultimate reality, embarked on a journey of spiritual discovery. Their unwavering conviction led them to challenge established norms, facing immense trials that tested the limits of faith. This soul's story is a testament to divine protection and guidance.",
+  "clues": [
+    "I was blessed with a unique title from my Lord, signifying a deep and special bond.",
+    "My early life was spent among a people who bowed down to crafted images, but my heart yearned for the One True God.",
+    "I observed the celestial bodies, the sun, moon, and stars, contemplating their rise and fall, concluding they could not be my Lord.",
+    "In an act of defiance against widespread polytheism, I confronted the false deities, leaving a solitary, larger one intact as a silent accuser.",
+    "My challenge to idolatry led to a severe punishment, as I was condemned to be cast into a raging inferno.",
+    "Yet, by the command of my Creator, the intense flames transformed into a source of coolness and safety, preserving my life."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Isa",
+        "Prophet Yusuf"
+      ],
+      "answer": "Prophet Ibrahim"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Crossing the Red Sea",
+        "The Flood",
+        "The Sacrifice of a Son",
+        "The Fiery Ordeal",
+        "The Whale's Belly"
+      ],
+      "answer": "The Fiery Ordeal"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The Ark",
+        "The Staff",
+        "The Trumpet",
+        "The Fire",
+        "The Well"
+      ],
+      "answer": "The Fire"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Led people to safety",
+        "Inherited a great kingdom",
+        "Was swallowed by a fish",
+        "Was saved from burning",
+        "Received the tablets"
+      ],
+      "answer": "Was saved from burning"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

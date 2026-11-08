@@ -1,0 +1,61 @@
+{
+  "title": "Die demütigen Wahrheitssuchenden",
+  "intro": "In einem Land uralter Macht und Zauberei entbrennt eine gewaltige Auseinandersetzung. Die eine Seite beruft sich auf die Autorität göttlicher Zeichen, die andere versucht, das Unmögliche zu erreichen. Der Ausgang wird den Lauf der Geschichte für immer verändern. Könnt ihr die Identität jener enthüllen, die die höchste Wahrheit erkannten und sich ihr demütigten?",
+  "clues": [
+    "Wir wurden Zeugen von Zeichen, die über die Tricks der Zauberei hinausgingen.",
+    "Wir fielen alle in Niederwerfung, unfähig, die Wahrheit zu leugnen.",
+    "Wir erkannten, dass diese Zeichen vom einen wahren Gott kamen.",
+    "Wir waren die erste Gemeinde, die den Glauben auf so dramatische Weise annahm.",
+    "Uns wurde das Paradies als Lohn für unseren Glauben versprochen.",
+    "Unsere Seile und Stäbe verwandelten sich vor unseren Augen in Schlangen, doch wir wählten die Unterwerfung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "die Magier des Pharaos",
+        "das Volk des Propheten Ibrahim",
+        "Die demütigen Wahrheitssuchenden",
+        "Die Menschen der Höhle",
+        "Das Land von Königin Bilqis"
+      ],
+      "answer": "die Magier des Pharaos"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Begegnung mit dem Stab des Propheten Musa",
+        "Der Prozess gegen den Wind des Propheten Hud",
+        "Die Herausforderung von Prophet Salihs Kamelstute",
+        "Die große Sintflut sandte einen Propheten",
+        "Die Reise eines Propheten im Inneren eines Wals"
+      ],
+      "answer": "Die Begegnung mit dem Stab des Propheten Musa"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Altes Ägypten",
+        "Das heilige Haus in Mekka",
+        "Die Stadt Midian",
+        "Die Wüste Thamud",
+        "Die Höhle der alten Schläfer"
+      ],
+      "answer": "Altes Ägypten"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Das Paradies als ihre Belohnung",
+        "Strafe im Grab",
+        "Verlust ihrer üppigen Gärten",
+        "Zerstörung durch ein plötzliches Erdbeben",
+        "Rettung vor einem riesigen Wal"
+      ],
+      "answer": "Das Paradies als ihre Belohnung"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Somnul veacurilor",
+  "intro": "Ești pe cale să pornești într-o călătorie prin timp, întâlnind un mister profund al credinței și puterii divine. Imaginează-ți un grup de indivizi care au sfidat normele societății lor, agățându-se de monoteism într-o lume a politeismului. Povestea lor este o dovadă a capacității lui Allah de a-și proteja slujitorii drepți în cele mai extraordinare moduri. Poți descifra identitatea acestor figuri remarcabile?",
+  "clues": [
+    "Eram un mic grup de tineri care credeau într-un singur Dumnezeu, în ciuda politeismului răspândit în poporul nostru.",
+    "Am fugit de un conducător tiran care ne-a amenințat pentru credința noastră, temându-se de persecuție și moarte.",
+    "Am căutat refugiu într-un loc retras, sperând în mila și protecția lui Allah împotriva asupritorilor noștri.",
+    "Domnul nostru ne-a făcut să cădem într-un somn adânc, un somn miraculos care a sfidat trecerea timpului.",
+    "Când ne-am trezit, am crezut că ne odihnisem doar pentru o zi sau o parte dintr-o zi, fără să fim conștienți de vasta perioadă care trecuse cu adevărat.",
+    "Coranul menționează că am rămas în starea noastră timp de trei sute de ani și am depășit-o cu nouă, devenind un semn pentru omenire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii șanțului",
+        "Oamenii din Thamud",
+        "Oamenii din peșteră",
+        "Oamenii din Madyan",
+        "Companionii elefantului"
+      ],
+      "answer": "Oamenii din peșteră"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Înfruntând o mare inundație",
+        "Fiind înghițit de pământ",
+        "Lungul somn miraculos",
+        "Distrugerea orașului lor",
+        "Despărțirea mării"
+      ],
+      "answer": "Lungul somn miraculos"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un rug aprins",
+        "Un munte",
+        "O barcă",
+        "O peșteră",
+        "O fântână"
+      ],
+      "answer": "O peșteră"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Li s-au acordat bogății și puteri imense",
+        "Au fost transformați în maimuțe și porci",
+        "Au fost treziți din somn ca un semn profund",
+        "S-au înecat într-un mare potop",
+        "Au construit un regat magnific"
+      ],
+      "answer": "Au fost treziți din somn ca un semn profund"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

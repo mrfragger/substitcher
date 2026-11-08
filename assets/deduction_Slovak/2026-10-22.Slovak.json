@@ -1,0 +1,61 @@
+{
+  "title": "Spoločenstvo prvého priestupku",
+  "intro": "V krajine starobylých miest kedysi prekvitali ľudia. Navštívil ich posol s jasným volaním, no oni sa odvrátili a vydali sa cestou, po ktorej ešte nikto nekráčal. Ich príbeh je príbehom vzdoru, skazenosti a trestu, ktorý zanechal ich vlasť ako znamenie pre všetkých, ktorí sa nad tým zamýšľajú. Kto sú tieto duše?",
+  "clues": [
+    "Bývali sme v mestách na rovine, kde nás náš prorok volal k spravodlivosti.",
+    "Boli sme prví, ktorí sa dopustili neslušnosti, akú nikto na celom svete predtým neurobil.",
+    "Prepadali sme pocestných a na našich zhromaždeniach sme verejne páchali zlo.",
+    "Odmietli sme posla, ktorý k nám bol vyslaný, a vyhrážali sme sa, že ho vyženieme z našej krajiny.",
+    "Vrútili sme sa k nemu domov a požadovali, aby nám vydal svojich hostí.",
+    "Naším trestom bol dážď kameňov a naše mesto bolo obrátené hore nohami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Ľudia z Luta",
+        "Ľudia z Nuha",
+        "Ľudia z 'Ad",
+        "Ľudia z Thamudu",
+        "Ľudia z Madyanu"
+      ],
+      "answer": "Ľudia z Luta"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Spáchal prvý čin sodomie",
+        "Uctievané modly",
+        "Podvedený v obchode",
+        "Zabili svojho proroka",
+        "Neposlúchli svojich rodičov"
+      ],
+      "answer": "Spáchal prvý čin sodomie"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Mesto na planine",
+        "Mesto studne",
+        "Mesto priekopy",
+        "Mesto slona",
+        "Mesto záhrady"
+      ],
+      "answer": "Mesto na planine"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zasypané kameňmi a prevrátené",
+        "Utopený povodňou",
+        "Zničené prudkým vetrom",
+        "Pohltený zemou",
+        "Zasiahnutý hlasným výbuchom"
+      ],
+      "answer": "Zasypané kameňmi a prevrátené"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Usingizi wa Wenye Haki",
+  "intro": "Katika wakati ambapo imani ilikuwa hatari na wenye nguvu walitaka kuiponda imani, kikundi kidogo cha roho vijana walifanya uchaguzi ambao ungerudiwa kwa karne nyingi. Wakikimbia yote waliyoyajua, walitafuta kimbilio katika giza lililofichwa la mlima na wakamtegemea Mwenyezi Mungu kabisa. Kilichotokea baadaye kingekuwa ishara isiyo na mwisho kwa wale wanaotafakari.",
+  "clues": [
+    "Tulikuwa kundi la vijana waliomwamini Mola wetu, naye akatuzidishia mwongozo.",
+    "Tulisimama mbele ya watu wetu na kutangaza kwamba hatutawahi kumwomba mungu yeyote isipokuwa Mwenyezi Mungu.",
+    "Tulijificha pangoni, tukisema, 'Mola wetu, tupe rehema kutoka kwako na utuongoze katika mambo yetu kwa usahihi.'",
+    "Tulilala kwa miaka mingi, na jua lingeteleza kutoka pangoni mwetu na lisituguse.",
+    "Mbwa wetu alikuwa amelala kwenye mlango wa pango, akitulinda kana kwamba alikuwa macho.",
+    "Tulipoamka, tulijiuliza tulikuwa tumekaa kwa muda gani, na mmoja wetu akatumwa na sarafu za fedha kununua chakula."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Pango",
+        "Watu wa Handaki",
+        "Watu wa Sabato",
+        "Watu wa Tembo",
+        "Masahaba wa Mbao"
+      ],
+      "answer": "Watu wa Pango"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Walikimbilia pangoni ili kuepuka mateso kwa ajili ya imani yao",
+        "Imeharibiwa na upepo mkali",
+        "Imemezwa na ardhi",
+        "Kuzama baharini",
+        "Kupigwa na dhoruba ya mawe"
+      ],
+      "answer": "Walikimbilia pangoni ili kuepuka mateso kwa ajili ya imani yao"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mbwa akilinda mlango wa pango",
+        "Safina kubwa",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ndege aina ya hudihudi",
+        "Ndama wa dhahabu"
+      ],
+      "answer": "Mbwa akilinda mlango wa pango"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Walibaki pangoni kwa miaka 309 na kisha wakalelewa kama ishara",
+        "Waligeuzwa kuwa nyani",
+        "Waliharibiwa na mafuriko",
+        "Walilazimishwa kuvuka bahari",
+        "Walipewa ufalme"
+      ],
+      "answer": "Walibaki pangoni kwa miaka 309 na kisha wakalelewa kama ishara"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

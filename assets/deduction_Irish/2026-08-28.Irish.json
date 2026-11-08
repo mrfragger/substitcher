@@ -1,0 +1,61 @@
+{
+  "title": "An Bacainn ag an Teach Seanársa",
+  "intro": "Sa chathair naofa, bhí figiúr cumhachtach ag borradh le fearg agus teachtaireacht nua ag scaipeadh. An duine seo, a raibh a ainm ina chomhchiallaigh le freasúra in aghaidh na fírinne, chonaic sé a thionchar ag titim faoi ualach nochta diaga. Cé hé an t-anam seo, a raibh a chinniúint séalaithe i ngaineamh chatha cháiliúil?",
+  "clues": [
+    "Bhí mé i mo cheann feadhna i measc mo mhuintire, agus cáil orm as mo shaibhreas agus mo thionchar i gcathair ina raibh tearmann ársa.",
+    "Nuair a thosaigh fear ó mo threibh ag fógairt teachtaireacht faoi Dhia amháin, rinne mé magadh faoi agus faoina nochtuithe, ag glaoch orthu scéalta ón am atá thart.",
+    "Thug mé aghaidh ar an bhfear sin agus é ag guí in aice leis an struchtúr naofa, ag bagairt stop a chur lena adhradh le fórsa más gá.",
+    "Bhí mé i measc na gceannairí a bhí ag pleanáil an creideamh nua a chur ina thost, ag cur i gcoinne a leanúna le focail agus le hairm araon.",
+    "Mháirseáil mé le harm go dtí áit ar a dtugtar Badr, agus mé muiníneach go mbrisfimis an grúpa beag creidmheach.",
+    "Ach ar an bpáirc chatha sin, tháinig deireadh le mo shaol, agus ba cheacht é mo bhás dóibh siúd a leanann orthu gan chreidiúint tar éis comharthaí soiléire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Cosc a chur ar an bhFáidh ó bheith ag guí ag an gCaaba",
+        "Ag Tógáil an Kaaba",
+        "Scríobh an Quran",
+        "Ag ceannaireacht arm an eilifint",
+        "Ag scoilteadh na gealaí"
+      ],
+      "answer": "Cosc a chur ar an bhFáidh ó bheith ag guí ag an gCaaba"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Kaaba",
+        "Áirc an Fháidh Nuh",
+        "Foireann an Fháidh Músa",
+        "An Lao Órga",
+        "Ríchathaoir Bhanríon Sheba"
+      ],
+      "answer": "An Kaaba"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Maraíodh i gCath Badr",
+        "Rinne sé aithrí agus rinneadh Moslamach de",
+        "Theith sé go dtí an Aibéisin",
+        "Fuair ​​bás i mBliain an Eilifint",
+        "Tháinig sé chun bheith ina chompánach ag an bhFáidh"
+      ],
+      "answer": "Maraíodh i gCath Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

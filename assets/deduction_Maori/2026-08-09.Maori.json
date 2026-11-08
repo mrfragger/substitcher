@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo Pono o Ngā Wā Onamata",
+  "intro": "He wairua kei roto i te Quran e kōrerotia ana tana kōrero i roto i ētahi whiti torutoru noa iho, engari e tiaho ana ōna āhuatanga rangatira me te māramatanga nui. E whakanuia ana e te Atua Kaha Rawa mō tētahi āhuatanga motuhake, kei tēnei pononga tawhito a te Atua Aroha Rawa tētahi tūranga i roto i ngā whārangi o te whakakitenga. Ko tāu mahi he tautuhi i tēnei tangata whakamiharo. Ka taea e koe te matapae ko wai rātou?",
+  "clues": [
+    "He poropiti ahau nā Allah i noho i roto i ngā whakatipuranga tōmua o te tangata.",
+    "I whakahuatia ahau e Allah i roto i Tāna Pukapuka me ētahi atu poropiti, e whakamoemititia ana mō te mana rangatira kotahi.",
+    "E whakaahuatia ana ahau hei tangata pono i roto i te Quran.",
+    "I whakaarahia ahau e Atua ki tētahi tūranga teitei kāore i ekehia e ētahi atu.",
+    "Kua whakahuatia tōku ingoa i roto i a Surah Al-Anbiya, i roto i te rōpū o ētahi atu poropiti e rua i whakanuia mō tō rāua manawanui.",
+    "Ko Idris ahau, te poropiti pono, te poropiti rangatira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Idris",
+        "Poropiti a Noa",
+        "Poropiti Ihāperama",
+        "Poropiti a Mohi",
+        "Poropiti a Ihimaera"
+      ],
+      "answer": "Poropiti Idris"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Kia mau ki te manawanui me te pono, kātahi ka hikitia ki te tūranga teitei",
+        "Te hanga i tētahi āka nui hei whakaora i te hunga whakapono i te waipuke nui",
+        "Ka maka ki roto i te ahi mura, ka puta mai me te kore e whara",
+        "Te tū atu ki tētahi kīngi kaha, me te hinga i tana ope o ngā tohunga makutu",
+        "E ora tonu ana i roto i te puku o te ika nui i te hohonutanga o te moana"
+      ],
+      "answer": "Kia mau ki te manawanui me te pono, kātahi ka hikitia ki te tūranga teitei"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He tūranga teitei, he tūranga whakahīhī hoki i te aroaro o Allah",
+        "He kaipuke nui i hangaia mai i ngā papa, ā, i pania ki te uku",
+        "He ahi mura i whakakāhia e ngā kaikarakia whakapakoko o te kingi kino",
+        "He moana nui e wehea ana hei ara maroke",
+        "Te puku pōuri o te tohorā nui i te takere o te moana"
+      ],
+      "answer": "He tūranga teitei, he tūranga whakahīhī hoki i te aroaro o Allah"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua whakaurua ki roto i te aroha noa o Allah hei tetahi o te hunga tika",
+        "I whakaorangia me te hunga whakapono katoa i te waipuke o te ao katoa",
+        "I puta atu i roto i te mura ahi, kāore i pāngia e te ahi",
+        "Ārahi haumaru ana i ngā tamariki a Iharaira ki te herekoretanga i tērā taha o te moana",
+        "I hoki anō ki tō rātou whānau aroha i muri i ngā tau roa o te uauatanga"
+      ],
+      "answer": "Kua whakaurua ki roto i te aroha noa o Allah hei tetahi o te hunga tika"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

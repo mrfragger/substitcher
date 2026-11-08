@@ -1,0 +1,61 @@
+{
+  "title": "Desa di Tepi Danau Trial",
+  "intro": "Anda mendapati diri Anda berada di sebuah desa pesisir, di mana suara ombak bercampur dengan bisikan orang-orang yang terlupakan. Mereka diberi perintah untuk beristirahat, tetapi keserakahan mereka menyebabkan hukuman yang masih dibicarakan dengan lirih hingga kini. Dapatkah Anda mengungkap siapa mereka?",
+  "clues": [
+    "Kami tinggal di tepi pantai dan diberi perintah untuk beristirahat selama satu hari.",
+    "Pada hari itu, ikan akan datang kepada kami dalam jumlah berlimpah, tetapi kami dilarang untuk mengambilnya.",
+    "Sebagian di antara kami memperingatkan agar tidak melanggar aturan, tetapi sebagian lainnya bersekongkol untuk tetap memancing.",
+    "Kita melanggar perintah suci dan mendatangkan hukuman berat bagi diri kita sendiri.",
+    "Hukuman kami adalah transformasi yang membuat kami cacat dan tercela.",
+    "Kita diubah menjadi kera, sebuah pertanda bagi semua orang yang akan datang setelah kita."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Umat ​​Sabat",
+        "Orang-orang Tsamud",
+        "Orang-orang 'Ad",
+        "Orang-orang Gua",
+        "Orang-orang Gajah"
+      ],
+      "answer": "Umat ​​Sabat"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Memancing di hari Sabat",
+        "Menyembah anak lembu emas",
+        "Menyangkal pesan Hud",
+        "Membunuh unta betina",
+        "Membangun menara menuju surga"
+      ],
+      "answer": "Memancing di hari Sabat"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Ikan",
+        "Seekor unta betina",
+        "Seorang staf",
+        "Sebuah perahu",
+        "Sebuah taman"
+      ],
+      "answer": "Ikan"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Berubah menjadi kera",
+        "Hancur akibat banjir",
+        "Hancur akibat kobaran api yang dahsyat",
+        "Ditelan oleh bumi",
+        "Tersebar oleh angin"
+      ],
+      "answer": "Berubah menjadi kera"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

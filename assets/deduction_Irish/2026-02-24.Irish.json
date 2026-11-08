@@ -1,0 +1,61 @@
+{
+  "title": "Macalla na Meabhlaireachta",
+  "intro": "Cuireadh brú ar nasc gaolmhaireachta le borradh éad. Cruthaíodh plean rúnda, rud a chuir tús le slabhra imeachtaí a mhairfeadh blianta agus a thrasnódh achair fhada. Mar thoradh ar ghníomhartha an ghrúpa seo, tháinig scaradh agus brón domhain chun cinn, ach níor chríochnaigh an scéal ansin. Is scéal é faoi mheabhlaireacht, aiféala, agus faoi phlean diaga a nochtadh. An féidir leat céannacht na ndaoine seo a nochtadh a raibh macalla dá roghanna ó ghlúin go glúin?",
+  "clues": [
+    "Bhí éad orainn faoin ngrá a léiríodh do dhuine dár gcuid féin.",
+    "Inár n-éad, rinneamar comhcheilg le chéile agus chaith muid ár ndeartháir nó deirfiúr i ndorchadas tobair.",
+    "Chun ár ngníomh a cheilt, thugamar éadach dár n-athair, a raibh fuil bhréagach air.",
+    "Blianta ina dhiaidh sin, b’éigean dúinn taisteal go dtí an Éigipt ag lorg soláthairtí de bharr gorta mór.",
+    "Ansin, tháinig muid os comhair gobharnóra cumhachtaigh a bhí, gan fhios dúinn, ar an deartháir céanna a raibh éagóir déanta againn air.",
+    "Ba é an tástáil dheireanach a bhí againn ná ár ndeartháir is óige, Binyamin, a thabhairt linn, rud a thug léargas dúinn ar ár n-am atá thart agus ar ár n-athair mar an Fáidh Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé muid féin?",
+      "options": [
+        "Clann Ádhaimh (Qabil & Habil)",
+        "Deisceabail an Fháidh Íosa",
+        "Deartháireacha an Fháidh Yusuf",
+        "Muintir Madyan",
+        "Draíodóirí Fir'awn"
+      ],
+      "answer": "Deartháireacha an Fháidh Yusuf"
+    },
+    "trial": {
+      "label": "Cad é ár bpríomh-mhí-ghníomh?",
+      "options": [
+        "Lao órga a thógáil le haghaidh adhartha",
+        "Ag éileamh go bhfeicfidh mé Allah go díreach",
+        "Ag magadh faoi fháidh as áirc a thógáil",
+        "Ag mealladh ár n-athar agus ag tréigean ár ndeartháir",
+        "Ag briseadh na Sabóide trí iascaireacht"
+      ],
+      "answer": "Ag mealladh ár n-athar agus ag tréigean ár ndeartháir"
+    },
+    "location": {
+      "label": "Cén réad a bhí lárnach inár meabhlaireacht?",
+      "options": [
+        "Sraith táibléad greanta",
+        "Léine atá daite le fuil bhréagach",
+        "Lao órga",
+        "Éan álainn (an Hoopoe)",
+        "Bata a d’iompaigh ina nathair"
+      ],
+      "answer": "Léine atá daite le fuil bhréagach"
+    },
+    "outcome": {
+      "label": "Cad a bhí mar thoradh deiridh ar ár scéal?",
+      "options": [
+        "Scriosadh sinn le tuile mhór",
+        "Rinneadh apaí dínn",
+        "Slogadh an talamh sinn",
+        "Tugadh maithiúnas dúinn agus athcheangail muid lenár dteaghlach",
+        "Báthadh muid sa bhfarraige"
+      ],
+      "answer": "Tugadh maithiúnas dúinn agus athcheangail muid lenár dteaghlach"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

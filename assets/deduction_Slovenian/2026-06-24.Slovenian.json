@@ -1,0 +1,61 @@
+{
+  "title": "Varuh neugasljivega plamena",
+  "intro": "Na pragu najbolj strašnega kraja v nevidnem stoji postava, zaupana ji je dolžnost, ki si je nobeno drugo bitje ne želi. Ko trpeče duše kličejo po usmiljenju, se skozi ognjene dvorane odzove strog odgovor. Ali lahko odkrijete identiteto tega večnega varuha?",
+  "clues": [
+    "Stojim na vhodu v grozljiv kraj kaznovanja v nevidnem.",
+    "Plameneči, neugasljivi ogenj je osrednji del moje slovesne dolžnosti.",
+    "Trpeče duše kličejo moje ime in prosijo za olajšanje od svojih neskončnih muk.",
+    "Ko prosijo, izjavljam, da ne bodo nikoli odšli.",
+    "Nisem človek niti džin – sem ustvarjeno bitje čiste poslušnosti.",
+    "Jaz sem glavni angel, imenovan za večnega varuha peklenskega ognja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Malik",
+        "Džibril",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Prebivalci pekla prosijo za konec njihovih muk",
+        "Trobenta zatrobi, da naznani sodni dan",
+        "Koran je razodet prerokovemu srcu",
+        "Preroka njihovo ljudstvo vrže v velik ogenj",
+        "Zgrajen je mogočni zid, ki bo zajezil pokvarjen narod"
+      ],
+      "answer": "Prebivalci pekla prosijo za konec njihovih muk"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Peklenski ogenj (Jahannam)",
+        "Lotosovo drevo na meji z rajem",
+        "Prodorna trobenta",
+        "Palica, ki se spremeni v kačo",
+        "Veličasten božanski prestol"
+      ],
+      "answer": "Peklenski ogenj (Jahannam)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Prebivalcem pekla je rečeno, da bodo ostali večno",
+        "Prebivalci pekla so odpuščeni in izpuščeni",
+        "Prebivalci pekla dobijo drugo priložnost za vero",
+        "Prebivalci pekla so preseljeni v kraj hladu",
+        "Prebivalce pekla popolnoma uniči strela"
+      ],
+      "answer": "Prebivalcem pekla je rečeno, da bodo ostali večno"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

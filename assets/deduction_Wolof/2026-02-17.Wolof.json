@@ -1,0 +1,61 @@
+{
+  "title": "Jiwwu xeex bi",
+  "intro": "Balaa àdduna bi di xam xeex bu tasaaroo, dafa am natt bu xóot ci ngëm ak déggal. Léeb bii dafay wax ci tànneef yi benn nit def, te jëfam dafay nekk royukaay ci mbokk yiy ñëw. Waajal nettali jaar-jaaru ruuh buy xeex ak fiiraange gu rëy ak jafe-jafe yi mu àndal.",
+  "clues": [
+    "Maa ngi nekkoon ci doomi jëkkër ak jabar yi njëkka dundu ci kaw suuf.",
+    "Man ak sama mag danou digal nu jébbal Yallah sarax, muy natt sunu njub.",
+    "Sama sarax nangu wuñu ko, waaye sama rak nangu nañu ko, mu fees sama xol ak yëg-yëg bu metti.",
+    "Ma wax sama rak ay kàddu yuy tiital, ndax limu ma baña nangu.",
+    "Sama mbokk tontoo ko ak xel ak ragal Yàlla, fàttali ma njubteg Yàlla ak ragal ko.",
+    "Doonte sama rak daf ma wax lu woyof, ba noppi bëgga baale, ma jël sama bakkan, nekk kenn ci ñi ñàkk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Yonent Yàlla Aadama",
+        "Ibliis",
+        "Yonent-Yàlla Nuh",
+        "Qabil (Kayin)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kayin)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Mbënd mu mag mi",
+        "Xaajaloo géej gi",
+        "Tabax Kaaba gi",
+        "saraxe sarax yi",
+        "Fiir bi am ci jardin bi"
+      ],
+      "answer": "saraxe sarax yi"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Ark bi",
+        "Ndaw yi",
+        "Tundu Safa",
+        "Sarax bi",
+        "Bush buy tàkk"
+      ],
+      "answer": "Sarax bi"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekk na ab ndaw",
+        "Dafa féey",
+        "Tabax na buur bu mag",
+        "Nekk na misaalu réccu",
+        "Dañu ko jox alal bu bari"
+      ],
+      "answer": "Nekk na misaalu réccu"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

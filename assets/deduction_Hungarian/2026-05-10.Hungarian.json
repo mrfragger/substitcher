@@ -1,0 +1,61 @@
+{
+  "title": "A tornyok építői",
+  "intro": "Réges-régen egy hatalmas civilizáció emelkedett fel, amelyet lenyűgöző építőipari teljesítményei és félelmetes ereje jellemzett. Ez a kollektív entitás bőséges erőforrásokkal és fizikai képességekkel rendelkezett, mégis a dac útját választották az isteni üzenettel szemben, amelyet útmutatásul küldtek nekik. Történetük mély tanulságul szolgál a történelem krónikáiban, tanúbizonyságot téve az igazság elutasításának következményeire.",
+  "clues": [
+    "Hatalmas fizikai erőt és termetet kaptunk, amihez korunk egyetlen más népéhez sem hasonlítottunk.",
+    "Arról voltunk ismertek, hogy fenséges építményeket és magas oszlopokat építettünk minden magaslaton, azt gondolva, hogy örökké élni fogunk.",
+    "Egy közülünk küldött küldött, hogy figyelmeztessen minket, és arra hívjon fel, hogy egyedül Allahot imádjuk, és hagyjuk el bálványainkat.",
+    "Arrogánsan kérdőre vontuk küldöttünket, azt kérdezve, hogy vajon csak azért jöttek-e hozzánk, hogy Allahot imádják, és elhagyják azt, amit őseink imádtak.",
+    "Földünket kertekkel, forrásokkal és termékeny mezőkkel áldották meg, de mi a jólétünket a saját erőnknek tulajdonítottuk, nem a Teremtőnknek.",
+    "Állandó hitetlenségünk és gúnyolódásunk miatt végül egy félelmetes, dühös szél pusztított el minket, amely napokon és éjszakákon át tombolt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Thamud népe",
+        "Fir'aun népe",
+        "Nuh népe",
+        "Madyan népe",
+        "'Ad emberei"
+      ],
+      "answer": "'Ad emberei"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Arra kérik őket, hogy áldozzanak fel egy adott tevét",
+        "Tíz, a Koránhoz hasonló szúra megalkotására irányuló kihívás",
+        "Megmutatták a tenger kettéhasadását",
+        "Egy próféta figyelmezteti a közelgő özönvízre",
+        "Elutasítva azt a prófétát, aki a túlzott építkezés és a bálványimádás ellen intett"
+      ],
+      "answer": "Elutasítva azt a prófétát, aki a túlzott építkezés és a bálványimádás ellen intett"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A tűz",
+        "Szodoma városa",
+        "Magas oszlopok és erős hajlékok"
+      ],
+      "answer": "Magas oszlopok és erős hajlékok"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egy nagy árvízbe fulladt",
+        "Elnyelte a föld",
+        "Majmokká és disznókká változtak",
+        "Egy mennydörgő robbanás pusztította el",
+        "Egy dühös, pusztító szél pusztította el"
+      ],
+      "answer": "Egy dühös, pusztító szél pusztította el"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

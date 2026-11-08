@@ -1,0 +1,61 @@
+{
+  "title": "Sendiherrar miskunnar og máttar",
+  "intro": "Ímyndaðu þér kyrrlátan síðdegis sem truflaður er af komu ókunnugra ferðalanga. Útlit þeirra er venjulegt en tilgangur þeirra er allt annað en það. Þeir bera guðdómlegan boðskap sem mun breyta stefnu tveggja þjóða, færa hlátur í hrjóstrugt heimili og skelfingu í synduga borg. Hverjir eru þessir dularfullu gestir?",
+  "clues": [
+    "Við vorum send til hollustu þjóna Allahs, þekktra fyrir óendanlega gestrisni sína.",
+    "Við komum í gervi ókunnugra en samt skynjaði gestgjafinn eitthvað framandi við nærveru okkar.",
+    "Við færðum tíðindi sem fengu eldri konu til að hlæja vantrúaða og sló sjálfa sig í andlitið af undrun.",
+    "Okkur var falið að vernda réttláta fjölskyldu á meðan eyðileggingu var rigning yfir borg sem var gegnsýrð af spillingu.",
+    "Við neituðum að taka þátt í máltíðinni sem okkur var boðin, sem aðeins jók grunsemdir gestgjafans.",
+    "Við opinberuðum ekki sanna eðli okkar fyrr en við fórum og sögðum: „Sannarlega erum við sendiboðar Drottins þíns.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hverjir erum við?",
+      "options": [
+        "Gestir Abrahams",
+        "Lærisveinar Jesú",
+        "Félagar hellisins",
+        "Herinn í Abraha",
+        "Sendiboðar Ya-Sin"
+      ],
+      "answer": "Gestir Abrahams"
+    },
+    "trial": {
+      "label": "Markmið okkar",
+      "options": [
+        "Til að prófa trú Abrahams gagnvart syni sínum",
+        "Að afhenda Abraham ritninguna",
+        "Til að tilkynna fæðingu Ísaks og tortímingu fólks Lots",
+        "Að leiða Abraham til Kaaba",
+        "Til að bjarga Abraham úr eldinum"
+      ],
+      "answer": "Til að tilkynna fæðingu Ísaks og tortímingu fólks Lots"
+    },
+    "location": {
+      "label": "Útlitsstaður",
+      "options": [
+        "Í Egyptalandi",
+        "Í borginni Úr",
+        "Heima hjá Abraham",
+        "Í Edengarðinum",
+        "Við brunninn í Zamzam"
+      ],
+      "answer": "Heima hjá Abraham"
+    },
+    "outcome": {
+      "label": "Niðurstaðan",
+      "options": [
+        "Abraham varð konungur",
+        "Abraham byggði Kaaba",
+        "Sara fæddi Ísak og fólk Lots var tortímt",
+        "Abraham flutti til Palestínu",
+        "Fólk Abrahams var bjargað frá miklu flóði"
+      ],
+      "answer": "Sara fæddi Ísak og fólk Lots var tortímt"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

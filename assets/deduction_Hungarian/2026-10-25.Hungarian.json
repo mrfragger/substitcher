@@ -1,0 +1,61 @@
+{
+  "title": "A panasz a zaj felett hallatszik",
+  "intro": "Egy hangot hallasz felemelni egy olyan társadalomból, ahol az elnyomás rutinná vált. Semmilyen hatalomdemonstráció nem válaszol a panaszra; ehelyett egy közvetlen felhívás jut el Allahhoz, és a válasz magának az imádatnak a szívét érinti. Ki tette ezt a panaszt, milyen kérdés következett, és milyen igazságot erősítettek meg?",
+  "clues": [
+    "Aggódni kezdtem a körülöttem lévő emberek elnyomása miatt.",
+    "Személyes panaszban közvetlenül Allahnak adtam hangot a panaszomnak.",
+    "Allah meghallgatta a panaszomat, és válaszolt is, kétségbe vonva a saját hitemet.",
+    "A válasz azt kérdezte, hogyan nem tudok hinni Allahban, aki egy és legfőbb.",
+    "Aztán megkérdeztem, miért kellene Allahnak olyan népet előnyben részesítenie, akik hitetlenek.",
+    "Uzair vagyok, akit az Az-Zukhruf szúrában úgy neveznek meg, mint akinek a panaszát Allah meghallgatta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Uzair",
+        "A társ, aki a nagy árvízen vitorlázott",
+        "A szolga, aki a vízen járt",
+        "Az alvó egy barlangban védett",
+        "A szolga, aki köveket hozott a folyóba"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Panaszkodva Allahnak a nép elnyomása miatt",
+        "Vízen járás viharban",
+        "Köveket hordani egy víztelen folyóhoz",
+        "Vitorlázás egy nagy árvízen át az Ark fedélzetén",
+        "Megkapni egy hatalmas kincs kulcsát"
+      ],
+      "answer": "Panaszkodva Allahnak a nép elnyomása miatt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy közvetlen panasz Allahhoz",
+        "Egy bot, ami kígyóvá változott",
+        "Egy hűvös és békés kemence",
+        "Egy bárka lebeg az árvíz felett",
+        "Egy hal lenyel egy szolgát"
+      ],
+      "answer": "Egy közvetlen panasz Allahhoz"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Allah meghallgatta a panaszt, és megerősítette az isteni Egységet és Legfelsőbb Uraságot",
+        "Biztonságos séta a vízen viharban",
+        "Biztonságosan átkelni egy nagy árvízen az Ark fedélzetén",
+        "Visszanyerve a látást az arrogancia palotájában",
+        "Kelettől Nyugatig terjedő uralom átvétele"
+      ],
+      "answer": "Allah meghallgatta a panaszt, és megerősítette az isteni Egységet és Legfelsőbb Uraságot"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

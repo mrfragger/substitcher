@@ -1,0 +1,61 @@
+{
+  "title": "Kiapo cha Mtoto Asiyezaliwa",
+  "intro": "Nafsi ya dhati ilitoa ahadi takatifu kabla ya mtoto kuzaliwa. Hadithi ya mtu huyu inajitokeza ndani ya kuta za patakatifu, ambapo ibada hukutana na kukubalika kwa Mungu. Mtumishi huyu wa Mwenyezi Mungu ni nani?",
+  "clues": [
+    "Nilikuwa wa familia inayoheshimiwa katika Quran.",
+    "Niliweka nadhiri nzito ya kumtoa mtoto wangu ambaye hajazaliwa kwa ajili ya utumishi wa Mwenyezi Mungu.",
+    "Nilipojifungua, nilishangaa kugundua kuwa alikuwa binti, ingawa nilikuwa nimetarajia mtoto wa kiume.",
+    "Nilimpa mtoto wangu jina la Maryam, jina linaloonyesha kujitolea na huduma.",
+    "Niliomba ulinzi wa Mwenyezi Mungu kwa ajili ya mtoto wangu na kizazi chake kutokana na Shetani aliyelaaniwa.",
+    "Mtoto wangu alikubaliwa na Bwana na kuwekwa chini ya uangalizi wa Nabii Zakariya katika patakatifu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mke wa Imran (Mama wa Maryam)",
+        "Asia, mke wa Farao",
+        "Maryam, mama yake Isa",
+        "Mama yake Nabii Musa",
+        "Malkia wa Sheba"
+      ],
+      "answer": "Mke wa Imran (Mama wa Maryam)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuapa kumtoa mtoto wake hekaluni",
+        "Kutupwa motoni",
+        "Kuvuka bahari kwenye nchi kavu",
+        "Kujenga safina kubwa",
+        "Kumezwa na samaki mkubwa"
+      ],
+      "answer": "Kuapa kumtoa mtoto wake hekaluni"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Patakatifu (mihrab) ambapo mtoto wake aliwekwa",
+        "Sanduku la agano",
+        "Ndama wa dhahabu",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Mtende ambao alipumzika chini yake"
+      ],
+      "answer": "Patakatifu (mihrab) ambapo mtoto wake aliwekwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mtoto wake alikubaliwa na kuwekwa chini ya uangalizi wa Nabii Zakariya.",
+        "Aliokolewa kutokana na adhabu ya mtawala wa kiimla",
+        "Alipewa mtoto wa kiume aliyeitwa Yahya",
+        "Watu wake waliangamizwa na dhoruba",
+        "Akawa malkia juu ya ufalme mkubwa"
+      ],
+      "answer": "Mtoto wake alikubaliwa na kuwekwa chini ya uangalizi wa Nabii Zakariya."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

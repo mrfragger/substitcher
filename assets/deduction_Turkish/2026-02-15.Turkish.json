@@ -1,0 +1,61 @@
+{
+  "title": "Azmin Sesi",
+  "intro": "Bu kişi, nesiller boyu süren öğütleriyle hatırlanacak derin bilgeliği ve rehberliğiyle tanınır. Sözleri, dindarlığın ve ilahi nimetleri ve imtihanları tanımanın öneminin bir kanıtıdır. Bu saygıdeğer ruhun kimliğini keşfedin.",
+  "clues": [
+    "Ben bir peygamber değildim, ama bilgeliğim Kutsal Yazılarda ölümsüzleştirilmiştir.",
+    "Çocuğuma verdiğim öğütlerde Allah'a şükretmenin ve şirkten kaçınmanın önemini vurguladım.",
+    "Duânın önemini, iyiliği emretmeyi ve kötülüğü yasaklamayı öğrettim.",
+    "Kibir ve yeryüzünde küstahça davranmanın sakıncalı olduğunu vurguladım.",
+    "Kur'an'da, öğretilerimi öne çıkaran bir bölümün tamamına adım verilmiştir.",
+    "Tavsiyelerim arasında zorluklar karşısında sabırlı olmak da vardı; zira bu, en azimli işlerden bile çıkar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İdris",
+        "Peygamber Yahya",
+        "Luqman",
+        "İmran",
+        "Peygamber Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Temel Öğretim/Rehberlik",
+      "options": [
+        "Bir gemi inşa etmek",
+        "güçlü bir orduyla karşı karşıya",
+        "Bilgelik ve ahlaki öğütler sunmak",
+        "Rüyaları yorumlamak",
+        "Bir ulusu zafere götürmek"
+      ],
+      "answer": "Bilgelik ve ahlaki öğütler sunmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yanan bir çalı",
+        "Büyük bir balık",
+        "Belirli bir dağ",
+        "Evlatlara verilebilecek bilgece bir öğüt",
+        "Büyük bir saray"
+      ],
+      "answer": "Evlatlara verilebilecek bilgece bir öğüt"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Kral oldu",
+        "Peygamberlik yetkisi kendisine verildi.",
+        "Onun bilgeliği Kur'an'da kaydedilmiştir.",
+        "Halkını yeni bir toprağa götürdü.",
+        "Kendisine muazzam bir servet verildi."
+      ],
+      "answer": "Onun bilgeliği Kur'an'da kaydedilmiştir."
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

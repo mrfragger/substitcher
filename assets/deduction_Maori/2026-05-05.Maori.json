@@ -1,0 +1,61 @@
+{
+  "title": "Te Awhi o te Ao",
+  "intro": "I te wā o ngā whakamātautau nui, i whakawhiwhia tētahi tangata rongonui ki te nui o te taonga o te ao, he whakamātautau mō te whakawhetai me te ngākau mahaki. Ko te haerenga a tēnei tangata he akoranga hohonu mō te āhua poto o ngā taonga me ngā hua o te whakapehapeha. Kimihia te tuakiri o tēnei wairua kua whakairohia tōna kōrero ki te whenua i raro i a tātou.",
+  "clues": [
+    "I noho ahau i waenganui i tētahi iwi i arahina e tētahi karere nui.",
+    "Nā te Atua ahau i homai he taonga nui ki ahau, ā, ko ngā kī ki aku taonga i waiho hei kawenga taimaha mā te tini o te hunga kaha.",
+    "I te mōhio o tōku iwi ki ōku taonga, ka tohutohu mai rātou ki ahau kia rapu i te kāinga o te ao tūroa me ngā mea kua homai e Allah ki ahau, kaua hoki e wareware ki taku wāhi o te ao, me te mahi i te pai pērā i tā Allah mahi pai ki ahau.",
+    "I runga i te whakapehapeha i kī ahau nāku ake mōhiotanga me taku mahi i whiwhi ai ahau i aku taonga nui, me te whakakahore i tetahi manaakitanga o te atua.",
+    "I te wā i tonoa ai ahau kia koha, kia mihi rānei ki ngā manaakitanga a Allah, i whakakahore whakahīhī ahau, i te whakapono nōku anake aku taonga.",
+    "Nā te nui o tōku whakapehapeha me tōku tukino, ka whakahau a Allah i te whenua kia tuwhera, kia horomia ahau me tōku whare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Hāmana",
+        "Āpu Rāhapi",
+        "Karauna"
+      ],
+      "answer": "Karauna"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te maka ki roto i te ahi",
+        "Te toremitanga i te moana",
+        "Te peinga atu i te māra",
+        "Te hurihanga hei makimaki",
+        "Te horomia e te whenua"
+      ],
+      "answer": "Te horomia e te whenua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He kuao kau koura",
+        "He āaka nui",
+        "He manu kōrero",
+        "He tokotoko whakamiharo",
+        "Ngā taonga nui me ngā kī"
+      ],
+      "answer": "Ngā taonga nui me ngā kī"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te riro hei rangatira nui",
+        "Te whiwhi i te whakakitenga atua",
+        "Te piki ki te rangi",
+        "Te ora i te ora roa o te karakia",
+        "Te whakangaromanga nui nā te whakapehapeha"
+      ],
+      "answer": "Te whakangaromanga nui nā te whakapehapeha"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

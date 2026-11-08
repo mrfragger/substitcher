@@ -1,0 +1,61 @@
+{
+  "title": "Semen Discordiae",
+  "intro": "Antequam mundus late diffusum conflictum cognoverat, profunda fidei et oboedientiae probatio se explicavit. Haec narratio electiones hominis explorat, cuius actiones exemplum posteris praebuerunt. Para te fabulam animae cum immensa zelotypia eiusque vastantibus consequentiis luctantis explicare.",
+  "clues": [
+    "Inter primam progeniem quae terram ambulavit fui, filius primissimi paris humani.",
+    "Fratri meo et mihi iussi sumus sacrificium Allah offerre, experimentum sinceritatis nostrae.",
+    "Oblatio mea non accepta est, fratris autem mei accepta est, quod cor meum terribili affectu implevit.",
+    "Verba minacia in fratrem meum locutus sum, amaritudine repudii impulsus.",
+    "Frater meus cum sapientia et pietate respondit, iustitiam Allah et timorem Eius mihi admonens.",
+    "Quamquam fratris mei verbis lenibus et ignoscendi promptitudine utebatur, vitam abstuli, unus ex victis factus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Adamus",
+        "Iblis",
+        "Propheta Nuh",
+        "Qabil (Cain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum diluvium",
+        "Maris divisio",
+        "Aedificatio Kaabae",
+        "Oblatio sacrificiorum",
+        "Tentatio in Horto"
+      ],
+      "answer": "Oblatio sacrificiorum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Mons Safae",
+        "Sacrificium",
+        "Rubus Ardens"
+      ],
+      "answer": "Sacrificium"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Nuntius factus est",
+        "Submersus est",
+        "Magnum regnum aedificavi",
+        "Exemplum paenitentiae factus est",
+        "Ingentes divitiae concessae sunt"
+      ],
+      "answer": "Exemplum paenitentiae factus est"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

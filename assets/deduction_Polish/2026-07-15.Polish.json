@@ -1,0 +1,61 @@
+{
+  "title": "Samotne odosobnienie",
+  "intro": "W annałach boskiej łaski istnieje dusza o niezrównanej czystości, oddzielona od swego ludu, by szukać samotności w świętym kierunku. Nie wiedzieli, że to odosobnienie przyniesie znak dla wszystkich światów, próbę wiary, o której będą mówić przez całą wieczność.",
+  "clues": [
+    "Już przed narodzinami poświęciłem swoje życie służbie innym.",
+    "Zostałem oddany pod opiekę szlachetnego proroka.",
+    "Zostałem zaopatrzony w dary od Allaha, które wprawiły w zdumienie mojego opiekuna.",
+    "Wycofałem się z rodziny i przeniosłem się gdzieś na wschód.",
+    "Anioł ukazał mi się w postaci doskonałego człowieka i przyniósł mi nowinę o czystym synu.",
+    "Gdy wróciłem z noworodkiem, moi ludzie oskarżyli mnie, ale niemowlę stanęło w mojej obronie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Maryam (Maryja)",
+        "Asiyah (żona faraona)",
+        "Hadżar (matka Ismaiła)",
+        "Sara (żona Ibrahima)",
+        "Matka Musy"
+      ],
+      "answer": "Maryam (Maryja)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Cudowne poczęcie i narodziny syna",
+        "Wrzucenie do ognia",
+        "Połknięcie przez gigantyczną rybę",
+        "Budowanie wielkiej arki",
+        "Przeprawa przez morze"
+      ],
+      "answer": "Cudowne poczęcie i narodziny syna"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Odosobnione miejsce na wschodzie",
+        "Płonący krzew",
+        "Morze Czerwone",
+        "Skała, z której tryska woda",
+        "Wieloryb"
+      ],
+      "answer": "Odosobnione miejsce na wschodzie"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Niemowlę stanęło w obronie matki",
+        "Morze się rozstąpiło",
+        "Ogień stał się chłodny i bezpieczny",
+        "Wieloryb zwymiotował na brzeg",
+        "Arka wylądowała na górze"
+      ],
+      "answer": "Niemowlę stanęło w obronie matki"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

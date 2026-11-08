@@ -1,0 +1,61 @@
+{
+  "title": "Kirotut kädet",
+  "intro": "Seisot muinaisen Mekan kiemurtelevilla kujilla, missä vaikutusvaltainen ja rikas sielu kerran kääntyi pois totuuden kutsusta. Tämän hahmon tarina on karu muistutus siitä, että verisiteet eivät voi voittaa ylpeyden kahleita. Kuka on tämä, jonka nimi kaikuu odottavan tulen mukana?",
+  "clues": [
+    "Kävelin Mekan katuja ylpeydellä, joka sokaisi minut totuudelle, vaikka sanansaattaja oli omaa vertani.",
+    "Omaisuuteni oli valtava, mutta siitä tuli kirous pikemminkin kuin kilpi.",
+    "Opetuskirja puhuu minun tuhostani, julistaa, että käteni ja ruumiini hukkuvat.",
+    "Puolisoni liittyi vihamielisyyteeni ja keräsi orjantappuraita levittääkseen niitä sen polulle, joka huusi Allahia avuksi.",
+    "Tuomion päivänä minut heitetään hehkuvaan tuleen, ja puolisoni kaulassa on palmunkuiduista tehty köysi.",
+    "Minut tunnetaan nimellä, joka tarkoittaa 'liekin isää' – nimeä, joka ennustaa ikuisen asuinsijani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Keskeinen kokeilu tai tapahtuma",
+      "options": [
+        "Vastusti profeettaa ja hänet kirottiin Koraanissa",
+        "Johti armeijaa tuhoamaan Kaaban",
+        "Yritti tappaa profeetan heittämällä kiviä",
+        "Kieltäytyi uskomasta kuun jakautumiseen",
+        "Rakensi tornin taivaisiin yltääkseen"
+      ],
+      "answer": "Vastusti profeettaa ja hänet kirottiin Koraanissa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Helvetin liekehtivä tuli",
+        "Musan sauva",
+        "Noan arkki",
+        "Zamzamin kaivo",
+        "Kultainen vasikka"
+      ],
+      "answer": "Helvetin liekehtivä tuli"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hän astuu liekehtivään tuleen, eikä hänen rikkautensa häntä hyödytä.",
+        "Hän katui ja tuli uskovaiseksi",
+        "Hänelle annettiin anteeksi perumisen jälkeen",
+        "Hän kuoli marttyyrinä",
+        "Hänet otettiin taivaisiin"
+      ],
+      "answer": "Hän astuu liekehtivään tuleen, eikä hänen rikkautensa häntä hyödytä."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tigbantay sa Dili Mapalong nga Kalayo",
+  "intro": "Usa ka tawo ang nagbarog sa pultahan sa labing gikahadlokan nga dapit sa dili makita, gisaligan sa usa ka katungdanan nga walay laing binuhat nga gusto. Sa dihang ang mga nag-antos nga kalag mangayo og kalooy, usa ka estrikto nga tubag ang molanog sa mga lawak sa kalayo. Mahimo ba nimo nga mahibal-an ang pagkatawo niining walay katapusan nga magbalantay?",
+  "clues": [
+    "Nagbarog ako sa entrada sa usa ka makalilisang nga dapit sa silot sa dili makita.",
+    "Usa ka nagdilaab, dili mapalong nga kalayo mao ang sentro sa akong solemne nga katungdanan.",
+    "Ang mga kalag nga nag-antos nanawag sa akong ngalan, nangamuyo alang sa kahupayan gikan sa ilang walay katapusan nga pag-antos.",
+    "Kon sila mangamuyo, ako mopahayag nga dili sila mobiya, bisan kanus-a.",
+    "Dili ako tawo, ni jinn — ako usa ka binuhat nga adunay putli nga pagkamasinugtanon.",
+    "Ako ang pangulong anghel nga gitudlo isip walay kataposang magbalantay sa Impyernong Kalayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang mga tawo sa Impyerno nangamuyo nga matapos na ang ilang pagsakit",
+        "Ang trumpeta gipatingog aron pagpahibalo sa Adlaw sa Paghukom",
+        "Ang Quran gipadayag sa kasingkasing sa Propeta",
+        "Usa ka Propeta ang gilabay sa dakong kalayo sa ilang katawhan",
+        "Usa ka lig-on nga paril ang gitukod aron mapugngan ang usa ka daotan nga nasud"
+      ],
+      "answer": "Ang mga tawo sa Impyerno nangamuyo nga matapos na ang ilang pagsakit"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Impyerno (Jahannam)",
+        "Ang Kahoyng Lote sa utlanan sa Paraiso",
+        "Usa ka nagtusok nga trumpeta",
+        "Usa ka sungkod nga nahimong bitin",
+        "Usa ka mahimayaong trono sa Diyos"
+      ],
+      "answer": "Ang Impyerno (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang mga nagpuyo sa Impyerno gisultihan nga sila magpabilin hangtod sa hangtod",
+        "Ang mga nagpuyo sa Impyerno gipasaylo ug gibuhian",
+        "Ang mga nagpuyo sa Impyerno gihatagan ug ikaduhang higayon sa pagtuo",
+        "Ang mga lumulupyo sa Impyerno gibalhin ngadto sa usa ka dapit nga mabugnaw",
+        "Ang mga lumulupyo sa Impyerno hingpit nga nalaglag pinaagi sa usa ka dalugdog"
+      ],
+      "answer": "Ang mga nagpuyo sa Impyerno gisultihan nga sila magpabilin hangtod sa hangtod"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

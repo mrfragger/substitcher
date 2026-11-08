@@ -1,0 +1,61 @@
+{
+  "title": "Ireo mpandeha eny an-tsaha maitso mavana",
+  "intro": "Fahiny, nisy olona roa nikarakara ny tany mifanila. Nifamatotra ny lalany, nefa nitarika azy ireo ho amin'ny toerana samy hafa tanteraka ny fony. Ny iray nandeha tamin'ny lalana mahitsy, raha ny iray kosa nivily lalana tao anatin'ny haizin'ny fandavana. Azonao ve ny mamaha ny misterin'ireto mpiambina ny vokatra roa ireto?",
+  "clues": [
+    "Nanana vokatra be dia be aho, vokatra be dia be izay nahavariana ny mason'ny mpijery.",
+    "Nanana harena betsaka kokoa noho izaho aza ny mpiara-monina tamiko, nefa naniry ny anjarany mihoatra noho ny ahy aho.",
+    "Nanolo-kevitra aho ny handringanana tanteraka ny voliny, mba hampiorenana ny zava-drehetra eo ambany fifehezako.",
+    "Izaho koa no nahatonga ny fijinjana ho simba, ka nandringana ny zava-drehetra tamin'ny teti-dratsiny adaladala.",
+    "Nijoro tsy nanan-kery aho raha nalazo ny voliko ary nivadika ho vovoka tao anatin'ny alina iray monja ny fananako.",
+    "Tsy nanana anjara tany amin'ny fiainana any ankoatra aho, ary ny toeram-ponenako farany dia lasa lavaka mirehitra afo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ilay lehilahy nandà ny fitsanganan-ko velona sy ny fitsarana",
+        "Ilay mpitondra izay nampahory ilay tantsaha marina",
+        "Ilay tompon-tany mpanankarena izay tsy nanana fankasitrahana",
+        "Ilay tantsaha izay naniry ny tanin'ny mpiara-monina aminy",
+        "Ilay mpiara-miasa mpamitaka izay nikasa handrava"
+      ],
+      "answer": "Ilay tantsaha izay naniry ny tanin'ny mpiara-monina aminy"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny fitsapana ny fahazoana fanambarana masina",
+        "Ny fanamby amin'ny harena sy ny faharetana",
+        "Ny fakam-panahy handrava ny fiveloman'ny olo-marina",
+        "Ny didy hizara lova ara-drariny",
+        "Ny tolona amin'ny fampahorian'ny mpitondra jadona"
+      ],
+      "answer": "Ny fakam-panahy handrava ny fiveloman'ny olo-marina"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ireo zaridaina maitso mavana any amin'ny paradisa",
+        "Saha roa mifanila amin'ny voly",
+        "Ireo tendrombohitra izay nahita ny faharavana",
+        "Ny toerana masina ao Makkah",
+        "Ny moron-dranon'ny tany voatahy"
+      ],
+      "answer": "Saha roa mifanila amin'ny voly"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Paradisa mandrakizay ho valisoan'ny fahamarinana",
+        "Fandringanana tanteraka ny vokatra roa tonta eto amin'ity fiainana ity",
+        "Sesitany sy nirenireny hatramin'ny fahafatesana",
+        "Fanambinana vetivety arahin'ny afo mandrakizay",
+        "Famerenana amin'ny laoniny mahagaga sy valisoa avo roa heny"
+      ],
+      "answer": "Fandringanana tanteraka ny vokatra roa tonta eto amin'ity fiainana ity"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Thronus Qui In Momento Peragravit",
+  "intro": "Vir ingenti auctoritate praeditus regno divitiis immensis ornato praeerat. Cum subito orta esset difficultas, hic princeps non gladiorum sed sapientiae et fidei probationem subiit. Quae evenerunt, ab summo potentiae mundanae culmine ad profundam cordis transformationem ducebant.",
+  "clues": [
+    "Regno regnavi divitiis et prosperitate supra imaginationem beato.",
+    "Monarcha potens eram qui litteras audaces accepi, submissionem postulantem.",
+    "Nobiles mei me consuluerunt utrum cum hoc rege longinquo pugnare an pacem facerem.",
+    "Magnificis donis cum ego ipse huic regi longinquo occurrere profectus sum",
+    "Solius meum regale ad terram longinquam momento oculi delatum est, antequam redire possem",
+    "Cum palatium pavimento vitreo levi ingressus essem, tandem submissionem meam Deo professus sum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Bilqis, Regina Sabae",
+        "Uxor Pharaonis",
+        "Uxor Al-Aziz",
+        "Maria, filia Imrani",
+        "Uxor Prophetae Lut"
+      ],
+      "answer": "Bilqis, Regina Sabae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Accipiendo litteras audaces submissionem postulantes",
+        "In ignem ardentem coniectus",
+        "Ab magno pisce deglutitus",
+        "Perdurantes annos morbi dolorosi",
+        "Diluvio populi destructionem spectans"
+      ],
+      "answer": "Accipiendo litteras audaces submissionem postulantes"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Solius regius magnificus auro et gemmis",
+        "Baculus qui mare divisit",
+        "Arca in monte quiescens",
+        "Domus sacra cultus Meccae",
+        "Vitulus aureus a populo adoratus"
+      ],
+      "answer": "Solius regius magnificus auro et gemmis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Submissio ad Allah una cum propheta",
+        "In mari submergitur dum hostem persequitur",
+        "Mirabiliter ab igne ardenti servatus",
+        "Exilium ex horto aeternae beatitudinis",
+        "Regnum immensae potentiae accipiens"
+      ],
+      "answer": "Submissio ad Allah una cum propheta"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

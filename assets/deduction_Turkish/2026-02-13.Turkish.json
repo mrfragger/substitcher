@@ -1,0 +1,61 @@
+{
+  "title": "Hükümdarın Büyük Teslimiyeti",
+  "intro": "Kendinizi kadim harikalar ve derin vahiylerle dolu bir diyarda buluyorsunuz. Güçlü bir hükümdar, beklenmedik bir davetle karşı karşıya kalmış ve kaderini ve halkının inancını değiştirecek bir yolculuğa çıkmıştır. Bu görkemli figürün kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Büyük zenginliklerle ve muhteşem bir tahtla süslenmiş, müreffeh bir krallığı yönettim.",
+    "Ben ve halkım, gök cismini efendimiz olduğuna inanarak ona taptık, ancak kalbimde şüpheler besliyordum.",
+    "Tuhaf bir haberci, bir kuş, bana bir mektup getirdi ve beni ve halkımı Tek Tanrı'ya teslim olmaya çağırdı.",
+    "Bu eşi benzeri görülmemiş mesaja nasıl yanıt vereceğim konusunda, güçleri çok büyük olan danışmanlarıma danıştım.",
+    "Mektubu gönderenin gücünü ve niyetini ölçmek umuduyla ona değerli bir hediye göndermeye karar verdim.",
+    "Vardığımda, zemini su havuzu gibi görünen camdan bir sarayla karşılaştım ve hayrete düştüm; işte o zaman tüm yaratılışın Rabbine teslimiyetimi ilan ettim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Firavun",
+        "Saba Kraliçesi",
+        "Zu el-Karneyn",
+        "Luqman",
+        "Peygamber Yusuf"
+      ],
+      "answer": "Saba Kraliçesi"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Denizin yarılması",
+        "büyük tufan",
+        "Peygamber Süleyman'la buluşma yolculuğu",
+        "Lut halkının yok edilmesi",
+        "Hz. İbrahim'in yakılması"
+      ],
+      "answer": "Peygamber Süleyman'la buluşma yolculuğu"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Taht",
+        "Dağ",
+        "Yangın"
+      ],
+      "answer": "Taht"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Peygamber oldu",
+        "Allah tarafından yok edildi.",
+        "İslam'ı benimsedi",
+        "Halkını savaşa sürükledi",
+        "Büyük bir tapınak inşa etti."
+      ],
+      "answer": "İslam'ı benimsedi"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

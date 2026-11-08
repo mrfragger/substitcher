@@ -1,0 +1,61 @@
+{
+  "title": "Utawala wa Upepo na Moto",
+  "intro": "Hebu wazia utawala ambapo upepo wenyewe ulijibu kwa mtawala mmoja, ambapo sauti za viumbe vidogo zaidi zilikuwa na uzito, na ambapo nguvu zisizoonekana kwa macho ya kawaida zilishikiliwa kwa uangalifu. Mtu huyu alirithi ufalme wa ajabu kutoka kwa mtangulizi wake mpendwa, akiwa na nguvu juu ya vitu vya asili na majini. Lakini mamlaka kubwa ilikuja na majaribio makubwa - na wakati wa mwisho ungefichua kitu cha kushangaza kuhusu asili ya uhai na kifo chenyewe.",
+  "clues": [
+    "Nilirithi ufalme mkubwa kutoka kwa mzazi mpendwa ambaye pia alikuwa nabii na mtumishi wa Mwenyezi Mungu.",
+    "Mwenyezi Mungu alinipa mamlaka juu ya upepo, akiutuma kwenye safari ya mwezi mmoja asubuhi moja.",
+    "Hata viumbe wadogo zaidi wangezungumzia mbinu yangu, nami ningesimama ili kushangazwa na ufahamu wao.",
+    "Niliamuru jeshi kubwa la majini, wanadamu, na ndege, wote wakiwa wamepangwa kwa safu mbele yangu.",
+    "Mtawala wa mbali alikuja kunijaribu kwa changamoto ngumu, na nikafanya kiti cha enzi cha mtawala huyo kiletwe kwenye ua wangu kabla mgeni hajaweza hata kuinuka kutoka kwenye kiti.",
+    "Nilibaki nimesimama, nikiegemea fimbo, hadi kiumbe mdogo wa dunia alipomtafuna — na hapo ndipo wale walionizunguka walipogundua kuwa nilikuwa nimepita."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Sulayman (Sulemani)",
+        "Nabii Dawud (Daudi)",
+        "Nabii Isa (Yesu)",
+        "Mtume Muhammad ﷺ",
+        "Nabii Musa (Musa)"
+      ],
+      "answer": "Nabii Sulayman (Sulemani)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuleta kiti cha enzi cha malkia wa mbali kwa njia zisizo za kawaida",
+        "Kushushwa kwenye kisima kirefu nikiwa mtoto",
+        "Kukabiliana na wachawi wa dhalimu kwa ishara za miujiza",
+        "Kuzungumza tangu utotoni kutetea heshima ya mama",
+        "Kupokea andiko la mwisho lililofunuliwa juu ya mlima mtakatifu"
+      ],
+      "answer": "Kuleta kiti cha enzi cha malkia wa mbali kwa njia zisizo za kawaida"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Fimbo ya mbao iliyotafunwa na mchwa",
+        "Safina kubwa iliyojengwa ili kustahimili mafuriko ya duniani kote",
+        "Fimbo iliyobadilika kuwa nyoka mbele ya mtawala wa kiimla",
+        "Kitambaa kilichotumika kuponya vipofu",
+        "Pango takatifu ambapo ufunuo ulipokelewa kwa mara ya kwanza"
+      ],
+      "answer": "Fimbo ya mbao iliyotafunwa na mchwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mtawala mtukufu aliyetembelea alikubali imani baada ya kushuhudia ishara",
+        "Gharika kubwa iliwaangamiza wote isipokuwa waaminifu ndani ya safina",
+        "Farao na jeshi lake waliangamia baharini",
+        "Rafiki mwadilifu aliinuliwa mbinguni",
+        "Mfalme mdhalimu na mji wake vilipinduliwa na kuharibiwa"
+      ],
+      "answer": "Mtawala mtukufu aliyetembelea alikubali imani baada ya kushuhudia ishara"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

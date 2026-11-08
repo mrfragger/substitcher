@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo o te Whakahē",
+  "intro": "I mua noa atu i te haerenga o te tangata tuatahi ki te whenua, i tū mai tētahi mea tino mana nui i roto i tētahi ao rangimārie, e karapotia ana e ngā wairua tino pono. I te tukunga o tētahi whakahau kotahi, ka piko katoa ngā reo ki te ngohengohe—engari kotahi te reo i ara ake hei whakahē, ā, ka rangona taua whakahē puta noa i ngā tau katoa tae noa ki te Rā Whakamutunga. Ko wai tēnei mea kua hinga?",
+  "clues": [
+    "I hangaia ahau i tētahi mea e kā ana, ā, ko ētahi atu i tōku taha i hangaia i tētahi mea i hikoi ai rātou.",
+    "I noho ahau i te wāhi tapu i waenganui i ngā tāngata tapu, ā, nō te whakahau kotahi i huripokitia ai ngā mea katoa.",
+    "I te taenga mai o te whakahau, ka piko katoa ngā wairua, engari ko ahau anake; i whānau mai taku whakakahore i te whakapehapeha.",
+    "I peia ahau i taua wāhi tapu, i tohua ki te kanga e mau tonu ana ake ake.",
+    "I inoi ahau kia wātea te wā tae noa ki te Rā o te Aranga, ā, i whakaaetia. I oati ahau ki te whakatata atu ki ngā wairua katoa, ki te ārahi i a rātou ki te hē.",
+    "A te tangi o te tetere, ko te hunga i aru i ahau ka rite ki ahau i roto i te ahi e mura ana, a kahore he kaiawhina hei whakaora i a ratou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Iblis",
+        "Parao (Fir'awn)",
+        "Namrud",
+        "Āpu Rāhapi",
+        "Azar (te matua o Ibrahim)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Te Wā Whakahirahira",
+      "options": [
+        "Te kore e piko ki mua i a Ātama",
+        "Te tango i te atuatanga ki runga i tētahi emepaea nui",
+        "Te whakatakoto mahere kia maka te tangata tika ki roto i te mura",
+        "Te ārahi i tētahi iwi ki te karakia ki tētahi whakapakoko koura",
+        "Te toremi i tētahi ope nui ki te moana"
+      ],
+      "answer": "Te kore e piko ki mua i a Ātama"
+    },
+    "location": {
+      "label": "Te Wāhi Tapu",
+      "options": [
+        "Jannah (Pararaiha)",
+        "He whare rangatira ataahua i te awa o te Naera",
+        "He pourewa pereki e toro atu ana ki te rangi",
+        "He kuao kau koura i hangaia mai i ngā whakapaipai",
+        "He oumu ahi e mura ana"
+      ],
+      "answer": "Jannah (Pararaiha)"
+    },
+    "outcome": {
+      "label": "Te Whakamutunga o te Ao",
+      "options": [
+        "Peia atu, me te okiokinga tae noa ki te Rā i whakaaria mai",
+        "I toremi ki ngā ope taua i raro i ngā ngaru",
+        "I pakaruhia e ngā kōhatu i whiua mai i te rangi",
+        "I haehaea e ngā kahui manu e rere ana",
+        "I pau i te pahūtanga kotahi"
+      ],
+      "answer": "Peia atu, me te okiokinga tae noa ki te Rā i whakaaria mai"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

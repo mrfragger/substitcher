@@ -1,0 +1,61 @@
+{
+  "title": "D'Schëld tëscht de Steng",
+  "intro": "An engem Land, wou Bierger zu Haiser gemeesselt waren, ass e Bot mat engem wonnerbare Zeechen vun Allah ukomm. D'Leit hunn e Beweis gefuerdert, an si hunn eng Kreatur aus engem feste Fiels kritt. Mä hir Arroganz huet si dozou bruecht, der Warnung ze widdersetzen an domat hiert Schicksal ze besiegelen.",
+  "clues": [
+    "Ech gouf bei e Vollek geschéckt, dat a Wunnengen gelieft huet, déi aus Bierger gemeisselt waren.",
+    "Si hunn mech erausgefuerdert, e Schëld ze bréngen, also hunn ech e Kamel aus engem Fiels erausgeholl.",
+    "Ech hunn hinnen den Uerder ginn, de Kamel fräi drénken ze loossen an him näischt unzedoen.",
+    "Si hunn net gefollegt an dem Kamel d'Schanken duerchgeschnidden, wouduerch si menger Warnung net gefollegt sinn.",
+    "Ech hunn ugekënnegt, datt d'Strofe no dräi Deeg géif kommen.",
+    "Moies huet e staarke Stuerm si zerstéiert, awer ech a meng Unhänger goufe gerett."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Salih",
+        "Prophet Hud",
+        "Prophet Lut",
+        "De Prophet Schou'ayb",
+        "Prophet Ibrahim"
+      ],
+      "answer": "Prophet Salih"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Demande fir e Kamel vun engem Fiels",
+        "D'Nofro fir e gëllene Kalb",
+        "D'Nofro fir en Dësch, deen aus dem Himmel erausgestraalt gouf",
+        "Demande fir eng Iwwerschwemmung",
+        "Fuerderung fir e Personal fir eng Schlaang ze ginn"
+      ],
+      "answer": "Demande fir e Kamel vun engem Fiels"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Kamel an hiert Kalb",
+        "D'Ark vum Noah",
+        "De Staff vum Moses",
+        "Dat gëllent Kalb",
+        "D'Feier vum Ibrahim"
+      ],
+      "answer": "D'Kamel an hiert Kalb"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Zerstéiert duerch e staarken Explosioun",
+        "An der Iwwerschwemmung erdronk",
+        "Vun der Äerd verschléckt",
+        "An Affen verwandelt",
+        "Vun engem staarke Wand zerstéiert"
+      ],
+      "answer": "Zerstéiert duerch e staarken Explosioun"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

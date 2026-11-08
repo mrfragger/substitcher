@@ -1,0 +1,61 @@
+{
+  "title": "Yr alwad a oroesodd oesoedd",
+  "intro": "Dychmygwch enaid a safodd ar ei ben ei hun yn erbyn gwareiddiad cyfan, yn benderfynol o'u tywys yn ôl o gamarweiniad gyda phenderfyniad diysgog. Am ganrifoedd, gwrthodwyd, gwatwarwyd a diystyrwyd y neges—ond ni pheidiodd yr ymdrech byth. Yn y pen draw, daeth cyfrif mawr, a dim ond ychydig a gyrhaeddodd iachawdwriaeth ochr yn ochr â'r enaid ddiysgog hwn. Allwch chi adnabod y ffigur hwn o'r Quran?",
+  "clues": [
+    "Cefais fy anfon fel rhybuddiwr at bobl ar goll yn eu ffyrdd eu hunain.",
+    "Gwahoddais nhw i geisio maddeuant a throi’n ôl oddi wrth eu camweddau, ond fe wnaethon nhw droi cefn.",
+    "O dan orchymyn dwyfol, adeiledais long enfawr tra roedd fy mhobl yn fy ngwylio ac yn fy ngwneud yn watwar.",
+    "Gelwais ar fy Arglwydd yn ddi-baid—yn y diwedd atebodd, a thywalltodd dŵr o'r nefoedd mewn ffrydiau.",
+    "Es i ar fwrdd y llong gyda'r rhai oedd yn credu pan gododd y dyfroedd llifogydd uwchben y tir.",
+    "Gwaeddais ar un oedd wedi aros ar ôl, gan ofyn iddynt gymryd lloches ar fynydd, ond roedd y gorchymyn eisoes wedi mynd heibio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Nuh",
+        "Proffwyd Ibrahim",
+        "Proffwyd Musa",
+        "Proffwyd Hud",
+        "Proffwyd Salih"
+      ],
+      "answer": "Proffwyd Nuh"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Adeiladu arch fawr a goroesi llifogydd byd-eang",
+        "Cael eich bwrw i dân llachar",
+        "Wynebu teyrn a'i ddewiniaid pwerus",
+        "Cael eich llyncu gan bysgodyn mawr",
+        "Yn dyst i ladd camel benywaidd sanctaidd"
+      ],
+      "answer": "Adeiladu arch fawr a goroesi llifogydd byd-eang"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Arch bren enfawr ar ddyfroedd llifogydd cynddeiriog",
+        "Dyffryn cysegredig gydag adfeilion cerrig hynafol",
+        "Ogof ddofn lle cysgodd cymdeithion am ganrifoedd",
+        "Bol morfil enfawr yn nyfnderoedd y cefnfor",
+        "Mynydd uchel o gerrig yn yr anialwch"
+      ],
+      "answer": "Arch bren enfawr ar ddyfroedd llifogydd cynddeiriog"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i achub gyda'r credinwyr ar fwrdd y llong",
+        "Achubwyd yn ddianaf o'r tân trwy orchymyn dwyfol",
+        "Arweiniodd allfudiad mawr allan o deyrnas bwerus",
+        "Wedi'i daflu allan o'r pysgod i lan ddiffrwyth",
+        "Arweiniodd bobl i ffwrdd o gamwedd trwy arwydd gwyrthiol"
+      ],
+      "answer": "Wedi'i achub gyda'r credinwyr ar fwrdd y llong"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

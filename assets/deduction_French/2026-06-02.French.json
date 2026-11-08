@@ -1,0 +1,61 @@
+{
+  "title": "Le Gardien de la Porte du Soleil Levant",
+  "intro": "Tout au long du Coran, certaines âmes parcourent la terre, semant la sagesse et l'émerveillement. L'une d'elles voyagea jusqu'aux confins de la création, là où le soleil se lève et se couche, là où une barrière retient le chaos lui-même. Ce serviteur d'Allah reçut un royaume que nul autre ne posséderait plus jamais. À travers trois voyages distincts, sa mission se révéla. Saurez-vous identifier ce voyageur légendaire parmi les fantômes de l'histoire ?",
+  "clues": [
+    "Le Très Miséricordieux m'a accordé l'autorité de régner sur la terre d'une manière qu'aucun autre n'a jamais accomplie.",
+    "J'ai voyagé vers l'ouest jusqu'à atteindre l'endroit où le soleil se couche, et je l'ai trouvé se couchant dans une source trouble, et j'y ai aperçu un peuple.",
+    "J’ai voyagé vers l’est jusqu’à atteindre le lieu où le soleil se lève, et je l’ai trouvé se levant sur un peuple pour lequel Nous n’avions prévu aucun abri.",
+    "J'ai voyagé entre ces deux points extrêmes jusqu'à arriver dans une vallée entre deux montagnes, où j'ai rencontré un peuple qui comprenait à peine le langage parlé.",
+    "J'ai trouvé sur la montagne deux barrières de fer rigides s'étendant de part et d'autre, et entre elles, un passage étroit. Ces gens m'ont demandé de franchir la barrière qui retenait le chaos.",
+    "J'ai pris mes provisions et j'ai dit : « Lorsque la barrière cédera, il y aura une séparation nette entre nous et ce peuple. » Et lorsque le moment venu, j'ai vu la barrière enfin franchie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Le prophète Sulayman",
+        "Le prophète Ibrahim",
+        "Le roi de Ghassaniyah",
+        "Dhul-Qarnain le Vagabond"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Briser la barrière de fer pour les peuples de Yajuj et Majuj",
+        "Construire le navire sous le commandement d'un prophète",
+        "La construction d'un temple à Jérusalem",
+        "Traversée de la mer Rouge avec les croyants",
+        "Construire un barrage pour protéger une nation juste"
+      ],
+      "answer": "Briser la barrière de fer pour les peuples de Yajuj et Majuj"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La barrière de fer entre deux montagnes",
+        "Le navire a jeté l'ancre sur une montagne",
+        "Le lieu de culte sacré de Jérusalem",
+        "Le fleuve au pays d'Égypte",
+        "Le puits des bénédictions à Madyan"
+      ],
+      "answer": "La barrière de fer entre deux montagnes"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "La barrière fut franchie à l'heure prévue, et le chaos se déchaîna.",
+        "Les incrédules furent noyés tandis que les croyants furent sauvés",
+        "Les justes furent conduits au paradis éternel",
+        "La ville fut détruite par un vent hurlant",
+        "Les idoles furent brisées et le peuple se repentit."
+      ],
+      "answer": "La barrière fut franchie à l'heure prévue, et le chaos se déchaîna."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

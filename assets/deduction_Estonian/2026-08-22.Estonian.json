@@ -1,0 +1,61 @@
+{
+  "title": "Linn, mis uskus aega",
+  "intro": "Jumaliku halastuse annaalides on kogukond, mille pöördepunktiks oli kollektiivse äratundmise hetk. Sa oled kohe avastamas nende lugu – hoiatuse, meeleparanduse ja hingetõmbeaja lugu, mis eristas neid teiste rahvaste saatusest.",
+  "clues": [
+    "Me olime rahvas, kellele saadeti sõnumitooja, ja me pöördusime alguses tema kutsest kõrvale.",
+    "Kui eelseisva karistuse märgid selgeks said, mõistsime tema hoiatuse tõesust.",
+    "Me pöördusime siira meeleparandusega oma Issanda poole ja meie usk võeti vastu.",
+    "Meile määratud karistus tühistati meie usu tõttu.",
+    "Meie lugu on mainitud erandina linnade seas, kes pärast karistuse nägemist uskuma hakkasid.",
+    "Me olime prohveti rahvas, kelle vaal alla neelas, kuid meid päästeti hävingust."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Yunuse rahvas",
+        "Nuhi rahvas",
+        "Hudi rahvas",
+        "Salihi rahvas",
+        "Luti rahvas"
+      ],
+      "answer": "Yunuse rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Laastav üleujutus",
+        "Tugev tuuletorm",
+        "Lähenevat häbiväärset karistust, mis ära hoiti",
+        "Maa neelab nad alla",
+        "Kivide vihm"
+      ],
+      "answer": "Lähenevat häbiväärset karistust, mis ära hoiti"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laev",
+        "Emane kaamel",
+        "Saja tuhande elanikuga linn",
+        "Musa personal",
+        "Qaruni aare"
+      ],
+      "answer": "Saja tuhande elanikuga linn"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Need hävitati täielikult",
+        "Neile anti mõnda aega naudingut",
+        "Nad muudeti ahvideks",
+        "Nad uppusid",
+        "Maa neelas nad alla"
+      ],
+      "answer": "Neile anti mõnda aega naudingut"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

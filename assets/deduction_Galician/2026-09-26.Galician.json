@@ -1,0 +1,61 @@
+{
+  "title": "A negación en medio da abundancia",
+  "intro": "Atópaste entre un pobo cuxos mercados ferven de comercio, pero as súas balanzas inclínanse deshonestamente. Un mensaxeiro chegou a eles con advertencias claras, pero eles rin e dan a volta, confiados na súa prosperidade. O ceo comeza a escurecer, pero eles o ven como unha bendición da choiva. Quen é esta xente?",
+  "clues": [
+    "Prosperamos en terras de comercio e abundancia, pero os nosos corazóns endurecéronse.",
+    "Un mensaxeiro veu a nós con sinais do noso Señor, pero burlámonos dos seus avisos.",
+    "Eramos coñecidos polo noso oficio, pero eramos curtos e enganabamos á xente.",
+    "Vivíamos entre árbores densas e vexetación exuberante, pero dabamos por sentadas as nosas bendicións.",
+    "Cando se achegaba unha nube escura, alegrámonos, pensando que traería choiva ás nosas terras resecas.",
+    "Pola contra, esa nube desencadeou un castigo abrasador, e fomos apoderados do tormento do día da sombra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Ashab al-Aykah (Os Compañeiros do Bosque)",
+        "Xente de Thamud",
+        "Xente de 'Ad",
+        "Xente de Lut",
+        "Xente de Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Os Compañeiros do Bosque)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Rexeitaron o seu mensaxeiro e defraudaron no comercio",
+        "Adoraron un becerro de ouro e foron enganados",
+        "Practicaban a sodomía e atacaban aos viaxeiros",
+        "Construíron torres altas e desafiaron a Deus",
+        "Negáronse a compartir auga e prexudicaron a unha cameloa"
+      ],
+      "answer": "Rexeitaron o seu mensaxeiro e defraudaron no comercio"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un bosque ou mato denso",
+        "Unha montaña esculpida en vivendas",
+        "Unha cidade á beira do mar",
+        "Un val desértico con pozos",
+        "Un xardín fértil con moitos froitos"
+      ],
+      "answer": "Un bosque ou mato denso"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruído por unha nube de lume e sombras",
+        "Afogado por unha gran inundación",
+        "Tragado por un terremoto",
+        "Golpeado por un vento violento",
+        "Convertido en pedra"
+      ],
+      "answer": "Destruído por unha nube de lume e sombras"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

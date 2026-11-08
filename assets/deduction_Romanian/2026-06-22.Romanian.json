@@ -1,0 +1,61 @@
+{
+  "title": "Credinciosul ascuns",
+  "intro": "În opulentele săli ale puterii, unde domneau neîncrederea și tirania, o voce solitară a adevărului a vorbit dintr-un loc neașteptat. Această figură a contestat autoritatea de a proteja un mesager, riscându-și propria securitate pentru a proclama adevărul.",
+  "clues": [
+    "Am trăit într-o țară cu o mare tiranie, slujind unui conducător care se pretindea divin.",
+    "Mi-am ținut ascunse adevăratele convingeri timp de mulți ani, temându-mă de consecințele dezvăluirii lor.",
+    "Când a venit un mesager cu semne clare, am crezut, dar poporul meu a conspirat împotriva lui.",
+    "Am stat în fața tiranului și a consiliului său, argumentând că nu ar trebui să ucidă un mesager nevinovat.",
+    "I-am avertizat despre pedepsirea națiunilor trecute care au respins adevărul, precum oamenii lui Noe și ai lui Ad.",
+    "Allah m-a salvat de comploturile lor malefice și am fost martor la distrugerea regimului opresiv."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Credinciosul familiei faraonului",
+        "Magicianul Faraonului",
+        "Vizirul faraonului",
+        "Soția faraonului",
+        "Trezorierul faraonului"
+      ],
+      "answer": "Credinciosul familiei faraonului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Apărarea unui profet împotriva execuției",
+        "Provocarea trucurilor unui magician",
+        "Construirea unui turn pentru a ajunge la cer",
+        "Despărțind marea pentru a scăpa",
+        "Interpretarea visului unui rege"
+      ],
+      "answer": "Apărarea unui profet împotriva execuției"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Curtea faraonului",
+        "Rugul aprins",
+        "Vițelul de aur",
+        "Fântâna lui Madyan",
+        "Arca profetului Nuh"
+      ],
+      "answer": "Curtea faraonului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Salvați de la rău în timp ce asupritorii erau distruși",
+        "A devenit un conducător puternic",
+        "A fost aruncat în foc și a ieșit nevătămat",
+        "A fost înghițit de pământ",
+        "A rătăcit prin pustie timp de patruzeci de ani"
+      ],
+      "answer": "Salvați de la rău în timp ce asupritorii erau distruși"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

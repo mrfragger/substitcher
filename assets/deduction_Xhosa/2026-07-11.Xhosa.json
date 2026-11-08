@@ -1,0 +1,61 @@
+{
+  "title": "Abahambi bentsimi eluhlaza",
+  "intro": "Kudala, abantu ababini babenyamekela amazwe angabamelwane. Iindlela zabo zazidibene, kodwa iintliziyo zabo zazibakhokelela kwiindawo ezahlukeneyo kakhulu. Omnye wayehamba ngendlela ethe tye, ngelixa omnye wayephambukela ebumnyameni bokungakholelwa. Ungasityhila imfihlakalo yaba bagcini babini besivuno?",
+  "clues": [
+    "Ndandinesivuno esikhulu, isivuno esihle esasimangalisa amehlo abantu ababebukele.",
+    "Ummelwane wam wayenezinwe ezininzi kunam, kodwa ndandinqwenela isabelo sabo ngaphezu kwesam.",
+    "Ndicebise ukuba sizitshabalalise ngokupheleleyo izityalo zabo, ukuze sihlanganise yonke into ephantsi kolawulo lwam.",
+    "Ndizitshabalalise nesivuno sam, nditshabalalisa yonke into ngecebo lam lobudenge.",
+    "Ndema ndingenakuzinceda njengoko izityalo zam zibuna kwaye ubutyebi bam buguquka baba luthuli ngobusuku obunye.",
+    "Andizange ndibe nasabelo kwiLizwe Elizayo, kwaye indawo yam yokugqibela yaba ngumngxuma womlilo ovuthayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Indoda eyakhanyela uvuko nomgwebo",
+        "Umlawuli owacinezela umlimi olilungisa",
+        "Umnini-mhlaba osisityebi owayengenambulelo",
+        "Umlimi owayenqwenela umhlaba wommelwane wakhe",
+        "Iqabane elinobuqhophololo elaceba intshabalalo"
+      ],
+      "answer": "Umlimi owayenqwenela umhlaba wommelwane wakhe"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Uvavanyo lokufumana isityhilelo sikaThixo",
+        "Umngeni wobutyebi nomonde",
+        "Isilingo sokutshabalalisa indlela yokuphila yomntu olungileyo",
+        "Umyalelo wokwahlula ilifa ngokufanelekileyo",
+        "Umzabalazo wokulwa nengcinezelo yomtyholi"
+      ],
+      "answer": "Isilingo sokutshabalalisa indlela yokuphila yomntu olungileyo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Iigadi eziluhlaza zeparadesi",
+        "Amasimi amabini akufutshane ezityalo",
+        "Iintaba ezazibona intshabalalo",
+        "Indawo engcwele yaseMakkah",
+        "Iindonga zomlambo zelizwe elisikelelekileyo"
+      ],
+      "answer": "Amasimi amabini akufutshane ezityalo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Iparadesi engunaphakade njengomvuzo wobulungisa",
+        "Ukutshatyalaliswa ngokupheleleyo kwezivuno zombini kweli bomi",
+        "Ukugxothwa nokuzulazula de kwasekufeni",
+        "Impumelelo yexeshana ilandelwa ngumlilo ongunaphakade",
+        "Ukubuyiselwa okungummangaliso kunye nentsikelelo ephindwe kabini"
+      ],
+      "answer": "Ukutshatyalaliswa ngokupheleleyo kwezivuno zombini kweli bomi"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

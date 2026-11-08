@@ -1,0 +1,61 @@
+{
+  "title": "Mana wañuchiy atina nina rawray waqaychaq",
+  "intro": "Huk siqi sayan mana rikusqapi aswan manchasqa cheqaspa umbralninpi, encargasqa huk deberta mana huk runaq munasqan. Ñak’ariq almakuna khuyapayakuyta mañakuqtinkuqa, sinchi kutichiymi nina cuartokunapi uyarikun. ¿Atiwaqchu kay wiñaypaq waqaychaqpa identidadninta sut’inchayta?",
+  "clues": [
+    "Mana rikusqapi manchakuypaq muchuchiy sitiopa punkunpim sayachkani.",
+    "Nina rawraq, mana wañuchiy atina ninaqa hatun ruwayniypa chawpinmi.",
+    "Ñak’ariq almakunan sutiyta waqyakunku, mana tukukuq ñak’ariyninkumanta allinyachikuyta mañakuspa.",
+    "Ruegakuptinkuqa, manam ripunqakuchu, haykapipas.",
+    "Manam runachu kani, nitaq jinn — ñuqaqa kani chuya kasukuq unanchasqa runam.",
+    "Ñoqan kani Infierno Nina wiñaypaq waqaychaq kanaypaq churasqa umalliq angel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Malik",
+        "Jibreel sutiyuq",
+        "Mikael sutiyuq runa",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Infiernopi runakunaqa valekunku ñak’ariyninku tukukunanpaq",
+        "Chay trompeta tocakun Juicio P’unchayta señalanankupaq",
+        "Quranqa Profetaq sunqunman riqsichisqa kachkan",
+        "Huk Profetatam llaqtanku hatun ninaman wischuykunku",
+        "Huk waqllisqa nacionta hap’inanpaqmi hatun perqata hatarichinku"
+      ],
+      "answer": "Infiernopi runakunaqa valekunku ñak’ariyninku tukukunanpaq"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Infierno nina (Jahannam) .",
+        "Paraisopa linderonpi kaq Lote Sacha",
+        "Huk t’oqyachiq trompeta",
+        "Mach’aqwayman tikrakuq k’aspi",
+        "Huk sumaq divina trono"
+      ],
+      "answer": "Infierno nina (Jahannam) ."
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Infiernopi tiyaqkunamanmi willanku wiñaypaq qhepakunankuta",
+        "Infiernopi tiyaqkuna pampachasqa, kacharisqa ima kanku",
+        "Infiernopi tiyaqkunamanmi iskay kaq oportunidadta qonku iñinankupaq",
+        "Infiernopi tiyaq runakunaqa q’oñi cheqasmanmi astakunku",
+        "Infiernopi tiyaqkunaqa rayowanmi llapanta chinkachisqa kanku"
+      ],
+      "answer": "Infiernopi tiyaqkunamanmi willanku wiñaypaq qhepakunankuta"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

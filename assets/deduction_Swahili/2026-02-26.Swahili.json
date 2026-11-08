@@ -1,0 +1,61 @@
+{
+  "title": "Jaribio la Kiu",
+  "intro": "Jumuiya, ikitamani uongozi wa kutetea hoja yao, iliomba kamanda ateuliwe juu yao. Ombi lao lilipojibiwa, mteule alikabiliwa na mashaka, kwani mtu huyu hakuwa na hadhi ya kidunia kama walivyotarajia. Kabla ya pambano la mwisho, kiongozi huyu mpya angejaribu nidhamu ya jeshi kwa jaribio rahisi, lakini la kina, la kujizuia.",
+  "clues": [
+    "Niliteuliwa kuwa kamanda baada ya watu wangu kudai kiongozi wa kupigana katika njia ya Mwenyezi Mungu.",
+    "Watu wangu wengi mwanzoni walitilia shaka uteuzi wangu, wakisema sina utajiri na ukoo mzuri.",
+    "Nilichaguliwa kwa sababu Mwenyezi Mungu alinipa maarifa mengi na kimo chenye nguvu cha kimwili.",
+    "Ishara dhahiri ya miadi yangu takatifu ilikuwa kurudi kwa Sanduku la Agano, lililobebwa na malaika, ambalo lilileta amani mioyoni mwa waumini.",
+    "Nilipoendelea na wanajeshi wangu, nilitangaza kwamba tungejaribiwa kando ya mto.",
+    "Niliamuru jeshi langu kwamba yeyote atakayekunywa maji mengi kutoka mtoni hatakuwa mmoja wangu, ilhali wale ambao watachukua kijiko kimoja tu mkononi mwao watabaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Jaluti (Goliathi)",
+        "Taluti (Sauli)",
+        "Nabii Daudi",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Taluti (Sauli)"
+    },
+    "trial": {
+      "label": "Jaribio Langu Kuu Lilikuwa Nini?",
+      "options": [
+        "Kujenga kizuizi dhidi ya Gogu na Magogu",
+        "Kukabiliana na jitu katika mapigano ya mtu mmoja",
+        "Kujaribu utii wa jeshi kwenye mto",
+        "Kuongoza jeshi la majini na ndege",
+        "Kunusurika kutupwa motoni"
+      ],
+      "answer": "Kujaribu utii wa jeshi kwenye mto"
+    },
+    "location": {
+      "label": "Ni Ishara Gani Muhimu ya Mamlaka Yangu?",
+      "options": [
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ngamia aliyetoka kwenye mwamba",
+        "Gamba la chuma lililotengenezwa kwa chuma laini",
+        "Sanduku la Agano (At-Tabut)",
+        "Meza ya chakula kutoka mbinguni"
+      ],
+      "answer": "Sanduku la Agano (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Matokeo ya Kampeni Yangu Yalikuwa Yapi?",
+      "options": [
+        "Kushinda jeshi la Jalut (Goliath)",
+        "Kugawanya Bahari Nyekundu ili kutoroka mtawala wa kiimla",
+        "Kuanzisha nasaba ya kudumu kwa jina langu",
+        "Kujenga Kaaba takatifu huko Makka",
+        "Kuinuliwa mbinguni bila kufa"
+      ],
+      "answer": "Kushinda jeshi la Jalut (Goliath)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

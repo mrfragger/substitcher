@@ -1,0 +1,61 @@
+{
+  "title": "Sudy sessiz eden hakykat",
+  "intro": "Inkäriň höküm sürýän we güýjüň mutlak bolan köşkünde, ussat tejribeli adamlaryň ýygnanyşygy garaşylmadyk kynçylygyň öňünde durdy. Ýalan bilen hakykatyň iki ýoly çaknyşmaga golaýlanda, howa garaşlylykdan ýaryldy. Ýygnananlar bu duşuşygyň olaryň durmuşyny ebedi özgertjekdigini we öz hekaýalaryny mukaddes tekste ýazjakdygyny bilmeýärdiler.",
+  "clues": [
+    "Biz illýuziýalardaky ussatlygymyz bilen meşhurdyk we güýçli hökümdar tarapyndan bäsdeş bilen ýüzbe-ýüz bolmak üçin ýygnandyk.",
+    "Wagt gelende, biz saz gurallarymyzy atyp, öz ussatlygymyza ynamly netijäni garaşdyk.",
+    "Ýöne şaýat bolan zatlarymyz öz enjamlarymyzy diňe oýunjak ýaly etdi we ýüregimiz inkär edip bolmajak hakykaty ykrar etdi.",
+    "Biz hökümdaryň gaharyna garamazdan, Musanyň we Harunyň Rebbine ynanýandygymyzy bildirip, ýere ysykdyk.",
+    "Ol hökümdar bizi iň rehimsiz jeza bilen haýbat atyp, bizi çarmha çüýläp, el-aýaklarymyzy ters taraplara kesjekdigine söz berdi.",
+    "Biz berk durup, Rebbimiziň hökümini dünýewi netijelerden has gowy görýändigimizi aýtdyk we imanymyz üçin şehit bolduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Fyrownyň jadygöýleri",
+        "Gowagyň adamlary",
+        "Tokaýyň ýoldaşlary",
+        "Isanyň şägirtleri",
+        "Pil halky"
+      ],
+      "answer": "Fyrownyň jadygöýleri"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Musa garşy jadygöýlik bäsleşigi",
+        "Olaryň üstüne ot atyldy",
+        "Olary suwa gark eden sil",
+        "Gurakçylyk we açlyk",
+        "Ýer titremesi"
+      ],
+      "answer": "Musa garşy jadygöýlik bäsleşigi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýylana öwrülen taýaklar we halatlar",
+        "Ýanýan gyrymsy agaç",
+        "Däne",
+        "Agaçdan ýasalan sandyk",
+        "Kit"
+      ],
+      "answer": "Ýylana öwrülen taýaklar we halatlar"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ynanç üçin jezalandyryldy, wada edilen Jennet",
+        "Deňizde gark boldy",
+        "Müsüriň hökümdary boldy",
+        "Fyrownyň yzyna düşenler galdy",
+        "Ýeri miras aldy"
+      ],
+      "answer": "Ynanç üçin jezalandyryldy, wada edilen Jennet"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

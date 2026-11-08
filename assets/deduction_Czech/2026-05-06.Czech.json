@@ -1,0 +1,61 @@
+{
+  "title": "Hlas z hořícího keře",
+  "intro": "Odhalte identitu významné postavy, jejíž cesta začala zázračným setkáním a jejíž osud byl propojen s osvobozením utlačovaného lidu. Tato osoba byla vybrána pro monumentální úkol, čelící obrovským výzvám s božskou podporou.",
+  "clues": [
+    "Narodil jsem se do doby velkého útlaku, kdy byly zabíjeny nemluvňata mého lidu.",
+    "V mládí mě rodiče hodili do řeky, přesto jsem byl nalezen a vychován v domácnosti utlačovatele mého lidu.",
+    "Jednou jsem uprchl z města poté, co jsem během sporu neúmyslně způsobil smrt člověka.",
+    "Na posvátném místě, kde mi bylo přikázáno postavit se mocnému vládci, jsem obdržel božské poselství a zázračnou hůl.",
+    "Můj bratr mi byl jmenován pomocníkem v mé misi, protože jsem vnímal mou řečnickou vadu.",
+    "Vedl jsem svůj lid přes rozdělené moře a unikl pronásledování tyranské armády."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Jusuf",
+        "Prorok Ísa",
+        "Prorok Músa",
+        "Prorok Nuh",
+        "Prorok Ibráhím"
+      ],
+      "answer": "Prorok Músa"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Trvalá léta sucha",
+        "Stavba archy",
+        "Konfrontace s faraonem a jeho čaroději",
+        "Být vhozen do ohnivé pece",
+        "Zničení lidu Thámudu"
+      ],
+      "answer": "Konfrontace s faraonem a jeho čaroději"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Kaaba",
+        "Železná zeď",
+        "Zaměstnanci",
+        "Noeova loď",
+        "Sulajmánův prsten"
+      ],
+      "answer": "Zaměstnanci"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Město Sodoma bylo zničeno",
+        "Lidé byli pohlceni zemí",
+        "Velká povodeň zachvátila zemi",
+        "Faraon a jeho armáda se utopili",
+        "Městské hradby se zhroutily od pláče"
+      ],
+      "answer": "Faraon a jeho armáda se utopili"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

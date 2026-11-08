@@ -1,0 +1,61 @@
+{
+  "title": "Varjatud usklik",
+  "intro": "Võimu uhketes saalides, kus valitsesid uskmatus ja türannia, kostis ootamatust kohast üksildane tõe hääl. See tegelane seadis võimule väljakutse kaitsta sõnumitoojat, riskides tõe kuulutamise nimel omaenda julgeolekuga.",
+  "clues": [
+    "Ma elasin suure türannia maal, teenides valitsejat, kes väitis end olevat jumalik.",
+    "Hoidsin oma tõelisi uskumusi aastaid varjatuna, kartes nende paljastamise tagajärgi.",
+    "Kui sõnumitooja tuli selgete märkidega, siis ma uskusin, aga mu rahvas sepitses tema vastu vandenõu.",
+    "Seisin türanni ja tema nõukogu ees ning väitsin, et nad ei tohiks süütut käskjalga tappa.",
+    "Ma hoiatasin neid karistuse eest, mida saavad varasemad rahvad, kes tõe hülgasid, nagu Noa ja Aadama rahvas.",
+    "Allah päästis mind nende kurjade vandenõude eest ja ma olin tunnistajaks rõhuva režiimi hävingule."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Vaarao perekonna usklik",
+        "Vaarao võlur",
+        "Vaarao visiir",
+        "Vaarao naine",
+        "Vaarao laekur"
+      ],
+      "answer": "Vaarao perekonna usklik"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Prohveti kaitsmine hukkamise eest",
+        "Mustkunstniku trikkide proovilepanek",
+        "Taeva poole ulatuva torni ehitamine",
+        "Mere lahutamine põgenemiseks",
+        "Kuninga unenäo tõlgendamine"
+      ],
+      "answer": "Prohveti kaitsmine hukkamise eest"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Vaarao õukond",
+        "Põlev põõsas",
+        "Kuldvasikas",
+        "Madjani kaev",
+        "Prohvet Noa laev"
+      ],
+      "answer": "Vaarao õukond"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Päästetud ohust, samal ajal kui rõhujad hävitati",
+        "Sai võimsaks valitsejaks",
+        "Visati tulle ja tuli vigastusteta välja",
+        "Maa neelas alla",
+        "Nelikümmend aastat kõrbes rändasid"
+      ],
+      "answer": "Päästetud ohust, samal ajal kui rõhujad hävitati"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

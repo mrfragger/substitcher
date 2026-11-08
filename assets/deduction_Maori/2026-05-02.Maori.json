@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaikawe i te Karere Urupā",
+  "intro": "I tonoa mai he wairua tika hei ārahi i tētahi iwi kua ngaro i roto i ngā hara o mua. I tū pakari tēnei karere, me te tuku i tētahi whakatūpato pakari mō te pirau e whakahē ana i te tikanga o te taiao. Ahakoa ngā tono nui, i ruku hohonu atu te hapori ki roto i te pōuri, me te whakatakoto i te tūāpapa mō tētahi whakatau a te Atua, he rerekē i tētahi atu. Ka taea e koe te tautuhi i tēnei pononga pono a Allah?",
+  "clues": [
+    "He whanaunga ahau nō tētahi atu poropiti nui, ā, i heke tahi māua, ka whakarērea tō mātou whenua tupu.",
+    "I tonoa ahau ki tētahi iwi he ahurei tō rātou kino, he hara kāore anō kia mahia e tētahi mea hanga i mua i a rātou.",
+    "I wehewehea tōku ake whare; i piri puku tetahi o ngā whanaunga tata ki te hunga whakateka.",
+    "I haere mai ngā anahera, i roto i te āhua o ngā taitama ātaahua, ki tōku kāinga hei manuhiri, ā, i tino mamae ahau mō tō rātou haumaru.",
+    "I tukua e ahau aku tamahine ki te wahine ma taku iwi, he mea kia tahuri ke ai ratou i a ratou mahi whakama.",
+    "I whakangaromia tōku iwi e te aue nui, me te ua o ngā kōhatu paru tunutunu, ko mātou ko tōku whānau ia, engari kotahi, i whakaorangia mā te wehenga atu i te pō."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Shu'ayb",
+        "Poropiti Salih",
+        "Poropiti Ruta",
+        "Poropiti a Hūta",
+        "Poropiti a Noa"
+      ],
+      "answer": "Poropiti Ruta"
+    },
+    "trial": {
+      "label": "He aha taku Whakamātautau Matua?",
+      "options": [
+        "Te whakatenatena i tētahi kīngi nanakia kia kaua ahau e tahuna ki te ahi.",
+        "Te whakatau i te hae o ōku tuakana, me te makanga ki roto i te puna.",
+        "Te tū atu ki tētahi iwi e mahi ana i ngā mahi moepuku kāore i kitea i mua.",
+        "Te ārahi i taku iwi i waho i te herekoretanga mai i te ringa o tētahi Parao mana nui.",
+        "Te hanga i tētahi kaipuke nui hei whakaora i te hunga whakapono i tētahi waipuke nui."
+      ],
+      "answer": "Te tū atu ki tētahi iwi e mahi ana i ngā mahi moepuku kāore i kitea i mua."
+    },
+    "location": {
+      "label": "I hea te wāhi i tū ai taku misioni?",
+      "options": [
+        "Te tāone o Madyan",
+        "Te tāone tawhito o Iram",
+        "Te whenua o Ihipa i raro i a Parao",
+        "Ngā tāone o Horoma rāua ko Komora",
+        "Te tāone o Ninewe"
+      ],
+      "answer": "Ngā tāone o Horoma rāua ko Komora"
+    },
+    "outcome": {
+      "label": "He aha te hua whakamutunga?",
+      "options": [
+        "I hurihia ngā tāone, ā, i ringihia ki ngā kōhatu paru i tunua.",
+        "I horomia taku iwi e te whenua me tō rātou rangatira whai rawa.",
+        "I whakangaromia tōku iwi e te hau nui mō ngā pō e whitu me ngā rā e waru.",
+        "I pāngia tōku iwi e ngā mate urutā pērā i te mawhitiwhiti, te kutu, me te poroka.",
+        "I horomia ahau e tētahi ika nui i muri i taku whakarēreatanga o taku misioni."
+      ],
+      "answer": "I hurihia ngā tāone, ā, i ringihia ki ngā kōhatu paru i tunua."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Batyp giden ajaýyplyk",
+  "intro": "Muny göz öňüne getiriň: ajaýyp eşikler geýen we göz öňüne getirmejek hazynalar bilen gurşalan bir jan. Bu adam baýlygynyň öz zehini bilen gazanylandygyna ynanýardy, hakyky rysgalyň çeşmesini hiç haçan ykrar etmeýärdi. Güýçli pygamberiň yzyndan ýören bu adam pespällige çagyryşlaryň hemmesini ret edýärdi. Şu gün biz ajaýyp baýlygy olaryň soňky dynç alyş ýerine öwrülen şahsyýetiň kimligini açýarys.",
+  "clues": [
+    "Men inadkär milleti hakykata çagyran pygamberiň döwründe ýaşadym.",
+    "Men saýlanan jemgyýetiň bir bölegidim, ýöne ýüregim habardan ýüz öwürdi.",
+    "Altyn we kümüş meni islendik ylahy buýrukdan has beter özüne çekdi.",
+    "Hazynalarym şeýle bir giňedi welin, güýçli adamlar topary açarlary zor bilen göterip bilýärdi.",
+    "Baýlygymyň maňa öz bilimim sebäpli berlendigini aýdyp öwündim.",
+    "Ahyrsoňy, meni we tutuş öýümi duýduryş hökmünde ýer ýuwutdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Karun",
+        "Haman",
+        "Samiri",
+        "Bilkis",
+        "Talut (Saul)"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Baýlyga bolan tekepbirlik we haýyr-sahawatdan ýüz öwürmek",
+        "Eriýän şaý-seplerden altyn but ýasamak",
+        "Güýçli patyşalygyň üstünde hudaýlygy yglan etmek",
+        "Mekkede ilkinji iman edenleri yzarlamak",
+        "Mukaddes Öýi ýok etmek üçin kampaniýa ýolbaşçylyk edýär"
+      ],
+      "answer": "Baýlyga bolan tekepbirlik we haýyr-sahawatdan ýüz öwürmek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Açarlary köp güýçli adamlara agyr ýük bolan hazynalar",
+        "Ses çykaran altyn göle",
+        "Uzak ýurtdan gelen şöhratly tagt",
+        "Ýanýan ot bilen doldurylan hendek",
+        "Güýçli uruş pilleriniň goşuny"
+      ],
+      "answer": "Açarlary köp güýçli adamlara agyr ýük bolan hazynalar"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ýer bilen birlikde ýaşaýyş jaýy tarapyndan ýuwudyldy",
+        "Goşun bilen deňizde gark boldy",
+        "Ot çukurynda diri ýandy",
+        "Uwuldaýan, güýçli ýel bilen weýran edildi",
+        "Ýekeje güýçli partlama bilen ýere uruldy"
+      ],
+      "answer": "Ýer bilen birlikde ýaşaýyş jaýy tarapyndan ýuwudyldy"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

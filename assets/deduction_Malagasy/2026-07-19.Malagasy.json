@@ -1,0 +1,61 @@
+{
+  "title": "Ny Feon'ny Taonjato Maro Tsy Nohenoina",
+  "intro": "Ela be talohan'ny nipoiran'ireo tanàn-dehibe, dia nisy fanahy manirery nipoitra teo anivon'ny vahoaka izay niala tamin'ny fahamarinana. Ny hamafin'izy ireo dia tsy nisy afa-tsy ny faharetan'ity mpiantso manirery ity, izay niangavy nandritra ny taranaka maro tsy very hevitra. Rehefa tsy nohenoina ny fampitandremana rehetra, dia nisy famaliana tsy mbola nisy toy izany nanova ny tany mihitsy. Amin'izao fotoana izao, mbola mikoriana amin'ny fanononana tsirairay ny akon'io tantara io. Azonao fantarina ve ity fanahy tapa-kevitra ity?",
+  "clues": [
+    "Nobeazina teo anivon'ny vahoaka izay nanompo sampy sandoka ary tsy niraharaha ireo famantarana nanodidina azy ireo aho, nefa nofidina mba hamoha azy ireo amin'ny tsy firaharahany.",
+    "Niantso ny oloko imbetsaka aho, nefa niampanga ahy ho olona tahaka azy ireo fotsiny izy ireo, naneso ny hafatro sady nanarona ny sofiny.",
+    "Na andro na alina, niangavy azy ireo tamim-pahendrena sy fampahatsiahivana malefaka aho, nefa toa nanjavona teny amin'ny rivotra ny teniko, tsy re ary tsy nisy niraharaha.",
+    "Araka ny toromarik'Andriamanitra, dia nanamboatra sambo lehibe vita amin'ny hazo fisaka sy hazo fisaka aho teo amin'ny tany maina, ary nihomehy ahy toy ny olona very saina ny oloko.",
+    "Rehefa tonga araka ny nampanantenaina ny safodrano lehibe, dia tsy nety niara-niondrana tamiko tao anaty sambo ny zanako lahy, satria nino fa hisy tendrombohitra hiaro azy amin'ny fiakaran'ny rano.",
+    "Tonga patriarika ho amin'ny fiandohana vaovao eto an-tany aho, ary voatahiry ao amin'ny toko iray ao amin'ny CORAN izay mitondra ny anarako mihitsy ny tantarako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Noa",
+        "Mpaminany Ibrahim",
+        "Mpaminany Musa",
+        "Mpaminany Lota",
+        "Mpaminany Hoda"
+      ],
+      "answer": "Mpaminany Noa"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny Safodrano Lehibe izay nanova ny endriky ny tany",
+        "Atsipy ao anaty afo mirehitra ataon'ny mpanompo sampy",
+        "Fifanandrinana tamin'ireo ombiasin'i Farao tao an-dapa",
+        "Ny faharavan'ny tafio-drivotra avy any an-danitra tamin'ireo zaridaina nahafinaritra",
+        "Ny fandrodanana ireo mponina ao amin'ny hady"
+      ],
+      "answer": "Ny Safodrano Lehibe izay nanova ny endriky ny tany"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny sambofiara vita tamin'ny hazo fisaka sy hazo fisaka",
+        "Ny trano masina naorina teo ambonin'ny fototra tranainy",
+        "Ny tehina niova ho menarana",
+        "Ny lava-bato misy ireo tanora matory",
+        "Ny seza fiandrianana nentin'ny zavaboary mahery iray"
+      ],
+      "answer": "Ny sambofiara vita tamin'ny hazo fisaka sy hazo fisaka"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Maty an-drano ireo tsy mpino raha voavonjy tao anaty sambo kosa ireo mpino",
+        "Nangatsiaka sy azo antoka ny afo, ary nivoaka tsy naninona ilay niantso.",
+        "Niankohoka ireo mpanao majika ary nanaiky ny finoana",
+        "Nomena ny mpiara-monina marina ho solon'izany ny zaridaina",
+        "Nifoha ireo natory rehefa afaka taonjato maro, niova"
+      ],
+      "answer": "Maty an-drano ireo tsy mpino raha voavonjy tao anaty sambo kosa ireo mpino"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

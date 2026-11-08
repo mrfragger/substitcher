@@ -1,0 +1,61 @@
+{
+  "title": "Die schlafenden Wahrheitssucher",
+  "intro": "Stellt euch eine Zeit vor, in der der Glaube auf die Probe gestellt wurde und eine Gruppe von Menschen sich für unerschütterliche Überzeugung statt weltlichen Komforts entschied. Angesichts dieser schwierigen Wahl suchten sie Zuflucht und begaben sich auf eine Reise, die sie in einen außergewöhnlichen Schlaf führte. Ihre Geschichte ist ein Zeugnis göttlichen Schutzes und der Kraft des Glaubens gegen Unterdrückung. Könnt ihr die Identität dieser bemerkenswerten Menschen erkennen?",
+  "clues": [
+    "Wir waren eine kleine Versammlung, vereint durch den tiefen Glauben an den einen Schöpfer.",
+    "Wir lebten in einer Zeit, in der ein mächtiger Herrscher die Anbetung anderer Götter als Allahs forderte.",
+    "Um unseren Glauben zu bewahren, beschlossen wir, unsere Heimat zu verlassen und vor der Unterdrückung zu fliehen.",
+    "Ein treuer Begleiter, ein Geschöpf der Erde, hat uns auf unserer Reise begleitet.",
+    "Wir fanden Zuflucht an einem abgelegenen Ort, wo Allah uns in einen tiefen, langen Schlaf versetzte.",
+    "Als wir erwachten, glaubten wir, nur ein Tag oder ein Teil eines Tages sei vergangen, doch in Wirklichkeit waren Jahrhunderte vergangen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Leute des Grabens",
+        "Das Volk von Thamud",
+        "Die Menschen von Saba",
+        "Die Menschen der Höhle",
+        "Das Volk von Madyan"
+      ],
+      "answer": "Die Menschen der Höhle"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Auf die Probe gestellt mit einem kargen Land",
+        "Angesichts einer großen Flut",
+        "Auf der Suche nach Zuflucht vor einem tyrannischen Herrscher",
+        "In ein brennendes Feuer geworfen werden",
+        "Die Magie eines Zauberers herausfordern"
+      ],
+      "answer": "Auf der Suche nach Zuflucht vor einem tyrannischen Herrscher"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein prächtiger Palast",
+        "Ein Schiff/eine Arche",
+        "Ein tiefer Brunnen",
+        "Eine Höhle",
+        "Ein hoch aufragender Berg"
+      ],
+      "answer": "Eine Höhle"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ein Königreich gewährt bekommen",
+        "Ein wundersamer Schlaf über Jahrhunderte",
+        "Von der Erde verschluckt werden",
+        "Vor einem zerstörerischen Sturm gerettet worden",
+        "Mit einem himmlischen Tisch versorgt zu werden"
+      ],
+      "answer": "Ein wundersamer Schlaf über Jahrhunderte"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

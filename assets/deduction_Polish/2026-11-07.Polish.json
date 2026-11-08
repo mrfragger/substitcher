@@ -1,0 +1,61 @@
+{
+  "title": "poszukiwanie pewności w blasku gwiazd",
+  "intro": "Wyobraź sobie, że stoisz pod rozległym nocnym niebem, obserwując, jak jasne światła wschodzą i gasną, szukając tego, co naprawdę zasługuje na cześć. Wokół ciebie ciche, rzeźbione wizerunki otrzymują pochwały i ofiary, ale jasny rozum kwestionuje ich moc. Nieustraszony głos zaraz zakwestionuje odziedziczoną tradycję i wskaże na Stwórcę nieba i ziemi.",
+  "clues": [
+    "Spojrzałem na gwiazdy, księżyc i słońce i doszedłem do wniosku, że nie mogą być moim Panem, ponieważ zachodzą i znikają.",
+    "Otwarcie odrzuciłem to, co mój lud czcił poza Allahem i wezwałem go do oddawania czci wyłącznie Stwórcy.",
+    "Rozważałem chełpliwy władcę, który twierdził, że daje życie i śmierć, i odpowiedziałem mu, wspominając o Allahu, który sprowadził słońce ze wschodu.",
+    "Uderzyłem w bożki i roztrzaskałem je, pozostawiając tylko największe, aby ludzie mogli do nich powrócić.",
+    "Zostałem schwytany i potępiony przez mój lud, który kazał mi zbudować budowlę i wrzucił mnie w płonący ogień.",
+    "Zostałem uratowany, gdy Allah nakazał, aby ogień był dla mnie chłodem i bezpieczeństwem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ibrahim (Abraham)",
+        "Prorok Jahja (Jan)",
+        "Prorok Al-Yasa (Elizeusz)",
+        "Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Prorok Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Zmierzył się z kultem bożków i dyskutował nad znaczeniem ciał niebieskich",
+        "Został połknięty przez wielką rybę po odejściu w gniewie",
+        "Poprowadziłem zwolenników przez morze rozdzielone przez Allaha",
+        "Został wskrzeszony żywy do nieba, nie zaznawszy śmierci",
+        "Przez wiele lat spałem w jaskini z towarzyszami"
+      ],
+      "answer": "Zmierzył się z kultem bożków i dyskutował nad znaczeniem ciał niebieskich"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Płonący ogień, który Allah uczynił chłodnym i bezpiecznym",
+        "Arka, która przeprowadziła wierzących przez potop",
+        "Laska, która stała się wężem",
+        "Stół zastawiony z nieba",
+        "Wielbłądzica wysłana jako znak"
+      ],
+      "answer": "Płonący ogień, który Allah uczynił chłodnym i bezpiecznym"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Chroniony przed ogniem i obdarzony sprawiedliwymi potomkami",
+        "Utonął wraz z zaprzeczającymi w wielkiej powodzi",
+        "Przemieniony za naruszenie szabatu",
+        "Zniszczone przez ptaki niosące kamienie z gliny",
+        "Pochłonięty przez ziemię wraz ze skarbami"
+      ],
+      "answer": "Chroniony przed ogniem i obdarzony sprawiedliwymi potomkami"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

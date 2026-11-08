@@ -1,0 +1,61 @@
+{
+  "title": "Ilohiy belgining saqlovchisi",
+  "intro": "Muqaddas maskanning tubida muborak ruh ilohiy g'amxo'rlik ostida tarbiyalangan. Bu shaxs mo''jizaviy hodisada muhim rol o'ynashga, Allohning cheksiz qudrati va donoligiga guvoh bo'lishga taqdirlangan edi. Ularning sayohati chuqur haqiqatni ochib berdi, idroklarni shubha ostiga qo'ydi va butun insoniyat uchun noyob belgi yaratdi.",
+  "clues": [
+    "Men Alloh tomonidan o'z davrimdagi barcha ayollardan tanlangan va poklanganman.",
+    "Men solih payg'ambarning qaramog'iga topshirildim, u esa mening ibodatxonamda mo''jizaviy ravishda rizq topdi.",
+    "Men o'zimni oilamdan ajratib, Allohga ibodat qilish uchun alohida joyga bordim.",
+    "Menga mukammal inson qiyofasida bir farishta zohir bo'ldi va pokiza o'g'il haqida xushxabar keltirdi, garchi men hech bir erkakni ko'rmagan bo'lsam ham.",
+    "Tug'ruq azoblaridan keyin menga yangi ozuqa topish uchun palma daraxtining tanasini silkitish buyurildi.",
+    "Yangi tug'ilgan chaqalog'imni ko'tarib qavmlarim oldiga qaytib kelganimda, ular mendan so'roq qilishdi, lekin go'dak o'g'lim meni himoya qilish uchun mo''jizaviy ravishda beshikda turib gapirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Sora (Ibrohim payg'ambarning xotini)",
+        "Hojar (Ismoil payg'ambarning onasi)",
+        "Bilqis (Shaba malikasi)",
+        "Osiyo (Fir'avnning xotini)",
+        "Maryam (Maryam)"
+      ],
+      "answer": "Maryam (Maryam)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Kofir qavmni vayron qilgan buyuk to'fon",
+        "Butlarni inkor etgani uchun alangali olovga tashlanmoqda",
+        "Otasiz bolaning mo''jizaviy tarzda tug'ilishi",
+        "Missiyani tark etgani uchun kit tomonidan yutib yuborilish",
+        "Axloqsiz odatlar uchun shaharning vayron bo'lishi"
+      ],
+      "answer": "Otasiz bolaning mo''jizaviy tarzda tug'ilishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Ahd sandig'i",
+        "Muqaddas ibodat xonasi (Mihrab)",
+        "Gapiruvchi qush (Hudhud)",
+        "Ilonga aylangan tayoq"
+      ],
+      "answer": "Muqaddas ibodat xonasi (Mihrab)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ajoyib ma'badning qurilishi",
+        "Dengizning bir xalqning o'tishi uchun ikkiga bo'linishi",
+        "Beshikdan ota-onasini himoya qilib gapirgan bola",
+        "Insoniyatga yo'l ko'rsatuvchi ilohiy kitobning nozil bo'lishi",
+        "Shamol va jinlar bilan baraka topgan shohlik"
+      ],
+      "answer": "Beshikdan ota-onasini himoya qilib gapirgan bola"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

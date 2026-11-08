@@ -1,0 +1,61 @@
+{
+  "title": "Mai Haƙuri",
+  "intro": "Tun da daɗewa, a farkon zamanin tarihin ɗan adam, rayuka biyu sun tsaya a gaban Mahaliccinsu da hadayu. An karɓi ɗaya, ɗaya kuma ba a karɓa ba. Abin da ya biyo baya zai zama babban bala'i na farko tsakanin 'yan'uwa - ɗaya na kamewa da haƙuri da kuma ɗayan na ɗaukar fansa mai zafi. Za ku iya gano ko ni wanene?",
+  "clues": [
+    "An haife ni a farkon kwanakin rayuwar ɗan adam a duniya",
+    "Ni ɗa ne ga mutane na farko da suka taɓa rayuwa a duniya",
+    "Na taɓa miƙa hadaya daga mafi kyawun garkena don faranta wa Mahaliccina rai",
+    "An karɓi tayina daga sama, yayin da aka ƙi tayin ɗan'uwana",
+    "Lokacin da aka yi mini barazanar kisa, na zaɓi kada in ɗaga hannuna kan ɗan'uwana",
+    "Na zama mutum na farko a tarihin ɗan adam da wani ya kashe shi ba bisa ƙa'ida ba"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Habila (Habila), ɗan Adamu",
+        "Kabil (Ka'ab), ɗan Adam",
+        "Adamu, ɗan adam na farko",
+        "Nuhu (Nuhu)",
+        "Ibrahim (Ibrahim)"
+      ],
+      "answer": "Habila (Habila), ɗan Adamu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kisa ta farko a tarihin ɗan adam",
+        "Babban ambaliyar ruwa ta Nuhu",
+        "Rushewar rundunar Fir'auna",
+        "Hadayar Isma'ila ta Ibrahim",
+        "Yaƙin Jalut (Goliath)"
+      ],
+      "answer": "Kisa ta farko a tarihin ɗan adam"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Tumaki da aka miƙa a matsayin hadaya mai daɗi",
+        "Babban akwatin katako",
+        "Sanda da ta rikide ta zama maciji",
+        "Tsuntsun dawaki yana ɗauke da saƙon sarauta",
+        "Wata rami mai kama da wuta mai ci"
+      ],
+      "answer": "Tumaki da aka miƙa a matsayin hadaya mai daɗi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama wanda aka fara kashewa a tarihin ɗan adam",
+        "Na tsira daga ambaliyar ruwa mai yawa a cikin jirgin ruwa na katako",
+        "Ya rayu a cikin cikin babban kifi",
+        "Ya yi mulki a kan aljanu, mutane, da iska",
+        "Yawo tsawon shekaru arba'in a cikin babban daji"
+      ],
+      "answer": "Ya zama wanda aka fara kashewa a tarihin ɗan adam"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

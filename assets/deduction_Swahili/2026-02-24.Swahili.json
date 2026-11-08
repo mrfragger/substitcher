@@ -1,0 +1,61 @@
+{
+  "title": "Mwangwi wa Udanganyifu",
+  "intro": "Uhusiano wa kindugu ulijaribiwa na wimbi la wivu. Mpango wa siri ulianzishwa, ukianzisha mlolongo wa matukio ambayo yangechukua miaka mingi na kuvuka umbali mrefu. Matendo ya kundi hili yalisababisha kutengana na huzuni kubwa, lakini hadithi hiyo haikuishia hapo. Ni hadithi ya udanganyifu, majuto, na ufunuo wa mwisho wa mpango wa kimungu. Je, unaweza kufichua utambulisho wa watu hawa ambao chaguo zao zilirudiwa vizazi vingi?",
+  "clues": [
+    "Tulizidiwa na wivu kwa sababu ya upendo ulioonyeshwa kwa mmoja wetu.",
+    "Katika wivu wetu, tulipanga njama pamoja na kumtupa ndugu yetu gizani mwa kisima.",
+    "Ili kuficha tendo letu, tulimpa baba yetu vazi lililotiwa rangi ya damu bandia.",
+    "Miaka kadhaa baadaye, njaa kali ilitulazimisha kusafiri hadi Misri kutafuta mahitaji.",
+    "Hapo, tulifika mbele ya gavana mwenye nguvu ambaye, bila kujua kwetu, ndiye ndugu yetu yule tuliyemkosea.",
+    "Mtihani wetu wa mwisho ulikuwa ni kumleta kaka yetu mdogo, Binyamin, jambo lililosababisha kufichuliwa kwa historia yetu na baba yetu akiwa Nabii Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi ni akina nani?",
+      "options": [
+        "Wana wa Adamu (Qabil na Habil)",
+        "Wanafunzi wa Nabii Isa",
+        "Ndugu wa Nabii Yusufu",
+        "Watu wa Madyan",
+        "Wachawi wa Firauni"
+      ],
+      "answer": "Ndugu wa Nabii Yusufu"
+    },
+    "trial": {
+      "label": "Kosa letu kuu lilikuwa lipi?",
+      "options": [
+        "Kujenga ndama wa dhahabu kwa ajili ya ibada",
+        "Kudai kumuona Mwenyezi Mungu moja kwa moja",
+        "Kumdhihaki nabii kwa kujenga safina",
+        "Kumdanganya baba yetu na kumwacha kaka yetu",
+        "Kuvunja Sabato kwa kuvua samaki"
+      ],
+      "answer": "Kumdanganya baba yetu na kumwacha kaka yetu"
+    },
+    "location": {
+      "label": "Ni kitu gani kilikuwa kiini cha udanganyifu wetu?",
+      "options": [
+        "Seti ya vidonge vilivyoandikwa",
+        "Shati iliyotiwa damu bandia",
+        "Ndama wa dhahabu",
+        "Ndege mzuri (Hudihudi)",
+        "Fimbo iliyogeuka kuwa nyoka"
+      ],
+      "answer": "Shati iliyotiwa damu bandia"
+    },
+    "outcome": {
+      "label": "Matokeo ya mwisho ya hadithi yetu yalikuwa nini?",
+      "options": [
+        "Tuliangamizwa na mafuriko makubwa",
+        "Tuligeuzwa kuwa nyani",
+        "Tulimezwa na ardhi",
+        "Tulisamehewa na kuungana tena na familia yetu",
+        "Tulizama baharini"
+      ],
+      "answer": "Tulisamehewa na kuungana tena na familia yetu"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

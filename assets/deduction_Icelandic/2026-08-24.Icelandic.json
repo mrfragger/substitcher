@@ -1,0 +1,61 @@
+{
+  "title": "Faldu hlustendurnir sem trúðu",
+  "intro": "Í kyrrð helgrar samkomu kom merkilegur hópur frá ósýnilegu ríki. Þeir hlustuðu á upplestur sem myndi innsigla örlög þeirra að eilífu, eftir að hafa verið haldinn kyrrð helgum samkomum. Vitnisburður þeirra er enn einn sá einstakasti í guðdómlegri ritningunni.",
+  "clues": [
+    "Við erum verur frá heimi sem flestir sjá og við komum sem hópur.",
+    "Við gengum á leið í átt að samkomu til að heyra eitthvað merkilegt.",
+    "Þegar við komum hlustuðum við á upplestur sem kom okkur á óvart.",
+    "Við viðurkenndum opinskátt að sumir okkar eru réttlátir og aðrir ekki.",
+    "Við vissum að við gætum ekki flúið guðlega tilskipun á jörðu, né með því að fljúga til himins.",
+    "Þegar við heyrðum leiðsögnina, trúðum við henni; hver sem trúir á Drottin sinn mun ekki óttast tap eða byrði."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Hópur af djinnum",
+        "Fólkið í Íram",
+        "Fólkið í Tubba'",
+        "Rómaveldi",
+        "Ættbálkurinn Quraysh"
+      ],
+      "answer": "Hópur af djinnum"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að hlusta á helga upplestur",
+        "Að byggja háleitar súlur í borginni okkar",
+        "Að veiða stórkostlega úlfalda",
+        "Að vera tortímdur fyrir að drepa spámenn okkar",
+        "Að margfalda auð sinn ómælanlega"
+      ],
+      "answer": "Að hlusta á helga upplestur"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Samkoma helgrar upplesturs",
+        "Borg með háum súlum (Iram)",
+        "Brunnur í eyðimörkinni",
+        "Stórkostlegt höll úr gulli",
+        "Helgur hellir í fjöllunum"
+      ],
+      "answer": "Samkoma helgrar upplesturs"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Við trúðum og vöruðum fólk okkar við",
+        "Eyðilagður af öflugum vindi af himni",
+        "Refsað af brennandi, eyðileggjandi vindi",
+        "Veitt gríðarlegan auð og völd",
+        "Staðfestist í vantrú"
+      ],
+      "answer": "Við trúðum og vöruðum fólk okkar við"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

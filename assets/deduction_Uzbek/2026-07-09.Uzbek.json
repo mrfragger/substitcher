@@ -1,0 +1,61 @@
+{
+  "title": "Muqaddas olovning taslim bo'lgan ruhi",
+  "intro": "Sizning oldingizda butun bir tsivilizatsiyaning eng mustahkam e'tiqodlariga qarshi chiqishga jur'at etgan favqulodda jasorat hikoyasi turibdi. O'tmishdagi ushbu shivir-shivirlarga ergashing, shunda siz qat'iy imon, mo''jizaviy omon qolish va milliardlab odamlarning ma'naviy sayohatini shakllantiradigan poydevor qo'yish bilan ajralib turadigan hayotni kashf etasiz. Har bir ipni diqqat bilan kuzatib boring - muqaddas olov hali ham eslaydi.",
+  "clues": [
+    "Men samoviy jismlarga sig'inadigan va butlarni o'yib o'yadigan oilada tug'ilganman, ammo ichimdagi bir narsa ular sig'inadigan narsani rad etardi.",
+    "Men yurtimning eng qudratli hukmdoriga qarshi chiqdim, xalqim sig'ingan butlarni parchalab tashladim va faqat osmonlarning Yaratuvchisi sadoqatga loyiq ekanligini e'lon qildim.",
+    "Mening nomimdan alangali olov yoqishga buyruq berildi, lekin men yolg'iz o'zim xizmat qilgan Zot meni qutqarishini e'lon qildim — va olovga salqin va xavfsiz bo'lish buyurildi.",
+    "Ilohiy amr bilan tanish bo'lgan hamma narsani tashlab, oilam bilan qurg'oqchil vodiylarda kezib yurdim, hali ko'ra olmaydigan rizq-ro'zga tayanib.",
+    "To'ng'ich o'g'limning yonida, bepoyon vodiyda turib, biz muqaddas uyning, itoatkorlarning barchasi uchun mo'ljallangan muqaddas joyning poydevorini birga qurdik.",
+    "Men Xalilulloh — Rahmonning yaqin do'sti — sifatida tanilganman va mening ismim abadiy taslim bo'lish va bo'ysunish iymoni bilan bog'liq bo'lib qoldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ibrohim (Ibrohim)",
+        "Muso payg'ambar (Muso)",
+        "Nuh payg'ambar (Nuh)",
+        "Payg'ambar Iso (Iso)",
+        "Payg'ambar Muhammad ﷺ"
+      ],
+      "answer": "Payg'ambar Ibrohim (Ibrohim)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Zolim tomonidan alangali olovga tashlanmoqda",
+        "Dengizda ulkan baliq ichida yutib yuborilmoqda",
+        "Rashkchi aka-ukalar tomonidan chuqurga tushirilmoqda",
+        "Qanotli jonzot ustida ko'tarilmoqda",
+        "Yog'och idish ichida katta suv toshqiniga chidash"
+      ],
+      "answer": "Zolim tomonidan alangali olovga tashlanmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Muqaddas Uy (Ka'ba)",
+        "Tog' ustiga qurilgan katta yog'och idish",
+        "Dengizni yorib yuboradigan tayoq",
+        "Sodiq it bilan uzoq uyqu g'ori",
+        "Tog'ga berilgan vahiy qilingan qonun kitobi"
+      ],
+      "answer": "Muqaddas Uy (Ka'ba)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Allohning yaqin do'sti Xalilulloh nomi bilan tanildi",
+        "Ikkiga bo'lingan dengiz orqali bir xalqni xavfsiz joyga olib bordi",
+        "Shamollar va ko'rinmas kuchlar ustidan hukmronlik qilish huquqiga ega bo'ldi",
+        "Mo''jizaviy shifolar bilan baraka topgan tabibga aylandi",
+        "O'n ikki tarqoq qabilani bitta ahd ostida birlashtirdi"
+      ],
+      "answer": "Allohning yaqin do'sti Xalilulloh nomi bilan tanildi"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

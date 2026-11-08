@@ -1,0 +1,61 @@
+{
+  "title": "Errebelazioaren Espiritu Fidagarria",
+  "intro": "Ikusezin diren erreinuetan, argi hutsezko izaki bat zehaztasunez mugitzen da, agindu guztiak zalantzarik gabe betez. Figura honek hautatutako zerbitzariei hitz egin die, gidaritza-hitzak ekarri dizkie eta jainkozko dekretuen garapenaren lekuko izan da aroetan zehar. Nor da arima ohoratu hau?",
+  "clues": [
+    "Argi hutsezko izaki bat naiz, argitik sortua, eta ez dut inoiz nire Jaunaren agindu bakar bat ere desobeditu.",
+    "Zeruaren eta lurraren artean mugitzen naiz, Errukitsuenaren dekretuekin jaisten.",
+    "Santutegiko birjina noble batengana bidali ninduten, seme garbi bat iragarriz.",
+    "Santutasunaren espiritua naiz, eta seinale argiak eta Ebanjelioa eman zitzaizkion profeta bat babestu nuen.",
+    "Mendi bateko kobazulo batera iritsi nintzen betiko gordeko zen errezitazio baten lehen hitzak emateko.",
+    "Ni naiz espiritu fidagarria, eta ni izan nintzen Korana azken mezulariaren bihotzera ekarri zuena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Mikel)",
+        "Heriotzaren Aingerua",
+        "Malik (Infernuko Zaindaria)",
+        "Harut (Babiloniako bi aingeruetako bat)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Misio/rol nagusia",
+      "options": [
+        "Profetei errebelazioa ematea",
+        "Tronpeta jotzea Judizio Egunean",
+        "Infernuko ateak zaintzen",
+        "Gizakien ekintzak erregistratzea",
+        "Euria eragitea."
+      ],
+      "answer": "Profetei errebelazioa ematea"
+    },
+    "location": {
+      "label": "Gako-atributua edo titulua",
+      "options": [
+        "Espiritu Santua (Ruh al-Qudus)",
+        "Boterearen Espiritua",
+        "Errukiaren Espiritua",
+        "Gidaritzaren Espiritua",
+        "Egiaren Espiritua"
+      ],
+      "answer": "Espiritu Santua (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Misioaren emaitza",
+      "options": [
+        "Korana Mahoma profetari errebelatu zitzaion",
+        "Tronpeta jo zuten Judizioaren Egunean",
+        "Infernua zainduta zegoen eta bere ateak itxita zeuden",
+        "Eskrituren Liburua Ala-ri aurkeztu zitzaion",
+        "Euria lurrera bidali zen"
+      ],
+      "answer": "Korana Mahoma profetari errebelatu zitzaion"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

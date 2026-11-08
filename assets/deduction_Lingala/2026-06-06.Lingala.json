@@ -1,0 +1,61 @@
+{
+  "title": "Mosali ya likolo ya Allah",
+  "intro": "Oyokaka mongongo ya nse ya elilingi moko ya ntango ya kala, mosali ya Allah oyo atombolamaki na station moko likolo ya oyo ya bato mpamba. Moto oyo ayebanaki mpo na motema molai oyo etɛngamá te mpe bosolo ya mobimba, mpe atindamaki epai ya bato oyo baboyaki nsango. Molimo oyo etombwami ezali nani?",
+  "clues": [
+    "Naponama na Allah lokola profeta mpe balobeli ngai na Coran Mosantu.",
+    "Nayebanaki mpo na motema molai mpe bosolo na ngai, bizaleli oyo Allah akumisaka.",
+    "Nabengaki bato na ngai mpo na kosambela Nzambe Moko, kasi mingi baboyaki ngai.",
+    "Gare na ngai etombolamaki na Allah, mpe bapesaki ngai grade ya likolo.",
+    "Mbala mingi balobelaka ngai pembeni ya basakoli mosusu lokola Ismail mpe Dhul-Kifl.",
+    "Allah alobi na ntina na ngai: ‘Mpe Totombolaki ye na esika ya likolo.’ (19:57) Ezali bongo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Idris",
+        "Mosakoli Elias",
+        "Mosakoli Dhu al-Kifl",
+        "Mosakoli Al-Yasa",
+        "Mosakoli Hud"
+      ],
+      "answer": "Mosakoli Idris"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Abengi bato mpo na kosambela Allah",
+        "Atongaki masuwa",
+        "Abundisaki Farao",
+        "Bamekaki ye na maladi makasi",
+        "Babwakaki ye na mɔtɔ"
+      ],
+      "answer": "Abengi bato mpo na kosambela Allah"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Rang ya likolo/Gare ya likolo",
+        "Sanduku yango",
+        "Bato oyo basalaka na yango",
+        "Mɔtɔ yango",
+        "Libulu ya mai"
+      ],
+      "answer": "Rang ya likolo/Gare ya likolo"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Etombolami na statut ya likolo",
+        "Azindaki na mpela",
+        "Baleine moko emeli yango",
+        "Abikisami na mɔ́tɔ",
+        "Akómaki mokonzi"
+      ],
+      "answer": "Etombolami na statut ya likolo"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A autoridade inflexible",
+  "intro": "En terras antigas, unha poderosa autoridade exercía o seu dominio, controlando inmensos recursos e as vidas de innumerables individuos. Malia os claros sinais e advertencias, este gobernante escolleu un camiño de desafío, o que levou a un profundo enfrontamento que resoaría no tempo.",
+  "clues": [
+    "Reclamei o poder e a autoridade definitivos sobre un vasto dominio.",
+    "Desafiei a un humilde mensaxeiro enviado polo Señor de todos os reinos.",
+    "O meu pobo era coñecido polo seu dominio das grandes estruturas e do río que sustentaba a nosa civilización.",
+    "Fun testemuña de moitos sinais milagrosos, incluíndo un bastón que se convertía nunha serpe e unha man que brillaba intensamente.",
+    "Negueime a deixar que un grupo de escravos abandonase a miña terra, a pesar das ordes divinas.",
+    "A miña persecución do pobo que marchaba levoume a min e aos meus exércitos ao corazón dun mar dividido."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Yusuf",
+        "Rei Talut",
+        "Fir'awn (Faraón)",
+        "Profeta Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraón)"
+    },
+    "trial": {
+      "label": "Enfrontamento clave",
+      "options": [
+        "A inundación que asolagou a terra",
+        "A división do mar",
+        "A sarza ardente",
+        "A construción da Kaaba",
+        "A destrución por un vento poderoso"
+      ],
+      "answer": "A división do mar"
+    },
+    "location": {
+      "label": "Aspecto definitorio",
+      "options": [
+        "Un animal que fala",
+        "Un bastón e unha man brillante",
+        "Un nacemento milagroso",
+        "Unha alfombra voadora",
+        "Un trono maxestoso sobre a auga"
+      ],
+      "answer": "Un bastón e unha man brillante"
+    },
+    "outcome": {
+      "label": "Destino definitivo",
+      "options": [
+        "Ascendeu aos ceos",
+        "Tragado pola terra",
+        "Afogado no mar",
+        "Transformado nun simio",
+        "Dada a inmensa riqueza e poder"
+      ],
+      "answer": "Afogado no mar"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Das Dorf am Ufer des Prozesses",
+  "intro": "Du befindest dich in einem Küstendorf, wo sich das Rauschen der Wellen mit dem Flüstern eines vergessenen Volkes vermischt. Ihnen wurde Ruhe geboten, doch ihre Gier führte zu einer Strafe, von der noch immer nur geflüstert wird. Kannst du herausfinden, wer sie waren?",
+  "clues": [
+    "Wir wohnten am Ufer und erhielten den Befehl, einen Ruhetag einzuhalten.",
+    "An diesem Tag würden uns Fische in Hülle und Fülle begegnen, aber es wäre uns verboten, sie zu nehmen.",
+    "Einige von uns warnten vor Übertretungen, andere aber verschworen sich, trotzdem zu fischen.",
+    "Wir haben das heilige Gebot verletzt und uns damit eine schwere Strafe zugezogen.",
+    "Unsere Strafe war eine Verwandlung, die uns entstellt und entehrt zurückließ.",
+    "Wir wurden in Affen verwandelt, ein Zeichen für alle, die nach uns kommen würden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Menschen des Sabbats",
+        "Volk der Thamud",
+        "Leute von 'Ad",
+        "Höhlenmenschen",
+        "Menschen des Elefanten"
+      ],
+      "answer": "Menschen des Sabbats"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Angeln am Sabbat",
+        "Anbetung eines goldenen Kalbs",
+        "Die Botschaft von Hud leugnen",
+        "Tötung der Kamelstute",
+        "Einen Turm zum Himmel bauen"
+      ],
+      "answer": "Angeln am Sabbat"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Fisch",
+        "Eine Kamelstute",
+        "Ein Mitarbeiter",
+        "Ein Boot",
+        "Ein Garten"
+      ],
+      "answer": "Der Fisch"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "In Affen verwandelt",
+        "Durch eine Flut zerstört",
+        "Durch ein verheerendes Feuer zerstört",
+        "Von der Erde verschluckt",
+        "vom Wind verstreut"
+      ],
+      "answer": "In Affen verwandelt"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

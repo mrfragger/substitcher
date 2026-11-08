@@ -1,0 +1,61 @@
+{
+  "title": "alianse, kas uzaicināja uz sabrukumu",
+  "intro": "Iedomājieties, ka atrodaties zem viena jumta ar atklāsmi, tomēr izvēloties citu lojalitāti. Šī persona dzīvoja cieši tuvu patiesībai un pravietībai, bet pievērsās tiem, kas to noraidīja. Viņu stāsts ir kā svinīgs brīdinājums, ka tuvums tikai taisnībai nevar glābt dvēseli, kas nodod uzticību.",
+  "clues": [
+    "Es dzīvoju Allāha izraudzīta pravieša mājsaimniecībā.",
+    "Es zināju patiesību, ko sludināja mans vīrs, tomēr es tai īsti neticēju.",
+    "Es nodevu viņa uzticību, nostājoties viņa noraidošo cilvēku pusē un palīdzot viņiem pret viņu.",
+    "Mani piemin līdzās cita pravieša dzīvesbiedrei, kura arī nodeva, kā piemēru neticīgajiem.",
+    "Mans stāsts ir aprakstīts Sūrā At-Tahrim kā brīdinājums, ka radniecība ar praviešiem nesniedz nekādu aizsardzību.",
+    "Es gāju bojā kopā ar ļaundariem, kad Allāhs iznīcināja Lutas ļaudis, atstājot mani kopā ar tiem, kas bija palikuši."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravieša Luta sieva",
+        "Asija, faraona sieva",
+        "Imrana sieva",
+        "Sāra, pravieša Ibrahima sieva",
+        "Al-Aziza sieva"
+      ],
+      "answer": "Pravieša Luta sieva"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Nodeva pravieti, palīdzot neticīgajiem pret viņu",
+        "Iemet zīdaini grozā upē, lai viņu glābtu",
+        "Pieprasīja, lai pravieša prombūtnes laikā tiktu uzcelts zelta teļš",
+        "Apsūdzēja taisnīgu kalpotāju pārkāpumos un ieslodzīja viņu",
+        "Vadīja ziloņu armiju, lai iznīcinātu Kaabu"
+      ],
+      "answer": "Nodeva pravieti, palīdzot neticīgajiem pret viņu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Luta tautas apgāztās pilsētas",
+        "Arka, kas celta pēc dievišķas pavēles",
+        "Uguns atvēsināja Ibrahimu",
+        "Patvēruma ala guļošiem jauniešiem",
+        "Upe, kur tika atrasts zīdaiņa grozs"
+      ],
+      "answer": "Luta tautas apgāztās pilsētas"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Gāja bojā kopā ar neticīgajiem, neskatoties uz laulībām ar pravieti",
+        "Tika izglābts kopā ar ticīgajiem un mierā iegāja Paradīzē",
+        "Tika pārvērsts par stabu kā zīmi nākamajām paaudzēm",
+        "Tika aprīta zeme ar milzīgiem dārgumiem",
+        "Vecumdienās tika dāvināts brīnumainais bērns"
+      ],
+      "answer": "Gāja bojā kopā ar neticīgajiem, neskatoties uz laulībām ar pravieti"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

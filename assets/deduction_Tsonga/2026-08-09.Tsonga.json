@@ -1,0 +1,61 @@
+{
+  "title": "Rito Ra Ntiyiso Ra Minkarhi Ya Khale",
+  "intro": "Ku ni moya-xiviri eka Quran lowu xitori xa wona xi hlamuseriwaka hi tindzimana ti nga ri tingani ntsena, hambiswiritano timfanelo ta wona leti tlakukeke ti voninga hi ku twisiseka loku vangamaka. Hi ku dzunisiwa hi Lowa Matimba Hinkwawo hikwalaho ka vunene byo hlawuleka, nandza loyi wa khale wa Mutswari-nkulu u khome ndhawu eka matluka ya nhlavutelo. Ntirho wa wena i ku kuma xifaniso lexi xo hlamarisa. Xana u nga swi kota ku ringanyeta leswaku i vamani?",
+  "clues": [
+    "Ndzi muprofeta wa Allah loyi a hanyeke exikarhi ka tinxaka to sungula ta vanhu.",
+    "Allah u ndzi boxe ebukwini ya Yena ni vaprofeta van’wana, hinkwavo va dzunisiwa hikwalaho ka vunene lebyi fanaka lebyi tlakukeke.",
+    "Ndzi hlamuseriwa tanihi munhu wa ntiyiso eka Quran.",
+    "Allah u ndzi tlakusile eka xitichi lexi tlakukeke lexi van’wana va nga ri vangani va xi fikeleleke.",
+    "Vito ra mina ri boxiwile eka Surah Al-Anbiya, ri hlengeletiwile ni vaprofeta van’wana vambirhi lava dzunisiwaka hikwalaho ka ku lehisa mbilu ka vona.",
+    "Hi mina Idris, muprofeta wa ntiyiso ni la tlakukeke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Idris",
+        "Muprofeta Nuh",
+        "Muprofeta Ibrahim",
+        "Muprofeta Musa",
+        "Muprofeta Ismail"
+      ],
+      "answer": "Muprofeta Idris"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku hlayisa ku lehisa mbilu na ntiyiso, kutani ku tlakusiwa ku ya eka xitichi xa le henhla",
+        "Ku aka ngalava leyikulu ku ponisa vapfumeri eka ndhambi leyi onhaka",
+        "Ku hoxiwa endzilweni lowu pfurhaka ni ku huma a nga vavisekanga nikatsongo",
+        "Ku langutana ni hosi ya matimba ni ku hlula vuthu ra yona ra masalamusi",
+        "Ku pona endzeni ka khwiri ra nhlampfi leyikulu evuentweni bya lwandle"
+      ],
+      "answer": "Ku hlayisa ku lehisa mbilu na ntiyiso, kutani ku tlakusiwa ku ya eka xitichi xa le henhla"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xitichi xa le henhla ni lexi tlakukeke hi Allah",
+        "Xikepe lexikulu lexi akiweke hi mapulanga naswona xi hoxiwe hi xikontiri",
+        "Ndzilo lowu pfurhaka lowu pfurhaka hi vagandzeri va swifaniso va hosi yo homboloka",
+        "Lwandle lerikulu leri avaneke ri va tindlela leti omeke",
+        "Xitombo xa ntima xa whale leyikulu leyi nga ehansi ka lwandle"
+      ],
+      "answer": "Xitichi xa le henhla ni lexi tlakukeke hi Allah"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U amukeriwile eka tintswalo ta Allah tanihi un’wana wa lava lulameke",
+        "U ponisiwile swin’we ni vapfumeri hinkwavo eka ndhambi ya misava hinkwayo",
+        "U fambe a huma emalangavini a nga khumbiwanga hi ndzilo",
+        "U rhangele Vana va Israele va hlayisekile eka ntshunxeko ku tsemakanya lwandle",
+        "Va tlhele va hlangana ni ndyangu wa vona lowu rhandzekaka endzhaku ka malembe yo leha ya ku nonon’hweriwa"
+      ],
+      "answer": "U amukeriwile eka tintswalo ta Allah tanihi un’wana wa lava lulameke"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

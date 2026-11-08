@@ -1,0 +1,61 @@
+{
+  "title": "Tsakanin Duniya da Sama",
+  "intro": "Wata rai mai ban mamaki tana jiranka a cikin shafukan tarihi masu tsarki, tana ɗauke da alamu da abubuwan al'ajabi waɗanda har yanzu suna maimaitawa tsawon shekaru. Yayin da kake bin hanyar alamu, za ka yi tafiya ta cikin labarin da aka yi wa mu'ujizai alama - daga farkon mu'ujiza zuwa hawan sama. Za ka iya gano wannan bawan mai albarka kafin alamar ƙarshe?",
+  "clues": [
+    "An aiko ni a matsayin manzo zuwa ga Bani Isra'ila da bisharar rahama da haske.",
+    "Haihuwata alama ce ta mu'ujiza — na shigo wannan duniyar ba tare da uba ba, bisa ga umarnin Mai Iko Dukka.",
+    "Na yi magana tun ina jaririya, ina kare mutuncin mahaifiyata daga zargin mutanenta.",
+    "Da izinin Allah, na siffanta tsuntsaye daga yumbu kuma na hura musu rai - sun tashi a gaban idanun waɗanda ke kallo.",
+    "Na warkar da waɗanda aka haifa makafi, na warkar da kuturu, har ma na ta da matattu — duk da haka kowace mu'ujiza ta kasance da izinin Allah, ba tawa ba.",
+    "Lokacin da maƙiyana suka yi niyyar halaka ni, Allah ya ɗaga ni sama ya yi alƙawarin dawowata kafin ranar sakamako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Isa (Jesus)",
+        "Annabi Musa (Annabi Musa)",
+        "Annabi Ibrahim (Annabi Ibrahim)",
+        "Annabi Muhammadu",
+        "Annabi Yusuf (Annabi Yusuf)"
+      ],
+      "answer": "Annabi Isa (Jesus)"
+    },
+    "trial": {
+      "label": "Lokacin da Yake Bayyana",
+      "options": [
+        "An ɗaga ni zuwa sama",
+        "An jefa ni cikin wuta mai zafi",
+        "Na fuskanci rundunar Fir'auna mai ƙarfi",
+        "Wani babban kifi mai kifin teku ya haɗiye ni",
+        "Na gina jirgi a kan dutse"
+      ],
+      "answer": "An ɗaga ni zuwa sama"
+    },
+    "location": {
+      "label": "An Yi Alamar Tsarki",
+      "options": [
+        "Na siffanta tsuntsaye daga yumbu",
+        "Na mayar da sandar ta zama maciji",
+        "Na raba wata gida biyu",
+        "Na umurci iska da aljani",
+        "Na fito da raƙumi daga dutse"
+      ],
+      "answer": "Na siffanta tsuntsaye daga yumbu"
+    },
+    "outcome": {
+      "label": "Abin da ya faru da ni",
+      "options": [
+        "An ɗaga shi zuwa sama; an yi alƙawarin dawowa",
+        "Ya zama babban mai mulki a wata daula",
+        "Ya fitar da mutanena daga bauta",
+        "An ba shi dukiya mai ban mamaki ta duniya",
+        "Na sake haɗuwa da iyalina bayan dogon rabuwa"
+      ],
+      "answer": "An ɗaga shi zuwa sama; an yi alƙawarin dawowa"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

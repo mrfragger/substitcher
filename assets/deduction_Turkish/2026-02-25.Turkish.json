@@ -1,0 +1,61 @@
+{
+  "title": "Çorak Kayanın Sınavı",
+  "intro": "Yetenekli ve gururlu bir topluluk, miraslarını dağlara kazıdı. Ancak onlara açık bir işaret, inanç ve sabır sınavı gönderildiğinde, kibirleri onları geri dönüşü olmayan bir yola sürükledi. Bu grubu ve meydan okumalarının sonuçlarını belirleyebilir misiniz?",
+  "clues": [
+    "Bizler taş işçiliğinde ustaydık, muhteşem konutları doğrudan dağ yamaçlarına oyuyorduk.",
+    "Kendi halkımızdan bir elçi bize gelerek, tek gerçek Tanrı'ya ibadet etmeye çağırdı.",
+    "Sözlerinin doğruluğunu kanıtlayacak bir işaret istedik ve bize sınama amacıyla eşsiz bir yaratık getirildi.",
+    "Bize basit bir emir verildi: Su kaynağımızı bu canlıyla paylaşmak ve belirlenen günde su içmesine izin vermek.",
+    "Kibirimiz yüzünden, aramızdan birkaç kişi komplo kurdu ve uyarıyı hiçe sayarak, bize işaret olması gereken yaratığı öldürdük.",
+    "Bize ölümden önce üç gün süre verildi ve ardından evlerimizde müthiş bir patlama oldu, bizi cansız ve enkaz halinde bıraktı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "'Ad' halkı",
+        "Madyan halkı",
+        "Thamud Halkı",
+        "Saba halkı",
+        "Lut halkı"
+      ],
+      "answer": "Thamud Halkı"
+    },
+    "trial": {
+      "label": "Birincil Testimiz Neydi?",
+      "options": [
+        "Tufandan kurtulmak için bir gemi inşa etmek",
+        "Şabat günü balık tutma isteğine karşı koymak",
+        "Sahtekâr iş uygulamalarından vazgeçmek",
+        "Mucizevi bir dişi deveyi korumak",
+        "Yedi yıllık bir kıtlığa katlanmak"
+      ],
+      "answer": "Mucizevi bir dişi deveyi korumak"
+    },
+    "location": {
+      "label": "Hikayemizin temel unsuru neydi?",
+      "options": [
+        "Altın Buzağı",
+        "Dişi Deve",
+        "Hz. Musa'nın Asası",
+        "Ma'rib'in Büyük Barajı",
+        "Cennetten Gelen Sofra"
+      ],
+      "answer": "Dişi Deve"
+    },
+    "outcome": {
+      "label": "Nihai Kaderimiz Neydi?",
+      "options": [
+        "Büyük bir tufanda boğuldu",
+        "Maymunlara ve domuzlara dönüştürüldüler",
+        "Şiddetli bir rüzgarın etkisi altında",
+        "Barajın yıkılmasıyla etrafa saçıldılar",
+        "Şiddetli bir patlama/deprem sonucu yıkıldı."
+      ],
+      "answer": "Şiddetli bir patlama/deprem sonucu yıkıldı."
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

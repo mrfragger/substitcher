@@ -1,0 +1,61 @@
+{
+  "title": "Tógálaithe na dTúr",
+  "intro": "I bhfad ó shin, d’éirigh sibhialtacht chumhachtach, a raibh cáil uirthi as a cuid gaiscí tógála iontacha agus a neart uafásach. Bronnadh acmhainní flúirseacha agus cumas fisiciúil ar an eintiteas comhchoiteann seo, ach roghnaigh siad cosán dúshlánach in aghaidh an teachtaireachta diaga a seoladh chun iad a threorú. Is ceacht domhain in annála na staire é a scéal, fianaise ar iarmhairtí diúltú na fírinne.",
+  "clues": [
+    "Bronnadh neart agus stádas fisiciúil ollmhór orainn, murab ionann agus aon phobal eile dár linne.",
+    "Bhí cáil orainn as struchtúir mhóra agus piléir arda a thógáil i ngach áit ard, ag ceapadh go mairfimis go deo.",
+    "Cuireadh teachtaire uainn chun rabhadh a thabhairt dúinn, ag glaoch orainn adhradh a thabhairt d’Allah ina aonar agus ár n-íodail a thréigean.",
+    "Chuireamar ceist ar ár dteachtaire go sotalach, ag fiafraí an raibh siad tagtha chugainn ach le go ndéanfaimis adhradh d’Allah agus tréigean a dhéanamh ar a ndearna ár sinsir adhradh.",
+    "Bhí ár dtír beannaithe le gairdíní, tobair, agus páirceanna torthúla, ach chuireamar ár rathúnas i leith ár gcumas féin, ní i leith ár gCruthaitheora.",
+    "As ár n-easpa creidimh agus ár magadh leanúnach, scriosadh sinn sa deireadh le gaoth scanrúil, fíochmhar a mhair ar feadh go leor laethanta agus oícheanta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir Thamud",
+        "Muintir Fir'aun",
+        "Muintir Nuh",
+        "Muintir Madyan",
+        "Muintir 'Ad"
+      ],
+      "answer": "Muintir 'Ad"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "A iarraidh ort camall ar leith a íobairt",
+        "Dúshlán á thabhairt dóibh deich surah cosúil leis an Qurán a tháirgeadh",
+        "A thaispeáint scoilteadh na farraige",
+        "Rabhadh á fháil ag fáidh faoin tuile atá ar tí tarlú",
+        "Ag diúltú fáidh a thug rabhadh i gcoinne ró-thógáil agus adhradh íol"
+      ],
+      "answer": "Ag diúltú fáidh a thug rabhadh i gcoinne ró-thógáil agus adhradh íol"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "An Tine",
+        "Cathair Shodom",
+        "Piléir arda agus áitribh láidre"
+      ],
+      "answer": "Piléir arda agus áitribh láidre"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Báite i dtuilte móra",
+        "Slogtha ag an talamh",
+        "Claochlaithe ina n-apaí agus ina muca",
+        "Scriosta ag pléascadh toirneach",
+        "Scriosta ag gaoth fíochmhar, millteach"
+      ],
+      "answer": "Scriosta ag gaoth fíochmhar, millteach"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Komunidad ng Unang Paglabag",
+  "intro": "Sa lupain ng mga sinaunang lungsod, isang bayan ang dating umunlad. Sila ay dinalaw ng isang mensahero na may malinaw na panawagan, ngunit sila ay tumalikod at tinahak ang landas na hindi pa natatahak ninuman. Ang kanilang kwento ay tungkol sa pagsuway, kasamaan, at isang parusa na umalis sa kanilang tinubuang-bayan bilang isang tanda para sa lahat ng nagninilay-nilay. Sino ang mga kaluluwang ito?",
+  "clues": [
+    "Nanirahan kami sa mga lungsod ng kapatagan, kung saan tinawag kami ng aming propeta sa kabutihan.",
+    "Kami ang unang nakagawa ng isang kahalayan na hindi pa nagagawa ng sinuman sa lahat ng mundo noon.",
+    "Hinarang namin ang mga manlalakbay at hayagang gumawa ng kasamaan sa aming mga pagtitipon.",
+    "Tinanggihan namin ang sugong ipinadala sa amin at pinagbantaan na palalayasin siya sa aming lupain.",
+    "Nagmadali kaming pumunta sa bahay niya at hiniling na isuko niya sa amin ang mga bisita niya.",
+    "Ang aming parusa ay parang ulan ng mga bato, at ang aming lungsod ay binaligtad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Tayo?",
+      "options": [
+        "Ang mga tao ni Lut",
+        "Ang mga tao ni Nuh",
+        "Mga Tao ng 'Ad",
+        "Ang mga tao ng Thamud",
+        "Mga Tao ng Madyan"
+      ],
+      "answer": "Ang mga tao ni Lut"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ginawa ang unang akto ng sodomiya",
+        "Mga sinasambang idolo",
+        "Dinaya sa kalakalan",
+        "Pinatay ang kanilang propeta",
+        "Sumuway sa kanilang mga magulang"
+      ],
+      "answer": "Ginawa ang unang akto ng sodomiya"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang lungsod ng kapatagan",
+        "Ang lungsod ng balon",
+        "Ang lungsod ng kanal",
+        "Ang lungsod ng elepante",
+        "Ang lungsod ng hardin"
+      ],
+      "answer": "Ang lungsod ng kapatagan"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Inulan ng mga bato at binaligtad",
+        "Nalunod sa baha",
+        "Nawasak ng malakas na hangin",
+        "Nilamon ng lupa",
+        "Tinamaan ng malakas na pagsabog"
+      ],
+      "answer": "Inulan ng mga bato at binaligtad"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

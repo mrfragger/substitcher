@@ -1,0 +1,61 @@
+{
+  "title": "Y Gwrthwynebydd Tânllyd",
+  "intro": "Yn nyddiau cynnar datguddiad, daeth ffigur i'r amlwg fel gwrthwynebydd ystyfnig i'r gwirionedd. Wedi'i fendithio â chyfoeth a statws, dewisodd yr enaid hwn falchder dros arweiniad, a daeth eu stori yn rhybudd llym yn adnodau olaf surah.",
+  "clues": [
+    "Roeddwn i'n byw yn yr un ddinas â'r Proffwyd, ac roeddwn i ymhlith y perthnasau agosaf ato, ond roedd fy balchder yn fy nghadw ymhell o'r gwir.",
+    "Roedd gen i gyfoeth mawr ac eiddo niferus, ac roeddwn i'n meddwl y byddai fy adnoddau bob amser yn fy amddiffyn.",
+    "Pan ddatgelwyd y neges, gwnes i watwar yn agored a throi cefn, gan ystyried fy hun yn uwch na'r credinwyr.",
+    "Roedd fy elyniaeth mor ddrwg-enwog nes bod surah o'r Quran yn fy annerch yn uniongyrchol, gan fy ngalw wrth yr enw yr oedd eraill yn fy adnabod.",
+    "Cefais fy rhybuddio na fyddai fy nghyfoeth na'm henillion o fudd i mi, a byddwn yn cael fy nhaflu i dân llachar.",
+    "Rwy'n cael fy adnabod fel tad y fflam, a bydd fy ngwraig yn cario'r coed tân gyda rhaff o ffibr palmwydd o amgylch ei gwddf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gwrthododd Islam a gwrthwynebodd y Proffwyd yn agored",
+        "Cynllwyniodd i lofruddio'r Proffwyd",
+        "Arweiniodd boicot cymdeithasol yn erbyn Mwslimiaid",
+        "Ymladdodd ym Mrwydr Badr",
+        "Arteithio Bilal ibn Rabah"
+      ],
+      "answer": "Gwrthododd Islam a gwrthwynebodd y Proffwyd yn agored"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Rhaff o ffibr palmwydd",
+        "Cleddyf miniog",
+        "Cadwyn drwm",
+        "Staff pren",
+        "Chwip lledr"
+      ],
+      "answer": "Rhaff o ffibr palmwydd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Bydd yn llosgi mewn tân llachar",
+        "Edifarhaodd a daeth yn gydymaith",
+        "Collodd ei gyfoeth ond bu farw'n anrhydeddus",
+        "Ffodd i Abyssinia",
+        "Boddi yn y môr"
+      ],
+      "answer": "Bydd yn llosgi mewn tân llachar"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

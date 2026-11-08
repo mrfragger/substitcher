@@ -1,0 +1,61 @@
+{
+  "title": "Ing Sagradung Kawalan",
+  "intro": "Lampas kareng bunduk-bundukan ning panaun, ating metung a kwentu ning alang patugut a debosyon at metung a kapanaligan a sobrang bayat a ing kaladwa a magdala kaniti malyari yang masira. King metung a penandit inyang ding tau mibalik la king kamangmangan at gintu, metung a pigura ing tinalakad matatag—ausan nong mibalik, makisabing mayap para king pasensya, at magdala king bigat ning metung a sagradung pangaku. Iti ing istorya ning metung a mepili bilang kasaup, vizier, at talaingat kasalpantayanan king panaun ning sagradung pangawala. Malyari meng abalu ing pangatau na niting matatag a kaladwa?",
+  "clues": [
+    "Ishare ke ing daya ning metung a maragul a propeta na mepili para makipagsalita kang Allah diretsu keng metung a sagradung bunduk.",
+    "Ing kapatad ku misan mekisabi ya kang Allah para saupan neng magsalitang malino keng metung a maragul a mapang-api.",
+    "Pinili naku ning Allah para talakad keng siping ning kapatad ku bilang kasaup ampo vizier.",
+    "Kayabe mi yang arapan ing metung a mapang-abala a manimuna a bisang mayaus yang pekamatas a dios.",
+    "Kabang ing kapatad ku makipagsalita ya kang Allah keng bunduk, ding kekaming tau ginawa lang idolo ibat keng gintu da.",
+    "Aku ing kapatad nang Moises, a inaus nang Allah bilang kayang vizier, a mebanggit king lagyu na king Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Propeta Harun (Aaron)",
+        "Propeta Musa",
+        "Propeta Dawud",
+        "Propeta Yaqub",
+        "Propeta Ishaq"
+      ],
+      "answer": "Propeta Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Ing Krisis king Pamanyamba king Baka",
+        "Ing Maragul a Albug ning Nuh",
+        "Ing labanan ning Badr",
+        "Ing pangasira ning thamud",
+        "Ing pangalasak ning Sodoma"
+      ],
+      "answer": "Ing Krisis king Pamanyamba king Baka"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Ing gintung baka",
+        "Ing Daung nang Noe",
+        "Ing Masilab a Dikut",
+        "Ing Kueba nang Hira",
+        "Ing Tronu ning Seba"
+      ],
+      "answer": "Ing gintung baka"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Ing panga-inosenti mekumpirma ya keng Allah",
+        "Pangalbug ning Faraon",
+        "Ing Pamangawang Kaaba",
+        "Ligtas a Pamaglakbe king Dayatmalat",
+        "Pamaitas banua"
+      ],
+      "answer": "Ing panga-inosenti mekumpirma ya keng Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

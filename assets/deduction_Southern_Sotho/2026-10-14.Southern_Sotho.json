@@ -1,0 +1,61 @@
+{
+  "title": "Barobi ba Selekane ba Lelekiloeng",
+  "intro": "Mehleng ea pele ea sechaba se secha, moloko o kile oa lula matlong a etselitsoeng liqhobosheane, o tlamiloe ke tumellano. Ha tumellano eo e ekoa, liphello li ile tsa utloahala maqepheng a Quran. Batho bana e ne e le bo-mang, hona ho ile ha etsahala'ng ka malapa a bona le lirapa tsa lifate tsa litholoana?",
+  "clues": [
+    "Re ne re lula liqhobosheaneng tse neng li re fa maikutlo a fosahetseng a tšireletso.",
+    "Re ne re le batho ba Mangolo a Halalelang, empa re robile selekane sa rona.",
+    "Re ile ra rera khahlanong le lenģosa ka mor'a hore le tle ho rona, empa morero oa rona oa hloleha.",
+    "Lifate tsa rona tsa palema li ile tsa rengoa ka taelo ea Allah, e le pontšo ea matla a Hae.",
+    "Re ile ra lelekoa malapeng a rona, ra se hlole re khutla, e le kotlo bakeng sa ho se mamele ha rona.",
+    "Quran e re bua ka rona khaolong ea kopano, 'me pale ea rona e sebetsa e le temoso ho ba robang litumellano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Batho ba Madyan",
+        "Batho ba Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho thibelloa le ho lelekoa malapeng a bona",
+        "Ho qoela ka leoatleng",
+        "Ho metsoa ke lefats'e",
+        "Tšenyo ke sefefo",
+        "Ho fetoloa litšoene"
+      ],
+      "answer": "Ho thibelloa le ho lelekoa malapeng a bona"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Lifate tsa palema lia rengoa",
+        "Basebetsi",
+        "Areka",
+        "Seliba sa metsi",
+        "Lehaha"
+      ],
+      "answer": "Lifate tsa palema lia rengoa"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Ba lelekiloe naheng 'me thepa ea bona ea nkoa",
+        "Ba kgutlisitsweng ba hlotse",
+        "Ba ile ba tšoareloa 'me ba sala",
+        "O kene paradeiseng hang-hang",
+        "Ba ile ba otloa ke lefu la seoa"
+      ],
+      "answer": "Ba lelekiloe naheng 'me thepa ea bona ea nkoa"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

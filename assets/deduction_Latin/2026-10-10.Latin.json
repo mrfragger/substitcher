@@ -1,0 +1,61 @@
+{
+  "title": "Explorator Plumatus",
+  "intro": "Intra regnum quodam imperio super ventos, entia invisibilia, et creaturas caeli concesso regnatum, unus parvus et velox sodalis ex ordinibus evanuit — solum ut rediret cum revelationibus quae fatum gentis longinquae reformarent. Hic delator acutus veritatem in lucem protulit ubi ignorantia radices fecerat. Quis sum ego?",
+  "clues": [
+    "In aula servivi ubi homines, invisibiles, et caeli creaturae uni sapienti rectori qui etiam ventis imperabat respondebant.",
+    "Aliquamdiu a munere meo abfui, et ira principis promittebatur si causam idoneam non praeberem.",
+    "Sum parva creatura volandi, acumine visus nota, et genus meum nominatione directa in paginis revelationis honoratum est.",
+    "Cum reversus essem, nuntium de terra longinqua attuli ubi homines soli se prostraverunt, caeci erga Eum qui caelum et terram creavit.",
+    "Inveni mulierem regno magno regnantem, in solio magnifico sedentem, veritatem numquam antea cognitam.",
+    "Ego sum qui regnum Sabae inveni et epistolam invitationis a rege propheta, cui dominium in ventum datum est, portavi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Upupa (Hudhud)",
+        "Formica e Valle Sulaimani",
+        "Asif ibn Barkhiya",
+        "Ifrit Jinn",
+        "Angelus Throni"
+      ],
+      "answer": "Upupa (Hudhud)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Expeditio ad regnum Sabae (Shebae)",
+        "Conflictus cum maleficis Pharaonis",
+        "Diluvium Prophetae Nuh",
+        "Destructio Populi 'Ad",
+        "Divisio Maris Rubri"
+      ],
+      "answer": "Expeditio ad regnum Sabae (Shebae)"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Terra Sabae (Shebae)",
+        "Mons Sinai",
+        "Arca Prophetae Noah",
+        "Antrum Ashab al-Kahf",
+        "Palatium Pharaonis"
+      ],
+      "answer": "Terra Sabae (Shebae)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Bilqis in oboedientiam venit aulae Sulaimani",
+        "Pharao et exercitus eius in mari submersi sunt",
+        "Populus 'Ad vento vehementi deletus est",
+        "Magi Pharaonis in prophetam Mosam crediderunt.",
+        "Magna inundatio infideles consumpsit"
+      ],
+      "answer": "Bilqis in oboedientiam venit aulae Sulaimani"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

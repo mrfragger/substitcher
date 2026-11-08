@@ -1,0 +1,61 @@
+{
+  "title": "İlk Bağışlanma Dileyen",
+  "intro": "İlk güneşin doğuşundan, ölümlülerin yeryüzünde yürümesinden önceki bir zamana geri dönelim. En mütevazı malzemelerden bir figür yaratıldı, meleklerin üstünde bir konuma getirildi ve kutsal bir bahçeye açık bir uyarı ile yerleştirildi. Ancak tek bir anda bir seçim yapıldı - tüm insanlık tarihine yankılanacak bir seçim. Bu figür kim?",
+  "clues": [
+    "Ben, diğerlerinden farklı bir şekilde var oldum; yeryüzünün tozundan şekillendirildim ve Yaratıcının eliyle canlı bir ruh verildi.",
+    "Bana öyle derin bir bilgi bahşedildi ki, yukarıdaki melekler bile buna hayran kaldılar.",
+    "Bütün göktekilere önümde eğilmeleri emredildi ve hepsi boyun eğdi; sadece biri, gururundan dolayı reddetti.",
+    "Sonsuz rahatlık ve bereket yeri olan kutsal bir bahçeye yerleştirildim; ancak tek bir katı yasak vardı.",
+    "Unuttum, hata yaptım ve itaatsizlik ettim; hatamın ağırlığını derinden hissettim.",
+    "Rabbime yürekten sözler söyledim ve O, tövbemi kabul etti, çünkü O çok bağışlayandır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Adem",
+        "Peygamber Davud",
+        "Peygamber Muhammed",
+        "İblis",
+        "Peygamber Yakub"
+      ],
+      "answer": "Peygamber Adem"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Meleklere secde etmeleri emredildi.",
+        "Büyük Tufan gönderildi",
+        "Büyük bir ateş soğutuldu ve güvenli hale getirildi.",
+        "Kibirli bir hükümdar denizde boğuldu.",
+        "Fillerden oluşan bir ordu yok edildi."
+      ],
+      "answer": "Meleklere secde etmeleri emredildi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Mutluluk Bahçesi",
+        "Sina Dağı",
+        "Kutsal Cami",
+        "Nil Nehri",
+        "Mağara"
+      ],
+      "answer": "Mutluluk Bahçesi"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Tövbeler Allah tarafından kabul edildi.",
+        "Denizde boğuldu",
+        "Büyük bir balık tarafından yutuldu",
+        "Ülke çok büyük bir patlamayla sarsıldı.",
+        "Yakıcı bir rüzgar tarafından kavrulmuş"
+      ],
+      "answer": "Tövbeler Allah tarafından kabul edildi."
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

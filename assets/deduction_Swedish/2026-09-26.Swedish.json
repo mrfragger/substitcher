@@ -1,0 +1,61 @@
+{
+  "title": "Förnekelsen mitt i överflödet",
+  "intro": "Du befinner dig bland ett folk vars marknadsplatser surrar av handel, men deras vågskålar tippar oärligt. En budbärare har kommit till dem med tydliga varningar, men de skrattar och vänder sig bort, säkra på sin framgång. Himlen börjar mörkna, men de ser det som en välsignelse av regn. Vilka är dessa människor?",
+  "clues": [
+    "Vi blomstrade i länder med handel och överflöd, men våra hjärtan blev känslolösa.",
+    "Ett budbärare kom till oss med tecken från vår Herre, men vi hånade hans varningar.",
+    "Vi var kända för vårt yrke, men vi gav korta mått och lurade folket.",
+    "Vi bodde bland täta träd och frodig vegetation, men vi tog våra välsignelser för givna.",
+    "När ett mörkt moln närmade sig, jublade vi, i tron ​​att det skulle bringa regn till våra förtorkade länder.",
+    "Istället utlöste molnet ett brännande straff, och vi greps av skuggdagens plåga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Ashab al-Aykah (Skogens följeslagare)",
+        "Folket i Thamud",
+        "Folket i 'Ad",
+        "Luts folk",
+        "Folket i Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Skogens följeslagare)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "De förkastade sin budbärare och bedrog i handeln",
+        "De tillbad en guldkalv och blev vilseledda",
+        "De utövade sodomi och attackerade resenärer",
+        "De byggde höga torn och utmanade Gud",
+        "De vägrade att dela vatten och skadade en kamelhona"
+      ],
+      "answer": "De förkastade sin budbärare och bedrog i handeln"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En tät skog eller snår",
+        "Ett berg uthugget i bostäder",
+        "En stad vid havet",
+        "En ökendal med brunnar",
+        "En bördig trädgård med många frukter"
+      ],
+      "answer": "En tät skog eller snår"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förstört av ett skuggmoln av eld",
+        "Drunknade av en stor översvämning",
+        "Uppslukade av en jordbävning",
+        "Träffad av en våldsam vind",
+        "Förvandlades till sten"
+      ],
+      "answer": "Förstört av ett skuggmoln av eld"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

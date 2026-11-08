@@ -1,0 +1,61 @@
+{
+  "title": "Dulbúinn samsærismaður",
+  "intro": "Þú stendur frammi fyrir áhrifamikilli persónu frá dögum opinberunarinnar. Þessi einstaklingur var þekktur fyrir greind sína, auð og stöðu meðal fólks síns. Þegar skýr merki komu, þekktu þeir fegurðina en kusu samt þrjósku fremur en undirgefni. Hvað rak þessa sál til að leggja á ráðin í myrkrinu og hver voru örlög hennar?",
+  "clues": [
+    "Ég var blessaður með miklum fjármunum og áhrifum, sem gerði orð mín þungbær á samkomum.",
+    "Þegar orð hins guðdómlega voru flutt, gat ég ekki neitað mælsku þeirra, en stolt mitt leyfði mér ekki að lúta.",
+    "Ég safnaði saman ráðgjöfum mínum, einangraði mig til að íhuga leið til að gera skilaboðin ótrúverðug.",
+    "Eftir mikla umhugsun lýsti ég því yfir að það væri ekkert annað en „galdur, sem erfður hefur verið frá fortíðinni“ til að fæla fólk frá.",
+    "Opinberunin ávarpaði mig þá beint: „Láttu mig eiga þann sem ég skapaði í friði.“ Ég var valinn út fyrir sviksemi mína.",
+    "Brátt mun eldurinn, sem ég var varaður við, grípa mig í ennið og ég mun ekki geta flúið."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abú Lahab",
+        "Abú Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Samsærdi um að myrða spámanninn",
+        "Leiðdu sniðgöngu gegn múslimum",
+        "Safnaði saman ráði til að stimpla Kóraninn sem galdra",
+        "Samsæri um að reka spámanninn frá Mekka",
+        "Neitaði að deila auðæfum sínum með munaðarlausum börnum"
+      ],
+      "answer": "Safnaði saman ráði til að stimpla Kóraninn sem galdra"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Opinberunin",
+        "Ráðið",
+        "Ennislokkurinn",
+        "Auðurinn",
+        "Penninn"
+      ],
+      "answer": "Ennislokkurinn"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Hann iðraðist og tók upp íslamstrú",
+        "Hann flutti til Abessiníu",
+        "Hann varð fyrir banvænum sjúkdómi",
+        "Hann féll í bardaga gegn múslimum",
+        "Hann var dæmdur til helvítis"
+      ],
+      "answer": "Hann var dæmdur til helvítis"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

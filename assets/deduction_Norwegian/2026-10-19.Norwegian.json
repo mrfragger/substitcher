@@ -1,0 +1,61 @@
+{
+  "title": "Himmelens utstøtte",
+  "intro": "Et mystisk vesen står i et krysningspunkt mellom skapelse og avvisning. Historien deres er en historie om uovertruffen arroganse og den ultimate trass mot en guddommelig befaling. Valget deres gir gjenlyd gjennom hver generasjon og blir en prøve for hver sjel som blir født inn i denne verden. Kan du identifisere denne evige motstanderen?",
+  "clues": [
+    "Jeg var til stede ved en begivenhet av kosmisk betydning, da et nytt vesen ble formet av leire og gitt liv av den Barmhjertiges pust.",
+    "Jeg selv ble til av et enkelt flammende element, ulikt det støvet.",
+    "Jeg fikk en kommando som jeg anså som under min stilling.",
+    "Stoltheten svulmet i meg, og jeg nektet bestemt å adlyde den kommandoen.",
+    "En utsettelse inntil en fastsatt dag ble gitt meg, slik at jeg kunne forfølge mitt erklærte formål med å villede andre.",
+    "Jeg er den erklærte fienden til alle som vandrer på jorden, hvisker bedrag og lokker dem bort fra den rette vei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Iblis (Satan)",
+        "Farao (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Nektet å bøye seg for Adam",
+        "Hevdet falskt guddommelighet",
+        "Smidde en gullkalv for tilbedelse",
+        "Drepte broren sin av misunnelse",
+        "Ledet den polyteistiske opposisjonen i Mekka"
+      ],
+      "answer": "Nektet å bøye seg for Adam"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Paradis (Jannah)",
+        "Faraos palass i Egypt",
+        "Den hellige dalen Tuwa",
+        "Havets dyp",
+        "Shebas hage"
+      ],
+      "answer": "Paradis (Jannah)"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Innvilget utsettelse til dommedag",
+        "Druknet sammen med hæren i havet",
+        "Svelget av jorden sammen med skatter",
+        "Forvandlet til aper for å ha brutt sabbaten",
+        "Brent av steiner kastet fra himmelen"
+      ],
+      "answer": "Innvilget utsettelse til dommedag"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

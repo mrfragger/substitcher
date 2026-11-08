@@ -1,0 +1,61 @@
+{
+  "title": "Harrokeriaren Lurraldean Entzun Gabeko Deia",
+  "intro": "Behin zibilizazio handi baten hondakinetan zaude, non botereak eta harrotasunak mugarik ez zuten. Mezulari bat haien artean ibili zen, egiari dei eginez, baina haien bihotzak gogortuta zeuden. Abisua ez zen entzun, eta zerua bera haserrearen tresna bihurtu zen. Nor zen mezulari hau, eta zer gertatu zen deia ukatu zutenekin?",
+  "clues": [
+    "Indarrez parekorik ez zuen eta toki garai guztietan monumentu bat eraiki zuen herri batengana bidali ninduten.",
+    "Nire herriak garaiezintzat jotzen zuen bere burua eta esaten zuen: «Nor da gu baino indartsuagoa indarrez?»",
+    "Ala bakarrik gurtzera deitu nituen, baina ergelkeriaz eta gezurrez akusatu ninduten.",
+    "Egia esanez gero, agindu nuen zigorra ekartzeko erronka bota zidaten.",
+    "Allahk haize antzu bat bidali zien, eta topo egiten zuen guztia aurreztu zuen.",
+    "Ni eta nirekin batera sinetsi zutenak Allahren errukiari esker salbatu ginen, sinetsigabeak, berriz, erabat suntsitu ziren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hud profeta",
+        "Salih profeta",
+        "Shuaib profeta",
+        "Lut profeta",
+        "Nuh profeta"
+      ],
+      "answer": "Hud profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Haize suntsitzaile batek suntsitu zituen sinesgabeak",
+        "Uholde handi batek irentsi zituen sinesgabeak",
+        "Harri zaparrada bat erori zen",
+        "Oihu handi batek hartu zituen sinesgabeak",
+        "Lurrikara batek jo zituen sinesgabeak"
+      ],
+      "answer": "Haize suntsitzaile batek suntsitu zituen sinesgabeak"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Haize etengabea.",
+        "Egurrezko kutxa bat.",
+        "Gamelu eme bat",
+        "Buztinezko harrien euri bat",
+        "Su bizia."
+      ],
+      "answer": "Haize etengabea."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Hud eta sinestunak salbatu ziren, eta sinestun ez zirenak suntsitu ziren",
+        "Hud goi mailako estazio batera igo zen",
+        "Hud bere herriak hil zuen",
+        "Hud-en herriak damutu eta salbatu egin ziren",
+        "Hudek bere herria utzi zuen zigorrik gabe"
+      ],
+      "answer": "Hud eta sinestunak salbatu ziren, eta sinestun ez zirenak suntsitu ziren"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

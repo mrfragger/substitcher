@@ -1,0 +1,61 @@
+{
+  "title": "Pensaer Uchelgais Ffug",
+  "intro": "Ar un adeg, gwasanaethodd ffigwr o awdurdod mawr un o deyrniaid mwyaf drwg-enwog hanes yn yr hen Aifft. Ymddiriedwyd gorchymyn beiddgar i'r unigolyn hwn - i adeiladu strwythur a fwriadwyd i herio'r nefoedd. Mae eu stori yn sefyll yn y Quran fel gwers drawiadol am sut mae ufudd-dod dall i drahausrwydd yn arwain at ddinistr yn unig.",
+  "clues": [
+    "Gwasanaethais yn llysoedd llywodraethwr pwerus a honniai dduwdod dros y tiroedd.",
+    "Roeddwn i'n dal swydd weinidogol uchel, gan gynghori'r teyrn mwyaf haerllug yn fy amser.",
+    "Roedd fy llywodraethwr wedi ei lenwi â phrydferthwch wrth herio Duw Moses, yr oeddent yn gwrthod ei gydnabod.",
+    "Gorchmynnwyd i mi adeiladu tŵr o frics wedi'u pobi mewn tân er mwyn i'm rheolwr allu esgyn i'r nefoedd.",
+    "Ni chyrhaeddodd y tŵr yr awyr erioed, ac enillodd fy nghaethwasiaeth i falchder gwarth tragwyddol i mi.",
+    "Fe drechais gyda'r un a ddilynais, a daeth fy enw yn rhybudd parhaol yn erbyn y rhai sy'n galluogi gormeswyr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Haman",
+        "Azar (tad Ibrahim)",
+        "Illyas (proffwyd)",
+        "Dhu al-Kifl",
+        "Harut (un o'r ddau angel ym Mabilon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Wedi'i orchymyn i adeiladu strwythur uchel i gyrraedd y nefoedd",
+        "Gofynnwyd iddo ddehongli breuddwyd a anfonwyd gan y dwyfol",
+        "Wedi'i daflu i dân llachar fel prawf o ffydd",
+        "Wedi'i orfodi i ddewis rhwng gorsedd a gwirionedd",
+        "Heriwyd mewn cystadleuaeth hudoliaeth"
+      ],
+      "answer": "Wedi'i orchymyn i adeiladu strwythur uchel i gyrraedd y nefoedd"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Tŵr o frics wedi'u pobi mewn tân",
+        "Staff a drawsnewidiodd yn sarff",
+        "Llong yn hwylio trwy lifogydd mawr",
+        "Gardd wedi'i hamgylchynu gan waliau uchel",
+        "Gorsedd wedi'i haddurno â rhubeiniau ac aur"
+      ],
+      "answer": "Tŵr o frics wedi'u pobi mewn tân"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Boddi wrth ochr y gormeswr yn y môr",
+        "Daeth yn frenhines pwerus dros diroedd helaeth",
+        "Dihangodd dân fflamadwy heb ei anafu",
+        "Adeiladodd deyrnas ffyniannus o ddoethineb",
+        "Ailymunwyd â'r teulu ar ôl blynyddoedd o alltudiaeth"
+      ],
+      "answer": "Boddi wrth ochr y gormeswr yn y môr"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

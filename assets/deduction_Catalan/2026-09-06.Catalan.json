@@ -1,0 +1,61 @@
+{
+  "title": "El marginat del vedell d'or",
+  "intro": "Una figura esmentada a l'Alcorà va portar una gran multitud a la desviació durant l'absència d'un noble profeta. Quelcom fet d'or va capturar els cors de tota una nació, però la història d'aquest individu acaba en solitud i una estranya maledicció. Qui podria ser aquest marginat?",
+  "clues": [
+    "Vaig emergir durant l'absència d'un gran profeta que havia ascendit per rebre la guia divina.",
+    "Vaig fer que una gran multitud s'extraviés amb alguna cosa que havia fabricat amb les meves pròpies mans.",
+    "La creació daurada que vaig produir semblava tenir vida, produint sons que hipnotitzaven els que la seguien.",
+    "Vaig afirmar haver vist allò que els altres no podien percebre: una ullada a l'invisible.",
+    "Vaig extreure alguna cosa de les petjades del missatger diví i la vaig convertir en metall fos.",
+    "Estava condemnat a vagar sol, amb una maledicció única que ningú podia tocar la meva pell ni jo la seva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Samiri",
+        "Aman",
+        "Faraó (Fir'awn)",
+        "Abu Lahab",
+        "Profeta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va crear un vedell d'or per al culte",
+        "Va construir una torre que arribava al cel",
+        "Va desafiar els bruixots d'Egipte",
+        "Va liderar un exèrcit amb bèsties voladores",
+        "Dividir la lluna com a prova de profecia"
+      ],
+      "answer": "Va crear un vedell d'or per al culte"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El vedell d'or",
+        "Un bastó que es va convertir en una serp",
+        "Un arbust ardent en una muntanya",
+        "Una arca descansant sobre un cim",
+        "Una trinxera plena de foc ardent"
+      ],
+      "answer": "El vedell d'or"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Exiliat, amb prohibit ser tocat o tocar els altres",
+        "Ofegat al mar juntament amb un exèrcit",
+        "Cremat viu per rebutjar la fe",
+        "Atropellat per un vent violent i rugent",
+        "Perdonat i elevat a una alta posició"
+      ],
+      "answer": "Exiliat, amb prohibit ser tocat o tocar els altres"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

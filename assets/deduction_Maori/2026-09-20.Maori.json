@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaiwhakapono Huna i te Marae o te Kaitukino",
+  "intro": "I roto i ngā whare koura o te rangatira whakakake rawa atu e mōhiotia ana e te Quran — te wāhi i tautuhia ai e te whakakeke ki te Atua ia ture — kotahi te wairua i haereere i roto i te hunga whai mana, e huna ana i ngā mea ngaro tino morearea i te tirohanga whānui. I mau i tēnei tangata tētahi whakapono i tino rāhuitia i roto i aua taiepa, ā, ko te kitenga i a ia ka mate ia. Heoi, ka mura te whakapono pērā i te mura i raro i ngā pungarehu, ā, i te taenga mai o te wā, ka tangi te pono me te maia i wiri ai te turanga o te whare o te kaitukino.",
+  "clues": [
+    "I noho ahau i roto i te porowhita o roto o te rangatira tino mana, tino whakapehapeha o tōku wā, i karapotia e te taonga papai me te awe.",
+    "I huna e ahau tōku whakapono pono i roto i tōku ngākau, i te wehi kei ora ahau i te hunga nanakia me te tukino.",
+    "I te wā i ruarua ai, i whakakorikoria ai taku iwi i te aroaro o te pono, ka tū atu ahau ki mua ki te whakatūpato i a rātou mō te aituā i pā ki ngā iwi o mua i whakakahore i ngā karere a tō rātou Ariki.",
+    "I whakamaharatia e au tōku iwi ki te kōrero mō tētahi taitama moemoeā i arohaina, i peia atu e ōna ake whanaunga, engari i eke ki te mana nui i tētahi whenua tawhiti.",
+    "I akiaki ahau i taku iwi kia kaua e whakarongo ki te rangatira nāna rātou i arahi ki te he, engari me tono atu kia aru mai rātou i ahau i te ara o te tika me te arataki.",
+    "I kōrerotia e au te pono ahakoa i whakawehi ngā akonga a te kaitukino ki te kōhatu i ahau ki te kohatu, ki te pei rānei i ahau i te whenua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Tangata Whakapono Huna i te Whānau o Parao",
+        "He Pāterea Manawanui i Tangi Matapo Tae noa ki te Hokinga Mai o Tāna Tama",
+        "He Pononga Pono i Ora ai tōna Mate Kiri",
+        "He Tama Hara i Whakakahore i te Pōwhiri a te Poropiti kia Eke ki te Āka",
+        "He Kaitukino Arohakore i Kīia he Atuatanga mō rātou anō"
+      ],
+      "answer": "Te Tangata Whakapono Huna i te Whānau o Parao"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te huna i te whakapono i roto i te kooti o te kaitukino",
+        "E pāngia ana e te matapo i ngā tau maha o te tangi",
+        "Te whakamatautauria e te ngaronga o te whānau me te mamae nui",
+        "Te hanga i tētahi kaipuke nui i te wā e tawaihia ana",
+        "Te manawanui ki te werawera o te ahi nui"
+      ],
+      "answer": "Te huna i te whakapono i roto i te kooti o te kaitukino"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te whare o Parao",
+        "He tihi maunga i hangaia ai te āaka",
+        "He awaawa tapu i raro i Maunga Hinai",
+        "He māra ataahua me ngā awaawa e rua e rere ana",
+        "He torona karaihe i runga ake i te awa i raro i te whenua"
+      ],
+      "answer": "Te whare o Parao"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te tiakitanga atua i te wā i hinga ai ngā kaitukino",
+        "I tūtaki anō ki te whānau i muri i ngā tekau tau o te wehenga",
+        "I whakamanawanuitia, i ora anō, ā, i nui ake te whānau",
+        "I whakaorangia i runga i te poti i te wa i toremi ai te toenga o te ao",
+        "I whakaorangia i te mura ahi i runga i te whakahau a Allah"
+      ],
+      "answer": "Te tiakitanga atua i te wā i hinga ai ngā kaitukino"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

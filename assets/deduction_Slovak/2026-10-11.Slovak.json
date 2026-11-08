@@ -1,0 +1,61 @@
+{
+  "title": "Hlas v starodávnych pieskoch",
+  "intro": "Medzi prvými Alahovými poslami bol jeden, ktorého meno sa v Koráne spomína krátko, no zároveň významne. Tento človek žil dávno predtým, ako bolo vyslaných mnoho veľkých prorokov, a bol známy svojou neochvejnou pravdovravnosťou a trpezlivosťou. Jeho príbeh je krátky, ale jeho odkaz pretrváva vo večných záznamoch. Kto je táto vznešená duša?",
+  "clues": [
+    "Som jedným z prvých poslov, o ktorom sa v Koráne hovorí stručne, no zmysluplne.",
+    "Moju povahu charakterizovala neochvejná oddanosť pravde.",
+    "V knihe Alaha som spomenutý medzi tými, ktorí boli vytrvalí a trpezliví.",
+    "Len niekoľko krátkych veršov v Koráne rozpráva môj príbeh.",
+    "Alah ma poctil spôsobom, ktorý je jedinečný pre mňa a nezdieľaný s inými prorokmi.",
+    "Bol som povýšený na vysoké miesto, čo je v Koráne jedinečná pocta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Idris",
+        "Prorok Iljas",
+        "Dhul-Kifl",
+        "Prorok Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Prorok Idris"
+    },
+    "trial": {
+      "label": "Rozhodujúci moment",
+      "options": [
+        "Bol som povýšený na vysoké miesto Alahom",
+        "Postavil som veľkú archu, aby som zachránil svoj ľud",
+        "Vyzval som faraónových čarodejníkov",
+        "Bratia ma hodili do jamy",
+        "Stratil som zrak od smútku za synom"
+      ],
+      "answer": "Bol som povýšený na vysoké miesto Alahom"
+    },
+    "location": {
+      "label": "Posvätný odkaz",
+      "options": [
+        "Súra Al-Anbija",
+        "Súra Al-Kahf",
+        "Súra Taha",
+        "Súra Aš-Šu'ara",
+        "Súra Jasin"
+      ],
+      "answer": "Súra Al-Anbija"
+    },
+    "outcome": {
+      "label": "Božská česť",
+      "options": [
+        "Vysoká stanica, aká sa nepodobá žiadnej inej",
+        "Vláda nad džinmi a vetrami",
+        "Kráľovstvo bezkonkurenčnej slávy",
+        "Dedič z mojej staroby",
+        "Zmluva spečatená s Alahom"
+      ],
+      "answer": "Vysoká stanica, aká sa nepodobá žiadnej inej"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

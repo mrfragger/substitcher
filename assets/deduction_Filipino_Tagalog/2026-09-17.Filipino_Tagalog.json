@@ -1,0 +1,61 @@
+{
+  "title": "Sa ilalim ng lilim ng Date Palm",
+  "intro": "Isang kuwento ang nagbubukas tungkol sa isang kaluluwang itinalaga bago pa man isilang, inalagaan sa loob ng mga sagradong pader, at piniling magdala ng isang tanda na hindi pa nasaksihan ng mundo. Nang lumitaw ang mga paratang mula sa bawat direksyon, isang tinig ang nagmula sa pinaka-hindi inaasahang mga lugar upang patahimikin ang lahat ng pagdududa. Matutuklasan mo ba kung sino ang naglalakad sa ilalim ng lilim ng datiles?",
+  "clues": [
+    "Nakatuon na ako sa paglilingkod sa Makapangyarihan bago pa man ako unang huminga, isang panatang ginawa ng siyang nagdala sa akin.",
+    "Lumaki ako sa ilalim ng maingat na pangangalaga ng isang mabuting tagapag-alaga sa loob ng mga sagradong silid ng isang lugar ng pagsamba.",
+    "Tuwing pumupunta ang aking tagapag-alaga sa aking silid, nakakakita siya ng mga pagkain mula sa mga panahong hindi dapat sana nangyari.",
+    "Binigyan ako ng masayang balita tungkol sa isang anak na lalaki, bagama't walang puwang ang aking kalagayan para sa ipinangako.",
+    "Nagtago ako sa isang malayong lugar, at doon ay may isang puno ng datiles na nagbigay sa akin ng lilim habang may batis na umaagos sa ilalim.",
+    "Nang may dumating na akusasyon at napaligiran ako ng mga tanong, itinuro ko ang aking bagong silang na anak — at nagsalita siya mula sa duyan upang patahimikin ang bawat pagdududa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Maryam",
+        "Sarah",
+        "Hawwa",
+        "Umm Musa",
+        "Ang Asawa ni Noah"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Pagsubok / Kaganapan",
+      "options": [
+        "Nanganak ng isang mahimalang anak na lalaki nang nag-iisa",
+        "Ang pagtapon sa nagliliyab na apoy ng mga sumasamba sa diyus-diyosan",
+        "Nakaligtas sa malaking baha kasama ang iilang piling tao",
+        "Pagkahiwalay sa isang sanggol na itinapon sa ilog",
+        "Pagharap sa makapangyarihang pinuno ng Ehipto"
+      ],
+      "answer": "Nanganak ng isang mahimalang anak na lalaki nang nag-iisa"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang puno ng datiles at isang umaagos na batis sa ilalim nito",
+        "Isang makapangyarihang arka sa ibabaw ng matatayog na alon",
+        "Isang tungkod na naghati sa isang malaking dagat sa dalawa",
+        "Isang nagliliyab na apoy na nilalayong lamunin ang isang tapat na kaluluwa",
+        "Isang gintong trono na pinalamutian ng mga mahahalagang bato"
+      ],
+      "answer": "Isang puno ng datiles at isang umaagos na batis sa ilalim nito"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pinarangalan bilang pinakadakila sa lahat ng kababaihan",
+        "Muling nakasama ang minamahal na anak matapos ang mahabang hiwalayan",
+        "Inakay ang isang buong bansa palabas ng pagkaalipin ng isang malupit na pinuno",
+        "Nagbabala sa mga taong naliligaw sa imoralidad",
+        "Pinagkalooban ng kapamahalaan sa jinn, sangkatauhan, at mga hangin"
+      ],
+      "answer": "Pinarangalan bilang pinakadakila sa lahat ng kababaihan"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

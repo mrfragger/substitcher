@@ -1,0 +1,61 @@
+{
+  "title": "Valittujen petturit",
+  "intro": "Läpi historian jumalalliset sanansaattajat kulkivat ihmiskunnan keskuudessa, ja jotkut heidän lähimmistään eivät tunnistaneet valoa. Tämä kertomus kertoo kahdesta sielusta, joiden läheisyys profeetan asemaan koetteli heitä ja heidän perintönsä oli ajaton opetus.",
+  "clues": [
+    "Elimme suurten profeettojen aikoina, mutta silmämme pysyivät suljettuina heidän tuomalleen totuudelle.",
+    "Kotimme olivat täynnä jumalallista ilmoitusta, mutta sydämemme olivat paatuneet.",
+    "Meidät oli naimisissa miesten kanssa, jotka oli valittu varoittamaan kansaansa.",
+    "Kun rangaistus tuli, emme etsineet suojaa arkista emmekä paenneet polttavaa sadetta, koska pilkkasimme varoituksia.",
+    "Meidät mainitaan Koraanissa esimerkkinä uskottomille, ja osoitetaan, ettei edes läheinen suhde profeettaan pelasta.",
+    "Me olemme Nooan ja Lootin vaimoja, jotka pettivät heidät ja siksi tuomittiin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Nuhin ja Lutin vaimot",
+        "Ibrahimin ja Isma'ilin vaimot",
+        "Musan ja Harunin vaimot",
+        "Dawudin ja Sulaymanin vaimot",
+        "Ayyubin ja Yunuksen vaimot"
+      ],
+      "answer": "Nuhin ja Lutin vaimot"
+    },
+    "trial": {
+      "label": "Mikä oli heidän oikeudenkäyntinsä?",
+      "options": [
+        "He olivat naimisissa profeettojen kanssa, mutta eivät uskoneet",
+        "He olivat hedelmättömiä ja syyttivät profeettoja",
+        "He olivat rikkaita ja ylimielisiä",
+        "Iblis houkutteli heitä lähtemään kodeistaan",
+        "He palvoivat kultaista vasikkaa"
+      ],
+      "answer": "He olivat naimisissa profeettojen kanssa, mutta eivät uskoneet"
+    },
+    "location": {
+      "label": "Mihin heidän kohtalonsa oli sidottu?",
+      "options": [
+        "Tulva ja kivien sade",
+        "Raju tuuli",
+        "Maanjäristys",
+        "Heinäsirkkavitsaus",
+        "Meren jakautuminen"
+      ],
+      "answer": "Tulva ja kivien sade"
+    },
+    "outcome": {
+      "label": "Mikä oli heidän loppunsa?",
+      "options": [
+        "He menehtyivät uskottomien kanssa",
+        "He katuivat ja pelastuivat",
+        "He jäivät lapsettomiksi",
+        "Heidät karkotettiin ikuisiksi ajoiksi",
+        "Ne muutettiin apinoiksi ja sioiksi"
+      ],
+      "answer": "He menehtyivät uskottomien kanssa"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A nagyratörő ambíciók ostobasága",
+  "intro": "Indulj egy utazásra, hogy feltárd egy kollektív entitás kilétét, melynek merész tervei váratlan, hatalmas véget értek. Ez a történet mély emlékeztetőül szolgál az isteni hatalomra és a világi hatalom törékenységére, amikor az szembeszáll a szenttel. Fejtsd meg ennek a csoportnak a rejtélyét, akiknek története a Koránba vésődött figyelmeztetésként mindazok számára, akik megpróbálnak áthágni.",
+  "clues": [
+    "Nagy ambíciókat dédelgettünk, hittük, hogy az erőnk páratlan, és egyértelmű, pusztító céllal indultunk útnak.",
+    "A vezetőnk, telve arroganciával, megpróbált beszennyezni egy sokak által tisztelt szent Házat, azzal a céllal, hogy a zarándoklatot egy általunk épített építményhez terelje.",
+    "Egy távoli földről hatalmas erővel vonultunk előre, bízva abban, hogy képesek vagyunk lebontani a Szent Város ősi építményét.",
+    "Hadseregünk félelmetes volt, élükön pompás lényekkel, amilyet ritkán, ha egyáltalán valaha is láttak az általunk megszállt föld lakói egy ilyen hadjáratban.",
+    "Amikor elértük úti célunkat, isteni beavatkozás történt; apró, szárnyas lények jelentek meg, és égetett agyagkövekkel dobáltak meg minket.",
+    "Az egész expedíciónk pusztító véget ért, félelmetes erőnket teljesen megsemmisítve, mint a szétrágott szalmaszálat, nagy tervünket porrá omlasztottuk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Thamud népe",
+        "'Ad emberei",
+        "Szodoma népe",
+        "Az elefánt népe",
+        "A kert népe"
+      ],
+      "answer": "Az elefánt népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A nagy árvíz",
+        "A Kába elleni hadjárat",
+        "A bálványok pusztulása",
+        "A tenger kettéhasadása",
+        "Midián földrengése"
+      ],
+      "answer": "A Kába elleni hadjárat"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A Kába",
+        "Az aranyborjú",
+        "A tűz"
+      ],
+      "answer": "A Kába"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Isteni üdvösség",
+        "Hosszú jóléti időszak",
+        "Áttérés az iszlámra",
+        "Teljes pusztítás",
+        "Száműzetés a földjükről"
+      ],
+      "answer": "Teljes pusztítás"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "L-Enigma tat-Tron Imbiegħed",
+  "intro": "Monarka setgħan, imbierek b’dominju straordinarju, iffaċċja sfida partikolari li tinvolvi reġina minn art imbiegħda. Il-monarka fittex li juri qawwa u għerf divin, billi beda avveniment inkredibbli li sfida l-liġijiet taż-żmien u l-ispazju. Tista’ tiddeduċi d-dettalji ta’ din il-ġrajja mirakoluża?",
+  "clues": [
+    "Ħakkiem kien jingħata poter immens, inkluż kontroll fuq ħlejjaq inviżibbli u l-abbiltà li jikkmanda r-riħ.",
+    "Dan il-ħakkiem irċieva aħbar dwar reġina għanja li kienet tqim ix-xemx, u ddeċieda li jistedinha fil-qorti.",
+    "Qabel il-wasla tar-reġina, il-ħakkiem esprima xewqa li jġib is-sede magnifika tal-poter tagħha mir-renju mbiegħed tagħha.",
+    "Jinn setgħan offra li jiġbor l-oġġett qabel ma l-ħakkiem ikun jista’ jqum mill-kunsill tiegħu.",
+    "Madankollu, wieħed b'għarfien profond tal-Iskrittura Divina offra rkupru saħansitra aktar mgħaġġel, u temm il-kompitu f'ħakka t'għajn.",
+    "Mal-wasla tiegħu, il-ħakkiem ordna li l-oġġett jinbidel biex jittestja l-intellet u l-perċezzjoni tar-reġina meta finalment tasal il-palazz."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Persuna",
+      "options": [
+        "il-Profeta Mosè",
+        "il-Profeta David",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Il-Profeta Sulayman"
+      ],
+      "answer": "Il-Profeta Sulayman"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Il-Qsim tal-Baħar",
+        "Il-Paċenzja fl-Avversità",
+        "Il-Bini tal-Kaaba",
+        "It-Test tal-Ġonna",
+        "Inġibu t-Tron tar-Reġina"
+      ],
+      "answer": "Inġibu t-Tron tar-Reġina"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka",
+        "L-Istaff",
+        "Il-Muntanja",
+        "Il-Bir",
+        "It-Tron"
+      ],
+      "answer": "It-Tron"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Sagrifiċċju kbir",
+        "Saltna stabbilita",
+        "Poplu kkastigat",
+        "Patt ġdid",
+        "Is-Sottomissjoni tar-Reġina lejn Alla"
+      ],
+      "answer": "Is-Sottomissjoni tar-Reġina lejn Alla"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

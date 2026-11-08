@@ -1,0 +1,61 @@
+{
+  "title": "Sveta odsotnost",
+  "intro": "Onkraj sipin časa se skriva zgodba o neomajni predanosti in zaupanju, tako težkem, da bi ga duša, ki ga je nosila, lahko zlomila. V trenutku, ko so se ljudje obrnili k norosti in zlatu, je ena postava stala trdno – klicala jih je nazaj, prosila za potrpežljivost in nosila breme svete obljube. To je zgodba o nekom, ki je bil izbran za pomočnika, vezirja in varuha vere med sveto odsotnostjo. Ali lahko odkrijete identiteto te neomajne duše?",
+  "clues": [
+    "Delim kri velikega preroka, ki je bil izbran, da govori z Alahom neposredno na sveti gori.",
+    "Moj brat je nekoč prosil Alaha za pomoč, da bi jasno spregovoril z velikim zatiralcem.",
+    "Alah me je izbral, da stojim ob svojem bratu in sestri kot pomočnik in vezir.",
+    "Skupaj smo se soočili s tiranskim vladarjem, ki je zahteval, da ga imenujejo najvišji med bogovi.",
+    "Medtem ko se je moj brat in sestra na gori pogovarjala z Alahom, si je naše ljudstvo iz svojega zlata izdelalo idola.",
+    "Sem Mojzesov brat, ki ga je Alah postavil za svojega vezirja in je po imenu omenjen v Koranu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Harun (Aron)",
+        "Prerok Musa",
+        "Prerok Davud",
+        "Prerok Jakub",
+        "Prerok Ishak"
+      ],
+      "answer": "Prerok Harun (Aron)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Kriza čaščenja teleta",
+        "Velika poplava Nuha",
+        "Bitka pri Badru",
+        "Uničenje Tamuda",
+        "Uničenje Sodome"
+      ],
+      "answer": "Kriza čaščenja teleta"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlato tele",
+        "Noetova barka",
+        "Goreči grm",
+        "Jama Hira",
+        "Šebov prestol"
+      ],
+      "answer": "Zlato tele"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Nedolžnost, potrjena s strani Alaha",
+        "Utapljanje faraona",
+        "Gradnja Kaabe",
+        "Varno prečkanje morja",
+        "Vzpon v nebesa"
+      ],
+      "answer": "Nedolžnost, potrjena s strani Alaha"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

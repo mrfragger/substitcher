@@ -1,0 +1,61 @@
+{
+  "title": "Çaya Həvalə Edilən Etibar",
+  "intro": "Bir ruh qeyri-mümkün bir fərmanla qarşılaşdı, burada yeni doğulmuş körpənin həyatı tarazlıqda idi. İlahi ilhamın rəhbərliyi ilə çarəsiz bir əmr yerinə yetirildi və qiymətli bir sirr axarda qaldı, ancaq gözlənilməz bir şəkildə geri qaytarıldı.",
+  "clues": [
+    "Mən yeni doğulmuş erkəklərin öldürülməsinə əmr verən bir tiranın kölgəsi altında yaşayırdım.",
+    "İlahi bir ilham mənə gəldi və məni çarəsiz və ürək ağrıdan bir hərəkətə keçməyə təşviq etdi.",
+    "Qiymətli körpəmi sandığa qoyub axan çayın üstünə qoydum.",
+    "Ürəyim boşaldı və az qala sirri açacaqdım, amma Allah qətiyyətimi gücləndirdi.",
+    "Cərəyan sandığı apararkən uşağın yolunu izləmək üçün birini göndərdim.",
+    "Uşağı zalımın ailəsi tapdı və sonda mən uşağımla yenidən qovuşdum və dayə oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Musa peyğəmbərin anası",
+        "Asiya (Fironun arvadı)",
+        "Məryəm (İsa peyğəmbərin anası)",
+        "Lut peyğəmbərin həyat yoldaşı",
+        "Yəhya peyğəmbərin anası (Zəkəriyyənin həyat yoldaşı)"
+      ],
+      "answer": "Musa peyğəmbərin anası"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Uşağını sandığa qoyub çayın kənarına qoydu",
+        "O, uşağını mağarada gizlətdi",
+        "O, uşağını səhrada tərk etdi",
+        "O, uşağını oda atdı",
+        "O, uşağını məscidin qapısında qoyub getdi"
+      ],
+      "answer": "Uşağını sandığa qoyub çayın kənarına qoydu"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Çayda üzən bir sandıq",
+        "Yanan bir kol",
+        "İlana çevrilən bir əsa",
+        "Cənnətdən gələn yeməklərlə dolu süfrə",
+        "Bir əlamət olaraq göndərilən dişi dəvə"
+      ],
+      "answer": "Çayda üzən bir sandıq"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "O, uşağı ilə yenidən görüşdü və onu əmizdirdi",
+        "O, bir daha uşağını görmədi",
+        "O, zalım tərəfindən edam edildi",
+        "O, Misirdə kraliça oldu",
+        "O, başqa bir diyara köçdü və sürgün həyatı yaşadı"
+      ],
+      "answer": "O, uşağı ilə yenidən görüşdü və onu əmizdirdi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

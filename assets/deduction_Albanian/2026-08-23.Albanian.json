@@ -1,0 +1,61 @@
+{
+  "title": "Turma e Zhdukur",
+  "intro": "Ju qëndroni para jehonës së një komuniteti, historia e të cilit është shkruar në valë. Këta shpirtra dëgjuan një thirrje, zgjodhën sfidën dhe u përballën me një pasojë që riformësoi tokën. Kush janë ata dhe çfarë u bë me botën e tyre?",
+  "clues": [
+    "Ne jetuam shumë kohë më parë dhe një i dërguar na erdhi nga mesi ynë.",
+    "Ne adhuruam pesë idhuj dhe refuzuam t’i braktisnim ata.",
+    "Ne e tallëm të dërguarin dhe e akuzuam se ishte i humbur.",
+    "Ne kërkuam që ai të sillte dënimin nëse ishte i sinqertë.",
+    "Ne pamë qiellin të binte shi dhe tokën të shpërthente me burime të forta.",
+    "Ne u ngjitëm në vendet e larta për të shpëtuar, por valët na kapën."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush Jemi Ne?",
+      "options": [
+        "Populli i Nuhut",
+        "Populli i Adit",
+        "Populli i Themudit",
+        "Populli i Lutit",
+        "Njerëzit e Medjenit"
+      ],
+      "answer": "Populli i Nuhut"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "U mbytëm në një përmbytje të madhe",
+        "Na shkatërroi një uragan",
+        "U vramë nga një shpërthim i fuqishëm",
+        "Na gëlltiti toka",
+        "Na qëlluan me gurë nga qielli"
+      ],
+      "answer": "U mbytëm në një përmbytje të madhe"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një përmbytje e madhe",
+        "Një erë e fortë",
+        "Një dush me gurë",
+        "Një shpërthim i zjarrtë",
+        "Një tërmet"
+      ],
+      "answer": "Një përmbytje e madhe"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Ne të gjithë u zhdukëm përveç besimtarëve me Nuhun.",
+        "Ne u transformuam në majmunë",
+        "Ne mbetëm si rrënoja për udhëtarët",
+        "Ne u shndërruam në kripë",
+        "Na u dha një pushim"
+      ],
+      "answer": "Ne të gjithë u zhdukëm përveç besimtarëve me Nuhun."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

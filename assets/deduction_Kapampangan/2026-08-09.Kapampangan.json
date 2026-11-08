@@ -1,0 +1,61 @@
+{
+  "title": "Ing Tutu nang Siwala ning Kanitang Panaun",
+  "intro": "Atin yang kaladwa ing Quran na ing istorya na makasulat ya keng mapilan mung bersikulo, pero ing karelang marangal a katangian maslag ya keng masanting a kalinawan. Pinuri ne ning Mayupaya king metung a espesyal a birtud, iting minunang talasuyu ning Kakataskatasan tatalan yang lugal karing bulung ning kapahayagan. Ing kekang obra yapin ing akilala me ining makabaldugan a pigura. Malyari mu bang hulaan nung ninu ila?",
+  "clues": [
+    "metung kung propeta ning Allah na mebie kareng minunang henerasyun ning tau.",
+    "I Allah sinabi na ku keng libru na kayabe da reng aliwang propeta, anggang mepuri la keng pareung marangal a birtud.",
+    "Ilarawan da ku bilang metung a taung tutu keng Quran.",
+    "I Allah pepatas na ku keng matas a istasyun na ditak la mu reng taung mekapag-abut.",
+    "Ing lagyu ku mesambitla ya keng Surah Al-Anbiya, kayabe da reng adwang propeta a pinuri da keng karelang kapibabatan.",
+    "Aku i Idris, ing tutu at matas a propeta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Propeta Idris",
+        "Propeta Nuh",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Ismail"
+      ],
+      "answer": "Propeta Idris"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Panatilihan ing pasensya at katutwan, kaybat mitas ya keng matas a istasyun",
+        "Pamangawang maragul a daung ban iligtas la ring talasalpantaya king metung a makalunus a albug",
+        "Miyugse ya keng milalablab a api at linwal yang alang sugatan",
+        "Pakilabanan ne ing metung a mayupayang ari at simbut ne ing kayang hukbu da ring mago",
+        "Makaligtas kilub ning atian ning maragul a asan king kalalaman ning dagat"
+      ],
+      "answer": "Panatilihan ing pasensya at katutwan, kaybat mitas ya keng matas a istasyun"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Metung a matas at matas a istasyun ning Allah",
+        "Metung a maragul a barko a gewa ibat keng tabla ampo makatalakad keng alkitran",
+        "Metung a milalablab a api a pepasikan da ring sasamba karing idolo ning metung a marawak a ari",
+        "Metung a malapad a dagat a mepitna kareng malanging dalan",
+        "Ing madalumdum a atian ning maragul a balyena keng lalam ning karagatan"
+      ],
+      "answer": "Metung a matas at matas a istasyun ning Allah"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Mitanggap ya keng lunus ning Allah bilang metung kareng banal",
+        "Miligtas ya kayabe da ring sablang talasalpantaya king albug king mabilug a yatu",
+        "Linual ya keng api na alang atagkil ning api",
+        "Tinuki no ring anak ning Israel king ligtas a paralan papunta king kalayan king dane na ning dayatmalat",
+        "Mibalik la keng karelang pakamalan a pamilya kaybat ning makabang banuang kasakitan"
+      ],
+      "answer": "Mitanggap ya keng lunus ning Allah bilang metung kareng banal"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

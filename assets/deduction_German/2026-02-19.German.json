@@ -1,0 +1,61 @@
+{
+  "title": "Die Torheit des großen Ehrgeizes",
+  "intro": "Begeben Sie sich auf eine Reise, um die Identität einer Gruppe zu enthüllen, deren kühne Pläne ein unerwartetes und tragisches Ende fanden. Diese Erzählung mahnt eindringlich an die göttliche Macht und die Zerbrechlichkeit weltlicher Kräfte im Gegensatz zum Heiligen. Ergründen Sie das Geheimnis dieser Gruppe, deren Geschichte im Koran als Warnung für alle, die gegen die Gebote verstoßen wollen, festgehalten ist.",
+  "clues": [
+    "Wir hegten einen gewaltigen Ehrgeiz, glaubten, unsere Macht sei unübertroffen, und begaben uns auf eine Reise mit einem klaren, zerstörerischen Ziel.",
+    "Unser Anführer, erfüllt von Arroganz, versuchte, ein von vielen verehrtes heiliges Haus zu entweihen, indem er die Pilgerfahrt zu einem von uns erbauten Bauwerk umlenkte.",
+    "Aus einem fernen Land marschierten wir mit einer gewaltigen Streitmacht, zuversichtlich, dass wir das altehrwürdige Bauwerk in der Heiligen Stadt zerstören könnten.",
+    "Unsere Armee war furchterregend, angeführt von prächtigen Geschöpfen – ein Anblick, den die Bewohner des Landes, in das wir einfielen, bei einem solchen Feldzug nur selten, wenn überhaupt, zu sehen bekamen.",
+    "Als wir unser Ziel erreichten, geschah ein göttliches Eingreifen; kleine, geflügelte Wesen erschienen und bewarfen uns mit Steinen aus gebranntem Ton.",
+    "Unsere gesamte Expedition fand ein verheerendes Ende; unsere gewaltige Streitmacht wurde völlig vernichtet, wie zerkautes Stroh, unser großer Plan zu Staub zerfallen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Volk der Thamud",
+        "Leute von 'Ad",
+        "Einwohner von Sodom",
+        "Menschen des Elefanten",
+        "Menschen des Gartens"
+      ],
+      "answer": "Menschen des Elefanten"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die große Flut",
+        "Die Kampagne gegen die Kaaba",
+        "Die Zerstörung der Götzenbilder",
+        "Die Spaltung des Meeres",
+        "Das Erdbeben von Midian"
+      ],
+      "answer": "Die Kampagne gegen die Kaaba"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Die Kaaba",
+        "Das goldene Kalb",
+        "Das Feuer"
+      ],
+      "answer": "Die Kaaba"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Göttliche Erlösung",
+        "Eine lange Periode des Wohlstands",
+        "Konversion zum Islam",
+        "Völlige Zerstörung",
+        "Verbannung aus ihrem Land"
+      ],
+      "answer": "Völlige Zerstörung"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

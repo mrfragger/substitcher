@@ -1,0 +1,61 @@
+{
+  "title": "Der Vorbote einer beispiellosen Sünde",
+  "intro": "Manche Geschichten im Koran offenbaren, wie tief eine ganze Gesellschaft in die Korruption abgleiten kann. Dieser Gesandte stand allein da und flehte ein Volk an, das in einer Perversion versunken war, wie sie kein Volk vor ihnen je begangen hatte. Trotz jahrelanger Warnungen blieben die Herzen verhärtet, und das göttliche Urteil erging auf furchtbare Weise. Können Sie diesen edlen Gesandten Allahs identifizieren?",
+  "clues": [
+    "Ich wurde als Warner zu einem Volk gesandt, das von einer Perversion befallen war, wie sie vor ihnen noch keine Nation begangen hatte.",
+    "Mein Volk nannte mich einen Lügner und drohte, meine Anhänger und mich aus dem Land zu vertreiben.",
+    "Ehrengäste kamen in Gestalt junger, streikender Männer zu mir nach Hause, und ich war zutiefst besorgt um ihre Sicherheit.",
+    "Mein Volk verlangte von mir, ihnen meine Gäste auszuliefern, ohne zu ahnen, dass diese Besucher Engel waren, die von Allah gesandt wurden.",
+    "Mein eigener Ehepartner teilte meinen Glauben nicht und entschied sich, bei den Verdammten zurückzubleiben.",
+    "Ich und meine Töchter wurden im Morgengrauen gerettet, als ein verheerender Steinhagel niederging und unsere Städte umgestürzt wurden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Lut",
+        "Prophet Shu'aib",
+        "Prophet Hud",
+        "Prophet Nuh",
+        "Prophet Salih"
+      ],
+      "answer": "Prophet Lut"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Eine gewaltige Flut, die die Erde verschlingt",
+        "Sehverlust durch langjähriges Leiden",
+        "Ein Tyrann, der sich als göttlich ausgibt",
+        "In ein loderndes Feuer geworfen werden",
+        "Sie wurden aufgefordert, Ehrengäste auszuliefern"
+      ],
+      "answer": "Sie wurden aufgefordert, Ehrengäste auszuliefern"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine große, von Hand gebaute Arche",
+        "Ein Stab, der das Meer spaltete",
+        "Eine wundersame Kamelstute",
+        "Ein loderndes Feuer",
+        "Umgestürzte Städte"
+      ],
+      "answer": "Umgestürzte Städte"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ertrunken bei der Verfolgung der Gläubigen",
+        "Aus einem Feuerofen unverletzt gerettet",
+        "Lebendig in den Himmel erhoben",
+        "Familie kam bei einer großen Flut ums Leben",
+        "Die Familie blieb bis auf eine untreue Ehefrau unversehrt."
+      ],
+      "answer": "Die Familie blieb bis auf eine untreue Ehefrau unversehrt."
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

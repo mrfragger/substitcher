@@ -1,0 +1,61 @@
+{
+  "title": "Spánok spravodlivých",
+  "intro": "V čase, keď bola viera nebezpečná a mocní sa ju snažili zničiť, malá skupina mladých duší urobila rozhodnutie, ktoré sa bude ozývať vekami. Utekali pred všetkým, čo poznali, hľadali útočisko v skrytej temnote hory a úplne dôverovali Alahovi. To, čo sa stalo potom, sa stalo nadčasovým znamením pre tých, ktorí sa nad tým zamýšľajú.",
+  "clues": [
+    "Boli sme skupinou mladých ľudí, ktorí verili v nášho Pána a On nám dal viac vedenia.",
+    "Postavili sme sa pred náš ľud a vyhlásili sme, že nikdy nebudeme vzývať žiadne božstvo okrem Alaha.",
+    "Uchýlili sme sa do jaskyne a volali sme: „Pane náš, udeľ nám od Seba milosrdenstva a veď nás správnym smerom v našich záležitostiach.“",
+    "Spali sme mnoho rokov a slnko sa od našej jaskyne odkláňalo a nedotýkalo sa nás.",
+    "Náš pes ležal natiahnutý pri vchode do jaskyne a strážil nás, akoby bol na stráži.",
+    "Keď nás zobudili, premýšľali sme, ako dlho sme sa zdržali, a jedného z nás poslali so striebornými mincami kúpiť jedlo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z jaskyne",
+        "Ľudia zo zákopu",
+        "Ľudia Sabatu",
+        "Ľudia slona",
+        "Spoločníci lesa"
+      ],
+      "answer": "Ľudia z jaskyne"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Utiekli do jaskyne, aby unikli prenasledovaniu za svoju vieru",
+        "Zničené prudkým vetrom",
+        "Pohltený zemou",
+        "Utopený v mori",
+        "Zasiahnutý búrkou kameňov"
+      ],
+      "answer": "Utiekli do jaskyne, aby unikli prenasledovaniu za svoju vieru"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Pes strážiaci vchod do jaskyne",
+        "Veľká archa",
+        "Zamestnanec, ktorý sa premenil na hada",
+        "Vták dudok",
+        "Zlaté teľa"
+      ],
+      "answer": "Pes strážiaci vchod do jaskyne"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zostali v jaskyni 309 rokov a potom boli vyzdvihnutí ako znamenie.",
+        "Boli premenení na opice",
+        "Zničila ich povodeň",
+        "Boli nútení prejsť cez more",
+        "Bolo im dané kráľovstvo"
+      ],
+      "answer": "Zostali v jaskyni 309 rokov a potom boli vyzdvihnutí ako znamenie."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

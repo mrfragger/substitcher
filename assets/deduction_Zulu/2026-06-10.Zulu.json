@@ -1,0 +1,61 @@
+{
+  "title": "Abaqaphi Bengadi",
+  "intro": "Engadini evundile, umphakathi wenza isifungo esiqinile. Kodwa ukuzimisela kwawo kwavivinywa lapho intando kaNkulunkulu ingenelela, iguqula inala yawo yaba izwe elingenalutho.",
+  "clues": [
+    "Sabusiswa ngensimu eningi, kodwa saba ngabaqhoshayo.",
+    "Senze uhlelo lokuvuna ngaphandle kokwabelana nabampofu.",
+    "Saqala ekuseni kakhulu, siqiniseka ngecebo lethu.",
+    "Kodwa lapho sifika, sathola ukuthi ingadi yethu yayibhujiswe ngobusuku obubodwa.",
+    "Saqaphela iphutha lethu futhi saqala ukusolana.",
+    "Ekugcineni saphenduka, kodwa isifundo safundwa sekwephuzile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abantu baseNsimini",
+        "Abantu Bomhume",
+        "Abantu Bendlovu",
+        "Abantu baseThamud",
+        "Abantu be-'Ad"
+      ],
+      "answer": "Abantu baseNsimini"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ingadi iphenduke umlotha",
+        "Isikhukhula esabhubhisa yonke into",
+        "Indlala eyahlasela izwe",
+        "Ibutho lezinyoni lihlasela",
+        "Umoya omkhulu owasusa imithi"
+      ],
+      "answer": "Ingadi iphenduke umlotha"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ingadi",
+        "Umhume",
+        "Umkhumbi",
+        "Intaba",
+        "Isigodlo"
+      ],
+      "answer": "Ingadi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Baphenduka kodwa balahlekelwa yinsimu yabo",
+        "Babhujiswa ngokuphelele",
+        "Baphenduka izinkawu",
+        "Basindiswa ngokukholwa",
+        "Baba ababusi"
+      ],
+      "answer": "Baphenduka kodwa balahlekelwa yinsimu yabo"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

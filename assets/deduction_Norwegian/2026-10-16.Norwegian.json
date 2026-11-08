@@ -1,0 +1,61 @@
+{
+  "title": "Samfunnet som trosset hviledagen",
+  "intro": "Gå inn i en kystbosetning hvor en guddommelig befaling satte av én dag til tilbedelse og tilbakeholdenhet. En gruppe i dette samfunnet valgte å teste grensene for denne befalingen med en utspekulert plan, noe som førte til en forvandling som ville gi gjenklang gjennom tidene. Hvem var disse sjelene, og hva skjedde med dem?",
+  "clues": [
+    "Vi bodde nær kysten, der havet sørget for vårt levebrød.",
+    "Vi ble befalt å ære én dag i uken og sette den til side fra verdslige sysler.",
+    "Den dagen kom fisken til oss i stort antall, som om den fristet oss til å bryte budet.",
+    "Vi la ut en plan for å fange fisken på kvelden før den hellige dagen, og deretter samle dem inn etter at den var over.",
+    "Da noen blant oss advarte mot dette bedraget, ignorerte vi rådet deres og fortsatte.",
+    "For vår overtredelse ble vi forvandlet til aper, foraktet og forkastet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Sabbatens folk",
+        "Folket i grøften",
+        "Skogens folk",
+        "Hagens folk",
+        "Elefantfolket"
+      ],
+      "answer": "Sabbatens folk"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Fiske på sabbaten",
+        "Å bygge et høyt tårn",
+        "Å drepe en hellig hunnkamel",
+        "Å fornekte en profet som ble sendt til dem",
+        "Overskridelse av handelsvekter"
+      ],
+      "answer": "Fiske på sabbaten"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Havet og dets fisk",
+        "Ilden som ble kjølnet ned",
+        "Staven som ble til en slange",
+        "Frelsens ark",
+        "Steintavlene"
+      ],
+      "answer": "Havet og dets fisk"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Forvandlet til aper",
+        "Svelget av jorden",
+        "Ødelagt av en voldsom vind",
+        "Druknet i havet",
+        "Truffet av en steinskur"
+      ],
+      "answer": "Forvandlet til aper"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

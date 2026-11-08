@@ -1,0 +1,61 @@
+{
+  "title": "Pirmieji, ieškantys atleidimo",
+  "intro": "Nukeliaukime atgal į laikus prieš pirmąjį saulėtekį, prieš tai, kai žemėje vaikščiojo koks nors mirtingasis. Iš pačių paprasčiausių medžiagų buvo sukurta figūra, jai buvo suteiktas aukštesnis statusas nei angelams ir ji buvo paguldyta į šventąjį sodą su aiškiu įspėjimu. Tačiau per vieną akimirką buvo priimtas sprendimas – toks, kuris aidės per visą žmonijos istoriją. Kas ši figūra?",
+  "clues": [
+    "Aš buvau sukurtas kitaip nei bet kas kitas – Kūrėjo ranka sukurtas iš žemės dulkių ir duotas gyvos sielos.",
+    "Man buvo suteiktos tokios gilios žinios, kad net angelai danguje jomis stebėjosi.",
+    "Visam dangui buvo įsakyta nusilenkti prieš mane, ir visi jie pakluso – išskyrus vieną, kuris atsisakė iš puikybės.",
+    "Buvau apgyvendintas šventame sode, amžinos paguodos ir aprūpinimo vietoje – tačiau su vienu griežtu draudimu.",
+    "Pamiršau, suklydau ir nepaklusau – ir giliai jaučiau savo klaidos svorį.",
+    "Aš kreipiausi į savo Viešpatį nuoširdžiais žodžiais, ir Jis priėmė mano atgailą, nes Jis yra pats Atleidžiantis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Adomas",
+        "Pranašas Dawudas",
+        "Pranašas Muhamedas",
+        "Iblis",
+        "Pranašas Jakubas"
+      ],
+      "answer": "Pranašas Adomas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Angelams buvo įsakyta nusilenkti",
+        "Didysis potvynis buvo išsiųstas",
+        "Didysis laužas buvo užkurtas vėsus ir saugus",
+        "Arogantiškas valdovas nuskendo jūroje",
+        "Buvo sunaikinta dramblių armija"
+      ],
+      "answer": "Angelams buvo įsakyta nusilenkti"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Palaimos sodas",
+        "Sinajaus kalnas",
+        "Šventoji mečetė",
+        "Nilo upė",
+        "Ola"
+      ],
+      "answer": "Palaimos sodas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Atgaila buvo priimta Alachui",
+        "Nuskendo jūroje",
+        "Prarijo didelė žuvis",
+        "Tautą sukrėtė galingas sprogimas",
+        "Nudegino žvarbus vėjas"
+      ],
+      "answer": "Atgaila buvo priimta Alachui"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

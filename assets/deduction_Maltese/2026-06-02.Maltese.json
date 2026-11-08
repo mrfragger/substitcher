@@ -1,0 +1,61 @@
+{
+  "title": "Il-Gwardjan tal-Bieb tax-Xemx Tiżdied",
+  "intro": "Matul il-Koran, ċerti erwieħ jivvjaġġaw mad-dinja u jħallu mogħdijiet ta’ għerf u stagħġib. Figura waħda bħal din ivvjaġġat sal-aktar punti mbiegħda tal-ħolqien—fejn ix-xemx titla’ u tinżel, fejn barriera żżomm lura l-kaos innifsu. Dan il-qaddej ta’ Alla ngħata saltna li ħadd qatt ma kien se jerġa’ jkollu. Permezz ta’ tliet vjaġġi distinti, l-iskop ta’ dan l-individwu sar ċar. Tista’ tidentifika lil dan il-vjaġġatur leġġendarju minn fost id-dellijiet tal-istorja?",
+  "clues": [
+    "Ġejt mogħti l-awtorità mill-Aktar Ħanin biex naħkem fuq l-art b'mod li ħadd qatt ma kiseb.",
+    "Ivvjaġġajt lejn il-punent sakemm wasalt fil-post fejn tinżel ix-xemx, sibtha tinżel f'għajn imdardra, u rajt nies hemmhekk.",
+    "Ivvjaġġajt lejn il-lvant sakemm wasalt fil-post fejn titla’ x-xemx, u sibtha tiela’ fuq poplu li ma konniex ipprovdejna kenn għalih.",
+    "Jiena vvjaġġajt bejn dawk iż-żewġ punti estremi sakemm wasalt f'wied bejn żewġ muntanji, fejn sibt nies li bilkemm setgħu jifhmu d-diskors.",
+    "Sibt fuq il-muntanja żewġ barrieri iebsin tal-ħadid li kienu jestendu lejn il-lemin u lejn ix-xellug, u bejniethom, passaġġ dejjaq. Dawn in-nies talbuni biex ngħaddi mill-barriera li żżomm il-kaos lura.",
+    "Ħadt il-provvista tiegħi u għedt: ‘Meta l-barriera tinkiser, din se tkun separazzjoni ċara bejnietna u bejn dan il-poplu.’ U meta wasal il-ħin maħtur, rajt kif il-barriera finalment inkisret."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Il-Profeta Sulayman",
+        "Profeta Ibrahim",
+        "Ir-Re ta' Ghassaniyah",
+        "Dhul-Qarnain il-Vagabund"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Nkissru l-barriera tal-ħadid għan-nies ta' Yajuj u Majuj",
+        "Il-Bini tal-Vapur taħt il-kmand ta’ profeta",
+        "Il-bini ta’ tempju f’Ġerusalemm",
+        "Qsim tal-Baħar l-Aħmar man-nies li jemmnu",
+        "Il-bini ta’ diga biex jipproteġi nazzjon ġust"
+      ],
+      "answer": "Nkissru l-barriera tal-ħadid għan-nies ta' Yajuj u Majuj"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-barriera tal-ħadid bejn żewġ muntanji",
+        "Il-vapur ankrat fuq muntanja",
+        "Id-dar sagra tal-qima f’Ġerusalemm",
+        "Ix-xmara fl-art tal-Eġittu",
+        "Il-bir tal-barkiet f'Madyan"
+      ],
+      "answer": "Il-barriera tal-ħadid bejn żewġ muntanji"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-barriera nkisret meta wasal il-ħin maħtur, u l-kaos infirex",
+        "L-inkreduli għerqu filwaqt li l-kreduli ġew salvati",
+        "Il-ġusti ġew iggwidati lejn il-ġenna ta’ dejjem",
+        "Il-belt inqerdet minn riħ qawwi",
+        "L-idoli tkissru u n-nies nidmu"
+      ],
+      "answer": "Il-barriera nkisret meta wasal il-ħin maħtur, u l-kaos infirex"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

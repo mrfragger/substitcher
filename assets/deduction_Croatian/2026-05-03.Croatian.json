@@ -1,0 +1,61 @@
+{
+  "title": "Uspavani tragači za istinom",
+  "intro": "Zamislite vrijeme kada je vjera bila dovedena u pitanje, a skupina duša odabrala je nepokolebljivo uvjerenje umjesto svjetovne udobnosti. Suočeni s teškim izborom, potražili su utočište, upuštajući se u putovanje koje je dovelo do izvanrednog sna. Njihova priča svjedoči o božanskoj zaštiti i moći vjere protiv ugnjetavanja. Možete li prepoznati identitet ovih izvanrednih pojedinaca?",
+  "clues": [
+    "Bili smo mala skupština, ujedinjena dubokom vjerom u Jednog Stvoritelja.",
+    "Živjeli smo u vremenu kada je moćni vladar zahtijevao obožavanje nekoga osim Allaha.",
+    "Kako bismo sačuvali svoju vjeru, odlučili smo napustiti svoje domove i pobjeći od ugnjetavanja.",
+    "Vjerni pratitelj, stvorenje zemlje, pratio nas je na našem putovanju.",
+    "Pronašli smo utočište na osamljenom mjestu, gdje nas je Allah uveo u dubok, dugotrajan san.",
+    "Kad smo se probudili, vjerovali smo da je prošao samo dan ili dio dana, ali su doista prošla stoljeća."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ljudi iz jarka",
+        "Narod Semuda",
+        "Narod Sabe",
+        "Ljudi iz pećine",
+        "Ljudi iz Madyana"
+      ],
+      "answer": "Ljudi iz pećine"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti iskušavan neplodnom zemljom",
+        "Suočavanje s velikom poplavom",
+        "Traženje utočišta od tiranskog vladara",
+        "Biti bačen u goruću vatru",
+        "Izazivanje čarobnjakove magije"
+      ],
+      "answer": "Traženje utočišta od tiranskog vladara"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Veličanstvena palača",
+        "Brod/arka",
+        "Dubok bunar",
+        "Špilja",
+        "Visoka planina"
+      ],
+      "answer": "Špilja"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dodijeljeno kraljevstvo",
+        "Čudesan san stoljećima",
+        "Biti progutan od zemlje",
+        "Spašen od razorne oluje",
+        "Biti opskrbljen nebeskim stolom"
+      ],
+      "answer": "Čudesan san stoljećima"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

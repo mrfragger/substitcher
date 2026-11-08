@@ -1,0 +1,61 @@
+{
+  "title": "Vaqtdan tashqari uyqu",
+  "intro": "Haqiqat jim bo'lib, dindorlar ta'qib qilingan bir davrni tasavvur qiling. Kichik bir guruh taslim bo'lish o'rniga chekinishni tanladilar va eng kutilmagan joylarda - asrlar davomida ularning dam olish maskaniga aylanadigan joyda panoh topdilar. Nihoyat ular uyg'onganlarida, dunyo ularning atrofida o'zgarib ketgan edi. Bu uxlab yotgan ruhlar kimlar?",
+  "clues": [
+    "Biz qadimiy shaharda yashovchi yosh odamlar edik.",
+    "Jamoamiz ular bilan birga ibodat qilishimizni talab qildi, ammo biz rad etdik.",
+    "Biz e'tiqodimizga qarshi bo'lganlardan panoh izlab shahardan qochib ketdik.",
+    "Bizning yashiringan joyimizning kirish qismida to'rt oyoqli sodiq hamrohimiz qoldi.",
+    "Alloh bizni uch yuz to'qqiz yil uxlatdi.",
+    "Nihoyat uyg'onganimizda, bir vaqtlar ta'qib qilgan shahrimiz imonni qabul qilgan edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Ashob al-Kahf (G'or ahli)",
+        "Ashabu Fil (Fil qo'shini)",
+        "Ashabi Uxdud (Xandaq ahli)",
+        "Havoriyyun (Iso alayhissalomning shogirdlari)",
+        "Yajuj va Majuj (Ya'juj va Ma'juj)"
+      ],
+      "answer": "Ashob al-Kahf (G'or ahli)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Biz g'orga yashirinib, asrlar davomida uxladik",
+        "Bizni alangali olovdan qutqarib qolishdi",
+        "Bizni ulkan baliq yutib yubordi",
+        "Biz mo''jizaviy tuya bilan sinovdan o'tdik",
+        "Bizga to'qqizta aniq belgi berildi"
+      ],
+      "answer": "Biz g'orga yashirinib, asrlar davomida uxladik"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tog'lardagi chuqur g'or",
+        "Ochiq dengizdagi qayiq",
+        "Osmonga yetib boradigan ulkan inshoot",
+        "Ikki raqib o'rtasida bo'lingan bog'",
+        "Temir va mis to'sig'i"
+      ],
+      "answer": "Tog'lardagi chuqur g'or"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Biz uyg'onib, shahrimiz imonga qaytganini ko'rdik",
+        "Yonayotgan olov salqin va tinch bo'lib qoldi",
+        "Dushman qo'shini dengizda cho'kib ketdi",
+        "Tosh ko'tarib yurgan qushlar dushmanni yo'q qilishdi",
+        "Katta baliq bizni qirg'oqqa qo'yib yubordi"
+      ],
+      "answer": "Biz uyg'onib, shahrimiz imonga qaytganini ko'rdik"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

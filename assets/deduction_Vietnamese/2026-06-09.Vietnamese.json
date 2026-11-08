@@ -1,0 +1,61 @@
+{
+  "title": "Người kêu gọi chân lý không lay chuyển",
+  "intro": "Một sứ giả đứng một mình giữa một dân tộc ngoan cố, kêu gọi họ hướng về Thượng Đế duy nhất trong khi họ vẫn còn gắn bó với những thần tượng giả dối. Vị tiên tri này mang một cái tên vang vọng ý nghĩa mạnh mẽ—'người tìm kiếm sự bảo vệ'—nhưng chỉ nhận được sự từ chối và phủ nhận. Bằng sự thuyết phục nhẹ nhàng và lời cảnh báo kiên quyết, linh hồn này mang một thông điệp thiêng liêng mà chính vũ trụ cuối cùng sẽ chứng minh. Bạn có thể nhận ra nhân vật kiên định này, người đại diện cho một trong những câu chuyện cổ xưa nhất trong kinh điển Hồi giáo không?",
+  "clues": [
+    "Dân ta thờ phụng nhiều vị thần, trong khi ta kêu gọi họ phụng sự Đấng Tạo Hóa, Đấng đã tạo ra trời và đất.",
+    "Tôi đứng trước dân tộc mình và tuyên bố rằng tôi sẽ không tìm kiếm bất kỳ phần thưởng nào từ họ—mong muốn duy nhất của tôi là được họ hướng dẫn đến con đường chính nghĩa.",
+    "Một cơn gió lớn đã giáng xuống dân tộc tôi như một hình phạt của thần thánh, một cơn gió mà Kinh Qur'an nhắc đến cả ở dạng số nhiều và giống cái.",
+    "Khác với một số nhà tiên tri khác, tôi không được nhắc đến nhiều về vợ con trong câu chuyện của mình, vì sứ mệnh của tôi chỉ là kêu gọi dân tộc mình mà thôi.",
+    "Tên tôi mang một ý nghĩa sâu sắc—liên quan đến khái niệm về sự bảo vệ và nơi nương náu mà người ta tìm kiếm.",
+    "Người dân của tôi được biết đến với một thuật ngữ địa lý cụ thể dành cho thung lũng mà họ sinh sống, và vùng đất của họ bị mô tả với thái độ khinh miệt đặc biệt vì thiếu thảm thực vật."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Hud",
+        "Tiên tri Salih",
+        "Tiên tri Shu'aib",
+        "Tiên tri Nuh",
+        "Tiên tri Hudayb"
+      ],
+      "answer": "Tiên tri Hud"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Trận lụt trên trái đất",
+        "Gió nóng như thiêu đốt",
+        "Trận động đất hủy diệt",
+        "Hạn hán và nạn đói",
+        "Chết đuối trên biển"
+      ],
+      "answer": "Gió nóng như thiêu đốt"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thung lũng màu mỡ của Yemen",
+        "Sa mạc cát Midian",
+        "Thung lũng đá Thamud",
+        "Vùng đất cổ xưa của người Ad.",
+        "Vùng ven biển Ai Cập"
+      ],
+      "answer": "Vùng đất cổ xưa của người Ad."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Dân ta đã ăn năn hối cải và được vào thiên đường.",
+        "Không một ai trong số người của tôi sống sót sau hình phạt đó.",
+        "Tôi được cứu sống giống như anh trai Yunus của tôi.",
+        "Tôi cùng những người theo tôi di cư đến một vùng đất đầy phước lành.",
+        "Gió chỉ tiêu diệt những kẻ không tin, còn những người tin thì sống sót."
+      ],
+      "answer": "Không một ai trong số người của tôi sống sót sau hình phạt đó."
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

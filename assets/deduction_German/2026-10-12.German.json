@@ -1,0 +1,61 @@
+{
+  "title": "Das Gelübde der Ungeborenen",
+  "intro": "Eine aufrichtige Seele gab vor der Geburt ihres Kindes ein heiliges Versprechen ab. Die Geschichte dieser Gestalt entfaltet sich innerhalb der Mauern eines Heiligtums, wo Hingabe auf göttliche Annahme trifft. Wer ist dieser Diener Allahs?",
+  "clues": [
+    "Ich gehörte einer im Koran verehrten Familie an.",
+    "Ich habe feierlich gelobt, mein ungeborenes Kind in den Dienst Allahs zu stellen.",
+    "Als ich entband, war ich überrascht, dass es ein Mädchen war, obwohl ich einen Sohn erwartet hatte.",
+    "Ich habe mein Kind Maryam genannt, ein Name, der Hingabe und Dienstbereitschaft widerspiegelt.",
+    "Ich bat Allah um Schutz für mein Kind und ihre Nachkommen vor dem verfluchten Satan.",
+    "Mein Kind wurde vom Herrn angenommen und im Heiligtum unter die Obhut des Propheten Zakariya gestellt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Ehefrau von Imran (Mutter von Maryam)",
+        "Asiya, die Frau des Pharaos",
+        "Maryam, Mutter von Isa",
+        "Die Mutter des Propheten Musa",
+        "Die Königin von Saba"
+      ],
+      "answer": "Die Ehefrau von Imran (Mutter von Maryam)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Sie gelobte, ihr Kind dem Tempel zu weihen",
+        "Ins Feuer geworfen werden",
+        "Überquerung des Meeres auf trockenem Land",
+        "Eine große Arche bauen",
+        "Von einem großen Fisch verschluckt werden"
+      ],
+      "answer": "Sie gelobte, ihr Kind dem Tempel zu weihen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Heiligtum (Mihrab), in dem ihr Kind platziert wurde",
+        "Die Bundeslade",
+        "Das goldene Kalb",
+        "Der Mitarbeiter, der sich in eine Schlange verwandelte",
+        "Die Dattelpalme, unter der sie ruhte"
+      ],
+      "answer": "Das Heiligtum (Mihrab), in dem ihr Kind platziert wurde"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihr Kind wurde angenommen und der Obhut des Propheten Zakariya anvertraut.",
+        "Sie wurde vor der Bestrafung durch einen Tyrannen gerettet.",
+        "Sie bekam einen Sohn namens Yahya.",
+        "Ihr Volk wurde durch einen Sturm vernichtet",
+        "Sie wurde Königin über ein großes Königreich"
+      ],
+      "answer": "Ihr Kind wurde angenommen und der Obhut des Propheten Zakariya anvertraut."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

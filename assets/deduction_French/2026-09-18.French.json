@@ -1,0 +1,61 @@
+{
+  "title": "L'appel de la Vallée sacrée",
+  "intro": "Au-delà des pages de l'histoire se cache le récit d'une âme qui s'est dressée entre un puissant souverain et un peuple entier asservi. Cet homme fut appelé à libérer une nation de la tyrannie, accomplissant des prodiges défiant toutes les lois de la nature. D'une montagne sacrée à un miracle sur les eaux, ce serviteur d'Allah fut témoin de signes dont l'écho résonnerait à travers les âges. Votre mission aujourd'hui est d'identifier cette figure remarquable dont l'héritage a façonné le cours de l'histoire humaine.",
+  "clues": [
+    "Je suis né à une époque où mon peuple était confronté à un décret mortel, et ma famille m'a jeté à l'eau pour me sauver la vie.",
+    "J'ai été trouvée et élevée dans la maison même du souverain qui avait ordonné la mort des miens.",
+    "Je me suis enfui vers une montagne sacrée où j'ai vu du feu sur un arbre qui ne se consumait pas, et une voix m'a parlé depuis cet arbre.",
+    "J'ai été renvoyée auprès de ce même souverain, porteuse de miracles, exigeant la liberté de mon peuple asservi.",
+    "J’ai frappé la mer de mon bâton, et elle s’est fendue en brèches, engloutissant les poursuivants qui suivaient mon peuple.",
+    "J'ai communié avec mon Seigneur sur une montagne pendant quarante nuits, et j'ai reçu des tablettes de guidance divine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Moïse",
+        "Le prophète Harun",
+        "Le prophète Ibrahim",
+        "Prophète Yusuf",
+        "Prophète Dawud"
+      ],
+      "answer": "Le prophète Moïse"
+    },
+    "trial": {
+      "label": "Mon procès décisif",
+      "options": [
+        "La séparation de la mer",
+        "La construction de la Grande Arche",
+        "L'épreuve du feu",
+        "Confinement dans le ventre d'une baleine",
+        "Emprisonnement par un fonctionnaire égyptien"
+      ],
+      "answer": "La séparation de la mer"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le bâton d'un berger",
+        "Une grande arche en bois",
+        "Une grotte où le temps s'est endormi",
+        "Un jardin avec deux sources",
+        "Un trône orné d'or"
+      ],
+      "answer": "Le bâton d'un berger"
+    },
+    "outcome": {
+      "label": "Le résultat",
+      "options": [
+        "Mon peuple a traversé la mer pour se mettre en sécurité.",
+        "Un grand déluge a détruit les incrédules",
+        "Le feu d'un tyran devint frais et paisible",
+        "La mer rejeta son captif sur le rivage",
+        "Le captif devint le trésorier de l'Égypte"
+      ],
+      "answer": "Mon peuple a traversé la mer pour se mettre en sécurité."
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

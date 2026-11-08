@@ -1,0 +1,61 @@
+{
+  "title": "ny harena izay nilentika teo ambanin'ny avonavona",
+  "intro": "Alaivo sary an-tsaina hoe mijoro eo anoloan'ny antontam-bola be dia be ianao ka ny fitondrana fotsiny ireo fanalahidy dia efa handreraka vondron'olona matanjaka. Manodidina anao dia misy feo mampirisika ny fanetren-tena sy ny fahatsiarovana, nefa ny avonavona dia mihamafy kokoa noho ny fankasitrahana. Inona no mitranga rehefa lasa fitsapana ny harena ary ny avonavona no manisy tombo-kase ny vokany?",
+  "clues": [
+    "Anisan'ny vahoakan'i Mosesy aho, nefa nandika lalàna tamin'izy ireo.",
+    "Nomena harena be dia be aho ka ny fanalahidin'izany dia ho mavesatra amin'ny andian-dehilahy matanjaka.",
+    "Notoroan'ny fireneko hevitra aho mba tsy hifaly sy hikatsaka ny any ankoatra nefa tsy hanadino ny anjarako amin'ity tontolo ity.",
+    "Nilaza aho fa izay nananako dia nomena ahy noho ny fahalalana nananako ihany.",
+    "Nandeha teo anoloan'ny vahoakako aho nitafy haingony, ary ireo izay naniry ny fiainana eto an-tany dia naniry ny zavatra mitovy amin'izay nananako.",
+    "Natelin'ny tany aho mbamin'ny tranoko, ka tsy nisy nahavonjy ahy, ary tsy nahavonjy ny tenako koa aho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Karun",
+        "Namroud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nirehareha tamin'ny harena ary nandà ny fankasitrahan'i Allah na dia efa nomena torohevitra aza",
+        "Nanao fanamby tamin'i Ibrahim momba ny fanomezana aina sy fahafatesana",
+        "Nitarika ny tafika hiady amin'i Talut sy i Dawud",
+        "Sampy voasokitra ho an'ny olona hivavaka",
+        "Namono rahalahy noho ny fialonana noho ny fanatitra"
+      ],
+      "answer": "Nirehareha tamin'ny harena ary nandà ny fankasitrahan'i Allah na dia efa nomena torohevitra aza"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Fanalahidin'ny harena goavana",
+        "Ny Fiaran'ny Fanekena",
+        "Ombilahy kely volamena misy haingony",
+        "Tohodrano eo anelanelan'ny tendrombohitra roa",
+        "Kintana iraika ambin'ny folo ao anaty nofy"
+      ],
+      "answer": "Fanalahidin'ny harena goavana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voatelina amin'ny tany miaraka amin'ny fonenana sy harena",
+        "Nilentika tao an-dranomasina raha nanenjika an'i Musa",
+        "Voatifitry ny vato avy amin'ny antsamotady nataon'i Davida",
+        "Rava tamin'ny fipoahana mahery vaika noho ny nanapahana ny rameva vavy",
+        "Niova ho rajako noho ny fandikana ny Sabata"
+      ],
+      "answer": "Voatelina amin'ny tany miaraka amin'ny fonenana sy harena"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

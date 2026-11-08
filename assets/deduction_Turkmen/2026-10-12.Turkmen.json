@@ -1,0 +1,61 @@
+{
+  "title": "Doglan çaganyň kasamy",
+  "intro": "Çaga dünýä inmezden öň ak ýürekli bir adam mukaddes wada berdi. Bu şahsyýetiň hekaýasy mukaddesligiň diwarlarynda, ybadatyň ilahi kabul bilen duşuşýan ýerinde bolup geçýär. Allanyň bu bendesi kim?",
+  "clues": [
+    "Men Gurhanda hormatlanylýan maşgaladandym.",
+    "Men dünýä inmedik çagamy Allanyň hyzmatyna bagyşlamaga dabaraly kasam etdim.",
+    "Men doguranymda, ogul bolmagyna garaşýardym, emma onuň gyzdygyny görüp geň galdym.",
+    "Men çagama Merýem diýip at goýdum, bu at wepalylygy we hyzmaty beýan edýär.",
+    "Men çagam we onuň nesilleri üçin näletlenen Şeýtandan Allanyň goragyny diledim.",
+    "Çagam Reb tarapyndan kabul edildi we mukaddes ýerde Zekeriýa pygamberiň gözegçiligi astynda goýuldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Imranyň aýaly (Merýemiň ejesi)",
+        "Fyrownyň aýaly Aziýa",
+        "Isanyň ejesi Merýem",
+        "Musa pygamberiň ejesi",
+        "Şebanyň şa aýaly"
+      ],
+      "answer": "Imranyň aýaly (Merýemiň ejesi)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Çagasyny ybadathana bagyşlamaga söz berýär",
+        "Oda taşlanmak",
+        "Deňizden gury ýerde geçmek",
+        "Beýik gämi gurmak",
+        "Uly balyk tarapyndan ýuwutulmak"
+      ],
+      "answer": "Çagasyny ybadathana bagyşlamaga söz berýär"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Çagasynyň ýerleşdirilen mukaddes ýeri (mihrab)",
+        "Äht sandygy",
+        "Altyn göle",
+        "Ýylana öwrülen taýajyk",
+        "Onuň dynç alan hurma agajy"
+      ],
+      "answer": "Çagasynyň ýerleşdirilen mukaddes ýeri (mihrab)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Onuň çagasy kabul edilip, Zekeriýa pygamberiň gözegçiligine berildi.",
+        "Ol zalymyň jezasyndan halas boldy",
+        "Oňa Ýahýa atly ogul berildi",
+        "Onuň halky tupandan heläk boldy",
+        "Ol uly patyşalygyň şa aýaly boldy"
+      ],
+      "answer": "Onuň çagasy kabul edilip, Zekeriýa pygamberiň gözegçiligine berildi."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

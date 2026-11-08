@@ -1,0 +1,61 @@
+{
+  "title": "Vox quae regnum idoli provocavit",
+  "intro": "Inter nuntios Omnipotentis erat servus constans qui in gente pertinaci surrexit ad veritatem tradendam. Populus eorum fictum deum amplexus erat, a Creatore omnium quae exstant avertens. Cum firma constantia, hic homo eos revocavit — sed nuntius negatione et reiectione exceptus est. Per indicia procede ut invenias quis hic servus devotus fuerit.",
+  "clues": [
+    "Missus sum nuntius ad populum pertinacem qui longe a recta via aberraverat.",
+    "Veni ut gentem meam de Eo, qui omnia quae sunt creavit — optimo omnium creatorum — admonerem.",
+    "Populus meus ad idolum falsum se conversus est, quod venerabantur et invocabant die ac nocte.",
+    "Audacter eos provocavi, rogans cur numen fictum colerent et verum Dominum suum desererent.",
+    "Negaverunt me, noluerunt audire, et pertinaciter adhaeserunt mendacio suo — et Dominus meus servavit me.",
+    "Ego sum Ilyas — et pax mihi concessa est, et inter fideles servos Misericordissimi numeratus sum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ilyas",
+        "Idris propheta",
+        "Propheta Alyasa",
+        "Propheta Dhul-Kifl",
+        "Propheta Nuh"
+      ],
+      "answer": "Propheta Ilyas"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Vocatio populi a cultu Baal",
+        "Tyranno qui se deum esse praedicabat obviam eundo",
+        "Populum de imminente diluvio monens",
+        "In magnum ignem ardentem proiectus",
+        "Exodum e terra servitutis ducens"
+      ],
+      "answer": "Vocatio populi a cultu Baal"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Idolum nomine Baal",
+        "Arca magna ex ligno robusto constructa",
+        "Baculus qui vastum mare divisit",
+        "Vestis sacra sanguine maculata",
+        "Rubus ardens in monte sancto"
+      ],
+      "answer": "Idolum nomine Baal"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Pax concessa et inter electos servos Dei numeratus",
+        "In paradisum ductus, dum omnes alii deleti sunt",
+        "E magno incendio servatus, qui frigidus et tutus factus est",
+        "Datum dominio super jinn, humanitatem, et ventum",
+        "Corpus servatum ut signum perpetuum per saecula"
+      ],
+      "answer": "Pax concessa et inter electos servos Dei numeratus"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

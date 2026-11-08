@@ -1,0 +1,61 @@
+{
+  "title": "Jakinduriaren Zerbitzari Ezkutua",
+  "intro": "Koranaren narrazioen tapiz zabalean, figura enigmatiko bat dago, Jainkoaren ezagutza eta errukia duen Alaren zerbitzari bat. Pertsona misteriotsu honek profeta handienetako batekin gurutzatu zuen bidea, eta horrek giza ulermenaren mugak zalantzan jarri zituzten ekintza nahasgarriz betetako bidaia batera eraman zuen. Ekintza bakoitzak, bidegabea zirudien arren, patuari, pazientziari eta jainkozko dekretuaren atzean dagoen jakinduria ikusezinari buruzko ikasgai sakonak ezkutatzen zituen. Nor da itzalpeko figura hau, eta zer egia agerian utzi zituzten?",
+  "clues": [
+    "Alaren zerbitzari bat nintzen, ezagutza eta erruki bereziagatik aukeratua.",
+    "Profeta handi batek nigandik ikasi nahi izan zuen, eta nik baldintza zorrotzekin onartu nuen.",
+    "Gure bileran, nire lagunari bidegabeak iruditu zitzaizkion hiru ekintza egin nituen.",
+    "Jende pobre baten itsasontzi bat kaltetu nuen, baina erruki ezkutu bat izan zen.",
+    "Mutil gazte bati bizitza kendu nion, krudela iruditu arren, bere gurasoei atsekabea saihesteko izan zen.",
+    "Ostatua ukatzen zigun herri batean harresi bat berreraiki nuen, azpian altxor bat agerian utziz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Al-Khidr (zerbitzari zuzena)",
+        "Bi lorategien jabea",
+        "Kobazuloko jendeetako bat",
+        "Ibrahimekin eztabaidatu zuen erregea",
+        "100 urtez lo egin zuen gizona"
+      ],
+      "answer": "Al-Khidr (zerbitzari zuzena)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Musa profetarekin topo egitea bi itsasoen elkargunean",
+        "Gog eta Magogen aurkako hesi bat eraikitzea",
+        "Su handi batera botata izatea",
+        "Itsasoa bi erditan banatzea",
+        "Toraren tabletak jasotzea"
+      ],
+      "answer": "Musa profetarekin topo egitea bi itsasoen elkargunean"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Bi itsasoen elkargunea",
+        "Sinai mendia",
+        "Thawr-eko kobazuloa.",
+        "Tuwa harana.",
+        "Zamzam-en putzua."
+      ],
+      "answer": "Bi itsasoen elkargunea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bere ekintza nahasgarrien atzean zegoen jainkozko jakinduria azaldu eta Musarekin banandu zen.",
+        "Bidaiaren ondoren profeta izatea eman zioten",
+        "Txalupa ekaitz batek suntsitu zuen",
+        "Mutila bizitzara itzuli zuten",
+        "Meskita bat eraiki zuen herri babesgabean"
+      ],
+      "answer": "Bere ekintza nahasgarrien atzean zegoen jainkozko jakinduria azaldu eta Musarekin banandu zen."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

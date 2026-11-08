@@ -1,0 +1,61 @@
+{
+  "title": "Entre la Terra i el Cel",
+  "intro": "Una ànima misteriosa t'espera a les pàgines sagrades de la història divina, portant signes i meravelles que encara ressonen a través dels segles. A mesura que segueixes el rastre de pistes, viatjaràs a través d'una història marcada per miracles, des d'un començament miraculós fins a una ascensió més enllà del cel. Pots identificar aquest servent beneït abans de la pista final?",
+  "clues": [
+    "Vaig ser enviat com a missatger als fills d'Israel amb noves de misericòrdia i llum.",
+    "El meu naixement va ser un signe miraculós: vaig venir a aquest món sense pare, per ordre del Totpoderós.",
+    "Vaig parlar quan encara era un nadó, defensant l'honor de la meva mare contra les acusacions del seu poble.",
+    "Amb el permís d'Al·là, vaig modelar ocells d'argila i els vaig insuflar vida; van volar davant dels ulls dels que miraven.",
+    "Vaig curar cecs de naixement, vaig curar leprosos i fins i tot vaig ressuscitar morts, però tots els miracles van ser amb el permís d'Al·là, no meus.",
+    "Quan els meus enemics van conspirar per destruir-me, Al·là em va elevar als cels i va prometre el meu retorn abans del Dia del Judici."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Isa (Jesús)",
+        "Profeta Musa (Moisès)",
+        "Profeta Ibrahim (Abraham)",
+        "Profeta Mahoma",
+        "Profeta Yusuf (Joseph)"
+      ],
+      "answer": "Profeta Isa (Jesús)"
+    },
+    "trial": {
+      "label": "El moment decisiu",
+      "options": [
+        "Vaig ser elevat als cels",
+        "Em van llançar a un foc ardent",
+        "Vaig enfrontar-me al poderós exèrcit del faraó",
+        "Em va engolir una gran balena",
+        "Vaig construir una arca a la muntanya"
+      ],
+      "answer": "Vaig ser elevat als cels"
+    },
+    "location": {
+      "label": "Signe sagrat realitzat",
+      "options": [
+        "Vaig donar forma a ocells amb argila",
+        "Vaig convertir un bastó en una serp",
+        "Vaig partir la lluna en dues parts",
+        "Vaig comandar el vent i els djins",
+        "Vaig fer sortir una camella d'una roca"
+      ],
+      "answer": "Vaig donar forma a ocells amb argila"
+    },
+    "outcome": {
+      "label": "Què va ser de mi",
+      "options": [
+        "Elevat als cels; va prometre tornar",
+        "Es va convertir en un gran governant d'un imperi",
+        "Vaig treure el meu poble del captiveri",
+        "Va rebre una riquesa terrenal inigualable",
+        "Em vaig retrobar amb la meva família després d'una llarga separació"
+      ],
+      "answer": "Elevat als cels; va prometre tornar"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

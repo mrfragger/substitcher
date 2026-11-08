@@ -1,0 +1,61 @@
+{
+  "title": "Abayili beLitye",
+  "intro": "Khawucinge ngempucuko enamandla, eneziphiwo zamandla nezakhono, ikrola izindlu ezinkulu kwiintaba. Eli qela lalinobutyebi obukhulu kunye nobuchule obukhethekileyo bokwakha. Nangona befumene izilumkiso ezicacileyo, bakhetha indlela eya kukhokelela kwisiphelo esimangalisayo nesingenakulibaleka. Ngaba ungalibona eli qela elibali lalo lisebenza njengesifundo esibalulekileyo kubo bonke abacingayo?",
+  "clues": [
+    "Sanikwa amandla nobuchule, nto leyo eyasenza sakwazi ukuzoba izindlu ezintle ngqo ezintabeni.",
+    "Sanikwa uphawu olucacileyo oluvela ku-Allah, isidalwa esikhethekileyo esasingaphazanyiswa ukuba sidle.",
+    "Uluntu lwethu lwaba nekratshi, luphikisa umyalezo kaThixo oziswa ngumthunywa ovela phakathi kwethu.",
+    "Saceba ukwenzakalisa umqondiso omangalisayo, nangona sasilumkisiwe ngesohlwayo esiqatha.",
+    "Asizange siwuthobele umyalelo wokuvumela esi silwanyana sikhethekileyo ukuba sisele equleni lethu ngeentsuku ezitshintshanayo.",
+    "Sifikelele esiphelweni esibuhlungu, sabethwa kukuqhuma okukodwa, okoyikisayo emva kwesenzo sethu sokungathobeli umthetho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Abantu be-'Ad",
+        "Abantu bakwaMidiyan",
+        "Abantu beNdlovu",
+        "Abantu baseThamud",
+        "Abantu bakaLut"
+      ],
+      "answer": "Abantu baseThamud"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko sethu Esiphambili",
+      "options": [
+        "Umkhukula owagubungela ilizwe",
+        "Ukwahlukana kolwandle",
+        "Ukutshatyalaliswa ngokuqhuma/ukukhwaza kube kanye",
+        "Ukutshiswa kwesixeko",
+        "Ukuguqulwa kwentaba ibe luthuli"
+      ],
+      "answer": "Ukutshatyalaliswa ngokuqhuma/ukukhwaza kube kanye"
+    },
+    "location": {
+      "label": "Into Ebalulekileyo Kwibali Lethu",
+      "options": [
+        "Ithole legolide",
+        "Inkamela yemazi engummangaliso",
+        "Isihlahla esitshayo",
+        "Intaka ethethayo",
+        "Itrone ezukileyo"
+      ],
+      "answer": "Inkamela yemazi engummangaliso"
+    },
+    "outcome": {
+      "label": "Isiphumo Sethu Sokugqibela",
+      "options": [
+        "Unikwe ubutyebi namandla amakhulu",
+        "Waphakanyiswa waba ngumprofeti",
+        "Ukutshatyalaliswa ngokupheleleyo sisohlwayo sikaThixo",
+        "Uxolelwe emva kokuguquka ngokunyanisekileyo",
+        "Zisasazeke emhlabeni ukuze zizulazule"
+      ],
+      "answer": "Ukutshatyalaliswa ngokupheleleyo sisohlwayo sikaThixo"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

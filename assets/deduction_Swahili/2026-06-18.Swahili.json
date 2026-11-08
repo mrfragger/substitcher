@@ -1,0 +1,61 @@
+{
+  "title": "Wa Kwanza Kuomba Msamaha",
+  "intro": "Rudi nyuma hadi wakati kabla ya jua kuchomoza, kabla ya mwanadamu yeyote kutembea duniani. Kiumbe kiliumbwa kutoka kwa nyenzo duni zaidi, kilipewa nafasi juu ya malaika, na kuwekwa katika bustani takatifu yenye onyo lililo wazi. Lakini katika muda mfupi tu, uchaguzi ulifanywa - ule ambao ungerudiwa katika historia yote ya mwanadamu. Kiumbe huyu ni nani?",
+  "clues": [
+    "Niliumbwa kwa njia isiyofanana na nyingine yoyote — niliumbwa kutoka kwa mavumbi ya ardhi na kupewa nafsi hai kwa mkono wa Muumba.",
+    "Nilipewa maarifa ya kina sana kiasi kwamba hata malaika walio juu walistaajabia.",
+    "Mbingu yote iliamriwa kunisujudia, na wote walinyenyekea—isipokuwa mmoja, aliyekataa kwa kiburi.",
+    "Niliwekwa katika bustani takatifu, mahali pa faraja na riziki ya milele — lakini kwa katazo moja kali.",
+    "Nilisahau, niliteleza, na sikutii — na nilihisi uzito wa kosa langu kwa undani.",
+    "Nilimgeukia Mola wangu kwa maneno ya dhati, na akakubali toba yangu, kwani Yeye ndiye Mwenye kusamehe zaidi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Adamu",
+        "Nabii Daudi",
+        "Mtume Muhammad",
+        "Iblis",
+        "Nabii Yaqub"
+      ],
+      "answer": "Nabii Adamu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Malaika waliamriwa kusujudu",
+        "Gharika Kuu ilitumwa",
+        "Moto mkubwa ulifanywa kuwa baridi na salama",
+        "Mtawala mwenye kiburi alizama baharini",
+        "Jeshi la tembo liliangamizwa"
+      ],
+      "answer": "Malaika waliamriwa kusujudu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bustani ya Furaha",
+        "Mlima Sinai",
+        "Msikiti Mtakatifu",
+        "Mto Nile",
+        "Pango"
+      ],
+      "answer": "Bustani ya Furaha"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Toba ilikubaliwa na Mwenyezi Mungu",
+        "Kuzama baharini",
+        "Imemezwa na samaki mkubwa",
+        "Taifa lilipigwa na mlipuko mkubwa",
+        "Imechomwa na upepo mkali"
+      ],
+      "answer": "Toba ilikubaliwa na Mwenyezi Mungu"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

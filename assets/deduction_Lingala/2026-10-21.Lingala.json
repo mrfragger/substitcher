@@ -1,0 +1,61 @@
+{
+  "title": "Motindami Oyo Akutanaki na Basambeli ya bikeko",
+  "intro": "Na ntango oyo komipesa ebungaki, motindami moko atɛlɛmaki na libiangi ya kozonga na losambo ya Nkolo ya mokili. Elilingi yango etɛlɛmaki ngwi liboso ya bato oyo bakangamaki na losambo ya nzambe moko ya lokuta, kokundwelaka bango Mozalisi na bango ya solo mpe Nkolo ya bankɔkɔ na bango. Nzokande bato bazalaki kotyela likebi te mpe baboyaki likebisi yango, mpe batyaki elembo na nsuka na bango moko. Nani azalaki mobengi wana oyo azalaki kotɛngatɛnga te?",
+  "clues": [
+    "Natindamaki epai ya bato oyo batikaki nzela ya Nzambe Moko ya Solo.",
+    "Natunaki bato na ngai: \"Bokobanga Allah te?\"",
+    "Nabengaki bango mpo na kotika losambo na bango ya nzambe moko ya lokuta na nkombo Baala.",
+    "Bato na ngai baboyaki libiangi na ngai mpe batingama na losambo na bango ya bikeko.",
+    "Mpo na kowangana na bango, na ntembe te bakobima mpo na etumbu.",
+    "Nkolo na ngai apesaki ngai kimia mpe bokundoli ya lipamboli kati na nkola ya nsima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ilyas",
+        "Mosakoli Yahya",
+        "Mosakoli Dhul-Kifl",
+        "Mosakoli Yusuf",
+        "Mosakoli Shu'ayb"
+      ],
+      "answer": "Mosakoli Ilyas"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Abengaki bato na ye mpo na kotika Baala",
+        "Atongaki masuwa mpo na kobikisa bandimi",
+        "Babwakaki ye na mɔtɔ",
+        "Akimaki liboso ya Farao oyo azalaki mokonzi mabe",
+        "Abetaki libanga mpo na kobimisa mai"
+      ],
+      "answer": "Abengaki bato na ye mpo na kotika Baala"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Baala",
+        "Al-Lat, oyo azali",
+        "Al-Uzza azali moto ya mayele",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baala"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Epesamaki kimia mpe bokundoli ya lipamboli",
+        "Emelami na mabele",
+        "Ebebisamaki na mopɛpɛ makasi",
+        "Ebongwanaki libanga",
+        "Bazindaki na mai na mbu"
+      ],
+      "answer": "Epesamaki kimia mpe bokundoli ya lipamboli"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

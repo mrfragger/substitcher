@@ -1,0 +1,61 @@
+{
+  "title": "Dormientes Veritatis Quaerentes",
+  "intro": "Finge tempus cum fides impugnaretur, et coetus animarum convictionem inconcussam prae commoditate mundana eligeret. Electione difficili imposita, refugium quaesiverunt, iter suscipientes quod ad somnum extraordinarium duxit. Historia eorum testimonium est protectionis divinae et potentiae fidei contra oppressionem. Potesne identitatem horum hominum insignium discernere?",
+  "clues": [
+    "Parva coetus eramus, profunda fide in unum Creatorem uniti.",
+    "Viximus tempore quo princeps potens cultum alium quam Allah postulabat.",
+    "Ut fidem nostram conservaremus, domos nostras relinquere et oppressionem fugere decrevimus.",
+    "Comes fidelis, creatura terrae, nos in itinere nostro comitatus est.",
+    "Perfugium in loco secreto invenimus, ubi Allah nos in somnum profundum et diuturnum deducere fecit.",
+    "Cum experrecti essemus, credidimus tantum diem aut partem diei praeterisse, sed saecula vere praeteriisse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Fossae",
+        "Populus Thamud",
+        "Populus Sabae",
+        "Populus Speluncae",
+        "Populus Madyani"
+      ],
+      "answer": "Populus Speluncae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Terra sterili tentata",
+        "Inundationi magnae obviam",
+        "Perfugium a tyranno principe quaerens",
+        "In ignem ardentem coniectus",
+        "Magiae magi provocatio"
+      ],
+      "answer": "Perfugium a tyranno principe quaerens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Magnum palatium",
+        "Navis/arca",
+        "Puteus profundus",
+        "Spelunca",
+        "Mons altissimus"
+      ],
+      "answer": "Spelunca"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Regnum accipiens",
+        "Somnus mirabilis per saecula",
+        "A terra absorberi",
+        "Servatus a tempestate destructiva",
+        "Mensa caelesti instructi"
+      ],
+      "answer": "Somnus mirabilis per saecula"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

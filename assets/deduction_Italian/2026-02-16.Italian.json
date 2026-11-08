@@ -1,0 +1,61 @@
+{
+  "title": "La pretesa di autorità assoluta",
+  "intro": "Nell'antichità, un individuo potente ascese al dominio di una vasta terra e dei suoi abitanti. Il regno di questa figura fu caratterizzato da immensa superbia e da una profonda sfida all'autorità divina. Preparatevi a scoprire l'identità di un'anima il cui destino finale è diventato una lezione eterna per tutte le generazioni.",
+  "clues": [
+    "Ho governato un impero possente, dove la mia parola era legge.",
+    "Mi sono autoproclamato divinità suprema, esigendo adorazione da tutti coloro che si sottomettevano al mio dominio.",
+    "Ho oppresso una specifica comunità, riducendola in schiavitù e ordinando l'uccisione dei loro neonati maschi.",
+    "Mi sono trovato ripetutamente di fronte a un umile messaggero di Dio, che ha compiuto miracoli evidenti davanti a me e ai miei maghi.",
+    "Ho ostinatamente rifiutato la verità, accusando il messaggero di stregoneria e tramando per distruggere lui e i suoi seguaci.",
+    "Il mio intero esercito ed io fummo inghiottiti dal mare mentre inseguivamo senza sosta coloro che erano stati liberati dalla mia presa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Abete",
+        "Haman"
+      ],
+      "answer": "Abete"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il grande diluvio",
+        "Il fuoco ardente",
+        "L'annegamento dell'oppressore",
+        "La distruzione causata dal vento",
+        "Il terremoto dell'incredulità"
+      ],
+      "answer": "L'annegamento dell'oppressore"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca di Noè",
+        "Il bastone di Mosè",
+        "L'idolo d'oro",
+        "Il pozzo di Zamzam",
+        "Il Trono di Bilqis"
+      ],
+      "answer": "Il bastone di Mosè"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Concesse un vasto regno",
+        "Corpo conservato come segno",
+        "Perdonato dopo il pentimento",
+        "Elevato al rango di profeta",
+        "Il suo popolo divenne pio"
+      ],
+      "answer": "Corpo conservato come segno"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

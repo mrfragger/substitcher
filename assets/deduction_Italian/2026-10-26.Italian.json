@@ -1,0 +1,61 @@
+{
+  "title": "Il sussurro nel vento",
+  "intro": "Immaginate un regno dove l'invisibile e il visibile si intrecciano, e vi trovate al cospetto di una figura nel cuore di un regno senza eguali. Quest'anima possiede una conoscenza che va oltre la portata ordinaria, comandando forze che gli altri possono solo immaginare. Eppure, anche il più potente può essere umiliato da una minuscola creatura, e la verità potrebbe rimanere celata fino al momento stabilito. Chi è questa figura la cui eredità riecheggia attraverso i secoli?",
+  "clues": [
+    "Mi è stato dato un regno che nessuno dopo di me avrebbe avuto.",
+    "Ho ereditato conoscenza e saggezza da un genitore a cui volevo molto bene.",
+    "Il vento era al mio comando, e si spostava ovunque desiderassi, secondo i miei ordini.",
+    "Riuscivo a capire il linguaggio degli uccelli, ed essi servivano nel mio esercito.",
+    "Ho ricevuto notizie da un uccellino riguardo a una regina che adorava il sole.",
+    "La mia morte rimase nascosta finché una creatura della terra non divorò il mio bastone, e solo allora i jinn si resero conto di non conoscere l'invisibile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Salomone",
+        "Profeta Dawud (Davide)",
+        "Il profeta Musa (Mosè)",
+        "Il profeta Isa (Gesù)",
+        "Il profeta Nuh (Noè)"
+      ],
+      "answer": "Profeta Salomone"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La visita della Regina di Saba",
+        "Essere gettato nel fuoco",
+        "Dividere il mare",
+        "Costruire un'arca",
+        "Essere inghiottito da una balena"
+      ],
+      "answer": "La visita della Regina di Saba"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il bastone consumato da una creatura della terra",
+        "Il bastone che si trasformò in un serpente",
+        "La cammella",
+        "L'arca",
+        "La balena"
+      ],
+      "answer": "Il bastone consumato da una creatura della terra"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "La sua morte fu tenuta nascosta ai jinn finché il suo bastone non venne mangiato.",
+        "Fu elevato al cielo vivo",
+        "Fu salvato dal fuoco per ordine di Allah.",
+        "Gli fu data la Torah",
+        "Fu salvato dalla balena"
+      ],
+      "answer": "La sua morte fu tenuta nascosta ai jinn finché il suo bastone non venne mangiato."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

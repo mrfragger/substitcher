@@ -1,0 +1,61 @@
+{
+  "title": "O Exército Que Foi Recebido por Argila Voadora",
+  "intro": "Na era anterior ao Profeta Maomé, um poderoso governante do Iêmen lançou uma campanha militar com o objetivo de destruir um santuário sagrado em Meca. Esse inimigo liderava um vasto exército, incluindo elefantes de guerra, confiante em sua força e superioridade numérica. Contudo, sua jornada terminaria abruptamente ao se depararem com uma inesperada intervenção divina. Você consegue identificar quem enfrentou esse notável acerto de contas?",
+  "clues": [
+    "Marchamos com um enorme exército e poderosos elefantes de guerra em direção à casa sagrada.",
+    "Tínhamos a intenção de arrancar e destruir um local de culto construído por servos do Misericordioso.",
+    "Um bando de passarinhos foi enviado contra nós, carregando pedras de barro em seus bicos e garras.",
+    "Fomos recebidos por um som que atirou pedras sobre nós, transformando-nos em restos pisoteados.",
+    "Eu era da terra do Iêmen e servi sob um governante que buscava profanar o santuário sagrado.",
+    "Fomos feitos exemplo para aqueles que ousam profanar o santuário de Deus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O Exército de Abraha al-Ashram",
+        "As Forças Etíopes",
+        "Os Conquistadores Persas",
+        "As legiões romanas",
+        "Os Invasores Beduínos"
+      ],
+      "answer": "O Exército de Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O cerco de uma fortaleza no deserto.",
+        "Uma invasão ao santuário sagrado em Meca",
+        "Uma batalha naval no mar",
+        "Uma rebelião contra um rei tirano",
+        "Em busca de um profeta perdido"
+      ],
+      "answer": "Uma invasão ao santuário sagrado em Meca"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O vale de Mina perto de Meca",
+        "O palácio de Sana'a no Iêmen",
+        "As montanhas de Tihamah",
+        "A antiga cidade de Jerusalém",
+        "As margens do Mar Vermelho"
+      ],
+      "answer": "O vale de Mina perto de Meca"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Vitória e destruição da casa sagrada",
+        "Derrota por pássaros carregando pedras de barro",
+        "Rendição pacífica e conversão",
+        "Fome e desastres naturais",
+        "Retirada devido às fortes chuvas."
+      ],
+      "answer": "Derrota por pássaros carregando pedras de barro"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

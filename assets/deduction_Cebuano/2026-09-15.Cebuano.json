@@ -1,0 +1,61 @@
+{
+  "title": "Ang pagkamaabiabihon nga nagdala og kahadlok",
+  "intro": "Sa usa ka siyudad nga gilamoy sa kadautan, usa ka matinud-anon nga sulugoon nakadawat ug wala damha nga mga bisita usa ka adlaw. Nabalaka sa ilang kaluwasan, kining tawhana mitanyag ug panalipod, apan ang mga tawo sa siyudad nangayo ug usa ka butang nga makauulaw. Gipasidan-an sa usa ka umaabot nga kalaglagan, ang sulugoon mikalagiw uban sa iyang pamilya sa tagoanan sa kagabhion, gibiyaan ang usa ka siyudad nga gimarkahan alang sa kalaglagan. Kinsa kining nag-inusarang magtutuo?",
+  "clues": [
+    "Gipadala ako isip mensahero ngadto sa katawhan nga nagbuhat ug makauulaw nga mga buhat.",
+    "Miabot ang wala damhang mga bisita sa akong balay, ug mas nabalaka ko sa ilang kaluwasan kaysa sa akong kaugalingon.",
+    "Nangayo ang akong mga tawo nga makigkita sa akong mga bisita tungod sa ilang daotang tuyo, ug naningkamot ko nga makiglantugi kanila.",
+    "Ang akong mga bisita nagpaila sa ilang kaugalingon isip mga anghel ug nagsugo kanako nga dad-on ang akong pamilya ug molakaw sa kagabhion.",
+    "Ang akong asawa wala motuman sa tawag sa pag-ikyas ug giatubang ang samang kalaglagan sama sa akong katawhan.",
+    "Ang akong siyudad nabalit-ad tungod sa ulan sa mga bato nga gipatong-patong nga lapok, ang kinatas-ang mga bahin niini nahimong labing ubos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Lut",
+        "Propeta Musa",
+        "Propeta Ibrahim",
+        "Propeta Nuh",
+        "Propeta Hud"
+      ],
+      "answer": "Propeta Lut"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang hangyo sa akong katawhan nga moduol sa akong mga bisita sa dautang paagi",
+        "Ang pagbahin sa dagat aron makaikyas sa usa ka malupigon",
+        "Ang pagtukod og dakong arka taliwala sa pagbiaybiay",
+        "Ang sakripisyo sa akong anak nga lalaki sa usa ka pagsulay sa pagtuo",
+        "Ang kasinatian sa pagkatulon sa usa ka dakong isda"
+      ],
+      "answer": "Ang hangyo sa akong katawhan nga moduol sa akong mga bisita sa dautang paagi"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang nabungkag nga siyudad sa akong katawhan",
+        "Ang bukid diin nakadawat ako og balaang pulong",
+        "Ang arka nga naglawig latas sa dakong baha",
+        "Ang bayeng kamelyo nga migawas gikan sa bato",
+        "Ang tanaman nga adunay tinago nga matarong nga bisita"
+      ],
+      "answer": "Ang nabungkag nga siyudad sa akong katawhan"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naluwas ko uban sa akong pamilya sa wala pa mapukan ang akong siyudad",
+        "Gipangulohan nako ang akong katawhan ngadto sa kagawasan tabok sa dagat",
+        "Nagtukod kog dakong arka ug naluwas sa dakong baha",
+        "Gihatagan ako og gahom ibabaw sa mga hangin ug mga jinn",
+        "Mapailubon kong giantos ang pag-antos ug gigantihan sa pamilya"
+      ],
+      "answer": "Naluwas ko uban sa akong pamilya sa wala pa mapukan ang akong siyudad"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

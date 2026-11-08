@@ -1,0 +1,61 @@
+{
+  "title": "La negació enmig de l'abundància",
+  "intro": "Et trobes entre un poble els mercats del qual bullen de comerç, però la seva balança s'inclina deshonestament. Un missatger els ha arribat amb advertències clares, però riuen i se'n van, confiats en la seva prosperitat. El cel comença a enfosquir-se, però ho veuen com una benedicció de pluja. Qui és aquesta gent?",
+  "clues": [
+    "Vam prosperar en terres de comerç i abundància, però els nostres cors es van endurir.",
+    "Un missatger va venir a nosaltres amb senyals del nostre Senyor, però vam fer cas omís dels seus avisos.",
+    "Érem coneguts pel nostre ofici, però fèiem poca cosa i enganyàvem la gent.",
+    "Vivíem entre arbres densos i vegetació exuberant, però donàvem les nostres benediccions per fetes.",
+    "Quan s'acostava un núvol fosc, ens alegàvem, pensant que portaria pluja a les nostres terres resseques.",
+    "En canvi, aquell núvol va desencadenar un càstig abrasador, i ens va envair el turment del dia de l'ombra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Ashab al-Aykah (Els Companys del Bosc)",
+        "Gent de Thamud",
+        "Gent d'Ad",
+        "Gent de Lut",
+        "Gent de Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Els Companys del Bosc)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Van rebutjar el seu missatger i van estafar en el comerç",
+        "Van adorar un vedell d'or i van ser enganyats",
+        "Practicaven la sodomia i atacaven els viatgers",
+        "Van construir torres altes i van desafiar Déu",
+        "Es van negar a compartir aigua i van fer mal a una camella"
+      ],
+      "answer": "Van rebutjar el seu missatger i van estafar en el comerç"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un bosc dens o matoll",
+        "Una muntanya esculpida en habitatges",
+        "Una ciutat vora el mar",
+        "Una vall desèrtica amb pous",
+        "Un jardí fèrtil amb molts fruits"
+      ],
+      "answer": "Un bosc dens o matoll"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruït per un núvol d'ombra de foc",
+        "Ofegat per una gran inundació",
+        "Engolit per un terratrèmol",
+        "Colpejat per un vent violent",
+        "Convertit en pedra"
+      ],
+      "answer": "Destruït per un núvol d'ombra de foc"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

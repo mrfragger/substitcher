@@ -1,0 +1,61 @@
+{
+  "title": "Czuwanie przy Płonącej Bramie",
+  "intro": "Milczący, groźny tłum stoi na straży przerażającego progu, nie próbując jedzenia, picia ani odpoczynku. Uformowani z substancji innej niż ludzka glina, czekają na jeden, straszliwy cel – i nigdy nie złamali ani jednego nakazu swego Pana.",
+  "clues": [
+    "Jesteśmy istotami innymi niż ludzie, stworzonymi z substancji, która nie je, nie pije i się nie męczy.",
+    "Nasza dokładna liczba jest znana i ujawniona w Księdze – nie jesteśmy ani niezliczeni, ani nie jesteśmy wielością.",
+    "Nigdy nie sprzeciwiliśmy się naszemu Stwórcy i nigdy nie odzywamy się bez polecenia.",
+    "Kiedy nadejdzie ten Dzień, niewierni zostaną przyprowadzeni do nas w grupach, a my otworzymy dla nich bramy.",
+    "Zapytamy ich: „Czyż nie przychodzili do was posłańcy spośród was samych, aby was ostrzegać przed tym Dniem?”",
+    "Strzeżemy miejsca, z którego nigdy nie wyjdzie żadna dusza – płonącej krainy wiecznej kary."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Strażnicy Ognia Piekielnego (Zabaniyah)",
+        "Nosiciele Tronu Allaha",
+        "Nagrywające anioły (Kiraman Katibin)",
+        "Aniołowie Śmierci",
+        "Strażnicy Raju"
+      ],
+      "answer": "Strażnicy Ognia Piekielnego (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Nasz podstawowy obowiązek",
+      "options": [
+        "Strzegący bram piekielnego ognia",
+        "Rejestrowanie każdego ludzkiego czynu",
+        "Niesienie Tronu Allaha",
+        "Zabieranie dusz zmarłych",
+        "Władanie wiatrem i chmurami"
+      ],
+      "answer": "Strzegący bram piekielnego ognia"
+    },
+    "location": {
+      "label": "Czego pilnujemy?",
+      "options": [
+        "Ogień piekielny",
+        "Tron Allaha",
+        "Zwoje czynów",
+        "Rzeki Raju",
+        "Góry Ziemi"
+      ],
+      "answer": "Ogień piekielny"
+    },
+    "outcome": {
+      "label": "Los tych, którzy są w naszej domenie",
+      "options": [
+        "Zostaną na zawsze i nigdy nie odejdą",
+        "W końcu zostaną ułaskawieni i zwolnieni",
+        "Z czasem zostaną oczyszczone",
+        "Zostaną przekształcone w inne formy",
+        "Będą na przemian przebywać w piekle i raju"
+      ],
+      "answer": "Zostaną na zawsze i nigdy nie odejdą"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

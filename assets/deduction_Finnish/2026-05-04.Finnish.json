@@ -1,0 +1,61 @@
+{
+  "title": "Ylimielisyyden arkkitehti",
+  "intro": "Muinaisessa maassa, jota hallitsi uhmakas mahti, avainhenkilöllä oli vaikutusvaltainen asema. Tämä sielu oli keskeisessä roolissa hallitsijan suurissa suunnitelmissa, myötävaikuttaen heidän sortavaan hallituskauteensa ja kyseenalaistaen jumalallisen sanoman. Heidän perintönsä on kietoutunut maallisen mahdin tavoitteluun ja totuuden kieltämiseen.",
+  "clues": [
+    "Palvelin mahtavaa hallitsijaa, joka sorsi kansaa sukupolvien ajan.",
+    "Nimeni mainitaan usein Jumalallisessa Kirjassa tämän voimakkaan johtajan rinnalla.",
+    "Minulle annettiin tehtäväksi suuri rakennusprojekti, kohoava rakennelma, jonka oli tarkoitus yltää taivaisiin.",
+    "Neuvoin isäntääni surmaamaan Israelin lasten pojat ja säästämään heidän tyttärensä.",
+    "Olin osallisena juonitteluissa ja salaliitoissa Allahin mahtavaa lähettilää vastaan.",
+    "Loppuni, isäntäni ja hänen armeijansa kanssa, saapui valtavan meren vesille."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Nimrod",
+        "Abraham",
+        "Goljat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Koeteltuna valtavalla rikkaudella",
+        "Armeijan johtaminen pyhää huonetta vastaan",
+        "Tornin rakentaminen Jumalan luokse",
+        "Heitetään tuleen uskonsa vuoksi",
+        "Sisarusten heittämä kaivoon"
+      ],
+      "answer": "Tornin rakentaminen Jumalan luokse"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Vuori",
+        "Torni",
+        "Valas"
+      ],
+      "answer": "Torni"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Suodaan valtavaa viisautta",
+        "Profeetaksi tuleminen",
+        "Maan nielaisemana",
+        "Kuningaskunnan myöntäminen",
+        "Hukkuminen mereen"
+      ],
+      "answer": "Hukkuminen mereen"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

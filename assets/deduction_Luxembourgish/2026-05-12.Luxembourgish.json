@@ -1,0 +1,61 @@
+{
+  "title": "Déi oniwwertraff Autoritéit",
+  "intro": "Iwwer antike Länner huet fréier eng mächteg Autoritéit d'Muecht gehalen, déi iwwer immens Ressourcen an d'Liewe vun onzählege Leit kontrolléiert huet. Trotz kloere Zeeche a Warnungen huet dësen Herrscher e Wee vum Trotz gewielt, wat zu enger déiwer Konfrontatioun gefouert huet, déi sech duerch d'Zäit widderhuele géif.",
+  "clues": [
+    "Ech hunn déi ultimativ Muecht an Autoritéit iwwer e grousst Gebitt behaapt.",
+    "Ech hunn e bescheidenen Bote erausgefuerdert, deen vum Här vun alle Räicher geschéckt gouf.",
+    "Meng Leit ware bekannt fir hir Meeschterschaft vu grousse Strukturen an dem Floss, deen eis Zivilisatioun ënnerstëtzt huet.",
+    "Ech war Zeie vu ville wonnerbare Zeechen, dorënner e Staff, deen sech an eng Schlaang verwandelt huet, an eng Hand, déi hell geglänzt huet.",
+    "Ech hunn refuséiert, eng Grupp vu versklavte Leit mäi Land verloossen ze loossen, trotz göttleche Geboter.",
+    "Meng Verfollegung vun de fortgoende Leit huet mech a meng Arméien an d'Häerz vun engem gespléckte Mier gefouert."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Yusuf",
+        "Kinnek Talut",
+        "Fir'awn (Pharao)",
+        "Prophet Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Pharao)"
+    },
+    "trial": {
+      "label": "Schlësselkonfrontatioun",
+      "options": [
+        "D'Iwwerschwemmung, déi d'Land iwwerschwemmt huet",
+        "D'Spaltung vum Mier",
+        "De brennende Busch",
+        "De Bau vun der Kaaba",
+        "D'Zerstéierung duerch e staarke Wand"
+      ],
+      "answer": "D'Spaltung vum Mier"
+    },
+    "location": {
+      "label": "Definéierenden Aspekt",
+      "options": [
+        "En schwätzend Déier",
+        "E Staf an eng stralend Hand",
+        "Eng wonnerbar Gebuert",
+        "E fléiende Teppech",
+        "En majestéiteschen Troun um Waasser"
+      ],
+      "answer": "E Staf an eng stralend Hand"
+    },
+    "outcome": {
+      "label": "Ultimativt Schicksal",
+      "options": [
+        "An den Himmel opgestiegen",
+        "Vun der Äerd verschléckt",
+        "Am Mier erdronk",
+        "An en Aaff transforméiert",
+        "Mat engem immense Räichtum a Muecht"
+      ],
+      "answer": "Am Mier erdronk"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

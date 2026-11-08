@@ -1,0 +1,61 @@
+{
+  "title": "La Plumita Skolto",
+  "intro": "Ene de regno regata de iu, al kiu oni donis regadon super la ventoj, la nevideblaj estaĵoj, kaj la ĉielaj kreitaĵoj, unu malgranda kaj rapida membro malaperis el la rangoj — nur por reveni kun revelacioj, kiuj transformus la sorton de malproksima nacio. Ĉi tiu akraokula informanto elportis veron al la lumo, kie nescio enradikiĝis. Kiu Mi Estas?",
+  "clues": [
+    "Mi servis en kortego, kie homoj, nevideblaj estaĵoj, kaj ĉielaj kreitaĵoj obeis al ununura saĝa reganto, kiu komandis la ventojn mem.",
+    "Mi forestis de mia posteno dum kelka tempo, kaj la kolero de la reganto estis promesita se mi ne donus kontentigan kialon.",
+    "Mi estas malgranda fluganta estaĵo, konata pro akra vidkapablo, kaj mia speco estis honorita per rekta nomado en la paĝoj de revelacio.",
+    "Kiam mi revenis, mi alportis novaĵojn pri malproksima lando, kie la homoj adorkliniĝis al la suno, blindaj antaŭ Tiu, kiu kreis la ĉielon kaj la teron.",
+    "Mi trovis virinon regantan super granda regno, sidantan sur belega trono, neniam antaŭe koninte la veron.",
+    "Mi estas tiu, kiu malkovris la sferon de Saba kaj portis invitleteron de profeto-reĝo, al kiu oni donis regadon super la vento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La Upupo (Hudhud)",
+        "La Formiko el la Valo de Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit la Ĝino",
+        "Anĝelo de la Trono"
+      ],
+      "answer": "La Upupo (Hudhud)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La ekspedicio al la Regno de Saba (Ŝeba)",
+        "La konflikto kun la sorĉistoj de Faraono",
+        "La diluvo de la profeto Nuh",
+        "La detruo de la popolo de 'Ad",
+        "La disiĝo de la Ruĝa Maro"
+      ],
+      "answer": "La ekspedicio al la Regno de Saba (Ŝeba)"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Lando de Saba (Ŝeba)",
+        "Monto Sinajo",
+        "La Arkeo de Profeto Nuh",
+        "La Kaverno de Aŝab al-Kahf",
+        "La Palaco de Faraono"
+      ],
+      "answer": "La Lando de Saba (Ŝeba)"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Bilqis venis submetiĝante al la kortego de Sulaiman",
+        "Faraono kaj lia armeo dronis en la maro",
+        "La popolo de 'Ad estis detruita de furioza vento",
+        "La sorĉistoj de Faraono kredis je la profeto Moiseo",
+        "Granda inundo konsumis la nekredantojn"
+      ],
+      "answer": "Bilqis venis submetiĝante al la kortego de Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Saray Managbantay na Hardin",
+  "intro": "Diad sakey a matalonggaring a hardin, sakey a komunidad so nanggawa na seryoson sipan. Balet asubok so determinasyon da nen sinmabi so madibinon linawa, ya ginawa ton ag-ontutubo so kayamanan da.",
+  "clues": [
+    "Abendisyonan kami na dakel a hardin, balet nagmaliw kamin mapaatagey.",
+    "Nanggawa kami na plano ya manani ya ag mi inabang ed saray mairap bilay.",
+    "Inmalis kamin masakbay ed kabuasan, ya matalek kami ed plano mi.",
+    "Balet nen sinmabi kami, aromog min aderal so hardin mi ed loob na sanlabi.",
+    "Amoria mi so lingo mi tan ginapoan min pabpabasolen so balang sakey.",
+    "Diad kaunoran et nagbabawi kami, balet ta atrasado kami lan naaralan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa Sikatayo?",
+      "options": [
+        "Saray totoo ed hardin",
+        "Saray totoo ed Ungeb",
+        "Saray totoo na Elepante",
+        "Saray totoo ed Thamud",
+        "Saray totoo na 'Ad"
+      ],
+      "answer": "Saray totoo ed hardin"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Sakey a hardin so nagmaliw a dapol",
+        "Sakey a delap ya aneral ed amin a bengatla",
+        "Sakey ya eras ya sinmabi ed dalin",
+        "Sakey ya armada na manok ya onaataki",
+        "Sakey a maksil a dagem ya amawala na saray kiew"
+      ],
+      "answer": "Sakey a hardin so nagmaliw a dapol"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey a hardin",
+        "Sakey ya ungib",
+        "Sakey a barko",
+        "Sakey a palandey",
+        "Sakey a palasyo"
+      ],
+      "answer": "Sakey a hardin"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Nagbabawi ira balet naandi so hardin da",
+        "Sikaray sigpot ya aderal",
+        "Sikaray nagmaliw ya ayep",
+        "Nilaban ira lapud pananisia ra",
+        "Nagmaliw iran manuley"
+      ],
+      "answer": "Nagbabawi ira balet naandi so hardin da"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "El son dels justos",
+  "intro": "En una època en què la fe era perillosa i els poderosos intentaven esclafar la creença, un petit grup d'ànimes joves va fer una elecció que ressonaria a través dels segles. Fugint de tot el que coneixien, van buscar refugi a la foscor amagada d'una muntanya i van dipositar la seva confiança completament en Al·là. El que va passar després es convertiria en un signe atemporal per a aquells que reflexionen.",
+  "clues": [
+    "Érem un grup de joves que creiem en el nostre Senyor, i Ell ens va donar més guia.",
+    "Ens vam presentar davant del nostre poble i vam declarar que mai invocaríem cap déu a part d'Al·là.",
+    "Vam buscar refugi en una cova, dient: «Senyor nostre, concedeix-nos misericòrdia teva i guia'ns correctament en el nostre assumpte».",
+    "Vam dormir durant molts anys, i el sol s'inclinava lluny de la nostra cova i no ens tocava.",
+    "El nostre gos jeia estirat a l'entrada de la cova, vigilant-nos com si estigués de guàrdia.",
+    "Quan ens vam despertar, ens vam preguntar quant de temps havíem esperat, i un de nosaltres va ser enviat amb monedes de plata a comprar menjar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent de la Cova",
+        "Gent de la trinxera",
+        "Gent del Sàbat",
+        "Gent de l'elefant",
+        "Companys del Bosc"
+      ],
+      "answer": "Gent de la Cova"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Van fugir a una cova per escapar de la persecució per la seva fe",
+        "Destruït per un vent violent",
+        "Engolit per la terra",
+        "Ofegat al mar",
+        "Colpejat per una tempesta de pedres"
+      ],
+      "answer": "Van fugir a una cova per escapar de la persecució per la seva fe"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un gos que guarda l'entrada de la cova",
+        "Una gran arca",
+        "Un bastó que es va convertir en una serp",
+        "Un ocell puput",
+        "Un vedell d'or"
+      ],
+      "answer": "Un gos que guarda l'entrada de la cova"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Van romandre a la cova durant 309 anys i després van ser aixecats com a senyal",
+        "Es van convertir en simis",
+        "Van ser destruïts per una inundació",
+        "Van ser obligats a creuar el mar",
+        "Els van donar un regne"
+      ],
+      "answer": "Van romandre a la cova durant 309 anys i després van ser aixecats com a senyal"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

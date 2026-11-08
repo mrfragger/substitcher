@@ -1,0 +1,61 @@
+{
+  "title": "Os viaxeiros do campo verdejante",
+  "intro": "Nun tempo antigo, dúas persoas coidaban terras veciñas. Os seus camiños estaban entrelazados, pero os seus corazóns levábanos cara a destinos moi diferentes. Un camiñou polo camiño recto, mentres que o outro se desviou na escuridade da negación. Poderás desentrañar o misterio destes dous gardiáns da colleita?",
+  "clues": [
+    "Posuía colleitas abundantes, colleitas exuberantes que deslumbraban os ollos dos espectadores.",
+    "O meu veciño posuía aínda maior xenerosidade ca min, pero eu cobizaba a súa porción máis que a miña.",
+    "Suxerín que destruísemos as súas colleitas por completo, para consolidar todo baixo o meu control.",
+    "Tamén trouxen a ruína á miña propia colleita, destruíndo todo nos meus tolos plans.",
+    "Quedei indefenso mentres as miñas colleitas murchaban e a miña riqueza se convertía en po nunha soa noite.",
+    "Non tiven parte no Alén, e a miña morada final converteuse nun pozo de lume abrasador."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "O home que negou a resurrección e o xuízo",
+        "O gobernante que oprimiu o labrego xusto",
+        "O rico terratenente que carecía de gratitude",
+        "O labrego que cobizaba a terra do seu veciño",
+        "O compañeiro traizoeiro que planeou a destrución"
+      ],
+      "answer": "O labrego que cobizaba a terra do seu veciño"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A proba de recibir a revelación divina",
+        "O desafío da riqueza e a paciencia",
+        "A tentación de destruír o sustento dunha persoa xusta",
+        "O mandato de dividir a herdanza de forma xusta",
+        "A loita contra a opresión dun tirano"
+      ],
+      "answer": "A tentación de destruír o sustento dunha persoa xusta"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Os verdes xardíns do paraíso",
+        "Dous campos de cultivo veciños",
+        "As montañas que presenciaron a destrución",
+        "O santuario sagrado da Meca",
+        "As ribeiras dunha terra bendita"
+      ],
+      "answer": "Dous campos de cultivo veciños"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O paraíso eterno como recompensa pola xustiza",
+        "Destrución completa de ambas colleitas nesta vida",
+        "Exilio e errancia ata a morte",
+        "Prosperidade temporal seguida de lume eterno",
+        "Unha restauración milagrosa e unha recompensa duplicada"
+      ],
+      "answer": "Destrución completa de ambas colleitas nesta vida"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

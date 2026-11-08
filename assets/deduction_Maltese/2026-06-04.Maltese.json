@@ -1,0 +1,61 @@
+{
+  "title": "Is-Sinjal Fost il-Ġebel",
+  "intro": "F’art fejn il-muntanji kienu mnaqqxa f’djar, wasal messaġġier b’sinjal mirakoluż mingħand Alla. In-nies talbu prova, u rċevew kreatura minn blata solida. Iżda l-arroganza tagħhom wasslithom biex jisfidaw it-twissija, u b’hekk issiġillaw id-destin tagħhom.",
+  "clues": [
+    "Intbgħatt għand poplu li kien jgħix fi djar imnaqqxa fil-muntanji.",
+    "Sfidawni biex inġib sinjal, għalhekk ħriġt ġemel minn blata.",
+    "Jiena ordnajthom biex iħallu l-ġemel jixrob b’xejn u ma jagħmlulux ħsara.",
+    "Huma ma obdewx u qatgħu l-ġonta tal-ġemel, u sfidaw it-twissija tiegħi.",
+    "Ħabbart li l-kastig kien se jiġi wara tlett ijiem.",
+    "Filgħodu, splużjoni qawwija qerdithom, imma jien u s-segwaċi tiegħi ġejna salvati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Salih",
+        "Profeta Hud",
+        "Profeta Lut",
+        "Il-Profeta Shu'ayb",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Il-Profeta Salih"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Talba għal ġemela minn blata",
+        "Id-domanda għal għoġol tad-deheb",
+        "Talba għal mejda mifruxa mis-sema",
+        "Id-domanda għal għargħar",
+        "Talba għal bastun biex isir serp"
+      ],
+      "answer": "Talba għal ġemela minn blata"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-ġemela u l-għoġol tagħha",
+        "L-Arka ta’ Noè",
+        "Il-Bastun ta’ Mosè",
+        "L-Għoġol tad-Deheb",
+        "In-Nar ta’ Ibrahim"
+      ],
+      "answer": "Il-ġemela u l-għoġol tagħha"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Meqrud minn splużjoni qawwija",
+        "Għerqet fl-għargħar",
+        "Mibela’ mill-art",
+        "Mibdula f'xadini",
+        "Meqrud minn riħ qawwi"
+      ],
+      "answer": "Meqrud minn splużjoni qawwija"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

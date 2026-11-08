@@ -1,0 +1,61 @@
+{
+  "title": "Banga ku temenê xwe derbas kir",
+  "intro": "Giyanekî xeyal bike ku bi tena serê xwe li hember tevahiya şaristaniyekê rawestiyaye, bi biryardarî wan ji rêya şaş dûr bixe û bi biryardariyeke bê şik û guman rêberiya wan bike. Bi sedsalan e ev peyam hatiye redkirin, tinaz lê hatiye kirin û redkirin - lê dîsa jî ev hewldan qet nesekiniye. Di dawiyê de, hesabpirsîneke mezin hatiye kirin û tenê çend kes li kêleka vî giyanê bêwestan rizgar bûne. Hûn dikarin vê kesayetiyê ji Quranê nas bikin?",
+  "clues": [
+    "Ez wek hişyarkerek ji bo miletekî ku di rêya xwe de winda bûye hatim şandin.",
+    "Min ew vexwend ku lêborînê bixwazin û ji şaşiyên xwe vegerin, lê wan zivirî.",
+    "Bi fermana xwedayî, min keştiyek mezin çêkir dema ku gelê min temaşe dikir û tinazên xwe bi min dikirin.",
+    "Min bênavber gazî Xudanê xwe kir - di dawiyê de wî bersiv da, û av ji ezman bi lehiyê herikî.",
+    "Dema ku avên lehiyê ji erdê bilind bûn, ez bi kesên ku bawer dikirin re li keştiyê siwar bûm.",
+    "Min gazî yekî ji wan kir ku li paş mabû, û min jê xwest ku li çiyayekî xwe biparêzin, lê ferman jixwe hatibû dayîn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Nûh",
+        "Pêxember Îbrahîm",
+        "Pêxember Mûsa",
+        "Pêxember Hûd",
+        "Pêxember Salih"
+      ],
+      "answer": "Pêxember Nûh"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Avakirina keştiyeke mezin û xilasbûna ji tofana cîhanî",
+        "Tê avêtin nav agirê geş",
+        "Rûbirûbûna bi zalimekî û sêrbazên wî yên bihêz",
+        "Ji aliyê masiyek mezin ve tê daqurtandin",
+        "Şahidiya kuştina deveke pîroz"
+      ],
+      "answer": "Avakirina keştiyeke mezin û xilasbûna ji tofana cîhanî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keştiyeke darîn a mezin li ser avên lehiyê yên dijwar",
+        "Geliyek pîroz bi kavilên kevirên kevnar",
+        "Şikefteke kûr ku heval bi sedsalan tê de razan",
+        "Zikê balîneyeke gewre di kûrahiya okyanûsê de",
+        "Çiyayekî kevirî yê bilind li çolê"
+      ],
+      "answer": "Keştiyeke darîn a mezin li ser avên lehiyê yên dijwar"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Digel bawermendan li ser keştîyê hat xilaskirin",
+        "Bi fermana îlahî bê zirar ji agir rizgar bû",
+        "Ji padîşahiyek bihêz derketinek mezin pêk anî",
+        "Ji masiyan avêtin ser peravê bêaqil",
+        "Bi nîşanek mûcîzeyî mirovan ji xeletiyê dûr xist"
+      ],
+      "answer": "Digel bawermendan li ser keştîyê hat xilaskirin"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

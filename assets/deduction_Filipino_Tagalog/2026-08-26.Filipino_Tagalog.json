@@ -1,0 +1,61 @@
+{
+  "title": "Ang Inggit na Lumalamon",
+  "intro": "Isang kuwentong mas matanda pa sa anumang kaharian o banal na kasulatan—ang unang trahedya ng tao na bunga ng inggit. Isang kaluluwa, ang panganay sa dalawang anak na ipinanganak sa mga unang magulang, ang nanood nang may galit habang ang isang nakababatang kapatid ay nakatanggap ng pabor na ipinagkait. Ang sumunod ay ang pinakamadilim na mga pagpili, na iniwan ang unang dugong nabuhos sa mundo. Matutuklasan mo ba ang pagkakakilanlan, ang pagsubok, at ang mapait na panghihinayang?",
+  "clues": [
+    "Ako ay isinilang mula sa pinakaunang pares ng mga taong lumakad sa mundo.",
+    "Minsan akong nag-alay kay Allah, ngunit hindi ito tinanggap mula sa akin.",
+    "Tinanggap ang handog ng kapatid ko, habang ang sa akin ay tinanggihan—isang bagay na hindi ko matanggap.",
+    "Pinagbantaan ko ang sarili kong kapatid ng kapahamakan.",
+    "Ako ang unang pumatay sa mundong ito, na kumitil sa buhay ng sarili kong kapatid.",
+    "Nagpadala si Allah ng isang nilalang sa lupa—isang itim na ibon na naghuhukay sa lupa—upang turuan ako kung paano itago ang aking nagawa, at wala akong naiwan kundi panghihinayang."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Propeta Yaqub",
+        "Propeta Musa",
+        "Propeta Adan"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Alay na tinanggihan ni Allah",
+        "Itinapon sa isang malaking apoy",
+        "Iniwan noong sanggol pa sa ilog",
+        "Sinubukan sa pamamagitan ng isang napakalaking kaharian",
+        "Inutusang isakripisyo ang anak na lalaki"
+      ],
+      "answer": "Alay na tinanggihan ni Allah"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang uwak na ipinadala ni Allah",
+        "Ang ginintuang guya",
+        "Ang arka sa ibabaw ng bundok",
+        "Ang nasusunog na palumpong",
+        "Ang kamelyong babae na inukit mula sa bato"
+      ],
+      "answer": "Ang uwak na ipinadala ni Allah"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Napuno ng panghihinayang at kabilang sa mga talunan",
+        "Nilunok sa lupa kasama ang mga kayamanan",
+        "Naging isang marangal na sugo ng Allah",
+        "Pumasok sa Paraiso sa pamamagitan ng banal na awa",
+        "Pinamunuan ang isang kaharian na walang kapantay"
+      ],
+      "answer": "Napuno ng panghihinayang at kabilang sa mga talunan"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

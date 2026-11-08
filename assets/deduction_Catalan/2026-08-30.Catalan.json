@@ -1,0 +1,61 @@
+{
+  "title": "L'Esperit de Revelació de confiança",
+  "intro": "En els regnes invisibles, un ésser de llum pura es mou amb precisió, executant cada ordre sense dubtar-ho. Aquesta figura ha parlat a servents escollits, ha portat paraules d'orientació i ha presenciat el desplegament dels decrets divins al llarg dels segles. Qui és aquesta ànima honorada?",
+  "clues": [
+    "Sóc un ésser de pura llum, creat a partir de la llum, i mai he desobeït ni un sol manament del meu Senyor.",
+    "Em moc entre els cels i la terra, descendint amb els decrets del Més Misericordiós.",
+    "Vaig ser enviat a una verge noble al santuari, anunciant-li un fill pur.",
+    "Sóc l'esperit de santedat i vaig donar suport a un profeta a qui se li van donar senyals clars i l'Evangeli.",
+    "Vaig arribar a una cova en una muntanya per pronunciar les primeres paraules d'una recitació que es preservaria per sempre.",
+    "Jo sóc l'esperit digne de confiança, i vaig ser Jo qui va fer baixar l'Alcorà sobre el cor del missatger final."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Miquel)",
+        "L'àngel de la mort",
+        "Malik (Guardià de l'Infern)",
+        "Harut (un dels dos àngels de Babilònia)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Missió/Rol clau",
+      "options": [
+        "Donar revelacions als profetes",
+        "Tocant la trompeta el Dia del Judici",
+        "Guardant les portes de l'infern",
+        "Registrar les accions dels humans",
+        "Fent que caigui la pluja"
+      ],
+      "answer": "Donar revelacions als profetes"
+    },
+    "location": {
+      "label": "Atribut clau o títol",
+      "options": [
+        "L'Esperit Sant (Ruh al-Qudus)",
+        "L'Esperit del Poder",
+        "L'Esperit de la Misericòrdia",
+        "L'Esperit de Guia",
+        "L'Esperit de la Veritat"
+      ],
+      "answer": "L'Esperit Sant (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Resultat de la Missió",
+      "options": [
+        "L'Alcorà va ser revelat al profeta Mahoma",
+        "La trompeta va ser tocada el Dia del Judici",
+        "L'infern estava custodiat i les seves portes estaven tancades",
+        "El Llibre dels Deures va ser presentat a Al·là",
+        "La pluja va ser enviada a la terra"
+      ],
+      "answer": "L'Alcorà va ser revelat al profeta Mahoma"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

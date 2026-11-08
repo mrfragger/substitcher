@@ -1,0 +1,61 @@
+{
+  "title": "Prakten som sank",
+  "intro": "Se for deg dette: en sjel kledd i fine klær og omgitt av skatter utenfor all fornuft. Denne personen trodde at rikdommen deres var tjent gjennom egen briljans, og anerkjente aldri kilden til sann forsyning. Vandrende blant tilhengerne til en mektig profet, avviste denne personen ethvert kall til ydmykhet. I dag avdekker vi identiteten til en skikkelse hvis storslåtte formue ble deres siste hvilested.",
+  "clues": [
+    "Jeg levde på den tiden da en profet kalte en gjenstridig nasjon til sannheten.",
+    "Jeg var en del av et utvalgt samfunn, men likevel vendte hjertet mitt seg bort fra budskapet.",
+    "Gull og sølv fascinerte meg mer enn noen guddommelig befaling.",
+    "Skattkammeret mitt ble så stort at en sterk gruppe menn knapt klarte å løfte nøklene.",
+    "Jeg skrøt av at jeg fikk min rikdom på grunn av min egen kunnskap.",
+    "Til slutt ble jeg og hele min bolig slukt av jorden som en advarsel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Arroganse over rikdom og avvisning av veldedighet",
+        "Smiing av et gyllent idol av smeltede smykker",
+        "Å erklære guddommelighet over et mektig rike",
+        "Forfølgelse av tidlige troende i Mekka",
+        "Leder en kampanje for å ødelegge Det hellige hus"
+      ],
+      "answer": "Arroganse over rikdom og avvisning av veldedighet"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Skatter hvis nøkler tynget mange sterke menn",
+        "En gullkalv som laget lyd",
+        "En strålende trone fra et fjernt land",
+        "En grøft fylt med flammende ild",
+        "En mektig hær av krigselefanter"
+      ],
+      "answer": "Skatter hvis nøkler tynget mange sterke menn"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Svelget av jorden sammen med boligen",
+        "Druknet i havet med en hær",
+        "Brent levende i en ildgrop",
+        "Ødelagt av en hylende, rasende vind",
+        "Slått ned av et enkelt kraftig anslag"
+      ],
+      "answer": "Svelget av jorden sammen med boligen"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

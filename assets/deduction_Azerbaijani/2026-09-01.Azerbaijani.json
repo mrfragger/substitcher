@@ -1,0 +1,61 @@
+{
+  "title": "Kənardan Gələn Səs",
+  "intro": "Siz üç elçinin açıq-aydın əlamətlərlə gəldiyi bir şəhərdə dayanırsınız, amma insanlar onları lağa qoyur və köhnə adətlərinə sadiq qalırlar. Şəhərin ən ucqar yerindən nəfəsi kəsilmiş və qətiyyətli bir fiqur rədd edilmə qarşısında həqiqəti demək üçün izdihama tərəf qaçır. Özünün deyil, mesaj üçün hər şeyini təhlükəyə atan bu ruh kimdir?",
+  "clues": [
+    "Mən elçiləri açıq-aydın möcüzələr gətirmiş, lakin onlar təkəbbürlə üz çevirən bir qövm arasında yaşayırdım.",
+    "Qasidlərin çağırışını eşidəndə şəhərin ən ucqar yerindən qaçaraq gəldim.",
+    "Mən qövmümə dedim: “Ey qövmüm, elçilərə tabe olun. Sizdən heç bir mükafat istəməyənlərə tabe olun, çünki onlar doğru yoldadırlar”.",
+    "Mən peyğəmbər deyildim, amma elçilərə inanırdım və qövmümə də eyni şeyi etməyə təşviq edirdim.",
+    "Xalqım məsləhətlərimi lağa qoyub məni ekstremist olmaqda günahlandırdı.",
+    "Onlar məni öldürəndə Allah mənə Cənnətə girməyimi əmr etdi və mən də kaş ki, qövmüm aldığım bağışlanmanı və şərəfi bilsəydi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şəhərin ən ucqar yerindən gələn adam (Ya-Sin)",
+        "Şəhərə göndərilən üç elçidən biri",
+        "Şəhərin görkəmli taciri",
+        "Şəhərin hökmdarı",
+        "Kafirlərin lideri"
+      ],
+      "answer": "Şəhərin ən ucqar yerindən gələn adam (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Öz xalqına elçilərə tabe olmağı tövsiyə edir",
+        "Möminləri daşqından xilas etmək üçün gəmi tikmək",
+        "İman üçün oda atılmaq",
+        "Balina tərəfindən udulmaq",
+        "Padşahlıq və hikmət verildi"
+      ],
+      "answer": "Öz xalqına elçilərə tabe olmağı tövsiyə edir"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Şəhərin ən ucqar hissəsi",
+        "Gəmi",
+        "Quyu",
+        "Yanan kol",
+        "Mağara"
+      ],
+      "answer": "Şəhərin ən ucqar hissəsi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Cənnətə girdi və qövmünün onun bağışlamasını bilməsini arzuladı",
+        "Mesajı rədd etdiyinə görə xalqı ilə birlikdə boğuldu",
+        "Dişi dəvə möcüzəsi verildi",
+        "Məhkəməsindən sonra hökmdar oldu",
+        "Allah tərəfindən xilas edildi və xalqı ilə qaldı"
+      ],
+      "answer": "Cənnətə girdi və qövmünün onun bağışlamasını bilməsini arzuladı"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

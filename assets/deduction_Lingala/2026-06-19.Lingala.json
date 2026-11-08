@@ -1,0 +1,61 @@
+{
+  "title": "Momekano ya Molimo oyo eumelaka",
+  "intro": "Molimo etelemi na ngonga moko ya komekama ya bonzambe, kolukaka bokambi na molende ya komikitisa. Ye oyo ayebi makambo nyonso abalusaka moluki oyo, kaka mpo na kobimisa na nsima ete oyo ezalaki komekama ya motema. Na nzela ya bosangisi oyo ya kobombama, liteya moko na ntina ya bwanya ya bonzambe esalemi liboso ya baoyo bakanisaka. Okoki koyeba motango oyo na lisolo ya Coran?",
+  "clues": [
+    "Nalukaki boyebi mpe bokambi epai ya momemi-nsango ya bolingo ya Allah",
+    "Nayaki koluka bosolo, kobelelaka Profeta na mposa makasi",
+    "Napamelamaki mpe nabalukaki, mpo mayele ya Allah ezalaki na mikano misusu mpo na ngonga wana",
+    "Nzokande nazangaki elikya te —na esika na yango, nakendeki liboso na koluka na ngai",
+    "Moto oyo ayebi nyonso asakolaki ete yango ezalaki komekama ya motema mpe likebisi",
+    "Nazalaki kati na baye Coran abimisi na ntina na bango: ‘Akangaki miso mpe abalukaki, mpo ete ayaki epai na ye moto oyo akufá miso’."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mokosi oyo azali koluka ntembe",
+        "Moto oyo akufá miso Molukaka Solo",
+        "Mosambeli ya bikeko ya Makkah",
+        "Mozangi kondima Azali Koseka Mosakoli",
+        "Moto ya mobembo oyo autaki na Yemen"
+      ],
+      "answer": "Moto oyo akufá miso Molukaka Solo"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kopamelama na Prophète Muhammad na tango ya losambo",
+        "Komekama na kokauka mpe nzala na Makkah",
+        "Kobalusama na baporte ya paradiso",
+        "Koboyama na bato na yo moko mpo na kondima",
+        "Komekama na bomengo mpe bana"
+      ],
+      "answer": "Kopamelama na Prophète Muhammad na tango ya losambo"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Na kati ya Kaaba na eleko ya pèlerinage",
+        "Na miso ya Ntoma na tango ya kotanga",
+        "Na likolo ya Ngomba Safa na ngonga ya tongo",
+        "Na zando ya Makkah ezingami na bato oyo bazangi kondima",
+        "Pene na libulu ya Zamzam na tango ya Hajj"
+      ],
+      "answer": "Na miso ya Ntoma na tango ya kotanga"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Moluki yango abomamaki martiru na Quraysh mpo na kondima",
+        "Likambo yango ekomamaki lokola momekano mpe liteya mpo na Ummah",
+        "Moluki akómaki moninga mpe mokambi",
+        "Bozwi ya moto oyo azalaki kolukaluka ekómaki mingi mbala zomi",
+        "Moluki azongaki na kozanga kondima"
+      ],
+      "answer": "Likambo yango ekomamaki lokola momekano mpe liteya mpo na Ummah"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

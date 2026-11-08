@@ -1,0 +1,61 @@
+{
+  "title": "Lo Gardian de la Pòrta del Solelh Levant",
+  "intro": "Al cors de l'Alcoran, certanas anmas travèrsan la tèrra en daissant de traças de saviesa e d'eston. Una d'aquelas figuras viatgèt als punts mai luènhs de la creacion — ont lo solelh se leva e se pòrta, ont una barrèra reten lo caos el meteis. Aquel servicial d'Allah recebèt un reialme que cap possediriá pas jamai. A travèrs tres viatges distinctes, lo propòsit d'aqueste individú venguèt clar. Podètz identificar aquel errant legendari demest las ombras de l'istòria?",
+  "clues": [
+    "Me foguèt concedida l'autoritat pel Mai Misericordiós per governar la tèrra d'un biais que degun mai a pas jamai capitat.",
+    "Viatgèri cap a l'oèst fins qu'arribèri a l'endrech ont lo solelh se pòrta, lo trobant que se pòrta dins una font escura, e i assistiguèri a un pòble.",
+    "Viatgèri cap a l'èst fins qu'arribèri a l'endrech ont lo solelh se leva, lo trobant levant sus un pòble per qui N'aviam pas provesit d'abric.",
+    "Viatgèri entre aqueles dos punts extrèms fins qu'arribèri dins una val entre doas montanhas, ont trobèri un pòble que podiá a pena comprene lo discors.",
+    "Trobèri sus la montanha doas barrèras duras de fèrre atenhent a drecha e a esquèrra, e entre elas, un passatge estrech. Aquelas personas me demandèron de traversar la barrèra en retenent lo caos.",
+    "Prenguèri ma provision e diguèri: 'Quand la barrèra traversarà, aquò serà una separacion clara entre nosautres e aquel pòble.' E quand l'ora fixada arribèt, regardèri la barrèra finalament trencada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Lo profèta Sulayman",
+        "Lo profèta Ibrahim",
+        "Lo Rei de Ghassaniyah",
+        "Dhul-Qarnain lo Errant"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Traversar la barrèra de fèrre pels pòbles de Yajuj e Majuj",
+        "Bastir la Nau jos lo comandament d'un profèta",
+        "Construccion d'un temple a Jerusalèm",
+        "Traversar la mar Roja amb lo pòble cresent",
+        "Bastir un barratge per protegir una nacion justa"
+      ],
+      "answer": "Traversar la barrèra de fèrre pels pòbles de Yajuj e Majuj"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La barrièra de fèrre entre doas montanhas",
+        "Lo vaissèl s'ancorèt sus una montanha",
+        "L'ostal sacrat de culte a Jerusalèm",
+        "Lo riu en la terra d' Egipte .",
+        "Lo potz de benediccions a Madyan"
+      ],
+      "answer": "La barrièra de fèrre entre doas montanhas"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La barrèra foguèt trencada quand lo moment fixat arribèt, e lo caos s'escampèt",
+        "Los descresents foguèron afogats del temps que los cresents foguèron salvats",
+        "Los justs foguèron guidats al paradís eternal",
+        "La vila foguèt destrucha per un vent cridant",
+        "Las idòlas foguèron esclafadas e lo pòble se penediguèt"
+      ],
+      "answer": "La barrèra foguèt trencada quand lo moment fixat arribèt, e lo caos s'escampèt"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

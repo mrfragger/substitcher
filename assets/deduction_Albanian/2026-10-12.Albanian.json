@@ -1,0 +1,61 @@
+{
+  "title": "Betimi i të Palindurit",
+  "intro": "Një shpirt i sinqertë bëri një premtim të shenjtë para ardhjes në jetë të një fëmije. Historia e kësaj figure zhvillohet brenda mureve të një shenjtëroreje, ku përkushtimi takon pranimin hyjnor. Kush është ky shërbëtor i Allahut?",
+  "clues": [
+    "Unë i përkisja një familjeje të nderuar në Kuran.",
+    "Bëra një betim solemn për ta përkushtuar fëmijën tim të palindur në shërbim të Allahut.",
+    "Kur linda, u habita kur zbulova se ishte një vajzë, megjithëse prisja një djalë.",
+    "Ia vura emrin fëmijës tim Merjem, një emër që pasqyron përkushtim dhe shërbim.",
+    "Kërkova mbrojtjen e Allahut për fëmijën tim dhe pasardhësit e saj nga shejtani i mallkuar.",
+    "Fëmija im u pranua nga Zoti dhe u vendos nën kujdesin e Profetit Zekerija në shenjtërore."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Gruaja e Imranit (nëna e Merjemes)",
+        "Asiya, gruaja e Faraonit",
+        "Merjemja, nëna e Isait",
+        "Nëna e Profetit Musa",
+        "Mbretëresha e Shebës"
+      ],
+      "answer": "Gruaja e Imranit (nëna e Merjemes)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Duke u betuar se do t'ia kushtojë fëmijën e saj tempullit",
+        "Duke u hedhur në zjarr",
+        "Kalimi i detit në tokë të thatë",
+        "Ndërtimi i një arke të madhe",
+        "Gëlltitja nga një peshk i madh"
+      ],
+      "answer": "Duke u betuar se do t'ia kushtojë fëmijën e saj tempullit"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Shenjtërorja (mihrabi) ku u vendos fëmija i saj",
+        "Arka e besëlidhjes",
+        "Viçi i artë",
+        "Shkopi që u shndërrua në gjarpër",
+        "Palma e hurmës nën të cilën pushoi ajo"
+      ],
+      "answer": "Shenjtërorja (mihrabi) ku u vendos fëmija i saj"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Fëmija i saj u pranua dhe u vendos nën kujdesin e Profetit Zekerija.",
+        "Ajo u shpëtua nga ndëshkimi i një tirani",
+        "Asaj i lindi një djalë me emrin Jahja.",
+        "Populli i saj u shkatërrua nga një stuhi",
+        "Ajo u bë mbretëreshë mbi një mbretëri të madhe"
+      ],
+      "answer": "Fëmija i saj u pranua dhe u vendos nën kujdesin e Profetit Zekerija."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

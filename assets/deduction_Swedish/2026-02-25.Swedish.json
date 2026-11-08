@@ -1,0 +1,61 @@
+{
+  "title": "Testet av den karga klippan",
+  "intro": "Ett skickligt och stolt samhälle högg in sitt arv i bergen. Men när ett tydligt tecken skickades till dem, ett prov på tro och återhållsamhet, ledde deras arrogans dem ner på en väg utan återvändo. Kan du identifiera denna grupp och konsekvensen av deras trots?",
+  "clues": [
+    "Vi var mästare på sten och högg ut magnifika bostäder direkt i bergssluttningarna.",
+    "En budbärare från vårt eget folk kom till oss och kallade oss att dyrka den ende sanne Guden.",
+    "Vi krävde ett tecken för att bevisa hans ord, och en unik varelse framträdde som ett test för oss.",
+    "Vi fick en enkel befallning: att dela vår vattenkälla med den här varelsen och låta den dricka på sin bestämda dag.",
+    "I vår arrogans konspirerade några bland oss ​​och vi trotsade varningen och slog ihjäl den varelse som var tänkt att vara vårt tecken.",
+    "Vi fick tre dagar före vår undergång, och sedan grep en mäktig vindpust oss i våra hem och lämnade oss livlösa och omkullkastade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Folket i 'Ad",
+        "Människor i Madyan",
+        "Folket i Thamud",
+        "Sabas folk",
+        "Luts folk"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Vad var vårt primära test?",
+      "options": [
+        "Att bygga en ark för att överleva en översvämning",
+        "Att motstå frestelsen att fiska på sabbaten",
+        "Att ge upp bedrägliga affärsmetoder",
+        "Skyddar en mirakulös honkamel",
+        "Att uthärda en sjuårig hungersnöd"
+      ],
+      "answer": "Skyddar en mirakulös honkamel"
+    },
+    "location": {
+      "label": "Vad var det centrala elementet i vår berättelse?",
+      "options": [
+        "Guldkalven",
+        "Honkamelen",
+        "Profeten Musas stav",
+        "Den stora Ma'rib-dammen",
+        "Bordet dukat från himlen"
+      ],
+      "answer": "Honkamelen"
+    },
+    "outcome": {
+      "label": "Vad blev vårt slutliga öde?",
+      "options": [
+        "Drunknade i en stor syndaflod",
+        "Förvandlades till apor och svin",
+        "Överväldigad av en rasande vind",
+        "Spridd av en damms sprängning",
+        "Förstördes av en kraftig explosion/jordbävning"
+      ],
+      "answer": "Förstördes av en kraftig explosion/jordbävning"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

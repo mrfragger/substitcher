@@ -1,0 +1,61 @@
+{
+  "title": "Trón, ktorý putoval v okamihu",
+  "intro": "Bohatému kráľovstvu, požehnanému nesmiernym bohatstvom, vládla postava s nesmiernou autoritou. Keď sa objavila neočakávaná výzva, tento vládca čelil skúške nie mečov, ale múdrosti a viery. To, čo sa odohralo, viedlo od vrcholu svetskej moci k hlbokej premene srdca.",
+  "clues": [
+    "Vládol som kráľovstvu požehnanému bohatstvom a prosperitou, ktorá prevyšovala všetky očakávania.",
+    "Bol som mocný panovník, ktorý dostal odvážny list požadujúci podriadenosť",
+    "Moji šľachtici mi radili, či mám bojovať, alebo uzavrieť mier s týmto vzdialeným kráľom",
+    "S veľkolepými darmi som sa vydal na stretnutie s týmto vzdialeným kráľom.",
+    "Môj kráľovský trón bol prenesený do ďalekej krajiny v okamihu, skôr ako som sa mohol vrátiť",
+    "Keď som vošiel do paláca s podlahou hladkou ako sklo, nakoniec som vyhlásil svoju odovzdanosť Alahovi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Bilqis, kráľovná zo Sáby",
+        "Manželka faraóna",
+        "Manželka Al-Aziza",
+        "Maryam, dcéra Imrána",
+        "Manželka proroka Luta"
+      ],
+      "answer": "Bilqis, kráľovná zo Sáby"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Dostal som odvážny list s požiadavkou na podanie",
+        "Byť uvrhnutý do planúceho ohňa",
+        "Byť prehltnutý veľkou rybou",
+        "Trvalé roky bolestivej choroby",
+        "Svedkom zničenia ľudu potopou"
+      ],
+      "answer": "Dostal som odvážny list s požiadavkou na podanie"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Veľkolepý kráľovský trón zo zlata a drahokamov",
+        "Palica, ktorá rozdelila more",
+        "Archa odpočívajúca na vrchu hory",
+        "Posvätný dom uctievania v Mekke",
+        "Zlaté teľa uctievané ľuďmi"
+      ],
+      "answer": "Veľkolepý kráľovský trón zo zlata a drahokamov"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Odovzdanie sa Alahovi po boku proroka",
+        "Utopenie sa v mori pri prenasledovaní nepriateľa",
+        "Zázračne zachránený pred planúcim požiarom",
+        "Vyhnanstvo zo záhrady večnej blaženosti",
+        "Získanie kráľovstva nesmiernej moci"
+      ],
+      "answer": "Odovzdanie sa Alahovi po boku proroka"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

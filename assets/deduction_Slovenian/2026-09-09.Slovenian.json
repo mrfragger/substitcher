@@ -1,0 +1,61 @@
+{
+  "title": "Prva duša, ki je vstala",
+  "intro": "Dolgo preden je kateri koli poslanec hodil po zemlji, preden je bilo razodeto katero koli sveto pismo, je nastalo bitje, ki ni bilo podobno nobenemu drugemu. To dušo so oblikovale božanske roke, ji je bil dan prostor neprimerljive lepote in preizkušena na način, ki bo odmeval skozi vso človeško zgodovino. Sledila je zgodba o šibkosti, iskrenem kesanju in usodi, ki bo za vedno spremenila potek stvarjenja. Ali lahko uganete, kdo je to?",
+  "clues": [
+    "Iz prahu zemlje so me oblikovale roke Najusmiljenejšega",
+    "Dobil sem dom neprimerljive lepote, kjer se me nista mogla dotakniti ne lakota ne utrujenost",
+    "Zapovedano mi je bilo, naj se nikoli ne približam nobenemu drevesu, ker je bilo prepovedano",
+    "S spremljevalcem sva bila prevarana in sva se proti Gospodovemu ukazu približala prepovedanemu drevesu.",
+    "Z iskrenim kesanjem smo se obrnili k našemu Gospodu in odpuščeni so nam bili naši prestopki.",
+    "Od nas izvira vse človeštvo; jaz sem prvi, ki je hodil po tej zemlji."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Adam",
+        "Prerok Musa",
+        "Prerok Nuh",
+        "Prerok Jusuf",
+        "Prerok Isa"
+      ],
+      "answer": "Prerok Adam"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Skušnjava prepovedanega drevesa",
+        "Soočenje s faraonom",
+        "Gradnja velike barke",
+        "Žrtvovanje ljubljenega sina",
+        "Biti vržen v velik ogenj"
+      ],
+      "answer": "Skušnjava prepovedanega drevesa"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Prepovedano drevo",
+        "Goreči grm",
+        "Zlata palica",
+        "Velika barka",
+        "Zlato tele"
+      ],
+      "answer": "Prepovedano drevo"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Poslan na zemljo kot prvi skrbnik človeštva",
+        "Faraon in njegova vojska sta se utopila v morju",
+        "Velika poplava je uničila hudobne",
+        "Ogenj je postal hladen in miren",
+        "Podeljena mu je bila oblast nad Egiptovskim kraljestvom"
+      ],
+      "answer": "Poslan na zemljo kot prvi skrbnik človeštva"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

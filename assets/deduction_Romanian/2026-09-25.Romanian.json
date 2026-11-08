@@ -1,0 +1,61 @@
+{
+  "title": "Barajul care a rupt un regat",
+  "intro": "Un ținut cu râuri curgătoare, două grădini verzi și o prosperitate de neegalat — dar locuitorii săi au devenit nepăsători față de Cel care i-a binecuvântat. Când au primit avertismente care i-au chemat înapoi, s-au întors. Ceea ce a urmat a fost o pedeapsă care încă răsună ca un avertisment. Cine era această comunitate străveche?",
+  "clues": [
+    "Trăiam într-o țară atât de binecuvântată încât casa noastră se afla între două grădini verzi.",
+    "Ne-am bucurat de râuri care curgeau prin pământurile noastre și de recolte abundente care ne umpleau casele.",
+    "Totuși, când am fost chemați la recunoștință și ascultare față de Domnul nostru, ne-am îndepărtat cu mândrie.",
+    "Bogăția și ușurința noastră ne-au făcut să-L uităm pe Cel care ne-a dăruit totul.",
+    "Apoi a venit un torent brusc care a străpuns marea barieră pe care ne bazasem.",
+    "Noi suntem poporul din Saba, al cărui pământ era cunoscut pentru marele baraj Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oamenii din Saba",
+        "Oamenii din tranșee",
+        "Companionii Fântânii",
+        "Oamenii din Tubba'",
+        "Oamenii din Madian"
+      ],
+      "answer": "Oamenii din Saba"
+    },
+    "trial": {
+      "label": "Căderea noastră",
+      "options": [
+        "Inundații cauzate de spargerea unui baraj",
+        "Un vânt violent din cer",
+        "Arzând într-un șanț de foc",
+        "Un cutremur masiv",
+        "Înecându-se într-o mare inundație"
+      ],
+      "answer": "Inundații cauzate de spargerea unui baraj"
+    },
+    "location": {
+      "label": "Locație cheie",
+      "options": [
+        "Barajul Ma'rib",
+        "Muntele Sinai",
+        "Peștera celor șapte adormiți",
+        "Rugul Aprins",
+        "Despicarea mării"
+      ],
+      "answer": "Barajul Ma'rib"
+    },
+    "outcome": {
+      "label": "Soarta noastră",
+      "options": [
+        "Două grădini amare au înlocuit-o pe cea luxuriantă a noastră",
+        "Grădinile noastre au devenit și mai luxuriante",
+        "Pământul s-a scufundat sub mare",
+        "Am fost îngropați în cenușă vulcanică",
+        "Națiunea noastră s-a împărțit în douăsprezece triburi"
+      ],
+      "answer": "Două grădini amare au înlocuit-o pe cea luxuriantă a noastră"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

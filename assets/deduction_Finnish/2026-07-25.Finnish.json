@@ -1,0 +1,61 @@
+{
+  "title": "Kahden puutarhan asukkaat",
+  "intro": "Maassa, jossa siunaukset virtasivat yltäkylläisesti, eräs yhteisö nautti aikoinaan kahden upean puutarhan antimista. Heidän elämänsä oli osoitus jumalallisesta suosiosta, mutta heidän tarinansa kääntyi, kun kiitollisuus hiipui. Tämä johti muutokseen, josta tulisi pysyvä merkki kaikille, jotka asiaa pohtivat.",
+  "clues": [
+    "Me olimme kansa, jota oli siunattu helppouden ja yltäkylläisyyden maalla.",
+    "Herramme lahjoitti meille kaksi upeaa puutarhaa, reheviä ja hedelmällisiä joka puolelta.",
+    "Meitä käskettiin olemaan kiitollisia, mutta me valitsimme kiittämättömyyden ja käännyimme pois.",
+    "Suuri pato pidätteli vesiä, jotka antoivat elämää maallemme.",
+    "Kun jatkoimme väärintekojamme, pato murtui ja tulvavedet pyyhkäisivät läpi.",
+    "Aikoinaan rehevät puutarhamme korvautuivat karvailla hedelmillä, tamariskipuulla ja muutamalla lootuspuulla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Saban kansa",
+        "Thamudin kansa",
+        "Madyanin kansa",
+        "Luolan seuralaiset",
+        "Norsun kansa"
+      ],
+      "answer": "Saban kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Raju tuuli seitsemän yötä",
+        "Kivisade taivaalta",
+        "Tuhoisa tulva räjähtävästä padosta",
+        "Kova kirkaisu taivaalta",
+        "Hukkuminen mereen"
+      ],
+      "answer": "Tuhoisa tulva räjähtävästä padosta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Ma'ribin suuri pato",
+        "Wadi al-Quran laakso",
+        "Iramin puutarha",
+        "Zamzamin kaivo",
+        "Siinain vuori"
+      ],
+      "answer": "Ma'ribin suuri pato"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Puutarhamme korvautuivat karvailla hedelmillä ja harvapuuisilla puilla",
+        "Maa nielaisi meidät maanjäristyksessä",
+        "Meidät muutettiin apinoiksi ja sioiksi",
+        "Meidät hukkui suureen tulvaan",
+        "Meidät tuhosi kivisade"
+      ],
+      "answer": "Puutarhamme korvautuivat karvailla hedelmillä ja harvapuuisilla puilla"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

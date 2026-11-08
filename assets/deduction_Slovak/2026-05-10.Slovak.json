@@ -1,0 +1,61 @@
+{
+  "title": "Stavitelia veží",
+  "intro": "V dávnej minulosti vznikla mocná civilizácia, ktorá sa vyznačovala pôsobivými stavebnými činmi a ohromujúcou silou. Táto kolektívna entita dostala bohaté zdroje a fyzickú zdatnosť, no napriek tomu si zvolila cestu vzdoru proti božskému posolstvu, ktoré ju malo viesť. Ich príbeh slúži ako hlboké ponaučenie v análoch histórie, svedectvo o dôsledkoch odmietnutia pravdy.",
+  "clues": [
+    "Bola nám daná nesmierna fyzická sila a vzrast, na rozdiel od iných ľudí našej doby.",
+    "Boli sme známi tým, že sme stavali honosné stavby a vznešené stĺpy na každom výšine v domnení, že budeme žiť večne.",
+    "Posol z nášho radov bol vyslaný, aby nás varoval a vyzýval nás, aby sme uctievali iba Alaha a opustili svoje modly.",
+    "Arogantne sme sa pýtali nášho posla, či k nám prišli len preto, aby sme uctievali Alaha a opustili to, čo uctievali naši predkovia.",
+    "Naša krajina bola požehnaná záhradami, prameňmi a úrodnými poľami, ale svoju prosperitu sme pripisovali vlastnej sile, nie nášmu Stvoriteľovi.",
+    "Za našu vytrvalú nedôveru a výsmech nás nakoniec zničil desivý, zúrivý vietor, ktorý zúril mnoho dní a nocí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z Thamudu",
+        "Ľudia z Fir'aunu",
+        "Ľudia z Nuha",
+        "Ľudia z Madyanu",
+        "Ľudia z 'Ad"
+      ],
+      "answer": "Ľudia z 'Ad"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Požiadaný o obetovanie konkrétnej ťavy",
+        "Výzva na vytvorenie desiatich súr ako Korán",
+        "Ukázané rozdelenie mora",
+        "Varovanie proroka pred blížiacou sa potopou",
+        "Odmietnutie proroka, ktorý varoval pred nadmernou výstavbou a uctievaním modiel"
+      ],
+      "answer": "Odmietnutie proroka, ktorý varoval pred nadmernou výstavbou a uctievaním modiel"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Archa",
+        "Zamestnanci",
+        "Oheň",
+        "Mesto Sodoma",
+        "Vznešené piliere a pevné obydlia"
+      ],
+      "answer": "Vznešené piliere a pevné obydlia"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Utopený vo veľkej povodni",
+        "Pohltený zemou",
+        "Premenené na opice a svine",
+        "Zničené hromovým výbuchom",
+        "Zničený zúrivým, ničivým vetrom"
+      ],
+      "answer": "Zničený zúrivým, ničivým vetrom"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

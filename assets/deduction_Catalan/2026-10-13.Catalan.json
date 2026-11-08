@@ -1,0 +1,61 @@
+{
+  "title": "L'adversari ardent",
+  "intro": "En els primers dies de la revelació, una figura va emergir com a oponent tossut de la veritat. Beneïda amb riquesa i estatus, aquesta ànima va triar l'orgull per sobre de la guia, i la seva història es va convertir en un clar avís als versos finals d'una sura.",
+  "clues": [
+    "Vaig viure a la mateixa ciutat que el Profeta, i era un dels seus parents més propers, però el meu orgull em va mantenir allunyat de la veritat.",
+    "Posseïa grans riqueses i nombroses propietats, i pensava que els meus recursos sempre em protegirien.",
+    "Quan el missatge va ser revelat, me'n vaig burlar obertament i vaig girar la mirada, considerant-me superior als creients.",
+    "La meva enemistat era tan notòria que una sura de l'Alcorà es va dirigir directament a mi, anomenant-me pel nom que els altres em coneixien.",
+    "Em van advertir que la meva riquesa i els meus guanys no em servirien de res, i que seria llançat a un foc ardent.",
+    "Sóc conegut com el pare de la flama, i la meva dona portarà la llenya amb una corda de fibra de palma al voltant del coll."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va rebutjar l'Islam i es va oposar obertament al Profeta",
+        "Conspiraven per assassinar el Profeta",
+        "Va liderar un boicot social contra els musulmans",
+        "Va lluitar a la batalla de Badr",
+        "Bilal ibn Rabah, torturat"
+      ],
+      "answer": "Va rebutjar l'Islam i es va oposar obertament al Profeta"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una corda de fibra de palma",
+        "Una espasa afilada",
+        "Una cadena pesada",
+        "Un bastó de fusta",
+        "Un fuet de cuir"
+      ],
+      "answer": "Una corda de fibra de palma"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Cremarà en un foc ardent",
+        "Es va penedir i es va convertir en un company",
+        "Va perdre la seva riquesa però va morir honorat",
+        "Va fugir a Abissínia",
+        "Ofegat al mar"
+      ],
+      "answer": "Cremarà en un foc ardent"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

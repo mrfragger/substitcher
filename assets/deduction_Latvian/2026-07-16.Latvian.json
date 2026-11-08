@@ -1,0 +1,61 @@
+{
+  "title": "Balss, kas izaicināja elka valdīšanu",
+  "intro": "Starp Visvarenā vēstnešiem bija kāds nelokāms kalps, kurš spītīgas tautas vidū cēlās, lai nestu patiesību. Viņu tauta bija pieņēmusi izdomātu dievību, novēršoties no visa esošā Radītāja. Ar nelokāmu apņēmību šī persona viņus aicināja atpakaļ, taču vēstījums tika uztverts ar noliegumu un atraidījumu. Izpēti pavedienus, lai atklātu, kas bija šis uzticīgais kalps.",
+  "clues": [
+    "Es tiku sūtīts kā vēstnesis pie spītīgiem ļaudīm, kas bija tālu nomaldījušies no taisnā ceļa.",
+    "Es atnācu atgādināt savai tautai par To, kurš radīja visu, kas pastāv — labāko no visiem radītājiem.",
+    "Mana tauta bija pievērsusies viltus elkam, ko tā pielūdza un piesauca dienu un nakti.",
+    "Es viņus drosmīgi izaicināju, jautājot, kāpēc viņi pielūgtu izdomātu dievību un pamestu savu patieso Kungu.",
+    "Viņi mani noliedza, atteicās klausīt un stingri turējās pie saviem meliem – tomēr mans Kungs mani pasargāja.",
+    "Es esmu Iļjass — un man tika dāvāts miers, un es tiku pieskaitīts Visžēlīgākā ticīgajiem kalpiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Iļja",
+        "Pravietis Idriss",
+        "Pravietis Aliasa",
+        "Pravietis Dhul-Kifls",
+        "Pravietis Nuhs"
+      ],
+      "answer": "Pravietis Iļja"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Aicinot tautu atteikties no Baala pielūgšanas",
+        "Sastopoties ar tirānu, kurš apgalvoja, ka ir dievs",
+        "Brīdinot iedzīvotājus par gaidāmajiem plūdiem",
+        "Iemests lielā, degošā ugunī",
+        "Vadot iziešanu no verdzības zemes"
+      ],
+      "answer": "Aicinot tautu atteikties no Baala pielūgšanas"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Elks vārdā Ba'al",
+        "Liels šķirsts, kas celts no izturīga koka",
+        "Personāla stienis, kas pāršķīra plašu jūru",
+        "Svēts apģērbs, kas notraipīts ar asinīm",
+        "Degošs krūms uz svētā kalna"
+      ],
+      "answer": "Elks vārdā Ba'al"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Piešķirts miers un pieskaitīts pie Allāha izredzētajiem kalpiem",
+        "Ievesta paradīzē, kamēr visas pārējās tika iznīcinātas",
+        "Izglābts no liela ugunsgrēka, kas kļuva vēss un drošs",
+        "Dota vara pār džiniem, cilvēci un vēju",
+        "Ķermenis saglabāts kā paliekoša zīme gadsimtiem ilgi"
+      ],
+      "answer": "Piešķirts miers un pieskaitīts pie Allāha izredzētajiem kalpiem"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

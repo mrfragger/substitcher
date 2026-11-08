@@ -1,0 +1,61 @@
+{
+  "title": "La Comunautat que Desfièt lo Jorn del Repaus",
+  "intro": "Entratz dins un establiment costièr ont un comandament divin reservava un jorn per l'adoracion e la retenéncia. Un grop dins aquela comunautat causiguèt de testar los limits d'aquel comandament amb un plan astuciós, menant a una transformacion que fariá resson dins los sègles. Qui èran aquelas anmas, e qué ne venguèt?",
+  "clues": [
+    "Viviam prèp de la còsta, ont la mar nos provesissiá de subsisténcia.",
+    "Nos foguèt comandat d'onorar un jorn de la setmana, en lo daissant de costat de las activitats mondanas.",
+    "Aquel jorn, los peisses nos venguèron en grand nombre, coma se nos temptavan de trencar lo comandament.",
+    "Concebèrem un plan per atrapar los peisses la vesprada del jorn sacrat, puèi los reculhir après que passèsse.",
+    "Quand qualques unes d'entre nosautres avertiguèron contra aquela engana, ignorèrem lor conselh e persistèrem.",
+    "Per nòstra transgression, foguèrem transformats en simis, mespresats e rebutats."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo pòble del sabbat",
+        "La Gent de la Fossa",
+        "Lo Gènt del Bosc",
+        "Las Gènts de l'Òrt",
+        "Lo Pòble de l'Elefant"
+      ],
+      "answer": "Lo pòble del sabbat"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Pesca lo sabbat",
+        "Bastir una torre elevada",
+        "Tuar una camèla sacrada",
+        "Negant un profèta lor mandat",
+        "Transgredir dins los peses de comèrci"
+      ],
+      "answer": "Pesca lo sabbat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La mar e sos peisses",
+        "Lo fuòc que se fasiá refregir .",
+        "Lo baston que venguèt una sèrp",
+        "L'arca de la salvacion",
+        "Las tauletas de pèira"
+      ],
+      "answer": "La mar e sos peisses"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Transformats en simis",
+        "Engolit per la tèrra",
+        "Destruit per un vent ferotge",
+        "Afogat dins la mar",
+        "Tustat per una pluèja de pèiras"
+      ],
+      "answer": "Transformats en simis"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

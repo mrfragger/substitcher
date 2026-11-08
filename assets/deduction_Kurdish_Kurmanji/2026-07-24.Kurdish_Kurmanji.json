@@ -1,0 +1,61 @@
+{
+  "title": "Komplovanê Veşartî",
+  "intro": "Hûn xwe di hebûna kesayetiyek bihêz ji rojên wehyê de dibînin. Ev kes bi aqil, dewlemendî û statuya xwe di nav gelê xwe de dihat nasîn. Dema ku nîşanên zelal hatin, wan bedewiya wê nas kirin lê dîsa jî li şûna teslîmbûnê serîhildan hilbijartin. Çi ev giyan ber bi komployê di tariyê de ve bir, û çarenûsa wî ya dawî çi bû?",
+  "clues": [
+    "Ez bi çavkanî û bandoreke zêde hatim pîrozkirin, û min di civînan de peyva xwe giran dikir.",
+    "Dema gotinên xwedayî dihatin xwendin, min nedikarî xweşgotina wan înkar bikim, lê serbilindiya min nehişt ku ez teslîm bibim.",
+    "Min şêwirmendên xwe civandin, xwe tenê hiştim da ku rêyekê bibînim da ku peyamê bêbawer bikim.",
+    "Piştî gelek fikirînê, min îlan kir ku ji bo dûrxistina mirovan tiştek din nîne ji bilî 'sêhreke ku ji demên berê ve hatiye veguhastin'.",
+    "Paşê wehyê rasterast ji min re got: 'Min bi yê ku min afirand re bihêle.' Ez ji ber planên min hatim hilbijartin.",
+    "Di demek nêzîk de, ew agirê ku min li ser hatibû hişyarkirin, wê bi serê min bigire, û ez ê nikaribim birevim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "El-Welîd ibn el-Muxîre",
+        "Ebû Leheb",
+        "Ebû Cehl",
+        "Uqbe ibn Ebî Mu'ayt",
+        "El-Nedr ibn el-Haris"
+      ],
+      "answer": "El-Welîd ibn el-Muxîre"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Plana kuştina Pêxember kirin",
+        "Li dijî Misilmanan boykot hat kirin",
+        "Ji bo ku Quranê wekî sêrbazî bi nav bikin, encumenek kom kir",
+        "Plana derxistina Pêxember ji Mekkeyê hatiye kirin",
+        "Red kir ku dewlemendiya xwe bi sêwiyan re parve bike"
+      ],
+      "answer": "Ji bo ku Quranê wekî sêrbazî bi nav bikin, encumenek kom kir"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Peyxama Yûhenna",
+        "Encûmen",
+        "Pêşqirçik",
+        "Dewlemendî",
+        "Pênûs"
+      ],
+      "answer": "Pêşqirçik"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ewî tobe kir û ola îslamê qebûl kir",
+        "Ew koçî Habeşistanê kir",
+        "Ew bi nexweşiyeke mirinê ket",
+        "Di şerê li dijî Misilmanan de ew hat kuştin.",
+        "Ew ji bo Cehennemê hate mehkûmkirin"
+      ],
+      "answer": "Ew ji bo Cehennemê hate mehkûmkirin"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

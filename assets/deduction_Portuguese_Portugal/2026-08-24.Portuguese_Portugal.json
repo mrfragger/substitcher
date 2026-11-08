@@ -1,0 +1,61 @@
+{
+  "title": "Os ouvintes ocultos que acreditaram",
+  "intro": "Na quietude de uma assembleia sagrada, uma notável congregação chegou de um reino invisível. Atraídos por sussurros de algo maravilhoso, eles ouviram uma recitação que selaria seu destino para sempre. Seu testemunho permanece um dos mais singulares das escrituras divinas.",
+  "clues": [
+    "Somos seres de um reino invisível para a maioria, e viemos em grupo.",
+    "Viajamos em direção a uma reunião para ouvir algo extraordinário.",
+    "Quando chegamos, ouvimos uma recitação que nos deixou maravilhados.",
+    "Reconhecemos abertamente que alguns entre nós são justos e outros não.",
+    "Sabíamos que não podíamos escapar do decreto divino na Terra, nem voando para o céu.",
+    "Quando ouvimos a orientação, acreditamos nela; quem crê em seu Senhor não temerá perda nem fardo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Um grupo de gênios",
+        "O povo de Iram",
+        "O povo de Tubba'",
+        "O Império Romano",
+        "A Tribo dos Coraixitas"
+      ],
+      "answer": "Um grupo de gênios"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Ouvir uma recitação sagrada",
+        "Construindo pilares imponentes em nossa cidade.",
+        "Caçando uma magnífica camela",
+        "Sendo destruídos por matar nossos profetas",
+        "Multiplicando a riqueza além da medida"
+      ],
+      "answer": "Ouvir uma recitação sagrada"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma reunião de recitação sagrada",
+        "Uma cidade de pilares altos (Iram)",
+        "Um poço no deserto",
+        "Um grandioso palácio de ouro",
+        "Uma caverna sagrada nas montanhas"
+      ],
+      "answer": "Uma reunião de recitação sagrada"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Nós acreditávamos e alertávamos o nosso povo.",
+        "Destruído por uma poderosa explosão vinda do céu.",
+        "Castigado por um vento escaldante e destrutivo",
+        "Concedida imensa riqueza e poder",
+        "Permaneceu firme na incredulidade."
+      ],
+      "answer": "Nós acreditávamos e alertávamos o nosso povo."
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

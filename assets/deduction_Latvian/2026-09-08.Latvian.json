@@ -1,0 +1,61 @@
+{
+  "title": "Svētās liesmas pārbaudījums",
+  "intro": "Senā zemē, kur katrā mājā bija iesakņojusies uzticība akmenim, viens cilvēks izcēlās. Pateicoties nelokāmai pārliecībai un dievišķai aizsardzībai, viņi saskārās ar to, kam vajadzēja būt drošai nāvei, un aizgāja neskarti. Vai varat atklāt šīs ievērojamās dvēseles identitāti?",
+  "clues": [
+    "Es uzaugu starp cilvēkiem, kas klanījās elkiem, ko bija izgrebuši paši ar savām rokām, ticot, ka šiem priekšmetiem piemīt dievišķs spēks.",
+    "Kad es apstrīdēju viņu uzskatus, sākumā viņi mani atmeta, bet es nevarēju klusēt par patiesību, ko zināju.",
+    "Dienā, kad tie tika savākti, Es iznīcināju viņu elkus, atstājot neskartu tikai lielāko.",
+    "Kad viņi atgriezās un ieraudzīja manu rīcību, viņu vadītāji pavēlēja uzcelt lielu sārtu, lai mani iemestu liesmās.",
+    "Viņi mani iemeta liesmojošā ugunī, bet pasaules Kungs pavēlēja tai atdzist un padarīt to man drošu.",
+    "Es izkļuvu no liesmām pilnīgi neskarts, kamēr tie, kas bija pret mani sazvērējušies, sagaidīja pilnīgu iznīcību."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Ibrahims",
+        "Pravietis Musa",
+        "Pravietis Nuhs",
+        "Pravietis Isa",
+        "Pravietis Jusufs"
+      ],
+      "answer": "Pravietis Ibrahims"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Tiekot iemests liesmojošā ugunī",
+        "Liela vaļa norīšana",
+        "Pārdzīvojot lielus plūdus",
+        "Tiekot iemests dziļā akā",
+        "Sastopoties ar karaļa burvjiem"
+      ],
+      "answer": "Tiekot iemests liesmojošā ugunī"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Milzīgs degošas koksnes sārts",
+        "Liela koka šķirsta",
+        "Zelta teļa statuja",
+        "Peldošs grozs upē",
+        "Lielisks tronis"
+      ],
+      "answer": "Milzīgs degošas koksnes sārts"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Allāhs padarīja uguni vēsu un drošu",
+        "Šķirsts droši piezemējās kalnā",
+        "Zelta elks izkusa viņu acu priekšā",
+        "Jūrā noslīka tirāns un viņa armija",
+        "Akla vīrieša redze tika atjaunota"
+      ],
+      "answer": "Allāhs padarīja uguni vēsu un drošu"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

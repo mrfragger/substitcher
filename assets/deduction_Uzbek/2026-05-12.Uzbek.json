@@ -1,0 +1,61 @@
+{
+  "title": "Qat'iy hokimiyat",
+  "intro": "Qadimgi yerlarda bir vaqtlar qudratli hokimiyat hukmronlik qilgan, ulkan resurslar va son-sanoqsiz odamlarning hayotini boshqargan. Aniq belgilar va ogohlantirishlarga qaramay, bu hukmdor itoatsizlik yo'lini tanladi, bu esa vaqt o'tishi bilan aks-sado beradigan chuqur qarama-qarshilikka olib keldi.",
+  "clues": [
+    "Men ulkan hudud ustidan oliy hokimiyat va hokimiyatni da'vo qildim.",
+    "Men barcha olamlarning Parvardigori tomonidan yuborilgan kamtar elchiga e'tiroz bildirdim.",
+    "Mening xalqim ulug'vor inshootlar va tsivilizatsiyamizni qo'llab-quvvatlagan daryo ustida mahorat bilan ishlaganligi bilan mashhur edi.",
+    "Men ko'plab mo''jizaviy alomatlarga, jumladan, tayoqning ilonga aylanishiga va yorqin porlab turgan qo'lning guvohi bo'ldim.",
+    "Ilohiy amrlarga qaramay, men bir guruh qullarning yurtimni tark etishiga yo'l qo'ymadim.",
+    "Ketayotgan xalqni ta'qib qilishim meni va qo'shinlarimni ikkiga bo'lingan dengizning yuragiga olib bordi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yusuf payg'ambar",
+        "Qirol Talut",
+        "Fir'avn (Fir'avn)",
+        "Payg'ambar Dovud",
+        "Namrud"
+      ],
+      "answer": "Fir'avn (Fir'avn)"
+    },
+    "trial": {
+      "label": "Kalitlar bilan to'qnashuv",
+      "options": [
+        "Yerni qamrab olgan toshqin",
+        "Dengizning ikkiga bo'linishi",
+        "Yonayotgan buta",
+        "Ka'baning qurilishi",
+        "Kuchli shamolning vayronagarchiliklari"
+      ],
+      "answer": "Dengizning ikkiga bo'linishi"
+    },
+    "location": {
+      "label": "Aspektni aniqlash",
+      "options": [
+        "Gapiradigan hayvon",
+        "Tayoq va porlab turgan qo'l",
+        "Mo''jizaviy tug'ilish",
+        "Uchar gilam",
+        "Suv ustidagi ulug'vor taxt"
+      ],
+      "answer": "Tayoq va porlab turgan qo'l"
+    },
+    "outcome": {
+      "label": "Oliy Taqdir",
+      "options": [
+        "Osmonlarga ko'tarildi",
+        "Yer tomonidan yutib yuborilgan",
+        "Dengizda cho'kib ketdi",
+        "Maymunga aylangan",
+        "ulkan boylik va kuch berilgan"
+      ],
+      "answer": "Dengizda cho'kib ketdi"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

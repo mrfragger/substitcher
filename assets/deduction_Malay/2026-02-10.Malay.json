@@ -1,0 +1,60 @@
+{
+  "title": "Tidur Berzaman",
+  "intro": "Anda bakal memulakan perjalanan merentasi masa, menemui misteri iman dan kuasa ilahi yang mendalam. Bayangkan sekumpulan individu yang menentang norma masyarakat mereka, berpegang teguh pada tauhid dalam dunia politeisme. Kisah mereka adalah bukti keupayaan Allah untuk melindungi hamba-hamba-Nya yang soleh dengan cara yang paling luar biasa. Bolehkah anda membongkar identiti tokoh-tokoh luar biasa ini?",
+  "clues": [
+    "Kami adalah sekumpulan kecil pemuda yang percaya kepada satu Tuhan, meskipun kaum kami berleluasa menganut syirik.",
+    "Kami melarikan diri daripada pemerintah zalim yang mengancam kami kerana kepercayaan kami, kerana takut akan penganiayaan dan kematian.",
+    "Kami mencari perlindungan di tempat yang sunyi, mengharapkan rahmat dan perlindungan Allah daripada penindas kami.",
+    "Tuhan kita menyebabkan kita tertidur nyenyak, satu keajaiban yang tidak dapat dielakkan oleh peredaran masa.",
+    "Apabila kami terjaga, kami percaya bahawa kami hanya berehat selama sehari atau sebahagian daripada sehari, tanpa menyedari tempoh masa yang panjang telah berlalu.",
+    "Al-Quran menyebut bahawa kami kekal dalam keadaan kami selama tiga ratus tahun, dan melebihi sembilan ratus tahun, menjadi satu tanda bagi manusia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang-orang Parit",
+        "Kaum Tsamud",
+        "Orang-orang Gua",
+        "Orang Madyan",
+        "Sahabat-sahabat Gajah"
+      ],
+      "answer": "Orang-orang Gua"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Menghadapi banjir besar",
+        "Ditelan bumi",
+        "Tidur ajaib yang panjang",
+        "Kemusnahan bandar mereka",
+        "Pembelahan laut"
+      ],
+      "answer": "Tidur ajaib yang panjang"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Semak yang terbakar",
+        "Sebuah gunung",
+        "Sebuah bot",
+        "Sebuah gua",
+        "Sebuah perigi"
+      ],
+      "answer": "Sebuah gua"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Mereka dikurniakan kekayaan dan kuasa yang besar",
+        "Mereka telah berubah menjadi beruk dan babi",
+        "Mereka dibangkitkan dari tidur sebagai tanda yang mendalam",
+        "Mereka lemas dalam banjir besar",
+        "Mereka membina sebuah kerajaan yang megah"
+      ],
+      "answer": "Mereka dibangkitkan dari tidur sebagai tanda yang mendalam"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

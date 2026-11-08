@@ -1,0 +1,61 @@
+{
+  "title": "Patiens Unus",
+  "intro": "Olim, primis diebus historiae humanae, duae animae coram Creatore suo cum oblationibus steterunt. Altera accepta est, altera non. Quod secutum est, prima magna tragoedia inter fratres et sorores futura erat - unum actum patientiae moderationis et unum actum acerbae ultionis. Potesne detegere quis sim?",
+  "clues": [
+    "Natus sum primis diebus vitae humanae in terra",
+    "Filius fui primissimi paris hominum qui umquam hanc terram ambulaverunt.",
+    "Olim sacrificium ex optimis gregis mei obtuli ut Creatori meo placerem.",
+    "Oblatio mea desuper accepta est, oblatio autem fratris mei reiecta est.",
+    "Cum morte minabar, manum meam in fratrem meum tollere nolui.",
+    "Primus homo in tota historia humana factus sum qui iniuste ab alio interfectus est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Habil (Abel), filius Adami",
+        "Qabil (Cain), filius Adami",
+        "Adamus, primus homo",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), filius Adami"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Prima caedes in historia humana",
+        "Magnum diluvium Nuh",
+        "Destructio exercitus Firaonis",
+        "Sacrificium Ismaili ab Ibrahimo",
+        "Proelium contra Jalut (Goliath)"
+      ],
+      "answer": "Prima caedes in historia humana"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ovis oblata ut sacrificium gratum",
+        "Arca lignea magna",
+        "Baculus qui in serpentem conversus est",
+        "Upupa nuntium regium ferens",
+        "Fossa ignis ardens"
+      ],
+      "answer": "Ovis oblata ut sacrificium gratum"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Prima victima caedis in historia humana factus est",
+        "Magnum diluvium intra navem ligneam supervixit",
+        "Intra ventrem piscis magni habitabat",
+        "Jinn, homines, et ventum dominatus est",
+        "Quadraginta annos in vasta solitudine erravi"
+      ],
+      "answer": "Prima victima caedis in historia humana factus est"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

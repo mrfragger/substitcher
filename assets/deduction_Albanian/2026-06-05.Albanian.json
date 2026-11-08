@@ -1,0 +1,61 @@
+{
+  "title": "Kërkuesit e Përulur të së Vërtetës",
+  "intro": "Në një tokë me fuqi dhe magji të lashtë, zhvillohet një përballje e madhe. Njëra palë ushtron autoritetin e shenjave hyjnore, ndërsa pala tjetër përpiqet të përballet me të pamundurën. Rezultati do ta ndryshojë përgjithmonë rrjedhën e historisë. A mund ta zbuloni identitetin e atyre që dëshmuan të vërtetën përfundimtare dhe u përulën para saj?",
+  "clues": [
+    "Ne pamë shenja që shkonin përtej trukeve të magjisë",
+    "Ne të gjithë ramë në sexhde, të paaftë ta mohonim të vërtetën",
+    "Ne e kuptuam se këto shenja vinin nga i Vetmi Zot i Vërtetë",
+    "Ne ishim komuniteti i parë që përqafoi besimin në një mënyrë kaq dramatike.",
+    "Na u premtua parajsa si shpërblim për besimin tonë",
+    "Litarët dhe shkopinjtë tanë u bënë gjarpërinj para syve tanë, megjithatë ne zgjodhëm nënshtrimin"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Magjistarët e Faraonit",
+        "Populli i Profetit Ibrahim",
+        "Kërkuesit e përulur të së vërtetës",
+        "Njerëzit e Shpellës",
+        "Kombi i Mbretëreshës Bilqis"
+      ],
+      "answer": "Magjistarët e Faraonit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Takimi me shkopin e Profetit Musa",
+        "Sprova e erës së Profetit Hud",
+        "Sfida nga deveja e Profetit Salih",
+        "Përmbytja e madhe e dërguar mbi një profet",
+        "Udhëtimi i një profeti brenda një balene"
+      ],
+      "answer": "Takimi me shkopin e Profetit Musa"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Egjipti i Lashtë",
+        "Shtëpia e shenjtë në Mekë",
+        "Qyteti i Midianit",
+        "Shkretëtira e Themudit",
+        "Shpella e gjumëtarëve të lashtë"
+      ],
+      "answer": "Egjipti i Lashtë"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Parajsa si shpërblim i tyre",
+        "Ndëshkimi në varr",
+        "Humbja e kopshteve të tyre të bollshme",
+        "Shkatërrimi nga një tërmet i papritur",
+        "Shpëtim nga një balenë e madhe"
+      ],
+      "answer": "Parajsa si shpërblim i tyre"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

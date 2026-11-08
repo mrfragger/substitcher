@@ -1,0 +1,61 @@
+{
+  "title": "Guhdarvanên Veşartî yên ku Bawerî pê anîn",
+  "intro": "Di bêdengiya kombûneke pîroz de, komeke berbiçav ji cîhaneke nedîtî hat. Bi dengên tiştekî ecêb ve hatin kişandin, wan guhdarî xwendina ku dê çarenûsa wan heta hetayê mohr bike kir. Şahidiya wan di nivîsarên pîroz ên îlahî de yek ji yên herî bêhempa dimîne.",
+  "clues": [
+    "Em hebûnên ji dinyayekê ne ku piraniya mirovan nabînin, û em wekî komekê hatine.",
+    "Em ber bi komekê ve çûn da ku tiştekî balkêş bibihîzin.",
+    "Dema ku em gihîştin, me guhdarî kir ku em matmayî man.",
+    "Me bi eşkereyî qebûl kir ku hin ji me rast in û hin jî ne rast in.",
+    "Me dizanî ku em ne li ser erdê û ne jî bi firîna ber bi asîmanan nikarin ji fermana îlahî birevin.",
+    "Dema me rêberî bihîst, me bawerî pê anî; her kesê ku baweriya xwe bi Xwedayê xwe bîne, ji windabûn û barekî natirse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Komek ji Cinnan",
+        "Gelê Îranê",
+        "Gelê Tubbayê",
+        "Împeratoriya Romayê",
+        "Qebîleya Qureyşiyan"
+      ],
+      "answer": "Komek ji Cinnan"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Guhdarîkirina ayeteke pîroz",
+        "Li bajarê me stûnên bilind ava dikin",
+        "Nêçîra deveyekî mezin ê mezin dike",
+        "Ji ber kuştina pêxemberên me, em tên wêrankirin",
+        "Zêdekirina dewlemendiyê bê pîvan"
+      ],
+      "answer": "Guhdarîkirina ayeteke pîroz"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Civînek ji xwendina pîroz",
+        "Bajarekî ji stûnên bilind (Îram)",
+        "Bîrek li çolê",
+        "Qesreke mezin a zêr",
+        "Şikefteke pîroz di nav çiyayan de"
+      ],
+      "answer": "Civînek ji xwendina pîroz"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Me bawerî bi gelê xwe anî û me gelê xwe hişyar kir",
+        "Bi teqînek mezin ji ezman ve hate wêrankirin",
+        "Bi bayekî şewitî û wêranker hat cezakirin",
+        "Dewlemendî û hêzeke mezin daye",
+        "Di bêbaweriyê de bi israr ma"
+      ],
+      "answer": "Me bawerî bi gelê xwe anî û me gelê xwe hişyar kir"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

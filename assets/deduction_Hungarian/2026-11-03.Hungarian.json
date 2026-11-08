@@ -1,0 +1,61 @@
+{
+  "title": "Az igazak álma",
+  "intro": "Egy olyan korban, amikor a hit veszélyes volt, és a hatalmasok el akarták zúzni, egy maroknyi fiatal lélek olyan döntést hozott, amely korokon át visszhangozni fog. Elmenekülve minden elől, amit ismertek, egy hegy rejtett sötétségében kerestek menedéket, és teljes bizalmukat Allahba helyezték. Ami ezután történt, az időtlen jellé válik azok számára, akik elgondolkodnak rajta.",
+  "clues": [
+    "Fiatalok egy csoportja voltunk, akik hittek az Úrban, és Ő gyarapította az útmutatásunkat.",
+    "Kiálltunk népünk elé, és kijelentettük, hogy soha többé nem fogunk más istenséget segítségül hívni Allahon kívül.",
+    "Egy barlangban kerestünk menedéket, mondván: „Urunk, adj nekünk irgalmat magadtól, és vezess minket helyesen dolgainkban!”",
+    "Sok éven át aludtunk, a nap pedig elfordult a barlangunktól, és nem ért ránk.",
+    "A kutyánk kinyújtózott a barlang bejáratánál, és úgy őrizte a környezetünket, mintha figyelne.",
+    "Amikor felébredtünk, azon tűnődtünk, vajon mióta is időzhettünk, és egyikünket ezüstpénzekkel küldték el élelmet venni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A barlang népe",
+        "Az Árok Emberei",
+        "A szombat népe",
+        "Az elefánt népe",
+        "Az erdő társai"
+      ],
+      "answer": "A barlang népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy barlangba menekültek, hogy előlük meneküljenek a hitük miatti üldöztetés elől",
+        "Egy heves szél pusztította el",
+        "Elnyelte a föld",
+        "Megfulladt a tengerben",
+        "Kővihar sújtotta"
+      ],
+      "answer": "Egy barlangba menekültek, hogy előlük meneküljenek a hitük miatti üldöztetés elől"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy kutya őrzi a barlang bejáratát",
+        "Egy hatalmas bárka",
+        "Egy személyzet, ami kígyóvá változott",
+        "Egy búbos banka madár",
+        "Egy aranyborjú"
+      ],
+      "answer": "Egy kutya őrzi a barlang bejáratát"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "309 évig maradtak a barlangban, majd jelként emelték fel őket",
+        "Majmokká változtatták őket",
+        "Egy árvíz pusztította el őket",
+        "Arra kényszerítették őket, hogy átkeljenek a tengeren",
+        "Kaptak egy királyságot"
+      ],
+      "answer": "309 évig maradtak a barlangban, majd jelként emelték fel őket"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

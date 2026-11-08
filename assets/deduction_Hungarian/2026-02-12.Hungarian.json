@@ -1,0 +1,60 @@
+{
+  "title": "A néma bizonyítás csodája",
+  "intro": "Egy isteni beavatkozásról szóló, alakok által titkolt történettel találkozol. Egy csodálatos gondoskodás és egy szótlan védekezés történetével, amely az idők során visszhangzik. Vajon fel tudod fedezni, hogy kinek kellett szembenéznie ezzel a rendkívüli megpróbáltatással?",
+  "clues": [
+    "Kaptam egy isteni üzenetet, ami lenyűgözött",
+    "A népem megkérdőjelezte a tisztaságomat, amikor egy gyermekkel tértem vissza",
+    "Azt a parancsot kaptam, hogy egy ideig ne beszéljek",
+    "Egy forrásvíz és datolya tartott fenn a megpróbáltatásaim során",
+    "Az Úr csodálatos farázást végzett, hogy gondoskodjon rólam",
+    "Egy angyal jelent meg nekem tökéletes ember képében"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mária",
+        "Ászia",
+        "Hawa",
+        "Sára",
+        "Khadija"
+      ],
+      "answer": "Mária"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egyedül szülni egy pálmafa alatt",
+        "Halálos éhínséggel néznek szembe",
+        "Tüzes gödörbe vetve",
+        "Egy zsarnoki uralkodó elől menekülve",
+        "Egy szent ereklye őrzése"
+      ],
+      "answer": "Egyedül szülni egy pálmafa alatt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Pálmafa",
+        "Égő bokor",
+        "Kőtemplom",
+        "Nílus folyó",
+        "Sínai-hegy"
+      ],
+      "answer": "Pálmafa"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Az ártatlanságom bebizonyosodott, amikor a csecsemő fiam megszólalt",
+        "Tisztelt királynő lettem",
+        "Népemet isteni büntetés pusztította el",
+        "Győzelemre vezettem a nemzetemet",
+        "Egy csodálatos kút jelent meg véglegesen"
+      ],
+      "answer": "Az ártatlanságom bebizonyosodott, amikor a csecsemő fiam megszólalt"
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

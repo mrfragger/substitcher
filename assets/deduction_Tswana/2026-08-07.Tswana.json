@@ -1,0 +1,61 @@
+{
+  "title": "Tumelo e e Kafa Morago ga Setulo sa Bogosi",
+  "intro": "Mewa e mengwe ga e lekwe ke molelo kgotsa morwalela, mme e lekwa ke kgatelelo e e bonya ya go nna mo teng ga ntlo ya segosi ya mogateledi. Setshwantsho seno se ne se eme fa thoko ga mmusi yo o neng a bolela gore o na le bomodimo mo bathong ba gagwe, mme lefa go ntse jalo a ne a ngaparela tumelo mo Modimong o le Mongwe wa Boammaaruri mo sephiring. Fa boineelo jwa bone bo ribololwa, pogiso e ne ya tla — mme le tsholofetso ya bomodimo e ne ya tla. A o ka fopholetsa gore yo ke mang?",
+  "clues": [
+    "Ke ne ke nna kafa tlase ga borulelo jwa mmusi yo o maatla go gaisa botlhe wa naga ya gaetsho, mo boemong jo batho ba le mmalwa fela ba neng ba ka bo akanya.",
+    "Molekane wa me o ne a ema fa pele ga batho mme a ipolela gore ke modimo — mme pelo ya me e ne e le ya Morena a le Mongwe wa Boammaaruri.",
+    "Ke ne ke sebaseba dithapelo mo sephiring, ke tshaba kotlhao e e neng e tlela botlhe ba ba neng ba ganetsa molekane wa me.",
+    "Fa tumelo ya me e ne e senolwa, ke ne ka tshwarwa le go bogisiwa — le fa go ntse jalo leleme la me ga le ise le ko le bue lefoko la go sa dumele.",
+    "Ke ne ka tshololela Morena wa me mafatlha, ke kopa ntlo kwa Paradaiseng, kgakala le ditiro tsotlhe tse di sa siamang.",
+    "Ke nna Asiya bint Muzahim — mosadi wa ga Faro yo o neng a ganetsa Musa le Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Asiya bint Muzahim (Mosadi wa ga Faro)",
+        "Hawwa (Efa), mosadi wa ntlha",
+        "Sara, mosadi wa ntlha wa ga Ibrahim",
+        "Hagare, mmaagwe Isma'ile",
+        "Mmaagwe Maryam (mosadi wa ga Imran)"
+      ],
+      "answer": "Asiya bint Muzahim (Mosadi wa ga Faro)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go itshokela pogiso ka ntlha ya go gana go itatola tumelo",
+        "Go tshela mo teng ga mpa ya tlhapi e kgolo",
+        "Go aga araka e kgolo go falola morwalela",
+        "Go latlhelwa mo molelong o o tukang",
+        "Go bona lewatle le legolo le kgaogana"
+      ],
+      "answer": "Go itshokela pogiso ka ntlha ya go gana go itatola tumelo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ntlo e ba e agilweng mo Paradaiseng",
+        "Lore lo lo neng lwa fetoga noga",
+        "Areka e e rweleng dipara tsa sebopiwa sengwe le sengwe",
+        "Namane ya gauta e e neng e obamelwa ke morafe mongwe",
+        "Mokgwa o o neng o dirisiwa go fenya motlhabani yo mogolo"
+      ],
+      "answer": "Ntlo e ba e agilweng mo Paradaiseng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go tlotliwa ka bonno mo Paradaiseng go bapa le basiami",
+        "Ba nwetse ka fa tlase ga makhubu mmogo le mophato wa bone",
+        "O ne a fisiwa ke molelo mme a bolokwa ka ntlha ya go tsereganya ga Modimo",
+        "E meditswe ke sebopiwa se segolo mme morago ga moo e bo e latlhelwa kwa lotshitshing lwa lewatle",
+        "E nnile motho yo o humileng go gaisa botlhe mo motlheng wa bone"
+      ],
+      "answer": "Go tlotliwa ka bonno mo Paradaiseng go bapa le basiami"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

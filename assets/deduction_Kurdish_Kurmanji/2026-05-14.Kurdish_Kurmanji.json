@@ -1,0 +1,61 @@
+{
+  "title": "Belavkerê Hikmeta Bêdem",
+  "intro": "Kesayetiyek rêzdar, ku bi têgihîştinên xwe yên kûr û şîretên xwe yên jîr tê nasîn, carekê şîretên ku ji nifşan wêdetir diçin dida. Peyvên wan, ku di nivîsarên pîroz de hatine tomar kirin, kesan ber bi spasdarî, sebir û tevgerên rast ve rêber dikin.",
+  "clues": [
+    "Ez bi şehrezayî hatim pîrozkirin, ne bi pêxemberîtiyê.",
+    "Min zarokê xwe li ser gunehê herî mezin şîret kir: şirîkatî ji Xwedê re kirin.",
+    "Min giraniya kiryaran, hetta bi qasî tovek xerdelê jî, û ka Xwedê çawa wê bîne holê, hîn kir.",
+    "Min spasiya Xwedê û dêûbavan tekez kir, û min zehmetiyên mezinkirina zarokan qebûl kir.",
+    "Şîreta min ev bû ku meriv nimêj bike, ferman bide qencîyê, qedexe bike li ser xerabîyê û bi sebir tehemûlî tiştên ku bi serê wî tên bike.",
+    "Sûreyek di Qur'anê de bi navê min hatiye binavkirin, ku tê de ders û îradeyên min ên ku min parve kirin hene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Suleyman",
+        "Pêxember Dawud",
+        "Pêxember Yahya",
+        "Luqman",
+        "Pêxember Mûsa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Mijara Navendî",
+      "options": [
+        "Avakirina Kabeyê",
+        "Perçekirina deryayê",
+        "Belavkirina şehrezayiyê",
+        "Ji lehiyê xilasbûn",
+        "Ji aliyê masiyek ve tê daqurtandin"
+      ],
+      "answer": "Belavkirina şehrezayiyê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keşti",
+        "Karmend",
+        "Çiyayê Tur",
+        "Kurê wî",
+        "Golika Zêrîn"
+      ],
+      "answer": "Kurê wî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Gelê wî hate wêrankirin",
+        "Aqilmendiya wî bû rêber",
+        "Jê re padîşahî hat dayîn",
+        "Ew ber bi ezmanan ve hate bilindkirin",
+        "Serweta mezin ji wî re hat dayîn"
+      ],
+      "answer": "Aqilmendiya wî bû rêber"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

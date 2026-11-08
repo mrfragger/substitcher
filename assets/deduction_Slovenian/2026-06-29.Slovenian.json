@@ -1,0 +1,61 @@
+{
+  "title": "Potrpežljiva duša",
+  "intro": "V analih preroštva je obstajala duša, katere potrpežljivost je bila vtisnjena v samo tkivo njenega bitja. Skozi solze in čas so se trdno oklepali upanja in postali brezčasen zgled zaupanja v božansko modrost. Ali lahko razvozlate skrivnost te neomajne figure?",
+  "clues": [
+    "Rodil sem se v družini prerokov, vendar je moj največji preizkus prišel skozi otroka, ki sem ga imel najraje.",
+    "Sinove sanje so me opozorile na ljubosumje in bala sem se za njegovo varnost.",
+    "Moje oči so postale bele od žalosti, vendar nisem nikoli izgubil vere v Alahovo usmiljenje.",
+    "Vonj mojega pogrešanega otroka me je dosegel že od daleč in takrat sem vedela, da je snidenje blizu.",
+    "Moja družina se je hvaležno priklonila, ko se je izpolnila starodavna vizija in se mi je vid povrnil.",
+    "Jaz sem tisti, ki so mu podarili s krvjo umazano srajco, le da bi kasneje prejel srajco, ki mi je ozdravila vid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Ibrahim",
+        "Prerok Ishak",
+        "Prerok Jakub",
+        "Prerok Jusuf",
+        "Prerok Ajjub"
+      ],
+      "answer": "Prerok Jakub"
+    },
+    "trial": {
+      "label": "Ključna preizkušnja",
+      "options": [
+        "Ločitev od ljubljenega otroka in izguba vida",
+        "Biti vržen v plameneči ogenj",
+        "Biti pogoltnjen s strani velike ribe",
+        "Prenesti izgubo bogastva, otrok in zdravja",
+        "Izdali so ga bratje in ga vrgli v vodnjak"
+      ],
+      "answer": "Ločitev od ljubljenega otroka in izguba vida"
+    },
+    "location": {
+      "label": "Simbolični predmet",
+      "options": [
+        "Majica, ki je najprej skrivala resnico, nato pa jo je razkrila",
+        "Palica, ki se je spremenila v kačo",
+        "Kit, ki je pogoltnil preroka",
+        "Ogenj, ki se je ohladil",
+        "Par sandalov pri gorečem grmu"
+      ],
+      "answer": "Majica, ki je najprej skrivala resnico, nato pa jo je razkrila"
+    },
+    "outcome": {
+      "label": "Božanska resolucija",
+      "options": [
+        "Srečanje z izgubljeno ljubljeno osebo in povrnitev vida",
+        "Rešitev iz zatiranja naroda",
+        "Rešitev iz ribjega trebuha",
+        "Odrešitev iz gorečega ognja",
+        "Vzpon na veliki prestol"
+      ],
+      "answer": "Srečanje z izgubljeno ljubljeno osebo in povrnitev vida"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

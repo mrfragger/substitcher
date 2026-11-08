@@ -1,0 +1,61 @@
+{
+  "title": "Ang Bayan na Naniniwala sa Panahon",
+  "intro": "Sa mga talaan ng banal na awa, mayroong isang komunidad na ang naging mahalagang punto ay isang sandali ng sama-samang pagsasakatuparan. Malapit mo nang tuklasin ang kanilang kwento—isang kwento ng babala, pagsisisi, at isang palugit na nagbukod sa kanila mula sa kapalaran ng ibang mga bansa.",
+  "clues": [
+    "Kami ay isang bayang pinadalhan ng isang sugo, at noong una ay tumalikod kami sa kanyang panawagan.",
+    "Nang maging malinaw ang mga palatandaan ng nalalapit na kaparusahan, napagtanto namin ang katotohanan ng kanyang babala.",
+    "Bumaling kami sa aming Panginoon nang may taos-pusong pagsisisi, at tinanggap ang aming pananampalataya.",
+    "Ang parusang itinakda sa amin ay inalis dahil sa aming paniniwala.",
+    "Ang ating kuwento ay binabanggit bilang isang eksepsiyon sa mga bayang naniwala matapos makita ang parusa.",
+    "Kami ang mga tao ng propeta na nilunok ng balyena, ngunit kami ay iniligtas mula sa pagkawasak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Mga Tao ni Yunus",
+        "Ang mga tao ni Nuh",
+        "Mga Tao ng Hud",
+        "Mga tao ng Salih",
+        "Ang mga tao ni Lut"
+      ],
+      "answer": "Mga Tao ni Yunus"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Isang mapaminsalang baha",
+        "Isang malakas na bagyo",
+        "Isang nalalapit na parusa ng kahihiyan na naiwasan",
+        "Nilalamon sila ng lupa",
+        "Isang ulan ng mga bato"
+      ],
+      "answer": "Isang nalalapit na parusa ng kahihiyan na naiwasan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang arka",
+        "Ang kamelyong babae",
+        "Isang lungsod na may isandaang libo",
+        "Ang mga tauhan ni Musa",
+        "Ang imbakan ng Qarun"
+      ],
+      "answer": "Isang lungsod na may isandaang libo"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Sila ay tuluyang nawasak",
+        "Binigyan sila ng kasiyahan sa loob ng ilang panahon",
+        "Sila ay naging mga unggoy",
+        "Nalunod sila",
+        "Nilamon sila ng lupa"
+      ],
+      "answer": "Binigyan sila ng kasiyahan sa loob ng ilang panahon"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Stratené mesto bezkonkurenčnej majestátnosti",
+  "intro": "Rozľahlým územiam zeme kedysi dominovala mocná civilizácia, preslávená svojimi impozantnými stavbami siahajúcimi až k nebu. Pod touto vznešenosťou sa však skrývalo tvrdohlavé popieranie – odmietanie dbať na božské varovanie zoslané zvnútra samotnej komunity. Pýcha a arogancia si čoskoro vyžiadali trest, aký ani zem, ani nebo ešte nevideli.",
+  "clues": [
+    "Kedysi sme vládli rozsiahlym územiam zeme a chválili sme sa silou, o ktorej sme verili, že sa jej žiadna iná civilizácia nevyrovná.",
+    "Naša ríša bola známa týčiacimi sa stavbami s mohutnými stĺpmi, ktoré sa týčili bezkonkurenčne v každej známej krajine.",
+    "Z našej vlastnej komunity sa ozval varovný hlas a naliehal na každého z nás, aby sme sa podriadili jedinému Stvoriteľovi.",
+    "Odmietli sme posolstvo, ktoré nám bolo doručené, a odmietli sme opustiť cestu, ktorú sme zdedili.",
+    "Zúrivý, vyjúci vietor ohromujúcej sily sa uvoľnil proti nám a nechal nás úplne bezbranných.",
+    "Zostali sme ako duté kmene paliem, roztrúsení a zabudnutí, ako ponaučenie pre každú ďalšiu generáciu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z A'adu",
+        "Ľudia z Nuha",
+        "Ľudia z Luta",
+        "Ľudia z Madyanu",
+        "Ľudia z Tubby"
+      ],
+      "answer": "Ľudia z A'adu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Neúprosný zúrivý vietor prísneho trestu",
+        "Povodeň, ktorá pokryla každý horský vrchol",
+        "Dážď horiacich hlinených kameňov zhora",
+        "Jediný desivý výkrik z nebies",
+        "Silné zemetrasenie, ktoré rozštiepilo zem"
+      ],
+      "answer": "Neúprosný zúrivý vietor prísneho trestu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Iram, mesto vznešených stĺpov",
+        "Obrovská drevená archa postavená na vrchu hory",
+        "Ťava, ktorá sa zázračne vynorila z kameňa",
+        "Hora Sinaj, kde zostúpili božské prikázania",
+        "Palác z krištáľu a jemného skla s výhľadom na tečúce vody"
+      ],
+      "answer": "Iram, mesto vznešených stĺpov"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zostali ako duté kmene paliem, roztrúsené a bez života",
+        "Utopený pod ohromujúcimi vlnami veľkej potopy",
+        "Premenené na stvorenia pripomínajúce opice a svine",
+        "Rozdrvený pod dažďom stvrdnutých hlinených kameňov",
+        "Pohltený jediným ohlušujúcim výkrikom, ktorý prenikol dušu"
+      ],
+      "answer": "Zostali ako duté kmene paliem, roztrúsené a bez života"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Įkalbėtas į būtį",
+  "intro": "Iš šventosios istorijos išnyra figūra, nešanti stebuklus, nepaklusnius natūraliai tvarkai. Ši siela atėjo per vieną dievišką įsakymą, apgynė tėvus nuo sunkių kaltinimų ir paliko šį pasaulį, kol žemiškos grandinės jų nespėjo supančioti. Istorija tęsiasi nuo kuklios lopšio iki dangaus. Kas tai galėtų būti?",
+  "clues": [
+    "Aš buvau pasiųstas kaip Alacho ženklas ir malonė Izraelio vaikams.",
+    "Mano atvykimas buvo nepanašus į jokį ankstesnį – atėjau iš dieviškojo žodžio „Būk!“ be žemiško tėvo.",
+    "Mano tėvai susidūrė su žiauriu šmeižtu, bet šventas apreiškimas nužengė, kad paskelbtų jų nekaltumą ir pakeltų jų padėtį.",
+    "Naujagimis, stebinau aplinkinius aiškiai kalbėdamas nuo lopšio, kad apginčiau savo tėvų vardą.",
+    "Alacho leidimu, iš negyvo molio suformavau gyvybę, akliesiems suteikiau regėjimą ir savo prisilietimu išgydžiau raupsuotuosius.",
+    "Buvau pakeltas į dangų, kol manęs nepalietė jokia nelaimė, ir sugrįšiu į šį pasaulį prieš ateinant Paskutinei Valandai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Isa",
+        "Pranašas Musa",
+        "Pranašas Ibrahimas",
+        "Pranašas Jusufas",
+        "Pranašas Dawudas"
+      ],
+      "answer": "Pranašas Isa"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Kalbėjimas nuo lopšio kūdikystėje",
+        "Išgyvenimas didelės žuvies pilve",
+        "Įmestas į liepsnojančią ugnį",
+        "Didžiojo laivo statyba prieš tvaną",
+        "Susidūrimas su faraono dvaro burtininkais"
+      ],
+      "answer": "Kalbėjimas nuo lopšio kūdikystėje"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Indžilas (Evangelija)",
+        "Taura (Tora)",
+        "Zaburas (Psalmės)",
+        "Suhufas (Ibrahimo ritiniai)",
+        "Personalas, kuris perskyrė jūrą"
+      ],
+      "answer": "Indžilas (Evangelija)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pakeltas į dangų, sugrįš prieš Teismo dieną",
+        "Išvedė Izraelio vaikus iš Egipto",
+        "Tapo karaliumi, valdančiu džinus, žmones ir paukščius",
+        "Išgyveno didžiulį potvynį su tikinčiaisiais",
+        "Pastatė šventuosius namus Mekoje"
+      ],
+      "answer": "Pakeltas į dangų, sugrįš prieš Teismo dieną"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

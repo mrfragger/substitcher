@@ -1,0 +1,61 @@
+{
+  "title": "Przekroczenie brzegu",
+  "intro": "Stoisz na piaskach zapomnianego brzegu, gdzie fale szepczą o wspólnocie wystawionej na próbę przez boski rozkaz. Powietrze jest ciężkie od wspomnień o pogwałceniu, które doprowadziło do zdumiewającej przemiany. Kim były te dusze i jaka była natura ich próby?",
+  "clues": [
+    "Byliśmy społecznością, która otrzymała jasne przykazanie od naszego Pana, a mimo to znaleźliśmy sposoby, by je zignorować.",
+    "Mieszkaliśmy w pobliżu zbiornika wodnego, a nasze utrzymanie zależało od tamtejszych stworzeń.",
+    "Pewnego dnia zostaliśmy wystawieni na próbę, gdy nakazano nam powstrzymać się od poczynań świeckich.",
+    "Tego dnia zwierzęta wodne przybyły do ​​nas w ogromnych ilościach, wystawiając nas na próbę ponad wszelką miarę.",
+    "Wymyśliliśmy chytry trik, aby obejść boski rozkaz, myśląc, że uda nam się przechytrzyć dekret.",
+    "Nasze przewinienie doprowadziło do upokarzającej przemiany; staliśmy się pogardzanymi małpami z rozkazu Allaha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie szabatu",
+        "Ludzie Rass",
+        "Ludzie z Tubby",
+        "Ludzie jaskini",
+        "Towarzysze Rowu"
+      ],
+      "answer": "Ludzie szabatu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Pojawienie się ryb w szabat",
+        "Rok poważnej suszy",
+        "Armia ptaków wysłana przeciwko nim",
+        "Powódź, która ich przytłoczyła",
+        "Gwałtowne trzęsienie ziemi"
+      ],
+      "answer": "Pojawienie się ryb w szabat"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Morze",
+        "Góra",
+        "Jaskinia",
+        "Dolina pustynna",
+        "Ufortyfikowane miasto"
+      ],
+      "answer": "Morze"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zamienieni w małpy",
+        "Pochłonięty przez ziemię",
+        "Zniszczony przez wrzeszczący wiatr",
+        "Utonął w morzu",
+        "Uderzony gradem kamieni"
+      ],
+      "answer": "Zamienieni w małpy"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

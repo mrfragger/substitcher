@@ -1,0 +1,61 @@
+{
+  "title": "Büyük Tufanın Habercisi",
+  "intro": "Bu kişi yüzyıllarca bir dayanıklılık sembolü olarak durdu, alay ve reddedilmeyle karşı karşıya kalırken meydan okuyan bir toplumu gerçeğin ışığına çağırdı. Ezici zorluklara ve nesiller boyu süren bir mesajın ağırlığına rağmen, bu hizmetkar son kararname verilene kadar misyonunda kararlı kaldı.",
+  "clues": [
+    "Dokuz yüz elli yıl boyunca, gece gündüz, gizli ve açık bir şekilde, halkımı doğruluk yoluna çağırdım.",
+    "Halkımı acı bir cezayla uyardım, fakat onlar kibirle kulaklarını tıkadılar ve elbiseleriyle yüzlerini örttüler.",
+    "Efendimin gözetimi altında, etrafta hiç su olmamasına rağmen, devasa bir şey inşa etmem emredildi.",
+    "Ben çalışırken, halkımın önderleri yanından geçip benimle alay ettiler, ama ben onlara yakında bizlerin onlarla alay edeceğimizi söyledim.",
+    "Kendi öz akrabalarımın bana katılmaları için yalvardım, ama onlar yükselen sulardan kurtulacaklarına inanarak bir dağa sığınmayı tercih ettiler.",
+    "Yer sularını çekip gökyüzü yağmurunu kestiğinde, gemim sonunda Judi Dağı'nda karaya oturdu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Hud",
+        "Peygamber Salih",
+        "Peygamber Nuh",
+        "Peygamber Lut",
+        "Peygamber Şuayb"
+      ],
+      "answer": "Peygamber Nuh"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Dönüşüm Geçiren Personel",
+        "Büyük Tufan",
+        "Soğutma Ateşi",
+        "Bölünen Deniz",
+        "Tanrı'nın Devesi"
+      ],
+      "answer": "Büyük Tufan"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Altın Buzağı",
+        "Personel",
+        "Gömlek",
+        "Nuh'un Gemisi",
+        "Yüzük"
+      ],
+      "answer": "Nuh'un Gemisi"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Vaat Edilmiş Topraklara Giriş",
+        "Kızıldeniz'de boğulmak",
+        "Judi Dağı'nda dinlenmek",
+        "Bir çukura atılmak",
+        "Cennete Yükseliş"
+      ],
+      "answer": "Judi Dağı'nda dinlenmek"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

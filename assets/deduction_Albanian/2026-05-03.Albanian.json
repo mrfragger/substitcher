@@ -1,0 +1,61 @@
+{
+  "title": "Kërkuesit e përgjumur të së vërtetës",
+  "intro": "Imagjinoni një kohë kur besimi u sfidua dhe një grup shpirtrash zgjodhën bindjen e palëkundur mbi rehatinë e kësaj bote. Të përballur me një zgjedhje të frikshme, ata kërkuan strehim, duke u nisur një udhëtim që i çoi në një gjumë të jashtëzakonshëm. Historia e tyre është një dëshmi e mbrojtjes hyjnore dhe fuqisë së besimit kundër shtypjes. A mund ta dalloni identitetin e këtyre individëve të shquar?",
+  "clues": [
+    "Ne ishim një asamble e vogël, të bashkuar nga një besim i thellë në Krijuesin e Vetëm.",
+    "Ne jetuam në një kohë kur një sundimtar i fuqishëm kërkonte adhurimin e të tjerëve përveç Allahut.",
+    "Për të ruajtur besimin tonë, vendosëm të braktisnim shtëpitë tona dhe të iknim nga shtypja.",
+    "Një shok besnik, një krijesë e tokës, na shoqëroi në udhëtimin tonë.",
+    "Ne gjetëm strehë në një vend të izoluar, ku Allahu na bëri të flemë thellë e më gjatë.",
+    "Kur u zgjuam, besonim se kishte kaluar vetëm një ditë ose një pjesë e ditës, por me të vërtetë kishin kaluar shekuj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Njerëzit e Hendekut",
+        "Populli i Themudit",
+        "Populli i Sebait",
+        "Njerëzit e Shpellës",
+        "Populli i Medjenit"
+      ],
+      "answer": "Njerëzit e Shpellës"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Të sprovohesh me një tokë të shkretë",
+        "Përballë një përmbytjeje të madhe",
+        "Duke kërkuar strehim nga një sundimtar tiranik",
+        "Duke u hedhur në një zjarr që digjet",
+        "Duke sfiduar magjinë e një magjistari"
+      ],
+      "answer": "Duke kërkuar strehim nga një sundimtar tiranik"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një pallat i madh",
+        "Një anije/arkë",
+        "Një pus i thellë",
+        "Një shpellë",
+        "Një mal i lartë"
+      ],
+      "answer": "Një shpellë"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Të jepet një mbretëri",
+        "Një gjumë i mrekullueshëm për shekuj me radhë",
+        "Duke u gëlltitur nga toka",
+        "Të shpëtosh nga një stuhi shkatërruese",
+        "Të qenit i pajisur me një tryezë qiellore"
+      ],
+      "answer": "Një gjumë i mrekullueshëm për shekuj me radhë"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

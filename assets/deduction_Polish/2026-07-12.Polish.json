@@ -1,0 +1,61 @@
+{
+  "title": "Zaginione Miasto Niezrównanego Majestatu",
+  "intro": "Potężna cywilizacja niegdyś dominowała nad rozległymi połaciami ziemi, słynąca z strzelistych budowli sięgających nieba. Jednak pod tym majestatem narastało uparte zaprzeczenie – odmowa wysłuchania boskiego ostrzeżenia zesłanego z wnętrza społeczności. Pycha i arogancja wkrótce miały sprowadzić karę, jakiej ani ziemia, ani niebo nigdy nie widziały.",
+  "clues": [
+    "Kiedyś władaliśmy ogromne połacie Ziemi, szczycąc się siłą, jakiej – jak wierzyliśmy – nie może dorównać żadna inna cywilizacja.",
+    "Nasze królestwo słynęło z majestatycznych budowli z potężnymi filarami, które nie miały sobie równych w żadnym znanym kraju.",
+    "Wśród członków naszej społeczności odezwał się ostrzegawczy głos, wzywający każdego z nas do poddania się wyłącznie Jednemu Stwórcy.",
+    "Zaprzeczyliśmy otrzymanemu przesłaniu i odmówiliśmy porzucenia ścieżki, którą odziedziczyliśmy.",
+    "W naszą stronę uderzył gwałtowny, wyjący wiatr o przytłaczającej sile, pozostawiając nas całkowicie bezbronnymi.",
+    "Pozostawiono nas jak wydrążone pnie palm, rozproszone i zapomniane, jako nauczkę dla wszystkich następnych pokoleń."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie A'ad",
+        "Ludzie Nuh",
+        "Ludzie Lutu",
+        "Ludzie Madyanu",
+        "Ludzie z Tubby"
+      ],
+      "answer": "Ludzie A'ad"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Nieustanny, szalejący wiatr surowej kary",
+        "Powódź, która pokryła wszystkie szczyty górskie",
+        "Deszcz palących się glinianych kamieni z góry",
+        "Pojedynczy przerażający krzyk z nieba",
+        "Gwałtowne trzęsienie ziemi, które podzieliło ląd"
+      ],
+      "answer": "Nieustanny, szalejący wiatr surowej kary"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Iram, miasto wysokich filarów",
+        "Ogromna drewniana arka zbudowana na górze",
+        "Wielbłądzica, która cudownie wyłoniła się z kamienia",
+        "Góra Synaj, na którą zstąpiły przykazania Boże",
+        "Pałac z kryształu i pięknego szkła z widokiem na płynące wody"
+      ],
+      "answer": "Iram, miasto wysokich filarów"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pozostawione jak wydrążone pnie palm, rozrzucone i bez życia",
+        "Utonął pod przytłaczającymi falami wielkiej powodzi",
+        "Przemienieni w stworzenia przypominające małpy i świnie",
+        "Zmiażdżony deszczem stwardniałych glinianych kamieni",
+        "Pochłonięty jednym ogłuszającym krzykiem, który przeszył duszę"
+      ],
+      "answer": "Pozostawione jak wydrążone pnie palm, rozrzucone i bez życia"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Moromuoa ea Ileng a Loantša Barapeli ba Litšoantšo",
+  "intro": "Nakong eo boinehelo bo neng bo khelohile, lenģosa le ile la ema ka pitso ea ho khutlela borapeling ba Morena oa lefats'e. Motho enoa o ile a ema a tiile khahlanong le batho ba neng ba tetebetse borapeling ba molimo oa bohata, a ba hopotsa 'Mōpi oa bona oa 'nete le Morena oa baholo-holo ba bona. Leha ho le joalo batho ba ne ba sa ele hloko 'me ba hana temoso, ba tiisa qetello ea bona. Moemeli enoa ea sa thekeseleng e ne e le mang?",
+  "clues": [
+    "Ke ile ka romeloa ho batho ba neng ba furaletse tsela ea Molimo a le Mong oa 'Nete.",
+    "Ke ile ka botsa batho ba heso, \"Na le ke ke la tšaba Allah?\"",
+    "Ke ile ka ba bitsa hore ba tlohele borapeli ba bona ba molimo oa bohata ea bitsoang Baale.",
+    "Batho ba ka ba ile ba hana pitso ea ka 'me ba tsoela pele ho rapela litšoantšo tsa bona.",
+    "Ka lebaka la ho latola ha bona, ruri ba tla tlisoa kotlong.",
+    "Morena oa ka o mphile khotso le khopotso e hlohonolofetseng har'a meloko e tlang."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Ilyas",
+        "Moprofeta Yahya",
+        "Moprofeta Dhul-Kifl",
+        "Moprofeta Yusuf",
+        "Moprofeta Shu'ayb"
+      ],
+      "answer": "Moprofeta Ilyas"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O ile a bitsa batho ba hae hore ba furalle Baale",
+        "A haha ​​areka ho pholosa balumeli",
+        "O ile a lahleloa mollong",
+        "O balehile ho Faro ea hatellang",
+        "O ile a otla lefika ho ntša metsi"
+      ],
+      "answer": "O ile a bitsa batho ba hae hore ba furalle Baale"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Baale",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baale"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Khotso e fanoeng le khopotso e hlohonolofalitsoeng",
+        "E metsoa ke lefats'e",
+        "E sentsoe ke sefefo se matla",
+        "E fetohile lejoe",
+        "Ho khangoa ke metsi leoatleng"
+      ],
+      "answer": "Khotso e fanoeng le khopotso e hlohonolofalitsoeng"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

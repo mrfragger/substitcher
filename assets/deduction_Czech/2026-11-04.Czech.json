@@ -1,0 +1,61 @@
+{
+  "title": "poklad, který se potopil pod pýchou",
+  "intro": "Představte si, že stojíte před hromadami bohatství tak obrovskými, že pouhé nošení klíčů by vyčerpalo skupinu silných jedinců. Kolem vás se ozývají hlasy nabádající k pokoře a vzpomínání si, ale hrdost je hlasitější než vděčnost. Co se stane, když se štědrost stane zkouškou a arogance zpečetí výsledek?",
+  "clues": [
+    "Pocházel jsem z lidu Músova, a přesto jsem se proti nim provinil.",
+    "Byly mi dány poklady tak nesmírné, že klíče k nim by zatížily i skupinu silných mužů.",
+    "Můj lid mi radil, abych se nejásal a usiloval o posmrtný život, aniž bych zapomněl na svůj podíl na tomto světě.",
+    "Tvrdil jsem, že to, co vlastním, mi bylo dáno pouze díky znalostem, které mám.",
+    "Předváděl jsem se před svým lidem v ozdobách a ti, kdo toužili po světském životě, si přáli něco podobného jako já.",
+    "Země mě spolkla i s mým příbytkem a nikdo mi nemohl pomoci, ani já sám jsem si nemohl pomoct."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Karun",
+        "Namrud",
+        "Džalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Chlubil se bohatstvím a navzdory radě odpíral Alláhovu přízeň",
+        "Vyzval Ibrahima ohledně dávání života a smrti",
+        "Vedl armádu proti Talutovi a Dawudovi",
+        "Vyřezávané modly pro uctívání lidí",
+        "Zabil bratra ze závisti kvůli obětině"
+      ],
+      "answer": "Chlubil se bohatstvím a navzdory radě odpíral Alláhovu přízeň"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Klíče k nesmírným pokladům",
+        "Archa úmluvy",
+        "Zlaté tele z ozdob",
+        "Přehrada mezi dvěma horami",
+        "Jedenáct hvězd ve snu"
+      ],
+      "answer": "Klíče k nesmírným pokladům"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Pohlceni zemí s příbytkem a bohatstvím",
+        "Utopil se v moři při pronásledování Musy",
+        "Sražen kamenem z Dawudova praku",
+        "Zničen mohutným výbuchem za podražení velbloudí šlachy",
+        "Proměnili se v opice za porušení Sabatu"
+      ],
+      "answer": "Pohlceni zemí s příbytkem a bohatstvím"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

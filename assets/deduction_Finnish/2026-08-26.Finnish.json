@@ -1,0 +1,61 @@
+{
+  "title": "Kateus joka kulutti",
+  "intro": "Tarina, joka on vanhempi kuin mikään valtakunta tai pyhä kirjoitus – ensimmäinen mustasukkaisuudesta syntynyt ihmiskunnan tragedia. Yksi sielu, kahden ensimmäisille vanhemmille syntyneen lapsen vanhin, katsoi raivoissaan, kun nuorempi sisarus sai osakseen suosiota, joka evättiin. Seurasi synkin valinta, joka jätti jälkeensä maan ensimmäisen verenvuodatuksen. Pystytkö paljastamaan henkilöllisyyden, koettelemuksen ja katkeran katumuksen?",
+  "clues": [
+    "Synnyin ensimmäisestä ihmisparista, joka vaelsi maan päällä.",
+    "Kerran tein uhrin Allahille, mutta sitä ei minulta hyväksytty.",
+    "Sisarukseni tarjous hyväksyttiin, kun taas minun tarjoukseni hylättiin – enkä voinut sietää sitä.",
+    "Uhkasin omaa veljeäni tuholla.",
+    "Minusta tuli ensimmäinen, joka teki murhan maan päällä, vei oman sisareni hengen.",
+    "Allah lähetti maan olennon – mustan linnun, joka kaivoi maahan – opettamaan minulle, kuinka salata tekoni, enkä saanut muuta kuin katumusta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Profeetta Yaqub",
+        "Profeetta Musa",
+        "Profeetta Aadam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Allah hylkäsi uhrin",
+        "Heitetty suureen tuleen",
+        "Hylätty vauvana jokeen",
+        "Testattu valtavalla valtakunnalla",
+        "Käskettiin uhraamaan poikansa"
+      ],
+      "answer": "Allah hylkäsi uhrin"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Allahin lähettämä varis",
+        "Kultainen vasikka",
+        "Arkki vuorella",
+        "Palava pensas",
+        "Kalliosta veistetty naaraskameli"
+      ],
+      "answer": "Allahin lähettämä varis"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Täyttyi katumuksesta ja oli häviäjien joukossa",
+        "Maa nielaisi aarteiden mukana",
+        "Tuli Allahin jalo sanansaattajaksi",
+        "Pääsi paratiisiin jumalallisen armon kautta",
+        "Hallitsi vertaansa vailla olevaa valtakuntaa"
+      ],
+      "answer": "Täyttyi katumuksesta ja oli häviäjien joukossa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

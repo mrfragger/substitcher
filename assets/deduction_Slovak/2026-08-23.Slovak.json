@@ -1,0 +1,61 @@
+{
+  "title": "Zmiznutá množnosť",
+  "intro": "Stojíte pred ozvenami komunity, ktorej príbeh je napísaný vo vlnách. Tieto duše počuli volanie, zvolili si vzdor a čelili následkom, ktoré zmenili zem. Kto sú a čo sa stalo s ich svetom?",
+  "clues": [
+    "Žili sme dávno a prišiel k nám posol spomedzi nás samých.",
+    "Uctievali sme päť modiel a odmietali sme ich opustiť.",
+    "Vysmievali sme sa poslovi a obvinili sme ho, že blúdi.",
+    "Žiadali sme, aby niesol trest, ak hovoril pravdu.",
+    "Videli sme, ako s neba prší dážď a zo zeme vyvierajú pramene.",
+    "Vyšplhali sme sa na vysoké miesta, aby sme unikli, ale vlny nás dobehli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Ľudia z Nuha",
+        "Ľudia z 'Ad",
+        "Ľudia z Thamudu",
+        "Ľudia z Luta",
+        "Ľudia z Madyanu"
+      ],
+      "answer": "Ľudia z Nuha"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Utopila nás veľká povodeň",
+        "Zničil nás hurikán",
+        "Zabil nás hlasný výbuch",
+        "Zem nás pohltila",
+        "Boli sme zasypaní kameňmi z neba"
+      ],
+      "answer": "Utopila nás veľká povodeň"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Veľká povodeň",
+        "Prudký vietor",
+        "Sprcha kameňov",
+        "Ohnivý výbuch",
+        "Zemetrasenie"
+      ],
+      "answer": "Veľká povodeň"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Všetci sme zahynuli okrem veriacich s Nuhom.",
+        "Premenili sme sa na opice",
+        "Zostali sme ako ruiny pre cestovateľov",
+        "Boli sme premenení na soľ",
+        "Dostali sme oddych"
+      ],
+      "answer": "Všetci sme zahynuli okrem veriacich s Nuhom."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

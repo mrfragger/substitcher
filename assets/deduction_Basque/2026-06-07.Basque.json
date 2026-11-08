@@ -1,0 +1,61 @@
+{
+  "title": "Nilo ibaiaren arima torturatua",
+  "intro": "Zapalkuntza handiko garai batean, tirano batek lurraldea krudelkeria osoz gobernatzen zuenean, arima batek fedearen bidea aukeratu zuen erregetzaren erosotasunaren gainetik. Figura hau boterearen bihotzean bizi zen, baina egia aurkitu zuen profeta xume baten mezuan. Haien bidaia pazientzia, sakrifizio eta konbikzio irmoaren ikasgai betierekoa bihurtuko zen. Identifika al dezakezu munduko estatusaren gainetik jainkozko plazerra nahiago zuen pertsona bikain hau?",
+  "clues": [
+    "Botere handiko jauregi batean bizi nintzen, baina nire bihotzak egia aurkitu zuen mezu xume batean.",
+    "Musaren gidaritza jarraitzea aukeratu nuen, jasango nituen ondorioak jakinda.",
+    "Nire garaiko tirano boteretsuenarekin ezkonduta nengoen, baina haren jainko faltsuak arbuiatu nituen.",
+    "Nire sufrimendua larria izan zen, Jainko Bakarrean sinesteagatik zigortu bainintzen.",
+    "Ez nuen inoiz nire fedean zalantzan jarri, tormenturik gogorrenei aurre egin behar izan nienean ere.",
+    "Nire Jauna pozik zegoen nire pazientziarekin eta Paradisuko leku ohoragarri baterako aukeratu ninduen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musa profetaren ama",
+        "Faraoiaren emaztea.",
+        "Musa profetaren arreba",
+        "Antzinako Egiptoko erregina bat",
+        "Israeldarren zerbitzari bat."
+      ],
+      "answer": "Faraoiaren emaztea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Alaren alde armada batekin borrokan",
+        "Faraoiari aurre egitea eta fedea aldarrikatzea",
+        "Egiptoko gurtza-lekuak eraikitzea",
+        "Musarekin itsasoan zehar bidaiatzen",
+        "Allahrengandik errebelazioa jasotzea"
+      ],
+      "answer": "Faraoiari aurre egitea eta fedea aldarrikatzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Midiango basamortua.",
+        "Egiptoko errege-jauregia",
+        "Nilo ibaiaren ertzak",
+        "Sinai mendia.",
+        "Kanaango lurraldea."
+      ],
+      "answer": "Egiptoko errege-jauregia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Profeta bihurtu zen urte askoren ondoren",
+        "Israeldarrak Egiptotik atera zituen",
+        "Egiptoko subiranotasuna eman zioten",
+        "Ala-k martirizatu eta ohoratu zuen",
+        "Zahartzarora arte eroso bizi izan zen"
+      ],
+      "answer": "Ala-k martirizatu eta ohoratu zuen"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

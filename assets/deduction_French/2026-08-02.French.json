@@ -1,0 +1,61 @@
+{
+  "title": "Entre la Terre et le Ciel",
+  "intro": "Une âme mystérieuse vous attend dans les pages sacrées de l'histoire divine, porteuse de signes et de prodiges dont l'écho résonne encore à travers les âges. En suivant la piste des indices, vous traverserez une histoire marquée par les miracles, d'un commencement miraculeux à une ascension au-delà des cieux. Saurez-vous identifier ce serviteur béni avant le dernier indice ?",
+  "clues": [
+    "J'ai été envoyé comme messager aux Enfants d'Israël avec des nouvelles de miséricorde et de lumière.",
+    "Ma naissance fut un signe miraculeux — je suis venu au monde sans père, par la volonté du Tout-Puissant.",
+    "J'ai parlé alors que j'étais encore un nourrisson, défendant l'honneur de ma mère contre les accusations de son peuple.",
+    "Par la permission d'Allah, j'ai façonné des oiseaux d'argile et leur ai insufflé la vie ; ils se sont envolés sous les yeux de ceux qui les observaient.",
+    "J'ai guéri des aveugles-nés, soigné des lépreux et même ressuscité des morts — pourtant, chaque miracle était dû à la permission d'Allah, et non aux miens.",
+    "Lorsque mes ennemis ont comploté pour me détruire, Allah m'a élevé jusqu'aux cieux et m'a promis mon retour avant le Jour du Jugement."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Isa (Jésus)",
+        "Prophète Moussa (Moïse)",
+        "Le prophète Ibrahim (Abraham)",
+        "Le prophète Mahomet",
+        "Prophète Yusuf (Joseph)"
+      ],
+      "answer": "Prophète Isa (Jésus)"
+    },
+    "trial": {
+      "label": "Le moment décisif",
+      "options": [
+        "J'ai été élevé jusqu'aux cieux",
+        "J'ai été jeté dans un feu déchaîné",
+        "J'ai affronté la puissante armée du Pharaon",
+        "J'ai été avalé par une grande baleine",
+        "J'ai construit une arche sur la montagne"
+      ],
+      "answer": "J'ai été élevé jusqu'aux cieux"
+    },
+    "location": {
+      "label": "Signe sacré accompli",
+      "options": [
+        "J'ai modelé des oiseaux en argile.",
+        "J'ai transformé un bâton en serpent",
+        "J'ai fendu la lune en deux",
+        "J'ai commandé au vent et aux djinns",
+        "J'ai fait sortir une chamelle d'un rocher"
+      ],
+      "answer": "J'ai modelé des oiseaux en argile."
+    },
+    "outcome": {
+      "label": "Que suis-je devenu ?",
+      "options": [
+        "Élevés jusqu'aux cieux ; promis de revenir",
+        "Il devint un grand souverain d'un empire",
+        "J'ai fait sortir mon peuple de captivité",
+        "On lui a donné une richesse terrestre sans pareille",
+        "J'ai retrouvé ma famille après une longue séparation."
+      ],
+      "answer": "Élevés jusqu'aux cieux ; promis de revenir"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

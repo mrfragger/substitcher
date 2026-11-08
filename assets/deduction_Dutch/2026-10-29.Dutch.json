@@ -1,0 +1,61 @@
+{
+  "title": "Een kleine waarschuwing vóór een oprukkende menigte",
+  "intro": "Stap een vallei binnen waar een machtige heerser en een groot leger naderen, en stel je voor hoe een kleine reiziger een waarschuwing geeft die een hele gemeenschap redt. Terwijl de bedreigde gemeenschap een veilige plek bereikt, trekt het gevaar weg. Volg de aanwijzingen om de over het hoofd geziene figuur achter die waarschuwing te identificeren.",
+  "clues": [
+    "Ik behoor tot de kleine wezens die geassocieerd worden met het koninkrijk van een heerser.",
+    "Mijn gemeenschap woont in huizen in een vallei, waar we elkaar kunnen roepen.",
+    "We worden bedreigd door die heerser en de legers die met hem meereizen.",
+    "Ik ben degene die mijn gemeenschap oproept hun huizen binnen te gaan en ons waarschuwt niet ongemerkt ten onder te gaan.",
+    "De heerser is Sulayman, en mijn soort behoort tot de wezens die onder zijn bevel staan.",
+    "Ik ben de mier van dat dal; na mijn waarschuwing trokken we ons terug in onze woningen en ontkwamen we aan de verpletterende aanval die ons anders onverwachts zou hebben getroffen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "De mier van het dal",
+        "De hop",
+        "De Kraai",
+        "De Slang",
+        "De muilezel"
+      ],
+      "answer": "De mier van het dal"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Een waarschuwing die een mierenkolonie behoedde.",
+        "Een vis vraagt ​​om een ​​ring.",
+        "Een zoektocht naar een verdwenen troon",
+        "De redding van gestolen ogen",
+        "Het weigeren om het eten van een heerser te eten."
+      ],
+      "answer": "Een waarschuwing die een mierenkolonie behoedde."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "De Vallei van de Mieren",
+        "De zegelring van Sulayman",
+        "Het met bloed bevlekte hemd van Yusuf",
+        "Het gouden kalf van de Exodus",
+        "De staf van Musa"
+      ],
+      "answer": "De Vallei van de Mieren"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "De gemeenschap bleef gespaard nadat ze een schuilplaats hadden gezocht.",
+        "De gemeenschap werd verwoest zonder dat ze een schuilplaats konden vinden.",
+        "De gemeenschap bleef gespaard omdat het leger zich terugtrok.",
+        "De gemeenschap werd beloond met zeggenschap over de vogels.",
+        "De gemeenschap werd als gevangenen naar het koninklijk hof gebracht."
+      ],
+      "answer": "De gemeenschap bleef gespaard nadat ze een schuilplaats hadden gezocht."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

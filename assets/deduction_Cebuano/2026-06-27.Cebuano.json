@@ -1,0 +1,61 @@
+{
+  "title": "Ang Sagradong Pagkawala",
+  "intro": "Labaw pa sa mga balas sa panahon, adunay usa ka sugilanon sa dili matarug nga debosyon ug usa ka pagsalig nga bug-at kaayo nga ang kalag nga nagdala niini mahimong mabuak. Sa usa ka gutlo sa dihang ang mga tawo milingi ngadto sa kabuang ug bulawan, usa ka tawo ang mibarog nga lig-on—nagtawag kanila balik, nangamuyo alang sa pailub, ug nagpas-an sa gibug-aton sa usa ka sagrado nga saad. Kini ang istorya sa usa nga gipili isip usa ka katabang, usa ka vizier, ug usa ka magbalantay sa pagtuo atol sa usa ka sagrado nga pagkawala. Mahimo ba nimo nga mahibal-an ang pagkatawo niining malig-on nga kalag?",
+  "clues": [
+    "Ako nakigbahin sa dugo sa usa ka bantugang propeta nga gipili aron makigsulti kang Allah direkta didto sa sagrado nga bukid.",
+    "Ang akong igsoon nangamuyo kang Allah kaniadto alang sa tabang sa pagsulti og klaro ngadto sa usa ka dakong manlulupig.",
+    "Gipili ako ni Allah nga mobarog tupad sa akong igsoon isip katabang ug vizier.",
+    "Magkauban natong giatubang ang usa ka malupigong magmamando nga namugos nga tawgon nga labing taas sa mga diyos.",
+    "Samtang ang akong igsoon nakigsulti kang Allah didto sa bukid, ang among katawhan naghimo alang sa ilang kaugalingon og usa ka dios-dios gikan sa ilang bulawan.",
+    "Ako ang igsoon ni Moises, gitudlo ni Allah isip iyang vizier, nga gihisgutan ang ngalan sa Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Harun (Aaron)",
+        "Propeta Musa",
+        "Propeta David",
+        "Propeta Jacob",
+        "Propeta Ishaq"
+      ],
+      "answer": "Propeta Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang Krisis sa Pagsimba sa Baka",
+        "Ang Dakong Lunop ni Nuh",
+        "Ang Gubat sa Badr",
+        "Ang Pagkaguba sa Thamud",
+        "Ang Pagkaguba sa Sodoma"
+      ],
+      "answer": "Ang Krisis sa Pagsimba sa Baka"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang Bulawanong Baka",
+        "Arka ni Noe",
+        "Ang Nagdilaab nga Kahoy",
+        "Ang Langob sa Hira",
+        "Ang Trono sa Sheba"
+      ],
+      "answer": "Ang Bulawanong Baka"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang Pagka-inosente Gipamatud-an ni Allah",
+        "Pagkalumos ni Paraon",
+        "Ang Pagtukod sa Kaaba",
+        "Luwas nga Pagtabok sa Dagat",
+        "Pagsaka sa Langit"
+      ],
+      "answer": "Ang Pagka-inosente Gipamatud-an ni Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

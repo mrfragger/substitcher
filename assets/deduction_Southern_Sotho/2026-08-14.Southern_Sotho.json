@@ -1,0 +1,61 @@
+{
+  "title": "Matsoho a Rohakiloeng",
+  "intro": "U eme literateng tse kobehileng tsa Makkah ea boholo-holo, moo moea o nang le tšusumetso le leruo o kileng oa furalla pitso ea 'nete. Pale ea motho enoa ke khopotso e matla ea hore maqhama a mali a ke ke a hlola liketane tsa boikhohomoso. Ke mang enoa eo lebitso la hae le tšoanang le mollo o mo emetseng?",
+  "clues": [
+    "Ke ile ka tsamaea literateng tsa Makka ka boikhohomoso bo ileng ba foufatsa 'nete, leha lenģosa e ne e le la mali a ka.",
+    "Thepa ea ka e ne e le ngata, empa e fetohile thohako ho e-na le thebe.",
+    "Buka ea tataiso e bua ka tšenyeho ea ka, e bolela hore matsoho a ka le botho ba ka li tla timela.",
+    "Molekane oa ka o ile a ikopanya le letšolo la ka la bora, a bokella meutloa ho jala tseleng ea ea ipiletsang ho Allah.",
+    "Ka letsatsi la kahlolo, ke tla qoelisoa mollong o tukang, 'me molekane oa ka o tla roala thapo ea palema molaleng.",
+    "Ke tsejoa ka lebitso le bolelang 'ntate oa lelakabe' - lebitso le bolelang esale pele bolulo ba ka ba ka ho sa feleng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Teko ea Bohlokoa kapa Ketsahalo",
+      "options": [
+        "O ile a hanyetsa Moprofeta mme a rohakoa ho Quran",
+        "O ile a etella pele lebotho ho timetsa Kaaba",
+        "O ile a leka ho bolaea Moprofeta ka ho mo betsa ka majoe",
+        "O hanne ho lumela ho petsoheng ha khoeli",
+        "Ke hahile tora ho fihla maholimong"
+      ],
+      "answer": "O ile a hanyetsa Moprofeta mme a rohakoa ho Quran"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Mollo o tukang oa Lihele",
+        "Basebetsi ba Musa",
+        "Areka ea Nuh",
+        "Seliba sa Zamzam",
+        "Namane ea Khauta"
+      ],
+      "answer": "Mollo o tukang oa Lihele"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "O tla kena Mollong o tukang, 'me leruo la hae le ke ke la mo thusa",
+        "O ile a baka mme a fetoha molumeli",
+        "O ile a tšoareloa ka mor'a ho koenehela tumelo ea hae",
+        "O shwele e le moshwela-tumelo",
+        "O ile a nkeloa leholimong"
+      ],
+      "answer": "O tla kena Mollong o tukang, 'me leruo la hae le ke ke la mo thusa"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

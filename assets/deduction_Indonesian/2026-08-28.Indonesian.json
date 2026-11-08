@@ -1,0 +1,61 @@
+{
+  "title": "Hambatan di Rumah Kuno",
+  "intro": "Di kota suci itu, sesosok tokoh berpengaruh dipenuhi amarah ketika sebuah pesan baru mulai menyebar. Individu ini, yang namanya menjadi identik dengan penentangan terhadap kebenaran, menyaksikan pengaruhnya runtuh di bawah beban wahyu ilahi. Siapakah jiwa ini, yang nasibnya telah ditentukan di pasir medan perang yang terkenal itu?",
+  "clues": [
+    "Aku adalah seorang pemimpin di antara kaumku, dikenal karena kekayaan dan pengaruhku di kota yang menyimpan sebuah tempat suci kuno.",
+    "Ketika seorang pria dari suku saya mulai menyampaikan pesan tentang satu Tuhan, saya mengejeknya dan wahyu-wahyunya, menyebutnya hanya sebagai kisah masa lalu.",
+    "Saya menghampiri pria itu saat dia berdoa di dekat bangunan suci tersebut, mengancam akan menghentikan ibadahnya dengan paksa jika perlu.",
+    "Saya termasuk di antara para pemimpin yang bersekongkol untuk membungkam kepercayaan baru tersebut, menentang para pengikutnya baik dengan kata-kata maupun senjata.",
+    "Aku berbaris bersama pasukan menuju tempat bernama Badr, yakin bahwa kami akan menghancurkan kelompok kecil orang-orang beriman itu.",
+    "Namun di medan perang itu, hidupku berakhir, dan kematianku menjadi pelajaran bagi mereka yang tetap tidak percaya setelah melihat tanda-tanda yang jelas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah bin Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Mencegah Nabi untuk shalat di Ka'bah",
+        "Membangun Ka'bah",
+        "Menulis Al-Quran",
+        "Memimpin pasukan gajah",
+        "Membelah bulan"
+      ],
+      "answer": "Mencegah Nabi untuk shalat di Ka'bah"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Ka'bah",
+        "Bahtera Nabi Nuh",
+        "Tongkat Nabi Musa",
+        "Anak Lembu Emas",
+        "Singgasana Ratu Sheba"
+      ],
+      "answer": "Ka'bah"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Gugur dalam Pertempuran Badr",
+        "Bertaubat dan menjadi seorang Muslim.",
+        "Melarikan diri ke Abyssinia",
+        "Meninggal di Tahun Gajah",
+        "Menjadi sahabat Nabi"
+      ],
+      "answer": "Gugur dalam Pertempuran Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

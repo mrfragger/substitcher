@@ -1,0 +1,61 @@
+{
+  "title": "Boitelo ba Boithatelo",
+  "intro": "Nakong ea liteko tsa bomolimo, moea o ile oa bitsetsoa ketsong ea ho qetela ea ho ikokobetsa. Kaha o hōletse naheng e omeletseng, setšoantšo sena se ile sa hola sa bontša tumelo le mamello. Ha pono e laela sehlabelo, ha baa ka ba thekesela. Pale ea bona ke lejoe la motheo la boinehelo.",
+  "clues": [
+    "Ke ne ke le karabo thapelong e neng e letetsoe ka nako e telele ea moprofeta e moholo.",
+    "’Na le ’Mè re ile ra sala phuleng e se nang batho re e-na le lijo tsa letsatsi le metsi feela.",
+    "Ke holetse ho fihlela ke e-ba moprofeta ea tsebahalang ka ho ba le 'nete le mamello.",
+    "Ke thusitse ntate ho phahamisa metheo ea ntlo e halalelang e inehetseng ho Allah.",
+    "Ha ntate a mpolella toro ea ho ntlhabela sehlabelo, ke ile ka re, 'Etsa kamoo u laetsoeng kateng.'",
+    "Allah o ile a hlompha boikokobetso ba ka ka ho romela pheleu e tsoang leholimong ho tla nthekolla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Isma'il",
+        "Moprofeta Ishaq",
+        "Moprofeta Ya'qub",
+        "Moprofeta Ibrahim",
+        "Moprofeta Yusuf"
+      ],
+      "answer": "Moprofeta Isma'il"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho inehela ka boithatelo hore motho a etse sehlabelo",
+        "Ho lahleloa mollong o tukang",
+        "Ho metsoa ke tlhapi e kholo",
+        "Ho rekisoa bokhobeng",
+        "Ho hlahlojoa ka lefu le tebileng"
+      ],
+      "answer": "Ho inehela ka boithatelo hore motho a etse sehlabelo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Seliba sa Zamzam",
+        "Areka ea Nuh",
+        "Mollo oa Nimrode",
+        "Namane ea Khauta",
+        "Basebetsi ba Musa"
+      ],
+      "answer": "Seliba sa Zamzam"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "O ile a lopolloa ka pheleu e kholo",
+        "O pholositsoe mollong",
+        "O ile a pholosoa moroallong",
+        "E ntšoa ka har'a leruarua",
+        "O ne a filoe 'muso le bohlale"
+      ],
+      "answer": "O ile a lopolloa ka pheleu e kholo"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

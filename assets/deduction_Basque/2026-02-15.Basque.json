@@ -1,0 +1,61 @@
+{
+  "title": "Irmotasunaren Ahotsa.",
+  "intro": "Pertsona hau jakinduria eta gidaritza sakonagatik gogoratzen da, belaunaldiz belaunaldiko aholkuak eskaintzen baititu. Beren hitzak jainkozaletasunaren eta Jainkoaren bedeinkapenak eta probak aitortzearen garrantziaren lekuko dira. Ezagutu arima gurtu honen nortasuna.",
+  "clues": [
+    "Ez nintzen profeta bat, baina nire jakinduria Jainkozko Eskrituran hilezkor dago.",
+    "Nire semeari eman nion aholkuak Alarekiko esker ona eta shirk-a saihestea azpimarratu zituen.",
+    "Otoitzaren garrantziaz, ongia agintzeaz eta gaizkia debekatzeaz irakatsi nuen.",
+    "Harrokeriaren eta lurrean lotsagabekeriaz ibiltzearen aurka ohartarazi nuen.",
+    "Nire izena Koraneko kapitulu oso bati ematen zaio, nire irakaspenak nabarmenduz.",
+    "Nire aholkuak pazientzia barne hartzen zuen zoritxarrean, izan ere, hori gauza erabakigarrienetatik dator."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Idris profeta",
+        "Yahya profeta",
+        "Luqman",
+        "Imran",
+        "Hud profeta"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Irakaskuntza/Orientazio Gakoa",
+      "options": [
+        "Arka bat eraikitzea",
+        "Armada indartsu bati aurre eginez",
+        "Jakinduria eta aholku moralak banatzea",
+        "Ametsak interpretatzea",
+        "Nazio bat garaipenera eramatea"
+      ],
+      "answer": "Jakinduria eta aholku moralak banatzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sasi erretzen ari den bat",
+        "Arrain handi bat.",
+        "Mendi zehatz bat.",
+        "Aholku jakintsu bat ondorengo bati",
+        "Jauregi handi bat."
+      ],
+      "answer": "Aholku jakintsu bat ondorengo bati"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Errege bihurtu zen.",
+        "Profezia eman zioten",
+        "Bere jakinduria Koranean jasota zegoen",
+        "Bere herria lurralde berri batera eraman zuen",
+        "Aberastasun izugarria eman zioten"
+      ],
+      "answer": "Bere jakinduria Koranean jasota zegoen"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

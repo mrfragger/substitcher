@@ -1,0 +1,61 @@
+{
+  "title": "Mu’mina Dhokataa",
+  "intro": "Galmoota aangoo badhaadhina qaban, bakka kufrii fi abbaa irree itti bulchan keessatti, sagalee dhugaa kophaa ta’e tokko bakka hin eegamne irraa dubbate. Lakkoofsi kun dhugaa labsuuf nageenya ofii balaaf saaxilee ergamaa tokko eeguuf aangoo qabu morme.",
+  "clues": [
+    "Biyya abbaa irree guddaa keessa jiraachaa ture, bulchaa waaqummaa himatu tajaajilaa ture.",
+    "Amantii koo isa dhugaa mul’isuun bu’aa akkamii akka fidu sodaadhee waggoota dheeraaf dhoksee ture.",
+    "Ergamaan tokko mallattoo ifa ta’e qabatee yommuu dhufu, nan amane, garuu sabni koo shira irratti xaxan.",
+    "Ergamaa qulqulluu ajjeesuu hin qaban jedheen falmaa gabroomfataa fi yaa'ii isaa dura dhaabadhe.",
+    "Adabbii saboota darban kanneen dhugaa gananii, akka ummata Nohii fi 'Ad' isaan akeekkachiise.",
+    "Rabbiin shira badii isaanii jalaa na oolche, sirna cunqursaa diigamuus nan arge."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Amanaa Maatii Fara'oon",
+        "Falfalaa Fara'oon",
+        "Vizier Fara'oon",
+        "Haadha manaa Fara'oon",
+        "Kaappitaala Fara'oon"
+      ],
+      "answer": "Amanaa Maatii Fara'oon"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Raajii tokko ajjeechaa irraa ittisuu",
+        "Tooftaa falfalaa mormuu",
+        "Samii ga'uuf masaraa ijaaruu",
+        "Baqachuuf galaana addaan baasuu",
+        "Abjuu mootii tokkoo hiikuu"
+      ],
+      "answer": "Raajii tokko ajjeechaa irraa ittisuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Mana murtii Fara'oon",
+        "Bosona gubaa jiru",
+        "Re'ee warqee",
+        "Boolla bishaanii Madyan",
+        "Taabotni Nabi Nuh"
+      ],
+      "answer": "Mana murtii Fara'oon"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Osoo cunqursitoonni diigaman miidhaa irraa baraare",
+        "Bulchaa humna guddaa qabu ta'e",
+        "Ibiddatti darbatamee osoo hin miidhamiin ba'e",
+        "Lafaan liqimfame",
+        "Waggaa afurtama lafa onaa keessa naanna'e"
+      ],
+      "answer": "Osoo cunqursitoonni diigaman miidhaa irraa baraare"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

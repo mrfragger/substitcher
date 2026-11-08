@@ -1,0 +1,61 @@
+{
+  "title": "Sự huy hoàng đã chìm",
+  "intro": "Hãy hình dung thế này: một người khoác lên mình những bộ trang phục lộng lẫy và được bao quanh bởi những kho báu không thể tưởng tượng nổi. Người này tin rằng sự giàu có của họ có được nhờ tài năng xuất chúng của bản thân, không bao giờ thừa nhận nguồn gốc thực sự của sự sung túc. Sống giữa những người theo một vị tiên tri vĩ đại, người này từ chối mọi lời kêu gọi khiêm nhường. Hôm nay, chúng ta sẽ khám phá danh tính của một nhân vật mà khối tài sản khổng lồ của ông ta đã trở thành nơi an nghỉ cuối cùng của ông.",
+  "clues": [
+    "Tôi sống vào thời của một vị tiên tri đã kêu gọi một dân tộc cứng đầu hướng đến chân lý.",
+    "Tôi là một phần của cộng đồng được lựa chọn, nhưng trái tim tôi lại quay lưng với thông điệp đó.",
+    "Vàng và bạc quyến rũ tôi hơn bất kỳ mệnh lệnh thần thánh nào.",
+    "Kho báu của tôi ngày càng lớn đến nỗi một nhóm người khỏe mạnh cũng khó lòng nhấc nổi chìa khóa.",
+    "Tôi đã khoe khoang rằng sự giàu có của tôi là do kiến ​​thức của chính tôi mà có được.",
+    "Cuối cùng, tôi và toàn bộ nhà cửa của tôi đã bị đất nuốt chửng như một lời cảnh báo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Kiêu ngạo vì giàu có và từ chối giúp đỡ người khác",
+        "Rèn một bức tượng vàng từ đồ trang sức đã nung chảy",
+        "Tuyên bố thần thánh hóa một vương quốc hùng mạnh",
+        "đàn áp những tín đồ đầu tiên ở Mecca",
+        "Dẫn đầu một chiến dịch nhằm phá hủy Ngôi nhà linh thiêng."
+      ],
+      "answer": "Kiêu ngạo vì giàu có và từ chối giúp đỡ người khác"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Những kho báu mà chìa khóa của chúng đã làm gánh nặng cho nhiều người đàn ông mạnh mẽ.",
+        "Một con bê vàng biết phát ra âm thanh",
+        "Một ngai vàng huy hoàng từ một vùng đất xa xôi",
+        "Một chiến hào ngập tràn lửa cháy.",
+        "Một đội quân voi chiến hùng mạnh"
+      ],
+      "answer": "Những kho báu mà chìa khóa của chúng đã làm gánh nặng cho nhiều người đàn ông mạnh mẽ."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị đất nuốt chửng cùng với ngôi nhà",
+        "Chết đuối trên biển cùng với một đội quân",
+        "Bị thiêu sống trong một hố lửa.",
+        "Bị phá hủy bởi cơn gió gào thét dữ dội.",
+        "Bị hạ gục bởi một đòn tấn công mạnh mẽ duy nhất"
+      ],
+      "answer": "Bị đất nuốt chửng cùng với ngôi nhà"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

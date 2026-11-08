@@ -1,0 +1,61 @@
+{
+  "title": "Offret som förändrade ödet",
+  "intro": "I mänsklighetens tidigaste dagar erbjöds en själ en gåva med rena avsikter. Ändå lurade avund i skuggan av acceptans. Upptäck historien om denna figur vars fromhet och tragiska slut förevigas i gudomlig uppenbarelse.",
+  "clues": [
+    "Jag var bland de allra första generationerna av mänskligheten.",
+    "Jag frambar en offergåva till min Herre, och den mottogs med välvilja.",
+    "Min brors offergåva förkastades, och avund förmörkade hans hjärta.",
+    "Jag sade till honom: \"Om du sträcker ut din hand mot mig för att döda mig, så skall jag inte sträcka ut min hand för att döda dig. Jag fruktar sannerligen Allah, världarnas Herre.\"",
+    "Jag blev offer för det första mordförsöket på jorden.",
+    "Mitt blod ropade, och jag var oskuldens första martyr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Kain)",
+        "Mannen från Ya-Sin",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Hans offer accepterades, vilket orsakade hans brors avund och hans mord.",
+        "Han kastades in i en brinnande ugn men klarade sig oskadd.",
+        "Han byggde ett enormt skepp under gudomlig ledning",
+        "Han svaldes av en stor fisk och förblev i mörkret",
+        "Han ledde sitt folk genom ett delat hav"
+      ],
+      "answer": "Hans offer accepterades, vilket orsakade hans brors avund och hans mord."
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Ett accepterat erbjudande",
+        "En stav som förvandlas till en orm",
+        "En honkamel som ett gudomligt tecken",
+        "En härfågel som bringar nyheter",
+        "En guldkalv dyrkad"
+      ],
+      "answer": "Ett accepterat erbjudande"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Första mordet i historien; hans bror dömdes",
+        "Uppslukad av jorden tillsammans med sin rikedom",
+        "Förvandlades till apor på grund av överträdelse",
+        "Förstört av en hård, iskall vind",
+        "Drunknade i en stor översvämning som straff"
+      ],
+      "answer": "Första mordet i historien; hans bror dömdes"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

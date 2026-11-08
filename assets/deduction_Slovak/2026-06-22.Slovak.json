@@ -1,0 +1,61 @@
+{
+  "title": "Skrytý veriaci",
+  "intro": "V opulentných sieňach moci, kde vládla nevera a tyrania, sa z nečakaného miesta ozval osamelý hlas pravdy. Táto postava spochybnila autoritu chrániť posla a riskovala vlastnú bezpečnosť, aby mohla hlásať pravdu.",
+  "clues": [
+    "Žil som v krajine veľkej tyranie a slúžil som vládcovi, ktorý sa považoval za božstvo.",
+    "Svoje skutočné presvedčenie som dlhé roky skrýval zo strachu z následkov, ktoré by som dosiahol, keby som ho odhalil.",
+    "Keď prišiel posol s jasnými znameniami, uveril som, ale môj ľud sa proti nemu sprisahal.",
+    "Stál som pred tyranom a jeho radou a argumentoval som, že by nemali zabíjať nevinného posla.",
+    "Varoval som ich pred trestom minulých národov, ktoré odmietli pravdu, ako napríklad Noemov a Adov ľud.",
+    "Alah ma zachránil pred ich zlými úkladmi a ja som bol svedkom zničenia utláčateľského režimu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Veriaci z faraónovej rodiny",
+        "Faraónov kúzelník",
+        "Vezír faraóna",
+        "Manželka faraóna",
+        "Pokladník faraóna"
+      ],
+      "answer": "Veriaci z faraónovej rodiny"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Obhajoba proroka pred popravou",
+        "Náročné kúzelnícke triky",
+        "Stavba veže, ktorá dosiahne oblohu",
+        "Rozdeľovanie mora pre únik",
+        "Výklad kráľovho sna"
+      ],
+      "answer": "Obhajoba proroka pred popravou"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Faraónov dvor",
+        "Horiaci ker",
+        "Zlaté teľa",
+        "Studňa Madyanu",
+        "Archa proroka Nuha"
+      ],
+      "answer": "Faraónov dvor"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zachránený pred zlom, zatiaľ čo utláčatelia boli zničení",
+        "Stal sa mocným vládcom",
+        "Bol hodený do ohňa a vyšiel z neho bez zranení",
+        "Bol pohltený zemou",
+        "Štyridsať rokov putoval púšťou"
+      ],
+      "answer": "Zachránený pred zlom, zatiaľ čo utláčatelia boli zničení"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

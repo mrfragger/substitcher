@@ -1,0 +1,61 @@
+{
+  "title": "Hrepenenje v sveti sobi",
+  "intro": "Stopiš v tiho svetišče in zagledaš predanega Alaha, ki stoji v molitvi. Njihove roke so dvignjene, njihove oči so vzdignjene, njihovo srce pa nosi hrepenenje, ki traja že vse življenje. Kdo je ta potrpežljiva duša, katere zaupanje v Alaha ni nikoli omahnilo?",
+  "clues": [
+    "Dolga leta sem preživel v čaščenju in molitvi ter bil priča čudežem, ki so okrepili mojo vero.",
+    "Dobila sem odgovornost skrbeti za blagoslovljeno mlado dušo v svetišču.",
+    "Ko sem se postaral, je bila moja največja žalost ta, da nisem imel otrok, saj je bila moja žena neplodna, oba pa sva bila že v visoki starosti.",
+    "Molil sem svojega Gospoda za naslednika iz moje družine, nekoga, ki bi nadaljeval zapuščino prerokovanja.",
+    "Medtem ko sem stal v molitveni niši, so me angeli poklicali in rekli: 'Alah ti sporoča veselo novico', in preplavil me je strah in strahospoštovanje.",
+    "Rekli so mi, da bom imel sina po imenu Yahya, ime, ki ga še nihče ni dobil, in kot znak, da tri dni ne bom govoril z ljudmi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Zakarija",
+        "Prerok Jahja",
+        "Prerok Isa",
+        "Prerok Davud",
+        "Lukman Modri"
+      ],
+      "answer": "Prerok Zakarija"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Neplodnost in starost ob hlepu po pravičnem dediču",
+        "Biti vržen v plameneči ogenj",
+        "Biti pogoltnjen s strani velike ribe",
+        "Izguba kraljestva zaradi tirana",
+        "Biti izgnan iz domovine"
+      ],
+      "answer": "Neplodnost in starost ob hlepu po pravičnem dediču"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Molitvena niša (mihrab)",
+        "Velika ladja (Arka)",
+        "Goreči grm",
+        "Palica, ki se je spremenila v kačo",
+        "Alahova kamela"
+      ],
+      "answer": "Molitvena niša (mihrab)"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Po treh dneh molka je dobil pravičnega sina in spet spregovoril",
+        "Uničena zaradi poplave zaradi nevere",
+        "Glede na ogromno kraljestvo in nadzor nad vetrom",
+        "Iz trebuha ribe",
+        "Požrla ga je zemlja"
+      ],
+      "answer": "Po treh dneh molka je dobil pravičnega sina in spet spregovoril"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

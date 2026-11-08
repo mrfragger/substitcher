@@ -1,0 +1,61 @@
+{
+  "title": "Gwarchodwyr yr Ardd",
+  "intro": "Mewn gardd ffrwythlon, gwnaeth cymuned adduned ddifrifol. Ond profwyd eu penderfyniad pan ymyrrodd ewyllys ddwyfol, gan drawsnewid eu haelioni yn dir diffaith.",
+  "clues": [
+    "Cawsom ein bendithio â gardd doreithiog, ond daethom yn drahaus.",
+    "Gwnaethom gynllun i gynaeafu heb rannu gyda'r tlodion.",
+    "Fe gychwynnon ni’n gynnar yn y bore, yn hyderus yn ein cynllun.",
+    "Ond pan gyrhaeddon ni, gwelsom fod ein gardd wedi cael ei dinistrio dros nos.",
+    "Fe sylweddolon ni ein camgymeriad a dechrau beio ein gilydd.",
+    "Fe wnaethon ni edifarhau o'r diwedd, ond dysgwyd y wers yn rhy hwyr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Pobl yr Ardd",
+        "Pobl yr Ogof",
+        "Pobl yr Eliffant",
+        "Pobl Thamud",
+        "Pobl 'Ad"
+      ],
+      "answer": "Pobl yr Ardd"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gardd wedi troi’n lludw",
+        "Llifogydd a ddinistriodd bopeth",
+        "Newyn a darodd y wlad",
+        "Byddin o adar yn ymosod",
+        "Gwynt mawr a ddiwreiddiodd goed"
+      ],
+      "answer": "Gardd wedi troi’n lludw"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Gardd",
+        "Ogof",
+        "Llong",
+        "Mynydd",
+        "Palas"
+      ],
+      "answer": "Gardd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Fe wnaethon nhw edifarhau ond colli eu gardd",
+        "Fe'u dinistriwyd yn llwyr",
+        "Fe'u trowyd yn epaod",
+        "Fe'u hachubwyd trwy ffydd",
+        "Daethant yn rheolwyr"
+      ],
+      "answer": "Fe wnaethon nhw edifarhau ond colli eu gardd"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

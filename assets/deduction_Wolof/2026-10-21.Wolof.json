@@ -1,0 +1,61 @@
+{
+  "title": "Yonent bi jàkkarloo ak jaamukat yi",
+  "intro": "Ci jamono ji jaamu Yàlla réeree, ab ndaw jog di woote ñu dellu ci jaamu Boroom biy dundal àdduna. Nit ki dafa taxawoon bu baax ci xeex askan wi gëmoon jaamu yàlla ju dul dëgg, di leen fàttali seen boroom dëgg, di Boroomu seeni maam. Waaye nit ñi nangu wuñu àrtu bi, daal di teg seen bopp seen ëlëg. Kan moo doon wootekat bu dëgër bi?",
+  "clues": [
+    "Dañu ma yónnee ci askan wu réer ci yoonu Benn Yàlla bu Dëgg bi.",
+    "Ma laaj sama gaa yi : “Ndax dungeen ragal Yàlla?”",
+    "Ma woo leen ñu bàyyi seen jaamu yàlla bu baaxul bu tuddu Baal.",
+    "Sama askan nangu wuñu sama woote, ba noppi wéy di jaamu yàlla yi.",
+    "Ndax seen weddi dees na leen génne ngir ñu mbugal leen.",
+    "Sama Boroom may na ma jàmm ak tuttël gu barkeel ci samay mbokk yuy ñëw."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Ilyas",
+        "Yahya",
+        "Zul kifl",
+        "Yonent bi Yuusuf",
+        "Boroom bi Shu'ayb"
+      ],
+      "answer": "Ilyas"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "woo askanam ñu bàyyi Baal",
+        "Defar na gaal ngir muccal ñi gëm",
+        "Dañu ko sànni ci safara",
+        "Daw ci fitna Firawna",
+        "Dafa dóor xeer ngir mu génne ndox"
+      ],
+      "answer": "woo askanam ñu bàyyi Baal"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Yalna jàmm ak fàttaliku bu barkeel",
+        "Suuf si wann ko",
+        "Taw bu metti moo ko yàq",
+        "Soppiku nekk xeer",
+        "Dafa féey ci géej gi"
+      ],
+      "answer": "Yalna jàmm ak fàttaliku bu barkeel"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

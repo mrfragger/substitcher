@@ -1,0 +1,61 @@
+{
+  "title": "Der Prophet der geschnitzten Berge",
+  "intro": "In den unwirtlichen Wüsten des alten Arabiens erhob sich unter einem Volk, das für seine außergewöhnliche Handwerkskunst berühmt war, eine Gestalt. Ihre Häuser erhoben sich aus massivem Fels, doch ihre Herzen waren härter als die Berge, die sie formten. Ein göttlicher Bote erschien mit einem einzigen, wundersamen Zeichen – doch Stolz und Trotz führten zu schnellen und furchtbaren Konsequenzen. Können Sie den edlen Diener identifizieren, dessen Volk die Zerstörung dem Weg der Führung vorzog?",
+  "clues": [
+    "Ich wurde als Warner zu meinem Volk gesandt, um sie zur Anbetung des einen Gottes aufzurufen.",
+    "Mein Volk lebte inmitten dramatischer Felsformationen und hauchte prächtige Behausungen in die Berghänge ein.",
+    "Auf mein Gebet hin entstieg eine wundersame Kamelstute aus dem festen Felsen – ein klares Zeichen des Allmächtigen.",
+    "Ich habe meinem Volk gesagt, sie sollen das Wasser mit dieser Kamelstute teilen und ihr keinen Schaden zufügen.",
+    "Mein Volk verschwor sich gegen die Kamelstute und verletzte sie schwer, womit es seinen eigenen Untergang besiegelte.",
+    "Ein furchtbares Erdbeben traf mein Volk, und sie blieben regungslos in ihren Behausungen liegen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Salih",
+        "Prophet Hud",
+        "Prophet Shu'ayb",
+        "Prophet Nuh",
+        "Prophet Musa"
+      ],
+      "answer": "Prophet Salih"
+    },
+    "trial": {
+      "label": "Welcher Prozess war ausschlaggebend?",
+      "options": [
+        "Die Sehnenverletzung einer wundersamen Kamelstute",
+        "Bau einer großen Arche inmitten des Spottes",
+        "Konfrontation mit einem tyrannischen Pharao",
+        "In ein loderndes Feuer geworfen werden",
+        "Der Bruch des Sabbatbundes"
+      ],
+      "answer": "Die Sehnenverletzung einer wundersamen Kamelstute"
+    },
+    "location": {
+      "label": "Was war das zentrale Element?",
+      "options": [
+        "Eine Kamelstute, die aus dem Felsen auftauchte",
+        "Eine große hölzerne Arche",
+        "Ein Stab, der das Meer teilte",
+        "Ein riesiger Wal",
+        "Ein Berg, der darüber schwebt"
+      ],
+      "answer": "Eine Kamelstute, die aus dem Felsen auftauchte"
+    },
+    "outcome": {
+      "label": "Was war ihr endgültiges Schicksal?",
+      "options": [
+        "Ein plötzliches Erdbeben vom Himmel",
+        "Ertrunken in einer gewaltigen Flut",
+        "Ihre Städte wurden durch göttlichen Befehl zerstört",
+        "Von einem sengenden Wind verbrannt",
+        "Von der Erde verschluckt"
+      ],
+      "answer": "Ein plötzliches Erdbeben vom Himmel"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

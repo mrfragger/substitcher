@@ -1,0 +1,61 @@
+{
+  "title": "La nación que desafió la Casa Sagrada",
+  "intro": "En la antigüedad, una poderosa nación decidió atacar un santuario venerado por los creyentes. Este grupo era rico, poderoso y confiaba en su fuerza militar. Trajeron consigo una criatura gigantesca que les serviría de arma de guerra. Su objetivo era claro: destruir el lugar sagrado y doblegar la fe de su gente. Pero su arrogancia estaba a punto de recibir una respuesta devastadora del cielo. Este acontecimiento histórico se convirtió en una señal y una lección para todos los que vinieron después. ¿Puedes identificar a este grupo a partir de las pistas?",
+  "clues": [
+    "Éramos una nación bendecida con riqueza y poderío militar.",
+    "Reunimos nuestras fuerzas y trajimos una bestia enorme para usarla en nuestra campaña.",
+    "Nuestro objetivo era un santuario sagrado que deseábamos destruir por completo.",
+    "Creíamos que nuestra fuerza sería suficiente para superar cualquier protección divina.",
+    "Pero el Señor nos envió un castigo del cielo que no esperábamos.",
+    "Fuimos destruidos en un instante, esparcidos como paja rota."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El pueblo del elefante",
+        "El pueblo de Thamud",
+        "La gente de 'Ad",
+        "Los compañeros de la cueva",
+        "La Nación del Profeta Hud"
+      ],
+      "answer": "El pueblo del elefante"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Haciendo marchar a un elefante hacia la casa sagrada para destruirla.",
+        "Construir una torre para alcanzar el cielo",
+        "Construir un ídolo de oro para el culto.",
+        "Negarse a escuchar al mensajero de Alá",
+        "Cavar un pozo para perjudicar a los creyentes"
+      ],
+      "answer": "Haciendo marchar a un elefante hacia la casa sagrada para destruirla."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El elefante",
+        "El becerro de oro",
+        "El personal de Musa",
+        "El pez de Yunus",
+        "El hierro de Dawud"
+      ],
+      "answer": "El elefante"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fueron destruidos por bandadas de pájaros que les arrojaban piedras.",
+        "Se ahogaron en una gran inundación.",
+        "Se transformaron en monos y cerdos.",
+        "Quedaron sepultados bajo piedras que caían de una montaña.",
+        "Fueron quemados por fuego del cielo."
+      ],
+      "answer": "Fueron destruidos por bandadas de pájaros que les arrojaban piedras."
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

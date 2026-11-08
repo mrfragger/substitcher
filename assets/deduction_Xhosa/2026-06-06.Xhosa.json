@@ -1,0 +1,61 @@
+{
+  "title": "Umkhonzi Ka-Allah Ophakamileyo",
+  "intro": "Uva amazwi angxolayo omntu wamandulo, umkhonzi ka-Allah owaphakanyiswa waya kwisikhundla esingaphezulu kwesiqhelekileyo. Lo mntu wayesaziwa ngomonde ongagungqiyo nokunyaniseka okupheleleyo, waza wathunyelwa kubantu abafulathela umyalezo. Ngubani lo mphefumlo uphakanyisiweyo?",
+  "clues": [
+    "Ndikhethwe ngu-Allah njengomprofeti kwaye ndikhankanywa kwiQuran eNgcwele.",
+    "Ndandisaziwa ngokuba nomonde nokunyaniseka, iimpawu ezinconywa nguAllah.",
+    "Ndibize abantu bam ukuba banqule uThixo omnye, kodwa abaninzi bandilahlile.",
+    "Isikhundla sam saphakanyiswa nguAllah, kwaye ndanikwa isikhundla esiphezulu.",
+    "Ndihlala ndikhankanywa kunye nabanye abaprofeti abafana no-Ismail no-Dhul-Kifl.",
+    "UAllah uthi ngam: 'Saza samphakamisa samsa kwindawo ephakamileyo.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uIdris",
+        "Umprofeti uEliya",
+        "Umprofeti uDhu al-Kifl",
+        "Umprofeti u-Al-Yasa",
+        "Umprofeti uHud"
+      ],
+      "answer": "Umprofeti uIdris"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Abantu babizwa ukuba banqule uAllah",
+        "Wakha umkhombe",
+        "Walwa noFaro",
+        "Uvavanywe enesifo esinzima",
+        "Waphoswa emlilweni"
+      ],
+      "answer": "Abantu babizwa ukuba banqule uAllah"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isikhundla esiphezulu/isikhululo esiphezulu",
+        "Ityeya",
+        "Abasebenzi",
+        "Umlilo",
+        "Umthombo"
+      ],
+      "answer": "Isikhundla esiphezulu/isikhululo esiphezulu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Inyuselwe kwisikhundla esiphezulu",
+        "Nditshonile kwisikhukula",
+        "Uginywe ngumnenga",
+        "Ndisindisiwe emlilweni",
+        "Waba ngukumkani"
+      ],
+      "answer": "Inyuselwe kwisikhundla esiphezulu"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

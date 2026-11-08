@@ -1,0 +1,61 @@
+{
+  "title": "Det första blodet som spilldes i avund",
+  "intro": "Föreställ dig mänsklighetens tidigaste dagar, då hela världen var en enda familj. Du ser hur två offergåvor läggs fram inför Allah – en accepterad, den andra förkastad. Avund slår rot i ett hjärta, och ett hot viskas i ilska. Det som följer kommer att lämna ett avtryck i historien för alltid, och även en liten fågel kommer att bli en lärare.",
+  "clues": [
+    "Jag tillhör den allra första familjen på jorden.",
+    "Jag frambar en offergåva till Allah, men min accepterades inte medan den andra offringen gjordes.",
+    "Jag sa avund och hotade att ta ett liv.",
+    "Jag begick det första orättfärdiga mordet på jorden.",
+    "Jag såg en kråka som skrapade på marken för att visa mig hur man gömmer en kropp.",
+    "Jag ångrades och blev en av förlorarna för vad mina händer hade gjort."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Qabil (Kain), Adams son",
+        "Samiri, kalvens tillverkare",
+        "Namrud, tyrannen som grälade med Ibrahim",
+        "Azar, tillverkaren av avgudar",
+        "Kan'an, den drunknade sonen till Nuh"
+      ],
+      "answer": "Qabil (Kain), Adams son"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Mord på ett syskon av avund efter att ha avvisat ett erbjudande",
+        "Bygga ett högt torn för att se upp mot himlen",
+        "Att tillverka en guldkalv för tillbedjan",
+        "Kräver ett bord dukat från himlen",
+        "Leder en armé av elefanter för att förstöra Kaba"
+      ],
+      "answer": "Mord på ett syskon av avund efter att ha avvisat ett erbjudande"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En kråka som skrapar jorden för att visa begravning",
+        "En guldkalv som röjde",
+        "En stor ark över flodvattnet",
+        "En stav som förvandlades till en orm",
+        "Ett bord dukat med mat från himlen"
+      ],
+      "answer": "En kråka som skrapar jorden för att visa begravning"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev ångerfull och bland förlorarna",
+        "Drunknade i den stora översvämningen",
+        "Slukades av jorden med skatter",
+        "Slagades av spetälska i sju år",
+        "Fick ett kungarike med kontroll över vindarna"
+      ],
+      "answer": "Blev ångerfull och bland förlorarna"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

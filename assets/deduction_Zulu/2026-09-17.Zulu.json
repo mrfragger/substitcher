@@ -1,0 +1,61 @@
+{
+  "title": "Ngaphansi komthunzi we-Date Palm",
+  "intro": "Indaba ivelela ngomphefumulo ohlukaniswe ngaphambi kokuzalwa, okhuliswe ngaphakathi kwezindonga ezingcwele, futhi okhethwe ukuba athwale isibonakaliso umhlaba ongakaze usibone. Lapho kuvela ukusolwa kuzo zonke izinhlangothi, izwi lavela ezindaweni ezingavamile ukuthulisa konke ukungabaza. Ungamthola yini umuntu ohamba ngaphansi komthunzi wesundu?",
+  "clues": [
+    "Ngangizinikele enkonzweni kaSomandla ngaphambi kokuba ngiphefumule okokuqala, isifungo esenziwe yilowo owayengithwele.",
+    "Ngakhulela ngaphansi kokunakekelwa okuqaphile komnakekeli olungileyo ngaphakathi kwamakamelo angcwele endawo yokukhulekela.",
+    "Noma nini lapho umnakekeli wami efika ekamelweni lami, wayengitholela ukudla kwezinkathi okwakungafanele kube njalo.",
+    "Nganikwa izindaba ezinhle zendodana, yize izimo zami zinganginiki indawo yalokho okwakuthenjisiwe.",
+    "Ngasuka ngaya endaweni ekude, futhi lapho isundu langinika umthunzi kuyilapho umfudlana ugeleza ngaphansi.",
+    "Lapho kufika ukusolwa nemibuzo ingizungezile, ngakhomba ingane yami esanda kuzalwa — futhi yakhuluma kusukela isengumntwana ukuze ithulise konke ukungabaza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UMaryam",
+        "USarah",
+        "I-Hawwa",
+        "Umm Musa",
+        "UmkaNuh"
+      ],
+      "answer": "UMaryam"
+    },
+    "trial": {
+      "label": "Icala / Umcimbi",
+      "options": [
+        "Ukubeletha indodana eyisimangaliso eyedwa",
+        "Ukuphonswa emlilweni ovuthayo ngabantu abakhonza izithombe",
+        "Ukusinda kuzamcolo omkhulu nabambalwa abakhethiwe",
+        "Ukuhlukaniswa nosana oluphonswe emfuleni",
+        "Ukubhekana nombusi onamandla waseGibhithe"
+      ],
+      "answer": "Ukubeletha indodana eyisimangaliso eyedwa"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isundu lesundu kanye nomfudlana ogelezayo ngaphansi kwalo",
+        "Umkhumbi onamandla phezu kwamagagasi amakhulu",
+        "Intonga eyahlukanisa ulwandle olukhulu phakathi",
+        "Umlilo ovuthayo ohloselwe ukuqothula umphefumulo othembekile",
+        "Isihlalo sobukhosi segolide esihlotshiswe ngamatshe ayigugu"
+      ],
+      "answer": "Isundu lesundu kanye nomfudlana ogelezayo ngaphansi kwalo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Uhlonishwa njengowesifazane ophakeme kunabo bonke",
+        "Uphinde wahlangana nengane ethandekayo ngemva kokuhlukana isikhathi eside",
+        "Wahola isizwe sonke saphuma ebugqilini bomcindezeli",
+        "Waxwayisa abantu abalahlekile ekuziphatheni okubi",
+        "Wanikeza ubukhosi phezu kwama-jinn, isintu, kanye nemimoya"
+      ],
+      "answer": "Uhlonishwa njengowesifazane ophakeme kunabo bonke"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

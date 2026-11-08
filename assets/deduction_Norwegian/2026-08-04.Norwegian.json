@@ -1,0 +1,61 @@
+{
+  "title": "Ekkoet gjennom klippene",
+  "intro": "Se for deg en dal hvor boliger er hogd ut av klipper, og luften bærer med seg minnet om en advarsel som ikke blir fulgt. Et folk trivdes en gang her, velsignet, men likevel trassig, helt til et tegn dukket opp fra selve klippen de stolte på.",
+  "clues": [
+    "Vi var et folk som hugget ut trygge hjem fra fjellene, og følte oss trygge i våre steinete boliger.",
+    "Vi bodde i et land med sletter og stein, velsignet med hager og kilder.",
+    "Et budbringer fra oss kom og kalte oss til å forlate våre falske guder og tilbe den ene sanne Skaperen.",
+    "Vi satte arrogant en betingelse for tro: et unikt tegn som skulle dukke opp fra selve steinene vi hugget ut.",
+    "Da den lovede hunnkamelen dukket opp fra klippen, et tydelig tegn, nektet eliten vår fortsatt og satte bånd på henne til tross for advarselen om en forestående undergang.",
+    "Tre dager etter vår gjerning ga et kraftig brak ekko gjennom dalen, og vi ble redusert til sammenfalte ruiner, hjemmene våre graver."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Folket i ¿Ad",
+        "Folket i Thamud",
+        "Folket i Madyan",
+        "Folket i Lunden",
+        "Folket i hulen"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Vår prøve-/hovedbegivenhet",
+      "options": [
+        "Hamstringen av Allahs hunnkamel",
+        "Tilbedelsen av gullkalven",
+        "Bryten av sabbaten",
+        "Byggingen av et tårn mot himmelen",
+        "Profetenes drap"
+      ],
+      "answer": "Hamstringen av Allahs hunnkamel"
+    },
+    "location": {
+      "label": "Nøkkelelement i historien vår",
+      "options": [
+        "Allahs hunnkamel",
+        "Musas ansatte",
+        "Nuhs ark",
+        "Musas hvite hånd",
+        "Isas fugl"
+      ],
+      "answer": "Allahs hunnkamel"
+    },
+    "outcome": {
+      "label": "Vårt resultat",
+      "options": [
+        "Ødeleggelse av en øredøvende eksplosjon",
+        "Et regn av steiner fra himmelen",
+        "En flom som dekket jorden",
+        "En voldsom vind som rev oss opp med roten",
+        "Jorden sluker oss"
+      ],
+      "answer": "Ødeleggelse av en øredøvende eksplosjon"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

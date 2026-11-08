@@ -1,0 +1,61 @@
+{
+  "title": "Marea supunere a suveranului",
+  "intro": "Te afli într-un tărâm al minunilor străvechi și al revelațiilor profunde. O conducătoare puternică, confruntată cu o invitație neașteptată, a pornit într-o călătorie care avea să-i schimbe cursul destinului și credința poporului său. Poți descoperi identitatea acestei figuri maiestuoase?",
+  "clues": [
+    "Am domnit peste un regat prosper, împodobit cu o bogăție imensă și un tron ​​magnific.",
+    "Eu și poporul meu ne închinam unui corp ceresc, crezând că este stăpânul nostru, deși nutream îndoieli în inima mea.",
+    "Un mesager ciudat, o pasăre, mi-a înmânat o scrisoare, chemându-mă pe mine și pe poporul meu la supunere față de Unicul Dumnezeu.",
+    "M-am consultat cu consilierii mei, care erau extrem de puternici, despre cum să răspund la acest mesaj fără precedent.",
+    "M-am hotărât să-i trimit un cadou valoros celui care mi-a trimis scrisoarea, sperând să-i evaluez puterea și intențiile.",
+    "La sosirea mea, am fost uimit de un palat cu podeaua de sticlă, care semăna cu o baltă de apă, și atunci mi-am declarat supunerea față de Domnul întregii creații."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "faraon",
+        "Regina din Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Profetul Yusuf"
+      ],
+      "answer": "Regina din Saba"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Despărțirea mării",
+        "Marele potop",
+        "Călătoria pentru a-l întâlni pe profetul Sulayman",
+        "Distrugerea poporului din Lut",
+        "Arderea profetului Ibrahim"
+      ],
+      "answer": "Călătoria pentru a-l întâlni pe profetul Sulayman"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca",
+        "Personalul",
+        "Tronul",
+        "Muntele",
+        "Focul"
+      ],
+      "answer": "Tronul"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A devenit profet",
+        "A fost distrusă de Allah",
+        "A îmbrățișat Islamul",
+        "Și-a condus poporul la război",
+        "A construit un templu grandios"
+      ],
+      "answer": "A îmbrățișat Islamul"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

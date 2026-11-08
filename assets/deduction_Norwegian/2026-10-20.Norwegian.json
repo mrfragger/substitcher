@@ -1,0 +1,61 @@
+{
+  "title": "Arkitekten av falsk ambisjon",
+  "intro": "En figur med stor autoritet tjente en gang en av historiens mest beryktede tyranner i det gamle Egypt. Denne personen ble betrodd en dristig befaling – å konstruere en struktur ment å trosse himmelen. Historien deres står i Koranen som en slående lærdom om hvordan blind lydighet mot arroganse bare fører til ruin.",
+  "clues": [
+    "Jeg tjenestegjorde ved hoffet til en mektig hersker som hevdet guddommelighet over landene.",
+    "Jeg hadde en høy ministerstilling og var rådgiver for den mest arrogante tyrannen i min tid.",
+    "Min hersker var oppslukt av å utfordre Moses' Gud, som de nektet å anerkjenne.",
+    "Jeg ble befalt å bygge et tårn av ildbakte murstein slik at min hersker kunne stige opp til himmelen.",
+    "Tårnet nådde aldri himmelen, og min trelldom under arroganse ga meg evig skam.",
+    "Jeg omkom med den jeg fulgte, og navnet mitt ble en varig advarsel mot dem som muliggjør tyranner."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Haman",
+        "Azar (far til Ibrahim)",
+        "Illyas (en profet)",
+        "Dhu al-Kifl",
+        "Harut (en av de to englene i Babylon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Beordret til å bygge en ruvende struktur for å nå himmelen",
+        "Bedt om å tyde en drøm sendt fra det guddommelige",
+        "Kastet i en flammende ild som en prøve på tro",
+        "Tvunget til å velge mellom tronen og sannheten",
+        "Utfordret i en trolldomskonkurranse"
+      ],
+      "answer": "Beordret til å bygge en ruvende struktur for å nå himmelen"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Et tårn av ildbakte murstein",
+        "En stav som forvandlet seg til en slange",
+        "Et skip som seiler gjennom en stor flom",
+        "En hage omgitt av høye murer",
+        "En trone utsmykket med rubiner og gull"
+      ],
+      "answer": "Et tårn av ildbakte murstein"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Druknet sammen med undertrykkeren i havet",
+        "Ble en mektig monark over store landområder",
+        "Slapp unna en voldsom brann uskadd",
+        "Bygget et blomstrende visdomsrike",
+        "Ble gjenforent med familien etter år i eksil"
+      ],
+      "answer": "Druknet sammen med undertrykkeren i havet"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

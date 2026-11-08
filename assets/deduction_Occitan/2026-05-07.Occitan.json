@@ -1,0 +1,61 @@
+{
+  "title": "Lo Cridant del Prigond",
+  "intro": "Imaginatz una anma confiada d'un messatge divin, e mai una que, dins un moment de pressa, se despartiguèt de son pòble sens permission explicita. Aquel viatge los menèt dins una espròva extraordinària, una pròva prigonda de paciéncia e de fisança del Pus Naut. Qual es aquel individú que son istòria nos ensenha lo repentiment e l'immensitat de la misericòrdia d'Allah?",
+  "clues": [
+    "Foguèri mandat dins una granda nacion, mas lor refús inicial me causèt de destressas.",
+    "Quitèri mon pòble, en cresent que ma mission èra completa, abans de recebre un comandament clar de partir.",
+    "Cerquèri lo passatge sus un naviri, mas una tempèsta fòrta e un tiratge de sòrts menèron a una situacion dificila.",
+    "Foguèri getat dins la mar, e una creatura poderosa del prigond m'engoliguèt entièra.",
+    "Dins l'escur de son ventre, cridèri a Allah, en admetent mon malfach e en cercant son perdon.",
+    "Allah comandèt a la creatura de me getar sus la riba, e foguèri restablit a la santat jos una planta unica."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Yusuf (Josèp)",
+        "Profèta Nuh (Noè)",
+        "Profèta Yunus (Jona)",
+        "Profèta Sulaiman (Salomon)",
+        "Profèta Ayub (Jòb)"
+      ],
+      "answer": "Profèta Yunus (Jona)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "La fendidura de la mar",
+        "Lo fuòc de Nimrod",
+        "Èsser engolit per un grand peis",
+        "L'inondacion",
+        "La destruccion d'una vila per las pèiras"
+      ],
+      "answer": "Èsser engolit per un grand peis"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "Lo personal",
+        "Lo ventre del peis",
+        "Lo potz",
+        "L'arbust ardent"
+      ],
+      "answer": "Lo ventre del peis"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Venguèt un grand sobeiran",
+        "Bastiguèt la Kaaba",
+        "Tornat per guidar una nacion repentida",
+        "Foguèt donat lo domini suls jinn",
+        "Menèt de monde a travèrs lo desèrt"
+      ],
+      "answer": "Tornat per guidar una nacion repentida"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

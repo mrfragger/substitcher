@@ -1,0 +1,61 @@
+{
+  "title": "Nehir Kıyısındaki Dikkatli Ruh",
+  "intro": "Genç bir ruha, sular üzerinde kaderin nasıl şekillendiğini güvenli bir mesafeden gözlemleme görevi verildi. Görünmez ve şüphe uyandırmayan bu kişi, bir ulusun tarihinin seyrini değiştirmede çok önemli bir rol oynayacaktı.",
+  "clues": [
+    "Annem bana gizlilik ve dikkat gerektiren bir görev verdi.",
+    "Gözlerim akıntıya kapılıp sürüklenen küçük bir beşiği takip etti, kalbim endişeyle doluydu.",
+    "Beklenmedik bir kişi tarafından bulunduğunda, büyük bir endişeyle yaklaştım.",
+    "Onların bir bakıcıya duydukları çaresizliği gördüm ve gerçeği açıklamadan bir çözüm önerdim.",
+    "Zamanında müdahalem, en çok ihtiyacı olan kişiye yeniden şefkatli bir ruh kazandırdı.",
+    "Güçlülerin saraylarında şöyle derdim: 'Onu besleyecek ve ona özenle bakacak bir aileye sizi yönlendireyim mi?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Musa'nın kız kardeşi",
+        "Musa'nın annesi",
+        "Firavunun karısı",
+        "Bir ebe",
+        "Şuayb'ın kızı"
+      ],
+      "answer": "Musa'nın kız kardeşi"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bir çocuğun nehre atılması",
+        "Denizin yarılması",
+        "buzağının yakılması",
+        "Nuh'un gemisinin yapımı",
+        "Çekirge istilası"
+      ],
+      "answer": "Bir çocuğun nehre atılması"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "nehir",
+        "Çöl",
+        "Dağ",
+        "saray",
+        "Yangın"
+      ],
+      "answer": "nehir"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Çocuğu annesiyle yeniden bir araya getirdi.",
+        "Kendini Firavunun askerlerinden kurtardı.",
+        "Kraliçe oldu.",
+        "Casusluk yaptığı için cezalandırıldı.",
+        "İsrailoğullarına önderlik etti."
+      ],
+      "answer": "Çocuğu annesiyle yeniden bir araya getirdi."
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

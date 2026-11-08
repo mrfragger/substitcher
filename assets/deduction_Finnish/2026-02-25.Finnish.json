@@ -1,0 +1,61 @@
+{
+  "title": "Karun kallion koe",
+  "intro": "Taitava ja ylpeä yhteisö kaiversi perintönsä vuoristoon. Mutta kun heille lähetettiin selkeä merkki, uskon ja pidättyvyyden koe, heidän ylimielisyytensä johdatti heidät polulle, jolta ei ollut paluuta. Voitko tunnistaa tämän ryhmän ja heidän uhmakkuutensa seuraukset?",
+  "clues": [
+    "Me olimme kiventyön mestareita ja veistimme upeita asumuksia suoraan vuorenrinteisiin.",
+    "Oman kansamme joukosta tullut sanansaattaja tuli luoksemme ja kutsui meitä palvomaan yhtä todellista Jumalaa.",
+    "Me vaadimme merkkiä hänen sanojensa todistamiseksi, ja ainutlaatuinen olento tuotiin esiin koetukseksi meille.",
+    "Meille annettiin yksinkertainen käsky: jakaa vesilähteemme tämän olennon kanssa ja antaa sen juoda määräpäivänään.",
+    "Ylimielisyydessämme muutamat meistä juonittelivat, ja me uhmasimme varoitusta lyömällä alas olennon, jonka piti olla merkkimme.",
+    "Meille annettiin kolme päivää aikaa ennen tuomiotamme, ja sitten voimakas räjähdys valtasi meidät kodeissamme jättäen meidät elottomiksi ja kumoon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "'Ad:n ihmiset",
+        "Madyanin kansa",
+        "Thamudin kansa",
+        "Saban kansa",
+        "Lutin kansa"
+      ],
+      "answer": "Thamudin kansa"
+    },
+    "trial": {
+      "label": "Mikä oli ensisijainen testimme?",
+      "options": [
+        "Arkin rakentaminen selviytymään tulvasta",
+        "Vastustan halua kalastaa sapattina",
+        "Vilpillisistä liiketoimintatavoista luopuminen",
+        "Ihmeellisen naaraskamelin suojeleminen",
+        "Seitsemän vuotta kestänyt nälänhätä"
+      ],
+      "answer": "Ihmeellisen naaraskamelin suojeleminen"
+    },
+    "location": {
+      "label": "Mikä oli tarinamme keskeinen elementti?",
+      "options": [
+        "Kultainen vasikka",
+        "Naaraskameli",
+        "Profeetta Mooseksen sauva",
+        "Ma'ribin suuri pato",
+        "Taivaasta katettu pöytä"
+      ],
+      "answer": "Naaraskameli"
+    },
+    "outcome": {
+      "label": "Mikä oli lopullinen kohtalomme?",
+      "options": [
+        "Hukkui suureen tulvaan",
+        "Muuttuivat apinoiksi ja sioiksi",
+        "Raivoisan tuulen hukuttama",
+        "Padon murtumisen hajottamana",
+        "Tuhoutui voimakkaassa räjähdyksessä/maanjäristyksessä"
+      ],
+      "answer": "Tuhoutui voimakkaassa räjähdyksessä/maanjäristyksessä"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

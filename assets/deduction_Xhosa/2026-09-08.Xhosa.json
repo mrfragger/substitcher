@@ -1,0 +1,61 @@
+{
+  "title": "Uvavanyo lweLanga eliNgcwele",
+  "intro": "Kwilizwe lamandulo apho ukuzinikela kwilitye eliqingqiweyo kwakusele kuqalile kuyo yonke imizi, umntu omnye wayema ​​ngokwahlukileyo. Ngenxa yokuqiniseka okungagungqiyo kunye nokukhuselwa nguThixo, bajongana nokufa okwakufanele ukuba kuqinisekile - baza bahamba bengonzakalanga. Ungayifumana na intsingiselo yalo mphefumlo umangalisayo?",
+  "clues": [
+    "Ndakhulela phakathi kwabantu ababenqula izithixo ababeziqophile ngezandla zabo, bekholelwa ukuba ezi zinto zinamandla kaThixo.",
+    "Xa ndandiphikisa iinkolelo zabo, ekuqaleni bandigxotha, kodwa andikwazanga ukuthula ngenyaniso endandiyazi.",
+    "Ngosuku ababehlanganisene ngalo, ndazitshabalalisa izithixo zabo, ndashiya kuphela esona sikhulu singachukunyiswanga.",
+    "Bathi bakubuya baza babona into endiyenzileyo, iinkokeli zabo zayalela ukuba kwakhiwe umngxuma omkhulu, zifuna ukundiphosa emlilweni.",
+    "Bandiphosa emlilweni ovuthayo, kodwa iNkosi yehlabathi yayalela ukuba uphole kwaye ukhuseleke kum.",
+    "Ndaphuma elangatyeni ndingenzakalanga kwaphela, ngoxa abo babeceba ukundibulala babejongene nomonakalo omkhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uIbrahim",
+        "Umprofeti uMusa",
+        "Umprofeti uNuh",
+        "Umprofeti uIsa",
+        "Umprofeti uYusuf"
+      ],
+      "answer": "Umprofeti uIbrahim"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuphoswa emlilweni ovuthayo",
+        "Ukuginywa yintlanzi enkulu",
+        "Ukusinda kumkhukula omkhulu",
+        "Ukuphoswa emthonjeni onzulu",
+        "Ukujongana nezazi zokumkani"
+      ],
+      "answer": "Ukuphoswa emlilweni ovuthayo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umngxuma omkhulu womlilo weenkuni ezitshayo",
+        "Umkhombe omkhulu womthi",
+        "Umfanekiso wethole legolide",
+        "Ingobozi edadayo emlanjeni",
+        "Itrone ebalaseleyo"
+      ],
+      "answer": "Umngxuma omkhulu womlilo weenkuni ezitshayo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "UAllah wenza umlilo waphola kwaye wakhuseleka",
+        "Umkhombe wehla ngokukhuselekileyo entabeni",
+        "Isithixo segolide sanyibilika phambi kwamehlo abo",
+        "Ingqwayingqwayi kunye nomkhosi wayo batshona elwandle",
+        "Impumputhe yavuselelwa ukubona kwayo"
+      ],
+      "answer": "UAllah wenza umlilo waphola kwaye wakhuseleka"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

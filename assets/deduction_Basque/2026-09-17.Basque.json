@@ -1,0 +1,61 @@
+{
+  "title": "Datil palmondoaren itzalpean",
+  "intro": "Jaio aurretik bereizitako arima baten istorioa garatzen da, horma sakratuen artean hazitakoa eta munduak inoiz ikusi ez zuen seinale bat eramateko aukeratua. Salaketa norabide guztietatik sortu zenean, ahots bat etorri zen lekurik ezohikoenetik zalantza guztiak isilarazteko. Aurkitu al dezakezu nork ibili zen datila palmondoaren itzalpean?",
+  "clues": [
+    "Lehen arnasa hartu aurretik, Jainko Ahalguztidunaren zerbitzura dedikatu nintzen, ni eraman ninduenak egindako zin bat.",
+    "Gurtza leku bateko ganbera sakratuetan zaindari zintzo baten zaintzapean hazi nintzen.",
+    "Nire tutorea nire gelara etortzen zen bakoitzean, egon behar ez ziren urtaroetako hornigaiak aurkitzen zituen nirekin.",
+    "Seme baten berri pozgarria eman zidaten, nahiz eta nire egoerak ez zuen aukerarik utzi agindutakoarentzat.",
+    "Leku urrun batera erretiratu nintzen, eta han datila palmondo batek itzala eskaini zidan, erreka bat igarotzen zen bitartean azpian.",
+    "Salaketa etorri eta galderak inguratu ninduenean, nire jaioberria seinalatu nuen — eta sehaskatik hitz egin zidan zalantza guztiak isilarazteko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawwa",
+        "Umm Musa",
+        "Nuh-ren emaztea"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Proba / Ekitaldia",
+      "options": [
+        "Bakardadean seme miragarri bat erditzea",
+        "Idoloatrak su bizian botata izatea",
+        "Uholde handitik bizirik irautea aukeratutako gutxi batzuekin",
+        "Ibaira botatako haurtxo batetik bereizita egotea",
+        "Egiptoko agintari boteretsuari aurre egitea"
+      ],
+      "answer": "Bakardadean seme miragarri bat erditzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Datil palmondo bat eta azpian korronte bat",
+        "Arka indartsu bat olatu handien gainean",
+        "Itsaso handi bat bitan zatitu zuen makila",
+        "Arima leial bat kontsumitzeko su bizia",
+        "Harribitxiz apaindutako urrezko tronua"
+      ],
+      "answer": "Datil palmondo bat eta azpian korronte bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Emakume guztien artean gorentzat ohoratua",
+        "Banantze luze baten ondoren, maite zuen seme-alabarekin berriro elkartu da",
+        "Nazio oso bat tirano baten menpetik atera zuen",
+        "Immoralitatean galdutako herri bat ohartarazi zuen",
+        "Jinn, gizateria eta haizeen gaineko nagusitasuna eman zitzaion"
+      ],
+      "answer": "Emakume guztien artean gorentzat ohoratua"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

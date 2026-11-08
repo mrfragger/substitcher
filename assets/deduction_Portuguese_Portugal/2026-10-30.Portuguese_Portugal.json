@@ -1,0 +1,61 @@
+{
+  "title": "A Vigília dos Enlutados",
+  "intro": "Você está prestes a conhecer uma alma testada pela mais profunda separação, cujos olhos conheciam a linguagem das lágrimas, mas cujo coração jamais perdeu a esperança. Numa história de engano, saudade e reencontro, este nobre servo de Alá tornou-se um símbolo de paciência para todos os tempos. Aquele que suportou anos de dor oculta, apenas para ter a visão e a alegria restauradas num único instante?",
+  "clues": [
+    "Sou um profeta cujo nome se tornou um símbolo de paciência diante de grandes perdas.",
+    "Fui abençoado com muitos filhos, mas um me foi tirado pela inveja de outros.",
+    "Meu amor por aquela pessoa que se foi era tão profundo que meus olhos empalideceram de tristeza, mas eu nunca me queixei, exceto perante Alá.",
+    "Enviei meus filhos de volta para procurar aquele que eu havia perdido e seu irmão, insistindo para que não perdessem a esperança.",
+    "Quando o portador das boas novas chegou, uma camisa foi jogada sobre meu rosto, e de repente o mundo ficou claro novamente.",
+    "Eu sou conhecido como Israel, e dos meus doze filhos vieram as doze tribos de uma grande nação."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Ya'qub (Jacó)",
+        "Profeta Yusuf (José)",
+        "Profeta Ishaq (Isaac)",
+        "Profeta Ibrahim (Abraão)",
+        "Profeta Jó (Ayyub)"
+      ],
+      "answer": "Profeta Ya'qub (Jacó)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Separação de um filho amado por muitos anos",
+        "Ser atirado em um fogo ardente.",
+        "Engolido por um peixe enorme",
+        "Acometido por uma doença de pele grave",
+        "Não ter filhos até a velhice"
+      ],
+      "answer": "Separação de um filho amado por muitos anos"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A camisa de Yusuf",
+        "A equipe de Musa",
+        "A arca de Noé",
+        "A camela de Salih",
+        "O anel de Sulayman"
+      ],
+      "answer": "A camisa de Yusuf"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Recuperou a visão e reencontrou seu filho.",
+        "Obteve a vitória sobre um rei tirano.",
+        "Elevado aos céus vivo",
+        "Nomeado governante do Egito.",
+        "Receber um filho na velhice como um milagre"
+      ],
+      "answer": "Recuperou a visão e reencontrou seu filho."
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bahahi ba Litšiea Tse Phahameng",
+  "intro": "U eme ka pel'a lithako tsa motse o moholo oa boholo-holo, litšiea tsa oona tse telele li se li oele. Moea o foka ka har'a literateng tse se nang letho, o jere mohopolo oa batho ba matla ba kileng ba busa linaha tsena. E ne e le bo-mang?",
+  "clues": [
+    "Re ne re le batho ba matla le bokgoni bo boholo, re tsebahala ka meaho ya rona e meholo le tsoelo-pele e tswetseng pele.",
+    "Re ne re lula naheng ea litutulu tsa lehlabathe le maralla a majoe, 'me re ne re lumela hore ha ho motho ea ka re hlōlang.",
+    "Moromuoa o tlile ho rona a tsoa har'a beng ka rona, a re bitsa ho rapela Allah a le mong, empa ra mo hana 'me ra mo soma.",
+    "Re ile ra ithorisa ra re, ‘Ke mang ea matla ho re feta?’ ’me ra tsoela pele ka boikhohomoso ba rōna le borapeli ba litšoantšo.",
+    "Allah o ile a re romela moea o matla o ileng oa foka masiu a supileng le matsatsi a robeli, oa senya ntho e 'ngoe le e 'ngoe.",
+    "Re ne re le batho ba 'Ad, ba hahileng Iram, 'me qetello ea rona e ile ea fetoha temoso ho bohle ba ileng ba tla ka mor'a eona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba 'Ad",
+        "Batho ba Thamud",
+        "Batho ba Madyan",
+        "Batho ba Tubba'",
+        "Batho ba al-Rass"
+      ],
+      "answer": "Batho ba 'Ad"
+    },
+    "trial": {
+      "label": "Kotlo e ile ea romelloa ho bona e ne e le efe?",
+      "options": [
+        "Moea o senyang",
+        "Pula ea majoe",
+        "Ho phatloha ho hoholo",
+        "Ho khangoa ke moroallo",
+        "E metsoa ke lefats'e"
+      ],
+      "answer": "Moea o senyang"
+    },
+    "location": {
+      "label": "Lebitso la motse oa bona o tummeng ke mang?",
+      "options": [
+        "Irame",
+        "Sodoma",
+        "Midiane",
+        "Babele",
+        "Petra"
+      ],
+      "answer": "Irame"
+    },
+    "outcome": {
+      "label": "Qetello ea bona e bile efe?",
+      "options": [
+        "Li ile tsa timetsoa 'me masala a tsona a fetoha thuto",
+        "Ba ile ba baka 'me ba pholosoa",
+        "Ba ile ba fetoloa litšoene",
+        "Ba ile ba khangoa ke metsi leoatleng",
+        "Ba ile ba patoa tlas'a mobu o thellang"
+      ],
+      "answer": "Li ile tsa timetsoa 'me masala a tsona a fetoha thuto"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

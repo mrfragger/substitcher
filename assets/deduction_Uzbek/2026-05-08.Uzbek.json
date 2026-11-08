@@ -1,0 +1,61 @@
+{
+  "title": "Haqiqatning sodiq izlovchisi",
+  "intro": "Jaholat va soxta xudolarga sig'inish bilan qoplangan davrda chuqur imon safari boshlandi. Bu shaxs o'z jamiyatining me'yorlariga qarshi chiqdi va sobit ishonch bilan yagona Haqiqiy Yaratuvchini izladi. Merosi millionlab odamlarni ilhomlantirib kelayotgan qalbning kimligini ochib berishga tayyorlaning.",
+  "clues": [
+    "Men samoviy jismlarga savol berdim, hamma narsani yaratuvchi va qo'llab-quvvatlovchi haqiqiy Rabbiyni qidirdim.",
+    "Menga vatanimni tark etib, Alloh marhamat qilgan yurtga yo'l olish buyurildi.",
+    "Men xalqimning butlariga qarshi chiqdim, ularning behudaligiga ularni sindirish orqali to'g'ridan-to'g'ri qarshi chiqdim.",
+    "Men qavmim tomonidan alangali olovga tashlandim, ammo u Allohning amri bilan men uchun salqin va osoyishta bo'ldi.",
+    "Men sevimli to'ng'ich o'g'limni qurbon qilish amri bilan, ya'ni oxirgi itoatkorlik sinovi bilan sinovdan o'tdim.",
+    "Men o'g'lim bilan birgalikda butun insoniyat uchun muqaddas joy bo'lgan Yer yuzidagi birinchi Ibodat Uyining poydevorini qurdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Nuh payg'ambar",
+        "Yusuf payg'ambar",
+        "Payg'ambar Solih",
+        "Ibrohim payg'ambar",
+        "Payg'ambar Iso"
+      ],
+      "answer": "Ibrohim payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buyuk toshqin",
+        "Dengizning ikkiga bo'linishi",
+        "Samudning vayron bo'lishi",
+        "O'g'il qurbon qilish buyrug'i",
+        "Kema bilan cho'l bo'ylab sayohat"
+      ],
+      "answer": "O'g'il qurbon qilish buyrug'i"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Xodimlar",
+        "Tur tog'i",
+        "Kema",
+        "Ka'ba",
+        "Oltin buzoq"
+      ],
+      "answer": "Ka'ba"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Misr hukmdori bo'ldi",
+        "Uning xalqi cho'kib ketdi",
+        "Unga donolik va solih nasl berildi",
+        "Kit tomonidan yutib yuborildi",
+        "Uning shahri ag'darildi"
+      ],
+      "answer": "Unga donolik va solih nasl berildi"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

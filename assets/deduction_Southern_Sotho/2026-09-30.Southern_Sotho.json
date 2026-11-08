@@ -1,0 +1,61 @@
+{
+  "title": "Mokuli",
+  "intro": "Khale koana, matsatsing a pele a nalane ea batho, meea e 'meli e ne e eme ka pel'a 'Mōpi oa eona e nkile linyehelo. E 'ngoe e ile ea amoheloa, e 'ngoe ea se amoheloe. Se ileng sa latela e ne e tla ba tlokotsi ea pele e kholo pakeng tsa bana ba motho - ketso e le 'ngoe ea ho ithiba ka mamello le ketso e le 'ngoe ea phetetso e bohloko. Na u ka senola hore na ke mang?",
+  "clues": [
+    "Ke hlahile matsatsing a pele feela a ho ba teng ha motho lefatšeng",
+    "Ke ne ke le ngoana oa batho ba pele ba ileng ba tsamaea lefatšeng lena",
+    "Ke kile ka nyehela sehlabelo se tsoang mohlapeng oa ka o motle ka ho fetisisa ho khahlisa 'Mōpi oa ka",
+    "Nyehelo ea ka e ile ea amoheloa ho tsoa holimo, ha nyehelo ea ngoan'eso e ile ea hanoa",
+    "Ha ke sokeloa ka lefu, ke ile ka khetha ho se phahamise letsoho la ka khahlanong le ngoan'eso",
+    "Ke bile motho oa pele historing eohle ea batho ea ileng a bolaoa ka phoso ke motho e mong"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Habile (Abele), mora oa Adama",
+        "Qabil (Kaine), mora oa Adama",
+        "Adama, motho oa pele",
+        "Nuh (Noe)",
+        "Ibrahim (Abrahama)"
+      ],
+      "answer": "Habile (Abele), mora oa Adama"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Polao ea pele historing ea batho",
+        "Moroallo o moholo oa Nuh",
+        "Ho timetsoa ha lebotho la Firawn",
+        "Sehlabelo sa Ismail ke Ibrahim",
+        "Ntoa khahlanong le Jalut (Goliathe)"
+      ],
+      "answer": "Polao ea pele historing ea batho"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Nku e nyeheloang e le sehlabelo se khahlisang",
+        "Areka e kholo ea lehong",
+        "Lere le ileng la fetoha noha",
+        "Nonyana e bitsoang hupoe e jereng molaetsa oa borena",
+        "Mokero o tukang oa mollo"
+      ],
+      "answer": "Nku e nyeheloang e le sehlabelo se khahlisang"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E bile mohlaseluoa oa pele oa polao historing ea batho",
+        "O ile a pholoha moroallo o moholo ka har'a sekepe sa lehong",
+        "O phetse ka mpeng ea tlhapi e kholo",
+        "O ne a busa dijini, batho le moya",
+        "O ile a lelera ka lilemo tse mashome a mane lefeelleng le leholo"
+      ],
+      "answer": "E bile mohlaseluoa oa pele oa polao historing ea batho"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

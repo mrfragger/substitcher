@@ -1,0 +1,61 @@
+{
+  "title": "D'Awunner vun den zwee Gäert",
+  "intro": "An engem Land, wou Seegen iwwerflësseg waren, huet eng Communautéit fréier d'Gnod vun zwéi prächtege Gäert genoss. Hiert Liewe war en Zeie vun der göttlecher Gunst, awer hir Geschicht huet eng Wendung geholl, wéi d'Dankbarkeet ofgeholl huet, wat zu enger Transformatioun gefouert huet, déi e dauerhaft Zeechen fir all déi géif ginn, déi nodenken.",
+  "clues": [
+    "Mir waren e Vollek, dat mat engem Land vu Rou a Räichtum geseent war.",
+    "Eise Här huet eis zwéi prächteg Gäert geschenkt, üppig a fruchtbar op alle Säiten.",
+    "Mir goufe gebueden, dankbar ze sinn, awer mir hunn d'Ondankbarkeet gewielt a mir hunn eis ewechgedréit.",
+    "E groussen Damm huet d'Waasser zréckgehalen, dat eisem Land Liewe ginn huet.",
+    "Wéi mir bei eisem Feeler weidergemaach hunn, ass den Damm geplatzt an d'Iwwerschwemmungswaasser ass duerchgeflügelt.",
+    "Eis fréier üppig Gäert goufen duerch batter Friichten, Tamarisken a puer Lotusbeem ersat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Leit vu Saba",
+        "D'Leit vun Thamud",
+        "D'Leit vu Madyan",
+        "D'Begleeder vun der Höhl",
+        "D'Leit vum Elefant"
+      ],
+      "answer": "D'Leit vu Saba"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "E staarke Wand fir siwe Nuechten",
+        "E Stengschauer vum Himmel",
+        "Eng zerstéierend Iwwerschwemmung vun engem geplatzten Damm",
+        "E laute Gejäiz vum Himmel",
+        "Erdrénken am Mier"
+      ],
+      "answer": "Eng zerstéierend Iwwerschwemmung vun engem geplatzten Damm"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De grousse Staudamm vu Ma'rib",
+        "D'Dall vum Wadi al-Qura",
+        "De Gaart vum Iram",
+        "De Brunn vum Zamzam",
+        "De Bierg Sinai"
+      ],
+      "answer": "De grousse Staudamm vu Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Eis Gäert goufen duerch batter Friichten a spuersam Beem ersat",
+        "Mir goufe vun der Äerd an engem Äerdbiewen verschléckt",
+        "Mir goufen an Affen a Schwäin verwandelt",
+        "Mir sinn an enger grousser Iwwerschwemmung erdronk",
+        "Mir goufe vun engem Stengschauer zerstéiert"
+      ],
+      "answer": "Eis Gäert goufen duerch batter Friichten a spuersam Beem ersat"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

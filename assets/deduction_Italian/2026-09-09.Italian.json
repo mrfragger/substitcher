@@ -1,0 +1,61 @@
+{
+  "title": "La prima anima a resistere",
+  "intro": "Molto prima che qualsiasi messaggero camminasse sulla Terra, prima che qualsiasi scrittura fosse rivelata, venne all'esistenza un essere diverso da tutti gli altri. Quest'anima fu plasmata da mani divine, le fu donato un luogo di incomparabile bellezza e fu messa alla prova in un modo che avrebbe riecheggiato per tutta la storia umana. Ciò che seguì fu una storia di debolezza, sincero pentimento e un destino che avrebbe cambiato per sempre il corso della creazione. Riuscite a indovinare di chi si tratta?",
+  "clues": [
+    "Sono stato plasmato dalle mani del Misericordioso dalla polvere stessa della terra",
+    "Mi è stata data una casa di incomparabile bellezza, dove nessuna fame o stanchezza potevano toccarmi",
+    "Mi fu comandato di non avvicinarmi mai a un solo albero, perché era proibito",
+    "Io e il mio compagno fummo ingannati e ci avvicinammo all'albero proibito, contro il comando del nostro Signore.",
+    "Ci siamo rivolti al Signore con sincero pentimento e abbiamo ricevuto il perdono per la nostra trasgressione.",
+    "Da noi discende tutta l'umanità; io sono il primo ad aver camminato su questa terra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Adamo",
+        "Profeta Mosè",
+        "Profeta Nuh",
+        "Il profeta Yusuf",
+        "Profeta Isa"
+      ],
+      "answer": "Profeta Adamo"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La tentazione dell'albero proibito",
+        "Confronto con il faraone",
+        "Costruire la grande Arca",
+        "Sacrificio del figlio prediletto",
+        "Essere gettati in un grande fuoco"
+      ],
+      "answer": "La tentazione dell'albero proibito"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'albero proibito",
+        "Il roveto ardente",
+        "Il bastone d'oro",
+        "La Grande Arca",
+        "Il vitello d'oro"
+      ],
+      "answer": "L'albero proibito"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Inviato sulla Terra come primo custode dell'umanità",
+        "Il faraone e il suo esercito annegarono nel mare",
+        "Il grande diluvio distrusse i malvagi",
+        "Il fuoco si fece freddo e tranquillo",
+        "Gli fu concessa l'autorità sul regno d'Egitto"
+      ],
+      "answer": "Inviato sulla Terra come primo custode dell'umanità"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

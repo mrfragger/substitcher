@@ -1,0 +1,61 @@
+{
+  "title": "I viagiatur del camp verd",
+  "intro": "En un temp vècc, dü individui tendevan i terr visin. I luur camin l’eran intrecciad, e ancamò el luur cœur i purtava vers di destinaziun parècc diferent. Un caminava sul sentier drizz, mentre l’olter el se perdeva in del buio de la negaziun. Pœdet desfà el mistero de chesti dü guardian del raccòlt?",
+  "clues": [
+    "G’ho avuu tanti cultivaziun, raccolt lüssuregh che s’ciampavan i œucc di gent che vardavan.",
+    "El me visin g’haveva una generosità ancamò püsee grand de mi, e ancamò mi desiderava luur part püsee che la mia.",
+    "Ho sugerì de distrugg tüt i luur cultivaziun, per cunsulidar tüt sotta el me cuntrol.",
+    "Ho purtà ruvina anca sül me raccòlt, distrugend tüt in di me sciocc schemi.",
+    "Son restà senza speranza quand i mè cultur se sun marcià e la mè richeza la s’è trasfurmada en polvar en una sola nott.",
+    "G’havevi no part in del Aldilà, e la mè ültima dimora l’è diventada un büs de fœuch ardent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "L’òmm che g’ha negà la resurreziun e el giudizi",
+        "El suvran che g’ha oppress el giüst cuntadin",
+        "El ricch pruprietari de la terra che g’haveva minga gratitudin",
+        "El padrun che g’haveva desiderà la terra del sò visin",
+        "El cümpagn perfid che g’ha tramà la distruziun"
+      ],
+      "answer": "El padrun che g’haveva desiderà la terra del sò visin"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "La prœuva de ricef la rivelaziun divina",
+        "La sfida de la richeza e de la pazienza",
+        "La tentaziun de dastrügiar i mezz de süstentament de una persòna giüsta",
+        "El cumand de divider l’eredità en mod giüst",
+        "La lotta cuntra l’upresiun de un tirann"
+      ],
+      "answer": "La tentaziun de dastrügiar i mezz de süstentament de una persòna giüsta"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "I giardin verd del paradis",
+        "Dü camp de cültür visin",
+        "I montagn che g’han vist la distruziun",
+        "El santuari sacr de la Mecca",
+        "I rive del fiumm de una terra benedeta"
+      ],
+      "answer": "Dü camp de cültür visin"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Paradis etern cuma ricumpensa per la giüstizia",
+        "La distruziun cumpleta di tüt i dü i raccòlt en chesta vida",
+        "Esili e vagabondagg fin a la mort",
+        "Prosperità temporanea seguida del fœuch eterno",
+        "Un restaur miraculos e una duplicada generosità"
+      ],
+      "answer": "La distruziun cumpleta di tüt i dü i raccòlt en chesta vida"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Para Penjaga Kebon",
+  "intro": "Di hiji kebon anu rimbun, hiji komunitas ngadamel sumpah anu khidmat. Tapi tekadna diuji nalika kahoyong ilahi campur tangan, ngarobah kabeungharanana janten tanah anu tandus.",
+  "clues": [
+    "Urang dipaparin kebon anu subur, tapi urang janten adigung.",
+    "Kami ngadamel rencana pikeun panén tanpa ngabagikeun ka anu miskin.",
+    "Kami miang isuk-isuk kénéh, yakin kana rencana kami.",
+    "Tapi nalika kami sumping, kami mendakan kebon kami parantos ancur sapeuting.",
+    "Kami sadar kana kasalahan kami sareng mimiti silih salahkeun.",
+    "Tungtungna urang tobat, tapi palajaranana geus telat teuing."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Urang?",
+      "options": [
+        "Jalma-jalma di Kebon",
+        "Jalma-jalma di Gua",
+        "Jalma-jalma Gajah",
+        "Kaom Tsamud",
+        "Kaum 'Ad"
+      ],
+      "answer": "Jalma-jalma di Kebon"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Kebon robah jadi lebu",
+        "Banjir anu ngancurkeun sagalana",
+        "Paceklik anu nyerang tanah éta",
+        "Pasukan manuk nyerang",
+        "Angin badag nu ngarubuhkeun tatangkalan"
+      ],
+      "answer": "Kebon robah jadi lebu"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Kebon",
+        "Guha",
+        "Kapal",
+        "Gunung",
+        "Karaton"
+      ],
+      "answer": "Kebon"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Aranjeunna tobat tapi kaleungitan kebonna",
+        "Aranjeunna ancur sagemblengna",
+        "Aranjeunna dirobah jadi monyét",
+        "Aranjeunna disalametkeun ku iman",
+        "Aranjeunna janten pamingpin"
+      ],
+      "answer": "Aranjeunna tobat tapi kaleungitan kebonna"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

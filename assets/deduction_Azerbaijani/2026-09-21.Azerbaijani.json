@@ -1,0 +1,61 @@
+{
+  "title": "Dərinliklərdən gələn fəryad",
+  "intro": "Rəhmanın bir xidmətçisi inadkar bir xalqdan bezdi və icazə verilməmişdən əvvəl getdi. Bu şəxs heç bir insanın olmadığı bir yerə düşdü, İlahi çağırışın qaranlıq təbəqələri arasında qəribə bir şəkildə əks-səda verdiyi yer. Zəifləmiş, lakin dəyişmiş bir şəkildə ortaya çıxan bu ruh səbir, səmimi tövbə və Yaradanın sonsuz mərhəməti mövzusunda əbədi bir dərs oldu. Sirri aça bilərsinizmi?",
+  "clues": [
+    "Mən öz qövmümə elçi göndərildim, amma onlar küfrlərində həddi aşdılar və qulaq asmaqdan imtina etdilər.",
+    "Onların rədd edilməsinə qəzəbləndim və Allahın əmri gəlməmişdən əvvəl qövmümdən qaçdım.",
+    "Mən həddindən artıq yüklənmiş bir gəmiyə mindim və kimin dənizə atılacağını müəyyən etmək üçün püşk atdıq.",
+    "Mən coşğun dənizə atıldım və böyük bir balıq tərəfindən uduldum.",
+    "Üç qat qaranlıqda — qarın, dərin dəniz və aşağıdakı torpaqda — səmimi tövbə ilə Rəbbimə yalvardım.",
+    "Balıqdan zəif və yorğun halda açıq sahilə çıxdım və üstümə bir balqabaq bitkisi bitdi. Yüz min və ya daha çox xalqım nəhayət inandı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yunus peyğəmbər",
+        "Peyğəmbər Əyyub",
+        "Yusif peyğəmbər",
+        "Musa peyğəmbər",
+        "Süleyman peyğəmbər"
+      ],
+      "answer": "Yunus peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük bir balıq tərəfindən uduldu",
+        "Alovlu bir atəşə atıldı",
+        "Bir quyunun dibində ilişib qalıb",
+        "Böyük bir daşqın tərəfindən basdırılmış",
+        "Bir padşah tərəfindən haqsız yerə həbs edildi"
+      ],
+      "answer": "Böyük bir balıq tərəfindən uduldu"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Böyük bir balığın qarnı",
+        "Kəbənin yaxınlığındakı müqəddəs vadi",
+        "Dağın üzərində dayanan bir gəmi",
+        "İlana çevrilən bir əsa",
+        "Misilsiz əzəmət taxtı"
+      ],
+      "answer": "Böyük bir balığın qarnı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Onun xalqı, yüz min və ya daha çox, inanırdı",
+        "Diri-diri göylərə qaldırıldı",
+        "Rəqibsiz bir krallığın hökmdarı oldu",
+        "Göydən gələn deşici bir fəryadla məhv edildi",
+        "Dağıdıcı zəlzələ nəticəsində aşıb-daşdı"
+      ],
+      "answer": "Onun xalqı, yüz min və ya daha çox, inanırdı"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Das Zeichen zwischen den Steinen",
+  "intro": "In einem Land, wo Berge zu Häusern gehauen waren, kam ein Bote mit einem wundersamen Zeichen Allahs. Die Menschen verlangten einen Beweis und erhielten ein Geschöpf aus massivem Fels. Doch ihre Arroganz verleitete sie dazu, die Warnung zu missachten und besiegelte damit ihr Schicksal.",
+  "clues": [
+    "Ich wurde zu einem Volk gesandt, das in aus Bergen gehauenen Behausungen lebte.",
+    "Sie forderten mich auf, ein Zeichen zu bringen, also zauberte ich ein Kamel aus einem Felsen hervor.",
+    "Ich befahl ihnen, das Kamel frei trinken zu lassen und ihm nichts anzutun.",
+    "Sie widersetzten sich meiner Warnung und fesselten das Kamel mit einer Sehnenscheide.",
+    "Ich kündigte an, dass die Bestrafung nach drei Tagen erfolgen würde.",
+    "Am Morgen wurden sie von einer gewaltigen Explosion vernichtet, aber ich und meine Anhänger wurden gerettet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Salih",
+        "Prophet Hud",
+        "Prophet Lut",
+        "Prophet Shu'ayb",
+        "Prophet Ibrahim"
+      ],
+      "answer": "Prophet Salih"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Nachfrage nach einer Kamelstute von einem Felsen",
+        "Nachfrage nach einem goldenen Kalb",
+        "Verlangen nach einer himmlisch gedeckten Tafel",
+        "Nachfrage nach einer Flut",
+        "Forderung an einen Mitarbeiter, sich in eine Schlange zu verwandeln"
+      ],
+      "answer": "Nachfrage nach einer Kamelstute von einem Felsen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Kamelstute und ihr Kalb",
+        "Die Arche Noah",
+        "Der Stab des Mose",
+        "Das goldene Kalb",
+        "Das Feuer Ibrahims"
+      ],
+      "answer": "Die Kamelstute und ihr Kalb"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Von einer gewaltigen Explosion zerstört",
+        "Im Hochwasser ertrunken",
+        "Von der Erde verschluckt",
+        "In Affen verwandelt",
+        "Von einem heftigen Wind zerstört"
+      ],
+      "answer": "Von einer gewaltigen Explosion zerstört"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

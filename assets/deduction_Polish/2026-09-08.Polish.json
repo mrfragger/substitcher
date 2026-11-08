@@ -1,0 +1,61 @@
+{
+  "title": "Próba Świętego Płomienia",
+  "intro": "W starożytnej krainie, gdzie kult rzeźbionego kamienia zakorzenił się w każdym domu, jedna osoba wyróżniała się. Dzięki niezachwianemu przekonaniu i boskiej opiece, stanęli w obliczu tego, co powinno być pewną śmiercią – i wyszli z tego bez szwanku. Czy potrafisz odkryć tożsamość tej niezwykłej duszy?",
+  "clues": [
+    "Wychowałem się wśród ludzi, którzy kłaniali się bożkom wyrzeźbionym przez siebie własnoręcznie, wierząc, że przedmioty te mają boską moc.",
+    "Kiedy kwestionowałem ich przekonania, początkowo mnie zbywali, ale nie mogłem milczeć o prawdzie, którą znałem.",
+    "Pewnego dnia, kiedy zostali zebrani, zniszczyłem ich bożki, pozostawiając nietknięte tylko największe.",
+    "Gdy wrócili i zobaczyli, co uczyniłem, ich przywódcy kazali zbudować wielki stos, zamierzając wrzucić mnie w płomienie.",
+    "Wrzucili mnie w płonący ogień, lecz Pan światów rozkazał, aby stał się on dla mnie chłodny i bezpieczny.",
+    "Wyszedłem z płomieni bez szwanku, podczas gdy ci, którzy spiskowali przeciwko mnie, stanęli w obliczu całkowitej zagłady."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ibrahim",
+        "Prorok Musa",
+        "Prorok Noh",
+        "Prorok Isa",
+        "Prorok Yusuf"
+      ],
+      "answer": "Prorok Ibrahim"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wrzucenie w płonący ogień",
+        "Połknięcie przez wielkiego wieloryba",
+        "Przetrwanie wielkiej powodzi",
+        "Wrzucenie do głębokiej studni",
+        "Konfrontacja z magami królewskimi"
+      ],
+      "answer": "Wrzucenie w płonący ogień"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogromny stos płonącego drewna",
+        "Wielka drewniana arka",
+        "Złota statua cielca",
+        "Pływający kosz na rzece",
+        "Wspaniały tron"
+      ],
+      "answer": "Ogromny stos płonącego drewna"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Bóg uczynił ogień chłodnym i bezpiecznym",
+        "Arka bezpiecznie wylądowała na górze",
+        "Złoty bożek roztopił się na ich oczach",
+        "Tyran i jego armia utonęli w morzu",
+        "Niewidomemu przywrócono wzrok"
+      ],
+      "answer": "Bóg uczynił ogień chłodnym i bezpiecznym"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

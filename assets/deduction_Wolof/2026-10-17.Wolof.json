@@ -1,0 +1,61 @@
+{
+  "title": "Bëgg-bëgg ci néeg bu sell bi",
+  "intro": "Danga dugg ci barab bu sell bi, nga gis jaamu Yàlla bu gëm boppam, taxaw di ñaan. Seen loxo dañu siggil, seen bët siggil, seen xol ànd ak bëgg-bëgg gu yàgg ci seen àdduna. Kan mooy xol bu muñ bi nga wóolu Yàlla musul tas?",
+  "clues": [
+    "Ma def ay at yu bari ci jaamu Yàlla ak ci ñaan, ma gis kéemtaan yu gëna dooleel sama ngëm.",
+    "Dañu ma jox wareefu toppatoo baayima bu ndaw bu barkeel ci barab bu sell bi.",
+    "Bi may màgget, sama naqar bi gënoon metti mooy amul doom, ndax sama jabar mënul am doom, te nun ñaar ñépp dañu màgget.",
+    "Ma ñaan sama Boroom mu may wuutu ci sama njaboot, kuy wéyal liggéeyu yonent.",
+    "Bima taxawee ci barabu ñaan bi, malaaka yi wooma ni, 'Yalla daf lay jox xibaar bu neex', ma daal di tiit bay yéemu.",
+    "Dañu ma wax ni dinaa am doom bu góor bu tuddu Yahya, muy tur wuñu musul jox kenn ci àdduna, muy firnde ni duma wax ak nit ñi ñatti fan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Zakariya",
+        "Yahya",
+        "Yonent-Yàlla Isa",
+        "Dawud",
+        "Luqman boroom xam-xam bi"
+      ],
+      "answer": "Zakariya"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Ñàkka mëna am doom ak màgget, di bëgg ndono ju jub",
+        "ñu sànni leen ci safara gu tàng",
+        "Jën wu mag wann ko",
+        "Ñàkk benn buur ci loxo ab jaay doole",
+        "Dëddu nit ci sa réew"
+      ],
+      "answer": "Ñàkka mëna am doom ak màgget, di bëgg ndono ju jub"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Niche de prière (mihrab)",
+        "Gaal gu mag gi (Ark)",
+        "Bush buy tàkk",
+        "Baton bi soppiku nekk jaan",
+        "Gameelu Yàlla bu jigéen bi"
+      ],
+      "answer": "Niche de prière (mihrab)"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Maa ngi am doom ju jub, ba noppi waxaat ginaaw bimu noppee ñatti fan",
+        "Mbënd moo leen yàq ndax gëmu ñu",
+        "Ñu jox leen nguur gu yaatu, ñu yor ngelaw li",
+        "Ñu génne ko ci biiru jën",
+        "Suuf si wann ko"
+      ],
+      "answer": "Maa ngi am doom ju jub, ba noppi waxaat ginaaw bimu noppee ñatti fan"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

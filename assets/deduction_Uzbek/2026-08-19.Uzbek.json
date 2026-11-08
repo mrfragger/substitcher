@@ -1,0 +1,61 @@
+{
+  "title": "Tabiiy tartibni buzgan millat",
+  "intro": "Asrlar davomida hikoyasi aks-sado beradigan mintaqada bir jamoa poklik qonunlariga qarshi ochiqchasiga isyon ko'targan. Ularning ishlari shunchalik misli ko'rilmaganki, ular butun insoniyat uchun ogohlantirish sifatida esda qoladi. Bu ruhlar kimlar edi va ularni qanday taqdir kutib oldi?",
+  "clues": [
+    "Biz sayohatchilar tez-tez o'tadigan yo'l bo'ylab joylashgan yurtda yashardik, ammo ularning safarini xavfli qildik.",
+    "Biz shunday fahsh ishlarni qildikki, olamlarda hech kim ilgari qilmagan edi.",
+    "Oramizdan bir payg'ambar bizni yo'limizdan qaytishga chaqirdi, lekin biz uni rad etdik va agar u rostgo'y bo'lsa, azoblanishini talab qildik.",
+    "Shahrimizga kelishgan kelishgan mehmonlar kelganida, biz ularning halokat xabarchilari ekanligini bilmasdan ularga hujum qilishga harakat qilardik.",
+    "Agar to'xtamasak, dahshatli azob haqida ogohlantirilgan edik, ammo biz ogohlantirishni masxara qildik va gunohimizda qoldik.",
+    "Osmondan ustimizga tosh yog'di va uylarimiz ag'darilib ketdi, tafakkur qiluvchilar uchun faqat bir oyat-belgi qoldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Lut qavmi",
+        "Samud qavmi",
+        "Od qavmi",
+        "Madyan xalqi",
+        "Saba xalqi"
+      ],
+      "answer": "Lut qavmi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Misli ko'rilmagan axloqsizlikka yo'l qo'ydi va yo'llarni to'sib qo'ydi",
+        "Oltin buzoqqa sig'indi",
+        "Muqaddas tuyani o'ldirdi",
+        "Savdoda aldab, odamlarni kamsitdi",
+        "Osmonga qarshi chiqish uchun baland minora qurdi"
+      ],
+      "answer": "Misli ko'rilmagan axloqsizlikka yo'l qo'ydi va yo'llarni to'sib qo'ydi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Chiroyli mehmonlar qiyofasida farishtalar",
+        "Toshdan chiqayotgan urg'ochi tuya",
+        "Tayoq ilonga aylanmoqda",
+        "Tog'da qurilgan qayiq",
+        "Salqin va osoyishta bo'lib qolgan olov"
+      ],
+      "answer": "Chiroyli mehmonlar qiyofasida farishtalar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Osmondan yog'ayotgan toshlar yomg'iri bilan vayron qilingan",
+        "Yer tomonidan yutib yuborilgan",
+        "Katta suv toshqinida cho'kib ketdi",
+        "Qichqiriq ovozi eshitildi",
+        "Maymunlarga aylangan"
+      ],
+      "answer": "Osmondan yog'ayotgan toshlar yomg'iri bilan vayron qilingan"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

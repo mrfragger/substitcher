@@ -1,0 +1,61 @@
+{
+  "title": "İstirahət Gününə Etiraz Edən İcma",
+  "intro": "İlahi bir əmrin ibadət və təmkin üçün bir gün ayırdığı sahil qəsəbəsinə addım atın. Bu icmanın içindəki bir qrup, əsrlər boyu əks-səda verəcək bir dəyişikliyə səbəb olan hiyləgər bir planla bu əmrin hüdudlarını sınamağı seçdi. Bu ruhlar kimlər idi və onların aqibəti nə oldu?",
+  "clues": [
+    "Biz sahil yaxınlığında yaşayırdıq, dəniz isə dolanışığımızı təmin edirdi.",
+    "Bizə həftənin bir gününə hörmət etmək, onu dünyəvi işlərdən kənara qoymaq əmr olunmuşdu.",
+    "Həmin gün balıqlar sanki bizi əmri pozmağa sövq edirmiş kimi çoxlu sayda yanımıza gəldilər.",
+    "Müqəddəs gün ərəfəsində balıqları tutmaq və sonra balıqlar keçdikdən sonra onları yığmaq üçün bir plan hazırladıq.",
+    "Bəzilərimiz bu yalandan xəbərdar etdikdə, onların məsləhətinə məhəl qoymadıq və israr etdik.",
+    "Günahımıza görə meymunlara çevrildik, xor görüldük və rədd edildik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şənbə günü əhli",
+        "Xəndək Xalqı",
+        "Meşə xalqı",
+        "Cənnət Əhli",
+        "Fil xalqı"
+      ],
+      "answer": "Şənbə günü əhli"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Şənbə günü balıq tutmaq",
+        "Hündür bir qüllə tikmək",
+        "Müqəddəs dişi dəvənin öldürülməsi",
+        "Onlara göndərilən peyğəmbəri inkar etmək",
+        "Ticarət çəkilərində həddi aşmaq"
+      ],
+      "answer": "Şənbə günü balıq tutmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dəniz və onun balığı",
+        "Soyuqlaşan od",
+        "İlana çevrilən əsa",
+        "Xilas sandığı",
+        "Daş lövhələr"
+      ],
+      "answer": "Dəniz və onun balığı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Meymunlara çevrildi",
+        "Torpaq tərəfindən udulmuş",
+        "Şiddətli küləklə məhv edildi",
+        "Dənizdə boğuldu",
+        "Daş yağışı ilə vurulub"
+      ],
+      "answer": "Meymunlara çevrildi"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

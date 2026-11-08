@@ -1,0 +1,61 @@
+{
+  "title": "Mikpritja që solli frikë",
+  "intro": "Në një qytet të pushtuar nga ligësia, një shërbëtor besnik priti vizitorë të papritur një ditë. I shqetësuar për sigurinë e tyre, ky individ ofroi mbrojtje, por njerëzit e qytetit kërkuan diçka të turpshme. I paralajmëruar për një fatkeqësi të afërt, shërbëtori iku me familjen nën errësirën e errët, duke lënë pas një qytet të shënuar për shkatërrim. Kush është ky besimtar i vetmuar?",
+  "clues": [
+    "Unë u dërgova si lajmëtar te një popull që kishte kryer vepra të turpshme.",
+    "Vizitorë të papritur erdhën në shtëpinë time dhe unë isha më i shqetësuar për sigurinë e tyre sesa për veten time.",
+    "Njerëzit e mi kërkuan të takonin mysafirët e mi për qëllime të liga, dhe unë u përpoqa të arsyetoja me ta.",
+    "Vizitorët e mi u shfaqën si engjëj dhe më urdhëruan të merrja familjen time dhe të largohesha natën.",
+    "Gruaja ime nuk e mori parasysh thirrjen për t'u arratisur dhe u përball me të njëjtin shkatërrim si populli im.",
+    "Qyteti im u përmbys nga një shi gurësh prej argjile të shtresuar, pjesët e tij më të larta u rrëzuan më poshtë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Lut",
+        "Profeti Musa",
+        "Profeti Ibrahim",
+        "Profeti Nuh",
+        "Profeti Hud"
+      ],
+      "answer": "Profeti Lut"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Kërkesa e popullit tim për t'u afruar mysafirëve të mi me ligësi",
+        "Ndarja e detit për t'i shpëtuar një tiranit",
+        "Ndërtimi i një arke të madhe mes talljes",
+        "Sakrifica e djalit tim në një provë besimi",
+        "Përvoja e gëlltitjes nga një peshk i madh"
+      ],
+      "answer": "Kërkesa e popullit tim për t'u afruar mysafirëve të mi me ligësi"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Qyteti i përmbysur i popullit tim",
+        "Mali ku mora fjalën hyjnore",
+        "Arka që lundroi përmes një përmbytjeje të madhe",
+        "Deveja që doli nga shkëmbi",
+        "Kopshti me një vizitor të drejtë të fshehur"
+      ],
+      "answer": "Qyteti i përmbysur i popullit tim"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U shpëtova me familjen time përpara se qyteti im të përmbysej",
+        "Unë e udhëhoqa popullin tim drejt lirisë përtej detit",
+        "Ndërtova një arkë të madhe dhe i mbijetova një përmbytjeje të fuqishme",
+        "Më është dhënë sundim mbi erërat dhe xhindët",
+        "Unë durova me durim vuajtjet dhe u shpërbleva me familje"
+      ],
+      "answer": "U shpëtova me familjen time përpara se qyteti im të përmbysej"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

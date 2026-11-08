@@ -1,0 +1,61 @@
+{
+  "title": "Kgabo mo teng ga ntlo ya segosi ya boikgogomoso",
+  "intro": "Ka fa morago ga dipota tse dikgolo tsa ntlo ya segosi e e nonofileng thata ya lefatshe la bogologolo go ne go nna motho mongwe yo pelo ya gagwe e neng e tshotse sephiri se go neng go se na taelo epe ya segosi e e neng e ka se didimatsa. Fa gotlhe go ne go obamela medimo ya maaka, moya ono o ne o boloka tumelo e e didimetseng e tuka mo teng. Mmusi wa naga eo o ne a dumela gore ke ba bomodimo, le fa go ntse jalo motho yono o ne a tlhopha boammaaruri go na le kgomotso, le boineelo go na le pabalesego. Gompieno, tiro ya gago ke go ribolola gore mowa ono o o pelokgale e ne e le mang, o kgang ya one e sa ntseng e le nngwe ya dikai tse di maatla thata tsa tumelo e e sa reketleng.",
+  "clues": [
+    "Ke ne ke nna mo lefelong la khumo e e seng kana ka sepe le bogolo jo bo sa tshwaneng le jwa sepe, koo mmusi wa naga a neng a na le maatla a a feletseng mo go botlhe.",
+    "Fa batho ba ba neng ba ntikologile ba ne ba obamela medimo ya maaka, ke ne ke boloka lesedi le le didimetseng la tumelo mo teng ga pelo ya me.",
+    "Ke ribolotse le go amogela ngwana yo o neng a tlisiwa kwa go nna ka tsela e e sa tlwaelegang - e seng ka botsalo, mme ka metsi a noka e kgolo.",
+    "Ke ne ka rapela Morena wa me, ke kopa legae le le gaufi le Ene kwa Paradaiseng le poloko mo bobusaesi jo bo neng bo ntikolotse.",
+    "Ngwana yo ke neng ka mo godisa o ne a gola a gwetlha ene mmusi yo o neng a laola phelelo ya me, mme ke ne ka ema ke nitame mo tumelong ya me le fa ke ne ke tshosediwa.",
+    "Ke nna yo leina la gagwe le tlotliwang mo Quran jaaka sekao sa tumelo, mme ke ne ke nna mo ntlong ya segosi ya ga Faro ka boene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Asiya, mosadi wa ga Faro",
+        "Maryam, mmaagwe Isa",
+        "Bilqis, Kgosigadi ya Sheba",
+        "Mosadi wa ga Moporofeti Lute",
+        "Mosadi wa ga Imran"
+      ],
+      "answer": "Asiya, mosadi wa ga Faro"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go ribolola le go godisa lesea le le latlhilweng le le neng la nna moporofeti yo mogolo",
+        "Go latlhelwa mo molelong o mogolo ke mogateledi",
+        "Go bona morwalela o mogolo o o neng wa senya batho",
+        "Go bona go tshikhinngwa ga ditlhare tsa date palm le go tlamela ka dikotla",
+        "Go ima ngwana wa mosimane le fa a setse a tsofetse"
+      ],
+      "answer": "Go ribolola le go godisa lesea le le latlhilweng le le neng la nna moporofeti yo mogolo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ntlo ya segosi ya bontlentle jo bo senang selekanyo",
+        "Sekepe se segolo se se agilweng go emelana le morwalela",
+        "Logaga lo lo boteng lo lo fitlhegileng mo dithabeng",
+        "Molelo o o tukang o o agilweng mo godimo ga thaba",
+        "Tshingwana e e dikologilweng ke mabota"
+      ],
+      "answer": "Ntlo ya segosi ya bontlentle jo bo senang selekanyo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Legae le ne la newa kwa Paradaiseng ka thato ya ga Allah",
+        "Morwalela o mogolo o ne wa senya badumedi ba setšhaba sengwe sa bogologolo .",
+        "Bogosi jwa maatla le taolo e kgolo bo ne jwa newa mo lefatsheng leno",
+        "Mophato o o nonofileng o ne wa phatlaladiwa ke dinonyane tse di neng di tshaba",
+        "Mogateledi yo o neng a re ke bomodimo o ne a nwela mo lewatleng"
+      ],
+      "answer": "Legae le ne la newa kwa Paradaiseng ka thato ya ga Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

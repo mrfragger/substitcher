@@ -1,0 +1,61 @@
+{
+  "title": "Díbeartha an Lao Órga",
+  "intro": "Thug figiúr a luaitear sa Chorán slua mór ar seachrán le linn easpa fáidh uasal. Ghabh rud éigin déanta as ór croíthe náisiúin ar fad - ach críochnaíonn scéal an duine seo i uaigneas agus i mallacht aisteach. Cé a d'fhéadfadh a bheith sa díbeartha seo?",
+  "clues": [
+    "Tháinig mé chun cinn le linn éagmais fáidh mhóir a bhí tar éis dul suas chun treoir dhiaga a fháil.",
+    "Chuir mé slua mór ar strae le rud a chruthaigh mé le mo lámha féin.",
+    "Bhí cuma beatha ar an gcruthú órga a tháirg mé, ag táirgeadh fuaimeanna a chuir faoi gheasa iad siúd a lean é.",
+    "Mhaígh mé gur chonaic mé rud nach bhféadfadh daoine eile a bhrath - léargas ar an rud dofheicthe.",
+    "Tharraing mé rud éigin ó rianta an teachtaire diaga agus chaith mé i miotal leáite é.",
+    "Daoradh mé fánaíocht a dhéanamh liom féin, le mallacht uathúil nach bhféadfadh aon duine teagmháil a dhéanamh le mo chraiceann ná liomsa lena gcraiceann."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraó (Fir'awn)",
+        "Abu Lahab",
+        "Fáidh Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Chruthaigh lao órga le haghaidh adhartha",
+        "Thóg túr a shroich na flaithis",
+        "Dúshlán do dhraoithe na hÉigipte",
+        "Threoraigh arm le beithígh eitilte",
+        "Scoilt an ghealach mar chruthúnas ar fháidhiúlacht"
+      ],
+      "answer": "Chruthaigh lao órga le haghaidh adhartha"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An lao órga",
+        "Bata a d’iompaigh ina nathair",
+        "Tor dóite ar shliabh",
+        "Áirc ina luí ar bhuaic",
+        "Trinse lán le tine lasrach"
+      ],
+      "answer": "An lao órga"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Deoraithe, toirmiscthe ó bheith i dteagmháil leo nó ó dhaoine eile a theagmháil",
+        "Báite sa bhfarraige in éineacht le harm",
+        "Dóite beo as diúltú don chreideamh",
+        "Buailte síos ag gaoth fhoréigneach, borb",
+        "Maithithe agus ardaithe go stáisiún ard"
+      ],
+      "answer": "Deoraithe, toirmiscthe ó bheith i dteagmháil leo nó ó dhaoine eile a theagmháil"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

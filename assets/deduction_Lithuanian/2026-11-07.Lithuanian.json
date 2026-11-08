@@ -1,0 +1,61 @@
+{
+  "title": "žvaigždėtas tikrumo ieškojimas",
+  "intro": "Įsivaizduokite, kad stovite po plačiu naktiniu dangumi, stebite kylančias ir blėstančias ryškias šviesas, ieškodami to, kas iš tikrųjų nusipelno pagarbos. Aplink jus tylūs raižyti atvaizdai sulaukia pagyrų ir aukų, tačiau aiški protėvių nuomonė abejoja jų galia. Bebaimis balsas ruošiasi mesti iššūkį paveldėtai tradicijai ir atkreipti dėmesį į dangaus ir žemės Kūrėją.",
+  "clues": [
+    "Pažvelgiau į žvaigždes, mėnulį ir saulę ir samprotavau, kad jie negali būti mano Viešpats, nes jie nusileidžia ir išnyksta.",
+    "Aš atvirai atsižadėjau to, ką mano žmonės garbino šalia Alacho, ir raginau juos garbinti vien Kūrėją.",
+    "Diskutavau su pagyrūnu valdovu, kuris tvirtino duodantis gyvybę ir mirtį, ir atsakiau paminėdamas Alachą, kuris atneša saulę iš rytų.",
+    "Sudaužiau stabus ir juos sudaužiau, palikdamas tik didžiausius, kad žmonės galėtų prie jų sugrįžti.",
+    "Mane pagriebė ir pasmerkė mano žmonės, kurie liepė pastatyti statinį ir įmesti mane į liepsnojančią ugnį.",
+    "Buvau išgelbėtas, kai Alachas įsakė ugniai būti mano vėsa ir saugumu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ibrahimas (Abraomas)",
+        "Pranašas Jahja (Jonas)",
+        "Pranašas Al-Yasa (Eliziejus)",
+        "Samiri",
+        "Namrudas (Nimrodas)"
+      ],
+      "answer": "Pranašas Ibrahimas (Abraomas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Susidūrė su stabmeldžių garbinimu ir diskutavo apie dangaus kūnų reikšmę",
+        "Įniršęs išplaukė, jį prarijo didelė žuvis",
+        "Vedė pasekėjus per jūrą, kurią perskyrė Alachas",
+        "Buvo prikeltas gyvas į dangų neparagavęs mirties",
+        "Daugelį metų miegojo oloje su draugais"
+      ],
+      "answer": "Susidūrė su stabmeldžių garbinimu ir diskutavo apie dangaus kūnų reikšmę"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Liepsnojanti ugnis, kurią Alachas padarė vėsią ir saugią",
+        "Arka, kuri per tvaną pernešė tikinčiuosius",
+        "Lazdelė, kuri virto gyvate",
+        "Stalas dengtas iš dangaus",
+        "Kupranugarė siųsta kaip ženklas"
+      ],
+      "answer": "Liepsnojanti ugnis, kurią Alachas padarė vėsią ir saugią"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Apsaugotas nuo ugnies ir suteikė teisų palikuonių",
+        "Nuskendo su neigėjais dideliame potvynyje",
+        "Perkeistas už sabato pažeidimą",
+        "Sunaikino paukščiai, nešantys molio akmenis",
+        "Praryta žemės lobių"
+      ],
+      "answer": "Apsaugotas nuo ugnies ir suteikė teisų palikuonių"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

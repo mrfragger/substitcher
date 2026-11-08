@@ -1,0 +1,61 @@
+{
+  "title": "A mélyből hívó",
+  "intro": "Képzeljünk el egy lelket, akire isteni üzenetet bíztak, mégis egy sietős pillanatban, kifejezett engedély nélkül távozott népétől. Ez az út rendkívüli megpróbáltatásba sodorta őket, a türelem és a Magasságosba vetett bizalom mély próbájába. Ki ez a személy, akinek a története a bűnbánatról és Allah irgalmának hatalmasságáról tanít minket?",
+  "clues": [
+    "Egy nagy nemzethez küldtek, de a kezdeti elutasításuk szorongást okozott nekem.",
+    "Elhagytam az embereimet, abban a hitben, hogy a küldetésem teljesítve van, mielőtt egyértelmű parancsot kaptam volna a távozásra.",
+    "Hajóval próbáltam utat találni, de egy heves vihar és a sorsolás végzetes helyzethez vezetett.",
+    "A tengerbe vetettek, és egy hatalmas mélységi lény egészben elnyelt.",
+    "Gyomrának sötétségében Allahhoz kiáltottam, beismerve a bűneimet és kérve a megbocsátását.",
+    "Allah megparancsolta a teremtménynek, hogy vessen a partra, és egy különleges növény alatt visszanyertem egészségemet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Juszuf (József) próféta",
+        "Nuh próféta (Noé)",
+        "Junusz (Jónás) próféta",
+        "Szulejmán próféta (Salamon)",
+        "Ayyub (Jób) próféta"
+      ],
+      "answer": "Junusz (Jónás) próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A tenger kettéhasadása",
+        "Nimród tüze",
+        "Egy nagy hal lenyelte",
+        "Az árvíz",
+        "Egy város kövekkel való pusztítása"
+      ],
+      "answer": "Egy nagy hal lenyelte"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A hal hasa",
+        "A kút",
+        "Az égő csipkebokor"
+      ],
+      "answer": "A hal hasa"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Nagy uralkodóvá vált",
+        "Megépítette a Kába-hegyet",
+        "Visszatért, hogy vezesse a bűnbánó nemzetet",
+        "Dzsinn feletti uralmat kapott",
+        "Átvezette az embereket a sivatagon"
+      ],
+      "answer": "Visszatért, hogy vezesse a bűnbánó nemzetet"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

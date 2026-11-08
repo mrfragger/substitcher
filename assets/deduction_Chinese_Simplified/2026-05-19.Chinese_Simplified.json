@@ -1,0 +1,61 @@
+{
+  "title": "国家指定领导人",
+  "intro": "在一个民族面临巨大挑战和绝望的时刻，一项神圣的任命做出了。这个人起初被许多人忽视，却被真主选中，带领一个民族对抗强大的敌人。他们的故事见证了信仰的力量和神圣旨意的智慧，也表明真正的领袖并非总是出现在人们意想不到的地方。",
+  "clues": [
+    "真主选择我作为我的人民的领袖，因为他们需要一位统治者来为祂的事业而战。",
+    "我的族人最初对我的任命提出质疑，认为其他人因为财富或出身而更配得上这个职位。",
+    "我作为合法领袖的标志是，一个装有前代先知遗物的圣箱被找回，带来了安宁。",
+    "我带领我的军队来到一条河边，我禁止他们喝超过一勺水，以此来考验他们的服从性。",
+    "尽管经受考验后仍然坚定不移的人不多，但我们面对的是一个强大的战士及其军队。",
+    "在我的指挥下，我军中一名年轻士兵，虽然并非名将，却勇敢地与强大的敌军冠军对峙并将其击败。"
+  ],
+  "categories": {
+    "identity": {
+      "label": "我是谁？",
+      "options": [
+        "先知优素福",
+        "先知穆萨",
+        "先知达乌德",
+        "先知苏莱曼",
+        "塔卢特"
+      ],
+      "answer": "塔卢特"
+    },
+    "trial": {
+      "label": "试验/活动",
+      "options": [
+        "海的分裂",
+        "巫师们的挑战",
+        "被任命为对抗巨人的领导者",
+        "淹没这片土地的洪水",
+        "建造克尔白"
+      ],
+      "answer": "被任命为对抗巨人的领导者"
+    },
+    "location": {
+      "label": "关键要素",
+      "options": [
+        "燃烧的荆棘",
+        "方舟（塔布特）",
+        "工作人员（ عصا ）",
+        "金牛犊",
+        "渗渗泉"
+      ],
+      "answer": "方舟（塔布特）"
+    },
+    "outcome": {
+      "label": "结果",
+      "options": [
+        "一个拥有巨大财富和权力的王国建立了。",
+        "人们在一场大洪水中被淹死了。",
+        "敌方的勇士被击败，真主赐予了胜利。",
+        "这片土地遭受了多年的严重干旱。",
+        "首领被一只巨大的生物吞噬了。"
+      ],
+      "answer": "敌方的勇士被击败，真主赐予了胜利。"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

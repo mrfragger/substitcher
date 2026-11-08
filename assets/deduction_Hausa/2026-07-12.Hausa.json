@@ -1,0 +1,61 @@
+{
+  "title": "Birnin da ya ɓace na girman da ba a iya misaltawa ba",
+  "intro": "Wata babbar wayewa ta taɓa mamaye manyan wurare na duniya, ana bikinta da manyan gine-gine waɗanda suka kai ga sama. Duk da haka a ƙarƙashin wannan girman, ƙin yarda da kai ya ƙaru - ƙin bin gargaɗin Allah da aka aiko daga cikin al'umma kanta. Girman kai da girman kai ba da daɗewa ba za su jawo irin wannan hukunci wanda ƙasa ko sama ba su taɓa gani ba.",
+  "clues": [
+    "Mun taɓa yin mulkin duniya mai faɗi, muna alfahari da ƙarfin da muka yi imani babu wata wayewa da za ta iya kai mu.",
+    "Masarautarmu ta shahara da manyan gine-gine masu ginshiƙai waɗanda ba su da wani tasiri a kowace ƙasa da aka sani.",
+    "Wani mai gargaɗi daga cikin al'ummarmu ya tashi, yana kira ga kowannenmu da ya miƙa wuya ga Mahalicci ɗaya shi kaɗai.",
+    "Mun musanta saƙon da aka isar mana kuma muka ƙi barin hanyar da muka gada.",
+    "An jiwo mana iska mai ƙarfi da ƙarfi, wadda ta bar mu babu kariya kwata-kwata.",
+    "An bar mu kamar gangar jikin bishiyoyin dabino da aka yi rami a ciki, an warwatse an manta da su, a matsayin darasi ga kowace tsara bayan haka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen A'ad",
+        "Mutanen Nuhu",
+        "Mutanen Lutu",
+        "Mutanen Madyana",
+        "Mutanen Tubba'"
+      ],
+      "answer": "Mutanen A'ad"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Iska mai ƙarfi marar yankewa mai tsanani",
+        "Ambaliyar ruwa da ta mamaye kowane tsaunin dutse",
+        "Ruwan sama mai ƙonewa daga sama",
+        "Ihu ɗaya mai ban tsoro daga sama",
+        "Girgizar ƙasa mai ƙarfi da ta raba ƙasar"
+      ],
+      "answer": "Iska mai ƙarfi marar yankewa mai tsanani"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Iram, birnin ginshiƙai masu tsayi",
+        "Babban jirgin katako da aka gina a kan dutse",
+        "Raƙumi da ya fito daga dutse ta hanyar mu'ujiza",
+        "Dutsen Sinai inda dokokin Allah suka sauko",
+        "Fadar lu'ulu'u da gilashi mai kyau tana kallon ruwa mai gudana"
+      ],
+      "answer": "Iram, birnin ginshiƙai masu tsayi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An bar su kamar gangar jikin bishiyoyin dabino masu ramuka, a warwatse kuma babu rai",
+        "Nutsewa a ƙarƙashin raƙuman ruwa masu ƙarfi na babban ambaliya",
+        "An canza shi zuwa halittu masu kama da birai da aladu",
+        "An niƙa a ƙarƙashin ruwan sama na duwatsu masu tauri",
+        "Ya shanye cikin wani kururuwa mai ratsa rai"
+      ],
+      "answer": "An bar su kamar gangar jikin bishiyoyin dabino masu ramuka, a warwatse kuma babu rai"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "O Portador de uma Mensagem Grave",
+  "intro": "Uma alma justa foi enviada para guiar um povo perdido em transgressões sem precedentes. Esse mensageiro se manteve firme, proferindo um alerta severo contra uma corrupção que desafiava a ordem natural. Apesar dos apelos sinceros, a comunidade mergulhou ainda mais nas trevas, preparando o terreno para um acerto de contas divino sem precedentes. Você consegue identificar esse servo fiel de Alá?",
+  "clues": [
+    "Eu era parente de outro grande profeta e migrei com ele, deixando nossa terra natal para trás.",
+    "Fui enviado a um povo cuja maldade era singular, uma transgressão que nenhuma outra criação havia cometido antes deles.",
+    "Na minha própria casa, a situação estava dividida; um parente próximo secretamente se aliou aos descrentes.",
+    "Anjos, na forma de belos jovens, vieram à minha casa como hóspedes, causando-me grande preocupação com a segurança deles.",
+    "Ofereci minhas próprias filhas em casamento ao meu povo numa tentativa desesperada de afastá-los de seus atos vergonhosos.",
+    "Meu povo foi destruído por um grito terrível e uma chuva de pedras de barro cozido, enquanto eu e minha família, com exceção de um, fomos salvos por termos fugido no meio da noite."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Shu'ayb",
+        "Profeta Salih",
+        "Profeta Ló",
+        "Profeta Hud",
+        "Profeta Noé"
+      ],
+      "answer": "Profeta Ló"
+    },
+    "trial": {
+      "label": "Qual foi meu julgamento primário?",
+      "options": [
+        "Convencer um rei tirano a não me queimar no fogo.",
+        "Lidar com o ciúme dos meus irmãos e ser jogada num poço.",
+        "Confrontar um povo envolvido em imoralidade sexual sem precedentes.",
+        "Liderando meu povo para fora da escravidão imposta por um faraó poderoso.",
+        "Construindo um navio gigantesco para salvar os fiéis de um grande dilúvio."
+      ],
+      "answer": "Confrontar um povo envolvido em imoralidade sexual sem precedentes."
+    },
+    "location": {
+      "label": "Qual era o local da minha missão?",
+      "options": [
+        "A cidade de Madyan",
+        "A antiga cidade de Iram",
+        "A terra do Egito sob o domínio do Faraó",
+        "As cidades de Sodoma e Gomorra",
+        "A cidade de Nínive"
+      ],
+      "answer": "As cidades de Sodoma e Gomorra"
+    },
+    "outcome": {
+      "label": "Qual foi o resultado final?",
+      "options": [
+        "As cidades foram arrasadas e cobertas por pedras de barro cozido.",
+        "Meu povo foi engolido pela terra junto com seu rico líder.",
+        "Meu povo foi destruído por um vento violento durante sete noites e oito dias.",
+        "Meu povo foi afligido por pragas como gafanhotos, piolhos e rãs.",
+        "Um peixe gigante me engoliu depois que abandonei minha missão."
+      ],
+      "answer": "As cidades foram arrasadas e cobertas por pedras de barro cozido."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

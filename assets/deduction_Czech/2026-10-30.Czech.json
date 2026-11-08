@@ -1,0 +1,61 @@
+{
+  "title": "Bdění pozůstalých",
+  "intro": "Chystáte se setkat s duší zkoušenou nejhlubším odloučením, jejíž oči znaly řeč slz, ale jejíž srdce nikdy neztratilo naději. V příběhu o klamu, touze a konečném shledání se tento ušlechtilý služebník Alláha stal symbolem trpělivosti navždy. Kdo vydržel roky skryté bolesti, jen aby se mu v jediném okamžiku vrátil zrak a radost?",
+  "clues": [
+    "Jsem prorok, jehož jméno se stalo symbolem trpělivosti tváří v tvář velké ztrátě.",
+    "Byl jsem požehnán mnoha syny, ale jednoho mi vzala žárlivost ostatních.",
+    "Moje láska k té ztracené osobě byla tak hluboká, že mi zbělaly oči žalem, a přesto jsem si nikdy nestěžoval, kromě Alláha.",
+    "Poslal jsem své syny zpět hledat toho, koho jsem ztratil, a jeho bratra a naléhal jsem na ně, aby neztráceli naději.",
+    "Když dorazil posel dobrých zpráv, přehodili mi přes obličej košili a svět se mi náhle zase vyjasnil.",
+    "Jsem známý jako Izrael a z mých dvanácti synů vzešlo dvanáct kmenů velkého národa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Jakub (Jakub)",
+        "Prorok Jusuf (Josef)",
+        "Prorok Izák (Išák)",
+        "Prorok Ibrahím (Abraham)",
+        "Prorok Ayyub (Job)"
+      ],
+      "answer": "Prorok Jakub (Jakub)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Odloučení od milovaného syna na mnoho let",
+        "Být vhozen do planoucího ohně",
+        "Spolknuto velkou rybou",
+        "Postižen těžkým kožním onemocněním",
+        "Být bezdětný až do stáří"
+      ],
+      "answer": "Odloučení od milovaného syna na mnoho let"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Jusufova košile",
+        "Zaměstnanci Musy",
+        "Archa Noe",
+        "Velbloudice Salihova",
+        "Sulajmánův prsten"
+      ],
+      "answer": "Jusufova košile"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zrak obnoven a shledán se svým synem",
+        "Uděleno vítězství nad tyranským králem",
+        "Pozdvižen k nebesům zaživa",
+        "Jmenován vládcem nad Egyptem",
+        "Dán syn ve stáří jako zázrak"
+      ],
+      "answer": "Zrak obnoven a shledán se svým synem"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

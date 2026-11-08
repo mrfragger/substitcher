@@ -1,0 +1,61 @@
+{
+  "title": "Trditev o absolutni avtoriteti",
+  "intro": "V davnih časih se je močan posameznik povzpel na oblast nad prostrano deželo in njenimi prebivalci. Vladavina te osebnosti je bila zaznamovana z neizmernim ponosom in globokim izzivom božanski avtoriteti. Pripravite se na odkrivanje identitete duše, katere končna usoda je postala trajen nauk za vse generacije.",
+  "clues": [
+    "Vladal sem mogočnemu cesarstvu, kjer je bila moja beseda zakon.",
+    "Razglasil sem se za vrhovno božanstvo in zahteval čaščenje od vseh pod mojo oblastjo.",
+    "Zatiral sem določeno skupnost, jih zasužnjeval in ukazal uboj njihovih dojenčkov moškega spola.",
+    "Večkrat sem se soočil s ponižnim Božjim poslancem, ki je pred mano in mojimi čarovniki delal jasne čudeže.",
+    "Trmasto sem zavračal resnico, obtoževal glasnika čarovništva in načrtoval, da ga bom uničil skupaj z njegovimi privrženci.",
+    "Vso mojo vojsko in mene je zajelo morje, medtem ko smo neusmiljeno zasledovali tiste, ki so se mi osvobodili izpod prijema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Nimrod",
+        "Abu Džahl",
+        "Iblis",
+        "Faraon",
+        "Haman"
+      ],
+      "answer": "Faraon"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Velika poplava",
+        "Goreči ogenj",
+        "Utapljanje zatiralca",
+        "Uničenje zaradi vetra",
+        "Potres neverice"
+      ],
+      "answer": "Utapljanje zatiralca"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Noetova barka",
+        "Mojzesova palica",
+        "Zlati idol",
+        "Vodnjak Zamzam",
+        "Bilkisov prestol"
+      ],
+      "answer": "Mojzesova palica"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Podeljeno ogromno kraljestvo",
+        "Telo ohranjeno kot znamenje",
+        "Odpuščeno po kesanju",
+        "Povzdignjen v prerokovanje",
+        "Njegovo ljudstvo je postalo pobožno"
+      ],
+      "answer": "Telo ohranjeno kot znamenje"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

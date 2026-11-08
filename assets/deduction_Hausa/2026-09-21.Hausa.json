@@ -1,0 +1,61 @@
+{
+  "title": "Kukan Daga Zurfi",
+  "intro": "Wani bawan Mai rahama ya gaji da al'umma mai taurin kai ya tafi kafin a ba shi izini. Wannan mutumin ya ƙare a wurin da babu wani ɗan adam da ya taɓa zuwa, inda kiran Allah yake ta yawo cikin duhu. Ya bayyana yana rauni amma ya canza, wannan rai ya zama darasi mai ɗorewa game da haƙuri, tuba ta gaskiya, da kuma rahamar Mahalicci marar iyaka. Za ku iya warware asirin?",
+  "clues": [
+    "An aiko ni a matsayin manzo zuwa ga mutanena, amma sun wuce gona da iri a cikin kafircinsu kuma sun ƙi saurara.",
+    "Na yi fushi da kin amincewa da su, na gudu daga mutanena kafin umarnin Allah ya zo.",
+    "Na hau jirgin ruwa da aka cika da kaya fiye da kima, kuma muka yi kuri'a domin tantance wanda za a jefa a cikin jirgin.",
+    "An jefa ni cikin teku mai ƙarfi, wani babban kifi ya haɗiye ni.",
+    "Na makale a cikin duhu uku — ciki, teku mai zurfi, da ƙasa a ƙasa — na kira Ubangijina da tuba ta gaskiya.",
+    "Na fito daga cikin kifin zuwa bakin teku, ina cikin rauni da gajiya, sai wata shukar gourd ta tsiro a kaina. Mutanena, dubu ɗari ko fiye, a ƙarshe suka yarda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Yunus",
+        "Annabi Ayyub",
+        "Annabi Yusufu",
+        "Annabi Musa",
+        "Annabi Sulaiman"
+      ],
+      "answer": "Annabi Yunus"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Wani babban kifi ya haɗiye shi",
+        "An jefa shi cikin wuta mai zafi",
+        "An makale a ƙasan rijiya",
+        "Ambaliyar ruwa ta mamaye ta",
+        "Sarki ya ɗaure shi ba bisa ƙa'ida ba"
+      ],
+      "answer": "Wani babban kifi ya haɗiye shi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Cikin babban kifi",
+        "Kwarin tsarki kusa da Ka'aba",
+        "Jirgin ruwa yana kan dutse",
+        "Sanda da ta rikide ta zama maciji",
+        "Kursi mai girman da ba a iya misaltawa ba"
+      ],
+      "answer": "Cikin babban kifi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Mutanensa, dubu ɗari ko fiye, sun yi imani",
+        "An tashe shi da rai zuwa sama",
+        "Ya zama mai mulkin wata masarauta mara kishiya",
+        "An halaka shi da ihu mai ratsa zuciya daga sama",
+        "Girgizar ƙasa mai tsanani ta kife ta"
+      ],
+      "answer": "Mutanensa, dubu ɗari ko fiye, sun yi imani"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

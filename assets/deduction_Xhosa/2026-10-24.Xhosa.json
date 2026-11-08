@@ -1,0 +1,61 @@
+{
+  "title": "Isilumkiso Esingaphantsi Komhlaba",
+  "intro": "Khawuthelekelele umi ecaleni kwendawo yokumba enzulu njengoko amazwi enyuka evela ngaphantsi kwaye ihlabathi elingaphezulu lithule. I-Qur'an igcina le ndawo njengesilumkiso: uluntu luyala oko kuziswa ngabathunywa, isohlwayo siyavalwa, kwaye kwanomgqumo walo uba yinxalenye yobungqina. Ngowuphi iqela elithetha ngaloo vesi?",
+  "clues": [
+    "Sikhunjulwa kwiQur'an njengeqela elichazwe likamva elinye elilinganayo endaweni yegama lomntu ngamnye.",
+    "Sasilahlile isigidimi esasiziswa ngabathunywa, nangona oko babekuthetha kwakuyinyani.",
+    "Ubuwena bethu obukhunjulwayo bubotshelelwe kukunqunyulwa okunzulu komhlaba, kwaye olo phawu lwaba yinxalenye yegama lethu.",
+    "Ngomhla omiselweyo, sakhutshwa saza sarhuqelwa emlilweni.",
+    "Asikwazanga ukuzikhusela kwisohlwayo, kwaye asikwazanga ukuva ukugquma kwaso.",
+    "Ubuso bethu bebuya kujika bube semlilweni, size siqhutyelwe kuwo; xa sibuzwa, besisithi siphakathi kwabo bangenakukwazi ukuphendula."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Amaqabane eMfuleni",
+        "Isizwe Esihlangulwe KuMkhukula Omkhulu",
+        "Abanquli bethole legolide",
+        "Iqela Likhuselekile Ngaphakathi Komqolomba Weentaba",
+        "Uluntu Oluhlangulwe Kwisithando Somlilo"
+      ],
+      "answer": "Amaqabane eMfuleni"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukurhuqwa nokuphoswa eMlilweni",
+        "Uhlangulwe esithandweni somlilo",
+        "Wathwalwa ngokukhuselekileyo kwisikhukula esikhulu",
+        "Ikhuselwe kangangeenkulungwane ngaphakathi emqolombeni",
+        "Usindiswe emva kokuphoswa emthonjeni"
+      ],
+      "answer": "Ukurhuqwa nokuphoswa eMlilweni"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umsele okanye umngxuma",
+        "Ulwandle olukhulu",
+        "Umqolomba weentaba",
+        "Ibhotwe eliphakamileyo",
+        "Umthombo wasentlango"
+      ],
+      "answer": "Umsele okanye umngxuma"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Abakwazi ukuzikhusela kwaye abakwazi ukuva ukugquma koMlilo",
+        "Ukusindiswa nokunikezelwa ithuba lokungena kwiigadi ezingunaphakade",
+        "Uhlangulwe ngokukhuselekileyo kwisikhukula esitshabalalisayo",
+        "Ikhuselwe kukulala ixesha elide ngaphakathi emqolombeni",
+        "Uhlonitshwe ngobukumkani obungunaphakade"
+      ],
+      "answer": "Abakwazi ukuzikhusela kwaye abakwazi ukuva ukugquma koMlilo"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

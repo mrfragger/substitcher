@@ -1,0 +1,61 @@
+{
+  "title": "Surlarla çevrili bir şehrin tuhaf ziyaretçileri",
+  "intro": "Bir grup insan, halkı daha önce hiç gerçeği tanımamış bir şehrin kapılarına geldi. Bir mesaj getirmişlerdi, ancak şehir sakinleri düşmanca davranarak şiddet tehdidinde bulundular. Yine de, beklenmedik bir yerden tek bir ses yükselerek yabancıları savundu ve olayların dramatik bir şekilde gelişmesine zemin hazırladı.",
+  "clues": [
+    "Halkı büyük bir şaşkınlık ve hayret içinde olan bir şehre girdik.",
+    "Bize şüpheyle baktılar ve 'Siz de bizim gibi sıradan insanlarsınız' dediler.",
+    "Onları uyardık, ama onlar bize taş attılar.",
+    "Şehrin en uzak ucundan bir adam koşarak geldi ve bizim haklılığımızı teyit etti.",
+    "Halkına şöyle buyurdu: \"Beni yaratanı neden ibadet etmeyeyim ki?\"",
+    "Şehrin inkârı tek bir patlamayla sona erdi ve bir zamanlar alay edilen yerlerde sessizlik hüküm sürdü."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Ya-Sin'in Elçileri",
+        "İsa'nın Öğrencileri",
+        "Siperdeki İnsanlar",
+        "Firavun'un Büyücüleri",
+        "Ya-Sin'in Mümini"
+      ],
+      "answer": "Ya-Sin'in Elçileri"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Reddedilme ve taşlanma tehdidi",
+        "Şiddetli bir ateşe atılmak",
+        "Kayıp bir çocukla ilgili sabır sınavı",
+        "Tahribata uğramış bir bahçe",
+        "Denizde bir yolculuk"
+      ],
+      "answer": "Reddedilme ve taşlanma tehdidi"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Şehrin en uzak ucu",
+        "Kızıldeniz",
+        "ateş hendeği",
+        "Sığınak mağarası",
+        "Mısır hapishanesi"
+      ],
+      "answer": "Şehrin en uzak ucu"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Şehir tek bir çığlıkla yerle bir edildi.",
+        "Deniz yarıldı ve orduyu boğdu.",
+        "Yangın soğudu ve güvenli hale geldi.",
+        "Bahçe gökten gelen bir ateşle yok oldu.",
+        "Balina, insanı kıyıya geri getirdi."
+      ],
+      "answer": "Şehir tek bir çığlıkla yerle bir edildi."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

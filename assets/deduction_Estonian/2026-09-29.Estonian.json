@@ -1,0 +1,61 @@
+{
+  "title": "Nikerdatud mägede prohvet",
+  "intro": "Muistse Araabia karmides kõrbetes kerkis esile rahvaste seast tegelane, keda tunti nende erakordse meisterlikkuse poolest. Nende kodud kerkisid küll kaljust, kuid nende südamed olid kõvemad kui mäed, mille nad olid raiunud. Jumalik sõnumitooja saabus üheainsa imelise märgiga – kuid uhkus ja trots viisid kiirete ja hirmutavate tagajärgedeni. Kas suudad tuvastada ülla teenija, kelle rahvas valis juhatuse asemel hävingu?",
+  "clues": [
+    "Mind saadeti hoiatajaks oma rahvale, kutsudes neid ühte Jumalat kummardama.",
+    "Minu rahvas elas dramaatiliste kaljumoodustiste keskel, uuristades mäenõlvadele suurejoonelisi eluruume.",
+    "Minu palve peale ilmus kaljust välja imeline kaamel, selge märk Kõigevägevamalt.",
+    "Ma ütlesin oma rahvale, et nad jagaksid selle kaameliga vett ja ei teeks talle liiga.",
+    "Mu rahvas sepitses vandenõu emase kaameli vastu ja lõikas ta kintsud läbi, kinnitades sellega omaenda hävingu.",
+    "Mu rahvast tabas kohutav maavärin ja nad jäid oma eluasemetes liikumatult maha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Salih",
+        "Prohvet Hud",
+        "Prohvet Šu'ayb",
+        "Prohvet Noa",
+        "Prohvet Musa"
+      ],
+      "answer": "Prohvet Salih"
+    },
+    "trial": {
+      "label": "Mis oli määrav katsumus?",
+      "options": [
+        "Imelise emase kaameli reielihaste vigastus",
+        "Suure laeva ehitamine pilkamise keskel",
+        "Türanliku vaarao vastasseisus",
+        "Lõõmavasse tulle heidetud",
+        "Hingamispäeva lepingu murdmine"
+      ],
+      "answer": "Imelise emase kaameli reielihaste vigastus"
+    },
+    "location": {
+      "label": "Mis oli keskne element?",
+      "options": [
+        "Kaljult ilmunud emane kaamel",
+        "Suur puust laev",
+        "Personali, mis mere lahutas",
+        "Tohutu vaal",
+        "Pea kohal rippuv mägi"
+      ],
+      "answer": "Kaljult ilmunud emane kaamel"
+    },
+    "outcome": {
+      "label": "Mis oli nende lõplik saatus?",
+      "options": [
+        "Taevast kostis äkiline maavärin",
+        "Uppus võimsas üleujutuses",
+        "Jumalik käsk hävitas nende linnad",
+        "Kõrvetav tuul põletas",
+        "Maa poolt neelatud"
+      ],
+      "answer": "Taevast kostis äkiline maavärin"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Y lletygarwch a ddaeth ag ofn",
+  "intro": "Mewn dinas a ddifethwyd gan ddrygioni, derbyniodd gwas ffyddlon ymwelwyr annisgwyl un diwrnod. Yn bryderus am eu diogelwch, cynigiodd yr unigolyn hwn amddiffyniad, ond mynnodd pobl y ddinas rywbeth cywilyddus. Wedi'i rybuddio am dynged oedd ar fin digwydd, ffodd y gwas gyda'i deulu dan orchudd y tywyllwch, gan adael dinas ar ei hôl a oedd wedi'i marcio i'w dinistrio. Pwy yw'r credadun unig hwn?",
+  "clues": [
+    "Cefais fy anfon fel negesydd at bobl oedd wedi ymgymryd â gweithredoedd cywilyddus.",
+    "Daeth ymwelwyr annisgwyl i'm cartref, ac roeddwn i'n fwy poeni am eu diogelwch nhw nag am fy diogelwch fy hun.",
+    "Mynnodd fy mhobl weld fy ngwesteion am fwriadau drygionus, a cheisiais resymu â nhw.",
+    "Datgelodd fy ymwelwyr eu hunain fel angylion a gorchmynnon nhw i mi fynd â fy nheulu a gadael yn y nos.",
+    "Ni wrandawodd fy ngwraig ar yr alwad i ddianc ac wynebodd yr un dinistr â fy mhobl.",
+    "Dymchwelwyd fy ninas â glaw o gerrig o glai haenog, a'i rhannau uchaf wedi'u dwyn i'r isaf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Lut",
+        "Proffwyd Musa",
+        "Proffwyd Ibrahim",
+        "Proffwyd Nuh",
+        "Proffwyd Hud"
+      ],
+      "answer": "Proffwyd Lut"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gofyniad fy mhobl i ymdrin â'm gwesteion yn ddrygionus",
+        "Gwahanu'r môr i ddianc rhag teyrn",
+        "Adeiladu arch fawr yng nghanol gwawd",
+        "Aberth fy mab mewn prawf o ffydd",
+        "Y profiad o gael eich llyncu gan bysgodyn mawr"
+      ],
+      "answer": "Gofyniad fy mhobl i ymdrin â'm gwesteion yn ddrygionus"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Dinas wedi'i dymchwel o fy mhobl",
+        "Y mynydd lle cefais araith ddwyfol",
+        "Yr arch a hwyliodd trwy lifogydd mawr",
+        "Y gamel fenyw a ddaeth allan o'r graig",
+        "Yr ardd gydag ymwelydd cyfiawn cudd"
+      ],
+      "answer": "Dinas wedi'i dymchwel o fy mhobl"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cefais fy achub gyda fy nheulu cyn i fy ninas gael ei dymchwel",
+        "Arweiniais fy mhobl i ryddid ar draws y môr",
+        "Adeiladais arch fawr a goroesais lifogydd mawr",
+        "Rhoddwyd i mi lywodraeth dros y gwyntoedd a'r jinn",
+        "Fe wnes i ddioddef dioddefaint yn amyneddgar a chefais fy ngwobrwyo â theulu"
+      ],
+      "answer": "Cefais fy achub gyda fy nheulu cyn i fy ninas gael ei dymchwel"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

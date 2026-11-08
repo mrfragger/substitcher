@@ -1,0 +1,61 @@
+{
+  "title": "I-Echo Edlula Emaweni",
+  "intro": "Cabanga ngesigodi lapho izindlu ziqoshwe khona emaweni, futhi umoya uphethe inkumbulo yesixwayiso esingalalelwanga. Abantu bake bachuma lapha, bebusisiwe kodwa bephikisana, kwaze kwaba yilapho kuvela isibonakaliso edwaleni ababelithemba.",
+  "clues": [
+    "Sasingabantu ababeqopha amakhaya aphephile ezintabeni, bezizwa bephephile ezindlini zethu ezinamadwala.",
+    "Sasihlala ezweni elinamathafa namatshe, elibusiswe ngezingadi nemithombo yamanzi.",
+    "Isithunywa esivela phakathi kwethu safika, sisibiza ukuba silahle onkulunkulu bethu bamanga sikhulekele uMdali weqiniso oyedwa.",
+    "Ngokuzidla sabeka umbandela wokukholelwa: uphawu oluyingqayizivele olwaluzovela emadwaleni esiwaqophile.",
+    "Lapho ikamela lensikazi elithenjisiwe livela edwaleni, uphawu olucacile, abaphezulu bethu baqhubeka benqaba futhi balinquma imisipha naphezu kwesixwayiso senhlekelele ezayo.",
+    "Ngemva kwezinsuku ezintathu senzile, kwaduma umsindo omkhulu esigodini, futhi saphela saba yimfucumfucu ewile, imizi yethu yaba amathuna ethu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abantu base-¿Ad",
+        "Abantu baseThamud",
+        "Abantu baseMadyan",
+        "Abantu baseGrove",
+        "Abantu Bomhume"
+      ],
+      "answer": "Abantu baseThamud"
+    },
+    "trial": {
+      "label": "Isivivinyo Sethu/Umcimbi Oyinhloko",
+      "options": [
+        "Ukushaywa kwemisipha kwekamela lika-Allah",
+        "Ukukhulekelwa kwethole legolide",
+        "Ukwephulwa kweSabatha",
+        "Ukwakhiwa kombhoshongo esibhakabhakeni",
+        "Ukubulawa kwabaprofethi"
+      ],
+      "answer": "Ukushaywa kwemisipha kwekamela lika-Allah"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko Endabeni Yethu",
+      "options": [
+        "Ikamela lensikazi lika-Allah",
+        "Induku kaMusa",
+        "Umphongolo kaNuh",
+        "Isandla esimhlophe sikaMusa",
+        "Inyoni ka-Isa"
+      ],
+      "answer": "Ikamela lensikazi lika-Allah"
+    },
+    "outcome": {
+      "label": "Umphumela Wethu",
+      "options": [
+        "Ukubhujiswa ngokuqhuma okukhulu",
+        "Imvula yamatshe evela esibhakabhakeni",
+        "Isikhukhula esamboza umhlaba",
+        "Umoya onamandla owasisiphula",
+        "Umhlaba usigwinya"
+      ],
+      "answer": "Ukubhujiswa ngokuqhuma okukhulu"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

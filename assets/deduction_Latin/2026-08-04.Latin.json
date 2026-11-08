@@ -1,0 +1,61 @@
+{
+  "title": "Echo Per Rupes",
+  "intro": "Finge vallem ubi domus e rupibus excisae sunt, et aer memoriam admonitionis neglectae portat. Populus olim hic floruit, beatus sed tamen contumax, donec signum ex ipsa rupe cui confidebant emersit.",
+  "clues": [
+    "Populus eramus qui domos tutas e montibus exsculpsimus, in saxosis domibus tutos sentientes.",
+    "In terra planitiei et lapidum, hortis et fontibus benedicta, habitavimus.",
+    "Nuntius e nobis venit, nos vocans ut deos falsos relinquamus et unum verum Creatorem colamus.",
+    "Superbe condicionem credendi posuimus: signum unicum quod ex ipsis saxis quos sculpsimus emergeret.",
+    "Cum camelus promissus e rupe apparuit, signum manifestum, nobiles nostri tamen recusaverunt et eam vincula impedierunt, quamquam de imminenti fato moniti sunt.",
+    "Tribus diebus post facinus nostrum, tonitrus per vallem resonavit, et nos in rudera redacti sumus, domus nostrae sepulcra nostra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Populus ¿Ad",
+        "Populus Thamud",
+        "Populus Madyani",
+        "Populus Nemoris",
+        "Populus Speluncae"
+      ],
+      "answer": "Populus Thamud"
+    },
+    "trial": {
+      "label": "Iudicium Nostrum/Certamen Praecipuum",
+      "options": [
+        "Subsectio femorum camelæ Dei",
+        "Cultus vituli aurei",
+        "Fractio Sabbati",
+        "Aedificatio turris ad caelum",
+        "Occisio prophetarum"
+      ],
+      "answer": "Subsectio femorum camelæ Dei"
+    },
+    "location": {
+      "label": "Elementum Clave in Historia Nostra",
+      "options": [
+        "Camelus Dei",
+        "Baculus Musae",
+        "Arca Noë",
+        "Manus alba Musae",
+        "Avis Isae"
+      ],
+      "answer": "Camelus Dei"
+    },
+    "outcome": {
+      "label": "Exitus Noster",
+      "options": [
+        "Destructio fragore assordante",
+        "Pluvia lapidum de caelo",
+        "Diluvium quod terram obtexit",
+        "Ventus saevus qui nos eradicavit",
+        "Terra nos devorans"
+      ],
+      "answer": "Destructio fragore assordante"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

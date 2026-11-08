@@ -1,0 +1,61 @@
+{
+  "title": "Proscrisul Cerurilor",
+  "intro": "O ființă misterioasă se află la răscrucea dintre creație și respingere. Povestea lor este una despre o aroganță de neegalat și o sfidare supremă a unei porunci divine. Alegerea lor răsună în fiecare generație, devenind un test pentru fiecare suflet născut în această lume. Poți identifica acest adversar etern?",
+  "clues": [
+    "Am fost prezent la un eveniment cu semnificație cosmică, când o nouă ființă a fost formată din lut și i s-a dat viață prin Suflarea Celui Milostiv.",
+    "Eu însumi am fost adus la existență dintr-un singur element arzător, spre deosebire de acea ființă din praf.",
+    "Mi s-a dat un ordin pe care l-am considerat sub poziția mea.",
+    "Mândria m-a cuprins și am refuzat cu tărie să mă supun acelei porunci.",
+    "Mi s-a acordat o amânare până la o Zi stabilită, pentru a-mi putea urma scopul declarat de a-i induce în eroare pe alții.",
+    "Sunt dușmanul declarat al tuturor celor care umblă pe pământ, șoptind înșelăciuni și atrăgându-i de la calea cea dreaptă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Iblis (Satana)",
+        "Faraon (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satana)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A refuzat să se închine înaintea lui Adam",
+        "A pretins divinitatea în mod fals",
+        "A făurit un vițel de aur pentru închinare",
+        "Și-a ucis fratele din invidie",
+        "A condus opoziția politeistă din Mecca"
+      ],
+      "answer": "A refuzat să se închine înaintea lui Adam"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Paradis (Jannah)",
+        "Palatul faraonului din Egipt",
+        "Valea sacră a orașului Tuwa",
+        "Adâncurile mării",
+        "Grădina lui Șeba"
+      ],
+      "answer": "Paradis (Jannah)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A fost acordat răgaz până la Ziua Judecății",
+        "Înecat împreună cu armata în mare",
+        "Înghițit de pământ împreună cu comorile",
+        "Transformați în maimuțe pentru încălcarea Sabatului",
+        "Ars de pietre aruncate din cer"
+      ],
+      "answer": "A fost acordat răgaz până la Ziua Judecății"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

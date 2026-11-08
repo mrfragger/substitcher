@@ -1,0 +1,61 @@
+{
+  "title": "Uni ajan tuolla puolen",
+  "intro": "Kuvittele aikaa, jolloin totuus vaiennettiin ja uskovia vainottiin. Pieni ryhmä valitsi antautumisen sijaan vetäytymisen ja löysi turvapaikan mitä epätodennäköisimmästä paikasta – paikasta, josta tulisi heidän leposijansa lukemattomiksi vuosisadoiksi. Kun he viimein heräsivät, maailma oli muuttunut heidän ympärillään. Keitä nämä uinuvat sielut ovat?",
+  "clues": [
+    "Me olimme nuoria ihmisiä, jotka asuivat muinaisessa kaupungissa.",
+    "Yhteisömme vaati, että rukoilisimme heidän rinnallaan, mutta me kieltäydyimme.",
+    "Pakenimme kaupungista etsien turvaa niiltä, ​​jotka vastustivat uskomuksiamme.",
+    "Uskollinen nelijalkainen seuralainen pysyi piilopaikkamme suulla.",
+    "Allah nukutti meidät kolmesataayhdeksän vuotta.",
+    "Kun viimein heräsimme, kerran vainonnut kaupunkimme oli omaksunut uskon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Ashab al-Kahf (Luolan ihmiset)",
+        "Ashab al-Fil (Elefantin armeija)",
+        "Ashab al-Ukhdud (Juoksuhaudan seuralaiset)",
+        "Hawariyyun (Isan opetuslapset)",
+        "Yajuj wa Majuj (Gog ja Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Luolan ihmiset)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Vetäydyimme luolaan ja nukuimme vuosisatoja",
+        "Meidät pelastettiin roihuavalta tulelta",
+        "Suuri kala nielaisi meidät",
+        "Meitä koeteltiin ihmeellisellä naaraskameli-kamelin kanssa",
+        "Meille annettiin yhdeksän selkeää merkkiä"
+      ],
+      "answer": "Vetäydyimme luolaan ja nukuimme vuosisatoja"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Syvä luola vuoristossa",
+        "Vene avomerellä",
+        "Taivaisiin kurottava kohoava rakennelma",
+        "Kahden kilpailijan kesken jaettu puutarha",
+        "Raudan ja kuparin muodostama este"
+      ],
+      "answer": "Syvä luola vuorilla"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Heräsimme ja huomasimme kaupunkimme kääntyneen uskoon",
+        "Liekehtivä tuli viilensi ja rauhoitti",
+        "Vihollisen armeija hukkui mereen",
+        "Kiviä kantavat linnut tuhosivat vihollisen",
+        "Suuri kala päästi meidät rannalle"
+      ],
+      "answer": "Heräsimme ja huomasimme kaupunkimme kääntyneen uskoon"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

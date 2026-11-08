@@ -1,0 +1,61 @@
+{
+  "title": "Masu Gina Ginshiƙai Masu Tsayi",
+  "intro": "Kana tsaye a gaban kango na wani tsohon birni mai girma, ginshiƙansa masu tsayi yanzu sun faɗi. Iska tana ta ratsa titunan da babu kowa, tana ɗauke da tunawa da manyan mutane waɗanda suka taɓa mulkin waɗannan ƙasashe. Su waye ne?",
+  "clues": [
+    "Mu mutane ne masu ƙarfi da ƙwarewa sosai, waɗanda aka san su da manyan gine-ginenmu da wayewarmu ta ci gaba.",
+    "Mun zauna a ƙasar da ke cike da tuddai masu duwatsu da kuma duwatsu, kuma mun yi imanin cewa babu wanda zai iya rinjaye mu.",
+    "Wani manzo ya zo mana daga cikin danginmu, yana kiranmu mu bauta wa Allah shi kaɗai, amma muka ƙi shi muka yi masa ba'a.",
+    "Mun yi ta alfahari, 'Wa ya fi mu ƙarfi?' Sai muka ci gaba da girman kanmu da bautar gumaka.",
+    "Allah ya aiko mana da iska mai ƙarfi wadda ta yi ta kadawa har tsawon dare bakwai da kwana takwas, ta lalata komai.",
+    "Mu ne mutanen Ada, masu gina Iram, kuma ƙaddararmu ta zama gargaɗi ga duk wanda zai zo bayan haka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen 'Ad'",
+        "Mutanen Samudawa",
+        "Mutanen Madyana",
+        "Mutanen Tubba'",
+        "Mutanen Al-Rass"
+      ],
+      "answer": "Mutanen 'Ad'"
+    },
+    "trial": {
+      "label": "Menene hukuncin da aka yi musu?",
+      "options": [
+        "Iska mai ɓarna",
+        "Ruwan duwatsu",
+        "Ƙarar ƙara",
+        "Ambaliyar ruwa ta nutsar da mutane",
+        "Ƙasa ta haɗiye ta"
+      ],
+      "answer": "Iska mai ɓarna"
+    },
+    "location": {
+      "label": "Menene sunan birninsu mai tarihi?",
+      "options": [
+        "Iram",
+        "Saduma",
+        "Madayanawa",
+        "Babila",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Menene makomarsu ta ƙarshe?",
+      "options": [
+        "An lalata su kuma gawarwakinsu ya zama darasi",
+        "Sun tuba kuma aka cece su",
+        "An mayar da su birrai",
+        "An nutsar da su cikin teku",
+        "An binne su a ƙarƙashin zaftarewar ƙasa"
+      ],
+      "answer": "An lalata su kuma gawarwakinsu ya zama darasi"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

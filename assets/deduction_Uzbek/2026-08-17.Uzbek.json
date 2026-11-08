@@ -1,0 +1,61 @@
+{
+  "title": "Sohil bo'yidagi qonunbuzarlik",
+  "intro": "Siz unutilgan qirg'oqning qumlarida turibsiz, u yerda to'lqinlar ilohiy buyruq bilan sinovdan o'tgan jamoa haqida pichirlaydi. Havo hayratlanarli o'zgarishga olib kelgan buzg'unchilik xotirasi bilan og'ir. Bu ruhlar kimlar edi va ularning sinovi qanday edi?",
+  "clues": [
+    "Biz Rabbimizdan aniq bir amr olgan jamoa edik, ammo unga qarshi chiqish yo'llarini topdik.",
+    "Biz suv havzasi yaqinida yashardik va tirikchiligimiz undagi jonzotlarga bog'liq edi.",
+    "Dunyoviy ishlardan tiyilishga buyurilgan kuni bizga sinov keldi.",
+    "O'sha kuni suvdagi jonzotlar bizga juda ko'p bo'lib kelishdi va bizni chidab bo'lmas darajada vasvasaga solishdi.",
+    "Biz ilohiy tartibni chetlab o'tish uchun ayyorona hiyla o'ylab topdik, chunki biz buyruqni aldab o'tamiz deb o'yladik.",
+    "Bizning gunohimiz sharmandali o'zgarishga olib keldi; biz Allohning amri bilan nafratlangan maymunlarga aylandik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Shabbat ahli",
+        "Rass xalqi",
+        "Tubba xalqi",
+        "G'or ahli",
+        "Xandaqdagi sheriklar"
+      ],
+      "answer": "Shabbat ahli"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Shabbat kuni baliqlarning paydo bo'lishi",
+        "Qattiq qurg'oqchilik yili",
+        "Ularga qarshi qushlar qo'shini yuborildi",
+        "Ularni bosib ketgan toshqin",
+        "Kuchli zilzila"
+      ],
+      "answer": "Shabbat kuni baliqlarning paydo bo'lishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Dengiz",
+        "Tog'",
+        "G'or",
+        "Cho'l vodiysi",
+        "Mustahkam shahar"
+      ],
+      "answer": "Dengiz"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Maymunlarga aylangan",
+        "Yer tomonidan yutib yuborilgan",
+        "Baqir-chaqir shamol tomonidan vayron qilingan",
+        "Dengizda cho'kib ketdi",
+        "Toshlar yog'ishi bilan urildi"
+      ],
+      "answer": "Maymunlarga aylangan"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

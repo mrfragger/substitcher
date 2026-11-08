@@ -1,0 +1,61 @@
+{
+  "title": "Glas s periferije",
+  "intro": "Stojiš u gradu u koji su došla tri glasnika s jasnim znakovima, ali ljudi im se rugaju i drže se svojih starih običaja. Iz najudaljenijeg dijela grada, lik juri prema gomili, bez daha i odlučan, da govori istinu suočen s odbijanjem. Tko je ta duša koja je riskirala sve za poruku koja nije njezina?",
+  "clues": [
+    "Živio sam među ljudima koji su primili poslanike s jasnim znacima, ali su se oni oholili i okrenuli leđa.",
+    "Dotrčao sam iz najudaljenijeg dijela grada kad sam čuo poziv glasnika.",
+    "Rekao sam narodu svome: 'O narode moj, slijedite poslanike i slijedite one koji od vas ne traže nagradu, oni su na pravom putu.'",
+    "Nisam bio prorok, ali sam vjerovao u poslanike i poticao svoj narod da čini isto.",
+    "Moji ljudi su se rugali mojim savjetima i optuživali me da sam ekstremist.",
+    "Kad su me ubili, Allah mi je rekao da uđem u Džennet, a ja sam želio da moj narod spozna oprost i čast koju sam primio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Čovjek iz najudaljenijeg dijela grada (Ya-Sin)",
+        "Jedan od trojice glasnika poslanih u grad",
+        "Ugledni trgovac grada",
+        "Vladar grada",
+        "Vođa nevjernika"
+      ],
+      "answer": "Čovjek iz najudaljenijeg dijela grada (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Propovijedajući svom narodu da slijedi glasnike",
+        "Gradnja broda za spašavanje vjernika od poplave",
+        "Biti bačen u vatru zbog vjere",
+        "Biti progutan od strane kita",
+        "Biti dano kraljevstvo i mudrost"
+      ],
+      "answer": "Propovijedajući svom narodu da slijedi glasnike"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Najudaljeniji dio grada",
+        "Kovčeg",
+        "Bunar",
+        "Gorući grm",
+        "Špilja"
+      ],
+      "answer": "Najudaljeniji dio grada"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ušao je u Raj i poželio da njegov narod spozna njegov oprost",
+        "Utopio se sa svojim ljudima zbog odbacivanja poruke",
+        "Bilo mu je dano čudo deve",
+        "Postao je vladar nakon suđenja",
+        "Spasio ga je Allah i ostao je sa svojim narodom"
+      ],
+      "answer": "Ušao je u Raj i poželio da njegov narod spozna njegov oprost"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

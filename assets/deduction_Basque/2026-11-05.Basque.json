@@ -1,0 +1,61 @@
+{
+  "title": "mendien melodia ilunabarrean",
+  "intro": "Entzun haranak laudorioz oihartzun egiten duten bitartean, Alaren zerbitzari hautatu baten ondoan. Melodiaz hornitutako ahotsa, ganberako eztabaidatzaileek eskatzen duten epaia eta jainkozko aginduz leundutako metala aurkikuntzaren zain daude. Zein gurtza eta gobernu justuaren irudik hitz egiten dute seinale hauen bidez?",
+  "clues": [
+    "Alak bedeinkatu ninduen oparotasunarekin eta laudoriozko ahots melodiko batekin.",
+    "Alak irakatsi zidan eztabaidan ari direnen arteko epaiketa bidezkoaren hizkuntza ulertzen.",
+    "Guduan gerlari erraldoi ahaltsu bati aurre egin nion eta Alaren nahiari esker nagusitu nintzen.",
+    "Jakinduria, autoritatea eta Alah-rengandik errebelatutako salmoen idatzi bat eman zizkidaten.",
+    "Mendiek eta txoriek bat egin zuten nirekin batera Ala goresteko arratsaldean eta egunsentian.",
+    "Ala-k irakatsi zidan niretzat bigun bihurtutako burdinaz armadura-kotak egiten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Dawud profeta (David)",
+        "Ismail (Ismael) profeta",
+        "Yahya (Joan) profeta",
+        "Dhul-Kifl",
+        "Al-Yasa (Eliseo) profeta"
+      ],
+      "answer": "Dawud profeta (David)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Jalut (Goliat) garaitu zuen guduan Alaren nahiari esker",
+        "Uholde handitik bizirauteko Arka eraiki zuen",
+        "Ala-k hoztutako sutara bota zuten",
+        "Itsasoko arrain handi batek irentsi zuen",
+        "Heriotza dastatu gabe zerura igo zen"
+      ],
+      "answer": "Jalut (Goliat) garaitu zuen guduan Alaren nahiari esker"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Mendiak eta hegaztiak Ala goraipatzen bat egiten dute",
+        "Suge bihurtu zen makila",
+        "Sua fresko eta baketsu bihurtu zen",
+        "Gamelu eme bat bidali zuten jendeari seinale gisa",
+        "Judi mendian dagoen zurezko kutxa bat"
+      ],
+      "answer": "Mendiak eta hegaztiak Ala goraipatzen bat egiten dute"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erregetza, jakinduria eta Zabur (Salmoak) eman zitzaizkion",
+        "Zahartzaroan seme bat eman zioten otoitz sutsu baten ondoren",
+        "Urte askotan segurtasuna eman diote kobazuloan",
+        "Zamzam iturburu bat eman zioten basamortuan",
+        "Armada itsasoan itota hil zela onartu da"
+      ],
+      "answer": "Erregetza, jakinduria eta Zabur (Salmoak) eman zitzaizkion"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

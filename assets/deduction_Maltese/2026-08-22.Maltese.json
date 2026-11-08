@@ -1,0 +1,61 @@
+{
+  "title": "Il-Belt Li Emmnet fiż-Żmien",
+  "intro": "Fl-annali tal-ħniena divina, hemm komunità li l-punt ta’ bidla tagħha kien mument ta’ realizzazzjoni kollettiva. Int se tiskopri l-istorja tagħhom—rakkont ta’ twissija, ndiema, u serħan li ddifferenzjahom mid-destin ta’ nazzjonijiet oħra.",
+  "clues": [
+    "Konna poplu li ntbagħatlu messaġġier, u għall-ewwel tlaqna s-sejħa tiegħu.",
+    "Meta s-sinjali tal-kastig imminenti saru ċari, irrealizzajna l-verità tat-twissija tiegħu.",
+    "Dorna lejn Sidna b’indiema sinċiera, u l-fidi tagħna ġiet aċċettata.",
+    "Il-kastig li kien ġie dekretat fuqna tneħħa minħabba t-twemmin tagħna.",
+    "L-istorja tagħna hija ċċitat bħala eċċezzjoni fost l-ibliet li emmnu wara li raw il-kastig.",
+    "Konna l-poplu tal-profeta li nbela’ mill-baliena, iżda ġejna salvati mill-qerda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Nies ta' Yunus",
+        "Nies ta' Nuh",
+        "Nies ta' Hud",
+        "Nies ta' Salih",
+        "Nies ta' Lut"
+      ],
+      "answer": "Nies ta' Yunus"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Għargħar devastanti",
+        "Tempesta qawwija ta’ riħ",
+        "Kastig imminenti ta’ diżgrazzja li ġie evitat",
+        "L-art tiblagħhom",
+        "Xita ta’ ġebel"
+      ],
+      "answer": "Kastig imminenti ta’ diżgrazzja li ġie evitat"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-arka",
+        "Il-ġemela",
+        "Belt ta’ mitt elf",
+        "L-istaff ta’ Musa",
+        "It-teżor ta' Qarun"
+      ],
+      "answer": "Belt ta’ mitt elf"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ġew meqruda għalkollox",
+        "Ingħataw pjaċir għal xi żmien",
+        "Huma ġew trasformati f'xadini",
+        "Huma għerqu",
+        "Inbelgħu mill-art"
+      ],
+      "answer": "Ingħataw pjaċir għal xi żmien"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

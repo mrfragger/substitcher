@@ -1,0 +1,61 @@
+{
+  "title": "Neauglīgās klints pārbaudījums",
+  "intro": "Prasmīga un lepna kopiena savu mantojumu iegravēja pašos kalnos. Taču, kad viņiem tika sūtīta skaidra zīme, ticības un atturības pārbaudījums, viņu augstprātība noveda viņus pa neatgriešanās ceļu. Vai varat identificēt šo grupu un viņu nepakļaušanās sekas?",
+  "clues": [
+    "Mēs bijām akmens meistari, kas greba krāšņas mājvietas tieši kalnu nogāzēs.",
+    "Pie mums atnāca vēstnesis no mūsu pašu tautas vidus, aicinot mūs pielūgt Vienīgo Patieso Dievu.",
+    "Mēs pieprasījām zīmi, kas apstiprinātu viņa vārdus, un kā pārbaudījums mums tika radīta unikāla radība.",
+    "Mums tika dota vienkārša pavēle: dalīties ar šo radību savā ūdens avotā, ļaujot tai dzert noteiktajā dienā.",
+    "Savā augstprātībā daži no mums sazvērējās, un mēs nepaklausījām brīdinājumam, nogalinot radību, kurai bija jābūt mūsu zīmei.",
+    "Mums tika dotas trīs dienas pirms mūsu bojāejas, un tad mūs mājās sagrāba spēcīgs sprādziens, atstājot mūs bez dzīvības un apgāztus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Reklāmas cilvēki",
+        "Madjanas iedzīvotāji",
+        "Tamudas iedzīvotāji",
+        "Sabas iedzīvotāji",
+        "Lutas iedzīvotāji"
+      ],
+      "answer": "Tamudas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Kāds bija mūsu galvenais pārbaudījums?",
+      "options": [
+        "Šķirsta būvēšana, lai pārdzīvotu plūdus",
+        "Pretošanās vēlmei makšķerēt sabatā",
+        "Atteikšanās no krāpnieciskas uzņēmējdarbības prakses",
+        "Aizsargājot brīnumaino kamieļmāti",
+        "Pārciest septiņus gadus ilgu badu"
+      ],
+      "answer": "Aizsargājot brīnumaino kamieļmāti"
+    },
+    "location": {
+      "label": "Kāds bija mūsu stāsta centrālais elements?",
+      "options": [
+        "Zelta teļš",
+        "Kamielis-mātīte",
+        "Pravieša Musas spieķis",
+        "Ma'ribas Lielais dambis",
+        "No debesīm klātais galds"
+      ],
+      "answer": "Kamielis-mātīte"
+    },
+    "outcome": {
+      "label": "Kāds bija mūsu galīgais liktenis?",
+      "options": [
+        "Noslīka lielā plūdos",
+        "Pārvērtās par pērtiķiem un cūkām",
+        "Pārņemts nikna vēja",
+        "Izkaisīti dambja plīšanas dēļ",
+        "Iznīcināts spēcīga sprādziena/zemestrīces rezultātā"
+      ],
+      "answer": "Iznīcināts spēcīga sprādziena/zemestrīces rezultātā"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

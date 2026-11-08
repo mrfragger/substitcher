@@ -1,0 +1,61 @@
+{
+  "title": "Glas pred nevihto",
+  "intro": "V puščavi se je dvignila postava, da bi pozvala mogočen narod nazaj k resnici. Ljudje so bili znani po svojih veličastnih zgradbah in neprekosljivi moči. Vendar jih je njihov ponos zaslepil in niso hoteli poslušati. Nazadnje jih je doletela uničujoča kazen, ki je prizanesla le majhno skupino vernikov.",
+  "clues": [
+    "Poslan sem bil k mogočnemu ljudstvu, ki je živelo na odprtih območjih in je bilo znano po svoji moči.",
+    "Moje ljudstvo je prišlo za drugim velikim narodom, ki je bil uničen.",
+    "Imeli so veličastne zgradbe in zgradili visoke stolpe.",
+    "Poklical sem jih, naj častijo enega Boga, vendar niso hoteli opustiti svojih malikov.",
+    "Doletela jih je kruta kazen, ki je prizanesla le tistim, ki so verjeli vame.",
+    "Jaz sem tisti, ki je bil poslan k mogočnemu ljudstvu, znanemu kot Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Hud",
+        "Prerok Salih",
+        "Prerok Šu'aib",
+        "Prerok Nuh",
+        "Prerok Ibrahim"
+      ],
+      "answer": "Prerok Hud"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Velika poplava",
+        "Rjoveč silovit veter",
+        "Potres in grozljiv krik",
+        "Dež gorečih kamnov",
+        "Nebeški ogenj od zgoraj"
+      ],
+      "answer": "Rjoveč silovit veter"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Velika barka, zgrajena na gori",
+        "Edinstvena kamela",
+        "Palica, ki se je spremenila v kačo",
+        "Visoke stavbe in vzvišene strukture",
+        "Plameneča grmada"
+      ],
+      "answer": "Visoke stavbe in vzvišene strukture"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vsi so se utopili v veliki poplavi",
+        "Moje ljudstvo je uničil silovit veter, mene pa so rešili",
+        "Moje ljudstvo je prizadel potres in joka",
+        "Moje ljudstvo je bilo obmetavano s kamenjem z neba",
+        "Moje ljudstvo vrženo v plameneči ogenj"
+      ],
+      "answer": "Moje ljudstvo je uničil silovit veter, mene pa so rešili"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

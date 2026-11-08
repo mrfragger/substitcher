@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakakahoretanga i waenganui i te Nuinga",
+  "intro": "Kei roto koe i tētahi iwi e haruru ana ā rātou mākete hokohoko i te hokohoko, engari he tinihanga ā rātou pauna. Kua tae mai tētahi karere ki a rātou me ngā whakatūpato mārama, engari ka kata rātou, ka tahuri ke atu, me te whakapono ki tō rātou rawa. Ka tīmata te pōuriuri o te rangi, engari e kite ana rātou he manaakitanga ua. Ko wai ēnei tāngata?",
+  "clues": [
+    "I tino whai rawa mātou i ngā whenua tauhokohoko me te nui o te taonga, heoi i pōuri haere ō mātou ngākau.",
+    "I tae mai tētahi karere ki a mātou me ngā tohu a tō mātou Ariki, heoi i tawai mātou ki āna whakatūpato.",
+    "I mōhiotia mātou mō tā mātou mahi hokohoko, engari i whakaiti mātou i te mehua, ā, i tinihanga i te iwi.",
+    "I noho mātou i waenganui i ngā rākau matotoru me ngā otaota matomato, engari i wareware noa mātou ki ō mātou manaakitanga.",
+    "I te taenga mai o te kapua pōuri, ka koa mātou, i te whakaaro ka ua te ua ki ō mātou whenua maroke.",
+    "Engari, i tukua mai e taua kapua he whiu werawera, a i hopukia mātou e te whakamamae o te rā o te atarangi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Āshab al-Aykah (Ngā Hoa o te Ngāhere)",
+        "Te iwi o Thamud",
+        "Ngā tāngata o 'Ad",
+        "Te iwi o Ruta",
+        "te iwi o Noa"
+      ],
+      "answer": "Āshab al-Aykah (Ngā Hoa o te Ngāhere)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakakahoretia e rātou tā rātou karere, ā, i tinihangatia te hokohoko",
+        "I karakia rātou ki te kuao kau koura, ā, i he te ara",
+        "I mahi rātou i te moepuku, ā, i whakaeke i ngā kaihaerere",
+        "I hanga e rātou ngā pourewa teitei, ā, i whakamātau i te Atua",
+        "I whakakahore rātou ki te tohatoha wai, ā, i whara i tētahi kāmera uha"
+      ],
+      "answer": "I whakakahoretia e rātou tā rātou karere, ā, i tinihangatia te hokohoko"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He ngahere matotoru, he puia rānei",
+        "He maunga i whakairohia hei whare noho",
+        "He tāone i te taha o te moana",
+        "He awaawa koraha me ngā puna wai",
+        "He māra momona, he maha ngā hua"
+      ],
+      "answer": "He ngahere matotoru, he puia rānei"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia e te kapua atarangi o te ahi",
+        "I toremitia e te waipuke nui",
+        "I horomia e te rū whenua",
+        "I pāngia e te hau kaha",
+        "I hurihia hei kōhatu"
+      ],
+      "answer": "I whakangaromia e te kapua atarangi o te ahi"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

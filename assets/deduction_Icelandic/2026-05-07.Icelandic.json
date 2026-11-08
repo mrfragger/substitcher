@@ -1,0 +1,61 @@
+{
+  "title": "Kallarinn úr djúpinu",
+  "intro": "Ímyndaðu þér sál sem hefur verið falið guðlegum boðskap, en samt sem áður yfirgaf hún fólk sitt í flýti án skýrs leyfis. Þessi ferð leiddi þá í óvenjulega raun, djúpa prófraun á þolinmæði og trausti á Hinn hæsta. Hver er þessi einstaklingur sem sagan kennir okkur um iðrun og víðáttu miskunnar Allahs?",
+  "clues": [
+    "Ég var sendur til mikillar þjóðar, en upphafleg höfnun þeirra olli mér angri.",
+    "Ég yfirgaf fólk mitt, í þeirri trú að verkefni mínu væri lokið, áður en ég fékk skýra skipun um að fara.",
+    "Ég leitaði fars á skipi, en hvasst óveður og hlutkesti leiddu til alvarlegrar stöðu.",
+    "Ég var kastað í hafið, og voldug djúpskepna gleypti mig allan.",
+    "Í myrkri kviðar þess kallaði ég til Allah, játaði misgjörðir mínar og bað hann um fyrirgefningu.",
+    "Allah skipaði verunni að varpa mér á ströndina og ég varð heill aftur undir einstakri plöntu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Jósef (Jósef)",
+        "Spámaðurinn Nói (Nói)",
+        "Spámaðurinn Júnus (Jónas)",
+        "Spámaðurinn Súlaiman (Salómon)",
+        "Spámaðurinn Ayyub (Job)"
+      ],
+      "answer": "Spámaðurinn Júnus (Jónas)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Klofingin í hafinu",
+        "Eldur Nimrods",
+        "Að vera gleyptur af stórum fiski",
+        "Flóðið",
+        "Eyðilegging borgarinnar með steinum"
+      ],
+      "answer": "Að vera gleyptur af stórum fiski"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Örkina",
+        "Starfsfólkið",
+        "Magi fisksins",
+        "Brunnurinn",
+        "Brennandi runninn"
+      ],
+      "answer": "Magi fisksins"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Varð mikill stjórnandi",
+        "Byggði Kaaba",
+        "Snéri aftur til að leiða iðrandi þjóð",
+        "Var gefið yfirráð yfir djinnum",
+        "Leiðdi fólk yfir eyðimörkina"
+      ],
+      "answer": "Snéri aftur til að leiða iðrandi þjóð"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Wuechter vum Gaart",
+  "intro": "An engem üppege Gaart huet eng Gemeinschaft e feierlecht Gelübd gemaach. Mä hir Entschlossenheet gouf op d'Prouf gestallt, wéi de göttleche Wëllen agegraff huet an hir Räichtum an e kaalt Land verwandelt huet.",
+  "clues": [
+    "Mir ware mat engem räiche Gaart geseent, awer mir sinn arrogant ginn.",
+    "Mir hunn e Plang gemaach fir ze ernten, ouni mat den Aarme ze deelen.",
+    "Mir sinn fréi moies lassgaangen, zouversiichtlech an eisem Plang.",
+    "Mä wéi mir ukomm sinn, hu mir festgestallt, datt eise Gaart iwwer Nuecht zerstéiert gi war.",
+    "Mir hunn eise Feeler erkannt a mir hunn ugefaangen, eis géigesäiteg d'Schold ze ginn.",
+    "Mir hunn endlech Reue gemaach, mee d'Lektioun gouf ze spéit geléiert."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "Leit vum Gaart",
+        "Leit vun der Höhl",
+        "D'Leit vum Elefant",
+        "Leit vun Thamud",
+        "Leit vun 'Ad"
+      ],
+      "answer": "Leit vum Gaart"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "E Gaart gouf zu Äsche",
+        "Eng Iwwerschwemmung, déi alles zerstéiert huet",
+        "Eng Hongersnout, déi d'Land getraff huet",
+        "Eng Arméi vu Vullen attackéiert",
+        "E staarke Wand, deen d'Beem entwurzelt huet"
+      ],
+      "answer": "E Gaart gouf zu Äsche"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Gaart",
+        "Eng Höhl",
+        "E Schëff",
+        "E Bierg",
+        "E Palais"
+      ],
+      "answer": "E Gaart"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si hunn Reue gehat, awer hire Gaart verluer",
+        "Si goufen komplett zerstéiert",
+        "Si goufen an Affen verwandelt",
+        "Si goufe gerett duerch de Glawen",
+        "Si sinn Herrscher ginn"
+      ],
+      "answer": "Si hunn Reue gehat, awer hire Gaart verluer"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

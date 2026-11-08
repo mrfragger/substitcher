@@ -1,0 +1,61 @@
+{
+  "title": "Te Atarangi i Muri i te Torona",
+  "intro": "Kei roto koe i ngā marae o tētahi kingitanga tawhito nui, i reira tētahi rangatira kaha kua kī ko ia te atua mō te iwi katoa. I te taha o tēnei rangatira e tū ana tētahi pononga pono, kua tukua ki a ia ngā wawata nui o te kingitanga. Ka mahi tahi rātou i ngā mahere, ka whakarōpū, ka whakakāhore i te whakarongo ki ngā whakatūpato a tētahi karere i tonoa hei ārahi i a rātou. Ka taea e koe te hura ko wai tēnei pononga pono?",
+  "clues": [
+    "I noho ahau i roto i tētahi kingitanga nui e whakahaerehia ana e tētahi tangata whai mana nui, ā, i kī ia ko ia te atua o te iwi katoa.",
+    "I mahi ahau hei minita pono mā tēnei rangatira, e whakatutuki ana i ā rātou wawata me ā rātou whakahau katoa.",
+    "I te taenga mai o te karere a Allah ki tō mātou whenua e karanga ana i a mātou ki te pono, kāore māua ko tōku rangatira i pai ki te whakarongo.",
+    "I whakahaua ahau kia tahuna he ahi nui, kia whakarite hoki i ngā pereki paru mō tētahi hanganga nui.",
+    "I hiahia taku rangatira ki te whakatū i tētahi whare tiketike rawa kia eke ki ngā rangi.",
+    "I te mutunga, ko taku rangatira, ko ā mātou ope taua, ko ahau anō hoki i kahakina atu, ā, i toremi ki te hohonutanga o te moana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Hāmana",
+        "Dhul-Kifli",
+        "Jibreel",
+        "Mikaira",
+        "Harut"
+      ],
+      "answer": "Hāmana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hanga i tētahi pourewa hei eke ki te rangi",
+        "Te maka ki roto i te ahi mura",
+        "Te whakaara i te iwi i te karakia ki ngā whakapakoko kōhatu",
+        "Te wehewehe i te marama hei tohu atua",
+        "Te wikitoria i tētahi tāone nui mā te whakahau a te Atua"
+      ],
+      "answer": "Te hanga i tētahi pourewa hei eke ki te rangi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He pourewa o ngā pereki uku tunua",
+        "Te puku o te tohorā",
+        "He puna tapu i te koraha",
+        "He rakau e mura ana i runga i te maunga tapu",
+        "He āaka e kawe ana i tētahi whānau whiriwhiri"
+      ],
+      "answer": "He pourewa o ngā pereki uku tunua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi ki te hohonutanga o te moana",
+        "Ka hikitia ki te haumaru i roto i te whare rangatira whakahīhī",
+        "I whakaorangia mai i te puku o te ika nui",
+        "I whakahonoretia ki te rangatiratanga me te whakaaro nui atua",
+        "I hurihia hei puehu e te tangi nui"
+      ],
+      "answer": "I toremi ki te hohonutanga o te moana"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

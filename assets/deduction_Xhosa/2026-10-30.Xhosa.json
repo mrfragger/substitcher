@@ -1,0 +1,61 @@
+{
+  "title": "Umlindo Wabafelweyo",
+  "intro": "Uza kudibana nomphefumlo ovavanywa kukwahlukana okukhulu, amehlo awo ayesazi ulwimi lweenyembezi kodwa intliziyo yawo ayizange ilahle ithemba. Kwibali lokukhohlisa, ulangazelelo, kunye nokudibana kwakhona ekugqibeleni, lo mkhonzi uhloniphekileyo ka-Allah waba luphawu lomonde ngonaphakade. Ngubani owanyamezela iminyaka yentlungu efihlakeleyo, kodwa waphinda wabona kwaye wavuya ngomzuzwana omnye?",
+  "clues": [
+    "Ndingumprofeti ogama lakhe laba luphawu lomonde xa ndijongene nokulahlekelwa okukhulu.",
+    "Ndabusiswa ngoonyana abaninzi, kodwa omnye wathathwa kum ngenxa yomona wabanye.",
+    "Uthando lwam ngalowo ulahlekileyo lwalunzulu kangangokuba amehlo am ajika aba mhlophe ngenxa yentlungu, kodwa andizange ndikhale ngaphandle kuka-Allah.",
+    "Ndithumele oonyana bam ukuba baye kukhangela lowo ndandimlahlekile kunye nomntakwabo, ndibabongoza ukuba bangalilahli ithemba.",
+    "Xa kufika umthwali weendaba ezilungileyo, ndagqunywa ngehempe ebusweni, kwaye ngequbuliso ihlabathi lacaca kwakhona.",
+    "Ndibizwa ngokuba ndinguSirayeli, kwaye koonyana bam abalishumi elinambini kwaphuma izizwe ezilishumi elinambini zesizwe esikhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uYa'qub (uYakobi)",
+        "Umprofeti uYusuf (uYosefu)",
+        "Umprofeti uIshaq (uIsake)",
+        "Umprofeti uIbrahim (uAbraham)",
+        "Umprofeti u-Ayyub (uYobhi)"
+      ],
+      "answer": "Umprofeti uYa'qub (uYakobi)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukwahlukana nonyana wam othandekayo kangangeminyaka emininzi",
+        "Ukuphoswa emlilweni ovuthayo",
+        "Iginywe yintlanzi enkulu",
+        "Uhlushwa sisifo esiqatha sesikhumba",
+        "Ukungabi nabantwana de kube mdala"
+      ],
+      "answer": "Ukwahlukana nonyana wam othandekayo kangangeminyaka emininzi"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ihempe kaYusuf",
+        "Abasebenzi bakaMusa",
+        "Ityeya kaNuh",
+        "Inkamela yenkamela kaSalih",
+        "Indandatho kaSulayman"
+      ],
+      "answer": "Ihempe kaYusuf"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukubona kwakhona kwabuya kwabonakala kwaye wadibana kwakhona nonyana wakhe",
+        "Inikwe uloyiso phezu kokumkani onesihluku",
+        "Uvuselwe ezulwini ephila",
+        "Umiselwe njengomlawuli eYiputa",
+        "Ukunikwa unyana ebudaleni njengommangaliso"
+      ],
+      "answer": "Ukubona kwakhona kwabuya kwabonakala kwaye wadibana kwakhona nonyana wakhe"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

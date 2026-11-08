@@ -1,0 +1,61 @@
+{
+  "title": "El eco a través de los acantilados",
+  "intro": "Imagina un valle donde las viviendas están excavadas en los acantilados, y el aire trae consigo el recuerdo de una advertencia ignorada. Un pueblo prosperó aquí, bendecido pero desafiante, hasta que una señal surgió de la misma roca en la que confiaban.",
+  "clues": [
+    "Éramos un pueblo que había construido hogares seguros en las montañas, sintiéndonos a salvo en nuestras viviendas rocosas.",
+    "Vivíamos en una tierra de llanuras y piedras, bendecida con jardines y manantiales.",
+    "Llegó un mensajero de entre nosotros, que nos llamaba a abandonar nuestros dioses falsos y a adorar al Único y verdadero Creador.",
+    "Con arrogancia, pusimos una condición para creer: una señal única que surgiría de las mismas rocas que esculpimos.",
+    "Cuando la camella prometida apareció de la roca, una señal inequívoca, nuestra élite se negó y la inmovilizó a pesar de la advertencia de una catástrofe inminente.",
+    "Tres días después de nuestra hazaña, un estruendo ensordecedor resonó por todo el valle, y quedamos reducidos a escombros, nuestras casas a nuestras tumbas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "La gente de ¿Ad",
+        "El pueblo de Thamud",
+        "El pueblo de Madyan",
+        "La gente del bosque",
+        "La gente de la cueva"
+      ],
+      "answer": "El pueblo de Thamud"
+    },
+    "trial": {
+      "label": "Nuestro evento de prueba/principal",
+      "options": [
+        "El amarre de la camella de Alá",
+        "El culto al becerro de oro",
+        "La violación del sábado",
+        "La construcción de una torre hacia el cielo",
+        "El asesinato de los profetas"
+      ],
+      "answer": "El amarre de la camella de Alá"
+    },
+    "location": {
+      "label": "Elemento clave en nuestra historia",
+      "options": [
+        "La camella de Alá",
+        "El personal de Musa",
+        "El arca de Noé",
+        "La mano blanca de Musa",
+        "El pájaro de ¿Isa?"
+      ],
+      "answer": "La camella de Alá"
+    },
+    "outcome": {
+      "label": "Nuestro resultado",
+      "options": [
+        "Destrucción por una explosión ensordecedora",
+        "Una lluvia de piedras del cielo",
+        "Un diluvio que cubrió la tierra",
+        "Un viento feroz que nos arrancó de raíz",
+        "La tierra nos está tragando"
+      ],
+      "answer": "Destrucción por una explosión ensordecedora"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

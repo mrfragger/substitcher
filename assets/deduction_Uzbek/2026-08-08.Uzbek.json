@@ -1,0 +1,61 @@
+{
+  "title": "Bo'rondan oldingi ovoz",
+  "intro": "Cho'lda bir shaxs qudratli xalqni haqiqatga qaytarish uchun ko'tarildi. Bu xalq o'zining ulug'vor binolari va mislsiz kuchi bilan mashhur edi. Shunga qaramay, ularning mag'rurligi ularni ko'r qilib qo'ydi va ular quloq solishdan bosh tortdilar. Oxir-oqibat, ularga dahshatli jazo keldi va faqat oz sonli imonlilar guruhini saqlab qoldi.",
+  "clues": [
+    "Meni ochiq yerlarda yashovchi va qudrati bilan mashhur bo'lgan qudratli bir xalq oldiga yuborishdi.",
+    "Mening xalqim vayron qilingan yana bir buyuk xalqning orqasidan keldi.",
+    "Ular ulug'vor inshootlarga ega edilar va baland minoralar qurdilar.",
+    "Men ularni yagona Xudoga ibodat qilishga chaqirdim, ammo ular o'z butlaridan voz kechishdan bosh tortdilar.",
+    "Ularni qattiq azob tutdi, faqat Men bilan birga iymon keltirganlarni saqlab qoldi.",
+    "Men Od deb nomlanuvchi qudratli qavmga yuborilgan zotman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Hud",
+        "Payg'ambar Solih",
+        "Payg'ambar Shu'ayb",
+        "Nuh payg'ambar",
+        "Ibrohim payg'ambar"
+      ],
+      "answer": "Payg'ambar Hud"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buyuk toshqin",
+        "Kuchli shamol esar",
+        "Zilzila va dahshatli qichqiriq",
+        "Yonayotgan toshlar yomg'iri",
+        "Yuqoridan kelgan samoviy olov"
+      ],
+      "answer": "Kuchli shamol esar"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tog'da qurilgan ulkan kema",
+        "Noyob urg'ochi tuya",
+        "Ilonga aylangan tayoq",
+        "Baland binolar va baland inshootlar",
+        "Yonayotgan olov"
+      ],
+      "answer": "Baland binolar va baland inshootlar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Hammasi katta suv toshqinida cho'kib ketdi",
+        "Xalqim shiddatli shamol bilan vayron bo'ldi, men esa qutqarildim",
+        "Mening xalqim zilziladan aziyat chekdi va yig'ladi",
+        "Mening xalqim osmondan toshlar bilan otilgan",
+        "Mening xalqim alangali olovga tashlandi"
+      ],
+      "answer": "Xalqim shiddatli shamol bilan vayron bo'ldi, men esa qutqarildim"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

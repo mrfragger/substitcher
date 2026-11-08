@@ -1,0 +1,61 @@
+{
+  "title": "A bölcsesség hangja az árnyékban",
+  "intro": "Egy ősi alak, aki mély meglátásairól ismert, évszázadokon át szól hozzád. Ez a személy soha nem állította magáról, hogy próféta, mégis isteni bölcsesség áradt a szavaiból. Egy szülő, aki örök útmutatást hagyott maga után, tanácsai milliók szívében őrződtek meg, a mai napig felidézik és elmélkednek rajtuk.",
+  "clues": [
+    "Kaptam egy isteni ajándékot, ami megkülönböztetett – egy olyan mély bölcsességet, ami a történelem során meghatározó tulajdonságommá vált.",
+    "Nem voltam sem hírvivő, sem angyal – csak egy lélek, akit mély megértés és a világba való betekintés áldott meg.",
+    "A legszorosabb kötelékem a gyermekemmel volt, és ezen a köteléken keresztül jutott el a legmaradandóbb üzenetem.",
+    "Hálára buzdítottam Annak, aki mindent adott nekem, és óva intettem a büszkeségtől és az arroganciától.",
+    "Arról tanítottam, hogy mekkora súlya van még egy mustármagnyi tettnek is, és hogy mennyire fontos alázatosan beszélni.",
+    "A Koránban egy fejezet a nevemet viseli, ahol szeretett fiamnak adott tanácsom örökkévalóságra megőrződik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Bölcs Lukman",
+        "Dhul-Kifl, az Elkötelezett",
+        "Khidr, a bölcs vándor",
+        "Harut, az angyal Bábelben",
+        "Marut, az angyal Bábelben"
+      ],
+      "answer": "Bölcs Lukman"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A türelem próbára tétele betegség által",
+        "Bölcsességet adni és tanácsot adni a gyermeknek",
+        "Nagy tűzbe vetve",
+        "Élve a mennyekbe emelkedve",
+        "Egy hatalmas hajó építése a pusztulás elkerülése érdekében"
+      ],
+      "answer": "Bölcsességet adni és tanácsot adni a gyermeknek"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy szent imaház",
+        "Egy bot, ami kígyóvá változott",
+        "Örök bölcsesség szavai a fiunkhoz intézett szavak",
+        "Egy csodálatos üvegtrón",
+        "Egy kert, amelyet romok gyötörnek"
+      ],
+      "answer": "Örök bölcsesség szavai a fiunkhoz intézett szavak"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Bölcsességet adott és hálát parancsolt Allahnak",
+        "Dzsinnek, emberek és szél uralkodója lett",
+        "Élve felvitték a mennyekbe",
+        "Elnyelte egy hatalmas bálna, és megújultan bukkant elő",
+        "Féltékeny testvérek kútba vetik"
+      ],
+      "answer": "Bölcsességet adott és hálát parancsolt Allahnak"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

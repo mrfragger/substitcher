@@ -1,0 +1,61 @@
+{
+  "title": "Vankumatud tunnistajad",
+  "intro": "Kujuta ette aega, mil usku proovile pandi tulega ja vankumatust veendumusest sai ülim vastupanu. Sinu ülesandeks on paljastada grupi identiteet, kelle lugu on jutustatud Koraanis – sügava usu loos ülekaaluka türannia vastu. Lahuta vihjeid, et teada saada, kes need hinged olid ja milliste erakordsete oludega nad silmitsi seisid.",
+  "clues": [
+    "Me jäime oma veendumustele kindlaks, hoolimata tohutust survest oma usust lahti öelda.",
+    "Meid sihtis võimas valitseja, kes püüdis monoteismi valgust kustutada.",
+    "Me olime tunnistajaks suurtele tunnustähtedele ja imedele, kuid meie rõhujad jäid hoolimatuks.",
+    "Me pidasime vastu jubedale tagakiusamismeetodile, mille eesmärk oli teisi terroriseerida ja alistuma sundida.",
+    "Meid heideti lõõmavasse põrgusse, kuid meie vankumatus teenis meile kõrge positsiooni Allahi ees.",
+    "Meie lugu on jutustatud taevaste tähtkujude järgi nimetatud suuras, mis hoiatab usklike tagakiusajate saatuse eest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Thamudi rahvas",
+        "'Ad'i inimesed",
+        "Kraavi rahvas",
+        "Midjani rahvas",
+        "Elevandi rahvas"
+      ],
+      "answer": "Kraavi rahvas"
+    },
+    "trial": {
+      "label": "Meie tagakiusamine",
+      "options": [
+        "Uppumine üleujutuses",
+        "Kõrvetava tuule käes neelatuna",
+        "Tulisse kaevikusse heidetud",
+        "Maa alla neelata",
+        "Ahvideks muutumine"
+      ],
+      "answer": "Tulisse kaevikusse heidetud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tohutu üleujutus",
+        "Suur maavärin",
+        "Sügav, põlev kaevik",
+        "Võimas iidol",
+        "Laastav põud"
+      ],
+      "answer": "Sügav, põlev kaevik"
+    },
+    "outcome": {
+      "label": "Meie ülim saatus",
+      "options": [
+        "Neile anti kuningriik maa peal.",
+        "Nad päästeti imelise pääsemise läbi.",
+        "Nad saavutasid märtrisurma ja igavese tasu.",
+        "Nad muundati teistsuguseks liigiks.",
+        "Neile anti tohutu rikkus ja õitseng."
+      ],
+      "answer": "Nad saavutasid märtrisurma ja igavese tasu."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

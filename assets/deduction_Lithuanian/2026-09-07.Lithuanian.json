@@ -1,0 +1,61 @@
+{
+  "title": "Draugas, kuris nusisuko",
+  "intro": "Jūs netrukus atskleisite sielos, gyvenusios pranašystės šešėlyje, bet pasirinkusios kelią, vedantį į pražūtį, istoriją. Ši asmenybė dalijosi namais su vienu iš Alacho išrinktųjų pasiuntinių, bet neišlaikė tikėjimo išbandymo. Kas yra šis pražuvęs draugas?",
+  "clues": [
+    "Gyvenau tarp žmonių, kurie atmetė pašaukimą į teisumą, ir aš jiems nesipriešinau.",
+    "Buvau ištekėjusi už Alacho pranašo, bet netikėjau juo.",
+    "Kai pasiuntiniai atėjo į mano namus su perspėjimu, aš jais nepatikėjau.",
+    "Mano sutuoktiniui buvo įsakyta palikti miestą su tikinčiaisiais, o aš nebuvau tarp jų.",
+    "Bausmė užgriuvo mano tautą, ir aš buvau sunaikintas kartu su jais.",
+    "Korane esu paminėtas kaip netikėjimo pavyzdys, kartu su Nuho žmona, Suroje At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašo Nuho žmona",
+        "Pranašo Luto žmona",
+        "Pranašo Ibrahimo žmona",
+        "Pranašo Musos žmona",
+        "Pranašo Ayyubo žmona"
+      ],
+      "answer": "Pranašo Luto žmona"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Išdavė savo vyrą netikėjimu",
+        "Atmetė pranašo Hudo žinią",
+        "Kaaboje atvirai garbino stabus",
+        "Suplanavo prieš savo vyro misiją",
+        "Atsisakė pripažinti sūnaus pranašystę"
+      ],
+      "answer": "Išdavė savo vyrą netikėjimu"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Sodomos miestas",
+        "Madjano miestas",
+        "Iramo miestas.",
+        "Babilono miestas",
+        "Jeruzalės miestas"
+      ],
+      "answer": "Sodomos miestas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Išgelbėta su vyru",
+        "Sunaikinta kartu su netikinčiaisiais",
+        "Ištremtas į tolimą šalį",
+        "Atgailavo ir buvo atleista",
+        "Vėliau tapo tikinčiuoju"
+      ],
+      "answer": "Sunaikinta kartu su netikinčiaisiais"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

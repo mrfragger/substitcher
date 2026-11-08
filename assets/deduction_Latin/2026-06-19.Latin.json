@@ -1,0 +1,61 @@
+{
+  "title": "Iudicium Animae Pertinacis",
+  "intro": "Anima stat in momento divinae probationis, quaerens consilium cum humili perseverantia. Qui omnia novit, hunc quaerentem avertit, solum ut postea revelet hanc fuisse cordis probationem. Per hoc arcanum colloquium, lectio de divina sapientia coram iis qui meditantur explicatur. Potesne hanc figuram ex narratione Coranica agnoscere?",
+  "clues": [
+    "Scientiam et ducatum a dilecto nuntio Dei quaesivi.",
+    "Veritatem quaerens veni, Prophetam serio desiderio invocans.",
+    "Increpatus sum et aversus sum, nam sapientia Dei alia consilia habebat in illo momento.",
+    "Attamen non desperavi—immo, in investigatione mea perseveravi",
+    "Qui omnia scit, hoc probationem cordis et admonitionem esse declaravit.",
+    "Inter eos fui de quibus Alcoranus haec dicit: \"Contraxit frontem et avertit se, quia venit ad eum caecus.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Hypocrita Dubitationem Quaerens",
+        "Caecus Veritatis Quaerens",
+        "Idolocultor Meccae",
+        "Infidelis Prophetam Deridens",
+        "Viator ex Iemen"
+      ],
+      "answer": "Caecus Veritatis Quaerens"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Increpatio a Propheta Mahometo inter precationem",
+        "Siccitate et fame Meccae tentati",
+        "Repulsus ad portas paradisi",
+        "A suis propter fidem reiectus",
+        "Divitiis et liberis tentatus"
+      ],
+      "answer": "Increpatio a Propheta Mahometo inter precationem"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Intra Kaaba tempore peregrinationis",
+        "In praesentia Prophetae inter recitationem",
+        "In cacumine montis Safa horis matutinis",
+        "In foro Meccae circumdatus infidelibus",
+        "Prope puteum Zamzam tempore Hajj"
+      ],
+      "answer": "In praesentia Prophetae inter recitationem"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Quaerens a Qurayshitis propter fidem martyrium affectus est.",
+        "Casus tamquam experimentum et lectio pro Amma relatus est.",
+        "Quaerens factus est comes et dux",
+        "Divitiae quaerentis decuplo multiplicatae sunt",
+        "Quaerens ad incredulitatem rediit"
+      ],
+      "answer": "Casus tamquam experimentum et lectio pro Amma relatus est."
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

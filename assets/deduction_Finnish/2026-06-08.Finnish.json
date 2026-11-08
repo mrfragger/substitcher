@@ -1,0 +1,61 @@
+{
+  "title": "Pyhäkön anoja",
+  "intro": "Yön hiljaisina tunteina omistautunut sielu huusi Armollisinta pyhän paikan pyhien muurien sisällä. Vuosien horjumaton usko ja kärsivällisyys palkittaisiin ihmeellä, joka toisi iloa ja profeetan perinnön.",
+  "clues": [
+    "Vietin päiväni ja yöni hartaasti pyhässä paikassa, jatkuvasti rukoillen Herraani.",
+    "Vanhenin ja vaimoni oli hedelmätön, mutta en koskaan menettänyt toivoani Allahin armoon.",
+    "Minulle annettiin poika nimeltä Yahya, josta tuli profeetta ja vanhurskauden majakka.",
+    "Olin itse profeetta, lähetetty opastamaan Israelin lapsia.",
+    "Olin profeetta Harunin jälkeläinen ja palvelin pappina temppelissä.",
+    "Minulle uskottiin Maryamin, Isan äidin, hoito, ja näin hänen ihmeitään."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Zakariyya",
+        "Profeetta Jahja",
+        "Profeetta Ilja",
+        "Profeetta Ishaq",
+        "Profeetta Ya'qub"
+      ],
+      "answer": "Profeetta Zakariyya"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Lahjoitti pojan vanhuudessa",
+        "Pelastettu liekehtivästä tulesta",
+        "Pelastettu kalan vatsasta",
+        "Selviytynyt suuresta tulvasta",
+        "Parantunut vakavasta sairaudesta"
+      ],
+      "answer": "Lahjoitti pojan vanhuudessa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Mihrab (rukouspaikka)",
+        "Kaaba",
+        "Palava pensas",
+        "Liitonarkki",
+        "Seitsemän nukkujan luola"
+      ],
+      "answer": "Mihrab (rukouspaikka)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Suotiin vanhurskas poika, josta tuli profeetta",
+        "Tuhoutui rajussa myrskyssä",
+        "Hukkui mereen",
+        "Säästyi palamiselta",
+        "Palasivat kansansa luo pelastettuaan kalan syöksystä"
+      ],
+      "answer": "Suotiin vanhurskas poika, josta tuli profeetta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

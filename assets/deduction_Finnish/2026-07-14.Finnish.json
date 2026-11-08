@@ -1,0 +1,61 @@
+{
+  "title": "Kaivannon sielut",
+  "intro": "Matkustat aikaan, jolloin armoton hallitsija vaati ehdotonta omistautumista väärille jumaluuksille. Pieni omistautuneiden sielujen yhteisö kieltäytyi ja kohtasi niin ankaran rangaistuksen, että siitä tuli ikuinen kirous. Heidän tarinansa kaikuu Koraanissa todisteena horjumattomasta uskosta. Tunnistatko tämän horjumattoman ryhmän?",
+  "clues": [
+    "Elimme maassa, jota hallitsi tyrannia, ja joka vaati väärien jumaluuksien palvontaa",
+    "Yhteisömme kohtasi ankaraa vainoa pelkästään siksi, että uskoimme yksin Allahiin",
+    "Hallitsija määräsi kaivettavan suuren ojan ja polttoaineeksi raivoisat liekit",
+    "Koska kieltäydyimme luopumasta uskostamme, meidät heitettiin yksi kerrallaan tuohon liekehtivään kuiluun",
+    "Tarinamme tuli osaksi Koraania, ja ne, jotka vainosivat meitä, olivat ikuisesti kirottuja",
+    "Suura, joka tallentaa koettelemuksemme, on nimetty taivaan suurten taivaanmerkkien mukaan"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Juoksuhaudan seuralaiset (Ashab al-Ukhdud)",
+        "Luolan ihmiset (Ashab al-Kahf)",
+        "Sapatin ihmiset",
+        "A'adin kansa",
+        "Thamudin kansa"
+      ],
+      "answer": "Juoksuhaudan seuralaiset (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Kokeilumme",
+      "options": [
+        "Poltetaan elävältä tulisessa kuopassa",
+        "Luolassa sulkeutuminen moniksi vuosiksi",
+        "Kalastusta pyhänä lepopäivänä",
+        "Ulvovan tuulen tuhoamana",
+        "Pyhän naaraskamelin tappaminen"
+      ],
+      "answer": "Poltetaan elävältä tulisessa kuopassa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Liekehtivä tulijuova",
+        "Salainen luola uskollisen koiran kanssa",
+        "Muinaisen tuhoon tuomitun kaupungin korkeat pilarit",
+        "Kivikallioihin louhitut vuoristoasunnot",
+        "Avoin tasanko, jota raivoisat tuulet pyyhkivät"
+      ],
+      "answer": "Liekehtivä tulijuova"
+    },
+    "outcome": {
+      "label": "Tuloksemme",
+      "options": [
+        "Meidät tapettiin marttyyrikuolemana ja vainoojat olivat ikuisesti kirottuja",
+        "Heräsimme 309 vuoden unen jälkeen",
+        "Meidät muutettiin apinoiksi rikkomuksemme tähden",
+        "Mahtava ulvontatuuli tuhosi meidät kaikki",
+        "Yksi tuhoisa itku särki olemassaolomme"
+      ],
+      "answer": "Meidät tapettiin marttyyrikuolemana ja vainoojat olivat ikuisesti kirottuja"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

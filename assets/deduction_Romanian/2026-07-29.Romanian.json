@@ -1,0 +1,61 @@
+{
+  "title": "Urmărirea curteană",
+  "intro": "Pe coridoarele puterii, o figură cu statut înalt s-a îndrăgostit de o servitoare a cărei frumusețe era de neuitat. Această pasiune a dus la o serie de evenimente care aveau să pună la încercare loialitatea, să dezvăluie adevăruri ascunse și, în cele din urmă, să confirme inocența servitorului.",
+  "clues": [
+    "Am locuit în țara Nilului, într-un palat cu mare influență.",
+    "Un tânăr a intrat în casa mea, iar prezența lui mi-a tulburat lumea.",
+    "Am încercat să-l seduc, dar el a căutat refugiu la Domnul său.",
+    "I-am rupt haina pe la spate, dar dovezile indicau înșelăciunea mea.",
+    "Ca să potolesc bârfele nobilelor, le-am invitat la o adunare și le-am pus în mâini obiecte ascuțite.",
+    "În cele din urmă, mi-am mărturisit public vina, recunoscând adevărul în fața regelui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Soția lui Al-Aziz",
+        "Asiya (Soția faraonului)",
+        "Bilqis (Regina din Saba)",
+        "Maryam (mama lui Isa)",
+        "Mama lui Musa"
+      ],
+      "answer": "Soția lui Al-Aziz"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ea a încercat să-l seducă pe profetul Yusuf",
+        "Ea a încercat să-l omoare pe profetul Moise",
+        "Ea a pretins că este o zeiță",
+        "Ea a construit un turn pentru a-l provoca pe Allah",
+        "Ea a condus o armată împotriva Meccii"
+      ],
+      "answer": "Ea a încercat să-l seducă pe profetul Yusuf"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O cămașă ruptă pe la spate",
+        "Un vițel de aur",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O cămilă",
+        "O lampă"
+      ],
+      "answer": "O cămașă ruptă pe la spate"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Ea a mărturisit și a recunoscut adevărul",
+        "S-a înecat împreună cu armata ei",
+        "S-a transformat într-un stâlp de sare",
+        "Ea a fost înghițită de pământ",
+        "A fost distrusă de un vânt urlător"
+      ],
+      "answer": "Ea a mărturisit și a recunoscut adevărul"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

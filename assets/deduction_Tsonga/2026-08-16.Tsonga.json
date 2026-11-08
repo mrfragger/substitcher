@@ -1,0 +1,61 @@
+{
+  "title": "Rito ro Miyela eKamareni",
+  "intro": "Xikhongelo xi twala eku rhuleni ka kamara ro kwetsima khale swinene, xi pfuka eka moya-xiviri lowu dyuhaleke lowu a wu navela leswi misava yi vuleke leswaku a swi koteki. Nhlayo leyi, leyi a yi ri karhi yi kula hi malembe naswona yi tikeriwe hi ku vilela hi vumundzuku, yi hundzukele eka Hosi ya vona hi xikombelo xa munhu hi xiyexe. Leswi landzeleke a ku ri nhlamulo ya Xikwembu leyi a yi tlula ku langutela kun’wana ni kun’wana ka ntumbuluko—ku nga vumbhoni bya tintswalo ta Loyi a hlamulaka xirhambo lexi heleriweke hi ntshembo.",
+  "clues": [
+    "Ndzi vitanile Hosi ya mina exihundleni, ndzi tlhelela endzhaku ekamareni laha ndzi tinyiketeleke eka vugandzeri bya Yena.",
+    "Ndzi pfumerile eka Hosi ya mina leswaku ndzi chava lava nga ta ta endzhaku ka mina, ndzi karhatekile hi nkongomiso wa vanhu va mina loko ndzi sukile.",
+    "Vudyuhari a byi ndzi fikelerile—marhambu ya mina a ma tsanile naswona misisi yo basa a yi hangalakile enhlokweni ya mina.",
+    "Nsati wa mina a a ve n’wana vutomi bya yena hinkwabyo, hambiswiritano a ndza ha kombela Hosi ya mina leswaku yi ndzi nyika mudyandzhaka eka vukona bya Yena n’wini.",
+    "Ndzi kombele xikombiso, kutani Hosi ya mina yi hlamurile hi ku ndzi sivela ku vulavula na munhu ku ringana vusiku byinharhu, kasi mina ndzi tshame ndzi hanye kahle emirini.",
+    "Ndzi tshembisiwile n’wana wa mufana loyi vito ra yena ri nga ta va Yahya, vito leri Hosi ya mina yi vuleke leswaku a ri nga si tshama ri nyikiwa munhu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Zakariya",
+        "Muprofeta Nuh",
+        "Muprofeta Musa",
+        "Muprofeta Yusuf",
+        "Muprofeta Dawud"
+      ],
+      "answer": "Muprofeta Zakariya"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku khongelela mudyandzhaka loko a dyuharile ni munghana wa vukati la nga riki na mbeleko",
+        "Ku lahleriwa endzilweni lowu pfurhaka",
+        "Ku mitiwa hi nhlampfi leyikulu emunyameni",
+        "Ku tiyisela ku lahlekeriwa hi ndyangu, rifuwo ni rihanyo",
+        "Ku lerisiwe ku aka ngalava leyikulu"
+      ],
+      "answer": "Ku khongelela mudyandzhaka loko a dyuharile ni munghana wa vukati la nga riki na mbeleko"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Kamara ra xikhongelo (mihrab) .",
+        "Nhonga leyi hundzukeke nyoka",
+        "Areka leyikulu ya mapulanga",
+        "Ntanga lowu nga ni xihlovo xo hlawuleka",
+        "Ntshava leyi swinyenyana a swi hlengeletana eka yona"
+      ],
+      "answer": "Kamara ra xikhongelo (mihrab) ."
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U nyikiwile n’wana wa mufana loyi a thyiweke vito ra singita hambileswi a dyuhaleke swinene",
+        "U ponisiwile eka ndzilo lowu pfurhaka hi xileriso xa Xikwembu",
+        "Ndhambi leyikulu yi lovise lava nga pfumeriki",
+        "Ku vuyiseriwa endyangwini, rifuwo ni rihanyo endzhaku ko lehisa mbilu",
+        "Faro ni vuthu rakwe va nwile elwandle"
+      ],
+      "answer": "U nyikiwile n’wana wa mufana loyi a thyiweke vito ra singita hambileswi a dyuhaleke swinene"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

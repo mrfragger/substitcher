@@ -1,0 +1,61 @@
+{
+  "title": "Suverenning oxiri ko'rinmagan qirollik",
+  "intro": "Tarix har xil hukmdorlarni bilgan, ammo bu kabi sohaga kamdan-kam odam hukmronlik qilgan. Shamolning o'zi ularning buyrug'iga bo'ysungan va hech bir inson ko'zi jimgina mehnat qilayotgan ishchilarni ko'ra olmagan joyda, bu hukmronlik avvalgi yoki keyingi hech kimga o'xshamas edi. Shunga qaramay, hatto eng ulug'vor shohliklar ham tugashi kerak edi - va bu shohlik tugagach, haqiqat shunchalik kamtarona manbadan paydo bo'ldiki, hech kim bunga shubha qilishni o'ylamagan edi.",
+  "clues": [
+    "Menga Rabbim tomonidan muqaddas sahifalarda tilga olingan ulkan saltanat berildi.",
+    "Men o'zimdan oldin sadoqat bilan yurgan ota-onamdan buyuk donolik va obro'-e'tiborni meros qilib oldim.",
+    "Men shamolga buyruq berdim, u esa mening maqsadlarim uchun uzoqqa uchib ketdi.",
+    "Oddiy ko'z bilan ko'rinmaydigan mavjudotlar mening vakolatim ostida mehnat qilib, tengsiz mo''jizalar yaratdilar.",
+    "Men uchun erigan mis buloqlari oqardi, bu Alloh tanlaganlar orasida noyob ne'mat edi.",
+    "Men bu dunyodan ketganimda, tanam tayoqqa suyanib turardi. Faqatgina yer yuzidagi kichik bir jonzot o'sha tayoqni yeb qo'yganida, atrofimdagilar mening o'lganimni angladilar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Sulaymon (Sulaymon)",
+        "Payg'ambar Dovud (alayhissalom)",
+        "Muso payg'ambar (Muso)",
+        "Yusuf payg'ambar (Yusuf)",
+        "Payg'ambar Iso (Iso)"
+      ],
+      "answer": "Payg'ambar Sulaymon (Sulaymon)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "O'limni tayoqchamni yeb turgan jonzot oshkor qildi",
+        "Xalqimni vayron qilgan buyuk to'fon",
+        "Yonayotgan olovga tashlanmoqda",
+        "Ikkiga bo'lingan dengiz orqali surgun",
+        "Eng sevimli o'g'limning qurbonligi"
+      ],
+      "answer": "O'limni tayoqchamni yeb turgan jonzot oshkor qildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Eritilgan mis buloqlari",
+        "Ahd sandig'i",
+        "Suvlarni ikkiga bo'ladigan tayoq",
+        "Yonayotgan buta",
+        "Oltin buzoq"
+      ],
+      "answer": "Eritilgan mis buloqlari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Jinlar tayoq yeb bo'lguncha ishlashda davom etishdi",
+        "Mening xalqim buyuk kemada qutqarildi",
+        "Zolim dengizda cho'kib ketdi",
+        "Kuchli bir xalq dahshatli shamol bilan vayron qilindi",
+        "Men tiriklayin osmonga ko'tarildim"
+      ],
+      "answer": "Jinlar tayoq yeb bo'lguncha ishlashda davom etishdi"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il segno tra le pietre",
+  "intro": "In una terra dove le montagne erano state scolpite in case, giunse un messaggero con un segno miracoloso da parte di Allah. Il popolo chiese una prova, e ricevette una creatura dalla roccia solida. Ma la loro arroganza li spinse a sfidare l'avvertimento, sigillando il loro destino.",
+  "clues": [
+    "Sono stato mandato presso un popolo che abitava in dimore scavate nella montagna.",
+    "Mi hanno sfidato a portare un cartello, così ho tirato fuori un cammello da una roccia.",
+    "Ho ordinato loro di lasciare che il cammello bevesse liberamente e di non fargli del male.",
+    "Hanno disobbedito e hanno legato il cammello, ignorando il mio avvertimento.",
+    "Ho annunciato che la punizione sarebbe arrivata dopo tre giorni.",
+    "Al mattino, una violenta esplosione li distrusse, ma io e i miei seguaci ci salvammo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Lutero",
+        "Profeta Shu'ayb",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Richiesta di una cammella da una roccia",
+        "Richiesta di un vitello dorato",
+        "Richiesta di una tavola imbandita dal cielo",
+        "Richiesta di un'alluvione",
+        "Richiesta di un membro dello staff per diventare un serpente"
+      ],
+      "answer": "Richiesta di una cammella da una roccia"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La cammella e il suo cucciolo",
+        "L'Arca di Noè",
+        "Il bastone di Mosè",
+        "Il vitello d'oro",
+        "Il fuoco di Abramo"
+      ],
+      "answer": "La cammella e il suo cucciolo"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Distrutto da una potente esplosione",
+        "Annegato nell'alluvione",
+        "Inghiottito dalla terra",
+        "Trasformati in scimmie",
+        "Distrutto da un vento impetuoso"
+      ],
+      "answer": "Distrutto da una potente esplosione"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

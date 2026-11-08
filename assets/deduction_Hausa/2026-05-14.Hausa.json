@@ -1,0 +1,61 @@
+{
+  "title": "Mai Rarraba Hikima Mara Dorewa",
+  "intro": "Mutum mai daraja, wanda aka san shi da zurfin fahimta da kuma shawarwari masu kyau, ya taɓa ba da shawara da ta wuce tsararraki. Kalmominsu, waɗanda aka rubuta a cikin littafi mai tsarki, suna shiryar da mutane zuwa ga godiya, haƙuri, da kuma ɗabi'a mai kyau.",
+  "clues": [
+    "An albarkace ni da hikima, ba annabci ba.",
+    "Na yi wa ɗana wasiyya kan mafi girman zunubai: haɗa Allah da wani.",
+    "Na koyar game da nauyin ayyuka, har ma da darajar ƙwayar mustard, da kuma yadda Allah zai fitar da ita.",
+    "Na jaddada godiya ga Allah da kuma iyayen mutum, ina kuma godiya ga wahalar da ake sha wajen renon yaro.",
+    "Shawarata ta haɗa da tsayar da sallah, umarni da alheri, hana mugunta, da kuma jure wa abin da ya same mutum cikin haƙuri.",
+    "An sanya wa wani babi a cikin Alqur'ani suna bayana, wanda ya ƙunshi koyarwara da darussan da na raba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Sulaiman",
+        "Annabi Dawuda",
+        "Annabi Yahaya",
+        "Luqman",
+        "Annabi Musa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Babban Jigo",
+      "options": [
+        "Gina Ka'aba",
+        "Raba teku",
+        "Ba da hikima",
+        "Tsira daga ambaliyar ruwa",
+        "Kifi ya haɗiye shi"
+      ],
+      "answer": "Ba da hikima"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Ma'aikatan",
+        "Dutsen Tur",
+        "Ɗansa",
+        "Ɗan Maraƙin Zinare"
+      ],
+      "answer": "Ɗansa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An halaka mutanensa",
+        "Hikimarsa ta zama jagora",
+        "An ba shi mulki",
+        "An ɗaga shi zuwa sama",
+        "An ba shi dukiya mai yawa"
+      ],
+      "answer": "Hikimarsa ta zama jagora"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yfirráð vinds og loga",
+  "intro": "Ímyndaðu þér ríki þar sem vindurinn sjálfur svaraði fyrir einum stjórnanda, þar sem raddir minnstu vera báru þunga og þar sem kraftar sem venjulegum augum voru ósýnilegir voru í vandlegri þjónustu. Þessi persóna erfði einstakt ríki frá ástkærum forvera sínum og beitti valdi yfir frumefnunum og djinnunum. En miklu valdi fylgdu miklar prófanir - og síðasta stund myndi leiða í ljós eitthvað ótrúlegt um eðli lífsins og dauðans sjálfs.",
+  "clues": [
+    "Ég erfði mikið ríki frá ástkærum foreldri sem var einnig spámaður og þjónn Allah.",
+    "Allah gaf mér vald yfir vindinum og sendi hann í mánaðarlangar ferðalög á einum morgni.",
+    "Jafnvel minnstu verur myndu tala um nálgun mína og ég myndi stoppa til að dást að meðvitund þeirra.",
+    "Ég stjórnaði miklum her djinna, manna og fugla, allir raðaðir í skipulegan röðum fyrir framan mig.",
+    "Fjarlægur stjórnandi kom til að reyna mig með erfiðri áskorun, og ég lét færa hásæti hans að hirð minni áður en gesturinn gat jafnvel risið úr sæti.",
+    "Ég stóð kyrr, studdist við staf, þar til lítil jarðvera nagaði hann í gegn — og þá fyrst gerðu þeir sem voru í kringum mig sér grein fyrir því að ég var farinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Súlíman (Salómon)",
+        "Spámaðurinn Dawud (Davíð)",
+        "Spámaðurinn Ísa (Jesús)",
+        "Múhameð spámaður ﷺ",
+        "Spámaðurinn Músa (Móse)"
+      ],
+      "answer": "Spámaðurinn Súlíman (Salómon)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að færa fjarlæga drottningu á hásæti með yfirnáttúrulegum hætti",
+        "Að vera sökktur niður í djúpan brunn sem barn",
+        "Að horfast í augu við töframenn harðstjóra með kraftaverkum",
+        "Að tala frá vöggu til að verja heiður móður sinnar",
+        "Að taka við loka opinberaðri ritningunni á helgu fjalli"
+      ],
+      "answer": "Að færa fjarlæga drottningu á hásæti með yfirnáttúrulegum hætti"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Tréstöng nagaði í gegn af termíti",
+        "Mikil örk smíðuð til að þola heimsvítt flóð",
+        "Stafur sem breyttist í höggorm frammi fyrir harðstjóra",
+        "Klæðisstykki notað til að lækna blinda",
+        "Helgur hellir þar sem opinberun var fyrst móttekin"
+      ],
+      "answer": "Tréstöng nagaði í gegn af termíti"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Göfugur heimsóknarstjórnandi tók trú eftir að hafa orðið vitni að táknum",
+        "Mikil flóð eyddi öllum nema hinum trúföstu á örkinni.",
+        "Faraó og her hans fórust í hafinu",
+        "Réttlátur félagi var hafinn upp til himins",
+        "Harðstjóri og borg hans voru steypt af stóli og eyðilögð."
+      ],
+      "answer": "Göfugur heimsóknarstjórnandi tók trú eftir að hafa orðið vitni að táknum"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

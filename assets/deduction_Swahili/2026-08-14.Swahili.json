@@ -1,0 +1,61 @@
+{
+  "title": "Mikono Iliyolaaniwa",
+  "intro": "Unasimama katika vichochoro vinavyopinda vya Makka ya kale, ambapo roho yenye ushawishi na utajiri iliwahi kuacha wito wa ukweli. Hadithi ya mtu huyu ni ukumbusho dhahiri kwamba vifungo vya damu haviwezi kushinda minyororo ya kiburi. Ni nani huyu ambaye jina lake linafanana na moto unaokusubiri?",
+  "clues": [
+    "Nilitembea mitaa ya Makka kwa fahari iliyonipofusha nisione ukweli, ingawa mjumbe alikuwa wa damu yangu mwenyewe.",
+    "Mali zangu zilikuwa nyingi, lakini zikawa laana badala ya ngao.",
+    "Kitabu cha mwongozo kinazungumzia uharibifu wangu, kikitangaza kwamba mikono yangu na nafsi yangu vitaangamia.",
+    "Mwenzi wangu alijiunga na kampeni yangu ya uadui, akikusanya miiba ili kueneza kwenye njia ya yule aliyemwita Mwenyezi Mungu.",
+    "Siku ya hukumu, nitatupwa kwenye moto wa moto unaowaka, na mwenzi wangu atakuwa na kamba ya mtende shingoni.",
+    "Ninajulikana kwa jina linalomaanisha 'baba wa moto' — jina linalotabiri makao yangu ya milele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Jaribio au Tukio Muhimu",
+      "options": [
+        "Alimpinga Mtume na kulaaniwa katika Quran",
+        "Aliongoza jeshi kuiangamiza Kaaba",
+        "Alijaribu kumuua Mtume kwa kurusha mawe",
+        "Alikataa kuamini katika kupasuka kwa mwezi",
+        "Kujenga mnara ili kufikia mbinguni"
+      ],
+      "answer": "Alimpinga Mtume na kulaaniwa katika Quran"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Moto mkali wa Jehanamu",
+        "Fimbo ya Musa",
+        "Sanduku la Nuhu",
+        "Kisima cha Zamzam",
+        "Ndama wa Dhahabu"
+      ],
+      "answer": "Moto mkali wa Jehanamu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Ataingia Motoni, na utajiri wake hautamfaa kitu.",
+        "Alitubu na kuwa mwamini",
+        "Alisamehewa baada ya kukana",
+        "Alikufa kama shahidi",
+        "Alichukuliwa juu mbinguni"
+      ],
+      "answer": "Ataingia Motoni, na utajiri wake hautamfaa kitu."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

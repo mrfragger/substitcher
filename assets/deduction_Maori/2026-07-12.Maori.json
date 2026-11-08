@@ -1,0 +1,61 @@
+{
+  "title": "Te Tāone Ngaro o te Rangatiratanga Kore e Taurite",
+  "intro": "I mua, i te ao whānui, i rongonuihia tētahi iwi nui mō ōna hanganga teitei e toro atu ana ki te rangi. Heoi, i raro i tēnei rangatiratanga, ka tipu ake tētahi whakahē pakari - he whakahē ki te whakarongo ki te kaiwhakatūpato atua i tukuna mai i roto i te hapori tonu. Ka puta wawe mai i te whakapehapeha me te whakahihi he whiu kāore i kitea e te whenua, e te rangi rānei.",
+  "clues": [
+    "I noho rangatira tātou i runga i te whenua whānui i mua, i whakamanamana ki te kaha i whakapono tātou kāore e taea e tētahi atu iwi te rite.",
+    "I rongonui tō mātou kingitanga mō ngā hanganga teitei me ngā pou nunui i tū motuhake puta noa i ngā whenua katoa e mōhiotia ana.",
+    "I whakatika mai tētahi kaiwhakatūpato nō tō tātou ake hapori, e akiaki ana i a tātou katoa kia ngohengohe ki te Kaihanga Kotahi anake.",
+    "I whakakahoretia e mātou te karere i tukuna mai ki a mātou, ā, i whakakahore ki te whakarērea te ara i riro mai i a mātou.",
+    "I tukua mai he hau riri nui, he hau nui whakaharahara ki a mātou, ā, kāore he ārai mō mātou.",
+    "I mahue iho mātou, ano he pūtake nikau kua pokaia, i marara noa atu, kua warewaretia, hei akoranga mā ngā whakatupuranga katoa i muri mai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te iwi o Āta",
+        "te iwi o Noa",
+        "Te iwi o Ruta",
+        "Ngā tāngata o Madyan",
+        "Ngā tāngata o Tubba'"
+      ],
+      "answer": "Te iwi o Āta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "He hau kaha e kore e mutu te whiu nui",
+        "He waipuke i taupokina ngā tihi maunga katoa",
+        "He ua o ngā kōhatu uku e mura ana i runga",
+        "Kotahi te hamama whakamataku mai i te rangi",
+        "He rū whenua nui i wehewehe i te whenua"
+      ],
+      "answer": "He hau kaha e kore e mutu te whiu nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Irama, te tāone o ngā pou teitei",
+        "He āka rakau nui i hangaia ki runga i te maunga",
+        "He kamera uha i puta mai i te kohatu i roto i te ahua whakamiharo",
+        "Maunga Hinai te wāhi i heke iho ai ngā ture a te Atua",
+        "He whare kingi o te karaihe me te karāhe pai e titiro atu ana ki ngā wai rere"
+      ],
+      "answer": "Irama, te tāone o ngā pou teitei"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I mahue pērā i ngā pūtake nikau kua pokaia, kua marara, kua kore he ora",
+        "I toremi i raro i ngā ngaru nui o te waipuke nui",
+        "Kua hurihia hei mea hanga e rite ana ki ngā makimaki me ngā poaka",
+        "I pakaru i raro i te ua o ngā kōhatu uku kua whakapakeketia",
+        "I pau i roto i te tangi kotahi i werohia ai te wairua"
+      ],
+      "answer": "I mahue pērā i ngā pūtake nikau kua pokaia, kua marara, kua kore he ora"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

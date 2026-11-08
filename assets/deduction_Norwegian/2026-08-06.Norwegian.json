@@ -1,0 +1,61 @@
+{
+  "title": "Den årvåkne sjelen ved elvebredden",
+  "intro": "En ung sjel ble betrodd et hemmelig oppdrag, å observere på trygg avstand mens skjebnen utspilte seg på vannet. Usett og uantatt skulle denne skikkelsen spille en sentral rolle i å endre en nasjons historie.",
+  "clues": [
+    "Jeg fikk en oppgave av moren min, en som krevde sniking og årvåkenhet.",
+    "Blikket mitt fulgte en liten vugge som drev langs strømmen, hjertet mitt tungt av bekymring.",
+    "Da den ble funnet av et uventet følge, kom jeg nærmere, full av beven.",
+    "Jeg så deres desperasjon etter en vaktmester og tilbød en løsning uten å avsløre sannheten.",
+    "Min betimelige inngripen brakte en sykepleiersjel tilbake til den som trengte den mest.",
+    "I de mektiges hoff sa jeg: «Skal jeg henvise deg til en familie som vil gi ham næring og ta vare på ham?»"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Musas søster",
+        "Moren til Musa",
+        "Faraos kone",
+        "En jordmor",
+        "Shu'aibs datter"
+      ],
+      "answer": "Musas søster"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Å kaste et barn i elven",
+        "Havets deling",
+        "Brenningen av kalven",
+        "Byggingen av arken",
+        "Gresshoppeplagen"
+      ],
+      "answer": "Å kaste et barn i elven"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Elven",
+        "Ørkenen",
+        "Fjellet",
+        "Palasset",
+        "Brannen"
+      ],
+      "answer": "Elven"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Hun gjenforente barnet med moren sin",
+        "Hun reddet seg fra faraos soldater",
+        "Hun ble dronning",
+        "Hun ble straffet for å ha spionert",
+        "Hun ledet israelittene"
+      ],
+      "answer": "Hun gjenforente barnet med moren sin"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

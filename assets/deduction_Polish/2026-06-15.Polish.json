@@ -1,0 +1,61 @@
+{
+  "title": "Dominium Wiatru i Płomienia",
+  "intro": "Wyobraź sobie królestwo, gdzie sam wiatr odpowiadał jednemu władcy, gdzie głosy najmniejszych stworzeń miały znaczenie, a siły niewidoczne dla zwykłych oczu były pieczołowicie podporządkowane. Ta postać odziedziczyła niezwykłe królestwo po ukochanym poprzedniku, sprawując władzę nad żywiołami i dżinami. Ale wielka władza wiązała się z wielkimi próbami – a ostateczna chwila miała ujawnić coś zdumiewającego w naturze życia i śmierci.",
+  "clues": [
+    "Odziedziczyłem wspaniałe królestwo po ukochanym rodzicu, który był również prorokiem i sługą Allaha.",
+    "Bóg dał mi władzę nad wiatrem, wysyłając go w ciągu jednego poranka na wyprawę trwającą miesiąc.",
+    "Nawet najmniejsze stworzenia mówiły o moim przybyciu, a ja zatrzymywałem się, by podziwiać ich świadomość.",
+    "Dowodziłem wielką armią dżinów, ludzi i ptaków, wszyscy ustawieni przede mną w uporządkowanych szeregach.",
+    "Przybył do mnie daleki władca, aby wystawić mnie na ciężką próbę, i kazałem przyprowadzić tron ​​tego władcy na mój dwór, zanim jeszcze gość zdążył wstać z siedzenia.",
+    "Pozostałem stojący, opierając się na lasce, dopóki mały ziemski stworek jej nie przegryzł — i dopiero wtedy otaczający mnie ludzie zdali sobie sprawę, że odszedłem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Sulayman (Salomon)",
+        "Prorok Dawud (Dawid)",
+        "Prorok Isa (Jezus)",
+        "Prorok Mahomet ﷺ",
+        "Prorok Musa (Mojżesz)"
+      ],
+      "answer": "Prorok Sulayman (Salomon)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Przyniesienie tronu odległej królowej za pomocą nadprzyrodzonych środków",
+        "Bycie zanurzonym w głębokiej studni jako dziecko",
+        "Konfrontacja magów tyrana z cudownymi znakami",
+        "Mówienie od kołyski w obronie honoru matki",
+        "Otrzymanie ostatniego objawionego fragmentu Pisma Świętego na świętej górze"
+      ],
+      "answer": "Przyniesienie tronu odległej królowej za pomocą nadprzyrodzonych środków"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Drewniany kij nadgryziony przez termita",
+        "Wielka arka zbudowana, aby przetrwać ogólnoświatowy potop",
+        "Laska, która przed tyranem przemieniła się w węża",
+        "Kawałek materiału używany do uzdrawiania niewidomych",
+        "Święta jaskinia, w której po raz pierwszy nastąpiło objawienie"
+      ],
+      "answer": "Drewniany kij nadgryziony przez termita"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Szlachetny władca, który odwiedził kraj, przyjął wiarę po zobaczeniu znaków",
+        "Wielka powódź zniszczyła wszystkich oprócz wiernych na arce",
+        "Faraon i jego armia zginęli w morzu",
+        "Sprawiedliwy towarzysz został uniesiony do nieba",
+        "Tyran-król i jego miasto zostali obaleni i zniszczeni"
+      ],
+      "answer": "Szlachetny władca, który odwiedził kraj, przyjął wiarę po zobaczeniu znaków"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

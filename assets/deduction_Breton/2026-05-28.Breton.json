@@ -1,0 +1,61 @@
+{
+  "title": "An hini klañv dic'hortoz",
+  "intro": "E-barzh istor ar brofeded, nebeut a dud o deus gouzañvet ur c'holl ken bras hag ur boan korfel gant ur feiz dic'hortoz. Ur gentel diamzeret war ar pasianted hag ar fiziañs er furnez doueel eo istor an dudenn-mañ. Piv eo an ene-se ?",
+  "clues": [
+    "Dibabet on bet gant Allah evit kas ur gemennadenn, met ma test brasañ n'eo ket deuet dre nac'hadenn, met dre gwallzarvoud personel.",
+    "Va madoù, va loened ha va bugale a voe lamet diganin, an eil war-lerc'h egile.",
+    "Goloet e oa ma c'horf gant goulioù, ha chomet on va-unan nemet gant skoazell va pried.",
+    "Kriet em eus ouzh va Aotrou, o anavezout ma poanioù hag o klask e drugarez.",
+    "Gourc'hemennet e voe din skeiñ war an douar gant ma zroad, hag ur feunteun fresk a zeuas er-maez.",
+    "Allah a adlakaas ma yec'hed hag a roas din ur familh nevez ha muioc'h a binvidigezh c'hoazh eget am boa a-raok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Ayyub",
+        "Ar profed Ibrahim",
+        "Ar profed Musa",
+        "Ar profed Isa",
+        "Profed Nuh"
+      ],
+      "answer": "Ar profed Ayyub"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Koll pinvidigezh ha familh",
+        "Bezañ taolet en tan",
+        "Bezañ lonket gant ur pesk",
+        "Bezañ dispartiet diouzh ar familh ha gwerzhet e sklaverezh",
+        "Bezañ amprouet gant ul leue aour"
+      ],
+      "answer": "Koll pinvidigezh ha familh"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Eur feunteun dour",
+        "Ur vazh hag a zo deuet da vezañ un naer",
+        "Un arc'h koad",
+        "Ul leue teuzet",
+        "Ur wezenn palmez"
+      ],
+      "answer": "Eur feunteun dour"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Adsevel ar familh hag ar pinvidigezh |",
+        "Pignad d'an neñv",
+        "Dont da vezañ roue",
+        "Bezañ saveteet diouzh ur balum",
+        "O resev ur mab en e gozhni"
+      ],
+      "answer": "Adsevel ar familh hag ar pinvidigezh |"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Krzyk z głębin",
+  "intro": "Sługa Najmiłosierniejszego znużył się uporem narodu i odszedł, zanim otrzymał pozwolenie. Znalazł się w miejscu, w którym nigdy nie był żaden człowiek, gdzie wezwanie do Boskości rozbrzmiewa dziwnie echem przez warstwy ciemności. Wyłaniając się osłabiona, lecz przemieniona, dusza ta stała się ponadczasową lekcją cierpliwości, szczerej skruchy i bezgranicznego miłosierdzia Stwórcy. Czy potrafisz rozwikłać tę tajemnicę?",
+  "clues": [
+    "Zostałem wysłany jako posłaniec do mojego ludu, ale oni przekroczyli wszelkie granice w swojej niewierze i nie chcieli słuchać.",
+    "Rozgniewałem się z powodu ich odrzucenia i uciekłem od swego ludu, zanim nadszedł rozkaz Allaha.",
+    "Wszedłem na pokład statku załadowanego po brzegi i ciągnęliśmy losy, żeby ustalić, kto zostanie wyrzucony za burtę.",
+    "Zostałem wrzucony do wzburzonego morza i połknięty przez wielką rybę.",
+    "Uwięziony w trzech warstwach ciemności – brzuchu, głębinach morskich i ziemi pod spodem – wzywałem mego Pana w szczerym żalu.",
+    "Wyszedłem z ryby na otwarty brzeg, słaby i zmęczony, a nade mną wyrosła tykwa. Mój lud, sto tysięcy albo i więcej, w końcu uwierzył."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Yunus",
+        "Prorok Ajjub",
+        "Prorok Yusuf",
+        "Prorok Musa",
+        "Prorok Sulaiman"
+      ],
+      "answer": "Prorok Yunus"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Połknięty przez wielką rybę",
+        "Wrzucony w płonący ogień",
+        "Uwięziony na dnie studni",
+        "Zalany wielką powodzią",
+        "Niesłusznie uwięziony przez króla"
+      ],
+      "answer": "Połknięty przez wielką rybę"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Brzuch wielkiej ryby",
+        "Święta dolina w pobliżu Kaaby",
+        "Arka spoczywająca na górze",
+        "Laska, która zamieniła się w węża",
+        "Tron o niezrównanej okazałości"
+      ],
+      "answer": "Brzuch wielkiej ryby"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Jego ludzie, liczący sto tysięcy lub więcej osób, uwierzyli",
+        "Podniesiony żywy do niebios",
+        "Został władcą niezrównanego królestwa",
+        "Zniszczony przenikliwym krzykiem z nieba",
+        "Wywrócony przez niszczycielskie trzęsienie ziemi"
+      ],
+      "answer": "Jego ludzie, liczący sto tysięcy lub więcej osób, uwierzyli"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Testes Firmi",
+  "intro": "Finge tempus quo fides igne probata est, et inconcussa persuasio summa rebellio facta est. Tibi mandatum est identitatem coetus detegere cuius historia in Alcorano narratur, narratione fidei profundae contra tyrannidem opprimentem. Indicia detege ut invenias qui hae animae fuerint, et circumstantias extraordinarias quas expertae sunt.",
+  "clues": [
+    "Firmi in convictione nostra permansimus, ingenti pressione ad fidem nostram abnegandam non obstante.",
+    "A principe potenti qui lucem monotheismi extinguere conabatur, petiti sumus.",
+    "Magna signa et miracula vidimus, tamen oppressores nostri incauti manebant.",
+    "Methodum persecutionis horrendam ad alios terrorem ad deditionem cogendos destinatam passi sumus.",
+    "In infernum ardentem proiecti sumus, tamen constantia nostra nobis locum excelsum apud Allah peperit.",
+    "Historia nostra narratur in Sura nominata secundum constellationes caelestes, quae de fato eorum qui credentes persequuntur monit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Populus Thamud",
+        "Populus 'Ad",
+        "Populus Fossae",
+        "Populus Madian",
+        "Populus Elephantis"
+      ],
+      "answer": "Populus Fossae"
+    },
+    "trial": {
+      "label": "Persecutio Nostra",
+      "options": [
+        "In diluvio submersus",
+        "Vento ardenti consumpti",
+        "In fossam igneam coniectus",
+        "A terra absorberi",
+        "In simias transformari"
+      ],
+      "answer": "In fossam igneam coniectus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ingens diluvium",
+        "Magnus terrae motus",
+        "Fossa profunda et ardens",
+        "Idolum potens",
+        "Siccitas vastans"
+      ],
+      "answer": "Fossa profunda et ardens"
+    },
+    "outcome": {
+      "label": "Fatum Nostrum Ultimum",
+      "options": [
+        "Regnum in terra eis concessum est.",
+        "Mirabili fuga servati sunt.",
+        "Martyrium et aeternum praemium adepti sunt.",
+        "In aliam speciem transformati sunt.",
+        "Ingentes divitiae et prosperitas eis datae sunt."
+      ],
+      "answer": "Martyrium et aeternum praemium adepti sunt."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

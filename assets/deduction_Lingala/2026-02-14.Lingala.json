@@ -1,0 +1,61 @@
+{
+  "title": "Motongi ya Bipekiseli",
+  "intro": "Na mikili minene, moto moko ya nguya abandaki mibembo ndenge na ndenge, apesaki ye bokonzi mpe biloko mingi mpenza. Molimo oyo ekutanaki na masanga ndenge na ndenge mpe ekutanaki na mikakatano oyo ekeseni na mosusu, kotikaka elembo ya koumela na lisolo mpe bondimi na nzela ya misala mpe mayele na bango, nyonso wana kondimaka liziba ya solo ya makasi na bango.",
+  "clues": [
+    "Bapesaki ngai nguya mpe mayele likoló na makambo nyonso, mpe nalandaki nzela moko.",
+    "Mobembo na ngai ememaki ngai na esika moi ezalaki kolala, epai nazwaki bato moko.",
+    "Nakutanaki na lisangá moko oyo bakokaki mpenza te kokanga ntina ya maloba, bazalaki kofanda na katikati ya bangomba mibale.",
+    "Basɛngaki ngai natonga epekiseli, mpo na matomba na ngai moko te, kasi mpo na kobatela na nguya moko ya kobebisa.",
+    "Nasakolaki ete makasi ya kotonga efelo monene oyo ewutaki na Allah, mpe ekotelema kino ntango oyo elakamaki.",
+    "Nkombo na ngai, oyo mbala mingi ebongolami lokola ‘Moto ya maseke mibale,’ elakisi ndenge nakómaki na mokili mobimba to mbala mosusu bileko mibale ekeseni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Musa",
+        "Mosakoli Sulayman",
+        "Dhul-Qarnayn azali moto ya mayele",
+        "Farao",
+        "Luqman, azali moto ya mayele"
+      ],
+      "answer": "Dhul-Qarnayn azali moto ya mayele"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kozwa emoniseli",
+        "Kokutana na moto moko ya mobulu",
+        "Kotonga masuwa moko monene",
+        "Kotonga epekiseli moko ya nguya",
+        "Komelama na mbisi"
+      ],
+      "answer": "Kotonga epekiseli moko ya nguya"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku",
+        "Bato ya mosala",
+        "Barrière ya ebende",
+        "Ebale Nil",
+        "Kiti ya Bokonzi"
+      ],
+      "answer": "Barrière ya ebende"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Lobiko na mpela",
+        "Kokoma bokonzi monene",
+        "Bobateli mpo na bato moko",
+        "Kobebisa moto oyo azali konyokola bato",
+        "Mayele oyo ekoumela"
+      ],
+      "answer": "Bobateli mpo na bato moko"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

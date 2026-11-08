@@ -1,0 +1,61 @@
+{
+  "title": "A Gran Submisión do Soberano",
+  "intro": "Atópaste nunha terra de marabillas antigas e profundas revelacións. Unha poderosa gobernante, ante unha invitación inesperada, embarcouse nunha viaxe que cambiaría o curso do seu destino e a fe do seu pobo. Poderás descubrir a identidade desta maxestosa figura?",
+  "clues": [
+    "Gobernaba sobre un reino próspero, adornado con inmensas riquezas e un trono magnífico.",
+    "A miña xente e eu adorabamos un corpo celeste, crendo que era o noso señor, aínda que eu albergaba dúbidas no meu corazón.",
+    "Un mensaxeiro peculiar, un paxaro, entregoume unha carta, chamándome a min e ao meu pobo á submisión ao Deus Único.",
+    "Consultei cos meus conselleiros, que eran moi fortes, sobre como responder a esta mensaxe sen precedentes.",
+    "Decidín enviarlle un agasallo valioso a quen enviou a carta, coa esperanza de avaliar o seu poder e as súas intencións.",
+    "Á miña chegada, quedei abraiado por un palacio cun chan de cristal, que parecía unha poza de auga, e foi entón cando declarei a miña submisión ao Señor de toda a creación."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Faraón",
+        "Raíña de Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Profeta Yusuf"
+      ],
+      "answer": "Raíña de Saba"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A división do mar",
+        "A gran inundación",
+        "A viaxe para coñecer ao profeta Sulayman",
+        "A destrución do pobo de Lut",
+        "A queima do profeta Ibrahim"
+      ],
+      "answer": "A viaxe para coñecer ao profeta Sulayman"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Arca",
+        "O persoal",
+        "O Trono",
+        "A montaña",
+        "O lume"
+      ],
+      "answer": "O Trono"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Converteuse en profeta",
+        "Foi destruído por Alá",
+        "Abrazou o Islam",
+        "Levou o seu pobo á guerra",
+        "Construíu un gran templo"
+      ],
+      "answer": "Abrazou o Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

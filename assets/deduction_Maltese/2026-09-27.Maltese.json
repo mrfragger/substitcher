@@ -1,0 +1,61 @@
+{
+  "title": "Il-Ġnien li Għeb matul il-Lejl",
+  "intro": "Immaġina ġnien ħadra, mgħobbi bil-frott li qed jimmatura u mdawwar b’siġar għoljin. Dawk li kienu jieħdu ħsiebu ħasbu li huma intelliġenti, jippjanaw il-ħsad tagħhom fis-sigħat kwieti ta’ qabel is-sebħ, ’il bogħod minn għajnejn dawk fil-bżonn. Imma Dak li qatt ma jorqod kellu pjanijiet oħra għall-ġid moħbi tagħhom. Tista’ taħseb min hu wara din l-istorja ta’ twissija mill-Koran?",
+  "clues": [
+    "Darba kellna ġnien tant lush u abbundanti li sar l-għira ta’ kull min kien jgħaddi minn ħdejja.",
+    "Fl-ippjanar tagħna, tkellimna ma' xulxin kmieni filgħodu, u ddikjarajna li l-ebda ruħ fil-bżonn ma kienet se titħalla tidħol dakinhar.",
+    "Konna nies sinjuri, u qlubna kienu għomjaw għad-drittijiet tal-foqra ta’ madwarna.",
+    "Meta wasal is-sebħ tal-ħsad li ppjanajna, ersaqna lejn il-ġnien tagħna biss biex sibnieh mibdul f'ħerba sewda matul il-lejl.",
+    "Digriet devastanti nfirex, u ma ħalla xejn ħlief irmied fejn darba kienu mdendlin gruppi ta’ frott misjur.",
+    "Ir-rakkont tagħna huwa twissija ħarxa mniżżla fil-Koran, fejn aħna magħrufa bħala s-sidien tal-ġnien li żammejna lura l-karità mill-foqra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Is-Sidien tal-Ġnien",
+        "In-Nies tal-Għar",
+        "Id-Dixxipli ta’ Isa",
+        "Il-Kumpanji tal-Injam",
+        "Il-Mistiedna ta' Ibrahim"
+      ],
+      "answer": "Is-Sidien tal-Ġnien"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Jaħsdu l-frott bil-moħbi u jipprojbixxu l-foqra",
+        "Irqad għal sekli sħaħ ġewwa għar",
+        "Jirrifjuta li jipproduċi ġemela mill-ġebel",
+        "Jaduraw għoġol tad-deheb fuq il-Muntanja Sinaj",
+        "Il-bini ta’ arka kbira biex jaħrab minn għargħar"
+      ],
+      "answer": "Jaħsdu l-frott bil-moħbi u jipprojbixxu l-foqra"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Ġnien imdawwar b’ħitan mimli bil-palm u dwieli",
+        "Għar mudlam fil-fond tal-muntanji",
+        "Belt maħkuma minn uragan divin",
+        "Wied sagru ħdejn id-Dar ta’ Alla",
+        "Ix-xtut ta’ xmara li tgħaddi"
+      ],
+      "answer": "Ġnien imdawwar b’ħitan mimli bil-palm u dwieli"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-ġnien inqered b’digriet jaħraq mis-sema",
+        "Huma raqdu fil-paċi għal 309 snin lunari",
+        "Huma ġew mgħaffġin minn xita ta’ ġebel",
+        "Għerqu taħt il-mewġ ta’ għargħar kbir",
+        "Huma ġew imxerrda minn tifqigħa ta’ riħ kiesaħ u qawwi"
+      ],
+      "answer": "Il-ġnien inqered b’digriet jaħraq mis-sema"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

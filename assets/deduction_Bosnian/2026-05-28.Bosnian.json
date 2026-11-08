@@ -1,0 +1,61 @@
+{
+  "title": "Nepokolebljivi strpljivi broj jedan",
+  "intro": "U analima proročke historije, malo je onih koji su podnijeli tako dubok gubitak i fizičku patnju s nepokolebljivom vjerom. Priča ove ličnosti je bezvremenska lekcija o strpljenju i povjerenju u božansku mudrost. Ko je ova duša?",
+  "clues": [
+    "Allah me je izabrao da prenesem poruku, ali moj najveći test nije došao kroz odbacivanje, već kroz ličnu nesreću.",
+    "Moje bogatstvo, moja stoka i moja djeca su mi oduzeti, jedno za drugim.",
+    "Tijelo mi je bilo prekriveno ranama, i ostao sam sam, osim podrške svog supružnika.",
+    "Vapio sam svom Gospodu, priznajući svoju patnju i tražeći Njegovu milost.",
+    "Naređeno mi je da udarim nogom o tlo i iz njega je šiknuo osvježavajući izvor.",
+    "Allah mi je povratio zdravlje i dao mi novu porodicu i još više bogatstva nego što sam imao prije."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Ajjub",
+        "Poslanik Ibrahim",
+        "Poslanik Musa",
+        "Poslanik Isa",
+        "Poslanik Nuh"
+      ],
+      "answer": "Poslanik Ajjub"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Gubitak bogatstva i porodice",
+        "Biti bačen u vatru",
+        "Biti progutan od strane ribe",
+        "Biti odvojen od porodice i prodan u ropstvo",
+        "Biti testiran sa zlatnim teletom"
+      ],
+      "answer": "Gubitak bogatstva i porodice"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Izvor vode",
+        "Štap koji se pretvorio u zmiju",
+        "Drveni kovčeg",
+        "Rastopljeno tele",
+        "Palma"
+      ],
+      "answer": "Izvor vode"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Obnova porodice i bogatstva",
+        "Uzašašće na nebo",
+        "Postati kralj",
+        "Spašen od kita",
+        "Doček sina u starosti"
+      ],
+      "answer": "Obnova porodice i bogatstva"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'ascesa del sognatore",
+  "intro": "Un'anima destinata alla grandezza, ma messa alla prova da dure avversità, intraprese un viaggio straordinario. Il cammino di quest'individuo fu segnato da gelosia, separazione e ingiuste sofferenze, per culminare in una posizione di immensa responsabilità e in una profonda riunione. Sapresti identificare questa straordinaria figura del Corano?",
+  "clues": [
+    "Un tempo ero invidiato dalle persone a me più care, il che mi portò a un profondo allontanamento dai miei genitori e dalla mia casa.",
+    "Ho attraversato un periodo di grandi difficoltà, durante il quale sono stato venduto per una miseria da dei viaggiatori.",
+    "Sono stato ingiustamente accusato di aver commesso un crimine e ho trascorso anni in prigione, eppure la mia fede è rimasta incrollabile.",
+    "Mi è stata concessa una capacità unica di interpretare visioni complesse, che si è rivelata determinante nel mio cammino verso la libertà.",
+    "La mia saggezza e la mia integrità mi hanno infine condotto a una posizione di grande autorità e fiducia in un paese straniero.",
+    "Attraverso una serie di eventi, dopo una lunga e dolorosa assenza, mi sono ricongiunto con mio genitore anziano e i miei fratelli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Salomone",
+        "Profeta Isa",
+        "Il profeta Yusuf",
+        "Profeta Dawud",
+        "Profeta Yahya"
+      ],
+      "answer": "Il profeta Yusuf"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Essere inghiottito da un grosso pesce",
+        "Costruire un'arca per salvare il creato",
+        "Subire false accuse e la reclusione",
+        "Affrontare un sovrano tirannico con i miracoli",
+        "Essere messi alla prova con malattie gravi e perdite"
+      ],
+      "answer": "Subire false accuse e la reclusione"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un roveto ardente",
+        "Un uccello parlante",
+        "pozzo",
+        "Un bastone che si trasforma in un serpente",
+        "Una cammella come segno"
+      ],
+      "answer": "pozzo"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Guidare una migrazione verso una terra promessa",
+        "Diventare un ministro influente in Egitto",
+        "Ricevere il giudizio divino su un popolo arrogante",
+        "Governare un vasto regno con saggezza e giustizia",
+        "Ascendendo al cielo"
+      ],
+      "answer": "Diventare un ministro influente in Egitto"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

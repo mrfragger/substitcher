@@ -1,0 +1,61 @@
+{
+  "title": "Ar sin e-touez ar vein",
+  "intro": "En ur vro ma veze kizellet menezioù en tiez, e teuas ur c'hannad gant ur sin burzhudus a-berzh Allah. Goulenn a reas an dud prouennoù, hag e resevjont ur c'hrouadur eus ur roc'h kalet. Met o lorc'h a lakaas anezho da nac'hañ ar c'hemenn, o siellañ o tonkadur.",
+  "clues": [
+    "Kaset on bet da gavout ur bobl a veve e lojeizoù kizellet diwar menezioù.",
+    "Goulenn a rejont diganin degas ur sin, setu ma'm eus savet ur c'hañval diwar ur roc'h.",
+    "Gourc’hemennet em eus dezho lezel ar c’hañval da evañ frank ha chom hep ober droug dezhañ.",
+    "Disentiñ a rejont ha troc'hañ a rejont ar c'hañval, o tifenn ma evezhiadenn.",
+    "Embannet em eus e teufe ar c'hastiz goude tri devezh.",
+    "Da vintin, un taol-arnod kreñv a zistrujas anezho, met me ha va heulierien a voe saveteet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Salih",
+        "Profed Hud",
+        "Ar profed Lut",
+        "Ar profed Shu'ayb",
+        "Ar profed Ibrahim"
+      ],
+      "answer": "Ar profed Salih"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Goulenn ur c'hañvalez diwar ur roc'h",
+        "Goulenn ul leue aour",
+        "Goulenn un daol skignet eus an neñv",
+        "Goulenn un dour-beuz",
+        "Goulenn ur vazh evit dont da vezañ un naer"
+      ],
+      "answer": "Goulenn ur c'hañvalez diwar ur roc'h"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar c'hañvalez hag he leue",
+        "Arc'h Noe",
+        "Bazh Moizez",
+        "Al Leue Aour",
+        "Tan Ibrahim"
+      ],
+      "answer": "Ar c'hañvalez hag he leue"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Distrujet gant un tarzh kreñv",
+        "Beuzet en dour-beuz",
+        "Lonket gant an douar",
+        "Troet e marmouzed",
+        "Distrujet gant un avel garv"
+      ],
+      "answer": "Distrujet gant un tarzh kreñv"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

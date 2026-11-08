@@ -1,0 +1,61 @@
+{
+  "title": "Butparastlarga qarshi turgan elchi",
+  "intro": "Ibodat yo'qolgan bir paytda, bir elchi olamlar Parvardigoriga sig'inishga qaytishga chaqiriq bilan ko'tarildi. Bu shaxs soxta xudoga sig'inishda mustahkam o'rnashgan xalqqa qarshi qat'iy turib, ularga haqiqiy Yaratuvchisini va ota-bobolarining Parvardigorini eslatdi. Shunga qaramay, odamlar beparvo edilar va ogohlantirishni rad etdilar, o'z taqdirlarini belgilab qo'ydilar. Bu qat'iyatli chaqiruvchi kim edi?",
+  "clues": [
+    "Men yagona Haq Xudoning yo'lidan yuz o'girgan qavmga yuborildim.",
+    "Men qavmimdan: \"Allohdan qo'rqmaysizlarmi?\" deb so'radim.",
+    "Men ularni Baal ismli soxta xudoga sig'inishdan voz kechishga chaqirdim.",
+    "Mening qavmim mening chaqirig'imni rad etdi va butparastlikda davom etdi.",
+    "Kufrga botganliklari sababli, ular, albatta, azobga keltirilurlar.",
+    "Parvardigorim menga keyingi avlodlar orasida tinchlik va muborak xotira ato etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ilyos",
+        "Yahyo payg'ambar",
+        "Payg'ambar Zul-Kifl",
+        "Yusuf payg'ambar",
+        "Payg'ambar Shu'ayb"
+      ],
+      "answer": "Payg'ambar Ilyos"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "O'z xalqini Baalni tark etishga chaqirdi",
+        "Mo'minlarni qutqarish uchun kema qurdilar",
+        "Olovga tashlandi",
+        "Zolim Fir'avndan qochib ketdi",
+        "Suv chiqarish uchun toshga urildi"
+      ],
+      "answer": "O'z xalqini Baalni tark etishga chaqirdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Tinchlik va muborak xotira berildi",
+        "Yer tomonidan yutib yuborilgan",
+        "Kuchli bo'ron tomonidan vayron qilingan",
+        "Toshga aylandi",
+        "Dengizda cho'kib ketdi"
+      ],
+      "answer": "Tinchlik va muborak xotira berildi"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

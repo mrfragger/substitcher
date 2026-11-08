@@ -1,0 +1,61 @@
+{
+  "title": "Die Mahnwache am brennenden Tor",
+  "intro": "Eine stille, furchterregende Schar bewacht eine gewaltige Schwelle, ohne jemals zu essen, zu trinken oder zu ruhen. Aus einem Stoff geformt, der sich von menschlichem Lehm unterscheidet, erwarten sie ein einziges, schreckliches Ziel – und sie haben noch nie ein Gebot ihres Herrn missachtet.",
+  "clues": [
+    "Wir sind Wesen, die anders sind als die Menschen, geschaffen aus einem Stoff, der weder isst noch trinkt noch ermüdet.",
+    "Unsere genaue Zahl ist bekannt und im Buch offenbart – wir sind weder unzählig noch eine Vielzahl.",
+    "Wir sind unserem Schöpfer niemals ungehorsam gewesen und sprechen auch niemals, bevor wir dazu aufgefordert werden.",
+    "Wenn der Tag kommt, werden die Ungläubigen in Scharen zu uns getrieben werden, und wir werden ihnen die Tore öffnen.",
+    "Wir werden sie fragen: „Sind nicht Boten aus euren eigenen Reihen zu euch gekommen, die euch vor diesem Tag gewarnt haben?“",
+    "Wir bewachen einen Ort, aus dem keine Seele jemals hervorkommt – ein loderndes Reich ewiger Verdammnis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Die Hüter des Höllenfeuers (Zabaniyah)",
+        "Die Träger des Thrones Allahs",
+        "Die Aufnahmeengel (Kiraman Katibin)",
+        "Die Engel des Todes",
+        "Die Torwächter des Paradieses"
+      ],
+      "answer": "Die Hüter des Höllenfeuers (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Unsere Hauptaufgabe",
+      "options": [
+        "Die Tore der Hölle bewachen",
+        "Aufzeichnung jeder menschlichen Handlung",
+        "Den Thron Allahs tragen",
+        "Die Seelen der Verstorbenen nehmen",
+        "Die Winde und Wolken beherrschen"
+      ],
+      "answer": "Die Tore der Hölle bewachen"
+    },
+    "location": {
+      "label": "Was bewachen wir?",
+      "options": [
+        "Das Höllenfeuer",
+        "Der Thron Allahs",
+        "Die Schriftrollen der Taten",
+        "Die Flüsse des Paradieses",
+        "Die Berge der Erde"
+      ],
+      "answer": "Das Höllenfeuer"
+    },
+    "outcome": {
+      "label": "Schicksal derer in unserem Bereich",
+      "options": [
+        "Sie werden für immer bleiben und niemals gehen",
+        "Sie werden schließlich begnadigt und freigelassen.",
+        "Sie werden im Laufe der Zeit gereinigt.",
+        "Sie werden in andere Formen umgewandelt.",
+        "Sie werden zwischen Hölle und Paradies hin- und herwechseln."
+      ],
+      "answer": "Sie werden für immer bleiben und niemals gehen"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

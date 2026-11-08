@@ -1,0 +1,61 @@
+{
+  "title": "Tuntutan Kuasa Mutlak",
+  "intro": "Pada zaman dahulu, seorang individu yang berkuasa bangkit untuk menguasai tanah yang luas dan penduduknya. Pemerintahan tokoh ini ditandai dengan kebanggaan yang besar dan cabaran mendalam terhadap kuasa ilahi. Bersedialah untuk mendedahkan identiti jiwa yang nasib akhirnya menjadi pengajaran yang berkekalan untuk semua generasi.",
+  "clues": [
+    "Aku berkuasa atas sebuah empayar yang perkasa, di mana kata-kataku adalah undang-undang.",
+    "Aku mengisytiharkan diriku sebagai dewa tertinggi, menuntut penyembahan daripada semua orang di bawah pemerintahanku.",
+    "Aku menindas suatu kaum tertentu, memperhambakan mereka dan memerintahkan pembunuhan bayi-bayi lelaki mereka.",
+    "Saya berulang kali dihadapkan oleh seorang utusan Tuhan yang rendah hati, yang melakukan mukjizat-mukjizat yang jelas di hadapan saya dan para ahli sihir saya.",
+    "Aku dengan degil menolak kebenaran, menuduh utusan itu melakukan sihir dan merancang untuk memusnahkannya dan pengikutnya.",
+    "Seluruh tenteraku dan aku ditenggelami laut ketika kami tanpa henti mengejar mereka yang telah dibebaskan dari genggamanku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nimrod",
+        "Abu Jahal",
+        "Iblis",
+        "Fir'aun",
+        "Haman"
+      ],
+      "answer": "Fir'aun"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Banjir Besar",
+        "Api yang Membakar",
+        "Lemasnya Penindas",
+        "Kemusnahan oleh Angin",
+        "Gempa Bumi Ketidakpercayaan"
+      ],
+      "answer": "Lemasnya Penindas"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Bahtera Nabi Nuh",
+        "Tongkat Musa",
+        "Berhala Emas",
+        "Telaga Zamzam",
+        "Takhta Bilqis"
+      ],
+      "answer": "Tongkat Musa"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dikurniakan kerajaan yang luas",
+        "Mayat diawet sebagai tanda",
+        "Diampuni selepas bertaubat",
+        "Diangkat menjadi kenabian",
+        "Kaumnya menjadi alim"
+      ],
+      "answer": "Mayat diawet sebagai tanda"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

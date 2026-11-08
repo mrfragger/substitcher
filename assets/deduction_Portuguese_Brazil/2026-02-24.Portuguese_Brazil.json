@@ -1,0 +1,61 @@
+{
+  "title": "O Eco do Engano",
+  "intro": "Um laço familiar foi posto à prova por uma onda de inveja. Um plano secreto foi tramado, desencadeando uma série de eventos que se estenderiam por anos e vastas distâncias. As ações desse grupo levaram a uma profunda separação e tristeza, mas a história não termina aí. É um conto de engano, arrependimento e o desdobramento final de um plano divino. Você consegue desvendar a identidade desses indivíduos cujas escolhas reverberaram por gerações?",
+  "clues": [
+    "Estávamos consumidos pelo ciúme da afeição demonstrada a um dos nossos.",
+    "Movidos pela inveja, conspiramos juntos e lançamos nosso irmão ou irmã na escuridão de um poço.",
+    "Para ocultar nosso ato, apresentamos ao nosso pai uma roupa manchada com sangue falso.",
+    "Anos mais tarde, uma grave fome nos obrigou a viajar para o Egito em busca de mantimentos.",
+    "Ali, comparecemos perante um governador poderoso que, sem que soubéssemos, era o próprio irmão ou irmã a quem tínhamos prejudicado.",
+    "Nosso teste final foi trazer nosso irmão mais novo, Binyamin, o que levou à revelação de nosso passado e de que nosso pai era o Profeta Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Os filhos de Adão (Cabil e Abil)",
+        "Os discípulos do profeta Isa",
+        "Os irmãos do profeta Yusuf",
+        "O povo de Madyan",
+        "Os Magos de Fir'awn"
+      ],
+      "answer": "Os irmãos do profeta Yusuf"
+    },
+    "trial": {
+      "label": "Qual foi nossa principal transgressão?",
+      "options": [
+        "Construindo um bezerro de ouro para adoração.",
+        "Exigindo ver Alá diretamente",
+        "Zombar de um profeta por construir uma arca",
+        "Enganando nosso pai e abandonando nosso irmão.",
+        "Quebrar o sábado pescando"
+      ],
+      "answer": "Enganando nosso pai e abandonando nosso irmão."
+    },
+    "location": {
+      "label": "Qual objeto foi fundamental para o nosso engano?",
+      "options": [
+        "Um conjunto de tábuas inscritas",
+        "Uma camisa manchada com sangue falso.",
+        "Um bezerro de ouro",
+        "Uma ave belíssima (a poupa)",
+        "Um cajado que se transformou em serpente."
+      ],
+      "answer": "Uma camisa manchada com sangue falso."
+    },
+    "outcome": {
+      "label": "Qual foi o desfecho da nossa história?",
+      "options": [
+        "Fomos destruídos por uma grande enchente.",
+        "Fomos transformados em macacos.",
+        "Fomos engolidos pela terra.",
+        "Fomos perdoados e reunidos com nossa família.",
+        "Fomos afogados no mar."
+      ],
+      "answer": "Fomos perdoados e reunidos com nossa família."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

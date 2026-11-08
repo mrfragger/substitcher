@@ -1,0 +1,61 @@
+{
+  "title": "Der Ruf, der die Jahrhunderte überdauert hat",
+  "intro": "Stell dir eine Seele vor, die sich einer ganzen Zivilisation entgegenstellte, fest entschlossen, sie mit unerschütterlicher Entschlossenheit vom Irrweg zurückzuführen. Jahrhundertelang wurde ihre Botschaft abgelehnt, verspottet und verworfen – doch der Einsatz blieb ungebrochen. Schließlich kam es zum großen Urteil, und nur wenige erreichten gemeinsam mit dieser standhaften Seele das Heil. Kannst du diese Gestalt aus dem Koran identifizieren?",
+  "clues": [
+    "Ich wurde als Warner zu einem Volk gesandt, das sich in seinen eigenen Wegen verirrt hatte.",
+    "Ich habe sie eingeladen, um Vergebung zu bitten und von ihren Fehlern umzukehren, aber sie haben sich abgewendet.",
+    "Auf göttlichen Befehl hin baute ich ein gewaltiges Schiff, während mein Volk zusah und mich verspottete.",
+    "Ich rief meinen Herrn unaufhörlich an – schließlich antwortete er, und Wasser ergoss sich in Strömen vom Himmel.",
+    "Ich ging mit denen an Bord des Schiffes, die daran glaubten, als die Fluten über das Land stiegen.",
+    "Ich rief einem der Zurückgebliebenen zu und bat ihn, auf einen Berg Zuflucht zu suchen, aber der Erlass war bereits ergangen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Hud",
+        "Prophet Salih"
+      ],
+      "answer": "Prophet Nuh"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Eine große Arche bauen und eine weltweite Flut überleben",
+        "In ein loderndes Feuer geworfen werden",
+        "Konfrontation mit einem Tyrannen und seinen mächtigen Magiern",
+        "Von einem großen Fisch verschluckt werden",
+        "Die Tötung einer heiligen Kamelstute miterleben"
+      ],
+      "answer": "Eine große Arche bauen und eine weltweite Flut überleben"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine riesige Holzarche auf reißenden Fluten",
+        "Ein heiliges Tal mit antiken Steinruinen",
+        "Eine tiefe Höhle, in der Gefährten jahrhundertelang schliefen.",
+        "Der Bauch eines Riesenwals in den Tiefen des Ozeans",
+        "Ein hoch aufragender Steinberg in der Wildnis"
+      ],
+      "answer": "Eine riesige Holzarche auf reißenden Fluten"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Gerettet mit den Gläubigen an Bord des Schiffes",
+        "Durch göttliche Fügung unverletzt aus dem Feuer gerettet.",
+        "Führte einen großen Exodus aus einem mächtigen Königreich an",
+        "Wirf den Fisch an ein karges Ufer",
+        "Führte Menschen durch ein wundersames Zeichen vom Unrecht ab."
+      ],
+      "answer": "Gerettet mit den Gläubigen an Bord des Schiffes"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

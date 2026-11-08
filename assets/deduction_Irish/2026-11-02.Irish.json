@@ -1,0 +1,61 @@
+{
+  "title": "An Comhghuaillí Gan Chlaonadh i dTriail an Óir",
+  "intro": "I scáth fáidh mhóir, roghnaíodh anam labhartha agus creidimh chun cuidiú le misean ollmhór. Sheas an figiúr seo go daingean nuair a bhí na maiseanna ag luainiú, ag seanmóireacht i gcoinne sárú soiléir a bhagair croílár an aondiachas. Nuair a d’fhill an fáidh chun meath na ndaoine a fheiceáil, ní ciontacht a bhí mar chosaint ag an bhfigiúr seo ach dualgas agus eagla roimh dheighilt. Cé hé an seirbhíseach dílis seo de chuid Allah?",
+  "clues": [
+    "Roghnaigh Allah mé le haghaidh dualgais naofa taobh le duine eile, agus ba é mo ról tacaíocht agus fógairt.",
+    "Bronnadh soiléireacht cainte orm, agus chuaigh mé i dteannta teachtaire chun aghaidh a thabhairt ar fhear-leithscrios cumhachtach.",
+    "Le linn turas criticiúil, dhreap an teachtaire sliabh ina aonar, ag fágáil mé le faire a choinneáil ar na daoine.",
+    "Nuair a bhí siad as láthair, rinne na daoine íomhá órga, agus d’impigh mé orthu fanacht dílis, ach dhiúltaigh siad do mo chomhairle.",
+    "Nuair a d’fhill an teachtaire, lán le fearg agus brón, gabhadh mé, ach mhínigh mé dom go raibh mé sáraithe agus go raibh eagla orm easaontas a chruthú eatarthu.",
+    "Is mise an fáidh a sheas taobh le Músa, mo dheartháir, ag roinnt a ualaigh agus ag fanacht go daingean in aghaidh íoladhradh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Harun",
+        "an Fáidh Músa",
+        "Fáidh Íosa",
+        "Fáidh Dawud",
+        "Fáidh Zakariyya"
+      ],
+      "answer": "Fáidh Harun"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "D’adhraigh daoine lao órga in ainneoin rabhaidh",
+        "Chaith daoine mé i dtine lasrach",
+        "Shlogadh mé ag iasc mór",
+        "Cuireadh i bpríosún mé ar chúisimh bhréagacha",
+        "Díbríodh mé ó mo chathair as seanmóireacht a dhéanamh"
+      ],
+      "answer": "D’adhraigh daoine lao órga in ainneoin rabhaidh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Lao Órga",
+        "An Tor Dóite",
+        "An Foireann a d’iompaigh ina nathair",
+        "Táibléid an Chonartha",
+        "Áirc an Chonartha"
+      ],
+      "answer": "An Lao Órga"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Saoradh mé ó chiontacht agus lean mé ar aghaidh le mo mhisean fáidhiúil",
+        "Gearradh pionós orm as peaca na ndaoine",
+        "Tugadh náisiún nua dom le treoir a thabhairt",
+        "Tógadh suas go neamh mé beo",
+        "Rinneadh rialóir díom ar ríocht"
+      ],
+      "answer": "Saoradh mé ó chiontacht agus lean mé ar aghaidh le mo mhisean fáidhiúil"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

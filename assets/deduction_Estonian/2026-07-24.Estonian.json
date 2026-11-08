@@ -1,0 +1,61 @@
+{
+  "title": "Looritud vandenõulane",
+  "intro": "Sa leiad end ilmutuse päevade võimsa tegelase seltskonnast. See inimene oli tuntud oma intellekti, rikkuse ja rahva seas valitseva staatuse poolest. Kui selged märgid saabusid, tundsid nad ära ilu, kuid valisid siiski alistumisele trotsi. Mis ajendas seda hinge pimeduses plaane sepitsema ja milline oli tema lõplik saatus?",
+  "clues": [
+    "Mind õnnistati külluslike ressursside ja mõjuvõimuga, mis tegi mu sõna kogudustes kaalukaks.",
+    "Kui jumalikke sõnu loeti, ei saanud ma eitada nende kõneosavus, kuid mu uhkus ei lubanud mul alistuda.",
+    "Kogusin oma nõustajad kokku, eraldasin end ja mõtlesin, kuidas sõnumit diskrediteerida.",
+    "Pärast pikka mõtlemist kuulutasin, et see pole midagi muud kui „minevikust edasi antud maagia“, millega inimesi eemale peletada.",
+    "Seejärel pöördus ilmutus otse minu poole: „Jäta mind rahule sellega, kelle ma loonud olen.“ Mind valiti oma intriigide pärast välja.",
+    "Varsti haarab mind seesama tuli, mille eest mind hoiatati, ja mul pole pääsu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Sepitsesid vandenõu prohveti mõrvamiseks",
+        "Juhtis moslemite vastast boikotti",
+        "Kogus kokku nõukogu, et Koraani maagiaks nimetada",
+        "Plaanis prohveti Mekast välja ajada",
+        "Keeldus oma rikkust orbudega jagamast"
+      ],
+      "answer": "Kogus kokku nõukogu, et Koraani maagiaks nimetada"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Ilmutus",
+        "Nõukogu",
+        "Eeslokk",
+        "Rikkus",
+        "Pliiats"
+      ],
+      "answer": "Eeslokk"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Ta kahetses ja võttis omaks islami",
+        "Ta kolis Abessiiniasse",
+        "Teda tabas surmav haigus",
+        "Ta suri lahingus moslemite vastu",
+        "Ta mõisteti põrgutulele"
+      ],
+      "answer": "Ta mõisteti põrgutulele"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

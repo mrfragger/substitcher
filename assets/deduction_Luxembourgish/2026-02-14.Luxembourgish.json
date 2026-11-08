@@ -1,0 +1,61 @@
+{
+  "title": "De Bauer vun de Barrièren",
+  "intro": "Iwwer grouss Länner huet eng mächteg Persoun eng Serie vun Expeditioune gemaach, immens Autoritéit a Mëttele kritt. Dës Séil ass op verschidde Gemeinschafte gestouss a stoung virun eenzegaartegen Erausfuerderungen, huet duerch hir Handlungen a Wäisheet eng dauerhaft Spuer an der Geschicht an dem Glawen hannerlooss, an dat alles wärend se déi richteg Quell vun hirer Kraaft unerkannt hunn.",
+  "clues": [
+    "Mir gouf Muecht a Mëttelen iwwer alles ginn, an ech sinn engem Wee gefollegt.",
+    "Meng Rees huet mech op d'Plaz vun der Sonnenënnergang gefouert, wou ech e Vollek fonnt hunn.",
+    "Ech sinn op eng Gemeinschaft begéint, déi kaum eng Sprooch verstanen huet, déi tëscht zwee Bierger gelieft huet.",
+    "Ech gouf gefrot, eng Barrière ze bauen, net fir perséinleche Gewënn, mä fir mech géint eng zerstéierend Kraaft ze schützen.",
+    "Ech hunn erkläert, datt d'Kraaft fir dës massiv Mauer ze bauen vun Allah kënnt, an datt si bis zu enger versprachener Zäit bestoen géif.",
+    "Mäin Numm, dacks als 'Den Zweihörnegen' iwwersat, symboliséiert meng Reechwäit iwwer d'Äerd oder vläicht zwou verschidden Äraen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Sulayman",
+        "Dhul-Qarnayn",
+        "Pharao",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Offenbarung kréien",
+        "Géint en Tyrann",
+        "E grousst Schëff bauen",
+        "De Bau vun enger mächteger Barrière",
+        "Vun engem Fësch verschléckt ginn"
+      ],
+      "answer": "De Bau vun enger mächteger Barrière"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark",
+        "D'Personal",
+        "D'Eisenbarrière",
+        "Den Nil",
+        "Den Troun"
+      ],
+      "answer": "D'Eisenbarrière"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Rettung virun der Iwwerschwemmung",
+        "E grousst Kinnekräich ginn",
+        "Schutz fir e Vollek",
+        "Zerstéierung vun engem Ënnerdrécker",
+        "Dauerhaft Wäisheet"
+      ],
+      "answer": "Schutz fir e Vollek"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

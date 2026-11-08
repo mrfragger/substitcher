@@ -1,0 +1,61 @@
+{
+  "title": "Gostoprimstvo koje je izazvalo strah",
+  "intro": "U gradu zahvaćenom zlom, vjerni sluga je jednog dana primio neočekivane posjetioce. Zabrinut za njihovu sigurnost, ova osoba je ponudila zaštitu, ali stanovnici grada su zahtijevali nešto sramotno. Upozoren na nadolazeću propast, sluga je pobjegao sa porodicom pod okriljem tame, ostavljajući za sobom grad označen za uništenje. Ko je ovaj usamljeni vjernik?",
+  "clues": [
+    "Poslan sam kao glasnik narodu koji je počinio sramotna djela.",
+    "Neočekivani posjetioci su dolazili u moj dom, i bio sam više zabrinut za njihovu sigurnost nego za svoju.",
+    "Moji ljudi su zahtijevali da vide moje goste zbog zlih namjera, a ja sam pokušao da ih urazumim.",
+    "Moji posjetioci su se otkrili kao anđeli i naredili mi da povedem svoju porodicu i odem usred noći.",
+    "Moja supruga nije poslušala poziv na bijeg i suočila se s istim uništenjem kao i moj narod.",
+    "Moj grad je bio srušen kišom kamenja od slojeva gline, njegovi najviši dijelovi su srušeni na najniže."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Lut",
+        "Poslanik Musa",
+        "Poslanik Ibrahim",
+        "Poslanik Nuh",
+        "Poslanik Hud"
+      ],
+      "answer": "Poslanik Lut"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Zahtjev mog naroda da se mojim gostima približi na zloban način",
+        "Razdvajanje mora da bi se pobjeglo od tiranina",
+        "Gradnja velike arke usred ismijavanja",
+        "Žrtva mog sina u iskušenju vjere",
+        "Iskustvo gutanja od strane velike ribe"
+      ],
+      "answer": "Zahtjev mog naroda da se mojim gostima približi na zloban način"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Prevrnuti grad mog naroda",
+        "Planina na kojoj sam primio božanski govor",
+        "Barka koja je plovila kroz veliku poplavu",
+        "Kamila koja je izašla iz stijene",
+        "Vrt sa skrivenim pravednim posjetiocem"
+      ],
+      "answer": "Prevrnuti grad mog naroda"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Spašen sam sa svojom porodicom prije nego što je moj grad srušen",
+        "Vodio sam svoj narod preko mora ka slobodi",
+        "Sagradio sam veliku arku i preživio ogromnu poplavu",
+        "Data mi je vlast nad vjetrovima i džinima",
+        "Strpljivo sam podnosio patnju i bio sam nagrađen porodicom"
+      ],
+      "answer": "Spašen sam sa svojom porodicom prije nego što je moj grad srušen"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hiilen yli lausuttu lupaus",
+  "intro": "Seisot aavikon tulen äärellä, kun sen hiiliä levitetään huolellisesti. Vierailijat saapuvat kohtaamaan heidät hiljaisuudessa, ja yksi ainoa viesti avaa lupauksen, yllätyksen ja vielä täyttymättömän tulevaisuuden tarinan.",
+  "clues": [
+    "Ylitimme matkan löytääksemme uskollisen palvelijan erämaassa.",
+    "Pyysimme levittämään hiiliä tulen tekemistä varten.",
+    "Puhuimme yhden ihmisen kanssa, joka oli huutanut liekkien luo viileyttä ja turvaa.",
+    "Toimme tiedon vastasyntyneestä jollekulle, joka oli jo ylittänyt lasten saamisen iän.",
+    "Annoimme luvatulle lapselle nimeksi Iisak.",
+    "Toimme Ibrahimille ilosanoman pojasta, ja hämmästyttävä uutinen sai Ibrahimin nauramaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Enkelit, jotka toivat Iisakin ilosanoman Ibrahimille",
+        "Enkelit, jotka varoittivat Lutia",
+        "Valtaistuinta kantavat enkelit",
+        "Helvetin enkelit",
+        "Nooalle lähetetyt enkelit"
+      ],
+      "answer": "Enkelit, jotka toivat Iisakin ilosanoman Ibrahimille"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ilosanoman tuominen Iisakin syntymästä Ibrahimille",
+        "Varoitus Lutille ennen kansansa rankaisemista",
+        "Ilmoitus Yahyan syntymästä Zakariyyalle",
+        "Valtaistuimen kantaminen tuomiopäivänä",
+        "Ilmoitus Isain syntymästä Maryamille"
+      ],
+      "answer": "Ilosanoman tuominen Iisakin syntymästä Ibrahimille"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Levitetyistä hiilistä tehty tuli",
+        "Arkki kelluu tulvavedessä",
+        "Luola, jonka vierivä kivi sinetöi",
+        "Suolaveden kovettama savivuori",
+        "Taivaalle ulottuvat tikkaat"
+      ],
+      "answer": "Levitetyistä hiilistä tehty tuli"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Iloinen sanoma pojasta nimeltä Iisak",
+        "Iloisia uutisia pojasta nimeltä Yahya",
+        "Talutin valinta Israelin lasten hallitsijaksi",
+        "Varoitus ennen Lutin kansan rankaisemista",
+        "Käsky rakentaa arkki ennen vedenpaisumusta"
+      ],
+      "answer": "Iloinen sanoma pojasta nimeltä Iisak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

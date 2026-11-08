@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanahy Manam-paharetana",
+  "intro": "Tao amin'ny tantaran'ny mpaminany dia nisy fanahy iray izay voasokitra tao amin'ny tenany ny faharetany. Nandritra ny ranomaso sy ny fotoana, dia nifikitra mafy tamin'ny fanantenana izy ireo, ka lasa ohatra tsy manam-potoana amin'ny fahatokisana ny fahendren'Andriamanitra. Azonao ve ny mamaha ny misterin'ity olona tsy azo hozongozonina ity?",
+  "clues": [
+    "Teraka tao amin'ny fianakavian'ny mpaminany aho, kanefa ny fitsapana lehibe indrindra ho ahy dia avy amin'ilay zaza tiako indrindra.",
+    "Nahazo fampitandremana momba ny fialonana aho avy tamin'ny nofy iray nozarain'ny zanako lahy, ary natahotra ny amin'ny fiarovana azy aho.",
+    "Nivadika fotsy ny masoko noho ny alahelo, nefa tsy very finoana ny famindram-pon'i Allah mihitsy aho.",
+    "Nahatratra ahy avy lavitra ny fofon'ny zanako very, ary fantatro tamin'izay fa efa akaiky ny hihaonana indray.",
+    "Niondrika tamim-pankasitrahana ny fianakaviako rehefa tanteraka ilay fahitana taloha, ary niverina tamin'ny laoniny ny masoko.",
+    "Izaho ilay natolotra lobaka nisy ra, ary taty aoriana dia nahazo lobaka iray izay nanasitrana ny masoko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ibrahim",
+        "Mpaminany Isaka",
+        "Mpaminany Jakoba",
+        "Mpaminany Yusuf",
+        "Mpaminany Ayyub"
+      ],
+      "answer": "Mpaminany Jakoba"
+    },
+    "trial": {
+      "label": "Ny Fitsarana Lehibe",
+      "options": [
+        "Fisarahana amin'ny zanaka malala sy fahaverezan'ny fahitana",
+        "Atsipy ao anaty afo mirehitra",
+        "Voatelina trondro lehibe",
+        "Miaritra ny fahaverezan'ny harena, ny zanaka ary ny fahasalamana",
+        "Namadika azy ny rahalahiny ary natsipy tao anaty lavadrano"
+      ],
+      "answer": "Fisarahana amin'ny zanaka malala sy fahaverezan'ny fahitana"
+    },
+    "location": {
+      "label": "Ny Zavatra Ara-panoharana",
+      "options": [
+        "Lobaka iray izay nanafina ny fahamarinana aloha dia avy eo nampiharihary izany",
+        "Tehina izay lasa menarana",
+        "Trozona iray izay nitelina mpaminany",
+        "Afo iray izay nivadika ho mangatsiaka",
+        "Kapa roa eo amin'ny kirihitra mirehitra"
+      ],
+      "answer": "Lobaka iray izay nanafina ny fahamarinana aloha dia avy eo nampiharihary izany"
+    },
+    "outcome": {
+      "label": "Ny Fanapahan-kevitra Masina",
+      "options": [
+        "Fihaonana indray amin'ny olon-tiana iray izay efa maty sy famerenana amin'ny laoniny ny fahitana",
+        "Famonjena amin'ny firenena iray anjakan'ny fampahoriana",
+        "Fanafahana avy amin'ny kibon'ny trondro",
+        "Famonjena amin'ny afo mirehitra",
+        "Fiakarana any amin'ny seza fiandrianana lehibe"
+      ],
+      "answer": "Fihaonana indray amin'ny olon-tiana iray izay efa maty sy famerenana amin'ny laoniny ny fahitana"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Soittaja syvyyksistä",
+  "intro": "Kuvittele sielu, jolle on uskottu jumalallinen viesti, mutta joka kuitenkin kiireen hetkellä eroaa kansansa luota ilman nimenomaista lupaa. Tämä matka johdatti heidät poikkeukselliseen koettelemukseen, syvään kärsivällisyyden ja Korkeimpaan turvautumisen testiin. Kuka on tämä henkilö, jonka tarina opettaa meille katumuksesta ja Allahin armon valtavuudesta?",
+  "clues": [
+    "Minut lähetettiin suuren kansakunnan luo, mutta heidän alkuperäinen hylkäämisensä aiheutti minulle ahdistusta.",
+    "Lähdin kansani luota uskoen tehtäväni olevan suoritettu, ennen kuin sain selkeän käskyn lähteä.",
+    "Etsin kulkupaikkaa laivalla, mutta ankara myrsky ja arvonta johtivat vakavaan tilanteeseen.",
+    "Minut heitettiin mereen, ja mahtava syvyyden olento nielaisi minut kokonaisena.",
+    "Sen pimeyden keskellä huusin Allahin puoleen, tunnustin väärintekoni ja pyysin Hänen anteeksiantoaan.",
+    "Allah käski olennon heittää minut rannalle, ja ainutlaatuisen kasvin ansiosta minut toipui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Yusuf (Joosef)",
+        "Profeetta Nuh (Nooa)",
+        "Profeetta Junus (Joona)",
+        "Profeetta Sulaiman (Salomo)",
+        "Profeetta Ayyub (Job)"
+      ],
+      "answer": "Profeetta Junus (Joona)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Meren jakautuminen",
+        "Nimrodin tuli",
+        "Suuren kalan nielaisemaksi joutuminen",
+        "Tulva",
+        "Kaupungin tuhoaminen kivillä"
+      ],
+      "answer": "Suuren kalan nielaisemaksi joutuminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Kalan vatsa",
+        "Kaivo",
+        "Palava pensas"
+      ],
+      "answer": "Kalan vatsa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli suureksi hallitsijaksi",
+        "Rakensi Kaaban",
+        "Palasi opastamaan katuvaa kansakuntaa",
+        "Sai vallan džinnien yli",
+        "Johdatti ihmisiä aavikon halki"
+      ],
+      "answer": "Palasi opastamaan katuvaa kansakuntaa"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

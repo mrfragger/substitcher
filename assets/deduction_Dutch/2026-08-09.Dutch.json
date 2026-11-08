@@ -1,0 +1,61 @@
+{
+  "title": "De waarheidsgetrouwe stem van de oudheid",
+  "intro": "Er is een ziel in de Koran wiens verhaal slechts in een paar verzen wordt verteld, maar wiens nobele eigenschappen er met schitterende helderheid doorheen schijnen. Geprezen door de Almachtige voor een bijzondere deugd, neemt deze oude dienaar van de Meest Barmhartige een plaats in in de bladzijden van de openbaring. Jouw taak is om deze opmerkelijke figuur te identificeren. Kun je raden wie het is?",
+  "clues": [
+    "Ik ben een profeet van Allah die leefde onder de vroege generaties van de mensheid.",
+    "Allah heeft mij in Zijn Boek genoemd samen met andere profeten, die allen geprezen worden om dezelfde nobele deugd.",
+    "Ik word in de Koran beschreven als een man van waarheid.",
+    "Allah heeft mij verheven tot een hoge positie die maar weinigen hebben bereikt.",
+    "Mijn naam wordt genoemd in Soera Al-Anbiya, samen met twee andere profeten die geprezen worden om hun geduld.",
+    "Ik ben Idris, de waarachtige en verheven profeet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Profeet Idris",
+        "Profeet Nuh",
+        "Profeet Ibrahim",
+        "Profeet Musa",
+        "Profeet Ismail"
+      ],
+      "answer": "Profeet Idris"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Door geduld en eerlijkheid te bewaren, werd men verheven tot een hoge positie.",
+        "Het bouwen van een grote ark om de gelovigen te redden van een verwoestende overstroming.",
+        "In een laaiend vuur gegooid worden en er volledig ongedeerd uitkomen.",
+        "Een machtige koning confronteren en zijn leger van tovenaars verslaan.",
+        "Overleven in de buik van een grote vis in de diepte van de zee"
+      ],
+      "answer": "Door geduld en eerlijkheid te bewaren, werd men verheven tot een hoge positie."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Een hoge en verheven positie door Allah.",
+        "Een enorm schip, gebouwd van planken en besmeerd met teer.",
+        "Een woedend vuur aangewakkerd door de afgodendienaars van een goddeloze koning.",
+        "Een uitgestrekte zee die zich splitste in droge paden.",
+        "De donkere buik van een grote walvis op de bodem van de oceaan."
+      ],
+      "answer": "Een hoge en verheven positie door Allah."
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Toegelaten tot Allahs genade als een van de rechtvaardigen",
+        "Gered, samen met alle gelovigen, van een wereldwijde vloed.",
+        "Hij kwam ongedeerd uit de vlammen tevoorschijn.",
+        "Hij leidde de kinderen van Israël veilig naar de vrijheid over de zee.",
+        "Na jaren van ontberingen zijn ze herenigd met hun geliefde familie."
+      ],
+      "answer": "Toegelaten tot Allahs genade als een van de rechtvaardigen"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

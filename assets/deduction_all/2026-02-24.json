@@ -1,0 +1,61 @@
+{
+  "title": "The Echo of Deceit",
+  "intro": "A bond of kinship was tested by a surge of envy. A secret plan was hatched, setting in motion a chain of events that would span years and cross vast distances. This group's actions led to profound separation and sorrow, but the story did not end there. It is a tale of deception, regret, and the ultimate unfolding of a divine plan. Can you unravel the identity of these individuals whose choices echoed through generations?",
+  "clues": [
+    "We were consumed by jealousy over the affection shown to one of our own.",
+    "In our envy, we conspired together and cast our sibling into the darkness of a well.",
+    "To conceal our deed, we presented a garment to our father, stained with false blood.",
+    "Years later, a severe famine forced us to travel to Egypt seeking provisions.",
+    "There, we came before a powerful governor who, unknown to us, was the very sibling we had wronged.",
+    "Our final test was to bring our youngest brother, Binyamin, which led to the revelation of our past and our father being Prophet Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who are we?",
+      "options": [
+        "The Sons of Adam (Qabil & Habil)",
+        "The Disciples of Prophet Isa",
+        "The Brothers of Prophet Yusuf",
+        "The People of Madyan",
+        "The Magicians of Fir'awn"
+      ],
+      "answer": "The Brothers of Prophet Yusuf"
+    },
+    "trial": {
+      "label": "What was our primary misdeed?",
+      "options": [
+        "Building a golden calf for worship",
+        "Demanding to see Allah directly",
+        "Mocking a prophet for building an ark",
+        "Deceiving our father and abandoning our brother",
+        "Breaking the Sabbath by fishing"
+      ],
+      "answer": "Deceiving our father and abandoning our brother"
+    },
+    "location": {
+      "label": "What object was central to our deception?",
+      "options": [
+        "A set of inscribed tablets",
+        "A shirt stained with false blood",
+        "A golden calf",
+        "A beautiful bird (the Hoopoe)",
+        "A staff that turned into a serpent"
+      ],
+      "answer": "A shirt stained with false blood"
+    },
+    "outcome": {
+      "label": "What was the ultimate outcome of our story?",
+      "options": [
+        "We were destroyed by a mighty flood",
+        "We were turned into apes",
+        "We were swallowed by the earth",
+        "We were forgiven and reunited with our family",
+        "We were drowned in the sea"
+      ],
+      "answer": "We were forgiven and reunited with our family"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

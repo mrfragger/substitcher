@@ -1,0 +1,61 @@
+{
+  "title": "Snaudošie patiesības meklētāji",
+  "intro": "Iedomājieties laiku, kad ticība tika apstrīdēta un dvēseļu grupa izvēlējās nelokāmu pārliecību, nevis pasaulīgu komfortu. Saskaroties ar biedējošu izvēli, viņi meklēja patvērumu, dodoties ceļojumā, kas noveda pie neparasta miega. Viņu stāsts ir apliecinājums dievišķajai aizsardzībai un ticības spēkam pret apspiešanu. Vai varat atpazīt šo ievērojamo cilvēku identitāti?",
+  "clues": [
+    "Mēs bijām neliela sapulce, ko vienoja dziļa ticība Vienīgajam Radītājam.",
+    "Mēs dzīvojām laikā, kad varens valdnieks pieprasīja pielūgt kaut ko citu, nevis Allāhu.",
+    "Lai saglabātu savu ticību, mēs nolēmām pamest savas mājas un bēgt no apspiešanas.",
+    "Mūsu ceļojumā mūs pavadīja uzticams biedrs, zemes radījums.",
+    "Mēs atradām patvērumu nomaļā vietā, kur Allāhs lika mums iegrimt dziļā, ilgstošā miegā.",
+    "Kad pamodāmies, mēs domājām, ka pagājusi tikai diena vai dienas daļa, bet patiesībā bija pagājuši gadsimti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Grāvja ļaudis",
+        "Tamudas ļaudis",
+        "Sabas iedzīvotāji",
+        "Alas ļaudis",
+        "Madjanas iedzīvotāji"
+      ],
+      "answer": "Alas ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pārbaudīts neauglīgā zemē",
+        "Saskaroties ar lieliem plūdiem",
+        "Meklējot patvērumu no tirāniska valdnieka",
+        "Iemešana degošā ugunī",
+        "Burvja maģijas izaicināšana"
+      ],
+      "answer": "Meklējot patvērumu no tirāniska valdnieka"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Grandioza pils",
+        "Kuģis/šķirsts",
+        "Dziļa aka",
+        "Ala",
+        "Augsts kalns"
+      ],
+      "answer": "Ala"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Saņemot karaļvalsti",
+        "Brīnumains miegs gadsimtiem ilgi",
+        "Tikt norītai zemei",
+        "Glābšanās no postošas ​​vētras",
+        "Tiekot nodrošinātam ar debesu galdu"
+      ],
+      "answer": "Brīnumains miegs gadsimtiem ilgi"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

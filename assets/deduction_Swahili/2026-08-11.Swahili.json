@@ -1,0 +1,61 @@
+{
+  "title": "Ahadi ya Tumbo",
+  "intro": "Katika vyumba vya kimya vya moyo uliojitolea kwa Mungu, nadhiri takatifu ilitungwa. Nadhiri hii ililenga maisha ambayo bado hayajavutwa, na utimilifu wake ungebadilisha mkondo wa urithi wa kiroho milele. Ingia katika fumbo la roho ambayo ahadi yake ilirudiwa milele.",
+  "clues": [
+    "Niliishi katika nyumba inayojulikana kwa uchamungu wake, na nilitamani zawadi ambayo ingenileta karibu zaidi na Mwenyezi Mungu.",
+    "Nilifanya agano la dhati na Bwana wangu kuhusu kile kilichokuwa kimefichwa ndani yangu, na kuapa kukitoa kikamilifu kwa ajili ya utumishi Wake.",
+    "Wakati wa kufichuliwa ulipofika, nilichokipokea hakikutarajiwa, lakini nilimkabidhi Mjuzi wa Yote jambo hilo.",
+    "Nilimpa mtoto wangu jina linaloashiria kujitolea, na nilimwomba amlinde yeye na wazao wake kutokana na yule aliyelaaniwa.",
+    "Mtoto wangu aliwekwa katika patakatifu patakatifu, chini ya ulinzi wa nabii kutoka ukoo wa Haruni.",
+    "Binti yangu alijulikana kwa usafi wake na akachaguliwa zaidi ya wanawake wote, baadaye akawa mama wa nabii mkuu, ingawa hakuguswa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mke wa Imran",
+        "Mama yake Musa",
+        "Mke wa Farao",
+        "Mke wa Al-Aziz",
+        "Mama wa Isa"
+      ],
+      "answer": "Mke wa Imran"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Ahadi ya kumtoa mtoto wake ambaye hajazaliwa hekaluni",
+        "Mtihani wa uvumilivu kupitia ugonjwa mrefu",
+        "Safari ya kwenda nchi ya mbali kwa ajili ya imani",
+        "Mzozo na mfalme mdhalimu",
+        "Utoaji wa kimiujiza wa chakula kutoka mbinguni"
+      ],
+      "answer": "Ahadi ya kumtoa mtoto wake ambaye hajazaliwa hekaluni"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mtoto anayeitwa Maryam",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ndama wa dhahabu",
+        "Kisima cha Zamzam",
+        "Safina ya Nuhu"
+      ],
+      "answer": "Mtoto anayeitwa Maryam"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mtoto wake alikubaliwa na Mwenyezi Mungu na akakua chini ya uangalizi wa kinabii.",
+        "Mtoto wake akawa nabii na akapokea maandiko",
+        "Mtoto wake alifufuliwa mbinguni",
+        "Mtoto wake alijenga nyumba takatifu",
+        "Mtoto wake alipewa hekima na utajiri mwingi"
+      ],
+      "answer": "Mtoto wake alikubaliwa na Mwenyezi Mungu na akakua chini ya uangalizi wa kinabii."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

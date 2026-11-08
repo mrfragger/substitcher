@@ -1,0 +1,61 @@
+{
+  "title": "Az udvari üldözés",
+  "intro": "A hatalom folyosóin egy magas rangú személyiség beleszeretett egy földöntúli szépségű szolgába. Ez a rajongás olyan eseményekhez vezetett, amelyek próbára tették a hűséget, feltárták a rejtett igazságokat, és végül megerősítették a szolga ártatlanságát.",
+  "clues": [
+    "A Nílus földjén éltem, egy nagy befolyású palotában.",
+    "Egy fiatalember érkezett a házamba, és a jelenléte felkavarta a világomat.",
+    "Megpróbáltam elcsábítani, de menedéket keresett az Uránál.",
+    "Hátulról széttéptem a ruháját, de a bizonyítékok a csalásomra utaltak.",
+    "Hogy elhallgattassam a nemes hölgyek pletykáit, összejövetelre hívtam őket, és éles tárgyakat tettem a kezükbe.",
+    "Végül nyilvánosan bevallottam a hibámat, elismertem az igazságot a király előtt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Al-Aziz felesége",
+        "Asija (a fáraó felesége)",
+        "Bilqis (Sába királynője)",
+        "Maryam (Isa anyja)",
+        "Mózes anyja"
+      ],
+      "answer": "Al-Aziz felesége"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Megpróbálta elcsábítani Júszuf prófétát",
+        "Megpróbálta megölni Mózes prófétát",
+        "Azt állította magáról, hogy istennő",
+        "Tornyot épített, hogy szembeszálljon Allah-lal",
+        "Sereget vezetett Mekka ellen"
+      ],
+      "answer": "Megpróbálta elcsábítani Júszuf prófétát"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy hátulról elszakadt ing",
+        "Egy aranyborjú",
+        "Egy kígyóvá változott személyzet",
+        "Egy nőstény teve",
+        "Egy lámpa"
+      ],
+      "answer": "Egy hátulról elszakadt ing"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Bevallotta és elismerte az igazságot",
+        "A seregével együtt fulladt vízbe",
+        "Sóoszloppá változott",
+        "Elnyelte őt a föld",
+        "Egy üvöltő szél pusztította el"
+      ],
+      "answer": "Bevallotta és elismerte az igazságot"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

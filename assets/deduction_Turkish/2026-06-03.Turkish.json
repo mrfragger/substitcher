@@ -1,0 +1,61 @@
+{
+  "title": "Kutsal Evi Meydan Okuyan Millet",
+  "intro": "Eski zamanlarda, güçlü bir ulus, inananlar tarafından kutsal kabul edilen bir mabede saldırmaya karar verdi. Bu grup zengin, güçlü ve askeri gücüne güvenen bir gruptu. Yanlarında savaş silahı olarak kullanacakları devasa bir yaratık getirdiler. Amaçları açıktı: kutsal evi yıkmak ve halkının inancını ezmek. Ancak kibirleri, yukarıdan gelecek yıkıcı bir karşılıkla karşılaşmak üzereydi. Bu tarihi olay, sonrasında gelen herkes için bir işaret ve ders oldu. İpuçlarından bu grubu tespit edebilir misiniz?",
+  "clues": [
+    "Biz, zenginlik ve askeri güçle donatılmış bir millettik.",
+    "Güçlerimizi topladık ve seferimizde kullanmak üzere devasa bir canavar getirdik.",
+    "Hedefimiz, tamamen yok etmek istediğimiz kutsal bir mabetti.",
+    "Tanrısal korumayı alt etmek için gücümüzün yeterli olacağına inanıyorduk.",
+    "Fakat Rab, gökten hiç beklemediğimiz bir ceza gönderdi üzerimize.",
+    "Bir anda yok olduk, kırık saman çöpleri gibi dağıldık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Fil Halkı",
+        "Thamud Halkı",
+        "'Ad Halkı",
+        "Mağara Yoldaşları",
+        "Peygamber Hud'un Milleti"
+      ],
+      "answer": "Fil Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kutsal mekanı yıkmak için bir fili ona doğru sürmek",
+        "Gökyüzüne ulaşmak için bir kule inşa etmek",
+        "Tapınma için altın bir put yapımı",
+        "Allah'ın elçisini dinlemeyi reddetmek",
+        "İnananlara zarar vermek için kuyu kazmak"
+      ],
+      "answer": "Kutsal mekanı yıkmak için bir fili ona doğru sürmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Fil",
+        "Altın Buzağı",
+        "Musa'nın Asası",
+        "Yunus Balığı",
+        "Davud'un Demiri"
+      ],
+      "answer": "Fil"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Kuş sürüleri tarafından taşlarla tahrip edildiler.",
+        "Büyük bir selde boğuldular.",
+        "Onlar maymunlara ve domuzlara dönüştürüldüler.",
+        "Dağdan düşen taşların altında kaldılar.",
+        "Gökyüzünden gelen ateşle yandılar."
+      ],
+      "answer": "Kuş sürüleri tarafından taşlarla tahrip edildiler."
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

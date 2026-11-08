@@ -1,0 +1,61 @@
+{
+  "title": "Keurameun nyang ka gadôh",
+  "intro": "Kamoe meudong dikeue gema saboh masyarakat nyang kisah jih meutuleh lam gelombang. Jiwa-jiwa nyoe geudeungoe saboh panggilan, geupiléh peulawanan, dan geuhadapi saboh akibat nyang geubentuk lom bumoe. Soe awaknyan, dan peue nyang ka jeuet keu donya awaknyan?",
+  "clues": [
+    "Geutanyoe udeb yoh masa ilée, dan teuka ubak geutanyoe sidroe utusan nibak lamkawan geutanyoe keudroe.",
+    "Kamoe seumah limong boh patong dan hana kamoetem tinggai patong nyan.",
+    "Kamoe peukém utosan nyan dan kamoe tudoh gobnyan sesat.",
+    "Kamoe meutuntut jih jiba hukoman meunyo jih beutoi.",
+    "Kamoe kalon langét jitron ujeuen dan bumoe jitron mata ié.",
+    "Kamoe ék u ateueh pucak-pucak nyang manyang keu kamoe peuseulamat droe, teuma kamoe jitiyeub lé umbak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Soe Geutanyoe?",
+      "options": [
+        "Ureueng Nuh .",
+        "Ureueng 'Ad .",
+        "Ureueng Tsamud .",
+        "Ureueng Lut .",
+        "Ureung Madyan ."
+      ],
+      "answer": "Ureueng Nuh ."
+    },
+    "trial": {
+      "label": "Sidang/Acara",
+      "options": [
+        "Kamoe ka lhom lam ie raya .",
+        "Geutanyoe hancô lé angèn topan .",
+        "Kamoe mate le saboh beureutoh nyang kreuh .",
+        "Geutanyoe jiteubiet le bumoe .",
+        "Kamoe jipoh ngon batée nibak langét ."
+      ],
+      "answer": "Kamoe ka lhom lam ie raya ."
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Banjir raya .",
+        "Angen nyang teuga",
+        "Saboh hujeun batee .",
+        "Saboh beureutoh apui",
+        "Geumpa bumoe"
+      ],
+      "answer": "Banjir raya ."
+    },
+    "outcome": {
+      "label": "Hasee",
+      "options": [
+        "Geutanyoe banmandum binasa keutjuali ureueng-ureueng meuiman ngon Nuh .",
+        "Kamoe meu ubah jeut keu kera .",
+        "Kamoe jitinggai sibagoe runtuhan keu ureuëng meujak .",
+        "Geutanyoe ka geu ubah jeuet keu sira .",
+        "Kamoe geubri istirahat ."
+      ],
+      "answer": "Geutanyoe banmandum binasa keutjuali ureueng-ureueng meuiman ngon Nuh ."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

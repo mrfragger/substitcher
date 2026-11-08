@@ -1,0 +1,61 @@
+{
+  "title": "An tUalach a Thug Cneasú",
+  "intro": "Anam a ndearnadh tástáil thar thomhas air, baineadh a chompord, a chompánaigh, agus a neart coirp de. Scoite amach i ndomhan anró, níor chas an seirbhíseach seo de chuid Allah ach i dtreo an Diaga. Trí fhoighne dhochloíte agus paidir ó chroí, tháinig taoide trócaire a sháraigh gach ionchas. Cé hé an duine seo a d’oscail a dhúthracht doras athchóirithe?",
+  "clues": [
+    "Ba sheirbhíseach fabhrach ag Allah mé, ag baint taitneamh as flúirse, teaghlach rathúil, agus dea-shláinte i mo shaol.",
+    "Ansin tháinig triail: d’imigh saibhreas, d’imigh gaolta, agus bhuail pian trom mo chorp féin.",
+    "Ní raibh na daoine a bhí gar dom in ann mo riocht a sheasamh, agus fágadh mé i mo aonar, mo chorp cráite le fulaingt.",
+    "Ghlaoigh mé ar mo Thiarna, ag dearbhú gur bhain Sátan mé le tuirse agus le pionós.",
+    "Tháinig an freagra — ordú chun an talamh a bhualadh le mo chos, agus as sin shil uisce fionnuar amach le haghaidh leighis.",
+    "Bhain mo Thiarna an cruatan go hiomlán agus thug sé mo theaghlach ar ais dom, iolraithe, mar chomhartha trócaire dóibh siúd a mhachnaíonn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ayyub",
+        "an Fáidh Músa",
+        "Fáidh Iósaf",
+        "Fáidh Yunus",
+        "Fáidh Ibrahim"
+      ],
+      "answer": "Fáidh Ayyub"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Tinneas trom agus cailliúint gach duine",
+        "Caitheadh ​​isteach sa tine le hordú tíoránaigh",
+        "I bpríosún i bpoll domhain ag gaolta",
+        "Slogtha ag iasc mór ar muir",
+        "Ag fánaíocht i ndeoraíocht ón tír dhúchais"
+      ],
+      "answer": "Tinneas trom agus cailliúint gach duine"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An t-earrach fionnuar a shruthlaigh as an talamh",
+        "An tine fhionnuar agus síochánta",
+        "An áirc ina luí ar shliabh",
+        "An fhoireann a scar an fharraige",
+        "An cliabh ag snámh ar an abhainn"
+      ],
+      "answer": "An t-earrach fionnuar a shruthlaigh as an talamh"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Teaghlach agus beannachtaí athchóirithe, dúbailte",
+        "D’éalaigh sé an tine gan dochar",
+        "Ardaigh sé go dtí an oifig is airde i ríocht",
+        "Tháinig sé amach as bolg éisc mhóir go sábháilte",
+        "Threoraigh muintir trí fharraige roinnte"
+      ],
+      "answer": "Teaghlach agus beannachtaí athchóirithe, dúbailte"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

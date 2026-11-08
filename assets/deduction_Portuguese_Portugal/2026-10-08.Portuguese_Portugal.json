@@ -1,0 +1,61 @@
+{
+  "title": "Os Escultores em Pedra do Vale Antigo",
+  "intro": "Imagine uma civilização que surgiu nos vales rochosos da Arábia, habilidosa em esculpir magníficas casas nas encostas das montanhas. Eles prosperaram com força e arte, mas sua história é marcada por um desafio arrepiante à advertência divina. Ao mergulhar em sua narrativa, você descobrirá um povo cuja arrogância levou à sua completa aniquilação. Quem eram eles?",
+  "clues": [
+    "Herdamos uma terra de planícies rochosas e penhascos imponentes, onde construímos nossas moradias com uma habilidade inigualável.",
+    "Éramos conhecidos por construir casas seguras nas montanhas, sentindo-nos a salvo de qualquer mal.",
+    "Um mensageiro veio até nós, dentre nós mesmos, lembrando-nos das graças de Alá e nos advertindo sobre o castigo.",
+    "Exigimos um sinal, e uma camela milagrosa emergiu da rocha, um claro teste de Alá.",
+    "Desafiamos o aviso e cortamos os tendões da camela, zombando do mensageiro e desafiando a punição.",
+    "Uma única explosão nos atingiu em nossas casas, e pela manhã estávamos prostrados, como se nunca tivéssemos vivido ali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Povo de Thamud",
+        "Pessoas de 'Ad",
+        "Povo de Madyan",
+        "Povo de Noé",
+        "Povo de Lut"
+      ],
+      "answer": "Povo de Thamud"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Manchou os tendões da camela",
+        "Quebrou o sábado",
+        "Adoravam o bezerro de ouro",
+        "Mataram o profeta que lhes enviaram.",
+        "Construíram uma torre para alcançar o céu."
+      ],
+      "answer": "Manchou os tendões da camela"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A camela",
+        "A Arca",
+        "A equipe",
+        "A mão branca",
+        "O maná e as codornizes"
+      ],
+      "answer": "A camela"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruído por uma explosão",
+        "Salvo da destruição",
+        "Transformados em macacos",
+        "Afogado no mar",
+        "Engolido pela terra"
+      ],
+      "answer": "Destruído por uma explosão"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Alƙawarin Ba a Haife Ba",
+  "intro": "Mutum mai gaskiya ya yi alkawari mai tsarki kafin zuwan yaro. Labarin wannan mutum yana bayyana a cikin ganuwar wani wuri mai tsarki, inda ibada ke haɗuwa da karɓuwa daga Allah. Wanene wannan bawan Allah?",
+  "clues": [
+    "Na kasance cikin iyali mai daraja a cikin Alqur'ani.",
+    "Na yi alƙawarin sadaukar da ɗana da ke cikina ga bautar Allah.",
+    "Da na haihu, na yi mamakin ganin cewa 'ya mace ce, duk da cewa na yi tsammanin ɗa.",
+    "Na sanya wa ɗana suna Maryamu, suna da ke nuna ibada da hidima.",
+    "Na nemi tsarin Allah ga ɗana da zuriyarta daga Shaidan la'ananne.",
+    "Ubangiji ya karɓe yarona kuma ya sanya shi ƙarƙashin kulawar Annabi Zakariyya a cikin wurin ibada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Matar Imran (Uwar Maryam)",
+        "Asiya, matar Fir'auna",
+        "Maryamu, mahaifiyar Annabi Isa",
+        "Mahaifiyar Annabi Musa",
+        "Sarauniyar Sheba"
+      ],
+      "answer": "Matar Imran (Uwar Maryam)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Tana alƙawarin sadaukar da ɗanta ga haikali",
+        "Ana jefa shi cikin wuta",
+        "Ketare teku a kan busasshiyar ƙasa",
+        "Gina babban jirgi",
+        "Babban kifi ya haɗiye shi"
+      ],
+      "answer": "Tana alƙawarin sadaukar da ɗanta ga haikali"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Wurin ibada (mihrab) inda aka sanya ɗanta",
+        "Akwatin alkawari",
+        "Ɗan maraƙin zinariya",
+        "Sanda da ta zama maciji",
+        "Dabino da ta kwanta a ƙarƙashinsa"
+      ],
+      "answer": "Wurin ibada (mihrab) inda aka sanya ɗanta"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An karɓi ɗanta aka sanya shi ƙarƙashin kulawar Annabi Zakariyya.",
+        "An cece ta daga hukuncin azzalumi",
+        "An ba ta ɗa mai suna Yahya",
+        "Guguwa ta halaka mutanenta",
+        "Ta zama sarauniya a kan wata babbar masarauta"
+      ],
+      "answer": "An karɓi ɗanta aka sanya shi ƙarƙashin kulawar Annabi Zakariyya."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La crida inescoltada a la terra de l'arrogància",
+  "intro": "Et trobes entre les ruïnes d'una civilització que havia estat gran, on el poder i l'orgull no coneixien límits. Un missatger caminava entre ells, cridant a la veritat, però els seus cors estaven endurits. L'advertència no va ser escoltada i el cel mateix es va convertir en un instrument d'ira. Qui era aquest missatger i què va ser d'aquells que van rebutjar la crida?",
+  "clues": [
+    "Vaig ser enviat a un poble que no tenia parangó en força i que va construir un monument a cada lloc alt.",
+    "El meu poble es considerava invencible i deia: «Qui és més poderós que nosaltres en força?»",
+    "Els vaig cridar a adorar només Al·là, però em van acusar de ximpleria i mentida.",
+    "Em van desafiar a aplicar el càstig que vaig prometre si era sincer.",
+    "Al·là va enviar sobre ells un vent estèril que no va estalviar res del que va topar.",
+    "Jo i els qui van creure amb mi vam ser salvats per la misericòrdia d'Al·là, mentre que els incrèduls van ser completament destruïts."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shuaib",
+        "Profeta Lut",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Un vent devastador va destruir els incrèduls",
+        "Una gran inundació va engolir els incrèduls",
+        "Una pluja de pedres va caure",
+        "Un fort crit es va apoderar dels incrèduls",
+        "Un terratrèmol va colpejar els incrèduls"
+      ],
+      "answer": "Un vent devastador va destruir els incrèduls"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un vent implacable",
+        "Una arca de fusta",
+        "Una camella",
+        "Una pluja de pedres d'argila",
+        "Un foc ardent"
+      ],
+      "answer": "Un vent implacable"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hud i els creients van ser salvats, i els incrèduls van ser destruïts",
+        "Hud va ser elevat a una alta posició",
+        "Hud va ser assassinat pel seu poble",
+        "El poble de Hud es va penedir i es va salvar",
+        "Hud va abandonar el seu poble abans de qualsevol càstig"
+      ],
+      "answer": "Hud i els creients van ser salvats, i els incrèduls van ser destruïts"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

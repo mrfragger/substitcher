@@ -1,0 +1,61 @@
+{
+  "title": "Subiranoaren menpekotasun handia",
+  "intro": "Antzinako mirari eta errebelazio sakonen lurralde batean aurkitzen zara. Agintari boteretsu batek, ustekabeko gonbidapen baten aurrean, bere patuaren eta bere herriaren fedearen norabidea aldatuko zuen bidaia bati ekin zion. Pertsonaia dotore honen nortasuna argitu ahal izango duzu?",
+  "clues": [
+    "Erresuma oparoa gobernatu nuen, aberastasun izugarriz eta tronu bikain batez apaindua.",
+    "Nire jendeak eta nik zeruko gorputz bat gurtzen genuen, gure jauna zela sinetsita, nahiz eta zalantzak izan bihotzean.",
+    "Mezulari berezi batek, txori batek, gutun bat eman zidan, ni eta nire herria Jainko Bakarrari men egitera deituz.",
+    "Aurrekaririk gabeko mezu honi nola erantzun jakiteko, nire aholkulariei, indar handikoei, kontsultatu nien.",
+    "Gutuna bidali zuenari opari baliotsu bat bidaltzea erabaki nuen, bere boterea eta asmoak neurtzeko asmoz.",
+    "Iristean, harrituta geratu nintzen beirazko zorua zuen jauregi batekin, ur putzu baten itxurarekin, eta orduan adierazi nion nire menpekotasuna sorkuntza guztiaren Jaunari."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Faraoia",
+        "Sabako erregina",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Yusuf profeta"
+      ],
+      "answer": "Sabako erregina"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsasoaren zatiketa.",
+        "Uholde handia.",
+        "Sulayman profeta ezagutzeko bidaia",
+        "Lut herriaren suntsipena",
+        "Ibrahim profetaren erreketa"
+      ],
+      "answer": "Sulayman profeta ezagutzeko bidaia"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Tronua",
+        "Mendia",
+        "Sua"
+      ],
+      "answer": "Tronua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Profeta bihurtu zen.",
+        "Ala-k suntsitu zuen",
+        "Islama bereganatu zuen",
+        "Bere herria gerrara eraman zuen",
+        "Tenplu handi bat eraiki zuen"
+      ],
+      "answer": "Islama bereganatu zuen"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

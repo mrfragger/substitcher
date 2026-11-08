@@ -1,0 +1,61 @@
+{
+  "title": "Gli Inviati di Misericordia e Potenza",
+  "intro": "Immaginate un tranquillo pomeriggio interrotto dall'arrivo di viaggiatori sconosciuti. Il loro aspetto è ordinario, ma il loro scopo è tutt'altro che ordinario. Portano un messaggio divino che cambierà il corso di due nazioni, portando gioia in una casa desolata e terrore in una città peccaminosa. Chi sono questi misteriosi visitatori?",
+  "clues": [
+    "Fummo inviati da un devoto servitore di Allah, noto per la sua sconfinata ospitalità.",
+    "Arrivammo sotto le spoglie di estranei, eppure il nostro ospite percepì qualcosa di ultraterreno nella nostra presenza.",
+    "Abbiamo portato una notizia che ha fatto ridere incredula un'anziana signora, la quale si è data delle pacche sul viso per lo stupore.",
+    "Il nostro compito era proteggere una famiglia onesta, seminando distruzione in una città intrisa di corruzione.",
+    "Abbiamo rifiutato il pasto che ci era stato offerto, il che non ha fatto altro che accrescere i sospetti del nostro ospite.",
+    "Abbiamo rivelato la nostra vera natura solo prima di partire, dicendo: \"In verità, siamo messaggeri del vostro Signore\"."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Gli ospiti di Abramo",
+        "I discepoli di Gesù",
+        "I compagni della caverna",
+        "L'esercito di Abraha",
+        "I messaggeri di Ya-Sin"
+      ],
+      "answer": "Gli ospiti di Abramo"
+    },
+    "trial": {
+      "label": "La nostra missione",
+      "options": [
+        "Per mettere alla prova la fede di Abramo riguardo a suo figlio",
+        "Per consegnare le Scritture ad Abramo",
+        "Per annunciare la nascita di Isacco e la distruzione del popolo di Lot.",
+        "Per guidare Abramo alla Kaaba",
+        "Per salvare Abramo dal fuoco"
+      ],
+      "answer": "Per annunciare la nascita di Isacco e la distruzione del popolo di Lot."
+    },
+    "location": {
+      "label": "Luogo di apparizione",
+      "options": [
+        "Nella terra d'Egitto",
+        "Nella città di Ur",
+        "Nella casa di Abramo",
+        "Nel giardino dell'Eden",
+        "Al pozzo di Zamzam"
+      ],
+      "answer": "Nella casa di Abramo"
+    },
+    "outcome": {
+      "label": "Il risultato",
+      "options": [
+        "Abramo divenne re",
+        "Abramo costruì la Kaaba",
+        "Sara diede alla luce Isacco e il popolo di Lot fu distrutto",
+        "Abramo emigrò in Palestina",
+        "Il popolo di Abramo fu salvato da un grande diluvio"
+      ],
+      "answer": "Sara diede alla luce Isacco e il popolo di Lot fu distrutto"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

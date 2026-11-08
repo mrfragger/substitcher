@@ -1,0 +1,61 @@
+{
+  "title": "Skiltet blandt stenene",
+  "intro": "I et land, hvor bjerge var hugget ind i huse, ankom en budbringer med et mirakuløst tegn fra Allah. Folket krævede bevis, og de modtog en skabning fra en solid klippe. Men deres arrogance fik dem til at trodse advarslen og besegle deres skæbne.",
+  "clues": [
+    "Jeg blev sendt til et folk, der boede i boliger udhugget i bjerge.",
+    "De udfordrede mig til at medbringe et skilt, så jeg frembragte en kamel fra en klippe.",
+    "Jeg befalede dem at lade kamelen drikke frit og ikke gøre den fortræd.",
+    "De var ulydige og skar haserne over kamelen, i modstrid med min advarsel.",
+    "Jeg meddelte, at straffen ville komme efter tre dage.",
+    "Om morgenen blev de ødelagt af et voldsomt vindstød, men jeg og mine tilhængere blev reddet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Salih",
+        "Profeten Hud",
+        "Profeten Lut",
+        "Profeten Shu'ayb",
+        "Profeten Ibrahim"
+      ],
+      "answer": "Profeten Salih"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Efterspørgsel efter en hunkamel fra en klippe",
+        "Efterspørgslen efter en guldkalv",
+        "Efterspørgslen efter et bord spredes fra himlen",
+        "Krav om oversvømmelse",
+        "Krav om, at en stav skal blive til en slange"
+      ],
+      "answer": "Efterspørgsel efter en hunkamel fra en klippe"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Hunkamelen og hendes kalv",
+        "Noahs ark",
+        "Moses' stav",
+        "Den gyldne kalv",
+        "Ibrahims ild"
+      ],
+      "answer": "Hunkamelen og hendes kalv"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ødelagt af et voldsomt brag",
+        "Druknede i oversvømmelsen",
+        "Opslugt af jorden",
+        "Forvandlet til aber",
+        "Ødelagt af en voldsom vind"
+      ],
+      "answer": "Ødelagt af et voldsomt brag"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

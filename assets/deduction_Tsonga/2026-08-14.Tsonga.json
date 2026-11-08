@@ -1,0 +1,61 @@
+{
+  "title": "Mavoko Lama Rhukaniweke",
+  "intro": "U yime eswitarateni leswi rhendzelekaka swa Makkah ya khale, laha moya-xiviri wa nkucetelo ni rifuwo wu tshameke wu fularhela xirhambo xa ntiyiso. Mhaka ya xifaniso lexi i xitsundzuxo lexikulu xa leswaku vuxaka bya ngati a byi nge hluli tinketana ta ku tikukumuxa. I mani loyi vito ra yena ri twalaka ni ndzilo lowu rindzeleke?",
+  "clues": [
+    "Ndzi fambe eswitarateni swa Makkah hi ku tikukumuxa loku ndzi pfala mahlo leswaku ndzi nga voni ntiyiso, hambileswi murhumiwa loyi a a ri wa ngati ya mina.",
+    "Nhundzu ya mina a yi ri yikulu, kambe yi hundzuke ndzhukano ku nga ri xitlhangu.",
+    "Buku ya nkongomiso yi vulavula hi ku onhaka ka mina, yi tivisa leswaku mavoko ya mina ni munhu wa mina swi ta lova.",
+    "Musati wa mina u joyine tsima ra mina ra vulala, a hlengeleta mitwa leswaku a hangalasa endleleni ya loyi a vitaneke eka Allah.",
+    "Hi siku ra ku avanyisa, ndzi ta nghenisiwa endzilweni wa langavi leri pfurhaka, kutani munghana wa mina wa vukati u ta va ni ntambhu ya ntambhu ya ncindzu enhan’wini.",
+    "Ndzi tiviwa hi vito leri vulaka ‘tata wa malangavi’ — vito leri vhumbhaka vutshamo bya mina lebyi nga heriki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Abu Lahab hi yena",
+        "Abu Jahl",
+        "Abu Talib, ku vula yena",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira, ku vula ka yena"
+      ],
+      "answer": "Abu Lahab hi yena"
+    },
+    "trial": {
+      "label": "Xikambelo xa Nkoka kumbe Xiendlakalo",
+      "options": [
+        "U kanete Muprofeta naswona u rhukaniwile eka Quran",
+        "U rhangele vuthu ro herisa Kaaba",
+        "U ringetile ku dlaya Muprofeta hi ku hoxa maribye",
+        "U arile ku pfumela eka ku avana ka n’weti",
+        "U ake xihondzo xo fika ematilweni"
+      ],
+      "answer": "U kanete Muprofeta naswona u rhukaniwile eka Quran"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ndzilo lowu pfurhaka wa Tihele",
+        "Ntirhi wa Musa",
+        "Areka ya Nuh",
+        "Xihlovo xa Zamzam",
+        "Rhole ra Nsuku"
+      ],
+      "answer": "Ndzilo lowu pfurhaka wa Tihele"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U ta nghena eNdzilweni lowu pfurhaka, naswona rifuwo ra yena a ri nge n’wi pfuni nchumu",
+        "U hundzukile kutani a va mupfumeri",
+        "U rivaleriwile endzhaku ko tshika",
+        "U fe a ri mudlawela-ripfumelo",
+        "U tlakusiwile ematilweni"
+      ],
+      "answer": "U ta nghena eNdzilweni lowu pfurhaka, naswona rifuwo ra yena a ri nge n’wi pfuni nchumu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

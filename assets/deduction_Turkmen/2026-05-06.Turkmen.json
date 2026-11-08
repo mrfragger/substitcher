@@ -1,0 +1,61 @@
+{
+  "title": "Ýanýan Çöpden Ses",
+  "intro": "Ýoly gudratly duşuşyk bilen başlanan we ykbaly ezilen halkyň azatlygy bilen baglanyşykly bolan çuňňur şahsyýetiň kimligini açyň. Bu şahsyýet Hudaýyň goldawy bilen ägirt uly kynçylyklara duçar bolup, ägirt uly wezipe üçin saýlandy.",
+  "clues": [
+    "Men halkymyň çagalarynyň öldürilýän uly zulum döwründe doguldym.",
+    "Meniň ýaşlygym ene-atam tarapyndan derýanyň kenarynda ýerleşdirilip, halkymyň zulumçysynyň öýünde tapylyp, ulaldym.",
+    "Men bir gezek dawanyň dowamynda bilkastlaýyn däl ýagdaýda bir adamyň ölümine sebäp bolanymdan soň şäherden gaçyp gitdim.",
+    "Men mukaddes ýerde ilahi habary we gudratly taýagy aldym, şol ýerde maňa güýçli hökümdar bilen ýüzbe-ýüz bolmak tabşyryldy.",
+    "Gürlemegimde bir kemçilik duýulýandygy sebäpli, doganym meniň wezipämde kömekçi hökmünde bellendi.",
+    "Men halkymy zalym goşunyň yzyndan gaçyp, iki bölege bölünen deňizden geçirdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ýusup pygamber",
+        "Isa pygamber",
+        "Musa pygamber",
+        "Nuh pygamber",
+        "Ybraýym pygamber"
+      ],
+      "answer": "Musa pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Çydamly gurakçylyk ýyllary",
+        "Gämi gurmak",
+        "Fyrown we onuň jadygöýleri bilen ýüzbe-ýüz bolmak",
+        "Otly peje taşlanýar",
+        "Semudyň halkynyň ýok edilmegi"
+      ],
+      "answer": "Fyrown we onuň jadygöýleri bilen ýüzbe-ýüz bolmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Käbe",
+        "Demir diwar",
+        "Işgärler",
+        "Nuhyň gämisi",
+        "Süleýmanyň ýüzügi"
+      ],
+      "answer": "Işgärler"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Sodom şäheri agdaryldy",
+        "Halky ýer ýuwutdy",
+        "Beýik sil ýeri basdy",
+        "Fyrown we onuň goşuny suwa gark boldular",
+        "Şäher diwarlary bir gykylykdan ýykyldy"
+      ],
+      "answer": "Fyrown we onuň goşuny suwa gark boldular"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

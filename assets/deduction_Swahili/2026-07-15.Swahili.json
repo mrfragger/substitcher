@@ -1,0 +1,61 @@
+{
+  "title": "Mafungo ya Pekee",
+  "intro": "Katika kumbukumbu za neema ya Mungu, kuna roho ya usafi usio na kifani, iliyotengwa na watu wao kutafuta upweke katika mwelekeo mtakatifu. Hawakujua kwamba upweke huu ungeleta ishara kwa walimwengu wote, jaribio la imani ambalo lingezungumziwa milele.",
+  "clues": [
+    "Nilijitolea kwa maisha ya utumishi kabla ya kuzaliwa kwangu.",
+    "Niliwekwa chini ya ulinzi wa nabii mtukufu.",
+    "Niliruzukuwa na riziki kutoka kwa Mwenyezi Mungu ambazo zilimshangaza mlezi wangu.",
+    "Nilijitenga na familia yangu na kwenda sehemu ya mashariki.",
+    "Malaika alinitokea katika umbo la mtu mkamilifu, akileta habari za mwana msafi.",
+    "Niliporudi na mtoto wangu mchanga, watu wangu walinishtaki, lakini mtoto mchanga alinitetea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Maryam (Mariamu)",
+        "Asiyah (mke wa Farao)",
+        "Hajar (mama yake Ismail)",
+        "Sara (mke wa Ibrahim)",
+        "Mama yake Musa"
+      ],
+      "answer": "Maryam (Mariamu)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutungwa mimba kwa muujiza na kuzaliwa kwa mwana",
+        "Kutupwa motoni",
+        "Kumezwa na samaki mkubwa",
+        "Kujenga safina kubwa",
+        "Kuvuka bahari"
+      ],
+      "answer": "Kutungwa mimba kwa muujiza na kuzaliwa kwa mwana"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mahali pa faragha mashariki",
+        "Kichaka kinachowaka moto",
+        "Bahari Nyekundu",
+        "Mwamba ambao maji yalitiririka",
+        "Nyangumi"
+      ],
+      "answer": "Mahali pa faragha mashariki"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mtoto mchanga alizungumza akimtetea mama",
+        "Bahari iligawanyika",
+        "Moto ukawa baridi na salama",
+        "Nyangumi alitapika ufukweni",
+        "Safina ilitua juu ya mlima"
+      ],
+      "answer": "Mtoto mchanga alizungumza akimtetea mama"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

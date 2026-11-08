@@ -1,0 +1,61 @@
+{
+  "title": "Kamogelo e e neng ya tlisa poifo",
+  "intro": "Mo motseng o o neng o jetswe ke boikepo, motlhanka mongwe yo o ikanyegang o ne a amogela baeng ba ba neng ba sa ba lebelela letsatsi lengwe. E re ka motho yono a ne a tshwenyegile ka pabalesego ya bone, o ne a ithaopela go ba sireletsa, mme batho ba motse oo ba ne ba batla sengwe se se tlhabisang ditlhong. E re ka motlhanka yono a ne a tlhagisiwa ka tshenyego e e neng e tla, o ne a tshaba le ba lelapa la gagwe a bipile lefifi, a tlogela motse o o neng o tshwailwe gore o tla senngwa. Modumedi yono yo o nosi ke mang?",
+  "clues": [
+    "Ke ne ke romilwe jaaka morongwa kwa bathong ba ba neng ba dirile ditiro tse di tlhabisang ditlhong.",
+    "Go ne ga tla baeng ba ke sa ba lebelelang kwa legaeng la me, mme ke ne ke tshwenyegile thata ka pabalesego ya bone go na le ya me.",
+    "Batho ba gaetsho ba ne ba batla go bona baeng ba me ka maikaelelo a a bosula, mme ke ne ke leka go buisana le bone.",
+    "Baeng ba me ba ne ba itshenola e le baengele mme ba ntaela gore ke tseye lelapa la gaetsho mme ke tsamaye bosigo.",
+    "Mosadi wa me ga a ka a tsaya tsia pitso ya go tshaba mme a lebana le tshenyo e e tshwanang le ya batho ba gaetsho.",
+    "Motse wa me o ne wa menolwa ke pula ya maje a letsopa le le tlhatlaganeng, dikarolo tsa one tse di kwa godimo tsa tlisiwa kwa tlase thata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Lute",
+        "Moporofeti Musa",
+        "Moporofeti Ibrahime",
+        "Moporofeti Nuh",
+        "Moporofeti Hud"
+      ],
+      "answer": "Moporofeti Lute"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Tlhokego ya batho ba me ya go atamela baeng ba me ka bosula",
+        "Go kgaogana ga lewatle go falola mogateledi",
+        "Go agiwa ga araka e kgolo mo gare ga tshotlo",
+        "Setlhabelo sa morwaake mo tekong ya tumelo",
+        "Maitemogelo a go mediwa ke tlhapi e kgolo"
+      ],
+      "answer": "Tlhokego ya batho ba me ya go atamela baeng ba me ka bosula"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Motse o o menotsweng wa batho ba me",
+        "Thaba e ke neng ka amogela puo ya bomodimo mo go yone",
+        "Areka e e neng ya tsamaya mo morwaleleng o mogolo",
+        "Kamela e namagadi e e neng ya tswa mo lefikeng",
+        "Tshingwana e e nang le moeng yo o siameng yo o fitlhegileng"
+      ],
+      "answer": "Motse o o menotsweng wa batho ba me"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ke ne ka bolokwa le ba lelapa la gaetsho pele ga motse wa gaetsho o menolwa",
+        "Ke gogetse batho ba gaetsho kwa kgololesegong go kgabaganya lewatle",
+        "Ke ne ka aga araka e kgolo mme ka falola morwalela o mogolo",
+        "Ke ne ka newa taolo mo diphefong le mo dijinn",
+        "Ke ne ka itshokela pogo ka bopelotelele mme ka duelwa ka lelapa"
+      ],
+      "answer": "Ke ne ka bolokwa le ba lelapa la gaetsho pele ga motse wa gaetsho o menolwa"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

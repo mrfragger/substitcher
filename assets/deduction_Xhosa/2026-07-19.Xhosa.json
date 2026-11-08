@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi Elingathotyelwanga Leenkulungwane",
+  "intro": "Kwixesha elide ngaphambi kokuba kuvuke izixeko ezikhulu, kwavuka umphefumlo ongatshatanga phakathi kwabantu ababeyishiyile inyaniso. Ubulukhuni babo bahambelana kuphela nomonde walo mvakalisi uyedwa, owacela izizukulwana ngezizukulwana ngaphandle kokulahlekelwa sisigqibo. Xa zonke izilumkiso zawela kwiindlebe ezingevayo, uqikelelo olungazange lubonwe ngaphambili lwawuguqula umhlaba ngokwawo. Namhlanje, iinkumbulo zalo bali zisavakala kuyo yonke ingqokelela. Ngaba ungawubona lo mphefumlo uzimiseleyo?",
+  "clues": [
+    "Ndakhulela phakathi kwabantu ababenqula izithixo zobuxoki kwaye bengayinaki imiqondiso ebangqongileyo, kodwa ndakhethwa ukuba ndibavuse ekungakhathalini kwabo.",
+    "Ndibabize abantu bam ngokuphindaphindiweyo, kodwa bandityhola ngokuba ngumntu onjengabo, ndihlekisa ngomyalezo wam kwaye ndivala iindlebe zabo.",
+    "Ubusuku nemini, bendibabongoza ngobulumko nangezikhumbuzo ezithambileyo, kodwa amazwi am ayebonakala ngathi ayanyamalala emoyeni, engaviwa kwaye engathotyelwa.",
+    "Phantsi komyalelo kaThixo, ndakha isitya esikhulu semithi namaplanga emhlabeni owomileyo, baza abantu bam bandihleka njengomntu ophelelwe lingqiqo.",
+    "Xa kwafika umkhukula omkhulu njengoko wayethembisile, unyana wam wala ukukhwela enqanaweni nam, ekholelwa ukuba intaba yayiza kumkhusela emanzini anyukayo.",
+    "Ndaba ngusolusapho wesiqalo esitsha emhlabeni, kwaye ibali lam ligcinwe kwisahluko seQuran esibizwa ngegama lam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uNuh",
+        "Umprofeti uIbrahim",
+        "Umprofeti uMusa",
+        "Umprofeti uLut",
+        "Umprofeti uHud"
+      ],
+      "answer": "Umprofeti uNuh"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "UMkhukula Omkhulu owatshintsha umhlaba",
+        "Ukuphoswa emlilweni ovuthayo ngabanquli bezithixo",
+        "Ukungqubana nezazi zikaFaro esigodlweni",
+        "Ukutshatyalaliswa kweegadi ezichumileyo sisivuthuvuthu sasezulwini",
+        "Ukubhukuqwa kwabahlali basemseleni"
+      ],
+      "answer": "UMkhukula Omkhulu owatshintsha umhlaba"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya eyakhiwe ngamaplanga kunye neeplanga",
+        "Indlu engcwele eyakhelwe phezu kweziseko zakudala",
+        "Intonga eyaguquka yaba yinyoka",
+        "Umqolomba wolutsha oluleleyo",
+        "Itrone ithwelwe sisidalwa esinamandla"
+      ],
+      "answer": "Ityeya eyakhiwe ngamaplanga kunye neeplanga"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Abangakholwayo batshona ngelixa amakholwa esindiswa emkhombeni",
+        "Umlilo waphola kwaye wakhuseleka, waza umntu ofowunayo waphuma engenakwenzakala.",
+        "Izazi zawa phantsi zaza zamkela ukholo",
+        "Igadi yanikwa ummelwane olungileyo endaweni yayo",
+        "Abaleleyo bavuka emva kweenkulungwane, baguqulwa"
+      ],
+      "answer": "Abangakholwayo batshona ngelixa amakholwa esindiswa emkhombeni"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sebaka sa ho Ikhutsa sa Botho",
+  "intro": "Litlalehong tsa mohau oa bomolimo, ho na le moea o hloekileng o sa bapisoeng le o mong, o arotsoeng ho batho ba bona ho batla boinotši ka tsela e halalelang. Ba ne ba sa tsebe hore boinotši bona bo tla tlisa pontšo bakeng sa mafatše 'ohle, teko ea tumelo e tla buuoa ka eona ka ho sa feleng.",
+  "clues": [
+    "Ke ne ke inehetse bophelong ba tšebeletso pele ke tsoaloa.",
+    "Ke ile ka beoa tlas'a tlhokomelo ea moprofeta ea hlomphehang.",
+    "Ke ile ka tšehetsoa ke lijo tse tsoang ho Allah tse ileng tsa makatsa mohlokomeli oa ka.",
+    "Ke ile ka ikhula ho ba lelapa leso ho ea sebakeng se ka bochabela.",
+    "Lengeloi le ile la hlaha ho 'na ka sebōpeho sa motho ea phethahetseng, le tlisa litaba tsa mora ea hloekileng.",
+    "Ha ke kgutla le lesea la ka le sa tswa tswalwa, batho ba heso ba ile ba nqosa, empa lesea le ile la bua ho ntwela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Maryam (Maria)",
+        "Asiyah (mosadi oa Faro)",
+        "Hajar (mme oa Ismail)",
+        "Sarah (mosadi oa Ibrahim)",
+        "'Mè oa Musa"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Kemolo e makatsang le tsoalo ea mora",
+        "Ho lahleloa mollong",
+        "Ho metsoa ke tlhapi e kgolo",
+        "Ho haha ​​​​areka e kholo",
+        "Ho tšela leoatle"
+      ],
+      "answer": "Kemolo e makatsang le tsoalo ea mora"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Sebaka se ka thoko sa bochabela",
+        "Sehlahla se tukang",
+        "Leoatle le Lefubelu",
+        "Lefika leo metsi a ileng a phalla ho lona",
+        "Leruarua"
+      ],
+      "answer": "Sebaka se ka thoko sa bochabela"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Lesea le ile la bua ho sireletsa 'm'a lona",
+        "Leoatle le ile la aroloa",
+        "Mollo o ile oa bata 'me oa bolokeha",
+        "Leruarua le ile la hlatsa lebopong",
+        "Areka e ile ea lula thabeng"
+      ],
+      "answer": "Lesea le ile la bua ho sireletsa 'm'a lona"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

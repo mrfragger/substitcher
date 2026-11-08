@@ -1,0 +1,61 @@
+{
+  "title": "San izvan vremena",
+  "intro": "Zamislite vrijeme kada je istina bila ušutkana, a vjernici progonjeni. Mala skupina odabrala je povlačenje umjesto predaje, pronašavši utočište na najneočekivanijim mjestima - mjestu koje će postati njihovo odmorište stoljećima bezbroj puta. Kad su se konačno probudili, svijet oko njih se preobrazio. Tko su te usnule duše?",
+  "clues": [
+    "Bili smo mladi ljudi koji su živjeli u drevnom gradu.",
+    "Naša zajednica je zahtijevala da se klanjamo zajedno s njima, ali smo odbili.",
+    "Pobjegli smo iz grada tražeći utočište od onih koji su se protivili našim uvjerenjima.",
+    "Vjerni četveronožni pratilac ostao je na ulazu u naše skrovište.",
+    "Allah nas je uspavao tri stotine i devet godina.",
+    "Kad smo se konačno probudili, naš nekada progoniteljski grad prihvatio je vjeru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko smo mi?",
+      "options": [
+        "Ashab al-Kahf (Ljudi iz pećine)",
+        "Ashab al-Fil (Vojska slona)",
+        "Ashab al-Uhdud (Ashabi iz rova)",
+        "Hawariyyun (Isaovi učenici)",
+        "Yajuj wa Majuj (Gog i Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Ljudi iz pećine)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Povukli smo se u pećinu i spavali stoljećima",
+        "Spašeni smo od plamtećeg požara",
+        "Progutala nas je velika riba",
+        "Bili smo testirani s čudesnom devom",
+        "Dobili smo devet jasnih znakova"
+      ],
+      "answer": "Povukli smo se u pećinu i spavali stoljećima"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Duboka pećina u planinama",
+        "Brod na otvorenom moru",
+        "Impozantna građevina koja doseže nebesa",
+        "Vrt podijeljen između dva suparnika",
+        "Barijera od željeza i bakra"
+      ],
+      "answer": "Duboka pećina u planinama"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Probudili smo se i otkrili da se naš grad okrenuo vjeri",
+        "Plamteća vatra postala je hladna i mirna",
+        "Neprijateljska vojska se utopila u moru",
+        "Ptice koje nose kamenje uništile su neprijatelja",
+        "Velika riba nas je pustila na obalu"
+      ],
+      "answer": "Probudili smo se i otkrili da se naš grad okrenuo vjeri"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

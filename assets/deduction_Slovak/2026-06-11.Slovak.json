@@ -1,0 +1,61 @@
+{
+  "title": "Dedina na brehu súdu",
+  "intro": "Ocitnete sa v pobrežnej dedine, kde sa zvuk vĺn mieša so šepotom zabudnutého ľudu. Dostali príkaz odpočívať, ale ich chamtivosť viedla k trestu, o ktorom sa dodnes hovorí potichu. Dokážete odhaliť, kto boli?",
+  "clues": [
+    "Bývali sme pri pobreží a dostali sme príkaz dodržiavať deň odpočinku.",
+    "V ten deň k nám prichádzalo množstvo rýb, ale mali sme zakázané ich brať.",
+    "Niektorí z nás varovali pred priestupkami, ale iní sa aj tak sprisahali, že budú loviť ryby.",
+    "Porušili sme posvätný príkaz a privolali sme si prísny trest.",
+    "Naším trestom bola premena, ktorá nás znetvorila a zneuctila.",
+    "Boli sme premenení na opice, znamenie pre všetkých, ktorí prídu potom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia Sabatu",
+        "Ľudia z Thamudu",
+        "Ľudia z 'Ad",
+        "Ľudia z jaskyne",
+        "Ľudia slona"
+      ],
+      "answer": "Ľudia Sabatu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Rybolov v sobotu",
+        "Uctievanie zlatého teľaťa",
+        "Popieranie Hudovho posolstva",
+        "Zabitie ťavy",
+        "Stavba veže do neba"
+      ],
+      "answer": "Rybolov v sobotu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Ryba",
+        "Ťava",
+        "Zamestnanci",
+        "Loď",
+        "Záhrada"
+      ],
+      "answer": "Ryba"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Premenené na opice",
+        "Zničené povodňou",
+        "Zničený planúcim požiarom",
+        "Pohltený zemou",
+        "Rozptýlené vetrom"
+      ],
+      "answer": "Premenené na opice"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

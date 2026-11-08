@@ -1,0 +1,61 @@
+{
+  "title": "Doroba Leri Pfumelaka Nkarhi",
+  "intro": "Eka tibuku ta matimu ya tintswalo ta Xikwembu, ku na vaaki lava ku cinca ka vona a ku ri nkarhi wa ku lemuka hi vun’we. U le kusuhi ni ku paluxa xitori xa vona—ntsheketo wa xilemukiso, ku hundzuka ni ku wisa loku va hambanisaka ni vuyelo bya matiko man’wana.",
+  "clues": [
+    "A hi ri vanhu lava ku rhumeriweke murhumiwa eka vona, naswona hi fularhele ku vitaniwa ka yena eku sunguleni.",
+    "Loko swikombiso swa nxupulo lowu tshinelaka swi va erivaleni, hi xiye ntiyiso wa xilemukiso xa yena.",
+    "Hi hundzukele eka Hosi ya hina hi ku hundzuka loku humaka embilwini, naswona ripfumelo ra hina ri amukeriwile.",
+    "Nxupulo lowu a wu vekiwile eka hina wu susiwile hikwalaho ka ripfumelo ra hina.",
+    "Mhaka ya hina yi tshahiwa tanihi xihlawuhlawu exikarhi ka madoroba lama pfumeleke endzhaku ko vona nxupulo.",
+    "A hi ri vanhu va muprofeta loyi a mitiweke hi nhova, hambiswiritano hi ponisiwile eku lovisiweni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vanhu va le Yunus",
+        "Vanhu va le Nuh",
+        "Vanhu va le Hud",
+        "Vanhu va le Salih",
+        "Vanhu va Lut"
+      ],
+      "answer": "Vanhu va le Yunus"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ndhambi leyi onhaka swinene",
+        "Xidzedze xa moya lexikulu",
+        "Nxupulo lowu tshinelaka wa tingana lowu siveleriweke",
+        "Misava yi va mita",
+        "Mpfula ya maribye"
+      ],
+      "answer": "Nxupulo lowu tshinelaka wa tingana lowu siveleriweke"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Areka",
+        "Kamela ya xisati",
+        "Muti wa dzana ra magidi",
+        "Vatirhi va Musa",
+        "Ndzawulo ya vuhlayiselo bya Qarun"
+      ],
+      "answer": "Muti wa dzana ra magidi"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Va lovisiwile hi ku helela",
+        "Va nyikiwe ntsako swa xinkarhana",
+        "Va hundzuriwile va va tindlopfu",
+        "Va nwile",
+        "Va mitiwe hi misava"
+      ],
+      "answer": "Va nyikiwe ntsako swa xinkarhana"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

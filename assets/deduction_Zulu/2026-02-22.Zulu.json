@@ -1,0 +1,61 @@
+{
+  "title": "Ukubekezela Komphefumulo Ohluphekile",
+  "intro": "Ezincwadini zomlando, kukhona umuntu ogama lakhe lisho ukukhuthazela. Lo muntu wavivinywa ngokulahlekelwa yiyo yonke induduzo yezwe, kodwa wahlala eyinceku ezinikele yoMdali. Phakathi neminyaka yobunzima nokugula ngokomzimba, inhliziyo yalo mphefumulo yahlala igxilile okholweni, inikeza ukukhanya kwethemba kubo bonke ababhekene nobunzima.",
+  "clues": [
+    "Ngangiyinceku ezinikele ka-Allah, ngibusiswe ngengcebo eningi, izingane eziningi, nempilo enhle kakhulu.",
+    "Ukuphila kwami ​​kwashintsha lapho ngiphucwa ingcebo yami nomndeni wami, kwangishiya ngingenalutho ngaphandle kokholo lwami.",
+    "Ngangihlushwa isifo esihlala isikhathi eside nesibuhlungu esasivivinya imikhawulo yokukhuthazela komuntu.",
+    "Phakathi nokuhlupheka kwami, ngenqaba ukukhononda ngeNkosi yami, ngisho nalapho isitha sizama ukungiholela ekuphelelweni yithemba.",
+    "Ekugcineni lapho ngibiza iNkosi yami, angizange ngicele ingcebo, kodwa ngavuma nje ukuthi usizi lwalungithinte.",
+    "Ngatshelwa ukuthi ngishaye umhlabathi ngonyawo lwami, futhi kuwo kwaphuma umthombo wamanzi abandayo ukuze ngiphulukise umzimba wami futhi ngiqede ukoma kwami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uYaqub",
+        "Umprofethi u-Ayyub",
+        "Umprofethi uZakariya",
+        "Umprofethi uYahya",
+        "Umprofethi uShu'ayb"
+      ],
+      "answer": "Umprofethi u-Ayyub"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Iminyaka yokugula okukhulu nokulahlekelwa",
+        "Ukuphonswa emthonjeni ojulile",
+        "Ukugwinywa yinhlanzi enkulu",
+        "Ukubhekana nomashiqela emlilweni",
+        "Uhambo olude lokufuna uthisha"
+      ],
+      "answer": "Iminyaka yokugula okukhulu nokulahlekelwa"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Intonga eyahlukanisa ulwandle",
+        "Ihembe elalinuka iphunga lasekhaya",
+        "Umthombo wamanzi ophulukisayo",
+        "Intaba eyadilika yaba uthuli",
+        "Umhume wobuthongo obukhulu"
+      ],
+      "answer": "Umthombo wamanzi ophulukisayo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukuba umbusi wezwe elikhulu",
+        "Ukuhola ibutho ekunqobeni",
+        "Ukubuyiselwa kwempilo nomndeni",
+        "Ukwakha indlu engcwele yokukhulekela",
+        "Ukwamukela itafula elibekwe ezulwini"
+      ],
+      "answer": "Ukubuyiselwa kwempilo nomndeni"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

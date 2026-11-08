@@ -1,0 +1,61 @@
+{
+  "title": "Opeřený skaut",
+  "intro": "V království ovládaném jedním, komu byla udělena moc nad větry, neviditelnými bytostmi a nebeskými tvory, jeden malý a rychlý člen zmizel z řad – jen aby se vrátil s odhaleními, která změnila osud vzdáleného národa. Tento bystrý informátor vynesl pravdu na světlo tam, kde se zakořenila nevědomost. Kdo jsem?",
+  "clues": [
+    "Sloužil jsem u dvora, kde lidé, neviditelné bytosti a nebeská stvoření podléhali jedinému moudrému vládci, který velel samotným větrům.",
+    "Nějakou dobu jsem byl nepřítomen na svém místě a vládce mě postihl hněv, pokud nepředložím uspokojivý důvod.",
+    "Jsem malý létající tvor, známý pro bystrý zrak, a můj druh byl poctěn přímým pojmenováním na stránkách zjevení.",
+    "Když jsem se vrátil, přinesl jsem zprávu o vzdálené zemi, kde se lidé klaněli slunci, slepí vůči Tomu, kdo stvořil nebesa i zemi.",
+    "Našel jsem ženu vládnoucí velkému království, sedící na velkolepém trůnu, která nikdy předtím nepoznala pravdu.",
+    "Já jsem ten, kdo objevil říši Saba a přinesl pozvání od krále-proroka, jemuž byla dána vláda nad větrem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Dudek (Hudhud)",
+        "Mravenec ze Sulajmanova údolí",
+        "Asif ibn Barkhiya",
+        "Ifrit Džin",
+        "Anděl trůnu"
+      ],
+      "answer": "Dudek (Hudhud)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Expedice do království Saba (Šeba)",
+        "Střet s faraonovými čaroději",
+        "Potopa proroka Nuha",
+        "Zničení lidu z Adu",
+        "Rozdělení Rudého moře"
+      ],
+      "answer": "Expedice do království Saba (Šeba)"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Země Saba (Šeba)",
+        "Hora Sinaj",
+        "Archa proroka Nuha",
+        "Jeskyně Ashab al-Kahf",
+        "Faraonský palác"
+      ],
+      "answer": "Země Saba (Šeba)"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Bilqis se podrobil Sulajmánovu dvoru",
+        "Faraon a jeho armáda se utopili v moři",
+        "Obyvatele Adu zničil prudký vítr",
+        "Faraónovi čarodějové věřili v proroka Músu",
+        "Velká potopa pohltila nevěřící"
+      ],
+      "answer": "Bilqis se podrobil Sulajmánovu dvoru"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

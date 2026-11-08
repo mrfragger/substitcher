@@ -1,0 +1,61 @@
+{
+  "title": "Varjatud kuulajad, kes uskusid",
+  "intro": "Püha kogunemise vaikuses saabus nähtamatust maailmast tähelepanuväärne kogudus. Imelise sosinal kuulati neid ettelugemist, mis pitseeris nende saatuse igaveseks. Nende tunnistus on jumalikes pühakirjades üks ainulaadsemaid.",
+  "clues": [
+    "Me oleme olendid valdkonnast, mis on enamiku jaoks nähtamatu, ja me tulime rühmana.",
+    "Me läksime ühele kogunemisele, et kuulda midagi tähelepanuväärset.",
+    "Kohale jõudes kuulasime ettelugemist, mis meid hämmastas.",
+    "Me tunnistasime avalikult, et mõned meie seast on õiglased ja mõned mitte.",
+    "Me teadsime, et me ei pääse jumaliku korralduse eest maa peal ega taevasse lennates.",
+    "Kui me kuulsime juhatust, uskusime sellesse; kes usub oma Issandasse, ei karda kaotust ega koormat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Džinnide grupp",
+        "Irami rahvas",
+        "Tubba rahvas",
+        "Rooma impeerium",
+        "Kuraiši hõim"
+      ],
+      "answer": "Džinnide grupp"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Püha retsitatsiooni kuulamine",
+        "Meie linnas kõrgete sammaste ehitamine",
+        "Suurepärase emase kaameli jaht",
+        "Hävitatud meie prohvetite tapmise eest",
+        "Rikkuse mõõtmatu korrutamine"
+      ],
+      "answer": "Püha retsitatsiooni kuulamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Püha retsitatsiooni kogunemine",
+        "Kõrgete sammastega linn (Iram)",
+        "Kaev kõrbes",
+        "Suursugune kuldne palee",
+        "Püha koobas mägedes"
+      ],
+      "answer": "Püha retsitatsiooni kogunemine"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Me uskusime ja hoiatasime oma rahvast",
+        "Hävitatud võimsa taevast tulnud plahvatuse poolt",
+        "Karistatud kõrvetava, hävitava tuule poolt",
+        "Andis tohutu rikkuse ja võimu",
+        "Jäi uskmatuses kindlaks"
+      ],
+      "answer": "Me uskusime ja hoiatasime oma rahvast"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

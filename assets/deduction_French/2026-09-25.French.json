@@ -1,0 +1,61 @@
+{
+  "title": "Le barrage qui a brisé un royaume",
+  "intro": "Une terre de rivières jaillissantes, de deux jardins luxuriants et d'une prospérité sans pareille — mais ses habitants se détournèrent de Celui qui les avait bénis. Lorsque les appels à la conversion se firent entendre, ils se détournèrent. S'ensuivit un châtiment dont l'écho résonne encore comme un avertissement. Qui était cette ancienne communauté ?",
+  "clues": [
+    "Nous vivions dans un endroit si privilégié que notre maison se trouvait entre deux jardins verdoyants.",
+    "Nous avions la chance d'avoir des rivières qui traversaient nos terres et des récoltes abondantes qui remplissaient nos maisons.",
+    "Pourtant, lorsque nous avons été appelés à la gratitude et à l'obéissance envers notre Seigneur, nous nous sommes détournés par orgueil.",
+    "Notre richesse et notre confort nous ont fait oublier Celui qui nous avait tout accordé.",
+    "Puis survint un torrent soudain qui brisa la grande barrière sur laquelle nous comptions.",
+    "Nous sommes le peuple de Saba', dont la terre était connue pour le grand barrage de Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Peuple de Saba",
+        "Les gens de la tranchée",
+        "Compagnons du Puits",
+        "Les habitants de Tubba'",
+        "Peuple de Madian"
+      ],
+      "answer": "Peuple de Saba"
+    },
+    "trial": {
+      "label": "Notre chute",
+      "options": [
+        "Inondation due à la rupture d'un barrage",
+        "Un vent violent venu du ciel",
+        "Brûlant dans une tranchée de feu",
+        "Un séisme de grande ampleur",
+        "Noyés dans une grande inondation"
+      ],
+      "answer": "Inondation due à la rupture d'un barrage"
+    },
+    "location": {
+      "label": "Emplacement clé",
+      "options": [
+        "Le barrage de Ma'rib",
+        "Mont Sinaï",
+        "La grotte des sept dormeurs",
+        "Le Buisson Ardent",
+        "La séparation de la mer"
+      ],
+      "answer": "Le barrage de Ma'rib"
+    },
+    "outcome": {
+      "label": "Notre destin",
+      "options": [
+        "Deux jardins amers ont remplacé nos jardins luxuriants.",
+        "Nos jardins sont devenus encore plus luxuriants.",
+        "La terre a sombré sous la mer",
+        "Nous avons été ensevelis sous les cendres volcaniques",
+        "Notre nation s'est divisée en douze tribus."
+      ],
+      "answer": "Deux jardins amers ont remplacé nos jardins luxuriants."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

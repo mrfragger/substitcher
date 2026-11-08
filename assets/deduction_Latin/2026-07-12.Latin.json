@@ -1,0 +1,61 @@
+{
+  "title": "Urbs Perdita Maiestatis Incomparabilis",
+  "intro": "Civilizatio ingens olim vastas terrarum regiones dominabatur, structurabus altis ad caelum pertingentibus celebrata. Attamen sub hac magnitudine, pertinax negatio crevit — recusatio audiendi divinum monitum ab ipsa communitate missum. Superbia et arrogantia mox poenam elicerent qualem neque terra neque caeli umquam viderunt.",
+  "clues": [
+    "Olim vastas terrarum spatia regebamus, gloriantes vi quam nullam aliam civilizationem aequare posse credideramus.",
+    "Regnum nostrum structuris altis cum columnis potentibus clarum erat, quae per omnem terram notam incomparabilia stabant.",
+    "Ex ipsa nostra communitate monens surrexit, unumquemque nostrum hortans ut Uni Creatori soli subiiceretur.",
+    "Nuntium nobis traditum negavimus et viam quam hereditate acceperamus deserere recusavimus.",
+    "Ventus furens, ululans, immensae gravitatis, in nos emissus est, nos omnino inermes relinquens.",
+    "Relicti sumus velut trunci palmarum cavi, dispersi et obliti, quasi documentum pro omni generatione postea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus A'ad",
+        "Populus Nuh",
+        "Populus Lut",
+        "Populus Madyani",
+        "Populus Tubbae"
+      ],
+      "answer": "Populus A'ad"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Ventus furens et incessanter severae poenae",
+        "Diluvium quod omnem cacumen montis texit",
+        "Pluvia lapidum argillaceorum ardentium desuper",
+        "Unus clamor terribilis e caelis",
+        "Vehemens terrae motus qui terram divisit"
+      ],
+      "answer": "Ventus furens et incessanter severae poenae"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Iram, urbs columnarum excelsarum",
+        "Arca ingens lignea super montem aedificata",
+        "Camelus qui miraculose e lapide emersit",
+        "Mons Sinai ubi divina praecepta descenderunt",
+        "Palatium crystalli et vitri subtilis, aquas fluentes prospiciens"
+      ],
+      "answer": "Iram, urbs columnarum excelsarum"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Relictae velut trunci palmarum cavi, dispersae et exanimes",
+        "Sub undis immensis magnae inundationis submersi",
+        "In animalia simias et porcos simulantia transformati",
+        "Contritus sub pluvia lapidum argillaceorum induratorum",
+        "Consumpta uno clamore assordante qui animam perforavit"
+      ],
+      "answer": "Relictae velut trunci palmarum cavi, dispersae et exanimes"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

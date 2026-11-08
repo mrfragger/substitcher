@@ -1,0 +1,61 @@
+{
+  "title": "Samfélag fyrstu brotanna",
+  "intro": "Í landi hinna fornu borga blómstraði eitt sinn fólk. Sendiboði með skýrt kall heimsótti það, en það sneri sér frá og fór á slóð sem enginn hafði nokkurn tímann gengið. Saga þeirra er um óhlýðni, spillingu og refsingu sem skildi heimaland þeirra eftir sem tákn fyrir alla sem ígrunda. Hverjar eru þessar sálir?",
+  "clues": [
+    "Við bjuggum í borgum á sléttlendinu, þar sem spámaður okkar kallaði okkur til réttlætis.",
+    "Við vorum fyrst til að frömdu ósæmilegt afbrot sem enginn í öllum heiminum hafði nokkurn tímann framið áður.",
+    "Við stöðvuðum ferðalanga og frömdum illt opinberlega í samkomum okkar.",
+    "Við höfnuðum sendiboðanum sem okkur var sendur og hótuðum að reka hann úr landi okkar.",
+    "Við hlupum heim til hans og kröfðumst þess að hann afhenti okkur gesti sína.",
+    "Refsing okkar var steinregn og borgin okkar var umturnað."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hverjir erum við?",
+      "options": [
+        "Fólkið í Lút",
+        "Fólkið í Nuh",
+        "Fólkið í 'Ad",
+        "Fólkið í Thamud",
+        "Fólkið í Madyan"
+      ],
+      "answer": "Fólkið í Lút"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Framdi fyrsta sodómíska athöfnina",
+        "Tilbáðu skurðgoð",
+        "Svikið í viðskiptum",
+        "Drápu spámann sinn",
+        "Óhlýðnuðust foreldrum sínum"
+      ],
+      "answer": "Framdi fyrsta sodómíska athöfnina"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Borgin á sléttunni",
+        "Borg brunnsins",
+        "Borgin í skurðinum",
+        "Borg fílans",
+        "Borgin í garðinum"
+      ],
+      "answer": "Borgin á sléttunni"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Rigning með steinum og umturnað",
+        "Drukknaði í flóði",
+        "Eyðilagður af ofsafengnum vindi",
+        "Gleypt af jörðinni",
+        "Lenti í mikilli sprengingu"
+      ],
+      "answer": "Rigning með steinum og umturnað"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

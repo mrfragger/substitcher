@@ -1,0 +1,61 @@
+{
+  "title": "La plainte entendue au-dessus du bruit",
+  "intro": "On entend une voix s'élever d'une société où l'oppression est devenue monnaie courante. Nul déploiement de force ne répond à cette plainte ; un appel direct s'adresse à Allah, et la réponse touche au cœur même de l'adoration. Qui a formulé cette plainte, quelle question a suivi, et quelle vérité a été affirmée ?",
+  "clues": [
+    "J'étais troublé par l'oppression des gens qui m'entouraient.",
+    "J'ai exprimé ce grief directement à Allah dans une plainte personnelle.",
+    "Allah a entendu ma plainte et m'a répondu par un défi concernant ma propre croyance.",
+    "La question posée était : comment pouvais-je ne pas croire en Allah, qui est Unique et Suprême ?",
+    "J'ai alors demandé pourquoi Allah favoriserait un peuple incrédule.",
+    "Je suis Uzair, mentionné dans la sourate Az-Zukhruf comme celui dont Allah a entendu la plainte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Ouzaïre",
+        "Le compagnon qui a navigué sur le grand déluge",
+        "Le serviteur qui marcha sur l'eau",
+        "Le dormeur protégé dans une grotte",
+        "Le serviteur qui apporta des pierres à une rivière"
+      ],
+      "answer": "Ouzaïre"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Se plaindre à Allah de l'oppression du peuple",
+        "Marcher sur l'eau pendant une tempête",
+        "Transporter des pierres jusqu'à une rivière sans eau",
+        "Naviguer à travers un grand déluge à bord de l'Arche",
+        "Recevoir la clé d'un immense trésor"
+      ],
+      "answer": "Se plaindre à Allah de l'oppression du peuple"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une plainte directe adressée à Allah",
+        "Un bâton qui se transforma en serpent",
+        "Un four rendu froid et paisible",
+        "Une arche flottant au-dessus des eaux de crue",
+        "Un poisson avale un serviteur"
+      ],
+      "answer": "Une plainte directe adressée à Allah"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Allah a entendu la plainte et a affirmé l'Unicité divine et la Seigneurie suprême.",
+        "Marcher en toute sécurité sur l'eau pendant une tempête",
+        "Traverser une grande inondation en toute sécurité à bord de l'Arche",
+        "Retrouver la vue au sein d'un palais d'arrogance",
+        "Recevant une domination s'étendant de l'Est à l'Ouest"
+      ],
+      "answer": "Allah a entendu la plainte et a affirmé l'Unicité divine et la Seigneurie suprême."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

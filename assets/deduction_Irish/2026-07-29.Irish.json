@@ -1,0 +1,61 @@
+{
+  "title": "An Tóir Chúirtéiseach",
+  "intro": "I gconairí na cumhachta, chuaigh duine ard-stádais i ngrá le seirbhíseach a raibh a áilleacht thar a bheith neamhghnách. Mar thoradh ar an ngrá seo, tharla sraith imeachtaí a chuirfeadh dílseacht an tseirbhísigh faoi thástáil, a nochtfadh fírinní ceilte, agus a dhearbhódh neamhchiontacht an tseirbhísigh sa deireadh.",
+  "clues": [
+    "Bhí cónaí orm i dtír na Níle, i bpálás a raibh tionchar mór aige.",
+    "Tháinig fear óg isteach i mo theach, agus chuir a láithreacht suaimhneas orm.",
+    "Rinne mé iarracht é a mhealladh, ach d’iarr sé tearmann ina Thiarna.",
+    "Strac mé a éadaí ón gcúl, ach léirigh an fhianaise gur mheabhlaireacht a bhí i gceist agam.",
+    "Chun cúlchaint na mban uasal a chur ina dtost, thug mé cuireadh dóibh teacht chuig cruinniú agus chuir mé rudaí géara ina lámha.",
+    "Sa deireadh, d’admhaigh mé mo locht go poiblí, ag admháil na fírinne os comhair an rí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Bean chéile Al-Aziz",
+        "Ásiya (Bean chéile an Fharó)",
+        "Bilqis (Banríon Sheba)",
+        "Máiream (Máthair Íosa)",
+        "Máthair Mhúsa"
+      ],
+      "answer": "Bean chéile Al-Aziz"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Rinne sí iarracht an Fáidh Iósaf a mhealladh",
+        "Rinne sí iarracht an Fáidh Músa a mharú",
+        "Mhaígh sí gur bandia í",
+        "Thóg sí túr chun dúshlán a thabhairt d'Allah",
+        "Threoraigh sí arm i gcoinne Mecca"
+      ],
+      "answer": "Rinne sí iarracht an Fáidh Iósaf a mhealladh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Léine stróicthe ón gcúl",
+        "Lao órga",
+        "Bata a d’iompaigh ina nathair",
+        "Camall baineann",
+        "Lampa"
+      ],
+      "answer": "Léine stróicthe ón gcúl"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "D’admhaigh sí agus d’admhaigh sí an fhírinne",
+        "Báthadh í lena harm",
+        "D’iompaigh sí ina colún salainn",
+        "Slogadh í ag an talamh",
+        "Scriosadh í le gaoth ag screadaíl"
+      ],
+      "answer": "D’admhaigh sí agus d’admhaigh sí an fhírinne"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Giấc Ngủ Vượt Thời Gian",
+  "intro": "Hãy tưởng tượng một thời đại mà sự thật bị bóp nghẹt và những người tin tưởng bị săn đuổi. Một nhóm nhỏ đã chọn rút lui thay vì đầu hàng, tìm nơi ẩn náu ở một nơi không ngờ tới — một nơi sẽ trở thành chốn an nghỉ của họ trong nhiều thế kỷ không đếm xuể. Khi cuối cùng họ tỉnh dậy, thế giới xung quanh đã thay đổi. Những linh hồn đang ngủ say này là ai?",
+  "clues": [
+    "Chúng tôi là những người trẻ tuổi sống trong một thành phố cổ kính.",
+    "Cộng đồng của chúng tôi yêu cầu chúng tôi cùng thờ phượng với họ, nhưng chúng tôi đã từ chối.",
+    "Chúng tôi đã rời bỏ thành phố để tìm nơi ẩn náu khỏi những kẻ chống đối niềm tin của chúng tôi.",
+    "Một người bạn bốn chân trung thành đã ở lại lối vào chỗ ẩn náu của chúng tôi.",
+    "Allah đã khiến chúng ta ngủ suốt 309 năm.",
+    "Khi cuối cùng chúng tôi tỉnh giấc, thành phố từng đàn áp chúng tôi giờ đã đón nhận đức tin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chúng tôi là ai?",
+      "options": [
+        "Ashab al-Kahf (Những người trong hang động)",
+        "Ashab al-Fil (Đội quân Voi)",
+        "Ashab al-Ukhdud (Những người bạn của chiến hào)",
+        "Hawariyyun (Đệ tử của Isa)",
+        "Yajuj wa Majuj (Gog và Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Những người trong hang động)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Chúng tôi rút lui vào hang động và ngủ suốt hàng thế kỷ.",
+        "Chúng tôi đã được cứu thoát khỏi một đám cháy dữ dội.",
+        "Chúng tôi bị một con cá khổng lồ nuốt chửng.",
+        "Chúng tôi đã được thử thách với một con lạc đà cái kỳ diệu.",
+        "Chúng tôi đã nhận được chín dấu hiệu rõ ràng."
+      ],
+      "answer": "Chúng tôi rút lui vào hang động và ngủ suốt hàng thế kỷ."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một hang động sâu trong núi.",
+        "Một chiếc thuyền trên biển khơi",
+        "Một công trình kiến ​​trúc đồ sộ vươn tới tận trời cao.",
+        "Một khu vườn bị chia cắt giữa hai đối thủ",
+        "Một rào chắn bằng sắt và đồng"
+      ],
+      "answer": "Một hang động sâu trong núi."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Chúng tôi thức dậy và thấy thành phố của chúng tôi đã hướng về đức tin.",
+        "Ngọn lửa bùng cháy bỗng dịu xuống và trở nên yên bình.",
+        "Một đạo quân địch đã bị chết đuối trên biển.",
+        "Những con chim mang đá đã tiêu diệt kẻ thù.",
+        "Một con cá lớn đã đưa chúng tôi lên bờ."
+      ],
+      "answer": "Chúng tôi thức dậy và thấy thành phố của chúng tôi đã hướng về đức tin."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

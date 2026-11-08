@@ -1,0 +1,61 @@
+{
+  "title": "Șoapta în vânt",
+  "intro": "Imaginează-ți un tărâm în care nevăzutul și văzutul se împletesc și stai în fața unei figuri în inima unui regat diferit de oricare altul. Acest suflet posedă cunoștințe dincolo de orice atingere obișnuită, comandând forțe pe care alții doar și le-ar putea imagina. Totuși, chiar și cei mai puternici pot fi umiliți de o creatură minusculă, iar adevărul poate rămâne ascuns până la momentul hotărât. Cine este această figură a cărei moștenire răsună de-a lungul veacurilor?",
+  "clues": [
+    "Mi s-a dat o împărăție pe care nimeni după mine nu o va mai avea.",
+    "Am moștenit cunoștințe și înțelepciune de la un părinte iubit.",
+    "Vântul era sub comanda mea, călătorind la ordinul meu oriunde doream.",
+    "Puteam înțelege graiul păsărilor și ele au servit în armata mea.",
+    "Am primit vești de la o pasăre mică despre o regină care venera soarele.",
+    "Moartea mea a rămas ascunsă până când o creatură a pământului mi-a devorat toiagul și abia atunci djinnii și-au dat seama că nu cunoșteau nevăzutul."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Sulayman (Solomon)",
+        "Profetul Dawud (David)",
+        "Profetul Musa (Moise)",
+        "Profetul Isa (Isus)",
+        "Profetul Nuh (Noe)"
+      ],
+      "answer": "Profetul Sulayman (Solomon)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Vizita Reginei din Saba",
+        "A fi aruncat în foc",
+        "Despărțind marea",
+        "Construirea unei arce",
+        "Înghițit de o balenă"
+      ],
+      "answer": "Vizita Reginei din Saba"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Toiagul consumat de o creatură a pământului",
+        "Toiagul care s-a transformat într-un șarpe",
+        "Cămila",
+        "Arca",
+        "Balena"
+      ],
+      "answer": "Toiagul consumat de o creatură a pământului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Moartea sa a fost ascunsă de djinni până când toiagul său a fost mâncat.",
+        "El a fost înălțat viu la ceruri",
+        "El a fost salvat din foc prin porunca lui Allah",
+        "I s-a dat Tora",
+        "A fost salvat de balenă"
+      ],
+      "answer": "Moartea sa a fost ascunsă de djinni până când toiagul său a fost mâncat."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

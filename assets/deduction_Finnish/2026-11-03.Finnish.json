@@ -1,0 +1,61 @@
+{
+  "title": "Vanhurskaiden uni",
+  "intro": "Aikana, jolloin usko oli vaarallista ja vallanpitäjät pyrkivät murskaamaan uskon, pieni joukko nuoria sieluja teki valinnan, joka kaikuisi läpi aikojen. Pakenemaan kaikkea tuntemaansa he etsivät turvaa vuoren kätketystä pimeydestä ja luottivat täysin Allahiin. Se, mitä seuraavaksi tapahtui, tulisi olemaan ajaton merkki niille, jotka pohtivat asiaa.",
+  "clues": [
+    "Olimme joukko nuoria, jotka uskoivat Herraamme, ja Hän antoi meille lisää opastusta.",
+    "Seisoimme kansamme edessä ja julistimme, ettemme koskaan huutaisi avuksi ketään muuta jumaluutta kuin Allahia.",
+    "Me etsimme turvaa luolasta ja sanoimme: \"Herramme, suo meille armoa ja johdata meitä oikealla tiellämme.\"",
+    "Nukuimme useita vuosia, ja aurinko kallistui poispäin luolastamme eikä koskettanut meitä.",
+    "Koiramme makasi levittäytyneenä luolan suulla vartioiden meitä kuin vahtivuorossa.",
+    "Herättyämme ihmettelimme, kuinka kauan olimme viipyneet, ja yksi meistä lähetettiin hopearahojen kanssa ostamaan ruokaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Luolan ihmiset",
+        "Juoksuhaudan ihmiset",
+        "Sapatin ihmiset",
+        "Norsun kansa",
+        "Metsän seuralaiset"
+      ],
+      "answer": "Luolan ihmiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Pakenivat luolaan paetakseen uskonsa vainoa",
+        "Voimakkaan tuulen tuhoama",
+        "Maan nielaisema",
+        "Hukkui mereen",
+        "Kivien myrskyn iskiessä"
+      ],
+      "answer": "Pakenivat luolaan paetakseen uskonsa vainoa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Koira vartioi luolan suuaukkoa",
+        "Suuri arkki",
+        "Sauva, joka muuttui käärmeeksi",
+        "Harjalintu",
+        "Kultainen vasikka"
+      ],
+      "answer": "Koira vartioi luolan suuaukkoa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Ne pysyivät luolassa 309 vuotta ja nostettiin sitten merkiksi",
+        "Heistä tehtiin apinoita",
+        "Ne tuhoutuivat tulvassa",
+        "Ne tehtiin ylittämään meri",
+        "Heille annettiin valtakunta"
+      ],
+      "answer": "Ne pysyivät luolassa 309 vuotta ja nostettiin sitten merkiksi"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mlinzi karibu na Ukingo wa Mto",
+  "intro": "Katika nchi ambayo amri ya mtawala wa kidikteta ilileta huzuni katika nyumba nyingi, roho moja ilipokea ujumbe uliopinga hofu yote. Kwa moyo uliojaa uaminifu, walianza kitendo cha imani ambacho kingebadilisha mwelekeo wa taifa. Maji yalipokuwa yamebeba mzigo wa thamani, tumaini lilichanganyika na mikondo.",
+  "clues": [
+    "Niliishi katika wakati wa ukandamizaji na hofu.",
+    "Nilipokea msukumo wa kimungu ambao ulinipa ujasiri.",
+    "Niliamriwa nisiogope wala kuhuzunika.",
+    "Nilimweka mtoto wangu kwenye sanduku na kuliweka juu ya maji.",
+    "Mtoto wangu alipatikana na familia ya mtawala, lakini mtoto wangu mwingine akafuata.",
+    "Niliungana tena na mtoto wangu ili kumnyonyesha, kama vile Mwenyezi Mungu alivyoahidi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mama wa Musa",
+        "Mke wa Farao",
+        "Dada wa Musa",
+        "Mama wa Yesu",
+        "Malkia wa Sheba"
+      ],
+      "answer": "Mama wa Musa"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuhamasishwa kumtupa mtoto mtoni",
+        "Kukabiliwa na changamoto ya pambano la uchawi",
+        "Kufukuzwa na jeshi",
+        "Kuvuka bahari iliyogawanyika",
+        "Kujenga nyumba takatifu"
+      ],
+      "answer": "Kuhamasishwa kumtupa mtoto mtoni"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku lililowekwa mtoni",
+        "Kichaka kinachowaka moto",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ndama wa dhahabu",
+        "Kiti cha enzi"
+      ],
+      "answer": "Sanduku lililowekwa mtoni"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mtoto alirudishwa salama kwa ajili ya kunyonyesha",
+        "Mtoto alipotea milele",
+        "Mtoto alipelekwa nchi ya mbali",
+        "Mtoto akawa mtawala mara moja",
+        "Mtoto huyo alilelewa na mfanyabiashara tajiri"
+      ],
+      "answer": "Mtoto alirudishwa salama kwa ajili ya kunyonyesha"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

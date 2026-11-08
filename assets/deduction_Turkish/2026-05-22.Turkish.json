@@ -1,0 +1,61 @@
+{
+  "title": "Hayalperestin Yükselişi",
+  "intro": "Büyük işler başarmaya yazgılı, ancak ağır sınavlardan geçmiş bir ruh, olağanüstü bir yolculuğa çıktı. Bu kişinin yolu kıskançlık, ayrılık ve haksız acılarla dolu olup, nihayetinde muazzam bir sorumluluk ve derin bir kavuşmayla sonuçlandı. Kur'an'daki bu olağanüstü şahsiyeti tanıyabilir misiniz?",
+  "clues": [
+    "Bir zamanlar en yakınlarım tarafından kıskanılıyordum ve bu durum ailemden ve evimden derin bir kopuşa yol açtı.",
+    "Seyahat edenler tarafından çok düşük bir fiyata satılmam da dahil olmak üzere, büyük zorluklar yaşadığım bir dönem geçirdim.",
+    "Haksız yere suçlandım ve yıllarca hapis yattım, yine de inancım sarsılmaz kaldı.",
+    "Bana karmaşık vizyonları yorumlama konusunda eşsiz bir yetenek bahşedildi ve bu yetenek özgürlüğe giden yolumda çok önemli bir rol oynadı.",
+    "Bilgeliğim ve dürüstlüğüm sonunda beni yabancı bir ülkede büyük bir yetki ve güven konumuna getirdi.",
+    "Bir dizi olay sonucunda, uzun ve acı dolu bir ayrılığın ardından yaşlı ebeveynim ve kardeşlerimle yeniden bir araya geldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Süleyman",
+        "Peygamber İsa",
+        "Peygamber Yusuf",
+        "Peygamber Davud",
+        "Peygamber Yahya"
+      ],
+      "answer": "Peygamber Yusuf"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Büyük bir balık tarafından yutulmak",
+        "Yaratılışı kurtarmak için bir Nuh'un Gemisi inşa etmek",
+        "Asılsız suçlamalara ve hapis cezasına katlanmak",
+        "Mucizevi güçlere sahip bir hükümdara mucizelerle meydan okumak",
+        "Ağır hastalık ve kayıpla sınanmak"
+      ],
+      "answer": "Asılsız suçlamalara ve hapis cezasına katlanmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yanan bir çalı",
+        "konuşan bir kuş",
+        "Bir kuyu",
+        "Bir asanın yılana dönüşmesi",
+        "Dişi deve bir işaret olarak"
+      ],
+      "answer": "Bir kuyu"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Vaat edilmiş bir toprağa doğru göçü yönetmek",
+        "Mısır'da güçlü bir bakan olmak",
+        "Kibirli bir halk üzerine ilahi yargının gelmesi",
+        "Geniş bir krallığı bilgelik ve adaletle yönetmek",
+        "Göğe yükseliş"
+      ],
+      "answer": "Mısır'da güçlü bir bakan olmak"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

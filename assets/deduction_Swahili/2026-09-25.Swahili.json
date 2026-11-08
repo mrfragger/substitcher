@@ -1,0 +1,61 @@
+{
+  "title": "Bwawa Lililovunja Ufalme",
+  "intro": "Nchi yenye mito inayotiririka, bustani mbili za kijani kibichi, na ustawi usio na kifani — lakini wakazi wake walimpuuza Yule aliyewabariki. Wakati vikumbusho vilipokuja vikiwaita warudi, waligeuka. Kilichofuata ni adhabu ambayo bado inasikika kama onyo. Jumuiya hii ya kale ilikuwa nani?",
+  "clues": [
+    "Tuliishi katika nchi iliyobarikiwa sana kiasi kwamba nyumba yetu ilikuwa kati ya bustani mbili za kijani kibichi.",
+    "Tulifurahia mito ikitiririka katika ardhi zetu na mavuno mengi yakijaza nyumba zetu.",
+    "Lakini tulipoitwa kwenye shukrani na utii kwa Mola wetu, tuligeuka kwa kiburi.",
+    "Utajiri wetu na urahisi wetu ulitufanya tumsahau Yule aliyetupatia yote.",
+    "Kisha mafuriko ya ghafla yakatokea ambayo yalivunja kizuizi kikubwa tulichokuwa tumekitegemea.",
+    "Sisi ni watu wa Saba', ambao nchi yao ilijulikana kwa Bwawa kubwa la Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Watu wa Saba",
+        "Watu wa Handaki",
+        "Masahaba wa Kisima",
+        "Watu wa Tubba'",
+        "Watu wa Midiani"
+      ],
+      "answer": "Watu wa Saba"
+    },
+    "trial": {
+      "label": "Kuanguka Kwetu",
+      "options": [
+        "Mafuriko kutoka kwa bwawa lililopasuka",
+        "Upepo mkali kutoka angani",
+        "Kuungua kwenye mtaro wa moto",
+        "Tetemeko kubwa la ardhi",
+        "Kuzama katika mafuriko makubwa"
+      ],
+      "answer": "Mafuriko kutoka kwa bwawa lililopasuka"
+    },
+    "location": {
+      "label": "Eneo la Ufunguo",
+      "options": [
+        "Bwawa la Ma'rib",
+        "Mlima Sinai",
+        "Pango la Walala Saba",
+        "Kichaka Kinachowaka Moto",
+        "Kupasuka kwa Bahari"
+      ],
+      "answer": "Bwawa la Ma'rib"
+    },
+    "outcome": {
+      "label": "Hatima Yetu",
+      "options": [
+        "Bustani mbili chungu zilibadilisha zile zetu zenye majani mengi",
+        "Bustani zetu zilikua zenye rutuba zaidi",
+        "Ardhi ilizama chini ya bahari",
+        "Tulizikwa kwenye majivu ya volkeno",
+        "Taifa letu limegawanyika katika makabila kumi na mawili"
+      ],
+      "answer": "Bustani mbili chungu zilibadilisha zile zetu zenye majani mengi"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

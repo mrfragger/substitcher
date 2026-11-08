@@ -1,0 +1,61 @@
+{
+  "title": "Un minuscul avertiment davant un òste en marcha",
+  "intro": "Entratz dins una val ont un poderós regent e una vasta òste s'apròchan, e imaginatz un viatjaire minuscul que dona un avertiment que salva una comunautat entièra. Coma la comunautat menaçada arriba a l'abric, lo perilh passa. Seguissètz los indicis per identificar la figura desconeguda darrièr aquel avertiment.",
+  "clues": [
+    "Soi demest las pichonas creaturas associadas al reialme d'un regent.",
+    "Ma comunautat viu dins d'abitatges dins una val, ont un de nosautres pòt trucar los autres.",
+    "Afrontam una menaça d'aquel sobeiran e de las armadas que viatjan amb lo sobeiran.",
+    "Soi ieu que crida ma comunautat a dintrar dins lors abitacions e nos avertís de pas èsser esclafats sens o saber.",
+    "Lo governador es Sulayman, e mon espècia es demest las creaturas plaçadas jos son comandament.",
+    "Soi la formiga d'aquela valada; après mon avertiment, dintrèrem dins nòstres abitatges e escapèrem a l'esclafament que nos auriá autrament atrapats a l'inconsciéncia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "La Formiga de la Val",
+        "Lo Hoopoe",
+        "Lo Corb",
+        "La Sèrp",
+        "La Mula"
+      ],
+      "answer": "La Formiga de la Val"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Un avertiment qu'esparnhèt una comunautat de formigas",
+        "Una demanda d'un anèl d'un peis",
+        "Una recèrca d'un tròn desaparegut",
+        "Lo salvament dels uèlhs panats",
+        "Un refús de manjar lo manjar d'un regent"
+      ],
+      "answer": "Un avertiment qu'esparnhèt una comunautat de formigas"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Val de las Formigas",
+        "L'anèl de signe de Sulayman",
+        "La Camisa Manchada de Yusuf",
+        "Lo vedèl d'aur de l'Exòde",
+        "L'Estat Major de Musa"
+      ],
+      "answer": "La Val de las Formigas"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La comunautat foguèt esparnhada après s'abrigar",
+        "La comunautat foguèt destrucha sens s'abrigar",
+        "La comunautat foguèt esparnhada perque l'armada se retirèt",
+        "La comunautat foguèt recompensada amb lo contraròtle dels aucèls",
+        "La comunautat foguèt menada captiva a la cort reiala"
+      ],
+      "answer": "La comunautat foguèt esparnhada après s'abrigar"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

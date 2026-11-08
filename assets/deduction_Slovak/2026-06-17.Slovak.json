@@ -1,0 +1,61 @@
+{
+  "title": "Ozvena z okraja mesta",
+  "intro": "V meste, ktoré sa odvrátilo od božského vedenia, sa z okraja vynorila osamelá postava, ktorá niesla posolstvo nádeje a varovania. Táto zabudnutá duša sa stala večným symbolom neochvejnej viery.",
+  "clues": [
+    "Bol som svedkom toho, ako do môjho mesta posielajú poslov, ale moji ľudia ich považovali za obyčajných ľudí.",
+    "Veril som ich posolstvu a cítil som, ako pravda rezonuje v mojej bytosti.",
+    "Vyzval som svoj ľud, aby poslúchal poslov, ktorí nežiadali žiadnu odmenu.",
+    "Bežal som z najvzdialenejšieho konca mesta a naliehavo som sa ich snažil uvedomiť si pravdu.",
+    "Môj ľud povstal proti mne a ja som bol zabitý, ale našiel som večný pokoj.",
+    "Alah mi povedal: „Vojdi do raja,“ a ja som si prial, aby môj ľud mohol byť svedkom pocty, ktorá mi bola preukázaná."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Veriaci Ya-Sina",
+        "Uzair, pýtajúci sa",
+        "Al-Khidr Sprievodca",
+        "Veriaci z faraónovej rodiny",
+        "Namrud Tyran"
+      ],
+      "answer": "Veriaci Ya-Sina"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Konfrontácia s neveriacim ľudom, ktorý ho zabil",
+        "Byť hodený do planúceho ohňa",
+        "Byť prehltnutý veľkou rybou",
+        "Stavba obrovskej archy",
+        "Útek pred tyranovou armádou"
+      ],
+      "answer": "Konfrontácia s neveriacim ľudom, ktorý ho zabil"
+    },
+    "location": {
+      "label": "Kľúčové umiestnenie",
+      "options": [
+        "Najvzdialenejší koniec mesta",
+        "Hora Tur",
+        "Údolie mravcov",
+        "Brehy Nílu",
+        "Jaskyňa jaskyne"
+      ],
+      "answer": "Najvzdialenejší koniec mesta"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Mučeníctvo a okamžitý vstup do raja",
+        "Útek a spása",
+        "Vzostup do nebies",
+        "Topenie sa v mori",
+        "Premena na kameň"
+      ],
+      "answer": "Mučeníctvo a okamžitý vstup do raja"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

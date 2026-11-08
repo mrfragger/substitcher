@@ -1,0 +1,61 @@
+{
+  "title": "Arkitek Cita-cita Palsu",
+  "intro": "Seorang tokoh yang mempunyai kuasa besar pernah berkhidmat kepada salah seorang tiran paling terkenal dalam sejarah di Mesir purba. Individu ini diamanahkan dengan arahan yang berani — untuk membina sebuah struktur yang bertujuan untuk menentang langit. Kisah mereka berdiri dalam al-Quran sebagai pengajaran yang menarik tentang bagaimana ketaatan membuta tuli terhadap kesombongan hanya membawa kepada kehancuran.",
+  "clues": [
+    "Saya berkhidmat di istana seorang pemerintah yang berkuasa yang mengaku sebagai dewa ke atas tanah-tanah tersebut.",
+    "Saya memegang jawatan menteri tinggi, menasihati tiran paling sombong pada zaman saya.",
+    "Pemerintahku asyik mencabar Tuhan Musa, yang mereka enggan akui.",
+    "Aku diperintahkan untuk membina sebuah menara daripada batu bata yang dibakar api supaya pemerintahku dapat naik ke langit.",
+    "Menara itu tidak pernah sampai ke langit, dan perhambaanku kepada kesombongan membuatku menanggung malu abadi.",
+    "Aku binasa bersama orang yang kuikuti, dan namaku menjadi amaran abadi terhadap mereka yang membenarkan para tiran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Haman",
+        "Azar (bapa kepada Ibrahim)",
+        "Ilyas (seorang nabi)",
+        "Dhu al-Kifl",
+        "Harut (salah seorang daripada dua malaikat di Babylon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Diperintahkan untuk membina struktur yang menjulang tinggi untuk mencapai langit",
+        "Diminta untuk mentafsir mimpi yang dihantar dari ilahi",
+        "Dicampakkan ke dalam api yang menyala-nyala sebagai ujian iman",
+        "Terpaksa memilih antara takhta dan kebenaran",
+        "Dicabar dalam pertandingan sihir"
+      ],
+      "answer": "Diperintahkan untuk membina struktur yang menjulang tinggi untuk mencapai langit"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Menara batu bata yang dibakar api",
+        "Tongkat yang berubah menjadi ular",
+        "Sebuah kapal belayar melalui banjir besar",
+        "Taman yang dikelilingi tembok tinggi",
+        "Takhta yang dihiasi dengan batu delima dan emas"
+      ],
+      "answer": "Menara batu bata yang dibakar api"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Tenggelam di sisi penindas di laut",
+        "Menjadi raja yang berkuasa di tanah yang luas",
+        "Terselamat daripada kebakaran yang marak tanpa cedera",
+        "Membina kerajaan kebijaksanaan yang makmur",
+        "Bersatu semula dengan keluarga selepas bertahun-tahun hidup dalam buangan"
+      ],
+      "answer": "Tenggelam di sisi penindas di laut"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

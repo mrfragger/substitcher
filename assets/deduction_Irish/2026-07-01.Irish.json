@@ -1,0 +1,61 @@
+{
+  "title": "An t-anam gan ainm a sheas i gcoinne náisiúin éagórach",
+  "intro": "I leathanaigh an Choráin, tá figiúirí ann nár tugadh a n-ainmneacha dúinn le machnamh a dhéanamh ar a gcuid ceachtanna. Rugadh anam amháin den sórt sin i measc náisiúin a dhiúltaigh a theachtairí, ach bhí creideamh ceilte ag an duine seo a chuir ar leithligh iad. Nuair a bhí an scrios ag bagairt, sheas an duine seo go daingean ina chreideamh rúnda. An féidir leat céannacht an fhigiúir mistéireach seo a nochtadh a thugann rabhadh dá muintir sula dtagann an foraithne deiridh?",
+  "clues": [
+    "Bhí cónaí orm i measc daoine a shéan arís agus arís eile na teachtairí a sheol Allah chucu.",
+    "Murab ionann agus mo náisiún, d’aithin mé an fhírinne nuair a tháinig teachtaire le comharthaí soiléire ó mo Thiarna.",
+    "Cheil mé mo chreideamh ó mo lucht coiscéime, agus mé ag fios go ndéanfaidís dochar dom dá bhfaighidís amach mo chreideamh.",
+    "Nuair a tháinig ord an phionóis i ngar, dhearbhaigh mé mo dhílseacht go hoscailte agus thug mé rabhadh do mo mhuintir iad féin a shábháil.",
+    "Chuir mé i gcuimhne dóibh gur teachtaire iontaofa mé, gan aon difríocht ó na daoine a seoladh roimhe, agus nár cheart dóibh adhradh ach amháin Allah.",
+    "Chuir mo mhuintir draíocht agus buile i leith mé, ach sa deireadh thiar thall, tháinig an pionós a tugadh rabhadh dóibh ina choinne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Hud, teachtaire mhuintir Aad",
+        "Fear creidmheach ó náisiún an Fháidh Hud a maraíodh mar mhairtíreach",
+        "Rialóir mhuintir Aad a dhiúltaigh don fhírinne",
+        "Compánach an Fháidh Salih a raibh amhras air faoi na comharthaí diaga",
+        "Aingeal seolta chun muintir Aad a scriosadh"
+      ],
+      "answer": "Fear creidmheach ó náisiún an Fháidh Hud a maraíodh mar mhairtíreach"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Triail an triomach agus an ghorta a chuir tástáil ar a bhfoighne",
+        "Triail dearbhú creidimh os comhair náisiúin dhíchreidmhigh leatromaigh",
+        "An triail chun long a thógáil chun éalú ó thuile mhór",
+        "An triail a bhaineann le bheith caite sa tine as creideamh in Allah",
+        "An triail a bhaineann le bheith tástáilte le saibhreas agus rathúnas"
+      ],
+      "answer": "Triail dearbhú creidimh os comhair náisiúin dhíchreidmhigh leatromaigh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cathair Mecca inar tógadh an teach naofa",
+        "Machaire fásaigh an náisiúin a shéan a dteachtaire",
+        "Sléibhte Midian áit ar cuireadh an Fáidh Shu'aib",
+        "Bruach abhann na hÉigipte inar aimsíodh an Fáidh Músa",
+        "Gleann mhuintir Aad, buailte ag gaoth ghéar"
+      ],
+      "answer": "Machaire fásaigh an náisiúin a shéan a dteachtaire"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Sábháladh mé i long agus mhair mé go dtí toil Allah.",
+        "Chreid mo mhuintir i mo dhiaidh agus treoraíodh iad chuig an gcosán díreach",
+        "Maraíodh mé ag mo mhuintir ach tógadh m'anam le trócaire Allah.",
+        "Rinne mé aithrí tar éis dom a bheith tástáilte agus ghlac Allah le mo aithrí",
+        "Rinneadh íodal díom a adhradh ag mo mhuintir i ndiaidh mo bháis."
+      ],
+      "answer": "Maraíodh mé ag mo mhuintir ach tógadh m'anam le trócaire Allah."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

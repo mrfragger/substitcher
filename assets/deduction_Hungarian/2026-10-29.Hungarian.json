@@ -1,0 +1,61 @@
+{
+  "title": "Apró figyelmeztetés a menetelő sereg előtt",
+  "intro": "Lépj be egy völgybe, ahol egy hatalmas uralkodó és egy hatalmas sereg közeledik, és képzelj el egy apró utazót, aki figyelmeztetést ad, ami megment egy egész közösséget. Ahogy a fenyegetett közösség menedéket keres, a veszély elmúlik. Kövesd a nyomokat, hogy azonosítsd a figyelmeztetés mögött rejlő figyelmen kívül hagyott alakot.",
+  "clues": [
+    "Az uralkodó királyságához tartozó apró teremtmények közé tartozom.",
+    "A közösségem egy völgyben lévő házakban él, ahol egyikünk szólíthatja a többieket.",
+    "Fenyegetéssel nézünk szembe az uralkodó és az uralkodóval utazó seregek részéről.",
+    "Én vagyok az, aki arra hívom közösségemet, hogy lépjenek be lakhelyeikbe, és arra figyelmeztetek minket, hogy ne hagyjuk magunkat tudtán kívül összetörni.",
+    "Az uralkodó Sulayman, és az én fajom is az ő parancsnoksága alá rendelt lények közé tartozik.",
+    "Én vagyok annak a völgynek a hangyája; figyelmeztetésemre beléptünk hajlékainkba, és megmenekültünk a csapástól, amely különben váratlanul ért volna minket."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A völgy hangya",
+        "A búbos banka",
+        "A varjú",
+        "A kígyó",
+        "Az öszvér"
+      ],
+      "answer": "A völgy hangya"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy figyelmeztetés, ami megkímélt egy hangyaközösséget",
+        "Egy hal gyűrűt kért",
+        "Egy eltűnt trón keresése",
+        "Az ellopott szemek megmentése",
+        "Az uralkodó ételének megtagadása"
+      ],
+      "answer": "Egy figyelmeztetés, ami megkímélt egy hangyaközösséget"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A hangyák völgye",
+        "Szulejmán pecsétgyűrűje",
+        "Juszuf vérfoltos inge",
+        "Az Exodus aranyborjúja",
+        "Mózes botja"
+      ],
+      "answer": "A hangyák völgye"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A közösség megmenekült, miután menedéket keresett",
+        "A közösséget menedék nélkül pusztították el",
+        "A közösség megmenekült, mert a hadsereg visszavonult",
+        "A közösség jutalmul a madarak feletti ellenőrzést kapta",
+        "A közösséget fogságba ejtették a királyi udvarba"
+      ],
+      "answer": "A közösség megmenekült, miután menedéket keresett"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

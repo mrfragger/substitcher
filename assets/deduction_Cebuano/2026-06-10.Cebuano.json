@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Tigbantay sa Hardin",
+  "intro": "Sa usa ka lunhaw nga tanaman, usa ka komunidad ang naghimo og usa ka solemne nga panumpa. Apan ang ilang determinasyon nasulayan sa dihang ang balaan nga kabubut-on mipataliwala, nga nagbag-o sa ilang kadagaya ngadto sa usa ka awaaw nga yuta.",
+  "clues": [
+    "Gipanalanginan kami og mabungahong tanaman, apan nahimo kaming arogante.",
+    "Naghimo mig plano nga mag-ani nga dili ipaambit sa mga kabus.",
+    "Milakaw mi og sayo sa buntag, nga masaligon sa among plano.",
+    "Apan pag-abot namo, among nakita nga ang among tanaman naguba sa tibuok gabii.",
+    "Nakaamgo mi sa among sayop ug nagsugod mi sa pagbasol sa usag usa.",
+    "Sa katapusan naghinulsol mi, apan ulahi na kaayo ang leksyon nga among nakat-unan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Kami?",
+      "options": [
+        "Mga Tawo sa Hardin",
+        "Mga Tawo sa Langob",
+        "Mga tawo sa elepante",
+        "Mga tawo sa Thamud",
+        "Mga tawo sa 'Ad"
+      ],
+      "answer": "Mga Tawo sa Hardin"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Usa ka tanaman nga nahimo nga abo",
+        "Usa ka baha nga nakaguba sa tanan",
+        "Usa ka kagutom nga miigo sa yuta",
+        "Usa ka kasundalohan sa mga langgam nga miatake",
+        "Kusog nga hangin nga nakapangguba sa mga kahoy"
+      ],
+      "answer": "Usa ka tanaman nga nahimo nga abo"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka tanaman",
+        "Usa ka langob",
+        "Usa ka barko",
+        "Usa ka bukid",
+        "Usa ka palasyo"
+      ],
+      "answer": "Usa ka tanaman"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naghinulsol sila apan nawala ang ilang tanaman",
+        "Nalaglag sila sa hingpit",
+        "Sila nahimo nga mga unggoy",
+        "Naluwas sila pinaagi sa pagtuo",
+        "Sila nahimong mga magmamando"
+      ],
+      "answer": "Naghinulsol sila apan nawala ang ilang tanaman"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

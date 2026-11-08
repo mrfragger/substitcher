@@ -1,0 +1,61 @@
+{
+  "title": "Overtrædelsen ved kysten",
+  "intro": "Du står på sandet på en glemt kyst, hvor bølgerne hvisker om et samfund, der er blevet prøvet af en guddommelig befaling. Luften er tung af minderne om en overtrædelse, der førte til en forbløffende forvandling. Hvem var disse sjæle, og hvad var karakteren af ​​deres prøvelse?",
+  "clues": [
+    "Vi var et samfund, der modtog en klar befaling fra vor Herre, men alligevel fandt vi måder at trodse den.",
+    "Vi boede i nærheden af ​​et vandløb, og vores levebrød afhang af dets dyr.",
+    "Vi kom til en prøve den dag, vi blev befalet at afholde os fra verdslige stræben.",
+    "Vandets skabninger kom til os i stort antal på netop den dag og fristede os over al udholdenhed.",
+    "Vi udtænkte et snedigt trick for at omgå den guddommelige orden, i den tro at vi kunne overliste dekretet.",
+    "Vores overtrædelse førte til en ydmygende forvandling; vi blev foragtede aber på Allahs befaling."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Sabbattens folk",
+        "Rass' folk",
+        "Tubbas folk",
+        "Folkene i hulen",
+        "Grøftens ledsagere"
+      ],
+      "answer": "Sabbattens folk"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Fiskens tilsynekomst på sabbatten",
+        "Et år med alvorlig tørke",
+        "En hær af fugle sendt imod dem",
+        "En oversvømmelse, der overvældede dem",
+        "Et voldsomt jordskælv"
+      ],
+      "answer": "Fiskens tilsynekomst på sabbatten"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Havet",
+        "Et bjerg",
+        "En hule",
+        "En ørkendal",
+        "En befæstet by"
+      ],
+      "answer": "Havet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Forvandlet til aber",
+        "Opslugt af jorden",
+        "Ødelagt af en skrigende vind",
+        "Druknet i havet",
+        "Ramt af en byge af sten"
+      ],
+      "answer": "Forvandlet til aber"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

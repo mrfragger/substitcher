@@ -1,0 +1,61 @@
+{
+  "title": "Kilio Kutoka Kina",
+  "intro": "Mtumishi wa Mwenye Rehema alichoka na taifa gumu na akaondoka kabla ya ruhusa kutolewa. Mtu huyu aliishia mahali ambapo hakuna mwanadamu aliyewahi kufika, ambapo wito wa Mungu unasikika kwa njia ya ajabu kupitia tabaka za giza. Akiibuka akiwa dhaifu lakini amebadilishwa, roho hii ikawa somo lisilo na mwisho la uvumilivu, toba ya dhati, na rehema isiyo na kikomo ya Muumba. Je, unaweza kuifunua siri hiyo?",
+  "clues": [
+    "Nilitumwa kama mjumbe kwa watu wangu, lakini walivuka mipaka yote katika kutoamini kwao na wakakataa kusikiliza.",
+    "Nilikasirika kwa kukataliwa kwao na nikawakimbia watu wangu kabla ya amri ya Mwenyezi Mungu kuja.",
+    "Nilipanda meli iliyokuwa imebeba mizigo kupita kiasi, na tukapiga kura ili kubaini ni nani angetupwa baharini.",
+    "Nilitupwa baharini iliyojaa ghasia na kumezwa na samaki mkubwa.",
+    "Nikiwa nimenaswa katika tabaka tatu za giza — tumbo, bahari kuu, na ardhi iliyo chini — nilimwita Mola wangu kwa toba ya dhati.",
+    "Nilitoka kwenye samaki hadi ufukweni wazi, nikiwa dhaifu na nimechoka, na mmea wa mtango ukakua juu yangu. Watu wangu, laki moja au zaidi, hatimaye waliamini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Yunus",
+        "Nabii Ayyub",
+        "Nabii Yusufu",
+        "Nabii Musa",
+        "Nabii Suleiman"
+      ],
+      "answer": "Nabii Yunus"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Imemezwa na samaki mkubwa",
+        "Kutupwa kwenye moto unaowaka",
+        "Imenaswa chini ya kisima",
+        "Kuzidiwa na mafuriko makubwa",
+        "Kufungwa gerezani isivyo haki na mfalme"
+      ],
+      "answer": "Imemezwa na samaki mkubwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Tumbo la samaki mkubwa",
+        "Bonde takatifu karibu na Kaaba",
+        "Safina ikipumzika juu ya mlima",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Kiti cha enzi chenye ukuu usio na kifani"
+      ],
+      "answer": "Tumbo la samaki mkubwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu wake, laki moja au zaidi, waliamini",
+        "Alifufuliwa akiwa hai hadi mbinguni",
+        "Akawa mtawala wa ufalme usio na mpinzani",
+        "Imeharibiwa na kilio cha kutoboa kutoka angani",
+        "Imepinduliwa na tetemeko la ardhi lenye uharibifu mkubwa"
+      ],
+      "answer": "Watu wake, laki moja au zaidi, waliamini"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

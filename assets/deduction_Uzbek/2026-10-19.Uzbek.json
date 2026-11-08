@@ -1,0 +1,61 @@
+{
+  "title": "Osmondan quvilganlar",
+  "intro": "Sirli mavjudot yaratilish va rad etish chorrahasida turibdi. Ularning hikoyasi mislsiz takabburlik va ilohiy buyruqqa bo'ysunmaslik hikoyasidir. Ularning tanlovi har bir avlodda aks-sado beradi va bu dunyoga tug'ilgan har bir jon uchun sinovga aylanadi. Bu abadiy dushmanni aniqlay olasizmi?",
+  "clues": [
+    "Men kosmik ahamiyatga ega bo'lgan bir voqeada ishtirok etgan edim, o'shanda yangi mavjudot loydan yaratilib, Mehribonning nafasi bilan hayotga kirdi.",
+    "Men o'zim changdan farqli o'laroq, bitta yonib turgan elementdan yaratilganman.",
+    "Menga o'z mavqeimdan pastroq deb o'ylagan buyruq berildi.",
+    "Ichimda mag'rurlik kuchayib ketdi va men bu buyruqqa bo'ysunishdan qat'iyan bosh tortdim.",
+    "Boshqalarni yo'ldan ozdirishdek e'lon qilingan maqsadimni amalga oshirishim uchun menga belgilangan kun berilgunga qadar kechikish.",
+    "Men yer yuzida yuradigan, yolg'onlarni pichirlaydigan va ularni to'g'ri yo'ldan chalg'itadigan barchaning e'lon qilingan dushmaniman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Iblis (Shayton)",
+        "Fir'avn (Fir'avn)",
+        "Xomon",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Shayton)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Odam Ato oldida bosh egishdan bosh tortdi",
+        "Soxta ilohiylikni da'vo qildi",
+        "Ibodat uchun oltin buzoq yasagan",
+        "Hasad tufayli akasini o'ldirdi",
+        "Makkada mushriklarga qarshi kurashga boshchilik qildi"
+      ],
+      "answer": "Odam Ato oldida bosh egishdan bosh tortdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Jannat (Jannat)",
+        "Misrdagi fir'avn saroyi",
+        "Tuvaning muqaddas vodiysi",
+        "Dengiz tublari",
+        "Sheba bog'i"
+      ],
+      "answer": "Jannat (Jannat)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Qiyomat kuniga qadar muhlat berildi",
+        "Dengizda qo'shin bilan birga cho'kib ketdi",
+        "Yer xazinalar bilan birga yutib yubordi",
+        "Shabbat kunini buzgani uchun maymunga aylantirildi",
+        "Osmondan otilgan toshlar bilan kuydirilgan"
+      ],
+      "answer": "Qiyomat kuniga qadar muhlat berildi"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ilangatye elingaphakathi kwibhotwe lokuzikhukhumeza",
+  "intro": "Emva kweendonga ezinkulu zebhotwe elinamandla kakhulu kwihlabathi lamandulo kwakuhlala umntu onentliziyo ephethe imfihlo engenakuthuliswa ngumthetho wasebukhosini. Ngelixa bonke abantu babemngqongile bequbuda koothixo bobuxoki, lo mphefumlo wawugcina ukholo oluzolileyo luvutha ngaphakathi. Umlawuli welo lizwe wayezikholelwa ukuba ungowobuthixo, kodwa lo mntu wakhetha inyaniso kunentuthuzelo, nokuzinikela kunokhuseleko. Namhlanje, umsebenzi wakho kukufumanisa ukuba ngubani lo mphefumlo unesibindi, obali lakhe lihlala lingomnye wemizekelo enamandla yokholo olungagungqiyo.",
+  "clues": [
+    "Bendihlala kwindawo enobutyebi obukhulu nobukhulu obungenakuthelekiswa nanto, apho umlawuli welizwe wayenegunya elipheleleyo phezu kwayo yonke into.",
+    "Ngelixa abo babendingqongile babenqula oothixo bobuxoki, ndagcina ukukhanya kokholo okuzolileyo entliziyweni yam.",
+    "Ndafumanisa ndaza ndamkela umntwana owaziswa kum ngendlela engaqhelekanga - kungengokuzalwa, kodwa ngamanzi omlambo omkhulu.",
+    "Ndathandaza eNkosini yam, ndicela ikhaya elikufutshane nayo eParadesi kunye nosindiso kurhulumente ongqongqo owawundijikelezile.",
+    "Umntwana endamkhulisayo wakhula ukuze alwe nomlawuli owayelawula ikamva lam, kwaye ndama ndiqinile elukholweni lwam nangona ndandisongelwa.",
+    "Ndingulowo igama lakhe lihlonitshwayo kwiQuran njengomzekelo wokholo, kwaye ndandihlala kwibhotwe likaFaro ngokwakhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UAsia, umfazi kaFaro",
+        "UMaryam, unina ka-Isa",
+        "UBilqis, uKumkanikazi waseShebha",
+        "Umfazi woMprofeti uLut",
+        "Umfazi ka-Imran"
+      ],
+      "answer": "UAsia, umfazi kaFaro"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukufumanisa nokukhulisa usana olulahliweyo olwaba ngumprofeti omkhulu",
+        "Ukuphoswa emlilweni omkhulu ngumtyholi",
+        "Ukubona umkhukula omkhulu owatshabalalisa abantu",
+        "Ukuzibonela ukuxukuxa kwesundu kunye nokubonelela ngokutya",
+        "Ukukhulelwa unyana nangona sele ekhulile"
+      ],
+      "answer": "Ukufumanisa nokukhulisa usana olulahliweyo olwaba ngumprofeti omkhulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ibhotwe lasebukhosini elinobuqaqawuli obungenakuthelekiswa nanto",
+        "Inqanawa enkulu eyakhelwe ukumelana nezikhukula",
+        "Umqolomba onzulu ofihliweyo ezintabeni",
+        "Umlilo ovuthayo owakhiwe phezu kwentaba",
+        "Igadi ebiyelwe ngodonga"
+      ],
+      "answer": "Ibhotwe lasebukhosini elinobuqaqawuli obungenakuthelekiswa nanto"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ikhaya lanikwa eParadesi ngentando ka-Allah",
+        "Umkhukula omkhulu watshabalalisa abangakholwayo besizwe samandulo",
+        "Ubukumkani bamandla negunya elikhulu banikwa kweli hlabathi",
+        "Umkhosi onamandla wasasazeka ziintaka ezazibhabha",
+        "Umlawuli otyholwa ngobuxoki owayesithi unguThixo watshona elwandle"
+      ],
+      "answer": "Ikhaya lanikwa eParadesi ngentando ka-Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

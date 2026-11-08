@@ -1,0 +1,61 @@
+{
+  "title": "Alaren zerbitzari gorena",
+  "intro": "Antzinako garaietako pertsonaia baten xuxurlak entzuten dituzu, Alaren zerbitzari bat, arruntaren gainetik kokatua. Pertsona hau pazientzia irmoagatik eta egiazkotasun absolutuagatik zen ezaguna, eta mezutik aldendu zen herri bati bidali zioten. Nor da arima goren hau?",
+  "clues": [
+    "Alak profeta gisa aukeratu ninduen eta Koran Santuan aipatzen nau.",
+    "Nire pazientzia eta egiazkotasunagatik nintzen ezaguna, Alak goraipatzen dituen ezaugarriak.",
+    "Jainko Bakarra gurtzera deitu nuen nire herria, baina askok arbuiatu ninduten.",
+    "Ala-k goratu egin zuen nire egoera, eta maila altua eman zidan.",
+    "Askotan aipatzen naute beste profeta batzuekin batera, hala nola Ismail eta Dhul-Kifl.",
+    "Ala-k nire inguruan dio: «Eta maila gorenera igo genuen». (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Idris profeta",
+        "Elias profeta",
+        "Dhu al-Kifl profeta",
+        "Al-Yasa profeta",
+        "Hud profeta"
+      ],
+      "answer": "Idris profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Jendea Ala gurtzera deitu zuen",
+        "Arka eraiki zuen.",
+        "Faraoiaren aurka borrokatu zen",
+        "Gaixotasun larriarekin probatu zuten",
+        "Sutara bota zuten."
+      ],
+      "answer": "Jendea Ala gurtzera deitu zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Maila altua/goi mailakoa",
+        "Arka",
+        "Langileak",
+        "Sua",
+        "Putzua"
+      ],
+      "answer": "Maila altua/goi mailakoa"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Goi mailako egoerara igoa",
+        "Uholdean itota.",
+        "Balea batek irentsia.",
+        "Sutetik salbatua.",
+        "Errege bihurtu zen."
+      ],
+      "answer": "Goi mailako egoerara igoa"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

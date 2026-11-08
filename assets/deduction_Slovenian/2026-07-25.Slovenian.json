@@ -1,0 +1,61 @@
+{
+  "title": "Prebivalci dveh vrtov",
+  "intro": "V deželi, kjer je obilje blagoslovov teklo v izobilju, je nekoč skupnost uživala v bogastvu dveh veličastnih vrtov. Njihova življenja so bila dokaz božje naklonjenosti, a ko je hvaležnost upadla, se je njihova zgodba obrnila, kar je vodilo do preobrazbe, ki je postala trajno znamenje za vse, ki razmišljajo.",
+  "clues": [
+    "Bili smo ljudje, blagoslovljeni z deželo lahkotnosti in obilja.",
+    "Naš Gospod nam je podaril dva čudovita vrta, bujna in rodovitna na vseh straneh.",
+    "Zapovedano nam je bilo, naj bomo hvaležni, a smo izbrali nehvaležnost in se obrnili stran.",
+    "Velik jez je zadrževal vode, ki so dajale življenje naši deželi.",
+    "Ko smo vztrajali pri svojem napačnem ravnanju, je jez počil in poplavna voda je odplavila.",
+    "Naše nekoč bujne vrtove je nadomestilo grenko sadje, tamariske in nekaj lotosovih dreves."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prebivalci Sabe",
+        "Ljudje iz Thamuda",
+        "Ljudje iz Madyana",
+        "Spremljevalci jame",
+        "Ljudje slona"
+      ],
+      "answer": "Prebivalci Sabe"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Silovit veter sedem noči",
+        "Dež kamenja z neba",
+        "Uničujoča poplava zaradi poka jezu",
+        "Glasen krik z neba",
+        "Utapljanje v morju"
+      ],
+      "answer": "Uničujoča poplava zaradi poka jezu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Veliki jez Ma'rib",
+        "Dolina Wadi al-Qura",
+        "Iramov vrt",
+        "Vodnjak Zamzam",
+        "Gora Sinaj"
+      ],
+      "answer": "Veliki jez Ma'rib"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Naše vrtove je nadomestilo grenko sadje in redka drevesa",
+        "Zemlja nas je pogoltnila v potresu",
+        "Spremenili so nas v opice in prašiče",
+        "Utopila nas je velika poplava",
+        "Uničil nas je dež kamenja"
+      ],
+      "answer": "Naše vrtove je nadomestilo grenko sadje in redka drevesa"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

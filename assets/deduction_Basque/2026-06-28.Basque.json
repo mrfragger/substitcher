@@ -1,0 +1,61 @@
+{
+  "title": "Zaharraren ustekabeko elikadura",
+  "intro": "Alaren Etxearen barruti sakratuan, Jainkoaren zerbitzari adineko batek itxaropen guztiak gainditu zituen misterio sakon bat bizi izan zuen. Guraso naturalaren urteak aspaldi gainditu zituen pertsona deboto honek Jainkoaren erruki mugagabea agerian utzi zuen zerbait apartekoa ikusi zuen. Puzzlea profeten bizitzako une ahaztu hau argitzean datza.",
+  "clues": [
+    "Nire herria Israel bezala ezagutzen zen, antzinako patriarka handi baten ondorengoak.",
+    "Gauak otoitzean eman nituen, tenpluan nire Jaunaren aurrean ahuspeztuta.",
+    "Zahartzaroan seme bat eman zidaten, beti Ala goratzeari utzi nion opari batengatik.",
+    "Nire probak nire zaintzapean zegoen arima gazte batentzat agertu zen mantenu bat aurkitzea izan zuen helburu.",
+    "Zakariyya izeneko profeta bat nintzen, Bayt al-Maqdis-en Maryam zaintzeko ardura zuena.",
+    "Erantzuna Alak Maryam onartu eta bizibidea eman zion bertsoan datza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Tenpluan Mariam zaindu zuen profeta",
+        "Etxe sakratua eraiki zuen profeta",
+        "Profeta arrain handi batek irentsi zuen",
+        "Bere herriarengandik ihesi joan zen profeta",
+        "Ala-ri zuzenean hitz egin zion profeta"
+      ],
+      "answer": "Tenpluan Mariam zaindu zuen profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Urteetako lehortearekin probatzen ari dira",
+        "Gazte bati misteriotsuki emandako mantenua aurkitzea",
+        "Jainkozko gidaritza baztertu zuen nazio bati predikatzea",
+        "Norberaren jendeak zulo batera botata izatea",
+        "Ikusmenen bidez errebelazioa jasotzea"
+      ],
+      "answer": "Gazte bati misteriotsuki emandako mantenua aurkitzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Oholez eta iltzez eraikitako itsasontzia",
+        "Jerusalemgo tenplu sakratua",
+        "Suntsitutako lorategi bat.",
+        "Errege zuzen batek eraikitako hiria",
+        "Ozeanoaren sakonera."
+      ],
+      "answer": "Jerusalemgo tenplu sakratua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Jendeak sinetsi eta mezulariari jarraitu zion",
+        "Jainkozko onarpena eta errukia gurtzari dedikatzen zaizkienentzat",
+        "Zigorra sinestunen gainera etorri zen",
+        "Seme bat jaio zen zahartzaroan, agindu bezala",
+        "Basamortuan zehar igarobide segurua"
+      ],
+      "answer": "Jainkozko onarpena eta errukia gurtzari dedikatzen zaizkienentzat"
+    }
+  },
+  "verseRef": "3:37",
+  "arabic": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍۢ وَأَنۢبَتَهَا نَبَاتًا حَسَنًۭا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًۭا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+  "verse": "So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, \"O Mary, from where is this [coming] to you?\" She said, \"It is from Allāh. Indeed, Allāh provides for whom He wills without account.\" (3:37)"
+}

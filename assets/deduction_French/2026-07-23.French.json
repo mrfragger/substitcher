@@ -1,0 +1,61 @@
+{
+  "title": "L'armée qui fut accueillie par de l'argile volante",
+  "intro": "Avant l'avènement du prophète Mahomet, un puissant souverain yéménite lança une campagne militaire visant à détruire un sanctuaire sacré à La Mecque. Cet ennemi commandait une immense armée, dotée d'éléphants de guerre, confiant en sa force et son nombre. Cependant, son périple prit fin brutalement suite à une intervention divine inattendue. Saurez-vous identifier celui qui fut confronté à ce destin extraordinaire ?",
+  "clues": [
+    "Nous avons marché avec une armée massive et de puissants éléphants de guerre vers la maison sacrée",
+    "Nous avions l'intention de déraciner et de détruire un lieu de culte construit par des serviteurs du Très Miséricordieux.",
+    "Une volée de petits oiseaux fut envoyée contre nous, portant des pierres d'argile dans leur bec et leurs serres.",
+    "Nous fûmes accueillis par un bruit qui nous jeta des pierres, nous réduisant à l'état de débris piétinés.",
+    "J'étais originaire du Yémen et j'ai servi sous un souverain qui cherchait à profaner le sanctuaire sacré.",
+    "Nous avons été donnés en exemple à ceux qui oseraient défier le sanctuaire d'Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "L'armée d'Abraha al-Ashram",
+        "Les forces éthiopiennes",
+        "Les conquérants perses",
+        "Les légions romaines",
+        "Les pillards bédouins"
+      ],
+      "answer": "L'armée d'Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le siège d'une forteresse du désert",
+        "Une invasion du sanctuaire sacré de La Mecque",
+        "Une bataille navale en mer",
+        "Une rébellion contre un roi tyran",
+        "À la recherche d'un prophète disparu"
+      ],
+      "answer": "Une invasion du sanctuaire sacré de La Mecque"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La vallée de Mina près de La Mecque",
+        "Le palais de Sanaa au Yémen",
+        "Les montagnes de Tihamah",
+        "La ville antique de Jérusalem",
+        "Les rivages de la mer Rouge"
+      ],
+      "answer": "La vallée de Mina près de La Mecque"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Victoire et destruction de la maison sacrée",
+        "Défaite par des oiseaux transportant des pierres d'argile",
+        "Abandon et conversion pacifiques",
+        "famine et catastrophes naturelles",
+        "Retraite en raison des fortes pluies"
+      ],
+      "answer": "Défaite par des oiseaux transportant des pierres d'argile"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

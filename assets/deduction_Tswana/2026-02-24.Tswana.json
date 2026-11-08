@@ -1,0 +1,61 @@
+{
+  "title": "Modumo wa Tsietso",
+  "intro": "Kgolagano ya losika e ne ya lekwa ke go fufegela thata. Go ne ga rulaganngwa leano la sephiri, le le neng la simolola motseletsele wa ditiragalo tse di neng di tla tsaya dingwaga di le dintsi le go kgabaganya dikgala tse dikgolo. Ditiro tsa setlhopha seno di ne tsa baka kgaogano e e tseneletseng le kutlobotlhoko, mme kgang ga e a ka ya felela foo. Ke kgang ya tsietso, go ikotlhaya, le go phuthologa ga bofelo ga leano la bomodimo. A o ka kgona go ribolola gore batho bano ba ditlhopho tsa bone di neng tsa boelediwa mo dikokomaneng di le dintsi ke bomang?",
+  "clues": [
+    "Re ne re jewa ke lefufa ka ntlha ya lorato lo lo neng lo bontshiwa mongwe wa rona.",
+    "Ka ntlha ya lefufa la rona, re ne ra loga leano mmogo mme ra latlhela ngwana wa kwa gaetsho mo lefifing la sediba.",
+    "Go fitlha tiro ya rona, re ne ra naya rraarona seaparo se se neng se tletse madi a maaka.",
+    "Dingwaga di le dintsi moragonyana, leuba le legolo le ne la re pateletsa go tsaya loeto go ya kwa Egepeto re batla dijo.",
+    "Fa re le koo, re ne ra tla fa pele ga mmusi mongwe yo o maatla yo, re sa mo itse, e neng e le ene ngwana wa rona yo re neng re mo diretse phoso.",
+    "Teko ya rona ya bofelo e ne e le go tlisa morwarraarona yo mmotlana, Binyamin, se se neng sa dira gore go senolwe nako e e fetileng ya rona mme rraarona e le Moporofeti Ya’qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re bomang?",
+      "options": [
+        "Barwa ba ga Adame (Qabil le Habil)",
+        "Barutwa ba ga Moporofeti Isa",
+        "Bomorwarraagwe Moporofeti Yusuf",
+        "Batho ba Madyan",
+        "Maselamotse a Fir'awn"
+      ],
+      "answer": "Bomorwarraagwe Moporofeti Yusuf"
+    },
+    "trial": {
+      "label": "Tiro ya rona ya konokono e ne e le eng?",
+      "options": [
+        "Go aga namane ya gauta ya kobamelo",
+        "Go batla go bona Allah ka tlhamalalo",
+        "Go sotla moporofeti ka ntlha ya go aga araka",
+        "Go tsietsa rraarona le go latlha monnawe .",
+        "Go tlola Sabata ka go tshwara ditlhapi"
+      ],
+      "answer": "Go tsietsa rraarona le go latlha monnawe ."
+    },
+    "location": {
+      "label": "Ke selo sefe se se neng se le botlhokwa mo tsietsong ya rona?",
+      "options": [
+        "Setlhopha sa matlapanakwalelo a a gabilweng",
+        "Hempe e e nang le madi a maaka",
+        "Namane ya gauta",
+        "Nonyane e ntle (Hoopoe)",
+        "Lore lo lo neng lwa fetoga noga"
+      ],
+      "answer": "Hempe e e nang le madi a maaka"
+    },
+    "outcome": {
+      "label": "Kgang ya rona e ne ya felela ka eng kwa bofelong?",
+      "options": [
+        "Re sentswe ke morwalela o mogolo",
+        "Re ne ra fetolwa go nna ditshwene",
+        "Re meditswe ke lefatshe .",
+        "Re ne ra itshwarelwa mme ra kopana gape le ba lelapa la rona",
+        "Re ne ra nwela mo lewatleng"
+      ],
+      "answer": "Re ne ra itshwarelwa mme ra kopana gape le ba lelapa la rona"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

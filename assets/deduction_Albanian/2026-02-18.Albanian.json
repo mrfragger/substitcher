@@ -1,0 +1,61 @@
+{
+  "title": "Dëshmitari i Patundur",
+  "intro": "Një rrëfim i thellë shpaloset, duke zbuluar vendosmërinë e palëkundur të një komuniteti përballë tiranisë së pamasë. Historia e tyre shërben si një dëshmi e besimit, edhe kur përballen me sakrificën përfundimtare. Ky rrëfim na kujton fuqinë e besimit kundër shtypjes dërrmuese.",
+  "clues": [
+    "Ne ishim një grup, historia e të cilit rrëfehet në një sure të shkurtër dhe të fuqishme, duke paralajmëruar kundër persekutimit.",
+    "Ne u përballëm me një sundimtar që donte të zhdukte besimin tonë në të Vetmin Zot, Zotin e Arshit, të Lavdëruarin.",
+    "Ne iu nënshtruam një prove të tmerrshme që përfshinte një gropë të madhe të gërmuar në tokë.",
+    "Ne pamë besimtarët, përfshirë foshnjat, teksa hidheshin në një ferr të tërbuar brenda asaj grope.",
+    "Torturuesit tanë u mallkuan për veprimet e tyre, ndërsa neve na u premtua një shpërblim i madh për qëndrueshmërinë tonë.",
+    "Përpjekja e sundimtarit për të shuar besimin tonë vetëm sa e forcoi vendin tonë si martirë në sytë e Allahut, i cili është dëshmitar i gjithçkaje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Populli i Themudit",
+        "Populli i Adit",
+        "Njerëzit e Hendekut",
+        "Populli i Lutit",
+        "Njerëzit e Elefantit"
+      ],
+      "answer": "Njerëzit e Hendekut"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Përmbytja e Madhe",
+        "Shkurre që digjet",
+        "Mbytja në Det",
+        "Gropa e Zjarrit",
+        "Tërmeti"
+      ],
+      "answer": "Gropa e Zjarrit"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Arka",
+        "Stafi",
+        "Hendeku",
+        "Mali",
+        "Pusi"
+      ],
+      "answer": "Hendeku"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U dha një mbretëri",
+        "U shpëtuan nga një mrekulli",
+        "Arrita martirizimin dhe Parajsën",
+        "Ishin të shpërndarë nëpër toka",
+        "U dhanë pasuri të jashtëzakonshme"
+      ],
+      "answer": "Arrita martirizimin dhe Parajsën"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Y Frenin a Groesodd Bennau'r Ddaear",
+  "intro": "Dychmygwch reolwr pwerus, wedi cael nerth ac awdurdod dros y tir. Aeth y ffigur hwn ar deithiau rhyfeddol, gan gyrraedd y lle mae'r haul yn machlud a'r lle mae'n codi, gan ddod ar draws pobloedd rhyfedd ac wynebu her fawr gan ddwy genedl lygredig. Pwy yw'r arweinydd dirgel hwn?",
+  "clues": [
+    "Roeddwn i'n rheolwr a gafodd awdurdod a modd i gyrraedd corneli pellaf y ddaear.",
+    "Teithiais i'r gorllewin a gwelais yr haul yn machlud mewn gwanwyn tywyll.",
+    "Fe wnes i ddod ar draws pobl ger yr haul yn codi nad oedd ganddyn nhw loches rhag ei ​​wres.",
+    "Gofynnodd cymuned arall am fy help yn erbyn dwy genedl llygredig o'r enw Gog a Magog.",
+    "Adeiladais rwystr gan ddefnyddio haearn a chopr tawdd i'w cynnwys.",
+    "Datganais fod y rhwystr hwn yn drugaredd gan fy Arglwydd, a bydd yn parhau hyd yr amser penodedig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Proffwyd Sulaiman",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Adeiladu rhwystr yn erbyn Gog a Magog",
+        "Goroesi llifogydd mawr",
+        "Cael eich taflu i dân",
+        "Croesi'r môr",
+        "Ymladd cawr"
+      ],
+      "answer": "Adeiladu rhwystr yn erbyn Gog a Magog"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Rhwystr o haearn a chopr",
+        "Staff a drodd yn neidr",
+        "Llong o bren",
+        "Palas o wydr",
+        "Gardd o balmwydd dyddiad"
+      ],
+      "answer": "Rhwystr o haearn a chopr"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cafodd Gog a Magog eu cyfyngu tan yr amser penodedig",
+        "Daeth yn broffwyd",
+        "Cafodd ei gosbi am drahausrwydd",
+        "Fe gorchfygodd y byd i gyd",
+        "Bu fyw am byth"
+      ],
+      "answer": "Cafodd Gog a Magog eu cyfyngu tan yr amser penodedig"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

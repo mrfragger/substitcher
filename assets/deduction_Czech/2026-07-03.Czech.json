@@ -1,0 +1,61 @@
+{
+  "title": "Posel bezprecedentního hříchu",
+  "intro": "Některé příběhy v Koránu odhalují hloubku zkaženosti, do které může upadnout celá společnost. Tento posel stál sám a prosil lid topící se v zvrácenosti, kterou žádný národ před nimi nikdy nepronásledoval. Navzdory letům varování zůstala srdce zatvrzelá a božské rozhodnutí přišlo děsivým způsobem. Dokážete identifikovat tohoto ušlechtilého Alláhova posla?",
+  "clues": [
+    "Byl jsem poslán jako varovatel k lidu pohlcenému zvráceností, jaké se žádný národ před nimi nikdy nedopustil.",
+    "Můj lid mě nazval lhářem a vyhrožoval, že mě i mé následovníky vyžene ze země.",
+    "Vážení návštěvníci přicházeli do mého domu v podobě stávkujících mladých mužů a já cítil hlubokou úzkost o jejich bezpečnost.",
+    "Můj lid požadoval, abych jim vydal své hosty, aniž by tušil, že tito návštěvníci byli andělé poslaní Alláhem.",
+    "Můj vlastní manžel/manželka nesdílel/a mou víru a rozhodl/a se zůstat s odsouzenými k záhubě.",
+    "Za úsvitu jsem byla zachráněna i se svými dcerami, když se spustil ničivý déšť kamení a naše města se zřítila."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Lut",
+        "Prorok Šu'aib",
+        "Prorok Hud",
+        "Prorok Nuh",
+        "Prorok Sálih"
+      ],
+      "answer": "Prorok Lut"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Velká potopa zachvátila zemi",
+        "Ztráta zraku v důsledku dlouhého utrpení",
+        "Tyran prohlašující božství",
+        "Být vhozen do planoucího ohně",
+        "Požadováno vydání vážených hostů"
+      ],
+      "answer": "Požadováno vydání vážených hostů"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Velká archa postavená ručně",
+        "Hůl, která rozdělila moře",
+        "Zázračná velbloudice",
+        "Planoucí oheň",
+        "Převrácená města"
+      ],
+      "answer": "Převrácená města"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Utopil se při pronásledování věřících",
+        "Zachráněn z ohnivé pece bez úhony",
+        "Živý vznesen k nebesům",
+        "Rodina zahynula při velké povodni",
+        "Rodina zachráněna, až na nevěrnou manželku"
+      ],
+      "answer": "Rodina zachráněna, až na nevěrnou manželku"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

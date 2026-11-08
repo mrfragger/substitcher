@@ -1,0 +1,61 @@
+{
+  "title": "Les architectes de pierre",
+  "intro": "Imaginez une civilisation puissante, dotée d'une force et d'un savoir-faire exceptionnels, sculptant de somptueuses demeures à flanc de montagne. Ce peuple jouissait d'une immense prospérité et d'une prouesse architecturale unique. Pourtant, malgré des avertissements clairs, il choisit une voie qui le mènerait à une fin tragique et inoubliable. Pouvez-vous identifier ce groupe dont l'histoire offre une leçon profonde à tous ceux qui y réfléchissent ?",
+  "clues": [
+    "On nous a donné la force et le savoir-faire, ce qui nous a permis de creuser de magnifiques demeures à même la montagne.",
+    "Allah nous a donné un signe clair : une créature unique qu'il fallait laisser paître en toute tranquillité.",
+    "Notre communauté est devenue arrogante, remettant en question le message divin apporté par un messager issu des nôtres.",
+    "Nous avons conspiré pour nuire au signe miraculeux, malgré les avertissements de châtiment sévère.",
+    "Nous avons désobéi à l'ordre de laisser cette créature particulière boire à notre puits un jour sur deux.",
+    "Nous avons connu une fin tragique, fauchés par une seule et terrifiante explosion après notre acte de transgression."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les gens de 'Ad",
+        "Peuple de Madian",
+        "Le peuple de l'éléphant",
+        "Peuple de Thamud",
+        "Peuple de Lut"
+      ],
+      "answer": "Peuple de Thamud"
+    },
+    "trial": {
+      "label": "Notre procès/événement majeur",
+      "options": [
+        "L'inondation qui a submergé la terre",
+        "La séparation de la mer",
+        "La destruction par une seule explosion/un seul cri",
+        "L'incendie d'une ville",
+        "La transformation d'une montagne en poussière"
+      ],
+      "answer": "La destruction par une seule explosion/un seul cri"
+    },
+    "location": {
+      "label": "Un élément clé de notre histoire",
+      "options": [
+        "Un veau doré",
+        "Une chamelle miraculeuse",
+        "Un buisson ardent",
+        "Un oiseau qui parle",
+        "Un trône majestueux"
+      ],
+      "answer": "Une chamelle miraculeuse"
+    },
+    "outcome": {
+      "label": "Notre résultat final",
+      "options": [
+        "Doté d'une immense richesse et d'un immense pouvoir",
+        "Élevé au rang de prophète",
+        "L'anéantissement total par un châtiment divin",
+        "Pardonné après un repentir sincère",
+        "Éparpillés à travers la terre pour errer"
+      ],
+      "answer": "L'anéantissement total par un châtiment divin"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

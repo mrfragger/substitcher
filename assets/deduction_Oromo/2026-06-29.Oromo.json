@@ -1,0 +1,61 @@
+{
+  "title": "Lubbuu Obsaan",
+  "intro": "Seenaa raajii keessatti lubbuun obsi ishee huccuu jiraachuu isaanii keessatti bocame tokkotu jira ture. Imimmaanii fi yeroodhaan abdii qabatanii, ogummaa Waaqayyootti amanamuudhaaf fakkeenya yeroo hin qabne ta’aniiru. Iccitii nama hin raafamne kanaa hiikuu dandeessaa?",
+  "clues": [
+    "Maatii raajota keessaa dhaladhe, ta’us qormaanni koo inni guddaan karaa mucaa baay’ee jaalladhu sanaan dhufe.",
+    "Abjuu ilmi koo qooddate irraa akeekkachiisni hinaaffaa naaf dhufe, nageenya isaas nan sodaadhe.",
+    "Ijji kiyya gaddaan adii ta'e, ta'us rahmata Rabbiitti iimaana dhabee hin beeku.",
+    "Urgaa mucaa koo isa bade fagoodhaa na bira ga’ee, yeroo sanatti deebi’ee wal arguun akka dhihaate nan beeka ture.",
+    "Maatiin koo yeroo mul’anni durii raawwatamu, ija koos deebi’ee yeroo argatu galata guddaadhaan jilbeenfatan.",
+    "Ani nama shamizii dhiigaan faalamee dhiyaate, boodarra shamizii ija koo fayyise qofa argadhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Ibraahim",
+        "Nabi Ishaaq",
+        "Nabi Yaqub",
+        "Nabi Yuusuf",
+        "Nabi Ayyuub"
+      ],
+      "answer": "Nabi Yaqub"
+    },
+    "trial": {
+      "label": "Dhaddacha Murteessaa",
+      "options": [
+        "Mucaa jaallatamaa irraa adda bahuu fi ija dhabuu",
+        "Ibidda boba’aa keessa darbatamuu",
+        "Qurxummii guddaa tokkoon liqimfamuu",
+        "Qabeenya, ijoollee, fi fayyaa dhabuu dandamachuu",
+        "Obboleeyyan isaatiin gantee boolla bishaanii keessatti gatamuu"
+      ],
+      "answer": "Mucaa jaallatamaa irraa adda bahuu fi ija dhabuu"
+    },
+    "location": {
+      "label": "Wanti Mallattoo",
+      "options": [
+        "Qamisa jalqaba dhugaa dhoksite sana booda mul'ise",
+        "Ulee bofa ta'e",
+        "Qurxummii galaanaa raajii liqimse",
+        "Ibidda qabbanaa'e",
+        "Sandaala tokko bosona gubaa jiru irratti"
+      ],
+      "answer": "Qamisa jalqaba dhugaa dhoksite sana booda mul'ise"
+    },
+    "outcome": {
+      "label": "Murtoo Waaqaa",
+      "options": [
+        "Nama jaallannu bade waliin deebi'anii wal arguu fi ija namaa deebisuu",
+        "Saba cunqursaa jalaa baraaruu",
+        "Garaa qurxummii irraa bilisa baasuu",
+        "Fayyina ibidda boba'aa irraa",
+        "Teessoo guddaa tokkotti ol bahuu"
+      ],
+      "answer": "Nama jaallannu bade waliin deebi'anii wal arguu fi ija namaa deebisuu"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

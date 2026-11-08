@@ -1,0 +1,61 @@
+{
+  "title": "Mjenzi Imara wa Wokovu",
+  "intro": "Mtu huyu mwenye subira kubwa na imani isiyoyumba, alijitolea miaka mingi kwa utume wa kimungu, akikabiliwa na dharau na kukataliwa bila kukoma. Hadithi yao ni ushuhuda wenye nguvu wa imani mbele ya kutoamini kupita kiasi, na kufikia kilele katika tukio muhimu lililobadilisha umbo la ulimwengu.",
+  "clues": [
+    "Nilijitolea muda mrefu sana wa maisha yangu kuwaita watu wangu kwenye ibada ya Mwenyezi Mungu.",
+    "Watu wangu walinidhihaki na kunituhumu kwa makosa na wazimu ulio dhahiri.",
+    "Niliamriwa kujenga kitu ambacho kilionekana kuwa kisicho cha kawaida kwa jamii yangu isiyo na bandari.",
+    "Ni wachache tu walioamini na kujiunga nami na familia yangu katika ujenzi huu wa kipekee.",
+    "Nilibeba jozi za kila kiumbe hai ndani ya meli, kama alivyoagizwa na Mwenyezi Mungu.",
+    "Gharika kubwa iliifunika dunia, ikiwaokoa wale tu waliokuwa nami kwenye chombo changu, huku mwanangu mwenyewe akiangamia kwa kutokuamini kwake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Salih",
+        "Nabii Hud",
+        "Nabii Nuh",
+        "Nabii Daudi",
+        "Nabii Sulayman"
+      ],
+      "answer": "Nabii Nuh"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Uharibifu wa tetemeko la ardhi",
+        "Kugawanyika kwa bahari",
+        "Mafuriko makubwa",
+        "Moto wa Nimrodi",
+        "Pigo la vyura"
+      ],
+      "answer": "Mafuriko makubwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kichaka kinachowaka moto",
+        "Safina",
+        "Kisima cha maji",
+        "Ndama wa dhahabu",
+        "Mlima wa Tur"
+      ],
+      "answer": "Safina"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alipokea ufalme",
+        "Watu wake walibadilishwa kuwa nyani",
+        "Watu wake waliokolewa kwa muujiza",
+        "Watu wake walizama majini",
+        "Watu wake walipigwa na radi"
+      ],
+      "answer": "Watu wake walizama majini"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

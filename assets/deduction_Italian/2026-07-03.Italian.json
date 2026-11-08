@@ -1,0 +1,61 @@
+{
+  "title": "L'araldo di un peccato senza precedenti",
+  "intro": "Alcune storie del Corano rivelano la profondità della corruzione in cui può sprofondare un'intera società. Questo messaggero si erse da solo, implorando un popolo immerso in una perversione che nessuna nazione prima di lui aveva mai perseguitato. Nonostante anni di avvertimenti, i cuori rimasero induriti e il decreto divino giunse nel modo più terrificante. Sapreste identificare questo nobile messaggero di Allah?",
+  "clues": [
+    "Sono stato inviato come ammonitore a un popolo consumato da una perversione che nessuna nazione prima di esso aveva mai commesso.",
+    "La mia gente mi ha dato del bugiardo e ha minacciato di cacciare me e i miei seguaci da quella terra.",
+    "Visitai illustri a casa mia, si trattava di giovani uomini di bell'aspetto, e provai una profonda angoscia per la loro incolumità.",
+    "La mia gente mi chiese di consegnare loro i miei ospiti, ignara che questi visitatori fossero angeli inviati da Allah.",
+    "Mio marito non condivideva la mia fede e scelse di rimanere indietro con i condannati.",
+    "Mi sono salvata insieme alle mie figlie all'alba, mentre una pioggia devastante di pietre si abbatteva e le nostre città venivano sconvolte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Lutero",
+        "Profeta Shu'aib",
+        "Profeta Hud",
+        "Profeta Nuh",
+        "Profeta Salih"
+      ],
+      "answer": "Profeta Lutero"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Un grande diluvio che sommerge la terra",
+        "Perdita della vista dovuta a una lunga sofferenza",
+        "Un tiranno che si proclama divino",
+        "Essere gettati in un fuoco ardente",
+        "Essere obbligati a consegnare gli ospiti d'onore"
+      ],
+      "answer": "Essere obbligati a consegnare gli ospiti d'onore"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una grande arca costruita a mano",
+        "Un bastone che ha spaccato il mare",
+        "Una cammella miracolosa",
+        "Un fuoco ardente",
+        "Città rovesciate"
+      ],
+      "answer": "Città rovesciate"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Annegato mentre inseguiva i credenti",
+        "Salvato illeso da una fornace di fuoco",
+        "Innalzati vivi fino al cielo",
+        "La famiglia è perita in una grande alluvione.",
+        "La famiglia è salva, tranne la moglie infedele."
+      ],
+      "answer": "La famiglia è salva, tranne la moglie infedele."
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

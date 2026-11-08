@@ -1,0 +1,61 @@
+{
+  "title": "Umgcini Wesango Lelanga Eliphumayo",
+  "intro": "Kuyo yonke iQuran, imiphefumulo ethile idlula emhlabeni ishiya imizila yokuhlakanipha nokumangala. Omunye umuntu onjalo wahamba waya ezindaweni ezikude kakhulu zendalo—lapho ilanga liphuma futhi lishona khona, lapho isithiyo sivimba khona isiphithiphithi uqobo. Le nceku ka-Allah yanikezwa umbuso okungekho muntu owayezophinde abe nawo. Ngohambo oluthathu oluhlukene, injongo yalo muntu yacaca. Ungamthola lo mhambi odumile phakathi kwezithunzi zomlando?",
+  "clues": [
+    "Nganikwa igunya nguSomandla Onomusa lokubusa umhlaba ngendlela okungekho muntu owake wayifinyelela.",
+    "Ngahamba ngaya entshonalanga ngaze ngafika lapho ilanga lishona khona, ngathola ukuthi lishona entwasahlobo emnyama, futhi ngabona abantu lapho.",
+    "Ngahamba ngasempumalanga ngaze ngafika lapho ilanga liphuma khona, ngalithola liphuma kubantu esingabaphanganga indawo yokukhosela kulo.",
+    "Ngahamba phakathi kwalezo zindawo ezimbili ezibucayi ngaze ngafika esigodini esiphakathi kwezintaba ezimbili, lapho ngathola khona abantu ababengakwazi ukuqonda kahle inkulumo.",
+    "Ngithole entabeni izithiyo ezimbili eziqinile zensimbi ezifinyelela kwesokudla nakwesobunxele, futhi phakathi kwazo, kunendlela encane. Laba bantu bangicele ukuba ngidabule umngcele ovimbela isiphithiphithi.",
+    "Ngathatha ukudla kwami ​​ngathi: ‘Lapho umgoqo ugqashuka, lokhu kuzoba ukwahlukana okucacile phakathi kwethu nalaba bantu.’ Futhi lapho isikhathi esimisiwe sifika, ngabuka njengoba umgoqo ugqashuka ekugcineni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UDhu al-Qarnayn",
+        "Umprofethi uSulayman",
+        "Umprofethi u-Ibrahim",
+        "INkosi yaseGhassaniyah",
+        "UDhul-Qarnain uMzulane"
+      ],
+      "answer": "UDhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuphula isithiyo sensimbi kubantu baseYajuj naseMajuj",
+        "Ukwakha Umkhumbi ngaphansi komyalo womprofethi",
+        "Ukwakha ithempeli eJerusalema",
+        "Ukuwela uLwandle Olubomvu nabantu abakholwayo",
+        "Ukwakha idamu ukuvikela isizwe esilungile"
+      ],
+      "answer": "Ukuphula isithiyo sensimbi kubantu baseYajuj naseMajuj"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isithiyo sensimbi phakathi kwezintaba ezimbili",
+        "Umkhumbi ubambeke entabeni",
+        "Indlu engcwele yokukhulekela eJerusalema",
+        "Umfula ezweni laseGibhithe",
+        "Umthombo wezibusiso eMadyan"
+      ],
+      "answer": "Isithiyo sensimbi phakathi kwezintaba ezimbili"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Isithiyo saphulwa lapho kufika isikhathi esimisiwe, kwathi isiphithiphithi sasakazeka",
+        "Abangakholwa baminza ngenkathi abakholwayo besindiswa",
+        "Abalungileyo baqondiswa epharadesi laphakade",
+        "Umuzi wabhujiswa ngumoya ovunguzayo",
+        "Izithombe zaphuka futhi abantu baphenduka"
+      ],
+      "answer": "Isithiyo saphulwa lapho kufika isikhathi esimisiwe, kwathi isiphithiphithi sasakazeka"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Onye Na-emepụta Ọchịchọ Ụgha",
+  "intro": "Otu onye nwere ikike dị ukwuu jere ozi n'otu n'ime ndị ọchịchị aka ike kacha mara amara n'akụkọ ihe mere eme n'Ijipt oge ochie. E nyere onye a iwu siri ike - iwu ụlọ e zubere iji lụso eluigwe ọgụ. Akụkọ ha dị na Quran dịka ihe mmụta dị ịrịba ama gbasara otu nrubeisi kpuru ìsì nye mpako si eduga naanị na mbibi.",
+  "clues": [
+    "Ejere m ozi n'obí onye ọchịchị dị ike nke na-ekwu na ọ bụ chi n'elu ala ndị ahụ.",
+    "Enwere m ọkwa dị elu nke minista, na-enye onye ọchịchị aka ike kacha mpako n'oge m ndụmọdụ.",
+    "Onye ọchịchị m ji obi ya niile na-ama Chineke nke Mozis aka, onye ha jụrụ ịnakwere.",
+    "E nyere m iwu ka m wuo ụlọ elu nke brik e ji ọkụ sie ka onye ọchịchị m wee nwee ike ịrịgo eluigwe.",
+    "Ụlọ elu ahụ eruteghị eluigwe, ohu m nye mpako mekwara ka m nwee ihere ruo mgbe ebighị ebi.",
+    "M nwụrụ na nke m sochiri, aha m ghọkwara ịdọ aka ná ntị na-adịgide adịgide megide ndị na-eme ka ndị ọchịchị aka ike nwee ike."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Haman",
+        "Azar (nna Ibrahim)",
+        "Ilyas (onye amụma)",
+        "Dhu al-Kifl",
+        "Harut (otu n'ime ndị mmụọ ozi abụọ dị na Babịlọn)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "E nyere iwu ka e wuo ụlọ dị elu iji ruo eluigwe",
+        "A gwara ya ka ọ kọwaa nrọ nke Chineke zitere",
+        "A tụbara ya n'ọkụ na-ere ọkụ dị ka ule okwukwe",
+        "A manyere ya ịhọrọ n'etiti ocheeze na eziokwu",
+        "A mara ya aka n'asọmpi ịgba afa"
+      ],
+      "answer": "E nyere iwu ka e wuo ụlọ dị elu iji ruo eluigwe"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ụlọ elu e ji brik e ji ọkụ mee",
+        "Mkpanaka nke gbanwere ghọọ agwọ",
+        "Ụgbọ mmiri na-agafe nnukwu idei mmiri",
+        "Ubi e ji mgbidi dị elu gbaa gburugburu",
+        "Ocheeze e ji rubi na ọlaedo chọọ mma"
+      ],
+      "answer": "Ụlọ elu e ji brik e ji ọkụ mee"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Mmiri gbawara n'akụkụ onye mmegbu n'oké osimiri",
+        "Aghọrọ eze dị ike nke nwere ala buru ibu",
+        "Gbanahụ ọkụ na-ere ọkụ n'enweghị mmerụ ahụ",
+        "Wuru alaeze bara ọgaranya nke amamihe",
+        "Alọghachikwutere m ezinụlọ m mgbe ọtụtụ afọ nke njem mba ọzọ gasịrị"
+      ],
+      "answer": "Mmiri gbawara n'akụkụ onye mmegbu n'oké osimiri"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

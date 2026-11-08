@@ -1,0 +1,61 @@
+{
+  "title": "Byggarna av de höga pelarna",
+  "intro": "Du står framför ruinerna av en majestätisk forntida stad, vars höga pelare nu är fallna. Vinden viner genom de tomma gatorna och bär på minnet av ett mäktigt folk som en gång styrde dessa länder. Vilka var de?",
+  "clues": [
+    "Vi var ett folk med enorm styrka och skicklighet, kända för våra storslagna byggnader och avancerade civilisation.",
+    "Vi bodde i ett land med sanddyner och klippiga kullar, och vi trodde att ingen kunde övermanna oss.",
+    "Ett budbärare kom till oss från vår egen släkt och uppmanade oss att dyrka Allah allena, men vi förkastade och hånade honom.",
+    "Vi skröt: ”Vem är starkare än vi?” och vi fortsatte i vår arrogans och avgudadyrkan.",
+    "Allah sände över oss en rasande vind som blåste i sju nätter och åtta dagar och ödelade allting.",
+    "Vi var folket från 'Ad, byggarna av Iram, och vårt öde blev en varning för alla som kom efter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Folket i 'Ad",
+        "Folket i Thamud",
+        "Människor i Madyan",
+        "Folket i Tubba'",
+        "Folket i al-Rass"
+      ],
+      "answer": "Folket i 'Ad"
+    },
+    "trial": {
+      "label": "Vilket straff utdömdes för dem?",
+      "options": [
+        "En förödande vind",
+        "En dusch av stenar",
+        "En hög smäll",
+        "Drunkning av översvämning",
+        "Slukad av jorden"
+      ],
+      "answer": "En förödande vind"
+    },
+    "location": {
+      "label": "Vad heter deras legendariska stad?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midjan",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Vad blev deras slutliga öde?",
+      "options": [
+        "De förstördes och deras kvarlevor blev en läxa",
+        "De omvände sig och blev frälsta",
+        "De förvandlades till apor",
+        "De drunknade i havet",
+        "De begravdes under ett jordskred"
+      ],
+      "answer": "De förstördes och deras kvarlevor blev en läxa"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

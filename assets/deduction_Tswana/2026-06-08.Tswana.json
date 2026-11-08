@@ -1,0 +1,61 @@
+{
+  "title": "Mokopi wa Lefelo le le Boitshepo",
+  "intro": "Mo diureng tse di didimetseng tsa bosigo, moya o o ineetseng o ne wa bitsa Mopelotlhomogi mo teng ga dipota tse di boitshepo tsa lefelo le le boitshepo. Dingwaga tsa tumelo e e sa reketleng le bopelotelele di ne di tloga di duelwa ka kgakgamatso e e neng e tla tlisa boitumelo le boswa jwa boporofeti.",
+  "clues": [
+    "Ke ne ke fetsa malatsi le masigo a me ke ineetse mo teng ga lefelo le le boitshepo, ke kopa Morena wa me ka metlha.",
+    "Ke ne ka tsofala, mme mosadi wa me o ne a le moopa, le fa go ntse jalo ga ke ise ke ko ke latlhegelwe ke tsholofelo mo boutlwelobotlhokong jwa ga Allah.",
+    "Ke ne ka newa morwa, yo o bidiwang Yahya, yo o neng a nna moporofeti le lesedi la tshiamo.",
+    "Ke ne ke le moporofeta ka bonna, ke rometswe ho tataisa Bana ba Iseraele.",
+    "Ke ne ke le setlogolwana sa ga Moporofeti Harun mme ke ne ke direla jaaka moperesiti mo Tempeleng.",
+    "Ke ne ka neelwa tiro ya go tlhokomela Maryam, mmaagwe Isa, mme ka bona dikgakgamatso tsa gagwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Zakariya",
+        "Moporofeti Yahya",
+        "Moporofeti Ilyas",
+        "Moporofeti Ishaq",
+        "Moporofeti Ya'qub"
+      ],
+      "answer": "Moporofeti Zakariya"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O abetswe morwa mo botsofeng",
+        "O pholositswe mo molelong o o tukang",
+        "Go namolwa mo mpeng ya tlhapi",
+        "O falotse morwalela o mogolo",
+        "O fodile bolwetse jo bo masisi"
+      ],
+      "answer": "O abetswe morwa mo botsofeng"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Mihrab (lefelo la thapelo)",
+        "Kaaba",
+        "Setlhatshana se se Fisang",
+        "Letlole la Kgolagano",
+        "Logaga lwa Baroko ba le Supa"
+      ],
+      "answer": "Mihrab (lefelo la thapelo)"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go neetswe morwa yo o siameng yo o neng a nna moporofeti",
+        "E sentswe ke setsuatsue se segolo",
+        "O nwetse mo lewatleng",
+        "Go bolokwa gore a se ka a fisiwa",
+        "Ba boela kwa bathong ba bone morago ga go bolokwa mo tlhaping"
+      ],
+      "answer": "Go neetswe morwa yo o siameng yo o neng a nna moporofeti"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

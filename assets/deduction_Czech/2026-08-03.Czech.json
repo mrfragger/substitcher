@@ -1,0 +1,61 @@
+{
+  "title": "Pramen pod pískem",
+  "intro": "V análech Koránu čelila postava nesmírné trpělivosti zkoušce, která zlomila i ta nejodvážnější srdce. Byla zbavena všeho – bohatství, rodiny i zdraví. Přesto z hlubin zoufalství byla pokorná modlitba vyslyšena tím nejneočekávanějším způsobem. Dokážete identifikovat tuto duši, jejíž příběh o obnovení se ozývá věky?",
+  "clues": [
+    "Byl jsem zkoušen zkouškou tak těžkou, že se na ni bude vzpomínat po celé věky.",
+    "Ztratil jsem všechno, na čem mi záleželo – bohatství, děti i zdraví.",
+    "Mé tělo bylo pokryté bolestivými vředy a všichni se mě straní.",
+    "V zoufalství jsem volal k Alláhovi a říkal, že se mě Satan dotkl útrapami a mučením.",
+    "Alláh mi odpověděl a přikázal mi, abych udeřil nohou o zem.",
+    "Z toho samého místa vytryskl chladný pramen a Alláh obnovil mou rodinu a z milosrdenství ji zdvojnásobil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Ayyub",
+        "Prorok Músa",
+        "Prorok Iljas",
+        "Prorok Sulajmán",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Ayyub"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Těžká nemoc a ztráta rodiny a majetku",
+        "Být spolknut velkou velrybou",
+        "Vyhnanství z města Mekky",
+        "Uvěznění v hluboké studni",
+        "Konfrontace s arogantním vládcem"
+      ],
+      "answer": "Těžká nemoc a ztráta rodiny a majetku"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Chladný pramen ze země",
+        "Loď za velké povodně",
+        "Hůl, která rozdělila moře",
+        "Vyvýšený skleněný trůn",
+        "Zděná jeskyně pro spaní"
+      ],
+      "answer": "Chladný pramen ze země"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Rodina a bohatství obnoveny a zdvojnásobeny",
+        "Východ z břicha ryby",
+        "Bezpečný průjezd rozdělenými vodami",
+        "Království dané k vládnutí",
+        "Zázračné narození syna ve stáří"
+      ],
+      "answer": "Rodina a bohatství obnoveny a zdvojnásobeny"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

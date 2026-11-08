@@ -1,0 +1,61 @@
+{
+  "title": "Hişyariyek Biçûk Beriya Meşa Hêzdar",
+  "intro": "Bikevin geliyekî ku hukumdarekî bihêz û komeke mezin nêzîk dibin, û xeyal bikin ku rêwîyekî biçûk hişyariyekê dide ku tevahiya civatekê rizgar dike. Gava ku civaka di bin gefê de ye digihîje stargehê, xeter derbas dibe. Nîşanan bişopînin da ku hûn kesê paşguhkirî yê li pişt wê hişyariyê nas bikin.",
+  "clues": [
+    "Ez di nav wan mexlûqên piçûk de me ku bi padîşahiya hukumdarekî ve girêdayî ne.",
+    "Civaka min di hundirê geliyekî de di xanîyan de dijî, ku yek ji me dikare gazî yên din bike.",
+    "Em ji aliyê wî hukumdar û artêşên ku bi hukumdar re rêwîtiyê dikin ve bi gefê re rû bi rû ne.",
+    "Ez ew im ku gazî civaka xwe dike ku bikevin malên wan û hişyarî dide me ku em bêhemdî neyên perçiqandin.",
+    "Hikûmdar Suleyman e, û nijada min jî yek ji mexlûqên ku di bin fermandariya wî de ne.",
+    "Ez mêşhingivê wê geliyê me; piştî hişyariya min, em ketin hundirê xanîyên xwe û ji wê perçiqandinê rizgar bûn ku wê me bêhemdî bigirta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Morîya Geliyê",
+        "Hoopoe",
+        "Qijik",
+        "Mar",
+        "Keşti"
+      ],
+      "answer": "Morîya Geliyê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Hişyariyek ku civatek mêşan rizgar kir",
+        "Daxwazek ji bo zengilekê ji masîyekî",
+        "Lêgerîna textekî winda",
+        "Rizgarkirina çavên dizî",
+        "Redkirina xwarina xwarina serwerekî"
+      ],
+      "answer": "Hişyariyek ku civatek mêşan rizgar kir"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Geliyê Morîyan",
+        "Zengila Sîmrê ya Silêman",
+        "Kirasê Yusuf ê bi xwîn",
+        "Golika Zêrîn a Derketinê",
+        "Karmendê Mûsa"
+      ],
+      "answer": "Geliyê Morîyan"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Civak piştî ku stargeh girt rizgar bû",
+        "Civak bêyî ku bê stargeh bimîne hate wêrankirin",
+        "Ji ber ku artêş vekişiya, civak xilas bû",
+        "Civak bi kontrolkirina li ser çûkan hate xelat kirin.",
+        "Civak dîl hat girtin û birin dadgeha padîşah"
+      ],
+      "answer": "Civak piştî ku stargeh girt rizgar bû"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

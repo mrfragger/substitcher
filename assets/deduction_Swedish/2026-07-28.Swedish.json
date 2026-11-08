@@ -1,0 +1,61 @@
+{
+  "title": "Den heliga varelsens test",
+  "intro": "Ett tecken sändes till en nation som hade gått vilse. Mitt i deras bekväma liv kom en varning – åtföljd av en anmärkningsvärd varelse som skulle bli det yttersta testet på deras tro. Deras svar skulle besegla deras öde för alltid. Kan du avslöja vem som gav denna varning och vad som hände med dem som avvisade den?",
+  "clues": [
+    "Vi var ett folk som hade vägletts av tidigare budbärare före oss.",
+    "En magnifik varelse kom fram ur berget, ett tecken från vår Herre för denna nation.",
+    "Jag sade till dem: ”Detta är en kamelhona som tillhör Allah, så låt henne äta av Allahs jord och rör henne inte med skada.”",
+    "Men folket grep hälarna över min kamelhona, trotsande sin Herres befallning.",
+    "Jag är endast ett budbärare från er Herre, sänd med sanningen – jag är en pålitlig profet och tjänare.",
+    "Vad gäller de orättfärdiga, slog vår Herre dem med ett åskande ljud, och de blev orörliga i sina hem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Hud för folket i A'ad",
+        "Profeten Salih av Thamuds folk",
+        "Profeten Shu'aib av Midjan",
+        "Profeten Lut av folket i Sodom",
+        "Profeten Nuh av Arken"
+      ],
+      "answer": "Profeten Salih av Thamuds folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Syndafloden som dränkte en icke-troende nation",
+        "Jordbävningen som förstörde en syndig stad",
+        "Kamelhonan sändes som ett gudomligt tecken och prov",
+        "Stormen som straffade Midjans folk",
+        "Förstörelsen av Lots folk med stenar"
+      ],
+      "answer": "Kamelhonan sändes som ett gudomligt tecken och prov"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Staden Sodom i Jordandalen",
+        "Al-Hijr-dalen mellan Hijaz och Syrien",
+        "Det forntida landet A'ad i södra Arabien",
+        "Midjans skogar nära Röda havet",
+        "Slätterna vid berget Judi i Mesopotamien"
+      ],
+      "answer": "Al-Hijr-dalen mellan Hijaz och Syrien"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De blev frälsta efter att ha omvänt sig och trott",
+        "Ett regn av stenar förstörde dem fullständigt",
+        "Ett dånande ljud träffade dem orörliga",
+        "De fördes bort av en våldsam vind",
+        "En jordbävning svalde dem ner i marken"
+      ],
+      "answer": "Ett dånande ljud träffade dem orörliga"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

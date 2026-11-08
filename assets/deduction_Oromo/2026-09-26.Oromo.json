@@ -1,0 +1,61 @@
+{
+  "title": "Baay'ina Keessatti Haaluu",
+  "intro": "Uummata bakki gabaa isaanii daldalaan itti baay’atu, ta’us miizaanni isaanii amanamummaa dhabuun garagalfamu gidduutti of argatta. Ergamaan akeekkachiisa ifa ta’een gara isaanii dhufeera, isaan garuu badhaadhina isaaniitti ofitti amanamummaadhaan kolfaa fi garagalanii. Samiin dukkanaa'uu jalqaba, garuu akka eebba roobaatti ilaalu. Namoonni kun eenyu?",
+  "clues": [
+    "Biyyoota daldalaa fi baayʼee taʼan keessatti guddanne, taʼus garaan keenya gara laafina hin qabu ture.",
+    "Ergamaan tokko mallattoo Gooftaa keenya biraa qabatee nutti dhufe, nuti garuu akeekkachiisa isaatti qoosne.",
+    "Daldala keenyaan beekamna, garuu safartuu gabaabaa kenninee ummata gowwoomsina.",
+    "Muka hedduu fi biqiltoota baala qaban gidduu kan jiraannu taʼus, eebba keenya akka salphaatti ilaalla turre.",
+    "Duumessi dukkanaaʼaan tokko yommuu dhihaatu, lafa keenya isa goge irratti rooba ni fida jennee gammadne.",
+    "Kanaa mannaa, duumessi sun adabbii gubaa gad lakkisee, gidiraa guyyaa gaaddidduutiin qabamne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Ashab al-Aykah (Sahaaba Mukaa) .",
+        "Ummata Thamud",
+        "Namoonni 'Ad",
+        "Ummata Luut",
+        "Ummata Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Sahaaba Mukaa) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ergamaa isaanii gananii daldala irratti gowwoomsan",
+        "Re'ee warqee irraa hojjetamee waaqeffatanii karaa irraa maqan",
+        "Saalqunnamtii raawwachuu fi imaltoota irratti duuluu turan",
+        "Masaraawwan dheeraa ijaaranii Waaqayyoon morman",
+        "Bishaan qooddachuu didanii gaala dubara tokko miidhan"
+      ],
+      "answer": "Ergamaa isaanii gananii daldala irratti gowwoomsan"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Bosona ykn bosona hedduu qabu",
+        "Gaara mana jireenyaatti bocame",
+        "Magaalaa galaana qarqara jirtu",
+        "Gammoojjii gammoojjii boolla bishaanii qabu",
+        "Iddoo biqiltuu lalisaa firii hedduu qabu"
+      ],
+      "answer": "Bosona ykn bosona hedduu qabu"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Duumessa gaaddidduu ibiddaatiin barbadaa'e",
+        "Lolaa guddaadhaan liqimfame",
+        "Kirkira lafaatiin liqimfame",
+        "Qilleensi cimaan rukutame",
+        "Gara dhagaatti jijjiirame"
+      ],
+      "answer": "Duumessa gaaddidduu ibiddaatiin barbadaa'e"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

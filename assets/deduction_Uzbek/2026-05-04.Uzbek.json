@@ -1,0 +1,61 @@
+{
+  "title": "Kibr me'mori",
+  "intro": "Qadimgi isyonkor kuch tomonidan boshqariladigan yurtda muhim shaxs ta'sirli mavqega ega edi. Bu ruh hukmdorning buyuk rejalarida muhim rol o'ynagan, ularning zulmkor hukmronligiga hissa qo'shgan va ilohiy xabarga qarshi chiqqan. Ularning merosi dunyoviy kuchga intilish va haqiqatni inkor etish bilan chambarchas bog'liq.",
+  "clues": [
+    "Men avlodlar davomida bir xalqni zulm qilgan dahshatli hukmdorga xizmat qildim.",
+    "Mening ismim Ilohiy Kitobda bu qudratli rahbar bilan birga tez-tez tilga olinadi.",
+    "Menga ulkan qurilish loyihasi, osmonga yetib borishi kerak bo'lgan ulkan inshoot vazifasi yuklatilgan edi.",
+    "Men xo'jayinimga Isroil banisining o'g'illarini o'ldirishni va qizlarini tirik qoldirishni maslahat berdim.",
+    "Men Allohning qudratli elchisiga qarshi fitna va fitnalarda ishtirok etgan edim.",
+    "Mening o'limim, xo'jayinim va uning qo'shini bilan birga ulkan dengiz suvlarida keldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Nimrod",
+        "Abraha",
+        "Go'liyot",
+        "Iblis",
+        "Xomon"
+      ],
+      "answer": "Xomon"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Katta boylik bilan sinovdan o'tilmoqda",
+        "Muqaddas uyga qarshi qo'shin boshqarish",
+        "Xudoga yetib borish uchun minora qurish",
+        "E'tiqodlari uchun olovga tashlanmoqda",
+        "Aka-ukalar tomonidan quduqqa tashlanmoqda"
+      ],
+      "answer": "Xudoga yetib borish uchun minora qurish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Tog'",
+        "Minora",
+        "Kit"
+      ],
+      "answer": "Minora"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Keng donolik berilgan",
+        "Payg'ambar bo'lish",
+        "Yer tomonidan yutib yuborilmoqda",
+        "Shohlik berilishi",
+        "Dengizda cho'kish"
+      ],
+      "answer": "Dengizda cho'kish"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

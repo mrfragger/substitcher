@@ -1,0 +1,61 @@
+{
+  "title": "Isithembiso Esikhulunywe Ngamafutha",
+  "intro": "Umi eceleni komlilo ogwadule njengoba amalahle awo esakazeka ngokucophelela. Izivakashi ziyafika ukuze zihlangane ngokuthula, futhi umyalezo owodwa uvula indaba yesithembiso, isimanga, kanye nekusasa elingakagcwaliseki.",
+  "clues": [
+    "Sawela ibanga elide ukuze sifinyelele inceku ethembekile ehlane.",
+    "Sicele ukuthi kusakazwe amalahle ukuze kulungiswe umlilo.",
+    "Sikhulume nomuntu owayebize ilangabi ukuba liphole futhi liphephe.",
+    "Silethe izindaba zosana olusanda kuzalwa kumuntu owayesedlule eminyakeni yokuba nezingane.",
+    "Saqamba umntwana othenjisiwe ngokuthi u-Isaka.",
+    "Saletha izindaba ezinhle zendodana ku-Ibrahim, futhi izindaba ezimangalisayo zashiya u-Ibrahim ehleka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Izingelosi Ezaletha Izindaba Ezijabulisayo Zika-Isaka Ku-Ibrahim",
+        "Izingelosi Ezaxwayisa uLut",
+        "Izingelosi Eziphethe Isihlalo Sobukhosi",
+        "Izingelosi Zesihogo",
+        "Izingelosi Ezithunyelwe KuNowa"
+      ],
+      "answer": "Izingelosi Ezaletha Izindaba Ezijabulisayo Zika-Isaka Ku-Ibrahim"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuletha izindaba ezinhle zokuzalwa kuka-Isaka ku-Ibrahim",
+        "Isexwayiso sikaLut ngaphambi kwesijeziso sabantu bakhe",
+        "Ukumemezela ukuzalwa kukaYahya kuZakariya",
+        "Ukuthwala Isihlalo Sobukhosi Ngosuku Lokwahlulela",
+        "Ukumemezela ukuzalwa kuka-Isa kuMaryam"
+      ],
+      "answer": "Ukuletha izindaba ezinhle zokuzalwa kuka-Isaka ku-Ibrahim"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umlilo olungiselelwe ngamalahle asakazekile",
+        "Umkhumbi untanta phezu kwamanzi kazamcolo",
+        "Umhume ovalwe ngetshe eligingqikayo",
+        "Intaba yobumba oluqiniswe ngamanzi abandayo",
+        "Isitebhisi esifinyelela esibhakabhakeni"
+      ],
+      "answer": "Umlilo olungiselelwe ngamalahle asakazekile"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Izindaba ezimnandi zendodana egama lingu-Isaka",
+        "Izindaba ezimnandi zendodana egama linguYahya",
+        "Ukukhethwa kukaTalut njengombusi phezu kwabantwana bakwa-Israyeli",
+        "Isexwayiso ngaphambi kwesijeziso sabantu bakaLut",
+        "Umyalo wokwakha umkhumbi ngaphambi kukaZamcolo"
+      ],
+      "answer": "Izindaba ezimnandi zendodana egama lingu-Isaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

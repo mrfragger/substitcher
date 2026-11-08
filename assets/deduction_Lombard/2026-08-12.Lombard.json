@@ -1,0 +1,61 @@
+{
+  "title": "I invià de la misericordia e del podè",
+  "intro": "Figürate un dopudisnà tranquil intarumpì del ariv di viagiatur minga familiar. El luur aspètt l’è urdinari, ma el luur fin l’è quaicos d’olter. Portan un messaj divin che cambiarà el curs di dü naziun, purtand rit a una cà steril e terror a una cità pecatrice. Chi sun chesti visitadur misterius?",
+  "clues": [
+    "A sem stad mandà a un servitur devot de Allah, famus per la sò ospitalità senza limiti.",
+    "Ruvam in de la furma de foresti, e anca se el noster ospite l’ha sentid quaicos de olter in de la nostra presenza.",
+    "G’hem purtà di nutizi che fasevan rìd una dònna vègia senza creder, e la se sbatt in facia cun stupor.",
+    "G’hem avü el compito de prutegg una fameja giüsta mentre pioveva la distruziun sü una cità piena de corruziun.",
+    "Num g’hem refudad de partecipar al pasto che g’han ufrì, che g’ha rendü püsee fort el suspet del noster ospit.",
+    "G’hem rivelà la noster vera natüra sultant prima de partì, disend: “Efetivament, sem messager del to Signur”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "I ospit de Abraham",
+        "I discepol de Gesù",
+        "I compagn de la caverna",
+        "L'esercit de Abraha",
+        "I messagger de Ya-Sin"
+      ],
+      "answer": "I ospit de Abraham"
+    },
+    "trial": {
+      "label": "La nostra missiun",
+      "options": [
+        "Per mett a la prœuva la fed de Abraham in del sò fiœul",
+        "Per cunsegnar la scritüra a Abraham",
+        "Per annunciar la nassita de Isaac e la distruzion del popol de Lot",
+        "Per guidar Abraham a la Kaaba",
+        "Per salvar Abraham dal fœg"
+      ],
+      "answer": "Per annunciar la nassita de Isaac e la distruzion del popol de Lot"
+    },
+    "location": {
+      "label": "Lugar de comparsa",
+      "options": [
+        "In de la tera d'Egit",
+        "In de la cità de Ur",
+        "In cà de Abraham",
+        "In del giardin de Eden",
+        "Al pozz de Zamzam"
+      ],
+      "answer": "In cà de Abraham"
+    },
+    "outcome": {
+      "label": "El resultà",
+      "options": [
+        "Abraham l'è diventad re",
+        "L'Abraham l'ha costruid la Kaaba",
+        "La Sara l’ha partorì Isaac e el popul de Lot l’è stà distrutt",
+        "L'Abraham l'è emigrà in Palestina",
+        "El popul de Abraham l’è stà salvà de un grand diluvio"
+      ],
+      "answer": "La Sara l’ha partorì Isaac e el popul de Lot l’è stà distrutt"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

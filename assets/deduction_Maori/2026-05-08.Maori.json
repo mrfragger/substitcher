@@ -1,0 +1,61 @@
+{
+  "title": "Te Kairapu Pūmau o te Pono",
+  "intro": "I roto i tētahi wā i taupokina e te kuware me te karakia ki ngā atua teka, ka puta he haerenga whakapono hohonu. I werohia e tēnei tangata ngā tikanga o tōna hapori, me te rapu i te Kaihanga Pono Kotahi me te whakapono pumau. Kia rite ki te hura i te tuakiri o tētahi wairua e whakaaweawe tonu ana i te miriona tāngata.",
+  "clues": [
+    "I pātai ahau ki ngā mea o te rangi, i te rapu i te Ariki pono, nāna nei i hanga, nāna nei hoki i tautoko ngā mea katoa.",
+    "I whakahaua ahau kia whakarērea tōku whenua tupu, kia haere ki te whenua i manaakitia e te Atua.",
+    "I wero ahau i ngā whakapakoko o taku iwi, i te whakahē tika atu ki tō rātou koretake mā te wawahi i a rātou.",
+    "I maka ahau ki roto i te ahi e mura ana e tōku iwi, heoi i runga i te whakahau a Allah ka marino, ka marino hoki mōku.",
+    "I whakamatautauria ahau ki te whakahau kia patua taku tama matamua aroha, he whakamatautauranga o te ngohengohe mutungakore.",
+    "Nā māua ko taku tama i whakaara te turanga o te Whare Karakia tuatahi i runga i te Ao, he wāhi tapu mō ngā tāngata katoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Noa",
+        "Poropiti a Yusuf",
+        "Poropiti Salih",
+        "Poropiti Ihāperama",
+        "Poropiti a Ihaia"
+      ],
+      "answer": "Poropiti Ihāperama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te waipuke nui",
+        "Te wehenga o te moana",
+        "Te whakangaromanga o te iwi Thamud",
+        "Te whakahau kia patua he tama",
+        "Te haerenga i te koraha me te Āraka"
+      ],
+      "answer": "Te whakahau kia patua he tama"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā Kaimahi",
+        "Te Maunga o Tur",
+        "Te Āraka",
+        "Te Kaaba",
+        "Te Kuao Kau Koura"
+      ],
+      "answer": "Te Kaaba"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I riro hei rangatira mō Īhipa",
+        "I toremi tōna iwi",
+        "I whakawhiwhia ki te whakaaro nui me te whakapapa tika",
+        "I horomia e te tohorā",
+        "I hurihia tōna tāone"
+      ],
+      "answer": "I whakawhiwhia ki te whakaaro nui me te whakapapa tika"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

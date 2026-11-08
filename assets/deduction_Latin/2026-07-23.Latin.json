@@ -1,0 +1,61 @@
+{
+  "title": "Exercitus Qui Clay Volans Obvius Est",
+  "intro": "Aetate ante prophetam Mahometum, princeps potens ex Iemen expeditionem militarem suscepit ad sanctuarium sacrum Meccae delendum destinatam. Hic hostis, viribus et numero confisus, exercitum ingens elephantis bellicis instructum ducebat. Attamen iter eorum subito finem habiturum est, cum interventu divino inopinato occurrerent. Potesne cognoscere quis hanc miram rationem reddendam subiit?",
+  "clues": [
+    "Cum exercitu ingenti et potentibus elephantis bellicis ad domum sacram iter fecimus.",
+    "Locum cultus a servis Misericordissimi constructum eradicare et delere voluimus.",
+    "Grex avium parvarum contra nos missus est, lapides fictiles in rostris et unguibus portantes",
+    "Sonitus nobis occurrit qui lapides in nos iaciebat, nos in reliquias conculcatas convertens.",
+    "Ex terra Iemeniae eram et sub principe servivi qui sanctuarium sacrum perfundere volebat.",
+    "Exemplum facti sumus eis qui auderent sanctuarium Dei provocare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Exercitus Abrahae al-Ashram",
+        "Copiae Aethiopicae",
+        "Persae Victores",
+        "Legiones Romanae",
+        "Bedouini praedones"
+      ],
+      "answer": "Exercitus Abrahae al-Ashram"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Obsidio arcis desertae",
+        "Invasio sanctuarii sacri Meccae",
+        "Proelium navale in mari",
+        "Rebellio contra regem tyrannum",
+        "Quaesitio prophetae amissi"
+      ],
+      "answer": "Invasio sanctuarii sacri Meccae"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vallis Minae prope Meccam",
+        "Palatium Sanaae in Iemen",
+        "Montes Tihamae",
+        "Urbs antiqua Hierosolyma",
+        "Litora Maris Rubri"
+      ],
+      "answer": "Vallis Minae prope Meccam"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Victoria et destructio domus sacrae",
+        "Clades ab avibus lapides fictiles portantibus",
+        "Pacifica deditio et conversio",
+        "Fames et calamitas naturalis",
+        "Refugium propter pluviam gravem"
+      ],
+      "answer": "Clades ab avibus lapides fictiles portantibus"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

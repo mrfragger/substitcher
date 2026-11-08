@@ -1,0 +1,61 @@
+{
+  "title": "Közleriň üstünde aýdylan wada",
+  "intro": "Çöl otunyň ýanynda dursuň, onuň közleri üns bilen ýaýradylýar. Myhmanlar asudalykda duşuşmak üçin gelýärler we ýekeje habar wada, garaşylmadyk zat we heniz amala aşmadyk geljegiň hekaýasyny açýar.",
+  "clues": [
+    "Çölde wepaly hyzmatkäre ýetmek üçin uzak aralygy geçdik.",
+    "Biz ot taýýarlamak üçin közleriň ýakylmagyny haýyş etdik.",
+    "Biz sowuklyk we howpsuzlyk üçin alaw çagyran biri bilen gürleşdik.",
+    "Biz çaga dogurmak ýaşyny geçen birine täze doglan çaganyň habaryny getirdik.",
+    "Biz wada berlen çaganyň adyny Yshak dakdyk.",
+    "Biz Ybraýyma ogul hoş habaryny getirdik we bu geň galdyryjy habar Ybraýymy güldürdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ybrahyma Yshagyň hoş habaryny getiren perişdeler",
+        "Luta duýduryş beren perişdeler",
+        "Tagt göteriji perişdeler",
+        "Dowzahyň Perişdeleri",
+        "Nuha iberilen perişdeler"
+      ],
+      "answer": "Ybrahyma Yshagyň hoş habaryny getiren perişdeler"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Yshagyň dogulandygynyň hoş habaryny Ybraýyma ýetirmek",
+        "Lut öz halkyny jezalandyrmazdan öň duýduryş berýär",
+        "Ýahýanyň dünýä inendigini Zakariýa habar bermek",
+        "Kyýamat güni tagty götermek",
+        "Isanyň dünýä inendigini Merýeme habar bermek"
+      ],
+      "answer": "Yshagyň dogulandygynyň hoş habaryny Ybraýyma ýetirmek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýaýylan közlerden taýýarlanan ot",
+        "Suw joşgunynyň üstünde ýüzýän gämi",
+        "Togalanýan daş bilen möhürlenen gowak",
+        "Duzly suw bilen gatylaşan toýun dagy",
+        "Asmana uzalyp gidýän basgançak"
+      ],
+      "answer": "Ýaýylan közlerden taýýarlanan ot"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Yshak atly ogul barada hoş habar",
+        "Ýahýa atly ogul barada hoş habar",
+        "Talutyň Ysraýyl ogullaryna hökümdar saýlanmagy",
+        "Lut kowmynyň jezalandyrylmagyndan öň duýduryş",
+        "Tufandan öň gämi gurmak baradaky tabşyryk"
+      ],
+      "answer": "Yshak atly ogul barada hoş habar"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

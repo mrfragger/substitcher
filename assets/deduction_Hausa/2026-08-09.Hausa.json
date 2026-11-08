@@ -1,0 +1,61 @@
+{
+  "title": "Muryar Gaskiya ta Zamanin Dā",
+  "intro": "Akwai wata rai a cikin Alqur'ani wadda labarinta ya zo a cikin ayoyi kaɗan, amma halayensu masu daraja suna haskakawa da haske mai haske. Wannan tsohon bawan Mai Rahama yana da matsayi a cikin shafukan wahayi. Aikinka shine gano wannan mutum mai ban mamaki. Za ka iya tsammanin su wanene?",
+  "clues": [
+    "Ni annabin Allah ne wanda ya rayu a tsakanin farkon zamanin bil'adama.",
+    "Allah ya ambace ni a cikin Littafinsa tare da sauran annabawa, duk an yabe su saboda irin wannan kyawawan halaye.",
+    "An siffanta ni a matsayin mutum mai gaskiya a cikin Alqur'ani.",
+    "Allah ya ɗaga ni zuwa wani babban matsayi wanda wasu kaɗan ne suka samu.",
+    "An ambaci sunana a cikin Suratul Anbiya, an haɗa shi da wasu annabawa biyu da aka yabe su saboda haƙurinsu.",
+    "Ni ne Idris, annabi mai gaskiya kuma mai ɗaukaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Idris",
+        "Annabi Nuhu",
+        "Annabi Ibrahim",
+        "Annabi Musa",
+        "Annabi Isma'ila"
+      ],
+      "answer": "Annabi Idris"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kiyaye haƙuri da gaskiya, sannan a ɗaga shi zuwa matsayi mai girma",
+        "Gina babban jirgi domin ceton masu imani daga ambaliyar ruwa mai tsanani",
+        "A jefa shi cikin wuta mai zafi kuma ya fito ba tare da ya ji rauni ba",
+        "Yin gaba da wani babban sarki da kuma kayar da rundunarsa masu sihiri",
+        "Rayuwa a cikin cikin babban kifi a cikin zurfin teku"
+      ],
+      "answer": "Kiyaye haƙuri da gaskiya, sannan a ɗaga shi zuwa matsayi mai girma"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Matsayi mai girma da ɗaukaka daga Allah",
+        "Babban jirgin ruwa da aka gina da alluna kuma aka jefa shi da kwalta",
+        "Wuta mai zafi da masu bautar gumaka na mugun sarki ke kunnawa",
+        "Babbar teku da ta rabu zuwa busassun hanyoyi",
+        "Cikin duhun babban kifi mai kifin teku a ƙasan teku"
+      ],
+      "answer": "Matsayi mai girma da ɗaukaka daga Allah"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An shigar da shi cikin rahamar Allah a matsayin ɗaya daga cikin salihai",
+        "An cece shi tare da dukkan masu bi daga ambaliyar ruwa ta duniya",
+        "Ya fita daga harshen wutan da wutar ba ta taɓa shi ba",
+        "Ya jagoranci Bani Isra'ila zuwa 'yanci a ketaren teku lafiya",
+        "Sun sake haɗuwa da ƙaunatattun iyalansu bayan shekaru masu yawa na wahala"
+      ],
+      "answer": "An shigar da shi cikin rahamar Allah a matsayin ɗaya daga cikin salihai"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

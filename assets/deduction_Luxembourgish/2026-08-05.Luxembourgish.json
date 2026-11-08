@@ -1,0 +1,61 @@
+{
+  "title": "Den Dag vun der leschter Ausstellung",
+  "intro": "Zu enger grousser Muechtdemonstratioun geruff, huet sech eng Grupp vu talentéierte Kënschtler mat enger onerwaarter Wourecht konfrontéiert, déi hiert Liewe fir ëmmer verännere géif.",
+  "clues": [
+    "Mir ware bekannt fir eis Handwierk, Meeschter vun Illusioun an Trickerei.",
+    "Mir goufe vum Herrscher geruff, fir engem Herausforderer ze konfrontéieren, deen e einfache Staff an der Hand hat.",
+    "Wéi mir d'Wourecht gesinn hunn, si mir an der Prostratioun erofgefall a soten, datt mir un den Här vun de Welten gleewen.",
+    "Den Tyrann huet eis mat schwéierer Strof gedreet, awer mir hunn net gezéckt.",
+    "Mir waren ënner den Éischten, déi un d'Botschaft gegleeft hunn, nodeems mir dat kloert Zeechen gesinn hunn.",
+    "Mir goufe fir eise Glawen ëm d'Liewe bruecht, awer mir wäerten déi Éischt sinn, déi mat de Gerechten an d'Paradies kommen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "D'Magier vum Pharao",
+        "D'Israeliten",
+        "D'Leit vun Thamud",
+        "D'Jünger vum Jesaja",
+        "D'Arméi vun Abraha"
+      ],
+      "answer": "D'Magier vum Pharao"
+    },
+    "trial": {
+      "label": "Prozess / Event",
+      "options": [
+        "Concours mam Prophet Musa",
+        "Den Tuerm bauen",
+        "Déi Grouss Iwwerschwemmung",
+        "D'Pescht vun de Spréngercher",
+        "Dat spléckend Mier"
+      ],
+      "answer": "Concours mam Prophet Musa"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Den Dag vum Fest",
+        "D'Dall vun Tuwa",
+        "D'Stad Iram",
+        "De Gaart vun der Éiwegkeet",
+        "D'Ebene vun Arafat"
+      ],
+      "answer": "Den Dag vum Fest"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si goufen ëffentlech gekräizegt",
+        "Si sinn am Mier erdronk",
+        "Si goufen zum Unhänger vum Prophet gemaach",
+        "Si goufen an den Exil geschéckt",
+        "Si goufe vum Feier verbraucht"
+      ],
+      "answer": "Si goufen ëffentlech gekräizegt"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

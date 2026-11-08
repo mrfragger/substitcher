@@ -1,0 +1,61 @@
+{
+  "title": "Ing tahimik a siwala keng silid",
+  "intro": "Metung a panalangin ing mig-echo keng katahimikan ning metung a sagradung silid kanitang minunang panaun, a tinalakad ibat keng metung a matwang kaladwa a magnasa keng nanu mang sinabi ning yatu na imposibli. Iting tau, matwa na at mabayat na keng pamagmalasakit keng hinaharap, linapit ya keng Ginu da keng personal a pamanalangin. Ing tinuki metung yang banal a pakibat a linaban kareng sablang natural a kapanayan—metung a testamento king lunus ning Metung a makibat king desperadu nang aus.",
+  "clues": [
+    "Inaus ke ing Ginu ku king pribadu, mibalik ku king metung a silid nung nukarin ku dininan ing sarili ku king pamanyamba Na.",
+    "Inamin ku keng Ginu ku na tatakut ku para kareng datang kaybat ku, magmalasakit ku para keng patnube da reng tau ku potang mako ku.",
+    "Ing pangamatua linabas na ku—ding butul ku mehina la ampo ing maputing buak mikalat ya keng buntuk ku.",
+    "Ing asawa ku metung yang baog keng mabilug nang bie, pero anyaran ke pa rin ing Ginu ku na dinan na kung talapagmana ibat keng sarili nang presensya.",
+    "Meniawad kung tanda, at pekibatan na ning Ginu ku king kapamilatan na ning pamag-abala kanaku king pamagsalita king ninu man kilub ning atlung bengi, kabang manatili kung masalese katawan.",
+    "pengaku da kanaku ing metung a anak a lalaki a ing lagyu na Yahya, metung a lagyung pepabalu na ning kanakung Ginu a e pa bitasang miyabie kaninu man kanitang minuna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Propeta Zakariya",
+        "Propeta Nuh",
+        "Propeta Musa",
+        "Propeta Yusuf",
+        "Propeta Dawud"
+      ],
+      "answer": "Propeta Zakariya"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Manalangin para keng metung a talapagmana keng pangamatua na ning metung a asawa a alang anak",
+        "Miyugse ya keng milalablab a api",
+        "Melaso ya keng maragul a asan keng karalumduman",
+        "Tiisan ing pangawala ning pamilya, pibandyan, at kalusugan",
+        "Inutus da ing patalakad yang maragul a daung"
+      ],
+      "answer": "Manalangin para keng metung a talapagmana keng pangamatua na ning metung a asawa a alang anak"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Ing prayer chamber (mihrab)",
+        "metung a tukud na meging ubingan",
+        "Metung a maragul a daung a gawa king dutung",
+        "metung a hardin a ating makatagulaling a sibul",
+        "Bunduk nung nu la mititipun ding ayup"
+      ],
+      "answer": "Ing prayer chamber (mihrab)"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Mipagkalub yang milagrosung anak a lalaki agyang sobra neng matwa",
+        "Miligtas ya king milalablab a api king kapamilatan ning banal a utus",
+        "Metung a maragul a albug ing linasak karing e talasalpantaya",
+        "Mibalik ing pamilya, pibandian, at kalusugan kaybat ning pasensya",
+        "Melumud ya ing ari at ding sundalus na king dagat"
+      ],
+      "answer": "Mipagkalub yang milagrosung anak a lalaki agyang sobra neng matwa"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ñi tabax ponk yu kawe yi",
+  "intro": "Yaa ngi taxaw ci kanamu dëkk bu yàgg bu màgget, ponkam yu kawe yi daanu. Ngelaw li dafay yuuxu ci mbedd yi amul kenn, di fàttali nit ñu am doole ñi daan jiite réew yooyu. Ñan lañu woon ?",
+  "clues": [
+    "Nit ñu am doole ak mën mën lañu woon, ñu xamee leen ci sunuy tabax yu mag ak sunuy siwilisasioŋ yu jëm ca kanam.",
+    "Danu dëkkoon ci réew mu bari ay dënnu suuf ak tundu yu am xeer, nu gëmoon ni kenn mënu nu noot.",
+    "Am na ab Yonent bu jóge ci sunuy mbokk di ñëw ci nun, woo nu ci jaamu Yàlla rek, nu weddi ko, di ko ñaawal.",
+    "Danu damoo naan: Ku nu gëna am doole? nu wéy ci sunu réy-réy ak sunu jaamu xër.",
+    "Yàlla yónnee ci nun ngelaw lu metti luy tàkk juróom ñaari guddi ak juróom ñatti bëccëg, yàq lépp.",
+    "Nun la woon waa Ad, tabaxkati Iram, sunu ëlëg nekkoon luy àrtu ci ñépp ñi ci topp."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Nit ñi 'Ad",
+        "Waa Samud",
+        "Waa Madyan",
+        "Waa Tuubba'.",
+        "waa al-rass"
+      ],
+      "answer": "Nit ñi 'Ad"
+    },
+    "trial": {
+      "label": "Lan mooy mbugal giñ leen yónnee?",
+      "options": [
+        "Ngelaw luy yàq",
+        "Xeetu taw bu bari",
+        "ab mbëkk bu am doole",
+        "Di féey ci mbënd",
+        "Suuf si wann ko"
+      ],
+      "answer": "Ngelaw luy yàq"
+    },
+    "location": {
+      "label": "Luy seen dëkk bu mag bi tuddu?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Madian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Lu mujjee nekk seen ëlëg?",
+      "options": [
+        "Ñu yàq leen, seen néew nekk njàngale",
+        "Ñu tuub seeni bàkkaar, ñu mucc",
+        "Ñu soppi leen ñu nekk maymu",
+        "Ñu sàkku ci géej gi .",
+        "Ñu suul leen ci suufu landslide"
+      ],
+      "answer": "Ñu yàq leen, seen néew nekk njàngale"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

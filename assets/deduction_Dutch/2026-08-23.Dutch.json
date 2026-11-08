@@ -1,0 +1,61 @@
+{
+  "title": "De verdwenen menigte",
+  "intro": "Je staat voor de echo's van een gemeenschap waarvan het verhaal in de golven geschreven staat. Deze zielen hoorden een roep, kozen voor verzet en onder ogen zagen de gevolgen die de aarde hervormden. Wie zijn zij, en wat is er van hun wereld geworden?",
+  "clues": [
+    "Wij leefden lang geleden, en een boodschapper kwam tot ons uit ons midden.",
+    "We aanbaden vijf afgoden en weigerden ze te verlaten.",
+    "We bespotten de boodschapper en beschuldigden hem ervan verdwaald te zijn.",
+    "We eisten dat hij de straf zou brengen als hij de waarheid sprak.",
+    "We zagen de hemel stortregens uitstorten en de aarde bronnen voortbrengen.",
+    "We klommen naar hoger gelegen plekken om te ontsnappen, maar de golven overspoelden ons."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie zijn wij?",
+      "options": [
+        "De inwoners van Nuh",
+        "Mensen van 'Ad",
+        "De inwoners van Thamud",
+        "Mensen van Lut",
+        "De inwoners van Madyan"
+      ],
+      "answer": "De inwoners van Nuh"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "We werden overspoeld door een grote vloedgolf.",
+        "We werden verwoest door een orkaan.",
+        "We werden gedood door een luide explosie.",
+        "We werden door de aarde verzwolgen.",
+        "We werden bekogeld met stenen uit de lucht."
+      ],
+      "answer": "We werden overspoeld door een grote vloedgolf."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Een grote overstroming",
+        "Een hevige wind",
+        "Een regen van stenen",
+        "Een vurige explosie",
+        "Een aardbeving"
+      ],
+      "answer": "Een grote overstroming"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Wij zijn allen omgekomen, behalve de gelovigen met Nuh.",
+        "We werden in apen veranderd.",
+        "We werden achtergelaten als ruïnes voor reizigers.",
+        "We werden in zout veranderd.",
+        "We kregen uitstel."
+      ],
+      "answer": "Wij zijn allen omgekomen, behalve de gelovigen met Nuh."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

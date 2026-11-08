@@ -1,0 +1,61 @@
+{
+  "title": "Bokhabane bo Ileng ba Teba",
+  "intro": "Nahana ka sena: moea o apereng liaparo tse ntle 'me o pota-potiloe ke matlotlo a sa nahaneheng. Motho enoa o ne a lumela hore leruo la hae le fumanoa ka bohlale ba hae, a sa elelloe mohloli oa lijo tsa 'nete. Ha a ntse a tsamaea har'a balateli ba moprofeta ea matla, motho enoa o ile a hana pitso e 'ngoe le e 'ngoe ea boikokobetso. Kajeno, re senola boitsebiso ba motho eo leruo la hae le leholo le ileng la fetoha sebaka sa hae sa ho qetela sa phomolo.",
+  "clues": [
+    "Ke phetse nakong ea moprofeta ea ileng a bitsa sechaba se manganga hore se tle 'neteng.",
+    "Ke ne ke le karolo ea sechaba se khethiloeng, empa pelo ea ka e ile ea furalla molaetsa.",
+    "Khauta le silevera li ile tsa nkhahla ho feta taelo efe kapa efe ea bomolimo.",
+    "Matlo a ka a polokelo a ile a hola hoo sehlopha se matla sa banna se neng se sa kgone ho phahamisa dinotlolo.",
+    "Ke ne ke ithorisa ka hore leruo la ka ke le filoe ka lebaka la tsebo ea ka.",
+    "Qetellong, 'na le ntlo eohle ea ka re ile ra metsoa ke lefatše e le temoso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Qarun",
+        "Hamane",
+        "Samiri",
+        "Bilqis",
+        "Talute (Saule)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Boikhohomoso ka lebaka la leruo le ho hana ho fana ka liphallelo",
+        "Ho etsa setšoantšo sa khauta ka mabenyane a qhibilihisitsoeng",
+        "Ho phatlalatsa bomolimo holim'a 'muso o matla",
+        "Ho hlorisa balumeli ba pele Makkah",
+        "Ho etella pele letšolo la ho senya Ntlo e Halalelang"
+      ],
+      "answer": "Boikhohomoso ka lebaka la leruo le ho hana ho fana ka liphallelo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Matlotlo ao linotlolo tsa ’ona li neng li imetsa banna ba bangata ba matla",
+        "Namane ea khauta e neng e hlahisa molumo",
+        "Terone e khanyang e tsoang naheng e hole",
+        "Foro e tletseng mollo o tukang",
+        "Lebotho le matla la litlou tsa ntoa"
+      ],
+      "answer": "Matlotlo ao linotlolo tsa ’ona li neng li imetsa banna ba bangata ba matla"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E metsoa ke lefatše hammoho le bolulo",
+        "O khangoa ke metsi leoatleng le lebotho",
+        "Ho chesoa a ntse a phela ka sekoting sa mollo",
+        "E sentsoe ke moea o fokang ka matla, o fokang ka matla",
+        "E otliloe ke ho phatloha ho le hong ho matla"
+      ],
+      "answer": "E metsoa ke lefatše hammoho le bolulo"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

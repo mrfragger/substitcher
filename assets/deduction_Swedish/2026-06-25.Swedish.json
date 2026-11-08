@@ -1,0 +1,61 @@
+{
+  "title": "Lyssnarna från det osynliga",
+  "intro": "Bortom den synliga världens slöja samlades en dold församling i mörkret, dragen till ett ljud som trotsade allt de känt till. De hade vandrat i evigheter utan sann vägledning, tills en röst genomträngde tystnaden i deras osynliga rike och rörde vid något djupt inom dem. Ikväll är du inbjuden att kliva bortom skuggorna och avslöja identiteten på denna mystiska grupp, vars möte med gudomliga ord ledde dem tillbaka till sitt folk som varnare för en sanning som inte kunde hållas tillbaka.",
+  "clues": [
+    "Vi är uråldriga varelser, som existerade långt före många nationer du har läst om, men ändå omnämns vi sällan i mänskliga berättelser.",
+    "Vår natur är olik din, vävd av osynliga element, och vi har krafter som trotsar det vanliga.",
+    "I evigheter strövade vi omkring utan sann vägledning, tills ett ljud nådde oss som rörde vid något djupt inom oss.",
+    "Vi hörde en recitation utan motstycke, ord som bar en tyngd bortom allt tal.",
+    "Vi trängde oss tätt intill i hemlighet och befallde våra egna att tiga, och när verserna var slut kunde vi inte stå stilla.",
+    "Vi återvände till vårt folk och förkunnade: \"O vårt folk, vi har hört en Bok uppenbarad efter Moses, som bekräftar det som fanns före den, och vägleder till sanningen.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Hawariyyun (lärjungar av Isa)",
+        "Djinnerna som trodde efter att ha hört Koranen",
+        "Grottans följeslagare",
+        "Änglarna i den lägsta himlen",
+        "Faraos folk som följde hans väg"
+      ],
+      "answer": "Djinnerna som trodde efter att ha hört Koranen"
+    },
+    "trial": {
+      "label": "Test / Evenemang",
+      "options": [
+        "Vi blev utkastade för att vi vägrade att böja oss inför en nyskapad varelse",
+        "Vi var förseglade i en grotta i trehundranio år",
+        "Vi beordrades att korsa ett hav som delade sig framför oss",
+        "Vi skickades till ett magiskt land för att lära oss trolldom",
+        "Vi lyssnade i hemlighet till en recitation och förvandlades av den."
+      ],
+      "answer": "Vi lyssnade i hemlighet till en recitation och förvandlades av den."
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En guldkalv tillverkad av ett folks smycken",
+        "En grotta där sömnen varade i generationer",
+        "Två änglar i Babylon som lärde ut förbjuden kunskap",
+        "En bok som uppenbarades efter Moses och bekräftade Toran",
+        "En brinnande buske på toppen av ett heligt berg"
+      ],
+      "answer": "En bok som uppenbarades efter Moses och bekräftade Toran"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vi var förbannade ända till domens dag",
+        "Vi reste oss mot en mäktig härskare och byggde en barriär i landet",
+        "Vi förvandlades till apor och svin",
+        "Vi återvände till vårt folk som varnare och förkunnade tro",
+        "Vi drunknade i havet tillsammans med vår ledare"
+      ],
+      "answer": "Vi återvände till vårt folk som varnare och förkunnade tro"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

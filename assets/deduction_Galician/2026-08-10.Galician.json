@@ -1,0 +1,61 @@
+{
+  "title": "Os gardiáns da colleita secreta",
+  "intro": "Nunha terra verde, un grupo de individuos tramou un plan secreto ao amparo da escuridade. Compartían un propósito común, pero a súa intención distaba moito de ser xusta. Non sabían que un xiro divino os agardaba mentres durmían.",
+  "clues": [
+    "Fixemos unha firme resolución, pensando que o noso plan era perfecto.",
+    "Tiñamos a intención de saír cedo, antes de que os demais puidesen sequera moverse.",
+    "Emprendimos unha parcela fértil, confiados nas nosas provisións.",
+    "Ao chegar ao noso destino, atopámolo árido e desolado, polo que pensamos que nos perdéramos.",
+    "Entón decatámonos de que ese era realmente o noso lugar e berramos de desesperación, culpándonos mutuamente pola nosa perda.",
+    "Xuramos aquela mañá excluír os pobres da nosa colleita, pero o castigo de Alá caeu sobre nós mentres durmíamos, convertendo o noso xardín en ruínas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Os donos do xardín na sura 68",
+        "A xente de Saba",
+        "Os compañeiros da cova",
+        "A xente do elefante",
+        "A xente da trincheira"
+      ],
+      "answer": "Os donos do xardín na sura 68"
+    },
+    "trial": {
+      "label": "O noso xuízo",
+      "options": [
+        "O noso xardín foi destruído por unha calamidade do ceo",
+        "O noso xardín foi arrasado por unha inundación",
+        "O noso xardín foi queimado por un lume dun inimigo",
+        "O noso xardín estaba cheo de lagostas",
+        "O noso xardín foi tragado por un terremoto"
+      ],
+      "answer": "O noso xardín foi destruído por unha calamidade do ceo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Xuramos coller os seus froitos pola mañá",
+        "Construímos unha presa para regar o noso xardín",
+        "Buscamos refuxio nunha cova para protexernos",
+        "Preparamos un exército para conquistar un reino",
+        "Navegamos nun barco para cruzar o mar"
+      ],
+      "answer": "Xuramos coller os seus froitos pola mañá"
+    },
+    "outcome": {
+      "label": "O noso destino",
+      "options": [
+        "Arrepentímonos e esperamos a misericordia de Alá",
+        "Fomos completamente destruídos e nunca nos arrepentimos",
+        "Fuximos da terra e nunca volvemos",
+        "Volvémonos poderosos e ricos",
+        "Fomos castigados convertíndonos en monos"
+      ],
+      "answer": "Arrepentímonos e esperamos a misericordia de Alá"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

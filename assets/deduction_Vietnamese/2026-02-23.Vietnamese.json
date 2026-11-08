@@ -1,0 +1,61 @@
+{
+  "title": "Tiếng nói của niềm tin bị che giấu",
+  "intro": "Trong lòng một triều đình chuyên chế, nơi sự hoài nghi là luật lệ, một tâm hồn cô độc bước đi trên sợi dây mong manh giữa đức tin và nỗi sợ hãi. Cá nhân này, gần trung tâm quyền lực, đã lắng nghe khi thông điệp của một nhà tiên tri bị đáp lại bằng sự khinh miệt và những lời đe dọa. Khoảnh khắc sự thật đã đến, buộc người này phải lựa chọn giữa sự an toàn trong im lặng và nói ra một sự thật nguy hiểm. Bạn có thể tìm ra danh tính của người biện hộ dũng cảm này không?",
+  "clues": [
+    "Tôi từng sống trong chính gia đình của một bạo chúa, tận mắt chứng kiến ​​sự kiêu ngạo khi chối bỏ những dấu hiệu thiêng liêng.",
+    "Tôi giữ kín đức tin của mình, như một kho báu ẩn giấu trong cung điện thờ thần tượng.",
+    "Tôi nghe nói người lãnh đạo mà tôi phục vụ âm mưu giết một sứ giả của Allah, một người tên là Musa.",
+    "Tôi đã chất vấn lập luận của họ, nhắc nhở họ về số phận của người dân Nuh, 'Ad và Thamud.",
+    "Tôi đã đặt ra một câu hỏi quan trọng cho người dân của mình: 'Nếu hắn là kẻ nói dối, thì lời nói dối đó sẽ phản tác dụng; nhưng nếu hắn nói thật, thì một số điều hắn hứa sẽ xảy ra với các ngươi.'",
+    "Câu chuyện của tôi được kể như một ví dụ về đức tin trong chương kinh mang tên \"Đấng Tha Thứ\", nơi tôi cảnh báo người dân của mình về những mưu đồ của kẻ quyền lực."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người tín đồ thuộc gia tộc Fir'awn",
+        "Haman",
+        "Những pháp sư của Fir'awn",
+        "Qarun",
+        "Người Samiri"
+      ],
+      "answer": "Người tín đồ thuộc gia tộc Fir'awn"
+    },
+    "trial": {
+      "label": "Tôi bị xét xử như thế nào?",
+      "options": [
+        "Bảo vệ Tiên tri Musa tại phiên tòa của bạo chúa.",
+        "Xây dựng một tòa tháp cao vút để vươn tới trời cao.",
+        "Bị ném vào ngọn lửa đang cháy.",
+        "Bị một con cá khổng lồ nuốt chửng",
+        "Mất hết tài sản và sức khỏe"
+      ],
+      "answer": "Bảo vệ Tiên tri Musa tại phiên tòa của bạo chúa."
+    },
+    "location": {
+      "label": "Chủ đề của bài luận của tôi là gì?",
+      "options": [
+        "Hậu quả của việc bác bỏ thông điệp của một nhà tiên tri.",
+        "Nhu cầu về một dấu hiệu từ một cây thiêng",
+        "Tạo hình con bê từ đồ trang sức nóng chảy",
+        "Phép màu của con lạc đà từ tảng đá",
+        "Giải mã giấc mơ của một vị vua"
+      ],
+      "answer": "Hậu quả của việc bác bỏ thông điệp của một nhà tiên tri."
+    },
+    "outcome": {
+      "label": "Kết quả là gì?",
+      "options": [
+        "Allah đã cứu người này khỏi âm mưu độc ác của chúng.",
+        "Toàn bộ triều đình lập tức chấp nhận đạo Hồi.",
+        "Tên bạo chúa hối hận ngay lúc sắp chết đuối.",
+        "Tên bạo chúa bị đất nuốt chửng",
+        "Người đó bị đày đến một vùng đất xa xôi."
+      ],
+      "answer": "Allah đã cứu người này khỏi âm mưu độc ác của chúng."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

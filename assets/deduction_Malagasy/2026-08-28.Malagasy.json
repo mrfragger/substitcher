@@ -1,0 +1,61 @@
+{
+  "title": "Ny sakana ao amin'ny trano fahiny",
+  "intro": "Tao amin'ilay tanàna masina, nisy olona mahery iray nirehitra noho ny hatezerana rehefa nanomboka niely ny hafatra vaovao. Ity olona ity, izay nanjary nitovy anarana tamin'ny fanoherana ny fahamarinana, dia nahita ny herin'izy ireo nirodana teo ambanin'ny vesatry ny fanambarana masina. Iza moa ity fanahy ity, izay efa voaisy tombo-kase teo amin'ny fasika tao amin'ny kianja filalaovana malaza?",
+  "clues": [
+    "Lohan'ny fireneko aho, fantatra noho ny harenako sy ny fahefana nananako tao amin'ny tanàna iray izay nisy toeram-pivavahana fahiny.",
+    "Rehefa nanomboka nitory hafatry ny Andriamanitra tokana ny lehilahy iray avy amin'ny foko misy ahy, dia naneso azy sy ny fanambarany aho, ary niantso azy ireo ho tantara taloha fotsiny.",
+    "Niatrika an'io lehilahy io aho raha nivavaka teo akaikin'ilay trano masina izy, sady nandrahona ny hampitsahatra ny fivavahany raha ilaina izany.",
+    "Anisan'ireo mpitarika izay nitetika ny hampanginana ny finoana vaovao aho, nanohitra ireo mpanara-dia azy tamin'ny teny sy ny fitaovam-piadiana.",
+    "Niara-dia tamin'ny tafika nankany amin'ny toerana iray antsoina hoe Badr aho, natoky fa ho resintsika ireo mpino vitsivitsy ireo.",
+    "Saingy tao amin'io sahan'ady io no nifarana ny fiainako, ary ny fahafatesako dia lasa lesona ho an'ireo izay mikiry tsy hino na dia efa nahita famantarana mazava aza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Fisakanana ny Mpaminany tsy hivavaka eo amin'ny Kaaba",
+        "Fananganana ny Kaaba",
+        "Fanoratana ny Korany",
+        "Mitarika ny tafiky ny elefanta",
+        "Manasaraka ny volana"
+      ],
+      "answer": "Fisakanana ny Mpaminany tsy hivavaka eo amin'ny Kaaba"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Kaaba",
+        "Ny Fiaran'ny Mpaminany Noa",
+        "Ny tehin'ny Mpaminany Musa",
+        "Ilay Ombilahy Kely Volamena",
+        "Ny Seza Fiandrianan'ny Mpanjakavavin'i Sheba"
+      ],
+      "answer": "Ny Kaaba"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Maty tamin'ny Adin'i Badr",
+        "Nibebaka ary lasa Silamo",
+        "Nandositra tany Abisinia",
+        "Maty tamin'ny taonan'ny Elefanta",
+        "Lasa naman'ny Mpaminany"
+      ],
+      "answer": "Maty tamin'ny Adin'i Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

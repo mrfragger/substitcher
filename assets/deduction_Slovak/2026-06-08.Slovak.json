@@ -1,0 +1,61 @@
+{
+  "title": "Prositeľ svätyne",
+  "intro": "V tichých nočných hodinách volala oddaná duša k Najmilosrdnejšiemu v posvätných múroch posvätného miesta. Roky neochvejnej viery a trpezlivosti mali byť odmenené zázrakom, ktorý prinesie radosť a odkaz proroctva.",
+  "clues": [
+    "Dni a noci som trávil v oddanosti vo svätyni a neustále som sa modlil k svojmu Pánovi.",
+    "Zostarol som a moja žena bola neplodná, no nikdy som nestratil nádej v Alahovo milosrdenstvo.",
+    "Bol mi daný syn menom Yahya, ktorý sa stal prorokom a majákom spravodlivosti.",
+    "Sám som bol prorokom, poslaným viesť deti Izraela.",
+    "Bol som potomkom proroka Haruna a slúžil som ako kňaz v chráme.",
+    "Bola mi zverená starostlivosť o Maryam, matku Isu, a bol som svedkom jej zázrakov."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Zakariyya",
+        "Prorok Jahja",
+        "Prorok Iljas",
+        "Prorok Izák",
+        "Prorok Jakub"
+      ],
+      "answer": "Prorok Zakariyya"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "V starobe daroval syna",
+        "Zachránený pred planúcim požiarom",
+        "Zachránený z brucha ryby",
+        "Prežil veľkú povodeň",
+        "Vyliečený z ťažkej choroby"
+      ],
+      "answer": "V starobe daroval syna"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Mihrab (modlitebný výklenok)",
+        "Kaaba",
+        "Horiaci ker",
+        "Archa zmluvy",
+        "Jaskyňa siedmich spáčov"
+      ],
+      "answer": "Mihrab (modlitebný výklenok)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Darovaný spravodlivý syn, ktorý sa stal prorokom",
+        "Zničené prudkou búrkou",
+        "Utopený v mori",
+        "Ušetrený pred spálením",
+        "Vrátili sa k svojim ľuďom po tom, čo boli zachránení pred rybou"
+      ],
+      "answer": "Darovaný spravodlivý syn, ktorý sa stal prorokom"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

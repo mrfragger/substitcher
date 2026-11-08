@@ -1,0 +1,61 @@
+{
+  "title": "Qarilikdagi xushxabar",
+  "intro": "Siz umid qayta porlayotgan bir lahzaga guvoh bo'lmoqdasiz. Ota-onalik yoshidan ancha o'tgan juftlik tabiat qonunlariga zid bo'lgan va'da oladi. Ularning o'rtasida ilohiy rahm-shafqat belgisi bo'lgan bir shaxs - payg'ambarlikka mo'ljallangan, avlodlarga meros qoldiradigan ruh turibdi. Bu ajoyib shaxs kim?",
+  "clues": [
+    "Men qarilik yoshiga yetgan va farzandi bo'lmagan ota-onadan tug'ilganman.",
+    "Mening tug'ilishim oilamga mehmon sifatida kelgan farishtalar tomonidan e'lon qilindi.",
+    "Menga hikmat va payg'ambarlik berildi va men sabr qiluvchilar qatorida tilga olindim.",
+    "Otam Allohning do'sti deb atalgan va men uning keyingi yillarida unga sovg'a bo'lganman.",
+    "Mening payg'ambar bo'lgan bir akam bor edi va ikkalamiz ham Rabbimiz tomonidan marhamatlangan edik.",
+    "Mening o'g'lim ham payg'ambar edi va mening avlodlarimga kitob va payg'ambarlik berilgan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ishoq (Ishoq)",
+        "Payg'ambar Ismoil (Ismoil)",
+        "Payg'ambar Yaqub (Yoqub)",
+        "Yahyo payg'ambar (Yuhanno)",
+        "Payg'ambar Uzayr (Azro)"
+      ],
+      "answer": "Payg'ambar Ishoq (Ishoq)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Keksa ota-onalardan tug'ilgan",
+        "Olovga tashlangan",
+        "Shohlik va boylik berilgan",
+        "O'z xalqini Misrdan olib chiqdi",
+        "Mo'minlarni qutqarish uchun kema qurdi"
+      ],
+      "answer": "Keksa ota-onalardan tug'ilgan"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "O'g'il haqidagi xushxabar",
+        "Yonayotgan buta",
+        "Oltin buzoq",
+        "Ahd sandig'i",
+        "Payg'ambarlik tayoqchasi"
+      ],
+      "answer": "O'g'il haqidagi xushxabar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Payg'ambarlar nasl-nasabiga ega bo'lgan payg'ambar bo'ldi",
+        "Boy shohga aylandi",
+        "Uning qavmi kufr tufayli halok bo'ldi",
+        "U olovdan qutqarildi",
+        "Unga go'dakligidan gapirish qobiliyati berilgan edi"
+      ],
+      "answer": "Payg'ambarlar nasl-nasabiga ega bo'lgan payg'ambar bo'ldi"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

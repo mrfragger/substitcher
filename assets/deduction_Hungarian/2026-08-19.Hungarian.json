@@ -1,0 +1,61 @@
+{
+  "title": "A nemzet, amely dacolt a természetes renddel",
+  "intro": "Egy olyan régióban, amelynek története korokon átível, egy közösség nyílt lázadásban élt a tisztaság törvényei ellen. Tetteik annyira példa nélküliek voltak, hogy figyelmeztetésként emlékeznek rájuk az egész emberiség számára. Kik voltak ezek a lelkek, és milyen sors várt rájuk?",
+  "clues": [
+    "Egy olyan vidéken laktunk, amelyen az utazók gyakran áthaladtak, de veszélyessé tettük az útjukat.",
+    "Olyan szemérmetlenségeket követtünk el, amilyeneket még soha senki a világon nem tett.",
+    "Egy közülünk származó küldött arra szólított fel minket, hogy hagyjuk el utjainkat, de mi elutasítottuk őt, és büntetést követeltünk, ha igazat mond.",
+    "Amikor jóképű vendégek érkeztek a városunkba, megtámadtuk őket, nem tudván, hogy a pusztítás hírnökei.",
+    "Szörnyű büntetésre figyelmeztettek minket, ha nem hagyjuk abba, de mi kigúnyoltuk a figyelmeztetést, és megmaradtunk bűnünkben.",
+    "Kőzápor zúdult ránk az égből, és házaink feldőltek, nyomot sem hagyva, csak egy jelet azoknak, akik elmélkednek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Lut népe",
+        "Thamud népe",
+        "A'ad népe",
+        "Madyan népe",
+        "Saba népe"
+      ],
+      "answer": "Lut népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Példátlan erkölcstelenséget követett el és útzárakat állított fel",
+        "Imádott egy aranyborjút",
+        "Megölte a szent nőstény tevét",
+        "Csalt a kereskedelemben és átverte az embereket",
+        "Magas tornyot épített, hogy kihívást jelentsen az égnek"
+      ],
+      "answer": "Példátlan erkölcstelenséget követett el és útzárakat állított fel"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Angyalok jóképű vendégeknek álcázva",
+        "Egy nőstény teve bújik elő egy sziklából",
+        "Egy kígyóvá átalakuló személyzet",
+        "Egy hegyen épített hajó",
+        "Egy tűz, ami hűvössé és békéssé vált"
+      ],
+      "answer": "Angyalok jóképű vendégeknek álcázva"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Az égből hulló kőeső pusztította el",
+        "Elnyelte a föld",
+        "Egy nagy árvízbe fulladt",
+        "Egy sikító robbanás érte",
+        "Majmokká változtak"
+      ],
+      "answer": "Az égből hulló kőeső pusztította el"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

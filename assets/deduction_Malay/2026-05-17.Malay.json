@@ -1,0 +1,61 @@
+{
+  "title": "Arkitek Batu",
+  "intro": "Bayangkan sebuah tamadun yang berkuasa, dikurniakan kekuatan dan kemahiran, mengukir rumah-rumah besar di lereng gunung. Kolektif ini memiliki kemakmuran yang besar dan kehebatan seni bina yang unik. Namun, walaupun menerima amaran yang jelas, mereka memilih jalan yang akan membawa kepada kesimpulan yang dramatik dan tidak dapat dilupakan. Bolehkah anda mengenal pasti kumpulan ini yang kisahnya menjadi pengajaran yang mendalam bagi semua yang merenung?",
+  "clues": [
+    "Kami dikurniakan kekuatan dan kemahiran, yang membolehkan kami mengukir rumah-rumah yang indah terus ke pergunungan.",
+    "Kami diberi satu mu'jizat yang jelas daripada Allah, makhluk unik yang dibiarkan tidak diganggu untuk meragut.",
+    "Masyarakat kami menjadi sombong, mencabar risalah ilahi yang dibawa oleh seorang utusan dari kalangan kami.",
+    "Kami berpakat untuk merosakkan tanda ajaib itu, meskipun terdapat amaran hukuman yang berat.",
+    "Kami menentang perintah untuk membiarkan makhluk istimewa itu minum dari perigi kami selang-seli hari.",
+    "Kami menemui ajal yang dahsyat, ditimpa satu letupan yang mengerikan selepas tindakan pelanggaran kami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Kaum 'Ad",
+        "Orang Midian",
+        "Orang-orang Gajah",
+        "Kaum Tsamud",
+        "Kaum Luth"
+      ],
+      "answer": "Kaum Tsamud"
+    },
+    "trial": {
+      "label": "Percubaan/Acara Utama Kami",
+      "options": [
+        "Banjir yang melanda tanah",
+        "Pembelahan laut",
+        "Kemusnahan dengan satu letupan/jeritan",
+        "Pembakaran sebuah bandar",
+        "Mengubah gunung menjadi debu"
+      ],
+      "answer": "Kemusnahan dengan satu letupan/jeritan"
+    },
+    "location": {
+      "label": "Elemen Utama dalam Kisah Kami",
+      "options": [
+        "Anak lembu emas",
+        "Unta betina yang ajaib",
+        "Semak yang terbakar",
+        "Burung yang boleh bercakap",
+        "Takhta yang megah"
+      ],
+      "answer": "Unta betina yang ajaib"
+    },
+    "outcome": {
+      "label": "Hasil Akhir Kami",
+      "options": [
+        "Dikurniakan kekayaan dan kuasa yang melimpah ruah",
+        "Diangkat menjadi kenabian",
+        "Kemusnahan sepenuhnya oleh hukuman ilahi",
+        "Diampuni setelah bertaubat dengan ikhlas",
+        "Bertaburan di seluruh bumi untuk mengembara"
+      ],
+      "answer": "Kemusnahan sepenuhnya oleh hukuman ilahi"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

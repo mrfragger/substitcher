@@ -1,0 +1,61 @@
+{
+  "title": "La Reganto Kiu Postulis Diecon",
+  "intro": "Potenca kaj aroganta reganto kredis, ke neniu staras super ilia trono. Ili ĉasis fuĝantan grupon trans vastan akvejon, nur por renkonti draman finon. La rakonto de ĉi tiu reganto eĥas tra multaj pasaĵoj de la Korano, servante kiel averto al ĉiuj.",
+  "clues": [
+    "Mi estis potenca reganto, kiu kredis, ke neniu aŭtoritato superis la mian propran en la landoj, kiujn mi regis.",
+    "Mi havis fidindan veziron nomatan Haman, kiu helpis min efektivigi grandajn arkitekturajn projektojn.",
+    "Mi alvokis la plej bonajn magiistojn de mia lando por defii la signojn de mesaĝisto, kiu kontraŭstaris min.",
+    "Mi rifuzis lasi popolon sklavigitan en mia regno foriri, malgraŭ ĉagrenoj kaj klaraj avertoj.",
+    "Mi persekutis ilin trans vastan maron per mia tuta armeo kaj ĉaroj.",
+    "Tiu sama maro fermiĝis super min kaj miajn fortojn, dronigante nin ĉiujn, dum ili transiris sekure."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Fir'awn (Faraono)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Faraono)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Pestoj kaj konflikto kun Musa (Moseo)",
+        "Konstruante arkeon antaŭ granda diluvo",
+        "Batalo kontraŭ Jalut en la valo",
+        "Estante englutita de baleno",
+        "Defendante honestajn komercajn pezojn"
+      ],
+      "answer": "Pestoj kaj konflikto kun Musa (Moseo)"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Altaj turoj kaj palisoj",
+        "Granda ligna arkeo",
+        "Ora bovido",
+        "Bastono kiu fariĝis serpento",
+        "Grandega baleno"
+      ],
+      "answer": "Altaj turoj kaj palisoj"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Dronis en la maro kun armeo",
+        "Savita per la kompato kaj pacienco de Alaho rekompencita",
+        "Reunuiĝinta kun familio post jaroj da malfacilaĵoj",
+        "Englutita de la tero",
+        "Bruligita en fajro"
+      ],
+      "answer": "Dronis en la maro kun armeo"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

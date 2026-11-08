@@ -1,0 +1,61 @@
+{
+  "title": "Signum Inter Lapides",
+  "intro": "In terra ubi montes in domos sculpti erant, nuntius cum signo mirabili ab Allah advenit. Populus probationem postulavit, et creaturam e solida petra acceperunt. Sed arrogantia eos ad monitionem sprendam impulit, fatum suum signans.",
+  "clues": [
+    "Ad populum missus sum qui in domibus e montibus excisis habitabat.",
+    "Me provocaverunt ut signum afferrem, itaque camelum ex saxo produxi.",
+    "Eis imperavi ut camelo libere biberent neque ei nocerent.",
+    "Illi paruerunt et camelum suspensos habent, moniti mei spreti.",
+    "Nuntiavi poenam post tres dies venturam esse.",
+    "Mane, ingens flatus eos interfecit, sed ego et mei comites servati sumus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Salih",
+        "Propheta Hud",
+        "Propheta Lut",
+        "Propheta Shu'ayb",
+        "Propheta Ibrahim"
+      ],
+      "answer": "Propheta Salih"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Postulatio camelæ e rupe",
+        "Postulatio vituli aurei",
+        "Postulatio mensae e caelo paratae",
+        "Postulatio inundationis",
+        "Postulatio ut baculus in serpentem convertatur"
+      ],
+      "answer": "Postulatio camelæ e rupe"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Camella et vitulus eius",
+        "Arca Noae",
+        "Baculus Mosis",
+        "Vitulus Aureus",
+        "Ignis Ibrahimi"
+      ],
+      "answer": "Camella et vitulus eius"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ingenti flatu deleta",
+        "In diluvio submersi",
+        "A terra absorptus",
+        "In simias conversi",
+        "Vento vehementi vastatus"
+      ],
+      "answer": "Ingenti flatu deleta"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

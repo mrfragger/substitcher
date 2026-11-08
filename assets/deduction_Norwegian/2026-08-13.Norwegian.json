@@ -1,0 +1,61 @@
+{
+  "title": "Den tålmodige sjelen i det hellige huset",
+  "intro": "På Koranens sider dukker en skikkelse opp fra slektslinjen til en stor profet, gitt som en gave i alderdommen. Denne sjelen feires for urokkelig sannferdighet og en dyp rolle i å etablere et fristed som skulle bli et fyrtårn for tro. Når du leser ledetrådene, lytt nøye til stemmen fra fortiden, for den taler i første person.",
+  "clues": [
+    "Jeg er nevnt i Koranen sammen med en annen profet som en gave gitt til en eldre sendebud.",
+    "Jeg var en av to avkom som ble gitt til denne profeten i hans senere år.",
+    "Jeg blir rost i Koranen for å være tro mot ordene mine.",
+    "Jeg bar profetskapets ære og ble sendt som et budbringer.",
+    "Jeg ble med faren min i å reise grunnvollene til Det hellige hus.",
+    "Jeg blir husket som en av de tålmodige, og det hellige huset vi bygde ble et sted for tilbakekomst og trygghet for folk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Ismail",
+        "Profeten Ishaq",
+        "Profeten Yaqub",
+        "Profeten Zakariyah",
+        "Profeten Yahya"
+      ],
+      "answer": "Profeten Ismail"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Reising av fundamentet til Kabaen med Ibrahim",
+        "Å bli kastet i en ild",
+        "Å bli slukt av en hval",
+        "Leder israelittene ut av Egypt",
+        "Å bygge en ark"
+      ],
+      "answer": "Reising av fundamentet til Kabaen med Ibrahim"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Kabaen",
+        "Sinai-fjellet",
+        "Rødehavet",
+        "Den gylne kalven",
+        "Edens hage"
+      ],
+      "answer": "Kabaen"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Telles blant pasientene",
+        "Regnet blant ugjerningsmennene",
+        "Regnet blant magikerne",
+        "Regnet blant de vantro",
+        "Regnet blant hyklerne"
+      ],
+      "answer": "Telles blant pasientene"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

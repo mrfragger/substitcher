@@ -1,0 +1,61 @@
+{
+  "title": "Daxwazkarê Perestgehê",
+  "intro": "Di saetên bêdeng ên şevê de, giyanekî dilsoz di nav dîwarên pîroz ên cihekî pîroz de gazî Xwedayê Herî Dilovan kir. Salên bawerî û sebira bêdawî li ber xelatkirinê bûn ku dê şahî û mîrateyek pêxemberîtiyê bi xwe re bîne.",
+  "clues": [
+    "Min roj û şevên xwe di nav perestgehek pîroz de bi îbadetê derbas dikirin, û her tim ji Xwedayê xwe lava dikir.",
+    "Ez pîr bûm û jina min bêzar bû, lê dîsa jî min hêviya xwe ji rehma Xwedê winda nekir.",
+    "Kurek ji min re hat dayîn, navê wî Yehya bû, ku ew bû pêxember û çirayek rastdariyê.",
+    "Ez bi xwe pêxemberek bûm, ji bo rêberiya zarokên Îsraîl hatim şandin.",
+    "Ez ji neviyê Pêxember Harûn bûm û li Perestgehê wek keşîş xizmet dikir.",
+    "Lênêrîna Meryemê, diya Îsa, li min hat spartin û ez şahidê mûcîzeyên wê bûm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Zekeriya",
+        "Pêxember Yahya",
+        "Pêxember Îlyas",
+        "Pêxember Îshaq",
+        "Pêxember Yaqûb"
+      ],
+      "answer": "Pêxember Zekeriya"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Di pîrbûnê de kurek da",
+        "Ji agirê geş xilas bû",
+        "Ji zikê masiyekî rizgar bû",
+        "Ji lehiyê mezin rizgar bû",
+        "Ji nexweşiyeke giran rizgar bû"
+      ],
+      "answer": "Di pîrbûnê de kurek da"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Mihrab (kulubeya nimêjê)",
+        "Kebe",
+        "Dara Dişewite",
+        "Sandoqa Peymanê",
+        "Şikefta Heft Xewnxwaran"
+      ],
+      "answer": "Mihrab (kulubeya nimêjê)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Kurekî rast da wî ku bû pêxember",
+        "Ji aliyê bahozeke tund ve wêran bûye",
+        "Di deryayê de xeniqî",
+        "Ji şewitandinê rizgar bûye",
+        "Piştî ku ji masiyek hatin rizgarkirin vegeriyan cem gelê xwe"
+      ],
+      "answer": "Kurekî rast da wî ku bû pêxember"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

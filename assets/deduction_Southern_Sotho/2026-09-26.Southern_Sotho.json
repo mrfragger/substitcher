@@ -1,0 +1,61 @@
+{
+  "title": "Ho Latola Har'a Bongata",
+  "intro": "U iphumana u le har'a batho bao limmaraka tsa bona li tletseng khoebo, empa sekala sa bona se ntse se thekesela ka bolotsana. Lenģosa le tlile ho bona ka litemoso tse hlakileng, empa ba tšeha 'me ba furalla, ba kholisehile ka katleho ea bona. Leholimo le qala ho fifala, empa ba le bona e le tlhohonolofatso ea pula. Batho bana ke bo-mang?",
+  "clues": [
+    "Re ile ra atleha linaheng tsa khoebo le tse ngata, empa lipelo tsa rona li ile tsa thatafala.",
+    "Moromuoa o tlile ho rona ka lipontšo tse tsoang ho Morena oa rona, empa ra soma litemoso tsa hae.",
+    "Re ne re tsebahala ka mosebetsi oa rona, empa re ne re fana ka tekanyo e khutšoanyane 'me re qhekella batho.",
+    "Re ne re phela har'a lifate tse teteaneng le limela tse tala, empa re ne re nka litlhohonolofatso tsa rona habobebe.",
+    "Ha leru le letšo le atamela, re ile ra thaba, re nahana hore le tla nesa pula naheng ea rona e omeletseng.",
+    "Ho ena le hoo, leru leo ​​le ile la lokolla kotlo e chesang, mme ra tshwarwa ke tlhokofatso ya letsatsi la moriti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Ashab al-Aykah (Balekane ba Moru)",
+        "Batho ba Thamud",
+        "Batho ba 'Ad",
+        "Batho ba Lute",
+        "Batho ba Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Balekane ba Moru)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ba ile ba hana lenģosa la bona mme ba qhekella khoebong",
+        "Ba ile ba rapela namane ea khauta 'me ba khelosoa",
+        "Ba ne ba etsa bosodoma 'me ba hlasela baeti",
+        "Ba hahile litora tse telele 'me ba phephetsa Molimo",
+        "Ba hanne ho arolelana metsi mme ba lematsa kamele e tshehadi"
+      ],
+      "answer": "Ba ile ba hana lenģosa la bona mme ba qhekella khoebong"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Moru o teteaneng kapa moru o teteaneng",
+        "Thaba e betliloeng matlong",
+        "Motse o pela lewatle",
+        "Phula ea lehoatata e nang le liliba",
+        "Serapa se nonneng se nang le litholoana tse ngata"
+      ],
+      "answer": "Moru o teteaneng kapa moru o teteaneng"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Ho senngoa ke leru la mollo le moriti",
+        "Ho koaheloa ke moroallo o moholo",
+        "E metse ke tšisinyeho ea lefatše",
+        "Ho otloa ke moea o matla",
+        "E fetotsoe lejoe"
+      ],
+      "answer": "Ho senngoa ke leru la mollo le moriti"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

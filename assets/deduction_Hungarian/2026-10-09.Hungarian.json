@@ -1,0 +1,61 @@
+{
+  "title": "A meghallgatatlan hívás az arrogancia földjén",
+  "intro": "Egy valaha nagyszerű civilizáció romjai között állsz, ahol a hatalom és a büszkeség nem ismert határokat. Egy hírnök járt közöttük, az igazságra hívva, de a szívük megkeményedett. A figyelmeztetésre nem figyeltek, és maga az ég is a harag eszközévé vált. Ki volt ez a hírnök, és mi lett azokkal, akik elutasították a hívást?",
+  "clues": [
+    "Egy olyan néphez küldöttem, amelynek ereje páratlan volt, és amely minden magaslatra emlékművet épített.",
+    "Népem legyőzhetetlennek tartotta magát, és ezt mondta: „Ki hatalmasabb nálunk erejű?”",
+    "Felszólítottam őket, hogy egyedül Allahot imádják, de ostobasággal és hazugsággal vádoltak.",
+    "Arra szólítottak fel, hogy hozzam el a megígért büntetést, ha igazat mondok.",
+    "Allah kopár szelet küldött rájuk, amely semmit sem kímélt, amikor rájuk csapott.",
+    "Én és azok, akik velem együtt hittek, Allah kegyelméből megmenekültünk, míg a hitetlenek teljesen elpusztultak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Hud próféta",
+        "Szálih próféta",
+        "Shuaib próféta",
+        "Lut próféta",
+        "Nuh próféta"
+      ],
+      "answer": "Hud próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Pusztító szél pusztította el a hitetleneket",
+        "Egy hatalmas árvíz árasztotta el a hitetleneket",
+        "Kőzápor zúdult alá",
+        "Egy hangos sikoly ragadta el a hitetlenkedőket",
+        "Földrengés sújtotta a hitetleneket"
+      ],
+      "answer": "Pusztító szél pusztította el a hitetleneket"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy könyörtelen szél",
+        "Egy fából készült bárka",
+        "Egy nőstény teve",
+        "Agyagkövek esője",
+        "Lángoló tűz"
+      ],
+      "answer": "Egy könyörtelen szél"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hud és a hívők megmenekültek, a hitetlenek pedig elpusztultak",
+        "Hud magas rangra emelkedett",
+        "Hudot megölték a népe",
+        "Húd népe megbánta bűneit, és megkímélték őket",
+        "Hud elhagyta népét minden büntetés előtt"
+      ],
+      "answer": "Hud és a hívők megmenekültek, a hitetlenek pedig elpusztultak"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

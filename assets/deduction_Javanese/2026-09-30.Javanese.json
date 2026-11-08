@@ -1,0 +1,61 @@
+{
+  "title": "Sing Pasien",
+  "intro": "Biyen, ing jaman wiwitaning sejarah manungsa, ana rong jiwa ngadeg ing ngarsane Sang Pencipta kanthi sesaji. Siji ditampa, sijine ora. Sing sabanjure bakal dadi tragedi gedhe pisanan antarane sedulur - siji tumindak sabar lan siji tumindak dendam sing pait. Apa kowe bisa nemokake sapa aku?",
+  "clues": [
+    "Aku lair ing dina-dina pisanan uripé manungsa ing bumi",
+    "Aku iki anak saka pasangan manungsa pisanan sing tau mlaku ing bumi iki",
+    "Aku tau ngaturake kurban saka wedhus-wedhusku sing paling apik kanggo nyenengke Sang Penciptaku",
+    "Kurbanku ditampa saka ndhuwur, dene kurbane sedulurku ditolak",
+    "Nalika diancam bakal dipateni, aku milih ora ngangkat tanganku nglawan adhiku lanang",
+    "Aku dadi wong pisanan ing sajarah manungsa sing dipatèni kanthi ora adil déning wong liya"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Habil (Habil), putrane Adam",
+        "Qabil (Kain), putrane Adam",
+        "Adam, manungsa pisanan",
+        "Nuh (Nuh)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Habil), putrane Adam"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Pembunuhan pisanan ing sejarah manungsa",
+        "Banjir gedhe jaman Nabi Nuh",
+        "Karusakan tentara Fir'aun",
+        "Pangorbanan Nabi Ismail dening Nabi Ibrahim",
+        "Perang nglawan Jalut (Goliat)"
+      ],
+      "answer": "Pembunuhan pisanan ing sejarah manungsa"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Wedhus sing dikurbanake minangka kurban sing nyenengake",
+        "Pethi kayu sing gedhe",
+        "Teken sing malih dadi ula",
+        "Manuk hoopoe sing nggawa pesen kerajaan",
+        "Parit geni sing murub"
+      ],
+      "answer": "Wedhus sing dikurbanake minangka kurban sing nyenengake"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Dadi korban pembunuhan pertama ing sejarah manungsa",
+        "Slamet saka banjir gedhe ing njero prau kayu",
+        "Urip ing njero weteng iwak gedhe",
+        "Ngwasani jin, manungsa, lan angin",
+        "Nglembara patang puluh taun ing ara-ara samun sing jembar"
+      ],
+      "answer": "Dadi korban pembunuhan pertama ing sejarah manungsa"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

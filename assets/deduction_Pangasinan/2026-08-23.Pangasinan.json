@@ -1,0 +1,61 @@
+{
+  "title": "Say Naandi ya Karaklan",
+  "intro": "Manalalagey ka ed arap na saray echo na komunidad ya say istorya to et akasulat ed saray daluyon. Sarayan kamarerwa so akadngel na tawag, pinili ra so onsusumpa, tan inarap da so pansumpalan ya amasimbalo ed dalin. Siopa ra, tan antoy agawa ed mundo ra?",
+  "clues": [
+    "Abayag lan nambilay itayo, et sinmabid sikatayo so sakey a mensahero a nanlapud kawalaan tayo.",
+    "Limaran talintaoy diriyos so inggalang mi tan ag mi ra labay ya ikaindan.",
+    "Inludlurey mi imay mensahero tan inakusaan mi ya alingo.",
+    "Kinerew mi ya iter to so dusa no sikatoy tua.",
+    "Anengneng mi so katawenan ya onlelereg so uran tan say dalin ya onlelereg iray subol.",
+    "Tinmatdang kamid saray atagey a pasen pian makabatik kami, balet naabotan kami na saray daluyon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa Sikatayo?",
+      "options": [
+        "Saray totoo ed Nuh",
+        "Saray totoo na 'Ad",
+        "Saray totoo ed Thamud",
+        "Saray totoo ed Lut",
+        "Saray totoo ed Madyan"
+      ],
+      "answer": "Saray totoo ed Nuh"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Nalner kami ed baleg a delap",
+        "Dineral kami na bagyo",
+        "Inatey kami lapud maksil ya insabog",
+        "Inakmon itayo na dalin",
+        "Sikami so pinaltog na saray bato manlapud tawen"
+      ],
+      "answer": "Nalner kami ed baleg a delap"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Baleg a delap",
+        "Mabiskeg a dagem",
+        "Sakey ya uran na bato",
+        "Sakey ya apoy ya insabog",
+        "Sakey a yegyeg"
+      ],
+      "answer": "Baleg a delap"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Inatey itayon amin likud ed saray mananisia ed si Nuh",
+        "Nagmaliw kamin ayep",
+        "Tinaynan kamin singa geray na saray manbiabiahe",
+        "Nagmaliw kamin asin",
+        "Naikdan kami na painawa"
+      ],
+      "answer": "Inatey itayon amin likud ed saray mananisia ed si Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Gwardjani tal-Ġnien",
+  "intro": "Fi ġnien sabiħ ħafna, komunità għamlet wegħda solenni. Iżda r-riżoluzzjoni tagħhom ġiet ittestjata meta intervjeniet ir-rieda divina, u biddlet l-abbundanza tagħhom f'art sterili.",
+  "clues": [
+    "Ġejna mberkin b'ġnien abbundanti, imma sirna arroganti.",
+    "Għamilna pjan biex naħsdu mingħajr ma naqsmu mal-foqra.",
+    "Tlaqna kmieni filgħodu, kunfidenti fil-pjan tagħna.",
+    "Imma meta wasalna, sibna li l-ġnien tagħna kien inqered matul il-lejl.",
+    "Irrealizzajna l-iżball tagħna u bdejna nitfgħu t-tort fuq xulxin.",
+    "Fl-aħħar nindma, iżda l-lezzjoni tgħallimna tard wisq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Nies tal-Ġnien",
+        "Nies tal-Għar",
+        "Nies tal-Iljunfant",
+        "Nies ta' Thamud",
+        "Nies ta' 'Ad"
+      ],
+      "answer": "Nies tal-Ġnien"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ġnien mibdul f’irmied",
+        "Għargħar li qered kollox",
+        "Ġuħ li laqat l-art",
+        "Armata ta’ għasafar jattakkaw",
+        "Riħ qawwi li qala’ s-siġar mill-għeruq"
+      ],
+      "answer": "Ġnien mibdul f’irmied"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Ġnien",
+        "Għar",
+        "Vapur",
+        "Muntanja",
+        "Palazz"
+      ],
+      "answer": "Ġnien"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Huma nidmu imma tilfu l-ġnien tagħhom",
+        "Ġew meqruda għalkollox",
+        "Huma ġew mibdula f'xadini",
+        "Huma ġew salvati bil-fidi",
+        "Huma saru ħakkiema"
+      ],
+      "answer": "Huma nidmu imma tilfu l-ġnien tagħhom"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

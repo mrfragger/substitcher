@@ -1,0 +1,61 @@
+{
+  "title": "Der Glanz, der versank",
+  "intro": "Stellen Sie sich vor: eine Seele, gehüllt in kostbare Gewänder und umgeben von unvorstellbaren Schätzen. Dieser Mensch glaubte, seinen Reichtum allein seinem Genie zu verdanken und erkannte niemals die wahre Quelle seines Lebensunterhalts an. Im Kreise der Anhänger eines mächtigen Propheten wandelnd, wies er jeden Aufruf zur Demut zurück. Heute enthüllen wir die Identität einer Persönlichkeit, deren immenses Vermögen ihr zum Verhängnis wurde.",
+  "clues": [
+    "Ich lebte zur Zeit eines Propheten, der ein widerspenstiges Volk zur Wahrheit aufrief.",
+    "Ich war Teil einer auserwählten Gemeinschaft, doch mein Herz wandte sich von der Botschaft ab.",
+    "Gold und Silber faszinierten mich mehr als jedes göttliche Gebot.",
+    "Meine Schatzkammern wurden so riesig, dass selbst eine starke Gruppe von Männern die Schlüssel kaum noch heben konnte.",
+    "Ich rühmte mich damit, dass mein Reichtum mir aufgrund meines eigenen Wissens zuteilgeworden sei.",
+    "Am Ende wurden ich und meine gesamte Behausung als Warnung von der Erde verschlungen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Arroganz gegenüber Reichtum und Ablehnung von Wohltätigkeit",
+        "Aus eingeschmolzenem Schmuck eine goldene Götzenfigur schmieden",
+        "Die Erklärung der Göttlichkeit über ein mächtiges Königreich",
+        "Verfolgung der frühen Gläubigen in Mekka",
+        "Führung einer Kampagne zur Zerstörung des Heiligen Hauses"
+      ],
+      "answer": "Arroganz gegenüber Reichtum und Ablehnung von Wohltätigkeit"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Schätze, deren Schlüssel vielen starken Männern zur Last fielen",
+        "Ein goldenes Kalb, das Töne erzeugte",
+        "Ein prächtiger Thron aus einem fernen Land",
+        "Ein mit loderndem Feuer gefüllter Graben",
+        "Eine gewaltige Armee von Kriegselefanten"
+      ],
+      "answer": "Schätze, deren Schlüssel vielen starken Männern zur Last fielen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Von der Erde verschluckt, zusammen mit der Behausung",
+        "Im Meer ertrunken mit einer Armee",
+        "Bei lebendigem Leibe in einer Feuergrube verbrannt",
+        "Zerstört von einem heulenden, tobenden Wind",
+        "Von einem einzigen gewaltigen Stoß niedergestreckt."
+      ],
+      "answer": "Von der Erde verschluckt, zusammen mit der Behausung"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

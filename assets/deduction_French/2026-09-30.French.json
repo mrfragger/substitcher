@@ -1,0 +1,61 @@
+{
+  "title": "Le patient un",
+  "intro": "Il y a fort longtemps, aux origines de l'humanité, deux âmes se présentèrent devant leur Créateur, des offrandes à la main. L'une fut acceptée, l'autre rejetée. S'ensuivit la première grande tragédie fraternelle : un acte de patience et de retenue, l'autre de vengeance implacable. Saurez-vous découvrir qui je suis ?",
+  "clues": [
+    "Je suis né aux tout premiers jours de l'existence humaine sur Terre.",
+    "J'étais l'enfant du tout premier couple humain à avoir foulé cette terre.",
+    "J’ai jadis offert en sacrifice les meilleurs membres de mon troupeau pour plaire à mon Créateur",
+    "Mon offrande a été acceptée, tandis que celle de mon frère/ma sœur a été rejetée.",
+    "Menacé de mort, j'ai choisi de ne pas lever la main sur mon frère ou ma sœur.",
+    "Je suis devenu la première personne de toute l'histoire de l'humanité à être tuée injustement par un autre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Habil (Abel), fils d'Adam",
+        "Caïn, fils d'Adam",
+        "Adam, le premier humain",
+        "Nuh (Noé)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), fils d'Adam"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le premier meurtre de l'histoire de l'humanité",
+        "Le grand déluge de Noé",
+        "La destruction de l'armée de Fir'awn",
+        "Le sacrifice d'Ismaël par Ibrahim",
+        "La bataille contre Jalut (Goliath)"
+      ],
+      "answer": "Le premier meurtre de l'histoire de l'humanité"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un mouton offert en sacrifice agréable",
+        "Une grande arche en bois",
+        "Un bâton qui se transforma en serpent",
+        "Une huppe porteuse d'un message royal",
+        "Une tranchée de feu flamboyant"
+      ],
+      "answer": "Un mouton offert en sacrifice agréable"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Elle est devenue la première victime de meurtre de l'histoire de l'humanité.",
+        "A survécu à une grande inondation à l'intérieur d'un navire en bois",
+        "Il vivait dans le ventre d'un grand poisson",
+        "Il régnait sur les djinns, les humains et le vent.",
+        "J'ai erré pendant quarante ans dans une immense nature sauvage."
+      ],
+      "answer": "Elle est devenue la première victime de meurtre de l'histoire de l'humanité."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Neomajni klicatel resnice",
+  "intro": "Glasnik stoji sam med trmastim ljudstvom in jih kliče k Edinemu Pravemu Bogu, medtem ko ostajajo navezani na lažne idole. Ta prerok nosi ime, ki odmeva z močnim pomenom – »tisti, ki išče zaščito« – a je deležen le zavrnitve in zanikanja. Z nežnim prepričevanjem in odločnim opozorilom ta duša nosi božansko sporočilo, ki ga bo vesolje samo na koncu upravičilo. Ali lahko prepoznate to neomajno osebnost, ki predstavlja eno najstarejših pripovedi v islamskih spisih?",
+  "clues": [
+    "Moje ljudstvo je častilo mnoga božanstva, jaz pa sem jih klical, naj služijo Tistemu, ki je ustvaril nebesa in zemljo.",
+    "Stal sem pred svojim narodom in izjavil, da od njih ne bom zahteval nobene nagrade – moja edina želja je bila njihovo vodstvo k pravičnosti.",
+    "Nad moje ljudstvo je bil kot božja kazen poslan močan veter, o katerem Koran govori tako v množini kot v ženski obliki.",
+    "Za razliko od nekaterih prerokov mi v moji pripovedi ni bila dana žena ali otroci, ki bi bili vidno omenjeni, saj je bilo moje poslanstvo poklicati samo svoje ljudstvo.",
+    "Moje ime nosi globok pomen – povezan s konceptom zaščite in zatočišča, ki si ga človek želi.",
+    "Moje ljudstvo je bilo znano po posebnem geografskem izrazu za dolino, v kateri so živeli, njihovo deželo pa so opisovali s posebnim prezirom zaradi pomanjkanja vegetacije."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Hud",
+        "Prerok Salih",
+        "Prerok Šu'aib",
+        "Prerok Nuh",
+        "Prerok Hudayb"
+      ],
+      "answer": "Prerok Hud"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Potop zemlje",
+        "Žgoč veter",
+        "Potres uničenja",
+        "Suša in lakota",
+        "Utapljanje v morju"
+      ],
+      "answer": "Žgoč veter"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Rodovitna dolina Jemna",
+        "Peščena puščava Midjan",
+        "Skalnata dolina Thamuda",
+        "Starodavna dežela ljudstva Ad",
+        "Obalno območje Egipta"
+      ],
+      "answer": "Starodavna dežela ljudstva Ad"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Moje ljudstvo se je pokesalo in vstopilo v raj",
+        "Nihče od mojih ljudi ni preživel kazni",
+        "Živega so me pobrali, kot mojega brata Yunusa.",
+        "S svojimi sledilci sem se preselil v blagoslovljeno deželo",
+        "Veter je uničil le nevernike, verniki pa so preživeli"
+      ],
+      "answer": "Nihče od mojih ljudi ni preživel kazni"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

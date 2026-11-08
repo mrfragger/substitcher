@@ -1,0 +1,61 @@
+{
+  "title": "An Macalla Trí na hAillte",
+  "intro": "Samhlaigh gleann ina bhfuil áiteanna cónaithe snoite as aillte, agus cuimhne san aer ar rabhadh nár tugadh aird air. Bhí borradh faoi phobal anseo tráth, beannaithe ach dúshlánach, go dtí gur tháinig comhartha chun solais ón gcarraig chéanna a raibh muinín acu aisti.",
+  "clues": [
+    "Ba phobal muid a shnoigh tithe slána as na sléibhte, ag mothú sábháilte inár n-áitribh charraigeacha.",
+    "Bhí cónaí orainn i dtír machairí agus cloiche, beannaithe le gairdíní agus tobair.",
+    "Tháinig teachtaire uainn, ag glaoch orainn ár ndéithe bréige a thréigean agus adhradh a thabhairt don Aon Chruthaitheoir fíor.",
+    "Le huaillmhian, leagamar síos coinníoll don chreideamh: comhartha uathúil a thiocfadh as na carraigeacha céanna a shnoigh muid.",
+    "Nuair a tháinig an camall geallta chun solais ón gcarraig, comhartha soiléir, dhiúltaigh ár n-uasal fós agus chuir siad bac uirthi in ainneoin an rabhaidh faoi chinniúint a bhí ar tí tarlú.",
+    "Trí lá i ndiaidh ár ngníomhartha, chualathas macalla toirní tríd an ngleann, agus rinneadh smionagar dínn, ár dtithe inár n-uaigheanna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Muintir ¿Ad",
+        "Muintir Thamud",
+        "Muintir Madyan",
+        "Muintir an Gharraí",
+        "Muintir na hUaimhe"
+      ],
+      "answer": "Muintir Thamud"
+    },
+    "trial": {
+      "label": "Ár dTriail/Príomhimeacht",
+      "options": [
+        "Gearradh cnámh droma camall baineann Allah",
+        "Adhradh an lao órga",
+        "Briseadh na Sabóide",
+        "Tógáil túir suas go dtí an spéir",
+        "Marú na bhfáithe"
+      ],
+      "answer": "Gearradh cnámh droma camall baineann Allah"
+    },
+    "location": {
+      "label": "Príomhghné inár Scéal",
+      "options": [
+        "Camall baineann Allah",
+        "Foireann Musa",
+        "Áirc Nuh",
+        "Lámh bán Musa",
+        "Éan Íosa"
+      ],
+      "answer": "Camall baineann Allah"
+    },
+    "outcome": {
+      "label": "Ár dToradh",
+      "options": [
+        "Scriosadh le pléasc bodhar",
+        "Báisteach cloch ón spéir",
+        "Tuile a chlúdaigh an domhan",
+        "Gaoth ghéar a scrios sinn",
+        "An talamh ag slogadh sinn"
+      ],
+      "answer": "Scriosadh le pléasc bodhar"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

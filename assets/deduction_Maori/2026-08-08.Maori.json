@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i mua i te Āwhā",
+  "intro": "I ara ake tētahi tangata i te koraha hei karanga i tētahi iwi kaha ki te pono. I mōhiotia te iwi mō ō rātou whare whakahīhī me te kaha kāore e taea te whakataurite. Heoi, nā tō rātou whakapehapeha rātou i matapo, ā, i kore ai rātou e whakarongo. I te mutunga, ka pā mai he whiu nui ki a rātou, ā, he iti noa iho te hunga whakapono i ora.",
+  "clues": [
+    "I tonoa ahau ki tētahi iwi mana nui e noho ana i ngā whenua whānui, e mōhiotia ana hoki mō tō rātou mana.",
+    "I whaia e tōku iwi tētahi atu iwi nui kua whakangaromia.",
+    "He tino ataahua ā rātou hanganga, ā, he teitei hoki ō rātou pourewa i hanga.",
+    "I karanga ahau i a rātou kia karakia ki te Atua Kotahi, engari i whakakahore rātou ki te whakarērea ā rātou whakapakoko.",
+    "I tau te whiu kino ki runga i a rātou, ā, ko te hunga anake i whakapono tahi me ahau i whakaorangia.",
+    "Ko ahau te tangata i tonoa ki tētahi iwi nui e mōhiotia ana ko 'Ād'."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hūta",
+        "Poropiti Salih",
+        "Poropiti Shu'aib",
+        "Poropiti a Noa",
+        "Poropiti Ihāperama"
+      ],
+      "answer": "Poropiti a Hūta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te waipuke nui",
+        "He hau nui e pupuhi ana",
+        "He rū whenua, he tangi whakamataku",
+        "He ua o ngā kōhatu e mura ana",
+        "Te ahi o te rangi mai i runga"
+      ],
+      "answer": "He hau nui e pupuhi ana"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He āka nui i hangaia ki runga i te maunga",
+        "He kamera uha ahurei",
+        "He tokotoko i huri hei nakahi",
+        "Ngā whare teitei me ngā hanganga teitei",
+        "He ahi mura"
+      ],
+      "answer": "Ngā whare teitei me ngā hanganga teitei"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi katoa i roto i te waipuke nui",
+        "I whakangaromia tōku iwi e te hau nui, ko ahau ia i whakaorangia",
+        "I pāngia tōku iwi e te rū whenua, ā, ka tangi rātou",
+        "I whiua taku iwi ki ngā kōhatu i te rangi",
+        "Kua maka taku iwi ki roto i te ahi mura"
+      ],
+      "answer": "I whakangaromia tōku iwi e te hau nui, ko ahau ia i whakaorangia"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

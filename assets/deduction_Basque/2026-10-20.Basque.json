@@ -1,0 +1,61 @@
+{
+  "title": "Anbizio faltsuaren arkitektoa",
+  "intro": "Antzinako Egiptoko tirano ospetsuenetako bati aginte handiko figura batek agindu ausarta eman zion: zeruari aurre egiteko egitura bat eraikitzea. Koranean, haien istorioa harrokeriari itsu-itsuan obeditzeak hondamendira baino ez daramala erakusten duen ikasgai deigarri gisa dago.",
+  "clues": [
+    "Lurren gaineko jainkotasuna aldarrikatzen zuen agintari boteretsu baten gorteetan zerbitzatu nuen.",
+    "Ministro-kargu altua izan nuen, nire garaiko tirano harroputzena aholkatzen.",
+    "Nire agintaria Moisesen Jainkoari erronka egiteaz erabat murgilduta zegoen, zeina uko egin zioten aitortzeari.",
+    "Sutan erretako adreiluzko dorre bat eraikitzeko agindu zidaten, nire agintaria zeruetara igo ahal izateko.",
+    "Dorrea ez zen inoiz zerura iritsi, eta harrokeriaren menpekotasunak betiko lotsa ekarri zidan.",
+    "Jarraitu nuenarekin batera hil nintzen, eta nire izena tiranoak ahalbidetzen dituztenen aurkako abisu iraunkor bihurtu zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Haman",
+        "Azar (Ibrahim-en aita)",
+        "Illyas (profeta bat)",
+        "Dhu al-Kifl",
+        "Harut (Babiloniako bi aingeruetako bat)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Zerura iristeko egitura garai bat eraikitzeko agindua eman zioten",
+        "Jainkoak bidalitako amets bat interpretatzeko eskatu zioten",
+        "Su bizian botata fedearen proba gisa",
+        "Tronuaren eta egiaren artean aukeratzera behartuta",
+        "Sorginkeria lehiaketa batean erronka egin zioten"
+      ],
+      "answer": "Zerura iristeko egitura garai bat eraikitzeko agindua eman zioten"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sutan erretako adreiluzko dorrea",
+        "Suge bihurtu zen makila",
+        "Uholde handi batean nabigatzen ari den itsasontzi bat",
+        "Horma altuez inguratutako lorategia",
+        "Errubi eta urrez apaindutako tronua"
+      ],
+      "answer": "Sutan erretako adreiluzko dorrea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Itsasoan zapaltzailearen ondoan itota",
+        "Lurralde zabaletako monarka boteretsu bihurtu zen",
+        "Sute bizitik onik ihes egin zuen",
+        "Jakinduriaren erreinu oparoa eraiki zuen",
+        "Urteetako erbestealdiaren ondoren familiarekin elkartu zen"
+      ],
+      "answer": "Itsasoan zapaltzailearen ondoan itota"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

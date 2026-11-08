@@ -1,0 +1,61 @@
+{
+  "title": "Ýel we alawyň hökümdarlygy",
+  "intro": "Ýeliň özüniň ýeke-täk hökümdara jogap berýän, iň kiçijik jandarlaryň sesleriniň agramly bolýan we adaty gözlere görünmeýän güýçleriň seresaply hyzmat edýän hökümdarlygyny göz öňüne getiriň. Bu şahsyýet söýgüli öňki adamdan adatdan daşary patyşalygy miras aldy, elementlere we jynlara güýç berdi. Emma uly ygtyýar uly synaglar bilen geldi - we soňky pursat ýaşaýşyň we ölümiň özüniň tebigaty barada haýran galdyryjy bir zady açyp görkezerdi.",
+  "clues": [
+    "Men Allanyň pygamberi we guly bolan söýgüli ene-atadan uly patyşalygy miras aldym.",
+    "Allatagala maňa ýeliň üstünden ygtyýar berdi, ony bir irden bir aýlyk ýol işlerine iberdi.",
+    "Iň kiçijik jandarlar hem meniň golaýlaşmagym barada gürrüň bererdiler we men olaryň habardarlygyna haýran galmak üçin biraz saklanardym.",
+    "Men jynlardan, ynsanlardan we guşlardan ybarat ägirt uly goşuna buýruk berdim, olaryň hemmesi öňümde tertipli düzülip durdy.",
+    "Uzakdaky bir hökümdar meni kyn synag bilen synamaga geldi we myhman oturan ýerinden turup-turup ýetişmänkä, şol hökümdaryň tagtyny köşgüme getirdiler.",
+    "Men taýaga daýanyp, aýak üstünde durdum, ýeriň kiçijik bir jandary ony kemirýänçä — we diňe şondan soň töweregimdäkiler meniň geçendigimi bildiler."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Süleýman pygamber (Süleýman)",
+        "Dawut pygamber (Dawud)",
+        "Isa pygamber (Isa)",
+        "Pygamber Muhammed ﷺ",
+        "Musa pygamber (Musa)"
+      ],
+      "answer": "Süleýman pygamber (Süleýman)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Uzakdaky şa zenanyň tagtyny adatdan daşary ýollar bilen getirmek",
+        "Çagalykda çuň guýulara düşürilmek",
+        "Zalymyň jadygöýlerine gudratly alamatlar bilen garşy durmak",
+        "Enäniň hormatyny goramak üçin beşikden çykyş etmek",
+        "Mukaddes dagda iň soňky açylan Mukaddes Ýazgyny kabul etmek"
+      ],
+      "answer": "Uzakdaky şa zenanyň tagtyny adatdan daşary ýollar bilen getirmek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Termit agaç taýagy kemirýär",
+        "Dünýäniň suw joşmasyndan halas bolmak üçin gurlan uly gämi",
+        "Zalymyň öňünde ýylana öwrülen taýak",
+        "Körleri sagaltmak üçin ulanylýan mata bölegi",
+        "Ilki gezek wahy gelen mukaddes gowak"
+      ],
+      "answer": "Termit agaç taýagy kemirýär"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Hormatly myhman hökümdar alamatlary görenden soň imana geldi",
+        "Beýik bir sil gämidäki imanlylardan başga hemmesini ýok etdi",
+        "Fyrown we onuň goşuny deňizde heläk boldular",
+        "Saleh ýoldaş göklere göterildi",
+        "Zalym patyşa we onuň şäheri agdarylyp, weýran edildi"
+      ],
+      "answer": "Hormatly myhman hökümdar alamatlary görenden soň imana geldi"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

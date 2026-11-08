@@ -1,0 +1,61 @@
+{
+  "title": "La credente velata alla corte del tiranno",
+  "intro": "Tra le sale dorate del sovrano più arrogante conosciuto nel Corano, dove la sfida al Divino permeava ogni editto, un'anima si aggirava tra i privilegiati, celando in bella vista il più pericoloso dei segreti. Quest'individuo nutriva una fede così proibita tra quelle mura che la sua scoperta avrebbe significato morte certa. Eppure, la convinzione ardeva come una fiamma sotto le ceneri, e quando giunse il momento, la verità risuonò con un coraggio tale da scuotere le fondamenta stesse del palazzo del tiranno.",
+  "clues": [
+    "Ho vissuto nella cerchia ristretta del sovrano più potente e arrogante del mio tempo, circondato da lusso e influenza.",
+    "Ho celato le mie vere convinzioni nel profondo del mio cuore, temendo per la mia vita a causa di coloro che governavano con crudeltà e oppressione.",
+    "Quando il mio popolo dubitava e vacillava di fronte alla verità, mi feci avanti per avvertirli del tragico destino che era toccato alle nazioni passate che avevano rifiutato i messaggeri del loro Signore.",
+    "Ho ricordato alla mia gente la storia di un giovane sognatore molto amato, che fu ripudiato dai suoi stessi parenti ma che, tuttavia, raggiunse una grande autorità in una terra lontana.",
+    "Ho esortato il mio popolo a non obbedire al sovrano che li aveva sviati, invitandoli invece a seguirmi sulla via della rettitudine e della retta via.",
+    "Ho detto apertamente la verità, nonostante i seguaci del tiranno mi minacciassero di lapidarmi o di cacciarmi dal paese."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il credente nascosto della famiglia del faraone",
+        "Un patriarca paziente che pianse cieco fino al ritorno del figlio",
+        "Un servo fedele la cui malattia della pelle fu infine curata",
+        "Un figlio peccatore che rifiutò l'invito di un profeta a salire sull'arca",
+        "Un tiranno spietato che si è autoproclamato divino."
+      ],
+      "answer": "Il credente nascosto della famiglia del faraone"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Nascondere la fede alla corte di un tiranno.",
+        "Soffrendo di cecità a causa di anni di pianto",
+        "Essere messi alla prova dalla perdita della famiglia e da una grave afflizione",
+        "Costruire una grande nave mentre si viene derisi",
+        "Sopportare il calore cocente di un grande incendio"
+      ],
+      "answer": "Nascondere la fede alla corte di un tiranno."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Palazzo del faraone",
+        "La cima di una montagna dove fu costruita un'arca",
+        "Una valle sacra ai piedi del Monte Sinai",
+        "Un magnifico giardino con due ruscelli che scorrono.",
+        "Un trono di cristallo sopra un fiume sotterraneo"
+      ],
+      "answer": "Palazzo del faraone"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Protezione divina mentre gli oppressori incontravano la loro distruzione",
+        "Si è ricongiunto alla famiglia dopo decenni di separazione.",
+        "Mi è stata concessa pazienza, ho riacquistato la salute e ho avuto una famiglia più numerosa.",
+        "Fu salvato su una barca mentre il resto del mondo annegava.",
+        "Fu salvato illeso dalle fiamme per ordine di Allah."
+      ],
+      "answer": "Protezione divina mentre gli oppressori incontravano la loro distruzione"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

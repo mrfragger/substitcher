@@ -1,0 +1,61 @@
+{
+  "title": "Litaba tse Thabisang Botsofaling",
+  "intro": "U bona motsotso oo tšepo e tsosolosoang. Banyalani, ba fetileng lilemo tsa botsoali khale, ba fumana tšepiso e hanyetsang melao ea tlhaho. Har'a bona ho eme motho eo boteng ba hae e leng pontšo ea mohau oa bomolimo—moea o reretsoeng boporofeta, o jereng lefa le tla feta melokong eohle. Motho enoa ea ikhethang ke mang?",
+  "clues": [
+    "Ke hlahetse batsoali ba seng ba tsofetse 'me ba se na bana.",
+    "Tsoalo ea ka e ile ea phatlalatsoa ke mangeloi a ileng a tla e le baeti lelapeng leso.",
+    "Ke filoe bohlale le boporofeta, 'me ke boleloa har'a bakuli.",
+    "Ntate o ne a bitsoa motsoalle oa Allah, 'me ke ne ke le mpho ho eena lilemong tsa hae tsa morao.",
+    "Ke ne ke e-na le moena eo le eena e neng e le moprofeta, 'me ka bobeli re ile ra hlohonolofatsoa ke Morena oa rona.",
+    "Mora oa ka le eena e ne e le moprofeta, 'me litloholo tsa ka li ile tsa fuoa mangolo le boporofeta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Ishaq (Isaka)",
+        "Moprofeta Ismail (Ishmaele)",
+        "Moprofeta Yaqub (Jakobo)",
+        "Moprofeta Yahya (Johanne)",
+        "Moprofeta Uzair (Esdrase)"
+      ],
+      "answer": "Moprofeta Ishaq (Isaka)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O hlahetse batsoali ba hōlileng",
+        "E lahleloa mollong",
+        "Ho filoe 'muso le leruo",
+        "O ile a etella batho ba hae pele ho tsoa Egepeta",
+        "Ho hahiloe areka ho pholosa balumeli"
+      ],
+      "answer": "O hlahetse batsoali ba hōlileng"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Litaba tse monate tsa mora",
+        "Sehlahla se tukang",
+        "Namane ea khauta",
+        "Areka ea selekane",
+        "Lere la boporofeta"
+      ],
+      "answer": "Litaba tse monate tsa mora"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E ile ea e-ba moprofeta ea nang le leloko la baprofeta",
+        "E ile ea e-ba morena ea ruileng",
+        "Batho ba hae ba ile ba timetsoa ka lebaka la ho se lumele",
+        "O ile a pholosoa mollong",
+        "O ne a filoe bokhoni ba ho bua ha e sa le lesea"
+      ],
+      "answer": "E ile ea e-ba moprofeta ea nang le leloko la baprofeta"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

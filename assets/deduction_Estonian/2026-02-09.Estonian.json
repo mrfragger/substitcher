@@ -1,0 +1,60 @@
+{
+  "title": "Katsumus lainete all",
+  "intro": "Prohvet, keda koormas tema missioon, tegi otsuse, mis viis ta oma rahvast kaugele ja ootamatusse katsumusesse. Tema teekond võttis dramaatilise pöörde, pannes proovile tema usu ja kannatlikkuse sügavaimal moel. Kas suudad antud vihjete põhjal järeldada selle erakordse sündmuse üksikasju?",
+  "clues": [
+    "Prohvet saadeti ühe rahva juurde, kuid ta lahkus kiiruga, tundes pettumust nende tagasilükkamise pärast.",
+    "Tema teekond viis ta mere äärde, kus ta astus läbipääsu otsivale raskelt lastitud laevale.",
+    "Tõusis suur torm, mis ähvardas laeva, ja loosi teel otsustati koorma kergendamiseks üks inimene üle parda visata.",
+    "Sügavuse olend neelas ta alla, see oli imeline sündmus, mille oli määranud jumalik tahe.",
+    "Olendi kõhus hüüdis ta oma Issanda poole, kahetsedes ja ülistades pimeduses Allahi.",
+    "Pärast intensiivset palveperioodi heideti ta nõrgana, kuid elusalt viljatule kaldale ning hiljem naastes avastas ta, et ta rahvas oli lõpuks uskunud."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prohvet/Isik",
+      "options": [
+        "Prohvet Noa",
+        "Prohvet Lut",
+        "Prohvet Musa",
+        "Prohvet Yunus",
+        "Prohvet Yusuf"
+      ],
+      "answer": "Prohvet Yunus"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Nuhi üleujutus",
+        "Soodoma hävitamine",
+        "Teekond suure kala kõhus",
+        "Mere lõhenemine",
+        "Põleva põõsa ilmutus"
+      ],
+      "answer": "Teekond suure kala kõhus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Siinai mägi",
+        "Musa personal",
+        "Suur kala",
+        "Yusufi kaev"
+      ],
+      "answer": "Suur kala"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uus leping inimkonnaga",
+        "Imeline sünd tema rahvale",
+        "Tema suguvõsale rajatud kuningriik",
+        "Tagasipöördumine oma rahva juurde, kes siis uskus",
+        "Võit türanliku valitseja üle"
+      ],
+      "answer": "Tagasipöördumine oma rahva juurde, kes siis uskus"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ishara Miongoni mwa Mawe",
+  "intro": "Katika nchi ambayo milima ilichongwa kuwa nyumba, mjumbe alifika akiwa na ishara ya muujiza kutoka kwa Mwenyezi Mungu. Watu walidai uthibitisho, nao wakapokea kiumbe kutoka kwenye mwamba imara. Lakini kiburi chao kiliwaongoza kukataa onyo, na hivyo kuziba hatima yao.",
+  "clues": [
+    "Nilitumwa kwa watu walioishi katika makao yaliyochongwa milimani.",
+    "Walinipa changamoto ya kuleta ishara, kwa hivyo nilitoa ngamia kutoka kwenye mwamba.",
+    "Niliwaamuru wamwache ngamia anywe kwa uhuru na wasimdhuru.",
+    "Waliasi na kumkata ngamia, wakipuuza onyo langu.",
+    "Nilitangaza kwamba adhabu ingekuja baada ya siku tatu.",
+    "Asubuhi, mlipuko mkubwa uliwaangamiza, lakini mimi na wafuasi wangu tuliokolewa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Salih",
+        "Nabii Hud",
+        "Nabii Lut",
+        "Nabii Shu'ayb",
+        "Nabii Ibrahimu"
+      ],
+      "answer": "Nabii Salih"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Hitaji la ngamia jike kutoka kwenye mwamba",
+        "Hitaji la ndama wa dhahabu",
+        "Mahitaji ya meza kutoka mbinguni",
+        "Mahitaji ya mafuriko",
+        "Hitaji la fimbo ili iwe nyoka"
+      ],
+      "answer": "Hitaji la ngamia jike kutoka kwenye mwamba"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ngamia jike na ndama wake",
+        "Safina ya Nuhu",
+        "Fimbo ya Musa",
+        "Ndama wa Dhahabu",
+        "Moto wa Ibrahimu"
+      ],
+      "answer": "Ngamia jike na ndama wake"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imeharibiwa na mlipuko mkubwa",
+        "Kuzama katika mafuriko",
+        "Imemezwa na ardhi",
+        "Aligeuka kuwa nyani",
+        "Imeharibiwa na upepo mkali"
+      ],
+      "answer": "Imeharibiwa na mlipuko mkubwa"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

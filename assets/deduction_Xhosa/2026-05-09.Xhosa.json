@@ -1,0 +1,61 @@
+{
+  "title": "Iigadi Eziphelayo Zobutyebi",
+  "intro": "Kwilizwe elisikelelwe ngentabalala yentabalala, uluntu lwachuma, luphila phakathi kwemiqondiso yobubele bukaThixo. Impumelelo yabo yayibubungqina bobubele beNkosi yabo, isipho esenzelwe ukukhuthaza umbulelo nokuthobela. Nangona kunjalo, nangona kwakukho imiqondiso ecacileyo yeentsikelelo zabo, kwafika inguqu, eyayibachasa uxabiso lwabo ngomthombo wobutyebi babo obukhulu kunye nentuthuzelo.",
+  "clues": [
+    "Sasikelelwe ngeegadi ezimbini, enye ingasekunene nenye ingasekhohlo, zizele yimveliso.",
+    "Sayalelwa ukuba sitye kwizibonelelo zeNkosi yethu size simbulele ngelizwe elihle neNkosi exolelayo.",
+    "Sakhula sizikhukhumeza saza sayishiya indlela yokubulela, siqhayisa ngobutyebi namandla ethu.",
+    "Sasifuna ukuba iNkosi yethu yonyuse umgama phakathi kohambo lwethu, sibonakalisa ukungakuthandi ukulula awayekunikezile.",
+    "Salumkiswa ngumthunywa, kodwa sawugatya umyalezo saza saqhubeka nokungathobeli kwethu.",
+    "Idama lethu elikhulu, elalisigcinele impumelelo, ekugqibeleni laqhekeka, nto leyo eyakhokelela kwizikhukula ezinkulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu bakwaMidiyan",
+        "Abantu base-'Aad",
+        "Abantu bakaLut",
+        "Abantu baseSaba"
+      ],
+      "answer": "Abantu baseSaba"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Indlala nembalela",
+        "Uhlaselo lomkhosi onamandla",
+        "Inyikima etshabalalisayo",
+        "Isikhukula esitshabalalisayo esivela kwidama eliqhekekileyo",
+        "Ingcinezelo yomlawuli okhohlakeleyo"
+      ],
+      "answer": "Isikhukula esitshabalalisayo esivela kwidama eliqhekekileyo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ithole legolide",
+        "Inkamela yemazi engummangaliso",
+        "Idama elihle kakhulu",
+        "Isakhiwo esiphakamileyo",
+        "Umthombo onzulu"
+      ],
+      "answer": "Idama elihle kakhulu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Saguqulwa saba ziinkawu neehagu",
+        "Sasindiswa saza safudukela kwilizwe elitsha",
+        "Sasichithachithekile kwaye umhlaba wethu waba yintlango",
+        "Senyukela emazulwini",
+        "Sakhe ubukumkani obutsha, obunempumelelo ngakumbi"
+      ],
+      "answer": "Sasichithachithekile kwaye umhlaba wethu waba yintlango"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

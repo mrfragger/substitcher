@@ -1,0 +1,61 @@
+{
+  "title": "Džiugi žinia senatvėje",
+  "intro": "Esate liudininkai akimirkos, kai atgyja viltis. Pora, seniai peržengusi tėvų amžių, gauna pažadą, kuris prieštarauja gamtos dėsniams. Jų viduryje stovi asmenybė, kurios pats egzistavimas yra dieviškojo gailestingumo ženklas – siela, lemta pranašystei, nešanti palikimą, kuris perims ištisas kartas. Kas ši nepaprasta asmenybė?",
+  "clues": [
+    "Gimiau tėvams, kurie jau buvo sulaukę senatvės ir neturėjo vaikų.",
+    "Mano gimimą paskelbė angelai, kurie atvyko kaip svečiai į mano šeimą.",
+    "Man buvo suteikta išmintis ir pranašystė, ir esu minimas tarp kantriųjų.",
+    "Mano tėvas buvo vadinamas Alacho draugu, o aš buvau jam dovana vėlesniais metais.",
+    "Turėjau brolį, kuris taip pat buvo pranašas, ir abu buvome palaiminti Viešpaties.",
+    "Mano sūnus taip pat buvo pranašas, o mano palikuonims buvo duoti Raštai ir pranašystė."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ishaqas (Izaokas)",
+        "Pranašas Ismailas (Izmaelis)",
+        "Pranašas Jakubas (Jokūbas)",
+        "Pranašas Jahja (Jonas)",
+        "Pranašas Uzairas (Ezra)"
+      ],
+      "answer": "Pranašas Ishaqas (Izaokas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Gimė senyvo amžiaus tėvams",
+        "Įmestas į ugnį",
+        "Suteikta karalystė ir turtai",
+        "Išvedė savo tautą iš Egipto",
+        "Pastatė arką tikintiesiems išgelbėti"
+      ],
+      "answer": "Gimė senyvo amžiaus tėvams"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Džiugi žinia apie sūnų",
+        "Degantis krūmas",
+        "Auksinis veršis",
+        "Sandoros skrynia",
+        "Pranašystės personalas"
+      ],
+      "answer": "Džiugi žinia apie sūnų"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapo pranašu iš pranašų giminės",
+        "Tapo turtingu karaliumi.",
+        "Jo žmonės buvo sunaikinti dėl netikėjimo",
+        "Jis buvo išgelbėtas nuo gaisro",
+        "Jam buvo suteikta galimybė kalbėti dar kūdikystėje"
+      ],
+      "answer": "Tapo pranašu iš pranašų giminės"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

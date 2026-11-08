@@ -1,0 +1,61 @@
+{
+  "title": "Wiji Perselisihan",
+  "intro": "Sadurunge jagad iki ngerti konflik sing nyebar, ujian iman lan ketaatan sing jero wis kedadeyan. Narasi iki nyinaoni pilihan sing digawe dening sawijining individu, sing tumindake dadi preseden kanggo generasi mbesuk. Siyap-siyap kanggo mbukak crita babagan jiwa sing berjuang karo rasa meri sing gedhe lan akibat sing ngrusak.",
+  "clues": [
+    "Aku kalebu turunan pisanan sing urip ing bumi, anak saka pasangan manungsa sing paling pisanan.",
+    "Aku lan sedulurku lanang diwajibake ngaturake kurban marang Allah, minangka ujian kanggo keikhlasan kita.",
+    "Kurbanku ora ditampa, dene kurbane adhiku ditampa, sing nggawe atiku kebak emosi sing nggegirisi.",
+    "Aku ngucap tembung-tembung ancaman marang adhiku, didorong dening rasa pait amarga ditolak.",
+    "Sedulurku nanggapi kanthi kawicaksanan lan taqwa, ngelingake aku babagan keadilan Allah lan rasa wedi marang Panjenengane.",
+    "Senajan adhiku lanang ngomong alus lan gelem ngapura, aku malah njupuk nyawa, dadi salah sawijining wong sing kalah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Nabi Adam",
+        "Iblis",
+        "Nabi Nuh",
+        "Qabil (Kain)",
+        "Fir'aun"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Banjir gedhe",
+        "Pamisahan segara",
+        "Pambangunan Ka'bah",
+        "Kurban kurban",
+        "Godaan ing Taman"
+      ],
+      "answer": "Kurban kurban"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Tabut",
+        "Staf",
+        "Gunung Safa",
+        "Kurban",
+        "Grumbulan sing Kobong"
+      ],
+      "answer": "Kurban"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Dadi utusan",
+        "Kelelep",
+        "Mbangun kerajaan gedhe",
+        "Dadi conto penyesalan",
+        "Diwenehi kasugihan sing akeh banget"
+      ],
+      "answer": "Dadi conto penyesalan"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

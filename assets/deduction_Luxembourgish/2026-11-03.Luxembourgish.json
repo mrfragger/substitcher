@@ -1,0 +1,61 @@
+{
+  "title": "De Schlof vun de Gerechten",
+  "intro": "An enger Zäit, wou de Glawen geféierlech war an déi Mächteg probéiert hunn, de Glawen ze zerstéieren, huet eng kleng Grupp vu jonke Séilen eng Entscheedung getraff, déi duerch d'Jore widderhalle géif. Si sinn all dat geflücht, wat se woussten, hunn an der verstoppter Däischtert vun engem Bierg Schutz gesicht a vertrauen ganz op Allah. Wat duerno geschitt ass, sollt en zäitlosen Zeechen fir déi ginn, déi nodenken.",
+  "clues": [
+    "Mir waren eng Grupp vu jonke Leit, déi un eisen Här gegleeft hunn, an Hien huet eis a senger Féierung verstäerkt.",
+    "Mir stoungen virun eisem Vollek a soten, datt mir ni iergendeen Gott ausser Allah uruffe géifen.",
+    "Mir hunn an enger Hiel Schutz gesicht a gesot: \"Eise Här, gëff eis Barmhäerzegkeet vun dir selwer a leet eis richteg an eiser Affär.\"",
+    "Mir hunn eng grouss Zuel vu Jore geschlof, an d'Sonn ass vun eiser Höhl ewechgaangen an huet eis net beréiert.",
+    "Eise Hond louch ausgestreckt um Agank vun der Höhl a bewaacht eis, wéi wann e Wach hätt.",
+    "Wéi mir erwächt goufen, hu mir eis gefrot, wéi laang mir gewaart haten, an ee vun eis gouf mat Sëlwermënzen geschéckt fir Iessen ze kafen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Leit vun der Höhl",
+        "Leit vum Trench",
+        "Leit vum Sabbat",
+        "D'Leit vum Elefant",
+        "Begleeder vum Bësch"
+      ],
+      "answer": "Leit vun der Höhl"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "An eng Hiel geflücht fir d'Verfollegung wéinst hirem Glawen z'entkommen",
+        "Vun engem gewaltege Wand zerstéiert",
+        "Vun der Äerd verschléckt",
+        "Am Mier erdronk",
+        "Vun engem Stengstuerm getraff"
+      ],
+      "answer": "An eng Hiel geflücht fir d'Verfollegung wéinst hirem Glawen z'entkommen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "En Hond, deen den Entrée vun der Höhl bewaacht",
+        "Eng grouss Ark",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "En Hoopoe-Vugel",
+        "E gëllent Kalb"
+      ],
+      "answer": "En Hond, deen den Entrée vun der Höhl bewaacht"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si sinn 309 Joer an der Höhl bliwwen a goufen duerno als Zeeche vun der Éiwegkeet ervirgeruff.",
+        "Si goufen an Affen verwandelt",
+        "Si goufen duerch eng Iwwerschwemmung zerstéiert",
+        "Si goufen gezwongen, d'Mier ze iwwerqueren",
+        "Si kruten e Kinnekräich"
+      ],
+      "answer": "Si sinn 309 Joer an der Höhl bliwwen a goufen duerno als Zeeche vun der Éiwegkeet ervirgeruff."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

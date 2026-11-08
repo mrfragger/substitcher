@@ -1,0 +1,61 @@
+{
+  "title": "Mieszkańcy Dwóch Ogrodów",
+  "intro": "W krainie, gdzie błogosławieństwa płynęły obficie, pewna społeczność cieszyła się niegdyś bogactwem dwóch wspaniałych ogrodów. Ich życie było świadectwem boskiej łaski, jednak ich historia zmieniła się, gdy wdzięczność osłabła, prowadząc do transformacji, która stała się trwałym znakiem dla wszystkich, którzy się nad tym zastanawiają.",
+  "clues": [
+    "Byliśmy narodem obdarzonym szczęściem, żyjącym w kraju dobrobytu i dostatku.",
+    "Nasz Pan podarował nam dwa wspaniałe ogrody, bujne i owocne zewsząd.",
+    "Nakazano nam być wdzięcznymi, ale wybraliśmy niewdzięczność i odwróciliśmy się.",
+    "Wielka tama zatrzymała wody, które dały życie naszej ziemi.",
+    "Gdy trwaliśmy w złym postępowaniu, tama pękła i woda powodziowa wdarła się do środka.",
+    "Nasze niegdyś bujne ogrody zastąpiły gorzkie owoce, tamaryszki i kilka drzew lotosu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie Saby",
+        "Ludzie z Thamud",
+        "Ludzie Madyanu",
+        "Towarzysze jaskini",
+        "Ludzie Słonia"
+      ],
+      "answer": "Ludzie Saby"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Silny wiatr przez siedem nocy",
+        "Deszcz kamieni z nieba",
+        "Niszczycielska powódź spowodowana pęknięciem tamy",
+        "Głośny krzyk z nieba",
+        "Tonąc w morzu"
+      ],
+      "answer": "Niszczycielska powódź spowodowana pęknięciem tamy"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wielka tama w Ma'rib",
+        "Dolina Wadi al-Qura",
+        "Ogród Iram",
+        "Studnia Zamzam",
+        "Góra Synaj"
+      ],
+      "answer": "Wielka tama w Ma'rib"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Nasze ogrody zostały zastąpione gorzkimi owocami i rzadkimi drzewami",
+        "Zostaliśmy pochłonięci przez ziemię podczas trzęsienia ziemi",
+        "Zamieniliśmy się w małpy i świnie",
+        "Utonęliśmy w wielkiej powodzi",
+        "Zostaliśmy zniszczeni przez grad kamieni"
+      ],
+      "answer": "Nasze ogrody zostały zastąpione gorzkimi owocami i rzadkimi drzewami"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

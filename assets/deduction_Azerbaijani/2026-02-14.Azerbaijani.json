@@ -1,0 +1,61 @@
+{
+  "title": "Maneələrin Qurucusu",
+  "intro": "Geniş torpaqlarda güclü bir şəxs bir sıra səfərlərə çıxdı, böyük səlahiyyətlər və vasitələr verdi. Bu ruh müxtəlif icmalarla qarşılaşdı və özünəməxsus çətinliklərlə üzləşdi, hərəkətləri və müdrikliyi ilə tarixdə və imanda qalıcı iz buraxdı, eyni zamanda güclərinin əsl mənbəyini qəbul etdi.",
+  "clues": [
+    "Mənə hər şey üzərində güc və vasitə verildi və mən bir yol izlədim.",
+    "Səyahətim məni günəşin batdığı yerə apardı və orada bir xalq tapdım.",
+    "İki dağ arasında yaşayan, nitqi çətinliklə başa düşən bir icma ilə qarşılaşdım.",
+    "Məndən şəxsi mənfəət üçün deyil, dağıdıcı qüvvədən qorunmaq üçün bir sədd çəkməyim istəndi.",
+    "Mən elan etdim ki, bu nəhəng divarı tikmək üçün güc Allahdandır və o, vəd edilmiş bir zamana qədər davam edəcək.",
+    "Adım, tez-tez \"İki Buynuzlu\" kimi tərcümə olunur, yer üzünə və ya bəlkə də iki fərqli dövrə təsir göstərdiyimi bildirir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Musa peyğəmbər",
+        "Süleyman peyğəmbər",
+        "Zül-Qərneyn",
+        "Firon",
+        "Loğman"
+      ],
+      "answer": "Zül-Qərneyn"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Vəhy almaq",
+        "Bir zalımla üz-üzə",
+        "Böyük bir gəmi qurmaq",
+        "Möhtəşəm bir maneənin qurulması",
+        "Balıq tərəfindən udulmaq"
+      ],
+      "answer": "Möhtəşəm bir maneənin qurulması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Dəmir Baryer",
+        "Nil çayı",
+        "Taxt"
+      ],
+      "answer": "Dəmir Baryer"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Daşqından qurtuluş",
+        "Böyük bir krallığa çevrilmək",
+        "Bir xalq üçün qorunma",
+        "Zülmkarın məhv edilməsi",
+        "Davamlı müdriklik"
+      ],
+      "answer": "Bir xalq üçün qorunma"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

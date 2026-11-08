@@ -1,0 +1,61 @@
+{
+  "title": "An Creideamh Taobh Thiar den Ríchathaoir",
+  "intro": "Ní tine ná tuile a chuireann tástáil ar roinnt anamacha, ach brú mall maireachtála i bpálás tíoránaigh. Sheas an figiúr seo taobh le rialóir a d’éiligh diagacht thar a mhuintir, ach a chloígh go rúnda le creideamh san Aon Dia Fíor amháin. Nuair a thángthas ar a ndúthracht, tháinig fulaingt - ach tháinig gealltanas diaga freisin. An féidir leat buille faoi thuairim a thabhairt cé hé seo?",
+  "clues": [
+    "Bhí cónaí orm faoi dhíon rialóir is cumhachtaí mo thíre, i riocht nach bhféadfadh mórán a shamhlú riamh.",
+    "Sheas mo chéile os comhair an phobail agus d’fhógair sé gur dia é féin — ach ba leis an Aon Tiarna Fíor mo chroí.",
+    "Bhí mé ag cogarnaigh paidreacha i rúnda, agus eagla orm roimh an bpionós a thiocfadh ar gach duine a sháraigh mo chéile.",
+    "Nuair a nochtadh mo chreideamh, gabhadh agus céasadh mé — ach níor labhair mo theanga focal neamhchreidimh riamh.",
+    "Dhoirt mé mo chroí amach do mo Thiarna, ag iarraidh teach i bParthas, i bhfad ó gach éagóir.",
+    "Is mise Asiya bint Muzahim — bean chéile an Fharó a chuir i gcoinne Músa agus Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Asiya bint Muzahim (Beanchéile Pharaoh)",
+        "Hawwa (Éabha), an chéad bhean",
+        "Sárá, céad bhean chéile Ibrahim",
+        "Hágar, máthair Isma'il",
+        "Máthair Maryam (bean chéile Imran)"
+      ],
+      "answer": "Asiya bint Muzahim (Beanchéile Pharaoh)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Céasadh a fhulaingt as diúltú creideamh a thréigean",
+        "Ag maireachtáil i mbolg éisc mhóir",
+        "Áirc ollmhór á tógáil chun éalú ó thuile",
+        "Á chaitheamh i dtine lasrach",
+        "Ag finné ar scaradh farraige móire"
+      ],
+      "answer": "Céasadh a fhulaingt as diúltú creideamh a thréigean"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Teach tógtha dóibh i bParthas",
+        "Sloinne a d’athraigh ina nathair",
+        "Áirc ag iompar péirí de gach créatúr",
+        "Lao órga a adhradh ag náisiún",
+        "Sling a úsáidtear chun laoch ollmhór a ruaigeadh"
+      ],
+      "answer": "Teach tógtha dóibh i bParthas"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Onóir tugtha dóibh le cónaí i bParthas in éineacht leis na fíréan",
+        "Báite faoi na tonnta in éineacht lena n-arm",
+        "Dóite i lasracha ach sábháladh trí idirghabháil dhiaga iad",
+        "Slogtha ag créatúr mór agus ansin teilgthe i dtír é",
+        "Ba iad an duine ba shaibhre dá linn"
+      ],
+      "answer": "Onóir tugtha dóibh le cónaí i bParthas in éineacht leis na fíréan"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lubbuu Boollaa",
+  "intro": "Bara bulchaan gara laafina hin qabne tokko waaqolii sobaaf guutummaatti of kennuu gaafatutti deebitee deemta. Hawaasni xiqqaan lubbuuwwan of kennanii dide, adabbiin cimaan bara baraan abaaramaa ta’e isaan mudate. Seenaan isaanii karaa Qur’aana akka ragaa amantii hin sochooneetti sagalee dhageessisa. Garee jabaa kana adda baasuu dandeessaa?",
+  "clues": [
+    "Biyya abbaa irree bulchaa waaqolii sobaa waaqeffannaa gaafatu jala jiraachaa turre",
+    "Hawaasni keenya Rabbiin qofatti amanuu keenya qofaaf ari’atamni cimaan isa mudate",
+    "Bulchaan kun boolli guddaan tokko akka qotamee fi abidda cimaan akka boba’u ajaje",
+    "Amantii keenya ganuu waan diddneef, tokko tokkoon boolla boba’aa sanatti darbatamne",
+    "Seenaan keenya qaama Qur’aanaa ta’ee, warri nu ari’atanis bara baraan abaaramaa turan",
+    "Suuraan rakkina keenya galmeessitu mallattoolee samii gurguddoo samiitiin moggaafame"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Sahaabaa Boolla (Ashab al-Ukhdud) .",
+        "Ummata Holqa (Ashab al-Kahf) .",
+        "Namoota sanbataa",
+        "Ummata A'ad",
+        "Ummata Thamud"
+      ],
+      "answer": "Sahaabaa Boolla (Ashab al-Ukhdud) ."
+    },
+    "trial": {
+      "label": "Qormaata Keenya",
+      "options": [
+        "Boolla ibiddaa keessatti lubbuun gubachuu",
+        "Waggoota dheeraaf holqa keessatti cufamee jiraachuu",
+        "Guyyaa boqonnaa qulqulluu qurxummii qabuu",
+        "Qilleensi iyyaa jiruun barbadaa'uu",
+        "Gaala dubaraa qulqulluu ajjeesuu"
+      ],
+      "answer": "Boolla ibiddaa keessatti lubbuun gubachuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Boolla ibiddaa boba'aa jiru",
+        "Holqa dhokataa saree amanamaa qabu",
+        "Utubaawwan dheeraa magaalaa durii balaadhaaf saaxilamte",
+        "Manneen jireenyaa gaaraa dhagaa irratti bocaman",
+        "Dirree banaa qilleensi hamaan harkifame"
+      ],
+      "answer": "Boolla ibiddaa boba'aa jiru"
+    },
+    "outcome": {
+      "label": "Bu'aa Keenya",
+      "options": [
+        "Wareegamnee ari'attoonni bara baraan abaaraman",
+        "Waggaa 309 erga rafnee booda dammaqne",
+        "Irra daddarba keenyaaf gara hantuutaatti jijjiiramne",
+        "Qilleensi cimaan booʼu tokko hunda keenya balleesse",
+        "Iyya gaddisiisaa tokkotu jiraachuu keenya caccabse"
+      ],
+      "answer": "Wareegamnee ari'attoonni bara baraan abaaraman"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

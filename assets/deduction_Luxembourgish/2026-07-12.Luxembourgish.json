@@ -1,0 +1,61 @@
+{
+  "title": "Déi verluere Stad vun onerreechter Majestéit",
+  "intro": "Eng mächteg Zivilisatioun huet fréier grouss Flächen vun der Äerd dominéiert, bekannt fir hir héich Strukturen, déi bis an den Himmel gereecht hunn. Awer ënner dëser Gréisst ass eng haartnäckeg Verleugnung gewuess - eng Verweigerung, dem göttleche Warner ze follegen, deen aus der Gemeinschaft selwer geschéckt gouf. Stolz an Arroganz géifen geschwënn eng Strof ausléisen, wéi weder d'Äerd nach den Himmel jee gesinn haten.",
+  "clues": [
+    "Mir hunn eemol iwwer grouss Flächen vun der Äerd regéiert, a konnten eis mat enger Stäerkt brëschen, déi mir gegleeft hunn, datt keng aner Zivilisatioun kéint mithalen.",
+    "Eist Räich war bekannt fir seng héich Strukturen mat mächtege Sailen, déi an all bekannte Länner onvergläichlech stoungen.",
+    "E Warner aus eiser eegener Gemeinschaft ass opgestan an huet jidderee vun eis opgeruff, sech eleng dem Eenzege Schëpfer ze ënnerwerfen.",
+    "Mir hunn d'Botschaft, déi eis iwwerbruecht gouf, ofgeleent a refuséiert, de Wee opzeginn, deen mir geierft haten.",
+    "E rosen, jäizende Wand vun iwwerwältegendster Gravitéit gouf géint eis lassgelooss a sot eis komplett verdeedegtlos.",
+    "Mir goufen ewéi ausgehuewe Palmenstämm hannerlooss, verstreet a vergiess, als Lektioun fir all Generatioun duerno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Leit vun A'ad",
+        "D'Leit vun Nuh",
+        "Leit vu Lut",
+        "D'Leit vu Madyan",
+        "D'Leit vun Tubba'"
+      ],
+      "answer": "D'Leit vun A'ad"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "En onopfällegen, rosen Wand vu schwéierer Strof",
+        "Eng Iwwerschwemmung, déi all Biergspëtz bedeckt huet",
+        "E Reen vu brennende Leemsteng vun uewen",
+        "Een eenzege schrecklechen Schrei vum Himmel",
+        "E gewaltegt Äerdbiewen, dat d'Land gespléckt huet"
+      ],
+      "answer": "En onopfällegen, rosen Wand vu schwéierer Strof"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Iram, d'Stad vun den héije Säulen",
+        "Eng massiv Holzark, déi op engem Bierg gebaut gouf",
+        "E Kamel, dat op wonnerbar Weis aus dem Steen erauskoum",
+        "Bierg Sinai, wou d'göttlech Geboter erofkomm sinn",
+        "E Palais aus Kristall a feinem Glas mat Vue op fléissend Waasser"
+      ],
+      "answer": "Iram, d'Stad vun den héije Säulen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Lénks wéi ausgehielt Palmenstämm, verstreet a liewelos",
+        "Ënnert de Wellen vun enger grousser Iwwerschwemmung erdronk",
+        "Transforméiert a Kreaturen, déi un Affen a Schwäin gläichen",
+        "Zerquetscht ënner engem Reen vun gehärtete Lehmsteng",
+        "Verbraucht an engem eenzegen daafenden Schrei, deen d'Séil duerchbrach huet"
+      ],
+      "answer": "Lénks wéi ausgehielt Palmenstämm, verstreet a liewelos"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

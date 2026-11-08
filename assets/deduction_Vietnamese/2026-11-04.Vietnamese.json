@@ -1,0 +1,61 @@
+{
+  "title": "kho báu đã chìm xuống dưới lòng kiêu hãnh",
+  "intro": "Hãy tưởng tượng bạn đang đứng trước những khối tài sản khổng lồ đến nỗi chỉ việc mang chìa khóa thôi cũng đủ khiến một nhóm người khỏe mạnh kiệt sức. Xung quanh bạn, những tiếng nói kêu gọi sự khiêm nhường và lòng biết ơn, nhưng kiêu hãnh lại lớn hơn lòng biết ơn. Điều gì sẽ xảy ra khi sự giàu có trở thành một thử thách và sự kiêu ngạo định đoạt kết cục?",
+  "clues": [
+    "Tôi xuất thân từ dòng dõi Musa, nhưng tôi đã phạm tội nghịch cùng họ.",
+    "Tôi được ban tặng những kho báu vô cùng to lớn đến nỗi chìa khóa mở chúng cần đến một nhóm người mạnh mẽ mới có thể làm được.",
+    "Người thân khuyên tôi không nên kiêu ngạo và nên tìm kiếm cõi vĩnh hằng mà không quên phần trách nhiệm của mình ở thế giới này.",
+    "Tôi khẳng định rằng những gì tôi có được là nhờ vào kiến ​​thức mà tôi sở hữu.",
+    "Tôi diễu hành trước dân chúng trong bộ trang phục lộng lẫy, và những ai khao khát cuộc sống trần tục đều ước ao có được những gì tôi có.",
+    "Tôi bị đất nuốt chửng cùng với nhà cửa của mình, và không ai có thể giúp tôi, cũng như tôi không thể tự giúp mình."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Khoe khoang sự giàu có và chối bỏ ân huệ của Allah bất chấp lời khuyên.",
+        "Thách thức Ibrahim về việc ban sự sống và cái chết.",
+        "Dẫn đầu một đội quân chống lại Talut và Dawud.",
+        "Những bức tượng chạm khắc để người dân thờ cúng.",
+        "Giết anh trai vì ghen tị với một vật tế lễ."
+      ],
+      "answer": "Khoe khoang sự giàu có và chối bỏ ân huệ của Allah bất chấp lời khuyên."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Chìa khóa dẫn đến những kho báu vô giá",
+        "Hòm Giao Ước",
+        "Một con bê vàng dùng để trang trí",
+        "Một con đập nằm giữa hai ngọn núi.",
+        "Mười một ngôi sao trong giấc mơ"
+      ],
+      "answer": "Chìa khóa dẫn đến những kho báu vô giá"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị đất nuốt chửng cùng với nhà cửa và của cải",
+        "Chết đuối trên biển khi đang truy đuổi Musa.",
+        "Bị trúng đá từ ná của Dawud và ngã gục.",
+        "Bị tiêu diệt bởi một vụ nổ mạnh vì đã làm tê liệt chân một con lạc đà cái.",
+        "Bị biến thành vượn vì vi phạm ngày Sabbath"
+      ],
+      "answer": "Bị đất nuốt chửng cùng với nhà cửa và của cải"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

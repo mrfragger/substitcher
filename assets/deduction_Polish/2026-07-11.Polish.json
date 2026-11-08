@@ -1,0 +1,61 @@
+{
+  "title": "Podróżnicy zielonego pola",
+  "intro": "W starożytności dwoje ludzi zajmowało się sąsiednimi ziemiami. Ich ścieżki były splecione, lecz serca prowadziły ich ku zupełnie różnym celom. Jeden podążał prostą ścieżką, podczas gdy drugi zbłądził w mrok zaprzeczenia. Czy potrafisz rozwikłać tajemnicę tych dwóch strażników plonów?",
+  "clues": [
+    "Posiadałem obfite plony, wspaniałe zbiory, które olśniewały oczy obserwatorów.",
+    "Mój sąsiad dysponował jeszcze większymi dobrami niż ja, a mimo to pożądałem jego części bardziej niż swojej własnej.",
+    "Zasugerowałem, że powinniśmy zniszczyć wszystkie ich zbiory, żeby skonsolidować wszystko, co jest pod moją kontrolą.",
+    "Sprowadziłem ruinę także na własne zbiory, niszcząc wszystko w swych głupich intrygach.",
+    "Stałem bezradny, gdy w ciągu jednej nocy moje plony zwiędły, a bogactwo obróciło się w pył.",
+    "Nie miałem udziału w życiu pozagrobowym, a moim ostatnim miejscem pobytu stał się dół płonącego ognia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Człowiek, który zaprzeczył zmartwychwstaniu i sądowi",
+        "Władca, który uciskał sprawiedliwego rolnika",
+        "Bogaty właściciel ziemski, któremu brakowało wdzięczności",
+        "Rolnik, który pożądał ziemi sąsiada",
+        "Zdradziecki wspólnik, który planował zniszczenie"
+      ],
+      "answer": "Rolnik, który pożądał ziemi sąsiada"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Test otrzymania objawienia Bożego",
+        "Wyzwanie bogactwa i cierpliwości",
+        "Pokusa zniszczenia źródła utrzymania prawego człowieka",
+        "Polecenie sprawiedliwego podziału spadku",
+        "Walka z uciskiem tyrana"
+      ],
+      "answer": "Pokusa zniszczenia źródła utrzymania prawego człowieka"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Zielone ogrody raju",
+        "Dwa sąsiadujące pola uprawne",
+        "Góry, które były świadkami zniszczenia",
+        "Święte sanktuarium Mekki",
+        "Brzegi rzeki błogosławionej krainy"
+      ],
+      "answer": "Dwa sąsiadujące pola uprawne"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wieczny raj jako nagroda za prawość",
+        "Całkowite zniszczenie obu plonów w tym życiu",
+        "Wygnanie i tułaczka aż do śmierci",
+        "Tymczasowa pomyślność, po której następuje wieczny ogień",
+        "Cudowne przywrócenie i podwojenie plonów"
+      ],
+      "answer": "Całkowite zniszczenie obu plonów w tym życiu"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

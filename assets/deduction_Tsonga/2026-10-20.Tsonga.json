@@ -1,0 +1,61 @@
+{
+  "title": "Muaki wa Vutivi bya Mavunwa",
+  "intro": "Munhu la nga ni vulawuri lebyikulu u tshame a tirhela un’wana wa vafumi va tihanyi lava dumeke swinene ematin’wini eEgipta wa khale. Munhu loyi u tshembisiwile xileriso xa xivindzi — ku aka xivumbeko lexi a xi vula ku kaneta matilo. Mhaka ya vona yi yime eka Quran tanihi dyondzo leyi hlamarisaka malunghana ni ndlela leyi ku yingisa ku tikukumuxa loku nga voniki ku yisaka ntsena eku onheni.",
+  "clues": [
+    "Ndzi tirhe etihubyeni ta mufumi wa matimba loyi a a vula leswaku i vukwembu ehenhla ka matiko.",
+    "A ndzi ri ni xikhundlha xa le henhla xa vutirheli, ndzi tsundzuxa mufumi wa tihanyi la tikukumuxaka swinene enkarhini wa mina.",
+    "Mufumi wa mina a a khomekile hi ku tlhontlha Xikwembu xa Muxe, lexi va aleke ku xi amukela.",
+    "Ndzi lerisiwe ku aka xihondzo xa switina leswi bakiweke hi ndzilo leswaku mufumi wa mina a ta tlhandlukela etilweni.",
+    "Xihondzo lexi a xi nga si tshama xi fika empfhukeni, naswona vuhlonga bya mina bya ku tikukumuxa byi ndzi endle ndzi khomisiwa tingana hilaha ku nga heriki.",
+    "Ndzi lovile ni loyi ndzi n’wi landzeleke, naswona vito ra mina ri ve xilemukiso lexi nga heriki eka lava endlaka leswaku vafumi va tihanyi va kota."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Hamani",
+        "Azar (tata wa Ibrahim) .",
+        "Illyas (muprofeta) .",
+        "Dhu al-Kifl",
+        "Harut (un’wana wa tintsumi timbirhi eBabilona) ."
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U lerisiwe ku aka muako lowu tlakukeke leswaku wu ta fika ematilweni",
+        "U komberiwile ku hlamusela norho lowu rhumeriweke ku suka eka vukwembu",
+        "Ku lahleriwa endzilweni lowu pfurhaka tanihi ndzingo wa ripfumelo",
+        "Ku boheka ku hlawula exikarhi ka xiluvelo ni ntiyiso",
+        "U tlhontlhiwile eka mphikizano wa vungoma"
+      ],
+      "answer": "U lerisiwe ku aka muako lowu tlakukeke leswaku wu ta fika ematilweni"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xihondzo xa switina leswi bakiweke hi ndzilo",
+        "Nhonga leyi hundzukeke nyoka",
+        "Xikepe lexi fambaka exikarhi ka ndhambi leyikulu",
+        "Ntanga lowu pfaleriweke hi marhangu lama tlakukeke",
+        "Xiluvelo lexi khavisiweke hi tirubi ni nsuku"
+      ],
+      "answer": "Xihondzo xa switina leswi bakiweke hi ndzilo"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku nwela etlhelo ka mutshikileri elwandle",
+        "U ve hosi ya matimba ya matiko lamakulu",
+        "U balekile eka ndzilo lowu pfurhaka a nga vavisekanga",
+        "U ake mfumo lowu humelelaka wa vutlhari",
+        "U tlhele a hlanganisiwa ni ndyangu endzhaku ka malembe yo tala a ri evuhlongeni"
+      ],
+      "answer": "Ku nwela etlhelo ka mutshikileri elwandle"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

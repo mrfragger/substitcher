@@ -1,0 +1,61 @@
+{
+  "title": "Den första som söker förlåtelse",
+  "intro": "Gå tillbaka till en tid före den första soluppgången, innan någon dödlig vandrade på jorden. En figur formades av det enklaste material, fick en ställning över änglarna och placerades i en helig trädgård med en tydlig varning. Ändå gjordes i ett enda ögonblick ett val – ett som skulle eka genom hela mänsklighetens historia. Vem är denna figur?",
+  "clues": [
+    "Jag blev till på ett sätt olikt allt annat – formad av jordens stoft och given en levande själ av Skaparens hand.",
+    "Jag fick så djupgående kunskap att till och med änglarna ovan förundrades över den.",
+    "Hela himlen befalldes att böja sig inför mig, och de underkastade sig alla – utom en, som vägrade av stolthet.",
+    "Jag placerades i en helig trädgård, en plats för evig tröst och försörjning – men med ett strikt förbud.",
+    "Jag glömde, jag halkade och jag var olydig – och jag kände tyngden av mitt misstag djupt.",
+    "Jag vände mig till min Herre med innerliga ord, och Han accepterade min ånger, ty Han är den Mest Förlåtande."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Adam",
+        "Profeten Dawud",
+        "Profeten Muhammed",
+        "Iblis",
+        "Profeten Yaqub"
+      ],
+      "answer": "Profeten Adam"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Änglarna befalldes att falla ner",
+        "Den stora översvämningen sändes",
+        "En stor eld svalnade och blev säker",
+        "En arrogant härskare drunknade i havet",
+        "En armé av elefanter förintades"
+      ],
+      "answer": "Änglarna befalldes att falla ner"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Lycksalighetens trädgård",
+        "Sinaiberget",
+        "Den heliga moskén",
+        "Nilen",
+        "Grottan"
+      ],
+      "answer": "Lycksalighetens trädgård"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ånger accepterades av Allah",
+        "Drunknade i havet",
+        "Slukad av en stor fisk",
+        "Nationen drabbades av en kraftig explosion",
+        "Bränd av en brännande vind"
+      ],
+      "answer": "Ånger accepterades av Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

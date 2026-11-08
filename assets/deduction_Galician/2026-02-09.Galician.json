@@ -1,0 +1,60 @@
+{
+  "title": "O xuízo baixo as ondas",
+  "intro": "Un profeta, abrumado pola súa misión, tomou unha decisión que o levou lonxe do seu pobo e a unha proba inesperada. A súa viaxe deu un xiro dramático, poñendo a proba a súa fe e paciencia do xeito máis profundo. Podes deducir os detalles deste extraordinario acontecemento a partir das pistas proporcionadas?",
+  "clues": [
+    "Un profeta foi enviado a un pobo, pero partiu ás présas, sentindo frustración polo seu rexeitamento.",
+    "A súa viaxe levouno ao mar, onde embarcou nun barco moi cargado buscando pasaxe.",
+    "Levantouse unha gran tormenta que ameazaba o barco e tomouse a decisión de botar unha persoa pola borda para alixeirar a carga, determinado por sorteos.",
+    "Foi tragado por unha criatura das profundidades, un evento milagroso decretado pola vontade divina.",
+    "Dentro dos confíns do ventre da criatura, invocou ao seu Señor, arrepinténdose e glorificando a Alá na escuridade.",
+    "Tras un período de intensas súplicas, foi lanzado a unha costa árida, débil pero vivo, e máis tarde volveu para descubrir que o seu pobo finalmente crera."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Persoa",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Lut",
+        "Profeta Moisés",
+        "Profeta Yunus",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "O diluvio de Nuh",
+        "A destrución de Sodoma",
+        "A viaxe no ventre do gran peixe",
+        "A división do mar",
+        "A revelación da zarza ardente"
+      ],
+      "answer": "A viaxe no ventre do gran peixe"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Arca",
+        "Monte Sinaí",
+        "O bastón de Musa",
+        "O Gran Peixe",
+        "O pozo de Yusuf"
+      ],
+      "answer": "O Gran Peixe"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Unha nova alianza coa humanidade",
+        "Un nacemento milagroso para o seu pobo",
+        "Un reino establecido para a súa liñaxe",
+        "Un regreso ao seu pobo que entón cría",
+        "Unha vitoria sobre un gobernante tiránico"
+      ],
+      "answer": "Un regreso ao seu pobo que entón cría"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Tõde, mis kohtu vaigistas",
+  "intro": "Palees, kus valitses eitamine ja võim absoluutne, seisis seltskond oskuslikke praktikuid ootamatu väljakutse ees. Õhk pakas ootusärevusest, kui vale ja tõe kaks teed kohe kokku põrkasid. Kokkutulnutel polnud aimugi, et see kohtumine muudab nende elu igaveseks ja söövitab nende loo pühasse teksti.",
+  "clues": [
+    "Me olime tuntud oma illusioonide loomise oskuse poolest ja võimas valitseja kogus meid väljakutsujaga silmitsi seisma.",
+    "Kui hetk kätte jõudis, valasime oma instrumendid ja ootasime tulemust, olles oma oskustes kindlad.",
+    "Kuid see, mida me nägime, pani meie endi seadmed tunduma pelgalt mänguasjadena ja meie südamed tundsid ära vaieldamatu tõe.",
+    "Me langesime kummardades maha, kuulutades oma usku Moosese ja Aaroni Issandasse, hoolimata valitseja raevust.",
+    "See valitseja ähvardas meid kõige julmema karistusega, vandudes meid risti lüüa ja meie jäsemed vastassuunas maha raiuda.",
+    "Me jäime kindlaks oma seisukohale, öeldes, et eelistame oma Issanda kohtuotsust mis tahes maistele tagajärgedele, ja me langesime oma usu pärast märtriks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Vaarao nõiad",
+        "Koopa rahvas",
+        "Metsa kaaslased",
+        "Jesa jüngrid",
+        "Elevandi rahvas"
+      ],
+      "answer": "Vaarao nõiad"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Musa vastu peetav võluvõistlus",
+        "Nende peale visatud tuli",
+        "Üleujutus, mis nad uputas",
+        "Põud ja nälg",
+        "Maavärin"
+      ],
+      "answer": "Musa vastu peetav võluvõistlus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "kepid ja köied, mis muutusid madudeks",
+        "Põlev põõsas",
+        "Emane kaamel",
+        "Puidust laev",
+        "Vaal"
+      ],
+      "answer": "kepid ja köied, mis muutusid madudeks"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Usu eest hukati, paradiisi lubati",
+        "Uppus merre",
+        "Sai Egiptuse valitsejateks",
+        "Vaarao jäänud järgijad",
+        "Päris maa"
+      ],
+      "answer": "Usu eest hukati, paradiisi lubati"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

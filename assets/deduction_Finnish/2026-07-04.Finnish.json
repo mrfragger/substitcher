@@ -1,0 +1,61 @@
+{
+  "title": "Se, jonka merkkien edessä valtakunta kumartui",
+  "intro": "Merkittävä matka odottaa niitä, jotka uskaltavat ratkaista tämän mysteerin. Ilmestyskirjan syvällä sivuilla eli hallitsija, jonka kohtaaminen profeetan kanssa mullistaisi koko kansakunnan. Tämä hahmo hallitsi kaukaiselta valtaistuimelta muinaisten perinteiden ohjaamana, kunnes poikkeuksellinen jumalallisen totuuden hetki muutti sekä hallitsijan että valtakunnan ikuisiksi ajoiksi. Aiotko paljastaa tämän merkittävän sielun henkilöllisyyden, jonka tarina yhdistää poikkeuksellisen ja syvällisen?",
+  "clues": [
+    "Hallitsin vaurasta kansakuntaa kaukaisten vesien toisella puolella, joka oli tunnettu puutarhoistaan ​​ja kohoavista palatseistaan.",
+    "Vallani oli ylin, mutta suuri kuningaskunta tuli kyseenalaistamaan olemassaolomme ja identiteettimme.",
+    "Pieni lintu kantoi mukanaan poikkeuksellisen viestin, ja sitä seuranneet ihmeet murskasivat kaikki oletukseni vallasta.",
+    "Kun näin silmieni edessä muuttuvan valtaistuimen, tiesin, ettei kenelläkään kuolevaisella voisi olla sellaisia ​​kykyjä.",
+    "Julistin avoimesti alistuvani taivaiden ja maan ainoalle Herralle ja hylkäsin kaiken, mikä oli minulle kerran rakas.",
+    "Me kansakuntana käännyimme pois muinaisesta auringonpalvonnasta ja omaksuimme totuuden, joka muutti kaiken."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Bilqis – Saban kuningatar",
+        "Madyanin kuningatar",
+        "Profeetta Yusufin vaimo",
+        "Egyptin kuningatar",
+        "Babylonin prinsessa"
+      ],
+      "answer": "Bilqis – Saban kuningatar"
+    },
+    "trial": {
+      "label": "Suuri koettelemus",
+      "options": [
+        "Tuhoisa tulva, joka tuhosi valtakunnan",
+        "Salaperäisen viestin vastaanottaminen epätavallisen linnun välityksellä",
+        "Taistelu profeetta Sulaymanin armeijoita vastaan",
+        "Kolmekymmentä vuotta ankaraa kuivuutta ja vaikeuksia",
+        "Maanjäristys, joka nielaisi kuninkaallisen palatsin"
+      ],
+      "answer": "Salaperäisen viestin vastaanottaminen epätavallisen linnun välityksellä"
+    },
+    "location": {
+      "label": "Keskeinen sijainti",
+      "options": [
+        "Niili muinaisessa Egyptissä",
+        "Mekan pyhä pyhäkkö",
+        "Profeetta Dawudin piha",
+        "Jemen ja sen legendaariset puutarhat",
+        "Jerusalemin tasangot"
+      ],
+      "answer": "Profeetta Dawudin piha"
+    },
+    "outcome": {
+      "label": "Lopputulos",
+      "options": [
+        "Valtakunta tuhottiin rangaistuksena epäuskosta",
+        "Menin naimisiin profeetta Sulaymanin kanssa ja asuin Jerusalemissa",
+        "Me alistuimme Allahin tahtoon ja omaksuimme todellisen uskon",
+        "Palasin valtaistuimelleni ja jatkoin hallitsemista kuten ennenkin",
+        "Kansakunta kaapattiin ja sulautettiin toiseen imperiumiin"
+      ],
+      "answer": "Me alistuimme Allahin tahtoon ja omaksuimme todellisen uskon"
+    }
+  },
+  "verseRef": "38:32",
+  "arabic": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+  "verse": "And he said, \"Indeed, I gave preference to the love of good [things] over the remembrance of my Lord until it [i.e., the sun] disappeared into the curtain [of darkness].\" (38:32)"
+}

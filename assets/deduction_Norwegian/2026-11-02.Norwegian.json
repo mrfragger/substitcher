@@ -1,0 +1,61 @@
+{
+  "title": "Den urokkelige allierte i en gullprøve",
+  "intro": "I skyggen av en stor profet ble en veltalende og troende sjel valgt til å bistå i et monumentalt oppdrag. Denne skikkelsen sto urokkelig da massene vaklet, og forkynte mot en åpenbar overtredelse som truet selve kjernen av monoteismen. Da profeten kom tilbake for å være vitne til folkets fall, var denne skikkelsens forsvar ikke et av skyld, men av plikt og frykt for splittelse. Hvem er denne hengivne tjeneren til Allah?",
+  "clues": [
+    "Jeg ble valgt av Allah til en hellig plikt ved siden av en annen, og min rolle var å støtte og forkynne.",
+    "Jeg fikk klar tale, og jeg fulgte et sendebud for å konfrontere en mektig undertrykker.",
+    "Under en kritisk reise besteg budbringeren et fjell alene, og lot meg våke over folket.",
+    "I deres fravær laget folket en gullstatue, og jeg tryglet dem om å forbli trofaste, men de avslo mitt råd.",
+    "Da budbringeren kom tilbake, fylt av sinne og sorg, ble jeg grepet, men jeg forklarte at jeg hadde blitt overmannet og fryktet å forårsake splid blant dem.",
+    "Jeg er profeten som sto ved siden av Musa, min bror, og delte hans byrde og forble standhaftig mot avgudsdyrkelse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Harun",
+        "Profeten Musa",
+        "Profeten Isa",
+        "Profeten Dawud",
+        "Profeten Zakariyya"
+      ],
+      "answer": "Profeten Harun"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Folk tilba en gullkalv til tross for advarsler",
+        "Folk kastet meg inn i en flammende ild",
+        "Jeg ble slukt av en stor fisk",
+        "Jeg ble fengslet på falske anklager",
+        "Jeg ble forvist fra byen min fordi jeg forkynte"
+      ],
+      "answer": "Folk tilba en gullkalv til tross for advarsler"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Den gylne kalven",
+        "Den brennende busken",
+        "Staven som ble til en slange",
+        "Paktens tavler",
+        "Paktens ark"
+      ],
+      "answer": "Den gylne kalven"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Jeg ble frikjent og fortsatte mitt profetiske oppdrag",
+        "Jeg ble straffet for folkets synd",
+        "Jeg fikk en ny nasjon å veilede",
+        "Jeg ble levende tatt opp til himmelen",
+        "Jeg ble gjort til hersker over et kongerike"
+      ],
+      "answer": "Jeg ble frikjent og fortsatte mitt profetiske oppdrag"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

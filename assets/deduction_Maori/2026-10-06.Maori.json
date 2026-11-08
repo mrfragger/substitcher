@@ -1,0 +1,61 @@
+{
+  "title": "Te Pono i Whakamutu i te Kōti",
+  "intro": "I roto i te whare rangatira i te wā i kingi ai te whakakahore, ā, i tino kaha te mana, i tū te huihuinga o ngā tohunga mohio ki mua i tētahi wero ohorere. I haruru te hau i te tumanako i te mea ka tata te tukinga o ngā ara e rua o te teka me te pono. Kāore i mōhio te hunga i huihui mai ka hurihia ō rātou ao ake ake e tēnei tūtakitanga, ā, ka whakairohia tō rātou kōrero ki roto i te tuhinga tapu.",
+  "clues": [
+    "I rongonui mātou mō tō mātou pūkenga ki ngā mahi maminga, ā, i huihuia mātou e tētahi rangatira mana nui ki te tū atu ki tētahi kaiwhakataetae.",
+    "I te taenga mai o te wā, ka makahia e mātou ā mātou taonga puoro, ka tatari ki te hua, me te whakapono ki tā mātou mahi.",
+    "Engari nā te mea i kite mātou i meinga ā mātou ake taputapu kia rite ki ngā taonga takaro noa iho, ā, i mohio ō mātou ngākau ki te pono e kore e taea te whakakorekore.",
+    "I takoto mātou ki te whenua, me te whakapuaki i tō mātou whakapono ki te Ariki, ki a Mohi rāua ko Arona, ahakoa te riri o te rangatira.",
+    "I whakawehi mai taua rangatira i a mātou ki te whiu tino nanakia, i oati hoki ka ripekatia mātou, ka tapahia hoki ō mātou waewae ki ngā taha rerekē.",
+    "I noho pūmau mātou, me te kī he pai ake ki a mātou te whakawa a tō mātou Ariki i ngā hua o te ao, ā, i whakamatea mātou mō tō mātou whakapono."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā Tohunga Makutu a Parao",
+        "Te Iwi o te Ana",
+        "Ngā Hoa o te Ngāhere",
+        "Ngā Ākonga a Ihaia",
+        "Te Iwi o te Arewhana"
+      ],
+      "answer": "Ngā Tohunga Makutu a Parao"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "He whakataetae makutu ki a Mohi",
+        "He ahi i whiua ki runga i a rātou",
+        "He waipuke i toremi ai rātou",
+        "He tauraki me te matekai",
+        "He rū whenua"
+      ],
+      "answer": "He whakataetae makutu ki a Mohi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā tokotoko me ngā taura i huri hei nakahi",
+        "He rakau e mura ana",
+        "He kamera uha",
+        "He āka rakau",
+        "He tohorā"
+      ],
+      "answer": "Ngā tokotoko me ngā taura i huri hei nakahi"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakamatea mō te whakapono, i whakaaria mai te Pararaiha",
+        "I toremi ki te moana",
+        "I noho hei rangatira mō Īhipa",
+        "Ngā akonga tonu a Parao",
+        "I riro i a ia te whenua"
+      ],
+      "answer": "I whakamatea mō te whakapono, i whakaaria mai te Pararaiha"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

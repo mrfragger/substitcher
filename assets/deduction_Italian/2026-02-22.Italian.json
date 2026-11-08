@@ -1,0 +1,61 @@
+{
+  "title": "La pazienza dell'anima afflitta",
+  "intro": "Negli annali della storia, c'è una figura il cui nome è sinonimo di resistenza. Quest'individuo fu messo alla prova dalla perdita di ogni agio terreno, eppure rimase un devoto servitore del Creatore. Attraverso anni di difficoltà e malattie fisiche, il suo cuore rimase saldamente ancorato alla fede, offrendo un faro di speranza a tutti coloro che affrontano le avversità.",
+  "clues": [
+    "Ero un devoto servitore di Allah, benedetto da grandi ricchezze, molti figli e ottima salute.",
+    "La mia vita ha preso una svolta inaspettata quando sono stato privato delle mie ricchezze e della mia famiglia, rimanendo con nient'altro che la mia fede.",
+    "Sono stato afflitto da una malattia lunga e dolorosa che ha messo a dura prova i limiti stessi della resistenza umana.",
+    "Durante tutta la mia sofferenza, mi sono rifiutato di lamentarmi con il mio Signore, anche quando l'avversario ha cercato di indurmi alla disperazione.",
+    "Quando finalmente mi rivolsi al Signore, non chiesi ricchezze, ma riconobbi semplicemente di essere stato colpito dalla sofferenza.",
+    "Mi dissero di battere la terra con il piede, e da lì sgorgò una sorgente di acqua fresca che guarì il mio corpo e placò la mia sete."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Yaqub",
+        "Profeta Ayyub",
+        "Profeta Zakariyyah",
+        "Profeta Yahya",
+        "Profeta Shu'ayb"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Anni di gravi malattie e perdite",
+        "Essere gettati in un pozzo profondo",
+        "Essere inghiottito da un pesce gigante",
+        "Affrontare un tiranno in un incendio",
+        "Un lungo viaggio alla ricerca di un maestro"
+      ],
+      "answer": "Anni di gravi malattie e perdite"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un bastone che divise il mare",
+        "Una camicia che profumava di casa",
+        "Una sorgente d'acqua curativa",
+        "Una montagna che si è sbriciolata in polvere",
+        "Una grotta di sonno profondo"
+      ],
+      "answer": "Una sorgente d'acqua curativa"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Diventare governatore di una grande terra",
+        "Condurre un esercito alla vittoria",
+        "Ripristino della salute e della famiglia",
+        "Costruire un luogo sacro di culto",
+        "Ricevere una tavola imbandita dal cielo"
+      ],
+      "answer": "Ripristino della salute e della famiglia"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

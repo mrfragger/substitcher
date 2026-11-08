@@ -1,0 +1,61 @@
+{
+  "title": "Aurrekaririk gabeko bekatu baten iragarlea",
+  "intro": "Koraneko istorio batzuek gizarte oso bat eror daitekeen ustelkeriaren sakontasuna agerian uzten dute. Mezulari hau bakarrik zegoen, aurretik inongo naziok jarraitu ez zuen perbertsio batean itotako herri bati erregutzen. Urteetako abisuak izan arren, bihotzak gogortuta jarraitu zuten, eta jainkozko dekretua modu izugarrian iritsi zen. Identifika al dezakezu Alaren mezulari noble hau?",
+  "clues": [
+    "Aurretik inongo naziok egin ez zuen perbertsio batek jotako herri bati ohartarazteko bidali ninduten.",
+    "Nire jendeak gezurti deitu ninduen eta nire jarraitzaileak eta ni lurraldetik kanporatuko nituela mehatxatu zuten.",
+    "Ohorezko bisitariak etorri ziren nire etxera grebalari gazteen moduan, eta haien segurtasunagatik atsekabe handia sentitu nuen.",
+    "Nire jendeak eskatu zidan nire gonbidatuak haiei emateko, bisitari horiek Alak bidalitako aingeruak zirela jakin gabe.",
+    "Nire ezkontideak ez zuen nire fedea partekatzen eta kondenatuekin geratzea aukeratu zuen.",
+    "Egunsentian salbatu ninduten alabekin batera, harri-jasa suntsitzaile bat erori eta gure hiriak eraitsi zituztenean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Lut profeta",
+        "Shu'aib profeta",
+        "Hud profeta",
+        "Nuh profeta",
+        "Salih profeta"
+      ],
+      "answer": "Lut profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde handi batek lurra irentsi zuen",
+        "Sufrimendu luze baten ondorioz ikusmena galtzea",
+        "Jainkotasuna aldarrikatzen duen tirano bat",
+        "Su bizian botata egotea",
+        "Ohorezko gonbidatuak entregatzeko eskatu izana"
+      ],
+      "answer": "Ohorezko gonbidatuak entregatzeko eskatu izana"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Eskuz eraikitako arka handi bat",
+        "Itsasoa zatitu zuen makila bat",
+        "Gamelu eme miragarri bat",
+        "Su bizia.",
+        "Iraulitako hiriak"
+      ],
+      "answer": "Iraulitako hiriak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Sinestunen atzetik zihoala itota",
+        "Suzko labe batetik kalterik gabe salbatua",
+        "Zeruetara bizirik altxatua",
+        "Familia uholde handi batean hil zen",
+        "Familia salbatua, emazte desleial bat izan ezik"
+      ],
+      "answer": "Familia salbatua, emazte desleial bat izan ezik"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

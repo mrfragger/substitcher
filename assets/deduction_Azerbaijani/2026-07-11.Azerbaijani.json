@@ -1,0 +1,61 @@
+{
+  "title": "Yaşıl tarlanın səyahətçiləri",
+  "intro": "Qədim bir dövrdə iki nəfər qonşu torpaqları becərirdi. Onların yolları bir-biri ilə əlaqəli olsa da, ürəkləri onları tamamilə fərqli yerlərə aparırdı. Biri düz yolla gedirdi, digəri isə inkar qaranlığına qərq olurdu. Məhsulun bu iki qoruyucusunun sirrini aça bilərsinizmi?",
+  "clues": [
+    "Bol məhsulum, görənlərin gözlərini qamaşdıran bol məhsulum var idi.",
+    "Qonşum məndən daha çox sərvətə sahib idi, amma mən öz payımdan daha çox onların payına tamah salırdım.",
+    "Hər şeyi nəzarətimdə birləşdirmək üçün onların məhsullarını tamamilə məhv etməyimizi təklif etdim.",
+    "Mən öz məhsulumu da məhv etdim, axmaqcasına qurduğum hər şeyi məhv etdim.",
+    "Məhsullarım quruyub sərvətim bir gecədə toza dönərkən çarəsiz qaldım.",
+    "Axirətdə heç bir payım yox idi və son mənzilim alovlu bir çuxura çevrildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Dirilməni və hökmü inkar edən adam",
+        "Saleh fermerə zülm edən hökmdar",
+        "Minnətdarlıq hissi olmayan varlı torpaq sahibi",
+        "Qonşusunun torpağına tamah salan fermer",
+        "Məhv planı quran xain tərəfdaş"
+      ],
+      "answer": "Qonşusunun torpağına tamah salan fermer"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İlahi vəhyi qəbul etməyin sınağı",
+        "Sərvət və səbrin çətinliyi",
+        "Saleh insanın dolanışığını məhv etmək istəyi",
+        "Mirasın ədalətli şəkildə bölüşdürülməsi əmri",
+        "Zalımın zülmünə qarşı mübarizə"
+      ],
+      "answer": "Saleh insanın dolanışığını məhv etmək istəyi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Cənnətin yaşıl bağları",
+        "İki qonşu əkin sahəsi",
+        "Dağıdılmanın şahidi olan dağlar",
+        "Məkkənin müqəddəs məkanı",
+        "Mübarək bir diyarın çay sahilləri"
+      ],
+      "answer": "İki qonşu əkin sahəsi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Salehliyin mükafatı olaraq əbədi cənnət",
+        "Bu həyatda hər iki məhsulun tamamilə məhv edilməsi",
+        "Ölənə qədər sürgün və gəzib dolaşmaq",
+        "Müvəqqəti rifah, ardınca əbədi od",
+        "Möcüzəvi bir bərpa və ikiqat nemət"
+      ],
+      "answer": "Bu həyatda hər iki məhsulun tamamilə məhv edilməsi"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'anima paziente della Sacra Casa",
+  "intro": "Nelle pagine del Corano emerge una figura discendente da un grande profeta, dono concessogli in tarda età. Quest'anima è celebrata per la sua incrollabile veridicità e per il ruolo fondamentale svolto nella fondazione di un santuario che sarebbe diventato un faro di fede. Mentre leggete gli indizi, ascoltate attentamente la voce del passato, perché parla in prima persona.",
+  "clues": [
+    "Nel Corano vengo menzionato insieme a un altro profeta come un dono concesso a un messaggero anziano.",
+    "Io fui uno dei due figli che quel profeta ebbe negli ultimi anni della sua vita.",
+    "Nel Corano vengo lodato per aver mantenuto la parola data.",
+    "Ho portato l'onore della profezia e sono stato inviato come messaggero.",
+    "Ho affiancato mio padre nella costruzione delle fondamenta della Casa Sacra.",
+    "Vengo ricordato come uno dei pazienti, e la casa sacra che abbiamo costruito è diventata un luogo di ritorno e di sicurezza per le persone."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Ismail",
+        "Profeta Isacco",
+        "Profeta Yaqub",
+        "Profeta Zakariya",
+        "Profeta Yahya"
+      ],
+      "answer": "Il profeta Ismail"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La costruzione delle fondamenta della Kaaba con Ibrahim",
+        "Essere gettato nel fuoco",
+        "Essere inghiottito da una balena",
+        "Condurre gli Israeliti fuori dall'Egitto",
+        "Costruire un'arca"
+      ],
+      "answer": "La costruzione delle fondamenta della Kaaba con Ibrahim"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La Kaaba",
+        "Monte Sinai",
+        "Il Mar Rosso",
+        "Il vitello d'oro",
+        "Il giardino dell'Eden"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Annoverato tra i pazienti",
+        "Annoverato tra i malfattori",
+        "Annoverato tra i maghi",
+        "Annoverato tra gli increduli",
+        "Annoverato tra gli ipocriti"
+      ],
+      "answer": "Annoverato tra i pazienti"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

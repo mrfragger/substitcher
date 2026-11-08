@@ -1,0 +1,61 @@
+{
+  "title": "Yolg'on sadosi",
+  "intro": "Qarindoshlik rishtalari hasad kuchayishi bilan sinovdan o'tkazildi. Yillar davom etadigan va ulkan masofalarni bosib o'tadigan voqealar zanjirini ishga tushiradigan maxfiy reja tuzildi. Bu guruhning xatti-harakatlari chuqur ajralish va qayg'uga olib keldi, ammo hikoya shu bilan tugamadi. Bu aldamchilik, pushaymonlik va ilohiy rejaning yakuniy ochilishi haqidagi hikoya. Tanlovlari avlodlar davomida aks-sado bergan bu shaxslarning kimligini ochib bera olasizmi?",
+  "clues": [
+    "Biz o'zimizga bo'lgan mehr-muhabbatga hasadgo'ylik bilan yonib ketdik.",
+    "Hasadgo'ylikda biz til biriktirib, aka-uka va opa-singilimizni quduq zulmatiga tashladik.",
+    "Qilmishimizni yashirish uchun otamizga soxta qonga bo'yalgan kiyimni taqdim etdik.",
+    "Yillar o'tib, qattiq ocharchilik bizni oziq-ovqat izlab Misrga borishga majbur qildi.",
+    "U yerda biz noma'lum bo'lgan, biz haqorat qilgan aka-uka bo'lgan kuchli hokimning oldiga keldik.",
+    "Bizning oxirgi sinovimiz eng kichik ukamiz Binyaminni olib kelish edi, bu esa o'tmishimizning vahiy qilinishiga va otamizning Ya'qub payg'ambar ekanligiga olib keldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Odam Atoning o'g'illari (Qobil va Hobil)",
+        "Iso payg'ambarning shogirdlari",
+        "Yusuf payg'ambarning akalari",
+        "Madyan xalqi",
+        "Fir'avn sehrgarlari"
+      ],
+      "answer": "Yusuf payg'ambarning akalari"
+    },
+    "trial": {
+      "label": "Bizning asosiy gunohimiz nima edi?",
+      "options": [
+        "Sig'inish uchun oltin buzoq yasash",
+        "Allohni to'g'ridan-to'g'ri ko'rishni talab qilish",
+        "Kema qurgani uchun payg'ambarni masxara qilish",
+        "Otamizni aldab, akamizni tashlab ketish",
+        "Baliq ovlash orqali shanbani buzish"
+      ],
+      "answer": "Otamizni aldab, akamizni tashlab ketish"
+    },
+    "location": {
+      "label": "Bizning aldashimizning markazida qaysi narsa turgan edi?",
+      "options": [
+        "Yozilgan planshetlar to'plami",
+        "Soxta qon bilan bo'yalgan ko'ylak",
+        "Oltin buzoq",
+        "Chiroyli qush (Hupoe)",
+        "Ilonga aylangan tayoq"
+      ],
+      "answer": "Soxta qon bilan bo'yalgan ko'ylak"
+    },
+    "outcome": {
+      "label": "Hikoyamizning yakuniy natijasi nima bo'ldi?",
+      "options": [
+        "Bizni kuchli suv toshqini vayron qildi",
+        "Biz maymunlarga aylandik",
+        "Bizni yer yutib yubordi",
+        "Biz kechirildik va oilamiz bilan qayta birlashdik",
+        "Biz dengizda cho'kib ketdik"
+      ],
+      "answer": "Biz kechirildik va oilamiz bilan qayta birlashdik"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

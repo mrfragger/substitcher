@@ -1,0 +1,60 @@
+{
+  "title": "Der Prozess unter den Wellen",
+  "intro": "Ein Prophet, der unter der Last seiner Mission litt, traf eine Entscheidung, die ihn weit weg von seinem Volk und in eine unerwartete Prüfung führte. Seine Reise nahm eine dramatische Wendung und stellte seinen Glauben und seine Geduld auf tiefgreifende Weise auf die Probe. Können Sie die Details dieses außergewöhnlichen Ereignisses anhand der gegebenen Hinweise rekonstruieren?",
+  "clues": [
+    "Ein Prophet wurde zu einem Volk gesandt, reiste aber überstürzt ab, da er über deren Ablehnung frustriert war.",
+    "Seine Reise führte ihn ans Meer, wo er an Bord eines schwer beladenen Schiffes ging, um eine Überfahrt zu ergattern.",
+    "Ein heftiger Sturm brach los und bedrohte das Schiff. Daraufhin wurde beschlossen, eine Person über Bord zu werfen, um die Ladung zu erleichtern. Die Auswahl der Person erfolgte durch das Los.",
+    "Er wurde von einem Geschöpf der Tiefe verschlungen, ein wundersames Ereignis, das vom göttlichen Willen vorherbestimmt war.",
+    "Im Inneren des Geschöpfes rief er zu seinem Herrn, bereute und pries Allah in der Dunkelheit.",
+    "Nach einer Zeit intensiven Flehens wurde er, geschwächt, aber am Leben, an ein karges Ufer gespült und kehrte später zurück, um festzustellen, dass sein Volk ihm schließlich geglaubt hatte."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prophet/Person",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Lut",
+        "Prophet Musa",
+        "Prophet Yunus",
+        "Prophet Yusuf"
+      ],
+      "answer": "Prophet Yunus"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Sintflut von Nuh",
+        "Die Zerstörung von Sodom",
+        "Die Reise im Bauch des großen Fisches",
+        "Die Spaltung des Meeres",
+        "Die Offenbarung vom brennenden Dornbusch"
+      ],
+      "answer": "Die Reise im Bauch des großen Fisches"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Berg Sinai",
+        "Das Personal von Musa",
+        "Der große Fisch",
+        "Der Brunnen von Yusuf"
+      ],
+      "answer": "Der große Fisch"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ein neuer Bund mit der Menschheit",
+        "Eine wundersame Geburt für sein Volk",
+        "Ein Königreich, das für seine Nachkommenschaft errichtet wurde",
+        "Eine Rückkehr zu seinem Volk, das damals glaubte",
+        "Ein Sieg über einen tyrannischen Herrscher"
+      ],
+      "answer": "Eine Rückkehr zu seinem Volk, das damals glaubte"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

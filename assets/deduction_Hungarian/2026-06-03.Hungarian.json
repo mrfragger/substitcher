@@ -1,0 +1,61 @@
+{
+  "title": "A nemzet, amely megkérdőjelezte a Szent Házat",
+  "intro": "Az ókorban egy hatalmas nemzet úgy döntött, hogy megtámad egy hívők által tisztelt szentélyt. Ez a csoport gazdag, hatalmas és magabiztos volt katonai erejükben. Magukkal hoztak egy hatalmas teremtményt, amely háborús fegyverükként szolgált. Céljuk világos volt: lerombolni a szent házat és összetörni népe hitét. De arroganciájuk pusztító válaszra készült felülről. Ez a történelmi esemény jellé és tanulsággá vált mindazok számára, akik utánuk jöttek. Felismered ezt a csoportot a nyomok alapján?",
+  "clues": [
+    "Egy gazdagsággal és katonai képességekkel megáldott nemzet voltunk.",
+    "Összegyűjtöttük erőinket és egy hatalmas bestiát hoztunk magunkkal, hogy bevethessük a hadjáratunkban.",
+    "A célpontunk egy szentély volt, amelyet teljesen el akartunk pusztítani.",
+    "Azt hittük, hogy erőnk elég lesz bármilyen isteni védelem leküzdésére.",
+    "De az Úr olyan büntetést küldött ránk az égből, amire nem számítottunk.",
+    "Egy pillanat alatt elpusztultunk, szétszóródtunk, mint a törött szalmaszál."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az elefánt népe",
+        "Thamud népe",
+        "Az 'Ad népe",
+        "A barlang társai",
+        "Hud próféta nemzete"
+      ],
+      "answer": "Az elefánt népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Elefántot menetel a szent ház felé, hogy elpusztítsa azt",
+        "Tornyot építeni, hogy elérjük az eget",
+        "Arany bálvány építése imádat céljából",
+        "Nem hajlandóak hallgatni Allah küldöttére",
+        "Kútásás a hívők ártására"
+      ],
+      "answer": "Elefántot menetel a szent ház felé, hogy elpusztítsa azt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az elefánt",
+        "Az aranyborjú",
+        "Mózes botja",
+        "A Yunus hal",
+        "Dawud vasa"
+      ],
+      "answer": "Az elefánt"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Madárrajok pusztították el őket kövekkel",
+        "Egy nagy árvízbe fulladtak",
+        "Majmokká és disznókká változtak",
+        "Egy hegyről lezúduló kövek temették el őket",
+        "Égből lecsapó tűz égette meg őket"
+      ],
+      "answer": "Madárrajok pusztították el őket kövekkel"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

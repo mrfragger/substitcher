@@ -1,0 +1,61 @@
+{
+  "title": "De ydmyke sannhetssøkerne",
+  "intro": "I et land med eldgammel makt og trolldom utspiller det seg en stor konfrontasjon. Den ene siden utøver autoriteten til guddommelige tegn, mens den andre forsøker å matche det umulige. Resultatet vil for alltid forandre historiens gang. Kan du avdekke identiteten til de som var vitne til den ultimate sannheten og ydmyket seg for den?",
+  "clues": [
+    "Vi var vitne til tegn som gikk utover trolldommens triks",
+    "Vi falt alle i utmattelse, ute av stand til å fornekte sannheten",
+    "Vi forsto at disse tegnene kom fra den ene sanne Gud",
+    "Vi var det første samfunnet som omfavnet tro på en så dramatisk måte",
+    "Vi ble lovet paradis som belønning for vår tro",
+    "Våre tau og staver ble til slanger for øynene våre, men vi valgte underkastelse"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Faraos magikere",
+        "Profeten Ibrahims folk",
+        "De ydmyke sannhetssøkerne",
+        "Folket i hulen",
+        "Dronning Bilqis' nasjon"
+      ],
+      "answer": "Faraos magikere"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Møtet med profeten Musas stab",
+        "Prøvelsen av profeten Huds vind",
+        "Utfordringen fra profeten Salihs hunnkamel",
+        "Den store flommen sendt over en profet",
+        "En profets reise inni en hval"
+      ],
+      "answer": "Møtet med profeten Musas stab"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Det gamle Egypt",
+        "Det hellige huset i Mekka",
+        "Byen Midjan",
+        "Thamud-ørkenen",
+        "Hulen til de gamle svillene"
+      ],
+      "answer": "Det gamle Egypt"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Paradis som deres belønning",
+        "Straff i graven",
+        "Tap av sine frodige hager",
+        "Ødeleggelse av et plutselig jordskjelv",
+        "Redning fra en stor hval"
+      ],
+      "answer": "Paradis som deres belønning"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

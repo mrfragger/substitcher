@@ -1,0 +1,61 @@
+{
+  "title": "L'appel resté sans réponse au pays de l'arrogance",
+  "intro": "Vous vous tenez au milieu des ruines d'une civilisation jadis glorieuse, où la puissance et l'orgueil étaient sans limites. Un messager marchait parmi eux, appelant à la vérité, mais leurs cœurs étaient endurcis. L'avertissement resta lettre morte, et le ciel lui-même devint un instrument de colère. Qui était ce messager, et qu'advint-il de ceux qui rejetèrent l'appel ?",
+  "clues": [
+    "J'ai été envoyé vers un peuple d'une force inégalée, qui érigeait un monument sur chaque lieu élevé.",
+    "Mon peuple se croyait invincible et disait : « Qui est plus fort que nous ? »",
+    "Je les ai appelés à adorer Allah seul, mais ils m'ont accusé de folie et de mensonge.",
+    "Ils m'ont mis au défi d'infliger la punition que j'avais promise si j'étais sincère.",
+    "Allah envoya sur eux un vent stérile qui n'épargnait rien sur son passage.",
+    "Moi et ceux qui croyaient avec moi avons été sauvés par la miséricorde d'Allah, tandis que les mécréants ont été entièrement anéantis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Hud",
+        "Prophète Salih",
+        "Prophète Shuaib",
+        "Le prophète Lout",
+        "Prophète Noé"
+      ],
+      "answer": "Prophète Hud"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Un vent dévastateur a anéanti les incrédules.",
+        "Un grand déluge engloutit les incrédules",
+        "Une pluie de pierres s'abattit sur le sol.",
+        "Un cri strident s'empara des incrédules",
+        "Un tremblement de terre frappa les incrédules"
+      ],
+      "answer": "Un vent dévastateur a anéanti les incrédules."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un vent implacable",
+        "Une arche en bois",
+        "Une chamelle",
+        "Une pluie de pierres d'argile",
+        "Un feu flamboyant"
+      ],
+      "answer": "Un vent implacable"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Hud et les croyants furent sauvés, et les incrédules furent détruits",
+        "Hud a été élevé à un poste élevé",
+        "Hud a été tué par son peuple",
+        "Le peuple de Hud se repentit et fut épargné.",
+        "Hud a quitté son peuple avant d'être puni."
+      ],
+      "answer": "Hud et les croyants furent sauvés, et les incrédules furent détruits"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Eitamine keset küllust",
+  "intro": "Sa leiad end rahva seast, kelle turud kihavad kaubandusest, kuid nende kaalukausid kõiguvad ebaausalt. Nende juurde on tulnud käskjalg selgete hoiatustega, aga nemad naeravad ja pöörduvad ära, kindlad oma õitsengus. Taevas hakkab tumenema, aga nemad näevad seda vihma õnnistuseks. Kes see rahvas on?",
+  "clues": [
+    "Me õitsesime kaubanduse ja külluse maades, kuid meie südamed muutusid kalkiks.",
+    "Meie juurde tuli sõnumitooja märkidega meie Issandalt, aga me pilkasime tema hoiatusi.",
+    "Me olime tuntud oma kaubanduse poolest, aga me andsime kitsast mõõdust ja petsime rahvast.",
+    "Me elasime tihedate puude ja lopsaka taimestiku keskel, aga pidasime oma õnnistusi enesestmõistetavaks.",
+    "Kui lähenes tume pilv, rõõmustasime, arvates, et see toob meie kuivadele maadele vihma.",
+    "Selle asemel vallandas see pilv kõrvetava karistuse ja meid haaras varjupäeva piin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Ashab al-Aykah (Metsa kaaslased)",
+        "Thamudi rahvas",
+        "'Redi inimesed",
+        "Luti rahvas",
+        "Nuhi rahvas"
+      ],
+      "answer": "Ashab al-Aykah (Metsa kaaslased)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Nad hülgasid oma sõnumitooja ja petsid kaubanduses",
+        "Nad kummardasid kuldvasikat ja eksitati",
+        "Nad harrastasid sodoomiat ja ründasid rändureid",
+        "Nad ehitasid kõrgeid torne ja esitasid Jumalale väljakutse",
+        "Nad keeldusid vett jagamast ja tegid emasele kaamelile haiget"
+      ],
+      "answer": "Nad hülgasid oma sõnumitooja ja petsid kaubanduses"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tihe mets või võsa",
+        "Elamuteks raiutud mägi",
+        "Linn mere ääres",
+        "Kõrbeorg kaevude keskel",
+        "Viljakas aed paljude puuviljadega"
+      ],
+      "answer": "Tihe mets või võsa"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Hävitatud tulevarjupilve poolt",
+        "Uppus suure üleujutuse poolt",
+        "Maavärina alla neelatud",
+        "Tugeva tuule käes",
+        "Muutus kiviks"
+      ],
+      "answer": "Hävitatud tulevarjupilve poolt"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

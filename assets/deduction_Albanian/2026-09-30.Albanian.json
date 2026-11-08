@@ -1,0 +1,61 @@
+{
+  "title": "I Duruari",
+  "intro": "Shumë kohë më parë, në ditët e para të historisë njerëzore, dy shpirtra qëndruan para Krijuesit të tyre me oferta. Njëri u pranua, tjetri jo. Ajo që pasoi do të bëhej tragjedia e parë e madhe midis vëllezërve dhe motrave - një akt durimi dhe një akt hakmarrjeje të hidhur. A mund të zbuloni se kush jam unë?",
+  "clues": [
+    "Unë linda në ditët e para të ekzistencës njerëzore në tokë",
+    "Isha fëmijë i çiftit të parë njerëzor që eci ndonjëherë në këtë tokë",
+    "Njëherë ofrova një flijim nga më të mirat e kopesë sime për të kënaqur Krijuesin tim",
+    "Oferta ime u pranua nga lart, ndërsa oferta e vëllait tim u refuzua.",
+    "Kur u kërcënova me vdekje, zgjodha të mos e ngrija dorën kundër vëllait/motrës sime",
+    "U bëra personi i parë në të gjithë historinë e njerëzimit që u vra padrejtësisht nga një tjetër"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Habili (Abeli), djali i Adamit",
+        "Qabili (Kaini), djali i Adamit",
+        "Adami, njeriu i parë",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habili (Abeli), djali i Adamit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Vrasja e parë në historinë e njerëzimit",
+        "Përmbytja e madhe e Nuhut",
+        "Shkatërrimi i ushtrisë së faraonit",
+        "Sakrifica e Ismailit nga Ibrahimi",
+        "Beteja kundër Jalutit (Goliath)"
+      ],
+      "answer": "Vrasja e parë në historinë e njerëzimit"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një dele e ofruar si flijim i këndshëm",
+        "Një arkë e madhe prej druri",
+        "Një shkop që u shndërrua në gjarpër",
+        "Një zog pupë që mbart një mesazh mbretëror",
+        "Një hendek flakërues zjarri"
+      ],
+      "answer": "Një dele e ofruar si flijim i këndshëm"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U bë viktima e parë e vrasjes në historinë e njerëzimit",
+        "Mbijetoi një përmbytje të madhe brenda një ene prej druri",
+        "Jetonte brenda barkut të një peshku të madh",
+        "Sundoi mbi xhindët, njerëzit dhe erën",
+        "Enda për dyzet vjet në një shkretëtirë të madhe"
+      ],
+      "answer": "U bë viktima e parë e vrasjes në historinë e njerëzimit"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

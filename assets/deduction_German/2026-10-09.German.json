@@ -1,0 +1,61 @@
+{
+  "title": "Der ungehörte Ruf im Land der Arroganz",
+  "intro": "Du stehst in den Ruinen einer einst mächtigen Zivilisation, in der Macht und Stolz keine Grenzen kannten. Ein Bote wandelte unter ihnen und rief zur Wahrheit, doch ihre Herzen waren verhärtet. Die Warnung verhallte ungehört, und der Himmel selbst wurde zum Werkzeug des Zorns. Wer war dieser Bote, und was geschah mit denen, die seinen Ruf ablehnten?",
+  "clues": [
+    "Ich wurde zu einem Volk gesandt, das an Stärke unübertroffen war und auf jedem Höhenzug ein Denkmal errichtete.",
+    "Mein Volk hielt sich für unbesiegbar und sagte: „Wer ist stärker als wir?“",
+    "Ich rief sie dazu auf, nur Allah anzubeten, aber sie beschuldigten mich der Dummheit und der Lüge.",
+    "Sie forderten mich auf, die Strafe, die ich versprochen hatte, zu vollstrecken, falls ich die Wahrheit sagen würde.",
+    "Allah sandte über sie einen unfruchtbaren Wind, der nichts verschonte, worauf er traf.",
+    "Ich und diejenigen, die mit mir glaubten, wurden durch Allahs Gnade gerettet, während die Ungläubigen völlig vernichtet wurden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Hud",
+        "Prophet Salih",
+        "Prophet Shuaib",
+        "Prophet Lut",
+        "Prophet Nuh"
+      ],
+      "answer": "Prophet Hud"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Ein verheerender Wind vernichtete die Ungläubigen.",
+        "Eine große Flut verschlang die Ungläubigen.",
+        "Ein Steinhagel prasselte herab",
+        "Ein lauter Schrei ergriff die Ungläubigen.",
+        "Ein Erdbeben traf die Ungläubigen"
+      ],
+      "answer": "Ein verheerender Wind vernichtete die Ungläubigen."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein unerbittlicher Wind",
+        "Eine hölzerne Arche",
+        "Eine Kamelstute",
+        "Ein Regen aus Lehmsteinen",
+        "Ein loderndes Feuer"
+      ],
+      "answer": "Ein unerbittlicher Wind"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Hud und die Gläubigen wurden gerettet, die Ungläubigen aber wurden vernichtet.",
+        "Hud wurde auf einen hohen Bahnhof befördert.",
+        "Hud wurde von seinem eigenen Volk getötet.",
+        "Huds Volk bereute und wurde verschont.",
+        "Hud verließ sein Volk, bevor es bestraft werden konnte."
+      ],
+      "answer": "Hud und die Gläubigen wurden gerettet, die Ungläubigen aber wurden vernichtet."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

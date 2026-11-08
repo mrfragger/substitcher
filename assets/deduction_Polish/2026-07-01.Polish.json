@@ -1,0 +1,61 @@
+{
+  "title": "Nienazwana dusza, która sprzeciwiła się niesprawiedliwemu narodowi",
+  "intro": "Na kartach Koranu znajdują się postacie, których imiona zostały utajnione, abyśmy mogli zastanowić się nad ich naukami. Jedna z takich osób narodziła się w narodzie, który odrzucił swoich posłańców, a jednak ta osoba posiadała ukrytą wiarę, która ich wyróżniała. Gdy zbliżała się zagłada, ta osoba pozostała niezłomna w swojej tajemnej wierze. Czy potrafisz odkryć tożsamość tej tajemniczej postaci, która ostrzega swój lud przed ostatecznym wyrokiem?",
+  "clues": [
+    "Mieszkałem wśród ludzi, którzy wielokrotnie zaprzeczali posłańcom wysłanym do nich przez Allaha.",
+    "W przeciwieństwie do mojego narodu rozpoznałem prawdę, gdy przybył posłaniec z jasnymi znakami od mojego Pana.",
+    "Ukrywałem swoją wiarę przed prześladowcami, wiedząc, że jeśli ją odkryją, zrobią mi krzywdę.",
+    "Gdy nadszedł czas wykonania kary, otwarcie oświadczyłem swoją wierność i ostrzegłem swój lud, aby się ratował.",
+    "Przypomniałem im, że jestem godnym zaufania posłańcem, niczym nie różniącym się od tych, którzy zostali wysłani przed nimi, i że nie powinni czcić nikogo oprócz Allaha.",
+    "Mój lud oskarżył mnie o czary i szaleństwo, lecz kara, przed którą mnie ostrzegano, ostatecznie ich dosięgła."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Hud, posłaniec ludu Ad",
+        "Wierzący człowiek z narodu proroka Huda, który poniósł śmierć męczeńską",
+        "Władca ludu Ad, który odrzucił prawdę",
+        "Towarzysz proroka Saliha, który wątpił w boskie znaki",
+        "Anioł wysłany, aby zniszczyć lud Aad"
+      ],
+      "answer": "Wierzący człowiek z narodu proroka Huda, który poniósł śmierć męczeńską"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Próba suszy i głodu, która wystawiła na próbę ich cierpliwość",
+        "Próba wyznania wiary przed uciskającym, niewierzącym narodem",
+        "Próba zbudowania statku, który miał uciec przed wielką powodzią",
+        "Próba wrzucenia w ogień za wiarę w Allaha",
+        "Próba bycia wystawionym na próbę bogactwa i dobrobytu"
+      ],
+      "answer": "Próba wyznania wiary przed uciskającym, niewierzącym narodem"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Miasto Mekka, w którym zbudowano święty dom",
+        "Pustynne równiny narodu, który zaparł się swego posłańca",
+        "Góry Midian, do których został wysłany prorok Szu’ajb",
+        "Brzeg rzeki w Egipcie, gdzie znaleziono proroka Musę",
+        "Dolina ludu Ad, uderzona przez gwałtowny wiatr"
+      ],
+      "answer": "Pustynne równiny narodu, który zaparł się swego posłańca"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zostałem uratowany na statku i żyłem, dopóki Allah nie zechciał",
+        "Mój lud uwierzył po mnie i został poprowadzony prostą drogą",
+        "Zostałem zabity przez mój lud, ale moja dusza została zabrana przez miłosierdzie Allaha",
+        "Po próbie żałowałem i Bóg przyjął moją skruchę",
+        "Po mojej śmierci zostałem przemieniony w bożka czczonego przez mój lud"
+      ],
+      "answer": "Zostałem zabity przez mój lud, ale moja dusza została zabrana przez miłosierdzie Allaha"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

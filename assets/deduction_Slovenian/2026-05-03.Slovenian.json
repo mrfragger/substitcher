@@ -1,0 +1,61 @@
+{
+  "title": "Dremeči iskalci resnice",
+  "intro": "Predstavljajte si čas, ko je bila vera pod vprašajem in je skupina duš izbrala neomajno prepričanje namesto posvetnega udobja. Soočene s težko izbiro so poiskale zatočišče in se podale na pot, ki jih je vodila v izjemen spanec. Njihova zgodba je dokaz božanske zaščite in moči vere proti zatiranju. Ali lahko prepoznate identiteto teh izjemnih posameznikov?",
+  "clues": [
+    "Bili smo majhna skupščina, združena z globoko vero v enega Stvarnika.",
+    "Živeli smo v času, ko je mogočen vladar zahteval čaščenje nekoga drugega kot Alaha.",
+    "Da bi ohranili svojo vero, smo se odločili zapustiti svoje domove in pobegniti pred zatiranjem.",
+    "Na naši poti nas je spremljal zvesti spremljevalec, bitje zemlje.",
+    "Našli smo zatočišče na osamljenem kraju, kjer nas je Alah popeljal v globok, dolgotrajen spanec.",
+    "Ko smo se zbudili, smo verjeli, da je minil le dan ali del dneva, v resnici pa so minila stoletja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz jarka",
+        "Ljudje iz Thamuda",
+        "Prebivalci Sabe",
+        "Ljudje iz jame",
+        "Ljudje iz Madyana"
+      ],
+      "answer": "Ljudje iz jame"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Preizkušnja z nerodovitno zemljo",
+        "Soočanje z veliko poplavo",
+        "Iskanje zatočišča pred tiranskim vladarjem",
+        "Biti vržen v goreči ogenj",
+        "Izzivanje čarovnikove magije"
+      ],
+      "answer": "Iskanje zatočišča pred tiranskim vladarjem"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Velika palača",
+        "Ladja/barka",
+        "Globok vodnjak",
+        "Jama",
+        "Visoka gora"
+      ],
+      "answer": "Jama"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Biti podeljeno kraljestvo",
+        "Čudežni spanec skozi stoletja",
+        "Biti pogoltnjen od zemlje",
+        "Rešen pred uničujočo nevihto",
+        "Biti postrežen z nebeško mizo"
+      ],
+      "answer": "Čudežni spanec skozi stoletja"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

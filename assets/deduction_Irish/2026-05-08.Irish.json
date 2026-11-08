@@ -1,0 +1,61 @@
+{
+  "title": "An Cuardaitheoir Dílis ar an bhFírinne",
+  "intro": "I ré a raibh aineolas agus adhradh déithe bréige faoi léigear, thosaigh turas domhain creidimh. Chuir an duine seo dúshlán noirm a sochaí, ag lorg an Aon Chruthaitheora Fíor le díograis dhochloíte. Ullmhaigh chun céannacht anama a nochtadh a bhfuil a oidhreacht ag leanúint ar aghaidh ag spreagadh na milliún.",
+  "clues": [
+    "Chuir mé ceist ar na coirp neamhaí, ag lorg an Tiarna fíor a chruthaíonn agus a chothaíonn gach rud.",
+    "Tugadh ordú dom mo thír dhúchais a fhágáil, ag taisteal go tír a bheannaigh Allah.",
+    "Chuir mé dúshlán idols mo mhuintire, ag tabhairt aghaidh go díreach ar a n-easnamhacht trí iad a bhriseadh.",
+    "Caitheadh ​​​​mé i tine mhór ag mo mhuintir, ach d’éirigh sé fionnuar agus síochánta dom le hordú Allah.",
+    "Cuireadh tástáil orm leis an ordú mo mhac céadghin ionúin a íobairt, triail géilleadh deiridh.",
+    "Thóg mé féin, in éineacht le mo mhac, bunsraitheanna an chéad Theach Adharta ar Domhan, tearmann don chine daonna uile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Nuh",
+        "Fáidh Iósaf",
+        "Fáidh Salih",
+        "Fáidh Ibrahim",
+        "Fáidh Íosa"
+      ],
+      "answer": "Fáidh Ibrahim"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An tuile mhór",
+        "Scoilteadh na farraige",
+        "Scriosadh Thamud",
+        "An t-ordú chun mac a íobairt",
+        "An turas tríd an bhfásach leis an Áirc"
+      ],
+      "answer": "An t-ordú chun mac a íobairt"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Fhoireann",
+        "Sliabh an Tur",
+        "An Áirc",
+        "An Kaaba",
+        "An Lao Órga"
+      ],
+      "answer": "An Kaaba"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh rialóir ar an Éigipt de",
+        "Bádh a mhuintir",
+        "Bronnadh eagna agus sliocht fíréanta air.",
+        "Slogadh é ag míol mór",
+        "Cuireadh a chathair ar ceal"
+      ],
+      "answer": "Bronnadh eagna agus sliocht fíréanta air."
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

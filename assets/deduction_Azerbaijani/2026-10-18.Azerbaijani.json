@@ -1,0 +1,61 @@
+{
+  "title": "Qocalıqda Xoş Xəbər",
+  "intro": "Ümidin yenidən alovlandığı bir anın şahidi olursunuz. Valideynlik yaşını çoxdan keçmiş bir cütlük təbiət qanunlarına zidd bir vəd alır. Onların ortasında varlığı ilahi mərhəmətin əlaməti olan bir fiqur durur - peyğəmbərliyə məhkum olan və nəsillərə gedəcək bir miras daşıyan bir ruh. Bu əlamətdar şəxs kimdir?",
+  "clues": [
+    "Mən qocalmış və övladı olmayan valideynlərin ailəsində anadan olmuşam.",
+    "Doğuluşumu ailəmə qonaq gələn mələklər xəbər verdi.",
+    "Mənə hikmət və peyğəmbərlik verildi və mən səbir edənlərdən biri kimi xatırlanıram.",
+    "Atam Allahın dostu adlandırılırdı və mən onun son illərində ona bir hədiyyə idim.",
+    "Mənim də peyğəmbər olan bir qardaşım var idi və hər ikimiz Rəbbimiz tərəfindən xeyir-dua almışdıq.",
+    "Oğlum da peyğəmbər idi və nəslimdən olanlara kitab və peyğəmbərlik verilmişdir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Peyğəmbər İshaq (İshaq)",
+        "İsmayıl peyğəmbər (İsmayıl)",
+        "Yaqub peyğəmbər (ə)",
+        "Yəhya peyğəmbər (ə)",
+        "Üzeyir (Əzra) peyğəmbər"
+      ],
+      "answer": "Peyğəmbər İshaq (İshaq)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Yaşlı valideynlərdən doğulub",
+        "Atəşə atıldı",
+        "Bir səltənət və sərvət verilmişdir",
+        "Öz xalqını Misirdən çıxardı",
+        "Möminləri xilas etmək üçün bir gəmi düzəltdi"
+      ],
+      "answer": "Yaşlı valideynlərdən doğulub"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Bir oğulun xoş xəbəri",
+        "Yanan kol",
+        "Qızıl buzov",
+        "Əhd sandığı",
+        "Peyğəmbərlik əsası"
+      ],
+      "answer": "Bir oğulun xoş xəbəri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Peyğəmbərlər nəsli ilə peyğəmbər oldu",
+        "Varlı bir padşah oldu",
+        "Onun qövmü küfr etdikləri üçün məhv edildi.",
+        "O, yanğından xilas oldu",
+        "Ona körpə ikən danışmaq qabiliyyəti verilmişdi"
+      ],
+      "answer": "Peyğəmbərlər nəsli ilə peyğəmbər oldu"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

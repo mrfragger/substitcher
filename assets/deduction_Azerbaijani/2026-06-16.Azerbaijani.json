@@ -1,0 +1,61 @@
+{
+  "title": "Salehliyə Çağırış Edən Səs",
+  "intro": "Ticarətin çiçəkləndiyi və karvanların geniş səhralardan keçdiyi qədim Mədinə torpağında ədalət yolundan azmış insanlar arasında Allahın bir peyğəmbəri peyğəmbər peyğəmbərlik etdi. Allahın bu qulu bütün bir cəmiyyətin imanını sınayacaq ilahi bir missiya ilə göndərilmişdi. Səbir və dözümlülük sınaqlarından keçərək bu ruh tarixdə əks-səda verəcək bir xəbərdarlıq verməkdə möhkəm dayandı. Bu səbrli elçinin sirrini aça bilərsinizmi?",
+  "clues": [
+    "Mən Allah tərəfindən ədalət və dürüstlük prinsiplərini unudan bir qövmə rəhbərlik etmək üçün seçildim.",
+    "Mən ümmətimi yalnız Allaha ibadət etməyə və bütün məsələlərdə doğru danışmağa çağıran bir mesaj çatdırdım.",
+    "Mən xüsusilə sərvəti qanunsuz yollarla mənimsəməyin korrupsiyalaşmış təcrübəsinə qarşı xəbərdarlıq etdim və ədalətli çəki və ölçülərin vacibliyini vurğuladım.",
+    "Xalqım xəbərdarlıqlarıma istehza ilə cavab verdi və əgər təbliğatımı davam etdirsəm, məni torpaqlarından qovmaqla hədələdi.",
+    "Onların düşmənçiliyinə baxmayaraq, mən öz vəzifəmdə qətiyyətli qaldım və mükafatımın yalnız Allaha məxsus olduğunu bildirdim.",
+    "Xalqım dəhşətli bir əzaba düçar oldu, mən isə Rəbbimin mərhəməti ilə xilas oldum, çünki vəzifəm yerinə yetirildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Şüeyb peyğəmbər",
+        "Hud peyğəmbər",
+        "Peyğəmbər Saleh",
+        "Lut peyğəmbər",
+        "Peyğəmbər Məhəmməd ﷺ"
+      ],
+      "answer": "Şüeyb peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Allahın mesajını çatdırdıqları üçün haqqı rədd edən və cəza ilə hədələyən bir xalqla qarşılaşmaq",
+        "Bir millətin kafirlərini məhv edən Böyük Tufanın şahidi olmaq",
+        "Vadisində səyahət edərkən vəhy almaq",
+        "Zülmkar bir hökmdarın tövhid çağırışını susdurmağa çalışması ilə iman sınağı",
+        "İllərdir davam edən itaətsizlikdən sonra şiddətli quraqlıq zamanı yağış istəyən bir millət"
+      ],
+      "answer": "Allahın mesajını çatdırdıqları üçün haqqı rədd edən və cəza ilə hədələyən bir xalqla qarşılaşmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Xalqımın ticarət və ticarətlə məşğul olduğu Midyan torpağı",
+        "Möminləri fəlakətli daşqından xilas edən böyük bir gəminin göyərtəsi",
+        "Yeddi gəncin təqibdən sığındığı qayalı bir dağda bir mağara",
+        "Gecə səyahətinə aparıldığım müqəddəs Yerusəlim şəhəri",
+        "Səbada böyük bir krallığın ilahi bir əlamətə şahid olmağa hazırlaşdığı bir saray"
+      ],
+      "answer": "Xalqımın ticarət və ticarətlə məşğul olduğu Midyan torpağı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Allaha qarşı borcumu yerinə yetirdiyim üçün qövmüm dəhşətli bir əzaba düçar oldu, mən isə xilas oldum.",
+        "Kafirlər Allahın müqəddəs sərhədlərini pozduqları üçün meymuna çevrildilər.",
+        "Düşmənlərim möcüzəvi bir dəyişikliyin şahidi olduqdan sonra iman gətirdilər",
+        "İnsanlar tövbə etdikdən sonra torpaq bol yağış və bərəkətlə mübarək oldu",
+        "Missiyamı tərk etməkdən imtina etdiyim üçün öz xalqım tərəfindən şəhid oldum."
+      ],
+      "answer": "Allaha qarşı borcumu yerinə yetirdiyim üçün qövmüm dəhşətli bir əzaba düçar oldu, mən isə xilas oldum."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

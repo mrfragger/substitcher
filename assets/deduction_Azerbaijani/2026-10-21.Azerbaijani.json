@@ -1,0 +1,61 @@
+{
+  "title": "Bütpərəstlərlə qarşılaşan elçi",
+  "intro": "İbadət azmış bir dövrdə bir elçi aləmlərin Rəbbinə ibadətə qayıtmaq çağırışı ilə ayağa qalxdı. Bu şəxs yalançı tanrıya ibadətdə kök salmış bir xalqa qarşı möhkəm dayandı, onlara əsl Yaradanlarını və əcdadlarının Rəbbini xatırlatdı. Lakin xalq qəflətdə idi və xəbərdarlığı rədd edərək öz taleyini həll etdi. Bu sarsılmaz çağırışçı kim idi?",
+  "clues": [
+    "Məni Tək Tanrının yolundan üz döndərən bir qövmə göndərdilər.",
+    "Mən qövmümə dedim: \"Məgər Allahdan qorxmursunuz?\"",
+    "Mən onları Baal adlı yalançı bir tanrıya ibadətlərini tərk etməyə çağırdım.",
+    "Xalqım dəvətimi rədd etdi və bütpərəstliyində israr etdi.",
+    "Onlar, küfr etdiklərinə görə, mütləq əzab üçün gətiriləcəklər.",
+    "Rəbbim mənə sonrakı nəsillər arasında əmin-amanlıq və bərəkətli bir xatirə bəxş etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İlyas peyğəmbər",
+        "Yəhya peyğəmbər",
+        "Peyğəmbər Zül-Kifl",
+        "Yusif peyğəmbər",
+        "Şüeyb peyğəmbər"
+      ],
+      "answer": "İlyas peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Xalqını Baaldan imtina etməyə çağırdı",
+        "Möminləri xilas etmək üçün bir gəmi düzəltdi",
+        "Atəşə atıldı",
+        "Zalım Firondan qaçdı",
+        "Su çıxarmaq üçün qayaya vurdu"
+      ],
+      "answer": "Xalqını Baaldan imtina etməyə çağırdı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Baal",
+        "Əl-Lat",
+        "Əl-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Sülh və mübarək bir xatirə bəxş edildi",
+        "Torpaq tərəfindən udulmuş",
+        "Şiddətli fırtına nəticəsində dağıdılıb",
+        "Daşa çevrildi",
+        "Dənizdə boğuldu"
+      ],
+      "answer": "Sülh və mübarək bir xatirə bəxş edildi"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

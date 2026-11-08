@@ -1,0 +1,61 @@
+{
+  "title": "Søvnen hinsides tiden",
+  "intro": "Forestil dig en tid, hvor sandheden blev tavs, og troende blev jagtet. En lille gruppe valgte at trække sig tilbage frem for at overgive sig og fandt tilflugt på de mest usandsynlige steder – et sted, der skulle blive deres hvilested i uendelige århundreder. Da de endelig vågnede, havde verden forandret sig omkring dem. Hvem er disse slumrende sjæle?",
+  "clues": [
+    "Vi var unge mennesker, der boede i en gammel by.",
+    "Vores samfund krævede, at vi skulle tilbede sammen med dem, men vi nægtede.",
+    "Vi flygtede fra byen for at søge tilflugt fra dem, der modsatte sig vores tro.",
+    "En loyal firbenet ledsager blev ved indgangen til vores skjulested.",
+    "Allah lod os sove i tre hundrede og ni år.",
+    "Da vi endelig vågnede, havde vores engang forfølgende by omfavnet tro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Ashab al-Kahf (Folkene i hulen)",
+        "Ashab al-Fil (Elefanternes hær)",
+        "Ashab al-Ukhdud (Løvskyttegravens ledsagere)",
+        "Hawariyyun (Disciple af Isa)",
+        "Yajuj wa Majuj (Gog og Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Folkene i hulen)"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Vi trak os tilbage i en hule og sov i århundreder",
+        "Vi blev reddet fra en voldsom brand",
+        "Vi blev opslugt af en stor fisk",
+        "Vi blev prøvet med en mirakuløs hunkamel",
+        "Vi fik ni klare tegn"
+      ],
+      "answer": "Vi trak os tilbage i en hule og sov i århundreder"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En dyb hule i bjergene",
+        "En båd på det åbne hav",
+        "En tårnhøj bygning, der når himlen",
+        "En have delt mellem to rivaler",
+        "En barriere af jern og kobber"
+      ],
+      "answer": "En dyb hule i bjergene"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vi vågnede og opdagede, at vores by havde vendt sig til tro",
+        "En flammende ild blev kølig og fredelig",
+        "En fjendtlig hær druknede i havet",
+        "Fugle, der bar sten, ødelagde fjenden",
+        "En stor fisk slap os løs på kysten"
+      ],
+      "answer": "Vi vågnede og opdagede, at vores by havde vendt sig til tro"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

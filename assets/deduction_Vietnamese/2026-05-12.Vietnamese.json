@@ -1,0 +1,61 @@
+{
+  "title": "Quyền lực không lay chuyển",
+  "intro": "Trên những vùng đất cổ xưa, một thế lực hùng mạnh từng thống trị, nắm giữ nguồn lực khổng lồ và định đoạt sinh mạng của vô số người. Bất chấp những dấu hiệu và lời cảnh báo rõ ràng, vị vua này đã chọn con đường bất tuân, dẫn đến một cuộc đối đầu sâu sắc vang vọng suốt chiều dài lịch sử.",
+  "clues": [
+    "Tôi tuyên bố nắm giữ quyền lực và thẩm quyền tối cao trên một lãnh thổ rộng lớn.",
+    "Tôi đã thách thức một sứ giả khiêm nhường được Chúa tể muôn cõi phái đến.",
+    "Người dân của tôi nổi tiếng với tài năng xây dựng những công trình vĩ đại và dòng sông đã nuôi dưỡng nền văn minh của chúng tôi.",
+    "Tôi đã chứng kiến ​​nhiều dấu hiệu kỳ diệu, bao gồm việc một cây gậy biến thành con rắn và một bàn tay phát sáng rực rỡ.",
+    "Tôi đã từ chối cho phép một nhóm người bị bắt làm nô lệ rời khỏi vùng đất của mình, bất chấp mệnh lệnh của thần thánh.",
+    "Cuộc truy đuổi những người đang rời bỏ quê hương đã dẫn tôi và quân đội của mình vào sâu trong lòng một vùng biển chia cắt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Yusuf",
+        "Vua Talut",
+        "Fir'awn (Pharaoh)",
+        "Tiên tri Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Pharaoh)"
+    },
+    "trial": {
+      "label": "Cuộc đối đầu then chốt",
+      "options": [
+        "Trận lụt đã nhấn chìm vùng đất.",
+        "Sự chia tách biển",
+        "Bụi cây bốc cháy",
+        "Việc xây dựng Kaaba",
+        "Sự tàn phá bởi một cơn gió mạnh"
+      ],
+      "answer": "Sự chia tách biển"
+    },
+    "location": {
+      "label": "Khía cạnh xác định",
+      "options": [
+        "Một con vật biết nói",
+        "Một cây gậy và một bàn tay phát sáng",
+        "Một sự ra đời kỳ diệu",
+        "Thảm bay",
+        "Một ngai vàng uy nghi trên mặt nước"
+      ],
+      "answer": "Một cây gậy và một bàn tay phát sáng"
+    },
+    "outcome": {
+      "label": "Số phận cuối cùng",
+      "options": [
+        "Đã bay lên trời",
+        "Bị đất nuốt chửng",
+        "Chết đuối trên biển",
+        "Biến thành một con vượn",
+        "Được ban tặng khối tài sản và quyền lực khổng lồ."
+      ],
+      "answer": "Chết đuối trên biển"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

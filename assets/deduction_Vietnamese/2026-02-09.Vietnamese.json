@@ -1,0 +1,60 @@
+{
+  "title": "Phiên tòa dưới những con sóng",
+  "intro": "Một vị tiên tri, mang nặng gánh sứ mệnh, đã đưa ra một quyết định dẫn ông rời xa dân tộc mình và vào một thử thách bất ngờ. Hành trình của ông đã có một bước ngoặt đầy kịch tính, thử thách đức tin và lòng kiên nhẫn của ông một cách sâu sắc nhất. Bạn có thể suy luận ra chi tiết của sự kiện phi thường này từ những manh mối được cung cấp không?",
+  "clues": [
+    "Một vị tiên tri được phái đến với một dân tộc, nhưng đã vội vã ra đi vì thất vọng trước sự từ chối của họ.",
+    "Hành trình của ông dẫn ông đến biển cả, nơi ông lên một con tàu chở đầy hàng hóa để tìm đường đi.",
+    "Một cơn bão lớn nổi lên, đe dọa con tàu, và người ta quyết định ném một người xuống biển để giảm tải, việc này được quyết định bằng cách bốc thăm.",
+    "Ông bị một sinh vật biển sâu nuốt chửng, một sự kiện kỳ ​​diệu do ý chí thiêng liêng định đoạt.",
+    "Trong lòng bụng con vật, hắn kêu gọi Thượng đế của mình, ăn năn hối lỗi và ca ngợi Allah trong bóng tối.",
+    "Sau một thời gian cầu khẩn tha thiết, ông bị trôi dạt vào một bờ biển hoang vắng, yếu ớt nhưng vẫn còn sống, và sau đó trở về thấy rằng người dân của ông cuối cùng đã tin tưởng."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nhà tiên tri/Người",
+      "options": [
+        "Tiên tri Nuh",
+        "Tiên tri Lut",
+        "Tiên tri Musa",
+        "Tiên tri Yunus",
+        "Tiên tri Yusuf"
+      ],
+      "answer": "Tiên tri Yunus"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Trận lụt Nuh",
+        "Sự hủy diệt thành Sodom",
+        "Hành trình trong bụng con cá khổng lồ",
+        "Sự chia tách biển",
+        "Sự thật về bụi cây bốc cháy được hé lộ"
+      ],
+      "answer": "Hành trình trong bụng con cá khổng lồ"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah",
+        "Núi Sinai",
+        "Cây gậy của Musa",
+        "Con cá lớn",
+        "Giếng của Yusuf"
+      ],
+      "answer": "Con cá lớn"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Một giao ước mới với nhân loại",
+        "Một sự ra đời kỳ diệu cho dân tộc của ông.",
+        "Một vương quốc được thiết lập cho dòng dõi của ông.",
+        "Trở về với những người dân của mình, những người khi đó tin tưởng",
+        "Chiến thắng trước một nhà cai trị độc đoán"
+      ],
+      "answer": "Trở về với những người dân của mình, những người khi đó tin tưởng"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

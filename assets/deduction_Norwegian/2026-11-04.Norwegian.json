@@ -1,0 +1,61 @@
+{
+  "title": "skatten som sank under stolthet",
+  "intro": "Tenk deg å stå foran hauger med så enorme rikdommer at bare det å bære nøklene ville utmatte en gruppe sterke individer. Rundt deg oppfordrer stemmer til ydmykhet og erindring, men stolthet vokser høyere enn takknemlighet. Hva skjer når gavmildhet blir en prøve og arroganse besegler resultatet?",
+  "clues": [
+    "Jeg var blant Musas folk, men jeg syndet mot dem.",
+    "Jeg ble gitt skatter så enorme at nøklene til dem ville tynge en gruppe sterke menn.",
+    "Mitt folk rådet meg til ikke å juble og søke det hinsidige uten å glemme min del av denne verden.",
+    "Jeg hevdet at det jeg eide bare var gitt til meg på grunn av kunnskap jeg hadde.",
+    "Jeg fremstilte meg i pryd for mitt folk, og de som ønsket et verdslig liv, ønsket seg noe lignende som jeg hadde.",
+    "Jeg ble slukt av jorden sammen med min bolig, og ingen kunne hjelpe meg, og jeg kunne heller ikke hjelpe meg selv."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Skrøt av rikdom og nektet Allahs gunst til tross for råd",
+        "Utfordret Ibrahim om å gi liv og død",
+        "Ledet en hær mot Talut og Dawud",
+        "Utskårne avguder som folket skulle tilbe",
+        "Drepte en bror av misunnelse over et offer"
+      ],
+      "answer": "Skrøt av rikdom og nektet Allahs gunst til tross for råd"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Nøkler til enorme skatter",
+        "Paktens ark",
+        "En gullkalv av prydelser",
+        "En demning mellom to fjell",
+        "Elleve stjerner i en drøm"
+      ],
+      "answer": "Nøkler til enorme skatter"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Oppslukt av jorden med bolig og rikdom",
+        "Druknet i havet mens han forfulgte Musa",
+        "Slått ned av en stein fra Dawuds slynge",
+        "Ødelagt av en kraftig eksplosjon for å ha skåret over hamstringen på en hunnkamel",
+        "Forvandlet til aper for å ha brutt sabbaten"
+      ],
+      "answer": "Oppslukt av jorden med bolig og rikdom"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

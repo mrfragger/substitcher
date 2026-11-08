@@ -1,0 +1,61 @@
+{
+  "title": "Neetud käed",
+  "intro": "Sa seisad iidse Meka looklevatel alleedel, kus mõjukas ja rikas hing pöördus kord tõe kutsest eemale. Selle tegelase lugu on karm meeldetuletus, et veresidemed ei saa uhkuse ahelaid ületada. Kes on see, kelle nimi kajab eesootava tulega?",
+  "clues": [
+    "Kõndisin Meka tänavatel uhkusega, mis pimestas mind tõe ees, kuigi sõnumitooja oli minu enda verest.",
+    "Mu vara oli tohutu, aga see sai pigem needuseks kui kilbiks.",
+    "Juhendamise raamat räägib mu hukust, kuulutades, et mu käed ja mu hing hukkuvad.",
+    "Mu abikaasa liitus minu vaenukampaaniaga, kogudes okkaid, et neid puistata selle teele, kes hüüdis Allahi poole.",
+    "Kohtupäeval heidetakse mind lõõmavasse tulle ja mu abikaasal on kaela ümber palmikiududest köis.",
+    "Mind tuntakse nime järgi, mis tähendab „leegi isa” – nimi, mis ennustab minu igavest elupaika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Põhikatse või sündmus",
+      "options": [
+        "Vastutas prohvetit ja teda neeti Koraanis",
+        "Juhtis armeed Kaaba hävitamiseks",
+        "Püüdis prohvetit kividega tappa",
+        "Keeldus uskumast Kuu jagunemisse",
+        "Ehitas torni, et taevasse ulatuda"
+      ],
+      "answer": "Vastutas prohvetit ja teda neeti Koraanis"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Põrgustuli",
+        "Musa personal",
+        "Nuh' laeka",
+        "Zamzami kaev",
+        "Kuldvasikas"
+      ],
+      "answer": "Põrgustuli"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Ta astub lõõmavasse tulle ja tema rikkus ei aita teda",
+        "Ta kahetses ja sai usklikuks",
+        "Pärast tagasivõtmist andestati talle",
+        "Ta suri märtrina",
+        "Ta võeti taevasse"
+      ],
+      "answer": "Ta astub lõõmavasse tulle ja tema rikkus ei aita teda"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

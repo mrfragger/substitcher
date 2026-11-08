@@ -1,0 +1,61 @@
+{
+  "title": "Den Architekt vun der falscher Ambitioun",
+  "intro": "Eng Persoun mat grousser Autoritéit huet eemol engem vun de bekanntsten Tyrannen aus der Geschicht am antike Ägypten gedéngt. Dëser Persoun gouf e kühnen Uerder uvertraut - e Gebai ze bauen, dat dem Himmel trotzde soll. Hir Geschicht steet am Koran als eng beandrockend Lektioun doriwwer, wéi blanne Gehorsam géintiwwer Arroganz nëmmen zum Ruin féiert.",
+  "clues": [
+    "Ech hunn um Geriicht vun engem mächtege Herrscher gedéngt, deen d'göttlech Muecht iwwer d'Lännereie behaapt huet.",
+    "Ech hat eng héich ministeriell Positioun a war dem arrogantsten Tyrann vu menger Zäit beroden.",
+    "Mäi Herrscher war ganz domat beschäftegt, de Gott vum Moses erauszefuerderen, deen si refuséiert hunn unzeerkennen.",
+    "Mir gouf den Uerder ginn, en Tuerm aus gebakene Zillen ze bauen, fir datt mäi Herrscher an den Himmel kéint opstigen.",
+    "Den Tuerm huet ni den Himmel erreecht, a meng Knechtschaft un d'Arroganz huet mir éiweg Schimmt abruecht.",
+    "Ech sinn mat deem ënnergaangen, deem ech gefollegt sinn, a mäin Numm gouf eng dauerhaft Warnung géint déi, déi Tyrannen erméiglechen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Haman",
+        "Azar (Papp vum Ibrahim)",
+        "Illyas (e Prophet)",
+        "Dhu al-Kifl",
+        "Harut (ee vun den zwee Engelen zu Babylon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Befeeler fir eng imposant Struktur ze bauen, fir den Himmel z'erreechen",
+        "Gefrot, en Dram z'interpretéieren, deen vum Göttlechen geschéckt gouf",
+        "An e flammend Feier gehäit als Test vum Glawen",
+        "Gezwongen, tëscht Troun a Wourecht ze wielen",
+        "An engem Zauberconcours erausgefuerdert"
+      ],
+      "answer": "Befeeler fir eng imposant Struktur ze bauen, fir den Himmel z'erreechen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "En Tuerm aus Feier gebakene Zillen",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "E Schëff, dat duerch eng grouss Iwwerschwemmung fiert",
+        "E Gaart, deen duerch héich Maueren ëmginn ass",
+        "En Troun mat Rubinen a Gold dekoréiert"
+      ],
+      "answer": "En Tuerm aus Feier gebakene Zillen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Nieft dem Ënnerdrécker am Mier erdronk",
+        "Ass e mächtege Monarch vu grousse Lännereien ginn",
+        "Ass ouni Verletzungen aus dem Feier entkomm",
+        "E prosperéierend Räich vu Wäisheet gebaut",
+        "No Jore vum Exil mat senger Famill erëmvereenegt"
+      ],
+      "answer": "Nieft dem Ënnerdrécker am Mier erdronk"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Baile a Chreid san Am",
+  "intro": "I stair na trócaire diaga, tá pobal ann a raibh a phointe casaidh ina nóiméad tuisceana comhchoitinn. Tá tú ar tí a scéal a nochtadh—scéal rabhaidh, aithrí, agus faoisimh a chuir ar leithligh iad ó chinniúint náisiúin eile.",
+  "clues": [
+    "Ba phobal muid ar cuireadh teachtaire chucu, agus d’iompaíomar ar shiúl óna ghlao ar dtús.",
+    "Nuair a bhí comharthaí an phionóis atá ar tí tarlú soiléir, thuigeamar fírinne a rabhaidh.",
+    "D’iompaíomar ar ár dTiarna le haithrí ó chroí, agus glacadh lenár gcreideamh.",
+    "Cuireadh deireadh leis an pionós a forordaíodh orainn mar gheall ar ár gcreideamh.",
+    "Luaitear ár scéal mar eisceacht i measc na mbailte a chreid tar éis dóibh an pionós a fheiceáil.",
+    "Ba muidne muintir an fháidh a shlog an míol mór, ach sábháladh sinn ón scrios."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir Yunus",
+        "Muintir Nuh",
+        "Muintir Hud",
+        "Muintir Salih",
+        "Muintir Lut"
+      ],
+      "answer": "Muintir Yunus"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Tuile tubaisteach",
+        "Stoirm ghaoithe throm",
+        "Pionós náire atá ar tí tarlú a seachnaíodh",
+        "An talamh ag slogadh iad",
+        "Báisteach clocha"
+      ],
+      "answer": "Pionós náire atá ar tí tarlú a seachnaíodh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An áirc",
+        "An camall baineann",
+        "Cathair de chéad míle",
+        "Foireann Musa",
+        "Taisce Qarun"
+      ],
+      "answer": "Cathair de chéad míle"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosadh iad go hiomlán",
+        "Tugadh taitneamh dóibh ar feadh tamaill",
+        "Claochlaíodh iad ina apaí",
+        "Bádh iad",
+        "Slogadh iad ag an talamh"
+      ],
+      "answer": "Tugadh taitneamh dóibh ar feadh tamaill"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

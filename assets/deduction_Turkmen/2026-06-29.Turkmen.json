@@ -1,0 +1,61 @@
+{
+  "title": "Sabyrly Ruh",
+  "intro": "Pygamberlik ýyl ýazgylarynda sabyrlylygy olaryň durmuşynyň düýbüne siňen bir jan bardy. Olar gözýaşlary we wagtyň dowamynda umyda berk ýapyşdylar we ylahy akyldarlyga bolan ynamyň ebedi nusgasyna öwrüldiler. Bu üýtgewsiz keşbiň syryny açyp bilersiňizmi?",
+  "clues": [
+    "Men pygamberler maşgalasynda doguldym, ýöne iň uly synagym iň söýýän çagam arkaly boldy.",
+    "Oglumyň gürrüň beren düýşünden göriplik barada duýduryş aldym we onuň howpsuzlygy üçin gorkdum.",
+    "Gözlerim gynançdan ak boldy, ýöne men Allanyň rehimine bolan ynamymy hiç haçan ýitirmedim.",
+    "Ýiten çagamyň ysy maňa uzakdan geldi we men şonda gaýtadan duşuşmagyň golaýdygyny bildim.",
+    "Köne görüm hasyl bolanda we gözüm dikeldilende, maşgalam minnetdarlyk bilen baş egdi.",
+    "Maňa ganly köýnek sowgat berildi, soňra bolsa gözümi sagaldan köýnek maňa berildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ybraýym pygamber",
+        "Yshak pygamber",
+        "Ýakup pygamber",
+        "Ýusup pygamber",
+        "Eýýup pygamber"
+      ],
+      "answer": "Ýakup pygamber"
+    },
+    "trial": {
+      "label": "Möhüm synag",
+      "options": [
+        "Söýgüli çagasyndan aýrylmak we görmezlik",
+        "Ýanýan oda taşlanmak",
+        "Uly balyk tarapyndan ýuwutulýar",
+        "Baýlygy, çagalary we saglygy ýitirmekde dowamly",
+        "Doganlary tarapyndan dönüklik edilip, guýa taşlanýar"
+      ],
+      "answer": "Söýgüli çagasyndan aýrylmak we görmezlik"
+    },
+    "location": {
+      "label": "Simwolik obýekt",
+      "options": [
+        "Ilki hakykaty gizleýän, soňra bolsa ony aýan edýän köýnek",
+        "Ýylana öwrülen taýak",
+        "Pygamberi ýuwdan kit",
+        "Sowuklaşan ot",
+        "Ýanýan gyrymsy agaçlaryň ýanynda bir jübüt sandal"
+      ],
+      "answer": "Ilki hakykaty gizleýän, soňra bolsa ony aýan edýän köýnek"
+    },
+    "outcome": {
+      "label": "Ylahy Karar",
+      "options": [
+        "Ýiten ýakyn adamyňyz bilen gaýtadan duşuşmak we görmegiň dikeldilmegi",
+        "Zulm astyndaky milletden halas bolmak",
+        "Balygyň garnyndan halas bolmak",
+        "Ýanýan otdan halas bolmak",
+        "Beýik tagta çykmak"
+      ],
+      "answer": "Ýiten ýakyn adamyňyz bilen gaýtadan duşuşmak we görmegiň dikeldilmegi"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

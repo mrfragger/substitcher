@@ -1,0 +1,61 @@
+{
+  "title": "Pēdējās izrādes diena",
+  "intro": "Izsaukta uz grandiozu spēka demonstrējumu, prasmīgu izpildītāju grupa nonāca negaidītas patiesības priekšā, kas uz visiem laikiem mainīs viņu dzīvi.",
+  "clues": [
+    "Mēs bijām slaveni ar savu amatu, ilūziju un viltību meistari.",
+    "Valdnieks mūs izsauca, lai stātos pretī izaicinātājam, kurš rokās turēja vienkāršu spieķi.",
+    "Kad mēs ieraudzījām patiesību, mēs nokritām zemē, pasludinot ticību pasaules Kungam.",
+    "Tirāns mums piedraudēja ar bargu sodu, bet mēs nešaubījāmies.",
+    "Mēs bijām vieni no pirmajiem, kas noticēja vēstij pēc tam, kad bija redzējuši skaidru zīmi.",
+    "Mēs tikām mocekļi savas ticības dēļ, bet mēs būsim pirmie, kas ieies Paradīzē kopā ar taisnīgajiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Faraona burvji",
+        "Izraēlieši",
+        "Tamudas ļaudis",
+        "Isas mācekļi",
+        "Abrahas armija"
+      ],
+      "answer": "Faraona burvji"
+    },
+    "trial": {
+      "label": "Izmēģinājums / pasākums",
+      "options": [
+        "Sacensības ar pravieti Musu",
+        "Torņa celtniecība",
+        "Lielie plūdi",
+        "Siseņu mēris",
+        "Šķelšanās jūra"
+      ],
+      "answer": "Sacensības ar pravieti Musu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Festivāla diena",
+        "Tuvas ieleja",
+        "Iramas pilsēta",
+        "Mūžības dārzs",
+        "Arafata līdzenums"
+      ],
+      "answer": "Festivāla diena"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņi tika publiski sisti krustā",
+        "Viņi noslīka jūrā",
+        "Viņi kļuva par pravieša sekotājiem",
+        "Viņi tika izsūtīti trimdā",
+        "Viņus aprija uguns"
+      ],
+      "answer": "Viņi tika publiski sisti krustā"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

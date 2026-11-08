@@ -1,0 +1,60 @@
+{
+  "title": "Bagātības nasta",
+  "intro": "Jūs stāvat stāsta priekšā par milzīgu bagātību, dzīvi, kas rotāta ar zeltu un varu, tomēr galu galā tā ir brīdinoša mācība visiem, kas tiecas pēc pasaulīgas varenības. Vai varat atšķetināt šīs personas identitāti, kuras stāsts atbalsojas laikā, apliecinot pasaulīgo mantu īslaicīgo dabu?",
+  "clues": [
+    "Es biju no diža Pravieša tautas, bet izvēlējos augstprātības un apspiešanas ceļu.",
+    "Allāhs man piešķīra milzīgu bagātību, tik lielu, ka manu dārgumu atslēgas bija smags slogs spēcīgai vīru grupai.",
+    "Mani ļaudis man ieteica nelepoties ar savu bagātību, atgādinot, ka Allāhs nemīl tos, kas līksmo.",
+    "Es augstprātīgi apgalvoju, ka mana milzīgā bagātība ir manas paša zināšanas un pūles, nevis Allāha svētība.",
+    "Mani brīdināja par samaitātību un atgādināja meklēt pēcnāves dzīvi ar to, ko Allāhs man bija devis, bet es atteicos klausīties un turpināju savā lepnumā.",
+    "Galu galā Allāhs lika zemei ​​aprīt mani un manu mājokli, atstājot mani bez palīgiem pret Viņa lēmumu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Faraons",
+        "Hamans",
+        "Koruns",
+        "Abu Lahābs",
+        "Namrud"
+      ],
+      "answer": "Koruns"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Jūras sadalīšana",
+        "Nimroda uguns",
+        "Plūdi",
+        "Zemes norīšana",
+        "Siseņu mēris"
+      ],
+      "answer": "Zemes norīšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Zelta teļš",
+        "Dārgumi/atslēgas",
+        "Zamzama aka"
+      ],
+      "answer": "Dārgumi/atslēgas"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Piešķirta karaļa vara",
+        "Glābts no iznīcināšanas",
+        "Zeme norīja",
+        "Kļuva par pravieti",
+        "Miermīlīgi nomira"
+      ],
+      "answer": "Zeme norīja"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Uzta Sekretuaren Zaindariak",
+  "intro": "Lur berde batean, gizabanako talde batek plan sekretu bat egin zuen iluntasunaren babespean. Helburu komun bat zuten, baina haien asmoa ez zen batere zuzena. Ez zekiten jainkozko bira bat zain zeudela lo zeudela.",
+  "clues": [
+    "Erabaki sendoa hartu genuen, gure plana akatsik gabea zela pentsatuz.",
+    "Goiz irteteko asmoa genuen, besteek mugitu ere egin aurretik.",
+    "Lursail emankor batean jarri ginen, gure hornigaietan konfiantzaz.",
+    "Helmugara iritsi ginenean, antzua eta basamortua aurkitu genuen, beraz, bidea galdu genuela pentsatu genuen.",
+    "Orduan konturatu ginen gure lekua zela, eta etsipenez oihu egin genuen, elkarri gure galeraren errua botaz.",
+    "Goiz hartan zin egin genuen gure uztatik kanpo utziko genituela pobreak, baina Alaren zigorra etorri zitzaigun lo geundela, gure lorategia hondamendi bihurtuz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Lorategiko jabeak 68. suran",
+        "Sabako jendea.",
+        "Kobazuloko Lagunak",
+        "Elefantearen Jendea",
+        "Lubakiko jendea"
+      ],
+      "answer": "Lorategiko jabeak 68. suran"
+    },
+    "trial": {
+      "label": "Gure epaiketa",
+      "options": [
+        "Zerutik etorritako hondamendi batek suntsitu zuen gure lorategia",
+        "Gure lorategia uholde batek eraman zuen",
+        "Etsai batek eragindako suak erre zuen gure lorategia",
+        "Gure lorategia matxinsaltoz beteta zegoen",
+        "Gure lorategia lurrikara batek irentsi zuen"
+      ],
+      "answer": "Zerutik etorritako hondamendi batek suntsitu zuen gure lorategia"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Goizean fruituak biltzeko zin egin genuen",
+        "Gure lorategia ureztatzeko presa bat eraiki genuen",
+        "Babes bila kobazulo batean bilatu genuen babesa",
+        "Erresuma bat konkistatzeko armada bat prestatu genuen",
+        "Itsasontziz nabigatu genuen itsasoa zeharkatzeko"
+      ],
+      "answer": "Goizean fruituak biltzeko zin egin genuen"
+    },
+    "outcome": {
+      "label": "Gure Patua",
+      "options": [
+        "Damutu ginen eta Ala-ren errukia espero genuen",
+        "Erabat suntsituta geunden eta ez ginen inoiz damutu",
+        "Lurraldetik ihes egin genuen eta ez ginen inoiz itzuli",
+        "Berriro boteretsu eta aberats bihurtu ginen",
+        "Tximino bihurtuz zigortu gintuzten"
+      ],
+      "answer": "Damutu ginen eta Ala-ren errukia espero genuen"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

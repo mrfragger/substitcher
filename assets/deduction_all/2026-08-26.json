@@ -1,0 +1,61 @@
+{
+  "title": "The Envy That Consumed",
+  "intro": "A tale older than any kingdom or scripture—the first human tragedy born of jealousy. One soul, the elder of two children born to the first parents, watched in fury as a younger sibling received favor that was denied. What followed was the darkest of choices, leaving behind the first blood ever shed upon the earth. Can you uncover the identity, the trial, and the bitter regret?",
+  "clues": [
+    "I was born of the very first pair of humans to walk the earth.",
+    "I once made an offering to Allah, but it was not accepted from me.",
+    "My sibling's offering was accepted, while mine was rejected—something I could not bear.",
+    "I threatened my own brother with destruction.",
+    "I became the first to commit murder upon this earth, taking the life of my own sibling.",
+    "Allah sent a creature of the earth—a black bird digging in the ground—to teach me how to conceal what I had done, and I was left with nothing but regret."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Prophet Yaqub",
+        "Prophet Musa",
+        "Prophet Adam"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Offering rejected by Allah",
+        "Thrown into a great fire",
+        "Abandoned as a baby in a river",
+        "Tested with an immense kingdom",
+        "Commanded to sacrifice one's son"
+      ],
+      "answer": "Offering rejected by Allah"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The crow sent by Allah",
+        "The golden calf",
+        "The ark upon the mountain",
+        "The burning bush",
+        "The she-camel carved from rock"
+      ],
+      "answer": "The crow sent by Allah"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Became filled with regret and among the losers",
+        "Swallowed into the earth along with treasures",
+        "Became a noble messenger of Allah",
+        "Entered Paradise through divine mercy",
+        "Ruled over an unmatched kingdom"
+      ],
+      "answer": "Became filled with regret and among the losers"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

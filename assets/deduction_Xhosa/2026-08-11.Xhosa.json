@@ -1,0 +1,61 @@
+{
+  "title": "Isifungo Sesizalo",
+  "intro": "Kwigumbi elithuleyo lentliziyo ezinikele kuThixo, kwaqatshelwa isifungo esingcwele. Esi sifungo sasigxile kubomi obungekaphefumlelwa, kwaye ukuzaliseka kwaso kwakuya kutshintsha indlela yelifa lokomoya ngonaphakade. Ngena kwimfihlakalo yomphefumlo onesithembiso esiphindaphindwa ngonaphakade.",
+  "clues": [
+    "Ndandihlala kwikhaya elaziwa ngokuzinikela kwalo kuThixo, kwaye ndandilangazelela isipho esasiza kundisondeza ngakumbi ku-Allah.",
+    "Ndenze umnqophiso onzulu neNkosi yam malunga noko kwakufihliwe ngaphakathi kum, ndifunga ukuba ndiza kukunikela ngokupheleleyo enkonzweni Yakhe.",
+    "Xa kwafika ixesha lokutyhilwa, into endayifumanayo yayingalindelekanga, kodwa ndayiphathisa umninimzi yonke le nto.",
+    "Ndamnika umntwana wam igama elibonisa ukuzinikela, ndaza ndamcela ukuba akhuselwe yena nenzala yakhe kulowo uqalekisiweyo.",
+    "Umntwana wam wabekwa kwindawo engcwele, phantsi kolwalathiso lomprofeti ovela kwinzala ka-Aron.",
+    "Intombi yam yaziwa ngokuba msulwa kwayo yaza yonyulwa ngaphezu kwabo bonke abafazi, kamva yaba ngumama womprofeti omkhulu, nangona ingazange ichukunyiswe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umfazi ka-Imran",
+        "Umama kaMusa",
+        "Umfazi kaFaro",
+        "Umfazi ka-Al-Aziz",
+        "Umama ka-Isa"
+      ],
+      "answer": "Umfazi ka-Imran"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Isifungo sokunikela umntwana wakhe ongakazalwa etempileni",
+        "Uvavanyo lomonde ngenxa yokugula ixesha elide",
+        "Uhambo oluya kwilizwe elikude ngenxa yokholo",
+        "Ukungqubana nokumkani ongqongqo",
+        "Ilungiselelo elimangalisayo lokutya okuvela ezulwini"
+      ],
+      "answer": "Isifungo sokunikela umntwana wakhe ongakazalwa etempileni"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umntwana ogama linguMaryam",
+        "Intonga eyajika yaba yinyoka",
+        "Ithole legolide",
+        "Umthombo waseZamzam",
+        "Umkhombe kaNowa"
+      ],
+      "answer": "Umntwana ogama linguMaryam"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Umntwana wakhe wamkelwa ngu-Allah waza wakhula phantsi kokhathalelo lwesiprofeto.",
+        "Umntwana wakhe waba ngumprofeti waza wafumana isibhalo esingcwele",
+        "Umntwana wakhe waphakanyiselwa ezulwini",
+        "Umntwana wakhe wakha indlu engcwele",
+        "Umntwana wakhe wanikwa ubulumko nobutyebi obukhulu"
+      ],
+      "answer": "Umntwana wakhe wamkelwa ngu-Allah waza wakhula phantsi kokhathalelo lwesiprofeto."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

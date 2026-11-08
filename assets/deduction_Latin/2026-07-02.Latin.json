@@ -1,0 +1,61 @@
+{
+  "title": "Servus Sapientiae Occultae",
+  "intro": "In vasto contextu narrationum Coranicarum, stat figura enigmatica, servus Dei, divina scientia et misericordia ornatus. Hic homo mysteriosus vias unius ex maximis prophetis invenit, ducens ad iter plenum actionibus perplexis quae limites humanae comprehensionis provocaverunt. Quaeque actio, quamvis iniusta videbatur, profundas lectiones de fato, patientia, et sapientia invisibili post decretum divinum celabat. Quis est haec figura obscura, et quas veritates patefecit?",
+  "clues": [
+    "Servus Allah eram, propter scientiam singularem et misericordiam electus.",
+    "Magnus propheta a me discere voluit, et ego sub strictis condicionibus assensi.",
+    "In conventu nostro, tria feci quae socio meo iniusta visa sunt.",
+    "Navem pauperum laesi, attamen misericordia occulta erat.",
+    "Vitam pueruli abstuli, quamvis crudele videretur, tamen factum est ut parentibus eius dolorem parcerem.",
+    "Murum in oppido quod nobis hospitium negavit refeci, thesaurum sub eo revelans."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Al-Khidr (servus iustus)",
+        "Dominus duorum hortorum",
+        "Unus ex Populis Speluncae",
+        "Rex qui cum Ibrahimo disputavit",
+        "Vir qui centum annos dormivit"
+      ],
+      "answer": "Al-Khidr (servus iustus)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Occursus prophetae Musae ad iuncturam duorum marium",
+        "Aedificantes munimentum contra Gog et Magog",
+        "In magnum ignem coniectus",
+        "Mare in duas partes dividens",
+        "Accipiendo tabulas Torah"
+      ],
+      "answer": "Occursus prophetae Musae ad iuncturam duorum marium"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Coniunctio duorum marium",
+        "Mons Sinai",
+        "Antrum Thawr",
+        "Vallis Tuwae",
+        "Puteus Zamzam"
+      ],
+      "answer": "Coniunctio duorum marium"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Sapientiam divinam post actiones suas inexplicabiles explicavit et a Musa discessit.",
+        "Post iter prophetiae ei concessum est.",
+        "Navis tempestate deleta est",
+        "Puer ad vitam revocatus est",
+        "Meschitam in oppido inhospitali aedificavit"
+      ],
+      "answer": "Sapientiam divinam post actiones suas inexplicabiles explicavit et a Musa discessit."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

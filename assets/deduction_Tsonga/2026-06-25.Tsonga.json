@@ -1,0 +1,61 @@
+{
+  "title": "Vayingiseri lava humaka eka leswi nga voniwiki",
+  "intro": "Ehandle ka xifunengeto xa misava leyi vonakaka, nhlengeletano leyi fihliweke yi hlengeletanile emunyameni, yi kokeriwe eka mpfumawulo lowu a wu kaneta hinkwaswo leswi a va swi tiva. A va rhendzelekile malembe yo tala va nga ri na nkongomiso wa ntiyiso, ku kondza rito ri tlhava exikarhi ka ku miyela ka xivandla xa vona lexi nga voniwiki ivi ri hlohlotela nchumu wo karhi endzeni-ndzeni. Vusiku bya namuntlha, mi rhambiwa ku tlula mindzhuti no paluxa vumunhu bya ntlawa lowu wa xihundla, lowu ku hlangana ka wona na marito ya Xikwembu swi va tlheriseleke eka vanhu va vona tani hi vatsundzuxi va ntiyiso lowu a wu nga ta swi kota ku siveriwa.",
+  "clues": [
+    "Hi swivumbiwa swa khale, leswi nga kona khale swinene emahlweni ka matiko yo tala lawa u hlayeke ha wona, hambiswiritano a hi tali ku vulavuriwa ha wona eka mintsheketo ya vanhu.",
+    "Ntumbuluko wa hina a wu fani na wa wena, wu lukiwile hi swiaki swa leswi nga voniwiki, naswona hi na matimba lama kanetaka leswi tolovelekeke.",
+    "Ku ringana malembe yo tala, a hi famba-famba hi nga ri na nkongomiso wa ntiyiso, kukondza mpfumawulo wu fika eka hina lowu a wu rhurhumerisa nchumu wo karhi endzeni-ndzeni.",
+    "Hi twe ku hlayiwa loku fanaka ni nchumu lowu hi tshameke hi wu twa, marito lama rhwaleke ntiko lowu tlulaka mbulavulo wihi na wihi.",
+    "Hi tshikilele ekusuhi exihundleni, hi lerisa va hina leswaku va miyela, naswona loko tindzimana ti hela, a hi nga ta swi kota ku tshama hi miyerile.",
+    "Hi tlhelele eka vanhu va hina hi tivisa: ‘Oho vanhu va hina, hi twe Buku leyi paluxiweke endzhaku ka Muxe, yi tiyisisa leswi a swi ri emahlweni ka yona, yi kongomisa entiyisweni.’"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Va Hawariyyun (Vadyondzisiwa va Isa) .",
+        "Va-Jin lava a va pfumela endzhaku ko twa Quran",
+        "Vaseketeri va Bako",
+        "Tintsumi ta matilo ya le hansi swinene",
+        "Vanhu va Faro lava landzeleke ndlela ya yena"
+      ],
+      "answer": "Va-Jin lava a va pfumela endzhaku ko twa Quran"
+    },
+    "trial": {
+      "label": "Xikambelo / Xiendlakalo",
+      "options": [
+        "Hi hlongoriwile hikwalaho ko ala ku nkhinsama emahlweni ka xivumbiwa lexintshwa lexi vumbiweke",
+        "Hi pfaleriwe ebakweni ku ringana malembe ya madzana manharhu na nhungu",
+        "Hi lerisiwe ku tsemakanya lwandle leri avaneke emahlweni ka hina",
+        "Hi rhumeriwe etikweni ra masalamusi leswaku hi ya dyondza vungoma",
+        "Hi yingisele ku hlayiwa exihundleni naswona hi hundzuriwile hi yona"
+      ],
+      "answer": "Hi yingisele ku hlayiwa exihundleni naswona hi hundzuriwile hi yona"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Rhole ra nsuku leri endliweke hi swikhaviso swa vanhu",
+        "Bako leri vurhongo byi tekeke switukulwana swo tala eka rona",
+        "Tintsumi timbirhi eBabilona leti a ti dyondzisa vutivi lebyi yirisiweke",
+        "Buku leyi paluxiweke endzhaku ka Muxe, leyi tiyisekisaka Torah",
+        "Xihlahla lexi pfurhaka ehenhla ka ntshava yo kwetsima"
+      ],
+      "answer": "Buku leyi paluxiweke endzhaku ka Muxe, leyi tiyisekisaka Torah"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Hi rhukaniwile ku fikela hi Siku ra Vuavanyisi",
+        "Hi pfukele mufumi wa matimba kutani hi aka xisirhelelo etikweni",
+        "Hi hundzuriwile hi va tindlopfu ni tinguluve",
+        "Hi tlhelele eka vanhu va hina tanihi vatsundzuxi, hi huwelela ripfumelo",
+        "Hi nwile elwandle hi ri etlhelo ka murhangeri wa hina"
+      ],
+      "answer": "Hi tlhelele eka vanhu va hina tanihi vatsundzuxi, hi huwelela ripfumelo"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

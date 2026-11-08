@@ -1,0 +1,61 @@
+{
+  "title": "El Guardià de la Flama Inextinguible",
+  "intro": "Una figura es troba al llindar del lloc més temut de l'invisible, encarregada d'un deure que cap altre ésser desitja. Quan les ànimes que pateixen demanen misericòrdia, una resposta severa ressona a través de les cambres de foc. Pots descobrir la identitat d'aquest guardià etern?",
+  "clues": [
+    "Estic a l'entrada d'un lloc terrorífic de càstig en l'invisible.",
+    "Un foc ardent i inextinguible és la peça central del meu deure solemne.",
+    "Les ànimes que pateixen criden el meu nom, suplicant alleujament del seu turment infinit.",
+    "Quan supliquen, declaro que no marxaran, mai més.",
+    "No sóc humà, ni djinn; sóc un ésser creat de pura obediència.",
+    "Sóc l'àngel principal designat com a guardià etern del Foc Infernal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Miquel",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "La gent de l'infern implora que s'acabi el seu turment",
+        "Es toca la trompeta per anunciar el Dia del Judici",
+        "L'Alcorà es revela al cor del Profeta",
+        "Un profeta és llançat a un gran foc pel seu poble",
+        "Un poderós mur es construeix per contenir una nació corrupta"
+      ],
+      "answer": "La gent de l'infern implora que s'acabi el seu turment"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El Foc de l'Infern (Jahannam)",
+        "L'arbre de lotus al límit del Paradís",
+        "Una trompeta penetrant",
+        "Un bastó que es transforma en una serp",
+        "Un magnífic tron ​​diví"
+      ],
+      "answer": "El Foc de l'Infern (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es diu als habitants de l'infern que hi romandran eternament",
+        "Els habitants de l'infern són perdonats i alliberats",
+        "Els habitants de l'infern tenen una segona oportunitat de fe",
+        "Els habitants de l'infern són traslladats a un lloc de frescor",
+        "Els habitants de l'infern són completament destruïts per un llamp"
+      ],
+      "answer": "Es diu als habitants de l'infern que hi romandran eternament"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Un piscinin avvertiment prima de un ospite en marcia",
+  "intro": "Entra in d’una vall indué se avvicinan un suvran putent e una grand armada, e imaginet un viagiatur piscinin che dà un avvertiment che salva tüta una comunità. Quand la comunità minaciada riva al riparo, el pericul pasa. Segui i indizi per identificar la figüra trascurada deré a chel avvertiment.",
+  "clues": [
+    "Son intra i creatur piscinin asocià al regn de un suvran.",
+    "La mia comunità vif en di abitaziun denter de una vall, indué vun di noalter pœu ciamà i olter.",
+    "G’hem de afruntà una menaza de part de chel suvran e di armäd che viagian cunt el suvran.",
+    "Mi sun chel che ciama la me comunità per entrà denter di luur abitaziun e ne avvertiss de vèss minga schiacià senza savè.",
+    "El suvran l’è Sulayman, e la mia speça l’è intra i creature metude sota el so comand.",
+    "Mi son la furmiga de quella vall; dopu el me avvertiment, sem entrà in di noster abitaziun e sem scapà del sfracià che altriment g’havaria cattà senza savè."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "La Formiga de la Val",
+        "L'Opoo",
+        "El Corv",
+        "El Serpent",
+        "La mula"
+      ],
+      "answer": "La Formiga de la Val"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Un avvertiment che g’ha risparmià una comunità de furmìg",
+        "Una dumanda de un anel de un pess",
+        "Una ricerca de un tron ​​mancant",
+        "El salvatagg di œucc rubà",
+        "Un refud de magnà el magnà de un suvran"
+      ],
+      "answer": "Un avvertiment che g’ha risparmià una comunità de furmìg"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La Val dei Formighe",
+        "L'anell del segn de Sulayman",
+        "La camisa macchiada del sang de Yusuf",
+        "El vitell d’or del Esodo",
+        "El personal de Musa"
+      ],
+      "answer": "La Val dei Formighe"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "La comunità l’è stada risparmiada dopu avegh rifugià",
+        "La comunità l’è stada distrutta senza truvà riparo",
+        "La comunità l’è stada risparmiada perchè l’esercit se ritirò",
+        "La comunità l’è stada ricumpensada cunt el cuntrol süi ucèi",
+        "La comunità l’è stada purtada prigiuniera a la cort real"
+      ],
+      "answer": "La comunità l’è stada risparmiada dopu avegh rifugià"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

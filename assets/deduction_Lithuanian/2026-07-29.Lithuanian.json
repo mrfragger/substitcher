@@ -1,0 +1,61 @@
+{
+  "title": "Teisminis persekiojimas",
+  "intro": "Valdžios koridoriuose aukšto statuso asmenybė susižavėjo tarnu, kurio grožis buvo nežemiškas. Šis susižavėjimas lėmė daugybę įvykių, kurie išbandė ištikimybę, atskleidė paslėptas tiesas ir galiausiai patvirtino tarno nekaltumą.",
+  "clues": [
+    "Gyvenau Nilo krašte, didelės įtakos rūmuose.",
+    "Į mano namus atėjo jaunas vyras, ir jo buvimas mane sujaudino.",
+    "Bandžiau jį suvilioti, bet jis ieškojo prieglobsčio pas savo Viešpatį.",
+    "Perplėšiau jo drabužį iš užpakalio, bet įrodymai rodė mano apgaulę.",
+    "Norėdamas nutildyti kilmingųjų moterų apkalbas, pakviečiau jas į susibūrimą ir įdėjau joms į rankas aštrių daiktų.",
+    "Galiausiai viešai prisipažinau savo kaltę, pripažindamas tiesą karaliaus akivaizdoje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Al-Azizo žmona",
+        "Asija (faraono žmona)",
+        "Bilqis (Šebos karalienė)",
+        "Maryam (Isos motina)",
+        "Musos motina"
+      ],
+      "answer": "Al-Azizo žmona"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Ji bandė suvilioti pranašą Jusufą",
+        "Ji bandė nužudyti pranašą Musą",
+        "Ji teigė esanti deivė",
+        "Ji pastatė bokštą, kad mestų iššūkį Alachui",
+        "Ji vedė armiją prieš Meką"
+      ],
+      "answer": "Ji bandė suvilioti pranašą Jusufą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Iš nugaros suplyšę marškinėliai",
+        "Auksinis veršelis",
+        "Lazdelė, kuri virto gyvate",
+        "Kupranugarė",
+        "Lempa"
+      ],
+      "answer": "Iš nugaros suplyšę marškinėliai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Ji prisipažino ir pripažino tiesą",
+        "Ji nuskendo su savo armija",
+        "Ji virto druskos stulpu",
+        "Ją prarijo žemė",
+        "Ją sunaikino siaučiantis vėjas"
+      ],
+      "answer": "Ji prisipažino ir pripažino tiesą"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pirmie, kas meklē piedošanu",
+  "intro": "Atgriezīsimies laikā pirms pirmā saullēkta, pirms vēl kāds mirstīgais dzīvoja pa zemi. No visvienkāršākajiem materiāliem tika izveidota figūra, kurai tika piešķirts statuss virs eņģeļiem un ievietota svētajā dārzā ar skaidru brīdinājumu. Tomēr vienā mirklī tika izdarīta izvēle – tāda, kas atbalsosies visā cilvēces vēsturē. Kas ir šī figūra?",
+  "clues": [
+    "Es tiku radīts ne ar vienu citu atšķirīgā veidā — veidots no zemes pīšļiem un Radītāja roka man piešķīra dzīvu dvēseli.",
+    "Man tika piešķirtas tik dziļas zināšanas, ka pat eņģeļi augšā par tām brīnījās.",
+    "Visām debesīm tika pavēlēts paklanīties manā priekšā, un tās visas padevās — izņemot vienu, kurš lepnuma dēļ atteicās.",
+    "Mani ievietoja svētā dārzā, mūžīga miera un nodrošinājuma vietā — taču ar vienu stingru aizliegumu.",
+    "Es aizmirsu, es paslīdēju un nepaklausīju — un es dziļi izjutu savas kļūdas smagumu.",
+    "Es vērsos pie sava Kunga ar sirsnīgiem vārdiem, un Viņš pieņēma manu grēku nožēlu, jo Viņš ir Vispiedodošais."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Ādams",
+        "Pravietis Davuds",
+        "Pravietis Muhameds",
+        "Iblis",
+        "Pravietis Jakubs"
+      ],
+      "answer": "Pravietis Ādams"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Eņģeļiem tika pavēlēts paklanīties",
+        "Lielie plūdi tika nosūtīti",
+        "Liels ugunskurs tika padarīts vēss un drošs",
+        "Augstprātīgs valdnieks noslīka jūrā",
+        "Ziloņu armija tika iznīcināta"
+      ],
+      "answer": "Eņģeļiem tika pavēlēts paklanīties"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Svētlaimes dārzs",
+        "Sinaja kalns",
+        "Svētā mošeja",
+        "Nīlas upe",
+        "Ala"
+      ],
+      "answer": "Svētlaimes dārzs"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Allāhs pieņēma grēku nožēlu",
+        "Noslīcis jūrā",
+        "Lielas zivs norīta",
+        "Tautu piemeklēja varens sprādziens",
+        "Apdedzinājis svelmains vējš"
+      ],
+      "answer": "Allāhs pieņēma grēku nožēlu"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Surgun qilingan Ahdni Buzuvchilar",
+  "intro": "Yangi tashkil topgan jamoaning dastlabki davrlarida bir qabila mustahkam uylarda yashagan va ahdga bog'langan. Bu ahd buzilganda, oqibatlari Qur'on sahifalarida aks-sado berdi. Bu odamlar kim edi va ularning uylari va bog'lari nima bo'ldi?",
+  "clues": [
+    "Biz soxta xavfsizlik hissini beradigan qal'alarda yashadik.",
+    "Biz ahli kitob edik, ammo ahdimizdan qaytdik.",
+    "Elchi bizga kelganidan keyin biz unga qarshi fitna uyushtirdik, ammo hiyla-nayrangimiz barbod bo'ldi.",
+    "Xurmo daraxtlarimiz Allohning qudratidan dalolat beruvchi amri bilan kesildi.",
+    "Bizni itoatsizlik uchun jazo sifatida uyimizdan haydab chiqarishdi va hech qachon qaytib kelmadik.",
+    "Qur'on bizni yig'ilish bobida tilga oladi va bizning hikoyamiz ahdlarni buzganlar uchun ogohlantirish bo'lib xizmat qiladi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Banu Nodir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Madyan xalqi",
+        "Samud qavmi"
+      ],
+      "answer": "Banu Nodir"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Qamal qilish va uylaridan quvg'in qilish",
+        "Dengizda cho'kish",
+        "Yer tomonidan yutib yuborilmoqda",
+        "Bo'ron tufayli vayron bo'lish",
+        "Maymunlarga aylanmoqda"
+      ],
+      "answer": "Qamal qilish va uylaridan quvg'in qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Palma daraxtlari kesildi",
+        "Xodimlar",
+        "Kema",
+        "Suv qudug'i",
+        "G'or"
+      ],
+      "answer": "Palma daraxtlari kesildi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Surgun qilindi va ularning mol-mulki tortib olindi",
+        "G'alaba bilan qaytdi",
+        "Kechirildi va qoldi",
+        "Darhol jannatga kirdi",
+        "Vaboga duchor bo'ldik"
+      ],
+      "answer": "Surgun qilindi va ularning mol-mulki tortib olindi"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

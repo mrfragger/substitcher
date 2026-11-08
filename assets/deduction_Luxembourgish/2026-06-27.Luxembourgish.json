@@ -1,0 +1,61 @@
+{
+  "title": "Déi helleg Absenz",
+  "intro": "Hannert den Dünen vun der Zäit läit eng Geschicht vun onerschütterlecher Hingabe an engem Vertrauen, dat sou schwéier war, datt d'Séil, déi se gedroen huet, hätt kënne briechen. An engem Moment, wou d'Leit sech zu Dommheet a Gold gedréint hunn, stoung eng Figur fest do - si huet se zréckgeruff, ëm Gedold gebiet an d'Laascht vun engem hellege Versprieche gedroen. Dëst ass d'Geschicht vun engem, deen als Helfer, Wesir a Bewaacher vum Glawen während enger helleger Absence gewielt gouf. Kënnt Dir d'Identitéit vun dëser standhafter Séil entdecken?",
+  "clues": [
+    "Ech deelen d'Blutt vun engem grousse Prophet, deen erausgesicht gouf, fir direkt mat Allah op engem hellege Bierg ze schwätzen.",
+    "Mäi Geschwëster huet emol Allah ëm Hëllef gebiet, fir kloer mat engem grousse Ënnerdrécker ze schwätzen.",
+    "Ech gouf vun Allah erausgesicht, fir nieft mengem Geschwëster als Helfer a Wesir ze stoen.",
+    "Zesummen stounge mir virun engem tyranneschen Herrscher, deen gefuerdert huet, den héchste vun de Götter genannt ze ginn.",
+    "Wärend mäi Geschwëster um Bierg mat Allah geschwat huet, huet eist Vollek sech en Idol aus hirem Gold gebastelt.",
+    "Ech sinn de Brudder vum Moses, vun Allah als säi Wesir ernannt, mam Numm am Koran ernimmt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Harun (Aaron)",
+        "Prophet Musa",
+        "Prophet Dawud",
+        "Prophet Yaqub",
+        "De Prophet Ishaq"
+      ],
+      "answer": "Prophet Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Kris vum Kalbverehrung",
+        "Déi grouss Iwwerschwemmung vun Nuh",
+        "D'Schluecht vu Badr",
+        "D'Zerstéierung vum Thamud",
+        "D'Zerstéierung vu Sodom"
+      ],
+      "answer": "D'Kris vum Kalbverehrung"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Dat gëllent Kalb",
+        "Noahs Ark",
+        "De brennende Busch",
+        "D'Höhl vun Hira",
+        "Den Troun vu Scheba"
+      ],
+      "answer": "Dat gëllent Kalb"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Onschold vun Allah bestätegt",
+        "Ertrénkung vum Pharao",
+        "De Bau vum Kaaba",
+        "Sécher Iwwerquerung vum Mier",
+        "Himmelfahrt"
+      ],
+      "answer": "Onschold vun Allah bestätegt"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

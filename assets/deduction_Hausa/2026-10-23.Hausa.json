@@ -1,0 +1,61 @@
+{
+  "title": "Ofishin Jakadancin a Tsohon Birni",
+  "intro": "Gari mai ƙura, mutanensa sun makale cikin musantawa, da gargaɗin ƙarshe wanda ba a yi la'akari da shi ba. A yau, ku shiga cikin rawar da waɗanda Allah ya aiko don isar da saƙo ga mutane masu taurin kai. Labarin ƙin yarda, muryar imani ɗaya tilo, da ƙarshen da aka rufe da wani mummunan hukunci. Wa ke magana ta waɗannan alamu?",
+  "clues": [
+    "Allah ne ya aiko mu zuwa ga wani gari wanda mutanensa suka kauce wa gaskiya",
+    "Mu biyu ne suka zo na farko, sannan na uku ya shiga don ƙarfafa manufarmu",
+    "Mutanen garin sun ƙi mu, suna cewa mu ba komai ba ne illa mutane kamar su",
+    "Wani mutum ɗaya daga ƙarshen birnin ya yi gudu don ya gaya wa mutane su bi mu",
+    "Mun yi musu addu'a, amma suka taurare zukatansu suka juya mana baya",
+    "A cikin wani mummunan ihu daga sama, an yi shiru a birninmu gaba ɗaya"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Manzannin Gari a cikin Suratul Ya-Sin",
+        "Hawwariyyun (Almajiran Isa)",
+        "Masu Sihiri na Fadar Fir'auna",
+        "Ma'abota Asabar",
+        "Mutanen Giwa"
+      ],
+      "answer": "Manzannin Gari a cikin Suratul Ya-Sin"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Mutanen gari sun ƙi su kuma sun kira su maƙaryata",
+        "An ƙone shi da rai a cikin babbar wuta mai zafi",
+        "Wani babban kifi ya haɗiye shi a cikin babban teku",
+        "An tilasta wa aikin gina wani ginshiƙi mai tsayi",
+        "An azabtar da shi a cikin rami mai cike da wuta"
+      ],
+      "answer": "Mutanen gari sun ƙi su kuma sun kira su maƙaryata"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Tsohon garin (al-Qaryah)",
+        "Babban tanderu mai walƙiya",
+        "Cikin babban kifi",
+        "Ginshiƙin da ke taɓa sararin sama",
+        "Dakin Allah Mai Tsarki (Ka'aba)"
+      ],
+      "answer": "Tsohon garin (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An lalata garin da kururuwa guda ɗaya mai ban tsoro (Sayha)",
+        "An nutsar da azzalumin da rundunarsa a cikin teku da aka raba",
+        "An rikide mutanen zuwa birai da birai",
+        "Ruwan sama mai ƙarfi ya lalata birnin",
+        "Ambaliyar ruwa mai ƙarfi ta mamaye dukkan al'umma"
+      ],
+      "answer": "An lalata garin da kururuwa guda ɗaya mai ban tsoro (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

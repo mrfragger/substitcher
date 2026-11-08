@@ -1,0 +1,61 @@
+{
+  "title": "Wachongaji wa Mawe wa Bonde la Kale",
+  "intro": "Hebu fikiria ustaarabu ulioibuka katika mabonde ya miamba ya Arabia, wenye ujuzi wa kuchonga nyumba nzuri kutoka pande za milima. Walistawi kwa nguvu na ufundi, lakini hadithi yao ina sifa ya kukataa onyo la Mungu kwa njia ya kutisha. Unapochunguza hadithi yao, utagundua watu ambao kiburi chao kilisababisha kuangamizwa kabisa. Walikuwa akina nani?",
+  "clues": [
+    "Tulirithi nchi yenye tambarare zenye miamba na miamba mirefu, ambapo tulijenga makazi yetu kwa ustadi usio na kifani.",
+    "Tulijulikana kwa kuchonga nyumba salama milimani, tukihisi salama kutokana na madhara yoyote.",
+    "Mtume alikuja kwetu kutoka miongoni mwetu, akitukumbusha neema za Mwenyezi Mungu na kutuonya kuhusu adhabu.",
+    "Tuliomba ishara, na ngamia jike wa kimiujiza akatoka kwenye mwamba, mtihani ulio wazi kutoka kwa Mwenyezi Mungu.",
+    "Tulikataa onyo na tukamkata ngamia jike, tukimdhihaki mjumbe na kupinga adhabu.",
+    "Mlipuko mmoja ulitupata majumbani mwetu, na asubuhi tulilala kifudifudi, kana kwamba hatujawahi kuishi hapo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Thamud",
+        "Watu wa 'Ad",
+        "Watu wa Madyan",
+        "Watu wa Nuh",
+        "Watu wa Lut"
+      ],
+      "answer": "Watu wa Thamud"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alimkata ngamia jike",
+        "Alivunja Sabato",
+        "Aliabudu ndama wa dhahabu",
+        "Alimuua nabii aliyetumwa kwao",
+        "Kujenga mnara ili kufikia angani"
+      ],
+      "answer": "Alimkata ngamia jike"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ngamia jike",
+        "Sanduku",
+        "Wafanyakazi",
+        "Mkono mweupe",
+        "Mana na kware"
+      ],
+      "answer": "Ngamia jike"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imeharibiwa na mlipuko",
+        "Imeokolewa kutokana na uharibifu",
+        "Aligeuka kuwa nyani",
+        "Kuzama baharini",
+        "Imemezwa na ardhi"
+      ],
+      "answer": "Imeharibiwa na mlipuko"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

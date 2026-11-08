@@ -1,0 +1,61 @@
+{
+  "title": "Bir Anda Səyahət Edən Taxt",
+  "intro": "Böyük bir səlahiyyət sahibi, ölçüyəgəlməz sərvətlə bəxş edilmiş varlı bir krallığa hökmranlıq edirdi. Gözlənilməz bir çətinlik yarandıqda, bu hökmdar qılıncla deyil, müdriklik və imanla sınaqdan keçirildi. Baş verənlər dünyəvi gücün zirvəsindən qəlbin dərin bir dəyişikliyinə gətirib çıxardı.",
+  "clues": [
+    "Mən təsəvvüründən kənarda sərvət və firavanlıqla dolu bir krallığa hökmranlıq etdim",
+    "Mən cəsarətli bir məktub almış və təslim olmağı tələb edən güclü bir monarx idim",
+    "Əsilzadələrim mənə bu uzaq padşahla döyüşmək, yoxsa sülh bağlamaq barədə məsləhət verdilər.",
+    "Mən özüm bu uzaq padşahla görüşmək üçün möhtəşəm hədiyyələrlə yola düşdüm",
+    "Padşahlıq taxtım bir göz qırpımında, geri qayıtmadan əvvəl uzaq bir diyara gətirildi.",
+    "Döşəməsi şüşə kimi hamar olan bir saraya girəndə nəhayət Allaha təslim olduğumu bildirdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Bilqis, Səba kraliçası",
+        "Fironun arvadı",
+        "Əl-Əzizin həyat yoldaşı",
+        "İmranın qızı Məryəm",
+        "Lut peyğəmbərin həyat yoldaşı"
+      ],
+      "answer": "Bilqis, Səba kraliçası"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Təslim olmağı tələb edən qalın bir məktub almaq",
+        "Alovlu bir oda atılmaq",
+        "Böyük bir balığın udması",
+        "İllərlə davam edən ağrılı xəstəlik",
+        "Bir xalqın daşqın nəticəsində məhv edilməsinin şahidi olmaq"
+      ],
+      "answer": "Təslim olmağı tələb edən qalın bir məktub almaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qızıl və daş-qaşdan ibarət möhtəşəm bir kral taxtı",
+        "Dənizi iki yerə bölən bir əsa",
+        "Dağın üzərində dayanan bir gəmi",
+        "Məkkədə müqəddəs bir ibadət evi",
+        "Bir xalqın ibadət etdiyi qızıl buzov"
+      ],
+      "answer": "Qızıl və daş-qaşdan ibarət möhtəşəm bir kral taxtı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Peyğəmbərlə birlikdə Allaha təslim olmaq",
+        "Düşməni təqib edərkən dənizdə boğulmaq",
+        "Möcüzəvi şəkildə yanan yanğından xilas olmaq",
+        "Əbədi səadət bağından sürgün",
+        "Böyük bir güc krallığına sahib olmaq"
+      ],
+      "answer": "Peyğəmbərlə birlikdə Allaha təslim olmaq"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Prawdziwy głos starożytności",
+  "intro": "W Koranie jest dusza, której historia opowiedziana jest w zaledwie kilku wersetach, a mimo to jej szlachetne cechy jaśnieją z olśniewającą jasnością. Wychwalany przez Wszechmogącego za szczególną cnotę, ten starożytny sługa Najmiłosierniejszego zajmuje miejsce na kartach Objawienia. Twoim zadaniem jest zidentyfikować tę niezwykłą postać. Czy potrafisz zgadnąć, kim ona jest?",
+  "clues": [
+    "Jestem prorokiem Allaha, który żył wśród pierwszych pokoleń ludzkości.",
+    "Bóg wspomniał o mnie w Swojej Księdze razem z innymi prorokami, a wszystkich wychwalał za tę samą szlachetną cnotę.",
+    "W Koranie jestem opisany jako człowiek prawdy.",
+    "Bóg wyniósł mnie na tak wysoką pozycję, jaką osiągnęło niewielu innych.",
+    "Moje imię jest wymienione w Surze Al-Anbija, obok imienia dwóch innych proroków, chwalonych za cierpliwość.",
+    "Jestem Idris, prawdomówny i wzniosły prorok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Idris",
+        "Prorok Noh",
+        "Prorok Ibrahim",
+        "Prorok Musa",
+        "Prorok Ismail"
+      ],
+      "answer": "Prorok Idris"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Zachowując cierpliwość i prawdomówność, a następnie wyniesiony na wysokie stanowisko",
+        "Zbudowanie wielkiej arki, aby ocalić wierzących przed niszczycielską powodzią",
+        "Wrzucenie do płonącego ognia i wyjście z niego bez szwanku",
+        "Stawienie czoła potężnemu królowi i pokonanie jego armii magów",
+        "Przetrwanie w brzuchu wielkiej ryby w głębinach morza"
+      ],
+      "answer": "Zachowując cierpliwość i prawdomówność, a następnie wyniesiony na wysokie stanowisko"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wysoka i wywyższona pozycja nadana przez Allaha",
+        "Ogromny statek zbudowany z desek i pokryty smołą",
+        "Szalejący ogień podsycany przez bałwochwalców niegodziwego króla",
+        "Ogromne morze, które podzieliło się na suche ścieżki",
+        "Ciemny brzuch wielkiego wieloryba na dnie oceanu"
+      ],
+      "answer": "Wysoka i wywyższona pozycja nadana przez Allaha"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przyjęty do łaski Allaha jako jeden ze sprawiedliwych",
+        "Ocaleni wraz ze wszystkimi wierzącymi przed ogólnoświatowym potopem",
+        "Wyszedł z płomieni nietknięty przez ogień",
+        "Poprowadził bezpiecznie dzieci Izraela ku wolności przez morze",
+        "Po długich latach trudności spotkali się ponownie ze swoją ukochaną rodziną"
+      ],
+      "answer": "Przyjęty do łaski Allaha jako jeden ze sprawiedliwych"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

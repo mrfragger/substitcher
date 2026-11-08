@@ -1,0 +1,61 @@
+{
+  "title": "Äärealade hääl",
+  "intro": "Sa seisad linnas, kuhu on tulnud kolm sõnumitoojat selgete märkidega, kuid inimesed pilkavad neid ja klammerduvad oma vanade kommetesse. Linna kaugeimast otsast jookseb rahvahulga poole hingetu ja otsusekindel kuju, kes räägib tõtt hoolimata tagasilükkamisest. Kes on see hing, kes riskis kõigega sõnumi nimel, mis polnud nende endi oma?",
+  "clues": [
+    "Ma elasin rahva seas, kes olid saanud selgete märkidega sõnumitoojaid, kuid nad pöördusid ülbelt selja.",
+    "Kuuldes käskjalgade kutset, tulin joostes linna kõige kaugemast otsast.",
+    "Ma ütlesin oma rahvale: „Oo, mu rahvas, järgige sõnumitoojaid! Jälgige neid, kes teilt tasu ei küsi, sest nemad on õigesti juhatatud.“",
+    "Ma ei olnud prohvet, aga ma uskusin sõnumitoojatesse ja innustasin oma rahvast sama tegema.",
+    "Mu rahvas pilkas mu nõu ja süüdistas mind ekstremismis.",
+    "Kui nad mind tapsid, käskis Allah mul paradiisi minna ja ma soovisin, et mu rahvas saaks teada mulle osaks saanud andestusest ja austusest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Mees linna kõige kaugemast osast (Ya-Sin)",
+        "Üks kolmest linna saadetud käskjalast",
+        "Linna silmapaistev kaupmees",
+        "Linna valitseja",
+        "Uskmatute juht"
+      ],
+      "answer": "Mees linna kõige kaugemast osast (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Jutlustades oma rahvale, et nad järgiksid sõnumitoojaid",
+        "Laeva ehitamine usklike päästmiseks üleujutuse eest",
+        "Usu pärast tulle visatud",
+        "Vaala allaneelamine",
+        "Kuningriigi ja tarkuse saamine"
+      ],
+      "answer": "Jutlustades oma rahvale, et nad järgiksid sõnumitoojaid"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Linna kõige kaugemal osal",
+        "Laev",
+        "Kaev",
+        "Põlev põõsas",
+        "Koobas"
+      ],
+      "answer": "Linna kõige kaugemal osal"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sisenes paradiisi ja soovis, et ta rahvas saaks teada tema andestust",
+        "Uppus koos oma rahvaga sõnumi tagasilükkamise pärast",
+        "Sai imekombel emase kaameli",
+        "Pärast kohtuprotsessi sai valitsejaks",
+        "Allah päästis ta ja jäi oma rahva juurde"
+      ],
+      "answer": "Sisenes paradiisi ja soovis, et ta rahvas saaks teada tema andestust"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Daglary gozgan melodiýa",
+  "intro": "Siz Allanyň ajaýyp bir bendesiniň hekaýasyny açmaga taýýarlanýarsyňyz. Elçileriň we hökümdarlaryň ýurdunda bu şahsyýete ylahy kitap, güýçli ses we demirden güýç berildi. Işaräleri okaýarkaňyz, munuň kim bolup biljekdigini anyklap bilersiňizmi?",
+  "clues": [
+    "Men Allanyň bir bendesidim, oňa aýratyn kitap berildi.",
+    "Meniň owadan sesim bardy we öwgülerim şeýle bir söýülýärdi welin, hatda daglar we guşlar hem maňa goşulýardy.",
+    "Meşhur söweşde güýçli garşydaş bilen ýüzbe-ýüz boldum we kiçiräk bolsam-da, ýeňdim.",
+    "Demir maňa ýumşak edilip ýasaldy, bu bolsa maňa öz elim bilen sowut ýasamaga mümkinçilik berdi.",
+    "Men uly bir milletiň hökümdary boldum we meniň paýhaslylygym meşhur boldy.",
+    "Meniň oglum, ol hem pygamber, ýele we jynlara gözegçilik etmek hukugyna eýe boldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Dawut pygamber (Dawud)",
+        "Süleýman pygamber (Süleýman)",
+        "Musa pygamber (Musa)",
+        "Harun pygamber (Harun)",
+        "Ylýas pygamber (Ilýas)"
+      ],
+      "answer": "Dawut pygamber (Dawud)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ýeňilen Goliat (Jalut)",
+        "Deňzi iki böldi",
+        "Kitden diri galdy",
+        "Oda taşlandy",
+        "Gämi gurdy"
+      ],
+      "answer": "Ýeňilen Goliat (Jalut)"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Zebur (Zebur)",
+        "Töwrat (Töwrat)",
+        "Hoş Habar (Injil)",
+        "Ybraýymyň ýazgylary",
+        "Gurhan"
+      ],
+      "answer": "Zebur (Zebur)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ysraýylyň pygamberi we patyşasy boldy",
+        "Müsüriň hökümdary boldy",
+        "Göklere göterildi",
+        "Tupandan weýran boldy",
+        "Gowagyň ýoldaşy boldy"
+      ],
+      "answer": "Ysraýylyň pygamberi we patyşasy boldy"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

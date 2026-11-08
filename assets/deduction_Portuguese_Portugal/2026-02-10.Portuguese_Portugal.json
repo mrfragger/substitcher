@@ -1,0 +1,60 @@
+{
+  "title": "O Sono das Eras",
+  "intro": "Você está prestes a embarcar em uma jornada através do tempo, encontrando um profundo mistério de fé e poder divino. Imagine um grupo de indivíduos que desafiaram as normas de sua sociedade, apegando-se ao monoteísmo em um mundo de politeísmo. Sua história é um testemunho da capacidade de Alá de proteger Seus servos justos das maneiras mais extraordinárias. Você consegue desvendar a identidade dessas figuras notáveis?",
+  "clues": [
+    "Éramos um pequeno grupo de jovens que acreditavam em um só Deus, apesar do politeísmo generalizado em nosso povo.",
+    "Fugimos de um governante tirano que nos ameaçava por causa da nossa fé, temendo perseguição e morte.",
+    "Buscamos refúgio em um lugar isolado, na esperança da misericórdia de Alá e de sua proteção contra nossos opressores.",
+    "Nosso Senhor nos fez cair num sono profundo, um sono milagroso que desafiou a passagem do tempo.",
+    "Ao acordarmos, acreditávamos que tínhamos descansado apenas um dia ou parte de um dia, sem perceber o vasto período que realmente havia transcorrido.",
+    "O Alcorão menciona que permanecemos em nosso estado por trezentos anos, e esse período foi superado em nove, tornando-nos um sinal para a humanidade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O Povo da Valeta",
+        "O povo de Thamud",
+        "O Povo da Caverna",
+        "O povo de Madyan",
+        "Os Companheiros do Elefante"
+      ],
+      "answer": "O Povo da Caverna"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Diante de uma grande inundação",
+        "Sendo engolido pela terra",
+        "O longo sono milagroso",
+        "A destruição da cidade deles.",
+        "A divisão do mar"
+      ],
+      "answer": "O longo sono milagroso"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma sarça ardente",
+        "Uma montanha",
+        "Um barco",
+        "Uma caverna",
+        "Um poço"
+      ],
+      "answer": "Uma caverna"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Eles receberam imensa riqueza e poder.",
+        "Eles foram transformados em macacos e porcos.",
+        "Eles foram despertados do sono como um sinal profundo.",
+        "Eles foram afogados em um grande dilúvio.",
+        "Eles construíram um reino magnífico."
+      ],
+      "answer": "Eles foram despertados do sono como um sinal profundo."
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kiến trúc sư của tham vọng hão huyền",
+  "intro": "Một nhân vật có quyền lực tối cao từng phục vụ một trong những bạo chúa khét tiếng nhất lịch sử Ai Cập cổ đại. Người này được giao một mệnh lệnh táo bạo — xây dựng một công trình nhằm thách thức cả bầu trời. Câu chuyện của họ được ghi lại trong kinh Quran như một bài học sâu sắc về việc tuân phục mù quáng trước sự kiêu ngạo chỉ dẫn đến sự diệt vong.",
+  "clues": [
+    "Tôi từng phục vụ trong triều đình của một vị vua quyền lực, người tự xưng là thần thánh cai quản vùng đất này.",
+    "Tôi từng giữ một chức vụ bộ trưởng cao cấp, cố vấn cho bạo chúa ngạo mạn nhất thời bấy giờ.",
+    "Vị vua của tôi mải mê thách thức Đức Chúa Trời của Môi-se, Đấng mà họ từ chối thừa nhận.",
+    "Tôi được lệnh xây một tòa tháp bằng gạch nung để người cai trị của tôi có thể lên thiên đường.",
+    "Ngọn tháp ấy chẳng bao giờ vươn tới bầu trời, và sự phục tùng của tôi đối với lòng kiêu ngạo đã mang lại cho tôi nỗi ô nhục muôn đời.",
+    "Tôi đã chết cùng với người mà tôi đi theo, và tên tuổi của tôi trở thành lời cảnh tỉnh vĩnh cửu chống lại những kẻ tiếp tay cho bạo chúa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Haman",
+        "Azar (cha của Ibrahim)",
+        "Illyas (một nhà tiên tri)",
+        "Dhu al-Kifl",
+        "Harut (một trong hai thiên thần ở Babylon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Được lệnh xây dựng một công trình cao chót vót vươn tới trời.",
+        "Được yêu cầu giải mã một giấc mơ được gửi từ thần linh.",
+        "Bị ném vào ngọn lửa đang cháy như một thử thách đức tin",
+        "Bị buộc phải lựa chọn giữa ngai vàng và sự thật.",
+        "Bị thách đấu trong một cuộc thi phép thuật"
+      ],
+      "answer": "Được lệnh xây dựng một công trình cao chót vót vươn tới trời."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một tòa tháp bằng gạch nung.",
+        "Một cây gậy biến thành rắn",
+        "Một con tàu đang lênh đênh trên biển giữa trận đại hồng thủy.",
+        "Một khu vườn được bao quanh bởi những bức tường cao.",
+        "Một ngai vàng được trang hoàng bằng hồng ngọc và vàng."
+      ],
+      "answer": "Một tòa tháp bằng gạch nung."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Chết đuối cùng kẻ áp bức dưới biển.",
+        "Trở thành một vị vua hùng mạnh cai trị những vùng đất rộng lớn.",
+        "Thoát khỏi đám cháy dữ dội mà không hề hấn gì.",
+        "Xây dựng một vương quốc trí tuệ thịnh vượng",
+        "Đã đoàn tụ với gia đình sau nhiều năm lưu lạc."
+      ],
+      "answer": "Chết đuối cùng kẻ áp bức dưới biển."
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

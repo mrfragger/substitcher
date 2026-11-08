@@ -1,0 +1,61 @@
+{
+  "title": "A tüzes ellenség",
+  "intro": "A kinyilatkoztatás korai napjaiban egy alak bukkant fel az igazság makacs ellenzőjeként. A gazdagsággal és státusszal megáldott lélek a büszkeséget választotta az útmutatás helyett, és történetük komoly figyelmeztetéssé vált egy szúra utolsó verseiben.",
+  "clues": [
+    "Ugyanabban a városban éltem, mint a Próféta, és a legközelebbi rokonai közé tartoztam, mégis a büszkeségem távol tartott az igazságtól.",
+    "Nagy vagyonnal és számos ingatlannal rendelkeztem, és azt hittem, hogy a forrásaim mindig megvédenek majd.",
+    "Amikor az üzenet kinyilatkoztatott, nyíltan kigúnyoltam, és elfordultam tőle, mivel a hívőknél különbnek tartottam magam.",
+    "Az ellenségeskedésem annyira közismert volt, hogy a Korán egyik szúrája közvetlenül hozzám szólt, azon a néven szólítva, amelyiken mások ismertek.",
+    "Figyelmeztettek, hogy a vagyonom és a keresetem nem fog hasznomra válni, és lángoló tűzbe vetnek.",
+    "Engem a láng atyjaként ismernek, a feleségem pedig pálmaszálból készült kötéllel a nyakában viszi majd a tűzifát."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Abu Laháb",
+        "Abu Dzsahl",
+        "Abu Szufjan",
+        "Al-Walid ibn al-Mughira",
+        "Al-Asz ibn Veil"
+      ],
+      "answer": "Abu Laháb"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Elutasította az iszlámot és nyíltan szembeszállt a Prófétával",
+        "A Próféta meggyilkolását tervezték",
+        "Társadalmi bojkottot vezetett a muszlimok ellen",
+        "Harcolt a badri csatában",
+        "A megkínzott Bilal ibn Rabah"
+      ],
+      "answer": "Elutasította az iszlámot és nyíltan szembeszállt a Prófétával"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Pálmarostból készült kötél",
+        "Egy éles kard",
+        "Egy nehéz lánc",
+        "Egy fa személyzet",
+        "Egy bőr ostor"
+      ],
+      "answer": "Pálmarostból készült kötél"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Lángoló tűzben fog égni",
+        "Megbánta és társ lett",
+        "Elvesztette vagyonát, de tisztelettel halt meg",
+        "Abesszíniába menekült",
+        "Megfulladt a tengerben"
+      ],
+      "answer": "Lángoló tűzben fog égni"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

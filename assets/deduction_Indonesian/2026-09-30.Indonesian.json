@@ -1,0 +1,61 @@
+{
+  "title": "Pasien Satu",
+  "intro": "Dahulu kala, di masa-masa awal sejarah manusia, dua jiwa berdiri di hadapan Sang Pencipta dengan persembahan. Satu diterima, satu tidak. Apa yang terjadi selanjutnya akan menjadi tragedi besar pertama antara saudara kandung - satu tindakan pengendalian diri yang sabar dan satu tindakan pembalasan dendam yang pahit. Dapatkah kau mengungkap siapa aku?",
+  "clues": [
+    "Saya lahir pada masa-masa awal keberadaan manusia di bumi.",
+    "Aku adalah anak dari pasangan manusia pertama yang pernah berjalan di bumi ini.",
+    "Suatu ketika aku mempersembahkan kurban dari kawanan terbaikku untuk menyenangkan Penciptaku.",
+    "Persembahanku diterima dari atas, sedangkan persembahan saudaraku ditolak.",
+    "Ketika diancam akan dibunuh, saya memilih untuk tidak mengangkat tangan saya terhadap saudara kandung saya.",
+    "Saya menjadi orang pertama dalam sejarah umat manusia yang dibunuh secara tidak adil oleh orang lain."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Habil (Abel), putra Adam",
+        "Qabil (Kain), putra Adam",
+        "Adam, manusia pertama",
+        "Nuh (Nuh)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), putra Adam"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Pembunuhan pertama dalam sejarah manusia",
+        "Banjir besar Nuh",
+        "Kehancuran pasukan Fir'awn",
+        "Pengorbanan Ismail oleh Ibrahim",
+        "Pertempuran melawan Jalut (Goliat)"
+      ],
+      "answer": "Pembunuhan pertama dalam sejarah manusia"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Seekor domba dipersembahkan sebagai kurban yang menyenangkan.",
+        "Sebuah bahtera kayu besar",
+        "Tongkat yang berubah menjadi ular",
+        "Seekor burung hoopoe yang membawa pesan kerajaan.",
+        "Parit api yang berkobar"
+      ],
+      "answer": "Seekor domba dipersembahkan sebagai kurban yang menyenangkan."
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Menjadi korban pembunuhan pertama dalam sejarah manusia.",
+        "Bertahan hidup dari banjir besar di dalam sebuah kapal kayu.",
+        "Hidup di dalam perut ikan besar.",
+        "Berkuasa atas jin, manusia, dan angin.",
+        "Mengembara selama empat puluh tahun di padang belantara yang luas."
+      ],
+      "answer": "Menjadi korban pembunuhan pertama dalam sejarah manusia."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

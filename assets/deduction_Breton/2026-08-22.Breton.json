@@ -1,0 +1,61 @@
+{
+  "title": "Ar gêr a grede en amzer",
+  "intro": "E-barzh annaloù ar c'hras doueel ez eus ur gumuniezh he deus bet ur marevezh gwirvoud stroll he poent-treiñ. Emaoc'h o vont da zizoloiñ o istor — un istor a evezhiadennoù, a geuzidigezh hag a zilez a lakae anezho da vezañ disheñvel diouzh tonkadur ar broadoù all.",
+  "clues": [
+    "Ur bobl e oamp da behini e veze kaset ur c'hannad, ha distreiñ a reomp diouzh e c'halv da gentañ.",
+    "Pa voe sklaer ar sinoù eus ar c'hastiz o tont, e komprenomp gwirvoud e evezhiadenn.",
+    "Distreiñ a reomp ouzh hon Aotrou gant keuz gwirion, hag hon feiz a voe degemeret.",
+    "Ar c’hastiz a oa bet gourc’hemennet warnomp a oa lezet a-gostez abalamour d’hor c’hredenn.",
+    "Hon istor a zo meneget evel un disterañ e-touez ar c'hêrioù a gredas goude bezañ gwelet ar c'hastiz.",
+    "Pobl ar profed a oa bet lonket gant ar balum e oamp, koulskoude e oamp bet saveteet diouzh an distruj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Tud Yunus",
+        "Tud Nuh",
+        "Tud Hud",
+        "Tud Salih",
+        "Pobl Lut"
+      ],
+      "answer": "Tud Yunus"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Un dour-beuz spontus",
+        "Ur barr-avel kreñv",
+        "Ur c'hastiz a zismegañs a oa tost hag a oa bet diwallet",
+        "An douar o lonkañ anezho",
+        "Ur glav mein"
+      ],
+      "answer": "Ur c'hastiz a zismegañs a oa tost hag a oa bet diwallet"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "An arc'h",
+        "Ar c'hañvalez",
+        "Ur gêr a gant mil",
+        "Stajidi Musa",
+        "Hoard Qarun"
+      ],
+      "answer": "Ur gêr a gant mil"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Distrujet e voent penn-da-benn",
+        "Plijadur a voe roet dezho e-pad ur pennadig",
+        "Treuzfurmet e voent e marmouzed",
+        "Beuzet e voent",
+        "Lonket e voent gant an douar"
+      ],
+      "answer": "Plijadur a voe roet dezho e-pad ur pennadig"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Voz das Aforas",
+  "intro": "Estás nunha cidade onde tres mensaxeiros chegaron con sinais claros, pero a xente búrlase deles e aférrase aos seus vellos costumes. Dende a parte máis afastada da cidade, unha figura corre cara á multitude, sen alento e decidida, a dicir a verdade ante o rexeitamento. Quen é esta alma que arriscou todo por unha mensaxe que non era a súa?",
+  "clues": [
+    "Vivín entre un pobo que recibira mensaxeiros con sinais claros, pero se apartaron con arrogancia.",
+    "Viña correndo dende a parte máis afastada da cidade cando oín a chamada dos mensaxeiros.",
+    "Díxenlle ao meu pobo: «Pobo meu, seguide os mensaxeiros. Seguide aqueles que non vos piden recompensa, porque están ben guiados».",
+    "Eu non era un profeta, pero cría nos mensaxeiros e instaba ao meu pobo a facer o mesmo.",
+    "A miña xente burlouse dos meus consellos e acusóume de ser extremista.",
+    "Cando me mataron, Alá díxome que entrase no Paraíso, e eu desexei que o meu pobo puidese coñecer o perdón e a honra que recibín."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "O home da parte máis afastada da cidade (Ya-Sin)",
+        "Un dos tres mensaxeiros enviados á cidade",
+        "Un comerciante destacado da cidade",
+        "Un gobernante da cidade",
+        "O líder dos incrédulos"
+      ],
+      "answer": "O home da parte máis afastada da cidade (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Predicando ao seu pobo para que seguise os mensaxeiros",
+        "Construíndo un barco para salvar aos crentes dun diluvio",
+        "Ser lanzado ao lume pola fe",
+        "Ser tragado por unha balea",
+        "Recibir un reino e sabedoría"
+      ],
+      "answer": "Predicando ao seu pobo para que seguise os mensaxeiros"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A parte máis afastada da cidade",
+        "A arca",
+        "O pozo",
+        "A sarza ardente",
+        "A cova"
+      ],
+      "answer": "A parte máis afastada da cidade"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Entrou no Paraíso e desexou que o seu pobo coñecese o seu perdón",
+        "Afogado co seu pobo por rexeitar a mensaxe",
+        "Déronlle un milagre da camelo",
+        "Converteuse en gobernante despois do seu xuízo",
+        "Foi salvado por Alá e permaneceu co seu pobo"
+      ],
+      "answer": "Entrou no Paraíso e desexou que o seu pobo coñecese o seu perdón"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

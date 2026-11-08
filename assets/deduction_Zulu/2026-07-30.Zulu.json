@@ -1,0 +1,61 @@
+{
+  "title": "Izivakashi Ezingavamile Zomuzi Obiyelwe Ngodonga",
+  "intro": "Iqembu lafika emasangweni omuzi abantu bawo ababengakaze balazi iqiniso. Baletha umyalezo, kodwa izakhamuzi zaphenduka ubutha, zisongela ubudlova. Kodwa, endaweni engalindelekile, kwaphakama izwi elilodwa ukuvikela abantu abangabazi, lalungiselela isisekelo soshintsho olukhulu lwezehlakalo.",
+  "clues": [
+    "Sangena edolobheni elalinabantu abagcwele ukungakholwa.",
+    "Basibheka ngokusola bathi, 'Niyizidalwa ezivamile nje njengathi.'",
+    "Sibaxwayisile, kodwa basiphakamisela amatshe.",
+    "Indoda ethile yagijima isuka ekugcineni komuzi ukuzoqinisekisa iqiniso lethu.",
+    "Wamemezela kubantu bakhe, 'Kungani ngingamkhulekeli Lowo owangidala?'",
+    "Ukuphika komuzi kwaphela ngokuqhuma okukodwa, kwathula lapho babehleka khona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Izithunywa zikaYa-Sin",
+        "Abafundi baka-Isa",
+        "Abantu Bomsele",
+        "Izazi ZikaFaro",
+        "Ikholwa likaYa-Sin"
+      ],
+      "answer": "Izithunywa zikaYa-Sin"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukwenqatshwa kanye nosongo lokukhandwa ngamatshe",
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukuhlolwa kokubekezela ngengane elahlekile",
+        "Ingadi eyabhujiswa",
+        "Uhambo oludabula ulwandle"
+      ],
+      "answer": "Ukwenqatshwa kanye nosongo lokukhandwa ngamatshe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ukuphela okude kakhulu komuzi",
+        "ULwandle Olubomvu",
+        "Umsele womlilo",
+        "Umhume wokuphephela",
+        "Ijele laseGibhithe"
+      ],
+      "answer": "Ukuphela okude kakhulu komuzi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Umuzi wabhujiswa ngokumemeza okukodwa",
+        "Ulwandle lwahlukana futhi lwaminza ibutho",
+        "Umlilo waphola futhi waphephile",
+        "Insimu yashiswa ngumlilo wasezulwini",
+        "Umkhomo wambuyisela umuntu ogwini"
+      ],
+      "answer": "Umuzi wabhujiswa ngokumemeza okukodwa"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

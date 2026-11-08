@@ -1,0 +1,61 @@
+{
+  "title": "Ol’aantummaa Qilleensaa fi Abiddaa",
+  "intro": "Mee bulchiinsa qilleensi mataan isaa bulchaa tokkoof deebii itti kenne, sagalee uumamtoota xixiqqoo ulfaatina itti baataniifi humnoonni ija idileetiin hin mul’anne of eeggannoodhaan tajaajila akka kennan yaadi. Fakkiin kun mootummaa adda ta’e nama isa duraa jaallatamaa irraa dhaale, elementoota fi jinniiwwan irratti aangoo qaba ture. Garuu aangoo guddaan qormaata guddaa wajjin dhufe — yeroon dhumaa immoo waa’ee maalummaa jireenyaa fi du’a mataa isaa waan nama ajaa’ibu mul’isa.",
+  "clues": [
+    "Warra jaallatamaa ta’ee fi nabiyyii fi gabricha Rabbiis ta’e irraa mootummaa guddaa dhaale.",
+    "Rabbiin qilleensa irratti aangoo naaf kenne, ergama imala ji'a tokkoo ganama tokkotti erga.",
+    "Uumamtoonni xixiqqoo taʼanillee waaʼee itti dhihaadhu ni dubbatu, ani immoo dammaqina isaanii dinqisiifachuuf xiqqoo dhaabadheen ture.",
+    "Waraana bal’aa jinniiwwan, namaa fi simbirroota, hundi isaanii sadarkaa sirnaan na duratti qindaa’an ajaje.",
+    "Bulchaan fagoo jiru tokko qormaata ulfaataa na qoruuf dhufe, daawwataan sun teessoo irraa illee osoo hin ka’iin teessoo bulchaa sanaa gara mana murtii kootti akka fidu nan godhe.",
+    "Ulee irratti hirkatee hanga uumamni xiqqaan lafaa tokko isa keessaa ciniinuutti dhaabadhee hafe — sana booda qofa warri naannoo koo jiran akkan darbe hubatan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Suleeymaan (Solomon) .",
+        "Nabi Daawud (Dawit) .",
+        "Nabi Isaa (Yesuus) .",
+        "Nabi Muhammad صلى الله عليه وسلم",
+        "Nabi Muusaa (Musee) ."
+      ],
+      "answer": "Nabi Suleeymaan (Solomon) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Teessoo mootittii fagoo karaa uumamaa ol ta'een fiduu",
+        "Ijoollummaatti boolla gadi fagootti gadi bu'uu",
+        "Falfaltoota abbaa irree mallattoo dinqiitiin wal dura dhaabbachuu",
+        "Kabaja haadha tokko ittisuuf siree irraa dubbachuu",
+        "Caqasa isa dhumaa mul’ate gaara qulqulluu irratti fudhachuu"
+      ],
+      "answer": "Teessoo mootittii fagoo karaa uumamaa ol ta'een fiduu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Ulee mukaa tokko termite tokkoon keessaa ciniiname",
+        "Doonii guddaa lolaa addunyaa maraa yaabbatee ba’uuf ijaarame",
+        "Ulee abbaa irree duratti gara bofaatti jijjiirame",
+        "Huccuu namoota jaamaa fayyisuuf itti fayyadaman",
+        "Holqa qulqulluu mul’anni jalqaba itti argame"
+      ],
+      "answer": "Ulee mukaa tokko termite tokkoon keessaa ciniiname"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Bulchaan kabajamaan daawwannaa tokko mallattoo erga argeen booda amantii fudhate",
+        "Bishaan badiisaa guddaan amantoota doonii irra jiran malee hunda balleesse",
+        "Fara’oon tokkoo fi waraanni isaa galaana keessatti badaniiru",
+        "Hiriyaan qajeelaan tokko gara samiitti ol kaafame",
+        "Mootiin gabroomfataa fi magaalaan isaa garagalfamee barbadaa’e"
+      ],
+      "answer": "Bulchaan kabajamaan daawwannaa tokko mallattoo erga argeen booda amantii fudhate"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

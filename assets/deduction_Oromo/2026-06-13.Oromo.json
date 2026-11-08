@@ -1,0 +1,61 @@
+{
+  "title": "Warra Dhugaa Makkaa",
+  "intro": "Bara jalqaba mul’ataatti, yeroo ergaan dhugaa mormii cimaa isa mudatu, lubbuuwwan tokko tokko amantii isaanii keessatti osoo hin raafamne dhaabbatan. Amantoonni kun warra ifa amantii dhaamsuuf barbaadan irraa gara jabummaa hin yaadamne isaan mudate. Gidiraan isaanii cimaa ture, gidiraan isaanii guddaa ture-ta’us arrabni isaanii Tokkummaa Rabbii labsuu hin dhiisne. Gad fageenya abdii kutannaa keessa yeroo gataman illee eegumsi waaqummaa isaan marsee, qormaata isaanii gara kakuu amantii bara baraatti jijjiire. Mee imala lubbuuwwan dinqisiisoo kanaa haa qorannu.",
+  "clues": [
+    "Amantii Waaqa Tokkicha irratti qabnu dhiisuu diduu keenyaaf adabbii cimaan qoramne",
+    "Ummanni keenya gara jabummaan isaa hangam kalaqa haa ta'u murtoo keenya cabsuu hin dandeenye",
+    "Guyyaa boolla bishaanii irraa fannifamne, taʼus gargaarsi Waaqayyoo yeroo hunda dhihoo ture",
+    "Jabaachuun keenya namoota obsa keenya argan illee ajaaʼibsiiseera",
+    "Makkaa keessa jiran hedduun dirqiin akka ofirraa deebisnu nu gochuu barbaadan, nuti garuu murtoo keenya itti fufne",
+    "Yeroo hunduu bade fakkaatutti bilisummaan keenya dinqiidhaan gidduu seenuun waaqa dhufe"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Bilaal al-Habashii",
+        "Ammaar ibnu Yaasir",
+        "Miqdaad ibnu al-Aswaad jedhamuun beekama",
+        "Khabbab ibnu al-Aratt jedhamuun beekama",
+        "Salmaan al-Farsi"
+      ],
+      "answer": "Bilaal al-Habashii"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Lola Nabiyyii irratti",
+        "Waaqolii tolfamoo waaqeffachuu diduudhaan ari’atama",
+        "Taatee ibiddaa ilaalchisee qormaata amantii",
+        "Yaaliin imala halkan addaan ba'e",
+        "Qormaata badiisa iddoo biqiltuu sanaa"
+      ],
+      "answer": "Waaqolii tolfamoo waaqeffachuu diduudhaan ari’atama"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Gaara Uhud",
+        "Bakka qulqulluu Kaabaa",
+        "Boolla Abuu Sufyaan",
+        "Masaraa Qureeyshii",
+        "Magaalaa Madiinaa"
+      ],
+      "answer": "Boolla Abuu Sufyaan"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Lola guddaa keessatti injifannoo",
+        "Bilisummaa karaa gidduu seensaa waaqaatiin",
+        "Karaa Rabbii irratti wareegamuu",
+        "Kallattiin gara jannataatti fudhatama argachuu",
+        "Godaannisa gara lafa eebbifamtuutti"
+      ],
+      "answer": "Bilisummaa karaa gidduu seensaa waaqaatiin"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

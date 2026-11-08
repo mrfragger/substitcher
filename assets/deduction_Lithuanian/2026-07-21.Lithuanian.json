@@ -1,0 +1,61 @@
+{
+  "title": "Gausaus derliaus prakeiksmas",
+  "intro": "Senovės žemėje viena siela buvo viena turtingiausių savo bendruomenės narių. Jiems dvigubai daugiau žemės palaiminimų teko iš eilės metais – dvigubas derlius, kuris turėjo pripildyti jų širdis dėkingumo. Tačiau kai ištiko tragedija ir per vieną naktį buvo atimta viskas, ką jie turėjo, jų reakcija atskleidė tikrąją jų sielos prigimtį. Ar galite atskleisti šios asmenybės, kurios istorija tarnauja kaip įspėjimas netikėti Alacho palaiminimais, tapatybę?",
+  "clues": [
+    "Buvau viena laimingiausių sielų visoje šalyje, palaiminta gausiais ištekliais.",
+    "Per dvejus metus du kartus nuėmiau derlių, tačiau mano širdis liko nedėkinga Viešpačiui.",
+    "Turėjau didelį sodą su vynmedžiais, alyvmedžiais ir palmėmis – Alacho palankumo įrodymu.",
+    "Kai mano sodas buvo sunaikintas, aš stovėjau jo griuvėsiuose, ištiesęs rankas į dangų, keikdamas savo likimą.",
+    "Net ir iš nevilties traiškydamas delnus, neigiau, kad Alachas galėjo sukelti tokią netektį.",
+    "Mano bausmė buvo ne tik sodo praradimas, bet ir visiškas bejėgiškumas jo griuvėsiuose, negalintis prisišaukti jokio pagalbininko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Sodo savininkas iš Suros 26",
+        "Dviejų sodų savininkas iš tolimo krašto",
+        "Turtinga siela iš klestėjimo miesto",
+        "Surah Al-Kahf minimas ūkininkas",
+        "Vynuogyno prižiūrėtojas nuo pranašo Šuaibo laikų"
+      ],
+      "answer": "Sodo savininkas iš Suros 26"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Per vieną naktį sunaikinto sodo praradimas",
+        "Didysis potvynis, užliejęs žemę",
+        "Išbandomas su tikraisiais ir netikrais pranašais",
+        "Įmetimo į ugnį išbandymas",
+        "Išbandymas būti prarytam žemės"
+      ],
+      "answer": "Per vieną naktį sunaikinto sodo praradimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Sodas su vynmedžiais, alyvmedžiais ir palmėmis, sunaikintas per dvejus metus",
+        "Laivas, pastatytas ant aukšto kalno",
+        "Nusikaltusios tautos miestas",
+        "Šulinys senovės Midjane",
+        "Rojaus upė"
+      ],
+      "answer": "Sodas su vynmedžiais, alyvmedžiais ir palmėmis, sunaikintas per dvejus metus"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Visiškas bejėgiškumas – sunaikintas be jokio pagalbininko",
+        "Prisikėlimas, kad patektų į rojų",
+        "Tapimas Alacho pranašu",
+        "Didžiosios tautos vadovavimas",
+        "Amžina bausmė ugnyje"
+      ],
+      "answer": "Visiškas bejėgiškumas – sunaikintas be jokio pagalbininko"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

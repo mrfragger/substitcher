@@ -1,0 +1,61 @@
+{
+  "title": "Impedimentum in Domo Antiqua",
+  "intro": "In sacra urbe, persona potens ira fervebat, novo nuntio diffundi incipiente. Hic homo, cuius nomen cum oppositione ad veritatem factum est synonymum, vim suam sub pondere divinae revelationis corruere observabat. Quis erat haec anima, cuius fatum in arena clari campi proelii signatum erat?",
+  "clues": [
+    "Princeps eram inter populum meum, divitiis et auctoritate notus in urbe quae antiquum sanctuarium continebat.",
+    "Cum vir quidam e tribu mea nuntium unius Dei praedicare coepisset, eum eiusque revelationes derisi, eas meras fabulas praeteritarum appellans.",
+    "Virum illum, dum prope sacram aedificium precabatur, adgressus sum, minatus me, si opus esset, cultum eius vi intercludere.",
+    "Inter duces fui qui novam fidem silentium opprimere coniuraverunt, eius sectatoribus et verbis et armis oppugnans.",
+    "Cum exercitu ad locum nomine Badr iter feci, confidens nos parvam credentium manum oppressuros esse.",
+    "Sed in illo campo proelii, vita mea finem cepit, et mors mea documenta facta est iis qui post manifesta signa in incredulitate perseverant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Prohibendo Prophetam ne ad Kaaba precatur",
+        "Aedificatio Kaabae",
+        "Scribendo Coranum",
+        "Ducens exercitum elephantorum",
+        "Lunam findens"
+      ],
+      "answer": "Prohibendo Prophetam ne ad Kaaba precatur"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Kaaba",
+        "Arca Prophetae Noah",
+        "Baculus Prophetae Musae",
+        "Vitulus Aureus",
+        "Thronus Reginae Sabae"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Interfectus in proelio Badr",
+        "Paenituit et Musulmanus factus est",
+        "Fugit in Abyssiniam",
+        "Mortuus est Anno Elephantis",
+        "Socius Prophetae factus est"
+      ],
+      "answer": "Interfectus in proelio Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

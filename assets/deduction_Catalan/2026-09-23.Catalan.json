@@ -1,0 +1,61 @@
+{
+  "title": "La trucada que va resistir les edats",
+  "intro": "Imagineu-vos una ànima que s'enfrontava sola a tota una civilització, decidida a guiar-la i allunyar-la del desguit amb una resolució inquebrantable. Durant segles, el missatge va ser rebutjat, burlat i descartat, però l'esforç mai va cessar. Finalment, va arribar un gran judici final, i només uns quants van embarcar a la salvació al costat d'aquesta ànima ferma. Podeu identificar aquesta figura de l'Alcorà?",
+  "clues": [
+    "Vaig ser enviat com a advertidor a un poble perdut pels seus propis camins.",
+    "Els vaig convidar a demanar perdó i a tornar enrere dels seus errors, però es van allunyar.",
+    "Sota ordre divina, vaig construir una nau enorme mentre el meu poble em mirava i em ridiculitzava.",
+    "Vaig invocar el meu Senyor sense parar; finalment, Ell va respondre, i l'aigua va vessar del cel a torrents.",
+    "Vaig pujar a bord del vaixell amb els que havien cregut quan les aigües del diluvi van pujar per sobre de la terra.",
+    "Vaig cridar a un que s'havia quedat, demanant-li que es refugiés en una muntanya, però el decret ja havia estat promulgat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Ibrahim",
+        "Profeta Musa",
+        "Profeta Hud",
+        "Profeta Salih"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Construint una gran arca i sobrevivent a un diluvi mundial",
+        "Ser llançat a un foc ardent",
+        "Enfrontant-se a un tirà i els seus poderosos mags",
+        "Ser engolit per un gran peix",
+        "Presenciant la matança d'una camella sagrada"
+      ],
+      "answer": "Construint una gran arca i sobrevivent a un diluvi mundial"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una arca de fusta enorme sobre les aigües inundables",
+        "Una vall sagrada amb antigues ruïnes de pedra",
+        "Una cova profunda on els companys dormien durant segles",
+        "El ventre d'una balena gegant a les profunditats de l'oceà",
+        "Una imponent muntanya de pedra al desert"
+      ],
+      "answer": "Una arca de fusta enorme sobre les aigües inundables"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Salvat amb els creients a bord del vaixell",
+        "Rescat il·lès del foc per ordre divina",
+        "Va liderar un gran èxode fora d'un poderós regne",
+        "Llançat del peix a una riba àrida",
+        "Va allunyar la gent de la maldat mitjançant un senyal miraculós"
+      ],
+      "answer": "Salvat amb els creients a bord del vaixell"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Is-Sottomissjoni l-Kbira tas-Sovran",
+  "intro": "Issib ruħek f'art ta' għeġubijiet antiki u rivelazzjoni profonda. Mexxejja qawwija, iffaċċjata b'stedina mhux mistennija, bdiet vjaġġ li kien se jbiddel id-destin tagħha u l-fidi tal-poplu tagħha. Tista' tiskopri l-identità ta' din il-figura maestuża?",
+  "clues": [
+    "Jiena ħkemt fuq saltna prospera, imżejna b'ġid immens u tron ​​​​magnifika.",
+    "Jiena u n-nies tiegħi konna nqimu ġisem ċelestjali, billi nemmnu li kien sidna, għalkemm kelli dubji f’qalbi.",
+    "Messaġġier partikolari, għasfur, wassalni ittra, li sejħilni u lill-poplu tiegħi għas-sottomissjoni lejn Alla l-Wieħed.",
+    "Ikkonsultajt mal-konsulenti tiegħi, li kienu qawwija fis-saħħa, dwar kif nirrispondu għal dan il-messaġġ bla preċedent.",
+    "Iddeċidejt li nibgħat rigal prezzjuż lil min bagħat l-ittra, bit-tama li nkejjel il-poter u l-intenzjonijiet tiegħu.",
+    "Mal-wasla tiegħi, bqajt mistagħġeb b’palazz b’art magħmula mill-ħġieġ, li dehret bħal għadira ilma, u kien dak il-ħin li ddikjarajt is-sottomissjoni tiegħi lejn il-Mulej tal-ħolqien kollu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Fargħun",
+        "Reġina ta' Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Profeta Yusuf"
+      ],
+      "answer": "Reġina ta' Saba"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Il-qsim tal-baħar",
+        "L-għargħar kbir",
+        "Il-vjaġġ biex niltaqa’ mal-Profeta Sulayman",
+        "Il-qerda tan-nies ta’ Lut",
+        "Il-ħruq tal-Profeta Ibrahim"
+      ],
+      "answer": "Il-vjaġġ biex niltaqa’ mal-Profeta Sulayman"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka",
+        "L-Istaff",
+        "It-Tron",
+        "Il-Muntanja",
+        "In-Nar"
+      ],
+      "answer": "It-Tron"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Sar profeta",
+        "Ġie meqrud minn Alla",
+        "Ħaddan l-Islam",
+        "Wasslet lin-nies tagħha għall-gwerra",
+        "Bnew tempju grandjuż"
+      ],
+      "answer": "Ħaddan l-Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

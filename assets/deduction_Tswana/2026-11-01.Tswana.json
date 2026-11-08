@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe le le Ganeng go Itlhoboga",
+  "intro": "Kgato mo lelapeng le tatlhegelo e latelang tatlhegelo, le fa go ntse jalo lentswe le le lengwe le le ritibetseng le gana go itlhoboga. Pitso e le nngwe fela mo Qur’an e fetola bopelotelele go nna ntlha ya phetogo; a o ka kgona go latedisa dintlha tsa motho yo o neng a bua lentswe leo?",
+  "clues": [
+    "Ke ne ke le lentswe la bopelotelele mo teng ga lelapa le masego a neng a lekwa ke masetlapelo.",
+    "Ke ne ka sala mo lelapeng le le lolea ka ntlha ya go latlhegelwa ke khumo le bana.",
+    "Ke ne ke itse gore bolwetse le jone bo ne bo tlhasetse molekane yoo, yo mmele wa gagwe o neng o bogisiwa.",
+    "Fa tlalelo e nna maswe thata, ke ne ka bitsa ka go gakolola Allah.",
+    "Ke ne ka ntsha polelo e le nngwe: Allah ke Boammaaruri, ka jalo nna o le pelotelele.",
+    "Ke ne ka bitsa Ayyub ka leina; morago ga moo, Allah o ne a tlosa pogisego mme a tsosolosa lelapa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Mosadi wa ga Moporofeti Ayyub",
+        "Mosadi wa ga Moporofeti Nuh",
+        "Mosadi wa ga Moporofeti Ibrahim",
+        "Mosadi wa ga Moporofeti Ya'qub",
+        "Morwadia Faro"
+      ],
+      "answer": "Mosadi wa ga Moporofeti Ayyub"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go sala le Ayyub ka tatlhegelo le bolwetse, morago ga moo go bitsa bopelotelele .",
+        "Go tlhagisa morongwa yo o siameng gore a tlogele setšhaba se se bodileng",
+        "Go rapelela botsalo jwa losika lwa isago",
+        "Go ranola ditoro mo teng ga kgolegelo ya segosi",
+        "Go bona ngwana yo o tshepiwang fa thoko ga noka"
+      ],
+      "answer": "Go sala le Ayyub ka tatlhegelo le bolwetse, morago ga moo go bitsa bopelotelele ."
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Kgoeletso ya gore Allah ke Boammaaruri le bopelotelele bo a tlhokega",
+        "Setlhare sa mokolane fa thoko ga motswedi",
+        "Pitso ya go aga sekepe kgakala le makhubu",
+        "Toro ya dinaledi di le lesome le bongwe le letsatsi le le tlhabang",
+        "Seroto se se neng se rwalwa go bapa le Noka ya Nile"
+      ],
+      "answer": "Kgoeletso ya gore Allah ke Boammaaruri le bopelotelele bo a tlhokega"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Pogisego ya ga Ayyub e ne ya tlosiwa mme lelapa la gagwe la tsosolosiwa",
+        "Ngwana yo o sa bolong go letelwa o ne a newa morago ga thapelo ya moopa",
+        "Mmusi mongwe yo mmotlana o ne a ranola dingwaga di le supa tsa letlotlo le tlhaelo",
+        "Ngwana yo o neng a tshepilwe o ne a namolwa mo metsing a a elelang",
+        "Tlhagiso e ne ya tla pele ga morwalela o o senyang"
+      ],
+      "answer": "Pogisego ya ga Ayyub e ne ya tlosiwa mme lelapa la gagwe la tsosolosiwa"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

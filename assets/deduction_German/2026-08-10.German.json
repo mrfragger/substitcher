@@ -1,0 +1,61 @@
+{
+  "title": "Die Hüter der geheimen Ernte",
+  "intro": "In einem üppig grünen Land schmiedete eine Gruppe von Menschen im Schutze der Dunkelheit einen geheimen Plan. Sie verfolgten ein gemeinsames Ziel, doch ihre Absicht war alles andere als edel. Sie ahnten nicht, dass ihnen im Schlaf eine göttliche Wendung bevorstand.",
+  "clues": [
+    "Wir fassten einen festen Entschluss, da wir unseren Plan für makellos hielten.",
+    "Wir hatten vor, früh loszugehen, bevor die anderen überhaupt wach werden konnten.",
+    "Wir begaben uns auf ein fruchtbares Grundstück, zuversichtlich, was unsere Vorräte anging.",
+    "Als wir unser Ziel erreichten, fanden wir es karg und verlassen vor, sodass wir dachten, wir hätten uns verirrt.",
+    "Dann wurde uns klar, dass es tatsächlich unser Ort war, und wir schrien verzweifelt auf und gaben uns gegenseitig die Schuld an unserem Verlust.",
+    "Wir hatten an jenem Morgen geschworen, die Armen von unserer Ernte auszuschließen, doch Allahs Strafe traf uns im Schlaf und verwandelte unseren Garten in eine Ruine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Die Besitzer des Gartens in Sure 68",
+        "Die Menschen von Saba",
+        "Die Gefährten der Höhle",
+        "Das Volk des Elefanten",
+        "Die Menschen des Schützengrabens"
+      ],
+      "answer": "Die Besitzer des Gartens in Sure 68"
+    },
+    "trial": {
+      "label": "Unser Prozess",
+      "options": [
+        "Unser Garten wurde durch eine Katastrophe vom Himmel zerstört",
+        "Unser Garten wurde von einer Flutwelle überschwemmt.",
+        "Unser Garten wurde durch ein Feuer eines Feindes niedergebrannt.",
+        "Unser Garten war voller Heuschrecken.",
+        "Unser Garten wurde von einem Erdbeben verschluckt"
+      ],
+      "answer": "Unser Garten wurde durch eine Katastrophe vom Himmel zerstört"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Wir schworen, seine Früchte am Morgen zu pflücken.",
+        "Wir haben einen Damm gebaut, um unseren Garten zu bewässern.",
+        "Wir suchten in einer Höhle Zuflucht zum Schutz.",
+        "Wir stellten eine Armee auf, um ein Königreich zu erobern",
+        "Wir sind mit einem Schiff über das Meer gefahren."
+      ],
+      "answer": "Wir schworen, seine Früchte am Morgen zu pflücken."
+    },
+    "outcome": {
+      "label": "Unser Schicksal",
+      "options": [
+        "Wir bereuten und hofften auf Allahs Barmherzigkeit.",
+        "Wir wurden völlig zerstört und haben es nie bereut.",
+        "Wir flohen aus dem Land und kehrten nie zurück.",
+        "Wir wurden wieder mächtig und reich.",
+        "Wir wurden bestraft, indem man uns in Affen verwandelte."
+      ],
+      "answer": "Wir bereuten und hofften auf Allahs Barmherzigkeit."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

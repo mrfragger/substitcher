@@ -1,0 +1,61 @@
+{
+  "title": "Augšprātības arhitekts",
+  "intro": "Senā zemē, kuru pārvaldīja nepakļāvīga vara, kāda svarīga persona ieņēma ietekmīgu amatu. Šī dvēsele bija nozīmīga valdnieka grandiozajos plānos, veicinot viņa apspiedošo valdīšanu un apstrīdot dievišķo vēstījumu. Viņu mantojums ir savstarpēji saistīts ar tieksmi pēc pasaulīgas varas un patiesības noliegšanu.",
+  "clues": [
+    "Es kalpoju varenam valdniekam, kurš paaudžu paaudzēs apspieda tautu.",
+    "Mans vārds Dievišķajā Grāmatā bieži tiek pieminēts līdzās šim spēcīgajam vadītājam.",
+    "Man tika uzdots grandiozs celtniecības projekts, milzīga celtne, kurai bija paredzēts sasniegt debesis.",
+    "Es ieteicu savam kungam nogalināt Izraēla bērnu dēlus un saudzēt viņu meitas.",
+    "Es biju iesaistīts sazvērestībās un plānos pret varenu Allāha vēstnesi.",
+    "Mans gals kopā ar manu kungu un viņa armiju pienāca plašas jūras ūdeņos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Nimrods",
+        "Ābrahā",
+        "Goliāts",
+        "Iblis",
+        "Hamans"
+      ],
+      "answer": "Hamans"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pārbaudīts ar milzīgu bagātību",
+        "Vadot armiju pret svēto namu",
+        "Torņa celtniecība, lai sasniegtu Dievu",
+        "Tiek iemesti ugunī savas ticības dēļ",
+        "Brāļu un māsu iemetiens akā"
+      ],
+      "answer": "Torņa celtniecība, lai sasniegtu Dievu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Kalns",
+        "Tornis",
+        "Valis"
+      ],
+      "answer": "Tornis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Piešķirot milzīgu gudrību",
+        "Kļūstot par pravieti",
+        "Tikt norītai zemei",
+        "Saņemot karaļvalsti",
+        "Slīkšana jūrā"
+      ],
+      "answer": "Slīkšana jūrā"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

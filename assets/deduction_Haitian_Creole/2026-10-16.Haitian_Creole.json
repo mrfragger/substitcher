@@ -1,0 +1,61 @@
+{
+  "title": "Kominote ki te dezobeyi jou repo a",
+  "intro": "Antre nan yon koloni kotyè kote yon lòd diven te rezève yon jou pou adorasyon ak kontrent. Yon gwoup nan kominote sa a te chwazi teste limit lòd sa a ak yon plan rize, ki te mennen nan yon transfòmasyon ki t ap rezone pandan plizyè syèk. Ki moun ki te nanm sa yo, e kisa ki te vin rive yo?",
+  "clues": [
+    "Nou te rete toupre kòt la, kote lanmè a te bay nou mwayen pou nou viv.",
+    "Yo te kòmande nou pou nou onore yon jou nan semèn nan, pou nou mete l sou kote pou nou pa fè aktivite mond lan.",
+    "Jou sa a, pwason yo te vin jwenn nou an kantite, tankou si yo t ap tante nou pou nou vyole lòd la.",
+    "Nou te fè yon plan pou pran pwason yo nan pyèj nan lavèy jou sakre a, epi ranmase yo apre li fin pase.",
+    "Lè te gen kèk nan nou ki te avèti nou kont twonpri sa a, nou te inyore konsèy yo epi nou te pèsevere.",
+    "Akòz transgresyon nou an, yo te transfòme nou an makak, yo te meprize nou, yo te rejte nou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Moun Saba a",
+        "Moun nan Fose a",
+        "Moun nan bwa a",
+        "Moun Jaden an",
+        "Moun Elefan yo"
+      ],
+      "answer": "Moun Saba a"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Lapèch nan jou saba a",
+        "Bati yon gwo kay won byen wo",
+        "Touye yon chamo sakre",
+        "Yo te nye yon pwofèt yo te voye ba yo",
+        "Depasman pwa komès yo"
+      ],
+      "answer": "Lapèch nan jou saba a"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Lanmè a ak pwason li yo",
+        "Dife ki te vin fre a",
+        "Baton ki te tounen yon sèpan",
+        "Lach delivrans lan",
+        "Tablèt wòch yo"
+      ],
+      "answer": "Lanmè a ak pwason li yo"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Transfòme an makak",
+        "Latè vale l",
+        "Detwi pa yon gwo van",
+        "Nwaye nan lanmè a",
+        "Frape pa yon lapli wòch"
+      ],
+      "answer": "Transfòme an makak"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

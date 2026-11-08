@@ -1,0 +1,61 @@
+{
+  "title": "La veu veraç dels temps antics",
+  "intro": "Hi ha una ànima a l'Alcorà la història de la qual es narra en només uns quants versos, però les seves nobles qualitats brillen amb una claredat brillant. Lloat pel Totpoderós per una virtut especial, aquest antic servent del Més Misericordiós ocupa un lloc a les pàgines de la revelació. La teva tasca és identificar aquesta figura remarcable. Pots endevinar qui són?",
+  "clues": [
+    "Sóc un profeta d'Al·là que va viure entre les primeres generacions de la humanitat.",
+    "Al·là em va esmentar al Seu Llibre juntament amb altres profetes, tots lloats per la mateixa noble virtut.",
+    "A l'Alcorà em descriuen com un home de veritat.",
+    "Al·là em va elevar a una posició elevada que pocs altres han assolit.",
+    "El meu nom s'esmenta a la sura Al-Anbiya, juntament amb dos altres profetes lloats per la seva paciència.",
+    "Sóc Idris, el profeta veraç i elevat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Nuh",
+        "Profeta Ibrahim",
+        "Profeta Musa",
+        "Profeta Ismaïl"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Mantenint la paciència i la sinceritat, i després elevat a una posició elevada",
+        "Construint una gran arca per salvar els creients d'un diluvi devastador",
+        "Ser llançat a un foc ardent i sortir completament il·lès",
+        "Enfrontant-se a un poderós rei i derrotant el seu exèrcit de mags",
+        "Sobreviure dins del ventre d'un gran peix a les profunditats del mar"
+      ],
+      "answer": "Mantenint la paciència i la sinceritat, i després elevat a una posició elevada"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una posició elevada i exaltada per Al·là",
+        "Un vaixell enorme construït amb taulons i recobert de quitrà",
+        "Un foc furiós alimentat pels idòlatres d'un rei malvat",
+        "Un vast mar que es va dividir en camins secs",
+        "El ventre fosc d'una gran balena al fons de l'oceà"
+      ],
+      "answer": "Una posició elevada i exaltada per Al·là"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Admès a la misericòrdia d'Al·là com un dels justos",
+        "Salvats juntament amb tots els creients d'un diluvi mundial",
+        "Va sortir de les flames sense ser tocat pel foc",
+        "Va guiar els fills d'Israel sans i estalvis cap a la llibertat a través del mar",
+        "Retrobats amb la seva estimada família després de llargs anys de dificultats"
+      ],
+      "answer": "Admès a la misericòrdia d'Al·là com un dels justos"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

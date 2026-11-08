@@ -1,0 +1,61 @@
+{
+  "title": "Is-Supplikant tas-Santwarju",
+  "intro": "Fis-sigħat kwieti tal-lejl, ruħ devota sejħet lill-Aktar Ħanin ġewwa l-ħitan imqaddsa ta’ post sagru. Snin ta’ fidi u paċenzja sodi kienu se jiġu ppremjati b’miraklu li kien se jġib ferħ u wirt ta’ profetità.",
+  "clues": [
+    "Qattajt il-ġranet u l-iljieli tiegħi f’devozzjoni f’santwarju qaddis, nitlob kontinwament lill-Mulej tiegħi.",
+    "Jiena xjaħt, u marti kienet sterili, iżda qatt ma tlift it-tama fil-ħniena ta' Alla.",
+    "Ingħatajt iben, jismu Yahya, li sar profeta u fanal tat-tjieba.",
+    "Jiena stess kont profeta, mibgħut biex niggwida lil Ulied Iżrael.",
+    "Jiena kont dixxendent tal-Profeta Harun u qdejt bħala qassis fit-Tempju.",
+    "Ġejt fdat bil-kura ta’ Maryam, omm Isa, u rajt il-mirakli tagħha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Żakkarija",
+        "Profeta Yahya",
+        "Profeta Ilyas",
+        "Il-Profeta Ishaq",
+        "Il-Profeta Ya'qub"
+      ],
+      "answer": "Profeta Żakkarija"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ta iben fix-xjuħija",
+        "Salvat minn nar qawwi",
+        "Salvat minn żaqq ħuta",
+        "Baqa’ ħaj wara għargħar kbir",
+        "Imfejjaq minn marda serja"
+      ],
+      "answer": "Ta iben fix-xjuħija"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-Mihrab (niċċa tat-talb)",
+        "Il-Kaaba",
+        "L-Għollieq Jaħraq",
+        "L-Arka tal-Patt",
+        "L-Għar tas-Seba’ Rieqdin"
+      ],
+      "answer": "Il-Mihrab (niċċa tat-talb)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ingħata iben ġust li sar profeta",
+        "Meqrud minn maltempata vjolenti",
+        "Għerqet fil-baħar",
+        "Meħlus milli jinħaraq",
+        "Irritornaw għand nieshom wara li ġew salvati minn ħuta"
+      ],
+      "answer": "Ingħata iben ġust li sar profeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

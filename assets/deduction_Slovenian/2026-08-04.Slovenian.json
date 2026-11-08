@@ -1,0 +1,61 @@
+{
+  "title": "Odmev skozi pečine",
+  "intro": "Predstavljajte si dolino, kjer so bivališča vklesana v pečine, zrak pa nosi spomin na neupoštevano opozorilo. Nekoč je tu uspevalo ljudstvo, blagoslovljeno, a kljubovalno, dokler se iz same skale, ki so ji zaupali, ni pojavilo znamenje.",
+  "clues": [
+    "Bili smo ljudstvo, ki si je v gorah izklesalo varne domove in se počutilo varno v svojih skalnatih bivališčih.",
+    "Živeli smo v deželi ravnin in kamna, blagoslovljeni z vrtovi in ​​izviri.",
+    "Prišel je poslanec izmed nas in nas pozval, naj opustimo svoje lažne bogove in častimo Edinega pravega Stvarnika.",
+    "Arogantno smo postavili pogoj za vero: edinstveno znamenje, ki bi nastalo iz samih skal, ki smo jih izklesali.",
+    "Ko se je obljubljena kamela pojavila iz skale, kar je bil jasen znak, je naša elita kljub opozorilu o bližajoči se pogubi še vedno zavrnila in ji prekršila žile.",
+    "Tri dni po našem dejanju je po dolini odmeval gromozanski pok in spremenili smo se v ruševine, naši domovi pa v grobove."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Ljudje iz ¿Ad",
+        "Ljudje iz Thamuda",
+        "Ljudje iz Madyana",
+        "Ljudje iz gaja",
+        "Ljudje iz jame"
+      ],
+      "answer": "Ljudje iz Thamuda"
+    },
+    "trial": {
+      "label": "Naš preizkus/glavni dogodek",
+      "options": [
+        "Prekinitev zadnje lože Alahove kamele",
+        "Čaščenje zlatega teleta",
+        "Kršenje sobote",
+        "Gradnja stolpa do neba",
+        "Umor prerokov"
+      ],
+      "answer": "Prekinitev zadnje lože Alahove kamele"
+    },
+    "location": {
+      "label": "Ključni element naše zgodbe",
+      "options": [
+        "Alahova kamela",
+        "Musajevo osebje",
+        "Nuhova skrinja",
+        "Bela roka Muse",
+        "Ptica iz Ise"
+      ],
+      "answer": "Alahova kamela"
+    },
+    "outcome": {
+      "label": "Naš rezultat",
+      "options": [
+        "Uničenje zaradi oglušujoče eksplozije",
+        "Dež kamenja z neba",
+        "Poplava, ki je prekrila zemljo",
+        "Močan veter, ki nas je izruval",
+        "Zemlja nas požira"
+      ],
+      "answer": "Uničenje zaradi oglušujoče eksplozije"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

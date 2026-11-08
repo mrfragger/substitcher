@@ -1,0 +1,61 @@
+{
+  "title": "Ang Soberano na Humingi ng Kabanalan",
+  "intro": "Isang makapangyarihan at arogante na pinuno ang naniwala na walang sinuman ang nakatataas sa kanilang trono. Hinabol nila ang isang tumatakas na grupo patawid sa isang malawak na anyong tubig, para lamang sa isang dramatikong kamatayan. Ang kuwento ng soberanong ito ay umalingawngaw sa maraming sipi ng Quran, na nagsisilbing babala sa lahat.",
+  "clues": [
+    "Ako ay isang makapangyarihang pinuno na naniniwalang walang awtoridad na hihigit sa akin sa mga lupang aking pinamumunuan.",
+    "Mayroon akong isang mapagkakatiwalaang vizier na nagngangalang Haman na tumulong sa akin sa pagsasagawa ng mga malalaking proyekto sa arkitektura.",
+    "Ipinatawag ko ang pinakamahuhusay na salamangkero sa aking lupain upang hamunin ang mga tanda ng isang sugo na sumasalungat sa akin.",
+    "Tumanggi akong hayaang umalis ang mga taong inalipin sa aking nasasakupan, sa kabila ng mga salot at malinaw na babala.",
+    "Hinabol ko sila sa malawak na dagat kasama ang aking buong hukbo at mga karwahe.",
+    "Ang dagat na iyon mismo ang bumalot sa akin at sa aking mga puwersa, nilunod kaming lahat, habang sila ay ligtas na tumatawid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Fir'awn (Paraon)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Paraon)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Mga salot at komprontasyon kay Musa (Moises)",
+        "Paggawa ng arka bago ang isang malaking baha",
+        "Labanan laban kay Jalut sa lambak",
+        "Nilunok ng balyena",
+        "Pagtatanggol sa tapat na mga timbang ng kalakalan"
+      ],
+      "answer": "Mga salot at komprontasyon kay Musa (Moises)"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Matataas na tore at mga tulos",
+        "Isang malaking arkang gawa sa kahoy",
+        "Isang ginintuang guya",
+        "Isang tungkod na naging ahas",
+        "Isang napakalaking balyena"
+      ],
+      "answer": "Matataas na tore at mga istaka"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalunod sa dagat kasama ang hukbo",
+        "Naligtas sa awa ng Allah at ginantimpalaan ang pasensya",
+        "Muling nakasama ang pamilya pagkatapos ng maraming taon ng paghihirap",
+        "Nilamon ng lupa",
+        "Nasunog sa apoy"
+      ],
+      "answer": "Nalunod sa dagat kasama ang hukbo"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

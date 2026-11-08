@@ -1,0 +1,61 @@
+{
+  "title": "Te Tiaki i Tukuna ki te Awa",
+  "intro": "I tūtaki tētahi wairua ki tētahi ture kore e taea te whakatutuki, ā, i reira ka noho ko te ora o tētahi pēpi hou i roto i te taumahatanga. Nā te mana o te Atua i ārahi, ka whakarongohia tētahi whakahau whakamataku, ā, ka tukuna tētahi mea ngaro utu nui ki te ia, engari ka whakahokia mai i tētahi ara kāore i kitea i mua.",
+  "clues": [
+    "I noho ahau i raro i te atarangi o tētahi rangatira nanakia i whakahau kia patua ngā pēpi tāne whānau hou.",
+    "I tae mai te whakaaweawe a te rangi ki ahau, e whakahau ana kia mahi i tētahi mahi tino pouri, tino mamae hoki.",
+    "I whakatakotoria e au taku pēpi utu nui ki roto i tētahi pouaka, ā, i whakatakotoria ki te taha o te awa e rere ana.",
+    "I takoto kau tōku ngākau, ā, tata tonu ahau te whakakite i te mea ngaro, engari i whakakaha a Atua i tōku whakaaro.",
+    "I tonoa e au tētahi hei whai i te haerenga a te tamaiti ki raro i te awa, i te mea e kahakina ana te pouaka e te ia.",
+    "I kitea te tamaiti e te whare o te kaitukino, ā, i te mutunga, ka tūtaki anō māua ko taku tamaiti, ā, ka noho māua hei kaihikihiki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te whaea o te Poropiti a Mohi",
+        "Āsiya (Wahine a Parao)",
+        "Meriama (Whaea o te Poropiti a Ihaia)",
+        "Te wahine a te Poropiti a Ruta",
+        "Te whaea o te Poropiti a Yahya (te wahine a Hakaraia)"
+      ],
+      "answer": "Te whaea o te Poropiti a Mohi"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakanohoia e ia tana tamaiti ki roto i te pouaka, ā, i whakatakotoria ki te awa",
+        "I huna e ia tana tamaiti ki roto i te ana",
+        "I whakarērea e ia tana tamaiti ki te koraha",
+        "I maka e ia tana tamaiti ki roto i te ahi",
+        "I waiho e ia tana tamaiti ki te tatau o te whare karakia"
+      ],
+      "answer": "I whakanohoia e ia tana tamaiti ki roto i te pouaka, ā, i whakatakotoria ki te awa"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He pouaka e mānu ana i te awa",
+        "He rakau e mura ana",
+        "He tokotoko i huri hei nakahi",
+        "He tēpu kua horahia ki te kai mai i te rangi",
+        "He kamera uha i tukuna mai hei tohu"
+      ],
+      "answer": "He pouaka e mānu ana i te awa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tūtaki anō ia ki tana tamaiti, ā, i whāngaihia e ia",
+        "Kāore ia i kite anō i tana tamaiti",
+        "I whakamatea ia e te kaitukino",
+        "I riro ia hei kuīni i Ihipa",
+        "I heke ia ki tētahi whenua kē, ā, noho ana i te whenua i peia atu ai"
+      ],
+      "answer": "I tūtaki anō ia ki tana tamaiti, ā, i whāngaihia e ia"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Abemi Beegadi Ezimbini",
+  "intro": "Kwilizwe apho iintsikelelo zazininzi khona, uluntu lwalukhe lwanandipha ubutyebi beegadi ezimbini ezintle. Ubomi babo babubungqina bobubele bukaThixo, kodwa ibali labo latshintsha xa umbulelo uphela, nto leyo eyakhokelela kutshintsho olwaluza kuba luphawu oluhlala luhleli kubo bonke abacingisisayo.",
+  "clues": [
+    "Sasingabantu abasikelelwe lilizwe elinobulula nelinobutyebi.",
+    "INkosi yethu yasinika iigadi ezimbini ezintle, eziluhlaza nezineziqhamo macala onke.",
+    "Sasiyalelwe ukuba sibulele, kodwa sakhetha ukungabi nambulelo saza sajika.",
+    "Idama elikhulu labamba amanzi anika ubomi emhlabeni wethu.",
+    "Xa saqhubeka nokwenza izinto ezimbi, idama laqhuma kwaye amanzi akhukula adlula.",
+    "Iigadi zethu ezazikade ziluhlaza zathatyathelw’ indawo ziziqhamo ezikrakra, imithana, kunye nemithi embalwa yelote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseSaba",
+        "Abantu baseThamud",
+        "Abantu baseMadyan",
+        "Amaqabane Omqolomba",
+        "Abantu Bendlovu"
+      ],
+      "answer": "Abantu baseSaba"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umoya onamandla kangangeentsuku ezisixhenxe",
+        "Imvula yamatye evela esibhakabhakeni",
+        "Izikhukula ezitshabalalisayo ezivela edamini eliqhumayo",
+        "Isikhalo esikhulu esivela esibhakabhakeni",
+        "Ukuntywiliselwa elwandle"
+      ],
+      "answer": "Izikhukula ezitshabalalisayo ezivela edamini eliqhumayo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Idama elikhulu laseMa'rib",
+        "Intlambo yeWadi al-Qura",
+        "Igadi yase-Iram",
+        "Umthombo waseZamzam",
+        "Intaba yaseSinayi"
+      ],
+      "answer": "Idama elikhulu laseMa'rib"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Iigadi zethu zatshintshwa ziziqhamo ezikrakra nemithi enqabileyo",
+        "Saginywa ngumhlaba kunyikimo lomhlaba",
+        "Saguqulwa saba ziinkawu neehagu",
+        "Satshoniswa ngumkhukula omkhulu",
+        "Satshatyalaliswa yimvula yamatye"
+      ],
+      "answer": "Iigadi zethu zatshintshwa ziziqhamo ezikrakra nemithi enqabileyo"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

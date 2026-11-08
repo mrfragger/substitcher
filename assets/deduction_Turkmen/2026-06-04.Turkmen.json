@@ -1,0 +1,61 @@
+{
+  "title": "Daşlaryň arasyndaky nyşan",
+  "intro": "Daglar öýlere oýulyp gurlan ýurtda Allanyň gudratly alamaty bilen bir ilçi geldi. Adamlar subutnama talap etdiler we olar berk gaýadan bir jandary aldylar. Emma olaryň tekepbirligi olary duýduryşa garşy çykmaga we ykbalyny berkitmäge mejbur etdi.",
+  "clues": [
+    "Men daglardan oýulyp gurlan jaýlarda ýaşaýan bir kowumyň ýanyna iberildim.",
+    "Olar maňa bir alamat getirmegi teklip etdiler, şonuň üçin men gaýadan bir düýe çykardym.",
+    "Men olara düýäniň suwuny boş goýbermegini we oňa zyýan ýetirmezligini tabşyrdym.",
+    "Olar meniň duýduryşyma gulak asman, düýäniň aýaklaryny kesdiler.",
+    "Men jezanyň üç günden soň geljekdigini yglan etdim.",
+    "Irden güýçli bir üfleme olary ýok etdi, ýöne men we meniň ýoldaşlarym halas bolduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Salih pygamber",
+        "Hud pygamber",
+        "Lut pygamber",
+        "Şuaýb pygamber",
+        "Ybraýym pygamber"
+      ],
+      "answer": "Salih pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Gaýadan düýäniň talap edilmegi",
+        "Altyn göle üçin talap",
+        "Jennetden ýasalýan stol talap edilýär",
+        "Suw joşmasyna bolan isleg",
+        "Taýagyň ýylana öwrülmegini talap etmek"
+      ],
+      "answer": "Gaýadan düýäniň talap edilmegi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Däne we onuň balasy",
+        "Nuhyň gämisi",
+        "Musanyň taýagy",
+        "Altyn göle",
+        "Ibrahimiň ody"
+      ],
+      "answer": "Däne we onuň balasy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Güýçli partlama bilen weýran boldy",
+        "Suw joşmasynda gark boldy",
+        "Ýer tarapyndan ýuwudyldy",
+        "Maýmynlara öwrüldi",
+        "Güýçli ýel bilen weýran edildi"
+      ],
+      "answer": "Güýçli partlama bilen weýran boldy"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

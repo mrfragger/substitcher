@@ -1,0 +1,61 @@
+{
+  "title": "Přehrada, která zničila království",
+  "intro": "Země tekoucích řek, dvou zelených zahrad a bezkonkurenční prosperity – její obyvatelé však přestali být lhostejní k Tomu, kdo jim žehnal. Když přišly připomínky, které je volaly zpět, odvrátili se. Následoval trest, který dodnes zní jako varování. Kdo byla tato starověká komunita?",
+  "clues": [
+    "Žili jsme v zemi tak požehnané, že náš domov ležel mezi dvěma zelenými zahradami.",
+    "Těšili jsme se z řek protékajících našimi zeměmi a z hojné úrody, která naplňovala naše domovy.",
+    "Přesto, když jsme byli vyzýváni k vděčnosti a poslušnosti našemu Pánu, odvrátili jsme se v pýše.",
+    "Naše bohatství a pohodlí nám bránily zapomenout na Toho, kdo nám to všechno daroval.",
+    "Pak se přihnal náhlý proud, který prorazil velkou bariéru, na kterou jsme se spoléhali.",
+    "Jsme lid ze Saby, jehož země byla známá velkou přehradou Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Lidé ze Saby",
+        "Lidé z příkopu",
+        "Společníci studny",
+        "Lidé z Tubby",
+        "Lidé z Midianu"
+      ],
+      "answer": "Lidé ze Saby"
+    },
+    "trial": {
+      "label": "Náš pád",
+      "options": [
+        "Povodeň z protržené přehrady",
+        "Prudký vítr z nebe",
+        "Hořící v ohnivém zákopu",
+        "Masivní zemětřesení",
+        "Topení ve velké povodni"
+      ],
+      "answer": "Povodeň z protržené přehrady"
+    },
+    "location": {
+      "label": "Klíčové umístění",
+      "options": [
+        "Přehrada Ma'rib",
+        "Hora Sinaj",
+        "Jeskyně sedmi spáčů",
+        "Hořící keř",
+        "Rozdělení moře"
+      ],
+      "answer": "Přehrada Ma'rib"
+    },
+    "outcome": {
+      "label": "Náš osud",
+      "options": [
+        "Dvě hořké zahrady nahradily ty naše bujné",
+        "Naše zahrady se rozrostly ještě bujněji",
+        "Země se potopila pod mořem",
+        "Byli jsme pohřbeni v sopečném popelu",
+        "Náš národ se rozdělil na dvanáct kmenů"
+      ],
+      "answer": "Dvě hořké zahrady nahradily ty naše bujné"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

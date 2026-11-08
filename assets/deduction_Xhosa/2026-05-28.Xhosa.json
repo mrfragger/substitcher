@@ -1,0 +1,61 @@
+{
+  "title": "Isigulana Esingagungqiyo",
+  "intro": "Kwiingxelo zembali yesiprofeto, bambalwa abaye banyamezela ilahleko enkulu kangaka kunye neentlungu zomzimba ngokholo olungenakushukunyiswa. Ibali lalo mntu lisifundo esingapheliyo somonde nokuthembela kubulumko bukaThixo. Ngubani lo mphefumlo?",
+  "clues": [
+    "Ndakhethwa nguAllah ukuba ndihambise umyalezo, kodwa uvavanyo lwam olukhulu aluzange lufike ngokulahlwa, kodwa lufike kwintlekele yam.",
+    "Ubutyebi bam, imfuyo yam, nabantwana bam bathathwa kum, omnye emva komnye.",
+    "Umzimba wam wawugcwele izilonda, ndaza ndashiywa ndedwa ngaphandle kwenkxaso yomyeni wam.",
+    "Ndakhala eNkosini yam, ndivuma ukubandezeleka kwam kwaye ndifuna inceba Yayo.",
+    "Ndayalelwa ukuba ndibethe umhlaba ngonyawo lwam, kwaza kwaphuma umthombo ohlaziyayo.",
+    "U-Allah undibuyisele impilo yam waza wandinika usapho olutsha nobutyebi obungaphezulu kunangaphambili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti u-Ayyub",
+        "Umprofeti uIbrahim",
+        "Umprofeti uMusa",
+        "Umprofeti uIsa",
+        "Umprofeti uNuh"
+      ],
+      "answer": "Umprofeti u-Ayyub"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukulahlekelwa bubutyebi nosapho",
+        "Ukuphoswa emlilweni",
+        "Ukuginywa yintlanzi",
+        "Ukwahlukaniswa nosapho nokuthengiswa ebukhobokeni",
+        "Ukuvavanywa ngethole legolide"
+      ],
+      "answer": "Ukulahlekelwa bubutyebi nosapho"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umthombo wamanzi",
+        "Intonga eyajika yaba yinyoka",
+        "Ityeya yomthi",
+        "Ithole elityhidiweyo",
+        "Umthi wesundu"
+      ],
+      "answer": "Umthombo wamanzi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukubuyiselwa kosapho nobutyebi",
+        "Ukunyukela ezulwini",
+        "Ukuba ngukumkani",
+        "Ukusindiswa kwi-whale",
+        "Ukwamkela unyana ebudaleni"
+      ],
+      "answer": "Ukubuyiselwa kosapho nobutyebi"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nesantaikos sėkla",
+  "intro": "Dar prieš atsirandant plačiai paplitusiam konfliktui, pasaulis patyrė didelį tikėjimo ir paklusnumo išbandymą. Šiame pasakojime nagrinėjami individo pasirinkimai, kurių veiksmai sukuria precedentą ateities kartoms. Pasiruoškite atskleisti istoriją apie sielą, kovojančią su didžiuliu pavydu ir jo pražūtingomis pasekmėmis.",
+  "clues": [
+    "Buvau vienas pirmųjų žeme vaikščiojusių palikuonių, pačios pirmosios žmonių poros vaikas.",
+    "Mums su broliu buvo įsakyta paaukoti Alachui auką – tai buvo mūsų nuoširdumo išbandymas.",
+    "Mano auka nebuvo priimta, o brolio – buvo, ir tai mane apėmė siaubingas jausmas.",
+    "Vedamas atstūmimo kartėlio, ištariau broliui grasinančių žodžių.",
+    "Mano brolis atsakė išmintingai ir pamaldžiai, primindamas man apie Alacho teisingumą ir Jo baimę.",
+    "Nepaisant švelnių brolio žodžių ir noro atleisti, aš atėmiau gyvybę ir tapau vienu iš nevykėlių."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Adomas",
+        "Iblis",
+        "Pranašas Nuh",
+        "Qabil (Kainas)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kainas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Didysis potvynis",
+        "Jūros padalijimas",
+        "Kaabos statyba",
+        "Aukų aukojimas",
+        "Pagunda sode"
+      ],
+      "answer": "Aukų aukojimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Safos kalnas",
+        "Auka",
+        "Degantis krūmas"
+      ],
+      "answer": "Auka"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapo pasiuntiniu.",
+        "Buvo nuskendęs",
+        "Sukūrė didžiulę karalystę",
+        "Tapo apgailestavimo pavyzdžiu.",
+        "Buvo suteiktas didžiulis turtas"
+      ],
+      "answer": "Tapo apgailestavimo pavyzdžiu."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

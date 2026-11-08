@@ -1,0 +1,61 @@
+{
+  "title": "Baatu ku nëbbu gi",
+  "intro": "Ci jaar-jaaru jokkoob Yàlla, amna nit ku fës, ku jaar-jaaram ànd ak màndarga yu yéeme ak ngëm gu dëgër. Nit ki dafa am feeñu bu amul fenn bu doon xeex seeni jamono, di wax ci lu ëpp lu nit ñi mëna gis. Seen bataaxal ñëwul ci anam wu ñuy faral di def, waaye ci lëkkaloo gu xóot gu nit ñi mënul xam, di woo nit ñi ñu xam dëgg gi ci anam wu ñu xamul woon. Tukkib jaamu Yàlla bii dafay firndeel ni njiit mëna feeñee ci jamono yu yéeme, di woo nit ñi ñu xalaat ci melokaanu wahyu bi ci boppam.",
+  "clues": [
+    "Dañu ma jox mesaas bu bawoo ci baat bu yéeme bu bawoo ci barab buñu gisul.",
+    "Sama askan dafa njëkka bañ sama kàddu, laaj firnde yu gëna bari yuy wane ni dëgg laa.",
+    "Ma wax leen ñu defar lu niro ak li ma jox, waaye mënu ñu ko.",
+    "Wahyu bi ma indi, dañu ko bindee ay aaya yu leer, yuy wane dëgg gi.",
+    "Àrtu naa sama askan ci mbugal mu metti su ñu wéyee ci seen ñàkka gëm ak seen réy-réy.",
+    "Sama jaar-jaar ñu ngi ko nettali ci wetu yeneen Yonent ci benn suura buy fësal màndarga kàttanu Yàlla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Boroom bi Hud",
+        "Boroom bi Salih",
+        "Boroom bi Shu'ayb",
+        "Aji-gëm ji juddoo ci njabootu Fir'awn",
+        "Boroom bi Musa"
+      ],
+      "answer": "Boroom bi Salih"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "ñu sànni leen ci fuur bu tàng bi",
+        "Jano ak fitnaal bu njiit luy jaay doole",
+        "Defar benn gaam bu jigéen muy màndarga kéemtaanu",
+        "Mucc ci mbënd mu mag",
+        "ñu sànni ko ci géej ci kees"
+      ],
+      "answer": "Defar benn gaam bu jigéen muy màndarga kéemtaanu"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Vallé de Tuwa",
+        "Dëkk bu Madyan",
+        "Réewum Samuud",
+        "Cour Fir'awn",
+        "Grotte de Hira"
+      ],
+      "answer": "Réewum Samuud"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "answer": "Dañu yàq sama askan ndax dañu ray gaam bu jigéen bi def kéemtaan bi",
+      "options": [
+        "Sama askan réccu nañu seeni bàkkaar, mucc",
+        "Dañu ma yóbbu asamaan si may dund",
+        "Dañu yàq sama askan ndax dañu ray gaam bu jigéen bi def kéemtaan bi",
+        "Nekk naa njiit lu mag",
+        "Dañu ma muccal ci gaal gi"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

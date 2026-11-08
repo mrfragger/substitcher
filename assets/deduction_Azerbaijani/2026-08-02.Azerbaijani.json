@@ -1,0 +1,61 @@
+{
+  "title": "Yer ilə Göy arasında",
+  "intro": "İlahi tarixin müqəddəs səhifələrində əsrlər boyu əks-səda verən əlamətlər və möcüzələr daşıyan sirli bir ruh sizi gözləyir. İpuçların izini izlədikcə, möcüzələrlə əlamətdar bir hekayədə - möcüzəvi başlanğıcdan səmanın o tayına yüksəlişə qədər səyahət edəcəksiniz. Son ipucudan əvvəl bu mübarək qulunu tanıya bilərsinizmi?",
+  "clues": [
+    "Mən İsrail oğullarına rəhmət və nur müjdəsi ilə elçi göndərildim.",
+    "Doğulmağım möcüzəvi bir əlamət idi — Uca Tanrının əmri ilə atasız bu dünyaya gəldim.",
+    "Mən hələ körpə ikən danışırdım, anamın şərəfini xalqının ittihamlarına qarşı müdafiə edirdim.",
+    "Allahın izni ilə palçıqdan quşlar düzəltdim və onlara can verdim. Onlar baxanların gözü qarşısında uçub getdilər.",
+    "Mən anadangəlmə korları sağaltdım, cüzamlıları sağaltdım və hətta ölüləri də diriltdim - amma hər möcüzə Allahın izni ilə idi, mənim yox.",
+    "Düşmənlərim məni məhv etmək üçün sui-qəsd quranda Allah məni göylərə qaldırdı və Qiyamət günündən əvvəl geri dönəcəyimi vəd etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İsa peyğəmbər (ə)",
+        "Musa peyğəmbər (Musa)",
+        "İbrahim peyğəmbər (İbrahim)",
+        "Məhəmməd peyğəmbər",
+        "Yusif peyğəmbər (Yusif)"
+      ],
+      "answer": "İsa peyğəmbər (ə)"
+    },
+    "trial": {
+      "label": "Müəyyənedici An",
+      "options": [
+        "Mən göylərə qaldırıldım",
+        "Mən alovlu bir oda atıldım",
+        "Fironun qüdrətli ordusu ilə qarşılaşdım",
+        "Məni böyük bir balina uddu",
+        "Dağın üstündə bir gəmi düzəltdim"
+      ],
+      "answer": "Mən göylərə qaldırıldım"
+    },
+    "location": {
+      "label": "Müqəddəs Bürc İfadə Edildi",
+      "options": [
+        "Mən quşları palçıqdan düzəltdim",
+        "Mən bir əsanı ilana çevirdim",
+        "Ayı iki yerə böldüm",
+        "Mən küləyə və cinlərə əmr etdim",
+        "Qayadan bir dişi dəvə çıxartdım"
+      ],
+      "answer": "Mən quşları palçıqdan düzəltdim"
+    },
+    "outcome": {
+      "label": "Məndən Nə Oldu",
+      "options": [
+        "Göylərə qaldırıldı; geri dönəcəyinə söz verildi",
+        "Bir imperiyanın böyük hökmdarı oldu",
+        "Xalqımı əsirlikdən çıxartdı",
+        "Yer üzündə misilsiz sərvət verildi",
+        "Uzun ayrılıqdan sonra ailəmlə yenidən qovuşdum"
+      ],
+      "answer": "Göylərə qaldırıldı; geri dönəcəyinə söz verildi"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

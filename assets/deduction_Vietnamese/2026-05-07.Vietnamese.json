@@ -1,0 +1,61 @@
+{
+  "title": "Người gọi từ vực sâu",
+  "intro": "Hãy tưởng tượng một linh hồn được giao phó một thông điệp thiêng liêng, nhưng trong một khoảnh khắc vội vã, người đó đã rời bỏ cộng đồng của mình mà không có sự cho phép rõ ràng. Cuộc hành trình này đã dẫn họ đến một thử thách phi thường, một bài kiểm tra sâu sắc về lòng kiên nhẫn và sự trông cậy vào Đấng Tối Cao. Người đó là ai, người mà câu chuyện của họ dạy chúng ta về sự sám hối và lòng thương xót bao la của Allah?",
+  "clues": [
+    "Tôi được gửi đến một quốc gia vĩ đại, nhưng sự từ chối ban đầu của họ đã gây ra cho tôi nỗi đau khổ.",
+    "Tôi rời bỏ người dân của mình, tin rằng nhiệm vụ đã hoàn thành, trước khi nhận được mệnh lệnh rõ ràng phải rời đi.",
+    "Tôi tìm cách lên tàu, nhưng một cơn bão lớn và việc bốc thăm đã dẫn đến một tình huống nguy hiểm.",
+    "Tôi bị ném xuống biển, và một sinh vật khổng lồ dưới đáy biển đã nuốt chửng tôi.",
+    "Trong bóng tối sâu thẳm bên trong bụng nó, tôi đã kêu gọi Allah, thú nhận lỗi lầm của mình và cầu xin sự tha thứ của Ngài.",
+    "Allah đã ra lệnh cho sinh vật đó đưa tôi lên bờ, và tôi đã hồi phục sức khỏe nhờ một loại cây đặc biệt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Yusuf (Joseph)",
+        "Tiên tri Nuh (Noah)",
+        "Tiên tri Yunus (Jonah)",
+        "Tiên tri Sulaiman (Solomon)",
+        "Tiên tri Ayyub (Job)"
+      ],
+      "answer": "Tiên tri Yunus (Jonah)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Sự chia tách biển",
+        "Ngọn lửa của Nimrod",
+        "Bị một con cá lớn nuốt chửng",
+        "Lũ lụt",
+        "Sự phá hủy một thành phố bằng đá."
+      ],
+      "answer": "Bị một con cá lớn nuốt chửng"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah",
+        "Nhân viên",
+        "Bụng cá",
+        "Giếng",
+        "Bụi cây bốc cháy"
+      ],
+      "answer": "Bụng cá"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Trở thành một vị vua vĩ đại",
+        "Đã xây dựng Kaaba",
+        "Trở lại để dẫn dắt một quốc gia ăn năn hối cải",
+        "Được ban quyền thống trị các thần linh.",
+        "Dẫn dắt mọi người vượt qua sa mạc."
+      ],
+      "answer": "Trở lại để dẫn dắt một quốc gia ăn năn hối cải"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

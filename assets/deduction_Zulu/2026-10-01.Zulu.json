@@ -1,0 +1,61 @@
+{
+  "title": "Kukhulunywa Kube Yinto Ekhona",
+  "intro": "Kuvela umuntu emlandweni ongcwele, ephethe izimangaliso eziphikisana nokuhleleka kwemvelo. Lo mphefumulo wafika ngomyalo owodwa waphezulu, wavikela umzali ezinsolweni ezimbi, wahamba kuleli zwe ngaphambi kokuba izibopho zasemhlabeni zimbophe. Indaba isukela ebuntwaneni obuthobekile kuya emazulwini aphezulu. Kungaba ngubani lo?",
+  "clues": [
+    "Ngathunyelwa njengesibonakaliso nesihawu esivela ku-Allah kubantwana bakwa-Israyeli.",
+    "Ukufika kwami ​​​​kwakungafani nanoma yikuphi ngaphambili — ngaba khona ngegama likaNkulunkulu elithi 'Yiba!' ngaphandle kukababa wasemhlabeni.",
+    "Umzali wami wabhekana nokunyundelwa okunonya, kodwa isambulo esingcwele sehla ukuze simemezele ubumsulwa babo futhi siphakamise isikhundla sabo.",
+    "Njengosana olusanda kuzalwa, ngabamangaza labo ababengizungezile ngokukhuluma ngokucacile kusukela ngisemncane ukuze ngihlanze igama lomzali wami.",
+    "Ngemvume ka-Allah, ngabumba impilo ngobumba olungaphili, ngenza izimpumputhe zabona, futhi ngelaphe onochoko ngokuthinta kwami.",
+    "Ngaphakanyiswa ngaya ezulwini ngaphambi kokuba ingozi ingithinte, futhi ngizobuyela kuleli zwe ngaphambi kokuba kufike ihora lokugcina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Isa",
+        "Umprofethi uMusa",
+        "Umprofethi u-Ibrahim",
+        "Umprofethi uYusuf",
+        "Umprofethi uDawud"
+      ],
+      "answer": "Umprofethi u-Isa"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ekhuluma kusukela ebuntwaneni njengengane",
+        "Ukusinda esiswini senhlanzi enkulu",
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukwakha umkhumbi omkhulu ngaphambi kukazamcolo",
+        "Ukubhekana nobuthakathi benkantolo kaFaro"
+      ],
+      "answer": "Ekhuluma kusukela ebuntwaneni njengengane"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "I-Injeel (Ivangeli)",
+        "I-Tawrah (iTorah)",
+        "AmaHubo (i-Zabur)",
+        "ISuhuf (Imiqulu ka-Ibrahim)",
+        "Intonga eyahlukanisa ulwandle"
+      ],
+      "answer": "I-Injeel (Ivangeli)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ephakanyiselwe ezulwini, uzobuya ngaphambi koSuku Lokwahlulela",
+        "Wahola abantwana bakwa-Israyeli baphuma eGibhithe",
+        "Waba yinkosi ebusa phezu kwama-jinn, abantu, nezinyoni",
+        "Wasinda esikhukhuleni esikhulu kanye nabathembekile",
+        "Wakha indlu engcwele eMecca"
+      ],
+      "answer": "Ephakanyiselwe ezulwini, uzobuya ngaphambi koSuku Lokwahlulela"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

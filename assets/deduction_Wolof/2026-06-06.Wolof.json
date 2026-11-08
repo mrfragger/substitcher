@@ -1,0 +1,61 @@
+{
+  "title": "Jaamub Yallah bu kawe bi",
+  "intro": "Danga dégg ñuy wax ci ab nit ku yàgg, ab jaamu Yàlla buñu yéegal ci rang bu gëna kawe ñépp. Nit ki ñu xamee ko ci muñ gu mat sëkk ak dëggu gu mat sëkk, ñu yónnee ko nit ñu baña nangu kàddu yi. Kan mooy ruuh bu yéeg bii?",
+  "clues": [
+    "Yàlla tànn nama nekk yonent, ñu wax ci man ci Al Quran bu sell bi.",
+    "Ñu ràññeeku ci sama muñ ak sama dëggu,y jikko yu Yàlla sargal.",
+    "Woon naa sama askan ngir ñu jaamu Jenn Yàlla ji, waaye ñu bare bañ ma.",
+    "Yàlla yékkati na sama palaas, may ma rang bu kawe.",
+    "Dañu may faral di wax ci wetu yeneen yonent yu melni Ismail ak Dhul-Kifl.",
+    "Yàlla dafa wax ci man : “Ta Nu yékkati ko ci dara ju kawe”. (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Seydina Idris",
+        "Yonent Yàlla Elias",
+        "Dhu al kifl",
+        "Al- Yasa",
+        "Boroom bi Hud"
+      ],
+      "answer": "Seydina Idris"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Woo nit ñi jaamu Yàlla",
+        "Tabax gaal gi",
+        "Xeex ak Firawna",
+        "Dañu ko saytu ndax feebar bu metti la",
+        "Dañu ko sànni ci safara"
+      ],
+      "answer": "Woo nit ñi jaamu Yàlla"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Rank bu kawe/gaaraas bu kawe",
+        "gaal gi",
+        "Ndaw yi",
+        "Safara si",
+        "Teen bi"
+      ],
+      "answer": "Rank bu kawe/gaaraas bu kawe"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ñu yéegal ko ci rang bu kawe",
+        "Dafa féey ci mbënd mi",
+        "Baleine wann ko",
+        "Musal nañu ko ci safara",
+        "Nekk na buur"
+      ],
+      "answer": "Ñu yéegal ko ci rang bu kawe"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

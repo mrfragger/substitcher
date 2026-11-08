@@ -1,0 +1,61 @@
+{
+  "title": "Stemmen fra den brændende tornebusk",
+  "intro": "Afdæk identiteten på en dybsindig figur, hvis rejse begyndte med et mirakuløst møde, og hvis skæbne var forbundet med befrielsen af ​​et undertrykt folk. Denne person blev udvalgt til en monumental opgave, hvor han stod over for enorme udfordringer med guddommelig støtte.",
+  "clues": [
+    "Jeg blev født i en tid med stor undertrykkelse, hvor spædbørn af mit folk blev dræbt.",
+    "Min tidlige liv bestod af at blive placeret i en flod af mine forældre, men jeg blev fundet og opdraget i selve mit folks undertrykkers husstand.",
+    "Jeg flygtede engang fra en by efter utilsigtet at have forårsaget en persons død under en konflikt.",
+    "Jeg modtog en guddommelig besked og en mirakuløs stav på et helligt sted, hvor jeg fik befaling om at konfrontere en magtfuld hersker.",
+    "Min bror blev udpeget som min hjælper i min mission på grund af en opfattet hindring i min tale.",
+    "Jeg førte mit folk over et delt hav og undslap en tyrannisk hærs forfølgelse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Yusuf",
+        "Profeten Isa",
+        "Profeten Musa",
+        "Profeten Nuh",
+        "Profeten Ibrahim"
+      ],
+      "answer": "Profeten Musa"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Vedvarende år med tørke",
+        "Bygger Arken",
+        "Konfrontation med Farao og hans troldmænd",
+        "At blive kastet i en brændende ovn",
+        "Ødelæggelsen af ​​Thamuds folk"
+      ],
+      "answer": "Konfrontation med Farao og hans troldmænd"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Kaabaen",
+        "Jernmuren",
+        "Personalet",
+        "Nuhs skib",
+        "Sulaimans ring"
+      ],
+      "answer": "Personalet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Byen Sodoma blev styrtet",
+        "Folket blev opslugt af jorden",
+        "Den store oversvømmelse opslugte landet",
+        "Farao og hans hær druknede",
+        "Bymurene kollapsede af et skrig"
+      ],
+      "answer": "Farao og hans hær druknede"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

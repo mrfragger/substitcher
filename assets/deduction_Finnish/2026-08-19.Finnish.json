@@ -1,0 +1,61 @@
+{
+  "title": "Kansakunta, joka uhmasi luonnollista järjestystä",
+  "intro": "Alueella, jonka tarina kaikuu läpi aikojen, yhteisö eli avoimessa kapinassa puhtauden lakeja vastaan. Heidän tekonsa olivat niin ennennäkemättömiä, että ne muistetaan varoituksena koko ihmiskunnalle. Keitä nämä sielut olivat, ja mikä kohtalo heitä kohtasi?",
+  "clues": [
+    "Asuimme maassa, jonka reittiä matkailijat usein kulkivat, mutta teimme heidän matkastaan ​​vaarallisen.",
+    "Teimme sellaisia ​​siveettömyystekoja, joita kukaan maailmassa ei ollut koskaan ennen tehnyt.",
+    "Keskuudestamme oleva sanansaattaja kutsui meitä luopumaan teiltämme, mutta me torjuimme hänet ja vaadimme rangaistusta, jos hän olisi puhunut totta.",
+    "Kun komeat vieraat saapuivat kaupunkiimme, pyrimme hyökkäämään heidän kimppuunsa tietämättämme heidän olevan tuhon sanansaattajia.",
+    "Meitä varoitettiin hirvittävästä rangaistuksesta, jos emme lopettaisi, mutta me pilkkasimme varoitusta ja pysyimme synnissämme.",
+    "Taivaasta satoi kiviä päällemme, ja kotimme kaatuivat, jättäen jälkeensä vain jälkeä niille, jotka miettivät asiaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Lutin kansa",
+        "Thamudin kansa",
+        "A'adin kansa",
+        "Madyanin kansa",
+        "Saban kansa"
+      ],
+      "answer": "Lutin kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Syyllistyi ennennäkemättömään moraalittomuuteen ja tukki teitä",
+        "Palvoi kultaista vasikkaa",
+        "Tappoi pyhän naaraskamelin",
+        "Huijasi kaupankäynnissä ja petti ihmisiä",
+        "Rakensi korkean tornin haastamaan taivaita"
+      ],
+      "answer": "Syyllistyi ennennäkemättömään moraalittomuuteen ja tukki teitä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Komeiksi vieraiksi naamioituneita enkeleitä",
+        "Naaraskameli nousee kalliosta",
+        "Sauva, joka muuttuu käärmeeksi",
+        "Vuorelle rakennettu vene",
+        "Tuli, josta tuli viileä ja rauhallinen"
+      ],
+      "answer": "Komeiksi vieraiksi naamioituneita enkeleitä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Taivaasta sataneen kiven tuhoamana",
+        "Maan nielaisema",
+        "Hukkui suureen tulvaan",
+        "Iski kirkuva räjähdys",
+        "Muuttuneet apinoiksi"
+      ],
+      "answer": "Taivaasta sataneen kiven tuhoamana"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

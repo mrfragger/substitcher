@@ -1,0 +1,61 @@
+{
+  "title": "Eine Belagerung unter einem plötzlichen Himmel",
+  "intro": "Ihr steht vor einer gewaltigen Armee, die sich einem verehrten Heiligtum nähert. Alle Waffen sind bereit, der Sieg scheint gewiss. Doch bevor der Angriff beginnen kann, erscheint eine unerwartete Macht über euch, und der Kampf nimmt eine Wendung, die niemand vorhergesehen hat.",
+  "clues": [
+    "Wir marschierten mit einer Zuversicht, die keine irdische Macht erschüttern konnte.",
+    "Wir brachten mächtige Elefanten mit, und unsere Streitmacht schien um sie herum aufgebaut zu sein.",
+    "Wir waren gekommen, um ein verehrtes Heiligtum zu zerstören, im Glauben, unser Sieg sei bereits sicher.",
+    "Als wir dort ankamen, zog ein Vogelschwarm über uns am Himmel entlang.",
+    "Die Vögel bewarfen unsere Krieger mit Steinen aus gehärtetem Lehm.",
+    "Wir wurden so vernichtend geschlagen, dass unsere mächtige Streitmacht wie Asche zerfiel und sich in alle Winde zerstreute."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Das Volk des Elefanten",
+        "Die zwei Prinzen",
+        "Josephs Brüder",
+        "Der Diener Allahs in Dhul-Kifl",
+        "Die Gefährten des Gerechten"
+      ],
+      "answer": "Das Volk des Elefanten"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Der von Elefanten angeführte Angriff auf die Kaaba",
+        "Das Meer teilt sich vor einer ausgelieferten Gruppe",
+        "Die Erbeutung der Bundeslade durch ein tyrannisches Volk",
+        "Die nächtliche Reise zwischen zwei Moscheen",
+        "Die Heilung eines Aussätzigen durch göttliche Macht"
+      ],
+      "answer": "Der von Elefanten angeführte Angriff auf die Kaaba"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Vögel, die Tonklumpen tragen",
+        "Eine Arche aus Zypressenholz",
+        "Ein Stab verwandelte sich in eine Schlange",
+        "Ein mit einem Zeichen versiegelter Stein",
+        "Ein brennender Busch"
+      ],
+      "answer": "Vögel, die Tonklumpen tragen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihre gewaltige Macht zerfiel wie Asche.",
+        "Sie überquerten das Meer sicher",
+        "Sie gingen unverletzt durch einen lodernden Ofen",
+        "Sie betraten das Paradies paarweise.",
+        "Sie schliefen 309 Jahre lang in einer Höhle."
+      ],
+      "answer": "Ihre gewaltige Macht zerfiel wie Asche."
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

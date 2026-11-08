@@ -1,0 +1,61 @@
+{
+  "title": "Ukuhlolwa Kwedwala Elingenalutho",
+  "intro": "Umphakathi, onekhono futhi oziqhenyayo, waqopha ifa lawo ezintabeni. Kodwa lapho kuthunyelwa isibonakaliso esicacile kubo, isivivinyo sokholo nokuzibamba, ukuzikhukhumeza kwabo kwabaholela endleleni yokungabuyeli emuva. Ungalibona leli qembu kanye nomphumela wokungalaleli kwabo?",
+  "clues": [
+    "Sasingochwepheshe bamatshe, siqopha izindlu ezinhle kakhulu eziqongweni zezintaba.",
+    "Isithunywa esivela kubantu bakithi seza kithi, sisibiza ukuba sikhulekele uNkulunkulu oyedwa weqiniso.",
+    "Safuna isibonakaliso sokufakazela amazwi akhe, kwase kulethwa isidalwa esiyingqayizivele njengesivivinyo kithi.",
+    "Sanikwa umyalo olula: ukwabelana ngomthombo wethu wamanzi nalesi sidalwa, sisivumele siphuze ngosuku lwaso olubekiwe.",
+    "Ngokuzikhukhumeza kwethu, abambalwa phakathi kwethu bakha uzungu futhi salahla isixwayiso, sabulala isidalwa esasifanele ukuba uphawu lwethu.",
+    "Sanikwa izinsuku ezintathu ngaphambi kokubhujiswa kwethu, kwabe sekuqhuma ukuqhuma okukhulu emakhaya ethu, kwasishiya singenampilo futhi sigumbuqelwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abantu be-'Ad",
+        "Abantu baseMadyan",
+        "Abantu baseThamud",
+        "Abantu baseSaba",
+        "Abantu bakaLut"
+      ],
+      "answer": "Abantu baseThamud"
+    },
+    "trial": {
+      "label": "Kwakuyini Uvivinyo Lwethu Oluyinhloko?",
+      "options": [
+        "Ukwakha umkhumbi ukuze usinde kuzamcolo",
+        "Ukumelana nesifiso sokudoba ngeSabatha",
+        "Ukuyeka imikhuba yebhizinisi yokukhwabanisa",
+        "Ukuvikela ikamela lensikazi eliyisimangaliso",
+        "Ukubekezelela indlala yeminyaka eyisikhombisa"
+      ],
+      "answer": "Ukuvikela ikamela lensikazi eliyisimangaliso"
+    },
+    "location": {
+      "label": "Yayiyini Ingxenye Eyinhloko Yendaba Yethu?",
+      "options": [
+        "Ithole Legolide",
+        "Ikamela Lensikazi",
+        "Induku yoMprofethi uMusa",
+        "Idamu Elikhulu laseMa'rib",
+        "Itafula Elisakazeke Livela Ezulwini"
+      ],
+      "answer": "Ikamela Lensikazi"
+    },
+    "outcome": {
+      "label": "Sasiyini Isiphetho Sethu Sokugcina?",
+      "options": [
+        "Ukuminza kuzamcolo omkhulu",
+        "Yaphenduka izinkawu nezingulube",
+        "Ukunqotshwa umoya onamandla",
+        "Kuhlakazwe ukuqhuma kwedamu",
+        "Wabhujiswa ukuqhuma okukhulu/ukuzamazama komhlaba"
+      ],
+      "answer": "Wabhujiswa ukuqhuma okukhulu/ukuzamazama komhlaba"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Guth sna Gainimh Ársa",
+  "intro": "I measc chéad teachtairí Allah, bhí duine amháin ann a bhfuil a ainm le feiceáil go hachomair ach go bríoch sa Quran. Bhí an duine seo beo i bhfad sular seoladh go leor fáithe móra, agus bhí cáil air as a fhírinneacht agus a fhoighne gan staonadh. Is gearr a scéal ach maireann a n-oidhreacht sa taifead síoraí. Cé hé an t-anam uasal seo?",
+  "clues": [
+    "Is mise duine de na chéad teachtairí, a luaitear go hachomair ach go bríoch sa Chorán.",
+    "Sainmhíníodh mo charachtar le tiomantas dochloíte don fhírinne.",
+    "Cuimhnítear orm i leabhar Allah i measc na ndaoine a bhí daingean agus foighneach.",
+    "Níl ach cúpla véarsa gearr sa Chorán a insíonn mo scéal.",
+    "Thug Allah onóir dom ar bhealach atá uathúil domsa, nach bhfuil roinnte le fáithe eile.",
+    "Tógadh mé go stát ard, onóir uathúil sa Chorán."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Idris",
+        "An Fáidh Ilyas",
+        "Dhul-Kifl",
+        "Fáidh Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "An Fáidh Idris"
+    },
+    "trial": {
+      "label": "Nóiméad Cinniúnach",
+      "options": [
+        "Ardaíodh mé go dtí stádas ard ag Allah",
+        "Thóg mé áirc mhór chun mo mhuintir a shábháil",
+        "Chuir mé dúshlán draoithe Pharaoh",
+        "Chaith mo dheartháireacha isteach i bpoll mé",
+        "Chaill mé mo radharc de bhrón faoi mo mhac"
+      ],
+      "answer": "Ardaíodh mé go dtí stádas ard ag Allah"
+    },
+    "location": {
+      "label": "Tagairt Naofa",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Onóir Dhiaga",
+      "options": [
+        "Stáisiún ard nach bhfuil cosúil le haon cheann eile",
+        "Tiarnas thar jinn agus na gaotha",
+        "Ríocht glóire gan sárú",
+        "Oidhre ​​ó mo sheanaois",
+        "Conradh séalaithe le Allah"
+      ],
+      "answer": "Stáisiún ard nach bhfuil cosúil le haon cheann eile"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

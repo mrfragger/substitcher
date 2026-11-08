@@ -1,0 +1,61 @@
+{
+  "title": "Seirbhíseach Ardaithe Allah",
+  "intro": "Cloiseann tú cogar faoi dhuine ó aimsir na sean, seirbhíseach Allah a tógadh go dtí stádas os cionn an ghnáth. Bhí cáil ar an duine seo as a fhoighne dhochloíte agus as a fhírinne iomlán, agus cuireadh chuig pobal a d’iompaigh ar shiúl ón teachtaireacht é. Cé hé an t-anam ardaithe seo?",
+  "clues": [
+    "Roghnaigh Allah mé mar fháidh agus táim luaite sa Qurán Naofa.",
+    "Bhí cáil orm as mo fhoighne agus mo fhírinneacht, cáilíochtaí a mholann Allah.",
+    "Ghlaoigh mé ar mo mhuintir an tAon Dia amháin a adhradh, ach dhiúltaigh go leor dom.",
+    "Ardaíodh mo stádas ag Allah, agus bronnadh céim ard orm.",
+    "Is minic a luaitear mé in éineacht le fáithe eile ar nós Ismail agus Dhul-Kifl.",
+    "Deir Allah fúmsa: ‘Agus thógamar suas é go dtí stádas ard.’ (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Idris",
+        "Fáidh Éilias",
+        "An Fáidh Dhu al-Kifl",
+        "An Fáidh Al-Yasa",
+        "Fáidh Hud"
+      ],
+      "answer": "An Fáidh Idris"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ghlaoigh sé ar dhaoine adhradh a dhéanamh d'Allah",
+        "Thóg an áirc",
+        "Throid i gcoinne Pharaoh",
+        "Rinneadh tástáil air le tinneas trom",
+        "Caitheadh ​​isteach sa tine é"
+      ],
+      "answer": "Ghlaoigh sé ar dhaoine adhradh a dhéanamh d'Allah"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Ardchéim/stáisiún ard",
+        "An áirc",
+        "An fhoireann",
+        "An tine",
+        "An tobar"
+      ],
+      "answer": "Ardchéim/stáisiún ard"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ardaithe go stádas ard",
+        "Báite sa tuile",
+        "Slogtha ag míol mór",
+        "Sábháilte ón tine",
+        "Rinneadh rí de"
+      ],
+      "answer": "Ardaithe go stádas ard"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

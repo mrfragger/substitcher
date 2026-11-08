@@ -1,0 +1,61 @@
+{
+  "title": "Ilgas svētajā kamerā",
+  "intro": "Jūs ieejat klusajā svētnīcā un redzat uzticīgu Allāha kalpu stāvam lūgšanā. Viņu rokas ir paceltas, acis vērstas, un viņu sirdīs ir ilgas, kas ilgst visu mūžu. Kas ir šī pacietīgā dvēsele, kuras paļāvība uz Allāhu nekad nav svārstījusies?",
+  "clues": [
+    "Es pavadīju ilgus gadus pielūgsmē un lūgšanās, vērojot brīnumus, kas stiprināja manu ticību.",
+    "Man tika uzticēts pienākums rūpēties par svētītu jaunu dvēseli svētnīcā.",
+    "Kad es kļuvu vecs, manas lielākās bēdas bija tas, ka man nebija bērnu, jo mana sieva bija neauglīga, un mēs abi bijām veci.",
+    "Es lūdzu savam Kungam pēcteci no savas ģimenes, kādu, kas turpinātu pravietības mantojumu.",
+    "Kamēr es stāvēju lūgšanu nišā, eņģeļi mani sauca, sakot: “Allāhs tev sūta priecīgas ziņas”, un mani pārņēma bailes un bijība.",
+    "Man teica, ka man piedzims dēls vārdā Jahja, vārds, kāds nekad iepriekš nevienam nebija dots, un kā zīmi es trīs dienas nerunāšu ar cilvēkiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Zakarija",
+        "Pravietis Jahja",
+        "Pravietis Isa",
+        "Pravietis Davuds",
+        "Gudrais Lukmans"
+      ],
+      "answer": "Pravietis Zakarija"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Neauglība un vecums, ilgojoties pēc taisnīga mantinieka",
+        "Tiekot iemests liesmojošā ugunī",
+        "Tikt norītai lielai zivij",
+        "Zaudēt karaļvalsti tirāna rokās",
+        "Izraidīšana no dzimtenes"
+      ],
+      "answer": "Neauglība un vecums, ilgojoties pēc taisnīga mantinieka"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Lūgšanu niša (mihrabs)",
+        "Lielais kuģis (Ark)",
+        "Degošais krūms",
+        "Personāla, kas pārvērtās par čūsku",
+        "Allāha kamielis"
+      ],
+      "answer": "Lūgšanu niša (mihrabs)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Dāvāja taisnīgu dēlu un atkal runāja pēc trīs klusēšanas dienām",
+        "Iznīcināts plūdos neticības dēļ",
+        "Dāvāta plaša valstība un kontrole pār vēju",
+        "Iznests no zivs vēdera",
+        "Zeme norīja"
+      ],
+      "answer": "Dāvāja taisnīgu dēlu un atkal runāja pēc trīs klusēšanas dienām"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

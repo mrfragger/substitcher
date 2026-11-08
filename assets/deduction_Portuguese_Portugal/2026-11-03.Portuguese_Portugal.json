@@ -1,0 +1,61 @@
+{
+  "title": "O Sono dos Justos",
+  "intro": "Numa época em que a fé era perigosa e os poderosos buscavam esmagar a crença, um pequeno grupo de jovens almas fez uma escolha que ecoaria através dos tempos. Fugindo de tudo o que conheciam, buscaram refúgio na escuridão oculta de uma montanha e depositaram toda a sua confiança em Alá. O que aconteceu em seguida se tornaria um sinal atemporal para aqueles que refletem.",
+  "clues": [
+    "Éramos um grupo de jovens que acreditavam em nosso Senhor, e Ele nos concedeu ainda mais orientação.",
+    "Nos apresentamos diante do nosso povo e declaramos que jamais invocaríamos qualquer divindade além de Alá.",
+    "Buscamos refúgio em uma caverna, dizendo: 'Nosso Senhor, concede-nos misericórdia e guia-nos retamente em nossos assuntos.'",
+    "Dormimos durante muitos anos, e o sol se inclinava para longe de nossa caverna, sem nos atingir.",
+    "Nosso cachorro estava deitado, estirado na entrada da caverna, nos vigiando como se estivesse de guarda.",
+    "Ao sermos acordados, ficamos nos perguntando quanto tempo havíamos demorado, e um de nós foi enviado com moedas de prata para comprar comida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Pessoas da Caverna",
+        "Pessoas da Trincheira",
+        "Pessoas do sábado",
+        "Povo do Elefante",
+        "Companheiros da Floresta"
+      ],
+      "answer": "Pessoas da Caverna"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Fugiram para uma caverna para escapar da perseguição por sua fé.",
+        "Destruído por um vento violento",
+        "Engolido pela terra",
+        "Afogado no mar",
+        "Atingido por uma tempestade de pedras"
+      ],
+      "answer": "Fugiram para uma caverna para escapar da perseguição por sua fé."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Um cão guarda a entrada da caverna.",
+        "Uma grande arca",
+        "Um cajado que se transformou em cobra.",
+        "Uma poupa",
+        "Um bezerro de ouro"
+      ],
+      "answer": "Um cão guarda a entrada da caverna."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Eles permaneceram na caverna por 309 anos e depois foram retirados como um sinal.",
+        "Eles foram transformados em macacos.",
+        "Eles foram destruídos por uma enchente.",
+        "Eles foram obrigados a atravessar o mar.",
+        "Foi-lhes dado um reino."
+      ],
+      "answer": "Eles permaneceram na caverna por 309 anos e depois foram retirados como um sinal."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

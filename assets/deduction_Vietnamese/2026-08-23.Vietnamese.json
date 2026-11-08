@@ -1,0 +1,61 @@
+{
+  "title": "Đám đông biến mất",
+  "intro": "Bạn đang đứng trước những âm vang của một cộng đồng mà câu chuyện của họ được viết nên trong những con sóng. Những linh hồn này đã nghe thấy một tiếng gọi, chọn cách phản kháng, và đối mặt với hậu quả làm thay đổi cả trái đất. Họ là ai, và điều gì đã xảy ra với thế giới của họ?",
+  "clues": [
+    "Chúng ta đã sống từ rất lâu rồi, và một sứ giả đã đến với chúng ta từ chính giữa chúng ta.",
+    "Chúng tôi thờ năm vị thần và nhất quyết không bỏ chúng.",
+    "Chúng tôi chế nhạo người đưa tin và buộc tội anh ta lạc đường.",
+    "Chúng tôi yêu cầu anh ta phải chịu hình phạt nếu anh ta nói sự thật.",
+    "Chúng tôi thấy trời đổ mưa như trút nước và mặt đất phun trào những dòng suối.",
+    "Chúng tôi trèo lên những nơi cao để trốn thoát, nhưng những con sóng đã ập đến."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chúng tôi là ai?",
+      "options": [
+        "Người dân Nuh",
+        "Người dân của 'Ad",
+        "Người dân Thamud",
+        "Người dân Lut",
+        "Người dân Madyan"
+      ],
+      "answer": "Người dân Nuh"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Chúng tôi đã chết đuối trong một trận lụt lớn.",
+        "Chúng tôi đã bị tàn phá bởi một cơn bão.",
+        "Chúng tôi đã thiệt mạng bởi một tiếng nổ lớn.",
+        "Chúng tôi bị đất nuốt chửng",
+        "Chúng tôi bị ném đá từ trên trời xuống."
+      ],
+      "answer": "Chúng tôi đã chết đuối trong một trận lụt lớn."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một trận lụt lớn",
+        "Một cơn gió mạnh",
+        "Một trận mưa đá",
+        "Một vụ nổ dữ dội",
+        "Một trận động đất"
+      ],
+      "answer": "Một trận lụt lớn"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Tất cả chúng tôi đều chết trừ những người tin theo Nuh.",
+        "Chúng tôi đã bị biến thành vượn",
+        "Chúng tôi bị bỏ lại như những tàn tích cho du khách.",
+        "Chúng tôi đã bị biến thành muối",
+        "Chúng tôi được nghỉ ngơi."
+      ],
+      "answer": "Tất cả chúng tôi đều chết trừ những người tin theo Nuh."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

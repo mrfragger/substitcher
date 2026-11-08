@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tanda sa mga Bato",
+  "intro": "Sa isang lupain kung saan ang mga bundok ay inukit bilang mga tahanan, isang mensahero ang dumating na may dalang mahimalang tanda mula kay Allah. Humingi ng patunay ang mga tao, at nakatanggap sila ng isang nilalang mula sa matibay na bato. Ngunit ang kanilang kayabangan ang nagtulak sa kanila na suwayin ang babala, na siyang nagtakda ng kanilang kapalaran.",
+  "clues": [
+    "Ako ay isinugo sa isang bayang naninirahan sa mga tahanang inukit mula sa mga bundok.",
+    "Hinamon nila akong magdala ng isang tanda, kaya nagpakita ako ng isang kamelyo mula sa isang bato.",
+    "Inutusan ko silang hayaang uminom nang malaya ang kamelyo at huwag itong saktan.",
+    "Sumuway sila at pinigilan ang kamelyo, sinuway ang aking babala.",
+    "Ipinahayag ko na ang parusa ay darating pagkatapos ng tatlong araw.",
+    "Kinaumagahan, isang malakas na pagsabog ang sumira sa kanila, ngunit ako at ang aking mga tagasunod ay naligtas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Salih",
+        "Propeta Hud",
+        "Propeta Lut",
+        "Propeta Shu'ayb",
+        "Propeta Ibrahim"
+      ],
+      "answer": "Propeta Salih"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Kahilingan para sa isang babaeng kamelyo mula sa isang bato",
+        "Kahilingan para sa isang ginintuang guya",
+        "Kumalat mula sa langit ang pangangailangan para sa isang mesa",
+        "Kahilingan para sa baha",
+        "Paghingi ng tungkod para maging ahas"
+      ],
+      "answer": "Kahilingan para sa isang babaeng kamelyo mula sa isang bato"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang kamelyong babae at ang kaniyang guya",
+        "Ang Arka ni Noe",
+        "Ang Tungkod ni Moises",
+        "Ang Ginintuang Guya",
+        "Ang Apoy ni Ibrahim"
+      ],
+      "answer": "Ang kamelyong babae at ang kaniyang guya"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nawasak ng isang malakas na pagsabog",
+        "Nalunod sa baha",
+        "Nilamon ng lupa",
+        "Naging mga unggoy",
+        "Nawasak ng malakas na hangin"
+      ],
+      "answer": "Nawasak ng isang malakas na pagsabog"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

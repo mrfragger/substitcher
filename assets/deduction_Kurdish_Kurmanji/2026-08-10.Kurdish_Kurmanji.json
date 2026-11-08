@@ -1,0 +1,61 @@
+{
+  "title": "Parêzvanên Berhema Veşartî",
+  "intro": "Li welatekî kesk, komek kesan di bin tariyê de planeke veşartî çêkirin. Armanceke wan a hevpar hebû, lê niyeta wan ji rastbûnê dûr bû. Wan qet nizanibû ku di xew de zivirînek îlahî li benda wan e.",
+  "clues": [
+    "Me biryareke xurt da, me difikirî ku plana me bêkêmasî ye.",
+    "Me niyet kir ku em zû derkevin, berî ku yên din jî rabin.",
+    "Em li ser zeviyek berhemdar danîn, bi erzaqên xwe bawer in.",
+    "Dema ku em gihîştin cihê xwe, me ew der bêber û çol dît, ji ber vê yekê me guman kir ku me rêya xwe winda kiriye.",
+    "Paşê me fêm kir ku ew bi rastî jî cihê me ye, û me bi bêhêvîtî qîriya, û me hevdu ji ber windakirina xwe sûcdar kir.",
+    "Me wê sibehê sond xwaribû ku em ê feqîran ji berhema xwe dûr bixin, lê cezayê Xwedê dema ku em di xew de bûn hat ser me û baxçeyê me kir wêran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Xwediyên Baxçeyê di Sureya 68an de",
+        "Gelê Sabayê",
+        "Hevalên Şikeftê",
+        "Gelê Fîl",
+        "Xelkê Xendekê"
+      ],
+      "answer": "Xwediyên Baxçeyê di Sureya 68an de"
+    },
+    "trial": {
+      "label": "Ceribandina me",
+      "options": [
+        "Baxçeyê me ji ber karesatekê ji ezmanan wêran bû",
+        "Baxçeyê me ji aliyê lehiyê ve hate şûştin",
+        "Baxçeyê me ji ber agirê dijmin şewitî",
+        "Baxçeyê me tijî kêzikan bû",
+        "Baxçeyê me ji aliyê erdhejê ve hate daqurtandin"
+      ],
+      "answer": "Baxçeyê me ji ber karesatekê ji ezmanan wêran bû"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Me sond xwar ku em ê sibê fêkiyên wê çinîn",
+        "Me bendav çêkir da ku baxçeyê xwe av bidin",
+        "Me ji bo parastinê li şikeftekê penageh girt",
+        "Me artêşek amade kir da ku padîşahiyekê fetih bike",
+        "Me keştîyek siwar kir da ku em ji deryayê derbas bibin"
+      ],
+      "answer": "Me sond xwar ku em ê sibê fêkiyên wê çinîn"
+    },
+    "outcome": {
+      "label": "Çarenûsa me",
+      "options": [
+        "Me tobe kir û em li hêviya dilovaniya Xwedê bûn",
+        "Em bi tevahî hatin wêrankirin û qet poşman nebûn",
+        "Em ji welêt reviyan û êdî venegeriyan",
+        "Em dîsa bûn xwedî hêz û dewlemend",
+        "Em bi veguherandina meymûnan hatin cezakirin"
+      ],
+      "answer": "Me tobe kir û em li hêviya dilovaniya Xwedê bûn"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

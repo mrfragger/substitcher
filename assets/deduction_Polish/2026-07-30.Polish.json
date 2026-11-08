@@ -1,0 +1,61 @@
+{
+  "title": "Dziwni goście w otoczonym murem mieście",
+  "intro": "Grupa dotarła do bram miasta, którego mieszkańcy nigdy nie poznali prawdy. Przynieśli wiadomość, ale mieszkańcy stali się wrogo nastawieni, grożąc przemocą. Jednak z nieoczekiwanego miejsca odezwał się pojedynczy głos w obronie obcych, co zapoczątkowało dramatyczny zwrot wydarzeń.",
+  "clues": [
+    "Weszliśmy do miasta, którego mieszkańcy byli pogrążeni w niedowierzaniu.",
+    "Spojrzeli na nas z podejrzliwością i powiedzieli: „Jesteście zwykłymi istotami, takimi jak my”.",
+    "Ostrzegaliśmy ich, ale oni podnosili przeciwko nam kamienie.",
+    "Z najdalszego końca miasta przybył mężczyzna, aby potwierdzić naszą prawdę.",
+    "Oznajmił swemu ludowi: „Dlaczego nie miałbym czcić Tego, który mnie stworzył?”",
+    "Zaprzeczenia miasta zakończyły się pojedynczym wybuchem, a tam, gdzie wcześniej szydzono, zapadła cisza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Posłańcy Jasina",
+        "Uczniowie Izajasza",
+        "Ludzie z okopu",
+        "Magowie Faraona",
+        "Wierzący Jasina"
+      ],
+      "answer": "Posłańcy Jasina"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Odrzucenie i groźba ukamienowania",
+        "Wrzucenie do ognia",
+        "Test cierpliwości z zagubionym dzieckiem",
+        "Ogród, który uległ zniszczeniu",
+        "Podróż przez morze"
+      ],
+      "answer": "Odrzucenie i groźba ukamienowania"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Najdalszy koniec miasta",
+        "Morze Czerwone",
+        "Rów ognia",
+        "Jaskinia schronienia",
+        "Więzienie Egiptu"
+      ],
+      "answer": "Najdalszy koniec miasta"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Miasto zostało zniszczone przez jeden krzyk",
+        "Morze się rozstąpiło i armia została zatopiona",
+        "Ogień stał się chłodny i bezpieczny",
+        "Ogród strawił niebiański ogień",
+        "Wieloryb odprowadził tę osobę z powrotem na brzeg"
+      ],
+      "answer": "Miasto zostało zniszczone przez jeden krzyk"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

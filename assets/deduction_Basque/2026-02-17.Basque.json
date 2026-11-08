@@ -1,0 +1,61 @@
+{
+  "title": "Gatazkaren Hazia",
+  "intro": "Munduak gatazka zabala ezagutu aurretik, fedearen eta obedientziaren proba sakon bat gertatu zen. Narrazio honek norbanako batek egindako aukerak aztertzen ditu, zeinaren ekintzek etorkizuneko belaunaldientzat aurrekari bat ezarri zuten. Presta zaitez jeloskortasun izugarriarekin borrokan ari den arima baten istorioa eta haren ondorio suntsitzaileak argitzeko.",
+  "clues": [
+    "Lurra ibili zen lehenengo ondorengoen artean izan nintzen, lehenengo giza bikotearen seme-alaba.",
+    "Nire anaiari eta bioi Alari sakrifizio bat eskaintzeko agindua eman ziguten, gure zintzotasunaren proba gisa.",
+    "Nire eskaintza ez zen onartua izan, nire anaiarena bai, eta horrek emozio ikaragarri batez bete zidan bihotza.",
+    "Mehatxuzko hitzak esan nizkion anaiari, arbuioaren mingostasunak bultzatuta.",
+    "Nire anaiak jakinduriaz eta jainkozaletasunez erantzun zuen, Alaren justizia eta Harenganako beldurra gogoraraziz.",
+    "Anaiaren hitz leunak eta barkatzeko prestutasuna gorabehera, bizitza bat kendu nuen, galtzaileetako bat bihurtuz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Adam profeta",
+        "Iblis",
+        "Nuh profeta",
+        "Qabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde handia.",
+        "Itsasoaren zatiketa.",
+        "Kaabaren eraikuntza.",
+        "Sakrifizioen eskaintza.",
+        "Tentazioa lorategian."
+      ],
+      "answer": "Sakrifizioen eskaintza."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Safa mendia.",
+        "Sakrifizioa",
+        "Sasi Erretzailea"
+      ],
+      "answer": "Sakrifizioa"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Mezulari bihurtu zen.",
+        "Itota geratu zen.",
+        "Erresuma handi bat eraiki",
+        "Damuaren adibide bihurtu zen",
+        "Aberastasun izugarria eman zitzaion"
+      ],
+      "answer": "Damuaren adibide bihurtu zen"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

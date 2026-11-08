@@ -1,0 +1,61 @@
+{
+  "title": "Lurraren besarkada.",
+  "intro": "Garai handietan, pertsona ospetsu bati munduko ugaritasun izugarria eman zitzaion, esker oneko eta apaltasuneko proba bat. Pertsonaia honen bidaiak irakaspen sakona eskaintzen digu ondasun materialen izaera iragankorrari eta harrokeriaren ondorioei buruz. Ezagutu gure azpian dagoen lurzoruan bertan grabatuta dagoen arima honen nortasuna.",
+  "clues": [
+    "Mezulari handi batek gidatutako herri baten artean bizi izan nintzen.",
+    "Alak hain aberastasun handiak eman zizkidan, ezen nire altxorraren giltzak berak zama astunak izan ziren pertsona indartsu askorentzat.",
+    "Nire herriak, nire aberastasuna ezagututa, aholkatu zidan Ala-k eman zidanarekin Beste Bizitza bilatzeko eta munduko nire zatia ez ahazteko, eta Ala-k niri egin zidan on egin zezan.",
+    "Harrokeriaz adierazi nuen nire aberastasun izugarria neure ezagutza eta ahaleginaren bidez soilik lortu nuela, jainkozko fabore oro ukatuz.",
+    "Alaren oparotasuna aitortzeko edo laguntzeko eskatu zidatenean, harro uko egin nion, nire ondasunak nireak zirela sinetsita.",
+    "Nire harrokeria eta zapalkuntza izugarriaren ondorioz, Alak lurrari agindu zion ireki eta ni eta nire bizilekua irentsi zitzala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Sutara botata egotea.",
+        "Itsasoan itotzea.",
+        "Lorategi batetik erbesteratua izatea",
+        "Tximino batean eraldatzea.",
+        "Lurrak irentsita egotea."
+      ],
+      "answer": "Lurrak irentsita egotea."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko txahal bat",
+        "Arka indartsu bat.",
+        "Txori hiztun bat",
+        "Langile miragarri bat.",
+        "Altxor eta giltza izugarriak"
+      ],
+      "answer": "Altxor eta giltza izugarriak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Agintari handi bihurtzea.",
+        "Jainkozko errebelazioa jasotzea",
+        "Zeruetara igotzen.",
+        "Bizitza luzea pietatez bizitzea",
+        "Harrokeriagatik suntsipen osoa"
+      ],
+      "answer": "Harrokeriagatik suntsipen osoa"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

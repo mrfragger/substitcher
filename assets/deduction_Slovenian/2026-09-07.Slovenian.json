@@ -1,0 +1,61 @@
+{
+  "title": "Spremljevalec, ki se je obrnil stran",
+  "intro": "Kmalu boste odkrili zgodbo o duši, ki je živela v senci prerokovanja, a se je odločila za pot, ki je vodila v propad. Ta oseba si je delila dom z enim od Alahovih izbranih poslancev, a ni prestala preizkusa vere. Kdo je ta izgubljeni tovariš?",
+  "clues": [
+    "Živel sem med ljudmi, ki so zavračali klic k pravičnosti, in jim nisem nasprotoval.",
+    "Bila sem poročena z Alahovim prerokom, vendar nisem delila njegove vere.",
+    "Ko so sli prišli k meni domov z opozorilom, jim nisem verjel.",
+    "Mojemu ženi je bilo ukazano, naj zapusti mesto z verniki, jaz pa nisem bil med njimi.",
+    "Kazen je zadela moje ljudstvo in jaz sem bil uničen skupaj z njimi.",
+    "V Koranu sem omenjen kot primer nevere, skupaj z Nuhovo ženo, v suri At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Žena preroka Nuha",
+        "Žena preroka Luta",
+        "Žena preroka Ibrahima",
+        "Žena preroka Muse",
+        "Žena preroka Ajuba"
+      ],
+      "answer": "Žena preroka Luta"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Izdala moža z nevero",
+        "Zavrnil je sporočilo preroka Huda",
+        "V Kaabi so odkrito častili idole",
+        "Zarotila proti moževemu poslanstvu",
+        "Zavrnila je prerokovanje svojega sina"
+      ],
+      "answer": "Izdala moža z nevero"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Mesto Sodoma",
+        "Mesto Madyan",
+        "Mesto Iram",
+        "Mesto Babilon",
+        "Mesto Jeruzalem"
+      ],
+      "answer": "Mesto Sodoma"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Rešena z možem",
+        "Uničen z neverniki",
+        "Izgnan v daljno deželo",
+        "Pokesal se je in mu je bilo odpuščeno",
+        "Kasneje je postal vernik"
+      ],
+      "answer": "Uničen z neverniki"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "El marginat dels cels",
+  "intro": "Un ésser misteriós es troba a la cruïlla entre la creació i el rebuig. La seva història és d'arrogància inigualable i de desafiament absolut a un manament diví. La seva elecció ressona a través de cada generació, convertint-se en una prova per a cada ànima nascuda en aquest món. Pots identificar aquest adversari etern?",
+  "clues": [
+    "Vaig ser present en un esdeveniment de significació còsmica, quan un nou ésser va ser format a partir d'argila i va rebre vida per l'Alè del Misericordiós.",
+    "Jo mateix vaig ser creat a partir d'un únic element ardent, a diferència d'aquell ésser de pols.",
+    "Em van donar una ordre que vaig considerar inferior a la meva posició.",
+    "L'orgull es va envair dins meu i em vaig negar rotundament a obeir aquella ordre.",
+    "Se'm va concedir un retard fins a un Dia assenyalat, per tal que pogués perseguir el meu propòsit declarat d'enganyar els altres.",
+    "Sóc l'enemic declarat de tots els qui caminen per la terra, xiuxiuejant enganys i allunyant-los del camí recte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Iblis (Satanàs)",
+        "Faraó (Fir'awn)",
+        "Aman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satanàs)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Es va negar a inclinar-se davant d'Adam",
+        "Va afirmar falsament la divinitat",
+        "Va forjar un vedell d'or per al culte",
+        "Va matar el seu germà per enveja",
+        "Va liderar l'oposició politeista a la Meca"
+      ],
+      "answer": "Es va negar a inclinar-se davant d'Adam"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Paradís (Jannah)",
+        "Palau del faraó a Egipte",
+        "La vall sagrada de Tuwa",
+        "Les profunditats del mar",
+        "El jardí de Saba"
+      ],
+      "answer": "Paradís (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va concedir un respir fins al Dia del Judici",
+        "Ofegat juntament amb l'exèrcit al mar",
+        "Engolit per la terra juntament amb tresors",
+        "Transformats en simis per violar el Sàbat",
+        "Cremat per pedres llançades del cel"
+      ],
+      "answer": "Es va concedir un respir fins al Dia del Judici"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Mpiambina eo amoron'ny Renirano",
+  "intro": "Tao amin'ny tany iray izay nitondra alahelo ho an'ny tokantrano maro ny didin'ny mpitondra jadona iray, dia nisy fanahy iray nandray hafatra izay nanohitra ny tahotra rehetra. Tamin'ny fo feno fahatokisana, dia nanomboka asa feno finoana izay hanova ny lalan'ny firenena iray izy ireo. Raha nitondra entana sarobidy ny rano, dia nifangaro tamin'ny riaka ny fanantenana.",
+  "clues": [
+    "Niaina tao anatin'ny fotoan'ny fampahoriana sy ny tahotra aho.",
+    "Nahazo aingam-panahy masina aho izay nanome ahy herim-po.",
+    "Nodidiana aho mba tsy hatahotra na halahelo.",
+    "Napetrako tao anaty vata ny zanako ary napetrako teo ambonin'ny rano.",
+    "Hitan'ny ankohonan'ny mpanapaka ny zanako, fa nanaraka kosa ny zanako iray hafa.",
+    "Nihaona indray tamin'ny zanako aho mba hampinono azy, araka ny nampanantenain'Andriamanitra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny Renin'i Mosesy",
+        "Ny vadin'i Farao",
+        "Ny Anabavin'i Mosesy",
+        "Ny Renin'i Jesosy",
+        "Ny Mpanjakavavin'i Sheba"
+      ],
+      "answer": "Ny Renin'i Mosesy"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nahazo aingam-panahy hanipy zaza ao anaty renirano",
+        "Fihaonana amin'ny duel majika",
+        "Enjehin'ny tafika",
+        "Miampita ranomasina izay nisaraka",
+        "Fanorenana trano masina"
+      ],
+      "answer": "Nahazo aingam-panahy hanipy zaza ao anaty renirano"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Vata napetraka tao anaty renirano",
+        "Kirihitra mirehitra",
+        "Tehina niova ho menarana",
+        "Ombilahy kely volamena",
+        "Seza fiandrianana"
+      ],
+      "answer": "Vata napetraka tao anaty renirano"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Naverina soa aman-tsara tany amin'ny mpitsabo mpanampy ilay zaza",
+        "Very mandrakizay ilay zaza",
+        "Nentina tany an-tany lavitra ilay zaza",
+        "Lasa mpitondra avy hatrany ilay zaza",
+        "Natsangan'ny mpivarotra mpanankarena iray ilay zaza"
+      ],
+      "answer": "Naverina soa aman-tsara tany amin'ny mpitsabo mpanampy ilay zaza"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

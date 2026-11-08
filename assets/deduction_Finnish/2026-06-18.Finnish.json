@@ -1,0 +1,61 @@
+{
+  "title": "Ensimmäiset anteeksiantoa etsivät",
+  "intro": "Astutaan ajassa taaksepäin aikaan ennen ensimmäistä auringonnousua, ennen kuin yksikään kuolevainen eli maan päällä. Hahmo muovattiin mitä vaatimattomimmista materiaaleista, sille annettiin enkelien yläpuolella oleva asema ja se asetettiin pyhään puutarhaan selkeän varoituksen kera. Silti yhdessä hetkessä tehtiin valinta – valinta, joka kaikuisi läpi koko ihmiskunnan historian. Kuka tämä hahmo on?",
+  "clues": [
+    "Minut luotiin erilaisella tavalla kuin mikään muu – minut muovattiin maan tomusta ja Luojan käden kautta annettiin minulle elävä sielu.",
+    "Minulle annettiin niin syvällistä tietoa, että jopa enkelit ylhäällä ihmettelivät sitä.",
+    "Koko taivaan käskettiin kumartaa edessäni, ja kaikki alistuivat – paitsi yksi, joka kieltäytyi ylpeydestä.",
+    "Minut sijoitettiin pyhään puutarhaan, ikuisen lohdun ja huolenpidon paikkaan – mutta yhdellä tiukalla kiellolla.",
+    "Unohdin, lipsahdin ja olin tottelematon – ja tunsin virheeni painon syvästi.",
+    "Käännyin Herrani puoleen sydämellisin sanoin, ja Hän hyväksyi katumukseni, sillä Hän on anteeksiantavaisin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Aadam",
+        "Profeetta Daavid",
+        "Profeetta Muhammed",
+        "Iblis",
+        "Profeetta Yaqub"
+      ],
+      "answer": "Profeetta Aadam"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Enkeleille annettiin käsky kumartaa",
+        "Suuri tulva lähetettiin",
+        "Suuri nuotio tehtiin viileäksi ja turvalliseksi",
+        "Ylimielinen hallitsija hukkui mereen",
+        "Norsujen armeija tuhoutui"
+      ],
+      "answer": "Enkeleille annettiin käsky kumartaa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Autuuden puutarha",
+        "Siinainvuori",
+        "Pyhä moskeija",
+        "Niili",
+        "Luola"
+      ],
+      "answer": "Autuuden puutarha"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Allah hyväksyi katumuksen",
+        "Hukkui mereen",
+        "Suuri kala nielaisi",
+        "Kansakuntaa iski voimakas räjähdys",
+        "Poltti paahtavan tuulen"
+      ],
+      "answer": "Allah hyväksyi katumuksen"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

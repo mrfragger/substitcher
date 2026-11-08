@@ -1,0 +1,61 @@
+{
+  "title": "Altın Denemesinde Sarsılmaz Müttefik",
+  "intro": "Büyük bir peygamberin gölgesinde, muazzam bir göreve yardımcı olmak için hitabet ve inanç sahibi bir ruh seçildi. Bu kişi, kitleler tereddüt ederken dimdik durdu ve tevhidin özünü tehdit eden bariz bir günaha karşı vaaz verdi. Peygamber, halkın bu zaafını görmek için geri döndüğünde, bu kişinin savunması suçluluk duygusundan değil, görev ve bölünme korkusundan kaynaklanıyordu. Allah'ın bu sadık kulu kimdir?",
+  "clues": [
+    "Allah tarafından bir başkasıyla birlikte kutsal bir görev için seçildim ve rolüm destek olmak ve duyurmaktı.",
+    "Bana konuşma özgürlüğü tanındı ve güçlü bir zalimle yüzleşmek üzere bir haberciye eşlik ettim.",
+    "Kritik bir yolculuk sırasında, haberci tek başına bir dağa tırmandı ve beni halkı gözetmekle görevlendirdi.",
+    "Onlar yokken, halk altından bir heykel yaptı ve ben onlardan sadık kalmalarını rica ettim, ama öğütlerimi reddettiler.",
+    "Haberci öfke ve kederle dolu bir şekilde geri döndüğünde, beni yakaladılar; fakat ben de onlara üstünlük sağlanamadığını ve aralarında anlaşmazlığa yol açmaktan korktuğumu açıkladım.",
+    "Ben, kardeşim Musa'nın yanında duran, onun yükünü paylaşan ve putperestliğe karşı dimdik duran peygamberim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Harun",
+        "Peygamber Musa",
+        "Peygamber İsa",
+        "Peygamber Davud",
+        "Peygamber Zekeriya"
+      ],
+      "answer": "Peygamber Harun"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İnsanlar uyarılara rağmen altın buzağıya taptılar.",
+        "İnsanlar beni alev alev yanan bir ateşin içine attılar.",
+        "Büyük bir balık tarafından yutuldum.",
+        "Asılsız suçlamalarla hapse atıldım.",
+        "Vaaz verdiğim için şehrimden sürgün edildim."
+      ],
+      "answer": "İnsanlar uyarılara rağmen altın buzağıya taptılar."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Altın Buzağı",
+        "Yanan Çalı",
+        "Yılana dönüşen asa",
+        "Antlaşma Tabletleri",
+        "Ahd Sandığı"
+      ],
+      "answer": "Altın Buzağı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Aklanmam sonucunda peygamberlik görevime devam ettim.",
+        "Halkın günahı yüzünden cezalandırıldım.",
+        "Bana yönetmem için yeni bir ulus verildi.",
+        "Ben diri diri cennete götürüldüm.",
+        "Bir krallığın yöneticisi oldum."
+      ],
+      "answer": "Aklanmam sonucunda peygamberlik görevime devam ettim."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

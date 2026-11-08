@@ -1,0 +1,61 @@
+{
+  "title": "Kiven arkkitehdit",
+  "intro": "Kuvittele voimakas sivilisaatio, jolla on voimaa ja taitoa ja joka kaivertaa suuria asumuksia vuorenrinteisiin. Tällä kollektiivilla oli valtava vauraus ja ainutlaatuinen arkkitehtoninen kyvykkyys. Silti selkeistä varoituksista huolimatta he valitsivat polun, joka johtaisi dramaattiseen ja unohtumattomaan päätökseen. Voitko tunnistaa tämän ryhmän, jonka tarina on syvällinen opetus kaikille, jotka pohtivat asiaa?",
+  "clues": [
+    "Meille annettiin voimaa ja taitoa, joiden avulla kykenimme kaivertamaan upeita koteja suoraan vuorille.",
+    "Saimme Allahilta selkeän merkin, ainutlaatuisen olennon, jonka piti laiduntaa rauhassa.",
+    "Yhteisöstämme tuli ylimielinen ja se haastoi joukostamme kotoisin olevan sanansaattajan tuoman jumalallisen sanoman.",
+    "Me juonittelimme vahingoittaaksemme ihmeellistä merkkiä, varoituksista huolimatta ankarista rangaistuksista.",
+    "Uhmasimme käskyä antaa tuon erityisen olennon juoda kaivostamme joka toinen päivä.",
+    "Kohtasimme tuhoisan lopun, lyötynä maahan yhden ainoan kauhistuttavan räjähdyksen jälkeen rikkomuksemme jälkeen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "'Ad:n ihmiset",
+        "Midianin kansa",
+        "Norsun kansa",
+        "Thamudin kansa",
+        "Lutin kansa"
+      ],
+      "answer": "Thamudin kansa"
+    },
+    "trial": {
+      "label": "Suurin oikeudenkäyntimme/tapahtumamme",
+      "options": [
+        "Tulva, joka hukutti maan",
+        "Meren jakautuminen",
+        "Yhden räjähdyksen/huudon aiheuttama tuho",
+        "Kaupungin palaminen",
+        "Vuoren muuttuminen tomuksi"
+      ],
+      "answer": "Yhden räjähdyksen/huudon aiheuttama tuho"
+    },
+    "location": {
+      "label": "Keskeinen elementti tarinassamme",
+      "options": [
+        "Kultainen vasikka",
+        "Ihmeellinen naaraskameli",
+        "Palava pensas",
+        "Puhuva lintu",
+        "Majesteettinen valtaistuin"
+      ],
+      "answer": "Ihmeellinen naaraskameli"
+    },
+    "outcome": {
+      "label": "Lopputulos",
+      "options": [
+        "Myönsi valtavasti vaurautta ja valtaa",
+        "Ylennetty profeetan asemaan",
+        "Täydellinen tuho jumalallisen rangaistuksen kautta",
+        "Anteeksi annettu vilpittömän katumuksen jälkeen",
+        "Hajallaan ympäri maata vaeltamaan"
+      ],
+      "answer": "Täydellinen tuho jumalallisen rangaistuksen kautta"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

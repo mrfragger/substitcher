@@ -1,0 +1,61 @@
+{
+  "title": "L'Enveja Que Consumava",
+  "intro": "Un conte mai ancian que quin reialme o escritura que siá — la primièra tragèdia umana nascuda de la gelosiá. Una anma, la mai anciana de dos enfants nascuts dels primièrs parents, regardèt amb furia qu'un fraire mai jove recebiá de favor que foguèt negada. Çò que seguiguèt foguèt la mai escura de las causidas, daissant darrièr lo primièr sang jamai versat sus la tèrra. Podètz descobrir l'identitat, lo jutjament, e lo regret amar?",
+  "clues": [
+    "Soi nascut del primièr parelh d'umans a caminar sus la tèrra.",
+    "Un còp faguèri una ofèrta a Allah, mas foguèt pas acceptada de ieu.",
+    "L'ofèrta de mon fraire foguèt acceptada, del temps que la miá foguèt rebutada — quicòm que podiái pas suportar.",
+    "Menacèri mon pròpri fraire de destruccion.",
+    "Venguèri lo primièr a cometre d'assassinat sus aquela tèrra, en prenent la vida de mon pròpri fraire.",
+    "Allah mandèt una creatura de la tèrra — un aucèl negre que cavava dins lo sòl — per m'ensenhar cossí amagar çò qu'aviái fach, e me demorèri pas que de regrets."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Qabil (Caïn)",
+        "Habil (Abel)",
+        "Lo profèta Yaqub",
+        "Lo profèta Musa",
+        "Lo profèta Adam"
+      ],
+      "answer": "Qabil (Caïn)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Ofèrta refusada per Allah",
+        "Gitat dins un grand fuòc",
+        "Abandonat coma un nenon dins un riu",
+        "Testat amb un reialme immens",
+        "Mandat de sacrificar son filh"
+      ],
+      "answer": "Ofèrta refusada per Allah"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo corb mandat per Allah",
+        "Lo vedèl d'aur",
+        "L'arca sus la montanha",
+        "L'arbust ardent",
+        "La camèla talhada de ròca"
+      ],
+      "answer": "Lo corb mandat per Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Venguèt emplit de regret e demest los perdents",
+        "Engolit dins la tèrra amb de tresaurs",
+        "Venguèt un nòble messatgièr d'Allah",
+        "Dintrèt dins lo Paradís per la misericòrdia divina",
+        "Governat sus un reialme incomparable"
+      ],
+      "answer": "Venguèt emplit de regret e demest los perdents"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

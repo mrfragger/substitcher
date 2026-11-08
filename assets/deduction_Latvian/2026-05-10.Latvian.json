@@ -1,0 +1,61 @@
+{
+  "title": "Torņu celtnieki",
+  "intro": "Senā pagātnē radās varena civilizācija, kas izcēlās ar iespaidīgiem celtniecības sasniegumiem un ievērojamu spēku. Šai kolektīvajai vienībai tika piešķirti bagātīgi resursi un fiziska varenība, tomēr tā izvēlējās nepakļauties dievišķajam vēstījumam, kas tika sūtīts, lai viņus vadītu. Viņu stāsts kalpo kā dziļa mācība vēstures annālēs, liecība par patiesības noraidīšanas sekām.",
+  "clues": [
+    "Mums tika piešķirts milzīgs fiziskais spēks un augums, atšķirībā no jebkuras citas mūsu laika tautas.",
+    "Mēs bijām pazīstami ar to, ka katrā augstā vietā cēlām grandiozas celtnes un augstus stabus, domājot, ka dzīvosim mūžīgi.",
+    "No mūsu vidus tika sūtīts vēstnesis, lai mūs brīdinātu, aicinot mūs pielūgt tikai Allāhu un atteikties no saviem elkiem.",
+    "Mēs augstprātīgi iztaujājām savu vēstnesi, vaicājot, vai viņi ir ieradušies pie mums tikai tāpēc, lai piespiestu mūs pielūgt Allāhu un atteikties no tā, ko pielūdza mūsu senči.",
+    "Mūsu zeme bija svētīta ar dārziem, avotiem un auglīgiem laukiem, bet mēs savu labklājību piedēvējām savam spēkam, nevis Radītājam.",
+    "Mūsu pastāvīgās neticības un izsmiekla dēļ mūs galu galā iznīcināja šausminošs, nikns vējš, kas plosījās daudzas dienas un naktis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Tamudas iedzīvotāji",
+        "Fir'aun ļaudis",
+        "Nuhas iedzīvotāji",
+        "Madjanas iedzīvotāji",
+        "Reklāmas cilvēki"
+      ],
+      "answer": "Reklāmas cilvēki"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lūgums upurēt konkrētu kamieli",
+        "Tiek izaicināts radīt desmit Korānam līdzīgas suras",
+        "Tiek rādīta jūras sadalīšanās",
+        "Pravieša brīdinājums par gaidāmajiem plūdiem",
+        "Noraidot pravieti, kurš brīdināja par pārmērīgu celtniecību un elku pielūgšanu"
+      ],
+      "answer": "Noraidot pravieti, kurš brīdināja par pārmērīgu celtniecību un elku pielūgšanu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Uguns",
+        "Sodomas pilsēta",
+        "Augsti pīlāri un stipras mājvietas"
+      ],
+      "answer": "Augsti pīlāri un stipras mājvietas"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Noslīka lielos plūdos",
+        "Zeme norīja",
+        "Pārveidojušies par pērtiķiem un cūkām",
+        "Iznīcināts pērkona dārda dēļ",
+        "Iznīcināts nikna, postoša vēja brāzmainā"
+      ],
+      "answer": "Iznīcināts nikna, postoša vēja brāzmainā"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

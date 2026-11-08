@@ -1,0 +1,60 @@
+{
+  "title": "Sen Wieków",
+  "intro": "Wyruszysz w podróż w czasie, by odkryć głęboką tajemnicę wiary i boskiej mocy. Wyobraź sobie grupę ludzi, którzy sprzeciwili się normom swojego społeczeństwa, kurczowo trzymając się monoteizmu w świecie politeizmu. Ich historia jest świadectwem zdolności Allaha do ochrony swoich prawych sług w najbardziej niezwykły sposób. Czy potrafisz odkryć tożsamość tych niezwykłych postaci?",
+  "clues": [
+    "Byliśmy małą grupą młodych mężczyzn, którzy wierzyli w jednego Boga, pomimo powszechnego wśród naszego ludu politeizmu.",
+    "Uciekliśmy przed tyranem, który groził nam z powodu naszej wiary, obawiając się prześladowań i śmierci.",
+    "Szukaliśmy schronienia w odosobnionym miejscu, licząc na miłosierdzie Allaha i ochronę przed naszymi ciemiężycielami.",
+    "Nasz Pan sprawił, że zapadliśmy w głęboki sen, cudowny sen, który nie poddał się upływowi czasu.",
+    "Kiedy się obudziliśmy, myśleliśmy, że odpoczęliśmy zaledwie przez jeden dzień lub jego część, nie zdając sobie sprawy, jak długi czas w rzeczywistości minął.",
+    "Koran wspomina, że ​​pozostawaliśmy w naszym stanie przez trzysta lat, a potem przekroczyliśmy go o dziewięć, stając się znakiem dla ludzkości."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z rowu",
+        "Ludzie z Thamud",
+        "Ludzie jaskini",
+        "Ludzie Madyanu",
+        "Towarzysze Słonia"
+      ],
+      "answer": "Ludzie jaskini"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "W obliczu wielkiej powodzi",
+        "Pochłonięty przez ziemię",
+        "Długi cudowny sen",
+        "Zniszczenie ich miasta",
+        "Rozdzielenie morza"
+      ],
+      "answer": "Długi cudowny sen"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Płonący krzew",
+        "Góra",
+        "Łódź",
+        "Jaskinia",
+        "Studnia"
+      ],
+      "answer": "Jaskinia"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przyznano im ogromne bogactwo i władzę",
+        "Zmienili się w małpy i świnie",
+        "Wybudzili się ze snu jako głęboki znak",
+        "Utonęli w wielkim potopie",
+        "Zbudowali wspaniałe królestwo"
+      ],
+      "answer": "Wybudzili się ze snu jako głęboki znak"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

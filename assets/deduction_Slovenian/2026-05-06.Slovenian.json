@@ -1,0 +1,61 @@
+{
+  "title": "Glas iz gorečega grma",
+  "intro": "Razkrijte identiteto pomembne osebnosti, katere pot se je začela s čudežnim srečanjem in katere usoda je bila prepletena z osvoboditvijo zatiranih ljudi. Ta posameznik je bil izbran za monumentalno nalogo, ki se je z božjo podporo soočala z ogromnimi izzivi.",
+  "clues": [
+    "Rodil sem se v času velikega zatiranja, ko so ubijali dojenčke mojega ljudstva.",
+    "V zgodnjem življenju so me starši vrgli v reko, vendar so me našli in vzgojili v gospodinjstvu zatiratelja mojega ljudstva.",
+    "Nekoč sem pobegnil iz mesta, potem ko sem med sporom nenamerno povzročil smrt posameznika.",
+    "Na svetem mestu, kjer mi je bilo ukazano, naj se soočim z mogočnim vladarjem, sem prejel božansko sporočilo in čudežno palico.",
+    "Moj brat je bil imenovan za pomočnika pri mojem poslanstvu zaradi zaznane govorne motnje.",
+    "Svoje ljudstvo sem vodil čez razdvojeno morje in ubežal zasledovanju tiranske vojske."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Jusuf",
+        "Prerok Isa",
+        "Prerok Musa",
+        "Prerok Nuh",
+        "Prerok Ibrahim"
+      ],
+      "answer": "Prerok Musa"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Vztrajna leta suše",
+        "Gradnja barke",
+        "Soočenje s faraonom in njegovimi čarovniki",
+        "Biti vržen v ognjeno peč",
+        "Uničenje ljudstva Thamuda"
+      ],
+      "answer": "Soočenje s faraonom in njegovimi čarovniki"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kaba",
+        "Železni zid",
+        "Osebje",
+        "Nuhova ladja",
+        "Sulejmanov prstan"
+      ],
+      "answer": "Osebje"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Mesto Sodoma je bilo porušeno",
+        "Ljudje so bili pogoltnjeni z zemljo",
+        "Velika poplava je zajela deželo",
+        "Faraon in njegova vojska sta se utopila",
+        "Mestno obzidje se je zrušilo od joka"
+      ],
+      "answer": "Faraon in njegova vojska sta se utopila"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

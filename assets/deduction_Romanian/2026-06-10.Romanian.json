@@ -1,0 +1,61 @@
+{
+  "title": "Gardienii Grădinii",
+  "intro": "Într-o grădină luxuriantă, o comunitate a făcut un jurământ solemn. Dar hotărârea lor a fost pusă la încercare când voința divină a intervenit, transformând bogăția lor într-un pământ sterp.",
+  "clues": [
+    "Am fost binecuvântați cu o grădină îmbelșugată, dar am devenit aroganți.",
+    "Am făcut un plan să recoltăm fără să împărțim cu săracii.",
+    "Am pornit la drum devreme dimineața, încrezători în planul nostru.",
+    "Dar când am ajuns, am descoperit că grădina noastră fusese distrusă peste noapte.",
+    "Ne-am dat seama de greșeala noastră și am început să dăm vina unii pe alții.",
+    "În cele din urmă ne-am pocăit, dar lecția a fost învățată prea târziu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oamenii din Grădină",
+        "Oamenii din peșteră",
+        "Oamenii elefantului",
+        "Oamenii din Thamud",
+        "Oamenii din 'Ad"
+      ],
+      "answer": "Oamenii din Grădină"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "O grădină transformată în cenușă",
+        "O inundație care a distrus totul",
+        "O foamete care a lovit țara",
+        "O armată de păsări atacă",
+        "Un vânt puternic care a smuls copacii din rădăcini"
+      ],
+      "answer": "O grădină transformată în cenușă"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O grădină",
+        "O peșteră",
+        "O navă",
+        "Un munte",
+        "Un palat"
+      ],
+      "answer": "O grădină"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "S-au pocăit, dar și-au pierdut grădina",
+        "Au fost distruși complet",
+        "Au fost transformați în maimuțe",
+        "Ei au fost mântuiți prin credință",
+        "Au devenit conducători"
+      ],
+      "answer": "S-au pocăit, dar și-au pierdut grădina"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

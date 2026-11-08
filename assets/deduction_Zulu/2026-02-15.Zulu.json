@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Lokuqina",
+  "intro": "Lo muntu ukhunjulwa ngokuhlakanipha okujulile kanye nesiqondiso, enikeza iseluleko esidlula izizukulwane. Amazwi abo ayibufakazi bobungcwele kanye nokubaluleka kokuqaphela izibusiso nezilingo ezivela kuNkulunkulu. Yembula ubunjalo balo mphefumulo ohlonishwayo.",
+  "clues": [
+    "Ngangingeyena umprofethi, kodwa ukuhlakanipha kwami ​​​​akufi emiBhalweni Engcwele.",
+    "Iseluleko sami engasinika ingane yami sasigcizelela ukubonga u-Allah nokugwema i-shirk.",
+    "Ngafundisa ngokubaluleka komthandazo, ukuyala okuhle, kanye nokwenqabela okubi.",
+    "Ngaxwayisa ngokuzikhukhumeza nokuhamba ngokudelela emhlabeni.",
+    "Igama lami linikezwe isahluko sonke ku-Quran, siqokomisa izimfundiso zami.",
+    "Iseluleko sami sasihlanganisa ukubekezela ebunzimeni, ngoba empeleni, lokho kuvela ezindabeni eziqinile kakhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Idris",
+        "Umprofethi uYahya",
+        "ULuqman",
+        "u-Imran",
+        "Umprofethi uHud"
+      ],
+      "answer": "ULuqman"
+    },
+    "trial": {
+      "label": "Ukufundisa/Isiqondiso Esiyinhloko",
+      "options": [
+        "Ukwakha umkhumbi",
+        "Ukubhekana nebutho elinamandla",
+        "Ukunikeza ukuhlakanipha nezeluleko zokuziphatha",
+        "Ukuhumusha amaphupho",
+        "Ukuhola isizwe ekunqobeni"
+      ],
+      "answer": "Ukunikeza ukuhlakanipha nezeluleko zokuziphatha"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isihlahla esivuthayo",
+        "Inhlanzi enkulu",
+        "Intaba ethile",
+        "Iseluleko esihlakaniphile enzalweni",
+        "Isigodlo esikhulu"
+      ],
+      "answer": "Iseluleko esihlakaniphile enzalweni"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waba yinkosi",
+        "Wanikwa ubuprofethi",
+        "Ukuhlakanipha kwakhe kwabhalwa e-Quran",
+        "Wahola abantu bakhe ezweni elisha",
+        "Wanikwa ingcebo enkulu"
+      ],
+      "answer": "Ukuhlakanipha kwakhe kwabhalwa e-Quran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

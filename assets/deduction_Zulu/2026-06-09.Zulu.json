@@ -1,0 +1,61 @@
+{
+  "title": "Umshayeli Ongaguquki Oya Eqinisweni",
+  "intro": "Isithunywa simi sodwa phakathi kwabantu abanenkani, sibabizela kuNkulunkulu Oyedwa Weqiniso kuyilapho bona benamathela ezithombeni zamanga. Lo mprofethi unegama elizwakala linencazelo enamandla—'lowo ofuna isivikelo'—kodwa uthola ukwenqatshwa nokuphikwa kuphela. Ngokuncenga okumnene kanye nesixwayiso esiqinile, lo mphefumulo uphethe umyalezo waphezulu ozoqinisekiswa yindalo yonke ekugcineni. Ungamthola lo muntu oqinile omelela enye yezindaba zakudala kakhulu emibhalweni yamaSulumane?",
+  "clues": [
+    "Abantu bami babekhonza onkulunkulu abaningi, kuyilapho mina ngibabizela ukukhonza Lowo owadala amazulu nomhlaba.",
+    "Ngema phambi kwesizwe sakithi ngamemezela ukuthi angifuni mvuzo kubo—isifiso sami kuphela kwakuwukuqondisa kwabo ekulungeni.",
+    "Umoya omkhulu wathunyelwa kubantu bakithi njengesijeziso saphezulu, umoya iQuran ekhuluma ngawo ngezindlela eziningi kanye nabesifazane.",
+    "Ngokungafani nabanye abaprofethi, angizange nginikwe umfazi noma abantwana okukhulunywe ngabo kakhulu endabeni yami, ngoba umsebenzi wami kwakuwukubiza abantu bakithi bodwa.",
+    "Igama lami linencazelo ejulile—ehlobene nomqondo wokuvikelwa kanye nesiphephelo umuntu asifunayo.",
+    "Abantu bakithi babaziwa ngegama elithile lendawo lesigodi ababehlala kuso, futhi izwe labo lalichazwa ngendelelo enkulu ngenxa yokuntuleka kwalo kwezitshalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uHud",
+        "Umprofethi uSalih",
+        "Umprofethi uShu'aib",
+        "Umprofethi uNuh",
+        "Umprofethi uHudayb"
+      ],
+      "answer": "Umprofethi uHud"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Uzamcolo womhlaba",
+        "Umoya oshisayo",
+        "Ukuzamazama komhlaba kwembubhiso",
+        "Isomiso nendlala",
+        "Ukuminza olwandle"
+      ],
+      "answer": "Umoya oshisayo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isigodi esivundile saseYemen",
+        "Ihlane elinesihlabathi laseMidiyani",
+        "Isigodi esinamadwala saseThamud",
+        "Izwe lasendulo labantu base-'Ad",
+        "Isifunda saseGibhithe esisogwini"
+      ],
+      "answer": "Izwe lasendulo labantu base-'Ad"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Abantu bami baphenduka bangena epharadesi",
+        "Akekho noyedwa kubantu bami owasinda esijezisweni",
+        "Ngathathwa ngiphila njengomfowethu uYunus",
+        "Ngathuthela nabalandeli bami ezweni elibusisiwe",
+        "Umoya wabhubhisa abangakholwa kuphela kwathi abakholwayo basinda."
+      ],
+      "answer": "Akekho noyedwa kubantu bami owasinda esijezisweni"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

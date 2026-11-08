@@ -1,0 +1,61 @@
+{
+  "title": "Nsango Esengo na Bobange",
+  "intro": "Ozali kotatola mwa ntango oyo elikya ezongisami. Babalani, oyo baleki kala mbula ya kozala moboti, bazwaka elaka oyo ezali koboya mibeko ya bozalisi. Kati na bango etelemi elilingi oyo bozali na yango mpenza ezali elembo ya ngolu ya bonzambe﻿—molimo oyo esengelaki kozala mosakoli, ememi libula oyo ekozwa mabota. Moto yango ya kokamwa azali nani?",
+  "clues": [
+    "Nabotamaki na baboti oyo bakómaki mibange mpe babotaki bana te.",
+    "Mbotama na ngai esakolamaki na baanzelu oyo bayaki lokola bapaya na libota na ngai.",
+    "Bapesaki ngai mayele mpe boprofeta, mpe balobeli ngai kati na bato ya motema molai.",
+    "Bazalaki kobenga tata na ngai moninga ya Allah, mpe nazalaki likabo epai na ye na bambula na ye ya nsuka.",
+    "Nazalaki na ndeko mobali moko oyo azalaki mpe profeta, mpe biso mibale topambolamaki na Nkolo na biso.",
+    "Mwana na ngai ya mobali azalaki mpe profeta, mpe bakitani na ngai bapesamaki makomi mpe boprofeta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ishaq (Isaka) .",
+        "Mosakoli Ismail (Ismaele) .",
+        "Mosakoli Yaqub (Jacob) .",
+        "Mosakoli Yahya (Yoane) .",
+        "Mosakoli Uzaire (Ezela) ."
+      ],
+      "answer": "Mosakoli Ishaq (Isaka) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Abotamaki na baboti oyo bakómi mibange",
+        "Babwaki yango na mɔtɔ",
+        "Bapesaki bokonzi mpe bozwi",
+        "Akambaki bato na ye na Ezipito",
+        "Atongaki masuwa mpo na kobikisa bandimi"
+      ],
+      "answer": "Abotamaki na baboti oyo bakómi mibange"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nsango ya esengo ya mwana mobali",
+        "Nzete oyo ezali kozika",
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Sanduku ya kondimana",
+        "Likonzí ya bosakoli"
+      ],
+      "answer": "Nsango ya esengo ya mwana mobali"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki mosakoli oyo azalaki na molɔngɔ ya basakoli",
+        "Akómaki mokonzi ya bozwi",
+        "Bato na ye babebisamaki mpo na kozanga kondima",
+        "Abikisamaki na mɔ́tɔ",
+        "Bapesaki ye likoki ya koloba ntango azalaki bebe"
+      ],
+      "answer": "Akómaki mosakoli oyo azalaki na molɔngɔ ya basakoli"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

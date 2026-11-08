@@ -1,0 +1,61 @@
+{
+  "title": "Duše jarka",
+  "intro": "Potujete nazaj v obdobje, ko je neusmiljen vladar zahteval absolutno predanost lažnim božanstvom. Majhna skupnost predanih duš je to zavrnila in se soočila s tako hudo kaznijo, da je postala večno prekleta. Njihova zgodba odmeva v Koranu kot dokaz neomajne vere. Ali lahko prepoznate to neomajno skupino?",
+  "clues": [
+    "Živeli smo v deželi pod tiranijo vladarja, ki je zahteval čaščenje lažnih božanstev",
+    "Naša skupnost se je soočala s hudim preganjanjem izključno zaradi naše vere v edinega Alaha",
+    "Vladar je ukazal izkopati velik jarek in ga zakuriti z močnimi plameni.",
+    "Ker se nismo hoteli odpovedati svoji veri, so nas enega za drugim vrgli v to ognjeno jamo.",
+    "Naša zgodba je postala del Korana, tisti, ki so nas preganjali, pa so bili večno prekleti.",
+    "Sura, ki opisuje našo preizkušnjo, je poimenovana po velikih nebesnih znamenjih na nebu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Spremljevalci jarka (Ashab al-Ukhdud)",
+        "Ljudje iz jame (Ashab al-Kahf)",
+        "Ljudje sobote",
+        "Ljudje iz A'ada",
+        "Ljudje iz Thamuda"
+      ],
+      "answer": "Spremljevalci jarka (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Naše sojenje",
+      "options": [
+        "Biti živ sežgan v ognjeni jami",
+        "Biti zaprt v jami več let",
+        "Ribolov na sveti dan počitka",
+        "Uničen zaradi tulečega vetra",
+        "Uboj svete kamele"
+      ],
+      "answer": "Biti živ sežgan v ognjeni jami"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Plameneči ognjeni jarek",
+        "Skrita jama z zvestim psom",
+        "Visoki stebri starodavnega obsojenega mesta",
+        "Gorska bivališča, vklesana v kamnite pečine",
+        "Odprta ravnina, ki jo premetavajo siloviti vetrovi"
+      ],
+      "answer": "Plameneči ognjeni jarek"
+    },
+    "outcome": {
+      "label": "Naš rezultat",
+      "options": [
+        "Bili smo mučeni in preganjalci so bili večno prekleti",
+        "Zbudili smo se po 309 letih spanja",
+        "Zaradi našega prestopka smo se spremenili v opice",
+        "Močan tulijoč veter nas je vse uničil",
+        "En sam uničujoč krik je uničil naš obstoj"
+      ],
+      "answer": "Bili smo mučeni in preganjalci so bili večno prekleti"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

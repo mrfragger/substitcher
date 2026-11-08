@@ -1,0 +1,60 @@
+{
+  "title": "Povara bogățiilor",
+  "intro": "Te afli în fața unei povești despre o avere imensă, o viață împodobită cu aur și putere, dar, în cele din urmă, o lecție de avertizare pentru toți cei care caută grandoarea lumească. Poți descifra identitatea acestei figuri a cărei poveste răsună în timp, o dovadă a naturii trecătoare a posesiunilor lumești?",
+  "clues": [
+    "Eram din poporul unui mare Profet, dar am ales o cale a aroganței și a opresiunii.",
+    "Allah mi-a dăruit o bogăție imensă, atât de mare încât cheile comorilor mele au fost o povară grea pentru un grup puternic de oameni.",
+    "Poporul meu m-a sfătuit să nu mă bucur de bogățiile mele, amintindu-mi că Allah nu-i iubește pe cei care se bucură de ele.",
+    "Am susținut cu aroganță că vasta mea avere se datora propriilor mele cunoștințe și efort, nu unei binecuvântări de la Allah.",
+    "Am fost avertizat împotriva corupției și mi s-a amintit să caut Viața de Apoi cu ceea ce mi-a dat Allah, dar am refuzat să ascult și am continuat în mândria mea.",
+    "În cele din urmă, Allah a făcut ca pământul să mă înghită pe mine și locuința mea, lăsându-mă fără ajutor, împotriva poruncii Sale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "faraon",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Despărțirea mării",
+        "Focul lui Nimrod",
+        "Inundația",
+        "Înghițirea de către pământ",
+        "Infestarea lăcustelor"
+      ],
+      "answer": "Înghițirea de către pământ"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca",
+        "Personalul",
+        "Vițelul de Aur",
+        "Comorile/Cheile",
+        "Fântâna lui Zamzam"
+      ],
+      "answer": "Comorile/Cheile"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Regat acordat",
+        "Salvat de la distrugere",
+        "Înghițit de pământ",
+        "A devenit profet",
+        "A murit în pace"
+      ],
+      "answer": "Înghițit de pământ"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

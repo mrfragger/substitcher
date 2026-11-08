@@ -1,0 +1,61 @@
+{
+  "title": "Boyun Eğmez Otorite",
+  "intro": "Eski topraklarda, muazzam kaynaklara ve sayısız insanın hayatına hükmeden güçlü bir otorite bir zamanlar hüküm sürüyordu. Açık işaretlere ve uyarılara rağmen, bu hükümdar meydan okuma yolunu seçti ve bu da zaman içinde yankılanacak derin bir çatışmaya yol açtı.",
+  "clues": [
+    "Geniş bir alanda mutlak güç ve yetki iddiasında bulundum.",
+    "Bütün âlemlerin Rabbi tarafından gönderilen mütevazı bir elçiye meydan okudum.",
+    "Halkım, görkemli yapılar inşa etme konusundaki ustalığı ve medeniyetimizi ayakta tutan nehirle tanınıyordu.",
+    "Asanın yılana dönüşmesi ve elin ışıldaması gibi birçok mucizevi olaya şahit oldum.",
+    "Tanrı'nın emirlerine rağmen, köleleştirilmiş bir grup insanın topraklarımı terk etmesine izin vermeyi reddettim.",
+    "Ayrılan insanların peşine düşmem, beni ve ordularımı bölünmüş bir denizin kalbine götürdü."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yusuf",
+        "Kral Talut",
+        "Firavun",
+        "Peygamber Davud",
+        "Namrud"
+      ],
+      "answer": "Firavun"
+    },
+    "trial": {
+      "label": "Ana Çatışma",
+      "options": [
+        "Toprakları sular altında bırakan sel.",
+        "Denizin yarılması",
+        "Yanan çalı",
+        "Kabe'nin inşası",
+        "Güçlü bir rüzgarın yıkımı"
+      ],
+      "answer": "Denizin yarılması"
+    },
+    "location": {
+      "label": "Tanımlayıcı Özellik",
+      "options": [
+        "konuşan bir hayvan",
+        "Bir asa ve parlayan bir el",
+        "Mucizevi bir doğum",
+        "uçan bir halı",
+        "Su üzerinde görkemli bir taht"
+      ],
+      "answer": "Bir asa ve parlayan bir el"
+    },
+    "outcome": {
+      "label": "Nihai Kader",
+      "options": [
+        "Göğe yükseldi",
+        "Toprak tarafından yutuldu",
+        "Denizde boğuldu",
+        "Maymuna dönüştürüldü",
+        "Verilen muazzam zenginlik ve güç"
+      ],
+      "answer": "Denizde boğuldu"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

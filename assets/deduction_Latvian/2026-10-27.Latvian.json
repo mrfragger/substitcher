@@ -1,0 +1,61 @@
+{
+  "title": "Aplenkums zem pēkšņām debesīm",
+  "intro": "Jūs stāvat spēcīgas armijas priekšā, kas tuvojas godājamai svētnīcai, visi ieroči gatavībā un uzvara šķiet neizbēgama. Pirms uzbrukuma sākuma virs galvas parādās negaidīts spēks, un cīņa iegūst pavērsienu, ko neviens neparedzēja.",
+  "clues": [
+    "Mēs soļojām ar pārliecību, ko nekāda zemes vara nespēja satricināt.",
+    "Mēs atvedām varenus ziloņus, un šķita, ka mūsu spēki ir veidoti ap tiem.",
+    "Mēs bijām ieradušies nojaukt godājamu svētnīcu, ticot, ka mūsu uzvara jau ir droša.",
+    "Kad mēs to sasniedzām, debesīs virs mums lidoja putnu bars.",
+    "Putni meta mūsu karotājiem sacietējušus māla akmeņus.",
+    "Mēs tikām tik pilnībā sakauti, ka mūsu varenais spēks sabruka un izklīda kā pelni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Ziloņa ļaudis",
+        "Divi prinči",
+        "Jāzepa brāļi",
+        "Allāha kalps Dhul-Kiflā",
+        "Taisnīgā cilvēka biedri"
+      ],
+      "answer": "Ziloņa ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Ziloņu vadītais uzbrukums Kaabai",
+        "Jūra pašķīrās atbrīvotas grupas priekšā",
+        "Arkas sagrābšana, ko veic tirāniska tauta",
+        "Nakts ceļojums starp divām mošejām",
+        "Spitālīgā dziedināšana ar dievišķu spēku"
+      ],
+      "answer": "Ziloņu vadītais uzbrukums Kaabai"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Putni nes māla granulas",
+        "Goferkoka šķirsts",
+        "Personāla nūja pārvērtās par čūsku",
+        "Akmens, kas aizzīmogots ar zīmi",
+        "Degošs krūms"
+      ],
+      "answer": "Putni nes māla granulas"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņu varenais spēks sabruka kā pelni",
+        "Viņi droši šķērsoja jūru",
+        "Viņi neskarti izgāja cauri degošai krāsnij",
+        "Viņi iegāja Paradīzē pa pāriem",
+        "Viņi gulēja alā 309 gadus"
+      ],
+      "answer": "Viņu varenais spēks sabruka kā pelni"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

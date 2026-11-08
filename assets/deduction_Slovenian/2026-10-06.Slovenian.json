@@ -1,0 +1,61 @@
+{
+  "title": "Resnica, ki je utišala sodišče",
+  "intro": "V palači, kjer je vladalo zanikanje in je bila moč absolutna, se je skupina spretnih praktikov znašla pred nepričakovanim izzivom. Zrak je prasketal od pričakovanja, ko sta se poti laži in resnice kmalu srečali. Zbrani niso slutili, da bo to srečanje za vedno spremenilo njihova življenja in njihovo zgodbo vtisnilo v sveto besedilo.",
+  "clues": [
+    "Znani smo bili po svoji spretnosti v iluzijah in zbral nas je mogočni vladar, da bi se soočili z izzivalcem.",
+    "Ko je prišel trenutek, smo odvrgli svoja orodja in pričakovali izid, prepričani v svojo obrt.",
+    "Toda to, čemur smo bili priča, je naše lastne naprave naredilo videti kot zgolj igrače in naša srca so prepoznala neizpodbitno resnico.",
+    "Padli smo na tla v prostraciji in izjavili svojo vero v Gospoda Mojzesa in Arona, kljub vladarjevi jezi.",
+    "Ta vladar nam je grozil z najbrutalnejšo kaznijo in prisegel, da nas bo križal in nam prerezal ude v nasprotni smeri.",
+    "Ostali smo neomajni in govorili, da imamo raje sodbo našega Gospoda kot kakršne koli posvetne posledice, in bili smo mučeni zaradi svoje vere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Faraonovi čarovniki",
+        "Ljudje iz jame",
+        "Gozdni tovariši",
+        "Izajevi učenci",
+        "Ljudje slona"
+      ],
+      "answer": "Faraonovi čarovniki"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Čarovniško tekmovanje proti Musi",
+        "Ogenj, vržen nanje",
+        "Poplava, ki jih je utopila",
+        "Suša in lakota",
+        "Potres"
+      ],
+      "answer": "Čarovniško tekmovanje proti Musi"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Palice in vrvi, ki so se spremenile v kače",
+        "Goreči grm",
+        "Kamela",
+        "Lesena skrinja",
+        "Kit"
+      ],
+      "answer": "Palice in vrvi, ki so se spremenile v kače"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Usmrčen zaradi vere, obljubljen raj",
+        "Utopljen v morju",
+        "Postali so vladarji Egipta",
+        "Ostali privrženci faraona",
+        "Podedoval zemljo"
+      ],
+      "answer": "Usmrčen zaradi vere, obljubljen raj"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

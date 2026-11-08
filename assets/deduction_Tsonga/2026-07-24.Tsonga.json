@@ -1,0 +1,61 @@
+{
+  "title": "Muendli wa Xikungu Loyi A Funengeteke Swifunengeto",
+  "intro": "U tikuma u ri emahlweni ka munhu wa matimba ku sukela emasikwini ya nhlavutelo. Munhu loyi a a tiveka hi vutlhari, rifuwo ni xiyimo xa yena exikarhi ka vanhu va ka vona. Loko swikombiso leswi nga erivaleni swi fika, va xiye ku saseka kambe va hlawule ku kaneta ku tlula ku titsongahata. I yini lexi susumeteleke moya-xiviri lowu ku endla rhengu emunyameni, naswona xana vuyelo bya vona byo hetelela a byi ri byihi?",
+  "clues": [
+    "Ndzi katekisiwile hi swilo swo tala ni nkucetelo, leswi endleke leswaku rito ra mina ri tika etinhlengeletanweni.",
+    "Loko marito ya vukwembu ma hlamuseriwa, a ndzi nga ta kaneta vutshila bya vona byo vulavula, kambe ku tikukumuxa ka mina a ku nga ndzi pfumeleli ku titsongahata.",
+    "Ndzi hlengelete vatsundzuxi va mina, ndzi tihambanisa ni van’wana leswaku ndzi anakanyisisa hi ndlela yo onha rungula leri.",
+    "Endzhaku ko anakanyisisa swinene, ndzi vule leswaku a hi nchumu handle ka ‘vuloyi lebyi hundziseriweke eka nkarhi lowu hundzeke’ ku fularhela vanhu.",
+    "Kutani nhlavutelo yi vulavule na mina hi ku kongoma: ‘Ndzi tshike ni loyi ndzi n’wi tumbuluxeke.’ Ndzi hlawuriwile hikwalaho ka makungu ya mina.",
+    "Ku nga ri khale, hi woxe ndzilo lowu ndzi tsundzuxiweke ha wona wu ta ndzi khoma hi xisirhelelo xa le mahlweni, naswona a ndzi nge vi na ku baleka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Al-Walid ibn al-Mughira, ku vula ka yena",
+        "Abu Lahab hi yena",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu’ayt hi ku vula ka yena",
+        "Al-Nadr ibn al-Harith, ku vula ka yena"
+      ],
+      "answer": "Al-Walid ibn al-Mughira, ku vula ka yena"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U endle xikungu xo dlaya Muprofeta",
+        "U rhangele ku boycott eka Mamoslem",
+        "Va hlengelete huvo ku branda Quran tani hi masalamusi",
+        "Ku kunguhatiwe ku hlongola Muprofeta eMakkah",
+        "U arile ku avelana rifuwo rakwe ni vana lava nga riki na vatswari"
+      ],
+      "answer": "Va hlengelete huvo ku branda Quran tani hi masalamusi"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Nhlavutelo",
+        "Huvo ya yona",
+        "Xifunengeto xa Forelock",
+        "Rifuwo ra kona",
+        "Xipeni xa Peni"
+      ],
+      "answer": "Xifunengeto xa Forelock"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U hundzukile kutani a amukela Vuislem",
+        "U rhurhele eAbyssinia",
+        "U hlaseriwe hi vuvabyi lebyi dlayaka",
+        "U fe enyimpini yo lwisana ni Mamoslem",
+        "U gweviwe ku ya eHellfire"
+      ],
+      "answer": "U gweviwe ku ya eHellfire"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

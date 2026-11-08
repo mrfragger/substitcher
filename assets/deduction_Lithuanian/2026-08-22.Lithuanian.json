@@ -1,0 +1,61 @@
+{
+  "title": "Miestas, kuris tikėjo laiku",
+  "intro": "Dieviškojo gailestingumo metraščiuose minima bendruomenė, kurios lūžio taškas buvo kolektyvinio suvokimo akimirka. Jūs netrukus atskleisite jų istoriją – įspėjimo, atgailos ir išsigelbėjimo istoriją, išskyrusią juos nuo kitų tautų likimo.",
+  "clues": [
+    "Mes buvome tauta, kuriai buvo pasiųstas pasiuntinys, ir iš pradžių mes nusigręžėme nuo jo kvietimo.",
+    "Kai artėjančios bausmės ženklai tapo aiškūs, supratome jo perspėjimo teisingumą.",
+    "Su nuoširdžia atgaila atsigręžėme į savo Viešpatį, ir mūsų tikėjimas buvo priimtas.",
+    "Mums skirta bausmė buvo panaikinta dėl mūsų tikėjimo.",
+    "Mūsų istorija minima kaip išimtis tarp miestų, kurie įtikėjo pamatę bausmę.",
+    "Mes buvome pranašo, kurį prarijo banginis, žmonės, tačiau buvome išgelbėti nuo sunaikinimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Junuso žmonės",
+        "Nuh žmonės",
+        "Hudo žmonės",
+        "Salihas",
+        "Luto žmonės"
+      ],
+      "answer": "Junuso žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pražūtingas potvynis",
+        "Stipri vėjo audra",
+        "Artėjanti gėdos bausmė, kurios buvo išvengta",
+        "Žemė juos praryja",
+        "Akmenų lietus"
+      ],
+      "answer": "Artėjanti gėdos bausmė, kurios buvo išvengta"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Kupranugarė",
+        "Šimto tūkstančių gyventojų miestas",
+        "Musos personalas",
+        "Karuno lobis"
+      ],
+      "answer": "Šimto tūkstančių gyventojų miestas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jie buvo visiškai sunaikinti",
+        "Jiems kurį laiką buvo suteiktas malonumas",
+        "Jie buvo paversti beždžionėmis",
+        "Jie buvo nuskendę",
+        "Juos prarijo žemė"
+      ],
+      "answer": "Jiems kurį laiką buvo suteiktas malonumas"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

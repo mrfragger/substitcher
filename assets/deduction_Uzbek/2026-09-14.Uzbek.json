@@ -1,0 +1,61 @@
+{
+  "title": "Soyalardagi donolik ovozi",
+  "intro": "Qadim zamonlardan qolgan, chuqur idrok bilan tanilgan bir shaxs asrlar davomida siz bilan gaplashadi. Bu shaxs hech qachon payg'ambarlik da'vo qilmagan, ammo ilohiy donolik ularning so'zlaridan oqib kelgan. Abadiy yo'l-yo'riq meros qoldirgan ota-ona sifatida ularning maslahatlari millionlab odamlarning qalbida saqlanib qolgan, bugungi kungacha tilga olingan va aks ettirilgan.",
+  "clues": [
+    "Meni boshqalardan ajratib turadigan ilohiy sovg'aga ega bo'ldim - shu qadar chuqur donolikki, u butun tarix davomida mening o'ziga xos xususiyatimga aylandi.",
+    "Men xabarchi ham, farishta ham emas edim - shunchaki dunyoni chuqur anglash va tushunishga ega bo'lgan qalb edim.",
+    "Mening eng yaqin rishtam farzandim bilan edi va shu rishta orqali eng uzoq davom etadigan xabarim yetkazildi.",
+    "Menga hamma narsani bergan Zotga minnatdorchilik bildirishga chaqirdim va mag'rurlik va takabburlikdan ogohlantirdim.",
+    "Men hatto xantal urug'idek amallarning og'irligi va kamtarlikda ovozni pastlatishning muhimligi haqida ta'lim berdim.",
+    "Qur'ondagi bir sura mening nomim bilan ataladi, unda mening sevimli o'g'limga bergan nasihatlarim abadiy saqlanib qolgan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Luqmoni donishmand",
+        "Zul-Kifl - sodiq",
+        "Dono Sayyoh Xizr",
+        "Bobildagi farishta Horut",
+        "Bobildagi farishta Marut"
+      ],
+      "answer": "Luqmoni donishmand"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Kasallik paytida sabr bilan sinovdan o'tish",
+        "Farzandga donolik berish va unga nasihat qilish",
+        "Katta olovga tashlanmoqda",
+        "Tirik holda osmonga ko'tarilish",
+        "Vayronagarchilikdan qochish uchun ajoyib kema qurish"
+      ],
+      "answer": "Farzandga donolik berish va unga nasihat qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Muqaddas ibodat uyi",
+        "Ilonga aylangan tayoq",
+        "O'g'liga qaratilgan abadiy donolik so'zlari",
+        "Shishadan yasalgan ulug'vor taxt",
+        "Bog' vayronagarchilik bilan to'lib-toshgan"
+      ],
+      "answer": "O'g'liga qaratilgan abadiy donolik so'zlari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Allohga hikmat berdi va shukr qilishni buyurdi",
+        "Jinlar, odamlar va shamolning hukmdori bo'ldi",
+        "Tirik holda osmonga ko'tarildi",
+        "Katta kit tomonidan yutib yuborilgan va yangilanib chiqqan",
+        "Rashkchi aka-ukalar tomonidan quduqqa tashlangan"
+      ],
+      "answer": "Allohga hikmat berdi va shukr qilishni buyurdi"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

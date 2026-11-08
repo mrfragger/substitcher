@@ -1,0 +1,61 @@
+{
+  "title": "Fanekena Lehiben'ny Mpanjaka",
+  "intro": "Hitanao ao amin'ny tany feno fahagagana fahiny sy fanambarana lalina ny tenanao. Nisy mpitondra mahery iray, niatrika fanasana tsy nampoizina, nanomboka dia iray izay hanova ny hoaviny sy ny finoan'ny vahoakany. Azonao fantarina ve ny mombamomba an'io olona mendri-kaja io?",
+  "clues": [
+    "Nanjaka teo amin'ny fanjakana niroborobo aho, voaravaka harena be dia be sy seza fiandrianana kanto.",
+    "Izaho sy ny oloko dia nivavaka tamin'ny zavatra selestialy, nino fa io no tomponay, na dia mbola nisalasala tao am-poko aza aho.",
+    "Nisy iraka hafahafa iray, vorona iray, nitondra taratasy tamiko, niantso ahy sy ny vahoakako mba hanaiky an'Andriamanitra Tokana.",
+    "Naka hevitra tamin'ireo mpanolo-tsaina ahy aho, izay tena matanjaka tokoa, momba ny fomba hamaliana ity hafatra tsy mbola nisy toa azy ity.",
+    "Nanapa-kevitra ny handefa fanomezana sarobidy ho an'ilay nandefa ilay taratasy aho, nanantena ny handrefesana ny heriny sy ny fikasany.",
+    "Raha vao tonga aho dia gaga nahita lapa iray izay vita amin'ny fitaratra ny gorodony, izay toa dobo filomanosana, ary tamin'izay fotoana izay no nanambarako ny fanekeko ny Tompon'ny zavaboary rehetra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Farao",
+        "Mpanjakavavin'i Sheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Mpaminany Yusuf"
+      ],
+      "answer": "Mpanjakavavin'i Sheba"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny fisarahan'ny ranomasina",
+        "Ny tondra-drano lehibe",
+        "Ny dia hihaonana amin'ny Mpaminany Sulayman",
+        "Ny fandringanana ny vahoakan'i Lota",
+        "Ny fandoroana an'i Ibrahim mpaminany"
+      ],
+      "answer": "Ny dia hihaonana amin'ny Mpaminany Sulayman"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Fiara",
+        "Ny mpiasa",
+        "Ny Seza Fiandrianana",
+        "Ny Tendrombohitra",
+        "Ny afo"
+      ],
+      "answer": "Ny Seza Fiandrianana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Lasa mpaminany",
+        "Noravan'i Allah",
+        "Nanaiky ny finoana silamo",
+        "Nitarika ny vahoakany ho amin'ny ady",
+        "Nanorina tempoly lehibe"
+      ],
+      "answer": "Nanaiky ny finoana silamo"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

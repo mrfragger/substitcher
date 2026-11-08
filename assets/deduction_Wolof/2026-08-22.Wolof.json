@@ -1,0 +1,61 @@
+{
+  "title": "Dëkk bi Gëm Jamono",
+  "intro": "Ci jaar-jaaru yërmaande Yàlla, amna askan wu jamonoy coppite ci jamonoy gis-gis bu mbooloo. Yaa ngi waaja wane seen jaar-jaar, jaar-jaaru àrtu, tuub, ak yeexal, loolu moo leen wuutale ci yeneen réew yi.",
+  "clues": [
+    "Nun ay xeet lanu woon ñu yónnee fa ab ndaw, nu dëddu wootam bu jëkk bi.",
+    "Bi ñu gisee màndarga yiy wane ni dina am mbugal, nu xam dëgg gi ci àrtu bi.",
+    "Nu jublu sunu Boroom ci tuub gu dëggu, mu nangu sunug ngëm.",
+    "Dañu dindi mbugal gi ñu nu teg ndax sunu ngëm.",
+    "Sunu jaar-jaar nekk na benn ci dëkk yi gëm ginaaw bi ñu gisee yar gi.",
+    "Nun lanu woon ci askanu yonent bi baleine bi wann, waaye nu mucc ci yàqu-yàqu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "waa Yunus",
+        "waa Nuh",
+        "Nit ñi ci Hud",
+        "Waa Salih",
+        "waa Lut"
+      ],
+      "answer": "waa Yunus"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Mbënd buy yàq",
+        "Ngelaw lu metti",
+        "Daan buy waaja am gacce guñu moytuwoon",
+        "Suuf si wann leen",
+        "Taw bu bari ay xeer"
+      ],
+      "answer": "Daan buy waaja am gacce guñu moytuwoon"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "gaal gi",
+        "Gaam bu jigéen bi",
+        "Dëkk bu bari téeméeri junniy doomi aadama",
+        "Ndawi Musa",
+        "dencukaayu Qarun"
+      ],
+      "answer": "Dëkk bu bari téeméeri junniy doomi aadama"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ñu yàqu leen ba jeex .",
+        "Ñu jox leen bànneex ab diir",
+        "Ñu soppi leen ñu nekk maymu",
+        "Ñu féey ci ndox mi",
+        "Suuf daal di leen wann."
+      ],
+      "answer": "Ñu jox leen bànneex ab diir"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

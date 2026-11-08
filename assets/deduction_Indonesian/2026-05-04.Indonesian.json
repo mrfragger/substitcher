@@ -1,0 +1,61 @@
+{
+  "title": "Arsitek Kesombongan",
+  "intro": "Di negeri kuno yang diperintah oleh kekuatan yang membangkang, seorang individu kunci memegang posisi berpengaruh. Jiwa ini berperan penting dalam rencana besar penguasa, berkontribusi pada pemerintahan mereka yang menindas dan menantang pesan ilahi. Warisannya terkait erat dengan pengejaran kekuasaan duniawi dan penolakan terhadap kebenaran.",
+  "clues": [
+    "Saya mengabdi kepada seorang penguasa yang tangguh yang menindas rakyat selama beberapa generasi.",
+    "Namaku sering disebut dalam Kitab Suci bersama pemimpin yang hebat ini.",
+    "Saya diberi tugas proyek konstruksi besar, sebuah struktur menjulang tinggi yang dimaksudkan untuk mencapai langit.",
+    "Aku menasihati tuanku untuk membunuh anak laki-laki dari Bani Israel dan mengampuni anak perempuan mereka.",
+    "Aku terlibat dalam persekongkolan dan konspirasi melawan seorang utusan Allah yang agung.",
+    "Akhir hidupku, bersama tuanku dan pasukannya, tiba di perairan laut yang luas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliath",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Diuji dengan kekayaan yang sangat besar",
+        "Memimpin pasukan melawan rumah suci",
+        "Membangun menara untuk mencapai Tuhan",
+        "Dilemparkan ke dalam api karena keyakinan mereka",
+        "Dilempar ke dalam sumur oleh saudara kandung"
+      ],
+      "answer": "Membangun menara untuk mencapai Tuhan"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Bahtera",
+        "Staf",
+        "Gunung",
+        "Menara",
+        "Paus"
+      ],
+      "answer": "Menara"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Dianugerahi kebijaksanaan yang luar biasa",
+        "Menjadi seorang nabi",
+        "Ditelan oleh bumi",
+        "Diberikan sebuah kerajaan",
+        "Tenggelam di laut"
+      ],
+      "answer": "Tenggelam di laut"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

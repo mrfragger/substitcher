@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Namana Niala",
+  "intro": "Ho hitanao ny tantaran'ny fanahy iray izay niaina tao anatin'ny aloky ny mpaminany nefa nifidy lalana izay nitondra ho amin'ny fahaverezana. Niara-nipetraka tamin'ny iray tamin'ireo iraka nofidin'i Allah ity olona ity saingy tsy nahomby tamin'ny fitsapana ny finoana. Iza moa ity namana very ity?",
+  "clues": [
+    "Niaina teo anivon'ny olona izay nandà ny antso ho amin'ny fahamarinana aho, ary tsy nanohitra azy ireo.",
+    "Nanambady mpaminanin'i Allah aho, saingy tsy nino izany zavatra izany aho.",
+    "Rehefa tonga tao an-tranoko nitondra fampitandremana ireo iraka, dia tsy nino azy ireo aho.",
+    "Nodidiana handao ny tanàna niaraka tamin'ireo mpino ny vadiko, ary tsy anisan'izy ireo aho.",
+    "Nihatra tamin'ny oloko ny sazy, ary niara-ringana tamin'izy ireo aho.",
+    "Voatonona ao amin'ny CORAN ho ohatra amin'ny tsy finoana aho, miaraka amin'ny vadin'i Noa, ao amin'ny Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Vadin'ny Mpaminany Noa",
+        "Vadin'ny Mpaminany Lota",
+        "Vadin'ny Mpaminany Ibrahim",
+        "Vadin'ny Mpaminany Musa",
+        "Vadin'ny Mpaminany Ayyub"
+      ],
+      "answer": "Vadin'ny Mpaminany Lota"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Namadika ny vadiny tamin'ny tsy finoana",
+        "Nandà ny hafatry ny Mpaminany Hoda",
+        "Nivavaka tamin'ny sampy ampahibemaso tao amin'ny Kaaba",
+        "Nikomy tamin'ny iraka nampanaovina ny vadiny",
+        "Tsy nanaiky ny faminanian'ny zanany lahy"
+      ],
+      "answer": "Namadika ny vadiny tamin'ny tsy finoana"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny tanànan'i Sodoma",
+        "Ny tanànan'i Madyana",
+        "Ny tanànan'i Iram",
+        "Ny tanànan'i Babylona",
+        "Ny tanànan'i Jerosalema"
+      ],
+      "answer": "Ny tanànan'i Sodoma"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voavonjy niaraka tamin'ny vadiny",
+        "Ringana miaraka amin'ireo tsy mpino",
+        "Nentina tany an-tany lavitra",
+        "Nibebaka ary voavela heloka",
+        "Lasa mpino taty aoriana"
+      ],
+      "answer": "Ringana miaraka amin'ireo tsy mpino"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

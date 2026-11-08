@@ -1,0 +1,61 @@
+{
+  "title": "Vox ex Abysso",
+  "intro": "Fabula de patientia et immensa misericordia Divini in Alcorano explicatur. Nuntius ad magnam urbem missus est, sed populus eorum monitum reiecit et veritatem recusavit. Frustrata, haec anima discessit — solum ut a mari saeviente tentaretur et in tenebrosissimas profunditates absorberetur. E ventre tenebrarum, humilis precatio orta est, et Misericordissimus respondit. Quis est haec anima quae transformata emersit, cuius populus plus quam centum milium fideles fieret?",
+  "clues": [
+    "Missus sum ut monens ad magnam civitatem cuius incolae a via fidei aberraverant.",
+    "Populum meum ad veritatem iterum atque iterum vocavi, sed illi deriserunt et nuntium meum repudiaverunt.",
+    "Antequam licentia data esset, frustratus ab eis discessi, et ad mare apertum me contuli.",
+    "Magna tempestas exorta est, et in mare proiectus sum — deinde totus ab ingenti bestia marina absorbitus est.",
+    "In stratis tenebrarum — in profundis oceani, in ventre creaturae, et in profundo fundo maris — clamavi: 'Non est deus praeter Te; gloria Tibi; inter iniquos fui.'",
+    "Deus me de profundis liberavit, et cum reversus sum, plus quam centum milia populi mei veritatem amplexa erant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Yunus (Ionas)",
+        "Propheta Musa (Moses)",
+        "Propheta Ibrahim (Abraham)",
+        "Propheta Zacharias (Zacharias)",
+        "Idris (Enoch) propheta"
+      ],
+      "answer": "Propheta Yunus (Ionas)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Ab ingenti bestia marina deglutiri",
+        "Tyrannum eiusque magis oppugnans",
+        "In ignem ardentem a rege irato coniectus",
+        "Nuntium laetum de filio audiens, dum senex et incapax erat",
+        "Nationem diluvio vastante delentem spectantes"
+      ],
+      "answer": "Ab ingenti bestia marina deglutiri"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Venter magnae bestiae marinae in profundo oceani",
+        "Domus sacra montibus circumdata in valle sterili",
+        "Ignis ardens qui frigidus et pacificus factus est",
+        "Hortus magnificus cum fluminibus fluentibus et umbra",
+        "Arca ingens in vertice montis quiescens"
+      ],
+      "answer": "Venter magnae bestiae marinae in profundo oceani"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Liberati e tenebris; magna turba credidit",
+        "Liberatus ab igne ardente, flammis refrigerantibus",
+        "Dux gentis potentis factus est et eam a calumnia liberavit",
+        "Concessus puero in senectute post annos precum",
+        "Data sapientia immensa, regnum, et imperium super ventos et jinn"
+      ],
+      "answer": "Liberati e tenebris; magna turba credidit"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

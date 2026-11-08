@@ -1,0 +1,61 @@
+{
+  "title": "Dëshmitarët e Vdekur",
+  "intro": "Në një kohë të gjatë, një komunitet banonte në një udhëkryq midis perandorive. Profeti i tyre i thirri ata drejt rrugës së së vërtetës, megjithatë ata u kapën pas mosbesimit dhe shtypjes. Kjo histori përfundon me ndëshkim hyjnor. A mund ta identifikoni këtë komb dhe fatin e tyre nga të dhënat më poshtë?",
+  "clues": [
+    "Një popull e hodhi poshtë paralajmërimin e sjellë nga njëri prej të dërguarve të tyre.",
+    "I Dërguari na thirri të adhurojmë vetëm Allahun dhe na paralajmëroi kundër korrupsionit.",
+    "Shkelja jonë ishte refuzimi i profetit të dërguar midis nesh me drejtësi.",
+    "Ne dyshuam në autoritetin e të dërguarit dhe e akuzuam atë për mashtrim.",
+    "Ndëshkimi na përfshiu ndërsa ne jetonim të sigurt në shtëpitë tona.",
+    "Ne u shkatërruam për shkak se mohuam profetin tonë dhe përndiqëm besimtarët."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Pranimi i një profeti që thirri në drejtësi",
+        "Duke u sprovuar me një zi buke",
+        "Të kesh një ëndërr të interpretuar",
+        "Pranimi i Torës",
+        "Duke udhëtuar nëpër det"
+      ],
+      "answer": "Pranimi i një profeti që thirri në drejtësi"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Midian",
+        "Babilonia",
+        "Sodomë",
+        "Deti i Kuq",
+        "Arka"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Njerëzit u shkatërruan për shkak të mosbesimit",
+        "Njerëzit u penduan dhe u udhëzuan",
+        "Njerëzit hynë në Parajsë",
+        "Populli mbijetoi dhe lulëzoi",
+        "Njerëzit migruan në një tokë të re"
+      ],
+      "answer": "Njerëzit u shkatërruan për shkak të mosbesimit"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Li Mani Maliditti",
+  "intro": "Stai ntê vicoli tortuosi di l'antica Mecca, unni n'anima di nfruenza e ricchìzza na vota si sfuggìu dâ chiamata dâ virità. La storia di chista figura è nu forti ricurdamentu ca li ligami di sangu non ponnu supirari li catini di l'orgògliu. Chi è chistu ca lu nomu risuona cû focu ca l'aspetta?",
+  "clues": [
+    "Camminava ntê strati dâ Mecca cu n'orgògliu ca m'avìa ciecu dâ virità, puru si lu messaggeru era dû me sangu.",
+    "Li me cosi èranu vasti, ma addivintaru na maldizzioni chiuttostu ca nu scudu.",
+    "Lu libbru dâ guida parra dâ me ruvina, dichiarannu ca li me mani e la me pirsuna pirìsciunu.",
+    "Lu me mugghieri s'unìu â me campagna di nimicizzia, arricuogghiennu li spini pi spargiri ntô camminu di chiḍḍu ca chiamò Allah.",
+    "Lu jornu dû giudizziu, mi tuffarò nta nu focu di ciamma ardenti, e lu me mugghieri avrà na corda di fibbra di palma ntunnu ô coddu.",
+    "Sugnu canusciutu cu nu nomi ca significa \"patri dâ ciamma\", nu nomi ca prividi la me dimora eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sugnu iu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyanu",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova o eventu chiavi",
+      "options": [
+        "Si oppunìu ô prufeta e fu ammalatu ntô Curanu",
+        "Guidau n'asèrcitu pi distruggiri la Kaaba",
+        "Tintau d'ammazzari lu Prufeta lanciannu petri",
+        "Rifiutau di crìdiri â scissioni dâ luna",
+        "Custruiu na turri p'arrivari ô celu"
+      ],
+      "answer": "Si oppunìu ô prufeta e fu ammalatu ntô Curanu"
+    },
+    "location": {
+      "label": "Elementu chiavi",
+      "options": [
+        "Lu Focu ardenti di l’Infernu",
+        "Lu Staffu di Musa",
+        "L'Arca di Nuh",
+        "Lu puzzu di Zamzam",
+        "Lu viteddu d'oru"
+      ],
+      "answer": "Lu Focu ardenti di l’Infernu"
+    },
+    "outcome": {
+      "label": "Risurtatu",
+      "options": [
+        "Trasirà ntô Focu ardenti, e la sò ricchizza non ci servirà",
+        "Si pintìu e addivintau cridenti",
+        "Fu pirdunatu doppu ca si ricantau",
+        "Murìu martiri",
+        "Fu pigghiatu nzinu ô celu"
+      ],
+      "answer": "Trasirà ntô Focu ardenti, e la sò ricchizza non ci servirà"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Olu Na-adịghị Adị Njọ n'Ụlọ",
+  "intro": "Ekpere daghachiri n'ime ebe dị jụụ nke ụlọ nsọ ogologo oge gara aga, na-ebili site na mkpụrụ obi meworo agadi nke na-achọsi ike maka ihe ụwa kwuru na ọ gaghị ekwe omume. Ọnụ ọgụgụ a, nke toro ogologo ma nwee nchegbu maka ọdịnihu, chigharịkwuuru Onyenwe ha site n'ikpe ekpere nkeonwe. Ihe sochiri ya bụ nzaghachi Chineke nke megidere atụmanya ebumpụta ụwa niile - ihe akaebe nke ebere nke Onye zara oku ahụ dị egwu.",
+  "clues": [
+    "M kpọkuru Onyenwe m n'ime nzuzo, na-apụ n'ụlọ ebe m tinyere onwe m n'ofufe Ya.",
+    "Ekwetara m Onyenwe m na m na-atụ egwu maka ndị ga-eso m, na-echegbu onwe m maka nduzi nke ndị m ozugbo m pụrụ.",
+    "Agadi emeriela m—ọkpụkpụ m adịkwaghị ike, ntutu isi ọcha agbasaala n'isi m.",
+    "Di m ma ọ bụ nwunye m amụọla nwa kemgbe ndụ ya niile, mana m ka na-arịọ Onyenwe m ka o nye m onye nketa site n'ihu Ya.",
+    "Arịọrọ m ihe ịrịba ama, Onyenwe m wee zaa site n'igbochi m ịgwa onye ọ bụla okwu ruo abalị atọ, ebe ahụ ka m dị mma.",
+    "E kwere m nkwa na m ga-enweta nwa nwoke aha ya bụ Yahya, aha Onyenwe m kwupụtara nke a na-enyebeghị onye ọ bụla mbụ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Zakariya",
+        "Onye Amụma Nua",
+        "Onye Amụma Mozis",
+        "Onye Amụma Josef",
+        "Onye Amụma Devid"
+      ],
+      "answer": "Onye Amụma Zakariya"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ekpere maka onye nketa n'oge agadi ya na di ma ọ bụ nwunye ya na-amụghị nwa",
+        "Ịtụba n'ime ọkụ na-ere ọkụ",
+        "Ịla azụ̀ ukwu n'ọchịchịrị n'ime",
+        "Ịtachi obi n'ihe gbasara ọnwụ ezinụlọ, akụnụba, na ahụike",
+        "Ịbụ onye e nyere iwu ka o wuo nnukwu ụgbọ"
+      ],
+      "answer": "Ekpere maka onye nketa n'oge agadi ya na di ma ọ bụ nwunye ya na-amụghị nwa"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ụlọ ekpere (mihrab)",
+        "Mkpanaka nke gbanwere ghọọ agwọ",
+        "Igbe osisi mara mma",
+        "Ubi nwere isi iyi pụrụ iche",
+        "Ugwu ebe nnụnụ zukọrọ"
+      ],
+      "answer": "Ụlọ ekpere (mihrab)"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E nyere nwa nwoke aha ya n'ụzọ ọrụ ebube n'agbanyeghị agadi siri ike",
+        "Iwu Chineke zọpụtara anyị n'ọkụ na-ere ọkụ",
+        "Oke idei mmiri bibiri ndị na-ekweghị ekwe",
+        "E weghachiri ya n'ezinụlọ, akụnụba, na ahụ ike mgbe e nwesịrị ndidi",
+        "Fero na ndị agha ya nwụrụ n'ime oké osimiri"
+      ],
+      "answer": "E nyere nwa nwoke aha ya n'ụzọ ọrụ ebube n'agbanyeghị agadi siri ike"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

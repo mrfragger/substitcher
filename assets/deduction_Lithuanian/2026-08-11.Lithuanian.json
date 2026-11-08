@@ -1,0 +1,61 @@
+{
+  "title": "Įsčios įžadas",
+  "intro": "Tyliose, dieviškumui atsidavusios širdies kamerose buvo duotas šventas įžadas. Šis įžadas buvo skirtas dar neatkvėpusiam gyvenimui, o jo išpildymas amžiams pakeis dvasinio palikimo eigą. Įženkite į sielos, kurios pažadas aidi per amžinybę, paslaptį.",
+  "clues": [
+    "Gyvenau šeimoje, kuri buvo žinoma dėl savo pamaldumo, ir troškau dovanos, kuri mane priartintų prie Alacho.",
+    "Sudariau iškilmingą sandorą su savo Viešpačiu dėl to, kas manyje paslėpta, prisiekdamas visa tai skirti Jo tarnybai.",
+    "Kai atėjo apreiškimo akimirka, tai, ką gavau, buvo netikėta, bet aš patikėjau šį reikalą Visažinčiajam.",
+    "Daviau savo vaikui vardą, reiškiantį atsidavimą, ir maldavau apsaugos jai ir jos palikuonims nuo prakeiktosios.",
+    "Mano vaikas buvo paguldytas į šventąją šventovę, globojamas pranašo iš Aarono giminės.",
+    "Mano dukra išgarsėjo dėl savo tyrumo ir buvo išrinkta iš visų moterų, vėliau tapo didžio pranašo motina, nors ir liko nepaliesta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Imrano žmona.",
+        "Mūzos motina",
+        "Faraono žmona",
+        "Al-Azizo žmona.",
+        "Izos motina."
+      ],
+      "answer": "Imrano žmona."
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įžadas pašvęsti savo negimusį vaiką šventyklai",
+        "Kantrybės išbandymas per ilgą ligą",
+        "Kelionė į tolimą šalį dėl tikėjimo",
+        "Susidūrimas su tironu karaliumi",
+        "Stebuklingas maisto tiekimas iš dangaus"
+      ],
+      "answer": "Įžadas pašvęsti savo negimusį vaiką šventyklai"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Vaikas vardu Maryam",
+        "Personalas, kuris virto gyvate",
+        "Auksinis veršis",
+        "Zamzamo šulinys",
+        "Nojaus arka"
+      ],
+      "answer": "Vaikas vardu Maryam"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jos vaikas buvo priimtas Alachui ir augo pranašo globoje",
+        "Jos vaikas tapo pranašu ir gavo Raštą",
+        "Jos vaikas buvo pakeltas į dangų",
+        "Jos vaikas pastatė šventus namus",
+        "Jos vaikui buvo suteikta didžiulė išmintis ir turtas"
+      ],
+      "answer": "Jos vaikas buvo priimtas Alachui ir augo pranašo globoje"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

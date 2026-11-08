@@ -1,0 +1,61 @@
+{
+  "title": "The Voice in the Ancient Sands",
+  "intro": "Among the earliest messengers of Allah, there was one whose name shines briefly yet meaningfully in the Quran. This individual lived long before many great prophets were sent, and was known for unwavering truthfulness and patience. Their story is brief but their legacy endures in the eternal record. Who is this noble soul?",
+  "clues": [
+    "I am one of the earliest messengers, mentioned briefly yet meaningfully in the Quran.",
+    "My character was defined by an unwavering commitment to truth.",
+    "I am remembered in the book of Allah among those who were steadfast and patient.",
+    "Only a few short verses in the Quran tell my story.",
+    "Allah honored me in a way that is uniquely mine, not shared with other prophets.",
+    "I was raised to a high station, a singular honor in the Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Idris",
+        "Prophet Ilyas",
+        "Dhul-Kifl",
+        "Prophet Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Prophet Idris"
+    },
+    "trial": {
+      "label": "Defining Moment",
+      "options": [
+        "I was raised to a high station by Allah",
+        "I built a great ark to save my people",
+        "I challenged the sorcerers of Pharaoh",
+        "I was thrown into a pit by my brothers",
+        "I lost my eyesight from sorrow over my son"
+      ],
+      "answer": "I was raised to a high station by Allah"
+    },
+    "location": {
+      "label": "Sacred Reference",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Divine Honor",
+      "options": [
+        "A high station unlike any other",
+        "Dominion over jinn and the winds",
+        "A kingdom of unmatched glory",
+        "An heir from my old age",
+        "A covenant sealed with Allah"
+      ],
+      "answer": "A high station unlike any other"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

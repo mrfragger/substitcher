@@ -1,0 +1,61 @@
+{
+  "title": "Die Mission in der antiken Stadt",
+  "intro": "Eine verstaubte, uralte Stadt, deren Bewohner in Verleugnung verstrickt sind, und eine letzte Warnung, die ungehört verhallte. Schlüpfen Sie heute in die Rolle jener, die von Allah gesandt wurden, um einem verstockten Volk eine Botschaft zu überbringen. Eine Geschichte von Ablehnung, einer einzigartigen Stimme des Glaubens und einem Ende, besiegelt durch ein verheerendes Dekret. Wer spricht durch diese Hinweise?",
+  "clues": [
+    "Wir wurden von Allah in eine Stadt gesandt, deren Bewohner sich von der Wahrheit abgewandt hatten.",
+    "Zwei von uns kamen zuerst, dann schloss sich ein Dritter an, um unsere Mission zu stärken.",
+    "Die Stadtbewohner wiesen uns zurück und sagten, wir seien nichts anderes als Menschen wie sie.",
+    "Ein einzelner Mensch vom anderen Ende der Stadt rannte los, um den Leuten zu sagen, sie sollten uns folgen.",
+    "Wir flehten sie an, aber sie verhärteten ihre Herzen und wandten sich gegen uns.",
+    "Ein einziger vernichtender Schrei vom Himmel brachte unsere gesamte Stadt zum Schweigen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Boten der Stadt in Sure Ya-Sin",
+        "Die Hawwariyyun (Jünger Jesas)",
+        "Die Zauberer am Hof ​​des Pharao",
+        "Die Gefährten des Sabbats",
+        "Das Volk des Elefanten"
+      ],
+      "answer": "Die Boten der Stadt in Sure Ya-Sin"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Von den Stadtbewohnern abgelehnt und als Lügner bezeichnet.",
+        "Bei lebendigem Leibe in einem großen, lodernden Feuer verbrannt",
+        "Verschluckt von einem großen Fisch in der Tiefsee",
+        "Gezwungen, beim Bau einer hoch aufragenden Säule Zwangsarbeit zu leisten.",
+        "Gefoltert in einem Schützengraben voller wütendem Feuer"
+      ],
+      "answer": "Von den Stadtbewohnern abgelehnt und als Lügner bezeichnet."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die antike Stadt (al-Qaryah)",
+        "Ein gewaltiger, lodernder Ofen",
+        "Der Bauch eines großen Fisches",
+        "Die hoch aufragende, himmelberührende Säule",
+        "Das heilige Haus (Kaaba)"
+      ],
+      "answer": "Die antike Stadt (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Die Stadt wurde durch einen einzigen verheerenden Schrei zerstört (Sayha).",
+        "Der Tyrann und sein Heer ertranken im geteilten Meer",
+        "Die Menschen wurden in Affen und Primaten verwandelt.",
+        "Ein Steinhagel vom Himmel zerstörte die Stadt.",
+        "Eine heftige Flut riss die gesamte Gemeinde mit sich."
+      ],
+      "answer": "Die Stadt wurde durch einen einzigen verheerenden Schrei zerstört (Sayha)."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

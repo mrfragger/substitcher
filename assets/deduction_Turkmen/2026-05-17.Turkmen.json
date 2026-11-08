@@ -1,0 +1,61 @@
+{
+  "title": "Daşyň arhitektorlary",
+  "intro": "Güýçli we ussatlyk bilen baýlaşdyrylan güýçli siwilizasiýanyň dag eteklerine uly jaýlar oýup gurandygyny göz öňüne getiriň. Bu toparyň ägirt uly gülläp ösmegi we özboluşly binagärlik başarnygy bardy. Şeýle-de bolsa, aýdyň duýduryşlar alnandygyna garamazdan, olar dramatik we ýatdan çykmajak netijä alyp barjak ýoly saýladylar. Hikaýaty oýlanýanlaryň hemmesi üçin çuňňur sapak bolup hyzmat edýän bu topary tanap bilersiňizmi?",
+  "clues": [
+    "Bize güýç we ussatlyk berildi, bu bolsa daglaryň içine ajaýyp öýleri oýup gurmaga mümkinçilik berdi.",
+    "Bize Alla tarapyndan aýdyň alamat berildi, otlap ýöremek üçin rahatlandyrylmaly özboluşly jandar.",
+    "Biziň jemgyýetimiz öz aramyzdan gelen bir ilçiniň getiren ylahy habaryna garşy çykyp, tekepbirlik etdi.",
+    "Biz agyr jeza baradaky duýduryşlara garamazdan, gudratly alamata zyýan ýetirmek üçin dildüwşük gurduk.",
+    "Biz ýörite jandara başga günlerde guýumyzdan suw içmäge rugsat bermek baradaky buýruga garşy çykdyk.",
+    "Biz günä işimizden soň ýekeje elhenç partlama bilen weýrançylykly gutardyk, biz ýok edildik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Ad halky",
+        "Midýan halky",
+        "Pilleriň halky",
+        "Semud halky",
+        "Lut pygamberiň halky"
+      ],
+      "answer": "Semud halky"
+    },
+    "trial": {
+      "label": "Esasy synagymyz/çäremiz",
+      "options": [
+        "Ýeri basan sil",
+        "Deňziň bölünmegi",
+        "Ýekeje partlama/gykylyk bilen ýok edilmek",
+        "Şäheriň ýanmagy",
+        "Dagyň tozana öwrülmegi"
+      ],
+      "answer": "Ýekeje partlama/gykylyk bilen ýok edilmek"
+    },
+    "location": {
+      "label": "Biziň hekaýamyzdaky esasy element",
+      "options": [
+        "Altyn göle",
+        "Möjüzeli düýe",
+        "Ýanýan gyrymsy agaç",
+        "Gürleýän guş",
+        "Beýik tagt"
+      ],
+      "answer": "Möjüzeli düýe"
+    },
+    "outcome": {
+      "label": "Biziň iň soňky netijämiz",
+      "options": [
+        "Ummasyz baýlyk we güýç berildi",
+        "Pygamberlik derejesine göterildi",
+        "Ilahi jeza bilen doly ýok edilmek",
+        "Çyn ýürekden toba edenden soň bagyşlanýar",
+        "Ýer ýüzüne ýaýrap, gezip ýörmek üçin"
+      ],
+      "answer": "Ilahi jeza bilen doly ýok edilmek"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sufletele tranșeei",
+  "intro": "Călătorești înapoi într-o epocă în care un conducător nemilos cerea devotament absolut față de zeități false. O mică comunitate de suflete devotate a refuzat și s-a confruntat cu o pedeapsă atât de severă încât a devenit blestemată veșnic. Povestea lor răsună în Coran ca o dovadă a unei credințe neclintite. Poți identifica acest grup statornic?",
+  "clues": [
+    "Trăiam într-o țară aflată sub tirania unui conducător care cerea venerarea unor zeități false",
+    "Comunitatea noastră s-a confruntat cu persecuții severe doar pentru credința noastră în Allah.",
+    "Conducătorul a poruncit să se sape un șanț mare și să fie alimentat cu flăcări puternice",
+    "Pentru că am refuzat să renunțăm la credința noastră, am fost aruncați în groapa aceea arzătoare unul câte unul",
+    "Povestea noastră a devenit parte a Coranului, iar cei care ne-au persecutat au fost blestemați pe vecie.",
+    "Sura care consemnează încercarea noastră este numită după marile semne cerești ale cerului"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Companionii tranșeei (Ashab al-Ukhdud)",
+        "Oamenii Peșterii (Ashab al-Kahf)",
+        "Oamenii Sabatului",
+        "Oamenii din A'ad",
+        "Oamenii din Thamud"
+      ],
+      "answer": "Companionii tranșeei (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Încercarea noastră",
+      "options": [
+        "Fiind ars de viu într-o groapă de foc",
+        "Fiind închis într-o peșteră timp de mulți ani",
+        "Pescuitul în ziua sfântă de odihnă",
+        "Fiind distrus de un vânt urlător",
+        "Uciderea unei cămile sacre"
+      ],
+      "answer": "Fiind ars de viu într-o groapă de foc"
+    },
+    "location": {
+      "label": "Elementul cheie",
+      "options": [
+        "Un șanț de foc arzător",
+        "O peșteră ascunsă cu un câine loial",
+        "Stâlpi înalți ai unui oraș antic sortit condamnării",
+        "Locuințe montane sculptate în stânci de piatră",
+        "O câmpie deschisă măturată de vânturi violente"
+      ],
+      "answer": "Un șanț de foc arzător"
+    },
+    "outcome": {
+      "label": "Rezultatul nostru",
+      "options": [
+        "Am fost martirizați, iar persecutorii au fost blestemați pe vecie",
+        "Ne-am trezit după ce am dormit 309 ani",
+        "Am fost transformați în maimuțe pentru fărădelegile noastre",
+        "Un vânt puternic și urlător ne-a distrus pe toți",
+        "Un singur strigăt devastator ne-a spulberat existența"
+      ],
+      "answer": "Am fost martirizați, iar persecutorii au fost blestemați pe vecie"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

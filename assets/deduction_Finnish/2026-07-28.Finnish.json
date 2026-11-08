@@ -1,0 +1,61 @@
+{
+  "title": "Pyhän olennon testi",
+  "intro": "Kansakunnalle, joka oli eksynyt tieltä, lähetettiin merkki. Kesken heidän mukavan elämänsä tuli varoitus – ja sen mukanaan tuoma merkittävä olento, josta tulisi heidän uskonsa lopullinen koetus. Heidän vastauksensa sinetöisi heidän kohtalonsa ikuisiksi ajoiksi. Voitko paljastaa, kuka antoi tämän varoituksen ja mitä tapahtui niille, jotka hylkäsivät sen?",
+  "clues": [
+    "Me olimme kansa, jota olivat opastaneet aiemmat sanansaattajat ennen meitä.",
+    "Vuorelta nousi upea olento, merkki Herraltamme tälle kansakunnalle.",
+    "Sanoin heille: \"Tämä on Allahille kuuluva naaraskameli, joten antakaa sen syödä Allahin maasta älkääkä koskeko siihen pahalla.\"",
+    "Mutta kansa katkaisi naaraskamelini jänteet uhmaten Herransa käskyä.",
+    "Olen vain Herranne lähettiläs, totuuden tuoja. Olen luotettava profeetta ja palvelija.",
+    "Mitä tulee väärintekijöihin, Herramme löi heitä jylinän jylinällä, ja he jäivät liikkumattomiksi kodeissaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "A'adin kansan profeetta Hud",
+        "Thamudin kansan profeetta Salih",
+        "Midianin profeetta Shu'aib",
+        "Sodoman kansan profeetta Lut",
+        "Arkin profeetta Nooa"
+      ],
+      "answer": "Thamudin kansan profeetta Salih"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Vedenpaisumus, joka hukutti epäuskoisen kansakunnan",
+        "Maanjäristys, joka tuhosi syntisen kaupungin",
+        "Jumalallisena merkkinä ja koetuksena lähetetty naaraskameli",
+        "Myrsky, joka rankaisi Midianin kansaa",
+        "Lootin kansan tuhoaminen kivillä"
+      ],
+      "answer": "Jumalallisena merkkinä ja koetuksena lähetetty naaraskameli"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Sodoman kaupunki Jordanin laaksossa",
+        "Al-Hijrin laakso Hijazin ja Syyrian välillä",
+        "Muinainen A'adin maa Etelä-Arabiassa",
+        "Midianin metsät lähellä Punaistamerta",
+        "Judi-vuoren tasangot Mesopotamiassa"
+      ],
+      "answer": "Al-Hijrin laakso Hijazin ja Syyrian välillä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "He pelastuivat katuttuaan ja uskottuaan",
+        "Kivisade tuhosi ne täysin",
+        "Jyrinä iski heidät liikkumattomiksi",
+        "Ne kuljetettiin pois rajussa tuulessa",
+        "Maanjäristys nielaisi heidät maan alle"
+      ],
+      "answer": "Jyrinä iski heidät liikkumattomiksi"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

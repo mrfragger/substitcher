@@ -1,0 +1,61 @@
+{
+  "title": "O Chamado Ignorado na Terra da Arrogância",
+  "intro": "Você está entre as ruínas de uma civilização outrora grandiosa, onde o poder e o orgulho não conheciam limites. Um mensageiro caminhou entre eles, clamando pela verdade, mas seus corações estavam endurecidos. O aviso foi ignorado, e o próprio céu se tornou instrumento de ira. Quem era esse mensageiro, e o que aconteceu com aqueles que rejeitaram o chamado?",
+  "clues": [
+    "Fui enviado a um povo de força incomparável, que erguia monumentos em cada lugar alto.",
+    "Meu povo se considerava invencível e dizia: 'Quem é mais forte do que nós?'",
+    "Eu os convidei a adorar somente a Alá, mas eles me acusaram de tolice e mentira.",
+    "Eles me desafiaram a cumprir a punição que prometi, caso eu estivesse falando a verdade.",
+    "Alá enviou sobre eles um vento árido que não poupou nada por onde passou.",
+    "Eu e aqueles que creram comigo fomos salvos pela misericórdia de Alá, enquanto os descrentes foram completamente destruídos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shuaib",
+        "Profeta Ló",
+        "Profeta Noé"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Um vento devastador destruiu os descrentes.",
+        "Uma grande inundação engolfou os incrédulos.",
+        "Uma chuva de pedras caiu sobre a cabeça.",
+        "Um grito estridente apoderou-se dos incrédulos.",
+        "Um terremoto atingiu os incrédulos."
+      ],
+      "answer": "Um vento devastador destruiu os descrentes."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Um vento implacável",
+        "Uma arca de madeira",
+        "Uma camela",
+        "Uma chuva de pedras de barro",
+        "Um incêndio devastador"
+      ],
+      "answer": "Um vento implacável"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Hud e os crentes foram salvos, e os incrédulos foram destruídos.",
+        "Hud foi elevado a uma posição elevada.",
+        "Hud foi morto por seu povo.",
+        "O povo de Hud se arrependeu e foi poupado.",
+        "Hud abandonou seu povo antes de qualquer punição."
+      ],
+      "answer": "Hud e os crentes foram salvos, e os incrédulos foram destruídos."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Patiesība, kas apklusināja tiesu",
+  "intro": "Pilī, kur valdīja noliegums un vara bija absolūta, prasmīgu praktiķu pulcēšanās stājās negaidīta izaicinājuma priekšā. Gaiss virmoja gaidās, kad divi ceļi – meli un patiesība – grasījās sadurties. Sanākušie nemaz nenojauta, ka šī tikšanās uz visiem laikiem pārveidos viņu dzīvi un ierakstīs viņu stāstu svētajā tekstā.",
+  "clues": [
+    "Mēs bijām slaveni ar savu prasmi radīt ilūzijas, un varens valdnieks mūs sapulcināja, lai stātos pretī izaicinātājam.",
+    "Kad pienāca brīdis, mēs lējām savus instrumentus un, pārliecināti par savu amatu, gaidījām rezultātu.",
+    "Bet tas, ko mēs redzējām, lika mūsu pašu ierīcēm izskatīties pēc vienkāršām rotaļlietām, un mūsu sirdis atzina nenoliedzamo patiesību.",
+    "Mēs nokritām zemē pielūgsmē, pasludinot savu ticību Mozus un Ārona Kungam, neskatoties uz valdnieka dusmām.",
+    "Tas valdnieks mums piedraudēja ar visnežēlīgāko sodu, zvērēdams mūs sist krustā un nogriezt mums locekļus pretējos virzienos.",
+    "Mēs palikām nelokāmi, sakot, ka dodam priekšroku mūsu Kunga spriedumam, nevis jebkādām pasaulīgām sekām, un mēs mirām mocekļa nāvē savas ticības dēļ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Faraona burvji",
+        "Alas ļaudis",
+        "Meža biedri",
+        "Isas mācekļi",
+        "Ziloņa ļaudis"
+      ],
+      "answer": "Faraona burvji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Burvju sacensības pret Musu",
+        "Uguns, kas uz tiem mesta",
+        "Plūdi, kas viņus noslīcināja",
+        "Sausums un bads",
+        "Zemestrīce"
+      ],
+      "answer": "Burvju sacensības pret Musu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Nūjas un virves, kas pārvērtās čūskās",
+        "Degošs krūms",
+        "Kamielis-mātīte",
+        "Koka šķirsts",
+        "Valis"
+      ],
+      "answer": "Nūjas un virves, kas pārvērtās čūskās"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Nāvessods par ticību, apsolīta Paradīze",
+        "Noslīcis jūrā",
+        "Kļuva par Ēģiptes valdniekiem",
+        "Palikušie faraona sekotāji",
+        "Mantoja zemi"
+      ],
+      "answer": "Nāvessods par ticību, apsolīta Paradīze"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

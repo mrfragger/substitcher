@@ -1,0 +1,60 @@
+{
+  "title": "Ukulala Kwamaxesha Onke",
+  "intro": "Uza kuqala uhambo ngokuhamba kwexesha, udibana nemfihlakalo enzulu yokholo namandla kaThixo. Khawucinge ngeqela labantu abachasene nemigaqo yoluntu lwabo, bebambelele kunqulo lomnye umntu kwihlabathi lonqulo loothixo abaninzi. Ibali labo lingqina lamandla ka-Allah okukhusela abakhonzi bakhe abalungileyo ngeendlela ezingaqhelekanga. Ngaba ungatyhila ubuni baba bantu babalaseleyo?",
+  "clues": [
+    "Sasiliqela elincinci labafana ababekholelwa kuThixo omnye, nangona abantu bethu babekholelwa kakhulu kwiinkolo ezininzi.",
+    "Sabaleka kumlawuli okhohlakeleyo owayesisongela ngenxa yokholo lwethu, esoyika intshutshiso nokufa.",
+    "Safuna indawo yokukhosela kwindawo efihlakeleyo, sinethemba lokufumana inceba nokukhuselwa ngu-Allah kubacinezeli bethu.",
+    "INkosi yethu yasenza salala ubuthongo obunzulu, ubuthongo obumangalisayo obungazange budlule ixesha.",
+    "Xa savukayo, sasikholelwa ukuba siphumle usuku olunye okanye inxalenye yosuku, singazi ukuba ixesha elide elidlule ngokwenene.",
+    "I-Quran ithi sahlala kule meko yethu iminyaka engamakhulu amathathu, saza sadlula ngesithoba, saba luphawu ebantwini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseMgxobhozweni",
+        "Abantu baseThamud",
+        "Abantu Bomqolomba",
+        "Abantu baseMadyan",
+        "Amaqabane eNdlovu"
+      ],
+      "answer": "Abantu Bomqolomba"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukujongana nomkhukula omkhulu",
+        "Ukuginywa ngumhlaba",
+        "Ubuthongo obude obungummangaliso",
+        "Ukutshatyalaliswa kwesixeko sabo",
+        "Ukwahlukana kolwandle"
+      ],
+      "answer": "Ubuthongo obude obungummangaliso"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isihlahla esitshayo",
+        "Intaba",
+        "Inqanawa",
+        "Umqolomba",
+        "Umthombo"
+      ],
+      "answer": "Umqolomba"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Banikwa ubutyebi namandla amakhulu",
+        "Baguqulwa baba ziinkawu neehagu",
+        "Bavuswa ebuthongweni njengophawu olubalulekileyo",
+        "Batshoniswa ngumkhukula omkhulu",
+        "Bakha ubukumkani obuhle kakhulu"
+      ],
+      "answer": "Bavuswa ebuthongweni njengophawu olubalulekileyo"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

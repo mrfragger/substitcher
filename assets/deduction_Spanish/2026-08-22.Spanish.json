@@ -1,0 +1,61 @@
+{
+  "title": "El pueblo que creía en el tiempo",
+  "intro": "En los anales de la misericordia divina, se encuentra una comunidad cuyo punto de inflexión fue un momento de comprensión colectiva. Estás a punto de descubrir su historia: un relato de advertencia, arrepentimiento y un indulto que los distinguió del destino de otras naciones.",
+  "clues": [
+    "Éramos un pueblo al que se envió un mensajero, y al principio rechazamos su llamado.",
+    "Cuando las señales del castigo inminente se hicieron evidentes, comprendimos la veracidad de su advertencia.",
+    "Nos volvimos a nuestro Señor con sincero arrepentimiento, y nuestra fe fue aceptada.",
+    "El castigo que se nos había impuesto fue levantado debido a nuestra fe.",
+    "Nuestra historia se cita como una excepción entre los pueblos que creyeron después de ver el castigo.",
+    "Éramos el pueblo del profeta que fue tragado por la ballena, pero fuimos salvados de la destrucción."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Pueblo de Yunus",
+        "Pueblo de Nuh",
+        "Gente de Hud",
+        "Gente de Salih",
+        "Pueblo de Lut"
+      ],
+      "answer": "Pueblo de Yunus"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Una inundación devastadora",
+        "Una fuerte tormenta de viento",
+        "Un castigo inminente de deshonra que fue evitado.",
+        "La tierra los engulle",
+        "Una lluvia de piedras"
+      ],
+      "answer": "Un castigo inminente de deshonra que fue evitado."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El arca",
+        "La camella",
+        "Una ciudad de cien mil habitantes",
+        "El personal de Musa",
+        "El tesoro de Qarun"
+      ],
+      "answer": "Una ciudad de cien mil habitantes"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fueron destruidos por completo",
+        "Se les brindó disfrute por un tiempo.",
+        "Se transformaron en simios",
+        "Se ahogaron",
+        "Fueron engullidos por la tierra."
+      ],
+      "answer": "Se les brindó disfrute por un tiempo."
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

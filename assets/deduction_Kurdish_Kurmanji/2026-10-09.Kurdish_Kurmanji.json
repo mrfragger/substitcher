@@ -1,0 +1,61 @@
+{
+  "title": "Banga Bêguhdan li Welatê Serbilindiyê",
+  "intro": "Tu di nav xirbeyên şaristaniyeke berê mezin de radiwestî, ku hêz û serbilindî bê sînor bû. Peyamnêrek di nav wan de dimeşiya, gazî rastiyê dikir, lê dilê wan hişk bûbû. Hişyarî nehat guhdarîkirin, û ezman bi xwe bû amûrek xezebê. Ev peyamnêr kî bû, û çi bi serê wan kesên ku bang red kirin hat?",
+  "clues": [
+    "Ez ji bo gelekî ku di hêza xwe de bêhempa bû û li ser her cihekî bilind peykerek ava kiribûn, hatim şandin.",
+    "Gelê min xwe bêşikestî didît û digotin: 'Kî ji me bihêztir e?'",
+    "Min wan gazî kir ku tenê ji Xwedê re îbadet bikin, lê wan ez bi bêaqilî û derewan tawanbar kirim.",
+    "Wan ji min xwestin ku eger ez rastgo bim, cezayê ku min soz dabû bînim.",
+    "Xwedê bayekî bêkêr bi ser wan de şand ku tiştek ji dest neda heta ku pê bikeve.",
+    "Ez û yên ku bi min bawer kirin bi dilovaniya Xwedê hatin xilas kirin, lê yên kafir bi tevahî hatin tunekirin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Hûd",
+        "Pêxember Salih",
+        "Pêxember Şuayb",
+        "Pêxember Lût",
+        "Pêxember Nûh"
+      ],
+      "answer": "Pêxember Hûd"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bayekî wêranker kafiran wêran kir",
+        "Tofaneke mezin kafiran girt nav xwe",
+        "Baranek ji keviran barî",
+        "Qîrînek bilind bêbaweran girt",
+        "Erdhejek li kafiran da"
+      ],
+      "answer": "Bayekî wêranker kafiran wêran kir"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Bayekî bêdawî",
+        "Keştiyek darîn",
+        "Deveyekî mê",
+        "Baranek ji kevirên axê",
+        "Agirekî geş"
+      ],
+      "answer": "Bayekî bêdawî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Hûd û bawermend xilas bûn, kafir jî hatin tunekirin",
+        "Hud gihîşt astek bilind",
+        "Hûd ji aliyê gelê xwe ve hat kuştin.",
+        "Gelê Hud tobe kir û hatin efûkirin",
+        "Hûd berî her cezayekê gelê xwe terk kir"
+      ],
+      "answer": "Hûd û bawermend xilas bûn, kafir jî hatin tunekirin"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

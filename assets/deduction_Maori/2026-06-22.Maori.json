@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaiwhakapono Huna",
+  "intro": "I roto i ngā whare rangatira o te mana, i te wāhi i kingi ai te whakaponokore me te tukino, ka puta mai he reo kotahi o te pono i tētahi wāhi kāore i whakaarohia. I werohia e tēnei tangata te mana ki te tiaki i tētahi karere, me te tūpono i tōna ake haumarutanga ki te kauwhau i te pono.",
+  "clues": [
+    "I noho ahau i tētahi whenua tino tukino, e mahi ana ki tētahi rangatira e kī ana he atua ia.",
+    "I huna e au aku whakapono pono mō ngā tau maha, i te wehi i ngā hua o te whakakitenga mai.",
+    "I te taenga mai o tētahi karere me ngā tohu mārama, i whakapono ahau, engari i whakatakoto whakaaro tōku iwi ki a ia.",
+    "I tū ahau i mua i te kaitukino me tana kaunihera, me te tautohe kia kaua rātou e patu i tētahi karere harakore.",
+    "I whakatūpato ahau i a rātou mō te whiu o ngā iwi o mua i whakakahore i te pono, pērā i te iwi o Noa rāua ko 'Āta.",
+    "I whakaorangia ahau e Allah i ā rātou mahi kino, ā, i kite ahau i te whakangaromanga o te kāwanatanga tukino."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Kaiwhakapono o te Whānau o Parao",
+        "Te Tohunga Makutu o Parao",
+        "Te Vizier o Parao",
+        "Te Wahine a Parao",
+        "Te Kaiwhakahaere Moni a Parao"
+      ],
+      "answer": "Te Kaiwhakapono o te Whānau o Parao"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tiaki i tētahi poropiti i te whakamatenga",
+        "Te wero i ngā mahi tinihanga a te tohunga makutu",
+        "Te hanga i tētahi pourewa hei eke ki te rangi",
+        "Te wehe i te moana hei mawhiti",
+        "Te whakamārama i te moemoeā a te kingi"
+      ],
+      "answer": "Te tiaki i tētahi poropiti i te whakamatenga"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te kooti o Parao",
+        "Te rakau e mura ana",
+        "Te kuao kau koura",
+        "Te puna o Madyan",
+        "Te āka a te Poropiti a Noa"
+      ],
+      "answer": "Te kooti o Parao"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia i te kino i te wā i whakangaromia ai ngā kaitukino",
+        "I riro hei rangatira whai mana",
+        "I makaia ki roto i te ahi, ā, i puta mai kāore i whara",
+        "I horomia e te whenua",
+        "I kopikopiko i te koraha mō ngā tau e whā tekau"
+      ],
+      "answer": "I whakaorangia i te kino i te wā i whakangaromia ai ngā kaitukino"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Çay sahili kənarındakı ayıq ruh",
+  "intro": "Gənc bir ruha gizli bir missiya həvalə edilmişdi: sularda taleyin necə baş verdiyini təhlükəsiz məsafədən müşahidə etmək. Görünməyən və şübhəsiz ki, bu fiqur bir millətin tarixinin gedişatını dəyişdirməkdə mühüm rol oynayacaqdı.",
+  "clues": [
+    "Anam mənə gizlilik və sayıqlıq tələb edən bir tapşırıq vermişdi.",
+    "Gözlərim cərəyan boyunca üzən kiçik bir beşikə baxdı, ürəyim narahatlıqla dolu idi.",
+    "Gözlənilməz bir qrup tərəfindən tapılanda, qorxu içində yaxınlaşdım.",
+    "Onların baxıcıya olan çarəsizliyini gördüm və həqiqəti açıqlamadan bir həll yolu təklif etdim.",
+    "Vaxtında müdaxiləm, ən çox ehtiyacı olan birinə qayğıkeş bir ruhu qaytardı.",
+    "Güclülərin sarayında dedim: “Sizə onu bəsləyəcək və qayğı ilə ona baxacaq bir ailəni göstərimmi?”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Musanın bacısı",
+        "Musanın anası",
+        "Fironun arvadı",
+        "Mama",
+        "Şüeybin qızı"
+      ],
+      "answer": "Musanın bacısı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Uşağın çaya atılması",
+        "Dənizin ayrılması",
+        "Buzovun yanması",
+        "Gəminin tikilməsi",
+        "Çəyirtkələrin vəbası"
+      ],
+      "answer": "Uşağın çaya atılması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Çay",
+        "Səhra",
+        "Dağ",
+        "Saray",
+        "Yanğın"
+      ],
+      "answer": "Çay"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "O, uşağı anası ilə yenidən birləşdirdi",
+        "O, özünü Fironun əsgərlərindən xilas etdi",
+        "O, kraliça oldu",
+        "O, casusluq etdiyinə görə cəzalandırılıb",
+        "O, İsraillilərə rəhbərlik etdi"
+      ],
+      "answer": "O, uşağı anası ilə yenidən birləşdirdi"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

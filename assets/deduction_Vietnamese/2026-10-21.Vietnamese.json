@@ -1,0 +1,61 @@
+{
+  "title": "Sứ giả đối đầu với những kẻ thờ thần tượng",
+  "intro": "Trong thời đại mà lòng sùng kính đã lạc lối, một sứ giả xuất hiện với lời kêu gọi trở về thờ phượng Chúa tể muôn loài. Nhân vật này kiên định chống lại một dân tộc đang chìm đắm trong việc thờ phượng một vị thần giả, nhắc nhở họ về Đấng Tạo Hóa đích thực và Chúa tể tổ tiên của họ. Tuy nhiên, dân chúng đã thờ ơ và từ chối lời cảnh báo, tự chuốc lấy số phận của mình. Vị sứ giả kiên định đó là ai?",
+  "clues": [
+    "Tôi được phái đến một dân tộc đã từ bỏ con đường của Đức Chúa Trời duy nhất.",
+    "Tôi hỏi người dân của mình: \"Các ngươi không sợ Allah sao?\"",
+    "Tôi kêu gọi họ từ bỏ việc thờ cúng một vị thần giả tên là Baal.",
+    "Dân ta đã từ chối lời kêu gọi của ta và tiếp tục thờ cúng thần tượng.",
+    "Vì sự chối bỏ của họ, chắc chắn họ sẽ bị đưa ra xét xử.",
+    "Chúa đã ban cho tôi sự bình an và một ký ức tốt đẹp về tôi trong lòng các thế hệ sau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Ilyas",
+        "Tiên tri Yahya",
+        "Tiên tri Dhul-Kifl",
+        "Tiên tri Yusuf",
+        "Tiên tri Shu'ayb"
+      ],
+      "answer": "Tiên tri Ilyas"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Ông ta kêu gọi dân chúng từ bỏ Baal.",
+        "Đóng một con thuyền để cứu những người có đức tin.",
+        "Bị ném vào lửa",
+        "Trốn chạy khỏi bạo chúa Pharaoh",
+        "Đập vào đá để tạo ra nước."
+      ],
+      "answer": "Ông ta kêu gọi dân chúng từ bỏ Baal."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Được ban bình an và một ký ức tốt lành.",
+        "Bị đất nuốt chửng",
+        "Bị tàn phá bởi một cơn bão dữ dội.",
+        "Hóa thành đá",
+        "Chết đuối trên biển"
+      ],
+      "answer": "Được ban bình an và một ký ức tốt lành."
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

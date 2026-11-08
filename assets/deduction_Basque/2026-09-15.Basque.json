@@ -1,0 +1,61 @@
+{
+  "title": "Beldurra ekarri zuen ostalaritza",
+  "intro": "Gaiztakeriaz jositako hiri batean, zerbitzari leial batek ustekabeko bisitariak jaso zituen egun batean. Haien segurtasunaz kezkatuta, pertsona honek babesa eskaini zion, baina hiriko jendeak zerbait lotsagarria eskatu zuen. Hurbiltzen ari zen hondamendiaz ohartarazita, zerbitzariak familiarekin ihes egin zuen iluntasunaren babespean, suntsipenerako markatutako hiri bat atzean utziz. Nor da sinestun bakarti hau?",
+  "clues": [
+    "Mezulari gisa bidali ninduten ekintza lotsagarriak egin zituen herri batengana.",
+    "Ustekabeko bisitariak etorri ziren nire etxera, eta haien segurtasunaz kezkatuago nengoen nireaz baino.",
+    "Nire jendeak nire gonbidatuak ikustea eskatu zuen asmo gaiztoengatik, eta nik haiekin arrazoitzen saiatu nintzen.",
+    "Nire bisitariek aingeru gisa agertu ziren eta nire familia hartu eta gauez alde egiteko agindu zidaten.",
+    "Nire emazteak ez zuen ihes egiteko deia entzun eta nire herriak bezala suntsipen bera jasan zuen.",
+    "Nire hiria buztinezko harri geruzatuen euri batek irauli zuen, bere alderik gorenak beheraino eramanez."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Lut profeta",
+        "Musa profeta",
+        "Ibrahim profeta",
+        "Nuh profeta",
+        "Hud profeta"
+      ],
+      "answer": "Lut profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Nire herriaren eskaera nire gonbidatuei modu gaiztoan hurbiltzeko",
+        "Tirano batetik ihes egiteko itsasoa zatitzea",
+        "Arka handi baten eraikuntza iseka artean",
+        "Nire semearen sakrifizioa fedearen proba batean",
+        "Arrain handi batek irentsi izanaren esperientzia"
+      ],
+      "answer": "Nire herriaren eskaera nire gonbidatuei modu gaiztoan hurbiltzeko"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Nire herriaren hiri irauli hura",
+        "Jainkozko hitzaldia jaso nuen mendia",
+        "Uholde handi batetik nabigatu zuen arka",
+        "Harkaitzetik atera zen gamelu emea",
+        "Bisitari zuzen ezkutu batekin lorategia"
+      ],
+      "answer": "Nire herriaren hiri irauli hura"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Nire familiarekin salbatu ninduten nire hiria irauli aurretik",
+        "Nire herria itsasoaren bestaldean askatasunera eraman nuen",
+        "Arka handi bat eraiki nuen eta uholde handi batetik bizirik atera nintzen",
+        "Haizeen eta jinnen gaineko nagusitasuna eman zidaten",
+        "Pazientziaz jasan nuen sufrimendua eta familiarekin saritua izan nintzen"
+      ],
+      "answer": "Nire familiarekin salbatu ninduten nire hiria irauli aurretik"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

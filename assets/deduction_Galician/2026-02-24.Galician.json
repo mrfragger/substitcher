@@ -1,0 +1,61 @@
+{
+  "title": "O eco do engano",
+  "intro": "Un vínculo de parentesco foi posto a proba por unha onda de envexa. Tramouse un plan secreto, pondo en marcha unha cadea de acontecementos que abarcarían anos e vastas distancias. As accións deste grupo levaron a unha profunda separación e dor, pero a historia non rematou aí. É unha historia de engano, arrepentimento e o desenvolvemento final dun plan divino. Podes desentrañar a identidade destes individuos cuxas eleccións resoaron a través de xeracións?",
+  "clues": [
+    "Estabamos consumidos polos celos polo afecto que lle mostrabamos a un dos nosos.",
+    "Na nosa envexa, conspiramos xuntos e lanzamos o noso irmán á escuridade dun pozo.",
+    "Para ocultar o noso acto, presentámoslle ao noso pai unha peza de roupa manchada con sangue falso.",
+    "Anos despois, unha fame grave obrigounos a viaxar a Exipto en busca de provisións.",
+    "Alí, chegamos ante un poderoso gobernador que, sen que o soubésemos, era o mesmo irmán ao que lle fixeramos mal.",
+    "A nosa proba final foi traer ao noso irmán máis novo, Binyamin, o que levou á revelación do noso pasado e de que o noso pai era o profeta Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Os fillos de Adán (Qabil e Habil)",
+        "Os discípulos do profeta Isa",
+        "Os irmáns do profeta Yusuf",
+        "A xente de Madyan",
+        "Os Magos de Fir'awn"
+      ],
+      "answer": "Os irmáns do profeta Yusuf"
+    },
+    "trial": {
+      "label": "Cal foi a nosa principal falta?",
+      "options": [
+        "Construíndo un becerro de ouro para o culto",
+        "Esixindo ver a Alá directamente",
+        "Burlándose dun profeta por construír unha arca",
+        "Enganando ao noso pai e abandonando ao noso irmán",
+        "Romper o sábado pescando"
+      ],
+      "answer": "Enganando ao noso pai e abandonando ao noso irmán"
+    },
+    "location": {
+      "label": "Que obxecto foi o central do noso engano?",
+      "options": [
+        "Un conxunto de táboas inscritas",
+        "Unha camisa manchada de sangue falso",
+        "Un becerro de ouro",
+        "Un fermoso paxaro (a bubela)",
+        "Un bastón que se converteu nunha serpe"
+      ],
+      "answer": "Unha camisa manchada de sangue falso"
+    },
+    "outcome": {
+      "label": "Cal foi o resultado final da nosa historia?",
+      "options": [
+        "Fomos destruídos por unha poderosa inundación",
+        "Convertímonos en simios",
+        "Fomos tragados pola terra",
+        "Fomos perdoados e reunidos coa nosa familia",
+        "Afogámonos no mar"
+      ],
+      "answer": "Fomos perdoados e reunidos coa nosa familia"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

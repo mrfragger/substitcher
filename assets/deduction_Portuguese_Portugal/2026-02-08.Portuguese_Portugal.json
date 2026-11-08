@@ -1,0 +1,60 @@
+{
+  "title": "O Enigma do Trono Distante",
+  "intro": "Um poderoso monarca, dotado de domínio extraordinário, enfrentou um desafio peculiar envolvendo uma rainha de uma terra distante. O monarca buscou demonstrar poder e sabedoria divinos, desencadeando um evento incrível que desafiou as leis do tempo e do espaço. Você consegue deduzir os detalhes desse acontecimento milagroso?",
+  "clues": [
+    "Ao governante era concedido um poder imenso, incluindo o controle sobre seres invisíveis e a capacidade de comandar os ventos.",
+    "Esse governante recebeu notícias de uma rainha rica que adorava o sol e decidiu convidá-la para a corte.",
+    "Antes da chegada da rainha, o governante expressou o desejo de trazer para ela a magnífica sede do poder de seu reino distante.",
+    "Um poderoso gênio se ofereceu para recuperar o objeto antes que o governante pudesse se levantar de seu conselho.",
+    "No entanto, alguém com profundo conhecimento das Sagradas Escrituras ofereceu uma recuperação ainda mais rápida, concluindo a tarefa num piscar de olhos.",
+    "Ao chegar, o governante ordenou que o objeto fosse alterado para testar o intelecto e a percepção da rainha quando ela finalmente chegasse ao palácio."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Pessoa",
+      "options": [
+        "Profeta Moisés",
+        "Profeta Davi",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Profeta Sulayman"
+      ],
+      "answer": "Profeta Sulayman"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A Divisão do Mar",
+        "A paciência na adversidade",
+        "A construção da Caaba",
+        "O Teste dos Jardins",
+        "Trazendo o Trono da Rainha"
+      ],
+      "answer": "Trazendo o Trono da Rainha"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Arca",
+        "A equipe",
+        "A Montanha",
+        "O Poço",
+        "O Trono"
+      ],
+      "answer": "O Trono"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Um grande sacrifício",
+        "Um reino estabelecido",
+        "Um povo punido",
+        "Uma nova aliança",
+        "A Submissão da Rainha a Alá"
+      ],
+      "answer": "A Submissão da Rainha a Alá"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

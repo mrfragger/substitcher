@@ -1,0 +1,61 @@
+{
+  "title": "Zginęli Świadkowie",
+  "intro": "W zamierzchłej przeszłości, na skrzyżowaniu imperiów, żyła pewna społeczność. Ich prorok wezwał ich na ścieżkę prawdy, lecz oni wciąż tkwili w niewierze i ucisku. Ta historia kończy się boską karą. Czy potrafisz zidentyfikować ten naród i jego los na podstawie poniższych wskazówek?",
+  "clues": [
+    "Ludzie odrzucili ostrzeżenie przyniesione przez jednego z ich własnych posłańców.",
+    "Posłaniec wzywał nas do oddawania czci wyłącznie Allahowi i ostrzegał przed korupcją.",
+    "Naszym grzechem było odrzucenie proroka posłanego do nas ze sprawiedliwością.",
+    "Mieliśmy wątpliwości co do autorytetu posłańca i oskarżyliśmy go o oszustwo.",
+    "Kara dosięgła nas, gdy bezpiecznie mieszkaliśmy w naszych domach.",
+    "Zostaliśmy zniszczeni, bo zaparliśmy się naszego proroka i prześladowaliśmy wierzących."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Szuajb",
+        "Ibrahim",
+        "Lut",
+        "Nie",
+        "Musa"
+      ],
+      "answer": "Szuajb"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Przyjęcie proroka, który wzywał do sprawiedliwości",
+        "Bycie testowanym przez głód",
+        "Zinterpretowanie snu",
+        "Otrzymanie Tory",
+        "Podróż przez morze"
+      ],
+      "answer": "Przyjęcie proroka, który wzywał do sprawiedliwości"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Midian",
+        "Babilon",
+        "Sodom",
+        "Morze Czerwone",
+        "Arka"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Ludzie zostali zniszczeni za niewiarę",
+        "Ludzie pokutowali i zostali poprowadzeni",
+        "Ludzie weszli do raju",
+        "Ludzie przetrwali i prosperowali",
+        "Ludzie wyemigrowali do nowej krainy"
+      ],
+      "answer": "Ludzie zostali zniszczeni za niewiarę"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Mea Whiriwhiri Mārama",
+  "intro": "I raro i te atarangi o te maunga i heke iho ai ngā kupu tapu, ka ngohengohe te whakapono o te iwi i raro i te kanapa o te koura. Kotahi te wairua, he pūkenga kōrero, i tū hei tautoko i tētahi misioni nui ake, engari i tūtaki ki tētahi wā whakamātautau nui. I te taenga o te karere i whiriwhiria ki tētahi wā tapu, i noho tonu tēnei tangata ki muri, e inoi ana ki tētahi iwi e kore e okioki. Ko wai tēnei wairua u e ara ake ana tōna reo ki te karakia whakapakoko?",
+  "clues": [
+    "I whiriwhiria ahau e Allah hei poropiti, ahakoa he maha ngā wā ka kōrerotia taku kōrero i te taha o tētahi atu.",
+    "I tukuna ahau ki tētahi rangatira nanakia, engari ko taku mahi he tautoko, ehara i te ārahi.",
+    "He pūkenga kōrero pai tōku, ā, ko te tikanga o aku kupu he whakangawari i ngā ngākau.",
+    "I te haerenga atu o tōku hoa mō tētahi hui tapu, i mahue iho ahau hei ārahi i tētahi iwi e noho pōrearea ana.",
+    "I roto i tō rātou manawanui kore, i hangaia e rātou he whakapakoko mai i ā rātou whakapaipai, ā, i inoi ahau ki a rātou kia noho pono ki a Allah.",
+    "I hoki mai taku hoa, ā, ka hopu i ahau, engari i whakamārama atu ahau i kaha rawa te iwi ki ahau, ā, tata tonu ahau te patu i ahau; kāore ahau i roto i te hunga hara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Mohi",
+        "Poropiti Haruna",
+        "Poropiti a Ihaia",
+        "Poropiti a Yahya",
+        "Poropiti Hakaraia"
+      ],
+      "answer": "Poropiti Haruna"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te maka ki roto i te ahi",
+        "Te maka ki roto i te puna",
+        "Te aro atu ki te kaupapa o te kuao kau koura",
+        "Te whakamātautau i te mate kino",
+        "Te whakamātautau mō te ngaronga o te taonga me ngā tamariki"
+      ],
+      "answer": "Te aro atu ki te kaupapa o te kuao kau koura"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te kuao kau koura",
+        "Ngā kaimahi",
+        "Te Āka o te Kawenata",
+        "Ngā papa",
+        "Te rakau e mura ana"
+      ],
+      "answer": "Te kuao kau koura"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whiua nuitia",
+        "Kua murua, kua whakakorekoretia",
+        "I hangaia he kīngi",
+        "Ka haria ki te rangi",
+        "I hoatu he karaipiture hou"
+      ],
+      "answer": "Kua murua, kua whakakorekoretia"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

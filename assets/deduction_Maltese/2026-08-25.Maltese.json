@@ -1,0 +1,61 @@
+{
+  "title": "Is-saltna fejn it-tmiem tas-sovran ma deherx",
+  "intro": "L-istorja rat ħakkiema ta’ kull tip, iżda ftit kienu dawk li kkmandaw dominju bħal dan. Fejn ir-riħ innifsu wieġeb għall-kmand tagħhom u ħaddiema li l-ebda għajn mortali ma setgħet tara jaħdmu fis-skiet, dan ir-renju kien differenti minn kwalunkwe wieħed ta’ qabel jew ta’ wara. Madankollu, anke l-akbar renju kellu jintemm—u meta dan għamel dan, il-verità ħarġet minn sors tant umli li ħadd ma ħaseb li jissuspettah.",
+  "clues": [
+    "Ġejt mogħti saltna vasta mill-Mulej tiegħi, li dwarha tkellem fil-paġni sagri.",
+    "Writt għerf u awtorità kbira mingħand ġenitur li mexa qabli fid-devozzjoni.",
+    "Jiena kkmandajt lir-riħ innifsu, u dan ivvjaġġa 'l bogħod għall-iskopijiet tiegħi.",
+    "Esseri li ma jidhrux għal għajnejn ordinarji ħadmu taħt l-awtorità tiegħi, jibnu meravilji li ma jitqabblux magħhom.",
+    "Għelieqi ta’ ram imdewweb niżlu għalija, barka unika fost dawk magħżula minn Alla.",
+    "Meta tlaqt minn din id-dinja, ġismi baqa’ wieqaf ma’ bastun. Kien biss meta kreatura żgħira tad-dinja kielet dak il-bastun li dawk ta’ madwari rrealizzaw li kont tlaqt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Sulaiman (Salomon)",
+        "Il-Profeta Dawud (David)",
+        "Il-Profeta Musa (Mosè)",
+        "Profeta Yusuf (Ġużeppi)",
+        "Profeta Isa (Ġesù)"
+      ],
+      "answer": "Il-Profeta Sulaiman (Salomon)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Mewt żvelata minn kreatura li tiekol mill-bastun tiegħi",
+        "L-għargħar kbir li qered lin-nies tiegħi",
+        "Mitfugħ f’nar qawwi",
+        "Eżilju fil-baħar miftuħ",
+        "Is-sagrifiċċju ta’ ibni l-aktar għażiż"
+      ],
+      "answer": "Mewt żvelata minn kreatura li tiekol mill-bastun tiegħi"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Molol tar-ram imdewweb",
+        "L-arka tal-patt",
+        "Bastun li qassam l-ilmijiet",
+        "Siġra taqbad",
+        "L-għoġol tad-deheb"
+      ],
+      "answer": "Molol tar-ram imdewweb"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-ġinn baqa’ jaħdem sakemm il-bastun inbela’",
+        "In-nies tiegħi ġew salvati abbord bastiment kbir",
+        "Tirann għereq fil-baħar",
+        "Nazzjon setgħan inqered minn riħ qawwi",
+        "Ġejt imtella’ s-smewwiet ħaj"
+      ],
+      "answer": "Il-ġinn baqa’ jaħdem sakemm il-bastun inbela’"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

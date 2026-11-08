@@ -1,0 +1,61 @@
+{
+  "title": "Der Erste, der um Vergebung bittet",
+  "intro": "Reise zurück in eine Zeit vor dem ersten Sonnenaufgang, bevor ein Mensch die Erde betrat. Eine Gestalt wurde aus einfachsten Materialien geformt, über die Engel erhoben und mit einer deutlichen Warnung in einen heiligen Garten gestellt. Doch in einem einzigen Augenblick wurde eine Entscheidung getroffen – eine, die die gesamte Menschheitsgeschichte prägen sollte. Wer ist diese Gestalt?",
+  "clues": [
+    "Ich wurde auf eine Weise ins Leben gerufen, die sich von allen anderen unterscheidet – aus dem Staub der Erde geformt und von der Hand des Schöpfers mit einer lebendigen Seele versehen.",
+    "Mir wurde so tiefgründiges Wissen zuteil, dass selbst die Engel im Himmel darüber staunten.",
+    "Der ganze Himmel wurde angewiesen, sich vor mir zu verneigen, und alle unterwarfen sich – bis auf einen, der sich aus Stolz weigerte.",
+    "Ich wurde in einen heiligen Garten versetzt, einen Ort ewigen Trostes und ewiger Versorgung – aber mit einem strengen Verbot.",
+    "Ich habe es vergessen, ich bin ausgerutscht und ich habe nicht gehorcht – und ich habe die Schwere meines Fehlers tief gespürt.",
+    "Ich wandte mich mit aufrichtigen Worten an meinen Herrn, und er nahm meine Reue an, denn er ist der Allvergebende."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Adam",
+        "Prophet Dawud",
+        "Prophet Muhammad",
+        "Iblis",
+        "Prophet Yaqub"
+      ],
+      "answer": "Prophet Adam"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Den Engeln wurde befohlen, sich niederzuwerfen.",
+        "Die große Sintflut wurde gesandt",
+        "Ein großes Feuer wurde abgekühlt und sicher gemacht.",
+        "Ein arroganter Herrscher ertrank im Meer",
+        "Eine Elefantenarmee wurde zerstört"
+      ],
+      "answer": "Den Engeln wurde befohlen, sich niederzuwerfen."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Garten der Glückseligkeit",
+        "Berg Sinai",
+        "Die Heilige Moschee",
+        "Der Nil",
+        "Die Höhle"
+      ],
+      "answer": "Der Garten der Glückseligkeit"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Allah nahm die Reue an.",
+        "Im Meer ertrunken",
+        "Verschluckt von einem großen Fisch",
+        "Das Land wurde von einer gewaltigen Explosion getroffen.",
+        "Von einem sengenden Wind verbrannt"
+      ],
+      "answer": "Allah nahm die Reue an."
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

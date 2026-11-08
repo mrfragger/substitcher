@@ -1,0 +1,61 @@
+{
+  "title": "O Adversario Fogoso",
+  "intro": "Nos primeiros días da revelación, xurdiu unha figura como teimuda opoñente da verdade. Bendicida con riqueza e status, esta alma escolleu o orgullo por riba da guía, e a súa historia converteuse nunha dura advertencia nos versos finais dunha sura.",
+  "clues": [
+    "Vivín na mesma cidade que o Profeta e estaba entre os seus parentes máis próximos, pero o meu orgullo mantiñame lonxe da verdade.",
+    "Posuía grandes riquezas e numerosas propiedades, e pensaba que os meus recursos sempre me protexerían.",
+    "Cando a mensaxe foi revelada, burleime dela abertamente e dei as costas, considerándome superior aos crentes.",
+    "A miña inimizade era tan notoria que unha sura do Corán se dirixiu directamente a min, chamándome polo nome que os demais me coñecían.",
+    "Avisáronme de que a miña riqueza e as miñas ganancias non me servirían de nada e que sería lanzado a un lume abrasador.",
+    "Coñécenme como o pai da chama, e a miña muller levará a leña cunha corda de fibra de palma arredor do pescozo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Rexeitou o Islam e opúxose abertamente ao Profeta",
+        "Conspirou para asasinar o Profeta",
+        "Liderou un boicot social contra os musulmáns",
+        "Loitou na batalla de Badr",
+        "Bilal ibn Rabah torturado"
+      ],
+      "answer": "Rexeitou o Islam e opúxose abertamente ao Profeta"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha corda de fibra de palma",
+        "Unha espada afiada",
+        "Unha cadea pesada",
+        "Un bastón de madeira",
+        "Un látego de coiro"
+      ],
+      "answer": "Unha corda de fibra de palma"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Arderá nun lume abrasador",
+        "Arrepentiuse e converteuse nun compañeiro",
+        "Perdeu a súa riqueza pero morreu honrado",
+        "Fuxiu a Abisinia",
+        "Afogado no mar"
+      ],
+      "answer": "Arderá nun lume abrasador"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

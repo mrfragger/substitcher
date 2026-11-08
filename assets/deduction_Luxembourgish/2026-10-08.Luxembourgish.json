@@ -1,0 +1,61 @@
+{
+  "title": "D'Steenschnitzer vum Alen Dall",
+  "intro": "Stellt Iech eng Zivilisatioun vir, déi an de felsege Däller vun Arabien entstanen ass, déi fäeg war, prächteg Haiser aus de Bierghäng ze schmieden. Si hunn mat Kraaft a Konscht gebléit, awer hir Geschicht ass geprägt vun enger erschreckender Trotzung vun der göttlecher Warnung. Wann Dir an hir Geschicht daucht, entdeckt Dir e Vollek, deem seng Arroganz zu hirer kompletter Vernichtung gefouert huet. Wien waren si?",
+  "clues": [
+    "Mir hunn e Land mat Fielsplanzen an héije Fielsen ierft, wou mir eis Wunnengen mat ongegläichem Geschéck gebaut hunn.",
+    "Mir ware bekannt dofir, sécher Haiser an d'Bierger ze schmieden, eis sécher virun all Schued ze fillen.",
+    "E Bote koum aus eiser Mëtt bei eis, huet eis un d'Gonschte vum Allah erënnert an eis virun der Strof gewarnt.",
+    "Mir hunn e Zeeche gefuerdert, an e wonnerbart Kamell ass aus dem Fiels erauskomm, e kloere Test vun Allah.",
+    "Mir hunn der Warnung trotzgaang a mir hunn d'Kamelkäppchen duerchernee bruecht, andeems mir de Bote verspott hunn an d'Strofe a Fro gestallt hunn.",
+    "Een eenzege Stuerm huet eis an eisen Haiser iwwerholl, an de Moie louche mir op der Kopp, wéi wann mir do ni gewunnt hätten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Leit vun Thamud",
+        "Leit vun 'Ad",
+        "D'Leit vu Madyan",
+        "D'Leit vun Nuh",
+        "Leit vu Lut"
+      ],
+      "answer": "Leit vun Thamud"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Hamstrung, d'Kamelfra",
+        "De Sabbat gebrach",
+        "Huet dat gëllent Kalb ugebiet",
+        "De Prophet ëmbruecht, deen hinne geschéckt gouf",
+        "En Tuerm gebaut fir an den Himmel ze kommen"
+      ],
+      "answer": "Hamstrung, d'Kamelfra"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Kamel",
+        "D'Ark",
+        "D'Personal",
+        "Déi wäiss Hand",
+        "D'Manna an d'Wachtelen"
+      ],
+      "answer": "D'Kamel"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Duerch eng Explosioun zerstéiert",
+        "Vum Zerstéierung gerett",
+        "An Affen verwandelt",
+        "Am Mier erdronk",
+        "Vun der Äerd verschléckt"
+      ],
+      "answer": "Duerch eng Explosioun zerstéiert"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

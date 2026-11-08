@@ -1,0 +1,61 @@
+{
+  "title": "Saray Imbaki na Panangasi tan Biskeg",
+  "intro": "Isipen pa so mareen ya ngarem ya naabala lapud isabi na saray ag kabat ya biahero. Ordinaryo labat so itsura da, balet say gagala ra et aliwan ontan. Awit da so madibinon mensahe ya manguman ed kurso na duaran bansa, ya mangitarok na taway ed sakey ya ag-ontutubo ya ayaman tan takot ed sakey a makasalanan a syudad. Siopa irayan misteryoson bisita?",
+  "clues": [
+    "Imbaki kami ed sakey a debosyonadon lingkor nen Allah, ya kabkabat ed andi-anggaan a panagparawes da.",
+    "Sinmabi kami ya singa kami ag kabat, balet ta walay alikna na angimbita ed sikami nipaakar ed kiwawala mi.",
+    "Angitarok kami na balita ya amaliket ed sakey a masiken ya bii, ya abigla.",
+    "Niiter ed sikami so kimey a protektaan so sakey a matunong a pamilya legan ya mamapauran na kadederal ed sakey a syudad a napno na kurapsion.",
+    "Agkami labay ya mangan ed panangan ya inyopresi ed sikami, kanian lalon inmaralem so suspetsa na angimbita ed sikami.",
+    "Imparungtal mi labat so tuan inkatoo mi antis kamin inmalis, ya inkuan mi, 'Tua, mensahero kami na Katawan mo.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa Sikatayo?",
+      "options": [
+        "Saray Bisita nen Abraham",
+        "Saray disipulo nen Jesus",
+        "Saray Kaiba ed Ungeb",
+        "Say Armada nen Abraham",
+        "Saray Mensahero nen Ya-Sin"
+      ],
+      "answer": "Saray Bisita nen Abraham"
+    },
+    "trial": {
+      "label": "Say Misyon Mi",
+      "options": [
+        "Pian nasubok so pananisia nen Abraham nipaakar ed anak to",
+        "Pian nipasabi ed kinen Abraham so kasulatan",
+        "Pian ipaamta so inkianak nen Isaac tan say kaderal na totoo nen Lot",
+        "Pian igiya si Abraham ed Kaaba",
+        "Pian nilaban si Abraham ed apoy"
+      ],
+      "answer": "Pian ipaamta so inkianak nen Isaac tan say kaderal na totoo nen Lot"
+    },
+    "location": {
+      "label": "Lugar na Inkipatnag",
+      "options": [
+        "Diad dalin na Ehipto",
+        "Diad syudad na Ur",
+        "Diad abung nen Abraham",
+        "Diad hardin na Eden",
+        "Diad bobon na Zamzam"
+      ],
+      "answer": "Diad abung nen Abraham"
+    },
+    "outcome": {
+      "label": "Say Resulta",
+      "options": [
+        "Nagmaliw ya ari si Abraham",
+        "Si Abraham so angipaalagey na Kaaba",
+        "Inyanak nen Sara si Isaac tan aderal iray totoo nen Lot",
+        "Inmalis si Abraham ed Palestina",
+        "Saray totoo nen Abraham et niliktar ed baleg a delap"
+      ],
+      "answer": "Inyanak nen Sara si Isaac tan aderal iray totoo nen Lot"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

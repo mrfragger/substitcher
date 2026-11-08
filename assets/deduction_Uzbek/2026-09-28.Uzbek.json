@@ -1,0 +1,61 @@
+{
+  "title": "Egilgan o'n bir yulduz",
+  "intro": "Qur'ondagi bir shaxsga bolaligida chuqur tasavvur berilgan — samoviy jismlarning hurmat bilan egilishi haqidagi tush. Bu tasavvur amalga oshishi uchun yillar o'tib, xiyonat, ajralish, yolg'on ayblovlar va qamoq jazolari o'tdi. Hikoyasi Qur'onning eng uzun surasi bo'lgan bu bardoshli qalb kim?",
+  "clues": [
+    "Men bir vaqtlar yosh edim, hatto otam ham menga sir saqlashni buyurgan ajoyib tush ko'rdim.",
+    "Rashkdan ko'r bo'lib qolgan akalarim menga qarshi fitna uyushtirishdi va meni chuqur, qorong'u quduqqa tashlashdi.",
+    "Meni uzoq yurtga olib ketishdi va olijanob amaldorning xonadoniga sotishdi, u yerda men ularning marhamatiga sazovor bo'ldim va mas'uliyatli lavozimga ko'tarildim.",
+    "Soxta ayblovlar meni nohaq qamoqqa tashlashga olib keldi, ammo o'sha qorong'u joyda men ibodat va Allohga sajda qilishda taskin topdim.",
+    "Alloh menga tushlarni ta'birlashning noyob qobiliyatini ato etdi, bu esa oxir-oqibat meni yurt hukmdori huzuriga olib keldi va meni yuqori ishonchli mavqega ko'tardi.",
+    "Uzoq yillik ayriliqdan so'ng, men sevimli oilam bilan yana birlashdim va nihoyat o'n bitta yulduz, quyosh va oy menga ta'zim qilishi haqidagi bolalik orzuim ushaldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yusuf payg'ambar",
+        "Payg'ambar Solih",
+        "Payg'ambar Ilyos",
+        "Tubba', qadimgi Himyor hukmdori",
+        "Falastin tepaliklaridan kelgan kamtar cho'pon"
+      ],
+      "answer": "Yusuf payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Rashkchi aka-ukalar tomonidan chuqur va qorong'u quduqqa tashlanmoqda",
+        "Chuqur dengizlarning buyuk jonzoti tomonidan yutib yuborilmoqda",
+        "Butparastlar tomonidan alangali olovga tashlanmoqda",
+        "Ilohiy halokat shamoli tomonidan olib ketilmoqda",
+        "Butun yer yuzini qamrab olgan katta suv toshqinidan omon qolish"
+      ],
+      "answer": "Rashkchi aka-ukalar tomonidan chuqur va qorong'u quduqqa tashlanmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Meni tashlab ketgan cho'lda quruq quduq",
+        "Chuqur dengizlarning buyuk balig'i",
+        "Ilohiy amr asosida qurilgan ulkan kema",
+        "Osmonlarga yetib borish uchun qurilgan minora",
+        "Yonishdan bosh tortgan muqaddas olov"
+      ],
+      "answer": "Meni tashlab ketgan cho'lda quruq quduq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Yillar davomida ajralishdan keyin oilasi bilan yana birlashdi va ishonchli ruhoniyga aylandi",
+        "Xalqimning ikkiga bo'lingan dengiz orqali buyuk ko'chib o'tishiga boshchilik qildim",
+        "Xalqimni ularni qamrab olgan yaqinlashib kelayotgan halokat haqida ogohlantirdi",
+        "Hamma uchun muqaddas joyga aylangan muqaddas uy qurdi",
+        "Uch kundan keyin buyuk jonzotning qornidan eson-omon chiqdi"
+      ],
+      "answer": "Yillar davomida ajralishdan keyin oilasi bilan yana birlashdi va ishonchli ruhoniyga aylandi"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

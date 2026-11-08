@@ -1,0 +1,61 @@
+{
+  "title": "Irra daddarbaa qarqara galaanaa",
+  "intro": "Cirracha qarqara galaanaa dagatame, bakka dalgaan hawaasa ajaja waaqaatiin qoramee hasaasu irra dhaabatta. Qilleensi yaadannoo sarbama seeraa jijjiirama nama dinqisiisu fideen ulfaataadha. Lubbuuwwan kun eenyu turan, maalummaa qormaanni isaanii maal ture?",
+  "clues": [
+    "Nuti hawaasa abboommii ifa ta’e Gooftaa keenya irraa arganne turre, ta’us karaa itti morminu arganne.",
+    "Bishaan tokkotti dhihoo kan jiraannu siʼa taʼu, jireenyi keenya uumamtoota isaa irratti kan hundaaʼe ture.",
+    "Guyyaa hojii biyya lafaa irraa akka of qusannu ajajamne qormaanni nutti dhufe.",
+    "Uumamtoonni bishaanii guyyuma sanatti baay’inaan nutti dhufanii obsa ol nu qoraniiru.",
+    "Labsii sana caaluu dandeenya jennee yaaduudhaan tartiiba waaqaa bira darbuuf mala haxxummaa qopheessine.",
+    "Irra daddarbaan keenya jijjiirama salphina nutti fide; ajaja Rabbiitiin hantuuta tuffatamaa taane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata Sanbataa",
+        "Ummanni Raas",
+        "Ummata Tubbaa",
+        "Ummata Holqa",
+        "Sahaabonni Boollaa"
+      ],
+      "answer": "Ummata Sanbataa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Mul'achuu qurxummii guyyaa Sanbataa",
+        "Waggaa gogiinsa hamaa",
+        "Waraana simbirrootaa isaan irratti ergame",
+        "Lolaan isaan liqimse",
+        "Kirkira lafaa hamaa"
+      ],
+      "answer": "Mul'achuu qurxummii guyyaa Sanbataa"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Galaana",
+        "Gaara tokko",
+        "Holqa tokko",
+        "Gammoojjii gammoojjii",
+        "Magaalaa dallaa qabdu"
+      ],
+      "answer": "Galaana"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Gara hantuutaatti jijjiirame",
+        "Lafaan liqimfame",
+        "Qilleensi iyyaa jiruun barbadaa'e",
+        "Galaana keessatti liqimfame",
+        "Dhagaa roobsaan rukutame"
+      ],
+      "answer": "Gara hantuutaatti jijjiirame"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

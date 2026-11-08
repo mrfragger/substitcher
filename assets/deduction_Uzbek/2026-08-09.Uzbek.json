@@ -1,0 +1,61 @@
+{
+  "title": "Qadimgi davrlarning haqiqat ovozi",
+  "intro": "Qur'onda bir nechta oyatlarda hikoya qilingan, ammo uning olijanob fazilatlari yorqin ravshanlik bilan namoyon bo'ladigan bir ruh bor. Qodir Tangrining o'zgacha fazilati uchun maqtalgan bu qadimgi Rahmon xizmatkori vahiy sahifalarida o'z o'rnini egallaydi. Sizning vazifangiz bu ajoyib shaxsni aniqlashdir. Ular kimligini taxmin qila olasizmi?",
+  "clues": [
+    "Men insoniyatning ilk avlodlari orasida yashagan Allohning payg'ambariman.",
+    "Alloh meni O'z kitobida boshqa payg'ambarlar qatorida zikr qilgan va ularning barchasi bir xil oliyjanob fazilat uchun maqtalgan.",
+    "Men Qur'onda rostgo'y odam sifatida ta'riflanganman.",
+    "Alloh meni boshqalar kamdan-kam erishgan yuksak maqomga ko'tardi.",
+    "Mening ismim \"Anbiyo\" surasida sabr-toqati uchun maqtalgan yana ikki payg'ambar qatorida tilga olingan.",
+    "Men Idris, rostgo'y va yuksak payg'ambarman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Idris payg'ambar",
+        "Nuh payg'ambar",
+        "Ibrohim payg'ambar",
+        "Muso payg'ambar",
+        "Payg'ambar Ismoil"
+      ],
+      "answer": "Idris payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Sabr va rostgo'ylikni saqlab, keyin yuqori mavqega ko'tarildi",
+        "Mo'minlarni halokatli suv toshqinidan qutqarish uchun katta kema qurish",
+        "Yonayotgan olovga tashlanib, butunlay sog'-salomat chiqib kelish",
+        "Qudratli shohga qarshi turish va uning sehrgarlar qo'shinini mag'lub etish",
+        "Dengiz tubidagi ulkan baliqning qornida omon qolish"
+      ],
+      "answer": "Sabr va rostgo'ylikni saqlab, keyin yuqori mavqega ko'tarildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Alloh tomonidan yuksak va ulug' maqom",
+        "Taxtalardan yasalgan va qatron bilan qoplangan ulkan kema",
+        "Yovuz podshohning butparastlari tomonidan yoqilgan g'azablangan olov",
+        "Quruq yo'llarga bo'lingan ulkan dengiz",
+        "Okean tubidagi katta kitning qorong'u qorni"
+      ],
+      "answer": "Alloh tomonidan yuksak va ulug' maqom"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Allohning rahmatiga solihlardan biri sifatida kirdi",
+        "Butun dunyo bo'ylab suv toshqinidan barcha imonlilar bilan birga qutqarildi",
+        "Olovdan tegmagan holda olovdan chiqib ketdim",
+        "Isroil farzandlarini dengizning narigi tomoniga xavfsiz olib chiqdi",
+        "Uzoq yillar davomidagi qiyinchiliklardan so'ng sevimli oilasi bilan yana birlashdilar"
+      ],
+      "answer": "Allohning rahmatiga solihlardan biri sifatida kirdi"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

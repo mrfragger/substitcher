@@ -1,0 +1,61 @@
+{
+  "title": "Suveränen som krävde gudomlighet",
+  "intro": "En mäktig och arrogant härskare trodde att ingen stod över deras tron. De jagade en flyende grupp över ett vidsträckt vatten, bara för att möta ett dramatiskt slut. Berättelsen om denna härskare ekar i många avsnitt i Koranen och tjänar som en varning till alla.",
+  "clues": [
+    "Jag var en mäktig härskare som trodde att ingen auktoritet överträffade min egen i de länder jag styrde.",
+    "Jag hade en betrodd vesir vid namn Haman som hjälpte mig att genomföra stora arkitektoniska projekt.",
+    "Jag kallade till mig de bästa magikerna i mitt land för att utmana tecknen från en budbärare som motsatte sig mig.",
+    "Jag vägrade att låta ett folk som var förslavat inom mitt rike lämna, trots plågor och tydliga varningar.",
+    "Jag förföljde dem över ett vidsträckt hav med hela min här och vagnar.",
+    "Just det havet slöt sig över mig och mina styrkor och dränkte oss alla, medan de korsade säkert."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Fir'awn (Farao)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Farao)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Plågor och konfrontation med Musa (Moses)",
+        "Att bygga en ark före en stor översvämning",
+        "Slaget mot Jalut i dalen",
+        "Att bli uppslukad av en val",
+        "Försvarar ärliga handelsvikter"
+      ],
+      "answer": "Plågor och konfrontation med Musa (Moses)"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Höga torn och pålar",
+        "En stor ark av trä",
+        "En gyllene kalv",
+        "En stav som förvandlades till en orm",
+        "En massiv val"
+      ],
+      "answer": "Höga torn och pålar"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Drunknade i havet med armén",
+        "Räddad av Allahs barmhärtighet och tålamod belönad",
+        "Återförenad med familjen efter år av svårigheter",
+        "Slukad av jorden",
+        "Bränd i en eld"
+      ],
+      "answer": "Drunknade i havet med armén"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

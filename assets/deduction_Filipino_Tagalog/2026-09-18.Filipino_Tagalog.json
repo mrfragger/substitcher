@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tawag mula sa Sagradong Lambak",
+  "intro": "Sa kabila ng mga pahina ng kasaysayan ay naroon ang kuwento ng isang kaluluwa na nakatayo sa pagitan ng isang makapangyarihang pinuno at ng isang buong inaliping bayan. Ang indibidwal na ito ay tinawag upang iligtas ang isang bansa mula sa paniniil, na nagsasagawa ng mga kababalaghan na sumasalungat sa bawat batas ng kalikasan. Mula sa isang sagradong bundok hanggang sa isang himala sa ibabaw ng tubig, nasaksihan ng lingkod na ito ng Allah ang mga palatandaan na aalingawngaw sa paglipas ng mga panahon. Ang iyong gawain ngayon ay tukuyin ang kahanga-hangang pigurang ito na ang pamana ay humubog sa takbo ng kasaysayan ng tao.",
+  "clues": [
+    "Ipinanganak ako noong panahong nahaharap ang aking mga kababayan sa isang nakamamatay na utos, at inilagay ako ng aking pamilya sa tubig upang iligtas ang aking buhay.",
+    "Natagpuan at lumaki ako sa mismong sambahayan ng pinuno na nag-utos ng pagkamatay ng mga kauri ko.",
+    "Tumakas ako patungo sa isang sagradong bundok kung saan nakakita ako ng apoy sa isang punong hindi natupok, at isang tinig ang nagsalita sa akin mula roon.",
+    "Ipinadala ako pabalik sa mismong pinunong iyon na may dalang mga himala, hinihingi ang kalayaan ng aking mga inalipin.",
+    "Hinampas ko ang dagat gamit ang aking tungkod, at ito ay nahati sa mga tuyong landas, nilamon ang mga humahabol sa aking bayan.",
+    "Nakipag-usap ako sa aking Panginoon sa isang bundok sa loob ng apatnapung gabi, at ipinagkaloob sa akin ang mga tapyas ng banal na patnubay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Musa",
+        "Propeta Harun",
+        "Propeta Ibrahim",
+        "Propeta Yusuf",
+        "Propeta David"
+      ],
+      "answer": "Propeta Musa"
+    },
+    "trial": {
+      "label": "Ang Aking Mahalagang Pagsubok",
+      "options": [
+        "Ang Paghihiwalay ng Dagat",
+        "Paggawa ng Dakilang Arko",
+        "Paglilitis sa Nagliliyab na Apoy",
+        "Pagkakulong sa Tiyan ng Balyena",
+        "Pagkabilanggo ng isang Opisyal ng Ehipto"
+      ],
+      "answer": "Ang Paghihiwalay ng Dagat"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang Tungkod ng Pastol",
+        "Isang Dakilang Arka na Kahoy",
+        "Isang Kweba Kung Saan Natutulog ang Oras",
+        "Isang Hardin na may Dalawang Bukal",
+        "Isang Trono na Pinalamutian ng Ginto"
+      ],
+      "answer": "Isang Tungkod ng Pastol"
+    },
+    "outcome": {
+      "label": "Ang Resulta",
+      "options": [
+        "Tinawid ng Aking Bayan ang Dagat Patungo sa Kaligtasan",
+        "Isang Malaking Baha ang Nagwasak sa mga Hindi Mananampalataya",
+        "Ang Apoy ng Isang Mapang-api ay Naging Malamig at Mapayapa",
+        "Binihag ng Dagat ang Baybayin",
+        "Ang Bihag ay Naging Ingat-yaman ng Ehipto"
+      ],
+      "answer": "Tinawid ng Aking Bayan ang Dagat Patungo sa Kaligtasan"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La follia della grande ambizione",
+  "intro": "Intraprendete un viaggio alla scoperta dell'identità di un'entità collettiva i cui audaci piani hanno incontrato una fine inaspettata e devastante. Questa narrazione è un profondo monito sulla potenza divina e sulla fragilità del potere terreno quando si contrappone al sacro. Svelate il mistero di questo gruppo, la cui storia è impressa nel Corano come avvertimento per tutti coloro che cercano di trasgredire.",
+  "clues": [
+    "Nutrivamo una grande ambizione, convinti della nostra ineguagliabile potenza, e ci mettemmo in viaggio con un obiettivo chiaro e distruttivo.",
+    "Il nostro leader, pieno di arroganza, ha cercato di profanare una Casa sacra venerata da molti, con l'obiettivo di deviare i pellegrinaggi verso una struttura costruita da noi.",
+    "Da una terra lontana, marciammo con una forza imponente, fiduciosi nella nostra capacità di smantellare l'antico edificio nella Città Santa.",
+    "Il nostro esercito era formidabile, guidato da creature magnifiche, uno spettacolo raramente, se non mai, visto in una simile campagna dagli abitanti della terra che abbiamo invaso.",
+    "Quando raggiungemmo la nostra destinazione, avvenne un intervento divino: piccole creature alate apparvero, lanciandoci pietre di argilla cotta.",
+    "L'intera nostra spedizione ha avuto una fine devastante, lasciando la nostra formidabile forza completamente annientata, come paglia masticata, il nostro grandioso piano ridotto in polvere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Popolo di Thamud",
+        "Persone di 'Ad",
+        "Abitanti di Sodoma",
+        "Popolo dell'Elefante",
+        "Gente del giardino"
+      ],
+      "answer": "Popolo dell'Elefante"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il grande diluvio",
+        "La campagna contro la Kaaba",
+        "La distruzione degli idoli",
+        "La divisione del mare",
+        "Il terremoto del Michigan"
+      ],
+      "answer": "La campagna contro la Kaaba"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca",
+        "Lo staff",
+        "La Kaaba",
+        "Il vitello d'oro",
+        "Il fuoco"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Divina salvezza",
+        "Un lungo periodo di prosperità",
+        "Conversione all'Islam",
+        "Distruzione totale",
+        "Esiliati dalla loro terra"
+      ],
+      "answer": "Distruzione totale"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vyslanci milosrdenstva a moci",
+  "intro": "Predstavte si tiché popoludnie prerušené príchodom neznámych cestovateľov. Ich vzhľad je obyčajný, ale ich účel je všetko možné. Nesú božské posolstvo, ktoré zmení smerovanie dvoch národov, prinesie smiech do pustého domova a hrôzu do hriešneho mesta. Kto sú títo tajomní návštevníci?",
+  "clues": [
+    "Boli sme poslaní k oddanému služobníkovi Alaha, známemu svojou bezhraničnou pohostinnosťou.",
+    "Prišli sme v prestrojení za cudzincov, a predsa náš hostiteľ vycítil v našej prítomnosti niečo nadpozemské.",
+    "Priniesli sme správu, ktorá rozosmiala staršiu ženu a od úžasu sa udrela do tváre.",
+    "Boli sme poverení chrániť spravodlivú rodinu a zároveň ničiť mesto ponorené do korupcie.",
+    "Odmietli sme sa zúčastniť na jedle, ktoré nám ponúkli, čo len prehĺbilo podozrievanie nášho hostiteľa.",
+    "Až pred odchodom sme odhalili svoju pravú podstatu a povedali sme: „Veď sme poslovia vášho Pána.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Hostia Abraháma",
+        "Ježišovi učeníci",
+        "Spoločníci jaskyne",
+        "Armáda Abrahy",
+        "Poslovia Ya-Sina"
+      ],
+      "answer": "Hostia Abraháma"
+    },
+    "trial": {
+      "label": "Naše poslanie",
+      "options": [
+        "Aby vyskúšal Abrahámovu vieru ohľadom jeho syna",
+        "Odovzdať Abrahámovi písmo",
+        "Oznámiť narodenie Izáka a zničenie Lótovho ľudu",
+        "Aby sprevádzal Abraháma ku Kaabe",
+        "Aby zachránil Abraháma z ohňa"
+      ],
+      "answer": "Oznámiť narodenie Izáka a zničenie Lótovho ľudu"
+    },
+    "location": {
+      "label": "Miesto objavenia sa",
+      "options": [
+        "V egyptskej krajine",
+        "V meste Ur",
+        "V Abrahámovom dome",
+        "V záhrade Eden",
+        "Pri studni Zamzam"
+      ],
+      "answer": "V Abrahámovom dome"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Abrahám sa stal kráľom",
+        "Abrahám postavil Kaabu",
+        "Sára porodila Izáka a Lótov ľud bol zničený",
+        "Abrahám sa presťahoval do Palestíny",
+        "Abrahámov ľud bol zachránený pred veľkou potopou"
+      ],
+      "answer": "Sára porodila Izáka a Lótov ľud bol zničený"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Voz Verdadeira dos Tempos Antigos",
+  "intro": "Há uma alma no Alcorão cuja história é contada em apenas alguns versículos, mas suas nobres qualidades transparecem com brilhante clareza. Louvado pelo Todo-Poderoso por uma virtude especial, este antigo servo do Misericordioso ocupa um lugar nas páginas da revelação. Sua tarefa é identificar essa figura notável. Você consegue adivinhar quem é?",
+  "clues": [
+    "Eu sou um profeta de Alá que viveu entre as primeiras gerações da humanidade.",
+    "Alá me mencionou em Seu Livro junto com outros profetas, todos louvados pela mesma nobre virtude.",
+    "Sou descrito no Alcorão como um homem da verdade.",
+    "Alá me elevou a uma posição tão elevada que poucos alcançaram.",
+    "Meu nome é mencionado na Surata Al-Anbiya, junto com o de outros dois profetas elogiados por sua paciência.",
+    "Eu sou Idris, o profeta verdadeiro e elevado."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Noé",
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Ismail"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Mantendo a paciência e a honestidade, e então elevado a uma posição elevada.",
+        "Construindo uma grande arca para salvar os fiéis de uma enchente devastadora.",
+        "Ser lançado em um fogo ardente e sair completamente ileso.",
+        "Enfrentando um rei poderoso e derrotando seu exército de magos.",
+        "Sobreviver dentro da barriga de um grande peixe nas profundezas do mar."
+      ],
+      "answer": "Mantendo a paciência e a honestidade, e então elevado a uma posição elevada."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma posição elevada e exaltada concedida por Alá",
+        "Um navio enorme construído com tábuas e revestido com alcatrão.",
+        "Um fogo devastador alimentado pelos idólatras de um rei perverso.",
+        "Um vasto mar que se dividia em caminhos secos.",
+        "A barriga escura de uma grande baleia no fundo do oceano."
+      ],
+      "answer": "Uma posição elevada e exaltada concedida por Alá"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Admitido na misericórdia de Alá como um dos justos.",
+        "Salvos, juntamente com todos os fiéis, de um dilúvio mundial.",
+        "Saí das chamas ileso pelo fogo.",
+        "Conduziu os filhos de Israel em segurança para a liberdade através do mar.",
+        "Reencontraram sua amada família após longos anos de dificuldades."
+      ],
+      "answer": "Admitido na misericórdia de Alá como um dos justos."
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

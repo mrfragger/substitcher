@@ -1,0 +1,61 @@
+{
+  "title": "Abisutik datorren ahotsa",
+  "intro": "Pazientziaren eta Jainkoaren erruki mugagabearen istorio bat garatzen da Koranean. Mezulari bat bidali zuten hiri handi batera, baina haien jendeak abisua baztertu eta egia ukatu zuen. Frustrazioz, arima hau alde egin zuen — itsaso haserreak probatu eta sakonera ilunenetan irentsi besterik ez zuen egin. Ilunpeen sabeletik, erregu xume bat sortu zen, eta Errukitsuenak erantzun zuen. Nor da eraldatuta atera zen arima hau, zeinaren jendea ehun mila baino gehiagoko sinestun bihurtuko zen?",
+  "clues": [
+    "Fedearen bidetik aldendu ziren biztanleak hiri handi batera bidali ninduten abisu gisa.",
+    "Behin eta berriz deitu nien nire jendeari egiaren alde, baina nire mezua iseka egin eta arbuiatu egin zuten.",
+    "Baimena eman aurretik frustratuta alde egin nuen haietatik, eta itsaso zabalera abiatu nintzen.",
+    "Ekaitz handi bat sortu zen, eta itsasora bota ninduten — eta gero itsas izaki erraldoi batek osorik irentsi ninduen.",
+    "Iluntasun geruzetan —ozeanoaren sakonean, izakiaren sabelean eta itsas hondo sakonean— oihu egin nuen: «Ez dago zu beste jainkorik; aintza zuri; gaizkileen artean egon nintzen».",
+    "Ala-k askatu ninduen sakonetik, eta itzuli nintzenean, nire herriko ehun mila baino gehiagok egia onartu zuten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yunus (Jonas) profeta",
+        "Musa (Moises) profeta",
+        "Ibrahim (Abraham) profeta",
+        "Zakariyya (Zakarias) profeta",
+        "Idris (Enoch) profeta"
+      ],
+      "answer": "Yunus (Jonas) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsas izaki erraldoi batek irentsi izana",
+        "Tirano bati eta bere magoei aurre egitea",
+        "Errege haserre batek su bizian botata izatea",
+        "Seme baten berri onak entzutea zahar eta ezindua zen bitartean",
+        "Uholde suntsitzaile batek suntsitutako nazio baten lekuko izatea"
+      ],
+      "answer": "Itsas izaki erraldoi batek irentsi izana"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Itsas izaki handi baten sabela ozeanoaren sakonean",
+        "Mendiz inguratutako etxe sakratu bat haran antzu batean",
+        "Su bizia, fresko eta baketsu bihurtua",
+        "Ibai-jario eta itzala dituen lorategi bikaina",
+        "Mendi baten tontorrean dagoen arka erraldoi bat"
+      ],
+      "answer": "Itsas izaki handi baten sabela ozeanoaren sakonean"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ilunpetik libratuak; jendetza handi batek sinetsi zuen",
+        "Su bizitik askatuta, garrak hozten diren bitartean",
+        "Nazio boteretsu baten buruzagi bihurtu eta zapalkuntzatik askatu zituen",
+        "Urteetako otoitzaren ondoren, zahartzaroan haur bat eman zitzaion",
+        "Jakinduria izugarria, erreinua eta haize eta jinn-en gaineko agintea eman zitzaizkion"
+      ],
+      "answer": "Ilunpetik libratuak; jendetza handi batek sinetsi zuen"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

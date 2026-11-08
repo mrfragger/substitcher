@@ -1,0 +1,61 @@
+{
+  "title": "Vankumatu hääl",
+  "intro": "Seda inimest mäletatakse sügava tarkuse ja juhatuse eest, kelle nõuanded on põlvest põlve ulatuvad. Tema sõnad on tunnistuseks vagadusest ja jumalike õnnistuste ja katsumuste äratundmise olulisusest. Avastage selle austatud hinge identiteet.",
+  "clues": [
+    "Ma ei olnud prohvet, aga minu tarkus on jäädvustatud jumalikus pühakirjas.",
+    "Minu lapsele antud nõuanne rõhutas tänulikkust Allahile ja širki vältimist.",
+    "Ma õpetasin palve olulisusest, heale käskimisest ja kurja keelamisest.",
+    "Ma hoiatasin ülbuse ja maa peal jultumuse eest.",
+    "Minu nimi on antud tervele Koraani peatükile, mis tõstab esile minu õpetusi.",
+    "Minu nõuanne hõlmas ka kannatlikkust ebaõnne ajal, sest see on tõepoolest kõige resoluutsemate asjade tunnus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Idris",
+        "Prohvet Jahja",
+        "Luqman",
+        "Imran",
+        "Prohvet Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Põhiõpetus/juhendamine",
+      "options": [
+        "Laeva ehitamine",
+        "Võimsa armee ees seismine",
+        "Tarkuse ja moraalse nõuande jagamine",
+        "Unenägude tõlgendamine",
+        "Rahva võidule juhtimine"
+      ],
+      "answer": "Tarkuse ja moraalse nõuande jagamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Põlev põõsas",
+        "Suur kala",
+        "Konkreetne mägi",
+        "Tark nõuanne järeltulijale",
+        "Suurejooneline palee"
+      ],
+      "answer": "Tark nõuanne järeltulijale"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai kuningaks",
+        "Sai prohvetiameti",
+        "Tema tarkus on kirja pandud Koraanis",
+        "Juhtis oma rahva uuele maale",
+        "Anti tohutu rikkus"
+      ],
+      "answer": "Tema tarkus on kirja pandud Koraanis"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

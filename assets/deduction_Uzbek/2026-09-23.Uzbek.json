@@ -1,0 +1,61 @@
+{
+  "title": "Asrlar davomida saqlanib qolgan chaqiriq",
+  "intro": "Butun bir tsivilizatsiyaga qarshi yolg'iz turgan, ularni sobitqadamlik bilan adashishdan qaytarishga qaror qilgan bir qalbni tasavvur qiling. Asrlar davomida bu xabar rad etildi, masxara qilindi va rad etildi, ammo bu harakat hech qachon to'xtamadi. Oxir-oqibat, buyuk hisob-kitob keldi va bu sobit qalb bilan birga atigi bir nechta odam najotga erishdi. Qur'ondagi bu shaxsni aniqlay olasizmi?",
+  "clues": [
+    "Men o'z yo'llaridan adashgan qavmga ogohlantiruvchi sifatida yuborildim.",
+    "Men ularni kechirim so'rashga va gunohlaridan qaytishga chaqirdim, lekin ular yuz o'girishdi.",
+    "Ilohiy amr bilan men ulkan kema yasab, qavmim meni kuzatib, masxara qilishardi.",
+    "Men tinimsiz Rabbimga iltijo qildim — oxir-oqibat U javob berdi va osmondan suv toshqini yog'di.",
+    "To'fon suvlari quruqlik ustidan ko'tarilganda, men ishonganlar bilan birga kemaga chiqdim.",
+    "Men ortda qolganlardan biriga toqqa panoh topishlarini so'rab baqirdim, ammo farmon allaqachon chiqarilgan edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Nuh payg'ambar",
+        "Ibrohim payg'ambar",
+        "Muso payg'ambar",
+        "Payg'ambar Hud",
+        "Payg'ambar Solih"
+      ],
+      "answer": "Nuh payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buyuk kema qurish va butun dunyo bo'ylab to'fondan omon qolish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Zolim va uning kuchli sehrgarlariga qarshi turish",
+        "Katta baliq tomonidan yutib yuborilmoqda",
+        "Muqaddas urg'ochi tuyaning o'ldirilishiga guvoh bo'lish"
+      ],
+      "answer": "Buyuk kema qurish va butun dunyo bo'ylab to'fondan omon qolish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "To'fon suvlari ustida ulkan yog'och kema",
+        "Qadimgi tosh xarobalari bo'lgan muqaddas vodiy",
+        "Asrlar davomida hamrohlari uxlagan chuqur g'or",
+        "Okean tubidagi ulkan kitning qorni",
+        "Cho'lda ulkan tosh tog'"
+      ],
+      "answer": "To'fon suvlari ustida ulkan yog'och kema"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Kemadagi imonlilar bilan birga qutqarildi",
+        "Ilohiy amr bilan olovdan sog'-salomat qutqarildi",
+        "Kuchli qirollikdan buyuk bir chiqishga boshchilik qildi",
+        "Baliqdan quruq qirg'oqqa uloqtiring",
+        "Mo''jizaviy belgi orqali odamlarni yomonlikdan uzoqlashtirdi"
+      ],
+      "answer": "Kemadagi imonlilar bilan birga qutqarildi"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

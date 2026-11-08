@@ -1,0 +1,61 @@
+{
+  "title": "La presa que va trencar un regne",
+  "intro": "Una terra de rius abundants, dos jardins verds i una prosperitat inigualable, però els seus habitants van ignorar Aquell que els havia beneït. Quan van arribar recordatoris que els cridaven, es van girar. El que va seguir va ser un càstig que encara ressona com a advertència. Qui era aquesta antiga comunitat?",
+  "clues": [
+    "Vivíem en una terra tan beneïda que la nostra casa es trobava entre dos jardins frondosos.",
+    "Gaudíem dels rius que fluïen per les nostres terres i de les abundants collites que omplien les nostres llars.",
+    "Tot i això, quan vam ser cridats a la gratitud i l'obediència al nostre Senyor, ens vam allunyar amb orgull.",
+    "La nostra riquesa i facilitat ens van fer oblidar Aquell que ho havia concedit tot.",
+    "Aleshores va arribar un torrent sobtat que va trencar la gran barrera en què havíem confiat.",
+    "Som el poble de Saba', la terra del qual era coneguda per la gran presa de Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Gent de Saba",
+        "Gent de la trinxera",
+        "Companys del Pou",
+        "Gent de Tubba'",
+        "Gent de Madian"
+      ],
+      "answer": "Gent de Saba"
+    },
+    "trial": {
+      "label": "La nostra caiguda",
+      "options": [
+        "Inundació per l'esclat d'una presa",
+        "Un vent violent del cel",
+        "Cremant en una trinxera de foc",
+        "Un terratrèmol massiu",
+        "Ofegant-se en una gran inundació"
+      ],
+      "answer": "Inundació per l'esclat d'una presa"
+    },
+    "location": {
+      "label": "Ubicació clau",
+      "options": [
+        "La presa de Ma'rib",
+        "Mont Sinaí",
+        "La Cova dels Set Dorments",
+        "L'Arbust Ardent",
+        "La divisió del mar"
+      ],
+      "answer": "La presa de Ma'rib"
+    },
+    "outcome": {
+      "label": "El nostre destí",
+      "options": [
+        "Dos jardins amargs van substituir els nostres exuberants",
+        "Els nostres jardins es van fer encara més exuberants",
+        "La terra es va enfonsar sota el mar",
+        "Vam ser enterrats en cendra volcànica",
+        "La nostra nació es va dividir en dotze tribus"
+      ],
+      "answer": "Dos jardins amargs van substituir els nostres exuberants"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

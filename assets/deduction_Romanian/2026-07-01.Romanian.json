@@ -1,0 +1,61 @@
+{
+  "title": "Sufletul fără nume care s-a opus unei națiuni nedrepte",
+  "intro": "În paginile Coranului, există personaje ale căror nume ne-au fost reținute pentru a reflecta asupra lecțiilor lor. Un astfel de suflet s-a născut într-o națiune care își respinsese mesagerii, însă acest individ poseda o credință ascunsă care îl diferenția. Când distrugerea se profila, această persoană a rămas fermă în credința sa secretă. Poți descoperi identitatea acestei figuri misterioase care își avertizează poporul înainte ca decretul final să se dea?",
+  "clues": [
+    "Am trăit printre un popor care i-a tăgăduit în mod repetat pe mesagerii trimiși de Allah.",
+    "Spre deosebire de națiunea mea, am recunoscut adevărul atunci când a sosit un mesager cu semne clare de la Domnul meu.",
+    "Mi-am ascuns credința de asupritorii mei, știind că mi-ar face rău dacă mi-ar descoperi credința.",
+    "Când s-a apropiat ordinul pedepsei, mi-am declarat deschis loialitatea și mi-am avertizat poporul să se salveze.",
+    "Le-am reamintit că sunt un mesager de încredere, nu diferit de cei trimiși înainte, și că nu ar trebui să se închine decât lui Allah.",
+    "Poporul meu m-a acuzat de vrăjitorie și nebunie, însă pedeapsa despre care fuseseră avertizați i-a lovit în cele din urmă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Hud, mesagerul locuitorilor din Aad",
+        "Un om credincios din națiunea profetului Hud care a fost martirizat",
+        "Conducătorul poporului din Aad care a respins adevărul",
+        "Un tovarăș al profetului Salih care s-a îndoit de semnele divine",
+        "Un înger trimis să distrugă oamenii din Aad"
+      ],
+      "answer": "Un om credincios din națiunea profetului Hud care a fost martirizat"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Încercarea secetei și a foametei care le-a testat răbdarea",
+        "Încercarea de a mărturisi credința în fața unei națiuni opresive și necredincioase",
+        "Încercarea de a construi o corabie pentru a scăpa de o mare inundație",
+        "Încercarea de a fi aruncat în foc pentru credința în Allah",
+        "Încercarea de a fi testat cu bogăție și prosperitate"
+      ],
+      "answer": "Încercarea de a mărturisi credința în fața unei națiuni opresive și necredincioase"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Orașul Mecca unde a fost construită casa sacră",
+        "Câmpiile deșertice ale națiunii care și-a negat mesagerul",
+        "Munții Madianului unde a fost trimis profetul Șu'aib",
+        "Malul râului Egiptului unde a fost găsit profetul Moise",
+        "Valea oamenilor din Aad, lovită de un vânt puternic"
+      ],
+      "answer": "Câmpiile deșertice ale națiunii care și-a negat mesagerul"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Am fost salvat într-o corabie și am trăit până când a voit Allah",
+        "Poporul meu a crezut după mine și a fost călăuzit pe calea cea dreaptă",
+        "Am fost ucis de poporul meu, dar sufletul meu a fost luat prin mila lui Allah.",
+        "M-am pocăit după ce am fost ispitit și Allah mi-a acceptat pocăința.",
+        "Am fost transformat într-un idol venerat de poporul meu după moartea mea"
+      ],
+      "answer": "Am fost ucis de poporul meu, dar sufletul meu a fost luat prin mila lui Allah."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Nação Que Desafiou a Casa Sagrada",
+  "intro": "Na antiguidade, uma nação poderosa decidiu atacar um santuário venerado pelos fiéis. Esse grupo era rico, poderoso e confiante em sua força militar. Eles trouxeram consigo uma criatura colossal que serviria como sua arma de guerra. Seu objetivo era claro: demolir a casa sagrada e esmagar a fé de seu povo. Mas sua arrogância estava prestes a encontrar uma resposta devastadora vinda dos céus. Esse evento histórico tornou-se um sinal e uma lição para todos que vieram depois. Você consegue identificar esse grupo a partir das pistas?",
+  "clues": [
+    "Éramos uma nação abençoada com riqueza e poderio militar.",
+    "Reunimos nossas forças e trouxemos uma besta gigantesca para usar em nossa campanha.",
+    "Nosso alvo era um santuário sagrado que desejávamos destruir completamente.",
+    "Acreditávamos que nossa força seria suficiente para superar qualquer proteção divina.",
+    "Mas o Senhor enviou sobre nós um castigo do céu que não esperávamos.",
+    "Fomos destruídos num instante, dispersos como palha quebrada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O Povo do Elefante",
+        "O povo de Thamud",
+        "O povo de 'Ad",
+        "Os Companheiros da Caverna",
+        "A Nação do Profeta Hud"
+      ],
+      "answer": "O Povo do Elefante"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Marchando com um elefante em direção à casa sagrada para destruí-la.",
+        "Construindo uma torre para alcançar os céus",
+        "Construindo um ídolo de ouro para adoração.",
+        "Recusar-se a ouvir o mensageiro de Alá",
+        "Cavar um poço para prejudicar os crentes"
+      ],
+      "answer": "Marchando com um elefante em direção à casa sagrada para destruí-la."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Elefante",
+        "O Bezerro de Ouro",
+        "O Cajado de Musa",
+        "O Peixe de Yunus",
+        "O Ferro de Dawud"
+      ],
+      "answer": "O Elefante"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Foram destruídos por bandos de pássaros com pedras.",
+        "Eles se afogaram em uma grande enchente.",
+        "Eles foram transformados em macacos e porcos.",
+        "Eles foram soterrados sob pedras que caíram de uma montanha.",
+        "Eles foram queimados pelo fogo que veio do céu."
+      ],
+      "answer": "Foram destruídos por bandos de pássaros com pedras."
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

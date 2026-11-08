@@ -1,0 +1,61 @@
+{
+  "title": "Yr Argae a Dryllio Teyrnas",
+  "intro": "Gwlad o afonydd llifo, dwy ardd werdd, a ffyniant heb ei ail — ond tyfodd ei thrigolion yn ddi-hid o'r Un a'u bendithiodd. Pan ddaeth atgofion yn eu galw'n ôl, troesant i ffwrdd. Yr hyn a ddilynodd oedd cosb sy'n dal i adleisio fel rhybudd. Pwy oedd y gymuned hynafol hon?",
+  "clues": [
+    "Roedden ni'n byw mewn gwlad mor ffodus fel bod ein cartref yn gorwedd rhwng dwy ardd werdd.",
+    "Fe wnaethon ni fwynhau afonydd yn llifo trwy ein tiroedd a chynaeafau toreithiog yn llenwi ein cartrefi.",
+    "Eto pan gawsom ein galw i ddiolchgarwch ac ufudd-dod i'n Harglwydd, fe wnaethom droi cefn mewn balchder.",
+    "Gwnaeth ein cyfoeth a'n rhwyddineb inni anghofio'r Un a roddodd y cyfan.",
+    "Yna daeth llif sydyn a dorrodd trwy'r rhwystr mawr yr oeddem wedi dibynnu arno.",
+    "Ni yw pobl Saba', yr oedd eu tir yn adnabyddus am Argae Ma'rib mawr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Pobl Saba",
+        "Pobl y Ffos",
+        "Cymdeithion y Ffynnon",
+        "Pobl Tubba'",
+        "Pobl Midian"
+      ],
+      "answer": "Pobl Saba"
+    },
+    "trial": {
+      "label": "Ein Cwymp",
+      "options": [
+        "Llifogydd o argae sy'n byrstio",
+        "Gwynt treisgar o'r awyr",
+        "Yn llosgi mewn ffos o dân",
+        "Daeargryn enfawr",
+        "Boddi mewn llifogydd mawr"
+      ],
+      "answer": "Llifogydd o argae sy'n byrstio"
+    },
+    "location": {
+      "label": "Lleoliad Allweddol",
+      "options": [
+        "Argae Ma'rib",
+        "Mynydd Sinai",
+        "Ogof y Saith Cysgwr",
+        "Y Llwyn Llosgi",
+        "Hollti'r Môr"
+      ],
+      "answer": "Argae Ma'rib"
+    },
+    "outcome": {
+      "label": "Ein Tynged",
+      "options": [
+        "Disodlodd dwy ardd chwerw ein rhai gwyrddlas ni",
+        "Tyfodd ein gerddi hyd yn oed yn fwy ffrwythlon",
+        "Suddodd y tir o dan y môr",
+        "Claddwyd ni mewn lludw folcanig",
+        "Rhannodd ein cenedl yn ddeuddeg llwyth"
+      ],
+      "answer": "Disodlodd dwy ardd chwerw ein rhai gwyrddlas ni"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

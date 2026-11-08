@@ -1,0 +1,61 @@
+{
+  "title": "Ielejas klusā balss",
+  "intro": "Dodies atpakaļ laikā pie vareniem cilvēkiem, kuri reiz saņēma dzīvu brīnumu kā pārbaudījumu. Augstprātība un spītība noteica viņu likteni. Vai vari izsekot stāstam un atklāt, kas risinājās šajā dramatiskajā pagrieziena punktā?",
+  "clues": [
+    "Es tiku sūtīts kā dievišķs pārbaudījums varenai tautai, kas pazīstama ar savu spēku un nepakļāvību.",
+    "Es biju unikāls brīnums — tāds kā es nekad starp viņiem nebija parādījies.",
+    "Es katru otro dienu dalījos dzeramajā ūdenī no akas ar saviem ļaudīm.",
+    "Viņi tika brīdināti, ka jebkurš man nodarīts ļaunums sekos ātram sodam.",
+    "Visdrosmīgākie no viņiem ignorēja brīdinājumu un mani sažņaudza.",
+    "Pēc manas nāves viens pērkona sauciens no augšas iznīcināja visu manu tautu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Salihas kamielis",
+        "Mūsas govs",
+        "Nū kuģis",
+        "Musas personāls",
+        "Bilkiša tronis"
+      ],
+      "answer": "Salihas kamielis"
+    },
+    "trial": {
+      "label": "Mans liktenis",
+      "options": [
+        "Cīpslas sastieptas un nogalinātas",
+        "Nokauts kā upuris",
+        "Pārveidojies par čūsku",
+        "Saglabāts lielo plūdu laikā",
+        "Ātri pārvests pāri karaļvalstij"
+      ],
+      "answer": "Cīpslas sastieptas un nogalinātas"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Ūdens aka",
+        "Akmens plāksne",
+        "Degošs krūms",
+        "Koka šķirsts",
+        "Zelta un sudraba tronis"
+      ],
+      "answer": "Ūdens aka"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Iznīcināts ar vienu kliedzienu",
+        "Noslīka lielos plūdos",
+        "Apdedzināts akmeņu lietusgāzē",
+        "Spēcīga vēja sagrauta",
+        "Zeme norīja"
+      ],
+      "answer": "Iznīcināts ar vienu kliedzienu"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

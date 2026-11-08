@@ -1,0 +1,61 @@
+{
+  "title": "Vyslovené do bytia",
+  "intro": "Z posvätnej histórie sa vynára postava, ktorá prináša zázraky, ktoré sa vzpierali prirodzenému poriadku. Táto duša prišla na svet na základe jediného božského príkazu, bránila rodiča pred závažnými obvineniami a opustila tento svet skôr, ako ju mohli spútať pozemské reťaze. Príbeh siaha od skromnej kolísky až po nebesia. Kto by to mohol byť?",
+  "clues": [
+    "Bol som poslaný ako znamenie a milosrdenstvo od Alaha deťom Izraela.",
+    "Môj príchod bol jedinečný – vznikol som božským slovom „Buď!“ bez pozemského otca.",
+    "Môj rodič čelil krutému ohováraniu, ale posvätné zjavenie zostúpilo, aby vyhlásilo ich nevinu a povýšilo ich postavenie.",
+    "Ako novonarodené dieťa som ohromoval svoje okolie tým, že som od kolísky jasne hovoril, aby som očistil meno svojich rodičov.",
+    "S Alahovým dovolením som vytvoril život z neživej hliny, dal som zrak slepým a svojim dotykom som vyliečil malomocných.",
+    "Bol som pozdvihnutý do nebies skôr, ako sa ma mohlo dotknúť niečo zlé, a vrátim sa do tohto sveta skôr, ako príde posledná hodina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Isa",
+        "Prorok Músa",
+        "Prorok Ibrahim",
+        "Prorok Júsuf",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Isa"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Hovorenie od kolísky ako dieťa",
+        "Prežitie v bruchu veľkej ryby",
+        "Byť uvrhnutý do planúceho ohňa",
+        "Stavba veľkej archy pred potopou",
+        "Tvárou v tvár čarodejníctvu faraónovho dvora"
+      ],
+      "answer": "Hovorenie od kolísky ako dieťa"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Indžíl (evanjelium)",
+        "Tóra (Tawrah)",
+        "Žalmy (Zabur)",
+        "Suhuf (Ibrahimove zvitky)",
+        "Palica, ktorá rozštiepila more"
+      ],
+      "answer": "Indžíl (evanjelium)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Pozdvihnutý do nebies, vráti sa pred Súdnym dňom",
+        "Vyviedol deti Izraela z Egypta",
+        "Stal sa kráľom s vládou nad džinmi, ľuďmi a vtákmi",
+        "Prežil masívnu povodeň s veriacimi",
+        "Postavil posvätný dom v Mekke"
+      ],
+      "answer": "Pozdvihnutý do nebies, vráti sa pred Súdnym dňom"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

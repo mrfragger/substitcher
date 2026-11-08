@@ -1,0 +1,61 @@
+{
+  "title": "Vwa Silansye a nan Chanm lan",
+  "intro": "Yon priyè te rezone nan silans yon chanm sakre lontan, li t ap soti nan yon nanm ki t ap vyeyi epi ki t ap anvi yon bagay mond lan te deklare enposib. Figi sa a, ki te gen laj avanse epi ki te chaje ak enkyetid pou lavni, te vire bò kote Senyè a avèk yon siplikasyon pèsonèl. Sa ki te swiv la se te yon repons diven ki te depase tout atant natirèl—yon temwayaj sou mizèrikòd Moun ki reponn apèl dezespere a.",
+  "clues": [
+    "Mwen te priye Senyè mwen an prive, mwen te retire kò m nan yon chanm kote mwen te konsakre tèt mwen pou adorasyon Li.",
+    "Mwen te admèt bay Senyè mwen an ke mwen te pè pou moun ki t ap vin apre m yo, mwen te enkyete pou gidans pèp mwen an yon fwa mwen te ale.",
+    "Vyeyès te pran m'—zo m' yo te febli e cheve blan te gaye sou tèt mwen.",
+    "Madanm mwen te esteril pandan tout lavi li, epoutan mwen te toujou mande Senyè a pou l ban mwen yon eritye ki soti nan prezans li.",
+    "Mwen te mande yon siy, epi Senyè a te reponn li lè li te anpeche m pale ak pèsonn pandan twa nwit, toutotan mwen te rete an sante fizikman.",
+    "Yo te pwomèt mwen yon pitit gason ki t ap rele Yahya, yon non Senyè mwen an te deklare yo pa t janm bay pèsonn anvan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Zakariya",
+        "Pwofèt Nouh",
+        "Pwofèt Moïse",
+        "Pwofèt Youssouf",
+        "Pwofèt Daoud"
+      ],
+      "answer": "Pwofèt Zakariya"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Priye pou yon eritye nan vyeyès ak yon mari oswa yon madanm ki pa ka fè pitit",
+        "Yo jete yo nan yon gwo dife",
+        "Yon gwo pwason vale l nan fènwa",
+        "Andire pèt fanmi, richès ak sante",
+        "Yo te bay lòd pou konstwi yon gwo lach"
+      ],
+      "answer": "Priye pou yon eritye nan vyeyès ak yon mari oswa yon madanm ki pa ka fè pitit"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Chanm lapriyè a (mihrab)",
+        "Yon baton ki te transfòme an sèpan",
+        "Yon gwo lach an bwa",
+        "Yon jaden ak yon sous dlo inik",
+        "Yon mòn kote zwazo yo te rasanble"
+      ],
+      "answer": "Chanm lapriyè a (mihrab)"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Li te resevwa yon pitit gason ki te gen yon non mirakile malgre li te granmoun anpil.",
+        "Sove anba yon gwo dife grasa lòd diven",
+        "Yon gwo inondasyon te detwi moun ki pa t kwè yo",
+        "Retabli nan fanmi, richès, ak sante apre pasyans",
+        "Farawon an ak lame li a te nwaye nan lanmè a"
+      ],
+      "answer": "Li te resevwa yon pitit gason ki te gen yon non mirakile malgre li te granmoun anpil."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

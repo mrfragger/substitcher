@@ -1,0 +1,61 @@
+{
+  "title": "Fırtınadan Önceki Ses",
+  "intro": "Çölde bir figür belirdi ve güçlü bir ulusu gerçeğe geri çağırdı. Halk, muhteşem binaları ve eşsiz gücüyle tanınıyordu. Ancak gururları onları kör etti ve dinlemeyi reddettiler. Sonunda, yıkıcı bir ceza onları vurdu ve sadece küçük bir grup inanan kurtuldu.",
+  "clues": [
+    "Geniş arazilerde yaşayan ve güçleriyle tanınan kudretli bir halkın yanına gönderildim.",
+    "Halkım, yıkılmış olan bir başka büyük ulusun ardından geldi.",
+    "Muhteşem yapılar inşa etmişler ve yüksek kuleler yapmışlardı.",
+    "Onları tek bir Tanrı'ya tapınmaya çağırdım, fakat onlar putlarını terk etmeyi reddettiler.",
+    "Onlara şiddetli bir ceza uygulandı, sadece benimle birlikte inananlar kurtuldu.",
+    "Ben, Aad olarak bilinen güçlü bir halka gönderilen kişiyim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Hud",
+        "Peygamber Salih",
+        "Peygamber Şuayb",
+        "Peygamber Nuh",
+        "Peygamber İbrahim"
+      ],
+      "answer": "Peygamber Hud"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "büyük tufan",
+        "Uğultulu, şiddetli bir rüzgar",
+        "Bir deprem ve korkunç bir çığlık",
+        "Yanan taşlardan oluşan bir yağmur.",
+        "Yukarıdan gelen göksel ateş"
+      ],
+      "answer": "Uğultulu, şiddetli bir rüzgar"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir dağın üzerine inşa edilmiş büyük bir gemi.",
+        "Eşsiz bir dişi deve",
+        "Yılana dönüşen bir asa",
+        "Yüksek binalar ve görkemli yapılar",
+        "Alevli bir odun yığını"
+      ],
+      "answer": "Yüksek binalar ve görkemli yapılar"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Hepsi büyük bir selde boğuldu.",
+        "Halkım şiddetli bir rüzgarla yok edildi, ben ise kurtuldum.",
+        "Halkım depremden sarsıldı ve ağlıyor.",
+        "Halkım gökyüzünden taş yağmuruna tutuldu.",
+        "Halkım alev alev yanan bir ateşe atıldı."
+      ],
+      "answer": "Halkım şiddetli bir rüzgarla yok edildi, ben ise kurtuldum."
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Lingkod ng Nakatagong Karunungan",
+  "intro": "Sa malawak na tapiserya ng mga salaysay ng Quran, nakatayo ang isang mahiwagang pigura, isang lingkod ni Allah na pinagkalooban ng banal na kaalaman at awa. Ang mahiwagang indibidwal na ito ay nagtagpo ng landas kasama ang isa sa mga pinakadakilang propeta, na humantong sa isang paglalakbay na puno ng nakalilitong mga aksyon na humamon sa mga limitasyon ng pang-unawa ng tao. Ang bawat kilos, bagama't tila hindi makatarungan, ay nagtatago ng malalalim na aral tungkol sa kapalaran, pagtitiis, at ang hindi nakikitang karunungan sa likod ng banal na utos. Sino ang malabong pigurang ito, at anong mga katotohanan ang kanilang inilantad?",
+  "clues": [
+    "Ako ay isang lingkod ng Allah, pinili para sa natatanging kaalaman at awa.",
+    "Isang dakilang propeta ang naghangad na matuto mula sa akin, at pumayag ako sa ilalim ng mahigpit na mga kundisyon.",
+    "Sa aming miting, gumawa ako ng tatlong aksyon na tila hindi makatarungan sa aking kasama.",
+    "Nasira ko ang isang bangkang pagmamay-ari ng mga mahihirap, ngunit ito ay isang nakatagong awa.",
+    "Kinuha ko ang buhay ng isang batang lalaki, kahit na tila malupit, iyon ay upang hindi malungkot ang kanyang mga magulang.",
+    "Nagtayo ako ng pader sa isang bayan na nagkait sa amin ng mabuting pakikitungo, na nagpapakita ng isang kayamanan sa ilalim nito."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Al-Khidr (ang matuwid na lingkod)",
+        "Ang may-ari ng dalawang hardin",
+        "Isa sa mga Tao ng Kweba",
+        "Ang haring nakipagtalo kay Ibrahim",
+        "Ang lalaking natulog nang 100 taon"
+      ],
+      "answer": "Al-Khidr (ang matuwid na lingkod)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang pagkikita ni Propeta Musa sa pinagsasamahan ng dalawang dagat",
+        "Pagtatayo ng harang laban kina Gog at Magog",
+        "Itinapon sa isang malaking apoy",
+        "Paghati sa dagat sa dalawang bahagi",
+        "Pagtanggap ng mga tableta ng Torah"
+      ],
+      "answer": "Ang pagkikita ni Propeta Musa sa pinagsasamahan ng dalawang dagat"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang pagsasama ng dalawang dagat",
+        "Bundok Sinai",
+        "Ang kweba ng Thawr",
+        "Ang lambak ng Tuwa",
+        "Ang balon ng Zamzam"
+      ],
+      "answer": "Ang pagsasama ng dalawang dagat"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ipinaliwanag niya ang banal na karunungan sa likod ng kanyang mga nakalilitong kilos at humiwalay sa landas ni Musa",
+        "Siya ay pinagkalooban ng pagkapropeta pagkatapos ng paglalakbay",
+        "Nasira ang bangka dahil sa bagyo",
+        "Ang batang lalaki ay nabuhay muli",
+        "Nagtayo siya ng moske sa hindi magandang bayan"
+      ],
+      "answer": "Ipinaliwanag niya ang banal na karunungan sa likod ng kanyang mga nakalilitong kilos at humiwalay sa landas ni Musa"
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

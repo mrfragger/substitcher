@@ -1,0 +1,61 @@
+{
+  "title": "Te Ngaro Tapu",
+  "intro": "Kei tua atu i ngā onepū o te wā, kei reira tētahi kōrero mō te ngākau pono, me te whakawhirinakitanga taumaha rawa atu, ā, kua tata te wairua e pikau ana i taua whakawhirinakitanga te pakaru. I tētahi wā i tahuri ai te iwi ki te wairangi me te koura, ka tū pakari tētahi tangata—e karanga ana i a rātou kia hoki mai, e inoi ana kia manawanui, e pikau ana i te taumaha o tētahi kupu whakaari tapu. Koinei te kōrero mō tētahi i whiriwhiria hei kaiawhina, hei vizier, hei kaitiaki whakapono i te wā e ngaro tapu ana. Ka taea e koe te hura i te tuakiri o tēnei wairua pumau?",
+  "clues": [
+    "E whiwhi tahi ana ahau i te toto o tētahi poropiti nui i whiriwhiria kia kōrero tika atu ki a Allah i runga i te maunga tapu.",
+    "I inoi taku tuakana/teina ki a Allah kia āwhina mai ia ki te kōrero mārama ki tētahi kaitukino nui.",
+    "I whiriwhiria ahau e Allah kia tū ki te taha o tōku tuakana, teina, hei kaiawhina, hei wizier hoki.",
+    "I tūtaki ngātahi tātou ki tētahi rangatira nanakia i tono kia karangatia ia ko te atua teitei rawa.",
+    "I a tōku tuakana, teina, e kōrero ana ki a Allah i runga i te maunga, ka hanga e tō mātou iwi tētahi whakapakoko mā rātou i tā rātou koura.",
+    "Ko ahau te teina o Mohi, i whakaritea e Allah hei wizier māna, kua whakahuatia tōku ingoa i roto i te Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Haruna (Arona)",
+        "Poropiti a Mohi",
+        "Poropiti a Rawiri",
+        "Poropiti a Hākupa",
+        "Poropiti a Ihaka"
+      ],
+      "answer": "Poropiti a Haruna (Arona)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te raruraru o te karakia ki te kuao kau",
+        "Te Waipuke Nui o Noa",
+        "Te Pakanga o Pātara",
+        "Te whakangaromanga o te Thamud",
+        "Te whakangaromanga o Horoma"
+      ],
+      "answer": "Te raruraru o te karakia ki te kuao kau"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Kuao Kau Koura",
+        "Te Āka o Noa",
+        "Te Rakau e Mura Ana",
+        "Te Ana o Hira",
+        "Te Torona o Sheba"
+      ],
+      "answer": "Te Kuao Kau Koura"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te Harakore i Whakaūtia e Allah",
+        "Te toremitanga o Parao",
+        "Te Hanganga o te Kaaba",
+        "Te Whiti Haumaru i te Moana",
+        "Te Pikinga ki te Rangi"
+      ],
+      "answer": "Te Harakore i Whakaūtia e Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

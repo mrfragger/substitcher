@@ -1,0 +1,61 @@
+{
+  "title": "Déi waakreg Séil um Flossufer",
+  "intro": "Enger jonker Séil gouf eng geheim Missioun uvertraut, fir aus sécherer Distanz ze observéieren, wéi d'Schicksal sech um Waasser ofspillt. Onsichtbar an onerwaart, dës Figur géif eng zentral Roll spillen, fir de Verlaf vun der Geschicht vun enger Natioun ze veränneren.",
+  "clues": [
+    "Meng Mamm huet mir eng Aufgab ginn, déi Schlauheet a Wachsamkeet verlaangt huet.",
+    "Meng Aen hunn enger klenger Wieg verfollegt, déi mam Stréimung gedriwwen ass, mäin Häerz war schwéier vu Suergen.",
+    "Wéi et vun enger onerwaarter Grupp fonnt gouf, sinn ech voller Besuergnëss no bei mech komm.",
+    "Ech hunn hir Verzweiflung no engem Hausmeeschter gesinn an eng Léisung ugebueden, ouni d'Wourecht ze verroden.",
+    "Meng rechtzäiteg Interventioun huet eng pfleegend Séil zréck bei déi bruecht, déi se am meeschte gebraucht huet.",
+    "Virun den Häff vun de Mächtegen hunn ech gesot: \"Soll ech iech bei eng Famill hiweisen, déi hie fiddert a sech ëm hie këmmert?\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Schwëster vum Musa",
+        "D'Mamm vum Musa",
+        "D'Fra vum Pharao",
+        "Eng Hebamm",
+        "D'Duechter vum Shu'aib"
+      ],
+      "answer": "D'Schwëster vum Musa"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Werfen vun engem Kand an de Floss",
+        "D'Trennung vum Mier",
+        "D'Verbrenne vum Kallef",
+        "De Bau vun der Ark",
+        "D'Pescht vun de Heeschrecken"
+      ],
+      "answer": "D'Werfen vun engem Kand an de Floss"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Floss",
+        "D'Wüst",
+        "De Bierg",
+        "De Palais",
+        "D'Feier"
+      ],
+      "answer": "De Floss"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si huet d'Kand mat senger Mamm erëmvereenegt",
+        "Si huet sech virun de Zaldote vum Pharao gerett",
+        "Si ass eng Kinnigin ginn",
+        "Si gouf wéinst Spionage bestrooft",
+        "Si huet d'Israeliten ugefouert"
+      ],
+      "answer": "Si huet d'Kand mat senger Mamm erëmvereenegt"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Stemmen fra utkanten",
+  "intro": "Du står i en by hvor tre budbringere har kommet med klare tegn, men folket håner dem og klamrer seg til sine gamle vaner. Fra den fjerneste delen av byen spurter en skikkelse mot mengden, andpusten og bestemt, for å snakke sant i møte med avvisning. Hvem er denne sjelen som risikerte alt for et budskap som ikke var sitt eget?",
+  "clues": [
+    "Jeg bodde blant et folk som hadde mottatt budbringere med klare tegn, men de vendte seg bort i arroganse.",
+    "Jeg kom løpende fra den fjerneste delen av byen da jeg hørte om budbringernes rop.",
+    "Jeg sa til mitt folk: «Å, mitt folk, følg sendebudene. Følg dem som ikke krever noen belønning av dere, for de er rettledet.»",
+    "Jeg var ikke en profet, men jeg trodde på budbringerne og oppfordret mitt folk til å gjøre det samme.",
+    "Folket mitt hånet rådet mitt og anklaget meg for å være ekstremist.",
+    "Da de drepte meg, ba Allah meg gå inn i Paradis, og jeg ønsket at mitt folk kunne vite tilgivelsen og æren jeg mottok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Mannen fra den fjerneste delen av byen (Ya-Sin)",
+        "En av de tre budbringerne som ble sendt til byen",
+        "En fremtredende kjøpmann i byen",
+        "En hersker over byen",
+        "Lederen for de vantro"
+      ],
+      "answer": "Mannen fra den fjerneste delen av byen (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Forkynner til sitt folk at de skal følge budbringerne",
+        "Bygge et skip for å redde troende fra en flom",
+        "Å bli kastet i ilden for tro",
+        "Å bli slukt av en hval",
+        "Å bli gitt et rike og visdom"
+      ],
+      "answer": "Forkynner til sitt folk at de skal følge budbringerne"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Den fjerneste delen av byen",
+        "Arken",
+        "Brønnen",
+        "Den brennende busken",
+        "Hulen"
+      ],
+      "answer": "Den fjerneste delen av byen"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Gikk inn i paradiset og ønsket at folket hans kunne kjenne hans tilgivelse",
+        "Druknet med sitt folk for å ha avvist budskapet",
+        "Fikk et mirakel av hunnkamelen",
+        "Ble hersker etter rettssaken",
+        "Ble frelst av Allah og forble hos sitt folk"
+      ],
+      "answer": "Gikk inn i paradiset og ønsket at folket hans kunne kjenne hans tilgivelse"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

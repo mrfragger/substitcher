@@ -1,0 +1,61 @@
+{
+  "title": "Jaden ki te disparèt pandan lannwit lan",
+  "intro": "Imajine yon jaden byen vèt, chaje ak fwi k ap mi epi antoure ak gwo pyebwa. Moun ki t ap pran swen l yo te panse yo te entelijan, yo t ap planifye rekòt yo nan lè trankil anvan solèy leve, lwen je moun ki nan bezwen yo. Men, Sila a ki pa janm dòmi an te gen lòt plan pou richès kache yo a. Èske ou ka devine kiyès ki dèyè istwa avètisman sa a ki soti nan Koran an?",
+  "clues": [
+    "Yon lè nou te gen yon jaden tèlman vèt ak abondan ke tout moun ki t ap pase bò la te vin jalouzi li.",
+    "Nan planifikasyon nou an, nou te chuichui youn ak lòt byen bonè nan maten, nou te deklare ke okenn nanm nan bezwen pa t ap gen dwa antre jou sa a.",
+    "Nou te moun rich, e kè nou te vin avèg devan dwa pòv ki bò kote nou yo.",
+    "Lè douvanjou rekòt nou te gen entansyon fè a te rive, nou te pwoche bò jaden nou an sèlman pou nou jwenn li transfòme an yon kraze nwa pandan lannwit lan.",
+    "Yon dekrè devastatè te pase, li pa kite anyen lòt ke sann kote grap fwi mi yo te pandye yon lè.",
+    "Istwa nou an se yon avètisman sevè ki anrejistre nan Koran an, kote yo konnen nou kòm pwopriyetè jaden an ki te refize bay moun ki nan bezwen charite."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwopriyetè Jaden yo",
+        "Moun nan gwòt la",
+        "Disip Iza yo",
+        "Konpayon Bwa yo",
+        "Envite Ibrahim yo"
+      ],
+      "answer": "Pwopriyetè Jaden yo"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Rekòlte fwi an sekrè epi entèdi pòv yo",
+        "Dòmi pandan plizyè syèk andedan yon gwòt",
+        "Refize pwodui yon chamo ak wòch",
+        "Adore yon ti bèf an lò sou Mòn Sinayi",
+        "Konstriksyon yon gwo lach pou chape anba yon delij"
+      ],
+      "answer": "Rekòlte fwi an sekrè epi entèdi pòv yo"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon jaden antoure ak miray, plen ak palmis ak pye rezen",
+        "Yon kavèn fènwa byen fon nan mòn yo",
+        "Yon vil ki pran anba yon siklòn diven",
+        "Yon vale sakre toupre kay Allah la",
+        "Bò yon rivyè k ap koule"
+      ],
+      "answer": "Yon jaden antoure ak miray, plen ak palmis ak pye rezen"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Jaden an te boule pa yon dekrè boule ki soti nan syèl la",
+        "Yo te dòmi anpè pandan 309 ane linè",
+        "Yo te kraze anba yon lapli wòch",
+        "Yo te nwaye anba vag yon gwo inondasyon",
+        "Yon gwo van frèt te gaye yo"
+      ],
+      "answer": "Jaden an te boule pa yon dekrè boule ki soti nan syèl la"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

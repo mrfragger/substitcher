@@ -1,0 +1,61 @@
+{
+  "title": "An Guth ón Tor Dóite",
+  "intro": "Nochtaigh céannacht duine dhomhain a thosaigh a thuras le teagmháil mhíorúilteach agus a raibh a chinniúint fite fuaite le saoirse pobail faoi chois. Roghnaíodh an duine seo le haghaidh tasc ollmhór, agus é os comhair dúshláin ollmhóra le tacaíocht dhiaga.",
+  "clues": [
+    "Rugadh mé i ré anró mhóir, áit a raibh naíonáin de mo mhuintir á marú.",
+    "Chuir mo thuismitheoirí in abhainn mé i mo óige, ach fuarthas agus tógadh mé i dteaghlach féin fhear-leithscriosta mo mhuintire.",
+    "Theith mé as cathair uair amháin tar éis dom bás duine aonair a chur faoi deara gan a bheith ar intinn agam le linn díospóide.",
+    "Fuair ​​mé teachtaireacht dhiaga agus bata míorúilteach ag áit naofa, áit ar ordaíodh dom aghaidh a thabhairt ar rialóir cumhachtach.",
+    "Ceapadh mo dheartháir mar chúntóir dom i mo mhisean, mar gheall ar bhac a cheap sé a bheith air i mo chuid cainte.",
+    "Threoraigh mé mo mhuintir trasna farraige scoilte, ag éalú ó thóir arm tíoránta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Iósaf",
+        "Fáidh Íosa",
+        "an Fáidh Músa",
+        "Fáidh Nuh",
+        "Fáidh Ibrahim"
+      ],
+      "answer": "an Fáidh Músa"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Blianta fada triomach",
+        "Ag Tógáil na hÁirce",
+        "Ag tabhairt aghaidh ar Pharaoh agus a dhraoithe",
+        "Á chaitheamh isteach i bhfoirnéis theine",
+        "Scriosadh mhuintir Thamud"
+      ],
+      "answer": "Ag tabhairt aghaidh ar Pharaoh agus a dhraoithe"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Kaaba",
+        "An Balla Iarainn",
+        "An Fhoireann",
+        "Long Nuh",
+        "Fáinne Sulaiman"
+      ],
+      "answer": "An Fhoireann"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Cuireadh cathair Shodom ar ceal",
+        "Slogadh na daoine ag an talamh",
+        "Shleamhnaigh an tuile mhór an talamh",
+        "Bádh an Pharao agus a arm",
+        "Thit ballaí na cathrach ó scread"
+      ],
+      "answer": "Bádh an Pharao agus a arm"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

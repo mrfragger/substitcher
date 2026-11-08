@@ -1,0 +1,61 @@
+{
+  "title": "Nepokolebljivi svjedoci",
+  "intro": "Zamislite vrijeme kada je vjera bila testirana vatrom, a nepokolebljivo uvjerenje postajalo je krajnji prkos. Vaš zadatak je da otkrijete identitet grupe čija je priča ispričana u Kur'anu, narativu o dubokoj vjeri protiv ogromne tiranije. Razotkrijte tragove kako biste otkrili ko su bile te duše i izvanredne okolnosti s kojima su se suočile.",
+  "clues": [
+    "Čvrsto smo ostali u svom uvjerenju, uprkos ogromnom pritisku da se odreknemo svoje vjere.",
+    "Bili smo meta moćnog vladara koji je nastojao ugasiti svjetlo monoteizma.",
+    "Svjedočili smo velikim znacima i čudima, ali naši tlačitelji su ostali nepažljivi.",
+    "Izdržali smo užasnu metodu progona osmišljenu da terorizira druge i prisili ih na pokornost.",
+    "Bili smo bačeni u plamteći pakao, ali naša postojanost nam je donijela uzvišeni položaj kod Allaha.",
+    "Naša priča je ispričana u suri nazvanoj po nebeskim sazviježđima, upozoravajući na sudbinu onih koji progone vjernike."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko smo mi?",
+      "options": [
+        "Narod Semuda",
+        "Ljudi iz 'Ad",
+        "Ljudi iz jarka",
+        "Ljudi iz Midjana",
+        "Narod slona"
+      ],
+      "answer": "Ljudi iz jarka"
+    },
+    "trial": {
+      "label": "Naš progon",
+      "options": [
+        "Utapanje u poplavi",
+        "Biti progutan užarenim vjetrom",
+        "Biti bačen u vatreni rov",
+        "Biti progutan od zemlje",
+        "Pretvaranje u majmune"
+      ],
+      "answer": "Biti bačen u vatreni rov"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Velika poplava",
+        "Veliki zemljotres",
+        "Dubok, gorući rov",
+        "Moćan idol",
+        "Razorna suša"
+      ],
+      "answer": "Dubok, gorući rov"
+    },
+    "outcome": {
+      "label": "Naša konačna sudbina",
+      "options": [
+        "Bilo im je daroveno kraljevstvo na zemlji.",
+        "Spašeni su čudesnim bijegom.",
+        "Postigli su mučeništvo i vječnu nagradu.",
+        "Transformirali su se u drugu vrstu.",
+        "Dato im je ogromno bogatstvo i prosperitet."
+      ],
+      "answer": "Postigli su mučeništvo i vječnu nagradu."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

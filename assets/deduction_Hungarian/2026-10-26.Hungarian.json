@@ -1,0 +1,61 @@
+{
+  "title": "A suttogás a szélben",
+  "intro": "Képzelj el egy birodalmat, ahol a láthatatlan és a látható összefonódik, és egy olyan alak előtt állsz, akihez foghatót még nem láttál egy királyság szívében. Ez a lélek a hétköznapinál is felfoghatatlan tudással rendelkezik, olyan erők felett parancsol, amelyeket mások csak elképzelni tudnának. Mégis, még a leghatalmasabbakat is megalázhatja egy apró teremtmény, és az igazság rejtve maradhat a kijelölt időig. Ki ez az alak, akinek öröksége korokon át visszhangzik?",
+  "clues": [
+    "Olyan királyságot kaptam, ami utánam senkinek sem adatott meg.",
+    "Szeretett szülőtől örököltem a tudást és a bölcsességet.",
+    "A szél az én parancsom alatt állt, az én parancsomra oda ment, ahová csak akartam.",
+    "Megértettem a madarak beszédét, és a seregemben szolgáltak.",
+    "Hírt kaptam egy kismadártól egy királynőről, aki imádta a napot.",
+    "Halálom rejtve maradt, amíg egy földi lény fel nem falta a botomat, és csak akkor jöttek rá a dzsinnek, hogy nem ismerik a láthatatlant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Szulejmán próféta (Salamon)",
+        "Dawud próféta (Dávid)",
+        "Mózes próféta (Mózes)",
+        "Isa próféta (Jézus)",
+        "Nuh próféta (Noé)"
+      ],
+      "answer": "Szulejmán próféta (Salamon)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Sába királynőjének látogatása",
+        "Tűzbe dobva",
+        "A tenger kettéválasztása",
+        "Bárkaépítés",
+        "Egy bálna lenyelése"
+      ],
+      "answer": "Sába királynőjének látogatása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A föld egyik teremtménye által elfogyasztott személyzet",
+        "A kígyóvá változott személyzet",
+        "A nőstény teve",
+        "A bárka",
+        "A bálna"
+      ],
+      "answer": "A föld egyik teremtménye által elfogyasztott személyzet"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Halálát eltitkolták a dzsinnek elől, amíg a botját meg nem ették.",
+        "Élve emeltetett a mennyekbe",
+        "Allah parancsára mentették meg a tűztől",
+        "Neki adatott a Tóra",
+        "Megmentették a bálnától"
+      ],
+      "answer": "Halálát eltitkolták a dzsinnek elől, amíg a botját meg nem ették."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

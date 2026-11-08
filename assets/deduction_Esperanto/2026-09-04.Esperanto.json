@@ -1,0 +1,61 @@
+{
+  "title": "La Melodio Kiu Movis la Montojn",
+  "intro": "Vi tuj malkovros la historion de rimarkinda servisto de Alaho. En lando de mesaĝistoj kaj regantoj, ĉi tiu figuro estis benita per dia libro, potenca voĉo kaj forto super fero. Legante la indicojn, ĉu vi povas identigi kiu ĉi tio povus esti?",
+  "clues": [
+    "Mi estis servisto de Alaho, al kiu oni donis specialan libron.",
+    "Mi havis belan voĉon, kaj mia laŭdo estis tiel amata, ke eĉ la montetoj kaj birdoj aliĝis al mi.",
+    "Mi alfrontis imponan kontraŭulon en fama batalo, kaj malgraŭ esti pli malgranda, mi venkis.",
+    "Fero fariĝis fleksebla por mi, permesante al mi krei kirason per miaj propraj manoj.",
+    "Mi fariĝis reganto super granda nacio, kaj mia saĝeco en juĝado estis fama.",
+    "Mia filo, ankaŭ profeto, ricevis kontrolon super la vento kaj la ĝinoj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Daŭd (Davido)",
+        "Profeto Sulaiman (Salomono)",
+        "Profeto Moza (Moseo)",
+        "Profeto Harun (Aaron)",
+        "Profeto Ilyas (Elias)"
+      ],
+      "answer": "Profeto Daŭd (Davido)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Venkis Goliaton (Jalut)",
+        "Disigis la maron",
+        "Postvivis la balenon",
+        "Estis ĵetita en fajron",
+        "Konstruis la Arkeon"
+      ],
+      "answer": "Venkis Goliaton (Jalut)"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Zabur (Psalmoj)",
+        "La Torao (Tawrat)",
+        "La Evangelio (Injil)",
+        "La Volvlibroj de Ibrahim",
+        "La Korano"
+      ],
+      "answer": "La Zabur (Psalmoj)"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Fariĝis profeto kaj reĝo de Izrael",
+        "Fariĝis la reganto de Egiptujo",
+        "Estis levita al la ĉielo",
+        "Estis detruita de ŝtormo",
+        "Fariĝis kunulo de la kaverno"
+      ],
+      "answer": "Fariĝis profeto kaj reĝo de Izrael"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

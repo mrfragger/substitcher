@@ -1,0 +1,61 @@
+{
+  "title": "Prikriveni vjernik na dvoru tiranina",
+  "intro": "U pozlaćenim dvoranama najarogantnijeg vladara poznatog Kur'anu - gdje je prkos Božanskom definirao svaki edikt - jedna duša hodala je među privilegiranima, skrivajući najopasnije tajne na očigled. Ova osoba nosila je vjeru toliko zabranjenu unutar tih zidova da bi njeno otkriće značilo sigurnu smrt. Pa ipak, uvjerenje je gorjelo poput plamena ispod pepela, i kada je trenutak došao, istina je odjeknula hrabrošću koja je potresla same temelje tiranske palače.",
+  "clues": [
+    "Živio sam u užem krugu najmoćnijeg i najarogantnijeg vladara svog vremena, okružen luksuzom i utjecajem.",
+    "Svoje istinsko uvjerenje sam skrivao duboko u srcu, bojeći se za svoj život od onih koji su vladali s okrutnošću i ugnjetavanjem.",
+    "Kada je moj narod sumnjao i pokolebao se pred istinom, istupio sam da ih upozorim na tragičnu sudbinu koja je zadesila prošle narode koji su odbacili poslanike svog Gospodara.",
+    "Podsjetio sam svoj narod na priču o voljenom mladom sanjaru kojeg su odbacili njegovi vlastiti rođaci, ali se ipak uzdigao do velikog autoriteta u dalekoj zemlji.",
+    "Pozivao sam svoj narod da ne sluša vladara koji ih je odveo na krivi put, već sam ih pozivao da me slijede putem pravednosti i upute.",
+    "Otvoreno sam govorio istinu iako su mi sljedbenici tiranina prijetili da će me kamenovati ili protjerati iz zemlje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Skriveni vjernik iz faraonove porodice",
+        "Strpljivi patrijarh koji je plakao slijep dok mu se sin nije vratio",
+        "Vjerni sluga čija je kožna bolest na kraju izliječena",
+        "Grešni sin koji je odbio prorokov poziv da se ukrca na kovčeg",
+        "Nemilosrdni tiranin koji je pripisivao božansku prirodu"
+      ],
+      "answer": "Skriveni vjernik iz faraonove porodice"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Prikrivanje vjere u dvor tiranina",
+        "Pateći od sljepoće zbog godina plakanja",
+        "Biti iskušan gubitkom porodice i teškom patnjom",
+        "Graditi odličan brod dok me ismijavaju",
+        "Podnoseći žestoku vrućinu velikog požara"
+      ],
+      "answer": "Prikrivanje vjere u dvor tiranina"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Faraonova palača",
+        "Planinski vrh na kojem je izgrađena arka",
+        "Sveta dolina ispod planine Sinaj",
+        "Veličanstven vrt sa dva tekuća potoka",
+        "Kristalni tron ​​iznad podzemne rijeke"
+      ],
+      "answer": "Faraonova palača"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Božanska zaštita dok su tlačitelji doživjeli svoje uništenje",
+        "Ponovo se ujedinio sa porodicom nakon decenija razdvojenosti",
+        "Dobio je strpljenje, povratio zdravlje i stekao veću porodicu.",
+        "Spašen je na brodu dok se ostatak svijeta davio",
+        "Spašen je neozlijeđen iz plamena po Allahovoj naredbi."
+      ],
+      "answer": "Božanska zaštita dok su tlačitelji doživjeli svoje uništenje"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

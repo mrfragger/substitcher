@@ -1,0 +1,61 @@
+{
+  "title": "Prokletstvo obilne žetve",
+  "intro": "U jednoj drevnoj zemlji, jedna duša je bila među najbogatijima u svojoj zajednici. Dva puta su im blagoslovi zemlje došli u uzastopnim godinama, dvostruka žetva koja je trebala ispuniti njihova srca zahvalnošću. Pa ipak, kada ih je zadesila tragedija i sve što su posjedovali je odneseno u jednoj noći, njihova reakcija je otkrila pravu prirodu njihove duše. Možete li otkriti identitet ove osobe čija priča služi kao upozorenje protiv nevjerovanja u Allahove blagoslove?",
+  "clues": [
+    "Bio sam među najsretnijim dušama u cijeloj zemlji, blagoslovljen obilnim namirnicama.",
+    "Žetva mi je stigla dva puta tokom dvije godine, ali moje srce je ipak ostalo nezahvalno mom Gospodaru.",
+    "Posjedovao sam veliki vrt s vinovom lozom, maslinama i palmama - svjedočanstvo Allahove naklonosti.",
+    "Kada je moj vrt bio uništen, stajao sam u njegovim ruševinama s rukama ispruženim prema nebu, proklinjući svoju sudbinu.",
+    "Poricao sam da je Allah mogao uzrokovati takav gubitak, čak i dok sam u očaju gnječio dlanove.",
+    "Moja kazna nije bila samo gubitak vrta, već i potpuno bespomoćan ostavljen u njegovim ruševinama, nesposoban da prizovem ikakvu pomoć."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Vlasnik vrta u suri 26",
+        "Vlasnik dva vrta iz daleke zemlje",
+        "Bogata duša iz grada prosperiteta",
+        "Poljoprivrednik spomenut u suri Al-Kahf",
+        "Vinogradar iz vremena proroka Šu'aiba"
+      ],
+      "answer": "Vlasnik vrta u suri 26"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Gubitak vrta uništenog u jednoj noći",
+        "Velika poplava koja je prekrila Zemlju",
+        "Biti iskušavan od strane istinskih i lažnih proroka",
+        "Suđenje bacanju u vatru",
+        "Kušnja da te proguta zemlja"
+      ],
+      "answer": "Gubitak vrta uništenog u jednoj noći"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrt s vinovom lozom, maslinama i palmama uništen tokom dvije godine",
+        "Brod izgrađen na visokoj planini",
+        "Grad prestupničke nacije",
+        "Bunar u drevnom Midjanu",
+        "Rajska rijeka"
+      ],
+      "answer": "Vrt s vinovom lozom, maslinama i palmama uništen tokom dvije godine"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Potpuna bespomoćnost - uništena bez ikakve pomoći",
+        "Uskrsnuće za ulazak u raj",
+        "Postati Allahov prorok",
+        "Vođstvo velike nacije",
+        "Vječna kazna u vatri"
+      ],
+      "answer": "Potpuna bespomoćnost - uništena bez ikakve pomoći"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

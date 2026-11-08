@@ -1,0 +1,61 @@
+{
+  "title": "Banna Athscríofa ag Revelation",
+  "intro": "Samhlaigh thú féin a bhfuil duine thar a bheith tábhachtach faoi chúram duine, agus ansin ordú á thabhairt duit a chuireann deireadh leis an nasc ar mhaithe le humhlaíocht. Rinne nochtadh athrú ar theaghlach ar fad, agus níorbh é an t-ainm a bhí i lár an ordaithe an t-ainm a bhí á lua riamh.",
+  "clues": [
+    "Sheas mé san áit a raibh ar dhílseacht phearsanta géilleadh d’umhlaíocht dhiaga.",
+    "Bhí aithne orm i dteaghlach an Teachtaire mar mhac uchtaithe.",
+    "D'fhoghlaim mé gur tháinig mo phósadh chun bheith ina ábhar nochta a seoladh chuig Teachtaire Allah.",
+    "Chuala mé na focail, ‘Coinnigh do bhean chéile agus bíodh eagla ort roimh Allah,’ dírithe i mo threo.",
+    "D'fhoghlaim mé ansin gur ordaigh Allah do Theachtaire Allah colscaradh a thabhairt do mhná céile áirithe, agus gur ghá mo phósadh féin a chríochnú faoin ordú sin.",
+    "Is mise Zayd ibn Harithah, an mac uchtaithe atá ainmnithe i Surah Al-Ahzb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Zayd ibn Harithah",
+        "Fáidh Harun",
+        "An Fáidh Yahya",
+        "Aingeal an Bháis",
+        "Deartháireacha Iósaf"
+      ],
+      "answer": "Zayd ibn Harithah"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "A rá leis a bhean chéile a choinneáil agus ansin treoir tugtha dó colscaradh a fháil uaithi",
+        "Á shlogadh ag iasc mór",
+        "Á chaitheamh isteach i bhfoirnéis theine",
+        "Ag codladh i bpluais le céadta bliain",
+        "Ag tabhairt aghaidh ar nathair le bata"
+      ],
+      "answer": "A rá leis a bhean chéile a choinneáil agus ansin treoir tugtha dó colscaradh a fháil uaithi"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Teaghlach Theachtaire Allah",
+        "Pálás an Pharaoh san Éigipt",
+        "Uaimh na gcomhluadar codlata",
+        "Gairdín an dá chompánach chreidmheach",
+        "Pálás daingnithe Qarun"
+      ],
+      "answer": "Teaghlach Theachtaire Allah"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "D’umhlaigh sé don ordú, cholscar sé a bhean chéile, agus cuireadh deireadh leis an bpósadh",
+        "Tarrtháladh gan ghortú as foirnéis theasaí é",
+        "Tarrtháladh é tar éis d’iasc mór é a shlogadh",
+        "Bronnadh gairdín le dhá thobar air",
+        "Bronnadh smacht air ar an Oirthear agus ar an Iarthar"
+      ],
+      "answer": "D’umhlaigh sé don ordú, cholscar sé a bhean chéile, agus cuireadh deireadh leis an bpósadh"
+    }
+  },
+  "verseRef": "33:37",
+  "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+  "verse": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished. (33:37)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Masu Sauraro Daga Gaibi",
+  "intro": "Bayan labulen duniyar da ake gani, wani taro mai ɓoye ya taru a cikin duhu, wanda aka jawo shi zuwa ga wani sauti da ya saba wa duk abin da suka sani. Sun yi ta yawo tsawon shekaru ba tare da jagora na gaskiya ba, har sai da wata murya ta ratsa cikin shirun duniyarsu da ba a gani ta kuma tayar da wani abu a cikinta. A daren yau, an gayyace ku ku wuce inuwa ku gano asalin wannan rukunin mai ban mamaki, wanda haɗuwa da kalmomin allahntaka ta kai su ga mutanensu a matsayin masu gargaɗi game da gaskiya da ba za a iya riƙe ta ba.",
+  "clues": [
+    "Mu halittu ne na da, waɗanda suka wanzu tun kafin al'ummomi da yawa da ka karanta game da su, duk da haka ba a cika ambatonmu a cikin tatsuniyoyi na ɗan adam ba.",
+    "Yanayinmu ba kamar naka ba ne, an saka shi daga abubuwan da ba a gani ba, kuma muna da iko da ke ƙalubalantar abin da ba na yau da kullun ba.",
+    "Tsawon shekaru, mun yi ta yawo ba tare da jagora na gaskiya ba, har sai da wata ƙara ta isa gare mu wadda ta motsa wani abu a cikinmu.",
+    "Mun ji wani irin karatu kamar babu abin da muka taɓa ji, kalmomi masu nauyi fiye da kowace magana.",
+    "Mun matsa kusa a ɓoye, muna umurtar namu da su yi shiru, kuma lokacin da ayoyin suka ƙare, ba za mu iya tsayawa cak ba.",
+    "Mun koma ga mutanenmu muka ce: 'Ya ku mutanenmu, mun ji wani littafi da aka saukar bayan Musa, yana tabbatar da abin da ke gabansa, yana shiryarwa zuwa ga gaskiya.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Hawariyyun (Almajiran Isa)",
+        "Aljani wanda ya yi imani bayan ya ji Alqur'ani",
+        "Ma'abota Kogo",
+        "Mala'ikun sama mafi ƙasƙanci",
+        "Mutanen Fir'auna waɗanda suka bi tafarkinsa"
+      ],
+      "answer": "Aljani wanda ya yi imani bayan ya ji Alqur'ani"
+    },
+    "trial": {
+      "label": "Gwaji / Taro",
+      "options": [
+        "An kore mu saboda ƙin yin sujada a gaban wani sabon halitta",
+        "An rufe mu a cikin kogo tsawon shekaru ɗari uku da tara",
+        "An umarce mu da mu ketare teku da ta raba a gabanmu",
+        "An tura mu zuwa ƙasar sihiri don koyon sihiri",
+        "Mun saurari wani karatu a ɓoye kuma aka canza mu ta hanyarsa"
+      ],
+      "answer": "Mun saurari wani karatu a ɓoye kuma aka canza mu ta hanyarsa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ɗan maraƙi na zinariya da aka ƙera daga kayan adon mutane",
+        "Kogo wanda barcinsa ya daɗe tsawon tsararraki da yawa",
+        "Mala'iku biyu a Babila waɗanda suka koyar da ilimin da aka haramta",
+        "Littafi da aka saukar bayan Musa, yana tabbatar da Attaura",
+        "Daji mai ƙonewa a kan wani dutse mai tsarki"
+      ],
+      "answer": "Littafi da aka saukar bayan Musa, yana tabbatar da Attaura"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An la'ance mu har zuwa Ranar Sakamako",
+        "Mun yi tsayin daka a kan wani babban sarki kuma muka gina shinge a cikin ƙasa",
+        "An rikide mu zuwa birai da aladu",
+        "Mun koma ga mutanenmu a matsayin masu gargaɗi, muna shelar imani",
+        "An nutsar da mu cikin teku tare da shugabanmu"
+      ],
+      "answer": "Mun koma ga mutanenmu a matsayin masu gargaɗi, muna shelar imani"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

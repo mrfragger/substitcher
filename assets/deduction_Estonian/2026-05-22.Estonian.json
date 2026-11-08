@@ -1,0 +1,61 @@
+{
+  "title": "Unistaja tõus",
+  "intro": "Suurusele määratud, kuid ränkade katsumuste läbi proovile pandud hing asus erakordsele teekonnale. Selle inimese teed iseloomustasid armukadedus, lahusolek ja ebaõiglane kannatus, mis kulmineerus tohutu vastutuse ja sügava taasühinemisega. Kas suudad selle tähelepanuväärse tegelase Koraanist ära tunda?",
+  "clues": [
+    "Kunagi kadestasid mind lähedased, mis viis sügava eraldatuseni vanematest ja kodust.",
+    "Kogesin väga rasket perioodi, sealhulgas seda, et rändurid müüsid mind nappide hindade eest.",
+    "Mind süüdistati ebaõiglaselt väärtegudes ja veetsin aastaid vangistuses, kuid mu usk jäi vankumatuks.",
+    "Mulle anti ainulaadne võime tõlgendada keerulisi nägemusi, mis osutus minu teel vabadusele oluliseks.",
+    "Minu tarkus ja ausus viisid mind lõpuks võõral maal suure autoriteedi ja usalduse väärilisele positsioonile.",
+    "Tänu mitmetele sündmustele sain pärast pikka ja valusat eemalolekut taas kokku oma eaka vanema ja õdede-vendadega."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Sulaiman",
+        "Prohvet Isa",
+        "Prohvet Yusuf",
+        "Prohvet Dawud",
+        "Prohvet Jahja"
+      ],
+      "answer": "Prohvet Yusuf"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suure kala allaneelamine",
+        "Laeva ehitamine loodu päästmiseks",
+        "Valesüüdistuste ja vangistuse talumine",
+        "Türanliku valitsejaga silmitsi seismine imedega",
+        "Raske haiguse ja kaotusega katsumine"
+      ],
+      "answer": "Valesüüdistuste ja vangistuse talumine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Põlev põõsas",
+        "Rääkiv lind",
+        "Kaev",
+        "Personali muutumine maoks",
+        "Emane kaamel märgina"
+      ],
+      "answer": "Kaev"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Rände juhtimine tõotatud maale",
+        "Egiptuses võimsaks ministriks saamine",
+        "Jumaliku kohtuotsuse saamine ülbe rahva üle",
+        "Valitsedes tohutut kuningriiki tarkuse ja õiglusega",
+        "Taevasse tõusmine"
+      ],
+      "answer": "Egiptuses võimsaks ministriks saamine"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

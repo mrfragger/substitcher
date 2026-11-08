@@ -1,0 +1,61 @@
+{
+  "title": "Avertismentul de sub pământ",
+  "intro": "Imaginează-ți că stai lângă o excavație adâncă, în timp ce vocile se ridică de jos, iar lumea de sus se cufundă în tăcere. Coranul păstrează această scenă ca avertisment: o comunitate respinge ceea ce aduc mesagerii, pedeapsa se apropie și chiar și urletul ei devine parte a mărturiei. Ce colectiv vorbește prin aceste versete?",
+  "clues": [
+    "Suntem amintiți în Coran ca un colectiv definit de o soartă comună, mai degrabă decât de un nume individual.",
+    "Am respins mesajul adus de mesageri, chiar dacă ceea ce au spus ei era adevărat.",
+    "Identitatea noastră amintită este legată de o săpătură adâncă în pământ, iar acea trăsătură a devenit parte a numelui nostru.",
+    "În ziua hotărâtă, am fost scoși afară și târâți spre foc.",
+    "Nu ne puteam apăra de pedeapsă și nu-i puteam auzi vuietul.",
+    "Fețele noastre s-ar întoarce în foc și am fi aruncați în el; când am fi întrebați, am spune că suntem printre cei care nu pot răspunde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Companionii tranșeei",
+        "Națiunea eliberată de Marele Potop",
+        "Închinătorii vițelului de aur",
+        "Grupul adăpostit în peștera de munte",
+        "Comunitatea eliberată din cuptorul aprins"
+      ],
+      "answer": "Companionii tranșeei"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Târât și aruncat în foc",
+        "Eliberat dintr-un cuptor aprins",
+        "Purtat în siguranță printr-o mare inundație",
+        "Adăpostit timp de secole într-o peșteră",
+        "Salvat după ce a fost aruncat într-o fântână"
+      ],
+      "answer": "Târât și aruncat în foc"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un șanț sau o groapă",
+        "O mare mare",
+        "O peșteră de munte",
+        "Un palat înalt",
+        "O fântână în deșert"
+      ],
+      "answer": "Un șanț sau o groapă"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Incapabili să se apere și incapabili să audă urletul Focului",
+        "Salvat și i s-a acordat accesul în grădinile eterne",
+        "Livrat în siguranță printr-o inundație distructivă",
+        "Protejat de un somn lung într-o peșteră",
+        "Onorat cu o împărăție veșnică"
+      ],
+      "answer": "Incapabili să se apere și incapabili să audă urletul Focului"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

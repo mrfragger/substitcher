@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Alaa irraa",
+  "intro": "Magaalaa ergamtoonni sadii mallattoo ifa ta’e qabatanii dhufan keessa dhaabbatta, ummanni garuu itti qoosa, karaa durii itti maxxane. Kutaa magaalattii isa fagoo irraa, namni tokko hafuura baafachuu dadhabee fi kutatee gara namoota sanaatti fiigaa, diduu fuulduratti dhugaa dubbachuuf. Lubbuun ergaa kan ofii osoo hin taaneef waan hunda balaaf saaxilte kun eenyu?",
+  "clues": [
+    "Ummata ergamtoota mallattoo ifa ta’e qaban simataniiru, ta’us of tuulummaadhaan of duuba deebi’an gidduu jiraadhe.",
+    "Waamicha ergamtootaa dhaga'ee kutaa magaalattii isa fagoo irraa fiigaa dhufe.",
+    "Anis saba kootiin yaa saba koo ergamtoota duukaa bu'aa' jedheen. Warra mindaa tokko illee isin irraa hin kadhanne hordofaa, isaan sirritti qajeelfamaniiru’ jedheera.",
+    "Ani raajii osoo hin taane ergamtootatti amanee sabni koos akkasuma akka godhan dhaama ture.",
+    "Ummanni koo gorsa kootti qoosee finxaaleyyii natti himate.",
+    "Gaafa na ajjeesan Rabbiin Jannata seena naan jedhe, dhiifamaa fi ulfina ani argadhe sabni kiyya osoo beekuu hawwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Namichi magaalaa fagoo (Yaa-Sin) irraa dhufe .",
+        "Ergamtoota sadan gara magaalatti ergaman keessaa tokko",
+        "Daldalaa beekamaa magaalattii",
+        "Bulchaa magaalattii",
+        "Hogganaa kaafiroota"
+      ],
+      "answer": "Namichi magaalaa fagoo (Yaa-Sin) irraa dhufe ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ergamtoota duukaa bu'uuf saba isaaf lallabuu",
+        "Doonii ijaaruun amantoota lolaa irraa baraaruuf",
+        "Amantiidhaaf ibiddatti darbatamuu",
+        "Qurxummii galaanaatiin liqimfamuu",
+        "Mootummaa fi ogummaan kennamuu"
+      ],
+      "answer": "Ergamtoota duukaa bu'uuf saba isaaf lallabuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Kutaa magaalattii isa fagoo",
+        "Taabotni",
+        "Boolla bishaanii",
+        "Bosona gubaa jiru",
+        "Holqa"
+      ],
+      "answer": "Kutaa magaalattii isa fagoo"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Jannata seenee sabni isaa dhiifama isaa osoo beekuu hawwe",
+        "Ergaa dide jechuun ummata isaa waliin bishaaniin liqimfame",
+        "Dinqii gaala dubaraa kennameef",
+        "Dhaddacha isaa booda bulchaa ta'e",
+        "Rabbiin fayyisee ummata isaa bira hafe"
+      ],
+      "answer": "Jannata seenee sabni isaa dhiifama isaa osoo beekuu hawwe"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

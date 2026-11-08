@@ -1,0 +1,61 @@
+{
+  "title": "Konflikti seeme",
+  "intro": "Enne kui maailm koges laialdast konflikti, puhkes aluse sügavale usu ja kuulekuse proovilepanekule. See lugu uurib inimese tehtud valikuid, kelle teod loovad pretsedendi tulevastele põlvedele. Valmistu lahti harutama lugu hingest, kes maadleb tohutu armukadedusega ja selle laastavate tagajärgedega.",
+  "clues": [
+    "Olin üks esimesi järglasi, kes maa peal kõndis, kõige esimese inimpaari laps.",
+    "Minul ja mu vennal kästi Allahile ohverdus tuua, mis pani proovile meie siiruse.",
+    "Minu pakkumist ei võetud vastu, samas kui mu venna oma võeti, mis täitis mu südame kohutava emotsiooniga.",
+    "Hülgamise kibedusest ajendatuna laususin vennale ähvardavaid sõnu.",
+    "Mu vend vastas targalt ja vagalt, tuletades mulle meelde Allahi õiglust ja Tema kartust.",
+    "Vaatamata venna leebetele sõnadele ja tema andestamisvalmidusele võtsin ma elu ja sain üheks kaotajaks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Aadam",
+        "Iblis",
+        "Prohvet Noa",
+        "Qabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur üleujutus",
+        "Mere lõhenemine",
+        "Kaaba ehitamine",
+        "Ohvrite toomine",
+        "Kiusatus aias"
+      ],
+      "answer": "Ohvrite toomine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Safa mägi",
+        "Ohverdus",
+        "Põlev põõsas"
+      ],
+      "answer": "Ohverdus"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai sõnumitoojaks",
+        "Uppus",
+        "Ehitas suure kuningriigi",
+        "Sai kahetsuse eeskujuks",
+        "Anti tohutu rikkus"
+      ],
+      "answer": "Sai kahetsuse eeskujuks"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

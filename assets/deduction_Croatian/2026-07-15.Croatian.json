@@ -1,0 +1,61 @@
+{
+  "title": "Osamljeno utočište",
+  "intro": "U analima božanske milosti, postoji duša neusporedive čistoće, odvojena od svog naroda da traži samoću u svetom smjeru. Nisu ni slutili da će ta samoća donijeti znak za sve svjetove, kušnju vjere o kojoj će se govoriti vječno.",
+  "clues": [
+    "Prije rođenja bio sam posvećen životu služenja.",
+    "Bio sam stavljen pod skrbništvo plemenitog proroka.",
+    "Bio sam opskrbljen Allahovim opskrbama koje su zadivile mog čuvara.",
+    "Povukao sam se od obitelji na istok.",
+    "Anđeo mi se ukazao u obliku savršenog čovjeka, donoseći vijest o čistom sinu.",
+    "Kad sam se vratio sa svojim novorođenčetom, moji su me ljudi optužili, ali dojenče je govorilo u moju obranu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Marija (Marija)",
+        "Asija (supruga faraona)",
+        "Hadžer (majka Ismaila)",
+        "Sara (supruga Ibrahima)",
+        "Musina majka"
+      ],
+      "answer": "Marija (Marija)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Čudesno začeće i rođenje sina",
+        "Biti bačen u vatru",
+        "Biti progutan od strane divovske ribe",
+        "Izgradnja velike arke",
+        "Prelazak mora"
+      ],
+      "answer": "Čudesno začeće i rođenje sina"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Osamljeno istočno mjesto",
+        "Gorući grm",
+        "Crveno more",
+        "Stijena iz koje je šikljala voda",
+        "Kit"
+      ],
+      "answer": "Osamljeno istočno mjesto"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dojenče je progovorilo u obranu majke",
+        "More se razdvojilo",
+        "Vatra je postala hladna i sigurna",
+        "Kit je povratio na obalu",
+        "Arka je pristala na planinu"
+      ],
+      "answer": "Dojenče je progovorilo u obranu majke"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

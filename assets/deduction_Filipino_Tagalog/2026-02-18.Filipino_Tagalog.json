@@ -1,0 +1,61 @@
+{
+  "title": "Ang Matatag na Saksi",
+  "intro": "Isang malalim na salaysay ang nagbubukas, na nagpapakita ng matibay na paninindigan ng isang komunidad sa harap ng matinding paniniil. Ang kanilang kwento ay nagsisilbing patunay ng pananampalataya, kahit na nahaharap sa sukdulang sakripisyo. Ang salaysay na ito ay nagpapaalala sa atin ng kapangyarihan ng paniniwala laban sa matinding pang-aapi.",
+  "clues": [
+    "Kami ay isang grupo na ang kwento ay isinalaysay sa isang maikli at makapangyarihang surah, na nagbabala laban sa pag-uusig.",
+    "Nakaharap namin ang isang pinuno na nagnanais na lipulin ang aming paniniwala sa Nag-iisang Diyos, ang Panginoon ng Trono, ang Kapuri-puri.",
+    "Sumailalim kami sa isang kakila-kilabot na pagsubok na kinasasangkutan ng isang napakalaking hukay na hinukay sa lupa.",
+    "Pinanood namin ang mga mananampalataya, kabilang ang mga sanggol, na itinapon sa isang nagngangalit na impyerno sa loob ng hukay na iyon.",
+    "Isinumpa ang aming mga tagapagpahirap dahil sa kanilang mga ginawa, habang kami naman ay pinangakuan ng napakalaking gantimpala para sa aming katatagan.",
+    "Ang pagtatangka ng pinuno na patayin ang aming pananampalataya ay lalo lamang nagpatibay sa aming lugar bilang mga martir sa paningin ng Allah, na saksi sa lahat ng bagay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang mga tao ng Thamud",
+        "Mga Tao ng 'Ad",
+        "Mga Tao ng Ditch",
+        "Ang mga tao ni Lut",
+        "Mga Tao ng Elepante"
+      ],
+      "answer": "Mga Tao ng Ditch"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang Malaking Baha",
+        "Ang Nasusunog na Palumpong",
+        "Ang Pagkalunod sa Dagat",
+        "Ang Nagliliyab na Hukay",
+        "Ang Lindol"
+      ],
+      "answer": "Ang Nagliliyab na Hukay"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Kaban",
+        "Ang mga Kawani",
+        "Ang Ditch",
+        "Ang Bundok",
+        "Ang Balon"
+      ],
+      "answer": "Ang Ditch"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Binigyan ng isang kaharian",
+        "Naligtas sa pamamagitan ng isang himala",
+        "Nakamit ang pagkamartir at Paraiso",
+        "Nakakalat sa iba't ibang lupain",
+        "Binigyan ng napakalaking kayamanan"
+      ],
+      "answer": "Nakamit ang pagkamartir at Paraiso"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

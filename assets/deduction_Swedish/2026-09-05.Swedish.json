@@ -1,0 +1,61 @@
+{
+  "title": "Den prakt som sjönk",
+  "intro": "Föreställ dig detta: en själ klädd i fina kläder och omgiven av skatter bortom all föreställningsvärdhet. Denna individ trodde att deras rikedom förtjänades genom deras egen briljans, utan att erkänna källan till den sanna försörjningen. Vandrande bland en mäktig profets anhängare vägrade denna person varje uppmaning till ödmjukhet. Idag avslöjar vi identiteten på en person vars magnifika förmögenhet blev deras sista viloplats.",
+  "clues": [
+    "Jag levde på en profets tid som uppmanade ett envist folk till sanning.",
+    "Jag var en del av en utvald gemenskap, men ändå vände mitt hjärta sig bort från budskapet.",
+    "Guld och silver fängslade mig mer än någon gudomlig befallning.",
+    "Mina skattvalv växte sig så stora att en stark grupp män knappt kunde lyfta nycklarna.",
+    "Jag skröt om att min rikedom var given till mig tack vare min egen kunskap.",
+    "Till slut svaldes jag och hela min boning av jorden som en varning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Arrogans över rikedom och vägran att ge välgörenhet",
+        "Smidning av en gyllene idol från smälta smycken",
+        "Förkunna gudomlighet över ett mäktigt rike",
+        "Förföljelse av tidiga troende i Mecka",
+        "Leder en kampanj för att förstöra det heliga huset"
+      ],
+      "answer": "Arrogans över rikedom och vägran att ge välgörenhet"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Skatter vars nycklar tyngde många starka män",
+        "En guldkalv som producerade ljud",
+        "En härlig tron ​​från ett avlägset land",
+        "En dike fylld med flammande eld",
+        "En mäktig armé av krigselefanter"
+      ],
+      "answer": "Skatter vars nycklar tyngde många starka män"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Uppslukad av jorden tillsammans med bostaden",
+        "Drunknade i havet med en armé",
+        "Levande bränd i en eldgrop",
+        "Förstört av en ylande, rasande vind",
+        "Slås ner av en enda mäktig explosion"
+      ],
+      "answer": "Uppslukad av jorden tillsammans med bostaden"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

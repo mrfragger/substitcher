@@ -1,0 +1,61 @@
+{
+  "title": "A chamada do Val Sagrado",
+  "intro": "Máis alá das páxinas da historia atópase a historia dunha alma que se interpuxo entre un poderoso gobernante e todo un pobo escravizado. Este individuo foi chamado a liberar unha nación da tiranía, realizando marabillas que desafiaron todas as leis naturais. Desde un monte sagrado ata un milagre sobre as augas, este servo de Alá foi testemuña de signos que resoarían ao longo dos tempos. A túa tarefa hoxe é identificar esta figura extraordinaria cuxo legado marcou o curso da historia da humanidade.",
+  "clues": [
+    "Nacín nunha época na que o meu pobo se enfrontaba a un decreto mortal, e a miña familia meteume nas augas para salvar a miña vida.",
+    "Fun atopado e criado no mesmo fogar do gobernante que ordenara a morte da miña especie.",
+    "Fuxín a un monte sagrado onde vin lume nunha árbore que non fora consumida, e unha voz faloume desde ela.",
+    "Enviáronme de volta a ese mesmo gobernante con milagres, esixindo a liberdade do meu pobo escravizado.",
+    "Golpeei o mar co meu bastón, e abriuse en camiños secos, tragando os perseguidores que seguían ao meu pobo.",
+    "Comulguei co meu Señor nun monte durante corenta noites e concedéronme táboas de guía divina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Moisés",
+        "Profeta Harún",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Moisés"
+    },
+    "trial": {
+      "label": "A miña proba decisiva",
+      "options": [
+        "A separación do mar",
+        "Construíndo a Gran Arca",
+        "Proba por un lume abrasador",
+        "Confinamento no ventre dunha balea",
+        "Encarceramento por parte dun funcionario exipcio"
+      ],
+      "answer": "A separación do mar"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un bastón de pastor",
+        "Unha gran arca de madeira",
+        "Unha cova onde o tempo durmiu",
+        "Un xardín con dúas fontes",
+        "Un trono adornado con ouro"
+      ],
+      "answer": "Un bastón de pastor"
+    },
+    "outcome": {
+      "label": "O resultado",
+      "options": [
+        "O meu pobo cruzou o mar cara á seguridade",
+        "Un gran diluvio destruíu os incrédulos",
+        "O lume dun tirano volveuse fresco e pacífico",
+        "O mar lanzou o seu cativo á costa",
+        "O cativo converteuse no tesoureiro de Exipto"
+      ],
+      "answer": "O meu pobo cruzou o mar cara á seguridade"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

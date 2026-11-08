@@ -1,0 +1,61 @@
+{
+  "title": "Haizearen xuxurla",
+  "intro": "Imajinatu ikusezina eta ikusgaia elkartzen diren erreinu bat, eta beste inork ez bezalako erreinu baten bihotzean dagoen figura baten aurrean zaude. Arima honek ohiko eskuraezintasunetik haratagoko ezagutza du, besteek imajina ditzaketen indarrak agintzen. Hala ere, boteretsuenak ere izaki txiki batek apaldu ditzake, eta egia ezkutuan egon daiteke izendatutako unea iritsi arte. Nor da figura hau, zeinaren ondarea aroetan zehar oihartzuna duen?",
+  "clues": [
+    "Nire ondoren inork izango ez lukeen erreinua eman zidaten.",
+    "Guraso maite batengandik jaso nuen ezagutza eta jakinduria.",
+    "Haizea nire agindupean zegoen, nire aginduz nahi nuen lekura bidaiatzen zuen.",
+    "Txorien hizkera ulertzen nuen, eta nire armadan zerbitzatu zuten.",
+    "Eguzkia gurtzen zuen erregina bati buruzko berriak jaso nituen txori txiki batetik.",
+    "Nire heriotza ezkutuan egon zen lurreko izaki batek nire makila irentsi zuen arte, eta orduan bakarrik konturatu ziren jinn-ak ikusezina ezagutzen ez zutela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sulayman profeta (Salomon)",
+        "Dawud profeta (David)",
+        "Musa (Moises) profeta",
+        "Isa profeta (Jesus)",
+        "Nuh (Noe) profeta"
+      ],
+      "answer": "Sulayman profeta (Salomon)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Sabako erreginaren bisita",
+        "Sutara botata egotea.",
+        "Itsasoa zatitzen.",
+        "Arka bat eraikitzea",
+        "Balea batek irentsi izana"
+      ],
+      "answer": "Sabako erreginaren bisita"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Lurreko izaki batek kontsumitutako makila",
+        "Suge bihurtu zen makila",
+        "Gamelu emea",
+        "Arka",
+        "Balea"
+      ],
+      "answer": "Lurreko izaki batek kontsumitutako makila"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bere heriotza jinn-engandik ezkutatu zuten bere makila jan zuten arte",
+        "Bizirik zerura igo zen",
+        "Alaren aginduz salbatu zen sutik",
+        "Tora eman zioten.",
+        "Baleatik salbatu zen."
+      ],
+      "answer": "Bere heriotza jinn-engandik ezkutatu zuten bere makila jan zuten arte"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

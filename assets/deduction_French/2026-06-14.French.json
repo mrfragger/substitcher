@@ -1,0 +1,61 @@
+{
+  "title": "La flamme qui révélait un héritage",
+  "intro": "Dans les annales de la résistance se dresse une figure dont le nom même résonna jusqu'à la fin des temps. Cet homme choisit l'inimitié plutôt que la fraternité, la rébellion plutôt que la soumission, et s'opposa à l'appel de la miséricorde. Écoutons attentivement l'écho d'une proclamation ancestrale tandis que nous dévoilons l'identité de cette âme tristement célèbre.",
+  "clues": [
+    "Je suis né dans le même clan que le dernier messager d'Allah, et pourtant je me suis opposé à eux à chaque occasion.",
+    "Mon nom était porteur de sens — un nom qui signifiait « père de la flamme », un nom qui préfigurait mon destin éternel.",
+    "J'ai déchaîné des attaques contre celui qui portait la vérité, et même ma propre famille s'est jointe à cette campagne de cruauté.",
+    "J'ai utilisé ma richesse et mon influence pour faire taire l'appel à Allah, croyant que l'argent pouvait éteindre la lumière divine.",
+    "Allah m’a consacré un chapitre entier – un chapitre si bref qu’il peut être récité en quelques secondes, mais dont le poids demeure jusqu’au Jour du Jugement.",
+    "Mon compagnon dans l'au-delà marche derrière moi, lié par une corde de fibres autour du cou, portant les épines mêmes qu'ils répandaient autrefois."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Abou Lahab",
+        "Abou Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abou Lahab"
+    },
+    "trial": {
+      "label": "Définir la confrontation",
+      "options": [
+        "À la tête de l'opposition contre le Prophète à La Mecque",
+        "Émigrer en Abyssinie pour échapper aux persécutions",
+        "La construction de la Kaaba avec le prophète Ibrahim",
+        "Se convertir à l'islam sur son lit de mort",
+        "La conclusion du traité d'Hudaybiyyah"
+      ],
+      "answer": "À la tête de l'opposition contre le Prophète à La Mecque"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une femme qui portait des épines et du bois de chauffage",
+        "Un bâton qui se transformait en serpent",
+        "Une bague portant le sceau de Salomon",
+        "Un veau d'or vénéré par le peuple",
+        "Une source qui jaillissait d'eau"
+      ],
+      "answer": "Une femme qui portait des épines et du bois de chauffage"
+    },
+    "outcome": {
+      "label": "Règlement de comptes final",
+      "options": [
+        "Une sourate entière révélée, annonçant la ruine totale",
+        "Il est devenu le chef de la communauté musulmane",
+        "Il a reçu le pardon au moment de sa mort",
+        "Il a fait construire une grande mosquée à Médine",
+        "Il a été ressuscité parmi les justes"
+      ],
+      "answer": "Une sourate entière révélée, annonçant la ruine totale"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

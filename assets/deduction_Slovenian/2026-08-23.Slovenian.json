@@ -1,0 +1,61 @@
+{
+  "title": "Izginula množica",
+  "intro": "Stojite pred odmevi skupnosti, katere zgodba je zapisana v valovih. Te duše so zaslišale klic, izbrale kljubovanje in se soočile s posledicami, ki so preoblikovale zemljo. Kdo so in kaj se je zgodilo z njihovim svetom?",
+  "clues": [
+    "Živeli smo davno nazaj in k nam je prišel poslanec izmed nas samih.",
+    "Častili smo pet idolov in jih nismo hoteli opustiti.",
+    "Posmehovali smo se glasniku in ga obtožili, da je zašel na pravo pot.",
+    "Zahtevali smo, da se kaznuje, če govori resnico.",
+    "Videli smo, kako je nebo deževalo in kako je zemlja brbotala iz studencev.",
+    "Povzpeli smo se na visoke kraje, da bi pobegnili, a so nas valovi prehiteli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Ljudje Nuha",
+        "Ljudje iz 'Ad",
+        "Ljudje iz Thamuda",
+        "Lutovi ljudje",
+        "Ljudje iz Madyana"
+      ],
+      "answer": "Ljudje Nuha"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Utopila nas je velika poplava",
+        "Uničil nas je orkan",
+        "Ubila nas je glasna eksplozija",
+        "Požrla nas je zemlja",
+        "Z neba so nas zasipali s kamenjem"
+      ],
+      "answer": "Utopila nas je velika poplava"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Velika poplava",
+        "Silovit veter",
+        "Dež kamenja",
+        "Ognjena eksplozija",
+        "Potres"
+      ],
+      "answer": "Velika poplava"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vsi smo poginili, razen vernikov z Nuhom.",
+        "Spremenili so nas v opice",
+        "Za popotnike smo ostali kot ruševine",
+        "Spremenili so nas v sol",
+        "Dali so nam oddih"
+      ],
+      "answer": "Vsi smo poginili, razen vernikov z Nuhom."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Het proces onder de golven",
+  "intro": "Een profeet, gebukt onder de last van zijn missie, nam een ​​beslissing die hem ver van zijn volk bracht en in een onverwachte beproeving stortte. Zijn reis nam een ​​dramatische wending en stelde zijn geloof en geduld op de meest ingrijpende wijze op de proef. Kun je de details van deze buitengewone gebeurtenis afleiden uit de gegeven aanwijzingen?",
+  "clues": [
+    "Een profeet werd naar een volk gezonden, maar vertrok halsoverkop, gefrustreerd door hun afwijzing.",
+    "Zijn reis bracht hem naar de zee, waar hij aan boord ging van een zwaarbeladen schip op zoek naar een overtocht.",
+    "Er stak een hevige storm op die het schip bedreigde, en er werd besloten om één persoon overboord te gooien om de lading te verlichten; de keuze hiervoor werd bepaald door loting.",
+    "Hij werd opgeslokt door een wezen uit de diepte, een wonderbaarlijke gebeurtenis die door de goddelijke wil was bepaald.",
+    "Binnen de grenzen van de buik van het schepsel riep hij tot zijn Heer, berouwvol en Allah verheerlijkend in de duisternis.",
+    "Na een periode van intense smeekbeden werd hij, zwak maar levend, op een kale kust geworpen. Toen hij later terugkeerde, bleek dat zijn volk eindelijk geloofd had."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeet/Persoon",
+      "options": [
+        "Profeet Nuh",
+        "Profeet Lut",
+        "Profeet Musa",
+        "Profeet Yunus",
+        "Profeet Yusuf"
+      ],
+      "answer": "Profeet Yunus"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "De overstroming van Nuh",
+        "De verwoesting van Sodom",
+        "De reis in de buik van de grote vis",
+        "De splitsing van de zee",
+        "De onthulling van de brandende struik"
+      ],
+      "answer": "De reis in de buik van de grote vis"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "De Ark",
+        "Berg Sinaï",
+        "De staf van Musa",
+        "De Grote Vis",
+        "De Bron van Yusuf"
+      ],
+      "answer": "De Grote Vis"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Een nieuw verbond met de mensheid",
+        "Een wonderbaarlijke geboorte voor zijn volk.",
+        "Een koninkrijk gesticht voor zijn geslacht.",
+        "Een terugkeer naar zijn volk, dat toen geloofde",
+        "Een overwinning op een tirannieke heerser."
+      ],
+      "answer": "Een terugkeer naar zijn volk, dat toen geloofde"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

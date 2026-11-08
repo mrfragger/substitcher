@@ -1,0 +1,61 @@
+{
+  "title": "Go Dikaganyediwa ka Tlase ga Loapi lwa Tshoganyetso",
+  "intro": "O eme fa pele ga mophato o o boitshegang o o atamelang lefelo le le boitshepo le le tlotlegang, o na le sebetsa sengwe le sengwe se se siametseng mme phenyo e lebega e tlhomame. Pele ga tlhaselo e ka simolola, go tlhaga maatla a a sa lebelelwang kwa godimo ga tlhogo, mme kgaisano e tsaya phetogo e go neng go se na ope yo o neng a e bonela pele.",
+  "clues": [
+    "Re ne ra gwanta ka tshepo ya gore ga go na maatla ape a lefatshe a a neng a ka reketla.",
+    "Re ne ra tla ka ditlou tse di maatla, mme go ne go lebega maatla a rona a agilwe go di dikologa.",
+    "Re ne re tlile go thuba lefelo le le boitshepo le le tlotlegang, re dumela gore phenyo ya rona e ne e setse e tlhomame.",
+    "Fa re goroga kwa go yone, letsomane le ne la gogola loapi lo lo neng lo le kwa godimo ga rona.",
+    "Dinonyane di ne di latlhela batlhabani ba rona maje a letsopa le le thatafaditsweng.",
+    "Re ne ra fenngwa gotlhelele mo e leng gore sesole sa rona se segolo se ne sa thubega le go gasame jaaka molora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Tlou",
+        "Dikgosana tse pedi",
+        "Bomorwarraagwe Josefa",
+        "Motlhanka wa ga Allah kwa Dhul-Kifl",
+        "Balekane ba Monna yo o Siameng"
+      ],
+      "answer": "Batho ba Tlou"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Tlhaselo ya Kaaba e e neng e eteletswe pele ke ditlou",
+        "Go kgaogana ga lewatle fa pele ga setlhopha se se gorositsweng",
+        "Go thopiwa ga Letlole ke batho ba bagateledi",
+        "Leeto la bosigo fa gare ga dimoseke tse pedi",
+        "Go fodisiwa ga molepero ka maatla a bomodimo"
+      ],
+      "answer": "Tlhaselo ya Kaaba e e neng e eteletswe pele ke ditlou"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Dinonyane tse di tshotseng dipellet tsa letsopa",
+        "Areka e e dirilweng ka logong lwa gofer",
+        "Lore lo lo neng lwa fetoga noga",
+        "Letlapa le le tshwailweng ka letshwao",
+        "Setlhatshana se se tukang"
+      ],
+      "answer": "Dinonyane tse di tshotseng dipellet tsa letsopa"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Maatla a bone a magolo a ne a thubega jaaka molora",
+        "Ba kgabaganya lewatle ka pabalesego .",
+        "Ba ne ba tsamaya mo leubelong le le tukang ba sa gobala",
+        "Ba ne ba tsena mo Paradaiseng ba le babedi",
+        "Ba ne ba robala mo logageng dingwaga di le 309"
+      ],
+      "answer": "Maatla a bone a magolo a ne a thubega jaaka molora"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

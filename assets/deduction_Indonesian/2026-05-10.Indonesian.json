@@ -1,0 +1,61 @@
+{
+  "title": "Para Pembangun Menara",
+  "intro": "Di masa lalu yang sangat jauh, sebuah peradaban besar bangkit, yang terkenal dengan prestasi konstruksinya yang mengesankan dan kekuatan yang luar biasa. Entitas kolektif ini dianugerahi sumber daya yang melimpah dan kemampuan fisik yang hebat, namun mereka memilih jalan pembangkangan terhadap pesan ilahi yang dikirim untuk membimbing mereka. Kisah mereka menjadi pelajaran mendalam dalam catatan sejarah, sebuah bukti konsekuensi dari menolak kebenaran.",
+  "clues": [
+    "Kami dianugerahi kekuatan fisik dan perawakan yang luar biasa, tidak seperti orang lain di zaman kami.",
+    "Kita dikenal karena membangun struktur megah dan pilar-pilar tinggi di setiap tempat tinggi, dengan berpikir bahwa kita akan hidup selamanya.",
+    "Seorang utusan dari kalangan kami diutus untuk memperingatkan kami, menyeru kami untuk menyembah Allah semata dan meninggalkan berhala-berhala kami.",
+    "Dengan sombongnya kami menanyai utusan kami, bertanya apakah mereka datang kepada kami hanya untuk membuat kami menyembah Allah dan meninggalkan apa yang disembah oleh leluhur kami.",
+    "Tanah kami diberkahi dengan kebun, mata air, dan ladang yang subur, tetapi kami menganggap kemakmuran kami berasal dari kekuatan kami sendiri, bukan dari Sang Pencipta.",
+    "Karena ketidakpercayaan dan ejekan kami yang terus-menerus, kami akhirnya dimusnahkan oleh angin dahsyat dan mengerikan yang mengamuk selama berhari-hari dan bermalam-malam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang-orang Tsamud",
+        "Orang-orang Fir'aun",
+        "Orang-orang Nuh",
+        "Penduduk Madyan",
+        "Orang-orang 'Ad"
+      ],
+      "answer": "Orang-orang 'Ad"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Diminta untuk mengorbankan unta tertentu",
+        "Ditantang untuk menghasilkan sepuluh surah seperti Al-Quran.",
+        "Diperlihatkan terbelahnya laut",
+        "Diberi peringatan oleh seorang nabi tentang banjir yang akan datang.",
+        "Menolak seorang nabi yang memperingatkan terhadap pembangunan berlebihan dan penyembahan berhala."
+      ],
+      "answer": "Menolak seorang nabi yang memperingatkan terhadap pembangunan berlebihan dan penyembahan berhala."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Bahtera",
+        "Staf",
+        "Api",
+        "Kota Sodom",
+        "Pilar-pilar tinggi dan tempat tinggal yang kokoh"
+      ],
+      "answer": "Pilar-pilar tinggi dan tempat tinggal yang kokoh"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Tenggelam dalam banjir besar",
+        "Ditelan oleh bumi",
+        "Berubah menjadi kera dan babi",
+        "Hancur akibat ledakan dahsyat.",
+        "Hancur lebur oleh angin dahsyat yang mengerikan."
+      ],
+      "answer": "Hancur lebur oleh angin dahsyat yang mengerikan."
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

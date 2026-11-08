@@ -1,0 +1,61 @@
+{
+  "title": "Prakeiktos rankos",
+  "intro": "Stovite vingiuotose senovės Mekos alėjose, kur įtakinga ir turtinga siela kadaise nusisuko nuo tiesos šauksmo. Šios asmenybės istorija yra griežtas priminimas, kad kraujo ryšiai negali įveikti puikybės pančių. Kas yra šis, kurio vardas aidi laukiančioje ugnyje?",
+  "clues": [
+    "Ėjau Mekos gatvėmis su pasididžiavimu, kuris apakino mane nuo tiesos, nors pasiuntinys buvo mano paties kraujo.",
+    "Mano turtas buvo didžiulis, bet jis tapo prakeiksmu, o ne skydu.",
+    "Vedimo knyga kalba apie mano pražūtį, skelbia, kad mano rankos ir kūnas pražus.",
+    "Mano sutuoktinis prisijungė prie mano priešiškumo kampanijos, rinkdamas erškėčius, kad jais apaugtų tas, kuris šaukiasi Alacho.",
+    "Teismo dieną būsiu įmestas į liepsnojančią ugnį, o mano sutuoktinio kaklą apjuos palmių pluošto virvė.",
+    "Esu žinomas vardu, reiškiančiu „liepsnos tėvas“ – vardu, kuris pranašauja mano amžinąją buveinę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Abu Lahabas",
+        "Abu Džahlas",
+        "Abu Talibas",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahabas"
+    },
+    "trial": {
+      "label": "Pagrindinis bandymas arba įvykis",
+      "options": [
+        "Priešinosi Pranašui ir buvo prakeiktas Korane",
+        "Vadovavo armijai, kad sunaikintų Kaabą",
+        "Bandė nužudyti pranašą mėtydamas akmenis",
+        "Atsisakė tikėti mėnulio skilimu",
+        "Pastatė bokštą, kad pasiektų dangų"
+      ],
+      "answer": "Priešinosi Pranašui ir buvo prakeiktas Korane"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Liepsnojanti pragaro ugnis",
+        "Musos personalas",
+        "Nuho arka",
+        "Zamzamo šulinys",
+        "Auksinis veršelis"
+      ],
+      "answer": "Liepsnojanti pragaro ugnis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jis įžengs į liepsnojančią ugnį, ir jo turtai jam nepadės",
+        "Jis atgailavo ir tapo tikinčiuoju",
+        "Jam buvo atleista po to, kai jis išsižadėjo savo nuodėmių",
+        "Jis mirė kaip kankinys",
+        "Jis buvo paimtas į dangų"
+      ],
+      "answer": "Jis įžengs į liepsnojančią ugnį, ir jo turtai jam nepadės"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

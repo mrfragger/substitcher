@@ -1,0 +1,61 @@
+{
+  "title": "Zavist koja je proždirala",
+  "intro": "Priča starija od bilo kojeg kraljevstva ili svetog pisma - prva ljudska tragedija rođena iz ljubomore. Jedna duša, starija od dvoje djece rođene prvim roditeljima, bijesno je promatrala kako mlađi brat prima naklonost koja mu je uskraćena. Ono što je uslijedilo bio je najmračniji izbor, ostavljajući za sobom prvu krv ikada prolivenu na zemlji. Možete li otkriti identitet, kušnju i gorko kajanje?",
+  "clues": [
+    "Rođen sam od prvog para ljudi koji su hodali zemljom.",
+    "Jednom sam Allahu prinio žrtvu, ali nije bila prihvaćena od mene.",
+    "Ponuda mog brata/sestre je prihvaćena, dok je moja odbijena - nešto što nisam mogao podnijeti.",
+    "Prijetio sam vlastitom bratu uništenjem.",
+    "Postao sam prvi koji je počinio ubojstvo na ovoj zemlji, oduzevši život vlastitog brata ili sestre.",
+    "Allah je poslao stvorenje sa zemlje - crnu pticu koja kopa po zemlji - da me nauči kako sakriti ono što sam učinio, a meni nije ostalo ništa osim žaljenja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Prorok Jakub",
+        "Poslanik Musa",
+        "Poslanik Adam"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Prinos odbijen od strane Allaha",
+        "Bačen u veliku vatru",
+        "Napušten kao beba u rijeci",
+        "Iskušavan golemim kraljevstvom",
+        "Zapovijedio žrtvovati sina"
+      ],
+      "answer": "Prinos odbijen od strane Allaha"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrana koju je poslao Allah",
+        "Zlatno tele",
+        "Kovčeg na gori",
+        "Gorući grm",
+        "Deva isklesana iz stijene"
+      ],
+      "answer": "Vrana koju je poslao Allah"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ispunio se žaljenjem i bio među gubitnicima",
+        "Progutano u zemlju zajedno s blagom",
+        "Postao je plemeniti Allahov poslanik",
+        "Ušao u Raj po Božjoj milosti",
+        "Vladao je neusporedivim kraljevstvom"
+      ],
+      "answer": "Ispunio se žaljenjem i bio među gubitnicima"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

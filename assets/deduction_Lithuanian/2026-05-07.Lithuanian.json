@@ -1,0 +1,61 @@
+{
+  "title": "Šauklys iš gelmių",
+  "intro": "Įsivaizduokite sielą, kuriai patikėta dieviška žinia, tačiau kuri skubos akimirką paliko savo žmones be aiškaus leidimo. Ši kelionė juos atvedė į nepaprastą išbandymą, gilų kantrybės ir pasitikėjimo Aukščiausiuoju išbandymą. Kas yra šis asmuo, kurio istorija moko mus apie atgailą ir beribį Alacho gailestingumą?",
+  "clues": [
+    "Buvau pasiųstas pas didelę tautą, bet jų pirminis atstūmimas mane sielvartavo.",
+    "Palikau savo žmones, manydamas, kad mano misija įvykdyta, prieš gaudamas aiškų įsakymą išvykti.",
+    "Ieškojau vietos laivu, bet smarki audra ir burtų traukimas atsidūrė keblioje padėtyje.",
+    "Buvau įmestas į jūrą, ir galingas gelmių padaras mane visą prarijo.",
+    "Jo pilvo tamsoje šaukiausi Alacho, pripažindamas savo nusikaltimą ir prašydamas Jo atleidimo.",
+    "Alachas įsakė padarui išmesti mane į krantą, ir aš atgavau sveikatą po unikaliu augalu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Jusufas (Juozapas)",
+        "Pranašas Nuh (Nojus)",
+        "Pranašas Junusas (Jona)",
+        "Pranašas Sulaimanas (Saliamonas)",
+        "Pranašas Ayyubas (Jobas)"
+      ],
+      "answer": "Pranašas Junusas (Jona)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Jūros padalijimas",
+        "Nimrodo ugnis",
+        "Praryti didelės žuvies",
+        "Potvynis",
+        "Miesto sunaikinimas akmenimis"
+      ],
+      "answer": "Praryti didelės žuvies"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Žuvies pilvas",
+        "Šulinys",
+        "Degantis krūmas"
+      ],
+      "answer": "Žuvies pilvas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapo didžiu valdovu.",
+        "Pastatė Kaabą",
+        "Sugrįžo vesti atgailaujančios tautos",
+        "Jam buvo suteikta valdžia virš džinų",
+        "Vedė žmones per dykumą"
+      ],
+      "answer": "Sugrįžo vesti atgailaujančios tautos"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

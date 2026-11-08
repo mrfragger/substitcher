@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Ngāwari i roto i ngā Poropiti",
+  "intro": "E rangona ana te reo e karanga ana ki te tika i roto i ngā whiti o te Quran Rangatira. I whakawhiwhia tēnei wairua manaaki ki te poropititanga me te karaipiture tapu i te wā e tino hiahiatia ana te arataki i waenga i ngā tamariki a Iharaira. I kōrero tika tēnei tangata ki tōna iwi, me te akiaki i a rātou kia maumahara ki tō rātou Ariki. Nā te manawanui me te ngākau pono, ka noho rātou hei rama mārama e whakamārama ana i ngā whārangi o ngā karaipiture tapu, ā, ka taea e koe te tautuhi i tēnei tangata whakamiharo e whakanuia ana tōna ingoa i roto i te Quran me te Rongopai?",
+  "clues": [
+    "I whakahonoretia ahau ki te poropititanga me te pukapuka rangi i te wā e matea ana tōku iwi.",
+    "I whānau mai ahau i roto i te whānautanga whakamiharo, nā te whakahau a Allah anake.",
+    "I kōrero ahau ki tōku iwi, me te mea, 'E ngā tamariki a Iharaira! Ko ahau te karere a Allah ki a koutou, e whakaū ana i ngā mea i mua i ahau.'",
+    "I haere mai ahau me ngā tohu mārama mai i tōu Ariki, me te kawe mai i ngā rongopai o tētahi poropiti, ko Ahmad tōna ingoa.",
+    "He wahine tika tōku whaea, nāna ahau i whakatapua ki te mahi ki a Allah mai anō i tōku tamarikitanga.",
+    "Nā Allah ahau i whakaako ki te Quran, i hanga hoki ahau kia aroha, kia atawhai ki tōku whaea, ā, kāore ahau i whakapehapeha, i tutu rānei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Hakaraia",
+        "Poropiti a Ihaia ibn Meriama",
+        "Poropiti Muhammad ﷺ",
+        "Poropiti a Rawiri",
+        "Poropiti Yunus"
+      ],
+      "answer": "Poropiti a Ihaia ibn Meriama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I hanga te temepara i Hiruharama",
+        "I kōrero i roto i te kurī pēpi",
+        "I amo i te Āka o te Kawenata",
+        "I ārahi i te iwi o Miriana",
+        "I haere ki Ninewe"
+      ],
+      "answer": "I kōrero i roto i te kurī pēpi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tāone o Hiruharama",
+        "Te rohe o Peterehema",
+        "Te whare o Hākariyya",
+        "Maunga Hinai",
+        "Te awaawa o Baka"
+      ],
+      "answer": "Te whare o Hākariyya"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tangohia tinana ki te rangi",
+        "I whakamatautauria ki te repera mō ngā tau",
+        "I hanga he temepara nui mō te karakia",
+        "I ārahi i ngā Iharaira kia hoki ki te whakapono",
+        "I wehea te moana ki te tokotoko"
+      ],
+      "answer": "I tangohia tinana ki te rangi"
+    }
+  },
+  "verseRef": "61:6",
+  "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+  "verse": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\" (61:6)"
+}

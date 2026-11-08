@@ -1,0 +1,61 @@
+{
+  "title": "Ukulala Kwabalungile",
+  "intro": "Ngesikhathi lapho ukholo lwaluyingozi futhi abanamandla befuna ukuqeda inkolelo, iqembu elincane lemiphefumulo emisha lenza ukukhetha okwakuzozwakala iminyaka eminingi. Bebaleka konke ababekwazi, bafuna isiphephelo ebumnyameni obufihliwe bentaba futhi babeka ithemba labo ngokuphelele ku-Allah. Okwenzeka ngokulandelayo kwakuyoba uphawu olungapheli kulabo abacabangayo.",
+  "clues": [
+    "Sasiyiqembu labantu abasha ababekholwa eNkosini yethu, futhi yasikhulisa ngesiqondiso.",
+    "Sema phambi kwabantu bakithi samemezela ukuthi asisoze sabiza noma yimuphi unkulunkulu ngaphandle kuka-Allah.",
+    "Safuna indawo yokukhosela emhumeni, sithi, 'Nkosi yethu, siphe umusa ovela kuwe futhi usiqondise kahle endabeni yethu.'",
+    "Salala iminyaka eminingi, ilanga lalizosuka emhumeni wethu lingasithinti.",
+    "Inja yethu yayilele ilele emnyango womhume, isiqaphile sengathi iqaphile.",
+    "Lapho sivuswa, sazibuza ukuthi sesihlale isikhathi esingakanani, futhi omunye wethu wathunyelwa nezinhlamvu zesiliva ukuyothenga ukudla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu Bomhume",
+        "Abantu baseMfuleni",
+        "Abantu beSabatha",
+        "Abantu Bendlovu",
+        "Abangane Bezinkuni"
+      ],
+      "answer": "Abantu Bomhume"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Babalekela emhumeni ukuze babalekele ukushushiswa ngenxa yokholo lwabo",
+        "Kubhujiswe umoya onamandla",
+        "Kugwinywe umhlaba",
+        "Ukuminza olwandle",
+        "Ushaywe yisiphepho samatshe"
+      ],
+      "answer": "Babalekela emhumeni ukuze babalekele ukushushiswa ngenxa yokholo lwabo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Inja eqaphe umnyango womhume",
+        "Umkhumbi omkhulu",
+        "Intonga eyaphenduka inyoka",
+        "Inyoni eyi-hoopoe",
+        "Ithole legolide"
+      ],
+      "answer": "Inja eqaphe umnyango womhume"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Bahlala emhumeni iminyaka engama-309 base bekhuliswa njengesibonakaliso",
+        "Baphenduka izinkawu",
+        "Babhujiswa uzamcolo",
+        "Benziwa ukuba bawele ulwandle",
+        "Banikwa umbuso"
+      ],
+      "answer": "Bahlala emhumeni iminyaka engama-309 base bekhuliswa njengesibonakaliso"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

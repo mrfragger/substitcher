@@ -1,0 +1,61 @@
+{
+  "title": "Veraces Meccae",
+  "intro": "Primis revelationis diebus, cum nuntius veritatis vehementius adversarius esset, quaedam animae in sua convictione constantes manebant. Hi credentes crudelitatem inimaginabilem ab iis qui lumen fidei extinguere conabantur passi sunt. Cruciatus eorum gravis erat, dolor immensus – tamen linguae eorum numquam desierunt unitatem Allah praedicare. Etiam cum in profunda desperationis iacti essent, divina protectio eos circumdedit, probationem eorum in aeternum fidei testamentum transformans. Iter harum animarum mirabilium exploremus.",
+  "clues": [
+    "Gravi poenis probati sumus quod fidem in unum Deum deserere recusamus.",
+    "Noster populus nostram constantiam frangere non potuit, quantumvis ingeniosa crudelitas eorum facta sit.",
+    "Interdiu ex puteo pendebamus, tamen divinum auxilium semper aderat.",
+    "Constantia nostra etiam eos qui patientiam nostram viderunt stupefecit",
+    "Multi Meccae nos ad revocandum cogere conati sunt, sed nos constanter perseveravimus.",
+    "Cum omnia perdita viderentur, libertas nostra per mirabilem divinae interventionem advenit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Pugna contra Prophetam",
+        "Persecutio propter recusationem adorationis idolorum",
+        "Examen fidei de incendio",
+        "Experimentum itineris nocturni divisi",
+        "Experimentum destructionis horti"
+      ],
+      "answer": "Persecutio propter recusationem adorationis idolorum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Mons Uhud",
+        "Sacrum praecinctum Kabah",
+        "Puteus Abu Sufyan",
+        "Palatium Qurayshitorum",
+        "Urbs Medina"
+      ],
+      "answer": "Puteus Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Victoria in magno proelio",
+        "Liberatio per interventionem divinam",
+        "Martyrium in via Dei",
+        "Acceptio in paradisum directe",
+        "Migratio ad terram benedictam"
+      ],
+      "answer": "Liberatio per interventionem divinam"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Der vertrauenswürdige Geist der Offenbarung",
+  "intro": "In den unsichtbaren Reichen bewegt sich ein Wesen aus reinem Licht mit Präzision und führt jeden Befehl ohne Zögern aus. Diese Gestalt hat zu auserwählten Dienern gesprochen, ihnen weisende Worte überbracht und die Erfüllung göttlicher Gebote durch die Zeitalter hindurch miterlebt. Wer ist diese verehrte Seele?",
+  "clues": [
+    "Ich bin ein Wesen aus reinem Licht, aus Licht erschaffen, und ich habe niemals ein einziges Gebot meines Herrn missachtet.",
+    "Ich bewege mich zwischen Himmel und Erde und steige herab mit den Geboten des Allerbarmers.",
+    "Ich wurde zu einer edlen Jungfrau im Heiligtum gesandt, um ihr die Geburt eines reinen Sohnes zu verkünden.",
+    "Ich bin der Geist der Heiligkeit und habe einen Propheten unterstützt, dem klare Zeichen und das Evangelium gegeben wurden.",
+    "Ich kam zu einer Höhle in den Bergen, um die ersten Worte einer Rezitation zu sprechen, die für immer bewahrt werden sollte.",
+    "Ich bin der vertrauenswürdige Geist, und ich war es, der den Koran auf das Herz des letzten Gesandten herabgesandt hat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "Der Todesengel",
+        "Malik (Hüter der Hölle)",
+        "Harut (einer der beiden Engel in Babylon)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Hauptaufgabe/Rolle",
+      "options": [
+        "Offenbarung an die Propheten übermitteln",
+        "Das Blasen der Posaune am Tag des Jüngsten Gerichts",
+        "Die Tore der Hölle bewachen",
+        "Aufzeichnung der Taten von Menschen",
+        "Dadurch, dass es regnet"
+      ],
+      "answer": "Offenbarung an die Propheten übermitteln"
+    },
+    "location": {
+      "label": "Hauptattribut oder Titel",
+      "options": [
+        "Der Heilige Geist (Ruh al-Qudus)",
+        "Der Geist der Macht",
+        "Der Geist der Barmherzigkeit",
+        "Der Geist der Führung",
+        "Der Geist der Wahrheit"
+      ],
+      "answer": "Der Heilige Geist (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Ergebnis der Mission",
+      "options": [
+        "Der Koran wurde dem Propheten Mohammed offenbart.",
+        "Am Tag des Jüngsten Gerichts wurde die Posaune geblasen.",
+        "Die Hölle war bewacht und ihre Tore waren verschlossen.",
+        "Das Buch der Taten wurde Allah vorgelegt.",
+        "Der Regen wurde zur Erde herabgesandt."
+      ],
+      "answer": "Der Koran wurde dem Propheten Mohammed offenbart."
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

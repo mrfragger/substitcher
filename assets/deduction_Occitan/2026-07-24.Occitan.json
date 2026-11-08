@@ -1,0 +1,61 @@
+{
+  "title": "Lo Conspirator Velat",
+  "intro": "Te retrobas en preséncia d'una figura poderosa dels jorns de la revelacion. Aquel individú èra conegut per son intellecte, sa riquesa e son estatut demest son pòble. Quand los signes clars arribèron, reconeguèron la beutat e causiguèron lo desfís per la somission. Qué menèt aquela anma a complotar dins l'escur, e qual foguèt lor destin final?",
+  "clues": [
+    "Èri benesit amb de ressorsas e d'influéncia abondosas, çò que faguèt ma paraula pesuga dins las assembladas.",
+    "Quand las paraulas del divin èran recitadas, podiái pas negar lor eloquéncia, mas mon orgulh me permetiá pas de me sometre.",
+    "Amassèri mos conselhièrs, m'isolant per pensar a un biais de descreditar lo messatge.",
+    "Après fòrça pensada, o declarèri pas que 'magia transmesa del passat' per desviar las gents.",
+    "La revelacion m'adreçèt alara dirèctament: 'Me daissatz amb aquel que creèri sol.' Foguèri remarcat per mon esclòp.",
+    "Lèu, lo quite fuòc que m'avertiguèt m'agacharà per l'avant, e aurai pas cap d'escapament."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Conspirat per assassinar lo Profèta",
+        "Menèt un boicòt contra los musulmans",
+        "Amassat un conselh per marcar l'Alcoran coma magia",
+        "Complotat per fòrabandir lo Profèta de Meca",
+        "Refusèt de partejar sa riquesa amb d'orfanèls"
+      ],
+      "answer": "Amassat un conselh per marcar l'Alcoran coma magia"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Revelacion",
+        "Lo Conselh",
+        "Lo Forelock",
+        "La riquesa",
+        "La pluma"
+      ],
+      "answer": "Lo Forelock"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Se repentiguèt e embracèt l'islam",
+        "Migrèt en Abissínia",
+        "Foguèt tustat per una malautiá mortala",
+        "Moriguèt en batalha còntra lei musulmans",
+        "Foguèt condemnat al fuòc de l'infèrn"
+      ],
+      "answer": "Foguèt condemnat al fuòc de l'infèrn"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

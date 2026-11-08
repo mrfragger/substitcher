@@ -1,0 +1,61 @@
+{
+  "title": "Az első, aki megbocsátást keres",
+  "intro": "Lépjünk vissza az első napfelkelte előtti időbe, mielőtt még halandó járt volna a földön. Egy alakot formáltak a legszerényebb anyagokból, az angyalok feletti rangot kaptak, és egy szent kertbe helyezték egyértelmű figyelmeztetéssel. Mégis egyetlen pillanat alatt döntés született – egy olyan, amely végigvonul az emberiség egész történelmén. Ki ez az alak?",
+  "clues": [
+    "Olyan módon jöttem létre, amilyet még soha nem láttam – a föld porából formáltak, és a Teremtő keze által élő lelket kaptam.",
+    "Olyan mélyreható tudást kaptam, hogy még a mennyei angyalok is csodálkoztak rajta.",
+    "Az egész mennyországnak parancsot adtak, hogy hajoljon meg előttem, és mindannyian engedelmeskedtek – kivéve egyet, aki büszkeségből megtagadta.",
+    "Egy szent kertbe helyeztek, az örök vigasz és gondoskodás helyére – de egyetlen szigorú tilalommal.",
+    "Elfelejtettem, megbotlottam, és engedetlen voltam – és mélyen éreztem a hibám súlyát.",
+    "Szívből jövő szavakkal fordultam az Úrhoz, és Ő elfogadta bűnbánatomat, mert Ő a legmegbocsátóbb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ádám próféta",
+        "Dawud próféta",
+        "Mohamed próféta",
+        "Iblisz",
+        "Jakub próféta"
+      ],
+      "answer": "Ádám próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az angyaloknak parancsot adtak, hogy boruljanak le",
+        "Elküldték a nagy árvizet",
+        "Egy nagy tüzet hűvössé és biztonságossá tettek",
+        "Egy arrogáns uralkodót a tengerbe fulladtak",
+        "Elpusztult egy elefánthadsereg"
+      ],
+      "answer": "Az angyaloknak parancsot adtak, hogy boruljanak le"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A boldogság kertje",
+        "Sínai-hegy",
+        "A Szent Mecset",
+        "A Nílus folyó",
+        "A barlang"
+      ],
+      "answer": "A boldogság kertje"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Allah elfogadta a bűnbánatot",
+        "Megfulladt a tengerben",
+        "Egy nagy hal lenyelte",
+        "Hatalmas robbanás sújtotta a nemzetet",
+        "Perzselő szél égette meg"
+      ],
+      "answer": "Allah elfogadta a bűnbánatot"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

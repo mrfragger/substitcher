@@ -1,0 +1,61 @@
+{
+  "title": "A bőséges aratás átka",
+  "intro": "Egy ősi földön egy bizonyos lélek a közösségük leggazdagabbjai között élt. Két egymást követő évben kétszer annyi áldásban részesült, mint a föld, egy dupla aratásban, aminek hálával kellett volna eltöltenie a szívüket. Mégis, amikor tragédia történt, és egyetlen éjszaka alatt mindenüket elvették tőlük, reakciójuk feltárta lelkük valódi természetét. Fel tudod fedezni ennek a személynek a kilétét, akinek a története figyelmeztetésül szolgál az Allah áldásaiba vetett hitetlenség ellen?",
+  "clues": [
+    "Az egész ország legszerencsésebb lelkei közé tartoztam, bőséges ellátmánnyal megáldva.",
+    "Két év alatt kétszer is megérkezett az aratás, a szívem mégis hálátlan maradt az Úrral szemben.",
+    "Hatalmas kertem volt szőlővel, olajfákkal és pálmafákkal – Allah kegyének bizonyítékaként.",
+    "Amikor a kertemet elpusztították, a romok között álltam, égnek nyúlt kézzel, és átkoztam a sorsomat.",
+    "Tagadtam, hogy Allah okozhatott volna ilyen veszteséget, miközben kétségbeesésemben összetörtem a tenyeremet.",
+    "A büntetésem nemcsak a kertem elvesztése volt, hanem az is, hogy teljesen tehetetlenül álltam romokban, képtelen voltam segítséget kérni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A kert tulajdonosa a 26. szúrában",
+        "Két kert tulajdonosa egy távoli vidékről",
+        "Egy gazdag lélek a jólét városából",
+        "A Surah Al-Kahf-ban említett gazda",
+        "Egy szőlősgazda Su'aib próféta idejéből"
+      ],
+      "answer": "A kert tulajdonosa a 26. szúrában"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egyetlen éjszaka alatt elpusztult kert elvesztése",
+        "A nagy özönvíz, amely ellepte a földet",
+        "Igaz és hamis prófétákkal való próbára tevés",
+        "A tűzbe dobás próbája",
+        "A föld elnyelésének megpróbáltatása"
+      ],
+      "answer": "Egyetlen éjszaka alatt elpusztult kert elvesztése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy két év alatt elpusztult kert szőlővel, olajfákkal és pálmafákkal",
+        "Egy magas hegyre épített hajó",
+        "Egy vétkes nemzet városa",
+        "Egy kút az ókori Midiánban",
+        "A paradicsom folyója"
+      ],
+      "answer": "Egy két év alatt elpusztult kert szőlővel, olajfákkal és pálmafákkal"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Teljes tehetetlenség – segítő nélkül elpusztulva",
+        "Feltámadás a paradicsomba való belépéshez",
+        "Allah prófétájává válni",
+        "Egy nagy nemzet vezetése",
+        "Örök büntetés a tűzben"
+      ],
+      "answer": "Teljes tehetetlenség – segítő nélkül elpusztulva"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

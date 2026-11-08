@@ -1,0 +1,61 @@
+{
+  "title": "Den vaksamma själen vid flodstranden",
+  "intro": "En ung själ anförtroddes ett hemligt uppdrag, att på säkert avstånd observera hur ödet utspelade sig på vattnet. Osynlig och oanad skulle denna figur spela en avgörande roll i att förändra en nations historia.",
+  "clues": [
+    "Jag fick en uppgift av min mamma, en som krävde smygande och vaksamhet.",
+    "Mina blick följde en liten vagga som drev längs strömmen, mitt hjärta tungt av oro.",
+    "När den hittades av ett oväntat sällskap, närmade jag mig, full av bävan.",
+    "Jag såg deras desperation efter en vårdare och erbjöd en lösning utan att avslöja sanningen.",
+    "Mitt snabba ingripande förde en omvårdande själ tillbaka till den som behövde den mest.",
+    "I de mäktigas domstolar talade jag: \"Ska jag hänvisa dig till en familj som kan ge honom näring och ta hand om honom med omsorg?\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Musas syster",
+        "Musas mor",
+        "Faraos hustru",
+        "En barnmorska",
+        "Shu'aibs dotter"
+      ],
+      "answer": "Musas syster"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att kasta ett barn i floden",
+        "Havets delning",
+        "Kalvens bränning",
+        "Byggandet av arken",
+        "Gräshoppornas pest"
+      ],
+      "answer": "Att kasta ett barn i floden"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Floden",
+        "Öknen",
+        "Berget",
+        "Palatset",
+        "Elden"
+      ],
+      "answer": "Floden"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hon återförenade barnet med sin mor",
+        "Hon räddade sig från Faraos soldater",
+        "Hon blev drottning",
+        "Hon straffades för spionage",
+        "Hon ledde israeliterna"
+      ],
+      "answer": "Hon återförenade barnet med sin mor"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

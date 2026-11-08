@@ -1,0 +1,60 @@
+{
+  "title": "Le fardeau des richesses",
+  "intro": "Vous vous tenez devant le récit d'une fortune immense, d'une vie ornée d'or et de pouvoir, mais qui constitue en fin de compte une leçon à méditer pour tous ceux qui recherchent la grandeur terrestre. Parviendrez-vous à percer le mystère de cette figure dont l'histoire résonne à travers les âges, témoignant de la nature éphémère des possessions matérielles ?",
+  "clues": [
+    "J'étais issu du peuple d'un grand Prophète, mais j'ai choisi la voie de l'arrogance et de l'oppression.",
+    "Allah m'a comblé d'une immense richesse, à tel point que les clés de mes trésors représentaient un lourd fardeau pour un groupe d'hommes robustes.",
+    "Mes proches m'ont conseillé de ne pas me réjouir de mes richesses, me rappelant qu'Allah n'aime pas les exultants.",
+    "J'ai affirmé avec arrogance que ma vaste fortune était due à mon propre savoir et à mes efforts, et non à une bénédiction d'Allah.",
+    "On m'a mis en garde contre la corruption et on m'a rappelé de rechercher l'au-delà avec ce qu'Allah m'avait donné, mais j'ai refusé d'écouter et je suis resté dans mon orgueil.",
+    "Finalement, Allah a fait engloutir ma demeure et moi par la terre, me laissant sans aucun allié face à Son décret."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "pharaon",
+        "Haman",
+        "Qarun",
+        "Abou Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La séparation de la mer",
+        "Le feu de Nimrod",
+        "L'inondation",
+        "L'engloutissement par la terre",
+        "Le fléau des sauterelles"
+      ],
+      "answer": "L'engloutissement par la terre"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "Le veau d'or",
+        "Les Trésors/Clés",
+        "Le puits de Zamzam"
+      ],
+      "answer": "Les Trésors/Clés"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "La royauté lui fut accordée",
+        "Sauvé de la destruction",
+        "Englouti par la terre",
+        "Il devint prophète",
+        "Décédé paisiblement"
+      ],
+      "answer": "Englouti par la terre"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

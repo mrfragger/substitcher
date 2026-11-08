@@ -1,0 +1,61 @@
+{
+  "title": "Terasete e e Neilweng Noka",
+  "intro": "Moya o ne o lebane le taelo e e neng e sa kgonege, mo botshelo jwa lesea le le sa tswang go tsholwa bo neng bo lepeletse mo tekatekanong. Ka go kaelwa ke tlhotlheletso ya bomodimo, taelo e e neng e tlhoka tsholofelo e ne ya ikobelwa, mme sephiri se se botlhokwa se ne sa bewa mo metsing, mme sa boelwa fela ka tsela e e neng e sa lebelelwa.",
+  "clues": [
+    "Ke ne ke tshela kafa tlase ga moriti wa mmusaesi yo o neng a laela gore go bolawe masea a a sa tswang go tsholwa a banna.",
+    "Tlhotlheletso ya selegodimo e ne ya tla mo go nna, ya ntaela gore ke tseye kgato e e itlhobogileng le e e tlhomolang pelo.",
+    "Ke ne ka baya lesea la me le le botlhokwa mo lebokosong mme ka le baya mo nokeng e e elelang.",
+    "Pelo ya me e ne ya nna lolea, mme ke ne ka batla ke senola sephiri, mme Allah o ne a nonotsha tshwetso ya me.",
+    "Ke ne ka romela mongwe go latela loeto lwa ngwana go ya kwa tlase ka moela o ne o rwala sehuba.",
+    "Ngwana o ne a bonwa ke ba ntlo ya mogateledi, mme kgabagare, ke ne ka kopanngwa gape le ngwanake mme ka nna mooki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Mmaagwe Moporofeti Musa",
+        "Asiya (Mosadi wa ga Faro)",
+        "Maryam (Mmaagwe Moporofeta Isa)",
+        "Mosadi wa ga Moporofeti Lute",
+        "Mme wa Moporofeta Yahya (mosadi wa Zakariya)"
+      ],
+      "answer": "Mmaagwe Moporofeti Musa"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O ne a baya ngwana wa gagwe mo lebokosong mme a le baya mo nokeng .",
+        "O ne a fitlha ngwana wa gagwe mo logageng",
+        "O latlhetse ngwana wa gagwe kwa sekakeng",
+        "O ne a latlhela ngwana wa gagwe mo molelong .",
+        "O tlogetse ngwana wa gagwe fa kgorong ya mosque"
+      ],
+      "answer": "O ne a baya ngwana wa gagwe mo lebokosong mme a le baya mo nokeng ."
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Letlole le le kokobetseng mo nokeng",
+        "Setlhatshana se se tukang",
+        "Lore lo lo neng lwa fetoga noga",
+        "Tafole e e neng e tletse ka dijo tse di tswang kwa legodimong",
+        "Kamela e namagadi e e rometsweng jaaka sesupo"
+      ],
+      "answer": "Letlole le le kokobetseng mo nokeng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O ne a kopanngwa gape le ngwana wa gagwe mme a mo amusa",
+        "Ga a ise a tlhole a bona ngwana wa gagwe gape .",
+        "O ne a bolawa ke mogateledi",
+        "O ne a nna kgosigadi kwa Egepeto",
+        "O ne a fudugela kwa nageng e nngwe mme a nna kwa botshwarwa"
+      ],
+      "answer": "O ne a kopanngwa gape le ngwana wa gagwe mme a mo amusa"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

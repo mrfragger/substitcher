@@ -1,0 +1,61 @@
+{
+  "title": "Lorategiko baztertua",
+  "intro": "Izaki misteriotsu bat bizi izan zen behin sorkuntzaren maila gorenetan, Jainkotik askok imajina dezaketena baino gertuago. Hala ere, harrokeriak errotu egin zen, eta desafio ekintza bakar batek aldatu zuen existentziaren bidea. Orain, izaki hau etsai zinpeko gisa dabil, xuxurlatzen eta konplotak egiten, agindutako eguna iritsi arte. Aurkitu al dezakezu eroritako honen nortasuna?",
+  "clues": [
+    "Behin Jainkoaren presentziatik hurbilen zeudenen artean nengoen, sorkuntzaren zati handi baten gainetik goratuta.",
+    "Elementu erretzaile batetik sortu ninduten, ez lur edo buztinetik.",
+    "Sorkuntza berri baten aurrean makurtzeko agindu zidatenean, uko egin nion — nire nagusitasuna zela uste nuenak bultzatuta.",
+    "Kanporatu eta madarikatu egin ninduten, baina azkenean barkamena eman zidaten, jakin den une jakin batera arte.",
+    "Ahalik eta gehien engainatuko nituela zin egin nuen, Adamen ondorengoei norabide guztietatik hurbilduz.",
+    "Gizateria osoaren etsai deklaratu eta irekia naiz, beti konspiratzen eta xuxurlatzen amaiera izendatu arte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Ilyas profeta",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Proba / Ekitaldia",
+      "options": [
+        "Adamen aurrean ahuspeztzeari uko egitea",
+        "Urrezko txahal bat eraikitzea jendeak gurtzeko",
+        "Babiloniako jendeari sorginkeria irakasten",
+        "Itsasoa makila batekin zatitzen",
+        "Sabako erreginaren tronua berehala eramanez"
+      ],
+      "answer": "Adamen aurrean ahuspeztzeari uko egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Eden lorategia",
+        "Tur mendia.",
+        "Rass-en putzua.",
+        "Faraoiaren jauregia.",
+        "Loti daudenen kobazuloa."
+      ],
+      "answer": "Eden lorategia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Atsedenaldia eman da Epaiketaren Egunera arte",
+        "Itsasoan itota armada batekin",
+        "Jauregi erortzen ari zenaren azpian bizirik lurperatuta",
+        "Tximino edo tximino bihurtuta",
+        "Maila altuago batera igoa"
+      ],
+      "answer": "Atsedenaldia eman da Epaiketaren Egunera arte"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

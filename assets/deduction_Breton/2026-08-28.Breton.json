@@ -1,0 +1,61 @@
+{
+  "title": "An harz en ti kozh",
+  "intro": "Er gêr sakr, un den galloudus o teviñ gant ar gounnar pa grogas ur gemennadenn nevez da vezañ skignet. An den-se, a zeuas e anv da vezañ keñveriet gant enebiezh ouzh ar wirionez, a welas e levezon o tistrujañ dindan pouez ar revelasion doueel. Piv e oa an ene-se, a oa bet siellet e zonkad e traezh un dachenn emgann brudet ?",
+  "clues": [
+    "Ur penn e-touez ma fobl e oan, anavezet evit ma pinvidigezh ha ma levezon en ur gêr ma oa ur santual kozh.",
+    "Pa grogas un den eus ma meuriad da embann ur gemennadenn diwar-benn un Doue hepken, em eus graet goap outañ hag eus e ziskuliadurioù, o lavarout e oant kontadennoù eus an amzer dremenet hepken.",
+    "En em gavout a ris ouzh an den-se e-keit ma oa o pediñ e-kichen ar savadur sakr, o c'houlenn paouez gant e azeulerezh dre nerzh ma vije ret.",
+    "E-touez ar pennoù a oa o klask sioulaat ar feiz nevez e oan, o stourm ouzh he heulierien gant komzoù hag armoù.",
+    "Kerzhout a ris gant un arme betek ul lec'h anvet Badr, fiziañs ennon e tistrujfemp ar strollad bihan a feizidi.",
+    "Met war an dachenn emgann-se e teuas ma buhez da benn, ha ma marv a zeuas da vezañ ur gentel evit ar re a gendalc'h da grediñ goude sinoù sklaer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Omayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "O virout ouzh ar profed da bediñ e Kaaba",
+        "Sevel ar C'haaba",
+        "Skrivañ ar C'horan",
+        "O ren arme an olifant",
+        "O rannañ al loar"
+      ],
+      "answer": "O virout ouzh ar profed da bediñ e Kaaba"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar C'haaba",
+        "Arc'h ar profed Nuh",
+        "Bazh ar profed Musa",
+        "Al Leue Aour",
+        "Tron Rouanez Saba"
+      ],
+      "answer": "Ar C'haaba"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Lazhet en emgann Badr",
+        "Keuz ha deuet da vezañ muzulman",
+        "Tec'het da Abisinia",
+        "Marvet e bloaz an Olifant",
+        "Deuet eo da vezañ kompagnunez d'ar Profed"
+      ],
+      "answer": "Lazhet en emgann Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

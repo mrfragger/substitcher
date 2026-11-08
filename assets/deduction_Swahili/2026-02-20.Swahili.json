@@ -1,0 +1,61 @@
+{
+  "title": "Shahidi wa Moto",
+  "intro": "Mtu mwenye dhati, aliyejitolea kufichua ukweli wa mwisho, alianza safari ya ugunduzi wa kiroho. Imani yao isiyoyumba iliwaongoza kupinga kanuni zilizowekwa, wakikabiliwa na majaribu makubwa yaliyojaribu mipaka ya imani. Hadithi ya roho hii ni ushuhuda wa ulinzi na mwongozo wa kimungu.",
+  "clues": [
+    "Nilibarikiwa na cheo cha pekee kutoka kwa Mola wangu, kikiashiria uhusiano wa kina na maalum.",
+    "Maisha yangu ya awali yalitumika miongoni mwa watu walioinama mbele ya sanamu zilizotengenezwa kwa mikono, lakini moyo wangu ulitamani Mungu Mmoja wa Kweli.",
+    "Niliangalia miili ya mbinguni, jua, mwezi, na nyota, nikitafakari kuinuka na kushuka kwake, nikihitimisha kwamba haiwezi kuwa Bwana wangu.",
+    "Katika kitendo cha kupinga ushirikina ulioenea, nilikabiliana na miungu ya uwongo, nikimuacha mmoja pekee, mkubwa zaidi akiwa amesimama kama mshtaki kimya.",
+    "Changamoto yangu ya kuabudu sanamu ilisababisha adhabu kali, kwani nilihukumiwa kutupwa kwenye moto mkali.",
+    "Hata hivyo, kwa amri ya Muumba wangu, miali mikali ilibadilika kuwa chanzo cha ubaridi na usalama, ikihifadhi maisha yangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Musa",
+        "Nabii Nuh",
+        "Nabii Ibrahimu",
+        "Nabii Isa",
+        "Nabii Yusufu"
+      ],
+      "answer": "Nabii Ibrahimu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuvuka Bahari Nyekundu",
+        "Gharika",
+        "Dhabihu ya Mwana",
+        "Msiba Mkali",
+        "Tumbo la Nyangumi"
+      ],
+      "answer": "Msiba Mkali"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Tarumbeta",
+        "Moto",
+        "Kisima"
+      ],
+      "answer": "Moto"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Waliwaongoza watu kwenye usalama",
+        "Alirithi ufalme mkubwa",
+        "Alimezwa na samaki",
+        "Niliokolewa kutokana na kuungua",
+        "Nilipokea vidonge"
+      ],
+      "answer": "Niliokolewa kutokana na kuungua"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

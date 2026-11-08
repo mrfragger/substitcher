@@ -1,0 +1,61 @@
+{
+  "title": "Velkolepé podrobení panovníka",
+  "intro": "Ocitáte se v zemi starověkých zázraků a hlubokých zjevení. Mocná vládkyně, tváří v tvář nečekanému pozvání, se vydala na cestu, která změnila běh jejího osudu a víru jejího lidu. Dokážete odhalit identitu této majestátní postavy?",
+  "clues": [
+    "Vládl jsem prosperujícímu království, ozdobenému nesmírným bohatstvím a velkolepým trůnem.",
+    "Můj lid i já jsme uctívali nebeské těleso a věřili, že je naším pánem, ačkoli jsem v srdci choval pochybnosti.",
+    "Zvláštní posel, pták, mi doručil dopis, v němž mě a můj lid vyzýval k podrobení se Jedinému Bohu.",
+    "Radil jsem se svými rádci, kteří byli nesmírně silní, o tom, jak reagovat na toto bezprecedentní poselství.",
+    "Rozhodl jsem se poslat cenný dárek tomu, kdo dopis poslal, v naději, že posoudím jeho moc a úmysly.",
+    "Po mém příjezdu mě ohromil palác se skleněnou podlahou, která vypadala jako vodní tůň, a tehdy jsem prohlásil, že se oddávám Pánu veškerého stvoření."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Faraon",
+        "Královna ze Sáby",
+        "Dhu al-Qarnayn",
+        "Lukmán",
+        "Prorok Jusuf"
+      ],
+      "answer": "Královna ze Sáby"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Rozdělení moře",
+        "Velká povodeň",
+        "Cesta za setkáním s prorokem Sulajmánem",
+        "Zničení Lutova lidu",
+        "Upálení proroka Ibráhíma"
+      ],
+      "answer": "Cesta za setkáním s prorokem Sulajmánem"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Archa",
+        "Zaměstnanci",
+        "Trůn",
+        "Hora",
+        "Oheň"
+      ],
+      "answer": "Trůn"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Stal se prorokem",
+        "Byl zničen Alláhem",
+        "Přijal islám",
+        "Vedla svůj lid do války",
+        "Postavil velkolepý chrám"
+      ],
+      "answer": "Přijal islám"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

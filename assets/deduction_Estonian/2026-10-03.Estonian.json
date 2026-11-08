@@ -1,0 +1,61 @@
+{
+  "title": "Valvamine leegitseva värava juures",
+  "intro": "Vaikne, aukartustäratav rahvahulk seisab hirmuärataval lävel valvamas, maitsmata kunagi toitu, jooki ega puhkust. Inimsavist erinevast ainest vormituna ootavad nad ühte ja sama kohutavat eesmärki – ja nad pole kunagi oma Issanda käsku eiranud.",
+  "clues": [
+    "Me oleme inimestest erinevad olendid, loodud ainest, mis ei söö, joo ega väsi.",
+    "Meie täpne arv on teada ja ilmutatud Raamatus – me ei ole ei lugematu arv ega hulk.",
+    "Me pole kunagi oma Loojale sõnakuulmatud ega räägi kunagi enne, kui meile on kästud.",
+    "Kui Päev kätte jõuab, aetakse uskmatud meie juurde gruppidena ja me avame neile väravad.",
+    "Me küsime neilt: „Kas teie juurde ei tulnud teiesuguste hulgast sõnumitoojaid, kes teid sellest päevast hoiatasid?“",
+    "Me valvame paika, kust ükski hing iial välja ei pääse – igavese karistuse lõõmavat valdust."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Põrgutule hoidjad (Zabaniyah)",
+        "Allahi trooni kandjad",
+        "Salvestusinglid (Kiraman Katibin)",
+        "Surmainglid",
+        "Paradiisi väravavahid"
+      ],
+      "answer": "Põrgutule hoidjad (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Meie peamine kohustus",
+      "options": [
+        "Põrgutule väravate valvamine",
+        "Iga inimliku teo jäädvustamine",
+        "Allahi trooni kandmine",
+        "Lahkunute hingede võtmine",
+        "Tuulte ja pilvede juhtimine"
+      ],
+      "answer": "Põrgutule väravate valvamine"
+    },
+    "location": {
+      "label": "Mida me valvame?",
+      "options": [
+        "Põrgutuli",
+        "Allahi troon",
+        "Tegude rullid",
+        "Paradiisi jõed",
+        "Maa mäed"
+      ],
+      "answer": "Põrgutuli"
+    },
+    "outcome": {
+      "label": "Meie valdustes olevate inimeste saatus",
+      "options": [
+        "Nad jäävad igaveseks ega lahku kunagi",
+        "Lõpuks antakse neile armu ja nad vabastatakse",
+        "Need puhastatakse aja jooksul",
+        "Need muunduvad teisteks vormideks",
+        "Nad vahelduvad põrgu ja paradiisi vahel"
+      ],
+      "answer": "Nad jäävad igaveseks ega lahku kunagi"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

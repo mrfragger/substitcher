@@ -1,0 +1,61 @@
+{
+  "title": "Na hÉisteoirí Folaithe a Chreid",
+  "intro": "I gciúnas cruinnithe naofa, tháinig tionól suntasach ó réimse dofheicthe. Meallta ag cogarnaigh faoi rud éigin iontach, d’éist siad le haithris a shéalódh a gcinniúint go deo. Tá a gcuid fianaise fós ar cheann de na cinn is uathúla i scrioptúr diaga.",
+  "clues": [
+    "Is créatúir muid ó réimse nach bhfeiceann formhór na ndaoine, agus tháinig muid mar ghrúpa.",
+    "Chuaigh muid i dtreo cruinnithe le rud éigin suntasach a chloisteáil.",
+    "Nuair a shroicheamar, d’éist muid le haithris a chuir iontas orainn.",
+    "D’admhaíomar go hoscailte go bhfuil cuid againn fíréanta agus cuid eile nach bhfuil.",
+    "Bhí a fhios againn nach bhféadfaimis éalú ón bhforána diaga ar talamh, ná trí eitilt suas san aer.",
+    "Nuair a chuala muid an treoir, chreid muid ann; ní bheidh eagla ar aon duine a chreideann ina Thiarna roimh chaillteanas ná ualach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Grúpa Jinn",
+        "Muintir Iram",
+        "Muintir Tubba'",
+        "Impireacht na Róimhe",
+        "Treibh na Quraysh"
+      ],
+      "answer": "Grúpa Jinn"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag éisteacht le haithris naofa",
+        "Ag tógáil piléir arda inár gcathair",
+        "Ag fiach camall baineann iontach",
+        "A bheith scriosta as ár bhfáithe a mharú",
+        "Ag iolrú saibhris thar thomhas"
+      ],
+      "answer": "Ag éisteacht le haithris naofa"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cruinniú aithriseoireachta naofa",
+        "Cathair na bpolún ard (Iram)",
+        "Tobar san fhásach",
+        "Pálás mór óir",
+        "Uaimh naofa sna sléibhte"
+      ],
+      "answer": "Cruinniú aithriseoireachta naofa"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Chreid muid agus thugamar rabhadh dár ndaoine",
+        "Scriosta ag pléascadh mór ón spéir",
+        "Pionósaithe ag gaoth loiscneach, millteach",
+        "Bronnadh saibhreas agus cumhacht ollmhór air",
+        "D’fhan sé daingean i ndíchreideamh"
+      ],
+      "answer": "Chreid muid agus thugamar rabhadh dár ndaoine"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

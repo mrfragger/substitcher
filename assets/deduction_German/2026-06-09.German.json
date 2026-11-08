@@ -1,0 +1,61 @@
+{
+  "title": "Der unerschütterliche Rufer zur Wahrheit",
+  "intro": "Ein Bote steht allein inmitten eines verstockten Volkes und ruft es zum einen wahren Gott, während es weiterhin falschen Götzen anhängt. Dieser Prophet trägt einen Namen von großer Bedeutung – „der Schutzsuchende“ –, erfährt aber nur Ablehnung und Verleugnung. Mit sanfter Überredung und eindringlicher Warnung verkündet diese Seele eine göttliche Botschaft, die das Universum selbst letztendlich bestätigen wird. Können Sie diese standhafte Gestalt identifizieren, die eine der ältesten Erzählungen der islamischen Schriften verkörpert?",
+  "clues": [
+    "Mein Volk verehrte viele Götter, während ich sie dazu aufrief, demjenigen zu dienen, der Himmel und Erde erschaffen hat.",
+    "Ich trat vor mein Volk und erklärte, dass ich von ihnen keine Belohnung erwarten würde – mein einziger Wunsch war ihre Führung zur Rechtschaffenheit.",
+    "Als göttliche Strafe wurde ein gewaltiger Wind über mein Volk gesandt, ein Wind, von dem im Koran sowohl in Plural- als auch in Femininumsform die Rede ist.",
+    "Im Gegensatz zu manchen Propheten wurden mir weder eine Frau noch Kinder zugeteilt, die in meiner Erzählung eine große Rolle spielen, denn meine Mission bestand darin, mein Volk allein zu rufen.",
+    "Mein Name hat eine tiefe Bedeutung – er steht im Zusammenhang mit dem Konzept von Schutz und Zuflucht, die man sucht.",
+    "Mein Volk war unter einem bestimmten geografischen Begriff für das Tal bekannt, das es bewohnte, und sein Land wurde mit besonderer Verachtung für seinen Mangel an Vegetation beschrieben."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Hud",
+        "Prophet Salih",
+        "Prophet Shu'aib",
+        "Prophet Nuh",
+        "Prophet Hudayb"
+      ],
+      "answer": "Prophet Hud"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Sintflut der Erde",
+        "Der sengende Wind",
+        "Das Erdbeben der Zerstörung",
+        "Die Dürre und die Hungersnot",
+        "Das Ertrinken im Meer"
+      ],
+      "answer": "Der sengende Wind"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das fruchtbare Tal des Jemen",
+        "Die Sandwüste von Midian",
+        "Das felsige Tal der Thamud",
+        "Das alte Land des Volkes von 'Ad",
+        "Die Küstenregion Ägyptens"
+      ],
+      "answer": "Das alte Land des Volkes von 'Ad"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Mein Volk bereute und ging ins Paradies ein",
+        "Keiner meiner Leute hat die Strafe überlebt.",
+        "Ich wurde lebend aufgenommen, genau wie mein Bruder Yunus.",
+        "Ich bin mit meinen Anhängern in ein gesegnetes Land ausgewandert.",
+        "Der Wind vernichtete nur die Ungläubigen, während die Gläubigen überlebten."
+      ],
+      "answer": "Keiner meiner Leute hat die Strafe überlebt."
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

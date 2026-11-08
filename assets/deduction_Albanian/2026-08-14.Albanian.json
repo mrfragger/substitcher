@@ -1,0 +1,61 @@
+{
+  "title": "Duart e Mallkuara",
+  "intro": "Ju qëndroni në rrugicat dredha-dredha të Mekës së lashtë, ku një shpirt me ndikim dhe pasuri dikur ia ktheu shpinën thirrjes së së vërtetës. Historia e kësaj figure është një kujtesë e fortë se lidhjet e gjakut nuk mund t'i kapërcejnë zinxhirët e krenarisë. Kush është ky, emri i të cilit jehon me zjarrin që pret?",
+  "clues": [
+    "Ecja rrugëve të Mekës me një krenari që më verbonte ndaj të vërtetës, megjithëse i dërguari ishte nga gjaku im.",
+    "Pasuritë e mia ishin të shumta, por ato u bënë mallkim në vend të mburojës.",
+    "Libri i udhëzimit flet për shkatërrimin tim, duke deklaruar se duart dhe personi im do të shkatërrohen.",
+    "Bashkëshorti/ja im/e iu bashkua fushatës sime të armiqësisë, duke mbledhur gjemba për t’i mbjellë në rrugën e atij/asaj që i thërriste Allahut.",
+    "Në ditën e gjykimit, unë do të zhytem në një zjarr flakërues dhe bashkëshortja ime do të ketë një litar prej fije palme rreth qafës.",
+    "Unë njihem me një emër që do të thotë 'babai i flakës' - një emër që parathotë vendbanimin tim të përjetshëm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Ebu Leheb",
+        "Ebu Xhehl",
+        "Ebu Talib",
+        "Ebu Sufjan",
+        "El-Valid ibn el-Mughira"
+      ],
+      "answer": "Ebu Leheb"
+    },
+    "trial": {
+      "label": "Provë ose Ngjarje Kyçe",
+      "options": [
+        "Kundërshtoi Profetin dhe u mallkua në Kuran",
+        "Udhëhoqi një ushtri për të shkatërruar Qaben",
+        "U përpoq ta vriste Profetin duke hedhur gurë",
+        "Refuzoi të besonte në ndarjen e hënës",
+        "Ndërtoi një kullë për të arritur qiellin"
+      ],
+      "answer": "Kundërshtoi Profetin dhe u mallkua në Kuran"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Zjarri flakërues i Ferrit",
+        "Shkopi i Musës",
+        "Arka e Nuhut",
+        "Pusi i Zemzemit",
+        "Viçi i Artë"
+      ],
+      "answer": "Zjarri flakërues i Ferrit"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Ai do të hyjë në Zjarrin flakërues dhe pasuria e tij nuk do t’i bëjë dobi.",
+        "Ai u pendua dhe u bë besimtar",
+        "Ai u fal pasi u tërhoq nga besimi.",
+        "Ai vdiq si martir",
+        "Ai u ngrit lart në qiell"
+      ],
+      "answer": "Ai do të hyjë në Zjarrin flakërues dhe pasuria e tij nuk do t’i bëjë dobi."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

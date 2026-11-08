@@ -1,0 +1,61 @@
+{
+  "title": "O Arquiteto da Falsa Ambição",
+  "intro": "Uma figura de grande autoridade serviu outrora a um dos tiranos mais notórios da história do antigo Egito. A esse indivíduo foi confiada uma missão audaciosa: construir uma estrutura que desafiasse os céus. Sua história, narrada no Alcorão, serve como uma lição marcante sobre como a obediência cega à arrogância leva apenas à ruína.",
+  "clues": [
+    "Eu servi na corte de um governante poderoso que reivindicava divindade sobre as terras.",
+    "Ocupei um alto cargo ministerial, aconselhando o tirano mais arrogante da minha época.",
+    "Meu governante estava obcecado em desafiar o Deus de Moisés, a quem eles se recusavam a reconhecer.",
+    "Recebi a ordem de construir uma torre de tijolos cozidos no fogo para que meu governante pudesse ascender aos céus.",
+    "A torre jamais alcançou o céu, e minha servidão à arrogância me trouxe eterna desgraça.",
+    "Pereci junto com aquele a quem segui, e meu nome tornou-se um aviso permanente contra aqueles que apoiam tiranos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Haman",
+        "Azar (pai de Ibrahim)",
+        "Ilíadas (um profeta)",
+        "Dhu al-Kifl",
+        "Harut (um dos dois anjos da Babilônia)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Receberam a ordem de construir uma estrutura imponente que alcançasse os céus.",
+        "Pediram-me para interpretar um sonho enviado pelo divino.",
+        "Atirado em um fogo ardente como prova de fé.",
+        "Obrigados a escolher entre o trono e a verdade.",
+        "Desafiado em uma competição de feitiçaria"
+      ],
+      "answer": "Receberam a ordem de construir uma estrutura imponente que alcançasse os céus."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma torre de tijolos cozidos no fogo",
+        "Um cajado que se transformou em serpente.",
+        "Um navio navegando por uma grande enchente",
+        "Um jardim cercado por altos muros.",
+        "Um trono adornado com rubis e ouro."
+      ],
+      "answer": "Uma torre de tijolos cozidos no fogo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado junto com o opressor no mar",
+        "Tornou-se um poderoso monarca de vastas terras.",
+        "Escapou ileso de um incêndio devastador.",
+        "Construiu um próspero reino de sabedoria.",
+        "Reencontrei minha família após anos de exílio."
+      ],
+      "answer": "Afogado junto com o opressor no mar"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi Mpole Miongoni mwa Manabii",
+  "intro": "Sauti inayoita watu watende haki inasikika katika aya za Quran Tukufu. Nafsi hii iliyobarikiwa ilipewa unabii na maandiko matakatifu wakati ambapo mwongozo ulihitajika sana miongoni mwa Wana wa Israeli. Mtu huyu alizungumza moja kwa moja na watu wake, akiwahimiza kumkumbuka Mola wao. Kwa uvumilivu na kujitolea, wakawa taa ya mwanga ambayo hadithi yake inaangazia kurasa za maandiko matakatifu. Je, unaweza kumtambua mtu huyu wa ajabu ambaye jina lake linaheshimiwa katika Quran na Injili?",
+  "clues": [
+    "Niliheshimiwa kwa unabii na kitabu cha mbinguni wakati wa mahitaji ya watu wangu.",
+    "Mama yangu alinizaa kwa njia ya ajabu, kupitia amri ya Mwenyezi Mungu pekee.",
+    "Niliwahutubia watu wangu, nikisema, 'Enyi Wana wa Israeli! Mimi ni Mtume wa Mwenyezi Mungu kwenu, ninayethibitisha yaliyotangulia.'",
+    "Nimekuja na ishara zilizo wazi kutoka kwa Mola wako, nikileta habari njema za nabii ambaye jina lake litakuwa Ahmad.",
+    "Mama yangu alikuwa mwanamke mwadilifu aliyenitoa kwa ajili ya utumishi wa Mwenyezi Mungu tangu ujana wangu.",
+    "Mwenyezi Mungu alinifundisha Quran na akanifanya niwe na huruma na mcha Mungu kwa mama yangu, na sikuwa na kiburi au mtiifu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Zakaria",
+        "Nabii Isa ibn Maryam",
+        "Mtume Muhammad ﷺ",
+        "Nabii Daudi",
+        "Nabii Yunus"
+      ],
+      "answer": "Nabii Isa ibn Maryam"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alijenga Hekalu huko Yerusalemu",
+        "Nilizungumza katika utoto wangu nikiwa mtoto mchanga",
+        "Alibeba Sanduku la Agano",
+        "Aliwaongoza watu wa Midiani",
+        "Alisafiri kwenda Ninawi"
+      ],
+      "answer": "Nilizungumza katika utoto wangu nikiwa mtoto mchanga"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mji wa Yerusalemu",
+        "Eneo la Bethlehemu",
+        "Nyumba ya Zakariyya",
+        "Mlima Sinai",
+        "Bonde la Baca"
+      ],
+      "answer": "Nyumba ya Zakariyya"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alichukuliwa mbinguni akiwa kimwili",
+        "Alipimwa ukoma kwa miaka mingi",
+        "Kujengwa hekalu kubwa kwa ajili ya ibada",
+        "Aliwarudisha Waisraeli kwenye imani",
+        "Aligawanya bahari kwa fimbo"
+      ],
+      "answer": "Alichukuliwa mbinguni akiwa kimwili"
+    }
+  },
+  "verseRef": "61:6",
+  "arabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+  "verse": "And [mention] when Jesus, the son of Mary, said, \"O Children of Israel, indeed I am the messenger of Allāh to you confirming what came before me of the Torah and bringing good tidings of a messenger to come after me, whose name is Aḥmad.\" But when he came to them with clear evidences, they said, \"This is obvious magic.\" (61:6)"
+}

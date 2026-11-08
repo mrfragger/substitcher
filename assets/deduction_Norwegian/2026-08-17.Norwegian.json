@@ -1,0 +1,61 @@
+{
+  "title": "Overtredelsen ved kysten",
+  "intro": "Du står på sanden på en glemt strand, der bølgene hvisker om et samfunn som er blitt prøvet av en guddommelig befaling. Luften er tung av minnet om et brudd som førte til en oppsiktsvekkende forvandling. Hvem var disse sjelene, og hva var prøvelsen deres?",
+  "clues": [
+    "Vi var et samfunn som mottok et klart bud fra vår Herre, men vi fant måter å trosse det på.",
+    "Vi bodde i nærheten av et vann, og levebrødet vårt var avhengig av skapningene der.",
+    "Vi ble møtt med en prøve den dagen vi ble befalt å avstå fra verdslige sysler.",
+    "Vanndyrene kom til oss i stort antall den dagen og fristet oss over all makt.",
+    "Vi tenkte ut et utspekulert triks for å omgå den guddommelige ordren, i den tro at vi kunne overliste dekretet.",
+    "Vår overtredelse førte til en ydmykende forvandling; vi ble foraktede aper etter Allahs befaling."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Sabbatens folk",
+        "Folket i Rass",
+        "Folket i Tubba",
+        "Folket i hulen",
+        "Grøftens følgesvenner"
+      ],
+      "answer": "Sabbatens folk"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Fiskens utseende på sabbaten",
+        "Et år med alvorlig tørke",
+        "En hær av fugler sendt mot dem",
+        "En flom som overveldet dem",
+        "Et voldsomt jordskjelv"
+      ],
+      "answer": "Fiskens utseende på sabbaten"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Havet",
+        "Et fjell",
+        "En hule",
+        "En ørkendal",
+        "En befestet by"
+      ],
+      "answer": "Havet"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Forvandlet seg til aper",
+        "Svelget av jorden",
+        "Ødelagt av en skrikende vind",
+        "Druknet i havet",
+        "Truffet av en steinskur"
+      ],
+      "answer": "Forvandlet seg til aper"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

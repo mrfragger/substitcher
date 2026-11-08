@@ -1,0 +1,61 @@
+{
+  "title": "Pemohon di Tempat Suci",
+  "intro": "Di saat-saat sunyi malam, seorang jiwa yang taat berseru kepada Yang Maha Penyayang di dalam tembok suci sebuah tempat keramat. Bertahun-tahun iman dan kesabaran yang tak tergoyahkan akan segera diberi imbalan berupa mukjizat yang akan membawa sukacita dan warisan kenabian.",
+  "clues": [
+    "Aku menghabiskan siang dan malamku dalam ibadah di dalam tempat suci, terus-menerus memohon kepada Tuhanku.",
+    "Aku menjadi tua, dan istriku mandul, namun aku tidak pernah kehilangan harapan akan rahmat Allah.",
+    "Aku dikaruniai seorang putra, bernama Yahya, yang menjadi seorang nabi dan mercusuar kebenaran.",
+    "Aku sendiri adalah seorang nabi, yang diutus untuk membimbing Bani Israel.",
+    "Saya adalah keturunan Nabi Harun dan bertugas sebagai imam di Bait Suci.",
+    "Saya dipercayakan untuk merawat Maryam, ibu dari Isa, dan menyaksikan mukjizat-mukjizatnya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Zakaria",
+        "Nabi Yahya",
+        "Nabi Ilyas",
+        "Nabi Ishaq",
+        "Nabi Ya'qub"
+      ],
+      "answer": "Nabi Zakaria"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Dikaruniai seorang putra di usia tua",
+        "Selamat dari kobaran api yang dahsyat.",
+        "Diselamatkan dari dalam perut ikan",
+        "Selamat dari banjir besar",
+        "Sembuh dari penyakit parah"
+      ],
+      "answer": "Dikaruniai seorang putra di usia tua"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Mihrab (ceruk tempat shalat)",
+        "Ka'bah",
+        "Semak yang Terbakar",
+        "Tabut Perjanjian",
+        "Gua Tujuh Orang Tidur"
+      ],
+      "answer": "Mihrab (ceruk tempat shalat)"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diberikan seorang putra yang saleh yang menjadi seorang nabi",
+        "Hancur akibat badai dahsyat",
+        "Tenggelam di laut",
+        "Terhindar dari kebakaran",
+        "Kembali kepada kaum mereka setelah diselamatkan dari seekor ikan."
+      ],
+      "answer": "Diberikan seorang putra yang saleh yang menjadi seorang nabi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

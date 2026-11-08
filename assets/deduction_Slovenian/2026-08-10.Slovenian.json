@@ -1,0 +1,61 @@
+{
+  "title": "Varuhi skrivne žetve",
+  "intro": "V zeleni deželi je skupina posameznikov pod okriljem teme skovala skrivni načrt. Imeli so skupni namen, a njihov namen je bil daleč od pravičnega. Niso pa vedeli, da jih med spanjem čaka božanski preobrat.",
+  "clues": [
+    "Trdno smo se odločili, saj smo mislili, da je naš načrt brezhiben.",
+    "Nameravali smo iti ven zgodaj, še preden bi se drugi sploh lahko premaknili.",
+    "Odpravili smo se na rodovitno parcelo, prepričani v svoje zaloge.",
+    "Ko smo prispeli na cilj, smo ga našli pustega in zapuščenega, zato smo mislili, da smo se izgubili.",
+    "Potem smo spoznali, da je to res najin kraj, in smo v obupu zavpili ter drug drugega krivili za svojo izgubo.",
+    "Tisto jutro smo prisegli, da bomo revne izključili iz naše žetve, toda Alahova kazen nas je doletela med spanjem in naš vrt spremenila v ruševino."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Lastniki vrta v suri 68",
+        "Prebivalci Sabe",
+        "Spremljevalci jame",
+        "Ljudje slona",
+        "Ljudje iz jarka"
+      ],
+      "answer": "Lastniki vrta v suri 68"
+    },
+    "trial": {
+      "label": "Naše sojenje",
+      "options": [
+        "Naš vrt je uničila nesreča z neba",
+        "Naš vrt je odnesla poplava",
+        "Naš vrt je požgal sovražnikov ogenj",
+        "Naš vrt je bil poln kobilic",
+        "Naš vrt je pogoltnil potres"
+      ],
+      "answer": "Naš vrt je uničila nesreča z neba"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Prisegli smo, da bomo zjutraj obirali njegove plodove",
+        "Zgradili smo jez za namakanje našega vrta",
+        "Za zaščito smo se zatekli v jamo",
+        "Pripravili smo vojsko za osvojitev kraljestva",
+        "Z ladjo smo pluli, da bi prečkali morje"
+      ],
+      "answer": "Prisegli smo, da bomo zjutraj obirali njegove plodove"
+    },
+    "outcome": {
+      "label": "Naša usoda",
+      "options": [
+        "Pokesali smo se in upali na milost od Alaha",
+        "Bili smo popolnoma uničeni in se nikoli nismo pokesali",
+        "Zbežali smo iz dežele in se nikoli nismo vrnili",
+        "Spet smo postali močni in bogati",
+        "Kaznovali so nas tako, da so nas spremenili v opice"
+      ],
+      "answer": "Pokesali smo se in upali na milost od Alaha"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

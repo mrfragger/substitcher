@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaiwhakatakoto Kōrero Huna",
+  "intro": "Ka kitea koe i te aroaro o tētahi tangata whai mana o ngā rā o te whakakitenga. I mōhiotia tēnei tangata mō tōna hinengaro, mō tōna taonga, me tōna mana i roto i tō rātou iwi. I te taenga mai o ngā tohu mārama, i kite rātou i te ataahua, engari i whiriwhiria e rātou te whakakeke i te ngohengohe. He aha te mea i akiaki i tēnei wairua ki te whakatakoto mahere i roto i te pōuri, ā, he aha te mutunga iho?",
+  "clues": [
+    "I manaakitia ahau ki ngā rauemi maha me te mana nui, ā, i taimaha ai taku kupu i roto i ngā whakaminenga.",
+    "I te whakahuatanga o ngā kupu a te atua, kāore i taea e au te whakakore i tō rātou pūkenga kōrero, engari kāore tōku whakapehapeha i tuku i ahau kia ngohengohe.",
+    "I huihuia e au aku kaitohutohu, ka noho motuhake ahau ki te whakaaroaro i tētahi huarahi hei whakahē i te karere.",
+    "I muri i taku whakaaroaro roa, ka kī ahau he 'makutu tuku iho mai i ngā rā o mua' hei pana i te iwi.",
+    "Kātahi ka puta te whakakitenga ki ahau: 'Waiho ahau me te mea i hanga e au.' I tohua ahau mō taku mahi tinihanga.",
+    "Kāore e roa, ka hopukia tōku rae e te ahi i whakatūpatotia ai ahau, ā, kāore he mawhiti mōku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Āpu Rāhapi",
+        "Āpu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakatakoto mahere hei kōhuru i te Poropiti",
+        "I ārahi i tētahi whakahē i ngā Mahometa",
+        "I huihuia he kaunihera hei tohu i te Quran he makutu",
+        "I whakatakoto mahere kia peia te Poropiti i Makkah",
+        "I whakakahore ki te tohatoha i ana taonga ki ngā pani"
+      ],
+      "answer": "I huihuia he kaunihera hei tohu i te Quran he makutu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Whakakitenga",
+        "Te Kaunihera",
+        "Te Raka",
+        "Te Taonga",
+        "Te Pene"
+      ],
+      "answer": "Te Raka"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I ripeneta ia, ā, i tahuri ki te Ihirama",
+        "I heke ia ki Āpihia",
+        "I pāngia ia e te mate kino",
+        "I mate ia i te pakanga ki ngā Mahometa",
+        "I whiua ia ki te Ahi Reinga"
+      ],
+      "answer": "I whiua ia ki te Ahi Reinga"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

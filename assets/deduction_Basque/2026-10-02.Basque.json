@@ -1,0 +1,61 @@
+{
+  "title": "Lurraren muturrak zeharkatu zituen subiranoa",
+  "intro": "Imajinatu agintari boteretsu bat, lurraldearen gaineko indarra eta autoritatea duena. Pertsonaia honek bidaia apartekoak egin zituen, eguzkia sartzen den lekura eta irteten den lekura iritsiz, herri arraroekin topo eginez eta bi nazio ustelen erronka handi bati aurre eginez. Nor da lider enigmatiko hau?",
+  "clues": [
+    "Lurraren txoko urrunenetara iristeko agintea eta baliabideak zituen agintari bat nintzen.",
+    "Mendebalderantz bidaiatu nuen eta udaberri ilun batean eguzkia sartzen ikusi nuen.",
+    "Eguzkiaren berotik babesik ez zuen jende batekin topo egin nuen.",
+    "Beste komunitate batek laguntza eskatu zidan Gog eta Magog izeneko bi nazio ustelen aurka.",
+    "Burdina eta kobre urtua erabiliz hesi bat eraiki nuen haiek edukitzeko.",
+    "Adierazi nuen hesi hau nire Jaunaren erruki bat zela, eta izendatutako garaira arte iraungo duela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Sulaiman profeta",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gog eta Magogen aurkako hesi bat eraikitzea",
+        "Uholde handi bati bizirautea",
+        "Sutara botata egotea.",
+        "Itsasoa zeharkatzen.",
+        "Erraldoi baten aurka borrokan"
+      ],
+      "answer": "Gog eta Magogen aurkako hesi bat eraikitzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Burdin eta kobrezko hesi bat",
+        "Suge bihurtu zen makila",
+        "Egurrezko itsasontzi bat.",
+        "Kristalezko jauregia.",
+        "Datil palmondoen lorategi bat"
+      ],
+      "answer": "Burdin eta kobrezko hesi bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gog eta Magog garai izendatu arte atxikita egon ziren",
+        "Profeta bihurtu zen.",
+        "Harrokeriagatik zigortu zuten.",
+        "Mundu osoa konkistatu zuen.",
+        "Betiko bizi izan zen."
+      ],
+      "answer": "Gog eta Magog garai izendatu arte atxikita egon ziren"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

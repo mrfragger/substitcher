@@ -1,0 +1,61 @@
+{
+  "title": "Priecīgā vēsts vecumdienās",
+  "intro": "Jūs esat liecinieki brīdim, kad atdzimst cerība. Pāris, kas jau sen ir vecāks, saņem solījumu, kas nepakļaujas dabas likumiem. Viņu vidū stāv persona, kuras eksistence pati par sevi ir dievišķās žēlastības zīme – dvēsele, kas lemta pravietei, nesot mantojumu, kas pārsniegs paaudzes. Kas ir šī ievērojamā persona?",
+  "clues": [
+    "Esmu dzimis vecākiem, kuri bija sasnieguši sirmu vecumu un kuriem nebija bērnu.",
+    "Manu dzimšanu paziņoja eņģeļi, kas ieradās kā viesi manā ģimenē.",
+    "Man tika dota gudrība un pravietiskums, un esmu pieminēts starp pacietīgajiem.",
+    "Manu tēvu sauca par Allāha draugu, un es biju viņam kā dāvana viņa vēlākajos gados.",
+    "Man bija brālis, kurš arī bija pravietis, un mēs abi tikām svētīti no mūsu Kunga.",
+    "Arī mans dēls bija pravietis, un maniem pēcnācējiem tika doti Svētie Raksti un pravietība."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Išaks (Īzāks)",
+        "Pravietis Ismaēls (Išmaēls)",
+        "Pravietis Jakubs (Jēkabs)",
+        "Pravietis Jahja (Jānis)",
+        "Pravietis Uzairs (Ezra)"
+      ],
+      "answer": "Pravietis Išaks (Īzāks)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Dzimis vecāka gadagājuma vecākiem",
+        "Iemests ugunī",
+        "Dāvāta valstība un bagātība",
+        "Izveda savu tautu no Ēģiptes",
+        "Uzcēla šķirstu, lai glābtu ticīgos"
+      ],
+      "answer": "Dzimis vecāka gadagājuma vecākiem"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Dēla priecīgā vēsts",
+        "Degošais krūms",
+        "Zelta teļš",
+        "Derības šķirsts",
+        "Pravietības spieķis"
+      ],
+      "answer": "Dēla priecīgā vēsts"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva par pravieti ar praviešu dzimtu",
+        "Kļuva par bagātu karali",
+        "Viņa tauta tika iznīcināta neticības dēļ",
+        "Viņš tika izglābts no ugunsgrēka",
+        "Viņam tika dota spēja runāt jau zīdaiņa vecumā"
+      ],
+      "answer": "Kļuva par pravieti ar praviešu dzimtu"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

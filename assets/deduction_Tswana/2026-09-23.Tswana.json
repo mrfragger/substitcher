@@ -1,0 +1,61 @@
+{
+  "title": "Pitso e e neng ya emelana le dingwaga",
+  "intro": "Akanya fela moya o o neng o eme o le esi kgatlhanong le tlhabologo yotlhe, o ikemiseditse go ba kaela gore ba boele morago go tswa mo go timeleng ka tshwetso e e sa reketleng. Ka makgolokgolo a dingwaga, molaetsa o ne wa ganwa, wa sotliwa le go kgaphelwa thoko—le fa go ntse jalo maiteko ao ga a ise a ko a kgaotse. Kgabagare, go ne ga tla palo e kgolo, mme ke ba le mmalwa fela ba ba neng ba palama poloko go bapa le moya ono o o tlhomameng. A o ka kgona go lemoga palo eno go tswa mo Quran?",
+  "clues": [
+    "Ke rometswe ke le motlhagisi wa batho ba ba latlhegileng mo ditseleng tsa bone.",
+    "Ke ne ka ba laletsa gore ba batle maitshwarelo le go boela morago mo diphosong tsa bone, mme ba ne ba boela morago.",
+    "Ka taelo ya Modimo, ke ne ka aga sekepe se segolo thata fa batho ba gaetsho ba ntse ba ntebile e bile ba ntshotla.",
+    "Ke ne ka bitsa Morena wa me ke sa kgaotse—kgabagare O ne a araba, mme metsi a tshologa go tswa kwa loaping ka melatswana.",
+    "Ke ne ka palama sekepe le ba ba neng ba dumela fa metsi a morwalela a ne a tlhatlogela kwa godimo ga lefatshe.",
+    "Ke ne ka goela mongwe yo o neng a saletse kwa morago, ke ba kopa gore ba tshabele kwa thabeng, mme taelo e ne e setse e fetile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Nuh",
+        "Moporofeti Ibrahime",
+        "Moporofeti Musa",
+        "Moporofeti Hud",
+        "Moporofeti Salih"
+      ],
+      "answer": "Moporofeti Nuh"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go aga araka e kgolo le go falola morwalela wa lefatshe lotlhe",
+        "Go latlhelwa mo molelong o o tukang",
+        "Go lebana le mmusaesi le maselamotse a gagwe a a nonofileng",
+        "Go mediwa ke tlhapi e kgolo",
+        "Go bona kamela e namagadi e e boitshepo e bolawa"
+      ],
+      "answer": "Go aga araka e kgolo le go falola morwalela wa lefatshe lotlhe"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka e kgolo ya logong mo godimo ga metsi a morwalela a a galefileng",
+        "Mokgatšha o o boitshepo o o nang le marope a bogologolo a matlapa",
+        "Logaga lo lo boteng lo ditsala di neng di robala mo go lone ka makgolokgolo a dingwaga",
+        "Mpa ya leruarua le legolo mo boteng jwa lewatle",
+        "Thaba e e kwa godimo ya maje mo sekakeng"
+      ],
+      "answer": "Areka e kgolo ya logong mo godimo ga metsi a morwalela a a galefileng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O pholositswe le badumedi mo sekepeng",
+        "O pholositswe mo molelong a sa gobala ka taelo ya bomodimo",
+        "O ne a etelela pele khudugo e kgolo go tswa mo bogosing jo bo nonofileng",
+        "Latlhelwa kwa ntle ga tlhapi mo lotshitshing lo lo se nang sepe",
+        "O ne a gogela batho kgakala le go dira bosula ka sesupo sa kgakgamatso"
+      ],
+      "answer": "O pholositswe le badumedi mo sekepeng"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

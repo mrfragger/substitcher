@@ -1,0 +1,61 @@
+{
+  "title": "Waamicha Dhugaa Hin Raafamne",
+  "intro": "Ergamaan tokko ummata mata jabeessa gidduu kophaa isaa dhaabbatee, gara Waaqa Tokkicha Dhugaatti isaan waama, osoo isaan waaqa tolfamaa sobaatti maxxananii hafan. Raajichi kun maqaa hiika cimaa qabuun sagalee dhageessisu qaba—‘nama eegumsa barbaadu’—ta’us garuu diduu fi ganuu qofa argata. Lubbuun kun amansiisuu lallaafaa fi akeekkachiisa cimaatiin ergaa waaqummaa kan dhumarratti uumamni cufti ofii isaatii mirkaneessu qabattee deemti. Nama jabaa kana kan seeneffama durii keessaa tokko kan bakka bu’u macaafa Islaamaa keessatti adda baasuu dandeessaa?",
+  "clues": [
+    "Sabni koo waaqolii hedduu kan waaqeffatu yoo ta’u, ani immoo isa samii fi dachii uume akka tajaajilaniif isaan waame.",
+    "Saba koo dura dhaabadhee badhaasa tokkollee isaan irraa akkan hin barbaanne labse-fedhiin koo qajeelummaatti qajeelchuu isaanii qofa ture.",
+    "Qilleensi guddaan akka adabbii waaqaatti saba koo irratti ergame, qilleensi Qur’aanni bifa dachaa fi dubaraatiin waa’ee isaa dubbata.",
+    "Ergamni koo saba koo qofa bilbiluu waan ta’eef, akka raajota tokko tokkootti haadha manaa ykn ijoollee seeneffama koo keessatti bakka guddaadhaan caqafaman naaf hin kennamne.",
+    "Maqaan koo hiika gadi fagoo qaba-yaad-rimee eegumsaa fi baqannaa namni barbaadu wajjin wal qabata.",
+    "Sabni koo gammoojjii isaan keessa jiraataniif jecha teessuma lafaa adda ta’een kan beekaman yoo ta’u, lafti isaaniis biqiltoota dhabuu isaatiin tuffii addaatiin ibsama ture."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Hud",
+        "Nabi Saalih",
+        "Nabi Shu'aib",
+        "Nabi Nuh",
+        "Nabi Hudaayib"
+      ],
+      "answer": "Nabi Hud"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Lolaan lafaa",
+        "Qilleensi gubaa jiru",
+        "Kirkira lafaa badiisa",
+        "Gogiinsa fi beela",
+        "Galaana keessatti liqimfamuu"
+      ],
+      "answer": "Qilleensi gubaa jiru"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Gammoojjii lalisaa Yaman",
+        "Gammoojjii cirrachaa Miidiyaan",
+        "Gammoojjii dhagaa Thamud",
+        "Lafa durii ummata 'Ad",
+        "Naannoo qarqara galaanaa Gibxii"
+      ],
+      "answer": "Lafa durii ummata 'Ad"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Sabni koo towbatee jannata seene",
+        "Ummanni koo tokkollee adabbii irraa hafe hin jiru",
+        "Ani akkuma obboleessa koo Yunus lubbuun ol fudhatame",
+        "Hordoftoota koo waliin gara biyya eebbifamtuutti godaane",
+        "Qilleensi kaafiroota qofa balleessee osoo amantoonni lubbuun hafan"
+      ],
+      "answer": "Ummanni koo tokkollee adabbii irraa hafe hin jiru"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

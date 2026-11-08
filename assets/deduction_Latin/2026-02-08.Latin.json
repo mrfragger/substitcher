@@ -1,0 +1,60 @@
+{
+  "title": "Aenigma Throni Distantis",
+  "intro": "Rex potens, imperio extraordinario ornatus, certamini singulari, regina ex terra longinqua, obviam ivit. Rex, vim divinam et sapientiam demonstrare conatus est, eventum incredibilem, qui leges temporis et spatii superabat, in motum incitans. Potesne huius miraculosi eventus singula deducere?",
+  "clues": [
+    "Rectori potestas ingens concessa est, inter quas imperium super entia invisibilia et facultas ventos imperandi.",
+    "Hic princeps nuntium de regina diviti, quae solem colebat, accepit, et eam ad aulam invitare constituit.",
+    "Ante adventum reginae, princeps desiderium expressit ut magnificam potestatis eius sedem ex regno suo longinquo adduceret.",
+    "Jinn potens se rem recuperaturum obtulit antequam princeps e concilio suo surgere posset.",
+    "Attamen, qui profundam divinarum Scripturarum cognitionem praeditus erat, celeriorem etiam recuperationem obtulit, negotium momento oculi perficiens.",
+    "Quo adveniente, princeps mandavit ut rem mutaretur, ut intellectum et sensum reginae exploraret cum tandem ad palatium pervenisset."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Propheta/Persona",
+      "options": [
+        "Prophet Musa",
+        "Prophet Dawud",
+        "Prophet Ibrahim",
+        "Propheta Iosue",
+        "Propheta Sulayman"
+      ],
+      "answer": "Propheta Sulayman"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Scissio Maris",
+        "Patientia in Adversis",
+        "Aedificatio Kaabae",
+        "Experimentum Hortorum",
+        "Adferens thronum reginae"
+      ],
+      "answer": "Adferens thronum reginae"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Mons",
+        "Puteus",
+        "Thronus"
+      ],
+      "answer": "Thronus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Magnum sacrificium",
+        "Regnum constitutum",
+        "Populus punitus",
+        "Novum foedus",
+        "Submissio Reginae ad Allah"
+      ],
+      "answer": "Submissio Reginae ad Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

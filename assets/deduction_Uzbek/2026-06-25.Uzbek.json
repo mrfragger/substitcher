@@ -1,0 +1,61 @@
+{
+  "title": "G'aybdan kelgan tinglovchilar",
+  "intro": "Ko'rinadigan dunyo pardasi ortida, zulmatda yashirin bir guruh to'planib, ular bilgan barcha narsalarga qarshi chiqadigan tovushga jalb qilindi. Ular uzoq vaqt davomida haqiqiy yo'l-yo'riqsiz adashib yurishdi, toki bir ovoz ularning ko'rinmas olamining sukunatini teshib o'tib, ichlarida chuqur bir narsani qo'zg'atmaguncha. Bugun kechqurun sizni soyalardan nariga o'tishga va ilohiy so'zlar bilan uchrashish ularni o'z xalqiga qaytarib bo'lmaydigan haqiqatning ogohlantiruvchisi sifatida qaytargan bu sirli guruhning kimligini ochib berishga taklif qilamiz.",
+  "clues": [
+    "Biz qadimgi mavjudotlarmiz, siz o'qigan ko'plab xalqlardan ancha oldin mavjud bo'lganmiz, ammo biz haqimizda insoniy ertaklarda kamdan-kam tilga olinadi.",
+    "Bizning tabiatimiz siznikidan farq qiladi, ko'rinmas elementlardan to'qilgan va bizda oddiy narsalarga qarshi turadigan kuchlar bor.",
+    "Biz uzoq vaqt davomida haqiqiy yo'l-yo'riqsiz kezib yurdik, toki ichimizda chuqur bir narsani qo'zg'atadigan bir tovush yetib kelguncha.",
+    "Biz hech qachon eshitmagan, har qanday nutqdan ustun bo'lgan og'ir so'zlarni tasodifan eshitdik.",
+    "Biz yashirincha bir-birimizga yaqinlashdik, o'zimizga jim bo'lishni buyurdik va oyatlar tugagach, jim turolmadik.",
+    "Biz qavmimiz oldiga qaytib: \"Ey qavmimiz, biz Musodan keyin nozil qilingan, o'zidan oldingi kitoblarni tasdiqlovchi va haqiqatga hidoyat qiluvchi bir kitobni eshitdik\", dedik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Havoriyyun (Iso alayhissalomning shogirdlari)",
+        "Qur'onni eshitgandan keyin iymon keltirgan jinlar",
+        "G'or egalari",
+        "Eng past osmonning farishtalari",
+        "Fir'avnning yo'lidan ergashgan qavmi"
+      ],
+      "answer": "Qur'onni eshitgandan keyin iymon keltirgan jinlar"
+    },
+    "trial": {
+      "label": "Sinov / Tadbir",
+      "options": [
+        "Biz yangi yaratilgan mavjudot oldida bosh egishdan bosh tortganimiz uchun quvib chiqarildik",
+        "Biz uch yuz to'qqiz yil davomida g'orda muhrlangan edik",
+        "Bizga oldimizda ikkiga bo'lingan dengizni kesib o'tish buyurilgan edi",
+        "Biz sehrgarlik yurtiga sehrgarlikni o'rganish uchun yuborilganmiz",
+        "Biz yashirincha tilovat tingladik va u tufayli o'zgarib ketdik"
+      ],
+      "answer": "Biz yashirincha tilovat tingladik va u tufayli o'zgarib ketdik"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Bir xalqning bezaklaridan yasalgan oltin buzoq",
+        "Uyqu avlodlar davomida davom etgan g'or",
+        "Bobilda taqiqlangan ilmlarni o'rgatgan ikki farishta",
+        "Musodan keyin nozil bo'lgan, Tavrotni tasdiqlovchi kitob",
+        "Muqaddas tog'ning tepasida yonayotgan buta"
+      ],
+      "answer": "Musodan keyin nozil bo'lgan, Tavrotni tasdiqlovchi kitob"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Biz Qiyomat Kuniga qadar la'natlangan edik",
+        "Biz qudratli hukmdorga qarshi qo'zg'olon ko'tardik va yer yuzida to'siq qurdik",
+        "Biz maymun va cho'chqaga aylandik",
+        "Biz qavmimizga ogohlantiruvchi bo'lib, iymon keltirdik.",
+        "Biz yo'lboshchimiz bilan birga dengizda cho'kib ketdik"
+      ],
+      "answer": "Biz qavmimizga ogohlantiruvchi bo'lib, iymon keltirdik."
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

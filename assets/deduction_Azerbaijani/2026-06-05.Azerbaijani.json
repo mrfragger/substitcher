@@ -1,0 +1,61 @@
+{
+  "title": "Təvazökar Həqiqət Axtaranlar",
+  "intro": "Qədim güc və sehr diyarında böyük bir qarşıdurma baş verir. Bir tərəf ilahi əlamətlərin səlahiyyətindən istifadə edir, digəri isə qeyri-mümkün olanı ələ keçirməyə çalışır. Nəticə tarixin gedişatını əbədi olaraq dəyişdirəcək. Ən son həqiqətin şahidi olan və onun qarşısında təvazökar olanların kimliyini aşkar edə bilərsinizmi?",
+  "clues": [
+    "Sehrbazlıq hiylələrindən kənara çıxan əlamətlərə şahid olduq",
+    "Hamımız səcdəyə düşdük, həqiqəti inkar edə bilmədik",
+    "Biz bu əlamətlərin Tək Həqiqi Tanrıdan gəldiyini anladıq",
+    "Biz inancı bu qədər dramatik şəkildə qəbul edən ilk icma idik",
+    "İmanımızın qarşılığı olaraq bizə cənnət vəd edildi",
+    "İplərimiz və əsalarımız gözümüzün önündə ilan oldu, amma biz təslim olmağı seçdik"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Fironun sehrbazları",
+        "İbrahim peyğəmbərin qövmü",
+        "Təvazökar həqiqət axtaranlar",
+        "Mağara Əhli",
+        "Kraliça Bilqis xalqı"
+      ],
+      "answer": "Fironun sehrbazları"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Musa peyğəmbərin əsası ilə qarşılaşma",
+        "Hud peyğəmbərin küləyinin sınağı",
+        "Saleh peyğəmbərin dəvəsindən gələn çətinlik",
+        "Böyük daşqın peyğəmbərin üzərinə göndərildi",
+        "Bir peyğəmbərin balinanın içində səyahəti"
+      ],
+      "answer": "Musa peyğəmbərin əsası ilə qarşılaşma"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qədim Misir",
+        "Məkkədəki müqəddəs ev",
+        "Mədiyan şəhəri",
+        "Səmud səhrası",
+        "Qədim yatanların mağarası"
+      ],
+      "answer": "Qədim Misir"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Cənnət onların mükafatı olaraq",
+        "Qəbirdəki cəza",
+        "Bol bağlarının itirilməsi",
+        "Qəfil zəlzələ nəticəsində dağıntı",
+        "Böyük bir balinadan xilas olmaq"
+      ],
+      "answer": "Cənnət onların mükafatı olaraq"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

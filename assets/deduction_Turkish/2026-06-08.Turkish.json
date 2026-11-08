@@ -1,0 +1,61 @@
+{
+  "title": "Kutsal Mekânın Yalvaran Kişisi",
+  "intro": "Gecenin sessiz saatlerinde, adanmış bir ruh, kutsal bir yerin mübarek duvarları içinde En Merhametli olana seslendi. Yıllarca süren sarsılmaz inanç ve sabır, sevinç ve peygamberlik mirası getirecek bir mucizeyle ödüllendirilmek üzereydi.",
+  "clues": [
+    "Günlerimi ve gecelerimi kutsal bir mabetin içinde ibadetle geçirdim, sürekli Rabbime yalvardım.",
+    "Yaşlandım ve karım kısır kaldı, yine de Allah'ın rahmetine olan inancımı hiç kaybetmedim.",
+    "Bana Yahya adında bir oğul verildi; o bir peygamber ve doğruluk timsali oldu.",
+    "Ben de İsrailoğullarına yol göstermek için gönderilmiş bir peygamberdim.",
+    "Ben Peygamber Harun'un soyundan geliyordum ve Mescid-i Harun'da rahip olarak görev yaptım.",
+    "İsa'nın annesi Meryem'in bakımı bana emanet edilmişti ve onun mucizelerine şahit oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Zekeriya",
+        "Peygamber Yahya",
+        "Peygamber İlyas",
+        "Peygamber İshak",
+        "Peygamber Yakub"
+      ],
+      "answer": "Peygamber Zekeriya"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yaşlılığında bir oğul bahşedildi.",
+        "Alevler içinde kalan bir yangından kurtarıldı.",
+        "Balığın karnından kurtarıldı",
+        "Büyük bir selden sağ kurtuldu",
+        "Ağır bir hastalıktan iyileşti."
+      ],
+      "answer": "Yaşlılığında bir oğul bahşedildi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Mihrap (namaz nişi)",
+        "Kabe",
+        "Yanan Çalı",
+        "Ahd Sandığı",
+        "Yedi Uyuyanların Mağarası"
+      ],
+      "answer": "Mihrap (namaz nişi)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Peygamber olan salih bir oğul bahşedildi.",
+        "Şiddetli bir fırtına tarafından yıkıldı",
+        "Denizde boğuldu",
+        "Yanmaktan kurtuldu",
+        "Bir balıktan kurtarıldıktan sonra halklarına geri döndüler."
+      ],
+      "answer": "Peygamber olan salih bir oğul bahşedildi."
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

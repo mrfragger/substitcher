@@ -1,0 +1,61 @@
+{
+  "title": "Głos buntu",
+  "intro": "Na długo przed tym, zanim pierwszy człowiek stąpał po ziemi, istota o ogromnej mocy stała w krainie idealnego pokoju, otoczona najwierniejszymi duszami. Na jeden rozkaz każdy głos uginał się w pokorze – ale jeden głos wznosił się w geście buntu, a ten bunt rozbrzmiewał echem przez wszystkie epoki aż do Dnia Sądu Ostatecznego. Kim jest ta upadła istota?",
+  "clues": [
+    "Zostałem stworzony z czegoś, co jasno płonęło, podczas gdy inni obok mnie powstali z tego, po czym chodzili.",
+    "Mieszkałem w miejscu świętym, wśród oddanych mi istot, aż jeden rozkaz wywrócił wszystko do góry nogami.",
+    "Gdy padł rozkaz, wszyscy, z wyjątkiem mnie, skłonili się; moja odmowa wynikała z pychy.",
+    "Zostałem wygnany z tego świętego miejsca i naznaczony klątwą, która miała trwać wiecznie.",
+    "Błagałem o czas do Dnia Zmartwychwstania i zostałem mu dany. Przysiągłem, że zbliżę się do każdej duszy i sprowadzę ją na manowce.",
+    "Gdy zabrzmi trąba, ci, którzy poszli za mną, podzielą mój los, dołączając do mnie w płonącym ogniu, gdzie żaden pomocnik nie będzie mógł ich uratować."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Iblis",
+        "Faraon (Firawn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (ojciec Ibrahima)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Decydujący moment",
+      "options": [
+        "Odmowa oddania pokłonu Adamowi",
+        "Uzurpowanie boskości nad wielkim imperium",
+        "Plan wrzucenia sprawiedliwego w płomienie",
+        "Prowadzenie ludu do oddawania czci złotemu posągowi",
+        "Zatopienie wielkiej armii w morzu"
+      ],
+      "answer": "Odmowa oddania pokłonu Adamowi"
+    },
+    "location": {
+      "label": "Święte miejsce",
+      "options": [
+        "Jannah (Raj)",
+        "Wspaniały pałac nad Nilem",
+        "Wieża z cegieł sięgająca nieba",
+        "Złoty cielec wykonany z ozdób",
+        "Piec płonącego ognia"
+      ],
+      "answer": "Jannah (Raj)"
+    },
+    "outcome": {
+      "label": "Ostateczny los",
+      "options": [
+        "Wygnany, z wytchnieniem aż do obiecanego Dnia",
+        "Utopiony z armiami pod falami",
+        "Zmiażdżony kamieniami spadającymi z nieba",
+        "Rozerwany przez roje ptaków w locie",
+        "Pochłonięty przez jeden potężny wybuch"
+      ],
+      "answer": "Wygnany, z wytchnieniem aż do obiecanego Dnia"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

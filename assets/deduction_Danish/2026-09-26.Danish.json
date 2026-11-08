@@ -1,0 +1,61 @@
+{
+  "title": "Benægtelsen midt i overfloden",
+  "intro": "Du befinder dig blandt et folk, hvis markedspladser summer af handel, men deres vægtskåle tipper uærligt. Et sendebud er kommet til dem med klare advarsler, men de ler og vender sig væk, tillidsfulde i deres velstand. Himlen begynder at blive mørk, men de ser det som en velsignelse af regn. Hvem er disse mennesker?",
+  "clues": [
+    "Vi trivedes i lande med handel og overflod, men vores hjerter blev ufølsomme.",
+    "Et sendebud kom til os med tegn fra vor Herre, men vi hånede hans advarsler.",
+    "Vi var kendt for vores håndværk, men vi gav korte midler og snød folket.",
+    "Vi boede blandt tætte træer og frodig vegetation, men vi tog vores velsignelser for givet.",
+    "Da en mørk sky nærmede sig, jublede vi, i den tro at den ville bringe regn til vores tørre lande.",
+    "I stedet udløste den sky en brændende straf, og vi blev grebet af skyggedagens pinsler."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Ashab al-Aykah (Skovens ledsagere)",
+        "Folket i Thamud",
+        "Folk fra 'Ad",
+        "Luts folk",
+        "Folket i Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Skovens ledsagere)"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "De afviste deres sendebud og bedrog i handel",
+        "De tilbad en guldkalv og blev vildledt",
+        "De praktiserede sodomi og angreb rejsende",
+        "De byggede høje tårne ​​og udfordrede Gud",
+        "De nægtede at dele vand og skadede en hunkamel"
+      ],
+      "answer": "De afviste deres sendebud og bedrog i handel"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En tæt skov eller krat",
+        "Et bjerg hugget ind i boliger",
+        "En by ved havet",
+        "En ørkendal med brønde",
+        "En frugtbar have med mange frugter"
+      ],
+      "answer": "En tæt skov eller krat"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ødelagt af en skyggesky af ild",
+        "Druknet af en stor oversvømmelse",
+        "Opslugt af et jordskælv",
+        "Ramt af en voldsom vind",
+        "Forvandlet til sten"
+      ],
+      "answer": "Ødelagt af en skyggesky af ild"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

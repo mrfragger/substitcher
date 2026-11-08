@@ -1,0 +1,61 @@
+{
+  "title": "Nīlas mocītā dvēsele",
+  "intro": "Lielas apspiešanas laikmetā, kad tirāns valdīja pār zemi ar absolūtu nežēlību, viena dvēsele izvēlējās ticības ceļu, nevis karaliskās ģimenes komfortu. Šī persona, kas mājoja varas sirdī, tomēr atrada patiesību pazemīga pravieša vēstījumā. Viņu ceļojums kļuva par mūžīgu mācību pacietībā, upurēšanās un nelokāmas pārliecības gaisotnē. Vai varat atpazīt šo ievērojamo cilvēku, kurš deva priekšroku dievišķajam priekam, nevis pasaulīgajam statusam?",
+  "clues": [
+    "Es dzīvoju varenā pilī, tomēr mana sirds atrada patiesību pazemīgā vēstījumā.",
+    "Es izvēlējos sekot Musas vadībai, apzinoties sekas, ar kurām saskaršos.",
+    "Es biju precējusies ar sava laika visspēcīgāko tirānu, tomēr es noraidīju viņa viltus dievus.",
+    "Manas ciešanas bija smagas, jo tiku sodīts par savu ticību Vienīgajam Dievam.",
+    "Es nekad nešaubījos savā ticībā, pat saskaroties ar visbargākajām mokām.",
+    "Mans Kungs bija apmierināts ar manu pacietību un izvēlējās mani godājamai vietai Paradīzē."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravieša Musas māte",
+        "Faraona sieva",
+        "Pravieša Musas māsa",
+        "Senās Ēģiptes karaliene",
+        "Izraēliešu kalps"
+      ],
+      "answer": "Faraona sieva"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Cīnoties Allāha vārdā ar armiju",
+        "Sastopoties ar faraonu un pasludinot ticību",
+        "Dievnamu celtniecība Ēģiptē",
+        "Ceļojums pāri jūrai kopā ar Musu",
+        "Atklāsmes saņemšana no Allāha"
+      ],
+      "answer": "Sastopoties ar faraonu un pasludinot ticību"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Midiānas tuksnesis",
+        "Ēģiptes karaliskā pils",
+        "Nīlas upes krasti",
+        "Sinaja kalns",
+        "Kanaāna zeme"
+      ],
+      "answer": "Ēģiptes karaliskā pils"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Pēc daudziem gadiem kļuva par pravieti",
+        "Izveda izraēliešus no Ēģiptes",
+        "Tika piešķirta suverenitāte pār Ēģipti",
+        "Tika nogalināts mocekļa nāvē un Allāha godināts",
+        "Nodzīvoja komfortabli līdz sirmam vecumam"
+      ],
+      "answer": "Tika nogalināts mocekļa nāvē un Allāha godināts"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

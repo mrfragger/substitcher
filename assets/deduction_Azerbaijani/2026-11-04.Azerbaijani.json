@@ -1,0 +1,61 @@
+{
+  "title": "qürurun altında batan xəzinə",
+  "intro": "Təsəvvür edin ki, açarları daşımaq bir qrup güclü insanı yoracaq qədər böyük sərvət yığınlarının qarşısında dayanırsınız. Ətrafınızda səslər təvazökarlığı və xatırlamağı tələb edir, lakin qürur minnətdarlıqdan daha ucadan səslənir. Lütf imtahana çevriləndə və təkəbbür nəticəni möhürləyəndə nə baş verir?",
+  "clues": [
+    "Mən Musanın qövmündən idim, amma onlara qarşı həddi aşdım.",
+    "Mənə o qədər böyük xəzinələr verildi ki, onların açarları bir dəstə güclü kişinin yükünü daşıya bilərdi.",
+    "Qövmüm mənə dünyadakı payımı unutmadan axirətə can atmağı və sevinməməyi tövsiyə etdi.",
+    "Mən iddia edirdim ki, sahib olduğum şeylər mənə yalnız biliklərim sayəsində verilib.",
+    "Mən qövmümün qarşısına zinət içində çıxmışdım, dünya həyatını istəyənlər isə mənim sahib olduğum şeyin bənzərini arzulayırdılar.",
+    "Məni yer üzü və yuvam uddu və heç kim mənə kömək edə bilmədi və mən də özümə kömək edə bilmədim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Qarun",
+        "Nəmrud",
+        "Cəlut",
+        "Azər",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Var-dövləti ilə öyündü və məsləhətə baxmayaraq Allahın lütfündən məhrum oldu",
+        "İbrahimə həyat və ölüm verməkdə etiraz etdi",
+        "Talut və Davuda qarşı ordu idarə etdi",
+        "İnsanların ibadət etməsi üçün oyma bütlər",
+        "Qurbanlıq paxıllıq üzündən qardaşını öldürdü"
+      ],
+      "answer": "Var-dövləti ilə öyündü və məsləhətə baxmayaraq Allahın lütfündən məhrum oldu"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Böyük xəzinələrin açarları",
+        "Əhd sandığı",
+        "Bəzəklərdən ibarət qızıl buzov",
+        "İki dağ arasında bir bənd",
+        "Yuxuda on bir ulduz"
+      ],
+      "answer": "Böyük xəzinələrin açarları"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Yer üzünə yaşayış və sərvətlə batıb",
+        "Musanı təqib edərkən dənizdə boğuldu",
+        "Davudun sapandından bir daş yerə dəydi",
+        "Dişi dəvənin bud əzələlərini zədələdiyi üçün güclü bir partlayışla məhv edildi",
+        "Şənbə gününü pozduğuna görə meymuna çevrildi"
+      ],
+      "answer": "Yer üzünə yaşayış və sərvətlə batıb"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

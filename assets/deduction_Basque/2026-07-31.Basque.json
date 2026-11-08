@@ -1,0 +1,61 @@
+{
+  "title": "Tronuraino iritsi zen oihartzuna",
+  "intro": "Irudi zamatu bat justiziaren eserlekurantz hurbildu zen, ahotsa beldurrez ez, itxaropenez baizik dardarka. Gaia pertsonala zen, baina bere ebazpenak denboran zehar oihartzuna izango zuen, tradizio zapaltzaile bat deseginez. Nor zen izarren atzean entzun zen kexa zuen arima hau?",
+  "clues": [
+    "Bihotz astun batekin etorri nintzen, mihia lotzen zidan gai batean justizia bilatuz.",
+    "Nire erregua ez zen mezulari bati zuzendua soilik; haratago igo zen, dena entzuten duenarengana.",
+    "Nire aurka esandako hitzak iragan zahar baten kateak bezalakoak ziren.",
+    "Nire duintasunaren alde argudiatu eta arrazoitu nuen, negarrez eta logikaz.",
+    "Errebelazio bat etorri zen, ohitura zaharrak isilaraziz eta nire mina aitortuz.",
+    "Nire senarrari buruz eztabaidatu zuena deitzen didate, eta nire izena askatu ninduen kapituluaren sinonimo bihurtu da."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Imranen emaztea (Maryamen ama)",
+        "Senarrari buruz eztabaidan aritu zen emakumea (Khawla bint Tha'laba)",
+        "Sabako erregina (Bilqis)",
+        "Moisesen Ama",
+        "Faraoiaren emaztea (Asiyah)"
+      ],
+      "answer": "Senarrari buruz eztabaidan aritu zen emakumea (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "Epaiketa edo Gertaera",
+      "options": [
+        "Lizunkeriaz akusatu zuten faltsuki",
+        "Antzua zen eta haur bat nahi zuen",
+        "Dibortzio ohitura zapaltzaile bati aurre egin zion",
+        "Profeta batekin negoziatzen ari zen erregina zen",
+        "Tirano batetik ezkutatu zuen bere haurra"
+      ],
+      "answer": "Dibortzio ohitura zapaltzaile bati aurre egin zion"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko txahal bat",
+        "Tronu bikaina.",
+        "Ziharren praktika",
+        "Saski bat ibaian.",
+        "Dedikaziozko boto sakratua"
+      ],
+      "answer": "Ziharren praktika"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Zahartzaroan haur batekin bedeinkatu zuten",
+        "Itotzetik salbatu zuten.",
+        "Ohitura indargabetuz jainkozko errebelazio bat jaso zuen",
+        "Proba baten ondoren erregina bihurtu zen",
+        "Profeta bihurtu zen seme bat eman zioten"
+      ],
+      "answer": "Ohitura indargabetuz jainkozko errebelazio bat jaso zuen"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

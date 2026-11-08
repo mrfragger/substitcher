@@ -1,0 +1,61 @@
+{
+  "title": "Llais Gwirioneddol yr Hen Amseroedd",
+  "intro": "Mae enaid yn y Quran y mae ei stori'n cael ei hadrodd mewn ychydig o adnodau yn unig, ond mae ei rinweddau nobl yn disgleirio'n llachar. Wedi'i ganmol gan yr Hollalluog am rinwedd arbennig, mae'r gwas hynafol hwn i'r Mwyaf Trugarog yn dal lle yn nhudalennau'r datguddiad. Eich tasg chi yw adnabod y ffigur rhyfeddol hwn. Allwch chi ddyfalu pwy ydyn nhw?",
+  "clues": [
+    "Proffwyd i Allah ydw i a oedd yn byw ymhlith cenedlaethau cynnar dynoliaeth.",
+    "Soniodd Allah amdanaf yn Ei Lyfr gyda phroffwydi eraill, pob un yn cael ei ganmol am yr un rhinwedd fonheddig.",
+    "Rwy'n cael fy nisgrifio fel dyn y gwirionedd yn y Quran.",
+    "Cododd Allah fi i safle uchel nad yw llawer o rai eraill wedi'i gyrraedd.",
+    "Mae fy enw i wedi'i grybwyll yn Surah Al-Anbiya, wedi'i grwpio gyda dau broffwyd arall sy'n cael eu canmol am eu hamynedd.",
+    "Myfi yw Idris, y proffwyd gwirioneddol a dyrchafedig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Y Proffwyd Idris",
+        "Proffwyd Nuh",
+        "Proffwyd Ibrahim",
+        "Proffwyd Musa",
+        "Proffwyd Ismail"
+      ],
+      "answer": "Y Proffwyd Idris"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Cynnal amynedd a gwirionedd, yna'n cael ei ddyrchafu i safle uchel",
+        "Adeiladu arch fawr i achub y credinwyr rhag llifogydd dinistriol",
+        "Cael eich bwrw i dân llachar a dod allan heb niwed o gwbl",
+        "Wynebu brenin nerthol a threchu ei fyddin o ddewiniaid",
+        "Goroesi y tu mewn i fol pysgodyn mawr ym mhrif ddyfnderoedd y môr"
+      ],
+      "answer": "Cynnal amynedd a gwirionedd, yna'n cael ei ddyrchafu i safle uchel"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Safle uchel a dyrchafedig gan Allah",
+        "Llong enfawr wedi'i hadeiladu o blanciau ac wedi'i tharo â thar",
+        "Tân cynddeiriog wedi'i danio gan eilunaddolwyr brenin drygionus",
+        "Môr helaeth a holltodd yn llwybrau sych",
+        "Bol tywyll morfil mawr ar waelod y cefnfor"
+      ],
+      "answer": "Safle uchel a dyrchafedig gan Allah"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i dderbyn i drugaredd Allah fel un o'r cyfiawn",
+        "Wedi'u hachub ynghyd â'r holl gredinwyr rhag llifogydd byd-eang",
+        "Cerddodd allan o'r fflamau heb eu cyffwrdd gan y tân",
+        "Arweiniodd Blant Israel yn ddiogel i ryddid ar draws y môr",
+        "Ail-ymuno â'u teulu annwyl ar ôl blynyddoedd hir o galedi"
+      ],
+      "answer": "Wedi'i dderbyn i drugaredd Allah fel un o'r cyfiawn"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

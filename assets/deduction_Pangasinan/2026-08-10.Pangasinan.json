@@ -1,0 +1,61 @@
+{
+  "title": "Saray Managbantay na Sekreton Ani",
+  "intro": "Diad sakey a matalonggaring a dalin, sakey a grupo na indibidual so nanggawa na sekreton plano diad silong na kabilungetan. Pareho so gagala ra, balet aliwan matunong so getma ra. Ag da amta ya walay madibinon pananguman ya manaalagar ed sikara legan iran naugip.",
+  "clues": [
+    "Nandesisyon kamin maong, ya inisip min anggapoy depekto na plano mi.",
+    "Inisip min ompaway ya masakbay, antis ni ingen ya onkiwas so arum.",
+    "Inletneg mi so mabunan lote, a matalek ed saray probisyon mi.",
+    "Sanen akasabi kami lad destinasyon mi, nalmoan mi itan ya andiay tanaman tan anggapoy totoo, kanian inisip min abalang kami.",
+    "Insan mi amoria ya talagan lugar mi itan, tan inmeyag kami lapud inkaandi-ilalo, ya ibabalaw mi so balang sakey ed inkaandi mi.",
+    "Nansamba kami nen saman ya kabuasan ya ag mi ilaktip iray mairap-bilay ed panag-ani mi, balet say dusa nen Allah so sinmabi ed sikami legan min naugip, kanian nagmaliw ya aderal so hardin mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa Sikatayo?",
+      "options": [
+        "Saray akankayarian na hardin ed Surah 68",
+        "Saray Totoo ed Saba",
+        "Saray Kaiba ed Ungeb",
+        "Saray Totoo na Elepante",
+        "Saray Totoo ed Kanal"
+      ],
+      "answer": "Saray akankayarian na hardin ed Surah 68"
+    },
+    "trial": {
+      "label": "Say Subok Mi",
+      "options": [
+        "Say hardin mi et aderal lapud sakey a desyang a nanlapud tawen",
+        "Inanor na delap so hardin mi",
+        "Say hardin mi et apoolan na apoy na kalaban",
+        "Napno na duron so hardin mi",
+        "Say hardin mi et inakmon na yegyeg"
+      ],
+      "answer": "Say hardin mi et aderal lapud sakey a desyang a nanlapud tawen"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Insamba min alaen mi ray bunga to ed kabuasan",
+        "Nanggawa kami na dam pian nasalog so hardin mi",
+        "Nananap kami na salimbengan ed sakey ya ungib parad proteksion",
+        "Angiparaan kami na armada pian sakopen so sakey a panarian",
+        "Nanlayag kami ed barko pian ombaliw ed dayat"
+      ],
+      "answer": "Insamba min alaen mi ray bunga to ed kabuasan"
+    },
+    "outcome": {
+      "label": "Say kapalaran tayo",
+      "options": [
+        "Nagbabawi kami tan nanilalo kami na panangasi nen Allah",
+        "Sigpot kamin aderal tan ag kamin balot nagbabawi",
+        "Tinaynan mi so dalin tan ag kami la pinmawil",
+        "Nagmaliw kamin makapanyari tan mayaman lamet",
+        "Dusaen da kami diad impanggawa ed sikami ya unggoy"
+      ],
+      "answer": "Nagbabawi kami tan nanilalo kami na panangasi nen Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

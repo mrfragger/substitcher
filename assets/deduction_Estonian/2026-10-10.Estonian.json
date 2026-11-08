@@ -1,0 +1,61 @@
+{
+  "title": "Sulgedega skaut",
+  "intro": "Kuningriigis, mida valitses keegi, kellele oli antud võim tuulte, nähtamatute olendite ja taevalike olendite üle, kadus ridadest üks väike ja kiire liige – ainult selleks, et naasta ilmutustega, mis muutsid kauge rahva saatust. See teravsilmne informaator tõi tõe päevavalgele sinna, kus teadmatus oli juurdunud. Kes ma olen?",
+  "clues": [
+    "Ma teenisin õukonnas, kus inimesed, nähtamatud olendid ja taevased olendid allusid ühele targale valitsejale, kes valitses isegi tuuli.",
+    "Olin mõnda aega oma ametikohalt eemal ja valitseja viha lubati, kui ma ei suuda rahuldavat põhjust esitada.",
+    "Olen väike lennuvõimeline olend, tuntud terava nägemise poolest ja minu liigile on ilmutuse lehekülgedel antud au otsese nime andmisega.",
+    "Kui ma tagasi tulin, tõin teate kaugest maast, kus inimesed kummardasid päikese ees, pimedad Tema ees, kes on loonud taevad ja maa.",
+    "Ma leidsin naise, kes valitses suurt kuningriiki, istumas suurejoonelisel troonil ja polnud varem tõde teadnud.",
+    "Mina avastasin Saba kuningriigi ja viisin kaasa kutse prohvetkuningalt, kellele anti vaim tuulte üle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Kägu-kägu (Hudhud)",
+        "Sipelgas Sulaimani orust",
+        "Asif ibn Barkhiya",
+        "Ifrit džinn",
+        "Trooni ingel"
+      ],
+      "answer": "Kägu-kägu (Hudhud)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Ekspeditsioon Saba (Sheba) kuningriiki",
+        "Vastasseis vaarao nõidadega",
+        "Prohvet Noa veeuputus",
+        "'Adi rahva hävitamine",
+        "Punase mere lõhenemine"
+      ],
+      "answer": "Ekspeditsioon Saba (Sheba) kuningriiki"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Saba (Sheba) maa",
+        "Siinai mägi",
+        "Prohvet Noa laeka",
+        "Ashab al-Kahfi koobas",
+        "Vaarao palee"
+      ],
+      "answer": "Saba (Sheba) maa"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Bilqis alistus Sulaimani õukonnale",
+        "Vaarao ja tema armee uppusid merre",
+        "'Adi rahvas hävitas tugev tuul",
+        "Vaarao nõiad uskusid prohvet Moosesse",
+        "Suur veeuputus neelas uskmatud"
+      ],
+      "answer": "Bilqis alistus Sulaimani õukonnale"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

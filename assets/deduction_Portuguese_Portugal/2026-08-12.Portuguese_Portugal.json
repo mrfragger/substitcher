@@ -1,0 +1,61 @@
+{
+  "title": "Os Enviados da Misericórdia e do Poder",
+  "intro": "Imagine uma tarde tranquila interrompida pela chegada de viajantes desconhecidos. Sua aparência é comum, mas seus propósitos são tudo menos isso. Eles carregam uma mensagem divina que mudará o curso de duas nações, trazendo alegria a um lar árido e terror a uma cidade pecadora. Quem são esses visitantes misteriosos?",
+  "clues": [
+    "Fomos enviados a um servo devoto de Alá, conhecido por sua infinita hospitalidade.",
+    "Chegamos disfarçados de estranhos, e ainda assim nosso anfitrião pressentiu algo de outro mundo em nossa presença.",
+    "Trouxemos notícias que fizeram uma senhora idosa rir incrédula, levando a mão ao próprio rosto em espanto.",
+    "Fomos incumbidos de proteger uma família justa enquanto semendávamos destruição em uma cidade mergulhada na corrupção.",
+    "Recusamos a refeição que nos foi oferecida, o que apenas aumentou a suspeita do nosso anfitrião.",
+    "Revelamos nossa verdadeira natureza somente antes de partir, dizendo: 'Em verdade, somos mensageiros do vosso Senhor.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Os Hóspedes de Abraão",
+        "Os Discípulos de Jesus",
+        "Os Companheiros da Caverna",
+        "O Exército de Abraha",
+        "Os Mensageiros de Ya-Sin"
+      ],
+      "answer": "Os Hóspedes de Abraão"
+    },
+    "trial": {
+      "label": "Nossa Missão",
+      "options": [
+        "Para testar a fé de Abraão em relação ao seu filho.",
+        "Entregar as escrituras a Abraão.",
+        "Para anunciar o nascimento de Isaac e a destruição do povo de Ló.",
+        "Para guiar Abraão até a Caaba.",
+        "Para resgatar Abraão do fogo"
+      ],
+      "answer": "Para anunciar o nascimento de Isaac e a destruição do povo de Ló."
+    },
+    "location": {
+      "label": "Local de comparecimento",
+      "options": [
+        "Na terra do Egito",
+        "Na cidade de Ur",
+        "Na casa de Abraão",
+        "No jardim do Éden",
+        "No poço de Zamzam"
+      ],
+      "answer": "Na casa de Abraão"
+    },
+    "outcome": {
+      "label": "O resultado",
+      "options": [
+        "Abraão tornou-se rei",
+        "Abraão construiu a Caaba.",
+        "Sara deu à luz Isaque e o povo de Ló foi destruído.",
+        "Abraão migrou para a Palestina.",
+        "O povo de Abraão foi salvo de um grande dilúvio."
+      ],
+      "answer": "Sara deu à luz Isaque e o povo de Ló foi destruído."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

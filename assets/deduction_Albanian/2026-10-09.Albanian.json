@@ -1,0 +1,61 @@
+{
+  "title": "Thirrja e Padëgjuar në Tokën e Arrogancës",
+  "intro": "Ju qëndroni në rrënojat e një qytetërimi dikur të madh, ku pushteti dhe krenaria nuk njihnin kufij. Një lajmëtar ecte midis tyre, duke thirrur të vërtetën, por zemrat e tyre ishin të ngurtësuara. Paralajmërimi nuk u mor parasysh dhe vetë qielli u bë një instrument zemërimi. Kush ishte ky lajmëtar dhe çfarë u bë me ata që e refuzuan thirrjen?",
+  "clues": [
+    "U dërgova te një popull që ishte i pakrahasueshëm në forcë dhe që ndërtoi në çdo vend të lartë një monument.",
+    "Populli im e konsideronte veten të pathyeshëm dhe thoshte: “Kush është më i fuqishëm se ne?”",
+    "I thirra ata të adhuronin vetëm Allahun, por ata më akuzuan për marrëzi dhe gënjeshtër.",
+    "Ata më sfiduan të sjellja ndëshkimin që premtova nëse isha i sinqertë.",
+    "Allahu dërgoi mbi ta një erë të shterpë që nuk kurseu asgjë që e goditi.",
+    "Unë dhe ata që besuan me mua u shpëtuam nga mëshira e Allahut, ndërsa jobesimtarët u shkatërruan plotësisht."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Hud",
+        "Profeti Salih",
+        "Profeti Shuaib",
+        "Profeti Lut",
+        "Profeti Nuh"
+      ],
+      "answer": "Profeti Hud"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Një erë shkatërruese i shkatërroi jobesimtarët",
+        "Një përmbytje e madhe i përfshiu jobesimtarët",
+        "Një shi gurësh ra me shi",
+        "Një britmë e fortë i kaploi jobesimtarët",
+        "Një tërmet i goditi jobesimtarët"
+      ],
+      "answer": "Një erë shkatërruese i shkatërroi jobesimtarët"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një erë e pamëshirshme",
+        "Një arkë prej druri",
+        "Një deve",
+        "Një shi me gurë balte",
+        "Një zjarr i flaktë"
+      ],
+      "answer": "Një erë e pamëshirshme"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Hudi dhe besimtarët u shpëtuan, ndërsa jobesimtarët u shkatërruan",
+        "Hudi u ngrit në një pozitë të lartë",
+        "Hudi u vra nga populli i tij",
+        "Populli i Hudit u pendua dhe u kursye",
+        "Hudi e la popullin e tij para çdo ndëshkimi"
+      ],
+      "answer": "Hudi dhe besimtarët u shpëtuan, ndërsa jobesimtarët u shkatërruan"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

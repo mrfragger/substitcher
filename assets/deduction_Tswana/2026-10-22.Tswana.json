@@ -1,0 +1,61 @@
+{
+  "title": "Setšhaba sa Tlolomolao ya Ntlha",
+  "intro": "Mo lefatsheng la metse ya bogologolo, batho ba kile ba bo ba atlega. Ba ne ba etelwa ke morongwa yo o nang le pitso e e utlwalang sentle, le fa go ntse jalo ba ne ba fapoga mme ba latela tsela e go neng go se na ope yo o kileng a tsamaya mo go yone. Kgang ya bone ke ya go tlhoka maitseo, go senyega, le kotlhao e e neng ya tlogela nagagae ya bone e le sesupo mo go botlhe ba ba akanyang. Mewa eno ke bomang?",
+  "clues": [
+    "Re ne re nna mo metseng ya lebala, kwa moporofeta wa rona a neng a re biletsa tshiamong gone.",
+    "Re ne re le ba ntlha go dira boitshwaro jo bo sa siamang jo go neng go se na ope mo mafatsheng otlhe yo o kileng a bo dira pele.",
+    "Re ne re thibela batsamai mme re dira bosula phatlalatsa mo dikokoanong tsa rona.",
+    "Re ne ra gana morongwa yo o neng a rometswe kwa go rona mme ra mo tshosetsa ka go mo leleka mo lefatsheng la rona.",
+    "Re ne ra itlhaganelela kwa ntlong ya gagwe re batla gore a re neele baeng ba gagwe.",
+    "Kotlhao ya rona e ne e le pula ya matlapa, mme motse wa rona wa menolwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batho ba Lute",
+        "Batho ba Nuh",
+        "Batho ba 'Ad",
+        "Batho ba Thamude",
+        "Batho ba Madyan"
+      ],
+      "answer": "Batho ba Lute"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O dirile tiro ya ntlha ya bosodoma",
+        "O ne a obamela medingwana",
+        "O tsieditswe mo kgwebong",
+        "Ba bolaile moporofeti wa bone",
+        "Ga ba utlwe batsadi ba bone"
+      ],
+      "answer": "O dirile tiro ya ntlha ya bosodoma"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Motse wa lebala",
+        "Motse wa sediba",
+        "Motse wa mosele",
+        "Motse wa tlou",
+        "Motse wa tshingwana"
+      ],
+      "answer": "Motse wa lebala"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Pula e nele ka matlapa mme ya menolwa",
+        "O nweditswe ke morwalela",
+        "E sentswe ke phefo e e maatla",
+        "E meditswe ke lefatshe",
+        "E itewa ke go thunya go go kwa godimo"
+      ],
+      "answer": "Pula e nele ka matlapa mme ya menolwa"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

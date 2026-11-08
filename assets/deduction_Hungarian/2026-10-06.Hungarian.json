@@ -1,0 +1,61 @@
+{
+  "title": "Az igazság, amely elhallgattatta a bíróságot",
+  "intro": "Egy palotában, ahol a tagadás uralkodott, és a hatalom korlátlan volt, képzett szakemberek egy csoportja váratlan kihívással nézett szembe. A levegő izgatottan csapkodott a várakozástól, ahogy a hamisság és az igazság két útja hamarosan találkozott. Az összegyűltek nem is sejtették, hogy ez a találkozás örökre megváltoztatja életüket, és történetüket a szent szövegbe vésti.",
+  "clues": [
+    "Híresek voltunk az illúziók készítésében való jártasságunkról, és egy hatalmas uralkodó gyűjtött össze minket, hogy szembeszálljunk egy kihívóval.",
+    "Amikor elérkezett a pillanat, kiöntöttük a hangszereinket, és vártuk az eredményt, bízva a szakértelmünkben.",
+    "De amit láttunk, saját eszközeinket puszta játékszernek láttatták, és szívünk felismerte a tagadhatatlan igazságot.",
+    "Leborulva borultunk a földre, kijelentve hitünket Mózes és Áron Urában, az uralkodó dühe ellenére.",
+    "Az az uralkodó a legkegyetlenebb büntetéssel fenyegetett minket, megesküdve, hogy keresztre feszít és ellentétes irányban felvág minket.",
+    "Állhatatosak maradtunk, azt mondtuk, hogy Urunk ítéletét minden világi következménynél jobban szeretjük, és hitünkért haltunk meg mártírhalált."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A fáraó varázslói",
+        "A barlang népe",
+        "Az erdő társai",
+        "Isa tanítványai",
+        "Az elefánt népe"
+      ],
+      "answer": "A fáraó varázslói"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Bűvészverseny Musa ellen",
+        "Rájuk vetett tűz",
+        "Egy árvíz, ami elnyelte őket",
+        "Aszály és éhínség",
+        "Egy földrengés"
+      ],
+      "answer": "Bűvészverseny Musa ellen"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Kígyókká változott botok és kötelek",
+        "Egy égő csipkebokor",
+        "Egy nőstény teve",
+        "Egy fából készült bárka",
+        "Egy bálna"
+      ],
+      "answer": "Kígyókká változott botok és kötelek"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hitért kivégezték, Paradicsomot ígértek",
+        "Megfulladt a tengerben",
+        "Egyiptom uralkodói lettek",
+        "A fáraó megmaradt követői",
+        "Örökölte a földet"
+      ],
+      "answer": "Hitért kivégezték, Paradicsomot ígértek"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

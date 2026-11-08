@@ -1,0 +1,61 @@
+{
+  "title": "I architétt de la pedra",
+  "intro": "Figürate una civiltà pudend, dotada de forza e abilità, che scolpiva grandi abitaziun in di montagn. Chestu cullettif g’haveva una grand richeza e una prodezza architetonich ünich. Però, anca se g’han ricevü di avvertiment ciar, g’han scernì un percors che g’havaria purtà a una conclusiun dramatica e indimenticabil. Pœdet identificar chestu grupp che la sò storia la serviss cuma leziun prufunda per tüt quei che pensan?",
+  "clues": [
+    "G’hem ricevü forza e abilità, che g’han permetü de sculpì di cà magnifich diretament in di muntagn.",
+    "G’hem ricevü un segn ciar de Allah, una creatura ünica che doveva vèss lassada indisturbada per pascülar.",
+    "La noster comunità l’è diventada arrugant, sfidand el messagg divin purtà de un messagger intra de noi.",
+    "G’hem cospirad per dannegiar el segn miracolos, anca se g’heren avvertiment de una puniziun severa.",
+    "G’hem sfidad el comand de lassar bever la creatura special del noster pozz in di dì alternà.",
+    "G’hem incuntrà una fin devastante, colpì de una sola esplusiun spaventusa dopu el noster att de trasgresiun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "Gent de 'Ad",
+        "Popol de Midian",
+        "La gent del elefant",
+        "Popol de Thamud",
+        "Gent de Lut"
+      ],
+      "answer": "Popol de Thamud"
+    },
+    "trial": {
+      "label": "La nostra pruva/event püsee impurtant",
+      "options": [
+        "L’inondazion qe l’ha inglutid la terra",
+        "La scissiun del mar",
+        "La distruziun cunt un singul esplusiun/urlo",
+        "El brüsament de una cità",
+        "La trasformaziun de una muntagna en polvar"
+      ],
+      "answer": "La distruziun cunt un singul esplusiun/urlo"
+    },
+    "location": {
+      "label": "Un element ciave in de la nostra storia",
+      "options": [
+        "Un vitell dorà",
+        "Una camel miracolosa",
+        "Un busc in früsa",
+        "Un usel che parla",
+        "Un tron ​​majestuos"
+      ],
+      "answer": "Una camel miracolosa"
+    },
+    "outcome": {
+      "label": "El noster resultà final",
+      "options": [
+        "Concedü immens richeza e podè",
+        "Elevà a la profezia",
+        "L’annientament total da part de una puniziun divina",
+        "Perdunà dopu un sincer pentiment",
+        "Sparpagnà sü la terra per vagabondà"
+      ],
+      "answer": "L’annientament total da part de una puniziun divina"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

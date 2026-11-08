@@ -1,0 +1,61 @@
+{
+  "title": "Te Karere o te Waipuke Nui",
+  "intro": "I tū tēnei tangata hei pou mō te manawanui mō ngā rautau, e karanga ana i tētahi hapori whakakeke ki te māramatanga o te pono, i a ia e tūtaki ana ki ngā tawai me ngā whakahē. Ahakoa ngā āhuatanga uaua me te taumaha o te karere e horapa ana i ngā whakatipuranga, i mau tonu tēnei pononga ki tā rātou misioni tae noa ki te putanga mai o te ture whakamutunga.",
+  "clues": [
+    "E iwa rau e rima tekau tau aku i pau ai ki te karanga i tōku iwi ki te ara o te tika, i te ao, i te pō, i te mea ngaro, i te aroaro o te marea hoki.",
+    "I whakatūpato ahau i taku iwi mō te whiu mamae, heoi i kuhua e rātou ō rātou maihao ki roto i ō rātou taringa, ā, i hipokina rātou e te whakapehapeha ki ō rātou kākahu.",
+    "I whakahaua ahau kia hanga tetahi mea nui rawa i raro i te titiro a toku Ariki, ahakoa kāore he wai i kitea.",
+    "I ahau e mahi ana, ka haere mai ngā rangatira o tōku iwi, ka tawai mai ki ahau, engari i mea atu ahau ki a rātou, ā, e kore e roa ka tawai mai mātou ki a rātou.",
+    "I inoi ahau kia hono mai ōku kikokiko me ōku toto ki ahau, engari i whiriwhiria e rātou te rapu piringa ki runga i te maunga, me te whakapono ka whakaora i a rātou i te tai e piki ana.",
+    "I tau tōku waka ki runga i Maunga Hūti i muri i te horomia e te whenua te wai, ā, i mutu te ua o te rangi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hūta",
+        "Poropiti Salih",
+        "Poropiti a Noa",
+        "Poropiti Ruta",
+        "Poropiti Shu'ayb"
+      ],
+      "answer": "Poropiti a Noa"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te Rōpū Whakarerekē",
+        "Te Waipuke Nui",
+        "Te Ahi Whakamatao",
+        "Te Moana Wehewehe",
+        "Te Kāmera a te Atua"
+      ],
+      "answer": "Te Waipuke Nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Kuao Kau Koura",
+        "Ngā Kaimahi",
+        "Te Hāte",
+        "Te Āraka",
+        "Te Mowhiti"
+      ],
+      "answer": "Te Āraka"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te Tomo ki te Whenua i Whakapuakina",
+        "Te toremitanga i te Moana Whero",
+        "Te okiokinga i Maunga Judi",
+        "Te maka ki roto i te poka",
+        "Te piki ki te rangi"
+      ],
+      "answer": "Te okiokinga i Maunga Judi"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

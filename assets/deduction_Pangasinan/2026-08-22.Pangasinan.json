@@ -1,0 +1,61 @@
+{
+  "title": "Say Baley ya Manisia ed Panaon",
+  "intro": "Diad saray salaysay na madibinon panangasi, walay sakey a komunidad ya say punto na pananguman to et sakey a bekta na pankakasakey a pakatebek. Magano yo lan naamtaan so istorya ra—sakey ya istorya na pasakbay, panagbabawi, tan panangitunda ya angibiig ed sikara manlapud kapalaran na arum a bansa.",
+  "clues": [
+    "Sikami so totoon angibakian na sakey a mensahero, tan inmarawi kami ed tawag to nen inmuna.",
+    "Sanen malinew iray tanda na onsasabin dusa, amoria mi so katuaan na pasakbay to.",
+    "Inmarap itayo ed Katawan tayo tekep na masimoon a panagbabawi, tan say pananisia tayo so inawat.",
+    "Say dusa ya ingganggan ed sikatayo et inekal lapud sisiaen tayo.",
+    "Say istorya mi et abitla bilang sakey ya eksepsion ed saray baley ya anisia kayari dan anengneng so dusa.",
+    "Sikatayo so totoo na propita ya inakmon na balyena, balet ta niliktar itayo ed kadederal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Saray totoo ed Yunus",
+        "Saray totoo ed Nuh",
+        "Saray totoo ed Hud",
+        "Saray totoo ed Salih",
+        "Saray totoo ed Lut"
+      ],
+      "answer": "Saray totoo ed Yunus"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Makaderal a delap",
+        "Sakey a maksil a bagyo",
+        "Sakey ya onsasabin dusa na kababaingan ya apaliisan",
+        "Say dalin so mangaakmon ed sikara",
+        "Uran na bato"
+      ],
+      "answer": "Sakey ya onsasabin dusa na kababaingan ya apaliisan"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say biong",
+        "Say kabatyan a kamelyo",
+        "Sakey a syudad na sanlasus libo",
+        "Say staff nen Musa",
+        "Say tinipon nen Qarun"
+      ],
+      "answer": "Sakey a syudad na sanlasus libo"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Sikaray sigpot ya aderal",
+        "Sikaray naikdan na panliket ed loob na sakey a panaon",
+        "Sikaray nagmaliw ya ayep",
+        "Nalner ira",
+        "Sikaray inakmon na dalin"
+      ],
+      "answer": "Sikaray naikdan na panliket ed loob na sakey a panaon"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

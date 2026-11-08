@@ -1,0 +1,61 @@
+{
+  "title": "Anima Nili Cruciata",
+  "intro": "Aetate magnae oppressionis, cum tyrannus terram crudelitate absoluta regeret, una anima viam fidei prae solacio regio elegit. Haec persona in corde potestatis habitabat, attamen veritatem in nuntio humilis prophetae invenit. Iter eorum futura erat aeterna lectio patientiae, sacrificii, et constantis persuasionis. Potesne hunc insigne hominem agnoscere qui voluptatem divinam prae statu mundano praeferebat?",
+  "clues": [
+    "In palatio magnae potentiae habitabam, attamen cor meum veritatem in humili nuntio invenit.",
+    "Musae consilium sequi elegi, sciens consequentias quas passurus essem.",
+    "Nupta eram potentissimo tyranno mei temporis, attamen deos eius falsos repudiavi.",
+    "Gravis erat dolor meus, cum propter fidem meam in unum Deum punitus sim.",
+    "Numquam in fide vacillavi, etiam cum acerbissimis cruciatibus obviam irem.",
+    "Dominus meus patientia mea complacuit et me ad locum honoratum in Paradiso elegit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Mater prophetae Musae",
+        "Uxor Pharaonis",
+        "Soror prophetae Musae",
+        "Regina Aegypti antiquae",
+        "Servus Israelitarum"
+      ],
+      "answer": "Uxor Pharaonis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Pugnans pro causa Dei cum exercitu",
+        "Pharaoni obviam eundo et fidem declarando",
+        "Aedificatio locorum cultus in Aegypto",
+        "Trans mare cum Musa iter faciens",
+        "Accipiendo revelationem ab Allah"
+      ],
+      "answer": "Pharaoni obviam eundo et fidem declarando"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Desertum Madian",
+        "Aula regia Aegypti",
+        "Ripae fluminis Nili",
+        "Mons Sinai",
+        "Terra Chanaan"
+      ],
+      "answer": "Aula regia Aegypti"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Propheta factus est post multos annos",
+        "Eduxit Israelitas ex Aegypto",
+        "Imperium Aegypti accepit",
+        "Martyr affectus et ab Allah honoratus est",
+        "Ad senectutem in commoditate vixit"
+      ],
+      "answer": "Martyr affectus et ab Allah honoratus est"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

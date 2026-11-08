@@ -1,0 +1,61 @@
+{
+  "title": "L'autoritat inflexible",
+  "intro": "A través de terres antigues, una poderosa autoritat va dominar, controlant immensos recursos i les vides d'innombrables individus. Malgrat els clars senyals i advertències, aquest governant va triar un camí de desafiament, que va conduir a una profunda confrontació que ressonaria al llarg del temps.",
+  "clues": [
+    "Vaig reclamar el poder i l'autoritat màxims sobre un vast domini.",
+    "Vaig desafiar un humil missatger enviat pel Senyor de tots els regnes.",
+    "El meu poble era conegut pel seu domini de les grans estructures i del riu que sostenia la nostra civilització.",
+    "Vaig ser testimoni de molts signes miraculosos, com ara un bastó que es convertia en una serp i una mà que brillava intensament.",
+    "Em vaig negar a deixar que un grup d'esclaves marxés de la meva terra, malgrat els manaments divins.",
+    "La meva persecució del poble que marxava em va portar a mi i als meus exèrcits al cor d'un mar dividit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Iússuf",
+        "Rei Talut",
+        "Fir'awn (Faraó)",
+        "Profeta Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraó)"
+    },
+    "trial": {
+      "label": "Confrontació clau",
+      "options": [
+        "La inundació que va engolir la terra",
+        "La divisió del mar",
+        "L'arbust ardent",
+        "La construcció de la Kaaba",
+        "La destrucció per un vent poderós"
+      ],
+      "answer": "La divisió del mar"
+    },
+    "location": {
+      "label": "Aspecte definitori",
+      "options": [
+        "Un animal parlant",
+        "Un bastó i una mà brillant",
+        "Un naixement miraculós",
+        "Una catifa voladora",
+        "Un tron ​​majestuós sobre l'aigua"
+      ],
+      "answer": "Un bastó i una mà brillant"
+    },
+    "outcome": {
+      "label": "Destí definitiu",
+      "options": [
+        "Ascendit als cels",
+        "Engolit per la terra",
+        "Ofegat al mar",
+        "Transformat en un simi",
+        "Donada una immensa riquesa i poder"
+      ],
+      "answer": "Ofegat al mar"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

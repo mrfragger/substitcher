@@ -1,0 +1,60 @@
+{
+  "title": "Te Moe o ngā Tau",
+  "intro": "Kei te tata koe ki te tīmata i tētahi haerenga i roto i te wā, ka tūtaki ki tētahi mea ngaro hohonu o te whakapono me te mana atua. Whakaarohia tētahi rōpū tāngata i whakahē i ngā tikanga o tō rātou hapori, e piri ana ki te whakapono kotahi i roto i tētahi ao whakapono atua. Ko tā rātou kōrero he tohu i te kaha o Allah ki te tiaki i āna pononga tika i roto i ngā huarahi tino whakamiharo. Ka taea e koe te wetewete i te tuakiri o ēnei tāngata whakamiharo?",
+  "clues": [
+    "He rōpū taitamariki iti mātou i whakapono ki te Atua kotahi, ahakoa te horapa o te karakia atuakore i waenganui i tō mātou iwi.",
+    "I rere mātou i tētahi rangatira nanakia i whakawehi i a mātou mō tō mātou whakapono, i te wehi kei whakatoihia mātou me te mate.",
+    "I rapu piringa mātou ki tētahi wāhi mokemoke, me te tumanako ki te aroha me te tiaki a Allah i ō mātou kaitukino.",
+    "Nā tō tātou Ariki tātou i mea kia moe hohonu, he moe merekara i whakakeke i te tere o te wā.",
+    "I tō mātou oho ake, i mahara mātou he rā kotahi, he wāhanga rānei o te rā i okioki ai mātou, kāore i te mōhio ki te wā roa kua pahemo.",
+    "E kī ana te Quran i noho tātou i roto i tō tātou āhua mō ngā tau e toru rau, ā, i neke atu i te iwa tau, ka waiho hei tohu mō te tangata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Iwi o te Waikeri",
+        "Te Iwi o Thamud",
+        "Te Iwi o te Ana",
+        "Te Iwi o Madyan",
+        "Ngā Hoa o te Arewhana"
+      ],
+      "answer": "Te Iwi o te Ana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tūtaki ki tētahi waipuke nui",
+        "Te horomia e te whenua",
+        "Te moe roa whakamiharo",
+        "Te whakangaromanga o tō rātou tāone",
+        "Te wehenga o te moana"
+      ],
+      "answer": "Te moe roa whakamiharo"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He rakau e mura ana",
+        "He maunga",
+        "He poti",
+        "He ana",
+        "He puna"
+      ],
+      "answer": "He ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakawhiwhia rātou ki te taonga nui me te mana nui",
+        "I hurihia rātou hei makimaki me hei poaka",
+        "I whakaarahia rātou i te moe hei tohu hohonu",
+        "I toremi rātou i roto i te waipuke nui",
+        "I hanga e rātou tētahi kingitanga whakahīhī"
+      ],
+      "answer": "I whakaarahia rātou i te moe hei tohu hohonu"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

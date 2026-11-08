@@ -1,0 +1,61 @@
+{
+  "title": "Strpljiva duša svete kuće",
+  "intro": "Na stranicama Kur'ana, lik izranja iz loze velikog proroka, darovan u starosti. Ova duša se slavi zbog nepokolebljive istinoljubivosti i duboke uloge u uspostavljanju svetišta koje će postati svjetionik vjere. Dok čitate tragove, pažljivo slušajte glas iz prošlosti, jer govori u prvom licu.",
+  "clues": [
+    "U Kur'anu se spominjem zajedno s drugim prorokom kao dar dat starijem poslaniku.",
+    "Bio sam jedan od dvoje potomaka koji su bili darovani tom proroku u njegovim kasnijim godinama.",
+    "U Kur'anu sam hvaljen jer sam vjeran svojoj riječi.",
+    "Nosio sam čast prorokovanja i bio sam poslan kao glasnik.",
+    "Pridružio sam se ocu u podizanju temelja Svete kuće.",
+    "Pamte me kao jednog od strpljivih, a sveta kuća koju smo izgradili postala je mjesto povratka i sigurnosti za ljude."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Ismail",
+        "Poslanik Ishak",
+        "Prorok Jakub",
+        "Poslanik Zakarija",
+        "Poslanik Jahja"
+      ],
+      "answer": "Poslanik Ismail"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Podizanje temelja Kabe s Ibrahimom",
+        "Biti bačen u vatru",
+        "Biti progutan od strane kita",
+        "Izvođenje Izraelaca iz Egipta",
+        "Izgradnja arke"
+      ],
+      "answer": "Podizanje temelja Kabe s Ibrahimom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kaba",
+        "Planina Sinaj",
+        "Crveno more",
+        "Zlatno tele",
+        "Rajski vrt"
+      ],
+      "answer": "Kaba"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ubrojen među pacijenta",
+        "Ubrojen među krivce",
+        "Ubrojen među čarobnjake",
+        "Ubrojen među nevjernike",
+        "Ubrojen među licemjere"
+      ],
+      "answer": "Ubrojen među pacijenta"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

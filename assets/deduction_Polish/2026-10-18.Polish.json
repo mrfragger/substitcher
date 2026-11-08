@@ -1,0 +1,61 @@
+{
+  "title": "Radosna nowina w starości",
+  "intro": "Jesteś świadkiem chwili, w której nadzieja rozpala się na nowo. Para, dawno po okresie rodzicielstwa, otrzymuje obietnicę, która przeczy prawom natury. Pośród nich stoi postać, której samo istnienie jest znakiem boskiego miłosierdzia – dusza przeznaczona do proroctwa, niosąca dziedzictwo, które będzie trwać przez pokolenia. Kim jest ta niezwykła osoba?",
+  "clues": [
+    "Urodziłem się w rodzinie osób, które osiągnęły już podeszły wiek i nie miały dzieci.",
+    "Moje narodziny zostały obwieszczone przez aniołów, którzy przybyli jako goście do mojej rodziny.",
+    "Otrzymałem mądrość i dar proroctwa i jestem wymieniany wśród pacjentów.",
+    "Mojego ojca nazywano przyjacielem Allaha, a ja byłem dla niego darem, gdy był już stary.",
+    "Miałem brata, który także był prorokiem, i obaj zostaliśmy pobłogosławieni przez naszego Pana.",
+    "Mój syn również był prorokiem, a moim potomkom powierzono Pismo Święte i proroctwo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Izaak (Izaak)",
+        "Prorok Ismail (Izmael)",
+        "Prorok Jakub (Jakub)",
+        "Prorok Jahja (Jan)",
+        "Prorok Uzair (Ezdrasz)"
+      ],
+      "answer": "Prorok Izaak (Izaak)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Urodzony w rodzinie starszych rodziców",
+        "Wrzucony do ognia",
+        "Dano królestwo i bogactwo",
+        "Wyprowadził swój lud z Egiptu",
+        "Zbudował arkę, aby ocalić wierzących"
+      ],
+      "answer": "Urodzony w rodzinie starszych rodziców"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Radosna nowina o synu",
+        "Płonący krzew",
+        "Złoty cielec",
+        "Arka Przymierza",
+        "Laska proroctwa"
+      ],
+      "answer": "Radosna nowina o synu"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Został prorokiem z rodu proroków",
+        "Został bogatym królem",
+        "Jego lud został zniszczony za niewiarę",
+        "Został uratowany z pożaru",
+        "Już jako niemowlę otrzymał zdolność mówienia"
+      ],
+      "answer": "Został prorokiem z rodu proroków"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

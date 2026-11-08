@@ -1,0 +1,61 @@
+{
+  "title": "Nolādētās rokas",
+  "intro": "Jūs stāvat senās Mekas līkumotajās alejās, kur ietekmīga un bagāta dvēsele reiz novērsās no patiesības aicinājuma. Šīs personas stāsts ir skarbs atgādinājums, ka asins saites nevar pārvarēt lepnuma važas. Kas ir šī, kuras vārds atbalsojas ugunī, kas gaida?",
+  "clues": [
+    "Es staigāju pa Mekas ielām ar lepnumu, kas mani aizsedza ar aklu skatienu patiesībai, lai gan vēstnesis bija no manām asinīm.",
+    "Mani īpašumi bija milzīgi, bet tie kļuva drīzāk par lāstu, nevis vairogu.",
+    "Vadības grāmata runā par manu bojāeju, pasludinot, ka manas rokas un mana miesa ies bojā.",
+    "Mans dzīvesbiedrs pievienojās manai naidīguma kampaņai, vācot ērkšķus, lai tos izkaisītu uz tā cilvēka ceļa, kurš piesauca Allāhu.",
+    "Tiesas dienā mani iemetīs kvēlojošas liesmas ugunī, un manam dzīvesbiedram ap kaklu būs palmu šķiedras virve.",
+    "Mani pazīst ar vārdu, kas nozīmē “liesmu tēvs” — vārds, kas pareģo manu mūžīgo mājvietu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Abu Lahābs",
+        "Abu Džahls",
+        "Abu Talibs",
+        "Abu Sufjans",
+        "Al-Valīds ibn al-Mughira"
+      ],
+      "answer": "Abu Lahābs"
+    },
+    "trial": {
+      "label": "Galvenais izmēģinājums vai notikums",
+      "options": [
+        "Iebilda pret pravieti un tika nolādēts Korānā",
+        "Vadīja armiju, lai iznīcinātu Kaabu",
+        "Mēģināja nogalināt pravieti, metot akmeņus",
+        "Atteicās ticēt Mēness sadalīšanai",
+        "Uzcēla torni, lai sasniegtu debesis"
+      ],
+      "answer": "Iebilda pret pravieti un tika nolādēts Korānā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Ugunsgrēks elles liesmās",
+        "Musas personāls",
+        "Nū šķirsts",
+        "Zamzama aka",
+        "Zelta teļš"
+      ],
+      "answer": "Ugunsgrēks elles liesmās"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņš ieies liesmojošā Ugunī, un viņa bagātība viņam nepalīdzēs.",
+        "Viņš nožēloja grēkus un kļuva ticīgs",
+        "Pēc atteikšanās no saviem vārdiem viņam tika piedots",
+        "Viņš nomira kā moceklis",
+        "Viņš tika uzņemts debesīs"
+      ],
+      "answer": "Viņš ieies liesmojošā Ugunī, un viņa bagātība viņam nepalīdzēs."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

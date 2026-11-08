@@ -1,0 +1,61 @@
+{
+  "title": "Umoya Othembekile WesAmbulo",
+  "intro": "Ezindaweni ezingabonakali, isidalwa esinokukhanya okumsulwa sihamba ngokunemba, senza yonke imiyalo ngaphandle kokungabaza. Lesi sibalo sikhulume nezinceku ezikhethiwe, saletha amazwi okuqondisa, futhi sabona ukwembuleka kwezimemezelo zaphezulu eminyakeni eminingi. Ungubani lo mphefumulo ohlonishwayo?",
+  "clues": [
+    "Ngiyisidalwa sokukhanya okumsulwa, esidalwe ngokukhanya, futhi angikaze ngiphule ngisho nomyalo owodwa weNkosi yami.",
+    "Ngihamba phakathi kwamazulu nomhlaba, ngehla nemithetho yoMuntu Onomusa.",
+    "Ngathunyelwa entombini ehloniphekile endaweni engcwele, ngamemezela kuyo indodana emsulwa.",
+    "Ngingumoya wobungcwele, futhi ngisekele umprofethi owanikezwa izibonakaliso ezicacile kanye neVangeli.",
+    "Ngafika emhumeni entabeni ukuzokhuluma amazwi okuqala okuphindaphinda ayezogcinwa phakade.",
+    "Ngingumoya othembekile, futhi yimina owehlisela iQuran enhliziyweni yesithunywa sokugcina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UJibril (uGabriel)",
+        "UMikail (uMichael)",
+        "Ingelosi Yokufa",
+        "UMalik (Umgcini Wesihogo)",
+        "UHarut (omunye wezingelosi ezimbili eBhabhiloni)"
+      ],
+      "answer": "UJibril (uGabriel)"
+    },
+    "trial": {
+      "label": "Umsebenzi/Indima Eyinhloko",
+      "options": [
+        "Ukunikeza abaprofethi isambulo",
+        "Ukushaya icilongo ngosuku lokwahlulela",
+        "Ukuqapha amasango esihogo",
+        "Ukurekhoda izenzo zabantu",
+        "Okubangela imvula ukuthi ine"
+      ],
+      "answer": "Ukunikeza abaprofethi isambulo"
+    },
+    "location": {
+      "label": "Isibaluli Esiyinhloko noma Isihloko",
+      "options": [
+        "UMoya oNgcwele (Ruh al-Qudus)",
+        "UMoya Wamandla",
+        "UMoya Wesihe",
+        "UMoya Wesiqondiso",
+        "UMoya Weqiniso"
+      ],
+      "answer": "UMoya oNgcwele (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Umphumela Womsebenzi",
+      "options": [
+        "I-Quran yembulwa kuMprofethi uMuhammad",
+        "Icilongo lashaywa ngoSuku Lokwahlulela",
+        "Isihogo sasivikelwe futhi amasango aso ayevaliwe",
+        "Incwadi Yezenzo yanikezwa ku-Allah",
+        "Imvula yathunyelwa emhlabeni"
+      ],
+      "answer": "I-Quran yembulwa kuMprofethi uMuhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

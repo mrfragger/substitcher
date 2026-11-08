@@ -1,0 +1,61 @@
+{
+  "title": "Mshindi Kati ya Upeo Mbili",
+  "intro": "Katika kumbukumbu za mwongozo wa kimungu, mtu mmoja anajitofautisha kama mtawala mwenye nguvu na mtumishi mnyenyekevu wa Mwenyezi Mungu. Mtu huyu alisafiri hadi sehemu za mbali zaidi za dunia, akishuhudia jua likichomoza juu ya watu wa kawaida na kutua katika chemchemi nyeusi yenye giza. Cha kushangaza zaidi, mtumishi huyu alipewa jukumu la kujenga kizuizi cha ajabu dhidi ya taifa la uovu mkubwa. Je, unaweza kumtambua mtu huyu wa hadithi kutoka Quran?",
+  "clues": [
+    "Nilipewa nguvu na ushawishi duniani na Mwenye Rehema Zaidi",
+    "Nilisafiri hadi mahali ambapo jua huchomoza na mahali linapotua",
+    "Nilifikia watu ambao hawakuweza kuelewa neno hata moja",
+    "Niliamriwa kujenga kizuizi kikubwa kwa kutumia chuma",
+    "Nilifunga nafasi kati ya milima miwili mikali kwa chuma kilichoyeyushwa",
+    "Sikuwa malaika wala nabii, bali mtumishi ambaye Mwenyezi Mungu alimneemesha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Dhu al-Qarnayn (Yule Mwenye Pembe Mbili)",
+        "Mfalme Suleiman (Sulemani)",
+        "Nabii Dhul-Kifl",
+        "Dhu al-Nun (Msaidizi wa Samaki)",
+        "Malaika wa Kizuizi"
+      ],
+      "answer": "Dhu al-Qarnayn (Yule Mwenye Pembe Mbili)"
+    },
+    "trial": {
+      "label": "Kazi Kubwa",
+      "options": [
+        "Kujenga mnara hadi mbinguni",
+        "Kujenga kizuizi kikubwa cha chuma dhidi ya Yajuj na Majuj",
+        "Kuunda kiti cha enzi cha dhahabu kwa ajili ya hukumu",
+        "Kuchimba kisima kirefu kwa ajili ya wenye haki",
+        "Kujenga meli wakati wa mafuriko makubwa"
+      ],
+      "answer": "Kujenga kizuizi kikubwa cha chuma dhidi ya Yajuj na Majuj"
+    },
+    "location": {
+      "label": "Mpangilio",
+      "options": [
+        "Ardhi ya Uzair kati ya mito miwili",
+        "Mahali pa kuchomoza kwa jua na chemchemi nyeusi yenye matope",
+        "Bonde takatifu la Makka",
+        "Jangwa la Madyan",
+        "Kisiwa cha Kupro"
+      ],
+      "answer": "Mahali pa kuchomoza kwa jua na chemchemi nyeusi yenye matope"
+    },
+    "outcome": {
+      "label": "Ahadi ya Mungu",
+      "options": [
+        "Paradiso ya milele itatolewa mara moja",
+        "Taifa liliharibiwa na upepo mkali",
+        "Kizuizi kitadumu hadi Siku ya Hukumu",
+        "Uhuru kutoka kwa kifo kwa waumini wote",
+        "Ufalme wa milele usio na mwisho"
+      ],
+      "answer": "Kizuizi kitadumu hadi Siku ya Hukumu"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Melodia, joka siirsi vuoret",
+  "intro": "Olet pian paljastamassa tarinan merkittävästä Allahin palvelijasta. Sanansaattajien ja hallitsijoiden maassa tämä hahmo oli siunattu jumalallisella kirjalla, voimakkaalla äänellä ja voimalla raudan yli. Kun luet vihjeitä, pystytkö tunnistamaan, kuka tämä voisi olla?",
+  "clues": [
+    "Olin Allahin palvelija, jolle oli annettu erityinen kirja.",
+    "Minulla oli kaunis ääni, ja ylistykseni oli niin rakastettua, että jopa kukkulat ja linnut yhtyivät minuun.",
+    "Kohtasin mahtavan vastustajan kuuluisassa taistelussa, ja vaikka olin pienempi, voitin.",
+    "Rauta tehtiin minulle taipuisaksi, niin että pystyin valmistamaan haarniskan omin käsin.",
+    "Minusta tehtiin suuren kansan hallitsija, ja viisauttani tuomiossa pidettiin tunnetuna.",
+    "Poikani, myös profeetta, sai vallan tuulen ja džinnien yli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Daavid",
+        "Profeetta Sulaiman (Salomo)",
+        "Profeetta Musa (Mooses)",
+        "Profeetta Harun (Aaron)",
+        "Profeetta Ilja (Elias)"
+      ],
+      "answer": "Profeetta Daavid"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Voitti Goljatin (Jalutin)",
+        "Meren jakoi",
+        "Selviytyi valaan kuolemasta",
+        "Heitettiin tuleen",
+        "Rakensi arkin"
+      ],
+      "answer": "Voitti Goljatin (Jalutin)"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Zabur (Psalmit)",
+        "Toora (Tawrat)",
+        "Evankeliumi (Injil)",
+        "Ibrahimin kääröt",
+        "Koraani"
+      ],
+      "answer": "Zabur (Psalmit)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli profeetnaksi ja Israelin kuninkaaksi",
+        "Tuli Egyptin hallitsijaksi",
+        "Nostettiin taivaisiin",
+        "Myrsky tuhosi",
+        "Tuli luolan seuralaiseksi"
+      ],
+      "answer": "Tuli profeetnaksi ja Israelin kuninkaaksi"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

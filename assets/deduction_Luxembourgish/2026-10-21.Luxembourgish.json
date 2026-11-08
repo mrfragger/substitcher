@@ -1,0 +1,61 @@
+{
+  "title": "De Messenger, deen d'Gëtzendénger konfrontéiert huet",
+  "intro": "An enger Zäit, wou d'Hingabe ofgelaf war, ass e Bote mat engem Opruff opgestan, fir zréck an d'Veréierung vum Här vun de Welten ze goen. Dës Figur huet sech géint e Vollek gestanen, dat an der Veréierung vun enger falscher Gottheet verankert war, an huet si un hire richtege Schëpfer an den Här vun hire Virgänger erënnert. Awer d'Leit waren onopfälleg an hunn d'Warnung refuséiert, wouduerch si hiert eegent Schicksal versiegelt hunn. Wien war dësen oniwwerwältegen Uruffer?",
+  "clues": [
+    "Ech gouf zu engem Vollek geschéckt, dat sech vum Wee vum eenzege richtege Gott ofgedréit hat.",
+    "Ech hunn mäi Vollek gefrot: \"Wëllt Dir Allah net fäerten?\"",
+    "Ech hunn si opgeruff, hir Verehrung vun enger falscher Gottheet mam Numm Baal opzeginn.",
+    "Mäi Vollek huet mäi Ruff refuséiert a weider mat hirem Gëtzendéngscht weidergemaach.",
+    "Wéinst hirer Verleugnung ginn si sécherlech zur Strof virbruecht.",
+    "Mäin Här huet mir Fridden an eng geseent Erënnerung ënner de spéidere Generatiounen geschenkt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Ilyas",
+        "De Prophet Yahya",
+        "Prophet Dhul-Kifl",
+        "Prophet Yusuf",
+        "De Prophet Schou'ayb"
+      ],
+      "answer": "Prophet Ilyas"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Huet säi Vollek opgeruff, Baal opzeginn",
+        "Eng Ark gebaut fir d'Gleeweger ze retten",
+        "Gouf an e Feier gehäit",
+        "Virum Tyrann Pharao geflücht",
+        "Huet e Fiels geschloen fir Waasser erauszebréngen"
+      ],
+      "answer": "Huet säi Vollek opgeruff, Baal opzeginn"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Fridden geschenkt an eng geseent Erënnerung",
+        "Vun der Äerd verschléckt",
+        "Vun engem gewaltege Stuerm zerstéiert",
+        "An e Steen verwandelt",
+        "Am Mier erdronk"
+      ],
+      "answer": "Fridden geschenkt an eng geseent Erënnerung"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Prorok Izrezbarenih planina",
+  "intro": "U surovim pustinjama drevne Arabije, među ljudima poznatim po svojoj izvanrednoj vještini izronila je osoba. Njihovi su se domovi uzdizali iz čvrste stijene, ali su im srca bila tvrđa od planina koje su klesali. Božanski glasnik stigao je s jednim, čudesnim znakom - ali ponos i prkos doveli su do brzih i zastrašujućih posljedica. Možete li prepoznati plemenitog slugu čiji je narod izabrao uništenje umjesto vodstva?",
+  "clues": [
+    "Poslan sam kao upozoritelj svom narodu, pozivajući ih na obožavanje Jednog Boga.",
+    "Moj narod je živio među dramatičnim kamenim formacijama, urezujući veličanstvene nastambe u planinske obronke.",
+    "Čudesna deva izronila je iz čvrste stijene na moju molitvu, jasan znak od Svemogućeg.",
+    "Rekao sam svom narodu da podijele vodu s ovom devom i da joj ne naude.",
+    "Moj narod je skovao zavjeru protiv deve i prerezao joj žile, zapečativši vlastito uništenje.",
+    "Strašan potres pogodio je moj narod i ostali su nepomično pali u svojim nastambama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Salih",
+        "Poslanik Hud",
+        "Poslanik Šu'ajb",
+        "Poslanik Nuh",
+        "Poslanik Musa"
+      ],
+      "answer": "Poslanik Salih"
+    },
+    "trial": {
+      "label": "Koje je bilo presudno suđenje?",
+      "options": [
+        "Povreda tetive koljena čudesne deve",
+        "Gradeći veliku arku usred ruganja",
+        "Suočavanje s tiranskim faraonom",
+        "Biti bačen u plamteću vatru",
+        "Kršenje saveza o suboti"
+      ],
+      "answer": "Povreda tetive koljena čudesne deve"
+    },
+    "location": {
+      "label": "Koji je bio središnji element?",
+      "options": [
+        "Deva koja je izašla iz stijene",
+        "Velika drvena arka",
+        "Štap koji je razdvojio more",
+        "Ogroman kit",
+        "Planina lebdi iznad glave"
+      ],
+      "answer": "Deva koja je izašla iz stijene"
+    },
+    "outcome": {
+      "label": "Kakva je bila njihova konačna sudbina?",
+      "options": [
+        "Iznenadni potres s neba",
+        "Utopljen u velikoj poplavi",
+        "Njihovi gradovi su srušeni božanskom zapovijedi",
+        "Opečen žestokim vjetrom",
+        "Progutala zemlja"
+      ],
+      "answer": "Iznenadni potres s neba"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

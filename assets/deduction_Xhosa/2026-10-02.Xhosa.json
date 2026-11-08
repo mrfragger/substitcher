@@ -1,0 +1,61 @@
+{
+  "title": "UMlawuli Owanqumla Iziphelo Zomhlaba",
+  "intro": "Khawucinge ngomlawuli onamandla, onikwe amandla negunya phezu komhlaba. Lo mntu waqala uhambo olungaqhelekanga, efika kwindawo apho ilanga litshona khona nendawo apho liphuma khona, edibana nabantu abangaqhelekanga kwaye ejongene nomngeni omkhulu ovela kwizizwe ezibini ezonakalisayo. Ngubani le nkokeli ingaqondakaliyo?",
+  "clues": [
+    "Ndandingumlawuli onikwe igunya neendlela zokufikelela kwiikona ezikude zomhlaba.",
+    "Ndaya entshona ndaza ndabona ilanga litshona entwasahlobo emnyama.",
+    "Ndidibene nabantu kufutshane nelanga eliphumayo ababengenandawo yokuzikhusela kubushushu balo.",
+    "Olunye uluntu lucele uncedo lwam nxamnye nezizwe ezibini ezonakalisayo ezaziwa ngokuba nguGogi noMagogi.",
+    "Ndakha umqobo ndisebenzisa isinyithi kunye nobhedu olunyibilikisiweyo ukuze ndizibambe.",
+    "Ndivakalise ukuba olu thintelo luyinceba evela eNkosini yam, kwaye luya kuhlala lukho kude kube lixesha elimiselweyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Umprofeti uSulaiman",
+        "IQarun",
+        "I-Talut",
+        "INamrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukwakha umqobo nxamnye noGogi noMagogi",
+        "Ukusinda kumkhukula omkhulu",
+        "Ukuphoswa emlilweni",
+        "Ukuwela ulwandle",
+        "Ukulwa nesigebenga"
+      ],
+      "answer": "Ukwakha umqobo nxamnye noGogi noMagogi"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umqobo wesinyithi nobhedu",
+        "Intonga eyaba yinyoka",
+        "Inqanawa yomthi",
+        "Ibhotwe leglasi",
+        "Igadi yemithi yesundu"
+      ],
+      "answer": "Umqobo wesinyithi nobhedu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "UGogi noMagogi babanjwa de kwafika ixesha elimiselweyo",
+        "Waba ngumprofeti",
+        "Wohlwaywa ngenxa yokuzikhukhumeza",
+        "Woyisa ihlabathi liphela",
+        "Waphila ngonaphakade"
+      ],
+      "answer": "UGogi noMagogi babanjwa de kwafika ixesha elimiselweyo"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

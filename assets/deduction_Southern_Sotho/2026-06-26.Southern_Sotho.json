@@ -1,0 +1,61 @@
+{
+  "title": "Moroalo oa Mpho e Hannoeng",
+  "intro": "Qalong ea nalane ea batho, ha lefatše le sa le lenyenyane 'me lefatše le tšoara moea oa lona oa pele, moea o ile oa ema ka pel'a 'Mōpi ka nyehelo e ikokobelitseng. Nyehelo eo e ile ea lekanngoa ka tekanyo ea kamohelo ea bomolimo - 'me ea fumanoa e haella. Se ileng sa latela e ne e se pale ea tšoarelo, empa ea pelo e jeoang ke poulelo, e lebisang ketsong e ke keng ea fetoloa e neng e tla utloahala ka linako tsohle. Ena ke pale ea motho eo lebitso la hae le ileng la tšoana le ho hloka toka ha pele ho hoholo ho kileng ha etsoa.",
+  "clues": [
+    "Ke hlahile ke le e mong oa bana ba pele ba kileng ba tsoaloa, ke tsoaletsoe ke motsoali eo pale ea hae u e tsebang hantle.",
+    "Ke kile ka nyehela sehlabelo ho Allah, empa ha sea ka sa amoheloa ke 'na — leha nyehelo ea ngoan'eso e ile ea amoheloa ka mohau.",
+    "Mōna le khalefo li ile tsa mela ka metso pelong ea ka, 'me ka tšosa ka ho felisa bophelo ba beng ka 'na.",
+    "Ngoan'eso o ile a ntemosa hore ke tšabe Allah, empa boikhohomoso ba ka bo ne bo sa ntetle ho mamela.",
+    "Motsotsong oa bofokoli bo tšabehang, ke ile ka etsa ketso e sa hlaloseheng ho moena oa ka.",
+    "Kamora moo, ke ne ke sa tsebe le ho pata seo ke se entseng — ho fihlela sebopuoa sa lefats'e se romeloa ho tla nthuta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Qabil (Kaine)",
+        "Habile (Abele)",
+        "Mora oa Moprofeta Nuh",
+        "Moprofeta Isma'il",
+        "Moprofeta Yusuf"
+      ],
+      "answer": "Qabil (Kaine)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho nyehela sehlabelo se ileng sa haneloa, se ileng sa lebisa polaong ea pele",
+        "Ho haha ​​tora e telele ho fihla maholimong",
+        "Ho lahleloa mollong o tukang ka lebaka la tumelo ea motho",
+        "Ho nyehela mora oa hao ka ho mamela Allah",
+        "Ho metsoa ke tlhapi e kholo ka lebaka la ho baleha mosebetsi oa hao"
+      ],
+      "answer": "Ho nyehela sehlabelo se ileng sa haneloa, se ileng sa lebisa polaong ea pele"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Lekhoaba le rometsoeng ke Allah ho bontša lepato",
+        "Moroallo o moholo o ileng oa khangoa ke batho bohle",
+        "Lere le ileng la fetoha noha e phelang",
+        "Kamele e tšehali e ileng ea hlaha thabeng ea lefika",
+        "Terone e ntle e tsamaisoang ke meea e matla"
+      ],
+      "answer": "Lekhoaba le rometsoeng ke Allah ho bontša lepato"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E ile ea e-ba ea masoabi, ea imetsoeng ke tlōlo ea molao ea pele e kileng ea etsoa",
+        "Molimo o ile a tšoarela 'me a mo fa Paradeise ea ka ho sa feleng",
+        "O ile a phahamisetsoa boemong bo phahameng ba boprofeta le bohlale",
+        "Ke pholositsoe ke mohau oa Molimo ka mor'a ho hoeletsa ho tsoa lefifing le tebileng",
+        "A neoa puso holim'a li-jinn, moea le maoatle"
+      ],
+      "answer": "E ile ea e-ba ea masoabi, ea imetsoeng ke tlōlo ea molao ea pele e kileng ea etsoa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mulanguteri wa Langavi leri nga Timiwiki",
+  "intro": "Xifaniso xi yime enyangweni wa ndhawu leyi chaviwaka ngopfu eka leswi nga voniwiki, xi tshembisiwe ntirho lowu ku nga riki na xivumbiwa xin’wana lexi wu wu navelaka. Loko mimoya-xiviri leyi xanisekaka yi huwelela yi kombela tintswalo, nhlamulo yo tika yi twala emakamareni ya ndzilo. Xana u nga paluxa vumunhu bya murindzi loyi wa hilaha ku nga heriki?",
+  "clues": [
+    "Ndzi yime enyangweni wa ndhawu yo chavisa ya ku xupuriwa eka leswi nga voniwiki.",
+    "Ndzilo lowu pfurhaka, lowu nga timekiki i nchumu wa nkoka eka ntirho wa mina lowu xiximekaka.",
+    "Mimoya-xiviri leyi xanisekaka yi vitana vito ra mina, yi kombela ku ntshunxiwa eka ku xanisiwa ka yona loku nga heriki.",
+    "Loko va kombela, ndzi tivisa leswaku a va nge fambi, nikatsongo.",
+    "A ndzi munhu, kumbe jinn — ndzi xivumbiwa lexi tumbuluxiweke xa ku yingisa loku tengeke.",
+    "Ndzi ntsumi leyikulu leyi vekiweke tanihi murindzi la nga heriki wa Ndzilo wa Tihele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Vanhu va Tihele va kombela leswaku ku xanisiwa ka vona ku herisiwa",
+        "Mhalamhala yi biwa ku kombisa Siku ra Vuavanyisi",
+        "Quran yi paluxiwile embilwini ya Muprofeta",
+        "Muprofeta u hoxiwa endzilweni lowukulu hi vanhu va vona",
+        "Rirhangu ra matimba ri akiwe leswaku ri ta kota ku khoma tiko leri onhakeke"
+      ],
+      "answer": "Vanhu va Tihele va kombela leswaku ku xanisiwa ka vona ku herisiwa"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ndzilo wa Tihele (Jahannam) .",
+        "Murhi wa Lote lowu nga endzilakaneni wa Paradeyisi",
+        "Mhalamhala leyi tlhavaka",
+        "Nhonga leyi hundzukaka nyoka",
+        "Xiluvelo xa Xikwembu lexi hlamarisaka"
+      ],
+      "answer": "Ndzilo wa Tihele (Jahannam) ."
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Vaaki va Tihele va byeriwa leswaku va ta tshama hilaha ku nga heriki",
+        "Vaaki va Tihele va rivaleriwa va tlhela va ntshunxiwa",
+        "Vaaki va Tihele va nyikiwa nkarhi wa vumbirhi wa ripfumelo",
+        "Vaaki va Tihele va rhurhiseriwa endhawini yo kufumela",
+        "Vaaki va Tihele va lovisiwa hi ku helela hi xidzedze"
+      ],
+      "answer": "Vaaki va Tihele va byeriwa leswaku va ta tshama hilaha ku nga heriki"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

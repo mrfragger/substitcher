@@ -1,0 +1,61 @@
+{
+  "title": "Ing Warden ning E Mapuputda Api",
+  "intro": "Ing metung a pigura makatalakad ya keng pasbul ning peka makatakut a lugal keng e mayayakit, mipagkalub ya keng metung a katungkulan na alang aliwang lelangan a bisa. Potang ding taung magdusa kukulisak lang lunus, ing masikan a pakibat mag-echo ya kareng silid ning api. Malyari meng abalu ing pangatau na niting alang anggang talaingat?",
+  "clues": [
+    "Makatalakad ku king pasbul ning makatakut a lugal ning parusa king e mayayakit.",
+    "Ing milalablab, e matatda a api ya ing sentru ning kanakung solemning katungkulan.",
+    "Ding kaladwang magdusa mamaus la king lagyu ku, manyawad lang kapayapan king karelang alang kapupusan a kasakitan.",
+    "Potang makisabi la, sasabyan ku na e la mako, kapilan man.",
+    "ali ku tau, ali ku jinn — metung kung lelangan a maki purung kapamintuan.",
+    "Aku ing pekapun a anghel a mitulduan bilang alang anggang talaingat ning api ning impierno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Ding tau ning impierno makisabi lang mayari ing karelang kasakitan",
+        "Tiupan de ing trumpeta bilang tanda king Aldo ning Pamanukum",
+        "Ing Quran mibulalag ya keng pusu ning Propeta",
+        "Ing metung a propeta miyugse ya keng maragul a api kareng memalen na",
+        "Mitalakad ya ing metung a masikan a pader ban sakupan ne ing metung a bangsang masira"
+      ],
+      "answer": "Ding tau ning impierno makisabi lang mayari ing karelang kasakitan"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Ing Hellfire (Jahannam)",
+        "Ing Dutung a Lote king angganan ning Paraiso",
+        "Metung a makatusuk a trumpeta",
+        "metung a tungkud na maging ubingan",
+        "Metung a mangasanting a banal a tronu"
+      ],
+      "answer": "Ing Hellfire (Jahannam)"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Deng manuknangan keng impierno sinabi da karela na manatili la alang angga",
+        "Ding manuknangan king Impyerno mipatawaran la at mipaburen la",
+        "Deng manuknangan keng impierno mirinan lang kaduang pagkakataun keng kasalpantayanan",
+        "Ding manuknangan king Impyerno mipalipat la king lugal a marimla",
+        "Ding manuknangan king impierno lubus lang mesira king metung a duldul"
+      ],
+      "answer": "Deng manuknangan keng impierno sinabi da karela na manatili la alang angga"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

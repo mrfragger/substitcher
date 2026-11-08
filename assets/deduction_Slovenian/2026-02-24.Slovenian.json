@@ -1,0 +1,61 @@
+{
+  "title": "Odmev prevare",
+  "intro": "Sorodstveno vez je preizkusil val zavisti. Skovali so skrivni načrt, ki je sprožil verigo dogodkov, ki so se raztezali leta in prečkali ogromne razdalje. Dejanja te skupine so privedla do globoke ločitve in žalosti, a zgodba se tu ni končala. To je zgodba o prevari, obžalovanju in končnem razkritju božanskega načrta. Ali lahko razvozlate identiteto teh posameznikov, katerih odločitve so odmevale skozi generacije?",
+  "clues": [
+    "Preganjalo nas je ljubosumje zaradi naklonjenosti, ki smo jo izkazali enemu od naših.",
+    "V zavisti sva se zarotila in vrgla najinega brata v temo vodnjaka.",
+    "Da bi prikrili svoje dejanje, smo očetu podarili oblačilo, omadeževano z lažno krvjo.",
+    "Leta kasneje nas je huda lakota prisilila, da smo odpotovali v Egipt, da bi poiskali zaloge hrane.",
+    "Tam smo prišli pred mogočnega guvernerja, ki je bil, ne da bi ga poznali, prav tisti brat, ki smo mu storili krivico.",
+    "Naš zadnji preizkus je bil pripeljati našega najmlajšega brata Benjamina, kar je vodilo do razkritja naše preteklosti in tega, da je bil naš oče prerok Jakub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Sinova Adama (Kabil in Habil)",
+        "Učenci preroka Isa",
+        "Bratje preroka Jusufa",
+        "Ljudje iz Madyana",
+        "Faraonovi čarovniki"
+      ],
+      "answer": "Bratje preroka Jusufa"
+    },
+    "trial": {
+      "label": "Kaj je bila naša glavna napaka?",
+      "options": [
+        "Gradnja zlatega teleta za čaščenje",
+        "Zahteva, da bi videl Alaha neposredno",
+        "Posmehovanje preroku, ker je zgradil barko",
+        "Prevarali smo očeta in zapustili brata",
+        "Kršenje sobote z ribolovom"
+      ],
+      "answer": "Prevarali smo očeta in zapustili brata"
+    },
+    "location": {
+      "label": "Kateri predmet je bil osrednji del naše prevare?",
+      "options": [
+        "Komplet napisnih tablic",
+        "Srajca, obarvana z lažno krvjo",
+        "Zlato tele",
+        "Lepa ptica (hoopoe)",
+        "Palica, ki se je spremenila v kačo"
+      ],
+      "answer": "Srajca, obarvana z lažno krvjo"
+    },
+    "outcome": {
+      "label": "Kakšen je bil končni izid naše zgodbe?",
+      "options": [
+        "Uničila nas je mogočna poplava",
+        "Spremenili so nas v opice",
+        "Požrla nas je zemlja",
+        "Odpuščeno nam je bilo in ponovno smo se združili z družino.",
+        "Utopili smo se v morju"
+      ],
+      "answer": "Odpuščeno nam je bilo in ponovno smo se združili z družino."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

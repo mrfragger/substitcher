@@ -1,0 +1,61 @@
+{
+  "title": "Ang Nawala nga Kadaghanon",
+  "intro": "Nagbarog ka atubangan sa mga lanog sa usa ka komunidad kansang istorya nahisulat sa mga balod. Kining mga kalag nakadungog og tawag, mipili sa pagsukol, ug miatubang sa usa ka sangputanan nga nag-usab sa porma sa kalibutan. Kinsa sila, ug unsa ang nahitabo sa ilang kalibutan?",
+  "clues": [
+    "Nagpuyo kita kaniadto pa, ug usa ka mensahero ang miabot kanato gikan sa atong taliwala.",
+    "Nagsimba mig lima ka diosdios ug midumili mi sa pagbiya niini.",
+    "Among gibugalbugalan ang mensahero ug giakusahan siya nga nasayop.",
+    "Among gipangayo nga iyang ipahamtang ang silot kon siya matinud-anon.",
+    "Nakita namo ang kalangitan nga nagbubo og ulan ug ang yuta nga nagpaagay og mga tubod.",
+    "Misaka kami sa habog nga mga dapit aron makaikyas, apan nalabyan kami sa mga balod."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Kami?",
+      "options": [
+        "Mga tawo ni Nuh",
+        "Mga tawo sa 'Ad",
+        "Mga tawo sa Thamud",
+        "Mga tawo ni Lut",
+        "Mga tawo sa Madyan"
+      ],
+      "answer": "Mga tawo ni Nuh"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Nalumos mi sa dakong baha",
+        "Naguba mi sa bagyo",
+        "Namatay mi sa kusog nga pagbuto",
+        "Gilamoy mi sa yuta",
+        "Gilabay kami og mga bato gikan sa langit"
+      ],
+      "answer": "Nalumos mi sa dakong baha"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Dakong baha",
+        "Usa ka kusog nga hangin",
+        "Usa ka ulan sa mga bato",
+        "Usa ka nagdilaab nga pagbuto",
+        "Usa ka linog"
+      ],
+      "answer": "Dakong baha"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Kitang tanan nangamatay gawas sa mga magtutuo uban ni Noah",
+        "Nabag-o kami nga mga unggoy",
+        "Nabilin kami nga mga kagun-oban alang sa mga magpapanaw",
+        "Gihimo kaming asin",
+        "Gihatagan mig pahulay"
+      ],
+      "answer": "Kitang tanan nangamatay gawas sa mga magtutuo uban ni Noah"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

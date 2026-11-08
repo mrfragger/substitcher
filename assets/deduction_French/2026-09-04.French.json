@@ -1,0 +1,61 @@
+{
+  "title": "La mélodie qui a déplacé les montagnes",
+  "intro": "Vous êtes sur le point de découvrir l'histoire d'un serviteur d'Allah exceptionnel. Dans un pays de messagers et de souverains, cet homme fut doté d'un livre divin, d'une voix puissante et d'une force inébranlable. À travers les indices, saurez-vous deviner de qui il s'agit ?",
+  "clues": [
+    "J'étais un serviteur d'Allah à qui un livre spécial avait été accordé.",
+    "J'avais une voix magnifique, et mes louanges étaient si appréciées que même les collines et les oiseaux se joignaient à moi.",
+    "J'ai affronté un adversaire redoutable lors d'une bataille célèbre, et malgré ma taille inférieure, j'ai triomphé.",
+    "Le fer a été rendu malléable pour moi, ce qui m'a permis de fabriquer des armures de mes propres mains.",
+    "J'ai été nommé souverain d'une grande nation, et ma sagesse en matière de jugement était renommée.",
+    "Mon fils, lui aussi prophète, reçut le pouvoir de maîtriser le vent et les djinns."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Dawud (David)",
+        "Prophète Sulaiman (Salomon)",
+        "Prophète Moussa (Moïse)",
+        "Prophète Harun (Aaron)",
+        "Le prophète Ilyas (Élie)"
+      ],
+      "answer": "Le prophète Dawud (David)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Goliath vaincu (Jalut)",
+        "Sépara la mer",
+        "A survécu à la baleine",
+        "A été jeté dans un feu",
+        "L'arche a été construite"
+      ],
+      "answer": "Goliath vaincu (Jalut)"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le Zabur (Psaumes)",
+        "La Torah (Tawrat)",
+        "L'Évangile (Injil)",
+        "Les Rouleaux d'Ibrahim",
+        "Le Coran"
+      ],
+      "answer": "Le Zabur (Psaumes)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il devint prophète et roi d'Israël",
+        "Il devint le souverain de l'Égypte",
+        "A été élevé au ciel",
+        "A été détruit par une tempête",
+        "Il devint un compagnon de la grotte"
+      ],
+      "answer": "Il devint prophète et roi d'Israël"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

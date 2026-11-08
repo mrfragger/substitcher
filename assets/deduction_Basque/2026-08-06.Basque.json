@@ -1,0 +1,61 @@
+{
+  "title": "Ibaiertzeko Arima Zaintzailea",
+  "intro": "Arima gazte bati misio sekretu bat eman zioten, distantzia seguru batetik patua uretan nola garatzen zen behatzea. Ikusi gabe eta susmatu gabe, pertsonaia honek funtsezko zeregina izango zuen nazio baten historiaren norabidea aldatzeko.",
+  "clues": [
+    "Amak zeregin bat eman zidan, isilpean ibiltzea eta erne egotea eskatzen zuena.",
+    "Nire begiek sehaska txiki bati jarraitu zioten korrontean zehar noraezean zihoanari, bihotza kezkaz astun nuela.",
+    "Ustekabeko batek aurkitu zuenean, hurbildu nintzen, ikaratuta.",
+    "Zaintzaile baten bila zebiltzan etsipena ikusi nuen eta egia agerian utzi gabe irtenbide bat eskaini nien.",
+    "Nire esku-hartze puntualak erizaintzako arima bat gehien behar zuenarengana itzuli zuen.",
+    "Boteretsuen gorteetan esan nuen: «Zurekin harremanetan jarriko al zaitut, hura elikatuko eta arretaz zainduko duen familia batengana?»"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Musaren arreba.",
+        "Musaren ama.",
+        "Faraoiaren emaztea.",
+        "Emagin bat",
+        "Shuaib-en alaba."
+      ],
+      "answer": "Musaren arreba."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Haur bat ibaira botatzea",
+        "Itsasoaren banaketa.",
+        "Txahalaren erretzea.",
+        "Arkaren eraikuntza.",
+        "Matxinsaltoen izurritea."
+      ],
+      "answer": "Haur bat ibaira botatzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ibaia",
+        "Basamortua",
+        "Mendia",
+        "Jauregia",
+        "Sua"
+      ],
+      "answer": "Ibaia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Haurra bere amarekin elkartu zuen",
+        "Faraoiaren soldaduengandik salbatu zuen bere burua",
+        "Erregina bihurtu zen.",
+        "Espioitzagatik zigortu zuten.",
+        "Israeldarrak gidatu zituen"
+      ],
+      "answer": "Haurra bere amarekin elkartu zuen"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

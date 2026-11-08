@@ -1,0 +1,61 @@
+{
+  "title": "Người được chọn có khả năng diễn đạt lưu loát",
+  "intro": "Dưới bóng ngọn núi nơi những lời thiêng liêng vang vọng, niềm tin của một dân tộc lung lay dưới ánh vàng lấp lánh. Một tâm hồn được trời phú cho tài hùng biện, đứng vững như một chỗ dựa cho sứ mệnh cao cả hơn, nhưng lại phải đối mặt với thử thách sâu sắc. Khi sứ giả được chọn lên nắm giữ sứ mệnh thiêng liêng, nhân vật này vẫn ở lại, van xin một dân tộc đang bất an. Tâm hồn kiên định ấy là ai, người đã cất tiếng nói chống lại sự thờ cúng thần tượng?",
+  "clues": [
+    "Tôi được Allah chọn làm nhà tiên tri, mặc dù câu chuyện của tôi thường được kể cùng với một câu chuyện khác.",
+    "Tôi được cử đến phục vụ một bạo chúa, nhưng vai trò của tôi là hỗ trợ chứ không phải lãnh đạo.",
+    "Tôi được trời phú cho tài hùng biện, và lời nói của tôi nhằm mục đích làm mềm lòng người.",
+    "Khi người bạn đồng hành của tôi lên đường đến một nhiệm vụ thiêng liêng, tôi được giao nhiệm vụ dẫn dắt một đám đông đang bất an.",
+    "Trong lúc thiếu kiên nhẫn, họ đã làm giả một bức tượng từ đồ trang sức của mình, và tôi đã khẩn cầu họ hãy trung thành với Allah.",
+    "Người bạn đồng hành của tôi quay lại và bắt giữ tôi, nhưng tôi giải thích rằng đám đông đã khống chế tôi và suýt giết chết tôi; tôi không phải là kẻ gây ra tội ác."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Musa",
+        "Tiên tri Harun",
+        "Tiên tri Isa",
+        "Tiên tri Yahya",
+        "Tiên tri Zakariya"
+      ],
+      "answer": "Tiên tri Harun"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Bị ném vào lửa",
+        "Bị ném xuống giếng",
+        "Đối mặt với sự cố con bê vàng",
+        "Thử nghiệm về một căn bệnh nghiêm trọng",
+        "Thử thách của việc mất đi của cải và con cái"
+      ],
+      "answer": "Đối mặt với sự cố con bê vàng"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con bê vàng",
+        "Nhân viên",
+        "Hòm Giao Ước",
+        "Những viên thuốc",
+        "Bụi cây bốc cháy"
+      ],
+      "answer": "Con bê vàng"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị trừng phạt nặng nề",
+        "Được tha thứ và minh oan",
+        "Lên làm vua",
+        "Được đưa lên thiên đường",
+        "Được ban cho một đoạn kinh thánh mới"
+      ],
+      "answer": "Được tha thứ và minh oan"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

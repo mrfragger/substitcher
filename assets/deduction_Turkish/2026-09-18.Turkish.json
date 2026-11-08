@@ -1,0 +1,61 @@
+{
+  "title": "Kutsal Vadiden Gelen Çağrı",
+  "intro": "Tarihin sayfalarının ötesinde, güçlü bir hükümdar ile köleleştirilmiş bir halk arasında duran bir ruhun öyküsü yatıyor. Bu kişi, bir ulusu zulümden kurtarmak için çağrılmış ve her türlü doğal yasaya meydan okuyan mucizeler gerçekleştirmiştir. Kutsal bir dağdan sular üzerindeki bir mucizeye kadar, Allah'ın bu kulu, çağlar boyunca yankılanacak işaretlere tanık olmuştur. Bugünkü göreviniz, mirası insanlık tarihinin seyrini şekillendiren bu olağanüstü şahsiyeti belirlemektir.",
+  "clues": [
+    "Ben, halkımın ölümcül bir fermanla karşı karşıya olduğu bir dönemde doğdum ve ailem hayatımı kurtarmak için beni suya bıraktı.",
+    "Ben, türümün öldürülmesini emreden hükümdarın evinde bulundum ve büyüdüm.",
+    "Kutsal bir dağa kaçtım; orada yanmamış bir ağacın üzerinde ateş gördüm ve ağaçtan bana bir ses geldi.",
+    "Mucizelerle o hükümdarın huzuruna geri gönderildim ve köleleştirilmiş halkımın özgürlüğünü talep ettim.",
+    "Asamla denize vurdum ve deniz kuru yollara ayrıldı, peşimden gelenleri yuttu.",
+    "Kırk gece boyunca bir dağda Rabbimle görüştüm ve ilahi rehberlik levhaları aldım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Musa",
+        "Peygamber Harun",
+        "Peygamber İbrahim",
+        "Peygamber Yusuf",
+        "Peygamber Davud"
+      ],
+      "answer": "Peygamber Musa"
+    },
+    "trial": {
+      "label": "Hayatımı Belirleyen Duruşma",
+      "options": [
+        "Denizin Yarılması",
+        "Büyük Geminin İnşası",
+        "Alevli Bir Ateşle Yargılama",
+        "Balinanın Karnında Hapsedilme",
+        "Mısırlı bir yetkili tarafından hapse atılmak"
+      ],
+      "answer": "Denizin Yarılması"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Çoban Asası",
+        "Büyük Ahşap Gemi",
+        "Zamanın Uyuduğu Bir Mağara",
+        "İki Pınarlı Bir Bahçe",
+        "Altınla Süslenmiş Bir Taht"
+      ],
+      "answer": "Çoban Asası"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Halkım denizi geçerek güvenliğe ulaştı.",
+        "Büyük bir tufan kâfirleri yok etti.",
+        "Bir Tiranın Ateşi Soğudu ve Huzur Verdi",
+        "Deniz, esirini kıyıya attı.",
+        "Esir, Mısır'ın hazinedarı oldu."
+      ],
+      "answer": "Halkım denizi geçerek güvenliğe ulaştı."
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

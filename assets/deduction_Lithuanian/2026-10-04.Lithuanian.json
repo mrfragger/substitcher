@@ -1,0 +1,61 @@
+{
+  "title": "Našta, atnešusi išgijimą",
+  "intro": "Neįtikėtinai išbandyta siela neteko paguodos, bendražygių ir kūno jėgų. Giliame sielvarte apimtas, šis Alacho tarnas atsigręžė tik į Dievybę. Nepajudinamos kantrybės ir nuoširdžios maldos dėka atėjo gailestingumo banga, pranokusi visus lūkesčius. Kas yra ši asmenybė, kurios atsidavimas atvėrė atstatymo duris?",
+  "clues": [
+    "Buvau Alacho palankus tarnas, džiaugiausi gausa, klestinčia šeima ir gera sveikata.",
+    "Tada užklupo išbandymas: turtas iškeliavo, artimieji iškeliavo, o mano paties kūną ištiko sunkus sielvartas.",
+    "Artimieji nebegalėjo pakęsti mano būklės, ir aš likau vienas, mano kūnas kančios draskomas.",
+    "Aš šaukiausi savo Viešpaties, pareikšdamas, kad Šėtonas mane išsekino ir nubaudė.",
+    "Atėjo atsakas – įsakymas trenkti koja į žemę, ir iš jos tryško vėsus gydantis vanduo.",
+    "Mano Viešpats visiškai pašalino sunkumus ir sugrąžino man šeimą, padaugintą, kaip gailestingumo ženklą tiems, kurie apmąsto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ayyubas",
+        "Pranašas Musa",
+        "Pranašas Jusufas",
+        "Pranašas Junusas",
+        "Pranašas Ibrahimas"
+      ],
+      "answer": "Pranašas Ayyubas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Sunki liga ir visų netektis",
+        "Įmestas į ugnį tirono įsakymu",
+        "Įkalintas gilioje duobėje giminaičių",
+        "Jūroje prarijo didelė žuvis",
+        "Klajojant tremtyje iš tėvynės"
+      ],
+      "answer": "Sunki liga ir visų netektis"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Vėsus pavasaris, trykštantis iš žemės",
+        "Vėsi ir rami ugnis",
+        "Arka stovi ant kalno",
+        "Personalas, kuris perskyrė jūrą",
+        "Krepšys plūduriuoja upėje"
+      ],
+      "answer": "Vėsus pavasaris, trykštantis iš žemės"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Šeima ir palaiminimai atkurti, padvigubinti",
+        "Iš gaisro nenukentėjo",
+        "Pakilo į aukščiausias karalystės pareigas",
+        "Iš didelės žuvies pilvo išlindo į saugią vietą",
+        "Vedė žmones per padalintą jūrą"
+      ],
+      "answer": "Šeima ir palaiminimai atkurti, padvigubinti"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

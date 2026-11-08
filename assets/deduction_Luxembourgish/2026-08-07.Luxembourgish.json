@@ -1,0 +1,61 @@
+{
+  "title": "De Glawen hannert dem Troun",
+  "intro": "Verschidde Séilen gi net duerch Feier oder Iwwerschwemmung gepréift, mä duerch den Drock, am Palais vun engem Tyrann ze liewen. Dës Figur stoung nieft engem Herrscher, deen d'Göttlechkeet iwwer säi Vollek behaapt huet, awer heemlech un de Glawen un den Eenzege richtege Gott geklammert huet. Wéi hir Hingabe entdeckt gouf, koum d'Leed - awer och e göttlecht Verspriechen. Kënnt Dir roden, wien dat ass?",
+  "clues": [
+    "Ech hunn ënnert dem Daach vum mächtegste Herrscher vu mengem Land gelieft, an enger Positioun, déi sech nëmme wéineg virstelle kéinten.",
+    "Mäi Mann huet sech virum Vollek gestallt a sech selwer zu engem Gott erkläert - mä mäin Häerz huet dem Eenzege richtege Här gehéiert.",
+    "Ech hunn am Geheimen Gebieder geflüstert, aus Angscht virun der Strof, déi iwwer all déi koum, déi mengem Partner widdersprécht hunn.",
+    "Wéi mäi Glawen opgedeckt gouf, gouf ech gegraff a gefoltert - awer meng Zong huet ni e Wuert vun Ongleewe geschwat.",
+    "Ech hunn mäin Häerz viru mengem Här ausgegoss a gefrot, ob ech en Haus am Paradäis hätt, wäit ewech vun all Ongerechtegkeet.",
+    "Ech sinn d'Asiya bint Muzahim – d'Fra vum Pharao, deen de Musa an den Harun géint hie war."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Asiya bint Muzahim (Fra vum Pharao)",
+        "Hawwa (Eva), déi éischt Fra",
+        "Sarah, déi éischt Fra vum Ibrahim",
+        "Hagar, d'Mamm vum Ismaël",
+        "D'Mamm vun der Maryam (Fra vum Imran)"
+      ],
+      "answer": "Asiya bint Muzahim (Fra vum Pharao)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Folter aushalen, well se refuséiert hunn, de Glawen opzeginn",
+        "Iwwerliewen am Bauch vun engem grousse Fësch",
+        "Eng rieseg Ark bauen fir enger Iwwerschwemmung ze entkommen",
+        "An e brennend Feier gehäit ginn",
+        "Zeie vun der Trennung vun engem grousse Mier"
+      ],
+      "answer": "Folter aushalen, well se refuséiert hunn, de Glawen opzeginn"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "En Haus, dat fir si am Paradäis gebaut gouf",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "Eng Ark, déi Puer vun all Kreaturen transportéiert",
+        "E gëllene Kalb, dat vun enger Natioun veréiert gëtt",
+        "Eng Schleider déi benotzt gëtt fir e risege Krieger ze besiegen"
+      ],
+      "answer": "En Haus, dat fir si am Paradäis gebaut gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Geéiert mat engem Wunnsëtz am Paradäis nieft de Gerechten",
+        "Ënnert de Wellen zesumme mat hirer Arméi erdronk",
+        "A Flamen verbrannt, awer duerch göttlech Interventioun gerett",
+        "Vun engem grousse Wiesen verschléckt an dann u Land gehäit",
+        "Si sinn déi räichst Persoun vu senger Zäit ginn"
+      ],
+      "answer": "Geéiert mat engem Wunnsëtz am Paradäis nieft de Gerechten"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

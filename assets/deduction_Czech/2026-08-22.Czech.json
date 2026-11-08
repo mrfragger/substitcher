@@ -1,0 +1,61 @@
+{
+  "title": "Město, které věřilo v čas",
+  "intro": "V análech božského milosrdenství existuje komunita, jejímž zlomovým bodem byl okamžik kolektivního uvědomění. Chystáte se odhalit jejich příběh – příběh varování, pokání a odkladu, který je odlišil od osudu jiných národů.",
+  "clues": [
+    "Byli jsme lidem, k němuž byl vyslán posel, a my jsme se od jeho volání zpočátku odvrátili.",
+    "Když se jasně ukázaly známky hrozícího trestu, uvědomili jsme si pravdivost jeho varování.",
+    "S upřímným pokáním jsme se obrátili k našemu Pánu a naše víra byla přijata.",
+    "Trest, který nám byl uložen, byl zrušen kvůli naší víře.",
+    "Náš příběh je uváděn jako výjimka mezi městy, která uvěřila poté, co viděla trest.",
+    "Byli jsme lidem proroka, kterého spolkla velryba, a přesto jsme byli zachráněni před zkázou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z Yunusu",
+        "Lidé z Nuha",
+        "Lidé z Hudu",
+        "Lidé ze Salihu",
+        "Lidé z Lutu"
+      ],
+      "answer": "Lidé z Yunusu"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Ničivá povodeň",
+        "Silná větrná bouře",
+        "Hrozící trest hanby, kterému bylo odvráceno",
+        "Země je pohlcuje",
+        "Déšť kamenů"
+      ],
+      "answer": "Hrozící trest hanby, kterému bylo odvráceno"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Archa",
+        "Velbloudice",
+        "Město se sto tisíci obyvateli",
+        "Zaměstnanci Musy",
+        "Poklad Karuna"
+      ],
+      "answer": "Město se sto tisíci obyvateli"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byly úplně zničeny",
+        "Dostali na čas potěšení",
+        "Byli proměněni v opice",
+        "Utopili se",
+        "Byli pohlceni zemí"
+      ],
+      "answer": "Dostali na čas potěšení"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

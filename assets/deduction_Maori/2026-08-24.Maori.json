@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaiwhakarongo Huna i Whakapono",
+  "intro": "I te ata noho o tētahi huihuinga tapu, ka tae mai tētahi huihuinga whakamiharo mai i tētahi ao kāore i kitea. Nā te rongonga i ngā kōrero hāhā mō tētahi mea whakamiharo, ka whakarongo rātou ki tētahi waiata hei hiri i tō rātou aituā ake ake. Ko tā rātou whakaaturanga tētahi o ngā mea tino ahurei i roto i ngā karaipiture tapu.",
+  "clues": [
+    "He iwi tātou nō tētahi ao kāore e kitea e te tini, ā, i haere mai tātou hei rōpū.",
+    "I haere mātou ki tētahi huihuinga ki te whakarongo ki tētahi mea whakamiharo.",
+    "I tō mātou taenga atu, ka whakarongo mātou ki tētahi whakataki, ā, ka miharo mātou.",
+    "I whakaae pūmau mātou ko ētahi o mātou he tika, ko ētahi he hē.",
+    "I mōhio mātou e kore e taea e mātou te mawhiti i te ture a te Atua i runga i te whenua, e kore hoki e taea e mātou te rere ki te rangi.",
+    "I tō mātou rongonga i te arataki, i whakapono mātou ki reira; ko te tangata e whakapono ana ki tōna Ariki, e kore ia e mataku i te mate, i te taumahatanga rānei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "He rōpū Jinn",
+        "Te Iwi o Irama",
+        "Te Iwi o Tubba'",
+        "Te Emepaea o Rōma",
+        "Te Iwi o Quraysh"
+      ],
+      "answer": "He rōpū Jinn"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakarongo ki tētahi karakia tapu",
+        "Te hanga i ngā pou teitei i roto i tō tātou tāone",
+        "Te hopu i tētahi kamera uha whakamiharo",
+        "Te whakangaromanga mō te patu i ō tātou poropiti",
+        "Te whakanui i te taonga ki tua atu i te mehua"
+      ],
+      "answer": "Te whakarongo ki tētahi karakia tapu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He huihuinga mō te karakia tapu",
+        "He tāone o ngā pou teitei (Iram)",
+        "He puna i te koraha",
+        "He whare nui koura",
+        "He ana tapu i ngā maunga"
+      ],
+      "answer": "He huihuinga mō te karakia tapu"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakapono mātou, ā, i whakatūpato hoki i tō mātou iwi",
+        "I whakangaromia e te pahūtanga nui mai i te rangi",
+        "I whiua e te hau werawera, whakangaro",
+        "I whakawhiwhia ki te taonga nui me te mana nui",
+        "I noho pūmau i roto i te kore whakapono"
+      ],
+      "answer": "I whakapono mātou, ā, i whakatūpato hoki i tō mātou iwi"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

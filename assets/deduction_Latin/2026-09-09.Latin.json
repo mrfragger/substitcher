@@ -1,0 +1,61 @@
+{
+  "title": "Prima Anima Quae Stetit",
+  "intro": "Multo antequam ullus nuntius terram ambulavit, antequam ulla scriptura revelata est, ens nulli alii dissimilis in exitum venit. Haec anima manibus divinis formata est, loco incomparabilis pulchritudinis dato, et modo probato qui per totam historiam humanam resonaret. Quod secutum est fuit historia infirmitatis, sincerae paenitentiae, et fati quod cursum creationis in perpetuum mutaret. Potesne divinare quis hic sit?",
+  "clues": [
+    "Manus Misericordissimi ex ipso pulvere terrae formatus sum",
+    "Domus mihi data est incomparabilis pulchritudinis, ubi nulla fames aut lassitudo me tangere poterat.",
+    "Mihi mandatum est ne umquam ad arborem singulam accederem, nam vetitum erat",
+    "Ego et comes meus decepti, contra Domini mandatum, ad arborem vetitam accessimus.",
+    "Cum sincera paenitentia ad Dominum nostrum conversi sumus, et veniam accepimus peccati nostri",
+    "A nobis omnis humanitas descendit; ego primus sum qui hanc terram ambulavi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Adamus",
+        "Propheta Musa",
+        "Propheta Nuh",
+        "Propheta Iosue",
+        "Propheta Isaias"
+      ],
+      "answer": "Propheta Adamus"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Tentatio ab arbore vetita",
+        "Conflictus cum Pharaone",
+        "Arcae Magnae Aedificatio",
+        "Sacrificium filii dilecti",
+        "In magnum ignem coniectus"
+      ],
+      "answer": "Tentatio ab arbore vetita"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arbor Vetita",
+        "Rubus Ardens",
+        "Baculus Aureus",
+        "Arca Magna",
+        "Vitulus Aureus"
+      ],
+      "answer": "Arbor Vetita"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Missus ad terram ut primus humanitatis custos",
+        "Pharao et exercitus eius in mari submersi sunt",
+        "Magnum diluvium impios delevit",
+        "Ignis frigidus et pacificus factus est",
+        "Auctoritas super regnum Aegypti concessa est"
+      ],
+      "answer": "Missus ad terram ut primus humanitatis custos"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

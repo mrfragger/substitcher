@@ -1,0 +1,61 @@
+{
+  "title": "Möhkəm Şahidlər",
+  "intro": "İnamın odla sınandığı və sarsılmaz inamın son üsyan olduğu bir dövrü təsəvvür edin. Sizə Quranda hekayəsi təsvir edilən, böyük zülmə qarşı dərin bir iman hekayəsi olan bir qrupun kimliyini aşkar etmək tapşırılıb. Bu ruhların kim olduğunu və üzləşdikləri fövqəladə vəziyyətləri kəşf etmək üçün ipuçlarını açın.",
+  "clues": [
+    "İmanımızdan imtina etmək üçün böyük təzyiqlərə baxmayaraq, əqidəmizdə möhkəm dayandıq.",
+    "Biz tövhid nurunu söndürməyə çalışan güclü bir hökmdarın hədəfində idik.",
+    "Biz böyük əlamət və möcüzələrin şahidi olduq, lakin zalımlarımız qafil qaldılar.",
+    "Başqalarını qorxudaraq təslim etmək üçün hazırlanmış dəhşətli bir təqib metoduna dözdük.",
+    "Biz alovlu bir cəhənnəmə atıldıq, lakin səbrimiz bizə Allah yanında yüksək bir məqam qazandırdı.",
+    "Bizim hekayəmiz, möminləri təqib edənlərin aqibəti barədə xəbərdarlıq edən səma bürclərinin adını daşıyan bir surədə nəql olunur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Səmud xalqı",
+        "Ad xalqı",
+        "Xəndək Xalqı",
+        "Mədyən xalqı",
+        "Fil xalqı"
+      ],
+      "answer": "Xəndək Xalqı"
+    },
+    "trial": {
+      "label": "Təqibimiz",
+      "options": [
+        "Daşqında boğulma",
+        "Qızmar külək tərəfindən yandırılır",
+        "Odlu bir səngərə atılmaq",
+        "Torpaq tərəfindən udulmaq",
+        "Meymunlara çevrilmək"
+      ],
+      "answer": "Odlu bir səngərə atılmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Böyük bir daşqın",
+        "Böyük bir zəlzələ",
+        "Dərin, yanan bir xəndək",
+        "Güclü bir büt",
+        "Dağıdıcı bir quraqlıq"
+      ],
+      "answer": "Dərin, yanan bir xəndək"
+    },
+    "outcome": {
+      "label": "Bizim son taleyimiz",
+      "options": [
+        "Onlara yer üzündə bir padşahlıq verildi.",
+        "Onlar möcüzəvi şəkildə xilas oldular.",
+        "Onlar şəhidliyə və əbədi mükafata nail oldular.",
+        "Onlar fərqli bir növə çevrildilər.",
+        "Onlara böyük sərvət və bolluq bəxş edildi."
+      ],
+      "answer": "Onlar şəhidliyə və əbədi mükafata nail oldular."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

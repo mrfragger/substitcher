@@ -1,0 +1,61 @@
+{
+  "title": "A Primavera Sob a Areia",
+  "intro": "Nos anais do Alcorão, uma figura de imensa paciência enfrentou uma provação que quebraria até os corações mais fortes. Tudo lhe foi tirado: riqueza, família e saúde. Contudo, das profundezas do desespero, uma humilde oração foi atendida da maneira mais inesperada. Você consegue identificar essa alma cuja história de redenção ecoa através dos tempos?",
+  "clues": [
+    "Fui submetido a uma provação tão severa que é lembrada através dos tempos.",
+    "Perdi tudo o que importava: minha riqueza, meus filhos e minha saúde.",
+    "Meu corpo estava coberto de feridas dolorosas e eu era rejeitado por todos.",
+    "Em meu desespero, invoquei Alá, dizendo que Satanás me havia afligido com dificuldades e tormentos.",
+    "Alá me respondeu e ordenou que eu golpeasse a terra com o pé.",
+    "Daquele mesmo lugar, brotou uma fonte de água fresca, e Alá restaurou minha família e a dobrou em misericórdia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Jó",
+        "Profeta Moisés",
+        "Profeta Ilyas",
+        "Profeta Sulayman",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Jó"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Doença grave e perda de família e patrimônio.",
+        "Ser engolido por uma grande baleia",
+        "Exílio da cidade de Meca",
+        "Prisão em um poço profundo",
+        "Confronto com um governante arrogante"
+      ],
+      "answer": "Doença grave e perda de família e patrimônio."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma fonte fresca que brota da terra.",
+        "Um barco em uma grande enchente",
+        "Um cajado que dividiu o mar",
+        "Um trono elevado de vidro",
+        "Uma caverna murada para dormir"
+      ],
+      "answer": "Uma fonte fresca que brota da terra."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Família e patrimônio restaurados e duplicados.",
+        "Sair da barriga de um peixe",
+        "Passagem segura por águas divididas",
+        "Um reino entregue ao governo",
+        "O nascimento milagroso de um filho na velhice."
+      ],
+      "answer": "Família e patrimônio restaurados e duplicados."
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

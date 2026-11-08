@@ -1,0 +1,61 @@
+{
+  "title": "The Test of the Barren Rock",
+  "intro": "A community, skilled and proud, carved their legacy into the very mountains. But when a clear sign was sent to them, a test of faith and restraint, their arrogance led them down a path of no return. Can you identify this group and the consequence of their defiance?",
+  "clues": [
+    "We were masters of stone, carving magnificent dwellings directly into the mountainsides.",
+    "A messenger from among our own people came to us, calling us to worship the One True God.",
+    "We demanded a sign to prove his words, and a unique creature was brought forth as a test for us.",
+    "We were given a simple command: to share our water source with this creature, letting it drink on its designated day.",
+    "In our arrogance, a few among us conspired and we defied the warning, striking down the creature that was meant to be our sign.",
+    "We were given three days before our doom, and then a mighty blast seized us in our homes, leaving us lifeless and overturned."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "People of 'Ad",
+        "People of Madyan",
+        "People of Thamud",
+        "People of Saba",
+        "People of Lut"
+      ],
+      "answer": "People of Thamud"
+    },
+    "trial": {
+      "label": "What Was Our Primary Test?",
+      "options": [
+        "Building an ark to survive a flood",
+        "Resisting the urge to fish on the Sabbath",
+        "Giving up fraudulent business practices",
+        "Protecting a miraculous she-camel",
+        "Enduring a seven-year famine"
+      ],
+      "answer": "Protecting a miraculous she-camel"
+    },
+    "location": {
+      "label": "What Was the Central Element of Our Story?",
+      "options": [
+        "The Golden Calf",
+        "The She-Camel",
+        "The Staff of Prophet Musa",
+        "The Great Dam of Ma'rib",
+        "The Table Spread from Heaven"
+      ],
+      "answer": "The She-Camel"
+    },
+    "outcome": {
+      "label": "What Was Our Ultimate Fate?",
+      "options": [
+        "Drowned in a great deluge",
+        "Turned into apes and swine",
+        "Overwhelmed by a furious wind",
+        "Scattered by the bursting of a dam",
+        "Destroyed by a mighty blast/earthquake"
+      ],
+      "answer": "Destroyed by a mighty blast/earthquake"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

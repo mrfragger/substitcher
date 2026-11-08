@@ -1,0 +1,61 @@
+{
+  "title": "A kút mélyéről",
+  "intro": "Egy fiatal lélek utazása egy erőteljes látomással kezdődött, amelyben égitestek hódolattal hajolnak meg. Életét a legmélyebb árulás jellemezte a hozzá legközelebb állók részéről, majd évekig tartó rabszolgaság és jogtalan bebörtönzés. Mégis, rendíthetetlen hitének és isteni útmutatásának köszönhetően ez az alak a legmélyebb gödörből emelkedett ki, és egy hatalmas birodalom egyik leghatalmasabb emberévé vált. Vajon fel tudod fedezni Allah e figyelemre méltó szolgájának kilétét?",
+  "clues": [
+    "Tizenegy csillagot láttam látomásban, a Napot és a Holdat, amint leborultak előttem",
+    "Szüleim mélyen szeretett gyermeke voltam, ami féltékenységet keltett a testvéreim között.",
+    "Saját testvéreim megragadtak, megfosztottak ruhámtól, és egy mély, sötét kútba vetettek",
+    "Áruként adtak el a piacon, és messzire elvittek a hazámtól",
+    "Egy befolyásos nő megpróbálta veszélyeztetni a becsületemet, és börtönbe zártak, mert visszautasítottam a közeledését.",
+    "Álmok fejtésének ajándékával áldottak meg, és egy elfeledett fogolyból Egyiptom főminiszterévé emelkedtem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Juszuf próféta",
+        "Mózes próféta",
+        "Dawud próféta",
+        "Ayyub próféta",
+        "Szulejmán próféta"
+      ],
+      "answer": "Juszuf próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Saját testvérei által mély kútba vetve",
+        "Túlélni egy nagy világméretű özönvizet",
+        "Lángoló kemencébe vetve",
+        "Egy óriási harcossal küzd a csatatéren",
+        "Egy nagy hal lenyelte"
+      ],
+      "answer": "Saját testvérei által mély kútba vetve"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy mély, száraz kút a pusztában",
+        "Egy hatalmas fa bárka egy hegy tetején",
+        "Egy kígyóvá változott személyzet",
+        "Egy nagyszerű, pompás trón",
+        "Parittya és öt sima kő"
+      ],
+      "answer": "Egy mély, száraz kút a pusztában"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Rose Egyiptom miniszterelnöke lett, és újra találkozott szeretett családjával",
+        "Épített egy hatalmas hajót, és hitre hívta az embereket",
+        "Egy egész nemzetet kivezetett az egyiptomi rabszolgaságból",
+        "Királyságot és uralmat kapott a láthatatlan felett",
+        "Türelemmel telve átvészelte a súlyos betegséget, és meggyógyult"
+      ],
+      "answer": "Rose Egyiptom miniszterelnöke lett, és újra találkozott szeretett családjával"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Igazi Lokuqala Elichithekileyo Ngomona",
+  "intro": "Khawucinge ngemihla yokuqala yoluntu, xa lonke ihlabathi laliyintsapho enye. Ubukela njengoko iminikelo emibini ibekwa phambi koAllah - enye iyamkelwa, enye iyaliwa. Umona uyakhula entliziyweni, kwaye isoyikiso siyahletywa ngomsindo. Okulandelayo kuya kushiya uphawu kwimbali ngonaphakade, kwaye nentaka encinci iya kuba ngumfundisi.",
+  "clues": [
+    "Ndingowosapho lokuqala emhlabeni.",
+    "Ndinikele umnikelo kuAllah, kodwa owam awuzange wamkelwe ngelixa omnye umnikelo wawusamkelwa.",
+    "Ndathetha ndinomona ndaza ndasongela ngokuzibulala.",
+    "Ndenza ukubulala okungekho sikweni kokuqala emhlabeni.",
+    "Ndibone igwababa likhweba umhlaba ukuze lindibonise indlela yokufihla isidumbu.",
+    "Ndasala ndizele kukuzisola ndaza ndaba phakathi kwabantu abalahlekileyo ngenxa yoko kwenziwe zizandla zam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UQabil (uKayin), unyana ka-Adam",
+        "USamiri, umenzi wethole",
+        "UNamrud, ingqwabalala eyayiphikisana no-Ibrahim",
+        "UAzar, umenzi wezithixo",
+        "UKan'an, unyana kaNuh otshonileyo"
+      ],
+      "answer": "UQabil (uKayin), unyana ka-Adam"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukubulawa komntakwabo ngenxa yomona emva kokwaliwa kwesipho",
+        "Ukwakha inqaba ephakamileyo ukuze ujonge amazulu",
+        "Ukwenza ithole legolide lokunqulwa",
+        "Ukufuna itafile evela ezulwini",
+        "Ukukhokela umkhosi weendlovu ukutshabalalisa iKaaba"
+      ],
+      "answer": "Ukubulawa komntakwabo ngenxa yomona emva kokwaliwa kwesipho"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Igwababa likrwela umhlaba ukubonisa ukungcwatywa",
+        "Ithole legolide elikhalayo",
+        "Inqanawa enkulu phezu kwamanzi omkhukula",
+        "Intonga eyaba yinyoka",
+        "Itafile ebekwe ukutya okuvela ezulwini"
+      ],
+      "answer": "Igwababa likrwela umhlaba ukubonisa ukungcwatywa"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waba nokuzisola waza waba phakathi kwabo balahlekileyo",
+        "Watshoniswa kwisikhukula esikhulu",
+        "Waginywa ngumhlaba ngobutyebi",
+        "Wabethwa ngeqhenqa iminyaka esixhenxe",
+        "Wanikwa ubukumkani obulawula imimoya"
+      ],
+      "answer": "Waba nokuzisola waza waba phakathi kwabo balahlekileyo"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

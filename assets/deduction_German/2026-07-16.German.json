@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimme, die die Herrschaft eines Idols herausforderte",
+  "intro": "Unter den Boten des Allmächtigen befand sich ein standhafter Diener, der sich inmitten eines widerspenstigen Volkes erhob, um die Wahrheit zu verkünden. Ihr Volk hatte sich einen erfundenen Gott zu eigen gemacht und sich vom Schöpfer allen Seins abgewandt. Mit unerschütterlicher Entschlossenheit rief dieser Mann sie zur Umkehr auf – doch seine Botschaft stieß auf Ablehnung und Verleugnung. Folgen Sie den Hinweisen, um zu erfahren, wer dieser hingebungsvolle Diener war.",
+  "clues": [
+    "Ich wurde als Bote zu einem widerspenstigen Volk gesandt, das sich weit vom geraden Weg entfernt hatte.",
+    "Ich bin gekommen, um mein Volk an denjenigen zu erinnern, der alles Erschaffene erschaffen hat – den besten aller Schöpfer.",
+    "Mein Volk hatte sich einem falschen Götzen zugewandt, den es Tag und Nacht verehrte und anrief.",
+    "Ich stellte sie mutig zur Rede und fragte, warum sie eine erfundene Gottheit anbeten und ihren wahren Herrn verlassen würden.",
+    "Sie verleugneten mich, weigerten sich, mir zuzuhören, und hielten an ihrer Lüge fest – doch mein Herr bewahrte mich.",
+    "Ich bin Ilyas – und mir wurde Friede gewährt, und ich wurde zu den gläubigen Dienern des Allerbarmers gezählt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ilyas",
+        "Prophet Idris",
+        "Prophet Alyasa",
+        "Prophet Dhul-Kifl",
+        "Prophet Nuh"
+      ],
+      "answer": "Prophet Ilyas"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Ein Volk von der Verehrung Ba'als abbringen",
+        "Konfrontation mit einem Tyrannen, der behauptete, ein Gott zu sein",
+        "Warnung an die Bevölkerung vor einer drohenden Flut",
+        "In ein großes, loderndes Feuer geworfen werden",
+        "Anführen eines Exodus aus dem Land der Knechtschaft"
+      ],
+      "answer": "Ein Volk von der Verehrung Ba'als abbringen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Götzenbild namens Ba'al",
+        "Eine große Arche, gebaut aus robustem Holz",
+        "Ein Stab, der ein riesiges Meer teilte",
+        "Ein heiliges, blutbeflecktes Gewand.",
+        "Ein brennender Dornbusch auf einem heiligen Berg"
+      ],
+      "answer": "Das Götzenbild namens Ba'al"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihm wurde Frieden gewährt und er zählt zu den auserwählten Dienern Allahs.",
+        "Sie wurden ins Paradies geführt, während alle anderen vernichtet wurden.",
+        "Gerettet aus einem großen Feuer, das abgekühlt und sicher war",
+        "Mit der Herrschaft über Dschinn, Menschheit und Wind ausgestattet",
+        "Der Körper wurde als bleibendes Zeugnis für die Ewigkeit erhalten."
+      ],
+      "answer": "Ihm wurde Frieden gewährt und er zählt zu den auserwählten Dienern Allahs."
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

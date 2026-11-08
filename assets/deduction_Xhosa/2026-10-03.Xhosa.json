@@ -1,0 +1,61 @@
+{
+  "title": "Umlindo kwiSango elivuthayo",
+  "intro": "Isihlwele esithuleyo nesinamandla simi sijonge emnyango owoyikekayo, singaze sitye, sisele, okanye siphumle. Benziwe ngento engafaniyo nodongwe lomntu, balinde injongo enye eyoyikekayo—kwaye abazange bathobele nomyalelo omnye ovela eNkosini yabo.",
+  "clues": [
+    "Singabantu abangafaniyo nabantu, abadalwe ngento engatyiyo, engaseliyo, okanye engadiniyo.",
+    "Inani lethu elichanekileyo liyaziwa kwaye lityhilwe eNcwadini—asingobantu abaninzi okanye abaninzi.",
+    "Asikaze simthobele uMdali wethu, kwaye asikaze sithethe ngaphambi kokuba siyalelwe.",
+    "Xa ifika imini, abangakholwayo baya kuqhutyelwa kuthi ngamaqela, size sibavulele amasango.",
+    "Siza kubabuza: 'Akufikanga na kuni abathunywa abavela kolu hlobo lwenu, benilumkisa ngale mini?'",
+    "Silinda indawo apho kungekho mphefumlo uphuma kuyo—indawo evuthayo yesohlwayo esingunaphakade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Abagcini beSihogo soMlilo (Zabaniyah)",
+        "Abathwali beTrone ka-Allah",
+        "Iingelosi eziRekhodayo (Kiraman Katibin)",
+        "Iingelosi Zokufa",
+        "Abagcini beParadesi"
+      ],
+      "answer": "Abagcini beSihogo soMlilo (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Umsebenzi Wethu Oyintloko",
+      "options": [
+        "Ukulinda amasango eSihogo soMlilo",
+        "Ukurekhoda yonke imisebenzi yomntu",
+        "Ukuthwala iTrone ka-Allah",
+        "Ukuthatha imiphefumlo yabafileyo",
+        "Ukulawula imimoya namafu"
+      ],
+      "answer": "Ukulinda amasango eSihogo soMlilo"
+    },
+    "location": {
+      "label": "Yintoni Esiyilindayo?",
+      "options": [
+        "Isihogo Somlilo",
+        "Itrone ka-Allah",
+        "Imisongo yeZenzo",
+        "Imilambo yeParadesi",
+        "Iintaba Zomhlaba"
+      ],
+      "answer": "Isihogo Somlilo"
+    },
+    "outcome": {
+      "label": "Isiphelo Sabo BakwiDomain Yethu",
+      "options": [
+        "Baza kuhlala ngonaphakade kwaye abasayi kuze baphume",
+        "Ekugqibeleni baza kuxolelwa baze bakhululwe",
+        "Baza kuhlanjululwa ekuhambeni kwexesha",
+        "Ziya kuguqulwa zibe zezinye iindlela",
+        "Baza kutshintshana phakathi kweSihogo neParadesi"
+      ],
+      "answer": "Baza kuhlala ngonaphakade kwaye abasayi kuze baphume"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

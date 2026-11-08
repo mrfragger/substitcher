@@ -1,0 +1,61 @@
+{
+  "title": "Les humbles chercheurs de vérité",
+  "intro": "Dans une contrée où règnent puissance et sorcellerie ancestrales, un affrontement titanesque se prépare. D'un côté, l'autorité des signes divins, de l'autre, l'ambition de réaliser l'impossible. L'issue de ce combat changera à jamais le cours de l'histoire. Parviendrez-vous à découvrir l'identité de ceux qui ont contemplé la vérité ultime et se sont prosternés devant elle ?",
+  "clues": [
+    "Nous avons été témoins de signes qui dépassaient les simples tours de sorcellerie.",
+    "Nous sommes tous tombés à genoux, incapables de nier la vérité.",
+    "Nous avons reconnu que ces signes provenaient du seul vrai Dieu.",
+    "Nous avons été la première communauté à embrasser la foi de manière aussi spectaculaire.",
+    "On nous a promis le paradis en récompense de notre foi.",
+    "Nos cordes et nos bâtons se sont transformés en serpents sous nos yeux, pourtant nous avons choisi la soumission."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Les magiciens du pharaon",
+        "Le peuple du prophète Ibrahim",
+        "Les humbles chercheurs de vérité",
+        "Le peuple de la caverne",
+        "La nation de la reine Bilqis"
+      ],
+      "answer": "Les magiciens du pharaon"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La rencontre avec le bâton du prophète Moïse",
+        "L'épreuve du vent du prophète Hud",
+        "Le défi lancé par la chamelle du prophète Salih",
+        "Le grand déluge envoyé sur un prophète",
+        "Le voyage d'un prophète à l'intérieur d'une baleine"
+      ],
+      "answer": "La rencontre avec le bâton du prophète Moïse"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Égypte antique",
+        "La maison sacrée de La Mecque",
+        "La ville de Madian",
+        "Le désert de Thamud",
+        "La grotte des anciens dormeurs"
+      ],
+      "answer": "Égypte antique"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Le paradis comme récompense",
+        "Le châtiment dans la tombe",
+        "La perte de leurs jardins luxuriants",
+        "Destruction causée par un tremblement de terre soudain",
+        "Sauvetage d'une grande baleine"
+      ],
+      "answer": "Le paradis comme récompense"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

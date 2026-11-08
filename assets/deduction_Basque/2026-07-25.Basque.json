@@ -1,0 +1,61 @@
+{
+  "title": "Bi Lorategietako Biztanleak",
+  "intro": "Bedeinkapen ugari zeuden lurralde batean, komunitate batek bi lorategi bikainen oparotasunaz gozatu zuen behin. Haien bizitzak jainkozko faborearen lekuko ziren, baina haien istorioak buelta bat eman zuen esker ona ahuldu zenean, hausnartzen zuten guztientzat seinale iraunkor bihurtuko zen eraldaketa batera eramanez.",
+  "clues": [
+    "Erraztasun eta ugaritasun lurralde batekin bedeinkatutako herria ginen.",
+    "Gure Jaunak bi lorategi bikain eman zizkigun, oparoak eta emankorrak alde guztietatik.",
+    "Esker oneko izateko agindu ziguten, baina eskergabetasuna aukeratu eta alde egin genuen.",
+    "Presa handi batek gure lurrari bizitza eman zioten urak eutsi zituen.",
+    "Gure gaiztakerian tematu ginenean, presa lehertu egin zen eta uholde-urak igaro ziren.",
+    "Gure lorategi oparoak fruitu mingotsek, tamariskoek eta loto zuhaitz batzuek ordezkatu zituzten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sabako jendea.",
+        "Thamudeko jendea",
+        "Madyango jendea.",
+        "Kobazuloko Lagunak",
+        "Elefantearen Jendea"
+      ],
+      "answer": "Sabako jendea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Zazpi gauetan haize bortitza",
+        "Harri-jasa zerutik",
+        "Presa baten hausturaren ondoriozko uholde suntsitzailea",
+        "Oihu ozen bat zerutik",
+        "Itsasoan itotzea."
+      ],
+      "answer": "Presa baten hausturaren ondoriozko uholde suntsitzailea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ma'ribeko presa handia",
+        "Wadi al-Qura harana",
+        "Iramen lorategia.",
+        "Zamzam-en putzua.",
+        "Sinai mendia."
+      ],
+      "answer": "Ma'ribeko presa handia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gure lorategiak fruta mingots eta zuhaitz urrikoekin ordezkatu ziren",
+        "Lurrak irentsi gintuen lurrikara batean",
+        "Tximino eta txerri bihurtu ginen",
+        "Uholde handi batean ito ginen",
+        "Harri-jasa batek suntsitu gintuen"
+      ],
+      "answer": "Gure lorategiak fruta mingots eta zuhaitz urrikoekin ordezkatu ziren"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

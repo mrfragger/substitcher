@@ -1,0 +1,61 @@
+{
+  "title": "Tleleimi ya Taolo e e Feletseng",
+  "intro": "Mo metlheng ya bogologolo, motho mongwe yo o nang le maatla o ne a tsoga go busa lefatshe le legolo le banni ba lone. Puso ya motho yono e ne e tletse ka boikgogomoso jo bogolo le go gwetlha taolo ya bomodimo thata. Ipaakanyetse go ribolola boitshupo jwa moya o phelelo ya one ya bofelo e neng ya nna thuto e e tla nnelang ruri mo dikokomaneng tsotlhe.",
+  "clues": [
+    "Ke ne ke laola mmusomogolo o o nonofileng, kwa lefoko la me e neng e le molao gone.",
+    "Ke ne ka ipolela gore ke nna modimo o o kwa godimo, ke batla gore botlhe ba ke neng ke ba busa ba obamele.",
+    "Ke ne ke gatelela setšhaba se se rileng, ke ba dira makgoba le go laela gore masea a bone a banna a bolawe.",
+    "Ke ne ke lebana gangwe le gape le morongwa yo o ikokobeditseng wa Modimo, yo o neng a dira dikgakgamatso tse di bonalang sentle fa pele ga me le maselamotse a me.",
+    "Ke ne ka gana boammaaruri ka botlhogoethata, ka latofatsa morongwa yono ka boloi le go loga leano la go mo senya le balatedi ba gagwe.",
+    "Nna le mophato wa me otlhe re ne ra khurumediwa ke lewatle fa re ntse re latelela ba ba neng ba golotswe mo diatleng tsa me re sa kgaotse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Nimerode",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Hamane"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Morwalela o Mogolo",
+        "Molelo o o tukang",
+        "Go Nwela ga Mogateledi",
+        "Tshenyo e e dirwang ke Phefo",
+        "Thoromo ya Lefatshe ya go sa Dumele"
+      ],
+      "answer": "Go Nwela ga Mogateledi"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka ya ga Noa",
+        "Lore lwa ga Moshe",
+        "Setshwantsho sa Gauta",
+        "Sediba sa Zamzam",
+        "Terone ya ga Bilqis"
+      ],
+      "answer": "Lore lwa ga Moshe"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go amogetswe bogosi jo bogolo",
+        "Mmele o bolokilwe jaaka sesupo",
+        "Go itshwarelwa morago ga go ikwatlhaya",
+        "Go tlhatlosiwa go nna moporofeti",
+        "Batho ba gagwe ba ne ba nna batho ba ba boifang Modimo"
+      ],
+      "answer": "Mmele o bolokilwe jaaka sesupo"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

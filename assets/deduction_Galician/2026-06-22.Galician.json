@@ -1,0 +1,61 @@
+{
+  "title": "O crente oculto",
+  "intro": "Nos opulentos salóns do poder, onde reinaban a incredulidade e a tiranía, unha voz solitaria da verdade falou dende un lugar inesperado. Esta figura desafiou a autoridade para protexer un mensaxeiro, arriscando a súa propia seguridade para proclamar a verdade.",
+  "clues": [
+    "Vivín nunha terra de gran tiranía, servindo a un gobernante que se afirmaba divindade.",
+    "Mantiven agochadas as miñas verdadeiras crenzas durante moitos anos, temendo as consecuencias de revelalas.",
+    "Cando chegou un mensaxeiro con sinais claros, eu creín, pero o meu pobo conspirou contra el.",
+    "Presenteime ante o tirano e o seu consello, argumentando que non debían matar un mensaxeiro inocente.",
+    "Advertínos do castigo das nacións pasadas que rexeitaron a verdade, como a xente de Noé e Ad.",
+    "Alá salvoume das súas malvadas conspiracións e fun testemuña da destrución do réxime opresor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "O crente da familia do faraón",
+        "O mago do faraón",
+        "O visir do faraón",
+        "A esposa do faraón",
+        "O tesoureiro do faraón"
+      ],
+      "answer": "O crente da familia do faraón"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Defendendo a un profeta contra a execución",
+        "Desafiando os trucos dun mago",
+        "Construíndo unha torre para chegar ao ceo",
+        "Abrindo o mar para escapar",
+        "Interpretando o soño dun rei"
+      ],
+      "answer": "Defendendo a un profeta contra a execución"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A corte do faraón",
+        "A sarza ardente",
+        "O becerro de ouro",
+        "O pozo de Madyan",
+        "A arca do profeta Nuh"
+      ],
+      "answer": "A corte do faraón"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Salvado do dano mentres os opresores eran destruídos",
+        "Converteuse nun poderoso gobernante",
+        "Foi lanzado ao lume e saíu ileso",
+        "Foi tragado pola terra",
+        "Vagou polo deserto durante corenta anos"
+      ],
+      "answer": "Salvado do dano mentres os opresores eran destruídos"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

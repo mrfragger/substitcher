@@ -1,0 +1,61 @@
+{
+  "title": "An Rí a Thaistil Ceann Scéalta an Domhain",
+  "intro": "Samhlaigh rialóir cumhachtach, a bhfuil neart agus údarás tugtha dó thar an tír. Chuaigh an figiúr seo ar thurais neamhghnácha, ag teacht go dtí an áit a luíonn an ghrian agus an áit a n-éiríonn sí, ag bualadh le pobail aisteacha agus ag tabhairt aghaidh ar dhúshlán mór ó dhá náisiún truaillithe. Cé hé an ceannaire rúndiamhair seo?",
+  "clues": [
+    "Bhí mé i mo rialóir a raibh údarás agus acmhainní agam chun dul go dtí na coirnéil is faide ar domhan.",
+    "Thaistil mé siar agus chonaic mé an ghrian ag dul faoi in earrach doiléir.",
+    "Bhuail mé le pobal in aice le héirí na gréine nach raibh foscadh acu óna teas.",
+    "D’iarr pobal eile mo chabhair i gcoinne dhá náisiún truaillitheach ar a dtugtar Gog agus Magog.",
+    "Thóg mé bacainn ag baint úsáide as iarann ​​agus copar leáite chun iad a choinneáil.",
+    "D’fhógair mé gur trócaire ó mo Thiarna a bhí sa bhac seo, agus go bhfanfaidh sé ann go dtí an t-am ceaptha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Fáidh Sulaiman",
+        "Qarún",
+        "Talút",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag tógáil bacainn i gcoinne Gog agus Magog",
+        "Ag maireachtáil tuile mhóir",
+        "Á chaitheamh isteach sa tine",
+        "Ag trasnú na farraige",
+        "Ag troid i gcoinne fathaigh"
+      ],
+      "answer": "Ag tógáil bacainn i gcoinne Gog agus Magog"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Bacainn iarainn agus copair",
+        "Foireann a d’éirigh ina nathair",
+        "Long adhmaid",
+        "Pálás gloine",
+        "Gairdín pailme dáta"
+      ],
+      "answer": "Bacainn iarainn agus copair"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Coinníodh Gog agus Magog faoi smacht go dtí an t-am ceaptha",
+        "Rinneadh fáidh de",
+        "Gearradh pionós air as uabhar",
+        "Bhuaigh sé an domhan ar fad",
+        "Mhair sé go deo"
+      ],
+      "answer": "Coinníodh Gog agus Magog faoi smacht go dtí an t-am ceaptha"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

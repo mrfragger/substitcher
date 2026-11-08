@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Kore Ingoa i Tū ki te Iwi Tikakore",
+  "intro": "Kei roto i ngā whārangi o te Quran, kei reira ngā tāngata i hunaia ō rātou ingoa kia whakaaroarohia ai e tātou ā rātou akoranga. I whānau mai tētahi o aua wairua i roto i tētahi iwi i whakakahore i ā rātou karere, heoi he whakapono huna tō tēnei tangata i wehewehe i a rātou. I te taenga mai o te whakangaromanga, i tū pakari tēnei tangata i roto i tana whakapono ngaro. Ka taea e koe te hura i te tuakiri o tēnei tāngata ngaro e whakatūpato ana i tōna iwi i mua i te hekenga mai o te ture whakamutunga?",
+  "clues": [
+    "I noho ahau i waenganui i tētahi iwi i whakakahore tonu i ngā karere i tonoa mai e Allah ki a rātou.",
+    "I rite ahau ki tōku iwi, i mōhio ahau ki te pono i te taenga mai o tētahi karere me ngā tohu mārama mai i tōku Ariki.",
+    "I huna e ahau tōku whakapono i ōku kaitukino, i te mōhio ka whara ahau i a rātou mēnā ka kitea e rātou tōku whakapono.",
+    "I te tata mai o te whakahau whiu, ka whakapuakina e ahau taku pono, ā, ka whakatūpato i taku iwi kia whakaorangia rātou anō.",
+    "I whakamahara atu ahau ki a rātou he karere pono ahau, kāore he rerekētanga i ērā i tonoa i mua, ā, kaua rātou e karakia ki tetahi atu engari ki a Allah.",
+    "I whakapae tōku iwi i ahau mō te mahi makutu me te porangi, heoi i te mutunga ka tau te whiu i whakatūpatohia ai rātou ki a rātou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ko Huta te poropiti, te karere ki te iwi o Āta",
+        "He tangata whakapono nō te iwi o te Poropiti a Huta i mate whakamātāra",
+        "Ko te rangatira o te iwi o Ād i whakakahore i te pono",
+        "He hoa o te Poropiti a Salih i ruarua i ngā tohu atua",
+        "I tonoa he anahera hei whakangaro i te iwi o Āta"
+      ],
+      "answer": "He tangata whakapono nō te iwi o te Poropiti a Huta i mate whakamātāraitia"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Ko te whakamātautau a te tauraki me te matekai i whakamatautau i tō rātou manawanui",
+        "Ko te whakamātautau o te whakapuaki i te whakapono i mua i te iwi tukino, kore whakapono",
+        "Te whakamātautau i te hanga kaipuke hei mawhiti i te waipuke nui",
+        "Te whakamātautau i te maka ki te ahi mō te whakapono ki a Allah",
+        "Te whakamātautau i te taonga me te whai rawa"
+      ],
+      "answer": "Ko te whakamātautau o te whakapuaki i te whakapono i mua i te iwi tukino, kore whakapono"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te tāone o Makkah te wāhi i hangaia ai te whare tapu",
+        "Ngā mania koraha o te iwi i whakakahore i tā rātou karere",
+        "Ngā maunga o Miriana i tonoa ai te Poropiti a Shu'aib",
+        "Te tahataha o te awa o Ihipa i kitea ai te poropiti a Mohi",
+        "Ko te awaawa o te iwi o Āta, i pāngia e te hau nui"
+      ],
+      "answer": "Ngā mania koraha o te iwi i whakakahore i tā rātou karere"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia ahau i roto i te kaipuke, ā, i ora ahau tae noa ki te wā i pai ai a Allah",
+        "I whakapono taku iwi i muri i ahau, ā, i arahina rātou ki te ara tika",
+        "I patua ahau e tōku iwi, engari i tangohia tōku wairua e te aroha o te Atua",
+        "I ripeneta ahau i muri i te whakamātautau, ā, i whakaae a Allah ki taku ripeneta",
+        "I muri i tōku matenga i hurihia ahau hei whakapakoko i karakiatia e tōku iwi"
+      ],
+      "answer": "I patua ahau e tōku iwi, engari i tangohia tōku wairua e te aroha o te Atua"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

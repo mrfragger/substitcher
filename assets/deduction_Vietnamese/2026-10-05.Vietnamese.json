@@ -1,0 +1,61 @@
+{
+  "title": "Niềm tin được giao phó cho dòng sông",
+  "intro": "Một linh hồn phải đối mặt với một mệnh lệnh bất khả thi, nơi sinh mạng của một đứa trẻ sơ sinh đang bị đe dọa. Được dẫn dắt bởi linh cảm thiêng liêng, một mệnh lệnh tuyệt vọng đã được tuân theo, và một bí mật quý giá đã trôi dạt theo dòng chảy, chỉ để được trở lại theo một cách không ngờ tới.",
+  "clues": [
+    "Tôi sống dưới ách thống trị của một bạo chúa ra lệnh giết hại cả những bé trai sơ sinh.",
+    "Một linh cảm thiêng liêng đã đến với tôi, mách bảo tôi phải thực hiện một hành động liều lĩnh và đau lòng.",
+    "Tôi đặt đứa con bé bỏng quý giá của mình vào một chiếc rương và thả nó xuống dòng sông đang chảy.",
+    "Lòng tôi trở nên trống rỗng, và tôi suýt nữa đã tiết lộ bí mật, nhưng Allah đã củng cố quyết tâm của tôi.",
+    "Tôi đã cử người theo dõi hành trình của đứa trẻ xuôi dòng khi dòng nước cuốn trôi chiếc rương đi.",
+    "Đứa trẻ được gia đình của bạo chúa tìm thấy, và cuối cùng, tôi được đoàn tụ với con mình và trở thành người vú nuôi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Mẹ của Tiên tri Musa",
+        "Asiya (Vợ của Pharaoh)",
+        "Maryam (Mẹ của Tiên tri Isa)",
+        "Vợ của nhà tiên tri Lut",
+        "Mẹ của Tiên tri Yahya (vợ của Zakariya)"
+      ],
+      "answer": "Mẹ của Tiên tri Musa"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Bà đặt đứa con vào một chiếc rương và thả xuống sông.",
+        "Cô ấy giấu con mình trong một hang động.",
+        "Cô ta bỏ rơi con mình giữa sa mạc.",
+        "Cô ta ném con mình vào lửa.",
+        "Cô ấy bỏ con mình ở cửa một nhà thờ Hồi giáo."
+      ],
+      "answer": "Bà đặt đứa con vào một chiếc rương và thả xuống sông."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một chiếc rương được thả trôi trên sông.",
+        "Một bụi cây bốc cháy",
+        "Một cây gậy biến thành rắn",
+        "Một bàn ăn thịnh soạn với những món ăn ngon tuyệt vời.",
+        "Một con lạc đà cái được gửi đến như một dấu hiệu."
+      ],
+      "answer": "Một chiếc rương được thả trôi trên sông."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Cô ấy đã được đoàn tụ với con mình và cho con bú.",
+        "Cô ấy không bao giờ gặp lại con mình nữa.",
+        "Cô ấy đã bị tên bạo chúa hành quyết.",
+        "Bà trở thành nữ hoàng ở Ai Cập.",
+        "Bà di cư đến một vùng đất khác và sống lưu vong."
+      ],
+      "answer": "Cô ấy đã được đoàn tụ với con mình và cho con bú."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

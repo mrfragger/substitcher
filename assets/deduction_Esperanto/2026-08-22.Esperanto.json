@@ -1,0 +1,61 @@
+{
+  "title": "La Urbo Kiu Kredis je Tempo",
+  "intro": "En la analoj de dia kompato, ekzistas komunumo, kies turnopunkto estis momento de kolektiva konscio. Vi tuj malkovros ilian historion — rakonton pri averto, pento kaj paŭzo, kiu distingis ilin de la sorto de aliaj nacioj.",
+  "clues": [
+    "Ni estis popolo, al kiu mesaĝisto estis sendita, kaj ni komence forturniĝis de lia voko.",
+    "Kiam la signoj de baldaŭa puno fariĝis klaraj, ni komprenis la veron de lia averto.",
+    "Ni turnis nin al nia Sinjoro kun sincera pento, kaj nia kredo estis akceptita.",
+    "La puno, kiu estis dekretita sur ni, estis ĉesigita pro nia kredo.",
+    "Nia rakonto estas citita kiel escepto inter la urboj kiuj kredis post vidi la punon.",
+    "Ni estis la popolo de la profeto, kiu estis englutita de la baleno, tamen ni estis savitaj de detruo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Homoj de Junus",
+        "Homoj de Nuh",
+        "Homoj de Hud",
+        "Homoj de Salih",
+        "Homoj de Lut"
+      ],
+      "answer": "Homoj de Junus"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Detruiga inundo",
+        "Severa ventego",
+        "Urĝa puno de malhonoro kiu estis deturnita",
+        "La tero englutante ilin",
+        "Pluvo de ŝtonoj"
+      ],
+      "answer": "Urĝa puno de malhonoro kiu estis deturnita"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La arkeo",
+        "La kamelo",
+        "Urbo de cent mil",
+        "La stabo de Musa",
+        "La trezoro de Qarun"
+      ],
+      "answer": "Urbo de cent mil"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ili estis tute detruitaj",
+        "Ili ricevis ĝuon por tempo",
+        "Ili estis transformitaj en simiojn",
+        "Ili dronis",
+        "Ili estis englutitaj de la tero"
+      ],
+      "answer": "Ili ricevis ĝuon por tempo"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

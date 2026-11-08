@@ -1,0 +1,61 @@
+{
+  "title": "Fırtınadan Əvvəl Səs",
+  "intro": "Səhrada bir şəxs güclü bir milləti həqiqətə qaytarmaq üçün ayağa qalxdı. Xalq möhtəşəm binaları və misilsiz gücü ilə tanınırdı. Lakin qürurları onları kor etdi və onlar qulaq asmaqdan imtina etdilər. Nəhayət, yalnız kiçik bir qrup mömindən xilas olaraq, onları dəhşətli bir cəza bürüdü.",
+  "clues": [
+    "Məni açıq torpaqlarda yaşayan və qüdrəti ilə tanınan güclü bir xalqın yanına göndərdilər.",
+    "Xalqım məhv edilmiş başqa bir böyük millətin ardınca gəldi.",
+    "Onların möhtəşəm tikililəri var idi və hündür qüllələr tikdirirdilər.",
+    "Mən onları tək bir Allaha ibadət etməyə çağırdım, amma onlar bütlərini tərk etməkdən imtina etdilər.",
+    "Onlara şiddətli bir əzab üz verdi və yalnız mənimlə birlikdə iman gətirənlərə rəhm etdi.",
+    "Mən Ad adlı qüdrətli bir qövmə göndərilmişəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Hud peyğəmbər",
+        "Peyğəmbər Saleh",
+        "Şüeyb peyğəmbər",
+        "Nuh peyğəmbər",
+        "İbrahim peyğəmbər"
+      ],
+      "answer": "Hud peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük daşqın",
+        "Güclü və şiddətli bir külək",
+        "Zəlzələ və dəhşətli bir fəryad",
+        "Yanan daş yağışı",
+        "Yuxarıdan gələn səmavi atəş"
+      ],
+      "answer": "Güclü və şiddətli bir külək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dağda tikilmiş böyük bir gəmi",
+        "Unikal dişi dəvə",
+        "İlana çevrilən bir əsa",
+        "Hündür binalar və möhtəşəm tikililər",
+        "Alovlu bir ocaq"
+      ],
+      "answer": "Hündür binalar və möhtəşəm tikililər"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Hamısı böyük bir daşqında boğuldu",
+        "Xalqım şiddətli bir küləklə məhv edildi, mən isə xilas oldum",
+        "Xalqım zəlzələdən zərər gördü və ağladı",
+        "Xalqım göydən daş yağdırıldı",
+        "Xalqım alovlanan oda atıldı"
+      ],
+      "answer": "Xalqım şiddətli bir küləklə məhv edildi, mən isə xilas oldum"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

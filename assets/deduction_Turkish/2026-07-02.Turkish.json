@@ -1,0 +1,61 @@
+{
+  "title": "Gizli Bilgeliğin Hizmetkarı",
+  "intro": "Kur'an'ın engin anlatılarında, ilahi bilgi ve merhametle donatılmış, gizemli bir Allah kulu figürü yer almaktadır. Bu gizemli kişi, en büyük peygamberlerden biriyle yolları kesişmiş ve insan kavrayışının sınırlarını zorlayan, şaşırtıcı olaylarla dolu bir yolculuğa çıkmıştır. Her bir eylem, görünüşte adaletsiz olsa da, kader, sabır ve ilahi takdirin ardındaki görünmez bilgelik hakkında derin dersler gizlemektedir. Bu gölgeli figür kimdir ve hangi gerçekleri ortaya çıkarmıştır?",
+  "clues": [
+    "Ben Allah'ın özel bilgi ve rahmet için seçilmiş bir kuluyum.",
+    "Büyük bir peygamber benden ders almak istedi ve ben de bazı şartlar öne sürerek kabul ettim.",
+    "Görüşmemiz sırasında, arkadaşıma haksızlık gibi görünen üç eylemde bulundum.",
+    "Yoksullara ait bir tekneye zarar verdim, ama bu aslında gizli bir merhametti.",
+    "Acımasız görünse de, genç bir çocuğun hayatına son verdim; bunu ailesinin acı çekmesini önlemek için yaptım.",
+    "Bize misafirperverlik göstermeyen bir kasabada bir duvarı yeniden inşa ettim ve altındaki hazineyi ortaya çıkardım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Hızır (salih kul)",
+        "İki bahçenin sahibi",
+        "Mağara Halkından Biri",
+        "İbrahim ile tartışan kral",
+        "100 yıl uyuyan adam"
+      ],
+      "answer": "Hızır (salih kul)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İki denizin birleştiği yerde Hz. Musa ile buluşmak",
+        "Gog ve Magog'a karşı bir bariyer inşa etmek",
+        "Büyük bir ateşe atılmak",
+        "Denizi ikiye bölmek",
+        "Tora levhalarını almak"
+      ],
+      "answer": "İki denizin birleştiği yerde Hz. Musa ile buluşmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "İki denizin birleştiği yer",
+        "Sina Dağı",
+        "Thawr Mağarası",
+        "Tuwa vadisi",
+        "Zemzem kuyusu"
+      ],
+      "answer": "İki denizin birleştiği yer"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "O, Musa'nın şaşırtıcı davranışlarının ardındaki ilahi hikmeti açıkladı ve onunla yollarını ayırdı.",
+        "Yolculuğun ardından peygamberlik yetkisi kendisine verildi.",
+        "Tekne fırtına nedeniyle hasar gördü.",
+        "Çocuk hayata geri döndürüldü.",
+        "O, yaşanması zor olan bu kasabada bir cami inşa etti."
+      ],
+      "answer": "O, Musa'nın şaşırtıcı davranışlarının ardındaki ilahi hikmeti açıkladı ve onunla yollarını ayırdı."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

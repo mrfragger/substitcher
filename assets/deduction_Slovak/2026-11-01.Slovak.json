@@ -1,0 +1,61 @@
+{
+  "title": "Hlas, ktorý odmietol zúfalstvo",
+  "intro": "Vkročte do domácnosti, kde strata nasleduje za stratou, no jeden pokojný hlas odmieta zúfalstvo. Jediné volanie v Koráne premení trpezlivosť na bod zlomu; dokážete vystopovať stopy k osobe, ktorá sa skrýva za týmto hlasom?",
+  "clues": [
+    "Bol som hlasom trpezlivosti v domácnosti, kde požehnanie skúšala pohroma.",
+    "Zostal som v domácnosti vyprázdnenej stratou bohatstva a detí.",
+    "Vedel som, že choroba postihla aj toho spoločníka, ktorého telo bolo postihnuté.",
+    "Keď sa tieseň stala vážnou, volal som s pripomienkou Alaha.",
+    "Ponúkol som jedno vyhlásenie: Alah je Pravda, takže buďte trpezliví.",
+    "Zavolal som Ayyuba po mene; potom Alah odstránil trápenie a obnovil rodinu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Manželka proroka Ayyuba",
+        "Manželka proroka Nuha",
+        "Manželka proroka Ibrahima",
+        "Manželka proroka Jakuba",
+        "Dcéra faraóna"
+      ],
+      "answer": "Manželka proroka Ayyuba"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Zostávajúc s Ayyubom počas straty a choroby, potom volajúc po trpezlivosti",
+        "Varovanie spravodlivého posla, aby opustil skazenú spoločnosť",
+        "Modlím sa za zrod budúcej línie",
+        "Výklad snov v kráľovskom väzení",
+        "Hľadanie zvereného dieťaťa pri rieke"
+      ],
+      "answer": "Zostávajúc s Ayyubom počas straty a choroby, potom volajúc po trpezlivosti"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Vyhlásenie, že Alah je Pravda a trpezlivosť je potrebné",
+        "Palma vedľa prameňa",
+        "Výzva na stavbu lode ďaleko od vĺn",
+        "Sen o jedenástich hviezdach a vychádzajúcom slnku",
+        "Košík nesený pozdĺž Nílu"
+      ],
+      "answer": "Vyhlásenie, že Alah je Pravda a trpezlivosť je potrebné"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Ajjúbova choroba bola odstránená a jeho rodina obnovená",
+        "Dlho očakávané dieťa sa narodilo po neplodnej modlitbe",
+        "Mladý vládca interpretoval sedem rokov hojnosti a nedostatku",
+        "Zverené dieťa bolo zachránené z tečúcej vody",
+        "Varovanie predchádzalo ničivej povodni"
+      ],
+      "answer": "Ajjúbova choroba bola odstránená a jeho rodina obnovená"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dhukkubsataa Hin Raafamne",
+  "intro": "Seenaa raajii keessatti kasaaraa gadi fagoo fi rakkina qaamaa akkasii amantii hin raafamneen kan dandamatan muraasa. Seenaan fakkii kanaa obsaa fi ogummaa Waaqayyootti amanamuu irratti barumsa yeroo hin qabneedha. Lubbuun kun eenyu?",
+  "clues": [
+    "Ergaa akkan dabarsu Rabbiin filadheera, garuu qormaanni koo inni guddaan diduu osoo hin taane, balaa dhuunfaatiin dhufe.",
+    "Qabeenyi koo, horiin koo fi ijoolleen koo tokko tokkoon narraa fudhataman.",
+    "Qaamni koo madaadhaan kan uwwifame siʼa taʼu, deggersa hiriyaa gaaʼelaa kootiin alatti kophaa koo hafe.",
+    "Gidiraa koo beekee araara Isaa barbaadeen Gooftaa kootti iyyadhe.",
+    "Miila kootiin lafa akkan rukutu qajeelfama naaf kennamee, burqaa nama haaromsu tokkotu dhangalaʼe.",
+    "Rabbiin fayyaa koo naaf deebisee maatii haaraa fi qabeenya duraan qabu caalaa naaf kenne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Ayyuub",
+        "Nabi Ibraahim",
+        "Nabi Muusaa",
+        "Nabi Isaa",
+        "Nabi Nuh"
+      ],
+      "answer": "Nabi Ayyuub"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Qabeenyaa fi maatii dhabuu",
+        "Ibiddatti darbatamuu",
+        "Qurxummiin liqimfamuu",
+        "Maatii irraa adda bahee garbummaatti gurguramuu",
+        "Re'ee warqeetiin qoratamuu"
+      ],
+      "answer": "Qabeenyaa fi maatii dhabuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Burqaa bishaanii",
+        "Ulee gara bofaatti jijjiirame",
+        "Taabota mukaa",
+        "Re’ee baqfame",
+        "Muka meexxii"
+      ],
+      "answer": "Burqaa bishaanii"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Maatii fi qabeenya deebisuu",
+        "Gara samiitti ol bahuu",
+        "Mootii ta'uu",
+        "Whale irraa baraaramuu",
+        "Dulluma ilma fudhachuu"
+      ],
+      "answer": "Maatii fi qabeenya deebisuu"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

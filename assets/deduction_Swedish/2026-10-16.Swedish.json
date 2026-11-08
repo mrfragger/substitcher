@@ -1,0 +1,61 @@
+{
+  "title": "Samhället som trotsade vilodagen",
+  "intro": "Stig in i en kustnära bosättning där en gudomlig befallning avsatt en dag för tillbedjan och återhållsamhet. En grupp inom detta samhälle valde att testa gränserna för denna befallning med en listig plan, vilket ledde till en förvandling som skulle eka genom tiderna. Vilka var dessa själar, och vad hände med dem?",
+  "clues": [
+    "Vi bodde nära kusten, där havet försörjde oss.",
+    "Vi befalldes att hedra en dag i veckan och skilja den från världsliga strävanden.",
+    "Den dagen kom fisken till oss i stort antal, som om de ville fresta oss att bryta mot befallningen.",
+    "Vi utarbetade en plan att fånga fisken kvällen före den heliga dagen och sedan samla in dem när den var över.",
+    "När några bland oss ​​varnade för detta bedrägeri ignorerade vi deras råd och envisades.",
+    "För vår överträdelse förvandlades vi till apor, föraktade och förkastade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Sabbatens folk",
+        "Folket i diket",
+        "Skogens folk",
+        "Trädgårdens folk",
+        "Elefantens folk"
+      ],
+      "answer": "Sabbatens folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Fiske på sabbaten",
+        "Att bygga ett högt torn",
+        "Att döda en helig kamelhona",
+        "Att förneka en profet som sänts till dem",
+        "Överskridande av handelsvikter"
+      ],
+      "answer": "Fiske på sabbaten"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Havet och dess fiskar",
+        "Elden som svalnade",
+        "Staven som blev en orm",
+        "Frälsningens ark",
+        "Stentavlorna"
+      ],
+      "answer": "Havet och dess fiskar"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förvandlades till apor",
+        "Slukad av jorden",
+        "Förstört av en hård vind",
+        "Drunknade i havet",
+        "Träffad av en stenregn"
+      ],
+      "answer": "Förvandlades till apor"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

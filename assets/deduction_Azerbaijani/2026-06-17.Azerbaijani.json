@@ -1,0 +1,61 @@
+{
+  "title": "Şəhərin Kənarından Səda",
+  "intro": "İlahi rəhbərlikdən üz döndərən bir şəhərdə, ümid və xəbərdarlıq mesajı ilə yarışan tənha bir şəxs kənardan peyda oldu. Bu unudulmuş ruh sarsılmaz imanın əbədi simvoluna çevriləcəkdi.",
+  "clues": [
+    "Şəhərimə elçilərin göndərildiyinin şahidi oldum, amma xalqım onları adi insanlar kimi rədd etdi.",
+    "Onların mesajına inanırdım və həqiqətin varlığımda əks-səda verdiyini hiss edirdim.",
+    "Mən qövmümü heç bir mükafat istəməyən elçilərə itaət etməyə çağırdım.",
+    "Şəhərin ən ucqar ucundan qaçdım, təcili olaraq onlara səbəb göstərməyə çalışdım.",
+    "Xalqım mənə qarşı üsyan etdi və mən öldürüldüm, amma əbədi sülh tapdım.",
+    "Allah mənə: “Cənnətə gir!” dedi və mən də kaş ki, qövmüm mənə verilən şərəfə şahid olaydı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Ya-Sinə Mömin",
+        "Sual verən Üzeyir",
+        "Əl-Xızır bələdçi",
+        "Firon ailəsinin möminləri",
+        "Zalım Nəmrud"
+      ],
+      "answer": "Ya-Sinə Mömin"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Onu öldürən kafir bir qövmlə qarşılaşmaq",
+        "Alovlu bir oda atılmaq",
+        "Böyük bir balığın udması",
+        "Nəhəng bir gəminin inşası",
+        "Zalımın ordusundan qaçmaq"
+      ],
+      "answer": "Onu öldürən kafir bir qövmlə qarşılaşmaq"
+    },
+    "location": {
+      "label": "Əsas Yer",
+      "options": [
+        "Şəhərin ən ucqar ucu",
+        "Tur dağı",
+        "Qarışqalar Vadisi",
+        "Nil sahilləri",
+        "Mağaranın mağarası"
+      ],
+      "answer": "Şəhərin ən ucqar ucu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Şəhidlik və dərhal Cənnətə girmə",
+        "Qaçış və qurtuluş",
+        "Göylərə yüksəliş",
+        "Dənizdə boğulmaq",
+        "Daşa çevrilmək"
+      ],
+      "answer": "Şəhidlik və dərhal Cənnətə girmə"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

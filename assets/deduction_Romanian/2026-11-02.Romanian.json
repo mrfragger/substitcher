@@ -1,0 +1,61 @@
+{
+  "title": "Aliatul de neclintit într-o încercare de aur",
+  "intro": "La umbra unui mare profet, un suflet elocvent și credincios a fost ales pentru a ajuta într-o misiune monumentală. Această figură a rămas fermă atunci când masele au șovăit, predicând împotriva unei încălcări flagrante care amenința însăși esența monoteismului. Când profetul s-a întors să fie martor la decăderea oamenilor, apărarea acestei figuri nu a fost una a vinovăției, ci a datoriei și a fricii de divizare. Cine este acest slujitor devotat al lui Allah?",
+  "clues": [
+    "Am fost ales de Allah pentru o datorie sacră alături de alta, iar rolul meu a fost unul de sprijin și proclamare.",
+    "Mi s-a acordat claritate în exprimare și am însoțit un mesager pentru a confrunta un puternic asupritor.",
+    "În timpul unei călătorii critice, mesagerul a urcat singur pe un munte, lăsându-mă pe mine să veghez asupra oamenilor.",
+    "În absența lor, oamenii au făcut o imagine de aur și i-am implorat să rămână credincioși, dar mi-au refuzat sfatul.",
+    "Când mesagerul s-a întors, cuprins de furie și durere, am fost cuprins, dar le-am explicat că fusesem copleșit și că mă temeam să nu provoc discordie printre ei.",
+    "Eu sunt profetul care a stat alături de Musa, fratele meu, împărtășindu-i povara și rămânând neclintit împotriva idolatriei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Harun",
+        "Profetul Musa",
+        "Profetul Isa",
+        "Profetul Dawud",
+        "Profetul Zakariyya"
+      ],
+      "answer": "Profetul Harun"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Oamenii s-au închinat unui vițel de aur în ciuda avertismentelor",
+        "Oamenii m-au aruncat într-un foc arzător",
+        "Am fost înghițit de un pește mare",
+        "Am fost închis pe baza unor acuzații false",
+        "Am fost exilat din orașul meu pentru că predicam"
+      ],
+      "answer": "Oamenii s-au închinat unui vițel de aur în ciuda avertismentelor"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Vițelul de Aur",
+        "Rugul Aprins",
+        "Toiagul care s-a transformat într-un șarpe",
+        "Tablele Legământului",
+        "Arca Legământului"
+      ],
+      "answer": "Vițelul de Aur"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Am fost exonerat și mi-am continuat misiunea profetică.",
+        "Am fost pedepsit pentru păcatele poporului",
+        "Mi s-a dat o nouă națiune pe care să o călăuzesc",
+        "Am fost înălțat viu la cer",
+        "Am fost numit conducător peste un regat"
+      ],
+      "answer": "Am fost exonerat și mi-am continuat misiunea profetică."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

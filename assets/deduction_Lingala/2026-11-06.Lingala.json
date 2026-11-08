@@ -1,0 +1,61 @@
+{
+  "title": "Makila Ya Liboso Esopamaki na Likunya",
+  "intro": "Kanisá naino mikolo ya ebandeli ya bomoto, ntango mokili mobimba ezalaki libota moko. Ozali kotala ndenge makabo mibale etiemaka liboso ya Allah — moko endimami, mosusu eboyami. Likunya ezwi misisa na motema, mpe likama ezali kolobaloba na mongongo ya nse na nkanda. Oyo ekolanda ekotika elembo na lisolo ya libela, mpe ata ndɛkɛ moke ekokóma molakisi.",
+  "clues": [
+    "Nazali na libota ya liboso mpenza awa na mabele.",
+    "Napesaki likabo epai ya Allah, kasi oyo ya ngai endimami te nzokande likabo mosusu endimaki.",
+    "Nalobaki na likunya mpe nabangisaki ete nakoboma bomoi.",
+    "Nasalaki kobomama ya liboso oyo ezangi bosembo awa na mabele.",
+    "Namonaki nsoso moko ezali kokatakata mabele mpo na kolakisa ngai ndenge ya kobomba nzoto.",
+    "Natikalaki na mawa mingi mpe nakomaki kati na bato oyo babungisaki mpo na oyo maboko na ngai esalaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Qabil (Kaina), mwana ya Adama",
+        "Samiri, mosali ya mwana ya ngɔmbɛ",
+        "Namrud, mobulu oyo azalaki koswana na Ibrahim",
+        "Azar, mosali ya bikeko",
+        "Kan’an, mwana ya Nuh oyo azindaki na mai"
+      ],
+      "answer": "Qabil (Kaina), mwana ya Adama"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Koboma ndeko na ye mpo na zuwa nsima ya koboya likabo",
+        "Kotonga ndako molai mpo na kotala likoló",
+        "Kosala mwana ya ngɔmbɛ ya wolo mpo na losambo",
+        "Kosɛnga mesa oyo epalangani uta na likoló",
+        "Kokamba armée ya ba ngando pona kobebisa Kaaba"
+      ],
+      "answer": "Koboma ndeko na ye mpo na zuwa nsima ya koboya likabo"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nzoku moko ezali kokatakata mabele mpo na kolakisa bokundi",
+        "Mwana ya ngɔmbɛ ya wolo oyo ekitanaki",
+        "Masuwa moko monene likoló ya mai ya mpela",
+        "Likonzí oyo ekómaki nyoka",
+        "Mesa oyo epalangani na bilei oyo euti na likoló"
+      ],
+      "answer": "Nzoku moko ezali kokatakata mabele mpo na kolakisa bokundi"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki na mawa mpe kati na bato oyo babungisaki",
+        "Azindaki na mpela monene",
+        "Amelamaki na mabele na bomengo",
+        "Abɛtamaki na maladi ya maba na boumeli ya mbula nsambo",
+        "Bapesaki ye bokonzi oyo ezalaki na bokonzi likoló na mipɛpɛ"
+      ],
+      "answer": "Akómaki na mawa mpe kati na bato oyo babungisaki"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

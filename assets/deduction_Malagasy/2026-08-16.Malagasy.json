@@ -1,0 +1,61 @@
+{
+  "title": "Ny Feo Mangina ao amin'ny Efitrano",
+  "intro": "Nisy vavaka nanakoako tao amin'ny fahanginan'ny efitrano masina fahiny ela be, nipoitra avy tamin'ny fanahy efa antitra izay naniry izay nolazain'izao tontolo izao fa tsy ho vita. Io olona io, izay efa antitra sy vesaran'ny tebiteby momba ny ho avy, dia nitodika tany amin'ny Tompony tamin'ny fitalahoana manokana. Ny zavatra nanaraka dia valinteny masina izay nanohitra ny fanantenana voajanahary rehetra - vavolombelon'ny famindram-pon'Ilay mamaly ny antso mafy.",
+  "clues": [
+    "Niantso ny Tompoko mangingina aho, niditra tao amin'ny efitrano iray izay nanokanako ny tenako hivavaka Aminy.",
+    "Niaiky tamin'ny Tompoko aho fa natahotra ny amin'ireo izay ho avy aorianako, nanahy ny amin'ny fitarihan'ny vahoakako rehefa lasa aho.",
+    "Efa antitra aho—nihalemy ny taolako ary nivelatra nanerana ny lohako ny volo fotsy.",
+    "Momba nandritra ny androm-piainako ny vadiko, nefa mbola nangataka tamin'ny Tompoko ihany aho mba hanome ahy mpandova avy amin'ny fanatrehany.",
+    "Nangataka famantarana aho, ary namaly ny Tompoko tamin'ny fanakanana ahy tsy hiresaka amin'olona nandritra ny telo alina, raha mbola salama tsara aho.",
+    "Nampanantenaina ahy ny hanan-janaka lahy izay hatao hoe Yahya ny anarany, anarana izay nolazain'ny Tompoko fa tsy mbola nomena na iza na iza mihitsy taloha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Zakaria",
+        "Mpaminany Noa",
+        "Mpaminany Musa",
+        "Mpaminany Yusuf",
+        "Mpaminany Davida"
+      ],
+      "answer": "Mpaminany Zakaria"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Mivavaka ho an'ny mpandova amin'ny fahanterana izay manana vady momba",
+        "Atsipy ao anaty afo mirehitra",
+        "Voatelin'ny trondro lehibe tao anaty haizina",
+        "Miaritra ny fahaverezan'ny fianakaviana, ny harena ary ny fahasalamana",
+        "Nodidiana hanorina sambo fiara lehibe"
+      ],
+      "answer": "Mivavaka ho an'ny mpandova amin'ny fahanterana izay manana vady momba"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny efitra fivavahana (mihrab)",
+        "Tehina niova ho menarana",
+        "Vata hazo lehibe iray",
+        "Zaridaina misy lohataona miavaka",
+        "Tendrombohitra iray izay niangonan'ny vorona"
+      ],
+      "answer": "Ny efitra fivavahana (mihrab)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nomena anarana mahagaga ny zanany lahy na dia efa antitra be aza",
+        "Voavonjy tamin'ny afo mirehitra araka ny didin'Andriamanitra",
+        "Safodrano lehibe no nandringana ireo tsy mpino",
+        "Naverina tamin'ny fianakaviana, harena ary fahasalamana rehefa avy niaritra",
+        "Farao sy ny tafiny maty an-drano tao an-dranomasina"
+      ],
+      "answer": "Nomena anarana mahagaga ny zanany lahy na dia efa antitra be aza"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

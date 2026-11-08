@@ -1,0 +1,61 @@
+{
+  "title": "Isixeko Esilahlekileyo Sobungangamsha Obungalinganiyo",
+  "intro": "Impucuko enamandla eyayikade ilawula iindawo ezinkulu zomhlaba, idunyiswa ngezakhiwo eziphakamileyo ezazifikelela esibhakabhakeni. Kodwa phantsi kobu bukhulu, kwanda ukukhanyela okunenkani - ukwala ukuthobela isilumkiso sikaThixo esasithunyelwa ngaphakathi kuluntu ngokwalo. Ikratshi nokuzikhukhumeza kwakuza kukhupha isohlwayo esifana naso esingazange sibonwe ngumhlaba okanye amazulu.",
+  "clues": [
+    "Sasikhe salawula umhlaba omkhulu, siqhayisa ngamandla esasikholelwa ukuba akukho mpucuko ifana nawo.",
+    "Ubukumkani bethu babudume ngezakhiwo ezinde ezineentsika ezinkulu ezazimi ngendlela engenakuthelekiswa nanto kulo lonke ilizwe elaziwayo.",
+    "Kwaphakama isilumkiso esivela kuluntu lwethu, sisikhuthaza ukuba sithobele uMdali omnye kuphela.",
+    "Sasikhanyela isigidimi esasisinikwe sona saza sala ukulahla indlela esasiyizuz’ ilifa.",
+    "Savuthelwa ngumoya ovuthuzayo nonamandla, owasishiya singenakuzikhusela kwaphela.",
+    "Sashiywa njengeziqu zemithi yesundu ezinemingxuma, sisasazekile kwaye silibele, njengesifundo kwizizukulwana ngezizukulwana ezizayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu base-A'ad",
+        "Abantu baseNuh",
+        "Abantu bakaLut",
+        "Abantu baseMadyan",
+        "Abantu baseTubba'"
+      ],
+      "answer": "Abantu base-A'ad"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umoya ovuthuzayo ongenasiphelo wesohlwayo esiqatha",
+        "Umkhukula owawugubungela yonke incopho yeentaba",
+        "Imvula yamatye odongwe avuthayo evela phezulu",
+        "Ukukhala okoyikisayo okuvela emazulwini",
+        "Inyikima enamandla eyahlukanisa umhlaba"
+      ],
+      "answer": "Umoya ovuthuzayo ongenasiphelo wesohlwayo esiqatha"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "I-Iram, isixeko seentsika eziphakamileyo",
+        "Ityeya enkulu yemithi eyakhiwe phezu kwentaba",
+        "Inkamela yemazi eyaphuma ngokungummangaliso elityeni",
+        "INtaba yeSinayi apho kwehla khona imiyalelo kaThixo",
+        "Ibhotwe lekristale neglasi entle ejonge amanzi aqukuqelayo"
+      ],
+      "answer": "I-Iram, isixeko seentsika eziphakamileyo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ishiywe njengeziqu zemithi yesundu ezinemingxuma, zisasazekile kwaye zingenabomi",
+        "Ukuntywiliselwa phantsi kwamaza amakhulu omkhukula omkhulu",
+        "Iguqulwe yaba zizidalwa ezifana neenkawu neehagu",
+        "Ityunyuzwe phantsi kwemvula yamatye odongwe aqinileyo",
+        "Ityiwe sisikhalo esinye esibuhlungu esahlaba umphefumlo"
+      ],
+      "answer": "Ishiywe njengeziqu zemithi yesundu ezinemingxuma, zisasazekile kwaye zingenabomi"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

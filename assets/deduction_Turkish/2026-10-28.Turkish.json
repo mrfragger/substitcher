@@ -1,0 +1,61 @@
+{
+  "title": "Korların Üzerinde Verilen Bir Söz",
+  "intro": "Çöl ateşinin yanında duruyorsunuz, közler özenle yayılıyor. Ziyaretçiler sessizlikte bir karşılaşma için geliyor ve tek bir mesaj, vaat, sürpriz ve henüz gerçekleşmemiş bir geleceğin öyküsünü açıyor.",
+  "clues": [
+    "Çölde sadık bir kulumuza ulaşmak için uzun bir yol kat ettik.",
+    "Ateş yakmak için közlerin etrafa saçılmasını rica ettik.",
+    "Serinlemek ve güvende olmak için aleve seslenen biriyle konuştuk.",
+    "Çocuk sahibi olma yaşını geçmiş birine yeni doğmuş bir bebeğin müjdesini getirdik.",
+    "Söz verdiğimiz çocuğa İshak adını verdik.",
+    "İbrahim'e bir oğul müjdesi getirdik ve bu şaşırtıcı haber İbrahim'i güldürdü."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "İbrahim'e İshak'ın doğumunu müjdeleyen melekler",
+        "Lut'u Uyaran Melekler",
+        "Taht Taşıyan Melekler",
+        "Cehennemin Melekleri",
+        "Nuh'a Gönderilen Melekler"
+      ],
+      "answer": "İbrahim'e İshak'ın doğumunu müjdeleyen melekler"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İbrahim'e İshak'ın doğumunun müjdesini getirmek",
+        "Lut'a, halkının cezalandırılmasından önce uyarıda bulunuldu.",
+        "Yahya'nın doğumunu Zakariyya'ya duyurmak",
+        "Kıyamet Gününde Tahtı Taşıyan",
+        "Meryem'e İsa'nın doğumunu müjdelemek"
+      ],
+      "answer": "İbrahim'e İshak'ın doğumunun müjdesini getirmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Dağılan közlerden hazırlanan bir ateş",
+        "Sel sularının üzerinde yüzen bir gemi",
+        "Yuvarlanan bir taşla kapatılmış bir mağara",
+        "Tuzlu suyla sertleşmiş bir kil dağı.",
+        "Gökyüzüne uzanan bir merdiven"
+      ],
+      "answer": "Dağılan közlerden hazırlanan bir ateş"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İshak adında bir oğlunun doğumu müjdesi.",
+        "Yahya adında bir oğlunun doğumu müjdesi.",
+        "Talut'un İsrailoğulları üzerine yönetici olarak seçilmesi",
+        "Lut'un halkının cezalandırılmasından önce bir uyarı",
+        "Tufandan önce bir gemi inşa etme emri"
+      ],
+      "answer": "İshak adında bir oğlunun doğumu müjdesi."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

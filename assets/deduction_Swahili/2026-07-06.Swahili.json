@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi Nyuma ya Sanamu",
+  "intro": "Katika kivuli cha kuondoka kwa nguvu kutoka kwa udhalimu, mtu huyu wa ajabu alisubiri jangwani. Wakati kiongozi wa watu waliochaguliwa akipanda mlima mtakatifu kwa ajili ya ushirika mtakatifu, jaribio kubwa lilishuka juu ya wale walioachwa nyuma. Mtu huyu alichukua muda huo kuunda upya imani za jamii nzima. Kiongozi aliporudi na ukweli, adhabu ya kipekee na ya milele ilitangazwa. Je, unaweza kufichua nafsi hii yenye utata na ujanja ilikuwa nani?",
+  "clues": [
+    "Nilisafiri na watu ambao walikuwa wamewekwa huru kutoka mikononi mwa mkandamizaji mwenye nguvu kupitia ishara za miujiza.",
+    "Kiongozi wao alipopanda mlimani kupokea mwongozo, nilisubiri miongoni mwa wale waliobaki nyuma.",
+    "Nilikusanya metali ya thamani kutoka kwa mapambo yao na kuitengeneza kuwa kitu kilichotoa sauti.",
+    "Kupitia uumbaji huu, niliwashawishi kizazi kizima kwamba walikuwa wamempata mungu wao jangwani.",
+    "Kiongozi aliporudi, nilichaguliwa na kuulizwa ni nini kilinifanya nidanganywe hivyo.",
+    "Adhabu yangu katika ulimwengu huu ilikuwa kwamba hakuna mtu angenigusa au kunikaribia, alama ya aibu ninayoibeba milele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Msamiri",
+        "Nabii Musa",
+        "Wachawi wa Farao",
+        "Hamani, waziri wa Farao",
+        "Iblis, aliyekataliwa"
+      ],
+      "answer": "Msamiri"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutengenezwa kwa ndama wa dhahabu",
+        "Mzozo na Farao",
+        "Ujenzi wa safina kubwa",
+        "Kukataa kuinama mbele ya Adamu",
+        "Kuharibiwa kwa miji ya Lut"
+      ],
+      "answer": "Kutengenezwa kwa ndama wa dhahabu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanamu ya ndama ya dhahabu",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ngamia jike aliyetoka kwenye mwamba",
+        "Safina iliyojengwa juu ya mlima",
+        "Kiti cha enzi kinachobebwa juu ya upepo"
+      ],
+      "answer": "Sanamu ya ndama ya dhahabu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Anahukumiwa kuwa asiyeweza kuguswa, akisema 'hakuna mawasiliano' kila wakati",
+        "Amezama pamoja na mtawala dhalimu na jeshi lake",
+        "Kutupwa kwenye moto uliokuwa baridi na utulivu",
+        "Nimepigwa na upofu kwa kukataa ukweli",
+        "Kutelekezwa shimoni na jamaa mwenye wivu"
+      ],
+      "answer": "Anahukumiwa kuwa asiyeweza kuguswa, akisema 'hakuna mawasiliano' kila wakati"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

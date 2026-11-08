@@ -1,0 +1,61 @@
+{
+  "title": "Sacrificium Voluntarium",
+  "intro": "Tempore probationum divinarum, anima ad ultimum actum submissionis vocata est. In terra sterili educata, haec figura fidem et patientiam incarnavit. Cum visio sacrificium iuberet, non vacillaverunt. Historia eorum est fundamentum devotionis.",
+  "clues": [
+    "Responsum fui precationi diu exspectatae magni prophetae.",
+    "Mater mea et ego in valle deserta relictae sumus, tantum commeatu dactylorum et aquae.",
+    "Crevi ut propheta fiam, propter veritatem et patientiam meam notus.",
+    "Patri meo fundamenta domus sacrae Allah dedicatae erigere adiuvi.",
+    "Cum pater meus mihi somnium narraret ut me immolaret, respondi, \"Fac ut tibi iussus est.\"",
+    "Deus deditionem meam honoravit arietem de caelo mittendo ad me redemptionem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ismael",
+        "Propheta Isaac",
+        "Propheta Ya'qub",
+        "Propheta Ibrahim",
+        "Propheta Iosue"
+      ],
+      "answer": "Propheta Ismael"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Libenter se sacrificare submittens",
+        "In ignem ardentem coniectus",
+        "Ab magno pisce deglutitus",
+        "Venditus in servitutem",
+        "Gravi morbo probatus"
+      ],
+      "answer": "Libenter se sacrificare submittens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Puteus Zamzam",
+        "Arca Nuh",
+        "Ignis Nimrodi",
+        "Vitulus Aureus",
+        "Baculus Musae"
+      ],
+      "answer": "Puteus Zamzam"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ariete magno redemptus est",
+        "Servatus est ab igne",
+        "A diluvio servatus est",
+        "Ex balaena sublatus est",
+        "Datum est ei regnum et sapientia"
+      ],
+      "answer": "Ariete magno redemptus est"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

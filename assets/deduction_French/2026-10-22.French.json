@@ -1,0 +1,61 @@
+{
+  "title": "La Communauté de la Première Transgression",
+  "intro": "Au pays des cités antiques, un peuple prospéra jadis. Un messager leur apporta un message clair, mais ils se détournèrent et empruntèrent une voie jamais foulée. Leur histoire est celle de la rébellion, de la dépravation et d'un châtiment qui fit de leur patrie un exemple pour tous ceux qui méditent. Qui sont ces âmes ?",
+  "clues": [
+    "Nous vivions dans des villes de la plaine, où notre prophète nous appelait à la justice.",
+    "Nous avons été les premiers à commettre un acte indécent que personne au monde n'avait jamais commis auparavant.",
+    "Nous attaquions les voyageurs et commettions ouvertement le mal lors de nos rassemblements.",
+    "Nous avons rejeté le messager qui nous avait été envoyé et avons menacé de le chasser de notre territoire.",
+    "Nous nous sommes précipités chez lui en exigeant qu'il nous livre ses invités.",
+    "Notre châtiment fut une pluie de pierres, et notre ville fut sens dessus dessous."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Peuple de Lut",
+        "Le peuple de Nuh",
+        "Les gens de 'Ad",
+        "Peuple de Thamud",
+        "Les habitants de Madyan"
+      ],
+      "answer": "Peuple de Lut"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il commit le premier acte de sodomie",
+        "idoles vénérées",
+        "Trompé dans le commerce",
+        "Ils ont tué leur prophète",
+        "Ils ont désobéi à leurs parents"
+      ],
+      "answer": "Il commit le premier acte de sodomie"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La ville de la plaine",
+        "La ville du puits",
+        "La ville du fossé",
+        "La ville de l'éléphant",
+        "La ville du jardin"
+      ],
+      "answer": "La ville de la plaine"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Pluie de pierres et renversé",
+        "Noyé par une inondation",
+        "Détruit par un vent violent",
+        "Englouti par la terre",
+        "Frappé par une forte explosion"
+      ],
+      "answer": "Pluie de pierres et renversé"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

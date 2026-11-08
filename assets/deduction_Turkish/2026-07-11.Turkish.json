@@ -1,0 +1,61 @@
+{
+  "title": "Yeşil tarlaların gezginleri",
+  "intro": "Eski zamanlarda, iki kişi komşu toprakları ekip biçiyordu. Yolları kesişmişti, ancak kalpleri onları bambaşka yönlere götürüyordu. Biri doğru yolda yürürken, diğeri inkârın karanlığına sapmıştı. Bu iki hasat bekçisinin gizemini çözebilir misiniz?",
+  "clues": [
+    "Bol ürün elde ettim, görenlerin gözlerini kamaştıran bereketli hasatlar yaptım.",
+    "Komşumun benden daha çok malı vardı, yine de onların payına kendi payımdan daha çok göz diktim.",
+    "Her şeyi kendi kontrolüm altına almak için onların ekinlerini tamamen yok etmeyi önerdim.",
+    "Kendi hasadımı da mahvettim, aptalca planlarımla her şeyi yok ettim.",
+    "Mahsullerim kuruyup, servetim bir gecede toz olup giderken çaresizce izledim.",
+    "Öbür dünyada hiçbir payım yoktu ve son durağım alev alev yanan bir çukur oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Dirilişi ve yargıyı inkâr eden adam",
+        "Dürüst çiftçiyi ezen yönetici",
+        "Minnettarlıktan yoksun varlıklı toprak sahibi",
+        "Komşusunun arazisine göz diken çiftçi",
+        "Yıkımı planlayan hain ortak"
+      ],
+      "answer": "Komşusunun arazisine göz diken çiftçi"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İlahi vahiy almanın sınavı",
+        "Zenginliğin ve sabrın zorluğu",
+        "Dürüst bir insanın geçim kaynağını yok etme ayartması",
+        "Mirasın adil bir şekilde paylaştırılması emri",
+        "Bir tiranın baskısına karşı mücadele"
+      ],
+      "answer": "Dürüst bir insanın geçim kaynağını yok etme ayartması"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Cennetin yemyeşil bahçeleri",
+        "Yan yana iki tarım alanı",
+        "Yıkıma tanık olan dağlar",
+        "Mekke'nin kutsal mabedi",
+        "Kutsanmış bir diyarın nehir kıyıları"
+      ],
+      "answer": "Yan yana iki tarım alanı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Doğruluk için ödül olarak sonsuz cennet.",
+        "Bu hayattaki her iki hasadın da tamamen yok edilmesi",
+        "Ölümüne kadar sürgün ve dolaşma",
+        "Geçici refahın ardından sonsuz ateş",
+        "Mucizevi bir iyileşme ve ikiye katlanmış bolluk"
+      ],
+      "answer": "Bu hayattaki her iki hasadın da tamamen yok edilmesi"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

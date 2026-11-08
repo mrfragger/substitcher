@@ -1,0 +1,61 @@
+{
+  "title": "O berro das profundidades",
+  "intro": "Un servo do Máis Misericordioso cansouse dunha nación teimuda e marchou antes de que se lle concedese o permiso. Este individuo acabou nun lugar onde ningún ser humano estivera nunca, onde a chamada ao Divino resoa estrañamente a través das capas de escuridade. Ao saír debilitada pero transformada, esta alma converteuse nunha lección eterna de paciencia, arrepentimento sincero e a misericordia ilimitada do Creador. Podes desentrañar o misterio?",
+  "clues": [
+    "Fun enviado como mensaxeiro ao meu pobo, pero eles excederon todos os límites na súa incredulidade e negáronse a escoitar.",
+    "Enfadeime polo seu rexeitamento e fuxín do meu pobo antes de que chegase a orde de Alá.",
+    "Subín a bordo dun barco cheo máis alá da súa capacidade e sorteamos para determinar quen sería botado pola borda.",
+    "Fun lanzado ao mar embravecido e tragado por un gran peixe.",
+    "Atrapado en tres capas de escuridade —o ventre, o mar profundo e a terra de abaixo— invoquei ao meu Señor con sincero arrepentimento.",
+    "Saín do peixe á costa aberta, débil e canso, e unha planta de cabaza creceu sobre min. A miña xente, cen mil ou máis, finalmente creu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Yunus",
+        "Profeta Ayyub",
+        "Profeta Yusuf",
+        "Profeta Moisés",
+        "Profeta Sulaimán"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Tragado por un gran peixe",
+        "Lanzado a un lume abrasador",
+        "Atrapado no fondo dun pozo",
+        "Asolagado por unha gran inundación",
+        "Encarcerado inxustamente por un rei"
+      ],
+      "answer": "Tragado por un gran peixe"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A barriga dun gran peixe",
+        "O val sagrado preto da Kaaba",
+        "Unha arca descansando sobre unha montaña",
+        "Un bastón que se converteu nunha serpe",
+        "Un trono de grandeza sen igual"
+      ],
+      "answer": "A barriga dun gran peixe"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O seu pobo, cen mil ou máis, cría",
+        "Elevado vivo aos ceos",
+        "Converteuse en gobernante dun reino sen rival",
+        "Destruído por un berro estridente dende o ceo",
+        "Derrubado por un devastador terremoto"
+      ],
+      "answer": "O seu pobo, cen mil ou máis, cría"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

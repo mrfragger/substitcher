@@ -1,0 +1,61 @@
+{
+  "title": "Qızıl Sınağında Sarsılmaz Müttəfiq",
+  "intro": "Böyük bir peyğəmbərin kölgəsində, möhtəşəm bir missiyaya kömək etmək üçün fəsahətli və imanlı bir ruh seçildi. Bu şəxsiyyət kütlələr tərəddüd edərkən möhkəm dayandı və tövhidin əsasını təhdid edən açıq-aşkar bir həddi aşmağa qarşı təbliğ etdi. Peyğəmbər xalqın ölümünün şahidi olmaq üçün geri qayıdanda bu şəxsiyyətin müdafiəsi günahkarlıq deyil, vəzifə və bölünmə qorxusu idi. Allahın bu sadiq bəndəsi kimdir?",
+  "clues": [
+    "Mən Allah tərəfindən başqaları ilə birlikdə müqəddəs bir vəzifə üçün seçildim və mənim rolum dəstək və təbliğ etmək idi.",
+    "Mənə aydın danışıq qabiliyyəti verildi və güclü bir zalımla qarşılaşmaq üçün bir elçi ilə birlikdə getdim.",
+    "Kritik bir səyahət zamanı elçi dağa tək çıxdı və mən insanlara nəzarət etməyi özümə buraxdım.",
+    "Onların yoxluğunda xalq qızıl heykəl düzəltdi və mən onlardan sadiq qalmalarını xahiş etdim, amma onlar məsləhətimi rədd etdilər.",
+    "Qasid qəzəb və kədər içində qayıdanda məni tutdular, amma mən onlara dedim ki, məğlub olmuşam və aralarında nifaq salmaqdan qorxuram.",
+    "Mən qardaşım Musanın yanında dayanan, onun yükünü bölüşən və bütpərəstliyə qarşı möhkəm duran peyğəmbərəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Harun peyğəmbər",
+        "Musa peyğəmbər",
+        "İsa peyğəmbər",
+        "Davud peyğəmbər",
+        "Zəkəriyyə peyğəmbər"
+      ],
+      "answer": "Harun peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Xəbərdarlıqlara baxmayaraq, insanlar qızıl buzova ibadət edirdilər",
+        "İnsanlar məni alovlu bir oda atdılar",
+        "Məni böyük bir balıq uddu",
+        "Məni saxta ittihamlarla həbs etdilər",
+        "Təbliğ etdiyim üçün şəhərimdən sürgün edildim"
+      ],
+      "answer": "Xəbərdarlıqlara baxmayaraq, insanlar qızıl buzova ibadət edirdilər"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qızıl buzov",
+        "Yanan Kol",
+        "İlana çevrilən əsa",
+        "Əhd Lövhələri",
+        "Əhd sandığı"
+      ],
+      "answer": "Qızıl buzov"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Mən bəraət qazandım və peyğəmbərlik missiyamı davam etdirdim",
+        "Mən insanların günahına görə cəzalandırıldım",
+        "Mənə rəhbərlik etmək üçün yeni bir millət verildi",
+        "Mən diri-diri göyə qaldırıldım",
+        "Mən bir krallığın hökmdarı təyin edildim"
+      ],
+      "answer": "Mən bəraət qazandım və peyğəmbərlik missiyamı davam etdirdim"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

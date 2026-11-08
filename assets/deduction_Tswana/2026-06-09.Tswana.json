@@ -1,0 +1,61 @@
+{
+  "title": "Mobitsi yo o sa Reketleng wa Boammaaruri",
+  "intro": "Morongwa o eme a le esi mo gare ga batho ba ba tlhogoethata, a ba bitsa kwa Modimong o le Mongwe wa Boammaaruri fa bone ba ntse ba ngaparetse medingwana ya maaka. Moporofeti yono o na le leina le le boelelang ka bokao jo bo nonofileng—‘yo o batlang tshireletso’—le fa go ntse jalo o amogela fela go ganwa le go ganwa. Ka go tlhotlheletsa ka bonolo le go tlhagisa ka tsela e e tlhomameng, moya ono o rwele molaetsa wa bomodimo o lobopo ka bolone lo tla o tlhomamisang kwa bofelong. A o ka kgona go lemoga motho yono yo o tlhomameng yo o emelang nngwe ya dipolelo tsa bogologolo thata mo dikwalong tsa Boiselamo?",
+  "clues": [
+    "Batho ba me ba ne ba obamela medimo e mentsi, fa nna ke ne ke ba bitsa go direla Ene yo o bopileng legodimo le lefatshe.",
+    "Ke ne ka ema fa pele ga morafe wa gaetsho mme ka bolela gore ga ke na tuelo epe e ke neng nka e batla mo go bone—keletso ya me fela e ne e le kaelo ya bone ya tshiamo.",
+    "Phefo e kgolo e ne ya romelwa mo bathong ba me jaaka kotlhao ya bomodimo, phefo e Quran e buang ka yone ka bontsi le ka bosadi.",
+    "Go farologana le baporofeti bangwe, ke ne ke sa newa mosadi kgotsa bana ba ba umakilweng thata mo kanelong ya me, ka gonne thomo ya me e ne e le go bitsa batho ba me ke le nosi.",
+    "Leina la me le na le bokao jo bo tseneletseng—jo bo amanang le kgopolo ya tshireletso le botshabelo jo motho a bo batlang.",
+    "Batho ba gaetsho ba ne ba itsiwe ka lereo le le rileng la thutafatshe la mokgatšha o ba neng ba nna mo go one, mme lefatshe la bone le ne le tlhalosiwa ka lenyatso le le kgethegileng ka ntlha ya go tlhoka dimela ga lone."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Hud",
+        "Moporofeti Salih",
+        "Moporofeti Shu'aib",
+        "Moporofeti Nuh",
+        "Moporofeti Hudayb"
+      ],
+      "answer": "Moporofeti Hud"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Morwalela wa lefatshe",
+        "Phefo e e fisang",
+        "Thoromo ya lefatshe ya tshenyo",
+        "Komelelo le tlala",
+        "Go nwela mo lewatleng"
+      ],
+      "answer": "Phefo e e fisang"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Mokgatšha o o nonneng wa Yemen",
+        "Sekaka sa motlhaba sa Midiana",
+        "Mokgatšha o o matlapa wa Thamude",
+        "Lefatshe la bogologolo la batho ba 'Ad .",
+        "Kgaolo ya lebopo la Egepeto"
+      ],
+      "answer": "Lefatshe la bogologolo la batho ba 'Ad ."
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Batho ba me ba ne ba ikwatlhaya mme ba tsena mo paradaiseng .",
+        "Ga go ope wa batho ba gaetsho yo o neng a falola kotlhao",
+        "Ke tserwe ke tshela jaaka morwarre Yunus",
+        "Ke ne ka fuduga le balatedi ba me kwa lefatsheng le le segofaditsweng",
+        "Phefo e ne ya senya fela ba ba sa dumeleng fa badumedi ba ne ba falola ."
+      ],
+      "answer": "Ga go ope wa batho ba gaetsho yo o neng a falola kotlhao"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

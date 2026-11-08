@@ -1,0 +1,61 @@
+{
+  "title": "Ko'rinmaslarning ovozi",
+  "intro": "Ilohiy muloqot yilnomalarida mo''jizaviy alomatlar va mustahkam imon bilan to'qilgan bir shaxs ajralib turadi. Bu shaxs o'z davrining me'yorlariga qarshi chiqadigan noyob vahiy oldi, oddiy idrok pardasidan tashqarida gapirdi. Ularning xabari an'anaviy vositalar orqali emas, balki inson tushunchasiga zid bo'lgan chuqur aloqa orqali keldi, odamlarni kutilmagan yo'llar bilan haqiqatni anglashga chaqirdi. Allohning bu xizmatkorining sayohati hidoyat eng favqulodda vaziyatlarda qanday namoyon bo'lishi mumkinligidan dalolat beradi va vahiyning o'zi haqida mulohaza yuritishga undaydi.",
+  "clues": [
+    "Menga ko'rinmas manbadan sirli ovoz orqali kelgan xabar yetib keldi.",
+    "Avvaliga xalqim mening xabarimni rad etdi va mening rostgo'yligimning an'anaviy dalillarini talab qildi.",
+    "Men ularni olgan narsamga o'xshash narsani ishlab chiqarishga undadim, ammo ular buni uddalay olmadilar.",
+    "Men keltirgan vahiy haqiqatni ochiq ko'rsatuvchi aniq oyatlar sifatida ta'riflangan edi.",
+    "Men qavmimni kufr va takabburlikda davom etsalar, qattiq jazo bilan ogohlantirdim.",
+    "Mening hikoyam Allohning qudrati alomatlarini ta'kidlaydigan surada boshqa payg'ambarlar bilan birga tilga olinadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Hud",
+        "Payg'ambar Solih",
+        "Payg'ambar Shu'ayb",
+        "Fir'avn oilasidan bo'lgan mo'min",
+        "Muso payg'ambar"
+      ],
+      "answer": "Payg'ambar Solih"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Olovli pechga tashlanmoqda",
+        "Zolim hukmdorning zulmiga duch kelish",
+        "Mo''jizaviy belgi sifatida urg'ochi tuyani ko'rsatish",
+        "Katta suv toshqinidan omon qolish",
+        "Sandiq ichida dengizga tashlanish"
+      ],
+      "answer": "Mo''jizaviy belgi sifatida urg'ochi tuyani ko'rsatish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tuva vodiysi",
+        "Madyan shahri",
+        "Samud yurti",
+        "Fir'avn saroyi",
+        "Hira g'ori"
+      ],
+      "answer": "Samud yurti"
+    },
+    "outcome": {
+      "label": "Natija",
+      "answer": "Mening xalqim mo''jizaviy tuyani o'ldirgani uchun yo'q qilindi",
+      "options": [
+        "Mening xalqim tavba qildi va najot topdi",
+        "Men tiriklayin osmonga ko'tarildim",
+        "Mening xalqim mo''jizaviy tuyani o'ldirgani uchun yo'q qilindi",
+        "Men buyuk hukmdorga aylandim",
+        "Meni kemaga solish orqali qutqarib qolishdi"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

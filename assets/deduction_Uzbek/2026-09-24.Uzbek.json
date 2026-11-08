@@ -1,0 +1,61 @@
+{
+  "title": "Ilohiylikni talab qilgan hukmdor",
+  "intro": "Kuchli va mag'rur hukmdor hech kim taxtdan yuqori turmaydi deb hisoblardi. Ular qochayotgan guruhni ulkan suv havzasi bo'ylab quvib ketishdi, ammo dramatik tarzda o'limga duch kelishdi. Bu hukmdorning hikoyasi Qur'onning ko'plab oyatlarida aks-sado berib, barcha uchun ogohlantirish vazifasini o'taydi.",
+  "clues": [
+    "Men boshqargan yerlarda hech qanday hokimiyat o'zimnikidan ustun emasligiga ishongan qudratli hukmdor edim.",
+    "Mening ulkan meʼmoriy loyihalarni amalga oshirishda menga yordam beradigan Homon ismli ishonchli vazirim bor edi.",
+    "Menga qarshi chiqqan xabarchining alomatlariga qarshi chiqish uchun yurtimning eng yaxshi sehrgarlarini chaqirdim.",
+    "Vabo va aniq ogohlantirishlarga qaramay, men o'z shohligimdagi qul bo'lgan xalqning ketishiga yo'l qo'ymadim.",
+    "Men butun qoʻshinim va aravalarim bilan ularni ulkan dengiz orqali taʼqib qildim.",
+    "O'sha dengiz meni va qo'shinlarimni yopib qo'ydi, ular esa xavfsiz o'tib ketayotganlarida barchamizni cho'ktirib yubordi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avn (Fir'avn)",
+        "Namrud",
+        "Abu Lahab",
+        "Xomon",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'avn (Fir'avn)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Muso (Muso) bilan o'latlar va to'qnashuv",
+        "Katta to'fondan oldin kema qurish",
+        "Vodiyda Jalutga qarshi jang",
+        "Kit tomonidan yutib yuborilmoqda",
+        "Halol savdo qoidalarini himoya qilish"
+      ],
+      "answer": "Muso (Muso) bilan o'latlar va to'qnashuv"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Baland minoralar va qoziqlar",
+        "Ajoyib yog'och kema",
+        "Oltin buzoq",
+        "Ilonga aylangan tayoq",
+        "Katta kit"
+      ],
+      "answer": "Baland minoralar va qoziqlar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Dengizda armiya bilan birga cho'kib ketdi",
+        "Allohning rahmati va sabr-toqati bilan qutqarildi",
+        "Yillar davomidagi qiyinchiliklardan so'ng oilasi bilan yana birlashdi",
+        "Yer tomonidan yutib yuborilgan",
+        "Olovda yonib ketdi"
+      ],
+      "answer": "Dengizda armiya bilan birga cho'kib ketdi"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

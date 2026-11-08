@@ -1,0 +1,60 @@
+{
+  "title": "Aberastasunaren zama.",
+  "intro": "Zorte izugarri baten istorio baten aurrean zaude, urrez eta boterez apaindutako bizitza batena, baina azken finean, munduko handitasunaren bila dabiltzan guztientzat ikasgai gomendagarria. Argitu al dezakezu denboran zehar oihartzuna duen istorioaren pertsonaia honen nortasuna, munduko ondasunen izaera iragankorraren lekuko dena?",
+  "clues": [
+    "Profeta handi baten herrikoa nintzen, baina harrokeria eta zapalkuntzaren bidea aukeratu nuen.",
+    "Alak aberastasun izugarria eman zidan, hainbeste ezen nire altxorraren giltzak zama astun bat ziren gizon talde sendo batentzat.",
+    "Nire jendeak aholkatu zidan ez nendin nire aberastasunekin harrotzeko, gogoraraziz Alak ez dituela maite harro daudenak.",
+    "Harrokeriaz esan nuen nire fortuna izugarria nire ezagutzari eta ahaleginari zor zitzaiola, ez Allahren bedeinkapen bati.",
+    "Ustelkeriaren aurka ohartarazi ninduten eta Alak eman zidanarekin Hurrengoa bilatzeko gogorarazi zidaten, baina ez nien entzun eta nire harrotasunean jarraitu nuen.",
+    "Azkenean, Ala-k lurrak ni eta nire bizilekua irentsiarazi zituen, laguntzailerik gabe utziz Bere dekretuaren aurka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Faraoia",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Itsasoaren zatiketa.",
+        "Nimroden sua.",
+        "Uholdea",
+        "Lurrak irenstea.",
+        "Matxinsaltoen izurritea."
+      ],
+      "answer": "Lurrak irenstea."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Urrezko Txahala",
+        "Altxorrak/Giltzak",
+        "Zamzam-eko putzua"
+      ],
+      "answer": "Altxorrak/Giltzak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erregetza eman zioten",
+        "Suntsipenetik salbatua.",
+        "Lurrak irentsia.",
+        "Profeta bihurtu zen.",
+        "Bakean hil zen."
+      ],
+      "answer": "Lurrak irentsia."
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

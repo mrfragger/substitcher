@@ -1,0 +1,61 @@
+{
+  "title": "El llamado desatendido en la tierra de la arrogancia",
+  "intro": "Te encuentras entre las ruinas de una civilización otrora grandiosa, donde el poder y el orgullo no conocían límites. Un mensajero caminó entre ellos, clamando por la verdad, pero sus corazones estaban endurecidos. La advertencia cayó en saco roto, y el cielo mismo se convirtió en instrumento de ira. ¿Quién era este mensajero y qué fue de aquellos que rechazaron su llamado?",
+  "clues": [
+    "Me enviaron a un pueblo de fuerza inigualable que erigía un monumento en cada lugar elevado.",
+    "Mi pueblo se consideraba invencible y decía: \"¿Quién es más poderoso que nosotros?\"",
+    "Los insté a adorar solo a Alá, pero me acusaron de necedad y mentira.",
+    "Me retaron a que cumpliera el castigo que prometí si decía la verdad.",
+    "Alá les envió un viento estéril que no perdonó nada a su paso.",
+    "Yo y quienes creyeron conmigo fuimos salvados por la misericordia de Alá, mientras que los incrédulos fueron completamente destruidos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shuaib",
+        "Profeta Lut",
+        "Profeta Noé"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Un viento devastador destruyó a los incrédulos.",
+        "Una gran inundación arrasó con los incrédulos.",
+        "Una lluvia de piedras cayó",
+        "Un grito ensordecedor se apoderó de los incrédulos.",
+        "Un terremoto sacudió a los incrédulos."
+      ],
+      "answer": "Un viento devastador destruyó a los incrédulos."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un viento implacable",
+        "Un arca de madera",
+        "Una camella",
+        "Una lluvia de piedras de arcilla",
+        "Un fuego abrasador"
+      ],
+      "answer": "Un viento implacable"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Hud y los creyentes fueron salvados, y los incrédulos fueron destruidos.",
+        "Hud fue elevado a una posición elevada.",
+        "Hud fue asesinado por su gente.",
+        "El pueblo de Hud se arrepintió y fue perdonado.",
+        "Hud abandonó a su gente antes de recibir cualquier castigo."
+      ],
+      "answer": "Hud y los creyentes fueron salvados, y los incrédulos fueron destruidos."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

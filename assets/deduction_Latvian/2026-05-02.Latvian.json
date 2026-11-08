@@ -1,0 +1,61 @@
+{
+  "title": "Kapa vēstījuma nesējs",
+  "intro": "Taisnīga dvēsele tika sūtīta, lai vadītu tautu, kas bija apmaldījusies nepieredzētos pārkāpumos. Šis vēstnesis stingri turējās pie sava, sniedzot bargu brīdinājumu par korupciju, kas nepakļāvās dabiskajai kārtībai. Neskatoties uz nopietniem lūgumiem, kopiena iegrima dziļākā tumsā, sagatavojot augsni dievišķai atmaksai, kāda nebija neviena cita. Vai vari atpazīt šo uzticīgo Allāha kalpu?",
+  "clues": [
+    "Es biju radinieks citam lielam pravietim un kopā ar viņu emigrēju, atstājot aiz sevis mūsu dzimteni.",
+    "Es tiku sūtīts pie tautas, kuras ļaunprātība bija unikāla, pārkāpums, kādu neviena radība nebija pastrādājusi pirms viņiem.",
+    "Mana paša mājsaimniecība bija sašķelta; tuvs ģimenes loceklis slepeni nostājās neticīgo pusē.",
+    "Eņģeļi skaistu jaunekļu izskatā ieradās manās mājās kā viesi, radot man lielas raizes par viņu drošību.",
+    "Es piedāvāju savas meitas par sievām savai tautai, izmisīgi cenšoties viņus novērst no viņu apkaunojošajiem darbiem.",
+    "Manu tautu iznīcināja briesmīgs kliedziens un cepta māla akmeņu lietus, kamēr es un mana ģimene, izņemot vienu, tikām izglābti, dodoties prom nakts vidū."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Šuajbs",
+        "Pravietis Salihs",
+        "Pravietis Lūts",
+        "Pravietis Huds",
+        "Pravietis Nuhs"
+      ],
+      "answer": "Pravietis Lūts"
+    },
+    "trial": {
+      "label": "Kāds bija mans sākotnējais tiesas process?",
+      "options": [
+        "Pārliecinot tirānu karali mani nededzināt ugunī.",
+        "Sadzīvot ar manu brāļu greizsirdību un iemestību akā.",
+        "Sastopoties ar tautu, kas iesaistīta nepieredzētā seksuālā amoralitātē.",
+        "Izvedu savu tautu no varena faraona verdzības.",
+        "Milzīga kuģa būvniecība, lai glābtu ticīgos no lieliem plūdiem."
+      ],
+      "answer": "Sastopoties ar tautu, kas iesaistīta nepieredzētā seksuālā amoralitātē."
+    },
+    "location": {
+      "label": "Kur bija manas misijas atrašanās vieta?",
+      "options": [
+        "Madjanas pilsēta",
+        "Senā Iramas pilsēta",
+        "Ēģiptes zeme faraona vadībā",
+        "Sodomas un Gomoras pilsētas",
+        "Nīnives pilsēta"
+      ],
+      "answer": "Sodomas un Gomoras pilsētas"
+    },
+    "outcome": {
+      "label": "Kāds bija galīgais rezultāts?",
+      "options": [
+        "Pilsētas tika apgāztas un apbērtas ar cepta māla akmeņiem.",
+        "Manu tautu zeme aprija kopā ar tās bagāto vadītāju.",
+        "Manu tautu septiņas naktis un astoņas dienas postīja spēcīgs vējš.",
+        "Manu tautu piemeklēja tādas sērgas kā siseņi, utis un vardes.",
+        "Pēc tam, kad es pametu savu misiju, mani aprija milzu zivs."
+      ],
+      "answer": "Pilsētas tika apgāztas un apbērtas ar cepta māla akmeņiem."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

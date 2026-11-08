@@ -1,0 +1,61 @@
+{
+  "title": "Mâinile blestemate",
+  "intro": "Stai pe aleile întortocheate ale anticei Mecca, unde un suflet influent și bogat a întors cândva spatele chemării adevărului. Povestea acestei figuri este o amintire puternică a faptului că legăturile de sânge nu pot învinge lanțurile mândriei. Cine este acesta al cărui nume răsună în focul care așteaptă?",
+  "clues": [
+    "Am umblat pe străzile din Mecca cu o mândrie care m-a orbit la adevăr, deși mesagerul era de același sânge cu mine.",
+    "Averile mele erau vaste, dar au devenit un blestem mai degrabă decât un scut.",
+    "Cartea îndrumării vorbește despre ruina mea, declarând că mâinile și persoana mea vor pieri.",
+    "Soțul meu s-a alăturat campaniei mele de dușmănie, adunând spini pe care să-i împrăștie pe calea celui care L-a chemat pe Allah.",
+    "În ziua judecății, voi fi aruncat într-un foc arzător, iar soțul meu va avea o frânghie din fibră de palmier în jurul gâtului.",
+    "Sunt cunoscut sub un nume care înseamnă „tatăl flăcării” - un nume care prevestește lăcașul meu veșnic."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Proces sau eveniment cheie",
+      "options": [
+        "S-a opus Profetului și a fost blestemat în Coran",
+        "A condus o armată pentru a distruge Kaaba",
+        "A încercat să-l omoare pe Profet aruncând cu pietre",
+        "A refuzat să creadă în divizarea lunii",
+        "A construit un turn pentru a ajunge la ceruri"
+      ],
+      "answer": "S-a opus Profetului și a fost blestemat în Coran"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Focul arzător al Iadului",
+        "Toiagul lui Musa",
+        "Arca lui Nuh",
+        "Fântâna lui Zamzam",
+        "Vițelul de Aur"
+      ],
+      "answer": "Focul arzător al Iadului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "El va intra în Focul Arzător, iar bogăția sa nu-i va fi de niciun folos.",
+        "S-a pocăit și a devenit credincios",
+        "A fost iertat după ce s-a retras",
+        "A murit ca martir",
+        "El a fost înălțat la ceruri"
+      ],
+      "answer": "El va intra în Focul Arzător, iar bogăția sa nu-i va fi de niciun folos."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

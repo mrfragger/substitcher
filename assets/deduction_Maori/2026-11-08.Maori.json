@@ -1,0 +1,61 @@
+{
+  "title": "te hononga i karanga ai i te whakangaromanga",
+  "intro": "Whakaarohia kei raro i te tuanui kotahi i reira te whakakitenga, engari e whiriwhiri ana i tētahi atu pono. I noho tata tonu tēnei tangata ki te pono me te poropititanga, engari i tahuri ki te hunga i whakakahore. Ko tā rātou kōrero he whakatūpato nui e kore e taea e te tata ki te tika anake te whakaora i te wairua e tinihanga ana i te whakawhirinakitanga.",
+  "clues": [
+    "I noho ahau i roto i te whare o tetahi poropiti i whiriwhiria e Allah.",
+    "I mōhio ahau ki te pono i kauwhautia e taku tāne, heoi kāore ahau i tino whakapono ki taua mea.",
+    "I tinihanga ahau i tōna whakawhirinaki mā te tautoko i te hunga whakahē i a ia, me te āwhina i a rātou ki te whawhai ki a ia.",
+    "Kua whakahuatia ahau i te taha o te wahine a tētahi atu poropiti i tinihanga hoki, hei tauira mā te hunga whakaponokore.",
+    "Kei roto i te Surah At-Tahrim taku kōrero hei whakatūpato kāore he tiaki a te whanaungatanga ki ngā poropiti.",
+    "I mate tahi ahau me te hunga hara i te wā i whakangaromia ai e te Atua te iwi o Rutu, i mahue iho me te hunga i toe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Wahine a te Poropiti a Ruta",
+        "Asiya, te wahine a Parao",
+        "Te wahine a Imran",
+        "Ko Hara, te wahine a te Poropiti a Ihāperaima",
+        "Te Wahine a Al-Aziz"
+      ],
+      "answer": "Te Wahine a te Poropiti a Ruta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I tinihanga i te poropiti mā te āwhina i te hunga whakaponokore ki te whawhai ki a ia",
+        "Makahia he pēpi ki roto i te awa i roto i te kete hei whakaora i a ia",
+        "I tono kia hangaia he kuao kau koura i te wā e ngaro ana te poropiti",
+        "I whakapae i tētahi minita tika mō te hē, ā, i hereherea ia",
+        "I ārahi i tētahi ope taua arewhana ki te whakangaro i te Kaaba"
+      ],
+      "answer": "I tinihanga i te poropiti mā te āwhina i te hunga whakaponokore ki te whawhai ki a ia"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā tāone i hurihia o te iwi o Ruta",
+        "Te Āka i hangaia i raro i te whakahau a te Atua",
+        "Nā te ahi i whakamatao a Ibrahim",
+        "Te ana piringa mō ngā taiohi e moe ana",
+        "Te awa i kitea ai te kete a te pēpi"
+      ],
+      "answer": "Ngā tāone i hurihia o te iwi o Ruta"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I mate tahi me te hunga whakaponokore ahakoa i marena ki te poropiti",
+        "I whakaorangia ngātahitia me te hunga whakapono, ā, i tomo ki Pararaiha i roto i te rangimārie",
+        "I hurihia hei pou hei tohu mō ngā whakatupuranga o muri mai",
+        "I horomia e te whenua me ngā taonga nui whakaharahara",
+        "I whakawhiwhia ki tētahi tamaiti merekara i te koroheketanga"
+      ],
+      "answer": "I mate tahi me te hunga whakaponokore ahakoa i marena ki te poropiti"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

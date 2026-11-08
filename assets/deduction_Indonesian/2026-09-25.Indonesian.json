@@ -1,0 +1,61 @@
+{
+  "title": "Bendungan yang Menghancurkan Sebuah Kerajaan",
+  "intro": "Sebuah negeri dengan sungai-sungai yang mengalir, dua taman yang hijau subur, dan kemakmuran yang tak tertandingi — tetapi penduduknya menjadi lalai terhadap Dia yang telah memberkati mereka. Ketika pengingat datang memanggil mereka kembali, mereka berpaling. Apa yang terjadi selanjutnya adalah hukuman yang masih bergema sebagai peringatan. Siapakah komunitas kuno ini?",
+  "clues": [
+    "Kami tinggal di tanah yang begitu diberkati sehingga rumah kami terletak di antara dua taman yang hijau subur.",
+    "Kami menikmati sungai-sungai yang mengalir melalui tanah kami dan panen melimpah yang memenuhi rumah-rumah kami.",
+    "Namun ketika kita dipanggil untuk bersyukur dan taat kepada Tuhan kita, kita malah berpaling karena kesombongan.",
+    "Kekayaan dan kemudahan kita membuat kita melupakan Dia yang telah menganugerahkan semuanya.",
+    "Kemudian datanglah arus deras yang tiba-tiba menerobos penghalang besar yang selama ini kita andalkan.",
+    "Kami adalah penduduk Saba', yang tanahnya terkenal dengan Bendungan Ma'rib yang megah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Penduduk Saba",
+        "Orang-orang di Parit",
+        "Sahabat Sumur",
+        "Orang-orang Tubba",
+        "Penduduk Midian"
+      ],
+      "answer": "Penduduk Saba"
+    },
+    "trial": {
+      "label": "Kejatuhan Kita",
+      "options": [
+        "Banjir akibat jebolnya bendungan",
+        "Angin kencang dari langit",
+        "Terbakar di parit api",
+        "Gempa bumi dahsyat",
+        "Tenggelam dalam banjir besar"
+      ],
+      "answer": "Banjir akibat jebolnya bendungan"
+    },
+    "location": {
+      "label": "Lokasi Utama",
+      "options": [
+        "Bendungan Ma'rib",
+        "Gunung Sinai",
+        "Gua Tujuh Orang Tidur",
+        "Semak yang Terbakar",
+        "Terbelahnya Laut"
+      ],
+      "answer": "Bendungan Ma'rib"
+    },
+    "outcome": {
+      "label": "Nasib Kita",
+      "options": [
+        "Dua kebun pahit menggantikan kebun kita yang subur.",
+        "Kebun kami menjadi semakin subur.",
+        "Daratan itu tenggelam di bawah laut.",
+        "Kami terkubur dalam abu vulkanik.",
+        "Bangsa kita terpecah menjadi dua belas suku."
+      ],
+      "answer": "Dua kebun pahit menggantikan kebun kita yang subur."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nepalenkiamas autoritetas",
+  "intro": "Senovės žemėse kažkada viešpatavo galinga valdžia, valdanti didžiulius išteklius ir nesuskaičiuojamų žmonių gyvybes. Nepaisant aiškių ženklų ir perspėjimų, šis valdovas pasirinko nepaklusnumo kelią, vedantį į gilią konfrontaciją, kuri aidės per visą laiką.",
+  "clues": [
+    "Aš pareikšdavau absoliučią galią ir autoritetą didžiulėje srityje.",
+    "Aš mečiau iššūkį nuolankiam pasiuntiniui, kurį siųsdavo visų karalysčių Viešpats.",
+    "Mano žmonės buvo žinomi dėl savo didingų statinių ir upės, kuri palaikė mūsų civilizaciją, meistriškumo.",
+    "Mačiau daug stebuklingų ženklų, įskaitant lazdą, pavirtusią gyvate, ir ranką, skaisčiai šviečiančią.",
+    "Nepaisydamas dieviškų įsakymų, atsisakiau išleisti pavergtų žmonių grupę iš savo žemės.",
+    "Mano persekiojimas išvykstančių žmonių nuvedė mane ir mano armijas į padalintos jūros širdį."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Jusufas",
+        "Karalius Talutas",
+        "Fir'awn (faraonas)",
+        "Pranašas Dawudas",
+        "Namrudas"
+      ],
+      "answer": "Fir'awn (faraonas)"
+    },
+    "trial": {
+      "label": "Pagrindinė konfrontacija",
+      "options": [
+        "Potvynis, kuris užliejo žemę",
+        "Jūros padalijimas",
+        "Degantis krūmas",
+        "Kaabos statyba",
+        "Galingo vėjo sunaikinimas"
+      ],
+      "answer": "Jūros padalijimas"
+    },
+    "location": {
+      "label": "Apibrėžiantis aspektas",
+      "options": [
+        "Kalbantis gyvūnas",
+        "Lazdelė ir švytinti ranka",
+        "Stebuklingas gimimas",
+        "Skraidantis kilimas",
+        "Didingas sostas ant vandens"
+      ],
+      "answer": "Lazdelė ir švytinti ranka"
+    },
+    "outcome": {
+      "label": "Galutinis likimas",
+      "options": [
+        "Pakilo į dangų",
+        "Prarytas žemės",
+        "Nuskendo jūroje",
+        "Pavirto į beždžionę",
+        "Suteikti milžiniški turtai ir galia"
+      ],
+      "answer": "Nuskendo jūroje"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

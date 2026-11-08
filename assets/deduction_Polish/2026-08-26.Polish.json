@@ -1,0 +1,61 @@
+{
+  "title": "Zazdrość, która pochłonęła",
+  "intro": "Opowieść starsza niż jakiekolwiek królestwo czy pismo święte – pierwsza ludzka tragedia zrodzona z zazdrości. Jedna dusza, starsza z dwójki dzieci urodzonych przez pierwszych rodziców, patrzyła z furią, jak młodsze rodzeństwo otrzymuje odmówioną łaskę. To, co nastąpiło, było najciemniejszym z wyborów, pozostawiając za sobą pierwszą krew przelaną na ziemi. Czy potrafisz odkryć tożsamość, proces i gorzki żal?",
+  "clues": [
+    "Urodziłem się jako pierwszy człowiek na Ziemi.",
+    "Kiedyś złożyłem ofiarę Allahowi, ale nie została ona ode mnie przyjęta.",
+    "Ofiara mojego rodzeństwa została przyjęta, natomiast moja została odrzucona — nie mogłem tego znieść.",
+    "Groziłem własnemu bratu zniszczeniem.",
+    "Stałem się pierwszą osobą na świecie, która popełniła morderstwo, odbierając życie własnemu bratu.",
+    "Bóg zesłał stworzenie ziemskie – czarnego ptaka ryjącego w ziemi – aby nauczył mnie, jak ukryć to, co zrobiłem, a ja zostałem z niczym, tylko żalem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Prorok Jakub",
+        "Prorok Musa",
+        "Prorok Adam"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Ofiara odrzucona przez Allaha",
+        "Wrzucony w wielki ogień",
+        "Porzucony jako dziecko w rzece",
+        "Wypróbowany z ogromnym królestwem",
+        "Nakazano poświęcić syna"
+      ],
+      "answer": "Ofiara odrzucona przez Allaha"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Kruk zesłany przez Allaha",
+        "Złoty cielec",
+        "Arka na górze",
+        "Płonący krzew",
+        "Wielbłądzica wyrzeźbiona w skale"
+      ],
+      "answer": "Kruk zesłany przez Allaha"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Stał się pełen żalu i wśród przegranych",
+        "Pochłonięty przez ziemię wraz ze skarbami",
+        "Zostałem szlachetnym posłańcem Allaha",
+        "Wszedł do Raju przez Boże miłosierdzie",
+        "Rządził niezrównanym królestwem"
+      ],
+      "answer": "Stał się pełen żalu i wśród przegranych"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

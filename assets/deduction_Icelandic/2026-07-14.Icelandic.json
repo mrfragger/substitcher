@@ -1,0 +1,61 @@
+{
+  "title": "Sálirnar í skotgröfinni",
+  "intro": "Þú ferðast aftur til tíma þegar miskunnarlaus stjórnandi krafðist algjörrar hollustu við falska guði. Lítið samfélag hollra sálna neitaði og stóð frammi fyrir svo hörðum refsingum að hún varð að eilífu bölvuð. Saga þeirra endurómar í gegnum Kóraninn sem vitnisburður um óhagganlega trú. Geturðu borið kennsl á þennan staðfasta hóp?",
+  "clues": [
+    "Við bjuggum í landi undir harðstjórn valdhafa sem krafðist tilbeiðslu á fölskum guðum.",
+    "Samfélag okkar varð fyrir miklum ofsóknum eingöngu vegna trúar okkar á Allah einan",
+    "Höfðinginn skipaði að grafa skyldi stóran skurð og kynda hann með glóandi eldi.",
+    "Vegna þess að við neituðum að afneita trú okkar, vorum við kastað í þessa logandi gryfju einn af öðrum.",
+    "Saga okkar varð hluti af Kóraninum og þeir sem ofsóttu okkur voru eilíflega bölvaðir.",
+    "Súran sem skráir raunir okkar er nefnd eftir stóru himnesku táknunum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hverjir erum við?",
+      "options": [
+        "Félagar skotgrafarinnar (Ashab al-Ukhdud)",
+        "Fólkið í hellinum (Ashab al-Kahf)",
+        "Fólk hvíldardagsins",
+        "Fólkið í A'ad",
+        "Fólkið í Thamud"
+      ],
+      "answer": "Félagar skotgrafarinnar (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Réttarhöld okkar",
+      "options": [
+        "Að vera brenndur lifandi í eldsvoða",
+        "Að vera innsiglaður í helli í mörg ár",
+        "Veiði á helgum hvíldardegi",
+        "Að vera eyðilagður af öskrandi vindi",
+        "Að drepa heilaga úlfalda"
+      ],
+      "answer": "Að vera brenndur lifandi í eldsvoða"
+    },
+    "location": {
+      "label": "Lykilatriðið",
+      "options": [
+        "Logandi eldsgraf",
+        "Falinn hellir með tryggum hundi",
+        "Háar súlur fornrar, dæmdrar borgar",
+        "Fjallhús höggvin í steinbjörg",
+        "Opin slétta sem sópuð er af hvassviðri"
+      ],
+      "answer": "Logandi eldsgraf"
+    },
+    "outcome": {
+      "label": "Niðurstaða okkar",
+      "options": [
+        "Við vorum píslarvottar og ofsækjendurnir voru eilíflega bölvaðir",
+        "Við vöknuðum eftir að hafa sofið í 309 ár",
+        "Við vorum umbreytt í apa fyrir syndir okkar",
+        "Öflugur öskrandi vindur eyddi okkur öllum",
+        "Eitt eyðileggjandi óp eyðilagði tilvist okkar"
+      ],
+      "answer": "Við vorum píslarvottar og ofsækjendurnir voru eilíflega bölvaðir"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

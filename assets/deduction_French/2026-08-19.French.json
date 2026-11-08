@@ -1,0 +1,61 @@
+{
+  "title": "La nation qui a défié l'ordre naturel",
+  "intro": "Dans une région dont l'histoire résonne à travers les âges, une communauté vivait en rébellion ouverte contre les lois de pureté. Leurs actes furent si inédits qu'ils sont restés gravés dans les mémoires comme un avertissement pour toute l'humanité. Qui étaient ces âmes, et quel destin les a-t-il réservés ?",
+  "clues": [
+    "Nous habitions une région traversée par une route souvent empruntée par les voyageurs, mais nous rendions leur voyage périlleux.",
+    "Nous avons commis des actes d'indécence tels que personne au monde ne l'avait jamais fait auparavant.",
+    "Un messager venu des nôtres nous a appelés à abandonner nos voies, mais nous l'avons rejeté et avons exigé le châtiment s'il disait vrai.",
+    "Lorsque de beaux hôtes arrivaient dans notre ville, nous cherchions à les agresser, ignorant qu'ils étaient des messagers de destruction.",
+    "On nous avait avertis d'un châtiment terrible si nous ne renoncions pas, mais nous avons raillé cet avertissement et sommes restés dans notre péché.",
+    "Une pluie de pierres s'est abattue sur nous, et nos maisons ont été renversées, ne laissant aucune trace, si ce n'est un signe pour ceux qui réfléchissent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple de Lut",
+        "Peuple de Thamud",
+        "Peuple d'A'ad",
+        "Les habitants de Madyan",
+        "Peuple de Saba"
+      ],
+      "answer": "Peuple de Lut"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Ils ont commis des actes d'immoralité sans précédent et obstrué les routes.",
+        "Il vénérait un veau d'or",
+        "Tué la chamelle sacrée",
+        "Il a triché dans le commerce et escroqué le peuple.",
+        "Il a bâti une tour vertigineuse pour défier les cieux."
+      ],
+      "answer": "Ils ont commis des actes d'immoralité sans précédent et obstrué les routes."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Des anges déguisés en beaux invités",
+        "Une chamelle émergeant d'un rocher",
+        "Un bâton se transformant en serpent",
+        "Un bateau construit sur une montagne",
+        "Un feu qui s'est refroidi et est devenu paisible"
+      ],
+      "answer": "Des anges déguisés en beaux invités"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Détruit par une pluie de pierres tombées du ciel",
+        "Englouti par la terre",
+        "Noyés lors d'une grande inondation",
+        "Frappé par une explosion hurlante",
+        "Transformés en singes"
+      ],
+      "answer": "Détruit par une pluie de pierres tombées du ciel"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

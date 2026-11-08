@@ -1,0 +1,61 @@
+{
+  "title": "Tšepiso e Boletsoeng holim'a Mashala",
+  "intro": "U eme pela mollo oa lehoatata ha mashala a oona a ntse a phatlalla ka hloko. Baeti ba fihla bakeng sa ho kopana le uena ka khutso, 'me molaetsa o le mong o bula pale ea tšepiso, makalo le bokamoso bo e-so phethahale.",
+  "clues": [
+    "Re ile ra tšela sebaka se selelele ho ea fihla ho mohlanka ea tšepahalang lefeelleng.",
+    "Re kopile hore ho hasanngoe mashala ho lokisa mollo.",
+    "Re buile le motho e mong ea neng a ile a hoeletsa lelakabeng hore le phole le bolokehe.",
+    "Re tlisitse litaba tsa lesea le sa tsoa tsoaloa ho motho ea seng a fetile lilemo tsa ho ba le bana.",
+    "Re ile ra reha ngwana ya tshepisitsweng Isaka.",
+    "Re ile ra tlisetsa Ibrahim litaba tse monate tsa mora, 'me litaba tse makatsang li ile tsa mo siea a tšeha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Mangeloi a ileng a tlisetsa Ibrahim Litaba tse monate tsa Isaka",
+        "Mangeloi a Ileng a Lemosa Lute",
+        "Mangeloi a Jereng Terone",
+        "Mangeloi a Lihele",
+        "Mangeloi a Rometsoeng ho Noe"
+      ],
+      "answer": "Mangeloi a ileng a tlisetsa Ibrahim Litaba tse monate tsa Isaka"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho tlisetsa Ibrahim litaba tse monate tsa tsoalo ea Isaka",
+        "Ho lemosa Lut pele ho kotlo ea batho ba hae",
+        "Ho phatlalatsa tsoalo ea Yahya ho Zakariyya",
+        "Ho Jara Terone ka Letsatsi la Kahlolo",
+        "Ho tsebisa Mariam tsoalo ea Isa"
+      ],
+      "answer": "Ho tlisetsa Ibrahim litaba tse monate tsa tsoalo ea Isaka"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Mollo o lokisitsoeng ka mashala a hasaneng",
+        "Areka e phaphametseng holim'a metsi a moroallo",
+        "Lehaha le koetsoeng ke lejoe le bilikang",
+        "Thaba ea letsopa le thatafalitsoeng ke letsoai le letsoai",
+        "Lere le namelang leholimong"
+      ],
+      "answer": "Mollo o lokisitsoeng ka mashala a hasaneng"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Litaba tse monate tsa mora ea bitsoang Isaka",
+        "Litaba tse monate tsa mora ea bitsoang Yahya",
+        "Ho khethoa ha Talut e le 'musi oa Bana ba Iseraele",
+        "Temoso pele ho kotlo ea batho ba Lut",
+        "Taelo ea ho haha ​​​​areka pele ho Moroallo"
+      ],
+      "answer": "Litaba tse monate tsa mora ea bitsoang Isaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

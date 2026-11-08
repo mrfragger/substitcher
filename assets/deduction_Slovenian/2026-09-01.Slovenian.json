@@ -1,0 +1,61 @@
+{
+  "title": "Glas z obrobja",
+  "intro": "Stojiš v mestu, kamor so prišli trije glasniki z jasnimi znamenji, a se ljudje posmehujejo njim in se oklepajo svojih starih navad. Iz najbolj oddaljenega dela mesta se proti množici prikrade postava, zadihana in odločna, da bi kljub zavrnitvi spregovorila resnico. Kdo je ta duša, ki je tvegala vse za sporočilo, ki ni njeno?",
+  "clues": [
+    "Živel sem med ljudstvom, ki je sicer sprejelo poslance z jasnimi znamenji, a so se prevzetno obrnili stran.",
+    "Pritekel sem iz najbolj oddaljenega dela mesta, ko sem slišal za klic slov.",
+    "Rekel sem svojemu ljudstvu: 'O moje ljudstvo, sledite poslancem. Sledite tistim, ki od vas ne zahtevajo nagrade, saj so na pravi poti.'",
+    "Nisem bil prerok, vendar sem verjel v poslance in svoje ljudstvo spodbujal, naj storijo enako.",
+    "Moji ljudje so se posmehovali mojemu nasvetu in me obtožili, da sem skrajnež.",
+    "Ko so me ubili, mi je Alah rekel, naj vstopim v raj, in želel sem si, da bi moje ljudstvo spoznalo odpuščanje in čast, ki sem jo bil deležen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Moški iz najbolj oddaljenega dela mesta (Ya-Sin)",
+        "Eden od treh glasnikov, poslanih v mesto",
+        "Ugleden trgovec v mestu",
+        "Vladar mesta",
+        "Vodja nevernikov"
+      ],
+      "answer": "Moški iz najbolj oddaljenega dela mesta (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Pridigal je svojemu ljudstvu, naj sledi poslancem",
+        "Gradnja ladje za rešitev vernikov pred poplavo",
+        "Biti vržen v ogenj zaradi vere",
+        "Biti pogoltnjen s strani kita",
+        "Dano jim je kraljestvo in modrost"
+      ],
+      "answer": "Pridigal je svojemu ljudstvu, naj sledi poslancem"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Najbolj oddaljeni del mesta",
+        "Skrinja",
+        "Vodnjak",
+        "Goreči grm",
+        "Jama"
+      ],
+      "answer": "Najbolj oddaljeni del mesta"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vstopil je v raj in si želel, da bi njegovo ljudstvo spoznalo njegovo odpuščanje",
+        "Utopil se je s svojimi ljudmi, ker je zavrnil sporočilo",
+        "Bil je dan čudež s kamelo",
+        "Po sojenju je postal vladar",
+        "Rešil ga je Alah in ostal je s svojim ljudstvom"
+      ],
+      "answer": "Vstopil je v raj in si želel, da bi njegovo ljudstvo spoznalo njegovo odpuščanje"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

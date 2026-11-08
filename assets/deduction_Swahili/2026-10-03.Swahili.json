@@ -1,0 +1,61 @@
+{
+  "title": "Mkesha kwenye Lango Linalowaka Moto",
+  "intro": "Umati wa watu wenye utulivu na wa kutisha unasimama ukiangalia kwenye kizingiti cha kutisha, bila kuonja chakula, kinywaji, au kupumzika. Wakiwa wameumbwa kwa kitu kisichofanana na udongo wa mwanadamu, wanasubiri kusudi moja la kutisha—na hawajawahi kutii hata amri moja kutoka kwa Mola wao.",
+  "clues": [
+    "Sisi ni viumbe tofauti na wanadamu, tumeumbwa kutokana na kitu ambacho hakili, hakinywi, wala hakichoki.",
+    "Idadi yetu kamili inajulikana na kufichuliwa katika Kitabu—sisi si wengi sana wala si wengi sana.",
+    "Hatujawahi kumtii Muumba wetu, wala hatuzungumzi kamwe kabla ya kuamriwa.",
+    "Siku itakapofika, makafiri watapelekwa kwetu kwa makundi, nasi tutawafungulia milango.",
+    "Tutawauliza: 'Je, hawakukujieni wajumbe kutoka katika jamaa zenu, wakikuonyeni kuhusu Siku hii?'",
+    "Tunalinda mahali ambapo hakuna roho inayotoka—eneo linalowaka la adhabu ya milele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Walinzi wa Moto wa Jahannamu (Zabaniyah)",
+        "Wabebaji wa Kiti cha Enzi cha Mwenyezi Mungu",
+        "Malaika wa Kurekodi (Kiraman Katibin)",
+        "Malaika wa Kifo",
+        "Walinzi wa Peponi"
+      ],
+      "answer": "Walinzi wa Moto wa Jahannamu (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Wajibu Wetu Mkuu",
+      "options": [
+        "Kulinda milango ya Moto wa Jehanamu",
+        "Kurekodi kila tendo la kibinadamu",
+        "Kubeba Kiti cha Enzi cha Mwenyezi Mungu",
+        "Kuchukua roho za marehemu",
+        "Kuamuru upepo na mawingu"
+      ],
+      "answer": "Kulinda milango ya Moto wa Jehanamu"
+    },
+    "location": {
+      "label": "Tunalinda Nini?",
+      "options": [
+        "Moto wa Jehanamu",
+        "Kiti cha Enzi cha Mwenyezi Mungu",
+        "Vitabu vya Matendo",
+        "Mito ya Paradiso",
+        "Milima ya Dunia"
+      ],
+      "answer": "Moto wa Jehanamu"
+    },
+    "outcome": {
+      "label": "Hatima ya Wale Walio Katika Eneo Letu",
+      "options": [
+        "Watadumu milele na hawataondoka kamwe",
+        "Hatimaye watasamehewa na kuachiliwa huru",
+        "Watasafishwa baada ya muda",
+        "Watabadilishwa kuwa aina zingine",
+        "Watabadilishana kati ya Jahannamu na Peponi"
+      ],
+      "answer": "Watadumu milele na hawataondoka kamwe"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

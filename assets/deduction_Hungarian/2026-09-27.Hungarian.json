@@ -1,0 +1,61 @@
+{
+  "title": "A kert, amely egyik napról a másikra eltűnt",
+  "intro": "Képzelj el egy buja kertet, érő gyümölcsökkel teli, hatalmas fákkal körülvéve. Akik gondozták, okosnak hitték magukat, a pirkadat előtti csendes órákban tervezték a betakarítást, távol a rászorulók szemeitől. De Annak, aki soha nem alszik, más tervei voltak a rejtett kincsükkel. Kitalálod, ki áll a Korán intő története mögött?",
+  "clues": [
+    "Régen volt egy olyan buja és bőséges kertünk, hogy minden arra járó irigyelte.",
+    "A tervezés során kora reggel suttogva kijelentettük egymásnak, hogy aznap egyetlen rászoruló lélek sem léphet be.",
+    "Gazdag emberek voltunk, és a szívünk vakká vált a körülöttünk élő szegények jogai iránt.",
+    "Amikor elérkezett a tervezett aratás hajnala, a kertünkhöz közeledve azt tapasztaltuk, hogy az egyik napról a másikra megfeketedett rommá változott.",
+    "Egy pusztító rendelet söpört végig a földön, csupán hamut hagyva ott, ahol egykor érett gyümölcsfürtök lógtak.",
+    "Történetünk egy szigorú figyelmeztetés, amely a Koránban van feljegyezve, ahol a kert tulajdonosaiként ismernek minket, akik megtagadták az alamizsnát a rászorulótól."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A kert tulajdonosai",
+        "A barlang népe",
+        "Isa tanítványai",
+        "Az erdő társai",
+        "Ibrahim vendégei"
+      ],
+      "answer": "A kert tulajdonosai"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Titokban gyümölcsöt szüretelni és a szegényeket kitiltani",
+        "Évszázadokig aludt egy barlangban",
+        "Nem hajlandó kőből nőstény tevét hozni",
+        "Aranyborjú imádása a Sínai-hegyen",
+        "Egy hatalmas bárka építése az özönvíz elkerülésére"
+      ],
+      "answer": "Titokban gyümölcsöt szüretelni és a szegényeket kitiltani"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy fallal körülvett kert, tele pálmákkal és szőlővel",
+        "Egy sötét barlang mélyen a hegyekben",
+        "Egy város, amelyet egy isteni hurrikán sújtott",
+        "Egy szent völgy Allah háza közelében",
+        "Egy folyó partjai"
+      ],
+      "answer": "Egy fallal körülvett kert, tele pálmákkal és szőlővel"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A kertet perzselő mennyei rendelet emésztette meg",
+        "309 holdéven át békésen aludtak",
+        "Kőzápor zúzta össze őket",
+        "Egy nagy árvíz hullámai alatt fulladtak meg",
+        "Hideg, tomboló szél szórta szét őket"
+      ],
+      "answer": "A kertet perzselő mennyei rendelet emésztette meg"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

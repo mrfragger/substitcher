@@ -1,0 +1,61 @@
+{
+  "title": "Shpirti i Duruar i Shtëpisë së Shenjtë",
+  "intro": "Në faqet e Kuranit, një figurë del nga prejardhja e një profeti të madh, i dhuruar si dhuratë në pleqëri. Ky shpirt festohet për vërtetësinë e palëkundur dhe një rol të thellë në krijimin e një shenjtëroreje që do të bëhej një far besimi. Ndërsa lexoni të dhënat, dëgjoni me kujdes zërin nga e kaluara, sepse ai flet në vetën e parë.",
+  "clues": [
+    "Unë përmendem në Kuran së bashku me një profet tjetër si një dhuratë e dhënë një të dërguari të moshuar.",
+    "Unë isha një nga dy pasardhësit që iu dhanë atij profeti në vitet e tij të mëvonshme.",
+    "Jam lavdëruar në Kuran për besnikërinë ndaj fjalës sime.",
+    "Unë mbaja nderin e profetësisë dhe u dërgova si i dërguar.",
+    "Unë iu bashkova babait tim në ngritjen e themeleve të Shtëpisë së Shenjtë.",
+    "Më kujtojnë si një nga të durueshmit, dhe shtëpia e shenjtë që ndërtuam u bë një vend kthimi dhe sigurie për njerëzit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Ismail",
+        "Profeti Is’hak",
+        "Profeti Jakub",
+        "Profeti Zekerija",
+        "Profeti Jahja"
+      ],
+      "answer": "Profeti Ismail"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ngritja e themeleve të Qabes me Ibrahimin",
+        "Duke u hedhur në zjarr",
+        "Gëlltitja nga një balenë",
+        "Duke i nxjerrë izraelitët nga Egjipti",
+        "Ndërtimi i një arke"
+      ],
+      "answer": "Ngritja e themeleve të Qabes me Ibrahimin"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Qabja",
+        "Mali Sinai",
+        "Deti i Kuq",
+        "Viçi i Artë",
+        "Kopshti i Edenit"
+      ],
+      "answer": "Qabja"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I numëruar midis pacientëve",
+        "I numëruar midis keqbërësve",
+        "I numëruar midis magjistarëve",
+        "I numëruar midis jobesimtarëve",
+        "I numëruar midis hipokritëve"
+      ],
+      "answer": "I numëruar midis pacientëve"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

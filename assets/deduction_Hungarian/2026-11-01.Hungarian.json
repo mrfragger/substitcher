@@ -1,0 +1,61 @@
+{
+  "title": "A hang, amely elutasította a kétségbeesést",
+  "intro": "Lépj be egy olyan otthonba, ahol veszteség veszteséget követ, mégis egyetlen nyugodt hang utasítja vissza a kétségbeesést. Egyetlen hívás a Koránban fordulóponttá változtatja a türelmet; vajon nyomon tudod követni a nyomokat, hogy kihez szól a hang?",
+  "clues": [
+    "A türelem hangja voltam egy olyan családban, ahol az áldásokat csapások próbára tették.",
+    "Egy olyan háztartásban maradtam, amelyet kiürített a vagyon és a gyermekek elvesztése.",
+    "Tudtam, hogy a betegség azt a társamat is sújtotta, akinek a teste lesújtott.",
+    "Amikor a baj súlyossá vált, Allahra emlékeztetve kiáltottam.",
+    "Egyetlen kijelentést tettem: Allah az Igazság, maradjatok türelmesek.",
+    "Nevén szólítottam Ayyubot; ezután Allah elvette a csapást és helyreállította a családot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ayyub próféta felesége",
+        "Nuh próféta felesége",
+        "Ibrahim próféta felesége",
+        "Ya'qub próféta felesége",
+        "A fáraó lánya"
+      ],
+      "answer": "Ayyub próféta felesége"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Ayyubbal maradni a veszteség és a betegség idején, majd türelmet kérni",
+        "Figyelmeztetni egy igazlelkű hírnököt, hogy hagyjon el egy korrupt közösséget",
+        "Imádkozzunk egy jövőbeli családfa megszületéséért",
+        "Álmok értelmezése egy királyi börtönben",
+        "Rábízott gyermek megtalálása a folyóparton"
+      ],
+      "answer": "Ayyubbal maradni a veszteség és a betegség idején, majd türelmet kérni"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Allah Igazságának kinyilvánítása és türelem szükséges",
+        "Egy pálmafa egy forrás mellett",
+        "Felhívás egy hajó építésére a hullámoktól távol",
+        "Tizenegy csillag és egy felkelő nap álma",
+        "Egy kosár, amit a Nílus mentén vittek"
+      ],
+      "answer": "Allah Igazságának kinyilvánítása és türelem szükséges"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Ayyub szenvedése elmúlt, és családja helyreállt",
+        "Egy régóta várt gyermek született egy meddő ima után",
+        "Egy fiatal uralkodó értelmezte a bőség és a szűkösség hét évét",
+        "Egy ránk bízott gyermeket kimentettek a folyó vízből",
+        "Figyelmeztetés előzte meg a pusztító árvizet"
+      ],
+      "answer": "Ayyub szenvedése elmúlt, és családja helyreállt"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

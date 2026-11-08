@@ -1,0 +1,61 @@
+{
+  "title": "Det uhørte kallet i arroganselandet",
+  "intro": "Du står i ruinene av en en gang stor sivilisasjon, hvor makt og stolthet ikke kjente noen grenser. En budbringer vandret blant dem og kalte på sannheten, men hjertene deres var forherdet. Advarselen ble ikke tatt hensyn til, og himmelen selv ble et instrument for vrede. Hvem var denne budbringeren, og hva skjedde med dem som avviste kallet?",
+  "clues": [
+    "Jeg ble sendt til et folk som var uten sidestykke i styrke, og som bygde et monument på hver offerhaug.",
+    "Mitt folk anså seg selv som uovervinnelige og sa: «Hvem er mektigere enn oss i styrke?»",
+    "Jeg kalte dem til å tilbe Allah alene, men de anklaget meg for dårskap og løgn.",
+    "De utfordret meg til å gi meg den straffen jeg lovet hvis jeg var sannferdig.",
+    "Allah sendte over dem en ufruktbar vind som ikke sparte noe den kom over.",
+    "Jeg og de som trodde med meg ble frelst ved Allahs nåde, mens de vantro ble fullstendig utslettet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Hud",
+        "Profeten Salih",
+        "Profeten Shuaib",
+        "Profeten Lut",
+        "Profeten Nuh"
+      ],
+      "answer": "Profeten Hud"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "En ødeleggende vind ødela de vantro",
+        "En stor flom omsluttet de vantro",
+        "En steinskur regnet ned",
+        "Et høyt skrik grep de vantro",
+        "Et jordskjelv rammet de vantro"
+      ],
+      "answer": "En ødeleggende vind ødela de vantro"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En nådeløs vind",
+        "En treark",
+        "En hunnkamel",
+        "Et regn av leirsteiner",
+        "En flammende ild"
+      ],
+      "answer": "En nådeløs vind"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Hud og de troende ble frelst, og de vantro ble ødelagt",
+        "Hud ble hevet til en høy posisjon",
+        "Hud ble drept av sitt folk",
+        "Huds folk omvendte seg og ble spart",
+        "Hud forlot sitt folk før noen straff"
+      ],
+      "answer": "Hud og de troende ble frelst, og de vantro ble ødelagt"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

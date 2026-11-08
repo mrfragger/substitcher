@@ -1,0 +1,61 @@
+{
+  "title": "El grito desde lo profundo",
+  "intro": "Un siervo del Misericordioso, cansado de una nación obstinada, partió antes de recibir permiso. Este individuo terminó en un lugar donde ningún ser humano había estado jamás, donde el llamado a lo Divino resuena extrañamente entre capas de oscuridad. Emergiendo debilitada pero transformada, esta alma se convirtió en una lección eterna de paciencia, arrepentimiento sincero y la infinita misericordia del Creador. ¿Puedes desentrañar el misterio?",
+  "clues": [
+    "Fui enviado como mensajero a mi pueblo, pero su incredulidad fue más allá de todos los límites y se negaron a escuchar.",
+    "Me enfadé mucho por su rechazo y huí de mi gente antes de que llegara la orden de Alá.",
+    "Subí a bordo de un barco que iba abarrotado, y echamos suertes para determinar quién sería arrojado por la borda.",
+    "Me arrojaron al mar embravecido y me tragó un pez enorme.",
+    "Atrapado en tres capas de oscuridad —el vientre, el mar profundo y la tierra que hay debajo— clamé a mi Señor con sincero arrepentimiento.",
+    "Salí del pez a la orilla, débil y exhausto, y una calabaza creció sobre mí. Mi gente, cien mil o más, finalmente creyó."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Yunus",
+        "Profeta Ayyub",
+        "Profeta Yusuf",
+        "El profeta Musa",
+        "Profeta Sulaimán"
+      ],
+      "answer": "El profeta Yunus"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Engullido por un gran pez",
+        "Arrojado a un fuego ardiente",
+        "Atrapado en el fondo de un pozo",
+        "Azotados por una gran inundación",
+        "Encarcelado injustamente por un rey."
+      ],
+      "answer": "Engullido por un gran pez"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El vientre de un gran pez",
+        "El valle sagrado cerca de la Kaaba",
+        "Un arca descansando sobre una montaña.",
+        "Un bastón que se transformó en serpiente",
+        "Un trono de grandeza inigualable"
+      ],
+      "answer": "El vientre de un gran pez"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Su pueblo, cien mil o más, creía",
+        "Elevado vivo a los cielos",
+        "Se convirtió en gobernante de un reino sin rival.",
+        "Destruido por un grito penetrante del cielo",
+        "Devastada por un devastador terremoto."
+      ],
+      "answer": "Su pueblo, cien mil o más, creía"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

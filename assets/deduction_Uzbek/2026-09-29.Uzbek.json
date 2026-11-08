@@ -1,0 +1,61 @@
+{
+  "title": "O'ymakor tog'larning payg'ambari",
+  "intro": "Qadimgi Arabistonning qattiq cho'llarida o'zlarining ajoyib hunarmandchiligi bilan mashhur bo'lgan odamlar orasida bir shaxs paydo bo'ldi. Ularning uylari qattiq toshdan qurilgan, ammo qalblari ular o'ygan tog'lardan ham qattiqroq edi. Ilohiy elchi bitta mo''jizaviy belgi bilan keldi - ammo mag'rurlik va itoatsizlik tez va dahshatli oqibatlarga olib keldi. Xalqi yo'l-yo'riqdan ko'ra halokatni tanlagan olijanob xizmatkorni aniqlay olasizmi?",
+  "clues": [
+    "Men qavmimga ogohlantiruvchi sifatida yuborildim, ularni yagona Allohga ibodat qilishga chaqirdim.",
+    "Mening xalqim tog' yonbag'irlariga ulug'vor uylar o'yib, ajoyib qoyalar orasida yashar edi.",
+    "Mening ibodatim bilan qattiq toshdan mo''jizaviy ravishda urg'ochi tuya chiqdi, bu Qodir Tangrining aniq belgisi edi.",
+    "Men xalqimga suvni bu urg'ochi tuya bilan baham ko'rishni va unga zarar yetkazmaslikni aytdim.",
+    "Mening qavmim urg'ochi tuyaga qarshi fitna uyushtirdi va uning sonlarini kesib, o'zlarini halokatga mahkum qildi.",
+    "Xalqimni dahshatli zilzila qamrab oldi va ular uylarida qimirlamay qoldilar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Solih",
+        "Payg'ambar Hud",
+        "Payg'ambar Shu'ayb",
+        "Nuh payg'ambar",
+        "Muso payg'ambar"
+      ],
+      "answer": "Payg'ambar Solih"
+    },
+    "trial": {
+      "label": "Asosiy sud jarayoni nima edi?",
+      "options": [
+        "Mo''jizaviy urg'ochi tuyaning son suyagini kesishi",
+        "Masxara orasida katta kema qurish",
+        "Zolim fir'avnga qarshi turish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Shabbat ahdining buzilishi"
+      ],
+      "answer": "Mo''jizaviy urg'ochi tuyaning son suyagini kesishi"
+    },
+    "location": {
+      "label": "Markaziy element nima edi?",
+      "options": [
+        "Toshdan chiqqan urg'ochi tuya",
+        "Ajoyib yog'och kema",
+        "Dengizni ikkiga bo'lib tashlagan tayoq",
+        "Ulkan kit",
+        "Tepada osilgan tog'"
+      ],
+      "answer": "Toshdan chiqqan urg'ochi tuya"
+    },
+    "outcome": {
+      "label": "Ularning oxirgi taqdiri qanday bo'ldi?",
+      "options": [
+        "Osmondan to'satdan zilzila",
+        "Kuchli suv toshqinida cho'kib ketdi",
+        "Ularning shaharlari ilohiy amr bilan vayron qilindi",
+        "Kuchli shamol bilan kuydirilgan",
+        "Yer tomonidan yutib yuborilgan"
+      ],
+      "answer": "Osmondan to'satdan zilzila"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

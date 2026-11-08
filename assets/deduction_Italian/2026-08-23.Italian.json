@@ -1,0 +1,61 @@
+{
+  "title": "La moltitudine scomparsa",
+  "intro": "Ti trovi di fronte agli echi di una comunità la cui storia è scritta tra le onde. Queste anime hanno udito una chiamata, hanno scelto la ribellione e hanno affrontato una conseguenza che ha rimodellato la terra. Chi sono, e che fine ha fatto il loro mondo?",
+  "clues": [
+    "Vivevamo molto tempo fa, e un messaggero venne a noi da noi stessi.",
+    "Abbiamo adorato cinque idoli e ci siamo rifiutati di abbandonarli.",
+    "Abbiamo deriso il messaggero e lo abbiamo accusato di essersi sviato.",
+    "Abbiamo preteso che portasse la punizione se avesse detto la verità.",
+    "Abbiamo visto il cielo riversare pioggia e la terra far sgorgare sorgenti.",
+    "Ci siamo arrampicati sui luoghi più elevati per sfuggire, ma le onde ci hanno travolto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Popolo di Nuh",
+        "Persone di 'Ad",
+        "Popolo di Thamud",
+        "Popolo di Lutero",
+        "Popolo di Madyan"
+      ],
+      "answer": "Popolo di Nuh"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Siamo stati sommersi da una grande alluvione",
+        "Siamo stati distrutti da un uragano",
+        "Siamo stati uccisi da una forte esplosione",
+        "Siamo stati inghiottiti dalla terra",
+        "Siamo stati bersagliati da pietre cadute dal cielo"
+      ],
+      "answer": "Siamo stati sommersi da una grande alluvione"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una grande alluvione",
+        "Un vento violento",
+        "Una pioggia di pietre",
+        "Un'esplosione di fuoco",
+        "Un terremoto"
+      ],
+      "answer": "Una grande alluvione"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Siamo periti tutti tranne i credenti con Nuh",
+        "Siamo stati trasformati in scimmie",
+        "Eravamo ridotti a rovine per i viaggiatori",
+        "Siamo stati trasformati in sale",
+        "Ci è stata concessa una tregua"
+      ],
+      "answer": "Siamo periti tutti tranne i credenti con Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

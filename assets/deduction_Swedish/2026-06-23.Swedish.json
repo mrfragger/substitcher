@@ -1,0 +1,61 @@
+{
+  "title": "Väktaren vid flodens kant",
+  "intro": "I ett land där en tyranns dekret väckte sorg i många hem, mottog en själ ett budskap som trotsade all rädsla. Med ett hjärta fyllt av tillit inledde de en troshandling som skulle förändra en nations kurs. Medan vattnet bar en dyrbar last, blandades hoppet med strömmarna.",
+  "clues": [
+    "Jag levde i en tid av förtryck och rädsla.",
+    "Jag fick gudomlig inspiration som gav mig mod.",
+    "Jag blev befalld att inte frukta eller sörja.",
+    "Jag lade mitt barn i en kista och satte det på vattnet.",
+    "Mitt barn hittades av härskarens hushåll, men mitt andra barn följde efter.",
+    "Jag återförenades med mitt barn för att amma honom, precis som Allah lovade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Moses mor",
+        "Faraos hustru",
+        "Moses syster",
+        "Jesu mor",
+        "Drottningen av Saba"
+      ],
+      "answer": "Moses mor"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Inspirerad att kasta ett barn i en flod",
+        "Utmanas till en magisk duell",
+        "Jagas av en armé",
+        "Att korsa ett hav som delade sig",
+        "Att bygga ett heligt hus"
+      ],
+      "answer": "Inspirerad att kasta ett barn i en flod"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En kista placerad i floden",
+        "En brinnande buske",
+        "En stav som förvandlades till en orm",
+        "En gyllene kalv",
+        "En tron"
+      ],
+      "answer": "En kista placerad i floden"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Barnet återlämnades säkert till sjuksköterskan",
+        "Barnet var förlorat för alltid",
+        "Barnet fördes till ett avlägset land",
+        "Barnet blev omedelbart en härskare",
+        "Barnet adopterades av en förmögen köpman"
+      ],
+      "answer": "Barnet återlämnades säkert till sjuksköterskan"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

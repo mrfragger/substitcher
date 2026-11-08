@@ -1,0 +1,61 @@
+{
+  "title": "Gizli Mömin",
+  "intro": "İnamsızlığın və zülmün hökm sürdüyü dəbdəbəli hakimiyyət zallarında gözlənilməz bir yerdən tək bir həqiqət səsi səsləndi. Bu şəxs həqiqəti elan etmək üçün öz təhlükəsizliklərini riskə ataraq elçini qorumaq səlahiyyətinə meydan oxudu.",
+  "clues": [
+    "Mən böyük bir zülm torpağında yaşayırdım və ilahilik iddiasında olan bir hökmdara xidmət edirdim.",
+    "Əsl inanclarımı illərdir gizlətmişəm, onları açıqlamağın nəticələrindən qorxmuşam.",
+    "Bir elçi açıq-aydın dəlillərlə gəldikdə mən iman gətirdim, lakin qövmüm ona qarşı hiylə qurdu.",
+    "Mən zalımın və onun məclisinin qarşısında dayanıb günahsız bir elçini öldürməmələrini iddia etdim.",
+    "Mən onları Nuh və Ad qövmü kimi haqqı inkar edən keçmiş ümmətlərin əzabı ilə qorxutdum.",
+    "Allah məni onların şər hiyləsi ilə qurtardı və mən zalım rejimin məhvinin şahidi oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Firon ailəsinin möminləri",
+        "Fironun sehrbazı",
+        "Fironun vəziri",
+        "Fironun arvadı",
+        "Fironun xəzinədarı"
+      ],
+      "answer": "Firon ailəsinin möminləri"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Peyğəmbəri edamdan qorumaq",
+        "Sehrbazın fəndlərinə meydan oxumaq",
+        "Göyə çatmaq üçün bir qüllə tikmək",
+        "Qaçış üçün dənizi ayırmaq",
+        "Padşahın yuxusunu yozmaq"
+      ],
+      "answer": "Peyğəmbəri edamdan qorumaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Fironun sarayı",
+        "Yanan kol",
+        "Qızıl buzov",
+        "Mədyən quyusu",
+        "Nuh peyğəmbərin gəmisi"
+      ],
+      "answer": "Fironun sarayı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Zülmkarlar məhv edilərkən zərərdən xilas oldular",
+        "Güclü bir hökmdar oldu",
+        "Atəşə atıldı və sağ-salamat çıxdı",
+        "Yer tərəfindən uduldu",
+        "Qırx il səhrada gəzib dolaşdı"
+      ],
+      "answer": "Zülmkarlar məhv edilərkən zərərdən xilas oldular"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

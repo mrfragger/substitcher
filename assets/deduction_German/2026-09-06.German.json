@@ -1,0 +1,61 @@
+{
+  "title": "Der Ausgestoßene vom Goldenen Kalb",
+  "intro": "Eine im Koran erwähnte Gestalt verführte während der Abwesenheit eines edlen Propheten eine große Menge vom rechten Weg ab. Etwas aus Gold Gefertigtes eroberte die Herzen eines ganzen Volkes – doch die Geschichte dieses Mannes endet in Einsamkeit und einem seltsamen Fluch. Wer mag dieser Ausgestoßene gewesen sein?",
+  "clues": [
+    "Ich erschien in der Abwesenheit eines großen Propheten, der aufgefahren war, um göttliche Führung zu empfangen.",
+    "Ich habe mit etwas, das ich mit meinen eigenen Händen geschaffen habe, eine große Menge in die Irre geführt.",
+    "Das goldene Geschöpf, das ich geschaffen hatte, schien Leben zu besitzen und erzeugte Klänge, die diejenigen, die ihm folgten, in ihren Bann zogen.",
+    "Ich behauptete, etwas gesehen zu haben, was andere nicht wahrnehmen konnten – einen Blick in das Unsichtbare.",
+    "Ich habe etwas aus den Spuren des göttlichen Boten gezeichnet und es in geschmolzenes Metall gegossen.",
+    "Ich war dazu verdammt, allein umherzuirren, mit einem einzigartigen Fluch belegt, dass niemand meine Haut berühren konnte und ich auch nicht ihre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Pharao (Fir'awn)",
+        "Abu Lahab",
+        "Prophet Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Ein goldenes Kalb wurde zur Verehrung geschaffen.",
+        "Er baute einen Turm, der bis in den Himmel reichte.",
+        "Er forderte die Zauberer Ägyptens heraus",
+        "Führte eine Armee mit fliegenden Bestien an",
+        "Den Mond spalten als Beweis für die Prophetie"
+      ],
+      "answer": "Ein goldenes Kalb wurde zur Verehrung geschaffen."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das goldene Kalb",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein brennender Busch auf einem Berg",
+        "Eine Arche, die auf einem Gipfel ruht",
+        "Ein mit loderndem Feuer gefüllter Graben"
+      ],
+      "answer": "Das goldene Kalb"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Verbannt, verboten, berührt zu werden oder andere zu berühren.",
+        "Im Meer ertrunken, zusammen mit einer Armee",
+        "Bei lebendigem Leibe verbrannt, weil er den Glauben ablehnte",
+        "Von einem heftigen, tosenden Wind niedergerissen",
+        "Ihm wurde vergeben und er wurde in eine hohe Position erhoben."
+      ],
+      "answer": "Verbannt, verboten, berührt zu werden oder andere zu berühren."
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

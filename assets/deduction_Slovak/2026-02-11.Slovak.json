@@ -1,0 +1,60 @@
+{
+  "title": "Bremeno bohatstva",
+  "intro": "Stojíte pred príbehom o nesmiernom bohatstve, živote ozdobenom zlatom a mocou, no v konečnom dôsledku aj varovným ponaučením pre všetkých, ktorí hľadajú svetskú vznešenosť. Dokážete odhaliť identitu tejto postavy, ktorej príbeh sa ozýva časom a je dôkazom prchavej povahy svetského majetku?",
+  "clues": [
+    "Pochádzal som z ľudu veľkého proroka, ale zvolil som si cestu arogancie a útlaku.",
+    "Alah mi udelil nesmierne bohatstvo, natoľko, že kľúče k mojim pokladom boli ťažkým bremenom pre silnú skupinu mužov.",
+    "Moji ľudia mi radili, aby som sa nenadchýnal zo svojho bohatstva, a pripomínali mi, že Alah nemiluje jasajúcich.",
+    "Arogantne som tvrdil, že moje obrovské bohatstvo je výsledkom mojich vlastných vedomostí a úsilia, nie požehnaním od Alaha.",
+    "Bol som varovaný pred skazenosťou a pripomenutý, aby som hľadal posmrtný život s tým, čo mi dal Alah, ale odmietol som počúvať a pokračoval som vo svojej pýche.",
+    "Nakoniec Alah spôsobil, že zem pohltila mňa aj môj príbytok a nenechal ma bez pomoci proti Jeho rozhodnutiu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Faraón",
+        "Háman",
+        "Qarun",
+        "Abú Laháb",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Rozštiepenie mora",
+        "Oheň Nimroda",
+        "Povodeň",
+        "Pohltenie zemou",
+        "Mor kobyliek"
+      ],
+      "answer": "Pohltenie zemou"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Archa",
+        "Zamestnanci",
+        "Zlaté teľa",
+        "Poklady/Kľúče",
+        "Studňa Zamzam"
+      ],
+      "answer": "Poklady/Kľúče"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Udelený kráľovský majestát",
+        "Zachránený pred zničením",
+        "Pohltený zemou",
+        "Stal sa prorokom",
+        "Zomrel pokojne"
+      ],
+      "answer": "Pohltený zemou"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

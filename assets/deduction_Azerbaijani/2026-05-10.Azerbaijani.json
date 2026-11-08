@@ -1,0 +1,61 @@
+{
+  "title": "Qüllələrin Tikintisi",
+  "intro": "Keçmişdə təsirli tikinti işləri və nəhəng gücü ilə seçilən qüdrətli bir sivilizasiya yarandı. Bu kollektiv varlığa bol resurslar və fiziki güc verildi, lakin onlar özlərinə yol göstərmək üçün göndərilən ilahi mesaja qarşı çıxmaq yolunu seçdilər. Onların hekayəsi tarixin salnaməsində dərin bir dərs, həqiqəti rədd etməyin nəticələrinin sübutu kimi xidmət edir.",
+  "clues": [
+    "Bizə dövrümüzün heç bir insanından fərqli olaraq, inanılmaz dərəcədə böyük fiziki güc və boy-buxun bəxş edilmişdi.",
+    "Biz əbədi yaşayacağımızı düşünərək hər hündür yerdə möhtəşəm tikililər və uca sütunlar tikməklə tanınırdıq.",
+    "Bizi yalnız Allaha ibadət etməyə və bütlərimizi tərk etməyə çağıran, bizi xəbərdar etmək üçün öz aramızdan bir elçi göndərildi.",
+    "Biz təkəbbürlə elçimizdən soruşduq ki, onlar bizə yalnız Allaha ibadət etməyimiz və atalarımızın ibadət etdiklərini tərk etməyimiz üçün gəliblərmi?",
+    "Torpağımız bağlar, bulaqlar və bərəkətli tarlalarla bərəkətli idi, amma biz öz rifahımızı Yaradanımıza deyil, öz qüdrətimizə bağladıq.",
+    "Davamlı inamsızlığımız və istehzamız üzündən, sonda uzun günlər və gecələr davam edən dəhşətli, şiddətli bir külək bizi məhv etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Səmud xalqı",
+        "Firon xalqı",
+        "Nuh qövmü",
+        "Mədyən xalqı",
+        "Ad xalqı"
+      ],
+      "answer": "Ad xalqı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Müəyyən bir dəvəni qurban kəsmək istənilmək",
+        "Quran kimi on surə yaratmaqda çətinlik çəkmək",
+        "Dənizin iki yerə bölünməsi göstərilir",
+        "Peyğəmbər tərəfindən yaxınlaşan daşqın barədə xəbərdarlıq edilməsi",
+        "Həddindən artıq tikinti və bütlərə ibadət etməkdən çəkinən bir peyğəmbəri rədd etmək"
+      ],
+      "answer": "Həddindən artıq tikinti və bütlərə ibadət etməkdən çəkinən bir peyğəmbəri rədd etmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Atəş",
+        "Sodom şəhəri",
+        "Hündür sütunlar və möhkəm yaşayış yerləri"
+      ],
+      "answer": "Hündür sütunlar və möhkəm yaşayış yerləri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Böyük bir daşqında boğuldu",
+        "Torpaq tərəfindən udulmuş",
+        "Meymunlara və donuza çevrildi",
+        "Güclü bir partlayışla məhv edildi",
+        "Şiddətli, dağıdıcı bir küləklə məhv edildi"
+      ],
+      "answer": "Şiddətli, dağıdıcı bir küləklə məhv edildi"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

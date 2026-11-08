@@ -1,0 +1,61 @@
+{
+  "title": "Budowniczowie wysokich filarów",
+  "intro": "Stoisz przed ruinami majestatycznego starożytnego miasta, którego wysokie filary runęły. Wiatr wyje na pustych ulicach, niosąc wspomnienie potężnego ludu, który niegdyś władał tymi ziemiami. Kim oni byli?",
+  "clues": [
+    "Byliśmy narodem o ogromnej sile i umiejętnościach, znanym z wspaniałych budowli i zaawansowanej cywilizacji.",
+    "Mieszkaliśmy w krainie wydm i skalistych wzgórz i wierzyliśmy, że nikt nie jest w stanie nas pokonać.",
+    "Przybył do nas posłaniec spośród naszych krewnych, wzywając nas do oddawania czci wyłącznie Allahowi, ale odrzuciliśmy go i wyśmialiśmy.",
+    "Chwaliliśmy się: „Kto jest silniejszy od nas?” i trwaliśmy w naszej arogancji i oddawaniu czci bożkom.",
+    "Bóg zesłał na nas gwałtowny wiatr, który wiał przez siedem nocy i osiem dni, niszcząc wszystko.",
+    "Byliśmy ludem Ad, budowniczymi Iramu, a nasz los stał się przestrogą dla wszystkich, którzy przyszli później."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z „Ad”",
+        "Ludzie z Thamud",
+        "Ludzie Madyanu",
+        "Ludzie z Tubby",
+        "Ludzie z Al-Rass"
+      ],
+      "answer": "Ludzie z „Ad”"
+    },
+    "trial": {
+      "label": "Jaka kara została na nich wymierzona?",
+      "options": [
+        "Niszczycielski wiatr",
+        "Deszcz kamieni",
+        "Głośny wybuch",
+        "Utonięcie w powodzi",
+        "Pochłonięty przez ziemię"
+      ],
+      "answer": "Niszczycielski wiatr"
+    },
+    "location": {
+      "label": "Jak nazywa się ich legendarne miasto?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Jaki był ich ostateczny los?",
+      "options": [
+        "Zostały zniszczone, a ich szczątki stały się lekcją",
+        "Pokutowali i zostali zbawieni",
+        "Zostali przemienieni w małpy",
+        "Utonęli w morzu",
+        "Zostali pochowani pod osuwiskiem"
+      ],
+      "answer": "Zostały zniszczone, a ich szczątki stały się lekcją"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

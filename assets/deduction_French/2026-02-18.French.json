@@ -1,0 +1,61 @@
+{
+  "title": "Le témoin inébranlable",
+  "intro": "Un récit poignant se dévoile, révélant la détermination inébranlable d'une communauté face à une tyrannie extrême. Leur histoire témoigne de leur foi, même face au sacrifice ultime. Ce récit nous rappelle le pouvoir de la croyance contre une oppression écrasante.",
+  "clues": [
+    "Nous étions un groupe dont l'histoire est racontée dans une courte et puissante sourate, mettant en garde contre la persécution.",
+    "Nous étions confrontés à un dirigeant qui souhaitait éradiquer notre foi en un seul Dieu, le Seigneur du Trône, le Digne de louanges.",
+    "Nous avons subi une terrible épreuve consistant à creuser une immense fosse dans le sol.",
+    "Nous avons assisté, impuissants, à la destruction des croyants, y compris des nourrissons, jetés dans un brasier infernal au fond de cette fosse.",
+    "Nos bourreaux furent maudits pour leurs actes, tandis qu'une immense récompense nous fut promise pour notre constance.",
+    "La tentative du dirigeant d'anéantir notre foi n'a fait que renforcer notre statut de martyrs aux yeux d'Allah, qui est témoin de toute chose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple de Thamud",
+        "Les gens de 'Ad",
+        "Les gens du fossé",
+        "Peuple de Lut",
+        "Le peuple de l'éléphant"
+      ],
+      "answer": "Les gens du fossé"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le Grand Déluge",
+        "Le Buisson Ardent",
+        "La noyade en mer",
+        "Le Foyer Ardent",
+        "Le tremblement de terre"
+      ],
+      "answer": "Le Foyer Ardent"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "Le fossé",
+        "La montagne",
+        "Le puits"
+      ],
+      "answer": "Le fossé"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "On leur a accordé un royaume",
+        "Nous avons été sauvés par un miracle",
+        "Il a atteint le martyre et le paradis.",
+        "Étaient dispersés à travers les terres",
+        "Ont reçu une immense richesse"
+      ],
+      "answer": "Il a atteint le martyre et le paradis."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

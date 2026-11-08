@@ -1,0 +1,61 @@
+{
+  "title": "Viatores agri viridis",
+  "intro": "Olim, duo homines terras vicinas colebant. Viae eorum intertextae erant, tamen corda eorum ad loca longe diversa ducebant. Alter recta via incedebat, alter in tenebras negationis aberrabat. Potesne mysterium horum duorum custodum messis detegere?",
+  "clues": [
+    "Uberes fruges possedi, messes uberes quae oculos spectantium perstringebant.",
+    "Vicinus meus etiam maiorem munificentiam quam ego possidebat, attamen eius partem plus quam meam concupivi.",
+    "Suadevi ut fruges eorum omnino deleremus, ut omnia sub potestate mea consolidaremus.",
+    "Meae quoque messi cladem attuli, omnia stultis meis consiliis destruens.",
+    "Steti impotens dum fruges meae marcescebant et divitiae meae in pulverem conversae sunt una nocte.",
+    "Nullam partem in Post mortem habui, et ultima mea sedes in puteum ignis ardentis facta est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Vir qui resurrectionem et iudicium negavit",
+        "Princeps qui agricolam iustum oppressit",
+        "Dives dominus agri cui gratitudo defuit",
+        "Agricola qui terram vicini concupivit",
+        "Socius perfidus qui exitium machinatus est"
+      ],
+      "answer": "Agricola qui terram vicini concupivit"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Examen accipiendae revelationis divinae",
+        "Provocatio divitiarum et patientiae",
+        "Tentatio ad victum iusti destruendum",
+        "Mandatum de dividenda hereditate iusta",
+        "Pugna contra oppressionem tyranni"
+      ],
+      "answer": "Tentatio ad victum iusti destruendum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Horti paradisi virides",
+        "Duo agri finitimi satorum",
+        "Montes qui cladem viderunt",
+        "Sacrum sanctuarium Meccae",
+        "Ripae fluminum terrae benedictae"
+      ],
+      "answer": "Duo agri finitimi satorum"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Paradisus aeternus praemium iustitiae",
+        "Completa destructio utriusque messis in hac vita",
+        "Exilium et erratio usque ad mortem",
+        "Prosperitas temporaria ignis aeternus sequitur",
+        "Mirabilis restauratio et duplicata largitas"
+      ],
+      "answer": "Completa destructio utriusque messis in hac vita"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

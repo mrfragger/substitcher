@@ -1,0 +1,61 @@
+{
+  "title": "Ang Dam na Sumira sa Isang Kaharian",
+  "intro": "Isang lupain ng umaagos na mga ilog, dalawang luntiang hardin, at walang kapantay na kasaganaan — ngunit ang mga naninirahan dito ay naging bale-wala sa Isa na nagpala sa kanila. Nang dumating ang mga paalala na tumatawag sa kanila pabalik, sila ay tumalikod. Ang sumunod ay isang parusa na hanggang ngayon ay nananatiling babala. Sino ang sinaunang komunidad na ito?",
+  "clues": [
+    "Nanirahan kami sa isang lupang pinagpala kung kaya't ang aming tahanan ay nasa pagitan ng dalawang luntiang hardin.",
+    "Nasiyahan kami sa mga ilog na dumadaloy sa aming mga lupain at sa masaganang ani na pumupuno sa aming mga tahanan.",
+    "Ngunit nang tayo ay tinawag upang magpasalamat at sumunod sa ating Panginoon, tayo ay tumalikod nang may kapalaluan.",
+    "Ang aming kayamanan at kaginhawahan ang nagtulak sa amin upang makalimutan ang Isa na nagkaloob ng lahat ng ito.",
+    "Pagkatapos ay dumating ang isang biglaang malakas na agos na sumira sa malaking harang na aming inasahan.",
+    "Kami ang mga tao ng Saba', na ang lupain ay kilala dahil sa dakilang Ma'rib Dam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Tayo?",
+      "options": [
+        "Mga Tao ng Saba",
+        "Mga Tao ng Trench",
+        "Mga Kasama ng Balon",
+        "Mga Tao ng Tubba'",
+        "Mga Tao ng Midian"
+      ],
+      "answer": "Mga Tao ng Saba"
+    },
+    "trial": {
+      "label": "Ang Ating Pagbagsak",
+      "options": [
+        "Baha mula sa isang pumuputok na dam",
+        "Isang marahas na hangin mula sa langit",
+        "Nasusunog sa isang kanal ng apoy",
+        "Isang napakalaking lindol",
+        "Pagkalunod sa isang malaking baha"
+      ],
+      "answer": "Baha mula sa isang pumuputok na dam"
+    },
+    "location": {
+      "label": "Pangunahing Lokasyon",
+      "options": [
+        "Ang Dam ng Ma'rib",
+        "Bundok Sinai",
+        "Ang Kweba ng Pitong Natutulog",
+        "Ang Nasusunog na Palumpong",
+        "Ang Paghahati ng Dagat"
+      ],
+      "answer": "Ang Dam ng Ma'rib"
+    },
+    "outcome": {
+      "label": "Ang Ating Kapalaran",
+      "options": [
+        "Dalawang mapait na hardin ang pumalit sa ating mga luntiang hardin",
+        "Mas lalong lumago ang aming mga hardin",
+        "Lumubog ang lupa sa ilalim ng dagat",
+        "Nalibing kami sa abo ng bulkan",
+        "Ang ating bansa ay nahahati sa labindalawang tribo"
+      ],
+      "answer": "Dalawang mapait na hardin ang pumalit sa ating mga luntiang hardin"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den tålmodiga själen i det heliga huset",
+  "intro": "På Koranens sidor framträder en gestalt ur en stor profets släktlinje, som gavs som en gåva på ålderdomen. Denna själ hyllas för sin orubbliga sanningsenlighet och en djupgående roll i att etablera en fristad som skulle bli en ledstjärna för tron. När du läser ledtrådarna, lyssna noga på rösten från det förflutna, för den talar i första person.",
+  "clues": [
+    "Jag nämns i Koranen tillsammans med en annan profet som en gåva som gavs till en äldre budbärare.",
+    "Jag var en av två avkommor som skänktes den profeten under hans senare år.",
+    "Jag får beröm i Koranen för att jag håller mitt ord.",
+    "Jag bar profetskapets ära och sändes som budbärare.",
+    "Jag anslöt mig till min far när jag reste grunden till det Heliga huset.",
+    "Jag är ihågkommen som en av de tålmodiga, och det heliga huset vi byggde blev en plats för återkomst och trygghet för människor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Ismail",
+        "Profeten Ishaq",
+        "Profeten Yaqub",
+        "Profeten Zakariyah",
+        "Profeten Yahya"
+      ],
+      "answer": "Profeten Ismail"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att bygga Kaba med Ibrahim",
+        "Att kastas in i en eld",
+        "Att bli uppslukad av en val",
+        "Att leda israeliterna ut ur Egypten",
+        "Att bygga en ark"
+      ],
+      "answer": "Att bygga Kaba med Ibrahim"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Kaba",
+        "Sinaiberget",
+        "Röda havet",
+        "Guldkalven",
+        "Edens lustgård"
+      ],
+      "answer": "Kaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Räknas bland patienterna",
+        "Räknas bland de orättfärdiga",
+        "Räknas bland magikerna",
+        "Räknas bland de icke-troende",
+        "Räknas bland hycklarna"
+      ],
+      "answer": "Räknas bland patienterna"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

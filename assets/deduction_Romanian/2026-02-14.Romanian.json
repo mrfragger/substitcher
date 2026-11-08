@@ -1,0 +1,61 @@
+{
+  "title": "Constructorul de bariere",
+  "intro": "De-a lungul unor ținuturi vaste, un individ puternic a pornit într-o serie de expediții, fiind înzestrat cu o autoritate și mijloace imense. Acest suflet a întâlnit comunități diverse și s-a confruntat cu provocări unice, lăsând o amprentă durabilă asupra istoriei și credinței prin acțiunile și înțelepciunea sa, recunoscând în același timp adevărata sursă a puterii sale.",
+  "clues": [
+    "Mi s-a acordat putere și mijloace asupra a tot și am urmat o cale.",
+    "Călătoria mea m-a dus la apusul soarelui, unde am găsit un popor.",
+    "Am întâlnit o comunitate care abia înțelegea limbajul, locuind între doi munți.",
+    "Mi s-a cerut să construiesc o barieră, nu pentru câștig personal, ci pentru a mă proteja împotriva unei forțe distructive.",
+    "Am declarat că puterea de a construi acest zid masiv a venit de la Allah și că va dăinui până la un timp promis.",
+    "Numele meu, adesea tradus ca „Cel cu Două Coarne”, semnifică influența mea asupra pământului sau poate asupra a două ere distincte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Musa",
+        "Profetul Sulayman",
+        "Dhul-Qarnayn",
+        "faraon",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Primirea revelației",
+        "Confruntând un tiran",
+        "Construirea unei nave mărețe",
+        "Construirea unei bariere puternice",
+        "A fi înghițit de un pește"
+      ],
+      "answer": "Construirea unei bariere puternice"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca",
+        "Personalul",
+        "Bariera de Fier",
+        "Fluviul Nil",
+        "Tronul"
+      ],
+      "answer": "Bariera de Fier"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Salvarea de la potop",
+        "Devenind un mare regat",
+        "Protecție pentru un popor",
+        "Distrugerea unui asupritor",
+        "Înțelepciune durabilă"
+      ],
+      "answer": "Protecție pentru un popor"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

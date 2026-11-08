@@ -1,0 +1,61 @@
+{
+  "title": "Faire na nDaoine atá faoi Bhróin",
+  "intro": "Tá tú ar tí teacht ar anam a ndearnadh tástáil air ag an scaradh is doimhne, a raibh a súile ar an eolas faoi theanga na ndeor ach nár chaill a chroí dóchas riamh. I scéal faoi mheabhlaireacht, faoi dhúil, agus faoi athcheangal sa deireadh, rinneadh siombail foighne de sheirbhíseach uasal Allah seo i gcónaí. Cé a d’fhulaing na blianta pianta i bhfolach, ach a radharc agus a lúcháir a fháil ar ais i nóiméad amháin?",
+  "clues": [
+    "Is fáidh mé a raibh m'ainm ina shiombail foighne i bhfianaise caillteanais mhóir.",
+    "Bhí mé beannaithe le go leor mac, ach tógadh duine amháin uaim de bharr éad daoine eile.",
+    "Bhí mo ghrá don duine caillte chomh domhain sin gur chas mo shúile bán le brón, ach níor ghearáin mé riamh ach le Allah.",
+    "Chuir mé mo mhic ar ais chun cuardach a dhéanamh ar an té a chaill mé agus a dheartháir, ag áiteamh orthu gan dóchas a chailleadh.",
+    "Nuair a tháinig an fear a thug an dea-scéal, caitheadh ​​léine thar m’aghaidh, agus go tobann bhí an domhan soiléir arís.",
+    "Is mise a thugtar Iosrael air, agus ó mo dháréag mac tháinig dhá threibh dhéag náisiún mór."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Ya'qub (Iacób)",
+        "An Fáidh Iósaf (Iósaf)",
+        "An Fáidh Íosác (Isaac)",
+        "An Fáidh Ibrahim (Abraham)",
+        "An Fáidh Ayyub (Iób)"
+      ],
+      "answer": "An Fáidh Ya'qub (Iacób)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Scaradh ó mhac grámhar ar feadh blianta fada",
+        "Á chaitheamh isteach i tine lasrach",
+        "Slogtha ag iasc mór",
+        "Buailte le galar craicinn tromchúiseach",
+        "Gan chlann go dtí seanaois"
+      ],
+      "answer": "Scaradh ó mhac grámhar ar feadh blianta fada"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Léine Yusuf",
+        "Foireann Musa",
+        "Áirc Nuh",
+        "Camall baineann Salih",
+        "Fáinne Sulayman"
+      ],
+      "answer": "Léine Yusuf"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Radharc athchóirithe agus athcheangailte lena mhac",
+        "Bronnadh bua ar rí tíoránta",
+        "Ardaithe go dtí na flaithis beo",
+        "Ceapadh ina rialóir ar an Éigipt",
+        "Mac a tugadh mar mhíorúilt i seanaois"
+      ],
+      "answer": "Radharc athchóirithe agus athcheangailte lena mhac"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

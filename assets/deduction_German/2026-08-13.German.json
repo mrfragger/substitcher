@@ -1,0 +1,61 @@
+{
+  "title": "Die geduldige Seele des heiligen Hauses",
+  "intro": "Im Koran erscheint eine Gestalt aus dem Geschlecht eines großen Propheten, die im hohen Alter als Gabe empfangen wurde. Diese Seele wird für ihre unerschütterliche Wahrhaftigkeit und ihre bedeutende Rolle bei der Errichtung eines Heiligtums gepriesen, das zu einem Leuchtfeuer des Glaubens werden sollte. Während du die Hinweise liest, höre aufmerksam auf die Stimme aus der Vergangenheit, denn sie spricht in der Ich-Form.",
+  "clues": [
+    "Ich werde im Koran zusammen mit einem anderen Propheten als ein Geschenk erwähnt, das einem älteren Gesandten zuteilwurde.",
+    "Ich war einer von zwei Nachkommen, die diesem Propheten in seinen späteren Jahren zuteilwurden.",
+    "Im Koran werde ich dafür gelobt, dass ich zu meinem Wort stehe.",
+    "Ich trug die Ehre des Prophetentums und wurde als Bote gesandt.",
+    "Ich habe meinem Vater beim Errichten der Grundsteine ​​des Heiligen Hauses geholfen.",
+    "Man erinnert sich an mich als einen der Geduldigen, und das heilige Haus, das wir erbauten, wurde zu einem Ort der Rückkehr und Geborgenheit für die Menschen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ismail",
+        "Prophet Ishaq",
+        "Prophet Yaqub",
+        "Prophet Zakariya",
+        "Prophet Yahya"
+      ],
+      "answer": "Prophet Ismail"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Errichtung der Fundamente der Kaaba mit Ibrahim",
+        "Ins Feuer geworfen werden",
+        "Von einem Wal verschluckt werden",
+        "Die Israeliten aus Ägypten herausführen",
+        "Eine Arche bauen"
+      ],
+      "answer": "Errichtung der Fundamente der Kaaba mit Ibrahim"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Kaaba",
+        "Berg Sinai",
+        "Das Rote Meer",
+        "Das goldene Kalb",
+        "Der Garten Eden"
+      ],
+      "answer": "Die Kaaba"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde zu den Patienten gezählt",
+        "Zu den Übeltätern gezählt",
+        "Er wurde zu den Magiern gezählt",
+        "Zu den Ungläubigen gezählt",
+        "Zu den Heuchlern gezählt"
+      ],
+      "answer": "Wurde zu den Patienten gezählt"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Masu Sauraro Ɓoyayye Waɗanda Suka Yi Imani",
+  "intro": "A cikin shiru na wani taro mai tsarki, wani taro mai ban mamaki ya fito daga wani yanki da ba a gani. Sun jawo hankalin su da raɗa na wani abu mai ban mamaki, suka saurari karatun da zai rufe makomarsu har abada. Shaidarsu ta kasance ɗaya daga cikin mafi ban mamaki a cikin nassosin Allah.",
+  "clues": [
+    "Mu halittu ne daga wani yanki da yawancin mutane ba su gani ba, kuma mun zo ne a matsayin ƙungiya.",
+    "Mun yi tafiya zuwa wani taro domin jin wani abu mai ban mamaki.",
+    "Da muka isa, muka saurari wani karatu da ya ba mu mamaki.",
+    "Mun bayyana a fili cewa wasu daga cikinmu masu adalci ne wasu kuma ba sa yin hakan.",
+    "Mun san ba za mu iya tserewa daga hukuncin Allah a duniya ba, ko kuma ta hanyar guduwa zuwa sama.",
+    "Da muka ji shiriya, muka yi imani da ita; duk wanda ya yi imani da Ubangijinsa ba zai ji tsoron asara ko nauyi ba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Ƙungiyar Jinn",
+        "Mutanen Iram",
+        "Mutanen Tubba'",
+        "Daular Romawa",
+        "Kabilar Quraysh"
+      ],
+      "answer": "Ƙungiyar Jinn"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Sauraron karatu mai tsarki",
+        "Gina manyan ginshiƙai a birninmu",
+        "Farautar raƙumi mai ban mamaki",
+        "Ana halaka mu saboda kisan annabawanmu",
+        "Yawaita dukiya fiye da kima"
+      ],
+      "answer": "Sauraron karatu mai tsarki"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Taro na karatun tsarki",
+        "Birni mai ginshiƙai masu tsayi (Iram)",
+        "Rijiya a cikin hamada",
+        "Babban gidan sarauta na zinariya",
+        "Kogo mai tsarki a cikin tsaunuka"
+      ],
+      "answer": "Taro na karatun tsarki"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Mun yi imani kuma mun yi gargaɗi ga mutanenmu",
+        "An halaka ta da wata babbar iska daga sama",
+        "An hukunta shi da iska mai zafi da halaka",
+        "An ba shi dukiya da iko mai yawa",
+        "Ya kasance mai tsayin daka cikin rashin imani"
+      ],
+      "answer": "Mun yi imani kuma mun yi gargaɗi ga mutanenmu"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

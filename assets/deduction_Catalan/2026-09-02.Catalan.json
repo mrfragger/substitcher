@@ -1,0 +1,61 @@
+{
+  "title": "El son més enllà del temps",
+  "intro": "Imagineu-vos una època en què la veritat era silenciada i els creients eren perseguits. Un petit grup va triar la retirada en lloc de la rendició, trobant refugi en el lloc més improbable, un lloc que es convertiria en el seu lloc de descans durant segles incomptables. Quan finalment es van despertar, el món s'havia transformat al seu voltant. Qui són aquestes ànimes adormides?",
+  "clues": [
+    "Érem joves que vivíem en una ciutat antiga.",
+    "La nostra comunitat va exigir que preguéssim al seu costat, però ens hi vam negar.",
+    "Vam fugir de la ciutat a la recerca de refugi dels que s'oposaven a les nostres creences.",
+    "Un fidel company de quatre potes es va quedar a l'entrada del nostre amagatall.",
+    "Al·là ens va fer dormir durant tres-cents nou anys.",
+    "Quan finalment ens vam despertar, la nostra ciutat, que abans ens perseguia, havia abraçat la fe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Ashab al-Kahf (La gent de la cova)",
+        "Ashab al-Fil (L'Exèrcit de l'Elefant)",
+        "Ashab al-Ukhdud (Els Companys de la Trinxera)",
+        "Els Hawariyyun (deixebles d'Isa)",
+        "Yajuj wa Majuj (Gog i Magog)"
+      ],
+      "answer": "Ashab al-Kahf (La gent de la cova)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ens vam retirar a una cova i vam dormir durant segles",
+        "Ens van salvar d'un foc ardent",
+        "Ens va engolir un gran peix",
+        "Vam ser provats amb una camella miraculosa",
+        "Ens van donar nou senyals clars"
+      ],
+      "answer": "Ens vam retirar a una cova i vam dormir durant segles"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una cova profunda a les muntanyes",
+        "Un vaixell en mar obert",
+        "Una estructura imponent que arriba al cel",
+        "Un jardí dividit entre dos rivals",
+        "Una barrera de ferro i coure"
+      ],
+      "answer": "Una cova profunda a les muntanyes"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ens vam despertar i vam descobrir que la nostra ciutat s'havia convertit a la fe",
+        "Un foc ardent es va tornar fresc i pacífic",
+        "Un exèrcit enemic es va ofegar al mar",
+        "Els ocells que portaven pedres van destruir l'enemic",
+        "Un gran peix ens va deixar anar a la riba"
+      ],
+      "answer": "Ens vam despertar i vam descobrir que la nostra ciutat s'havia convertit a la fe"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

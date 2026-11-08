@@ -1,0 +1,61 @@
+{
+  "title": "Trón pravdy",
+  "intro": "Mocný vládca, známy svojou veľkou múdrosťou a nádherným trónom, dostane záhadnú správu z neznámeho zdroja. Táto neočakávaná komunikácia spochybní ich presvedčenie a autoritu a pošle ich na diplomatickú cestu, ktorá preverí ich intelekt a nakoniec ich povedie k hlbokému duchovnému prebudeniu. Dokážete odhaliť identitu tohto panovníka a udalosti, ktoré zmenili celé jeho kráľovstvo?",
+  "clues": [
+    "Môj ľud a ja sme uctievali slnko podľa spôsobov našich predkov.",
+    "Vták, dudok, bol tým nepravdepodobným poslom, ktorý mi priniesol list od mocného vodcu.",
+    "Aby som preveril múdrosť odosielateľa, poslal som cenné dary, ale tie sa vrátili, pretože odosielateľ vlastnil oveľa väčšie bohatstvo od Alaha.",
+    "Ešte skôr, ako som dorazil na dvor odosielateľa, bol tam môj nádherný trón zázračne prenesený v okamihu.",
+    "Po mojom príchode sa ma opýtali, či je prenesený trón môj, a ja som odpovedal: „Je to, akoby to bol práve on.“",
+    "Vstúpil som do veľkej haly s podlahou, ktorú som si pomýlil s vodou, a v tej chvíli úžasu som sa spolu s prorokom Sulajmánom odovzdal Alahovi, Pánovi svetov."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Kráľovná zo Sáby",
+        "Zulaikha (manželka Al-Aziza)",
+        "Ásia (manželka faraóna)",
+        "Matka Músu",
+        "Maryam (Matka Isu)"
+      ],
+      "answer": "Kráľovná zo Sáby"
+    },
+    "trial": {
+      "label": "Centrálna udalosť",
+      "options": [
+        "Prijatie listu od proroka Sulajmana",
+        "Byť hodený do ohňa",
+        "Stavba archy na prežitie potopy",
+        "Rozdeľovanie Červeného mora",
+        "Obviňovanie z neslušnosti"
+      ],
+      "answer": "Prijatie listu od proroka Sulajmana"
+    },
+    "location": {
+      "label": "Kľúčový objekt",
+      "options": [
+        "Veľkolepý trón",
+        "Zlaté teľa",
+        "Kabát mnohých farieb",
+        "Palica, ktorá sa premenila na hada",
+        "Loď z dosiek a klincov"
+      ],
+      "answer": "Veľkolepý trón"
+    },
+    "outcome": {
+      "label": "Konečný výsledok",
+      "options": [
+        "Podriadenie sa jedinému pravému Bohu (Alahovi)",
+        "Byť premenený na soľný stĺp",
+        "Stavba vysokej veže, aby sme dosiahli Boha",
+        "Byť prehltnutý veľkou rybou",
+        "Strata obrovského bohatstva ako trest"
+      ],
+      "answer": "Podriadenie sa jedinému pravému Bohu (Alahovi)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

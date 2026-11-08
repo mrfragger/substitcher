@@ -1,0 +1,61 @@
+{
+  "title": "L'Escartat dels Cèls",
+  "intro": "Un èsser misteriós se tròba a l'encreuament de la creacion e del refús. Lor istòria es una d'arrogància sens egala e lo desfís final d'un comandament divin. Lor causida fa resson dins cada generacion, venent una pròva per cada anma nascuda dins aquel mond. Podètz identificar aquel adversari eternal?",
+  "clues": [
+    "Èri present a un eveniment d'importància cosmica, quand un èsser novèl foguèt format d'argila e donat vida per l'Alen del Misericordiós.",
+    "Ieu meteis foguèri menat a l'existéncia d'un sol element ardent, al contrari d'aquel èsser de polvera.",
+    "Me foguèt donat un comandament que considerèri jos mon estacion.",
+    "L'orgulh s'inflèt dins ieu, e refusèri fermament de se conformar a aquel comandament.",
+    "Un retard fins a un Jorn fixat me foguèt concedit, per que poguèssi perseguir mon objectiu declarat d'enganar los autres.",
+    "Soi l'enemic declarat de totes los que caminan sus la tèrra, en murmurant d'enganas e en los aluenhant del camin drech."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Iblis (Satan)",
+        "Faraon (Fir'awn)",
+        "Aman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Refusèt de s'inclinar davant Adam",
+        "Reivindiquèt falsament la divinitat",
+        "Fargat un vedèl d'aur per l'adoracion",
+        "Tuèt son fraire per enveja",
+        "Menèt l'oposicion politeïsta a Meca"
+      ],
+      "answer": "Refusèt de s'inclinar davant Adam"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Paradís (Jannah)",
+        "Lo palais de faraon en Egipte",
+        "La val sacrada de Tuwa",
+        "Las prigondors de la mar",
+        "L'òrt de Saba"
+      ],
+      "answer": "Paradís (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Concedida respècte fins al Jorn del Jutjament",
+        "Afogat amassa amb l'armada dins la mar",
+        "Engolit per la tèrra amassa amb de tresaurs",
+        "Transformats en simis per aver violat lo sabbat",
+        "Cremat per de pèiras lançadas del cèl"
+      ],
+      "answer": "Concedida respècte fins al Jorn del Jutjament"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

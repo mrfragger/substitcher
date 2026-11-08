@@ -1,0 +1,61 @@
+{
+  "title": "Steinsmiðirnir í Forna dalnum",
+  "intro": "Ímyndaðu þér siðmenningu sem reis upp í grýttum dölum Arabíu, lagna í að höggva stórkostleg hús úr fjallshlíðum. Þær blómstruðu með styrk og listfengi, en saga þeirra einkennist af hryllilegri óhlýðni við guðlegar viðvaranir. Þegar þú kafnar ofan í sögu þeirra munt þú afhjúpa fólk sem leiddi til algjörrar tortímingar. Hverjar voru þær?",
+  "clues": [
+    "Við erfðum land með grýttum sléttum og turnháum klettabrúnum, þar sem við byggðum bústaði okkar af einstakri kunnáttu.",
+    "Við vorum þekkt fyrir að höggva örugg heimili inn í fjöllin og finna fyrir öryggi fyrir öllu tjóni.",
+    "Sendiboði kom til okkar úr okkar hópi, minnti okkur á velvild Allah og varaði okkur við refsingu.",
+    "Við kröfðumst tákns og undraverð úlfaldi kom upp úr klettinum, skýr prófraun frá Allah.",
+    "Við óhlýðnuðumst viðvöruninni og hjuggum á úlfaldanum, hæddumst að sendiboðanum og véfengdum refsingu hans.",
+    "Einn vindhviða greip okkur í heimilum okkar og að morgni lágum við fram úr okkur eins og við hefðum aldrei búið þar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið í Thamud",
+        "Fólkið í 'Ad",
+        "Fólkið í Madyan",
+        "Fólkið í Nuh",
+        "Fólkið í Lút"
+      ],
+      "answer": "Fólkið í Thamud"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Hamstrung úlfaldinn",
+        "Braut hvíldardaginn",
+        "Tilbað gullkálfinn",
+        "Drápu spámanninn sem sendur var til þeirra",
+        "Byggði turn til að ná til himins"
+      ],
+      "answer": "Hamstrung úlfaldinn"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Úlfaldinn",
+        "Örkina",
+        "Starfsfólkið",
+        "Hvíta höndin",
+        "Manna og vaktel"
+      ],
+      "answer": "Úlfaldinn"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Eyðilagðist af sprengingu",
+        "Bjargað frá eyðileggingu",
+        "Breyttust í apa",
+        "Drukknaði í sjónum",
+        "Gleypt af jörðinni"
+      ],
+      "answer": "Eyðilagðist af sprengingu"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

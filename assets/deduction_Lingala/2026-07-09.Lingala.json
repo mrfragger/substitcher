@@ -1,0 +1,61 @@
+{
+  "title": "Molimo oyo emipesaki ya mɔ́tɔ mosantu",
+  "intro": "Liboso na yo ezali na lisapo moko ya mpiko ya kokamwa, epai wapi moto moko azwaki mpiko ya kotya ntembe na bindimeli oyo ekɔtisamaki mingi na sivilizasio mobimba. Landá maloba oyo ya mongongo ya nse uta kala, mpe okobimisa bomoi oyo emonisami na bondimi ya kozanga kotika, kobika na likamwisi, mpe kotia miboko oyo ekokaki kobongisa mobembo ya molimo ya bamiliare. Trace clue moko na moko na bokebi —moto mosantu ezali naino komikundola.",
+  "clues": [
+    "Nabotamaki na ndako oyo ezalaki komemya biloko ya lola mpe mayemi ya bikeko, nzokande eloko moko na mozindo na kati na ngai eboyaki oyo bazalaki kosambela.",
+    "Natelemaki liboso ya mokonzi ya nguya koleka ya mboka na ngai, kobukaka bikeko mpenza oyo bato na ngai bafukamaki liboso na yango, mpe kosakolaka ete kaka Mozalisi ya lola nde abongi na komipesa.",
+    "Litumbu ya mɔ́tɔ oyo ezalaki kopela epesamaki mitindo na nkombo na ngai, kasi nasakolaki ete Oyo nasalelaki ye moko akobikisa ngai —mpe milinga epesamaki mitindo ete ekóma malili mpe na libateli.",
+    "Natikaki nsima nyonso oyo nayebaki na etinda moko ya bonzambe, koyengayenga na mabwaku ya kokauka elongo na libota na ngai, kotiaka motema na ebongiseli oyo nakokaki naino komona te.",
+    "Totelemaki pembeni ya mwana na ngai ya liboso ya mobali na lobwaku moko ya kobota te, totombolaki elongo miboko ya ndako ya bule, esika mosantu oyo esengelaki mpo na baoyo nyonso bamikitisi.",
+    "Nayebani lokola Khalilullah —moninga ya motema ya Mozwi-ya-Mawa mingi — mpe nkombo na ngai ekomaki libela na boyokani na kondima ya komitika mpe ya kotosa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ibrahim (Abraham) .",
+        "Mosakoli Musa (Moise) .",
+        "Mosakoli Nuh (Noa) .",
+        "Mosakoli Isa (Yesu) .",
+        "Mosakoli Muhammad صلى الله عليه وسلم"
+      ],
+      "answer": "Mosakoli Ibrahim (Abraham) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobwakama na mɔ́tɔ oyo ezali kopela na moto moko ya mobulu",
+        "Komelama na kati ya mbisi monene na mbu",
+        "Kokitisama na libulu na bandeko ya zuwa",
+        "Komemama likolo likolo ya ekelamu oyo ezali na mapapu",
+        "Koyika mpiko na mpela monene na kati ya mbɛki ya mabaya"
+      ],
+      "answer": "Kobwakama na mɔ́tɔ oyo ezali kopela na moto moko ya mobulu"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ndako ya bule (Kaaba) .",
+        "Mbɛki monene ya mabaya oyo etongamaki likoló ya ngomba",
+        "Nzete oyo ekokaki kokabwana mpe kofungola mbu",
+        "Libulu ya mpɔngi molai elongo na mbwa moko ya sembo",
+        "Rulo moko ya mibeko oyo emonisami oyo epesami likoló ya ngomba"
+      ],
+      "answer": "Ndako ya bule (Kaaba) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akomaki koyebana na kombo ya Khalilullah, moninga ya motema ya Allah",
+        "Akambaki bato moko na kokatisa mbu oyo ekabwanaki mpo na kokende na esika ya libateli",
+        "Bapesaki ye bokonzi likoló na mipɛpɛ mpe nguya oyo emonanaka te",
+        "Akomaki mobikisi oyo apambolami na ba kisi ya makamwisi",
+        "Bosangisa mabota zomi na mibale oyo epalangani na nse ya kondimana moko"
+      ],
+      "answer": "Akomaki koyebana na kombo ya Khalilullah, moninga ya motema ya Allah"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

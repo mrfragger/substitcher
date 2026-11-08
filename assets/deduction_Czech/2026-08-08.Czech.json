@@ -1,0 +1,61 @@
+{
+  "title": "Hlas před bouří",
+  "intro": "Postava v poušti povstala, aby vyzvala mocný národ zpět k pravdě. Lidé byli známí svými velkolepými budovami a bezkonkurenční silou. Přesto je jejich pýcha zaslepila a odmítli naslouchat. Nakonec je stihl zničující trest, který ušetřil jen malou skupinu věřících.",
+  "clues": [
+    "Byl jsem poslán k mocnému lidu, který žil v otevřených zemích a byl známý svou mocí.",
+    "Můj lid přišel po dalším velkém národu, který byl zničen.",
+    "Měli velkolepé stavby a stavěli vysoké věže.",
+    "Volal jsem je k uctívání jednoho Boha, ale oni odmítli opustit své modly.",
+    "Postihl je krutý trest, který ušetřil pouze ty, kdo mi uvěřili.",
+    "Jsem ten, kdo byl poslán k mocnému lidu známému jako Ád."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Sálih",
+        "Prorok Šu'aib",
+        "Prorok Nuh",
+        "Prorok Ibráhím"
+      ],
+      "answer": "Prorok Hud"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Velká povodeň",
+        "Řvoucí prudký vítr",
+        "Zemětřesení a děsivý křik",
+        "Déšť hořících kamenů",
+        "Nebeský oheň shůry"
+      ],
+      "answer": "Řvoucí prudký vítr"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Velká archa postavená na hoře",
+        "Unikátní velbloudice",
+        "Hůl, která se proměnila v hada",
+        "Vysoké budovy a mohutné stavby",
+        "Hořící hranice"
+      ],
+      "answer": "Vysoké budovy a mohutné stavby"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Všichni se utopili ve velké povodni",
+        "Můj lid zničen prudkým větrem, zatímco já jsem byl zachráněn",
+        "Můj lid zasažen zemětřesením a pláčou",
+        "Můj lid je zasypáván kameny z nebe",
+        "Můj lid hozen do planoucího ohně"
+      ],
+      "answer": "Můj lid zničen prudkým větrem, zatímco já jsem byl zachráněn"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

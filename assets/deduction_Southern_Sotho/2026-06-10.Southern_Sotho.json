@@ -1,0 +1,61 @@
+{
+  "title": "Bahlokomeli ba Serapa",
+  "intro": "Serapeng se setle, sechaba se ile sa etsa kano e tiileng. Empa boikemisetso ba bona bo ile ba lekoa ha thato ea Molimo e kenella, e fetola melemo ea bona hore e be naha e se nang letho.",
+  "clues": [
+    "Re ile ra hlohonolofatsoa ka serapa se seholo, empa ra qala ho ikhohomosa.",
+    "Re entse moralo oa ho kotula ntle le ho arolelana le mafutsana.",
+    "Re ile ra tloha hoseng haholo, re kholisehile ka morero oa rona.",
+    "Empa ha re fihla, re ile ra fumana hore serapa sa rona se sentsoe bosiung boo.",
+    "Re ile ra hlokomela phoso ea rona 'me ra qala ho behana molato.",
+    "Qetellong re ile ra baka, empa thuto eo re e ithutileng e se e le morao haholo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Batho ba Serapa",
+        "Batho ba Lehaha",
+        "Batho ba Tlou",
+        "Batho ba Thamud",
+        "Batho ba 'Ad"
+      ],
+      "answer": "Batho ba Serapa"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Serapa se fetohile molora",
+        "Moroallo o ileng oa timetsa ntho e 'ngoe le e 'ngoe",
+        "Tlala e ileng ea aparela naha",
+        "Lebotho la linonyana le hlaselang",
+        "Moea o moholo o ileng oa fothola lifate"
+      ],
+      "answer": "Serapa se fetohile molora"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Serapa",
+        "Lehaha",
+        "Sekepe",
+        "Thaba",
+        "Ntlo ea borena"
+      ],
+      "answer": "Serapa"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Ba ile ba baka empa ba lahleheloa ke serapa sa bona",
+        "Li ile tsa timetsoa ka ho feletseng",
+        "Ba ile ba fetoloa litšoene",
+        "Ba pholositsoe ka tumelo",
+        "Ba ile ba fetoha babusi"
+      ],
+      "answer": "Ba ile ba baka empa ba lahleheloa ke serapa sa bona"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

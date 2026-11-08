@@ -1,0 +1,61 @@
+{
+  "title": "Gabricha Rabbii Olka’aa",
+  "intro": "Nama durii, gabricha Rabbii kan sadarkaa idilee ol ta’etti ol kaafame hasaasaa dhageessa. Namni dhuunfaa kun obsa hin raafamnee fi dhugaa guutuu ta’een kan beekamu yoo ta’u, ummata ergaa irraa garagaleetti ergame. Lubbuun ol kaate kun eenyu?",
+  "clues": [
+    "Nabiyyii ta’ee Rabbiin filadhee Qur’aana kabajamaa keessattis caqafame.",
+    "Obsaa fi dhugaa dubbachuu kootiin beekama ture, amaloota Rabbiin faarsu.",
+    "Sabni koo Waaqa Tokkicha akka waaqeffatan waame, garuu baay'een na didan.",
+    "Buufatni koo Rabbiin ol kaase, sadarkaa ol’aanaa naaf kenname.",
+    "Yeroo baay’ee nabiyyoota biroo kan akka Ismaa’il fi Dhul-Kifl cinatti ka’a.",
+    "Rabbiin waa’ee koo akkana jedha: ‘Akkasumas gara buufata olka’aa ol kaafne’. (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Idriis",
+        "Nabi Eliyaas",
+        "Nabi Dhu al-Kifl",
+        "Nabi Al-Yaasaa",
+        "Nabi Hud"
+      ],
+      "answer": "Nabi Idriis"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Rabbiin gabbaruuf namoota waame",
+        "Taaboticha ijaare",
+        "Fara'oon irratti qabsaa'e",
+        "Dhukkuba cimaa waliin qoratameera",
+        "Ibiddatti darbatame"
+      ],
+      "answer": "Rabbiin gabbaruuf namoota waame"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Buufata sadarkaa/ol'aanaa",
+        "Taabotni",
+        "Hojjettoonni",
+        "Ibiddi",
+        "Boolla bishaanii"
+      ],
+      "answer": "Buufata sadarkaa/ol'aanaa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Sadarkaa olaanaatti ol guddate",
+        "Lolaan liqimfame",
+        "Qurxummii galaanaatiin liqimfame",
+        "Ibidda irraa baraare",
+        "Mootii ta'e"
+      ],
+      "answer": "Sadarkaa olaanaatti ol guddate"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

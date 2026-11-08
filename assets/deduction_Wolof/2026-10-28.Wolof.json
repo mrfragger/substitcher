@@ -1,0 +1,61 @@
+{
+  "title": "Dige buñu wax ci kaw Embers",
+  "intro": "Yaa ngi taxaw ci wetu safara gu tàng ci desert bi, ñuy tasaaroo bu baax. Nit ñi dañuy ñëw ngir daje ak nit ñi ci biir dal gi, benn mesaas rek lañuy nettali jaar-jaaru dige, jaaxle, ak ëlëg gu amagul.",
+  "clues": [
+    "Nu jàll fu sori ngir yegg ci benn surga bu gëm ci desert bi.",
+    "Nu laaj ñu tasaare lakk ngir waajal lakk.",
+    "Nu waxtaan ak kenn ku woowoon xal ngir seddal ak kaaraange.",
+    "Nu yegal nit ku weesu at yi mu wara am doom, ndax daa am doom buy sooga judd.",
+    "Nu tuddee doom jiñ digoon Isaac.",
+    "Nu yëgal Ibrahim doom ju góor, xibaar bu yéeme bi daal di reetaanloo Ibrahim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Malaaka yi indil Ibrahim xibaar bu neex ci Isaac",
+        "Malaaka ya artu Lut",
+        "Malaaka yiy yor jal bi",
+        "Malaaka yu jahannama",
+        "Malaaka yi ñu yónnee Nóoyin"
+      ],
+      "answer": "Malaaka yi indil Ibrahim xibaar bu neex ci Isaac"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Yobbu xibaar bu neex ci juddug Isaac ci Ibrahim",
+        "Àrtu Lut laata muy mbugal askanam",
+        "Di yëgle juddug Yahya ci Zakariyya",
+        "Yobbu Jalluwaay bi ci bis àtte ba",
+        "Di yëgle juddug Isa ci Maryam"
+      ],
+      "answer": "Yobbu xibaar bu neex ci juddug Isaac ci Ibrahim"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Safara buñ defaree lakk bu tasaaroo",
+        "Ark buy féey ci kaw ndoxu mbënd",
+        "Grotte buñu tëj ak xeer wuy xalangu",
+        "Montagne de argille durée par la brine",
+        "Seel buy dem ba ci asamaan si"
+      ],
+      "answer": "Safara buñ defaree lakk bu tasaaroo"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Xibar bu neex ci doom bu góor bu tuddu Isaac",
+        "Xibar bu neex ci doom bu góor bu tuddu Yahya",
+        "Tanneef Talut ngir nekk buur ci kaw doomi Israyil",
+        "Àrtu bu jiitu mbugalu waa Lut",
+        "Ndigal ñu tabax gaal balaa Mbënd mi"
+      ],
+      "answer": "Xibar bu neex ci doom bu góor bu tuddu Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

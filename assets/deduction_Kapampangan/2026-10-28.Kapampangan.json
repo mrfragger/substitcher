@@ -1,0 +1,61 @@
+{
+  "title": "metung a pangaku a misabi babo ning api",
+  "intro": "Makatalakad ka siping ning api king disyerto kabang maingat lang mikalat ding api na. Deng bisita miras la para keng pamakipagtagpo keng katahimikan, at metung a mensahi ing magbukas keng istorya ning pangaku, pamagmulala, ampo ing hinaharap a e pa metupad.",
+  "clues": [
+    "Linabas kami king distansya ban miras king metung a tapat a talasuyu king disyerto.",
+    "Inawad mi na mikalat la reng api para makasadya keng api.",
+    "Migsalita kami keng metung a menawag keng api para keng kalamnan ampo kaligtasan.",
+    "Migdala kaming balita ning metung a bayung mibait keng metung a taung milabas na keng edad para mika anak.",
+    "Pemalagyuan mi yang Isaac ing pangakung anak.",
+    "Migdala kaming masayang balita ning metung a anak a lalaki kang Ibrahim, at ing makapagmulalang balita pepatawa ne Ibrahim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Ding Angel a Migdala king Masanting a Balita nang Isaac kang Ibrahim",
+        "Ding Anghel a Memie Babala kang Lut",
+        "Ding Anghel a Magdala king Tronu",
+        "Ding Angeles ning Impierno",
+        "Ding Anghel a Peparala kang Noe"
+      ],
+      "answer": "Ding Angel a Migdala king Masanting a Balita nang Isaac kang Ibrahim"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Magdala yang masayang balita ning pangabait nang Isaac kang Ibrahim",
+        "Babala kang Lut bayu ing parusa da ring memalen na",
+        "Pamipabalu king pangabait nang Yahya kang Zakariyya",
+        "Magdala king Tronu king Aldo ning Pamanukum",
+        "Pamagpabalu king pangabait nang Isa kang Maryam"
+      ],
+      "answer": "Magdala yang masayang balita ning pangabait nang Isaac kang Ibrahim"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "metung a api a makasadya ibat keng mikalat a api",
+        "Metung a daung a lulutang keng albug",
+        "Metung a kueba a makatatak king metung a batu a gugulisak",
+        "Bunduk ning gabun a pepatibe ning asin",
+        "Metung a hagdan a mamabut keng banua"
+      ],
+      "answer": "metung a api a makasadya ibat keng mikalat a api"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Masayang balita ning metung a anak a lalaking milagyuan Isaac",
+        "Masayang balita ning metung a anak a lalaking milagyuan Yahya",
+        "Ing pamamili kang Talut bilang pekapun da ring Anak ning Israel",
+        "Metung a babala bayu ing parusa karing memalen nang Lut",
+        "Metung a utus a gawang daung bayu ing Albug"
+      ],
+      "answer": "Masayang balita ning metung a anak a lalaking milagyuan Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La vus che g’ha sfidà el regn de un idol",
+  "intro": "Intra i messagger de l’Onnipotente g’hera un servidor ferm qe al s’è levad su intra una nazion ostinada per dir la veritaa. El sò popul g’haveva adutà una divinità fabricada, voltand via dal Creatur de tüt chel che esist. Cunt una risoluziun inflexibil, chestu individuo g’ha ciamà ancamò, ma el messagg l’è stà incuntrà cun negaziun e refuud. Passa travers i indizi per descuvrir chi l’era chestu servitur devot.",
+  "clues": [
+    "Sun stà mandà cuma messagger a un popul testard che l’era stà luntan del camin dritt.",
+    "Son vegnuu a regordar a la me naziun de Quell che g’ha creà tüt chel che esist, el mej de tüt i creatur.",
+    "El me popul s’era voltà a un falso idol che venerava e invocava de dì e de nott.",
+    "I g’ho sfidà cun curagg, dumandant perché g’havarian venerà una divinità fabricada e bandonà el luur ver Signur.",
+    "I m’han negad, i m’han refudad de scoltar, e i g’han tegnü ferm a luur falsità, ma el me Signur m’ha preservà.",
+    "Mi son Ilyas - e la pas l’è stada dada sü de mi, e son stà cuntà intra i servitur credent del Püsee Misericordius."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Ilyas",
+        "Profeta Idris",
+        "Profeta Alyasa",
+        "El prufeta Zul-Kifl",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Ilyas"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Ciamà un popul luntan del cult de Baal",
+        "Afruntà un tiran che diseva de vèss un dé",
+        "Avertir un popul de un’imminent inondaziun",
+        "Vess butà denter de un grand fœuch ardent",
+        "Guidar un esodo da la tera de la schiavitù"
+      ],
+      "answer": "Ciamà un popul luntan del cult de Baal"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "L'idol se ciamava Ba'al",
+        "Una grand arca costruida en legn robusto",
+        "Un staff che divideva un mar vast",
+        "Un vestì sacr macchià de sàang",
+        "Un busc ardent sü una montagna santa"
+      ],
+      "answer": "L'idol se ciamava Ba'al"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Concedü la pas e cuntà intra i servitur scelt de Allah",
+        "Mentà in del paradis mentre tüt i olter sun stà distrutt",
+        "Salvà de un grand fœuch che l’è diventà frècc e sicür",
+        "Dat el domini süi jinn, sü l’umanità e sül vent",
+        "Corp cunservà cuma segn duradur per i secul"
+      ],
+      "answer": "Concedü la pas e cuntà intra i servitur scelt de Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

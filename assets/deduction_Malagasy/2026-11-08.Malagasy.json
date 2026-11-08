@@ -1,0 +1,61 @@
+{
+  "title": "ny fiaraha-miasa izay nanasa ny faharavana",
+  "intro": "Alaivo sary an-tsaina hoe mialoka eo ambanin'ny tafo iray ihany ianao izay nahazo ny fanambarana, nefa misafidy fahatokiana hafa. Io olona io dia niaina akaiky ny fahamarinana sy ny faminaniana, saingy nitodika tany amin'ireo izay nandà izany. Ny tantaran'izy ireo dia toy ny fampitandremana mafy fa ny fahatoniana irery ihany dia tsy afaka mamonjy fanahy izay mamadika ny fitokisana.",
+  "clues": [
+    "Nipetraka tao an-tranon'ny mpaminany iray nofidin'i Allah aho.",
+    "Fantatro ny fahamarinana notorin'ny vadiko, nefa tsy tena nino izany aho.",
+    "Namadika ny fitokisany aho tamin'ny niandany tamin'ireo olona nandà azy sy tamin'ny fanampiana azy ireo hanohitra azy.",
+    "Voatonona miaraka amin'ny vadin'ny mpaminany iray hafa izay namadika koa aho, ho ohatra ho an'ny tsy mpino.",
+    "Voatantara ao amin'ny Surah At-Tahrim ny tantarako ho fampitandremana fa ny fifandraisana amin'ny mpaminany dia tsy miaro.",
+    "Maty niaraka tamin'ireo mpanao ratsy aho rehefa nandringana ny vahoakan'i Lota i Allah, izay navelany niaraka tamin'ireo sisa tavela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny vadin'ny Mpaminany Lota",
+        "Asiya, vadin'i Farao",
+        "Ny vadin'i Imran",
+        "Saraha, vadin'ny Mpaminany Ibrahim",
+        "Ny vadin'i Al-Aziz"
+      ],
+      "answer": "Ny vadin'ny Mpaminany Lota"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Namadika ny mpaminany tamin'ny fanampiana ireo tsy mpino hanohitra azy",
+        "Atsipazo ao anaty harona ao anaty renirano ny zaza vao teraka mba hamonjena azy",
+        "Nangataka ny hanorenana ombilahy volamena nandritra ny tsy naha-teo ny mpaminany",
+        "Niampanga mpitandrina marina ho nanao ratsy ary nampiditra azy tao an-tranomaizina",
+        "Nitarika tafika elefanta handrava ny Kaaba"
+      ],
+      "answer": "Namadika ny mpaminany tamin'ny fanampiana ireo tsy mpino hanohitra azy"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ireo tanànan'ny vahoakan'i Lota izay rava",
+        "Ny Fiara izay naorina araka ny didin'Andriamanitra",
+        "Nampitony an'i Ibrahim ny afo",
+        "Ny lava-bato fialofana ho an'ny tanora matory",
+        "Ny renirano izay nahitana ny haron'ny zaza"
+      ],
+      "answer": "Ireo tanànan'ny vahoakan'i Lota izay rava"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Maty niaraka tamin'ireo tsy mpino na dia nanambady mpaminany aza",
+        "Voavonjy niaraka tamin'ireo mpino ary niditra tao amin'ny Paradisa tamim-piadanana",
+        "Novaina ho tsangambato ho famantarana ho an'ny taranaka aty aoriana",
+        "Natelina tamin'ny tany niaraka tamin'ny harena be dia be",
+        "Nomena zaza mahagaga rehefa antitra"
+      ],
+      "answer": "Maty niaraka tamin'ireo tsy mpino na dia nanambady mpaminany aza"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

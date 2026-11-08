@@ -1,0 +1,61 @@
+{
+  "title": "Moto oyo azali na motema molai",
+  "intro": "Kala kala, na mikolo ya ebandeli ya lisoló ya bato, milimo mibale etɛlɛmaki liboso ya Mozalisi na yango na makabo. Moko andimaki, moko andimaki te. Oyo elandaki ekokoma mawa monene ya yambo kati na bandeko - mosala moko ya kopekisa motema molai mpe mosala moko ya kozongisa mabe na bololo. Okoki ko découvrir nani nazali?",
+  "clues": [
+    "Nabotamaki na mikolo ya liboso mpenza ya bomoi ya moto awa na mabele",
+    "Nazalaki mwana ya babalani ya liboso mpenza ya bato oyo batambolaki na mabele oyo",
+    "Mokolo moko, napesaki mbeka moko oyo eutaki na etonga na ngai oyo eleki malamu mpo na kosepelisa Mozalisi na ngai",
+    "Libonza na ngai endimamaki uta likolo, nzokande likabo ya ndeko na ngai eboyamaki",
+    "Ntango bazalaki kobangisa ngai ete bakoboma ngai, naponaki kotombola lobɔkɔ na ngai te epai ya ndeko na ngai",
+    "Nakómaki moto ya liboso na lisolo mobimba ya bato oyo moto mosusu abomamaki na ndenge ya mabe"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Habil (Abele), mwana ya Adama",
+        "Qabil (Kaina), mwana ya Adama",
+        "Adama, moto ya liboso",
+        "Nuh (Noa) .",
+        "Ibrahima (Abrahama) ."
+      ],
+      "answer": "Habil (Abele), mwana ya Adama"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bobomi ya liboso na lisolo ya bato",
+        "Mpela monene ya Nuh",
+        "Kobebisama ya mampinga ya Fir'awn",
+        "Mbeka ya Ismail na Ibrahim",
+        "Etumba na Jalut (Goliath) ."
+      ],
+      "answer": "Bobomi ya liboso na lisolo ya bato"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mpate moko oyo bapesaki lokola mbeka ya kosepelisa",
+        "Sanduku moko monene ya mabaya",
+        "Nzete oyo ebongwanaki nyoka",
+        "Ndɛkɛ moko oyo babengi hoopoe oyo ememi nsango ya bokonzi",
+        "Fosse ya mɔ́tɔ oyo ezali kopela mɔ́tɔ"
+      ],
+      "answer": "Mpate moko oyo bapesaki lokola mbeka ya kosepelisa"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki moto ya liboso oyo abomamaki na lisolo ya bato",
+        "Abikaki na mpela monene na kati ya masuwa moko ya mabaya",
+        "Azalaki kofanda na kati ya libumu ya mbisi moko monene",
+        "Ayangelaki ba jinn, bato, mpe mopepe",
+        "Ayengayenga mbula ntuku minei na esobe moko monene"
+      ],
+      "answer": "Akómaki moto ya liboso oyo abomamaki na lisolo ya bato"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

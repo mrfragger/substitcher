@@ -1,0 +1,61 @@
+{
+  "title": "An Glóir a Chuaigh Go Tóin Poill",
+  "intro": "Samhlaigh seo: anam clúdaithe in éadaí breátha agus timpeallaithe ag seoda thar a shamhlaíocht. Chreid an duine seo gur thuill siad a saibhreas trína ngliocas féin, gan aitheantas a thabhairt riamh do fhoinse an tsoláthair fhíor. Ag siúl i measc leanúna fáidh chumhachtaigh, dhiúltaigh an duine seo d’aon ghlaoch chun umhlaíochta. Inniu, nochtfaimid céannacht duine a raibh a fhortún iontach ina áit scíthe deiridh dóibh.",
+  "clues": [
+    "Bhí mé ina chónaí i ré fáidh a ghlaoigh ar náisiún ceanndána chun na fírinne.",
+    "Ba chuid de phobal roghnaithe mé, ach chas mo chroí ar shiúl ón teachtaireacht.",
+    "Mheall ór agus airgead mé níos mó ná aon ordú diaga.",
+    "D’fhás mo chuid taiscí chomh fairsing sin gur ar éigean a bhí grúpa láidir fear in ann na heochracha a ardú.",
+    "Bhí mé ag maíomh gur tugadh mo shaibhreas dom mar gheall ar mo chuid eolais féin.",
+    "Sa deireadh, shlog an talamh mise agus mo theach cónaithe ar fad mar rabhadh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Qarún",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talút (Saul)"
+      ],
+      "answer": "Qarún"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Uabhar i leith saibhris agus diúltú do charthanacht",
+        "Ag déanamh dealbh órga as seodra leáite",
+        "Ag dearbhú diagachta thar ríocht chumhachtach",
+        "Ag géarleanúint na gcreidmheach luath i Mecca",
+        "Ag treorú feachtais chun an Teach Naofa a scrios"
+      ],
+      "answer": "Uabhar i leith saibhris agus diúltú do charthanacht"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Seoda a raibh a n-eochracha ag cur ualach ar go leor fear láidir",
+        "Lao órga a tháirg fuaim",
+        "Ríchathaoir ghlórmhar ó thír i bhfad i gcéin",
+        "Trinse lán le tine lasrach",
+        "Arm cumhachtach eilifintí cogaidh"
+      ],
+      "answer": "Seoda a raibh a n-eochracha ag cur ualach ar go leor fear láidir"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Slogtha ag an talamh mar aon leis an áit chónaithe",
+        "Báite sa bhfarraige le harm",
+        "Dóite beo i bpoll tine",
+        "Scriosta ag gaoth uafásach, raging",
+        "Buailte síos ag pléascadh cumhachtach amháin"
+      ],
+      "answer": "Slogtha ag an talamh mar aon leis an áit chónaithe"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Gwardjan tal-Fjamma li Ma Titfiex",
+  "intro": "Figura wieqfa fuq l-għatba tal-aktar post imbeżża’ fl-inviżibbli, fdata b’dmir li ħadd ma jixtieq. Meta erwieħ li jbatu jgħajtu għall-ħniena, tweġiba ħarxa tidwi fil-kmamar tan-nar. Tista’ tiskopri l-identità ta’ dan il-gwardjan etern?",
+  "clues": [
+    "Jiena wieqaf fid-daħla ta’ post tal-biża’ ta’ kastig fl-inviżibbli.",
+    "Nar jaqbad u li ma jintefiex huwa l-qofol tad-dmir solenni tiegħi.",
+    "Erwieħ li qed ibatu jsejħu ismi, jitolbu għal serħan mit-turment bla tmiem tagħhom.",
+    "Meta jitolbu, niddikjara li qatt m'għandhom jitilqu.",
+    "M’iniex bniedem, u lanqas jinn — jien esseri maħluq ta’ ubbidjenza pura.",
+    "Jiena l-anġlu ewlieni maħtur bħala l-gwardjan etern tan-Nar tal-Infern."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Ħarut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "In-nies tal-Infern jitolbu biex it-turment tagħhom jintemm",
+        "It-tromba tindaqq biex tindika Jum il-Ġudizzju",
+        "Il-Koran huwa żvelat lil qalb il-Profeta",
+        "Profeta jintefa’ f’nar kbir min-nies tiegħu",
+        "Ħajt qawwi jinbena biex jikkontrolla nazzjon korrott"
+      ],
+      "answer": "In-nies tal-Infern jitolbu biex it-turment tagħhom jintemm"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "In-Nar tal-Infern (Jahannam)",
+        "Is-Siġra tal-Lotu fil-konfini tal-Ġenna",
+        "Tromba penetranti",
+        "Bastun li jinbidel f'serp",
+        "Tron divin magnífico"
+      ],
+      "answer": "In-Nar tal-Infern (Jahannam)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "L-abitanti tal-Infern jingħad li se jibqgħu għal dejjem",
+        "L-abitanti tal-Infern huma maħfura u meħlusa",
+        "L-abitanti tal-Infern jingħataw it-tieni ċans fil-fidi",
+        "Dawk li jgħixu fl-Infern jiġu mċaqalqa lejn post frisk",
+        "L-abitanti tal-Infern jinqerdu kompletament minn sajjetta"
+      ],
+      "answer": "L-abitanti tal-Infern jingħad li se jibqgħu għal dejjem"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

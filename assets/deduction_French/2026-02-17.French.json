@@ -1,0 +1,61 @@
+{
+  "title": "La graine de la discorde",
+  "intro": "Avant même que le monde ne connaisse un conflit généralisé, une épreuve de foi et d'obéissance profonde se déroula. Ce récit explore les choix d'un individu dont les actions ont marqué les générations futures. Préparez-vous à découvrir l'histoire d'une âme aux prises avec une jalousie immense et ses conséquences dévastatrices.",
+  "clues": [
+    "J'étais parmi les premiers êtres humains à fouler le sol de la terre, enfant du tout premier couple humain.",
+    "Mon frère et moi avons reçu l'ordre d'offrir un sacrifice à Allah, une épreuve de notre sincérité.",
+    "Mon offrande n'a pas été acceptée, contrairement à celle de mon frère, ce qui a rempli mon cœur d'une terrible émotion.",
+    "J'ai proféré des menaces à l'encontre de mon frère, poussé par l'amertume du rejet.",
+    "Mon frère a répondu avec sagesse et piété, me rappelant la justice d'Allah et la crainte qu'il faut lui faire.",
+    "Malgré les paroles bienveillantes de mon frère et sa volonté de pardonner, j'ai ôté une vie, devenant ainsi l'un des perdants."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Adam",
+        "Iblis",
+        "Prophète Noé",
+        "Qabil (Caïn)",
+        "Feu"
+      ],
+      "answer": "Qabil (Caïn)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le grand déluge",
+        "La séparation de la mer",
+        "La construction de la Kaaba",
+        "L'offrande des sacrifices",
+        "La tentation dans le jardin"
+      ],
+      "answer": "L'offrande des sacrifices"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "La montagne de Safa",
+        "Le Sacrifice",
+        "Le Buisson Ardent"
+      ],
+      "answer": "Le Sacrifice"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il devint messager",
+        "S'est noyé",
+        "Il a bâti un grand royaume",
+        "Devenu un exemple de regret",
+        "Il a reçu une immense richesse"
+      ],
+      "answer": "Devenu un exemple de regret"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

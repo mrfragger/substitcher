@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fitsarana ny Lelafo Masina",
+  "intro": "Tao amin'ny tany fahiny izay efa namaka tao an-trano rehetra ny fitiavana vato voasokitra, dia nisy olona iray niavaka. Noho ny faharesen-dahatra tsy azo hozongozonina sy ny fiarovan'Andriamanitra, dia niatrika izay tokony ho fahafatesana azo antoka izy ireo — ary lasa tsy naninona. Azonao fantarina ve ny mombamomba ity fanahy miavaka ity?",
+  "clues": [
+    "Nobeazina teo anivon'ny olona izay niankohoka tamin'ny sampy izay nosokirin'ny tanany manokana aho, satria nino fa nanana hery avy amin'Andriamanitra ireo zavatra ireo.",
+    "Rehefa nanohitra ny finoan'izy ireo aho dia tsy noraharahain'izy ireo tamin'ny voalohany, saingy tsy afaka ny hangina momba ny fahamarinana fantatro aho.",
+    "Tamin'ny andro nivoriana azy ireo dia noravako ny sampiny, ka ny lehibe indrindra ihany no tsy navelako hokasihina.",
+    "Rehefa niverina izy ireo ka nahita izay nataoko, dia nandidy ny hanorenana fandoroana lehibe ireo mpitarika azy ireo, satria nikasa ny hanipy ahy tao anaty lelafo izy ireo.",
+    "Natsipin'izy ireo tao anaty afo mirehitra aho, kanefa ny Tompon'izao tontolo izao dia nandidy izany mba ho mangatsiaka sy ho azo antoka ho ahy.",
+    "Nivoaka avy tao anaty lelafo aho tsy naninona mihitsy, raha ireo izay nikomy tamiko kosa dia niatrika fandringanana tanteraka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ibrahim",
+        "Mpaminany Musa",
+        "Mpaminany Noa",
+        "Mpaminany Isa",
+        "Mpaminany Yusuf"
+      ],
+      "answer": "Mpaminany Ibrahim"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Atsipy ao anaty afo mirehitra",
+        "Voatelin'ny trozona lehibe",
+        "Tafavoaka velona tamin'ny tondra-drano lehibe",
+        "Natsipy tao anaty lavadrano lalina",
+        "Mifanatrika amin'ny mpanao majika an'ny mpanjaka"
+      ],
+      "answer": "Atsipy ao anaty afo mirehitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Kitapo may goavana",
+        "Vata hazo lehibe iray",
+        "Sarivongan'omby volamena",
+        "Harona mitsingevana eo amoron'ny renirano",
+        "Seza fiandrianana kanto"
+      ],
+      "answer": "Kitapo may goavana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nataon'Andriamanitra mangatsiaka sy azo antoka ny afo",
+        "Nipetraka soa aman-tsara teo amin'ny tendrombohitra ny sambo fiara",
+        "Niempo teo imason'izy ireo ny sampy volamena",
+        "Maty an-drano tao an-dranomasina ny mpitondra jadona iray sy ny tafiny",
+        "Nahiratra indray ny jamba iray"
+      ],
+      "answer": "Nataon'Andriamanitra mangatsiaka sy azo antoka ny afo"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Chéad Anam a Sheasfaidh",
+  "intro": "I bhfad sular shiúil aon teachtaire an domhan, sular nochtadh aon scrioptúr, tháinig créatúr nach raibh a leithéid ann riamh ar an saol. Múnlaíodh an t-anam seo ag lámha diaga, tugadh áit áilleachta gan sárú di, agus tástáladh í ar bhealach a mhacallafeadh stair an chine dhaonna ar fad. Ina dhiaidh sin, bhí scéal laige, aithrí ó chroí, agus cinniúint a d’athródh cúrsa na cruthaithe go deo. An féidir leat buille faoi thuairim a thabhairt cé hé seo?",
+  "clues": [
+    "Múnlaíodh mé ag lámha an Té is Trócaireach as deannach na talún féin",
+    "Tugadh teach áilleachta gan sárú dom, áit nach bhféadfadh ocras ná tuirse teacht orm",
+    "Tugadh ordú dom gan dul i ngar do chrann amháin choíche, mar bhí cosc ​​air",
+    "Mealladh mise agus mo chompánach agus chuaigh muid i dtreo an chrainn thoirmiscthe, i gcoinne ordú ár dTiarna.",
+    "D’fhill muid ar ár dTiarna le haithrí ó chroí, agus maitheadh ​​dúinn ár gcionta",
+    "Uainn a tháinig an cine daonna ar fad; is mise an chéad duine a shiúlann ar an talamh seo"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ádhamh",
+        "an Fáidh Músa",
+        "Fáidh Nuh",
+        "Fáidh Iósaf",
+        "Fáidh Íosa"
+      ],
+      "answer": "Fáidh Ádhamh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Cathú ag an gcrann toirmiscthe",
+        "Aghaidh a thabhairt ar an bhFarao",
+        "Ag tógáil an Áirc mhóir",
+        "Íobairt an mhic ghrámhar",
+        "Á chaitheamh isteach i tine mhór"
+      ],
+      "answer": "Cathú ag an gcrann toirmiscthe"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Crann Toirmiscthe",
+        "An Tor Dóite",
+        "An Foireann Órga",
+        "An Áirc Mhór",
+        "An Lao Órga"
+      ],
+      "answer": "An Crann Toirmiscthe"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Seolta síos go talamh mar chéad chúramóir na daonnachta",
+        "Bádh Faraó agus a arm sa bhfarraige",
+        "Scrios an tuile mhór na drochdhaoine",
+        "D’éirigh an tine fionnuar agus síochánta",
+        "Bronnadh údarás air thar ríocht na hÉigipte"
+      ],
+      "answer": "Seolta síos go talamh mar chéad chúramóir na daonnachta"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Duše zákopu",
+  "intro": "Cestujete späť do éry, keď bezohľadný vládca požadoval absolútnu oddanosť falošným božstvám. Malá komunita oddaných duší odmietla a čelila trestu tak prísnemu, že sa stala večne prekliatou. Ich príbeh sa odráža v Koráne ako dôkaz neochvejnej viery. Viete identifikovať túto neochvejnú skupinu?",
+  "clues": [
+    "Žili sme v krajine pod tyraniou vládcu, ktorý požadoval uctievanie falošných božstiev",
+    "Naša komunita čelila krutému prenasledovaniu výlučne za našu vieru v jediného Alaha",
+    "Vládca prikázal vykopať veľký zákop a zapáliť ho prudkými plameňmi.",
+    "Pretože sme sa odmietli vzdať svojej viery, boli sme jeden po druhom uvrhnutí do tej horiacej jamy",
+    "Náš príbeh sa stal súčasťou Koránu a tí, ktorí nás prenasledovali, boli naveky prekliati.",
+    "Súra, ktorá zaznamenáva našu skúšku, je pomenovaná podľa veľkých nebeských znamení na oblohe"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Spoločníci zákopu (Ashab al-Ukhdud)",
+        "Ľudia z jaskyne (Ashab al-Kahf)",
+        "Ľudia Sabatu",
+        "Ľudia z A'adu",
+        "Ľudia z Thamudu"
+      ],
+      "answer": "Spoločníci zákopu (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Naša skúška",
+      "options": [
+        "Byť upálený zaživa v ohnivej jame",
+        "Byť mnoho rokov uväznený v jaskyni",
+        "Rybolov na svätý deň odpočinku",
+        "Byť zničený vyjúcim vetrom",
+        "Zabitie posvätnej ťavy"
+      ],
+      "answer": "Byť upálený zaživa v ohnivej jame"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Horiaci ohnivý zákop",
+        "Skrytá jaskyňa s verným psom",
+        "Vysoké piliere starobylého mesta zatrateného",
+        "Horské obydlia vytesané do kamenných útesov",
+        "Otvorená rovina zmietaná prudkými vetrami"
+      ],
+      "answer": "Horiaci ohnivý zákop"
+    },
+    "outcome": {
+      "label": "Náš výsledok",
+      "options": [
+        "Boli sme umučení a prenasledovatelia boli večne prekliati",
+        "Prebudili sme sa po 309 rokoch spánku",
+        "Pre naše priestupky sme sa premenili na opice",
+        "Mohutný vyjúci vietor nás všetkých zničil",
+        "Jediný zničujúci výkrik zničil našu existenciu"
+      ],
+      "answer": "Boli sme umučení a prenasledovatelia boli večne prekliati"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

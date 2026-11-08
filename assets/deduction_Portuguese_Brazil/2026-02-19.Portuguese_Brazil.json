@@ -1,0 +1,61 @@
+{
+  "title": "A Insensatez da Grande Ambição",
+  "intro": "Embarque em uma jornada para desvendar a identidade de uma entidade coletiva cujos planos audaciosos encontraram um fim inesperado e impactante. Esta narrativa serve como um profundo lembrete do poder divino e da fragilidade do poder mundano quando este se opõe ao sagrado. Desvende o mistério deste grupo, cuja história está gravada no Alcorão como um alerta para todos aqueles que buscam transgredir.",
+  "clues": [
+    "Tínhamos uma grande ambição, acreditando que nossa força era inigualável, e partimos em uma jornada com um objetivo claro e destrutivo.",
+    "Nosso líder, tomado pela arrogância, procurou profanar uma Casa sagrada reverenciada por muitos, com o objetivo de desviar a peregrinação para uma estrutura construída por nós.",
+    "De uma terra distante, marchamos com uma força maciça, confiantes em nossa capacidade de desmantelar a antiga edificação na Cidade Santa.",
+    "Nosso exército era formidável, liderado por criaturas magníficas, uma visão raramente, ou nunca, testemunhada em tal campanha pelos habitantes da terra que invadimos.",
+    "Ao chegarmos ao nosso destino, ocorreu uma intervenção divina: pequenas criaturas aladas apareceram e começaram a nos bombardear com pedras de barro cozido.",
+    "Toda a nossa expedição teve um fim devastador, deixando nossa formidável força completamente aniquilada, como palha mastigada, nosso grande plano reduzido a pó."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Povo de Thamud",
+        "Pessoas de 'Ad",
+        "Povo de Sodoma",
+        "Povo do Elefante",
+        "Pessoas do Jardim"
+      ],
+      "answer": "Povo do Elefante"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O Grande Dilúvio",
+        "A campanha contra a Caaba",
+        "A destruição dos ídolos",
+        "A Divisão do Mar",
+        "O terremoto de Midiã"
+      ],
+      "answer": "A campanha contra a Caaba"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Arca",
+        "A equipe",
+        "A Caaba",
+        "O Bezerro de Ouro",
+        "O Incêndio"
+      ],
+      "answer": "A Caaba"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Salvação divina",
+        "Um longo período de prosperidade",
+        "Conversão ao Islã",
+        "destruição total",
+        "Exilados de sua terra"
+      ],
+      "answer": "destruição total"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

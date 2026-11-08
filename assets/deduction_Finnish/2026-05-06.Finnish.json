@@ -1,0 +1,61 @@
+{
+  "title": "Ääni palavasta pensaasta",
+  "intro": "Paljasta syvällisen hahmon identiteetti, jonka matka alkoi ihmeellisestä kohtaamisesta ja jonka kohtalo oli kietoutunut sorretun kansan vapauttamiseen. Tämä henkilö valittiin valtavaan tehtävään, kohtaamaan valtavia haasteita jumalallisen tuen avulla.",
+  "clues": [
+    "Synnyin suuren sorron aikaan, jolloin kansani lapsia tapettiin.",
+    "Varhaisessa elämässäni vanhempani laittoivat minut jokeen, mutta minut löydettiin ja kasvoin kansani sortajan kodissa.",
+    "Kerran pakenin kaupungista aiheutettuani tahattomasti yhden ihmisen kuoleman riidan aikana.",
+    "Sain jumalallisen viestin ja ihmeellisen sauvan pyhässä paikassa, jossa minua käskettiin kohtaamaan voimakas hallitsija.",
+    "Veljeni nimitettiin avuksi minulle lähetystyössäni, koska puheessani havaittiin olevan ongelmia.",
+    "Johdatin kansani jakautuneen meren yli paeten tyrannimaisen armeijan takaa-ajoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Yusuf",
+        "Profeetta Isa",
+        "Profeetta Musa",
+        "Profeetta Nooa",
+        "Profeetta Ibrahim"
+      ],
+      "answer": "Profeetta Musa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kestävät kuivuuden vuodet",
+        "Arkin rakentaminen",
+        "Kohtaamassa faaraota ja hänen velhojaan",
+        "Heitetään tuliseen pätsiin",
+        "Thamudin kansan tuho"
+      ],
+      "answer": "Kohtaamassa faaraota ja hänen velhojaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kaaba",
+        "Rautamuuri",
+        "Henkilökunta",
+        "Nuhin laiva",
+        "Sulaimanin sormus"
+      ],
+      "answer": "Henkilökunta"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Sodoman kaupunki kukistui",
+        "Maa nielaisi ihmiset",
+        "Suuri tulva peitti maan",
+        "Faarao ja hänen armeijansa hukkuivat",
+        "Kaupungin muurit romahtivat huudosta"
+      ],
+      "answer": "Faarao ja hänen armeijansa hukkuivat"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

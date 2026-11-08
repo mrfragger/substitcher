@@ -1,0 +1,61 @@
+{
+  "title": "Batongi ya Makonzí ya Milai",
+  "intro": "Otelemi liboso ya bitika ya engumba moko monene ya kala, makonzí na yango ya milai ekwei sikawa. Mopɛpɛ ezali koganga na babalabala oyo ezali na mpamba, ememaka bokundoli ya bato moko ya nguya oyo kala bazalaki koyangela mikili yango. Bazalaki banani?",
+  "clues": [
+    "Tozalaki bato ya makasi mpe ya mayele mingi, oyo bayebani mpo na bandako na biso minene mpe sivilizasio na biso ya liboso.",
+    "Tozalaki kofanda na mokili ya mabanga ya zelo mpe bangomba mike ya mabanga, mpe tondimaki ete moto moko te akokaki kolonga biso.",
+    "Motindami moko ayaki epai na biso uta na bandeko na biso moko, kobenga biso tosambela Allah se moko, kasi toboyaki mpe toseki ye.",
+    "Tomikumisaki ete, ‘Nani aleki biso makasi?’ mpe tokobaki na lolendo mpe losambo na biso ya bikeko.",
+    "Allah atindaki likolo na biso mopepe ya nkanda oyo epelaki na boumeli ya butu nsambo na mikolo mwambe, ebebisaki biloko nyonso.",
+    "Tozalaki bato ya ‘Ad, batongi ya Iram, mpe nsuka na biso ekómaki likebisi mpo na bato nyonso oyo bayaki nsima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya 'Ad",
+        "Bato ya Thamud",
+        "Bato ya Madyan",
+        "Bato ya Tubba'.",
+        "Bato ya al-Rass"
+      ],
+      "answer": "Bato ya 'Ad"
+    },
+    "trial": {
+      "label": "Etumbu oyo batindelaki bango ezalaki nini?",
+      "options": [
+        "Mopɛpɛ moko ya kobebisa",
+        "Mbula ya mabanga",
+        "Kopanzana moko ya makasi",
+        "Kozinda na mai na mpela",
+        "Emelami na mabele"
+      ],
+      "answer": "Mopɛpɛ moko ya kobebisa"
+    },
+    "location": {
+      "label": "Kombo ya engumba na bango ya masapo ezali nini?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midiane",
+        "Babele",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Nsuka na bango ezalaki nini?",
+      "options": [
+        "Babebisamaki mpe bitika na bango ekómaki liteya",
+        "Bayambolaki mpe babikisamaki",
+        "Babongwanaki bango na ba singes",
+        "Bazindaki bango na mbu",
+        "Bakundaki bango na nse ya mabele oyo epanzani"
+      ],
+      "answer": "Babebisamaki mpe bitika na bango ekómaki liteya"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

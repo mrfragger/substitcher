@@ -1,0 +1,61 @@
+{
+  "title": "Ostražitá duša na brehu rieky",
+  "intro": "Mladá duša bola poverená tajnou misiou, aby z bezpečnej vzdialenosti pozorovala, ako sa osud odvíja na vodách. Neviditeľná a netušená, táto postava zohrala kľúčovú úlohu v zmene priebehu dejín národa.",
+  "clues": [
+    "Mama mi dala úlohu, ktorá si vyžadovala nenápadnosť a ostražitosť.",
+    "Moje oči sledovali malú kolísku unášanú prúdom, srdce mi bilo ťažké od starostí.",
+    "Keď ho našla nečakaná skupina, priblížil som sa plný úzkosti.",
+    "Videl som ich zúfalú túžbu po opatrovateľovi a ponúkol som riešenie bez toho, aby som odhalil pravdu.",
+    "Môj včasný zásah priviedol ošetrovateľskú dušu späť k tomu, kto to najviac potreboval.",
+    "Na dvoroch mocných som hovoril: „Mám vás nasmerovať k rodine, ktorá ho bude živiť a starať sa oňho s láskou?“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Sestra Musu",
+        "Matka Musu",
+        "Manželka faraóna",
+        "Pôrodná asistentka",
+        "Dcéra Šuajba"
+      ],
+      "answer": "Sestra Musu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Hodenie dieťaťa do rieky",
+        "Rozdeľovanie mora",
+        "Pálenie teľaťa",
+        "Stavba archy",
+        "Mor kobyliek"
+      ],
+      "answer": "Hodenie dieťaťa do rieky"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Rieka",
+        "Púšť",
+        "Hora",
+        "Palác",
+        "Oheň"
+      ],
+      "answer": "Rieka"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Znova dala dieťaťu jeho matku",
+        "Zachránila sa pred faraónovými vojakmi",
+        "Stala sa kráľovnou",
+        "Bola potrestaná za špionáž",
+        "Viedla Izraelitov"
+      ],
+      "answer": "Znova dala dieťaťu jeho matku"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

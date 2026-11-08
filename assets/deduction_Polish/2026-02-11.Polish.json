@@ -1,0 +1,60 @@
+{
+  "title": "Ciężar bogactwa",
+  "intro": "Stoisz przed opowieścią o ogromnej fortunie, życiu wysadzanym złotem i władzą, a zarazem przestrogą dla wszystkich, którzy dążą do doczesnej świetności. Czy potrafisz odkryć tożsamość tej postaci, której historia odbija się echem w czasie, będąc świadectwem ulotności ziemskich dóbr?",
+  "clues": [
+    "Pochodziłem z ludu wielkiego Proroka, ale wybrałem ścieżkę arogancji i ucisku.",
+    "Bóg obdarzył mnie ogromnym bogactwem, tak wielkim, że klucze do moich skarbów stały się ciężkim brzemieniem dla silnej grupy mężczyzn.",
+    "Mój lud radził mi, abym nie cieszył się bogactwem, przypominając mi, że Bóg nie miłuje tych, którzy się chełpią.",
+    "Arogancko twierdziłem, że mój ogromny majątek jest wynikiem mojej własnej wiedzy i wysiłku, a nie błogosławieństwa od Allaha.",
+    "Ostrzegano mnie przed korupcją i przypominano, że mam szukać życia wiecznego za pomocą tego, co dał mi Allah, ale ja nie chciałem ich słuchać i trwałem w swojej pysze.",
+    "W końcu Bóg sprawił, że ziemia pochłonęła mnie i moje mieszkanie, nie pozostawiając mi żadnych pomocników, którzy mogliby mi pomóc w sprzeciwieniu się Jego postanowieniu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "faraon",
+        "Haman",
+        "Karun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Rozdzielenie morza",
+        "Ogień Nimroda",
+        "Powódź",
+        "Połknięcie przez ziemię",
+        "Plaga szarańczy"
+      ],
+      "answer": "Połknięcie przez ziemię"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Złoty cielec",
+        "Skarby/Klucze",
+        "Studnia Zamzam"
+      ],
+      "answer": "Skarby/Klucze"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przyznano królewskość",
+        "Ocalony przed zniszczeniem",
+        "Pochłonięty przez ziemię",
+        "Został prorokiem",
+        "Zmarł spokojnie"
+      ],
+      "answer": "Pochłonięty przez ziemię"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

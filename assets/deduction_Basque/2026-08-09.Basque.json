@@ -1,0 +1,61 @@
+{
+  "title": "Antzinako Garaietako Egiazko Ahotsa",
+  "intro": "Koranean arima bat dago, zeinaren istorioa bertso gutxitan kontatzen den, baina haren ezaugarri nobleak argi eta garbi distira egiten dute. Jainko Ahalguztidunak bertute berezi batengatik goraipatua, Errukitsuenaren zerbitzari zahar honek leku bat du errebelazio orrialdeetan. Zure zeregina pertsonaia nabarmen hau identifikatzea da. Asmatuko al duzu nor diren?",
+  "clues": [
+    "Alaren profeta bat naiz, gizateriaren lehen belaunaldien artean bizi izan zena.",
+    "Ala-k bere liburuan aipatu ninduen beste profeta batzuekin batera, guztiak bertute noble beragatik goraipatuak.",
+    "Koranean egiaren gizon gisa deskribatzen naute.",
+    "Ala-k inork gutxik lortu duten maila gorenera igo ninduen.",
+    "Nire izena Al-Anbiya suran aipatzen da, pazientziagatik goraipatutako beste bi profetakin batera.",
+    "Idris naiz, profeta egiazkoa eta gorena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Idris profeta",
+        "Nuh profeta",
+        "Ibrahim profeta",
+        "Musa profeta",
+        "Ismail profeta"
+      ],
+      "answer": "Idris profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Pazientzia eta egiazkotasuna mantenduz, gero goi-mailako mailara igota",
+        "Sinestunak uholde suntsitzaile batetik salbatzeko arka handi bat eraikitzea",
+        "Su bizian sartu eta kalterik gabe ateratzea",
+        "Errege boteretsu bati aurre egitea eta haren magoen armada garaitzea",
+        "Itsasoaren sakonean arrain handi baten sabelean bizirautea"
+      ],
+      "answer": "Pazientzia eta egiazkotasuna mantenduz, gero goi-mailako mailara igota"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Alaren goi-mailako eta goratua den egoera",
+        "Oholez eraikitako eta alkitranez estalitako itsasontzi erraldoia",
+        "Errege gaizto baten idolatrak piztutako su bizia",
+        "Bide lehorretan zatitzen den itsaso zabala",
+        "Balea handi baten sabel iluna ozeanoaren hondoan"
+      ],
+      "answer": "Alaren goi-mailako eta goratua den egoera"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Alaren errukian onartua zintzoen artean bat bezala",
+        "Mundu osoko uholde batetik sinestun guztiekin batera salbatua",
+        "Suak ukitu gabe irten zen sugarretatik",
+        "Israelgo seme-alabak itsasoaren beste aldean askatasunera eraman zituen seguru",
+        "Urte luzez sufritu ondoren, maite duten familiarekin elkartu dira berriro"
+      ],
+      "answer": "Alaren errukian onartua zintzoen artean bat bezala"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

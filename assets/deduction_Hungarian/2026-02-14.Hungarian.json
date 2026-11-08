@@ -1,0 +1,61 @@
+{
+  "title": "A korlátok építője",
+  "intro": "Hatalmas földeken átívelő, hatalmas egyéniség expedíciók sorozatára indult, hatalmas hatalommal és eszközökkel felruházva. Ez a lélek sokféle közösséggel találkozott és egyedi kihívásokkal nézett szembe, tettei és bölcsessége révén maradandó nyomot hagyva a történelemben és a hitben, miközben elismeri erejének valódi forrását.",
+  "clues": [
+    "Hatalmat és eszközöket kaptam minden felett, és követtem az utamat.",
+    "Utam a napnyugta helyére vitt, ahol egy népre bukkantam.",
+    "Egy olyan közösséggel találkoztam, akik alig értették a beszédet, két hegy között élve.",
+    "Arra kértek, hogy építsek egy védőgátat, nem személyes haszonszerzés céljából, hanem hogy megvédjek egy pusztító erőtől.",
+    "Kijelentettem, hogy az erő e hatalmas fal felépítéséhez Allahtól származik, és az egy megígért időig állni fog.",
+    "A nevem, melyet gyakran „A Kétszarvúnak” fordítanak, a földkerekségre, vagy talán két különálló korszakra kiterjedő hatókörömet jelképezi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes próféta",
+        "Szulejmán próféta",
+        "Dhul-Qarnayn",
+        "fáraó",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Kinyilatkoztatás fogadása",
+        "Szembenézni egy zsarnokkal",
+        "Egy nagyszerű hajó építése",
+        "Egy hatalmas akadály építése",
+        "Egy hal lenyeli"
+      ],
+      "answer": "Egy hatalmas akadály építése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A vasgát",
+        "A Nílus folyó",
+        "A trón"
+      ],
+      "answer": "A vasgát"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megmentés az özönvíztől",
+        "Nagy királysággá válni",
+        "Védelem egy nép számára",
+        "Egy elnyomó pusztulása",
+        "Tartós bölcsesség"
+      ],
+      "answer": "Védelem egy nép számára"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

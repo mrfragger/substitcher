@@ -1,0 +1,61 @@
+{
+  "title": "Suverääni suur allumine",
+  "intro": "Sa leiad end iidsete imede ja sügavate ilmutuste maalt. Võimas valitseja, kes saab ootamatu kutse, asub teekonnale, mis muudab tema saatuse ja rahva usu kulgu. Kas suudad selle majesteetliku tegelase identiteedi paljastada?",
+  "clues": [
+    "Ma valitsesin jõukat kuningriiki, mida kaunistasid tohutu rikkus ja suurepärane troon.",
+    "Mina ja mu rahvas kummardasime taevakeha, uskudes, et see on meie isand, kuigi mu südames olid kahtlused.",
+    "Omapärane sõnumitooja, lind, toimetas mulle kirja, milles kutsus mind ja mu rahvast alistuma Ühele Jumalale.",
+    "Ma konsulteerisin oma võimsate nõuandjatega, kuidas sellele enneolematule sõnumile reageerida.",
+    "Otsustasin saata kirja saatjale väärtusliku kingituse, lootes hinnata tema võimu ja kavatsusi.",
+    "Kohale jõudes hämmastas mind klaasist põrandaga palee, mis nägi välja nagu veelomb, ja just siis kuulutasin ma välja oma alistumise kogu loodu Issandale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Vaarao",
+        "Seeba kuninganna",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Prohvet Yusuf"
+      ],
+      "answer": "Seeba kuninganna"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Mere lõhenemine",
+        "Suur üleujutus",
+        "Teekond kohtuma prohvet Sulaymaniga",
+        "Luti rahva hävitamine",
+        "Prohvet Ibrahimi põletamine"
+      ],
+      "answer": "Teekond kohtuma prohvet Sulaymaniga"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Troon",
+        "Mägi",
+        "Tuli"
+      ],
+      "answer": "Troon"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai prohvetiks",
+        "Allah hävitas",
+        "Omaks islami",
+        "Juhtis oma rahva sõtta",
+        "Ehitas suurejoonelise templi"
+      ],
+      "answer": "Omaks islami"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

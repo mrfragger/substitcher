@@ -1,0 +1,61 @@
+{
+  "title": "A saudade na cámara sagrada",
+  "intro": "Entras no santuario silencioso e ves un servo devoto de Alá rezando de pé. Ten as mans levantadas, os ollos alzados e o seu corazón abrangue un anhelo que abrangue toda a vida. Quen é esta alma paciente cuxa confianza en Alá nunca vacilou?",
+  "clues": [
+    "Pasei longos anos en adoración e oración, presenciando milagres que fortaleceron a miña fe.",
+    "Déronme a responsabilidade de coidar dunha moza alma bendita no santuario.",
+    "A medida que fun envellecendo, a miña maior dor foi non ter fillos, porque a miña muller era estéril e ambos eramos de idade avanzada.",
+    "Receille ao meu Señor por un sucesor da miña propia familia, alguén que continuase o legado da profecía.",
+    "Mentres estaba no nicho de oración, os anxos chamáronme, dicindo: \"Alá che dá boas novas\", e sentín medo e temor reverencial.",
+    "Dixéronme que tería un fillo chamado Yahya, un nome que nunca lle puxeran a ninguén antes, e como sinal non falaría coa xente durante tres días."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Zacarias",
+        "Profeta Yahya",
+        "Profeta Isa",
+        "Profeta Dawud",
+        "Luqman o Sabio"
+      ],
+      "answer": "Profeta Zacarias"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Esterilidade e vellez mentres se desexa un herdeiro xusto",
+        "Ser lanzado a un lume abrasador",
+        "Ser tragado por un gran peixe",
+        "Perder un reino por mor dun tirano",
+        "Ser exiliado da súa terra natal"
+      ],
+      "answer": "Esterilidade e vellez mentres se desexa un herdeiro xusto"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O nicho de oración (mihrab)",
+        "O gran barco (Arca)",
+        "A sarza ardente",
+        "O bastón que se converteu nunha serpe",
+        "A cameloa de Alá"
+      ],
+      "answer": "O nicho de oración (mihrab)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Concedéuselle un fillo xusto e volveu falar despois de tres días de silencio",
+        "Destruído por unha inundación por incredulidade",
+        "Dado un vasto reino e control sobre o vento",
+        "Saído do ventre dun peixe",
+        "Tragado pola terra"
+      ],
+      "answer": "Concedéuselle un fillo xusto e volveu falar despois de tres días de silencio"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

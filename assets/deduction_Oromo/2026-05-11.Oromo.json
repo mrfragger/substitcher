@@ -1,0 +1,61 @@
+{
+  "title": "Dhugaa Baatota Cimaa",
+  "intro": "Yeroo amantiin ibiddaan qoramee, amantiin hin raafamne immoo mormii isa dhumaa taʼe tokko yaadi. Eenyummaa garee seenaan isaa Qur’aana keessatti irra deebi’amee himame, seeneffama amantii gadi fagoo abbaa irree humna ol ta’e irratti mul’atu saaxiluuf hojiin sitti kenname. Lubbuuwwan kun eenyu akka ta’an, fi haala addaa isaan mudate baruuf ragaalee hiikaa.",
+  "clues": [
+    "Amantii keenya dhiisuuf dhiibbaan guddaan nu mudatus, amantii keenya irratti jabaannee dhaabanne.",
+    "Bulchaa humna guddaa qabuu fi ifa waaqa tokkicha dhaamsuu barbaaduun nu irratti xiyyeeffate.",
+    "Mallattoo fi dinqii gurguddaa argine, ta’us cunqursitoonni keenya of eeggannoo malee hafan.",
+    "Mala ariʼatamaa suukaneessaa namoota kaan shororkeessuudhaan akka bitaman gochuuf qophaaʼe obsineerra.",
+    "Ibidda boba’aa keessa darbatamne, ta’us jabaannaan keenya Rabbiin biratti buufata ol’aanaa nuuf argamsiise.",
+    "Seenaan keenya suuraa urjiilee samiitiin moggaafame keessatti irra deebi’amee kan himame yoo ta’u, hiree warra amantoota ari’atan akeekkachiisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Ummata Thamud",
+        "Ummanni 'Ad",
+        "Ummata Boollaa",
+        "Ummata Miidiyaan",
+        "Ummata Qeerroo"
+      ],
+      "answer": "Ummata Boollaa"
+    },
+    "trial": {
+      "label": "Ari'atama Keenya",
+      "options": [
+        "Lolaan liqimfamuu",
+        "Qilleensi gubaatiin nyaatamuu",
+        "Boolla abiddaa keessa darbatamuu",
+        "Lafaan liqimfamuu",
+        "Gara hantuutaatti jijjiiramuu"
+      ],
+      "answer": "Boolla abiddaa keessa darbatamuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Lolaa guddaa",
+        "Kirkira lafaa guddaa",
+        "Boolla gadi fagoo fi gubaa jiru",
+        "Waaqa tolfamaa humna guddaa qabu",
+        "Gogiinsa hamaa"
+      ],
+      "answer": "Boolla gadi fagoo fi gubaa jiru"
+    },
+    "outcome": {
+      "label": "Hiree Keenya Dhumaa",
+      "options": [
+        "Lafa irratti mootummaan isaaniif kenname.",
+        "Dinqiidhaan miliquun fayyaniiru.",
+        "Wareegama fi badhaasa bara baraa galmaan gahaniiru.",
+        "Isaanis gara gosa adda addaatti jijjiiraman.",
+        "Qabeenyi fi badhaadhina hangana hin jedhamne isaaniif kenname."
+      ],
+      "answer": "Wareegama fi badhaasa bara baraa galmaan gahaniiru."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

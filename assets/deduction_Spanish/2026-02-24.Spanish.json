@@ -1,0 +1,61 @@
+{
+  "title": "El eco del engaño",
+  "intro": "Un vínculo de parentesco fue puesto a prueba por una oleada de envidia. Se tramó un plan secreto que desencadenó una cadena de acontecimientos que se extenderían durante años y abarcarían grandes distancias. Las acciones de este grupo provocaron una profunda separación y dolor, pero la historia no terminó ahí. Es un relato de engaño, arrepentimiento y el desenlace de un plan divino. ¿Podrás desentrañar la identidad de estas personas cuyas decisiones repercutieron a través de las generaciones?",
+  "clues": [
+    "Nos consumían los celos por el afecto que se le demostraba a uno de los nuestros.",
+    "En nuestra envidia, conspiramos juntos y arrojamos a nuestro hermano a la oscuridad de un pozo.",
+    "Para ocultar nuestro delito, le presentamos a nuestro padre una prenda manchada con sangre falsa.",
+    "Años después, una grave hambruna nos obligó a viajar a Egipto en busca de provisiones.",
+    "Allí, comparecimos ante un poderoso gobernador que, sin que lo supiéramos, era precisamente el hermano al que habíamos perjudicado.",
+    "Nuestra prueba final consistió en presentar a nuestro hermano menor, Binyamin, lo que nos llevó a descubrir nuestro pasado y que nuestro padre era el profeta Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Los hijos de Adán (Qabil y Habil)",
+        "Los discípulos del profeta Isaías",
+        "Los hermanos del profeta Yusuf",
+        "El pueblo de Madyan",
+        "Los magos de Fir'awn"
+      ],
+      "answer": "Los hermanos del profeta Yusuf"
+    },
+    "trial": {
+      "label": "¿Cuál fue nuestra principal falta?",
+      "options": [
+        "Construyendo un becerro de oro para la adoración",
+        "Exigir ver a Alá directamente",
+        "Burlarse de un profeta por construir un arca",
+        "Engañando a nuestro padre y abandonando a nuestro hermano",
+        "Quebrantar el sábado pescando"
+      ],
+      "answer": "Engañando a nuestro padre y abandonando a nuestro hermano"
+    },
+    "location": {
+      "label": "¿Qué objeto fue fundamental para nuestro engaño?",
+      "options": [
+        "Un conjunto de tablillas inscritas",
+        "Una camisa manchada con sangre falsa.",
+        "Un becerro de oro",
+        "Un hermoso pájaro (la abubilla)",
+        "Un bastón que se transformó en serpiente"
+      ],
+      "answer": "Una camisa manchada con sangre falsa."
+    },
+    "outcome": {
+      "label": "¿Cuál fue el desenlace final de nuestra historia?",
+      "options": [
+        "Fuimos destruidos por un poderoso diluvio.",
+        "Nos convertimos en simios",
+        "Fuimos engullidos por la tierra.",
+        "Fuimos perdonados y nos reunimos con nuestra familia.",
+        "Nos ahogamos en el mar."
+      ],
+      "answer": "Fuimos perdonados y nos reunimos con nuestra familia."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

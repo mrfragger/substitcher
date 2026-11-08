@@ -1,0 +1,61 @@
+{
+  "title": "Xurmanın Kölgəsi Altında",
+  "intro": "Doğulmazdan əvvəl ayrılmış, müqəddəs divarlar arasında böyüdülmüş və dünyanın heç vaxt görmədiyi bir əlamət daşımaq üçün seçilmiş bir ruhun hekayəsi açılır. Hər tərəfdən ittihamlar irəli sürüləndə, bütün şübhələri susdurmaq üçün ən gözlənilməz yerlərdən bir səs gəldi. Xurma ağacının kölgəsində kimin gəzdiyini kəşf edə bilərsinizmi?",
+  "clues": [
+    "Məni daşıyan Tanrının verdiyi andla ilk nəfəsimi verməmişdən əvvəl özümü Uca Tanrıya xidmətə həsr etmişdim.",
+    "Mən ibadət yerinin müqəddəs otaqlarında saleh bir qəyyumun nəzarəti altında böyümüşəm.",
+    "Qəyyumum otağıma gələndə yanımda mövsümlərdən qalma, amma olmamalı olan ərzaqlar tapırdı.",
+    "Vəziyyətim vəd edilən şeyə yer verməsə də, mənə oğul müjdəsi verildi.",
+    "Mən uzaq bir yerə çəkildim. Orada bir xurma ağacı mənə kölgə saldı, altından isə bir çay axırdı.",
+    "İttihamlar irəli sürülüb ətrafımda suallar yarananda, yeni doğulmuş uşağımı göstərdim və o, hər şübhəni susdurmaq üçün beşikdən danışdı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Məryəm",
+        "Sara",
+        "Havva",
+        "Ümmü Musa",
+        "Nuhun həyat yoldaşı"
+      ],
+      "answer": "Məryəm"
+    },
+    "trial": {
+      "label": "Sınaq / Tədbir",
+      "options": [
+        "Təcrid olunmuş vəziyyətdə möcüzəvi bir oğul dünyaya gətirmək",
+        "Bütpərəstlər tərəfindən alovlanan oda atılmaq",
+        "Seçilmiş bir neçə nəfərlə birlikdə böyük daşqından sağ çıxmaq",
+        "Çaya atılan körpədən ayrı qalmaq",
+        "Misirin qüdrətli hökmdarı ilə qarşılaşmaq"
+      ],
+      "answer": "Təcrid olunmuş vəziyyətdə möcüzəvi bir oğul dünyaya gətirmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Xurma ağacı və altında axan çay",
+        "Uca dalğaların üzərində qüdrətli bir gəmi",
+        "Böyük bir dənizi iki yerə bölən bir əsa",
+        "Sadiq bir ruhu yandırmaq üçün nəzərdə tutulmuş alovlu bir atəş",
+        "Qiymətli daşlarla bəzədilmiş qızıl taxt"
+      ],
+      "answer": "Xurma ağacı və altında axan çay"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bütün qadınların ən ucası kimi şərəfləndirilmişdir",
+        "Uzun ayrılıqdan sonra sevimli övladı ilə yenidən görüşdü",
+        "Bütün bir milləti tiranın əsarətindən qurtardı",
+        "Əxlaqsızlıq içində itən bir xalqı xəbərdar etdi",
+        "Cinlərə, insanlara və küləklərə hökmranlıq verilmişdir"
+      ],
+      "answer": "Bütün qadınların ən ucası kimi şərəfləndirilmişdir"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

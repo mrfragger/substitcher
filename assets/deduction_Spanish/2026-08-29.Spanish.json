@@ -1,0 +1,61 @@
+{
+  "title": "La paciencia que sobrevivió al dolor",
+  "intro": "Un anciano cuya paciencia se volvió legendaria, cuya visión se desvaneció por el dolor, pero cuya fe en el plan divino jamás flaqueó. Este hombre vio crecer a doce hijos hasta convertirlos en los cimientos de las tribus, sufrió la dolorosa pérdida de un hijo muy querido y se convirtió en un símbolo eterno de hermosa paciencia ante el dolor abrumador. Un alma venerada cuya historia se narra en las páginas de la revelación. ¿Puedes identificar a esta figura del Corán?",
+  "clues": [
+    "Fui un profeta cuya historia se narra detalladamente en una sura principal del Corán.",
+    "Tuve doce hijos que se convirtieron en los padres de las tribus de Bani Israel.",
+    "Les dije a mis hijos que entraran por puertas diferentes, para que no fueran reconocidos como un solo pueblo.",
+    "Mis ojos se pusieron blancos de tanto llorar por un hijo al que amaba y que me habían arrebatado.",
+    "Me negué a desesperarme incluso cuando mis otros hijos me instaron a hacerlo, diciéndome que solo me quejaba ante Alá.",
+    "Soy el padre del profeta Yusuf, cuyo nombre significa \"el que aumenta\" en árabe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Yaqub (Jacob)",
+        "Profeta Yusuf",
+        "Profeta Ibrahim",
+        "El profeta Musa",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Yaqub (Jacob)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Pérdida de un hijo querido por un pozo",
+        "La gran inundación que sepultó a todo un pueblo",
+        "La migración desde un reino que adoraba el fuego",
+        "El enfrentamiento con un poderoso tirano de Egipto.",
+        "El exilio al vientre de una ballena"
+      ],
+      "answer": "Pérdida de un hijo querido por un pozo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una camisa manchada con sangre falsa.",
+        "Un bastón que se transformó en serpiente",
+        "Un arca construida sobre una montaña.",
+        "Una camella tallada en roca.",
+        "Un becerro de oro"
+      ],
+      "answer": "Una camisa manchada con sangre falsa."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "La vista se restableció cuando se colocó la camisa de un hijo querido sobre el rostro.",
+        "La salvación tras ser arrojado al vientre de un gran pez.",
+        "Recibir el título de Khalilullah de Allah",
+        "Cruzando el mar con un pueblo liberado de la esclavitud.",
+        "Un arcoíris aparece como un signo de esperanza después del diluvio."
+      ],
+      "answer": "La vista se restableció cuando se colocó la camisa de un hijo querido sobre el rostro."
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

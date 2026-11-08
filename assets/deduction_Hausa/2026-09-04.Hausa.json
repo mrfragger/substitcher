@@ -1,0 +1,61 @@
+{
+  "title": "Waƙar da Ta Matsar da Duwatsu",
+  "intro": "Za ku gano labarin wani bawan Allah mai ban mamaki. A cikin ƙasar manzanni da masu mulki, wannan mutum an albarkace shi da littafin allahntaka, murya mai ƙarfi, da ƙarfi fiye da ƙarfe. Yayin da kuke karanta alamun, za ku iya gano ko wanene wannan?",
+  "clues": [
+    "Ni bawan Allah ne wanda aka ba ni littafi na musamman.",
+    "Ina da murya mai kyau, kuma yabona ya kasance abin so har ma da tuddai da tsuntsaye suka haɗu da ni.",
+    "Na fuskanci wani babban abokin hamayya a wani sanannen yaƙi, kuma duk da cewa ƙanƙanta ne, na yi nasara.",
+    "An yi mini ƙarfe mai laushi, wanda ya ba ni damar ƙera sulke da hannuna.",
+    "An naɗa ni mai mulki a kan babbar al'umma, kuma hikimata ta shari'a ta shahara.",
+    "Ɗana, wanda shi ma annabi ne, an ba shi iko a kan iska da aljanu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Dawud (Dauda)",
+        "Annabi Sulaiman (Annabi Sulaiman)",
+        "Annabi Musa (Annabi Musa)",
+        "Annabi Haruna (Annabi)",
+        "Annabi Ilyas (Iliyas)"
+      ],
+      "answer": "Annabi Dawud (Dauda)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Goliyat da aka Ci (Jalut)",
+        "An raba teku",
+        "Ya tsira daga kifin whale",
+        "An jefa shi cikin wuta",
+        "Gina Jirgin Ruwa"
+      ],
+      "answer": "Goliyat da aka Ci (Jalut)"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Zabur (Zabura)",
+        "Attaura (Taurat)",
+        "Linjila (Injila)",
+        "Littattafan Ibrahim",
+        "Alqur'ani"
+      ],
+      "answer": "Zabur (Zabura)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama annabi kuma sarkin Isra'ila",
+        "Ya zama shugaban ƙasar Masar",
+        "An ɗaga shi zuwa sama",
+        "Guguwa ta lalata ta",
+        "Ya zama abokin kogo"
+      ],
+      "answer": "Ya zama annabi kuma sarkin Isra'ila"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

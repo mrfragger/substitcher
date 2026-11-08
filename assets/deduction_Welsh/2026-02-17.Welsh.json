@@ -1,0 +1,61 @@
+{
+  "title": "Had y Cynnen",
+  "intro": "Cyn i'r byd wybod am wrthdaro eang, datblygodd prawf dwys o ffydd ac ufudd-dod. Mae'r naratif hwn yn archwilio'r dewisiadau a wneir gan unigolyn, y mae ei weithredoedd yn gosod cynsail ar gyfer cenedlaethau'r dyfodol. Paratowch i ddatrys stori enaid sy'n ymgodymu â chenfigen aruthrol a'i chanlyniadau dinistriol.",
+  "clues": [
+    "Roeddwn i ymhlith y plant cyntaf i gerdded y ddaear, plentyn i'r pâr dynol cyntaf un.",
+    "Gorchmynnwyd i mi a fy mrawd offrymu aberth i Allah, prawf o'n didwylledd.",
+    "Ni dderbyniwyd fy offrwm i, tra derbyniwyd offrwm fy mrawd, a llenwodd hyn fy nghalon ag emosiwn ofnadwy.",
+    "Siaradais eiriau bygythiol wrth fy mrawd, wedi fy yrru gan chwerwder gwrthod.",
+    "Ymatebodd fy mrawd gyda doethineb a duwioldeb, gan fy atgoffa o gyfiawnder Allah ac ofn Ef.",
+    "Er gwaethaf geiriau tyner fy mrawd a'i barodrwydd i faddau, cymerais fywyd, gan ddod yn un o'r collwyr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Adam",
+        "Iblis",
+        "Proffwyd Nuh",
+        "Qabil (Cain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Y llifogydd mawr",
+        "Hollti'r môr",
+        "Adeiladu'r Kaaba",
+        "Offrwm yr aberthau",
+        "Y demtasiwn yn yr Ardd"
+      ],
+      "answer": "Offrwm yr aberthau"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr Arch",
+        "Y Staff",
+        "Mynydd Safa",
+        "Yr Aberth",
+        "Y Llwyn Llosgi"
+      ],
+      "answer": "Yr Aberth"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Daeth yn negesydd",
+        "Cafodd ei foddi",
+        "Adeiladodd deyrnas fawr",
+        "Daeth yn enghraifft o edifeirwch",
+        "Rhoddwyd cyfoeth aruthrol iddo"
+      ],
+      "answer": "Daeth yn enghraifft o edifeirwch"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

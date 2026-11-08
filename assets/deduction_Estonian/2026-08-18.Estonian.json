@@ -1,0 +1,61 @@
+{
+  "title": "See, kes teenis suura",
+  "intro": "Kujutage ette alandlikku hinge, kes läheneb ühele Allahi Sõnumitoojale siira südame ja sügava õppimissooviga. Ometi köitis just sel hetkel jõukas ja staatuses inimene Sõnumitooja tähelepanu ning otsijale tehti kulm kortsu. Sellele järgnes terve Koraani peatükk, mis saadeti Sõnumitooja parandamiseks ja otsiva hinge austamiseks.",
+  "clues": [
+    "Tulin Allahi Sõnumitooja juurde avatud südame ja sügava igatsusega juhatuse järele",
+    "Mul polnud pakkuda ilmalikku staatust, vaid alandlik hing, kes otsis tõde",
+    "Mu füüsilised silmad ei näinud, aga mu vaimne nägemine oli selge",
+    "Saabusin ebamugaval hetkel, kui Sõnumitooja oli hõivatud suure mõjuka isikuga",
+    "Kulm kortsus minu poole, aga Allah vastas jumaliku noomitusega",
+    "Olen Abdullah ibn Umm Maktum, pühendunud kaaslane, kelle lugu inspireeris Surah Abasat"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Prooviversioon / üritus",
+      "options": [
+        "Prohveti poolt jõuka inimese pärast äraminek",
+        "Vaenlaste poolt raevukasse tulle paisatud",
+        "Müüakse ja kiusatakse taga orjana",
+        "Võimsa sõdalase poolt duellile kutsumine",
+        "Suure kala poolt alla neelatud"
+      ],
+      "answer": "Prohveti poolt jõuka inimese pärast äraminek"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Koraani peatükk, mis algab kulmukortsutusega (suura Abasa)",
+        "Lõke, mis on tehtud jahedaks ja ohutuks",
+        "Sakk, mis lõhestas võimsa mere",
+        "Kõrgele mäele ehitatud laev",
+        "Kõvastunud savist vormitud lind"
+      ],
+      "answer": "Koraani peatükk, mis algab kulmukortsutusega (suura Abasa)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Allah ilmutas mulle koraanis sura, mis kaitseb mind",
+        "Allah tegi tule minu jaoks jahedaks ja turvaliseks",
+        "Allah lahutas mere, et mind tagaajamisest päästa",
+        "Allah andis mulle suure kuningriigi ja tarkuse",
+        "Allah viis mind taevasse ilma surmata"
+      ],
+      "answer": "Allah ilmutas mulle koraanis sura, mis kaitseb mind"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

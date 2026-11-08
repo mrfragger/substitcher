@@ -1,0 +1,61 @@
+{
+  "title": "Gealltanas a tugadh os cionn smúit",
+  "intro": "Seasann tú le taobh tine fásaigh agus a smúit á scaipeadh go cúramach. Tagann cuairteoirí le haghaidh teagmhála sa chiúnas, agus osclaíonn teachtaireacht aonair scéal gealltanais, iontais, agus todhchaí nár comhlíonadh fós.",
+  "clues": [
+    "Thrasnaíomar an t-achar chun teacht ar sheirbhíseach dílis sa fhásach.",
+    "D’iarr muid go scaipfí sméara chun tine a ullmhú.",
+    "Labhair muid le duine a bhí tar éis glaoch amach chuig lasair le haghaidh fionnuar agus sábháilteachta.",
+    "Thugamar scéala faoi nuabheirthe do dhuine a raibh aois an tsaoil aige chun leanaí a bheith aige.",
+    "Thugamar Íosác mar ainm ar an leanbh geallta.",
+    "Thugamar dea-scéala faoi mhac d’Ibrahim, agus d’fhág an scéal iontach Ibrahim ag gáire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Na hAingil a Thug Dea-Scéal Íosác d'Ibrahim",
+        "Na hAingil a Thug Rabhadh do Lut",
+        "Na hAingil a Iompraíonn an Ríchathaoir",
+        "Aingil Ifrinn",
+        "Na hAingil a Cuireadh chuig Naoi"
+      ],
+      "answer": "Na hAingil a Thug Dea-Scéal Íosác d'Ibrahim"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag tabhairt dea-scéala breith Íosác d’Ibrahim",
+        "Rabhadh do Lut roimh phionós a mhuintire",
+        "Ag fógairt breith Yahya do Zakariyya",
+        "Ag Iompar na Ríchathaoir ar Lá an Bhreithiúnais",
+        "Ag fógairt breith Isa do Maryam"
+      ],
+      "answer": "Ag tabhairt dea-scéala breith Íosác d’Ibrahim"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tine ullmhaithe ó smionagar scaipthe",
+        "Áirc ag snámh ar uisce tuile",
+        "Uaimh séalaithe ag cloch rollta",
+        "Sliabh cré cruaite ag sáile",
+        "Dréimire ag síneadh isteach sa spéir"
+      ],
+      "answer": "Tine ullmhaithe ó smionagar scaipthe"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Dea-scéal faoi mhac darb ainm Íosác",
+        "Dea-scéal faoi mhac darb ainm Yahya",
+        "Roghnú Talut mar rialóir ar Chlann Iosrael",
+        "Rabhadh roimh phionósú mhuintir Lut",
+        "Ordú chun áirc a thógáil roimh an Díle"
+      ],
+      "answer": "Dea-scéal faoi mhac darb ainm Íosác"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

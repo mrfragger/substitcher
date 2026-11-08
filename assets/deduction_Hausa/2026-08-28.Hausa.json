@@ -1,0 +1,61 @@
+{
+  "title": "Abin da Ya Shafa a Tsohon Gidan",
+  "intro": "A cikin birnin mai tsarki, wani mutum mai ƙarfi ya yi fushi yayin da sabon saƙo ya fara yaɗuwa. Wannan mutumin, wanda sunansa ya zama kamar adawa ga gaskiya, ya kalli tasirinsu ya ruguje ƙarƙashin nauyin wahayin Allah. Wanene wannan rai, wanda aka rufe ƙaddararsa a cikin yashi na wani sanannen filin yaƙi?",
+  "clues": [
+    "Ni shugaba ne a cikin mutanena, an san ni da dukiyata da tasirina a cikin birnin da ke da tsohon wurin ibada.",
+    "Lokacin da wani mutum daga ƙabilata ya fara shelar saƙon Allah ɗaya, na yi masa ba'a da wahayinsa, ina kiransu kawai tatsuniyoyi na baya.",
+    "Na fuskanci wannan mutumin yayin da yake yin addu'a kusa da wurin ibada, ina barazanar dakatar da ibadarsa da ƙarfi idan ya zama dole.",
+    "Ina cikin shugabannin da suka yi makirci don su rufe sabuwar addinin, suna adawa da mabiyansa da kalmomi da makamai.",
+    "Na yi tafiya da rundunar sojoji zuwa wani wuri da ake kira Badar, ina da yakinin cewa za mu murkushe ƙaramin ƙungiyar masu imani.",
+    "Amma a wannan fagen daga, rayuwata ta ƙare, kuma mutuwata ta zama darasi ga waɗanda suka dage cikin kafirci bayan alamu bayyanannu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr bin al-Harith",
+        "Umayyah bin Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Hana Annabi yin sallah a Ka'aba",
+        "Gina Ka'aba",
+        "Rubuta Alqur'ani",
+        "Jagorancin rundunar giwa",
+        "Raba wata"
+      ],
+      "answer": "Hana Annabi yin sallah a Ka'aba"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ka'aba",
+        "Jirgin Annabi Nuhu",
+        "Sandar Annabi Musa",
+        "Ɗan Maraƙin Zinare",
+        "Kursiyin Sarauniyar Sheba"
+      ],
+      "answer": "Ka'aba"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An kashe shi a yakin Badr",
+        "Ya tuba ya zama Musulmi",
+        "Na gudu zuwa Habasha",
+        "Ya mutu a shekarar giwa",
+        "Ya zama abokin Annabi"
+      ],
+      "answer": "An kashe shi a yakin Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

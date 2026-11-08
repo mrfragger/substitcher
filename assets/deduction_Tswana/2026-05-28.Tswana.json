@@ -1,0 +1,61 @@
+{
+  "title": "Molwetse yo o sa Reketleng",
+  "intro": "Mo dibukeng tsa hisitori ya boporofeti, ke ba le mmalwa fela ba ba itshoketseng tatlhegelo e e tseneletseng jalo le pogiso ya mmele ka tumelo e e sa reketleng. Kgang ya setshwantsho seno ke thuto e e sa feleng ya bopelotelele le go ikanya botlhale jwa bomodimo. Moya ona ke mang?",
+  "clues": [
+    "Ke ne ka tlhophiwa ke Allah go romela molaetsa, mme teko ya me e kgolo e ne ya tla e seng ka go ganwa, mme ka masetlapelo a botho.",
+    "Khumo ya me, leruo la me le bana ba me di ne tsa tsewa mo go nna, ka go latelana ga tsone.",
+    "Mmele wa me o ne o tletse dintho, mme ke ne ka sala ke le nosi kwantle ga go tshegediwa ke molekane wa me.",
+    "Ke ne ka goela kwa go Morena wa me, ke amogela pogiso ya me le go batla kutlwelobotlhoko ya gagwe.",
+    "Ke ne ka laelwa gore ke iteye fa fatshe ka leoto la me, mme ga tswa motswedi o o lapolosang.",
+    "Allah o ne a busetsa botsogo jwa me mme a nnaya lelapa le lesha le khumo e e fetang e ke neng ke na le yone pele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Ayyub",
+        "Moporofeti Ibrahime",
+        "Moporofeti Musa",
+        "Moporofeti Isa",
+        "Moporofeti Nuh"
+      ],
+      "answer": "Moporofeti Ayyub"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go latlhegelwa ke khumo le lelapa",
+        "Go latlhelwa mo molelong",
+        "Go mediwa ke tlhapi",
+        "Go kgaoganngwa le ba lelapa le go rekisiwa go nna lekgoba",
+        "Go lekwa ka namane ya gauta"
+      ],
+      "answer": "Go latlhegelwa ke khumo le lelapa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Motswedi wa metsi",
+        "Lore lo lo neng lwa fetoga noga",
+        "Areka ya logong",
+        "Namane e e thetsweng",
+        "Setlhare sa mokolane"
+      ],
+      "answer": "Motswedi wa metsi"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Pusetso ya lelapa le khumo",
+        "Tlhatlogo kwa legodimong",
+        "Go nna kgosi",
+        "Go bolokwa mo leruarueng",
+        "Go amogela ngwana wa mosimane mo botsofeng"
+      ],
+      "answer": "Pusetso ya lelapa le khumo"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

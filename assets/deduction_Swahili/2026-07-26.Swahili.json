@@ -1,0 +1,61 @@
+{
+  "title": "Taji Iliyopinga Anga",
+  "intro": "Katika korido za falme za kale, jina la mtawala mmoja likawa mithali ya udhalimu na kiburi. Mtumishi mnyenyekevu wa Mwenyezi Mungu alipofika akiwa na ishara zisizopingika, mtawala huyu mwenye nguvu alikataa kujisalimisha kwa ukweli. Leo, kazi yako ni kumtambua mtu huyu wa hadithi ambaye utawala wake ulibomoka na ambaye hatima yake ilifungwa chini ya mawimbi.",
+  "clues": [
+    "Mimi ndiye mtawala anayeogopwa zaidi ambaye jina lake bado linasikika kama onyo kwa karne nyingi.",
+    "Niliamuru watu wote kufanya kazi kwa minyororo, wakiinua makaburi yaliyotangaza utukufu wangu.",
+    "Mjumbe wa Mwenyezi Mungu alipokuja mbele yangu na ishara zisizopingika, nilikataa kuinama na kuiita uchawi.",
+    "Niliamuru kuuawa kwa watoto wachanga wa kiume miongoni mwa watu waliotekwa, nikitumaini kuwavunja moyo kabla hawajaweza kufufuka.",
+    "Nilisimama mbele ya mahakama yangu na kutangaza, 'Mimi ndiye bwana wenu mkuu,' nikidai kuabudiwa kama mungu.",
+    "Nikiwa na waziri wangu mkuu kando yangu, nilijenga jengo refu lenye lengo la kupanda zaidi ya mbingu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Farao (Firauni)",
+        "Namrud",
+        "Hamani",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Farao (Firauni)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuzama katika Bahari Nyekundu",
+        "Ngamia jike alitumwa kwa watu wa Thamud",
+        "Mafuriko makubwa ya Nuh",
+        "Adhabu ya Masahaba wa Handaki",
+        "Kuangamizwa kwa jeshi la Abraha na ndege"
+      ],
+      "answer": "Kuzama katika Bahari Nyekundu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Jengo refu lililojengwa kwa Hamani",
+        "Safina iliyosafiri juu ya gharika",
+        "Ndama wa dhahabu aliyeumbwa na Samiri",
+        "Kiti cha enzi cha Bilqis, Malkia wa Sheba",
+        "Pango la vijana waliolala"
+      ],
+      "answer": "Jengo refu lililojengwa kwa Hamani"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuzama baharini; mwili umehifadhiwa kama onyo",
+        "Uhamishoni na kulazimishwa kutangatanga nyikani",
+        "Alibadilishwa kuwa nyani kama adhabu",
+        "Imepigwa na tetemeko la ardhi kali",
+        "Imechomwa na mvua ya mawe kutoka angani"
+      ],
+      "answer": "Kuzama baharini; mwili umehifadhiwa kama onyo"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

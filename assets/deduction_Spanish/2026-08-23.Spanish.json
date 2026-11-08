@@ -1,0 +1,61 @@
+{
+  "title": "La multitud desaparecida",
+  "intro": "Te encuentras ante los ecos de una comunidad cuya historia está escrita en las olas. Estas almas escucharon un llamado, eligieron la rebeldía y afrontaron una consecuencia que transformó la tierra. ¿Quiénes son y qué fue de su mundo?",
+  "clues": [
+    "Vivíamos hace mucho tiempo, y un mensajero vino a nosotros de entre nosotros mismos.",
+    "Adorábamos a cinco ídolos y nos negábamos a abandonarlos.",
+    "Nos burlamos del mensajero y lo acusamos de estar extraviado.",
+    "Le exigimos que trajera el castigo si decía la verdad.",
+    "Vimos cómo el cielo descargaba una lluvia torrencial y la tierra brotaba manantiales.",
+    "Subimos a lugares altos para escapar, pero las olas nos alcanzaron."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Pueblo de Nuh",
+        "Gente de 'Anuncio'",
+        "Gente de Thamud",
+        "Pueblo de Lut",
+        "Pueblo de Madyan"
+      ],
+      "answer": "Pueblo de Nuh"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Nos ahogamos en una gran inundación.",
+        "Fuimos devastados por un huracán.",
+        "Morimos a causa de una fuerte explosión.",
+        "Fuimos engullidos por la tierra.",
+        "Nos llovieron piedras del cielo."
+      ],
+      "answer": "Nos ahogamos en una gran inundación."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una gran inundación",
+        "Un viento violento",
+        "Una lluvia de piedras",
+        "Una explosión de fuego",
+        "Un terremoto"
+      ],
+      "answer": "Una gran inundación"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Todos perecimos excepto los creyentes con Noé.",
+        "Nos transformamos en simios",
+        "Nos dejaron como ruinas para los viajeros.",
+        "Nos convirtieron en sal",
+        "Nos dieron un respiro"
+      ],
+      "answer": "Todos perecimos excepto los creyentes con Noé."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

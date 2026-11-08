@@ -1,0 +1,61 @@
+{
+  "title": "Mavondzo Lama Dyaka",
+  "intro": "Ntsheketo wa khale ku tlula mfumo wihi na wihi kumbe tsalwa—khombo ro sungula ra vanhu leri velekiweke hi mavondzo. Moya-xiviri wun’wana, lonkulu eka vana vambirhi lava velekiweke hi vatswari vo sungula, u hlalele hi vukarhi loko makwavo lontsongo a kuma tintswalo leti ariweke. Leswi landzeleke a ku ri ku hlawula ka munyama swinene, ku siya ngati yo sungula leyi tshameke yi halatiwa emisaveni. Xana u nga paluxa vumunhu, ndzingo ni ku tisola lokukulu?",
+  "clues": [
+    "Ndzi velekiwe hi mpatswa wo sungula swinene wa vanhu ku famba emisaveni.",
+    "Ndzi tshame ndzi endla gandzelo eka Allah, kambe a ri amukeriwanga eka mina.",
+    "Nyiko ya makwerhu wa mina yi amukeriwile, kasi ya mina yi ariwile—ku nga nchumu lowu a ndzi nga swi koti ku tiyisela.",
+    "Ndzi xungetile makwerhu wa mina hi ku lovisa.",
+    "Ndzi ve wo sungula ku dlaya emisaveni leyi, ndzi teka vutomi bya makwerhu wa mina.",
+    "Allah u rhumele xivumbiwa xa misava—xinyenyana xa ntima lexi cela ehansi—ku ndzi dyondzisa ndlela yo fihla leswi ndzi swi endleke, naswona ndzi sale ndzi nga ri na nchumu handle ko tisola."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Kabil (Kayini) .",
+        "Habil (Abele) .",
+        "Muprofeta Yaqub",
+        "Muprofeta Musa",
+        "Muprofeta Adamu"
+      ],
+      "answer": "Kabil (Kayini) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Gandzelo leri ariweke hi Allah",
+        "Ku lahleriwa endzilweni lowukulu",
+        "U tshikiwile tanihi n’wana enambyeni",
+        "Ku ringiwa hi mfumo lowukulu swinene",
+        "Ku lerisiwe ku endla gandzelo hi n’wana wa yena"
+      ],
+      "answer": "Gandzelo leri ariweke hi Allah"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ximanga lexi rhumeriweke hi Allah",
+        "Rhole ra nsuku",
+        "Areka leyi nga ehenhla ka ntshava",
+        "Xihlahla lexi pfurhaka",
+        "Kamela ya xisati leyi vatliweke eribyeni"
+      ],
+      "answer": "Ximanga lexi rhumeriweke hi Allah"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U sungule ku tala hi ku tisola naswona a ri exikarhi ka lava hluriweke",
+        "Ku mitiwa emisaveni swin’we ni xuma",
+        "U ve murhumiwa wo xiximeka wa Allah",
+        "U nghene eParadeyisini hi tintswalo ta Xikwembu",
+        "U fume mfumo lowu nga ringanisiwiki na nchumu"
+      ],
+      "answer": "U sungule ku tala hi ku tisola naswona a ri exikarhi ka lava hluriweke"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

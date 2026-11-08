@@ -1,0 +1,61 @@
+{
+  "title": "La confiance confiée à la rivière",
+  "intro": "Une âme se trouva confrontée à un décret impossible, où la vie d'un nouveau-né était en jeu. Guidée par une inspiration divine, elle obéit à un ordre désespéré et confia un précieux secret au gré du courant, pour finalement être restitué d'une manière imprévue.",
+  "clues": [
+    "J'ai vécu sous l'ombre d'un tyran qui ordonnait le massacre des nouveau-nés mâles.",
+    "J'ai reçu une inspiration divine me sommant d'entreprendre une action désespérée et déchirante.",
+    "J'ai placé mon précieux enfant dans un coffre et je l'ai posé sur le fleuve qui coulait.",
+    "Mon cœur s'est vidé et j'ai failli révéler le secret, mais Allah a renforcé ma détermination.",
+    "J'ai envoyé quelqu'un suivre le parcours de l'enfant en aval, tandis que le courant emportait le coffre.",
+    "L'enfant fut trouvé par la maisonnée du tyran, et finalement, je retrouvai mon enfant et devins sa nourrice."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Mère du prophète Moïse",
+        "Asiya (épouse du Pharaon)",
+        "Marie (Mère du prophète Isa)",
+        "L'épouse du prophète Lot",
+        "La mère du prophète Yahya (épouse de Zakariya)"
+      ],
+      "answer": "Mère du prophète Moïse"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Elle plaça son enfant dans un coffre et le déposa sur la rivière",
+        "Elle a caché son enfant dans une grotte",
+        "Elle a abandonné son enfant dans le désert",
+        "Elle a jeté son enfant dans le feu",
+        "Elle a laissé son enfant à la porte d'une mosquée"
+      ],
+      "answer": "Elle plaça son enfant dans un coffre et le déposa sur la rivière"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un coffre flottant sur la rivière",
+        "Un buisson ardent",
+        "Un bâton qui s'est transformé en serpent",
+        "Une table garnie de mets célestes",
+        "Une chamelle envoyée comme signe"
+      ],
+      "answer": "Un coffre flottant sur la rivière"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Elle a retrouvé son enfant et l'a allaité.",
+        "Elle ne revit jamais son enfant.",
+        "Elle fut exécutée par le tyran.",
+        "Elle devint reine en Égypte",
+        "Elle a émigré vers un autre pays et a vécu en exil"
+      ],
+      "answer": "Elle a retrouvé son enfant et l'a allaité."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

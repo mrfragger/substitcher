@@ -1,0 +1,61 @@
+{
+  "title": "Olu sitere n'akụkụ ndị dị n'èzí",
+  "intro": "I guzoro n'obodo ebe ndị ozi atọ ji ihe ịrịba ama doro anya bịa, mana ndị mmadụ na-akwa ha emo ma na-agbaso ụzọ ochie ha. Site n'akụkụ kacha anya nke obodo ahụ, otu onye gbapụrụ gaa n'ebe ìgwè mmadụ ahụ nọ, na-eku ume ma kpebisie ike ikwu eziokwu n'agbanyeghị na a jụrụ ya. Ònye bụ mkpụrụ obi a nke tinyere ihe niile n'ihe ize ndụ maka ozi na-abụghị nke ha?",
+  "clues": [
+    "Ebi m n'etiti ndị nabatara ndị ozi nwere ihe ịrịba ama doro anya, mana ha tụgharịrị azụ n'anya nganga.",
+    "M si n'akụkụ kacha anya nke obodo ahụ gbapụ mgbe m nụrụ oku ndị ozi ahụ.",
+    "Agwara m ndị m, sị, 'Ndị m, soro ndị ozi ahụ. Soro ndị na-anaghị arịọ unu ụgwọ ọrụ, n'ihi na ha bụ ndị nduzi ziri ezi.'",
+    "Abụghị m onye amụma, mana ekwere m na ndị ozi ma gbaa ndị m ume ka ha mee otu ihe ahụ.",
+    "Ndị m na-akwa m emo na ndụmọdụ m ma na-ebo m ebubo na m bụ onye na-eme ihe ike.",
+    "Mgbe ha gburu m, Allah gwara m ka m banye na Paradaịs, ọ dịkwa m ka ndị m mara mgbaghara na nsọpụrụ m natara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Nwoke si n'akụkụ kacha anya nke obodo ahụ (Ya-Sin)",
+        "Otu n'ime ndị ozi atọ e zigara n'obodo ahụ",
+        "Onye ahịa a ma ama n'obodo ahụ",
+        "Onye ọchịchị obodo ahụ",
+        "Onye ndu ndị na-ekweghị ekwe"
+      ],
+      "answer": "Nwoke si n'akụkụ kacha anya nke obodo ahụ (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ikwusara ndị ya ozi ọma ka ha soro ndị ozi ya",
+        "Ịrụ ụgbọ mmiri iji zọpụta ndị kwere ekwe n'ime mmiri",
+        "Ịtụba n'ime ọkụ maka okwukwe",
+        "Ịla whale n'iyi",
+        "Ịbụ onye e nyere alaeze na amamihe"
+      ],
+      "answer": "Ikwusara ndị ya ozi ọma ka ha soro ndị ozi ya"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Akụkụ kachasị anya nke obodo ahụ",
+        "Ụgbọ ahụ",
+        "Olulu mmiri ahụ",
+        "Osisi ahụ na-ere ọkụ",
+        "Ọgba ahụ"
+      ],
+      "answer": "Akụkụ kachasị anya nke obodo ahụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Banyere na Paradaịs ma chọọ ka ndị ya mara mgbaghara ya",
+        "Mmiri riri ya na ndị ya maka ịjụ ozi ahụ",
+        "E nyere ya ọrụ ebube nke nne-kamel",
+        "Aghọrọ onye ọchịchị mgbe ikpe ya gasịrị",
+        "Allah zọpụtara ya ma nọgide na ndị ya"
+      ],
+      "answer": "Banyere na Paradaịs ma chọọ ka ndị ya mara mgbaghara ya"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

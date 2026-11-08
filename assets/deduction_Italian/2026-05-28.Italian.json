@@ -1,0 +1,61 @@
+{
+  "title": "Il paziente incrollabile numero uno",
+  "intro": "Negli annali della storia profetica, pochi hanno sopportato una perdita così profonda e una sofferenza fisica così intensa con una fede incrollabile. La storia di questa figura è una lezione senza tempo di pazienza e fiducia nella saggezza divina. Chi è quest'anima?",
+  "clues": [
+    "Sono stato scelto da Allah per trasmettere un messaggio, ma la mia prova più grande non è stata il rifiuto, bensì una calamità personale.",
+    "Mi hanno portato via, uno dopo l'altro, le mie ricchezze, il mio bestiame e i miei figli.",
+    "Il mio corpo era coperto di piaghe e fui lasciata sola, a eccezione del sostegno di mio marito.",
+    "Ho invocato il Signore, riconoscendo la mia sofferenza e implorando la Sua misericordia.",
+    "Mi fu chiesto di battere il piede a terra e ne sgorgò una sorgente rinfrescante.",
+    "Allah mi ha restituito la salute e mi ha donato una nuova famiglia e persino più ricchezze di prima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Ayyub",
+        "Profeta Ibrahim",
+        "Profeta Mosè",
+        "Profeta Isa",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Perdita di ricchezza e famiglia",
+        "Essere gettato nel fuoco",
+        "Essere inghiottito da un pesce",
+        "Essere separati dalla famiglia e venduti come schiavi.",
+        "Essere testato con un vitello d'oro"
+      ],
+      "answer": "Perdita di ricchezza e famiglia"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una sorgente d'acqua",
+        "Un bastone che si è trasformato in un serpente",
+        "Un'arca di legno",
+        "Un vitello fuso",
+        "Una palma"
+      ],
+      "answer": "Una sorgente d'acqua"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Restaurazione della famiglia e del patrimonio",
+        "Ascensione al cielo",
+        "Diventare re",
+        "Essere salvati da una balena",
+        "Ricevere un figlio in età avanzata"
+      ],
+      "answer": "Restaurazione della famiglia e del patrimonio"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Testen av den karrige fjellet",
+  "intro": "Et samfunn, dyktig og stolt, hugget sin arv inn i fjellene. Men da et klart tegn ble sendt til dem, en prøve på tro og tilbakeholdenhet, ledet arroganse dem ned en vei uten vei tilbake. Kan du identifisere denne gruppen og konsekvensen av deres trass?",
+  "clues": [
+    "Vi var mestere i stein, og hugget ut praktfulle boliger rett inn i fjellsidene.",
+    "Et budbringer fra vårt eget folk kom til oss og kalte oss til å tilbe den ene sanne Gud.",
+    "Vi krevde et tegn for å bevise hans ord, og en unik skapning ble ført frem som en prøve for oss.",
+    "Vi fikk en enkel kommando: å dele vannkilden vår med denne skapningen, og la den drikke på den angitte dagen.",
+    "I vår arroganse konspirerte noen få blant oss, og vi trosset advarselen og slo ned skapningen som var ment å være vårt tegn.",
+    "Vi fikk tre dager før vår undergang, og så grep en mektig vindpust oss i hjemmene våre og etterlot oss livløse og veltet omkull."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Folket i 'Ad",
+        "Folket i Madyan",
+        "Folket i Thamud",
+        "Folket på Saba",
+        "Folket i Lut"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Hva var vår primære test?",
+      "options": [
+        "Å bygge en ark for å overleve en flom",
+        "Motstå trangen til å fiske på sabbaten",
+        "Gi opp uredelig forretningspraksis",
+        "Beskyttelse av en mirakuløs hunnkamel",
+        "Å tåle en syv år lang hungersnød"
+      ],
+      "answer": "Beskyttelse av en mirakuløs hunnkamel"
+    },
+    "location": {
+      "label": "Hva var det sentrale elementet i historien vår?",
+      "options": [
+        "Den gylne kalven",
+        "Hunkamelen",
+        "Profeten Musas stav",
+        "Den store demningen av Ma'rib",
+        "Bordet dekket fra himmelen"
+      ],
+      "answer": "Hunkamelen"
+    },
+    "outcome": {
+      "label": "Hva var vår endelige skjebne?",
+      "options": [
+        "Druknet i en stor flom",
+        "Forvandlet seg til aper og svin",
+        "Overveldet av en voldsom vind",
+        "Spredt av en demningsbrudd",
+        "Ødelagt av et kraftig eksplosjon/jordskjelv"
+      ],
+      "answer": "Ødelagt av et kraftig eksplosjon/jordskjelv"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

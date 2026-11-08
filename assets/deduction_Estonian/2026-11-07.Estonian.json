@@ -1,0 +1,61 @@
+{
+  "title": "tähistaevas kindluse otsingul",
+  "intro": "Kujutage ette, et seisate avara öötaeva all, jälgite eredate tulede tõusu ja hääbumist, otsides samal ajal seda, mis väärib tõeliselt pühendumist. Teie ümber saavad vaiksed nikerdatud kujud kiitust ja ohverdusi, kuid selge mõistus seab kahtluse alla nende väe. Kartmatu hääl on kohe-kohe esitamas väljakutse päritud traditsioonile ja osutamas taevaste ja maa Loojale.",
+  "clues": [
+    "Ma vaatasin tähti, kuud ja päikest ning arutlesin, et need ei saa olla minu Issand, sest nad loojuvad ja kaovad.",
+    "Ma eitasin avalikult seda, mida mu rahvas peale Allahi kummardas, ja kutsusin neid üles kummardama üksnes Loojat.",
+    "Ma vaidlesin hoopleva valitsejaga, kes väitis end andvat elu ja surma, ning vastasin, mainides, et Allah toob päikese idast.",
+    "Ma lõin ebajumalaid ja purustasin need, jättes alles vaid suurima, et rahvas saaks selle juurde tagasi pöörduda.",
+    "Mu rahvas haaras mind kinni ja mõistis hukka, käskides mul ehitada ehitis ja visata mind lõõmavasse tulle.",
+    "Mind päästeti, kui Allah käskis tulel olla mulle jahedaks ja turvaliseks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ibrahim (Aabraham)",
+        "Prohvet Jahja (Johannes)",
+        "Prohvet Al-Yasa (Eliisa)",
+        "Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Prohvet Ibrahim (Aabraham)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Astus vastu ebajumalakummardamisele ja arutas taevakehade tähendust",
+        "Pärast vihast lahkumist neelas suur kala ta alla",
+        "Juhtis järgijaid läbi mere, mille Allah lahutas",
+        "Tõusis taevasse ilma surma maitsemata",
+        "Magas aastaid kaaslastega koopas"
+      ],
+      "answer": "Astus vastu ebajumalakummardamisele ja arutas taevakehade tähendust"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Allahi poolt jahedaks ja turvaliseks tehtud lõõmav tuli",
+        "Laev, mis kandis usklikke läbi veeuputuse",
+        "Personal, mis muutus maoks",
+        "Taevast laotatud laud",
+        "Märgina saadetud emane kaamel"
+      ],
+      "answer": "Allahi poolt jahedaks ja turvaliseks tehtud lõõmav tuli"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Kaitstud tule eest ja saanud õiglased järeltulijad",
+        "Uppusid koos eitajatega suures üleujutuses",
+        "Muutus hingamispäeva rikkumise pärast",
+        "Savi kive kandvate lindude poolt hävitatud",
+        "Maa aaretega alla neelatud"
+      ],
+      "answer": "Kaitstud tule eest ja saanud õiglased järeltulijad"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

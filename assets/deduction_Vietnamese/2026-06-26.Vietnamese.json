@@ -1,0 +1,61 @@
+{
+  "title": "Gánh nặng của một món quà bị từ chối",
+  "intro": "Vào buổi bình minh của lịch sử loài người, khi trái đất còn non trẻ và thế giới vừa chớm nở hơi thở đầu tiên, một linh hồn đã đứng trước Đấng Tạo Hóa với một lễ vật khiêm nhường. Lễ vật ấy được cân nhắc trên cán cân chấp nhận của thần thánh — và bị đánh giá là thiếu sót. Điều xảy ra sau đó không phải là câu chuyện về sự tha thứ, mà là về một trái tim bị lòng ghen tị giày vò, dẫn đến một hành động không thể đảo ngược sẽ vang vọng suốt chiều dài lịch sử. Đây là câu chuyện về một người mà tên tuổi của ông ta trở nên đồng nghĩa với tội ác nghiêm trọng đầu tiên từng được gây ra.",
+  "clues": [
+    "Tôi chào đời là một trong những đứa trẻ đầu tiên được sinh ra, con của một người cha hoặc mẹ mà câu chuyện của họ chắc hẳn các bạn đã biết rõ.",
+    "Tôi từng dâng lễ vật lên Allah, nhưng lễ vật của tôi không được chấp nhận — trong khi lễ vật của anh chị em tôi lại được đón nhận một cách ân cần.",
+    "Lòng đố kỵ và sự giận dữ nảy sinh trong tim tôi, và tôi đã đe dọa sẽ giết chết chính người thân của mình.",
+    "Anh chị em của tôi đã cảnh báo tôi phải kính sợ Allah, nhưng lòng kiêu hãnh không cho phép tôi nghe theo.",
+    "Trong một khoảnh khắc yếu đuối tột cùng, tôi đã gây ra một hành động tàn ác không thể tha thứ đối với chính anh trai mình.",
+    "Sau đó, tôi thậm chí không biết làm thế nào để che giấu những gì mình đã làm — cho đến khi một sinh vật từ trái đất được phái đến để dạy tôi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Con trai của Tiên tri Nuh",
+        "Tiên tri Isma'il",
+        "Tiên tri Yusuf"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Việc dâng lễ vật nhưng bị từ chối, dẫn đến vụ giết người đầu tiên.",
+        "Xây dựng một tòa tháp cao vút để vươn tới trời cao.",
+        "Bị ném vào ngọn lửa dữ dội vì đức tin của mình",
+        "Hy sinh con trai mình để vâng phục Allah.",
+        "Bị cá lớn nuốt chửng vì trốn tránh nhiệm vụ"
+      ],
+      "answer": "Việc dâng lễ vật nhưng bị từ chối, dẫn đến vụ giết người đầu tiên."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một con quạ được Allah phái đến để minh họa cho việc chôn cất.",
+        "Một trận đại hồng thủy đã nhấn chìm toàn bộ một dân tộc.",
+        "Một cây gậy biến thành một con rắn sống.",
+        "Một con lạc đà cái xuất hiện từ một ngọn núi đá.",
+        "Một ngai vàng tráng lệ được những cơn gió mạnh mẽ nâng đỡ."
+      ],
+      "answer": "Một con quạ được Allah phái đến để minh họa cho việc chôn cất."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Trở nên hối hận, bị đè nặng bởi tội lỗi đầu đời đã gây ra.",
+        "Được Allah tha thứ và ban cho Thiên đường vĩnh cửu.",
+        "Được nâng lên vị trí cao trong lĩnh vực tiên tri và trí tuệ.",
+        "Tôi đã được cứu rỗi nhờ lòng thương xót của Chúa sau khi kêu cầu từ vực sâu tăm tối.",
+        "Được ban quyền thống trị thần linh, gió và biển cả."
+      ],
+      "answer": "Trở nên hối hận, bị đè nặng bởi tội lỗi đầu đời đã gây ra."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

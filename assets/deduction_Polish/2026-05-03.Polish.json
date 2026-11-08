@@ -1,0 +1,61 @@
+{
+  "title": "Drzemiący poszukiwacze prawdy",
+  "intro": "Wyobraź sobie czasy, gdy wiara została wystawiona na próbę, a grupa dusz wybrała niezachwiane przekonanie zamiast ziemskiego komfortu. Stając przed trudnym wyborem, szukali schronienia, wyruszając w podróż, która zakończyła się niezwykłym snem. Ich historia jest świadectwem boskiej ochrony i mocy wiary w walce z uciskiem. Czy potrafisz rozpoznać tożsamość tych niezwykłych osób?",
+  "clues": [
+    "Byliśmy małą grupą, zjednoczoną głęboką wiarą w Jednego Stwórcę.",
+    "Żyliśmy w czasach, gdy potężny władca żądał oddawania czci komukolwiek innemu niż Allah.",
+    "Aby zachować naszą wiarę, postanowiliśmy opuścić nasze domy i uciec przed uciskiem.",
+    "W naszej podróży towarzyszył nam wierny towarzysz, istota z ziemi.",
+    "Znaleźliśmy schronienie w odosobnionym miejscu, gdzie Allah pozwolił nam zapaść w głęboki, długi sen.",
+    "Kiedy się obudziliśmy, wydawało nam się, że minął zaledwie dzień lub jego część, lecz tak naprawdę minęły stulecia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z rowu",
+        "Ludzie z Thamud",
+        "Ludzie Saby",
+        "Ludzie jaskini",
+        "Ludzie Madyanu"
+      ],
+      "answer": "Ludzie jaskini"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Poddanie się próbie na jałowej ziemi",
+        "W obliczu wielkiej powodzi",
+        "Szukanie schronienia przed tyranem",
+        "Wrzucenie do płonącego ognia",
+        "Wyzwanie magii czarodzieja"
+      ],
+      "answer": "Szukanie schronienia przed tyranem"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wspaniały pałac",
+        "Statek/arka",
+        "Głęboka studnia",
+        "Jaskinia",
+        "Wznosząca się góra"
+      ],
+      "answer": "Jaskinia"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Otrzymanie królestwa",
+        "Cudowny sen trwający wieki",
+        "Pochłonięty przez ziemię",
+        "Ocalenie przed niszczycielską burzą",
+        "Otrzymanie niebiańskiego stołu"
+      ],
+      "answer": "Cudowny sen trwający wieki"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

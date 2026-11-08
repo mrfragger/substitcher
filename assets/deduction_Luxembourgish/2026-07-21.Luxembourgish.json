@@ -1,0 +1,61 @@
+{
+  "title": "De Fluch vun der iwwerflësseger Ernte",
+  "intro": "An engem ale Land stoung eng gewësse Séil ënner de Räichsten aus hirer Gemeinschaft. Zweemol d'Seegen vun der Äerd waren hinnen a Joren hannereneen komm, eng duebel Ernte, déi hiert Häerz mat Dankbarkeet hätt solle fëllen. Wéi awer eng Tragödie geschitt ass an alles wat se besëtzen an enger eenzeger Nuecht geklaut gouf, huet hir Reaktioun déi richteg Natur vun hirer Séil opgedeckt. Kënnt Dir d'Identitéit vun dëser Figur entdecken, där hir Geschicht als Warnung virum Onglauben un d'Seegen vun Allah déngt?",
+  "clues": [
+    "Ech war zu de glécklechste Séilen am ganze Land, geseent mat iwwerflësseger Versuergung.",
+    "Zweemol ass d'Ernte iwwer zwee Joer bei mech komm, awer mäin Häerz ass mengem Här ondankbar bliwwen.",
+    "Ech hat e grousse Gaart mat Rebe, Oliven a Palmen - e Beweis vun der Gonscht vum Allah.",
+    "Wéi mäi Gaart zerstéiert gouf, stoung ech a senge Ruine mat ausgestreckten Hänn an den Himmel a verflucht mäi Schicksal.",
+    "Ech hunn ofgestridden, datt Allah sou e Verloscht hätt kënne verursaachen, och wann ech meng Handflächen aus Verzweiflung zerquetscht hunn.",
+    "Meng Strof war net nëmmen de Verloscht vu mengem Gaart, mee komplett hëlleflos a senge Ruine gelooss ze ginn, net fäeg op iergendeen Hëllefer ze ruffen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Besëtzer vum Gaart a Surah 26",
+        "De Besëtzer vun zwéi Gäert aus engem wäiten Land",
+        "Eng räich Séil aus der Stad vum Wuelstand",
+        "De Bauer ernimmt an Surah Al-Kahf",
+        "E Wéngertbesëtzer aus der Zäit vum Prophet Schu'aib"
+      ],
+      "answer": "De Besëtzer vum Gaart a Surah 26"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Verloscht vun engem Gaart, deen an enger eenzeger Nuecht zerstéiert gouf",
+        "Déi grouss Iwwerschwemmung, déi d'Äerd bedeckt huet",
+        "Mat richtegen a falschen Prophéiten op d'Prouf gestallt ginn",
+        "De Prozess, an d'Feier gehäit ze ginn",
+        "De Prozess, vun der Äerd verschléckt ze ginn"
+      ],
+      "answer": "Verloscht vun engem Gaart, deen an enger eenzeger Nuecht zerstéiert gouf"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Gaart mat Rebe, Oliven a Palmen, deen iwwer zwee Joer zerstéiert gouf",
+        "E Schëff, dat op engem héije Bierg gebaut gouf",
+        "D'Stad vun enger iwwergräifender Natioun",
+        "E Brunn am antike Midian",
+        "De Floss vum Paradäis"
+      ],
+      "answer": "E Gaart mat Rebe, Oliven a Palmen, deen iwwer zwee Joer zerstéiert gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Total Hëllefslosegkeet - zerstéiert ouni Hëllefer",
+        "Operstéiung fir an d'Paradies ze kommen",
+        "E Prophet vun Allah ze ginn",
+        "D'Leedung vun enger grousser Natioun",
+        "Éiweg Strof am Feier"
+      ],
+      "answer": "Total Hëllefslosegkeet - zerstéiert ouni Hëllefer"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

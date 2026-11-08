@@ -1,0 +1,61 @@
+{
+  "title": "Luja todistaja",
+  "intro": "Syvällinen kertomus avautuu ja paljastaa yhteisön horjumattoman päättäväisyyden valtavan tyrannian edessä. Heidän tarinansa toimii todisteena uskosta, jopa äärimmäisen uhrauksen edessä. Tämä kertomus muistuttaa meitä uskon voimasta musertavaa sortoa vastaan.",
+  "clues": [
+    "Olimme ryhmä, jonka tarina kerrotaan lyhyessä, vaikuttavassa suurassa, joka varoitti vainosta.",
+    "Kohtasimme hallitsijan, joka halusi hävittää uskomme Yhteen Jumalaan, Valtaistuimen Herraan, Ylistettyyn.",
+    "Meidät koeteltiin hirvittävällä kokeella, johon liittyi valtava kuoppa kaivettu maahan.",
+    "Katselimme, kuinka uskovat, myös imeväiset, heitettiin raivoavaan helvettiin tuossa kuilussa.",
+    "Kiusaajamme kirottiin teoistaan, kun taas meille luvattiin valtava palkkio periksiantamattomuudestamme.",
+    "Hallitsijan yritys sammuttaa uskomme vain vahvisti asemaamme marttyyreina Allahin edessä, joka on kaiken todistaja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Thamudin kansa",
+        "'Ad:n ihmiset",
+        "Ojan ihmiset",
+        "Lutin kansa",
+        "Norsun kansa"
+      ],
+      "answer": "Ojan ihmiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri tulva",
+        "Palava pensas",
+        "Hukkuminen mereen",
+        "Tulinen kuoppa",
+        "Maanjäristys"
+      ],
+      "answer": "Tulinen kuoppa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Oja",
+        "Vuori",
+        "Kaivo"
+      ],
+      "answer": "Oja"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Myönnettiin valtakunta",
+        "Pelastuivat ihmeen kaupalla",
+        "Saavutti marttyyrikuoleman ja paratiisin",
+        "Olivat hajallaan mailla",
+        "Annettiin valtavat rikkaudet"
+      ],
+      "answer": "Saavutti marttyyrikuoleman ja paratiisin"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A envexa que consumiu",
+  "intro": "Un conto máis antigo que calquera reino ou escritura: a primeira traxedia humana nada dos celos. Unha alma, a maior de dous fillos nacidos dos primeiros pais, viu con furia como un irmán máis novo recibía un favor que lle fora negado. O que seguiu foi a máis escura das eleccións, deixando atrás o primeiro sangue xamais derramado sobre a terra. Poderás descubrir a identidade, a proba e o amargo arrepentimento?",
+  "clues": [
+    "Nacín da primeira parella de humanos que pisou a terra.",
+    "Unha vez fixen unha ofrenda a Alá, pero non a aceptou.",
+    "A ofrenda do meu irmán foi aceptada, mentres que a miña foi rexeitada, algo que eu non podía soportar.",
+    "Ameacei ao meu propio irmán con destruílo.",
+    "Convertinme no primeiro en cometer un asasinato nesta terra, quitándolle a vida ao meu propio irmán.",
+    "Alá enviou unha criatura da terra —un paxaro negro que escavaba na terra— para ensinarme a ocultar o que fixera, e non me quedou nada máis que arrepentimento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Qabil (Caín)",
+        "Habil (Abel)",
+        "Profeta Yaqub",
+        "Profeta Moisés",
+        "Profeta Adán"
+      ],
+      "answer": "Qabil (Caín)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Ofrenda rexeitada por Alá",
+        "Lanzado a un gran lume",
+        "Abandonado nun río cando era un bebé",
+        "Probado cun reino inmenso",
+        "Ordenado sacrificar o fillo de alguén"
+      ],
+      "answer": "Ofrenda rexeitada por Alá"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O corvo enviado por Alá",
+        "O becerro de ouro",
+        "A arca sobre o monte",
+        "A sarza ardente",
+        "A cameloa esculpida na rocha"
+      ],
+      "answer": "O corvo enviado por Alá"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Encheuse de arrepentimento e entre os perdedores",
+        "Tragado na terra xunto con tesouros",
+        "Converteuse nun nobre mensaxeiro de Alá",
+        "Entrou no Paraíso pola misericordia divina",
+        "Gobernou sobre un reino sen igual"
+      ],
+      "answer": "Encheuse de arrepentimento e entre os perdedores"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

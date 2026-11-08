@@ -1,0 +1,61 @@
+{
+  "title": "La patience de l'âme affligée",
+  "intro": "Dans les annales de l'histoire figure une figure dont le nom est synonyme de persévérance. Cet homme, mis à l'épreuve par la perte de tout confort terrestre, est resté un serviteur dévoué du Créateur. Malgré des années de souffrance et de maladie, son cœur est demeuré ancré dans la foi, offrant un phare d'espoir à tous ceux qui affrontent l'adversité.",
+  "clues": [
+    "J'étais une servante dévouée d'Allah, comblée de richesses, mère de nombreux enfants et en excellente santé.",
+    "Ma vie a basculé lorsque j'ai été dépouillé de mes richesses et de ma famille, ne me laissant avec rien d'autre que ma foi.",
+    "J'étais atteint d'une maladie longue et douloureuse qui a mis à rude épreuve les limites de l'endurance humaine.",
+    "Tout au long de mes souffrances, j'ai refusé de me plaindre contre mon Seigneur, même lorsque l'adversaire a essayé de me faire désespérer.",
+    "Lorsque j'ai finalement imploré mon Seigneur, je n'ai pas demandé de richesses, mais j'ai simplement reconnu que la détresse m'avait touché.",
+    "On m'a dit de frapper le sol du pied, et de là jaillit une source d'eau fraîche pour guérir mon corps et étancher ma soif."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Yaqub",
+        "Prophète Ayyub",
+        "Le prophète Zacharie",
+        "Prophète Yahya",
+        "Prophète Shu'ayb"
+      ],
+      "answer": "Prophète Ayyub"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Des années de maladie grave et de pertes",
+        "Être jeté dans un puits profond",
+        "Être avalé par un poisson géant",
+        "Face à un tyran dans un feu",
+        "Un long voyage à la recherche d'un professeur"
+      ],
+      "answer": "Des années de maladie grave et de pertes"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un bâton qui a fendu la mer",
+        "Une chemise qui sentait bon le pays",
+        "Une source d'eau aux vertus curatives",
+        "Une montagne réduite en poussière",
+        "Une grotte de sommeil profond"
+      ],
+      "answer": "Une source d'eau aux vertus curatives"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Devenir gouverneur d'un grand pays",
+        "Mener une armée à la victoire",
+        "Rétablissement de la santé et de la famille",
+        "Construire un lieu de culte sacré",
+        "Recevoir une table dressée par le ciel"
+      ],
+      "answer": "Rétablissement de la santé et de la famille"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

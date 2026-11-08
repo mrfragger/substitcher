@@ -1,0 +1,60 @@
+{
+  "title": "Enigma na Ríchathaoir i bhfad i gcéin",
+  "intro": "Bhí dúshlán aisteach roimh mhonarc cumhachtach, a raibh smacht neamhghnách air, a bhain le banríon ó thír i bhfad i gcéin. Rinne an monarc iarracht cumhacht agus eagna dhiaga a léiriú, rud a chuir imeacht dochreidte i ngníomh a sháraigh dlíthe ama agus spáis. An féidir leat sonraí an eachtra mhíorúilteach seo a thuiscint?",
+  "clues": [
+    "Bronnadh cumhacht ollmhór ar rialóir, lena n-áirítear smacht ar chréatúir dofheicthe agus an cumas na gaotha a threorú.",
+    "Fuair ​​an rialóir seo scéala faoi bhanríon shaibhir a raibh adhradh aici don ghrian, agus shocraigh sé í a thabhairt chun na cúirte.",
+    "Roimh theacht na banríona, léirigh an rialóir mian a suíochán cumhachta iontach a thabhairt óna ríocht i bhfad i gcéin.",
+    "Thairg jinn cumhachtach an réad a aisghabháil sula bhféadfadh an rialóir éirí as a chomhairle.",
+    "Mar sin féin, thairg duine a raibh eolas domhain aige ar an Scrioptúr Diaga aisghabháil níos tapúla fós, ag críochnú an tasc i bpreabadh na súl.",
+    "Nuair a shroich sí an pálás, d’ordaigh an rialóir an réad a athrú chun intleacht agus dearcadh na banríona a thástáil nuair a shroichfeadh sí an pálás faoi dheireadh."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Fáidh/Duine",
+      "options": [
+        "Fáidh Maois",
+        "Fáidh Dáiví",
+        "Fáidh Ibrahim",
+        "Fáidh Iósaf",
+        "Fáidh Sulayman"
+      ],
+      "answer": "Fáidh Sulayman"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Scoilteadh na Farraige",
+        "An Fhoighne i nDrocháireacht",
+        "Foirgneamh an Kaaba",
+        "Tástáil na nGairdíní",
+        "Ag tabhairt ríchathaoir na Banríona"
+      ],
+      "answer": "Ag tabhairt ríchathaoir na Banríona"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "An Sliabh",
+        "An Tobar",
+        "An Ríchathaoir"
+      ],
+      "answer": "An Ríchathaoir"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Íobairt mhór",
+        "Ríocht bunaithe",
+        "Daoine pionósaithe",
+        "Conradh nua",
+        "Géilleadh na Banríona d'Allah"
+      ],
+      "answer": "Géilleadh na Banríona d'Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

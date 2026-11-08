@@ -1,0 +1,61 @@
+{
+  "title": "Un setge sota un cel sobtat",
+  "intro": "Et trobes davant d'un exèrcit formidable que s'acosta a un santuari venerat, amb totes les armes a punt i la victòria aparentment segura. Abans que pugui començar l'assalt, un poder inesperat apareix al cel, i la lluita pren un gir que ningú preveia.",
+  "clues": [
+    "Vam marxar amb una confiança que cap poder terrenal podia fer trontollar.",
+    "Vam portar elefants poderosos, i la nostra força semblava construïda al seu voltant.",
+    "Havíem vingut a enderrocar un santuari venerat, creient que la nostra victòria ja era segura.",
+    "Quan hi vam arribar, un estol va travessar el cel per sobre nostre.",
+    "Els ocells llançaven pedres d'argila endurida als nostres guerrers.",
+    "Vam ser derrotats tan completament que la nostra poderosa força es va esmicolar i es va escampar com cendra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La gent de l'elefant",
+        "Els Dos Prínceps",
+        "Els germans de Josep",
+        "El servent d'Al·là a Dhul-Kifl",
+        "Els companys de l'home just"
+      ],
+      "answer": "La gent de l'elefant"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "L'assalt liderat per elefants a la Kaaba",
+        "El mar que es separa abans d'un grup lliurat",
+        "La confiscació de l'Arca per un poble tirànic",
+        "El viatge nocturn entre dues mesquites",
+        "La curació d'un leprós pel poder diví"
+      ],
+      "answer": "L'assalt liderat per elefants a la Kaaba"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Ocells que porten boletes d'argila",
+        "Una arca de fusta de gofer",
+        "Un bastó convertit en una serp",
+        "Una pedra segellada amb un signe",
+        "Un arbust ardent"
+      ],
+      "answer": "Ocells que porten boletes d'argila"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La seva poderosa força es va esmicolar com cendra",
+        "Van creuar el mar amb seguretat",
+        "Van caminar il·lesos a través d'un forn ardent",
+        "Van entrar al Paradís en parelles",
+        "Van dormir en una cova durant 309 anys"
+      ],
+      "answer": "La seva poderosa força es va esmicolar com cendra"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

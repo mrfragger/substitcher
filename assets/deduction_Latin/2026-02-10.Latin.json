@@ -1,0 +1,60 @@
+{
+  "title": "Somnus Aetatum",
+  "intro": "Iter per tempus incipies mox, mysterium fidei et divinae potentiae profundum inveniens. Finge coetum hominum qui normas societatis suae spreverunt, monotheismo in mundo polytheismi adhaerentes. Historia eorum testimonium est facultatis Dei iustos servos suos modis mirabilibus protegendi. Potesne identitatem harum personarum insignium detegere?",
+  "clues": [
+    "Parvus coetus iuvenum eramus qui in unum Deum credebamus, quamquam polytheismus inter populum nostrum late diffusus erat.",
+    "A principe tyranno qui nobis propter fidem nostram minabatur, persecutionem et mortem timentes, fugimus.",
+    "Refugium in loco secreto quaesivimus, misericordiam Dei et protectionem ab oppressoribus nostris sperantes.",
+    "Dominus noster nos in somnum profundum cadere fecit, somnum mirabilem qui temporis decursum superavit.",
+    "Cum experrecti essemus, credidimus nos tantum diem aut partem diei quievisse, ignari tam vasti temporis quod vere praeterierat.",
+    "Alcoranus commemorat nos in statu nostro trecentos annos mansisse, et novem excedere, quod signum generis humani facti sumus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Fossae",
+        "Populus Thamud",
+        "Populus Speluncae",
+        "Populus Madyani",
+        "Socii Elephantis"
+      ],
+      "answer": "Populus Speluncae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Inundationi magnae obviam",
+        "A terra absorberi",
+        "Longus somni mirabilis",
+        "Destructio urbis eorum",
+        "Maris divisio"
+      ],
+      "answer": "Longus somni mirabilis"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Rubus ardens",
+        "Mons",
+        "Navis",
+        "Spelunca",
+        "Puteus"
+      ],
+      "answer": "Spelunca"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ingentes divitiae et potestas eis concessae sunt",
+        "In simias et porcos transformati sunt",
+        "E somno excitati sunt quasi signum profundum",
+        "In magno diluvio submersi sunt",
+        "Regnum magnificum aedificaverunt"
+      ],
+      "answer": "E somno excitati sunt quasi signum profundum"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

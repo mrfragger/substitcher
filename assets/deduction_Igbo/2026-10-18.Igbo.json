@@ -1,0 +1,61 @@
+{
+  "title": "Ozi Ọma n'oge Ochie",
+  "intro": "Ị na-ahụ oge olileanya na-agbanwe agbanwe. Di na nwunye, ndị gafere oge ịbụ nne na nna, natara nkwa nke na-emegide iwu okike. N'etiti ha ka otu onye nọ ndụ ya bụ ihe ịrịba ama nke ebere Chineke—mkpụrụ obi a kara aka maka ịbụ onye amụma, na-ebu ihe nketa nke ga-adịru ọgbọ dị iche iche. Ònye bụ onye a pụrụ iche?",
+  "clues": [
+    "A mụrụ m n'aka ndị mụrụ m ndị meworo agadi ma ghara ịmụ ụmụ.",
+    "Ndị mmụọ ozi bịara dị ka ndị ọbịa n'ezinụlọ m mara ọkwa ọmụmụ m.",
+    "E nyere m amamihe na amụma, a kpọkwara m aha n'etiti ndị nwere ndidi.",
+    "A kpọrọ nna m enyi Allah, m bụkwa onyinye nye ya mgbe ọ dị obere.",
+    "Enwere m nwanne nwoke bụkwa onye amụma, Onyenwe anyị gọziri anyị abụọ.",
+    "Nwa m nwoke bụkwa onye amụma, e nyekwara ụmụ m akwụkwọ nsọ na amụma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Ishak (Aịzik)",
+        "Onye Amụma Ismail (Ishmael)",
+        "Onye Amụma Jekọb (Jekọb)",
+        "Onye Amụma Yahya (Jọn)",
+        "Onye Amụma Uzaị (Ezra)"
+      ],
+      "answer": "Onye Amụma Ishak (Aịzik)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "A mụrụ ha n'aka ndị nne na nna meworo agadi",
+        "A tụbara ya n'ọkụ",
+        "E nyere ya alaeze na akụnụba",
+        "Dupụtara ndị ya n'Ijipt",
+        "Wuru ụgbọ iji zọpụta ndị kwere ekwe"
+      ],
+      "answer": "A mụrụ ha n'aka ndị nne na nna meworo agadi"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ozi ọma nke nwa nwoke",
+        "Osisi ahụ na-ere ọkụ",
+        "Nwa ehi ọlaedo ahụ",
+        "Igbe ọgbụgba ndụ ahụ",
+        "Mkpanaka nke ịbụ onye amụma"
+      ],
+      "answer": "Ozi ọma nke nwa nwoke"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Aghọrọ m onye amụma nke nwere usoro ọmụmụ nke ndị amụma",
+        "Aghọrọ eze bara ọgaranya",
+        "E bibiri ndị ya n'ihi ekweghị ekwe ha",
+        "A zọpụtara ya n'ọkụ ahụ",
+        "E nyere ya ike ikwu okwu mgbe ọ bụ nwa ọhụrụ"
+      ],
+      "answer": "Aghọrọ m onye amụma nke nwere usoro ọmụmụ nke ndị amụma"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

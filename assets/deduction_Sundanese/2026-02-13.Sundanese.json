@@ -1,0 +1,61 @@
+{
+  "title": "Pangajuan Agung Raja",
+  "intro": "Anjeun mendakan diri anjeun aya di nagri anu pinuh ku kaajaiban kuno sareng wahyu anu jero. Saurang pamingpin anu kuat, anu nyanghareupan uleman anu teu disangka-sangka, ngamimitian lalampahan anu bakal ngarobih jalan nasibna sareng kapercayaan rahayatna. Naha anjeun tiasa ngungkabkeun idéntitas tokoh anu megah ieu?",
+  "clues": [
+    "Kuring maréntah hiji karajaan anu makmur, dipapaésan ku kabeungharan anu luar biasa sareng tahta anu megah.",
+    "Abdi sareng rahayat abdi nyembah benda langit, percanten yén éta téh gusti urang, sanaos abdi nyimpen mamang dina haté abdi.",
+    "Hiji utusan anu anéh, manuk, nganteurkeun surat ka abdi, ngajak abdi sareng umat abdi pikeun pasrah ka Gusti Nu Maha Esa.",
+    "Kuring konsultasi ka para panaséhat kuring, anu gagah perkasa, ngeunaan kumaha ngaréspon kana pesen anu teu acan pernah aya ieu.",
+    "Kuring mutuskeun pikeun ngirimkeun kado anu berharga ka jalma anu ngirim surat éta, miharep bisa ngukur kakuatan sareng niatna.",
+    "Nalika sumping, abdi kaget ku hiji karaton anu lanténa dijieun tina kaca, katingalina siga balong cai, sareng harita abdi nyatakeun pasrah ka Gusti Nu Maha Agung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Firaun",
+        "Ratu Sheba",
+        "Dhu al-Qarnayn",
+        "Lukman",
+        "Nabi Yusuf"
+      ],
+      "answer": "Ratu Sheba"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Beulahna laut",
+        "Banjir ageung",
+        "Perjalanan nepungan Nabi Sulaiman",
+        "Karusakan kaum Nabi Luth",
+        "Kadurukna Nabi Ibrahim"
+      ],
+      "answer": "Perjalanan nepungan Nabi Sulaiman"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Bahtera",
+        "Staf",
+        "Tahta",
+        "Gunung",
+        "Seuneu"
+      ],
+      "answer": "Tahta"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Janten nabi",
+        "Di ancurkeun ku Alloh",
+        "Nganut Islam",
+        "Ngarahkeun rahayatna ka perang",
+        "Ngawangun candi anu megah"
+      ],
+      "answer": "Nganut Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

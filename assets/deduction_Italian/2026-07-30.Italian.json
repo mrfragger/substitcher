@@ -1,0 +1,61 @@
+{
+  "title": "Gli strani visitatori di una città fortificata",
+  "intro": "Un gruppo giunse alle porte di una città i cui abitanti non avevano mai conosciuto la verità. Portavano un messaggio, ma gli abitanti si mostrarono ostili, minacciando violenza. Eppure, da un luogo inaspettato, una singola voce si levò in difesa degli stranieri, preparando il terreno per una svolta drammatica degli eventi.",
+  "clues": [
+    "Entrammo in una città i cui abitanti erano immersi nell'incredulità.",
+    "Ci guardarono con sospetto e dissero: \"Siete solo esseri comuni come noi\".",
+    "Li avevamo avvertiti, ma loro hanno sollevato pietre contro di noi.",
+    "Un uomo accorse dall'estremità più remota della città per confermare la nostra verità.",
+    "Egli dichiarò al suo popolo: \"Perché non dovrei adorare Colui che mi ha creato?\"",
+    "La negazione della città si concluse con un singolo colpo di cannone, e il silenzio regnò dove prima si levavano scherni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "I messaggeri di Ya-Sin",
+        "I discepoli di Isa",
+        "La gente della trincea",
+        "I maghi del faraone",
+        "Il credente di Ya-Sin"
+      ],
+      "answer": "I messaggeri di Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Rifiuto e minaccia di lapidazione",
+        "Essere gettati in un fuoco impetuoso",
+        "Una prova di pazienza con un bambino smarrito",
+        "Un giardino che ha subito distruzione",
+        "Un viaggio attraverso il mare"
+      ],
+      "answer": "Rifiuto e minaccia di lapidazione"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'estremità più remota della città",
+        "Il Mar Rosso",
+        "Il fossato di fuoco",
+        "La grotta del rifugio",
+        "La prigione d'Egitto"
+      ],
+      "answer": "L'estremità più remota della città"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "La città fu distrutta da un solo grido",
+        "Il mare si aprì e inghiottì l'esercito",
+        "Il fuoco si è raffreddato ed è diventato sicuro",
+        "Il giardino fu consumato da un fuoco celeste",
+        "La balena riportò la persona a riva."
+      ],
+      "answer": "La città fu distrutta da un solo grido"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

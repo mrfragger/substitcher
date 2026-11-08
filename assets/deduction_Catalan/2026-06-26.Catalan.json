@@ -1,0 +1,61 @@
+{
+  "title": "La càrrega d'un regal rebutjat",
+  "intro": "A l'alba de la història de la humanitat, quan la terra encara era jove i el món contenia el seu primer alè, una ànima es va presentar davant del Creador amb una humil ofrena. Aquella ofrena va ser pesada en la balança de l'acceptació divina, i trobada insuficient. El que va seguir no va ser una història de perdó, sinó d'un cor consumit per la gelosia, que va conduir a un acte irreversible que ressonaria al llarg del temps. Aquesta és la història d'algú el nom del qual es va convertir en sinònim de la primera greu injustícia mai comesa.",
+  "clues": [
+    "Vaig arribar a l'existència com un dels primers fills mai nascuts, nascut d'un pare o mare la història del qual coneixes bé.",
+    "Una vegada vaig oferir un sacrifici a Al·là, però no el vaig acceptar, tot i que l'ofrena del meu germà va ser rebuda amb gràcia.",
+    "L'enveja i la ràbia van arrelar al meu cor, i vaig amenaçar d'acabar amb la vida dels meus propis parents.",
+    "El meu germà em va advertir que tingués por d'Al·là, però el meu orgull no em va permetre escoltar-lo.",
+    "En un moment de terrible debilitat, vaig cometre un acte indescriptible contra el meu propi germà.",
+    "Després, ni tan sols vaig saber com amagar el que havia fet, fins que van enviar una criatura de la terra per ensenyar-me-ho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Qabil (Caín)",
+        "Habil (Abel)",
+        "El fill del profeta Nuh",
+        "Profeta Ismaïl",
+        "Profeta Iússuf"
+      ],
+      "answer": "Qabil (Caín)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Oferir un sacrifici que va ser rebutjat, cosa que va conduir al primer assassinat",
+        "Construint una torre elevada per arribar al cel",
+        "Ser llançat a un foc ardent per la pròpia fe",
+        "Sacrificar el propi fill en obediència a Al·là",
+        "Ser engolit per un gran peix per fugir del deure"
+      ],
+      "answer": "Oferir un sacrifici que va ser rebutjat, cosa que va conduir al primer assassinat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un corb enviat per Al·là per demostrar l'enterrament",
+        "Una gran inundació que va ofegar tot un poble",
+        "Un bastó que es va convertir en una serp viva",
+        "Una camella que va emergir d'una muntanya de roca",
+        "Un tron ​​magnífic portat per vents poderosos"
+      ],
+      "answer": "Un corb enviat per Al·là per demostrar l'enterrament"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va convertir en un dels penedits, carregats pel primer crim mai comès",
+        "Va ser perdonat per Al·là i li va concedir el Paradís etern",
+        "Va ser elevat a una alta posició de profecia i saviesa",
+        "Va ser salvat per la misericòrdia divina després de cridar des de les profunditats de les tenebres",
+        "Se li va donar el domini sobre els djinn, el vent i els mars"
+      ],
+      "answer": "Es va convertir en un dels penedits, carregats pel primer crim mai comès"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

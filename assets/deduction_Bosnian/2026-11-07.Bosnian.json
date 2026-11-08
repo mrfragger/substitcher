@@ -1,0 +1,61 @@
+{
+  "title": "zvjezdana potraga za sigurnošću",
+  "intro": "Zamislite kako stojite pod prostranim noćnim nebom, posmatrajući kako se jarka svjetla pojavljuju, a zatim nestaju dok tražite ono što zaista zaslužuje odanost. Oko vas, tihi rezbareni likovi primaju hvalu i prinose, ali jasan razum dovodi u pitanje njihovu moć. Neustrašiv glas je spreman da izazove naslijeđenu tradiciju i ukaže na Stvoritelja nebesa i zemlje.",
+  "clues": [
+    "Pogledao sam u zvijezde, mjesec i sunce i zaključio da oni ne mogu biti moj Gospod jer zalaze i nestaju.",
+    "Otvoreno sam se odrekao onoga što moj narod obožava osim Allaha i pozvao sam ih da obožavaju samo Stvoritelja.",
+    "Raspravljao sam s hvalisavim vladarom koji je tvrdio da daje život i smrt, a ja sam odgovorio spominjući Allaha koji donosi sunce s istoka.",
+    "Udario sam idole i razbio ih, ostavljajući samo najvećeg među njima da se ljudi mogu vratiti k njemu.",
+    "Moj narod me je uhvatio i osudio, rekao mi je da sagradim građevinu i da me baci u plamteću vatru.",
+    "Spašen sam kada je Allah naredio da vatra bude za mene hladnoća i sigurnost."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Ibrahim (Abraham)",
+        "Poslanik Jahja (Ivan)",
+        "Poslanik Al-Yasa (Eliša)",
+        "Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Poslanik Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Suočio se s obožavanjem idola i raspravljao o značenju nebeskih tijela",
+        "Progutala ga je velika riba nakon što je u ljutnji otišao",
+        "Vodio je sljedbenike kroz more koje je razdvojio Allah",
+        "Bio je živ uzdignut na nebesa bez okusa smrti",
+        "Godinama je spavao u pećini sa svojim pratiocima."
+      ],
+      "answer": "Suočio se s obožavanjem idola i raspravljao o značenju nebeskih tijela"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Plamteća vatra koju je Allah učinio hladnom i sigurnom",
+        "Kovčeg koji je nosio vjernike kroz potop",
+        "Štap koji se pretvorio u zmiju",
+        "Stol se prostire s neba",
+        "Kamila poslana kao znak"
+      ],
+      "answer": "Plamteća vatra koju je Allah učinio hladnom i sigurnom"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Zaštićen od vatre i podarili mu pravedne potomke",
+        "Utopljen s poricateljima u velikoj poplavi",
+        "Transformisan zbog kršenja subote",
+        "Uništeno od strane ptica koje nose kamenje od gline",
+        "Progutana zemljom s blagom"
+      ],
+      "answer": "Zaštićen od vatre i podarili mu pravedne potomke"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

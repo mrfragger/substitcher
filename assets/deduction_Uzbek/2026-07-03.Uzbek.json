@@ -1,0 +1,61 @@
+{
+  "title": "Misli ko'rilmagan gunohning xabarchisi",
+  "intro": "Qur'ondagi ba'zi hikoyalar butun jamiyatning qanchalik chuqur buzuqlikka tushib qolishi mumkinligini ochib beradi. Bu elchi yolg'iz o'zi turib, o'zlaridan oldin hech bir millat ta'qib qilmagan buzuqlikka botgan xalqqa yolvorib iltijo qildi. Yillar davomida ogohlantirishlarga qaramay, qalblar qattiqlashdi va ilohiy taqdir juda dahshatli tarzda yetib keldi. Siz bu olijanob Allohning elchisini aniqlay olasizmi?",
+  "clues": [
+    "Men ulardan oldin hech bir millat qilmagan buzuqlikka berilib ketgan qavmga ogohlantiruvchi sifatida yuborildim.",
+    "Qavmim meni yolg'onchi deb atadi va meni va izdoshlarimni yerdan quvib chiqarish bilan qo'rqitdi.",
+    "Uyimga hurmatli mehmonlar hujumkor yigitlar qiyofasida kelishdi va men ularning xavfsizligi uchun chuqur qayg'uga botdim.",
+    "Qavmim mehmonlarimni ularga topshirishni talab qilishdi, chunki ular bu mehmonlar Alloh tomonidan yuborilgan farishtalar ekanligini bilishmasdi.",
+    "Turmush o'rtog'im mening e'tiqodimni qabul qilmadi va halokatga uchraganlar bilan birga qolishni tanladi.",
+    "Tong otganda, toshlardan kuchli yomg'ir yog'ib, shaharlarimiz ag'darilgan paytda, men va qizlarim qutqarildik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Lut payg'ambar",
+        "Payg'ambar Shu'ayb",
+        "Payg'ambar Hud",
+        "Nuh payg'ambar",
+        "Payg'ambar Solih"
+      ],
+      "answer": "Lut payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yer yuzini qamrab olgan ulkan suv toshqini",
+        "Uzoq azob-uqubatlardan ko'rish qobiliyatini yo'qotish",
+        "Ilohiylikni da'vo qilayotgan zolim",
+        "Yonayotgan olovga tashlanmoqda",
+        "Hurmatli mehmonlarni topshirish talab qilinmoqda"
+      ],
+      "answer": "Hurmatli mehmonlarni topshirish talab qilinmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Qo'lda qurilgan ulkan kema",
+        "Dengizni ikkiga bo'ladigan tayoq",
+        "Mo''jizaviy urg'ochi tuya",
+        "Yonayotgan olov",
+        "Agdarilgan shaharlar"
+      ],
+      "answer": "Agdarilgan shaharlar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Mo'minlarni ta'qib qilib, cho'kib ketdi",
+        "Olovli pechdan sog'-salomat qutqarildi",
+        "Tirik holda osmonga ko'tarildi",
+        "Oila katta suv toshqinida halok bo'ldi",
+        "Xiyonatkor xotindan tashqari oila qutqarildi"
+      ],
+      "answer": "Xiyonatkor xotindan tashqari oila qutqarildi"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

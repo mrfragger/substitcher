@@ -1,0 +1,61 @@
+{
+  "title": "Poricanje usred obilja",
+  "intro": "Nalazite se među ljudima čije tržnice bruje od trgovine, ali im se vaga nepošteno prevrće. Glasnik im je došao s jasnim upozorenjima, ali se oni smiju i okreću, uvjereni u svoj prosperitet. Nebo počinje tamniti, ali oni to vide kao blagoslov kiše. Ko su ti ljudi?",
+  "clues": [
+    "Napredovali smo u zemljama trgovine i izobilja, ali su nam srca postala bešćutna.",
+    "Došao nam je poslanik sa znacima od našeg Gospodara, ali smo se rugali njegovim upozorenjima.",
+    "Bili smo poznati po našem zanatu, ali smo bili škrti i varali ljude.",
+    "Živjeli smo među gustim drvećem i bujnom vegetacijom, ali smo svoje blagoslove uzimali zdravo za gotovo.",
+    "Kada se približio tamni oblak, radovali smo se, misleći da će donijeti kišu u naše sušne krajeve.",
+    "Umjesto toga, taj oblak je oslobodio žestoku kaznu, i nas je obuzela muka dana sjene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko smo mi?",
+      "options": [
+        "Ashab al-Aykah (Drugove iz šume)",
+        "Ljudi iz Semuda",
+        "Ljudi iz 'Ad",
+        "Ljudi Luta",
+        "Nuhov narod"
+      ],
+      "answer": "Ashab al-Aykah (Drugove iz šume)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Odbacili su svog poslanika i prevarili u trgovini",
+        "Obožavali su zlatno tele i bili su zavedeni",
+        "Prakticirali su sodomiju i napadali putnike",
+        "Gradili su visoke kule i izazivali Boga",
+        "Odbili su dijeliti vodu i ozlijedili su devu"
+      ],
+      "answer": "Odbacili su svog poslanika i prevarili u trgovini"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Gusta šuma ili šikara",
+        "Planina uklesana u nastambe",
+        "Grad pored mora",
+        "Pustinjska dolina s bunarima",
+        "Plodna bašta s mnogo plodova"
+      ],
+      "answer": "Gusta šuma ili šikara"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Uništen sjenovitim oblakom vatre",
+        "Potopljen velikom poplavom",
+        "Progutao zemljotres",
+        "Udaren jakim vjetrom",
+        "Pretvoreno u kamen"
+      ],
+      "answer": "Uništen sjenovitim oblakom vatre"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

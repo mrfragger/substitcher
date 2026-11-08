@@ -1,0 +1,61 @@
+{
+  "title": "Lekuko Irmoa",
+  "intro": "Kontakizun sakon bat garatzen da, komunitate baten tirania izugarriaren aurrean duen erabaki irmoa agerian utziz. Haien istorioa fedearen lekuko gisa balio du, azken sakrifizioaren aurrean ere. Kontakizun honek zapalkuntza izugarriaren aurka sinesmenaren indarra gogorarazten digu.",
+  "clues": [
+    "Talde bat ginen, eta gure istorioa sura labur eta indartsu batean kontatzen da, jazarpenaren aurka ohartarazten duena.",
+    "Jainko Bakarraren, Tronuaren Jaunaren, Goraipamenarenganako gure sinesmena desagerrarazi nahi zuen agintari bati aurre egin genion.",
+    "Lurpean zulatu zuten zulo erraldoi bat egin behar izan genuen proba ikaragarri bati aurre egin behar izan genion.",
+    "Sinestunak, haurtxoak barne, putzu horren barruko infernu amorratu batera botatzen zituzten ikusi genuen.",
+    "Gure torturatzaileak madarikatuak izan ziren beren ekintzengatik, eta guri, berriz, gure irmotasunagatik sari izugarria agindu zitzaigun.",
+    "Agintariak gure fedea itzaltzeko egin zuen ahaleginak martiri gisa dugun lekua sendotu besterik ez zuen egin, gauza guztien lekuko den Alaren aurrean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Thamudeko jendea",
+        "'Ad-eko jendea",
+        "Zuloaren jendea.",
+        "Luteko jendea.",
+        "Elefantearen jendea."
+      ],
+      "answer": "Zuloaren jendea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde Handia",
+        "Sasi Erretzailea",
+        "Itsasoan itotzea",
+        "Suzko Zuloa",
+        "Lurrikara"
+      ],
+      "answer": "Suzko Zuloa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Lubakia",
+        "Mendia",
+        "Putzua"
+      ],
+      "answer": "Lubakia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erresuma bat eman zitzaien",
+        "Mirari baten bidez salbatu ziren",
+        "Martirioa eta Paradisua lortu zituen",
+        "Lurraldeetan sakabanatuta zeuden",
+        "Aberastasun izugarria eman zitzaien"
+      ],
+      "answer": "Martirioa eta Paradisua lortu zituen"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

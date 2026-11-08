@@ -1,0 +1,61 @@
+{
+  "title": "Những Người Giữ Bí Mật Mùa Thu Hoạch",
+  "intro": "Tại một vùng đất xanh tươi, một nhóm người đã bí mật lập ra một kế hoạch dưới màn đêm. Họ có chung một mục đích, nhưng ý định của họ lại không hề chính đáng. Họ không hề hay biết rằng một sự trớ trêu của định mệnh đang chờ đợi họ khi họ ngủ say.",
+  "clues": [
+    "Chúng tôi đã đưa ra một quyết định chắc chắn, tin rằng kế hoạch của mình hoàn hảo.",
+    "Chúng tôi dự định ra ngoài sớm, trước khi mọi người thức dậy.",
+    "Chúng tôi tiến vào một mảnh đất màu mỡ, tự tin với những thứ mình đã chuẩn bị.",
+    "Khi đến nơi, chúng tôi thấy nơi đó hoang vắng và tiêu điều, nên chúng tôi nghĩ mình đã lạc đường.",
+    "Rồi chúng tôi nhận ra đó thực sự là nơi của mình, và chúng tôi kêu lên trong tuyệt vọng, đổ lỗi cho nhau về sự mất mát này.",
+    "Sáng hôm đó chúng tôi đã thề sẽ không chia phần thu hoạch cho người nghèo, nhưng sự trừng phạt của Allah đã giáng xuống khi chúng tôi đang ngủ, biến khu vườn của chúng tôi thành đống đổ nát."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chúng tôi là ai?",
+      "options": [
+        "Những người chủ khu vườn trong Surah 68",
+        "Người dân Saba",
+        "Những người bạn đồng hành của hang động",
+        "Người dân của Voi",
+        "Những người dân của chiến hào"
+      ],
+      "answer": "Những người chủ khu vườn trong Surah 68"
+    },
+    "trial": {
+      "label": "Thử nghiệm của chúng tôi",
+      "options": [
+        "Vườn nhà chúng tôi đã bị tàn phá bởi một thảm họa từ trên trời rơi xuống.",
+        "Vườn nhà chúng tôi bị lũ cuốn trôi.",
+        "Vườn nhà chúng tôi bị thiêu rụi bởi một đám cháy do kẻ thù gây ra.",
+        "Vườn nhà chúng tôi đầy châu chấu.",
+        "Vườn nhà chúng tôi đã bị một trận động đất nuốt chửng."
+      ],
+      "answer": "Vườn nhà chúng tôi đã bị tàn phá bởi một thảm họa từ trên trời rơi xuống."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Chúng tôi đã thề sẽ hái quả của nó vào buổi sáng.",
+        "Chúng tôi đã xây một con đập để tưới tiêu cho khu vườn của mình.",
+        "Chúng tôi tìm nơi trú ẩn trong một hang động để được bảo vệ.",
+        "Chúng tôi đã chuẩn bị một đội quân để chinh phục một vương quốc.",
+        "Chúng tôi đã đi thuyền vượt biển."
+      ],
+      "answer": "Chúng tôi đã thề sẽ hái quả của nó vào buổi sáng."
+    },
+    "outcome": {
+      "label": "Số phận của chúng ta",
+      "options": [
+        "Chúng tôi ăn năn hối lỗi và cầu xin lòng thương xót từ Allah.",
+        "Chúng tôi đã hoàn toàn bị hủy hoại và không bao giờ hối cải.",
+        "Chúng tôi đã bỏ trốn khỏi vùng đất đó và không bao giờ quay trở lại.",
+        "Chúng ta lại trở nên hùng mạnh và giàu có.",
+        "Chúng tôi bị trừng phạt bằng cách biến thành khỉ."
+      ],
+      "answer": "Chúng tôi ăn năn hối lỗi và cầu xin lòng thương xót từ Allah."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

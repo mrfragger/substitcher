@@ -1,0 +1,61 @@
+{
+  "title": "Mendiak Mugitu Zituen Melodia",
+  "intro": "Alaren zerbitzari bikain baten istorioa deskubritzear zaude. Mezularien eta agintarien lurralde batean, pertsonaia hau liburu jainkotiar batekin, ahots indartsu batekin eta burdinaren gaineko indarrarekin bedeinkatua izan zen. Pistak irakurtzen dituzun bitartean, nor izan daitekeen identifikatu al dezakezu?",
+  "clues": [
+    "Alaren zerbitzari bat nintzen, eta liburu berezi bat eman zitzaidan.",
+    "Ahots ederra nuen, eta nire laudorioa hain maitatua zen, ezen muinoak eta txoriak ere batu zitzaizkidan.",
+    "Aurkari ikaragarri bati aurre egin nion borroka ospetsu batean, eta txikiagoa izan arren, nagusitu nintzen.",
+    "Burdina malgu egin zidaten, nire eskuekin armadura egiteko aukera emanez.",
+    "Nazio handi baten agintari izendatu ninduten, eta nire jakinduria epaitzeko ospea izan zen.",
+    "Nire semeari, profeta ere badenari, haizearen eta jinn-en gaineko kontrola eman zioten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Dawud profeta (David)",
+        "Sulaiman profeta (Salomon)",
+        "Musa (Moises) profeta",
+        "Harun (Aaron) profeta",
+        "Profeta Ilyas (Elias)"
+      ],
+      "answer": "Dawud profeta (David)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Goliat (Jalut) garaitu zuen",
+        "Itsasoa zatitu zuen.",
+        "Balea bizirik iraun zuen",
+        "Sutara bota zuten.",
+        "Arka eraiki zuen"
+      ],
+      "answer": "Goliat (Jalut) garaitu zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Zabur (Salmoak)",
+        "Tora (Tawrat)",
+        "Ebanjelioa (Injil)",
+        "Ibrahim-en pergaminoak",
+        "Korana"
+      ],
+      "answer": "Zabur (Salmoak)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Israelgo profeta eta errege bihurtu zen",
+        "Egiptoko agintari bihurtu zen",
+        "Zeruetara altxatu zen",
+        "Ekaitz batek suntsitu zuen",
+        "Kobazuloko lagun bihurtu zen"
+      ],
+      "answer": "Israelgo profeta eta errege bihurtu zen"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

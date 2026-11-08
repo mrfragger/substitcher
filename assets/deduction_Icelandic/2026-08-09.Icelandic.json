@@ -1,0 +1,61 @@
+{
+  "title": "Sannleiksrík rödd fornaldar",
+  "intro": "Í Kóraninum er sál sem sagan er sögð í aðeins fáeinum versum, en göfugleikar hennar skína í gegn með skærum skýrleika. Þessi forni þjónn hins miskunnsama, sem er lofaður af hinum almáttuga fyrir sérstaka dyggð, á sinn stað á síðum opinberunarinnar. Þitt verkefni er að bera kennsl á þessa merkilegu persónu. Geturðu giskað á hver hún er?",
+  "clues": [
+    "Ég er spámaður Allahs sem lifði meðal fyrstu kynslóða mannkynsins.",
+    "Allah nefndi mig í bók sinni ásamt öðrum spámönnum, allir lofaðir fyrir sömu göfugu dyggð.",
+    "Ég er lýst sem sannleikans manni í Kóraninum.",
+    "Allah lyfti mér upp á háa stöðu sem fáir aðrir hafa náð.",
+    "Nafn mitt er nefnt í Súrah Al-Anbiya, ásamt tveimur öðrum spámönnum sem eru lofaðir fyrir þolinmæði sína.",
+    "Ég er Idris, hinn sannorði og upphefði spámaður."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Idris",
+        "Spámaðurinn Nuh",
+        "Spámaðurinn Íbrahim",
+        "Spámaðurinn Músa",
+        "Spámaðurinn Ísmael"
+      ],
+      "answer": "Spámaðurinn Idris"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Viðhalda þolinmæði og sanngirni, síðan upphefjaður í háa stöðu",
+        "Að smíða mikla örk til að bjarga trúuðum frá eyðileggjandi flóði",
+        "Að vera kastað í logandi eld og komast alveg ómeiddur út",
+        "Að mæta voldugum konungi og sigra her töframannanna hans",
+        "Að lifa af í maga stórfisks í djúpi hafsins"
+      ],
+      "answer": "Viðhalda þolinmæði og sanngirni, síðan upphefjaður í háa stöðu"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Há og upphafin staða hjá Allah",
+        "Risavaxið skip smíðað úr plönkum og þakið tjöru",
+        "Brennandi eldur kyndur af skurðgoðadýrkendum óguðlegs konungs",
+        "Víðáttumikið haf sem klofnaði í þurrar slóðir",
+        "Dökkur kviður stórs hvals á hafsbotni"
+      ],
+      "answer": "Há og upphafin staða hjá Allah"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Tekinn inn í miskunn Allahs sem einn af réttlátum",
+        "Bjargað ásamt öllum trúuðum frá heimsflóði",
+        "Gekk út úr logunum ósnertur af eldinum",
+        "Leið Ísraelsmenn óhultir yfir hafið til frelsis",
+        "Sameinuð ástkærri fjölskyldu sinni eftir erfiðleika í mörg ár"
+      ],
+      "answer": "Tekinn inn í miskunn Allahs sem einn af réttlátum"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

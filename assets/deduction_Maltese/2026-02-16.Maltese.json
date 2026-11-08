@@ -1,0 +1,61 @@
+{
+  "title": "It-Talba ta’ Awtorità Assoluta",
+  "intro": "Fi żminijiet antiki, individwu b'saħħtu tela' għad-dominju fuq art vasta u l-abitanti tagħha. Ir-renju ta' din il-figura kien immarkat minn kburija immensa u sfida profonda għall-awtorità divina. Ipprepara biex tiskopri l-identità ta' ruħ li d-destin aħħari tagħha sar lezzjoni dejjiema għall-ġenerazzjonijiet kollha.",
+  "clues": [
+    "Kelli kontroll fuq imperu setgħan, fejn kelmti kienet liġi.",
+    "Iddikjarajt lili nnifsi bħala l-alla suprema, u talabt qima mingħand dawk kollha taħt il-ħakma tiegħi.",
+    "Opprimejt komunità speċifika, skjavijthom u ordnajt il-qtil tat-trabi subien tagħhom.",
+    "Ġejt ikkonfrontat ripetutament minn messaġġier umli ta’ Alla, li wettaq mirakli ċari quddiemi u l-maġi tiegħi.",
+    "Jiena b'ras iebsa ċħadt il-verità, akkużajt lill-messaġġier b'seħer u ppjanajt biex neqirdu u lis-segwaċi tiegħu.",
+    "Jiena u l-armata kollha tiegħi konna mgħottija mill-baħar hekk kif bla heda bdejna niġru wara dawk li kienu nħelsu minn idejja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Ħaman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-Għargħar il-Kbir",
+        "In-Nar Jaħraq",
+        "L-Għerqa tal-Oppressur",
+        "Il-Qerda mir-Riħ",
+        "It-Terremot tan-Nuqqas ta’ Twemmin"
+      ],
+      "answer": "L-Għerqa tal-Oppressur"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka ta’ Noè",
+        "Il-Bastun ta’ Mosè",
+        "L-Idolu tad-Deheb",
+        "Il-Bir ta’ Zamzam",
+        "It-Tron ta' Bilqis"
+      ],
+      "answer": "Il-Bastun ta’ Mosè"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Mogħti saltna vasta",
+        "Ġisem ippreservat bħala sinjal",
+        "Maħfur wara l-indiema",
+        "Elevata għall-profezija",
+        "In-nies tiegħu saru qaddisin"
+      ],
+      "answer": "Ġisem ippreservat bħala sinjal"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

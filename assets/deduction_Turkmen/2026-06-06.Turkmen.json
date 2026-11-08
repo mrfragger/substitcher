@@ -1,0 +1,61 @@
+{
+  "title": "Allanyň belent bendesi",
+  "intro": "Siz gadymy döwürlerden bäri, adaty adamlardan ýokary derejä göterilen Allanyň bendesi hakda pyşyrdaýan zatlary eşidýärsiňiz. Bu şahsyýet üýtgewsiz sabyrlylygy we mutlak dogruçyllygy bilen tanalýardy we pygamberlikden ýüz öwüren bir kowuma iberildi. Bu beýik jan kim?",
+  "clues": [
+    "Men Alla tarapyndan pygamber hökmünde saýlandym we mukaddes Gurhanda agzalýaryn.",
+    "Men sabyrlylygym we dogruçyllygym bilen tanalýardym, bu häsiýetleri Allanyň öwýän häsiýetleridir.",
+    "Men halkymy Ýeke-täk Hudaýa sežde etmäge çagyrdym, ýöne köpüsi meni ret etdi.",
+    "Allatagala meniň derejämi beýgeltdi we maňa ýokary dereje berildi.",
+    "Men köplenç Ysmaýyl we Zul-Kifl ýaly beýleki pygamberler bilen birlikde agzalýaryn.",
+    "Allatagala meniň barada şeýle diýýär: \"Biz ony ýokary derejä göterdik\" (19:57)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Idris pygamber",
+        "Ylýas pygamber",
+        "Zül-Kifl pygamber",
+        "Pygamber Al-Ýasa",
+        "Hud pygamber"
+      ],
+      "answer": "Idris pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Adamlary Allatagala ybadat etmäge çagyrdy",
+        "Gämini gurdy",
+        "Fyrowna garşy söweşdi",
+        "Agyr kesel bilen synagdan geçirildi",
+        "Oda taşlandy"
+      ],
+      "answer": "Adamlary Allatagala ybadat etmäge çagyrdy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýokary derejeli/ýokary stansiýa",
+        "Gämi",
+        "Işgärler",
+        "Ot",
+        "Guýy"
+      ],
+      "answer": "Ýokary derejeli/ýokary stansiýa"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ýokary derejä göterildi",
+        "Suw joşmasynda gark boldy",
+        "Kit tarapyndan ýuwudyldy",
+        "Ýangyndan halas boldy",
+        "Patyşa boldy"
+      ],
+      "answer": "Ýokary derejä göterildi"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

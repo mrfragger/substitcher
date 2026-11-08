@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tingog gikan sa Gawas",
+  "intro": "Nagbarog ka sa usa ka siyudad diin tulo ka mensahero ang miabot nga may klarong mga timaan, apan ang mga tawo nagbiaybiay niini ug nagpabilin sa ilang karaang mga pamaagi. Gikan sa kinatumyang bahin sa siyudad, usa ka tawo ang midagan padulong sa panon sa katawhan, naglisod sa pagginhawa ug determinado, sa pagsulti sa kamatuoran atubangan sa pagsalikway. Kinsa kining kalag nga mirisgo sa tanan alang sa usa ka mensahe nga dili ilaha?",
+  "clues": [
+    "Nagpuyo ako taliwala sa mga tawo nga nakadawat og mga mensahero nga adunay klaro nga mga timaan, apan mitalikod sila nga mapahitas-on.",
+    "Nagdagan ko gikan sa pinakalayong bahin sa siyudad sa dihang nadungog nako ang tawag sa mga mensahero.",
+    "Ako miingon sa akong katawhan, 'O akong katawhan, sunda ang mga mensahero. Sunda kadtong wala mangayo og ganti gikan kaninyo, kay sila ang mga natultolan sa husto nga paagi.'",
+    "Dili ako propeta, apan mituo ako sa mga mensahero ug giawhag ko ang akong katawhan sa pagbuhat sa ingon.",
+    "Gibiaybiay sa akong mga tawo ang akong tambag ug giakusahan ko nga ekstremista.",
+    "Sa dihang ilang gipatay ako, si Allah nagsugo kanako nga mosulod sa Paraiso, ug nanghinaut ako nga ang akong katawhan mahibalo sa kapasayloan ug dungog nga akong nadawat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang lalaki gikan sa pinakalayong bahin sa siyudad (Ya-Sin)",
+        "Usa sa tulo ka mensahero nga gipadala sa siyudad",
+        "Usa ka inila nga negosyante sa siyudad",
+        "Usa ka magmamando sa siyudad",
+        "Ang lider sa mga dili-magtutuo"
+      ],
+      "answer": "Ang lalaki gikan sa pinakalayong bahin sa siyudad (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Nagwali sa iyang katawhan sa pagsunod sa mga mensahero",
+        "Pagtukod og barko aron maluwas ang mga magtutuo gikan sa baha",
+        "Gilabay ngadto sa kalayo tungod sa pagtuo",
+        "Gitulon sa balyena",
+        "Gihatagan og gingharian ug kaalam"
+      ],
+      "answer": "Nagwali sa iyang katawhan sa pagsunod sa mga mensahero"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang pinakalayong bahin sa siyudad",
+        "Ang arka",
+        "Ang atabay",
+        "Ang nagdilaab nga sapinit",
+        "Ang langob"
+      ],
+      "answer": "Ang pinakalayong bahin sa siyudad"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nisulod sa Paraiso ug nanghinaut nga ang iyang katawhan makahibalo sa iyang pasaylo",
+        "Nalumos uban sa iyang katawhan tungod sa pagsalikway sa mensahe",
+        "Gihatagan og milagro ang bayeng kamelyo",
+        "Nahimong magmamando human sa iyang pagsulay",
+        "Giluwas sa Allah ug nagpabilin uban sa iyang katawhan"
+      ],
+      "answer": "Nisulod sa Paraiso ug nanghinaut nga ang iyang katawhan makahibalo sa iyang pasaylo"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

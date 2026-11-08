@@ -1,0 +1,61 @@
+{
+  "title": "Kiran da Ba a Yi Wasa Ba a Ƙasar Girman Kai",
+  "intro": "Kana tsaye a cikin kango na wata babbar wayewa a da, inda iko da girman kai ba su da iyaka. Wani manzo ya yi tafiya a tsakaninsu, yana kira zuwa ga gaskiya, amma zukatansu sun taurare. Gargaɗin ya ɓace, kuma sama da kanta ta zama kayan aikin fushi. Wanene wannan manzo, kuma me ya faru da waɗanda suka ƙi kiran?",
+  "clues": [
+    "An aika ni zuwa ga mutanen da ba su da ƙarfi kamar ni, kuma suka gina wani abin tunawa a kan kowane wuri mai tsayi.",
+    "Mutanena sun ɗauki kansu a matsayin waɗanda ba za a iya cin nasara a kansu ba, suka ce, 'Wa ya fi mu ƙarfi a ƙarfi?'",
+    "Na kira su su bauta wa Allah shi kaɗai, amma sun zarge ni da wauta da ƙarya.",
+    "Sun ƙalubalance ni da in kawo hukuncin da na yi alkawari idan na yi gaskiya.",
+    "Allah ya aiko musu da iska mara kyau wadda ba ta bar komai ya same ta ba.",
+    "Ni da waɗanda suka yi imani tare da ni an cece su da rahamar Allah, yayin da kafirai aka halaka su gaba ɗaya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Hud",
+        "Annabi Salihu",
+        "Annabi Shu'aib",
+        "Annabi Lutu",
+        "Annabi Nuhu"
+      ],
+      "answer": "Annabi Hud"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Iska mai barna ta halaka kafirai",
+        "Ruwan sama mai yawa ya mamaye kafirai",
+        "Ruwan sama mai yawa ya sauka",
+        "Wata babbar tsawa ta kama kafirai",
+        "Girgizar ƙasa ta afka wa kafirai"
+      ],
+      "answer": "Iska mai barna ta halaka kafirai"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Iska mai ƙarfi",
+        "Akwatin katako",
+        "Raƙumi",
+        "Ruwan sama na duwatsun laka",
+        "Wuta mai ci"
+      ],
+      "answer": "Iska mai ƙarfi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ceci Hud da muminai, kuma an halaka kafirai.",
+        "An ɗaga Hud zuwa wani babban matsayi",
+        "Mutanensa ne suka kashe Hud",
+        "Mutanen Hud sun tuba kuma an tsirar da su",
+        "Hud ya bar mutanensa kafin a hukunta shi"
+      ],
+      "answer": "An ceci Hud da muminai, kuma an halaka kafirai."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

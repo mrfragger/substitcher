@@ -1,0 +1,61 @@
+{
+  "title": "L-Irqad tat-Tajbin",
+  "intro": "Fi żmien meta l-fidi kienet perikoluża u dawk b’saħħithom fittxew li jkissru t-twemmin, grupp żgħir ta’ erwieħ żgħażagħ għamlu għażla li kellha tidwi matul is-sekli. Huma ħarbu minn dak kollu li kienu jafu, fittxew kenn fid-dlam moħbi ta’ muntanja u poġġew il-fiduċja tagħhom għalkollox f’Alla. Dak li ġara wara kellu jsir sinjal etern għal dawk li jirriflettu.",
+  "clues": [
+    "Konna grupp ta’ żgħażagħ li emmnu fil-Mulej tagħna, u Hu kabbarna fil-gwida.",
+    "Qgħadna quddiem il-poplu tagħna u ddikjarajna li qatt ma se nsejħu lil xi divinità ħlief lil Alla.",
+    "Fittixna kenn f'għar, u għedna, \"Mulej tagħna, agħtina ħniena mingħandek u mexxina sewwa fil-ħwejjeġ tagħna.\"",
+    "Rqadna għal numru kbir ta’ snin, u x-xemx kienet tinżel 'il bogħod mill-għar tagħna u ma tmissniex.",
+    "Il-kelb tagħna kien mimdud fid-daħla tal-għar, jgħassesna bħallikieku kien qed jgħasses.",
+    "Meta qomna, staqsejna ruħna kemm konna ilna nistennew, u wieħed minna ntbagħat b’muniti tal-fidda biex jixtri l-ikel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Nies tal-Għar",
+        "Nies tat-Trinka",
+        "Nies tas-Sabat",
+        "Nies tal-Iljunfant",
+        "Kumpanji tal-Injam"
+      ],
+      "answer": "Nies tal-Għar"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ħarbu lejn għar biex jaħarbu mill-persekuzzjoni minħabba l-fidi tagħhom",
+        "Meqrud minn riħ qawwi",
+        "Mibela’ mill-art",
+        "Għerqet fil-baħar",
+        "Milqut minn maltempata ta’ ġebel"
+      ],
+      "answer": "Ħarbu lejn għar biex jaħarbu mill-persekuzzjoni minħabba l-fidi tagħhom"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Kelb jgħasses id-daħla tal-għar",
+        "Arka kbira",
+        "Bastun li nbidel f’serp",
+        "Għasfur tal-upup",
+        "Għoġol tad-deheb"
+      ],
+      "answer": "Kelb jgħasses id-daħla tal-għar"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Huma baqgħu fl-għar għal 309 snin u mbagħad ġew imqajma bħala sinjal",
+        "Huma ġew mibdula f'xadini",
+        "Ġew meqruda minn għargħar",
+        "Ġew sfurzati jaqsmu l-baħar",
+        "Ingħataw saltna"
+      ],
+      "answer": "Huma baqgħu fl-għar għal 309 snin u mbagħad ġew imqajma bħala sinjal"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Xirhambo lexi xi hluleke malembe",
+  "intro": "Anakanya hi moya-xiviri lowu yimeke wu ri woxe wu lwisana ni nhluvuko hinkwawo, wu tiyimisele ku wu kongomisa endzhaku eka ku hambukisiwa hi ku tiyimisela loku nga tsekatsekiki. Ku ringana malembe-xidzana yo tala, rungula leri a ri ariwa, ri hlekuriwa ni ku hlongoriwa—hambiswiritano matshalatshala a ma nga heli. Eku heteleleni, ku hlayela lokukulu ku fike, naswona i va nga ri vangani ntsena lava khandziyeke ku ponisiwa etlhelo ka moya lowu wo tiya. Xana u nga yi vona nhlayo leyi eka Quran?",
+  "clues": [
+    "Ndzi rhumeriwe ku va mutsundzuxi eka vanhu lava lahlekeke etindleleni ta vona.",
+    "Ndzi va rhambe leswaku va lava ku rivaleriwa ni ku tlhelela endzhaku eka swihoxo swa vona, kambe va fularhele.",
+    "Ehansi ka xileriso xa Xikwembu, ndzi ake xibya lexikulu loko vanhu va mina va ri karhi va ndzi langutile ni ku ndzi hlekula.",
+    "Ndzi vitanile Hosi ya mina ndzi nga yimi—eku heteleleni Yi hlamurile, naswona mati ma chulule ma huma empfhukeni hi swinambyana.",
+    "Ndzi khandziye xikepe lexi ni lava a va pfumela loko mati ya ndhambi ma tlakuka ehenhla ka misava.",
+    "Ndzi huwelele un’wana loyi a a sale endzhaku, ndzi va kombela leswaku va tumbela entshaveni, kambe xileriso lexi se a xi hundzile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Nuh",
+        "Muprofeta Ibrahim",
+        "Muprofeta Musa",
+        "Muprofeta Hud",
+        "Muprofeta Salih"
+      ],
+      "answer": "Muprofeta Nuh"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku aka ngalava leyikulu ni ku pona ndhambi ya misava hinkwayo",
+        "Ku hoxiwa endzilweni lowu pfurhaka",
+        "Ku langutana ni mufumi wa tihanyi ni vangoma vakwe va matimba",
+        "Ku mitiwa hi nhlampfi leyikulu",
+        "Ku vona ku dlayiwa ka kamela ya xisati yo kwetsima"
+      ],
+      "answer": "Ku aka ngalava leyikulu ni ku pona ndhambi ya misava hinkwayo"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Areka leyikulu ya mapulanga leyi nga ehenhla ka mati ya ndhambi lamakulu",
+        "Nkova wo kwetsima lowu nga ni marhumbi ya khale ya maribye",
+        "Bako leri dzikeke leri vanghana va kona a va etlela eka rona ku ringana malembe-xidzana yo tala",
+        "Xitombo xa whale leyikulu leyi nga evuentweni bya lwandle",
+        "Ntshava leyi tlakukeke ya maribye emananga"
+      ],
+      "answer": "Areka leyikulu ya mapulanga leyi nga ehenhla ka mati ya ndhambi lamakulu"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U ponisiwile na vapfumeri lava a va ri eka xikepe",
+        "U ponisiwile a nga vavisekanga endzilweni hi xileriso xa Xikwembu",
+        "U rhangele ku rhurha lokukulu ku huma emfun’weni wa matimba",
+        "Lahlela ehandle eka tinhlampfi u ya eribuweni leri nga riki na nchumu",
+        "U yise vanhu ekule ni swiendlo swo biha hi ku tirhisa xikombiso xa singita"
+      ],
+      "answer": "U ponisiwile na vapfumeri lava a va ri eka xikepe"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

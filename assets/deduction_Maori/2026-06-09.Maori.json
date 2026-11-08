@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaikaranga Tuturu ki te Pono",
+  "intro": "E tū ana te karere i waenganui i te iwi pakeke, e karanga ana i a rātou ki te Atua Pono Kotahi, engari e piri tonu ana rātou ki ngā whakapakoko teka. He ingoa kaha tō tēnei poropiti—'ko te tangata e rapu ana i te tiakitanga'—engari ko te whakahē me te whakakāhoretanga anake ka riro mai i a ia. Mā te whakatenatena ngawari me te whakatūpato pakari, ka haria e tēnei wairua he karere atua ka whakatikahia e te ao whānui. Ka taea e koe te tautuhi i tēnei tangata pumau e tohu ana i tētahi o ngā kōrero tawhito rawa atu i roto i ngā karaipiture Ihirama?",
+  "clues": [
+    "He maha ngā atua i karakia ai tōku iwi, ko ahau ia i karanga i a rātou ki te mahi ki te Kaihanga o te rangi me te whenua.",
+    "I tū ahau i mua i tōku iwi, ka kī atu kāore au e rapu utu i a rātou—ko tāku anake i hiahia ai ko tā rātou ārahi ki te tika.",
+    "I tukuna mai he hau nui ki runga i tōku iwi hei whiu atua, he hau e kōrerotia ana i roto i te Quran i roto i ngā āhua maha me ngā āhua wahine.",
+    "Kāore i rite ki ētahi poropiti, kāore i hoatu he wahine, he tamariki rānei ki ahau i whakahuatia nuitia i roto i taku kōrero, nā te mea ko taku misioni he karanga i tōku iwi kia huihui mai rātou.",
+    "He tikanga hohonu tōku ingoa—e pā ana ki te ariā o te tiakitanga me te piringa e rapua ana e te tangata.",
+    "I mōhiotia tōku iwi ki tētahi kupu whenua motuhake mō te awaawa i nohoia e rātou, ā, i whakaahuatia tō rātou whenua me te tino whakahawea mō te kore o ngā otaota."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hūta",
+        "Poropiti Salih",
+        "Poropiti Shu'aib",
+        "Poropiti a Noa",
+        "Poropiti Hudayb"
+      ],
+      "answer": "Poropiti a Hūta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te waipuke o te whenua",
+        "Te hau werawera",
+        "Te rū whenua o te whakangaromanga",
+        "Te tauraki me te matekai",
+        "Te toremitanga i te moana"
+      ],
+      "answer": "Te hau werawera"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te awaawa momona o Yemen",
+        "Te koraha onepū o Miriana",
+        "Te awaawa toka o te Thamud",
+        "Te whenua tawhito o te iwi 'Ad",
+        "Te rohe takutai o Ihipa"
+      ],
+      "answer": "Te whenua tawhito o te iwi 'Ad"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I ripeneta taku iwi, ā, i tomo ki te pararaiha",
+        "Kāore tetahi o taku iwi i ora i te whiu",
+        "I tangohia oratia ahau pērā i tōku teina, i a Yunus",
+        "I heke atu ahau me aku akonga ki tētahi whenua manaakitanga",
+        "Ko te hunga whakaponokore anake i whakangaromia e te hau, ko te hunga whakapono ia i ora."
+      ],
+      "answer": "Kāore tetahi o taku iwi i ora i te whiu"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

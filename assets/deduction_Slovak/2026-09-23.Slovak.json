@@ -1,0 +1,61 @@
+{
+  "title": "Volanie, ktoré prežilo veky",
+  "intro": "Predstavte si dušu, ktorá sama stála proti celej civilizácii, odhodlaná s neochvejným odhodlaním viesť ju späť z omylu. Po stáročia bolo toto posolstvo odmietané, zosmiešňované a zavrhované – no úsilie nikdy neprestalo. Nakoniec prišlo veľké zúčtovanie a len málokto sa po boku tejto neochvejnej duše dostal do spásy. Viete identifikovať túto postavu z Koránu?",
+  "clues": [
+    "Bol som poslaný ako varovateľ k ľuďom, ktorí sa stratili vo svojich vlastných cestách.",
+    "Pozýval som ich, aby prosili o odpustenie a odvrátili sa od svojich chýb, ale oni sa odvrátili.",
+    "Na božský rozkaz som postavil obrovskú loď, zatiaľ čo sa na mňa moji ľudia pozerali a vysmievali sa mi.",
+    "Neustále som volal k svojmu Pánovi – nakoniec odpovedal a z neba sa rinula voda v prúdoch.",
+    "Nastúpil som na loď s tými, ktorí uverili, keď sa voda potopy vyliala nad zem.",
+    "Volal som na jedného, ​​kto zostal, a požiadal som ho, aby sa uchýlil na horu, ale dekrét už bol vydaný."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Nuh",
+        "Prorok Ibrahim",
+        "Prorok Músa",
+        "Prorok Hud",
+        "Prorok Sálih"
+      ],
+      "answer": "Prorok Nuh"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Stavba veľkej archy a prežitie celosvetovej potopy",
+        "Byť uvrhnutý do planúceho ohňa",
+        "Konfrontácia s tyranom a jeho mocnými mágmi",
+        "Byť prehltnutý veľkou rybou",
+        "Svedkom zabitia posvätnej ťavy"
+      ],
+      "answer": "Stavba veľkej archy a prežitie celosvetovej potopy"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Masívna drevená archa na rozbúrenej povodňovej vode",
+        "Posvätné údolie so starobylými kamennými ruinami",
+        "Hlboká jaskyňa, kde spoločníci spali po stáročia",
+        "Brucho obrovskej veľryby v hlbinách oceánu",
+        "Tyčiaca sa kamenná hora v divočine"
+      ],
+      "answer": "Masívna drevená archa na rozbúrenej povodňovej vode"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Spasený s veriacimi na palube lode",
+        "Zachránený bez zranení z ohňa na božský príkaz",
+        "Viedol veľký exodus z mocného kráľovstva",
+        "Vyhodený z ryby na pustý breh",
+        "Zázračným znamením odviedol ľudí od zlého konania"
+      ],
+      "answer": "Spasený s veriacimi na palube lode"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

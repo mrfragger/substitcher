@@ -1,0 +1,61 @@
+{
+  "title": "Inti lluqsimuq Punku Waqaychaq",
+  "intro": "Tukuy Quranpi, wakin almakuna kay pachata purinku yachaypa, musphay ñankunata saqispa. Chayna hukninmi rirqa unanchasqanchikpa aswan karu llaqtakunaman, chaypim inti lluqsimun hinaspa chinkaykun, chaypim huk harkaq kikin chaqwata harkan. Kay Allahpa kamachinmanmi huk reinota qorqanku, chaytaqa manan pipas hayk’aqpas hap’ikapunqachu. Kimsa sapaq puriykunawanmi kay sapan runapa imapaq kasqanqa sutilla rikurirurqa. ¿Reqsiwaqchu kay legendario puriq runata historiaq llanthunkunamanta?",
+  "clues": [
+    "Ancha Khuyapayakuqmi atiyta qowarqan kay pachata kamachinaypaq, chaytaqa manan pipas haywarqanchu.",
+    "Inti chinkaykuy ladomanmi viajarqani, chaypin tarirqani tutayaq pukyupi chinkaykushaqta, chaypin rikurqani huk runakunata.",
+    "Inti lloqsimuy ladoman purirqani, inti lloqsimuq cheqasman chayanaykama, tarirqanin huk llaqta patapi lloqsimushaqta, paykunapaqqa manan ima pakakuytapas qorqaykuchu.",
+    "Chay iskay sinchi chawpintan purirqani iskay orqokunaq chawpinpi kaq wayq’oman chayanaykama, chaypin tarirqani rimayta mana entiendeq runakunata.",
+    "Orqo patapin tarirqani iskay sinchi hark’akunata fierromanta pañaman lloq’eman chayaq, chaykunaq chawpinpitaq huk k’iti pasajeta. Kay runakunaqa niwarqakum chaqwakunata harkaspan chay harkakuyta pakinaypaq.",
+    "Mikhusqayta hap’ispaymi nirqani: ‘Chay hark’a p’akikuqtinqa, kaymi sut’ita t’aqanakuy kanqa ñoqanchiswan kay llaqtawan’, nispa. Hinaspapas horario chayamuqtinmi qhawarqani chay barrera qhepaman p’akisqa kashaqta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Dhu al-Qarnayn sutiyuq runa",
+        "Profeta Sulayman sutiyuq runa",
+        "Profeta Ibrahim sutiyuq runa",
+        "Ghassaniyah llaqtapi Rey",
+        "Dhul-Qarnain el Vagante"
+      ],
+      "answer": "Dhu al-Qarnayn sutiyuq runa"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Yajuj, Majuj llaqta runakunapaq fierro hark’ayta p’akispa",
+        "Profetaq kamachisqan Buqueta ruway",
+        "Jerusalén llaqtapi templota hatarichispa",
+        "Iñiq runakunawan Puka Quchata chimpaspa",
+        "Chanin llaqtata amachanapaq represata ruway"
+      ],
+      "answer": "Yajuj, Majuj llaqta runakunapaq fierro hark’ata p’akispa"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Iskay urqukuna chawpipi fierromanta hark’akuq",
+        "Chay barcoqa orqopin anclasqa",
+        "Jerusalén llaqtapi yupaychana sapaq wasi",
+        "Egipto suyupi mayu",
+        "Madyan simipi saminchakuna pukyu"
+      ],
+      "answer": "Iskay urqukuna chawpipi fierromanta hark’akuq"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Chay hark’ataqa p’akirqankun tiempo chayamuqtin, chaymi ch’aqway phawaykamurqan",
+        "Mana iñiqkunaqa unupi wañusqa karqanku, iñiqkuna qespichisqa kashaqtinku",
+        "Chanin runakunaqa wiñaypaq paraisomanmi pusasqa karqanku",
+        "Chay llaqtataqa qapariq wayrawanmi tuñichirqan",
+        "Chay taytacha-mamachakunaqa pakisqañam karqa, chaymi runakunaqa wanakurqaku"
+      ],
+      "answer": "Chay hark’ataqa p’akirqankun tiempo chayamuqtin, chaymi ch’aqway phawaykamurqan"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

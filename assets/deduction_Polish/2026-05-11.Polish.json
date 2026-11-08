@@ -1,0 +1,61 @@
+{
+  "title": "Niezłomni Świadkowie",
+  "intro": "Wyobraź sobie czasy, gdy wiara była wystawiana na próbę ognia, a niezłomne przekonanie stawało się ostatecznym wyzwaniem. Twoim zadaniem jest odkrycie tożsamości grupy, której historia opowiedziana jest w Koranie – opowieści o głębokiej wierze w obliczu przytłaczającej tyranii. Rozwikłaj zagadki, aby odkryć, kim były te dusze i w jakich niezwykłych okolicznościach się znalazły.",
+  "clues": [
+    "Pozostaliśmy wierni naszym przekonaniom, mimo ogromnej presji, żebyśmy wyrzekli się naszej wiary.",
+    "Staliśmy się celem potężnego władcy, który pragnął zgasić światło monoteizmu.",
+    "Byliśmy świadkami wielkich znaków i cudów, lecz nasi ciemiężcy pozostali nieświadomi.",
+    "Musieliśmy poddać się okrutnej metodzie prześladowań, mającej na celu zmusić innych do posłuszeństwa.",
+    "Zostaliśmy wrzuceni do płonącego piekła, jednak nasza wytrwałość zapewniła nam wysoką pozycję u Allaha.",
+    "Nasza historia opowiedziana jest w Surze, której nazwa pochodzi od konstelacji niebieskich i która ostrzega przed losem tych, którzy prześladują wierzących."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ludzie z Thamud",
+        "Ludzie z „Ad”",
+        "Ludzie z rowu",
+        "Ludzie Midianu",
+        "Ludzie Słonia"
+      ],
+      "answer": "Ludzie z rowu"
+    },
+    "trial": {
+      "label": "Nasze prześladowanie",
+      "options": [
+        "Utonięcie w powodzi",
+        "Pochłonięty przez palący wiatr",
+        "Wrzucenie do ognistego rowu",
+        "Pochłonięty przez ziemię",
+        "Zmienianie się w małpy"
+      ],
+      "answer": "Wrzucenie do ognistego rowu"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogromna powódź",
+        "Wielkie trzęsienie ziemi",
+        "Głęboki, płonący rów",
+        "Potężny bożek",
+        "Niszczycielska susza"
+      ],
+      "answer": "Głęboki, płonący rów"
+    },
+    "outcome": {
+      "label": "Nasz ostateczny los",
+      "options": [
+        "Dano im królestwo na ziemi.",
+        "Zostali uratowani dzięki cudownemu ocaleniu.",
+        "Osiągnęli męczeństwo i wieczną nagrodę.",
+        "Zostali przekształceni w inny gatunek.",
+        "Obdarzono ich ogromnym bogactwem i dobrobytem."
+      ],
+      "answer": "Osiągnęli męczeństwo i wieczną nagrodę."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

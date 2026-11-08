@@ -1,0 +1,61 @@
+{
+  "title": "Servus Dei Excelsus",
+  "intro": "Susurris audis de persona ex temporibus antiquis, servo Dei qui ad statum supra communem evectus est. Hic homo patientia inconcussa et veracitate absoluta notus erat, et ad populum qui a nuntio aversatus est missus est. Quis est haec anima sublimis?",
+  "clues": [
+    "Ab Allah ut propheta electus sum et in Sacro Alcorano memoratus sum.",
+    "Patientia et veracitate mea, qualitates quas Allah laudat, notus eram.",
+    "Populum meum ad unum Deum colendum vocavi, sed multi me reiecerunt.",
+    "Status meus ab Allah evectus est, et mihi gradus sublimis donatus est.",
+    "Saepe cum aliis prophetis, ut Ismail et Dhul-Kifl, memoror.",
+    "Deus de me dicit: \"Et eum ad statum excelsum extulimus.\" (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Idris propheta",
+        "Propheta Elias",
+        "Propheta Dhu al-Kifl",
+        "Propheta Al-Yasa",
+        "Propheta Hud"
+      ],
+      "answer": "Idris propheta"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Vocavit homines ad Deum colendum",
+        "Arcam aedificavit",
+        "Contra Pharaonem pugnavit",
+        "Gravi morbo probatus est",
+        "In ignem coniectus est"
+      ],
+      "answer": "Vocavit homines ad Deum colendum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ordo excelsus/statio alta",
+        "Arca",
+        "Ministri",
+        "Ignis",
+        "Puteus"
+      ],
+      "answer": "Ordo excelsus/statio alta"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ad statum altum evectus",
+        "In diluvio submersi",
+        "A balaena deglutitus",
+        "Servatus ab igne",
+        "Rex factus est"
+      ],
+      "answer": "Ad statum altum evectus"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

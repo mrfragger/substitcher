@@ -1,0 +1,61 @@
+{
+  "title": "Izgovoreno u biće",
+  "intro": "Iz svete historije izranja lik koji čini čuda koja su prkosila prirodnom poretku. Ova duša je stigla po jednoj božanskoj zapovijedi, odbranila roditelja od teških optužbi i napustila ovaj svijet prije nego što su je zemaljski lanci mogli vezati. Priča se proteže od skromne kolijevke do neba. Ko bi to mogao biti?",
+  "clues": [
+    "Poslan sam kao znak i milost od Allaha djeci Izraela.",
+    "Moj dolazak je bio drugačiji od bilo kojeg prije — nastao sam božanskom riječju 'Budi!' bez zemaljskog oca.",
+    "Moj roditelj se suočio s okrutnom klevetom, ali sveta objava je sišla da proglasi njihovu nevinost i uzdigne njihov položaj.",
+    "Kao novorođenče, zadivljivao sam one oko sebe govoreći jasno od kolijevke kako bih očistio ime svojih roditelja.",
+    "Allahovom dozvolom, oblikovao sam život od beživotne gline, slijepima sam vratio vid i svojim dodirom izliječio gubavca.",
+    "Uzdignut sam na nebesa prije nego što me je neko mogao pogoditi, i vratiću se na ovaj svijet prije nego što dođe Posljednji Čas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Isa",
+        "Poslanik Musa",
+        "Poslanik Ibrahim",
+        "Poslanik Jusuf",
+        "Poslanik Davud"
+      ],
+      "answer": "Poslanik Isa"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Govoreći od kolijevke kao beba",
+        "Preživljavanje u utrobi velike ribe",
+        "Biti bačen u plamteću vatru",
+        "Izgradnja velike arke prije potopa",
+        "Suočavanje s čarolijom faraonovog dvora"
+      ],
+      "answer": "Govoreći od kolijevke kao beba"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Indžil (Evanđelje)",
+        "Tevra (Tora)",
+        "Zabur (Psalmi)",
+        "Suhuf (Ibrahimovi svici)",
+        "Štap koji je rascijepio more"
+      ],
+      "answer": "Indžil (Evanđelje)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Uzdignut na nebesa, vratit će se prije Sudnjeg dana",
+        "Izveo je djecu Izraelovu iz Egipta",
+        "Postao je kralj s vlašću nad džinima, ljudima i pticama",
+        "Preživio veliku poplavu s vjernicima",
+        "Izgradio je svetu kuću u Meki"
+      ],
+      "answer": "Uzdignut na nebesa, vratit će se prije Sudnjeg dana"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

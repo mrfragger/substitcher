@@ -1,0 +1,61 @@
+{
+  "title": "Ang Kaluluwang Matiyaga",
+  "intro": "Sa mga talaan ng pagkapropeta, mayroong isang kaluluwa na ang pagtitiis ay nakaukit sa mismong tela ng kanilang pagkatao. Sa pamamagitan ng mga luha at panahon, mahigpit silang kumapit sa pag-asa, at naging isang walang-kupas na halimbawa ng pagtitiwala sa banal na karunungan. Masusugpo mo ba ang misteryo ng matibay na pigurang ito?",
+  "clues": [
+    "Ipinanganak ako sa isang pamilya ng mga propeta, ngunit ang pinakamalaking pagsubok sa akin ay dumating sa batang pinakamamahal ko.",
+    "Nakatanggap ako ng babala tungkol sa selos mula sa isang panaginip na ibinahagi ng aking anak, at nangamba ako para sa kanyang kaligtasan.",
+    "Namumula ang aking mga mata sa kalungkutan, ngunit hindi ako nawalan ng pananampalataya sa awa ng Allah.",
+    "Naamoy ko ang nawawala kong anak mula sa malayo, at alam ko noon na malapit na ang muling pagkikita.",
+    "Yumuko ang aking pamilya sa pasasalamat nang matupad ang pangitain noon, at bumalik sa dati ang aking paningin.",
+    "Ako yung binigyan ng damit na may bahid ng dugo, para lang makatanggap ng damit na nakapagpagaling ng paningin ko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Ibrahim",
+        "Propeta Ishaq",
+        "Propeta Yaqub",
+        "Propeta Yusuf",
+        "Propeta Ayyub"
+      ],
+      "answer": "Propeta Yaqub"
+    },
+    "trial": {
+      "label": "Ang Mahalagang Paglilitis",
+      "options": [
+        "Pagkahiwalay sa minamahal na anak at pagkawala ng paningin",
+        "Itinapon sa nagliliyab na apoy",
+        "Nilunok ng isang malaking isda",
+        "Pagtitiis sa pagkawala ng kayamanan, mga anak, at kalusugan",
+        "Ang pagkakanulo ng kaniyang mga kapatid at pagkatapon sa isang balon"
+      ],
+      "answer": "Pagkahiwalay sa minamahal na anak at pagkawala ng paningin"
+    },
+    "location": {
+      "label": "Ang Simbolikong Bagay",
+      "options": [
+        "Isang kamiseta na unang nagtago ng katotohanan pagkatapos ay nagsiwalat nito",
+        "Isang tungkod na naging ahas",
+        "Isang balyena na lumunok ng isang propeta",
+        "Isang apoy na naging malamig",
+        "Isang pares ng sandalyas sa nagliliyab na palumpong"
+      ],
+      "answer": "Isang kamiseta na unang nagtago ng katotohanan pagkatapos ay nagsiwalat nito"
+    },
+    "outcome": {
+      "label": "Ang Banal na Resolusyon",
+      "options": [
+        "Muling pagsasama sa isang nawalang mahal sa buhay at pagpapanumbalik ng paningin",
+        "Pagligtas mula sa isang bansang puno ng pang-aapi",
+        "Paglaya mula sa tiyan ng isda",
+        "Kaligtasan mula sa nagliliyab na apoy",
+        "Pag-akyat sa isang dakilang trono"
+      ],
+      "answer": "Muling pagsasama sa isang nawalang mahal sa buhay at pagpapanumbalik ng paningin"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

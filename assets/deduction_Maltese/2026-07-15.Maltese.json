@@ -1,0 +1,61 @@
+{
+  "title": "Ir-Retreat Solitarju",
+  "intro": "Fl-annali tal-favur divin, teżisti ruħ ta’ purità bla paragun, imwarrba minn niesha biex tfittex is-solitudni f’direzzjoni sagra. Ftit kienu jafu li dan l-għeluq kien se jġib sinjal għad-dinjiet kollha, prova tal-fidi li kienet se titkellem dwarha għall-eternità.",
+  "clues": [
+    "Kont iddedikat għal ħajja ta' servizz qabel ma twelidt.",
+    "Tqegħidt taħt il-kustodja ta' profeta nobbli.",
+    "Jien ġejt sostnut bi provvisti mingħand Alla li stagħġbu lill-kustodju tiegħi.",
+    "Irtirajt mill-familja tiegħi għal post fil-Lvant.",
+    "Deherli anġlu fil-forma ta’ raġel perfett, u ġabli aħbar ta’ iben safi.",
+    "Meta rġajt lura bit-tarbija tat-twelid tiegħi, in-nies tiegħi akkużawni, imma t-tarbija tkellmet għad-difiża tiegħi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Maryam (Marija)",
+        "Asiyah (mara tal-Fargħun)",
+        "Hajar (omm Ismail)",
+        "Sarah (mara ta' Ibrahim)",
+        "Omm Musa"
+      ],
+      "answer": "Maryam (Marija)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Konċepiment u twelid mirakoluż ta’ iben",
+        "Li tintrema fin-nar",
+        "Jinbela’ minn ħuta ġganteska",
+        "Il-bini ta’ arka kbira",
+        "Qsim tal-baħar"
+      ],
+      "answer": "Konċepiment u twelid mirakoluż ta’ iben"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Post imwarrab fil-Lvant",
+        "L-għollieq jaqbad",
+        "Il-Baħar l-Aħmar",
+        "Il-blata li minnha ħareġ l-ilma",
+        "Il-baliena"
+      ],
+      "answer": "Post imwarrab fil-Lvant"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Tarbija tkellmet fid-difiża ta’ ommha",
+        "Il-baħar kien miftuħ",
+        "In-nar sar kiesaħ u sigur",
+        "Il-baliena rremettat fuq ix-xatt",
+        "L-arka niżlet fuq muntanja"
+      ],
+      "answer": "Tarbija tkellmet fid-difiża ta’ ommha"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

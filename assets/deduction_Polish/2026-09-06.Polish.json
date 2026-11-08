@@ -1,0 +1,61 @@
+{
+  "title": "Wygnaniec Złotego Cielca",
+  "intro": "Postać wspomniana w Koranie doprowadziła do zboczenia z drogi rzesze wyznawców podczas nieobecności szlachetnego proroka. Przedmiot ze złota podbił serca całego narodu – ale historia tej osoby kończy się samotnością i dziwną klątwą. Kim mógł być ten wyrzutek?",
+  "clues": [
+    "Pojawiłem się pod nieobecność wielkiego proroka, który wstąpił, aby otrzymać boskie przewodnictwo.",
+    "Sprawiłem, że wielka rzesza ludzi zbłądziła przez coś, co stworzyłem własnymi rękami.",
+    "Złote dzieło, które stworzyłem, zdawało się pełne życia, wydając dźwięki hipnotyzujące tych, którzy za nim podążali.",
+    "Twierdziłem, że widziałem to, czego inni nie mogli dostrzec — że zobaczyłem coś niewidzialnego.",
+    "Wyciągnąłem coś ze śladów boskiego posłańca i odlałem to w stopionym metalu.",
+    "Zostałem skazany na samotną wędrówkę, obciążony wyjątkową klątwą, która sprawiała, że ​​nikt nie mógł dotknąć mojej skóry, ani ja nie mogłem dotknąć ich."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraon (Firawn)",
+        "Abu Lahab",
+        "Prorok Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Stworzył złotego cielca do oddawania czci",
+        "Zbudowałem wieżę sięgającą nieba",
+        "Wyzwanie dla egipskich czarowników",
+        "Poprowadził armię z latającymi bestiami",
+        "Podzielenie księżyca jako dowód proroctwa"
+      ],
+      "answer": "Stworzył złotego cielca do oddawania czci"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec",
+        "Laska, która zamieniła się w węża",
+        "Płonący krzew na górze",
+        "Arka spoczywająca na szczycie",
+        "Rów wypełniony płonącym ogniem"
+      ],
+      "answer": "Złoty cielec"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wygnany, z zakazem bycia dotykanym lub dotykania innych",
+        "Utonął w morzu wraz z armią",
+        "Spalony żywcem za odrzucenie wiary",
+        "Powalony przez gwałtowny, ryczący wiatr",
+        "Wybaczony i podniesiony na wysoką pozycję"
+      ],
+      "answer": "Wygnany, z zakazem bycia dotykanym lub dotykania innych"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

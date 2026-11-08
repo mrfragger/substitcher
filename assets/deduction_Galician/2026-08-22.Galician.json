@@ -1,0 +1,61 @@
+{
+  "title": "A cidade que cría no tempo",
+  "intro": "Nos anais da misericordia divina, hai unha comunidade cuxo punto de inflexión foi un momento de comprensión colectiva. Estás a piques de descubrir a súa historia: unha historia de advertencia, arrepentimento e un indulto que os distingue do destino doutras nacións.",
+  "clues": [
+    "Eramos un pobo ao que se lle enviou un mensaxeiro, e ao principio rexeitamos a súa chamada.",
+    "Cando os sinais do castigo inminente se fixeron evidentes, decatámonos da verdade da súa advertencia.",
+    "Recorrémonos ao noso Señor con arrepentimento sincero, e a nosa fe foi aceptada.",
+    "O castigo que fora decretado sobre nós foi levantado por mor da nosa crenza.",
+    "A nosa historia é citada como unha excepción entre as cidades que creron despois de ver o castigo.",
+    "Eramos o pobo do profeta que foi tragado pola balea, pero fomos salvados da destrución."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Xente de Yunus",
+        "Xente de Nuh",
+        "Xente de Hud",
+        "Xente de Salih",
+        "Xente de Lut"
+      ],
+      "answer": "Xente de Yunus"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Unha inundación devastadora",
+        "Unha forte tormenta de vento",
+        "Un castigo inminente de desgraza que foi evitado",
+        "A terra tragándoos",
+        "Unha choiva de pedras"
+      ],
+      "answer": "Un castigo inminente de desgraza que foi evitado"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A arca",
+        "A cameloa",
+        "Unha cidade de cen mil",
+        "O persoal de Musa",
+        "O tesouro de Qarun"
+      ],
+      "answer": "Unha cidade de cen mil"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Foron destruídos por completo",
+        "Déronlles pracer por un tempo",
+        "Transformáronse en simios",
+        "Afogáronse.",
+        "Foron tragados pola terra"
+      ],
+      "answer": "Déronlles pracer por un tempo"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

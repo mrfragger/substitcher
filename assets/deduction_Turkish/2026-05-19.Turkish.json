@@ -1,0 +1,61 @@
+{
+  "title": "Bir Ulusun Atanmış Lideri",
+  "intro": "Bir halk için büyük zorluk ve umutsuzluk zamanında, ilahi bir atama gerçekleşti. Başlangıçta birçok kişi tarafından göz ardı edilen bu kişi, Allah tarafından güçlü bir düşmana karşı bir millete önderlik etmek üzere seçildi. Hikayeleri, imanın gücüne ve ilahi takdirin ardındaki hikmete bir kanıt niteliğindedir ve gerçek liderliğin her zaman beklenmedik yerlerde bulunmadığını göstermektedir.",
+  "clues": [
+    "Halkım O'nun yolunda savaşacak bir lider ararken, ben Allah tarafından onlara önderlik etmek üzere seçildim.",
+    "Halkım başlangıçta atamamı sorguladı, başkalarının zenginlikleri veya soyları nedeniyle daha çok hak ettiğini düşündüler.",
+    "Benim haklı liderliğimin bir işareti, önceki peygamberlere ait kutsal emanetleri içeren ve huzur getiren kutsal bir sandığın geri getirilmesiydi.",
+    "Ordumu bir nehre götürdüm ve onlara bir kepçeden fazla su içmeyi yasaklayarak itaatlerini sınadım.",
+    "Sınavdan sonra sebat edenlerin sayısı az olsa da, karşımızda güçlü bir savaşçı ve ordusu vardı.",
+    "Komutam altında, ordumdan tanınmış bir savaşçı olmayan genç bir asker, cesurca düşmanın güçlü şampiyonuyla karşı karşıya geldi ve onu mağlup etti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yusuf",
+        "Peygamber Musa",
+        "Peygamber Davud",
+        "Peygamber Süleyman",
+        "Talut"
+      ],
+      "answer": "Talut"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Denizin yarılması",
+        "Büyücülerin meydan okuması",
+        "Dev bir güce karşı lider olarak atanmak",
+        "Toprakları sular altında bırakan sel.",
+        "Kabe'nin inşası"
+      ],
+      "answer": "Dev bir güce karşı lider olarak atanmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yanan çalı",
+        "Nuh'un Gemisi (Tabut)",
+        "Personel (عصا)",
+        "altın buzağı",
+        "Zemzem kuyusu"
+      ],
+      "answer": "Nuh'un Gemisi (Tabut)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Büyük zenginlik ve güce sahip bir krallık kuruldu.",
+        "İnsanlar büyük bir selde boğuldular.",
+        "Düşmanın şampiyonu yenildi ve Allah zaferi bahşetti.",
+        "Yıllarca süren büyük bir kuraklık ülkeyi kasıp kavurdu.",
+        "Lider, büyük bir yaratık tarafından yutuldu."
+      ],
+      "answer": "Düşmanın şampiyonu yenildi ve Allah zaferi bahşetti."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

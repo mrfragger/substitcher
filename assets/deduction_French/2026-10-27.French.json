@@ -1,0 +1,61 @@
+{
+  "title": "Un siège sous un ciel soudain",
+  "intro": "Vous vous tenez devant une armée redoutable qui approche d'un sanctuaire vénéré, toutes armes en main et la victoire apparemment assurée. Avant même que l'assaut ne puisse commencer, une force inattendue surgit au-dessus de vous, et le combat prend une tournure que personne n'avait prévue.",
+  "clues": [
+    "Nous avons marché avec une confiance qu'aucune puissance terrestre ne pouvait ébranler.",
+    "Nous avions amené de puissants éléphants, et notre armée semblait construite autour d'eux.",
+    "Nous étions venus détruire un sanctuaire vénéré, persuadés que notre victoire était déjà assurée.",
+    "Lorsque nous sommes arrivés à destination, un vol d'oiseaux a traversé le ciel au-dessus de nous.",
+    "Les oiseaux lançaient des pierres d'argile durcie sur nos guerriers.",
+    "Nous avons été vaincus si complètement que notre puissante force s'est effondrée et dispersée comme des cendres."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le peuple de l'éléphant",
+        "Les Deux Princes",
+        "Les frères de Joseph",
+        "Le serviteur d'Allah dans Dhul-Kifl",
+        "Les Compagnons du Juste"
+      ],
+      "answer": "Le peuple de l'éléphant"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "L'assaut mené par des éléphants contre la Kaaba",
+        "La mer s'ouvre devant un groupe livré",
+        "La saisie de l'Arche par un peuple tyrannique",
+        "Le voyage nocturne entre deux mosquées",
+        "La guérison d'un lépreux par la puissance divine"
+      ],
+      "answer": "L'assaut mené par des éléphants contre la Kaaba"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Oiseaux transportant des boulettes d'argile",
+        "Une arche de bois de gopher",
+        "Un bâton transformé en serpent",
+        "Une pierre scellée d'un signe",
+        "Un buisson ardent"
+      ],
+      "answer": "Oiseaux transportant des boulettes d'argile"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Leur puissance colossale s'est effondrée comme de la cendre.",
+        "Ils ont traversé la mer en toute sécurité",
+        "Ils traversèrent indemnes une fournaise ardente",
+        "Ils entrèrent au Paradis par paires",
+        "Ils ont dormi dans une grotte pendant 309 ans."
+      ],
+      "answer": "Leur puissance colossale s'est effondrée comme de la cendre."
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

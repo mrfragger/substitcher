@@ -1,0 +1,60 @@
+{
+  "title": "Tidur Abadi",
+  "intro": "Anda akan memulai perjalanan menembus waktu, menghadapi misteri mendalam tentang iman dan kekuatan ilahi. Bayangkan sekelompok individu yang menentang norma-norma masyarakat mereka, berpegang teguh pada monoteisme di dunia politeisme. Kisah mereka adalah bukti kemampuan Allah untuk melindungi hamba-hamba-Nya yang saleh dengan cara yang paling luar biasa. Dapatkah Anda mengungkap identitas tokoh-tokoh luar biasa ini?",
+  "clues": [
+    "Kami adalah sekelompok kecil pemuda yang percaya kepada satu Tuhan, meskipun politeisme tersebar luas di kalangan masyarakat kami.",
+    "Kami melarikan diri dari penguasa tirani yang mengancam kami karena iman kami, karena takut akan penganiayaan dan kematian.",
+    "Kami mencari perlindungan di tempat terpencil, berharap mendapat rahmat Allah dan perlindungan dari para penindas kami.",
+    "Tuhan kita membuat kita tertidur lelap, tidur ajaib yang menentang berlalunya waktu.",
+    "Ketika kami terbangun, kami percaya bahwa kami hanya beristirahat selama sehari atau sebagian hari, tanpa menyadari lamanya waktu yang sebenarnya telah berlalu.",
+    "Al-Quran menyebutkan bahwa Kami tetap berada dalam keadaan Kami selama tiga ratus tahun, dan bahkan melampauinya selama sembilan tahun, sehingga menjadi tanda bagi umat manusia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang-orang di Parit",
+        "Kaum Thamud",
+        "Orang-orang Gua",
+        "Penduduk Madyan",
+        "Para Sahabat Gajah"
+      ],
+      "answer": "Orang-orang Gua"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Menghadapi banjir besar",
+        "Ditelan oleh bumi",
+        "Tidur panjang yang ajaib",
+        "Kehancuran kota mereka",
+        "Terbelahnya laut"
+      ],
+      "answer": "Tidur panjang yang ajaib"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Semak yang terbakar",
+        "Sebuah gunung",
+        "Sebuah perahu",
+        "Sebuah gua",
+        "Sebuah sumur"
+      ],
+      "answer": "Sebuah gua"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Mereka dianugerahi kekayaan dan kekuasaan yang sangat besar.",
+        "Mereka diubah menjadi kera dan babi.",
+        "Mereka terbangun dari tidur sebagai sebuah pertanda yang mendalam.",
+        "Mereka tenggelam dalam banjir besar.",
+        "Mereka membangun sebuah kerajaan yang megah."
+      ],
+      "answer": "Mereka terbangun dari tidur sebagai sebuah pertanda yang mendalam."
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

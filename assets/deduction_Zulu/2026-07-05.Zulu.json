@@ -1,0 +1,61 @@
+{
+  "title": "Umlethi Osheshayo Wesihlalo Sobukhosi",
+  "intro": "Enkantolo yombusi onamandla, kwenziwa isicelo esingenakwenzeka, futhi abaningi bancintisana ukuze bafakazele ukubaluleka kwabo. Kodwa-ke, umsebenzi wawungafezwa kuphela ngumuntu oxhumano lwakhe nolwazi lwaphezulu oludlula wonke amandla angokomzimba, embula umzuzu owawuzozwakala eminyakeni eminingi.",
+  "clues": [
+    "Ngangisebenzela inkosi enkulu eyayingumprofethi, futhi ngangiphakathi kweqembu layo elithembekile kakhulu.",
+    "Ngangingesona isidalwa somlilo noma isidalwa esinamandla amakhulu, kodwa ngangiphethe okuthile okunamandla kakhulu.",
+    "Lapho inkosi icela ukuba kulethwe isihlalo sobukhosi ezweni elikude, ngangazi kahle ukuthi ngenzeni.",
+    "Ngakhuluma ngolwazi enganginalo oluvela eNcwadini, futhi ngaphambi kokuba noma ubani aphendule, isihlalo sobukhosi sabekwa phambi kwenkosi.",
+    "Isenzo sami sasingesiwo amandla ami, kodwa sasiwukubonakaliswa kokuthi ulwazi lweqiniso luvela ku-Allah kuphela.",
+    "Nginguye owaletha isihlalo sobukhosi seNdlovukazi yaseSheba ngokuphazima kweso, njengoba kulotshwe kuSurah An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Lowo owayenolwazi lweNcwadi",
+        "Ijini elinamandla u-Ifrit",
+        "Inyoni eyi-hoopoe kaSulayman",
+        "Umprofethi uSulayman",
+        "INdlovukazi yaseSheba"
+      ],
+      "answer": "Lowo owayenolwazi lweNcwadi"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuletha isihlalo sobukhosi seNdlovukazi yaseSheba ngokuphazima kweso",
+        "Ukuhlukanisa uLwandle Olubomvu kwama-Israyeli",
+        "Ukwakha iKaaba nendodana yakhe",
+        "Ukusinda esithandweni somlilo",
+        "Ukusindiswa esiswini somkhomo"
+      ],
+      "answer": "Ukuletha isihlalo sobukhosi seNdlovukazi yaseSheba ngokuphazima kweso"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isihlalo Sobukhosi sikaBilqis",
+        "Induku kaMusa",
+        "Umphongolo kaNuh",
+        "Umlilo waseNamrud",
+        "Umkhomo kaYunus"
+      ],
+      "answer": "Isihlalo Sobukhosi sikaBilqis"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Isihlalo sobukhosi savela khona manjalo phambi kukaSulayman njengovivinyo lokubonga",
+        "Indlovukazi yamukela ubuSulumane ngokushesha",
+        "Ijini laboshwa ngenxa yokwehluleka",
+        "USulayman wadela umbuso wakhe",
+        "Isihlalo sobukhosi saphulwa saba yizicucu"
+      ],
+      "answer": "Isihlalo sobukhosi savela khona manjalo phambi kukaSulayman njengovivinyo lokubonga"
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

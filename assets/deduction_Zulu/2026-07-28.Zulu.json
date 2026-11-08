@@ -1,0 +1,61 @@
+{
+  "title": "Ukuhlolwa Kwesidalwa Esingcwele",
+  "intro": "Isibonakaliso sathunyelwa esizweni esasiphambukile. Phakathi nokuphila kwabo okunethezekile kwafika isixwayiso—sihambisana nesidalwa esimangalisayo esasizoba uvivinyo olukhulu lokholo lwabo. Impendulo yabo yayizoqinisekisa isiphetho sabo kuze kube phakade. Ungayithola yini ukuthi ubani owaletha lesi sixwayiso nokuthi kwenzekani ngalabo abasilahla?",
+  "clues": [
+    "Sasingabantu ababeholwa yizithunywa zangaphambilini ngaphambi kwethu.",
+    "Isidalwa esihle kakhulu savela entabeni, isibonakaliso esivela eNkosini yethu kulesi sizwe.",
+    "Ngabatshela: 'Leli ikamela lensikazi elika-Allah, ngakho-ke liyekeni lidle emhlabeni ka-Allah futhi ningalithinti ngokulimaza.'",
+    "Kodwa abantu banquma ikamela lami eliyinsikazi, bephula umyalo weNkosi yabo.",
+    "Ngiyisithunywa esivela eNkosini yakho kuphela, ngithunywe ngeqiniso—ngingumprofethi nenceku ethembekile.",
+    "Ngokuqondene nabenzi bobubi, iNkosi yethu yabashaya ngomsindo odumayo, base bema benganyakazi emakhaya abo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uHud wabantu base-A'ad",
+        "Umprofethi uSalih wabantu baseThamud",
+        "Umprofethi uShu'aib waseMidiyani",
+        "Umprofethi uLut wabantu baseSodoma",
+        "Umprofethi uNuh woMphongolo"
+      ],
+      "answer": "Umprofethi uSalih wabantu baseThamud"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "UZamcolo owaminza isizwe esingakholwa",
+        "Ukuzamazama komhlaba okwabhubhisa idolobha elinesono",
+        "Ikamela lensikazi elithunyelwe njengesibonakaliso nesivivinyo saphezulu",
+        "Isiphepho esajezisa abantu bakwaMidiyani",
+        "Ukubhujiswa kwabantu bakaLoti ngamatshe"
+      ],
+      "answer": "Ikamela lensikazi elithunyelwe njengesibonakaliso nesivivinyo saphezulu"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Idolobha laseSodoma eSigodini saseJordani",
+        "Isigodi sase-Al-Hijr phakathi kweHijaz neSiriya",
+        "Izwe lasendulo lase-A'ad eningizimu ye-Arabia",
+        "Amahlathi aseMidiyani eduze koLwandle Olubomvu",
+        "Amathafa aseNtabeni iJudi eMesopotamiya"
+      ],
+      "answer": "Isigodi sase-Al-Hijr phakathi kweHijaz neSiriya"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Basindiswa ngemva kokuphenduka nokukholwa",
+        "Imvula yamatshe yababhubhisa ngokuphelele",
+        "Umsindo onjengokuduma kwezulu wabashaya banganyakazi",
+        "Bathuthwa ngumoya onamandla",
+        "Ukuzamazama komhlaba kwabagwinya phansi"
+      ],
+      "answer": "Umsindo onjengokuduma kwezulu wabashaya banganyakazi"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

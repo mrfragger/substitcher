@@ -1,0 +1,61 @@
+{
+  "title": "Ubufakazi Obuqinile",
+  "intro": "Indaba ejulile iyavela, yembula ukuzimisela okungenakunyakaziswa komphakathi lapho ubhekene nobudlova obukhulu. Indaba yabo isebenza njengobufakazi bokholo, ngisho nalapho bebhekene nomhlatshelo omkhulu. Le ndaba isikhumbuza amandla okukholelwa ekucindezelweni okukhulu.",
+  "clues": [
+    "Sasiyiqembu elindaba yalo ilandiswa nge-surah emfushane nenamandla, exwayisa ngokushushiswa.",
+    "Sabhekana nombusi owayefisa ukuqeda ukukholelwa kwethu kuNkulunkulu oyedwa, iNkosi yesihlalo sobukhosi, oDunyiswayo.",
+    "Sabhekana novivinyo olubi kakhulu oluhilela umgodi omkhulu ombiwe emhlabathini.",
+    "Sabuka njengoba amakholwa, kuhlanganise nezinsana, ephonswa esihogweni esivuthayo ngaphakathi kwalowo mgodi.",
+    "Abahluphi bethu baqalekiswa ngezenzo zabo, kanti thina sathenjiswa umvuzo omkhulu ngokuqina kwethu.",
+    "Umzamo wombusi wokucima ukholo lwethu waqinisa indawo yethu njengabafel’ ukholo emehlweni ka-Allah, ongufakazi wazo zonke izinto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu baseMgodini",
+        "Abantu bakaLut",
+        "Abantu Bendlovu"
+      ],
+      "answer": "Abantu baseMgodini"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "UZamcolo Omkhulu",
+        "Isihlahla Esivuthayo",
+        "Ukuminza Olwandle",
+        "Umgodi Womlilo",
+        "Ukuzamazama Komhlaba"
+      ],
+      "answer": "Umgodi Womlilo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "UMphongolo",
+        "Abasebenzi",
+        "Umsele",
+        "Intaba",
+        "Umthombo"
+      ],
+      "answer": "Umsele"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Banikwa umbuso",
+        "Sasindiswa ngesimangaliso",
+        "Wafel’ ukholo kanye nePharadesi",
+        "Behlakazeke emazweni amaningi",
+        "Banikwa ingcebo enkulu"
+      ],
+      "answer": "Wafel’ ukholo kanye nePharadesi"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

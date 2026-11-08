@@ -1,0 +1,61 @@
+{
+  "title": "Neochvejný svedok",
+  "intro": "Odvíja sa hlboký príbeh, ktorý odhaľuje neochvejné odhodlanie komunity tvárou v tvár obrovskej tyranii. Ich príbeh slúži ako dôkaz viery, a to aj vtedy, keď sú konfrontovaní s najvyššou obeťou. Toto rozprávanie nám pripomína silu viery proti drvivému útlaku.",
+  "clues": [
+    "Boli sme skupinou, ktorej príbeh je vyrozprávaný v krátkej, pôsobivej súre, varujúcej pred prenasledovaním.",
+    "Stáli sme pred vládcom, ktorý chcel vykoreniť našu vieru v Jediného Boha, Pána Trónu, Chvályhodného.",
+    "Boli sme podrobení strašnej skúške, v ktorej bola vykopaná obrovská jama v zemi.",
+    "Sledovali sme, ako veriaci, vrátane detí, boli vrhaní do zúriaceho pekla v tej jame.",
+    "Naši mučitelia boli prekliati za svoje činy, zatiaľ čo nám bola sľúbená nesmierna odmena za našu vytrvalosť.",
+    "Vládcov pokus uhasiť našu vieru len upevnil naše miesto mučeníkov v očiach Alaha, ktorý je svedkom všetkého."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z Thamudu",
+        "Ľudia z 'Ad",
+        "Ľudia z priekopy",
+        "Ľudia z Luta",
+        "Ľudia slona"
+      ],
+      "answer": "Ľudia z priekopy"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Veľká potopa",
+        "Horiaci ker",
+        "Utopenie v mori",
+        "Ohnivá jama",
+        "Zemetrasenie"
+      ],
+      "answer": "Ohnivá jama"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Archa",
+        "Zamestnanci",
+        "Priekopa",
+        "Hora",
+        "Studňa"
+      ],
+      "answer": "Priekopa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Bolo im udelené kráľovstvo",
+        "Boli zachránení zázrakom",
+        "Dosiahol mučeníctvo a raj",
+        "Boli roztrúsení po krajinách",
+        "Dostali obrovské bohatstvo"
+      ],
+      "answer": "Dosiahol mučeníctvo a raj"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

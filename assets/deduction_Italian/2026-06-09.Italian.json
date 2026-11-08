@@ -1,0 +1,61 @@
+{
+  "title": "Colui che chiama incrollabilmente alla verità",
+  "intro": "Un messaggero si erge solitario in mezzo a un popolo ostinato, chiamandolo verso l'Unico Vero Dio mentre esso rimane attaccato a falsi idoli. Questo profeta porta un nome che risuona di un significato potente: \"colui che cerca protezione\", eppure riceve solo rifiuto e negazione. Attraverso una persuasione gentile e un fermo monito, quest'anima porta un messaggio divino che l'universo stesso alla fine confermerà. Riuscite a identificare questa figura risoluta che rappresenta una delle narrazioni più antiche delle scritture islamiche?",
+  "clues": [
+    "Il mio popolo adorava molte divinità, mentre io li chiamavo a servire Colui che ha creato i cieli e la terra.",
+    "Mi presentai davanti alla mia nazione e dichiarai che non avrei chiesto loro alcuna ricompensa: il mio unico desiderio era la loro guida sulla retta via.",
+    "Un grande vento si abbatté sul mio popolo come punizione divina, un vento di cui il Corano parla sia al plurale che al femminile.",
+    "A differenza di alcuni profeti, non mi è stata data una moglie o dei figli, che vengono menzionati in modo prominente nella mia narrazione, poiché la mia missione era quella di chiamare il mio popolo soltanto.",
+    "Il mio nome ha un significato profondo, legato al concetto di protezione e rifugio che si cerca.",
+    "Il mio popolo era conosciuto con uno specifico termine geografico per indicare la valle che abitava, e la loro terra veniva descritta con particolare disprezzo per la sua scarsità di vegetazione."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shu'aib",
+        "Profeta Nuh",
+        "Profeta Hudayb"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il diluvio della terra",
+        "Il vento rovente",
+        "Il terremoto della distruzione",
+        "La siccità e la carestia",
+        "L'annegamento in mare"
+      ],
+      "answer": "Il vento rovente"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La fertile valle dello Yemen",
+        "Il deserto sabbioso di Midian",
+        "La valle rocciosa del Thamud",
+        "L'antica terra del popolo degli Ad",
+        "La regione costiera dell'Egitto"
+      ],
+      "answer": "L'antica terra del popolo degli Ad"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il mio popolo si pentì ed entrò in paradiso",
+        "Nessuno del mio popolo è sopravvissuto alla punizione",
+        "Anch'io fui rapito vivo come mio fratello Yunus",
+        "Sono emigrato con i miei seguaci in una terra benedetta",
+        "Il vento distrusse solo i miscredenti mentre i credenti sopravvissero"
+      ],
+      "answer": "Nessuno del mio popolo è sopravvissuto alla punizione"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

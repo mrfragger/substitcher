@@ -1,0 +1,61 @@
+{
+  "title": "Taxt ortidagi soya",
+  "intro": "Siz qudratli qadimgi qirollikning hovlisida turibsiz, u yerda qudratli hukmdor o'zini barcha xalq ustidan xudo deb e'lon qilgan. Bu hukmdorning yonida qirollikning eng buyuk ambitsiyalari ishonib topshirilgan sadoqatli xizmatkor turibdi. Ular birgalikda fitna uyushtirib, reja tuzib, ularga yo'l-yo'riq ko'rsatish uchun yuborilgan elchining ogohlantirishlariga quloq solishdan bosh tortadilar. Bu sodiq xizmatkor kim bo'lganini bilib olasizmi?",
+  "clues": [
+    "Men barcha odamlar ustidan ilohiylikni da'vo qilgan qudratli shaxs boshqaradigan qudratli bir shohlikda yashardim.",
+    "Men bu hukmdorning ishonchli vaziri bo'lib xizmat qildim, ularning har bir amri va buyrug'ini bajardim.",
+    "Allohning elchisi bizni haqiqatga chaqirib, yurtimizga kelganida, men va hokimim quloq solishdan bosh tortdik.",
+    "Menga katta olov yoqish va ulkan qurilish uchun loydan g'isht tayyorlash buyurildi.",
+    "Mening hukmdorim osmonga yetib boradigan darajada baland inshoot qurmoqchi edi.",
+    "Oxir-oqibat, hukmdorim, qo'shinlarimiz va men dengiz tubiga cho'kib ketdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Xomon",
+        "Zul-Kifl",
+        "Jibril",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Xomon"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Osmonga yetib borish uchun minora qurish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Xalqni tosh butlarga sig'inishdan uyg'otish",
+        "Oyni ilohiy belgi sifatida ajratish",
+        "Ilohiy amr bilan qudratli shaharni zabt etish"
+      ],
+      "answer": "Osmonga yetib borish uchun minora qurish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Pishgan loy g'ishtlardan yasalgan minora",
+        "Kitning qorni",
+        "Cho'lda muqaddas buloq",
+        "Muqaddas tog'dagi yonayotgan buta",
+        "Tanlangan oilani olib ketayotgan kema"
+      ],
+      "answer": "Pishgan loy g'ishtlardan yasalgan minora"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Dengiz tubida cho'kib ketdi",
+        "Muhtasham saroyda xavfsiz joyga ko'tarildi",
+        "Katta baliqning qornidan qutqarildi",
+        "Shohlik va ilohiy donolik bilan taqdirlangan",
+        "O'tkir qichqiriqdan changga aylandi"
+      ],
+      "answer": "Dengiz tubida cho'kib ketdi"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

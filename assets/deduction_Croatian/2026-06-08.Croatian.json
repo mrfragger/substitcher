@@ -1,0 +1,61 @@
+{
+  "title": "Molitelj Svetišta",
+  "intro": "U tihim noćnim satima, odana duša zazvala je Najmilostivijeg unutar svetih zidova svetog mjesta. Godine nepokolebljive vjere i strpljenja trebale su biti nagrađene čudom koje će donijeti radost i nasljeđe proročanstva.",
+  "clues": [
+    "Dane i noći provodio sam u pobožnosti unutar svetog hrama, neprestano moleći svoga Gospodina.",
+    "Ostario sam, a moja žena je bila neplodna, ali nikada nisam izgubio nadu u Allahovu milost.",
+    "Dobio sam sina, po imenu Yahya, koji je postao prorok i svjetionik pravednosti.",
+    "I sam sam bio prorok, poslan da vodim djecu Izraelovu.",
+    "Bio sam potomak proroka Haruna i služio sam kao svećenik u Hramu.",
+    "Bila mi je povjerena briga o Merjem, Isaovoj majci, i svjedočio sam njenim čudima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Zakarija",
+        "Poslanik Jahja",
+        "Poslanik Iljas",
+        "Poslanik Ishak",
+        "Poslanik Jakub"
+      ],
+      "answer": "Poslanik Zakarija"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Darovao sina u starosti",
+        "Spašen od plamtećeg požara",
+        "Spašen iz utrobe ribe",
+        "Preživio veliku poplavu",
+        "Izliječen od teške bolesti"
+      ],
+      "answer": "Darovao sina u starosti"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Mihrab (molitvena niša)",
+        "Kaba",
+        "Gorući grm",
+        "Kovčeg saveza",
+        "Špilja sedam spavača"
+      ],
+      "answer": "Mihrab (molitvena niša)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dobio pravednog sina koji je postao prorok",
+        "Uništeno snažnom olujom",
+        "Utopljen u moru",
+        "Pošteđen od opekotina",
+        "Vratili su se svojim ljudima nakon što su spašeni od ribe"
+      ],
+      "answer": "Dobio pravednog sina koji je postao prorok"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ny Mpanompon'i Allah ambony",
+  "intro": "Mandre bitsika avy amin'ny olona iray fahiny ianao, mpanompon'i Allah izay nasandratra ho ambony noho ny mahazatra. Fantatra tamin'ny faharetana tsy mety lefy sy ny fahamarinana tanteraka io olona io, ary nirahina ho any amin'ny vahoaka izay nivadika tamin'ny hafatra. Iza moa io fanahy ambony io?",
+  "clues": [
+    "Nofidin'i Allah ho mpaminany aho ary voatonona ao amin'ny CORAN Masina.",
+    "Fantatra tamin'ny faharetanako sy ny fahitsiana aho, toetra izay noderain'i Allah.",
+    "Niantso ny oloko aho mba hivavaka amin'Andriamanitra Tokana, saingy maro no nandà ahy.",
+    "Nasandratr'i Allah ny toerana misy ahy, ary nomena laharana ambony aho.",
+    "Matetika aho no voatonona miaraka amin'ireo mpaminany hafa toa an'i Ismail sy Dhul-Kifl.",
+    "Hoy Andriamanitra momba ahy: 'Ary nasandratray ho amin'ny toerana ambony izy.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Idris",
+        "Mpaminany Elia",
+        "Mpaminany Dhu al-Kifl",
+        "Mpaminany Al-Yasa",
+        "Mpaminany Hoda"
+      ],
+      "answer": "Mpaminany Idris"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Niantso ny olona hivavaka amin'i Allah",
+        "Nanao ny sambo fiara",
+        "Niady tamin'i Farao",
+        "Nosedraina tamin'ny aretina mafy",
+        "Natsipy tao anaty afo"
+      ],
+      "answer": "Niantso ny olona hivavaka amin'i Allah"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ambaratonga ambony/toerana ambony",
+        "Ny sambo fiara",
+        "Ny mpiasa",
+        "Ny afo",
+        "Ny lavadrano"
+      ],
+      "answer": "Ambaratonga ambony/toerana ambony"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nasandratra ho amin'ny toerana ambony",
+        "Rendrika tao anaty tondra-drano",
+        "Voatelina trozona",
+        "Voavonjy tamin'ny afo",
+        "Lasa mpanjaka"
+      ],
+      "answer": "Nasandratra ho amin'ny toerana ambony"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

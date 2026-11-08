@@ -1,0 +1,61 @@
+{
+  "title": "Taifa Lililopinga Nyumba Takatifu",
+  "intro": "Katika nyakati za kale, taifa lenye nguvu liliamua kushambulia patakatifu palipoheshimiwa na waumini. Kundi hili lilikuwa tajiri, lenye nguvu, na lenye ujasiri katika nguvu zao za kijeshi. Walileta kiumbe kikubwa ambacho kingetumika kama silaha yao ya vita. Lengo lao lilikuwa wazi: kubomoa nyumba takatifu na kuponda imani ya watu wake. Lakini kiburi chao kilikuwa karibu kukutana na mwitikio mbaya kutoka juu. Tukio hili la kihistoria likawa ishara na somo kwa wote waliokuja baada yake. Je, unaweza kutambua kundi hili kutokana na vidokezo?",
+  "clues": [
+    "Tulikuwa taifa lililobarikiwa utajiri na uhodari wa kijeshi.",
+    "Tulikusanya vikosi vyetu na kuleta mnyama mkubwa wa kumtumia katika kampeni yetu.",
+    "Lengo letu lilikuwa patakatifu ambapo tulitaka kuangamiza kabisa.",
+    "Tuliamini nguvu zetu zingetosha kushinda ulinzi wowote wa kimungu.",
+    "Lakini Bwana alituletea adhabu kutoka mbinguni ambayo hatukutarajia.",
+    "Tuliangamizwa mara moja, tukatawanyika kama majani yaliyovunjika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Tembo",
+        "Watu wa Thamud",
+        "Watu wa 'Ad",
+        "Masahaba wa Pango",
+        "Taifa la Nabii Hud"
+      ],
+      "answer": "Watu wa Tembo"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kumpeleka tembo kwenye nyumba takatifu ili kuiharibu",
+        "Kujenga mnara ili kufikia mbingu",
+        "Kujenga sanamu ya dhahabu kwa ajili ya ibada",
+        "Kukataa kumsikiliza mjumbe wa Mwenyezi Mungu",
+        "Kuchimba kisima ili kuwadhuru waumini"
+      ],
+      "answer": "Kumpeleka tembo kwenye nyumba takatifu ili kuiharibu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Tembo",
+        "Ndama wa Dhahabu",
+        "Fimbo ya Musa",
+        "Samaki wa Yunus",
+        "Chuma cha Dawud"
+      ],
+      "answer": "Tembo"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Waliangamizwa na makundi ya ndege kwa mawe",
+        "Walizama katika mafuriko makubwa",
+        "Walibadilishwa kuwa nyani na nguruwe",
+        "Walizikwa chini ya mawe yaliyoanguka kutoka mlimani",
+        "Walichomwa moto kutoka mbinguni"
+      ],
+      "answer": "Waliangamizwa na makundi ya ndege kwa mawe"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

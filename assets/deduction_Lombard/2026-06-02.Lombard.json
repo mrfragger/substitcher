@@ -1,0 +1,61 @@
+{
+  "title": "El Guardian de la Porta del Sul Nasent",
+  "intro": "Ind tut ol Coran, certe aneme traversen la terra lassand trace de savieza e de meraveia. Una de qei figure qì l’è viajada ind i pont plussee lontan de la creazion - indov qe el sol al leva su e al tramonta, indov qe una barriera la trategn el caos medesim. A qest servidor de Allah l’è stait dait un regn qe nissun al g’havaria mai possedud anc’mò. Travers tri viagg diferent, el fin de chestu individuo l’è diventà ciar. Pœdet identificà chestu legendari vagant intra i ombri de la storia?",
+  "clues": [
+    "G’ho ricevü l’autorità del Püsee Misericordius per guvernar la terra en mod che nissun olter g’ha mai ottegnuu.",
+    "Viagiavi vers ovest fin a quand sun rivà in del sit indué el sul tramonta, g’ho truvà che tramontava en una primavera scura e ho vist un popul lì.",
+    "Ho viagiad vers est fin a quand son rivad ind el sit indove el sol al leva su, trovand qe al levava su un popol per el qual Num g’hevem miga dait un riparo.",
+    "Ho viajad intra qei duu ponts estrem fina a rivar ind una vall intra do montagne, indove ho trovad un popol qe al podeva a pena capir el parlar.",
+    "Ho truvà sü la muntagna dü duri barier de ferr che rivavan a destra e a mancina e intra luur un passagg strècc. Qui gent chi m’han dumandad de traversà la barriera per trategnè el caos.",
+    "Ho ciapad la mia provision e ho dit: “Quand la barriera la se romp, questa la sarà una ciara separaziün tra noi e quest popul chi.” E quand l’è rivà el temp fissà, g’ho vardà cuma la barriera l’era finalment violada."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Profeta Suleimano",
+        "El prufeta Ibrahim",
+        "El re de Ghassania",
+        "Dhul-Qarnain el vagant"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Romp la barriera de ferr per la gent de Yajuj e Majuj",
+        "Costruir la barca sotta el comand de un profeta",
+        "Costruir un tempi a Gerusalemm",
+        "Traversar el Mar Ross cunt i credent",
+        "Costruir una diga per pruteger una naziun giüsta"
+      ],
+      "answer": "Romp la barriera de ferr per la gent de Yajuj e Majuj"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La barriera de ferr intra do montagne",
+        "La nav la s’è ancorada sü una muntagna",
+        "La cà sacra de cult a Gerusalemm",
+        "El fiumm in de la tera d'Egit",
+        "El pozz di benediziun a Madyan"
+      ],
+      "answer": "La barriera de ferr intra do montagne"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "La barriera l’è stada violada quand l’è rivà el temp stabilì e el caos l’è vegnuu fœura",
+        "I incredul sun stà affogà menter i credent sun stà salvà",
+        "I giüst sun stà guidà in del paradis eterno",
+        "La cità l’è stada distrutta de un vent che urlava",
+        "I idol sun stà sfracà e el popul se pentì"
+      ],
+      "answer": "La barriera l’è stada violada quand l’è rivà el temp stabilì e el caos l’è vegnuu fœura"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nepokolebljivi graditelj spasenja",
+  "intro": "Lik neizmjernog strpljenja i nepokolebljivog uvjerenja, ova je osoba posvetila bezbrojne godine božanskoj misiji, suočavajući se s neumoljivim prezirom i odbacivanjem. Njihova priča snažno je svjedočanstvo vjere suočene s ogromnim nevjerovanjem, što je kulminiralo značajnim događajem koji je preoblikovao svijet.",
+  "clues": [
+    "Nevjerojatno dugo razdoblje svog života posvetio sam pozivanju svog naroda obožavanju Allaha.",
+    "Moj narod mi se rugao i optuživao me za očitu grešku i ludost.",
+    "Dobio sam zapovijed da izgradim nešto što se činilo neobičnim za moju zajednicu bez izlaza na more.",
+    "Samo nekolicina je vjerovala i pridružila se meni i mojoj obitelji na ovoj jedinstvenoj gradnji.",
+    "Nosio sam parove svakog živog bića na brodu, kako mi je Allah naredio.",
+    "Velika poplava zahvatila je zemlju, spasivši samo one koji su bili sa mnom u mom plovilu, dok je moj vlastiti sin propao zbog svog nevjerovanja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Salih",
+        "Poslanik Hud",
+        "Poslanik Nuh",
+        "Poslanik Davud",
+        "Poslanik Sulejman"
+      ],
+      "answer": "Poslanik Nuh"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Uništenje uzrokovano potresom",
+        "Cijepanje mora",
+        "Velika poplava",
+        "Nimrodova vatra",
+        "Kuga žaba"
+      ],
+      "answer": "Velika poplava"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Gorući grm",
+        "Kovčeg",
+        "Bunar vode",
+        "Zlatno tele",
+        "Planina Tur"
+      ],
+      "answer": "Kovčeg"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Primio je kraljevstvo",
+        "Njegovi ljudi su se pretvorili u majmune",
+        "Njegov narod je spašen čudom",
+        "Njegovi ljudi su se utopili",
+        "Njegov narod je pogodio grom"
+      ],
+      "answer": "Njegovi ljudi su se utopili"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

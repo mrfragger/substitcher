@@ -1,0 +1,61 @@
+{
+  "title": "Baagi ba Matlapa",
+  "intro": "Akanya fela tlhabologo e e nonofileng, e e nang le mpho ya maatla le bokgoni, e betla matlo a magolo mo dithabeng. Setlhopha seno se ne se na le katlego e kgolo thata le bokgoni jo bo kgethegileng jwa go aga. Mme le fa go ntse jalo, le mororo ba ne ba tlhagisiwa ka tsela e e utlwalang sentle, ba ne ba tlhopha tsela e e neng e tla dira gore ba felele kwa bokhutlong jo bo gakgamatsang le jo bo sa lebalesegeng. A o ka kgona go supa setlhopha seno se kgang ya sone e leng thuto e e tseneletseng mo go botlhe ba ba akanyang?",
+  "clues": [
+    "Re ne ra newa maatla le bokgoni, jo bo neng jwa dira gore re kgone go betla matlo a mantlentle ka tlhamalalo mo dithabeng.",
+    "Re ne ra newa sesupo se se bonalang sentle se se tswang kwa go Allah, sebopiwa se se kgethegileng se se neng se tshwanetse go tlogelwa se sa kgorelediwe gore se fule.",
+    "Morafe wa rona o ne wa nna mabela, wa gwetlha molaetsa wa bomodimo o o neng o tlisitswe ke morongwa yo o tswang mo gare ga rona.",
+    "Re ne ra loga leano la go gobatsa sesupo sa kgakgamatso, le fa go ne go tlhagisiwa gore re tla otlhaiwa thata.",
+    "Re ne ra gana taelo ya gore re letle setshedi se se kgethegileng go nwa mo sedibeng sa rona ka malatsi a a farologaneng.",
+    "Re ne ra kopana le bokhutlo jo bo senyang, re itewa ke go thunya gangwe fela, go go tshosang morago ga tiro ya rona ya tlolomolao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batho ba 'Ad",
+        "Batho ba Midiana",
+        "Batho ba Tlou",
+        "Batho ba Thamude",
+        "Batho ba Lute"
+      ],
+      "answer": "Batho ba Thamude"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo ya Rona e Kgolo",
+      "options": [
+        "Morwalela o o aparetseng lefatshe",
+        "Go kgaogana ga lewatle",
+        "Tshenyo ka go thunya gangwe fela",
+        "Go fisiwa ga motse",
+        "Go fetoga ga thaba go nna lerole"
+      ],
+      "answer": "Tshenyo ka go thunya gangwe fela"
+    },
+    "location": {
+      "label": "Ntlha ya Botlhokwa mo Kgannyeng ya Rona",
+      "options": [
+        "Namane ya gauta",
+        "Kamela e namagadi ya kgakgamatso",
+        "Setlhatshana se se tukang",
+        "Nonyane e e buang",
+        "Setulo sa bogosi se se tlotlegang"
+      ],
+      "answer": "Kamela e namagadi ya kgakgamatso"
+    },
+    "outcome": {
+      "label": "Dipoelo tsa rona tsa Bofelo",
+      "options": [
+        "Go newa khumo e e seng kana ka sepe le maatla",
+        "Go tlhatlosiwa go nna moporofeti",
+        "Go nyelediwa gotlhelele ka kotlhao ya bomodimo",
+        "Go itshwarelwa morago ga go ikwatlhaya ka bopeloephepa",
+        "Go gasame mo lefatsheng go ya go kgarakgatshega"
+      ],
+      "answer": "Go nyelediwa gotlhelele ka kotlhao ya bomodimo"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

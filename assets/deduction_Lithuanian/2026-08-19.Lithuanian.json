@@ -1,0 +1,61 @@
+{
+  "title": "Tauta, nepaklususi natūraliai tvarkai",
+  "intro": "Regione, kurio istorija aidi per amžius, bendruomenė atvirai maištavo prieš tyrumo įstatymus. Jų darbai buvo tokie precedento neturintys, kad jie prisimenami kaip įspėjimas visai žmonijai. Kas buvo šios sielos ir koks likimas jas ištiko?",
+  "clues": [
+    "Mes gyvenome krašte, prie kurio maršruto dažnai keliaudavo keliautojai, bet mes padarėme jų kelionę pavojingą.",
+    "Padarėme tokius nepadorumo poelgius, kokių niekas pasaulyje anksčiau nebuvo daręs.",
+    "Pasiuntinys iš mūsų tarpo ragino mus atsisakyti savo kelių, bet mes jį atmetėme ir reikalavome bausmės, jei jis būtų buvęs teisus.",
+    "Kai į mūsų miestą atvykdavo gražūs svečiai, mes stengdavomės juos užpulti, nežinodami, kad tai sunaikinimo pasiuntiniai.",
+    "Mus perspėjo apie baisią bausmę, jei nesustosime, bet mes išjuokėme perspėjimą ir likome savo nuodėmėje.",
+    "Iš dangaus ant mūsų pasipylė akmenų lietus, ir mūsų namai sugriuvo, nepalikdami jokių pėdsakų, išskyrus ženklą tiems, kurie susimąsto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Luto žmonės",
+        "Tamudo žmonės",
+        "A'ado žmonės",
+        "Madjano žmonės",
+        "Sabos žmonės"
+      ],
+      "answer": "Luto žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įvykdė precedento neturintį amoralumą ir užblokavo kelius",
+        "Garbino auksinį veršį",
+        "Nužudė šventąją kupranugarę",
+        "Apgavo prekyboje ir apgaudinėjo žmones",
+        "Pastatė didingą bokštą, kad mestų iššūkį dangui"
+      ],
+      "answer": "Įvykdė precedento neturintį amoralumą ir užblokavo kelius"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Angelai, pasislėpę kaip gražūs svečiai",
+        "Iš uolos išnyra kupranugarė",
+        "Personalas, virstantis gyvate",
+        "Ant kalno pastatytas laivas",
+        "Ugnis, kuri tapo vėsi ir rami"
+      ],
+      "answer": "Angelai, pasislėpę kaip gražūs svečiai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sunaikintas akmenų lietaus iš dangaus",
+        "Prarytas žemės",
+        "Nuskendo dideliame potvynyje",
+        "Sukrėtė riaumojantis sprogimas",
+        "Paverstos beždžionėmis"
+      ],
+      "answer": "Sunaikintas akmenų lietaus iš dangaus"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

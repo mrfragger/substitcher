@@ -1,0 +1,61 @@
+{
+  "title": "Uçan Gil ilə Qarşılanan Ordu",
+  "intro": "Məhəmməd Peyğəmbərdən əvvəlki dövrdə Yəməndən olan güclü bir hökmdar Məkkədəki müqəddəs bir ziyarətgahı məhv etmək məqsədi ilə hərbi yürüş başlatdı. Bu düşmən, güclərinə və saylarına arxayın olan döyüş filləri ilə dolu böyük bir orduya rəhbərlik etdi. Lakin gözlənilməz ilahi müdaxilə ilə qarşılaşdıqları üçün səyahətləri qəfildən başa çatdı. Bu heyrətamiz hesablaşma ilə kimin qarşılaşdığını müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Biz nəhəng bir ordu və güclü döyüş filləri ilə müqəddəs evə doğru yürüş etdik",
+    "Biz Rəhmanın qulları tərəfindən tikilmiş bir ibadət yerini kökündən söküb dağıtmaq niyyətində idik.",
+    "Dimdikləri və caynaqları ilə gil daşlar daşıyan bir dəstə kiçik quş bizə tərəf göndərildi.",
+    "Bizi daş atan, tapdalanmış qalıqlara çevirən bir səslə qarşılaşdıq.",
+    "Mən Yəmən torpağından idim və müqəddəs məkanı tapmağa çalışan bir hökmdarın rəhbərliyi altında xidmət edirdim.",
+    "Biz Allahın müqəddəs məkanını tərk etməyə cəsarət edənlər üçün bir nümunə olduq"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əbrəhə əl-Əşrəm ordusu",
+        "Efiopiya Qüvvələri",
+        "Fars fəthçiləri",
+        "Roma legionları",
+        "Bədəvi Basqınçıları"
+      ],
+      "answer": "Əbrəhə əl-Əşrəm ordusu"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Səhra qalasının mühasirəsi",
+        "Məkkədəki müqəddəs məkana hücum",
+        "Dənizdə dəniz döyüşü",
+        "Zalım bir padşaha qarşı üsyan",
+        "İtirilmiş peyğəmbərin axtarışı"
+      ],
+      "answer": "Məkkədəki müqəddəs məkana hücum"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Məkkə yaxınlığındakı Mina vadisi",
+        "Yəməndəki Səna sarayı",
+        "Tihama dağları",
+        "Qədim Yerusəlim şəhəri",
+        "Qırmızı dənizin sahilləri"
+      ],
+      "answer": "Məkkə yaxınlığındakı Mina vadisi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Müqəddəs evin qələbəsi və dağıdılması",
+        "Gil daşları daşıyan quşların məğlubiyyəti",
+        "Sülh yolu ilə təslim olmaq və dönüşüm",
+        "Aclıq və təbii fəlakət",
+        "Güclü yağış səbəbindən geri çəkilmə"
+      ],
+      "answer": "Gil daşları daşıyan quşların məğlubiyyəti"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

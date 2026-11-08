@@ -1,0 +1,61 @@
+{
+  "title": "Yo'qolgan olomon",
+  "intro": "Siz hikoyasi to'lqinlarda yozilgan jamoaning aks-sadosi oldida turibsiz. Bu ruhlar chaqiriqni eshitishdi, qarshilikni tanladilar va yerni o'zgartiradigan oqibatlarga duch kelishdi. Ular kimlar va ularning dunyosi nima bo'ldi?",
+  "clues": [
+    "Biz ancha oldin yashagan edik va bizga o'zimizdan bir xabarchi keldi.",
+    "Biz beshta butga sig'indik va ularni tark etishdan bosh tortdik.",
+    "Biz elchini masxara qildik va uni adashganlikda aybladik.",
+    "Agar rostgo'y bo'lsa, jazosini talab qildik.",
+    "Biz osmonning yomg'ir yog'ayotganini va yerning buloqlar otayotganini ko'rdik.",
+    "Biz qochish uchun baland joylarga chiqdik, ammo to'lqinlar bizni bosib o'tdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Nuh qavmi",
+        "Ad qavmi",
+        "Samud qavmi",
+        "Lut qavmi",
+        "Madyan xalqi"
+      ],
+      "answer": "Nuh qavmi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Biz katta suv toshqinida cho'kib ketdik",
+        "Bizni dovul vayron qildi",
+        "Biz kuchli portlashdan halok bo'ldik",
+        "Bizni yer yutib yubordi",
+        "Bizga osmondan toshlar yog'dirildi"
+      ],
+      "answer": "Biz katta suv toshqinida cho'kib ketdik"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Katta suv toshqini",
+        "Kuchli shamol",
+        "Toshlar yomg'iri",
+        "Olovli portlash",
+        "Zilzila"
+      ],
+      "answer": "Katta suv toshqini"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Nuh bilan birga bo'lgan mo'minlardan tashqari hammamiz halok bo'ldik",
+        "Biz maymunlarga aylanib qoldik",
+        "Biz sayohatchilar uchun xarobalar bo'lib qoldik",
+        "Biz tuzga aylanib qoldik",
+        "Bizga dam berildi"
+      ],
+      "answer": "Nuh bilan birga bo'lgan mo'minlardan tashqari hammamiz halok bo'ldik"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

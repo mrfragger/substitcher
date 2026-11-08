@@ -1,0 +1,61 @@
+{
+  "title": "Isifungo Sesibeletho",
+  "intro": "Emakamelweni athule enhliziyo ezinikele kuNkulunkulu, kwaqalwa isifungo esingcwele. Lesi sifungo sasigxile empilweni engakaphefumuli, futhi ukugcwaliseka kwaso kwakuzoshintsha inkambo yefa elingokomoya kuze kube phakade. Ngena emfihlakalweni yomphefumulo onesithembiso esizwakala kuze kube phakade.",
+  "clues": [
+    "Bengihlala emndenini owaziwa ngokuzinikela kwawo kuNkulunkulu, futhi ngangilangazelela isipho esasizongisondeza ku-Allah.",
+    "Ngenze isivumelwano esiqinile neNkosi yami mayelana nalokho okwakufihliwe ngaphakathi kimi, ngifunga ukuthi ngizokunikela ngokuphelele enkonzweni Yayo.",
+    "Lapho kufika isikhathi sokwembulwa, engakuthola kwakungalindelekile, kodwa ngaphathisa udaba kuMninimandla Onke.",
+    "Nganika ingane yami igama elibonisa ukuzinikela, futhi nganxusa ukuba yona nenzalo yayo bavikeleke koqalekisiweyo.",
+    "Umntanami wabekwa endaweni engcwele engcwele, ngaphansi kokunakekelwa komprofethi ovela ozalweni luka-Aroni.",
+    "Indodakazi yami yaziwa ngobumsulwa bayo futhi yakhethwa ngaphezu kwabo bonke abesifazane, kamuva yaba unina womprofethi omkhulu, yize ingazange ithintwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umka-Imran",
+        "Umama kaMusa",
+        "UmkaFaro",
+        "Umka-Al-Aziz",
+        "Umama ka-Isa"
+      ],
+      "answer": "Umka-Imran"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Isifungo sokunikela ingane yakhe engakazalwa ethempelini",
+        "Ukuhlolwa kokubekezela ngenxa yokugula isikhathi eside",
+        "Uhambo oluya ezweni elikude ngenxa yokholo",
+        "Ukubhekana nenkosi engumashiqela",
+        "Ukudla okumangalisayo okuvela ezulwini"
+      ],
+      "answer": "Isifungo sokunikela ingane yakhe engakazalwa ethempelini"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ingane egama layo linguMaryam",
+        "Induku eyaphenduka inyoka",
+        "Ithole legolide",
+        "Umthombo weZamzam",
+        "Umkhumbi kaNowa"
+      ],
+      "answer": "Ingane egama layo linguMaryam"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ingane yakhe yamukelwa ngu-Allah futhi yakhula ngaphansi kokunakekelwa okungokwesiprofetho",
+        "Ingane yakhe yaba umprofethi futhi yathola umbhalo ongcwele",
+        "Ingane yakhe yaphakanyiselwa ezulwini",
+        "Ingane yakhe yakha indlu engcwele",
+        "Ingane yakhe yanikwa ukuhlakanipha okukhulu nengcebo"
+      ],
+      "answer": "Ingane yakhe yamukelwa ngu-Allah futhi yakhula ngaphansi kokunakekelwa okungokwesiprofetho"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

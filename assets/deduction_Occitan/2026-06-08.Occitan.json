@@ -1,0 +1,61 @@
+{
+  "title": "Lo Suplicant del Santuari",
+  "intro": "Dins las oras tranquilas de la nuèch, una anma devota cridava lo Messer Pietós dins las parets santificadas d'un luòc sacrat. D'annadas de fe e de paciéncia inflexiblas èran a mand d'èsser recompensadas amb un miracle que portariá de jòia e un legat de profecia.",
+  "clues": [
+    "Passèri mos jorns e nuèches en devocion dins un santuari sant, en suplicant constantament mon Senhor.",
+    "Venguèri vièlh, e ma femna èra estèrila, pasmens ai pas jamai perdut l'espèr dins la misericòrdia d'Allah.",
+    "Me foguèt concedit un filh, nomenat Yahya, que venguèt un profèta e un far de justícia.",
+    "Èri ieu meteis un profèta, mandat per guidar los Filhs d'Israèl.",
+    "Èri un descendent del profèta Harun e serviguèri de prèire dins lo Temple.",
+    "Me foguèt confiat la cura de Maryam, la maire d'Isa, e assistiguèri a sos miracles."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Zakariyya",
+        "Profèta Yahya",
+        "Lo profèta Ilyas",
+        "Lo profèta Ishaq",
+        "Lo profèta Yaqub"
+      ],
+      "answer": "Profèta Zakariyya"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Donèt un filh dins la vielhesa",
+        "Salvat d'un fuòc ardent",
+        "Rescatat del ventre d'un peis",
+        "Subrevisquèt a una granda inondacion",
+        "Guérit d'una malautiá grèva"
+      ],
+      "answer": "Donèt un filh dins la vielhesa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo Mihrab (niç de pregària)",
+        "La Kaaba",
+        "Lo Busc Ardent",
+        "L'Arca de l'Aliança",
+        "La Cauna dels Sèt Dormidors"
+      ],
+      "answer": "Lo Mihrab (niç de pregària)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Concedit un filh just que venguèt profèta",
+        "Destruit per una tempèsta violenta",
+        "Afogat dins la mar",
+        "Esparnhat d'èsser cremat",
+        "Tornats a lor pòble après èsser estats salvats d'un peis"
+      ],
+      "answer": "Concedida un filh just que venguèt profèta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

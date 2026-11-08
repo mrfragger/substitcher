@@ -1,0 +1,61 @@
+{
+  "title": "Yhteisö, joka uhmasi lepopäivää",
+  "intro": "Astu rannikkokylään, jossa jumalallinen käsky varasi yhden päivän palvontaan ja rajoituksiin. Tämän yhteisön jäsenet päättivät testata käskyn rajoja ovelalla suunnitelmalla, joka johti muutokseen, joka kaikuisi läpi aikojen. Keitä nämä sielut olivat, ja mitä heille tapahtui?",
+  "clues": [
+    "Asuimme lähellä rannikkoa, missä meri tarjosi meille elannon.",
+    "Meitä käskettiin kunnioittamaan yhtä viikonpäivää ja asettamaan se syrjään maailmallisista pyrkimyksistä.",
+    "Sinä päivänä kalat tulivat luoksemme sankoin joukoin, ikään kuin houkutellakseen meitä rikkomaan käskyä.",
+    "Laadimme suunnitelman pyydystää kalat pyhän päivän aattona ja kerätä ne sitten sen jälkeen.",
+    "Kun jotkut meistä varoittivat tästä petoksesta, me jätimme heidän neuvonsa huomiotta ja jatkoimme.",
+    "Rikkomuksemme tähden meidät muutettiin apinoiksi, halveksituiksi ja torjutuiksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Sapatin kansa",
+        "Ojan kansa",
+        "Metsän kansa",
+        "Puutarhan ihmiset",
+        "Norsun kansa"
+      ],
+      "answer": "Sapatin kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kalastus sapattina",
+        "Korkean tornin rakentaminen",
+        "Pyhän naaraskamelin tappaminen",
+        "Heille lähetetyn profeetan kieltäminen",
+        "Kaupan painojen ylittäminen"
+      ],
+      "answer": "Kalastus sapattina"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Meri ja sen kalat",
+        "Tuli, joka jäähdytettiin",
+        "Sauva, josta tuli käärme",
+        "Pelastuksen arkki",
+        "Kivitaulut"
+      ],
+      "answer": "Meri ja sen kalat"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Muuttuneet apinoiksi",
+        "Maan nielaisema",
+        "Rajun tuulen tuhoama",
+        "Hukkui mereen",
+        "Kivisade iski"
+      ],
+      "answer": "Muuttuneet apinoiksi"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

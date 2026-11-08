@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga manlalakbay sa luntiang bukid",
+  "intro": "Noong sinaunang panahon, may dalawang indibidwal na nag-aalaga ng magkakalapit na lupain. Magkakaugnay ang kanilang mga landas, ngunit ang kanilang mga puso ay umakay sa kanila patungo sa magkaibang destinasyon. Ang isa ay lumakad sa tuwid na landas, habang ang isa naman ay naligaw sa kadiliman ng pagtanggi. Masusugpo mo ba ang misteryo ng dalawang tagapag-alaga ng ani?",
+  "clues": [
+    "Nagtaglay ako ng masaganang ani, masaganang ani na nakasisilaw sa mga mata ng mga nagmamasid.",
+    "Mas malaki pa ang kayamanan ng kapitbahay ko kaysa sa akin, ngunit mas hinangad ko ang kanilang bahagi kaysa sa akin.",
+    "Iminungkahi kong sirain na lang namin nang tuluyan ang kanilang mga pananim, para mapag-isa ang lahat sa ilalim ng aking kontrol.",
+    "Nagdulot din ako ng kapahamakan sa sarili kong ani, sinira ang lahat sa aking hangal na pakana.",
+    "Nakatayo akong walang magawa habang nalalanta ang aking mga pananim at ang aking kayamanan ay naging alabok sa isang gabi lamang.",
+    "Wala akong bahagi sa Kabilang Buhay, at ang aking huling tahanan ay naging isang hukay ng nagliliyab na apoy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang lalaking tumanggi sa muling pagkabuhay at paghuhukom",
+        "Ang pinunong umapi sa matuwid na magsasaka",
+        "Ang mayamang may-ari ng lupa na walang utang na loob",
+        "Ang magsasakang naghangad ng lupa ng kanilang kapitbahay",
+        "Ang taksil na kasama na nagplano ng pagkawasak"
+      ],
+      "answer": "Ang magsasakang naghangad ng lupa ng kanilang kapitbahay"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang pagsubok sa pagtanggap ng banal na paghahayag",
+        "Ang hamon ng kayamanan at pasensya",
+        "Ang tukso na sirain ang kabuhayan ng isang matuwid na tao",
+        "Ang utos na hatiin nang patas ang mana",
+        "Ang pakikibaka laban sa pang-aapi ng isang tirano"
+      ],
+      "answer": "Ang tukso na sirain ang kabuhayan ng isang matuwid na tao"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang luntiang mga hardin ng paraiso",
+        "Dalawang magkatabing bukirin ng mga pananim",
+        "Ang mga bundok na nakasaksi ng pagkawasak",
+        "Ang sagradong santuwaryo ng Makkah",
+        "Ang mga pampang ng ilog ng isang pinagpalang lupain"
+      ],
+      "answer": "Dalawang magkatabing bukirin ng mga pananim"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Walang hanggang paraiso bilang gantimpala para sa katuwiran",
+        "Ganap na pagkawasak ng parehong ani sa buhay na ito",
+        "Pagpapatapon at paggala hanggang kamatayan",
+        "Pansamantalang kasaganaan na sinusundan ng walang hanggang apoy",
+        "Isang mahimalang pagpapanumbalik at dobleng biyaya"
+      ],
+      "answer": "Ganap na pagkawasak ng parehong ani sa buhay na ito"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

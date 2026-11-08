@@ -1,0 +1,61 @@
+{
+  "title": "La voce della convinzione nascosta",
+  "intro": "Nel cuore di una corte tirannica, dove l'incredulità era la legge del paese, un'anima solitaria camminava sul filo del rasoio tra fede e paura. Quest'individuo, vicino al centro del potere, ascoltava il messaggio di un profeta accolto con scherno e minacce. Giunse un momento cruciale, che lo costrinse a scegliere tra la sicurezza del silenzio e il rivelare una verità pericolosa. Riuscirai a scoprire l'identità di questo coraggioso avvocato?",
+  "clues": [
+    "Ho vissuto nella stessa casa di un tiranno, assistendo in prima persona all'arroganza che rifiutava i segni divini.",
+    "Ho tenuto segreta la mia fede, un tesoro nascosto in un palazzo di idolatria.",
+    "Ho sentito il capo che servivo complottare per uccidere un messaggero di Allah, un uomo di nome Musa.",
+    "Ho messo in discussione la loro logica, ricordando loro la sorte dei popoli di Nuh, 'Ad e Thamud.",
+    "Ho posto una domanda cruciale al mio popolo: \"Se è un bugiardo, la sua menzogna ricadrà su di lui; ma se è sincero, alcune delle sue promesse si avvereranno anche per voi\".",
+    "La mia storia viene raccontata come esempio di fede nella sura intitolata \"Il Perdonatore\", dove ho messo in guardia il mio popolo contro gli intrighi dei potenti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il credente della famiglia di Fir'awn",
+        "Haman",
+        "I maghi di Fir'awn",
+        "Qarun",
+        "I Samiri"
+      ],
+      "answer": "Il credente della famiglia di Fir'awn"
+    },
+    "trial": {
+      "label": "In cosa consisteva il mio processo?",
+      "options": [
+        "Difendere il profeta Mosè alla corte del tiranno.",
+        "Costruire un'imponente torre per raggiungere il cielo",
+        "Essere gettati in un fuoco ardente",
+        "Essere inghiottito da un pesce gigante",
+        "Perdere tutte le ricchezze e la salute"
+      ],
+      "answer": "Difendere il profeta Mosè alla corte del tiranno."
+    },
+    "location": {
+      "label": "Qual era il tema centrale della mia argomentazione?",
+      "options": [
+        "La conseguenza del rifiuto del messaggio di un profeta",
+        "La richiesta di un segno da un albero sacro",
+        "La creazione di un vitello da gioielli fusi",
+        "Il miracolo di un cammello nato dalla roccia",
+        "L'interpretazione dei sogni di un sovrano"
+      ],
+      "answer": "La conseguenza del rifiuto del messaggio di un profeta"
+    },
+    "outcome": {
+      "label": "Qual è stato l'esito?",
+      "options": [
+        "Allah ha salvato quest'individuo dal loro piano malvagio.",
+        "L'intera corte accettò immediatamente l'Islam",
+        "Il tiranno si pentì nell'istante in cui stava annegando.",
+        "Il tiranno fu inghiottito dalla terra",
+        "L'individuo fu esiliato in una terra lontana"
+      ],
+      "answer": "Allah ha salvato quest'individuo dal loro piano malvagio."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

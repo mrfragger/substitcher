@@ -1,0 +1,60 @@
+{
+  "title": "Das Rätsel des fernen Throns",
+  "intro": "Ein mächtiger Monarch, gesegnet mit außergewöhnlicher Herrschaft, stand vor einer ungewöhnlichen Herausforderung: einer Königin aus einem fernen Land. Der Monarch wollte seine göttliche Macht und Weisheit beweisen und löste damit ein unglaubliches Ereignis aus, das die Gesetze von Zeit und Raum außer Kraft setzte. Können Sie die Details dieses wundersamen Geschehens entschlüsseln?",
+  "clues": [
+    "Einem Herrscher wurde immense Macht verliehen, darunter die Kontrolle über unsichtbare Wesen und die Fähigkeit, die Winde zu beherrschen.",
+    "Dieser Herrscher erfuhr von einer reichen Königin, die die Sonne verehrte, und beschloss, sie an den Hof einzuladen.",
+    "Vor der Ankunft der Königin äußerte der Herrscher den Wunsch, ihren prächtigen Machtsitz aus ihrem fernen Königreich mitzubringen.",
+    "Ein mächtiger Dschinn bot an, den Gegenstand zu bergen, bevor der Herrscher sich aus seinem Rat erheben konnte.",
+    "Jemand mit profunden Kenntnissen der Heiligen Schrift bot jedoch eine noch schnellere Lösung an und erledigte die Aufgabe im Handumdrehen.",
+    "Nach ihrer Ankunft befahl der Herrscher, das Objekt so zu verändern, dass es den Intellekt und die Wahrnehmungsfähigkeit der Königin testen könne, sobald sie den Palast erreicht habe."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prophet/Person",
+      "options": [
+        "Prophet Moses",
+        "Prophet David",
+        "Prophet Ibrahim",
+        "Prophet Yusuf",
+        "Prophet Sulayman"
+      ],
+      "answer": "Prophet Sulayman"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Spaltung des Meeres",
+        "Die Geduld in der Not",
+        "Der Bau der Kaaba",
+        "Die Prüfung der Gärten",
+        "Die Thronbesteigung der Königin"
+      ],
+      "answer": "Die Thronbesteigung der Königin"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Der Berg",
+        "Der Brunnen",
+        "Der Thron"
+      ],
+      "answer": "Der Thron"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ein großes Opfer",
+        "Ein Königreich gegründet",
+        "Ein Volk bestraft",
+        "Ein neuer Bund",
+        "Die Unterwerfung der Königin unter Allah"
+      ],
+      "answer": "Die Unterwerfung der Königin unter Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nyota Kumi na Moja Zilizoinama",
+  "intro": "Mtu kutoka Quran alipewa maono ya kina utotoni - ndoto ya miili ya mbinguni ikiinama kwa heshima. Miaka mingi ingepita kupitia usaliti, kutengana, mashtaka ya uwongo, na kifungo kabla ya maono haya kutimia. Ni nani huyu mtu mwenye ushujaa ambaye hadithi yake inachukua sura ndefu zaidi ya Quran?",
+  "clues": [
+    "Nilikuwa mdogo hapo awali, nimebarikiwa na ndoto ya ajabu ambayo hata baba yangu mwenyewe alinionya niiweke siri.",
+    "Ndugu zangu wenyewe, wakiwa wamepofushwa na wivu, walipanga njama dhidi yangu na kunitupa kwenye kisima kirefu chenye giza.",
+    "Nilipelekwa nchi ya mbali na kuuzwa katika nyumba ya afisa mtukufu, ambapo nilipata kibali na kuinuliwa katika jukumu.",
+    "Shutuma za uongo zilinifanya nifungwe isivyo haki, lakini katika sehemu hiyo yenye giza nilipata faraja katika sala na kumsujudia Mwenyezi Mungu.",
+    "Mwenyezi Mungu alinibariki kwa uwezo adimu wa kutafsiri ndoto, ambao hatimaye ulinileta mbele ya mtawala wa nchi na kunipandisha cheo cha juu cha uaminifu.",
+    "Baada ya miaka mingi ya kutengana, niliungana tena na familia yangu mpendwa, na ndoto yangu ya utotoni ya nyota kumi na moja, jua, na mwezi kuniinamia hatimaye ilitimia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Yusufu",
+        "Nabii Salih",
+        "Nabii Ilyas",
+        "Tubba', mtawala wa Himyar ya kale",
+        "Mchungaji mnyenyekevu kutoka vilima vya Palestina"
+      ],
+      "answer": "Nabii Yusufu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutupwa kwenye kisima kirefu na chenye giza na ndugu wenye wivu",
+        "Kumezwa na kiumbe mkubwa wa bahari kuu",
+        "Kutupwa kwenye moto unaowaka na waabudu sanamu",
+        "Kupeperushwa na upepo wa uharibifu wa kimungu",
+        "Kuokoka gharika kubwa iliyofunika nchi nzima"
+      ],
+      "answer": "Kutupwa kwenye kisima kirefu na chenye giza na ndugu wenye wivu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kisima kikavu jangwani ambapo niliachwa",
+        "Samaki mkubwa wa bahari kuu",
+        "Safina kubwa iliyojengwa kwa amri ya Mungu",
+        "Mnara uliojengwa ili kufikia mbinguni",
+        "Moto mtakatifu uliokataa kuwaka"
+      ],
+      "answer": "Kisima kikavu jangwani ambapo niliachwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Niliungana tena na familia baada ya miaka mingi ya kutengana na kuwa mhudumu anayeaminika",
+        "Niliongoza msafara mkubwa wa watu wangu kuvuka bahari iliyogawanyika",
+        "Nilionya taifa langu kuhusu maangamizi yanayowakabili ambayo yatawaangamiza",
+        "Alijenga nyumba takatifu ambayo ikawa mahali patakatifu kwa wote",
+        "Alitoka salama kutoka tumboni mwa kiumbe mkubwa baada ya siku tatu"
+      ],
+      "answer": "Niliungana tena na familia baada ya miaka mingi ya kutengana na kuwa mhudumu anayeaminika"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

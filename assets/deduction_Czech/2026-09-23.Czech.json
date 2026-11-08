@@ -1,0 +1,61 @@
+{
+  "title": "Volání, které přečkalo věky",
+  "intro": "Představte si duši, která sama stojí proti celé civilizaci, odhodlaná s neochvějným odhodláním ji z bludu vyvést. Po staletí bylo toto poselství odmítáno, zesměšňováno a zavrhováno – přesto úsilí nikdy neustalo. Nakonec přišlo velké zúčtování a jen málokdo se po boku této neochvějné duše dostal do spásy. Dokážete tuto postavu identifikovat v Koránu?",
+  "clues": [
+    "Byl jsem poslán jako varovatel lidu ztracenému ve svých vlastních cestách.",
+    "Vyzval jsem je, aby prosili o odpuštění a odvrátili se od svých chyb, ale oni se odvrátili.",
+    "Na božský rozkaz jsem postavil obrovskou loď, zatímco můj lid se na mě díval a posmíval se mi.",
+    "Neustále jsem volal k svému Pánu – nakonec odpověděl a z nebe se proudem lila voda.",
+    "Nastoupil jsem na loď s těmi, kdo uvěřili, když se voda potopy vynořila nad pevninu.",
+    "Volal jsem na jednoho, kdo zůstal, a žádal ho, aby se uchýlil na horu, ale rozsudek už byl vydán."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Nuh",
+        "Prorok Ibráhím",
+        "Prorok Músa",
+        "Prorok Hud",
+        "Prorok Sálih"
+      ],
+      "answer": "Prorok Nuh"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Stavba velké archy a přežití celosvětové potopy",
+        "Být uvržen do planoucího ohně",
+        "Konfrontace s tyranem a jeho mocnými mágy",
+        "Být spolknut velkou rybou",
+        "Svědectví o zabití posvátné velbloudice"
+      ],
+      "answer": "Stavba velké archy a přežití celosvětové potopy"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Obrovská dřevěná archa na rozbouřené povodni",
+        "Posvátné údolí se starověkými kamennými ruinami",
+        "Hluboká jeskyně, kde společníci spali po staletí",
+        "Břicho obří velryby v hlubinách oceánu",
+        "Tyčící se kamenná hora v divočině"
+      ],
+      "answer": "Obrovská dřevěná archa na rozbouřené povodni"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Spasen s věřícími na palubě lodi",
+        "Zachráněn bez úhony z ohně na božský příkaz",
+        "Vedl velký exodus z mocného království",
+        "Vyhozen z ryby na pustý břeh",
+        "Odvedl lidi od špatného jednání zázračným znamením"
+      ],
+      "answer": "Spasen s věřícími na palubě lodi"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

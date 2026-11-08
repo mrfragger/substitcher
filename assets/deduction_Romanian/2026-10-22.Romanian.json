@@ -1,0 +1,61 @@
+{
+  "title": "Comunitatea Primei Transgresiuni",
+  "intro": "În tărâmul orașelor antice, un popor a prosperat odată. Au fost vizitați de un mesager cu o chemare clară, dar s-au întors și au urmat o cale pe care nimeni nu mai mersese vreodată. Povestea lor este una despre sfidare, depravare și o pedeapsă care a părăsit patria lor ca un semn pentru toți cei care reflectează. Cine sunt aceste suflete?",
+  "clues": [
+    "Am locuit în cetăți din câmpie, unde profetul nostru ne-a chemat la dreptate.",
+    "Am fost primii care au comis o indecență pe care nimeni în toată lumea nu o mai făcuse vreodată.",
+    "I-am asaltat pe călători și am săvârșit răul pe față în adunările noastre.",
+    "L-am respins pe mesagerul trimis la noi și l-am amenințat că îl vom alunga din țara noastră.",
+    "Ne-am grăbit la casa lui cerându-i să ni se predea oaspeții.",
+    "Pedeapsa noastră a fost o ploaie de pietre, iar orașul nostru a fost dat peste cap."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oamenii din Lut",
+        "Oamenii din Nuh",
+        "Oamenii din 'Ad",
+        "Oamenii din Thamud",
+        "Oamenii din Madyan"
+      ],
+      "answer": "Oamenii din Lut"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A comis primul act de sodomie",
+        "Idoli venerați",
+        "Înșelat în comerț",
+        "Și-au ucis profetul",
+        "Nu și-au ascultat părinții"
+      ],
+      "answer": "A comis primul act de sodomie"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Orașul câmpiei",
+        "Orașul fântânii",
+        "Orașul șanțului",
+        "Orașul elefantului",
+        "Orașul grădinii"
+      ],
+      "answer": "Orașul câmpiei"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A plouat cu pietre și s-a răsturnat",
+        "Înecat de o inundație",
+        "Distrus de un vânt violent",
+        "Înghițit de pământ",
+        "Lovit de o explozie puternică"
+      ],
+      "answer": "A plouat cu pietre și s-a răsturnat"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

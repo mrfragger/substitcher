@@ -1,0 +1,61 @@
+{
+  "title": "Orang Beriman Bertudung di Istana Zalim",
+  "intro": "Di dalam dewan berlapis emas pemerintah paling sombong yang diketahui oleh Al-Quran — di mana pembangkangan terhadap Tuhan mentakrifkan setiap titah — satu jiwa berjalan di antara mereka yang istimewa, menyembunyikan rahsia paling berbahaya di depan mata. Individu ini membawa kepercayaan yang begitu terlarang di dalam tembok-tembok itu sehingga penemuannya akan membawa maut yang pasti. Namun keyakinan itu membakar seperti api di bawah abu, dan apabila saatnya tiba, kebenaran bergema dengan keberanian yang menggoncang asas istana tiran itu.",
+  "clues": [
+    "Aku hidup di kalangan orang dalam pemerintah yang paling berkuasa dan sombong pada zamanku, dikelilingi oleh kemewahan dan pengaruh.",
+    "Aku menyembunyikan kepercayaanku yang sebenar jauh di lubuk hatiku, takut akan nyawaku daripada mereka yang memerintah dengan kejam dan penindasan.",
+    "Ketika umatku ragu-ragu dan goyah menghadapi kebenaran, Aku maju ke hadapan untuk memperingatkan mereka tentang nasib tragis yang telah menimpa bangsa-bangsa sebelumnya yang menolak utusan Tuhan mereka.",
+    "Aku mengingatkan bangsaku tentang kisah seorang pemimpi muda yang disayangi yang disingkirkan oleh saudara-maranya sendiri namun naik ke tampuk pemerintahan yang besar di negeri yang jauh.",
+    "Aku menggesa kaumku supaya tidak mentaati pemerintah yang telah menyesatkan mereka, sebaliknya mengajak mereka untuk mengikutiku di jalan kebenaran dan petunjuk.",
+    "Aku terus terang mengatakan yang sebenarnya walaupun pengikut-pengikut pemerintah yang zalim itu mengancam untuk merejamku atau menghalauku dari tanah ini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang Mukmin yang Tersembunyi dari Keluarga Firaun",
+        "Seorang Patriark yang Sabar yang Menangis Buta Sehingga Anaknya Kembali",
+        "Seorang Hamba yang Setia yang Penyakit Kulitnya Akhirnya Sembuh",
+        "Seorang Anak Berdosa yang Menolak Jemputan Seorang Nabi untuk Menaiki Bahtera",
+        "Seorang Tiran Kejam yang Mengaku Diri Sendiri Menjadi Tuhan"
+      ],
+      "answer": "Orang Mukmin yang Tersembunyi dari Keluarga Firaun"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Menyembunyikan kepercayaan di istana tiran",
+        "Menderita buta akibat menangis bertahun-tahun",
+        "Diuji oleh kehilangan keluarga dan penderitaan yang berat",
+        "Membina kapal yang hebat sambil diejek",
+        "Menahan panas terik api yang dahsyat"
+      ],
+      "answer": "Menyembunyikan kepercayaan di istana tiran"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Istana Firaun",
+        "Puncak gunung tempat sebuah bahtera dibina",
+        "Lembah suci di bawah Gunung Sinai",
+        "Taman yang indah dengan dua anak sungai yang mengalir",
+        "Takhta kristal di atas sungai bawah tanah"
+      ],
+      "answer": "Istana Firaun"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Perlindungan Ilahi sementara para penindas menemui kemusnahan mereka",
+        "Telah bersatu semula dengan keluarga selepas berpisah selama beberapa dekad",
+        "Dikurniakan kesabaran, kesihatan yang pulih, dan keluarga yang lebih besar",
+        "Diselamatkan di atas bot sementara seluruh dunia lemas",
+        "Diselamatkan tanpa cedera daripada api atas perintah Allah"
+      ],
+      "answer": "Perlindungan Ilahi sementara para penindas menemui kemusnahan mereka"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

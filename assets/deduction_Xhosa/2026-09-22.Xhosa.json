@@ -1,0 +1,61 @@
+{
+  "title": "Abakhi Beentsika Eziphakamileyo",
+  "intro": "Umi phambi kwamanxuwa esixeko sakudala esihle, iintsika zaso eziphakamileyo ngoku ziwile. Umoya uvuthuza ezitalatweni ezingenanto, uphethe inkumbulo yabantu abanamandla ababekhe balawula la mazwe. Babengoobani?",
+  "clues": [
+    "Sasingabantu abanamandla amakhulu nezakhono, esaziwa ngezakhiwo zethu ezinkulu kunye nempucuko ephucukileyo.",
+    "Sasihlala kwilizwe elineenduli zesanti neenduli ezinamatye, kwaye sasikholelwa ukuba akukho mntu unokusinqoba.",
+    "Isithunywa seza kuthi sivela phakathi kwezihlobo zethu, sisibiza ukuba sinqule uAllah yedwa, kodwa samgatya saza samhleka usulu.",
+    "Saziqhayisa sathi, ‘Ngubani onamandla kunathi?’ saza saqhubeka nokuzikhukhumalisa nokunqula izithixo.",
+    "U-Allah wasithumelela umoya ovuthuzayo owavuthuza ubusuku obusixhenxe neentsuku ezisibhozo, watshabalalisa yonke into.",
+    "Sasingabantu baka-'Ad, abakhi be-Iram, kwaye ikamva lethu laba sisilumkiso kubo bonke abalandelayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu be-'Ad",
+        "Abantu baseThamud",
+        "Abantu baseMadyan",
+        "Abantu baseTubba'",
+        "Abantu base-al-Rass"
+      ],
+      "answer": "Abantu be-'Ad"
+    },
+    "trial": {
+      "label": "Sisiphi isohlwayo abasifumanayo?",
+      "options": [
+        "Umoya otshabalalisayo",
+        "Imvula yamatye",
+        "Ukuqhuma okukhulu",
+        "Ukurhaxwa zizikhukula",
+        "Iginywe ngumhlaba"
+      ],
+      "answer": "Umoya otshabalalisayo"
+    },
+    "location": {
+      "label": "Lithini igama lesixeko sabo esidumileyo?",
+      "options": [
+        "I-Iram",
+        "iSodom",
+        "uMidiyan",
+        "IBhabheli",
+        "uPetra"
+      ],
+      "answer": "I-Iram"
+    },
+    "outcome": {
+      "label": "Yayiyintoni isiphelo sabo sokugqibela?",
+      "options": [
+        "Batshatyalaliswa kwaye amathambo abo aba sisifundo",
+        "Baguquka baza basindiswa",
+        "Baguqulwa baba ziinkawu",
+        "Batshoniswe elwandle",
+        "Bangcwatywe phantsi komhlaba odilikileyo"
+      ],
+      "answer": "Batshatyalaliswa kwaye amathambo abo aba sisifundo"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Karanga mai i te Raorao Tapu",
+  "intro": "Kei tua atu i ngā whārangi o te hītori kei reira te kōrero mō tētahi wairua i tū i waenganui i tētahi rangatira mana nui me tētahi iwi herehere katoa. I karangatia tēnei tangata ki te whakaora i tētahi iwi mai i te mana whakahaere nanakia, me te mahi i ngā merekara i whakahē i ngā ture taiao katoa. Mai i tētahi maunga tapu ki tētahi merekara i runga i ngā wai, i kite tēnei pononga a Allah i ngā tohu ka rangona puta noa i ngā tau. Ko tāu mahi i tēnei rā ko te tautuhi i tēnei tangata whakamiharo nāna nei te taonga tuku iho i hanga te ara o te hītori o te tangata.",
+  "clues": [
+    "I whānau mai ahau i te wā i tūtaki ai tōku iwi ki tētahi ture whakamate, ā, i tukuna ahau e tōku whānau ki te wai hei whakaora i tōku ora.",
+    "I kitea ahau, i whakatipuria hoki i roto i te whare tonu o te rangatira nāna nei i whakahau kia mate te hunga o tōku momo.",
+    "I rere ahau ki tētahi maunga tapu, ā, ka kite ahau i te ahi i runga i tētahi rākau kāore i pau, ā, ka kōrero mai tētahi reo ki ahau i reira.",
+    "I tukuna ahau kia hoki ki taua rangatira me ngā merekara, e tono ana kia herekoretia taku iwi herehere.",
+    "I patua e ahau te moana ki taku tokotoko, ā, ka wehea hei ara maroke, ka horomia ngā kaiwhai i whai i tōku iwi.",
+    "I kōrero ahau ki tōku Ariki i runga i te maunga mō ngā pō e whā tekau, ā, i homai ki ahau ngā papa arataki a te Atua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Mohi",
+        "Poropiti Haruna",
+        "Poropiti Ihāperama",
+        "Poropiti a Yusuf",
+        "Poropiti a Rawiri"
+      ],
+      "answer": "Poropiti a Mohi"
+    },
+    "trial": {
+      "label": "Taku Whakamātautau Whakamutunga",
+      "options": [
+        "Te Wehenga o te Moana",
+        "Te Hanga i te Āraka Nui",
+        "Te Whakamātautau i te Ahi Mura",
+        "Te Herenga i roto i te Puku o te Tohorā",
+        "Te Mauheretanga e tētahi Āpiha o Īhipa"
+      ],
+      "answer": "Te Wehenga o te Moana"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He tokotoko a te hepara",
+        "He Āka Rakau Nui",
+        "He Ana i Moe ai te Wā",
+        "He Māra me ngā Puna e Rua",
+        "He Torona i Whakapaipaihia ki te Koura"
+      ],
+      "answer": "He tokotoko a te hepara"
+    },
+    "outcome": {
+      "label": "Te Hua",
+      "options": [
+        "I whiti tōku iwi i te moana ki te haumaru",
+        "I whakangaromia te hunga kore whakapono e te Waipuke Nui",
+        "I mātao, i rangimārie te ahi a te kaitukino",
+        "I maka e te moana tōna herehere ki te takutai",
+        "I riro te herehere hei kaitiaki taonga mō Īhipa"
+      ],
+      "answer": "I whiti tōku iwi i te moana ki te haumaru"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

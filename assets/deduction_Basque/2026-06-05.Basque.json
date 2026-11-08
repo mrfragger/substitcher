@@ -1,0 +1,61 @@
+{
+  "title": "Egiaren bilatzaile xumeak",
+  "intro": "Antzinako botere eta sorginkeriaren lurralde batean, konfrontazio handi bat gertatzen da. Alde batek jainkozko zeinuen autoritatea erabiltzen du, eta besteak ezinezkoa berdintzen saiatzen da. Emaitzak betiko aldatuko du historiaren norabidea. Egia gorenaren lekuko izan eta haren aurrean apaldu zirenen nortasuna aurki dezakezu?",
+  "clues": [
+    "Sorginkeriaren trikimailuak gainditzen zituzten seinaleak ikusi genituen",
+    "Guztiok lur jota erori ginen, egia ukatu ezinik",
+    "Seinale hauek Jainko Egiazko Bakarrarengandik zetozela aitortu genuen",
+    "Fedea modu hain dramatikoan bereganatu zuen lehen komunitatea izan ginen.",
+    "Paradisua agindu ziguten gure sinesmenaren ordain gisa",
+    "Gure sokak eta makilak suge bihurtu ziren gure begien aurrean, baina men egitea aukeratu genuen"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Faraoiaren magoak.",
+        "Ibrahim profetaren herria",
+        "Egiaren bila dabiltzan apalak",
+        "Kobazuloko jendea",
+        "Bilqis erreginaren nazioa"
+      ],
+      "answer": "Faraoiaren magoak."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Musa profetaren langileekin izandako topaketa",
+        "Hud profetaren haizearen proba",
+        "Salih profetaren gamelu emearen erronka",
+        "Profeta bati bidalitako uholde handia",
+        "Profeta baten bidaia balea baten barruan"
+      ],
+      "answer": "Musa profetaren langileekin izandako topaketa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Antzinako Egipto",
+        "Meka-ko etxe sakratua",
+        "Midian hiria.",
+        "Thamud-eko basamortua.",
+        "Antzinako lotiek zuten kobazuloa"
+      ],
+      "answer": "Antzinako Egipto"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Paradisua haien ordain gisa",
+        "Hilobian zigorra.",
+        "Beren lorategi oparoen galera",
+        "Bat-bateko lurrikara batek eragindako suntsipena",
+        "Balea handi batetik erreskatatzea"
+      ],
+      "answer": "Paradisua haien ordain gisa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

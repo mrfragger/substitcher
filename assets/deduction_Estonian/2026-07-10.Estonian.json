@@ -1,0 +1,61 @@
+{
+  "title": "Üheksa märgi kandja",
+  "intro": "Kõige alandlikumast algusest tõusis kuju, kelle saatus oli kirjutatud jumalikusse tahtesse. Imikueas peidus ja üles kasvanud selle valitseja müüride vahel, kes püüdis nende rahvast hävitada, kutsuti see hing lõpuks võimsale missioonile. Varustatuna vaid usu ja alandliku karjasekepiga, seisid nad ajastu võimsaima valitseja ees ja nõudsid vabadust orjastatud inimestele. Maailm ise näis nende käsul liikuvat – veed lahknesid, taevad kõnelesid ja kuningriik langes.",
+  "clues": [
+    "Minu esimesi päevi iseloomustas hirm – minusuguseid imikuid jahtis sündides halastamatu valitseja, kes kartis tulevikku.",
+    "Mind päästis vesi ja kasvasin üles selle valitseja palees, kes otsis mu hävitamist.",
+    "Põgenesin kodumaalt pärast ootamatut sündmust ja minust sai kaugel maal alandlik karjane.",
+    "Ma naasin, et astuda sellele võimsale valitsejale vastu lihtsa kepi ja selge sõnumiga, nõudes oma rahva vabadust.",
+    "Lõikasin suure veekogu neile, kes mind järgnesid, ja vaatasin pealt, kuidas see vesi mu vaenlase tervenisti alla neelas.",
+    "Ma ronisin pühale mäele, et saada Allahilt jumalikku juhatust, ja mulle anti üheksa selget märki tõestusena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Musa",
+        "Prohvet Noa",
+        "Prohvet Ibrahim",
+        "Prohvet Yusuf",
+        "Prohvet Lut"
+      ],
+      "answer": "Prohvet Musa"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Vaaraoga tema õukonnas vastamisi seismine",
+        "Laeva ehitamine suure veeuputuse üleelamiseks",
+        "Ebajumalate valmistajate poolt lõõmavasse tulle heidetud",
+        "Mu vennad lasid mind sügavasse kaevu",
+        "Püüan takistada oma rahval ebamoraalset käitumist"
+      ],
+      "answer": "Vaaraoga tema õukonnas vastamisi seismine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Sai, mis muutus maoks",
+        "Nuh' laeka",
+        "Bilqise troon",
+        "Sõrmus, mis kontrollis tuult ja džinni",
+        "Võtmed kogutud aarete juurde on nii rasked"
+      ],
+      "answer": "Sai, mis muutus maoks"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Juhtis mu rahva üle lahkulöödud vete vabadusse",
+        "Päästeti suurest veeuputusest laeva sees",
+        "Taastus pärast sügavaid kannatusi ja sai perekonna tagasi",
+        "Heideti suurest kalast elusalt välja",
+        "Ehitas Püha Maja vundamendi"
+      ],
+      "answer": "Juhtis mu rahva üle lahkulöödud vete vabadusse"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

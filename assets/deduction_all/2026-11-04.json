@@ -1,0 +1,61 @@
+{
+  "title": "The Treasure That Sank Beneath Pride",
+  "intro": "Imagine standing before piles of wealth so vast that merely carrying the keys would exhaust a group of strong individuals. Around you, voices urge humility and remembrance, yet pride grows louder than gratitude. What happens when bounty becomes a test and arrogance seals the outcome?",
+  "clues": [
+    "I was from among the people of Musa, yet I transgressed against them.",
+    "I was granted treasures so immense that the keys to them would burden a band of strong men.",
+    "I was advised by my people not to exult and to seek the Hereafter without forgetting my share of this world.",
+    "I claimed that what I possessed was given to me only because of knowledge I had.",
+    "I paraded before my people in adornment, and those desiring worldly life wished for the like of what I had.",
+    "I was swallowed by the earth along with my dwelling, and none could help me nor could I help myself."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Boasted of wealth and denied Allah's favor despite counsel",
+        "Challenged Ibrahim about giving life and death",
+        "Led an army against Talut and Dawud",
+        "Carved idols for the people to worship",
+        "Killed a brother out of envy over an offering"
+      ],
+      "answer": "Boasted of wealth and denied Allah's favor despite counsel"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Keys to immense treasures",
+        "The Ark of the Covenant",
+        "A golden calf of adornments",
+        "A dam between two mountains",
+        "Eleven stars in a dream"
+      ],
+      "answer": "Keys to immense treasures"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Swallowed by the earth with dwelling and wealth",
+        "Drowned in the sea while pursuing Musa",
+        "Struck down by a stone from Dawud's sling",
+        "Destroyed by a mighty blast for hamstringing a she-camel",
+        "Turned into apes for breaking the Sabbath"
+      ],
+      "answer": "Swallowed by the earth with dwelling and wealth"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

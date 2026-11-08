@@ -1,0 +1,61 @@
+{
+  "title": "Banga ji Geliyê Pîroz",
+  "intro": "Li pişt rûpelên dîrokê çîroka giyanekî heye ku di navbera hukumdarekî bihêz û tevahiya gelek kole de sekinî. Ev kes hatibû gazîkirin ku miletekî ji zordariyê rizgar bike, û mûcîzeyên ku li dijî her qanûna xwezayî derketin pêk anî. Ji çiyayekî pîroz bigire heya mûcîzeyek li ser avê, vî xizmetkarê Xwedê şahidê nîşanên ku dê di seranserê serdeman de deng vedabûn bû. Erka we ya îro ew e ku hûn vê kesayetiya berbiçav nas bikin ku mîrateya wî rêça dîroka mirovahiyê şekil daye.",
+  "clues": [
+    "Ez di demekê de ji dayik bûm ku gelê min bi fermaneke kujer re rû bi rû bû, û malbata min ez xistim nav avê da ku jiyana min xilas bikim.",
+    "Ez di heman mala hikumdarê ku fermana kuştina mirovên ji nifşê min dabû de hatim dîtin û mezin bûm.",
+    "Ez reviyam çiyayekî pîroz li wir min agir li ser darekê dît ku neşewitîbû, û dengek ji wir bi min re axivî.",
+    "Ez bi mûcîzeyan vegeriyam cem wî hukumdarî, û daxwaza azadiya gelê xwe yê kole kirim.",
+    "Min bi gopalê xwe li deryayê da, û ew bû rêyên hişk, û yên ku li pey gelê min diçûn daqurtandin.",
+    "Min çil şevan li ser çiyayekî bi Rebê xwe re sohbet kir û lewheyên rêberiya îlahî ji min re hatin dayîn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Mûsa",
+        "Pêxember Harûn",
+        "Pêxember Îbrahîm",
+        "Pêxember Yûsif",
+        "Pêxember Dawud"
+      ],
+      "answer": "Pêxember Mûsa"
+    },
+    "trial": {
+      "label": "Ceribandina Min a Diyarker",
+      "options": [
+        "Parvekirina Deryayê",
+        "Avakirina Keştiya Mezin",
+        "Ceribandina bi agirê geş",
+        "Girtin di zikê balînayekê de",
+        "Zindankirin ji aliyê Karbidestekî Misirî ve"
+      ],
+      "answer": "Parvekirina Deryayê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Çembera Şivanekî",
+        "Keştiyeke darîn a mezin",
+        "Şikeftek ku Dem lê Razabû",
+        "Baxçeyek bi du kaniyan",
+        "Textekî bi zêr xemilandî"
+      ],
+      "answer": "Çembera Şivanekî"
+    },
+    "outcome": {
+      "label": "Encam",
+      "options": [
+        "Gelê Min Deryaya Bilez Derbas Kirin",
+        "Tofaneke Mezin Kafiran Wêran Kir",
+        "Agirê zalimekî sar û aram bû",
+        "Derya dîlê xwe avêt ser peravê",
+        "Dîl bû Xezînedarê Misrê"
+      ],
+      "answer": "Gelê Min Deryaya Bilez Derbas Kirin"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

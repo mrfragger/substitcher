@@ -1,0 +1,61 @@
+{
+  "title": "La Sacra Assenza",
+  "intro": "Olter i dune del temp, g’he una storia de devoziun inflexibil e de una fiducia inscì pesant che l’anema che la purtava g’havaria poduu romp. Ind un moment quand qe la jent la s’è voltada vers la follia e l’or, una figura la s’è fermada: la ciamava indrè, la suplicava la pazienza e la portava el pes de una promessa sacra. Chesta l’è la storia de chel che l’è stà scelt cuma ajutant, visir e guardian de la fed durant un’assenza sacra. Pœdet descoverzer l’identitaa de qesta anema ferma?",
+  "clues": [
+    "Mi cundivido el sàang de un grand prufet che l’è stà scelt per parlà cun Allah diretament sü una montagna sacra.",
+    "El me fradel l’ha suplicad una volta Allah per l’assistenza a parlà ciarament a un grand opressur.",
+    "Sun stà scelt de Allah per star insema a me fradel cuma ajutant e visir.",
+    "Insema g’hem afruntà un suvran tirannich che dumandava de vèss ciamà el püsee volt di dè.",
+    "Menter el me fradel comunicava cun Allah sü la muntagna, el noster popul el se creava un idol cun luur or.",
+    "Mi sun el fradel de Mosé, nominà de Allah cuma sò visir, menziunà per nomm in del Coran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Arun (Aaron)",
+        "Profeta Musa",
+        "El prufeta Dawud",
+        "El prufeta Yaqub",
+        "El prufeta Ishaq"
+      ],
+      "answer": "Profeta Arun (Aaron)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "La crisi del cult del vitell",
+        "El Grand Diluvio de Nuh",
+        "La bataja de Badr",
+        "La distruzion de Thamud",
+        "La distruziun de Sodoma"
+      ],
+      "answer": "La crisi del cult del vitell"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El vitell d'or",
+        "L'arca de Noè",
+        "El busc brüsant",
+        "La Grotta de Hira",
+        "El Tron de Saba"
+      ],
+      "answer": "El vitell d'or"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "L'innocenza cunfermada de Allah",
+        "Annegament del faraon",
+        "L'edifizi de la Kaaba",
+        "Traversament sicür del mar",
+        "Ascension in Ciel"
+      ],
+      "answer": "L'innocenza cunfermada de Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

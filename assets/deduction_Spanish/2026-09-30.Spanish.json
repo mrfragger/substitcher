@@ -1,0 +1,61 @@
+{
+  "title": "El paciente uno",
+  "intro": "Hace mucho tiempo, en los albores de la historia humana, dos almas se presentaron ante su Creador con ofrendas. Una fue aceptada, la otra no. Lo que siguió se convertiría en la primera gran tragedia entre hermanos: un acto de paciencia y contención, y otro de amarga venganza. ¿Puedes descubrir quién soy?",
+  "clues": [
+    "Nací en los primeros días de la existencia humana en la Tierra.",
+    "Yo fui hijo de la primera pareja de seres humanos que jamás caminaron sobre esta tierra.",
+    "Una vez ofrecí un sacrificio de lo mejor de mi rebaño para complacer a mi Creador.",
+    "Mi ofrenda fue aceptada desde lo alto, mientras que la ofrenda de mi hermano fue rechazada.",
+    "Cuando me amenazaron de muerte, opté por no levantar la mano contra mi hermano.",
+    "Me convertí en la primera persona en toda la historia de la humanidad en ser asesinada injustamente por otra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Habil (Abel), hijo de Adán",
+        "Qabil (Caín), hijo de Adán",
+        "Adán, el primer ser humano",
+        "Noé",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), hijo de Adán"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El primer asesinato en la historia de la humanidad",
+        "El gran diluvio de Noé",
+        "La destrucción del ejército de Fir'awn",
+        "El sacrificio de Ismail por Ibrahim",
+        "La batalla contra Jalut (Goliat)"
+      ],
+      "answer": "El primer asesinato en la historia de la humanidad"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una oveja ofrecida como un sacrificio agradable",
+        "Un gran arca de madera",
+        "Un bastón que se transformó en serpiente",
+        "Una abubilla que lleva un mensaje real",
+        "Una trinchera de fuego ardiente"
+      ],
+      "answer": "Una oveja ofrecida como un sacrificio agradable"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se convirtió en la primera víctima de asesinato en la historia de la humanidad.",
+        "Sobrevivió a una gran inundación dentro de una embarcación de madera.",
+        "Vivía dentro del vientre de un gran pez.",
+        "Gobernaba sobre los genios, los humanos y el viento.",
+        "Vagó durante cuarenta años en un vasto desierto."
+      ],
+      "answer": "Se convirtió en la primera víctima de asesinato en la historia de la humanidad."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

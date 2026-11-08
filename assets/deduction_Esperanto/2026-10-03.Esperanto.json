@@ -1,0 +1,61 @@
+{
+  "title": "La Vigilo ĉe la Flamanta Pordego",
+  "intro": "Silenta, impona homamaso gardas ĉe timinda sojlo, neniam gustumante manĝaĵon, trinkaĵon aŭ ripozon. Formitaj el substanco male al homa argilo, ili atendas ununuran timigan celon — kaj ili neniam malobeis eĉ unu ordonon de sia Sinjoro.",
+  "clues": [
+    "Ni estas estaĵoj malsimilaj al homoj, kreitaj el substanco kiu ne manĝas, trinkas aŭ laciĝas.",
+    "Nia preciza nombro estas konata kaj rivelita en la Libro — ni estas nek sennombraj nek amaso.",
+    "Ni neniam malobeis nian Kreinton, nek ni iam parolas antaŭ ol ni estas ordonitaj.",
+    "Kiam la Tago alvenos, la nekredantoj estos pelataj al ni grupe, kaj ni malfermos la pordegojn por ili.",
+    "Ni demandos ilin: \"Ĉu ne venis al vi mesaĝistoj el via propra speco, avertante vin pri ĉi tiu Tago?\"",
+    "Ni gardas lokon, el kiu neniu animo iam eliras — flamantan regnon de eterna puno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "La Gardantoj de Inferfajro (Zabaniyah)",
+        "La Portantoj de la Trono de Alaho",
+        "La Registradaj Anĝeloj (Kiraman Katibin)",
+        "La Anĝeloj de Morto",
+        "La Pordegogardistoj de Paradizo"
+      ],
+      "answer": "La Gardantoj de Inferfajro (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Nia Ĉefa Devo",
+      "options": [
+        "Gardante la pordegojn de Infero",
+        "Registrante ĉiun homan faron",
+        "Portante la Tronon de Alaho",
+        "Prenante la animojn de la mortintoj",
+        "Komandante la ventojn kaj nubojn"
+      ],
+      "answer": "Gardante la pordegojn de Infero"
+    },
+    "location": {
+      "label": "Kion ni gardas?",
+      "options": [
+        "La Infero",
+        "La Trono de Alaho",
+        "La Volvlibroj de Faroj",
+        "La Riveroj de Paradizo",
+        "La Montoj de la Tero"
+      ],
+      "answer": "La Infero"
+    },
+    "outcome": {
+      "label": "Sorto de Tiuj en Nia Domajno",
+      "options": [
+        "Ili restos eterne kaj neniam foriros",
+        "Ili fine estos pardonitaj kaj liberigitaj",
+        "Ili estos purigitaj laŭlonge de la tempo",
+        "Ili transformiĝos en aliajn formojn",
+        "Ili alternos inter Infero kaj Paradizo"
+      ],
+      "answer": "Ili restos eterne kaj neniam foriros"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

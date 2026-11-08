@@ -1,0 +1,61 @@
+{
+  "title": "Erresuma bat hautsi zuen presa",
+  "intro": "Ibai emaritsuen lurraldea, bi lorategi berde eta oparotasun paregabea — baina bertako biztanleek ez zioten jaramonik egin bedeinkatu zituenari. Gogorarazleak etorri zitzaizkienean, atzera egin zuten. Ondoren etorri zena oraindik ere abisu gisa oihartzuna duen zigorra izan zen. Nor zen antzinako komunitate hau?",
+  "clues": [
+    "Hain bedeinkatutako lurralde batean bizi ginen, non gure etxea bi lorategi berdeen artean zegoen.",
+    "Gure lurretatik igarotzen ziren ibaiak eta gure etxeak betetzen zituzten uzta oparoak gozatu genituen.",
+    "Hala ere, gure Jaunari esker oneko eta obeditzeko dei egin zigutenean, harrotasunez alde egin genuen.",
+    "Gure aberastasunak eta erraztasunak dena eman ziguna ahaztarazi ziguten.",
+    "Orduan, bat-bateko uholde batek hautsi zuen gure konfiantzazko hesi handia.",
+    "Saba'ko jendea gara, zeinen lurra Ma'rib urtegi handiagatik ezaguna zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Sabako jendea.",
+        "Lubakiko jendea",
+        "Putzuko lagunak.",
+        "Tubba'ko jendea",
+        "Midiango jendea"
+      ],
+      "answer": "Sabako jendea."
+    },
+    "trial": {
+      "label": "Gure gainbehera",
+      "options": [
+        "Presa baten hausturaren ondoriozko uholdea",
+        "Haize bortitz bat zerutik",
+        "Suzko lubaki batean erretzen",
+        "Lurrikara handi bat",
+        "Uholde handi batean itota"
+      ],
+      "answer": "Presa baten hausturaren ondoriozko uholdea"
+    },
+    "location": {
+      "label": "Kokapen nagusia",
+      "options": [
+        "Ma'rib presa",
+        "Sinai mendia",
+        "Zazpi Lotiren Kobazuloa",
+        "Sasi Erretzailea",
+        "Itsasoaren zatiketa."
+      ],
+      "answer": "Ma'rib presa"
+    },
+    "outcome": {
+      "label": "Gure Patua",
+      "options": [
+        "Bi lorategi mingots ordezkatu zituzten gure oparoak",
+        "Gure lorategiak are oparoagoak bihurtu ziren",
+        "Lurra itsasoaren azpian hondoratu zen",
+        "Sumendi-errautsetan lurperatu gintuzten",
+        "Gure nazioa hamabi tributan banatu zen"
+      ],
+      "answer": "Bi lorategi mingots ordezkatu zituzten gure oparoak"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mərhumların Xilaskarlığı",
+  "intro": "Ən dərin ayrılıqla sınağa çəkilmiş, gözləri göz yaşlarının dilini bilən, lakin ürəyi heç vaxt ümidini itirməyən bir ruhla qarşılaşacaqsınız. Aldatma, həsrət və sonda yenidən qovuşma hekayəsində Allahın bu nəcib bəndəsi əbədi səbr simvoluna çevrildi. İllərlə gizli ağrıya dözən, ancaq bir anda görmə və sevinci bərpa edən kimdir?",
+  "clues": [
+    "Mən adı böyük itki qarşısında səbr simvoluna çevrilmiş bir peyğəmbərəm.",
+    "Mən çoxlu oğul sahibi oldum, amma birini başqalarının paxıllığı məndən aldı.",
+    "İtirilmiş insana olan sevgim o qədər dərin idi ki, gözlərim kədərdən ağardı, amma Allahdan başqa heç vaxt şikayət etmədim.",
+    "Oğullarımı itirdiyim oğlu və qardaşını axtarmağa geri göndərdim və onlara ümidlərini itirməmələrini tövsiyə etdim.",
+    "Xoş xəbərçi gələndə üzümə bir köynək atıldı və birdən dünya yenidən aydınlaşdı.",
+    "Mən İsrail kimi tanınıram və on iki oğlumdan böyük bir millətin on iki qəbiləsi törəyib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Peyğəmbər Yaqub (Yaqub)",
+        "Yusif peyğəmbər (Yusif)",
+        "Peyğəmbər İshaq (İshaq)",
+        "İbrahim peyğəmbər (İbrahim)",
+        "Əyyub peyğəmbər"
+      ],
+      "answer": "Peyğəmbər Yaqub (Yaqub)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Uzun illər sevimli oğlundan ayrılıq",
+        "Alovlu bir oda atılmaq",
+        "Böyük bir balıq tərəfindən uduldu",
+        "Ağır dəri xəstəliyindən əziyyət çəkir",
+        "Qocalana qədər övladsız qalmaq"
+      ],
+      "answer": "Uzun illər sevimli oğlundan ayrılıq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Yusifin köynəyi",
+        "Musanın əsaları",
+        "Nuhun gəmisi",
+        "Salehin dişi dəvəsi",
+        "Süleymanın üzüyü"
+      ],
+      "answer": "Yusifin köynəyi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Görmə qabiliyyəti bərpa edildi və oğlu ilə yenidən görüşdü",
+        "Zalım bir padşah üzərində qələbə qazandı",
+        "Diri-diri göylərə qaldırıldı",
+        "Misirə hökmdar təyin edildi",
+        "Möcüzə olaraq qocalıqda bir oğul verildi"
+      ],
+      "answer": "Görmə qabiliyyəti bərpa edildi və oğlu ilə yenidən görüşdü"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

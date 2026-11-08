@@ -151,67 +151,6 @@
     "arabicVerse": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
     "verse": "86:11 - By the sky which sends back"
   },
-  "deduction": {
-    "title": "The Warden of the Unquenchable Flame",
-    "intro": "A figure stands at the threshold of the most feared place in the unseen, entrusted with a duty no other being desires. When suffering souls cry out for mercy, a stern response echoes through the chambers of fire. Can you uncover the identity of this eternal guardian?",
-    "clues": [
-      "I stand at the entrance of a terrifying place of punishment in the unseen.",
-      "A blazing, unquenchable fire is the centerpiece of my solemn duty.",
-      "Suffering souls call out my name, begging for relief from their endless torment.",
-      "When they plead, I declare that they shall not leave, ever.",
-      "I am not human, nor jinn — I am a created being of pure obedience.",
-      "I am the chief angel appointed as the eternal guardian of the Hellfire."
-    ],
-    "categories": {
-      "identity": {
-        "label": "Who Am I?",
-        "options": [
-          "Malik",
-          "Jibreel",
-          "Mikael",
-          "Harut",
-          "Marut"
-        ],
-        "answer": "Malik"
-      },
-      "trial": {
-        "label": "Trial/Event",
-        "options": [
-          "The people of Hell plead for their torment to be ended",
-          "The trumpet is blown to signal the Day of Judgment",
-          "The Quran is revealed to the Prophet's heart",
-          "A Prophet is cast into a great fire by their people",
-          "A mighty wall is built to contain a corrupted nation"
-        ],
-        "answer": "The people of Hell plead for their torment to be ended"
-      },
-      "location": {
-        "label": "Key Element",
-        "options": [
-          "The Hellfire (Jahannam)",
-          "The Lote Tree at the boundary of Paradise",
-          "A piercing trumpet",
-          "A staff that transforms into a serpent",
-          "A magnificent divine throne"
-        ],
-        "answer": "The Hellfire (Jahannam)"
-      },
-      "outcome": {
-        "label": "Outcome",
-        "options": [
-          "The dwellers of Hell are told they will remain eternally",
-          "The dwellers of Hell are forgiven and released",
-          "The dwellers of Hell are granted a second chance at faith",
-          "The dwellers of Hell are moved to a place of coolness",
-          "The dwellers of Hell are completely destroyed by a thunderbolt"
-        ],
-        "answer": "The dwellers of Hell are told they will remain eternally"
-      }
-    },
-    "verseRef": "43:77",
-    "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
-    "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
-  },
   "scramble": {
     "verseRef": "51:5",
     "reference": "Adh-Dhariyat (51:5)",

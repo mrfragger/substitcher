@@ -1,0 +1,61 @@
+{
+  "title": "A Faragott Hegyek Prófétája",
+  "intro": "Az ókori Arábia zord sivatagaiban egy olyan alak bukkant fel a népek között, akik rendkívüli kézművességükről voltak híresek. Otthonaik tömör sziklából emelkedtek, szívük mégis keményebb volt, mint a hegyek, amelyeket faragtak. Egy isteni hírnök érkezett egyetlen csodálatos jellel – de a büszkeség és a dac gyors és félelmetes következményekhez vezetett. Be tudod azonosítani azt a nemes szolgát, akinek a népe a pusztulást választotta az irányítás helyett?",
+  "clues": [
+    "Figyelmeztetőként küldöttem népemhez, hogy az Egyetlen Isten imádatára hívjam őket.",
+    "Az én népem drámai sziklaalakzatok között élt, és csodálatos lakhelyeket vájt a hegyoldalakba.",
+    "Egy csodálatos nőstény teve emelkedett ki a sziklából az imámra, egyértelmű jelként a Mindenhatótól.",
+    "Megmondtam az embereimnek, hogy osszák meg a vizet ezzel a tevével, és ne bántsák.",
+    "Népem összeesküvést szőtt a nőstény teve ellen, és elvágta a bütyköit, ezzel megpecsételve saját pusztulásukat.",
+    "Rettenetes földrengés rázta meg népemet, és mozdulatlanul estek el hajlékaikban."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Szálih próféta",
+        "Hud próféta",
+        "Suajb próféta",
+        "Nuh próféta",
+        "Mózes próféta"
+      ],
+      "answer": "Szálih próféta"
+    },
+    "trial": {
+      "label": "Mi volt a meghatározó próbatétel?",
+      "options": [
+        "Egy csodálatos nőstény teve combhajlító izomhúzódása",
+        "Egy hatalmas bárka építése gúnyolódás közepette",
+        "Szembenézni egy zsarnoki fáraóval",
+        "Lángoló tűzbe vetve",
+        "A szombat szövetségének megszegése"
+      ],
+      "answer": "Egy csodálatos nőstény teve combhajlító izomhúzódása"
+    },
+    "location": {
+      "label": "Mi volt a központi elem?",
+      "options": [
+        "Egy sziklából előbukkanó nőstény teve",
+        "Egy hatalmas fa bárka",
+        "Egy személyzet, amely kettéválasztotta a tengert",
+        "Egy hatalmas bálna",
+        "Egy hegy lebeg a fejünk felett"
+      ],
+      "answer": "Egy sziklából előbukkanó nőstény teve"
+    },
+    "outcome": {
+      "label": "Mi volt a végső sorsuk?",
+      "options": [
+        "Hirtelen földrengés az égből",
+        "Hatalmas árvízbe fulladva",
+        "Városaikat isteni parancsra feldúlták",
+        "Perzselő szél égette meg",
+        "Elnyelte a föld"
+      ],
+      "answer": "Hirtelen földrengés az égből"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

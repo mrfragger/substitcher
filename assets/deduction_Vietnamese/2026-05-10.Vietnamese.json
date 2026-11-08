@@ -1,0 +1,61 @@
+{
+  "title": "Những người xây dựng tháp",
+  "intro": "Vào thời xa xưa, một nền văn minh hùng mạnh đã trỗi dậy, nổi bật bởi những kỳ tích xây dựng ấn tượng và sức mạnh đáng gờm. Cộng đồng này được ban tặng nguồn tài nguyên dồi dào và sức mạnh thể chất vượt trội, nhưng họ lại chọn con đường bất tuân mệnh lệnh thiêng liêng được gửi đến để dẫn dắt họ. Câu chuyện của họ là một bài học sâu sắc trong biên niên sử, một minh chứng cho hậu quả của việc từ chối chân lý.",
+  "clues": [
+    "Chúng tôi được ban cho sức mạnh thể chất và tầm vóc phi thường, không giống bất kỳ dân tộc nào khác cùng thời.",
+    "Chúng tôi nổi tiếng với việc xây dựng những công trình đồ sộ và những cột trụ cao vút ở mọi nơi cao, với niềm tin rằng mình sẽ sống mãi mãi.",
+    "Một sứ giả từ giữa chúng ta đã được phái đến để cảnh báo chúng ta, kêu gọi chúng ta chỉ thờ phụng Allah và từ bỏ các thần tượng của mình.",
+    "Chúng ta đã kiêu ngạo chất vấn sứ giả của mình, hỏi rằng liệu họ đến chỉ để bắt chúng ta thờ phụng Allah và từ bỏ những gì tổ tiên chúng ta đã thờ phụng hay không.",
+    "Vùng đất của chúng ta được ban phước với những khu vườn, suối nước và những cánh đồng màu mỡ, nhưng chúng ta lại cho rằng sự thịnh vượng đó là do sức mạnh của chính mình, chứ không phải do Đấng Tạo Hóa.",
+    "Vì sự hoài nghi và chế giễu dai dẳng của chúng ta, cuối cùng chúng ta đã bị tiêu diệt bởi một cơn gió khủng khiếp, dữ dội hoành hành suốt nhiều ngày đêm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người dân Thamud",
+        "Người dân Fir'aun",
+        "Người dân Nuh",
+        "Người dân Madyan",
+        "Người dân của 'Ad"
+      ],
+      "answer": "Người dân của 'Ad"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Được yêu cầu hiến tế một con lạc đà cụ thể",
+        "Bị thách thức phải sáng tác mười surah giống như kinh Qur'an",
+        "Được chứng kiến ​​cảnh biển chia đôi.",
+        "Được một nhà tiên tri cảnh báo về trận lụt sắp xảy ra",
+        "Từ chối lời cảnh báo của một nhà tiên tri về việc xây dựng quá mức và thờ cúng thần tượng."
+      ],
+      "answer": "Từ chối lời cảnh báo của một nhà tiên tri về việc xây dựng quá mức và thờ cúng thần tượng."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con tàu Noah",
+        "Nhân viên",
+        "Ngọn lửa",
+        "Thành phố Sodom",
+        "Những cột trụ cao vút và những ngôi nhà kiên cố"
+      ],
+      "answer": "Những cột trụ cao vút và những ngôi nhà kiên cố"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Chết đuối trong trận lụt lớn",
+        "Bị đất nuốt chửng",
+        "Biến thành vượn và lợn",
+        "Bị phá hủy bởi một vụ nổ kinh hoàng",
+        "Bị cuốn trôi bởi một cơn gió dữ dội, tàn phá."
+      ],
+      "answer": "Bị cuốn trôi bởi một cơn gió dữ dội, tàn phá."
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

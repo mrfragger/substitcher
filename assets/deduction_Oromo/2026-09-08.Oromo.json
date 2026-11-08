@@ -1,0 +1,61 @@
+{
+  "title": "Qormaata Abidda Qulqulluu",
+  "intro": "Biyya durii dhagaa bocameef of kennuu mana hunda keessatti hidda gadi fageeffate keessatti, namni dhuunfaa tokko adda bahee dhaabbate. Amantii hin raafamnee fi eegumsa waaqaatiin, du’a mirkanaa’aa ta’uu qabu isaan mudate — osoo hin miidhamiin deeman. Eenyummaa lubbuu dinqisiisaa kanaa saaxiluu dandeessaa?",
+  "clues": [
+    "Namoota meeshaaleen kun humna waaqummaa akka qaban amananii waaqa tolfamaa harka isaaniitiin bocaniif jilbeenfatan keessaa guddadhe.",
+    "Amantaa isaanii yeroon mormu, jalqaba irratti hojii irraa na ari’an, garuu dhugaa beeku callisuu hin dandeenye.",
+    "Guyyaa isaan walitti qabaman tokkotti, waaqolii tolfamoo isaanii balleesseen, isa guddaa qofa osoo hin tuqin hafe.",
+    "Deebi’anii waanan hojjedhe yommuu argan, geggeessitoonni isaanii ibidda keessa na darbachuuf yaadanii, ibiddaa guddaan akka ijaaramu ajajan.",
+    "Ibidda boba’aa keessa na darbatan, garuu Gooftaan addunyaalee akka naaf qabbanaa’ee fi nagaa ta’u ajaje.",
+    "Ani guutummaatti osoo hin miidhamiin abidda keessaa kan ba’e yoo ta’u, warri na irratti shira xaxan ammoo badiisa guutuu isaan mudate."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Ibraahim",
+        "Nabi Muusaa",
+        "Nabi Nuh",
+        "Nabi Isaa",
+        "Nabi Yuusuf"
+      ],
+      "answer": "Nabi Ibraahim"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ibidda boba’aa keessa darbatamuu",
+        "Whale guddaa tokkoon liqimfamuu",
+        "Lolaa guddaa irraa hafuu",
+        "Boolla bishaanii gadi fagootti darbatamuu",
+        "Falfaltoota mootii tokkoo wajjin wal dura dhaabbachuu"
+      ],
+      "answer": "Ibidda boba’aa keessa darbatamuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Ibidda guddaa muka gubaa jiru",
+        "Taabota mukaa guddaa",
+        "Siidaa re'ee warqee irraa hojjetame",
+        "Laga irratti qamadii lola'u",
+        "Teessoo ajaa'ibaa"
+      ],
+      "answer": "Ibidda guddaa muka gubaa jiru"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Rabbiin ibidda qabbanaa'ee nagaa godhe",
+        "Taabonni sun nagaadhaan gaara tokkorra buʼe",
+        "Waaqa tolfamni warqee sun ija isaanii duratti ni baala’e",
+        "Gabroomfataa fi waraanni isaa galaana keessatti liqimfaman",
+        "Namicha jaamaa tokkoo ijaan deebi'e"
+      ],
+      "answer": "Rabbiin ibidda qabbanaa'ee nagaa godhe"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

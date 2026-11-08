@@ -1,0 +1,61 @@
+{
+  "title": "Ang Pagsubok ng Sagradong Nilalang",
+  "intro": "Isang palatandaan ang ipinadala sa isang bansang naligaw ng landas. Sa gitna ng kanilang komportableng buhay ay dumating ang isang babala—kasama ang isang kahanga-hangang nilalang na magiging sukdulang pagsubok sa kanilang pananampalataya. Ang kanilang tugon ang siyang magtatakda ng kanilang kapalaran magpakailanman. Matutuklasan mo ba kung sino ang nagbigay ng babalang ito at ano ang nangyari sa mga tumanggi dito?",
+  "clues": [
+    "Kami ay mga taong ginabayan ng mga naunang sugo bago sa amin.",
+    "Isang kahanga-hangang nilalang ang lumitaw mula sa bundok, isang tanda mula sa ating Panginoon para sa bansang ito.",
+    "Sinabi ko sa kanila: 'Ito ay isang babaeng kamelyo na pag-aari ni Allah, kaya hayaan ninyo siyang kumain mula sa lupa ni Allah at huwag ninyo siyang saktan.'",
+    "Ngunit pinigilan ng mga tao ang aking kamelyong babae, na nilabag ang utos ng kanilang Panginoon.",
+    "Ako ay isa lamang sugo mula sa iyong Panginoon, isinugo dala ang katotohanan—ako ay isang mapagkakatiwalaang propeta at lingkod.",
+    "Tungkol naman sa mga gumagawa ng kamalian, hinampas sila ng ating Panginoon ng isang malakas na tunog, at sila ay nawalan ng malay sa kanilang mga tahanan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Si Propeta Hud ng mga tao ng A'ad",
+        "Propeta Salih ng mga Thamud",
+        "Propeta Shu'aib ng Midian",
+        "Si Propeta Lut ng mga tao ng Sodoma",
+        "Propeta Noah ng Arka"
+      ],
+      "answer": "Propeta Salih ng mga Thamud"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang Baha na lumunod sa isang bansang hindi naniniwala",
+        "Ang lindol na sumira sa isang makasalanang lungsod",
+        "Ang kamelyong babae ay nagpadala bilang isang banal na tanda at pagsubok",
+        "Ang bagyong nagparusa sa mga taga-Midian",
+        "Ang pagkawasak ng mga tao ni Lot gamit ang mga bato"
+      ],
+      "answer": "Ang kamelyong babae ay nagpadala bilang isang banal na tanda at pagsubok"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang lungsod ng Sodoma sa Lambak ng Jordan",
+        "Ang lambak ng Al-Hijr sa pagitan ng Hijaz at Syria",
+        "Ang sinaunang lupain ng A'ad sa timog Arabia",
+        "Ang mga kagubatan ng Midian malapit sa Dagat na Pula",
+        "Ang kapatagan ng Bundok Judi sa Mesopotamia"
+      ],
+      "answer": "Ang lambak ng Al-Hijr sa pagitan ng Hijaz at Syria"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Sila ay naligtas matapos magsisi at maniwala",
+        "Isang ulan ng mga bato ang tuluyang sumira sa kanila",
+        "Isang malakas na tunog ang bumungad sa kanila nang hindi sila makagalaw",
+        "Dinala sila ng malakas na hangin",
+        "Nilamon sila ng lindol sa lupa"
+      ],
+      "answer": "Isang malakas na tunog ang bumungad sa kanila nang hindi sila makagalaw"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

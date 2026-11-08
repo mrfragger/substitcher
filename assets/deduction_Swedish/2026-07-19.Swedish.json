@@ -1,0 +1,61 @@
+{
+  "title": "Århundradenas obesvarade röst",
+  "intro": "Långt innan de stora städerna reste sig, reste sig en ensam själ bland ett folk som hade vänt sig bort från sanningen. Deras envishet motsvarades endast av tålamodet hos denne ensamme uppropare, som vädjade genom generationer utan att tappa beslutsamheten. När alla varningar föll för döva öron, omformade en exempellös uppgörelse själva jorden. Idag skvalpar ekon av den berättelsen fortfarande genom varje recitation. Kan du identifiera denna beslutsamma själ?",
+  "clues": [
+    "Jag växte upp bland ett folk som dyrkade falska avgudar och ignorerade tecknen runt omkring dem, men ändå valdes jag att väcka dem från deras likgiltighet.",
+    "Jag ropade till mitt folk gång på gång, men de anklagade mig för att inte vara något annat än en människa som de, de hånade mitt budskap och höll för sina öron.",
+    "Natt och dag vädjade jag till dem med visdom och vänliga påminnelser, men mina ord tycktes försvinna i luften, ohörda och obesvarade.",
+    "Under gudomlig instruktion byggde jag ett stort kärl av timmer och plankor på torra land, och mitt folk skrattade åt mig som om jag hade tappat förståndet.",
+    "När den stora översvämningen kom som utlovat vägrade min egen son att gå ombord på fartyget med mig, i tron ​​att ett berg skulle skydda honom från det stigande vattnet.",
+    "Jag blev patriark för en ny början på jorden, och min berättelse finns bevarad i ett kapitel i Koranen som bär mitt namn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Nuh",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Lut",
+        "Profeten Hud"
+      ],
+      "answer": "Profeten Nuh"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Den stora översvämningen som omformade jorden",
+        "Att kastas i en flammande eld av avgudadyrkarna",
+        "Konfrontation med Faraos magiker i palatset",
+        "Förstörelsen av de blomstrande trädgårdarna av en himmelsk storm",
+        "Vältningen av skyttegravsboarna"
+      ],
+      "answer": "Den stora översvämningen som omformade jorden"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken byggd av timmer och plankor",
+        "Det heliga huset byggt på forntida grundvalar",
+        "Staven som förvandlades till en orm",
+        "De sovande ungdomarnas grotta",
+        "Tronen som bärs av en mäktig varelse"
+      ],
+      "answer": "Arken byggd av timmer och plankor"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De icke-troende drunknade medan de troende räddades ombord på fartyget",
+        "Elden svalnade och blev säker, och inringaren kom oskadd ut.",
+        "Magikerna föll ner på marken och omfamnade tro",
+        "Trädgården gavs till den rättfärdige grannen i dess ställe",
+        "De sovande vaknade efter århundraden, förvandlade"
+      ],
+      "answer": "De icke-troende drunknade medan de troende räddades ombord på fartyget"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Um pequeno aviso antes da marcha da multidão",
+  "intro": "Entre em um vale onde um poderoso governante e um vasto exército se aproximam, e imagine um pequeno viajante dando um aviso que salva toda uma comunidade. Conforme a comunidade ameaçada busca abrigo, o perigo passa. Siga as pistas para identificar a figura esquecida por trás desse aviso.",
+  "clues": [
+    "Sou uma das pequenas criaturas associadas ao reino de um governante.",
+    "Minha comunidade vive em moradias dentro de um vale, onde um de nós pode chamar os outros.",
+    "Estamos enfrentando uma ameaça desse governante e dos exércitos que viajam com ele.",
+    "Sou eu quem convoca minha comunidade para entrar em suas casas e nos adverte para não sermos esmagados sem percebermos.",
+    "O governante é Sulayman, e minha espécie está entre as criaturas colocadas sob seu comando.",
+    "Eu sou a formiga daquele vale; após meu aviso, entramos em nossas casas e escapamos do esmagamento que, de outra forma, nos teria pegado desprevenidos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A Formiga do Vale",
+        "A poupa",
+        "O Corvo",
+        "A Serpente",
+        "A Mula"
+      ],
+      "answer": "A Formiga do Vale"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Um aviso que poupou uma comunidade de formigas.",
+        "Um pedido de anel feito por um peixe",
+        "Em busca de um trono desaparecido",
+        "O resgate dos olhos roubados",
+        "A recusa em comer a comida de um governante."
+      ],
+      "answer": "Um aviso que poupou uma comunidade de formigas."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Vale das Formigas",
+        "O Anel de Sinete de Sulayman",
+        "A camisa ensanguentada de Yusuf",
+        "O Bezerro de Ouro do Êxodo",
+        "O Cajado de Musa"
+      ],
+      "answer": "O Vale das Formigas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A comunidade foi poupada após buscar abrigo.",
+        "A comunidade foi destruída sem ter para onde recorrer para se abrigar.",
+        "A comunidade foi poupada porque o exército recuou.",
+        "A comunidade foi recompensada com o controle sobre as aves.",
+        "A comunidade foi levada prisioneira para a corte real."
+      ],
+      "answer": "A comunidade foi poupada após buscar abrigo."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

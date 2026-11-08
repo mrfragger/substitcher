@@ -1,0 +1,61 @@
+{
+  "title": "Israrcı Ruhun Sınavı",
+  "intro": "Bir ruh, ilahi bir imtihan anında, alçakgönüllü bir azimle yol gösterici arar. Her şeyi bilen O, bu arayanı geri çevirir, ancak daha sonra bunun kalbin bir imtihanı olduğunu ortaya koyar. Bu gizemli etkileşim aracılığıyla, düşünenlerin önünde ilahi hikmet hakkında bir ders açılır. Kur'an anlatısındaki bu figürü belirleyebilir misiniz?",
+  "clues": [
+    "Allah'ın sevgili elçisinden bilgi ve rehberlik aradım.",
+    "Hakikati aramak için geldim, Peygambere içten bir arzuyla dua ettim.",
+    "Azarlandım ve geri çevrildim, çünkü Allah'ın hikmeti o an için başka planlar yapmıştı.",
+    "Ancak umutsuzluğa kapılmadım; bunun yerine arayışımda ilerlemeye devam ettim.",
+    "Her şeyi bilen O, bunun kalbin bir imtihanı ve bir uyarı olduğunu ilan etti.",
+    "Kur'an'da şöyle buyurulanlar arasında ben de vardım: 'Ona kör adam gelince kaşlarını çattı ve yüzünü çevirdi.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Şüphe Arayan İkiyüzlü",
+        "Kör Hakikat Arayıcısı",
+        "Mekke'nin Putperesti",
+        "Kâfir, Peygamberle Alay Ediyor",
+        "Yemenli Gezgin"
+      ],
+      "answer": "Kör Hakikat Arayıcısı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Namaz sırasında Hz. Muhammed tarafından azarlanmak",
+        "Mekke'de kuraklık ve kıtlıkla sınanmak",
+        "Cennetin kapılarından geri çevrilmek",
+        "İnanç nedeniyle kendi halkı tarafından dışlanmak",
+        "Servet ve çocuklarla sınanmak"
+      ],
+      "answer": "Namaz sırasında Hz. Muhammed tarafından azarlanmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Hac mevsiminde Kabe'nin içi.",
+        "Peygamberin huzurunda, Kur'an okuma sırasında",
+        "Sabah saatlerinde Safa Dağı'nın zirvesinde",
+        "Mekke'nin çarşısında, kâfirlerle çevrili halde",
+        "Hac sırasında Zemzem kuyusunun yakınında."
+      ],
+      "answer": "Peygamberin huzurunda, Kur'an okuma sırasında"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Arayış içindeki kişi, inancı uğruna Kureyşliler tarafından şehit edildi.",
+        "Bu olay, ümmet için bir imtihan ve ders olarak kayıtlara geçti.",
+        "Arayış içindeki kişi bir yol arkadaşı ve lider haline geldi.",
+        "Arayanın serveti on katına çıktı.",
+        "Arayış içindeki kişi yeniden şüpheye düştü."
+      ],
+      "answer": "Bu olay, ümmet için bir imtihan ve ders olarak kayıtlara geçti."
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i te Rakau e Mura Ana",
+  "intro": "Wetekina te tuakiri o tētahi tangata hohonu i tīmata tana haerenga i tētahi tūtakitanga merekara, ā, i honoa tōna mutunga ki te whakaoranga o te iwi e tukinotia ana. I whiriwhiria tēnei tangata mō tētahi mahi nui, me te aro atu ki ngā wero nunui me te tautoko a te Atua.",
+  "clues": [
+    "I whānau mai ahau i te wā o te tukino nui, i te wā i kohurutia ai ngā pēpi o tōku iwi.",
+    "I tōku tamarikitanga i makahia ahau ki roto i te awa e ōku mātua, heoi i kitea ahau, i whakatipuria hoki i roto i te whare tonu o te kaitukino o tōku iwi.",
+    "I oma atu ahau i tētahi tāone i muri i taku whakamatenga i tētahi tangata i roto i tētahi tautohe.",
+    "I tae mai he karere atua me tētahi tokotoko merekara ki ahau i tētahi wāhi tapu, ā, i whakahaua mai ahau ki reira kia tū atu ki tētahi rangatira mana nui.",
+    "I whakatūria tōku tungāne hei kaiawhina mōku i roto i taku misioni, nā te mea i kitea he arai i roto i taku kōrero.",
+    "I ārahi ahau i tōku iwi i whiti i te moana kua pakaru, i mawhiti atu i te whai a te ope taua nanakia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Yusuf",
+        "Poropiti a Ihaia",
+        "Poropiti a Mohi",
+        "Poropiti a Noa",
+        "Poropiti Ihāperama"
+      ],
+      "answer": "Poropiti a Mohi"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Ngā tau maroke e mau tonu ana",
+        "Te Hanga i te Āraka",
+        "Te tū atu ki a Parao me āna tohunga makutu",
+        "Te maka ki roto i te oumu mura",
+        "Te whakangaromanga o te iwi o Thamud"
+      ],
+      "answer": "Te tū atu ki a Parao me āna tohunga makutu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Kaaba",
+        "Te Taiepa Rino",
+        "Ngā Kaimahi",
+        "Te Waka o Noa",
+        "Te Mowhiti o Sulaiman"
+      ],
+      "answer": "Ngā Kaimahi"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I hurihia te pa o Horoma",
+        "I horomia te iwi e te whenua",
+        "I taupokina te whenua e te waipuke nui",
+        "I toremi a Parao rātou ko tana ope taua",
+        "I hinga ngā taiepa o te tāone i te tangi"
+      ],
+      "answer": "I toremi a Parao rātou ko tana ope taua"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

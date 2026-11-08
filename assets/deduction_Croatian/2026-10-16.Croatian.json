@@ -1,0 +1,61 @@
+{
+  "title": "Zajednica koja je prkosila Danu odmora",
+  "intro": "Zakoračite u obalno naselje gdje je božanska zapovijed odvojila jedan dan za štovanje i suzdržavanje. Grupa unutar ove zajednice odlučila je iskušati granice te zapovijedi lukavim planom, što je dovelo do transformacije koja će odjekivati ​​kroz stoljeća. Tko su bile te duše i što se s njima dogodilo?",
+  "clues": [
+    "Živjeli smo blizu obale, gdje nam je more osiguravalo egzistenciju.",
+    "Zapovijedano nam je da poštujemo jedan dan u tjednu, odvajajući ga od svjetovnih težnji.",
+    "Tog dana, ribe su nam dolazile u velikom broju, kao da nas mame da prekršimo zapovijed.",
+    "Smislili smo plan da uhvatimo ribe u zamku uoči svetog dana, a zatim ih pokupimo nakon što prođe.",
+    "Kad su neki među nama upozorili na ovu prijevaru, ignorirali smo njihov savjet i ustrajali.",
+    "Zbog našeg prijestupa, pretvoreni smo u majmune, prezreni i odbačeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ljudi subote",
+        "Ljudi iz jarka",
+        "Ljudi iz šume",
+        "Ljudi iz vrta",
+        "Ljudi slona"
+      ],
+      "answer": "Ljudi subote"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Ribolov u subotu",
+        "Izgradnja uzvišenog tornja",
+        "Ubijanje svete deve",
+        "Poricanje poslanika koji im je poslan",
+        "Prekoračenje trgovinskih težina"
+      ],
+      "answer": "Ribolov u subotu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "More i njegove ribe",
+        "Vatra koja se ohladila",
+        "Štap koji se pretvorio u zmiju",
+        "Kovčeg spasenja",
+        "Kamene ploče"
+      ],
+      "answer": "More i njegove ribe"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pretvoreni u majmune",
+        "Progutala zemlja",
+        "Uništen jakim vjetrom",
+        "Utopljen u moru",
+        "Pogođen kišom kamenja"
+      ],
+      "answer": "Pretvoreni u majmune"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

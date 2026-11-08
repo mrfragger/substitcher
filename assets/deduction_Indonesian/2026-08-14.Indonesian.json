@@ -1,0 +1,61 @@
+{
+  "title": "Tangan Terkutuk",
+  "intro": "Anda berdiri di lorong-lorong berliku Mekah kuno, tempat jiwa yang berpengaruh dan kaya pernah berpaling dari seruan kebenaran. Kisah tokoh ini adalah pengingat yang keras bahwa ikatan darah tidak dapat mengatasi rantai kesombongan. Siapakah orang ini yang namanya bergema dengan api yang menanti?",
+  "clues": [
+    "Aku berjalan di jalanan Mekah dengan kesombongan yang membutakan mataku terhadap kebenaran, meskipun sang utusan adalah darah dagingku sendiri.",
+    "Harta bendaku sangat banyak, tetapi malah menjadi kutukan daripada perisai.",
+    "Kitab petunjuk itu berbicara tentang kehancuranku, menyatakan bahwa tanganku dan diriku akan binasa.",
+    "Pasangan saya ikut serta dalam kampanye permusuhan saya, mengumpulkan duri untuk disebar di jalan orang yang menyeru kepada Allah.",
+    "Pada hari penghakiman, aku akan dicelupkan ke dalam api yang menyala-nyala, dan pasanganku akan memiliki tali dari serat palem di lehernya.",
+    "Aku dikenal dengan nama yang berarti 'bapak api' — sebuah nama yang meramalkan tempat tinggal abadiku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Uji Coba atau Acara Utama",
+      "options": [
+        "Menentang Nabi dan dikutuk dalam Al-Quran.",
+        "Memimpin pasukan untuk menghancurkan Ka'bah",
+        "Berusaha membunuh Nabi dengan melempar batu.",
+        "Menolak untuk percaya pada peristiwa terbelahnya bulan",
+        "Membangun sebuah menara untuk mencapai langit"
+      ],
+      "answer": "Menentang Nabi dan dikutuk dalam Al-Quran."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Api Neraka yang Berkobar",
+        "Tongkat Musa",
+        "Bahtera Nuh",
+        "Sumur Zamzam",
+        "Anak Lembu Emas"
+      ],
+      "answer": "Api Neraka yang Berkobar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Dia akan masuk ke dalam api yang menyala-nyala, dan kekayaannya tidak akan berguna baginya.",
+        "Dia bertobat dan menjadi seorang yang beriman.",
+        "Dia diampuni setelah mencabut pernyataannya.",
+        "Dia meninggal sebagai seorang martir.",
+        "Ia diangkat ke surga."
+      ],
+      "answer": "Dia akan masuk ke dalam api yang menyala-nyala, dan kekayaannya tidak akan berguna baginya."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

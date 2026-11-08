@@ -1,0 +1,61 @@
+{
+  "title": "Meka tõemeelsed",
+  "intro": "Ilmutuse algusaegadel, kui tõe sõnum seisis silmitsi ägeda vastuseisuga, jäid teatud hinged oma veendumuses vankumatuks. Need usklikud seisid silmitsi kujuteldamatu julmusega nende poolt, kes püüdsid usu valgust kustutada. Nende piinad olid rängad, kannatused tohutud – ometi ei lakanud nende keel kuulutamast Allahi ühtsust. Isegi sügavaimas meeleheites ümbritses neid jumalik kaitse, muutes nende katsumuse igaveseks usu tunnistuseks. Uurigem nende tähelepanuväärsete hingede teekonda.",
+  "clues": [
+    "Meid proovile pandi karmi karistusega, kuna me keeldusime hülgamast oma usku ühte Jumalasse.",
+    "Meie rahvas ei suutnud meie otsusekindlust murda, ükskõik kui loominguliseks nende julmus ka ei muutunud",
+    "Päeval rippusime kaevust, kuid jumalik abi oli alati lähedal",
+    "Meie vankumatus hämmastas isegi neid, kes olid meie vastupidavuse tunnistajaks",
+    "Paljud Mekas püüdsid meid sundida oma usust loobuma, aga me jäime kindlaks",
+    "Kui kõik tundus kadunud, saabus meie vabadus imelise jumaliku sekkumise kaudu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Võitlus prohveti vastu",
+        "Tagakiusamine ebajumalate kummardamisest keeldumise pärast",
+        "Usu proovilepanek tulekahjujuhtumi osas",
+        "Öise jagatud teekonna proovikivi",
+        "Aia hävingu test"
+      ],
+      "answer": "Tagakiusamine ebajumalate kummardamisest keeldumise pärast"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Uhudi mägi",
+        "Kaaba püha paik",
+        "Abu Sufyani kaev",
+        "Kuraiši palee",
+        "Mediina linn"
+      ],
+      "answer": "Abu Sufyani kaev"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Võit suures lahingus",
+        "Vabanemine jumaliku sekkumise kaudu",
+        "Märtrisurm Allahi teel",
+        "Vastuvõtt otse paradiisi",
+        "Ränne õnnistatud maale"
+      ],
+      "answer": "Vabanemine jumaliku sekkumise kaudu"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

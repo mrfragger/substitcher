@@ -1,0 +1,61 @@
+{
+  "title": "A semente da loita",
+  "intro": "Antes de que o mundo coñecese un conflito xeneralizado, desenvolveuse unha profunda proba de fe e obediencia. Esta narrativa explora as decisións tomadas por un individuo, cuxas accións sentaron un precedente para as xeracións futuras. Prepárate para desentrañar a historia dunha alma que loita contra inmensos celos e as súas devastadoras consecuencias.",
+  "clues": [
+    "Fun un dos primeiros descendentes en camiñar sobre a terra, fillo da primeira parella humana.",
+    "Ao meu irmán e a min ordenáronnos ofrecer un sacrificio a Alá, unha proba da nosa sinceridade.",
+    "A miña ofrenda non foi aceptada, mentres que a do meu irmán si, o que encheu o meu corazón dunha emoción terrible.",
+    "Dixen palabras ameazantes ao meu irmán, impulsado pola amargura do rexeitamento.",
+    "Meu irmán respondeu con sabedoría e piedade, lembrándome a xustiza de Alá e o seu temor.",
+    "A pesar das amables palabras do meu irmán e da súa disposición a perdoar, quitei unha vida, converténdome nun dos perdedores."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Adán",
+        "Iblis",
+        "Profeta Nuh",
+        "Qabil (Caín)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Caín)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A gran inundación",
+        "A división do mar",
+        "A construción da Kaaba",
+        "A ofrenda de sacrificios",
+        "A tentación no Xardín"
+      ],
+      "answer": "A ofrenda de sacrificios"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Arca",
+        "O persoal",
+        "A montaña de Safa",
+        "O sacrificio",
+        "A Sarza Ardente"
+      ],
+      "answer": "O sacrificio"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Converteuse nun mensaxeiro",
+        "Afogouse",
+        "Construíu un gran reino",
+        "Converteuse nun exemplo de arrepentimento",
+        "Foi outorgada unha inmensa riqueza"
+      ],
+      "answer": "Converteuse nun exemplo de arrepentimento"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

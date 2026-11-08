@@ -1,0 +1,61 @@
+{
+  "title": "Hiekan alla oleva kevät",
+  "intro": "Koraanin aikakirjoissa äärimmäisen kärsivällinen hahmo kohtasi koettelemuksen, joka murskaisi rohkeimmatkin sydämet. Kaikki riistettiin häneltä – vauraus, perhe ja terveys. Silti epätoivon syvyyksistä nousi nöyrä rukous, johon vastattiin odottamattomalla tavalla. Voitko tunnistaa tämän sielun, jonka toipumisen tarina kaikuu läpi aikojen?",
+  "clues": [
+    "Minua koeteltiin niin ankaralla koettelemuksella, että se muistetaan kautta aikojen.",
+    "Menetin kaiken tärkeän – omaisuuteni, terveyteni ja lapseni.",
+    "Ruumiini oli täynnä kivuliaita haavoja, ja kaikki hylkäsivät minua.",
+    "Epätoivoissani huusin Allahia avuksi ja sanoin, että Saatana oli koskettanut minua vaikeuksilla ja piinalla.",
+    "Allah vastasi minulle ja käski minun lyödä maata jalallani.",
+    "Siitä paikasta pulppusi viileä lähde, ja Allah palautti perheeni ja kaksinkertaisti heidän osuutensa armosta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ayyub",
+        "Profeetta Musa",
+        "Profeetta Ilja",
+        "Profeetta Sulayman",
+        "Profeetta Daavid"
+      ],
+      "answer": "Profeetta Ayyub"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Vakava sairaus ja perheen ja omaisuuden menetys",
+        "Suuren valaan nielaisema",
+        "Maanpako Mekan kaupungista",
+        "Vankeus syvässä kaivossa",
+        "Yhteenotto ylimielisen hallitsijan kanssa"
+      ],
+      "answer": "Vakava sairaus ja perheen ja omaisuuden menetys"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Viileä kevät maasta",
+        "Vene suuren tulvan keskellä",
+        "Sauva, joka halkaisi meren",
+        "Korotettu lasista tehty valtaistuin",
+        "Muurien ympäröimä luola nukkumista varten"
+      ],
+      "answer": "Viileä kevät maasta"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Perhe ja varallisuus palautettu ja kaksinkertaistettu",
+        "Uloskäynti kalan vatsasta",
+        "Turvallinen kulku jakautuneiden vesien läpi",
+        "Hallittavaksi annettu valtakunta",
+        "Pojan ihmeellinen syntymä vanhalla iällä"
+      ],
+      "answer": "Perhe ja varallisuus palautettu ja kaksinkertaistettu"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

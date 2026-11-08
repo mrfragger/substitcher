@@ -1,0 +1,61 @@
+{
+  "title": "Mažas įspėjimas prieš žygiuojančią kariuomenę",
+  "intro": "Įženkite į slėnį, pro kurį artėja galingas valdovas su didžiule kariuomene, ir įsivaizduokite mažą keliautoją, siunčiantį perspėjimą, kuris išgelbėja visą bendruomenę. Kai grėsmės kamuojama bendruomenė randa prieglobstį, pavojus praeina. Sekite užuominomis, kad atpažintumėte nepastebėtą figūrą, slypinčią už perspėjimo.",
+  "clues": [
+    "Aš esu tarp tų mažų būtybių, susijusių su valdovo karalyste.",
+    "Mano bendruomenė gyvena slėnyje esančiuose būstuose, kur kiekvienas galime paskambinti kitiems.",
+    "Mums kyla grėsmė iš to valdovo ir kartu su juo keliaujančių armijų.",
+    "Aš esu tas, kuris kviečia savo bendruomenę įžengti į savo būstus ir perspėja nebūti sutraiškytiems netyčia.",
+    "Valdovas yra Sulaymanas, o mano rūšis yra tarp jam pavaldžių būtybių.",
+    "Aš esu to slėnio skruzdėlė; po mano perspėjimo mes įžengėme į savo būstus ir išvengėme sutriuškinimo, kuris kitaip būtų mus užklupęs netikėtai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Slėnio skruzdėlė",
+        "Kukutis",
+        "Varna",
+        "Gyvatė",
+        "Mulas"
+      ],
+      "answer": "Slėnio skruzdėlė"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įspėjimas, kuris išgelbėjo skruzdžių bendruomenę",
+        "Žuvies prašymas dėl žiedo",
+        "Dingusio sosto paieškos",
+        "Pavogtų akių gelbėjimas",
+        "Atsisakymas valgyti valdovo maistą"
+      ],
+      "answer": "Įspėjimas, kuris išgelbėjo skruzdžių bendruomenę"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Skruzdėlių slėnis",
+        "Suleimano antspaudo žiedas",
+        "Kraujais suteptas Jusufo marškinėliai",
+        "Auksinis Išėjimo veršis",
+        "Musos personalas"
+      ],
+      "answer": "Skruzdėlių slėnis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Bendruomenė buvo išgelbėta po to, kai rado prieglobstį",
+        "Bendruomenė buvo sunaikinta be prieglobsčio",
+        "Bendruomenė buvo išgelbėta, nes armija atsitraukė",
+        "Bendruomenė buvo apdovanota paukščių kontrole",
+        "Bendruomenė buvo paimta į nelaisvę karališkajame dvare"
+      ],
+      "answer": "Bendruomenė buvo išgelbėta po to, kai rado prieglobstį"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

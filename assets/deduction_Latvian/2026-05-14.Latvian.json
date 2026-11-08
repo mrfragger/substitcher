@@ -1,0 +1,61 @@
+{
+  "title": "Mūžīgās Gudrības Dalītājs",
+  "intro": "Cienījama persona, kas pazīstama ar savu dziļo ieskatu un gudrajiem padomiem, savulaik sniedza padomus, kas pārvar paaudzes. Viņa vārdi, kas pierakstīti Svētajos Rakstos, vada cilvēkus uz pateicību, pacietību un taisnīgu rīcību.",
+  "clues": [
+    "Mani svētīja gudrība, nevis pravietība.",
+    "Es ieteicu savam bērnam lielāko no grēkiem: piesaistīt Allāham partnerus.",
+    "Es mācīju par darbu svaru, pat sinepju sēklas vērtību, un kā Allāhs to īstenos.",
+    "Es uzsvēru pateicību Allāham un saviem vecākiem, atzīstot bērna audzināšanas grūtības.",
+    "Mans padoms ietvēra lūgšanas uzsākšanu, laba pavēlēšanu, ļauna aizliegšanu un pacietīgu panesšanu visā, kas ar mums notiek.",
+    "Korānā viena nodaļa ir nosaukta manā vārdā, un tajā ir ietvertas manas mācības un mācības, ko esmu dalījies."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Sulaimans",
+        "Pravietis Davuds",
+        "Pravietis Jahja",
+        "Lukmans",
+        "Pravietis Musa"
+      ],
+      "answer": "Lukmans"
+    },
+    "trial": {
+      "label": "Centrālā tēma",
+      "options": [
+        "Kaabas celtniecība",
+        "Jūras sadalīšana",
+        "Gudrības sniegšana",
+        "Izdzīvošana plūdos",
+        "Zivs norīšana"
+      ],
+      "answer": "Gudrības sniegšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Tūras kalns",
+        "Viņa dēls",
+        "Zelta teļš"
+      ],
+      "answer": "Viņa dēls"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņa tauta tika iznīcināta",
+        "Viņa gudrība kļuva par ceļvedi",
+        "Viņam tika piešķirta karaļvalsts",
+        "Viņš tika pacelts debesīs",
+        "Viņam tika piešķirta milzīga bagātība"
+      ],
+      "answer": "Viņa gudrība kļuva par ceļvedi"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pembina Tiang-tiang Tinggi",
+  "intro": "Anda berdiri di hadapan runtuhan sebuah kota kuno yang megah, tiang-tiangnya yang tinggi kini tumbang. Angin menderu melalui jalan-jalan yang kosong, membawa kenangan tentang bangsa yang perkasa yang pernah memerintah tanah-tanah ini. Siapakah mereka?",
+  "clues": [
+    "Kami adalah bangsa yang mempunyai kekuatan dan kemahiran yang luar biasa, terkenal dengan bangunan-bangunan besar dan tamadun yang maju.",
+    "Kami tinggal di tanah yang dipenuhi bukit pasir dan bukit-bukit berbatu, dan kami percaya tiada siapa yang dapat mengalahkan kami.",
+    "Seorang rasul datang kepada kami dari kalangan keluarga kami sendiri, menyeru kami untuk menyembah Allah semata-mata, tetapi kami menolak dan mengejeknya.",
+    "Kami bermegah, 'Siapa yang lebih kuat daripada kami?' dan kami terus dalam kesombongan dan penyembahan berhala kami.",
+    "Allah menurunkan angin kencang yang bertiup selama tujuh malam lapan hari, memusnahkan segala-galanya.",
+    "Kami adalah kaum 'Ad, para pembangun Iram, dan nasib kami menjadi peringatan bagi semua orang yang datang kemudian."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Kaum 'Ad",
+        "Kaum Tsamud",
+        "Orang Madyan",
+        "Kaum Tubba'",
+        "Orang-orang al-Rass"
+      ],
+      "answer": "Kaum 'Ad"
+    },
+    "trial": {
+      "label": "Apakah hukuman yang telah dijatuhkan kepada mereka?",
+      "options": [
+        "Angin yang dahsyat",
+        "Hujan batu",
+        "Letupan yang kuat",
+        "Lemas akibat banjir",
+        "Ditelan bumi"
+      ],
+      "answer": "Angin yang dahsyat"
+    },
+    "location": {
+      "label": "Apakah nama bandar legenda mereka?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Apakah nasib mereka yang terakhir?",
+      "options": [
+        "Mereka telah musnah dan jenazah mereka menjadi pengajaran",
+        "Mereka bertaubat dan diselamatkan",
+        "Mereka telah berubah menjadi beruk",
+        "Mereka lemas di laut",
+        "Mereka tertimbus di bawah tanah runtuh"
+      ],
+      "answer": "Mereka telah musnah dan jenazah mereka menjadi pengajaran"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

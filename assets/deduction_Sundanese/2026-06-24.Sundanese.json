@@ -1,0 +1,61 @@
+{
+  "title": "Penjaga Seuneu Anu Teu Bisa Pareum",
+  "intro": "Hiji sosok nangtung di lawang panto tempat anu paling dipikasieun di tempat anu teu katingali, dipaparin tugas anu teu dipikahoyong ku mahluk séjén. Nalika jiwa-jiwa anu sangsara ngajerit ménta welas asih, réspon anu tegas ngageter ngaliwatan rohangan seuneu. Naha anjeun tiasa ngungkabkeun idéntitas wali anu langgeng ieu?",
+  "clues": [
+    "Kuring nangtung di lawang asup ka tempat hukuman anu pikasieuneun di tempat anu teu katingali.",
+    "Seuneu anu ngagedur jeung teu pareum-pareum mangrupakeun inti tina kawajiban kuring anu khidmat.",
+    "Jiwa-jiwa anu sangsara nyauran nami abdi, ngemis-ngemis supados dibébaskeun tina siksaan anu teu aya tungtungna.",
+    "Nalika aranjeunna ngabela, Kuring nyatakeun yén aranjeunna moal angkat, salamina.",
+    "Abdi sanés manusa, atanapi jin — abdi mah mahluk anu diciptakeun kalayan taat murni.",
+    "Abdi malaikat kapala anu diangkat janten penjaga langgeng Naraka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Malik",
+        "Jibril",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Ahli Naraka ngado'a supaya siksaan maranéhna dieureunkeun",
+        "Tarompet ditiup pikeun nandakeun poe kiamat",
+        "Al-Qur'an diturunkeun ka jero haté Nabi",
+        "Nabi dialungkeun kana seuneu anu ageung ku kaumna",
+        "Tembok anu kuat diwangun pikeun nahan bangsa anu ruksak"
+      ],
+      "answer": "Ahli Naraka ngado'a supaya siksaan maranéhna dieureunkeun"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Jahannam (Naraka)",
+        "Tangkal Lote di wates Surga",
+        "Terompet anu nyorot",
+        "Tongkat anu robah jadi oray",
+        "Tahta ilahi anu megah"
+      ],
+      "answer": "Jahannam (Naraka)"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Pangeusi Naraka dibéjaan yén maranéhna bakal langgeng",
+        "Pangeusi Naraka dihampura sareng dileupaskeun",
+        "Pangeusi Naraka dipasihan kasempetan kadua pikeun iman",
+        "Pangeusi Naraka dipindahkeun ka tempat anu tiis",
+        "Pangeusi Naraka ancur lebur ku halilintar"
+      ],
+      "answer": "Pangeusi Naraka dibéjaan yén maranéhna bakal langgeng"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

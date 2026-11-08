@@ -1,0 +1,61 @@
+{
+  "title": "Dorreen eraikitzaileak",
+  "intro": "Aspaldiko garai batean, zibilizazio ahaltsu bat sortu zen, eraikuntza-baldintza ikusgarriengatik eta indar izugarriagatik bereizten zena. Entitate kolektibo honi baliabide ugari eta gaitasun fisiko handia eman zitzaizkion, baina gidatzeko bidalitako mezu jainkotiarraren aurkako desafio-bidea aukeratu zuten. Haien istorioa historiaren analetan ikasgai sakona da, egia ukatzearen ondorioen lekuko.",
+  "clues": [
+    "Indar fisiko eta garaiera izugarria eman ziguten, gure garaiko beste edozein herrik ez bezala.",
+    "Leku garai guztietan egitura handiak eta zutabe garaiak eraikitzeagatik ginen ezagunak, betiko biziko ginela pentsatuz.",
+    "Gure artetik mezulari bat bidali zuten guri ohartarazteko, Ala bakarrik gurtzera eta gure idoloak alde batera uztera deituz.",
+    "Harrokeriaz galdetu genion gure mezulariari, ea guregana etorri ziren Ala gurtzera eta gure arbasoek gurtzen zutena alde batera uztera behartzeko bakarrik.",
+    "Gure lurra lorategiz, iturburuez eta soro emankorrez bedeinkatua zegoen, baina gure oparotasuna gure indarrari egozten genion, ez gure Sortzaileari.",
+    "Gure etengabeko sinesgaiztasun eta isekaagatik, azkenean egun eta gau askotan zehar gogor aritu zen haize izugarri eta amorratu batek suntsitu gintuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Thamudeko jendea",
+        "Fir'auneko jendea",
+        "Nuh-eko jendea",
+        "Madyango jendea.",
+        "'Ad-eko jendea"
+      ],
+      "answer": "'Ad-eko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gamelu zehatz bat sakrifikatzeko eskatua izatea",
+        "Koranaren antzeko hamar sura ekoizteko erronka izatea",
+        "Itsasoaren zatiketa erakusten ari zaie",
+        "Profeta batek uholde hurbilaren berri emanez",
+        "Gehiegizko eraikuntzaren eta idoloak gurtzearen aurka ohartarazi zuen profeta bat baztertzea"
+      ],
+      "answer": "Gehiegizko eraikuntzaren eta idoloak gurtzearen aurka ohartarazi zuen profeta bat baztertzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Sua",
+        "Sodomako hiria",
+        "Zutabe altuak eta etxebizitza sendoak"
+      ],
+      "answer": "Zutabe altuak eta etxebizitza sendoak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Uholde handi batean itota",
+        "Lurrak irentsia.",
+        "Tximino eta txerri bihurtuta",
+        "Trumoi-leherketa batek suntsitu zuen",
+        "Haize bortitz eta suntsitzaile batek suntsituta"
+      ],
+      "answer": "Haize bortitz eta suntsitzaile batek suntsituta"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

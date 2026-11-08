@@ -1,0 +1,61 @@
+{
+  "title": "Baatu dëgër",
+  "intro": "Nit ki ñu ngi koy fàttaliku ci xam-xam bu xóot bimu àndaloon ak tegtal yi mu àndaloon, di xelal yu ëpp doole yi. Seen kàddu dafay firndeel ragal Yàlla ak njariñu xam barkeb Yàlla ak fitna yu bawoo ci Yàlla. Fexeel wane liy ruuh buñu jox cër bii.",
+  "clues": [
+    "Duma woon yonent, waaye sama xam-xam dafa nekk ci Mbindu Yàlla.",
+    "Sama xelal ci sama doom mooy gërëm Yàlla ak moytu shirk.",
+    "Jàngale naa njariñu ñaan, digal lu baax ak tere lu bon.",
+    "Maa ngi leen artu ci réy-réylu ak dox ci kaw suuf ak njubadi.",
+    "Sama tur dañu ko jox benn chapitre ci Al Quran, di fësal samay njàngalem.",
+    "Sama xelal mooy muñ ci jafe-jafe, ndax loolu mooy li gëna am solo ci mbir yi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Seydina Idris",
+        "Yahya",
+        "Luqman",
+        "Imran",
+        "Boroom bi Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Jàngale bu am solo/Njàngale",
+      "options": [
+        "Tabax gaal",
+        "Jano ak larme bu am doole",
+        "Joxe xel mu ñaw ak xelal yu baax",
+        "Tekki gént",
+        "Yobbu réew ci ndam"
+      ],
+      "answer": "Joxe xel mu ñaw ak xelal yu baax"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "àll buy tàkk",
+        "Jën wu mag",
+        "Benn tundu",
+        "Xelal bu am solo ngir doom",
+        "Palais bu mag"
+      ],
+      "answer": "Xelal bu am solo ngir doom"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekk na buur",
+        "Jox nañu ko nekk yonent",
+        "xam-xamam ñu ngi ko bind ci Al Quran",
+        "Yobbu na askanam ci réew mu bees",
+        "Jox nañu ko alal bu bari"
+      ],
+      "answer": "xam-xamam ñu ngi ko bind ci Al Quran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

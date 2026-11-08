@@ -1,0 +1,61 @@
+{
+  "title": "Iompróir na Naoi gComharthaí",
+  "intro": "D’éirigh figiúr as an tús ba uirísle, le cinniúint scríofa i dtoil dhiaga. I bhfolach ina naíonán agus tógtha laistigh de bhallaí an rialóra chéanna a bhí ag iarraidh a mhuintir a scrios, glaodh ar an anam seo sa deireadh chuig misean cumhachtach. Gan aon rud acu ach creideamh agus bata aoire umhal, sheas siad os comhair an rialóra ba chumhachtaí den aois agus d’éiligh siad saoirse dóibh siúd a bhí faoi sclábhaíocht. Dhealraigh sé go raibh an domhan féin ag bogadh ar a n-ordú - scar na huiscí, labhair na flaithis, agus thit ríocht.",
+  "clues": [
+    "Bhí mo chéad laethanta tréithrithe ag eagla — rinneadh fiach ar naíonáin cosúil liomsa nuair a rugadh iad ag rialóir gan trócaire a raibh eagla air roimh an todhchaí.",
+    "Tarrtháladh mé ag uisce agus tógadh mé i bpálás an rialóra chéanna a bhí ag iarraidh mo scrios.",
+    "Theith mé ó mo thír dhúchais i ndiaidh eachtra tobann, ag éirí i mo aoire umhal i dtír i bhfad i gcéin.",
+    "D’fhill mé chun aghaidh a thabhairt ar an rialóir cumhachtach sin le slat shimplí agus teachtaireacht shoiléir, ag éileamh saoirse mo mhuintire.",
+    "Scaoil mé corp mór uisce dóibh siúd a lean mé, agus d’fhéach mé ar na huiscí sin agus iad ag slogadh mo namhaid ina iomláine.",
+    "Dhreap mé sliabh naofa chun treoir dhiaga a fháil ó Allah, agus tugadh naoi gcomhartha soiléire dom mar chruthúnas ar an bhfírinne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "an Fáidh Músa",
+        "Fáidh Nuh",
+        "Fáidh Ibrahim",
+        "Fáidh Iósaf",
+        "Fáidh Lút"
+      ],
+      "answer": "an Fáidh Músa"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag tabhairt aghaidh ar an bhFaraó ina chúirt",
+        "Ag tógáil na hÁirce chun maireachtáil ar an tuile mhór",
+        "Á chaitheamh isteach i tine lasrach ag déantóirí íol",
+        "Á ísliú i dtobar domhain ag mo dheartháireacha",
+        "Ag iarraidh mo mhuintir a stopadh ó iompar neamhmhorálta"
+      ],
+      "answer": "Ag tabhairt aghaidh ar an bhFaraó ina chúirt"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Foireann a d’iompaigh ina nathair",
+        "Áirc Nuh",
+        "Ríchathaoir Bilqis",
+        "An Fáinne a rialaigh an ghaoth agus an jinn",
+        "Eochracha chuig seoda carntha chomh trom sin"
+      ],
+      "answer": "An Foireann a d’iompaigh ina nathair"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Threoraigh mé mo mhuintir trasna uiscí scartha chun saoirse",
+        "Sábháladh ó thuile mhór taobh istigh d'Áirc é",
+        "Ar ais chuig a sláinte agus a teaghlach tar éis fulaingt mhóir",
+        "Caitheadh ​​amach as iasc mór beo é",
+        "Tógadh bunús an Tí Naofa"
+      ],
+      "answer": "Threoraigh mé mo mhuintir trasna uiscí scartha chun saoirse"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

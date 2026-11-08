@@ -1,0 +1,61 @@
+{
+  "title": "Melodija koja je pomicala planine",
+  "intro": "Na pragu ste otkrića priče o izvanrednom Allahovom slugi. U zemlji poslanika i vladara, ovaj je lik bio blagoslovljen božanskom knjigom, snažnim glasom i snagom većom od željeza. Dok čitate tragove, možete li prepoznati tko bi to mogao biti?",
+  "clues": [
+    "Bio sam Allahov rob kojem je bila darovana posebna knjiga.",
+    "Imao sam prekrasan glas, a moja je hvala bila toliko voljena da su mi se pridružila čak i brda i ptice.",
+    "Suočio sam se s moćnim protivnikom u poznatoj bitci i unatoč tome što sam bio manji, pobijedio sam.",
+    "Željezo mi je postalo savitljivo, što mi je omogućilo da vlastitim rukama izradim oklop.",
+    "Postavljen sam za vladara nad velikim narodom i moja mudrost u prosuđivanju bila je poznata.",
+    "Mom sinu, također proroku, data je kontrola nad vjetrom i džinima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Davud (David)",
+        "Poslanik Sulejman (Solomon)",
+        "Poslanik Musa (Musa)",
+        "Prorok Harun (Aron)",
+        "Poslanik Iljas (Elijas)"
+      ],
+      "answer": "Poslanik Davud (David)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Pobijeđeni Golijat (Jalut)",
+        "Razdvojilo more",
+        "Preživio je kita",
+        "Bačen je u vatru",
+        "Izgradio je Arku"
+      ],
+      "answer": "Pobijeđeni Golijat (Jalut)"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zabur (Psalmi)",
+        "Tora (Tevrat)",
+        "Evanđelje (Indžil)",
+        "Ibrahimovi svici",
+        "Kur'an"
+      ],
+      "answer": "Zabur (Psalmi)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postao je prorok i kralj Izraela",
+        "Postao je vladar Egipta",
+        "Bio je uzdignut do neba",
+        "Uništila ga je oluja",
+        "Postao je pratilac pećine"
+      ],
+      "answer": "Postao je prorok i kralj Izraela"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

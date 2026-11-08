@@ -1,0 +1,60 @@
+{
+  "title": "Suđenje ispod valova",
+  "intro": "Prorok, opterećen svojom misijom, donio je odluku koja ga je odvela daleko od njegova naroda i u neočekivano iskušenje. Njegovo putovanje dobilo je dramatičan obrat, testirajući njegovu vjeru i strpljenje na najdublji način. Možete li zaključiti detalje ovog izvanrednog događaja iz navedenih tragova?",
+  "clues": [
+    "Prorok je bio poslan jednom narodu, ali je otišao u žurbi, osjećajući frustraciju zbog njihovog odbacivanja.",
+    "Njegovo putovanje ga je dovelo do mora, gdje se ukrcao na teško natovareni brod tražeći prijevoz.",
+    "Podigla se velika oluja koja je prijetila brodu, te je donesena odluka da se jedna osoba baci u more kako bi se olakšao teret, što je određeno ždrijebom.",
+    "Progutalo ga je stvorenje iz dubina, čudesan događaj određen Božjom voljom.",
+    "Unutar utrobe stvorenja, on je zazivao svog Gospodara, kajući se i slaveći Allaha u tami.",
+    "Nakon razdoblja intenzivnog moljenja, bačen je na neplodnu obalu, slab, ali živ, a kasnije se vratio i otkrio da je njegov narod konačno povjerovao."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prorok/Osoba",
+      "options": [
+        "Poslanik Nuh",
+        "Poslanik Lut",
+        "Poslanik Musa",
+        "Poslanik Junus",
+        "Poslanik Jusuf"
+      ],
+      "answer": "Poslanik Junus"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Nuhov potop",
+        "Uništenje Sodome",
+        "Putovanje u utrobi velike ribe",
+        "Cijepanje mora",
+        "Otkrivenje gorućeg grma"
+      ],
+      "answer": "Putovanje u utrobi velike ribe"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Planina Sinaj",
+        "Musin štap",
+        "Velika riba",
+        "Jusufov bunar"
+      ],
+      "answer": "Velika riba"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Novi savez s čovječanstvom",
+        "Čudesno rođenje za njegov narod",
+        "Kraljevstvo uspostavljeno za njegovu lozu",
+        "Povratak svom narodu koji je tada vjerovao",
+        "Pobjeda nad tiranskim vladarom"
+      ],
+      "answer": "Povratak svom narodu koji je tada vjerovao"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

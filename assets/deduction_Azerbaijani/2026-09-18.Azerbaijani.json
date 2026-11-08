@@ -1,0 +1,61 @@
+{
+  "title": "Müqəddəs Vadidən Çağırış",
+  "intro": "Tarixin səhifələrindən kənarda güclü bir hökmdarla bütün kölə xalqı arasında dayanan bir ruhun hekayəsi var. Bu şəxs, bütün təbii qanunlara zidd gedən möcüzələr göstərərək bir milləti zülmdən xilas etmək üçün çağırılmışdı. Müqəddəs bir dağdan sular üzərindəki möcüzəyə qədər Allahın bu xidmətçisi əsrlər boyu əks-səda verəcək əlamətlərə şahid oldu. Bugünkü vəzifəniz, irsi bəşər tarixinin gedişatını formalaşdıran bu əlamətdar şəxsiyyəti müəyyən etməkdir.",
+  "clues": [
+    "Mən xalqımın ölümcül bir fərmanla üzləşdiyi və ailəmin məni həyatımı xilas etmək üçün sulara atdığı bir dövrdə anadan olmuşam.",
+    "Mən öz nəslimdəkilərin ölümünə əmr verən hökmdarın evində tapılıb böyümüşəm.",
+    "Mən müqəddəs bir dağa qaçdım və orada yanmamış bir ağacın üzərində od gördüm və oradan bir səs mənə danışdı.",
+    "Mən möcüzələrlə həmin hökmdarın yanına geri göndərildim və kölə xalqımın azadlığını tələb etdim.",
+    "Əsamla dənizə vurdum və o, quru cığırlara ayrıldı və xalqımın ardınca gələnləri uddu.",
+    "Mən qırx gecə bir təpə üzərində Rəbbimlə ünsiyyətdə oldum və mənə ilahi rəhbərlik lövhələri verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Musa peyğəmbər",
+        "Harun peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Yusif peyğəmbər",
+        "Davud peyğəmbər"
+      ],
+      "answer": "Musa peyğəmbər"
+    },
+    "trial": {
+      "label": "Mənim Müəyyənedici Sınaqım",
+      "options": [
+        "Dənizin Ayrılması",
+        "Böyük Gəminin Tikintisi",
+        "Alovlu Atəşin Sınağı",
+        "Balinanın Qarnında Həbs",
+        "Misirli bir məmur tərəfindən həbs"
+      ],
+      "answer": "Dənizin Ayrılması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Çoban çubuğu",
+        "Böyük Taxta Sandıq",
+        "Zamanın Yatdığı Mağara",
+        "İki bulaqlı bir bağ",
+        "Qızılla bəzədilmiş taxt"
+      ],
+      "answer": "Çoban çubuğu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Xalqım dənizi keçərək təhlükəsiz yerə çatdı",
+        "Böyük bir sel kafirləri məhv etdi",
+        "Bir Zalımın Atəşi Sərin və Dinc Oldu",
+        "Dəniz Əsirini Sahilə Atdı",
+        "Əsir Misirin xəzinədarı oldu"
+      ],
+      "answer": "Xalqım dənizi keçərək təhlükəsiz yerə çatdı"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

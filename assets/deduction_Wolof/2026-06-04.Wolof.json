@@ -1,0 +1,61 @@
+{
+  "title": "Màndarga gi nekk ci biir xeer yi",
+  "intro": "Ci réew mu ñu defar ay tundu ngir nekk ay kër, ab ndaw ñëw di indi kéemtaan bu jóge ci Yàlla. Nit ñi daal di laaj firnde, ñu daal di leen jox mbindéef buñ defaree xeer wu dëgër. Waaye seen réy-réy moo leen yóbbe ñu baña déggal àrtu bi, daal di màndargaal seen ëlëg.",
+  "clues": [
+    "Ñu yónnee ma ci askan wu dëkk ci dëkkuwaay yuñ yatt ci tundu.",
+    "Ñu daal di may wax ma indi benn firnde, ma génne gaam ci xeer.",
+    "Ma digal leen ñu bàyyi gaam gi mu naan lu bari te baña gaañ ko.",
+    "Ñu déggalul, daal di dagg tànk yi, nangu wuñu ma àrtu.",
+    "Ma wax ni dina am mbugal ginaaw ñetti fan.",
+    "Ci suba si, mu am mbëkk bu am doole yàq leen, waaye man ak ñi ma topp nu mucc."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Boroom bi Salih",
+        "Boroom bi Hud",
+        "Luut Yàlla",
+        "Boroom bi Shu'ayb",
+        "Yonent-Yàlla Ibraahim"
+      ],
+      "answer": "Boroom bi Salih"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Laaj gaam bu jigéen ci xeer",
+        "Laajte ab naat bu wurus",
+        "Laaj taabal bu tasaaroo ci asamaan si",
+        "Laaj mbënd",
+        "Laaj benn yat mu nekk jaan"
+      ],
+      "answer": "Laaj gaam bu jigéen ci xeer"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Gaaléem bu jigéen bi ak doomam",
+        "Gaalu Nowe",
+        "Batu Musaa",
+        "Naat bu wurus bi",
+        "Safarau Ibraayma"
+      ],
+      "answer": "Gaaléem bu jigéen bi ak doomam"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Yaxx nañu ko ci ab mbëkk bu am doole",
+        "Dafa féey ci mbënd mi",
+        "Suuf si wann ko",
+        "Soppiku nekk maymu",
+        "Ngelaw lu metti yàq ko"
+      ],
+      "answer": "Yaxx nañu ko ci ab mbëkk bu am doole"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

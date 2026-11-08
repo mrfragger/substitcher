@@ -1,0 +1,61 @@
+{
+  "title": "Mlinzi wa Ishara ya Kimungu",
+  "intro": "Ndani kabisa ya patakatifu patakatifu, roho iliyobarikiwa ililelewa chini ya uangalizi wa kimungu. Mtu huyu alikusudiwa kuchukua jukumu muhimu katika tukio la muujiza, na kuwa ushuhuda wa nguvu na hekima ya Mwenyezi Mungu isiyo na kikomo. Safari yao ilifunua ukweli wa kina, ikitoa changamoto kwa mitazamo na kuanzisha ishara ya kipekee kwa wanadamu wote.",
+  "clues": [
+    "Nilichaguliwa na kutakaswa na Mwenyezi Mungu kuliko wanawake wote wa wakati wangu.",
+    "Niliwekwa chini ya ulinzi wa nabii mwadilifu, ambaye alipata riziki kimiujiza katika chumba changu cha maombi.",
+    "Nilijitenga na familia yangu na kwenda mahali pa faragha ili kumwabudu Mwenyezi Mungu.",
+    "Malaika alinitokea katika umbo la mtu mkamilifu, akileta habari za mwana msafi, ingawa sikuwa nimemjua mwanamume yeyote.",
+    "Baada ya uchungu wa kujifungua, niliagizwa kutikisa shina la mtende ili kupata riziki mpya.",
+    "Niliporudi kwa watu wangu wakiwa wamebeba mtoto wangu mchanga, waliniuliza maswali, lakini mtoto wangu mchanga alizungumza kimiujiza kutoka utotoni kwangu ili kunitetea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Sara (mke wa Nabii Ibrahim)",
+        "Hajar (mama yake Mtume Ismail)",
+        "Bilqis (Malkia wa Sheba)",
+        "Asia (mke wa Farao)",
+        "Maryam (Mariamu)"
+      ],
+      "answer": "Maryam (Mariamu)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mafuriko makubwa yaliyoangamiza taifa lisiloamini",
+        "Kutupwa kwenye moto unaowaka kwa kukataa sanamu",
+        "Kuzaliwa kwa muujiza kwa mtoto bila baba",
+        "Kumezwa na nyangumi kwa kuacha misheni",
+        "Uharibifu wa mji kwa sababu ya mazoea yasiyo ya maadili"
+      ],
+      "answer": "Kuzaliwa kwa muujiza kwa mtoto bila baba"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa dhahabu",
+        "Sanduku la Agano",
+        "Chumba kitakatifu cha maombi (Mihrab)",
+        "Ndege anayezungumza (Hudhud)",
+        "Fimbo iliyogeuka kuwa nyoka"
+      ],
+      "answer": "Chumba kitakatifu cha maombi (Mihrab)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Ujenzi wa hekalu zuri sana",
+        "Kugawanyika kwa bahari ili watu wavuke",
+        "Mtoto aliyezungumza tangu utotoni akimtetea mzazi wake",
+        "Ufunuo wa kitabu cha Mungu cha kuwaongoza wanadamu",
+        "Ufalme uliobarikiwa na upepo na majini"
+      ],
+      "answer": "Mtoto aliyezungumza tangu utotoni akimtetea mzazi wake"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo o te Whakapono Huna",
+  "intro": "I waenganui o te kooti nanakia, i te wā i noho ai te kore whakapono hei ture o te whenua, i haere tētahi wairua mokemoke i runga i te taura o te whakapono me te wehi. I whakarongo tēnei tangata, e tata ana ki te pokapū o te mana, i te wā i tūtaki ai te karere a te poropiti ki te whakahawea me ngā whakawehi. I tae mai tētahi wā o te pono, ā, i akiaki i tēnei tangata ki te whiriwhiri i waenga i te haumaru puku me te kōrero i tētahi pono morearea. Ka taea e koe te hura i te tuakiri o tēnei kaitautoko toa?",
+  "clues": [
+    "I noho ahau i roto i te whare o tētahi rangatira nanakia, e kite kanohi ana i te whakapehapeha i whakakahore i ngā tohu atua.",
+    "I huna e ahau tōku whakapono, he taonga huna i roto i te whare karakia whakapakoko.",
+    "I rongo ahau i te rangatira i mahi ahau ki te whakatakoto mahere ki te patu i tētahi karere a Allah, he tangata ko Mohi tōna ingoa.",
+    "I pātai ahau i ō rātou whakaaro, me te whakamahara i a rātou ki te mutunga o te iwi o Noa, o Āta, me te Thamud.",
+    "I pātai atu ahau i tētahi pātai whakahē ki tōku iwi: 'Ki te mea he tangata teka ia, ka tau tana teka ki a ia; engari ki te mea he pono ia, ka pā mai ētahi o ana kupu whakaari ki a koe.'",
+    "Hei tauira o te whakapono te kōrero mō taku pūrākau i roto i te sura e kīia nei ko 'Te Kaiwhakaora,' i reira ahau i whakatūpato ai i tōku iwi kia kaua e mahi tinihanga a te hunga whai mana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Kaiwhakapono o te Whānau o Fir'awn",
+        "Hāmana",
+        "Ngā Tohunga Makutu o Fir'awn",
+        "Karauna",
+        "Te Hāmiri"
+      ],
+      "answer": "Te Kaiwhakapono o te Whānau o Fir'awn"
+    },
+    "trial": {
+      "label": "He aha taku whakamātautau?",
+      "options": [
+        "Te tiaki i a Poropiti a Mohi i te kooti o te kaitukino",
+        "Te hanga i tētahi pourewa tiketike hei eke ki te rangi",
+        "Te maka ki roto i te ahi mura",
+        "Te horomia e te ika nui",
+        "Te ngaronga o ngā taonga me te hauora katoa"
+      ],
+      "answer": "Te tiaki i a Poropiti a Mohi i te kooti o te kaitukino"
+    },
+    "location": {
+      "label": "He aha te kaupapa o taku tautohe?",
+      "options": [
+        "Te hua o te whakahē i te karere a te poropiti",
+        "Te tono mō tētahi tohu mai i tētahi rākau tapu",
+        "Te hanganga o te kuao kau mai i ngā whakapaipai whakarewa",
+        "Te merekara o te kamera i te toka",
+        "Te whakamaoritanga o ngā moemoeā a te rangatira"
+      ],
+      "answer": "Te hua o te whakahē i te karere a te poropiti"
+    },
+    "outcome": {
+      "label": "He aha te hua?",
+      "options": [
+        "I whakaorangia tēnei tangata e te Atua i tā rātou mahi kino",
+        "I whakaae tonu te kooti katoa ki te Ihirama",
+        "I ripeneta te kaitukino i te wā i toremi ai ia",
+        "I horomia te kaitukino e te whenua",
+        "I peia te tangata ki tētahi whenua tawhiti"
+      ],
+      "answer": "I whakaorangia tēnei tangata e te Atua i tā rātou mahi kino"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

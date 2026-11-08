@@ -1,0 +1,61 @@
+{
+  "title": "Den oniwwertraffene Verbündeten an engem Prozess ëm Gold",
+  "intro": "Am Schiet vun engem grousse Prophet gouf eng Séil vun Eloquenz a Glawen erausgesicht, fir bei enger monumentaler Missioun ze hëllefen. Dës Figur stoung fest, wéi d'Massen gezéckt hunn, a priedegt géint eng offensichtlech Iwwertriedung, déi de Kär vum Monotheismus menacéiert huet. Wéi de Prophet zréckkoum, fir de Réckgang vum Vollek ze gesinn, war d'Verteidegung vun dëser Figur net eng vu Schold, mä vu Pflicht an Angscht virun der Trennung. Wien ass dësen treie Knecht vun Allah?",
+  "clues": [
+    "Ech gouf vun Allah fir eng helleg Pflicht niewent engem aneren ausgewielt, a meng Roll war eng vun der Ënnerstëtzung a Verkënnegung.",
+    "Mir gouf Kloerheet vun der Ried ginn, an ech hunn e Messenger begleet fir engem mächtegen Ënnerdrécker ze konfrontéieren.",
+    "Wärend enger kritescher Rees ass de Messenger eleng op e Bierg eropgaangen a mech iwwer d'Leit bewaache gelooss.",
+    "An hirer Absenz hunn d'Leit e gëllent Bild gebastelt, an ech hunn si gebiet, trei ze bleiwen, awer si hunn mäi Rot refuséiert.",
+    "Wéi de Messenger zréckkoum, voller Roserei a Trauer, gouf ech gegraff, mee ech hunn erkläert, datt ech iwwerwältegt gi war a gefaart hunn, Onrou tëscht hinnen ze verursaachen.",
+    "Ech sinn de Prophet, deen nieft dem Musa, mengem Brudder, stoung, seng Laascht gedeelt huet a géint den Gëtzendéngscht standhaft bliwwen ass."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Harun",
+        "Prophet Musa",
+        "Prophet Isa",
+        "Prophet Dawud",
+        "Prophet Zakariyya"
+      ],
+      "answer": "Prophet Harun"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Leit hunn trotz Warnungen e gëllene Kalb ugebiet",
+        "D'Leit hunn mech an e brennend Feier gehäit",
+        "Ech gouf vun engem grousse Fësch verschléckt",
+        "Ech gouf wéinst falschen Ukloen agespaart",
+        "Ech gouf aus menger Stad verbannt, well ech gepriedegt hunn"
+      ],
+      "answer": "D'Leit hunn trotz Warnungen e gëllene Kalb ugebiet"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Dat gëllent Kalb",
+        "De brennende Busch",
+        "De Staff, deen sech an eng Schlaang verwandelt huet",
+        "D'Tafele vum Bund",
+        "D'Ark vum Bund"
+      ],
+      "answer": "Dat gëllent Kalb"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ech gouf entlaascht a konnt meng prophetesch Missioun weiderféieren",
+        "Ech gouf fir d'Sënn vum Vollek bestrooft",
+        "Ech krut eng nei Natioun fir ze féieren",
+        "Ech gouf lieweg an den Himmel opgeholl",
+        "Ech gouf zum Herrscher iwwer e Kinnekräich ernannt"
+      ],
+      "answer": "Ech gouf entlaascht a konnt meng prophetesch Missioun weiderféieren"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Barjeru celtnieks",
+  "intro": "Plašās zemēs ietekmīga persona devās virknē ekspedīciju, iegūstot milzīgu varu un līdzekļus. Šī dvēsele saskārās ar dažādām kopienām un unikāliem izaicinājumiem, atstājot paliekošas pēdas vēsturē un ticībā ar savu rīcību un gudrību, vienlaikus atzīstot sava spēka patieso avotu.",
+  "clues": [
+    "Man tika piešķirta vara un līdzekļi pār visu, un es sekoju noteiktam ceļam.",
+    "Mans ceļojums mani aizveda uz saules rietuma vietu, kur es satiku cilvēkus.",
+    "Es sastapu kopienu, kas tik tikko spēja saprast runu, dzīvojot starp diviem kalniem.",
+    "Man lūdza uzcelt barjeru nevis personīga labuma gūšanai, bet gan lai pasargātu no destruktīva spēka.",
+    "Es paziņoju, ka spēks uzcelt šo milzīgo sienu nāk no Allāha, un tā stāvēs līdz apsolītajam laikam.",
+    "Mans vārds, ko bieži tulko kā “Divragainais”, apzīmē manu tvērumu pāri zemei ​​vai varbūt diviem atšķirīgiem laikmetiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Musa",
+        "Pravietis Suleimans",
+        "Dhul-Qarnayn",
+        "Faraons",
+        "Lukmans"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Atklāsmes saņemšana",
+        "Saskaroties ar tirānu",
+        "Liela kuģa būvēšana",
+        "Varenas barjeras būvniecība",
+        "Zivs norīšana"
+      ],
+      "answer": "Varenas barjeras būvniecība"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Dzelzs barjera",
+        "Nīlas upe",
+        "Tronis"
+      ],
+      "answer": "Dzelzs barjera"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Glābšana no plūdiem",
+        "Kļūstot par lielu valstību",
+        "Aizsardzība tautai",
+        "Apspiedēja iznīcināšana",
+        "Izturīga gudrība"
+      ],
+      "answer": "Aizsardzība tautai"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

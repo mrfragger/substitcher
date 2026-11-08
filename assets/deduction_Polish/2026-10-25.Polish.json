@@ -1,0 +1,61 @@
+{
+  "title": "Skarga słyszana ponad hałasem",
+  "intro": "Słyszysz głos wznoszący się ze społeczeństwa, w którym ucisk stał się rutyną. Żaden przejaw siły nie odpowiada na skargę; zamiast tego, bezpośredni apel dociera do Allaha, a odpowiedź uderza w samo sedno kultu. Kto wniósł tę skargę, jakie pytanie po niej nastąpiło i jaka prawda została potwierdzona?",
+  "clues": [
+    "Zaczęło mnie niepokoić uciskanie ludzi wokół mnie.",
+    "Wyraziłem tę skargę bezpośrednio przed Allahem, w osobistej skardze.",
+    "Allah usłyszał skargę i odpowiedział wyzwaniem dotyczącym mojej wiary.",
+    "Odpowiedź brzmiała: jak mogłem nie wierzyć w Allaha, który jest Jedyny i Najwyższy.",
+    "Zapytałem więc, dlaczego Allah miałby faworyzować ludzi, którzy nie wierzą.",
+    "Jestem Uzair, wymieniony w Surze Az-Zukhruf jako ten, którego skargę usłyszał Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Uzair",
+        "Towarzysz, który płynął podczas wielkiej powodzi",
+        "Sługa, który chodził po wodzie",
+        "Śpiący chroniony w jaskini",
+        "Sługa, który przyniósł kamienie do rzeki"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Skarżenie się Allahowi na ucisk ludzi",
+        "Chodzenie po wodzie podczas burzy",
+        "Noszenie kamieni do rzeki, w której brakowało wody",
+        "Żeglowanie przez wielką powódź na pokładzie Arki",
+        "Otrzymanie klucza do ogromnego skarbu"
+      ],
+      "answer": "Skarżenie się Allahowi na ucisk ludzi"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Bezpośrednia skarga skierowana do Allaha",
+        "Laska, która stała się wężem",
+        "Piec stał się chłodny i spokojny",
+        "Arka unosząca się nad wodami powodziowymi",
+        "Ryba połykająca sługę"
+      ],
+      "answer": "Bezpośrednia skarga skierowana do Allaha"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Bóg usłyszał skargę i potwierdził Boską Jedność i Najwyższe Panowanie",
+        "Bezpieczne chodzenie po wodzie podczas burzy",
+        "Bezpieczne przejście przez wielką powódź na pokładzie Arki",
+        "Odzyskiwanie wzroku w pałacu arogancji",
+        "Otrzymanie panowania rozciągającego się od Wschodu do Zachodu"
+      ],
+      "answer": "Bóg usłyszał skargę i potwierdził Boską Jedność i Najwyższe Panowanie"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

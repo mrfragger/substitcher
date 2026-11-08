@@ -1,0 +1,61 @@
+{
+  "title": "Divarlı Şəhərin Qəribə Qonaqları",
+  "intro": "Bir qrup insan həqiqəti heç vaxt bilmədiyi bir şəhərin qapılarına gəldi. Onlar bir xəbər gətirdilər, amma sakinlər düşmənçilik edərək zorakılıqla hədələyirdilər. Lakin gözlənilməz bir yerdən tək bir səs qəribləri müdafiə etmək üçün ayağa qalxdı və hadisələrin dramatik bir dönüşünə səbəb oldu.",
+  "clues": [
+    "Biz əhalisi kafirliyə qərq olmuş bir şəhərə daxil olduq.",
+    "Onlar bizə şübhə ilə baxıb dedilər: “Siz də bizim kimi adi varlıqlarsınız”.",
+    "Biz onları xəbərdar etdik, amma onlar bizə daş qaldırdılar.",
+    "Şəhərin ən ucqar yerindən bir kişi həqiqətimizi təsdiqləmək üçün qaçdı.",
+    "O, öz qövmünə dedi: “Niyə məni yaradana ibadət etməməliyəm?”",
+    "Şəhərin inkarı tək bir partlayışla başa çatdı və bir vaxtlar istehza etdikləri yerdə sükut hökm sürdü."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Ya-Sinin elçiləri",
+        "İsanın şagirdləri",
+        "Xəndək Əhli",
+        "Fironun sehrbazları",
+        "Ya-Sinə Mömin"
+      ],
+      "answer": "Ya-Sinin elçiləri"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Rədd və daşqalaq təhdidi",
+        "Şiddətli bir atəşə atılmaq",
+        "İtirilmiş uşaqla səbr sınağı",
+        "Məhv olmuş bir bağ",
+        "Dənizdən keçən səyahət"
+      ],
+      "answer": "Rədd və daşqalaq təhdidi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Şəhərin ən ucqar ucu",
+        "Qırmızı dəniz",
+        "Atəş xəndəyi",
+        "Sığınacaq mağarası",
+        "Misir həbsxanası"
+      ],
+      "answer": "Şəhərin ən ucqar ucu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Şəhər tək bir qışqırıqla yerlə-yeksan oldu",
+        "Dəniz yarıldı və ordunu boğdu",
+        "Atəş sərin və təhlükəsiz oldu",
+        "Bağ səmavi bir atəş tərəfindən yandırıldı",
+        "Balina insanı sahilə qaytardı"
+      ],
+      "answer": "Şəhər tək bir qışqırıqla yerlə-yeksan oldu"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

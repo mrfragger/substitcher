@@ -1,0 +1,61 @@
+{
+  "title": "L-Ewwel li Fittex il-Maħfra",
+  "intro": "Agħti pass lura għal żmien qabel l-ewwel tlugħ ix-xemx, qabel ma xi mortali mexa fuq id-dinja. Figura ġiet iffurmata mill-aktar materjal umli, ingħatat post 'il fuq mill-anġli, u mqiegħda f'ġnien sagru b'twissija ċara. Madankollu f'mument wieħed, saret għażla — waħda li kellha tidwi fl-istorja kollha tal-bniedem. Min hi din il-figura?",
+  "clues": [
+    "Jiena ġejt maħluq b'mod li ma bħalu ħadd ieħor — maħluq mit-trab tal-art u mogħti ruħ ħajja minn id il-Ħallieq.",
+    "Ġejt mogħti għarfien tant profond li anke l-anġli ta’ fuq stagħġbu bih.",
+    "Is-sema kollu ġie ordnat biex jinżel quddiemi, u lkoll issottomettew ruħhom — ħlief wieħed, li rrifjuta minħabba l-kburija.",
+    "Tqegħidt f'ġnien sagru, post ta' faraġ u provvediment etern — iżda b'projbizzjoni waħda stretta.",
+    "Insejt, żlaqt, u ma obdejtx — u ħassejt profondament il-piż tal-iżball tiegħi.",
+    "Dort lejn il-Mulej tiegħi bi kliem mill-qalb, u Hu aċċetta l-indiema tiegħi, għax Hu l-Aktar Maħfer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Adam",
+        "Il-Profeta Dawud",
+        "il-Profeta Muhammad",
+        "Iblis",
+        "Profeta Yaqub"
+      ],
+      "answer": "Il-Profeta Adam"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-anġli ġew ordnati biex jinxteħtu fl-art",
+        "Id-Dilluvju l-Kbir intbagħat",
+        "Nar kbir sar frisk u sigur",
+        "Ħakkiem arroganti għereq fil-baħar",
+        "Armata ta’ iljunfanti ġiet meqruda"
+      ],
+      "answer": "L-anġli ġew ordnati biex jinxteħtu fl-art"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-Ġnien tal-Hena",
+        "il-Muntanja Sinaj",
+        "Il-Moskea Sagra",
+        "Ix-Xmara Nil",
+        "L-Għar"
+      ],
+      "answer": "Il-Ġnien tal-Hena"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "L-indiema ġiet aċċettata minn Alla",
+        "Għerqet fil-baħar",
+        "Mibela’ minn ħuta kbira",
+        "Il-nazzjon intlaqat minn splużjoni qawwija",
+        "Maħruq minn riħ qawwi"
+      ],
+      "answer": "L-indiema ġiet aċċettata minn Alla"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

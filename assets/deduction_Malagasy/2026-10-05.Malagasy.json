@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fitokisana Nankinina tamin'ny Renirano",
+  "intro": "Nisy fanahy iray niatrika didy tsy azo tanterahina, izay niandohan'ny ain'ny zaza vao teraka. Notarihin'ny tsindrimandrin'Andriamanitra, dia nankatoavina ny didy iray mafy, ary nisy tsiambaratelo sarobidy nariana teny amoron-drano, saingy naverina tamin'ny fomba tsy nampoizina.",
+  "clues": [
+    "Niaina teo ambany aloky ny mpitondra jadona iray izay nandidy ny famonoana ireo zazalahy vao teraka aho.",
+    "Nisy aingam-panahy avy amin'Andriamanitra tonga tamiko, nanome toromarika ahy hanao zavatra amim-pahakiviana sy mampalahelo.",
+    "Napetrako tao anaty vata ny zanako kely sarobidy ary napetrako teo amoron'ny renirano mikoriana.",
+    "Nanjary foana ny foko, ary saika namboraka ny tsiambaratelo aho, saingy nohamafisin'i Allah ny fahavononako.",
+    "Naniraka olona aho hanaraka ny dian'ilay zaza midina ny rano, raha nentin'ny riaka niala ilay vata.",
+    "Hitan'ny ankohonan'ilay mpitondra jadona ilay zaza, ary tamin'ny farany, dia tafaray indray tamin'ny zanako aho ary lasa mpitaiza ahy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Renin'ny Mpaminany Musa",
+        "Asiya (Vadin'i Farao)",
+        "Maryam (Renin'ny Mpaminany Isa)",
+        "Ny vadin'ny Mpaminany Lota",
+        "Ny renin'ny Mpaminany Yahya (vadin'i Zakariya)"
+      ],
+      "answer": "Renin'ny Mpaminany Musa"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Napetrany tao anaty vata ny zanany ary napetrany teo amoron'ny renirano",
+        "Nafeniny tao anaty lava-bato ny zanany",
+        "Nandao ny zanany tany an-tany efitra izy",
+        "Natsipiny tao anaty afo ny zanany",
+        "Navelany teo am-baravaran'ny moske ny zanany"
+      ],
+      "answer": "Napetrany tao anaty vata ny zanany ary napetrany teo amoron'ny renirano"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Vata napetraka mitsinkafona eo amoron'ny renirano",
+        "Kirihitra mirehitra",
+        "Tehina niova ho menarana",
+        "Latabatra feno sakafo avy any an-danitra",
+        "Ramevavavy nirahina ho famantarana"
+      ],
+      "answer": "Vata napetraka mitsinkafona eo amoron'ny renirano"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nihaona indray tamin'ny zanany izy ary nampinono azy",
+        "Tsy nahita ny zanany intsony izy",
+        "Novonoin'ilay mpitondra jadona izy",
+        "Lasa mpanjakavavy tany Ejipta izy",
+        "Nifindra tany an-tany hafa izy ary niaina tany an-tsesitany"
+      ],
+      "answer": "Nihaona indray tamin'ny zanany izy ary nampinono azy"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

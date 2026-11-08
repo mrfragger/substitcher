@@ -1,0 +1,61 @@
+{
+  "title": "Müqəddəs Yoxluq",
+  "intro": "Zamanın təpələrindən kənarda, sarsılmaz sədaqət və onu daşıyan ruhun qıra biləcəyi qədər ağır bir əmanət hekayəsi var. Xalqın axmaqlığa və qızıla üz tutduğu bir anda, bir şəxs möhkəm dayandı - onları geri çağırdı, səbr dilədi və müqəddəs bir vədin ağırlığını daşıdı. Bu, müqəddəs bir yoxluq dövründə köməkçi, vəzir və iman keşikçisi seçilən birinin hekayəsidir. Bu sarsılmaz ruhun kimliyini aça bilərsinizmi?",
+  "clues": [
+    "Mən müqəddəs bir dağda Allahla birbaşa danışmaq üçün seçilmiş böyük bir peyğəmbərin qanını paylaşıram.",
+    "Qardaşım bir dəfə böyük bir zalımla açıq danışmaq üçün Allaha yalvardı.",
+    "Allah məni qardaşımın yanında köməkçi və vəzir kimi durmaq üçün seçdi.",
+    "Birlikdə biz ən ali tanrı adlandırılmağı tələb edən zalım bir hökmdarla qarşılaşdıq.",
+    "Qardaşım dağda Allahla ünsiyyətdə olarkən, xalqımız onların qızılından özlərinə bir büt düzəltdi.",
+    "Mən Allah tərəfindən vəzir təyin edilmiş və Quranda adı çəkilən Musanın qardaşıyam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Harun Peyğəmbər (Harun)",
+        "Musa peyğəmbər",
+        "Davud peyğəmbər",
+        "Yaqub peyğəmbər",
+        "İshaq peyğəmbər"
+      ],
+      "answer": "Harun Peyğəmbər (Harun)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Buzov İbadəti Böhranı",
+        "Nuhun Böyük Tufanı",
+        "Bədr döyüşü",
+        "Səmud xalqının məhvi",
+        "Sodomun məhv edilməsi"
+      ],
+      "answer": "Buzov İbadəti Böhranı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qızıl buzov",
+        "Nuhun gəmisi",
+        "Yanan Kol",
+        "Hira Mağarası",
+        "Səba taxtı"
+      ],
+      "answer": "Qızıl buzov"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Allah tərəfindən təsdiqlənmiş məsumluq",
+        "Fironun boğulması",
+        "Kəbənin binası",
+        "Dənizdən Təhlükəsiz Keçid",
+        "Göylərə Yüksəliş"
+      ],
+      "answer": "Allah tərəfindən təsdiqlənmiş məsumluq"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Opsada pod iznenadnim nebom",
+  "intro": "Stojite pred strašnom vojskom koja se približava poštovanom svetištu, sa spremnim oružjem i naizgled sigurnom pobjedom. Prije nego što napad može početi, neočekivana sila se pojavljuje iznad glave, a borba uzima preokret koji niko nije predvidio.",
+  "clues": [
+    "Marširali smo sa samopouzdanjem koje nijedna zemaljska sila nije mogla poljuljati.",
+    "Doveli smo moćne slonove, i činilo se da je naša snaga izgrađena oko njih.",
+    "Došli smo srušiti poštovano svetište, vjerujući da je naša pobjeda već osigurana.",
+    "Kad smo stigli tamo, jato je preletjelo nebom iznad nas.",
+    "Ptice su bacale kamenje od otvrdnule gline na naše ratnike.",
+    "Bili smo tako potpuno poraženi da se naša moćna snaga raspala i raspršila poput pepela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Narod slona",
+        "Dva princa",
+        "Josipova braća",
+        "Allahov rob u Zul-Kiflu",
+        "Drugovi pravednika"
+      ],
+      "answer": "Narod slona"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Napad na Kabu predvođen slonovima",
+        "More se razdvaja pred izbavljenom grupom",
+        "Otimanje Kovčega od strane tiranskog naroda",
+        "Noćno putovanje između dvije džamije",
+        "Iscjeljenje gubavca božanskom silom"
+      ],
+      "answer": "Napad na Kabu predvođen slonovima"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ptice koje nose kuglice gline",
+        "Kovčeg od goferovog drveta",
+        "Štap se pretvorio u zmiju",
+        "Kamen zapečaćen znakom",
+        "Gorući grm"
+      ],
+      "answer": "Ptice koje nose kuglice gline"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Njihova moćna sila raspala se poput pepela",
+        "Bezbjedno su prešli more",
+        "Prošli su neozlijeđeni kroz užarenu peć",
+        "Ušli su u raj u parovima",
+        "Spavali su u pećini 309 godina"
+      ],
+      "answer": "Njihova moćna sila raspala se poput pepela"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

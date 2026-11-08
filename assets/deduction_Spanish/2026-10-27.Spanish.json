@@ -1,0 +1,61 @@
+{
+  "title": "Un asedio bajo un cielo repentino",
+  "intro": "Te encuentras frente a un formidable ejército que se aproxima a un santuario venerado, con todas las armas listas y la victoria aparentemente asegurada. Antes de que comience el asalto, un poder inesperado aparece sobre ti, y la contienda toma un giro que nadie previó.",
+  "clues": [
+    "Marchamos con una confianza que ningún poder terrenal podía quebrantar.",
+    "Trajemos elefantes imponentes, y nuestra fuerza parecía estar construida en torno a ellos.",
+    "Habíamos venido a derribar un santuario venerado, creyendo que nuestra victoria ya estaba asegurada.",
+    "Cuando llegamos, una bandada de pájaros surcó el cielo sobre nosotros.",
+    "Los pájaros arrojaron piedras de arcilla endurecida contra nuestros guerreros.",
+    "Fuimos derrotados tan completamente que nuestra poderosa fuerza se desmoronó y se dispersó como cenizas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El pueblo del elefante",
+        "Los dos príncipes",
+        "Los hermanos de José",
+        "El siervo de Alá en Dhul-Kifl",
+        "Los Compañeros del Hombre Justo"
+      ],
+      "answer": "El pueblo del elefante"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El asalto a la Kaaba liderado por elefantes",
+        "El mar se abre ante un grupo liberado.",
+        "La toma del Arca por un pueblo tiránico",
+        "El viaje nocturno entre dos mezquitas",
+        "La curación de un leproso por poder divino"
+      ],
+      "answer": "El asalto a la Kaaba liderado por elefantes"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Aves que transportan bolitas de arcilla",
+        "Un arca de madera de gopher",
+        "Un bastón se convirtió en serpiente.",
+        "Una piedra sellada con un letrero",
+        "Una zarza ardiente"
+      ],
+      "answer": "Aves que transportan bolitas de arcilla"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Su poderosa fuerza se desmoronó como cenizas.",
+        "Cruzaron el mar sanos y salvos",
+        "Atravesaron ilesos un horno en llamas.",
+        "Entraron al Paraíso de dos en dos.",
+        "Durmieron en una cueva durante 309 años."
+      ],
+      "answer": "Su poderosa fuerza se desmoronó como cenizas."
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

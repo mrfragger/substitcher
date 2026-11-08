@@ -1,0 +1,61 @@
+{
+  "title": "Absența Sacră",
+  "intro": "Dincolo de dunele timpului, se află o poveste despre o devoțiune neclintită și o încredere atât de grea încât sufletul care o purta ar fi putut să se rupă. Într-un moment în care oamenii s-au îndreptat spre nebunie și aur, o figură a rămas neclintită - chemându-i înapoi, implorând răbdare și purtând greutatea unei promisiuni sacre. Aceasta este povestea cuiva care a fost ales ca ajutor, vizir și păzitor al credinței în timpul unei absențe sacre. Poți descoperi identitatea acestui suflet statornic?",
+  "clues": [
+    "Împărtășesc sângele unui mare profet care a fost ales să vorbească cu Allah direct pe un munte sacru.",
+    "Fratele meu l-a implorat odată pe Allah să-l ajute să vorbească clar unui mare asupritor.",
+    "Am fost ales de Allah să stau alături de fratele meu ca ajutor și vizir.",
+    "Împreună ne-am confruntat cu un conducător tiran care cerea să fie numit cel mai înalt dintre zei.",
+    "În timp ce fratele meu se împărtășea cu Allah pe munte, poporul nostru și-a făcut un idol din aurul său.",
+    "Sunt fratele lui Moise, numit de Allah vizir al său, menționat pe nume în Coran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Harun (Aaron)",
+        "Profetul Musa",
+        "Profetul Dawud",
+        "Profetul Yaqub",
+        "Profetul Ishaq"
+      ],
+      "answer": "Profetul Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Criza cultului vițelului",
+        "Marele Potop al lui Nuh",
+        "Bătălia de la Badr",
+        "Distrugerea lui Thamud",
+        "Distrugerea Sodomei"
+      ],
+      "answer": "Criza cultului vițelului"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Vițelul de Aur",
+        "Arca lui Noe",
+        "Rugul Aprins",
+        "Peștera din Hira",
+        "Tronul din Șeba"
+      ],
+      "answer": "Vițelul de Aur"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Inocența confirmată de Allah",
+        "Înecul faraonului",
+        "Construirea Kaaba",
+        "Traversare în siguranță a mării",
+        "Înălțarea la Ceruri"
+      ],
+      "answer": "Inocența confirmată de Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La voix inaudible des siècles",
+  "intro": "Bien avant l'avènement des grandes cités, une âme solitaire s'éleva au milieu d'un peuple qui avait renié la vérité. Leur obstination n'avait d'égale que la patience de cet homme solitaire, qui, de génération en génération, plaida sans relâche. Lorsque tous les avertissements restèrent vains, un châtiment sans précédent transforma la terre elle-même. Aujourd'hui encore, l'écho de cette histoire résonne à chaque récit. Saurez-vous reconnaître cette âme inébranlable ?",
+  "clues": [
+    "J'ai grandi au sein d'un peuple qui vénérait de fausses idoles et ignorait les signes qui l'entouraient, et pourtant j'ai été choisi pour les sortir de leur insouciance.",
+    "J'ai interpellé mon peuple à maintes reprises, mais ils m'ont accusé de n'être qu'une personne comme eux, se moquant de mon message et se bouchant les oreilles.",
+    "Nuit et jour, je les suppliais avec sagesse et de doux rappels, mais mes paroles semblaient se perdre dans le vent, inaudibles et ignorées.",
+    "Sous l'influence divine, j'ai construit un vaste navire de bois et de planches sur la terre ferme, et mon peuple s'est moqué de moi, me prenant pour un fou.",
+    "Lorsque le grand déluge survint comme annoncé, mon propre fils refusa de monter à bord du navire avec moi, croyant qu'une montagne le protégerait de la montée des eaux.",
+    "Je suis devenu le patriarche d'un nouveau commencement sur terre, et mon histoire est préservée dans un chapitre du Coran qui porte mon nom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Noé",
+        "Le prophète Ibrahim",
+        "Le prophète Moïse",
+        "Le prophète Lout",
+        "Prophète Hud"
+      ],
+      "answer": "Prophète Noé"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le Grand Déluge qui a remodelé la terre",
+        "jetés dans un brasier par les idolâtres",
+        "Confrontation avec les magiciens du pharaon au palais",
+        "La destruction des jardins prospères par une tempête céleste",
+        "Le renversement des habitants des tranchées"
+      ],
+      "answer": "Le Grand Déluge qui a remodelé la terre"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche construite en bois et en planches",
+        "La maison sacrée construite sur des fondations antiques",
+        "Le bâton qui se transforma en serpent",
+        "La grotte des jeunes gens endormis",
+        "Le trône porté par une créature puissante"
+      ],
+      "answer": "L'Arche construite en bois et en planches"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Les incrédules se noyèrent tandis que les croyants furent sauvés à bord du navire.",
+        "Le feu s'est éteint et est devenu sans danger, et la personne qui avait appelé en est ressortie indemne.",
+        "Les magiciens se prosternèrent et embrassèrent la foi",
+        "Le jardin fut donné au voisin juste à sa place",
+        "Les dormeurs s'éveillèrent après des siècles, transformés"
+      ],
+      "answer": "Les incrédules se noyèrent tandis que les croyants furent sauvés à bord du navire."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

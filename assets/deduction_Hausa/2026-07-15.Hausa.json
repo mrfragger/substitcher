@@ -1,0 +1,61 @@
+{
+  "title": "Janyewar Kai Tsaye",
+  "intro": "A cikin tarihin ni'imar Allah, akwai wata rai mai tsarki mara misaltuwa, wacce aka keɓe daga mutanensu don neman kaɗaici a cikin alkibla mai tsarki. Ba su san cewa wannan keɓewa zai haifar da wata alama ga dukkan duniyoyi ba, jarabawar bangaskiya da za a yi magana a kai har abada.",
+  "clues": [
+    "Na sadaukar da kaina ga rayuwa ta hidima kafin haihuwata.",
+    "An sanya ni a ƙarƙashin kulawar wani annabi mai daraja.",
+    "An ciyar da ni da arzikin Allah wanda ya ba wa mai kula da ni mamaki.",
+    "Na janye daga iyalina zuwa wani wuri na gabas.",
+    "Mala'ika ya bayyana a gare ni a cikin siffar mutum cikakke, yana kawo mini labari game da ɗa tsarkakakke.",
+    "Da na dawo da jaririyata, mutanen gidana sun zarge ni, amma jaririn ya yi magana don kare ni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Maryamu (Maryamu)",
+        "Asiyah (matar Fir'auna)",
+        "Hajar (mahaifiyar Ismail)",
+        "Saratu (matar Ibrahim)",
+        "Mahaifiyar Musa"
+      ],
+      "answer": "Maryamu (Maryamu)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ciki mai ban mamaki da haihuwar ɗa",
+        "Ana jefa shi cikin wuta",
+        "Babban kifi ya haɗiye shi",
+        "Gina babban jirgi",
+        "Ketare teku"
+      ],
+      "answer": "Ciki mai ban mamaki da haihuwar ɗa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Wuri mai keɓantacce a gabas",
+        "Dajin da ke ƙonewa",
+        "Tekun Ja",
+        "Dutsen da ruwa ke ɓuɓɓugowa daga gare shi",
+        "Kifin whale"
+      ],
+      "answer": "Wuri mai keɓantacce a gabas"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Wani jariri ya yi magana don kare uwa",
+        "An raba teku",
+        "Wutar ta yi sanyi kuma ta yi aminci",
+        "Kifin ya yi amai a bakin teku",
+        "Jirgin ya sauka a kan dutse"
+      ],
+      "answer": "Wani jariri ya yi magana don kare uwa"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

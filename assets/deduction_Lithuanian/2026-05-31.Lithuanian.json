@@ -1,0 +1,61 @@
+{
+  "title": "Žuvę liudytojai",
+  "intro": "Seniai seniai, imperijų kryžkelėje, gyveno bendruomenė. Jų pranašas kvietė juos eiti tiesos keliu, tačiau jie laikėsi netikėjimo ir priespaudos. Ši istorija baigiasi dievišku atpildu. Ar galite atpažinti šią tautą ir jos likimą pagal toliau pateiktas užuominas?",
+  "clues": [
+    "Tauta atmetė vieno iš savo pasiuntinių paskelbtą perspėjimą.",
+    "Pasiuntinys paragino mus garbinti vien Allahą ir perspėjo apie korupciją.",
+    "Mūsų prasižengimas buvo pranašo, siųsto tarp mūsų su teisumu, atmetimas.",
+    "Mes abejojome pasiuntinio autoritetu ir apkaltinome jį apgaule.",
+    "Bausmė mus užklupo, kai saugiai gyvenome savo namuose.",
+    "Mes buvome sunaikinti už tai, kad neigėme savo pranašą ir persekiojome tikinčiuosius."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Šuaibas",
+        "Ibrahimas",
+        "Lutas",
+        "Nuh",
+        "Mūsa"
+      ],
+      "answer": "Šuaibas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Priimdamas pranašą, kuris pašaukė teisumui",
+        "Išbandomas badu",
+        "Sapno aiškinimas",
+        "Toros priėmimas",
+        "Kelionė per jūrą"
+      ],
+      "answer": "Priimdamas pranašą, kuris pašaukė teisumui"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Midjanas",
+        "Babilonas",
+        "Sodoma",
+        "Raudonoji jūra",
+        "Arka"
+      ],
+      "answer": "Midjanas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Žmonės buvo sunaikinti dėl netikėjimo",
+        "Žmonės atgailavo ir buvo vedami",
+        "Žmonės įžengė į Rojų",
+        "Žmonės išgyveno ir klestėjo",
+        "Žmonės persikėlė į naują žemę"
+      ],
+      "answer": "Žmonės buvo sunaikinti dėl netikėjimo"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

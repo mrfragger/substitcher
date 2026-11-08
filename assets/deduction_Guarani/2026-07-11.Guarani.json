@@ -1,0 +1,61 @@
+{
+  "title": "Umi oviaháva pe kokue hovyũvape",
+  "intro": "Ymave, mokõi tapicha oñangareko umi yvy ojoykéregua rehe. Hapekuéra ojoaju ojuehe, upéicharõ jepe ikorasõkuéra ogueraha chupekuéra umi destino tuicha idiferénteva gotyo. Peteĩva oguata tape porãre, ambue katu ojedesvia pe negación pytũmbýpe. ¿Ikatu piko reikuaauka pe misterio orekóva koʼã mokõi oñangarekóva pe kosécha rehe?",
+  "clues": [
+    "Che areko heta ñemitỹ, umi cosecha henyhẽva ha ombopy’arory umi ohecháva resa.",
+    "Che vecino oguereko tuichavéva recompensa chehegui, upéicharõ jepe aipotaiterei pe porción orekóva hikuái che mba’égui.",
+    "Asugeri ñahundipaite haĝua iñemitỹkuéra, ñamombarete haĝua opa mba’e che poguýpe.",
+    "Che agueru ñehundi che cosecha-pe avei, ahundívo opa mba’e che ñembotavy tavýpe.",
+    "Añembo’y ndajapovéima che ñemitỹ ipiru aja ha che riqueza oñekonverti yvytimbo peteĩ pyharépe.",
+    "Ndarekóikuri peteĩ parte pe Amaltura-pe, ha che residencia pahagui oiko peteĩ yvykua tata hendývagui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mávapa che?",
+      "options": [
+        "Pe kuimbaʼe onega vaʼekue oikove jey ha pe huísio",
+        "Pe mburuvicha ombohasa asýva pe chokokue hekojojávape",
+        "Pe yvy jára ipirapire hetáva ndorekóiva aguyje",
+        "Pe chokokue oipotaitereíva hapicha yvy",
+        "Pe socio traidor oplanteáva ñehundi"
+      ],
+      "answer": "Pe chokokue oipotaitereíva hapicha yvy"
+    },
+    "trial": {
+      "label": "Juicio/Evento rehegua",
+      "options": [
+        "Pe prueba jahupyty haĝua revelación divina",
+        "Pe desafío riqueza ha paciencia rehegua",
+        "Pe tentación ohundi haguã peteĩ tapicha hekojojáva rekove",
+        "Pe tembiapoukapy oñemboja’o haguã hekoitépe herencia",
+        "Pe lucha peteĩ tirano jejopy rehe"
+      ],
+      "answer": "Pe tentación ohundi haguã peteĩ tapicha hekojojáva rekove"
+    },
+    "location": {
+      "label": "Elemento Clave rehegua",
+      "options": [
+        "Umi hardín verde oĩva pe paraísope",
+        "Mokõi ñemitỹ kokue ojoykéregua",
+        "Umi montáña ohechavaʼekue oñehundi",
+        "Pe santuario marangatu Makkah-pegua",
+        "Ysyry rembe’y peteĩ yvy ojehovasáva"
+      ],
+      "answer": "Mokõi ñemitỹ kokue ojoykéregua"
+    },
+    "outcome": {
+      "label": "Sẽ",
+      "options": [
+        "Paraíso opave’ỹva recompensa ramo tekojojápe",
+        "Oñehundipaite mokõive cosecha ko tekovépe",
+        "Exilio ha ojere omano meve",
+        "Prosperidad temporal ha upéi tata eterno",
+        "Peteĩ restauración milagrosa ha recompensa doble"
+      ],
+      "answer": "Oñehundipaite mokõive cosecha ko tekovépe"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

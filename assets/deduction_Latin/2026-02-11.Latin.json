@@ -1,0 +1,60 @@
+{
+  "title": "Onus Divitiarum",
+  "intro": "Ante fabulam fortunae immensae stas, vitae auro et potentia ornatae, sed denique monentis lectio omnibus qui magnitudinem mundanam quaerunt. Potesne identitatem huius personae, cuius historia per tempus resonat, testimonium naturae fugacis possessionum mundanarum, detegere?",
+  "clues": [
+    "Ex populo magni Prophetae eram, sed viam arrogantiae et oppressionis elegi.",
+    "Deus mihi immensas divitias donavit, tantas ut claves thesaurorum meorum onus grave essent valido virorum gregi.",
+    "Gens mea me monuit ne in divitiis meis exultarem, me admonentes Deum non amare exultantes.",
+    "Superbe affirmavi meam ingentem fortunam meae scientiae et conatui, non benedictioni ab Allah, deberi.",
+    "Contra corruptionem monitus sum et admonitus ut vitam post mortem quaererem iis quae Allah mihi dederat, sed audire recusavi et in superbia mea perseveravi.",
+    "Tandem, Deus me et domum meam deglutire fecit, me nullis adiutoribus relicto contra decretum Eius."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Pharao",
+        "Aman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Maris divisio",
+        "Ignis Nimrodi",
+        "Diluvium",
+        "Deglutitio a terra",
+        "Pestis locustarum"
+      ],
+      "answer": "Deglutitio a terra"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Vitulus Aureus",
+        "Thesauri/Claves",
+        "Puteus Zamzam"
+      ],
+      "answer": "Thesauri/Claves"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Regnum concessum",
+        "Servatus a destructione",
+        "A terra absorptus",
+        "Propheta factus est",
+        "Placite mortuus est"
+      ],
+      "answer": "A terra absorptus"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

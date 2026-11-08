@@ -1,0 +1,61 @@
+{
+  "title": "Ñi dëkk ci ñaari jardin yi",
+  "intro": "Ci réew mu bari ay barke, amoon na benn askan bu amoon ñaari jardin yu rafet. Seen dundu dafay firndeel yitte Yàlla, waaye seen jaar-jaar dafa soppeeku ginaaw bi ngërëm wàññeekoo, mu indi coppite buy nekk màndarga buy yàgg ci képp ku ci xalaat.",
+  "clues": [
+    "Nun askan wuñ barkeel la woon ci réew mu yomb te bari ay mbir.",
+    "Sunu Boroom may nu ñaari jardin yu rafet, yu naat te bari ay meññeef fu nekk.",
+    "Dañu nu digal nu gërëm Yàlla, waaye nu tànn ñàkka ngërëm, nu dellu ginaaw.",
+    "Baraas bu rëy moo tëjoon ndox miy dundal sunu suuf.",
+    "Bi nu wéyee ci sunuy njuumte, barage bi dafa toj, ndox mi di wal.",
+    "Sunu jardin yi yàgg a naat, ñu jël ay meññeef yu wex, ay tamarisk ak ay garabi lote yu néew."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Waa Saba",
+        "Waa Samud",
+        "Waa Madyan",
+        "Sahaba grotte",
+        "askanu ñay bi"
+      ],
+      "answer": "Waa Saba"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Ngelaw lu metti juróom ñaari guddi",
+        "Xeer yu bari yuy wàcci ci asamaan si",
+        "Mbënd buy yàq bu bawoo ci barab buy toj",
+        "ab yuuxu bu am doole joge asamaan",
+        "Di féey ci géej gi"
+      ],
+      "answer": "Mbënd buy yàq bu bawoo ci barab buy toj"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Barage bu mag bu Ma'rib",
+        "Vallée de Wadi Al Qura",
+        "Jardinu Iram",
+        "Teenu Zamzam",
+        "Tundu Sinay"
+      ],
+      "answer": "Barage bu mag bu Ma'rib"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Sunu jardin yi dañu wecci ay meññeef yu wex ak garab yu néew",
+        "Suuf si daf nu wann ci yëngu-yëngu suuf",
+        "ñu soppi nu nekk maymu ak mbaam xuux",
+        "Mbënd mu rëy moo nu mbëgg",
+        "Xeer yu bari ñoo nu yàq"
+      ],
+      "answer": "Sunu jardin yi dañu wecci ay meññeef yu wex ak garab yu néew"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

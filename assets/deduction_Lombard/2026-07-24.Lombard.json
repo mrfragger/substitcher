@@ -1,0 +1,61 @@
+{
+  "title": "El cospiratur velà",
+  "intro": "Te te truvet in presenza de una figüra pudent di dì de la rivelaziun. Chestu individuo l’era famus per luur intellett, richeza e status intra luur gent. Quand che sun rivà i segn ciar, g’han ricognussü la belleza e ancamò g’han scernì la sfida inveci de la sottomisiun. Cosa l’ha spint chesta anima a tramar al scüro, e qual l’è stà el luur destin final?",
+  "clues": [
+    "Sun stà benedì cun tanti risurs e influenza, che g’han rendü pesant la me parolla in di assemblee.",
+    "Quand qe i parolle del divin eren recitade, podevi miga negar la soa eloquenza, ma el me orgoi al me permeteva miga de someter-m.",
+    "Ho reunid i me consilier e me son isolad par pensar a una manera de screditar ol messaj.",
+    "Dopu tant pensé, g’ho dichiarà sultant ‘magia tramandà del pasà’ per schivà la gent.",
+    "La rivelaziun la s’è rivolta diretament a mi: “Lassam cun chel che g’ho creà da sul”. Sun stà scelt per i me schemi.",
+    "Prest, el fœuch stess che m’è stà avvertì me ciapparà per la fronte e g’havarò no de scapà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Muayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Cospirad per assassinar el Profeta",
+        "G’ha guidà un boicott cuntra i musulman",
+        "Radunà un cunsili per marcà el Coran cuma magia",
+        "Tramad per cacià fœura el Profeta de la Mecca",
+        "Refudà de cundivider la sò richeza cunt i orfen"
+      ],
+      "answer": "Radunà un cunsili per marcà el Coran cuma magia"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La Rivelazion",
+        "El Consili",
+        "La serratura",
+        "La richeza",
+        "La penna"
+      ],
+      "answer": "La serratura"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "El s’è pentì e g’ha abrazà l’Islam",
+        "L’è emigrà in Abissinia",
+        "L’è stait colpid de una malatia mortal",
+        "L’è mort in bataja cuntra i musulman",
+        "L’è stà cundannà al fœuch del infern"
+      ],
+      "answer": "L’è stà cundannà al fœuch del infern"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

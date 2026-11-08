@@ -1,0 +1,61 @@
+{
+  "title": "Umngane Ongaguquki Ekuvivinyweni Kwegolide",
+  "intro": "Ethunzini lomprofethi omkhulu, umphefumulo okhuluma kahle futhi onokholo wakhethwa ukusiza emsebenzini omkhulu. Lo muntu wema eqinile lapho izixuku zintengantenga, eshumayela ngokumelene nokweqa okusobala okwakusongela ingqikithi yokukholelwa kuNkulunkulu oyedwa. Lapho umprofethi ebuya ukuzobona ukushiyeka kwabantu, ukuzivikela kwalesi sibalo kwakungeyona eyokuba necala kodwa kwakungokomsebenzi nokwesaba ukuhlukana. Ubani lesi sikhonzi sika-Allah esizinikele?",
+  "clues": [
+    "Ngakhethwa ngu-Allah ngomsebenzi ongcwele kanye nomunye, futhi indima yami kwakuwukusekela nokumemezela.",
+    "Nganikwa ithuba lokukhuluma ngokucacile, futhi ngahamba nesithunywa ukuze ngibhekane nomcindezeli onamandla.",
+    "Phakathi nohambo olubucayi, isithunywa senyuka intaba sodwa, sangishiya ngiqaphe abantu.",
+    "Ngesikhathi bengekho, abantu bakha isithombe segolide, futhi ngabancenga ukuba bahlale bethembekile, kodwa basenqaba iseluleko sami.",
+    "Lapho isithunywa sibuya, sigcwele intukuthelo nosizi, ngabanjwa, kodwa ngachaza ukuthi nganginqotshwe amandla futhi ngesaba ukubangela ukungezwani phakathi kwabo.",
+    "Ngingumprofethi owayemi eceleni kukaMose, umfowethu, ngihlanganyela umthwalo wakhe futhi ngihlala ngiqinile ekukhonzeni izithombe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uHarun",
+        "Umprofethi uMusa",
+        "Umprofethi u-Isa",
+        "Umprofethi uDawud",
+        "Umprofethi uZakariya"
+      ],
+      "answer": "Umprofethi uHarun"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Abantu babekhulekela ithole legolide naphezu kwezixwayiso",
+        "Abantu bangiphonsa emlilweni ovuthayo",
+        "Ngagwinywa yinhlanzi enkulu",
+        "Ngaboshwa ngamacala amanga",
+        "Ngadingiswa edolobheni lakithi ngenxa yokushumayela"
+      ],
+      "answer": "Abantu babekhulekela ithole legolide naphezu kwezixwayiso"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ithole Legolide",
+        "Isihlahla Esivuthayo",
+        "Induku eyaphenduka inyoka",
+        "Izibhebhe Zesivumelwano",
+        "Umphongolo Wesivumelwano"
+      ],
+      "answer": "Ithole Legolide"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ngakhululwa ecaleni futhi ngaqhubeka nomsebenzi wami wokuprofetha",
+        "Ngajeziswa ngesono sabantu",
+        "Nganikwa isizwe esisha ukuba ngisiqondise",
+        "Nganyuselwa ezulwini ngiphila",
+        "Ngenziwa umbusi phezu kombuso"
+      ],
+      "answer": "Ngakhululwa ecaleni futhi ngaqhubeka nomsebenzi wami wokuprofetha"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

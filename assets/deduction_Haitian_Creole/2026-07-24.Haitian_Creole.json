@@ -1,0 +1,61 @@
+{
+  "title": "Konspiratè a ki te kache",
+  "intro": "Ou twouve w devan yon figi pwisan ki soti nan epòk revelasyon an. Moun sa a te konnen pou entèlijans li, richès li, ak estati li nan mitan pèp li a. Lè siy klè yo te vini, yo te rekonèt bote a men yo te chwazi defi olye de soumèt. Ki sa ki te pouse nanm sa a fè konplo nan fènwa a, e ki sa ki te sò final li?",
+  "clues": [
+    "Mwen te beni ak anpil resous ak enfliyans, sa ki te fè pawòl mwen vin lou nan asanble yo.",
+    "Lè yo t ap resite pawòl divin yo, mwen pa t ka nye elokans yo, men ògèy mwen pa t pèmèt mwen soumèt mwen.",
+    "Mwen te rasanble konseye m yo, mwen te izole tèt mwen pou m reflechi sou yon fason pou m diskredite mesaj la.",
+    "Apre anpil refleksyon, mwen te deklare ke se pa lòt bagay ke 'maji ki soti nan tan lontan' pou detounen moun.",
+    "Revelasyon an te adrese m dirèkteman: 'Kite m pou kont mwen ak sa mwen te kreye a.' Yo te kritike m pou konplo mwen yo.",
+    "Talè konsa, dife yo te avèti m' lan pral pran m' nan cheve m', epi mwen p'ap gen okenn chape."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abou Lahab",
+        "Abou Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Konplote pou asasinen pwofèt la",
+        "Li te mennen yon boykòt kont Mizilman yo",
+        "Yo te rasanble yon konsèy pou make Koran an kòm maji",
+        "Konplote pou mete Pwofèt la deyò nan Makkah",
+        "Li te refize pataje richès li ak timoun san papa yo"
+      ],
+      "answer": "Yo te rasanble yon konsèy pou make Koran an kòm maji"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Revelasyon an",
+        "Konsèy la",
+        "Tòch la",
+        "Richès la",
+        "Plim nan"
+      ],
+      "answer": "Tòch la"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Li te repanti epi li te aksepte Islam nan",
+        "Li te emigre nan Abisini",
+        "Li te pran yon maladi mòtèl",
+        "Li te mouri nan batay kont Mizilman yo",
+        "Li te kondane nan dife lanfè"
+      ],
+      "answer": "Li te kondane nan dife lanfè"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

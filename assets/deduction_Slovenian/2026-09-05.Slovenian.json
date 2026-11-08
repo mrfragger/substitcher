@@ -1,0 +1,61 @@
+{
+  "title": "Sijaj, ki je potonil",
+  "intro": "Predstavljajte si to: duša, odeta v fina oblačila in obdana z zakladi, ki presegajo domišljijo. Ta posameznik je verjel, da je svoje bogastvo zaslužil z lastno briljantnostjo, nikoli pa ni priznal vira resnične oskrbe. Medtem ko je hodil med privrženci mogočnega preroka, je ta oseba zavrnila vsak klic k ponižnosti. Danes odkrivamo identiteto osebe, katere veličastno bogastvo je postalo njihovo zadnje počivališče.",
+  "clues": [
+    "Živel sem v času preroka, ki je trmast narod pozival k resnici.",
+    "Bil sem del izbrane skupnosti, a se je moje srce odvrnilo od sporočila.",
+    "Zlato in srebro sta me očarala bolj kot katera koli božja zapoved.",
+    "Moji zakladi so postali tako ogromni, da je močna skupina mož komaj dvignila ključe.",
+    "Hvalil sem se, da mi je bogastvo dano zaradi mojega lastnega znanja.",
+    "Na koncu je mene in celotno moje bivališče pogoltnila zemlja v opozorilo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Karun",
+        "Haman",
+        "Samiri",
+        "Bilkis",
+        "Talut (Saul)"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Aroganca nad bogastvom in zavračanje miloščine",
+        "Kovanje zlatega idola iz staljenega nakita",
+        "Razglasitev božanskosti nad mogočnim kraljestvom",
+        "Preganjanje zgodnjih vernikov v Meki",
+        "Vodenje kampanje za uničenje Svete hiše"
+      ],
+      "answer": "Aroganca nad bogastvom in zavračanje miloščine"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zakladi, katerih ključi so bremenili številne močne može",
+        "Zlato tele, ki je proizvajalo zvok",
+        "Slavni prestol iz daljne dežele",
+        "Jarek, poln plamenečega ognja",
+        "Mogočna vojska vojnih slonov"
+      ],
+      "answer": "Zakladi, katerih ključi so bremenili številne močne može"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Požrla ga je zemlja skupaj s prebivališčem",
+        "Utopljen v morju z vojsko",
+        "Živ zgorel v ognjeni jami",
+        "Uničen zaradi tulečega, besnega vetra",
+        "Zadel ga je en sam močan udarec"
+      ],
+      "answer": "Požrla ga je zemlja skupaj s prebivališčem"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

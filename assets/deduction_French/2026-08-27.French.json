@@ -1,0 +1,61 @@
+{
+  "title": "L'Élu éloquent",
+  "intro": "À l'ombre d'une montagne où descendaient des paroles divines, la foi d'un peuple vacilla sous l'éclat de l'or. Une âme, dotée d'une éloquence rare, se dressait comme un soutien à une mission plus grande, mais se trouvait confrontée à une épreuve profonde. Lorsque le messager élu s'éleva vers sa mission sacrée, cette figure demeura sur place, implorant une nation tourmentée. Qui est cette âme inébranlable dont la voix s'éleva contre l'idolâtrie ?",
+  "clues": [
+    "J'ai été choisi par Allah pour être prophète, même si mon histoire est souvent racontée en parallèle d'une autre.",
+    "J'ai été envoyée auprès d'un tyran, mais mon rôle était de le soutenir, pas de le diriger.",
+    "J'étais doté d'une grande éloquence, et mes paroles étaient destinées à adoucir les cœurs.",
+    "Lorsque mon compagnon partit pour un rendez-vous sacré, je me retrouvai seul à guider un peuple agité.",
+    "Dans leur impatience, ils ont forgé une image à partir de leurs ornements, et je les ai suppliés de rester fidèles à Allah.",
+    "Mon compagnon est revenu et m'a saisi, mais j'ai expliqué que la foule m'avait maîtrisé et avait failli me tuer ; je n'étais pas parmi les malfaiteurs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Moïse",
+        "Le prophète Harun",
+        "Le prophète Isaïe",
+        "Prophète Yahya",
+        "Prophète Zakariya"
+      ],
+      "answer": "Le prophète Harun"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Être jeté dans le feu",
+        "Être jeté dans un puits",
+        "Face à l'incident du veau d'or",
+        "L'épreuve d'une maladie grave",
+        "L'épreuve de la perte de richesse et d'enfants"
+      ],
+      "answer": "Face à l'incident du veau d'or"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le veau d'or",
+        "Le personnel",
+        "L'Arche d'Alliance",
+        "Les tablettes",
+        "Le buisson ardent"
+      ],
+      "answer": "Le veau d'or"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Puni sévèrement",
+        "Pardonné et innocenté",
+        "Fait roi",
+        "Emporté au ciel",
+        "Étant donné une nouvelle écriture"
+      ],
+      "answer": "Pardonné et innocenté"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

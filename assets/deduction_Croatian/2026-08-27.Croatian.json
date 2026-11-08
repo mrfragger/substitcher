@@ -1,0 +1,61 @@
+{
+  "title": "Izrečeni odabranik",
+  "intro": "U sjeni planine gdje su se spuštale božanske riječi, vjera jednog naroda popuštala je pod sjajem zlata. Jedna duša, obdarena rječitošću, stajala je kao podrška većoj misiji, ali se suočila s trenutkom dubokog iskušenja. Kada se odabrani glasnik uzdigao na sveti sastanak, ova je figura ostala, moleći nemirni narod. Tko je ta nepokolebljiva duša čiji se glas digao protiv idolopoklonstva?",
+  "clues": [
+    "Allah me je odabrao da budem prorok, iako se moja priča često priča uz drugu.",
+    "Poslan sam tiranskom vladaru, ali moja je uloga bila podržavati, a ne voditi.",
+    "Bio sam obdaren rječitošću, a moje su riječi trebale omekšati srca.",
+    "Kad je moj suputnik otišao na sveti sastanak, ostao sam voditi nemirni narod.",
+    "U svojoj nestrpljivosti, iskovali su sliku od svojih ukrasa, a ja sam ih molio da ostanu vjerni Allahu.",
+    "Moj se pratilac vratio i uhvatio me, ali sam objasnio da su me ljudi svladali i zamalo ubili; nisam bio među zlikovcima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Musa",
+        "Prorok Harun",
+        "Poslanik Isa",
+        "Poslanik Jahja",
+        "Poslanik Zakarija"
+      ],
+      "answer": "Prorok Harun"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti bačen u vatru",
+        "Biti bačen u bunar",
+        "Suočavanje s incidentom zlatnog teleta",
+        "Test teške bolesti",
+        "Test gubitka bogatstva i djece"
+      ],
+      "answer": "Suočavanje s incidentom zlatnog teleta"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zlatno tele",
+        "Osoblje",
+        "Kovčeg saveza",
+        "Tablete",
+        "Gorući grm"
+      ],
+      "answer": "Zlatno tele"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Strogo kažnjen",
+        "Oprošteno i oslobođeno",
+        "Učinio kraljem",
+        "Odveden u raj",
+        "S obzirom na novi spis"
+      ],
+      "answer": "Oprošteno i oslobođeno"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

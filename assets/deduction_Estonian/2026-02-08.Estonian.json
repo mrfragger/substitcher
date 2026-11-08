@@ -1,0 +1,60 @@
+{
+  "title": "Kauge trooni mõistatus",
+  "intro": "Võimas monarh, keda õnnistati erakordse võimuga, seisis silmitsi omapärase väljakutsega, mis hõlmas kaugelt maalt pärit kuningannat. Monarh püüdis näidata jumalikku väge ja tarkust, pannes käima uskumatu sündmuse, mis trotsis aja ja ruumi seadusi. Kas suudad selle imelise sündmuse üksikasju välja selgitada?",
+  "clues": [
+    "Valitsejale anti tohutu võim, sealhulgas kontroll nähtamatute olendite üle ja võime juhtida tuuli.",
+    "See valitseja sai uudiseid rikkast kuningannast, kes kummardas päikest, ja otsustas ta õukonda kutsuda.",
+    "Enne kuninganna saabumist avaldas valitseja soovi tuua oma suurejooneline võimutrepp oma kaugest kuningriigist kohale.",
+    "Võimas džinn pakkus, et toob eseme tagasi enne, kui valitseja jõuab oma nõukogust tõusta.",
+    "Kuid keegi, kellel olid sügavad teadmised jumalikust pühakirjast, pakkus veelgi kiiremat otsingut, täites ülesande silmapilguga.",
+    "Selle saabudes käskis valitseja eset muuta, et kuninganna intellekti ja taju proovile panna, kui ta lõpuks paleesse jõuab."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prohvet/Isik",
+      "options": [
+        "Prohvet Mooses",
+        "Prohvet Taavet",
+        "Prohvet Ibrahim",
+        "Prohvet Yusuf",
+        "Prohvet Sulayman"
+      ],
+      "answer": "Prohvet Sulayman"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Mere lõhenemine",
+        "Kannatlikkus ebaõnne ajal",
+        "Kaaba ehitamine",
+        "Aedade test",
+        "Kuninganna trooni toomine"
+      ],
+      "answer": "Kuninganna trooni toomine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Mägi",
+        "Kaev",
+        "Troon"
+      ],
+      "answer": "Troon"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Suur ohverdus",
+        "Rajatud kuningriik",
+        "Karistatud rahvas",
+        "Uus leping",
+        "Kuninganna alistumine Allahile"
+      ],
+      "answer": "Kuninganna alistumine Allahile"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

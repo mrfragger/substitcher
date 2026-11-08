@@ -1,0 +1,61 @@
+{
+  "title": "Ciężar odrzuconego prezentu",
+  "intro": "U zarania dziejów ludzkości, gdy ziemia była jeszcze młoda, a świat wstrzymał oddech, dusza stanęła przed Stwórcą ze skromną ofiarą. Ofiara ta została zważona na szali boskiej akceptacji – i uznana za niewystarczającą. To, co nastąpiło, nie było historią przebaczenia, lecz opowieścią o sercu trawionym zazdrością, prowadzącą do nieodwracalnego czynu, który miał rozbrzmiewać echem przez cały czas. To historia osoby, której imię stało się synonimem pierwszej poważnej niesprawiedliwości, jaka kiedykolwiek została popełniona.",
+  "clues": [
+    "Przyszedłem na świat jako jedno z pierwszych dzieci na świecie, a moim rodzicem jest osoba, której historię dobrze znasz.",
+    "Kiedyś złożyłem ofiarę Allahowi, ale nie została ona ode mnie przyjęta — chociaż ofiara mojego rodzeństwa została przyjęta z wdzięcznością.",
+    "Zazdrość i wściekłość zakorzeniły się w moim sercu, zagroziłem, że odbiorę życie moim krewnym.",
+    "Moje rodzeństwo ostrzegało mnie, że mam bać się Allaha, ale moja duma nie pozwalała mi go posłuchać.",
+    "W chwili strasznej słabości dopuściłem się niewypowiedzianego czynu wobec własnego brata.",
+    "Później nie wiedziałem nawet, jak ukryć to, co zrobiłem — dopóki nie przysłano do mnie pewnej istoty z ziemi, aby mnie tego nauczyła."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Syn proroka Noego",
+        "Prorok Isma'il",
+        "Prorok Yusuf"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Złożenie ofiary, która została odrzucona, co doprowadziło do pierwszego morderstwa",
+        "Zbudowanie wysokiej wieży, aby sięgnąć nieba",
+        "Bycie wrzuconym w ogień za wiarę",
+        "Poświęcenie własnego syna w posłuszeństwie Allahowi",
+        "Zostać połkniętym przez wielką rybę za ucieczkę od obowiązku"
+      ],
+      "answer": "Złożenie ofiary, która została odrzucona, co doprowadziło do pierwszego morderstwa"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Kruk zesłany przez Allaha, aby zademonstrować pochówek",
+        "Wielka powódź, która zatopiła cały naród",
+        "Laska, która zamieniła się w żywego węża",
+        "Wielbłądzica, która wyłoniła się ze skały",
+        "Wspaniały tron ​​niesiony przez potężne wiatry"
+      ],
+      "answer": "Kruk zesłany przez Allaha, aby zademonstrować pochówek"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Stał się jednym z tych, którzy żałują, obciążeni pierwszą zbrodnią, jaką kiedykolwiek popełniono",
+        "Został przebaczony przez Allaha i obdarzony wiecznym Rajem",
+        "Został wyniesiony na wysoki poziom prorokowania i mądrości",
+        "Zostałem uratowany przez Boże miłosierdzie po wezwaniu z głębin ciemności",
+        "Dano mu władzę nad dżinami, wiatrem i morzami"
+      ],
+      "answer": "Stał się jednym z tych, którzy żałują, obciążeni pierwszą zbrodnią, jaką kiedykolwiek popełniono"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

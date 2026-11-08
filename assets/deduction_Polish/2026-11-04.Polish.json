@@ -1,0 +1,61 @@
+{
+  "title": "skarb, który zatonął pod dumą",
+  "intro": "Wyobraź sobie, że stoisz przed stosami bogactw tak ogromnych, że samo noszenie kluczy wyczerpałoby grupę silnych jednostek. Wokół ciebie słychać głosy nawołujące do pokory i pamięci, ale duma głośniej przeważa nad wdzięcznością. Co się dzieje, gdy hojność staje się testem, a arogancja przypieczętowuje wynik?",
+  "clues": [
+    "Pochodziłem z ludu Mojżesza, a jednak przekroczyłem ich granice.",
+    "Obdarzono mnie tak ogromnymi skarbami, że klucze do nich byłyby ciężarem dla grupy silnych mężczyzn.",
+    "Mój lud doradził mi, abym się nie unosił radością i szukał życia pozagrobowego, nie zapominając o swojej części tego świata.",
+    "Twierdziłem, że to, co posiadam, zostało mi dane wyłącznie dzięki wiedzy, którą posiadam.",
+    "Występowałem przed swoim ludem w ozdobach, a ci, którzy pragnęli życia doczesnego, pragnęli czegoś podobnego do tego, co ja miałem.",
+    "Zostałem pochłonięty przez ziemię wraz z moim mieszkaniem i nikt nie mógł mi pomóc, ani ja sam nie mogłem sobie pomóc."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Karun",
+        "Namrud",
+        "Dżalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Chwalił się bogactwem i odmawiał łaski Allahowi, mimo że go o to prosił",
+        "Wyzwanie dla Ibrahima dotyczące dawania życia i śmierci",
+        "Poprowadził armię przeciwko Talutowi i Dawudowi",
+        "Rzeźbione bożki, które ludzie mogą czcić",
+        "Zabił brata z zazdrości o ofiarę"
+      ],
+      "answer": "Chwalił się bogactwem i odmawiał łaski Allahowi, mimo że go o to prosił"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Klucze do ogromnych skarbów",
+        "Arka Przymierza",
+        "Złoty cielec ozdób",
+        "Tama między dwiema górami",
+        "Jedenaście gwiazd we śnie"
+      ],
+      "answer": "Klucze do ogromnych skarbów"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pochłonięty przez ziemię wraz z mieszkaniem i bogactwem",
+        "Utonął w morzu podczas pościgu za Musą",
+        "Powalony kamieniem z procy Dawuda",
+        "Zniszczony przez potężny wybuch za złamanie ścięgna wielbłądzicy",
+        "Zamienieni w małpy za łamanie szabatu"
+      ],
+      "answer": "Pochłonięty przez ziemię wraz z mieszkaniem i bogactwem"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

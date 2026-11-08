@@ -1,0 +1,61 @@
+{
+  "title": "Lo Sobeiran Que Demandava la Divinitat",
+  "intro": "Un sobeiran poderós e arrogant cresiá que cap se teniá pas al dessús de son tròn. Perseguiguèron un grop en fugida a travèrs un vast còrs d'aiga, sonque per rescontrar una fin dramatica. L'istòria d'aqueste sobeiran fa resson dins fòrça passatges de l'Alcoran, en servissent d'avertiment a totes.",
+  "clues": [
+    "Èri un sobeiran poderós que cresiá que cap d'autoritat despassava la miá dins las tèrras que governavi.",
+    "Aviái un vizir de fisança nomenat Haman que m'ajudèt a menar a tèrme de grands projèctes arquitecturals.",
+    "Convoquèri los mai fins magicians de ma tèrra per contestar los signes d'un messatgièr que m'opausava.",
+    "Refusèri de daissar partir un pòble esclau dins mon reialme, malgrat las pèstas e los avertiments clars.",
+    "Los perseguiguèri a travèrs una mar vasta amb tota mon armada e los carris.",
+    "Aquela quita mar se barrèt sus ieu e mas fòrças, nos afogant totes, del temps que traversavan en seguretat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Fir'awn (Faraon)",
+        "Namrud",
+        "Abu Lahab",
+        "Aman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Faraon)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Plagas e confrontacion amb Musa (Moïses)",
+        "Bastir una arca abans un grand diluvi",
+        "Batalha contra Jalut dins la val",
+        "Èsser engolit per una balena",
+        "Defendre los peses de comèrci onèstes"
+      ],
+      "answer": "Plagas e confrontacion amb Musa (Moïses)"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Torres nautas e estacas",
+        "Una granda arca de fusta",
+        "Un vedèl d'aur",
+        "Un baston que se transformèt en sèrp",
+        "Una balena massissa"
+      ],
+      "answer": "Torres nautas e estacas"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Afogat dins la mar amb armada",
+        "Salvat per la misericòrdia d'Allah e la paciéncia recompensat",
+        "Reünit amb la familha après d'annadas de dificultat",
+        "Engolit per la tèrra",
+        "Cremat dins un fuòc"
+      ],
+      "answer": "Afogat dins la mar amb armada"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

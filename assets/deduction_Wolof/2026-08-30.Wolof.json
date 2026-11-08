@@ -1,0 +1,61 @@
+{
+  "title": "Xel miñu wóolu ci feeñu",
+  "intro": "Ci barab yiñu dul gis, mbindéef bu leer gu sell dafay daw ak njub, di def bépp ndigal te du sax xaar. Nit kooku waxna ak ay jaam yuñ tànn, indil leen kàddu yu leen di jàppale, te seede na ni Yàlla di doxalee ci jamono yépp. Kan mooy ruuh bu sargal bii?",
+  "clues": [
+    "Man mbindéef laa ci leer gu sell, ci leer la, masuma moy benn ndigalul sama Boroom.",
+    "Maa ngi doxantu ci diggante asamaan ak suuf, di wàcci ànd ak dogali Boroom yërmaande bi.",
+    "Ñu yónnee ma ci benn xale bu góor bu amul benn sikk ci barab bu sell bi, ma wax ko doom ju sell.",
+    "Man maay ngëmu sellaay bi, te jàppale naa yonent biñ jox firnde yu leer ak xebaar bu baax bi.",
+    "Dama yegsi ci lëmu doj ci kaw aw tundu ngir wax kàddu yu njëkk yi ci benn téere buy denc ba fàww.",
+    "Man maay ruuh bu wóor, te man maa wàcce Al Quran ci xol ndaw si mujj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Jibril (jibriil)",
+        "Mikaayil (Mikaayil)",
+        "Malaakal dee",
+        "Malik (Gardien de Jahannama)",
+        "Harut (benn ci ñaari malaaka yi ci Babilon)"
+      ],
+      "answer": "Jibril (jibriil)"
+    },
+    "trial": {
+      "label": "Mission/Role bu am solo",
+      "options": [
+        "Di joxe wahyu ci yonent yi",
+        "Di mbëkk mboq ci bis pénc ba",
+        "di wottu buntu jahannama",
+        "bind jëfi nit ñi",
+        "Fexe ba taw bi wàcci"
+      ],
+      "answer": "Di joxe wahyu ci yonent yi"
+    },
+    "location": {
+      "label": "Màndarga wala Titre",
+      "options": [
+        "Xel mu Sell mi (Ruh al- Qudus)",
+        "Xelu kàttan",
+        "Xelu yërmaande",
+        "Xelu njiit li",
+        "Xelu dëgg gi"
+      ],
+      "answer": "Xel mu Sell mi (Ruh al- Qudus)"
+    },
+    "outcome": {
+      "label": "Résultat bu misioŋ bi",
+      "options": [
+        "Al Quran ñu ngi ko wàcce ci Seydina Mohamed",
+        "Ci Bis Ànd ba, ñu ngi doon mbëgg mboq mi .",
+        "Jahannama dañu ko doon wottu, buntu yi dañu leen tëjoon",
+        "Téereb jëf yi ñu jébbal ko Yàlla .",
+        "Taw bi dafa wàcce ci kaw suuf si ."
+      ],
+      "answer": "Al Quran ñu ngi ko wàcce ci Seydina Mohamed"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

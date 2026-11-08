@@ -1,0 +1,61 @@
+{
+  "title": "Valava Ntiyiso Lava Titsongahataka",
+  "intro": "Etikweni leri nga ni matimba ya khale ni vungoma, ku pfuka ku lwisana lokukulu. Xiphemu xin’wana xi tirhisa vulawuri bya swikombiso swa Xikwembu, kasi lerin’wana ri ringeta ku fambisana ni leswi nga kotekiki. Vuyelo bya kona byi ta cinca ndlela ya matimu hilaha ku nga heriki. Xana u nga paluxa vumunhu bya lava va voneke ntiyiso lowukulu ni ku titsongahata emahlweni ka wona?",
+  "clues": [
+    "Hi vone swikombiso leswi tlulaka vukanganyisi bya vungoma",
+    "Hinkwerhu hi wele hi nkhinsama, hi nga swi koti ku landzula ntiyiso",
+    "Hi swi xiyile leswaku swikombiso leswi swi huma eka Xikwembu Xin’we xa Ntiyiso",
+    "A hi ri vaaki vo sungula ku amukela ripfumelo hi ndlela yo hlamarisa swonghasi",
+    "Hi tshembisiwe paradeyisi tanihi hakelo ya hina ya ripfumelo ra hina",
+    "Tintambhu ni tinhonga ta hina swi hundzuke tinyoka emahlweni ka mahlo ya hina, hambiswiritano hi hlawule ku titsongahata"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vaendli va masalamusi va Faro",
+        "Vanhu va Muprofeta Ibrahim",
+        "Valavi va ntiyiso lava titsongahataka",
+        "Vanhu va le Bako",
+        "Rixaka ra Hosi ya Xisati Bilqis"
+      ],
+      "answer": "Vaendli va masalamusi va Faro"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku hlangana na vatirhi va Muprofeta Musa",
+        "Ku tengisiwa ka moya wa Muprofeta Hud",
+        "Ntlhontlho lowu humaka eka kamela ya xisati ya Muprofeta Salih",
+        "Ndhambi leyikulu yi rhumele muprofeta",
+        "Riendzo ra muprofeta endzeni ka whale"
+      ],
+      "answer": "Ku hlangana na vatirhi va Muprofeta Musa"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Egipta wa khale",
+        "Yindlu yo kwetsima eMakkah",
+        "Muti wa Midiyani",
+        "Mananga ya Thamud",
+        "Bako ra vanhu va khale lava etleleke"
+      ],
+      "answer": "Egipta wa khale"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Paradeyisi tanihi hakelo ya vona",
+        "Ku xupuriwa esirheni",
+        "Ku lahlekeriwa hi tijarateni ta vona to tala",
+        "Ku lovisiwa hi ku tsekatseka ka misava ka xitshuketa",
+        "Ku ponisiwa eka whale leyikulu"
+      ],
+      "answer": "Paradeyisi tanihi hakelo ya vona"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

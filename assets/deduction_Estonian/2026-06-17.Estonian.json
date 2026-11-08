@@ -1,0 +1,61 @@
+{
+  "title": "Kaja linna servast",
+  "intro": "Linnas, mis oli jumalikust juhatusest kõrvale kaldunud, ilmus äärelinnast üksildane kuju, kes tormas lootuse ja hoiatuse sõnumiga kaasa. Sellest unustatud hingest pidi saama igavene vankumatu usu sümbol.",
+  "clues": [
+    "Ma nägin, kuidas käskjalad minu linna saadeti, aga mu rahvas pidas neid tavalisteks inimesteks.",
+    "Ma uskusin nende sõnumisse ja tundsin, kuidas tõde mu sees vastu kajas.",
+    "Ma kutsusin oma rahvast üles kuuletuma käskjalgadele, kes ei küsinud tasu.",
+    "Jooksin linna kõige kaugemast otsast, püüdes neile kiiresti mõistust selgitada.",
+    "Mu rahvas tõusis mu vastu ja ma tapeti, aga ma leidsin igavese rahu.",
+    "Allah ütles mulle: „Sisene paradiisi,“ ja ​​ma soovisin, et mu rahvas oleks tunnistajaks aule, mis mulle osaks sai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Ya-Sini uskuja",
+        "Küsija Uzair",
+        "Al-Khidr teejuht",
+        "Vaarao perekonna usklik",
+        "Namrud Türann"
+      ],
+      "answer": "Ya-Sini uskuja"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Silmitsi astudes uskmatute inimestega, kes ta tapsid",
+        "Lõõmavasse tulle visatud",
+        "Suure kala poolt alla neelatud",
+        "Massiivse laeva ehitamine",
+        "Türanni armee eest põgenemine"
+      ],
+      "answer": "Silmitsi astudes uskmatute inimestega, kes ta tapsid"
+    },
+    "location": {
+      "label": "Võtme asukoht",
+      "options": [
+        "Linna kõige kaugemas otsas",
+        "Turi mägi",
+        "Sipelgate org",
+        "Niiluse kaldad",
+        "Koopa koobas"
+      ],
+      "answer": "Linna kõige kaugemas otsas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Märtrisurm ja kohene pääsemine paradiisi",
+        "Põgenemine ja pääsemine",
+        "Taevasse tõusmine",
+        "Uppumine meres",
+        "Kiviks muutumine"
+      ],
+      "answer": "Märtrisurm ja kohene pääsemine paradiisi"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

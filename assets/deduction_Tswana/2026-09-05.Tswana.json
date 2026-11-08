@@ -1,0 +1,61 @@
+{
+  "title": "Bontlentle jo bo Nwetseng",
+  "intro": "Akanya fela ka seno: moya o o apesitsweng diaparo tse dintle mme o dikologilwe ke matlotlo a a fetang a o ka a akanyang. Motho yono o ne a dumela gore khumo ya gagwe e ne e bonwa ka botlhale jwa gagwe, a sa amogele le ka motlha motswedi wa tlamelo ya boammaaruri. A tsamaya mo gare ga balatedi ba moporofeti yo o nonofileng, motho yono o ne a gana pitso nngwe le nngwe ya boikokobetso. Gompieno, re ribolola boitshupo jwa motho yo khumo ya gagwe e e kgatlhang e neng ya nna lefelo la bone la bofelo la boikhutso.",
+  "clues": [
+    "Ke ne ke tshela ka nako ya moporofeti yo o neng a bitsa morafe o o tlhogoethata kwa boammaaruring.",
+    "Ke ne ke le karolo ya setšhaba se se tlhophilweng, le fa go ntse jalo pelo ya me e ne ya fapoga molaetsa.",
+    "Gauta le selefera di ne tsa nkgatlha go feta taelo epe ya bomodimo.",
+    "Dipolokelo tsa me tsa letlotlo di ne tsa gola thata jaana mo e leng gore setlhopha se se nonofileng sa banna se ne se sa kgone go tsholetsa dinotlolo ka bothata.",
+    "Ke ne ka ipoka ka re khumo ya me ke e neilwe ka ntlha ya kitso ya me.",
+    "Kwa bofelong, nna le bonno jwa me jotlhe re ne ra mediwa ke lefatshe e le tlhagiso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Qarun",
+        "Hamane",
+        "Samiri",
+        "Dibilikisi",
+        "Talute (Saulo)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Boikgogomoso ka ntlha ya khumo le go gana go thusa",
+        "Go betla setshwantsho sa gauta go tswa mo dibenyaneng tse di nyerolotsweng",
+        "Go bolela bomodimo mo godimo ga bogosi jo bo nonofileng",
+        "Go bogisa badumedi ba ntlha kwa Makkah",
+        "Go etelela pele letsholo la go senya Ntlo e e Boitshepo"
+      ],
+      "answer": "Boikgogomoso ka ntlha ya khumo le go gana go thusa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Matlotlo a dinotlolo tsa one di neng di imetsa banna ba le bantsi ba ba nonofileng",
+        "Namane ya gauta e e neng e ntsha modumo",
+        "Terone e e galalelang e e tswang kwa lefatsheng le le kgakala",
+        "Mosele o o neng o tletse ka molelo o o tukang",
+        "Mophato o o nonofileng wa ditlou tsa ntwa"
+      ],
+      "answer": "Matlotlo a dinotlolo tsa one di neng di imetsa banna ba le bantsi ba ba nonofileng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E meditswe ke lefatshe mmogo le bonno",
+        "A nwetse mo lewatleng le mophato",
+        "A fisiwa a tshela mo mosimeng wa molelo",
+        "E sentswe ke phefo e e bokolelang, e e bogale",
+        "E iteilwe ke go thunya gangwe fela go go maatla"
+      ],
+      "answer": "E meditswe ke lefatshe mmogo le bonno"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

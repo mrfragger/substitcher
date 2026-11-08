@@ -1,0 +1,61 @@
+{
+  "title": "Tihi glas doline",
+  "intro": "Stopite nazaj v čas, k mogočnemu ljudstvu, ki je nekoč prejelo živo čudo kot preizkušnjo. Aroganca in trmoglavost sta zapečatili njihovo usodo. Ali lahko sledite zgodbi in odkrijete, kaj se je odvilo v tej dramatični prelomnici?",
+  "clues": [
+    "Poslan sem bil kot božja preizkušnja mogočnemu ljudstvu, znanemu po svoji moči in kljubovalnosti.",
+    "Bil sem edinstveno čudo – med njimi se še nikoli ni pojavilo kaj podobnega meni.",
+    "Vsak drugi dan sem s svojimi delil pitno vodo iz vodnjaka.",
+    "Opozorili so jih, da bo vsaka škoda, ki mi jo bo storil, hitro kaznovana.",
+    "Najbolj drzni med njimi so prezrli opozorilo in me ohromili.",
+    "Po moji smrti je en sam gromki krik od zgoraj uničil vse moje ljudstvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Salihova kamela",
+        "Musina krava",
+        "Nuhova ladja",
+        "Musajevo osebje",
+        "Bilkisov prestol"
+      ],
+      "answer": "Salihova kamela"
+    },
+    "trial": {
+      "label": "Moja usoda",
+      "options": [
+        "Ohromljen in ubit",
+        "Zaklan kot žrtev",
+        "Preobrazil se v kačo",
+        "Ohranjeno skozi veliko poplavo",
+        "Hitro prepeljani čez kraljestvo"
+      ],
+      "answer": "Ohromljen in ubit"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vodnjak z vodo",
+        "Kamnita plošča",
+        "Goreči grm",
+        "Lesena skrinja",
+        "Prestol iz zlata in srebra"
+      ],
+      "answer": "Vodnjak z vodo"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Uničen z enim samim krikom",
+        "Utopil se v veliki poplavi",
+        "Požgan od kamnitega roja",
+        "Zdrobljen zaradi močnega vetra",
+        "Požrla ga je zemlja"
+      ],
+      "answer": "Uničen z enim samim krikom"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

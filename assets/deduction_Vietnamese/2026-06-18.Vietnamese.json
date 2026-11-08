@@ -1,0 +1,61 @@
+{
+  "title": "Người đầu tiên tìm kiếm sự tha thứ",
+  "intro": "Hãy quay ngược thời gian về trước khi bình minh đầu tiên ló dạng, trước khi bất kỳ người phàm nào đặt chân lên trái đất. Một hình tượng được tạo nên từ những chất liệu khiêm tốn nhất, được đặt ở vị trí cao hơn cả các thiên thần, và được đặt trong một khu vườn thiêng liêng với một lời cảnh báo rõ ràng. Nhưng chỉ trong một khoảnh khắc, một sự lựa chọn đã được đưa ra — một sự lựa chọn sẽ vang vọng suốt chiều dài lịch sử loài người. Hình tượng đó là ai?",
+  "clues": [
+    "Tôi được sinh ra theo một cách không giống bất kỳ cách nào khác — được tạo nên từ bụi đất và được ban cho một linh hồn sống bởi bàn tay của Đấng Tạo Hóa.",
+    "Tôi được ban cho kiến ​​thức sâu rộng đến nỗi ngay cả các thiên thần trên cao cũng phải kinh ngạc.",
+    "Tất cả muôn vật trên trời đều được lệnh phải cúi đầu trước ta, và tất cả đều phục tùng — trừ một kẻ, kẻ đã từ chối vì kiêu ngạo.",
+    "Tôi được đặt vào một khu vườn thiêng liêng, một nơi an ủi và chu cấp vĩnh cửu — nhưng với một điều cấm kỵ nghiêm ngặt.",
+    "Tôi đã quên, tôi đã sơ suất, và tôi đã không tuân lệnh — và tôi cảm nhận sâu sắc sức nặng của lỗi lầm mình gây ra.",
+    "Tôi thành tâm cầu nguyện với Chúa, và Ngài đã chấp nhận sự ăn năn của tôi, vì Ngài là Đấng Tha thứ nhất."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Adam",
+        "Tiên tri Dawud",
+        "Nhà tiên tri Muhammad",
+        "Iblis",
+        "Tiên tri Yaqub"
+      ],
+      "answer": "Tiên tri Adam"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Các thiên thần được lệnh phải phủ phục.",
+        "Trận Đại Hồng Thủy đã xảy ra.",
+        "Ngọn lửa lớn đã được dập tắt và an toàn.",
+        "Một vị vua kiêu ngạo đã chết đuối trên biển.",
+        "Một đạo quân voi đã bị tiêu diệt."
+      ],
+      "answer": "Các thiên thần được lệnh phải phủ phục."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Khu vườn hạnh phúc",
+        "Núi Sinai",
+        "Thánh đường Hồi giáo",
+        "Sông Nile",
+        "Hang động"
+      ],
+      "answer": "Khu vườn hạnh phúc"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Sự sám hối đã được Allah chấp nhận.",
+        "Chết đuối trên biển",
+        "Bị một con cá lớn nuốt chửng",
+        "Cả nước đã hứng chịu một vụ nổ dữ dội.",
+        "Bị thiêu đốt bởi cơn gió nóng bỏng"
+      ],
+      "answer": "Sự sám hối đã được Allah chấp nhận."
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

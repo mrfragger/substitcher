@@ -1,0 +1,61 @@
+{
+  "title": "Para Penjaga Panen Rahasia",
+  "intro": "Ing tanah sing ijo royo-royo, saklompok wong nggawe rencana rahasia ing wayah peteng. Dheweke duwe tujuan sing padha, nanging niyate adoh saka bener. Dheweke ora ngerti yen ana kejutan gaib sing nunggu dheweke nalika turu.",
+  "clues": [
+    "Kita wis nggawe tekad sing kuwat, mikir yen rencana kita iki ora ana cacate.",
+    "Awaké dhéwé niat arep metu luwih awal, sadurungé wong liya bisa obah.",
+    "Kita ngadeg ing lahan sing subur, percaya diri karo persediaan kita.",
+    "Nalika tekan panggonan sing dituju, panggonane tandus lan sepi, mula kita ngira wis kesasar.",
+    "Banjur kita sadhar yen iku pancen panggonan kita, lan kita padha nangis putus asa, nyalahke siji lan sijine amarga kelangan kita.",
+    "Esuk kuwi aku lan kanca-kanca wis sumpah arep nglarang wong-wong miskin melu panen, nanging paukumane Allah teka nalika aku lan kanca-kanca turu, sing ngrusak kebonku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Kita?",
+      "options": [
+        "Para Pemilik Taman ing Surat 68",
+        "Wong-wong Saba",
+        "Para Pengiring Gua",
+        "Wong-wong Gajah",
+        "Wong-wong ing Parit"
+      ],
+      "answer": "Para Pemilik Taman ing Surat 68"
+    },
+    "trial": {
+      "label": "Uji Coba Kita",
+      "options": [
+        "Kebon kita rusak kena bencana saka langit",
+        "Kebon kita kebanjiran",
+        "Kebon kita kobong dening geni saka mungsuh",
+        "Kebon kita kebak walang",
+        "Kebon kita kebanjiran lindhu"
+      ],
+      "answer": "Kebon kita rusak kena bencana saka langit"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Kita sumpah arep metik woh-wohane ing wayah esuk",
+        "Kita nggawe bendungan kanggo mbanyoni kebon kita",
+        "Kita nggoleki papan perlindungan ing guwa",
+        "Kita nyiapake tentara kanggo ngrebut kerajaan",
+        "Kita numpak kapal kanggo nyabrang segara"
+      ],
+      "answer": "Kita sumpah arep metik woh-wohane ing wayah esuk"
+    },
+    "outcome": {
+      "label": "Nasib Kita",
+      "options": [
+        "Kita tobat lan ngarep-arep sih rahmat saka Gusti Allah",
+        "Kita wis rusak total lan ora tau mratobat",
+        "Kita mlayu saka tanah lan ora nate bali",
+        "Kita dadi kuwat lan sugih maneh",
+        "Kita diukum kanthi diowahi dadi kethek"
+      ],
+      "answer": "Kita tobat lan ngarep-arep sih rahmat saka Gusti Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

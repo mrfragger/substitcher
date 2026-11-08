@@ -1,0 +1,61 @@
+{
+  "title": "Ang Misyon sa Karaang Siyudad",
+  "intro": "Usa ka abogon nga karaang lungsod, ang mga tawo niini nalubong sa pagpanghimakak, ug usa ka katapusang pasidaan nga wala tagda. Karon, lihok isip mga gipadala ni Allah aron sa paghatud sa mensahe ngadto sa usa ka gahig ulo nga katawhan. Usa ka istorya sa pagsalikway, usa ka talagsaon nga tingog sa pagtuo, ug usa ka katapusan nga giselyohan sa usa ka makadaot nga mando. Kinsa ang nagsulti pinaagi niining mga timailhan?",
+  "clues": [
+    "Gipadala kami ni Allah ngadto sa usa ka lungsod kansang mga tawo mibiya sa kamatuoran",
+    "Duha kanamo ang una nga miabot, unya ang ikatulo miapil aron mapalig-on ang among misyon",
+    "Gisalikway kami sa mga taga-lungsod, nga nag-ingon nga kami mga tawo lamang sama kanila",
+    "Usa ka tawo gikan sa pinakalayong dapit sa siyudad ang midagan aron sa pagsulti sa mga tawo nga mosunod kanamo",
+    "Nangaliyupo kami kanila, apan gipatig-a nila ang ilang mga kasingkasing ug mitalikod batok kanamo",
+    "Sa usa ka makagun-ob nga singgit gikan sa langit, ang among tibuok siyudad nahilom"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang mga Mensahero sa Lungsod sa Surah Ya-Sin",
+        "Ang Hawwariyyun (Mga Disipulo ni Isa)",
+        "Ang mga Salamangkero sa Korte ni Paraon",
+        "Ang mga Kauban sa Adlawng Igpapahulay",
+        "Ang mga Tawo sa Elepante"
+      ],
+      "answer": "Ang mga Mensahero sa Lungsod sa Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gisalikway ug gitawag nga mga bakakon sa mga taga-lungsod",
+        "Nasunog nga buhi sa usa ka dako nga nagdilaab nga kalayo",
+        "Gitulon sa usa ka dakong isda sa lawom nga dagat",
+        "Napugos sa pagtrabaho sa pagtukod og habog nga haligi",
+        "Gisakit sa usa ka kanal sa nagdilaab nga kalayo"
+      ],
+      "answer": "Gisalikway ug gitawag nga mga bakakon sa mga taga-lungsod"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang karaang lungsod (al-Qaryah)",
+        "Usa ka dakong nagdilaab nga hudno",
+        "Ang tiyan sa usa ka dakong isda",
+        "Ang habog nga haligi nga makahikap sa langit",
+        "Ang sagrado nga Balay (Kaaba)"
+      ],
+      "answer": "Ang karaang lungsod (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang lungsod naguba sa usa ka makagun-ob nga singgit (Sayha)",
+        "Ang malupigon ug ang iyang kasundalohan nalumos sa nabahin nga dagat",
+        "Ang mga tawo nahimo nga mga unggoy ug mga unggoy",
+        "Usa ka ulan sa mga bato gikan sa langit ang nakaguba sa siyudad",
+        "Usa ka kusog nga baha ang mibanlas sa tibuok komunidad"
+      ],
+      "answer": "Ang lungsod naguba sa usa ka makagun-ob nga singgit (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

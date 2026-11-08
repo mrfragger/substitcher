@@ -1,0 +1,61 @@
+{
+  "title": "Kruna koja je izazvala nebo",
+  "intro": "U hodnicima drevnih kraljevstava, ime jednog vladara postalo je sinonim za tiraniju i aroganciju. Kada je ponizni Allahov sluga stigao noseći neosporne znakove, ovaj moćni vladar odbio je da se preda istini. Danas je vaš zadatak da identifikujete ovu legendarnu figuru čija se vlast raspala i čija je sudbina bila zapečaćena pod talasima.",
+  "clues": [
+    "Ja sam najstrašniji vladar čije ime još uvijek odjekuje kao upozorenje kroz vijekove.",
+    "Zapovjedio sam cijelom narodu da radi u lancima, podižući spomenike koji su veličali moju slavu.",
+    "Kada mi se Allahov Poslanik pojavio sa nepobitnim znakovima, odbio sam se pokloniti i nazvao sam to sihirom.",
+    "Naredio sam ubijanje novorođenčadi među zarobljenim narodom, nadajući se da ću im slomiti duh prije nego što se uzdignu.",
+    "Stao sam pred svoj dvor i izjavio: 'Ja sam vaš najviši gospodar', zahtijevajući obožavanje kao boga.",
+    "Sa svojim glavnim ministrom pored sebe, izgradio sam impozantnu građevinu s ciljem da se popne iznad nebesa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Faraon (Faraon)",
+        "Namrud",
+        "Haman",
+        "Ebu Lehab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraon (Faraon)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Utapanje u Crvenom moru",
+        "Kamila poslana narodu Semuda",
+        "Velika poplava Nuha",
+        "Kazna ashaba iz rova",
+        "Uništenje Abrahine vojske od strane ptica"
+      ],
+      "answer": "Utapanje u Crvenom moru"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Visoka građevina izgrađena s Hamanom",
+        "Barka koja je plovila po potopu",
+        "Zlatno tele koje su izradili Samiri",
+        "Prijestolje Bilkis, kraljice od Sabe",
+        "Pećina usnulih mladića"
+      ],
+      "answer": "Visoka građevina izgrađena s Hamanom"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Utopljen u moru; tijelo sačuvano kao upozorenje",
+        "Prognan i prisiljen lutati divljinom",
+        "Pretvoreni u majmune kao kaznu",
+        "Pogođen snažnim zemljotresom",
+        "Spaljen kišom kamenja s neba"
+      ],
+      "answer": "Utopljen u moru; tijelo sačuvano kao upozorenje"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

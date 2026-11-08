@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Abdii Kutachuu Dide",
+  "intro": "Maatii kasaaraan kasaaraa hordofu, ta’us sagalee tasgabbaa’aan tokko abdii kutannaa dide keessa tarkaanfadhu. Qur’aana keessatti waamichi tokko obsa gara jijjiiramaatti jijjiira; nama sagalee sana duuba jiruuf ragaalee hordofuu dandeessaa?",
+  "clues": [
+    "Mana eebbi balaadhaan qoramu keessatti sagalee obsaa ture.",
+    "Qabeenyaa fi ijoollee dhabuun mana duwwaa ta'e keessa hafe.",
+    "Hiriyyaa qaamni isaa dhiphate sanas dhukkubni akka rukute nan beeka ture.",
+    "Gaafa dhiphinni itti cimtu yaada Rabbiin iyye.",
+    "Ibsa tokko dhiheesse: Rabbiin Dhugaadha, kanaaf obsaa.",
+    "Ayyuub maqaan waame; sana booda Rabbiin rakkina buqqisee maatii deebisee."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Haadha manaa Nabi Ayyuub",
+        "Haadha manaa Nabi Nuh",
+        "Haadha warraa Nabi Ibraahim",
+        "Haadha manaa Nabi Ya'qub",
+        "Intala Fara'oon"
+      ],
+      "answer": "Haadha manaa Nabi Ayyuub"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Kasaaraa fi dhukkubaan Ayyuub waliin turuu, sana booda obsa waamuu",
+        "Ergamaa qajeelaan hawaasa malaammaltummaa qabu akka dhiisu akeekkachiisuu",
+        "Hidda dhaloota egeree akka dhalatuuf kadhachuu",
+        "Mana hidhaa mootii keessatti abjuu hiikuu",
+        "Mucaa imaanaa itti kenname laga cinaa argachuu"
+      ],
+      "answer": "Kasaaraa fi dhukkubaan Ayyuub waliin turuu, sana booda obsa waamuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Rabbiin Dhugaa ta’uu labsuun sabriin ni barbaachisa",
+        "Muka meexxii burqaa cinaa jiru",
+        "Waamicha doonii dalga irraa fagaate ijaaruuf",
+        "Abjuu urjii kudha tokkoo fi aduu baatu",
+        "Baaskitii tokko laga Abbayyaatti baatame"
+      ],
+      "answer": "Rabbiin Dhugaa ta’uu labsuun sabriin ni barbaachisa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Rakkinni Ayyuub irraa buqqa'ee maatiin isaa deebi'e",
+        "Mucaan yeroo dheeraaf eegamaa ture kadhannaa dhala hin qabne booda kennameef",
+        "Bulchaan dargaggeessi tokko waggoota torba baay’inaafi hanqina hiikee ture",
+        "Daa'imni imaanaa itti kenname tokko bishaan yaa'u irraa baraarameera",
+        "Akeekkachiisni lolaa badiisaa dura ture"
+      ],
+      "answer": "Rakkinni Ayyuub irraa buqqa'ee maatiin isaa deebi'e"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

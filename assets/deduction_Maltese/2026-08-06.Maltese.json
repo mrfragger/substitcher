@@ -1,0 +1,61 @@
+{
+  "title": "Ir-Ruħ Għassiera ħdejn ix-Xatt tax-Xmara",
+  "intro": "Ruħ żagħżugħa ġiet fdata b'missjoni sigrieta, biex tosserva minn distanza sigura kif id-destin jiżvolġi fuq l-ilmijiet. Moħbija u mhux issuspettata, din il-figura kellha rwol kruċjali fit-tibdil tal-kors tal-istorja ta' nazzjon.",
+  "clues": [
+    "Ommi tatni kompitu, wieħed li kien jeħtieġ stmerrija u viġilanza.",
+    "Għajnejja segwew benniena żgħira tittajjar mal-kurrent, qalbi tqila bl-inkwiet.",
+    "Meta sabuha xi ħadd mhux mistenni, ersaqt qrib, mimli bi tħassib.",
+    "Rajt id-disperazzjoni tagħhom għal min jieħu ħsiebhom u offrejt soluzzjoni mingħajr ma żvelajt il-verità.",
+    "L-intervent f'waqtu tiegħi ġab ruħ li kienet qed tirrestawra lura għand min kellu bżonnu l-aktar.",
+    "Fil-qrati tal-qawwija, jien tkellimt: 'Għandi nidderieġik lejn familja li trabbih u tieħu ħsiebu b'attenzjoni?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Oħt Musa",
+        "Omm Musa",
+        "Mart il-Fargħun",
+        "Qabla",
+        "Bint Shu'aib"
+      ],
+      "answer": "Oħt Musa"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "It-tfigħ ta’ tifel fix-xmara",
+        "Il-firda tal-baħar",
+        "Il-ħruq tal-għoġol",
+        "Il-bini tal-arka",
+        "Il-pesta tal-ġurati"
+      ],
+      "answer": "It-tfigħ ta’ tifel fix-xmara"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Ix-xmara",
+        "Id-deżert",
+        "Il-muntanja",
+        "Il-palazz",
+        "In-nar"
+      ],
+      "answer": "Ix-xmara"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Hija reġgħet ġabret lit-tifel ma’ ommu",
+        "Hi salvat lilha nfisha mis-suldati tal-Fargħun",
+        "Hija saret reġina",
+        "Hija ġiet ikkastigata talli spjunat",
+        "Hija mexxiet lill-Iżraeljani"
+      ],
+      "answer": "Hija reġgħet ġabret lit-tifel ma’ ommu"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

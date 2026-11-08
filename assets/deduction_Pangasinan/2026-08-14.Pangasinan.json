@@ -1,0 +1,61 @@
+{
+  "title": "Saray Insumpan Lima",
+  "intro": "Manalalagey ka ed saray mankukurongkurong ya eskinita na kadaanan a Makkah, a ditan et say sakey a kamarerwan walaan na impluensya tan kayamanan so aminsan ya inmarawi ed tawag na katuaan. Say istorya na sayan pigura et sakey a mabitabitar a panonot ya saray siglaotan na dala et agmakatalona ed saray kadena na inkamapaatagey. Siopa yan sakey ya say ngaran to et onkukurang ed apoy ya manaalagar?",
+  "clues": [
+    "Nanakar ak ed saray karsada na Makkah tekep na inkamapaatagey ya amabulag ed siak ed katuaan, anggaman say mensahero et nanlapud dilin dala ko.",
+    "Dakel so kayaryan ko, balet nagmaliw iran samba imbes ya kalasag.",
+    "Say libro na panangigiya et mansasalita nipaakar ed inkaderal ko, ya iyaabawag to ya saray limak tan say inkatoo ko et naandi.",
+    "Say asawak so akibiang ed kampanyak na panagbusol, a mantitipon na saray sabisabit pian ikayat ed dalan na samay tinmawag ed si Allah.",
+    "Diad agew na panangukom, siak so ipelag ed apoy a manliob, tan say asawak et walay lubir a gawad lanot na palma ed beklew to.",
+    "Kabkabat ak ed ngaran ya mankabaliksan na 'ama na ngalab' — sakey a ngaran ya mangipapasakbay na andi-anggaan a panaayaman ko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Manunan Subok o Evento",
+      "options": [
+        "Sinmumpa ed Propeta tan sinumpa ed Quran",
+        "Angidaulo na armada pian deralen so Kaaba",
+        "Sinali ton pateyen so Propeta diad impangibantak to na bato",
+        "Agto labay so manisia ed inkaapag na bulan",
+        "Nanggawa na tori pian makasabi ed tawen"
+      ],
+      "answer": "Sinmumpa ed Propeta tan sinumpa ed Quran"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say manliob ya Apoy na Impierno",
+        "Say Staff nen Musa",
+        "Say Kaban nen Nuh",
+        "Say Bobon na Zamzam",
+        "Say Balitok a Baka"
+      ],
+      "answer": "Say manliob ya Apoy na Impierno"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Sikatoy onloob ed manliob ya Apoy, tan say kayamanan to et ag to nausar",
+        "Sikatoy nagbabawi tan nagmaliw a mananisia",
+        "Sikatoy aperdona kayari na impanbabawi to",
+        "Inatey bilang martir",
+        "Sikatoy intagey ed tawen"
+      ],
+      "answer": "Sikatoy onloob ed manliob ya Apoy, tan say kayamanan to et ag to nausar"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

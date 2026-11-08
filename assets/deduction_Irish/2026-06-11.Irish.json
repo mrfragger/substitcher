@@ -1,0 +1,61 @@
+{
+  "title": "An Sráidbhaile ar Chladach na Trialach",
+  "intro": "Bíonn tú i sráidbhaile cois cósta, áit a meascann fuaim na dtonnta le cogarnaigh mhuintire dearmadta. Tugadh ordú scíthe dóibh, ach mar thoradh ar a sannt, cuireadh pionós orthu a labhraítear faoi i nguth ciúin fós. An féidir leat a fháil amach cé hiad?",
+  "clues": [
+    "Bhí cónaí orainn cois cladaigh agus tugadh ordú dúinn lá scíthe a choinneáil.",
+    "Ar an lá sin, thiocfadh iasc chugainn go flúirseach, ach bhí cosc ​​orainn iad a thógáil.",
+    "Thug cuid againn rabhadh i gcoinne sárú, ach chomhcheilg daoine eile le bheith ag iascaireacht ar aon nós.",
+    "Sháraíomar an t-ordú naofa agus thugamar pionós dian orainn féin.",
+    "Claochlú a bhí inár bpionós a d’fhág sinn míchruthach agus náirithe.",
+    "Rinneadh apaí dínn, comhartha do chách a thiocfadh ina dhiaidh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir na Sabóide",
+        "Muintir Thamud",
+        "Muintir 'Ad",
+        "Muintir na hUaimhe",
+        "Muintir an Eilifint"
+      ],
+      "answer": "Muintir na Sabóide"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Iascaireacht ar an tSabóid",
+        "Ag adhradh lao órga",
+        "Ag diúltú teachtaireacht Hud",
+        "Ag marú an chamaill baineann",
+        "Ag tógáil túir go dtí na bhflaitheas"
+      ],
+      "answer": "Iascaireacht ar an tSabóid"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An t-iasc",
+        "Camall baineann",
+        "Foireann",
+        "Bád",
+        "Gairdín"
+      ],
+      "answer": "An t-iasc"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Iompú ina n-apaí",
+        "Scriosta ag tuile",
+        "Scriosta ag tine lasrach",
+        "Slogtha ag an talamh",
+        "Scaipthe ag gaoth"
+      ],
+      "answer": "Iompú ina n-apaí"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

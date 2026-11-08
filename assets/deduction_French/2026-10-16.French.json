@@ -1,0 +1,61 @@
+{
+  "title": "La communauté qui a défié le jour de repos",
+  "intro": "Pénétrez dans un village côtier où un commandement divin a décrété un jour de recueillement et de respect. Un groupe au sein de cette communauté a choisi de transgresser ce commandement par un plan astucieux, engendrant une transformation dont les répercussions se feraient sentir à travers les âges. Qui étaient ces âmes, et quel fut leur destin ?",
+  "clues": [
+    "Nous vivions près de la côte, où la mer nous assurait nos moyens de subsistance.",
+    "Il nous a été ordonné d'honorer un jour de la semaine, en le mettant à part des préoccupations mondaines.",
+    "Ce jour-là, les poissons sont venus à nous en grand nombre, comme pour nous tenter de désobéir aux ordres.",
+    "Nous avons mis au point un plan pour piéger les poissons la veille du jour sacré, puis les récupérer une fois celui-ci passé.",
+    "Lorsque certains d'entre nous nous ont mis en garde contre cette tromperie, nous avons ignoré leurs conseils et persisté.",
+    "Pour notre transgression, nous avons été transformés en singes, méprisés et rejetés."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le peuple du sabbat",
+        "Les gens du fossé",
+        "Le peuple des bois",
+        "Les gens du jardin",
+        "Le peuple de l'éléphant"
+      ],
+      "answer": "Le peuple du sabbat"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Pêcher le jour du sabbat",
+        "Construire une tour imposante",
+        "Tuer une chamelle sacrée",
+        "Ils renient un prophète qui leur a été envoyé",
+        "Transgression des poids commerciaux"
+      ],
+      "answer": "Pêcher le jour du sabbat"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La mer et ses poissons",
+        "Le feu qui a été refroidi",
+        "Le bâton qui se transforma en serpent",
+        "L'arche du salut",
+        "Les tablettes de pierre"
+      ],
+      "answer": "La mer et ses poissons"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Transformés en singes",
+        "Englouti par la terre",
+        "Détruit par un vent violent",
+        "Noyé dans la mer",
+        "Frappé par une pluie de pierres"
+      ],
+      "answer": "Transformés en singes"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

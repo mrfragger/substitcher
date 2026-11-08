@@ -1,0 +1,61 @@
+{
+  "title": "qorong'uda tog'larning kuyi",
+  "intro": "Allohning tanlangan bandasi bilan birga vodiylarning hamdu sanolar bilan aks-sadosini tinglang. Musiqa bilan to'ldirilgan ovoz, xonada bahslashuvchilar izlagan hukm va ilohiy amr bilan yumshatilgan metall kashfiyotni kutmoqda. Bu alomatlar orqali qaysi ibodat va adolatli hukmronlik timsoli gapiradi?",
+  "clues": [
+    "Alloh menga ne'mat va ohangdor hamdu sano ovozi ato etdi.",
+    "Menga Alloh tomonidan tortishuvchilar o'rtasidagi adolatli hukm tilini tushunish o'rgatilgan.",
+    "Men jangda ulkan bir jangchiga duch keldim va Allohning izni bilan ular ustidan g'alaba qozondim.",
+    "Menga Allohdan donolik, hokimiyat va Zaburlar kitobi berildi.",
+    "Kechqurun va quyosh chiqqanda men bilan birga Allohni tasbih aytish uchun tog'lar va qushlar ham menga qo'shilishdi.",
+    "Menga Alloh tomonidan yumshoq temirdan sovut yasashni o'rgatdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Dovud (alayhissalom)",
+        "Payg'ambar Ismoil (Ismoil)",
+        "Yahyo payg'ambar (Yuhanno)",
+        "Zul-Kifl",
+        "Payg'ambar Al-Yasa (Elishay)"
+      ],
+      "answer": "Payg'ambar Dovud (alayhissalom)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Allohning irodasi bilan Jalut (Goliat)ni jangda mag'lub etdi",
+        "Buyuk to'fondan omon qolish uchun kema qurdi",
+        "Alloh sovitgan olovga tashlandi",
+        "Dengizda ulkan baliq tomonidan yutib yuborildi",
+        "O'limni tatib ko'rmasdan osmonga ko'tarildi"
+      ],
+      "answer": "Allohning irodasi bilan Jalut (Goliat)ni jangda mag'lub etdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tog'lar va qushlar Allohni ulug'lash uchun birlashmoqdalar",
+        "Ilonga aylangan tayoq",
+        "Salqin va osoyishta bo'lib qolgan olov",
+        "Odamlarga oyat-mo''jiza sifatida yuborilgan urg'ochi tuya",
+        "Judi tog'ida turgan yog'och kema"
+      ],
+      "answer": "Tog'lar va qushlar Allohni ulug'lash uchun birlashmoqdalar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Shohlik, donolik va Zabur (Zabur) berilgan.",
+        "Qattiq ibodatdan keyin qarilikda o'g'il berildi",
+        "G'orda ko'p yillar davomida xavfsizlik ta'minlandi",
+        "Cho'lda Zamzam bulog'i berilgan",
+        "Armiyaning dengizda cho'kib ketishiga ruxsat berildi"
+      ],
+      "answer": "Shohlik, donolik va Zabur (Zabur) berilgan."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

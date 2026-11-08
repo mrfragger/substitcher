@@ -1,0 +1,61 @@
+{
+  "title": "Leinajate valvamine",
+  "intro": "Sa oled kohtumas hingega, keda on proovile pannud sügavaim lahusolek, kelle silmad tundsid pisarate keelt, kuid kelle süda ei kaotanud kunagi lootust. Pettuse, igatsuse ja lõpuks taasühinemise loos sai sellest üllast Allahi teenerist igavese kannatlikkuse sümbol. Kes pidas vastu varjatud valu aastatele, et siis üheainsa hetkega nägemine ja rõõm taastuksid?",
+  "clues": [
+    "Ma olen prohvet, kelle nimi sai suure kaotusega silmitsi seistes kannatlikkuse sümboliks.",
+    "Mind õnnistati paljude poegadega, aga ühe võttis minult teiste kadedus.",
+    "Mu armastus selle kadunud inimese vastu oli nii sügav, et mu silmad läksid leinast valgeks, ometi ma ei kurtnud kunagi muule kui Allahile.",
+    "Saatsin oma pojad tagasi otsima seda, kelle olin kaotanud, ja tema venda, innustades neid lootust mitte kaotama.",
+    "Kui heade uudiste tooja saabus, heideti mulle näole särk ja äkki muutus maailm jälle selgeks.",
+    "Mind tuntakse Iisraelina ja minu kaheteistkümnest pojast põlvnevad suure rahva kaksteist suguharu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ya'qub (Jaakob)",
+        "Prohvet Yusuf (Joosep)",
+        "Prohvet Iisak (Iisak)",
+        "Prohvet Ibrahim (Aabraham)",
+        "Prohvet Ayyub (Iiob)"
+      ],
+      "answer": "Prohvet Ya'qub (Jaakob)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Eraldatus armastatud pojast paljude aastate jooksul",
+        "Lõõmavasse tulle visatud",
+        "Suur kala neelas alla",
+        "Kannatanud raske nahahaiguse all",
+        "Lapsetu olemine kuni vanaduseni"
+      ],
+      "answer": "Eraldatus armastatud pojast paljude aastate jooksul"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Yusufi särk",
+        "Musa personal",
+        "Nuh' laev",
+        "Salihi emane kaamel",
+        "Sulaymani ring"
+      ],
+      "answer": "Yusufi särk"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Nägemine taastatud ja taasühinenud oma pojaga",
+        "Saavutas võidu türannist kuninga üle",
+        "Elusalt taevasse tõstetud",
+        "Määrati Egiptuse valitsejaks",
+        "Vanas eas poja imekombel sündis"
+      ],
+      "answer": "Nägemine taastatud ja taasühinenud oma pojaga"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

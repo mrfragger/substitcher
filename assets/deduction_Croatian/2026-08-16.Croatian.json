@@ -1,0 +1,61 @@
+{
+  "title": "Tihi glas u dvorani",
+  "intro": "Molitva je odjekivala u tišini svete odaje davno, izranjajući iz ostarjele duše koja je čeznula za onim što je svijet proglasio nemogućim. Ova osoba, poodmakla i opterećena brigom za budućnost, okrenula se svom Gospodinu s osobnom molbom. Ono što je uslijedilo bio je božanski odgovor koji je prkosio svakom prirodnom očekivanju - svjedočanstvo milosrđa Onoga koji odgovara na očajnički poziv.",
+  "clues": [
+    "Prizvao sam svog Gospodina u privatnosti, povlačeći se u odaju gdje sam se posvetio Njegovom štovanju.",
+    "Priznao sam svom Gospodaru da se bojim za one koji će doći poslije mene, brinuo sam se za uputu svog naroda kada odem.",
+    "Starost me je sustigla - kosti su mi oslabile, a bijela kosa proširila se po glavi.",
+    "Moja supruga je bila neplodna cijeli svoj život, a ipak sam molio svog Gospodina da mi podari nasljednika iz Njegove vlastite prisutnosti.",
+    "Zatražio sam znak, a moj Gospodar mi je odgovorio tako što mi je tri noći zabranio razgovor s bilo kim, dok sam ostao fizički zdrav.",
+    "Obećan mi je sin čije će ime biti Jahja, ime za koje je moj Gospodar rekao da nikome prije nije dano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Zakarija",
+        "Poslanik Nuh",
+        "Poslanik Musa",
+        "Poslanik Jusuf",
+        "Poslanik Davud"
+      ],
+      "answer": "Poslanik Zakarija"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Molitva za nasljednika u starosti s neplodnim supružnikom",
+        "Biti bačen u plamteću vatru",
+        "Biti progutan od strane velike ribe u tami",
+        "Podnošenje gubitka obitelji, bogatstva i zdravlja",
+        "Dobio je zapovijed da izgradi veliku arku"
+      ],
+      "answer": "Molitva za nasljednika u starosti s neplodnim supružnikom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Molitvena komora (mihrab)",
+        "Štap koji se pretvorio u zmiju",
+        "Velika drvena arka",
+        "Vrt s jedinstvenim izvorom",
+        "Planina gdje se okupljaju ptice"
+      ],
+      "answer": "Molitvena komora (mihrab)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dobio čudesno ime sina unatoč ekstremnoj starosti",
+        "Spašen od plamteće vatre božanskom zapovijedi",
+        "Velika poplava uništila je nevjernike",
+        "Vraćen obitelji, bogatstvu i zdravlju nakon strpljenja",
+        "Faraon i njegova vojska utopili su se u moru"
+      ],
+      "answer": "Dobio čudesno ime sina unatoč ekstremnoj starosti"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

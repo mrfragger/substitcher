@@ -1,0 +1,61 @@
+{
+  "title": "Antik Vadinin Taş Oymacıları",
+  "intro": "Arabistan'ın kayalık vadilerinde yükselen, dağ yamaçlarına muhteşem evler oymakta ustalaşmış bir medeniyet hayal edin. Güç ve sanatla geliştiler, ancak hikayeleri ilahi uyarıya karşı ürpertici bir meydan okumayla damgalandı. Hikayelerinin derinliklerine indikçe, kibirleri tamamen yok olmalarına yol açan bir halkı keşfedeceksiniz. Kimdiler onlar?",
+  "clues": [
+    "Kayalık ovalar ve yükselen uçurumlarla dolu bir toprak miras aldık ve burada eşsiz bir beceriyle konutlarımızı inşa ettik.",
+    "Dağların içine oyduğumuz güvenli evler ile tanınıyorduk ve kendimizi her türlü zarardan güvende hissediyorduk.",
+    "Kendi aramızdan bir elçi geldi ve bize Allah'ın nimetlerini hatırlatarak azaptan uyardı.",
+    "Biz bir işaret istedik ve kayadan mucizevi bir dişi deve çıktı; bu, Allah'tan açık bir imtihandıydı.",
+    "Uyarıyı hiçe saydık ve dişi devenin bacaklarını kestik, elçiyi alaya aldık ve cezaya meydan okuduk.",
+    "Evlerimizde tek bir patlama bizi vurdu ve sabahleyin sanki hiç orada yaşamamışız gibi yere serilmiş halde yatıyorduk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Thamud Halkı",
+        "'Ad' halkı",
+        "Madyan halkı",
+        "Nuh Halkı",
+        "Lut halkı"
+      ],
+      "answer": "Thamud Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Dişi devenin sakatlığı",
+        "Şabat gününü ihlal etti",
+        "Altın buzağıya tapındılar.",
+        "Kendilerine gönderilen peygamberi öldürdüler.",
+        "Gökyüzüne ulaşmak için bir kule inşa edildi."
+      ],
+      "answer": "Dişi devenin sakatlığı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Dişi deve",
+        "Nuh'un Gemisi",
+        "Personel",
+        "Beyaz el",
+        "Mana ve bıldırcınlar"
+      ],
+      "answer": "Dişi deve"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bir patlama sonucu yok oldu.",
+        "Yıkımdan kurtarıldı",
+        "Maymunlara dönüştüler",
+        "Denizde boğuldu",
+        "Toprak tarafından yutuldu"
+      ],
+      "answer": "Bir patlama sonucu yok oldu."
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

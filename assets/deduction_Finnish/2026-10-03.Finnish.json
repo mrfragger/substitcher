@@ -1,0 +1,61 @@
+{
+  "title": "Valvonta liekehtivällä portilla",
+  "intro": "Hiljainen, pelottava joukko seisoo vartiossa pelottavan kynnyksen luona, maistamatta ruokaa, juomaa tai lepoa. Ihmissavesta poikkeavasta aineesta muovattuina he odottavat yhtä ainoaa kauhistuttavaa tarkoitusta – eivätkä he ole koskaan rikkoneet yhtäkään Herransa käskyä.",
+  "clues": [
+    "Olemme olentoja, jotka eivät ole ihmisiä, luotuja aineesta, joka ei syö, juo eikä väsy.",
+    "Tarkka lukumäärämme tiedetään ja se on ilmoitettu Kirjassa – emme ole lukemattomia emmekä suuri joukko.",
+    "Emme ole koskaan olleet tottelemattomia Luojaamme kohtaan emmekä koskaan puhu ennen kuin meitä on käsketty.",
+    "Kun tuo päivä koittaa, uskottomat ajetaan luoksemme ryhmissä, ja me avaamme heille portit.",
+    "Me kysymme heiltä: »Eivätkö luoksenne tulleet sanansaattajat omasta kaltaisestanne varoittamaan teitä tästä päivästä?»",
+    "Me vartioimme paikkaa, josta yksikään sielu ei koskaan poistu – ikuisen rangaistuksen hehkuvaa valtakuntaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Helvetin tulen vartijat (Zabaniyah)",
+        "Allahin valtaistuimen kantajat",
+        "The Recording Angels (Kiraman Katibin)",
+        "Kuoleman enkelit",
+        "Paratiisin portinvartijat"
+      ],
+      "answer": "Helvetin tulen vartijat (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Ensisijainen velvollisuutemme",
+      "options": [
+        "Helvetin tulen porttien vartiointi",
+        "Jokaisen ihmisen teon tallentaminen",
+        "Allahin valtaistuimen kantaminen",
+        "Kuolleiden sielujen ottaminen",
+        "Tuulten ja pilvien komentaminen"
+      ],
+      "answer": "Helvetin tulen porttien vartiointi"
+    },
+    "location": {
+      "label": "Mitä me vartioimme?",
+      "options": [
+        "Helvetin tuli",
+        "Allahin valtaistuin",
+        "Tekojen kääröt",
+        "Paratiisin joet",
+        "Maan vuoret"
+      ],
+      "answer": "Helvetin tuli"
+    },
+    "outcome": {
+      "label": "Alueemme ihmisten kohtalo",
+      "options": [
+        "Ne pysyvät ikuisesti eivätkä koskaan lähde pois",
+        "Lopulta heidät armahdetaan ja heidät vapautetaan",
+        "Ne puhdistuvat ajan myötä",
+        "Ne muuttuvat toisiin muotoihin",
+        "Ne vuorottelevat helvetin ja paratiisin välillä"
+      ],
+      "answer": "Ne pysyvät ikuisesti eivätkä koskaan lähde pois"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

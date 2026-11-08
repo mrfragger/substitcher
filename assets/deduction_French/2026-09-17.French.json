@@ -1,0 +1,61 @@
+{
+  "title": "À l'ombre du palmier dattier",
+  "intro": "L'histoire se dévoile d'une âme mise à part avant même sa naissance, nourrie entre des murs sacrés et choisie pour porter un signe que le monde n'avait jamais vu. Alors que les accusations fusaient de toutes parts, une voix s'éleva du lieu le plus inattendu pour faire taire tous les doutes. Saurez-vous découvrir qui rôdait à l'ombre du palmier dattier ?",
+  "clues": [
+    "J'étais voué au service du Tout-Puissant avant même de respirer, un vœu fait par celui qui m'a porté.",
+    "J'ai grandi sous la protection bienveillante d'un gardien vertueux, dans les chambres sacrées d'un lieu de culte.",
+    "Chaque fois que mon tuteur venait dans ma chambre, il y trouvait des provisions de saisons qui n'auraient pas dû l'être.",
+    "J'ai reçu la bonne nouvelle de la naissance d'un fils, mais ma situation ne me permettait pas de réaliser ce qui m'avait été promis.",
+    "Je me suis retiré dans un lieu isolé, et là un palmier dattier m'offrait son ombre tandis qu'un ruisseau coulait en contrebas.",
+    "Quand les accusations ont fusé et que les questions m'ont assaillie, j'ai désigné mon nouveau-né — et il a parlé depuis son berceau pour faire taire tous les doutes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Marie",
+        "Sarah",
+        "Hawwa",
+        "Umm Musa",
+        "La femme de Noé"
+      ],
+      "answer": "Marie"
+    },
+    "trial": {
+      "label": "Essai / Événement",
+      "options": [
+        "Accoucher d'un fils miraculeux en solitaire",
+        "Être jetés dans un brasier par des idolâtres",
+        "Survivre au grand déluge avec quelques élus",
+        "Séparé d'un nourrisson jeté dans la rivière",
+        "Affronter le puissant souverain d'Égypte"
+      ],
+      "answer": "Accoucher d'un fils miraculeux en solitaire"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un palmier dattier et un ruisseau qui coule en dessous.",
+        "Une arche majestueuse sur des vagues gigantesques",
+        "Un bâton qui a fendu une grande mer en deux",
+        "Un feu ardent destiné à consumer une âme fidèle",
+        "Un trône doré orné de pierres précieuses"
+      ],
+      "answer": "Un palmier dattier et un ruisseau qui coule en dessous."
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Honorée comme la plus exaltée de toutes les femmes",
+        "Retrouvailles avec un enfant adoré après une longue séparation",
+        "Il a libéré toute une nation du joug d'un tyran.",
+        "Il a mis en garde un peuple perdu dans l'immoralité",
+        "Domination accordée sur les djinns, les hommes et les vents"
+      ],
+      "answer": "Honorée comme la plus exaltée de toutes les femmes"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Somnul dincolo de timp",
+  "intro": "Imaginați-vă o vreme în care adevărul era redus la tăcere, iar credincioșii erau vânați. Un mic grup a ales retragerea în locul predării, găsind refugiu în cel mai improbabil loc - un loc care avea să devină locul lor de odihnă timp de secole nenumărate. Când s-au trezit în sfârșit, lumea se transformase în jurul lor. Cine sunt aceste suflete adormite?",
+  "clues": [
+    "Eram tineri care trăiau într-un oraș antic.",
+    "Comunitatea noastră a cerut să ne închinăm alături de ei, dar am refuzat.",
+    "Am fugit din oraș în căutarea unui refugiu de la cei care se opuneau convingerilor noastre.",
+    "Un companion patruped loial a stat la intrarea în ascunzătoarea noastră.",
+    "Allah ne-a făcut să adormim timp de trei sute nouă ani.",
+    "Când ne-am trezit în sfârșit, orașul nostru, odinioară persecutor, îmbrățișase credința."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Ashab al-Kahf (Oamenii Peșterii)",
+        "Ashab al-Fil (Armata Elefantului)",
+        "Ashab al-Ukhdud (Tovarășii Tranșeei)",
+        "Hawariyyun (Ucenicii lui Isa)",
+        "Yajuj wa Majuj (Gog și Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Oamenii Peșterii)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ne-am retras într-o peșteră și am dormit secole",
+        "Am fost salvați de un foc arzător",
+        "Am fost înghițiți de un pește mare",
+        "Am fost testați cu o cămilă miraculoasă",
+        "Ni s-au dat nouă semne clare"
+      ],
+      "answer": "Ne-am retras într-o peșteră și am dormit secole"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O peșteră adâncă în munți",
+        "O barcă în largul mării",
+        "O structură impunătoare care atinge cerurile",
+        "O grădină împărțită între doi rivali",
+        "O barieră de fier și cupru"
+      ],
+      "answer": "O peșteră adâncă în munți"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Ne-am trezit și am descoperit că orașul nostru se întorsese la credință",
+        "Un foc arzător a devenit răcoros și pașnic",
+        "O armată inamică s-a înecat în mare",
+        "Păsările care cărau pietre au distrus dușmanul",
+        "Un pește mare ne-a eliberat pe țărm"
+      ],
+      "answer": "Ne-am trezit și am descoperit că orașul nostru se întorsese la credință"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

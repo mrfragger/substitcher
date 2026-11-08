@@ -1,0 +1,61 @@
+{
+  "title": "Vatreni protivnik",
+  "intro": "U ranim danima objave, pojavila se jedna osoba kao tvrdoglavi protivnik istine. Blagoslovljena bogatstvom i statusom, ova duša je izabrala ponos umjesto smjernica, a njihova priča postala je oštro upozorenje u posljednjim ajetima sure.",
+  "clues": [
+    "Živio sam u istom gradu kao i Poslanik i bio sam mu među najbližim srodnicima, ali me je ponos držao podalje od istine.",
+    "Posjedovao sam veliko bogatstvo i brojnu imovinu, i mislio sam da će me moji resursi uvijek štititi.",
+    "Kada je poruka objavljena, javno sam joj se rugao i okrenuo se, smatrajući se superiornijim od vjernika.",
+    "Moje neprijateljstvo je bilo toliko poznato da mi se jedna sura iz Kur'ana direktno obraćala, nazivajući me imenom kojim su me drugi poznavali.",
+    "Upozoren sam da mi moje bogatstvo i moja zarada neće biti od koristi i da ću biti bačen u plamteću vatru.",
+    "Poznat sam kao otac plamena, a moja žena će nositi drva za ogrjev s užetom od palminih vlakana oko vrata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ebu Lehab",
+        "Ebu Džehl",
+        "Ebu Sufjan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Ebu Lehab"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Odbacio islam i otvoreno se protivio Poslaniku",
+        "Planirao je atentat na Poslanika",
+        "Predvodio je društveni bojkot protiv muslimana",
+        "Borio se u bici kod Badra",
+        "Mučeni Bilal ibn Rabah"
+      ],
+      "answer": "Odbacio islam i otvoreno se protivio Poslaniku"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Uže od palminih vlakana",
+        "Oštar mač",
+        "Teški lanac",
+        "Drveni štap",
+        "Kožni bič"
+      ],
+      "answer": "Uže od palminih vlakana"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Gorjet će u plamtećoj vatri",
+        "Pokajao se i postao pratilac",
+        "Izgubio je bogatstvo, ali je umro časno",
+        "Pobjegao u Abesiniju",
+        "Utopljen u moru"
+      ],
+      "answer": "Gorjet će u plamtećoj vatri"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

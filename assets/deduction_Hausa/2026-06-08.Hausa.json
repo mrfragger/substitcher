@@ -1,0 +1,61 @@
+{
+  "title": "Mai Roƙon Wuri Mai Tsarki",
+  "intro": "A cikin dare mai natsuwa, wata rai mai tsarki ta yi kira ga Mai rahama a cikin ganuwar alfarma ta wani wuri mai tsarki. Shekaru na imani da haƙuri marasa ƙarfi za a ba su lada da mu'ujiza da za ta kawo farin ciki da gadon annabci.",
+  "clues": [
+    "Na yi kwana da dare ina ibada a cikin wani wuri mai tsarki, ina addu'a ga Ubangijina koyaushe.",
+    "Na tsufa, kuma matata bakararriya ce, amma ban taɓa rasa bege ga rahamar Allah ba.",
+    "An ba ni ɗa, mai suna Yahaya, wanda ya zama annabi kuma fitilar adalci.",
+    "Ni da kaina annabi ne, an aiko ni don in shiryar da Bani Isra'ila.",
+    "Ni zuriyar Annabi Haruna ce kuma na yi hidima a matsayin firist a Haikali.",
+    "An ba ni amanar kula da Maryamu, mahaifiyar Isa, kuma na shaida mu'ujizarta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Zakariyya",
+        "Annabi Yahaya",
+        "Annabi Ilyas",
+        "Annabi Ishak",
+        "Annabi Ya'qub"
+      ],
+      "answer": "Annabi Zakariyya"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ya ba wa ɗa a tsufa",
+        "An cece shi daga wuta mai ci",
+        "An cece shi daga cikin kifi",
+        "Na tsira daga ambaliyar ruwa mai girma",
+        "An warkar da wata cuta mai tsanani"
+      ],
+      "answer": "Ya ba wa ɗa a tsufa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Mihrab (wurin yin addu'a)",
+        "Ka'aba",
+        "Dajin da ke Konewa",
+        "Akwatin Alkawari",
+        "Kogon Masu Barci Bakwai"
+      ],
+      "answer": "Mihrab (wurin yin addu'a)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba shi ɗa nagari wanda ya zama annabi",
+        "An halaka ta da guguwa mai ƙarfi",
+        "An nutsar da shi cikin teku",
+        "An kuɓutar da shi daga ƙonewa",
+        "Sun koma ga mutanensu bayan an cece su daga kifi"
+      ],
+      "answer": "An ba shi ɗa nagari wanda ya zama annabi"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

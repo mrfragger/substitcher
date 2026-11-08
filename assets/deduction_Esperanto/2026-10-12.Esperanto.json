@@ -1,0 +1,61 @@
+{
+  "title": "La Ĵuro de la Nenaskitoj",
+  "intro": "Sincera animo faris sanktan promeson antaŭ la alveno de infano. La rakonto de ĉi tiu figuro disvolviĝas ene de la muroj de sanktejo, kie sindonemo renkontas dian akcepton. Kiu estas ĉi tiu servisto de Alaho?",
+  "clues": [
+    "Mi apartenis al familio honorata en la Korano.",
+    "Mi faris solenan ĵuron dediĉi mian nenaskitan infanon al la servo de Alaho.",
+    "Kiam mi naskis, mi estis surprizita trovi, ke ĝi estis filino, kvankam mi atendis filon.",
+    "Mi nomis mian infanon Maryam, nomo reflektanta sindonemon kaj servon.",
+    "Mi petis la protekton de Alaho por mia infano kaj ŝiaj posteuloj kontraŭ la malbenita Satano.",
+    "Mia infano estis akceptita de la Sinjoro kaj metita sub la zorgon de la profeto Zeĥarja en la sanktejo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La edzino de Imran (Patrino de Maryam)",
+        "Asiya, edzino de Faraono",
+        "Mariam, patrino de Isa",
+        "La patrino de la profeto Moŝa",
+        "La Reĝino de Ŝeba"
+      ],
+      "answer": "La edzino de Imran (Patrino de Maryam)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Ĵurante dediĉi ŝian infanon al la templo",
+        "Esti ĵetita en fajron",
+        "Transirante la maron sur seka tero",
+        "Konstruante grandan arkeon",
+        "Estante englutita de granda fiŝo"
+      ],
+      "answer": "Ĵurante dediĉi ŝian infanon al la templo"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La rifuĝejo (mihrab) kie ŝia infano estis metita",
+        "La kesto de la interligo",
+        "La ora bovido",
+        "La bastono kiu fariĝis serpento",
+        "La daktilujo sub kiu ŝi ripozis"
+      ],
+      "answer": "La rifuĝejo (mihrab) kie ŝia infano estis metita"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ŝia infano estis akceptita kaj metita sub la zorgon de la profeto Zeĥarja.",
+        "Ŝi estis savita de la puno de tirano",
+        "Ŝi ricevis filon nomitan Yahya",
+        "Ŝia popolo estis detruita de ŝtormo",
+        "Ŝi fariĝis reĝino super granda regno"
+      ],
+      "answer": "Ŝia infano estis akceptita kaj metita sub la zorgon de la profeto Zeĥarja."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

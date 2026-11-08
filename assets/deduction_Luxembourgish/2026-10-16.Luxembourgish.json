@@ -1,0 +1,61 @@
+{
+  "title": "D'Gemeinschaft, déi dem Roudag trotzgehalen huet",
+  "intro": "Trëtt an eng Küstesiedlung eran, wou e göttleche Kommando een Dag fir Gottesdéngscht a Restriktioun reservéiert huet. Eng Grupp an dëser Gemeinschaft huet decidéiert, d'Grenze vun dësem Kommando mat engem lëstege Plang ze testen, wat zu enger Transformatioun gefouert huet, déi duerch d'Jore géif widderhallen. Wien waren dës Séilen, a wat ass aus hinne ginn?",
+  "clues": [
+    "Mir hunn no bei der Küst gewunnt, wou d'Mier eisen Ënnerhalt geliwwert huet.",
+    "Mir goufe gebueden, een Dag vun der Woch ze respektéieren an en vun weltleche Bestriewungen ofzesetzen.",
+    "Un deem Dag koumen d'Fësch a grousser Zuel bei eis, wéi wann se eis géife verlocken, de Kommando ze briechen.",
+    "Mir hunn e Plang ausgeschafft, fir d'Fësch um Virowend vum hellegen Dag ze fänken, an se dann ze sammelen, nodeems en eriwwer war.",
+    "Wéi e puer vun eis virun dësem Bedruch gewarnt hunn, hu mir hire Rot ignoréiert a weidergehalen.",
+    "Fir eis Iwwertriedung goufe mir an Afen verwandelt, veruecht a verworf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Leit vum Sabbat",
+        "D'Leit vum Gruef",
+        "D'Leit vum Bësch",
+        "D'Leit vum Gaart",
+        "D'Leit vum Elefant"
+      ],
+      "answer": "D'Leit vum Sabbat"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Fëscherei um Sabbat",
+        "En héijen Tuerm bauen",
+        "E hellegt Kamel ëmbréngen",
+        "E Prophet, deen hinne geschéckt gouf, ofleenen",
+        "Iwwerschreiden vun den Handelsgewiichter"
+      ],
+      "answer": "Fëscherei um Sabbat"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Mier a seng Fësch",
+        "D'Feier, dat ofgekillt gouf",
+        "De Staff, deen zu enger Schlaang gouf",
+        "D'Ark vun der Erléisung",
+        "D'Tafele vu Steen"
+      ],
+      "answer": "D'Mier a seng Fësch"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "An Affen transforméiert",
+        "Vun der Äerd verschléckt",
+        "Vun engem staarke Wand zerstéiert",
+        "Am Mier erdronk",
+        "Vun engem Stengschauer getraff"
+      ],
+      "answer": "An Affen transforméiert"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

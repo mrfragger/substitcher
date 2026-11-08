@@ -1,0 +1,61 @@
+{
+  "title": "Zaufanie powierzone rzece",
+  "intro": "Dusza stanęła w obliczu niewykonalnego wyroku, w którym życie noworodka wisiało na włosku. Kierowana boską inspiracją, desperacka prośba została spełniona, a cenna tajemnica uniosła się na powierzchnię, by powrócić w nieprzewidziany sposób.",
+  "clues": [
+    "Żyłem w cieniu tyrana, który rozkazywał zabijać nowonarodzone dzieci płci męskiej.",
+    "Doznałem boskiego natchnienia, które nakazało mi podjąć desperacką i rozdzierającą serce czynność.",
+    "Umieściłem moje drogie dziecko w skrzyni i postawiłem ją na brzegu rzeki.",
+    "Moje serce stało się puste i prawie wyjawiłem tajemnicę, ale Allah wzmocnił moje postanowienie.",
+    "Wysłałem kogoś, żeby śledził podróż dziecka w dół rzeki, gdy nurt unosił skrzynię.",
+    "Dziecko zostało odnalezione przez domowników tyrana, a ja ostatecznie zostałam jego opiekunką."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Matka Proroka Musy",
+        "Asiya (żona faraona)",
+        "Maryam (Matka Proroka Isy)",
+        "Żona proroka Luta",
+        "Matka proroka Jahji (żona Zachariasza)"
+      ],
+      "answer": "Matka Proroka Musy"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Włożyła dziecko do skrzyni i postawiła ją na rzece",
+        "Ukryła swoje dziecko w jaskini",
+        "Porzuciła swoje dziecko na pustyni",
+        "Wrzuciła swoje dziecko w ogień",
+        "Zostawiła swoje dziecko pod drzwiami meczetu"
+      ],
+      "answer": "Włożyła dziecko do skrzyni i postawiła ją na rzece"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Skrzynia wyrzucona na rzekę",
+        "Płonący krzew",
+        "Laska, która zamieniła się w węża",
+        "Stół zastawiony jedzeniem z nieba",
+        "Wielbłądzica wysłana jako znak"
+      ],
+      "answer": "Skrzynia wyrzucona na rzekę"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Połączyła się ze swoim dzieckiem i karmiła je piersią",
+        "Nigdy więcej nie zobaczyła swojego dziecka",
+        "Została stracona przez tyrana",
+        "Została królową w Egipcie",
+        "Wyemigrowała do innego kraju i żyła na wygnaniu"
+      ],
+      "answer": "Połączyła się ze swoim dzieckiem i karmiła je piersią"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

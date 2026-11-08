@@ -1,0 +1,61 @@
+{
+  "title": "Tshingwana e e Nyeletseng ka Bosigo Bongwe",
+  "intro": "Akanya ka tshingwana e e tlhogang, e e tletseng maungo a a butswang mme e dikologilwe ke ditlhare tse di kwa godimo. Ba ba neng ba e tlhokomela ba ne ba ipona ba le botlhale, ba rulaganyetsa thobo ya bone mo diureng tse di didimetseng pele ga mahube, kgakala le matlho a ba ba tlhokang. Mme Ene yo o sa robaleng o ne a na le maano a mangwe a bopelotshweu jwa bone jo bo fitlhegileng. A o ka fopholetsa gore ke mang yo o emeng ka fa morago ga kgang eno e e tlhagisang e e tswang mo Quran?",
+  "clues": [
+    "Re kile ra bo re na le tshingwana e e neng e le matlhatsa e bile e le ntsi mo e leng gore botlhe ba ba neng ba feta ka yone ba ne ba e fufegela.",
+    "Fa re ntse re rulaganya, re ne ra sebasebana go sa le phakela, re bolela gore ga go na moya ope o o tlhokang o o neng o tla letlwa go tsena mo letsatsing leo.",
+    "Re ne re le batho ba ba humileng, mme dipelo tsa rona di ne di foufetse mo ditshwanelong tsa bahumanegi ba ba re dikologileng.",
+    "Fa mahube a thobo e re neng re ikaeletse go e roba a goroga, re ne ra atamela tshingwana ya rona fela go fitlhela e fetogile marope a a ntshofetseng ka bonako fela.",
+    "Taelo e e senyang e ne ya gogola, ya se ka ya tlogela sepe fa e se molora fela fa ditlhopha tsa maungo a a boduleng di kileng tsa bo di lepeletse gone.",
+    "Kgang ya rona ke tlhagiso e e bogale e e kwadilweng mo Quran, mo re itsiweng jaaka beng ba tshingwana ba ba neng ba thibela batlhoki dithuso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Beng ba Tshingwana",
+        "Batho ba Logaga",
+        "Barutwa ba ga Isa",
+        "Balekane ba Dikgong",
+        "Baeng ba ga Ibrahim"
+      ],
+      "answer": "Beng ba Tshingwana"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go roba maungo mo sephiring le go thibela bahumanegi",
+        "Go robala makgolokgolo a dingwaga mo teng ga logaga",
+        "Go gana go dira kamela e namagadi ka letlapa",
+        "Go obamela namane ya gouta kwa Thabeng ya Sinai",
+        "Go aga araka e kgolo go falola morwalela"
+      ],
+      "answer": "Go roba maungo mo sephiring le go thibela bahumanegi"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Tshingwana e e ageletsweng ka lobota e e tletseng ditlhare tsa mokolane le tsa mofine",
+        "Legaga le lentsho kwa tengteng ga dithaba",
+        "Motse o o tlhasetsweng ke setsuatsue sa bomodimo",
+        "Mokgatšha o o boitshepo gaufi le Ntlo ya ga Allah",
+        "Dintshi tsa noka e e elelang"
+      ],
+      "answer": "Tshingwana e e ageletsweng ka lobota e e tletseng ditlhare tsa mokolane le tsa mofine"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Tshingwana e ne ya jewa ke taolo e e fisang e e tswang kwa legodimong",
+        "Ba ne ba robala ka kagiso dingwaga di le 309 tsa ngwedi",
+        "Ba ne ba thubaganngwa ke pula ya matlapa .",
+        "Ba ne ba nwela ka fa tlase ga makhubu a morwalela o mogolo",
+        "Ba ne ba phatlaladiwa ke phefo e e tsididi e e bogale"
+      ],
+      "answer": "Tshingwana e ne ya jewa ke taolo e e fisang e e tswang kwa legodimong"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

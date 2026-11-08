@@ -1,0 +1,61 @@
+{
+  "title": "Şəfa gətirən yük",
+  "intro": "Ölçüsüz sınaqdan keçirilmiş bir ruh rahatlıqdan, yoldaşlardan və bədən gücündən məhrum oldu. Dərin əzab içində təcrid olunmuş bu Allahın qulu yalnız İlahiyə üz tutdu. Sarsılmaz səbr və ürəkdən gələn dua sayəsində bütün gözləntiləri aşan bir mərhəmət dalğası gəldi. Sədaqəti bərpa qapısını açan bu şəxsiyyət kimdir?",
+  "clues": [
+    "Mən Allahın sevimli bəndəsi idim, bolluqdan, firavan ailədən və sağlam həyatdan zövq alırdım.",
+    "Sonra bir sınaq başladı: var-dövlət getdi, yaxınlarım getdi və öz bədənim dəhşətli bir əzaba düçar oldu.",
+    "Yaxınlarım mənim vəziyyətimə dözə bilmədilər və mən təcrid olunmuş, bədənim əzab içində qalmışdı.",
+    "Mən Rəbbimə yalvardım və Şeytanın məni yorğunluq və əzabla əzablandırdığını bildirdim.",
+    "Cavab gəldi — ayağımla yerə vurmaq əmri və oradan şəfa üçün sərin su fışqırdı.",
+    "Rəbbim çətinliyi tamamilə aradan qaldırdı və düşünənlərə mərhəmət əlaməti olaraq ailəmi mənə qaytardı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Peyğəmbər Əyyub",
+        "Musa peyğəmbər",
+        "Yusif peyğəmbər",
+        "Yunus peyğəmbər",
+        "İbrahim peyğəmbər"
+      ],
+      "answer": "Peyğəmbər Əyyub"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Ağır xəstəlik və hər şeyin itirilməsi",
+        "Zalımın əmri ilə oda atıldı",
+        "Qohumları tərəfindən dərin bir çuxura salınıb",
+        "Dənizdə böyük bir balıq tərəfindən uduldu",
+        "Vətəndən sürgünə gedən"
+      ],
+      "answer": "Ağır xəstəlik və hər şeyin itirilməsi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Yerdən qaynayan sərin bulaq",
+        "Sərin və dinc od",
+        "Gəmi bir dağın üzərində dayanır",
+        "Dənizi iki yerə bölən çubuq",
+        "Çayın üzərində üzən səbət"
+      ],
+      "answer": "Yerdən qaynayan sərin bulaq"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Ailə və nemətlər bərpa edildi, ikiqat artdı",
+        "Yanan alovdan sağ-salamat qaçdı",
+        "Bir krallığın ən yüksək vəzifəsinə yüksəldi",
+        "Böyük bir balığın qarnından təhlükəsiz yerə çıxdı",
+        "Bir xalqı bölünmüş dənizdən keçirdi"
+      ],
+      "answer": "Ailə və nemətlər bərpa edildi, ikiqat artdı"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

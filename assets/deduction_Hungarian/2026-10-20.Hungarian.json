@@ -1,0 +1,61 @@
+{
+  "title": "A hamis ambíció építésze",
+  "intro": "Egy nagy tekintélyű személyiség szolgált egykor az ókori Egyiptom történelem egyik leghírhedtebb zsarnokát. Erre a személyre merész parancsot bíztak: egy olyan építmény felépítését, amely dacol az éggel. Történetük a Koránban szembeszáll azzal, hogy a vak engedelmesség az arroganciának csak romláshoz vezet.",
+  "clues": [
+    "Egy hatalmas uralkodó udvarában szolgáltam, aki isteni uralomra tartotta igényét a földek felett.",
+    "Magas miniszteri pozíciót töltöttem be, korom legarrogánsabb zsarnokát tanácsoltam.",
+    "Uralkodóm azzal volt elfoglalva, hogy szembeszálljon Mózes Istenével, akit nem voltak hajlandók elismerni.",
+    "Azt a parancsot kaptam, hogy építsek egy tornyot tűzben égetett téglákból, hogy az uralkodóm felszállhasson a mennyekbe.",
+    "A torony sosem ért az égig, és az arrogancia iránti szolgaságom örök szégyent hozott nekem.",
+    "Elpusztultam azzal, akit követtem, és a nevem örök figyelmeztetéssé vált azok ellen, akik zsarnokokat támogatnak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Hámán",
+        "Azar (Ibrahim apja)",
+        "Illyás (próféta)",
+        "Dhu al-Kifl",
+        "Hárut (a két babiloni angyal egyike)"
+      ],
+      "answer": "Hámán"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Parancsot kapott, hogy építsen egy magas építményt, hogy elérje az eget",
+        "Megkértek, hogy értelmezze az isteni küldött álmot",
+        "Lángoló tűzbe vetették hitpróbának",
+        "Kénytelen választani a trón és az igazság között",
+        "Kihívták egy varázslóversenyen"
+      ],
+      "answer": "Parancsot kapott, hogy építsen egy magas építményt, hogy elérje az eget"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Tűzben égetett téglákból épült torony",
+        "Egy kígyóvá változott személyzet",
+        "Egy hajó átszeli a hatalmas árvizet",
+        "Magas falakkal körülvett kert",
+        "Rubinokkal és arannyal díszített trón"
+      ],
+      "answer": "Tűzben égetett téglákból épült torony"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Az elnyomóval együtt a tengerbe fulladva",
+        "Hatalmas földek hatalmas uralkodójává vált",
+        "Sértetlenül megúszta a lángoló tüzet",
+        "Felépítettem a bölcsesség virágzó királyságát",
+        "Évekig tartó száműzetés után újra találkozhatott családjával"
+      ],
+      "answer": "Az elnyomóval együtt a tengerbe fulladva"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

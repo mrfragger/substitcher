@@ -1,0 +1,61 @@
+{
+  "title": "Czujna dusza nad brzegiem rzeki",
+  "intro": "Młodej duszy powierzono tajną misję – obserwowanie z bezpiecznej odległości, jak przeznaczenie rozgrywa się na wodach. Niewidoczna i niespodziewana postać odegrała kluczową rolę w zmianie biegu historii narodu.",
+  "clues": [
+    "Moja matka zleciła mi zadanie, które wymagało ostrożności i czujności.",
+    "Mój wzrok podążał za małą kołyską dryfującą z prądem, a serce moje było ciężkie od niepokoju.",
+    "Kiedy nieoczekiwana grupa osób znalazła go, podszedłem bliżej, pełen obaw.",
+    "Widziałem, jak desperacko potrzebują opiekuna i zaproponowałem rozwiązanie, nie ujawniając prawdy.",
+    "Moja szybka interwencja przywróciła duszę pielęgniarki osobie, która najbardziej jej potrzebowała.",
+    "Na dworach możnych mówiłem: „Czy mam wskazać wam rodzinę, która go wyżywi i zaopiekuje się nim z troską?”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Siostra Musy",
+        "Matka Musy",
+        "Żona faraona",
+        "Położna",
+        "Córka Szu’aiba"
+      ],
+      "answer": "Siostra Musy"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wrzucenie dziecka do rzeki",
+        "Rozstąpienie się morza",
+        "Spalenie cielęcia",
+        "Budowa Arki",
+        "Plaga szarańczy"
+      ],
+      "answer": "Wrzucenie dziecka do rzeki"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Rzeka",
+        "Pustynia",
+        "Góra",
+        "Pałac",
+        "Ogień"
+      ],
+      "answer": "Rzeka"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Połączyła dziecko z matką",
+        "Uratowała się przed żołnierzami faraona",
+        "Została królową",
+        "Została ukarana za szpiegostwo",
+        "Ona prowadziła Izraelitów"
+      ],
+      "answer": "Połączyła dziecko z matką"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

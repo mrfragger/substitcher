@@ -1,0 +1,61 @@
+{
+  "title": "Umfuni Weqiniso Oqinile",
+  "intro": "Esikhathini esigubuzelwe ukungazi nokukhulekelwa konkulunkulu bamanga, kwavela uhambo olujulile lokholo. Lo muntu waphonsela inselelo izindinganiso zomphakathi wakhe, efuna uMdali Oyedwa Weqiniso ngokuqiniseka okungenakunyakaziswa. Lungiselela ukwembula ukuthi ungubani umphefumulo onefa eliqhubeka nokukhuthaza izigidi.",
+  "clues": [
+    "Ngazibuza izidalwa zasezulwini, ngifuna iNkosi yeqiniso edala futhi esekela konke.",
+    "Ngayalwa ukuba ngishiye izwe lakithi, ngiye ezweni elibusiswe ngu-Allah.",
+    "Ngaphonsela inselelo izithombe zabantu bakithi, ngabhekana nobuze bazo ngqo ngokuziphula.",
+    "Ngaphonswa emlilweni ovuthayo ngabantu bakithi, kodwa kwaba nokuthula kimi ngomyalo ka-Allah.",
+    "Ngavivinywa ngomyalo wokunikela ngendodana yami ethandekayo eyizibulo, uvivinyo lokuzithoba okuphelele.",
+    "Mina, kanye nendodana yami, saphakamisa izisekelo zeNdlu yokuqala Yokukhulekela Emhlabeni, indawo engcwele yabo bonke abantu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uNuh",
+        "Umprofethi uYusuf",
+        "Umprofethi uSalih",
+        "Umprofethi u-Ibrahim",
+        "Umprofethi u-Isa"
+      ],
+      "answer": "Umprofethi u-Ibrahim"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Isikhukhula esikhulu",
+        "Ukuhlukana kolwandle",
+        "Ukubhujiswa kweThamud",
+        "Umyalo wokunikela ngendodana",
+        "Uhambo oludabula ehlane noMphongolo"
+      ],
+      "answer": "Umyalo wokunikela ngendodana"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Abasebenzi",
+        "INtaba yaseTur",
+        "UMphongolo",
+        "I-Kaaba",
+        "Ithole Legolide"
+      ],
+      "answer": "I-Kaaba"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waba umbusi waseGibhithe",
+        "Abantu bakhe baminza",
+        "Wanikwa ukuhlakanipha kanye nozalo olulungile",
+        "Wagwinywa whale",
+        "Idolobha lakhe lagumbuqelwa"
+      ],
+      "answer": "Wanikwa ukuhlakanipha kanye nozalo olulungile"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

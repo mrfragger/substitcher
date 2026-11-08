@@ -1,0 +1,61 @@
+{
+  "title": "Arkitekti i Ambicies së Rreme",
+  "intro": "Një figurë me autoritet të madh dikur i shërbeu njërit prej tiranëve më famëkeq të historisë në Egjiptin e lashtë. Këtij individi iu besua një urdhër i guximshëm - të ndërtonte një strukturë që synonte të sfidonte qiejt. Historia e tyre qëndron në Kuran si një mësim i mrekullueshëm se si bindja e verbër ndaj arrogancës çon vetëm në rrënim.",
+  "clues": [
+    "Unë shërbeva në oborret e një sundimtari të fuqishëm i cili pretendonte hyjni mbi tokat.",
+    "Unë mbaja një pozicion të lartë ministror, ​​duke këshilluar tiranin më arrogant të kohës sime.",
+    "Sundimtari im ishte i zënë duke sfiduar Perëndinë e Moisiut, të cilin ata refuzuan ta pranonin.",
+    "Më urdhëruan të ndërtoja një kullë me tulla të pjekura në zjarr, në mënyrë që sundimtari im të mund të ngjitej në qiell.",
+    "Kulla nuk e arriti kurrë qiellin dhe nënshtrimi im ndaj arrogancës më solli turp të përjetshëm.",
+    "U zhduka bashkë me atë që ndiqja dhe emri im u bë një paralajmërim i përhershëm kundër atyre që u mundësojnë tiranëve."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Haman",
+        "Azari (babai i Ibrahimit)",
+        "Iliasi (një profet)",
+        "Dhu al-Kifl",
+        "Haruti (një nga dy engjëjt në Babiloni)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Urdhërohet të ndërtohet një strukturë madhështore për të arritur qiellin",
+        "Iu kërkua të interpretonte një ëndërr të dërguar nga hyjnorja",
+        "Të hedhur në një zjarr përvëlues si provë besimi",
+        "I detyruar të zgjedhë midis fronit dhe të vërtetës",
+        "I sfiduar në një garë magjie"
+      ],
+      "answer": "Urdhërohet të ndërtohet një strukturë madhështore për të arritur qiellin"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një kullë me tulla të pjekura në zjarr",
+        "Një shkop që u shndërrua në gjarpër",
+        "Një anije që lundron përmes një përmbytjeje të madhe",
+        "Një kopsht i rrethuar nga mure të larta",
+        "Një fron i zbukuruar me rubina dhe ar"
+      ],
+      "answer": "Një kullë me tulla të pjekura në zjarr"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U mbyt përkrah shtypësit në det",
+        "U bë një monark i fuqishëm i tokave të gjera",
+        "I shpëtoi një zjarri përvëlues pa lëndime",
+        "Ndërtoi një mbretëri të begatë mençurie",
+        "U ribashkua me familjen pas shumë vitesh mërgimi"
+      ],
+      "answer": "U mbyt përkrah shtypësit në det"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Atbalss no pilsētas malas",
+  "intro": "Pilsētā, kas bija novērsusies no dievišķās vadības, no nomales parādījās vientuļa figūra, steidzoties ar cerības un brīdinājuma vēsti. Šī aizmirstā dvēsele kļūs par mūžīgu nelokāmas ticības simbolu.",
+  "clues": [
+    "Es redzēju, kā uz manu pilsētu tiek sūtīti vēstneši, bet mani ļaudis tos noraidīja kā parastus cilvēkus.",
+    "Es ticēju viņu vēstījumam un jutu, kā patiesība rezonē manā būtībā.",
+    "Es aicināju savus ļaudis paklausīt vēstnešiem, kuri neprasīja nekādu atlīdzību.",
+    "Es skrēju no pilsētas tālākā gala, steidzami cenšoties likt viņiem saprast saprātu.",
+    "Mana tauta sacēlās pret mani, un es tiku nogalināts, bet es atradu mūžīgu mieru.",
+    "Allāhs man teica: “Ieejiet Paradīzē,” un es vēlējos, lai mani ļaudis varētu būt liecinieki man izrādītajam godam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Ja-Sina ticīgais",
+        "Uzairs Jautātājs",
+        "Al-Khidr ceļvedis",
+        "Faraona ģimenes ticīgais",
+        "Namruds Tirāns"
+      ],
+      "answer": "Ja-Sina ticīgais"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sastopoties ar neticīgiem cilvēkiem, kas viņu nogalināja",
+        "Tiekot iemests liesmojošā ugunī",
+        "Tikt norītai lielai zivij",
+        "Masīvas šķirsta būvniecība",
+        "Bēgšana no tirāna armijas"
+      ],
+      "answer": "Sastopoties ar neticīgiem cilvēkiem, kas viņu nogalināja"
+    },
+    "location": {
+      "label": "Galvenā atrašanās vieta",
+      "options": [
+        "Pilsētas tālākais gals",
+        "Tūras kalns",
+        "Skudru ieleja",
+        "Nīlas krasti",
+        "Alas ala"
+      ],
+      "answer": "Pilsētas tālākais gals"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mocekļa nāve un tūlītēja iekļūšana Paradīzē",
+        "Bēgšana un glābšana",
+        "Debesbraukšana debesīs",
+        "Slīkšana jūrā",
+        "Pārvēršoties akmenī"
+      ],
+      "answer": "Mocekļa nāve un tūlītēja iekļūšana Paradīzē"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

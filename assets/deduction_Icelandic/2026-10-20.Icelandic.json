@@ -1,0 +1,61 @@
+{
+  "title": "Arkitekt falskrar metnaðar",
+  "intro": "Mikil valdamikil persóna þjónaði einu sinni einum alræmdasta harðstjóra sögunnar í Forn-Egyptalandi. Þessum einstaklingi var falið djörf skipun - að reisa mannvirki sem ætlað var að ögra himnunum. Sagan þeirra stendur í Kóraninum sem sláandi lexía um hvernig blind hlýðni við hroka leiðir aðeins til tortímingar.",
+  "clues": [
+    "Ég þjónaði við hirðir voldugs stjórnanda sem hélt því fram að hann væri guðlegur yfir löndunum.",
+    "Ég gegndi háu ráðherraembætti og ráðlagði hrokafullasta harðstjóra samtímans.",
+    "Höfðingi minn var upptekinn af því að ögra Guði Móse, sem þeir neituðu að viðurkenna.",
+    "Mér var skipað að reisa turn úr eldbökuðum múrsteinum svo að stjórnandi minn gæti stigið upp til himins.",
+    "Turninn náði aldrei til himins og þrælkun mín við hroka aflaði mér eilífrar skömm.",
+    "Ég fórst með þeim sem ég fylgdi, og nafn mitt varð varanleg viðvörun gegn þeim sem gera harðstjórum kleift að grípa til dáða."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Haman",
+        "Azar (faðir Ibrahims)",
+        "Illyas (spámaður)",
+        "Dhu al-Kifl",
+        "Harút (annar af tveimur englum í Babýlon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Fyrirskipað að byggja turnbyggingu til að ná til himins",
+        "Beðinn um að túlka draum sendur frá hinum guðdómlega",
+        "Kastað í logandi eld sem prófraun trúar",
+        "Þvingaður til að velja á milli hásætis og sannleika",
+        "Áskoraður í galdrakeppni"
+      ],
+      "answer": "Fyrirskipað að byggja turnbyggingu til að ná til himins"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Turn úr eldbökuðum múrsteinum",
+        "Staf sem breyttist í höggorm",
+        "Skip siglir í gegnum mikið flóð",
+        "Garður umkringdur háum veggjum",
+        "Hásæti skreytt með rúbínum og gulli"
+      ],
+      "answer": "Turn úr eldbökuðum múrsteinum"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Drukknaði við hlið kúgarans í sjónum",
+        "Varð öflugur þjóðhöfðingi yfir víðáttumiklum löndum",
+        "Slapp ómeiddur úr logandi eldi",
+        "Byggði upp blómlegt viskuríki",
+        "Sameinuð fjölskyldu sinni eftir ára útlegð"
+      ],
+      "answer": "Drukknaði við hlið kúgarans í sjónum"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Clamor e Profundo",
+  "intro": "Servus Misericordissimi, pertaesus gentis pertinacis, discessit antequam venia concessa esset. Hic homo in locum pervenit ubi nullus homo umquam fuerat, ubi clamor ad Divinum per stratas tenebrarum mirum in modum resonat. Debilitata sed transformata egressa, haec anima facta est aeterna lectio patientiae, sincerae paenitentiae, et infinitae misericordiae Creatoris. Potesne mysterium solvere?",
+  "clues": [
+    "Missus sum nuntius ad populum meum, sed illi omnem limitem incredulitatis suae excesserunt et audire recusaverunt.",
+    "Iratus sum ob repudiationem eorum et a populo meo fugi antequam mandatum Allah venit.",
+    "Navem ultra capacitatem onustam conscendi, et sortem fecimus ut determinaremus quis in mare proiiceretur.",
+    "In mare fervidum proiectus sum et a pisce magno devoratus.",
+    "Tribus stratis tenebrarum captus — ventre, mari profundo, et terra infra — Dominum meum sincere paenitentia invocavi.",
+    "Ex pisce in litus apertum egressus sum, debilis et fessus, et cucurbita super me crevit. Mei homines, centum milia vel plus, tandem crediderunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Yunus",
+        "Propheta Ayyub",
+        "Propheta Iosue",
+        "Propheta Musa",
+        "Propheta Sulaiman"
+      ],
+      "answer": "Propheta Yunus"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "A magno pisce deglutitus",
+        "In ignem ardentem proiectus",
+        "In fundo putei captus",
+        "Magno diluvio oppressus",
+        "Iniuste a rege captivus"
+      ],
+      "answer": "A magno pisce deglutitus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Venter piscis magni",
+        "Vallis sacra prope Kaabam",
+        "Arca in monte quiescens",
+        "Baculus qui in serpentem conversus est",
+        "Solium magnitudinis incomparabilis"
+      ],
+      "answer": "Venter piscis magni"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populus eius, centum milia vel plus, credidit",
+        "Vivus ad caelum evectus",
+        "Princeps regni incomparabilis factus est",
+        "Clamore acuto de caelo deleta",
+        "Eversus terrae motu vastante"
+      ],
+      "answer": "Populus eius, centum milia vel plus, credidit"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

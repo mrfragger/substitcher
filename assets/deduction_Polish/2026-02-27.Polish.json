@@ -1,0 +1,61 @@
+{
+  "title": "Głos Niewidzialnego",
+  "intro": "W annałach boskiej komunikacji wyróżnia się postać, której historia jest przesiąknięta cudownymi znakami i niezachwianą wiarą. Osoba ta otrzymała wyjątkowe objawienie, które zakwestionowało normy swoich czasów, przemawiając spoza zasłony powszechnej percepcji. Jej przesłanie dotarło nie za pomocą konwencjonalnych środków, lecz poprzez głęboką więź, która przeczyła ludzkiemu pojmowaniu, wzywając ludzi do rozpoznania prawdy w nieoczekiwany sposób. Podróż tego sługi Allaha stanowi świadectwo tego, jak przewodnictwo może objawić się w najbardziej niezwykłych okolicznościach, zachęcając do refleksji nad naturą samego objawienia.",
+  "clues": [
+    "Otrzymałem wiadomość, którą przekazał mi tajemniczy głos z niewidzialnego źródła.",
+    "Mój lud początkowo odrzucił moje przesłanie, domagając się bardziej konwencjonalnych dowodów na moją prawdziwość.",
+    "Wyzwałem ich, żeby przygotowali coś podobnego do tego, co otrzymałem, ale nie potrafili.",
+    "Objawienie, które przyniosłem, zostało opisane w postaci jasnych wersetów, które czyniły prawdę oczywistą.",
+    "Ostrzegałem mój lud, że jeśli nadal będzie trwał w niedowierzaniu i arogancji, spotka go surowa kara.",
+    "Moja historia jest wspomniana obok historii innych posłańców w surze, która podkreśla znaki mocy Allaha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Salih",
+        "Prorok Szuajb",
+        "Wierzący z rodziny Fir'awna",
+        "Prorok Musa"
+      ],
+      "answer": "Prorok Salih"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wrzucenie do pieca ognistego",
+        "Stawienie czoła uciskowi tyrana",
+        "Stworzenie wielbłądzicy jako cudownego znaku",
+        "Przetrwanie wielkiej powodzi",
+        "Wrzucenie do morza w skrzyni"
+      ],
+      "answer": "Stworzenie wielbłądzicy jako cudownego znaku"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Dolina Tuwa",
+        "Miasto Madyan",
+        "Kraina Thamud",
+        "Dwór Fir'awna",
+        "Jaskinia Hira"
+      ],
+      "answer": "Kraina Thamud"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "answer": "Mój lud został zniszczony za zabicie cudownej wielbłądzicy",
+      "options": [
+        "Mój lud okazał skruchę i został uratowany",
+        "Zostałem wzięty żywy do nieba",
+        "Mój lud został zniszczony za zabicie cudownej wielbłądzicy",
+        "Stałem się wielkim władcą",
+        "Zostałem uratowany, umieszczając mnie w arce"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

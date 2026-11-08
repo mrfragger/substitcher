@@ -1,0 +1,61 @@
+{
+  "title": "Os construtores de torres",
+  "intro": "Nun tempo pasado remoto, xurdiu unha poderosa civilización, distinguida polas súas impresionantes fazañas de construción e a súa formidable forza. A esta entidade colectiva outorgóuselle abundantes recursos e destreza física, pero elixiron un camiño de desafío á mensaxe divina enviada para guialos. A súa historia serve como unha profunda lección nos anais da historia, un testemuño das consecuencias de rexeitar a verdade.",
+  "clues": [
+    "Concedéronos unha forza física e unha estatura inmensas, a diferenza de calquera outra xente do noso tempo.",
+    "Eramos coñecidos por construír grandes estruturas e altivos piares en todos os lugares altos, pensando que viviriamos para sempre.",
+    "Un mensaxeiro de entre nós foi enviado para avisarnos, chamándonos a adorar só a Alá e a abandonar os nosos ídolos.",
+    "Interrogamos arrogantemente ao noso mensaxeiro, preguntándolle se viñeran a nós só para facernos adorar a Alá e abandonar o que adoraban os nosos antepasados.",
+    "A nosa terra foi bendicida con xardíns, fontes e campos fértiles, pero atribuímos a nosa prosperidade ao noso propio poder, non ao noso Creador.",
+    "Pola nosa persistente incredulidade e burla, fomos finalmente aniquilados por un vento terrorífico e furioso que azoutou durante moitos días e noites."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Xente de Thamud",
+        "Xente de Fir'aun",
+        "Xente de Nuh",
+        "Xente de Madyan",
+        "Xente de 'Ad"
+      ],
+      "answer": "Xente de 'Ad"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Que se lles pida que sacrifiquen un camelo específico",
+        "Ser desafiado a producir dez suras como o Corán",
+        "Amosándolle a división do mar",
+        "Advertido por un profeta sobre o diluvio inminente",
+        "Rexeitando un profeta que advertiu contra a construción excesiva e a adoración de ídolos"
+      ],
+      "answer": "Rexeitando un profeta que advertiu contra a construción excesiva e a adoración de ídolos"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Arca",
+        "O persoal",
+        "O lume",
+        "A cidade de Sodoma",
+        "Altos piares e fortes vivendas"
+      ],
+      "answer": "Altos piares e fortes vivendas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado nunha gran inundación",
+        "Tragado pola terra",
+        "Transformados en monos e porcos",
+        "Destruído por unha explosión atronadora",
+        "Aniquilado por un vento furioso e devastador"
+      ],
+      "answer": "Aniquilado por un vento furioso e devastador"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

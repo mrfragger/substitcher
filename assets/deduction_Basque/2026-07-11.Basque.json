@@ -1,0 +1,61 @@
+{
+  "title": "Zelai berdeko bidaiariak",
+  "intro": "Antzinako garai batean, bi gizabanakok lur mugakideak zaintzen zituzten. Haien bideak elkarri lotuta zeuden, baina haien bihotzak helmuga oso desberdinetara eramaten zituen. Batek bide zuzena jarraitu zuen, eta bestea ukazio iluntasunean galdu zen. Uztaren bi zaindari hauen misterioa argitu al dezakezu?",
+  "clues": [
+    "Uzta oparoak nituen, ikusleen begiak itsutzen zituzten uzta oparoak.",
+    "Nire auzokideak ni baino oparotasun handiagoa zuen, baina haien zatia neure baino gehiago gutiziatzen nuen.",
+    "Haien uztak erabat suntsitzea proposatu nuen, dena nire kontrolpean edukitzeko.",
+    "Nire uztari ere hondamendia ekarri nion, dena suntsituz nire asmo ergelaz.",
+    "Gau bakarrean nire uztak ihartu eta nire aberastasuna hauts bihurtu zen bitartean, laguntzarik gabe gelditu nintzen.",
+    "Ez nuen parterik izan Beste Bizitzan, eta nire azken bizilekua su bizigarrizko putzu bihurtu zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Pizkundea eta epaiketa ukatu zituen gizona",
+        "Nekazari zuzena zapaldu zuen agintaria",
+        "Esker onekoa ez zen lur-jabe aberatsa",
+        "Auzokidearen lurra gutiziatzen zuen baserritarra",
+        "Suntsipena planifikatu zuen bikotekide traidorea"
+      ],
+      "answer": "Auzokidearen lurra gutiziatzen zuen baserritarra"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Jainkozko errebelazioa jasotzeko proba",
+        "Aberastasunaren eta pazientziaren erronka",
+        "Pertsona zuzen baten bizibidea suntsitzeko tentazioa",
+        "Herentzia bidezko banaketaren agindua",
+        "Tirano baten zapalkuntzaren aurkako borroka"
+      ],
+      "answer": "Pertsona zuzen baten bizibidea suntsitzeko tentazioa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Paradisuko lorategi berdeak",
+        "Bi labore-soro mugakide",
+        "Suntsipenaren lekuko izan ziren mendiak",
+        "Mekako santutegi sakratua",
+        "Lur bedeinkatu baten ibaiertzak"
+      ],
+      "answer": "Bi labore-soro mugakide"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Betiko paradisua zuzentasunaren sari gisa",
+        "Bizitza honetako bi uztak erabat suntsitzea",
+        "Erbestea eta heriotzaraino noraezean",
+        "Aldi baterako oparotasuna eta ondoren betiko sua",
+        "Mirarizko zaharberritzea eta sari bikoitza"
+      ],
+      "answer": "Bizitza honetako bi uztak erabat suntsitzea"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

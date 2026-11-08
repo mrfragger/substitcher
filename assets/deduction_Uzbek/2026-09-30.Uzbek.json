@@ -1,0 +1,61 @@
+{
+  "title": "Bemor",
+  "intro": "Qadim zamonlarda, insoniyat tarixining dastlabki kunlarida, ikki jon Yaratguvchi oldida qurbonliklar bilan turishardi. Biri qabul qilindi, ikkinchisi qabul qilinmadi. Keyin aka-uka va opa-singillar o'rtasidagi birinchi katta fojia yuz berdi - sabr-toqat va achchiq qasos. Men kimligimni bilib olasizmi?",
+  "clues": [
+    "Men insoniyatning yer yuzida paydo bo'lgan dastlabki kunlarida tug'ilganman",
+    "Men bu yer yuzida yurgan birinchi inson juftligining farzandi edim",
+    "Bir safar men Yaratguvchimni rozi qilish uchun suruvimning eng yaxshisidan qurbonlik qildim.",
+    "Mening qurbonligim yuqoridan qabul qilindi, akamning qurbonligi esa rad etildi",
+    "O'lim bilan tahdid qilinganida, men akamga qo'l ko'tarmaslikni tanladim",
+    "Men butun insoniyat tarixida boshqa birov tomonidan nohaq o'ldirilgan birinchi odam bo'ldim"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Hobil (Abel), Odam Atoning o'g'li",
+        "Qobil (Qobil), Odam Atoning o'g'li",
+        "Odam Ato, birinchi inson",
+        "Nuh (Nuh)",
+        "Ibrohim (Ibrohim)"
+      ],
+      "answer": "Hobil (Abel), Odam Atoning o'g'li"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Insoniyat tarixidagi birinchi qotillik",
+        "Nuhning buyuk to'foni",
+        "Fir'avn qo'shinining yo'q qilinishi",
+        "Ibrohim tomonidan Ismoilning qurbonligi",
+        "Jalut (Goliyot) bilan jang"
+      ],
+      "answer": "Insoniyat tarixidagi birinchi qotillik"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yoqimli qurbonlik sifatida qurbon qilingan qo'y",
+        "Ajoyib yog'och kema",
+        "Ilonga aylangan tayoq",
+        "Shohona xabarni olib kelayotgan huppi qushi",
+        "Yonayotgan olov xandaqi"
+      ],
+      "answer": "Yoqimli qurbonlik sifatida qurbon qilingan qo'y"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Insoniyat tarixidagi birinchi qotillik qurboni bo'ldi",
+        "Yog'och idish ichida katta suv toshqinidan omon qoldi",
+        "Katta baliqning qornida yashardi",
+        "Jinlar, odamlar va shamol ustidan hukmronlik qildi",
+        "Qirq yil davomida ulkan sahroda kezib yurdi"
+      ],
+      "answer": "Insoniyat tarixidagi birinchi qotillik qurboni bo'ldi"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

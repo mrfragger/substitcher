@@ -1,0 +1,61 @@
+{
+  "title": "Skrytý věřící",
+  "intro": "V opulentních síních moci, kde vládla nevíra a tyranie, promluvil z nečekaného místa osamělý hlas pravdy. Tato postava zpochybnila autoritu chránit posla a riskovala vlastní bezpečnost, aby mohla hlásat pravdu.",
+  "clues": [
+    "Žil jsem v zemi velké tyranie a sloužil jsem vládci, který se prohlašoval za božstvo.",
+    "Své pravé přesvědčení jsem mnoho let skrýval ze strachu z následků, které by vyvolalo jeho odhalení.",
+    "Když přišel posel s jasnými znameními, uvěřil jsem, ale můj lid se proti němu spikl.",
+    "Stál jsem před tyranem a jeho radou a argumentoval, že by neměli zabíjet nevinného posla.",
+    "Varoval jsem je před trestem minulých národů, které odmítly pravdu, jako byl lid Noemův a Adův.",
+    "Alláh mě zachránil před jejich zlými úklady a já jsem byl svědkem zničení utlačujícího režimu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Věřící z faraonovy rodiny",
+        "Faraonský kouzelník",
+        "Vezír faraona",
+        "Faraonova manželka",
+        "Pokladník faraona"
+      ],
+      "answer": "Věřící z faraonovy rodiny"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Obhajoba proroka před popravou",
+        "Zpochybňování kouzelnických triků",
+        "Stavba věže, která dosáhne nebes",
+        "Rozdělení moře pro únik",
+        "Výklad králova snu"
+      ],
+      "answer": "Obhajoba proroka před popravou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Faraonský dvůr",
+        "Hořící keř",
+        "Zlaté tele",
+        "Studna Madyanu",
+        "Archa proroka Nuha"
+      ],
+      "answer": "Faraonský dvůr"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zachráněni před újmou, zatímco utlačovatelé byli zničeni",
+        "Stal se mocným vládcem",
+        "Byl vhozen do ohně a vylezl bez zranění",
+        "Byl pohlcen zemí",
+        "Čtyřicet let putoval pouští"
+      ],
+      "answer": "Zachráněni před újmou, zatímco utlačovatelé byli zničeni"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Die stumme Stimme des Tals",
+  "intro": "Reise zurück in die Zeit eines mächtigen Volkes, dem einst ein lebendes Wunder als Prüfung vorgelegt wurde. Arroganz und Sturheit besiegelten ihr Schicksal. Kannst du die Geschichte nachvollziehen und herausfinden, was sich an diesem dramatischen Wendepunkt ereignete?",
+  "clues": [
+    "Ich wurde als göttliche Prüfung zu einem mächtigen Volk gesandt, das für seine Stärke und seinen Trotz bekannt ist.",
+    "Ich war ein einzigartiges Wunder – meinesgleichen war noch nie unter ihnen aufgetaucht.",
+    "Ich teilte jeden zweiten Tag Trinkwasser aus einem Brunnen mit meinem Volk.",
+    "Sie wurden gewarnt, dass jegliches mir zugefügte Unrecht eine schnelle Bestrafung nach sich ziehen würde.",
+    "Die Dreistesten unter ihnen ignorierten die Warnung und lähmten mich.",
+    "Nach meinem Tod vernichtete ein einziger donnernder Schrei von oben mein gesamtes Volk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Kamelstute von Salih",
+        "Die Kuh von Musa",
+        "Das Schiff von Nuh",
+        "Das Personal von Musa",
+        "Der Thron von Bilqis"
+      ],
+      "answer": "Die Kamelstute von Salih"
+    },
+    "trial": {
+      "label": "Mein Schicksal",
+      "options": [
+        "Mit Sehnen verletzt und getötet",
+        "Als Opfergabe abgeschlachtet",
+        "Verwandelt in eine Schlange",
+        "Durch eine große Flut erhalten geblieben",
+        "Schnell durch ein Königreich gebracht"
+      ],
+      "answer": "Mit Sehnen verletzt und getötet"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Brunnen",
+        "Eine Steintafel",
+        "Ein brennender Busch",
+        "Eine Arche aus Holz",
+        "Ein Thron aus Gold und Silber"
+      ],
+      "answer": "Ein Brunnen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Zerstört durch einen einzigen Schrei",
+        "Ertrunken in einer großen Flut",
+        "Von einem Steinhagel verbrannt",
+        "Von einem heftigen Wind zerschmettert",
+        "Von der Erde verschluckt"
+      ],
+      "answer": "Zerstört durch einen einzigen Schrei"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

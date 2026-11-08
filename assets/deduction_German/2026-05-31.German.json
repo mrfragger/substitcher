@@ -1,0 +1,61 @@
+{
+  "title": "Die umgekommenen Zeugen",
+  "intro": "In längst vergangenen Zeiten lebte eine Gemeinschaft in einem Land, das an der Schnittstelle zweier Reiche lag. Ihr Prophet rief sie auf den Pfad der Wahrheit, doch sie verharrten im Unglauben und der Unterdrückung. Diese Geschichte endet mit göttlicher Vergeltung. Können Sie anhand der folgenden Hinweise dieses Volk und sein Schicksal identifizieren?",
+  "clues": [
+    "Ein Volk wies die Warnung zurück, die einer ihrer eigenen Boten überbracht hatte.",
+    "Der Gesandte rief uns dazu auf, nur Allah anzubeten und warnte vor Korruption.",
+    "Unser Vergehen bestand darin, den Propheten, der mit Gerechtigkeit zu uns gesandt worden war, abzulehnen.",
+    "Wir zweifelten an der Autorität des Boten und beschuldigten ihn der Täuschung.",
+    "Die Strafe ereilte uns, während wir sicher in unseren Häusern wohnten.",
+    "Wir wurden vernichtet, weil wir unseren Propheten verleugnet und die Gläubigen verfolgt haben."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Einen Propheten empfangen, der zur Gerechtigkeit aufrief",
+        "Auf die Probe gestellt durch eine Hungersnot",
+        "einen Traum deuten lassen",
+        "Empfang der Tora",
+        "Reise durch das Meer"
+      ],
+      "answer": "Einen Propheten empfangen, der zur Gerechtigkeit aufrief"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Midian",
+        "Babylon",
+        "Sodom",
+        "Das Rote Meer",
+        "Die Arche"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Das Volk wurde wegen Unglaubens vernichtet.",
+        "Das Volk bereute und wurde geleitet",
+        "Die Menschen betraten das Paradies",
+        "Das Volk überlebte und gedieh.",
+        "Die Menschen wanderten in ein neues Land aus."
+      ],
+      "answer": "Das Volk wurde wegen Unglaubens vernichtet."
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

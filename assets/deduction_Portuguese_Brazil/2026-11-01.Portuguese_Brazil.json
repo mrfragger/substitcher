@@ -1,0 +1,61 @@
+{
+  "title": "A Voz Que Recusou o Desespero",
+  "intro": "Entre em uma casa onde a perda se sucede a outra, mas uma voz calma se recusa a dar lugar ao desespero. Um simples apelo no Alcorão transforma a paciência em um ponto de virada; você consegue encontrar as pistas que levam à pessoa por trás dessa voz?",
+  "clues": [
+    "Eu era a voz da paciência em uma casa onde as bênçãos eram testadas pela calamidade.",
+    "Permaneci em uma casa esvaziada pela perda de bens e filhos.",
+    "Eu sabia que a doença também havia atingido aquele companheiro, cujo corpo estava afligido.",
+    "Quando a angústia se tornou severa, clamei, lembrando-me de Alá.",
+    "Fiz uma única declaração: Alá é a Verdade, portanto, tenham paciência.",
+    "Chamei Ayyub pelo nome; depois disso, Alá removeu a aflição e restaurou a família."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A esposa do profeta Jó",
+        "A esposa do profeta Noé",
+        "A esposa do profeta Ibrahim",
+        "A esposa do profeta Ya'qub",
+        "A filha do faraó"
+      ],
+      "answer": "A esposa do profeta Jó"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Permanecer com Ayyub durante a perda e a doença, e então clamar por paciência.",
+        "Alertando um mensageiro justo para que abandone uma comunidade corrupta.",
+        "Rezando pelo nascimento de uma futura linhagem.",
+        "Interpretando sonhos dentro de uma prisão real.",
+        "Encontrar uma criança que lhe foi confiada junto a um rio"
+      ],
+      "answer": "Permanecer com Ayyub durante a perda e a doença, e então clamar por paciência."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A declaração de que Alá é a Verdade e a paciência são necessárias.",
+        "Uma palmeira ao lado de uma nascente",
+        "Um apelo para construir uma embarcação longe das ondas.",
+        "Um sonho de onze estrelas e um sol nascente",
+        "Uma cesta transportada ao longo do Nilo"
+      ],
+      "answer": "A declaração de que Alá é a Verdade e a paciência são necessárias."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O sofrimento de Ayyub foi curado e sua família restaurada.",
+        "Um filho há muito esperado foi concedido após uma oração infrutífera.",
+        "Um jovem governante interpretou sete anos de abundância e escassez.",
+        "Uma criança que estava sob os cuidados de terceiros foi resgatada das águas da correnteza.",
+        "Um alerta precedeu uma inundação devastadora."
+      ],
+      "answer": "O sofrimento de Ayyub foi curado e sua família restaurada."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

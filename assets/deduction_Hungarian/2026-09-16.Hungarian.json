@@ -1,0 +1,61 @@
+{
+  "title": "A folyó próbára tette az uralkodást",
+  "intro": "Az ókorban isteni parancsra egy vezető emelkedik fel. Ennek az uralkodónak az uralkodása nem dicsőséggel, hanem folyó vizek melletti próbával kezdődött. Egy félelmetes ellenség szembeszállt a seregükkel, és a kimenetel átformálta a történelem menetét. Kitalálod, ki ez a személy?",
+  "clues": [
+    "Engem választottak ki egy nagy nemzet vezetésére, de a kinevezés felülről jött, nem a néptől.",
+    "Egy szent tárgyat adtak vissza népemnek, jeléül annak, hogy megerősítsem az uralkodásomat.",
+    "Teszteltem a katonáimat egy folyóval – a legtöbben ittak belőle, és kudarcot vallottak.",
+    "Egy Jalut nevű félelmetes harcos hatalmas sereggel jött ellenünk.",
+    "Egy fiatalember a saját soraimból, akit semmi más nem fűzött hozzá, csak a hit, lesújtott Jalutra.",
+    "Győzelmünk után a királyságot végül arra a fiatal bajnokra bíztuk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Talút (Saul)",
+        "Jalut (Góliát)",
+        "Dawud próféta",
+        "Mózes próféta",
+        "Harun próféta"
+      ],
+      "answer": "Talút (Saul)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Folyóval tesztelve",
+        "Lángoló tűzbe dobva",
+        "Parancsolták feláldozni a fiát",
+        "Parancsot kapott egy nagy bárka építésére",
+        "Egy nagy hal lenyelte"
+      ],
+      "answer": "Folyóval tesztelve"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Frigyláda",
+        "Egy bot, amely kettéhasította a tengert",
+        "Parittya és sima kövek",
+        "Egy aranyborjú bálvány",
+        "Egy csodálatos trón"
+      ],
+      "answer": "A Frigyláda"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A királyság átkerült a fiatal bajnokhoz (Dawud)",
+        "A sereggel együtt a tengerbe fulladtak",
+        "Biztonságban kihúzták a tomboló tűzből",
+        "A föld kincsekkel nyelte el",
+        "Élve elégették egy lángoló árokban"
+      ],
+      "answer": "A királyság átkerült a fiatal bajnokhoz (Dawud)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

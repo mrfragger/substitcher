@@ -1,0 +1,60 @@
+{
+  "title": "Beban Kekayaan",
+  "intro": "Anda berdiri di hadapan kisah tentang kekayaan yang luar biasa, kehidupan yang dihiasi emas dan kekuasaan, namun pada akhirnya menjadi pelajaran berharga bagi semua yang mencari kemewahan duniawi. Dapatkah Anda mengungkap identitas tokoh ini yang kisahnya bergema sepanjang waktu, sebuah bukti akan sifat fana dari harta benda duniawi?",
+  "clues": [
+    "Aku berasal dari kaum Nabi besar, tetapi aku memilih jalan kesombongan dan penindasan.",
+    "Allah menganugerahi aku kekayaan yang sangat besar, sedemikian besarnya sehingga kunci hartaku menjadi beban yang berat bagi sekelompok orang yang kuat.",
+    "Kaumku menasihatiku agar tidak berbangga diri dengan kekayaanku, mengingatkanku bahwa Allah tidak menyukai orang-orang yang berbangga diri.",
+    "Dengan sombongnya saya mengklaim bahwa kekayaan saya yang melimpah itu adalah hasil dari pengetahuan dan usaha saya sendiri, bukan berkah dari Allah.",
+    "Aku telah diperingatkan agar menjauhi korupsi dan diingatkan untuk mencari kehidupan akhirat dengan apa yang telah Allah berikan kepadaku, tetapi aku menolak untuk mendengarkan dan terus bersikap sombong.",
+    "Akhirnya, Allah menyebabkan bumi menelan aku dan tempat tinggalku, sehingga aku tidak memiliki penolong untuk melawan ketetapan-Nya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "firaun",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Terbelahnya laut",
+        "Api Nimrod",
+        "Banjir",
+        "Ditelan oleh bumi",
+        "Wabah belalang"
+      ],
+      "answer": "Ditelan oleh bumi"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Bahtera",
+        "Staf",
+        "Anak Lembu Emas",
+        "Harta Karun/Kunci",
+        "Sumur Zamzam"
+      ],
+      "answer": "Harta Karun/Kunci"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diberikan kekuasaan sebagai raja",
+        "Diselamatkan dari kehancuran",
+        "Ditelan oleh bumi",
+        "Menjadi seorang nabi",
+        "Meninggal dengan tenang"
+      ],
+      "answer": "Ditelan oleh bumi"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

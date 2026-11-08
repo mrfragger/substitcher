@@ -1,0 +1,61 @@
+{
+  "title": "Peujak Istana",
+  "intro": "Lam koridor-koridor kekuasaan, sidroe tokoh nyang na status tinggi jeuet keu galak keu sidroe hamba nyang lagak jih lagee donya laen. Kecintaan nyoe menyebabkan serangkaian kejadian nyang akan menguji kesetiaan, mengungkapkan kebenaran nyang teupeusom, dan akhe jih menegaskan kepolosan hamba nyan.",
+  "clues": [
+    "Ulôn tinggai di tanoh Krueng Nil, di meuligoe nyang raya meukuasa.",
+    "Sidroe aneuëk muda teuka u rumoh ulôn, dan keuhadiran gobnyan jipeukaru donya ulôn.",
+    "Ulôn cuba rayu jihnyan, teuma jihnyan jilakée meulindong ubak Tuhan jih.",
+    "Lon priek bajée jih nibak likot, teuma bukti-bukti nyan jitunyok keu tipée-tipée ulôn.",
+    "Keu peu-seungap gosip-gosip ureuëng-ureuëng inong bangsawan njan, ulôn undang awak njan bak saboh acara meusapat dan ulôn peuduëk barang-barang njang tajam bak djaroë awak njan.",
+    "Bak akhe jih, ulôn meungaku salah ulôn dikeue ureuëng ramé, lôn akui keubeunaran dikeue raja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Soe Lon?",
+      "options": [
+        "Peurumoh Al-Aziz .",
+        "Asiya (Istri Fir'aun) .",
+        "Bilqis (Ratu Syeba)",
+        "Maryam (Mak Isa) .",
+        "Mak Musa ."
+      ],
+      "answer": "Peurumoh Al-Aziz ."
+    },
+    "trial": {
+      "label": "Sidang/Acara",
+      "options": [
+        "Dia berusaha menggoda Nabi Yusuf .",
+        "Gobnyan geucuba poh Nabi Musa .",
+        "Gobnyan geuklaim droe geuh dewi .",
+        "Gobnyan geupeudong saboh meunara keu geulawan Allah .",
+        "Gobnyan geupimpén teuntra geulawan Mekkah ."
+      ],
+      "answer": "Dia berusaha menggoda Nabi Yusuf ."
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Saboh bajee nyang ka priek nibak likot .",
+        "Saboh aneuk leumo meuh .",
+        "Saboh tungkat nyang meuubah jeuet keu uleue .",
+        "Saboh unta inong",
+        "Saboh lampu"
+      ],
+      "answer": "Saboh bajee nyang ka priek nibak likot ."
+    },
+    "outcome": {
+      "label": "Hasee",
+      "options": [
+        "Gobnyan geuakui dan geuakui keubeunaran .",
+        "Gobnyan ka lhom ngon pasokan gobnyan .",
+        "Gobnyan meu-ubah jeuet keu tugu sira .",
+        "Gobnyan jiteugom lé bumoe .",
+        "Gobnyan ka hanco lé angén nyang jikuk-kuk ."
+      ],
+      "answer": "Gobnyan geuakui dan geuakui keubeunaran ."
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

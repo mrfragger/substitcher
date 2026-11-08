@@ -1,0 +1,61 @@
+{
+  "title": "Te Āroha i roto i ngā Pari",
+  "intro": "Whakaarohia he awaawa kei reira ngā whare e keria ana i ngā pari, ā, e mau ana te hau i te mahara o tētahi whakatūpato kāore i whakarongohia. I mua, i tupu pai tētahi iwi i konei, i manaakitia engari i whakakeke, tae noa ki te putanga mai o tētahi tohu i te toka tonu i whakawhirinakihia e rātou.",
+  "clues": [
+    "He iwi mātou i hanga kāinga haumaru i ngā maunga, i noho haumaru hoki i roto i ō mātou kāinga toka.",
+    "I noho mātou i te whenua mania, i te whenua kōhatu, i manaakitia ki ngā māra me ngā puna wai.",
+    "I tae mai tētahi karere i waenganui i a mātou, e karanga ana kia whakarērea ō mātou atua teka, kia karakia ki te Kaihanga Kotahi pono.",
+    "I whakakake mātou ki te whakatakoto i tētahi tikanga mō te whakapono: he tohu ahurei ka puta ake i ngā toka tonu i keria e mātou.",
+    "I te putanga mai o te kamera uha i oatitia mai i roto i te toka, he tohu mārama, i whakakahore tonu tō tātou hunga rangatira, ā, i whakamomori i a ia ahakoa te whakatūpato mō te aituā e tata mai ana.",
+    "E toru ngā rā i muri i tā mātou mahi, ka haruru te whatitiri nui puta noa i te awaawa, ā, kua hinga mātou hei puranga paru, ko ō mātou kāinga hei urupā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Te Iwi o ¿Ad",
+        "Te Iwi o Thamud",
+        "Te Iwi o Madyan",
+        "Te Iwi o te Ngāherehere",
+        "Te Iwi o te Ana"
+      ],
+      "answer": "Te Iwi o Thamud"
+    },
+    "trial": {
+      "label": "Tā Mātou Whakamātautau/Takahanga Matua",
+      "options": [
+        "Te whakawhāiti i te kāmera uha a Allah",
+        "Te karakia ki te kuao kau koura",
+        "Te takahi i te Hāpati",
+        "Te hanganga o tētahi pourewa ki te rangi",
+        "Te whakamatenga o ngā poropiti"
+      ],
+      "answer": "Te whakawhāiti i te kāmera uha a Allah"
+    },
+    "location": {
+      "label": "Te Huānga Matua o Tā Mātou Kōrero",
+      "options": [
+        "Te kamera uha a Allah",
+        "Ngā kaimahi a Musa",
+        "Te āka a Noa",
+        "Te ringa mā o Mohi",
+        "Te manu o ¿Isa"
+      ],
+      "answer": "Te kamera uha a Allah"
+    },
+    "outcome": {
+      "label": "Tā Mātou Hua",
+      "options": [
+        "Te whakangaromanga e te pahūtanga nui",
+        "He ua kōhatu mai i te rangi",
+        "He waipuke i taupokina ai te whenua",
+        "He hau nui i hutia ake mātou",
+        "Te horomia nei tātou e te whenua"
+      ],
+      "answer": "Te whakangaromanga e te pahūtanga nui"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

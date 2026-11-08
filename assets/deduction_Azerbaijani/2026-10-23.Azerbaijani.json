@@ -1,0 +1,61 @@
+{
+  "title": "Qədim Şəhərdəki Missiya",
+  "intro": "Tozlu qədim bir şəhər, xalqı inkar içində kök salmış və qulaqardına vurulan son xəbərdarlıq. Bu gün inadkar bir xalqa bir mesaj çatdırmaq üçün Allah tərəfindən göndərilənlərin roluna qədəm qoyun. Rədd hekayəsi, tək bir iman səsi və dağıdıcı bir fərmanla möhürlənmiş sonluq. Bu ipuçları vasitəsilə kim danışır?",
+  "clues": [
+    "Biz Allah tərəfindən xalqı haqqdan üz döndərmiş bir şəhərə göndərildik",
+    "İkimiz birinci gəldik, sonra üçüncüsü missiyamızı gücləndirmək üçün qoşuldu",
+    "Şəhər sakinləri bizi rədd etdilər, dedilər ki, biz də onlar kimi insanlardan başqa bir şey deyilik.",
+    "Şəhərin ən ucqar ucundan tək bir ruh qaçaraq insanlara bizi izləmələrini dedi",
+    "Biz onlara yalvardıq, amma onlar ürəklərini inadkar etdilər və bizə qarşı çıxdılar.",
+    "Göylərdən gələn bir dəhşətli fəryadla bütün şəhərimiz susdu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yasin surəsində şəhər elçiləri",
+        "Həvvəriyyun (İsanın şagirdləri)",
+        "Firon sarayının sehrbazları",
+        "Şənbə gününün əshabı",
+        "Fil xalqı"
+      ],
+      "answer": "Yasin surəsində şəhər elçiləri"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Şəhər sakinləri tərəfindən rədd edildi və yalançı adlandırıldı",
+        "Böyük bir alovda diri-diri yandı",
+        "Dərin dənizdə böyük bir balıq tərəfindən uduldu",
+        "Hündür bir sütun tikməyə məcbur edildi",
+        "Şiddətli alov səngərində işgəncə verildi"
+      ],
+      "answer": "Şəhər sakinləri tərəfindən rədd edildi və yalançı adlandırıldı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qədim şəhər (əl-Qaryah)",
+        "Əla alovlanan soba",
+        "Böyük bir balığın qarnı",
+        "Göyə toxunan uca sütun",
+        "Müqəddəs Ev (Kəbə)"
+      ],
+      "answer": "Qədim şəhər (əl-Qaryah)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Şəhər tək bir dağıdıcı fəryadla dağıdıldı (Sayha)",
+        "Zalım və ordusu iki yerə bölünmüş dənizdə boğuldu",
+        "İnsanlar meymunlara və axmaqlara çevrildilər",
+        "Göydən yağan daşlar şəhəri yerlə-yeksan etdi",
+        "Şiddətli sel bütün icmanı bürüdü"
+      ],
+      "answer": "Şəhər tək bir dağıdıcı fəryadla dağıdıldı (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

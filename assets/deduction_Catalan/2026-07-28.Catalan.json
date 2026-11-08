@@ -1,0 +1,61 @@
+{
+  "title": "La prova de la criatura sagrada",
+  "intro": "Un senyal va ser enviat a una nació que s'havia desviat. Enmig de les seves vides còmodes, va arribar un avís, acompanyat d'una criatura extraordinària que es convertiria en la prova definitiva de la seva fe. La seva resposta segellaria el seu destí per sempre. Pots descobrir qui va donar aquest avís i què va ser dels que el van rebutjar?",
+  "clues": [
+    "Érem un poble que havia estat guiat per missatgers anteriors a nosaltres.",
+    "Una criatura magnífica va emergir de la muntanya, un senyal del nostre Senyor per a aquesta nació.",
+    "Els vaig dir: «Aquesta és una camella que pertany a Al·là, així que deixeu-la menjar de la terra d'Al·là i no la toqueu per fer-li mal».",
+    "Però la gent va tallar els jarrets de la meva camella, desafiant l'ordre del seu Senyor.",
+    "Només sóc un missatger del vostre Senyor, enviat amb la veritat; sóc un profeta i servent digne de confiança.",
+    "Quant als malfactors, el nostre Senyor els va colpejar amb un soroll eixordador, i van quedar immòbils a casa seva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Hud del poble d'A'ad",
+        "Profeta Salih del poble de Thamud",
+        "Profeta Shuaib de Madian",
+        "Profeta Lut del poble de Sodoma",
+        "Profeta Nuh de l'Arca"
+      ],
+      "answer": "Profeta Salih del poble de Thamud"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "El Diluvi que va ofegar una nació incrèdula",
+        "El terratrèmol que va destruir una ciutat pecadora",
+        "La camella enviada com a signe i prova divina",
+        "La tempesta que va castigar el poble de Madian",
+        "La destrucció del poble de Lot amb pedres"
+      ],
+      "answer": "La camella enviada com a signe i prova divina"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La ciutat de Sodoma a la vall del Jordà",
+        "La vall d'Al-Hijr entre Hijaz i Síria",
+        "L'antiga terra d'A'ad al sud d'Aràbia",
+        "Els boscos de Madian, prop del Mar Roig",
+        "Les planes del mont Judi a Mesopotàmia"
+      ],
+      "answer": "La vall d'Al-Hijr entre Hijaz i Síria"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Van ser salvats després de penedir-se i creure",
+        "Una pluja de pedres els va destruir completament",
+        "Un soroll eixordador els va deixar immòbils",
+        "Se'ls va endur un vent violent",
+        "Un terratrèmol els va engolir a terra"
+      ],
+      "answer": "Un soroll eixordador els va deixar immòbils"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

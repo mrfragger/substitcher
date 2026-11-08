@@ -1,0 +1,61 @@
+{
+  "title": "Bajarê Winda yê Rûmeteke Bêhempa",
+  "intro": "Şaristaniyeke mezin carekê li ser erdên berfireh serdest bû, bi avahiyên bilind ên ku ber bi asîmanan ve dirêj dibûn dihat pîrozkirin. Lê di bin vê heybetê de, înkareke serhişk mezin bû - redkirineke ji bo guhdana hişyarkerê îlahî yê ku ji hundirê civakê bi xwe hatibû şandin. Serbilindî û xudperestî dê di demek nêzîk de cezayek bi xwe re bîne ku ne erd û ne jî ezmanan qet nedîtibûn.",
+  "clues": [
+    "Em carekê li ser perçeyên berfireh ên cîhanê hukum dikirin, em bi hêzek pesnê xwe didan ku me bawer nedikir ku ti şaristaniyek din nikare beramberî wê bibe.",
+    "Dewleta me bi avahiyên bilind ên bi stûnên bihêz ên ku li ser her welatê naskirî bêhempa bûn navdar bû.",
+    "Hişyarkerek ji civaka me rabû ser xwe û her yekî ji me teşwîq kir ku em tenê ji Yek Afirîner re teslîm bibin.",
+    "Me peyama ku ji me re hatibû dayîn înkar kir û red kir ku em dev ji rêya ku me mîras girtibû berdin.",
+    "Bayekî pir dijwar û hov li dijî me hat berdan û em bi tevahî bêparastin hiştin.",
+    "Em wek qurmên vala yên darên xurmê hatin hiştin, belav bûn û ji bîr kirin, wek dersek ji bo her nifşê piştî me."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Xelkê Adê",
+        "Gelê Nûh",
+        "Gelê Lûtê",
+        "Xelkê Medyenê",
+        "Xelkê Tubbayê"
+      ],
+      "answer": "Xelkê Adê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bayekî bênavber ê cezayê giran",
+        "Lehiyek ku her lûtkeya çiyê nixumand",
+        "Baranek ji kevirên axê yên dişewitin ji jor ve",
+        "Qîrînek tirsnak ji ezmanan",
+        "Erdhejeke tund ku erd parçe kir"
+      ],
+      "answer": "Bayekî bênavber ê cezayê giran"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Îram, bajarê stûnên bilind",
+        "Keştiyeke mezin ji daran li ser çiyayekî hatiye çêkirin",
+        "Deveyekî ku bi mûcîzeyî ji kevir derket",
+        "Çiyayê Sînayê ku fermanên Xwedê lê daketin",
+        "Qesrek ji krîstal û cama nazik ku li ser avên herikbar dinêre"
+      ],
+      "answer": "Îram, bajarê stûnên bilind"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Mîna qurmên vala yên darên xurmê mane, belavbûyî û bêcan",
+        "Di bin pêlên giran ên lehiyek mezin de xeniqîn",
+        "Veguherîne mexlûqên dişibin meymûn û berazan",
+        "Di bin barana kevirên axê yên hişk de hatiye pelçiqandin",
+        "Di qîrîneke ker û yekane de ku giyanê mirov dihejand, hat xwarin"
+      ],
+      "answer": "Mîna qurmên vala yên darên xurmê mane, belavbûyî û bêcan"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

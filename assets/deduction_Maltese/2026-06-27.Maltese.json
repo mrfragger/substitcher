@@ -1,0 +1,61 @@
+{
+  "title": "L-Assenza Sagra",
+  "intro": "Lil hinn mid-duni taż-żmien, hemm storja ta’ devozzjoni soda u fiduċja tant tqila li r-ruħ li kienet qed iġġorrha setgħet kisret. F’mument meta n-nies daru lejn il-bluha u d-deheb, figura waħda baqgħet soda—sejħitilhom lura, talbet għall-paċenzja, u ġarret il-piż ta’ wegħda sagra. Din hija l-istorja ta’ wieħed li ntgħażel bħala għajnuna, viżir, u gwardjan tal-fidi waqt assenza sagra. Tista’ tiskopri l-identità ta’ din ir-ruħ soda?",
+  "clues": [
+    "Jiena naqsam id-demm ta' profeta kbir li ntgħażel biex ikellem lil Alla direttament fuq muntanja sagra.",
+    "Ħuti darba talab lil Alla għall-għajnuna biex jitkellem b'mod ċar ma' oppressur kbir.",
+    "Jiena ġejt magħżul minn Alla biex noqgħod maġenb ħija bħala għajnuna u viżir.",
+    "Flimkien iffaċċjajna ħakkiem tirann li talab li jissejjaħ l-ogħla fost l-allat.",
+    "Waqt li ħija kien qed jitkellem ma' Alla fuq il-muntanja, in-nies tagħna għamlu għalihom infushom idolu mid-deheb tagħhom.",
+    "Jiena ħija Mosè, maħtur minn Alla bħala l-viżir tiegħu, imsemmi b'ismi fil-Koran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Harun (Aron)",
+        "Il-Profeta Musa",
+        "Il-Profeta Dawud",
+        "Profeta Yaqub",
+        "Il-Profeta Ishaq"
+      ],
+      "answer": "Il-Profeta Harun (Aron)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Il-Kriżi tal-Qima tal-Għoġol",
+        "Id-Dilluvju l-Kbir ta’ Nuh",
+        "Il-Battalja ta' Badr",
+        "Il-Qerda ta’ Thamud",
+        "Il-Qerda ta’ Sodoma"
+      ],
+      "answer": "Il-Kriżi tal-Qima tal-Għoġol"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Għoġol tad-Deheb",
+        "L-Arka ta' Noè",
+        "L-Għollieq Jaħraq",
+        "L-Għar ta’ Hira",
+        "It-Tron ta’ Saba"
+      ],
+      "answer": "L-Għoġol tad-Deheb"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Innoċenza Konfermata minn Alla",
+        "L-Għarqa tal-Fargħun",
+        "Il-Bini tal-Kaaba",
+        "Qsim Sikur tal-Baħar",
+        "Tlugħ fis-Smewwiet"
+      ],
+      "answer": "Innoċenza Konfermata minn Alla"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

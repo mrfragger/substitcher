@@ -1,0 +1,61 @@
+{
+  "title": "Balss no nomalēm",
+  "intro": "Jūs stāvat pilsētā, kur ir ieradušies trīs vēstneši ar skaidrām zīmēm, bet ļaudis viņus izsmej un pieķeras saviem vecajiem ieradumiem. No pilsētas tālākās daļas pie pūļa skrien elsdams un apņēmības pilns runāt patiesību, neskatoties uz noraidījumu. Kas ir šī dvēsele, kas riskēja ar visu vēstījuma dēļ, kas nebija viņu pašu?",
+  "clues": [
+    "Es dzīvoju starp ļaudīm, kas bija saņēmuši vēstnešus ar skaidrām zīmēm, tomēr viņi augstprātīgi novērsās.",
+    "Es skrēju no pilsētas tālākās malas, kad dzirdēju par vēstnešu aicinājumu.",
+    "Es teicu saviem ļaudīm: “Ak, mani ļaudis, sekojiet vēstnešiem! Sekojiet tiem, kas neprasa no jums atlīdzību, jo viņi ir pareizi vadīti.”",
+    "Es nebiju pravietis, bet es ticēju vēstnešiem un mudināju savus ļaudis darīt to pašu.",
+    "Mani cilvēki izsmēja manu padomu un apsūdzēja mani ekstrēmistē.",
+    "Kad viņi mani nogalināja, Allāhs man lika ieiet Paradīzē, un es vēlējos, lai mani ļaudis varētu zināt par piedošanu un godu, ko es saņēmu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Vīrietis no pilsētas tālākās daļas (Ya-Sin)",
+        "Viens no trim vēstnešiem, kas tika nosūtīti uz pilsētu",
+        "Ievērojams pilsētas tirgotājs",
+        "Pilsētas valdnieks",
+        "Neticīgo vadonis"
+      ],
+      "answer": "Vīrietis no pilsētas tālākās daļas (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sludinot savai tautai sekot vēstnešiem",
+        "Kuģa būvēšana, lai glābtu ticīgos no plūdiem",
+        "Tiekot iemests ugunī ticības dēļ",
+        "Valis norīts",
+        "Saņemot valstību un gudrību"
+      ],
+      "answer": "Sludinot savai tautai sekot vēstnešiem"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Pilsētas tālākā daļa",
+        "Šķirsts",
+        "Aka",
+        "Degošais krūms",
+        "Ala"
+      ],
+      "answer": "Pilsētas tālākā daļa"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Iegāja Paradīzē un vēlējās, lai viņa ļaudis varētu zināt viņa piedošanu",
+        "Noslīka kopā ar savu ļaužu vēsts noraidīšanas dēļ",
+        "Tika dots brīnums – kamielis",
+        "Pēc tiesas kļuva par valdnieku",
+        "Allāhs viņu izglāba, un viņš palika kopā ar savu tautu"
+      ],
+      "answer": "Iegāja Paradīzē un vēlējās, lai viņa ļaudis varētu zināt viņa piedošanu"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

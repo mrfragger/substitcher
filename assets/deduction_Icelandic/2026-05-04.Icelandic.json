@@ -1,0 +1,61 @@
+{
+  "title": "Arkitekt hrokans",
+  "intro": "Í fornöld sem stjórnað var af ögrandi afli gegndi lykilpersóna áhrifamiklum stöðu. Þessi sál gegndi lykilhlutverki í stórkostlegum áformum stjórnandans, lagði sitt af mörkum til kúgandi stjórnartíðar þeirra og véfengdi guðdómlegan boðskap. Arfleifð þeirra er samofin leit að veraldlegum mætti ​​og afneitun sannleikans.",
+  "clues": [
+    "Ég þjónaði ógnarstjórnanda sem kúgaði fólk í kynslóðir.",
+    "Nafn mitt er oft nefnt í hinni guðdómlegu bók ásamt þessum máttuga leiðtoga.",
+    "Mér var falið stórkostlegt byggingarverkefni, turnhá bygging sem átti að ná til himins.",
+    "Ég ráðlagði húsbónda mínum að drepa sonu Ísraelsmanna og þyrma dætrum þeirra.",
+    "Ég var þátttakandi í samsæri og áformum gegn voldugum sendiboða Allahs.",
+    "Endalok mín, ásamt herra mínum og her hans, komu í vötnum hins víðáttumikla hafs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Nimrod",
+        "Abraha",
+        "Golíat",
+        "Íblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að vera prófaður með gífurlegum auði",
+        "Að leiða her gegn heilögu húsi",
+        "Að byggja turn til að ná til Guðs",
+        "Að vera kastað í eldinn fyrir trú sína",
+        "Að vera kastað í brunn af systkinum"
+      ],
+      "answer": "Að byggja turn til að ná til Guðs"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Örkina",
+        "Starfsfólkið",
+        "Fjallið",
+        "Turninn",
+        "Hvalurinn"
+      ],
+      "answer": "Turninn"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Að fá mikla visku",
+        "Að verða spámaður",
+        "Að vera gleypt af jörðinni",
+        "Að fá konungsríki",
+        "Að drukkna í sjónum"
+      ],
+      "answer": "Að drukkna í sjónum"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ireo mpamadika ny voafidy",
+  "intro": "Nandritra ny tantara, dia nisy iraka masina nandeha teo amin'ny olombelona, ​​ary ny sasany tamin'ireo akaiky azy ireo dia tsy nahatsikaritra ny hazavana. Ity tantara ity dia mihodinkodina amin'ny fanahy roa izay ny maha-mpaminany azy no fitsapana azy ireo, ary ny lovany dia lesona tsy manam-petra.",
+  "clues": [
+    "Niaina tamin'ny andron'ny mpaminany lehibe isika, nefa mbola nikimpy ny masontsika tamin'ny fahamarinana nentin'izy ireo.",
+    "Feno fanambarana masina ny tokantranonay, saingy nihamafy ny fonay.",
+    "Nanambady lehilahy izay nofidina hampitandrina ny olony izahay.",
+    "Rehefa tonga ny sazy dia tsy nitady fialofana tao anaty sambo-fiara izahay na nandositra ny orana mivatravatra, satria naneso ireo fampitandremana izahay.",
+    "Voalaza ao amin'ny CORAN ho ohatra ho an'ireo tsy mino isika, izay mampiseho fa na dia ny fifandraisana akaiky amin'ny mpaminany aza dia tsy mahavonjy.",
+    "Isika no vadin'i Noa sy i Lota, izay namadika azy ireo ka noho izany dia voaheloka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Ny vadin'i Noa sy i Lota",
+        "Ny vadin'i Ibrahim sy Isma'il",
+        "Ny vadin'i Musa sy Harona",
+        "Ny vadin'i Dawud sy Solayman",
+        "Ny vadin'i Ayyub sy Yunus"
+      ],
+      "answer": "Ny vadin'i Noa sy i Lota"
+    },
+    "trial": {
+      "label": "Inona no fitsarana azy ireo?",
+      "options": [
+        "Nanambady mpaminany izy ireo saingy tsy nino",
+        "Momba izy ireo ary nanome tsiny ny mpaminany",
+        "Nanan-karena sy niavonavona izy ireo",
+        "Nalain'i Iblis fanahy handao ny tranony izy ireo",
+        "Nivavaka tamin'ilay Ombilahy Kely Volamena izy ireo"
+      ],
+      "answer": "Nanambady mpaminany izy ireo saingy tsy nino"
+    },
+    "location": {
+      "label": "Inona no nifamatotra tamin'ny anjarany?",
+      "options": [
+        "Ny tondra-drano sy ny oram-bato",
+        "Rivotra mahery vaika",
+        "Horohoron-tany",
+        "Ny loza ateraky ny valala",
+        "Ny fisarahan'ny ranomasina"
+      ],
+      "answer": "Ny tondra-drano sy ny oram-bato"
+    },
+    "outcome": {
+      "label": "Inona no niafaran'izy ireo?",
+      "options": [
+        "Maty niaraka tamin'ireo tsy mpino izy ireo",
+        "Nibebaka izy ireo ary voavonjy",
+        "Navela tsy nanan-janaka izy ireo",
+        "Natao sesitany mandrakizay izy ireo",
+        "Niova ho rajako sy kisoa izy ireo"
+      ],
+      "answer": "Maty niaraka tamin'ireo tsy mpino izy ireo"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Piż ta’ Rigal Miċħud",
+  "intro": "Fiż-żerniq tal-istorja tal-bniedem, meta d-dinja kienet għadha żagħżugħa u d-dinja żammet l-ewwel nifs tagħha, ruħ qagħdet quddiem il-Ħallieq b’offerta umli. Dik l-offerta ġiet imwieżna fil-bilanċ tal-aċċettazzjoni divina — u nstabet nieqsa. Dak li segwa ma kienx storja ta’ maħfra, iżda ta’ qalb maħkuma mill-għira, li wasslet għal att irriversibbli li kien se jidwi maż-żmien kollu. Din hija l-istorja ta’ wieħed li ismu sar sinonimu mal-ewwel inġustizzja gravi li qatt saret.",
+  "clues": [
+    "Jiena ġejt fl-eżistenza bħala wieħed mill-ewwel tfal li qatt twieldu, imwieled minn ġenitur li l-istorja tiegħu tafu sew.",
+    "Darba offrejt sagrifiċċju lil Alla, imma ma ġiex aċċettat mingħandi — għalkemm l-offerta ta' ħija ntlaqgħet bi grazzja.",
+    "L-għira u r-rabja ħadu l-għeruq f’qalbi, u heddedt li ntemm il-ħajja ta’ qrabati stess.",
+    "Ħuti wissieni biex nibża' minn Alla, imma l-kburija tiegħi ma ħallinix nisma'.",
+    "F'mument ta' dgħufija terribbli, wettaqt att indescrivibbli fuq ħija stess.",
+    "Wara, lanqas biss kont naf kif naħbi x'kont għamilt — sakemm intbagħtet kreatura tad-dinja biex tgħallimni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Qabil (Kajin)",
+        "Ħabil (Abel)",
+        "Iben il-Profeta Nuh",
+        "Il-Profeta Isma'il",
+        "Profeta Yusuf"
+      ],
+      "answer": "Qabil (Kajin)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Offrir ta’ sagrifiċċju li ġie miċħud, u dan wassal għall-ewwel qtil",
+        "Nibnu torri għoli biex nilħqu s-smewwiet",
+        "Li wieħed jintrema f’nar qawwi minħabba l-fidi tiegħu",
+        "Is-sagrifiċċju ta' ibnu stess fl-ubbidjenza lejn Alla",
+        "Li tinbela’ minn ħuta kbira talli wieħed jaħrab mid-dmir tiegħu"
+      ],
+      "answer": "Offrir ta’ sagrifiċċju li ġie miċħud, u dan wassal għall-ewwel qtil"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Ċawla mibgħuta minn Alla biex turi d-difna",
+        "Għargħar kbir li għarraq poplu sħiħ",
+        "Bastun li nbidel f’serp ħaj",
+        "Ġemela li ħarġet minn muntanja ta’ blat",
+        "Tron magnífico miġjub minn irjieħ qawwija"
+      ],
+      "answer": "Ċawla mibgħuta minn Alla biex turi d-difna"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Sar wieħed minn dawk li jiddispjaċihom, mgħobbi bl-ewwel delitt li qatt sar",
+        "Inħafer minn Alla u ngħata l-Ġenna ta' dejjem",
+        "Tgħolla għal stazzjon għoli ta’ profezija u għerf",
+        "Ġie salvat mill-ħniena divina wara li sejjaħ mill-fond tad-dlam",
+        "Ingħata dominju fuq il-ġinn, ir-riħ, u l-ibħra"
+      ],
+      "answer": "Sar wieħed minn dawk li jiddispjaċihom, mgħobbi bl-ewwel delitt li qatt sar"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

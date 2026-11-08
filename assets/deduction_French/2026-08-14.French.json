@@ -1,0 +1,61 @@
+{
+  "title": "Les Mains Maudites",
+  "intro": "Vous vous tenez dans les ruelles sinueuses de l'ancienne La Mecque, là où une âme influente et fortunée a jadis refusé d'écouter la vérité. Son histoire nous rappelle brutalement que les liens du sang ne peuvent briser les chaînes de l'orgueil. Qui est cet homme dont le nom résonne du feu qui l'attend ?",
+  "clues": [
+    "J’ai parcouru les rues de La Mecque avec un orgueil qui m’aveuglait à la vérité, bien que le messager fût de ma propre famille.",
+    "Mes possessions étaient immenses, mais elles sont devenues une malédiction plutôt qu'un bouclier.",
+    "Le livre de guidance parle de ma ruine, déclarant que mes mains et ma personne périront.",
+    "Mon époux s'est joint à ma campagne d'inimitié, ramassant des épines pour les semer sur le chemin de celui qui a appelé à Allah.",
+    "Au jour du jugement, je serai plongé dans un feu de flammes ardentes, et mon épouse aura une corde de fibres de palmier autour du cou.",
+    "Je suis connu sous un nom qui signifie « père de la flamme » — un nom qui prédit ma demeure éternelle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Abou Lahab",
+        "Abou Jahl",
+        "Abou Talib",
+        "Abou Soufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abou Lahab"
+    },
+    "trial": {
+      "label": "Essai ou événement clé",
+      "options": [
+        "Il s'est opposé au Prophète et a été maudit dans le Coran.",
+        "Il a mené une armée pour détruire la Kaaba",
+        "Il tenta de tuer le Prophète en lui jetant des pierres.",
+        "Il refusait de croire à la division de la lune",
+        "Il a construit une tour pour atteindre les cieux"
+      ],
+      "answer": "Il s'est opposé au Prophète et a été maudit dans le Coran."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le feu flamboyant de l'enfer",
+        "Le bâton de Moïse",
+        "L'arche de Noé",
+        "Le puits de Zamzam",
+        "Le veau d'or"
+      ],
+      "answer": "Le feu flamboyant de l'enfer"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il entrera dans le Feu ardent, et ses richesses ne lui seront d'aucun secours.",
+        "Il se repentit et devint croyant.",
+        "Il a été pardonné après s'être rétracté.",
+        "Il est mort en martyr.",
+        "Il fut enlevé au ciel."
+      ],
+      "answer": "Il entrera dans le Feu ardent, et ses richesses ne lui seront d'aucun secours."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

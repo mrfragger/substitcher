@@ -1,0 +1,61 @@
+{
+  "title": "L-Imkeċċi tal-Għoġol tad-Deheb",
+  "intro": "Figura msemmija fil-Koran wasslet għal devijazzjoni ta’ folla kbira waqt l-assenza ta’ profeta nobbli. Xi ħaġa magħmula mid-deheb qabdet il-qlub ta’ nazzjon sħiħ — iżda l-istorja ta’ dan l-individwu tispiċċa fis-solitudni u b’saħta stramba. Min seta’ jkun dan il-maqlub?",
+  "clues": [
+    "Ħriġt waqt l-assenza ta' profeta kbir li kien tela' biex jirċievi gwida divina.",
+    "Jiena ġibt kotra kbira mitlufa b’xi ħaġa li ħloqt b’idejja stess.",
+    "Il-ħolqien tad-deheb li pproduċejt deher li kellu l-ħajja, u jipproduċi ħsejjes li ipnotizzaw lil dawk li segwewh.",
+    "Jiena stqarr li rajt dak li oħrajn ma setgħux jipperċepixxu — lemħa fl-inviżibbli.",
+    "Ġbidt xi ħaġa mill-mogħdijiet tal-messaġġier divin u ferragħtha f'metall imdewweb.",
+    "Kont ikkundannat niġġerra waħdi, b'saħta unika li ħadd ma seta' jmissli ġildi u lanqas jien ma seta' mmiss tagħhom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Samiri",
+        "Ħaman",
+        "Fargħun (Fir'awn)",
+        "Abu Lahab",
+        "Il-Profeta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ħalaq għoġol tad-deheb għall-qima",
+        "Bniet torri li laħaq is-smewwiet",
+        "Sfida lis-sħaħar tal-Eġittu",
+        "Mexxa armata b'bhejjem li jtiru",
+        "Aqsam il-qamar bħala prova tal-profezija"
+      ],
+      "answer": "Ħalaq għoġol tad-deheb għall-qima"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-għoġol tad-deheb",
+        "Bastun li nbidel f’serp",
+        "Siġra taqbad fuq muntanja",
+        "Arka mistrieħa fuq quċċa ta’ fuq",
+        "Trinka mimlija nar qawwi"
+      ],
+      "answer": "L-għoġol tad-deheb"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Eżiljat, ipprojbit milli jintmess jew imiss lil ħaddieħor",
+        "Għerqet fil-baħar flimkien ma’ armata",
+        "Maħruq ħaj talli ċaħad il-fidi",
+        "Maqbud minn riħ qawwi u qawwi",
+        "Maħfur u mgħolli għal stazzjon għoli"
+      ],
+      "answer": "Eżiljat, ipprojbit milli jintmess jew imiss lil ħaddieħor"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

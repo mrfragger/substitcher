@@ -1,0 +1,61 @@
+{
+  "title": "Ýitip giden köpçülik",
+  "intro": "Siz hekaýasy tolkunlarda ýazylan jemgyýetiň ýaňlanmalarynyň öňünde durýarsyňyz. Bu janlar çagyryşy eşitdiler, garşylygy saýladylar we ýer ýüzüni täzeden şekillendirýän netijä duçar boldular. Olar kimler we olaryň dünýäsi näme boldy?",
+  "clues": [
+    "Biz köp wagt mundan ozal ýaşadyk, we öz aramyzdan bize bir ilçi geldi.",
+    "Biz bäş buta sežde etdik we olardan ýüz öwürmekden boýun gaçyrdyk.",
+    "Biz elçini masgaralap, ony ýoldan çykanlykda aýypladyk.",
+    "Eger ol hakykaty aýtsa, biz ondan jeza bermegini talap etdik.",
+    "Biz asmanyň ýagyş ýagýandygyny we ýeriň çeşmeleriň fışkyrdaýandygyny gördük.",
+    "Biz gaçmak üçin beýik ýerlere çykdyk, ýöne tolkunlar bizi basyp aldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Nuh pygamberiň halky",
+        "Ad halky",
+        "Semud halky",
+        "Lut pygamberiň halky",
+        "Madýan halky"
+      ],
+      "answer": "Nuh pygamberiň halky"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Biz uly silde gark bolduk",
+        "Biz tupandan heläk bolduk",
+        "Biz güýçli partlamadan öldük",
+        "Bizi ýer ýuwutdy",
+        "Bizi asmandan daşlar ýagdyrdylar"
+      ],
+      "answer": "Biz uly silde gark bolduk"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Beýik sil",
+        "Güýçli ýel",
+        "Daş ýagyşy",
+        "Otly partlama",
+        "Ýer titremesi"
+      ],
+      "answer": "Beýik sil"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Nuh bilen birlikde iman edenlerden başga hemmemiz heläk bolduk",
+        "Biz maýmynlara öwrüldik",
+        "Biz syýahatçylar üçin harabalyk hökmünde galdyk",
+        "Biz duza öwrüldik",
+        "Bize dynç berildi"
+      ],
+      "answer": "Nuh bilen birlikde iman edenlerden başga hemmemiz heläk bolduk"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

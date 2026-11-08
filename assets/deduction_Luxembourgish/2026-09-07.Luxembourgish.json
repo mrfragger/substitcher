@@ -1,0 +1,61 @@
+{
+  "title": "De Begleeder, deen sech ewechgedréit huet",
+  "intro": "Dir wäert elo d'Geschicht vun enger Séil entdecken, déi am Schiet vun der Prophetschaft gelieft huet, awer e Wee gewielt huet, deen zum Ruin gefouert huet. Dës Figur huet sech mat engem vun den ausgewielte Gesandten vum Allah zesummegedoen, awer huet den Test vum Glawen net bestanen. Wien ass dëse verluerene Begleeder?",
+  "clues": [
+    "Ech hunn ënner Leit gelieft, déi de Ruff zur Gerechtegkeet ofgeleent hunn, an ech hunn mech hinnen net widdersat.",
+    "Ech war mat engem Prophet vun Allah bestuet, awer ech hunn de Glawen net gedeelt.",
+    "Wéi d'Bote mat enger Warnung bei mech heem koumen, hunn ech hinnen net gegleeft.",
+    "Mäi Partner krut den Uerder, d'Stad mat de Gleewegen ze verloossen, an ech war net ënnert hinnen.",
+    "D'Strofe ass op mäi Vollek komm, an ech gouf zesumme mat hinnen zerstéiert.",
+    "Ech ginn am Koran als Beispill vu Ongleewe ernimmt, zesumme mat der Fra vum Nuh, an der Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Fra vum Prophet Noh",
+        "Fra vum Prophet Lut",
+        "Fra vum Prophet Ibrahim",
+        "Fra vum Prophet Musa",
+        "Fra vum Prophet Ayyub"
+      ],
+      "answer": "Fra vum Prophet Lut"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Hire Mann verroden andeems hien net gegleeft huet",
+        "D'Botschaft vum Prophet Hud verworf",
+        "Hunn offen Gëtzen am Kaaba ugebueden",
+        "Géint d'Missioun vun hirem Mann inspizéiert",
+        "Refuséiert d'Prophéitschaft vun hirem Jong z'akzeptéieren"
+      ],
+      "answer": "Hire Mann verroden andeems hien net gegleeft huet"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Stad Sodom",
+        "D'Stad Madyan",
+        "D'Stad Iram",
+        "D'Stad Babylon",
+        "D'Stad Jerusalem"
+      ],
+      "answer": "D'Stad Sodom"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mat hirem Mann gerett",
+        "Zerstéiert mat den Ongleewegen",
+        "An e wäit Land verbannt",
+        "Berouegt a gouf verginn",
+        "Gëtt spéider gleeweg"
+      ],
+      "answer": "Zerstéiert mat den Ongleewegen"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

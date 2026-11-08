@@ -1,0 +1,61 @@
+{
+  "title": "Divu dārzu iemītnieki",
+  "intro": "Zemē, kur svētības plūda pārpilnībā, kāda kopiena reiz baudīja divu krāšņu dārzu bagātības. Viņu dzīves bija dievišķās labvēlības apliecinājums, tomēr viņu stāsts mainījās, kad pateicība mazinājās, novedot pie pārmaiņām, kas kļuva par paliekošu zīmi visiem, kas par to pārdomā.",
+  "clues": [
+    "Mēs bijām tauta, kas bija svētīta ar ērtības un pārpilnības zemi.",
+    "Mūsu Kungs mums dāvāja divus krāšņus dārzus, sulīgus un auglīgus no visām pusēm.",
+    "Mums tika pavēlēts būt pateicīgiem, bet mēs izvēlējāmies nepateicību un novērsāmies.",
+    "Liels aizsprosts aizturēja ūdeņus, kas deva dzīvību mūsu zemei.",
+    "Kad mēs turpinājām rīkoties nepareizi, dambis pārsprāga un plūdu ūdeņi mūs pāršalca.",
+    "Mūsu kādreiz sulīgos dārzus nomainīja rūgti augļi, tamariski un daži lotosa koki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Sabas iedzīvotāji",
+        "Tamudas ļaudis",
+        "Madjanas iedzīvotāji",
+        "Alas pavadoņi",
+        "Ziloņa ļaudis"
+      ],
+      "answer": "Sabas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Stiprs vējš septiņas naktis",
+        "Akmeņu lietus no debesīm",
+        "Postoši plūdi no pārsprāguša dambja",
+        "Skaļš kliedziens no debesīm",
+        "Slīkšana jūrā"
+      ],
+      "answer": "Postoši plūdi no pārsprāguša dambja"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Lielais Ma'ribas dambis",
+        "Vadi al-Kuras ieleja",
+        "Irama dārzs",
+        "Zamzama aka",
+        "Sinaja kalns"
+      ],
+      "answer": "Lielais Ma'ribas dambis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mūsu dārzus nomainīja rūgti augļi un reti koki",
+        "Mūs aprija zeme zemestrīcē",
+        "Mēs tikām pārvērsti par pērtiķiem un cūkām",
+        "Mūs noslīcināja lieli plūdi",
+        "Mūs iznīcināja akmeņu lietusgāze"
+      ],
+      "answer": "Mūsu dārzus nomainīja rūgti augļi un reti koki"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

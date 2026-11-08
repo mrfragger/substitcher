@@ -1,0 +1,61 @@
+{
+  "title": "An Macalla ó Imeall na Cathrach",
+  "intro": "I gcathair a d’iompaigh ar shiúl ó threoir dhiaga, tháinig figiúr uaigneach chun cinn ó imeall na cathrach, ag rásaíocht le teachtaireacht dóchais agus rabhaidh. Bheadh ​​an t-anam dearmadta seo ina shiombail shíoraí de chreideamh daingean.",
+  "clues": [
+    "Chonaic mé teachtairí á seoladh chuig mo chathair, ach níor thug mo mhuintir aird orthu mar ghnáthdhaoine.",
+    "Chreid mé ina dteachtaireacht agus bhraith mé an fhírinne ag athshondas i mo chroí.",
+    "D’iarr mé ar mo mhuintir géilleadh do na teachtairí nár iarr aon luach saothair.",
+    "Rith mé ón gceann is faide den chathair, ag iarraidh go práinneach iad a chur ar an eolas faoi réasún.",
+    "D’éirigh mo mhuintir i mo choinne, agus maraíodh mé, ach fuair mé síocháin shíoraí.",
+    "Dúirt Allah liom, ‘Téigh isteach i bParthas,’ agus ba mhian liom go bhféadfadh mo mhuintir an onóir a bronnadh orm a fheiceáil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Creidmheach Ya-Sin",
+        "Uzair an Ceistitheoir",
+        "Al-Khidr an Treoraí",
+        "Creidmheach de theaghlach Pharao",
+        "Namrud an Tíoránach"
+      ],
+      "answer": "Creidmheach Ya-Sin"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag tabhairt aghaidh ar phobal neamhchreidmheach a mharaigh é",
+        "Á chaitheamh isteach i tine lasrach",
+        "Á shlogadh ag iasc mór",
+        "Áirc ollmhór á tógáil",
+        "Ag teitheadh ​​ó arm tíoránta"
+      ],
+      "answer": "Ag tabhairt aghaidh ar phobal neamhchreidmheach a mharaigh é"
+    },
+    "location": {
+      "label": "Suíomh Eochair",
+      "options": [
+        "An ceann is faide den chathair",
+        "Sliabh na dTúr",
+        "Gleann na Seangán",
+        "Bruacha na Níle",
+        "Uaimh na huaimhe"
+      ],
+      "answer": "An ceann is faide den chathair"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Mairtíreacht agus dul isteach láithreach i bParthas",
+        "Éalú agus slánú",
+        "Ardú suas go dtí na flaithis",
+        "Báthadh sa bhfarraige",
+        "Ag casadh ina chloch"
+      ],
+      "answer": "Mairtíreacht agus dul isteach láithreach i bParthas"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

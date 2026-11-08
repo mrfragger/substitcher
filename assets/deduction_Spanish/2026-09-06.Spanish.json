@@ -1,0 +1,61 @@
+{
+  "title": "El marginado del becerro de oro",
+  "intro": "Un personaje mencionado en el Corán desvió a una gran multitud del camino correcto durante la ausencia de un profeta noble. Algo forjado en oro cautivó los corazones de toda una nación, pero la historia de este individuo termina en soledad y una extraña maldición. ¿Quién podría ser este marginado?",
+  "clues": [
+    "Aparecí durante la ausencia de un gran profeta que había ascendido para recibir la guía divina.",
+    "Provoqué que una gran multitud se extraviara con algo que fabriqué con mis propias manos.",
+    "La creación dorada que produje parecía tener vida, produciendo sonidos que hipnotizaban a quienes la seguían.",
+    "Afirmé haber visto lo que otros no podían percibir: un atisbo de lo invisible.",
+    "Tomé algo de las huellas del mensajero divino y lo fundí en metal fundido.",
+    "Fui condenado a vagar solo, con una maldición única que me impedía tocar mi piel y que yo pudiera tocar la suya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Samiri",
+        "Hamán",
+        "Faraón (Fir'awn)",
+        "Abu Lahab",
+        "Profeta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Creó un becerro de oro para ser venerado.",
+        "Construyeron una torre que llegaba hasta el cielo.",
+        "Desafiaron a los hechiceros de Egipto.",
+        "Dirigió un ejército con bestias voladoras.",
+        "Partir la luna como prueba de profecía"
+      ],
+      "answer": "Creó un becerro de oro para ser venerado."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El becerro de oro",
+        "Un bastón que se transformó en serpiente",
+        "Una zarza ardiente en una montaña",
+        "Un arca descansando sobre una cima.",
+        "Una trinchera llena de fuego ardiente"
+      ],
+      "answer": "El becerro de oro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Exiliado, con prohibición de ser tocado o de tocar a otros.",
+        "Ahogado en el mar junto con un ejército",
+        "Quemado vivo por rechazar la fe.",
+        "Derribado por un viento violento y rugiente.",
+        "Perdonado y elevado a una posición elevada"
+      ],
+      "answer": "Exiliado, con prohibición de ser tocado o de tocar a otros."
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

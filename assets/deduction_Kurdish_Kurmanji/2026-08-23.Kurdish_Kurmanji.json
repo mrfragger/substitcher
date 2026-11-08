@@ -1,0 +1,61 @@
+{
+  "title": "Pirjimara Windabûyî",
+  "intro": "Tu li ber dengvedana civatekê radiwestî ku çîroka wê di pêlan de hatiye nivîsandin. Van giyanan bangek bihîstin, serhildan hilbijartin û bi encamek re rû bi rû man ku erd ji nû ve şekil da. Ew kî ne, û çi bi cîhana wan hat?",
+  "clues": [
+    "Em demek dirêj berê jiyabûn, û peyamberek ji nav me hat ba me.",
+    "Me pênc pût perestî kirin û me red kir ku em wan berdin.",
+    "Me tinazên xwe bi pêxember kir û wî bi şaşîtiya xwe tawanbar kir.",
+    "Me jê xwest ku eger rastgo be, cezayê xwe bîne.",
+    "Me dît ku ezman baran dibarîne û erd kaniyan derdixe.",
+    "Em hilkişiyan cihên bilind da ku birevin, lê pêlan em girtin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Gelê Nûh",
+        "Gelê Adê",
+        "Gelê Semûdê",
+        "Gelê Lûtê",
+        "Xelkê Medyenê"
+      ],
+      "answer": "Gelê Nûh"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Em di lehiyê mezin de xeniqîn",
+        "Em ji hêla bahozê ve hatin wêran kirin",
+        "Em bi teqîneke mezin hatin kuştin",
+        "Em ji aliyê erdê ve hatin xwarê",
+        "Ji ezmanan bi keviran li me dan"
+      ],
+      "answer": "Em di lehiyê mezin de xeniqîn"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Lehiyeke mezin",
+        "Bayekî tund",
+        "Baraneke ji keviran",
+        "Teqînek agirîn",
+        "Erdhejek"
+      ],
+      "answer": "Lehiyeke mezin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ji bilî bawermendên bi Nûh re, em hemû helak bûn.",
+        "Em bûn meymûn",
+        "Em wek kavil ji bo rêwiyan hatin hiştin",
+        "Em bûn xwê",
+        "Me dem hatibû dayîn"
+      ],
+      "answer": "Ji bilî bawermendên bi Nûh re, em hemû helak bûn."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

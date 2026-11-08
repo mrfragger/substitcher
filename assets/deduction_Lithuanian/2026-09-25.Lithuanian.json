@@ -1,0 +1,61 @@
+{
+  "title": "Užtvanka, sugriovusi karalystę",
+  "intro": "Tekančių upių, dviejų žaliuojančių sodų ir neprilygstamo klestėjimo kraštas – tačiau jo gyventojai ėmė nekreipti dėmesio į Tą, kuris juos palaimino. Kai atėjo priminimai, šaukiantys juos atgal, jie nusisuko. Po to sekė bausmė, kuri vis dar aidi kaip įspėjimas. Kas buvo ši senovės bendruomenė?",
+  "clues": [
+    "Mes gyvenome tokioje palaimintoje šalyje, kad mūsų namai buvo tarp dviejų žaliuojančių sodų.",
+    "Mėgavomės upėmis, tekančiomis per mūsų žemes, ir gausiu derliumi, užpildančiu mūsų namus.",
+    "Vis dėlto, kai buvome pašaukti būti dėkingi ir paklusnūs Viešpačiui, mes išdidžiai nusisukome.",
+    "Mūsų turtas ir patogumas privertė mus pamiršti Tą, kuris visa tai mums davė.",
+    "Tada staiga užliejo srovė, pralaužusi didžiulę užtvarą, kuria rėmėmės.",
+    "Mes esame Sabos žmonės, kurių žemė buvo žinoma dėl didžiosios Ma'ribo užtvankos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Sabos žmonės",
+        "Tranšėjos žmonės",
+        "Šulinio palydovai",
+        "Tubbos žmonės",
+        "Midjano žmonės"
+      ],
+      "answer": "Sabos žmonės"
+    },
+    "trial": {
+      "label": "Mūsų nuopuolis",
+      "options": [
+        "Potvynis dėl sprogusios užtvankos",
+        "Smarkus vėjas iš dangaus",
+        "Dega ugnies tranšėjoje",
+        "Masyvus žemės drebėjimas",
+        "Skęstant dideliame potvynyje"
+      ],
+      "answer": "Potvynis dėl sprogusios užtvankos"
+    },
+    "location": {
+      "label": "Pagrindinė vieta",
+      "options": [
+        "Ma'ribo užtvanka",
+        "Sinajaus kalnas",
+        "Septynių miegančiųjų ola",
+        "Degantis krūmas",
+        "Jūros padalijimas"
+      ],
+      "answer": "Ma'ribo užtvanka"
+    },
+    "outcome": {
+      "label": "Mūsų likimas",
+      "options": [
+        "Du kartūs sodai pakeitė mūsų vešlius",
+        "Mūsų sodai tapo dar vešlesni",
+        "Žemė nugrimzdo po jūra",
+        "Mus palaidojo vulkaniniai pelenai",
+        "Mūsų tauta suskilo į dvylika genčių"
+      ],
+      "answer": "Du kartūs sodai pakeitė mūsų vešlius"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

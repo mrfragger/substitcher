@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe le le Didimetseng mo Phaposing",
+  "intro": "Thapelo e ne ya boeletsa mo tidimalong ya phaposi e e boitshepo bogologolo tala, e tsoga mo moweng o o tsofetseng o o tlhologelelwang se lefatshe le neng le boletse gore ga se kgonege. Setshwantsho seno, se se neng se tsofetse e bile se imetswe ke go tshwenyega ka isagwe, se ne sa retologela kwa Moreneng wa bone ka mokokotlelo wa botho. Se se neng sa latela e ne e le karabo ya bomodimo e e neng ya ganetsa tebelelo nngwe le nngwe ya tlholego—bosupi jwa kutlwelobotlhoko ya Ene yo o arabang pitso e e itlhobogileng.",
+  "clues": [
+    "Ke ne ka bitsa Morena wa me mo sephiring, ka ikgogela kwa phaposing e ke neng ka ineela mo go yone mo kobamelong ya Gagwe.",
+    "Ke ne ka dumela mo Moreneng wa me gore ke ne ke tshaba ba ba neng ba tla tla morago ga me, ke tshwenyegile ka kaelo ya batho ba me fa ke sena go tsamaya.",
+    "Botsofe bo ne bo ntshwaretse—marapo a me a ne a koafetse mme moriri o mosweu o ne o aname mo tlhogong ya me.",
+    "Molekane wa me o ne a le moopa botshelo jwa gagwe jotlhe, le fa go ntse jalo ke ne ke santse ke kopa Morena wa me go nnaya mojaboswa go tswa mo botennyeng jwa Gagwe ka namana.",
+    "Ke ne ka kopa sesupo, mme Morena wa me o ne a araba ka go nthibela go bua le ope masigo a le mararo, fa nna ke ne ke ntse ke itekanetse mo mmeleng.",
+    "Ke ne ka solofediwa morwa yo leina la gagwe e neng e tla nna Yahya, leina le Morena wa me a neng a bolela gore ga le ise le ko le newe ope pele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Zakariya",
+        "Moporofeti Nuh",
+        "Moporofeti Musa",
+        "Moporofeti Yusuf",
+        "Moporofeti Dawud"
+      ],
+      "answer": "Moporofeti Zakariya"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go rapelela mojaboswa mo botsofeng le molekane yo o moopa",
+        "Go latlhelwa mo molelong o o tukang",
+        "Go mediwa ke tlhapi e kgolo mo lefifing",
+        "Go itshokela go latlhegelwa ke lelapa, khumo le botsogo",
+        "Go laelwa go aga araka e kgolo"
+      ],
+      "answer": "Go rapelela mojaboswa mo botsofeng le molekane yo o moopa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Phaposi ya thapelo (mahrab)",
+        "Lore lo lo neng lwa fetoga noga",
+        "Areka e kgolo ya logong",
+        "Tshingwana e e nang le motswedi o o tlhomologileng",
+        "Thaba e dinonyane di neng di phuthegela mo go yone"
+      ],
+      "answer": "Phaposi ya thapelo (mahrab)"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go amogetswe morwa yo o bidiwang ka kgakgamatso le fa a ne a tsofetse thata",
+        "O pholositswe mo molelong o o tukang ka taelo ya bomodimo",
+        "Morwalela o mogolo wa nyeletsa baheitane .",
+        "Go busediwa mo lelapeng, mo khumong, le mo boitekanelong morago ga bopelotelele",
+        "Faro le masole a gagwe ba ne ba nwela mo lewatleng"
+      ],
+      "answer": "Go amogetswe morwa yo o bidiwang ka kgakgamatso le fa a ne a tsofetse thata"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

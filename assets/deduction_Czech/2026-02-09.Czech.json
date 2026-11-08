@@ -1,0 +1,60 @@
+{
+  "title": "Zkouška pod vlnami",
+  "intro": "Prorok, zatížený svým posláním, učinil rozhodnutí, které ho zavedlo daleko od jeho lidu a do nečekané zkoušky. Jeho cesta nabrala dramatický směr a hlubokým způsobem prověřila jeho víru a trpělivost. Dokážete z uvedených vodítek odvodit podrobnosti této mimořádné události?",
+  "clues": [
+    "Prorok byl poslán k lidu, ale spěšně odešel, protože cítil frustraci z jejich odmítnutí.",
+    "Jeho cesta ho zavedla k moři, kde nastoupil na těžce naloženou loď a hledal cestu.",
+    "Zvedla se velká bouře, která ohrožovala loď, a proto bylo rozhodnuto, že jednu osobu hodí přes palubu, aby se odlehčil náklad, což určil los.",
+    "Byl spolknut tvorem z hlubin, zázračná událost určená Boží vůlí.",
+    "V břiše tvora volal ke svému Pánu, činil pokání a oslavoval Alláha v temnotě.",
+    "Po období intenzivních proseb byl vyvržen na pustý břeh, slabý, ale živý, a později se vrátil, aby zjistil, že jeho lid konečně uvěřil."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prorok/Osoba",
+      "options": [
+        "Prorok Nuh",
+        "Prorok Lut",
+        "Prorok Músa",
+        "Prorok Júnus",
+        "Prorok Jusuf"
+      ],
+      "answer": "Prorok Júnus"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Potopa Nuha",
+        "Zničení Sodomy",
+        "Cesta v břiše velké ryby",
+        "Rozdělení moře",
+        "Zjevení o hořícím keři"
+      ],
+      "answer": "Cesta v břiše velké ryby"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Archa",
+        "Hora Sinaj",
+        "Musova hůl",
+        "Velká ryba",
+        "Studna Jusufa"
+      ],
+      "answer": "Velká ryba"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Nová smlouva s lidstvem",
+        "Zázračné zrození pro jeho lid",
+        "Království založené pro jeho rod",
+        "Návrat k jeho lidu, který tehdy věřil",
+        "Vítězství nad tyranským vládcem"
+      ],
+      "answer": "Návrat k jeho lidu, který tehdy věřil"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

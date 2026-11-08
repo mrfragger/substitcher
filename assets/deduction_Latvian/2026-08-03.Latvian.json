@@ -1,0 +1,61 @@
+{
+  "title": "Pavasaris zem smiltīm",
+  "intro": "Korāna annālēs cilvēks ar milzīgu pacietību saskārās ar pārbaudījumu, kas salauztu pat visdrosmīgākās sirdis. Viss tika atņemts – bagātība, ģimene un veselība. Tomēr no izmisuma dzīlēm pazemīga lūgšana tika atbildēta visnegaidītākajā veidā. Vai vari atpazīt šo dvēseli, kuras atjaunošanas stāsts atbalsojas cauri gadsimtiem?",
+  "clues": [
+    "Mani pārbaudīja tik bargs pārbaudījums, ka to atcerēsies cauri gadsimtiem.",
+    "Es zaudēju visu, kas bija svarīgs – savu bagātību, bērnus un veselību.",
+    "Manu ķermeni klāja sāpīgas čūlas, un visi no manis vairījās.",
+    "Savā izmisumā es piesaucu Allāhu, sakot, ka Sātans mani ir pieskāris ar grūtībām un mokām.",
+    "Allāhs man atbildēja un pavēlēja man sist ar kāju pa zemi.",
+    "No tās pašas vietas izšāvās vēss avots, un Allāhs atjaunoja manu ģimeni un žēlastības dēļ divkāršoja to skaitu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Ajūbs",
+        "Pravietis Musa",
+        "Pravietis Iļja",
+        "Pravietis Suleimans",
+        "Pravietis Davuds"
+      ],
+      "answer": "Pravietis Ajūbs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Smaga slimība un ģimenes un bagātības zaudēšana",
+        "Liela vaļa norīšana",
+        "Trimda no Mekas pilsētas",
+        "Ieslodzījums dziļā akā",
+        "Konfrontācija ar augstprātīgu valdnieku"
+      ],
+      "answer": "Smaga slimība un ģimenes un bagātības zaudēšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Vēss pavasaris no zemes",
+        "Laiva lielu plūdu laikā",
+        "Personāla loceklis, kas pāršķēla jūru",
+        "Paaugstināts stikla tronis",
+        "Sienām norobežota ala gulēšanai"
+      ],
+      "answer": "Vēss pavasaris no zemes"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Ģimene un bagātība atjaunota un dubultota",
+        "Izeja no zivs vēdera",
+        "Droša pārvietošanās cauri šķirtiem ūdeņiem",
+        "Valstība, kas dota valdīšanai",
+        "Dēla brīnumaina piedzimšana vecumdienās"
+      ],
+      "answer": "Ģimene un bagātība atjaunota un dubultota"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

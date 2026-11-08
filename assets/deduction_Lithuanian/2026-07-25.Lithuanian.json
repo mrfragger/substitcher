@@ -1,0 +1,61 @@
+{
+  "title": "Dviejų sodų gyventojai",
+  "intro": "Krašte, kuriame gausu palaiminimų, viena bendruomenė kadaise džiaugėsi dviejų nuostabių sodų turtais. Jų gyvenimai buvo dieviškosios palankumo liudijimas, tačiau jų istorija pasikeitė, kai dėkingumas išblėso, ir tai lėmė transformaciją, kuri tapo ilgalaikiu ženklu visiems, kurie apie tai susimąsto.",
+  "clues": [
+    "Mes buvome tauta, palaiminta lengvu ir gausiu kraštu.",
+    "Mūsų Viešpats padovanojo mums du nuostabius sodus, vešlius ir derlingus iš visų pusių.",
+    "Mums buvo įsakyta būti dėkingiems, bet mes pasirinkome nedėkingumą ir nusisukome.",
+    "Didžioji užtvanka sulaikė vandenis, kurie suteikė gyvybės mūsų žemei.",
+    "Kai atkakliai tęsėme savo nuodėmes, užtvanka griuvo ir mus užliejo potvynio vanduo.",
+    "Mūsų kadaise vešlius sodus pakeitė karčiai vaisiai, tamariskai ir keli lotosmedžiai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Sabos žmonės",
+        "Tamudo žmonės",
+        "Madjano žmonės",
+        "Olos palydovai",
+        "Dramblio žmonės"
+      ],
+      "answer": "Sabos žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Septynias naktis siautėjo stiprus vėjas",
+        "Akmenų lietus iš dangaus",
+        "Griaunantis potvynis dėl sprogusios užtvankos",
+        "Garsus riksmas iš dangaus",
+        "Skęstantis jūroje"
+      ],
+      "answer": "Griaunantis potvynis dėl sprogusios užtvankos"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didžioji Ma'ribo užtvanka",
+        "Vadi al-Kuros slėnis",
+        "Iramo sodas",
+        "Zamzamo šulinys",
+        "Sinajaus kalnas"
+      ],
+      "answer": "Didžioji Ma'ribo užtvanka"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mūsų sodus pakeitė karčiai vaisiai ir reti medžiai",
+        "Mus prarijo žemė žemės drebėjimo metu",
+        "Mes buvome paversti beždžionėmis ir kiaulėmis",
+        "Mus nuskendo didžiulis potvynis",
+        "Mus sunaikino akmenų lietus"
+      ],
+      "answer": "Mūsų sodus pakeitė karčiai vaisiai ir reti medžiai"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

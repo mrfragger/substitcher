@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Kutoka Nje",
+  "intro": "Unasimama katika mji ambapo wajumbe watatu wamekuja na ishara zilizo wazi, lakini watu wanawadhihaki na kushikilia njia zao za zamani. Kutoka sehemu ya mbali zaidi ya mji, mtu anakimbia kuelekea umati, akiwa hana pumzi na ameazimia, kusema ukweli mbele ya kukataliwa. Ni nani huyu mtu aliyehatarisha kila kitu kwa ajili ya ujumbe usio wake?",
+  "clues": [
+    "Niliishi miongoni mwa watu waliopokea Mitume kwa ishara zilizo wazi, lakini wakageuka kwa kiburi.",
+    "Nilikimbia kutoka sehemu ya mbali zaidi ya jiji niliposikia wito wa wajumbe.",
+    "Nikawaambia watu wangu, Enyi watu wangu, wafuateni Mitume. Wafuateni wale ambao hawaombi malipo kwenu, kwani wao wameongoka.",
+    "Sikuwa nabii, lakini niliwaamini wajumbe na niliwahimiza watu wangu kufanya vivyo hivyo.",
+    "Watu wangu walidhihaki ushauri wangu na kunituhumu kuwa mtu mwenye msimamo mkali.",
+    "Waliponiua, Mwenyezi Mungu aliniambia niingie Peponi, na nilitamani watu wangu wangejua msamaha na heshima niliyopokea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mwanamume kutoka sehemu ya mbali zaidi ya jiji (Ya-Sin)",
+        "Mmoja wa wajumbe watatu waliotumwa mjini",
+        "Mfanyabiashara maarufu wa jiji",
+        "Mtawala wa jiji",
+        "Kiongozi wa makafiri"
+      ],
+      "answer": "Mwanamume kutoka sehemu ya mbali zaidi ya jiji (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuhubiri kwa watu wake ili wawafuate wajumbe",
+        "Kujenga meli ili kuwaokoa waumini kutokana na mafuriko",
+        "Kutupwa motoni kwa ajili ya imani",
+        "Kumezwa na nyangumi",
+        "Kupewa ufalme na hekima"
+      ],
+      "answer": "Kuhubiri kwa watu wake ili wawafuate wajumbe"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sehemu ya mbali zaidi ya jiji",
+        "Safina",
+        "Kisima",
+        "Kichaka kinachowaka moto",
+        "Pango"
+      ],
+      "answer": "Sehemu ya mbali zaidi ya jiji"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aliingia Peponi na akatamani watu wake wangejua msamaha wake",
+        "Alizama na watu wake kwa kukataa ujumbe",
+        "Alipewa muujiza wa ngamia jike",
+        "Akawa mtawala baada ya kesi yake",
+        "Aliokolewa na Mwenyezi Mungu na akabaki na watu wake"
+      ],
+      "answer": "Aliingia Peponi na akatamani watu wake wangejua msamaha wake"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

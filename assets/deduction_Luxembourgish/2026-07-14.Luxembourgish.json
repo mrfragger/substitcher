@@ -1,0 +1,61 @@
+{
+  "title": "D'Séilen vum Trench",
+  "intro": "Dir reest zréck an eng Ära, wou en onbarmhäerzege Herrscher absolut Hingabe un falsch Gottheeten gefuerdert huet. Eng kleng Gemeinschaft vun trei Séilen huet refuséiert a krut eng sou schwéier Strof, datt se fir ëmmer verflucht gouf. Hir Geschicht widderhallt sech duerch de Koran als Zeie vun engem onerschütterleche Glawen. Kënnt Dir dës standhaft Grupp identifizéieren?",
+  "clues": [
+    "Mir hunn an engem Land ënner der Tyrannei vun engem Herrscher gelieft, deen d'Veréierung vu falschen Gottheeten gefuerdert huet.",
+    "Eis Communautéit huet schwéier Verfollegung erlieft, eleng wéinst eisem Glawen un Allah",
+    "Den Herrscher huet den Uerder ginn, e grousse Gruef ze gruewen a mat heftege Flamen ze befeieren",
+    "Well mir refuséiert hunn, eise Glawen opzeginn, goufe mir een nom aneren an déi brennend Lach gehäit.",
+    "Eis Geschicht ass en Deel vum Koran ginn, an déi, déi eis verfollegt hunn, goufen fir ëmmer verflucht.",
+    "D'Surah, déi eis Prüfung beschreift, ass no de groussen Himmelszeechen vum Himmel benannt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "Begleeder vum Gruef (Ashab al-Ukhdud)",
+        "Leit vun der Höhl (Ashab al-Kahf)",
+        "Leit vum Sabbat",
+        "D'Leit vun A'ad",
+        "Leit vun Thamud"
+      ],
+      "answer": "Begleeder vum Gruef (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Eise Prozess",
+      "options": [
+        "Lieweg an enger feierlecher Lach verbrannt ginn",
+        "Vill Jore laang an enger Höhl versiegelt sinn",
+        "Fëscherei um hellegen Dag vun der Rou",
+        "Vun engem jäizenden Wand zerstéiert ginn",
+        "E hellegt Kamel ëmbréngen"
+      ],
+      "answer": "Lieweg an enger feierlecher Lach verbrannt ginn"
+    },
+    "location": {
+      "label": "Dat Schlësselelement",
+      "options": [
+        "E brennende Feiergruef",
+        "Eng verstoppte Höhl mat engem treie Hond",
+        "Héich Piliere vun enger aler veruerteelter Stad",
+        "Bierghaiser, déi a Steenfielsen gemeisselt sinn",
+        "Eng oppe Fläch, déi vun heftege Wand erwëscht gëtt"
+      ],
+      "answer": "E brennende Feiergruef"
+    },
+    "outcome": {
+      "label": "Eist Resultat",
+      "options": [
+        "Mir goufe gemäertyrert an d'Verfolger goufen fir ëmmer verflucht",
+        "Mir sinn erwächt nodeems mir 309 Joer geschlof hunn",
+        "Mir goufen an Affen verwandelt fir eis Iwwertriedung",
+        "E mächtege Wand huet eis all zerstéiert",
+        "Een eenzege vernichtende Schrei huet eis Existenz zerstéiert"
+      ],
+      "answer": "Mir goufe gemäertyrert an d'Verfolger goufen fir ëmmer verflucht"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

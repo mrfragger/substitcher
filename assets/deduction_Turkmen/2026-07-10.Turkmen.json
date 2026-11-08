@@ -1,0 +1,61 @@
+{
+  "title": "Dokuz alamatyň eýesi",
+  "intro": "Iň kiçi başlangyçlardan bir keşp, mukaddes irade bilen ýazylan ykbaly bilen direldi. Çagalykda gizlenip, halkyny ýok etmek isleýän hökümdaryň diwarlarynyň içinde terbiýelenen bu jan ahyrsoňy beýik wezipä çagyryldy. Diňe iman we pespäl çopan taýagy bilen üpjün edilen olar döwrüň iň güýçli hökümdarynyň öňünde durup, gul edilenler üçin azatlyk talap etdiler. Dünýäniň özi olaryň buýrugy bilen hereket edýän ýalydy - suwlar bölündi, gökler gepledi we patyşalyk ýykyldy.",
+  "clues": [
+    "Ilkinji günlerim gorky bilen geçdi — meniň ýaly bäbekler doglanda geljekden gorkýan rehimsiz hökümdar tarapyndan yzarlanýardylar.",
+    "Men suw bilen halas edildim we meniň heläk bolmagymy isleýän hökümdaryň köşgünde terbiýelendim.",
+    "Men garaşylmadyk bir wakadan soň öz watanymdan gaçyp, uzak ýurtda pespäl çopan boldum.",
+    "Men şol güýçli hökümdaryň öňünde ýönekeý taýak we aýdyň habar bilen halkymyň azatlygyny talap etmek üçin gaýdyp geldim.",
+    "Men yzymdan gelýänler üçin uly suw howdanyny bölüp berdim we şol suwlaryň duşmanymy bütinleý ýuwudyp barşyny synladym.",
+    "Men Alladan ylahy ýol görkezmek üçin mukaddes dagyň üstüne çykdym we maňa hakykatyň subutnamasy hökmünde dokuz aýdyň alamat berildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Musa pygamber",
+        "Nuh pygamber",
+        "Ybraýym pygamber",
+        "Ýusup pygamber",
+        "Lut pygamber"
+      ],
+      "answer": "Musa pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Fyrownyň köşgünde onuň bilen ýüzbe-ýüz bolmak",
+        "Beýik silden aman galmak üçin gämini gurmak",
+        "But ýasaýanlar tarapyndan ýanýan oda taşlanmak",
+        "Doganlarym tarapyndan çuň guýa düşürilýärin",
+        "Adamlarymy ahlaksyz hereketlerden saklamaga synanyşýaryn"
+      ],
+      "answer": "Fyrownyň köşgünde onuň bilen ýüzbe-ýüz bolmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýylana öwrülen taýajyk",
+        "Nuhyň gämisi",
+        "Bilkisiň tagty",
+        "Ýel we jynlary dolandyrýan halka",
+        "Toplanan hazynalaryň açarlary şeýle agyr"
+      ],
+      "answer": "Ýylana öwrülen taýajyk"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Halkymy bölünen suwlardan azatlyga alyp gitdim",
+        "Gäminiň içinde uly sil suwundan halas boldy",
+        "Çuňňur ejir çekenden soň saglygyna we maşgalasyna gaýdyp geldi",
+        "Uly balykdan diri zyňyldy",
+        "Mukaddes Öýüň düýbüni gurdy"
+      ],
+      "answer": "Halkymy bölünen suwlardan azatlyga alyp gitdim"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

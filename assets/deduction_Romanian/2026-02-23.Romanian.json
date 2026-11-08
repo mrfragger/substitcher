@@ -1,0 +1,61 @@
+{
+  "title": "Vocea convingerii ascunse",
+  "intro": "În inima unei curți tiranice, unde necredința era legea țării, un suflet singuratic a mers pe o sârmă întinsă a credinței și a fricii. Acest individ, aproape de centrul puterii, a ascultat cum mesajul unui profet a fost întâmpinat cu dispreț și amenințări. A sosit un moment al adevărului, forțând această persoană să aleagă între siguranța tăcută și rostirea unui adevăr periculos. Poți descoperi identitatea acestui avocat curajos?",
+  "clues": [
+    "Am trăit chiar în casa unui tiran, fiind martor direct la aroganța care respingea semnele divine.",
+    "Mi-am păstrat credința secretă, o comoară ascunsă într-un palat al idolatriei.",
+    "Am auzit că liderul căruia i-am slujit complotând să-l ucidă pe mesagerul lui Allah, un bărbat pe nume Musa.",
+    "Le-am pus la îndoială logica, amintindu-le de soarta oamenilor din Nuh, 'Ad și Thamud.",
+    "Le-am pus poporului meu o întrebare critică: „Dacă este un mincinos, minciuna lui este asupra lui; dar dacă este sincer, unele dintre promisiunile sale vă vor lovi.”",
+    "Povestea mea este relatată ca exemplu de credință în sura numită „Cel Iertător”, unde mi-am avertizat poporul împotriva uneltirilor celor puternici."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Credinciosul din familia lui Fir'awn",
+        "Haman",
+        "Magicienii din Fir'awn",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Credinciosul din familia lui Fir'awn"
+    },
+    "trial": {
+      "label": "Care a fost încercarea mea?",
+      "options": [
+        "Apărarea profetului Moise în curtea tiranului",
+        "Construind un turn înalt pentru a ajunge la ceruri",
+        "Fiind aruncat într-un foc arzător",
+        "Fiind înghițit de un pește uriaș",
+        "Pierzând toată bogăția și sănătatea"
+      ],
+      "answer": "Apărarea profetului Moise în curtea tiranului"
+    },
+    "location": {
+      "label": "Care a fost tema argumentului meu?",
+      "options": [
+        "Consecințele respingerii mesajului unui profet",
+        "Cererea unui semn de la un copac sacru",
+        "Crearea unui vițel din bijuterii topite",
+        "Miracolul cămilei dintr-o stâncă",
+        "Interpretarea viselor unui conducător"
+      ],
+      "answer": "Consecințele respingerii mesajului unui profet"
+    },
+    "outcome": {
+      "label": "Care a fost rezultatul?",
+      "options": [
+        "Allah a salvat acest individ de planul lor malefic.",
+        "Întreaga curte a acceptat imediat Islamul",
+        "Tiranul s-a pocăit în momentul înecării",
+        "Tiranul a fost înghițit de pământ",
+        "Individul a fost exilat într-o țară îndepărtată"
+      ],
+      "answer": "Allah a salvat acest individ de planul lor malefic."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

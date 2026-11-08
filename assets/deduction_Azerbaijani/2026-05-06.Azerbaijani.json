@@ -1,0 +1,61 @@
+{
+  "title": "Yanan Koldan Səs",
+  "intro": "Möcüzəvi bir qarşılaşma ilə başlayan və taleyi əzilmiş bir xalqın azadlığı ilə bir-birinə qarışan dərin bir şəxsiyyətin kimliyini açın. Bu şəxs ilahi dəstək ilə böyük çətinliklərlə üzləşən monumental bir vəzifə üçün seçildi.",
+  "clues": [
+    "Mən böyük bir zülm dövründə doğulmuşam, xalqımın körpələrinin qətlə yetirildiyi bir dövrdə.",
+    "Həyatımın ilk illərində valideynlərim tərəfindən çaya atılsam da, xalqımın zülmkarının evində tapılıb böyümüşəm.",
+    "Bir dəfə mübahisə zəminində bilmədən bir şəxsin ölümünə səbəb olduqdan sonra bir şəhərdən qaçdım.",
+    "Mən müqəddəs bir yerdə ilahi bir mesaj və möcüzəvi bir əsa aldım və orada güclü bir hökmdarla qarşılaşmaq əmri aldım.",
+    "Danışığımda hiss etdiyim bir maneəyə görə qardaşım mənə köməkçi təyin edildi.",
+    "Mən xalqımı zalım bir ordunun təqibindən qaçaraq iki yerə bölünmüş dənizdən keçirdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yusif peyğəmbər",
+        "İsa peyğəmbər",
+        "Musa peyğəmbər",
+        "Nuh peyğəmbər",
+        "İbrahim peyğəmbər"
+      ],
+      "answer": "Musa peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Davamlı quraqlıq illəri",
+        "Gəminin Tikintisi",
+        "Firon və onun sehrbazları ilə qarşılaşmaq",
+        "Odlu sobaya atılır",
+        "Səmud xalqının məhvi"
+      ],
+      "answer": "Firon və onun sehrbazları ilə qarşılaşmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Kəbə",
+        "Dəmir Divar",
+        "Heyət",
+        "Nuhun gəmisi",
+        "Süleymanın üzüyü"
+      ],
+      "answer": "Heyət"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Sodom şəhəri alt-üst oldu",
+        "İnsanlar yer üzünə uduldu",
+        "Böyük daşqın ölkəni bürüdü",
+        "Firon və ordusu boğuldu",
+        "Şəhər divarları bir qışqırıqdan uçdu"
+      ],
+      "answer": "Firon və ordusu boğuldu"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

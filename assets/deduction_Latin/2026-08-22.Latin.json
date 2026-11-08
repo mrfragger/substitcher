@@ -1,0 +1,61 @@
+{
+  "title": "Oppidum Quod Tempori Credidit",
+  "intro": "In annalibus divinae misericordiae, est communitas cuius momentum conversionis fuit communis recognitionis. Historiam eorum mox deteges—fabulam admonitionis, paenitentiae, et veniae quae eos a fato aliarum gentium separavit.",
+  "clues": [
+    "Populus eramus ad quem nuntius missus est, et ab eius vocatione primo aversi sumus.",
+    "Cum signa imminentis poenae manifesta facta essent, veritatem admonitionis eius intelleximus.",
+    "Ad Dominum nostrum cum sincera paenitentia conversi sumus, et fides nostra accepta est.",
+    "Poena quae nobis imposita erat propter fidem nostram sublata est.",
+    "Nostra historia inter urbes quae post visam poenam crediderunt tamquam exceptio citatur.",
+    "Populus prophetae eramus qui a balaena absorptus est, tamen a destructione servati sumus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Yunus",
+        "Populus Nuh",
+        "Populus Hudensis",
+        "Populus Salih",
+        "Populus Lut"
+      ],
+      "answer": "Populus Yunus"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Diluvium vastans",
+        "Procella vehemens",
+        "Imminens ignominiae poena quae aversa est",
+        "Terra eos devorans",
+        "Pluvia lapidum"
+      ],
+      "answer": "Imminens ignominiae poena quae aversa est"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Camelus",
+        "Urbs centum milium",
+        "Baculus Musae",
+        "Thesaurus Qarunensis"
+      ],
+      "answer": "Urbs centum milium"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Penitus deleti sunt",
+        "Frui eis per tempus datum est",
+        "In simias transformati sunt",
+        "Submersi sunt",
+        "A terra absorpti sunt"
+      ],
+      "answer": "Frui eis per tempus datum est"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

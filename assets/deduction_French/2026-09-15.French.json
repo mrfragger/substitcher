@@ -1,0 +1,61 @@
+{
+  "title": "L'hospitalité qui a engendré la peur",
+  "intro": "Dans une ville ravagée par le mal, un serviteur fidèle reçut un jour des visiteurs inattendus. Inquiet pour leur sécurité, il leur offrit sa protection, mais les habitants exigèrent quelque chose de honteux. Averti d'un désastre imminent, le serviteur s'enfuit avec sa famille à la faveur de la nuit, abandonnant une ville vouée à la destruction. Qui est ce croyant solitaire ?",
+  "clues": [
+    "J'ai été envoyé comme messager auprès d'un peuple qui s'était livré à des actes honteux.",
+    "Des visiteurs inattendus sont arrivés chez moi, et j'étais plus inquiète pour leur sécurité que pour la mienne.",
+    "Mes gens ont exigé de voir mes invités, les soupçonnant d'intentions malveillantes, et j'ai essayé de les raisonner.",
+    "Mes visiteurs se sont révélés être des anges et m'ont ordonné de prendre ma famille et de partir dans la nuit.",
+    "Ma femme n'a pas répondu à l'appel à la fuite et a subi le même sort que mon peuple.",
+    "Ma ville a été bouleversée par une pluie de pierres d'argile stratifiée, ses parties les plus hautes se sont retrouvées affaissées."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Lout",
+        "Le prophète Moïse",
+        "Le prophète Ibrahim",
+        "Prophète Noé",
+        "Prophète Hud"
+      ],
+      "answer": "Le prophète Lout"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La demande de mon peuple d'approcher mes invités de manière malicieuse",
+        "La séparation de la mer pour échapper à un tyran",
+        "La construction d'une grande arche au milieu des moqueries",
+        "Le sacrifice de mon fils dans une épreuve de foi",
+        "L'expérience d'être avalé par un grand poisson"
+      ],
+      "answer": "La demande de mon peuple d'approcher mes invités de manière malicieuse"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La ville renversée de mon peuple",
+        "La montagne où j'ai reçu la parole divine",
+        "L'arche qui a traversé un grand déluge",
+        "La chamelle qui a émergé du rocher",
+        "Le jardin avec un visiteur juste caché"
+      ],
+      "answer": "La ville renversée de mon peuple"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "J'ai été sauvé avec ma famille avant que ma ville ne soit renversée.",
+        "J'ai mené mon peuple vers la liberté par-delà la mer",
+        "J'ai construit une grande arche et j'ai survécu à un terrible déluge.",
+        "On m'a donné la domination sur les vents et les djinns",
+        "J'ai enduré patiemment la souffrance et j'ai été récompensé par ma famille."
+      ],
+      "answer": "J'ai été sauvé avec ma famille avant que ma ville ne soit renversée."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

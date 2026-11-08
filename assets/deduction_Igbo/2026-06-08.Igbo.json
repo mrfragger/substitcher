@@ -1,0 +1,61 @@
+{
+  "title": "Onye Na-arịọ Ebe Nsọ",
+  "intro": "N'ime awa dị jụụ nke abalị, otu mkpụrụ obi raara onwe ya nye kpọrọ òkù nye Onye Kasị Ebere n'ime mgbidi dị nsọ nke ebe nsọ. Afọ ole na ole nke okwukwe na ndidi na-adịghị agwụ agwụ ga-enweta ụgwọ ọrụ ebube nke ga-eweta ọṅụ na ihe nketa nke ịbụ onye amụma.",
+  "clues": [
+    "E tinyere m ụbọchị na abalị m n'ofufe n'ime ebe nsọ dị nsọ, na-arịọ Onyenwe m mgbe niile.",
+    "Agaala m agadi, nwunye m bụkwa nwa, mana enweghị m olileanya na Chineke ga-emere m ebere.",
+    "E nyere m nwa nwoke aha ya bụ Yahya, onye ghọrọ onye amụma na ihe nnọchianya nke ezi omume.",
+    "Abụ m onye amụma, onye e zigara iduzi ụmụ Izrel.",
+    "Abụ m onye sitere n'agbụrụ onye amụma Harun, bụrụkwa onye nchụàjà n'ụlọ nsọ ahụ.",
+    "E nyere m ọrụ ilekọta Meri, nne Isa, ma hụ ọrụ ebube ya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Zakariyya",
+        "Onye Amụma Yahya",
+        "Onye Amụma Ilyas",
+        "Onye Amụma Ishak",
+        "Onye Amụma Jekọb"
+      ],
+      "answer": "Onye Amụma Zakariyya"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Enye m nwa nwoke mgbe m mere agadi",
+        "A zọpụtara ya n'ọkụ na-ere ọkụ",
+        "A napụtara ya n'afọ azụ",
+        "Lanarịrị nnukwu idei mmiri",
+        "A gwọrọ ya ọrịa siri ike"
+      ],
+      "answer": "Enye m nwa nwoke mgbe m mere agadi"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ebe ekpere Mihrab (ebe ekpere dị)",
+        "Kaaba",
+        "Osisi Na-ere Ọkụ",
+        "Igbe nke Ọgbụgba Ndụ ahụ",
+        "Ọgba nke Ndị Asaa Na-ehi Ụra"
+      ],
+      "answer": "Ebe ekpere Mihrab (ebe ekpere dị)"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E nyere ya nwa nwoke ezi omume nke ghọrọ onye amụma",
+        "Oké ifufe bibiri ya",
+        "Mmiri gbawara n'oké osimiri",
+        "A napụrụ ya ọkụ",
+        "Ha laghachiri n'ebe ndị ha nọ mgbe a zọpụtasịrị ha n'aka azụ̀"
+      ],
+      "answer": "E nyere ya nwa nwoke ezi omume nke ghọrọ onye amụma"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

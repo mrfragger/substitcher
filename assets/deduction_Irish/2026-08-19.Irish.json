@@ -1,0 +1,61 @@
+{
+  "title": "An Náisiún a Sháraigh an Ord Nádúrtha",
+  "intro": "I réigiún a bhfuil a scéal ag macalla trí na haoiseanna, bhí pobal ina chónaí in éirí amach oscailte i gcoinne dhlíthe na híonachta. Bhí a ngníomhartha chomh gan fasach sin go gcuimhnítear orthu mar rabhadh don chine daonna ar fad. Cé hiad na hanamacha seo, agus cén chinniúint a tháinig orthu?",
+  "clues": [
+    "Bhí cónaí orainn i dtír ar bhealach a mbíodh taistealaithe ag dul tríd go minic, ach rinneamar a n-aistear contúirteach.",
+    "Rinneamar gníomhartha mígheanasacha den sórt sin nach ndearna aon duine ar domhan riamh cheana.",
+    "Ghlaoigh teachtaire uainn orainn ár mbealaí a thréigean, ach dhiúltaíomar dó agus d’éilíomar an pionós dá mbeadh sé fírinneach.",
+    "Nuair a tháinig aíonna deasa chuig ár gcathair, rinneamar iarracht ionsaí a dhéanamh orthu, gan a fhios againn gur teachtairí scriosta a bhí iontu.",
+    "Tugadh rabhadh dúinn faoi phionós uafásach mura scoirfimis de, ach rinneamar magadh faoin rabhadh agus d’fhanamar inár bpeaca.",
+    "Thit báisteach chloch ón spéir orainn, agus bun os cionn ár dtithe, gan aon rian fágtha ach comhartha dóibh siúd a mhachnaíonn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir Lut",
+        "Muintir Thamud",
+        "Muintir A'ad",
+        "Muintir Madyan",
+        "Muintir Saba"
+      ],
+      "answer": "Muintir Lut"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Rinne siad neamhmhoráltacht gan fasach agus chuir siad bac ar bhóithre",
+        "D’adhradh lao órga",
+        "Mharaigh an camall baineann naofa",
+        "Rinne siad calaois sa trádáil agus rinne siad geit as na daoine",
+        "Thóg túr ard chun dúshlán a thabhairt do na flaithis"
+      ],
+      "answer": "Rinne siad neamhmhoráltacht gan fasach agus chuir siad bac ar bhóithre"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Aingil faoi cheilt mar aíonna deasa",
+        "Camall baineann ag teacht amach as carraig",
+        "Sloinne ag athrú ina nathair",
+        "Bád tógtha ar shliabh",
+        "Tine a d’éirigh fionnuar agus síochánta"
+      ],
+      "answer": "Aingil faoi cheilt mar aíonna deasa"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosta ag báisteach cloch ón spéir",
+        "Slogtha ag an talamh",
+        "Báite i dtuilte móra",
+        "Buailte ag pléascadh screadaíl",
+        "Claochlaithe ina n-apaí"
+      ],
+      "answer": "Scriosta ag báisteach cloch ón spéir"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

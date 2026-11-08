@@ -1,0 +1,61 @@
+{
+  "title": "Glasnik neviđenog grijeha",
+  "intro": "Neke priče u Kur'anu otkrivaju dubinu korupcije u koju cijelo društvo može upasti. Ovaj je poslanik stajao sam, moleći ljude utopljene u perverziji koju nijedan narod prije njih nije slijedio. Unatoč godinama upozorenja, srca su ostala otvrdnuta, a božanska odluka stigla je na najstrašniji način. Možete li prepoznati ovog plemenitog Allahovog poslanika?",
+  "clues": [
+    "Poslan sam kao upozoritelj narodu obuzetom izopačenošću kakvu nijedan narod prije njih nije počinio.",
+    "Moj narod me nazvao lažljivcem i prijetio da će protjerati mene i moje sljedbenike iz zemlje.",
+    "Uvaženi posjetitelji dolazili su mi u dom u obliku mladića koji su se isticali, i osjećao sam duboku tugu za njihovu sigurnost.",
+    "Moj narod je zahtijevao da im predam svoje goste, nesvjesni da su ti posjetitelji anđeli koje je poslao Allah.",
+    "Moj vlastiti suprug nije dijelio moju vjeru i odlučio je ostati s osuđenima na propast.",
+    "Spašena sam sa svojim kćerima u zoru, dok je padala razorna kiša kamenja i naši su gradovi bili srušeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Lut",
+        "Poslanik Šu'aib",
+        "Poslanik Hud",
+        "Poslanik Nuh",
+        "Poslanik Salih"
+      ],
+      "answer": "Poslanik Lut"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Velika poplava koja je zahvatila Zemlju",
+        "Gubitak vida zbog dugotrajne patnje",
+        "Tiranin koji tvrdi da je božanski",
+        "Biti bačen u plamteću vatru",
+        "Zahtijeva se predaja počasnih gostiju"
+      ],
+      "answer": "Zahtijeva se predaja počasnih gostiju"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Velika arka izgrađena ručno",
+        "Štap koji je rascijepio more",
+        "Čudesna deva",
+        "Plamteća vatra",
+        "Prevrnuti gradovi"
+      ],
+      "answer": "Prevrnuti gradovi"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Utopio se dok je progonio vjernike",
+        "Spašen iz vatrene peći neozlijeđen",
+        "Živ uzdignut do neba",
+        "Obitelj je stradala u velikoj poplavi",
+        "Obitelj spašena osim nevjerne supruge"
+      ],
+      "answer": "Obitelj spašena osim nevjerne supruge"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

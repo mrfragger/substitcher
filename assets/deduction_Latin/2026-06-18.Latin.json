@@ -1,0 +1,61 @@
+{
+  "title": "Primi qui veniam petunt",
+  "intro": "Retrocede ad tempus ante primum ortum solis, antequam ullus mortalis terram ambularet. Figura ex vilissima materia fabricata est, locus supra angelos datus, et in horto sacro cum clara admonitione collocata. Attamen uno momento, electio facta est — quae per totam historiam humanam resonaret. Quis est haec figura?",
+  "clues": [
+    "Modo nulli alio simili in esse creatus sum — ex pulvere terrae formatus et animam viventem manu Creatoris donatus.",
+    "Tanta mihi scientia concessa est ut etiam angeli superi eam mirarentur.",
+    "Universo caelo mandatum est ut mihi inclinarentur, et omnes se submiserunt — praeter unum, qui ex superbia recusavit.",
+    "In horto sacro positus sum, loco aeternae solacii et provisionis — sed cum uno severo prohibitione.",
+    "Oblitus sum, lapsus sum, et non paruit — et pondus erroris mei profunde sensi.",
+    "Ad Dominum meum verbis cordis me converti, et paenitentiam meam accepit, quia Ipse est Ignoscentissimus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Adamus",
+        "Propheta Dawud",
+        "Propheta Muhammadus",
+        "Iblis",
+        "Propheta Yaqub"
+      ],
+      "answer": "Propheta Adamus"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Angelis mandatum est ut se prosternerent",
+        "Magnum Diluvium missum est",
+        "Magnus ignis refrigeratus et tutus factus est",
+        "Princeps arrogans in mari submersus est",
+        "Exercitus elephantorum deletus est"
+      ],
+      "answer": "Angelis mandatum est ut se prosternerent"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Hortus Beatitudinis",
+        "Mons Sinai",
+        "Sacra Meschita",
+        "Flumen Nilus",
+        "Spelunca"
+      ],
+      "answer": "Hortus Beatitudinis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Paenitentia ab Allah accepta est",
+        "In mari submersus",
+        "A magno pisce deglutitus",
+        "Natio ingenti flatu percussa est",
+        "Vento ardenti adustus"
+      ],
+      "answer": "Paenitentia ab Allah accepta est"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

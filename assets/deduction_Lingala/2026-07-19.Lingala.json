@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo oyo bato batye likebi te ya bikeke mingi",
+  "intro": "Na ntango kala liboso ete bingumba minene ebima, molimo moko oyo ezalaki ye moko ebimaki kati na bato oyo batikaki solo. Motema makasi na bango ekokanaki bobele na motema molai ya mobengi wana oyo azalaki ye moko, oyo abondelaki na boumeli ya bankola kozanga kobungisa ekateli. Ntango makebisi nyonso ekweaki na matoi oyo ekufá matoi, botángi oyo esalemá naino te ebongoli mabele yango moko. Lelo oyo, ba échos ya lisolo wana ezali kaka kotanga na kati ya récitation nionso. Okoki koyeba molimo yango oyo ezali na ekateli makasi?",
+  "clues": [
+    "Nabɔkwamaki na kati ya bato oyo bazalaki kosambela bikeko ya lokuta mpe bazalaki kotya likebi te na bilembo oyo ezalaki zingazinga na yango, nzokande naponama mpo na kolamusa bango na kozanga likebi na bango.",
+    "Nabelelaki bato na ngai mbala na mbala, kasi bafundaki ngai ete nazali eloko mosusu te kaka moto lokola bango, kotyola nsango na ngai mpe kozipa matoi na bango.",
+    "Butu na moi, nabondelaki bango na mayele mpe na makundoli ya malembe, kasi maloba na ngai emonanaki lokola ezalaki kolimwa na mopepe, kozanga koyoka mpe kozanga koyoka.",
+    "Na nsé ya mateya ya Nzambe, natongaki mbɛki monene ya mabaya mpe mabaya na mabele ya kokauka, mpe bato na ngai basekaki ngai lokola moto oyo abungisaki makanisi.",
+    "Ntango mpela monene eyaki lokola elakamaki, mwana na ngai moko aboyaki komata na masuwa elongo na ngai, kondimaka ete ngomba moko ekobatela ye na mai oyo ezalaki komata.",
+    "Nakomaki tata ya ebandeli ya sika likolo ya mabele, mpe lisolo na ngai ebatelami na mokapo moko ya Coran oyo ememi nkombo na ngai mpenza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Nuh",
+        "Mosakoli Ibrahim",
+        "Mosakoli Musa",
+        "Mosakoli Luta",
+        "Mosakoli Hud"
+      ],
+      "answer": "Mosakoli Nuh"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mpela Monene oyo ebongoli mabele",
+        "Kobwakama na mɔ́tɔ ya mɔ́tɔ na basambeli ya bikeko",
+        "Confrontation na ba magiciens ya Faraon na palais",
+        "Kobebisama ya bilanga ya bozwi na mopɛpɛ makasi ya likoló",
+        "Kobalusama ya bato oyo bafandaka na mabulu"
+      ],
+      "answer": "Mpela Monene oyo ebongoli mabele"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku etongamaki na mabaya mpe na mabaya",
+        "Ndako mosantu oyo etongamaki likoló na miboko ya kala",
+        "Nzete oyo ebongwanaki nyoka",
+        "Libulu ya bilenge oyo balali",
+        "Kiti ya bokonzi oyo ememamaki na ekelamu moko ya nguya"
+      ],
+      "answer": "Sanduku etongamaki na mabaya mpe na mabaya"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bazangi kondima bazindaki ntango bandimi babikisamaki na masuwa",
+        "Mɔtɔ ekómaki malili mpe ezalaki na likama te, mpe moto oyo abengaki ye abimaki mpe azokaki te",
+        "Bato ya nganga-nkisi bafukamaki mpe bayambaki kondima",
+        "Elanga yango epesamaki na mozalani moyengebene na esika na yango",
+        "Bato oyo balalaki balalaki nsima ya bikeke mingi, babongwanaki"
+      ],
+      "answer": "Bazangi kondima bazindaki ntango bandimi babikisamaki na masuwa"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

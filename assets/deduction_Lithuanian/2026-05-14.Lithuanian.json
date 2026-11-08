@@ -1,0 +1,61 @@
+{
+  "title": "Amžinos išminties skleidėjas",
+  "intro": "Gerbiama asmenybė, žinoma dėl savo gilių įžvalgų ir nuovokių patarimų, kadaise dalino patarimus, kurie perteikia kartas. Jų žodžiai, užrašyti šventraščiuose, veda žmones dėkingumo, kantrybės ir teisingo elgesio link.",
+  "clues": [
+    "Mane palaimino išmintis, o ne pranašystė.",
+    "Patariau savo vaikui padaryti didžiausią nuodėmę: priskiriu partnerius Alachui.",
+    "Aš mokiau apie darbų svorį, net garstyčios grūdelio vertę, ir kaip Alachas tai įgyvendins.",
+    "Pabrėžiau dėkingumą Alachui ir savo tėvams, pripažindamas vaiko auginimo sunkumus.",
+    "Mano patarimas apėmė maldos pradėjimą, raginimą daryti gėrį, blogio draudimą ir kantrybę kęsti tai, kas nutinka.",
+    "Vienas Korano skyrius pavadintas mano vardu, jame pateikiami mano mokymai ir pamokos, kuriomis pasidalinau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Sulaimanas",
+        "Pranašas Dawudas",
+        "Pranašas Jahja",
+        "Lukmanas",
+        "Pranašas Musa"
+      ],
+      "answer": "Lukmanas"
+    },
+    "trial": {
+      "label": "Centrinė tema",
+      "options": [
+        "Kaabos statyba",
+        "Jūros padalijimas",
+        "Išminties teikimas",
+        "Išgyventi potvynį",
+        "Praryti žuvies"
+      ],
+      "answer": "Išminties teikimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Turo kalnas",
+        "Jo sūnus",
+        "Auksinis veršelis"
+      ],
+      "answer": "Jo sūnus"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jo žmonės buvo sunaikinti",
+        "Jo išmintis tapo vadovu",
+        "Jam buvo suteikta karalystė",
+        "Jis buvo pakeltas į dangų",
+        "Jam buvo suteikti didžiuliai turtai"
+      ],
+      "answer": "Jo išmintis tapo vadovu"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

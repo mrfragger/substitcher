@@ -1,0 +1,61 @@
+{
+  "title": "Uluntu lweSigqitho Sokuqala",
+  "intro": "Kwilizwe lezixeko zamandulo, abantu babekhe bachuma. Babetyelelwa sisithunywa esinobizo olucacileyo, kodwa bajika baza balandela indlela ekungekho mntu wakha wayihamba. Ibali labo lithetha ngokungathobeli, ukonakala, kunye nesohlwayo esashiya ilizwe labo njengophawu kubo bonke abacingayo. Ngoobani aba bantu?",
+  "clues": [
+    "Sasihlala kwizixeko zasethafeni, apho umprofeti wethu wasibizela khona ebulungiseni.",
+    "Sasingabantu bokuqala ukwenza ihlazo elingazange lenziwe mntu kwihlabathi liphela ngaphambili.",
+    "Sasibagweba abahambi ngendlela engaqhelekanga, senza ububi esidlangalaleni kwiindibano zethu.",
+    "Simgatyile umthunywa owayethunywe kuthi saza samsongela ngokumgxotha kwilizwe lethu.",
+    "Sakhawuleza saya endlwini yakhe simcela ukuba anike iindwendwe zakhe kuthi.",
+    "Isohlwayo sethu sasiyimvula yamatye, kwaye isixeko sethu saguqulwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Abantu bakaLut",
+        "Abantu baseNuh",
+        "Abantu be-'Ad",
+        "Abantu baseThamud",
+        "Abantu baseMadyan"
+      ],
+      "answer": "Abantu bakaLut"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ndenza isenzo sokuqala sobungqingili",
+        "Izithixo ezinqulwayo",
+        "Ukuqhathwa kurhwebo",
+        "Babulala umprofeti wabo",
+        "Abazange babathobele abazali babo"
+      ],
+      "answer": "Ndenza isenzo sokuqala sobungqingili"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isixeko sethafa",
+        "Isixeko sequla",
+        "Isixeko somsele",
+        "Isixeko sendlovu",
+        "Isixeko segadi"
+      ],
+      "answer": "Isixeko sethafa"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Imvula ngamatye yaza yabhukuqwa",
+        "Nditshoniswe ngamanzi",
+        "Itshatyalaliswe ngumoya onamandla",
+        "Iginywe ngumhlaba",
+        "Ndibethwe kukuqhuma okukhulu"
+      ],
+      "answer": "Imvula ngamatye yaza yabhukuqwa"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

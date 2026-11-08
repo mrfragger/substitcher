@@ -1,0 +1,61 @@
+{
+  "title": "Lapides sculptores Vallis Antiquae",
+  "intro": "Civilizationem finge quae in saxosis Arabiae vallibus orta est, perita in magnificis domibus e montium lateribus sculpendis. Virtute et arte floruerunt, attamen historia eorum horrore divinae admonitionis neglegentia insignitur. Dum in eorum fabulam te immergis, populum deteges cuius arrogantia ad eorum omnino deletionem duxit. Quinam erant?",
+  "clues": [
+    "Terram planitiei saxosae et rupium altissimarum hereditate accepimus, ubi domicilia nostra cum incomparabili arte aedificavimus.",
+    "Noti eramus ob domos tutas in montibus sculpendas, nos ab omni periculo tutos sentientes.",
+    "Nuntius quidam ad nos venit e nobis, gratiarum Allah nos admonens et de poena nos monens.",
+    "Signum postulavimus, et camelus mirabilis e petra emersit, experimentum manifestum ab Allah.",
+    "Monitum sprevimus et camelam funibus praecisis, nuntium ludibrio capimus et poenam provocantes.",
+    "Unus fragor nos in domibus nostris comprehendit, et mane prostrati iacebamus, quasi numquam ibi habitassemus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Thamudensis",
+        "Populus 'Ad",
+        "Populus Madyani",
+        "Populus Nuh",
+        "Populus Lut"
+      ],
+      "answer": "Populus Thamudensis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Camelam femoram impedivit",
+        "Sabbatum fregit",
+        "Adoraverunt vitulum aureum",
+        "Prophetam ad eos missum interfecerunt",
+        "Turrim aedificavi ut caelum attingeret"
+      ],
+      "answer": "Camelam femoram impedivit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Camelus",
+        "Arca",
+        "Ministri",
+        "Manus alba",
+        "Manna et coturnices"
+      ],
+      "answer": "Camelus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Explosione deleta",
+        "Servatus a destructione",
+        "In simias conversi",
+        "In mari submersus",
+        "A terra absorptus"
+      ],
+      "answer": "Explosione deleta"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

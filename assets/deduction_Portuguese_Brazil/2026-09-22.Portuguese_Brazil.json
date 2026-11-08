@@ -1,0 +1,61 @@
+{
+  "title": "Os Construtores dos Pilares Elevados",
+  "intro": "Você está diante das ruínas de uma majestosa cidade antiga, cujas colunas imponentes agora caíram. O vento uiva pelas ruas vazias, carregando a memória de um povo poderoso que outrora governou estas terras. Quem eram eles?",
+  "clues": [
+    "Éramos um povo de imensa força e habilidade, conhecido por nossas grandes construções e civilização avançada.",
+    "Vivíamos numa terra de dunas de areia e colinas rochosas, e acreditávamos que ninguém nos poderia vencer.",
+    "Um mensageiro veio até nós, dentre nossos próprios parentes, convidando-nos a adorar somente a Deus, mas nós o rejeitamos e zombamos dele.",
+    "Nós nos vangloriávamos, dizendo: 'Quem é mais forte do que nós?', e persistimos em nossa arrogância e idolatria.",
+    "Alá enviou sobre nós um vento furioso que soprou durante sete noites e oito dias, devastando tudo.",
+    "Éramos o povo de 'Ad, os construtores de Iram, e nosso destino se tornou um aviso para todos os que vieram depois."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Pessoas de 'Ad",
+        "Povo de Thamud",
+        "Povo de Madyan",
+        "Povo de Tumba'",
+        "Pessoas de al-Rass"
+      ],
+      "answer": "Pessoas de 'Ad"
+    },
+    "trial": {
+      "label": "Qual foi o castigo que lhes foi imposto?",
+      "options": [
+        "Um vento devastador",
+        "Uma chuva de pedras",
+        "Uma explosão alta",
+        "Afogamento por inundação",
+        "Engolido pela terra"
+      ],
+      "answer": "Um vento devastador"
+    },
+    "location": {
+      "label": "Qual o nome da cidade lendária deles?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midiã",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Qual foi o destino final deles?",
+      "options": [
+        "Eles foram destruídos e seus restos se tornaram uma lição.",
+        "Eles se arrependeram e foram salvos.",
+        "Eles foram transformados em macacos.",
+        "Eles se afogaram no mar.",
+        "Eles foram soterrados por um deslizamento de terra."
+      ],
+      "answer": "Eles foram destruídos e seus restos se tornaram uma lição."
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

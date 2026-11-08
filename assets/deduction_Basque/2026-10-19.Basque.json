@@ -1,0 +1,61 @@
+{
+  "title": "Zeruko baztertuak",
+  "intro": "Izaki misteriotsu bat sorkuntzaren eta errefusaren bidegurutzean dago. Haien istorioa paregabeko harrokeriaz eta jainkozko agindu baten aurkako desafioz beteriko istorioa da. Haien aukera belaunaldi guztietan oihartzuna du, mundu honetan jaiotako arima guztientzat proba bihurtuz. Identifika al dezakezu etsai betiereko hau?",
+  "clues": [
+    "Garrantzi kosmikoko gertaera batean egon nintzen, buztinetik izaki berri bat sortu eta Errukitsuaren Hatsaz bizia eman zitzaionean.",
+    "Ni neu elementu sutsu bakar batetik sortu nintzen, hautsezko izaki hark ez bezala.",
+    "Nire mailaren azpitik zegoela uste nuen agindu bat eman zidaten.",
+    "Harrotasuna handitu zitzaidan barruan, eta tinko uko egin nion agindu horri betetzeari.",
+    "Egun zehatz bat eman zidaten arte atzerapena eman zidaten, besteak engainatzeko nire asmo adierazia bete ahal izateko.",
+    "Lur gainean dabiltzan guztien etsai deklaratua naiz, engainuak xuxurlatzen eta bide zuzenetik aldentzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Iblis (Satan)",
+        "Faraoia (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Adamen aurrean makurtu nahi ez zuen",
+        "Jainkotasuna faltsuki aldarrikatu zuen",
+        "Urrezko txahal bat landu zuen gurtzarako",
+        "Inbidiaz hil zuen anaia",
+        "Meka-ko politeista oposizioaren buru izan zen"
+      ],
+      "answer": "Adamen aurrean makurtu nahi ez zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Paradisua (Jannah)",
+        "Egiptoko faraoiaren jauregia",
+        "Tuwako haran sakratua",
+        "Itsasoaren sakonera.",
+        "Sabako lorategia."
+      ],
+      "answer": "Paradisua (Jannah)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Epaiketaren Egunera arte atsedenaldia eman zioten",
+        "Itsasoan armadarekin batera itota",
+        "Lurrak irentsi altxorrekin batera",
+        "Sabbatua hausteagatik tximino bihurtu ziren",
+        "Zerutik jaurtitako harriek erreta"
+      ],
+      "answer": "Epaiketaren Egunera arte atsedenaldia eman zioten"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

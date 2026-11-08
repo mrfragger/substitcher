@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanahy Miambina eo amoron'ny Renirano",
+  "intro": "Nisy fanahy tanora iray nanankinana iraka miafina, mba handinika avy lavitra ny hoavin'ny firenena iray. Tsy hita maso sy tsy ampoizina ity olona ity, ka handray anjara lehibe amin'ny fanovana ny tantaran'ny firenena iray.",
+  "clues": [
+    "Nanome ahy asa iray avy amin'ny reniko aho, asa izay nitaky fahamalinana sy fitandremana fatratra.",
+    "Nanaraka fandrian-jaza kely iray nivezivezy nanaraka ny riaka ny masoko, nivembena noho ny tebiteby ny foko.",
+    "Rehefa hitan'ny olona tsy nampoizina izany, dia nanatona aho sady raiki-tahotra.",
+    "Hitako ny famoizam-pony nitady mpikarakara ka nanolotra vahaolana aho nefa tsy nampiharihary ny marina.",
+    "Ny fidirako an-tsehatra ara-potoana dia namerina ilay fanahy be fitiavana tamin'ireo izay tena nila izany.",
+    "Teo amin'ny lapan'ny manam-pahefana, dia niteny aho hoe: 'Tokony hotarihiko any amin'ny fianakaviana iray izay hamelona sy hikarakara azy amim-pitandremana ve ianao?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny anabavin'i Musa",
+        "Ny renin'i Musa",
+        "Ny vadin'i Farao",
+        "Mpitondra vohoka",
+        "Ny zanakavavin'i Shu'aib"
+      ],
+      "answer": "Ny anabavin'i Musa"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny fanariana zaza iray any anaty renirano",
+        "Ny fisarahan'ny ranomasina",
+        "Ny fandoroana ny zanak'omby",
+        "Ny fanamboarana ny sambo fiara",
+        "Ny loza ateraky ny valala"
+      ],
+      "answer": "Ny fanariana zaza iray any anaty renirano"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny renirano",
+        "Ny tany efitra",
+        "Ny tendrombohitra",
+        "Ny lapa",
+        "Ny afo"
+      ],
+      "answer": "Ny renirano"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Naveriny tamin'ny reniny indray ilay zaza",
+        "Namonjy ny tenany tamin'ny miaramilan'i Farao izy",
+        "Lasa mpanjakavavy izy",
+        "Nosazina noho ny fitsikilovana izy",
+        "Izy no nitarika ny Israelita"
+      ],
+      "answer": "Naveriny tamin'ny reniny indray ilay zaza"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

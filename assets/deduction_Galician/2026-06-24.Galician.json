@@ -1,0 +1,61 @@
+{
+  "title": "O Gardián da Chama Inextinguible",
+  "intro": "Unha figura atópase no limiar do lugar máis temido do invisible, encargada dun deber que ningún outro ser desexa. Cando as almas que sofren claman por clemencia, unha resposta severa resoa polas cámaras de lume. Poderás descubrir a identidade deste gardián eterno?",
+  "clues": [
+    "Atópome á entrada dun terrorífico lugar de castigo no invisible.",
+    "Un lume abrasador e inextinguible é a peza central do meu solemne deber.",
+    "As almas que sofren chaman o meu nome, implorando alivio do seu tormento sen fin.",
+    "Cando supliquen, declaro que non marcharán, nunca máis.",
+    "Non son humano nin djinn; son un ser creado de pura obediencia.",
+    "Eu son o anxo xefe designado como gardián eterno do Lume Infernal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Miguel",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A xente do Inferno implora que se poña fin ao seu tormento",
+        "Tópase a trompeta para sinalar o Día do Xuízo",
+        "O Corán é revelado ao corazón do Profeta",
+        "Un profeta é lanzado a un gran lume polo seu pobo",
+        "Un poderoso muro constrúese para conter unha nación corrupta"
+      ],
+      "answer": "A xente do Inferno implora que se poña fin ao seu tormento"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O lume do inferno (Jahannam)",
+        "A árbore de loto no límite do Paraíso",
+        "Unha trompeta penetrante",
+        "Un bastón que se transforma nunha serpe",
+        "Un magnífico trono divino"
+      ],
+      "answer": "O lume do inferno (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Díceselles aos habitantes do Inferno que permanecerán eternamente",
+        "Os habitantes do Inferno son perdoados e liberados",
+        "Os habitantes do Inferno teñen unha segunda oportunidade de fe",
+        "Os habitantes do Inferno son trasladados a un lugar de frescura",
+        "Os habitantes do Inferno son completamente destruídos por un raio"
+      ],
+      "answer": "Díceselles aos habitantes do Inferno que permanecerán eternamente"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

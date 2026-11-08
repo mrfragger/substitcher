@@ -1,0 +1,61 @@
+{
+  "title": "Go Seba mo Phefong",
+  "intro": "Akanya fela ka lefelo le dilo tse di sa bonweng le tse di bonwang di neng di lomagane mo go lone, mme o eme fa pele ga setshwantsho se se mo bogareng jwa bogosi jo bo sa tshwaneng le bope jo bongwe. Moya ono o na le kitso e e fetang e e tlwaelegileng, o laola masole a batho ba bangwe ba neng ba ka a akanya fela. Le fa go ntse jalo, tota le yo o nonofileng thata a ka kokobediwa ke sebopiwa se sennye, mme boammaaruri bo ka nna jwa nna bo fitlhegile go fitlha ka nako e e beilweng. Ke mang motho yono yo boswa jwa gagwe bo boelelang mo dingwageng tsotlhe?",
+  "clues": [
+    "Ke ne ka newa bogosi jo go neng go se na ope morago ga me yo o neng a tla nna le jone.",
+    "Ke ne ka rua kitso le botlhale mo motsading yo o rategang.",
+    "Phefo e ne e le ka fa tlase ga taolo ya me, e tsamaya ka taelo ya me gongwe le gongwe kwa ke neng ke eletsa gone.",
+    "Ke ne ke kgona go tlhaloganya puo ya dinonyane tseno, mme di ne di direla mo sesoleng sa me.",
+    "Ke ne ka amogela dikgang go tswa mo nonyaneng e nnye ka kgosigadi nngwe e e neng e obamela letsatsi.",
+    "Loso lwa me lo ne lwa nna lo fitlhegile go fitlha sebopiwa sa lefatshe se ja thobane ya me, mme ke gone fela di- jinn di neng tsa lemoga gore ga di itse se se sa bonweng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeta Sulayman (Solomone)",
+        "Moporofeti Dawud (Dafide)",
+        "Moporofeta Musa (Moshe)",
+        "Moporofeti Isa (Jesu)",
+        "Moporofeti Nuh (Noa)"
+      ],
+      "answer": "Moporofeta Sulayman (Solomone)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Ketelo ya Kgosigadi ya Sheba",
+        "Go latlhelwa mo molelong",
+        "Go kgaoganya lewatle",
+        "Go aga araka",
+        "Go mediwa ke leruarua"
+      ],
+      "answer": "Ketelo ya Kgosigadi ya Sheba"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Lore lo lo jetsweng ke sebopiwa sa lefatshe",
+        "Lore lo lo neng lwa fetoga noga",
+        "Kamela e namagadi",
+        "Areka",
+        "Leruarua"
+      ],
+      "answer": "Lore lo lo jetsweng ke sebopiwa sa lefatshe"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Loso lwa gagwe lo ne lwa fitlhelwa majinne go fitlha thobane ya gagwe e jewa .",
+        "O ne a tlhatlosediwa kwa magodimong a tshela",
+        "O ne a bolokwa mo molelong ka taelo ya ga Allah",
+        "O ne a newa Tora",
+        "O pholositswe mo leruarueng"
+      ],
+      "answer": "Loso lwa gagwe lo ne lwa fitlhelwa majinne go fitlha thobane ya gagwe e jewa ."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

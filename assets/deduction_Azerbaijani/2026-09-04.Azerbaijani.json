@@ -1,0 +1,61 @@
+{
+  "title": "Dağları Yerinə Yıxan Melodiya",
+  "intro": "Allahın görkəmli bir qulunun hekayəsini kəşf etmək üzrəsiniz. Elçilər və hökmdarlar diyarında bu şəxs ilahi bir kitab, güclü bir səs və dəmirdən daha güclü bir insan kimi bəxş edilmişdir. İpuçları oxuduqca, bunun kim ola biləcəyini müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Mən Allahın xüsusi bir kitab bəxş etdiyi bir bəndəsi idim.",
+    "Gözəl səsim var idi və təriflərim o qədər sevilirdi ki, hətta təpələr və quşlar da mənə qoşulurdu.",
+    "Məşhur bir döyüşdə güclü bir rəqiblə qarşılaşdım və daha kiçik olmağıma baxmayaraq, qalib gəldim.",
+    "Dəmir mənim üçün elastik hala gətirildi və öz əllərimlə zireh düzəltməyə imkan verdi.",
+    "Mən böyük bir millətin hökmdarı təyin edildim və mühakimə qabiliyyətim məşhur oldu.",
+    "Oğlum da peyğəmbər idi, ona külək və cinlər üzərində hakimiyyət verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Davud peyğəmbər (ə)",
+        "Süleyman peyğəmbər (Süleyman)",
+        "Musa peyğəmbər (Musa)",
+        "Harun Peyğəmbər (Harun)",
+        "İlyas peyğəmbər (İlyas)"
+      ],
+      "answer": "Davud peyğəmbər (ə)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Məğlub olmuş Qolyat (Calut)",
+        "Dənizi iki yerə böldü",
+        "Balinadan sağ çıxdı",
+        "Atəşə atıldı",
+        "Gəmini tikdi"
+      ],
+      "answer": "Məğlub olmuş Qolyat (Calut)"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Zəbur (Zəbur)",
+        "Tövrat (Tövrat)",
+        "İncil (İncil)",
+        "İbrahimin əlyazmaları",
+        "Quran"
+      ],
+      "answer": "Zəbur (Zəbur)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İsrailin peyğəmbəri və padşahı oldu",
+        "Misirin hökmdarı oldu",
+        "Göylərə qaldırıldı",
+        "Fırtına nəticəsində məhv edildi",
+        "Mağaranın yoldaşı oldu"
+      ],
+      "answer": "İsrailin peyğəmbəri və padşahı oldu"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

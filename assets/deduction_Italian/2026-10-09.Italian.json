@@ -1,0 +1,61 @@
+{
+  "title": "La chiamata inascoltata nella terra dell'arroganza",
+  "intro": "Ti trovi tra le rovine di una civiltà un tempo gloriosa, dove potere e orgoglio non conoscevano limiti. Un messaggero camminava tra loro, invocando la verità, ma i loro cuori si indurirono. L'avvertimento rimase inascoltato e il cielo stesso divenne strumento di ira. Chi era questo messaggero e che fine fecero coloro che respinsero la chiamata?",
+  "clues": [
+    "Sono stato inviato presso un popolo dalla forza ineguagliabile, che erigeva monumenti su ogni altura.",
+    "Il mio popolo si considerava invincibile e diceva: \"Chi è più forte di noi?\"",
+    "Li ho esortati ad adorare solo Allah, ma mi hanno accusato di stoltezza e menzogna.",
+    "Mi hanno sfidato a infliggere la punizione che avevo promesso se avessi detto la verità.",
+    "Allah mandò su di loro un vento sterile che non risparmiò nulla sul suo cammino.",
+    "Io e coloro che credevano con me fummo salvati dalla misericordia di Allah, mentre i miscredenti furono completamente distrutti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shuaib",
+        "Profeta Lutero",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Un vento devastante distrusse gli increduli",
+        "Una grande inondazione travolse gli increduli",
+        "Una pioggia di pietre si abbatté",
+        "Un forte grido colse gli increduli",
+        "Un terremoto colpì gli increduli"
+      ],
+      "answer": "Un vento devastante distrusse gli increduli"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un vento implacabile",
+        "Un'arca di legno",
+        "Una cammella",
+        "Una pioggia di pietre d'argilla",
+        "Un fuoco ardente"
+      ],
+      "answer": "Un vento implacabile"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Hud e i credenti furono salvati, mentre i miscredenti furono distrutti.",
+        "Hud fu elevato a una posizione di rilievo.",
+        "Hud fu ucciso dal suo popolo.",
+        "Il popolo di Hud si pentì e fu risparmiato",
+        "Hud lasciò il suo popolo prima di essere punito."
+      ],
+      "answer": "Hud e i credenti furono salvati, mentre i miscredenti furono distrutti."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

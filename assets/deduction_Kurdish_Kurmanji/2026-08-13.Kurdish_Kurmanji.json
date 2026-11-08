@@ -1,0 +1,61 @@
+{
+  "title": "Ruhê Sebir ê Mala Pîroz",
+  "intro": "Di rûpelên Quranê de, kesayetek ji rêza pêxemberekî mezin derdikeve holê, ku di temenê pîrbûnê de wekî diyariyek hatiye dayîn. Ev giyan ji ber rastiya bêdawî û rola xwe ya kûr di avakirina cihekî pîroz de ku dê bibe çira baweriyê tê pîrozkirin. Dema ku hûn nîşanan dixwînin, bi baldarî guh bidin dengê ji rabirdûyê, ji ber ku ew bi kesê yekem diaxive.",
+  "clues": [
+    "Ez di Quranê de li kêleka pêxemberekî din wekî diyariyek ji peyamberekî pîr re hatî dayîn, têm behs kirin.",
+    "Ez yek ji wan du zarokên ku di salên wî yên dawîn de ji wî pêxemberî re hatine dayîn bûm.",
+    "Di Quranê de ez ji ber ku ez bi soza xwe re dilsoz im têm pesindan.",
+    "Min rûmeta pêxembertiyê hilgirt û wekî peyamber hatim şandin.",
+    "Ez bi bavê xwe re di bilindkirina bingehên Mala Pîroz de bûm.",
+    "Ez wek yek ji wan kesên sebirkar têm bîranîn, û xaniyê pîroz ku me ava kir ji bo mirovan bû cihekî veger û ewlehiyê."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îsmaîl",
+        "Pêxember Îshaq",
+        "Pêxember Yaqûb",
+        "Pêxember Zekeriya",
+        "Pêxember Yahya"
+      ],
+      "answer": "Pêxember Îsmaîl"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bi hevkariya Îbrahîm, bilindkirina bingehên Kabeyê",
+        "Tê avêtin nav agir",
+        "Ji aliyê balîneyekê ve tê daqurtandin",
+        "Derxistina Îsraêliyan ji Misirê",
+        "Avakirina keştîyekê"
+      ],
+      "answer": "Bi hevkariya Îbrahîm, bilindkirina bingehên Kabeyê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kebe",
+        "Çiyayê Sînayê",
+        "Deryaya Sor",
+        "Golika Zêrîn",
+        "Baxçeyê Edenê"
+      ],
+      "answer": "Kebe"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Di nav nexweşan de hat jimartin",
+        "Di nav zalimkaran de tê jimartin",
+        "Di nav sêrbazan de tê jimartin",
+        "Di nav kafiran de tê jimartin",
+        "Di nav munafiqan de tê jimartin"
+      ],
+      "answer": "Di nav nexweşan de hat jimartin"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

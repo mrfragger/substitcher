@@ -1,0 +1,61 @@
+{
+  "title": "Dalens tysta röst",
+  "intro": "Res tillbaka i tiden till ett mäktigt folk som en gång fick ett levande underverk som ett test. Arrogans och envishet beseglade deras öde. Kan du spåra historien och upptäcka vad som utspelade sig i denna dramatiska vändpunkt?",
+  "clues": [
+    "Jag sändes som en gudomlig prövning till ett mäktigt folk känt för sin styrka och sitt trots.",
+    "Jag var ett unikt underverk – min like hade aldrig dykt upp bland dem.",
+    "Jag delade dricksvatten från en brunn med mitt folk varannan dag.",
+    "De varnades att allt ont mot mig skulle leda till snabbt straff.",
+    "Den vågade av dem ignorerade varningen och satte stopp för mig.",
+    "Efter min död förintade ett enda dånande rop från ovan hela mitt folk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Salihs honkamel",
+        "Musas ko",
+        "Nuhs skepp",
+        "Musas personal",
+        "Bilqis tron"
+      ],
+      "answer": "Salihs honkamel"
+    },
+    "trial": {
+      "label": "Mitt öde",
+      "options": [
+        "Hamstrungad och dödad",
+        "Slaktad som ett offer",
+        "Förvandlades till en orm",
+        "Bevarad genom en stor översvämning",
+        "Snabbt fört över ett kungarike"
+      ],
+      "answer": "Hamstrungad och dödad"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En brunn med vatten",
+        "En stentavla",
+        "En brinnande buske",
+        "En ark av trä",
+        "En tron ​​av guld och silver"
+      ],
+      "answer": "En brunn med vatten"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förstört av ett enda skrik",
+        "Drunknade i en stor översvämning",
+        "Bränd av en stenregn",
+        "Krossat av en våldsam vind",
+        "Slukad av jorden"
+      ],
+      "answer": "Förstört av ett enda skrik"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

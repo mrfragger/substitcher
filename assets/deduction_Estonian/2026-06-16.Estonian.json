@@ -1,0 +1,61 @@
+{
+  "title": "Hääl, mis kutsus õiglusele",
+  "intro": "Muistsel Midjani maal, kus kaubandus õitses ja karavanid läbisid laiu kõrbeid, kerkis õigluse teelt kõrvale kaldunud rahva seast Allahi prohvet. See Allahi teener saadeti jumaliku missiooniga, mis pidi proovile panema terve kogukonna usu. Kannatlikkuse ja visaduse katsumuste läbi seisis see hing kindlalt, edastades hoiatuse, mis kajas läbi ajaloo. Kas suudad selle vankumatu sõnumitooja saladuse lahti harutada?",
+  "clues": [
+    "Allah valis mind juhatama rahvast, kes oli oma suhetes unustanud õigluse ja aususe põhimõtted.",
+    "Ma edastasin sõnumi, milles kutsusin oma kogukonda üles kummardama ainult Allahi ja rääkima kõigis küsimustes tõtt.",
+    "Hoiatasin konkreetselt korruptiivse praktika eest, mille kohaselt tarbitakse rikkust ebaseaduslike vahenditega, ning rõhutasin õiglaste kaalude ja mõõtude olulisust.",
+    "Mu rahvas vastas mu hoiatustele pilkamisega, ähvardades mind oma maalt välja ajada, kui ma oma sõnumit jätkan.",
+    "Jäin oma missioonil kindlaks vaatamata nende vaenulikkusele, kuulutades, et minu tasu on ainult Allahi käes.",
+    "Mu rahvast tabas laastav karistus, samal ajal kui mind päästis mu Issanda halastus, kuna mu missioon oli täidetud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Shu'aib",
+        "Prohvet Hud",
+        "Prohvet Salih",
+        "Prohvet Lut",
+        "Prohvet Muhamed ﷺ"
+      ],
+      "answer": "Prohvet Shu'aib"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Silmitsi rahvaga, kes hülgas tõe ja ähvardas karistusega Allahi sõnumi edastamise eest",
+        "Tunnistades suurt veeuputust, mis hävitas terve rahva uskmatud",
+        "Ilmutuse saamine läbi 笃 oru rännates",
+        "Usu katsumus, kui rõhuv valitseja püüdis vaigistada üleskutset monoteismile",
+        "Rahvas palub vihma ränga põua ajal pärast aastaid kestnud sõnakuulmatust"
+      ],
+      "answer": "Silmitsi rahvaga, kes hülgas tõe ja ähvardas karistusega Allahi sõnumi edastamise eest"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Midjani maa, kus mu rahvas oma kaubandust ja äri ajas",
+        "Suure laeva tekk, mis päästis usklikud katastroofilisest üleujutusest",
+        "Koobas kaljuses mäes, kus seitse noort otsisid tagakiusamise eest varjupaika",
+        "Püha linn Jeruusalemm, kuhu mind igal õhtul rännakule viidi",
+        "Palee Seebas, kus suur kuningriik valmistus tunnistajaks jumalikule märgile"
+      ],
+      "answer": "Midjani maa, kus mu rahvas oma kaubandust ja äri ajas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Mu rahvast tabas kohutav karistus, samal ajal kui mind päästeti, sest olin täitnud oma kohust Allahi ees",
+        "Uskmatud muudeti ahvideks, kuna nad rikkusid Allahi pühasid piire",
+        "Mu vaenlased võtsid usu omaks pärast imelise muutumise tunnistajaks olemist",
+        "Pärast seda, kui inimesed meelt parandasid, õnnistati maad rikkaliku vihma ja õitsenguga",
+        "Minu enda rahvas suri mind märtriks, kuna keeldusin oma missioonist loobumast"
+      ],
+      "answer": "Mu rahvast tabas kohutav karistus, samal ajal kui mind päästeti, sest olin täitnud oma kohust Allahi ees"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

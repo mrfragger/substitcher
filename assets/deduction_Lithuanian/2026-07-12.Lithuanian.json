@@ -1,0 +1,61 @@
+{
+  "title": "Neprilygstamo Didingumo Prarastasis Miestas",
+  "intro": "Kadaise galinga civilizacija valdė didžiulius žemės plotus, garsėdama dėl į dangų siekiančių aukštų statinių. Tačiau po šia didybe augo atkaklus neigimas – atsisakymas klausyti dieviškojo perspėjimo, atsiųsto iš pačios bendruomenės vidaus. Išdidumas ir arogancija netrukus užtrauks bausmę, kokios nei žemė, nei dangus dar nebuvo matę.",
+  "clues": [
+    "Kadaise valdėme didžiulius žemės plotus, girdamiesi jėga, kuriai, mūsų manymu, negalėjo prilygti jokia kita civilizacija.",
+    "Mūsų karalystė garsėjo aukštais statiniais su galingomis kolonomis, kurios neturėjo lygių jokioje žinomoje žemėje.",
+    "Iš mūsų bendruomenės pakilo perspėjėjas, ragindamas kiekvieną iš mūsų paklusti tik Vienam Kūrėjui.",
+    "Mes neigėme mums perduotą žinią ir atsisakėme palikti paveldėtą kelią.",
+    "Prieš mus kilo įnirtingas, siaučiantis, neapsakomo stiprumo vėjas, palikdamas mus visiškai beginklius.",
+    "Likome tarsi išsklaidyti ir pamiršti palmių kamienai, tarsi pamoka kiekvienai ateinančiai kartai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "A'ado žmonės",
+        "Nuh žmonės",
+        "Luto žmonės",
+        "Madjano žmonės",
+        "Tubbos žmonės"
+      ],
+      "answer": "A'ado žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Negailestingas, siautėjantis griežtos bausmės vėjas",
+        "Potvynis, užliejęs kiekvieną kalnų viršūnę",
+        "Iš viršaus lyja degančių molio akmenų lietus",
+        "Vienas bauginantis klyksmas iš dangaus",
+        "Smarkus žemės drebėjimas, padalijęs žemę"
+      ],
+      "answer": "Negailestingas, siautėjantis griežtos bausmės vėjas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Iramas, didingų kolonų miestas",
+        "Ant kalno pastatyta didžiulė medinė arka",
+        "Kupranugarė, stebuklingai išnirusi iš akmens",
+        "Sinajaus kalnas, kur nusileido dieviškieji įsakymai",
+        "Krištoliniai ir puikaus stiklo rūmai, iš kurių atsiveria vaizdas į tekančius vandenis"
+      ],
+      "answer": "Iramas, didingų kolonų miestas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Liko lyg tuščiaviduriai palmių kamienai, išsibarstę ir negyvi",
+        "Nuskendo po didžiulio potvynio bangomis",
+        "Transformuoti į beždžiones ir kiaules panašius padarus",
+        "Sutraiškytas po sukietėjusių molio akmenų lietumi",
+        "Apimtas vieno kurtinančio šauksmo, pervėrusio sielą"
+      ],
+      "answer": "Liko lyg tuščiaviduriai palmių kamienai, išsibarstę ir negyvi"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

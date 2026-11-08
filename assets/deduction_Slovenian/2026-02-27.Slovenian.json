@@ -1,0 +1,61 @@
+{
+  "title": "Glas nevidnega",
+  "intro": "V analih božanske komunikacije izstopa osebnost, katere zgodba je prepletena s čudežnimi znamenji in neomajno vero. Ta posameznik je prejel edinstveno razodetje, ki je izzvalo norme svojega časa, saj je govoril izza tančice običajnega zaznavanja. Njihovo sporočilo ni prišlo po običajnih sredstvih, temveč skozi globoko povezavo, ki je kljubovala človeškemu razumevanju in ljudi klicala, da prepoznajo resnico na nepričakovane načine. Potovanje tega Alahovega služabnika služi kot dokaz, kako se lahko vodstvo manifestira v najbolj izjemnih okoliščinah, in vabi k razmisleku o naravi samega razodetja.",
+  "clues": [
+    "Prejel sem sporočilo, ki je prišlo preko skrivnostnega glasu iz nevidnega vira.",
+    "Moji ljudje so sprva zavrnili moje sporočilo in zahtevali bolj konvencionalne dokaze o moji resnicoljubnosti.",
+    "Izzval sem jih, naj pripravijo nekaj podobnega temu, kar sem prejel, vendar niso mogli.",
+    "Razodetje, ki sem ga prinesel, je bilo opisano kot jasni verzi, ki so razkrili resnico.",
+    "Svoje ljudstvo sem posvaril pred hudo kaznijo, če bodo nadaljevali s svojo nevero in aroganco.",
+    "Moja zgodba je omenjena skupaj z drugimi poslanci v suri, ki poudarja znake Alahove moči."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Hud",
+        "Prerok Salih",
+        "Prerok Šuajb",
+        "Vernik iz Faraonove družine",
+        "Prerok Musa"
+      ],
+      "answer": "Prerok Salih"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Biti vržen v ognjeno peč",
+        "Soočanje z zatiranjem tiranskega vladarja",
+        "Roditev kamele kot čudežno znamenje",
+        "Preživetje velike poplave",
+        "Biti vržen v morje v skrinji"
+      ],
+      "answer": "Roditev kamele kot čudežno znamenje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dolina Tuwa",
+        "Mesto Madyan",
+        "Dežela Thamuda",
+        "Faraonovo sodišče",
+        "Jama Hira"
+      ],
+      "answer": "Dežela Thamuda"
+    },
+    "outcome": {
+      "label": "Izid",
+      "answer": "Moje ljudstvo je bilo uničeno, ker je ubilo čudežno kamelo",
+      "options": [
+        "Moje ljudstvo se je pokesalo in bilo rešeno",
+        "Živ sem bil vzet v nebesa",
+        "Moje ljudstvo je bilo uničeno, ker je ubilo čudežno kamelo",
+        "Postal sem velik vladar",
+        "Rešen sem bil tako, da so me dali v barko"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

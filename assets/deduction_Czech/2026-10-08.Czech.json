@@ -1,0 +1,61 @@
+{
+  "title": "Kamenáři starověkého údolí",
+  "intro": "Představte si civilizaci, která se zrodila ve skalnatých údolích Arábie a byla zběhlá ve stavbě nádherných domů z horských svahů. Vzkvétala silou a uměním, přesto je její příběh poznamenán mrazivým vzdorem božskému varování. Když se ponoříte do jejich příběhu, odhalíte lid, jehož arogance vedla k jejich naprostému zničení. Kdo byli?",
+  "clues": [
+    "Zdědili jsme zemi skalnatých plání a tyčících se útesů, kde jsme si s bezkonkurenční dovedností postavili svá obydlí.",
+    "Byli jsme známí tím, že jsme si v horách vytesávali bezpečné domy a cítili se v bezpečí před jakýmkoli nebezpečím.",
+    "Přišel k nám posel z našich řad, připomínající nám Alláhovy laskavosti a varující nás před trestem.",
+    "Požadovali jsme znamení a ze skály se vynořila zázračná velbloudice, jasná zkouška od Alláha.",
+    "Vzepřeli jsme se varování a podřízli velbloudi šlachy, posmívali jsme se poslu a zpochybňovali trest.",
+    "Jediný výbuch nás zastihl v našich domovech a ráno jsme leželi na zemi, jako bychom tam nikdy nežili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z Thamudu",
+        "Lidé z 'Ad",
+        "Lidé z Madyanu",
+        "Lidé z Nuha",
+        "Lidé z Lutu"
+      ],
+      "answer": "Lidé z Thamudu"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Ochromil velbloudi",
+        "Porušil Sabat",
+        "Uctíval zlaté tele",
+        "Zabili proroka, který jim byl poslán",
+        "Postavil jsem věž, abych dosáhl nebes"
+      ],
+      "answer": "Ochromil velbloudi"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Velbloudice",
+        "Archa",
+        "Zaměstnanci",
+        "Bílá ruka",
+        "Mana a křepelky"
+      ],
+      "answer": "Velbloudice"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zničeno výbuchem",
+        "Zachráněn před zničením",
+        "Proměněni v opice",
+        "Utopený v moři",
+        "Pohlceno zemí"
+      ],
+      "answer": "Zničeno výbuchem"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

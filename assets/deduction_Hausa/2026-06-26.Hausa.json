@@ -1,0 +1,61 @@
+{
+  "title": "Nauyin Kyauta da Aka Ƙi Amincewa",
+  "intro": "A farkon tarihin ɗan adam, lokacin da duniya take ƙarama kuma duniya ta riƙe numfashinta na farko, wata rai ta tsaya a gaban Mahalicci da hadaya mai tawali'u. An auna wannan hadaya a ma'aunin karɓar Allah - kuma an ga ba ta da amfani. Abin da ya biyo baya ba labarin gafara ba ne, amma na zuciya da kishi ya mamaye, wanda ya kai ga wani aiki da ba za a iya jurewa ba wanda zai yi ta maimaitawa a kowane lokaci. Wannan shine labarin wanda sunansa ya zama daidai da rashin adalci na farko da aka taɓa yi.",
+  "clues": [
+    "Na fara rayuwa a matsayin ɗaya daga cikin 'ya'yan farko da aka haifa, waɗanda iyayensu suka haifa, waɗanda kuka san labarinsu sosai.",
+    "Na taɓa miƙa hadaya ga Allah, amma ba a karɓa daga gare ni ba - duk da cewa an karɓi kyautar ɗan'uwana da alheri.",
+    "Hassada da fushi sun yi katutu a zuciyata, kuma na yi barazanar kawo ƙarshen rayuwar dangina.",
+    "Ɗan'uwana ya yi mini gargaɗi da in ji tsoron Allah, amma girman kai na bai bar ni in saurara ba.",
+    "A cikin wani mummunan rauni, na aikata wani abu da ba za a iya faɗi ba ga ɗan'uwana.",
+    "Bayan haka, ban ma san yadda zan ɓoye abin da na yi ba - sai da aka aiko wani halitta na duniya don ya koya mini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Qabil (Ka'in)",
+        "Habila (Habila)",
+        "Ɗan Annabi Nuhu",
+        "Annabi Isma'il",
+        "Annabi Yusufu"
+      ],
+      "answer": "Qabil (Ka'in)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Bayar da hadaya da aka ƙi, wanda ya kai ga kisan kai na farko",
+        "Gina hasumiya mai tsayi don isa ga sammai",
+        "A jefa mutum cikin wuta mai zafi saboda imaninsa",
+        "Yin sadaukar da ɗanka don biyayya ga Allah",
+        "Kifi mai girma ya haɗiye shi saboda gudun aikin da ya yi."
+      ],
+      "answer": "Bayar da hadaya da aka ƙi, wanda ya kai ga kisan kai na farko"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Hankaka da Allah ya aiko don nuna binne gawa",
+        "Ambaliyar ruwa mai girma da ta nutsar da mutane gaba ɗaya",
+        "Sanda da ta rikide ta zama maciji mai rai",
+        "Raƙumi da ya fito daga dutsen dutse",
+        "Kursi mai girma wanda iska mai ƙarfi ke ɗauke da shi"
+      ],
+      "answer": "Hankaka da Allah ya aiko don nuna binne gawa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama cikin masu nadama, waɗanda laifin farko da aka taɓa aikatawa ya shafa",
+        "Allah ya gafarta masa kuma ya ba shi Aljanna ta har abada",
+        "An ɗaga shi zuwa babban matsayi na annabci da hikima",
+        "An cece shi ta hanyar rahamar Allah bayan ya yi kira daga cikin duhu",
+        "An ba shi iko a kan aljanu, da iska, da tekuna"
+      ],
+      "answer": "Ya zama cikin masu nadama, waɗanda laifin farko da aka taɓa aikatawa ya shafa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

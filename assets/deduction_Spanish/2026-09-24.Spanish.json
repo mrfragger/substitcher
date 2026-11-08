@@ -1,0 +1,61 @@
+{
+  "title": "El soberano que exigió la divinidad",
+  "intro": "Un gobernante poderoso y arrogante creía que nadie estaba por encima de su trono. Persiguió a un grupo que huía a través de una vasta extensión de agua, solo para encontrar un final dramático. La historia de este soberano resuena en muchos pasajes del Corán, sirviendo como advertencia para todos.",
+  "clues": [
+    "Yo era un gobernante poderoso que creía que ninguna autoridad superaba la mía en las tierras que gobernaba.",
+    "Tuve un visir de confianza llamado Hamán que me ayudó a llevar a cabo grandes proyectos arquitectónicos.",
+    "Convoqué a los mejores magos de mi tierra para que desafiaran los símbolos de un mensajero que se oponía a mí.",
+    "Me negué a dejar marchar a un pueblo esclavizado dentro de mi reino, a pesar de las plagas y las claras advertencias.",
+    "Los perseguí a través de un vasto mar con todo mi ejército y mis carros de guerra.",
+    "Ese mismo mar se cerró sobre mí y mis tropas, ahogándonos a todos, mientras ellos cruzaban a salvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Fir'awn (Faraón)",
+        "Namrud",
+        "Abu Lahab",
+        "Hamán",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Faraón)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Plagas y enfrentamiento con Musa (Moisés)",
+        "Construir un arca antes de un gran diluvio",
+        "Batalla contra Jalut en el valle",
+        "Ser tragado por una ballena",
+        "Defendiendo los pesos comerciales justos"
+      ],
+      "answer": "Plagas y enfrentamiento con Musa (Moisés)"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Torres altas y estacas",
+        "Un gran arca de madera",
+        "Un becerro de oro",
+        "Un bastón que se transformó en serpiente",
+        "Una ballena enorme"
+      ],
+      "answer": "Torres altas y estacas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ahogado en el mar con el ejército",
+        "Salvados por la misericordia y la paciencia de Alá, recompensados.",
+        "Reunido con su familia tras años de dificultades.",
+        "Engullido por la tierra",
+        "Quemado en un incendio"
+      ],
+      "answer": "Ahogado en el mar con el ejército"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

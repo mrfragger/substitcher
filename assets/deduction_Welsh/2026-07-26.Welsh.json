@@ -1,0 +1,61 @@
+{
+  "title": "Y Goron a Heriodd yr Awyr",
+  "intro": "Yng nghoridorau teyrnasoedd hynafol, daeth enw un rheolwr yn gyfystyr â gormes a thrahausrwydd. Pan gyrhaeddodd gwas gostyngedig Allah yn dwyn arwyddion diamheuol, gwrthododd y brenin nerthol hwn ildio i'r gwir. Heddiw, eich tasg chi yw adnabod y ffigur chwedlonol hwn y chwalodd ei lywodraeth a seliwyd ei dynged o dan y tonnau.",
+  "clues": [
+    "Fi yw'r rheolwr mwyaf ofnus y mae ei enw'n dal i atseinio fel rhybudd trwy'r oesoedd.",
+    "Gorchmynnais i bobl gyfan lafurio mewn cadwyni, gan godi cofebau a oedd yn cyhoeddi fy ngogoniant.",
+    "Pan ddaeth negesydd Allah o'm blaen gydag arwyddion diamheuol, gwrthodais ymgrymu a'i alw'n ddewiniaeth.",
+    "Gorchmynnais ladd meibion ​​babanod ymhlith pobl gaeth, gan obeithio malu eu hysbryd cyn y gallent godi.",
+    "Safais o flaen fy llys a datgan, 'Myfi yw eich arglwydd uchaf,' gan fynnu cael fy addoli fel duw.",
+    "Gyda fy mhrif weinidog wrth fy ymyl, adeiladais strwythur uchel gyda'r nod o ddringo y tu hwnt i'r nefoedd."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pharo (Fir'awn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Pharo (Fir'awn)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Y boddi yn y Môr Coch",
+        "Y gamel fenywaidd a anfonwyd at bobl Thamud",
+        "Dilyw mawr Nuh",
+        "Cosb Cymdeithion y Ffos",
+        "Dinistrio byddin Abraha gan adar"
+      ],
+      "answer": "Y boddi yn y Môr Coch"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y strwythur uchel a adeiladwyd gyda Haman",
+        "Yr arch a hwyliodd ar y llifogydd",
+        "Y llo aur a luniwyd gan y Samiri",
+        "Gorsedd Bilqis, Brenhines Sheba",
+        "Ogof y bobl ifanc sy'n cysgu"
+      ],
+      "answer": "Y strwythur uchel a adeiladwyd gyda Haman"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Boddi yn y môr; corff wedi'i gadw fel rhybudd",
+        "Wedi'u halltudio a'u gorfodi i grwydro'r anialwch",
+        "Wedi'u trawsnewid yn epaod fel cosb",
+        "Wedi'i daro gan ddaeargryn treisgar",
+        "Wedi'i llosgi gan law o gerrig o'r awyr"
+      ],
+      "answer": "Boddi yn y môr; corff wedi'i gadw fel rhybudd"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

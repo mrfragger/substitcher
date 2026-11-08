@@ -1,0 +1,61 @@
+{
+  "title": "Egiaren Bilatzaile Irmoa",
+  "intro": "Ezjakintasunak eta jainko faltsuen gurtzak inguratutako garai batean, fedearen bidaia sakon bat zabaldu zen. Pertsona honek bere gizartearen arauak zalantzan jarri zituen, Sortzaile Egiazko Bakarra konbentzimendu irmoz bilatuz. Presta zaitez milioika pertsona inspiratzen jarraitzen duen arima baten identitatea ezagutzeko.",
+  "clues": [
+    "Zeruko gorputzak zalantzan jarri nituen, dena sortu eta eusten duen benetako Jauna bilatuz.",
+    "Nire aberria uzteko agindu zidaten, Alak bedeinkatutako lurralde batera bidaiatzeko.",
+    "Nire herriaren idoloei erronka egin nien, haien alferrikakotasunari zuzenean aurre eginez hautsiz.",
+    "Nire herriak su bizian sartu ninduen, baina Allahren aginduz fresko eta baketsu bihurtu nintzen.",
+    "Nire lehen-seme maitea sakrifikatzeko aginduarekin probatu ninduten, men egite goreneko proba bat.",
+    "Nik, nire semearekin batera, Lurreko lehen Gurtza Etxearen oinarriak altxatu genituen, gizateria osoarentzako santutegi bat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Nuh profeta",
+        "Yusuf profeta",
+        "Salih profeta",
+        "Ibrahim profeta",
+        "Isa profeta"
+      ],
+      "answer": "Ibrahim profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde handia.",
+        "Itsasoaren zatiketa.",
+        "Thamuden suntsipena.",
+        "Seme bat sakrifikatzeko agindua",
+        "Arkarekin basamortuan zehar egindako bidaia"
+      ],
+      "answer": "Seme bat sakrifikatzeko agindua"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Langileak",
+        "Tur mendia.",
+        "Arka",
+        "Kaaba",
+        "Urrezko Txahala"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Egiptoko agintari bihurtu zen",
+        "Bere jendea ito egin zen",
+        "Jakinduria eta leinu zuzena eman zitzaizkion",
+        "Balea batek irentsi zuen",
+        "Bere hiria irauli egin zen"
+      ],
+      "answer": "Jakinduria eta leinu zuzena eman zitzaizkion"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

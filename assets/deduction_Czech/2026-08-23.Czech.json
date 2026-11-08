@@ -1,0 +1,61 @@
+{
+  "title": "Zmizelá množnost",
+  "intro": "Stojíte před ozvěnami komunity, jejíž příběh je vepsán do vln. Tyto duše vyslyšely volání, zvolily si vzdor a čelily následkům, které změnily podobu Země. Kdo jsou a co se stalo s jejich světem?",
+  "clues": [
+    "Žili jsme před dávnými časy a posel k nám přišel z našich řad.",
+    "Uctívali jsme pět idolů a odmítali jsme se jich vzdát.",
+    "Posmívali jsme se poslu a obvinili ho, že sešel z cesty.",
+    "Požadovali jsme, aby byl potrestán, pokud mluvil pravdu.",
+    "Viděli jsme, jak nebesa lijí déšť a země tryská prameny.",
+    "Vyšplhali jsme se na vyvýšená místa, abychom unikli, ale vlny nás dostihly."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Lidé z Nuha",
+        "Lidé z 'Ad",
+        "Lidé z Thamudu",
+        "Lidé z Lutu",
+        "Lidé z Madyanu"
+      ],
+      "answer": "Lidé z Nuha"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Utopila nás velká povodeň",
+        "Byli jsme zničeni hurikánem",
+        "Zabila nás hlasitá exploze",
+        "Byli jsme pohlceni zemí",
+        "Byli jsme zasypáváni kameny z nebe"
+      ],
+      "answer": "Utopila nás velká povodeň"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Velká povodeň",
+        "Prudký vítr",
+        "Sprška kamení",
+        "Ohnivý výbuch",
+        "Zemětřesení"
+      ],
+      "answer": "Velká povodeň"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Všichni jsme zahynuli kromě věřících s Nuhem",
+        "Byli jsme proměněni v opice",
+        "Zůstali jsme jako ruiny pro poutníky",
+        "Byli jsme proměněni v sůl",
+        "Dostali jsme oddech"
+      ],
+      "answer": "Všichni jsme zahynuli kromě věřících s Nuhem"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Viimeisen näytön päivä",
+  "intro": "Kutsuttuna suureen voimannäyttöön joukko taitavia esiintyjiä huomasi kohtaavansa odottamattoman totuuden, joka muuttaisi heidän elämänsä ikuisiksi ajoiksi.",
+  "clues": [
+    "Meidät tunnettiin taidoistamme, illuusioiden ja petosten mestareina.",
+    "Hallitsija kutsui meidät kohtaamaan haastajan, jolla oli yksinkertainen sauva.",
+    "Kun näimme totuuden, lankesimme maahan ja julistimme uskovamme maailmojen Herraan.",
+    "Tyranni uhkasi meitä ankaralla rangaistuksella, mutta emme epäröineet.",
+    "Olimme ensimmäisten joukossa, jotka uskoivat sanomaan nähtyämme selkeän merkin.",
+    "Meidät tapettiin marttyyrikuolemana uskomme tähden, mutta me pääsemme ensimmäisinä paratiisiin vanhurskaiden kanssa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Faaraon taikurit",
+        "Israelilaiset",
+        "Thamudin kansa",
+        "Jesan opetuslapset",
+        "Abraha-armeija"
+      ],
+      "answer": "Faaraon taikurit"
+    },
+    "trial": {
+      "label": "Koe / Tapahtuma",
+      "options": [
+        "Kilpailu profeetta Musan kanssa",
+        "Tornin rakentaminen",
+        "Suuri tulva",
+        "Heinäsirkkavitsaus",
+        "Halkeava meri"
+      ],
+      "answer": "Kilpailu profeetta Musan kanssa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Festivaalipäivä",
+        "Tuwan laakso",
+        "Iramin kaupunki",
+        "Ikuisuuden puutarha",
+        "Arafatin tasanko"
+      ],
+      "answer": "Festivaalipäivä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Heidät ristiinnaulittiin julkisesti",
+        "He hukkuivat mereen",
+        "Heistä tehtiin profeetan seuraajia",
+        "Heidät lähetettiin maanpakoon",
+        "Heidät tuhosi tulipalo"
+      ],
+      "answer": "Heidät ristiinnaulittiin julkisesti"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A lélek a bálvány mögött",
+  "intro": "Egy zsarnokság elől való nagy kivonulás árnyékában ez a titokzatos alak várakozott a pusztában. Míg egy kiválasztott nép vezetője felment egy szent hegyre az isteni közösségért, nagy megpróbáltatás érte az ottmaradottakat. Ez az egyén megragadta a pillanatot, hogy átalakítsa egy egész közösség hitét. Amikor a vezető visszatért az igazsággal, egyedi és örök büntetést rendelt el. Meg tudod fejteni, hogy ki volt ez a vitatott és ravasz lélek?",
+  "clues": [
+    "Egy olyan néppel utaztam, amely csodálatos jelek által szabadult meg egy hatalmas elnyomó markából.",
+    "Amikor vezetőjük felment a hegyre útmutatást kérni, én azok között várakoztam, akik hátramaradtak.",
+    "Nemesfémet gyűjtöttem a díszeikből, és valami hangot adó dolgot formáltam belőle.",
+    "Ezzel a teremtéssel meggyőztem egy egész generációt arról, hogy megtalálták istenüket a vadonban.",
+    "Amikor a vezető visszatért, engem választottak ki, és megkérdezték, mi vitt rá erre a megtévesztésre.",
+    "A büntetésem ebben a világban az volt, hogy senki sem érhetett hozzám, és senki sem mehetett a közelembe, ezt a szégyent örökre viselem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A szamiri",
+        "Mózes próféta",
+        "A fáraó mágusai",
+        "Hámán, a fáraó minisztere",
+        "Iblis, az elutasított"
+      ],
+      "answer": "A szamiri"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az aranyborjú elkészítése",
+        "A fáraóval való összecsapás",
+        "Egy nagy bárka építése",
+        "Az Ádám előtti meghajlás elutasítása",
+        "Lut városainak pusztulása"
+      ],
+      "answer": "Az aranyborjú elkészítése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy aranyborjú bálvány",
+        "Egy kígyóvá változott személyzet",
+        "Egy sziklából előbukkanó nőstény teve",
+        "Egy hegyre épített bárka",
+        "Egy szél sodorta trónt"
+      ],
+      "answer": "Egy aranyborjú bálvány"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Érinthetetlennek ítélve, örökké azt mondva, hogy \"nincs kapcsolat\"",
+        "A zsarnok és serege mellett fulladt meg",
+        "Tűzbe vetve, mely hűvös és békés lett",
+        "Vaksággal sújtva, mert megtagadta az igazságot",
+        "Féltékeny rokonok hagyták egy gödörben"
+      ],
+      "answer": "Érinthetetlennek ítélve, örökké azt mondva, hogy \"nincs kapcsolat\""
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

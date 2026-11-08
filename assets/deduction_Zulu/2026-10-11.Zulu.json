@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Esihlabathini Sasendulo",
+  "intro": "Phakathi kwezithunywa zokuqala zika-Allah, kwakukhona oyedwa ogama lakhe likhanya kafushane kodwa ngendlela enenjongo e-Quran. Lo muntu waphila isikhathi eside ngaphambi kokuba kuthunyelwe abaprofethi abaningi abakhulu, futhi wayaziwa ngokuba neqiniso nokubekezela okungantengantengi. Indaba yabo imfushane kodwa ifa labo lihlala likhona emlandweni waphakade. Ungubani lo mphefumulo ohloniphekile?",
+  "clues": [
+    "Ngingomunye wezithunywa zokuqala, okukhulunywe ngazo kafushane kodwa ngendlela enenjongo eQuran.",
+    "Ubuntu bami bachazwa ukuzibophezela okungapheli eqinisweni.",
+    "Ngikhunjulwa encwadini ka-Allah phakathi kwalabo ababeqinile futhi benesineke.",
+    "Amavesi ambalwa nje amafushane e-Quran alandisa indaba yami.",
+    "U-Allah wangidumisa ngendlela eyami eyingqayizivele, engahlanganyelwanga nabanye abaprofethi.",
+    "Ngakhuliswa ngesikhundla esiphakeme, udumo oluyingqayizivele kwiQuran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Idris",
+        "Umprofethi u-Ilyas",
+        "I-Dhul-Kifl",
+        "Umprofethi u-Alyasa",
+        "U-Asif ibn Barkhiya"
+      ],
+      "answer": "Umprofethi u-Idris"
+    },
+    "trial": {
+      "label": "Ukuchaza Isikhathi",
+      "options": [
+        "Ngakhushulelwa esikhundleni esiphakeme ngu-Allah",
+        "Ngakha umkhumbi omkhulu ukuze ngisindise abantu bami",
+        "Ngiphonsele inselelo abathakathi bakaFaro",
+        "Ngaphonswa emgodini ngabafowethu",
+        "Ngalahlekelwa amehlo ngenxa yosizi ngendodana yami"
+      ],
+      "answer": "Ngakhushulelwa esikhundleni esiphakeme ngu-Allah"
+    },
+    "location": {
+      "label": "Isikhombo Esingcwele",
+      "options": [
+        "I-Surah Al-Anbiya",
+        "I-Surah Al-Kahf",
+        "I-Surah Taha",
+        "I-Surah Ash-Shu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "I-Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Udumo LukaNkulunkulu",
+      "options": [
+        "Isiteshi esiphezulu esingafani nanoma yisiphi esinye",
+        "Ukubusa phezu kwama-jinn nemimoya",
+        "Umbuso wenkazimulo engenakuqhathaniswa",
+        "Indlalifa kusukela ekugugeni kwami",
+        "Isivumelwano esivalwe no-Allah"
+      ],
+      "answer": "Isiteshi esiphezulu esingafani nanoma yisiphi esinye"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

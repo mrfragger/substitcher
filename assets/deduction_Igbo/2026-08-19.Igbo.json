@@ -1,0 +1,61 @@
+{
+  "title": "Mba nke Na-emegide Usoro Okike",
+  "intro": "N'ógbè ebe akụkọ ya na-ada ụda kemgbe ọtụtụ afọ, otu obodo bi n'ime nnupụisi doro anya megide iwu nke ịdị ọcha. Ihe ha mere dị oke egwu nke na a na-echeta ha dị ka ịdọ aka ná ntị nye ụmụ mmadụ niile. Olee ndị bụ mkpụrụ obi ndị a, oleekwa akara aka ha mere?",
+  "clues": [
+    "Anyị bi n'ala dị n'akụkụ ụzọ ndị njem na-agafekarị, mana anyị mere ka njem ha bụrụ ihe ize ndụ.",
+    "Anyị mere ihe rụrụ arụ nke na ọ dịghị onye ọ bụla mere n'ụwa mbụ.",
+    "Onye ozi si n'etiti anyị kpọrọ anyị ka anyị hapụ ụzọ anyị, mana anyị jụrụ ya ma rịọ maka ntaramahụhụ ma ọ bụrụ na ọ bụ onye eziokwu.",
+    "Mgbe ndị ọbịa mara mma bịara n'obodo anyị, anyị chọrọ ịwakpo ha, n'amaghị na ha bụ ndị ozi mbibi.",
+    "A dọrọ anyị aka ná ntị maka ntaramahụhụ dị egwu ma ọ bụrụ na anyị akwụsịghị, mana anyị kwara ịdọ aka ná ntị ahụ emo ma nọgide na mmehie anyị.",
+    "Mmiri ozuzo nke nkume si n'eluigwe dakwasị anyị, ụlọ anyị wee daa, ọ dịghị ihe ọzọ fọdụrụ ma e wezụga ihe ịrịba ama nye ndị na-atụgharị uche."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị Lut",
+        "Ndị Temọd",
+        "Ndị A'ad",
+        "Ndị Midian",
+        "Ndị Saba"
+      ],
+      "answer": "Ndị Lut"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Emere m omume rụrụ arụ a na-ahụtụbeghị mbụ ma gbochie ụzọ ndị ahụ",
+        "Fere nwa ehi ọlaedo ofufe",
+        "Egburu nne-kamel dị nsọ",
+        "A ghọgburu ya n'azụmahịa ma gbanwee ndị mmadụ ka ha ghara ịdị irè",
+        "Wuru ụlọ elu dị elu iji maa eluigwe aka"
+      ],
+      "answer": "Emere m omume rụrụ arụ a na-ahụtụbeghị mbụ ma gbochie ụzọ ndị ahụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ndị mmụọ ozi yi uwe ha dị ka ndị ọbịa mara mma",
+        "Nne kamel na-apụta site na nkume",
+        "Mkpanaka na-agbanwe ghọọ agwọ",
+        "Ụgbọ mmiri e wuru n'elu ugwu",
+        "Ọkụ nke ghọrọ oyi ma dị jụụ"
+      ],
+      "answer": "Ndị mmụọ ozi yi uwe ha dị ka ndị ọbịa mara mma"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Mmiri ozuzo nke nkume si n'eluigwe bibiri ya",
+        "Ala loro ya",
+        "Mmiri gbawara n'ime nnukwu idei mmiri",
+        "Mgbọrọgwụ dara ada",
+        "Agbanweela ka ọ bụrụ enwe"
+      ],
+      "answer": "Mmiri ozuzo nke nkume si n'eluigwe bibiri ya"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

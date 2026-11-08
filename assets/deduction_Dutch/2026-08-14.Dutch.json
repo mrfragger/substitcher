@@ -1,0 +1,61 @@
+{
+  "title": "De Vervloekte Handen",
+  "intro": "Je staat in de kronkelende steegjes van het oude Mekka, waar ooit een invloedrijk en rijk persoon de roep van de waarheid negeerde. Het verhaal van deze figuur is een grimmige herinnering dat bloedbanden de ketenen van trots niet kunnen overwinnen. Wie is deze man wiens naam weergalmt met het vuur dat hem te wachten staat?",
+  "clues": [
+    "Ik liep door de straten van Mekka met een trots die me blind maakte voor de waarheid, hoewel de boodschapper van mijn eigen bloed was.",
+    "Mijn bezittingen waren talrijk, maar ze werden een vloek in plaats van een bescherming.",
+    "Het boek der leiding spreekt over mijn ondergang en verklaart dat mijn handen en mijn lichaam zullen vergaan.",
+    "Mijn echtgenoot sloot zich aan bij mijn vijandschapscampagne en verzamelde doornen om te strooien op het pad van degene die tot Allah riep.",
+    "Op de dag des oordeels zal ik in een laaiend vuur worden geworpen, en mijn echtgenoot zal een touw van palmvezels om de nek hebben.",
+    "Ik ben bekend onder een naam die 'vader van de vlam' betekent – ​​een naam die mijn eeuwige verblijfplaats aankondigt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Belangrijke rechtszaak of gebeurtenis",
+      "options": [
+        "Hij verzette zich tegen de Profeet en werd vervloekt in de Koran.",
+        "Leidde een leger om de Kaaba te vernietigen.",
+        "Hij probeerde de profeet te doden door stenen te gooien.",
+        "Weigerde te geloven in de splitsing van de maan",
+        "Hij bouwde een toren om de hemel te bereiken."
+      ],
+      "answer": "Hij verzette zich tegen de Profeet en werd vervloekt in de Koran."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Het laaiende hellevuur",
+        "De staf van Musa",
+        "De Ark van Nuh",
+        "De bron van Zamzam",
+        "Het Gouden Kalf"
+      ],
+      "answer": "Het laaiende hellevuur"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Hij zal het laaiende vuur binnengaan, en zijn rijkdom zal hem niet baten.",
+        "Hij kreeg berouw en werd een gelovige.",
+        "Hij werd vergeven nadat hij zijn standpunt had herroepen.",
+        "Hij stierf als martelaar.",
+        "Hij werd opgenomen naar de hemel."
+      ],
+      "answer": "Hij zal het laaiende vuur binnengaan, en zijn rijkdom zal hem niet baten."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

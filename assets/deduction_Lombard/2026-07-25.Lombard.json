@@ -1,0 +1,61 @@
+{
+  "title": "I abitant di dü giardin",
+  "intro": "In d’una terra indué i benediziun g’havevan tanti ròbb, una comunità una volta g’haveva dü bei giardin. La luur vita l’era una testimunianza del favur divin, e ancamò la luur storia g’ha ciapà una svolta quand la gratitudin l’è svanida, purtand a una trasformaziun che sarès diventà un segn duradur per tüt quei che pensan.",
+  "clues": [
+    "Erum un popul benedet cunt una terra de facilità e abundanza.",
+    "El noster Signur g’ha dà dü splendid giardin, sbulzà e fruttìf de tüt i part.",
+    "G’hem ricevü el cumand de vèss grati, ma g’hem scernì l’ingratitudin e g’hem voltà via.",
+    "Una granda diga la trategniva i aque qe i daven vita a la nòssa tera.",
+    "Quand sem insistì in di nòster malfatt, la diga l’è scuppiada e i aqua di inondaziun g’han scovà travers.",
+    "I noster giardin che prima l’eran lüssuregh sun stà sostituì di früta amara, di tamarisc e di arbur de lote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El popul de Saba",
+        "El popul de Thamud",
+        "El popul de Madyan",
+        "I compagn de la caverna",
+        "El popul del elefant"
+      ],
+      "answer": "El popul de Saba"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Un vent viulent per set nott",
+        "Una piova de sass del ciel",
+        "Un'inondaziun distrutiva de una diga che scuppia",
+        "Un urlo fort del ciel",
+        "Anegare in del mar"
+      ],
+      "answer": "Un'inondaziun distrutiva de una diga che scuppia"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La granda diga de Ma'rib",
+        "La vall del Wadi al-Qura",
+        "El giardin de Iram",
+        "El pozz de Zamzam",
+        "La montagna del Sinai"
+      ],
+      "answer": "La granda diga de Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "I noster giardin sun stà sostituì cun früta amara e arbur spars",
+        "Sun stà inglutì de la terra en un terremot",
+        "Sem stad trasfurmà en simi e porcei",
+        "Sem stad affogad in d'una grand inondaziun",
+        "Sun stà distrutt de una piœuva de sass"
+      ],
+      "answer": "I noster giardin sun stà sostituì cun früta amara e arbur spars"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

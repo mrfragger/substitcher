@@ -1,0 +1,61 @@
+{
+  "title": "A Misión na Cidade Antiga",
+  "intro": "Unha cidade antiga e poeirenta, a súa xente atrincheirada na negación e un último aviso que non foi escoitado. Hoxe, asume o papel dos enviados por Alá para entregar unha mensaxe a un pobo teimudo. Unha historia de rexeitamento, unha voz singular de fe e un final selado por un decreto devastador. Quen fala a través destas pistas?",
+  "clues": [
+    "Alá enviounos a unha cidade cuxa xente se afastara da verdade",
+    "Dous de nós viñemos primeiro, despois uniuse un terceiro para fortalecer a nosa misión",
+    "A xente do pobo rexeitounos, dicindo que non eramos máis que humanos coma eles",
+    "Unha soa alma dende o extremo máis afastado da cidade correu para dicirlle á xente que nos seguise",
+    "Suplicámoslles, pero endureceron os seus corazóns e volvéronse contra nós",
+    "Nun grito devastador dos ceos, toda a nosa cidade foi silenciada"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Os mensaxeiros da cidade na sura Ya-Sin",
+        "Os Hawwariyyun (Discípulos de Isa)",
+        "Os feiticeiros da corte do faraón",
+        "Os compañeiros do sábado",
+        "A xente do elefante"
+      ],
+      "answer": "Os mensaxeiros da cidade na sura Ya-Sin"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Rexeitados e chamados mentireiros pola xente da vila",
+        "Queimado vivo nun gran lume abrasador",
+        "Tragado por un gran peixe no mar profundo",
+        "Traballos obrigados a construír un piar imponente",
+        "Torturado nunha trincheira de lume embravecido"
+      ],
+      "answer": "Rexeitados e chamados mentireiros pola xente da vila"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A cidade antiga (al-Qaryah)",
+        "Un gran forno ardente",
+        "A barriga dun gran peixe",
+        "O elevado piar que toca o ceo",
+        "A Casa Sagrada (Kaaba)"
+      ],
+      "answer": "A cidade antiga (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A cidade foi destruída por un único berro devastador (Sayha)",
+        "O tirano e o seu exército afogáronse no mar dividido",
+        "A xente transformouse en simios e monos",
+        "Unha choiva de pedras do ceo destruíu a cidade",
+        "Unha violenta inundación arrasou toda a comunidade"
+      ],
+      "answer": "A cidade foi destruída por un único berro devastador (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

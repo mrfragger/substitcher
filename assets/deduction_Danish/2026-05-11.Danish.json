@@ -1,0 +1,61 @@
+{
+  "title": "De standhaftige vidner",
+  "intro": "Forestil dig en tid, hvor tro blev prøvet med ild, og urokkelig overbevisning blev den ultimative trods. Du har til opgave at afdække identiteten på en gruppe, hvis historie er fortalt i Koranen, en fortælling om dyb tro mod et overvældende tyranni. Afdæk sporene for at opdage, hvem disse sjæle var, og de ekstraordinære omstændigheder, de stod over for.",
+  "clues": [
+    "Vi stod fast i vores overbevisning, trods et enormt pres for at give afkald på vores tro.",
+    "Vi var mål for en magtfuld hersker, der søgte at slukke monoteismens lys.",
+    "Vi var vidne til store tegn og mirakler, men vores undertrykkere forblev uforsigtige.",
+    "Vi udholdt en grusom forfølgelsesmetode, der havde til formål at terrorisere andre til underkastelse.",
+    "Vi blev kastet ud i et flammende inferno, men vores standhaftighed gav os en ophøjet stilling hos Allah.",
+    "Vores historie fortælles i en sura opkaldt efter himmelske konstellationer, der advarer om skæbnen for dem, der forfølger de troende."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Thamuds folk",
+        "Folket i 'Ad",
+        "Folket i grøften",
+        "Midjans folk",
+        "Elefantens folk"
+      ],
+      "answer": "Folket i grøften"
+    },
+    "trial": {
+      "label": "Vores forfølgelse",
+      "options": [
+        "At drukne i en oversvømmelse",
+        "At blive fortæret af en brændende vind",
+        "At blive kastet ned i en brændende grøft",
+        "At blive opslugt af jorden",
+        "At blive forvandlet til aber"
+      ],
+      "answer": "At blive kastet ned i en brændende grøft"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En massiv oversvømmelse",
+        "Et stort jordskælv",
+        "En dyb, brændende grøft",
+        "Et magtfuldt idol",
+        "En ødelæggende tørke"
+      ],
+      "answer": "En dyb, brændende grøft"
+    },
+    "outcome": {
+      "label": "Vores ultimative skæbne",
+      "options": [
+        "De fik tildelt et kongerige på jorden.",
+        "De blev reddet ved en mirakuløs flugt.",
+        "De opnåede martyrdøden og evig belønning.",
+        "De blev forvandlet til en anden art.",
+        "De blev givet enorm rigdom og velstand."
+      ],
+      "answer": "De opnåede martyrdøden og evig belønning."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

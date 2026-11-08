@@ -1,0 +1,61 @@
+{
+  "title": "Inaaffaa Kan Nyaate",
+  "intro": "Oduu durii mootummaa ykn macaafa qulqulluu kamiyyuu caalaa durii—balaa dhala namaa isa jalqabaa hinaaffaa irraa dhalate. Lubbuun tokko, angafaa ijoollee lama warra jalqabaa irraa dhalatan, obboleessi quxisuun tokko tola dhorkamee yeroo argatu aariidhaan ilaalaa turte. Wanti itti aanu filannoo dukkanaa’aa ta’ee, dhiiga jalqabaa lafa irratti dhangala’e dhiisee deeme. Eenyummaa, qormaataa fi gaabbii hadhaa’aa sana saaxiluu dandeessaa?",
+  "clues": [
+    "Namoota lamaan jalqabaa lafa irra deeman irraan dhaladhe.",
+    "Yeroo tokko Rabbiif aarsaa godheen ture, garuu narraa hin qeebalamne.",
+    "Dhiyeessiin obboleessi koo fudhatama kan argate siʼa taʼu, kan koo immoo fudhatama dhabe, kunis wanta ani obsuu hin dandeenyedha.",
+    "Obboleessa ofii koo badiisa jedheen doorsise.",
+    "Lubbuu obboleessa kootii fudhatee lafa kana irratti ajjeechaa kan raawwate isa jalqabaa ta’e.",
+    "Rabbiin uumama dachii—simbirroo gurraattii lafa qottu—akka waanan hojjadhe dhoksu na barsiisuuf erge, gaabbii malee homaa natti hin hafne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Qabil (Qaayin) .",
+        "Habil (Abeel) .",
+        "Nabi Yaqub",
+        "Nabi Muusaa",
+        "Nabi Aadam"
+      ],
+      "answer": "Qabil (Qaayin) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Aarsaa Rabbiin dide",
+        "Ibidda guddaa keessa darbatame",
+        "Laga keessatti daa'ima ta'ee kan gatame",
+        "Mootummaa guddaa ta'een qorame",
+        "Ilma ofii akka wareeguuf ajajame"
+      ],
+      "answer": "Aarsaa Rabbiin dide"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Korma Rabbiin erge",
+        "Re'ee warqee",
+        "Taabotni gaara irra jiru",
+        "Bosona gubaa jiru",
+        "Gaala dubaraa dhagaa irraa bocame"
+      ],
+      "answer": "Korma Rabbiin erge"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Gaabbiin guutamee warra mo'aman keessaa ta'e",
+        "Qabeenya waliin lafa keessa liqimfame",
+        "Ergamaa kabajamaa Rabbii ta'e",
+        "Araarama waaqaatiin Jannata seene",
+        "Mootummaa gita hin qabne irratti bulche"
+      ],
+      "answer": "Gaabbiin guutamee warra mo'aman keessaa ta'e"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

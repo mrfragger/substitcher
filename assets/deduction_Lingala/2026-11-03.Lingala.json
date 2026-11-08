@@ -1,0 +1,61 @@
+{
+  "title": "Pongi ya Bato ya Sembo",
+  "intro": "Na ntango oyo bondimi ezalaki likama mpe bato ya nguya balukaki konyata bondimi, etuluku moke ya bilenge milimo basalaki boponi oyo ekoyokana na boumeli ya bileko. Kokima nionso oyo bayebaki, balukaki ekimelo na molili oyo ebombamaki ya ngomba moko mpe batiaki elikia na bango mobimba na Allah. Makambo oyo ekosalema na nsima ekokóma elembo oyo eumelaka te mpo na baoyo bakanisaka.",
+  "clues": [
+    "Tozalaki etuluku ya bilenge oyo bandimaki Nkolo na biso, mpe Abakisaki biso na bokambi.",
+    "Totelemaki liboso ya bato na biso mpe tosakolaki ete tokobenga nzambe moko te longola se Allah.",
+    "Tolukaki ekimelo na libulu moko, kolobaka ete, Nkolo na biso, pesa biso mawa epai na Yo moko mpe tambwisa biso na bosembo na likambo na biso.’",
+    "Tolalaki na boumeli ya motángo monene ya bambula, mpe moi ezalaki kokita mosika na libulu na biso mpe kosimba biso te.",
+    "Mbwa na biso etandamaki etandami na ekuke ya libulu yango, ezalaki kokɛngɛla biso lokola nde tozali kokɛngɛla.",
+    "Ntango balamukaki biso, tomitunaki ntango boni toumelaki, mpe batindaki moko na biso na mbongo ya palata mpo na kosomba bilei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Libulu",
+        "Bato ya Fosse",
+        "Bato ya Sabata",
+        "Bato ya Nkoi",
+        "Baninga ya Mabaya"
+      ],
+      "answer": "Bato ya Libulu"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bakimaki na libulu moko mpo na kokima minyoko mpo na kondima na bango",
+        "Babebisamaki na mopɛpɛ makasi",
+        "Emelami na mabele",
+        "Bazindaki na mai na mbu",
+        "Abetamaki na mopɛpɛ makasi ya mabanga"
+      ],
+      "answer": "Bakimaki na libulu moko mpo na kokima minyoko mpo na kondima na bango"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mbwa moko oyo ezali kokɛngɛla esika ya kokɔta na mabulu",
+        "Masuwa moko monene",
+        "Nzete oyo ebongwanaki nyoka",
+        "Ndɛkɛ moko oyo babengi hoopoe",
+        "Mwana ya ngɔmbɛ ya wolo"
+      ],
+      "answer": "Mbwa moko oyo ezali kokɛngɛla esika ya kokɔta na mabulu"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Batikalaki na libulu yango mbula 309 mpe na nsima batombolaki bango lokola elembo",
+        "Babongwanaki bango na ba singes",
+        "Babebisamaki na mpela",
+        "Basalaki bango mpo na kokatisa mbu",
+        "Bapesaki bango bokonzi"
+      ],
+      "answer": "Batikalaki na libulu yango mbula 309 mpe na nsima batombolaki bango lokola elembo"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

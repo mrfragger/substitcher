@@ -1,0 +1,61 @@
+{
+  "title": "Yükselen Güneş Kapısının Bekçisi",
+  "intro": "Kur'an boyunca, bazı ruhlar yeryüzünü dolaşarak bilgelik ve hayret izleri bırakırlar. Bu kişilerden biri, yaratılışın en uzak noktalarına, güneşin doğup battığı, kaosun kendisini engelleyen bir bariyerin bulunduğu yerlere seyahat etti. Allah'ın bu kuluna, bir daha kimsenin sahip olamayacağı bir krallık verildi. Üç farklı yolculuk boyunca, bu kişinin amacı netleşti. Tarihin gölgeleri arasında bu efsanevi gezgini tespit edebilir misiniz?",
+  "clues": [
+    "En Merhametli olan bana, yeryüzüne daha önce kimsenin başaramadığı bir şekilde hükmetme yetkisi verdi.",
+    "Batıya doğru yolculuk ettim ve güneşin battığı yere ulaştım; güneşin loş bir baharda battığını gördüm ve orada bir halkla karşılaştım.",
+    "Güneşin doğduğu yere varıncaya kadar doğuya doğru yolculuk ettim; orada güneşin, kendilerine hiçbir koruma sağlamadığımız bir kavim üzerine doğduğunu gördüm.",
+    "İki uç nokta arasında yolculuk ettim ve sonunda iki dağ arasındaki bir vadiye vardım; orada konuşmayı zar zor anlayabilen bir halkla karşılaştım.",
+    "Dağda sağa ve sola uzanan iki sert demir bariyer ve aralarında dar bir geçit buldum. Bu insanlar benden kaosu engelleyen bu bariyeri kırmamı istediler.",
+    "Elimdeki malzemeleri alıp şöyle dedim: 'Engel yıkıldığında, bu bizimle bu insanlar arasında net bir ayrım olacak.' Ve belirlenen zaman geldiğinde, engelin nihayet yıkıldığını izledim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Zu el-Karneyn",
+        "Peygamber Süleyman",
+        "Peygamber İbrahim",
+        "Ghassaniyah Kralı",
+        "Gezgin Zülkarneyn"
+      ],
+      "answer": "Zu el-Karneyn"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yecüc ve Mecüc halkı için demir bariyeri kırmak",
+        "Bir peygamberin emri altında gemiyi inşa etmek",
+        "Kudüs'te bir tapınak inşa etmek",
+        "İnanan insanlarla birlikte Kızıldeniz'i geçmek",
+        "Haklı bir milleti korumak için baraj inşa etmek"
+      ],
+      "answer": "Yecüc ve Mecüc halkı için demir bariyeri kırmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "İki dağ arasındaki demir bariyer",
+        "Gemi bir dağa demir attı.",
+        "Kudüs'teki kutsal ibadethane.",
+        "Mısır topraklarındaki nehir",
+        "Madyan'daki bereket kuyusu"
+      ],
+      "answer": "İki dağ arasındaki demir bariyer"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Belirlenen zaman geldiğinde bariyer aşıldı ve kaos baş gösterdi.",
+        "Kâfirler boğuldu, müminler ise kurtuldu.",
+        "Doğrular ebedi cennete yönlendirildi.",
+        "Şehir, uğultulu bir rüzgar tarafından yerle bir edildi.",
+        "Putlar kırıldı ve insanlar tövbe etti."
+      ],
+      "answer": "Belirlenen zaman geldiğinde bariyer aşıldı ve kaos baş gösterdi."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

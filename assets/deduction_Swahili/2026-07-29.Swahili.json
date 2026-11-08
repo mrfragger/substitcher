@@ -1,0 +1,61 @@
+{
+  "title": "Ufuatiliaji wa Kisheria",
+  "intro": "Katika korido za madaraka, mtu mwenye hadhi ya juu alivutiwa na mtumishi ambaye uzuri wake ulikuwa wa ulimwengu mwingine. Kuvutiwa huku kulisababisha mfululizo wa matukio ambayo yangejaribu uaminifu, kufichua ukweli uliofichwa, na hatimaye kuthibitisha kutokuwa na hatia kwa mtumishi.",
+  "clues": [
+    "Niliishi katika nchi ya Nile, katika jumba lenye ushawishi mkubwa.",
+    "Kijana mmoja aliingia nyumbani kwangu, na uwepo wake ulinisumbua sana.",
+    "Nilijaribu kumtongoza, lakini alitafuta kimbilio kwa Mola wake.",
+    "Nilirarua vazi lake kutoka nyuma, lakini ushahidi ulionyesha udanganyifu wangu.",
+    "Ili kunyamazisha uvumi wa wanawake waheshimiwa, niliwaalika kwenye mkusanyiko na kuwawekea vitu vyenye ncha kali.",
+    "Mwishowe, nilikiri kosa langu hadharani, nikikiri ukweli mbele ya mfalme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mke wa Al-Aziz",
+        "Asiya (Mke wa Farao)",
+        "Bilqis (Malkia wa Sheba)",
+        "Maryam (Mama wa Isa)",
+        "Mama wa Musa"
+      ],
+      "answer": "Mke wa Al-Aziz"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alijaribu kumtongoza Nabii Yusuf",
+        "Alijaribu kumuua Nabii Musa",
+        "Alidai kuwa mungu wa kike",
+        "Alijenga mnara ili kumpinga Mwenyezi Mungu",
+        "Aliongoza jeshi dhidi ya Makka"
+      ],
+      "answer": "Alijaribu kumtongoza Nabii Yusuf"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Shati iliyoraruliwa kutoka nyuma",
+        "Ndama wa dhahabu",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ngamia jike",
+        "Taa"
+      ],
+      "answer": "Shati iliyoraruliwa kutoka nyuma"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alikiri na kukubali ukweli",
+        "Alizama na jeshi lake",
+        "Aligeuka kuwa nguzo ya chumvi",
+        "Alimezwa na ardhi",
+        "Aliharibiwa na upepo mkali"
+      ],
+      "answer": "Alikiri na kukubali ukweli"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Vero Kiu Silentigis la Kortumon",
+  "intro": "En palaco, kie regis neo kaj potenco estis absoluta, kunveno de lertaj praktikistoj staris antaŭ neatendita defio. La aero kraketis pro antaŭĝojo, kiam la du vojoj de malvero kaj vero estis tuj koliziontaj. La kunvenintoj tute ne sciis, ke ĉi tiu renkonto transformos iliajn vivojn por ĉiam kaj gravuros ilian rakonton en la sanktan tekston.",
+  "clues": [
+    "Ni estis famaj pro nia lerteco pri iluzioj kaj estis kunvenigitaj de potenca reganto por alfronti defianton.",
+    "Kiam la momento venis, ni gisis niajn instrumentojn kaj atendis la rezulton, memfidaj je nia metio.",
+    "Sed tio, kion ni atestis, igis niajn proprajn aparatojn ŝajni kiel nuraj ludiloj, kaj niaj koroj rekonis la nekontesteblan veron.",
+    "Ni falis teren, deklarante nian kredon je la Sinjoro de Moseo kaj Aaron, malgraŭ la kolero de la reganto.",
+    "Tiu reganto minacis nin per la plej brutala puno, ĵurante krucumi nin kaj tranĉi niajn membrojn en kontraŭaj direktoj.",
+    "Ni restis firmaj, dirante, ke ni preferas la juĝon de nia Sinjoro super iu ajn monda konsekvenco, kaj ni estis martirigitaj pro nia kredo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La Sorĉistoj de Faraono",
+        "La Homoj de la Kaverno",
+        "La Kunuloj de la Arbaro",
+        "La Disĉiploj de Jesa",
+        "La Popolo de la Elefanto"
+      ],
+      "answer": "La Sorĉistoj de Faraono"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Magia konkurso kontraŭ Musa",
+        "Fajro ĵetita sur ilin",
+        "Inundo kiu dronigis ilin",
+        "Sekeco kaj malsatego",
+        "Tertremo"
+      ],
+      "answer": "Magia konkurso kontraŭ Musa"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Bastonoj kaj ŝnuroj kiuj transformiĝis en serpentojn",
+        "Brulanta arbusto",
+        "Kamelo",
+        "Arko el ligno",
+        "Baleno"
+      ],
+      "answer": "Bastonoj kaj ŝnuroj kiuj transformiĝis en serpentojn"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ekzekutita pro kredo, promesis Paradizon",
+        "Dronis en la maro",
+        "Fariĝis regantoj de Egiptujo",
+        "Restintaj sekvantoj de Faraono",
+        "Heredis la teron"
+      ],
+      "answer": "Ekzekutita pro kredo, promesis Paradizon"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

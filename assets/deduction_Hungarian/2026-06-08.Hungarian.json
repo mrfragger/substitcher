@@ -1,0 +1,61 @@
+{
+  "title": "A szentély könyörgője",
+  "intro": "Az éjszaka csendes óráiban egy odaadó lélek kiáltott a Legirgalmasabbhoz egy szent hely megszentelt falai között. Évekig tartó rendíthetetlen hit és türelem hamarosan csodával jutalmazta, amely örömet és prófétai örökséget hozott.",
+  "clues": [
+    "Napjaimat és éjszakáimat szentélyben töltöttem áhítattal, szüntelenül könyörögve Uramnak.",
+    "Megöregedtem, a feleségem meddő lett, de soha nem vesztettem el a reményt Allah irgalmában.",
+    "Kaptam egy fiút, Jahja nevűt, aki próféta és az igazságosság jelzőfénye lett.",
+    "Én magam is próféta voltam, akit azért küldtek, hogy vezessem Izrael gyermekeit.",
+    "Harun próféta leszármazottja voltam, és papként szolgáltam a templomban.",
+    "Maryam, Isa anyjának gondjaira bíztak, és tanúja voltam csodáinak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Zakariyya próféta",
+        "Jahja próféta",
+        "Ilja próféta",
+        "Izsák próféta",
+        "Ya'qub próféta"
+      ],
+      "answer": "Zakariyya próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Fiút ajándékozott öregkorában",
+        "Megmentették egy lángoló tűzből",
+        "Kimentették egy hal gyomrából",
+        "Túlélt egy nagy árvizet",
+        "Súlyos betegségből gyógyult fel"
+      ],
+      "answer": "Fiút ajándékozott öregkorában"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Mihrab (imafülke)",
+        "A Kába",
+        "Az égő csipkebokor",
+        "A Frigyláda",
+        "A hét alvó barlangja"
+      ],
+      "answer": "A Mihrab (imafülke)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Adott egy igazlelkű fiú, aki próféta lett",
+        "Egy heves vihar pusztította el",
+        "Megfulladt a tengerben",
+        "Megkímélve az égéstől",
+        "Visszatértek az embereikhez, miután megmentették őket egy haltól"
+      ],
+      "answer": "Adott egy igazlelkű fiú, aki próféta lett"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

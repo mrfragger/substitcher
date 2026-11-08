@@ -1,0 +1,61 @@
+{
+  "title": "Umutsuzluğa Kapılmayı Reddeden Ses",
+  "intro": "Kayıpların ardı ardına geldiği bir eve adım atın, ancak sakin bir ses umutsuzluğa kapılmayı reddediyor. Kur'an'daki tek bir çağrı, sabrı bir dönüm noktasına dönüştürüyor; bu sesin ardındaki kişiye dair ipuçlarını takip edebilir misiniz?",
+  "clues": [
+    "Ben, nimetlerin felaketlerle sınandığı bir evde sabrın sesiydim.",
+    "Mal varlığını ve çocukları kaybetmenin ardından boşalmış bir evde kaldım.",
+    "Biliyordum ki o arkadaşım da hastalığa yakalanmıştı, vücudu rahatsızlanmıştı.",
+    "Sıkıntı şiddetlendiğinde, Allah'ı anarak seslendim.",
+    "Tek bir açıklama yaptım: Allah hakikattir, öyleyse sabırlı olun.",
+    "Eyyub'u adıyla çağırdım; bunun üzerine Allah musibeti giderdi ve aileyi yeniden bir araya getirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Eyyub'un Eşi",
+        "Peygamber Nuh'un Karısı",
+        "Hz. İbrahim'in eşi",
+        "Peygamber Yakub'un Eşi",
+        "Firavunun Kızı"
+      ],
+      "answer": "Peygamber Eyyub'un Eşi"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kayıp ve hastalık dönemlerinde Ayyub'un yanında kalmak, ardından sabır çağrısında bulunmak.",
+        "Dürüst bir elçiyi yozlaşmış bir topluluğu terk etmesi konusunda uyarmak",
+        "Gelecek neslin doğuşu için dua etmek",
+        "Kraliyet hapishanesinde rüyaları yorumlamak",
+        "Nehir kenarında emanet edilmiş bir çocuk bulmak"
+      ],
+      "answer": "Kayıp ve hastalık dönemlerinde Ayyub'un yanında kalmak, ardından sabır çağrısında bulunmak."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Allah'ın Hakikat olduğunu beyan etmek ve sabır gereklidir.",
+        "Bir pınarın yanında bir palmiye ağacı.",
+        "Dalgalardan uzakta bir gemi inşa etme çağrısı",
+        "On bir yıldız ve yükselen güneşin rüyası",
+        "Nil nehri boyunca taşınan bir sepet"
+      ],
+      "answer": "Allah'ın Hakikat olduğunu beyan etmek ve sabır gereklidir."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Eyyub'un hastalığı giderildi ve ailesi eski haline döndü.",
+        "Uzun zamandır beklenen çocuk, kısırlık üzerine edilen bir duanın ardından nihayet kavuştu.",
+        "Genç bir hükümdar, yedi yıllık bolluk ve kıtlık dönemini şu şekilde yorumladı:",
+        "Emanet edilen bir çocuk, akan sudan kurtarıldı.",
+        "Yıkıcı selden önce bir uyarı yapılmıştı."
+      ],
+      "answer": "Eyyub'un hastalığı giderildi ve ailesi eski haline döndü."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

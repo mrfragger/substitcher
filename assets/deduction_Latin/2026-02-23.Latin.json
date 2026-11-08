@@ -1,0 +1,61 @@
+{
+  "title": "Vox Convictionis Occultae",
+  "intro": "In corde aulae tyrannicae, ubi incredulitas lex terrae erat, anima sola per funem fidei et timoris ambulabat. Hic homo, prope centrum potestatis, audiebat dum nuntium prophetae cum contemptu et minis excipiebatur. Momentum veritatis advenit, hunc hominem cogens eligere inter silentium salutem et veritatem periculosam dicendam. Potesne identitatem huius fortis defensoris detegere?",
+  "clues": [
+    "In ipsa tyranni domo habitavi, ipse videns arrogantiam quae divina signa recusabat.",
+    "Fidem meam secretam servavi, thesaurum occultum in palatio idololatriae.",
+    "Audivi ducem cui serviebam consilium habuisse ad necem nuntium Dei, virum nomine Musam.",
+    "Rationem eorum in dubium vocavi, fatum populorum Nuh, 'Ad, et Thamud eis admonens.",
+    "Quaestionem gravem populo meo proposui: 'Si mendax est, mendacium eius super eum est; si autem verax est, quaedam ex iis quae promittit vos percutient.'",
+    "Mea historia exemplum fidei in sura quae 'Ignoscens' appellatur narratur, ubi populum meum contra machinationes potentium monui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Fidelis e familia Fir'awni",
+        "Aman",
+        "Magi Fir'awni",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Fidelis e familia Fir'awni"
+    },
+    "trial": {
+      "label": "Quae fuit mea tentatio?",
+      "options": [
+        "Defendens Prophetam Musam in aula tyranni",
+        "Turrim excelsam aedificans ut ad caelum perveniat",
+        "In ignem ardentem coniectus",
+        "Ab ingenti pisce deglutitus",
+        "Omnibus divitiis et valetudine amissis"
+      ],
+      "answer": "Defendens Prophetam Musam in aula tyranni"
+    },
+    "location": {
+      "label": "Quod erat thema disputationis meae?",
+      "options": [
+        "Consequentia repudii nuntii prophetae",
+        "Postulatio signi ab arbore sacra",
+        "Creatio vituli ex gemmis fusis",
+        "Miraculum cameli e rupe",
+        "Interpretatio somniorum rectoris"
+      ],
+      "answer": "Consequentia repudii nuntii prophetae"
+    },
+    "outcome": {
+      "label": "Quid fuit exitus?",
+      "options": [
+        "Deus hunc hominem a nefario consilio eorum servavit.",
+        "Tota curia statim Islamum recepit.",
+        "Tyrannus momento submersionis paenitentiam egit",
+        "Tyrannus a terra absorptus est",
+        "Individuum in terram longinquam exsulatum est"
+      ],
+      "answer": "Deus hunc hominem a nefario consilio eorum servavit."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

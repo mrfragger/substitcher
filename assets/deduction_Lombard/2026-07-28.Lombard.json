@@ -1,0 +1,61 @@
+{
+  "title": "La prova de la creatura sacra",
+  "intro": "Un segn l’è stà mandà a una naziun che l’era perdüda. In mezz a luur vita cunfortabl l’è rivà un avvertiment, acumpagnà de una creatüra straordinaria che l’era de diventà la prova ultima de luur fed. La sò risposta g’havaria sellad el sò destin per semper. Pœdet descüvrir chi g’ha dà chestu avvertiment e cosa l’è sucedü a quei che l’han refudà?",
+  "clues": [
+    "Erum un popul che l’era stà guidad di messagg precedent prima de nun.",
+    "Una creatura magnifica l’è vegnuda fœura de la muntagna, un segn del noster Signur per chesta naziun.",
+    "G’ho ditt: “Chesta l’è una camel de Allah, donca lassal magnà de la terra de Allah e toca-la minga cunt el mal”.",
+    "Ma el popul l’ha sgrifonà la mia camel, sfidand el comand del sò Signur.",
+    "Son domà un messagger del to Signor, mandà cun la verità: son un profet e un servitur fidabil.",
+    "Per quant riguarda i malfattur, el noster Signur g’ha colpì cunt un tron, e luur sun diventà immobil in di luur cà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Hud del popul de A'ad",
+        "Profeta Salih del popul de Thamud",
+        "El prufeta Shu'aib de Madian",
+        "El profeta Lut del popul de Sodoma",
+        "Profeta Nuh de l'Arca"
+      ],
+      "answer": "Profeta Salih del popul de Thamud"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "El diluvio che g’ha affogad una naziun incredul",
+        "El terremot che g’ha distrutt una cità pecatrice",
+        "La camel mandada cuma segn e prova divin",
+        "La tempesta che g’ha punì el popul de Madian",
+        "La distruzion del popol de Lot cond i prede"
+      ],
+      "answer": "La camel mandada cuma segn e prova divin"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La cità de Sodoma in de la vall del Giurdan",
+        "La vall de Al-Hijr intra Hijaz e la Siria",
+        "La vègia terra de A'ad in del Arabia meridiunal",
+        "I forest de Madian visin al Mar Ross",
+        "I pianur del monte Judi en Mesopotamia"
+      ],
+      "answer": "La vall de Al-Hijr intra Hijaz e la Siria"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Sun stà salvà dopu avegh pentì e creduu",
+        "Una piœuva de sass i g’ha distrutt cumpletament",
+        "Un son de tron ​​g’ha colpì senza muviment",
+        "Sun stà purtà via de un vent viulent",
+        "Un terremot i g’ha engutì in de la terra"
+      ],
+      "answer": "Un son de tron ​​g’ha colpì senza muviment"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Zahartzaroan Berri Onak",
+  "intro": "Itxaropena berpizten den une baten lekuko zarete. Guraso izateko adina aspaldi gaindituta duen bikote batek naturaren legeak hausten dituen promesa bat jasotzen du. Haien artean jainkozko errukiaren seinale den figura bat dago: profeta izateko jaiotako arima bat, belaunaldiz belaunaldi iraungo duen ondarea daramana. Nor da pertsona bikain hau?",
+  "clues": [
+    "Adin nagusira iritsitako eta seme-alabarik gabeko gurasoekin jaio nintzen.",
+    "Nire jaiotza nire familiarengana gonbidatu gisa etorri ziren aingeruek iragarri zuten.",
+    "Jakinduria eta profezia eman zizkidaten, eta pazienteen artean aipatzen naute.",
+    "Nire aita Alaren laguna deitzen zioten, eta ni opari bat izan nintzen berarentzat bere azken urteetan.",
+    "Anaia bat nuen, profeta ere bazena, eta biok bedeinkatu gintuen gure Jaunak.",
+    "Nire semea ere profeta izan zen, eta nire ondorengoei idatzia eta profeta izatea eman zitzaien."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Isaak (Isaak) profeta",
+        "Ismail (Ismael) profeta",
+        "Yaqub (Jakob) profeta",
+        "Yahya (Joan) profeta",
+        "Uzair (Ezra) profeta"
+      ],
+      "answer": "Isaak (Isaak) profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Guraso adinekoengandik jaioa.",
+        "Sutara botata.",
+        "Erresuma eta aberastasuna emanda",
+        "Bere herria Egiptotik atera zuen",
+        "Arka bat eraiki zuten sinestunak salbatzeko"
+      ],
+      "answer": "Guraso adinekoengandik jaioa."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Seme baten berri onak",
+        "Sasi erretzailea",
+        "Urrezko txahala",
+        "Itunaren kutxa",
+        "Profeziaren makila"
+      ],
+      "answer": "Seme baten berri onak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Profeta bihurtu zen profeta-lerro batekin",
+        "Errege aberats bihurtu zen",
+        "Bere herria suntsitu zuten sinesgaiztasunagatik",
+        "Sutetik salbatu zen.",
+        "Haurra zenean hitz egiteko gaitasuna eman zioten"
+      ],
+      "answer": "Profeta bihurtu zen profeta-lerro batekin"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Plainte Oyo Bayokaki Likolo Ya Makɛlɛlɛ",
+  "intro": "Oyoki mongongo moko ezali komata uta na société oyo minyoko ekomi routine. Kolakisa nguya moko te eyanolaka na likambo oyo batungisaki; na esika na yango, libiangi ya semba ekómi epai ya Allah, mpe eyano ebɛti na motema ya losambo yango moko. Nani amilelalelaki yango, motuna nini elandaki, mpe solo nini endimami?",
+  "clues": [
+    "Nakómaki kotungisama mpo na minyoko ya bato oyo bazalaki zingazinga na ngai.",
+    "Namonisaki grief wana directement epai ya Allah na plainte personnelle.",
+    "Allah ayokaki plainte mpe ayanolaki na défi na oyo etali bindimeli na ngai moko.",
+    "Eyano etunaki ndenge nini nakokaki kozanga kondima Allah, oyo azali Moko mpe Oyo-Aleki-Likoló.",
+    "Na nsima natunaki mpo na nini Allah asengeli kopesa nzela na bato oyo bazalaki kondima te.",
+    "Nazali Uzair, oyo nkombo na ye na Surah Az-Zukhruf lokola moto oyo Allah ayokaki komilelalela na ye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Uzair, oyo",
+        "Moninga oyo atambolaki masuwa na mpela monene",
+        "Mosali oyo azalaki kotambola likoló ya mai",
+        "Moto oyo azalaki kolala abatelaki na kati ya libulu moko",
+        "Mosali oyo amemaki mabanga na ebale moko"
+      ],
+      "answer": "Uzair, oyo"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Ko se plaindre na Allah pona minyoko ya peuple",
+        "Kotambola likoló ya mai na ntango ya mopɛpɛ makasi",
+        "Komemaka mabanga na ebale oyo ezalaki na mai te",
+        "Kosala mobembo na masuwa na kati ya mpela monene na kati ya Sanduku",
+        "Kozwa fungola ya eloko moko ya motuya monene"
+      ],
+      "answer": "Ko se plaindre na Allah pona minyoko ya peuple"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Plainte directe oyo etali Allah",
+        "Likonzí oyo ekómaki nyoka",
+        "Litumbu moko esalaki malili mpe kimya",
+        "Masuwa oyo ezali kopumbwapumbwa likoló ya mai ya mpela",
+        "Mbisi oyo ezali komela mosali"
+      ],
+      "answer": "Plainte directe oyo etali Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Allah ayokaki plainte mpe a confirmaki Bomoko ya bonzambe mpe Nkolo ya Suprême",
+        "Kotambola na libateli likoló ya mai na ntango ya mopɛpɛ makasi",
+        "Kokatisa mpela monene na kimia na kati ya Sanduku",
+        "Kozongela komona na kati ya ndako ya mokonzi ya lolendo",
+        "Kozwa bokonzi oyo ebandi na Ɛsti tii na Wɛsti"
+      ],
+      "answer": "Allah ayokaki plainte mpe a confirmaki Bomoko ya bonzambe mpe Nkolo ya Suprême"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

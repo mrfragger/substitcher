@@ -1,0 +1,61 @@
+{
+  "title": "Constructorii stâlpilor înalți",
+  "intro": "Stai în fața ruinelor unui oraș antic maiestuos, ai cărui stâlpi semeți sunt acum căzuți. Vântul urlă prin străzile goale, purtând amintirea unui popor puternic care a stăpânit cândva aceste ținuturi. Cine erau ei?",
+  "clues": [
+    "Eram un popor de o putere și o pricepere imense, cunoscuți pentru clădirile noastre mărețe și civilizația avansată.",
+    "Trăiam într-un ținut cu dune de nisip și dealuri stâncoase și credeam că nimeni nu ne poate învinge.",
+    "Un mesager a venit la noi dintre rudele noastre, chemându-ne să-L adorăm numai pe Allah, dar l-am respins și l-am batjocorit.",
+    "Ne-am lăudat zicând: „Cine este mai tare decât noi?” și am continuat în aroganța și închinarea la idoli.",
+    "Allah a trimis asupra noastră un vânt furios care a suflat timp de șapte nopți și opt zile, pustiind totul.",
+    "Noi eram poporul lui 'Ad, constructorii Iramului, iar soarta noastră a devenit un avertisment pentru toți cei care au venit după noi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din 'Ad",
+        "Oamenii din Thamud",
+        "Oamenii din Madyan",
+        "Oamenii din Tubba'",
+        "Oamenii din al-Rass"
+      ],
+      "answer": "Oamenii din 'Ad"
+    },
+    "trial": {
+      "label": "Care a fost pedeapsa trimisă asupra lor?",
+      "options": [
+        "Un vânt devastator",
+        "O ploaie de pietre",
+        "O explozie puternică",
+        "Înec prin inundații",
+        "Înghițit de pământ"
+      ],
+      "answer": "Un vânt devastator"
+    },
+    "location": {
+      "label": "Cum se numește orașul lor legendar?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Madian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Care a fost soarta lor finală?",
+      "options": [
+        "Au fost distruși, iar rămășițele lor au devenit o lecție",
+        "S-au pocăit și au fost mântuiți",
+        "Au fost transformați în maimuțe",
+        "S-au înecat în mare",
+        "Au fost îngropați sub o alunecare de teren"
+      ],
+      "answer": "Au fost distruși, iar rămășițele lor au devenit o lecție"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

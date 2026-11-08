@@ -1,0 +1,61 @@
+{
+  "title": "Chini ya Kivuli cha Mtende wa Tarehe",
+  "intro": "Hadithi inajitokeza ya roho iliyotengwa kabla ya kuzaliwa, ikilelewa ndani ya kuta takatifu, na kuchaguliwa kubeba ishara ambayo ulimwengu haujawahi kuiona. Wakati shutuma zilipoibuka kutoka kila upande, sauti ilitoka sehemu zisizotarajiwa kabisa ili kunyamazisha mashaka yote. Je, unaweza kugundua ni nani aliyetembea chini ya kivuli cha mtende?",
+  "clues": [
+    "Nilijitoa kwa ajili ya utumishi wa Mwenyezi Mungu kabla sijapata pumzi yangu ya kwanza, nadhiri iliyotolewa na yule aliyenibeba.",
+    "Nilikulia chini ya uangalizi wa mlinzi mwadilifu ndani ya vyumba vitakatifu vya mahali pa ibada.",
+    "Kila mara mlinzi wangu alipokuja chumbani kwangu, alinikuta na vyakula vya majira ambavyo havikupaswa kuwa navyo.",
+    "Nilipewa habari njema za mwana, ingawa hali yangu haikunipa nafasi ya kile nilichoahidiwa.",
+    "Nilijiondoa hadi mahali pa mbali, na hapo mtende ulinipa kivuli huku kijito kikitiririka chini yake.",
+    "Wakati shutuma zilipokuja na maswali yalinizunguka, nilimwonyesha mtoto wangu mchanga — naye alizungumza tangu utotoni ili kunyamazisha kila shaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawwa",
+        "Ummu Musa",
+        "Mke wa Nuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Kesi / Tukio",
+      "options": [
+        "Kujifungua mwana wa kimiujiza akiwa peke yake",
+        "Kutupwa katika moto unaowaka na waabudu sanamu",
+        "Kuokoka gharika kuu na wachache waliochaguliwa",
+        "Kutengwa na mtoto mchanga aliyetupwa mtoni",
+        "Kukabiliana na mtawala mkuu wa Misri"
+      ],
+      "answer": "Kujifungua mwana wa kimiujiza akiwa peke yake"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mtende na kijito kinachotiririka chini yake",
+        "Safina kubwa juu ya mawimbi makubwa",
+        "Fimbo iliyogawanya bahari kubwa vipande viwili",
+        "Moto unaowaka uliokusudiwa kuteketeza roho mwaminifu",
+        "Kiti cha enzi cha dhahabu kilichopambwa kwa mawe ya thamani"
+      ],
+      "answer": "Mtende na kijito kinachotiririka chini yake"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Anaheshimiwa kama mwanamke aliyetukuka zaidi kati ya wanawake wote",
+        "Aliungana tena na mtoto mpendwa baada ya kutengana kwa muda mrefu",
+        "Aliongoza taifa zima kutoka utumwani mwa mtawala mdhalimu",
+        "Alionya watu waliopotea katika uasherati",
+        "Alimpa mamlaka juu ya majini, wanadamu, na pepo"
+      ],
+      "answer": "Anaheshimiwa kama mwanamke aliyetukuka zaidi kati ya wanawake wote"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L-Ewwel Demm Imxerred bl-Għira",
+  "intro": "Immaġina l-ewwel jiem tal-umanità, meta d-dinja kollha kienet familja waħda. Tara żewġ offerti jitqiegħdu quddiem Alla — waħda aċċettata, l-oħra miċħuda. L-għira tieħu l-għeruq f’qalb, u theddida tingħad bir-rabja. Dak li ġej se jħalli marka fl-istorja għal dejjem, u anke għasfur żgħir se jsir għalliem.",
+  "clues": [
+    "Jiena nagħmel parti mill-ewwel familja fid-dinja.",
+    "Jiena ppreżentajt offerta lil Alla, iżda tiegħi ma ġietx aċċettata filwaqt li l-offerta l-oħra ġiet.",
+    "Tkellimt bl-għira u heddedt li noqtol ħajja.",
+    "Jiena wettaqt l-ewwel qtil inġust fid-dinja.",
+    "Rajt ċawla tobrox l-art biex jurini kif naħbi ġisem.",
+    "Bqajt mimli dispjaċir u sirt fost it-telliefa għal dak li għamlu idejja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Qabil (Kajjin), bin Adam",
+        "Samiri, il-ħallieq tal-għoġol",
+        "Namrud, it-tirann li argumenta ma’ Ibrahim",
+        "Azar, il-bennej tal-idoli",
+        "Kan'an, l-iben Nuh li għereq"
+      ],
+      "answer": "Qabil (Kajjin), bin Adam"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Qtil ta’ ħu minħabba l-għira wara li offerta ġiet miċħuda",
+        "Nibnu torri għoli biex inħarsu lejn is-smewwiet",
+        "Jaħdem għoġol tad-deheb għall-qima",
+        "Jitolbu mejda mifruxa mis-sema",
+        "Imexxi armata ta' iljunfanti biex jeqirdu l-Kaaba"
+      ],
+      "answer": "Qtil ta’ ħu minħabba l-għira wara li offerta ġiet miċħuda"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Ċawla tobrox l-art biex turi d-difna",
+        "Għoġol tad-deheb li għajjat",
+        "Arka kbira fuq l-ilmijiet tad-dilluvju",
+        "Bastun li sar serp",
+        "Mejda mħejjija b’ikel mis-sema"
+      ],
+      "answer": "Ċawla tobrox l-art biex turi d-difna"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Sar jiddispjaċih u fost it-telliefa",
+        "Għerqet fl-għargħar kbir",
+        "Inbela’ mill-art bit-teżor",
+        "Kien milqut bil-lebbra għal seba’ snin",
+        "Ingħata saltna bil-kontroll tar-riħ"
+      ],
+      "answer": "Sar jiddispjaċih u fost it-telliefa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

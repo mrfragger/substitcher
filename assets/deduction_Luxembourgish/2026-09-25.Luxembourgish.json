@@ -1,0 +1,61 @@
+{
+  "title": "Den Damm, deen e Kinnekräich gebrach huet",
+  "intro": "E Land mat fléissende Flëss, zwee grénge Gäert an oniwwertraffem Wuelstand - awer seng Awunner hunn deen, deen se geseent huet, ignoréiert. Wéi Erënnerungen koumen, déi se zréckgeruff hunn, hunn se sech ewechgedréit. Wat duerno koum, war eng Strof, déi nach ëmmer als Warnung widderhallt. Wien war dës antik Gemeinschaft?",
+  "clues": [
+    "Mir hunn an engem Land gelieft, dat sou geseent war, datt eist Heem tëscht zwee grénge Gäert louch.",
+    "Mir hunn d'Flëss genoss, déi duerch eis Lännereien gefloss sinn, an d'räich Ernten, déi eis Haiser gefëllt hunn.",
+    "Awer wéi mir zu Dankbarkeet a Gehorsam géintiwwer eisem Här opgeruff goufen, hu mir eis aus Stolz ewechgedréit.",
+    "Eise Räichtum a Liichtegkeet hunn eis dee vergiess, deen eis alles geschenkt hat.",
+    "Dunn koum e plötzleche Stroum, deen duerch déi grouss Barrière gebrach huet, op déi mir eis verlooss haten.",
+    "Mir sinn d'Leit vu Saba', deem säi Land fir de grousse Ma'rib-Damm bekannt war."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "D'Leit vu Saba",
+        "Leit vum Trench",
+        "Begleeder vum Brunn",
+        "D'Leit vun Tubba'",
+        "D'Leit vu Midian"
+      ],
+      "answer": "D'Leit vu Saba"
+    },
+    "trial": {
+      "label": "Eise Fall",
+      "options": [
+        "Iwwerschwemmung vun engem geplatzten Damm",
+        "E gewaltege Wand vum Himmel",
+        "Brennen an engem Feiergruef",
+        "E massivt Äerdbiewen",
+        "Erdrénken an enger grousser Iwwerschwemmung"
+      ],
+      "answer": "Iwwerschwemmung vun engem geplatzten Damm"
+    },
+    "location": {
+      "label": "Schlësselplaz",
+      "options": [
+        "Den Ma'rib-Damm",
+        "Bierg Sinai",
+        "D'Höhl vun de Siwe Schléifer",
+        "De brennende Busch",
+        "D'Spaltung vum Mier"
+      ],
+      "answer": "Den Ma'rib-Damm"
+    },
+    "outcome": {
+      "label": "Eist Schicksal",
+      "options": [
+        "Zwee batter Gäert hunn eis üppig Gäert ersat",
+        "Eis Gäert sinn nach méi üppig ginn",
+        "D'Land ass ënnert dem Mier ënnergaangen",
+        "Mir goufen an vulkanescher Äsch begruewen",
+        "Eis Natioun huet sech an zwielef Stämme gedeelt"
+      ],
+      "answer": "Zwee batter Gäert hunn eis üppig Gäert ersat"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

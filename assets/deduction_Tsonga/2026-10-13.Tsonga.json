@@ -1,0 +1,61 @@
+{
+  "title": "Nala Wa Ndzilo",
+  "intro": "Emasikwini yo sungula ya nhlavutelo, munhu un’wana u humelerile tanihi mukaneti la nonon’hwaka wa ntiyiso. Hi ku katekisiwa hi rifuwo ni xiyimo, moya-xiviri lowu wu hlawule ku tikukumuxa ku tlula nkongomiso, naswona xitori xa vona xi ve xilemukiso lexikulu eka tindzimana to hetelela ta surah.",
+  "clues": [
+    "A ndzi tshama edorobeni rin’we na Muprofeta, naswona a ndzi ri exikarhi ka maxaka ya le kusuhi swinene na yena, hambiswiritano ku tikukumuxa ka mina a ku ndzi hlayisa ndzi ri ekule ni ntiyiso.",
+    "A ndzi ri ni rifuwo lerikulu ni nhundzu yo tala, naswona a ndzi ehleketa leswaku rifuwo ra mina ri ta ndzi sirhelela minkarhi hinkwayo.",
+    "Loko rungula leri ri paluxiwile, ndzi ri hlekula erivaleni kutani ndzi fularhela, ndzi titeka ndzi tlakukile eka vapfumeri.",
+    "Vulala bya mina a byi dume ngopfu lerova surah ya Quran yi ndzi vitane hi ku kongoma, yi ndzi vitana hi vito leri van’wana va ndzi tivaka ha rona.",
+    "Ndzi tsundzuxiwile leswaku rifuwo ra mina ni miholo ya mina a swi nge ndzi pfuni nchumu, naswona ndzi ta hoxiwa endzilweni lowu pfurhaka.",
+    "Ndzi tiviwa tanihi tata wa langavi, naswona nsati wa mina u ta rhwala tihunyi hi ntambhu ya ntambhu ya ncindzu enhan’wini yakwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Abu Lahab hi yena",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira, ku vula ka yena",
+        "Al-As ibn Ku rila"
+      ],
+      "answer": "Abu Lahab hi yena"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U arile Vuislem naswona u kanete Muprofeta erivaleni",
+        "Ku kunguhatiwe ku dlaya Muprofeta",
+        "U rhangele ku boycott ka ntshamisano eka Mamoslem",
+        "U lwile eNyimpini ya Badr",
+        "U xanisiwile Bilal ibn Rabah"
+      ],
+      "answer": "U arile Vuislem naswona u kanete Muprofeta erivaleni"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ntambhu ya fibre ya ncindzu",
+        "Banga leri karihaka",
+        "Nketani yo tika",
+        "Nhonga ya mapulanga",
+        "Xibakele xa dzovo"
+      ],
+      "answer": "Ntambhu ya fibre ya ncindzu"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Yi ta hisa hi ndzilo lowu pfurhaka",
+        "U hundzukile kutani a va munghana",
+        "U lahlekeriwe hi rifuwo rakwe kambe u file a xiximiwile",
+        "U balekile a ya eAbyssinia",
+        "Ku nwela elwandle"
+      ],
+      "answer": "Yi ta hisa hi ndzilo lowu pfurhaka"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

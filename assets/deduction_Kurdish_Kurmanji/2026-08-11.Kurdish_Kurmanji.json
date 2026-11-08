@@ -1,0 +1,61 @@
+{
+  "title": "Soza Malzarokê",
+  "intro": "Di odeyên bêdeng ên dilêkî ku ji Xwedayî re hatibû veqetandin de, sondek pîroz hat afirandin. Ev sond li ser jiyaneke ku hîn nefes negirtiye disekine, û pêkanîna wê dê rêça mîrata giyanî her û her biguheranda. Bikevin nav sirra giyanekî ku soza wî di bêdawîtiyê de deng vedida.",
+  "clues": [
+    "Ez di malbateke ku bi xwedaparêziya xwe dihat nasîn de dijiyam, û min bêriya diyariyek dikir ku min nêzîkî Xwedê bike.",
+    "Min bi Xudayê xwe re li ser tiştên ku di hundurê min de veşartî ne peymanek cidî çêkir, sond xwar ku ez ê wan bi tevahî ji bo xizmeta Wî biterikînim.",
+    "Dema ku kêliya eşkerekirinê hat, tiştê ku min wergirt neçaverêkirî bû, lê min mesele sparte Xwedayê Her Tiştî.",
+    "Min navekî ku nîşana fedakariyê ye da zaroka xwe, û min lava kir ku ew û nifşên wê ji yên lanetkirî werin parastin.",
+    "Zarokê min di cihê pîroz de, di bin çavdêriya pêxemberekî ji malbata Harûn de, hat danîn.",
+    "Keça min bi paqijiya xwe hate naskirin û li ser hemû jinan hate hilbijartin, paşê bû diya pêxemberekî mezin, her çend bê dest lê dan ma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Jina Îmran",
+        "Dayîka Mûsa",
+        "Jina Fîrewn",
+        "Jina Ezîz",
+        "Dayîka Îsa"
+      ],
+      "answer": "Jina Îmran"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Sondek ji bo terxankirina zaroka xwe ya jidayikbûyî ji bo perestgehê",
+        "Ceribandineke sebirê bi nexweşiyeke dirêj",
+        "Rêwîtiyek ber bi welatekî dûr ji bo baweriyê",
+        "Rûbirûbûnek bi padîşahekî zalim re",
+        "Dabînkirina xwarinê ya bi mûcîze ji bihuştê"
+      ],
+      "answer": "Sondek ji bo terxankirina zaroka xwe ya jidayikbûyî ji bo perestgehê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Zaroka bi navê Meryem",
+        "Dara ku veguherî mar",
+        "Golika zêrîn",
+        "Kaniya Zemzemê",
+        "Keştiya Nûh"
+      ],
+      "answer": "Zaroka bi navê Meryem"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Zaroka wê ji aliyê Xwedê ve hate qebûlkirin û di bin lênêrîna pêxember de mezin bû.",
+        "Zaroka wê bû pêxember û nivîsarek wergirt",
+        "Zaroka wê ber bi ezmanan ve hat rakirin",
+        "Zarokê wê xaniyek pîroz ava kir",
+        "Zarokê wê şehrezayî û dewlemendiyeke mezin wergirt"
+      ],
+      "answer": "Zaroka wê ji aliyê Xwedê ve hate qebûlkirin û di bin lênêrîna pêxember de mezin bû."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

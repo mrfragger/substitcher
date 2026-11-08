@@ -1,0 +1,61 @@
+{
+  "title": "Teslîmbûna Mezin a Serwer",
+  "intro": "Hûn xwe di welatekî ecêbên kevnar û eşkerekirinên kûr de dibînin. Hukumdarekî bihêz, ku bi vexwendinek neçaverêkirî re rû bi rû maye, dest bi rêwîtiyek dike ku dê rêça çarenûsa wê û baweriya gelê wê biguherîne. Hûn dikarin nasnameya vê kesayetiya bi heybet eşkere bikin?",
+  "clues": [
+    "Min li ser padîşahiyek geş hukum kir, ku bi dewlemendiyek mezin û textek mezin xemilandî bû.",
+    "Ez û gelê min cesedekî ezmanî dihebandin, û bawer dikir ku ew xudanê me ye, her çend min di dilê xwe de guman hebûn.",
+    "Qasidek taybet, çûkek, nameyek ji min re anî, ku tê de min û gelê min gazî dike ku em teslîmî Yek Xwedayê bibin.",
+    "Min bi şêwirmendên xwe re, yên ku bi hêz bûn, şêwirî ka çawa bersiva vê peyama bêhempa bidin.",
+    "Min biryar da ku diyariyek hêja ji bo yê ku name şandiye bişînim, bi hêviya ku ez hêz û niyeta wî bipîvim.",
+    "Dema ez gihîştim wir, ez ji qesrekê matmayî mam ku erdê wê ji cam bû û dişibiya golek avê, û wê demê min teslîmbûna xwe ji Xwedayê hemû afirînê re ragihand."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Fîrewn",
+        "Şahbanûya Şebayê",
+        "Zû el-Qarneyn",
+        "Luqman",
+        "Pêxember Yûsif"
+      ],
+      "answer": "Şahbanûya Şebayê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Parçekirina deryayê",
+        "Lehiya mezin",
+        "Rêwîtiya ber bi hevdîtina Pêxember Suleyman ve",
+        "Tunekirina gelê Lût",
+        "Şewitandina Pêxember Îbrahîm"
+      ],
+      "answer": "Rêwîtiya ber bi hevdîtina Pêxember Suleyman ve"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keşti",
+        "Karmend",
+        "Text",
+        "Çiya",
+        "Agir"
+      ],
+      "answer": "Text"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Pêxember bû.",
+        "Ji aliyê Xwedê ve hate wêrankirin",
+        "Îslam qebûl kir",
+        "Gelê xwe ber bi şer ve bir",
+        "Perestgehek mezin ava kir"
+      ],
+      "answer": "Îslam qebûl kir"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

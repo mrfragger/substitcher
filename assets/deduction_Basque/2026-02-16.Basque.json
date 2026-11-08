@@ -1,0 +1,61 @@
+{
+  "title": "Aginte absolutuaren aldarrikapena",
+  "intro": "Antzinaroan, pertsona boteretsu batek lurralde zabal baten eta bertako biztanleen gaineko agintea lortu zuen. Pertsonaia honen erregealdia harrotasun izugarriak eta jainkozko autoritatearen aurkako erronka sakon batek markatu zuten. Presta zaitez belaunaldi guztientzako ikasgai iraunkor bihurtu zen arima baten identitatea ezagutzeko.",
+  "clues": [
+    "Inperio ahaltsu baten gainean agintea izan nuen, non nire hitza legea zen.",
+    "Jainko gorena izendatu nuen neure burua, nire agintepean zeuden guztiei gurtza eskatuz.",
+    "Komunitate espezifiko bat zapaldu nuen, esklabo bihurtuz eta haien mutil haurtxoak hiltzeko aginduz.",
+    "Jainkoaren mezulari xume batek behin eta berriz egin zidan aurre, nire eta nire magoen aurrean mirari argiak egin zituena.",
+    "Egia temati ukatu nuen, mezularia sorginkeriaz salatuz eta bera eta bere jarraitzaileak suntsitzeko konspiratuz.",
+    "Nire armada osoa eta biok itsasoak irentsi zituen, nire atzaparretatik askatu zirenak etengabe atzetik genbiltzan bitartean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde Handia",
+        "Sua Erretzen",
+        "Zapaltzailearen itotzea",
+        "Haizearen suntsipena.",
+        "Sinesgaitzaren lurrikara"
+      ],
+      "answer": "Zapaltzailearen itotzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Noeren Arka",
+        "Moisesen makila",
+        "Urrezko Idoloa",
+        "Zamzam-eko putzua",
+        "Bilqisen tronua"
+      ],
+      "answer": "Moisesen makila"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erresuma zabala eman zioten",
+        "Gorputza seinale gisa gordeta",
+        "Damutu ondoren barkatua.",
+        "Profeziara igoa.",
+        "Bere herria jainkozale bihurtu zen"
+      ],
+      "answer": "Gorputza seinale gisa gordeta"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

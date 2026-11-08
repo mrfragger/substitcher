@@ -1,0 +1,61 @@
+{
+  "title": "L'Adversari Ardent",
+  "intro": "Dins los primièrs jorns de la revelacion, una figura emergiguèt coma un opausant testard de la vertat. Benedicha de riquesa e d'estatut, aquela anma causiguèt l'orgulh per l'orientacion, e lor istòria venguèt un avertiment fòrt dins los vèrses finals d'una sura.",
+  "clues": [
+    "Viviái dins la meteissa vila que lo Profèta, e èri demest los parents mai pròches d'el, pasmens mon orgulh me teniá luènh de la vertat.",
+    "Possedissiái una granda riquesa e de nombrosas proprietats, e pensavi que mas ressorsas me protegirián totjorn.",
+    "Quand lo messatge foguèt revelat, me trufèri d'el dobèrtament e me desvièri, me considerant superior als cresents.",
+    "Mon enemistat èra talament notòria qu'una sura de l'Alcoran m'adreçèt dirèctament, me sonant pel nom que los autres me coneissián.",
+    "Foguèri avertit que ma riquesa e mos ganhs me servirián pas, e que seriái botat dins un fuòc ardent.",
+    "Soi conegut coma lo paire de la flama, e ma femna portarà la lenha amb una còrda de fibra de palma a l'entorn de son còl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Rebutèt l'islam e s'opausèt dobèrtament al Profèta",
+        "Complotat per assassinar lo Profèta",
+        "Menèt un boicòt social contra los musulmans",
+        "Combatèt dins la batalha de Badr",
+        "Bilal ibn Rabah torturat"
+      ],
+      "answer": "Rebutèt l'islam e s'opausèt dobèrtament al Profèta"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una còrda de fibra de palma",
+        "Una espasa afilada",
+        "Una cadena pesuga",
+        "Un baston de fusta",
+        "Un fuòc de cuèr"
+      ],
+      "answer": "Una còrda de fibra de palma"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Cremarà dins un fuòc ardent",
+        "Se pentiguèt e venguèt un companh",
+        "Perdèt sa riquesa mas moriguèt onorat",
+        "Fugiguèt en Abissinia",
+        "Afogat dins la mar"
+      ],
+      "answer": "Cremarà dins un fuòc ardent"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

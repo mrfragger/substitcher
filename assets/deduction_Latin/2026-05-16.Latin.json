@@ -1,0 +1,61 @@
+{
+  "title": "Firmus Aedificator Salutis",
+  "intro": "Figura immensae patientiae et constantis persuasionis, hic homo innumerabiles annos missioni divinae dedicavit, implacabili contemptu et repudiatione obviam eundo. Historia eorum est testimonium validum fidei contra incredulitatem immensam, culminans in evento maximo qui mundum reformavit.",
+  "clues": [
+    "Incredibiliter longum vitae meae tempus populum meum ad cultum Dei vocando dedicavi.",
+    "Mei me deriserunt et manifesti erroris ac insaniae me accusaverunt.",
+    "Iussi sum aedificare aliquid quod insolitum pro communitate mea clausa videretur.",
+    "Pauci tantum crediderunt et mihi familiae meaeque in hac singulari constructione se adiunxerunt.",
+    "Bina omnis animalis viventis in navem portavi, ut Deus praeceperat.",
+    "Magnum diluvium terram obruit, servantibus solis qui mecum in navi mea erant, dum filius meus propter incredulitatem suam periit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Salih",
+        "Propheta Hud",
+        "Propheta Nuh",
+        "Propheta Dawud",
+        "Propheta Sulayman"
+      ],
+      "answer": "Propheta Nuh"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Destructio terrae motu",
+        "Maris divisio",
+        "Magnum diluvium",
+        "Ignis Nimrodi",
+        "Pestis ranarum"
+      ],
+      "answer": "Magnum diluvium"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Rubus ardens",
+        "Arca",
+        "Puteus aquae",
+        "Vitulus aureus",
+        "Mons Tur"
+      ],
+      "answer": "Arca"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Regnum accepit",
+        "Populus eius in simias transformatus est",
+        "Populus eius miraculo servatus est",
+        "Populus eius submersus est",
+        "Populus eius fulmine percussus est"
+      ],
+      "answer": "Populus eius submersus est"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

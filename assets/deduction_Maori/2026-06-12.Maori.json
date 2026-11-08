@@ -1,0 +1,61 @@
+{
+  "title": "Te Patunga Hihiri",
+  "intro": "I te wā o ngā whakamātautau atua, i karangatia tētahi wairua ki te mahi tino ngohengohe. I whakatipuria i roto i te whenua pakoko, i tipu ake tēnei tangata hei whakaatu i te whakapono me te manawanui. I te wā i whakahaua ai he patunga tapu e te moemoeā, kāore rātou i ruarua. Ko tā rātou kōrero he pou tokomanawa o te aroha.",
+  "clues": [
+    "Ko ahau te whakautu ki te inoi i tatarihia mō te wā roa a te poropiti nui.",
+    "I mahue māua ko tōku whaea i tētahi awaawa ururua, ko ā māua kai he tāte me te wai anake.",
+    "I tipu ake ahau hei poropiti, e mōhiotia ana ahau mō tōku pono me tōku manawanui.",
+    "I āwhina ahau i tōku pāpā ki te whakaara i te turanga o te whare tapu i whakatapua ki a Allah.",
+    "I te kōrerotanga mai a tōku pāpā i tētahi moemoeā hei patu i ahau, ka whakahoki ahau, 'Meatia te mea i whakahaua ki a koe.'",
+    "I whakahonoretia e te Atua taku ngohengohe mā te tukunga mai i tētahi hipi toa i te rangi hei utu mōku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Ihimaera",
+        "Poropiti a Ihaka",
+        "Poropiti a Hākupa",
+        "Poropiti Ihāperama",
+        "Poropiti a Yusuf"
+      ],
+      "answer": "Poropiti Ihimaera"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Tukua kia patua",
+        "Ka makaia ki roto i te ahi mura",
+        "Te horomia e te ika nui",
+        "Te hokonga hei pononga",
+        "Te whakamatautauria ki te mate kino"
+      ],
+      "answer": "Tukua kia patua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Puna o Zamzam",
+        "Te Āka o Noa",
+        "Te Ahi o Nimirota",
+        "Te Kuao Kau Koura",
+        "Ngā Rākau o Musa"
+      ],
+      "answer": "Puna o Zamzam"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I utua ki te hipi toa nui",
+        "I whakaorangia i te ahi",
+        "I whakaorangia i te waipuke",
+        "I tangohia mai i te tohorā",
+        "I hoatu he rangatiratanga me te whakaaro nui"
+      ],
+      "answer": "I utua ki te hipi toa nui"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

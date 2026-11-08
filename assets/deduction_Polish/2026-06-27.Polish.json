@@ -1,0 +1,61 @@
+{
+  "title": "Święta nieobecność",
+  "intro": "Za wydmami czasu kryje się opowieść o niezachwianym oddaniu i zaufaniu tak ciężkim, że dusza, która je niosła, mogła je złamać. W chwili, gdy ludzie zwrócili się ku głupocie i złotu, jedna postać pozostała niewzruszona – przywołując ich z powrotem, błagając o cierpliwość i dźwigając ciężar świętej obietnicy. To historia o kimś, kto został wybrany na pomocnika, wezyra i strażnika wiary podczas świętej nieobecności. Czy potrafisz odkryć tożsamość tej niezłomnej duszy?",
+  "clues": [
+    "Dzielę krew z wielkim prorokiem, który został wybrany, aby rozmawiać z Allahem bezpośrednio na świętej górze.",
+    "Mój brat kiedyś zwrócił się do Allaha z prośbą o pomoc w jasnym przemówieniu do wielkiego ciemiężcy.",
+    "Zostałem wybrany przez Allaha, aby stać u boku mojego rodzeństwa jako pomocnik i wezyr.",
+    "Razem stawiliśmy czoła tyranowi, który domagał się tytułu najwyższego z bogów.",
+    "Podczas gdy mój brat rozmawiał z Allahem na górze, nasz lud uczynił sobie bożka ze złota.",
+    "Jestem bratem Mojżesza, ustanowionym przez Allaha jego wezyrem, wymienionym z imienia w Koranie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Harun (Aaron)",
+        "Prorok Musa",
+        "Prorok Dawud",
+        "Prorok Jakub",
+        "Prorok Ishaq"
+      ],
+      "answer": "Prorok Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Kryzys kultu cielca",
+        "Wielka Powódź Nuh",
+        "Bitwa pod Badr",
+        "Zniszczenie Thamud",
+        "Zniszczenie Sodomy"
+      ],
+      "answer": "Kryzys kultu cielca"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec",
+        "Arka Noego",
+        "Płonący krzew",
+        "Jaskinia Hira",
+        "Tron Szeby"
+      ],
+      "answer": "Złoty cielec"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Niewinność potwierdzona przez Allaha",
+        "Utonięcie faraona",
+        "Budowa Kaaby",
+        "Bezpieczne przepłynięcie morza",
+        "Wniebowstąpienie"
+      ],
+      "answer": "Niewinność potwierdzona przez Allaha"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

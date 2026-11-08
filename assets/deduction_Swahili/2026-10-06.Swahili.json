@@ -1,0 +1,61 @@
+{
+  "title": "Ukweli Ulioinyamazisha Mahakama",
+  "intro": "Katika jumba ambalo kukataa kulitawala na nguvu ilikuwa kamili, mkusanyiko wa wataalamu wenye ujuzi ulisimama mbele ya changamoto isiyotarajiwa. Hewa ilivuma kwa matarajio huku njia mbili za uongo na ukweli zikikaribia kugongana. Waliokusanyika hawakujua kwamba mkutano huu ungebadilisha maisha yao milele na kuichonga hadithi yao katika maandishi matakatifu.",
+  "clues": [
+    "Tulijulikana kwa ustadi wetu wa udanganyifu na tulikusanywa na mtawala mwenye nguvu ili kukabiliana na mpinzani.",
+    "Wakati ulipofika, tulitupa vyombo vyetu vya muziki na kusubiri matokeo, tukiwa na uhakika na ufundi wetu.",
+    "Lakini kile tulichokishuhudia kilifanya vifaa vyetu vionekane kama vitu vya kuchezea tu, na mioyo yetu ikatambua ukweli usiopingika.",
+    "Tulianguka chini kwa kusujudu, tukitangaza imani yetu kwa Bwana wa Musa na Haruni, licha ya hasira ya mtawala.",
+    "Mtawala huyo alitutishia kwa adhabu kali zaidi, akiapa kutusulubisha na kukata viungo vyetu kwa njia tofauti.",
+    "Tulibaki imara, tukisema tunapendelea hukumu ya Bwana wetu kuliko matokeo yoyote ya kidunia, na tuliuawa kwa ajili ya imani yetu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Wachawi wa Farao",
+        "Watu wa Pango",
+        "Masahaba wa Wood",
+        "Wanafunzi wa Isa",
+        "Watu wa Tembo"
+      ],
+      "answer": "Wachawi wa Farao"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mashindano ya uchawi dhidi ya Musa",
+        "Moto uliowatupia",
+        "Mafuriko yaliyowazamisha",
+        "Ukame na njaa",
+        "Tetemeko la ardhi"
+      ],
+      "answer": "Mashindano ya uchawi dhidi ya Musa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Fimbo na kamba zilizogeuka kuwa nyoka",
+        "Kichaka kinachowaka moto",
+        "Ngamia jike",
+        "Sanduku la mbao",
+        "Nyangumi"
+      ],
+      "answer": "Fimbo na kamba zilizogeuka kuwa nyoka"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aliuawa kwa imani, Paradiso iliyoahidiwa",
+        "Kuzama baharini",
+        "Wakawa watawala wa Misri",
+        "Wafuasi waliobaki wa Farao",
+        "Alirithi ardhi"
+      ],
+      "answer": "Aliuawa kwa imani, Paradiso iliyoahidiwa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

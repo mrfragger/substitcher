@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mabinantayong Kalag sa Pangpang sa Suba",
+  "intro": "Usa ka batan-ong kalag ang gisaligan sa usa ka sekreto nga misyon, ang pag-obserbar gikan sa luwas nga distansya samtang ang kapalaran nagbuklad sa katubigan. Wala makita ug wala damha, kini nga tawo adunay hinungdanon nga papel sa pag-usab sa dagan sa kasaysayan sa usa ka nasud.",
+  "clues": [
+    "Gihatagan ko sa akong inahan og buluhaton, usa nga nanginahanglan og pagkatago ug pagkamabinantayon.",
+    "Gisundan sa akong mga mata ang gamay nga duyan nga nagpaanod-anod subay sa sulog, ang akong kasingkasing nabug-atan sa kabalaka.",
+    "Sa dihang nakit-an kini sa usa ka wala damha nga grupo, miduol ako, nga puno sa kahadlok.",
+    "Nakita nako ang ilang kawalay paglaum nga makakita og tig-atiman ug mitanyag ko og solusyon nga wala gibutyag ang tinuod.",
+    "Ang akong tukma sa panahon nga pagpangilabot nakabalik sa usa ka maabiabihong kalag ngadto sa usa nga labing nanginahanglan niini.",
+    "Sa mga korte sa mga gamhanan, ako miingon: 'Itudlo ko ba ikaw ngadto sa usa ka pamilya nga moamuma ug moatiman kaniya uban ang pag-amping?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang igsoon nga babaye ni Musa",
+        "Ang inahan ni Musa",
+        "Ang asawa ni Paraon",
+        "Usa ka mananabang",
+        "Ang anak nga babaye ni Shu'aib"
+      ],
+      "answer": "Ang igsoon nga babaye ni Musa"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang paglabay sa bata sa suba",
+        "Ang pagbahin sa dagat",
+        "Ang pagsunog sa nating baka",
+        "Ang pagtukod sa arka",
+        "Ang hampak sa mga dulon"
+      ],
+      "answer": "Ang paglabay sa bata sa suba"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang suba",
+        "Ang disyerto",
+        "Ang bukid",
+        "Ang palasyo",
+        "Ang kalayo"
+      ],
+      "answer": "Ang suba"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Iyang gibalik ang bata sa iyang inahan",
+        "Giluwas niya ang iyang kaugalingon gikan sa mga sundalo ni Paraon",
+        "Nahimo siyang reyna",
+        "Gisilotan siya tungod sa pagpaniid",
+        "Siya ang nangulo sa mga Israelita"
+      ],
+      "answer": "Iyang gibalik ang bata sa iyang inahan"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

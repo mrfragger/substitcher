@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo ya Solo ya Tango ya Kala",
+  "intro": "Ezali na molimo moko na kati ya Coran oyo lisolo na yango elobelami kaka na mwa bavɛrsɛ, nzokande bizaleli na bango ya lokumu engɛngaka na polele mpenza. Akumisami na Mozwi-ya-Nguya-Nyonso mpo na ezaleli malamu moko ya sipesiale, mosaleli oyo ya kala ya Mawa mingi azali na esika na nkasa ya emoniseli. Mosala na yo ezali ya koyeba motángo yango ya kokamwa. Okoki kokanisa soki bazali banani?",
+  "clues": [
+    "Nazali prophète ya Allah oyo avandaki na kati ya ba génération ya liboso ya bomoto.",
+    "Allah alobelaki ngai na Buku na Ye elongo na basakoli mosusu, bango nyonso bakumisaki mpo na bizaleli malamu ya lokumu moko.",
+    "Nazali kolimbolama lokola moto ya bosolo na kati ya Coran.",
+    "Allah atombolaki ngai na esika ya likolo oyo bato moke nde bazui.",
+    "Nkombo na ngai elobelami na Surah Al-Anbiya, na etuluku elongo na basakoli mibale mosusu oyo bakumisaki mpo na motema molai na bango.",
+    "Nazali Idris, mosakoli ya solo mpe oyo atombolami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Idris",
+        "Mosakoli Nuh",
+        "Mosakoli Ibrahim",
+        "Mosakoli Musa",
+        "Mosakoli Ismail"
+      ],
+      "answer": "Mosakoli Idris"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobatela motema molai mpe bosolo, sima etombolama na station ya likolo",
+        "Kotonga masuwa monene mpo na kobikisa bandimi na mpela moko ya kobebisa",
+        "Kobwakama na mɔ́tɔ oyo ezali kopela mpe kobima ata kozanga kozoka",
+        "Kokutana na mokonzi moko ya nguya mpe kolonga limpinga na ye ya banganga-nkisi",
+        "Kobika na kati ya libumu ya mbisi monene na bozindo ya mbu"
+      ],
+      "answer": "Kobatela motema molai mpe bosolo, sima etombolama na station ya likolo"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Station ya likolo pe ya likolo na Allah",
+        "Masuwa monene oyo etongamaki na mabaya mpe etandamaki na goudron",
+        "Mɔtɔ makasi oyo basambeli ya bikeko ya mokonzi moko mabe bapelisaki mɔtɔ",
+        "Mbu monene oyo ekabwanaki na banzela ya kokauka",
+        "Libumu ya molili ya baleine monene na nse ya mbu"
+      ],
+      "answer": "Station ya likolo pe ya likolo na Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Andimi na ngolu ya Allah lokola moko ya bayengebene",
+        "Abikisami elongo na bandimi banso na mpela ya mokili mobimba",
+        "Atambolaki libanda ya mɔ́tɔ oyo mɔtɔ esimbaki te",
+        "Akambaki Bana ya Yisalaele na kimia na bonsomi na ngambo mosusu ya mbu",
+        "Bakutanaki lisusu na libota na bango oyo balingaki mingi nsima ya bambula mingi ya mpasi"
+      ],
+      "answer": "Andimi na ngolu ya Allah lokola moko ya bayengebene"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

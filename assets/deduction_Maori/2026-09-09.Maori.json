@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Tuatahi ki te Tū",
+  "intro": "I mua noa atu i te haerenga mai o tētahi karere ki te whenua, i mua i te whakakitenga mai o tētahi karaipiture, i puta mai tētahi mea kāore i rite ki tētahi atu. I hangaia tēnei wairua e ngā ringa atua, i hoatu he wāhi ataahua kāore e rite, ā, i whakamatautauria i roto i tētahi ara e rangona ana i roto i te hītori katoa o te tangata. Ko te mea i whai ake ko tētahi kōrero mō te ngoikore, te ripeneta pono, me tētahi aituā ka huri i te huarahi o te hanganga ake ake. Ka taea e koe te matapae ko wai tēnei?",
+  "clues": [
+    "I hangaia ahau e ngā ringa o te Atua Aroha rawa mai i te puehu o te whenua",
+    "I homai ki ahau he kāinga ataahua, kāore e taea te whakataurite, te wāhi kāore e taea e te hiakai, e te ngenge rānei te pā mai ki ahau.",
+    "I whakahaua ahau kia kaua rawa e whakatata ki tētahi rākau, nā te mea i rāhuitia",
+    "I mamingatia māua ko taku hoa, ā, ka whakatata māua ki te rākau tapu, i runga i te ture a tō tātou Ariki.",
+    "I tahuri mātou ki tō mātou Ariki me te ripeneta pono, ā, i murua ō mātou hara",
+    "Nō tātou te tangata katoa i ahu mai; ko au te tuatahi ki te hikoi i runga i tēnei whenua"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Arama",
+        "Poropiti a Mohi",
+        "Poropiti a Noa",
+        "Poropiti a Yusuf",
+        "Poropiti a Ihaia"
+      ],
+      "answer": "Poropiti Arama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakamatautauranga a te rākau tapu",
+        "Te tautohetohe ki a Parao",
+        "Te hanga i te Āraka nui",
+        "Te patunga tapu a te tama aroha",
+        "Te maka ki roto i te ahi nui"
+      ],
+      "answer": "Te whakamatautauranga a te rākau tapu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Rākau Rāhui",
+        "Te Rakau e Mura Ana",
+        "Te Rākau Koura",
+        "Te Āraka Nui",
+        "Te Kuao Kau Koura"
+      ],
+      "answer": "Te Rākau Rāhui"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tukuna iho ki te whenua hei kaitiaki tuatahi mō te tangata",
+        "I toremi a Parao rātou ko tana ope taua ki te moana",
+        "I whakangaromia te hunga kino e te waipuke nui",
+        "I mātao te ahi, ā, i marino",
+        "I whakawhiwhia ki te mana whakahaere i te kingitanga o Ihipa"
+      ],
+      "answer": "I tukuna iho ki te whenua hei kaitiaki tuatahi mō te tangata"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

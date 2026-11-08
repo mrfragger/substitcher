@@ -1,0 +1,61 @@
+{
+  "title": "Ibai ertzeko zaindaria",
+  "intro": "Tirano baten dekretuak etxe askotara atsekabea ekarri zuen lurralde batean, arima batek beldur guztiei aurre egin zien mezua jaso zuen. Konfiantzaz betetako bihotzarekin, nazio baten norabidea aldatuko zuen fede-ekintza bati ekin zioten. Urak zama preziatua zeramaten bitartean, itxaropena korronteekin nahasten zen.",
+  "clues": [
+    "Zapalkuntza eta beldurrezko garaian bizi izan nintzen.",
+    "Jainkozko inspirazioa jaso nuen, eta horrek ausardia eman zidan.",
+    "Ez beldurtzeko edo atsekabetzeko agindu zidaten.",
+    "Nire haurra kutxa batean sartu eta uraren gainean utzi nuen.",
+    "Nire haurra agintariaren etxeak aurkitu zuen, baina beste haurra atzetik etorri zen.",
+    "Alak agindu bezala, nire haurrarekin berriro elkartu nintzen titia emateko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Moisesen Ama",
+        "Faraoiaren emaztea.",
+        "Moisesen arreba.",
+        "Jesusen Ama",
+        "Sabako erregina"
+      ],
+      "answer": "Moisesen Ama"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Haur bat ibaira botatzeko inspirazioa izatea",
+        "Magiazko duelu batera erronka egitea",
+        "Armada batek jazarritakoan",
+        "Zabaldu den itsaso bat zeharkatzen",
+        "Etxe sakratu bat eraikitzen"
+      ],
+      "answer": "Haur bat ibaira botatzeko inspirazioa izatea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ibaian jarritako kutxa bat",
+        "Sasi erretzen ari den bat",
+        "Suge bihurtu zen makila",
+        "Urrezko txahal bat",
+        "Tronu bat."
+      ],
+      "answer": "Ibaian jarritako kutxa bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Haurra onik itzuli zioten erizainari",
+        "Haurra betiko galdu zen",
+        "Haurra lurralde urrun batera eraman zuten",
+        "Haurra berehala bihurtu zen agintari",
+        "Haurra merkatari aberats batek adoptatu zuen"
+      ],
+      "answer": "Haurra onik itzuli zioten erizainari"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

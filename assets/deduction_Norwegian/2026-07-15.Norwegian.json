@@ -1,0 +1,61 @@
+{
+  "title": "Det ensomme retretten",
+  "intro": "I annalene om guddommelig gunst finnes det en sjel med enestående renhet, satt til side fra sitt folk for å søke ensomhet i en hellig retning. Lite visste de at denne tilbaketrukketheten ville bringe et tegn for alle verdener, en trosprøve som ville bli omtalt i all evighet.",
+  "clues": [
+    "Jeg var viet til et liv i tjeneste før jeg ble født.",
+    "Jeg ble satt under vergemål av en edel profet.",
+    "Jeg ble forsørget av forsyninger fra Allah som forbløffet min verge.",
+    "Jeg trakk meg tilbake fra familien min til et sted østover.",
+    "En engel viste seg for meg i skikkelse av en fullkommen mann og kom med bud om en ren sønn.",
+    "Da jeg kom tilbake med den nyfødte, anklaget folket mitt meg, men spedbarnet talte til mitt forsvar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiyah (faraos kone)",
+        "Hajar (mor til Ismail)",
+        "Sara (kona til Ibrahim)",
+        "Moren til Musa"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Mirakuløs unnfangelse og fødsel av en sønn",
+        "Å bli kastet i en ild",
+        "Å bli slukt av en gigantisk fisk",
+        "Å bygge en stor ark",
+        "Kryssing av havet"
+      ],
+      "answer": "Mirakuløs unnfangelse og fødsel av en sønn"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Et avsidesliggende sted på østkysten",
+        "Den brennende busken",
+        "Rødehavet",
+        "Klippen som vannet fosset fra",
+        "Hvalen"
+      ],
+      "answer": "Et avsidesliggende sted på østkysten"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Et spedbarn forsvarte en mor",
+        "Havet ble delt",
+        "Ilden ble kjølig og trygg",
+        "Hvalen kastet opp på land",
+        "Arken landet på et fjell"
+      ],
+      "answer": "Et spedbarn forsvarte en mor"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

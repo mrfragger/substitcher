@@ -1,0 +1,61 @@
+{
+  "title": "The Transgression by the Shore",
+  "intro": "You stand upon the sands of a forgotten shore, where the waves whisper of a community tested by a divine command. The air is heavy with the memory of a violation that led to a startling transformation. Who were these souls, and what was the nature of their trial?",
+  "clues": [
+    "We were a community that received a clear commandment from our Lord, yet we found ways to defy it.",
+    "We lived near a body of water, and our livelihood depended on its creatures.",
+    "A test came to us on the day we were commanded to refrain from worldly pursuits.",
+    "The creatures of the water came to us in great numbers on that very day, tempting us beyond endurance.",
+    "We devised a cunning trick to circumvent the divine order, thinking we could outsmart the decree.",
+    "Our transgression led to a humiliating transformation; we became despised apes by the command of Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "The People of the Sabbath",
+        "The People of Rass",
+        "The People of Tubba",
+        "The People of the Cave",
+        "The Companions of the Ditch"
+      ],
+      "answer": "The People of the Sabbath"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The appearance of fish on the Sabbath",
+        "A year of severe drought",
+        "An army of birds sent against them",
+        "A flood that overwhelmed them",
+        "A violent earthquake"
+      ],
+      "answer": "The appearance of fish on the Sabbath"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The sea",
+        "A mountain",
+        "A cave",
+        "A desert valley",
+        "A fortified city"
+      ],
+      "answer": "The sea"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Turned into apes",
+        "Swallowed by the earth",
+        "Destroyed by a screaming wind",
+        "Drowned in the sea",
+        "Struck by a shower of stones"
+      ],
+      "answer": "Turned into apes"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

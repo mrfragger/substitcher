@@ -1,0 +1,61 @@
+{
+  "title": "Syntymättömän vala",
+  "intro": "Vilpitön sielu teki pyhän lupauksen ennen lapsen syntymää. Tämän hahmon tarina kerrotaan pyhäkön seinien sisällä, jossa omistautuminen kohtaa jumalallisen hyväksynnän. Kuka on tämä Allahin palvelija?",
+  "clues": [
+    "Kuuluin perheeseen, jota kunnioitetaan Koraanissa.",
+    "Vannoin juhlallisen lupauksen omistaa syntymättömän lapseni Allahin palvelukseen.",
+    "Synnytyksessä yllätyin, kun sain tyttären, vaikka olin odottanut poikaa.",
+    "Annoin lapselleni nimeksi Maryam, nimi, joka heijastaa omistautumista ja palvelua.",
+    "Etsin Allahin suojelusta lapselleni ja hänen jälkeläisilleen kirottua Saatanaa vastaan.",
+    "Herra hyväksyi lapseni ja asetti hänet profeetta Zakariyan hoitoon pyhäkköön."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Imranin (Maryamin äidin) vaimo",
+        "Asiya, faaraon vaimo",
+        "Maryam, Isan äiti",
+        "Profeetta Musan äiti",
+        "Saban kuningatar"
+      ],
+      "answer": "Imranin (Maryamin äidin) vaimo"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Vannoo omistavansa lapsensa temppelille",
+        "Heitetään tuleen",
+        "Meren ylitys kuivalla maalla",
+        "Suuren arkin rakentaminen",
+        "Suuren kalan nielaisemaksi joutuminen"
+      ],
+      "answer": "Vannoo omistavansa lapsensa temppelille"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Pyhäkkö (mihrab), johon hänen lapsensa sijoitettiin",
+        "Liitonarkki",
+        "Kultainen vasikka",
+        "Sauva, joka muuttui käärmeeksi",
+        "Taatelipalmu, jonka alla hän lepäsi"
+      ],
+      "answer": "Pyhäkkö (mihrab), johon hänen lapsensa sijoitettiin"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hänen lapsensa hyväksyttiin ja asetettiin profeetta Zakariyan hoitoon",
+        "Hänet pelastettiin tyrannin rangaistuksesta",
+        "Hänelle syntyi poika nimeltä Yahya",
+        "Hänen kansansa tuhoutui myrskyssä",
+        "Hänestä tuli suuren valtakunnan kuningatar"
+      ],
+      "answer": "Hänen lapsensa hyväksyttiin ja asetettiin profeetta Zakariyan hoitoon"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

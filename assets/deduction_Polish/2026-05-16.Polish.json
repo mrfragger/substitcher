@@ -1,0 +1,61 @@
+{
+  "title": "Niezłomny Budowniczy Zbawienia",
+  "intro": "Postać o ogromnej cierpliwości i niezachwianym przekonaniu, poświęciła niezliczone lata boskiej misji, spotykając się z nieustanną pogardą i odrzuceniem. Jej historia jest potężnym świadectwem wiary w obliczu przytłaczającego niedowierzania, a jej kulminacją było doniosłe wydarzenie, które odmieniło świat.",
+  "clues": [
+    "Poświęciłem niezwykle długi okres mojego życia na wzywanie mojego ludu do oddawania czci Allahowi.",
+    "Mój lud naśmiewał się ze mnie i oskarżał mnie o oczywisty błąd i szaleństwo.",
+    "Kazano mi zbudować coś, co wydawało się niezwykłe dla mojej pozbawionej dostępu do morza społeczności.",
+    "Tylko nieliczni uwierzyli i przyłączyli się do mnie i mojej rodziny przy tej wyjątkowej budowie.",
+    "Zgodnie z poleceniem Allaha zabrałem na pokład po parze każdego żywego stworzenia.",
+    "Nastąpiła wielka powódź, która zalała ziemię. Ocaleli tylko ci, którzy byli ze mną w moim statku, podczas gdy mój syn zginął z powodu swojej niewiary."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Salih",
+        "Prorok Hud",
+        "Prorok Noh",
+        "Prorok Dawud",
+        "Prorok Sulayman"
+      ],
+      "answer": "Prorok Noh"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Zniszczenie przez trzęsienie ziemi",
+        "Rozdzielenie morza",
+        "Wielka powódź",
+        "Ogień Nimroda",
+        "Plaga żab"
+      ],
+      "answer": "Wielka powódź"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Płonący krzew",
+        "Arka",
+        "Studnia wody",
+        "Złoty cielec",
+        "Góra Tur"
+      ],
+      "answer": "Arka"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Otrzymał królestwo",
+        "Jego ludzie zostali przemienieni w małpy",
+        "Jego lud został uratowany cudem",
+        "Jego ludzie utonęli",
+        "Jego lud został uderzony piorunem"
+      ],
+      "answer": "Jego ludzie utonęli"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sõnumitooja, kes astus vastu ebajumalakummardajatele",
+  "intro": "Ajal, mil pühendumus oli hääbunud, tõusis sõnumitooja üleskutsega naasta maailmade Issanda kummardamise juurde. See kuju seisis kindlalt vastu rahvale, kes oli juurdunud valejumaluse kummardamisse, tuletades neile meelde nende tõelist Loojat ja esivanemate Issandat. Ometi olid inimesed hoolimatud ja hülgasid hoiatuse, pitseerides sellega oma saatuse. Kes oli see vankumatu kutsuja?",
+  "clues": [
+    "Mind saadeti rahva juurde, kes oli pöördunud ära Ühe Tõelise Jumala teelt.",
+    "Ma küsisin oma rahvalt: \"Kas te ei karda Allahi?\"",
+    "Ma kutsusin neid üles loobuma Baali-nimelise ebajumala kummardamisest.",
+    "Mu rahvas lükkas mu kutse tagasi ja jätkas oma ebajumalakummardamist.",
+    "Oma eitamise tõttu tuuakse nad kindlasti karistuseks esile.",
+    "Mu Issand andis mulle rahu ja õnnistatud mälestuse tulevaste põlvede seas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ilja",
+        "Prohvet Jahja",
+        "Prohvet Dhul-Kifl",
+        "Prohvet Yusuf",
+        "Prohvet Šu'ayb"
+      ],
+      "answer": "Prohvet Ilja"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kutsus oma rahvast Baali hülgama",
+        "Ehitas usklike päästmiseks laeva",
+        "Visati tulle",
+        "Põgenes türanni vaarao eest",
+        "Löönud kivi, et vett välja tuua"
+      ],
+      "answer": "Kutsus oma rahvast Baali hülgama"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Rahu ja õnnistatud mälestus antud",
+        "Maa poolt neelatud",
+        "Hävis vägivaldne torm",
+        "Muutus kiviks",
+        "Uppus merre"
+      ],
+      "answer": "Rahu ja õnnistatud mälestus antud"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

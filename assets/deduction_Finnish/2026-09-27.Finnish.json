@@ -1,0 +1,61 @@
+{
+  "title": "Puutarha joka katosi yön aikana",
+  "intro": "Kuvittele rehevä puutarha, täynnä kypsyviä hedelmiä ja korkeiden puiden ympäröimä. Sen hoitajat luulivat olevansa nokkelia suunnitellessaan sadonkorjuutaan hiljaisina tunteina ennen aamunkoittoa, poissa apua tarvitsevien katseilta. Mutta Hänellä, joka ei koskaan nuku, oli muita suunnitelmia heidän kätketylle runsaudelleen. Osaatko arvata, kuka seisoo tämän varoittavan Koraanin tarinan takana?",
+  "clues": [
+    "Meillä oli kerran niin rehevä ja runsas puutarha, että kaikki ohikulkijat kadehtivat sitä.",
+    "Suunnittelumme aikana kuiskasimme toisillemme varhain aamulla ja julistimme, ettei kukaan apua tarvitseva sielu pääsisi sisään sinä päivänä.",
+    "Olimme varakkaita ihmisiä, ja sydämemme olivat sokeutuneet ympärillämme olevien köyhien oikeuksille.",
+    "Kun aiotun sadonkorjuumme aamu koitti, lähestyimme puutarhaamme ja huomasimme sen muuttuneen yhdessä yössä mustuneeksi raunioiksi.",
+    "Tuhoisa säädös pyyhkäisi läpi jättäen jälkeensä vain tuhkaa paikoille, joissa kypsien hedelmien rypäleet olivat kerran roikkuneet.",
+    "Tarinamme on ankara varoitus Koraanista, jossa meidät tunnetaan puutarhan omistajina, jotka pidättivät hyväntekeväisyyden tarvitsevilta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Puutarhan omistajat",
+        "Luolan ihmiset",
+        "Jesan opetuslapset",
+        "Metsän seuralaiset",
+        "Ibrahimin vieraat"
+      ],
+      "answer": "Puutarhan omistajat"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Salaa hedelmien korjaaminen ja köyhien estäminen",
+        "Nukkuminen vuosisatoja luolassa",
+        "Kieltäytyi tuottamasta naaraskamelia kivestä",
+        "Kultaisen vasikan palvonta Siinainvuorella",
+        "Suuren arkin rakentaminen tulvan varalta"
+      ],
+      "answer": "Salaa hedelmien korjaaminen ja köyhien estäminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Muurien ympäröimä puutarha, täynnä palmuja ja viiniköynnöksiä",
+        "Pimeä luola syvällä vuoristossa",
+        "Kaupunki, jonka jumalainen hurrikaani valtasi",
+        "Pyhä laakso lähellä Allahin taloa",
+        "Virtaavan joen rannat"
+      ],
+      "answer": "Muurien ympäröimä puutarha, täynnä palmuja ja viiniköynnöksiä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Puutarha tuhoutui taivaallisen polttavan säädöksen vuoksi",
+        "He nukkuivat rauhallisesti 309 kuuvuotta",
+        "Kivisade murskasi heidät",
+        "He hukkuivat suuren tulvan aaltojen alle",
+        "Kylmä, raivoisa tuuli hajotti heidät"
+      ],
+      "answer": "Puutarha tuhoutui taivaallisen polttavan säädöksen vuoksi"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

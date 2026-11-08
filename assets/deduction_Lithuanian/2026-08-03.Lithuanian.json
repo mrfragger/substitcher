@@ -1,0 +1,61 @@
+{
+  "title": "Pavasaris po smėliu",
+  "intro": "Korano metraščiuose aprašytas nepaprastai kantri asmenybė susidūrė su išbandymu, kuris sudaužytų net tvirčiausias širdis. Viskas buvo atimta – turtas, šeima ir sveikata. Tačiau iš nevilties gelmių nuolanki malda buvo išklausyta pačiu netikėtiausiu būdu. Ar galite atpažinti šią sielą, kurios atsigavimo istorija aidi per amžius?",
+  "clues": [
+    "Mane išbandė toks sunkus išbandymas, kad jis bus prisimenamas per amžius.",
+    "Praradau viską, kas buvo svarbu – savo turtą, vaikus ir sveikatą.",
+    "Mano kūnas buvo nusėtas skausmingomis opomis, ir visi manęs vengė.",
+    "Iš nevilties šaukiausi Alacho, sakydamas, kad Šėtonas mane palietė sunkumais ir kančiomis.",
+    "Alachas man atsakė ir įsakė trenkti koja į žemę.",
+    "Iš tos pačios vietos tryško vėsus šaltinis, ir Alachas atkūrė mano šeimą bei padvigubino jų skaičių iš malonės."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ayyubas",
+        "Pranašas Musa",
+        "Pranašas Ilja",
+        "Pranašas Suleimanas",
+        "Pranašas Dawudas"
+      ],
+      "answer": "Pranašas Ayyubas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Sunki liga ir šeimos bei turto praradimas",
+        "Prarytas didžiojo banginio",
+        "Tremtis iš Mekos miesto",
+        "Įkalinimas giliame šulinyje",
+        "Susidūrimas su arogantišku valdovu"
+      ],
+      "answer": "Sunki liga ir šeimos bei turto praradimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Vėsus pavasaris iš žemės",
+        "Laivas per didelį potvynį",
+        "Personalas, kuris perskyrė jūrą",
+        "Pakeltas stiklinis sostas",
+        "Sienomis aptverta ola miegui"
+      ],
+      "answer": "Vėsus pavasaris iš žemės"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Šeima ir turtas atkurtas ir padvigubintas",
+        "Išėjimas iš žuvies pilvo",
+        "Saugus praplaukimas per išsiskyrusius vandenis",
+        "Karalystė, duota valdyti",
+        "Stebuklingas sūnaus gimimas senatvėje"
+      ],
+      "answer": "Šeima ir turtas atkurtas ir padvigubintas"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,794 @@
+{
+  "connections": {
+    "categories": [
+      {
+        "name": "أَنْوَاعُ الْبَشَرِ",
+        "nameEn": "Human beings mentioned in the Qur'an",
+        "color": "yellow",
+        "items": [
+          {
+            "ar": "الْإِنسَانُ",
+            "en": "[the] man",
+            "ref": "36:77",
+            "verse": "أَوَلَمْ يَرَ ٱلْإِنسَـٰنُ أَنَّا خَلَقْنَـٰهُ مِن نُّطْفَةٍۢ فَإِذَا هُوَ خَصِيمٌۭ مُّبِينٌۭ",
+            "verseEn": "Does man not consider that We created him from a [mere] sperm-drop - then at once he is a clear adversary?"
+          },
+          {
+            "ar": "لِلْعِبَادِ",
+            "en": "for the slaves",
+            "ref": "50:11",
+            "verse": "رِّزْقًۭا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةًۭ مَّيْتًۭا ۚ كَذَٰلِكَ ٱلْخُرُوجُ",
+            "verseEn": "As provision for the servants, and We have given life thereby to a dead land. Thus is the emergence [i.e., resurrection]."
+          },
+          {
+            "ar": "قَوْمٍ",
+            "en": "a people",
+            "ref": "5:102",
+            "verse": "قَدْ سَأَلَهَا قَوْمٌۭ مِّن قَبْلِكُمْ ثُمَّ أَصْبَحُوا۟ بِهَا كَـٰفِرِينَ",
+            "verseEn": "A people asked such [questions] before you; then they became thereby disbelievers."
+          },
+          {
+            "ar": "الرِّجَالَ",
+            "en": "the men",
+            "ref": "29:29",
+            "verse": "أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+            "verseEn": "Indeed, you approach men and obstruct the road and commit in your meetings [every] evil.\" And the answer of his people was not but that they said, \"Bring us the punishment of Allāh, if you should be of the truthful.\""
+          }
+        ]
+      },
+      {
+        "name": "أَنْوَاعُ الْكَلَامِ الْمَنْطُوقِ",
+        "nameEn": "Types of spoken utterances mentioned in the Qur'an",
+        "color": "green",
+        "items": [
+          {
+            "ar": "الْقَوْلِ",
+            "en": "[the] speech",
+            "ref": "21:110",
+            "verse": "إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ مِنَ ٱلْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ",
+            "verseEn": "Indeed, He knows what is declared of speech, and He knows what you conceal."
+          },
+          {
+            "ar": "الْحَدِيثِ",
+            "en": "Statement",
+            "ref": "68:44",
+            "verse": "فَذَرْنِى وَمَن يُكَذِّبُ بِهَـٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ",
+            "verseEn": "So leave Me, [O Muḥammad], with [the matter of] whoever denies this statement [i.e., the Qur’ān]. We will progressively lead them [to punishment] from where they do not know."
+          },
+          {
+            "ar": "الْوَعْدُ",
+            "en": "promise (be fulfilled)",
+            "ref": "27:71",
+            "verse": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+            "verseEn": "And they say, \"When is [the fulfillment of] this promise, if you should be truthful?\""
+          },
+          {
+            "ar": "أَيْمَانَهُمْ",
+            "en": "their oaths",
+            "ref": "58:16",
+            "verse": "ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةًۭ فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ فَلَهُمْ عَذَابٌۭ مُّهِينٌۭ",
+            "verseEn": "They took their [false] oaths as a cover, so they averted [people] from the way of Allāh, and for them is a humiliating punishment."
+          }
+        ]
+      },
+      {
+        "name": "عَطَايَا اللَّهِ وَجَزَاؤُهُ",
+        "nameEn": "Gifts and rewards bestowed by Allah",
+        "color": "blue",
+        "items": [
+          {
+            "ar": "رَحْمَةً",
+            "en": "As Mercy",
+            "ref": "44:6",
+            "verse": "رَحْمَةًۭ مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+            "verseEn": "As mercy from your Lord. Indeed, He is the Hearing, the Knowing,"
+          },
+          {
+            "ar": "نِعْمَةُ",
+            "en": "(for the) Grace",
+            "ref": "37:57",
+            "verse": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ",
+            "verseEn": "If not for the favor of my Lord, I would have been of those brought in [to Hell]."
+          },
+          {
+            "ar": "ٱلرِّزْقَ",
+            "en": "the provision",
+            "ref": "39:52",
+            "verse": "أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
+            "verseEn": "Do they not know that Allāh extends provision for whom He wills and restricts [it]? Indeed in that are signs for a people who believe."
+          },
+          {
+            "ar": "أَجْرَهُم",
+            "en": "their reward",
+            "ref": "28:54",
+            "verse": "أُو۟لَـٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+            "verseEn": "Those will be given their reward twice for what they patiently endured and [because] they avert evil through good, and from what We have provided them they spend."
+          }
+        ]
+      },
+      {
+        "name": "مُصْطَلَحَاتُ الْحَرْبِ وَالْقِتَالِ",
+        "nameEn": "Warfare terms mentioned in the Qur'an",
+        "color": "purple",
+        "items": [
+          {
+            "ar": "ٱلْحَرْبِ",
+            "en": "the war",
+            "ref": "8:57",
+            "verse": "فَإِمَّا تَثْقَفَنَّهُمْ فِى ٱلْحَرْبِ فَشَرِّدْ بِهِم مَّنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ",
+            "verseEn": "So if you, [O Muḥammad], gain dominance over them in war, disperse by [means of] them those behind them that perhaps they will be reminded."
+          },
+          {
+            "ar": "ٱلْجَمْعُ",
+            "en": "(their) assembly",
+            "ref": "54:45",
+            "verse": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+            "verseEn": "[Their] assembly will be defeated, and they will turn their backs [in retreat]."
+          },
+          {
+            "ar": "مَصَانِعَ",
+            "en": "strongholds",
+            "ref": "26:129",
+            "verse": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+            "verseEn": "And take for yourselves constructions [i.e., palaces and fortresses] that you might abide eternally?"
+          },
+          {
+            "ar": "حِجَارَةً",
+            "en": "stones",
+            "ref": "51:33",
+            "verse": "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةًۭ مِّن طِينٍۢ",
+            "verseEn": "To send down upon them stones of clay,"
+          }
+        ]
+      }
+    ]
+  },
+  "harf": {
+    "word": "دانية",
+    "display": "دَانِيَةً",
+    "hint": "Paradise shades described as hanging low and near above the righteous",
+    "verseRef": "76:14",
+    "arabicVerse": "وَدَانِيَةً عَلَيْهِمْ ظِلَـٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًۭا",
+    "verse": "76:14 - And near above them are its shades, and its [fruit] to be picked will be lowered in compliance."
+  },
+  "scramble": {
+    "verseRef": "10:64",
+    "reference": "Surah Yunus (10:64)",
+    "segments": [
+      "لَهُمُ الْبُشْرَىٰ",
+      "فِي الْحَيَاةِ الدُّنْيَا",
+      "وَفِي الْآخِرَةِ",
+      "لَا تَبْدِيلَ لِكَلِمَاتِ",
+      "اللَّهِ ذَٰلِكَ هُوَ",
+      "الْفَوْزُ الْعَظِيمُ"
+    ],
+    "translations": [
+      "For them (are) the glad tidings in",
+      "the life (of) the world and in",
+      "the Hereafter No change",
+      "(is there) in the Words (of) Allah",
+      "That is",
+      "the success the great"
+    ],
+    "hint": "Glad tidings for Allah's close allies with an unchangeable promise and supreme success",
+    "arabic": "لَهُمُ ٱلْبُشْرَىٰ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْـَٔاخِرَةِ ۚ لَا تَبْدِيلَ لِكَلِمَـٰتِ ٱللَّهِ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "words": [
+      "لَهُمُ ٱلْبُشْرَىٰ فِى",
+      "ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى",
+      "ٱلْـَٔاخِرَةِ ۚ لَا تَبْدِيلَ",
+      "لِكَلِمَـٰتِ ٱللَّهِ ۚ",
+      "ذَٰلِكَ هُوَ",
+      "ٱلْفَوْزُ ٱلْعَظِيمُ"
+    ],
+    "verseEn": "For them are good tidings in the worldly life and in the Hereafter. No change is there in the words [i.e., decrees] of Allāh. That is what is the great attainment."
+  },
+  "roothive": {
+    "center": "د",
+    "outer": [
+      "ي",
+      "ر",
+      "ا",
+      "ق",
+      "م",
+      "ت"
+    ],
+    "root": {
+      "letters": "قدر",
+      "display": "ق د ر",
+      "translit": "q-d-r",
+      "meaning": "The core idea is having power to set the right measure for things. From that come words for being able, deciding what happens, and fixing value and timing.",
+      "occurrences": 132,
+      "lemmaCount": 11
+    },
+    "words": [
+      {
+        "w": "ادم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "آدَم",
+            "gloss": "adam",
+            "type": "proper noun",
+            "root": "أدم",
+            "count": 25,
+            "ref": "2:31",
+            "pos": 2,
+            "alt": [
+              "children of adam",
+              "adam disobeyed"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "امد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَمَدَّ",
+            "gloss": "extend",
+            "type": "verb",
+            "root": "مدد",
+            "count": 10,
+            "ref": "17:20",
+            "pos": 2,
+            "form": 4
+          },
+          {
+            "lemma": "أَمَد",
+            "gloss": "distance",
+            "type": "noun",
+            "root": "أمد",
+            "count": 4,
+            "ref": "3:30",
+            "pos": 19,
+            "alt": [
+              "time",
+              "term"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ايد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "أَيَّدَ",
+            "gloss": "supports",
+            "type": "verb",
+            "root": "أيد",
+            "count": 9,
+            "ref": "3:13",
+            "pos": 20,
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "دار",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دار",
+            "gloss": "home",
+            "type": "noun",
+            "root": "دور",
+            "count": 48,
+            "ref": "6:127",
+            "pos": 2,
+            "alt": [
+              "house"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "دام",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دامُ",
+            "gloss": "as long as remain",
+            "type": "verb",
+            "root": "دوم",
+            "count": 7,
+            "ref": "11:107",
+            "pos": 4,
+            "alt": [
+              "as long as remains"
+            ],
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "دمر",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "دَمَّرَ",
+            "gloss": "destroying",
+            "type": "verb",
+            "root": "دمر",
+            "count": 8,
+            "ref": "46:25",
+            "pos": 1,
+            "alt": [
+              "allah destroyed"
+            ],
+            "form": 2
+          }
+        ]
+      },
+      {
+        "w": "راد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "رادّ",
+            "gloss": "repeller",
+            "type": "active participle",
+            "root": "ردد",
+            "count": 3,
+            "ref": "10:107",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "قدر",
+        "family": true,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "قَدَرَ",
+            "gloss": "predestined",
+            "type": "verb",
+            "root": "قدر",
+            "count": 25,
+            "ref": "16:75",
+            "pos": 7,
+            "alt": [
+              "has power",
+              "would decree"
+            ],
+            "form": 1
+          },
+          {
+            "lemma": "قَدَّرَ",
+            "gloss": "plotted",
+            "type": "verb",
+            "root": "قدر",
+            "count": 16,
+            "ref": "73:20",
+            "pos": 17,
+            "alt": [
+              "determines",
+              "measured"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "قَدَر",
+            "gloss": "decreed",
+            "type": "noun",
+            "root": "قدر",
+            "count": 11,
+            "ref": "20:40",
+            "pos": 33,
+            "alt": [
+              "decree",
+              "period"
+            ]
+          },
+          {
+            "lemma": "قَدْر",
+            "gloss": "measure",
+            "type": "noun",
+            "root": "قدر",
+            "count": 7,
+            "ref": "65:3",
+            "pos": 21
+          }
+        ]
+      },
+      {
+        "w": "قدم",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "قَدَّمَ",
+            "gloss": "sent forth",
+            "type": "verb",
+            "root": "قدم",
+            "count": 27,
+            "ref": "2:95",
+            "pos": 5,
+            "alt": [
+              "have sent forth",
+              "has sent forth"
+            ],
+            "form": 2
+          },
+          {
+            "lemma": "قَدَم",
+            "gloss": "respectable position",
+            "type": "noun",
+            "root": "قدم",
+            "count": 8,
+            "ref": "10:2",
+            "pos": 17,
+            "alt": [
+              "foot"
+            ]
+          },
+          {
+            "lemma": "قَدِمْ",
+            "gloss": "precede",
+            "type": "verb",
+            "root": "قدم",
+            "count": 2,
+            "ref": "11:98",
+            "pos": 1,
+            "form": 1
+          }
+        ]
+      },
+      {
+        "w": "مرد",
+        "family": false,
+        "points": 1,
+        "senses": [
+          {
+            "lemma": "مَرَدّ",
+            "gloss": "return",
+            "type": "noun",
+            "root": "ردد",
+            "count": 6,
+            "ref": "13:11",
+            "pos": 28,
+            "alt": [
+              "turning away",
+              "averted"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "ادري",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَدْرَى",
+            "gloss": "can make you know",
+            "type": "verb",
+            "root": "دري",
+            "count": 17,
+            "ref": "10:16",
+            "pos": 9,
+            "alt": [
+              "make you know",
+              "have made it known to"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اراد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَرادَ",
+            "gloss": "intends",
+            "type": "verb",
+            "root": "رود",
+            "count": 139,
+            "ref": "2:26",
+            "pos": 25,
+            "alt": [
+              "desires",
+              "intend"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "ارتد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "ارْتَدَّ",
+            "gloss": "turns away",
+            "type": "verb",
+            "root": "ردد",
+            "count": 8,
+            "ref": "2:217",
+            "pos": 39,
+            "alt": [
+              "turns back",
+              "returning"
+            ],
+            "form": 8
+          }
+        ]
+      },
+      {
+        "w": "اردي",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَرْدَى",
+            "gloss": "may ruin",
+            "type": "verb",
+            "root": "ردي",
+            "count": 3,
+            "ref": "6:137",
+            "pos": 9,
+            "alt": [
+              "ruined",
+              "has ruined"
+            ],
+            "form": 4
+          }
+        ]
+      },
+      {
+        "w": "اييد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "أَيْيد",
+            "gloss": "possessor of strength",
+            "type": "noun",
+            "root": "أيد",
+            "count": 2,
+            "ref": "38:17",
+            "pos": 9,
+            "alt": [
+              "strength"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "تقدم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "تَقَدَّمَ",
+            "gloss": "preceded",
+            "type": "verb",
+            "root": "قدم",
+            "count": 2,
+            "ref": "48:2",
+            "pos": 5,
+            "alt": [
+              "proceed"
+            ],
+            "form": 5
+          }
+        ]
+      },
+      {
+        "w": "دايم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "دائِم",
+            "gloss": "everlasting",
+            "type": "active participle",
+            "root": "دوم",
+            "count": 2,
+            "ref": "13:35",
+            "pos": 11,
+            "alt": [
+              "constant"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قادر",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "قادِر",
+            "gloss": "able",
+            "type": "active participle",
+            "root": "قدر",
+            "count": 14,
+            "ref": "6:37",
+            "pos": 11,
+            "alt": [
+              "have the power"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "قدير",
+        "family": true,
+        "points": 4,
+        "senses": [
+          {
+            "lemma": "قَدِير",
+            "gloss": "all-powerful",
+            "type": "noun",
+            "root": "قدر",
+            "count": 45,
+            "ref": "2:20",
+            "pos": 25
+          }
+        ]
+      },
+      {
+        "w": "قديم",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "قَدِيم",
+            "gloss": "ancient",
+            "type": "adjective",
+            "root": "قدم",
+            "count": 3,
+            "ref": "46:11",
+            "pos": 19
+          }
+        ]
+      },
+      {
+        "w": "مريد",
+        "family": false,
+        "points": 2,
+        "senses": [
+          {
+            "lemma": "مَرِيد",
+            "gloss": "rebellious",
+            "type": "adjective",
+            "root": "مرد",
+            "count": 2,
+            "ref": "4:117",
+            "pos": 11
+          }
+        ]
+      },
+      {
+        "w": "تدمير",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "تَدْمِير",
+            "gloss": "destruction",
+            "type": "verbal noun",
+            "root": "دمر",
+            "count": 2,
+            "ref": "17:16",
+            "pos": 14
+          }
+        ]
+      },
+      {
+        "w": "تقدير",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "تَقْدِير",
+            "gloss": "decree",
+            "type": "verbal noun",
+            "root": "قدر",
+            "count": 5,
+            "ref": "6:96",
+            "pos": 10,
+            "alt": [
+              "ordaining",
+              "determination"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مدرار",
+        "family": false,
+        "points": 3,
+        "senses": [
+          {
+            "lemma": "مِدْرار",
+            "gloss": "abundance",
+            "type": "noun",
+            "root": "درر",
+            "count": 3,
+            "ref": "6:6",
+            "pos": 19,
+            "alt": [
+              "showering abundantly"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مقتدر",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مُقْتَدِر",
+            "gloss": "powerful one",
+            "type": "active participle",
+            "root": "قدر",
+            "count": 4,
+            "ref": "18:45",
+            "pos": 23,
+            "alt": [
+              "all able",
+              "have full power"
+            ]
+          }
+        ]
+      },
+      {
+        "w": "مقدار",
+        "family": true,
+        "points": 5,
+        "senses": [
+          {
+            "lemma": "مِقْدار",
+            "gloss": "due proportion",
+            "type": "noun",
+            "root": "قدر",
+            "count": 3,
+            "ref": "13:8",
+            "pos": 15,
+            "alt": [
+              "measure of which is",
+              "measure"
+            ]
+          }
+        ]
+      }
+    ],
+    "otherFamily": [
+      {
+        "lemma": "مَقْدُور",
+        "gloss": "destined",
+        "type": "passive participle",
+        "root": "قدر",
+        "count": 1,
+        "ref": "33:38",
+        "pos": 22
+      },
+      {
+        "lemma": "قُدُور",
+        "gloss": "cooking-pots",
+        "type": "noun",
+        "root": "قدر",
+        "count": 1,
+        "ref": "34:13",
+        "pos": 10
+      }
+    ],
+    "maxScore": 59,
+    "featuredRoot": "قدر"
+  }
+}

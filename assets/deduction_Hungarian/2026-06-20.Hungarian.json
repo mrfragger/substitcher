@@ -1,0 +1,61 @@
+{
+  "title": "A kertből kitaszított",
+  "intro": "Egy titokzatos lény lakott egykor a teremtés legmagasabb rangjaiban, közelebb az istenihez, mint azt sokan felfognák. Mégis, büszkeség verte gyökerét, és egyetlen dacoló cselekedet megváltoztatta a létezés menetét. Most ez a lény esküdt ellenségként bolyong, suttogva és terveket szőve, amíg el nem érkezik az ígért nap. Vajon fel tudod fedezni ennek a bukottnak a kilétét?",
+  "clues": [
+    "Egykor azok közé tartoztam, akik a legközelebb álltak az isteni jelenléthez, a teremtés nagy része fölé emelkedve.",
+    "Perzselő elemből teremtettem, nem földből vagy agyagból.",
+    "Amikor arra parancsoltak, hogy hajoljak meg egy új teremtés előtt, megtagadtam – a saját felsőbbrendűségemnek hitt érzéseim vezéreltek.",
+    "Kiűztek és megátkoztak, de végül haladékot kaptam egy ismert, meghatározott időig.",
+    "Megfogadtam, hogy annyi embert fogok félrevezetni, amennyit csak tudok, minden irányból közelítve Ádám utódait.",
+    "Az egész emberiség nyílt, bevallott ellensége vagyok, örökké ármánykodom és suttogom a kitűzött végéig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Iblisz",
+        "Harut",
+        "Szamiri",
+        "Ilja próféta",
+        "Abu Laháb"
+      ],
+      "answer": "Iblisz"
+    },
+    "trial": {
+      "label": "Próba / Esemény",
+      "options": [
+        "Nem hajlandó leborulni Ádám előtt",
+        "Aranyborjút építenek, hogy az emberek imádhassák",
+        "Varázslásra tanítja Babilon népét",
+        "A tenger kettéhasítása egy bottal",
+        "Egy pillanat alatt elfoglalva Sába királynő trónját"
+      ],
+      "answer": "Nem hajlandó leborulni Ádám előtt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az Édenkert",
+        "A Túr-hegy",
+        "A Rass kútja",
+        "A fáraó palotája",
+        "Az alvók barlangja"
+      ],
+      "answer": "Az Édenkert"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Haladékot kapott az ítélet napjáig",
+        "Tengerbe fulladva egy sereggel",
+        "Élve eltemették egy összeomló palota alatt",
+        "Majommá vagy majommá változott",
+        "Magasabb rangra emelték"
+      ],
+      "answer": "Haladékot kapott az ítélet napjáig"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

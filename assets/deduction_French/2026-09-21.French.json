@@ -1,0 +1,61 @@
+{
+  "title": "Le cri des profondeurs",
+  "intro": "Un serviteur du Tout-Miséricordieux, las d'une nation obstinée, partit avant même d'en avoir reçu l'autorisation. Il se retrouva dans un lieu jamais foulé par aucun être humain, où l'appel du Divin résonne étrangement à travers les ténèbres. Émergeant affaibli mais transformé, son âme devint une leçon intemporelle de patience, de repentir sincère et de la miséricorde infinie du Créateur. Saurez-vous percer ce mystère ?",
+  "clues": [
+    "J'ai été envoyé comme messager auprès de mon peuple, mais leur incrédulité a dépassé toutes les limites et ils ont refusé d'écouter.",
+    "Je me suis mis en colère face à leur rejet et j'ai fui mon peuple avant que l'ordre d'Allah ne soit donné.",
+    "J'ai embarqué sur un navire surchargé, et nous avons tiré au sort pour déterminer qui serait jeté par-dessus bord.",
+    "J'ai été jeté dans la mer déchaînée et avalé par un grand poisson.",
+    "Prisonnière de trois couches d'obscurité — le ventre, les profondeurs marines et la terre en dessous —, j'ai imploré mon Seigneur dans un repentir sincère.",
+    "Je suis sorti du ventre du poisson pour rejoindre la rive, faible et épuisé, et une plante grimpante m'a recouvert. Mon peuple, cent mille hommes ou plus, a enfin cru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Yunus",
+        "Prophète Ayyub",
+        "Prophète Yusuf",
+        "Le prophète Moïse",
+        "Prophète Sulaiman"
+      ],
+      "answer": "Prophète Yunus"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Avalé par un gros poisson",
+        "Jeté dans un feu déchaîné",
+        "Piégé au fond d'un puits",
+        "Submergés par une grande inondation",
+        "Emprisonné injustement par un roi"
+      ],
+      "answer": "Avalé par un gros poisson"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le ventre d'un gros poisson",
+        "La vallée sacrée près de la Kaaba",
+        "Une arche reposant sur une montagne",
+        "Un bâton qui se transforma en serpent",
+        "Un trône d'une grandeur inégalée"
+      ],
+      "answer": "Le ventre d'un gros poisson"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Son peuple, cent mille personnes ou plus, croyait",
+        "Ressuscité vivant jusqu'aux cieux",
+        "Il devint le souverain d'un royaume sans égal",
+        "Détruit par un cri perçant venu du ciel",
+        "Renversé par un séisme dévastateur"
+      ],
+      "answer": "Son peuple, cent mille personnes ou plus, croyait"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

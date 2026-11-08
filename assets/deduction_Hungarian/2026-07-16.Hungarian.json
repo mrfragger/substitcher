@@ -1,0 +1,61 @@
+{
+  "title": "A hang, amely megkérdőjelezte egy bálvány uralmát",
+  "intro": "A Mindenható hírnökei között volt egy rendíthetetlen szolga, aki egy makacs nemzet között emelkedett fel, hogy elvigye az igazságot. Népük egy kitalált istenséget fogadott el, elfordulva minden létező Teremtőjétől. Rendíthetetlen elszántsággal ez a személy visszahívta őket – de az üzenetet tagadás és elutasítás fogadta. Lépj végig a nyomokon, hogy megtudd, ki volt ez az odaadó szolga.",
+  "clues": [
+    "Hírvivőként küldtek egy makacs néphez, amely messzire letért az egyenes útról.",
+    "Azért jöttem, hogy emlékeztessem nemzetemet arra, aki mindent teremtett, ami létezik – a legjobb teremtőre.",
+    "Népem egy hamis bálványhoz fordult, amelyet éjjel-nappal imádtak és imádkoztak.",
+    "Merészen szembeszálltam velük, megkérdezve, miért imádnának egy kitalált istenséget, és miért hagynák el igazi Urukat.",
+    "Megtagadtak engem, nem voltak hajlandók hallgatni rám, és ragaszkodtak hazugságaikhoz – mégis megőriztem engem az Úr.",
+    "Én vagyok Ilyas – és béke adatott nekem, és a Legirgalmasabb hívő szolgái közé soroltak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ilja próféta",
+        "Idrisz próféta",
+        "Alyasa próféta",
+        "Dhul-Kifl próféta",
+        "Nuh próféta"
+      ],
+      "answer": "Ilja próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy nép elhívása Ba'al imádatától",
+        "Szembenézés egy zsarnokkal, aki istennek vallotta magát",
+        "Figyelmezteti az embereket a közelgő árvízről",
+        "Nagy, lángoló tűzbe vetve",
+        "Kivonulást vezetve a szolgaság földjéről"
+      ],
+      "answer": "Egy nép elhívása Ba'al imádatától"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Ba'al nevű bálvány",
+        "Egy hatalmas bárka, masszív fából építve",
+        "Egy bot, amely kettévágta a hatalmas tengert",
+        "Egy vérrel szennyezett szent ruhadarab",
+        "Egy égő csipkebokor a szent hegyen"
+      ],
+      "answer": "A Ba'al nevű bálvány"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Békét kapott, és Allah kiválasztott szolgái közé tartozott",
+        "A Paradicsomba vezettek, miközben minden mást elpusztítottak",
+        "Kimentették egy nagy tűzből, ami hűvösre és biztonságosra fordult",
+        "Uralmat kapott a dzsinnek, az emberiség és a szél felett",
+        "A test örök jelként megőrződött korokon át"
+      ],
+      "answer": "Békét kapott, és Allah kiválasztott szolgái közé tartozott"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

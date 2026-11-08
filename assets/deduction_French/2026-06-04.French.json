@@ -1,0 +1,61 @@
+{
+  "title": "Le signe parmi les pierres",
+  "intro": "Dans un pays où les montagnes étaient taillées pour abriter des habitations, un messager arriva porteur d'un signe miraculeux d'Allah. Le peuple exigea une preuve et reçut une créature taillée dans la roche. Mais leur arrogance les poussa à ignorer l'avertissement, scellant ainsi leur destin.",
+  "clues": [
+    "J'ai été envoyé auprès d'un peuple qui vivait dans des habitations creusées dans la montagne.",
+    "Ils m'ont mis au défi d'apporter un panneau, alors j'ai sorti un chameau d'une pierre.",
+    "Je leur ai ordonné de laisser le chameau boire à sa guise et de ne pas lui faire de mal.",
+    "Ils ont désobéi et ont mutilé le chameau, bravant mon avertissement.",
+    "J'ai annoncé que la punition interviendrait après trois jours.",
+    "Au matin, une violente explosion les a anéantis, mais moi et mes compagnons avons été sauvés."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Salih",
+        "Prophète Hud",
+        "Le prophète Lout",
+        "Prophète Shu'ayb",
+        "Le prophète Ibrahim"
+      ],
+      "answer": "Prophète Salih"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Demande d'une chamelle femelle provenant d'un rocher",
+        "Demande pour un veau d'or",
+        "Exigez une table dressée par le ciel",
+        "Demande d'inondation",
+        "Demande pour qu'un bâton se transforme en serpent"
+      ],
+      "answer": "Demande d'une chamelle femelle provenant d'un rocher"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La chamelle et son petit",
+        "L'arche de Noé",
+        "Le bâton de Moïse",
+        "Le veau d'or",
+        "Le Feu d'Ibrahim"
+      ],
+      "answer": "La chamelle et son petit"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Détruit par une puissante explosion",
+        "Noyés dans les inondations",
+        "Englouti par la terre",
+        "Transformés en singes",
+        "Détruit par un vent violent"
+      ],
+      "answer": "Détruit par une puissante explosion"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

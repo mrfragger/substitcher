@@ -1,0 +1,61 @@
+{
+  "title": "Konspiratër bi muur",
+  "intro": "Danga fekk sa bopp ci kanamu nit ku am doole ci jamonoy feeñu. Nit kooku ñu ngi ko xamoon ci xelam, alal ak rang ci seen biir askan. Bi màndarga yu leer yi ñewee, ñu xàmmee taar bi waaye ñu tànn déggal seen bopp moo gën déggal seen bopp. Lan moo xiir ruuh gii di xalaat ci lëndëm, te lan moo mujjee nekk seen ëlëg?",
+  "clues": [
+    "Barkeel nañu ma ci alal ak kàttan gu bari, moo tax sama kàddu diis ci ndaje yi.",
+    "Bu ñu jàngee kàdduy boroom bi, mënu ma weddi seen wax ju neex, waaye sama réy-réy nanguwul ma déggal.",
+    "Ma dajale samay xalaatkat, ma génne sama bopp ngir xalaat nu may def ba yàq mesaas bi.",
+    "Ginaaw bima xalaatee bu baax, ma wax ni amul lenn ludul 'luxus bu fi yàgg nekk' ngir dàq nit ñi.",
+    "Wax ji daal di may wax ci sama bopp: 'Bàyyileen ma ak ki ma sàkk.' Dañu ma tànn ndax sama pexe.",
+    "Ci diir bu gàtt, safara siñu ma àrtuwoon dina jàpp sama bopp, te duma mëna rëcci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Al walid ibn al mugiira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqba ibnu abi muayt",
+        "Nadr ibn al haris"
+      ],
+      "answer": "Al walid ibn al mugiira"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "ñu boole seen doole ngir ray yonent bi",
+        "Dafa jiite ab boycott ci jullit yi",
+        "Dajale ab konsilu ngir wax Al Quran luxus",
+        "ñu defar pexe ngir dàq Yonent bi ci Makkah",
+        "Bañ séddoo alal ji ak mbokk yi"
+      ],
+      "answer": "Dajale ab konsilu ngir wax Al Quran luxus"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Feeñu bi",
+        "Konsilu bi",
+        "Devoir",
+        "Alal ji",
+        "Bik bi"
+      ],
+      "answer": "Devoir"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Mu tuub daal di dugg ci Islam .",
+        "Dafa dem Abyssinie",
+        "Feebar bu bon daal di koy ray",
+        "Moo dee ci xare ak jullit yi .",
+        "Dañu ko daaneel ci safara"
+      ],
+      "answer": "Dañu ko daaneel ci safara"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

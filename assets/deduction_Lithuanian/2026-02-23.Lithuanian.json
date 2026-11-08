@@ -1,0 +1,61 @@
+{
+  "title": "Paslėpto įsitikinimo balsas",
+  "intro": "Tironiško dvaro širdyje, kur netikėjimas buvo pagrindinis šalies įstatymas, vieniša siela žengė tikėjimo ir baimės lynu. Šis asmuo, esantis arti valdžios centro, klausėsi, kaip pranašo žinia buvo sutikta su panieka ir grasinimais. Atėjo tiesos akimirka, privertusi šį asmenį rinktis tarp tylaus saugumo ir pavojingos tiesos sakymo. Ar galite atskleisti šio drąsaus gynėjo tapatybę?",
+  "clues": [
+    "Gyvenau tirono namuose, pats mačiau aroganciją, kuri atmetė dieviškus ženklus.",
+    "Savo tikėjimą laikiau paslaptyje, tarsi paslėptą lobį stabmeldystės rūmuose.",
+    "Girdėjau, kaip vadas, kuriam tarnavau, planavo nužudyti Alacho pasiuntinį, vardu Musa.",
+    "Aš suabejojau jų logika, primindamas jiems Nuho, Ado ir Tamudo žmonių likimus.",
+    "Aš uždaviau savo žmonėms kritinį klausimą: „Jei jis melagis, jis meluoja; bet jei jis yra teisus, kai kurie jo pažadai jus ištiks.“",
+    "Mano istorija pasakojama kaip tikėjimo pavyzdys suroje, vadinamoje „Atleidėjas“, kurioje perspėjau savo žmones apie galingųjų klastą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tikintis iš Fir'awn šeimos",
+        "Hamanas",
+        "Fir'awn magai",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Tikintis iš Fir'awn šeimos"
+    },
+    "trial": {
+      "label": "Koks buvo mano išbandymas?",
+      "options": [
+        "Pranašo Musos gynimas tirono teisme",
+        "Statyti aukštą bokštą, kad pasiektų dangų",
+        "Įmestas į liepsnojančią ugnį",
+        "Praryti milžiniškos žuvies",
+        "Prarasti visus turtus ir sveikatą"
+      ],
+      "answer": "Pranašo Musos gynimas tirono teisme"
+    },
+    "location": {
+      "label": "Kokia buvo mano argumento tema?",
+      "options": [
+        "Pranašo žinios atmetimo pasekmė",
+        "Reikalavimas ženklo nuo švento medžio",
+        "Veršiuko sukūrimas iš išlydytų papuošalų",
+        "Kupranugario iš uolos stebuklas",
+        "Valdovo sapnų aiškinimas"
+      ],
+      "answer": "Pranašo žinios atmetimo pasekmė"
+    },
+    "outcome": {
+      "label": "Koks buvo rezultatas?",
+      "options": [
+        "Alachas išgelbėjo šį asmenį nuo jų piktų kėslų",
+        "Visas teismas iš karto priėmė islamą",
+        "Tironas atgailavo skendimo akimirką",
+        "Tironą prarijo žemė",
+        "Asmuo buvo ištremtas į tolimą šalį"
+      ],
+      "answer": "Alachas išgelbėjo šį asmenį nuo jų piktų kėslų"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

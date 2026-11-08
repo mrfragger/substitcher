@@ -1,0 +1,61 @@
+{
+  "title": "Mwombaji wa Patakatifu",
+  "intro": "Katika saa tulivu za usiku, roho iliyojitolea ilimwita Mwenye Rehema Zaidi ndani ya kuta takatifu za mahali patakatifu. Miaka ya imani isiyoyumba na uvumilivu ilikuwa karibu kuzawadiwa kwa muujiza ambao ungeleta furaha na urithi wa unabii.",
+  "clues": [
+    "Nilitumia mchana na usiku wangu katika ibada ndani ya patakatifu patakatifu, nikimwomba Mola wangu kila mara.",
+    "Nilikuwa mzee, na mke wangu alikuwa tasa, lakini sikupoteza tumaini katika rehema za Mwenyezi Mungu.",
+    "Nilipewa mwana, jina lake Yahya, ambaye alikua nabii na mwangaza wa haki.",
+    "Mimi mwenyewe nilikuwa nabii, niliyetumwa kuwaongoza Wana wa Israeli.",
+    "Nilikuwa mzao wa Nabii Harun na nilihudumu kama kuhani Hekaluni.",
+    "Nilikabidhiwa jukumu la kumtunza Maryam, mama yake Isa, na nikashuhudia miujiza yake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Zakaria",
+        "Nabii Yahya",
+        "Nabii Ilyas",
+        "Nabii Ishaq",
+        "Nabii Ya'qub"
+      ],
+      "answer": "Nabii Zakaria"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alizaa mwana katika uzee",
+        "Kuokolewa kutoka kwa moto mkali",
+        "Aliokolewa kutoka tumboni mwa samaki",
+        "Alinusurika mafuriko makubwa",
+        "Kuponywa ugonjwa mbaya"
+      ],
+      "answer": "Alizaa mwana katika uzee"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mihrab (kituo cha maombi)",
+        "Kaaba",
+        "Kichaka Kinachowaka Moto",
+        "Sanduku la Agano",
+        "Pango la Walala Saba"
+      ],
+      "answer": "Mihrab (kituo cha maombi)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alijaliwa mwana mwadilifu ambaye alikua nabii",
+        "Imeharibiwa na dhoruba kali",
+        "Kuzama baharini",
+        "Imeokolewa kutokana na kuchomwa moto",
+        "Walirudi kwa watu wao baada ya kuokolewa kutoka kwa samaki"
+      ],
+      "answer": "Alijaliwa mwana mwadilifu ambaye alikua nabii"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

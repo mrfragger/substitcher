@@ -1,0 +1,61 @@
+{
+  "title": "a csillagfényes bizonyosságkeresés",
+  "intro": "Képzeld el, hogy egy hatalmas éjszakai égbolt alatt állsz, figyeled a felemelkedő, majd elhalványuló ragyogó fényeket, miközben keresed azt, ami igazán tiszteletet érdemel. Körülötted néma faragott képek kapnak dicséretet és felajánlásokat, mégis a tiszta értelem megkérdőjelezi erejüket. Egy félelem nélküli hang készül megkérdőjelezni az öröklött hagyományt, és az ég és a föld Teremtőjére mutatni.",
+  "clues": [
+    "Felnéztem a csillagokra, a Holdra és a Napra, és arra jutottam, hogy ezek nem lehetnek az Uram, mert lenyugszanak és eltűnnek.",
+    "Nyíltan megtagadtam, hogy mit imádott a népem Allahon kívül, és arra szólítottam fel őket, hogy egyedül a Teremtőt imádják.",
+    "Egy hencegő uralkodóval vitatkoztam, aki azt állította, hogy életet és halált ad, és azzal válaszoltam, hogy Allah azt mondta, keletről hozza a napot.",
+    "Leromboltam a bálványokat, és összetörtem őket, csak a legnagyobbakat hagytam meg közülük, hogy a nép visszatérhessen hozzájuk.",
+    "A népem megragadott és elítélt, azt mondták, építsek egy épületet, és vessek a lángoló tűzbe.",
+    "Akkor üdvözültem, amikor Allah megparancsolta, hogy a tűz legyen számomra hűvös és biztonságos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ibrahim (Ábrahám) próféta",
+        "Jahja (János) próféta",
+        "Al-Jásza (Elizeus) próféta",
+        "A szamiri",
+        "Namrud (Nimród)"
+      ],
+      "answer": "Ibrahim (Ábrahám) próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Szembeszállt a bálványimádással és vitázott az égitestek jelentéséről",
+        "Egy nagy hal nyelte el, miután haragjában eltávozott",
+        "Követőket vezetett át egy Allah által kettéválasztott tengeren",
+        "Élve feltámadt a mennyekbe anélkül, hogy megízlelte volna a halált",
+        "Sok éven át társaival aludt egy barlangban"
+      ],
+      "answer": "Szembeszállt a bálványimádással és vitázott az égitestek jelentéséről"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy lángoló tűz, amit Allah hűvössé és biztonságossá tett",
+        "A bárka, amely átsegítette a hívőket az özönvízen",
+        "A kígyóvá változott bot",
+        "Az asztal a mennyből terült",
+        "A jelként küldött nőstény teve"
+      ],
+      "answer": "Egy lángoló tűz, amit Allah hűvössé és biztonságossá tett"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Tűztől védve és igaz leszármazottakat adományozva",
+        "Tagadókkal együtt fulladt el egy nagy árvízben",
+        "Átalakult a szombat megszegése miatt",
+        "Agyagköveket hordozó madarak pusztították el",
+        "A föld kincsekkel nyelte el"
+      ],
+      "answer": "Tűztől védve és igaz leszármazottakat adományozva"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Az uralkodó nagy behódolása",
+  "intro": "Egy ősi csodák és mélyreható felismerések földjén találod magad. Egy hatalmas uralkodó, váratlan meghívással szembesülve, egy olyan útra indul, amely megváltoztatja sorsát és népe hitét. Vajon sikerül felfedned ennek a fenséges alaknak a kilétét?",
+  "clues": [
+    "Egy virágzó királyság felett uralkodtam, amelyet hatalmas vagyon és egy pompás trón díszített.",
+    "Népemmel egy égitestet imádtunk, azt hittük, hogy az a mi urunk, bár kétségek dédelgettek a szívemben.",
+    "Egy különös hírvivő, egy madár, levelet hozott nekem, amelyben arra hívott engem és népemet, hogy hódoljunk meg az Egy Istennek.",
+    "Tanácsadóimmal, akik hatalmas erővel rendelkeztek, konzultáltam arról, hogyan reagáljak erre a példa nélküli üzenetre.",
+    "Úgy döntöttem, hogy értékes ajándékot küldök annak, aki a levelet küldte, abban a reményben, hogy felmérhetem a hatalmát és a szándékait.",
+    "Érkezésemkor egy üvegpadlós palota ámulatba ejtett, amely vízmedencéhez hasonlított, és ekkor fejeztem ki alázatosságomat minden teremtmény Ura előtt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "fáraó",
+        "Sába királynője",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Juszuf próféta"
+      ],
+      "answer": "Sába királynője"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A tenger kettéhasadása",
+        "A nagy árvíz",
+        "Az út Szulejmán prófétával való találkozáshoz",
+        "Lut népének pusztulása",
+        "Ibrahim próféta elégetése"
+      ],
+      "answer": "Az út Szulejmán prófétával való találkozáshoz"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A trón",
+        "A hegy",
+        "A tűz"
+      ],
+      "answer": "A trón"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Prófétává vált",
+        "Allah pusztította el",
+        "Átvette az iszlámot",
+        "Háborúba vezette népét",
+        "Hatalmas templomot épített"
+      ],
+      "answer": "Átvette az iszlámot"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "I-Trust ephathiswe uMlambo",
+  "intro": "Umphefumlo wawujongene nomyalelo ongenakwenzeka, apho ubomi bosana olusandul’ ukuzalwa babuxhomekeke esikalini. Bekhokelwa yimpembelelo kaThixo, umyalelo onzima wawuthotyelwa, kwaye imfihlo exabisekileyo yabekwa emsinga, kodwa yabuyiselwa ngendlela engalindelekanga.",
+  "clues": [
+    "Ndandiphila phantsi komthunzi womlawuli olawula ukubulawa kwamakhwenkwe asandul’ ukuzalwa.",
+    "Umoya oyingcwele wandifikela, wandiyalela ukuba ndithathe inyathelo elibuhlungu nelibuhlungu.",
+    "Ndabeka usana lwam oluxabisekileyo ebhokisini ndaza ndalubeka phezu komlambo oqukuqelayo.",
+    "Intliziyo yam yaba yintlango, ndaza ndaphantse ndayityhila imfihlo, kodwa uAllah womeleza ukuzimisela kwam.",
+    "Ndithumele umntu ukuba alandele uhambo lomntwana ezantsi komsinga njengoko umsinga wawuthwala isifuba.",
+    "Umntwana wafunyanwa yindlu yaloo mlawuli ukhohlakeleyo, ekugqibeleni, ndadibana nomntwana wam ndaba ngumondlikazi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umama woMprofeti uMusa",
+        "UAsia (Umfazi kaFaro)",
+        "UMaryam (uMama woMprofeti uIsa)",
+        "Umfazi woMprofeti uLut",
+        "Umama woMprofeti uYahya (umfazi kaZakariya)"
+      ],
+      "answer": "Umama woMprofeti uMusa"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wabeka umntwana wakhe ebhokisini waza wamfaka emlanjeni",
+        "Wafihla umntwana wakhe emqolombeni",
+        "Washiya umntwana wakhe entlango",
+        "Waphosa umntwana wakhe emlilweni",
+        "Ushiye umntwana wakhe emnyango we-mosque"
+      ],
+      "answer": "Wabeka umntwana wakhe ebhokisini waza wamfaka emlanjeni"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ibhokisi ebekwe phezu komlambo",
+        "Isihlahla esitshayo",
+        "Intonga eyajika yaba yinyoka",
+        "Itafile ebekwe ukutya okuvela ezulwini",
+        "Inkamela eyimazi ithunyelwe njengomqondiso"
+      ],
+      "answer": "Ibhokisi ebekwe phezu komlambo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Wadibana kwakhona nomntwana wakhe waza wamncancisa",
+        "Akazange aphinde ambone umntwana wakhe",
+        "Wabulawa ngumlawuli okhohlakeleyo",
+        "Waba yikumkanikazi eYiputa",
+        "Wafudukela kwelinye ilizwe waza wahlala elubhacweni"
+      ],
+      "answer": "Wadibana kwakhona nomntwana wakhe waza wamncancisa"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

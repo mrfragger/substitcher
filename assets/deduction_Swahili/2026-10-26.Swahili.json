@@ -1,0 +1,61 @@
+{
+  "title": "Mnong'ono Upeponi",
+  "intro": "Hebu fikiria ulimwengu ambapo visivyoonekana na vinavyoonekana vimeungana, na unasimama mbele ya mtu aliye katikati ya ufalme usio na mwingine wowote. Nafsi hii ina maarifa yasiyoweza kufikiwa na watu wengi, yenye nguvu zinazoongoza ambazo wengine wangeweza kufikiria tu. Hata hivyo, hata mtu mwenye nguvu zaidi anaweza kunyenyekezwa na kiumbe mdogo, na ukweli unaweza kubaki umefichwa hadi wakati uliowekwa. Ni nani mtu huyu ambaye urithi wake unarudiwa kwa karne nyingi?",
+  "clues": [
+    "Nilipewa ufalme ambao hakuna mtu baada yangu ambaye angekuwa nao.",
+    "Nilirithi maarifa na hekima kutoka kwa mzazi mpendwa.",
+    "Upepo ulikuwa chini ya amri yangu, ukisafiri kwa amri yangu popote nilipotaka.",
+    "Niliweza kuelewa usemi wa ndege, nao walihudumu katika jeshi langu.",
+    "Nilipokea habari kutoka kwa ndege mdogo kuhusu malkia aliyeabudu jua.",
+    "Kifo changu kilibaki kimefichwa hadi kiumbe wa ardhini alipoila fimbo yangu, na hapo ndipo majini walipogundua kuwa hawajui yasiyoonekana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Sulayman (Sulemani)",
+        "Nabii Dawud (Daudi)",
+        "Nabii Musa (Musa)",
+        "Nabii Isa (Yesu)",
+        "Nabii Nuh (Nuhu)"
+      ],
+      "answer": "Nabii Sulayman (Sulemani)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Ziara ya Malkia wa Sheba",
+        "Kutupwa motoni",
+        "Kugawanya bahari",
+        "Kujenga safina",
+        "Kumezwa na nyangumi"
+      ],
+      "answer": "Ziara ya Malkia wa Sheba"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Fimbo iliyoliwa na kiumbe wa dunia",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Ngamia jike",
+        "Safina",
+        "Nyangumi"
+      ],
+      "answer": "Fimbo iliyoliwa na kiumbe wa dunia"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kifo chake kilifichwa kwa majini hadi fimbo yake ilipoliwa",
+        "Alifufuliwa mbinguni akiwa hai",
+        "Aliokolewa kutoka kwenye moto kwa amri ya Mwenyezi Mungu",
+        "Alipewa Torati",
+        "Aliokolewa kutoka kwa nyangumi"
+      ],
+      "answer": "Kifo chake kilifichwa kwa majini hadi fimbo yake ilipoliwa"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

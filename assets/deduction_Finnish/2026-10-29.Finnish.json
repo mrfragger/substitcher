@@ -1,0 +1,61 @@
+{
+  "title": "Pieni varoitus ennen marssijoukkoa",
+  "intro": "Astu laaksoon, jossa mahtava hallitsija ja valtava armeija lähestyvät, ja kuvittele pieni matkaaja antamassa varoituksen, joka pelastaa kokonaisen yhteisön. Kun uhanalainen yhteisö pääsee suojaan, vaara menee ohi. Seuraa vihjeitä tunnistaaksesi varoituksen takana olevan huomiotta jääneen hahmon.",
+  "clues": [
+    "Kuulun hallitsijan valtakuntaan liittyvien pienten olentojen joukkoon.",
+    "Yhteisöni asuu laakson sisällä olevissa asunnoissa, joissa jokainen meistä voi soittaa toisilleen.",
+    "Kohtaamme uhan tuolta hallitsijalta ja hallitsijan kanssa matkustavilta armeijoilta.",
+    "Minä kutsun yhteisöäni astumaan koteihinsa ja varoitan meitä tietämättämme tulemasta muserretuksi.",
+    "Hallitsija on Sulayman, ja lajini on yksi hänen alaisuudessaan olennoista.",
+    "Olen tuon laakson muurahainen; varoitukseni jälkeen astuimme asuntoihimme ja pakenimme murskaukselta, joka muuten olisi yllättänyt meidät tietämättämme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Laakson muurahainen",
+        "Harjapää",
+        "Varis",
+        "Käärme",
+        "Muuli"
+      ],
+      "answer": "Laakson muurahainen"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Varoitus, joka säästi muurahaisyhteisön",
+        "Kalan pyyntö sormuksesta",
+        "Kadonneen valtaistuimen etsintä",
+        "Varastettujen silmien pelastus",
+        "Kieltäytyminen syömästä hallitsijan ruokaa"
+      ],
+      "answer": "Varoitus, joka säästi muurahaisyhteisön"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Muurahaisten laakso",
+        "Sulaymanin sinettisormus",
+        "Yusufin veritahriintunut paita",
+        "Exoduksen kultainen vasikka",
+        "Musan sauva"
+      ],
+      "answer": "Muurahaisten laakso"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Yhteisö säästettiin turvauduttuaan",
+        "Yhteisö tuhoutui ilman suojaa",
+        "Yhteisö säästyi, koska armeija vetäytyi",
+        "Yhteisö palkittiin lintujen hallinnalla",
+        "Yhteisö vietiin vankina kuninkaalliseen hoviin"
+      ],
+      "answer": "Yhteisö säästettiin turvauduttuaan"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

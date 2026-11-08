@@ -1,0 +1,61 @@
+{
+  "title": "Mobengi uta na Bozindo",
+  "intro": "Kanisá molimo oyo epesameli nsango ya bonzambe, nzokande oyo, na mwa ntango ya mbangumbangu, alongwaki na bato na bango kozanga ndingisa ya polele. Mobembo oyo ememaki bango na momekano moko ya kokamwa, momekano moko ya mozindo ya motema molai mpe ya kotia motema na Oyo-Aleki-Likoló. Nani azali moto oyo oyo lisolo na ye eteyi biso na ntina ya boyamboli mpe bonene ya ngolu ya Allah?",
+  "clues": [
+    "Batindaki ngai na ekólo moko monene, kasi baboyaki na bango na ebandeli epesaki ngai mpasi.",
+    "Natikaki bato na ngai, kondimaka ete misio na ngai esili, yambo ya kozwa etinda ya polele ya kolongwa.",
+    "Nalukaki nzela na masuwa, kasi mopɛpɛ makasi mpe kobenda mbɛ́lɛ ememaki na likambo moko ya mabe mpenza.",
+    "Nabwakama na mbu, mpe ekelamu moko ya nguya ya mozindo emelaki ngai mobimba.",
+    "Na kati ya molili ya libumu na yango, nabelelaki Allah, nandimaki mabe na ngai mpe nalukaki bolimbisi na Ye.",
+    "Allah atindaki ekelamu yango ebwaka ngai na libongo, mpe nazongaki na nzoto kolɔngɔnɔ na nse ya molona moko oyo ekokani na mosusu te."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Yusuf (Joseph) .",
+        "Mosakoli Nuh (Noa) .",
+        "Mosakoli Yunus (Yona) .",
+        "Mosakoli Sulaiman (Salomo) .",
+        "Mosakoli Ayub (Yobo) ."
+      ],
+      "answer": "Mosakoli Yunus (Yona) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kokabwana ya mbu",
+        "Mɔtɔ ya Nimilode",
+        "Komelama na mbisi monene",
+        "Mpela yango",
+        "Kobebisama ya engumba na mabanga"
+      ],
+      "answer": "Komelama na mbisi monene"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku",
+        "Bato ya mosala",
+        "Libumu ya mbisi",
+        "Libulu ya mai",
+        "Nzete oyo ezali kozika"
+      ],
+      "answer": "Libumu ya mbisi"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki mokonzi monene",
+        "Atongaki Kaaba",
+        "Azongaki mpo na kotambwisa ekolo moko oyo ebongoli motema",
+        "Bapesaki ye bokonzi likoló ya ba jinn",
+        "Akambaki bato na ngambo mosusu ya esobe"
+      ],
+      "answer": "Azongaki mpo na kotambwisa ekolo moko oyo ebongoli motema"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

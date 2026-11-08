@@ -1,0 +1,61 @@
+{
+  "title": "Gadymy döwürleriň hakyky sesi",
+  "intro": "Gurhanda birnäçe aýatda gürrüň berilýän, ýöne onuň asylly häsiýetleri ajaýyp aýdyňlyk bilen şöhle saçýan bir ruh bar. Beýik Taňry tarapyndan aýratyn bir häsiýeti üçin öwgüli berlen bu gadymy Rehman bendesi wahy sahypalarynda orun eýeleýär. Siziň wezipäňiz bu ajaýyp şahsyýeti anyklamakdyr. Olaryň kimdigini çaklap bilersiňizmi?",
+  "clues": [
+    "Men adamzadyň ilkinji nesilleriniň arasynda ýaşan Allanyň pygamberi.",
+    "Allatagala meni Öz Kitabynda beýleki pygamberler bilen bir hatarda agzady, olaryň hemmesi şol bir asylly häsiýetleri üçin öwgüli sözler aýtdy.",
+    "Men Gurhanda hakykaty söýýän adam hökmünde häsiýetlendirilýärin.",
+    "Alla meni başgalaryň az sanlysynyň ýeten beýik derejesine göterdi.",
+    "Meniň adym \"Anbiýa\" süresinde, sabyrlylygy üçin öwgüli edilen başga iki pygamber bilen bir hatarda agzalýar.",
+    "Men Idris, dogruçyl we beýik pygamber."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Idris pygamber",
+        "Nuh pygamber",
+        "Ybraýym pygamber",
+        "Musa pygamber",
+        "Ysmaýyl pygamber"
+      ],
+      "answer": "Idris pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Sabyrlylygy we dogruçyllygy saklap, soňra ýokary derejä göterildi",
+        "Ynanýanlary weýran ediji silden halas etmek üçin uly gämi gurmak",
+        "Ýanýan oda taşlanyp, düýbünden zyýansyz çykyp gelmek",
+        "Güýçli bir patyşa bilen ýüzbe-ýüz bolmak we onuň jadygöý goşunyny ýeňmek",
+        "Deňziň çuňlugynda uly balygyň garnynda diri galmak"
+      ],
+      "answer": "Sabyrlylygy we dogruçyllygy saklap, soňra ýokary derejä göterildi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Allanyň tarapyndan beýik we belent dereje",
+        "Taxtalardan gurlan we üstüne garamtyl guýlan ägirt uly gämi",
+        "Zalym patyşanyň butparazlary tarapyndan ýanan güýçli ot",
+        "Gury ýollara bölünen giň deňiz",
+        "Okeanyň düýbündäki uly kitiň garaňky garny"
+      ],
+      "answer": "Allanyň tarapyndan beýik we belent dereje"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Allanyň rehmetine salyhlardan biri hökmünde kabul edildi",
+        "Bütin dünýädäki silden ähli imanlylar bilen bilelikde halas boldy",
+        "Ot degmezden alawdan çykdy",
+        "Ysraýyl ogullaryny deňizden howpsuz ýagdaýda azatlyga alyp gitdi",
+        "Uzak ýyllaryň kynçylyklaryndan soň söýgüli maşgalasy bilen gaýtadan duşuşdylar"
+      ],
+      "answer": "Allanyň rehmetine salyhlardan biri hökmünde kabul edildi"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

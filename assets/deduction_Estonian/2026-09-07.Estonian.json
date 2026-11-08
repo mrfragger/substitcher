@@ -1,0 +1,61 @@
+{
+  "title": "Kaaslane, kes pööras selja",
+  "intro": "Sa oled avastamas lugu hingest, kes elas prohveti varjus, kuid valis tee, mis viis hukatusse. See tegelane jagas kodu ühe Allahi valitud sõnumitoojaga, kuid ei läbinud usuproovi. Kes on see kadunud kaaslane?",
+  "clues": [
+    "Ma elasin inimeste seas, kes hülgasid õigluse kutse, ja ma ei olnud neile vastu.",
+    "Olin abielus Allahi prohvetiga, aga ma ei jaganud seda usku.",
+    "Kui käskjalad tulid mu koju hoiatusega, ei uskunud ma neid.",
+    "Mu abikaasale anti käsk linnast koos usklikega lahkuda ja mind nende seas ei olnud.",
+    "Karistus langes mu rahva peale ja mind hävitati koos nendega.",
+    "Koraanis mainitakse mind uskmatuse näitena koos Noa naisega suuras At-Tahrimis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Noa naine",
+        "Prohvet Luti naine",
+        "Prohvet Ibrahimi naine",
+        "Prohvet Musa naine",
+        "Prohvet Ayyubi naine"
+      ],
+      "answer": "Prohvet Luti naine"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Reetis oma mehe uskmatusega",
+        "Lükkas tagasi prohvet Hudi sõnumi",
+        "Kummardasid Kaabas avalikult ebajumalaid",
+        "Sepitses oma abikaasa missiooni vastu",
+        "Keeldus oma poja prohvetiks olemisest"
+      ],
+      "answer": "Reetis oma mehe uskmatusega"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Soodoma linn",
+        "Madyani linn",
+        "Irami linn",
+        "Babüloni linn",
+        "Jeruusalemma linn"
+      ],
+      "answer": "Soodoma linn"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Päästetud koos abikaasaga",
+        "Hävitatud koos uskmatutega",
+        "Kaugele maale pagendatud",
+        "Kahetses ja sai andeks",
+        "Sai hiljem usklikuks"
+      ],
+      "answer": "Hävitatud koos uskmatutega"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muryar da ta ƙi yanke ƙauna",
+  "intro": "Shiga cikin gida inda asara ta biyo bayan asara, amma murya ɗaya mai natsuwa ta ƙi yanke ƙauna. Kira ɗaya a cikin Alƙur'ani ya mayar da haƙuri ya zama wani abu mai canzawa; za ku iya gano alamun mutumin da ke bayan wannan muryar?",
+  "clues": [
+    "Ni muryar haƙuri ce a cikin gida inda bala'i ke gwada albarka.",
+    "Na zauna a cikin gida wanda babu kowa a ciki sakamakon asarar dukiya da yara.",
+    "Na san cewa rashin lafiya ta taɓa abokin tafiyarsa, wanda jikinsa ke ciwo.",
+    "Lokacin da damuwar ta yi tsanani, sai na yi kira da ambaton Allah.",
+    "Na gabatar da wata sanarwa: Allah shine gaskiya, don haka ku yi haƙuri.",
+    "Na kira Ayyub da suna; bayan haka, Allah ya yaye masa wannan bala'i ya kuma dawo da iyalinsa lafiya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Matar Annabi Ayyub",
+        "Matar Annabi Nuhu",
+        "Matar Annabi Ibrahim",
+        "Matar Annabi Ya'qub",
+        "'Yar Fir'auna"
+      ],
+      "answer": "Matar Annabi Ayyub"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ci gaba da zama tare da Ayyub a cikin rashi da rashin lafiya, sannan a yi kira ga haƙuri",
+        "Gargaɗi ga manzo mai adalci da ya yi watsi da al'umma mai lalata",
+        "Addu'a don haihuwar zuri'a ta gaba",
+        "Fassarar mafarkai a cikin gidan yarin sarauta",
+        "Samun wani yaro da aka amince da shi a gefen kogi"
+      ],
+      "answer": "Ci gaba da zama tare da Ayyub a cikin rashi da rashin lafiya, sannan a yi kira ga haƙuri"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ana buƙatar shelar cewa Allah shine Gaskiya kuma haƙuri ne",
+        "Itacen dabino kusa da marmaro",
+        "Kira don gina jirgin ruwa nesa da raƙuman ruwa",
+        "Mafarkin taurari goma sha ɗaya da kuma rana mai fitowa",
+        "Kwando da aka ɗauka a bakin kogin Nilu"
+      ],
+      "answer": "Ana buƙatar shelar cewa Allah shine Gaskiya kuma haƙuri ne"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An kawar da wahalar Ayyub kuma an gyara masa iyalinsa",
+        "An ba wa wani yaro da aka daɗe ana jira bayan an yi masa addu'a ba tare da ya yi aure ba",
+        "Wani matashi mai mulki ya fassara shekaru bakwai na wadata da ƙarancin abinci",
+        "An ceto wani yaro da aka ba amana daga ruwa mai gudana",
+        "Gargaɗi ya riga ya faru kafin ambaliyar ruwa mai halaka"
+      ],
+      "answer": "An kawar da wahalar Ayyub kuma an gyara masa iyalinsa"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vēstnesis, kas stājās pretī elku pielūdzējiem",
+  "intro": "Laikā, kad dievbijība bija nomaldījusies, cēlās vēstnesis ar aicinājumu atgriezties pie pasauļu Kunga pielūgsmes. Šī persona stingri nostājās pret tautu, kas bija iesakņojusies viltus dievības pielūgsmē, atgādinot tai par viņu patieso Radītāju un senču Kungu. Tomēr tauta bija neuzmanīga un noraidīja brīdinājumu, apzīmogojot savu likteni. Kas bija šis nelokāmais aicinājējs?",
+  "clues": [
+    "Es tiku sūtīts pie tautas, kas bija novērsusies no Vienīgā Patiesā Dieva ceļa.",
+    "Es jautāju saviem ļaudīm: \"Vai jūs nebīstīsieties Allāha?\"",
+    "Es aicināju viņus atteikties no viltus dievības, vārdā Baals, pielūgšanas.",
+    "Mana tauta noraidīja manu aicinājumu un turpināja pielūgt elkus.",
+    "Viņu noliegšanas dēļ viņi noteikti tiks saukti pie soda.",
+    "Mans Kungs man dāvāja mieru un svētīgu piemiņu vēlāko paaudžu vidū."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Iļja",
+        "Pravietis Jahja",
+        "Pravietis Dhul-Kifls",
+        "Pravietis Jusufs",
+        "Pravietis Šuajbs"
+      ],
+      "answer": "Pravietis Iļja"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Aicināja savu tautu pamest Baalu",
+        "Uzcēla šķirstu, lai glābtu ticīgos",
+        "Tika iemests ugunī",
+        "Bēga no tirāna faraona",
+        "Sita pret klinti, lai tecētu ūdens"
+      ],
+      "answer": "Aicināja savu tautu pamest Baalu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Baals",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manats",
+        "Hubals"
+      ],
+      "answer": "Baals"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Dāvāts miers un svētīga piemiņa",
+        "Zeme norīja",
+        "Iznīcināta spēcīgas vētras laikā",
+        "Pārvērtās par akmeni",
+        "Noslīcis jūrā"
+      ],
+      "answer": "Dāvāts miers un svētīga piemiņa"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

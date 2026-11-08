@@ -1,0 +1,61 @@
+{
+  "title": "Addewid a Siaradwyd Dros Farwor",
+  "intro": "Rydych chi'n sefyll wrth ymyl tân anialwch wrth i'w farwor gael ei wasgaru'n ofalus. Mae ymwelwyr yn cyrraedd am gyfarfyddiad yn y llonyddwch, ac mae un neges yn agor stori o addewid, syndod, a dyfodol heb ei gyflawni eto.",
+  "clues": [
+    "Fe groeson ni'r pellter i gyrraedd gwas ffyddlon yn yr anialwch.",
+    "Gofynnom am ledaenu marwor i baratoi tân.",
+    "Fe wnaethon ni siarad ag un a oedd wedi galw ar fflam am oerfel a diogelwch.",
+    "Fe ddaethom â newyddion am fabi newydd-anedig i rywun a oedd wedi mynd heibio oedran cael plant.",
+    "Fe wnaethon ni enwi'r plentyn addawedig yn Isaac.",
+    "Daethom â newyddion da am fab i Ibrahim, a gadawodd y newyddion rhyfeddol Ibrahim yn chwerthin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Yr Angylion a Ddaeth â Newyddion Da Isaac i Ibrahim",
+        "Yr Angylion a Rybuddiodd Lut",
+        "Yr Angylion sy'n Cludo'r Orsedd",
+        "Angylion Uffern",
+        "Yr Angylion a Anfonwyd at Noa"
+      ],
+      "answer": "Yr Angylion a Ddaeth â Newyddion Da Isaac i Ibrahim"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Yn dod â newyddion da am enedigaeth Isaac i Ibrahim",
+        "Rhybuddio Lut cyn cosbi ei bobl",
+        "Cyhoeddi genedigaeth Yahya i Zakariyya",
+        "Cario'r Orsedd ar Ddydd y Farn",
+        "Cyhoeddi genedigaeth Isa i Maryam"
+      ],
+      "answer": "Yn dod â newyddion da am enedigaeth Isaac i Ibrahim"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Tân wedi'i baratoi o farwor lledaenedig",
+        "Arch yn arnofio ar ddŵr llifogydd",
+        "Ogof wedi'i selio gan garreg rolio",
+        "Mynydd o glai wedi'i galedu gan heli",
+        "Ysgol yn ymestyn i'r awyr"
+      ],
+      "answer": "Tân wedi'i baratoi o farwor lledaenedig"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Newyddion da am fab o'r enw Isaac",
+        "Newyddion da am fab o'r enw Yahya",
+        "Dewis Talut yn rheolwr dros blant Israel",
+        "Rhybudd cyn cosbi pobl Lut",
+        "Gorchymyn i adeiladu arch cyn y Dilyw"
+      ],
+      "answer": "Newyddion da am fab o'r enw Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

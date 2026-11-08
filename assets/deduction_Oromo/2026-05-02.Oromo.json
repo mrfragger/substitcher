@@ -1,0 +1,61 @@
+{
+  "title": "Dhaamsa Awwaalaa Baatee",
+  "intro": "Lubbuun qajeelaan ummata irra daddarbaa kanaan dura hin argamne keessatti bade akka qajeelchuuf ergamte. Ergamaan kun malaammaltummaa sirna uumamaa cabsu irratti akeekkachiisa cimaa kenne jabaatee dhaabbate. Hawaasni ciminaan iyyatamus, dukkana keessa gad fageenyaan lixee, herrega waaqummaa kanneen biroo irraa adda ta’eef waltajjii mijeesse. Gabricha Rabbii jabaa kana adda baasuu dandeessaa?",
+  "clues": [
+    "Ani fira raajii guddaa biraa waanan tureef, biyya keenya dhiisee isa waliin godaane.",
+    "Ummata hammeenyi isaa adda ta’e, irra daddarba uumamni kamiyyuu isaan dura hin raawwanneetti ergame.",
+    "Manni koo ofii koo addaan qoodame; miseensi maatii dhiyoo tokko dhoksaan kaafiroota cinaa dhaabbate.",
+    "Ergamoonni bifa dargaggoota babbareedoo ta’aniin keessummoota ta’anii gara mana koo dhufanii nageenya isaaniif dhiphina guddaa natti fidan.",
+    "Ijoollee durbaa ofii kootii gocha salphisaa isaanii irraa garagalchuuf yaaliin abdii kutannaa godheen ummata kootiif fuudhuudhaan dhiheesse.",
+    "Sabni koo iyya suukaneessaa fi rooba dhagaa suphee daakuun kan bade yoo ta’u, ani fi maatiin koo tokko malee halkan du’aa keessaa bahuun fayyine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Shu'ayb",
+        "Nabi Saalih",
+        "Nabi Luut",
+        "Nabi Hud",
+        "Nabi Nuh"
+      ],
+      "answer": "Nabi Luut"
+    },
+    "trial": {
+      "label": "Qormaanni Koo Inni Duraa Maal Ture?",
+      "options": [
+        "Mootii gabroomfataa akka ibiddaan na hin gubne amansiisuu.",
+        "Inaaffaa obboloota koo fi boolla bishaanii keessatti darbatamuu wajjin wal'aansoo qabuu.",
+        "Uummata saalqunnamtii kanaan dura taʼee hin beekne irratti bobbaʼe wajjin wal dura dhaabbachuu.",
+        "Saba koo garbummaa fara'oon humna guddaa qabu irraa baasuu.",
+        "Doonii guddaa ijaaruun amantoota lolaa guddaa irraa baraaruuf."
+      ],
+      "answer": "Uummata saalqunnamtii kanaan dura taʼee hin beekne irratti bobbaʼe wajjin wal dura dhaabbachuu."
+    },
+    "location": {
+      "label": "Bakki Ergama Koo Maal Ture?",
+      "options": [
+        "Magaalaa Madyan",
+        "Magaalaa durii Iram",
+        "Biyya Gibxii Fara'oon jala turte",
+        "Magaalota Sodoomii fi Gomoraa",
+        "Magaalaa Nanawwee"
+      ],
+      "answer": "Magaalota Sodoomii fi Gomoraa"
+    },
+    "outcome": {
+      "label": "Buʼaan Dhumaa Maal Ture?",
+      "options": [
+        "Magaalonni garagalamanii dhagaa suphee bishaanitti tolfameen roobsan.",
+        "Sabni koo hoogganaa isaa sooressaa waliin dacheen liqimfame.",
+        "Sabni koo halkan torbaa fi guyyaa saddeet bubbee hamaadhaan barbadaa’e.",
+        "Sabni koo dha’icha akka awwaannisaa, qamalee fi sareetiin rakkachaa ture.",
+        "Ergama koo dhiisee booda qurxummiin guddaan tokko na liqimse."
+      ],
+      "answer": "Magaalonni garagalamanii dhagaa suphee bishaanitti tolfameen roobsan."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

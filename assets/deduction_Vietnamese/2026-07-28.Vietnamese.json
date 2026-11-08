@@ -1,0 +1,61 @@
+{
+  "title": "Bài kiểm tra của sinh vật thiêng liêng",
+  "intro": "Một dấu hiệu đã được gửi đến một quốc gia lạc lối. Giữa cuộc sống thoải mái của họ, một lời cảnh báo xuất hiện—kèm theo một sinh vật kỳ lạ sẽ trở thành thử thách cuối cùng cho đức tin của họ. Phản ứng của họ sẽ định đoạt số phận mãi mãi. Bạn có thể tìm ra ai là người đưa ra lời cảnh báo này và điều gì đã xảy ra với những người từ chối nó không?",
+  "clues": [
+    "Chúng tôi là một dân tộc đã được dẫn dắt bởi những sứ giả đi trước.",
+    "Một sinh vật kỳ vĩ hiện ra từ ngọn núi, một dấu hiệu từ Chúa dành cho quốc gia này.",
+    "Tôi nói với họ: 'Đây là con lạc đà cái thuộc về Allah, hãy để nó tự do ăn cỏ trên đất của Allah và đừng làm hại nó.'",
+    "Nhưng dân chúng đã làm què chân con lạc đà cái của tôi, bất chấp mệnh lệnh của Chúa tể của họ.",
+    "Tôi chỉ là sứ giả của Thượng đế các người, được phái đến để mang theo sự thật—tôi là một vị tiên tri và tôi tớ đáng tin cậy.",
+    "Còn về phần những kẻ làm điều ác, Chúa chúng ta đã giáng tai họa xuống chúng bằng một tiếng sấm vang dội, và chúng liền bất động trong nhà mình."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Hud của dân tộc A'ad",
+        "Tiên tri Salih của dân tộc Thamud",
+        "Tiên tri Shu'aib của Midian",
+        "Tiên tri Lut của dân thành Sodom",
+        "Tiên tri Nuh của Hòm Giao Ước"
+      ],
+      "answer": "Tiên tri Salih của dân tộc Thamud"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Trận Đại Hồng Thủy đã nhấn chìm một quốc gia không tin tưởng",
+        "Trận động đất đã tàn phá một thành phố tội lỗi",
+        "Con lạc đà cái được phái đến như một dấu hiệu và thử thách thiêng liêng.",
+        "Cơn bão đã trừng phạt người dân Midian.",
+        "Sự hủy diệt dân của Lot bằng đá"
+      ],
+      "answer": "Con lạc đà cái được phái đến như một dấu hiệu và thử thách thiêng liêng."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thành phố Sodom ở thung lũng Jordan",
+        "Thung lũng Al-Hijr nằm giữa Hijaz và Syria.",
+        "Vùng đất cổ A'ad ở miền nam Ả Rập.",
+        "Rừng Midian gần Biển Đỏ",
+        "Đồng bằng núi Judi ở Mesopotamia"
+      ],
+      "answer": "Thung lũng Al-Hijr nằm giữa Hijaz và Syria."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Họ được cứu rỗi sau khi ăn năn hối cải và tin tưởng.",
+        "Một trận mưa đá đã phá hủy chúng hoàn toàn.",
+        "Một tiếng động như sấm vang dội khiến họ bất động.",
+        "Họ bị cuốn đi bởi một cơn gió dữ dội.",
+        "Một trận động đất đã nuốt chửng họ xuống lòng đất."
+      ],
+      "answer": "Một tiếng động như sấm vang dội khiến họ bất động."
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

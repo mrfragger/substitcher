@@ -1,0 +1,61 @@
+{
+  "title": "Kozanga Mosantu",
+  "intro": "Na ngambo mosusu ya mabanga ya ntalo, ezali na lisapo moko ya komipesa oyo etɛngamá te mpe kotyela motema oyo ezali kilo mingi na boye ete molimo oyo ememaki yango ekokaki kobukana. Na ngonga moko ntango bato babalukaki epai ya bozoba mpe wolo, elilingi moko etelemaki makasi﻿—kobengaka bango nsima, kobondelaka mpo na bompikiliki, mpe komema kilo ya elaka moko ya bule. Oyo ezali lisolo ya moto oyo aponama lokola mosungi, vizier, mpe mobateli ya bondimi na ntango ya bozangi ya bule. Okoki kobimisa bomoto ya molimo oyo ya kotɛngatɛnga te?",
+  "clues": [
+    "Nakabolaka makila ya profeta monene oyo aponami mpo na kosolola na Allah mbala moko likolo ya ngomba moko ya bule.",
+    "Mokolo moko ndeko na ngai abondelaki Allah mpo na lisalisi mpo na koloba polele na monyokoli monene.",
+    "Naponama na Allah mpo na kotelema pembeni ya ndeko na ngai lokola mosungi mpe vizier.",
+    "Elongo tokutanaki na mokonzi moko ya mobulu oyo azalaki kosɛnga ete bábenga ye moto oyo aleki banzambe.",
+    "Tango ndeko na ngai azalaki kosolola na Allah likolo ya ngomba, bato na biso bamisala ekeko na wolo na bango.",
+    "Nazali ndeko ya Moize, oyo Allah aponaki lokola vizier na ye, oyo alobelami na nkombo na ye na Coran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Harun (Aaron) .",
+        "Mosakoli Musa",
+        "Mosakoli Dawud",
+        "Mosakoli Yaqub",
+        "Mosakoli Ishaq"
+      ],
+      "answer": "Mosakoli Harun (Aaron) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Crise ya Losambo ya Ngombe",
+        "Mpela Monene ya Nuh",
+        "Etumba ya Badr",
+        "Kobebisama ya Thamud",
+        "Kobebisama ya Sodoma"
+      ],
+      "answer": "Crise ya Losambo ya Ngombe"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mwana ya Ngombe ya Wolo",
+        "Masuwa ya Noa",
+        "Nzete oyo ezali kozika",
+        "Libulu ya Hira",
+        "Kiti ya Bokonzi ya Seba"
+      ],
+      "answer": "Mwana ya Ngombe ya Wolo"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Inocence Confirmé na Allah",
+        "Kozinda ya Farao na mai",
+        "Ndako ya Kaaba",
+        "Kokatisa Mbu na libateli",
+        "Komata na Lola"
+      ],
+      "answer": "Inocence Confirmé na Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

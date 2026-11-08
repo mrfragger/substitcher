@@ -1,0 +1,61 @@
+{
+  "title": "L'infatigable défenseur de la vérité",
+  "intro": "Un messager se dresse seul au milieu d'un peuple obstiné, l'appelant à se tourner vers le Dieu Unique et Véritable, tandis qu'il demeure attaché à de fausses idoles. Ce prophète porte un nom à la signification profonde – « celui qui cherche protection » – mais ne rencontre que rejet et déni. Par une douce persuasion et un avertissement ferme, cette âme porte un message divin que l'univers lui-même finira par confirmer. Saurez-vous identifier cette figure inébranlable qui représente l'un des récits les plus anciens des écritures islamiques ?",
+  "clues": [
+    "Mon peuple adorait de nombreuses divinités, tandis que je les appelais à servir Celui qui a créé les cieux et la terre.",
+    "Je me suis tenu devant ma nation et j'ai déclaré que je ne solliciterais aucune récompense de leur part ; mon seul désir était qu'ils me guident vers la droiture.",
+    "Un grand vent s'est abattu sur mon peuple comme châtiment divin, un vent dont le Coran parle au pluriel et au féminin.",
+    "Contrairement à certains prophètes, je n'ai pas eu d'épouse ni d'enfants mentionnés en évidence dans mon récit, car ma mission était d'appeler mon peuple seul.",
+    "Mon nom revêt une signification profonde, liée à la notion de protection et de refuge que l'on recherche.",
+    "Mon peuple était connu sous un terme géographique spécifique désignant la vallée qu'il habitait, et sa terre était décrite avec un dédain particulier pour son absence de végétation."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Hud",
+        "Prophète Salih",
+        "Prophète Shu'aib",
+        "Prophète Noé",
+        "Prophète Hudayb"
+      ],
+      "answer": "Prophète Hud"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le déluge de la terre",
+        "Le vent brûlant",
+        "Le tremblement de terre de la destruction",
+        "La sécheresse et la famine",
+        "La noyade en mer"
+      ],
+      "answer": "Le vent brûlant"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La fertile vallée du Yémen",
+        "Le désert de sable de Midian",
+        "La vallée rocheuse du Thamud",
+        "L'ancienne terre du peuple 'Ad'",
+        "La région côtière de l'Égypte"
+      ],
+      "answer": "L'ancienne terre du peuple 'Ad'"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Mon peuple s'est repenti et est entré au paradis",
+        "Aucun des miens n'a survécu au châtiment",
+        "J'ai été recueilli vivant comme mon frère Yunus",
+        "J'ai émigré avec mes disciples vers une terre bénie.",
+        "Le vent n'a détruit que les incrédules, tandis que les croyants ont survécu."
+      ],
+      "answer": "Aucun des miens n'a survécu au châtiment"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

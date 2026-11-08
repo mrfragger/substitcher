@@ -1,0 +1,61 @@
+{
+  "title": "Wyrazisty Wybraniec",
+  "intro": "W cieniu góry, gdzie zstąpiły boskie słowa, wiara ludu zachwiała się pod blaskiem złota. Jedna dusza, obdarzona elokwencją, stała się wsparciem w ważniejszej misji, lecz stanęła w obliczu głębokiej próby. Kiedy wybrany posłaniec wstąpił na świętą misję, ta postać pozostała, błagając niespokojny naród. Kim jest ta niezłomna dusza, której głos podniósł się przeciwko bałwochwalstwu?",
+  "clues": [
+    "Zostałem wybrany przez Allaha na proroka, choć moja historia jest często opowiadana obok innej.",
+    "Zostałem wysłany do tyrana, ale moją rolą było wspieranie, a nie przewodzenie.",
+    "Posiadałem dar elokwencji, a moje słowa miały zmiękczać serca.",
+    "Kiedy mój towarzysz wyruszył na święte spotkanie, pozostało mi zadanie poprowadzenia niespokojnego ludu.",
+    "W swej niecierpliwości stworzyli wizerunek ze swoich ozdób, a ja błagałem ich, aby pozostali wierni Allahowi.",
+    "Mój towarzysz wrócił i mnie pojmał, ale wyjaśniłem, że ludzie mnie obezwładnili i prawie zabili; nie byłem wśród przestępców."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Musa",
+        "Prorok Harun",
+        "Prorok Isa",
+        "Prorok Yahya",
+        "Prorok Zachariasz"
+      ],
+      "answer": "Prorok Harun"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wrzucenie do ognia",
+        "Wrzucenie do studni",
+        "W obliczu incydentu ze złotym cielcem",
+        "Test ciężkiej choroby",
+        "Test utraty majątku i dzieci"
+      ],
+      "answer": "W obliczu incydentu ze złotym cielcem"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec",
+        "Personel",
+        "Arka Przymierza",
+        "Tabletki",
+        "Płonący krzew"
+      ],
+      "answer": "Złoty cielec"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Surowo ukarany",
+        "Wybaczony i oczyszczony z zarzutów",
+        "Został królem",
+        "Zabrany do nieba",
+        "Dano nowy fragment Pisma Świętego"
+      ],
+      "answer": "Wybaczony i oczyszczony z zarzutów"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

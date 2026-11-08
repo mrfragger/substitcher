@@ -1,0 +1,61 @@
+{
+  "title": "Totuuden valtaistuin",
+  "intro": "Voimakas hallitsija, joka tunnetaan suuresta viisaudestaan ​​ja upeasta valtaistuimestaan, saa salaperäisen viestin tuntemattomasta lähteestä. Tämä odottamaton viestintä kyseenalaistaa heidän uskomuksensa ja auktoriteettinsa ja asettaa heidät diplomaattiselle matkalle, joka testaa heidän älykkyyttään ja johtaa lopulta syvälliseen hengelliseen heräämiseen. Pystytkö paljastamaan tämän hallitsijan henkilöllisyyden ja tapahtumat, jotka muuttivat koko hänen valtakuntaansa?",
+  "clues": [
+    "Minä ja kansani palvoimme aurinkoa, seuraten esi-isiemme tapoja.",
+    "Lintu, harjalintu, oli epätodennäköinen sanansaattaja, joka toi minulle kirjeen vaikutusvaltaiselta johtajalta.",
+    "Lähettäjän viisauden testaamiseksi lähetin arvokkaita lahjoja, mutta ne palautettiin, koska lähettäjällä oli paljon suurempi Allahin vauraus.",
+    "Ennen kuin edes saavuin lähettäjän hoviin, upea valtaistuimeni kuljetettiin sinne ihmeellisesti silmänräpäyksessä.",
+    "Saapuessani minulta kysyttiin, oliko siirretty valtaistuin minun, ja vastasin: \"Aivan kuin se olisi juuri se ainoa.\"",
+    "Astuin suureen saliin, jonka lattiaa luulin vesilammikoksi, ja tuossa kunnioituksen hetkessä alistuin profeetta Sulaimanin rinnalla Allahille, maailmojen Herralle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Saban kuningatar",
+        "Zulaikha (Al-Azizin vaimo)",
+        "Asiya (faraon vaimo)",
+        "Musan äiti",
+        "Maryam (Isan äiti)"
+      ],
+      "answer": "Saban kuningatar"
+    },
+    "trial": {
+      "label": "Keskustapahtuma",
+      "options": [
+        "Kirjeen vastaanottaminen profeetta Sulaimanilta",
+        "Heitetään tuleen",
+        "Arkin rakentaminen selviytymään tulvasta",
+        "Punaisenmeren jakaminen",
+        "Syytös vaatimattomuudesta"
+      ],
+      "answer": "Kirjeen vastaanottaminen profeetta Sulaimanilta"
+    },
+    "location": {
+      "label": "Avainobjekti",
+      "options": [
+        "Upea valtaistuin",
+        "Kultainen vasikka",
+        "Monivärinen takki",
+        "Sauva, joka muuttui käärmeeksi",
+        "Laudoista ja nauloista tehty laiva"
+      ],
+      "answer": "Upea valtaistuin"
+    },
+    "outcome": {
+      "label": "Lopullinen tulos",
+      "options": [
+        "Ainoalle todelliselle Jumalalle (Allahille) alistuminen",
+        "Muuttuminen suolapatsaaksi",
+        "Korkean tornin rakentaminen Jumalan tavoittamiseksi",
+        "Suuren kalan nielaisemaksi joutuminen",
+        "Rangaistuksena valtavan omaisuuden menettäminen"
+      ],
+      "answer": "Ainoalle todelliselle Jumalalle (Allahille) alistuminen"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

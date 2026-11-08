@@ -1,0 +1,61 @@
+{
+  "title": "Y Gwrandawyr Cudd a Gredodd",
+  "intro": "Yng nghanol llonyddwch cynulliad cysegredig, cyrhaeddodd cynulliad rhyfeddol o deyrnas anweledig. Wedi'u denu gan sibrwd rhywbeth rhyfeddol, gwrandawon nhw ar adrodd a fyddai'n selio eu tynged am byth. Mae eu tystiolaeth yn parhau i fod yn un o'r rhai mwyaf unigryw yn yr ysgrythur ddwyfol.",
+  "clues": [
+    "Bodau o deyrnas anweledig i'r mwyafrif ydym ni, a daethom fel grŵp.",
+    "Aethom tuag at gynulliad i glywed rhywbeth rhyfeddol.",
+    "Pan gyrhaeddon ni, gwrandawom ar adrodd a’n gadawodd yn rhyfeddol.",
+    "Fe wnaethon ni gydnabod yn agored bod rhai yn ein plith yn gyfiawn a rhai ddim.",
+    "Roedden ni'n gwybod na allem ddianc rhag y gorchymyn dwyfol ar y ddaear, na thrwy hedfan i'r awyr.",
+    "Pan glywsom yr arweiniad, credom ynddo; pwy bynnag sy'n credu yn ei Arglwydd ni fydd yn ofni colled na baich."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Grŵp o Jinn",
+        "Pobl Iram",
+        "Pobl Tubba'",
+        "Yr Ymerodraeth Rufeinig",
+        "Llwyth y Quraysh"
+      ],
+      "answer": "Grŵp o Jinn"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gwrando ar adrodd sanctaidd",
+        "Adeiladu pileri uchel yn ein dinas",
+        "Hela camel benywaidd godidog",
+        "Cael ein dinistrio am ladd ein proffwydi",
+        "Lluosi cyfoeth y tu hwnt i fesur"
+      ],
+      "answer": "Gwrando ar adrodd sanctaidd"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Casgliad o adrodd cysegredig",
+        "Dinas o bileri tal (Iram)",
+        "Ffynnon yn yr anialwch",
+        "Palas mawreddog o aur",
+        "Ogof gysegredig yn y mynyddoedd"
+      ],
+      "answer": "Casgliad o adrodd cysegredig"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Fe gredon ni a rhybuddion ni ein pobl",
+        "Wedi'i ddinistrio gan ffrwydrad nerthol o'r awyr",
+        "Wedi'i gosbi gan wynt crasboeth, dinistriol",
+        "Wedi cael cyfoeth a phŵer aruthrol",
+        "Arhosodd yn gadarn mewn anghrediniaeth"
+      ],
+      "answer": "Fe gredon ni a rhybuddion ni ein pobl"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

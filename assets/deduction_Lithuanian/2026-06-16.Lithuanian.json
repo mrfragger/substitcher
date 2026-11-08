@@ -1,0 +1,61 @@
+{
+  "title": "Balsas, šaukiantis teisumo",
+  "intro": "Senovės Midjano žemėje, kur klestėjo prekyba ir karavanai keliavo per plačias dykumas, tarp žmonių, kurie buvo nuklydę nuo teisingumo kelio, iškilo Alacho pranašas. Šis Alacho tarnas buvo pasiųstas su dieviška misija, kuri turėjo išbandyti visos bendruomenės tikėjimą. Kantrybės ir atkaklumo išbandymų metu ši siela tvirtai stovėjo, skelbdama perspėjimą, kuris aidės per visą istoriją. Ar galite įminti šio tvirto pasiuntinio paslaptį?",
+  "clues": [
+    "Mane pasirinko Alachas vesti žmones, kurie pamiršo sąžiningumo ir dorumo principus savo reikaluose.",
+    "Aš perdaviau žinią, ragindamas savo bendruomenę garbinti tik Alachą ir visais klausimais kalbėti tiesą.",
+    "Aš konkrečiai perspėjau apie korumpuotą praktiką, kai turtas vartojamas neteisėtomis priemonėmis, ir pabrėžiau teisingų svorių bei matų svarbą.",
+    "Mano žmonės į mano perspėjimus reagavo pašaipiai, grasindami išvaryti mane iš savo žemės, jei tęsiu savo žinią.",
+    "Nepaisant jų priešiškumo, aš likau ryžtingas savo misijoje, pareiškęs, kad mano atlygis – tik iš Alach.",
+    "Mano tautą ištiko niokojanti bausmė, o mane išgelbėjo Viešpaties gailestingumas, nes mano misija buvo įvykdyta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Šuaibas",
+        "Pranašas Hudas",
+        "Pranašas Salihas",
+        "Pranašas Lutas",
+        "Pranašas Muhamedas ﷺ"
+      ],
+      "answer": "Pranašas Šuaibas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Susidūrimas su žmonėmis, kurie atmetė tiesą ir grasino bausme už Alacho žinios perdavimą",
+        "Didžiojo tvano, sunaikinusio tautos netikinčius, liudininkai",
+        "Apreiškimo gavimas keliaujant per 笃 slėnį",
+        "Tikėjimo išbandymas, kai despotiškas valdovas bandė nutildyti raginimą monoteizmui",
+        "Tauta, prašanti lietaus per didelę sausrą po daugelio metų nepaklusnumo"
+      ],
+      "answer": "Susidūrimas su žmonėmis, kurie atmetė tiesą ir grasino bausme už Alacho žinios perdavimą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Midjano kraštas, kuriame mano žmonės vykdė prekybą ir amatą",
+        "Didžiojo laivo denis, išgelbėjęs tikinčiuosius nuo katastrofiško potvynio",
+        "Ola uolėtame kalne, kur septyni jaunuoliai ieškojo prieglobsčio nuo persekiojimo",
+        "Šventasis Jeruzalės miestas, į kurį mane kasnakt veždavo",
+        "Rūmai Šeboje, kur didžioji karalystė ruošėsi išvysti dievišką ženklą"
+      ],
+      "answer": "Midjano kraštas, kuriame mano žmonės vykdė prekybą ir amatą"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mano tautą ištiko baisi bausmė, o aš buvau išgelbėtas, nes įvykdžiau savo pareigą Alachui",
+        "Netikintieji buvo paversti beždžionėmis, nes jie pažeidė šventas Alacho ribas",
+        "Mano priešai priėmė tikėjimą, pamatę stebuklingą transformaciją",
+        "Žemė buvo palaiminta gausiu lietumi ir klestėjimu po to, kai žmonės atgailavo",
+        "Mane nužudė mano paties žmonės, nes atsisakiau atsisakyti savo misijos"
+      ],
+      "answer": "Mano tautą ištiko baisi bausmė, o aš buvau išgelbėtas, nes įvykdžiau savo pareigą Alachui"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

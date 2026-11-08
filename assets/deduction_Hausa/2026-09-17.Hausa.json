@@ -1,0 +1,61 @@
+{
+  "title": "A ƙarƙashin Inuwar Dabino",
+  "intro": "Labari ya bayyana game da wata rai da aka keɓe kafin haihuwa, an renon ta a cikin ganuwar alfarma, kuma aka zaɓi ta ɗauki alamar da duniya ba ta taɓa gani ba. Lokacin da zargi ya taso daga kowace kusurwa, wata murya ta fito daga wurare mafi ban mamaki don dakatar da duk wani shakku. Za ku iya gano wanda ya yi tafiya a ƙarƙashin inuwar dabino?",
+  "clues": [
+    "Na sadaukar da kaina ga hidimar Mai Iko Dukka kafin in yi numfashi na farko, alƙawarin da wanda ya ɗauke ni ya yi.",
+    "Na girma a ƙarƙashin kulawar mai kula da adalci a cikin ɗakunan ibada masu tsarki.",
+    "Duk lokacin da mai kula da ni ya zo ɗakina, sai ya same ni da abinci daga yanayi wanda bai kamata ya kasance ba.",
+    "An yi mini albishir da ɗa, duk da cewa yanayina bai bar wani wuri ga abin da aka yi mini alkawari ba.",
+    "Na koma wani wuri mai nisa, sai ga wata bishiyar dabino ta ba ni inuwa yayin da wata rafi ke gudana a ƙarƙashinta.",
+    "Lokacin da aka zo zargi kuma tambayoyi suka kewaye ni, na nuna jaririna da aka haifa — kuma ya yi magana tun daga lokacin da aka haife shi don ya dakatar da duk wata shakka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Maryamu",
+        "Saratu",
+        "Hawa",
+        "Ummu Musa",
+        "Matar Nuhu"
+      ],
+      "answer": "Maryamu"
+    },
+    "trial": {
+      "label": "Gwaji / Taro",
+      "options": [
+        "Haihuwar ɗa mai ban mamaki a keɓe",
+        "Masu bautar gumaka za su jefa su cikin wuta mai zafi",
+        "Tsira daga babban ambaliyar ruwa tare da zaɓaɓɓun mutane kaɗan",
+        "Rabuwa da jariri da aka jefa cikin kogi",
+        "Fuskantar babban sarkin Masar"
+      ],
+      "answer": "Haihuwar ɗa mai ban mamaki a keɓe"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Dabino da rafi mai gudana a ƙarƙashinsa",
+        "Jirgin ruwa mai ƙarfi a kan manyan raƙuman ruwa",
+        "Sanda da ta raba babban teku gida biyu",
+        "Wuta mai ci da aka yi niyya ta cinye rai mai aminci",
+        "Kursiyin zinariya da aka ƙawata da duwatsu masu daraja"
+      ],
+      "answer": "Dabino da rafi mai gudana a ƙarƙashinsa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An girmama shi a matsayin wanda ya fi kowa ɗaukaka a cikin dukkan mata",
+        "Sake haɗuwa da ƙaunataccen yaro bayan dogon rabuwa",
+        "Ya fitar da al'umma gaba ɗaya daga kangin azzalumin azzalumi",
+        "Ya yi wa mutanen da suka ɓace cikin lalata gargaɗi",
+        "An ba shi iko a kan aljanu, mutane, da iskoki"
+      ],
+      "answer": "An girmama shi a matsayin wanda ya fi kowa ɗaukaka a cikin dukkan mata"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mashahidi Walioangamia",
+  "intro": "Zamani sana, jamii iliishi katika njia panda ya ardhi kati ya falme. Nabii wao aliwaita kuelekea njia ya ukweli, lakini walishikilia kutoamini na kukandamizwa. Hadithi hii inaishia katika adhabu ya Mungu. Je, unaweza kutambua taifa hili na hatima yao kutokana na vidokezo vilivyo hapa chini?",
+  "clues": [
+    "Watu walikataa onyo lililoletwa na mmoja wa wajumbe wao wenyewe.",
+    "Mjumbe alituita tumuabudu Mwenyezi Mungu pekee na akatuonya dhidi ya ufisadi.",
+    "Uasi wetu ulikuwa ni kumkataa nabii aliyetumwa kwetu kwa haki.",
+    "Tulitilia shaka mamlaka ya mjumbe huyo na tukamshtaki kwa udanganyifu.",
+    "Adhabu ilitupata tulipokuwa tukikaa salama katika nyumba zetu.",
+    "Tuliangamizwa kwa kumkana nabii wetu na kuwatesa waumini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Shu'aib",
+        "Ibrahimu",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kupokea nabii aliyeita kwenye haki",
+        "Kujaribiwa na njaa",
+        "Kutafsiri ndoto",
+        "Kupokea Torati",
+        "Kusafiri kupitia bahari"
+      ],
+      "answer": "Kupokea nabii aliyeita kwenye haki"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Midiani",
+        "Babeli",
+        "Sodoma",
+        "Bahari Nyekundu",
+        "Sanduku"
+      ],
+      "answer": "Midiani"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu waliangamizwa kwa sababu ya kutoamini",
+        "Watu walitubu na kuongozwa",
+        "Watu waliingia Paradiso",
+        "Watu walinusurika na kufanikiwa",
+        "Watu walihamia nchi mpya"
+      ],
+      "answer": "Watu waliangamizwa kwa sababu ya kutoamini"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mukaddes jülgeden çagyryş",
+  "intro": "Taryhyň sahypalarynyň aňyrsynda güýçli hökümdar bilen tutuş gul edilen halkyň arasynda duran bir ruhuň hekaýasy bar. Bu şahsyýet her bir tebigy kanuna garşy çykýan gudratlary görkezip, milleti zulumdan halas etmäge çagyryldy. Mukaddes dagdan suwlardaky gudrata çenli, Allanyň bu hyzmatkäri asyrlaryň dowamynda ýaňlanjak alamatlaryň şaýady boldy. Siziň şu günki wezipäňiz, mirasy adamzat taryhynyň gidişine täsir eden bu ajaýyp şahsyýeti kesgitlemekdir.",
+  "clues": [
+    "Men halkymyň ölüm howply karara ýüzbe-ýüz bolan döwründe doguldym we maşgalam meni janymy halas etmek üçin suwa taşlady.",
+    "Men meniň ýaly adamlaryň ölümine buýruk beren hökümdaryň öýünde tapylyp, ulaldym.",
+    "Men mukaddes dagyň ýanyna gaçyp gitdim, ol ýerde ýanmadyk agajyň üstünde ot ýanýandygyny we ondan maňa bir sesiň gelýändigini gördüm.",
+    "Men gul edilen halkymyň azatlygyny talap edip, gudratlar bilen şol hökümdaryň ýanyna gaýtarylyp iberildim.",
+    "Men taýagym bilen deňze urdum, ol gurak ýollara bölündi we halkymyň yzyndan yzarlaýanlary ýuwutdy.",
+    "Men kyrk gije dag üstünde Rebbim bilen söhbetdeş boldum we maňa ilahi ýol görkeziji tagtalar berildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Musa pygamber",
+        "Harun pygamber",
+        "Ybraýym pygamber",
+        "Ýusup pygamber",
+        "Dawut pygamber"
+      ],
+      "answer": "Musa pygamber"
+    },
+    "trial": {
+      "label": "Meniň kesgitleýji synagym",
+      "options": [
+        "Deňiziň bölünmegi",
+        "Beýik gämini gurmak",
+        "Ýalpyldawuk ot bilen synag",
+        "Kitiň garnynda tussaglyk",
+        "Müsür resmisi tarapyndan tussag edilmek"
+      ],
+      "answer": "Deňiziň bölünmegi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Çopan taýagy",
+        "Beýik agaçdan ýasalan sandyk",
+        "Wagtyň uklap ýatan ýeri",
+        "Iki çeşmeli bag",
+        "Altyn bilen bezelen tagt"
+      ],
+      "answer": "Çopan taýagy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Meniň halkym deňizden howpsuz geçdi",
+        "Beýik sil kapyrlary ýok etdi",
+        "Zalymyň ody sowuk we parahat boldy",
+        "Deňiz öz ýesirini kenara taşlady",
+        "Tutulan adam Müsüriň hazynaçysy boldy"
+      ],
+      "answer": "Meniň halkym deňizden howpsuz geçdi"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Xəndəyin Ruhları",
+  "intro": "Siz amansız bir hökmdarın yalançı tanrılara mütləq sədaqət tələb etdiyi bir dövrə səyahət edirsiniz. Kiçik bir sədaqətli ruhlar icması bundan imtina etdi və əbədi lənətə uğrayan şiddətli bir cəza ilə üzləşdi. Onların hekayəsi sarsılmaz imanın sübutu olaraq Quranda əks-səda verir. Bu səbatlı qrupu müəyyən edə bilərsinizmi?",
+  "clues": [
+    "Biz yalançı tanrılara ibadət etməyi tələb edən bir hökmdarın zülmü altında olan bir ölkədə yaşayırdıq",
+    "Cəmiyyətimiz yalnız Allaha inancımıza görə şiddətli təqiblərlə üzləşdi",
+    "Hökmdar böyük bir xəndək qazmağı və şiddətli alovlarla doldurmağı əmr etdi",
+    "İmanımızdan imtina etdiyimiz üçün bir-bir o alovlu çuxura atıldıq",
+    "Bizim hekayəmiz Quranın bir hissəsinə çevrildi və bizi təqib edənlər əbədi lənətləndilər.",
+    "Çətinliklərimizi qeyd edən surə, səmanın böyük səmavi əlamətlərinin adını daşıyır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Əshab əl-Uxdud (Xəndək Əshabı)",
+        "Əshab əl-Kəhf (Kəhf Əhli)",
+        "Şənbə günü insanları",
+        "Ad xalqı",
+        "Səmud xalqı"
+      ],
+      "answer": "Əshab əl-Uxdud (Xəndək Əshabı)"
+    },
+    "trial": {
+      "label": "Bizim sınaq",
+      "options": [
+        "Odlu bir çuxurda diri-diri yandırılır",
+        "Uzun illər mağarada möhürlənmiş qalmaq",
+        "Müqəddəs istirahət günündə balıq tutmaq",
+        "Ulayan bir külək tərəfindən məhv edilir",
+        "Müqəddəs dişi dəvənin öldürülməsi"
+      ],
+      "answer": "Odlu bir çuxurda diri-diri yandırılır"
+    },
+    "location": {
+      "label": "Əsas Element",
+      "options": [
+        "Alovlu bir səngər",
+        "Sadiq bir itin olduğu gizli bir mağara",
+        "Qədim məhkum bir şəhərin hündür sütunları",
+        "Daş qayalara həkk olunmuş dağ yaşayış yerləri",
+        "Şiddətli küləklərin yellədiyi açıq düzənlik"
+      ],
+      "answer": "Alovlu bir səngər"
+    },
+    "outcome": {
+      "label": "Nəticəmiz",
+      "options": [
+        "Biz şəhid olduq və təqibçilər əbədi lənətə gəlmişdilər.",
+        "309 il yatdıqdan sonra oyandıq",
+        "Günahlarımıza görə meymuna çevrildik",
+        "Güclü bir külək hamımızı məhv etdi",
+        "Tək bir dağıdıcı fəryad varlığımızı sarsıtdı"
+      ],
+      "answer": "Biz şəhid olduq və təqibçilər əbədi lənətə gəlmişdilər."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

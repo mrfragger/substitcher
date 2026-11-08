@@ -1,0 +1,61 @@
+{
+  "title": "Gotin û Bûyînê",
+  "intro": "Kesayetek ji dîroka pîroz derdikeve holê, mûcîzeyên ku li dijî rêzika xwezayî derketine hildigire. Ev giyan bi yek fermana îlahî hat, dêûbav ji sûcdariyên giran parast û berî ku zincîrên dinyayî wan girêbidin ji vê dinyayê çû. Çîrok ji dergûşek dilnizm heta ezmanên jorîn dirêj dibe. Ev kî dikare be?",
+  "clues": [
+    "Ez ji bo Benî Îsraîl wek nîşan û rehmetek ji Xwedê hatim şandin.",
+    "Hatina min ne wekî her halî berê bû - ez bi peyva îlahî 'Bibe!' bêyî bavekî erdî hatim dinyayê.",
+    "Dê û bavê min bi buxtanên hovane re rû bi rû man, lê wehya pîroz daket da ku bêgunehiya wan eşkere bike û pozîsyona wan bilind bike.",
+    "Dema ez pitikek nûbûyî bûm, min ji dergûşa xwe ve bi zelalî diaxivî da ku navê dê û bavê xwe paqij bikim, kesên li dora min matmayî dihiştin.",
+    "Bi destûra Xwedê, min ji axa bêcan jiyan şekil da, çavên koran da û bi destdana xwe jî yê bizmarî qenc kir.",
+    "Berî ku ziyan bigihîje min, ez ber bi asîmanan ve hatim hilkişandin, û ez ê berî ku saeta dawîn were vegerim vê dinyayê."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îsa",
+        "Pêxember Mûsa",
+        "Pêxember Îbrahîm",
+        "Pêxember Yûsif",
+        "Pêxember Dawud"
+      ],
+      "answer": "Pêxember Îsa"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ji dergûşê ve wekî pitikek axaftin",
+        "Di zikê masiyek mezin de sax man",
+        "Tê avêtin nav agirê geş",
+        "Avakirina keştiyeke mezin berî tofanê",
+        "Rû bi rû bi sêrbaziya dadgeha Fîrewn"
+      ],
+      "answer": "Ji dergûşê ve wekî pitikek axaftin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Încîl (Încîl)",
+        "Tewrat (Tewrat)",
+        "Zebûr (Zebûr)",
+        "Suhuf (Pirtûkên Îbrahîm)",
+        "Dara ku deryayê parçe kir"
+      ],
+      "answer": "Încîl (Încîl)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bilind dibe bo asîmanan, dê berî Roja Qiyametê vegere",
+        "Zarokên Îsraêl ji Misrê derxistin",
+        "Bû padîşahek bi serweriya li ser cin, mirov û çûkan",
+        "Bi bawermendan re ji lehiyê mezin xilas bû",
+        "Mala pîroz li Mekkê ava kir"
+      ],
+      "answer": "Bilind dibe bo asîmanan, dê berî Roja Qiyametê vegere"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

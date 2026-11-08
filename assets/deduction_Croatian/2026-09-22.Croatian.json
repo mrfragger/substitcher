@@ -1,0 +1,61 @@
+{
+  "title": "Graditelji Uzvišenih Stupova",
+  "intro": "Stojite pred ruševinama veličanstvenog drevnog grada, čiji su uzvišeni stupovi sada srušeni. Vjetar zavija praznim ulicama, noseći uspomenu na moćni narod koji je nekoć vladao ovim zemljama. Tko su bili oni?",
+  "clues": [
+    "Bili smo narod goleme snage i vještine, poznati po svojim velikim građevinama i naprednoj civilizaciji.",
+    "Živjeli smo u zemlji pješčanih dina i stjenovitih brda i vjerovali smo da nas nitko ne može nadvladati.",
+    "Došao nam je poslanik između naše rodbine, pozivajući nas da obožavamo samo Allaha, ali smo ga poricali i ismijavali.",
+    "Hvalisali smo se: 'Tko je jači od nas?' i nastavili smo u svojoj oholosti i idolopoklonstvu.",
+    "Allah je na nas poslao bijesan vjetar koji je puhao sedam noći i osam dana, uništavajući sve.",
+    "Bili smo narod Ada, graditelji Irama, a naša sudbina postala je upozorenje svima koji su došli poslije nas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ljudi iz 'Ad",
+        "Ljudi iz Semuda",
+        "Ljudi iz Madyana",
+        "Ljudi iz Tubbe",
+        "Ljudi iz al-Rassa"
+      ],
+      "answer": "Ljudi iz 'Ad"
+    },
+    "trial": {
+      "label": "Kakva im je kazna bila poslana?",
+      "options": [
+        "Razorni vjetar",
+        "Kiša kamenja",
+        "Glasna eksplozija",
+        "Utapanje u poplavi",
+        "Progutala zemlja"
+      ],
+      "answer": "Razorni vjetar"
+    },
+    "location": {
+      "label": "Kako se zove njihov legendarni grad?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midjanac",
+        "Babilon",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Kakva je bila njihova konačna sudbina?",
+      "options": [
+        "Uništeni su, a njihovi ostaci postali su lekcija",
+        "Pokajali su se i bili spašeni",
+        "Pretvorili su se u majmune",
+        "Utopili su se u moru",
+        "Zatrpani su pod klizištem"
+      ],
+      "answer": "Uništeni su, a njihovi ostaci postali su lekcija"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

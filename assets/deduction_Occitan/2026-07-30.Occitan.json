@@ -1,0 +1,61 @@
+{
+  "title": "Los Estranhs Visitaires d'una Vila Muralhada",
+  "intro": "Un grop arribèt a las pòrtas d'una vila que son pòble aviá pas jamai conegut la vertat. Portèron un messatge, mas los abitants se virèron ostils, menaçant de violéncia. Pasmens, d'un luòc inesperat, una sola votz se levèt per defendre los estrangièrs, en preparant la scèna per un viratge dramatic dels eveniments.",
+  "clues": [
+    "Dintrèrem dins una vila que son pòble èra engolit per l'incredulitat.",
+    "Nos regardèron amb sospiècha e diguèron, 'Sètz pas que d'èssers ordinaris coma nosautres.'",
+    "Los avertiguèrem, mas nos levèron de pèiras.",
+    "Un òme se precipitèt de l'extrèm mai luènh de la vila per afirmar nòstra vertat.",
+    "Declarèt a son pòble, 'Perqué deuriái pas adorar Aquel que me creèt?'",
+    "La negacion de la vila s'acabèt amb un sol còp, e lo silenci regnèt ont un còp èra se trufavan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Los Messatgièrs de Ya-Sin",
+        "Los discípols d'Isa",
+        "Lo Gòble de la Trinchèra",
+        "Los Magos de Faraon",
+        "Lo Cresent de Ya-Sin"
+      ],
+      "answer": "Los Messatgièrs de Ya-Sin"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Rebuig e menaça de lapidacion",
+        "Èsser getat dins un fuòc ferotge",
+        "Una pròva de paciéncia amb un enfant perdut",
+        "Un jardin que patiguèt la destruccion",
+        "Un viatge per la mar"
+      ],
+      "answer": "Rebuig e menaça de lapidacion"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'extrèm mai luènh de la vila",
+        "La Mar Roja",
+        "Lo fossat de fuòc",
+        "La cauna de refugi",
+        "La preson d'Egipte"
+      ],
+      "answer": "L'extrèm mai luènh de la vila"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La vila foguèt destrucha per un sol crit",
+        "La mar se partiguèt e afoguèt l'armada .",
+        "Lo fuòc venguèt fresc e segur",
+        "L'òrt foguèt consumit per un fuòc celestial",
+        "La balena tornèt la persona a la riba"
+      ],
+      "answer": "La vila foguèt destrucha per un sol crit"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

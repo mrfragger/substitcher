@@ -1,0 +1,61 @@
+{
+  "title": "Eng kleng Warnung virun engem Marschhost",
+  "intro": "Trëtt an en Dall, wou e mächtege Herrscher an eng grouss Arméi ukommen, a stellt Iech e klenge Reesenden vir, deen eng Warnung gëtt, déi eng ganz Gemeinschaft rett. Wéi déi bedroht Gemeinschaft Ënnerdaach erreecht, ass d'Gefor laanscht. Follegt den Hiweiser fir déi iwwersinn Figur hannert där Warnung z'identifizéieren.",
+  "clues": [
+    "Ech gehéieren zu de klenge Kreaturen, déi mam Kinnekräich vun engem Herrscher verbonne sinn.",
+    "Meng Communautéit lieft a Wunnengen an engem Dall, wou ee vun eis deen aneren uruffe kann.",
+    "Mir si mat enger Bedroung vun deem Herrscher an den Arméien konfrontéiert, déi mat him reesen.",
+    "Ech sinn deen, deen meng Gemeinschaft oprufft, an hir Wunnengen eranzegoen, a warnt eis, net onbewosst zerquetscht ze ginn.",
+    "Den Herrscher ass de Sulayman, a meng Aart ass ënnert de Kreaturen, déi ënner sengem Kommando gestallt sinn.",
+    "Ech sinn d'Ameis vun deem Dall; no menger Warnung si mir an eis Wunnengen eragaangen a sinn dem Dreck entkomm, deen eis soss onbewosst gewiescht wier."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Ameis vum Dall",
+        "Den Hoopoe",
+        "D'Kräi",
+        "D'Schlaang",
+        "De Mauldéier"
+      ],
+      "answer": "D'Ameis vum Dall"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Eng Warnung, déi eng Ameisengemeinschaft verschount gehalen huet",
+        "Eng Ufro fir e Rank vun engem Fësch",
+        "Eng Sich no engem vermësste Troun",
+        "D'Rettung vun geklaute Aen",
+        "Eng Verweigerung, d'Iessen vun engem Herrscher ze iessen"
+      ],
+      "answer": "Eng Warnung, déi eng Ameisengemeinschaft verschount gehalen huet"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Dall vun den Ameisen",
+        "De Sigelring vum Sulayman",
+        "Dat bluddeg befleckt Hiem vum Yusuf",
+        "Dat gëllent Kalb vum Exodus",
+        "D'Mataarbechter vum Musa"
+      ],
+      "answer": "D'Dall vun den Ameisen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Gemeinschaft gouf verschount nodeems se Ënnerdaach gesicht haten",
+        "D'Gemeinschaft gouf zerstéiert ouni Ënnerdaach ze sichen",
+        "D'Gemeinschaft gouf verschount, well d'Arméi sech zréckgezunn huet",
+        "D'Gemeinschaft gouf mat der Kontroll iwwer d'Vullen belount",
+        "D'Gemeinschaft gouf an de kinneklechen Haff gefaange geholl"
+      ],
+      "answer": "D'Gemeinschaft gouf verschount nodeems se Ënnerdaach gesicht haten"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

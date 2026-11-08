@@ -1,0 +1,60 @@
+{
+  "title": "Rikkuste koorem",
+  "intro": "Sa seisad loo ees tohutust õnnest, kulla ja võimuga kaunistatud elust, mis on aga lõppkokkuvõttes hoiatav õppetund kõigile, kes ihkavad ilmalikku hiilgust. Kas suudad lahti harutada selle tegelase identiteedi, kelle lugu kajab läbi aja, olles tunnistuseks maise vara kaduvuse kohta?",
+  "clues": [
+    "Ma olin suure prohveti rahvast, aga valisin ülbuse ja rõhumise tee.",
+    "Allah andis mulle tohutu rikkuse, nii suure, et minu aarete võtmed olid raskeks koormaks tugevale meesterühmale.",
+    "Mu rahvas soovitas mul mitte oma rikkuse üle rõõmustada, tuletades mulle meelde, et Allah ei armasta rõõmustavaid.",
+    "Väitsin ülbelt, et minu tohutu varandus on tingitud minu enda teadmistest ja pingutustest, mitte Allahi õnnistusest.",
+    "Mind hoiatati korruptsiooni eest ja tuletati meelde, et peaksin otsima hauatagust elu sellega, mida Allah mulle andnud on, aga ma keeldusin kuulamast ja jätkasin oma uhkuses.",
+    "Lõpuks lasi Allah maa minu ja mu eluaseme alla neelata, jättes mulle vaid abilised Tema käsu vastu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Vaarao",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Mere lõhenemine",
+        "Nimrodi tuli",
+        "Üleujutus",
+        "Maa neelamine",
+        "Rohutirtsukate nuhtlus"
+      ],
+      "answer": "Maa neelamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Kuldvasikas",
+        "Aarded/võtmed",
+        "Zamzami kaev"
+      ],
+      "answer": "Aarded/võtmed"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Antud kuningatiitel",
+        "Päästetud hävingust",
+        "Maa poolt neelatud",
+        "Sai prohvetiks",
+        "Suri rahulikult"
+      ],
+      "answer": "Maa poolt neelatud"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

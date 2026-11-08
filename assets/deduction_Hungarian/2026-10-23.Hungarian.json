@@ -1,0 +1,61 @@
+{
+  "title": "A misszió az ősi városban",
+  "intro": "Egy poros, ősi város, melynek lakói tagadásban gyönyörködnek, és egy utolsó figyelmeztetés, amire nem figyeltek. Ma lépj be azok szerepébe, akiket Allah küldött, hogy üzenetet vigyenek egy makacs néphez. Egy történet az elutasításról, egy egyedülálló hit hangjáról és egy pusztító végzettel lezárt végről. Ki szólal meg ezeken a jeleken keresztül?",
+  "clues": [
+    "Allah küldött minket egy olyan városba, amelynek népe elfordult az igazságtól",
+    "Ketten jöttünk először, majd egy harmadik csatlakozott, hogy megerősítse küldetésünket",
+    "A városlakók elutasítottak minket, mondván, hogy mi is csak emberek vagyunk, mint ők",
+    "Egyetlen lélek rohant a város legtávolabbi végéből, hogy üzenje az embereknek, kövessék minket",
+    "Könyörögtünk nekik, de ők megkeményítették a szívüket és ellenünk fordultak",
+    "Egyetlen pusztító mennyei kiáltásban elnémult az egész városunk"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A város hírnökei a Ja-Sin szúrában",
+        "A Hawwariyyun (Isa tanítványai)",
+        "A fáraó udvarának varázslói",
+        "A szombat társai",
+        "Az elefánt népe"
+      ],
+      "answer": "A város hírnökei a Ja-Sin szúrában"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A városlakók elutasították és hazugoknak nevezték őket",
+        "Élve elégett egy hatalmas, lángoló tűzben",
+        "Egy nagy hal nyelte le a mélytengerben",
+        "Kénytelen volt munkával építeni egy magasodó oszlopot",
+        "Tomboló tűzvész árkában kínozták"
+      ],
+      "answer": "A városlakók elutasították és hazugoknak nevezték őket"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az ősi város (al-Karja)",
+        "Egy hatalmas, lángoló kemence",
+        "Egy nagy hal hasa",
+        "A magas, égig érő oszlop",
+        "A szent ház (Kába)"
+      ],
+      "answer": "Az ősi város (al-Karja)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A várost egyetlen pusztító kiáltás pusztította el (Sayha)",
+        "A zsarnok és serege a kettévált tengerbe fulladt",
+        "Az emberek majmokká és majmokká változtak",
+        "Az égből hulló kőeső elpusztította a várost",
+        "Egy heves árvíz elsodorta az egész közösséget"
+      ],
+      "answer": "A várost egyetlen pusztító kiáltás pusztította el (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

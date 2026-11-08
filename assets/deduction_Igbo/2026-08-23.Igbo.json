@@ -1,0 +1,61 @@
+{
+  "title": "Ìgwè Mmadụ Ndị Pụrụ n'Ihu",
+  "intro": "I guzo n'ihu ụda olu nke obodo nke e dere akụkọ ya n'ime ebili mmiri. Mkpụrụ obi ndị a nụrụ oku, họrọ nnupụisi, wee chee ihe ga-esi na ya pụta ihu nke gbanwere ụwa. Ònye ka ha bụ, gịnịkwa mere ụwa ha?",
+  "clues": [
+    "Anyị biri ndụ ogologo oge gara aga, onye ozi si n'etiti anyị bịakwute anyị.",
+    "Anyị fere arụsị ise ma jụ ịhapụ ha.",
+    "Anyị chịrị onye ozi ahụ ọchị ma bo ya ebubo na ọ bụ onye na-eduhie eduhie.",
+    "Anyị gwara ya ka o nye ntaramahụhụ ma ọ bụrụ na ọ bụ eziokwu.",
+    "Anyị hụrụ ka eluigwe na-ezo mmiri ozuzo, ụwa na-agbapụtakwa isi iyi.",
+    "Anyị rịgoro n'ebe ndị dị elu ka anyị gbapụ, mana ebili mmiri ahụ kpuchiri anyị."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka anyị bụ?",
+      "options": [
+        "Ndị Nuh",
+        "Ndị 'Ad'",
+        "Ndị Temọd",
+        "Ndị Lut",
+        "Ndị Midian"
+      ],
+      "answer": "Ndị Nuh"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Oké idei mmiri riri anyị",
+        "Oké ifufe bibiri anyị",
+        "Oké mgbawa gburu anyị",
+        "Ala lodara anyị",
+        "E ji nkume si n'eluigwe tụọ anyị"
+      ],
+      "answer": "Oké idei mmiri riri anyị"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Oke idei mmiri",
+        "Ifufe dị ike",
+        "Mmiri nke nkume",
+        "Ọkụ na-ere ọkụ",
+        "Ala ọma jijiji"
+      ],
+      "answer": "Oke idei mmiri"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Anyị niile lara n'iyi ma e wezụga ndị kwere ekwe na Nuh",
+        "A gbanwere anyị ka anyị bụrụ enwe",
+        "A hapụrụ anyị dị ka mkpọmkpọ ebe maka ndị njem",
+        "A gbanwere anyị ka anyị ghọọ nnu",
+        "E nyere anyị ezumike"
+      ],
+      "answer": "Anyị niile lara n'iyi ma e wezụga ndị kwere ekwe na Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

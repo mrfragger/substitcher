@@ -1,0 +1,61 @@
+{
+  "title": "Iloinen sanoma vanhuudessa",
+  "intro": "Olet todistamassa hetkeä, jossa toivo syttyy uudelleen. Pari, joka on jo kauan sitten vanhemmuuden iän ohittanut, saa lupauksen, joka uhmaa luonnonlakeja. Heidän keskellään seisoo hahmo, jonka pelkkä olemassaolo on merkki jumalallisesta armosta – sielu, joka on tarkoitettu profeetan tehtävään ja kantaa sukupolvien kestävää perintöä. Kuka on tämä merkittävä henkilö?",
+  "clues": [
+    "Synnyin vanhemmille, jotka olivat saavuttaneet vanhuuden ja joilla ei ollut lapsia.",
+    "Syntymäni ilmoittivat enkelit, jotka tulivat perheeni luokse vieraiksi.",
+    "Minulle annettiin viisautta ja profeetan asemaa, ja minut mainitaan kärsivällisten joukossa.",
+    "Isääni kutsuttiin Allahin ystäväksi, ja minä olin hänelle lahja hänen myöhempinä vuosinaan.",
+    "Minulla oli veli, joka myös oli profeetta, ja Herramme siunasi meitä molempia.",
+    "Poikani oli myös profeetta, ja jälkeläisilleni annettiin pyhät kirjoitukset ja profeetan asema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ishaq (Iisak)",
+        "Profeetta Ismail (Ismael)",
+        "Profeetta Yaqub (Jaakob)",
+        "Profeetta Jahja (Johannes)",
+        "Profeetta Uzair (Esra)"
+      ],
+      "answer": "Profeetta Ishaq (Iisak)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Syntynyt iäkkäille vanhemmille",
+        "Heitetty tuleen",
+        "Annettu valtakunta ja vauraus",
+        "Johdatti kansansa pois Egyptistä",
+        "Rakensi arkin pelastaakseen uskovat"
+      ],
+      "answer": "Syntynyt iäkkäille vanhemmille"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Pojan ilosanoman",
+        "Palava pensas",
+        "Kultainen vasikka",
+        "Liitonarkki",
+        "Profeetan sauva"
+      ],
+      "answer": "Pojan ilosanoman"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli profeetnaksi profeettojen suvun myötä",
+        "Tuli rikas kuningas",
+        "Hänen kansansa tuhottiin epäuskon vuoksi",
+        "Hänet pelastettiin tulipalosta",
+        "Hänelle annettiin kyky puhua vauvana"
+      ],
+      "answer": "Tuli profeetnaksi profeettojen suvun myötä"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

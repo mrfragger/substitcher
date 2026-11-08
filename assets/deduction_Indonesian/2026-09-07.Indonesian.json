@@ -1,0 +1,61 @@
+{
+  "title": "Sahabat yang Berpaling",
+  "intro": "Anda akan mengungkap kisah seorang jiwa yang hidup di bawah bayang-bayang kenabian namun memilih jalan yang mengarah pada kehancuran. Tokoh ini tinggal serumah dengan salah satu utusan pilihan Allah, tetapi gagal dalam ujian iman. Siapakah sahabat yang hilang ini?",
+  "clues": [
+    "Aku hidup di antara orang-orang yang menolak seruan untuk berbuat benar, dan aku tidak menentang mereka.",
+    "Saya menikah dengan seorang nabi Allah, tetapi saya tidak menganut kepercayaan tersebut.",
+    "Ketika para utusan datang ke rumahku dengan membawa peringatan, aku tidak mempercayai mereka.",
+    "Istriku diperintahkan untuk meninggalkan kota bersama orang-orang beriman, dan aku tidak termasuk di antara mereka.",
+    "Hukuman itu menimpa kaumku, dan aku binasa bersama mereka.",
+    "Namaku disebutkan dalam Al-Quran sebagai contoh kekafiran, bersama dengan istri Nabi Nuh, dalam Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Istri Nabi Nuh",
+        "Istri Nabi Lut",
+        "Istri Nabi Ibrahim",
+        "Istri Nabi Musa",
+        "Istri Nabi Ayyub"
+      ],
+      "answer": "Istri Nabi Lut"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Mengkhianati suaminya dengan tidak percaya",
+        "Menolak pesan Nabi Hud",
+        "Menyembah berhala secara terang-terangan di Ka'bah",
+        "Berkomplot melawan misi suaminya",
+        "Menolak untuk menerima kenabian putranya"
+      ],
+      "answer": "Mengkhianati suaminya dengan tidak percaya"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Kota Sodom",
+        "Kota Madyan",
+        "Kota Iram",
+        "Kota Babilonia",
+        "Kota Yerusalem"
+      ],
+      "answer": "Kota Sodom"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Disimpan bersama suaminya",
+        "Dihancurkan bersama orang-orang kafir",
+        "Diasingkan ke negeri yang jauh",
+        "Bertobat dan diampuni",
+        "Kemudian menjadi seorang yang beriman"
+      ],
+      "answer": "Dihancurkan bersama orang-orang kafir"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

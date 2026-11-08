@@ -1,0 +1,61 @@
+{
+  "title": "Etxe Zaharreko oztopoa",
+  "intro": "Hiri sakratuan, pertsonaia boteretsu bat haserre bizian zegoen mezu berri bat zabaltzen hasi zenean. Egiaren aurkako oposizioaren sinonimo bihurtu zen pertsona honek bere eragina jainkozko errebelazioaren pisuaren azpian erortzen ikusi zuen. Nor zen arima hau, zeinaren patua gudu-zelai ospetsu bateko hareatzean zigilatu zen?",
+  "clues": [
+    "Nire herriaren buruzagia nintzen, nire aberastasunagatik eta eraginagatik ezaguna antzinako santutegi bat zegoen hiri batean.",
+    "Nire leinuko gizon batek Jainko bakarraren mezua aldarrikatzen hasi zenean, bera eta bere errebelazioak iseka egin nizkion, iraganeko ipuin hutsak zirela esanez.",
+    "Gizon hari aurre egin nion egitura sakratuaren ondoan otoitz egiten ari zela, beharrezkoa izanez gero, bere gurtza indarrez etetea mehatxatuz.",
+    "Fede berria isilarazteko konspiratu zuten buruzagien artean nengoen, haren jarraitzaileei hitzez eta armez aurre eginez.",
+    "Armada batekin Badr izeneko leku batera joan nintzen, sinestun talde txikia zapalduko genuelakoan.",
+    "Baina gudu-zelai hartan, nire bizitza amaitu zen, eta nire heriotza ikasgai bihurtu zen seinale argiak ikusi ondoren sinesgaiztasunez jarraitzen dutenentzat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Profeta Kaaba-n otoitz egitea eragoztea",
+        "Kaaba eraikitzen",
+        "Koranaren idazketa",
+        "Elefanteen armadaren buru",
+        "Ilargia zatitzea."
+      ],
+      "answer": "Profeta Kaaba-n otoitz egitea eragoztea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Kaaba",
+        "Nuh profetaren arka",
+        "Musa profetaren makila",
+        "Urrezko Txahala",
+        "Sabako erreginaren tronua"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Badr-eko guduan hil zuten",
+        "Damutu eta musulman bihurtu zen",
+        "Abisiniara ihes egin zuen",
+        "Elefantearen urtean hil zen",
+        "Profetaren lagun bihurtu zen"
+      ],
+      "answer": "Badr-eko guduan hil zuten"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

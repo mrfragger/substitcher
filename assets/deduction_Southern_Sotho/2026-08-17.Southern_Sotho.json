@@ -1,0 +1,61 @@
+{
+  "title": "Tlōlo ea Molao Lebopong",
+  "intro": "U eme holim'a lehlabathe la lebōpo le lebetsoeng, moo maqhubu a hoeshetsang a sechaba se lekiloeng ka taelo ea bomolimo. Moea o boima ka ho hopola tlōlo e ileng ea lebisa phetohong e makatsang. Meea ena e ne e le bo-mang, 'me mofuta oa teko ea bona e ne e le ofe?",
+  "clues": [
+    "Re ne re le sechaba se fumaneng taelo e hlakileng ho tsoa ho Morena oa rona, empa re ile ra fumana litsela tsa ho e hanyetsa.",
+    "Re ne re lula haufi le metsi, 'me mokhoa oa rona oa boipheliso o ne o itšetlehile ka libōpuoa tsa 'ona.",
+    "Teko e ile ea re hlahela letsatsing leo re ileng ra laeloa ho ithiba linthong tsa lefatše.",
+    "Libōpuoa tsa metsing li ile tsa tla ho rona ka bongata letsatsing leo, tsa re leka ho feta mamello.",
+    "Re ile ra qapa leqheka la bolotsana la ho qoba taelo ea bomolimo, re nahana hore re ka feta taelo eo ka bohlale.",
+    "Tlōlo ea rona e ile ea lebisa phetohong e tlotlollang; re ile ra fetoha litšoene tse nyelisehang ka taelo ea Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba Sabatha",
+        "Batho ba Rass",
+        "Batho ba Tubba",
+        "Batho ba Lehaheng",
+        "Metsoalle ea Sekoti"
+      ],
+      "answer": "Batho ba Sabatha"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ponahalo ea litlhapi ka Sabatha",
+        "Selemo sa komello e matla",
+        "Lebotho la linonyana le rometsoe khahlanong le bona",
+        "Moroallo o ileng oa ba koahela",
+        "Tšisinyeho e matla ea lefatše"
+      ],
+      "answer": "Ponahalo ea litlhapi ka Sabatha"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Leoatle",
+        "Thaba",
+        "Lehaha",
+        "Phula ea lehoatata",
+        "Motse o sirelelitsoeng"
+      ],
+      "answer": "Leoatle"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E fetohile litšoene",
+        "E metsoa ke lefats'e",
+        "E sentsoe ke moea o hoeletsang",
+        "Ho khangoa ke metsi leoatleng",
+        "Ho otloa ke pula ea majoe"
+      ],
+      "answer": "E fetohile litšoene"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

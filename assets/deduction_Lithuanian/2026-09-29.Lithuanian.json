@@ -1,0 +1,61 @@
+{
+  "title": "Raižytų kalnų pranašas",
+  "intro": "Atšiauriose senovės Arabijos dykumose tarp žmonių, garsėjančių nepaprastu meistriškumu, iškilo asmenybė. Jų namai iškilo iš tvirtos uolos, tačiau jų širdys buvo kietesnės už kalnus, kuriuos jie iškalė. Dieviškas pasiuntinys atvyko su vienu stebuklingu ženklu, tačiau išdidumas ir nepaklusnumas lėmė greitas ir bauginančias pasekmes. Ar galite atpažinti kilmingą tarną, kurio žmonės pasirinko sunaikinimą, o ne vadovavimą?",
+  "clues": [
+    "Buvau pasiųstas kaip perspėtojas savo tautai, kviečiantis juos garbinti Vienintelį Dievą.",
+    "Mano žmonės gyveno tarp įspūdingų uolienų darinių, kalnų šlaituose išraižydami nuostabius būstus.",
+    "Mano maldos metu iš kietos uolos išniro stebuklinga kupranugarė – aiškus Visagalio ženklas.",
+    "Liepiau savo žmonėms dalytis vandeniu su šia kupranugare ir jai nekenkti.",
+    "Mano žmonės surengė sąmokslą prieš kupranugarę ir jai sužalojo kojas, taip užantspauduodami savo pačių sunaikinimą.",
+    "Mano tautą ištiko baisus žemės drebėjimas, ir jie liko nejudėdami kritę savo būstuose."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Salihas",
+        "Pranašas Hudas",
+        "Pranašas Šuayb",
+        "Pranašas Nuh",
+        "Pranašas Musa"
+      ],
+      "answer": "Pranašas Salihas"
+    },
+    "trial": {
+      "label": "Koks buvo lemiamas išbandymas?",
+      "options": [
+        "Stebuklingo kupranugario šlaunies sutraiškymas",
+        "Didžiojo arkos statyba pajuokos apsuptyje",
+        "Susidūrimas su tironišku faraonu",
+        "Įmestas į liepsnojančią ugnį",
+        "Šabo sandoros laužymas"
+      ],
+      "answer": "Stebuklingo kupranugario šlaunies sutraiškymas"
+    },
+    "location": {
+      "label": "Koks buvo centrinis elementas?",
+      "options": [
+        "Kupranugarė, išnirusi iš uolos",
+        "Puiki medinė arka",
+        "Personalas, kuris perskyrė jūrą",
+        "Milžiniškas banginis",
+        "Virš galvų pakibęs kalnas"
+      ],
+      "answer": "Kupranugarė, išnirusi iš uolos"
+    },
+    "outcome": {
+      "label": "Koks buvo jų galutinis likimas?",
+      "options": [
+        "Staigus žemės drebėjimas iš dangaus",
+        "Nuskendo galingame potvynyje",
+        "Jų miestai buvo sugriauti dievišku įsakymu",
+        "Nudegino žvarbus vėjas",
+        "Prarytas žemės"
+      ],
+      "answer": "Staigus žemės drebėjimas iš dangaus"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

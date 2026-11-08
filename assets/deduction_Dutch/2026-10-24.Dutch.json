@@ -1,0 +1,61 @@
+{
+  "title": "De waarschuwing onder de grond",
+  "intro": "Stel je voor dat je naast een diepe opgraving staat, terwijl stemmen van onderaf opstijgen en de wereld erboven verstomt. De Koran bewaart dit tafereel als waarschuwing: een gemeenschap verwerpt wat de boodschappers brengen, de straf nadert, en zelfs het gebrul wordt onderdeel van het getuigenis. Welke groep spreekt door middel van deze verzen?",
+  "clues": [
+    "In de Koran worden we herdacht als een collectief, gedefinieerd door één gedeeld lot, en niet door een individuele naam.",
+    "We verwierpen de boodschap die de boodschappers brachten, ook al was wat ze zeiden waar.",
+    "Onze herinnerde identiteit is verbonden met een diepe kloof in de aarde, en dat kenmerk is onderdeel geworden van onze naam.",
+    "Op de afgesproken dag werden we naar buiten gebracht en naar het vuur gesleept.",
+    "We konden ons niet verdedigen tegen de straf, en we konden het gebrul ervan niet horen.",
+    "We zouden met onze gezichten naar het vuur worden gekeerd en erin worden gedreven; als we werden ondervraagd, zouden we zeggen dat we tot degenen behoorden die geen antwoord konden geven."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "De metgezellen van de loopgraaf",
+        "Het volk verlost van de grote vloed",
+        "De aanbidders van het gouden kalf",
+        "De groep zocht beschutting in de berggrot.",
+        "De gemeenschap gered uit de vurige oven"
+      ],
+      "answer": "De metgezellen van de loopgraaf"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Gesleept en in het vuur geworpen.",
+        "Verlost uit een gloeiende oven",
+        "Veilig door een grote overstroming heen gedragen.",
+        "Eeuwenlang beschut in een grot",
+        "Gered nadat hij in een put was gegooid."
+      ],
+      "answer": "Gesleept en in het vuur geworpen."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Een greppel of kuil",
+        "Een grote zee",
+        "Een berggrot",
+        "Een hoog paleis",
+        "Een woestijnput"
+      ],
+      "answer": "Een greppel of kuil"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Ze konden zich niet verdedigen en hoorden het gebrul van het vuur niet.",
+        "Gered en toegang verleend tot eeuwige tuinen",
+        "Veilig afgeleverd, zelfs tijdens een verwoestende overstroming.",
+        "Beschermd door een lange slaap in een grot",
+        "Vereerd met een eeuwig koninkrijk"
+      ],
+      "answer": "Ze konden zich niet verdedigen en hoorden het gebrul van het vuur niet."
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

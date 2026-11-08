@@ -1,0 +1,61 @@
+{
+  "title": "Die Geduld der geplagten Seele",
+  "intro": "In den Annalen der Geschichte findet sich eine Gestalt, deren Name für Ausdauer steht. Diese Person wurde durch den Verlust jeglichen weltlichen Komforts auf die Probe gestellt und blieb dennoch ein treuer Diener des Schöpfers. Durch Jahre der Entbehrungen und körperlichen Leiden hindurch blieb ihr Herz fest im Glauben verankert und spendete allen, die mit Widrigkeiten konfrontiert sind, Hoffnung.",
+  "clues": [
+    "Ich war ein ergebener Diener Allahs, gesegnet mit großem Reichtum, vielen Kindern und ausgezeichneter Gesundheit.",
+    "Mein Leben veränderte sich schlagartig, als ich meinen Reichtum und meine Familie verlor und mir nichts als mein Glaube blieb.",
+    "Ich litt an einer langwierigen und schmerzhaften Krankheit, die die Grenzen der menschlichen Belastbarkeit auf die Probe stellte.",
+    "Während meines gesamten Leidens weigerte ich mich, gegen meinen Herrn zu klagen, selbst als der Widersacher versuchte, mich zur Verzweiflung zu treiben.",
+    "Als ich schließlich zu meinem Herrn rief, bat ich nicht um Reichtum, sondern bekannte lediglich, dass mich Not berührt hatte.",
+    "Mir wurde gesagt, ich solle mit dem Fuß auf die Erde treten, und daraus entsprang eine Quelle mit kühlem Wasser, um meinen Körper zu heilen und meinen Durst zu stillen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Yaqub",
+        "Prophet Ayyub",
+        "Prophet Zakariyyah",
+        "Prophet Yahya",
+        "Prophet Shu'ayb"
+      ],
+      "answer": "Prophet Ayyub"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Jahrelange schwere Krankheit und Verlust",
+        "In einen tiefen Brunnen geworfen werden",
+        "Von einem Riesenfisch verschluckt werden",
+        "Einem Tyrannen im Feuer gegenübertreten",
+        "Eine lange Reise auf der Suche nach einem Lehrer"
+      ],
+      "answer": "Jahrelange schwere Krankheit und Verlust"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Stab, der das Meer teilte",
+        "Ein Hemd, das nach Zuhause roch",
+        "Eine heilende Wasserquelle",
+        "Ein Berg, der zu Staub zerfiel",
+        "Eine Höhle des tiefen Schlafs"
+      ],
+      "answer": "Eine heilende Wasserquelle"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Gouverneur eines großen Landes werden",
+        "Eine Armee zum Sieg führen",
+        "Wiederherstellung von Gesundheit und Familie",
+        "Bau eines heiligen Gotteshauses",
+        "Einen vom Himmel gedeckten Tisch erhalten"
+      ],
+      "answer": "Wiederherstellung von Gesundheit und Familie"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

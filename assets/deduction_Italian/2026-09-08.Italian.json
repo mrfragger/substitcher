@@ -1,0 +1,61 @@
+{
+  "title": "La Prova della Fiamma Sacra",
+  "intro": "In un'antica terra dove la devozione per le sculture in pietra aveva messo radici in ogni casa, un individuo si distingueva dagli altri. Grazie a una fede incrollabile e alla protezione divina, affrontò quella che sarebbe dovuta essere morte certa e ne uscì illeso. Riuscirai a scoprire l'identità di quest'anima straordinaria?",
+  "clues": [
+    "Sono cresciuto tra persone che si inchinavano davanti a idoli che avevano scolpito con le proprie mani, credendo che questi oggetti possedessero un potere divino.",
+    "Quando ho messo in discussione le loro convinzioni, inizialmente mi hanno ignorato, ma non potevo rimanere in silenzio di fronte alla verità che conoscevo.",
+    "Nel giorno in cui si erano radunati, distrussi i loro idoli, lasciando intatto solo il più grande.",
+    "Quando tornarono e videro ciò che avevo fatto, i loro capi ordinarono che fosse costruita una grande pira, con l'intenzione di gettarmi tra le fiamme.",
+    "Mi gettarono nel fuoco ardente, ma il Signore dei mondi ordinò che diventasse fresco e sicuro per me.",
+    "Sono uscito dalle fiamme completamente illeso, mentre coloro che avevano complottato contro di me hanno affrontato la rovina totale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Ibrahim",
+        "Profeta Mosè",
+        "Profeta Nuh",
+        "Profeta Isa",
+        "Il profeta Yusuf"
+      ],
+      "answer": "Profeta Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Essere gettati in un fuoco ardente",
+        "Essere inghiottito da una grande balena",
+        "Sopravvivere a una grande alluvione",
+        "Essere gettati in un pozzo profondo",
+        "Affrontare i maghi di un re"
+      ],
+      "answer": "Essere gettati in un fuoco ardente"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un'enorme pira di legno in fiamme",
+        "Una grande arca di legno",
+        "Una statua di vitello dorato",
+        "Un cesto galleggiante su un fiume",
+        "Un trono magnifico"
+      ],
+      "answer": "Un'enorme pira di legno in fiamme"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Allah ha reso il fuoco freddo e sicuro",
+        "L'arca atterrò sana e salva su una montagna",
+        "L'idolo d'oro si sciolse davanti ai loro occhi",
+        "Un tiranno e il suo esercito annegarono nel mare",
+        "La vista di un cieco è stata restituita"
+      ],
+      "answer": "Allah ha reso il fuoco freddo e sicuro"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

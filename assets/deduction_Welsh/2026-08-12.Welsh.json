@@ -1,0 +1,61 @@
+{
+  "title": "Cenhadon Trugaredd a Nerth",
+  "intro": "Dychmygwch brynhawn tawel wedi'i dorri gan ddyfodiad teithwyr anghyfarwydd. Mae eu hymddangosiad yn gyffredin, ond mae eu pwrpas ymhell o fod felly. Maent yn cario neges ddwyfol a fydd yn newid cwrs dwy genedl, gan ddod â chwerthin i gartref diffaith ac arswyd i ddinas bechadurus. Pwy yw'r ymwelwyr dirgel hyn?",
+  "clues": [
+    "Fe'n hanfonwyd at was ymroddedig i Allah, a oedd yn adnabyddus am eu lletygarwch diderfyn.",
+    "Cyrhaeddon ni yng ngwisg dieithriaid, ac eto roedd ein gwesteiwr yn teimlo rhywbeth arallfydol am ein presenoldeb.",
+    "Daethom â newyddion a barodd i wraig oedrannus chwerthin mewn anghrediniaeth, gan daro ei hwyneb ei hun mewn syndod.",
+    "Cawsom y dasg o amddiffyn teulu cyfiawn wrth fwrw glaw o ddinistr ar ddinas oedd wedi'i thrwytho mewn llygredd.",
+    "Gwrthodom gymryd rhan yn y pryd a gynigiwyd i ni, a dim ond dyfnhau amheuaeth ein gwesteiwr a wnaeth hynny.",
+    "Dim ond cyn ymadael y datgelwyd ein gwir natur, gan ddweud, 'Yn wir, negeswyr eich Arglwydd ydym ni.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Gwesteion Abraham",
+        "Disgyblion Iesu",
+        "Cymdeithion yr Ogof",
+        "Byddin Abraha",
+        "Negeswyr Ya-Sin"
+      ],
+      "answer": "Gwesteion Abraham"
+    },
+    "trial": {
+      "label": "Ein Cenhadaeth",
+      "options": [
+        "I brofi ffydd Abraham ynglŷn â'i fab",
+        "I gyflwyno'r ysgrythur i Abraham",
+        "I gyhoeddi genedigaeth Isaac a dinistr pobl Lot",
+        "I arwain Abraham i'r Kaaba",
+        "I achub Abraham o'r tân"
+      ],
+      "answer": "I gyhoeddi genedigaeth Isaac a dinistr pobl Lot"
+    },
+    "location": {
+      "label": "Man Ymddangosiad",
+      "options": [
+        "Yng ngwlad yr Aifft",
+        "Yn ninas Ur",
+        "Yng nghartref Abraham",
+        "Yng ngardd Eden",
+        "Wrth ffynnon Zamzam"
+      ],
+      "answer": "Yng nghartref Abraham"
+    },
+    "outcome": {
+      "label": "Y Canlyniad",
+      "options": [
+        "Daeth Abraham yn frenin",
+        "Adeiladodd Abraham y Kaaba",
+        "Rhoddodd Sarah enedigaeth i Isaac a dinistriwyd pobl Lot",
+        "Ymfudodd Abraham i Balesteina",
+        "Cafodd pobl Abraham eu hachub rhag llifogydd mawr"
+      ],
+      "answer": "Rhoddodd Sarah enedigaeth i Isaac a dinistriwyd pobl Lot"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

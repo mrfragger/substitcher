@@ -1,0 +1,61 @@
+{
+  "title": "Para pengembara di padang hijau",
+  "intro": "Di zaman kuno, dua orang mengelola lahan yang berdekatan. Jalan hidup mereka saling terkait, namun hati mereka menuntun mereka ke tujuan yang sangat berbeda. Yang satu menempuh jalan yang lurus, sementara yang lain tersesat ke dalam kegelapan penyangkalan. Dapatkah Anda mengungkap misteri kedua penjaga panen ini?",
+  "clues": [
+    "Aku memiliki hasil panen yang melimpah, panen yang subur yang memukau mata orang-orang yang melihatnya.",
+    "Tetangga saya memiliki harta yang jauh lebih banyak daripada saya, namun saya lebih menginginkan bagian mereka daripada bagian saya sendiri.",
+    "Saya menyarankan agar kita menghancurkan seluruh tanaman mereka, untuk mengkonsolidasikan semuanya di bawah kendali saya.",
+    "Aku juga mendatangkan kehancuran pada panenku sendiri, menghancurkan segalanya dalam rencana bodohku.",
+    "Aku berdiri tak berdaya saat tanamanku layu dan kekayaanku berubah menjadi debu dalam semalam.",
+    "Aku tidak mendapat bagian di akhirat, dan tempat tinggal terakhirku menjadi jurang api yang menyala-nyala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang yang menyangkal kebangkitan dan penghakiman",
+        "Penguasa yang menindas petani yang saleh",
+        "Tuan tanah kaya yang tidak memiliki rasa terima kasih.",
+        "Petani yang menginginkan tanah tetangganya",
+        "Rekan pengkhianat yang merencanakan kehancuran."
+      ],
+      "answer": "Petani yang menginginkan tanah tetangganya"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Ujian menerima wahyu ilahi",
+        "Tantangan kekayaan dan kesabaran",
+        "Godaan untuk menghancurkan mata pencaharian orang yang saleh.",
+        "Perintah untuk membagi warisan secara adil",
+        "Perjuangan melawan penindasan seorang tiran."
+      ],
+      "answer": "Godaan untuk menghancurkan mata pencaharian orang yang saleh."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Taman-taman surga yang hijau subur",
+        "Dua ladang tanaman yang bersebelahan",
+        "Pegunungan yang menyaksikan kehancuran",
+        "Tempat suci di Mekah",
+        "Tepian sungai di tanah yang diberkahi"
+      ],
+      "answer": "Dua ladang tanaman yang bersebelahan"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Surga abadi sebagai ganjaran bagi orang yang berbuat baik.",
+        "Kehancuran total atas kedua hasil panen di kehidupan ini.",
+        "Pengasingan dan pengembaraan hingga kematian",
+        "Kemakmuran sementara diikuti oleh api abadi.",
+        "Pemulihan ajaib dan karunia berlipat ganda"
+      ],
+      "answer": "Kehancuran total atas kedua hasil panen di kehidupan ini."
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ticība aiz troņa",
+  "intro": "Dažas dvēseles pārbauda nevis uguns vai plūdi, bet gan lēnais spiediens, dzīvojot tirāna pilī. Šī figūra stāvēja blakus valdniekam, kurš apgalvoja, ka ir dievišķs pār savu tautu, tomēr slepeni turējās pie ticības Vienīgajam Patiesajam Dievam. Kad viņu uzticība tika atklāta, nāca ciešanas — bet tāpat arī dievišķs solījums. Vai vari uzminēt, kas tas ir?",
+  "clues": [
+    "Es dzīvoju zem savas zemes visvarenākā valdnieka jumta, tādā stāvoklī, kādu tikai retais jebkad spētu iedomāties.",
+    "Mans dzīvesbiedrs nostājās tautas priekšā un pasludināja sevi par dievu, bet mana sirds piederēja Vienīgajam Patiesajam Kungam.",
+    "Es slepenībā čukstēju lūgšanas, baidoties no soda, kas piemeklēja visus, kas nepakļāvās manam dzīvesbiedram.",
+    "Kad mana ticība tika atmaskota, mani sagrāba un spīdzināja, tomēr mana mēle nekad neizteica nevienu neticības vārdu.",
+    "Es izlēju savu sirdi savam Kungam, lūdzot māju Paradīzē, tālu no visiem netaisnības darbiem.",
+    "Esmu Asija bint Muzahima — faraona sieva, kura iebilda pret Musu un Harunu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Asiya bint Muzahim (faraona sieva)",
+        "Hava (Ieva), pirmā sieviete",
+        "Sāra, Ibrahima pirmā sieva",
+        "Hagara, Ismaīla māte",
+        "Marijas (Imrāna sievas) māte"
+      ],
+      "answer": "Asiya bint Muzahim (faraona sieva)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Izturēt spīdzināšanu par atteikšanos atteikties no ticības",
+        "Izdzīvošana lielas zivs vēderā",
+        "Masīva šķirsta būvniecība, lai izvairītos no plūdiem",
+        "Tiekot iemests liesmojošā ugunī",
+        "Lielās jūras šķiršanās liecinieki"
+      ],
+      "answer": "Izturēt spīdzināšanu par atteikšanos atteikties no ticības"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Viņiem Paradīzē uzcelta māja",
+        "Personāla, kas pārvērtās par čūsku",
+        "Šķirsts, kas pārvadā visu radību pārus",
+        "Zelta teļš, ko pielūdza tauta",
+        "Linga, ko izmanto, lai uzvarētu milzu karotāju"
+      ],
+      "answer": "Viņiem Paradīzē uzcelta māja"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Godināts ar mājvietu Paradīzē līdzās taisnīgajiem",
+        "Noslīkuši zem viļņiem kopā ar savu armiju",
+        "Sadega liesmās, bet izglāba dievišķa iejaukšanās",
+        "Liela radība to norīja un pēc tam izmeta krastā",
+        "Kļuva par sava laika bagātāko cilvēku"
+      ],
+      "answer": "Godināts ar mājvietu Paradīzē līdzās taisnīgajiem"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

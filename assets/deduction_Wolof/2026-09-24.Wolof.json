@@ -1,0 +1,61 @@
+{
+  "title": "Boroom bi laaj Yàlla",
+  "intro": "Benn njiit bu am doole te réy-réy dafa gëmoon ni amul kenn ku gëna mag ci seen jal. Ñu topp mbooloo mu doon daw, jàll ci ndox mu yaatu, waaye ñu daje ak njeexte lu doywaar. Jaar-jaaru buur baa ngi feeñ ci pàcc yu bari ci Al Quran, di artu ñépp.",
+  "clues": [
+    "Njiit lu am doole laa woon, gëmoon ni amul kiliftéef bu ëpp sama kiliftéef ci réew yi ma yor.",
+    "Amoon naa benn wazier buma wóolu bu tuddu Haman, mu jàppale ma ci defar ay projet yu mag ci wàllu architecture.",
+    "Ma woo luxuskat yi gëna mag ci sama réew ngir ñu werante màndarga yi ab ndaw bu ma doon xeex.",
+    "Bañ naa bàyyi nit ñi nekkoon jaam ci sama réew ñu dem, doonte mbas mi ak àrtu yu leer.",
+    "Ma topp leen, jàll géej gu yaatu, ànd ak samay soldaar yépp ak samay xare.",
+    "Geej googu moo ma tëj, man ak samay soldaar, nu féey ñépp, bi ñuy jàll ci jàmm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Fir'awn (Fir'awna)",
+        "Namruud",
+        "Abu Lahab",
+        "Aman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Fir'awna)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Mbas ak xeex ak Musa (Musa)",
+        "Tabax gaal balaa mbënd mu mag",
+        "Xare ak Jalut ci vale bi",
+        "Baleine wann la",
+        "Fexe ba jënd ak jaay njub"
+      ],
+      "answer": "Mbas ak xeex ak Musa (Musa)"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Tour yu njool ak piyees",
+        "Ark dénk bu mag",
+        "Naat wurus",
+        "Baton bu soppiku nekk jaan",
+        "Baleine bu rëy"
+      ],
+      "answer": "Tour yu njool ak piyees"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ñu daanu ci géej gi ak ay soldaar",
+        "Muccal ci yërmande Yalla ak muñ gu fay",
+        "Ñu dajewaat ak seeni mbokk ginaaw ay at yu metti",
+        "Suuf si wann ko",
+        "Lakk nañu ko ci safara"
+      ],
+      "answer": "Ñu daanu ci géej gi ak ay soldaar"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

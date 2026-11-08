@@ -1,0 +1,61 @@
+{
+  "title": "El Conspirador Velodo",
+  "intro": "Revelacion p’unchaykunamantapacha atiyniyoq runaq qayllanpin tarikunki. Kay sapan runaqa reqsisqa karqan yuyaysapa kayninwan, qhapaq kayninrayku, llaqtan ukhupi allin qhawarisqa kasqanwan ima. Sut’i señalkuna hamuqtinmi sumaq kayninta reqsirqanku chaywanpas k’umuykukuymantaqa mana kasukuytan akllarqanku. ¿Imataq kay almata tanqarqan tutayaqpi tramananpaq, ¿imataq karqan qhepa destinonku?",
+  "clues": [
+    "Saminchasqa karqani askha kapuqniywan, influenciawan ima, chaymi asambleakunapi rimasqayta llasaqyachirqani.",
+    "Divinoq rimasqankunata rimaqtinkuqa manan negayta atirqanichu allin rimasqankuta, ichaqa hatunchakuyniyqa manan saqewarqanchu kasukunayta.",
+    "Consejeroykunata huñurqani, sapanchakuspaymi yuyaymanarqani imayna chay willakuyta mana allinpaq hapinaypaq.",
+    "Anchata yuyaymanaspaymi mana imatapas declararqanichu, aswanqa ‘ñawpamanta magia pasasqa’ runakunata huklawman kutichinaypaq.",
+    "Hinaptinmi chay revelacionqa chiqaptapuni rimapayawarqa: ‘Sapaykuway unanchasqaywan’, nispa. Ñuqataqa sapaqchasqam karqani, chay llullakusqayrayku.",
+    "Pisi tiempollamantan, willawasqanku ninallataq ñawpaqninpi hap’iwanqa, manataqmi ayqekusaqchu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Al-Walid ibn al-Mughira sutiyuq runam",
+        "Abu Lahab sutiyuq runa",
+        "Abu Jahl sutiyuq runa",
+        "Uqbah ibn Abi Mu'ayt sutiyuq runa",
+        "Al-Nadr ibn al-Harith sutiyuq runam"
+      ],
+      "answer": "Al-Walid ibn al-Mughira sutiyuq runam"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Profeta wañuchinankupaqmi rimanakurqaku",
+        "Musulmankunap kuntranpi boicot nisqatam umallirqan",
+        "Huñusqa huk consejota Quran magia hina marcananpaq",
+        "Makkah llaqtamanta Profeta qarqonanpaqmi rimanakurqanku",
+        "Mana munarqanchu qhapaq kayninta mana tayta-mamayoq wawakunaman rakiyta"
+      ],
+      "answer": "Huñusqa huk consejota Quran magia hina marcananpaq"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Apocalipsis nisqa qelqa",
+        "Consejo nisqa",
+        "Chay Forelock nisqa",
+        "Qhapaq kay",
+        "La Pluma"
+      ],
+      "answer": "Chay Forelock nisqa"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Payqa pesapakuspan islam religionta chaskikurqan",
+        "Payqa Abisinia nacionmanmi astakurqan",
+        "Payqa wañuyman apaq onqoywanmi hap’ichikurqan",
+        "Musulmankunawan maqanakuypi wañurqan",
+        "Payqa Infierno ninamanmi huchachasqa karqan"
+      ],
+      "answer": "Payqa Infierno ninamanmi huchachasqa karqan"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

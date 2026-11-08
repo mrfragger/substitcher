@@ -1,0 +1,61 @@
+{
+  "title": "El creient ocult",
+  "intro": "En els opulents salons del poder, on regnaven la incredulitat i la tirania, una veu solitària de la veritat parlava des d'un lloc inesperat. Aquesta figura desafiava l'autoritat per protegir un missatger, arriscant la seva pròpia seguretat per proclamar la veritat.",
+  "clues": [
+    "Vaig viure en una terra de gran tirania, servint un governant que es proclamava divinitat.",
+    "Vaig mantenir ocultes les meves veritables creences durant molts anys, per por de les conseqüències de revelar-les.",
+    "Quan va venir un missatger amb senyals clars, vaig creure, però el meu poble va conspirar contra ell.",
+    "Vaig estar davant del tirà i el seu consell, argumentant que no havien de matar un missatger innocent.",
+    "Els vaig advertir del càstig de les nacions passades que van rebutjar la veritat, com la gent de Noè i Ad.",
+    "Al·là em va salvar dels seus plans malvats i vaig presenciar la destrucció del règim opressor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "El creient de la família del faraó",
+        "El mag del faraó",
+        "El visir del faraó",
+        "L'esposa del faraó",
+        "El tresorer del faraó"
+      ],
+      "answer": "El creient de la família del faraó"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Defensant un profeta contra l'execució",
+        "Desafiant els trucs d'un mag",
+        "Construint una torre per arribar al cel",
+        "Obrint el mar per escapar",
+        "Interpretació del somni d'un rei"
+      ],
+      "answer": "Defensant un profeta contra l'execució"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La cort del faraó",
+        "L'arbust ardent",
+        "El vedell d'or",
+        "El pou de Madyan",
+        "L'arca del profeta Nuh"
+      ],
+      "answer": "La cort del faraó"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Salvats del mal mentre els opressors eren destruïts",
+        "Es va convertir en un poderós governant",
+        "Va ser llançat al foc i va sortir il·lès",
+        "Va ser engolit per la terra",
+        "Va vagar pel desert durant quaranta anys"
+      ],
+      "answer": "Salvats del mal mentre els opressors eren destruïts"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

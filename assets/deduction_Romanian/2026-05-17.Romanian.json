@@ -1,0 +1,61 @@
+{
+  "title": "Arhitecții Pietrei",
+  "intro": "Imaginați-vă o civilizație puternică, înzestrată cu forță și pricepere, sculptând locuințe grandioase în versanții munților. Acest colectiv poseda o prosperitate imensă și o măiestrie arhitecturală unică. Totuși, în ciuda avertismentelor clare primite, au ales o cale care avea să ducă la un deznodământ dramatic și de neuitat. Puteți identifica acest grup a cărui poveste servește drept o lecție profundă pentru toți cei care reflectează?",
+  "clues": [
+    "Ni s-a acordat putere și îndemânare, permițându-ne să sculptăm case magnifice direct în munți.",
+    "Ni s-a dat un semn clar de la Allah, o creatură unică ce trebuia lăsată netulburată să pască.",
+    "Comunitatea noastră a devenit arogantă, contestând mesajul divin adus de un mesager dintre noi.",
+    "Am conspirat să prejudiciem semnul miraculos, în ciuda avertismentelor privind pedepsele severe.",
+    "Am sfidat porunca de a lăsa creatura specială să bea din fântâna noastră în zile alternative.",
+    "Am avut parte de un sfârșit devastator, doborâți de o singură explozie terifiantă după actul nostru de nelegiuire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oamenii din 'Ad",
+        "Oamenii din Madian",
+        "Oamenii elefantului",
+        "Oamenii din Thamud",
+        "Oamenii din Lut"
+      ],
+      "answer": "Oamenii din Thamud"
+    },
+    "trial": {
+      "label": "Proba/Evenimentul nostru major",
+      "options": [
+        "Inundația care a cuprins pământul",
+        "Despărțirea mării",
+        "Distrugerea printr-o singură explozie/strigăt",
+        "Arderea unui oraș",
+        "Prefacerea unui munte în praf"
+      ],
+      "answer": "Distrugerea printr-o singură explozie/strigăt"
+    },
+    "location": {
+      "label": "Un element cheie în povestea noastră",
+      "options": [
+        "Un vițel de aur",
+        "O cămilă miraculoasă",
+        "Un rug aprins",
+        "O pasăre vorbitoare",
+        "Un tron ​​maiestuos"
+      ],
+      "answer": "O cămilă miraculoasă"
+    },
+    "outcome": {
+      "label": "Rezultatul nostru final",
+      "options": [
+        "I s-a acordat o imensă bogăție și putere",
+        "Înălțat la profeție",
+        "Anihilare totală printr-o pedeapsă divină",
+        "Iertat după o pocăință sinceră",
+        "Împrăștiați pe pământ ca să rătăcească"
+      ],
+      "answer": "Anihilare totală printr-o pedeapsă divină"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

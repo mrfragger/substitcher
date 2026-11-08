@@ -1,0 +1,61 @@
+{
+  "title": "Bato ya Solo ya Makkah",
+  "intro": "Na mikolo ya ebandeli ya emoniseli, ntango nsango ya bosolo ekutanaki na botɛmɛli makasi, milimo mosusu etɛlɛmaki kozanga koningana na kondima na bango. Bandimi wana bakutanaki na motema mabe oyo ekoki kokanisama te epai ya baoyo balukaki koboma pole ya kondima. Minyoko na bango ezalaki makasi, mpasi na bango ezalaki monene —nzokande minoko na bango etikalaki te kosakola Bomoko ya Allah. Ata ntango babwakama na bozindo ya kozanga elikya, libateli ya bonzambe ezingaki bango, kobongolaka komekama na bango na litatoli ya seko ya bondimi. Tótalela mobembo ya milimo wana ya kokamwa.",
+  "clues": [
+    "Tomekamaki na etumbu ya makasi mpo toboyaki kotika kondima na biso na Nzambe Moko",
+    "Bato na biso bakokaki te kobuka ekateli na biso, ata soki motema mabe na bango ekómaki na mayele ndenge nini",
+    "Tokangamaki na libulu ya mai na moi, nzokande lisalisi ya Nzambe ezalaki ntango nyonso pene",
+    "Kokangama na biso ekamwisaki ata baoyo bamonaki ndenge toyikaki mpiko",
+    "Mingi na Makkah balukaki kotinda biso na makasi tótika, kasi totikalaki na ekateli makasi",
+    "Ntango nyonso emonanaki lokola ebungaki, bonsomi na biso ekomaki na nzela ya bokɔti ya Nzambe na ndenge ya likamwisi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bilal al-Habashi azali moto ya mayele",
+        "Ammar ibn Yasir azali moto ya mayele",
+        "Miqdad ibn al-Aswad azali moto ya mayele",
+        "Khabbab ibn al-Aratt, oyo azali na mbula 19",
+        "Salman al-Farsi, oyo azali na likambo yango"
+      ],
+      "answer": "Bilal al-Habashi azali moto ya mayele"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Etumba na Ntoma",
+        "Minyoko mpo na koboya kosambela bikeko",
+        "Momekano ya kondima na oyo etali likambo ya mɔ́tɔ",
+        "Momekano ya mobembo ya butu oyo ekabwani",
+        "Momekano ya kobebisama ya elanga"
+      ],
+      "answer": "Minyoko mpo na koboya kosambela bikeko"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ngomba ya Uhud",
+        "Esika mosantu ya Kabah",
+        "Libulu ya Abu Sufyan",
+        "Palais ya ba Quraysh",
+        "Engumba ya Madina"
+      ],
+      "answer": "Libulu ya Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Elonga na etumba monene",
+        "Bonsomi na nzela ya intervention divine",
+        "Martyrdom na nzela ya Allah",
+        "Kondimama na paradis mbala moko",
+        "Kokende na mikili mosusu na mokili oyo epambolami"
+      ],
+      "answer": "Bonsomi na nzela ya intervention divine"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

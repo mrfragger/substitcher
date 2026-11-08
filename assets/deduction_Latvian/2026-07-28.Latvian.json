@@ -1,0 +1,61 @@
+{
+  "title": "Svētās radības pārbaudījums",
+  "intro": "Zīme tika sūtīta tautai, kas bija nomaldījusies. Viņu ērtās dzīves vidū nāca brīdinājums — kopā ar ievērojamu radību, kas kļuva par viņu ticības galīgo pārbaudījumu. Viņu atbilde uz visiem laikiem apzīmogoja viņu likteni. Vai varat atklāt, kas sniedza šo brīdinājumu un kas notika ar tiem, kas to noraidīja?",
+  "clues": [
+    "Mēs bijām tauta, ko bija vadījuši iepriekšējie vēstneši pirms mums.",
+    "No kalna iznira krāšņa radība, zīme no mūsu Kunga šai tautai.",
+    "Es viņiem teicu: “Šī ir kamieļmāte, kas pieder Allāham, tāpēc ļaujiet viņai ēst Allāha zemi un neaiztieciet viņu, lai nodarītu pāri.”",
+    "Bet ļaudis pāršķērsoja manas kamieļmātes ciskas, nepaklausot sava Kunga pavēlei.",
+    "Es esmu tikai vēstnesis no jūsu Kunga, sūtīts ar patiesību – es esmu uzticams pravietis un kalps.",
+    "Kas attiecas uz ļaundariem, mūsu Kungs viņus sita ar pērkona dārdiem, un viņi kļuva nekustīgi savās mājās."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Huds no A'adas tautas",
+        "Tamudas tautas pravietis Salihs",
+        "Midiānas pravietis Šuaibs",
+        "Sodomas tautas pravietis Lūts",
+        "Arkas pravietis Nuhs"
+      ],
+      "answer": "Tamudas tautas pravietis Salihs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Plūdi, kas noslīcināja neticīgu tautu",
+        "Zemestrīce, kas iznīcināja grēcīgu pilsētu",
+        "Kamielis, kas sūtīts kā dievišķa zīme un pārbaudījums",
+        "Vētra, kas sodīja Midiānas iedzīvotājus",
+        "Lota tautas iznīcināšana ar akmeņiem"
+      ],
+      "answer": "Kamielis, kas sūtīts kā dievišķa zīme un pārbaudījums"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Sodomas pilsēta Jordānas ielejā",
+        "Al-Hidžras ieleja starp Hidžazu un Sīriju",
+        "Senā A'ad zeme Arābijas dienvidos",
+        "Midiānas meži pie Sarkanās jūras",
+        "Džūdi kalna līdzenumi Mezopotāmijā"
+      ],
+      "answer": "Al-Hidžras ieleja starp Hidžazu un Sīriju"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņi tika izglābti pēc grēku nožēlas un ticības.",
+        "Akmeņu lietus tos pilnībā iznīcināja",
+        "Pērkona dārdi viņus satricināja, it kā tie būtu nekustīgi",
+        "Viņus aiznesa spēcīgs vējš",
+        "Zemestrīce viņus aprija zemē"
+      ],
+      "answer": "Pērkona dārdi viņus satricināja, it kā tie būtu nekustīgi"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

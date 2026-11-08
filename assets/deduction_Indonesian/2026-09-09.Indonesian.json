@@ -1,0 +1,61 @@
+{
+  "title": "Jiwa Pertama yang Berdiri",
+  "intro": "Jauh sebelum ada utusan yang berjalan di bumi, sebelum ada kitab suci yang diwahyukan, sebuah makhluk yang tidak seperti makhluk lain telah ada. Jiwa ini dibentuk oleh tangan ilahi, diberi tempat dengan keindahan yang tak tertandingi, dan diuji dengan cara yang akan bergema sepanjang sejarah manusia. Apa yang terjadi selanjutnya adalah kisah tentang kelemahan, pertobatan yang tulus, dan takdir yang akan mengubah jalannya penciptaan selamanya. Bisakah Anda menebak siapa dia?",
+  "clues": [
+    "Aku dibentuk oleh tangan Yang Maha Penyayang dari debu tanah semata.",
+    "Aku diberi rumah yang keindahannya tak tertandingi, di mana rasa lapar dan kelelahan tak dapat menyentuhku.",
+    "Aku diperintahkan untuk tidak pernah mendekati satu pohon pun, karena itu dilarang.",
+    "Aku dan temanku tertipu dan mendekati pohon terlarang, bertentangan dengan perintah Tuhan kita.",
+    "Kami kembali kepada Tuhan dengan pertobatan yang tulus, dan dosa-dosa kami diampuni.",
+    "Dari kitalah seluruh umat manusia berasal; akulah orang pertama yang berjalan di bumi ini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Adam",
+        "Nabi Musa",
+        "Nabi Nuh",
+        "Nabi Yusuf",
+        "Nabi Isa"
+      ],
+      "answer": "Nabi Adam"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Godaan dari pohon terlarang",
+        "Konfrontasi dengan Firaun",
+        "Membangun Bahtera Agung",
+        "Pengorbanan putra terkasih",
+        "Dilemparkan ke dalam api yang besar"
+      ],
+      "answer": "Godaan dari pohon terlarang"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Pohon Terlarang",
+        "Semak yang Terbakar",
+        "Tongkat Emas",
+        "Bahtera Agung",
+        "Anak Lembu Emas"
+      ],
+      "answer": "Pohon Terlarang"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diutus ke bumi sebagai pelindung pertama umat manusia.",
+        "Firaun dan pasukannya tenggelam di laut.",
+        "Banjir besar membinasakan orang-orang jahat.",
+        "Api itu menjadi sejuk dan tenang.",
+        "Diberi wewenang atas kerajaan Mesir"
+      ],
+      "answer": "Diutus ke bumi sebagai pelindung pertama umat manusia."
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

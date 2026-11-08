@@ -1,0 +1,61 @@
+{
+  "title": "Al'ummar da ta ƙi Ranar Hutu",
+  "intro": "Shiga wani matsuguni a bakin teku inda wata rana wani umarni na Allah ya keɓe don bauta da kuma kamewa. Wata ƙungiya a cikin wannan al'umma ta zaɓi ta gwada iyakokin wannan umarni da wani shiri na wayo, wanda zai haifar da sauyi wanda zai yi ta maimaitawa tsawon shekaru. Su wanene waɗannan rayuka, kuma me ya faru da su?",
+  "clues": [
+    "Mun zauna kusa da bakin teku, inda teku ke samar mana da abincinmu.",
+    "An umarce mu da mu girmama rana ɗaya ta mako, mu keɓe ta daga abubuwan duniya.",
+    "A wannan rana, kifin ya zo mana da yawa, kamar yana jarabtar mu da karya umarnin.",
+    "Mun tsara wani shiri na kama kifayen a jajibirin ranar alfarma, sannan mu tattara su bayan sun shude.",
+    "Lokacin da wasu daga cikinmu suka yi gargaɗi game da wannan yaudara, mun yi watsi da shawararsu muka dage.",
+    "Saboda laifinmu, an mayar da mu birrai, an raina mu kuma an ƙi mu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Asabar",
+        "Mutanen Ramin",
+        "Mutanen Daji",
+        "Mutanen Lambun",
+        "Mutanen Giwa"
+      ],
+      "answer": "Mutanen Asabar"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kamun kifi a ranar Asabar",
+        "Gina hasumiya mai tsayi",
+        "Kashe raƙumi mai tsarki",
+        "Karyata annabin da aka aiko musu",
+        "Keta haddi a cikin nauyin ciniki"
+      ],
+      "answer": "Kamun kifi a ranar Asabar"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Teku da kifayensa",
+        "Wutar da aka sanya ta yi sanyi",
+        "Sanda da ta zama maciji",
+        "Akwatin ceto",
+        "Allunan dutse"
+      ],
+      "answer": "Teku da kifayensa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An canza shi zuwa birai",
+        "Ƙasa ta haɗiye ta",
+        "Iska mai ƙarfi ta halaka",
+        "An nutsar da shi cikin teku",
+        "Ruwan duwatsu ya same shi"
+      ],
+      "answer": "An canza shi zuwa birai"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

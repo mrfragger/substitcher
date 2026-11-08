@@ -1,0 +1,61 @@
+{
+  "title": "Sťažnosť počuť cez hluk",
+  "intro": "Počujete hlas stúpajúci zo spoločnosti, kde sa útlak stal bežnou praxou. Žiadna demonštrácia moci neodpovedá na krivdu; namiesto toho sa k Alahovi dostane priama výzva a odpoveď zasiahne samotné jadro uctievania. Kto vzniesol túto sťažnosť, aká otázka nasledovala a aká pravda bola potvrdená?",
+  "clues": [
+    "Začal ma trápiť útlak ľudí okolo mňa.",
+    "Túto sťažnosť som vyjadril priamo Alahovi v osobnej sťažnosti.",
+    "Alah vypočul sťažnosť a odpovedal výzvou ohľadom mojej vlastnej viery.",
+    "Odpoveď znela, ako som mohol neveriť v Alaha, ktorý je Jeden a Najvyšší.",
+    "Potom som sa opýtal, prečo by mal Alah uprednostňovať ľudí, ktorí neveria.",
+    "Ja som Uzair, menovaný v súre Az-Zuchruf ako ten, ktorého sťažnosť Alah vypočul."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Uzair",
+        "Spoločník, ktorý sa plavil počas veľkej potopy",
+        "Sluha, ktorý kráčal po vode",
+        "Spáč chránený v jaskyni",
+        "Sluha, ktorý priniesol kamene k rieke"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Sťažovanie sa Alahovi na útlak ľudí",
+        "Chôdza po vode počas búrky",
+        "Nosenie kameňov do rieky, ktorej chýbala voda",
+        "Plavba cez veľkú povodeň na palube Archy",
+        "Získanie kľúča k nesmiernemu pokladu"
+      ],
+      "answer": "Sťažovanie sa Alahovi na útlak ľudí"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Priama sťažnosť adresovaná Alahovi",
+        "Palica, ktorá sa premenila na hada",
+        "Pec, ktorá sa stala chladnou a pokojnou",
+        "Archa plávajúca nad potopou",
+        "Ryba prehltla sluhu"
+      ],
+      "answer": "Priama sťažnosť adresovaná Alahovi"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Alah vypočul sťažnosť a potvrdil božskú Jednotu a Najvyššiu Panovníctvo",
+        "Bezpečná chôdza po vode počas búrky",
+        "Bezpečný prechod cez veľkú potopu na palube Archy",
+        "Znovuzískanie zraku v paláci arogancie",
+        "Získanie panstva siahajúceho od východu na západ"
+      ],
+      "answer": "Alah vypočul sťažnosť a potvrdil božskú Jednotu a Najvyššiu Panovníctvo"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

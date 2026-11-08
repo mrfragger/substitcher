@@ -1,0 +1,61 @@
+{
+  "title": "Il custode della Porta del Sol Levante",
+  "intro": "Nel Corano, certe anime percorrono la terra lasciando tracce di saggezza e meraviglia. Una di queste figure viaggiò fino ai punti più remoti del creato, dove il sole sorge e tramonta, dove una barriera trattiene il caos stesso. A questo servo di Allah fu concesso un regno che nessun altro avrebbe mai più posseduto. Attraverso tre viaggi distinti, lo scopo di quest'individuo divenne chiaro. Riuscite a identificare questo leggendario viandante tra le ombre della storia?",
+  "clues": [
+    "Il Misericordioso mi ha concesso l'autorità di governare la terra in un modo che nessun altro ha mai raggiunto.",
+    "Ho viaggiato verso ovest finché non ho raggiunto il luogo dove tramonta il sole, trovandolo tramontare in una sorgente torbida, e lì ho visto delle persone.",
+    "Ho viaggiato verso est finché non ho raggiunto il luogo dove sorge il sole, trovandolo sorgere su un popolo al quale non avevamo offerto alcun riparo.",
+    "Ho viaggiato tra quei due punti estremi finché non sono giunto in una valle tra due montagne, dove ho trovato un popolo che riusciva a malapena a comprendere il linguaggio parlato.",
+    "Sulla montagna ho trovato due solide barriere di ferro che si estendevano a destra e a sinistra, e tra di esse, uno stretto passaggio. Queste persone mi hanno chiesto di sfondare la barriera che tratteneva il caos.",
+    "Presi le mie provviste e dissi: \"Quando la barriera verrà abbattuta, ci sarà una netta separazione tra noi e questo popolo\". E quando giunse il momento stabilito, vidi la barriera cedere definitivamente."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Profeta Sulayman",
+        "Profeta Ibrahim",
+        "Il re di Ghassaniyah",
+        "Dhul-Qarnain il Viandante"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Abbattere la barriera di ferro per il popolo di Yajuj e Majuj",
+        "La costruzione della nave sotto il comando di un profeta",
+        "La costruzione di un tempio a Gerusalemme",
+        "Attraversando il Mar Rosso con i credenti",
+        "Costruire una diga per proteggere una nazione giusta"
+      ],
+      "answer": "Abbattere la barriera di ferro per il popolo di Yajuj e Majuj"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La barriera di ferro tra due montagne",
+        "La nave gettò l'ancora su una montagna",
+        "La sacra casa di culto a Gerusalemme",
+        "Il fiume nella terra d'Egitto",
+        "Il pozzo delle benedizioni a Madyan"
+      ],
+      "answer": "La barriera di ferro tra due montagne"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "La barriera venne infranta al momento stabilito e si scatenò il caos.",
+        "I miscredenti furono annegati, mentre i credenti furono salvati.",
+        "I giusti furono guidati al paradiso eterno",
+        "La città fu distrutta da un vento ululante",
+        "Gli idoli furono distrutti e il popolo si pentì"
+      ],
+      "answer": "La barriera venne infranta al momento stabilito e si scatenò il caos."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

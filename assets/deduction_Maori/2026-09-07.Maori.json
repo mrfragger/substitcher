@@ -1,0 +1,61 @@
+{
+  "title": "Te Hoa i Tahuri ke",
+  "intro": "Kei te tata koe ki te hura i te kōrero mō tētahi wairua i noho i raro i te atarangi o te poropititanga, engari i whiriwhiri i te ara e arahi ana ki te whakangaromanga. I noho tahi tēnei tangata me tētahi o ngā karere whiriwhiri a Allah, engari i rahua i te whakamātautau whakapono. Ko wai tēnei hoa ngaro?",
+  "clues": [
+    "I noho ahau i roto i te hunga i whakakahore i te karanga ki te tika, ā, kāore ahau i whakahē i a rātou.",
+    "I moe ahau i tētahi poropiti a Allah, engari kāore au i whakaae ki taua whakapono.",
+    "I te taenga mai o ngā karere ki tōku kāinga me te whakatūpato, kāore ahau i whakapono ki a rātou.",
+    "I whakahaua taku hoa rangatira kia wehe atu i te tāone me te hunga whakapono, ā, kāore ahau i roto i a rātou.",
+    "I tau te whiu ki runga i tōku iwi, ā, i whakangaromia tahitia ahau me rātou.",
+    "Kua whakahuatia ahau i roto i te Quran hei tauira o te kore whakapono, i te taha o te wahine a Noa, i roto i te Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te wahine a te Poropiti a Noa",
+        "Te wahine a te Poropiti a Ruta",
+        "Te wahine a te Poropiti a Ihāperahama",
+        "Te wahine a te Poropiti a Mohi",
+        "Te wahine a te Poropiti a Ayyub"
+      ],
+      "answer": "Te wahine a te Poropiti a Ruta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I tinihanga i tana tāne mā te kore whakapono",
+        "I whakakahoretia te karere a te Poropiti a Huta",
+        "I karakiatia ngā whakapakoko i roto i te Kaaba",
+        "I whakatakoto mahere mō te kaupapa a tana tāne",
+        "I whakakahore ki te whakaae ki te poropititanga a tana tama"
+      ],
+      "answer": "I tinihanga i tana tāne mā te kore whakapono"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tāone o Horoma",
+        "Te tāone o Madyan",
+        "Te tāone o Irama",
+        "Te tāone o Papurona",
+        "Te tāone o Hiruharama"
+      ],
+      "answer": "Te tāone o Horoma"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia me tana tāne",
+        "I whakangaromia tahitia me te hunga whakaponokore",
+        "I peia ki te whenua tawhiti",
+        "I ripeneta, ā, i murua",
+        "I muri mai ka whakapono"
+      ],
+      "answer": "I whakangaromia tahitia me te hunga whakaponokore"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

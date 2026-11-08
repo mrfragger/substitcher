@@ -1,0 +1,61 @@
+{
+  "title": "De dolda lyssnarna som trodde",
+  "intro": "I stillheten under en helig sammankomst anlände en anmärkningsvärd församling från en osynlig värld. Dragna av viskningar om något underbart lyssnade de till en recitation som skulle besegla deras öde för alltid. Deras vittnesbörd är fortfarande ett av de mest unika i den gudomliga skriften.",
+  "clues": [
+    "Vi är varelser från en sfär som de flesta inte ser, och vi kom som en grupp.",
+    "Vi gick mot en sammankomst för att höra något anmärkningsvärt.",
+    "När vi kom fram lyssnade vi på en recitation som förbluffade oss.",
+    "Vi erkände öppet att vissa bland oss ​​är rättfärdiga och andra inte.",
+    "Vi visste att vi inte kunde undkomma det gudomliga påbudet på jorden, inte heller genom att fly upp i skyn.",
+    "När vi hörde vägledningen trodde vi på den; den som tror på sin Herre skall inte frukta förlust eller börda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "En grupp djinner",
+        "Folket i Iram",
+        "Folket i Tubba'",
+        "Romarriket",
+        "Quraysh-stammen"
+      ],
+      "answer": "En grupp djinner"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Lyssna på en helig recitation",
+        "Bygga höga pelare i vår stad",
+        "Jakt på en magnifik honkamel",
+        "Att bli förintad för att ha dödat våra profeter",
+        "Multiplicera rikedomen oändligt"
+      ],
+      "answer": "Lyssna på en helig recitation"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En samling av helig recitation",
+        "En stad med höga pelare (Iram)",
+        "En brunn i öknen",
+        "Ett storslaget palats av guld",
+        "En helig grotta i bergen"
+      ],
+      "answer": "En samling av helig recitation"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vi trodde och varnade vårt folk",
+        "Förstört av en mäktig explosion från himlen",
+        "Straffad av en brännande, förödande vind",
+        "Tilldelad enorm rikedom och makt",
+        "Förblev orubblig i misstro"
+      ],
+      "answer": "Vi trodde och varnade vårt folk"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

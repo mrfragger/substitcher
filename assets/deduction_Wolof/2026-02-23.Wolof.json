@@ -1,0 +1,61 @@
+{
+  "title": "Baatu gëm-gëm bu nëbbu",
+  "intro": "Ci biir néegu àttekaay buy jaay doole, di barab bu gëmul nekkoon yoonu réew mi, amoon na kenn ku dox ci buum gu dëgër gi ànd ak ngëm ak tiitaange. Nit kooku, nekkoon ci diggu nguur gi, dégluwoon na kàdduy yonent bi ñuy wax, ñu koy xas, di ko tiital. Dafa am jamonoy dëgg, mu forse nit ki mu tànn diggante noppi ak wax dëgg gu mëna jur loraange. Ndax mën nga xam kan mooy avocat bu am fit bii?",
+  "clues": [
+    "Maa ngi dëkkoon ci biir këru jaay doole, ma gis samay bët réy-réy gu bañ firndey boroom bi.",
+    "Maa ngi nëbb sama ngëm, muy alal ju nëbbu ci palaasu jaamu yàlla yi.",
+    "Dégg naa njiit li ma doon defal ay pexe ngir ray ndawu Yàlla, ku tuddu Musaa.",
+    "Ma laaj seen xalaat, di leen fàttali nit ñi ci Nuh, Ad ak Thamud.",
+    "Ma laaj sama askan laaj bu am solo: 'Sudee fenkat la, fenam mingi ci kawam; waaye sudee dëgg la, yenn ci limu dige dina la dal.'",
+    "Sama jaar-jaar dañu ko nettali ngir misaalu ngëm ci suura bu tudd 'Baalekat bi', foofu la ma artu sama askan ci pexe yu boroom doole yi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Aji-gëm ji juddoo ci njabootu Fir'awn",
+        "Aman",
+        "Magiciens de Fir'awn",
+        "Qarun",
+        "Saamiri yi"
+      ],
+      "answer": "Aji-gëm ji juddoo ci njabootu Fir'awn"
+    },
+    "trial": {
+      "label": "Luy sama àtte?",
+      "options": [
+        "Defending Prophet Musa ci tribunal tiran bi",
+        "Tabax ab tour bu kawe ngir yegg ci asamaan si",
+        "ñu sànni leen ci safara gu tàng",
+        "Jën wu rëy wann ko",
+        "Ñàkk bépp alal ak wérgi-yaram"
+      ],
+      "answer": "Defending Prophet Musa ci tribunal tiran bi"
+    },
+    "location": {
+      "label": "Luy theme sama argument?",
+      "options": [
+        "Njexitali bañ kàdduy yonent",
+        "Laaj firnde ci garab gu sell",
+        "Defar ab naat ci takkaay yu seey",
+        "Kéemtaanu gamëlu xeer",
+        "Tekki géntu njiit"
+      ],
+      "answer": "Njexitali bañ kàdduy yonent"
+    },
+    "outcome": {
+      "label": "Lu mu mujjee?",
+      "options": [
+        "Allah muccal na nit kii ci seen pexe mu bon",
+        "Tribunaal bi yépp nangu ci saasi Islam",
+        "Tiran bi réccu na saa yu muy féey",
+        "Tiran bi suuf si wann ko",
+        "Dañu yóbbu nit ki ci réew mu sori"
+      ],
+      "answer": "Allah muccal na nit kii ci seen pexe mu bon"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

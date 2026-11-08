@@ -1,0 +1,61 @@
+{
+  "title": "Umetokiaren Zinpea",
+  "intro": "Jainkoari eskainitako bihotz baten isiltasun-ganberetan, boto sakratu bat sortu zen. Boto hau oraindik arnasa hartu gabeko bizitza batean oinarritzen zen, eta haren betetzeak ondare espiritualaren bidea betiko aldatuko zuen. Sartu betikotasunean zehar oihartzuna zuen promesa zuen arima baten misterioan.",
+  "clues": [
+    "Bere jainkozaletasunagatik ezaguna den etxe batean bizi nintzen, eta Alarengana hurbilduko ninduen opari baten irrikan nengoen.",
+    "Nire baitan ezkutatuta zegoenari buruzko itun solemne bat egin nuen nire Jaunarekin, haren zerbitzura guztiz eskaintzeko zin eginez.",
+    "Agerpenaren unea iritsi zenean, ustekabekoa izan zen jaso nuena, baina gaia Guztia Jakiten duenari eman nion.",
+    "Nire alabari debozioa adierazten duen izena eman nion, eta bera eta bere ondorengoak madarikatutakoarengandik babesteko erregutu nuen.",
+    "Nire haurra santutegi sakratuan jarri zuten, Aaronen leinuko profeta baten zaintzapean.",
+    "Nire alaba bere garbitasunagatik egin zen ezaguna eta emakume guztien gainetik aukeratu zuten, geroago profeta handi baten ama izanik, ukitu gabe egon arren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Imranen emaztea.",
+        "Musaren ama.",
+        "Faraoiaren emaztea.",
+        "Al-Azizen emaztea",
+        "Isaren ama."
+      ],
+      "answer": "Imranen emaztea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Jaio gabeko haurra tenpluari eskaintzeko botoa",
+        "Pazientzia proba gaixotasun luze batean zehar",
+        "Fedearen mesedetan urrutiko lurralde batera egindako bidaia",
+        "Errege tirano batekin izandako liskar bat",
+        "Zerutik etorritako janari hornidura miragarria"
+      ],
+      "answer": "Jaio gabeko haurra tenpluari eskaintzeko botoa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Maryam izeneko haurra.",
+        "Suge bihurtu zen makila",
+        "Urrezko txahala",
+        "Zamzam-en putzua.",
+        "Noeren arka."
+      ],
+      "answer": "Maryam izeneko haurra."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bere haurra Ala-k onartu zuen eta zaintza profetikopean hazi zen",
+        "Bere haurra profeta bihurtu zen eta idatzi santu bat jaso zuen",
+        "Bere haurra zerura igo zen",
+        "Bere haurrak etxe sakratu bat eraiki zuen",
+        "Bere haurrari jakinduria eta aberastasun izugarria eman zitzaion"
+      ],
+      "answer": "Bere haurra Ala-k onartu zuen eta zaintza profetikopean hazi zen"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

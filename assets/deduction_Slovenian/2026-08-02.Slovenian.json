@@ -1,0 +1,61 @@
+{
+  "title": "Med zemljo in nebom",
+  "intro": "Na svetih straneh božanske zgodovine vas čaka skrivnostna duša, ki nosi znamenja in čudeže, ki še vedno odmevajo skozi stoletja. Ko boste sledili sledi namigov, boste potovali skozi zgodbo, zaznamovano s čudeži – od čudežnega začetka do vzpona onkraj neba. Ali lahko prepoznate tega blagoslovljenega služabnika pred zadnjim namigom?",
+  "clues": [
+    "Poslan sem bil kot poslanec k otrokom Izraelovim z novicami o milosti in luči.",
+    "Moje rojstvo je bilo čudežno znamenje – na ta svet sem prišel brez očeta, po ukazu Vsemogočnega.",
+    "Govoril sem že kot dojenček in branil materino čast pred obtožbami njenega ljudstva.",
+    "Z Alahovim dovoljenjem sem iz gline oblikoval ptice in jim vdahnil življenje – odletele so pred očmi tistih, ki so jih gledali.",
+    "Ozdravil sem slepe od rojstva, ozdravil gobavce in celo obudil mrtve – vendar je bil vsak čudež po Alahovem dovoljenju, ne moj.",
+    "Ko so moji sovražniki načrtovali, da me uničijo, me je Alah dvignil v nebesa in obljubil mojo vrnitev pred sodnim dnem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Isa (Jezus)",
+        "Prerok Musa (Mojzes)",
+        "Prerok Ibrahim (Abraham)",
+        "Prerok Mohamed",
+        "Prerok Jusuf (Jožef)"
+      ],
+      "answer": "Prerok Isa (Jezus)"
+    },
+    "trial": {
+      "label": "Odločilni trenutek",
+      "options": [
+        "Dvignili so me v nebesa",
+        "Vrgli so me v plameneči ogenj",
+        "Soočil sem se z mogočno faraonovo vojsko",
+        "Požrl me je velik kit",
+        "Na gori sem zgradil barko"
+      ],
+      "answer": "Dvignili so me v nebesa"
+    },
+    "location": {
+      "label": "Izvedeno sveto znamenje",
+      "options": [
+        "Oblikoval/a sem ptice iz gline",
+        "Palico sem spremenil v kačo",
+        "Luno sem razdelil na dva dela",
+        "Ukazal sem vetru in džinom",
+        "Iz skale sem pripeljal kamelo"
+      ],
+      "answer": "Oblikoval/a sem ptice iz gline"
+    },
+    "outcome": {
+      "label": "Kaj se je zgodilo z mano",
+      "options": [
+        "Dvignjen v nebesa; obljubil vrnitev",
+        "Postal je velik vladar imperija",
+        "Vodila sem svoje ljudstvo iz ujetništva",
+        "Bilo mu je dano neprimerljivo zemeljsko bogastvo",
+        "Po dolgi ločitvi sem se ponovno združil z družino"
+      ],
+      "answer": "Dvignjen v nebesa; obljubil vrnitev"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

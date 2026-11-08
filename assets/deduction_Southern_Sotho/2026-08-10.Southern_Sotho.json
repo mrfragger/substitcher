@@ -1,0 +1,61 @@
+{
+  "title": "Balebeli ba Kotulo ea Sephiri",
+  "intro": "Naheng e tala, sehlopha sa batho ka bomong se ile sa etsa morero oa lekunutu lefifing. Ba ne ba e-na le morero o tšoanang, empa morero oa bona o ne o sa loka le ho feta. Ba ne ba sa tsebe hore phetoho ea bomolimo e ba emetse ha ba robetse.",
+  "clues": [
+    "Re entse qeto e tiileng, re nahana hore morero oa rona o ne o se na sekoli.",
+    "Re ne re ikemiselitse ho tsoa pele ho nako, pele ba bang ba ka ferekana.",
+    "Re ile ra qala morero o nonneng, re kholisehile ka lijo tsa rona.",
+    "Ha re fihla moo re neng re ya teng, re ile ra fumana e le lesupi ebile e le lesupi, kahoo re ile ra nahana hore re lahlehile.",
+    "Eaba re hlokomela hore ehlile ke sebaka sa rona, 'me ra lla ka ho nyahama, re behana molato ka tahlehelo ea rona.",
+    "Re ne re hlapantse hoseng hoo hore re tla qhelela mafutsana ka thoko kotulong ea rona, empa kotlo ea Allah e ile ea re fihlela ha re ntse re robetse, ea fetola serapa sa rona lesupi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Beng ba Serapa ho Surah 68",
+        "Batho ba Saba",
+        "Balekane ba Lehaheng",
+        "Batho ba Tlou",
+        "Batho ba Foromo"
+      ],
+      "answer": "Beng ba Serapa ho Surah 68"
+    },
+    "trial": {
+      "label": "Teko ea Rōna",
+      "options": [
+        "Serapa sa rona se ile sa senngoa ke koluoa ​​​​e tsoang leholimong",
+        "Serapa sa rona se ile sa hoholeha ke moroallo",
+        "Serapa sa rona se ile sa chesoa ke mollo o tsoang ho sera",
+        "Serapa sa rona se ne se tletse litsie",
+        "Serapa sa rona se ile sa metsoa ke tšisinyeho ea lefatše"
+      ],
+      "answer": "Serapa sa rona se ile sa senngoa ke koluoa ​​​​e tsoang leholimong"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Re ile ra hlapanya hore re tla kha litholoana tsa sona hoseng",
+        "Re hahile letamo ho nosetsa serapa sa rona",
+        "Re ile ra batla setšabelo lehaheng bakeng sa tšireletso",
+        "Re lokisitse lebotho ho hapa 'muso",
+        "Re ile ra palama sekepe ho tšela leoatle"
+      ],
+      "answer": "Re ile ra hlapanya hore re tla kha litholoana tsa sona hoseng"
+    },
+    "outcome": {
+      "label": "Qetello ea Rōna",
+      "options": [
+        "Re ile ra baka 'me ra tšepa mohau ho tsoa ho Allah",
+        "Re ile ra timetsoa ka ho feletseng 'me ha rea ​​ka ra baka",
+        "Re balehile naheng eo 'me ha rea ​​ka ra khutla",
+        "Re ile ra ba matla le barui hape",
+        "Re ile ra otloa ka ho fetoloa litšoene"
+      ],
+      "answer": "Re ile ra baka 'me ra tšepa mohau ho tsoa ho Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

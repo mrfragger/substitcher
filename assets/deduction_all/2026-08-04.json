@@ -1,0 +1,61 @@
+{
+  "title": "The Echo Through the Cliffs",
+  "intro": "Imagine a valley where dwellings are hewn from cliffs, and the air carries the memory of a warning unheeded. A people once thrived here, blessed yet defiant, until a sign emerged from the very rock they trusted.",
+  "clues": [
+    "We were a people who carved out secure homes from the mountains, feeling safe in our rocky dwellings.",
+    "We lived in a land of plains and stone, blessed with gardens and springs.",
+    "A messenger from among us came, calling us to abandon our false gods and worship the One true Creator.",
+    "We arrogantly set a condition for belief: a unique sign that would emerge from the very rocks we carved.",
+    "When the promised she-camel appeared from the rock, a clear sign, our elite still refused and hamstrung her despite the warning of an impending doom.",
+    "Three days after our deed, a thunderous blast echoed through the valley, and we were reduced to fallen rubble, our homes our graves."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "The People of ¿Ad",
+        "The People of Thamud",
+        "The People of Madyan",
+        "The People of the Grove",
+        "The People of the Cave"
+      ],
+      "answer": "The People of Thamud"
+    },
+    "trial": {
+      "label": "Our Trial/Main Event",
+      "options": [
+        "The hamstringing of Allah’s she-camel",
+        "The worship of the golden calf",
+        "The breaking of the Sabbath",
+        "The building of a tower to the sky",
+        "The slaying of the prophets"
+      ],
+      "answer": "The hamstringing of Allah’s she-camel"
+    },
+    "location": {
+      "label": "Key Element in Our Story",
+      "options": [
+        "The she-camel of Allah",
+        "The staff of Musa",
+        "The ark of Nuh",
+        "The white hand of Musa",
+        "The bird of ¿Isa"
+      ],
+      "answer": "The she-camel of Allah"
+    },
+    "outcome": {
+      "label": "Our Outcome",
+      "options": [
+        "Destruction by a deafening blast",
+        "A rain of stones from the sky",
+        "A flood that covered the earth",
+        "A fierce wind that uprooted us",
+        "The earth swallowing us"
+      ],
+      "answer": "Destruction by a deafening blast"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

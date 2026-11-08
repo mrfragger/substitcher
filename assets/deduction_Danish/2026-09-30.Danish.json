@@ -1,0 +1,61 @@
+{
+  "title": "Den patient",
+  "intro": "For længe siden, i menneskets tidligste dage, stod to sjæle foran deres Skaber med ofre. Den ene blev accepteret, den anden ikke. Det, der fulgte, skulle blive den første store tragedie mellem søskende - én tålmodig handling og én bitter hævngerning. Kan du afsløre, hvem jeg er?",
+  "clues": [
+    "Jeg blev født i de allerførste dage af menneskets eksistens på jorden",
+    "Jeg var barn af det allerførste menneskepar, der nogensinde har vandret på denne jord",
+    "Jeg ofrede engang et offer af det bedste af min hjord for at behage min Skaber",
+    "Mit offer blev accepteret ovenfra, mens min søskendes offer blev afvist",
+    "Da jeg truede med døden, valgte jeg ikke at løfte min hånd mod min søskende",
+    "Jeg blev den første person i hele menneskets historie, der uretmæssigt blev dræbt af en anden"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Habil (Abel), Adams søn",
+        "Qabil (Kain), Adams søn",
+        "Adam, det første menneske",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), Adams søn"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Det første mord i menneskets historie",
+        "Den store oversvømmelse af Nuh",
+        "Ødelæggelsen af ​​Fir'awns hær",
+        "Ismails offer af Ibrahim",
+        "Kampen mod Jalut (Goliat)"
+      ],
+      "answer": "Det første mord i menneskets historie"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Et får ofret som et behageligt offer",
+        "En stor træark",
+        "En stav der forvandlede sig til en slange",
+        "En hærfugl, der bærer et kongeligt budskab",
+        "En flammende ildgrav"
+      ],
+      "answer": "Et får ofret som et behageligt offer"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev det første offer for mord i menneskets historie",
+        "Overlevede en stor oversvømmelse inde i et træskib",
+        "Levede i maven på en stor fisk",
+        "Herskede over jinn, mennesker og vinden",
+        "Vandrede i fyrre år i en vidtstrakt vildmark"
+      ],
+      "answer": "Blev det første offer for mord i menneskets historie"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

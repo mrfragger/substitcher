@@ -1,0 +1,61 @@
+{
+  "title": "El Suplicant del Santuari",
+  "intro": "Ind ei ore tranquille de la noit, un’anema devota la ciamava ‘l Plü Misericordios dedent dei mur sacr de un sit sacr. Ann de fed e pazienza inflexibil eren drèe a vess ricumpensà cunt un miracul che g’havaria purtà gioia e un eredità de profezia.",
+  "clues": [
+    "Ho passad i me dì e i me nott in devozion denter de un santuari sant, suplicand semper el me Signor.",
+    "Mi son diventà vecc, e la me dona l’era steril, e ancamò g’ho mai perdü la speranza in de la misericordia de Allah.",
+    "G’ho ricevü un fiœul, che se ciamava Yahya, che l’è diventà un profet e un faro de giüstizia.",
+    "Mi stess l’eri un profeta, mandà a guidar i Fiœi de Israel.",
+    "Mi l’eri discendent del Profeta Harun e g’ho servì cuma prete in del Tempi.",
+    "Me sun fidà la cura de Maryam, la mam de Isa, e g’ho vist sò miracul."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Zacaria",
+        "Profeta Yahya",
+        "Profeta Ilyas",
+        "El prufeta Ishaq",
+        "Profeta Ya'qub"
+      ],
+      "answer": "Profeta Zacaria"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "G’ha dà un fiœul in de la vegiaia",
+        "Salvà de un fœuch ardent",
+        "Salvà dal panza de un pess",
+        "Sopravissü a una grand inondaziun",
+        "Guarid de una grave malatia"
+      ],
+      "answer": "G’ha dà un fiœul in de la vegiaia"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El Mihrab (nicchia de oraziùn)",
+        "La Kaaba",
+        "El busc brüsant",
+        "L'Arca de l'Allianza",
+        "La Grotta dei Set Dormitori"
+      ],
+      "answer": "El Mihrab (nicchia de oraziùn)"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Concedü un fiœul giüst che l’è diventà un prufet",
+        "Distrutt de una viulenta tempesta",
+        "Anegato in del mar",
+        "Risparmià de vèss brüsà",
+        "Tornà a la sò gent dopu vèss stà salvà de un pess"
+      ],
+      "answer": "Concedü un fiœul giüst che l’è diventà un prufet"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

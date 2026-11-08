@@ -1,0 +1,61 @@
+{
+  "title": "El alma vigilante a orillas del río",
+  "intro": "A un joven se le encomendó una misión secreta: observar desde la distancia cómo el destino se desarrollaba en las aguas. Invisible e insospechada, esta figura desempeñaría un papel crucial en el cambio del curso de la historia de una nación.",
+  "clues": [
+    "Mi madre me encomendó una tarea que requería sigilo y vigilancia.",
+    "Mis ojos siguieron una pequeña cuna que flotaba a la deriva en la corriente, con el corazón apesadumbrado por la preocupación.",
+    "Cuando lo encontró una persona inesperada, me acerqué lleno de temor.",
+    "Vi su desesperación por encontrar a alguien que los cuidara y les ofrecí una solución sin revelarles la verdad.",
+    "Mi oportuna intervención devolvió la vocación de enfermera a quien más la necesitaba.",
+    "En los tribunales de los poderosos, dije: \"¿Quieren que les indique una familia que lo alimente y lo cuide con esmero?\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La hermana de Musa",
+        "La madre de Musa",
+        "La esposa del faraón",
+        "Una comadrona",
+        "La hija de Shu'aib"
+      ],
+      "answer": "La hermana de Musa"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El lanzamiento de un niño al río",
+        "La separación del mar",
+        "La quema del becerro",
+        "La construcción del arca",
+        "La plaga de langostas"
+      ],
+      "answer": "El lanzamiento de un niño al río"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El río",
+        "El desierto",
+        "La montaña",
+        "Cortesanos",
+        "El fuego"
+      ],
+      "answer": "El río"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ella reunió al niño con su madre.",
+        "Ella se salvó de los soldados del faraón.",
+        "Ella se convirtió en reina",
+        "Fue castigada por espiar.",
+        "Ella lideró a los israelitas"
+      ],
+      "answer": "Ella reunió al niño con su madre."
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

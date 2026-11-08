@@ -1,0 +1,61 @@
+{
+  "title": "Yanlış Ağırlıklara Karşı Ses",
+  "intro": "Terazinin eğik, ölçülerin kısaltıldığı bir diyarda, tüccarlar ve esnaf arasında sadık bir ruh yetişti. Bu kişi, tüm bir milletin dürüstlükten uzaklığına karşı tek başına durdu, onları adalete ve tek gerçek Tanrı'ya ibadete çağırdı. Mesaj açık ve çağrı haklı olmasına rağmen, insanlar dinlemeyi reddetti ve yıkıcı bir kaderle karşılaştı. Kur'an'daki bu yüce elçiyi tanıyabilir misiniz?",
+  "clues": [
+    "Geçim kaynakları ticaret ve alışverişe dayanan bir halka elçi olarak gönderildim.",
+    "Halkım, ülke genelinde ölçüleri eksik vermeleri ve tartıda hile yapmalarıyla tanınıyordu.",
+    "Ayrıca yoldaki yolcuları terörize ettiler ve yeryüzüne yolsuzluk yaydılar.",
+    "Onlara yalnızca Allah'a ibadet etmelerini ve başkalarıyla olan ilişkilerinde tamamen dürüst olmalarını öğütledim.",
+    "Mesajımı reddettiler ve beni ve benimle aynı görüşte olanları ülkeden kovmakla tehdit ettiler.",
+    "Allah rahmetiyle beni ve takipçilerimi kurtardı, zalimler ise yıkıcı bir azaba uğradılar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Şuayb",
+        "Peygamber Lut",
+        "Peygamber Hud",
+        "Peygamber Salih",
+        "Peygamber Nuh"
+      ],
+      "answer": "Peygamber Şuayb"
+    },
+    "trial": {
+      "label": "Halkımın Günahı",
+      "options": [
+        "Tartı ve ölçülerde hile yapmak",
+        "Gökyüzüne karşı yükselen görkemli bir kule inşa etmek",
+        "Bir kayadan dişi deve istemek",
+        "Kendilerine gönderilen peygamberleri öldürdüler.",
+        "Bebek kızları diri diri gömmek"
+      ],
+      "answer": "Tartı ve ölçülerde hile yapmak"
+    },
+    "location": {
+      "label": "Benim Halkım",
+      "options": [
+        "Madyan Halkı",
+        "Âd Halkı",
+        "Thamud Halkı",
+        "Firavun'un Halkı",
+        "Şabat Halkı"
+      ],
+      "answer": "Madyan Halkı"
+    },
+    "outcome": {
+      "label": "Onların Sonu",
+      "options": [
+        "Geceleyin kulaklarını tırmalayan bir çığlık onları sardı.",
+        "Büyük bir sel hepsini boğdu.",
+        "Şiddetli bir soğuk rüzgar onları mahvetti.",
+        "Pişmiş kilden taşlar üzerlerine yağdı.",
+        "Onlar taştan sütunlara dönüştürüldüler."
+      ],
+      "answer": "Geceleyin kulaklarını tırmalayan bir çığlık onları sardı."
+    }
+  },
+  "verseRef": "11:94",
+  "arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+  "verse": "And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone (11:94)"
+}

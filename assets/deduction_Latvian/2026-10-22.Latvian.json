@@ -1,0 +1,61 @@
+{
+  "title": "Pirmā pārkāpuma kopiena",
+  "intro": "Seno pilsētu zemē reiz zēla tauta. Viņus apmeklēja vēstnesis ar skaidru aicinājumu, tomēr viņi novērsās un devās pa ceļu, pa kuru neviens nekad nebija gājis. Viņu stāsts ir par nepakļaušanos, samaitātību un sodu, kas atstāja viņu dzimteni kā zīmi visiem, kas par to domā. Kas ir šīs dvēseles?",
+  "clues": [
+    "Mēs dzīvojām līdzenuma pilsētās, kur mūsu pravietis mūs aicināja uz taisnīgumu.",
+    "Mēs bijām pirmie, kas pieļāva nepieklājību, kādu neviens visā pasaulē nekad iepriekš nebija darījis.",
+    "Mēs savās pulcēšanās reizēs uzbrukām ceļotājiem un atklāti darījām ļaunumu.",
+    "Mēs noraidījām mums sūtīto vēstnesi un draudējām padzīt viņu no mūsu zemes.",
+    "Mēs steidzāmies uz viņa māju, pieprasot, lai viņš mums izdod savus viesus.",
+    "Mūsu sods bija akmeņu lietus, un mūsu pilsēta tika apgriezta kājām gaisā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Lutas iedzīvotāji",
+        "Nuhas iedzīvotāji",
+        "Reklāmas cilvēki",
+        "Tamudas iedzīvotāji",
+        "Madjanas iedzīvotāji"
+      ],
+      "answer": "Lutas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Izdarīja pirmo sodomijas aktu",
+        "Pielūdza elkus",
+        "Krāpušies tirdzniecībā",
+        "Nogalināja viņu pravieti",
+        "Nepaklausīja saviem vecākiem"
+      ],
+      "answer": "Izdarīja pirmo sodomijas aktu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Līdzenuma pilsēta",
+        "Akas pilsēta",
+        "Grāvja pilsēta",
+        "Ziloņu pilsēta",
+        "Dārza pilsēta"
+      ],
+      "answer": "Līdzenuma pilsēta"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Līja ar akmeņiem un apgāza",
+        "Noslīcis plūdos",
+        "Iznīcinājis spēcīgs vējš",
+        "Zeme norīja",
+        "Skaļa sprādziena pārņemts"
+      ],
+      "answer": "Līja ar akmeņiem un apgāza"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

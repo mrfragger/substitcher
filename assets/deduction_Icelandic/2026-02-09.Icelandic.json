@@ -1,0 +1,60 @@
+{
+  "title": "Réttarhöldin undir öldunum",
+  "intro": "Spámaður, þungur af verkefni sínu, tók ákvörðun sem leiddi hann langt frá fólki sínu og inn í óvænta raun. Ferðalag hans tók dramatíska stefnu og reyndi á trú hans og þolinmæði á djúpstæðan hátt. Geturðu ályktað út frá vísbendingunum sem gefnar eru um þessa óvenjulegu atburði?",
+  "clues": [
+    "Spámaður var sendur til fólks en fór í flýti, gremjulegur yfir höfnun þeirra.",
+    "Ferð hans leiddi hann til sjávar þar sem hann steig um borð í þunghlaðið skip í leit að siglingu.",
+    "Mikill stormur skall á sem ógnaði skipinu og ákveðið var að varpa einum manni fyrir borð til að létta álagið, ákveðið með hlutkesti.",
+    "Hann var gleyptur af djúphafsveru, kraftaverki sem guðlegur vilji fyrirskipaði.",
+    "Innan í kviði verunnar kallaði hann til Drottins síns, iðraðist og vegsamaði Allah í myrkrinu.",
+    "Eftir ákafa bæn var hann kastað á hrjóstruga strönd, veikburða en lifandi, og síðar sneri hann aftur og komst að því að fólk hans hafði loksins trúað."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Spámaður/persóna",
+      "options": [
+        "Spámaðurinn Nuh",
+        "Spámaðurinn Lút",
+        "Spámaðurinn Músa",
+        "Spámaðurinn Yunus",
+        "Spámaðurinn Jósef"
+      ],
+      "answer": "Spámaðurinn Yunus"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Flóðið í Núh",
+        "Eyðilegging Sódómu",
+        "Ferðalagið í kviði hins mikla fisks",
+        "Klofingin í hafinu",
+        "Opinberunin um brennandi runna"
+      ],
+      "answer": "Ferðalagið í kviði hins mikla fisks"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Örkina",
+        "Sínaífjall",
+        "Starfsfólk Músa",
+        "Stóri fiskurinn",
+        "Brunnur Jósúfs"
+      ],
+      "answer": "Stóri fiskurinn"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Nýr sáttmáli við mannkynið",
+        "Undursamleg fæðing fyrir fólk hans",
+        "Ríki stofnað fyrir ætt hans",
+        "Afturkoma til fólks síns sem þá trúði",
+        "Sigur yfir harðstjóra"
+      ],
+      "answer": "Afturkoma til fólks síns sem þá trúði"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

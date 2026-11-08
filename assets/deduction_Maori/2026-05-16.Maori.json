@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaihanga Pūmau o te Whakaoranga",
+  "intro": "He tangata manawanui nui, he tangata whakapono pumau, i whakatapua e ia ngā tau maha ki tētahi misioni atua, me te tūtaki tonu ki te whakahawea me te whakakorekore. He tohu kaha tā rātou kōrero mō te whakapono ahakoa te kore whakapono nui, ā, i mutu ki tētahi huihuinga nui i huri i te ao.",
+  "clues": [
+    "I whakatapua e au tētahi wā roa rawa atu o tōku ao ki te karanga i tōku iwi ki te karakia ki a Allah.",
+    "I tawai mai tōku iwi ki ahau, i whakapae mai mō te hē nui me te porangi.",
+    "I whakahaua ahau kia hanga i tētahi mea rerekē te āhua mō tōku hapori kāore i te mau whenua.",
+    "He tokoiti noa iho i whakapono, ā, i uru mai ki ahau me tōku whānau i tēnei hanganga ahurei.",
+    "I amohia e au ngā takirua o ia mea ora ki runga i te kaipuke, e ai ki ngā whakahau a Allah.",
+    "I taupokina te whenua e te waipuke nui, ā, ko te hunga anake i ora i ahau i roto i taku waka, ko taku tama ia i mate i tōna whakaponokore."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Salih",
+        "Poropiti a Hūta",
+        "Poropiti a Noa",
+        "Poropiti a Rawiri",
+        "Poropiti a Sulaimana"
+      ],
+      "answer": "Poropiti a Noa"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakangaromanga e te rū whenua",
+        "Te wehenga o te moana",
+        "Te waipuke nui",
+        "Te ahi a Nimirota",
+        "Te mate urutā o ngā poroka"
+      ],
+      "answer": "Te waipuke nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te rakau e mura ana",
+        "Te āaka",
+        "Te puna wai",
+        "Te kuao kau koura",
+        "Maunga o Tur"
+      ],
+      "answer": "Te āaka"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whiwhi i te rangatiratanga",
+        "I hurihia tōna iwi hei makimaki",
+        "I whakaorangia tōna iwi e te merekara",
+        "I toremi tōna iwi",
+        "I pāngia tōna iwi e te whatitiri"
+      ],
+      "answer": "I toremi tōna iwi"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

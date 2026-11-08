@@ -1,0 +1,61 @@
+{
+  "title": "Dagen för den sista uppvisningen",
+  "intro": "En grupp skickliga artister kallade till en storslagen maktdemonstration och ställdes inför en oväntad sanning som skulle förändra deras liv för alltid.",
+  "clues": [
+    "Vi var kända för vårt hantverk, mästare på illusioner och knep.",
+    "Vi kallades av härskaren för att konfrontera en utmanare som svängde med en enkel stav.",
+    "När vi såg sanningen föll vi ner i utmattning och förklarade vår tro på världarnas Herre.",
+    "Tyrannen hotade oss med stränga straff, men vi tvekade inte.",
+    "Vi var bland de första som trodde på budskapet efter att ha bevittnat det tydliga tecknet.",
+    "Vi led martyrdöden för vår tro, men vi kommer att vara de första att komma in i paradiset med de rättfärdiga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Faraos magiker",
+        "Israeliterna",
+        "Folket i Thamud",
+        "Jesajas lärjungar",
+        "Abrahas armé"
+      ],
+      "answer": "Faraos magiker"
+    },
+    "trial": {
+      "label": "Test / Evenemang",
+      "options": [
+        "Tävling med profeten Musa",
+        "Bygga tornet",
+        "Den stora översvämningen",
+        "Gräshoppornas pest",
+        "Det splittrande havet"
+      ],
+      "answer": "Tävling med profeten Musa"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Festivaldagen",
+        "Tuwadalen",
+        "Staden Iram",
+        "Evighetens trädgård",
+        "Arafats slätt"
+      ],
+      "answer": "Festivaldagen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De korsfästes offentligt",
+        "De drunknade i havet",
+        "De blev profetens efterföljare",
+        "De skickades i exil",
+        "De förtärdes av eld"
+      ],
+      "answer": "De korsfästes offentligt"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

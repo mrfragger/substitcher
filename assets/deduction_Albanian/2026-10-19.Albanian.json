@@ -1,0 +1,61 @@
+{
+  "title": "Të dëbuarit e qiejve",
+  "intro": "Një qenie misterioze qëndron në udhëkryqin e krijimit dhe refuzimit. Historia e tyre është një histori arrogance e pashoqe dhe sfide përfundimtare ndaj një urdhri hyjnor. Zgjedhja e tyre jehon nëpër çdo brez, duke u bërë një provë për çdo shpirt të lindur në këtë botë. A mund ta identifikoni këtë kundërshtar të përjetshëm?",
+  "clues": [
+    "Isha i pranishëm në një ngjarje me rëndësi kozmike, kur një qenie e re u formua nga balta dhe iu dha jetë nga Fryma e të Mëshirshmit.",
+    "Unë vetë u solla në ekzistencë nga një element i vetëm flakërues, ndryshe nga ai që ishte prej pluhuri.",
+    "Më u dha një urdhër që e konsiderova poshtë stacionit tim.",
+    "Krenaria më u fry brenda dhe refuzova me vendosmëri t’i bindesha atij urdhri.",
+    "Më u dha një vonesë deri në një Ditë të caktuar, në mënyrë që të ndiqja qëllimin tim të deklaruar për të mashtruar të tjerët.",
+    "Unë jam armiku i deklaruar i të gjithë atyre që ecin në tokë, duke pëshpëritur mashtrime dhe duke i joshur ata larg rrugës së drejtë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Iblisi (Satani)",
+        "Faraoni (Faraoni)",
+        "Haman",
+        "Ebu Xhehl",
+        "Samiri"
+      ],
+      "answer": "Iblisi (Satani)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Refuzoi të përkulej para Adamit",
+        "Pretendoi hyjninë në mënyrë të rreme",
+        "Falsifikoi një viç të artë për adhurim",
+        "E vrau vëllanë e tij nga zilia",
+        "Udhëhoqi opozitën politeiste në Mekë"
+      ],
+      "answer": "Refuzoi të përkulej para Adamit"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Parajsa (Xheneti)",
+        "Pallati i Faraonit në Egjipt",
+        "Lugina e shenjtë e Tuwas",
+        "Thellësitë e detit",
+        "Kopshti i Shebës"
+      ],
+      "answer": "Parajsa (Xheneti)"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I është dhënë afat deri në Ditën e Gjykimit",
+        "U mbyt bashkë me ushtrinë në det",
+        "Gëlltitur nga toka së bashku me thesaret",
+        "Të transformuar në majmunë për shkelje të Sabatit",
+        "I djegur nga gurët e hedhur nga qielli"
+      ],
+      "answer": "I është dhënë afat deri në Ditën e Gjykimit"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

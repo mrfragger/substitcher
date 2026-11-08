@@ -1,0 +1,61 @@
+{
+  "title": "Kati ya Dunia na Anga",
+  "intro": "Nafsi ya ajabu inakungoja katika kurasa takatifu za historia ya kimungu, ikiwa na ishara na maajabu ambayo bado yanarudiwa katika vizazi vingi. Unapofuata njia ya vidokezo, utasafiri kupitia hadithi iliyo na alama za miujiza - kuanzia mwanzo wa kimiujiza hadi kupaa zaidi ya anga. Je, unaweza kumtambua mtumishi huyu aliyebarikiwa kabla ya vidokezo vya mwisho?",
+  "clues": [
+    "Nilitumwa kama mjumbe kwa Wana wa Israeli na habari njema za rehema na mwanga.",
+    "Kuzaliwa kwangu kulikuwa ishara ya muujiza — nilikuja ulimwenguni bila baba, kwa amri ya Mwenyezi.",
+    "Nilizungumza nikiwa bado mtoto mchanga, nikitetea heshima ya mama yangu dhidi ya shutuma za watu wake.",
+    "Kwa idhini ya Mwenyezi Mungu, niliwaumba ndege kwa udongo na kuwapulizia uhai — waliruka mbele ya macho ya wale waliotazama.",
+    "Niliwaponya wale waliozaliwa vipofu, niliwaponya wenye ukoma, na hata niliwafufua wafu — lakini kila muujiza ulikuwa kwa idhini ya Mwenyezi Mungu, si yangu mwenyewe.",
+    "Maadui zangu walipopanga njama ya kuniangamiza, Mwenyezi Mungu aliniinua mbinguni na akaahidi kurudi kwangu kabla ya Siku ya Hukumu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Isa (Yesu)",
+        "Nabii Musa (Musa)",
+        "Nabii Ibrahim (Abrahamu)",
+        "Mtume Muhammad",
+        "Nabii Yusufu (Yusufu)"
+      ],
+      "answer": "Nabii Isa (Yesu)"
+    },
+    "trial": {
+      "label": "Wakati wa Kufafanua",
+      "options": [
+        "Niliinuliwa mbinguni",
+        "Nilitupwa kwenye moto mkali",
+        "Nilikabiliana na jeshi kubwa la Farao",
+        "Nilimezwa na nyangumi mkubwa",
+        "Nilijenga safina juu ya mlima"
+      ],
+      "answer": "Niliinuliwa mbinguni"
+    },
+    "location": {
+      "label": "Ishara Takatifu Iliyofanywa",
+      "options": [
+        "Niliumba ndege kutoka kwa udongo",
+        "Niligeuza fimbo kuwa nyoka",
+        "Niligawanya mwezi vipande viwili",
+        "Niliamuru upepo na majini",
+        "Nilimtoa ngamia jike kutoka kwenye mwamba"
+      ],
+      "answer": "Niliumba ndege kutoka kwa udongo"
+    },
+    "outcome": {
+      "label": "Kilichonipata Mimi",
+      "options": [
+        "Aliinuliwa mbinguni; aliahidi kurudi",
+        "Akawa mtawala mkuu wa himaya",
+        "Waliwaongoza watu wangu kutoka utumwani",
+        "Alipewa utajiri wa kidunia usio na kifani",
+        "Niliungana tena na familia yangu baada ya kutengana kwa muda mrefu"
+      ],
+      "answer": "Aliinuliwa mbinguni; aliahidi kurudi"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

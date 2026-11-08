@@ -1,0 +1,61 @@
+{
+  "title": "A tagadás a bőség közepette",
+  "intro": "Egy olyan nép között találod magad, amelynek piacterein pezseg a kereskedelem, mégis a mérleg nyelve becstelenül billen. Egy hírvivő érkezett hozzájuk világos figyelmeztetésekkel, de ők nevetnek és elfordulnak, bízva jólétükben. Az ég kezd elsötétülni, de ők az eső áldásának tekintik. Kik ezek az emberek?",
+  "clues": [
+    "Virágzott a kereskedelem és a bőség földjein, mégis érzéketlenné vált a szívünk.",
+    "Egy küldött jött hozzánk Urunk jeleivel, de mi gúnyt űztünk a figyelmeztetéseiből.",
+    "Ismertek voltunk a kereskedelmünkről, de szűken bántunk a mértékkel és becsaptuk az embereket.",
+    "Sűrű fák és buja növényzet között éltünk, de az áldásainkat magától értetődőnek vettük.",
+    "Amikor egy sötét felhő közeledett, örültünk, azt gondolva, hogy esőt hoz kiszáradt földjeinkre.",
+    "Ehelyett a felhő perzselő büntetést szabadított el, és az árnyék napjának gyötrelme ragadott el minket."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Ashab al-Aykah (Az erdő társai)",
+        "Thamud népe",
+        "'Ad emberei",
+        "Lut népe",
+        "Nuh népe"
+      ],
+      "answer": "Ashab al-Aykah (Az erdő társai)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Elutasították küldöttüket, és csalást követtek el a kereskedelemben",
+        "Aranyborjút imádtak, és félrevezették őket",
+        "Szodómiát gyakoroltak és megtámadták az utazókat",
+        "Magas tornyokat építettek és kihívást intéztek Istenhez",
+        "Nem voltak hajlandók megosztani a vizet, és bántalmaztak egy nőstény tevét"
+      ],
+      "answer": "Elutasították küldöttüket, és csalást követtek el a kereskedelemben"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Sűrű erdő vagy bozót",
+        "Egy hegy, amelybe lakóházakat vájtak",
+        "Egy város a tengerparton",
+        "Egy sivatagi völgy kutakkal",
+        "Termékeny kert sok gyümölccsel"
+      ],
+      "answer": "Sűrű erdő vagy bozót"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Egy tűz árnyékfelhője pusztította el",
+        "Egy nagy árvíz fulladt el",
+        "Elnyelte egy földrengés",
+        "Heves szél sújtotta",
+        "Kővé változott"
+      ],
+      "answer": "Egy tűz árnyékfelhője pusztította el"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

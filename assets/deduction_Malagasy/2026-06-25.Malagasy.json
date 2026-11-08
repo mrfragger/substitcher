@@ -1,0 +1,61 @@
+{
+  "title": "Ireo mpihaino avy amin'ny tsy hita",
+  "intro": "Tao ambadiky ny voaly amin'izao tontolo izao hita maso, nisy fivoriana miafina nivory tao anaty haizina, voasarika ho amin'ny feo iray izay nanohitra izay rehetra fantany. Nirenireny nandritra ny taona maro izy ireo tsy nahazo tari-dalana marina, mandra-pahatongan'ny feo iray niditra tao amin'ny fahanginan'ny fanjakany tsy hita maso ary nanetsika zavatra lalina tao anatiny. Anio alina, asaina ianao handroso mihoatra ny aloka ary hamantatra ny maha-izy azy ity vondrona mistery ity, izay ny fihaonany tamin'ny tenin'Andriamanitra dia nitarika azy ireo hiverina any amin'ny olony amin'ny maha-mpampitandrina ny fahamarinana izay tsy azo ferana.",
+  "clues": [
+    "Zavaboary fahiny isika, efa nisy ela be talohan'ny firenena maro izay efa novakinareo, nefa mahalana vao misy miresaka momba antsika ao amin'ny anganon'olombelona.",
+    "Tsy tahaka ny anareo ny toetranay, voatenona avy amin'ny singa tsy hita maso, ary manana hery izay manohitra ny mahazatra izahay.",
+    "Nandritra ny taona maro, dia nirenireny tsy nisy tari-dalana marina izahay, mandra-pahatongan'ny feo iray tonga taminay izay nanohina zavatra lalina tao anatinay.",
+    "Sendra nandre fitanisana mbola tsy nisy toa azy izahay, teny izay nitondra lanja mihoatra noho ny kabary rehetra.",
+    "Nanatona mangingina izahay, nandidy ny anay mba hangina, ary rehefa nifarana ireo andininy ireo dia tsy afaka nijanona intsony izahay.",
+    "Niverina tany amin'ny vahoakanay izahay ary nanambara hoe: 'Ry vahoakanay, efa nandre Boky nambara taorian'i Mosesy izahay, izay manamafy izay teo alohany, ary mitarika ho amin'ny fahamarinana.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny Hawariyyun (Mpianatr’Isa)",
+        "Ireo Jinn izay nino rehefa avy nandre ny CORAN",
+        "Ireo mpiara-dia amin'ny lava-bato",
+        "Ireo anjelin'ny lanitra ambany indrindra",
+        "Ny vahoakan'i Farao izay nanaraka ny lalany"
+      ],
+      "answer": "Ireo Jinn izay nino rehefa avy nandre ny CORAN"
+    },
+    "trial": {
+      "label": "Fitsapana / Hetsika",
+      "options": [
+        "Noroahina isika satria tsy nety niankohoka teo anoloan'ny zavaboary vao noforonina",
+        "Nofehezina tao anaty lava-bato nandritra ny sivy amby telonjato taona izahay",
+        "Nasaina niampita ranomasina izay nizara roa teo anoloantsika isika",
+        "Nirahina tany amin'ny tanin'ny majika izahay mba hianatra majika",
+        "Nihaino tsianjery mangingina izahay ary niova ho amin'izany"
+      ],
+      "answer": "Nihaino tsianjery mangingina izahay ary niova ho amin'izany"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ombilahy kely volamena vita tamin'ny haingon'ny vahoaka iray",
+        "Lava-bato izay naharitra torimaso nandritra ny taranaka maro",
+        "Anjely roa tany Babylona izay nampianatra fahalalana voarara",
+        "Boky nambara taorian'i Mosesy, izay manamafy ny Torah",
+        "Kirihitra mirehitra eo an-tampon'ny tendrombohitra masina"
+      ],
+      "answer": "Boky nambara taorian'i Mosesy, izay manamafy ny Torah"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voaozona isika mandra-pahatongan'ny Andro Fitsarana",
+        "Nitsangana nanohitra mpitondra mahery izahay ary nanangana fefy teo amin'ny tany",
+        "Niova ho rajako sy kisoa izahay",
+        "Niverina tany amin'ny vahoakanay izahay ho mpampitandrina, hanambara ny finoana",
+        "Nilentika tao an-dranomasina niaraka tamin'ny mpitarika anay izahay"
+      ],
+      "answer": "Niverina tany amin'ny vahoakanay izahay ho mpampitandrina, hanambara ny finoana"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "lêgerîna stêrkî ya ji bo piştrastbûnê",
+  "intro": "Wêneyekî ku di bin ezmanê şevê yê fireh de radiweste, li roniyên geş temaşe dike û dû re winda dibe dema ku li tiştê ku bi rastî hêjayî îbadetê ye digere. Li dora we, wêneyên bêdeng ên neqişandî pesnê û pêşkêşan distînin, lê belê aqilê zelal hêza wan dipirse. Dengekî bêtirs li ber e ku kevneşopiya mîratgirtî biceribîne û nîşanî Afirînerê asîman û erdê bide.",
+  "clues": [
+    "Min li stêrk, heyv û rojê nihêrî, û min fikirî ku ew nikarin bibin Xudanê min ji ber ku ew diçin ava û winda dibin.",
+    "Min bi eşkereyî ji tiştên ku gelê min ji bilî Xwedê dihebandin înkar kir û gazî wan kir ku tenê ji Afirîner re bihebandin.",
+    "Min bi hukumdarekî xweperest re nîqaş kir ku îdia dikir ku ew jiyan û mirinê dide, û min bi behskirina Xwedayê ku rojê ji rojhilat tîne bersiv da.",
+    "Min pût li wan xistin û ew şikandin, tenê ya herî mezin di nav wan de ma, da ku mirov bikaribin vegerin wir.",
+    "Gelê min ez girtim û mehkûm kirim, ji min re gotin avahiyek ava bike û min bavêje nav agirê geş.",
+    "Dema ku Xwedê agir ferman da ku ji bo min sarbûn û ewlehî be, ez xilas bûm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îbrahîm (Birahîm)",
+        "Pêxember Yehya (Yûhenna)",
+        "Pêxember El-Yesa (El-Îleyşa)",
+        "Samirî",
+        "Nemrûd (Nemrûd)"
+      ],
+      "answer": "Pêxember Îbrahîm (Birahîm)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Li dijî pûtperestiyê derket û li ser wateya laşên ezmanî nîqaş kir.",
+        "Piştî ku bi hêrs çû, ji aliyê masiyek mezin ve hat daqurtandin",
+        "Şopînerên xwe di nav deryayekê re ku ji hêla Xwedê ve hatibû veqetandin, rêberî kir",
+        "Bêyî tama mirinê zindî ber bi ezmanan ve hate rakirin",
+        "Bi salan bi hevalên xwe re di şikeftekê de raza"
+      ],
+      "answer": "Li dijî pûtperestiyê derket û li ser wateya laşên ezmanî nîqaş kir."
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Agirekî geş ku ji hêla Xwedê ve sar û ewle bûye",
+        "Keştiya ku bawermendan di nav tofanê re derbas kir",
+        "Dara ku bû mar",
+        "Sifre ji ezmanan belav bû",
+        "Deve wek nîşanek hat şandin"
+      ],
+      "answer": "Agirekî geş ku ji hêla Xwedê ve sar û ewle bûye"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ji agir parastî û nifşên rastdar dayîn",
+        "Di lehiyek mezin de bi înkarkeran re xeniqîm",
+        "Ji ber binpêkirina roja Şemiyê hat guhertin",
+        "Ji aliyê çûkên ku kevirên axê hildigirtin ve hatin wêrankirin",
+        "Erdê bi xezîneyan daqurtand"
+      ],
+      "answer": "Ji agir parastî û nifşên rastdar dayîn"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vėjo ir liepsnos viešpatavimas",
+  "intro": "Įsivaizduokite karalystę, kurioje pats vėjas paklustų vienam valdovui, kur mažiausių būtybių balsai turėtų svorio, o paprastoms akims nematomos jėgos būtų kruopščiai prižiūrimos. Ši figūra paveldėjo nepaprastą karalystę iš mylimo pirmtako, valdančio stichijas ir džinus. Tačiau didelė valdžia atėjo su dideliais išbandymais – ir paskutinė akimirka atskleistų kai ką stulbinančio apie gyvenimo ir pačios mirties prigimtį.",
+  "clues": [
+    "Paveldėjau didžiulę karalystę iš mylimo tėvo, kuris taip pat buvo pranašas ir Alacho tarnas.",
+    "Alachas suteikė man valdžią vėjui, per vieną rytą siųsdamas jį mėnesio kelionei.",
+    "Net mažiausi padarai kalbėdavo apie mano požiūrį, o aš stabtelėdavau stebėtis jų sąmoningumu.",
+    "Aš vadovavau didžiulei džinų, žmonių ir paukščių armijai, kurie visi buvo išsidėstę tvarkingomis eilėmis priešais mane.",
+    "Tolimas valdovas atėjo manęs išbandyti sunkiu iššūkiu, ir aš pasirūpinau, kad to valdovo sostas būtų atgabentas į mano dvarą dar nespėjus svečiui pakilti nuo kėdės.",
+    "Aš likau stovėti, atsiremdamas į lazdą, kol mažas žemės padaras ją pergraužė – ir tik tada aplinkiniai suprato, kad išėjau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Suleimanas (Saliamonas)",
+        "Pranašas Dawudas (Dovydas)",
+        "Pranašas Isa (Jėzus)",
+        "Pranašas Muhamedas ﷺ",
+        "Pranašas Mozė (Mozė)"
+      ],
+      "answer": "Pranašas Suleimanas (Saliamonas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Tolimos karalienės sosto atnešimas antgamtinėmis priemonėmis",
+        "Vaikystėje panardintas į gilų šulinį",
+        "Susidūrimas su tirono magais stebuklingais ženklais",
+        "Kalbėjimas nuo lopšio ginant motinos garbę",
+        "Paskutinio apreikšto Rašto gavimas ant šventojo kalno"
+      ],
+      "answer": "Tolimos karalienės sosto atnešimas antgamtinėmis priemonėmis"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Medinė lazda, kurią pergraužė termitas",
+        "Didžioji arka, pastatyta atlaikyti pasaulinį tvaną",
+        "Strypas, kuris prieš tironą virto gyvate",
+        "Audinio gabalas, naudojamas akliesiems gydyti",
+        "Šventa ola, kurioje pirmą kartą buvo gautas apreiškimas"
+      ],
+      "answer": "Medinė lazda, kurią pergraužė termitas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Kilnus atvykęs valdovas priėmė tikėjimą pamatęs ženklus",
+        "Didelis tvanas sunaikino visus, išskyrus ištikimuosius, buvusius arkoje",
+        "Faraonas ir jo armija žuvo jūroje",
+        "Teisus draugas buvo pakeltas į dangų",
+        "Tironas karalius ir jo miestas buvo nuversti ir sunaikinti"
+      ],
+      "answer": "Kilnus atvykęs valdovas priėmė tikėjimą pamatęs ženklus"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

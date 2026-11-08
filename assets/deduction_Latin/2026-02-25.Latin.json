@@ -1,0 +1,61 @@
+{
+  "title": "Experimentum Rupis Sterilis",
+  "intro": "Communitas, perita et superba, hereditatem suam in ipsos montes sculpsit. Sed cum signum manifestum eis missum esset, fidei et continentiae experimentum, arrogantia eos ad viam sine reditu duxit. Potesne hunc gregem et consequentiam contumeliae eorum agnoscere?",
+  "clues": [
+    "Magistri lapidum eramus, domos magnificas directe in latera montium sculpentes.",
+    "Nuntius quidam e gente nostra ad nos venit, vocans nos ut unum Deum verum colamus.",
+    "Signum postulavimus ad verba eius probanda, et creatura unica nobis ad experimentum prolata est.",
+    "Simplex mandatum nobis datum est: fontem aquae nostrae cum hac bestia communicare, eamque die suo constituto bibere permittere.",
+    "Arrogantia nostra fretus, pauci ex nobis conspiraverunt et monitionem sprevimus, bestiam quae nobis signum esse destinata erat interficientes.",
+    "Tres dies ante fatum nostrum dati sunt, deinde ingens flatus nos in domibus nostris corripuit, exanimes et eversos relinquens."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Populus 'Ad",
+        "Populus Madyani",
+        "Populus Thamudensis",
+        "Sabae populus",
+        "Populus Lut"
+      ],
+      "answer": "Populus Thamudensis"
+    },
+    "trial": {
+      "label": "Quod erat nostrum examen primum?",
+      "options": [
+        "Arcam aedificans ad diluvium superandum",
+        "Resistendo cupiditati piscandi Sabbato",
+        "Desistendo a fraudulentis negotiis",
+        "Camelam mirabilem protegens",
+        "Famem septem annorum tolerans"
+      ],
+      "answer": "Camelam mirabilem protegens"
+    },
+    "location": {
+      "label": "Quod erat elementum centrale fabulae nostrae?",
+      "options": [
+        "Vitulus Aureus",
+        "Camelus",
+        "Baculus Prophetae Musae",
+        "Magna Moles Maribensis",
+        "Mensa de caelo parata"
+      ],
+      "answer": "Camelus"
+    },
+    "outcome": {
+      "label": "Quod Fuit Nostrum Ultimum Fatum?",
+      "options": [
+        "In magno diluvio submersi",
+        "In simias et porcos conversi",
+        "Vento vehementi oppressus",
+        "Dispersa aggeris ruptura",
+        "Magna explosione/terrae motu deleta"
+      ],
+      "answer": "Magna explosione/terrae motu deleta"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

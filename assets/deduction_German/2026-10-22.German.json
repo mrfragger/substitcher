@@ -1,0 +1,61 @@
+{
+  "title": "Die Gemeinschaft der ersten Übertretung",
+  "intro": "Im Land der alten Städte blühte einst ein Volk. Ein Bote mit einer klaren Botschaft besuchte sie, doch sie wandten sich ab und beschritten einen Weg, den noch nie ein Mensch gegangen war. Ihre Geschichte ist eine Geschichte von Trotz, Verderbtheit und einer Strafe, die ihr Heimatland verließ und allen, die darüber nachdenken, als Mahnmal dient. Wer sind diese Seelen?",
+  "clues": [
+    "Wir lebten in Städten der Ebene, wo unser Prophet uns zur Gerechtigkeit aufrief.",
+    "Wir waren die Ersten, die eine Unanständigkeit begingen, die noch nie jemand auf der ganzen Welt zuvor begangen hatte.",
+    "Wir überfielen Reisende und begingen in unseren Versammlungen offen Gräueltaten.",
+    "Wir wiesen den zu uns gesandten Boten zurück und drohten, ihn aus unserem Land zu vertreiben.",
+    "Wir eilten zu seinem Haus und forderten, dass er uns seine Gäste ausliefert.",
+    "Unsere Strafe war ein Steinhagel, und unsere Stadt wurde auf den Kopf gestellt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Volk von Lut",
+        "Volk von Nuh",
+        "Leute von 'Ad",
+        "Volk der Thamud",
+        "Menschen von Madyan"
+      ],
+      "answer": "Volk von Lut"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "beging den ersten Akt der Sodomie",
+        "Verehrte Götzen",
+        "Beim Handel betrogen",
+        "Sie töteten ihren Propheten",
+        "Sie haben ihren Eltern nicht gehorcht"
+      ],
+      "answer": "beging den ersten Akt der Sodomie"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Stadt der Ebene",
+        "Die Stadt des Brunnens",
+        "Die Stadt des Grabens",
+        "Die Stadt des Elefanten",
+        "Die Stadt des Gartens"
+      ],
+      "answer": "Die Stadt der Ebene"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Mit Steinen beworfen und umgestürzt",
+        "Von einer Flut überflutet",
+        "Von einem heftigen Wind zerstört",
+        "Von der Erde verschluckt",
+        "Von einem lauten Knall getroffen"
+      ],
+      "answer": "Mit Steinen beworfen und umgestürzt"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

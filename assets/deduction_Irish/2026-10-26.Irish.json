@@ -1,0 +1,61 @@
+{
+  "title": "An Cogar sa Ghaoth",
+  "intro": "Samhlaigh ríocht ina bhfuil an rud dofheicthe agus an rud infheicthe fite fuaite, agus seasann tú os comhair figiúr i gcroílár ríocht nach bhfuil a leithéid ann in aon cheann eile. Tá eolas thar an ngnáth-shroicheadh ​​ag an anam seo, ag rialú fórsaí nach bhféadfadh ach daoine eile a shamhlú. Ach is féidir fiú an duine is cumhachtaí a umhlú le créatúr beag bídeach, agus féadfaidh an fhírinne fanacht i bhfolach go dtí an t-am ceaptha. Cé hé an figiúr seo a bhfuil macalla dá oidhreacht trí na haoiseanna?",
+  "clues": [
+    "Tugadh ríocht dom nach mbeadh ag aon duine i mo dhiaidh.",
+    "Fuair ​​mé eolas agus eagna mar oidhreacht ó thuismitheoir grámhar.",
+    "Bhí an ghaoth faoi mo cheannas, ag taisteal de réir m'ordaithe cibé áit a theastaigh uaim.",
+    "Thuig mé cainte na n-éan, agus d’fhóin siad i mo arm.",
+    "Fuair ​​mé scéala ó éan beag faoi bhanríon a bhí ag adhradh na gréine.",
+    "D’fhan mo bhás i bhfolach go dtí gur shlog créatúr den talamh mo bhata, agus ansin amháin a thuig na jinn nach raibh a fhios acu an rud dofheicthe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Sulayman (Solamh)",
+        "An Fáidh Dawud (Dáiví)",
+        "An Fáidh Músa (Maois)",
+        "An Fáidh Íosa (Íosa)",
+        "An Fáidh Nuh (Nói)"
+      ],
+      "answer": "An Fáidh Sulayman (Solamh)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Cuairt Bhanríon Sheba",
+        "Á chaitheamh isteach sa tine",
+        "Ag scaradh na farraige",
+        "Ag tógáil áirce",
+        "Á shlogadh ag míol mór"
+      ],
+      "answer": "Cuairt Bhanríon Sheba"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An fhoireann a d'ith créatúr an domhain",
+        "An bhata a d’iompaigh ina nathair",
+        "An camall baineann",
+        "An áirc",
+        "An míol mór"
+      ],
+      "answer": "An fhoireann a d'ith créatúr an domhain"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Cealaíodh a bhás ón jinn go dtí gur ithfí a bhachall.",
+        "Tógadh beo suas go neamh é",
+        "Sábháladh é ón tine le hordú Allah",
+        "Tugadh an Torah dó",
+        "Sábháladh é ón míol mór"
+      ],
+      "answer": "Cealaíodh a bhás ón jinn go dtí gur ithfí a bhachall."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

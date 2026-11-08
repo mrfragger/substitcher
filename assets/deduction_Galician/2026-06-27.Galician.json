@@ -1,0 +1,61 @@
+{
+  "title": "A Sagrada Ausencia",
+  "intro": "Máis alá das dunas do tempo, reside unha historia de devoción inquebrantable e unha confianza tan pesada que a alma que a levaba podería terse quebrado. Nun momento no que a xente se volveu cara á loucura e ao ouro, unha figura mantívose firme, chamándoos para que volvesen, implorando paciencia e soportando o peso dunha promesa sagrada. Esta é a historia de alguén que foi escollido como axudante, visir e gardián da fe durante unha ausencia sagrada. Podes descubrir a identidade desta alma firme?",
+  "clues": [
+    "Comparto o sangue dun gran profeta que foi escollido para falar con Alá directamente sobre un monte sagrado.",
+    "Unha vez, o meu irmán imploroulle a Alá que o axudase a falarlle con claridade a un gran opresor.",
+    "Fun escollido por Alá para estar ao carón do meu irmán como axudante e visir.",
+    "Xuntos enfrontámonos a un gobernante tiránico que esixía ser chamado o máis alto dos deuses.",
+    "Mentres o meu irmán comuñába con Alá na montaña, o noso pobo fixo para si un ídolo co seu ouro.",
+    "Son o irmán de Moisés, nomeado por Alá como o seu visir, mencionado polo seu nome no Corán."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Harún (Aarón)",
+        "Profeta Moisés",
+        "Profeta Dawud",
+        "Profeta Yaqub",
+        "Profeta Ishaq"
+      ],
+      "answer": "Profeta Harún (Aarón)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A crise do culto aos becerros",
+        "O Gran Diluvio de Nuh",
+        "A batalla de Badr",
+        "A destrución de Thamud",
+        "A destrución de Sodoma"
+      ],
+      "answer": "A crise do culto aos becerros"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O Becerro de Ouro",
+        "Arca de Noé",
+        "A Sarza Ardente",
+        "A cova de Hira",
+        "O Trono de Saba"
+      ],
+      "answer": "O Becerro de Ouro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Inocencia confirmada por Alá",
+        "Afogamento do faraón",
+        "A construción da Kaaba",
+        "Travesía segura do mar",
+        "Ascensión aos ceos"
+      ],
+      "answer": "Inocencia confirmada por Alá"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

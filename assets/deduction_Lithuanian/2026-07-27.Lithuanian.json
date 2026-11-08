@@ -1,0 +1,61 @@
+{
+  "title": "Auka, pakeitusi likimą",
+  "intro": "Ankstyviausiomis žmonijos dienomis siela dovanodavo dovaną su tyrais ketinimais. Tačiau pavydas slypėjo priėmimo šešėlyje. Atraskite šios asmenybės, kurios pamaldumas ir tragiška mirtis įamžinti dieviškajame apreiškime, istoriją.",
+  "clues": [
+    "Aš buvau viena iš pačių pirmųjų žmonijos kartų.",
+    "Aš paaukojau savo Viešpačiui auką, ir ji buvo priimta su palankumu.",
+    "Mano brolio auka buvo atmesta, ir pavydas aptemdė jo širdį.",
+    "Aš jam pasakiau: „Jei ištiesi ranką į mane, norėdamas mane nužudyti, aš netiesiu rankos tavęs nužudyti; iš tiesų aš bijau Alacho, pasaulių Viešpaties.“",
+    "Aš tapau pirmosios žmogžudystės žemėje auka.",
+    "Mano kraujas šaukėsi, ir aš tapau pirmuoju nekaltumo kankiniu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Habil (Abelis)",
+        "Qabil (Kainas)",
+        "Žmogus iš Ja-Sino",
+        "Samiri",
+        "Lukmanas"
+      ],
+      "answer": "Habil (Abelis)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Jo auka buvo priimta, sukeldama brolio pavydą ir nužudymą",
+        "Jis buvo įmestas į liepsnojančią krosnį, bet išėjo nesužeistas",
+        "Jis pastatė didžiulį laivą, vadovaujamas Dievo",
+        "Jį prarijo didelė žuvis, ir jis liko tamsoje.",
+        "Jis vedė savo žmones per prasiskyrusią jūrą"
+      ],
+      "answer": "Jo auka buvo priimta, sukeldama brolio pavydą ir nužudymą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Priimtas pasiūlymas",
+        "Personalas, virstantis gyvate",
+        "Kupranugarė kaip dieviškas ženklas",
+        "Kukutis atneša naujienas",
+        "Garbinamas auksinis veršis"
+      ],
+      "answer": "Priimtas pasiūlymas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pirmoji žmogžudystė istorijoje; jo brolis buvo nuteistas",
+        "Prarytas žemės kartu su jo turtais",
+        "Dėl nusižengimo virto beždžionėmis",
+        "Sunaikintas smarkaus, ledinio vėjo",
+        "Nuskendo dideliame potvynyje kaip bausmė"
+      ],
+      "answer": "Pirmoji žmogžudystė istorijoje; jo brolis buvo nuteistas"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

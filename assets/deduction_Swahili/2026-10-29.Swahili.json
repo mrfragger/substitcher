@@ -1,0 +1,61 @@
+{
+  "title": "Onyo Ndogo Mbele ya Mwenyeji wa Maandamano",
+  "intro": "Ingia kwenye bonde ambapo mtawala mwenye nguvu na jeshi kubwa wanakaribia, na fikiria msafiri mdogo akitoa onyo linalookoa jamii nzima. Jamii iliyo hatarini inapofika mahali pa kujikinga, hatari inapita. Fuata vidokezo ili kutambua mtu aliyepuuzwa nyuma ya onyo hilo.",
+  "clues": [
+    "Mimi ni miongoni mwa viumbe vidogo vinavyohusishwa na ufalme wa mtawala.",
+    "Jamii yangu inaishi katika makazi ndani ya bonde, ambapo mmoja wetu anaweza kuwaita wengine.",
+    "Tunakabiliwa na tishio kutoka kwa mtawala huyo na majeshi yanayosafiri na mtawala huyo.",
+    "Mimi ndiye ninayeita jamii yangu iingie katika makazi yao na kutuonya tusipondwe bila kujua.",
+    "Mtawala ni Sulayman, na aina yangu ni miongoni mwa viumbe vilivyowekwa chini ya amri yake.",
+    "Mimi ndiye chungu wa bonde hilo; baada ya onyo langu, tuliingia katika makazi yetu na kuepuka msukosuko ambao ungetupata bila kujua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Chungu wa Bonde",
+        "Hudihudi",
+        "Kunguru",
+        "Nyoka",
+        "Nyumbu"
+      ],
+      "answer": "Chungu wa Bonde"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Onyo lililookoa jamii ya chungu",
+        "Ombi la pete kutoka kwa samaki",
+        "Utafutaji wa kiti cha enzi kilichopotea",
+        "Uokoaji wa macho yaliyoibiwa",
+        "Kukataa kula chakula cha mtawala"
+      ],
+      "answer": "Onyo lililookoa jamii ya chungu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bonde la Mchwa",
+        "Pete ya Muhuri ya Sulayman",
+        "Shati la Yusufu Lenye Madoa ya Damu",
+        "Ndama wa Dhahabu wa Kutoka",
+        "Fimbo ya Musa"
+      ],
+      "answer": "Bonde la Mchwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Jamii iliokolewa baada ya kupata hifadhi",
+        "Jamii iliharibiwa bila kupata makazi",
+        "Jamii iliokolewa kwa sababu jeshi lilirudi nyuma",
+        "Jumuiya ilizawadiwa udhibiti wa ndege",
+        "Jumuiya ilichukuliwa mateka hadi kwenye ua wa kifalme"
+      ],
+      "answer": "Jamii iliokolewa baada ya kupata hifadhi"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

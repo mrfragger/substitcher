@@ -1,0 +1,61 @@
+{
+  "title": "Muhlanganisi La Nga Tshukatshukiki Eka Ndzingo Wa Nsuku",
+  "intro": "Endzhutini wa muprofeta lonkulu, moya-xiviri wa vutshila byo vulavula na ripfumelo wu hlawuriwile ku pfuneta eka vurhumiwa bya xitsundzuxo. Nhlayo leyi yi yime yi tiyile loko vunyingi byi tsekatseka, byi chumayela ku lwisana ni ku tlula nawu loku vonakaka loku a ku xungeta xisekelo xa vukhongeri bya Xikwembu xin’we. Loko muprofeta a vuya ku ta vona ku hohloka ka vanhu, ku tiyimelela ka xifaniso lexi a ku nga ri ka ku tivona nandzu kambe a ku ri ka ntirho ni ku chava ku avana. I mani nandza loyi a tinyiketeleke wa Allah?",
+  "clues": [
+    "Ndzi hlawuriwile hi Allah eka ntirho wo kwetsima etlhelo ka wun’wana, naswona ntirho wa mina a ku ri wa nseketelo na ku huwelela.",
+    "Ndzi nyikiwe ku vulavula loku twisisekaka, naswona ndzi fambe ni murhumiwa leswaku ndzi ya langutana ni mutshikileri wa matimba.",
+    "Hi nkarhi wa riendzo ra nkoka, murhumiwa u khandziye ntshava a ri yexe, a ndzi siya ndzi rindza vanhu.",
+    "Loko va nga ri kona, vanhu va endle xifaniso xa nsuku, kutani ndzi va kombela leswaku va tshama va tshembekile, kambe va arile xitsundzuxo xa mina.",
+    "Loko murhumiwa a vuya, a tele hi vukarhi ni gome, ndzi khomiwile, kambe ndzi hlamusele leswaku ndzi hluriwile naswona ndzi chava ku vanga ku nga twanani exikarhi ka vona.",
+    "Hi mina muprofeta loyi a yime etlhelo ka Musa, makwerhu, a avelana ndzhwalo wa yena ni ku tshama a tiyile ku lwisana ni vugandzeri bya swikwembu swa hava."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Haruni",
+        "Muprofeta Musa",
+        "Muprofeta Esa",
+        "Muprofeta Dawud",
+        "Muprofeta Zakariyya"
+      ],
+      "answer": "Muprofeta Haruni"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Vanhu a va gandzela rhole ra nsuku ku nga khathariseki switsundzuxo",
+        "Vanhu va ndzi hoxe endzilweni lowu pfurhaka",
+        "Ndzi mitiwe hi nhlampfi leyikulu",
+        "Ndzi pfaleriwe ekhotsweni hikwalaho ka swihehlo swa mavunwa",
+        "Ndzi hlongoriwile emutini wa ka hina hikwalaho ko chumayela"
+      ],
+      "answer": "Vanhu a va gandzela rhole ra nsuku ku nga khathariseki switsundzuxo"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Rhole ra Nsuku",
+        "Xihlahla Lexi Hisaka",
+        "Nhonga leyi hundzukeke nyoka",
+        "Swiphepherhele swa Ntwanano",
+        "Areka ya Ntwanano"
+      ],
+      "answer": "Rhole ra Nsuku"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ndzi ntshunxiwile kutani ndzi yisa emahlweni vurhumiwa bya mina bya vuprofeta",
+        "Ndzi xupuriwile hikwalaho ka xidyoho xa vanhu",
+        "Ndzi nyikiwe tiko lerintshwa leswaku ndzi kongomisa",
+        "Ndzi yisiwe etilweni ndzi ha hanya",
+        "Ndzi endliwe mufumi wa mfumo"
+      ],
+      "answer": "Ndzi ntshunxiwile kutani ndzi yisa emahlweni vurhumiwa bya mina bya vuprofeta"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

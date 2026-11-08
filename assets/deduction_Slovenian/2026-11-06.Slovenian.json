@@ -1,0 +1,61 @@
+{
+  "title": "Prva kri, prelita iz zavisti",
+  "intro": "Predstavljajte si najzgodnejše dni človeštva, ko je bil ves svet ena sama družina. Opazujete, kako sta pred Alaha položeni dve daritvi – ena sprejeta, druga zavrnjena. Zavist se ukorenini v srcu in v jezi se zašepeta grožnja. Kar sledi, bo za vedno pustilo pečat v zgodovini in celo majhna ptica bo postala učiteljica.",
+  "clues": [
+    "Pripadam prvi družini na svetu.",
+    "Alahu sem daril daritev, vendar moja ni bila sprejeta, druga daritev pa je bila.",
+    "Iz zavisti sem spregovoril in zagrozil, da bom vzel življenje.",
+    "Zagrešil sem prvi nepravični umor na zemlji.",
+    "Videl sem vrano, ki je praskala po tleh, da bi mi pokazala, kako skriti truplo.",
+    "Poln obžalovanja sem ostal in postal sem med poraženci zaradi tega, kar so storile moje roke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Kabil (Kajn), sin Adamov",
+        "Samiri, izdelovalec teleta",
+        "Namrud, tiran, ki se je prepiral z Ibrahimom",
+        "Azar, izdelovalec idolov",
+        "Kan'an, utopljeni Nuhov sin"
+      ],
+      "answer": "Kabil (Kajn), sin Adamov"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Umor sorojenca iz zavisti po zavrnjeni ponudbi",
+        "Gradnja visokega stolpa za pogled v nebesa",
+        "Izdelava zlatega teleta za čaščenje",
+        "Zahteva mizo, pogrnjeno iz nebes",
+        "Vodenje vojske slonov, da bi uničili Kaabo"
+      ],
+      "answer": "Umor sorojenca iz zavisti po zavrnjeni ponudbi"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrana praska zemljo, da bi pokazala pokop",
+        "Zlato tele, ki je mukalo",
+        "Velika barka na potopnih vodah",
+        "Palica, ki se je spremenila v kačo",
+        "Miza, pogrnjena z nebeško hrano"
+      ],
+      "answer": "Vrana praska zemljo, da bi pokazala pokop"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal sem obžalovan in med poraženci",
+        "Utopil se je v veliki poplavi",
+        "Požrla ga je zemlja z zakladom",
+        "Sedem let je trpel za gobavostjo",
+        "Dobilo je kraljestvo z nadzorom nad vetrovi"
+      ],
+      "answer": "Postal sem obžalovan in med poraženci"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

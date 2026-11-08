@@ -1,0 +1,61 @@
+{
+  "title": "Abakhi beeNqaba",
+  "intro": "Kwixesha elidlulileyo, kwavela impucuko enamandla, yahlukile ngemisebenzi yayo emangalisayo yokwakha kunye namandla amakhulu. Eli qela lanikwa izixhobo ezininzi kunye nobuchule bomzimba, kodwa bakhetha indlela yokuchasa umyalezo kaThixo othunyelwe ukubakhokela. Ibali labo lisebenza njengesifundo esibalulekileyo kwiingxelo zembali, ubungqina bemiphumo yokungavumi inyaniso.",
+  "clues": [
+    "Sanikwa amandla amakhulu omzimba kunye nobukhulu, ngokungafaniyo nabanye abantu bexesha lethu.",
+    "Sasisaziwa ngokwakha izakhiwo ezinkulu kunye neensika eziphakamileyo kuzo zonke iindawo eziphakamileyo, sicinga ukuba siza kuphila ngonaphakade.",
+    "Kwathunyelwa isithunywa esivela phakathi kwethu ukuba sisilumkise, sisibizela ukuba sinqule uAllah kuphela size silahle izithixo zethu.",
+    "Sabuza ngekratshi isithunywa sethu, sibuza ukuba ngaba beze kuthi ukuze sinqule uAllah size silahle oko kwakunqulwa ngookhokho bethu.",
+    "Ilizwe lethu lalibusisiwe ngeegadi, imithombo, namasimi achumileyo, kodwa impumelelo yethu sayigqala njengeyamandla ethu, kungekhona uMdali wethu.",
+    "Ngenxa yokungakholwa kwethu okuqhubekayo kunye nokugculelwa, ekugqibeleni satshatyalaliswa ngumoya owoyikekayo nonamandla owavuthuza iintsuku ezininzi nobusuku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu baseFir'aun",
+        "Abantu baseNuh",
+        "Abantu baseMadyan",
+        "Abantu be-'Ad"
+      ],
+      "answer": "Abantu be-'Ad"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukucelwa ukuba anikele ngenkamela ethile",
+        "Ucelomngeni lokuvelisa iisura ezilishumi ezifana neQuran",
+        "Kuboniswa ukwahlulwa kolwandle",
+        "Ukulunyukiswa ngumprofeti malunga nomkhukula ozayo",
+        "Ukulahla umprofeti owalumkisa ngokwakha ngokugqithisileyo nokunqula izithixo"
+      ],
+      "answer": "Ukulahla umprofeti owalumkisa ngokwakha ngokugqithisileyo nokunqula izithixo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Abasebenzi",
+        "Umlilo",
+        "Isixeko saseSodom",
+        "Iintsika eziphakamileyo kunye neendawo zokuhlala eziqinileyo"
+      ],
+      "answer": "Iintsika eziphakamileyo kunye neendawo zokuhlala eziqinileyo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Nditshonile kumkhukula omkhulu",
+        "Iginywe ngumhlaba",
+        "Yaguqulwa yaba ziinkawu neehagu",
+        "Itshatyalaliswe kukuqhuma okukhulu",
+        "Ukutshatyalaliswa ngumoya ovuthuzayo notshabalalisayo"
+      ],
+      "answer": "Ukutshatyalaliswa ngumoya ovuthuzayo notshabalalisayo"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

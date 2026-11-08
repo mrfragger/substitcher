@@ -1,0 +1,61 @@
+{
+  "title": "Niiluse piinatud hing",
+  "intro": "Suure rõhumise ajastul, kui türann valitses maad absoluutse julmusega, valis üks hing usu tee kuningliku perekonna mugavuse asemel. See tegelane elas võimu südames, kuid leidis tõe alandliku prohveti sõnumist. Nende teekonnast sai ajatu õppetund kannatlikkuses, ohverduses ja vankumatus veendumuses. Kas suudad ära tunda selle tähelepanuväärse inimese, kes eelistas jumalikku naudingut maise staatuse asemel?",
+  "clues": [
+    "Ma elasin suure võimuga palees, kuid mu süda leidis tõe alandlikust sõnumist.",
+    "Ma otsustasin järgida Musa juhatust, teades tagajärgi, millega ma silmitsi seisan.",
+    "Olin abielus oma aja võimsaima türanniga, kuid hülgasin tema valejumalad.",
+    "Minu kannatused olid rängad, kuna mind karistati usu pärast ühte Jumalasse.",
+    "Ma ei kõigutanud kunagi oma usus, isegi mitte kõige rängemate piinade ajal.",
+    "Mu Issand oli mu kannatlikkusega rahul ja valis mind auväärsele kohale paradiisis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Musa ema",
+        "Vaarao naine",
+        "Prohvet Musa õde",
+        "Vana-Egiptuse kuninganna",
+        "Iisraellaste sulane"
+      ],
+      "answer": "Vaarao naine"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Võitlemine Allahi nimel armeega",
+        "Vaaraoga vastamisi seismine ja usu kuulutamine",
+        "Egiptuses jumalakummardamise paikade ehitamine",
+        "Reisides üle mere Musaga",
+        "Allahilt ilmutuse saamine"
+      ],
+      "answer": "Vaaraoga vastamisi seismine ja usu kuulutamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Midjani kõrbes",
+        "Egiptuse kuninglik palee",
+        "Niiluse jõe kaldad",
+        "Siinai mägi",
+        "Kaananimaa"
+      ],
+      "answer": "Egiptuse kuninglik palee"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai paljude aastate pärast prohvetiks",
+        "Juhtisid iisraellased Egiptusest välja",
+        "Sai Egiptuse üle suveräänsuse",
+        "Oli märtriks surnud ja Allahi poolt austatud",
+        "Elas mugavuses vanaduseni"
+      ],
+      "answer": "Oli märtriks surnud ja Allahi poolt austatud"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

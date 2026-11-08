@@ -1,0 +1,61 @@
+{
+  "title": "Izvor ispod pijeska",
+  "intro": "U analima Kur'ana, lik neizmjernog strpljenja suočio se s kušnjom koja bi slomila i najhrabrija srca. Sve je bilo oduzeto - bogatstvo, porodica i zdravlje. Pa ipak, iz dubine očaja, ponizna molitva je uslišena na najneočekivaniji način. Možete li prepoznati ovu dušu čija priča o obnovi odjekuje kroz vijekove?",
+  "clues": [
+    "Bio sam iskušan tako teškim iskušenjem da će se pamtiti kroz vijekove.",
+    "Izgubila sam sve što mi je bilo važno - bogatstvo, djecu i zdravlje.",
+    "Tijelo mi je bilo prekriveno bolnim ranama i svi su me izbjegavali.",
+    "U svom očaju, pozvao sam Allaha, govoreći da me je šejtan dodirnuo teškoćama i mukama.",
+    "Allah mi je uslišio i naredio mi da udarim nogom o zemlju.",
+    "Iz tog istog mjesta izbio je hladan izvor, a Allah je obnovio moju porodicu i udvostručio ih kao milost."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Ajjub",
+        "Poslanik Musa",
+        "Poslanik Iljas",
+        "Poslanik Sulejman",
+        "Poslanik Davud"
+      ],
+      "answer": "Poslanik Ajjub"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Teška bolest i gubitak porodice i bogatstva",
+        "Biti progutan od strane velikog kita",
+        "Izgnanstvo iz grada Meke",
+        "Zatvor u dubokom bunaru",
+        "Sukob s arogantnim vladarom"
+      ],
+      "answer": "Teška bolest i gubitak porodice i bogatstva"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Hladno proljeće iz zemlje",
+        "Brod usred velike poplave",
+        "Štap koji je rascijepio more",
+        "Uzvišeni stakleni tron",
+        "Ograđena pećina za spavanje"
+      ],
+      "answer": "Hladno proljeće iz zemlje"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Porodica i bogatstvo obnovljeni i udvostručeni",
+        "Izlaz iz ribljeg trbuha",
+        "Siguran prolaz kroz razdvojene vode",
+        "Kraljevstvo dato da vlada",
+        "Čudesno rođenje sina u starosti"
+      ],
+      "answer": "Porodica i bogatstvo obnovljeni i udvostručeni"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Náisiún a Thug Dúshlán don Teach Naofa",
+  "intro": "I sean-amanna, shocraigh náisiún cumhachtach ionsaí a dhéanamh ar thearmann a raibh meas ag creidmhigh air. Bhí an grúpa seo saibhir, cumhachtach agus muiníneach as a neart míleata. Thug siad leo créatúr ollmhór a d’fheidhmeodh mar arm cogaidh acu. Bhí a sprioc soiléir: an teach naofa a leagan agus creideamh a mhuintire a bhriseadh. Ach bhí a n-uaillmhian ar tí freagairt tubaisteach a fháil ón spéir. Ba chomhartha agus ceacht é an eachtra stairiúil seo do gach duine a tháinig ina dhiaidh. An féidir leat an grúpa seo a aithint ó na leideanna?",
+  "clues": [
+    "Ba náisiún muid a raibh saibhreas agus cumas míleata againn.",
+    "Bhailigh muid ár bhfórsaí agus thugamar beithíoch ollmhór linn le húsáid inár bhfeachtas.",
+    "Tearmann naofa a bhí mar sprioc againn agus theastaigh uainn é a scriosadh go hiomlán.",
+    "Chreid muid go mbeadh ár neart leordhóthanach chun aon chosaint dhiaga a shárú.",
+    "Ach chuir an Tiarna pionós orainn ón spéir nár cheapamar leis.",
+    "Scriosadh sinn i gceann nóiméid, scaipthe cosúil le tuí briste."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir an Eilifint",
+        "Muintir Thamud",
+        "Muintir 'Ad",
+        "Compánaigh na hUaimhe",
+        "Náisiún an Fháidh Hud"
+      ],
+      "answer": "Muintir an Eilifint"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag máirseáil eilifint i dtreo an tí naofa chun é a scrios",
+        "Ag tógáil túir chun na flaithis a bhaint amach",
+        "Ag tógáil íol órga le haghaidh adhartha",
+        "Diúltú éisteacht le teachtaire Allah",
+        "Tobar a thochailt chun dochar a dhéanamh do chreidmhigh"
+      ],
+      "answer": "Ag máirseáil eilifint i dtreo an tí naofa chun é a scrios"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Eilifint",
+        "An Lao Órga",
+        "Foireann Mhúsa",
+        "Iasc Yunus",
+        "Iarann ​​Dawud"
+      ],
+      "answer": "An Eilifint"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosadh iad le tréada éan le clocha",
+        "Bádh iad i dtuilte móra",
+        "Claochlaíodh ina n-apaí agus ina muca iad",
+        "Cuireadh iad faoi chlocha ag titim ó shliabh",
+        "Dóitear iad le tine ón spéir"
+      ],
+      "answer": "Scriosadh iad le tréada éan le clocha"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

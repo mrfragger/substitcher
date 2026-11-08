@@ -1,0 +1,61 @@
+{
+  "title": "Ukukhala Okuvela Emanzini",
+  "intro": "Isicaka sikaThixo onenceba sadinwa sisizwe esinobuqhophololo saza semka ngaphambi kokuba sinikwe imvume. Lo mntu waphelela kwindawo apho kungekho mntu wakha waya khona, apho ubizo oluya kuThixo luvakala ngendlela engaqhelekanga kwiingqimba zobumnyama. Ephuma ebuthathaka kodwa eguqukile, lo mphefumlo waba sisifundo esingapheliyo somonde, inguquko enyanisekileyo, kunye nenceba engenamda yoMdali. Ungayityhila le mfihlakalo?",
+  "clues": [
+    "Ndithunyelwe njengomthunywa kubantu bam, kodwa badlulela ngaphaya kwemida yokungakholwa kwabo baza bala ukuphulaphula.",
+    "Ndacaphuka kakhulu kukwaliwa kwabo ndaza ndabaleka ebantwini bam ngaphambi kokuba kufike umyalelo ka-Allah.",
+    "Ndakhwela inqanawa eyayithwele umthwalo ongaphezu kwamandla, saza senza amaqashiso ukuze sifumane ukuba ngoobani ababeza kuphoswa emanzini.",
+    "Ndaphoswa elwandle olushushu ndaza ndaginywa yintlanzi enkulu.",
+    "Ndivaleleke kwiindidi ezintathu zobumnyama — isisu, ulwandle olunzulu, nomhlaba ongaphantsi — ndabiza iNkosi yam ngenguquko enyanisekileyo.",
+    "Ndaphuma kwintlanzi ndaya elunxwemeni oluvulekileyo, ndibuthathaka kwaye ndidiniwe, kwaye isityalo segourd sakhula phezu kwam. Abantu basekhaya, ikhulu lamawaka nangaphezulu, ekugqibeleni bakholwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uYunus",
+        "Umprofeti u-Ayyub",
+        "Umprofeti uYusuf",
+        "Umprofeti uMusa",
+        "Umprofeti uSulaiman"
+      ],
+      "answer": "Umprofeti uYunus"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Iginywe yintlanzi enkulu",
+        "Iphoswe emlilweni ovuthayo",
+        "Ndivaleleke ezantsi kwequla",
+        "Ugutyungelwe ngumkhukula omkhulu",
+        "Uvalelwe entolongweni ngokungekho sikweni ngukumkani"
+      ],
+      "answer": "Iginywe yintlanzi enkulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isisu sentlanzi enkulu",
+        "Intlambo engcwele kufutshane neKaaba",
+        "Umkhombe uphumle entabeni",
+        "Intonga eyajika yaba yinyoka",
+        "Itrone yobukhulu obungenakuthelekiswa nanto"
+      ],
+      "answer": "Isisu sentlanzi enkulu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Abantu bakhe, ikhulu lamawaka nangaphezulu, babekholelwa",
+        "Uvuselwe ezulwini ephila",
+        "Waba ngumlawuli wobukumkani obungenakuthelekiswa nanto",
+        "Utshatyalaliswe sisikhalo esibuhlungu esivela esibhakabhakeni",
+        "Igubungelwe yinyikima etshabalalisayo"
+      ],
+      "answer": "Abantu bakhe, ikhulu lamawaka nangaphezulu, babekholelwa"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

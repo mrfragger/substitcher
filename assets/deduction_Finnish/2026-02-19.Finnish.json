@@ -1,0 +1,61 @@
+{
+  "title": "Suuren kunnianhimon hulluus",
+  "intro": "Lähde matkalle paljastamaan kollektiivisen kokonaisuuden identiteetti, jonka rohkeat suunnitelmat kohtasivat odottamattoman ja mahtavan lopun. Tämä kertomus toimii syvällisenä muistutuksena jumalallisesta voimasta ja maallisen vallan hauraudesta, kun se vastustaa pyhää. Selvitä tämän ryhmän mysteeri, jonka tarina on kaiverrettu Koraaniin varoitukseksi kaikille, jotka pyrkivät rikkomaan sääntöjä.",
+  "clues": [
+    "Meillä oli suuri kunnianhimo, uskoimme voimamme olevan vertaansa vailla, ja lähdimme matkalle selkeä, tuhoisa tavoite mielessämme.",
+    "Ylimielinen johtajamme pyrki saastuttamaan monien kunnioittaman pyhän talon ja ohjasi pyhiinvaelluksen meidän rakentamaamme rakenteeseen.",
+    "Kaukaiselta maalta marssimme massiivisella joukolla, luottaen kykyymme purkaa Pyhän Kaupungin muinainen rakennus.",
+    "Armeijamme oli mahtava, keihäänkärjessä upeita olentoja – näky, jollaista valloittamamme maan asukkaat harvoin, jos koskaan, näkivät tällaisessa sotaretkessä.",
+    "Kun saavuimme määränpäähämme, tapahtui jumalallinen väliintulo; pieniä, siivekkäitä olentoja ilmestyi ja heitteli meitä poltetuista savikivistä.",
+    "Koko retkikuntamme kohtasi tuhoisan lopun, jättäen mahtavan joukkomme täysin tuhotuksi kuin pureskellun oljenkorren, suuren suunnitelmamme tomuksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Thamudin kansa",
+        "'Ad:n ihmiset",
+        "Sodoman kansa",
+        "Norsun kansa",
+        "Puutarhan ihmiset"
+      ],
+      "answer": "Norsun kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri tulva",
+        "Kaabaa vastaan ​​​​suunnattu kampanja",
+        "Epäjumalien tuhoaminen",
+        "Meren jakautuminen",
+        "Midianin maanjäristys"
+      ],
+      "answer": "Kaabaa vastaan ​​​​suunnattu kampanja"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Kaaba",
+        "Kultainen vasikka",
+        "Tuli"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Jumalallinen pelastus",
+        "Pitkä vaurauden aika",
+        "Kääntyminen islamiin",
+        "Täydellinen tuho",
+        "Karkotus heidän maastaan"
+      ],
+      "answer": "Täydellinen tuho"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

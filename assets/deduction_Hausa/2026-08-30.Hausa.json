@@ -1,0 +1,61 @@
+{
+  "title": "Ruhin Ru'ya ta Yohanna Mai Aminci",
+  "intro": "A cikin wuraren da ba a gani, wani halitta mai haske mai tsabta yana tafiya da daidaito, yana aiwatar da kowace umarni ba tare da wata shakka ba. Wannan mutum ya yi magana da zaɓaɓɓun bayi, ya kawo kalmomin jagora, kuma ya shaida yadda dokokin Allah suka bayyana a tsawon zamani. Wanene wannan rai mai daraja?",
+  "clues": [
+    "Ni halitta ce ta haske tsantsa, an halicce ni daga haske, kuma ban taɓa saba wa kowace umarni daga Ubangijina ba.",
+    "Ina tafiya tsakanin sammai da ƙasa, ina saukowa da hukunce-hukuncen Mai rahama.",
+    "An aiko ni zuwa ga wata budurwa mai daraja a cikin wurin ibada, ina yi mata shelar ɗa tsarkakakke.",
+    "Ni ne ruhun tsarki, kuma na goyi bayan annabi wanda aka ba shi ayoyi bayyanannu da Linjila.",
+    "Na zo wani kogo a kan dutse don in yi wa kaina kalmomin farko na karatun da za a kiyaye har abada.",
+    "Ni ne ruhi amintacce, kuma ni ne na saukar da Alqur'ani a zuciyar manzon ƙarshe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Jibrilu (Jibrilu)",
+        "Mikail (Michael)",
+        "Mala'ikan Mutuwa",
+        "Malik (Mai tsaron Jahannama)",
+        "Harut (ɗaya daga cikin mala'iku biyu a Babila)"
+      ],
+      "answer": "Jibrilu (Jibrilu)"
+    },
+    "trial": {
+      "label": "Muhimmin Aiki/Matsayin",
+      "options": [
+        "Isar da wahayi ga annabawa",
+        "Busa ƙaho a Ranar Alkiyama",
+        "Kare ƙofofin Jahannama",
+        "Rubuta ayyukan mutane",
+        "Sanadin ruwan sama"
+      ],
+      "answer": "Isar da wahayi ga annabawa"
+    },
+    "location": {
+      "label": "Maɓallin Siffa ko Lakabi",
+      "options": [
+        "Ruhu Mai Tsarki (Ruh al-Qudus)",
+        "Ruhun Iko",
+        "Ruhun Jinƙai",
+        "Ruhun Jagora",
+        "Ruhun Gaskiya"
+      ],
+      "answer": "Ruhu Mai Tsarki (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Sakamakon Manufar",
+      "options": [
+        "An saukar da Alqur'ani ga Annabi Muhammadu",
+        "An busa ƙaho a ranar Alkiyama",
+        "An tsare Jahannama kuma an rufe ƙofofinta",
+        "An gabatar da Littafin Ayyukan Allah",
+        "An saukar da ruwan sama zuwa ƙasa"
+      ],
+      "answer": "An saukar da Alqur'ani ga Annabi Muhammadu"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

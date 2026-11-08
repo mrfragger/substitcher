@@ -1,0 +1,61 @@
+{
+  "title": "Utukufu Uliozama",
+  "intro": "Hebu fikiria hili: roho iliyovikwa mavazi mazuri na kuzungukwa na hazina zisizoweza kufikirika. Mtu huyu aliamini utajiri wake ulipatikana kupitia uzuri wake mwenyewe, bila kutambua chanzo cha riziki ya kweli. Akitembea miongoni mwa wafuasi wa nabii mkuu, mtu huyu alikataa kila wito wa unyenyekevu. Leo, tunagundua utambulisho wa mtu ambaye bahati yake nzuri ikawa mahali pao pa mwisho pa kupumzika.",
+  "clues": [
+    "Niliishi wakati wa nabii aliyeita taifa lenye ukaidi kwenye ukweli.",
+    "Nilikuwa sehemu ya jamii iliyochaguliwa, lakini moyo wangu uligeuka mbali na ujumbe.",
+    "Dhahabu na fedha zilinivutia zaidi kuliko amri yoyote ya Mungu.",
+    "Majumba yangu ya hazina yaliongezeka sana kiasi kwamba kundi kubwa la wanaume halikuweza kuinua funguo kwa shida.",
+    "Nilijisifu kwamba utajiri wangu nilipewa kwa sababu ya ujuzi wangu mwenyewe.",
+    "Mwishowe, mimi na makao yangu yote tulimezwa na ardhi kama onyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Qarun",
+        "Hamani",
+        "Samiri",
+        "Bilqis",
+        "Taluti (Sauli)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kiburi juu ya utajiri na kukataa kutoa misaada",
+        "Kutengeneza sanamu ya dhahabu kutokana na vito vilivyoyeyushwa",
+        "Kutangaza uungu juu ya ufalme wenye nguvu",
+        "Kuwatesa waumini wa mapema huko Makka",
+        "Kuongoza kampeni ya kuharibu Nyumba Takatifu"
+      ],
+      "answer": "Kiburi juu ya utajiri na kukataa kutoa misaada"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Hazina ambazo funguo zake ziliwalemea wanaume wengi wenye nguvu",
+        "Ndama wa dhahabu aliyetoa sauti",
+        "Kiti cha enzi chenye utukufu kutoka nchi ya mbali",
+        "Mtaro uliojaa moto unaowaka",
+        "Jeshi kubwa la tembo wa vita"
+      ],
+      "answer": "Hazina ambazo funguo zake ziliwalemea wanaume wengi wenye nguvu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imemezwa na ardhi pamoja na makao",
+        "Kuzama baharini na jeshi",
+        "Kuchomwa moto akiwa hai kwenye shimo la moto",
+        "Imeharibiwa na upepo mkali na wenye nguvu",
+        "Imepigwa chini na mlipuko mmoja mkubwa"
+      ],
+      "answer": "Imemezwa na ardhi pamoja na makao"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

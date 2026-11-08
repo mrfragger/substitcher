@@ -1,0 +1,61 @@
+{
+  "title": "Mîsyona li Bajarê Kevnar",
+  "intro": "Bajarek kevnar ê tozî, xelkê wê di înkarê de asê maye, û hişyariyek dawî ku guh lê nehatiye dayîn. Îro, bikevin rola kesên ku ji hêla Xwedê ve hatine şandin da ku peyamek bigihînin gelek serhişk. Çîrokek redkirinê, dengek yekta ya baweriyê, û dawiyek ku bi fermanek wêranker hatiye mohrkirin. Kî bi van nîşanan diaxive?",
+  "clues": [
+    "Xwedê em şandin bajarekî ku xelkê wî ji rastiyê dûr ketibûn",
+    "Du ji me pêşî hatin, paşê yekî sêyem tevlî me bû da ku mîsyona me xurt bikin",
+    "Xelkê bajêr me red kirin û gotin ku em jî wekî wan mirovên din nînin",
+    "Giyanek ji dawiya herî dûr a bajêr bezî da ku ji mirovan re bêje ku li pey me werin",
+    "Me ji wan lava kir, lê wan dilê xwe hişk kirin û li dijî me zivirîn",
+    "Bi qîrîneke wêranker ji ezmanan, tevahiya bajarê me bêdeng bû"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Peyamnêrên Bajêr di Sûreya Yasîn de",
+        "Hawarîyûn (Şagirtên Îsa)",
+        "Sêrbazên Dadgeha Fîrewn",
+        "Hevalbendên Şemiyê",
+        "Gelê Fîl"
+      ],
+      "answer": "Peyamnêrên Bajêr di Sûreya Yasîn de"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ji aliyê xelkê bajêr ve hatin redkirin û wekî derewîn hatin binavkirin",
+        "Di agirê mezin ê geş de zindî şewitî",
+        "Masîyekî mezin di deryaya kûr de daqurtand",
+        "Bi zorê stûnek bilind ava kirin û xebitîn",
+        "Di xendekek agirê dijwar de îşkence lê hat kirin"
+      ],
+      "answer": "Ji aliyê xelkê bajêr ve hatin redkirin û wekî derewîn hatin binavkirin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Bajarê kevnar (el-Qerya)",
+        "Sobayek mezin a şewitî",
+        "Zikê masiyek mezin",
+        "Stûna bilind a ku asîman dide ber xwe",
+        "Mala Pîroz (Kabe)"
+      ],
+      "answer": "Bajarê kevnar (el-Qerya)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bajar bi yek qîrîneke wêranker (Sayha) hate wêrankirin",
+        "Zalim û artêşa wî di deryaya şeqat de xeniqîn",
+        "Mirov bûn meymûn û meymûn",
+        "Baranek keviran ji ezman bajar wêran kir",
+        "Lehiyeke dijwar hemû civak şewitand"
+      ],
+      "answer": "Bajar bi yek qîrîneke wêranker (Sayha) hate wêrankirin"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

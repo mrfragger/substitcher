@@ -1,0 +1,61 @@
+{
+  "title": "A Felkelő Nap Kapujának Őrzője",
+  "intro": "A Koránban bizonyos lelkek bölcsesség és csodálat nyomait hagyva szelik át a földet. Az egyik ilyen alak a teremtés legtávolabbi pontjaira utazott – ahol a nap felkel és lenyugszik, ahol egy gát tartja vissza a káoszt. Allah szolgája olyan királyságot kapott, amelyet soha többé senki sem birtokolhat. Három különböző utazás során világossá vált ennek az egyénnek a célja. Felismered ezt a legendás vándort a történelem árnyai közül?",
+  "clues": [
+    "A Legirgalmasabb felhatalmazást adott nekem, hogy úgy uralkodjak a föld felett, ahogyan azt még senki más nem érte el.",
+    "Nyugat felé utaztam, míg el nem értem a napnyugtát, ahol egy zavaros tavaszi felhőben nyugszik le, és láttam ott egy népet.",
+    "Kelet felé utaztam, míg el nem értem a napfelkelte helyét, és ott egy olyan nép felett találtam a napfelkeltét, akiknek nem nyújtottunk menedéket előle.",
+    "E két szélső pont között utaztam, mígnem egy két hegy közötti völgybe értem, ahol egy olyan néppel találkoztam, akik alig értették a beszédet.",
+    "A hegyen két kemény vasgátat találtam, amelyek jobbra és balra húzódtak, közöttük pedig egy keskeny átjárót. Ezek az emberek arra kértek, hogy törjem át a káoszt visszatartó gátat.",
+    "Fogtam az ellátmányomat, és ezt mondtam: „Amikor a fal áttörik, ez egyértelmű elkülönülés lesz köztünk és e nép között.” És amikor elérkezett a meghatározott idő, láttam, ahogy a fal végre áttörik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Szulejmán próféta",
+        "Ibrahim próféta",
+        "Ghassaniyah királya",
+        "Dhul-Qarnain, a vándor"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Áttörve a vaskorlátot Jadzsuj és Madzsuj népéért",
+        "A hajó építése egy próféta parancsára",
+        "Templom építése Jeruzsálemben",
+        "Átkelve a Vörös-tengeren a hívő emberekkel",
+        "Gátat építeni egy igaz nemzet védelmére"
+      ],
+      "answer": "Áttörve a vaskorlátot Jadzsuj és Madzsuj népéért"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A vasgát két hegy között",
+        "A hajó egy hegyen horgonyzott le",
+        "A szent istentiszteleti ház Jeruzsálemben",
+        "A folyó Egyiptom földjén",
+        "Az áldások kútja Madyanban"
+      ],
+      "answer": "A vasgát két hegy között"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A kijelölt időpontban áttörték a gátat, és káosz tört ki",
+        "A hitetlenek vízbe fulladtak, míg a hívők megmenekültek",
+        "Az igazakat az örök paradicsomba vezették",
+        "A várost egy üvöltő szél pusztította el",
+        "A bálványokat összetörték, és az emberek megbánták bűneiket"
+      ],
+      "answer": "A kijelölt időpontban áttörték a gátat, és káosz tört ki"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ekolo Oyo Etelemisaki Ndako Mosantu",
+  "intro": "Na ntango ya kala, ekólo moko ya nguya ezwaki ekateli ya kobundisa esika mosantu oyo bandimi bazalaki komemya. Etuluku yango ezalaki na bozwi, na nguya, mpe bazalaki kotyela makasi na bango ya basoda motema. Bamemaki ekelamu moko monene oyo elingaki kozala ebundeli na bango ya etumba. Mokano na bango ezalaki polele: kobuka ndako mosantu mpe konyata kondima ya bato na yango. Kasi lolendo na bango elingaki kokutana na eyano ya mabe oyo euti na likoló. Likambo oyo ya lisolo ekomaki elembo mpe liteya mpo na baye banso bayaki nsima. Okoki koyeba groupe oyo na ba indices?",
+  "clues": [
+    "Tozalaki ekólo oyo epambolamaki na bozwi mpe na makoki ya basoda.",
+    "Toyanganisaki mampinga na biso mpe tomemaki nyama moko monene mpo na kosalela na kampanye na biso.",
+    "Cible na biso ezalaki esika mosantu ya bule oyo tolingaki kobebisa mobimba.",
+    "Tondimaki ete makasi na biso ekokoka mpo na kolonga libateli nyonso ya bonzambe.",
+    "Kasi Nkolo atindaki likolo na biso etumbu uta na lola tokanisaki te.",
+    "Tobebisamaki na mbala moko, topalanganaki lokola matiti ya matiti oyo ebukanaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Nkoi",
+        "Bato ya Thamud",
+        "Bato ya 'Ad",
+        "Ba Compagnons ya Libulu",
+        "Ekolo ya Profeta Hud"
+      ],
+      "answer": "Bato ya Nkoi"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kotambola ngando moko epai ya ndako mosantu mpo na kobebisa yango",
+        "Kotonga linɔ́ngi mpo na kokóma na likoló",
+        "Kotonga ekeko ya wolo mpo na losambo",
+        "Koboya koyoka motindami ya Allah",
+        "Kotimola libulu mpo na kosala bandimi mabe"
+      ],
+      "answer": "Kotambola ngando moko epai ya ndako mosantu mpo na kobebisa yango"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nkoi ya Nkoi",
+        "Mwana ya Ngombe ya Wolo",
+        "Ba Staff ya Musa",
+        "Mbisi ya Yunus",
+        "Ebende ya Dawud"
+      ],
+      "answer": "Nkoi ya Nkoi"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Babebisamaki na bitonga ya bandɛkɛ na mabanga",
+        "Bazindaki na mpela moko monene",
+        "Babongwanaki bango na banyoka mpe ngulu",
+        "Bakundaki bango na nse ya mabanga oyo ezalaki kokwea longwa na ngomba",
+        "Bazikisamaki na mɔ́tɔ oyo eutaki na likoló"
+      ],
+      "answer": "Babebisamaki na bitonga ya bandɛkɛ na mabanga"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

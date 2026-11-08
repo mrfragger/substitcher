@@ -1,0 +1,61 @@
+{
+  "title": "Oparotasunaren Lorategi Desagertzen ari direnak",
+  "intro": "Oparotasunez bedeinkatutako lurralde batean, komunitate bat loratu zen, jainkozko graziaren seinaleen artean biziz. Haien oparotasuna Jaunaren faborearen lekuko zen, esker ona eta obedientzia pizteko opari bat. Hala ere, bedeinkapenen zantzu argiak izan arren, inflexio puntu bat iritsi zen, eta horrek zalantzan jarri zuen haien aberastasun eta erosotasun izugarriaren iturriarekiko estimua.",
+  "clues": [
+    "Bi baratze izan genituen bedeinkatuta, bat eskuinean eta bestea ezkerrean, produktuz beteak.",
+    "Gure Jaunaren horniduratik jateko eta lur on bat eta Jaun barkatzaile batengatik esker oneko izateko agindu ziguten.",
+    "Harroputz bihurtu ginen eta esker oneko bidetik aldendu ginen, gure aberastasunaz eta botereaz harrotuz.",
+    "Jaunari gure bidaien arteko distantzia handitzeko eskatu genion, eman zigun erraztasuna mespretxatuz.",
+    "Mezulariak ohartarazi gintuen, baina mezua arbuiatu eta gure axolagabekerian jarraitu genuen.",
+    "Gure oparotasuna eusten zuen presa handia azkenean hautsi egin zen, uholde suntsitzaile bat eraginez."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Thamudeko jendea",
+        "Midiango jendea",
+        "'Aad-eko jendea",
+        "Luteko jendea.",
+        "Sabako jendea."
+      ],
+      "answer": "Sabako jendea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gosetea eta lehortea",
+        "Armada indartsu baten inbasioa",
+        "Lurrikara suntsitzaile bat",
+        "Presa hautsi batek eragindako uholde suntsitzailea",
+        "Agintari tirano baten zapalkuntza"
+      ],
+      "answer": "Presa hautsi batek eragindako uholde suntsitzailea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko txahal bat",
+        "Gamelu eme miragarri bat",
+        "Presa handi bat.",
+        "Eraikin dorretsu bat.",
+        "Putzu sakon bat."
+      ],
+      "answer": "Presa handi bat."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Tximino eta txerri bihurtu ginen",
+        "Salbatu eta lurralde berri batera emigratu genuen",
+        "Sakabanatu ginen eta gure lurra antzu bihurtu zen",
+        "Zeruetara igo ginen.",
+        "Erresuma berri eta oparoagoa eraiki genuen"
+      ],
+      "answer": "Sakabanatu ginen eta gure lurra antzu bihurtu zen"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

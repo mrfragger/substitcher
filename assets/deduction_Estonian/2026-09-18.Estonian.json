@@ -1,0 +1,61 @@
+{
+  "title": "Kutse Pühast Orust",
+  "intro": "Ajaloo lehekülgede taga peitub lugu hingest, kes seisis võimsa valitseja ja terve orjastatud rahva vahel. See inimene kutsuti vabastama rahvas türanniast, tehes imesid, mis trotsisid kõiki loodusseadusi. Pühast mäest kuni imedeni vetel – see Allahi sulane oli tunnistajaks märkidele, mis kajasid läbi aegade. Teie tänane ülesanne on tuvastada see tähelepanuväärne tegelane, kelle pärand kujundas inimkonna ajaloo kulgu.",
+  "clues": [
+    "Ma sündisin ajal, mil mu rahvast ootas ees surmav otsus ja mu perekond pani mind vette, et mu elu päästa.",
+    "Mind leiti ja kasvasin üles selle valitseja majapidamises, kes oli käskinud minu liigi surma saada.",
+    "Põgenesin pühale mäele, kus nägin põlevat tuld puu otsas, mis polnud põlenud, ja hääl rääkis minuga sealt.",
+    "Mind saadeti imedega tagasi selle sama valitseja juurde, nõudes oma orjastatud rahva vabadust.",
+    "Ma lõin kepiga merd ja see jagunes kuivadeks radadeks, neelates jälitajad, kes mu rahvast jälitasid.",
+    "Ma suhtlesin oma Issandaga mäel nelikümmend ööd ja mulle anti jumaliku juhatuse tahvlid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Musa",
+        "Prohvet Harun",
+        "Prohvet Ibrahim",
+        "Prohvet Yusuf",
+        "Prohvet Dawud"
+      ],
+      "answer": "Prohvet Musa"
+    },
+    "trial": {
+      "label": "Minu määrav katsumus",
+      "options": [
+        "Mere lahknemine",
+        "Suure laeva ehitamine",
+        "Katsumus lõõmava tule käes",
+        "Vaala kõhus kinnipidamine",
+        "Egiptuse ametniku vangistamine"
+      ],
+      "answer": "Mere lahknemine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Karjase kepp",
+        "Suur puidust laev",
+        "Koobas, kus aeg magas",
+        "Kahe allikaga aed",
+        "Kullaga kaunistatud troon"
+      ],
+      "answer": "Karjase kepp"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Mu rahvas ületas mere ja jõudis turvalisse kohta",
+        "Suur veeuputus hävitas uskmatud",
+        "Türanni tuli muutus jahedaks ja rahulikuks",
+        "Meri heitis oma vangi kaldale",
+        "Vangist sai Egiptuse laekur"
+      ],
+      "answer": "Mu rahvas ületas mere ja jõudis turvalisse kohta"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

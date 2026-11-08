@@ -1,0 +1,61 @@
+{
+  "title": "L'épreuve du rocher stérile",
+  "intro": "Une communauté, fière et habile, a gravé son héritage dans les montagnes. Mais lorsqu'un signe clair leur fut envoyé, une épreuve de foi et de maîtrise de soi, leur arrogance les mena sur un chemin sans retour. Pouvez-vous identifier ce groupe et les conséquences de leur rébellion ?",
+  "clues": [
+    "Nous étions maîtres de la pierre, sculptant de magnifiques demeures à même les flancs des montagnes.",
+    "Un messager issu de notre peuple est venu à nous, nous appelant à adorer le seul vrai Dieu.",
+    "Nous avons exigé un signe pour prouver ses paroles, et une créature unique a été amenée pour nous mettre à l'épreuve.",
+    "On nous a donné un ordre simple : partager notre source d’eau avec cette créature, en la laissant boire le jour désigné.",
+    "Dans notre arrogance, quelques-uns d'entre nous ont conspiré et nous avons défié l'avertissement, abattant la créature qui était censée être notre signe.",
+    "On nous a donné trois jours avant notre destin tragique, puis une violente explosion nous a saisis dans nos maisons, nous laissant sans vie et anéantis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les gens de 'Ad",
+        "Les habitants de Madyan",
+        "Peuple de Thamud",
+        "Peuple de Saba",
+        "Peuple de Lut"
+      ],
+      "answer": "Peuple de Thamud"
+    },
+    "trial": {
+      "label": "Quel était notre test principal ?",
+      "options": [
+        "Construire une arche pour survivre à une inondation",
+        "Résister à la tentation de pêcher le jour du sabbat",
+        "Renoncer aux pratiques commerciales frauduleuses",
+        "Protéger une chamelle miraculeuse",
+        "Endurer une famine de sept ans"
+      ],
+      "answer": "Protéger une chamelle miraculeuse"
+    },
+    "location": {
+      "label": "Quel était l'élément central de notre histoire ?",
+      "options": [
+        "Le veau d'or",
+        "La chamelle",
+        "Le bâton du prophète Moïse",
+        "Le Grand Barrage de Ma'rib",
+        "La table dressée du ciel"
+      ],
+      "answer": "La chamelle"
+    },
+    "outcome": {
+      "label": "Quel fut notre destin ultime ?",
+      "options": [
+        "Noyé dans un grand déluge",
+        "Transformés en singes et en porcs",
+        "Submergé par un vent furieux",
+        "Dispersés par la rupture d'un barrage",
+        "Détruit par une puissante explosion/un tremblement de terre"
+      ],
+      "answer": "Détruit par une puissante explosion/un tremblement de terre"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

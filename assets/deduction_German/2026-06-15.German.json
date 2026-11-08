@@ -1,0 +1,61 @@
+{
+  "title": "Die Herrschaft von Wind und Flamme",
+  "intro": "Stell dir ein Reich vor, in dem der Wind selbst einem einzigen Herrscher gehorchte, in dem die Stimmen der kleinsten Geschöpfe Gewicht hatten und in dem Kräfte, die dem gewöhnlichen Auge verborgen blieben, sorgsam gehütet wurden. Diese Gestalt erbte ein außergewöhnliches Königreich von einem geliebten Vorgänger und übte Macht über die Elemente und die Dschinn aus. Doch große Macht brachte große Prüfungen mit sich – und ein letzter Augenblick sollte etwas Erstaunliches über das Wesen von Leben und Tod selbst offenbaren.",
+  "clues": [
+    "Ich erbte ein großes Königreich von einem geliebten Elternteil, der zugleich Prophet und Diener Allahs war.",
+    "Allah gab mir die Herrschaft über den Wind und sandte ihn an einem einzigen Morgen auf Botengänge aus, für die man sonst einen Monat bräuchte.",
+    "Selbst die kleinsten Geschöpfe würden von meiner Annäherung berichten, und ich würde innehalten und über ihr Bewusstsein staunen.",
+    "Ich befehligte ein riesiges Heer aus Dschinn, Menschen und Vögeln, die alle in ordentlichen Reihen vor mir aufgestellt waren.",
+    "Ein ferner Herrscher kam, um mich mit einer schwierigen Aufgabe zu prüfen, und ich ließ den Thron dieses Herrschers an meinen Hof bringen, noch bevor der Besucher sich von seinem Platz erheben konnte.",
+    "Ich blieb stehen und stützte mich auf einen Stab, bis ein kleines Erdentier ihn durchnagte – und erst dann merkten die Menschen um mich herum, dass ich gestorben war."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Sulayman (Salomo)",
+        "Prophet Dawud (David)",
+        "Prophet Isa (Jesus)",
+        "Prophet Muhammad ﷺ",
+        "Prophet Musa (Moses)"
+      ],
+      "answer": "Prophet Sulayman (Salomo)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Herbeiführung des Throns einer fernen Königin durch übernatürliche Mittel",
+        "Als Kind in einen tiefen Brunnen hinabgelassen werden",
+        "Die Magier eines Tyrannen mit wundersamen Zeichen konfrontieren",
+        "Schon in der Wiege sprach sie, um die Ehre einer Mutter zu verteidigen.",
+        "Empfang der letzten offenbarten Schrift auf einem heiligen Berg"
+      ],
+      "answer": "Die Herbeiführung des Throns einer fernen Königin durch übernatürliche Mittel"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein von einer Termite durchgenagter Holzstab",
+        "Eine gewaltige Arche, gebaut, um eine weltweite Flut zu überstehen.",
+        "Ein Stab, der sich vor einem Tyrannen in eine Schlange verwandelte",
+        "Ein Stück Stoff, das zur Heilung von Blinden verwendet wurde",
+        "Eine heilige Höhle, in der zum ersten Mal eine Offenbarung empfangen wurde"
+      ],
+      "answer": "Ein von einer Termite durchgenagter Holzstab"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ein adliger Herrscher, der zu Besuch war, nahm nach dem Erleben von Zeichen den Glauben an.",
+        "Eine gewaltige Flut vernichtete alle außer den Gläubigen in einer Arche.",
+        "Ein Pharao und sein Heer kamen im Meer um.",
+        "Ein gerechter Gefährte wurde in den Himmel aufgenommen.",
+        "Ein tyrannischer König und seine Stadt wurden gestürzt und zerstört"
+      ],
+      "answer": "Ein adliger Herrscher, der zu Besuch war, nahm nach dem Erleben von Zeichen den Glauben an."
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

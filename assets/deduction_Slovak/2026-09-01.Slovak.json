@@ -1,0 +1,61 @@
+{
+  "title": "Hlas z okraja",
+  "intro": "Stojíte v meste, kam prišli traja poslovia s jasnými znameniami, ale ľudia sa im posmievajú a držia sa svojich starých spôsobov. Z najvzdialenejšej časti mesta sa k davu rúti postava, zadýchaná a odhodlaná, aby povedala pravdu tvárou v tvár odmietnutiu. Kto je táto duša, ktorá riskovala všetko pre posolstvo, ktoré nebolo jej vlastné?",
+  "clues": [
+    "Žil som medzi ľuďmi, ktorí prijali poslov s jasnými znameniami, no oni sa od nich s aroganciou odvrátili.",
+    "Pribehol som z najvzdialenejšej časti mesta, keď som počul volanie poslov.",
+    "Povedal som svojmu ľudu: „Ľud môj, nasledujte poslov. Nasledujte tých, ktorí od vás nežiadajú odmenu, lebo oni sú správne usmernení.“",
+    "Nebol som prorok, ale veril som v poslov a nabádal som svoj ľud, aby urobil to isté.",
+    "Moji ľudia sa vysmievali mojej rade a obviňovali ma, že som extrémista.",
+    "Keď ma zabili, Alah mi povedal, aby som vstúpil do raja, a ja som si prial, aby môj ľud poznal odpustenie a úctu, akej sa mi dostalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Muž z najvzdialenejšej časti mesta (Ya-Sin)",
+        "Jeden z troch poslov vyslaných do mesta",
+        "Významný obchodník mesta",
+        "Vládca mesta",
+        "Vodca neveriacich"
+      ],
+      "answer": "Muž z najvzdialenejšej časti mesta (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Kázal svojmu ľudu, aby nasledoval poslov",
+        "Stavba lode na záchranu veriacich pred potopou",
+        "Byť hodený do ohňa pre vieru",
+        "Byť prehltnutý veľrybou",
+        "Dostávanie kráľovstva a múdrosti"
+      ],
+      "answer": "Kázal svojmu ľudu, aby nasledoval poslov"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Najvzdialenejšia časť mesta",
+        "Archa",
+        "Studňa",
+        "Horiaci ker",
+        "Jaskyňa"
+      ],
+      "answer": "Najvzdialenejšia časť mesta"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Vstúpil do raja a prial si, aby jeho ľud poznal jeho odpustenie",
+        "Utopil sa so svojimi ľuďmi za odmietnutie posolstva",
+        "Dostal zázrak s ťavou samicou",
+        "Po súdnom procese sa stal vládcom",
+        "Bol zachránený Alahom a zostal so svojím ľudom"
+      ],
+      "answer": "Vstúpil do raja a prial si, aby jeho ľud poznal jeho odpustenie"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

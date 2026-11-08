@@ -1,0 +1,61 @@
+{
+  "title": "Kostaldeko transgresioa",
+  "intro": "Ahaztutako kostalde bateko hondarretan zaude, non olatuak jainkozko agindu batek probatutako komunitate baten xuxurla egiten duten. Airea eraldaketa harrigarri batera eraman zuen urraketa baten oroitzapenez astuna da. Nor ziren arima hauek, eta zein izan zen haien probaren izaera?",
+  "clues": [
+    "Jaunarengandik agindu argi bat jaso genuen komunitate bat ginen, baina horri aurre egiteko moduak aurkitu genituen.",
+    "Ur-masa baten ondoan bizi ginen, eta gure bizibidea bertako izakien menpe zegoen.",
+    "Munduko helburuetatik aldentzeko agindu ziguten egunean proba bat etorri zitzaigun.",
+    "Egun hartan bertan, uretako izakiak ugari etorri zitzaizkigun, jasanezina zen tentazioa eraginez.",
+    "Jainkozko agindua saihesteko trikimailu maltzur bat asmatu genuen, dekretua gainditu ahal izango genuela pentsatuz.",
+    "Gure transgresioak eraldaketa umiliagarri batera eraman gintuen; Alaren aginduz tximino mespretxagarri bihurtu ginen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sabatuko jendea",
+        "Rass-eko jendea.",
+        "Tubbako jendea",
+        "Kobazuloko jendea",
+        "Lubakiaren Lagunak"
+      ],
+      "answer": "Sabatuko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Arrainen agerpena larunbatean",
+        "Lehorte larriaren urtea.",
+        "Txori armada bat bidali zuten haien aurka",
+        "Uholde batek gainezka egin zien",
+        "Lurrikara bortitz bat."
+      ],
+      "answer": "Arrainen agerpena larunbatean"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Itsasoa",
+        "Mendi bat",
+        "Kobazulo bat",
+        "Basamortuko haran bat.",
+        "Hiri gotortu bat."
+      ],
+      "answer": "Itsasoa"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Tximino bihurtuta.",
+        "Lurrak irentsia.",
+        "Haize oihuka suntsituta",
+        "Itsasoan itota.",
+        "Harri zaparrada batek jota"
+      ],
+      "answer": "Tximino bihurtuta."
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "I dormienti cercatori di verità",
+  "intro": "Immaginate un'epoca in cui la fede fu messa alla prova e un gruppo di anime scelse una convinzione incrollabile al posto delle comodità terrene. Di fronte a una scelta difficile, cercarono rifugio, intraprendendo un viaggio che li condusse a un sonno straordinario. La loro storia è una testimonianza della protezione divina e del potere della fede contro l'oppressione. Riuscite a identificare questi individui straordinari?",
+  "clues": [
+    "Eravamo una piccola assemblea, unita da una profonda fede nell'Unico Creatore.",
+    "Abbiamo vissuto in un'epoca in cui un sovrano potente esigeva l'adorazione di divinità diverse da Allah.",
+    "Per preservare la nostra fede, abbiamo deciso di abbandonare le nostre case e fuggire dall'oppressione.",
+    "Un fedele compagno, una creatura della terra, ci ha accompagnato nel nostro viaggio.",
+    "Abbiamo trovato rifugio in un luogo appartato, dove Allah ci ha fatto cadere in un sonno profondo e prolungato.",
+    "Quando ci siamo svegliati, credevamo che fosse trascorso solo un giorno o parte di un giorno, ma in realtà erano trascorsi secoli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La gente del fosso",
+        "Il popolo di Thamud",
+        "Il popolo di Saba'",
+        "Il popolo della caverna",
+        "Il popolo di Madyan"
+      ],
+      "answer": "Il popolo della caverna"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Essere messo alla prova con un terreno sterile",
+        "Di fronte a una grande alluvione",
+        "In cerca di rifugio da un sovrano tirannico",
+        "Essere gettati in un fuoco ardente",
+        "Sfida la magia di uno stregone"
+      ],
+      "answer": "In cerca di rifugio da un sovrano tirannico"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un palazzo grandioso",
+        "Una nave/arca",
+        "Un pozzo profondo",
+        "Una grotta",
+        "Una montagna imponente"
+      ],
+      "answer": "Una grotta"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Essendo stato concesso un regno",
+        "Un sonno miracoloso durato secoli",
+        "Essere inghiottito dalla terra",
+        "Essere salvati da una tempesta distruttiva",
+        "Essere provvisti di una tavola celeste"
+      ],
+      "answer": "Un sonno miracoloso durato secoli"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

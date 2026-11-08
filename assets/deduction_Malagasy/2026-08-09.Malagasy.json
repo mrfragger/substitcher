@@ -1,0 +1,61 @@
+{
+  "title": "Ny Feo Marina Tamin'ny Andro Fahiny",
+  "intro": "Misy fanahy iray ao amin'ny CORAN izay tantaraina amin'ny andininy vitsivitsy monja ny tantarany, nefa miharihary tsara ny toetrany ambony. Noderain'ny Tsitoha noho ny hatsarany manokana, ity mpanompon'ny Mpamindra fo fahiny ity dia mitana toerana ao amin'ny pejin'ny fanambarana. Ny andraikitrareo dia ny mamantatra ity olona miavaka ity. Azonao vinavinaina ve hoe iza izy ireo?",
+  "clues": [
+    "Mpaminanin'i Allah aho izay niaina teo anivon'ireo taranaka voalohandohan'ny olombelona.",
+    "Niresaka ahy tao amin'ny Bokiny niaraka tamin'ireo mpaminany hafa i Allah, izay samy noderaina noho io hatsaran-toetra io ihany.",
+    "Voalaza fa lehilahin'ny fahamarinana aho ao amin'ny CORAN.",
+    "Nasandratr'Andriamanitra ho amin'ny toerana ambony izay vitsy ny hafa nahatratra ahy.",
+    "Voatonona ao amin'ny Surah Al-Anbiya ny anarako, miaraka amin'ny mpaminany roa hafa izay noderaina noho ny faharetany.",
+    "Izaho no Idris, ilay mpaminany marina sy ambony."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Idris",
+        "Mpaminany Noa",
+        "Mpaminany Ibrahim",
+        "Mpaminany Musa",
+        "Mpaminany Ismail"
+      ],
+      "answer": "Mpaminany Idris"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Mitazona faharetana sy fahamarinana, avy eo dia asandratra ho amin'ny toerana ambony",
+        "Nanangana sambo fiara lehibe mba hamonjena ny mpino tamin'ny safodrano nandravarava",
+        "Atsipy ao anaty afo mirehitra ary mivoaka tsy misy ratra mihitsy",
+        "Miatrika mpanjaka mahery iray sy mandresy ny tafiny mpanao majika",
+        "Velona ao an-kibon'ny trondro lehibe any amin'ny halalin'ny ranomasina"
+      ],
+      "answer": "Mitazona faharetana sy fahamarinana, avy eo dia asandratra ho amin'ny toerana ambony"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Toerana ambony sy ambony eo anatrehan'i Allah",
+        "Sambo goavambe vita amin'ny hazo fisaka ary nasiana godorao",
+        "Afo mirehitra nodoran'ireo mpanompo sampy mpanjaka ratsy fanahy",
+        "Ranomasina midadasika izay mizara ho lalana maina",
+        "Ny kibon'ny trozona lehibe maizina any amin'ny fanambanin'ny ranomasina"
+      ],
+      "answer": "Toerana ambony sy ambony eo anatrehan'i Allah"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nampidirina tao amin'ny famindram-pon'i Allah ho isan'ireo olo-marina",
+        "Voavonjy niaraka tamin'ny mpino rehetra tamin'ny safodrano naneran-tany",
+        "Nivoaka ny lelafo tsy voakasiky ny afo",
+        "Nitarika soa aman-tsara ny Zanak'Isiraely ho any amin'ny fahafahana niampita ny ranomasina",
+        "Nihaona indray tamin'ny fianakaviany malalany rehefa avy niaina fahasahiranana nandritra ny taona maro"
+      ],
+      "answer": "Nampidirina tao amin'ny famindram-pon'i Allah ho isan'ireo olo-marina"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

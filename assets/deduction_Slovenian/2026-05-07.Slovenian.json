@@ -1,0 +1,61 @@
+{
+  "title": "Klicatelj iz globin",
+  "intro": "Predstavljajte si dušo, ki ji je bilo zaupano božansko sporočilo, a je v trenutku naglice brez izrecnega dovoljenja zapustila svoje ljudstvo. To potovanje jih je pripeljalo v izjemno preizkušnjo, globok preizkus potrpežljivosti in zaupanja v Najvišjega. Kdo je ta posameznik, čigar zgodba nas uči o kesanju in prostranosti Alahovega usmiljenja?",
+  "clues": [
+    "Poslali so me k velikemu narodu, toda njihova začetna zavrnitev me je zelo razburila.",
+    "Svoje ljudi sem zapustil v prepričanju, da je moja misija opravljena, preden sem prejel jasen ukaz za odhod.",
+    "Iskal sem prevoz na ladji, toda huda nevihta in žreb sta privedla do grozljive situacije.",
+    "Vrgli so me v morje in mogočna bitje iz globin me je celega pogoltnilo.",
+    "V temi njegovega trebuha sem klical k Alahu, priznal svojo napako in prosil za odpuščanje.",
+    "Alah je bitju ukazal, naj me vrže na obalo, in ozdravel sem pod edinstveno rastlino."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Jusuf (Jožef)",
+        "Prerok Nuh (Noe)",
+        "Prerok Junus (Jona)",
+        "Prerok Sulejman (Salomon)",
+        "Prerok Ajjub (Job)"
+      ],
+      "answer": "Prerok Junus (Jona)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Razcep morja",
+        "Nimrodov ogenj",
+        "Biti pogoltnjen s strani velike ribe",
+        "Poplava",
+        "Uničenje mesta s kamenjem"
+      ],
+      "answer": "Biti pogoltnjen s strani velike ribe"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Osebje",
+        "Trebuh ribe",
+        "Vodnjak",
+        "Goreči grm"
+      ],
+      "answer": "Trebuh ribe"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal je velik vladar",
+        "Zgradil Kaabo",
+        "Vrnil se je, da bi vodil skesani narod",
+        "Dobila je oblast nad džini",
+        "Vodil ljudi čez puščavo"
+      ],
+      "answer": "Vrnil se je, da bi vodil skesani narod"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

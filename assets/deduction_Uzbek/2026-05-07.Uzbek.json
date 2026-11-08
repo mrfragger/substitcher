@@ -1,0 +1,61 @@
+{
+  "title": "Chuqurlikdan chaqiruvchi",
+  "intro": "Ilohiy xabar ishonib topshirilgan, ammo shoshilinch bir lahzada o'z qavmidan aniq ruxsatsiz chiqib ketgan bir qalbni tasavvur qiling. Bu safar ularni favqulodda sinovga, sabr-toqat va Allohga tayanishning chuqur sinoviga olib keldi. Hikoyasi bizga tavba va Allohning rahmatining cheksizligi haqida o'rgatadigan bu shaxs kim?",
+  "clues": [
+    "Men buyuk xalqqa yuborildim, ammo ularning dastlabki rad etilishi meni qiynadi.",
+    "Men ketish haqida aniq buyruq olishdan oldin, vazifam bajarilganiga ishonib, xalqimni tark etdim.",
+    "Men kemada yo'l qidirdim, ammo kuchli bo'ron va qur'a tashlash og'ir vaziyatga olib keldi.",
+    "Men dengizga tashlandiq bo'ldim, tubsizlikdagi qudratli bir maxluq meni butunlay yutib yubordi.",
+    "Qornim zulmatida men Allohga iltijo qildim, xatolarimni tan oldim va Undan kechirim so'radim.",
+    "Alloh maxluqqa meni qirg'oqqa uloqtirishni buyurdi va men noyob o'simlik tagida sog'ayib ketdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yusuf payg'ambar (Yusuf)",
+        "Nuh payg'ambar (Nuh)",
+        "Yunus payg'ambar (alayhissalom)",
+        "Payg'ambar Sulaymon (Sulaymon)",
+        "Payg'ambar Ayyub (Ayyub)"
+      ],
+      "answer": "Yunus payg'ambar (alayhissalom)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Dengizning ikkiga bo'linishi",
+        "Nimrodning olovi",
+        "Katta baliq tomonidan yutib yuborilmoqda",
+        "To'fon",
+        "Shaharning toshlar bilan vayron bo'lishi"
+      ],
+      "answer": "Katta baliq tomonidan yutib yuborilmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Baliqning qorni",
+        "Quduq",
+        "Yonayotgan buta"
+      ],
+      "answer": "Baliqning qorni"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Buyuk hukmdorga aylandi",
+        "Ka'bani qurdi",
+        "Tavba qilgan xalqni boshqarish uchun qaytib keldi",
+        "Jinlar ustidan hukmronlik berildi",
+        "Odamlarni cho'l bo'ylab boshlab bordi"
+      ],
+      "answer": "Tavba qilgan xalqni boshqarish uchun qaytib keldi"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

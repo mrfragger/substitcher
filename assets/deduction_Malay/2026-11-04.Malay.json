@@ -1,0 +1,61 @@
+{
+  "title": "harta karun yang tenggelam di bawah kesombongan",
+  "intro": "Bayangkan berdiri di hadapan timbunan kekayaan yang begitu banyak sehingga hanya membawa kunci-kunci itu akan meletihkan sekumpulan individu yang kuat. Di sekeliling anda, suara-suara menggesa kerendahan hati dan ingatan, namun keangkuhan semakin kuat daripada rasa syukur. Apa yang berlaku apabila nikmat menjadi ujian dan keangkuhan menutupi hasilnya?",
+  "clues": [
+    "Aku adalah dari kaum Musa, namun aku telah menderhakai mereka.",
+    "Aku dikurniakan harta karun yang begitu banyak sehingga kunci-kuncinya akan membebani sekelompok orang yang kuat.",
+    "Aku dinasihati oleh kaumku supaya jangan bermegah dan mencari akhirat tanpa melupakan bahagianku di dunia ini.",
+    "Aku mendakwa bahawa apa yang aku miliki hanya diberikan kepadaku kerana ilmu yang aku ada.",
+    "Aku berjalan di hadapan kaumku dengan berhias, dan orang-orang yang menginginkan kehidupan duniawi menginginkan seperti apa yang kumiliki.",
+    "Aku ditelan bumi bersama tempat tinggalku, dan tiada seorang pun yang dapat membantuku dan aku juga tidak dapat membantu diriku sendiri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Bermegah dengan kekayaan dan menafikan nikmat Allah walaupun telah diberi nasihat",
+        "Mencabar Ibrahim tentang memberi hidup dan mati",
+        "Memimpin tentera menentang Talut dan Dawud",
+        "Berhala-berhala yang dipahat untuk disembah oleh orang ramai",
+        "Membunuh saudaranya kerana iri hati terhadap persembahan"
+      ],
+      "answer": "Bermegah dengan kekayaan dan menafikan nikmat Allah walaupun telah diberi nasihat"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Kunci kepada khazanah yang sangat besar",
+        "Tabut Perjanjian",
+        "Anak lembu emas hiasan",
+        "Empangan di antara dua gunung",
+        "Sebelas bintang dalam mimpi"
+      ],
+      "answer": "Kunci kepada khazanah yang sangat besar"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Ditelan bumi dengan tempat tinggal dan kekayaan",
+        "Lemas di laut ketika mengejar Musa",
+        "Tertimpa batu dari umban Daud",
+        "Dimusnahkan oleh letupan kuat kerana melumpuhkan unta betina",
+        "Berubah menjadi kera kerana melanggar Sabat"
+      ],
+      "answer": "Ditelan bumi dengan tempat tinggal dan kekayaan"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

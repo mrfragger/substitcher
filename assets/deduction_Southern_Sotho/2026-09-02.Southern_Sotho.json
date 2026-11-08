@@ -1,0 +1,61 @@
+{
+  "title": "Ho Robala ka Nako e Fetileng",
+  "intro": "Nahana ka nako eo 'nete e neng e khutsisoa 'me balumeli ba tsongoa. Sehlopha se senyenyane se ile sa khetha ho ikhula ho e-na le ho inehela, sa fumana setšabelo libakeng tse sa lebelloang haholo - sebaka seo e neng e tla ba sebaka sa bona sa phomolo ka makholo a lilemo a ke keng a baloa. Ha ba qetella ba tsohile, lefatše le ne le fetohile ho ba potoloha. Meea ena e robetseng ke bo-mang?",
+  "clues": [
+    "Re ne re le bacha ba lulang motseng oa khale.",
+    "Sechaba sa rona se ile sa re laela hore re rapele le bona, empa ra hana.",
+    "Re ile ra baleha motseng ho ea batla setšabelo ho ba hanyetsang litumelo tsa rona.",
+    "Molekane ea tšepahalang ea maoto a mane o ile a sala monyako oa sebaka seo re neng re ipatile ho sona.",
+    "Allah o re robalitse boroko ka lilemo tse makholo a mararo le metso e robong.",
+    "Qetellong ha re tsoha, motse oa rona o kileng oa hlorisoa o ne o amohetse tumelo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Ashab al-Kahf (Batho ba Lehaha)",
+        "Ashab al-Fil (Lebotho la Tlou)",
+        "Ashab al-Ukhdud (Balekane ba Foromo)",
+        "Hawariyyun (Barutuoa ba Isa)",
+        "Yajuj wa Majuj (Gogo le Magogo)"
+      ],
+      "answer": "Ashab al-Kahf (Batho ba Lehaha)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Re ile ra ikhula ka lehaheng 'me ra robala makholo a lilemo",
+        "Re pholositsoe mollong o tukang",
+        "Re ile ra metsoa ke tlhapi e kholo",
+        "Re ile ra lekoa ka kamele e tšehali e makatsang",
+        "Re filoe matšoao a robong a hlakileng"
+      ],
+      "answer": "Re ile ra ikhula ka lehaheng 'me ra robala makholo a lilemo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Lehaha le tebileng lithabeng",
+        "Sekepe leoatleng le bulehileng",
+        "Moaho o molelele o fihlang maholimong",
+        "Serapa se arotsoeng pakeng tsa bahlolisani ba babeli",
+        "Tšitiso ea tšepe le koporo"
+      ],
+      "answer": "Lehaha le tebileng lithabeng"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Re ile ra tsoha ra fumana hore motse oa rona o fetohile tumelo",
+        "Mollo o tukang o ile oa fetoha o pholileng le o nang le khotso",
+        "Lebotho la sera le ile la khangoa ke metsi leoatleng",
+        "Linonyana tse jereng majoe li ile tsa timetsa sera",
+        "Tlhapi e kholo e re lokolletse lebopong"
+      ],
+      "answer": "Re ile ra tsoha ra fumana hore motse oa rona o fetohile tumelo"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

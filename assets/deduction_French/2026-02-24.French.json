@@ -1,0 +1,61 @@
+{
+  "title": "L'Écho du mensonge",
+  "intro": "Un lien familial fut mis à l'épreuve par une vague d'envie. Un complot secret se trama, déclenchant une série d'événements qui s'étendraient sur des années et traverseraient des milliers de kilomètres. Les agissements de ce groupe engendrèrent une profonde séparation et un immense chagrin, mais l'histoire ne s'arrête pas là. C'est un récit de tromperie, de regrets et du déploiement final d'un plan divin. Parviendrez-vous à percer le mystère de ces individus dont les choix ont marqué des générations ?",
+  "clues": [
+    "Nous étions rongés par la jalousie face à l'affection témoignée à l'un des nôtres.",
+    "Rongés par l'envie, nous avons comploté et jeté notre frère/sœur dans les ténèbres d'un puits.",
+    "Pour dissimuler notre acte, nous avons présenté à notre père un vêtement taché de faux sang.",
+    "Des années plus tard, une grave famine nous a contraints à nous rendre en Égypte pour nous ravitailler.",
+    "Là, nous nous sommes présentés devant un gouverneur puissant qui, à notre insu, était le frère ou la sœur même que nous avions lésé(e).",
+    "Notre épreuve finale consistait à amener notre plus jeune frère, Binyamin, ce qui a conduit à la révélation de notre passé et de notre père, le prophète Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les Fils d'Adam (Qabil & Habil)",
+        "Les disciples du prophète Isaïe",
+        "Les frères du prophète Yusuf",
+        "Le peuple de Madyan",
+        "Les Magiciens de Fir'awn"
+      ],
+      "answer": "Les frères du prophète Yusuf"
+    },
+    "trial": {
+      "label": "Quel fut notre principal méfait ?",
+      "options": [
+        "Construction d'un veau d'or pour le culte",
+        "Exiger de voir Allah directement",
+        "Se moquer d'un prophète qui construit une arche",
+        "Nous avons trompé notre père et abandonné notre frère.",
+        "Violer le sabbat en pêchant"
+      ],
+      "answer": "Nous avons trompé notre père et abandonné notre frère."
+    },
+    "location": {
+      "label": "Quel objet était au cœur de notre tromperie ?",
+      "options": [
+        "Un ensemble de tablettes inscrites",
+        "Une chemise tachée de faux sang",
+        "Un veau doré",
+        "Un bel oiseau (la huppe)",
+        "Un bâton qui se transforma en serpent"
+      ],
+      "answer": "Une chemise tachée de faux sang"
+    },
+    "outcome": {
+      "label": "Quel a été le dénouement final de notre histoire ?",
+      "options": [
+        "Nous avons été détruits par une terrible inondation.",
+        "Nous avons été transformés en singes",
+        "Nous avons été engloutis par la terre",
+        "Nous avons été pardonnés et réunis avec notre famille",
+        "Nous nous sommes noyés dans la mer"
+      ],
+      "answer": "Nous avons été pardonnés et réunis avec notre famille"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

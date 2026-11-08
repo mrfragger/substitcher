@@ -1,0 +1,61 @@
+{
+  "title": "Zniknęła rzesza",
+  "intro": "Stoisz przed echem społeczności, której historia zapisana jest w falach. Te dusze usłyszały wezwanie, wybrały bunt i stawiły czoła konsekwencjom, które zmieniły kształt Ziemi. Kim są i co stało się z ich światem?",
+  "clues": [
+    "Żyliśmy dawno temu i przyszedł do nas posłaniec spośród nas samych.",
+    "Oddawaliśmy cześć pięciu bożkom i nie chcieliśmy ich porzucić.",
+    "Wyśmiewaliśmy posłańca i oskarżyliśmy go o błądzenie.",
+    "Zażądaliśmy, aby wymierzył karę, jeśli mówił prawdę.",
+    "Widzieliśmy jak niebo padało deszczem, a ziemia wytryskiwała źródła.",
+    "Wspięliśmy się na wyższe miejsca, aby uciec, ale fale nas dopadły."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ludzie Nuh",
+        "Ludzie z „Ad”",
+        "Ludzie z Thamud",
+        "Ludzie Lutu",
+        "Ludzie Madyanu"
+      ],
+      "answer": "Ludzie Nuh"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Utonęliśmy w wielkiej powodzi",
+        "Zostaliśmy zniszczeni przez huragan",
+        "Zostaliśmy zabici przez głośny wybuch",
+        "Zostaliśmy pochłonięci przez ziemię",
+        "Zostaliśmy obrzuceni kamieniami z nieba"
+      ],
+      "answer": "Utonęliśmy w wielkiej powodzi"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wielka powódź",
+        "Gwałtowny wiatr",
+        "Deszcz kamieni",
+        "Ognisty wybuch",
+        "Trzęsienie ziemi"
+      ],
+      "answer": "Wielka powódź"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wszyscy zginęliśmy, oprócz wierzących wraz z Noem",
+        "Zostaliśmy przemienieni w małpy",
+        "Pozostawiono nas jako ruiny dla podróżników",
+        "Zostaliśmy zamienieni w sól",
+        "Dostaliśmy wytchnienie"
+      ],
+      "answer": "Wszyscy zginęliśmy, oprócz wierzących wraz z Noem"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

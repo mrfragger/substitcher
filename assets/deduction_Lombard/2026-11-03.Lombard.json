@@ -1,0 +1,61 @@
+{
+  "title": "El sonn del giüst",
+  "intro": "Ind un temp quand la fed l’era pericolosa e i poderos cercaven de sfraciar la credenza, una banda picinina de aneme jovene l’ha fait una cerna qe la g’havaria fait eco ind i secoi. Scapant de tüt chel che savevan, g’han cercà rifugi in de la bugia sconduuda de una muntagna e g’han mettü la sò fiducia interament en Allah. Quel che l’è sucedü dopu l’è diventà un segn atemporal per quei che pensan.",
+  "clues": [
+    "Erum un grupp de giœuin che credevan in del noster Signur, e Luu g’ha aumentà la guida.",
+    "Num sem stà davaant del noster popul e g’hem dichiarà che g’hem mai invocà nissuna divinità olter a Allah.",
+    "G’hem cercad rifugi ind una caverna, disend: “O noster Signor, da-m la misericordia de ti e guida-m justament ind el noster afar.”",
+    "Dormivom per tanti an, e el sul se inclinava luntan de la noster caverna e el ne tocava minga.",
+    "El noster can l’era slungà a l’entrada de la caverna, e el ne guardava cuma se l’era de guardia.",
+    "Quand che serem desviluppà, se sem dumandà quant temp serem stà, e vun de noalter l’è stà mandà cun di muned d’argent per cumprà de magnà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Gent de la Caverna",
+        "Gent de la fossa",
+        "Gent del Sabat",
+        "La gent del elefant",
+        "Compagn del Legn"
+      ],
+      "answer": "Gent de la Caverna"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Scapà in d’una caverna per scapà da la persecuziun per luur fede",
+        "Distrutt de un vent viulent",
+        "Inglutì de la terra",
+        "Anegato in del mar",
+        "Colpì de una tempesta de sass"
+      ],
+      "answer": "Scapà in d’una caverna per scapà da la persecuziun per luur fede"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un can che custodiss l’entrada de la caverna",
+        "Una granda arca",
+        "Un bastun che s’è trasfurmà en serpent",
+        "Un usèll",
+        "Un vitell dorà"
+      ],
+      "answer": "Un can che custodiss l’entrada de la caverna"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Sun stà in de la caverna per 309 an e dopu sun stà levà sü cuma segn",
+        "Sun stà trasfurmà en simi",
+        "Sun stà distrutt de un’alluviun",
+        "Sun stà fatt traversà el mar",
+        "G’han ricevü un regn"
+      ],
+      "answer": "Sun stà in de la caverna per 309 an e dopu sun stà levà sü cuma segn"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

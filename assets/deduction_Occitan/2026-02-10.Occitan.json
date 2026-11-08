@@ -1,0 +1,60 @@
+{
+  "title": "Lo sòm de las edats",
+  "intro": "Sètz a mand d'embarcar dins un viatge dins lo temps, en rescontrant un mistèri prigond de la fe e del poder divin. Imaginatz un grop d'individús que desfisèron las nòrmas de lor societat, s'arrapant al monoteïsme dins un mond de politeïsme. Lor istòria es un testament de la capacitat d'Allah de protegir sos servicials justes de las manièras mai extraordinàrias. Podètz descobrir l'identitat d'aquelas figuras remarcablas?",
+  "clues": [
+    "Èrem un pichon grop de joves òmes que cresiam en un sol Dieu, malgrat lo politeïsme generalizat de nòstre pòble.",
+    "Fugiguèrem d'un governant tiranic que nos menaçava per nòstra fe, cranhent la persecucion e la mòrt.",
+    "Cerquèrem refugi dins un luòc isolat, en esperant la misericòrdia e la proteccion d'Allah dels nòstres opressors.",
+    "Nòstre Senhor nos faguèt tombar dins un sòm prigond, un sòm miraculos que desfisava lo passatge del temps.",
+    "Quand nos desrevelhèrem, cresiam qu'aviam pas que pausat un jorn o una partida d'una jornada, inconscients del vast periòde qu'èra vertadièrament passat.",
+    "L'Alcoran menciona que demorèrem dins nòstre estat pendent tres cents ans, e despassèrem de nòu, venent un signe per l'umanitat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "La Gent de la Fossa",
+        "Lo pòble de Thamud",
+        "Las Gentes de la Caverna",
+        "Lo pòble de Madyan",
+        "Los Companhons de l'Elefant"
+      ],
+      "answer": "Las Gentes de la Caverna"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Fàcia a una granda inondacion",
+        "Èsser engolit per la tèrra",
+        "Lo long dormiment miraculos",
+        "La destruccion de lor vila",
+        "La fendidura de la mar"
+      ],
+      "answer": "Lo long dormiment miraculos"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un arbust ardent",
+        "Una montanha",
+        "Una barca",
+        "Una cauna",
+        "Un potz"
+      ],
+      "answer": "Una cauna"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Foguèron balhadas una riquesa e un poder immenses",
+        "Foguèron transformats en simis e pòrcs",
+        "Foguèron levats del sòm coma un signe prigond",
+        "Foguèron afogats dins un grand deluvi",
+        "Bastiguèron un reialme magnific"
+      ],
+      "answer": "Foguèron levats del sòm coma un signe prigond"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

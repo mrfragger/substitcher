@@ -1,0 +1,61 @@
+{
+  "title": "Proscrisul din grădină",
+  "intro": "O ființă misterioasă a trăit odată în cele mai înalte rânduri ale creației, mai aproape de Divin decât mulți ar putea înțelege. Totuși, mândria a prins rădăcini, iar un singur act de sfidare a schimbat cursul existenței. Acum, această ființă rătăcește ca un dușman jurat, șoptind și uneltind până când sosește o zi promisă. Poți descoperi identitatea acestui decăzut?",
+  "clues": [
+    "Am fost odată printre cei mai apropiați de prezența Divină, ridicat deasupra unei mari părți a creației.",
+    "Am fost creat dintr-un element arzător, nu din pământ sau lut.",
+    "Când mi s-a poruncit să mă închin în fața unei noi creații, am refuzat — motivat de ceea ce credeam că este propria mea superioritate.",
+    "Am fost alungat și blestemat, dar în cele din urmă mi s-a acordat o amânare până la o dată cunoscută, stabilită.",
+    "Am jurat să-i îndrum în rătăcire pe cât mai mulți, apropiindu-mă de urmașii lui Adam din toate direcțiile.",
+    "Sunt dușmanul declarat și fățiș al întregii omeniri, complotând și șoptind mereu până la sfârșitul hotărât."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Profetul Ilia",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Proces / Eveniment",
+      "options": [
+        "Refuzul de a se prosterna înaintea lui Adam",
+        "Construirea unui vițel de aur pentru ca oamenii să se închine",
+        "Învățând vrăjitorie locuitorilor Babilonului",
+        "Despărțind marea cu un toiag",
+        "Purtând tronul Reginei din Saba într-o clipă"
+      ],
+      "answer": "Refuzul de a se prosterna înaintea lui Adam"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Grădina Edenului",
+        "Muntele Turului",
+        "Fântâna lui Rass",
+        "Palatul faraonului",
+        "Peștera celor adormiți"
+      ],
+      "answer": "Grădina Edenului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Răgaz acordat până la Ziua Judecății",
+        "Înecat în mare cu o armată",
+        "Îngropat de viu sub un palat prăbușit",
+        "Transformat într-o maimuță sau o maimuță",
+        "Ridicat la un rang superior"
+      ],
+      "answer": "Răgaz acordat până la Ziua Judecății"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

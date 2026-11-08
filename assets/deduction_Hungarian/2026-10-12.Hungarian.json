@@ -1,0 +1,61 @@
+{
+  "title": "A meg nem születettek fogadalma",
+  "intro": "Egy őszinte lélek szent ígéretet tett gyermekének érkezése előtt. Ennek az alaknak a története egy szentély falain belül bontakozik ki, ahol az odaadás találkozik az isteni elfogadással. Ki Allah szolgája?",
+  "clues": [
+    "Egy olyan családhoz tartoztam, amelyet a Korán tisztel.",
+    "Ünnepélyes fogadalmat tettem, hogy meg nem született gyermekemet Allah szolgálatára ajánlom.",
+    "Amikor megszültem, meglepődve tapasztaltam, hogy lányom lesz, pedig fiút vártam.",
+    "A gyermekemet Maryamnak neveztem el, egy név, amely az odaadást és a szolgálatot tükrözi.",
+    "Allah védelmét kértem gyermekem és leszármazottai számára az átkozott Sátántól.",
+    "Gyermekemet az Úr befogadta, és Zakariya próféta gondjaira bízta a szentélyben."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Imran (Maryam anyjának) felesége",
+        "Asija, a fáraó felesége",
+        "Maryam, Isa anyja",
+        "Mózes próféta anyja",
+        "Sába királynője"
+      ],
+      "answer": "Imran (Maryam anyjának) felesége"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Megfogadta, hogy gyermekét a templomnak szenteli",
+        "Tűzbe dobva",
+        "Szárazföldön átkelve a tengeren",
+        "Egy hatalmas bárka építése",
+        "Egy nagy hal lenyelése"
+      ],
+      "answer": "Megfogadta, hogy gyermekét a templomnak szenteli"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A szentély (mihrab), ahová gyermekét helyezték",
+        "A szövetség ládája",
+        "Az aranyborjú",
+        "A személyzet, ami kígyóvá változott",
+        "A datolyapálma, amely alatt pihent"
+      ],
+      "answer": "A szentély (mihrab), ahová gyermekét helyezték"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Gyermekét befogadták és Zakariya próféta gondozásába helyezték.",
+        "Megmenekült egy zsarnok büntetésétől",
+        "Egy fiút kapott, akit Yahyának hívtak.",
+        "Népét vihar pusztította el",
+        "Királynő lett egy hatalmas királyság felett"
+      ],
+      "answer": "Gyermekét befogadták és Zakariya próféta gondozásába helyezték."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

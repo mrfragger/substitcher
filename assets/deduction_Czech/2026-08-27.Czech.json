@@ -1,0 +1,61 @@
+{
+  "title": "Articulate Chople One",
+  "intro": "Ve stínu hory, kudy sestupovala božská slova, se víra lidu otřásla pod třpytem zlata. Jedna duše, obdařená výřečností, stála jako opora většího poslání, přesto čelila okamžiku hluboké zkoušky. Když vyvolený posel vystoupil k posvátnému svěření, tato postava zůstala pozadu a prosila neklidný národ. Kdo je tato neochvějná duše, jejíž hlas se ozval proti modlářství?",
+  "clues": [
+    "Byl jsem vyvolen Alláhem za proroka, ačkoli můj příběh je často vyprávěn vedle jiného.",
+    "Byl jsem poslán k tyranskému vládci, ale mou rolí bylo podporovat, ne vést.",
+    "Byl jsem obdařen výřečností a má slova měla obměkčit srdce.",
+    "Když můj společník odjel na posvátnou schůzku, já jsem zůstal vést neklidný lid.",
+    "Ve své netrpělivosti si ze svých ozdob ukovali sochu a já jsem je prosil, aby zůstali věrní Alláhovi.",
+    "Můj společník se vrátil a chytil mě, ale já jsem mu vysvětlil, že mě ti lidé přemohli a málem mě zabili; já jsem mezi provinilce nepatřil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Músa",
+        "Prorok Harun",
+        "Prorok Ísa",
+        "Prorok Jahja",
+        "Prorok Zakariya"
+      ],
+      "answer": "Prorok Harun"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být vhozen do ohně",
+        "Být vhozen do studny",
+        "Tváří v tvář incidentu se zlatým teletem",
+        "Zkouška těžké nemoci",
+        "Zkouška ztráty bohatství a dětí"
+      ],
+      "answer": "Tváří v tvář incidentu se zlatým teletem"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zlaté tele",
+        "Zaměstnanci",
+        "Archa úmluvy",
+        "Tablety",
+        "Hořící keř"
+      ],
+      "answer": "Zlaté tele"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Přísně potrestán",
+        "Odpuštěno a zproštěno viny",
+        "Udělal krále",
+        "Vzat do nebe",
+        "Vzhledem k novému písmu"
+      ],
+      "answer": "Odpuštěno a zproštěno viny"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

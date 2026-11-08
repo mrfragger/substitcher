@@ -1,0 +1,61 @@
+{
+  "title": "Il-Leħen Veruż ta’ Żminijiet Antiki",
+  "intro": "Hemm ruħ fil-Koran li l-istorja tagħha hija rrakkuntata fi ftit versi biss, iżda l-kwalitajiet nobbli tagħha jiddu b'ċarezza brillanti. Imfaħħar mill-Omnipotenti għal virtù speċjali, dan il-qaddej antik tal-Aktar Ħanin għandu post fil-paġni tar-rivelazzjoni. Il-kompitu tiegħek hu li tidentifika din il-figura notevoli. Tista' taħseb min huma?",
+  "clues": [
+    "Jiena profeta ta' Alla li għex fost l-ewwel ġenerazzjonijiet tal-umanità.",
+    "Alla semmieni fil-Ktieb Tiegħu ma’ profeti oħra, kollha mfaħħra għall-istess virtù nobbli.",
+    "Jiena deskritt bħala raġel tal-verità fil-Koran.",
+    "Alla għollini għal post għoli li ftit oħrajn laħqu.",
+    "Ismi jissemma fis-Surah Al-Anbiya, flimkien ma’ żewġ profeti oħra li huma mfaħħra għall-paċenzja tagħhom.",
+    "Jiena Idris, il-profeta veritieru u elevat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Idris",
+        "Profeta Nuh",
+        "Profeta Ibrahim",
+        "Il-Profeta Musa",
+        "Il-Profeta Ismail"
+      ],
+      "answer": "Il-Profeta Idris"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Iż-żamma tal-paċenzja u l-verità, imbagħad elevata għal stazzjon għoli",
+        "Il-bini ta’ arka kbira biex isalva lill-fidili minn għargħar devastanti",
+        "Tintfa’ f’nar qawwi u toħroġ kompletament bla ħsara",
+        "Tiffaċċja sultan setgħan u tegħleb l-armata tiegħu ta’ maġi",
+        "Jgħix ġewwa żaqq ħuta kbira fil-fond tal-baħar"
+      ],
+      "answer": "Iż-żamma tal-paċenzja u l-verità, imbagħad elevata għal stazzjon għoli"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Stazzjon għoli u eżaltat minn Alla",
+        "Bastiment enormi mibni minn twavel u miksi bil-qatran",
+        "Nar qawwi mħeġġeġ mill-idolatri ta’ sultan ħażin",
+        "Baħar vast li nqasam f'mogħdijiet niexfa",
+        "Iż-żaqq skur ta’ baliena kbira fil-qiegħ tal-oċean"
+      ],
+      "answer": "Stazzjon għoli u eżaltat minn Alla"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ammett fil-ħniena ta’ Alla bħala wieħed mill-ġusti",
+        "Salvati flimkien mal-fidili kollha minn dilluvju madwar id-dinja",
+        "Ħriġt mill-fjammi mingħajr ma ntmess min-nar",
+        "Mexxa lil Ulied Iżrael fis-sigurtà lejn il-libertà minn naħa għall-oħra tal-baħar",
+        "Magħqudin mill-ġdid mal-familja għażiża tagħhom wara snin twal ta’ tbatija"
+      ],
+      "answer": "Ammett fil-ħniena ta’ Alla bħala wieħed mill-ġusti"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

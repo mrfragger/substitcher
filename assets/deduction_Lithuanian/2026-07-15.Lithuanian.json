@@ -1,0 +1,61 @@
+{
+  "title": "Vienišas rekolekcijų kompleksas",
+  "intro": "Dieviškosios malonės metraščiuose minima neprilygstamo tyrumo siela, atskirta nuo savo žmonių, kad ieškotų vienatvės šventoje vietoje. Jie nė nenumanė, kad ši vienatvė bus ženklas visiems pasauliams, tikėjimo išbandymas, apie kurį bus kalbama amžinai.",
+  "clues": [
+    "Prieš gimimą buvau pasišventęs tarnystei.",
+    "Mane globojo kilnus pranašas.",
+    "Mane maitino Alacho atsargos, kurios stebino mano globėją.",
+    "Aš pasitraukiau nuo šeimos į rytinę vietą.",
+    "Man pasirodė angelas tobulo žmogaus pavidalu, pranešdamas apie tyrą sūnų.",
+    "Kai grįžau su naujagimiu, žmonės mane apkaltino, bet kūdikis kalbėjo mano gynimui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Maryam (Marija)",
+        "Asija (faraono žmona)",
+        "Hadžar (Ismailo motina)",
+        "Sara (Ibrahimo žmona)",
+        "Mūzos motina"
+      ],
+      "answer": "Maryam (Marija)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Stebuklingas prasidėjimas ir sūnaus gimimas",
+        "Įmetimas į ugnį",
+        "Praryti milžiniškos žuvies",
+        "Didžiosios arkos statyba",
+        "Kertant jūrą"
+      ],
+      "answer": "Stebuklingas prasidėjimas ir sūnaus gimimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Nuošali rytinė vieta",
+        "Degantis krūmas",
+        "Raudonoji jūra",
+        "Uola, iš kurios tryško vanduo",
+        "Banginis"
+      ],
+      "answer": "Nuošali rytinė vieta"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Kūdikis kalbėjo ginant motiną",
+        "Jūra buvo perskirta",
+        "Ugnis tapo vėsi ir saugi",
+        "Banginis išvėmė į krantą",
+        "Arka nusileido ant kalno"
+      ],
+      "answer": "Kūdikis kalbėjo ginant motiną"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

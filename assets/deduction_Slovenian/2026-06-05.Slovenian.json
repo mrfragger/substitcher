@@ -1,0 +1,61 @@
+{
+  "title": "Ponižni iskalci resnice",
+  "intro": "V deželi starodavne moči in čarovništva se odvija veliko soočenje. Ena stran se prepira z avtoriteto božanskih znamenj, druga pa poskuša doseči nemogoče. Izid bo za vedno spremenil potek zgodovine. Ali lahko odkrijete identiteto tistih, ki so bili priča končni resnici in se pred njo ponižali?",
+  "clues": [
+    "Bili smo priča znamenjem, ki so presegla čarovniške trike",
+    "Vsi smo padli v prostracijo, ne da bi mogli zanikati resnico",
+    "Prepoznali smo, da ta znamenja prihajajo od Edinega Pravega Boga",
+    "Bili smo prva skupnost, ki je vero sprejela na tako dramatičen način",
+    "Obljubljen nam je bil raj kot povračilo za našo vero",
+    "Naše vrvi in ​​palice so se pred našimi očmi spremenile v kače, vendar smo se odločili za podreditev"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Faraonovi čarovniki",
+        "Ljudstvo preroka Ibrahima",
+        "Ponižni iskalci resnice",
+        "Ljudje iz jame",
+        "Narod kraljice Bilqis"
+      ],
+      "answer": "Faraonovi čarovniki"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Srečanje s palico preroka Musa",
+        "Preizkušnja vetra preroka Huda",
+        "Izziv kamele preroka Saliha",
+        "Velika poplava, poslana na preroka",
+        "Potovanje preroka v notranjosti kita"
+      ],
+      "answer": "Srečanje s palico preroka Musa"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Stari Egipt",
+        "Sveta hiša v Meki",
+        "Mesto Midjan",
+        "Puščava Thamuda",
+        "Jama starodavnih spečih"
+      ],
+      "answer": "Stari Egipt"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Raj kot njihovo povračilo",
+        "Kazen v grobu",
+        "Izguba njihovih obilnih vrtov",
+        "Uničenje zaradi nenadnega potresa",
+        "Reševanje pred velikim kitom"
+      ],
+      "answer": "Raj kot njihovo povračilo"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

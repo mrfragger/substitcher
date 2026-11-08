@@ -1,0 +1,61 @@
+{
+  "title": "A primavera baixo a area",
+  "intro": "Nos anais do Corán, unha figura de inmensa paciencia enfrontouse a unha proba que quebraría os corazóns máis fortes. Todo foi desposuído: riqueza, familia e saúde. Con todo, desde as profundidades da desesperación, unha humilde oración foi respondida do xeito máis inesperado. Podes identificar esta alma cuxa historia de restauración resoa a través dos tempos?",
+  "clues": [
+    "Fun probado cunha proba tan severa que se lembra ao longo dos séculos.",
+    "Perdin todo o que importaba: a miña riqueza, os meus fillos e a miña saúde.",
+    "O meu corpo estaba cuberto de chagas dolorosas e todos me rexeitaban.",
+    "Na miña desesperación, invoquei a Alá, dicíndolle que Satán me causara dificultades e tormento.",
+    "Alá respondeume e ordenoume que golpease a terra co meu pé.",
+    "Dende ese mesmo lugar, brotou unha fresca fonte, e Alá restaurou á miña familia e fíxoos unha dobre misericordia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Ayyub",
+        "Profeta Moisés",
+        "Profeta Ilyas",
+        "Profeta Sulayman",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Enfermidade grave e perda de familia e riqueza",
+        "Ser tragado por unha gran balea",
+        "Exilio da cidade da Meca",
+        "Prisión nun pozo profundo",
+        "Enfrontamento cun gobernante arrogante"
+      ],
+      "answer": "Enfermidade grave e perda de familia e riqueza"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha fresca primavera da terra",
+        "Un barco sobre unha gran inundación",
+        "Un bastón que fendeu o mar",
+        "Un trono elevado de cristal",
+        "Unha cova amurallada para durmir"
+      ],
+      "answer": "Unha fresca primavera da terra"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Familia e riqueza restauradas e duplicadas",
+        "Saída da barriga dun peixe",
+        "Pasaxe segura por augas divididas",
+        "Un reino dado para gobernar",
+        "O nacemento milagroso dun fillo na vellez"
+      ],
+      "answer": "Familia e riqueza restauradas e duplicadas"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

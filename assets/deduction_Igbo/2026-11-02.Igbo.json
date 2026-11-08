@@ -1,0 +1,61 @@
+{
+  "title": "Onye Mmekọ Na-adịghị Agbanwe Agbanwe n'Ọnwa Ịnwa Ọlaedo",
+  "intro": "N'onyinyo onye amụma ukwu, a họpụtara mkpụrụ obi nwere nkà okwu na okwukwe iji nyere aka n'ọrụ dị oke mkpa. Onye a guzosiri ike mgbe ìgwè mmadụ ahụ kwụsịrị, na-ekwusa ozi megide mmejọ pụtara ìhè nke na-eyi isi ihe dị mkpa nke okpukperechi Chineke egwu. Mgbe onye amụma lọtara ịhụ ọdịda nke ndị mmadụ, ihe nchebe nke onye a abụghị maka ikpe ọmụma kama ọ bụ maka ọrụ na egwu nkewa. Ònye bụ ohu Allah a raara onwe ya nye?",
+  "clues": [
+    "Allah họpụtara m maka ọrụ dị nsọ tinyere ọrụ ọzọ, ọrụ m bụkwa nke nkwado na mkpọsa.",
+    "E nyere m nghọta nke okwu m, esorokwa m onye ozi gaa izute onye mmegbu dị ike.",
+    "N'oge njem dị oke mkpa, onye ozi ahụ rịgoro n'ugwu naanị ya, wee hapụ m ka m lekọta ndị mmadụ.",
+    "Mgbe ha na-anọghị, ndị mmadụ kpụrụ ihe oyiyi ọlaedo, m wee rịọ ha ka ha nọgide na-ekwesị ntụkwasị obi, mana ha jụrụ ndụmọdụ m.",
+    "Mgbe onye ozi ahụ lọtara, juputara n'iwe na iru újú, ejidere m, mana akọwara m na ike karịrị m ma na-atụ egwu ịkpata esemokwu n'etiti ha.",
+    "Abụ m onye amụma ahụ guzoro n'akụkụ Mozis, nwanne m nwoke, na-ekerịta ibu arọ ya ma na-eguzosi ike megide ikpere arụsị."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Harọn",
+        "Onye Amụma Mozis",
+        "Onye Amụma Aịza",
+        "Onye Amụma Devid",
+        "Onye Amụma Zakariyya"
+      ],
+      "answer": "Onye Amụma Harọn"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ndị mmadụ fere nwa ehi ọlaedo n'agbanyeghị ịdọ aka ná ntị e nyere ha",
+        "Ndị mmadụ tụbara m n'ọkụ na-ere ọkụ",
+        "Azụ dị egwu loro m",
+        "E boro m ebubo ụgha n'ụlọ mkpọrọ",
+        "A chụpụrụ m n'obodo m maka ikwusa ozi ọma"
+      ],
+      "answer": "Ndị mmadụ fere nwa ehi ọlaedo n'agbanyeghị ịdọ aka ná ntị e nyere ha"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Nwa Ehi Ọlaedo ahụ",
+        "Osisi Na-ere Ọkụ",
+        "Mkpanaka ahụ nke ghọrọ agwọ",
+        "Mbadamba Mbadamba nke Ọgbụgba Ndụ ahụ",
+        "Igbe nke Ọgbụgba Ndụ ahụ"
+      ],
+      "answer": "Nwa Ehi Ọlaedo ahụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A tọhapụrụ m ma gaa n'ihu n'ọrụ amụma m",
+        "A tara m ahụhụ maka mmehie ndị mmadụ",
+        "E nyere m mba ọhụrụ ka m duzie m",
+        "E buru m gaa eluigwe dị ndụ",
+        "E mere m onye ọchịchị n'alaeze"
+      ],
+      "answer": "A tọhapụrụ m ma gaa n'ihu n'ọrụ amụma m"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

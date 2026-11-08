@@ -1,0 +1,61 @@
+{
+  "title": "Mali a Pele a Tšolotsoeng ke Mohono",
+  "intro": "Nahana ka matsatsi a pele a batho, ha lefats'e lohle e ne e le lelapa le le leng. U shebella ha linyehelo tse peli li beoa ka pel'a Allah - e 'ngoe e amoheloa, e 'ngoe e haneloa. Mohono o mela ka pelong, 'me tšokelo e hoeshetsoa ka bohale. Se latelang se tla siea lets'oao historing ka ho sa feleng, 'me esita le nonyana e nyane e tla fetoha mosuoe.",
+  "clues": [
+    "Ke oa lelapa la pele lefatšeng.",
+    "Ke ile ka hlahisa nyehelo ho Allah, empa ea ka ha ea ka ea amoheloa ha nyehelo e 'ngoe e amoheloa.",
+    "Ke ile ka bua ka mohono 'me ka tšosa ka hore ke tla ipolaea.",
+    "Ke entse polao ea pele e sa lokang lefatšeng.",
+    "Ke bone lekhoaba le ntse le phunya mobu ho mpontša mokhoa oa ho pata setopo.",
+    "Ke ile ka sala ke tletse masoabi 'me ka ba har'a ba lahlehetsoeng ke seo matsoho a ka a se entseng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Qabil (Kaine), mora oa Adama",
+        "Samiri, moetsi oa namane",
+        "Namrud, mohatelli ea ileng a phehisana khang le Ibrahim",
+        "Azar, moetsi oa litšoantšo tse rapeloang",
+        "Kan'an, mora oa Nuh ea khangoeng ke metsi"
+      ],
+      "answer": "Qabil (Kaine), mora oa Adama"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho bolaoa ha ngoan'eno ka lebaka la mohono ka mor'a ho haneloa ha nyehelo",
+        "Ho haha ​​tora e telele ho sheba maholimo",
+        "Ho etsa namane ea khauta bakeng sa borapeli",
+        "Ho batla tafole e tsoang leholimong",
+        "Ho etella pele lebotho la litlou ho timetsa Kaaba"
+      ],
+      "answer": "Ho bolaoa ha ngoan'eno ka lebaka la mohono ka mor'a ho haneloa ha nyehelo"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Lekhoaba le ntse le hohla mobu ho bontša lepato",
+        "Namane ea khauta e ileng ea lla",
+        "Areka e kgolo hodima metsi a moroallo",
+        "Lere le ileng la fetoha noha",
+        "Tafole e nang le lijo tse tsoang leholimong"
+      ],
+      "answer": "Lekhoaba le ntse le hohla mobu ho bontša lepato"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E ile ea e-ba masoabi 'me ea e-ba har'a ba lahlehileng",
+        "O ile a khangoa ke moroallo o moholo",
+        "E ile ea metsoa ke lefats'e ka letlotlo",
+        "O ile a otloa ka lepera ka lilemo tse supileng",
+        "O ile a fuoa 'muso o laolang meea"
+      ],
+      "answer": "E ile ea e-ba masoabi 'me ea e-ba har'a ba lahlehileng"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

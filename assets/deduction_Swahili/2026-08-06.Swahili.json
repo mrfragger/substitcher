@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi ya Kukesha karibu na Ukingo wa Mto",
+  "intro": "Nafsi changa ilipewa jukumu la siri, kutazama kutoka mbali wakati hatima ikifunuliwa juu ya maji. Bila kuonekana na bila kutarajiwa, mtu huyu angekuwa na jukumu muhimu katika kubadilisha historia ya taifa.",
+  "clues": [
+    "Nilipewa kazi na mama yangu, kazi ambayo ilihitaji usiri na uangalifu.",
+    "Macho yangu yalifuata mtoto mdogo wa kitoto akielea kando ya mkondo wa maji, moyo wangu ukiwa mzito kwa wasiwasi.",
+    "Ilipopatikana na mtu asiyetarajiwa, nilikaribia, nikiwa nimejawa na hofu.",
+    "Niliona kukata tamaa kwao kwa mlezi na nikatoa suluhisho bila kufichua ukweli.",
+    "Uingiliaji wangu wa wakati unaofaa ulirudisha roho ya uuguzi kwa yule aliyeihitaji zaidi.",
+    "Katika mahakama za wenye nguvu, nilizungumza: 'Je, nikuelekeze kwenye familia itakayomlea na kumtunza kwa uangalifu?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Dada yake Musa",
+        "Mama yake Musa",
+        "Mke wa Farao",
+        "Mkunga",
+        "Binti wa Shu'aib"
+      ],
+      "answer": "Dada yake Musa"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutupwa kwa mtoto mtoni",
+        "Kugawanyika kwa bahari",
+        "Kuchomwa kwa ndama",
+        "Ujenzi wa safina",
+        "Pigo la nzige"
+      ],
+      "answer": "Kutupwa kwa mtoto mtoni"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mto",
+        "Jangwa",
+        "Mlima",
+        "Ikulu",
+        "Moto"
+      ],
+      "answer": "Mto"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alimkutanisha mtoto na mama yake tena",
+        "Alijiokoa kutoka kwa askari wa Farao",
+        "Akawa malkia",
+        "Aliadhibiwa kwa ujasusi",
+        "Aliwaongoza Waisraeli"
+      ],
+      "answer": "Alimkutanisha mtoto na mama yake tena"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

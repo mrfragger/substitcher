@@ -1,0 +1,61 @@
+{
+  "title": "Die verschwundene Menge",
+  "intro": "Du stehst vor den Echos einer Gemeinschaft, deren Geschichte in den Wellen geschrieben steht. Diese Seelen vernahmen einen Ruf, entschieden sich für den Widerstand und trugen die Konsequenzen, die die Erde veränderten. Wer sind sie, und was wurde aus ihrer Welt?",
+  "clues": [
+    "Wir lebten vor langer Zeit, und ein Bote kam aus unserer Mitte zu uns.",
+    "Wir verehrten fünf Götzenbilder und weigerten uns, sie aufzugeben.",
+    "Wir verspotteten den Boten und beschuldigten ihn, vom rechten Weg abgeirrt zu sein.",
+    "Wir forderten, dass er die Strafe mitbringt, wenn er die Wahrheit gesagt hat.",
+    "Wir sahen den Himmel in Strömen regnen und die Erde Quellen hervorsprudeln.",
+    "Wir kletterten auf höhere Stellen, um zu entkommen, aber die Wellen holten uns ein."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Volk von Nuh",
+        "Leute von 'Ad",
+        "Volk der Thamud",
+        "Volk von Lut",
+        "Menschen von Madyan"
+      ],
+      "answer": "Volk von Nuh"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Wir ertranken in einer großen Flut.",
+        "Wir wurden von einem Hurrikan zerstört.",
+        "Wir wurden von einer lauten Explosion getötet.",
+        "Wir wurden von der Erde verschluckt",
+        "Wir wurden mit Steinen vom Himmel beworfen."
+      ],
+      "answer": "Wir ertranken in einer großen Flut."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine große Flut",
+        "Ein heftiger Wind",
+        "Ein Steinhagel",
+        "Ein feuriger Ausbruch",
+        "Ein Erdbeben"
+      ],
+      "answer": "Eine große Flut"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wir alle sind umgekommen, außer denen, die mit Noah an ihn glaubten.",
+        "Wir wurden in Affen verwandelt.",
+        "Wir wurden als Ruinen für Reisende zurückgelassen",
+        "Wir wurden zu Salz verwandelt",
+        "Uns wurde eine Atempause gewährt."
+      ],
+      "answer": "Wir alle sind umgekommen, außer denen, die mit Noah an ihn glaubten."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

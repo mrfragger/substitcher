@@ -152,67 +152,6 @@
     "arabicVerse": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ",
     "verse": "38:67 — Say, \"It is great news"
   },
-  "deduction": {
-    "title": "The Caller from the Deep",
-    "intro": "Imagine a soul entrusted with a divine message, yet one who, in a moment of haste, departed from their people without explicit permission. This journey led them into an extraordinary trial, a profound test of patience and reliance upon the Most High. Who is this individual whose story teaches us about repentance and the vastness of Allah's mercy?",
-    "clues": [
-      "I was sent to a great nation, but their initial rejection caused me distress.",
-      "I left my people, believing my mission was complete, before receiving a clear command to depart.",
-      "I sought passage on a ship, but a heavy storm and a drawing of lots led to a dire situation.",
-      "I was cast into the sea, and a mighty creature of the deep swallowed me whole.",
-      "Within the darkness of its belly, I called out to Allah, admitting my wrongdoing and seeking His forgiveness.",
-      "Allah commanded the creature to cast me onto the shore, and I was restored to health under a unique plant."
-    ],
-    "categories": {
-      "identity": {
-        "label": "Who Am I?",
-        "options": [
-          "Prophet Yusuf (Joseph)",
-          "Prophet Nuh (Noah)",
-          "Prophet Yunus (Jonah)",
-          "Prophet Sulaiman (Solomon)",
-          "Prophet Ayyub (Job)"
-        ],
-        "answer": "Prophet Yunus (Jonah)"
-      },
-      "trial": {
-        "label": "Trial/Event",
-        "options": [
-          "The splitting of the sea",
-          "The fire of Nimrod",
-          "Being swallowed by a great fish",
-          "The flood",
-          "The destruction of a city by stones"
-        ],
-        "answer": "Being swallowed by a great fish"
-      },
-      "location": {
-        "label": "Key Element",
-        "options": [
-          "The Ark",
-          "The Staff",
-          "The belly of the fish",
-          "The well",
-          "The burning bush"
-        ],
-        "answer": "The belly of the fish"
-      },
-      "outcome": {
-        "label": "Outcome",
-        "options": [
-          "Became a great ruler",
-          "Built the Kaaba",
-          "Returned to guide a repentant nation",
-          "Was given dominion over jinn",
-          "Led people across the desert"
-        ],
-        "answer": "Returned to guide a repentant nation"
-      }
-    },
-    "verseRef": "37:142",
-    "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
-    "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
-  },
   "scramble": {
     "verseRef": "3:103",
     "reference": "Al-Imran (3:103)",

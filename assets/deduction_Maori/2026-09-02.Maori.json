@@ -1,0 +1,61 @@
+{
+  "title": "Te Moe i Tua atu i te Wā",
+  "intro": "Whakaarohia te wā i huna ai te pono, ā, i whaia ai ngā whakapono. I whiriwhiria e tētahi rōpū iti te hoki whakamuri i te tuku i a rātou anō, ka kitea he piringa i ngā wāhi tino kore e taea te whakaaro — he wāhi ka noho hei wāhi okiokinga mō rātou mō ngā rautau e kore e taea te tatau. I tō rātou oho ake, kua huri te ao huri noa i a rātou. Ko wai ēnei wairua e moe ana?",
+  "clues": [
+    "He taitamariki mātou e noho ana i tētahi tāone tawhito.",
+    "I tono tō mātou hapori kia karakia tahi mātou me rātou, engari i whakakahore mātou.",
+    "I oma atu mātou i te tāone ki te rapu piringa i te hunga i whakahē i ō mātou whakapono.",
+    "I noho tetahi hoa waewae-whā pono ki te tomokanga o tō mātou piringa.",
+    "Nā Atua tātou i mea kia moe mō ngā tau e toru rau e iwa.",
+    "I tō mātou oho ake, kua awhi tō mātou tāone i whakatoi i mua i te whakapono."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Āshab al-Kahf (Te Iwi o te Ana)",
+        "Ashab al-Fil (Te Ope Taua a te Elephant)",
+        "Ngā Hoa o te Parekura (Ashab al-Ukhdud)",
+        "Te Hawariyyun (Nga akonga a Isa)",
+        "Yajuj wa Majuj (Koko raua ko Makoka)"
+      ],
+      "answer": "Āshab al-Kahf (Te Iwi o te Ana)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I hoki mātou ki roto i tētahi ana, ā, i moe mō ngā rautau",
+        "I whakaorangia mātou i te mura o te ahi",
+        "I horomia mātou e te ika nui",
+        "I whakamatautauria mātou ki tētahi kamera uha whakamiharo",
+        "I homai ki a mātou e iwa ngā tohu mārama"
+      ],
+      "answer": "I hoki mātou ki roto i tētahi ana, ā, i moe mō ngā rautau"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He ana hohonu i roto i ngā maunga",
+        "He poti i te moana tuwhera",
+        "He whare teitei e anga atu ana ki te rangi",
+        "He māra i wehea i waenganui i ngā hoa whakataetae e rua",
+        "He ārai rino me te parahi"
+      ],
+      "answer": "He ana hohonu i roto i ngā maunga"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I ara ake mātou, ā, kua tahuri tō mātou tāone ki te whakapono",
+        "I mātao, i rangimārie te ahi mura",
+        "I toremi te ope taua a te hoariri ki te moana",
+        "Nā ngā manu e kawe ana i ngā kōhatu i whakangaro te hoariri",
+        "I tukuna mātou e tētahi ika nui ki uta"
+      ],
+      "answer": "I ara ake mātou, ā, kua tahuri tō mātou tāone ki te whakapono"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Prvi koji traži oproštaj",
+  "intro": "Vratimo se u vrijeme prije prvog izlaska sunca, prije nego što je ijedan smrtnik hodao zemljom. Figura je napravljena od najskromnijeg materijala, dobila je položaj iznad anđela i postavljena u sveti vrt s jasnim upozorenjem. Pa ipak, u jednom trenutku, donesen je izbor - izbor koji će odjekivati ​​kroz cijelu ljudsku historiju. Ko je ta figura?",
+  "clues": [
+    "Stvoren sam na način koji nijedan drugi nije mogao biti - stvoren od zemaljskog praha i Stvoriteljeva ruka mi je dala živu dušu.",
+    "Darovano mi je znanje tako duboko da su mu se čak i anđeli gore divili.",
+    "Cijelom nebu je naređeno da se pokloni preda mnom, i svi su se pokorili - osim jednog, koji je odbio iz ponosa.",
+    "Bio sam smješten u sveti vrt, mjesto vječne utjehe i opskrbe - ali s jednom strogom zabranom.",
+    "Zaboravio sam, poskliznuo sam se i nisam poslušao — i duboko sam osjetio težinu svoje greške.",
+    "Okrenuo sam se Gospodaru svome riječima iz srca, i On je primio moje pokajanje, jer On zaista prašta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Adam",
+        "Poslanik Davud",
+        "Poslanik Muhamed",
+        "Iblis",
+        "Poslanik Jakub"
+      ],
+      "answer": "Poslanik Adam"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Anđelima je naređeno da padnu ničice",
+        "Veliki potop je poslan",
+        "Velika vatra je ohlađena i sigurna",
+        "Arogantni vladar se utopio u moru",
+        "Vojska slonova je uništena"
+      ],
+      "answer": "Anđelima je naređeno da padnu ničice"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrt blaženstva",
+        "Planina Sinaj",
+        "Sveta džamija",
+        "Rijeka Nil",
+        "Pećina"
+      ],
+      "answer": "Vrt blaženstva"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pokajanje je bilo prihvaćeno od Allaha",
+        "Utopljen u moru",
+        "Progutala ga je velika riba",
+        "Naciju je pogodila snažna eksplozija",
+        "Opečen žestokim vjetrom"
+      ],
+      "answer": "Pokajanje je bilo prihvaćeno od Allaha"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

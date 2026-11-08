@@ -1,0 +1,61 @@
+{
+  "title": "Ýeriň gyrasyna aýlanyp geçen hökümdar",
+  "intro": "Ýer ýüzünde güýç we ygtyýar berlen güýçli hökümdary göz öňüne getiriň. Bu şahsyýet adatdan daşary syýahatlara çykyp, Gün batýan we dogýan ýerine ýetdi, geň halklar bilen duşuşdy we iki bozuk milletiň uly synagyna duçar boldy. Bu syrly lider kim?",
+  "clues": [
+    "Men ýer ýüzüniň iň çetki künjeklerine ýetmek üçin ygtyýar we serişdeler berlen hökümdardym.",
+    "Men günbatara tarap syýahat etdim we güneşiň bulanyk ýazda batyşyny gördüm.",
+    "Men Günüň dogýan ýerinde onuň yssysyndan gaçybatalgasy bolmadyk bir adama duş geldim.",
+    "Başga bir jemgyýet, Ýajuj we Majuj diýlip atlandyrylýan iki bozgun millete garşy menden kömek sorady.",
+    "Men olary saklamak üçin demir we ereýän mis ulanyp, päsgelçilik gurdum.",
+    "Men bu päsgelçiligiň Rebbimiň rehimidigini we bellenen wagta çenli dowam etjekdigini yglan etdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Zul-Karneýn",
+        "Süleýman pygamber",
+        "Karun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Zul-Karneýn"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ýajuj we Majujyň garşysyna böwet gurmak",
+        "Beýik silden aman galmak",
+        "Oda taşlanmak",
+        "Deňizden geçmek",
+        "Ägirt bilen söweşmek"
+      ],
+      "answer": "Ýajuj we Majujyň garşysyna böwet gurmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Demir we misden ybarat päsgelçilik",
+        "Ýylana öwrülen taýak",
+        "Agaçdan ýasalan gämi",
+        "Aýna köşk",
+        "Hurma palmalarynyň bagy"
+      ],
+      "answer": "Demir we misden ybarat päsgelçilik"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ýajuk we Majuk bellenen wagta çenli saklandy",
+        "Ol pygamber boldy",
+        "Ol tekepbirligi üçin jezalandyryldy",
+        "Ol bütin dünýäni basyp aldy",
+        "Ol ebedi ýaşady"
+      ],
+      "answer": "Ýajuk we Majuk bellenen wagta çenli saklandy"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Roja Pêşandana Dawîn",
+  "intro": "Ji bo nîşandaneke mezin a hêzê, komek hunermendên jêhatî hatin gazîkirin û xwe bi rastiyeke nediyar re rû bi rû dîtin ku dê jiyana wan her û her biguhere.",
+  "clues": [
+    "Em bi hunera xwe, bi hostayên xapandin û hîlekarîyê navdar bûn.",
+    "Serwer em gazî kirin ku em bi dijberekî re rûbirû bibin ku gopalekî sade di destê wî de bû.",
+    "Dema me rastî dît, em ketin ser çokan û baweriya xwe bi Rebbê aleman anîn ziman.",
+    "Zalim bi cezayê giran gef li me xwar, lê em netirsiyan.",
+    "Em di nav yên pêşîn de bûn ku piştî şahidiya nîşana zelal bawerî bi peyamê anîn.",
+    "Em ji bo baweriya xwe şehîd bûn, lê em ê bibin yên pêşîn ku bi mirovên rast re têkevin bihuştê."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Sêrbazên Fîrewn",
+        "Îsraêliyan",
+        "Gelê Semûdê",
+        "Şagirtên Îsa",
+        "Artêşa Abrahayê"
+      ],
+      "answer": "Sêrbazên Fîrewn"
+    },
+    "trial": {
+      "label": "Ceribandin / Bûyer",
+      "options": [
+        "Pêşbirk bi Pêxember Mûsa re",
+        "Avakirina Bircê",
+        "Tofana Mezin",
+        "Nexweşiya Kulîyan",
+        "Deryaya Parçebûyî"
+      ],
+      "answer": "Pêşbirk bi Pêxember Mûsa re"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Roja Festîvalê",
+        "Geliyê Tuwa",
+        "Bajarê Îranê",
+        "Baxçeyê Bêdawîtiyê",
+        "Deşta Erefatê"
+      ],
+      "answer": "Roja Festîvalê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ew li ber çavan hatin xaçkirin",
+        "Di deryayê de xeniqîn",
+        "Ew bûn şagirtên pêxember",
+        "Ew şandin surgunê",
+        "Ew bi agir hatin xwarê"
+      ],
+      "answer": "Ew li ber çavan hatin xaçkirin"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

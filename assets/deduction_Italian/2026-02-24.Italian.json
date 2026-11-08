@@ -1,0 +1,61 @@
+{
+  "title": "L'eco dell'inganno",
+  "intro": "Un legame di parentela fu messo a dura prova da un'ondata di invidia. Un piano segreto fu ordito, dando inizio a una catena di eventi che si sarebbero protratti per anni e avrebbero attraversato immense distanze. Le azioni di questo gruppo portarono a una profonda separazione e a un grande dolore, ma la storia non finisce qui. È un racconto di inganno, rimpianto e del compimento finale di un disegno divino. Riuscirai a svelare l'identità di questi individui le cui scelte hanno avuto ripercussioni attraverso le generazioni?",
+  "clues": [
+    "Eravamo divorati dalla gelosia per l'affetto dimostrato a uno dei nostri.",
+    "Nella nostra invidia, abbiamo cospirato insieme e abbiamo gettato nostro fratello nell'oscurità di un pozzo.",
+    "Per nascondere il nostro misfatto, presentammo a nostro padre una veste macchiata di falso sangue.",
+    "Anni dopo, una grave carestia ci costrinse a recarci in Egitto in cerca di provviste.",
+    "Lì ci trovammo al cospetto di un potente governatore che, a nostra insaputa, era proprio il fratello o la sorella a cui avevamo fatto un torto.",
+    "La nostra prova finale consisteva nel portare con noi il nostro fratello minore, Binyamin, il che ha portato alla rivelazione del nostro passato e alla scoperta che nostro padre era il profeta Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "I figli di Adamo (Qabil e Habil)",
+        "I discepoli del profeta Isa",
+        "I fratelli del profeta Yusuf",
+        "Il popolo di Madyan",
+        "I maghi di Fir'awn"
+      ],
+      "answer": "I fratelli del profeta Yusuf"
+    },
+    "trial": {
+      "label": "Qual è stato il nostro principale errore?",
+      "options": [
+        "Costruire un vitello d'oro per il culto",
+        "Pretendendo di vedere Allah direttamente",
+        "Deridere un profeta per aver costruito un'arca",
+        "Ingannando nostro padre e abbandonando nostro fratello",
+        "Violazione del sabato con la pesca"
+      ],
+      "answer": "Ingannando nostro padre e abbandonando nostro fratello"
+    },
+    "location": {
+      "label": "Qual era l'oggetto centrale del nostro inganno?",
+      "options": [
+        "Una serie di tavolette incise",
+        "Una camicia macchiata di sangue finto",
+        "Un vitello dorato",
+        "Un bellissimo uccello (l'upupa)",
+        "Un bastone che si è trasformato in un serpente"
+      ],
+      "answer": "Una camicia macchiata di sangue finto"
+    },
+    "outcome": {
+      "label": "Qual è stato l'esito finale della nostra storia?",
+      "options": [
+        "Siamo stati distrutti da una grande alluvione",
+        "Siamo stati trasformati in scimmie",
+        "Siamo stati inghiottiti dalla terra",
+        "Siamo stati perdonati e ci siamo riuniti con la nostra famiglia.",
+        "Siamo annegati in mare"
+      ],
+      "answer": "Siamo stati perdonati e ci siamo riuniti con la nostra famiglia."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

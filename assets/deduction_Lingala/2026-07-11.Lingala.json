@@ -1,0 +1,61 @@
+{
+  "title": "Bato oyo basalaka mibembo ya elanga oyo etondi na matiti",
+  "intro": "Na ntango ya kala, bato mibale bazalaki kobatela mikili oyo ezalaki pembenipembeni. Banzela na bango ekangisamaki, nzokande mitema na bango ememaki bango na bisika bikeseni mpenza. Moko atambolaki na nzela ya semba, nzokande mosusu abungaki na molili ya koboya. Okoki kofungola libombami ya babateli wana mibale ya mbuma?",
+  "clues": [
+    "Nazalaki na milona mingi, mbuma ya kitoko oyo ezalaki kokamwisa miso ya bato oyo bazalaki kotala.",
+    "Mozalani na ngai azalaki na bozwi mingi koleka ngai, nzokande nazalaki na mposa makasi ya eteni na bango koleka oyo ya ngai.",
+    "Napesaki likanisi ete tóbebisa milona na bango mobimba, mpo na kosangisa makambo nyonso oyo ezali na nse ya bokonzi na ngai.",
+    "Namemaki libebi likoló na mbuma na ngai moko lokola, kobebisa nyonso na mayele mabe na ngai ya bozoba.",
+    "Natɛlɛmaki kozanga lisungi wana milona na ngai ekauki mpe bozwi na ngai ekómaki mputulu na butu moko.",
+    "Nazalaki na eteni moko te na nsima, mpe efandelo na ngai ya nsuka ekomaki libulu ya mɔ́tɔ ya mɔ́tɔ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Moto oyo awanganaki lisekwa mpe kosambisama",
+        "Mokonzi oyo azalaki konyokola mosali bilanga ya sembo",
+        "Nkolo mabele ya bozwi oyo azalaki na botɔndi te",
+        "Mosali bilanga oyo azalaki kolula mabele ya moninga na bango",
+        "Partenaire trahir oyo a complot ya destruction"
+      ],
+      "answer": "Mosali bilanga oyo azalaki kolula mabele ya moninga na bango"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Momekano ya kozwa emoniseli ya bonzambe",
+        "Mokakatano ya bozwi mpe motema molai",
+        "Momekano ya kobebisa bomoi ya moyengebene",
+        "Etinda ya kokabola libula na bosembo",
+        "Etumba ya kobundisa minyoko ya mobulu"
+      ],
+      "answer": "Momekano ya kobebisa bomoi ya moyengebene"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Elanga ya matiti ya motane ya paladiso",
+        "Bilanga mibale ya milona oyo ezali pembenipembeni",
+        "Bangomba oyo emonanaki na libebi",
+        "Esika mosantu ya Makkah",
+        "Mabongo ya bibale ya mboka oyo epambolami"
+      ],
+      "answer": "Bilanga mibale ya milona oyo ezali pembenipembeni"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Paradis ya seko lokola mbano ya boyengebene",
+        "Kobebisama mobimba ya mbuma nyonso mibale na bomoi oyo",
+        "Kokende na boombo mpe koyengayenga tii na liwa",
+        "Bozwi ya mwa ntango moke oyo elandi na mɔ́tɔ ya seko",
+        "Bozongisi ya likamwisi mpe bozwi oyo ebakisami mbala mibale"
+      ],
+      "answer": "Kobebisama mobimba ya mbuma nyonso mibale na bomoi oyo"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

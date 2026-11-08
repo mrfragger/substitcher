@@ -1,0 +1,61 @@
+{
+  "title": "Uholde Handiaren Heraldoa",
+  "intro": "Pertsona hau mendeetan zehar erresistentziaren zutabe izan zen, gizarte desafiatzaile bat egiaren argira deituz, iseka eta arbuioari aurre egin bitartean. Oztopo izugarriak eta belaunaldiz belaunaldiko mezu baten pisua gorabehera, zerbitzari hau bere misioan tinko mantendu zen azken dekretua eman zen arte.",
+  "clues": [
+    "Bederatziehun eta berrogeita hamar urte eman nituen nire herria zuzentasunaren bidera dei egiten, egunez eta gauez, isilpean eta publikoki.",
+    "Zigor mingarri baten berri eman nien nire herriari, baina hatzak belarrietan sartu eta harrokeriaz jantzi zituzten beren buruak.",
+    "Jaunaren begien aurrean zerbait erraldoia eraikitzeko agindu zidaten, nahiz eta urik ez zegoen ikusgai.",
+    "Lanean ari nintzela, nire herriko buruzagiak pasatu eta iseka egin zidaten, baina esan nien laster gu izango ginela haiek iseka egingo genituenak.",
+    "Nire odoleko eta haragizko jendea nirekin bat egiteko erregutu nuen, baina mendi batean babesa bilatzea erabaki zuten, itsasgoratik salbatuko zituela sinetsita.",
+    "Nire ontzia azkenean Judi mendian gelditu zen, lurrak bere ura irentsi eta zeruak bere euri-jasa gelditu ondoren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hud profeta",
+        "Salih profeta",
+        "Nuh profeta",
+        "Lut profeta",
+        "Shu'ayb profeta"
+      ],
+      "answer": "Nuh profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Langile eraldatzaileak",
+        "Uholde Handia",
+        "Hozteko Sua",
+        "Itsaso Zatitzailea",
+        "Jainkoaren Gamelua"
+      ],
+      "answer": "Uholde Handia"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko Txahala",
+        "Langileak",
+        "Alkandora",
+        "Arka",
+        "Eraztuna"
+      ],
+      "answer": "Arka"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lur Promesatuan Sartzea",
+        "Itsaso Gorrian itotzea",
+        "Judi mendian atseden hartzen",
+        "Zulo batera botata egotea.",
+        "Zeruetara igotzen"
+      ],
+      "answer": "Judi mendian atseden hartzen"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

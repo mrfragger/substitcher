@@ -1,0 +1,61 @@
+{
+  "title": "Herald ur pec'hed dic'hortoz",
+  "intro": "Istorioù zo er C'horan a ziskouez donder ar breinadur a c'hell ur gevredigezh a-bezh kouezhañ ennañ. Ar c'hannad-se a oa en e sav e-unan, o pediñ ur bobl beuzet en un drougimplij na oa bet heuliet gant broad ebet a-raok dezhañ. Daoust da vloavezhioù a evezhiadennoù, ar c'halonoù a chomas kaletaet, hag an dekred doueel a erruas en un doare spontus-kenañ. Ha gallout a rit anavezout ar c'hannad nobl-se eus Allah ?",
+  "clues": [
+    "Kaset on bet evel ur c'hemenn d'ur bobl lonket gant un drougimplij na oa bet graet biskoazh gant broad ebet en o raok.",
+    "Va fobl a lavare din e oan ur gaouiad hag a c'houlenne digantan skarzhañ va heulierien ha me eus ar vro.",
+    "Dont a rae gweladennerien enoret d'am zi e stumm paotred yaouank o stourm, ha nec'het-mik e oan evit o surentez.",
+    "Goulenn a reas ma fobl diganin reiñ ma gweladennerien dezho, hep gouzout e oa ar weladennerien-se aeled kaset gant Allah.",
+    "Ma pried hec'h-unan ne oa ket e-barzh ma feiz ha dibabet en deus chom gant ar re varv.",
+    "Saveteet on bet gant ma merc'hed da greisteiz, pa gouezhas ur glav mein distrujus hag e voe diskaret hor c'hêrioù."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Lut",
+        "Ar profed Shu'aib",
+        "Profed Hud",
+        "Profed Nuh",
+        "Ar profed Salih"
+      ],
+      "answer": "Ar profed Lut"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Ul liñvadenn vras ​​o c'holoiñ an douar",
+        "Koll ar gweled abalamour d'ur boan hir",
+        "Un tirant o lavarout e oa doue",
+        "Bezañ taolet en un tan flamm",
+        "Goulenn a reer dilezel gweladennerien enoret"
+      ],
+      "answer": "Goulenn a reer dilezel gweladennerien enoret"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Un arc'h bras savet gant an dorn",
+        "Ur vazh hag a ranne ar mor",
+        "Ur c'hañval burzhudus",
+        "Un tan-gwall",
+        "Kêrioù distroet"
+      ],
+      "answer": "Kêrioù distroet"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Beuzet e-pad ma oa o redek war-lerc'h ar feizidi",
+        "Saveteet diouzh ur forn-tan hep bezañ gloazet",
+        "Savet bev betek an neñvoù",
+        "Mervel a reas ur familh en un dour-beuz bras",
+        "Familh saveteet nemet evit ur wreg difeal"
+      ],
+      "answer": "Familh saveteet nemet evit ur wreg disleal"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

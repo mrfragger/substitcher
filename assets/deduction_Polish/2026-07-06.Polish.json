@@ -1,0 +1,61 @@
+{
+  "title": "Dusza za idolem",
+  "intro": "W cieniu wielkiego exodusu z tyranii, ta tajemnicza postać czekała na pustkowiu. Podczas gdy przywódca ludu wybranego wchodził na świętą górę, by dostąpić boskiej komunii, na tych, którzy pozostali, spadła wielka próba. Ten człowiek wykorzystał tę okazję, by zmienić wierzenia całej społeczności. Kiedy przywódca powrócił z prawdą, orzeczono wyjątkową i wieczną karę. Czy potrafisz odkryć, kim była ta kontrowersyjna i przebiegła dusza?",
+  "clues": [
+    "Podróżowałem z ludem, który dzięki cudownym znakom został uwolniony spod jarzma potężnego ciemiężcy.",
+    "Gdy ich przywódca udał się w góry, aby otrzymać wskazówki, czekałem wśród tych, którzy pozostali.",
+    "Zebrałem cenny metal z ich ozdób i ukształtowałem z niego coś, co wydawało dźwięk.",
+    "Dzięki temu dziełu przekonałem całe pokolenie, że odnaleźli swojego boga na pustyni.",
+    "Kiedy przywódca powrócił, zwrócono na mnie uwagę i zapytano, co mnie popchnęło do takiego oszustwa.",
+    "Moją karą na tym świecie było to, że nikt nie mógł mnie dotknąć ani się do mnie zbliżyć, piętno wstydu, które noszę w sobie do końca życia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Samiri",
+        "Prorok Musa",
+        "Magowie faraona",
+        "Haman, minister faraona",
+        "Iblis, odrzucony"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wykonanie złotego cielca",
+        "Konfrontacja z faraonem",
+        "Budowa wielkiej arki",
+        "Odmowa pokłonu przed Adamem",
+        "Zniszczenie miast Lota"
+      ],
+      "answer": "Wykonanie złotego cielca"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec",
+        "Laska, która zamieniła się w węża",
+        "Wielbłądzica, która wyłoniła się ze skały",
+        "Arka zbudowana na górze",
+        "Tron niesiony przez wiatr"
+      ],
+      "answer": "Złoty cielec"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Skazany na nietykalność, z wiecznym żądaniem „braku kontaktu”",
+        "Utonął wraz z tyranem i jego armią",
+        "Wrzucony do ognia, który stał się chłodny i spokojny",
+        "Dotknięty ślepotą za odrzucenie prawdy",
+        "Porzucony w dole przez zazdrosną rodzinę"
+      ],
+      "answer": "Skazany na nietykalność, z wiecznym żądaniem „braku kontaktu”"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

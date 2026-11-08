@@ -1,0 +1,61 @@
+{
+  "title": "Primii care cer iertare",
+  "intro": "Faceți o călătorie înapoi într-un timp dinaintea primului răsărit de soare, înainte ca vreun muritor să umble pe pământ. O figură a fost creată din cele mai umile materiale, i s-a acordat o poziție deasupra îngerilor și a fost plasată într-o grădină sacră cu un avertisment clar. Totuși, într-o singură clipă, s-a făcut o alegere - una care avea să răsune în întreaga istorie a omenirii. Cine este această figură?",
+  "clues": [
+    "Am fost creat într-un mod diferit — făurit din țărâna pământului și mi s-a dat un suflet viu de mâna Creatorului.",
+    "Mi s-a acordat o cunoaștere atât de profundă încât chiar și îngerii de sus s-au minunat de ea.",
+    "Întregului cer i s-a poruncit să mi se închine și toți s-au supus — cu excepția unuia, care a refuzat din mândrie.",
+    "Am fost plasat într-o grădină sacră, un loc al confortului și proviziei veșnice — dar cu o interdicție strictă.",
+    "Am uitat, am alunecat și am fost neascultător — și am simțit profund greutatea greșelii mele.",
+    "M-am întors către Domnul meu cu cuvinte sincere, iar El mi-a acceptat pocăința, căci El este Cel Mai Iertător."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Adam",
+        "Profetul Dawud",
+        "Profetul Mahomed",
+        "Iblis",
+        "Profetul Yaqub"
+      ],
+      "answer": "Profetul Adam"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Îngerilor li s-a poruncit să se prosterneze",
+        "Marele Potop a fost trimis",
+        "Un foc mare a fost răcoros și sigur",
+        "Un conducător arogant s-a înecat în mare",
+        "O armată de elefanți a fost distrusă"
+      ],
+      "answer": "Îngerilor li s-a poruncit să se prosterneze"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Grădina Fericirii",
+        "Muntele Sinai",
+        "Moscheea Sacră",
+        "Fluviul Nil",
+        "Peștera"
+      ],
+      "answer": "Grădina Fericirii"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Pocăința a fost acceptată de Allah",
+        "Înecat în mare",
+        "Înghițit de un pește mare",
+        "Națiunea a fost lovită de o explozie puternică",
+        "Ars de un vânt arzător"
+      ],
+      "answer": "Pocăința a fost acceptată de Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

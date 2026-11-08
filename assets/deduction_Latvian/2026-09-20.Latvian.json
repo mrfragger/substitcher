@@ -1,0 +1,61 @@
+{
+  "title": "Plīvurotais ticīgais tirāna galmā",
+  "intro": "Korānam zināmā augstprātīgākā valdnieka apzeltītajās zālēs — kur katru ediktu raksturoja nepakļaušanās dievišķajam — viena dvēsele staigāja starp privileģētajiem, slēpjot visbīstamākos noslēpumus redzamā vietā. Šī persona šajās sienās nesa ticību, kas bija tik aizliegta, ka tās atklāšana nozīmētu drošu nāvi. Tomēr pārliecība dega kā liesma zem pelniem, un, kad pienāca brīdis, patiesība atskanēja ar drosmi, kas satricināja tirāna pils pašus pamatus.",
+  "clues": [
+    "Es dzīvoju sava laika visspēcīgākā un augstprātīgākā valdnieka iekšējā lokā, greznības un ietekmes ieskauts.",
+    "Es slēpu savu patieso pārliecību dziļi sirdī, baidoties par savu dzīvību no tiem, kas valdīja nežēlīgi un apspiesti.",
+    "Kad mani ļaudis šaubījās un svārstījās patiesības priekšā, es paspēros, lai brīdinātu viņus par traģisko likteni, kas bija piemeklējis pagātnes tautas, kuras noraidīja sava Kunga vēstnešus.",
+    "Es atgādināju savai tautai stāstu par mīļotu jaunu sapņotāju, kuru nogāza viņa paša radinieki, tomēr viņš ieguva lielu autoritāti tālā zemē.",
+    "Es mudināju savu tautu nepakļauties valdniekam, kas viņus maldināja, tā vietā aicinot viņus sekot man pa taisnības un vadības ceļu.",
+    "Es atklāti teicu patiesību, pat ja tirāna sekotāji draudēja mani nomētāt ar akmeņiem vai izraidīt no zemes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Slēptais ticīgais no faraona ģimenes",
+        "Pacietīgs patriarhs, kurš raudāja akls, līdz atgriezās viņa dēls",
+        "Uzticīgs kalps, kura ādas slimība galu galā tika izārstēta",
+        "Grēcīgs dēls, kurš noraidīja pravieša ielūgumu iekāpt šķirstā",
+        "Nežēlīgs tirāns, kas apgalvoja, ka ir dievišķs"
+      ],
+      "answer": "Slēptais ticīgais no faraona ģimenes"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Slēpjot ticību tirāna tiesā",
+        "Ciešot aklumu no gadu ilgas raudāšanas",
+        "Pārbaudīts ģimenes zaudējuma un smagu ciešanu dēļ",
+        "Liela kuģa būvēšana, vienlaikus tiekot izsmieta",
+        "Izturēt liela ugunsgrēka dedzinošo karstumu"
+      ],
+      "answer": "Slēpjot ticību tirāna tiesā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Faraona pils",
+        "Kalna virsotne, kur tika uzbūvēts šķirsts",
+        "Svēta ieleja zem Sinaja kalna",
+        "Lielisks dārzs ar divām plūstošām straumēm",
+        "Kristāla tronis virs pazemes upes"
+      ],
+      "answer": "Faraona pils"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Dievišķā aizsardzība, kamēr apspiedēji sagaidīja savu iznīcināšanu",
+        "Pēc gadu desmitiem ilgas atšķirtības atkalapvienojās ar ģimeni",
+        "Man tika dota pacietība, atjaunota veselība un lielāka ģimene",
+        "Tika izglābts laivā, kamēr pārējā pasaule noslīka",
+        "Pēc Allāha pavēles tika neskarts izglābts no liesmām"
+      ],
+      "answer": "Dievišķā aizsardzība, kamēr apspiedēji sagaidīja savu iznīcināšanu"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

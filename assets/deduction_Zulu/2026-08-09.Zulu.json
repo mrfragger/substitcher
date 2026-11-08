@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Eliyiqiniso Lasezikhathini Zasendulo",
+  "intro": "Kukhona umphefumulo e-Quran onendaba elandiswa ngamavesi ambalwa nje, kodwa izimfanelo zawo ezinhle zikhanya ngokucacile okukhulu. Idunyiswa nguSomandla ngenxa yobuhle obukhethekile, le nceku yasendulo yoMuntu Onomusa inendawo emakhasini esambulo. Umsebenzi wakho ukuhlonza lo muntu ophawulekayo. Ungaqagela ukuthi bangobani?",
+  "clues": [
+    "Ngingumprofethi ka-Allah owayephila phakathi kwezizukulwane zokuqala zesintu.",
+    "U-Allah ungikhulumele eNcwadini Yakhe kanye nabanye abaprofethi, bonke bedunyiswa ngenxa yobuhle obufanayo obuhle.",
+    "Ngichazwa njengendoda yeqiniso eQuran.",
+    "U-Allah wangiphakamisela endaweni ephakeme abanye abambalwa abayifinyelele.",
+    "Igama lami lishiwo kuSurah Al-Anbiya, lihlanganiswe nabanye abaprofethi ababili abadunyiswa ngokubekezela kwabo.",
+    "Ngingu-Idris, umprofethi oneqiniso nophakeme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Idris",
+        "Umprofethi uNuh",
+        "Umprofethi u-Ibrahim",
+        "Umprofethi uMusa",
+        "Umprofethi u-Ismail"
+      ],
+      "answer": "Umprofethi u-Idris"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukugcina isineke nokwethembeka, bese uphakanyiswa uye endaweni ephakeme",
+        "Ukwakha umkhumbi omkhulu ukusindisa amakholwa esikhukhuleni esibhubhisayo",
+        "Ukuphonswa emlilweni ovuthayo nokuphuma engenamyocu ngokuphelele",
+        "Ukubhekana nenkosi enamandla nokunqoba ibutho layo labathakathi",
+        "Ukusinda ngaphakathi esiswini senhlanzi enkulu ekujuleni kolwandle"
+      ],
+      "answer": "Ukugcina isineke nokwethembeka, bese uphakanyiswa uye endaweni ephakeme"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isikhundla esiphakeme nesiphakeme esivela ku-Allah",
+        "Umkhumbi omkhulu owakhiwe ngamapulangwe futhi waphoswa ngetiyela",
+        "Umlilo ovuthayo ovuselelwa abakhulekeli bezithombe benkosi embi",
+        "Ulwandle olukhulu oluhlukana lube yizindlela ezomile",
+        "Isisu esimnyama somkhomo omkhulu phansi kolwandle"
+      ],
+      "answer": "Isikhundla esiphakeme nesiphakeme esivela ku-Allah"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wamukelwa esiheni sika-Allah njengomunye wabalungile",
+        "Wasindiswa kanye nabo bonke abakholwayo esikhukhuleni somhlaba wonke",
+        "Waphuma emalangabini engakathintwa ngumlilo",
+        "Wahola abantwana bakwa-Israyeli ngokuphepha wabayisa enkululekweni ngaphesheya kolwandle",
+        "Baphinde bahlangana nomndeni wabo abawuthandayo ngemva kweminyaka eminingi yobunzima"
+      ],
+      "answer": "Wamukelwa esiheni sika-Allah njengomunye wabalungile"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

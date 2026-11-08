@@ -1,0 +1,61 @@
+{
+  "title": "De forbandede hænder",
+  "intro": "Du står i de snoede gyder i det gamle Mekka, hvor en indflydelsesrig og rig sjæl engang vendte sig bort fra sandhedens kald. Denne figurs historie er en barsk påmindelse om, at blodsbånd ikke kan overvinde stolthedens lænker. Hvem er denne, hvis navn giver genlyd af den ild, der venter?",
+  "clues": [
+    "Jeg gik på Mekkas gader med en stolthed, der blindede mig for sandheden, selvom budbringeren var af mit eget blod.",
+    "Mine ejendele var enorme, men de blev en forbandelse snarere end et skjold.",
+    "Vejledningens bog taler om min undergang og erklærer, at mine hænder og min krop vil forgå.",
+    "Min ægtefælle sluttede sig til min fjendtlige kampagne og samlede torne for at sprede dem på dens vej, der påkaldte Allah.",
+    "På dommedag vil jeg blive kastet ned i en flammende ild, og min ægtefælle vil have et reb af palmefiber om halsen.",
+    "Jeg er kendt under et navn, der betyder 'flammens far' - et navn, der varsler min evige bolig."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Nøgleforsøg eller -begivenhed",
+      "options": [
+        "Modsatte sig profeten og blev forbandet i Koranen",
+        "Ledte en hær for at ødelægge Kaabaen",
+        "Forsøgte at dræbe profeten ved at kaste sten",
+        "Nægtede at tro på månens deling",
+        "Byggede et tårn for at nå himlen"
+      ],
+      "answer": "Modsatte sig profeten og blev forbandet i Koranen"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Helvedes flammende ild",
+        "Musas stab",
+        "Nuhs ark",
+        "Zamzams brønd",
+        "Den gyldne kalv"
+      ],
+      "answer": "Helvedes flammende ild"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Han vil gå ind i den flammende ild, og hans rigdom vil ikke gavne ham.",
+        "Han omvendte sig og blev troende",
+        "Han blev tilgivet efter at have trukket sine ord tilbage",
+        "Han døde som martyr",
+        "Han blev taget op til himlen"
+      ],
+      "answer": "Han vil gå ind i den flammende ild, og hans rigdom vil ikke gavne ham."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

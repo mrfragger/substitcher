@@ -1,0 +1,61 @@
+{
+  "title": "Wanda Ya Samu Sura",
+  "intro": "Ka yi tunanin wani rai mai tawali'u yana kusantar ɗaya daga cikin Manzannin Allah da zuciya mai cike da gaskiya da kuma sha'awar koyo. Duk da haka a wannan lokacin, wani mutum mai arziki da matsayi ya riƙe hankalin Manzo, kuma an mayar da fuska ga mai neman. Abin da ya biyo baya ba komai ba ne illa sura ɗaya ta Alƙur'ani, wadda aka aiko don gyara Manzon da kuma girmama ran da ya zo yana neman.",
+  "clues": [
+    "Na zo wurin wani Manzon Allah da zuciya mai buɗaɗɗiya da kuma sha'awar shiriya.",
+    "Ba ni da wani matsayi na duniya da zan bayar, sai dai rai mai tawali'u wanda ke neman gaskiya",
+    "Idanuna na zahiri ba su iya gani ba, amma hangen nesa na ruhaniya a bayyane yake",
+    "Na isa wani lokaci mara daɗi, lokacin da Manzo ya shagaltu da mutum mai babban tasiri",
+    "An juyo da fuskata, amma Allah ya amsa da gyara na Allah",
+    "Ni ne Abdullahi bn Ummu Maktum, sahabbai na sadaukarwa wanda labarinsa ya zuga Suratul Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Abdullahi bin Ummi Maktum",
+        "Bilal bin Rabah",
+        "Mu'adh bin Jabal",
+        "Zaid bin Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullahi bin Ummi Maktum"
+    },
+    "trial": {
+      "label": "Gwaji / Taro",
+      "options": [
+        "Annabi ya kore shi saboda wani mai arziki",
+        "Ana jefa shi cikin wuta mai zafi ta hannun abokan gaba",
+        "Ana sayar da shi kuma ana tsananta masa a matsayin bawa",
+        "Ana ƙalubalantarsa ​​zuwa fafatawa da wani babban jarumi",
+        "Babban kifi ya haɗiye shi"
+      ],
+      "answer": "Annabi ya kore shi saboda wani mai arziki"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Sura ta Alqur'ani da ta fara da fushi (Suratu Abasa)",
+        "Wutar da aka yi ta sanyaya kuma mai aminci",
+        "Sanda da ta raba babban teku",
+        "An gina jirgi a kan babban dutse",
+        "Tsuntsu da aka siffanta daga yumbu mai tauri"
+      ],
+      "answer": "Sura ta Alqur'ani da ta fara da fushi (Suratu Abasa)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Allah ya saukar da sura ta Alqur'ani mai kare ni",
+        "Allah ya sanya wutar ta yi sanyi kuma ta zama lafiya a gare ni",
+        "Allah ya raba teku domin ya cece ni daga bin sa",
+        "Allah ya bani mulki mai girma da hikima",
+        "Allah ya kai ni aljanna ba tare da mutuwa ba"
+      ],
+      "answer": "Allah ya saukar da sura ta Alqur'ani mai kare ni"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

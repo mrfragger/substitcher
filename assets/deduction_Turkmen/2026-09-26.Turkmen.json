@@ -1,0 +1,61 @@
+{
+  "title": "Bolçulygyň Arasynda Inkär Edilmesi",
+  "intro": "Sen öz bazarlary söwda bilen gyzgalaňly, emma terezileri nädogry egilýän halkyň arasynda bolýarsyň. Olara aýdyň duýduryşlar bilen bir ilçi geldi, ýöne olar gülýärler we öz gülläp ösmegine ynanyp ýüz öwürýärler. Asman garaňkylaşyp başlaýar, ýöne olar ony ýagyş bereketi hökmünde görýärler. Bu adamlar kimler?",
+  "clues": [
+    "Biz söwda we bolçulyk ýerlerinde gülläp ösdik, ýöne ýüreklerimiz doňdy.",
+    "Bize Rebbimizden alamatlar bilen bir pygamber geldi, ýöne biz onuň duýduryşlaryny masgara etdik.",
+    "Biz hünärimiz bilen tanalýardyk, ýöne ölçegimizi peseldip, halky aldadyk.",
+    "Biz gür agaçlaryň we ýaşyl ösümlikleriň arasynda ýaşaýardyk, ýöne bize berlen nemetleri gymmat saýýardy.",
+    "Gara bulut golaýlaşanda, biz begendik, sebäbi gurak ýerlerimize ýagyş ýagdyrar öýdüp.",
+    "Gaýtam, şol bulut ýakymly jeza goýberdi we bizi kölege gününiň azaby tutdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Ashab al-Aýka (Tokaýyň adamlary)",
+        "Semud halky",
+        "Ad halky",
+        "Lut pygamberiň halky",
+        "Nuh pygamberiň halky"
+      ],
+      "answer": "Ashab al-Aýka (Tokaýyň adamlary)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Olar öz pygamberlerini ret etdiler we söwdada aldadylar",
+        "Olar altyn göle sežde etdiler we ýoldan çykdylar",
+        "Olar sodomiýa bilen meşgullanýardylar we syýahatçylara hüjüm edýärdiler",
+        "Olar beýik diňler gurup, Hudaýa garşy çykdylar",
+        "Olar suwy paýlaşmakdan ýüz öwürdiler we dişi düýä zyýan ýetirdiler"
+      ],
+      "answer": "Olar öz pygamberlerini ret etdiler we söwdada aldadylar"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Gür tokaý ýa-da gyrymsy agaç",
+        "Jaýlara oýulyp ýasalan dag",
+        "Deňiz kenaryndaky şäher",
+        "Guýulary bolan çöl jülgesi",
+        "Köp miweli bereketli bag"
+      ],
+      "answer": "Gür tokaý ýa-da gyrymsy agaç"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ot kölege buludy bilen ýok edildi",
+        "Uly sil suwunyň aşagynda galdy",
+        "Ýer titremesi bilen ýuwudyldy",
+        "Güýçli ýeliň täsiri astynda",
+        "Daşa öwrüldi"
+      ],
+      "answer": "Ot kölege buludy bilen ýok edildi"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

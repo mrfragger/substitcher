@@ -1,0 +1,61 @@
+{
+  "title": "Rzeźbiarze w kamieniu ze starożytnej doliny",
+  "intro": "Wyobraź sobie cywilizację, która wyrosła w skalistych dolinach Arabii, biegłą w rzeźbieniu wspaniałych domów na zboczach gór. Rozkwitała siłą i kunsztem, a jednak jej historia naznaczona jest przerażającym buntem przeciwko boskiemu ostrzeżeniu. Zagłębiając się w ich historię, odkryjesz lud, którego arogancja doprowadziła do całkowitej zagłady. Kim oni byli?",
+  "clues": [
+    "Odziedziczyliśmy krainę skalistych równin i wysokich klifów, gdzie budowaliśmy nasze domy z niezrównanym kunsztem.",
+    "Byliśmy znani z tego, że budowaliśmy bezpieczne domy w górach, czuliśmy się bezpieczni i chronieni przed jakimkolwiek niebezpieczeństwem.",
+    "Przybył do nas posłaniec spośród nas, który przypomniał nam o łaskach Allaha i ostrzegł nas przed karą.",
+    "Zażądaliśmy znaku i ze skały wyłoniła się cudowna wielbłądzica – jasny dowód od Allaha.",
+    "Zlekceważyliśmy ostrzeżenie i okaleczyliśmy wielbłądzicę, naśmiewając się z posłańca i kwestionując karę.",
+    "Pojedynczy wybuch uderzył w nasze domy i rano leżeliśmy twarzą do ziemi, jakbyśmy nigdy tam nie mieszkali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z Thamud",
+        "Ludzie z „Ad”",
+        "Ludzie Madyanu",
+        "Ludzie Nuh",
+        "Ludzie Lutu"
+      ],
+      "answer": "Ludzie z Thamud"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Uciął wielbłądzicę",
+        "Złamał szabat",
+        "Oddawał cześć złotemu cielcowi",
+        "Zabili proroka, którego do nich posłano",
+        "Zbudowałem wieżę, aby sięgnąć nieba"
+      ],
+      "answer": "Uciął wielbłądzicę"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wielbłądzica",
+        "Arka",
+        "Personel",
+        "Biała ręka",
+        "Manna i przepiórki"
+      ],
+      "answer": "Wielbłądzica"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zniszczony przez wybuch",
+        "Ocalony przed zniszczeniem",
+        "Zamienieni w małpy",
+        "Utonął w morzu",
+        "Pochłonięty przez ziemię"
+      ],
+      "answer": "Zniszczony przez wybuch"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

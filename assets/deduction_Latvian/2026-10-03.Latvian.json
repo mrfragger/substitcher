@@ -1,0 +1,61 @@
+{
+  "title": "Vigilija pie Liesmojošajiem vārtiem",
+  "intro": "Kluss, baismīgs pūlis stāv sardzē pie baismīga sliekšņa, nekad nebaudot ēdienu, dzērienu vai atpūtu. Veidoti no vielas, kas atšķiras no cilvēku māla, viņi gaida vienu briesmīgu mērķi — un viņi nekad nav pārkāpuši nevienu sava Kunga pavēli.",
+  "clues": [
+    "Mēs esam būtnes, kas atšķiras no cilvēkiem, radītas no vielas, kas neēd, nedzer un nenogurst.",
+    "Mūsu precīzs skaits ir zināms un atklāts Grāmatā — mēs neesam ne neskaitāmi, ne liels daudzums.",
+    "Mēs nekad neesam nepaklausījuši savam Radītājam un nekad nerunājam, pirms mums nav pavēlēts.",
+    "Kad pienāks Diena, neticīgie tiks pie mums sadzīti bariņos, un Mēs viņiem atvērsim vārtus.",
+    "Mēs viņiem jautāsim: “Vai pie jums nenāca vēstneši no jūsu pašu sugas, lai brīdinātu jūs par šo Dienu?”",
+    "Mēs sargājam vietu, no kuras nekad neiznāk neviena dvēsele — mūžīgu sodu liesmojošu valstību."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Elles liesmu sargātāji (Zabanija)",
+        "Allāha troņa nesēji",
+        "Ierakstu eņģeļi (Kiramans Katibins)",
+        "Nāves eņģeļi",
+        "Paradīzes vārtu sargi"
+      ],
+      "answer": "Elles liesmu sargātāji (Zabanija)"
+    },
+    "trial": {
+      "label": "Mūsu galvenais pienākums",
+      "options": [
+        "Elles ugunīgo vārtu sargāšana",
+        "Katra cilvēka darba reģistrēšana",
+        "Nesot Allāha troni",
+        "Mirušo dvēseļu atņemšana",
+        "Pavēlot vējus un mākoņus"
+      ],
+      "answer": "Elles ugunīgo vārtu sargāšana"
+    },
+    "location": {
+      "label": "Ko mēs sargājam?",
+      "options": [
+        "Elles ugun",
+        "Allāha tronis",
+        "Darbu tīstokļi",
+        "Paradīzes upes",
+        "Zemes kalni"
+      ],
+      "answer": "Elles ugun"
+    },
+    "outcome": {
+      "label": "Mūsu domēnā esošo liktenis",
+      "options": [
+        "Viņi paliks mūžīgi un nekad nepametīs",
+        "Viņi galu galā tiks apžēloti un atbrīvoti",
+        "Tie laika gaitā tiks attīrīti",
+        "Tie tiks pārveidoti citās formās",
+        "Viņi pārmaiņus atradīsies ellē un paradīzē"
+      ],
+      "answer": "Viņi paliks mūžīgi un nekad nepametīs"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

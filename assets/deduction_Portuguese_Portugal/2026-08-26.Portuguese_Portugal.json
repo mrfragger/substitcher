@@ -1,0 +1,61 @@
+{
+  "title": "A inveja que consumiu",
+  "intro": "Uma história mais antiga que qualquer reino ou escritura — a primeira tragédia humana nascida do ciúme. Uma alma, a mais velha de dois filhos dos primeiros pais, assistiu furiosamente enquanto um irmão mais novo recebia um favor que lhe fora negado. O que se seguiu foi a mais sombria das escolhas, deixando para trás o primeiro sangue derramado na Terra. Você consegue desvendar a identidade, o julgamento e o amargo arrependimento?",
+  "clues": [
+    "Eu nasci do primeiro casal de humanos a caminhar sobre a Terra.",
+    "Certa vez fiz uma oferenda a Alá, mas ela não foi aceita.",
+    "A oferta do meu irmão foi aceita, enquanto a minha foi rejeitada — algo que eu não podia suportar.",
+    "Ameaçei meu próprio irmão de destruição.",
+    "Eu me tornei a primeira pessoa a cometer um assassinato nesta terra, tirando a vida do meu próprio irmão/irmã.",
+    "Alá enviou uma criatura da terra — um pássaro preto que cavava no chão — para me ensinar a esconder o que eu havia feito, e não me restou nada além de arrependimento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Qabil (Caim)",
+        "Habil (Abel)",
+        "Profeta Yaqub",
+        "Profeta Moisés",
+        "Profeta Adão"
+      ],
+      "answer": "Qabil (Caim)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Oferta rejeitada por Alá",
+        "Atirado em um grande incêndio",
+        "Abandonado ainda bebê em um rio",
+        "Testado com um reino imenso",
+        "Ordenado a sacrificar o próprio filho"
+      ],
+      "answer": "Oferta rejeitada por Alá"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O corvo enviado por Alá",
+        "O bezerro de ouro",
+        "A arca na montanha",
+        "A sarça ardente",
+        "A camela esculpida na rocha"
+      ],
+      "answer": "O corvo enviado por Alá"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ficou cheio de arrependimento e se tornou um dos perdedores.",
+        "Engolidos pela terra junto com tesouros",
+        "Tornou-se um nobre mensageiro de Alá.",
+        "Entrou no Paraíso pela misericórdia divina.",
+        "Governou um reino incomparável"
+      ],
+      "answer": "Ficou cheio de arrependimento e se tornou um dos perdedores."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

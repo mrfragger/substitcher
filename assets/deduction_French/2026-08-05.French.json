@@ -1,0 +1,61 @@
+{
+  "title": "Le jour du dernier spectacle",
+  "intro": "Convoqués pour une grande démonstration de puissance, un groupe d'artistes talentueux se retrouva confronté à une vérité inattendue qui allait changer leur vie à jamais.",
+  "clues": [
+    "Nous étions réputés pour notre savoir-faire, maîtres de l'illusion et de la supercherie.",
+    "Nous avons été convoqués par le souverain pour affronter un adversaire qui brandissait un simple bâton.",
+    "Lorsque nous avons vu la vérité, nous sommes tombés prosternés, déclarant notre foi au Seigneur des mondes.",
+    "Le tyran nous a menacés de châtiments sévères, mais nous n'avons pas flanché.",
+    "Nous avons été parmi les premiers à croire au message après avoir constaté le signe évident.",
+    "Nous avons été martyrisés pour notre foi, mais nous serons les premiers à entrer au Paradis avec les justes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les Magiciens du Pharaon",
+        "Les Israélites",
+        "Le peuple de Thamud",
+        "Les disciples d'Isa",
+        "L'armée d'Abraha"
+      ],
+      "answer": "Les Magiciens du Pharaon"
+    },
+    "trial": {
+      "label": "Essai / Événement",
+      "options": [
+        "Confrontation avec le prophète Moïse",
+        "Construire la tour",
+        "Le Grand Déluge",
+        "L'invasion de sauterelles",
+        "La mer qui se divise"
+      ],
+      "answer": "Confrontation avec le prophète Moïse"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le jour du festival",
+        "La vallée de Tuwa",
+        "La ville d'Iram",
+        "Le Jardin de l'Éternité",
+        "La plaine d'Arafat"
+      ],
+      "answer": "Le jour du festival"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Ils ont été crucifiés en public",
+        "Ils se sont noyés dans la mer",
+        "Ils furent faits disciples du prophète",
+        "Ils furent envoyés en exil",
+        "Ils furent consumés par le feu"
+      ],
+      "answer": "Ils ont été crucifiés en public"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

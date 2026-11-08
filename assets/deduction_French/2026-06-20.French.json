@@ -1,0 +1,61 @@
+{
+  "title": "Le banni du jardin",
+  "intro": "Un être mystérieux occupait jadis les plus hauts rangs de la création, plus proche du Divin que beaucoup ne pouvaient l'imaginer. Pourtant, l'orgueil s'est enraciné en lui, et un seul acte de rébellion a bouleversé le cours de l'existence. Désormais, cet être erre comme un ennemi juré, murmurant et complotant jusqu'à l'avènement d'un jour promis. Parviendrez-vous à percer le mystère de cet être déchu ?",
+  "clues": [
+    "J'ai jadis appartenu à ceux qui étaient les plus proches de la présence divine, élevés au-dessus d'une grande partie de la création.",
+    "J'ai été créé à partir d'un élément brûlant, non à partir de terre ou d'argile.",
+    "Quand on m’a ordonné de m’incliner devant une nouvelle création, j’ai refusé, animé par ce que je croyais être ma propre supériorité.",
+    "J'ai été banni et maudit, mais j'ai finalement obtenu un sursis jusqu'à une date précise.",
+    "J'ai juré d'égarer autant de personnes que possible, en approchant la descendance d'Adam de toutes parts.",
+    "Je suis l'ennemi déclaré et avoué de toute l'humanité, complotant et murmurant sans cesse jusqu'à la fin prévue."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Le prophète Ilyas",
+        "Abou Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Essai / Événement",
+      "options": [
+        "Refus de se prosterner devant Adam",
+        "Construire un veau d'or pour que le peuple puisse l'adorer",
+        "Enseigner la sorcellerie au peuple de Babylone",
+        "Fendre la mer avec un bâton",
+        "Emportant le trône de la reine de Saba en un instant"
+      ],
+      "answer": "Refus de se prosterner devant Adam"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le jardin d'Éden",
+        "La montagne de Tur",
+        "Le puits de Rass",
+        "Le palais du pharaon",
+        "La grotte des dormeurs"
+      ],
+      "answer": "Le jardin d'Éden"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Sursis accordé jusqu'au Jour du Jugement",
+        "Noyé en mer avec une armée",
+        "Enterré vivant sous un palais en ruine",
+        "Transformé en singe",
+        "Promu à un rang supérieur"
+      ],
+      "answer": "Sursis accordé jusqu'au Jour du Jugement"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

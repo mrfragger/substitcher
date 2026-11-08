@@ -1,0 +1,61 @@
+{
+  "title": "A néma hang a teremben",
+  "intro": "Egy ima visszhangzott egy szent terem csendjében réges-régen, egy öregedő lélekből feltörve, aki vágyakozott arra, amit a világ lehetetlennek nyilvánított. Ez az előrehaladott korú és a jövő miatti aggodalommal terhelt alak személyes könyörgéssel fordult Urához. Ami ezután következett, az egy isteni válasz volt, amely minden természetes várakozást felülmúlt – bizonyság annak irgalmáról, aki válaszol a kétségbeesett hívásra.",
+  "clues": [
+    "Magamban fohászkodtam Uramhoz, visszavonulva egy szobába, ahol az Ő imádatának szenteltem magam.",
+    "Bevallottam Uramnak, hogy félek az utánam jövőkért, és aggódom népem útmutatásáért, miután eltávozom.",
+    "Az öregség utolért – a csontjaim elgyengültek, és ősz haj borította be a fejemet.",
+    "A feleségem egész életében meddő volt, mégis kértem az Urat, hogy adjon nekem örököst az Ő jelenlétéből.",
+    "Jelt kértem, és az Úr úgy válaszolt, hogy három éjszakán át nem engedett senkivel beszélni, amíg fizikailag ép maradtam.",
+    "Azt az ígéretet kaptam, hogy egy fiút fogok hívni, akinek a neve Jahja lesz, egy olyan nevet, amelyet Uram kijelentette, hogy még soha senkinek nem adtak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Zakariya próféta",
+        "Nuh próféta",
+        "Mózes próféta",
+        "Juszuf próféta",
+        "Dawud próféta"
+      ],
+      "answer": "Zakariya próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Imádkozni egy örökösért idős korban egy meddő házastárssal",
+        "Lángoló tűzbe vetve",
+        "Egy nagy hal nyelte el a sötétségben",
+        "A család, a vagyon és az egészség elvesztésének elviselése",
+        "Parancsot kapnak egy nagy bárka építésére"
+      ],
+      "answer": "Imádkozni egy örökösért idős korban egy meddő házastárssal"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az imakamra (mihrab)",
+        "Egy kígyóvá változott személyzet",
+        "Egy hatalmas fa bárka",
+        "Egyedi forrással rendelkező kert",
+        "Egy hegy, ahol madarak gyűltek össze"
+      ],
+      "answer": "Az imakamra (mihrab)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Csodával határos módon fiút kapott rendkívüli idős kora ellenére",
+        "Isteni parancsra megmentették a lángoló tűztől",
+        "Egy nagy árvíz pusztította el a hitetleneket",
+        "Türelemmel visszanyerte családját, vagyonát és egészségét",
+        "A fáraó és serege tengerbe fulladt"
+      ],
+      "answer": "Csodával határos módon fiút kapott rendkívüli idős kora ellenére"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Les onze étoiles qui se sont inclinées",
+  "intro": "Un personnage du Coran reçut, dès son enfance, une vision profonde : le rêve des astres s’inclinant en signe de révérence. Des années de trahison, de séparation, de fausses accusations et d’emprisonnement s’écoulèrent avant que cette vision ne se réalise. Qui est cette âme résiliente dont l’histoire occupe le plus long chapitre du Coran ?",
+  "clues": [
+    "J'étais autrefois jeune, doté d'un rêve extraordinaire que même mon propre père m'avait conseillé de garder secret.",
+    "Mes propres frères, aveuglés par la jalousie, ont comploté contre moi et m'ont jeté dans un puits profond et sombre.",
+    "J'ai été emmené dans un pays lointain et vendu à la maison d'un noble fonctionnaire, où j'ai trouvé grâce et gravi les échelons de responsabilité.",
+    "Une fausse accusation a conduit à mon emprisonnement injuste, mais dans ce lieu sombre, j'ai trouvé du réconfort dans la prière et la prosternation devant Allah.",
+    "Allah m'a gratifié du don rare d'interpréter les rêves, ce qui m'a finalement conduit devant le souverain du pays et m'a élevé à une position de confiance importante.",
+    "Après de longues années de séparation, j'ai retrouvé ma famille bien-aimée et mon rêve d'enfant, celui de voir onze étoiles, le soleil et la lune s'incliner devant moi, s'est enfin réalisé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Yusuf",
+        "Prophète Salih",
+        "Le prophète Ilyas",
+        "Tubba', le souverain de l'ancienne Himyar",
+        "Un humble berger des collines de Palestine"
+      ],
+      "answer": "Prophète Yusuf"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Être jeté dans un puits profond et sombre par des frères jaloux",
+        "Être avalé par une grande créature des profondeurs marines",
+        "Être jeté dans un brasier par des idolâtres",
+        "Emportés par un vent divin de destruction",
+        "Survivre à une grande inondation qui a recouvert toute la terre"
+      ],
+      "answer": "Être jeté dans un puits profond et sombre par des frères jaloux"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un puits asséché dans le désert où j'ai été abandonné",
+        "Un grand poisson des profondeurs marines",
+        "Une arche gigantesque construite sur ordre divin",
+        "Une tour construite pour atteindre les cieux",
+        "Un feu sacré qui refusait de brûler"
+      ],
+      "answer": "Un puits asséché dans le désert où j'ai été abandonné"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Réuni avec sa famille après des années de séparation, il devint un ministre de confiance.",
+        "J'ai mené un grand exode de mon peuple à travers une mer séparée.",
+        "J'ai averti ma nation du désastre imminent qui les a consumés.",
+        "Il a construit une maison sacrée qui est devenue un sanctuaire pour tous.",
+        "Émergea sain et sauf du ventre d'une immense créature après trois jours."
+      ],
+      "answer": "Réuni avec sa famille après des années de séparation, il devint un ministre de confiance."
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Y Gri o'r Ddyfnder",
+  "intro": "Daeth gwas y Mwyaf Trugarog yn flinedig o genedl ystyfnig ac ymadawodd cyn cael caniatâd. Daeth yr unigolyn hwn i ben mewn lle lle nad oedd unrhyw ddyn erioed wedi bod, lle mae'r alwad i'r Dwyfol yn atseinio'n rhyfedd trwy haenau o dywyllwch. Gan ddod i'r amlwg yn wan ond wedi'i drawsnewid, daeth yr enaid hwn yn wers dragwyddol mewn amynedd, edifeirwch diffuant, a thrugaredd ddiderfyn y Creawdwr. Allwch chi ddatrys y dirgelwch?",
+  "clues": [
+    "Anfonwyd fi fel negesydd at fy mhobl, ond aethant y tu hwnt i bob terfyn yn eu hanghrediniaeth a gwrthod gwrando.",
+    "Des i’n flin am eu gwrthod a ffoes i oddi wrth fy mhobl cyn i orchymyn Allah ddod.",
+    "Es i ar fwrdd llong oedd wedi'i llwytho y tu hwnt i'w chapasiti, a thynnwyd coelbren i benderfynu pwy fyddai'n cael ei daflu dros y bwrdd.",
+    "Cefais fy nhaflu i'r môr cynddeiriog a'm llyncu gan bysgodyn mawr.",
+    "Wedi fy nghaethiwo mewn tair haen o dywyllwch — y bol, y môr dwfn, a'r ddaear isod — gelwais ar fy Arglwydd mewn edifeirwch diffuant.",
+    "Deuthum allan o’r pysgod i’r lan agored, yn wan ac yn flinedig, a thyfodd planhigyn pwmpen drosof. Credodd fy mhobl, cant mil neu fwy, o’r diwedd."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Yunus",
+        "Proffwyd Ayyub",
+        "Proffwyd Yusuf",
+        "Proffwyd Musa",
+        "Proffwyd Sulaiman"
+      ],
+      "answer": "Proffwyd Yunus"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Wedi'i lyncu gan bysgodyn mawr",
+        "Wedi'i daflu i dân llachar",
+        "Wedi'i ddal ar waelod ffynnon",
+        "Wedi'i llethu gan lifogydd mawr",
+        "Wedi'i garcharu'n anghyfiawn gan frenin"
+      ],
+      "answer": "Wedi'i lyncu gan bysgodyn mawr"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Bol pysgodyn mawr",
+        "Y dyffryn cysegredig ger y Kaaba",
+        "Arch yn gorffwys ar fynydd",
+        "Staff a drodd yn sarff",
+        "Gorsedd o fawredd digymar"
+      ],
+      "answer": "Bol pysgodyn mawr"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Credodd ei bobl, cant mil neu fwy,",
+        "Wedi'i godi'n fyw i'r nefoedd",
+        "Daeth yn rheolwr teyrnas heb ei hail",
+        "Wedi'i ddinistrio gan gri dyllu o'r awyr",
+        "Wedi'i ddymchwel gan ddaeargryn dinistriol"
+      ],
+      "answer": "Credodd ei bobl, cant mil neu fwy,"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

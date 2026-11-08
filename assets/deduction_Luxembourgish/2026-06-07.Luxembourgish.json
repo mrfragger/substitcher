@@ -1,0 +1,61 @@
+{
+  "title": "Déi gepéinegt Séil vum Nil",
+  "intro": "An enger Zäit vu grousser Ënnerdréckung, wou en Tyrann d'Land mat absoluter Grausamkeet regéiert huet, huet eng Séil de Wee vum Glawen iwwer de Komfort vun der Kinnigin gewielt. Dës Figur huet am Häerz vun der Muecht gewunnt, awer d'Wourecht an der Botschaft vun engem bescheidenen Prophet fonnt. Hire Wee sollt eng zäitlos Lektioun a Gedold, Affer an onerschütterlecher Iwwerzeegung ginn. Kënnt Dir dës bemierkenswäert Persoun identifizéieren, déi göttlech Freed iwwer weltlëche Status virgezunn huet?",
+  "clues": [
+    "Ech hunn an engem Palais vu grousser Muecht gelieft, awer mäin Häerz huet d'Wourecht an enger bescheidener Botschaft fonnt.",
+    "Ech hunn decidéiert, dem Musa seng Leedung ze verfollegen, well ech d'Konsequenze wousst, mat deenen ech konfrontéiert wier.",
+    "Ech war mam mächtegsten Tyrann vu menger Zäit bestuet, awer ech hunn seng falsch Götter verworf.",
+    "Mäi Leed war schwéier, well ech fir mäi Glawen un den Eenzege Gott bestrooft gouf.",
+    "Ech hunn ni a mengem Glawen gezweifelt, och net wéi ech mat der haardster Qual konfrontéiert war.",
+    "Mäin Här war zefridden mat menger Gedold a huet mech fir eng éierbar Plaz am Paradäis erausgesicht."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Mamm vum Prophet Musa",
+        "D'Fra vum Pharao",
+        "D'Schwëster vum Prophet Musa",
+        "Eng Kinnigin vum antike Ägypten",
+        "E Knecht vun den Israeliten"
+      ],
+      "answer": "D'Fra vum Pharao"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Mat enger Arméi fir Allahs Saach kämpfen",
+        "De Pharao konfrontéieren a Glawen erklären",
+        "Bau vu Gotteshäuser an Ägypten",
+        "Rees iwwer d'Mier mam Musa",
+        "Offenbarung vun Allah kréien"
+      ],
+      "answer": "De Pharao konfrontéieren a Glawen erklären"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Wüst vu Midian",
+        "De kinnekleche Palais vun Egypten",
+        "D'Ufer vum Nil",
+        "De Bierg Sinai",
+        "D'Land Kanaan"
+      ],
+      "answer": "De kinnekleche Palais vun Egypten"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gouf no ville Joren e Prophet",
+        "D'Israeliten aus Ägypten erausgefouert",
+        "krut Souveränitéit iwwer Ägypten",
+        "Gouf vum Allah gemierkt a geéiert",
+        "Bis an d'Héicht gelieft a Komfort"
+      ],
+      "answer": "Gouf vum Allah gemierkt a geéiert"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

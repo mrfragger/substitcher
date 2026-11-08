@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakamātautau o te Wairua Pūmau",
+  "intro": "E tū ana te wairua i te wā o te whakamātautau atua, e rapu ana i te arataki me te manawanui me te ngākau mahaki. Ko te Mea e mōhio ana ki ngā mea katoa ka panaia tēnei kai rapu, ā, i muri mai ka whakakitea mai he whakamātautau tēnei o te ngākau. Mā roto i tēnei whakawhitiwhiti kōrero ngaro, ka hurahia he akoranga mō te whakaaro nui atua ki te hunga e whakaaroaro ana. Ka taea e koe te tautuhi i tēnei tangata mai i te kōrero a te Quran?",
+  "clues": [
+    "I rapu ahau i te mātauranga me te arataki mai i te karere aroha o Allah",
+    "I haere mai ahau ki te rapu i te pono, me te karanga ki te Poropiti me te hiahia nui",
+    "I riria ahau, ā, i tahuri ke atu, nā te mea he mahere kē tā te whakaaro nui o Atua mō taua wā.",
+    "Heoi, kāore au i ngākau pouri—engari, i haere tonu ahau ki te rapu",
+    "I kī te Mea e mōhio ana ki ngā mea katoa he whakamātautau tēnei o te ngākau, he whakatūpato hoki",
+    "I roto ahau i te hunga i whakakitea mai e te Quran: 'I pōuri ia, ā, i tahuri ke atu, nā te mea i tae mai te matapo ki a ia'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Tangata Hāngai e Rapu Ana i te Ruarua",
+        "Te Kairapu Matapo o te Pono",
+        "Te Kaiwhakakara i ngā Whakapakoko o Makkah",
+        "Ko te tangata kore whakapono e tawai ana ki te poropiti",
+        "Te Kaihaerere mai i Yemen"
+      ],
+      "answer": "Te Kairapu Matapo o te Pono"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te riria e te Poropiti a Muhammad i te wā e inoi ana",
+        "Te whakamātautau i te tauraki me te matekai i Makkah",
+        "Te panaia atu i ngā kūaha o te pararaiha",
+        "Te whakakahoretia e te iwi ake mō te whakapono",
+        "Te whakamatautauria ki te taonga me ngā tamariki"
+      ],
+      "answer": "Te riria e te Poropiti a Muhammad i te wā e inoi ana"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "I roto i te Kaaba i te wā o te haerenga tapu",
+        "I te aroaro o te Poropiti i te wā e whakahua ana",
+        "I te tihi o Maunga Safa i ngā hāora o te ata",
+        "I te mākete o Makkah e karapotia ana e te hunga whakaponokore",
+        "E tata ana ki te puna o Zamzam i te wā o te Hajj"
+      ],
+      "answer": "I te aroaro o te Poropiti i te wā e whakahua ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakamatea te tangata rapu e te hunga Quraysh mō tōna whakapono",
+        "I tuhia te aituā hei whakamātautau, hei akoranga hoki mā te Ummah.",
+        "I riro te kaitono hei hoa, hei kaiārahi hoki",
+        "Tekau ngā whakarea o te taonga o te kaitono",
+        "I hoki te kaiwhai ki te kore whakapono"
+      ],
+      "answer": "I tuhia te aituā hei whakamātautau, hei akoranga hoki mā te Ummah."
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

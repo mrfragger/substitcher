@@ -1,0 +1,61 @@
+{
+  "title": "Palatadaky Sessiz Ses",
+  "intro": "Dünýäniň mümkin däl diýip yglan eden zadyny arzuw edýän garry ruhundan turan bu doga köp wagt mundan ozal mukaddes otagyň asudalygynda ýaňlandy. Ýaşy ulalyp, geljek üçin alada bilen ýüklenen bu şahsyýet şahsy ýalbaryş bilen Rebbine ýüzlendi. Soňra bolsa ähli tebigy garaşmalara garşy çykýan ilahi jogap geldi - umytsyz çagyryşa jogap berýäniň rehimdarlygynyň subutnamasy.",
+  "clues": [
+    "Men özbaşyna Rebbime ýüzlendim, özümi Oňa ybadat etmäge bagyşlaýan otagyma çekildim.",
+    "Men Rebbime özümden soň geljekler üçin gorkýandygymy, gidenimden soň kowumymyň dogry ýolda bolmagy üçin alada edýändigimi boýun aldym.",
+    "Garrylyk meni basyp aldy — süňklerim gowşap, ak saçlarym kelläme ýaýrapdy.",
+    "Meniň aýalym ömrüniň ahyryna çenli çagasyzdy, ýöne men henizem Rebimden maňa Öz huzuryndan mirasdüşer bermegini diledim.",
+    "Men alamat soradym, Rebbim bolsa beden taýdan sagdyn bolup, üç gije hiç kim bilen gürleşmegime rugsat bermedi.",
+    "Maňa Ýahýa atly ogul wada berildi, Rebbim öň hiç kime berilmedik bu at barada yglan etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Pygamber Zakariýa",
+        "Nuh pygamber",
+        "Musa pygamber",
+        "Ýusup pygamber",
+        "Dawut pygamber"
+      ],
+      "answer": "Pygamber Zakariýa"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Garrylykda çagasyz är-aýal bilen mirasdüşer üçin doga etmek",
+        "Ýanýan oda taşlanmak",
+        "Garaňkylykda uly balyk tarapyndan ýuwutulýar",
+        "Maşgalasynyň, baýlygynyň we saglygynyň ýitgisine çydamak",
+        "Beýik gämi gurmak tabşyrygy berilýär"
+      ],
+      "answer": "Garrylykda çagasyz är-aýal bilen mirasdüşer üçin doga etmek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Namaz otagy (mihrab)",
+        "Ýylana öwrülen taýak",
+        "Beýik agaçdan ýasalan sandyk",
+        "Özboluşly çeşmesi bolan bag",
+        "Guşlaryň ýygnanýan dagy"
+      ],
+      "answer": "Namaz otagy (mihrab)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Garrylygyna garamazdan, gudrat bilen atlandyrylan ogul berildi",
+        "Ylahy emr bilen ýanýan otdan halas boldy",
+        "Beýik bir sil kapyrlary ýok etdi",
+        "Sabyrly bolandan soň maşgala, baýlyk we saglyk dikeldildi",
+        "Fyrown we onuň goşuny deňizde gark boldular"
+      ],
+      "answer": "Garrylygyna garamazdan, gudrat bilen atlandyrylan ogul berildi"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Os Guardiões da Colheita Secreta",
+  "intro": "Em uma terra verdejante, um grupo de indivíduos arquitetou um plano secreto sob a proteção da escuridão. Compartilhavam um propósito comum, mas suas intenções estavam longe de ser virtuosas. Mal sabiam eles que uma reviravolta divina os aguardava enquanto dormiam.",
+  "clues": [
+    "Tomamos uma decisão firme, acreditando que nosso plano era impecável.",
+    "Tínhamos a intenção de sair cedo, antes mesmo que os outros pudessem se mexer.",
+    "Instalamo-nos num terreno fértil, confiantes nas nossas provisões.",
+    "Ao chegarmos ao nosso destino, encontramos o local árido e desolado, então pensamos que tínhamos nos perdido.",
+    "Então percebemos que aquele era realmente o nosso lugar, e gritamos em desespero, culpando-nos mutuamente pela nossa perda.",
+    "Naquela manhã, tínhamos jurado excluir os pobres da nossa colheita, mas o castigo de Alá caiu sobre nós enquanto dormíamos, transformando nosso jardim em ruínas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Os donos do jardim na Surata 68",
+        "O povo de Sabá",
+        "Os Companheiros da Caverna",
+        "O Povo do Elefante",
+        "O Povo da Trincheira"
+      ],
+      "answer": "Os donos do jardim na Surata 68"
+    },
+    "trial": {
+      "label": "Nosso julgamento",
+      "options": [
+        "Nosso jardim foi destruído por uma calamidade vinda do céu.",
+        "Nosso jardim foi devastado por uma enchente.",
+        "Nosso jardim foi incendiado por um inimigo.",
+        "Nosso jardim estava infestado de gafanhotos.",
+        "Nosso jardim foi engolido por um terremoto."
+      ],
+      "answer": "Nosso jardim foi destruído por uma calamidade vinda do céu."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Juramos colher seus frutos pela manhã.",
+        "Construímos uma represa para irrigar nosso jardim.",
+        "Buscamos refúgio em uma caverna para nos proteger.",
+        "Preparamos um exército para conquistar um reino.",
+        "Navegamos num navio para atravessar o mar."
+      ],
+      "answer": "Juramos colher seus frutos pela manhã."
+    },
+    "outcome": {
+      "label": "Nosso destino",
+      "options": [
+        "Nos arrependemos e esperamos pela misericórdia de Alá.",
+        "Fomos completamente destruídos e nunca nos arrependemos.",
+        "Fugimos daquela terra e nunca mais voltamos.",
+        "Nos tornamos poderosos e ricos novamente.",
+        "Fomos punidos sendo transformados em macacos."
+      ],
+      "answer": "Nos arrependemos e esperamos pela misericórdia de Alá."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

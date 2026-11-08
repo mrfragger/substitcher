@@ -1,0 +1,61 @@
+{
+  "title": "Ny Arsitektan'ny Avonavona",
+  "intro": "Tao amin'ny tany fahiny iray nofehezin'ny fahefana mpikomy, dia nisy olona manan-danja iray nitana toerana ambony. Io fanahy io dia nandray anjara tamin'ny tetika lehiben'ny mpitondra, nandray anjara tamin'ny fanjakany feno fampahoriana sy nanohitra ny hafatr'Andriamanitra. Ny lovany dia mifamatotra amin'ny fikatsahana ny herin'izao tontolo izao sy ny fandavana ny fahamarinana.",
+  "clues": [
+    "Nanompo mpitondra mahatsiravina izay nampahory vahoaka nandritra ny taranaka maro aho.",
+    "Matetika no voatonona ao amin'ny Bokin'Andriamanitra miaraka amin'ity mpitarika mahery ity ny anarako.",
+    "Nasaina nanao tetikasa fanorenana goavana aho, dia rafitra avo be natao hahatratra ny lanitra.",
+    "Nanoro hevitra ny tompoko aho mba hamono ny zanakalahin'ny Zanak'Isiraely ary hamela ny zanakavaviny ho faty.",
+    "Tafiditra tamin'ny teti-dratsy sy fikomiana hanoherana iraka maherin'i Allah aho.",
+    "Ny fiafarako, niaraka tamin'ny tompoko sy ny tafiny, dia tonga teny amin'ny ranomasimbe midadasika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Nimroda",
+        "Abraha",
+        "Goliata",
+        "Iblisy",
+        "Hamana"
+      ],
+      "answer": "Hamana"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Voasedra tamin'ny harena be dia be",
+        "Mitarika tafika hiady amin'ny trano masina",
+        "Manangana tilikambo mba hanatonana an'Andriamanitra",
+        "Natsipy tao anaty afo noho ny finoany",
+        "Natsipin'ny iray tampo aminy tao anaty lavadrano"
+      ],
+      "answer": "Manangana tilikambo mba hanatonana an'Andriamanitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Fiara",
+        "Ny mpiasa",
+        "Ny Tendrombohitra",
+        "Ny Tilikambo",
+        "Ny Trozona"
+      ],
+      "answer": "Ny Tilikambo"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nomena fahendrena tsy manam-petra",
+        "Lasa mpaminany",
+        "Voatelina amin'ny tany",
+        "Nomena fanjakana",
+        "Maty an-drano any an-dranomasina"
+      ],
+      "answer": "Maty an-drano any an-dranomasina"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

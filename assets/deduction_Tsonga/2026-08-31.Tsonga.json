@@ -1,0 +1,61 @@
+{
+  "title": "Rito ro Miyela ra Nkova",
+  "intro": "Tlhelela endzhaku enkarhini eka vanhu va matimba lava tshameke va kuma xihlamariso lexi hanyaka tanihi ndzingo. Ku tikukumuxa ni ku nonon’hwa swi funghile vumundzuku bya vona. Xana u nga landzelela xitori lexi ivi u kuma leswi humeleleke eka ku cinca loku lokukulu?",
+  "clues": [
+    "Ndzi rhumeriwe tanihi ndzingo wa Xikwembu eka vanhu va matimba lava tivekaka hi matimba ni ku kaneta ka vona.",
+    "A ndzi ri xihlamariso xo hlawuleka—lava fanaka na mina a va nga si tshama va humelela exikarhi ka vona.",
+    "A ndzi avelana mati yo nwa exihlobyeni ni vanhu va mina hi masiku yo cincana.",
+    "Va tsundzuxiwe leswaku khombo rin’wana ni rin’wana leri nga ta ndzi endla a ri ta tisa nxupulo wa xihatla.",
+    "Lava a va ri ni xivindzi ngopfu eka vona va honise xilemukiso ivi va ndzi rhurhumerisa.",
+    "Endzhaku ka rifu ra mina, xirilo xin’we xa ku dzindza ka tilo lexi humaka ehenhla xi lovise vanhu va mina hinkwavo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Kamela ya Xisati ya Salih",
+        "Homu ya Musa",
+        "Xikepe xa Nuh",
+        "Ntirhi wa Musa",
+        "Xiluvelo xa Bilqis"
+      ],
+      "answer": "Kamela ya Xisati ya Salih"
+    },
+    "trial": {
+      "label": "Vumundzuku bya Mina",
+      "options": [
+        "Hamstrung na ku dlayiwa",
+        "Ku dlayiwa tanihi gandzelo",
+        "Yi hundzuriwile yi va nyoka",
+        "Yi hlayisiwile hi ndhambi leyikulu",
+        "Ku tisiwa hi ku hatlisa ku tsemakanya mfumo"
+      ],
+      "answer": "Hamstrung na ku dlayiwa"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xihlovo xa mati",
+        "Xiphepherhele xa ribye",
+        "Xihlahla lexi pfurhaka",
+        "Areka ya mapulanga",
+        "Xiluvelo xa nsuku ni silivhere"
+      ],
+      "answer": "Xihlovo xa mati"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku herisiwa hi ku huwelela kan’we",
+        "Ku nwela eka ndhambi leyikulu",
+        "Ku hisiwa hi mpfula ya maribye",
+        "Ku tshoveka hi moya wa matimba",
+        "Ku mitiwa hi misava"
+      ],
+      "answer": "Ku herisiwa hi ku huwelela kan’we"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

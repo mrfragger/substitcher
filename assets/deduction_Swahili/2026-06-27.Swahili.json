@@ -1,0 +1,61 @@
+{
+  "title": "Kutokuwepo Kutakatifu",
+  "intro": "Zaidi ya matuta ya wakati, kuna hadithi ya ibada isiyoyumba na uaminifu mzito kiasi kwamba roho iliyoubeba ingeweza kuvunjika. Wakati watu walipogeukia upumbavu na dhahabu, mtu mmoja alisimama imara—akiwaita warudi, akiomba uvumilivu, na kubeba uzito wa ahadi takatifu. Hii ni hadithi ya mtu aliyechaguliwa kama msaidizi, waziri, na mlinzi wa imani wakati wa kutokuwepo kwake kutakatifu. Je, unaweza kufichua utambulisho wa roho hii thabiti?",
+  "clues": [
+    "Ninashiriki damu ya nabii mkuu aliyechaguliwa kuzungumza na Mwenyezi Mungu moja kwa moja juu ya mlima mtakatifu.",
+    "Ndugu yangu aliwahi kumwomba Mwenyezi Mungu msaada wa kuzungumza waziwazi na mkandamizaji mkubwa.",
+    "Nilichaguliwa na Mwenyezi Mungu kusimama kando ya ndugu yangu kama msaidizi na waziri.",
+    "Kwa pamoja tulikabiliana na mtawala dhalimu aliyedai kuitwa miungu mkuu zaidi.",
+    "Ndugu yangu alipokuwa akizungumza na Mwenyezi Mungu mlimani, watu wetu walijitengenezea sanamu kutokana na dhahabu yao.",
+    "Mimi ni ndugu yake Musa, niliyeteuliwa na Mwenyezi Mungu kuwa waziri wake, niliyetajwa kwa jina katika Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Harun (Haruni)",
+        "Nabii Musa",
+        "Nabii Daudi",
+        "Nabii Yaqub",
+        "Nabii Ishaq"
+      ],
+      "answer": "Nabii Harun (Haruni)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mgogoro wa Ibada ya Ndama",
+        "Gharika Kubwa ya Nuhu",
+        "Vita vya Badr",
+        "Uharibifu wa Thamud",
+        "Kuharibiwa kwa Sodoma"
+      ],
+      "answer": "Mgogoro wa Ibada ya Ndama"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa Dhahabu",
+        "Safina ya Nuhu",
+        "Kichaka Kinachowaka Moto",
+        "Pango la Hira",
+        "Kiti cha Enzi cha Sheba"
+      ],
+      "answer": "Ndama wa Dhahabu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kutokuwa na Hatia Kumethibitishwa na Mwenyezi Mungu",
+        "Kuzama kwa Farao",
+        "Ujenzi wa Kaaba",
+        "Kuvuka Bahari Salama",
+        "Kupaa Mbinguni"
+      ],
+      "answer": "Kutokuwa na Hatia Kumethibitishwa na Mwenyezi Mungu"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Gostoljubnost, ki je vzbujala strah",
+  "intro": "V mestu, ki ga je prevzela hudobija, je zvesti služabnik nekega dne sprejel nepričakovane obiskovalce. Zaskrbljen za njihovo varnost jim je ponudil zaščito, toda prebivalci mesta so zahtevali nekaj sramotnega. Služabnik, opozorjen na bližajočo se pogubo, je z družino pobegnil pod okriljem teme in za seboj pustil mesto, ki je bilo zaznamovano za uničenje. Kdo je ta osamljeni vernik?",
+  "clues": [
+    "Poslan sem bil kot sel k ljudstvu, ki je zagrešilo sramotna dejanja.",
+    "Nepričakovani obiskovalci so prišli k meni domov in bolj sem bil zaskrbljen za njihovo varnost kot za svojo.",
+    "Moji ljudje so zahtevali, da vidijo moje goste zaradi hudobnih namenov, in poskušal sem jih prepričati.",
+    "Moji obiskovalci so se razodeli kot angeli in mi ukazali, naj ponoči vzamem svojo družino in odidem.",
+    "Moja žena ni upoštevala klica k pobegu in se je soočila z enakim uničenjem kot moje ljudstvo.",
+    "Moje mesto je bilo prevrnjeno z dežjem kamenja iz plastovite gline, njegovi najvišji deli pa so bili prevrnjeni z najnižjimi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Lut",
+        "Prerok Musa",
+        "Prerok Ibrahim",
+        "Prerok Nuh",
+        "Prerok Hud"
+      ],
+      "answer": "Prerok Lut"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zahteva mojega ljudstva, da se hudobno približa mojim gostom",
+        "Ločitev morja, da bi pobegnili tiraninu",
+        "Gradnja velike barke sredi posmeha",
+        "Žrtvovanje mojega sina v preizkušnji vere",
+        "Izkušnja, ko te pogoltne velika riba"
+      ],
+      "answer": "Zahteva mojega ljudstva, da se hudobno približa mojim gostom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Prevrnjeno mesto mojega ljudstva",
+        "Gora, kjer sem prejel božanski govor",
+        "Barka, ki je plula skozi veliko poplavo",
+        "Kamela, ki je prišla iz skale",
+        "Vrt s skritim pravičnim obiskovalcem"
+      ],
+      "answer": "Prevrnjeno mesto mojega ljudstva"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Rešen sem bil z družino, preden je bilo moje mesto prevrnjeno",
+        "Svoje ljudstvo sem vodil čez morje v svobodo",
+        "Zgradil sem veliko barko in preživel mogočno poplavo",
+        "Dana mi je bila oblast nad vetrovi in ​​džini",
+        "Potrpežljivo sem prenašal trpljenje in bil nagrajen z družino"
+      ],
+      "answer": "Rešen sem bil z družino, preden je bilo moje mesto prevrnjeno"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

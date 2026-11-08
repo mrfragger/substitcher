@@ -1,0 +1,61 @@
+{
+  "title": "Ang Matinud-anon nga Tingog sa Karaang mga Panahon",
+  "intro": "Adunay usa ka kalag sa Quran kansang istorya gisaysay sa pipila lang ka bersikulo, apan ang ilang halangdon nga mga hiyas misidlak uban ang hayag nga katin-aw. Gidayeg sa Makagagahum tungod sa usa ka espesyal nga hiyas, kining karaang alagad sa Labing Maloloy-on adunay dapit sa mga panid sa pagpadayag. Ang imong buluhaton mao ang pag-ila niining talagsaong tawo. Makatag-an ka ba kon kinsa sila?",
+  "clues": [
+    "Ako usa ka propeta sa Allah nga nabuhi uban sa unang mga henerasyon sa katawhan.",
+    "Gihisgotan ako ni Allah sa Iyang Libro uban sa ubang mga propeta, silang tanan gidayeg tungod sa samang halangdon nga hiyas.",
+    "Gihulagway ako isip usa ka tawo sa kamatuoran sa Quran.",
+    "Gibayaw ako ni Allah ngadto sa usa ka taas nga kahimtang nga pipila ra ang nakab-ot sa uban.",
+    "Ang akong ngalan nahisgotan sa Surah Al-Anbiya, gigrupo uban sa duha pa ka propeta nga gidayeg tungod sa ilang pailub.",
+    "Ako si Idris, ang matinud-anon ug halangdon nga propeta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Idris",
+        "Propeta Nuh",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Ismail"
+      ],
+      "answer": "Propeta Idris"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagpadayon sa pailub ug pagkamatinud-anon, unya ipataas sa taas nga posisyon",
+        "Pagtukod ug dakong arka aron maluwas ang mga tumutuo gikan sa usa ka dakong baha",
+        "Gitambog ngadto sa nagdilaab nga kalayo ug migawas nga hingpit nga wala maunsa",
+        "Pag-atubang sa usa ka gamhanang hari ug pagpildi sa iyang kasundalohan sa mga salamangkero",
+        "Nabuhi sulod sa tiyan sa usa ka dakong isda sa kahiladman sa dagat"
+      ],
+      "answer": "Pagpadayon sa pailub ug pagkamatinud-anon, unya ipataas sa taas nga posisyon"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka taas ug halangdon nga kahimtang sa atubangan ni Allah",
+        "Usa ka dakong barko nga gitukod gikan sa mga tabla ug gibulitan og alkitran",
+        "Usa ka nagdilaab nga kalayo nga gisugnoran sa mga magsisimba sa diosdios sa usa ka dautang hari",
+        "Usa ka halapad nga dagat nga nabahin ngadto sa mga uga nga agianan",
+        "Ang ngitngit nga tiyan sa usa ka dakong balyena sa ilawom sa kadagatan"
+      ],
+      "answer": "Usa ka taas ug halangdon nga kahimtang sa atubangan ni Allah"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Gidawat sa kalooy sa Allah isip usa sa mga matarong",
+        "Naluwas uban sa tanang mga magtutuo gikan sa usa ka tibuok kalibutan nga baha",
+        "Migawas gikan sa mga siga nga wala matandog sa kalayo",
+        "Gipangulohan ang mga Anak sa Israel nga luwas ngadto sa kagawasan tabok sa dagat",
+        "Nagkahiusa pag-usab uban sa ilang minahal nga pamilya human sa taas nga katuigan nga kalisod"
+      ],
+      "answer": "Gidawat sa kalooy sa Allah isip usa sa mga matarong"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

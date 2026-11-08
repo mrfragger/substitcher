@@ -1,0 +1,61 @@
+{
+  "title": "Mtafutaji Imara wa Ukweli",
+  "intro": "Katika wakati uliojaa ujinga na ibada ya miungu ya uongo, safari kubwa ya imani ilijitokeza. Mtu huyu alipinga kanuni za jamii yao, akimtafuta Muumba Mmoja wa Kweli kwa imani isiyoyumba. Jiandae kufichua utambulisho wa roho ambayo urithi wake unaendelea kuwatia moyo mamilioni.",
+  "clues": [
+    "Nilihoji miili ya mbinguni, nikimtafuta Bwana wa kweli anayeumba na kutegemeza yote.",
+    "Niliamriwa kuondoka katika nchi yangu, nikisafiri kwenda katika nchi iliyobarikiwa na Mwenyezi Mungu.",
+    "Nilipinga sanamu za watu wangu, nikikabiliana na ubatili wao moja kwa moja kwa kuzivunja.",
+    "Nilitupwa kwenye moto mkali na watu wangu, lakini ikawa baridi na amani kwangu kwa amri ya Mwenyezi Mungu.",
+    "Nilijaribiwa kwa amri ya kumtoa kafara mwanangu mpendwa wa kwanza, jaribu la utii wa mwisho.",
+    "Mimi, pamoja na mwanangu, tulijenga misingi ya Nyumba ya kwanza ya Ibada Duniani, mahali patakatifu pa wanadamu wote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Nuh",
+        "Nabii Yusufu",
+        "Nabii Salih",
+        "Nabii Ibrahimu",
+        "Nabii Isa"
+      ],
+      "answer": "Nabii Ibrahimu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mafuriko makubwa",
+        "Kugawanyika kwa bahari",
+        "Kuangamizwa kwa Thamud",
+        "Amri ya kumtoa mwana dhabihu",
+        "Safari ya kupitia jangwani na Sanduku"
+      ],
+      "answer": "Amri ya kumtoa mwana dhabihu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Wafanyakazi",
+        "Mlima wa Tur",
+        "Sanduku",
+        "Kaaba",
+        "Ndama wa Dhahabu"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa mtawala wa Misri",
+        "Watu wake walizama majini",
+        "Alipewa hekima na ukoo wa haki",
+        "Alimezwa na nyangumi",
+        "Mji wake ulipinduliwa"
+      ],
+      "answer": "Alipewa hekima na ukoo wa haki"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

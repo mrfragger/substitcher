@@ -1,0 +1,61 @@
+{
+  "title": "Wakweli wa Makka",
+  "intro": "Katika siku za mwanzo za ufunuo, wakati ujumbe wa ukweli ulipokabiliwa na upinzani mkali, roho fulani zilisimama imara katika imani yao. Waumini hawa walikabiliwa na ukatili usiofikirika kutoka kwa wale waliotafuta kuzima nuru ya imani. Mateso yao yalikuwa makali, mateso yao yalikuwa makubwa—lakini ndimi zao hazikuacha kutangaza Umoja wa Mwenyezi Mungu. Hata walipotupwa katika vilindi vya kukata tamaa, ulinzi wa Mungu uliwazunguka, ukibadilisha jaribu lao kuwa ushuhuda wa milele wa imani. Hebu tuchunguze safari ya roho hizi za ajabu.",
+  "clues": [
+    "Tulijaribiwa kwa adhabu kali kwa kukataa kuacha imani yetu katika Mungu Mmoja",
+    "Watu wetu hawakuweza kuvunja azimio letu, haijalishi ukatili wao ulikuwa wa ubunifu kiasi gani",
+    "Tulikuwa tumesimamishwa kutoka kisimani mchana, lakini msaada wa Mungu ulikuwa karibu kila wakati",
+    "Uimara wetu uliwashangaza hata wale walioshuhudia uvumilivu wetu",
+    "Wengi huko Makka walijaribu kutulazimisha tukane imani yetu, lakini tulibaki imara",
+    "Wakati yote yalionekana kupotea, uhuru wetu ulifika kupitia uingiliaji kati wa kimiujiza wa Mungu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Vita dhidi ya Mtume",
+        "Mateso kwa kukataa kuabudu sanamu",
+        "Mtihani wa imani kuhusu tukio la moto",
+        "Jaribio la safari ya usiku iliyogawanyika",
+        "Mtihani wa uharibifu wa bustani"
+      ],
+      "answer": "Mateso kwa kukataa kuabudu sanamu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mlima wa Uhud",
+        "Eneo takatifu la Kabah",
+        "Kisima cha Abu Sufyan",
+        "Jumba la Waquraishi",
+        "Mji wa Madina"
+      ],
+      "answer": "Kisima cha Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Ushindi katika vita kubwa",
+        "Ukombozi kupitia uingiliaji kati wa kimungu",
+        "Kifo cha shahidi katika njia ya Mwenyezi Mungu",
+        "Kukubalika moja kwa moja peponi",
+        "Uhamiaji kwenda nchi iliyobarikiwa"
+      ],
+      "answer": "Ukombozi kupitia uingiliaji kati wa kimungu"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

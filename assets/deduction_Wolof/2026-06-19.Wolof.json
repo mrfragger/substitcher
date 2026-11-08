@@ -1,0 +1,61 @@
+{
+  "title": "Natt ruuh buy wéy",
+  "intro": "Ruuh mingi taxaw ci jamonoy nattug boroom, di wër njiit ak baña xàddi. Ki xam lépp, dafay wëlbati seetkat bii, ginaaw ga mu wane ni loolu nekkoon natt xol. Ci weccoo xalaat bu yéeme boobu, njàngale bu jëm ci xam-xam bu Yàlla dafay feeñ ci kanamu ñiy xalaat. Ndax mën nga xàmmee nit kii ci nettali Al Quran?",
+  "clues": [
+    "Maa ngi sàkku woon xam-xam ak ndigal ci Yonent Yàlla bu sopp bi .",
+    "Dama ñëw ngir wut dëgg, di woo Yonent bi ak bëgg-bëgg gu mat sëkk",
+    "Ñu yedd ma, ma dellu ginaaw, ndax xam-xamu Yàlla amoon na yeneen pexe ci saa si",
+    "Waaye bàyyi wuma benn yaakaar, waaye maa ngi wéy di wër",
+    "Ki xam lépp dafa wax ni lii ab natt la ci xol ak ab artu .",
+    "Maa ngi bokk ci ñi Al Quran wax ci ñoom ni: 'Mu gëna sëgg, ba noppi wëlbatiku, ndax daa am ku silmaxa bi ñëw ci moom'."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Naaféq bi di wër sikki-sakka",
+        "Buur biy wër dëgg",
+        "Jaamukat yàlla yu Makkah",
+        "Ki Yeemuwul Di Xaral Yonent bi",
+        "Tukkikat bi bawoo Yemen"
+      ],
+      "answer": "Buur biy wër dëgg"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Diko yedd ci Yonent bi Mohamed ci di ñaan",
+        "Ñu ngi leen natt ci bekkoor ak xiif ci Makkah",
+        "ñu wëlbatiku ci buntu aljanna",
+        "Nit ñi dañu leen bañ ndax seen ngëm",
+        "Natt leen ci alal ak doom"
+      ],
+      "answer": "Diko yedd ci Yonent bi Mohamed ci di ñaan"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Ci biir Kaaba ci jamonoy hajj màkka",
+        "Ci kanamou Yonent bi ci jamonoy njàng",
+        "Ci kaw Tundu Safa ci waxtu suba yi",
+        "Ci marse Màkka, ñu wër ko ak kéfri",
+        "Ci wetu buntu Zamzam ci hajj màkka"
+      ],
+      "answer": "Ci kanamou Yonent bi ci jamonoy njàng"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Quraysh moo ray ki doon wër ndax ngëm",
+        "Boobu xew-xew dañu ko bind muy àtte ak njàngale ci Ummah bi",
+        "Seetukat bi nekk na àndado ak njiit .",
+        "Alal ji ki doon wër yokk na fukki yoon",
+        "ki doon wër dellu ci gëmul"
+      ],
+      "answer": "Boobu xew-xew dañu ko bind muy àtte ak njàngale ci Ummah bi"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

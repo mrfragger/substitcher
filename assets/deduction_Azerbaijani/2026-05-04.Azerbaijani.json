@@ -1,0 +1,61 @@
+{
+  "title": "Təkəbbür Memarı",
+  "intro": "Qədim bir ölkədə, itaətsiz bir gücün idarə etdiyi bir yerdə, əsas bir şəxs təsirli bir mövqe tuturdu. Bu ruh hökmdarın böyük planlarında mühüm rol oynamış, onların zülmkar hakimiyyətinə töhfə vermiş və ilahi mesaja meydan oxumuşdur. Onların mirası dünyəvi güc axtarışı və həqiqəti inkar etməklə bir-birinə qarışmışdır.",
+  "clues": [
+    "Mən nəsillər boyu bir xalqa zülm edən nəhəng bir hökmdara xidmət etmişəm.",
+    "Mənim adım İlahi Kitabda bu qüdrətli liderlə yanaşı tez-tez xatırlanır.",
+    "Mənə böyük bir tikinti layihəsi, göylərə çatacaq qədər uca bir bina həvalə olunmuşdu.",
+    "Ağama İsrail oğullarını öldürməyi və qızlarını sağ qoymağı məsləhət gördüm.",
+    "Mən Allahın qüdrətli elçisinə qarşı sui-qəsd və hiyləgər planlarda iştirak edirdim.",
+    "Mənim, ağamın və onun ordusunun ölümü böyük bir dənizin sularında baş verdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Nəmrud",
+        "Əbrəhə",
+        "Qoliaf",
+        "İblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük sərvətlə imtahan olunur",
+        "Müqəddəs bir evə qarşı orduya rəhbərlik etmək",
+        "Tanrıya çatmaq üçün bir qüllə tikmək",
+        "İmanlarına görə oda atılmaq",
+        "Bacı-qardaşlar tərəfindən quyuya atılmaq"
+      ],
+      "answer": "Tanrıya çatmaq üçün bir qüllə tikmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Dağ",
+        "Qüllə",
+        "Balina"
+      ],
+      "answer": "Qüllə"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Böyük hikmət bəxş edilməsi",
+        "Peyğəmbər olmaq",
+        "Torpaq tərəfindən udulmaq",
+        "Padşahlıq verilməsi",
+        "Dənizdə boğulmaq"
+      ],
+      "answer": "Dənizdə boğulmaq"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

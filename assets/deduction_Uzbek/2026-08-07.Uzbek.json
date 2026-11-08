@@ -1,0 +1,61 @@
+{
+  "title": "Taxt ortidagi iymon",
+  "intro": "Ba'zi ruhlar olov yoki suv toshqini bilan emas, balki zolim saroyida yashashning sekin bosimi bilan sinovdan o'tkaziladi. Bu shaxs o'z xalqi ustidan ilohiylikni da'vo qilgan, ammo yashirincha yagona Haq Xudoga ishonishga sodiq qolgan hukmdorning yonida turardi. Ularning sadoqati kashf etilganda, azob-uqubatlar keldi - lekin ilohiy va'da ham keldi. Bu kimligini taxmin qila olasizmi?",
+  "clues": [
+    "Men o'z yurtimning eng qudratli hukmdori ostida, kamdan-kam odam tasavvur qila oladigan mavqeda yashardim.",
+    "Turmush o'rtog'im xalq oldida turib, o'zini xudo deb e'lon qildi - lekin mening yuragim yagona Haq Xudoga tegishli edi.",
+    "Turmush o'rtog'imga qarshi chiqqanlarning barchasiga keladigan jazodan qo'rqib, yashirincha ibodatlarni pichirladim.",
+    "Iymonim fosh bo'lganida, meni ushlab, qiynoqqa solishdi, ammo tilim hech qachon birorta ham kufr so'zini aytmadi.",
+    "Men qalbimdagi so'zlarni Parvardigorimga to'kib so'radim, jannatda, barcha gunohlardan uzoqda uy so'radim.",
+    "Men Osiyo binti Muzohimman — Muso va Horunga qarshi chiqqan Fir'avnning xotini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Asiya binti Muzohim (Fir'avnning xotini)",
+        "Havva (Momo Havo), birinchi ayol",
+        "Ibrohimning birinchi xotini Sara",
+        "Ismoilning onasi Hojar",
+        "Maryamning onasi (Imronning xotini)"
+      ],
+      "answer": "Asiya binti Muzohim (Fir'avnning xotini)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Iymondan voz kechganlik uchun azob chekish",
+        "Katta baliqning qornida omon qolish",
+        "To'fondan qochish uchun ulkan kema qurish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Buyuk dengizning ajralishiga guvoh bo'lish"
+      ],
+      "answer": "Iymondan voz kechganlik uchun azob chekish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Jannatda ular uchun qurilgan uy",
+        "Ilonga aylangan tayoq",
+        "Har bir jonzotning juftlarini olib yuradigan kema",
+        "Bir xalq sig'inadigan oltin buzoq",
+        "Bahaybat jangchini mag'lub etish uchun ishlatiladigan sling"
+      ],
+      "answer": "Jannatda ular uchun qurilgan uy"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Jannatda solihlar bilan birga maskan bilan taqdirlangan",
+        "Qo'shinlari bilan birga to'lqinlar ostida cho'kib ketishdi",
+        "Olovda yondi, ammo ilohiy aralashuv bilan qutqarildi",
+        "Katta jonzot tomonidan yutib yuborilgan va keyin qirg'oqqa tashlangan",
+        "O'z davrining eng boy odamiga aylandi"
+      ],
+      "answer": "Jannatda solihlar bilan birga maskan bilan taqdirlangan"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

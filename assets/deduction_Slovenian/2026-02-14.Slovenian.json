@@ -1,0 +1,61 @@
+{
+  "title": "Graditelj ovir",
+  "intro": "Čez prostrana ozemlja se je močan posameznik podal na vrsto odprav, ki so mu bile podeljene ogromne avtoritete in sredstva. Ta duša je srečevala raznolike skupnosti in se soočala z edinstvenimi izzivi, s svojimi dejanji in modrostjo pa je pustila trajen pečat v zgodovini in veri, hkrati pa je priznavala pravi vir svoje moči.",
+  "clues": [
+    "Dana mi je bila moč in sredstva nad vsem in sledil sem svoji poti.",
+    "Moje potovanje me je peljalo do sončnega zahoda, kjer sem našel ljudstvo.",
+    "Srečal sem skupnost, ki je komaj razumela govor in je živela med dvema gorama.",
+    "Prosili so me, naj zgradim pregrado, ne zaradi osebne koristi, temveč za zaščito pred uničujočo silo.",
+    "Izjavil sem, da moč za gradnjo tega ogromnega zidu prihaja od Alaha in da bo stal do obljubljenega časa.",
+    "Moje ime, ki ga pogosto prevajajo kot 'Dvorogi', pomeni moj doseg po vsem svetu ali morda dve različni obdobji."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Musa",
+        "Prerok Sulejman",
+        "Zul-Karnajn",
+        "Faraon",
+        "Lukman"
+      ],
+      "answer": "Zul-Karnajn"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Prejemanje razodetja",
+        "Soočenje s tiraninom",
+        "Gradnja velike ladje",
+        "Gradnja mogočne pregrade",
+        "Biti pogoltnjen s strani ribe"
+      ],
+      "answer": "Gradnja mogočne pregrade"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Osebje",
+        "Železna pregrada",
+        "Reka Nil",
+        "Prestol"
+      ],
+      "answer": "Železna pregrada"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Odrešitev pred poplavo",
+        "Postati veliko kraljestvo",
+        "Zaščita za ljudstvo",
+        "Uničenje zatiralca",
+        "Trajna modrost"
+      ],
+      "answer": "Zaščita za ljudstvo"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

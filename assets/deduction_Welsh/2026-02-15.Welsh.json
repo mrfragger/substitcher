@@ -1,0 +1,61 @@
+{
+  "title": "Llais y Cadarnhad",
+  "intro": "Cofir yr unigolyn hwn am ddoethineb a chanllawiau dwfn, gan gynnig cyngor sy'n mynd y tu hwnt i genedlaethau. Mae eu geiriau'n dyst i dduwioldeb a phwysigrwydd cydnabod bendithion a threialon y Dwyfol. Datgelwch hunaniaeth yr enaid parchus hwn.",
+  "clues": [
+    "Nid oeddwn yn broffwyd, ond mae fy doethineb wedi'i anfarwoli yn yr Ysgrythur Dwyfol.",
+    "Pwysleisiodd fy nghyngor i'm plentyn ddiolchgarwch i Allah ac osgoi shirk.",
+    "Dysgais am bwysigrwydd gweddi, gorchymyn da, a gwahardd drwg.",
+    "Rhybuddiais rhag trahausder a rhodio'n ddigywilydd ar y ddaear.",
+    "Rhoddir fy enw i bennod gyfan yn y Quran, gan amlygu fy athrawiaethau.",
+    "Roedd fy nghyngor yn cynnwys amynedd mewn adfyd, oherwydd yn wir, dyna o'r materion mwyaf pendant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Y Proffwyd Idris",
+        "Proffwyd Yahya",
+        "Luqman",
+        "Imran",
+        "Proffwyd Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Addysgu/Canllawiau Allweddol",
+      "options": [
+        "Adeiladu arch",
+        "Yn wynebu byddin nerthol",
+        "Dosbarthu doethineb a chyngor moesol",
+        "Dehongli breuddwydion",
+        "Arwain cenedl i fuddugoliaeth"
+      ],
+      "answer": "Dosbarthu doethineb a chyngor moesol"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Llwyn yn llosgi",
+        "Pysgodyn mawr",
+        "Mynydd penodol",
+        "Cyngor doeth i epil",
+        "Palas mawreddog"
+      ],
+      "answer": "Cyngor doeth i epil"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Daeth yn frenin",
+        "Rhoddwyd proffwydiaeth iddo",
+        "Cofnodwyd ei ddoethineb yn y Quran",
+        "Arweiniodd ei bobl i wlad newydd",
+        "Rhoddwyd cyfoeth aruthrol iddo"
+      ],
+      "answer": "Cofnodwyd ei ddoethineb yn y Quran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

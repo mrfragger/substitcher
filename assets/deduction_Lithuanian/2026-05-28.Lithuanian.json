@@ -1,0 +1,61 @@
+{
+  "title": "Nepalenkiamas kantrusis",
+  "intro": "Pranašystės istorijos metraščiuose nedaugelis ištvėrė tokią didelę netektį ir fizinį skausmą su nepajudinamu tikėjimu. Šios asmenybės istorija yra nesenstanti kantrybės ir pasitikėjimo dieviškąja išmintimi pamoka. Kas yra ši siela?",
+  "clues": [
+    "Mane pasirinko Alachas perduoti žinią, bet didžiausias išbandymas buvo ne atstūmimas, o asmeninė nelaimė.",
+    "Mano turtas, gyvuliai ir vaikai buvo iš manęs atimti – vienas po kito.",
+    "Mano kūnas buvo nusėtas opomis, ir aš likau vienas, išskyrus sutuoktinio paramą.",
+    "Šaukiausi savo Viešpaties, pripažindamas savo kančią ir ieškodamas Jo gailestingumo.",
+    "Man buvo nurodyta koja trenkti į žemę, ir ištryško gaivus šaltinis.",
+    "Alachas sugrąžino mano sveikatą, padovanojo naują šeimą ir dar daugiau turtų nei turėjau anksčiau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ayyubas",
+        "Pranašas Ibrahimas",
+        "Pranašas Musa",
+        "Pranašas Isa",
+        "Pranašas Nuh"
+      ],
+      "answer": "Pranašas Ayyubas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Turto ir šeimos praradimas",
+        "Įmetimas į ugnį",
+        "Praryti žuvies",
+        "Atskirtas nuo šeimos ir parduotas į vergiją",
+        "Išbandomas su auksiniu veršiu"
+      ],
+      "answer": "Turto ir šeimos praradimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Vandens šaltinis",
+        "Lazdelė, kuri virto gyvate",
+        "Medinė arka",
+        "Išlydytas veršelis",
+        "Palmė"
+      ],
+      "answer": "Vandens šaltinis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Šeimos ir turto atkūrimas",
+        "Pakilimas į dangų",
+        "Tapimas karaliumi",
+        "Išgelbėjimas nuo banginio",
+        "Sūnaus gimimas senatvėje"
+      ],
+      "answer": "Šeimos ir turto atkūrimas"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

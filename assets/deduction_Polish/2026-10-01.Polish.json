@@ -1,0 +1,61 @@
+{
+  "title": "Wypowiedziany do istnienia",
+  "intro": "Postać wyłania się ze świętej historii, niosąc cuda, które przeczyły naturalnemu porządkowi. Ta dusza przybyła na jeden boski rozkaz, obroniła rodzica przed poważnymi oskarżeniami i odeszła z tego świata, zanim ziemskie łańcuchy zdążyły ich spętać. Historia rozciąga się od skromnej kolebki do niebios. Kim mogła być ta osoba?",
+  "clues": [
+    "Zostałem wysłany jako znak i miłosierdzie od Allaha dla dzieci Izraela.",
+    "Moje przyjście na świat było zupełnie inne niż wszystkie wcześniej — narodziłem się na mocy boskiego słowa „Bądź!”, bez ziemskiego ojca.",
+    "Moi rodzice spotkali się z okrutnym oszczerstwem, ale święte objawienie zstąpiło, aby potwierdzić ich niewinność i podnieść ich pozycję.",
+    "Już jako noworodek zadziwiałem otoczenie, mówiąc wyraźnie już od kołyski, aby oczyścić dobre imię moich rodziców.",
+    "Za pozwoleniem Allaha ukształtowałem życie z martwej gliny, przywróciłem wzrok niewidomym i uleczyłem trędowatego swoim dotykiem.",
+    "Zostałem wskrzeszony do nieba, zanim stała mi się krzywda, i powrócę na ten świat, zanim nadejdzie ostateczna Godzina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Isa",
+        "Prorok Musa",
+        "Prorok Ibrahim",
+        "Prorok Yusuf",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Isa"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Mówienie od kołyski jako niemowlę",
+        "Przeżyć w brzuchu wielkiej ryby",
+        "Wrzucenie w płonący ogień",
+        "Budowanie wielkiej arki przed potopem",
+        "Stając twarzą w twarz z czarami dworu faraona"
+      ],
+      "answer": "Mówienie od kołyski jako niemowlę"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Injeel (Ewangelia)",
+        "Tawrah (Tora)",
+        "Zabur (Psalmy)",
+        "Suhuf (Zwoje Ibrahima)",
+        "Laska, która rozdzieliła morze"
+      ],
+      "answer": "Injeel (Ewangelia)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wniebowzięci, powrócą przed Dniem Sądu",
+        "Wyprowadził Izraelitów z Egiptu",
+        "Został królem mającym władzę nad dżinami, ludźmi i ptakami",
+        "Przetrwał potężną powódź z wiernymi",
+        "Zbudował święty dom w Mekce"
+      ],
+      "answer": "Wniebowzięci, powrócą przed Dniem Sądu"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

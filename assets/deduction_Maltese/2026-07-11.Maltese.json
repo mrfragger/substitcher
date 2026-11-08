@@ -1,0 +1,61 @@
+{
+  "title": "Il-vjaġġaturi tal-għalqa ħadra",
+  "intro": "Fi żmien antik, żewġ individwi kienu jieħdu ħsieb artijiet ġirien. Il-mogħdijiet tagħhom kienu marbutin ma’ xulxin, iżda qlubhom wassluhom lejn destinazzjonijiet differenti ħafna. Wieħed mexa fit-triq dritta, filwaqt li l-ieħor tilef triqtu fid-dlam taċ-ċaħda. Tista’ tikxef il-misteru ta’ dawn iż-żewġ għassiesa tal-ħsad?",
+  "clues": [
+    "Kelli uċuħ tar-raba’ abbundanti, ħsad abbundanti li dawwru għajnejn dawk li kienu qed jarawni.",
+    "Il-ġar tiegħi kellu ġid saħansitra akbar minni, iżda jien xtaqt sehemhom aktar minn tiegħi.",
+    "Issuġġerejt li neqirdu l-għelejjel tagħhom għalkollox, biex nikkonsolidaw kollox taħt il-kontroll tiegħi.",
+    "Jiena ġibt rovina wkoll fuq il-ħsad tiegħi stess, billi qeredt kollox bil-pjanijiet boloh tiegħi.",
+    "Bqajt b’ħalqi miftuħ hekk kif l-uċuħ tar-raba’ tiegħi nixfu u l-ġid tiegħi sar trab f’lejl wieħed.",
+    "Ma kelli l-ebda sehem fil-Ħajja ta’ Wara, u d-dar finali tiegħi saret ħofra ta’ nar jaqbad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Ir-raġel li ċaħad l-irxoxt u l-ġudizzju",
+        "Il-ħakkiem li oppressa lill-bidwi ġust",
+        "Is-sid tal-art għani li ma kellux gratitudni",
+        "Il-bidwi li xtaq l-art tal-ġar tiegħu",
+        "Is-sieħeb qarrieq li ppjana l-qerda"
+      ],
+      "answer": "Il-bidwi li xtaq l-art tal-ġar tiegħu"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Il-prova li tirċievi rivelazzjoni divina",
+        "L-isfida tal-ġid u l-paċenzja",
+        "It-tentazzjoni li teqred l-għajxien ta’ persuna ġusta",
+        "Il-kmand biex il-wirt jinqasam b’mod ġust",
+        "Il-ġlieda kontra l-oppressjoni ta’ tirann"
+      ],
+      "answer": "It-tentazzjoni li teqred l-għajxien ta’ persuna ġusta"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-ġonna ħodor tal-ġenna",
+        "Żewġ għelieqi tal-għelejjel ġirien",
+        "Il-muntanji li raw il-qerda",
+        "Is-santwarju sagru ta’ Mekka",
+        "Ix-xtut tax-xmajjar ta’ art imbierka"
+      ],
+      "answer": "Żewġ għelieqi tal-għelejjel ġirien"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ġenna eterna bħala premju għat-tjieba",
+        "Qerda kompleta taż-żewġ ħsad f'din il-ħajja",
+        "Eżilju u tberbiq sal-mewt",
+        "Prosperità temporanja segwita minn nar etern",
+        "Restawr mirakoluż u premju rdoppjat"
+      ],
+      "answer": "Qerda kompleta taż-żewġ ħsad f'din il-ħajja"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

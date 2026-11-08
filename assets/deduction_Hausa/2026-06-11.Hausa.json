@@ -1,0 +1,61 @@
+{
+  "title": "Ƙauyen da ke bakin shari'a",
+  "intro": "Ka tsinci kanka a wani ƙauye na bakin teku, inda sautin raƙuman ruwa ke gauraya da raɗa na mutanen da aka manta. An ba su umarnin hutawa, amma kwadayinsu ya kai ga hukunci wanda har yanzu ana magana a kansa cikin murya mai shiru. Za ka iya gano ko su wanene?",
+  "clues": [
+    "Mun zauna a bakin teku kuma aka ba mu umarni mu kiyaye ranar hutu.",
+    "A wannan rana, kifaye za su zo mana da yawa, amma an hana mu ɗaukar su.",
+    "Wasu daga cikinmu sun yi gargaɗi game da aikata laifi, amma wasu sun yi makirci don su kamun kifi.",
+    "Mun karya umarni mai tsarki kuma muka jawo wa kanmu azaba mai tsanani.",
+    "Hukuncinmu sauyi ne da ya bar mu cikin rashin mutunci da kunya.",
+    "An mayar da mu birrai, alama ce ga duk wanda zai biyo baya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Asabar",
+        "Mutanen Samudawa",
+        "Mutanen 'Ad'",
+        "Mutanen Kogo",
+        "Mutanen Giwa"
+      ],
+      "answer": "Mutanen Asabar"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kamun kifi a ranar Asabar",
+        "Bauta wa ɗan maraƙi na zinariya",
+        "Karyata saƙon Hud",
+        "Kashe raƙumin",
+        "Gina hasumiya zuwa sama"
+      ],
+      "answer": "Kamun kifi a ranar Asabar"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kifin",
+        "Raƙumi",
+        "Ma'aikaci",
+        "Jirgin ruwa",
+        "Lambun"
+      ],
+      "answer": "Kifin"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama birrai",
+        "An halaka ta da ambaliya",
+        "Wuta mai ci ta lalata ta",
+        "Ƙasa ta haɗiye ta",
+        "Iska ta warwatsa"
+      ],
+      "answer": "Ya zama birrai"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

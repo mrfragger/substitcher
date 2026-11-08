@@ -1,0 +1,61 @@
+{
+  "title": "Az ókori idők igaz hangja",
+  "intro": "Van egy lélek a Koránban, akinek a történetét csupán néhány vers meséli el, mégis nemes tulajdonságai ragyogó tisztasággal ragyognak. A Mindenható által különleges erényéért dicsért, a Legirgalmasabb eme ősi szolgája a kinyilatkoztatás lapjain is helyet foglal el. A feladatod az, hogy azonosítsd ezt a figyelemre méltó alakot. Kitalálod, kik ők?",
+  "clues": [
+    "Allah prófétája vagyok, aki az emberiség első generációi között élt.",
+    "Allah más prófétákkal együtt említett engem a Könyvében, akiket mindannyian ugyanezért a nemes erényért dicsértek.",
+    "A Koránban az igazság embereként írnak le engem.",
+    "Allah olyan magas rangra emelt, amelyet kevesen értek el.",
+    "A nevem szerepel az Anbiya szúrában, két másik, türelmükért dicsért prófétával együtt.",
+    "Én vagyok Idrisz, az igazmondó és magasztos próféta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Idrisz próféta",
+        "Nuh próféta",
+        "Ibrahim próféta",
+        "Mózes próféta",
+        "Iszmáil próféta"
+      ],
+      "answer": "Idrisz próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Türelem és igazmondás megőrzése, majd magas rangra emelés",
+        "Egy hatalmas bárka építése, hogy megmentse a hívőket egy pusztító özönvíztől",
+        "Lángoló tűzbe vetve, és teljesen sértetlenül előkerülve",
+        "Szembeszállni egy hatalmas királlyal és legyőzni mágusok seregét",
+        "Túlélni egy hatalmas hal gyomrában a tenger mélyén"
+      ],
+      "answer": "Türelem és igazmondás megőrzése, majd magas rangra emelés"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Magas és felmagasztalt rang Allah részéről",
+        "Egy deszkákból épített és kátránnyal beszórt hatalmas hajó",
+        "Egy tomboló tűz, melyet egy gonosz király bálványimádói táplálnak",
+        "Egy hatalmas tenger, amely száraz ösvényekre szakadt",
+        "Egy hatalmas bálna sötét hasa az óceán fenekén"
+      ],
+      "answer": "Magas és felmagasztalt rang Allah részéről"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Allah kegyelmébe fogadták, mint az igazak egyikét",
+        "Megmentették az összes hívővel együtt a világméretű özönvíztől",
+        "A tűz érintetlenül kisétált a lángok közül",
+        "Izrael gyermekeit biztonságban a tengeren át a szabadságba vezette",
+        "Hosszú, nehéz évek után újra találkoztak szeretett családjukkal"
+      ],
+      "answer": "Allah kegyelmébe fogadták, mint az igazak egyikét"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Suara Keyakinan Tersembunyi",
+  "intro": "Di tengah-tengah istana yang zalim, di mana ketidakpercayaan adalah undang-undang negara, seorang jiwa yang keseorangan berjalan di atas tali iman dan ketakutan. Individu ini, yang berada dekat dengan pusat kuasa, mendengar ketika mesej seorang nabi disambut dengan cemuhan dan ancaman. Satu saat kebenaran tiba, memaksa orang ini memilih antara keselamatan senyap dan mengatakan kebenaran yang berbahaya. Bolehkah anda mendedahkan identiti penyokong yang berani ini?",
+  "clues": [
+    "Aku hidup di dalam rumah tangga seorang tiran, menyaksikan sendiri keangkuhan yang menolak tanda-tanda ketuhanan.",
+    "Aku merahsiakan imanku, harta karun yang tersembunyi di istana penyembahan berhala.",
+    "Aku terdengar pemimpin yang aku layani berkomplot untuk membunuh seorang utusan Allah, seorang lelaki bernama Musa.",
+    "Aku mempersoalkan logik mereka, mengingatkan mereka tentang nasib kaum Nuh, 'Ad, dan Tsamud.",
+    "Aku telah mengemukakan soalan kritikal kepada kaumku: 'Jika dia seorang pembohong, maka kebohongannya akan terpulang kepadanya; tetapi jika dia seorang yang benar, sebahagian daripada apa yang dijanjikannya akan menimpa kamu.'",
+    "Kisah saya diceritakan sebagai contoh iman dalam surah yang bernama 'Yang Maha Pengampun,' di mana saya memberi amaran kepada kaum saya terhadap tipu daya mereka yang berkuasa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang Mukmin dari Keluarga Fir'aun",
+        "Haman",
+        "Ahli Sihir Fir'aun",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Orang Mukmin dari Keluarga Fir'aun"
+    },
+    "trial": {
+      "label": "Apakah Percubaan Saya?",
+      "options": [
+        "Membela Nabi Musa di istana pemerintah yang zalim",
+        "Membina menara yang tinggi untuk mencapai langit",
+        "Dicampakkan ke dalam api yang menyala-nyala",
+        "Ditelan oleh ikan gergasi",
+        "Kehilangan semua kekayaan dan kesihatan"
+      ],
+      "answer": "Membela Nabi Musa di istana pemerintah yang zalim"
+    },
+    "location": {
+      "label": "Apakah Tema Hujah Saya?",
+      "options": [
+        "Akibat menolak risalah nabi",
+        "Permintaan untuk tanda daripada pokok suci",
+        "Penciptaan anak lembu daripada barang kemas cair",
+        "Keajaiban unta dari batu",
+        "Tafsiran mimpi seorang pemerintah"
+      ],
+      "answer": "Akibat menolak risalah nabi"
+    },
+    "outcome": {
+      "label": "Apakah Hasilnya?",
+      "options": [
+        "Allah menyelamatkan individu ini daripada rancangan jahat mereka",
+        "Seluruh istana serta-merta menerima Islam",
+        "Zalim itu bertaubat pada saat lemas",
+        "Zalim itu ditelan bumi",
+        "Individu itu dibuang negeri ke negeri yang jauh"
+      ],
+      "answer": "Allah menyelamatkan individu ini daripada rancangan jahat mereka"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

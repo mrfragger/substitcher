@@ -1,0 +1,61 @@
+{
+  "title": "Le Gardien au bord de la rivière",
+  "intro": "Dans un pays où le décret d'un tyran semait le deuil, une âme reçut un message qui dissipa toutes les craintes. Le cœur empli de confiance, elle entreprit un acte de foi qui allait changer le destin d'une nation. Tandis que les eaux charriaient un précieux chargement, l'espoir se mêlait aux courants.",
+  "clues": [
+    "J'ai vécu à une époque d'oppression et de peur.",
+    "J'ai reçu une inspiration divine qui m'a donné du courage.",
+    "Il m'a été ordonné de ne pas craindre ni de m'affliger.",
+    "J'ai placé mon enfant dans un coffre et je l'ai posé sur l'eau.",
+    "Mon enfant a été trouvé par la maison du souverain, mais mon autre enfant a suivi.",
+    "J'ai retrouvé mon enfant pour l'allaiter, comme Allah l'avait promis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "La mère de Moïse",
+        "L'épouse du pharaon",
+        "La sœur de Moïse",
+        "La Mère de Jésus",
+        "La reine de Saba"
+      ],
+      "answer": "La mère de Moïse"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "L'envie de jeter un enfant dans une rivière",
+        "Être défié en duel de magie",
+        "Poursuivi par une armée",
+        "Traverser une mer qui s'est séparée",
+        "Construire une maison sacrée"
+      ],
+      "answer": "L'envie de jeter un enfant dans une rivière"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un coffre placé dans la rivière",
+        "Un buisson ardent",
+        "Un bâton qui s'est transformé en serpent",
+        "Un veau doré",
+        "Un trône"
+      ],
+      "answer": "Un coffre placé dans la rivière"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "L'enfant a été rendu sain et sauf à l'infirmière.",
+        "L'enfant a été perdu à jamais.",
+        "L'enfant fut emmené dans un pays lointain",
+        "L'enfant devint immédiatement un souverain",
+        "L'enfant fut adopté par un riche marchand"
+      ],
+      "answer": "L'enfant a été rendu sain et sauf à l'infirmière."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Bauer vun den héije Säulen",
+  "intro": "Dir stinn virun de Ruine vun enger majestéitescher aler Stad, deenen hir héich Säilen elo gefall sinn. De Wand jäizt duerch déi eidel Stroossen a dréit d'Erënnerung un e mächtegt Vollek, dat fréier iwwer dës Lännereie regéiert huet. Wien waren si?",
+  "clues": [
+    "Mir waren e Vollek mat immenser Kraaft a Fäegkeet, bekannt fir eis grouss Gebaier an eis fortgeschratt Zivilisatioun.",
+    "Mir hunn an engem Land mat Sanddünen a Fielsbierger gelieft, a mir hunn gegleeft, datt keen eis kéint iwwerwältegen.",
+    "E Bote koum aus eiser eegener Famill bei eis a sot eis, datt mir nëmmen Allah solle ubidden, mä mir hunn hien ofgeleent a veruerteelt.",
+    "Mir hunn geprahlt: \"Wien ass méi staark wéi mir?\" a mir hunn eis Arroganz an eiser Gëtzendéngscht weidergefouert.",
+    "Allah huet e rosen Wand op eis geschéckt, deen siwen Nuechten an aacht Deeg laang geblosen an alles zerstéiert huet.",
+    "Mir waren d'Leit vun 'Ad, d'Bauer vun Iram, an eist Schicksal gouf eng Warnung fir all déi duerno koumen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Leit vun 'Ad",
+        "Leit vun Thamud",
+        "D'Leit vu Madyan",
+        "D'Leit vun Tubba'",
+        "Leit vun al-Rass"
+      ],
+      "answer": "Leit vun 'Ad"
+    },
+    "trial": {
+      "label": "Wat war d'Strof, déi hinne veruerteelt gouf?",
+      "options": [
+        "E verheerende Wand",
+        "Eng Dusch vu Steng",
+        "E laute Spreng",
+        "Ertrénken duerch Iwwerschwemmung",
+        "Vun der Äerd verschléckt"
+      ],
+      "answer": "E verheerende Wand"
+    },
+    "location": {
+      "label": "Wéi heescht hir legendär Stad?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Wat war hiert schlussendlecht Schicksal?",
+      "options": [
+        "Si goufen zerstéiert an hir Iwwerreschter goufen zu enger Lektioun",
+        "Si hunn sech bekéiert a goufe gerett",
+        "Si goufen an Affen transforméiert",
+        "Si sinn am Mier erdronk",
+        "Si goufen ënner engem Äerdrutsch begruewen"
+      ],
+      "answer": "Si goufen zerstéiert an hir Iwwerreschter goufen zu enger Lektioun"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

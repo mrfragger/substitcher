@@ -1,0 +1,61 @@
+{
+  "title": "被河流考驗嘅統治",
+  "intro": "喺古代，領袖係根據神聖嘅命令而升起。呢個統治者嘅統治唔係由光輝開始，而係由流水嘅考驗開始。一個可怕嘅敵人會挑戰佢哋嘅軍隊，而結果會重塑歷史嘅進程。你估唔估到呢個人物係邊個？",
+  "clues": [
+    "我被選中去領導一個偉大嘅國家，但係呢個任命係嚟自上面，而唔係嚟自人民。",
+    "一件神聖嘅物件被歸還畀我嘅人民，作為確認我嘅統治嘅標誌。",
+    "我用一條河測試我啲士兵 — 大部分人都飲咗河，但係都失敗咗。",
+    "一個叫 Jalut 嘅強大戰士帶住一支廣大嘅軍隊嚟對抗我哋。",
+    "我自己行列嘅一個年輕人，只係武裝咗信仰，擊落咗賈魯特。",
+    "我哋勝利之後，王國最終交畀嗰個年輕嘅冠軍。"
+  ],
+  "categories": {
+    "identity": {
+      "label": "我係邊個？",
+      "options": [
+        "塔魯特（掃羅）",
+        "賈魯特（歌利亞）",
+        "先知達烏德",
+        "先知穆薩",
+        "先知哈倫"
+      ],
+      "answer": "塔魯特（掃羅）"
+    },
+    "trial": {
+      "label": "試用/活動",
+      "options": [
+        "用河流測試過",
+        "丟入燃燒緊嘅火入面",
+        "被命令犧牲一個兒子",
+        "受命建造一座偉大嘅方舟",
+        "畀一條好正嘅魚吞咗"
+      ],
+      "answer": "用河流測試過"
+    },
+    "location": {
+      "label": "關鍵元素",
+      "options": [
+        "約櫃",
+        "一個分裂大海嘅職員",
+        "吊帶同光滑嘅石頭",
+        "一隻金色嘅小牛偶像",
+        "一個壯觀嘅王座"
+      ],
+      "answer": "約櫃"
+    },
+    "outcome": {
+      "label": "結果",
+      "options": [
+        "王國轉移畀年輕冠軍（達烏德）",
+        "同軍隊一齊淹死喺海入面",
+        "喺熊熊大火入面安全噉救咗出嚟",
+        "被地球用寶藏吞噬",
+        "喺火焰溝入面活活燒死"
+      ],
+      "answer": "王國轉移畀年輕冠軍（達烏德）"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

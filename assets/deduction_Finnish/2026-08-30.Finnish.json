@@ -1,0 +1,61 @@
+{
+  "title": "Luotettu Ilmestyksen Henki",
+  "intro": "Näkymättömissä maailmoissa puhtaan valon olento liikkuu tarkasti ja suorittaa jokaisen käskyn epäröimättä. Tämä hahmo on puhunut valituille palvelijoille, tuonut opastuksen sanoja ja todistanut jumalallisten säädösten toteutumista kautta aikojen. Kuka on tämä kunnioitettu sielu?",
+  "clues": [
+    "Olen puhtaasta valosta oleva olento, luotu valosta, enkä ole koskaan rikkonut yhtäkään Herrani käskyä.",
+    "Liikun taivaan ja maan välillä, laskeutuen Armollisimman säädösten mukana.",
+    "Minut lähetettiin jalon neitsyen luo pyhäkköön ilmoittamaan hänelle puhtaasta pojasta.",
+    "Olen pyhyyden henki ja tuin profeettaa, jolle annettiin selkeät merkit ja evankeliumi.",
+    "Tulin vuorenrinteellä olevaan luolaan lausuakseni ensimmäiset sanat latelemasta, joka säilyisi ikuisesti.",
+    "Minä olen luotettava henki, ja minä toin Koraanin viimeisen sanansaattajan sydämeen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "Kuoleman enkeli",
+        "Malik (Helvetin pitäjä)",
+        "Harut (yksi Babylonin kahdesta enkelistä)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Keskeinen tehtävä/rooli",
+      "options": [
+        "Ilmoituksen antaminen profeetoille",
+        "Trumpetin puhaltaminen tuomiopäivänä",
+        "Helvetin porttien vartiointi",
+        "Ihmisten tekojen tallentaminen",
+        "Sateen aiheuttaminen"
+      ],
+      "answer": "Ilmoituksen antaminen profeetoille"
+    },
+    "location": {
+      "label": "Keskeinen ominaisuus tai otsikko",
+      "options": [
+        "Pyhä Henki (Ruh al-Qudus)",
+        "Voiman henki",
+        "Armon Henki",
+        "Ohjauksen henki",
+        "Totuuden Henki"
+      ],
+      "answer": "Pyhä Henki (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Tehtävän tulos",
+      "options": [
+        "Koraani paljastettiin profeetta Muhammedille",
+        "Trumpettiin puhallettiin tuomiopäivänä",
+        "Helvettiä vartioitiin ja sen portit suljettiin",
+        "Tekojen kirja esitettiin Allahille",
+        "Sade lähetettiin maan päälle"
+      ],
+      "answer": "Koraani paljastettiin profeetta Muhammedille"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

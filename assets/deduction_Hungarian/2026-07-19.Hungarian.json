@@ -1,0 +1,61 @@
+{
+  "title": "Az évszázadok meghallgatatlan hangja",
+  "intro": "Egy olyan időben, jóval a nagyvárosok felemelkedése előtt, egy magányos lélek emelkedett fel egy olyan nép között, amely elfordult az igazságtól. Makacsságukhoz csak ennek a magányos hívónak a türelme volt fogható, aki nemzedékeken át könyörgött anélkül, hogy elvesztette volna az elszántságát. Amikor minden figyelmeztetés süket fülekre talált, egy példátlan leszámolás formálta át magát a földet is. Ma is ennek a történetnek a visszhangja hullámzik minden elbeszélésben. Felismered ezt az elszánt lelket?",
+  "clues": [
+    "Egy olyan nép között nevelkedtem, akik hamis bálványokat imádtak és figyelmen kívül hagyták a körülöttük lévő jeleket, mégis engem választottak ki, hogy felébresszem őket a gondatlanságukból.",
+    "Újra meg újra szólítottam a népemet, de azzal vádoltak, hogy nem vagyok más, mint ők, kigúnyolnak az üzenetemet, és befogják a fülüket.",
+    "Éjjel-nappal bölcsen és szelíden emlékeztetve könyörögtem hozzájuk, de szavaim mintha eltűntek volna a levegőben, meghallgatás és figyelem nélkül.",
+    "Isteni utasításra egy hatalmas hajót építettem fából és deszkákból a szárazföldön, népem pedig úgy kinevetett, mint aki elvesztette az eszét.",
+    "Amikor a nagy árvíz a megígért módon elérkezett, a saját fiam nem volt hajlandó velem együtt hajóra szállni, abban a hitben, hogy egy hegy megvédi majd az emelkedő víztől.",
+    "Egy új kezdet pátriárkája lettem a földön, és a történetem a Korán egy fejezetében őrződött meg, amely a nevemet viseli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Nuh próféta",
+        "Ibrahim próféta",
+        "Mózes próféta",
+        "Lut próféta",
+        "Hud próféta"
+      ],
+      "answer": "Nuh próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A nagy özönvíz, amely átformálta a Földet",
+        "A bálványimádók lángoló tűzbe vetik",
+        "Összecsapás a fáraó mágusaival a palotában",
+        "A virágzó kertek pusztulása mennyei vihar által",
+        "Az árok lakóinak felborulása"
+      ],
+      "answer": "A nagy özönvíz, amely átformálta a Földet"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A fából és deszkákból épült bárka",
+        "A szent ház ősi alapokra épült",
+        "A személyzet, amely kígyóvá változott",
+        "Az alvó ifjak barlangja",
+        "A trónt egy hatalmas teremtmény hordozza"
+      ],
+      "answer": "A fából és deszkákból épült bárka"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A hitetlenek vízbe fulladtak, míg a hívőket kimentették a hajó fedélzetén",
+        "A tűz lehűlt és biztonságossá vált, a hívó sértetlenül kijutott",
+        "A mágusok arcra borultak és hitet fogadtak",
+        "A kertet az igaz felebarátnak adták a helyén",
+        "Az alvók évszázadok után felébredtek, átalakulva"
+      ],
+      "answer": "A hitetlenek vízbe fulladtak, míg a hívőket kimentették a hajó fedélzetén."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

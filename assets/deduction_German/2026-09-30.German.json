@@ -1,0 +1,61 @@
+{
+  "title": "Der Patient Eins",
+  "intro": "Vor langer Zeit, in den frühesten Tagen der Menschheitsgeschichte, standen zwei Seelen mit Opfergaben vor ihrem Schöpfer. Die eine wurde angenommen, die andere nicht. Was folgte, sollte die erste große Tragödie zwischen Geschwistern werden – ein Akt geduldiger Selbstbeherrschung und ein Akt bitterer Rache. Kannst du herausfinden, wer ich bin?",
+  "clues": [
+    "Ich wurde in den allerersten Tagen der menschlichen Existenz auf der Erde geboren.",
+    "Ich war ein Kind des allerersten Menschenpaares, das jemals diese Erde betreten hat.",
+    "Einst brachte ich ein Opfer von den besten Tieren meiner Herde dar, um meinem Schöpfer zu gefallen.",
+    "Mein Opfer wurde von oben angenommen, das Opfer meines Geschwisters hingegen abgelehnt.",
+    "Als mir mit dem Tod gedroht wurde, entschied ich mich, meine Hand nicht gegen mein Geschwisterkind zu erheben.",
+    "Ich wurde als erster Mensch in der gesamten Menschheitsgeschichte von einem anderen Menschen zu Unrecht getötet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Habil (Abel), Sohn Adams",
+        "Qabil (Kain), Sohn Adams",
+        "Adam, der erste Mensch",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), Sohn Adams"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Der erste Mord in der Menschheitsgeschichte",
+        "Die große Sintflut von Nuh",
+        "Die Vernichtung von Fir'awns Armee",
+        "Das Opfer Ismails durch Ibrahim",
+        "Der Kampf gegen Jalut (Goliath)"
+      ],
+      "answer": "Der erste Mord in der Menschheitsgeschichte"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Schaf, das als wohlgefälliges Opfer dargebracht wurde.",
+        "Eine große hölzerne Arche",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein Wiedehopf überbringt eine königliche Botschaft",
+        "Ein lodernder Feuergraben"
+      ],
+      "answer": "Ein Schaf, das als wohlgefälliges Opfer dargebracht wurde."
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde das erste Mordopfer in der Menschheitsgeschichte",
+        "Überlebte eine große Flut in einem Holzschiff",
+        "Lebte im Bauch eines großen Fisches",
+        "Herrschte über Dschinn, Menschen und Wind",
+        "Vierzig Jahre lang irrte ich in einer riesigen Wildnis umher."
+      ],
+      "answer": "Wurde das erste Mordopfer in der Menschheitsgeschichte"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

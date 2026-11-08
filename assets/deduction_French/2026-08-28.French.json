@@ -1,0 +1,61 @@
+{
+  "title": "L'obstacle à la maison ancienne",
+  "intro": "Dans la ville sainte, une figure puissante bouillonnait de colère à la vue d'un nouveau message. Cet individu, dont le nom était devenu synonyme d'opposition à la vérité, voyait son influence s'effondrer sous le poids de la révélation divine. Qui était cette âme, dont le destin fut scellé dans les sables d'un champ de bataille légendaire ?",
+  "clues": [
+    "J'étais un chef parmi mon peuple, connu pour ma richesse et mon influence dans une ville qui abritait un ancien sanctuaire.",
+    "Quand un homme de ma tribu a commencé à proclamer le message d'un seul Dieu, je me suis moqué de lui et de ses révélations, les qualifiant de simples contes du passé.",
+    "J'ai interpellé cet homme alors qu'il priait près de l'édifice sacré, le menaçant d'interrompre sa prière par la force si nécessaire.",
+    "J'étais parmi les chefs qui ont comploté pour faire taire la nouvelle foi, s'opposant à ses adeptes par les mots et par les armes.",
+    "J'ai marché avec une armée jusqu'à un endroit appelé Badr, confiant que nous écraserions le petit groupe de croyants.",
+    "Mais sur ce champ de bataille, ma vie s'est achevée, et ma mort est devenue une leçon pour ceux qui persistent dans l'incrédulité malgré des signes évidents."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Abou Jahl",
+        "Abou Soufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abou Jahl"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Empêcher le Prophète de prier à la Kaaba",
+        "Construction de la Kaaba",
+        "Écrire le Coran",
+        "À la tête de l'armée des éléphants",
+        "Fendre la lune"
+      ],
+      "answer": "Empêcher le Prophète de prier à la Kaaba"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La Kaaba",
+        "L'arche du prophète Noé",
+        "Le bâton du prophète Moïse",
+        "Le veau d'or",
+        "Le trône de la reine de Saba"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Tué à la bataille de Badr",
+        "Il s'est repenti et est devenu musulman.",
+        "S'est enfui en Abyssinie",
+        "Décédé l'année de l'Éléphant",
+        "Il devint un compagnon du Prophète"
+      ],
+      "answer": "Tué à la bataille de Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

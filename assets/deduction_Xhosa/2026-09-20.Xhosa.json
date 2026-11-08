@@ -1,0 +1,61 @@
+{
+  "title": "Ikholwa Eligqunywe Ngesigqubuthelo Enkundleni Yomtyholi",
+  "intro": "Ngaphakathi kweeholo zegolide zomlawuli onekratshi owaziwa yiQuran — apho ukungathobeli uThixo kwakuthetha khona yonke imithetho — umphefumlo omnye wawuhamba phakathi kwabantu abanelungelo, ufihla iimfihlo eziyingozi kakhulu emehlweni. Lo mntu wayephethe ukholo olwalungavumelekanga ngaphakathi kwezo ndonga kangangokuba ukufunyanwa kwalo kwakuthetha ukufa okuqinisekileyo. Kodwa ukugweba kwavutha njengelangatye phantsi kothuthu, kwaye xa ixesha lifika, inyaniso yavakala ngenkalipho eyashukumisa isiseko sebhotwe lomchasi.",
+  "clues": [
+    "Bendihlala phakathi kwesangqa somlawuli onamandla nozikhukhumezayo wexesha lam, ndijikelezwe bubunewunewu nempembelelo.",
+    "Ndayifihla inkolelo yam yokwenene ngaphakathi entliziyweni yam, ndisoyikela ubomi bam kwabo babelawula ngenkohlakalo nangokucinezelwa.",
+    "Xa abantu bam babethandabuza baze bathandabuze inyaniso, ndaya phambili ukuze ndibalumkise ngeshwangusha elibi elawehlela iintlanga zangaphambili ezazingazamkeli izithunywa zeNkosi yazo.",
+    "Ndibakhumbuze abantu bakuthi ngebali lomphupha oselula othandekayo owaphoswa phantsi zizihlobo zakhe kodwa waphakama waba negunya elikhulu kwilizwe elikude.",
+    "Ndibacelile abantu bam ukuba bangamthobeli umlawuli obalahlekisileyo, endaweni yoko ndibamema ukuba bandilandele endleleni yobulungisa nesikhokelo.",
+    "Ndithethe inyaniso ngokukhululekileyo nangona abalandeli bombusi babendisongela ngokundixuluba ngamatye okanye ukundigxotha kweli lizwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Ikholwa Elifihliweyo Elivela Kusapho LukaFaro",
+        "Usolusapho Onomonde Owalila Engaboni De Unyana Wakhe Wabuya",
+        "Umkhonzi Othembekileyo Owathi Ekugqibeleni Waphiliswa Isifo Solusu",
+        "Unyana Onesono Owala Isimemo Somprofeti Sokungena Emkhombeni",
+        "Uzwilakhe Ongenalusini Owathi UnguThixo"
+      ],
+      "answer": "Ikholwa Elifihliweyo Elivela Kusapho LukaFaro"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukufihla ukholo enkundleni yomntu ocinezelayo",
+        "Ukubandezeleka bubumfama ngenxa yokulila iminyaka emininzi",
+        "Ukuvavanywa kukulahlekelwa lusapho kunye nokubandezeleka okukhulu",
+        "Ukwakha inqanawa enkulu ngelixa ugculelwa",
+        "Ukunyamezela ubushushu obutshisayo bomlilo omkhulu"
+      ],
+      "answer": "Ukufihla ukholo enkundleni yomntu ocinezelayo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ibhotwe likaFaro",
+        "Incopho yentaba apho kwakhiwa khona umkhombe",
+        "Intlambo engcwele phantsi kweNtaba yeSinayi",
+        "Igadi entle kakhulu enemijelo emibini egeleza amanzi",
+        "Itrone yekristale phezu komlambo ongaphantsi komhlaba"
+      ],
+      "answer": "Ibhotwe likaFaro"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukukhuselwa nguThixo ngelixa abacinezeli babetshatyalaliswa",
+        "Ndadibana kwakhona nosapho emva kweminyaka emininzi yokwahlukana",
+        "Ndanikwa umonde, impilo ebuyiselweyo, nosapho olukhulu",
+        "Wasindiswa emkhombeni ngelixa lonke ihlabathi litshona",
+        "Wasindiswa engenakwenzakala elangatyeni ngomyalelo ka-Allah"
+      ],
+      "answer": "Ukukhuselwa nguThixo ngelixa abacinezeli babetshatyalaliswa"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

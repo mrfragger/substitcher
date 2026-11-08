@@ -1,0 +1,61 @@
+{
+  "title": "Ar fiziañs fiziet er stêr",
+  "intro": "Un ene a oa dirak un dekred dibosupl, ma oa buhez ur bugel nevez-ganet en arvar. Heñchet gant an awen doueel e voe doujet d'ur gourc'hemenn dic'hortoz, hag ur sekred prizius a voe lakaet war ar stêr, hep bezañ distroet en un doare dic'hortoz.",
+  "clues": [
+    "Bevañ a raen dindan skeud un tirant hag a c'hourc'hemenne lazhañ ar baotred nevez-ganet.",
+    "Un awen doueel a zeuas din, o c'hourc'hemenn din kemer un ober dic'hortoz ha kalonek.",
+    "Lakaet em eus ma babig prizius en ur c'houfr hag e lakais anezhañ war ar stêr o redek.",
+    "Goullo e teuas ma c'halon da vezañ, ha kazimant em eus diskuliet ar sekred, met kreñvaet en deus Allah ma youl.",
+    "Kaset em eus unan bennak da heuliañ beaj ar bugel en traoñ pa oa ar red o kas ar c'hof kuit.",
+    "Kavet e voe ar bugel gant tiegezh an tirant, hag a-benn ar fin e voe adkavet ma bugel ha deuet on da vezañ ar vagerez."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Mamm ar profed Musa",
+        "Asiya (Gwreg Faraon)",
+        "Maryam (Mamm ar profed Isa)",
+        "Gwreg ar profed Lut",
+        "Mamm ar profed Yahya (gwreg Zakariya)"
+      ],
+      "answer": "Mamm ar profed Musa"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Lakaat a reas he bugel en ur c'houfr hag e lakaas anezhañ war ar stêr",
+        "Kuzhet he deus he bugel en ur c'hev",
+        "Dilezel a reas he bugel en dezerzh",
+        "Taolet he deus he bugel en tan",
+        "Lezet he deus he bugel ouzh dor ur voskeenn"
+      ],
+      "answer": "Lakaat a reas he bugel en ur c'houfr hag e lakaas anezhañ war ar stêr"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ur c'houfr lakaet war vor war ar stêr",
+        "Ur vodenn o teviñ",
+        "Ur vazh a zo deuet da vezañ un naer",
+        "Un daol ledet gant boued eus an neñv",
+        "Ur c'hañvalez kaset evel sin"
+      ],
+      "answer": "Ur c'houfr lakaet war vor war ar stêr"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Adkavet e voe gant he bugel hag e vageas anezhañ",
+        "Ne welas mui he bugel",
+        "Lakaet e voe d'ar marv gant an tirant",
+        "Dont a reas da vezañ rouanez en Egipt",
+        "Divroañ a reas d'ur vro all ha bevañ a reas en harlu"
+      ],
+      "answer": "Adkavet e voe gant he bugel hag e vageas anezhañ"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

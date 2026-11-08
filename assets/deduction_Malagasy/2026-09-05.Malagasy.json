@@ -1,0 +1,61 @@
+{
+  "title": "Ny Famirapiratana Nilentika",
+  "intro": "Alaivo sary an-tsaina ange ity: fanahy iray miakanjo akanjo tsara tarehy sady voahodidin'ny harena tsy takatry ny saina. Nino ity olona ity fa ny harenany no azony tamin'ny faharanitan-tsainy manokana, ary tsy nanaiky mihitsy ny loharanon'ny tena fivelomana. Nandeha teo anivon'ireo mpanara-dia ny mpaminany mahery iray ity olona ity, ka nandà ny antso rehetra ho amin'ny fanetren-tena. Androany, dia ahitantsika ny mombamomba ny olona iray izay ny harenany lehibe no lasa toeram-pialan-tsasatra farany ho azy.",
+  "clues": [
+    "Niaina tamin'ny andron'ny mpaminany iray izay niantso firenena mafy loha ho amin'ny fahamarinana aho.",
+    "Anisan'ny vondrom-piarahamonina voafidy aho, kanefa niala tamin'ny hafatra ny foko.",
+    "Ny volamena sy ny volafotsy no nahasarika ahy mihoatra noho ny didin'Andriamanitra rehetra.",
+    "Nihalehibe be ny trano fitehirizam-bolako ka zara raha nahavita naka ireo fanalahidy ny vondron-dehilahy matanjaka iray.",
+    "Nirehareha aho fa nomena ahy ny fananako noho ny fahalalako manokana.",
+    "Tamin'ny farany, izaho sy ny tranoko iray manontolo dia natelin'ny tany ho fampitandremana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Karun",
+        "Hamana",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saoly)"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Fieboeboana noho ny harena sy ny fandavana ny fiantrana",
+        "Fanamboarana sampy volamena avy amin'ny firavaka natsonika",
+        "Manambara ny maha-Andriamanitra ny fanjakana mahery",
+        "Fanenjehana ireo mpino voalohany tao Makkah",
+        "Nitarika fampielezan-kevitra handrava ny Trano Masina"
+      ],
+      "answer": "Fieboeboana noho ny harena sy ny fandavana ny fiantrana"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Harena izay nampitondra enta-mavesatra ny lehilahy matanjaka maro ny fanalahidiny",
+        "Ombilahy kely volamena izay namoaka feo",
+        "Seza fiandrianana be voninahitra avy any an-tany lavitra",
+        "Hady feno afo mirehitra",
+        "Tafika mahery misy elefanta mpiady"
+      ],
+      "answer": "Harena izay nampitondra enta-mavesatra ny lehilahy matanjaka maro ny fanalahidiny"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voatelina tamin'ny tany niaraka tamin'ny trano fonenana",
+        "Nilentika tao an-dranomasina niaraka tamin'ny tafika",
+        "Nodorana velona tao anaty lavaka mirehitra",
+        "Rava noho ny rivotra mahery sy mikitroka",
+        "Voadona tamin'ny fipoahana mahery vaika iray monja"
+      ],
+      "answer": "Voatelina tamin'ny tany niaraka tamin'ny trano fonenana"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A folyóra bízott bizalom",
+  "intro": "Egy lélek lehetetlen végzettel nézett szembe, ahol egy újszülött élete forgott kockán. Isteni ihletésre egy kétségbeesett parancsnak engedelmeskedve egy értékes titkot sodort az ár, hogy aztán előre nem látható módon térjen vissza.",
+  "clues": [
+    "Egy zsarnok árnyékában éltem, aki újszülött fiúgyermekek megölését parancsolta.",
+    "Isteni sugallat ért, és egy kétségbeesett és szívszorító lépésre utasított.",
+    "Belehelyeztem drága csecsemőmet egy ládába, és a folyó vízre helyeztem.",
+    "Kiürült a szívem, és majdnem felfedtem a titkot, de Allah megerősítette az elszántságomat.",
+    "Elküldtem valakit, hogy kövesse a gyermek útját lefelé a folyón, miközben az áramlat elsodorta a ládáját.",
+    "A gyereket a zsarnok háznépe találta meg, és végül újra találkoztam a gyerekemmel, és én lettem a dajka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes próféta anyja",
+        "Asija (a fáraó felesége)",
+        "Maryam (Isa próféta anyja)",
+        "Lut próféta felesége",
+        "Jahja próféta anyja (Zakariya felesége)"
+      ],
+      "answer": "Mózes próféta anyja"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Betette a gyermekét egy ládába, és a folyóra tette",
+        "Elrejtette gyermekét egy barlangban",
+        "Elhagyta gyermekét a sivatagban",
+        "Tűzbe dobta a gyermekét",
+        "Otthagyta a gyermekét egy mecset ajtajában"
+      ],
+      "answer": "Betette a gyermekét egy ládába, és a folyóra tette"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy folyón úszó láda",
+        "Egy égő csipkebokor",
+        "Egy személyzet, ami kígyóvá változott",
+        "Mennyei ételekkel megterített asztal",
+        "Egy jelként küldött nőstény teve"
+      ],
+      "answer": "Egy folyón úszó láda"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Újra találkozott gyermekével és szoptatta őt",
+        "Soha többé nem látta a gyermekét",
+        "A zsarnok kivégezte",
+        "Egyiptomban királynő lett",
+        "Egy másik országba költözött és száműzetésben élt"
+      ],
+      "answer": "Újra találkozott gyermekével és szoptatta őt"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

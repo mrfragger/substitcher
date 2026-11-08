@@ -1,0 +1,61 @@
+{
+  "title": "La transgression au bord du rivage",
+  "intro": "Vous vous tenez sur le sable d'une rive oubliée, où les vagues murmurent le souvenir d'une communauté mise à l'épreuve par un commandement divin. L'air est lourd du souvenir d'une transgression qui a engendré une transformation bouleversante. Qui étaient ces âmes, et quelle fut la nature de leur épreuve ?",
+  "clues": [
+    "Nous étions une communauté qui avait reçu un commandement clair de notre Seigneur, et pourtant nous avons trouvé des moyens de le transgresser.",
+    "Nous vivions près d'un point d'eau, et notre subsistance dépendait de ses créatures.",
+    "Une épreuve nous est présentée le jour où il nous a été ordonné de nous abstenir des activités mondaines.",
+    "Ce jour-là même, les créatures aquatiques vinrent à nous en grand nombre, nous tentant au-delà de toute résistance.",
+    "Nous avons imaginé une ruse ingénieuse pour contourner l'ordre divin, pensant pouvoir déjouer le décret.",
+    "Notre transgression a entraîné une transformation humiliante ; nous sommes devenus des singes méprisés par l'ordre d'Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le peuple du sabbat",
+        "Le peuple de Rass",
+        "Le peuple de Tubba",
+        "Le peuple de la caverne",
+        "Les Compagnons du Fossé"
+      ],
+      "answer": "Le peuple du sabbat"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "L'apparition de poissons le jour du sabbat",
+        "Une année de sécheresse extrême",
+        "Une armée d'oiseaux envoyée contre eux",
+        "Une inondation qui les a submergés",
+        "Un violent tremblement de terre"
+      ],
+      "answer": "L'apparition de poissons le jour du sabbat"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La mer",
+        "Une montagne",
+        "Une grotte",
+        "Une vallée désertique",
+        "Une ville fortifiée"
+      ],
+      "answer": "La mer"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Transformés en singes",
+        "Englouti par la terre",
+        "Détruit par un vent hurlant",
+        "Noyé dans la mer",
+        "Frappé par une pluie de pierres"
+      ],
+      "answer": "Transformés en singes"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

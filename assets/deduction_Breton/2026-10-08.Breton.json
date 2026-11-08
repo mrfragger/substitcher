@@ -1,0 +1,61 @@
+{
+  "title": "Kizellerien maen an traonienn gozh",
+  "intro": "Soñjit en ur sivilizadur a savas e traoñiennoù roc'hellek Arabia, barrek war ar c'hizellañ tiez kaer-eston diwar ar menezioù. Bleuniañ a rejont gant nerzh hag arz, met merket eo o istor gant un enebiezh spontus ouzh ar c'hemenn doueel. E-keit ma'z it pelloc'h en o istor e tizoloot ur bobl he deus kaset he lorc'h d'he distruj penn-da-benn. Piv e oant ?",
+  "clues": [
+    "Hêrezh hon eus ur vro gant plaenennoù roc'hellek ha krec'hioù uhel, ma'z eus bet savet hon annezoù gant barregezh dibar.",
+    "Anavezet e oamp evit bezañ kizellet tiez sur er menezioù, o vezañ sur diouzh kement droug.",
+    "Ur c'hannad a zeuas betek ennomp eus hon touez, o soñjal deomp eus madoù Allah hag o tiwall ac'hanomp diouzh ar c'hastiz.",
+    "Goulenn a reomp ur sin, hag ur c'hañval burzhudus a zeuas er-maez eus ar roc'h, un amprouenn sklaer digant Allah.",
+    "Nac'hañ a reomp ar c'hemenn ha troc'hañ a reomp ar c'hañvalez, o c'hoarzhin ouzh ar c'hannad hag o stourm ouzh ar c'hastiz.",
+    "Ur c'hrogad hepken a dapas ac'hanomp en hon tiez, ha da vintin e oamp gourvezet, evel pa ne vijemp ket bet o chom eno biskoazh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Tud Thamud",
+        "Tud 'Ad",
+        "Tud Madyan",
+        "Tud Nuh",
+        "Pobl Lut"
+      ],
+      "answer": "Tud Thamud"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Troc'het ar c'hañvalez",
+        "Torret ar sabad",
+        "Azeulet eo bet al leue aour",
+        "Lazhet ar profed kaset dezho",
+        "Savet un tour evit tizhout an oabl"
+      ],
+      "answer": "Troc'het ar c'hañvalez"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar c'hañvalez",
+        "An Arc'h",
+        "Ar skipailh",
+        "An dorn wenn",
+        "Ar mann hag ar c'hoailed"
+      ],
+      "answer": "Ar c'hañvalez"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Distrujet gant un darzhadenn",
+        "Saveteet diouzh an distruj",
+        "Troet e marmouzed",
+        "Beuzet er mor",
+        "Lonket gant an douar"
+      ],
+      "answer": "Distrujet gant un darzhadenn"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

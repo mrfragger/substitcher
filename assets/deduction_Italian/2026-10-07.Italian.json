@@ -1,0 +1,61 @@
+{
+  "title": "La fiamma dentro il palazzo dell'arroganza",
+  "intro": "Dietro le maestose mura del palazzo più potente del mondo antico viveva una figura il cui cuore custodiva un segreto che nessun decreto reale avrebbe potuto soffocare. Mentre tutti intorno si inchinavano a falsi dèi, quest'anima manteneva viva una fede silenziosa. I sovrani di quella terra si credevano divini, eppure quest'individuo scelse la verità al posto della comodità e la devozione al posto della sicurezza. Oggi, il vostro compito è scoprire chi fosse quest'anima coraggiosa, la cui storia rimane uno degli esempi più potenti di fede incrollabile.",
+  "clues": [
+    "Vivevo in un luogo di immensa ricchezza e di sfarzo ineguagliabile, dove il sovrano deteneva il potere assoluto su tutto.",
+    "Mentre coloro che mi circondavano si inchinavano a falsi dèi, io custodivo una silenziosa luce di fede nel mio cuore.",
+    "Ho scoperto e adottato un bambino che mi è stato portato in un modo insolito: non per nascita, ma attraverso le acque di un grande fiume.",
+    "Ho pregato il mio Signore, chiedendo una dimora vicino a Lui in Paradiso e la salvezza dalla tirannia che mi circondava.",
+    "Il bambino che ho cresciuto è cresciuto fino a sfidare proprio il sovrano che controllava il mio destino, e io sono rimasto saldo nella mia fede anche di fronte alle minacce.",
+    "Io sono colui il cui nome è onorato nel Corano come modello di fede, e ho vissuto nel palazzo del faraone stesso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Asiya, la moglie del faraone",
+        "Maria, la madre di Isa",
+        "Bilqis, la regina di Saba",
+        "La moglie del profeta Lutero",
+        "La moglie di Imran"
+      ],
+      "answer": "Asiya, la moglie del faraone"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Scoprire e crescere un neonato abbandonato che divenne un grande profeta",
+        "Essere gettato in un grande fuoco da un tiranno",
+        "Assistere a una grande alluvione che ha distrutto un popolo",
+        "Assistere a una tremante di palma da dattero e fornire nutrimento",
+        "Concepire un figlio maschio nonostante l'età avanzata"
+      ],
+      "answer": "Scoprire e crescere un neonato abbandonato che divenne un grande profeta"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un palazzo reale di splendore ineguagliabile.",
+        "Una grande nave costruita per resistere a un'alluvione",
+        "Una profonda grotta nascosta tra le montagne",
+        "Un fuoco ardente acceso sulla cima di una montagna",
+        "Un giardino recintato da mura"
+      ],
+      "answer": "Un palazzo reale di splendore ineguagliabile."
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Per volontà di Allah, è stata concessa una dimora in Paradiso.",
+        "Un grande diluvio distrusse gli increduli di un'antica nazione",
+        "In questo mondo fu concesso un regno di immenso potere e autorità.",
+        "Un possente esercito fu disperso dagli uccelli in volo",
+        "Un tiranno che si proclamava divino annegò in mare"
+      ],
+      "answer": "Per volontà di Allah, è stata concessa una dimora in Paradiso."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

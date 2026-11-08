@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakatūpato i raro i te Whenua",
+  "intro": "Whakaarohia kei te tū koe i te taha o tētahi keri hohonu, i te mea ka ara ake ngā reo i raro, ā, ka wahangu te ao i runga. Kei te pupuri te Quran i tēnei whakaaturanga hei whakatūpato: ka whakakahoretia e tētahi hapori ngā mea e kawea mai ana e ngā karere, ka tata te whiu, ā, ka uru atu tōna hamama ki roto i te whakaaturanga. Ko tēhea rōpū e kōrero ana mā roto i aua whiti?",
+  "clues": [
+    "E maumaharatia ana tātou i roto i te Qur'an hei rōpū i tautuhia e te aituā kotahi, kaua e te ingoa takitahi.",
+    "I whakakahoretia e mātou te karere i kawea mai e ngā karere, ahakoa he pono tā rātou i kōrero ai.",
+    "E herea ana tō tātou tuakiri maumahara ki tētahi poka hōhonu i te whenua, ā, kua uru taua āhuatanga ki roto i tō tātou ingoa.",
+    "I te rā i whakaritea, ka arahina mātou ki waho, ka tōia ki te ahi.",
+    "Kāore i taea e mātou te tiaki i a mātou anō i te whiu, ā, kāore hoki i taea e mātou te whakarongo ki tōna hamama.",
+    "Ka hurihia ō mātou mata ki roto i te ahi, ā, ka aia mātou ki roto; ina pātaihia, ka mea mātou ko mātou tētahi o te hunga kāore i taea te whakautu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā Hoa o te Āwhata",
+        "Te Iwi i Whakaorangia i te Waipuke Nui",
+        "Ngā Kaikarakia o te Kuao Kau Koura",
+        "Te Rōpū i roto i te Ana Maunga e noho piringa ana",
+        "Te Hapori i Whakaorangia mai i te Oumu Mura"
+      ],
+      "answer": "Ngā Hoa o te Āwhata"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I tōia, ā, i maka ki te Ahi",
+        "I whakaorangia mai i te oumu mura",
+        "I haria marietia i roto i te waipuke nui",
+        "I roto i tētahi ana i roto i ngā rautau e noho ana",
+        "I whakaorangia i muri i te makanga ki roto i te puna"
+      ],
+      "answer": "I tōia, ā, i maka ki te Ahi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He awaawa, he poka rānei",
+        "He moana nui",
+        "He ana maunga",
+        "He whare rangatira teitei",
+        "He puna koraha"
+      ],
+      "answer": "He awaawa, he poka rānei"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kāore e taea te tiaki i a rātou anō, kāore hoki e taea te whakarongo ki te hamama o te Ahi",
+        "I whakaorangia, ā, i whakaaetia kia tomo ki ngā māra mutungakore",
+        "I tukuna marietia i roto i te waipuke whakangaro",
+        "E tiakina ana e te moe roa i roto i te ana",
+        "Kua whakahonoretia ki te rangatiratanga mutunga kore"
+      ],
+      "answer": "Kāore e taea te tiaki i a rātou anō, kāore hoki e taea te whakarongo ki te hamama o te Ahi"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

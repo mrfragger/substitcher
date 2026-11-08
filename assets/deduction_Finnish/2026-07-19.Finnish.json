@@ -1,0 +1,61 @@
+{
+  "title": "Vuosisatojen huomiotta jäänyt ääni",
+  "intro": "Kauan ennen suurten kaupunkien nousua nousi yksinäinen sielu kansan keskuuteen, joka oli kääntynyt pois totuudesta. Heidän itsepäisyytensä oli verrattavissa vain tämän yksinäisen kutsujan kärsivällisyyteen, joka pyysi sukupolvien ajan menettämättä päättäväisyyttään. Kun kaikki varoitukset kaikuivat kuuroille korville, ennennäkemätön tilinteko muovasi itse maapalloa. Tänäkin päivänä tuon tarinan kaiku väreilee jokaisessa kertomuksessa. Voitko tunnistaa tämän päättäväisen sielun?",
+  "clues": [
+    "Kasvoin kansan keskuudessa, joka palvoi vääriä epäjumalia ja jätti huomiotta ympärillään olevat merkit, mutta minut valittiin herättämään heidät välinpitämättömyydestään.",
+    "Huusin kansani luo yhä uudelleen, mutta he syyttivät minua siitä, että olen vain heidän kaltaisensa ihminen, pilkkaavat sanomaani ja peittävät korvansa.",
+    "Yötä päivää anelin heitä viisaasti ja lempeästi muistuttaen, mutta sanani tuntuivat haihtuvan ilmaan, kuulemattomina ja huomiotta jätettyinä.",
+    "Jumalallisen ohjauksen alaisena rakensin kuivalle maalle valtavan puusta ja lankuista tehdyn aluksen, ja kansani nauroi minulle kuin järjettömälle.",
+    "Kun suuri tulva tuli luvatusti, oma poikani kieltäytyi nousemasta laivaan kanssani uskoen, että vuori suojelisi häntä nousevilta vesiltä.",
+    "Minusta tuli uuden alun patriarkka maan päällä, ja tarinani on tallennettu Koraanin lukuun, joka kantaa nimeäni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Nooa",
+        "Profeetta Ibrahim",
+        "Profeetta Musa",
+        "Profeetta Lut",
+        "Profeetta Hud"
+      ],
+      "answer": "Profeetta Nooa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri vedenpaisumus, joka muokkasi maapallon muotoa",
+        "Epäjumalanpalvelijoiden heittämä liekehtivään tuleen",
+        "Kohtaaminen faaraon velhojen kanssa palatsissa",
+        "Taivaallisen myrskyn tuhoama kukoistavat puutarhat",
+        "Juoksuhaudan asukkaiden kaatuminen"
+      ],
+      "answer": "Suuri vedenpaisumus, joka muokkasi maapallon muotoa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Puusta ja lankuista rakennettu arkki",
+        "Pyhä talo rakennettiin muinaisille perustuksille",
+        "Sauva, joka muuttui käärmeeksi",
+        "Nukkuvien nuorten luola",
+        "Mahtavan olennon kantama valtaistuin"
+      ],
+      "answer": "Puusta ja lankuista rakennettu arkki"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Epäuskoiset hukkuivat, kun taas uskovat pelastettiin laivalla",
+        "Palo viileni ja sammui, ja soittaja selvisi vahingoittumattomana.",
+        "Taikurit lankesivat maahan ja omaksuivat uskon",
+        "Puutarha annettiin vanhurskaalle lähimmäiselle sen sijaan",
+        "Nukkujat heräsivät vuosisatojen jälkeen, muuttuneina"
+      ],
+      "answer": "Epäuskoiset hukkuivat, kun taas uskovat pelastettiin laivalla"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

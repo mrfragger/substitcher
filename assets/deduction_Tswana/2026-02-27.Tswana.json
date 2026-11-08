@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe la Tse di sa Bonweng",
+  "intro": "Mo dibukeng tsa ditiragalo tsa puisano ya bomodimo, go tlhagelela setshwantsho se kgang ya sone e logilweng ka matshwao a a gakgamatsang le tumelo e e tlhomameng. Motho yono o ne a amogela tshenolo e e tlhomologileng e e neng ya gwetlha ditlwaelo tsa motlha wa bone, a bua go tswa kwa ntle ga lesire la temogo e e tlwaelegileng. Molaetsa wa bone o ne o sa tle ka ditsela tse di tlwaelegileng mme o ne wa tla ka kgolagano e e tseneletseng e e neng e sa dumalane le tlhaloganyo ya batho, e bitsa batho go lemoga boammaaruri ka ditsela tse ba neng ba sa di lebelela. Leeto la motlhanka yono wa ga Allah le dira jaaka bosupi jwa kafa kaelo e ka bonalang ka gone mo maemong a a sa tlwaelegang thata, e laletsa go akanya ka mofuta wa tshenolo ka boyone.",
+  "clues": [
+    "Ke ne ka newa molaetsa o o neng o tla ka lentswe le le sa itsegeng le le tswang kwa motsweding o o sa bonweng.",
+    "Kwa tshimologong batho ba gaetsho ba ne ba gana molaetsa wa me, ba batla bosupi jo bo tlwaelegileng jo bo oketsegileng jwa gore ke boammaaruri.",
+    "Ke ne ka ba gwetlha gore ba ntshe sengwe se se tshwanang le se ke neng ke se amogetse, mme ba ne ba sa kgone.",
+    "Tshenolo e ke neng ke e tlisa e ne ya tlhalosiwa e le ditemana tse di tlhamaletseng tse di neng di dira gore boammaaruri bo bonale.",
+    "Ke ne ka tlhagisa batho ba me ka kotlhao e e botlhoko fa ba ka tswelela ka go sa dumele ga bone le boikgogomoso jwa bone.",
+    "Kgang ya me e umakiwa mmogo le barongwa ba bangwe mo surah e e gatelelang matshwao a maatla a ga Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Hud",
+        "Moporofeti Salih",
+        "Moporofeti Shu'ayb",
+        "Modumedi go tswa mo Lelapeng la ga Fir'awn",
+        "Moporofeti Musa"
+      ],
+      "answer": "Moporofeti Salih"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go latlhelwa mo leubelong le le tukang",
+        "Go lebana le kgatelelo ya mmusi yo o gatelelang",
+        "Go ntsha kamela e namagadi jaaka sesupo sa kgakgamatso",
+        "Go falola morwalela o mogolo",
+        "Go latlhelwa mo lewatleng mo sehubeng"
+      ],
+      "answer": "Go ntsha kamela e namagadi jaaka sesupo sa kgakgamatso"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Mokgatšha wa Tuwa",
+        "Motse wa Madyan",
+        "Lefatshe la Thamute",
+        "Kgotlatshekelo ya Fir'awn",
+        "Logaga lwa Hira"
+      ],
+      "answer": "Lefatshe la Thamute"
+    },
+    "outcome": {
+      "label": "Botso",
+      "answer": "Batho ba gaetsho ba ne ba senngwa ka ntlha ya go bolaya kamela e namagadi ya kgakgamatso",
+      "options": [
+        "Batho ba me ba ne ba ikwatlhaya mme ba bolokwa .",
+        "Ke ne ka tlhatlosediwa kwa legodimong ke tshela",
+        "Batho ba gaetsho ba ne ba senngwa ka ntlha ya go bolaya kamela e namagadi ya kgakgamatso",
+        "Ke ne ka nna mmusi yo mogolo",
+        "Ke ne ka namolwa ka go tsenngwa mo arakeng"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

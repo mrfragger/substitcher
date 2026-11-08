@@ -1,0 +1,61 @@
+{
+  "title": "A két kert lakói",
+  "intro": "Egy olyan földön, ahol bőségesen árasztottak az áldásokat, egy közösség valaha két csodálatos kert kincseit élvezte. Életük az isteni kegyről tanúskodott, ám történetük fordulatot vett, amikor a hála alábbhagyott, és ez egy olyan átalakuláshoz vezetett, amely maradandó jellé vált mindazok számára, akik elmélkednek rajta.",
+  "clues": [
+    "Egy olyan nép voltunk, amely a nyugalom és a bőség földjével volt megáldva.",
+    "Urunk két pompás kertet adott nekünk, mindenfelől buja és termékeny.",
+    "Azt a parancsot kaptuk, hogy legyünk hálásak, de mi a hálátlanságot választottuk, és elfordultunk.",
+    "Egy hatalmas gát tartotta vissza a vizeket, amelyek életet adtak földjeinknek.",
+    "Amikor kitartottunk a helytelen cselekedeteink mellett, a gát átszakadt, és az árvíz átsöpört rajtunk.",
+    "Egykor buja kertjeinket keserű gyümölcsök, tamariszkuszok és néhány lótuszfa váltotta fel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Saba népe",
+        "Thamud népe",
+        "Madyan népe",
+        "A barlang társai",
+        "Az elefánt népe"
+      ],
+      "answer": "Saba népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Heves szél fújt hét éjszakán át",
+        "Kőzápor az égből",
+        "Pusztító árvíz egy átszakadó gátból",
+        "Egy hangos sikoly az égből",
+        "Fulladás a tengerben"
+      ],
+      "answer": "Pusztító árvíz egy átszakadó gátból"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Ma'rib nagy gátja",
+        "A Wadi al-Qura völgye",
+        "Irám kertje",
+        "A Zamzam kútja",
+        "A Sínai-hegy"
+      ],
+      "answer": "A Ma'rib nagy gátja"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Kertjeinket keserű gyümölcsök és ritkás fák váltották fel",
+        "Elnyelt minket a föld egy földrengésben",
+        "Majmokká és disznókká változtunk",
+        "Egy hatalmas árvízbe fulladtunk",
+        "Kőzápor pusztított el minket"
+      ],
+      "answer": "Kertjeinket keserű gyümölcsök és ritkás fák váltották fel"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

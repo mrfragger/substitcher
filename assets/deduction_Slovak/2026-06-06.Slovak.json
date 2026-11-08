@@ -1,0 +1,61 @@
+{
+  "title": "Vznešený služobník Alaha",
+  "intro": "Počujete šepot o postave zo staroveku, služobníkovi Alaha, ktorý bol povýšený na postavenie nad všednosť. Tento jedinec bol známy svojou neochvejnou trpezlivosťou a absolútnou pravdovravnosťou a bol poslaný k ľuďom, ktorí sa odvrátili od posolstva. Kto je táto vznešená duša?",
+  "clues": [
+    "Bol som vyvolený Alahom za proroka a som spomenutý v Svätom Koráne.",
+    "Bol som známy svojou trpezlivosťou a pravdovravnosťou, vlastnosťami, ktoré Alah chváli.",
+    "Vyzýval som svoj ľud, aby uctieval Jediného Boha, ale mnohí ma odmietli.",
+    "Moje postavenie bolo povýšené Alahom a bola mi udelená vysoká hodnosť.",
+    "Často sa o mne spomína spolu s ďalšími prorokmi, ako sú Ismail a Dhul-Kifl.",
+    "Alah o mne hovorí: „A povýšili sme ho na vysoké miesto.“ (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Idris",
+        "Prorok Eliáš",
+        "Prorok Dhu al-Kifl",
+        "Prorok Al-Yasa",
+        "Prorok Hud"
+      ],
+      "answer": "Prorok Idris"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Vyzýval ľudí k uctievaniu Alaha",
+        "Postavil archu",
+        "Bojoval proti faraónovi",
+        "Bol testovaný s ťažkou chorobou",
+        "Bol hodený do ohňa"
+      ],
+      "answer": "Vyzýval ľudí k uctievaniu Alaha"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Vznešená hodnosť/vysoké postavenie",
+        "Archa",
+        "Zamestnanci",
+        "Oheň",
+        "Studňa"
+      ],
+      "answer": "Vznešená hodnosť/vysoké postavenie"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Povýšený na vysoký status",
+        "Utopený v povodni",
+        "Prehltnuté veľrybou",
+        "Zachránený pred ohňom",
+        "Stal sa kráľom"
+      ],
+      "answer": "Povýšený na vysoký status"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

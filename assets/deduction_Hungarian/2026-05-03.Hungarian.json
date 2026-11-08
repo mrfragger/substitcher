@@ -1,0 +1,61 @@
+{
+  "title": "Az igazság szunnyadó keresői",
+  "intro": "Képzelj el egy olyan időt, amikor a hitet megkérdőjelezték, és egy lélekcsoport a rendíthetetlen meggyőződést választotta a világi kényelem helyett. Ijesztő választás előtt menedéket kerestek, és egy olyan útra indultak, amely rendkívüli álomhoz vezetett. Történetük az isteni védelem és a hit elnyomás elleni erejének bizonyítéka. Fel tudod ismerni ezeknek a figyelemre méltó embereknek a kilétét?",
+  "clues": [
+    "Kis gyülekezet voltunk, akiket az Egyetlen Teremtőbe vetett mély hit egyesített.",
+    "Egy olyan korban éltünk, amikor egy hatalmas uralkodó Allahon kívül más imádatát követelte.",
+    "Hogy megőrizzük hitünket, úgy döntöttünk, hogy elhagyjuk otthonainkat és elmenekülünk az elnyomás elől.",
+    "Egy hűséges társ, egy földi teremtmény kísért minket utunkon.",
+    "Menedéket találtunk egy félreeső helyen, ahol Allah mély, hosszan tartó álomba merült velünk.",
+    "Amikor felébredtünk, azt hittük, csak egy nap vagy egy naprészlet telt el, pedig valójában évszázadok teltek el."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az árok népe",
+        "Thamud népe",
+        "Saba népe",
+        "A barlang népe",
+        "Madyan népe"
+      ],
+      "answer": "A barlang népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Kopár földdel próbára téve",
+        "Nagy árvízzel szembenézve",
+        "Menedéket keres egy zsarnoki uralkodó elől",
+        "Égő tűzbe vetve",
+        "Egy varázsló mágiájának kihívása"
+      ],
+      "answer": "Menedéket keres egy zsarnoki uralkodó elől"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy grandiózus palota",
+        "Egy hajó/bárka",
+        "Egy mély kút",
+        "Egy barlang",
+        "Egy magasodó hegy"
+      ],
+      "answer": "Egy barlang"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Királyságot kapnak",
+        "Csodálatos álom évszázadokon át",
+        "Elnyeli a föld",
+        "Megmentés egy pusztító vihartól",
+        "Mennyei asztalhoz jutva"
+      ],
+      "answer": "Csodálatos álom évszázadokon át"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Cirsto kalnu pravietis",
+  "intro": "Senās Arābijas skarbajos tuksnešos starp cilvēkiem, kas bija slaveni ar savu neparasto meistarību, parādījās personība. Viņu mājas cēlās no cieta klints, tomēr viņu sirdis bija cietākas par kalniem, ko viņi bija izcirsti. Dievišķs vēstnesis ieradās ar vienu brīnumainu zīmi, taču lepnums un nepakļaušanās noveda pie ātrām un šausminošām sekām. Vai vari atpazīt cēlo kalpu, kura tauta izvēlējās iznīcību, nevis vadību?",
+  "clues": [
+    "Es tiku sūtīts kā brīdinātājs savai tautai, aicinot viņus pielūgt Vienīgo Dievu.",
+    "Mani ļaudis dzīvoja starp iespaidīgiem klinšu veidojumiem, izgrebjot kalnu nogāzēs krāšņas mājvietas.",
+    "Pēc manas lūgšanas no cietas klints iznira brīnumaina kamieļu mātīte – skaidra zīme no Visvarenā.",
+    "Es teicu saviem ļaudīm dalīties ūdenī ar šo kamieli un nedarīt tai pāri.",
+    "Mani ļaudis sazvērējās pret kamieli un pāršķēla tai šķipsnas, tādējādi apzīmogojot savu pašiznīcināšanos.",
+    "Briesmīga zemestrīce piemeklēja manu tautu, un tā palika nekustīga savos mājokļos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Salihs",
+        "Pravietis Huds",
+        "Pravietis Šuajbs",
+        "Pravietis Nuhs",
+        "Pravietis Musa"
+      ],
+      "answer": "Pravietis Salihs"
+    },
+    "trial": {
+      "label": "Kāds bija izšķirošais pārbaudījums?",
+      "options": [
+        "Brīnumainas kamieļmātes cīpslu sastiepums",
+        "Liela šķirsta būvēšana izsmiekla vidū",
+        "Sastopoties ar tirānisku faraonu",
+        "Tiekot iemests liesmojošā ugunī",
+        "Sabata derības laušana"
+      ],
+      "answer": "Brīnumainas kamieļmātes cīpslu sastiepums"
+    },
+    "location": {
+      "label": "Kāds bija centrālais elements?",
+      "options": [
+        "Kamielis, kas iznira no klints",
+        "Liela koka šķirsta",
+        "Personāla loceklis, kas pāršķīra jūru",
+        "Milzīgs valis",
+        "Virs galvas karājas kalns"
+      ],
+      "answer": "Kamielis, kas iznira no klints"
+    },
+    "outcome": {
+      "label": "Kāds bija viņu galīgais liktenis?",
+      "options": [
+        "Pēkšņa zemestrīce no debesīm",
+        "Noslīka varenos plūdos",
+        "Viņu pilsētas tika apgāztas pēc dievišķas pavēles",
+        "Apdedzinājis svelmains vējš",
+        "Zeme norīja"
+      ],
+      "answer": "Pēkšņa zemestrīce no debesīm"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

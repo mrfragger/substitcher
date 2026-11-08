@@ -1,0 +1,61 @@
+{
+  "title": "déi stärebeliichte Sich no Sécherheet",
+  "intro": "Stellt Iech vir, Dir stinn ënner engem risegen Nuetshimmel, kuckt wéi hell Luuchten opgoen an dann verschwannen, während Dir no deem sicht, wat wierklech Andacht verdéngt. Ronderëm Iech kréien roueg geschnëtzte Biller Luef an Offeren, awer d'kloer Vernunft stellt hir Kraaft a Fro. Eng onerschrocken Stëmm ass amgaang, d'ierft Traditioun a Fro ze stellen an op de Schëpfer vum Himmel an der Äerd ze weisen.",
+  "clues": [
+    "Ech hunn op d'Stären, de Mound an d'Sonn gekuckt, an ech hunn geduecht, si kéinte net mäin Här sinn, well se ënnergoen a verschwannen.",
+    "Ech hunn ëffentlech dat ofgeleent, wat mäi Vollek nieft Allah veréiert huet, an hunn si opgeruff, eleng de Schëpfer ze veréieren.",
+    "Ech hunn iwwer e prahleresche Herrscher diskutéiert, deen behaapt huet, Liewen an Doud ze ginn, an ech hunn geäntwert andeems ech Allah ernimmt hunn, deen d'Sonn aus dem Oste bréngt.",
+    "Ech hunn d'Idolen geschloen an zerstéiert, sou datt nëmmen déi gréisst ënner hinne bliwwe sinn, fir datt d'Leit dohi kéinte goen.",
+    "Ech gouf vu mengem Vollek gegraff a veruerteelt, déi gesot hunn, si sollen eng Struktur bauen a mech an dat brennend Feier geheien.",
+    "Ech gouf gerett, wéi Allah dem Feier gebueden huet, fir mech Kill a Sécherheet ze sinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Ibrahim (Abraham)",
+        "De Prophet Yahya (Johannes)",
+        "De Prophet Al-Yasa (Elisha)",
+        "De Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "De Prophet Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Huet sech mat der Gëtzendéngscht konfrontéiert an iwwer d'Bedeitung vun Himmelskierper diskutéiert",
+        "Gouf vun engem grousse Fësch verschléckt, nodeems hien a Roserei fortgaangen ass",
+        "Hunn Unhänger duerch e Mier gefouert, dat vun Allah gedeelt gouf",
+        "Gouf lieweg an den Himmel opgewuess, ouni den Doud ze schmaachen",
+        "Vill Jore mat Begleeder an enger Hiel geschlof"
+      ],
+      "answer": "Huet sech mat der Gëtzendéngscht konfrontéiert an iwwer d'Bedeitung vun Himmelskierper diskutéiert"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E flammend Feier, dat vun Allah kill a sécher gemaach gouf",
+        "D'Ark, déi d'Gleeweger duerch d'Iwwerschwemmung gedroen huet",
+        "De Staff, deen zu enger Schlaang gouf",
+        "Den Dësch huet sech vum Himmel ausgebreet",
+        "D'Kamel als Zeeche geschéckt"
+      ],
+      "answer": "E flammend Feier, dat vun Allah kill a sécher gemaach gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Virum Feier geschützt a gerecht Nokommen zougestanen",
+        "Erdronk mat Leugnanten an enger grousser Iwwerschwemmung",
+        "Transforméiert wéinst Verletzung vum Sabbat",
+        "Zerstéiert vu Vullen, déi Steng aus Leem droen",
+        "Vun der Äerd mat Schätz verschléckt"
+      ],
+      "answer": "Virum Feier geschützt a gerecht Nokommen zougestanen"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

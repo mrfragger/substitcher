@@ -1,0 +1,61 @@
+{
+  "title": "Sự phủ nhận giữa sự dư dả",
+  "intro": "Bạn thấy mình giữa một cộng đồng người mà chợ búa tấp nập buôn bán, nhưng cán cân công bằng lại nghiêng về phía bất lương. Một sứ giả đã đến với họ mang theo những lời cảnh báo rõ ràng, nhưng họ lại cười nhạo và quay lưng bỏ đi, tự tin vào sự thịnh vượng của mình. Bầu trời bắt đầu tối sầm, nhưng họ lại coi đó là điềm lành của cơn mưa. Những người này là ai?",
+  "clues": [
+    "Chúng ta thịnh vượng trên những vùng đất thương mại trù phú, nhưng trái tim chúng ta lại trở nên chai sạn.",
+    "Một sứ giả đã đến với chúng ta mang theo những dấu hiệu từ Thượng đế, nhưng chúng ta đã chế nhạo những lời cảnh báo của ông ấy.",
+    "Chúng tôi nổi tiếng về nghề buôn bán, nhưng lại gian lận và lừa gạt người dân.",
+    "Chúng tôi sống giữa những tán cây rậm rạp và thảm thực vật tươi tốt, nhưng lại xem những điều may mắn đó là điều hiển nhiên.",
+    "Khi một đám mây đen kéo đến, chúng tôi vui mừng, nghĩ rằng nó sẽ mang mưa đến vùng đất khô cằn của chúng tôi.",
+    "Thay vào đó, đám mây ấy đã trút xuống một hình phạt thiêu đốt, và chúng ta bị nhấn chìm trong sự giày vò của ngày tối tăm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chúng tôi là ai?",
+      "options": [
+        "Ashab al-Aykah (Những người bạn của rừng)",
+        "Người dân Thamud",
+        "Người dân của 'Ad",
+        "Người dân Lut",
+        "Người dân Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Những người bạn của rừng)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Họ từ chối sứ giả của mình và lừa đảo trong thương mại.",
+        "Họ thờ cúng con bê vàng và bị lầm lạc.",
+        "Họ thực hành hành vi đồng tính luyến ái và tấn công du khách.",
+        "Họ xây dựng những tòa tháp cao và thách thức Thượng đế.",
+        "Họ từ chối chia sẻ nước và làm hại một con lạc đà cái."
+      ],
+      "answer": "Họ từ chối sứ giả của mình và lừa đảo trong thương mại."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một khu rừng rậm hoặc bụi rậm.",
+        "Một ngọn núi được chạm khắc thành những khu nhà ở.",
+        "Một thành phố bên bờ biển",
+        "Một thung lũng sa mạc với nhiều giếng nước.",
+        "Một khu vườn trù phú với nhiều trái cây."
+      ],
+      "answer": "Một khu rừng rậm hoặc bụi rậm."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị phá hủy bởi một đám mây lửa đen kịt",
+        "Chết đuối trong trận lụt lớn",
+        "Bị nuốt chửng bởi một trận động đất",
+        "Bị một cơn gió mạnh thổi qua",
+        "Hóa đá"
+      ],
+      "answer": "Bị phá hủy bởi một đám mây lửa đen kịt"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

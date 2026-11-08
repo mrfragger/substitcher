@@ -1,0 +1,61 @@
+{
+  "title": "La Fisança Confiada al Riu",
+  "intro": "Una anma s'afrontava a un decrèt impossible, ont la vida d'un novèl nascut penjava dins la balança. Guidat per l'inspiracion divina, un comandament desesperat foguèt obeït, e un secret preciós foguèt mes a la deriva sul corrent, sonque per èsser tornat d'un biais imprevist.",
+  "clues": [
+    "Viviái jos l'ombra d'un tiran que comandava la tuariá dels mascles novèls nascuts.",
+    "Una inspiracion divina me venguèt, m'instruissent de prene una accion desesperada e desgarridoira.",
+    "Placèri mon preciós nenon dins un cofre e lo metèri sul riu que raja.",
+    "Mon còr venguèt vuèg, e revelèri gaireben lo secret, mas Allah afortiguèt ma resolucion.",
+    "Mandèri qualqu'un per seguir lo viatge de l'enfant en aval del temps que lo corrent emportava lo cofre.",
+    "L'enfant foguèt trobat per l'ostal del tiran, e fin finala, foguèri reünida amb mon enfant e venguèri la mainadèra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Maire del profèta Musa",
+        "Asiya (Esposa de Faraon)",
+        "Maryam (Maire del profèta Isa)",
+        "L'esposa del profèta Lut",
+        "La maire del profèta Yahya (esposa de Zakariya)"
+      ],
+      "answer": "Maire del profèta Musa"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Placèt son enfant dins un cofre e lo pausèt sul riu",
+        "Amaguèt son enfant dins una cauna",
+        "Abandonèt son enfant dins lo desèrt",
+        "Getèt son enfant dins un fuòc",
+        "Daissèt son enfant a la pòrta d'una mosquèa"
+      ],
+      "answer": "Placèt son enfant dins un cofre e lo pausèt sul riu"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un cofre plaçat a flot sul riu",
+        "Un arbust ardent",
+        "Un baston que se transformèt en sèrp",
+        "Una taula espandida amb de manjar del cèl",
+        "Una camèla mandada coma signe"
+      ],
+      "answer": "Un cofre plaçat a flot sul riu"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Foguèt reünida amb son enfant e lo noiriguèt",
+        "Mai tornèt pas veire son enfant",
+        "Foguèt executada pel tiran",
+        "Venguèt reina en Egipte",
+        "Migrèt cap a una autra tèrra e visquèt en exili"
+      ],
+      "answer": "Foguèt reünida amb son enfant e lo noiriguèt"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

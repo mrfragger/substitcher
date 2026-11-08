@@ -1,0 +1,61 @@
+{
+  "title": "Wajumbe wa Rehema na Nguvu",
+  "intro": "Hebu fikiria alasiri tulivu iliyokatizwa na kuwasili kwa wasafiri wasiowajua. Muonekano wao ni wa kawaida, lakini kusudi lao si la kawaida. Wanabeba ujumbe wa kimungu ambao utabadilisha mwelekeo wa mataifa mawili, ukileta kicheko kwa nyumba tasa na hofu kwa mji wenye dhambi. Wageni hawa wa ajabu ni akina nani?",
+  "clues": [
+    "Tulitumwa kwa mtumishi mwaminifu wa Mwenyezi Mungu, anayejulikana kwa ukarimu wake usio na kikomo.",
+    "Tulifika tukiwa kama wageni, lakini mwenyeji wetu alihisi kitu tofauti kuhusu uwepo wetu.",
+    "Tulileta habari zilizomfanya mwanamke mzee acheke kwa kutoamini, akijipiga usoni kwa mshangao.",
+    "Tulipewa jukumu la kulinda familia yenye haki huku tukinyesha uharibifu juu ya jiji lililojaa ufisadi.",
+    "Tulikataa kushiriki chakula tulichopewa, jambo ambalo lilizidisha tuhuma za mwenyeji wetu.",
+    "Tulifichua asili yetu halisi kabla tu ya kuondoka, tukisema, 'Hakika sisi ni wajumbe wa Mola wako Mlezi.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Wageni wa Ibrahimu",
+        "Wanafunzi wa Yesu",
+        "Masahaba wa Pango",
+        "Jeshi la Abraha",
+        "Wajumbe wa Ya-Sin"
+      ],
+      "answer": "Wageni wa Ibrahimu"
+    },
+    "trial": {
+      "label": "Dhamira Yetu",
+      "options": [
+        "Ili kujaribu imani ya Ibrahimu kuhusu mwanawe",
+        "Kumkabidhi Ibrahimu andiko",
+        "Kutangaza kuzaliwa kwa Isaka na kuangamizwa kwa watu wa Lutu",
+        "Kumwongoza Ibrahimu kwenye Kaaba",
+        "Ili kumwokoa Abrahamu kutoka kwenye moto"
+      ],
+      "answer": "Kutangaza kuzaliwa kwa Isaka na kuangamizwa kwa watu wa Lutu"
+    },
+    "location": {
+      "label": "Mahali pa Kuonekana",
+      "options": [
+        "Katika nchi ya Misri",
+        "Katika jiji la Uru",
+        "Nyumbani kwa Ibrahimu",
+        "Katika bustani ya Edeni",
+        "Kwenye kisima cha Zamzam"
+      ],
+      "answer": "Nyumbani kwa Ibrahimu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Ibrahimu akawa mfalme",
+        "Ibrahimu alijenga Kaaba",
+        "Sara alimzaa Isaka na watu wa Lutu wakaangamizwa",
+        "Ibrahimu alihamia Palestina",
+        "Watu wa Ibrahimu waliokolewa kutokana na gharika kubwa"
+      ],
+      "answer": "Sara alimzaa Isaka na watu wa Lutu wakaangamizwa"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

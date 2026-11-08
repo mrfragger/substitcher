@@ -1,0 +1,61 @@
+{
+  "title": "O Teste da Criatura Sagrada",
+  "intro": "Um sinal foi enviado a uma nação que havia se desviado do caminho. Em meio às suas vidas confortáveis, surgiu um aviso — acompanhado por uma criatura extraordinária que se tornaria o teste final de sua fé. A resposta deles selaria seu destino para sempre. Você consegue descobrir quem entregou esse aviso e o que aconteceu com aqueles que o rejeitaram?",
+  "clues": [
+    "Éramos um povo que havia sido guiado por mensageiros anteriores a nós.",
+    "Uma criatura magnífica emergiu da montanha, um sinal de nosso Senhor para esta nação.",
+    "Eu lhes disse: 'Esta é uma camela que pertence a Alá, então deixem-na comer da terra de Alá e não a machuquem.'",
+    "Mas o povo cortou os tendões da minha camela, desobedecendo à ordem de seu Senhor.",
+    "Sou apenas um mensageiro do teu Senhor, enviado com a verdade; sou um profeta e servo fiel.",
+    "Quanto aos malfeitores, nosso Senhor os atingiu com um estrondo, e eles ficaram imóveis em suas casas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Hud do povo de A'ad",
+        "Profeta Salih do povo de Thamud",
+        "Profeta Shu'aib de Midiã",
+        "Profeta Ló, do povo de Sodoma",
+        "Profeta Noé da Arca"
+      ],
+      "answer": "Profeta Salih do povo de Thamud"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O dilúvio que afogou uma nação incrédula",
+        "O terremoto que destruiu uma cidade pecadora",
+        "A camela foi enviada como sinal e teste divino.",
+        "A tempestade que castigou o povo de Midiã.",
+        "A destruição do povo de Ló com pedras"
+      ],
+      "answer": "A camela foi enviada como sinal e teste divino."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A cidade de Sodoma no Vale do Jordão",
+        "O vale de Al-Hijr entre Hijaz e a Síria.",
+        "A antiga terra de A'ad, no sul da Arábia.",
+        "As florestas de Midiã, perto do Mar Vermelho.",
+        "As planícies do Monte Judi na Mesopotâmia"
+      ],
+      "answer": "O vale de Al-Hijr entre Hijaz e a Síria."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Eles foram salvos após se arrependerem e crerem.",
+        "Uma chuva de pedras os destruiu completamente.",
+        "Um som estrondoso os deixou imóveis.",
+        "Eles foram levados por um vento violento.",
+        "Um terremoto os engoliu para dentro da terra."
+      ],
+      "answer": "Um som estrondoso os deixou imóveis."
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

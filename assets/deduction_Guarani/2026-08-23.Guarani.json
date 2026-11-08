@@ -1,0 +1,61 @@
+{
+  "title": "Pe Multitud Okañýva",
+  "intro": "Peñembo’y umi eco renondépe peteĩ comunidad hembiasakue ojehaíva ola-pe. Ko’ã ánga ohendu peteĩ ñehenói, oiporavo desafio ha ombohovái peteĩ consecuencia omohenda jeýva ko yvy. Mávapa haʼekuéra, ha mbaʼépa oiko imúndogui?",
+  "clues": [
+    "Yma roikove, ha ou oréve peteĩ mensajero ore apytégui.",
+    "Roadora cinco taʼanga ha ndorohejaséi umíva.",
+    "Roñembohory pe mensahérore ha roakusa chupe okañyha.",
+    "Rojerúre ogueru haguã castigo añete ramo.",
+    "Rohecha yvága oky ha pe yvy osẽ yvu.",
+    "Rojupi umi lugár ijyvatehápe rokañy hag̃ua, péro umi oláda orejagarra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mávapa Ñande?",
+      "options": [
+        "Tavayguakuéra Nuh",
+        "Tapichakuéra 'Ad",
+        "Tavayguakuéra Támud-gua",
+        "Tavayguakuéra Lut-gua",
+        "Tavayguakuéra Madyan-gua"
+      ],
+      "answer": "Tavayguakuéra Nuh"
+    },
+    "trial": {
+      "label": "Juicio/Evento rehegua",
+      "options": [
+        "Roñembohypa peteĩ ama guasu guasúpe",
+        "Roñehundi peteĩ huracán rupive",
+        "Rojuka peteĩ explosión hatã rupive",
+        "Ñande ningo ñanemokõ pe yvy",
+        "Rojejapi ita yvágagui"
+      ],
+      "answer": "Roñembohypa peteĩ ama guasu guasúpe"
+    },
+    "location": {
+      "label": "Elemento Clave rehegua",
+      "options": [
+        "Peteĩ ama guasu",
+        "Yvytu hatã",
+        "Peteĩ ita guasu",
+        "Peteĩ ryguasu rupi’a",
+        "Peteĩ yvyryrýi"
+      ],
+      "answer": "Peteĩ ama guasu"
+    },
+    "outcome": {
+      "label": "Sẽ",
+      "options": [
+        "Opavave ñañehundi ndaha’éiramo umi ogueroviáva Nuh ndive",
+        "Roñemoambuékuri mono-pe",
+        "Ropyta ruina ramo umi oviahávape ĝuarã",
+        "Ore roñekonverti juky-pe",
+        "Oñeme’ẽ oréve pytu’u"
+      ],
+      "answer": "Opavave ñañehundi ndaha’éiramo umi ogueroviáva Nuh ndive"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

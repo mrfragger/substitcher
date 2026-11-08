@@ -1,0 +1,61 @@
+{
+  "title": "El Esplendor Humedecido",
+  "intro": "Kaypi yuyaykuy: sumaq p’achawan p’achasqa alma, mana yuyaykuy atina qhapaq kaykunawan muyurisqa. Kay sapan runaqa iñirqanmi qhapaq kayninku kikin k’anchariyninwan ganasqa kasqanpi, manan hayk’aqpas reqsikurqanchu cheqaq mikhuypa maymanta hamusqanmanta. Atiyniyoq profetaq qatikuqninkuna ukhupi purispa, kay runaqa mana munarqanchu huch’uyyaykukuyman sapa waqyakuyta. Kunanqa, huk runaq kaynintan sut’inchanchis, paypa sumaq qhapaq kayninmi qhepa samasqanku wasiman tukupurqan.",
+  "clues": [
+    "Ñoqaqa kawsarqanim huk profetapa tiemponpi, paymi huk rumi sonqo nacionta cheqapman qayachirqa.",
+    "Akllasqa llaqtapin karqani, chaywanpas sonqoymi chay willakuymanta karunchakurqan.",
+    "Quri qullqipas astawanmi hapiwarqa Diospa ima kamachikuyninmantapas.",
+    "Tesoro waqaychanaykunaqa hatunmi wiñarqan, chaymi huk kallpasapa t’aqa runakuna llavekunataqa yaqapaschá hoqariyta atirqanku.",
+    "Ñoqaqa hatunchakurqanin qhapaq kayniyqa kikiypa yachasqayrayku qowasqanmanta.",
+    "Tukuyninpiqa, ñuqapas, lliw tiyasqaypas, kay pachawan millp’usqa karqani, huk advertencia hina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Qarun",
+        "Aman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul) sutiyuq runa."
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Qhapaq kaymanta hatunchakuynin, munakuy mana munay ima",
+        "Chullusqa joyakunamanta quri idolota forjaspa",
+        "Atiyniyoq reino patapi dios kayninta willaspa",
+        "Makkah llaqtapi ñawpaq iñiqkunata qatiykachay",
+        "Sagrado Wasita thuñichinapaq campañata umallispa"
+      ],
+      "answer": "Qhapaq kaymanta hatunchakuynin, munakuy mana munay ima"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Achka kallpasapa runakunapa llavenkuna llasaq tesorokuna",
+        "Qurimanta torillo, t’uqyachiq",
+        "Karu suyumanta sumaq qhapaq tiyana",
+        "Nina rawraqwan hunt’asqa zanja",
+        "Awqa elefantekunapa kallpasapa ejerciton"
+      ],
+      "answer": "Achka kallpasapa runakunapa llavenkuna llasaqyachiq tesorokuna"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Allpawan millp’usqa tiyaywan kuska",
+        "Huk ejercitowan kuska lamar qochapi unupi chinkaykusqa",
+        "Nina uchkupi kawsachkaqta ruphachisqa",
+        "Waqaq, sinchi wayrawan chinkachisqa",
+        "Huklla kallpasapa phataywanmi urmachisqa"
+      ],
+      "answer": "Allpawan millp’usqa tiyaywan kuska"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

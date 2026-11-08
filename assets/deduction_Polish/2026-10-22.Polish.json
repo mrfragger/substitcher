@@ -1,0 +1,61 @@
+{
+  "title": "Wspólnota Pierwszego Wykroczenia",
+  "intro": "W krainie starożytnych miast, pewien lud niegdyś prosperował. Odwiedził ich posłaniec z jasnym wezwaniem, jednak odwrócili się i podążyli ścieżką, którą nikt nigdy nie kroczył. Ich historia to opowieść o nieposłuszeństwie, zepsuciu i karze, która opuściła ich ojczyznę jako znak dla wszystkich, którzy się nad tym zastanawiają. Kim są te dusze?",
+  "clues": [
+    "Mieszkaliśmy w miastach na równinie, gdzie nasz prorok wzywał nas do prawości.",
+    "Byliśmy pierwszymi, którzy dopuścili się czegoś tak nieprzyzwoitego, czego nie zrobił nikt przed nami.",
+    "Napadaliśmy na podróżnych i otwarcie dopuszczaliśmy się zła w czasie naszych zgromadzeń.",
+    "Odrzuciliśmy posłańca, który do nas przyszedł, i zagroziliśmy, że wypędzimy go z naszej ziemi.",
+    "Pobiegliśmy do jego domu, żądając, aby oddał nam swoich gości.",
+    "Naszą karą był deszcz kamieni, a nasze miasto wywróciło się do góry nogami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ludzie Lutu",
+        "Ludzie Nuh",
+        "Ludzie z „Ad”",
+        "Ludzie z Thamud",
+        "Ludzie Madyanu"
+      ],
+      "answer": "Ludzie Lutu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Dopuścił się pierwszego aktu sodomii",
+        "Czczone bożki",
+        "Oszukany w handlu",
+        "Zabili swojego proroka",
+        "Nie posłuchali rodziców"
+      ],
+      "answer": "Dopuścił się pierwszego aktu sodomii"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Miasto na równinie",
+        "Miasto studni",
+        "Miasto rowu",
+        "Miasto słonia",
+        "Miasto ogrodu"
+      ],
+      "answer": "Miasto na równinie"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Obsypany kamieniami i przewrócony",
+        "Utopiony przez powódź",
+        "Zniszczony przez gwałtowny wiatr",
+        "Pochłonięty przez ziemię",
+        "Uderzony głośnym wybuchem"
+      ],
+      "answer": "Obsypany kamieniami i przewrócony"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Az első bűn közössége",
+  "intro": "Az ősi városok földjén élt egy nép valaha. Egy hírvivő látogatta meg őket egyértelmű hívással, mégis elfordultak, és egy olyan utat követtek, amelyen még senki sem járt. Történetük a dacról, a romlottságról és a büntetésről szól, amely jelként hagyta el hazájukat mindazok számára, akik elgondolkodnak rajta. Kik ezek a lelkek?",
+  "clues": [
+    "A síkság városaiban éltünk, ahol prófétánk igazságra hívott minket.",
+    "Mi voltunk az elsők, akik olyan szemérmetlenséget követtünk el, amit azelőtt senki a világon nem tett.",
+    "Úton lévő utazókat támadtunk meg, és nyíltan gonoszságot követtünk el összejöveteleinken.",
+    "Elutasítottuk a hozzánk küldött hírvivőt, és azzal fenyegettük, hogy kiűzzük őt országunkból.",
+    "Rohantunk a házához, követelve, hogy adja át nekünk a vendégeit.",
+    "Büntetésünk kőeső volt, és városunk a feje tetejére állt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Lut népe",
+        "Nuh népe",
+        "'Ad emberei",
+        "Thamud népe",
+        "Madyan népe"
+      ],
+      "answer": "Lut népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Elkövette az első szodómiai cselekedetet",
+        "imádott bálványok",
+        "Csalás a kereskedelemben",
+        "Megölték a prófétájukat",
+        "Engedetlenek voltak a szüleik iránt"
+      ],
+      "answer": "Elkövette az első szodómiai cselekedetet"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A síkság városa",
+        "A kút városa",
+        "Az árok városa",
+        "Az elefánt városa",
+        "A kert városa"
+      ],
+      "answer": "A síkság városa"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Kőesőben esett és felborult",
+        "Árvíz fulladt el",
+        "Egy heves szél pusztította el",
+        "Elnyelte a föld",
+        "Hangos robbanás érte"
+      ],
+      "answer": "Kőesőben esett és felborult"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

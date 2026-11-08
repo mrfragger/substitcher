@@ -1,0 +1,61 @@
+{
+  "title": "Te Tangata i Peia i te Māra",
+  "intro": "I noho tētahi mea ngaro i roto i ngā taumata teitei o te ao hanga, he mea tata atu ki te Atua i tā te tini e taea te whakaaro. Heoi, ka pū te whakapehapeha, ā, kotahi noa te mahi whakakeke i whakarerekē i te huarahi o te ao. Ināianei, ka kopikopiko tēnei mea hei hoariri, e kōrero pōhewa ana, e whakatakoto mahere ana kia tae mai rā anō tētahi rā kua oatitia. Ka taea e koe te hura i te tuakiri o tēnei tangata kua hinga?",
+  "clues": [
+    "I roto ahau i te hunga i tata rawa ki te aroaro o te Atua i mua, i whakanekehia ake ki runga ake i te nuinga o ngā mea hanga.",
+    "I hangaia ahau i te mea werawera, ehara i te mea i hangaia i te oneone, i te uku rānei.",
+    "I te whakahauatanga kia piko ki mua i tētahi mea hou, i whakakahore ahau — i akiakihia e taku i whakapono ai ko tōku ake hiranga.",
+    "I peia ahau, i kanga, engari i tukuna mai he wā whakatā kia tae rā anō ki tētahi wā kua whakaritea.",
+    "I oati ahau ki te arahi ke i te tini o te tangata e taea e au, me te whakatata atu ki te uri o Arama i nga taha katoa.",
+    "Ko ahau te hoariri tuwhera o te tangata katoa, e whakatakoto whakaaro ana, e kōrero hāhā ana, ā, tae noa ki te mutunga kua whakaritea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Hāmiri",
+        "Poropiti a Iria",
+        "Āpu Rāhapi"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Whakamātautau / Takahanga",
+      "options": [
+        "Te kore e piko ki mua i a Ātama",
+        "Te hanga i tētahi kuao kau koura hei karakia mā te iwi",
+        "Te whakaako i te makutu ki te iwi o Papurona",
+        "Te wehewehe i te moana ki te tokotoko",
+        "Te amo i te torona o te Kuīni o Hepa i roto i te wā poto"
+      ],
+      "answer": "Te kore e piko ki mua i a Ātama"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Māra o Ētene",
+        "Maunga o Tur",
+        "Te puna o Rass",
+        "Te whare o Parao",
+        "Te ana o te hunga moe"
+      ],
+      "answer": "Te Māra o Ētene"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Ka tukuna he okiokinga tae noa ki te Rā Whakawa",
+        "I toremi ki te moana me te ope taua",
+        "I tanumia oratia i raro i te whare kingi e hinga ana",
+        "Kua hurihia hei makimaki, hei makimaki rānei",
+        "Kua ara ake ki tētahi tūranga teitei ake"
+      ],
+      "answer": "Ka tukuna he okiokinga tae noa ki te Rā Whakawa"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

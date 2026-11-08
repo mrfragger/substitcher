@@ -1,0 +1,61 @@
+{
+  "title": "Dëshira në Dhomën e Shenjtë",
+  "intro": "Hyn në shenjtëroren e qetë dhe sheh një shërbëtor të përkushtuar të Allahut duke qëndruar në lutje. Duart e tyre janë ngritur, sytë e tyre janë ngritur dhe zemra e tyre mbart një mall që ka zgjatur një jetë. Kush është ky shpirt i duruar, besimi i të cilit në Allahun nuk është lëkundur kurrë?",
+  "clues": [
+    "Kalova shumë vite në adhurim dhe lutje, duke qenë dëshmitar i mrekullive që ma forcuan besimin.",
+    "Më u dha përgjegjësia për t'u kujdesur për një shpirt të ri të bekuar në shenjtërore.",
+    "Ndërsa u plaka, hidhërimi im më i madh ishte se nuk kisha fëmijë, sepse gruaja ime ishte shterpë dhe të dy ishim të moshuar.",
+    "Iu luta Zotit tim për një pasardhës nga familja ime, dikë që do të vazhdonte trashëgiminë e profetësisë.",
+    "Ndërsa qëndroja në vendin e lutjes, engjëjt më thirrën duke thënë: “Allahu të jep lajmin e mirë”, dhe më pushtoi frika dhe habia.",
+    "Më thanë se do të kisha një djalë me emrin Jahja, një emër që nuk i ishte vënë kurrë askujt më parë, dhe si shenjë se nuk do të flisja me njerëz për tre ditë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Zekerija",
+        "Profeti Jahja",
+        "Profeti Isa",
+        "Profeti Davud",
+        "Lukmani i Urti"
+      ],
+      "answer": "Profeti Zekerija"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Steriliteti dhe pleqëria, ndërsa dëshirohet një trashëgimtar i drejtë",
+        "Duke u hedhur në një zjarr të ndezur",
+        "Të gëlltitur nga një peshk i madh",
+        "Humbja e një mbretërie ndaj një tiranit",
+        "Të jesh i dëbuar nga atdheu"
+      ],
+      "answer": "Steriliteti dhe pleqëria, ndërsa dëshirohet një trashëgimtar i drejtë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Vendi i lutjes (mihrab)",
+        "Anija e madhe (Ark)",
+        "Shkurre që digjet",
+        "Shkopi që u shndërrua në gjarpër",
+        "Deveja e Allahut"
+      ],
+      "answer": "Vendi i lutjes (mihrab)"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I dha një bir të drejtë dhe foli përsëri pas tre ditësh heshtjeje",
+        "Shkatërrohet nga një përmbytje për shkak të mosbesimit",
+        "Duke pasur parasysh një mbretëri të gjerë dhe kontroll mbi erën",
+        "I nxjerrë nga barku i një peshku",
+        "Gëlltitur nga toka"
+      ],
+      "answer": "I dha një bir të drejtë dhe foli përsëri pas tre ditësh heshtjeje"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

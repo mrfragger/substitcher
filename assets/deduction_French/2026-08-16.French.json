@@ -1,0 +1,61 @@
+{
+  "title": "La voix silencieuse dans la chambre",
+  "intro": "Il y a fort longtemps, dans le silence d'une chambre sacrée, une prière résonna, jaillissant d'une âme vieillissante aspirant à ce que le monde avait déclaré impossible. Cet homme, âgé et accablé par l'inquiétude de l'avenir, se tourna vers son Seigneur dans une supplication personnelle. Ce qui suivit fut une réponse divine qui défia toute attente – un témoignage de la miséricorde de Celui qui répond à l'appel désespéré.",
+  "clues": [
+    "Je me suis recueilli en privé devant mon Seigneur, me retirant dans une chambre où je me suis consacré à son culte.",
+    "J’ai avoué à mon Seigneur que je craignais pour ceux qui viendraient après moi, que j’étais inquiet pour la conduite de mon peuple une fois que je serais parti.",
+    "La vieillesse m'avait rattrapé : mes os s'étaient affaiblis et des cheveux blancs avaient envahi mon crâne.",
+    "Mon épouse était restée stérile toute sa vie, et pourtant j'ai quand même demandé à mon Seigneur de m'accorder un héritier issu de Sa présence.",
+    "J'ai demandé un signe, et mon Seigneur m'a répondu en m'empêchant de parler à qui que ce soit pendant trois nuits, alors que je restais physiquement indemne.",
+    "On m'avait promis un fils qui s'appellerait Yahya, un nom que mon Seigneur déclara n'avoir jamais été donné auparavant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Zakariya",
+        "Prophète Noé",
+        "Le prophète Moïse",
+        "Prophète Yusuf",
+        "Prophète Dawud"
+      ],
+      "answer": "Prophète Zakariya"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Prier pour avoir un héritier à un âge avancé avec un conjoint stérile",
+        "Être jeté dans un feu ardent",
+        "Être avalé par un grand poisson dans l'obscurité",
+        "Endurer la perte de la famille, des biens et de la santé",
+        "Recevoir l'ordre de construire une grande arche"
+      ],
+      "answer": "Prier pour avoir un héritier à un âge avancé avec un conjoint stérile"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La chambre de prière (mihrab)",
+        "Un bâton qui se transformait en serpent",
+        "Une grande arche en bois",
+        "Un jardin avec une source unique",
+        "Une montagne où les oiseaux se rassemblaient"
+      ],
+      "answer": "La chambre de prière (mihrab)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Elle a obtenu un fils au nom miraculeux malgré son âge très avancé.",
+        "Sauvé des flammes par la volonté divine",
+        "Un grand déluge a détruit les incrédules",
+        "Retrouvailles familiales, financières et sanitaires après une longue attente",
+        "Pharaon et son armée se sont noyés dans la mer"
+      ],
+      "answer": "Elle a obtenu un fils au nom miraculeux malgré son âge très avancé."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

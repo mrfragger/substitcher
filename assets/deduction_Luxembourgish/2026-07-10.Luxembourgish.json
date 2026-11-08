@@ -1,0 +1,61 @@
+{
+  "title": "Den Träger vun den néng Zeeche",
+  "intro": "Eng Figur ass aus dem bescheidensten Ufank opgestan, mat engem Schicksal, dat am göttleche Wëlle geschriwwe gouf. Verstoppt an der Kandheet an opgewuess an de Mauere vum selwechte Herrscher, deen hiert Vollek zerstéiere wollt, gouf dës Séil schliisslech zu enger mächteger Missioun geruff. Ausgestatt mat näischt ausser Glawen an engem bescheidenen Hiertstaff, stoungen si virum mächtegsten Herrscher vun der Zäit a fuerderen d'Fräiheet fir déi, déi versklavt waren. D'Welt selwer schéngt sech op hirem Kommando ze beweegen - d'Waasser hunn sech opent, den Himmel huet geschwat, an e Kinnekräich ass gefall.",
+  "clues": [
+    "Meng éischt Deeg ware vun Angscht geprägt - Puppelcher wéi ech goufen bei der Gebuert vun engem gnadenlose Herrscher gejot, deen virun der Zukunft gefaart huet.",
+    "Ech gouf vum Waasser gerett an am Palais vum selwechte Herrscher opgewuess, deen meng Zerstéierung wollt.",
+    "Ech sinn no engem plëtzlechen Tëschefall aus menger Heemecht geflücht a sinn en demütegen Hiert an engem wäitem Land ginn.",
+    "Ech sinn zréckgaangen, fir deem mächtege Herrscher mat engem einfache Staff an enger kloerer Botschaft ze konfrontéieren, an där ech d'Fräiheet vu mengem Vollek gefuerdert hunn.",
+    "Ech hunn e grousst Waasserkierper fir déi gedeelt, déi mir gefollegt sinn, an hunn zougekuckt, wéi d'Waasser mäi Feind ganz verschléckt huet.",
+    "Ech sinn op en hellege Bierg geklommen, fir göttlech Leedung vun Allah ze kréien, an ech krut néng kloer Zeeche als Beweis vun der Wourecht."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Yusuf",
+        "Prophet Lut"
+      ],
+      "answer": "Prophet Musa"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "De Pharao viru sengem Haff konfrontéieren",
+        "D'Ark bauen fir eng grouss Iwwerschwemmung ze iwwerliewen",
+        "Vun den Idolmécher an e flammend Feier gehäit ginn",
+        "Vun menge Bridder an en déiwe Brunn erofgelooss ginn",
+        "Versichen, meng Leit vum immorale Verhalen ofzehalen"
+      ],
+      "answer": "De Pharao viru sengem Haff konfrontéieren"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Staff, deen sech an eng Schlaang verwandelt huet",
+        "D'Ark vum Nuh",
+        "Den Troun vum Bilqis",
+        "De Rank, deen de Wand an d'Djinn kontrolléiert huet",
+        "Schlësselen zu sou schwéiere gesécherte Schätz"
+      ],
+      "answer": "De Staff, deen sech an eng Schlaang verwandelt huet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Huet mäi Vollek iwwer getrennte Gewässer an d'Fräiheet gefouert",
+        "Gouf virun enger grousser Iwwerschwemmung an enger Ark gerett",
+        "No schwéierem Leed ass d'Gesondheet an d'Famill erëm hiergestallt ginn",
+        "Gouf lieweg aus engem grousse Fësch erausgehäit",
+        "D'Fundamenter vum Hellegen Haus gebaut"
+      ],
+      "answer": "Huet mäi Vollek iwwer getrennte Gewässer an d'Fräiheet gefouert"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

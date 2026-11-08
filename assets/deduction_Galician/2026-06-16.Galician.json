@@ -1,0 +1,61 @@
+{
+  "title": "A voz que chamou á xustiza",
+  "intro": "Na antiga terra de Madián, onde florecía o comercio e as caravanas percorrían vastos desertos, un profeta de Alá xurdiu entre a xente que se desviara do camiño da xustiza. Este servo de Alá foi enviado cunha misión divina que poñería a proba a fe de toda unha comunidade. Mediante probas de paciencia e perseveranza, esta alma mantívose firme ao dar unha advertencia que resoaría ao longo da historia. Podes desentrañar o misterio deste mensaxeiro firme?",
+  "clues": [
+    "Fun escollido por Alá para guiar a un pobo que esquecera os principios da xustiza e a honestidade nos seus tratos.",
+    "Entreguei unha mensaxe chamando á miña comunidade a non adorar a ninguén máis que a Alá e a falar con verdade en todos os asuntos.",
+    "Advertin especificamente contra a práctica corrupta de consumir riqueza por medios ilegais e salientei a importancia de pesos e medidas xustos.",
+    "O meu pobo respondeu ás miñas advertencias con burla, ameazando con expulsarme da súa terra se continuaba coa miña mensaxe.",
+    "Seguín firme na miña misión a pesar da súa hostilidade, declarando que a miña recompensa é só con Alá.",
+    "O meu pobo foi apoderado dun castigo devastador mentres que eu fun salvado pola misericordia do meu Señor, xa que a miña misión foi cumprida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Shu'aib",
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Lut",
+        "Profeta Mahoma (paix sobre el)"
+      ],
+      "answer": "Profeta Shu'aib"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Enfrontarse a un pobo que rexeitou a verdade e ameazou con castigo por transmitir a mensaxe de Alá",
+        "Presenciar o Gran Diluvio que destruíu os incrédulos dunha nación",
+        "Recibir revelación mentres viaxaba polo val de 笃",
+        "A proba da fe cando un gobernante opresor intentou silenciar a chamada ao monoteísmo",
+        "Unha nación que pide choiva durante unha grave seca despois de anos de desobediencia"
+      ],
+      "answer": "Enfrontarse a un pobo que rexeitou a verdade e ameazou con castigo por transmitir a mensaxe de Alá"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A terra de Madián, onde o meu pobo levaba a cabo o seu comercio",
+        "A cuberta dun gran barco que salvou os crentes dunha inundación catastrófica",
+        "Unha cova nunha montaña rochosa onde sete mozos buscaron refuxio da persecución",
+        "A cidade sagrada de Xerusalén onde me levaron nunha viaxe nocturna",
+        "Un palacio en Saba onde un gran reino se preparaba para presenciar un sinal divino"
+      ],
+      "answer": "A terra de Madián, onde o meu pobo levaba a cabo o seu comercio"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O meu pobo sufriu un castigo terrible mentres eu estaba salvado, porque cumprín co meu deber para con Alá.",
+        "Os incrédulos convertéronse en simios ao violar os límites sagrados de Alá",
+        "Os meus inimigos abrazaron a fe despois de presenciar unha transformación milagrosa",
+        "A terra foi bendicida con abundante choiva e prosperidade despois de que o pobo se arrepentise",
+        "Fun martirizado polo meu propio pobo por negarme a abandonar a miña misión"
+      ],
+      "answer": "O meu pobo sufriu un castigo terrible mentres eu estaba salvado, porque cumprín co meu deber para con Alá."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

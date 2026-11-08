@@ -1,0 +1,61 @@
+{
+  "title": "Der unerschütterliche Patient Eins",
+  "intro": "In der Geschichte der Propheten haben nur wenige Menschen solch tiefgreifende Verluste und körperliche Leiden mit unerschütterlichem Glauben ertragen. Die Geschichte dieser Gestalt ist eine zeitlose Lektion in Geduld und Vertrauen in die göttliche Weisheit. Wer ist diese Seele?",
+  "clues": [
+    "Ich wurde von Allah auserwählt, eine Botschaft zu überbringen, doch meine größte Prüfung kam nicht durch Ablehnung, sondern durch persönliches Unglück.",
+    "Mein Vermögen, mein Vieh und meine Kinder wurden mir nacheinander genommen.",
+    "Mein Körper war voller Wunden, und ich war auf mich allein gestellt, abgesehen von der Unterstützung meines Ehepartners.",
+    "Ich rief zu meinem Herrn, bekannte mein Leid und bat um seine Barmherzigkeit.",
+    "Mir wurde gesagt, ich solle mit dem Fuß auf den Boden treten, und eine erfrischende Quelle entsprang.",
+    "Allah hat meine Gesundheit wiederhergestellt und mir eine neue Familie und sogar noch mehr Reichtum geschenkt, als ich zuvor besessen habe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ayyub",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Isa",
+        "Prophet Nuh"
+      ],
+      "answer": "Prophet Ayyub"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Verlust von Vermögen und Familie",
+        "Ins Feuer geworfen werden",
+        "Von einem Fisch verschluckt werden",
+        "Von der Familie getrennt und in die Sklaverei verkauft werden",
+        "Wird mit einem goldenen Kalb getestet"
+      ],
+      "answer": "Verlust von Vermögen und Familie"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine Wasserquelle",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Eine hölzerne Arche",
+        "Ein geschmolzenes Kalb",
+        "Eine Palme"
+      ],
+      "answer": "Eine Wasserquelle"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wiederherstellung von Familie und Vermögen",
+        "Himmelfahrt",
+        "König werden",
+        "Von einem Wal gerettet werden",
+        "Einen Sohn im hohen Alter bekommen"
+      ],
+      "answer": "Wiederherstellung von Familie und Vermögen"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

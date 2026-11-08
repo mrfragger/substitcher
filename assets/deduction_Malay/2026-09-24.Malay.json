@@ -1,0 +1,61 @@
+{
+  "title": "Raja Yang Menuntut Ketuhanan",
+  "intro": "Seorang pemerintah yang berkuasa dan sombong percaya tiada siapa yang berdiri di atas takhta mereka. Mereka mengejar sekumpulan orang yang melarikan diri merentasi perairan yang luas, hanya untuk menemui ajal yang dramatik. Kisah pemerintah ini bergema di banyak petikan al-Quran, sebagai amaran kepada semua.",
+  "clues": [
+    "Saya seorang pemerintah yang berkuasa yang percaya tiada kuasa yang melebihi kuasa saya sendiri di tanah yang saya perintah.",
+    "Saya mempunyai seorang wazir yang dipercayai bernama Haman yang membantu saya menjalankan projek-projek seni bina yang besar.",
+    "Aku memanggil ahli sihir terbaik di negeriku untuk mencabar tanda-tanda seorang utusan yang menentangku.",
+    "Aku enggan membiarkan orang yang diperhambakan di dalam wilayahku pergi, meskipun terdapat wabah dan peringatan yang jelas.",
+    "Aku mengejar mereka merentasi lautan yang luas dengan seluruh tentera dan kereta kudaku.",
+    "Laut itu menutupi aku dan pasukanku, menenggelamkan kami semua, sementara mereka menyeberang dengan selamat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Firaun",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahal"
+      ],
+      "answer": "Firaun"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Wabak dan konfrontasi dengan Musa (Musa)",
+        "Membina bahtera sebelum banjir besar",
+        "Pertempuran menentang Jalut di lembah",
+        "Ditelan ikan paus",
+        "Mempertahankan pemberat perdagangan yang jujur"
+      ],
+      "answer": "Wabak dan konfrontasi dengan Musa (Musa)"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Menara dan pancang yang tinggi",
+        "Sebuah bahtera kayu yang besar",
+        "Anak lembu emas",
+        "Tongkat yang bertukar menjadi ular",
+        "Seekor ikan paus yang besar"
+      ],
+      "answer": "Menara dan pancang yang tinggi"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Lemas di laut bersama tentera",
+        "Diselamatkan oleh rahmat Allah dan kesabaran dibalas dengan ganjaran",
+        "Bersatu semula dengan keluarga selepas bertahun-tahun susah payah",
+        "Ditelan bumi",
+        "Terbakar dalam api"
+      ],
+      "answer": "Lemas di laut bersama tentera"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

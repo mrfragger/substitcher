@@ -1,0 +1,61 @@
+{
+  "title": "Az Uralkodó, aki bejárta a Föld végét",
+  "intro": "Képzelj el egy hatalmas uralkodót, akinek erőt és hatalmat adott az ország felett. Ez a személy rendkívüli utakra indult, elérte a napnyugtát és a napkeltét, idegen népekkel találkozott, és két korrupt nemzet hatalmas kihívásával nézett szembe. Ki ez a rejtélyes vezető?",
+  "clues": [
+    "Egy olyan uralkodó voltam, akinek hatalmat és eszközöket adtak ahhoz, hogy elérjem a föld legtávolabbi szegleteit.",
+    "Nyugat felé utaztam, és láttam a naplementét egy zavaros tavaszi napon.",
+    "A felkelő nap közelében olyan emberekkel találkoztam, akiknek nem volt menedékük a heve elől.",
+    "Egy másik közösség kért tőlem segítséget két romlott nemzet, Góg és Magóg ellen.",
+    "Vasból és olvasztott rézből építettem egy gátat, hogy elfogjam őket.",
+    "Kijelentettem, hogy ez a korlát az Úr kegyelme, és a meghatározott időig megmarad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Szulejmán próféta",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Gátat építeni Góg és Magóg ellen",
+        "Túlélni egy nagy árvizet",
+        "Tűzbe dobva",
+        "Átkelés a tengeren",
+        "Egy óriással harcolva"
+      ],
+      "answer": "Gátat építeni Góg és Magóg ellen"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Vas és réz gátja",
+        "Egy bot, ami kígyóvá változott",
+        "Egy fából készült hajó",
+        "Egy üvegpalota",
+        "Datolyapálmák kertje"
+      ],
+      "answer": "Vas és réz gátja"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Gógot és Magógot a meghatározott időig fogva tartották",
+        "Prófétává vált",
+        "Megbüntették arroganciáért",
+        "Meghódította az egész világot",
+        "Örökké élt"
+      ],
+      "answer": "Gógot és Magógot a meghatározott időig fogva tartották"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

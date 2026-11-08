@@ -1,0 +1,61 @@
+{
+  "title": "Déi roueg Stëmm vum Dall",
+  "intro": "Maacht e Schrëtt zeréck an d'Zäit zu engem mächtege Vollek, dat eemol e liewegt Wonner als Test krut. Arroganz a Sturheet hunn hiert Schicksal versiegelt. Kënnt Dir d'Geschicht verfollegen an erausfannen, wat sech an dësem dramatesche Wendepunkt ofgespillt huet?",
+  "clues": [
+    "Ech gouf als göttlech Prüfung un e mächtegt Vollek geschéckt, dat fir hir Kraaft a Widderstand bekannt ass.",
+    "Ech war e ganz besonnescht Wonner – sou een ewéi ech war nach ni ënnert hinne virkomm.",
+    "Ech hunn all Dag mat menge Leit Drénkwaasser aus engem Brunn gedeelt.",
+    "Si goufen gewarnt, datt all Schued géint mech eng séier Strof géif bréngen.",
+    "Déi Couragéiertst vun hinnen hunn d'Warnung ignoréiert a mech festgehalen.",
+    "No mengem Doud huet een eenzegen Donnerschrei vun uewen mäi ganzt Vollek zerstéiert."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Kamelfra vum Salih",
+        "D'Kou vum Musa",
+        "D'Schëff vum Nuh",
+        "D'Mataarbechter vum Musa",
+        "Den Troun vum Bilqis"
+      ],
+      "answer": "D'Kamelfra vum Salih"
+    },
+    "trial": {
+      "label": "Mäi Schicksal",
+      "options": [
+        "Verstoppt an ëmbruecht",
+        "Als Affer geschluecht",
+        "An eng Schlaang transforméiert",
+        "Duerch eng grouss Iwwerschwemmung erhalen",
+        "Séier iwwer e Kinnekräich bruecht"
+      ],
+      "answer": "Verstoppt an ëmbruecht"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Buer mat Waasser",
+        "Eng Tafel aus Steen",
+        "E brennende Busch",
+        "Eng Ark aus Holz",
+        "En Troun aus Gold a Sëlwer"
+      ],
+      "answer": "E Buer mat Waasser"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Zerstéiert duerch een eenzege Schrei",
+        "An enger grousser Iwwerschwemmung erdronk",
+        "Verbrannt duerch eng Stengschauer",
+        "Vun engem heftege Wand zerstéiert",
+        "Vun der Äerd verschléckt"
+      ],
+      "answer": "Zerstéiert duerch een eenzege Schrei"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

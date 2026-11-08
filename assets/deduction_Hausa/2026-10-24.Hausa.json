@@ -1,0 +1,61 @@
+{
+  "title": "Gargaɗin da ke Ƙarƙashin Ƙasa",
+  "intro": "Ka yi tunanin tsayawa kusa da wani zurfin rami yayin da muryoyi ke tashi daga ƙasa kuma duniyar da ke sama ta yi shiru. Alƙur'ani ya kiyaye wannan yanayi a matsayin gargaɗi: al'umma ta ƙi abin da manzanni suka kawo, hukunci ya rufe, har ma da hayaniyar ta zama wani ɓangare na shaidar. Wace ƙungiya ce ke magana ta waɗannan ayoyin?",
+  "clues": [
+    "An tuna mu a cikin Alƙur'ani a matsayin ƙungiya da aka ayyana ta hanyar ƙaddara ɗaya maimakon ta sunan mutum ɗaya.",
+    "Mun ƙi saƙon da manzanni suka kawo, duk da cewa abin da suka faɗa gaskiya ne.",
+    "An haɗa asalinmu da wani babban rami a cikin ƙasa, kuma wannan fasalin ya zama wani ɓangare na sunanmu.",
+    "A ranar da aka ƙayyade, an fito da mu aka ja mu zuwa ga wuta.",
+    "Ba mu iya kare kanmu daga hukuncin ba, kuma ba mu ji ƙararsa ba.",
+    "Fuskokinmu za su juya cikin wuta, kuma za a tura mu cikinta; idan aka yi mana tambaya, za mu ce muna cikin waɗanda ba za su iya amsawa ba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Sahabban Madatsar Ruwa",
+        "An Ceci Al'umma Daga Babban Ambaliyar Ruwa",
+        "Masu Bauta wa Ɗan Maraƙin Zinare",
+        "Ƙungiyar ta fake a cikin kogon dutse",
+        "Al'umma da aka ceto daga Tanderu Mai Wuta"
+      ],
+      "answer": "Sahabban Madatsar Ruwa"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "An ja shi aka jefa shi cikin Wuta",
+        "An ceto shi daga tanderu mai zafi",
+        "An ɗauke shi lafiya ta cikin babban ambaliyar ruwa",
+        "An yi mafaka tsawon ƙarnoni a cikin kogo",
+        "An ceto shi bayan an jefa shi cikin rijiya"
+      ],
+      "answer": "An ja shi aka jefa shi cikin Wuta"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ramin rami ko rami",
+        "Babban teku",
+        "Kogon dutse",
+        "Babban fada",
+        "Rijiyar hamada"
+      ],
+      "answer": "Ramin rami ko rami"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ba su iya kare kansu ba kuma ba su iya jin hayaniyar Wutar ba",
+        "An cece shi kuma an ba shi izinin shiga cikin lambuna na har abada",
+        "An ceto shi lafiya ta hanyar ambaliyar ruwa mai barna",
+        "An kare shi da dogon barci a cikin kogo",
+        "An girmama shi da mulki na har abada"
+      ],
+      "answer": "Ba su iya kare kansu ba kuma ba su iya jin hayaniyar Wutar ba"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

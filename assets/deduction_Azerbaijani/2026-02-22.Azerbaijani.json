@@ -1,0 +1,61 @@
+{
+  "title": "Əzab çəkən ruhun səbri",
+  "intro": "Tarix salnamələrində adı dözümlülüklə sinonim olan bir şəxsiyyət var. Bu şəxs bütün dünyəvi rahatlıqlarını itirməklə sınaqdan keçirilsə də, Yaradanın sadiq bir xidmətçisi olaraq qaldı. İllər boyu davam edən çətinliklər və fiziki xəstəliklər zamanı bu ruhun qəlbi imanla möhkəmləndi və çətinliklərlə üzləşən hər kəs üçün ümid işığı oldu.",
+  "clues": [
+    "Mən Allahın sadiq bir qulu idim, bol sərvətə, çoxlu övlada və əla sağlamlığa malik idim.",
+    "Var-dövlətimdən və ailəmdən məhrum olanda, yalnız imanımla qaldığımda həyatım dəyişdi.",
+    "Mən uzun sürən və ağrılı, insanın dözümlülüyünün həddini aşan bir xəstəliyə tutuldum.",
+    "Əzab çəkdiyim müddətdə, düşmən məni ümidsizliyə salmağa çalışsa belə, Rəbbimə qarşı şikayət etməkdən imtina etdim.",
+    "Nəhayət, Rəbbimə yalvaranda var-dövlət istəmədim, sadəcə bəlanın məni bürüdüyünü etiraf etdim.",
+    "Mənə ayağımla torpağa vurmağım deyildi və oradan bədənimi sağaltmaq və susuzluğumu yatırmaq üçün sərin su bulağından axdı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yaqub peyğəmbər",
+        "Peyğəmbər Əyyub",
+        "Zəkəriyyə peyğəmbər",
+        "Yəhya peyğəmbər",
+        "Şüeyb peyğəmbər"
+      ],
+      "answer": "Peyğəmbər Əyyub"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İllərdir davam edən ağır xəstəlik və itki",
+        "Dərin bir quyuya atılır",
+        "Nəhəng bir balıq tərəfindən udulur",
+        "Od içində bir zalımla qarşılaşmaq",
+        "Müəllim axtarışında uzun bir səyahət"
+      ],
+      "answer": "İllərdir davam edən ağır xəstəlik və itki"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dənizi iki yerə bölən bir əsa",
+        "Ev qoxusu verən bir köynək",
+        "Şəfalı su bulağında",
+        "Toz-torpaq olan bir dağ",
+        "Dərin yuxu mağarası"
+      ],
+      "answer": "Şəfalı su bulağında"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Böyük bir diyarın qubernatoru olmaq",
+        "Bir orduya qələbəyə aparan",
+        "Sağlamlığın və ailənin bərpası",
+        "Müqəddəs ibadət evi tikmək",
+        "Göydən süfrə açılır"
+      ],
+      "answer": "Sağlamlığın və ailənin bərpası"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

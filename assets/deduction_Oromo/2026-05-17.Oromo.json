@@ -1,0 +1,61 @@
+{
+  "title": "Arkiteektoota Dhagaa",
+  "intro": "Qaroomina humna guddaa qabu, kennaa humnaa fi ogummaa qabu, mana jireenyaa gurguddaa gara gaaraatti bocu yaadi. Waldaan kun badhaadhina guddaa fi dandeettii ijaarsaa adda ta’e qaba ture. Taʼus, akeekkachiisa ifa taʼe kan argatan taʼus, daandii xumura dinqisiisaa fi hin dagatamne tokkotti geessu filataniiru. Garee seenaan isaa namoota yaada isaanii calaqqisiisan hundaaf barumsa gadi fagoo ta’ee tajaajilu kana adda baasuu dandeessaa?",
+  "clues": [
+    "Humnaa fi ogummaan nuuf kennamee, manneen dinqisiisoo kallattiin gaarreen bocuu nu dandeessiseera.",
+    "Uumama adda ta’ee fi dheeduuf osoo hin jeeqamin hafuu qabu Rabbiin irraa mallattoo ifa ta’e nuuf kenname.",
+    "Hawaasni keenya ergaa waaqummaa ergamaan nu keessaa fide mormuudhaan of tuulte.",
+    "Mallattoo dinqii sana miidhuuf shira xaxne, akeekkachiisni adabbii cimaa ta'e jiraatus.",
+    "Uumamni addaa sun guyyoota wal jijjiiruun boolla keenya keessaa akka dhugu ajaja kenname mormne.",
+    "Xumura gaddisiisaa, gocha irra daddarbaa keenya booda dhohinsa tokkoon, sodaachisaa ta’een rukutamne waliin wal argine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Namoonni 'Ad",
+        "Namoota Miidiyaan",
+        "Ummata Elemoo",
+        "Ummata Thamud",
+        "Ummata Luut"
+      ],
+      "answer": "Ummata Thamud"
+    },
+    "trial": {
+      "label": "Qormaata/Taatee Keenya Guddaa",
+      "options": [
+        "Lolaan lafa liqimse",
+        "Gargar bahuun galaanaa",
+        "Dhohinsa/iyya tokkoon badiisa",
+        "Gubachuu magaalaa tokkoo",
+        "Gaara gara biyyootti jijjiiruu"
+      ],
+      "answer": "Dhohinsa/iyya tokkoon badiisa"
+    },
+    "location": {
+      "label": "Seenaa Keenya Keessatti Qaama Ijoo",
+      "options": [
+        "Re'ee warqee",
+        "Gaala dubaraa dinqisiisaa",
+        "Bosona gubaa jiru",
+        "Simbirroo haasoftu",
+        "Teessoo ulfina qabeessa"
+      ],
+      "answer": "Gaala dubaraa dinqisiisaa"
+    },
+    "outcome": {
+      "label": "Bu'aa Keenya Dhumaa",
+      "options": [
+        "Qabeenyaa fi aangoo guddaa kennameef",
+        "Gara raajiitti ol guddate",
+        "Adabbii waaqaatiin guutummaatti balleessuu",
+        "Gaabbii garaa qulqulluu booda dhiifama",
+        "Dachee irra faca'ee naanna'uuf"
+      ],
+      "answer": "Adabbii waaqaatiin guutummaatti balleessuu"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

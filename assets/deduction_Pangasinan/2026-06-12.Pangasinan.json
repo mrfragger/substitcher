@@ -1,0 +1,61 @@
+{
+  "title": "Say Mabulos a Pansakripisyo",
+  "intro": "Diad panaon na madibinon subok, say kamarerwa so tinawag ed sankatageyan a gawa na panagpasakop. Lapud binmaleg ed sakey a dalin ya anggapoy tanaman, sayan pigura et binmaleg ya mangipapatnag na pananisia tan anos. Nen ingganggan na sakey a pasingawey so pangibagat, ag-ira nanduaruwa. Say istorya ra et manunan bato na debosyon.",
+  "clues": [
+    "Siak so ebat ed abayag lan aalagaren a pikakasi na sakey a baleg a propeta.",
+    "Sikami nen nanay ko so atilak ed sakey a nisulinek a lawak a walaan labat na probisyon a petsa tan danum.",
+    "Binmaleg ak ya nagmaliw a propeta ya kabkabat ed inkamatua tan inkaanos ko.",
+    "Tinulongan koy tatay ko ya mangipaalagey na pundasyon na sagradon abung ya indedika ed si Allah.",
+    "Nen imbaga nen tatay ko so sakey a kugip to ya ibagat to ak, inmebat ak, 'Gawam so ingganggan ed sika.'",
+    "Ingalang nen Allah so panagpasakop ko diad impangibaki to na sakey a kalakian a karnero manlapud tawen pian dondonen to ak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Isma'il",
+        "Propeta Ishaq",
+        "Propeta Ya'qub",
+        "Propeta Ibrahim",
+        "Propeta Yusuf"
+      ],
+      "answer": "Propeta Isma'il"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Mabulos ya manpasakop pian isakripisyo",
+        "Say pangibantak ed mandarlang ya apoy",
+        "Say inakmon na baleg a sira",
+        "Say inlako ed inkaaripen",
+        "Say pakasubok ed graben sakit"
+      ],
+      "answer": "Mabulos ya manpasakop pian isakripisyo"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Bobon nen Zamzam",
+        "Say Kaban nen Nuh",
+        "Say Apoy nen Nimrod",
+        "Say Balitok a Baka",
+        "Say Staff nen Musa"
+      ],
+      "answer": "Bobon nen Zamzam"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Indondon na sakey a baleg a kalakian a karnero",
+        "Nisalba ed apoy",
+        "Nisalba ed delap",
+        "Inala ed balyena",
+        "Niiter so panarian tan kakabatan"
+      ],
+      "answer": "Indondon na sakey a baleg a kalakian a karnero"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

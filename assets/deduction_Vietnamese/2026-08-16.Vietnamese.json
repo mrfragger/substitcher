@@ -1,0 +1,61 @@
+{
+  "title": "Tiếng Nói Thầm Lặng Trong Căn Phòng",
+  "intro": "Từ rất lâu về trước, một lời cầu nguyện vang vọng trong sự tĩnh lặng của một căn phòng linh thiêng, xuất phát từ một tâm hồn già nua khao khát điều mà thế giới cho là không thể. Nhân vật này, tuổi đã cao và gánh nặng lo lắng về tương lai, đã hướng về Chúa với lời khẩn cầu chân thành. Điều tiếp theo là một sự đáp lại thiêng liêng vượt ngoài mọi kỳ vọng tự nhiên – một minh chứng cho lòng thương xót của Đấng đáp lại lời kêu gọi tuyệt vọng.",
+  "clues": [
+    "Tôi đã cầu nguyện riêng với Đức Chúa Trời, lui về một căn phòng và dành trọn tâm sức để thờ phụng Ngài.",
+    "Tôi thú nhận với Chúa rằng tôi lo sợ cho những người sẽ đến sau tôi, lo lắng cho sự dẫn dắt dân tộc tôi sau khi tôi ra đi.",
+    "Tuổi già đã ập đến với tôi—xương cốt tôi trở nên yếu ớt và tóc bạc đã lan khắp đầu.",
+    "Vợ tôi cả đời không thể sinh con, thế mà tôi vẫn cầu xin Chúa ban cho tôi một người thừa kế từ chính sự hiện diện của Ngài.",
+    "Tôi đã cầu xin một dấu hiệu, và Chúa đã đáp lại bằng cách ngăn cản tôi nói chuyện với bất kỳ ai trong ba đêm, trong khi thể chất của tôi vẫn khỏe mạnh.",
+    "Tôi được hứa hẹn sẽ có một người con trai tên là Yahya, một cái tên mà Thượng đế của tôi tuyên bố chưa từng được đặt cho bất kỳ ai trước đây."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Zakariya",
+        "Tiên tri Nuh",
+        "Tiên tri Musa",
+        "Tiên tri Yusuf",
+        "Tiên tri Dawud"
+      ],
+      "answer": "Tiên tri Zakariya"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Cầu nguyện xin con nối dõi khi tuổi già trong khi vợ/chồng hiếm muộn.",
+        "Bị ném vào ngọn lửa đang cháy.",
+        "Bị một con cá khổng lồ nuốt chửng trong bóng tối",
+        "Phải chịu đựng nỗi mất mát về gia đình, tài sản và sức khỏe.",
+        "Được lệnh đóng một con tàu lớn."
+      ],
+      "answer": "Cầu nguyện xin con nối dõi khi tuổi già trong khi vợ/chồng hiếm muộn."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Phòng cầu nguyện (mihrab)",
+        "Một cây gậy biến thành rắn",
+        "Một chiếc thuyền Noah bằng gỗ lớn",
+        "Một khu vườn với mùa xuân độc đáo",
+        "Một ngọn núi nơi các loài chim tụ tập"
+      ],
+      "answer": "Phòng cầu nguyện (mihrab)"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Dù tuổi đã rất cao nhưng vẫn được ban cho một đứa con trai với cái tên kỳ diệu.",
+        "Được cứu thoát khỏi đám cháy dữ dội nhờ mệnh lệnh thiêng liêng.",
+        "Một trận đại hồng thủy đã tiêu diệt những kẻ không tin.",
+        "Đã được phục hồi về gia đình, tài sản và sức khỏe sau thời gian kiên nhẫn.",
+        "Pharaoh và quân đội của ông ta đã chết đuối trên biển."
+      ],
+      "answer": "Dù tuổi đã rất cao nhưng vẫn được ban cho một đứa con trai với cái tên kỳ diệu."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo oyo euti na Zamba oyo ezali kozika",
+  "intro": "Bofungola bomoto ya moto moko ya mozindo oyo mobembo na ye ebandaki na bokutani ya likamwisi mpe oyo destin na ye ekangamaki na bonsomi ya bato oyo banyokwamaki. Moto yango aponama mpo na mosala monene, akutanaki na mikakatano minene na lisungi ya Nzambe.",
+  "clues": [
+    "Nabotamaki na eleko ya minyoko monene, epai kuna bana mike ya bato na ngai bazalaki kobomama.",
+    "Bomoi na ngai ya ebandeli esɛngaki kotya ngai na ebale moko na moboti na ngai, nzokande nazwamaki mpe nabɔkwamaki na ndako mpenza ya monyokoli ya bato na ngai.",
+    "Mokolo moko nakimaki engumba moko nsima ya koboma moto moko na nko te na ntango ya matata.",
+    "Nazwaki nsango ya bonzambe mpe lingenda ya likamwisi na esika moko ya bule, epai batindaki ngai nakutana na mokonzi moko ya nguya.",
+    "Ndeko na ngai ya mobali aponamaki lokola mosungi mpo na ngai na misio na ngai, mpo na epekiseli moko oyo emonanaki na elobeli na ngai.",
+    "Nakambaki bato na ngai na kokatisa mbu oyo ekabwanaki, mpe nakimaki kolandama ya basoda ya mobulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Yusuf",
+        "Mosakoli Yis",
+        "Mosakoli Musa",
+        "Mosakoli Nuh",
+        "Mosakoli Ibrahim"
+      ],
+      "answer": "Mosakoli Musa"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Koyika mpiko na bambula ya kokauka ya mabelé",
+        "Kotonga Sanduku",
+        "Kokutana na Farao mpe banganga-nkisi na ye",
+        "Kobwakama na litumbu ya mɔ́tɔ",
+        "Kobebisama ya bato ya Thamud"
+      ],
+      "answer": "Kokutana na Farao mpe banganga-nkisi na ye"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ba Kaaba",
+        "Efelo ya ebende",
+        "Bato ya mosala",
+        "Masuwa ya Nuh",
+        "Bague ya Sulaiman"
+      ],
+      "answer": "Bato ya mosala"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Engumba ya Sodome ekweaki",
+        "Bato bamelamaki na mabele",
+        "Mpela monene ezindaki mokili",
+        "Farao ná basoda na ye bazindaki na mai",
+        "Bifelo ya engumba ekweaki mpo na kolela"
+      ],
+      "answer": "Farao ná basoda na ye bazindaki na mai"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

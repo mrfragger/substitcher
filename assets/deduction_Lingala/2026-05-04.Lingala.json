@@ -1,0 +1,61 @@
+{
+  "title": "Architecte ya Lolendo",
+  "intro": "Na mokili ya kala oyo etambwisamaki na nguya moko ya koboya, moto moko ya ntina azalaki na esika ya bopusi. Molimo yango esalisaki mingi na mayele mabe ya mokonzi, epesaki mabɔkɔ na boyangeli na bango ya konyokola mpe kotɛmɛla nsango ya Nzambe. Libula na bango ekangami na koluka nguya ya mokili mpe koboya bosolo.",
+  "clues": [
+    "Nasalelaki mokonzi moko ya nsɔmɔ oyo azalaki konyokola bato moko na boumeli ya mabota mingi.",
+    "Nkombo na ngai elobelami mingi na Buku ya Bonzambe pembeni ya mokambi oyo ya nguya.",
+    "Bapesaki ngai mokumba monene ya botongi, ndako molai oyo esengelaki kokóma na likoló.",
+    "Napesaki nkolo na ngai toli ete aboma bana mibali ya Bana Israël mpe abikisa bana na bango ya basi.",
+    "Nazalaki na kati ya ba complots mpe na ba complots contre messager moko ya makasi ya Allah.",
+    "Nsuka na ngai, elongo na nkolo na ngai mpe limpinga na ye, eyaki na mai ya mbu monene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Nimilode",
+        "Abrahah",
+        "Goliate",
+        "Iblis, oyo azali",
+        "Hamane"
+      ],
+      "answer": "Hamane"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Komekama na bozwi monene mpenza",
+        "Kokamba limpinga moko mpo na kobundisa ndako moko mosantu",
+        "Kotonga linɔ́ngi mpo na kokóma epai ya Nzambe",
+        "Kobwakama na moto mpo na kondima na bango",
+        "Kobwakama na libulu na bandeko"
+      ],
+      "answer": "Kotonga linɔ́ngi mpo na kokóma epai ya Nzambe"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku",
+        "Bato ya mosala",
+        "Ngomba ya Ngomba",
+        "Linɔ́ngi ya Linɔ́ngi",
+        "Baleine oyo babengi Baleine"
+      ],
+      "answer": "Linɔ́ngi ya Linɔ́ngi"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Kopesama mayele monene mpenza",
+        "Kokoma mosakoli",
+        "Komelama na mabele",
+        "Kopesama bokonzi",
+        "Kozinda na mbu"
+      ],
+      "answer": "Kozinda na mbu"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

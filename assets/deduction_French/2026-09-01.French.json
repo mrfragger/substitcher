@@ -1,0 +1,61 @@
+{
+  "title": "La voix des périphéries",
+  "intro": "Vous vous trouvez dans une ville où trois messagers sont venus porteurs de signes clairs, mais le peuple les raille et s'accroche à ses vieilles habitudes. Du fin fond de la ville, une silhouette se précipite vers la foule, haletante et déterminée, pour proclamer la vérité malgré le rejet. Qui est cette âme qui a tout risqué pour un message qui n'est pas le sien ?",
+  "clues": [
+    "J'ai vécu au milieu d'un peuple qui avait reçu des messagers porteurs de signes clairs, mais qui s'est détourné avec arrogance.",
+    "J'ai accouru depuis les confins de la ville en entendant l'appel des messagers.",
+    "J'ai dit à mon peuple : « Ô mon peuple, suivez les messagers. Suivez ceux qui ne vous demandent aucune récompense, car ils sont bien guidés. »",
+    "Je n'étais pas prophète, mais je croyais aux messagers et j'exhortais mon peuple à faire de même.",
+    "Mon peuple s'est moqué de mes conseils et m'a accusé d'être un extrémiste.",
+    "Quand ils m'ont tué, Allah m'a dit d'entrer au Paradis, et j'ai souhaité que mon peuple puisse connaître le pardon et l'honneur que j'ai reçus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "L'homme de la partie la plus reculée de la ville (Ya-Sin)",
+        "L'un des trois messagers envoyés à la ville",
+        "Un important marchand de la ville",
+        "Un dirigeant de la ville",
+        "Le chef des mécréants"
+      ],
+      "answer": "L'homme de la partie la plus reculée de la ville (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Prêchant à son peuple de suivre les messagers",
+        "Construire un navire pour sauver les croyants d'une inondation",
+        "Être jeté dans le feu pour la foi",
+        "Être avalé par une baleine",
+        "Recevoir un royaume et la sagesse"
+      ],
+      "answer": "Prêchant à son peuple de suivre les messagers"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La partie la plus éloignée de la ville",
+        "L'arche",
+        "Le puits",
+        "Le buisson ardent",
+        "La grotte"
+      ],
+      "answer": "La partie la plus éloignée de la ville"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il entra au Paradis et souhaita que son peuple puisse connaître son pardon.",
+        "Noyé avec son peuple pour avoir rejeté le message",
+        "On m'a accordé un miracle de la chamelle",
+        "Il devint souverain après son procès",
+        "Il fut sauvé par Allah et resta avec son peuple."
+      ],
+      "answer": "Il entra au Paradis et souhaita que son peuple puisse connaître son pardon."
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

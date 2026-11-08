@@ -1,0 +1,61 @@
+{
+  "title": "Kantri siela",
+  "intro": "Pranašystės metraščiuose gyveno siela, kurios kantrybė buvo įsirėžusi į pačią jos būties esybę. Per ašaras ir laiką ji tvirtai laikėsi vilties, tapdama nesenstančiu pasitikėjimo dieviškąja išmintimi pavyzdžiu. Ar galite įminti šios nepajudinamos figūros paslaptį?",
+  "clues": [
+    "Gimiau pranašų šeimoje, tačiau didžiausias išbandymas mane ištiko per vaiką, kurį labiausiai mylėjau.",
+    "Sapne, kuriuo pasidalijo mano sūnus, gavau įspėjimą apie pavydą ir baiminausi dėl jo saugumo.",
+    "Mano akys pabalo iš liūdesio, tačiau niekada nepraradau tikėjimo Alacho gailestingumu.",
+    "Dingusio vaiko kvapas pasiekė mane iš tolo, ir tada supratau, kad susitikimas artėja.",
+    "Mano šeima dėkingai nusilenkė, kai išsipildė senoji vizija ir man buvo atkurtas regėjimas.",
+    "Aš buvau tas, kuriam buvo padovanoti krauju suteptas marškinėliai, o vėliau – marškiniai, kurie išgydė mano regėjimą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ibrahimas",
+        "Pranašas Išakas",
+        "Pranašas Jakubas",
+        "Pranašas Jusufas",
+        "Pranašas Ayyubas"
+      ],
+      "answer": "Pranašas Jakubas"
+    },
+    "trial": {
+      "label": "Lemiamas išbandymas",
+      "options": [
+        "Išsiskyrimas su mylimu vaiku ir regėjimo praradimas",
+        "Įmestas į liepsnojančią ugnį",
+        "Praryti didelės žuvies",
+        "Ištverti turto, vaikų ir sveikatos praradimą",
+        "Brolių išduotas ir įmestas į šulinį"
+      ],
+      "answer": "Išsiskyrimas su mylimu vaiku ir regėjimo praradimas"
+    },
+    "location": {
+      "label": "Simbolinis objektas",
+      "options": [
+        "Marškinėliai, kurie pirmiausia paslėpė tiesą, o paskui ją atskleidė",
+        "Lazdelė, kuri virto gyvate",
+        "Banginis, prarijęs pranašą",
+        "Ugnis, kuri atvėso",
+        "Pora sandalų prie degančio krūmo"
+      ],
+      "answer": "Marškinėliai, kurie pirmiausia paslėpė tiesą, o paskui ją atskleidė"
+    },
+    "outcome": {
+      "label": "Dieviškasis nutarimas",
+      "options": [
+        "Susitikimas su prarastu mylimu žmogumi ir regėjimo atkūrimas",
+        "Išgelbėjimas nuo priespaudos tautos",
+        "Išsivadavimas iš žuvies pilvo",
+        "Išgelbėjimas nuo liepsnojančios ugnies",
+        "Įžengimas į didį sostą"
+      ],
+      "answer": "Susitikimas su prarastu mylimu žmogumi ir regėjimo atkūrimas"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

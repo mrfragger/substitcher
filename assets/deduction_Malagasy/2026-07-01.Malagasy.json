@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Fanahy Tsy Voatonona Anarana Izay Nijoro Nanohitra Firenena Tsy Marina",
+  "intro": "Ao amin'ny pejin'ny CORAN, misy olona tsy voalaza ny anarany mba hisaintsainantsika ny lesona azony. Teraka teo anivon'ny firenena iray izay nandà ny irakany ny olona iray toy izany, kanefa nanana finoana miafina izay nampiavaka azy ireo ity olona ity. Rehefa nanakaiky ny fandringanana, dia nijoro mafy tamin'ny finoany miafina ity olona ity. Azonao fantarina ve ny mombamomba ity olona mistery ity izay mampitandrina ny vahoakany alohan'ny hidinan'ny didy farany?",
+  "clues": [
+    "Niaina teo anivon'ny vahoaka izay nandà imbetsaka ireo iraka nalefan'i Allah tany amin'izy ireo aho.",
+    "Tsy tahaka ny fireneko aho, fa fantatro ny marina rehefa tonga ny iraka nitondra famantarana mazava avy amin'ny Tompoko.",
+    "Nafeniko tamin'ireo mpampahory ahy ny finoako, satria fantatro fa hanisy ratsy ahy izy ireo raha mahita ny finoako.",
+    "Rehefa nanakaiky ny didy famaizana dia nanambara ampahibemaso ny tsy fivadihako aho ary nampitandrina ny oloko mba hamonjy ny tenany.",
+    "Nampahatsiahiviko azy ireo fa iraka azo itokisana aho, tsy misy hafa amin'ireo nirahina teo aloha, ary tsy tokony hivavaka afa-tsy amin'i Allah izy ireo.",
+    "Niampanga ahy ho mpamosavy sy very saina ny oloko, kanefa tamin'ny farany dia nihatra tamin'izy ireo ny sazy izay nampitandremana azy ireo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Hoda, iraka ho an'ny vahoakan'i Aad",
+        "Lehilahy mpino iray avy amin'ny firenen'ny Mpaminany Houd izay maty maritiora",
+        "Ny mpitondra ny vahoakan'ny Aad izay nandà ny fahamarinana",
+        "Niaraka tamin'ny Mpaminany Salih izay nisalasala ny amin'ireo famantarana avy amin'Andriamanitra",
+        "Anjely iray nirahina handringana ny vahoakan'i Aad"
+      ],
+      "answer": "Lehilahy mpino iray avy amin'ny firenen'ny Mpaminany Houd izay maty maritiora"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny fitsapana ny hain-tany sy ny mosary izay nitsapa ny faharetany",
+        "Ny fitsarana ny fanambarana ny finoana eo anatrehan'ny firenena tsy mino mampahory",
+        "Ny fitsapana ny fanamboarana sambo mba handosirana tondra-drano lehibe",
+        "Ny fitsarana ny fanipazana azy ao anaty afo noho ny finoana an'i Allah",
+        "Ny fitsapana ny fahatsapan-tena amin'ny harena sy ny fanambinana"
+      ],
+      "answer": "Ny fitsarana ny fanambarana ny finoana eo anatrehan'ny firenena tsy mino mampahory"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny tanànan'i Makkah izay nanorenana ny trano masina",
+        "Ny lemaka efitr'ilay firenena izay nandà ny irakany",
+        "Ireo tendrombohitr'i Midiana izay nandefasana ny Mpaminany Shu'aib",
+        "Ny moron'ny reniranon'i Ejipta izay nahitana ny Mpaminany Musa",
+        "Ny lohasahan'ny vahoakan'i Aad, voatsindrin'ny rivotra mahery"
+      ],
+      "answer": "Ny lemaka efitr'ilay firenena izay nandà ny irakany"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voavonjy tao anaty sambo aho ary velona mandra-pahatongan'ny sitrapon'Andriamanitra",
+        "Nino ny oloko taorian'ny namako ary notarihina tamin'ny lalana mahitsy izy ireo",
+        "Novonoin'ny fireneko aho saingy nalain'ny famindram-pon'Andriamanitra ny fanahiko",
+        "Nibebaka aho rehefa avy nosedraina ary neken'Andriamanitra ny fibebahanako",
+        "Niova ho sampy nivavahan'ny fireneko aho taorian'ny nahafatesan'i"
+      ],
+      "answer": "Novonoin'ny fireneko aho saingy nalain'ny famindram-pon'Andriamanitra ny fanahiko"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

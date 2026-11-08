@@ -1,0 +1,61 @@
+{
+  "title": "Głos wzywający do sprawiedliwości",
+  "intro": "W starożytnej krainie Midian, gdzie kwitł handel, a karawany przemierzały rozległe pustynie, prorok Allaha pojawił się wśród ludzi, którzy zboczyli z drogi sprawiedliwości. Ten sługa Allaha został posłany z boską misją, która miała wystawić na próbę wiarę całej społeczności. Pomimo prób cierpliwości i wytrwałości, ta dusza wytrwała, przekazując ostrzeżenie, które odbiło się echem na przestrzeni dziejów. Czy potrafisz rozwikłać tajemnicę tego niezłomnego posłańca?",
+  "clues": [
+    "Zostałem wybrany przez Allaha, aby poprowadzić ludzi, którzy zapomnieli o zasadach uczciwości i sprawiedliwości w swoim postępowaniu.",
+    "Przekazałem przesłanie wzywające moją społeczność do czczenia wyłącznie Allaha i mówienia prawdy we wszystkich sprawach.",
+    "Szczególnie ostrzegałem przed korupcyjną praktyką konsumowania bogactwa w sposób niezgodny z prawem i podkreślałem znaczenie sprawiedliwych wag i miar.",
+    "Mój lud odpowiedział na moje ostrzeżenia szyderstwem, grożąc wygnaniem mnie ze swojego kraju, jeśli będę kontynuował głoszenie mojego przesłania.",
+    "Wytrwałem w swoim postanowieniu pomimo ich wrogości, oświadczając, że moja nagroda jest tylko u Allaha.",
+    "Mój lud został dotknięty straszliwą karą, ja zaś zostałem ocalony dzięki miłosierdziu mojego Pana, gdyż moja misja została wypełniona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Szu’ajb",
+        "Prorok Hud",
+        "Prorok Salih",
+        "Prorok Lut",
+        "Prorok Mahomet ﷺ"
+      ],
+      "answer": "Prorok Szu’ajb"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Stając twarzą w twarz z ludźmi, którzy odrzucili prawdę i grozili karą za przekazywanie przesłania Allaha",
+        "Bycie świadkiem Wielkiego Potopu, który zniszczył niewiernych narodu",
+        "Otrzymanie objawienia podczas podróży przez dolinę 笃",
+        "Próba wiary, gdy uciskający władca próbował uciszyć wezwanie do monoteizmu",
+        "Naród błagający o deszcz podczas ciężkiej suszy po latach nieposłuszeństwa"
+      ],
+      "answer": "Stając twarzą w twarz z ludźmi, którzy odrzucili prawdę i grozili karą za przekazywanie przesłania Allaha"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Kraj Midianu, gdzie mój lud prowadził handel i działalność gospodarczą",
+        "Pokład wielkiego statku, który uratował wierzących przed katastrofalną powodzią",
+        "Jaskinia w skalistej górze, w której siedmiu młodzieńców szukało schronienia przed prześladowaniami",
+        "Święte miasto Jerozolima, do którego zabierano mnie w nocną podróż",
+        "Pałac w Szebie, gdzie wielkie królestwo przygotowywało się na świadka boskiego znaku"
+      ],
+      "answer": "Kraj Midianu, gdzie mój lud prowadził handel i działalność gospodarczą"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Mój lud został dotknięty straszną karą, podczas gdy ja zostałem uratowany, ponieważ wypełniłem swój obowiązek wobec Allaha",
+        "Niewierni zostali zamienieni w małpy, ponieważ naruszyli święte granice Allaha",
+        "Moi wrogowie przyjęli wiarę po tym, jak byli świadkami cudownej przemiany",
+        "Ziemia została pobłogosławiona obfitymi opadami deszczu i dobrobytem po tym, jak ludzie pokutowali",
+        "Zostałem zamordowany przez własny naród, ponieważ odmówiłem porzucenia swojej misji"
+      ],
+      "answer": "Mój lud został dotknięty straszną karą, podczas gdy ja zostałem uratowany, ponieważ wypełniłem swój obowiązek wobec Allaha"
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

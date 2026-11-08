@@ -1,0 +1,61 @@
+{
+  "title": "liitto, joka kutsui tuhoon",
+  "intro": "Kuvittele olevasi saman katon alla ilmestyksen kanssa, mutta valitsevasi erilaisen uskollisuuden. Tämä hahmo eli läheisesti totuuden ja profeetan asemaan, mutta kääntyi niiden puoleen, jotka hylkäsivät ne. Heidän tarinansa on vakava varoitus siitä, että pelkkä läheisyys vanhurskauteen ei voi pelastaa sielua, joka pettää luottamuksen.",
+  "clues": [
+    "Asuin Allahin valitseman profeetan taloudessa.",
+    "Tiesin totuuden, jota mieheni saarnasi, mutta en kuitenkaan todella uskonut sitä.",
+    "Petin hänen luottamuksensa asettumalla hänen torjuvien ihmistensä puolelle ja auttamalla heitä häntä vastaan.",
+    "Minut mainitaan toisen profeetan puolison rinnalla, joka myös petti, esimerkkinä uskottomille.",
+    "Tarinani kerrotaan suurassa At-Tahrimissa varoituksena siitä, ettei sukulaisuussuhde profeettoihin suojaa.",
+    "Kuolin väärintekijöiden kanssa, kun Allah tuhosi Lootin kansan, ja jäljelle jäivät vain ne, jotka olivat jäljelle jääneet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Lutin vaimo",
+        "Asiya, faaraon vaimo",
+        "Imranin vaimo",
+        "Saara, profeetta Ibrahimin vaimo",
+        "Al-Azizin vaimo"
+      ],
+      "answer": "Profeetta Lutin vaimo"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Petti profeetan auttamalla uskottomia häntä vastaan",
+        "Heittäkää vauva korissa jokeen pelastaaksenne hänet",
+        "Vaati kultaisen vasikan rakentamista profeetan poissa ollessa",
+        "Syytti vanhurskasta palvelijaa väärinteosta ja vangitsi hänet",
+        "Johti norsuarmeijaa tuhoamaan Kaaban"
+      ],
+      "answer": "Petti profeetan auttamalla uskottomia häntä vastaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Lutin kansan kaatuneet kaupungit",
+        "Arkki rakennettiin jumalallisen käskyn alaisena",
+        "Tuli viilensi Ibrahimia",
+        "Nukkuvien nuorten turvapaikka",
+        "Joki, josta vauvan kori löydettiin"
+      ],
+      "answer": "Lutin kansan kaatuneet kaupungit"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Menehtyi uskottomien kanssa, vaikka oli avioliitossa profeetan kanssa",
+        "Pelastui uskovien kanssa ja pääsi paratiisiin rauhassa",
+        "Muutettiin pylvääksi merkiksi myöhemmille sukupolville",
+        "Maa nielaisi valtavine aarteineen",
+        "Sai ihmeellisen lapsen vanhuudessa"
+      ],
+      "answer": "Menehtyi uskottomien kanssa, vaikka oli avioliitossa profeetan kanssa"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

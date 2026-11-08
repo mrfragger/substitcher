@@ -1,0 +1,61 @@
+{
+  "title": "Ang Masayang Balita sa Katandaan",
+  "intro": "Nasasaksihan ninyo ang isang sandali kung saan muling nabuhay ang pag-asa. Isang mag-asawa, na matagal nang lampas sa edad ng pagiging magulang, ang nakatanggap ng isang pangako na sumasalungat sa mga batas ng kalikasan. Sa kanilang kalagitnaan ay nakatayo ang isang pigura na ang mismong pag-iral ay tanda ng banal na awa—isang kaluluwang nakatadhana para sa pagkapropeta, na may dalang pamana na sa mga henerasyon. Sino ang kahanga-hangang indibidwal na ito?",
+  "clues": [
+    "Ipinanganak ako sa mga magulang na matanda na at walang anak.",
+    "Ang aking kapanganakan ay ibinalita ng mga anghel na dumating bilang mga panauhin sa aking pamilya.",
+    "Binigyan ako ng karunungan at pagkapropeta, at ako ay binabanggit na kabilang sa mga matiisin.",
+    "Ang aking ama ay tinawag na kaibigan ni Allah, at ako ay isang regalo sa kanya sa kanyang mga huling taon.",
+    "Mayroon akong kapatid na lalaki na isa ring propeta, at pareho kaming pinagpala ng ating Panginoon.",
+    "Ang anak ko ay isa ring propeta, at ang aking mga inapo ay binigyan ng banal na kasulatan at ng pagkapropeta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Ishaq (Isaac)",
+        "Propeta Ismail (Ismael)",
+        "Propeta Yaqub (Jacob)",
+        "Propeta Yahya (Juan)",
+        "Propeta Uzair (Ezra)"
+      ],
+      "answer": "Propeta Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ipinanganak sa matatandang magulang",
+        "Itinapon sa apoy",
+        "Binigyan ng kaharian at kayamanan",
+        "Inakay niya palabas ng Ehipto ang kaniyang bayan",
+        "Nagtayo ng arka upang iligtas ang mga mananampalataya"
+      ],
+      "answer": "Ipinanganak sa matatandang magulang"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang masayang balita ng isang anak na lalaki",
+        "Ang nasusunog na palumpong",
+        "Ang ginintuang guya",
+        "Ang kaban ng tipan",
+        "Ang tungkod ng pagkapropeta"
+      ],
+      "answer": "Ang masayang balita ng isang anak na lalaki"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naging propeta na may lahi ng mga propeta",
+        "Naging mayamang hari",
+        "Ang kaniyang bayan ay nawasak dahil sa kawalan ng pananampalataya",
+        "Siya ay nailigtas mula sa apoy",
+        "Binigyan siya ng kakayahang magsalita noong sanggol pa lamang"
+      ],
+      "answer": "Naging propeta na may lahi ng mga propeta"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

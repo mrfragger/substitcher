@@ -1,0 +1,61 @@
+{
+  "title": "Keramahan sing nggawa rasa wedi",
+  "intro": "Ing sawijining kutha sing kebak kejahatan, sawijining abdi sing setya nampa tamu sing ora dikarepke ing sawijining dina. Kuwatir karo kaslametane, wong iki menehi perlindungan, nanging wong-wong ing kutha kasebut nuntut prekara sing ngisin-isini. Dielingake babagan kiamat sing bakal teka, abdi kasebut mlayu karo kulawargane ing wayah wengi, ninggalake kutha sing wis ditandhani bakal dirusak. Sapa sejatine wong sing percaya iki?",
+  "clues": [
+    "Aku diutus dadi utusan marang sawijining kaum sing wis nglakoni tumindak kang ngisin-isini.",
+    "Ana tamu sing ora disangka-sangka teka ing omahku, lan aku luwih kuwatir karo keslametane tinimbang keslametanku dhewe.",
+    "Wong-wongku nuntut supaya ketemu tamu-tamuku amarga ana niat jahat, lan aku nyoba berunding karo dheweke.",
+    "Para tamuku ngaku dadi malaikat lan ndhawuhi aku supaya nggawa keluargaku lan budhal ing wayah wengi.",
+    "Bojoku ora nggatekake panjaluk kanggo mlayu lan ngadhepi karusakan sing padha karo bangsaku.",
+    "Kuthaku digulingake karo udan watu lempung sing berlapis-lapis, bagean sing paling dhuwur dadi paling endhek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Nabi Luth",
+        "Nabi Musa",
+        "Nabi Ibrahim",
+        "Nabi Nuh",
+        "Nabi Hud"
+      ],
+      "answer": "Nabi Luth"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Tuntutan saka wong-wongku supaya nyedhaki tamuku kanthi ala",
+        "Pamisahan segara kanggo uwal saka tiran",
+        "Mbangun bahtera gedhe ing tengah-tengahe ejekan",
+        "Pangorbanan anakku minangka ujian iman",
+        "Pengalaman diuntal iwak gedhe"
+      ],
+      "answer": "Tuntutan saka wong-wongku supaya nyedhaki tamuku kanthi ala"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Kutha bangsaku sing wis rusak",
+        "Gunung ing ngendi aku nampa pangandikaning Gusti",
+        "Bahu sing layar ngliwati banjir gedhe",
+        "Unta wadon sing metu saka watu karang",
+        "Kebon karo tamu mursid sing didhelikake"
+      ],
+      "answer": "Kutha bangsaku sing wis rusak"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Aku wis slamet karo keluargaku sadurunge kuthaku digulingake",
+        "Aku mimpin bangsaku menyang kamardikan nyabrang segara",
+        "Aku mbangun bahtera gedhe lan slamet saka banjir gedhe",
+        "Aku diwenehi panguwasa marang angin lan jin",
+        "Aku sabar nahan kasangsaran lan diwenehi ganjaran kulawarga"
+      ],
+      "answer": "Aku wis slamet karo keluargaku sadurunge kuthaku digulingake"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

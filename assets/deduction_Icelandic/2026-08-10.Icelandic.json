@@ -1,0 +1,61 @@
+{
+  "title": "Verndarmenn leyniuppskerunnar",
+  "intro": "Í grænu landi gerði hópur einstaklinga leynilega áætlun í skjóli myrkurs. Þeir höfðu sameiginlegt markmið, en áform þeirra voru langt frá því að vera réttlát. Lítið vissu þeir að guðleg óvænt atvik beið þeirra á meðan þeir sváfu.",
+  "clues": [
+    "Við tókum okkur þá afstöðu að áætlun okkar væri gallalaus.",
+    "Við ætluðum að fara út snemma, áður en aðrir gætu jafnvel hrært sig.",
+    "Við lögðum af stað á frjósaman stað, örugg um vistir okkar.",
+    "Þegar við komum á áfangastað var hann hrjóstrugur og eyðilegur, svo við héldum að við hefðum villst af leið.",
+    "Þá áttuðum við okkur á því að þetta var sannarlega okkar staður og við hrópuðum upp í örvæntingu og kenndum hvert öðru um missinn.",
+    "Við höfðum svarið þann morgun að útiloka fátæka frá uppskeru okkar, en refsing Allah kom yfir okkur meðan við sváfum og breytti garðinum okkar í rúst."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hverjir erum við?",
+      "options": [
+        "Eigendur garðsins í Súra 68",
+        "Fólkið á Saba",
+        "Félagar hellisins",
+        "Fólkið í Fílnum",
+        "Fólkið í skotgröfinni"
+      ],
+      "answer": "Eigendur garðsins í Súra 68"
+    },
+    "trial": {
+      "label": "Réttarhöld okkar",
+      "options": [
+        "Garðurinn okkar eyðilagðist af himneskum óhöppum",
+        "Garðurinn okkar fór í flóð",
+        "Garðurinn okkar brann í eldi frá óvini",
+        "Garðurinn okkar var fullur af engisprettum",
+        "Jarðskjálfti gleypti garðinn okkar"
+      ],
+      "answer": "Garðurinn okkar eyðilagðist af himneskum óhöppum"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Við sórum að tína ávexti þess að morgni",
+        "Við byggðum stíflu til að vökva garðinn okkar",
+        "Við leituðum skjóls í helli til verndar",
+        "Við bjuggum til her til að sigra konungsríki",
+        "Við sigldum skipi yfir hafið"
+      ],
+      "answer": "Við sórum að tína ávexti þess að morgni"
+    },
+    "outcome": {
+      "label": "Örlög okkar",
+      "options": [
+        "Við iðruðumst og vonuðum miskunn frá Allah",
+        "Við vorum gjörsamlega eyðilögð og iðruðumst aldrei",
+        "Við flúðum landið og komum aldrei aftur",
+        "Við urðum aftur öflug og auðug",
+        "Við vorum refsað með því að vera breytt í apa"
+      ],
+      "answer": "Við iðruðumst og vonuðum miskunn frá Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

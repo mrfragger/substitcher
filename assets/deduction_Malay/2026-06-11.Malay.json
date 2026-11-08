@@ -1,0 +1,61 @@
+{
+  "title": "Kampung di Tepi Pantai Percubaan",
+  "intro": "Anda mendapati diri anda berada di sebuah perkampungan pesisir pantai, di mana bunyi ombak bercampur dengan bisikan orang yang dilupakan. Mereka diberi perintah untuk berehat, tetapi ketamakan mereka membawa kepada hukuman yang masih diperkatakan dalam nada perlahan. Bolehkah anda mendedahkan siapa mereka?",
+  "clues": [
+    "Kami tinggal di tepi pantai dan diberi perintah untuk memelihara satu hari rehat.",
+    "Pada hari itu, ikan akan datang kepada kami dengan banyaknya, tetapi kami dilarang mengambilnya.",
+    "Ada di antara kami yang memberi amaran agar tidak melanggar peraturan, tetapi ada juga yang berpakat untuk memancing.",
+    "Kami telah melanggar perintah suci dan mendatangkan hukuman yang berat ke atas diri kami sendiri.",
+    "Hukuman kami adalah satu transformasi yang meninggalkan kami cacat dan terhina.",
+    "Kami telah diubah menjadi kera, satu tanda bagi semua orang yang akan datang kemudian."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang-orang Sabat",
+        "Kaum Tsamud",
+        "Kaum 'Ad",
+        "Orang-orang Gua",
+        "Orang-orang Gajah"
+      ],
+      "answer": "Orang-orang Sabat"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Memancing pada hari Sabat",
+        "Menyembah anak lembu emas",
+        "Menafikan mesej Hud",
+        "Membunuh unta betina",
+        "Membina menara ke syurga"
+      ],
+      "answer": "Memancing pada hari Sabat"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Ikan itu",
+        "Seekor unta betina",
+        "Seorang kakitangan",
+        "Sebuah bot",
+        "Sebuah taman"
+      ],
+      "answer": "Ikan itu"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Bertukar menjadi beruk",
+        "Musnah akibat banjir",
+        "Dimusnahkan oleh api yang marak",
+        "Ditelan bumi",
+        "Tersebar oleh angin"
+      ],
+      "answer": "Bertukar menjadi beruk"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

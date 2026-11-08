@@ -1,0 +1,61 @@
+{
+  "title": "Te Ariki i Tono i te Atuatanga",
+  "intro": "I whakapono tētahi rangatira mana nui, whakakake hoki kāore tetahi e tū ki runga ake i tōna torona. I whaia e rātou tētahi rōpū e rere ana i tētahi wai nui, ā, ka mate pōuri rātou. E pārekareka ana te kōrero a tēnei ariki ki ngā kōrero maha o te Quran, hei whakatūpato ki te katoa.",
+  "clues": [
+    "He rangatira whai mana ahau, i whakapono kāore he mana i tua atu i tōku ake i ngā whenua i whakahaerea e au.",
+    "He wizier pono tōku, ko Hamana tōna ingoa, ā, i āwhina ia i ahau ki te whakahaere i ngā kaupapa hanga whare nunui.",
+    "I karangatia e ahau ngā tohunga makutu tino pai o tōku whenua ki te wero i ngā tohu a te anahera i whakahē i ahau.",
+    "I whakakahore ahau ki te tuku i te iwi e herehere ana i roto i tōku kingitanga kia haere, ahakoa ngā mate urutā me ngā whakatūpato mārama.",
+    "I whaia rātou e ahau i te moana nui me taku ope katoa me aku hariata.",
+    "I taupokina mātou ko aku ope e taua moana, ā, i toremi katoa mātou, i a rātou e whiti ora ana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Parao (Fir'awn)",
+        "Namrud",
+        "Āpu Rāhapi",
+        "Hāmana",
+        "Āpu Jahl"
+      ],
+      "answer": "Parao (Fir'awn)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Ngā mate urutā me te pakanga ki a Mohi (Mōhi)",
+        "Te hanga i tētahi āka i mua i te waipuke nui",
+        "Te pakanga ki a Jalut i te awaawa",
+        "Te horomia e te tohorā",
+        "Te tiaki i ngā taumaha hokohoko pono"
+      ],
+      "answer": "Ngā mate urutā me te pakanga ki a Mohi (Mōhi)"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā pourewa teitei me ngā pou",
+        "He āaka rakau nui",
+        "He kuao kau koura",
+        "He tokotoko i huri hei nakahi",
+        "He tohorā nui"
+      ],
+      "answer": "Ngā pourewa teitei me ngā pou"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi ki te moana me te ope taua",
+        "I whakaorangia e te aroha o Allah, ā, i utua te manawanui",
+        "Kua hoki anō ki te whānau i muri i ngā tau maha o te uauatanga",
+        "Horomia e te whenua",
+        "I tahuna ki te ahi"
+      ],
+      "answer": "I toremi ki te moana me te ope taua"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

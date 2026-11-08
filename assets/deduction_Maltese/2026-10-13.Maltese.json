@@ -1,0 +1,61 @@
+{
+  "title": "L-Avversarju Mqanqal",
+  "intro": "Fil-bidu tar-rivelazzjoni, ħarġet figura bħala avversarja iebsa tal-verità. Imbierka bil-ġid u l-istatus, din ir-ruħ għażlet il-kburija aktar milli l-gwida, u l-istorja tagħhom saret twissija qawwija fl-aħħar versi ta’ sura.",
+  "clues": [
+    "Għext fl-istess belt bħall-Profeta, u kont fost l-eqreb qraba tiegħu, iżda l-kburija tiegħi żammni 'l bogħod mill-verità.",
+    "Kelli ġid kbir u bosta proprjetajiet, u ħsibt li r-riżorsi tiegħi dejjem kienu se jipproteġuni.",
+    "Meta l-messaġġ ġie żvelat, jien iddiżappuntajtu fil-beraħ u dort wiċċi, billi qisni superjuri għall-kredenti.",
+    "L-għadwa tiegħi kienet tant magħrufa li sura tal-Koran indirizzatni direttament, fejn sejħitli bl-isem li oħrajn kienu jafuni.",
+    "Ġejt mwissi li l-ġid u l-qligħ tiegħi ma kinux se jkunu ta’ għajnuna għalija, u li kont se nintrema f’nar jaqbad.",
+    "Jiena magħruf bħala missier il-fjamma, u marti ġġorr il-ħatab b'ħabel magħmul minn fibra tal-palm ma' għonqha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ċaħad l-Islam u oppona apertament lill-Profeta",
+        "Ippjana biex joqtol lill-Profeta",
+        "Mexxa bojkott soċjali kontra l-Musulmani",
+        "Ġieled fil-Battalja ta' Badr",
+        "Bilal ibn Rabah ittorturat"
+      ],
+      "answer": "Ċaħad l-Islam u oppona apertament lill-Profeta"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Ħabel tal-fibra tal-palm",
+        "Xabla li taqta’",
+        "Katina tqila",
+        "Bastun tal-injam",
+        "Frosta tal-ġilda"
+      ],
+      "answer": "Ħabel tal-fibra tal-palm"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Se jinħaraq f'nar qawwi",
+        "Nidem u sar sieħeb",
+        "Tilef il-ġid tiegħu imma miet onorat",
+        "Ħarab lejn l-Abissinja",
+        "Għerqet fil-baħar"
+      ],
+      "answer": "Se jinħaraq f'nar qawwi"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

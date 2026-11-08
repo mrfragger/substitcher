@@ -1,0 +1,61 @@
+{
+  "title": "Lubakiaren Arimak",
+  "intro": "Agintari gupidagabe batek jainko faltsuei debozio absolutua eskatzen zien garaira bidaiatzen duzu. Arima debotoen komunitate txiki batek uko egin zion, eta zigor hain larria jasan zuen, ezen betiko madarikatua bihurtu baitzen. Haien istorioa Koranean islatzen da fede sendoaren testigantza gisa. Identifika al dezakezu talde sendo hau?",
+  "clues": [
+    "Jainko faltsuen gurtza eskatzen zuen agintari baten tiraniaren menpeko lurralde batean bizi ginen.",
+    "Gure komunitateak jazarpen larria jasan zuen Alagan bakarrik sinesteagatik soilik.",
+    "Agintariak lubaki handi bat zulatzea eta sugar bortitzekin elikatzea agindu zuen",
+    "Gure fedea ukatzeari uko egin geniolako, banan-banan suzko zulo horretara bota gintuzten",
+    "Gure istorioa Koranaren parte bihurtu zen, eta gu jazarri gintuztenak betiko madarikatuak izan ziren.",
+    "Gure probaldia erregistratzen duen surak zeruko seinale zerutiar handien izena du."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Lubakiaren Lagunak (Ashab al-Ukhdud)",
+        "Kobazuloko jendea (Ashab al-Kahf)",
+        "Sabateko jendea.",
+        "A'ad-eko jendea",
+        "Thamudeko jendea"
+      ],
+      "answer": "Lubakiaren Lagunak (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Gure epaiketa",
+      "options": [
+        "Suzko zulo batean bizirik erreta izatea",
+        "Urte askotan kobazulo batean itxita egotea",
+        "Atseden egun santuan arrantza egitea",
+        "Haize ulutsu batek suntsitzen",
+        "Gamelu eme sakratu bat hiltzea"
+      ],
+      "answer": "Suzko zulo batean bizirik erreta izatea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Suzko lubaki sutsu bat",
+        "Txakur leial batekin ezkutuko kobazulo bat",
+        "Antzinako hiri madarikatu baten zutabe altuak",
+        "Harrizko amildegietan zizelkatutako mendiko etxebizitzak",
+        "Haize bortitzek astintzen duten lautada irekia"
+      ],
+      "answer": "Suzko lubaki sutsu bat"
+    },
+    "outcome": {
+      "label": "Gure emaitza",
+      "options": [
+        "Martirizatu gintuzten eta jazarleak betiko madarikatuak izan ziren",
+        "309 urtez lo egin ondoren esnatu ginen",
+        "Gure transgresioagatik tximino bihurtu gintuzten",
+        "Haize bortitz batek denok suntsitu gintuen",
+        "Oihu suntsitzaile bakar batek gure existentzia hautsi zuen"
+      ],
+      "answer": "Martirizatu gintuzten eta jazarleak betiko madarikatuak izan ziren"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

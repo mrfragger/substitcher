@@ -1,0 +1,61 @@
+{
+  "title": "La comunidad de la primera transgresión",
+  "intro": "En la tierra de las ciudades antiguas, un pueblo floreció antaño. Recibieron la visita de un mensajero con un claro llamado, pero lo rechazaron y siguieron un camino jamás transitado. Su historia es de rebeldía, depravación y un castigo que dejó en su tierra natal una señal para quienes reflexionan. ¿Quiénes son estas almas?",
+  "clues": [
+    "Vivíamos en ciudades de la llanura, donde nuestro profeta nos llamaba a la rectitud.",
+    "Fuimos los primeros en cometer una indecencia que nadie en todos los mundos había hecho antes.",
+    "En nuestras reuniones, emboscábamos a los viajeros y cometíamos actos malvados abiertamente.",
+    "Rechazamos al mensajero que nos enviaron y amenazamos con expulsarlo de nuestra tierra.",
+    "Corrimos a su casa exigiéndole que nos entregara a sus invitados.",
+    "Nuestro castigo fue una lluvia de piedras, y nuestra ciudad quedó patas arriba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Pueblo de Lut",
+        "Pueblo de Nuh",
+        "Gente de 'Anuncio'",
+        "Gente de Thamud",
+        "Pueblo de Madyan"
+      ],
+      "answer": "Pueblo de Lut"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Cometió el primer acto de sodomía.",
+        "Ídolos adorados",
+        "Engañado en el comercio",
+        "Mataron a su profeta",
+        "Desobedecieron a sus padres."
+      ],
+      "answer": "Cometió el primer acto de sodomía."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La ciudad de la llanura",
+        "La ciudad del pozo",
+        "La ciudad de la zanja",
+        "La ciudad del elefante",
+        "La ciudad del jardín"
+      ],
+      "answer": "La ciudad de la llanura"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Llovió piedras y volcó",
+        "Ahogados por una inundación",
+        "Destruido por un viento violento",
+        "Engullido por la tierra",
+        "Golpeado por una fuerte explosión"
+      ],
+      "answer": "Llovió piedras y volcó"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

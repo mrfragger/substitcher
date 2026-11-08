@@ -1,0 +1,61 @@
+{
+  "title": "Umnxeba ovela eNzulu",
+  "intro": "Khawucinge ngomphefumlo ophathiswe umyalezo kaThixo, kodwa lowo, ngephanyazo nje, washiya abantu bakubo ngaphandle kwemvume ecacileyo. Olu hambo lwabakhokelela kwisilingo esingaqhelekanga, uvavanyo olunzulu lomonde nokuthembela kuYena Ophakamileyo. Ngubani lo mntu ibali lakhe lisifundisa ngenguquko nobukhulu benceba ka-Allah?",
+  "clues": [
+    "Ndathunyelwa kwisizwe esikhulu, kodwa ukwaliwa kwabo ekuqaleni kwandibangela usizi.",
+    "Ndashiya abantu bakuthi, ndikholelwa ukuba umsebenzi wam ugqityiwe, ngaphambi kokuba ndifumane umyalelo ocacileyo wokuba ndihambe.",
+    "Ndafuna indlela yokukhwela inqanawa, kodwa isivuthuvuthu esikhulu kunye nokutsalwa kwamaqashiso kwakhokelela kwimeko embi.",
+    "Ndaphoswa elwandle, isidalwa esinamandla samanzi anzongonzongo sandiginya ndiphelele.",
+    "Ngaphakathi ebumnyameni besisu sayo, ndabiza uAllah, ndivuma ububi bam kwaye ndicela uxolelo lwakhe.",
+    "U-Allah wayalela esi sidalwa ukuba sindiphose elunxwemeni, ndaza ndaphiliswa phantsi kwesityalo esikhethekileyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uYusuf (uYosefu)",
+        "Umprofeti uNuh (uNowa)",
+        "Umprofeti uYunus (uYona)",
+        "Umprofeti uSulaiman (uSolomon)",
+        "Umprofeti u-Ayyub (uYobhi)"
+      ],
+      "answer": "Umprofeti uYunus (uYona)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukwahlukana kolwandle",
+        "Umlilo kaNimrod",
+        "Ukuginywa yintlanzi enkulu",
+        "Umkhukula",
+        "Ukutshatyalaliswa kwesixeko ngamatye"
+      ],
+      "answer": "Ukuginywa yintlanzi enkulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Abasebenzi",
+        "Isisu sentlanzi",
+        "Umthombo",
+        "Isihlahla esitshayo"
+      ],
+      "answer": "Isisu sentlanzi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waba ngumlawuli omkhulu",
+        "Yakha iKaaba",
+        "Ubuyele ukukhokela isizwe esiguqukileyo",
+        "Wanikwa ulawulo phezu kweejin",
+        "Bakhokela abantu ukunqumla intlango"
+      ],
+      "answer": "Ubuyele ukukhokela isizwe esiguqukileyo"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

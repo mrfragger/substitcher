@@ -1,0 +1,61 @@
+{
+  "title": "Las once estrellas que se inclinaron",
+  "intro": "Un personaje del Corán tuvo una profunda visión en su infancia: soñó con cuerpos celestes inclinándose con reverencia. Pasaron años de traición, separación, falsas acusaciones y encarcelamiento antes de que esta visión se hiciera realidad. ¿Quién es esta alma resiliente cuya historia ocupa el capítulo más extenso del Corán?",
+  "clues": [
+    "En mi juventud, tuve la fortuna de tener un sueño extraordinario, tanto que incluso mi propio padre me advirtió que lo mantuviera en secreto.",
+    "Mis propios hermanos, cegados por los celos, conspiraron contra mí y me arrojaron a un pozo profundo y oscuro.",
+    "Me llevaron a una tierra lejana y me vendieron a la casa de un noble funcionario, donde encontré favores y ascendí en la jerarquía.",
+    "Una falsa acusación me llevó a un encarcelamiento injusto, pero en aquel lugar oscuro encontré consuelo en la oración y la postración ante Alá.",
+    "Allah me bendijo con la rara habilidad de interpretar sueños, lo que finalmente me llevó ante el gobernante del país y me elevó a una posición de gran confianza.",
+    "Tras largos años de separación, me reuní con mi amada familia, y mi sueño de infancia de ver once estrellas, el sol y la luna inclinándose ante mí finalmente se hizo realidad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Yusuf",
+        "Profeta Salih",
+        "Profeta Ilyas",
+        "Tubba', el gobernante del antiguo Himyar",
+        "Un humilde pastor de las colinas de Palestina."
+      ],
+      "answer": "Profeta Yusuf"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser arrojado a un pozo profundo y oscuro por hermanos celosos.",
+        "Ser engullido por una gran criatura de las profundidades marinas",
+        "Ser arrojado a un fuego ardiente por idólatras",
+        "Arrastrado por un viento divino de destrucción",
+        "Sobrevivir a una gran inundación que cubrió toda la tierra."
+      ],
+      "answer": "Ser arrojado a un pozo profundo y oscuro por hermanos celosos."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un pozo seco en el desierto donde me abandonaron.",
+        "Un gran pez de las profundidades marinas",
+        "Un arca gigantesca construida por mandato divino.",
+        "Una torre construida para alcanzar los cielos.",
+        "Un fuego sagrado que se negaba a arder."
+      ],
+      "answer": "Un pozo seco en el desierto donde me abandonaron."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tras años de separación, se reunió con su familia y se convirtió en un ministro de confianza.",
+        "Lideré un gran éxodo de mi pueblo a través de un mar abierto.",
+        "Advertí a mi nación de la inminente perdición que los consumió.",
+        "Construyó una casa sagrada que se convirtió en un santuario para todos.",
+        "Salió sano y salvo del vientre de una gran criatura después de tres días."
+      ],
+      "answer": "Tras años de separación, se reunió con su familia y se convirtió en un ministro de confianza."
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

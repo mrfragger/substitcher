@@ -1,0 +1,61 @@
+{
+  "title": "Liekki, joka paljasti perinnön",
+  "intro": "Vastarinnan aikakirjoissa seisoo hahmo, jonka pelkkä nimi oli varoitus ajan loppuun asti. Tämä henkilö valitsi vihollisuuden sukulaisuuden sijaan, uhman alistumisen sijaan ja vastusti armon kutsua. Kuunnelkaa tarkkaan muinaisen julistuksen kaikuja, kun paljastamme tämän pahamaineisen sielun henkilöllisyyden.",
+  "clues": [
+    "Synnyin samaan sukuun kuin Allahin viimeinen lähettiläs, mutta silti vastustin heitä joka käänteessä.",
+    "Nimelläni oli merkitys – nimi tarkoitti ’liekin isää’, nimi joka enteili iankaikkista kohtaloani.",
+    "Päästin totuuden tuojaa vahingoittamaan, ja jopa oma perheeni liittyi tähän julmuuden kampanjaan.",
+    "Käytin vaurauttani ja vaikutusvaltaani vaientaakseni Allahin kutsun, uskoen, että raha voisi sammuttaa jumalallisen valon.",
+    "Allah omisti minulle kokonaisen luvun – luvun niin lyhyen, että sen voi lukea sekunneissa, mutta sen painoarvo pysyy tuomiopäivään asti.",
+    "Seuralaiseni tuonpuoleisessa kävelee takanani, kaulassaan kuituköydellä sidottuna, kantaen samoja piikkejä, joita he ennen levittivät."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayya ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Konfrontaation määrittely",
+      "options": [
+        "Johtaa oppositiota profeettaa vastaan ​​Mekassa",
+        "Muutto Abessiniaan vainon välttämiseksi",
+        "Kaaban rakentaminen profeetta Ibrahimin kanssa",
+        "Islamin hyväksyminen kuolinvuoteella",
+        "Hudaybiyyahin sopimuksen solmiminen"
+      ],
+      "answer": "Johtaa oppositiota profeettaa vastaan ​​Mekassa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Vaimo, joka kantoi orjantappuja ja polttopuita",
+        "Sauva, joka muuttui käärmeeksi",
+        "Sormus, jossa on Salomonin sinetti",
+        "Kultainen vasikka, jota ihmiset palvoivat",
+        "Lähde, joka pulppusi vettä"
+      ],
+      "answer": "Vaimo, joka kantoi orjantappuja ja polttopuita"
+    },
+    "outcome": {
+      "label": "Lopputilinteko",
+      "options": [
+        "Kokonainen suura paljastettiin julistaen täydellistä tuhoa",
+        "Nousi muslimiyhteisön johtajaksi",
+        "Sai anteeksiannon kuoleman hetkellä",
+        "Rakensi suuren moskeijan Medinaan",
+        "Nousi ylös vanhurskaiden joukosta"
+      ],
+      "answer": "Kokonainen suura paljastettiin julistaen täydellistä tuhoa"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

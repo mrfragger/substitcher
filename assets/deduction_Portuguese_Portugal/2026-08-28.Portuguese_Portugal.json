@@ -1,0 +1,61 @@
+{
+  "title": "O Obstáculo na Casa Antiga",
+  "intro": "Na cidade sagrada, uma figura poderosa fervilhava de raiva enquanto uma nova mensagem começava a se espalhar. Esse indivíduo, cujo nome se tornou sinônimo de oposição à verdade, viu sua influência ruir sob o peso da revelação divina. Quem era essa alma, cujo destino foi selado nas areias de um famoso campo de batalha?",
+  "clues": [
+    "Eu era um chefe entre meu povo, conhecido por minha riqueza e influência em uma cidade que abrigava um antigo santuário.",
+    "Quando um homem da minha tribo começou a proclamar a mensagem de um único Deus, eu o ridicularizei e às suas revelações, chamando-as de meras histórias do passado.",
+    "Confrontei aquele homem enquanto ele orava perto da estrutura sagrada, ameaçando interromper seu culto à força, se necessário.",
+    "Eu estava entre os líderes que conspiraram para silenciar a nova fé, opondo-me aos seus seguidores tanto com palavras quanto com armas.",
+    "Marchei com um exército até um lugar chamado Badr, confiante de que esmagaríamos o pequeno grupo de fiéis.",
+    "Mas naquele campo de batalha, minha vida chegou ao fim, e minha morte se tornou uma lição para aqueles que persistem na descrença mesmo após sinais claros."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Impedir o Profeta de orar na Caaba",
+        "Construindo a Caaba",
+        "Escrevendo o Alcorão",
+        "Liderando o exército do elefante",
+        "Dividindo a lua"
+      ],
+      "answer": "Impedir o Profeta de orar na Caaba"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Caaba",
+        "A Arca do Profeta Noé",
+        "O Cajado do Profeta Moisés",
+        "O Bezerro de Ouro",
+        "O Trono da Rainha de Sabá"
+      ],
+      "answer": "A Caaba"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Morto na Batalha de Badr",
+        "Arrependeu-se e tornou-se muçulmano.",
+        "Fugiu para a Abissínia",
+        "Faleceu no Ano do Elefante.",
+        "Tornou-se companheiro do Profeta."
+      ],
+      "answer": "Morto na Batalha de Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

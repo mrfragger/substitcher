@@ -1,0 +1,61 @@
+{
+  "title": "Die Gemeinschaft, die sich dem Ruhetag widersetzte",
+  "intro": "Betreten Sie eine Küstensiedlung, in der ein göttliches Gebot einen Tag für Anbetung und Besinnung vorschrieb. Eine Gruppe innerhalb dieser Gemeinschaft beschloss, die Grenzen dieses Gebots mit einem listigen Plan auszutesten, was zu einer Umwälzung führte, deren Auswirkungen bis in die Jahrhunderte nachhallen sollten. Wer waren diese Menschen, und was wurde aus ihnen?",
+  "clues": [
+    "Wir lebten in Küstennähe, wo das Meer unseren Lebensunterhalt sicherte.",
+    "Uns wurde geboten, einen Tag der Woche zu ehren und ihn von weltlichen Beschäftigungen fernzuhalten.",
+    "An diesem Tag kamen die Fische in großer Zahl zu uns, als wollten sie uns dazu verleiten, das Gebot zu brechen.",
+    "Wir entwickelten einen Plan, um die Fische am Vorabend des heiligen Tages zu fangen und sie dann nach dessen Vorbeigehen einzusammeln.",
+    "Als einige von uns vor diesem Betrug warnten, ignorierten wir ihren Rat und beharrten darauf.",
+    "Wegen unserer Verfehlung wurden wir in Affen verwandelt, verachtet und verstoßen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Das Volk des Sabbats",
+        "Die Leute des Grabens",
+        "Die Menschen des Waldes",
+        "Die Bewohner des Gartens",
+        "Das Volk des Elefanten"
+      ],
+      "answer": "Das Volk des Sabbats"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Angeln am Sabbat",
+        "Bau eines hohen Turms",
+        "Tötung einer heiligen Kamelstute",
+        "Sie leugneten einen ihnen gesandten Propheten.",
+        "Überschreitung der Handelsgewichte"
+      ],
+      "answer": "Angeln am Sabbat"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Meer und seine Fische",
+        "Das Feuer, das erkaltet war",
+        "Der Stab, der sich in eine Schlange verwandelte",
+        "Die Arche der Erlösung",
+        "Die Steintafeln"
+      ],
+      "answer": "Das Meer und seine Fische"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "In Affen verwandelt",
+        "Von der Erde verschluckt",
+        "Von einem heftigen Wind zerstört",
+        "Im Meer ertrunken",
+        "Von einem Steinhagel getroffen"
+      ],
+      "answer": "In Affen verwandelt"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

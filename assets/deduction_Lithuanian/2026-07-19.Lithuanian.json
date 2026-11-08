@@ -1,0 +1,61 @@
+{
+  "title": "Neišgirstas šimtmečių balsas",
+  "intro": "Ilgai prieš atsirandant didiesiems miestams, tarp žmonių, nusigręžusių nuo tiesos, iškilo vieniša siela. Jų užsispyrimui prilygo tik šio vienišo šaukiančiojo kantrybė, kuris maldavo per kartas neprarasdamas ryžto. Kai visi perspėjimai liko neišgirsti, precedento neturintis atsiskaitymas pakeitė pačią žemę. Šiandien tos istorijos aidai vis dar skamba kiekviename pasakojime. Ar galite atpažinti šią ryžtingą sielą?",
+  "clues": [
+    "Aš augau tarp žmonių, kurie garbino netikrus stabus ir ignoravo aplink juos esančius ženklus, tačiau buvau pasirinktas pažadinti juos iš jų neatsargumo.",
+    "Vėl ir vėl šaukiau savo žmones, bet jie kaltino mane, kad esu tik žmogus kaip jie, tyčiojasi iš mano žinios ir užsikemša ausis.",
+    "Dieną ir naktį maldavau jų išmintimi ir švelniais priminimais, bet mano žodžiai tarsi išnyko ore, negirdėti ir neįvertinti.",
+    "Dieviškasis nurodymas, sausumoje pastačiau didžiulį laivą iš medienos ir lentų, o mano žmonės iš manęs juokėsi kaip iš proto netekusio žmogaus.",
+    "Kai, kaip ir buvo žadėta, atėjo didysis potvynis, mano paties sūnus atsisakė lipti į laivą kartu su manimi, manydamas, kad kalnas jį apsaugos nuo kylančių vandenų.",
+    "Aš tapau naujos pradžios žemėje patriarchu, o mano istorija yra išsaugota Korano skyriuje, kuriame minimas mano vardas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Nuh",
+        "Pranašas Ibrahimas",
+        "Pranašas Musa",
+        "Pranašas Lutas",
+        "Pranašas Hudas"
+      ],
+      "answer": "Pranašas Nuh"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Didysis potvynis, pakeitęs Žemės formą",
+        "Būti įmestam į liepsnojančią ugnį stabmeldžių",
+        "Susidūrimas su faraono magais rūmuose",
+        "Klestinčių sodų sunaikinimas dangiškosios audros",
+        "Tranšėjų gyventojų apvirtimas"
+      ],
+      "answer": "Didysis potvynis, pakeitęs Žemės formą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka, pastatyta iš medienos ir lentų",
+        "Šventasis namas, pastatytas ant senovinių pamatų",
+        "Personalas, kuris virto gyvate",
+        "Miegančiųjų jaunuolių ola",
+        "Sostą neša galinga būtybė"
+      ],
+      "answer": "Arka, pastatyta iš medienos ir lentų"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Netikintieji nuskendo, o tikintieji buvo išgelbėti laive",
+        "Ugnis atvėso ir užgeso, o skambinantysis išėjo nenukentėjęs.",
+        "Magai puolė kniūbsčia ir apėmė tikėjimą",
+        "Sodas buvo atiduotas teisiajam kaimynui į jo vietą",
+        "Miegantieji pabudo po šimtmečių, pasikeitę"
+      ],
+      "answer": "Netikintieji nuskendo, o tikintieji buvo išgelbėti laive"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

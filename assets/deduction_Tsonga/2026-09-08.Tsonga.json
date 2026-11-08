@@ -1,0 +1,61 @@
+{
+  "title": "Ku Ringiwa Ka Langavi ro Kwetsima",
+  "intro": "Etikweni ra khale laha ku tinyiketela eka ribye leri vatliweke a ku dzime timitsu ekaya rin’wana ni rin’wana, munhu un’we a a yime a ri yexe. Hi ku khorwiseka loku nga tsekatsekiki na nsirhelelo wa Xikwembu, va langutane na leswi a swi fanele swi ri rifu leri tiyeke — naswona va fambe va nga vavisekanga. Xana u nga paluxa vumunhu bya moya-xiviri lowu wo hlamarisa?",
+  "clues": [
+    "Ndzi kurisiwe exikarhi ka vanhu lava a va nkhinsamela swifaniso leswi va swi vatliweke hi mavoko ya vona, va pfumela leswaku swilo leswi swi khome matimba ya Xikwembu.",
+    "Loko ndzi tlhontlha ripfumelo ra vona, va ndzi hlongole eku sunguleni, kambe a ndzi nga swi koti ku miyela hi ntiyiso lowu a ndzi wu tiva.",
+    "Hi siku leri va hlengeletiweke ha rona, ndzi lovise swifaniso swa vona, ndzi siya xin’wana lexikulu ntsena lexi nga khumbiwangiki.",
+    "Loko va vuya va vona leswi ndzi swi endleke, varhangeri va vona va lerise leswaku ku akiwa ndzilo lowukulu, va kunguhate ku ndzi hoxa emalangavini.",
+    "Va ndzi lahlele endzilweni lowu pfurhaka, kambe Hosi ya misava yi lerisile leswaku yi va leyi kufumelaka naswona yi hlayisekile eka mina.",
+    "Ndzi hume emalangavini ndzi nga vavisekanga nikatsongo, kasi lava a va ndzi rhendzela va langutane ni ku onhaka loku heleleke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Ibrahim",
+        "Muprofeta Musa",
+        "Muprofeta Nuh",
+        "Muprofeta Esa",
+        "Muprofeta Yusuf"
+      ],
+      "answer": "Muprofeta Ibrahim"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku hoxiwa endzilweni lowu pfurhaka",
+        "Ku mitiwa hi xiharhi lexikulu xa whale",
+        "Ku pona ndhambi leyikulu",
+        "Ku lahleriwa exihlobyeni lexi dzikeke",
+        "Ku langutana ni vangoma va hosi"
+      ],
+      "answer": "Ku hoxiwa endzilweni lowu pfurhaka"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ndzilo lowukulu wa tihunyi leti pfurhaka",
+        "Areka leyikulu ya mapulanga",
+        "Xifaniso xa rhole ra nsuku",
+        "Xirhundzu lexi papamalaka ehenhla ka nambu",
+        "Xiluvelo xo hlamarisa"
+      ],
+      "answer": "Ndzilo lowukulu wa tihunyi leti pfurhaka"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Allah u endle leswaku ndzilo wu kufumela naswona wu hlayiseka",
+        "Ngalava yi fike yi dzima yi hlayisekile entshaveni",
+        "Xifaniso xa nsuku xi n’oka emahlweni ka mahlo ya vona",
+        "Mufumi wa tihanyi ni vuthu rakwe va nwile elwandle",
+        "Mavoni ya wanuna la feke mahlo ya vuyeleriwile"
+      ],
+      "answer": "Allah u endle leswaku ndzilo wu kufumela naswona wu hlayiseka"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

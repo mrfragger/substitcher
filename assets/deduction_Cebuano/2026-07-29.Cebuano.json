@@ -1,0 +1,61 @@
+{
+  "title": "Ang Paggukod sa Korte",
+  "intro": "Sa mga agianan sa gahom, usa ka tawo nga adunay taas nga kahimtang ang naibog sa usa ka sulugoon kansang katahom lahi sa kalibutan. Kini nga pagkaibog misangpot sa sunod-sunod nga mga panghitabo nga nagsulay sa pagkamaunongon, nagpadayag sa mga tinago nga kamatuoran, ug sa katapusan nagpamatuod sa pagka-inosente sa sulugoon.",
+  "clues": [
+    "Nagpuyo ako sa yuta sa Nilo, sa usa ka palasyo nga adunay dakong impluwensya.",
+    "Usa ka batan-ong lalaki ang misulod sa akong panimalay, ug ang iyang presensya nakapalibog sa akong kalibutan.",
+    "Naningkamot ko sa pagdani kaniya, apan nangita siyag dalangpanan sa iyang Ginoo.",
+    "Gigisi nako ang iyang sapot gikan sa likod, apan ang ebidensiya nagpunting sa akong pagpanglimbong.",
+    "Aron mahilom ang tsismis sa mga babayeng halangdon, gidapit nako sila sa usa ka panagtapok ug gibutangan og mga hait nga butang ang ilang mga kamot.",
+    "Sa katapusan, giangkon ko sa publiko ang akong sala, nga giila ang kamatuoran atubangan sa hari."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang Asawa ni Al-Aziz",
+        "Asiya (Asawa ni Paraon)",
+        "Bilqis (Rayna sa Sheba)",
+        "Maryam (Inahan ni Isa)",
+        "Ang Inahan ni Musa"
+      ],
+      "answer": "Ang Asawa ni Al-Aziz"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Naningkamot siya sa pagdani kang Propeta Yusuf",
+        "Naningkamot siya sa pagpatay kang Propeta Musa",
+        "Nag-angkon siya nga usa ka diyosa",
+        "Nagtukod siyag tore aron hagiton si Allah",
+        "Nangulo siya sa usa ka kasundalohan batok sa Makkah"
+      ],
+      "answer": "Naningkamot siya sa pagdani kang Propeta Yusuf"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka kamiseta nga gisi gikan sa likod",
+        "Usa ka bulawan nga nating baka",
+        "Usa ka sungkod nga nahimo nga bitin",
+        "Usa ka bayeng kamelyo",
+        "Usa ka lampara"
+      ],
+      "answer": "Usa ka kamiseta nga gisi gikan sa likod"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Iyang giangkon ug gidawat ang kamatuoran",
+        "Nalumos siya uban sa iyang kasundalohan",
+        "Nahimo siyang haligi nga asin",
+        "Gilamoy siya sa yuta",
+        "Nalaglag siya sa nagngulob nga hangin"
+      ],
+      "answer": "Iyang giangkon ug gidawat ang kamatuoran"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

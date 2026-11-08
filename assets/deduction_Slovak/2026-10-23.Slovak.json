@@ -1,0 +1,61 @@
+{
+  "title": "Misia v starobylom meste",
+  "intro": "Prašné starobylé mesto, jeho obyvatelia zakorenení v popieraní a posledné varovanie, ktoré zostalo nepovšimnuté. Dnes sa vžite do úlohy tých, ktorých poslal Alah, aby odovzdali posolstvo tvrdohlavému ľudu. Príbeh o odmietnutí, jedinečný hlas viery a koniec spečatený zničujúcim dekrétom. Kto prehovára prostredníctvom týchto indícií?",
+  "clues": [
+    "Boli sme poslaní Alahom do mesta, ktorého ľudia sa odvrátili od pravdy",
+    "Najprv sme prišli dvaja, potom sa pridal tretí, aby posilnil naše poslanie",
+    "Obyvatelia mesta nás odmietli a povedali, že sme len ľudia ako oni",
+    "Jedna duša z najvzdialenejšieho konca mesta bežala povedať ľuďom, aby nás nasledovali.",
+    "Prosili sme ich, ale oni zatvrdili svoje srdcia a obrátili sa proti nám",
+    "V jednom zničujúcom výkriku z nebies bolo celé naše mesto umlčané"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Poslovia mesta v súre Ja-Sin",
+        "Hawwariyyun (Učeníci Isy)",
+        "Čarodejníci faraónovho dvora",
+        "Spoločníci soboty",
+        "Ľudia slona"
+      ],
+      "answer": "Poslovia mesta v súre Ja-Sin"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Odmietnutí a mešťania ich nazývajú klamármi",
+        "Zaživa upálený vo veľkom planúcom ohni",
+        "Prehltnutý veľkou rybou v hlbokom mori",
+        "Nútený pracovať na stavbe týčiaceho sa stĺpa",
+        "Mučení v zákope zúriaceho ohňa"
+      ],
+      "answer": "Odmietnutí a mešťania ich nazývajú klamármi"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Starobylé mesto (al-Qaryah)",
+        "Veľká horiaca pec",
+        "Brucho veľkej ryby",
+        "Vznešený stĺp dotýkajúci sa neba",
+        "Posvätný dom (Kaaba)"
+      ],
+      "answer": "Starobylé mesto (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Mesto bolo zničené jediným ničivým výkrikom (Sayha)",
+        "Tyran a jeho armáda sa utopili v rozdelenom mori",
+        "Ľudia sa premenili na opice a opice",
+        "Dážď kameňov z neba zničil mesto",
+        "Silná povodeň zmietla celú obec"
+      ],
+      "answer": "Mesto bolo zničené jediným ničivým výkrikom (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

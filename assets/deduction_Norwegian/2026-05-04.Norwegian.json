@@ -1,0 +1,61 @@
+{
+  "title": "Arrogansens arkitekt",
+  "intro": "I et eldgammelt land styrt av en trassig makt, hadde en nøkkelperson en innflytelsesrik posisjon. Denne sjelen var instrumental i herskerens store planer, bidro til deres undertrykkende styre og utfordret det guddommelige budskapet. Arven deres er sammenvevd med en jakt på verdslig makt og en fornektelse av sannheten.",
+  "clues": [
+    "Jeg tjente en formidabel hersker som undertrykte et folk i generasjoner.",
+    "Mitt navn er ofte nevnt i Den guddommelige boken sammen med denne mektige lederen.",
+    "Jeg fikk i oppgave å utføre et storslått byggeprosjekt, en ruvende struktur ment å nå himmelen.",
+    "Jeg rådet min herre til å drepe Israels barns sønner og spare døtrene deres.",
+    "Jeg var involvert i komplotter og konspirasjoner mot en mektig sendebud fra Allah.",
+    "Min ende, sammen med min herre og hans hær, kom i vannet i et stort hav."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Nimrod",
+        "Abraha",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Blir testet med enorm rikdom",
+        "Leder en hær mot et hellig hus",
+        "Å bygge et tårn for å nå Gud",
+        "Å bli kastet i ilden for sin tro",
+        "Å bli kastet i en brønn av søsken"
+      ],
+      "answer": "Å bygge et tårn for å nå Gud"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Arken",
+        "De ansatte",
+        "Fjellet",
+        "Tårnet",
+        "Hvalen"
+      ],
+      "answer": "Tårnet"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Å bli gitt enorm visdom",
+        "Å bli en profet",
+        "Å bli slukt av jorden",
+        "Å bli tildelt et kongerike",
+        "Drukning i havet"
+      ],
+      "answer": "Drukning i havet"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

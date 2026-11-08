@@ -1,0 +1,61 @@
+{
+  "title": "Dhaggeeffattoota Dhokataa Kan Amane",
+  "intro": "Walgahii qulqulluu tasgabbaaʼaa taʼe keessatti, walgaʼiin dinqisiisaa taʼe tokko naannoo hin mulʼanne irraa dhufe. Waan ajaa’ibaa tokko xuxxuquun harkifamanii, qara’a hiree isaanii bara baraan chaappaa godhatu dhaggeeffatan. Dhugaa ba’umsi isaanii macaafa qulqulluu waaqummaa keessatti adda ta’e keessaa tokko ta’ee hafeera.",
+  "clues": [
+    "Nuti uumamtoota naannoo irra caalaan isaanii hin argine irraa kan taane yoo ta’u, akka gareetti dhufne.",
+    "Waan dinqisiisaa dhagaʼuuf gara walgaʼii tokkootti deemne.",
+    "Yeroo achi geenyu qara’a tokko dhaggeeffannee ajaa’ibsiifanne.",
+    "Nu keessaa gariin qajeelota gariin immoo qajeeloo akka hin taane ifatti beeknee turre.",
+    "Lafa irratti labsii waaqummaa jalaa miliquu akka hin dandeenye, gara samiittis balali’uu akka hin dandeenye ni beekna turre.",
+    "Qajeelfama sana yommuu dhageenyu itti amanne; namni Gooftaa isaanitti amanu kasaaraa fi ba’aa hin sodaatu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Garee Jinniiwwanii",
+        "Ummata Iram",
+        "Ummata Tubbaa'.",
+        "Impaayera Roomaa",
+        "Gosa Qureeyshii"
+      ],
+      "answer": "Garee Jinniiwwanii"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Dubbii qulqulluu dhaggeeffachuu",
+        "Magaalaa keenya keessatti utubaawwan olka'oo ijaaruu",
+        "Gaala dubaraa ajaa'ibaa adamsuu",
+        "Raajota keenya ajjeesuun diigamuu",
+        "Qabeenya hamma hin jedhamne baay’isuu"
+      ],
+      "answer": "Dubbii qulqulluu dhaggeeffachuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Walga’ii qara’aa qulqulluu",
+        "Magaalaa utubaawwan dheeraa (Iram) .",
+        "Boolla bishaanii gammoojjii keessa jiru",
+        "Masaraa guddaa warqee irraa hojjetame",
+        "Holqa qulqulluu gaara keessa jiru"
+      ],
+      "answer": "Walga’ii qara’aa qulqulluu"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Nuti amannee ummata keenya akeekkachiifne",
+        "Dhohinsa cimaa samii irraa dhufeen barbadaa'e",
+        "Bubbee gubaa fi diigumsaatiin adabame",
+        "Qabeenyaa fi aangoo guddaa kennameef",
+        "Kufrii irratti jabaate"
+      ],
+      "answer": "Nuti amannee ummata keenya akeekkachiifne"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

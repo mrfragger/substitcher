@@ -1,0 +1,61 @@
+{
+  "title": "Prýðin sem sökk",
+  "intro": "Ímyndaðu þér þetta: sál klædda fínum klæðum og umkringd óhugsandi fjársjóðum. Þessi einstaklingur trúði því að auðæfi hans væru aflað með eigin snilld og viðurkenndi aldrei uppsprettu sannrar framfærslu. Þessi einstaklingur, sem gekk meðal fylgjenda máttugs spámanns, hafnaði öllum köllum til auðmýktar. Í dag afhjúpum við persónu sem varð síðasta hvíldarstaður þeirra, en stórkostleg auðæfi hans.",
+  "clues": [
+    "Ég lifði á tímum spámanns sem kallaði þrjóskufulla þjóð til sannleikans.",
+    "Ég var hluti af útvöldu samfélagi, en samt sneri hjarta mitt baki við boðskapnum.",
+    "Gull og silfur heilluðu mig meira en nokkur guðleg skipun.",
+    "Fjársjóðsgeymslur mínar urðu svo stórar að sterkur hópur manna gat varla lyft lyklunum.",
+    "Ég stærði mig af því að ég hefði fengið auður minn vegna eigin þekkingar.",
+    "Að lokum var ég og allur bústaður minn gleyptur af jörðinni sem viðvörun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samírí",
+        "Bilqis",
+        "Talút (Sál)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Hroki yfir auð og að hafna góðgerðarstarfi",
+        "Að smíða gullmynd úr bræddu skartgripum",
+        "Að lýsa yfir guðdómleika yfir voldugu ríki",
+        "Ofsóknir á fyrstu trúuðum í Mekka",
+        "Leiða herferð til að eyðileggja Heilaga húsið"
+      ],
+      "answer": "Hroki yfir auð og að hafna góðgerðarstarfi"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Fjársjóðir sem lyklarnir þyrptu mörgum sterkum mönnum",
+        "Gullkálfur sem gaf frá sér hljóð",
+        "Dýrlegur hásæti frá fjarlægu landi",
+        "Skotgraf fullur af logandi eldi",
+        "Öflugur her stríðsfíla"
+      ],
+      "answer": "Fjársjóðir sem lyklarnir þyrptu mörgum sterkum mönnum"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Gleypt af jörðinni ásamt bústaðnum",
+        "Drukknaði í sjónum með her",
+        "Brennd lifandi í eldgryfju",
+        "Eyðilagður af öskrandi, ofsafengnum vindi",
+        "Sleginn niður af einni voldugri sprengingu"
+      ],
+      "answer": "Gleypt af jörðinni ásamt bústaðnum"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

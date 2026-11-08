@@ -1,0 +1,61 @@
+{
+  "title": "Vodiyning jim ovozi",
+  "intro": "Bir vaqtlar sinov sifatida tirik mo'jizani qabul qilgan qudratli xalqqa vaqt o'tishi bilan qadam qo'ying. Mag'rurlik va o'jarlik ularning taqdirini belgilab qo'ydi. Ushbu dramatik burilish nuqtasida nimalar sodir bo'lganini bilib olasizmi?",
+  "clues": [
+    "Men o'zining kuchi va itoatsizligi bilan mashhur bo'lgan qudratli qavmga ilohiy sinov sifatida yuborildim.",
+    "Men noyob mo'jiza edim — men kabilar ular orasida hech qachon paydo bo'lmagan edi.",
+    "Men kun bo'yi odamlarim bilan quduqdan suv ichib turardim.",
+    "Ular menga qarshi har qanday zarar tezda jazolanishi haqida ogohlantirildi.",
+    "Ularning eng jasurlari ogohlantirishni e'tiborsiz qoldirib, meni oyoq-qo'limdan kesib tashlashdi.",
+    "O'limimdan keyin yuqoridan kelgan bitta momaqaldiroq ovozi butun xalqimni yo'q qildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Solihning urg'ochi tuyasi",
+        "Musoning sigiri",
+        "Nuh kemasi",
+        "Musoning tayoqchasi",
+        "Bilqis taxti"
+      ],
+      "answer": "Solihning urg'ochi tuyasi"
+    },
+    "trial": {
+      "label": "Mening taqdirim",
+      "options": [
+        "Hamyonbop va o'ldirilgan",
+        "Qurbonlik sifatida so'yilgan",
+        "Ilonga aylangan",
+        "Katta suv toshqini paytida saqlanib qolgan",
+        "Tezda qirollik bo'ylab olib kelindi"
+      ],
+      "answer": "Hamyonbop va o'ldirilgan"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Suv qudug'i",
+        "Tosh lavhasi",
+        "Yonayotgan buta",
+        "Yog'ochdan yasalgan sandiq",
+        "Oltin va kumushdan yasalgan taxt"
+      ],
+      "answer": "Suv qudug'i"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Bitta qichqiriq bilan vayron qilingan",
+        "Katta suv toshqinida cho'kib ketdi",
+        "Toshlar yomg'iri bilan yonib ketgan",
+        "Kuchli shamol tomonidan urib tushirilgan",
+        "Yer tomonidan yutib yuborilgan"
+      ],
+      "answer": "Bitta qichqiriq bilan vayron qilingan"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

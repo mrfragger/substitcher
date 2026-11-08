@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo ya Conviction Cachée",
+  "intro": "Na motema ya esambiselo ya bokonzi ya mabe, epai wapi kozanga kondima ezalaki mobeko ya mboka, molimo moko ezalaki kotambola na nsinga ya makasi ya kondima mpe ya bobangi. Moto oyo, penepene na katikati ya nguya, ayokaki lokola nsango ya profeta moko ekutanaki na kotyola mpe kobangisa. Mwa ntango moko ya bosolo ekomaki, kotindaka moto oyo na makasi apona kati na bokengi ya kimia mpe koloba bosolo ya likama. Okoki kobimisa bomoto ya mobundi oyo ya mpiko?",
+  "clues": [
+    "Nazalaki kofanda na kati ya ndako mpenza ya mokonzi moko ya mobulu, nazalaki komona na miso na ngai moko lolendo oyo ezalaki koboya bilembo ya Nzambe.",
+    "Nabombaki kondima na ngai na sekele, eloko ya motuya oyo ebombamaki na ndako ya mokonzi ya losambo ya bikeko.",
+    "Nayokaki mokambi oyo nasalelaki azali kosala complot mpo na koboma momemi-nsango moko ya Allah, mobali moko na nkombo Musa.",
+    "Natyaki ntembe na logique na bango, kokundwelaka bango nsuka ya bato ya Nuh, ‘Ad, mpe Thamud.",
+    "Natunaki bato na ngai motuna moko ya kotyola: ‘Soki azali moto ya lokuta, lokuta na ye ezali likoló na ye; kasi soki azali solo, mwa makambo oyo alaki ekobeta yo.’",
+    "Lisolo na ngai elobelami lokola ndakisa ya kondima na surah oyo ebengami ‘Molimbisi,’ esika wapi nakebisaki bato na ngai na mayele mabe ya bato ya nguya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mondimi oyo awuti na Libota ya Fir'awn",
+        "Hamane",
+        "Ba Magiciens ya Fir'awn",
+        "Qarun",
+        "Ba Samiri"
+      ],
+      "answer": "Mondimi oyo awuti na Libota ya Fir'awn"
+    },
+    "trial": {
+      "label": "Momekano na ngai ezalaki nini?",
+      "options": [
+        "Ko défendre Prophète Musa na tribunal ya tyran",
+        "Kotonga ndako molai mpo na kokóma na likoló",
+        "Kobwakama na mɔtɔ oyo ezali kopela",
+        "Komela mbisi moko monene",
+        "Kobungisa bomengo nyonso mpe kolɔngɔnɔ ya nzoto"
+      ],
+      "answer": "Ko défendre Prophète Musa na tribunal ya tyran"
+    },
+    "location": {
+      "label": "Motó ya likambo ya ntembe na ngai ezalaki nini?",
+      "options": [
+        "Litomba ya koboya nsango ya mosakoli",
+        "Kosɛnga elembo oyo euti na nzete moko mosantu",
+        "Kokela mwana ya ngɔmbɛ na bijoux oyo enyangwaki",
+        "Likamwisi ya kamela oyo euti na libanga",
+        "Ndimbola ya bandoto ya mokonzi"
+      ],
+      "answer": "Litomba ya koboya nsango ya mosakoli"
+    },
+    "outcome": {
+      "label": "Ezalaki nini?",
+      "options": [
+        "Allah abikisaki mutu oyo na complot na bango ya mabe",
+        "Tribinale mobimba endimaki mbala moko Islam",
+        "Mokonzi yango ayambolaki na ngonga oyo azindaki na mai",
+        "Mokonzi ya mabe amelamaki na mabele",
+        "Bamemaki moto yango na boombo na mboka moko ya mosika"
+      ],
+      "answer": "Allah abikisaki mutu oyo na complot na bango ya mabe"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Motse o Neng o Lumela Nakong",
+  "intro": "Litlalehong tsa mohau oa Molimo, ho na le sechaba seo phetoho ea sona e bileng motsotso oa ho phethahala ha bohle. U se u le mothating oa ho senola pale ea bona—pale ea temoso, pako, le phomolo e ba khethollang ho qetello ea lichaba tse ling.",
+  "clues": [
+    "Re ne re le batho bao lenģosa le neng le rometsoe ho bona, 'me re ile ra furalla pitso ea hae qalong.",
+    "Ha matšoao a kotlo e tlang a hlaka, re ile ra hlokomela 'nete ea temoso ea hae.",
+    "Re ile ra retelehela ho Morena oa rona ka pako ea 'nete, 'me tumelo ea rona ea amoheloa.",
+    "Kotlo e neng e laetsoe holim'a rona e ile ea tlosoa ka lebaka la tumelo ea rona.",
+    "Pale ea rona e qotsoa e le mokhelo har'a metse e ileng ea lumela ka mor'a ho bona kotlo.",
+    "Re ne re le batho ba moprofeta ea ileng a metsoa ke leruarua, empa re ile ra pholosoa timetsong."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba Yunus",
+        "Batho ba Nuh",
+        "Batho ba Hud",
+        "Batho ba Salih",
+        "Batho ba Lute"
+      ],
+      "answer": "Batho ba Yunus"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Moroallo o senyang",
+        "Sefefo se matla",
+        "Kotlo e atamelang ea lihlong e ileng ea qojoa",
+        "Lefatše lea ba metsa",
+        "Pula ea majoe"
+      ],
+      "answer": "Kotlo e atamelang ea lihlong e ileng ea qojoa"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Areka",
+        "Kamele e tšehali",
+        "Motse oa batho ba likete tse lekholo",
+        "Basebetsi ba Musa",
+        "Letlotlo la Qarun"
+      ],
+      "answer": "Motse oa batho ba likete tse lekholo"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Li ile tsa timetsoa ka ho feletseng",
+        "Ba ile ba fuoa thabo ka nakoana",
+        "Ba ile ba fetoloa litšoene",
+        "Ba ile ba khangoa ke metsi",
+        "Ba ile ba metsoa ke lefats'e"
+      ],
+      "answer": "Ba ile ba fuoa thabo ka nakoana"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

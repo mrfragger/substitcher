@@ -1,0 +1,61 @@
+{
+  "title": "Binciken Kotu",
+  "intro": "A cikin hanyoyin iko, wani mutum mai matsayi mai girma ya yi sha'awar bawa wanda kyawunsa ya kasance na duniya. Wannan sha'awar ta haifar da jerin abubuwan da za su gwada aminci, su bayyana gaskiya ɓoyayyiya, sannan a ƙarshe su tabbatar da rashin laifin bawa.",
+  "clues": [
+    "Na zauna a ƙasar Nilu, a cikin gidan sarauta mai tasiri sosai.",
+    "Wani saurayi ya shigo gidana, kuma kasancewarsa ya dame ni a duniya.",
+    "Na yi ƙoƙarin lalata shi, amma ya nemi mafaka a wurin Ubangijinsa.",
+    "Na yage rigarsa daga baya, amma shaidar ta nuna cewa yaudarata ce.",
+    "Domin dakatar da tsegumin matan masu daraja, na gayyace su zuwa wani taro na kuma sanya abubuwa masu kaifi a hannunsu.",
+    "A ƙarshe, na furta laifina a bainar jama'a, na kuma furta gaskiya a gaban sarki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Matar Al-Aziz",
+        "Asiya (Matar Fir'auna)",
+        "Bilqis (Sarauniyar Sheba)",
+        "Maryamu (Uwar Annabi Isa)",
+        "Uwar Musa"
+      ],
+      "answer": "Matar Al-Aziz"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ta yi yunkurin lalata Annabi Yusufu",
+        "Ta yi ƙoƙarin kashe Annabi Musa",
+        "Ta yi iƙirarin cewa ita allahiya ce",
+        "Ta gina hasumiya don ƙalubalantar Allah",
+        "Ta jagoranci rundunar sojoji zuwa Makkah"
+      ],
+      "answer": "Ta yi yunkurin lalata Annabi Yusufu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Riga da aka yage daga baya",
+        "Ɗan maraƙi na zinariya",
+        "Sanda da ta rikide ta zama maciji",
+        "Raƙumi",
+        "Fitilar"
+      ],
+      "answer": "Riga da aka yage daga baya"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ta furta kuma ta yarda da gaskiya",
+        "An nutsar da ita tare da sojojinta",
+        "Ta zama ginshiƙin gishiri",
+        "Ƙasa ta haɗiye ta",
+        "Iska mai ƙarfi ta lalata ta"
+      ],
+      "answer": "Ta furta kuma ta yarda da gaskiya"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

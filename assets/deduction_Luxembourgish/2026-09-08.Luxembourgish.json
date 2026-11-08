@@ -1,0 +1,61 @@
+{
+  "title": "De Prozess vun der helleger Flam",
+  "intro": "An engem ale Land, wou d'Hingabe zu geschnëtzte Steen an all Haus verankert war, huet sech eng Persoun erausgehuewen. Duerch onerschütterlech Iwwerzeegung a göttleche Schutz hunn si sech dem Doud entgéintgesat - a si sinn ouni Schued fortgaangen. Kënnt Dir d'Identitéit vun dëser bemierkenswäerter Séil entdecken?",
+  "clues": [
+    "Ech sinn ënner Leit opgewuess, déi sech virun Idolen verbeugt hunn, déi se mat hiren eegenen Hänn geschnëtzt haten, well ech gegleeft hunn, datt dës Objeten göttlech Kraaft hätten.",
+    "Wéi ech hir Iwwerzeegungen a Fro gestallt hunn, hunn si mech ufanks ofgewisen, mee ech konnt net roueg bleiwen iwwer d'Wourecht, déi ech kannt hunn.",
+    "Un engem Dag, wou se zesummegedroe goufen, hunn ech hir Idolen zerstéiert, an nëmmen déi gréisst onberéiert gelooss.",
+    "Wéi si zréckkoumen a gesinn hunn, wat ech gemaach hat, hunn hir Cheffen den Uerder ginn, e grousse Scheiterhaufen ze bauen, mat der Absicht, mech an d'Flammen ze geheien.",
+    "Si hunn mech an dat flammend Feier gehäit, mä den Här vun de Welten huet et gebueden, et kill a sécher fir mech ze ginn.",
+    "Ech sinn komplett onverletzt aus de Flamen erauskomm, während déi, déi géint mech intrigéiert hunn, dem komplette Ruin erlieft hunn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Isa",
+        "Prophet Yusuf"
+      ],
+      "answer": "Prophet Ibrahim"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "An e brennend Feier gehäit ginn",
+        "Vun engem grousse Wal verschléckt ginn",
+        "Iwwerliewe vun enger grousser Iwwerschwemmung",
+        "An en déiwe Brunn gehäit ginn",
+        "Konfrontatioun mat de Magier vun engem Kinnek"
+      ],
+      "answer": "An e brennend Feier gehäit ginn"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E massive Feier aus brennendem Holz",
+        "Eng grouss Holzark",
+        "Eng Statu vun engem gëllene Kalb",
+        "E schwiewende Kuerf op engem Floss",
+        "En herrleche Troun"
+      ],
+      "answer": "E massive Feier aus brennendem Holz"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Allah huet d'Feier kill a sécher gemaach",
+        "D'Ark ass sécher op engem Bierg gelant",
+        "Déi gëllen Idol ass virun hiren Aen geschmolz",
+        "En Tyrann a seng Arméi sinn am Mier erdronk",
+        "D'Siicht vun engem blanne Mann gouf erëm hiergestallt"
+      ],
+      "answer": "Allah huet d'Feier kill a sécher gemaach"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

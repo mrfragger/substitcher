@@ -1,0 +1,61 @@
+{
+  "title": "La pretensión de autoridad absoluta",
+  "intro": "En la antigüedad, un poderoso individuo llegó a dominar una vasta tierra y a sus habitantes. Su reinado estuvo marcado por un orgullo inmenso y un profundo desafío a la autoridad divina. Prepárate para descubrir la identidad de un alma cuyo destino final se convirtió en una lección imperecedera para todas las generaciones.",
+  "clues": [
+    "Goberné un poderoso imperio, donde mi palabra era ley.",
+    "Me declaré la deidad suprema, exigiendo adoración de todos los que estaban bajo mi dominio.",
+    "Oprimí a una comunidad en particular, la esclavicé y ordené la matanza de sus niños varones.",
+    "En repetidas ocasiones me encontré ante un humilde mensajero de Dios, que realizó milagros evidentes ante mí y mis magos.",
+    "Rechacé obstinadamente la verdad, acusando al mensajero de brujería y conspirando para destruirlo a él y a sus seguidores.",
+    "Todo mi ejército y yo fuimos engullidos por el mar mientras perseguíamos sin descanso a aquellos que habían sido liberados de mi control."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Hamán"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El gran diluvio",
+        "El fuego ardiente",
+        "El ahogamiento del opresor",
+        "La destrucción por el viento",
+        "El terremoto de la incredulidad"
+      ],
+      "answer": "El ahogamiento del opresor"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca de Noé",
+        "El bastón de Moisés",
+        "El Ídolo Dorado",
+        "El pozo de Zamzam",
+        "El trono de Bilqis"
+      ],
+      "answer": "El bastón de Moisés"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se le concedió un vasto reino.",
+        "Cuerpo conservado como signo",
+        "Perdonados tras el arrepentimiento",
+        "Elevado a la categoría de profeta",
+        "Su pueblo se volvió piadoso"
+      ],
+      "answer": "Cuerpo conservado como signo"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

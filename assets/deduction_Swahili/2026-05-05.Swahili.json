@@ -1,0 +1,61 @@
+{
+  "title": "Kukumbatiana kwa Dunia",
+  "intro": "Katika wakati wa majaribu makubwa, mtu mashuhuri alipewa utajiri mwingi wa kidunia, jaribio la shukrani na unyenyekevu. Safari ya mtu huyu inatumika kama somo kubwa kuhusu asili ya muda mfupi ya mali na matokeo ya kiburi. Tambua utambulisho wa nafsi hii ambayo hadithi yake imechorwa chini kabisa chini yetu.",
+  "clues": [
+    "Niliishi miongoni mwa watu walioongozwa na mjumbe mkuu.",
+    "Mwenyezi Mungu alinipa utajiri mkubwa sana kiasi kwamba funguo za hazina zangu zilikuwa mzigo mzito kwa watu wengi wenye nguvu.",
+    "Watu wangu, wakijua utajiri wangu, walinishauri nitafute makao ya Akhera kwa yale ambayo Mwenyezi Mungu amenipa na nisisahau sehemu yangu ya dunia, na kufanya mema kama Mwenyezi Mungu alivyonitendea mema.",
+    "Nilitangaza kwa kiburi kwamba utajiri wangu mkubwa ulipata tu kupitia ujuzi na juhudi zangu mwenyewe, nikikataa neema yoyote ya Mungu.",
+    "Nilipoombwa kuchangia au kutambua fadhila ya Mwenyezi Mungu, nilikataa kwa fahari, nikiamini mali zangu zilikuwa zangu pekee.",
+    "Kutokana na kiburi na uonevu wangu uliokithiri, Mwenyezi Mungu aliamuru ardhi ifunguke na kunimeza mimi na makao yangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Firauni",
+        "Iblis",
+        "Hamani",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutupwa motoni",
+        "Kuzama baharini",
+        "Kufukuzwa kutoka bustanini",
+        "Kubadilishwa kuwa nyani",
+        "Kumezwa na ardhi"
+      ],
+      "answer": "Kumezwa na ardhi"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa dhahabu",
+        "Safina yenye nguvu",
+        "Ndege anayezungumza",
+        "Fimbo ya miujiza",
+        "Hazina na funguo kubwa"
+      ],
+      "answer": "Hazina na funguo kubwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuwa mtawala mkuu",
+        "Kupokea ufunuo wa kimungu",
+        "Kupanda mbinguni",
+        "Kuishi maisha marefu ya uchaji Mungu",
+        "Uharibifu kamili kutokana na kiburi"
+      ],
+      "answer": "Uharibifu kamili kutokana na kiburi"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

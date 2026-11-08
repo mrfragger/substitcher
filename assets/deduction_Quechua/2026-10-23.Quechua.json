@@ -1,0 +1,61 @@
+{
+  "title": "Ñawpa Llaqtapi Misión",
+  "intro": "Polvoyoq ñawpaq llaqta, llaqtan negacionpi saphichasqa, qhepa kaq advertenciataq mana uyarisqa. Kunanqa, Allahpa kachamusqan runakunaq ruwayninman haykuy, k’ullu llaqtaman willakuyta apachinankupaq. Mana chaskisqa kaymanta willakuy, iñiypa sapallan kunka, hinaspa huk tuñichiq kamachikuywan sellasqa tukukuy. ¿Pitaq kay pistakunawan riman?",
+  "clues": [
+    "Allah kachawarqanku huk llaqtaman, chay llaqtamanmi llaqtanqa cheqaq kaqmanta t’aqakusqaku",
+    "Iskayniyku ñawpaqta hamurqayku, chaymantataq kinsa kaq huñunakurqayku misionniyku kallpachanaykupaq",
+    "Llaqta runakunaqa mana munawarqankuchu, mana imapaschu, paykuna hina runalla kayku nispa",
+    "Llaqtapa aswan karu puntanmanta huk almallam kallparqa runakuna qatiwanankupaq ninanpaq",
+    "Paykunatan valekurqayku, paykunan ichaqa sonqonkuta rumiyachispa contraykuman kutipurqanku",
+    "Hanaq pachamanta huk qapariyllapim lliw llaqtanchik upallarurqa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Surah Ya-Sin nisqapi Llaqtamanta Kachasqakuna",
+        "Hawwariyyun (Isa discipulonkuna) .",
+        "Faraonpa Cortenpi Layqakuna",
+        "Sábado punchawpi Compañerokuna",
+        "Runakuna Elefante"
+      ],
+      "answer": "Surah Ya-Sin nisqapi Llaqtamanta Kachasqakuna"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Llaqta runakunapa qipanchasqa hinaspa llulla nispa sutichasqa",
+        "Hatun ninapi kawsachkaqta ruphasqa",
+        "Ukhu mama quchapi hatun challwa millp’usqa",
+        "Huk hatun pilarta ruwaspa llamkanankupaq obligasqa",
+        "Nina rawraq zanjapi ñak’arichisqa"
+      ],
+      "answer": "Llaqta runakunapa qipanchasqa hinaspa llulla nispa sutichasqa"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Ñawpa llaqta (al-Qaryah) .",
+        "Hatun rawraq horno",
+        "Hatun challwapa wiksan",
+        "Hanaq pachaman llachpakuq alto sayayniyuq pilar",
+        "Sagrado Wasi (Kaaba) ."
+      ],
+      "answer": "Ñawpa llaqta (al-Qaryah) ."
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Llaqtataqa huk thuñichiq waqayllam tuñichirqan (Sayha) .",
+        "Chay tiranoqa ejercitonpas rakinasqa lamar qochapim yakupi wañururqaku",
+        "Runakunaqa monokunaman, kunturkunamanmi tikrakurqaku",
+        "Hanaq pachamanta rumikuna paramuspan llaqtata thuñichirqan",
+        "Lliw llaqtata sinchita unu hunt’aykusqa"
+      ],
+      "answer": "Llaqtataqa huk thuñichiq waqayllam tuñichirqan (Sayha) ."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

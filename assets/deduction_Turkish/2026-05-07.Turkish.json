@@ -1,0 +1,61 @@
+{
+  "title": "Derinliklerden Gelen Çağırıcı",
+  "intro": "İlahi bir mesajla donatılmış bir ruhu hayal edin; fakat bu ruh, bir anlık aceleyle, açık bir izin almadan halkından ayrıldı. Bu yolculuk, onu olağanüstü bir imtihana, Yüce Allah'a olan sabrın ve tevekkülün derin bir sınavına götürdü. Tövbeyi ve Allah'ın rahmetinin enginliğini bize öğreten bu kişi kimdir?",
+  "clues": [
+    "Büyük bir ülkeye gönderildim, ancak ilk başta beni reddetmeleri beni üzdü.",
+    "Görevimin tamamlandığına inanarak halkımı terk ettim, ancak ayrılmam için net bir emir almadan önce.",
+    "Gemiye binmek için yer aradım, ancak şiddetli bir fırtına ve kura çekimi sonucu durum oldukça vahim bir hal aldı.",
+    "Denize atıldım ve derinliklerin kudretli bir yaratığı beni bütün olarak yuttu.",
+    "O karanlığın içinde, Allah'a seslenerek, yanlışımı itiraf ettim ve O'ndan bağışlanma diledim.",
+    "Allah yaratığa beni kıyıya atmasını emretti ve eşsiz bir bitkinin altında sağlığıma kavuştum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yusuf (Joseph)",
+        "Peygamber Nuh (Noah)",
+        "Peygamber Yunus (Yunus)",
+        "Peygamber Süleyman (Solomon)",
+        "Peygamber Eyüp (Job)"
+      ],
+      "answer": "Peygamber Yunus (Yunus)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Denizin yarılması",
+        "Nimrod'un ateşi",
+        "Büyük bir balık tarafından yutulmak",
+        "sel",
+        "Taşlarla bir şehrin yıkımı"
+      ],
+      "answer": "Büyük bir balık tarafından yutulmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Balığın karnı",
+        "Kuyu",
+        "Yanan çalı"
+      ],
+      "answer": "Balığın karnı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Büyük bir hükümdar oldu.",
+        "Kabe'yi inşa etti.",
+        "Pişman olan bir millete rehberlik etmek için geri döndü.",
+        "Cinler üzerinde egemenlik verildi.",
+        "İnsanları çöl boyunca yönlendirdi."
+      ],
+      "answer": "Pişman olan bir millete rehberlik etmek için geri döndü."
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

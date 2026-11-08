@@ -1,0 +1,61 @@
+{
+  "title": "Vox Quae Desperationem Recusavit",
+  "intro": "Ingredere domum ubi iactura iacturam sequitur, tamen una vox tranquilla desperationem recusat. Una invocatio in Alcorano patientiam in momentum criticum mutat; potesne indicia ad personam post illam vocem latentem investigare?",
+  "clues": [
+    "Vox patientiae eram intra familiam ubi beneficia calamitate tentabantur.",
+    "In domo divitiarum et liberorum iactura vacua mansi.",
+    "Sciebam morbum quoque illum socium, cuius corpus afflictum erat, percussisse.",
+    "Cum angustia gravis facta esset, cum admonitione ad Deum clamavi.",
+    "Unam declarationem obtuli: Allah est Veritas, ergo patientes estote.",
+    "Ayyub nomine vocavi; postea, Deus afflictionem abstulit et familiam restituit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Uxor Prophetae Ayyub",
+        "Uxor Prophetae Nuh",
+        "Uxor Prophetae Ibrahimi",
+        "Uxor Prophetae Ya'qub",
+        "Filia Pharaonis"
+      ],
+      "answer": "Uxor Prophetae Ayyub"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Cum Ayyub per iacturam et morbum manere, deinde patientiam implorare",
+        "Monens nuntium iustum ut communitatem corruptam deserat",
+        "Preces pro ortu futurae stirpis",
+        "Interpretatio somniorum intra carcerem regium",
+        "Inveniendo puerum creditum iuxta flumen"
+      ],
+      "answer": "Cum Ayyub per iacturam et morbum manere, deinde patientiam implorare"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Declaratio quod Deus est Veritas et patientia requiritur.",
+        "Palma iuxta fontem",
+        "Vocatio ad navem procul ab undis construendam",
+        "Somnium undecim stellarum et solis orientis",
+        "Calathus per Nilum portatus"
+      ],
+      "answer": "Declaratio quod Deus est Veritas et patientia requiritur."
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Afflictio Ayyub sublata est et familia eius restituta.",
+        "Puer diu exspectatus post sterilem precem concessus est",
+        "Princeps iuvenis septem annos abundantiae et inopiae interpretatus est.",
+        "Puer creditus ex aqua fluente servatus est",
+        "Monitum inundationem destructivam praecessit"
+      ],
+      "answer": "Afflictio Ayyub sublata est et familia eius restituta."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Abagcini Besivuno Esiyimfihlo",
+  "intro": "Kwilizwe elinohlaza, iqela labantu lenza icebo eliyimfihlo phantsi kobumnyama. Babeneenjongo ezifanayo, kodwa injongo yabo yayingeyiyo eyobulungisa kwaphela. Babengazi ukuba kukho utshintsho olukhulu olubalindele njengoko belele.",
+  "clues": [
+    "Senze isigqibo esiqinileyo, sicinga ukuba icebo lethu alinasiphako.",
+    "Sasifuna ukuphuma kwangethuba, ngaphambi kokuba abanye baqalise ukuphazamisana.",
+    "Siqalise icebo elichumileyo, siqinisekile ngezinto esizityayo.",
+    "Njengoko sifika apho besisiya khona, sayifumana ingenanto kwaye ingenanto, ngoko sacinga ukuba silahlekile.",
+    "Emva koko saqonda ukuba yindawo yethu ngenene, saza sakhala siphelelwe lithemba, sityholana ngokulahlekelwa kwethu.",
+    "Sasifungile ngaloo ntsasa ukuba singabakhuphi amahlwempu kwisivuno sethu, kodwa isohlwayo sika-Allah safika kuthi xa silele, saguqula igadi yethu yaba yincithakalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Abanini beGadi kwiSurah 68",
+        "Abantu baseSaba",
+        "Amaqabane Omqolomba",
+        "Abantu Bendlovu",
+        "Abantu baseMfuleni"
+      ],
+      "answer": "Abanini beGadi kwiSurah 68"
+    },
+    "trial": {
+      "label": "Uvavanyo Lwethu",
+      "options": [
+        "Igadi yethu yonakaliswe yintlekele evela esibhakabhakeni",
+        "Igadi yethu yatshatyalaliswa zizikhukula",
+        "Igadi yethu yatshiswa ngumlilo ovela kutshaba",
+        "Igadi yethu yayizele ziinkumbi",
+        "Igadi yethu yaginywa yinyikima"
+      ],
+      "answer": "Igadi yethu yonakaliswe yintlekele evela esibhakabhakeni"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Safunga ukuba siza kukha iziqhamo zaso kusasa",
+        "Sakha idama lokunkcenkceshela igadi yethu",
+        "Safuna indawo yokusabela emqolombeni ukuze sikhuseleke",
+        "Silungiselele umkhosi wokoyisa ubukumkani",
+        "Sikhwele inqanawa ukuze siwele ulwandle"
+      ],
+      "answer": "Safunga ukuba siza kukha iziqhamo zaso kusasa"
+    },
+    "outcome": {
+      "label": "Isiphelo Sethu",
+      "options": [
+        "Saguquka saza sathemba inceba evela kuAllah",
+        "Satshatyalaliswa ngokupheleleyo kwaye asizange siguquke",
+        "Sibalekile kulo mhlaba kwaye asizange sibuye",
+        "Saba namandla kwaye sazizityebi kwakhona",
+        "Sohlwaywa ngokwenziwa iinkawu"
+      ],
+      "answer": "Saguquka saza sathemba inceba evela kuAllah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

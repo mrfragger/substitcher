@@ -1,0 +1,60 @@
+{
+  "title": "Kolala mpɔngi ya bileko",
+  "intro": "Ozali pene ya kobanda mobembo na ntango, kokutana na libombami moko ya mozindo ya bondimi mpe nguya ya bonzambe. Kanisá etuluku moko ya bato oyo batyaki mibeko ya bato na bango, bakangamaki na losambo ya Nzambe kaka moko na mokili oyo bato mingi bandimaka banzambe mingi. Lisolo na bango ezali litatoli ya makoki ya Allah ya kobatela basali na Ye ya sembo na ndenge ya kokamwa mingi. Okoki koyeba soki bato yango ya kokamwa bazali banani?",
+  "clues": [
+    "Tozalaki mwa etuluku moke ya bilenge mibali oyo bazalaki kondima Nzambe moko, atako bato na biso bazalaki kolinga Nzambe mingi.",
+    "Tokimaki mokonzi moko ya mobulu oyo azalaki kobangisa biso mpo na kondima na biso, na kobanga minyoko mpe liwa.",
+    "Tolukaki ekimelo na esika ya bozangi bato, na elikya ya ngolu ya Allah mpe libateli na banyokoli na biso.",
+    "Nkolo na biso atindaki biso tokweya na pongi ya mozindo, pongi ya kokamwa oyo ezalaki koboya koleka ya tango.",
+    "Ntango tolamuki, tondimaki ete topemaki kaka mpo na mokolo moko to ndambo ya mokolo, kozanga koyeba eleko monene oyo elekaki mpenza.",
+    "Coran elobeli ete totikalaki na etuka na biso mibu nkama misato, mpe tolekaki na libwa, kokoma elembo mpo na bato."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Fosse",
+        "Bato ya Thamud",
+        "Bato ya Libulu",
+        "Bato ya Madyan",
+        "Ba Compagnons ya Nkoyi"
+      ],
+      "answer": "Bato ya Libulu"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kokutana na mpela monene",
+        "Komelama na mabele",
+        "Kolala mpɔngi molai ya likamwisi",
+        "Kobebisama ya engumba na bango",
+        "Kokabwana ya mbu"
+      ],
+      "answer": "Kolala mpɔngi molai ya likamwisi"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nzete moko oyo ezali kozika",
+        "Ngomba moko",
+        "Masuwa moko",
+        "Libulu moko",
+        "Libulu moko ya mai"
+      ],
+      "answer": "Libulu moko"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bapesaki bango bozwi mpe nguya mingi mpenza",
+        "Babongwanaki bango na banyoka mpe ngulu",
+        "Basekwamaki na mpɔngi lokola elembo ya mozindo",
+        "Bazindaki na mai monene",
+        "Batongaki bokonzi moko ya kokamwa"
+      ],
+      "answer": "Basekwamaki na mpɔngi lokola elembo ya mozindo"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

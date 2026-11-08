@@ -1,0 +1,61 @@
+{
+  "title": "Pisu faltsuen aurkako ahotsa",
+  "intro": "Arima leial bat hazi zen merkatari eta saltzaileen artean, balantza okertu eta neurriak laburtzen ziren lurralde batean. Pertsona honek bakarrik egin zuen aurre nazio oso baten desonestasunaren aurka, zuzentasunera eta Jainko Egiazko Bakarra gurtzera deituz. Mezua argia eta deia justua bazen ere, jendeak ez zion entzun nahi izan eta patu suntsitzaile bati aurre egin behar izan zion. Identifika al dezakezu Koraneko mezulari noble hau?",
+  "clues": [
+    "Merkataritza eta merkataritzaren inguruan bizi zen herri baten mezulari gisa bidali ninduten.",
+    "Nire herria ezaguna zen lurralde osoan neurri laburrak emateagatik eta pisuetan iruzur egiteagatik.",
+    "Errepideko bidaiariak izutu eta ustelkeria zabaldu zuten mundu osoan.",
+    "Ala bakarrik gurtzeko eta besteekiko harremanetan guztiz zintzoak izateko eskatu nien.",
+    "Nire mezua arbuiatu zuten eta ni eta nirekin sinetsi zutenak lurraldetik kanporatzeko mehatxua egin zidaten.",
+    "Allahk bere errukiari esker salbatu ninduen ni eta nire jarraitzaileak, eta gaizkileak zigor izugarri batek jo zituen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Shuaib profeta",
+        "Lut profeta",
+        "Hud profeta",
+        "Salih profeta",
+        "Nuh profeta"
+      ],
+      "answer": "Shuaib profeta"
+    },
+    "trial": {
+      "label": "Nire Herriaren Bekatua",
+      "options": [
+        "Pisu eta neurrietan iruzurra egitea",
+        "Dorre garai bat eraikitzen zeruaren aurka",
+        "Gamelu eme bat eskatzen harkaitz batetik",
+        "Bidali zizkieten profetak joz",
+        "Neskatoak bizirik lurperatzea"
+      ],
+      "answer": "Pisu eta neurrietan iruzurra egitea"
+    },
+    "location": {
+      "label": "Nire Jendea",
+      "options": [
+        "Madyango jendea.",
+        "'Aad-eko jendea",
+        "Thamudeko jendea",
+        "Faraoiaren herria.",
+        "Sabatuko jendea"
+      ],
+      "answer": "Madyango jendea."
+    },
+    "outcome": {
+      "label": "Haien amaiera",
+      "options": [
+        "Gauez oihu zorrotz batek harrapatu zituen",
+        "Uholde handi batek ito zituen guztiak",
+        "Haize hotz bortitz batek suntsitu zituen",
+        "Buztin egosizko harriak erori zitzaizkien gainean",
+        "Harrizko zutabe bihurtu ziren"
+      ],
+      "answer": "Gauez oihu zorrotz batek harrapatu zituen"
+    }
+  },
+  "verseRef": "11:94",
+  "arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+  "verse": "And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone (11:94)"
+}

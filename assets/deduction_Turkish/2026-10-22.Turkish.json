@@ -1,0 +1,61 @@
+{
+  "title": "İlk Günahın Topluluğu",
+  "intro": "Eski şehirler diyarında bir zamanlar refah içinde yaşayan bir halk vardı. Onlara açık bir çağrı getiren bir elçi geldi, ancak onlar bu çağrıyı geri çevirip daha önce kimsenin yürümediği bir yola girdiler. Onların öyküsü, meydan okuma, ahlaksızlık ve cezalandırılma öyküsüdür; bu öykü, düşünen herkes için vatanlarına bir işaret olarak kaldı. Bu ruhlar kimlerdir?",
+  "clues": [
+    "Bizler, peygamberimizin bizi doğru yola çağırdığı ova şehirlerinde yaşadık.",
+    "Biz, dünyada daha önce kimsenin yapmadığı bir ahlaksızlığı ilk işleyenler olduk.",
+    "Toplantılarımızda yolcuların yolunu kestik ve açıkça kötülük yaptık.",
+    "Bize gönderilen elçiyi reddettik ve onu topraklarımızdan kovmakla tehdit ettik.",
+    "Hemen evine koştuk ve misafirlerini bize teslim etmesini istedik.",
+    "Cezamız taş yağmuru oldu ve şehrimiz altüst edildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Lut halkı",
+        "Nuh Halkı",
+        "'Ad' halkı",
+        "Thamud Halkı",
+        "Madyan halkı"
+      ],
+      "answer": "Lut halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İlk sodomi eylemini gerçekleştirdi.",
+        "Tapılan putlar",
+        "Ticarette dolandırıldım",
+        "Peygamberlerini öldürdüler.",
+        "Anne babalarının sözünü dinlemediler."
+      ],
+      "answer": "İlk sodomi eylemini gerçekleştirdi."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Ova şehri",
+        "Kuyular şehri",
+        "hendek şehri",
+        "Fil şehri",
+        "Bahçeler şehri"
+      ],
+      "answer": "Ova şehri"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Taşlarla yağdı ve devrildi",
+        "selde boğuldu",
+        "Şiddetli bir rüzgar tarafından yıkıldı",
+        "Toprak tarafından yutuldu",
+        "Şiddetli bir patlamayla vuruldu"
+      ],
+      "answer": "Taşlarla yağdı ve devrildi"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Inyaniso Eyayithulisa Inkundla",
+  "intro": "Kwibhotwe apho ukukhanyela kwakulawula khona kwaye amandla ayephelele, indibano yabasebenzi abanobuchule yayimi phambi komngeni ongalindelekanga. Umoya wawuvunguza ngolindelo njengoko iindlela ezimbini zobuxoki nenyaniso zaziza kungqubana. Abo babehlanganisene babengazi ukuba olu daba lwaluza kutshintsha ubomi babo ngonaphakade kwaye lubhale ibali labo libe yimibhalo engcwele.",
+  "clues": [
+    "Sasidume ngobuchule bethu bokucinga ngezinto ezingaqhelekanga kwaye saqokelelwa ngumlawuli onamandla ukuze sijongane nomceli mngeni.",
+    "Xa kufika ixesha, saphosa izixhobo zethu zomculo saza salinda isiphumo, siqinisekile ngomsebenzi wethu.",
+    "Kodwa oko sikubonileyo kwenza izixhobo zethu zabonakala ngathi zizinto zokudlala nje, kwaye iintliziyo zethu zayiqonda inyaniso engenakuphikiswa.",
+    "Sawa phantsi saqubuda, sivakalisa ukukholelwa kwethu eNkosini kaMoses noAron, nangona umlawuli wayenomsindo.",
+    "Loo mlawuli wasisongela ngesohlwayo esiqatha kakhulu, efunga ukuba uza kusibethela esiphambanweni aze asinqumle amalungu ethu macala omabini.",
+    "Sahlala siqinile, sithi sikhetha umgwebo weNkosi yethu kunayo nayiphi na imiphumo yehlabathi, saza sabulawa ngenxa yokholo lwethu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abathakathi bakaFaro",
+        "Abantu Bomqolomba",
+        "Amaqabane aseMthini",
+        "Abafundi baka-Isa",
+        "Abantu Bendlovu"
+      ],
+      "answer": "Abathakathi bakaFaro"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukhuphiswano lomlingo nxamnye noMusa",
+        "Umlilo waphoswa phezu kwabo",
+        "Umkhukula owabarhaxa",
+        "Imbalela nendlala",
+        "Inyikima"
+      ],
+      "answer": "Ukhuphiswano lomlingo nxamnye noMusa"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Iintonga kunye neentambo ezajika zaba ziinyoka",
+        "Isihlahla esitshayo",
+        "Inkamela yemazi",
+        "Ityeya yomthi",
+        "Umnenga"
+      ],
+      "answer": "Iintonga kunye neentambo ezajika zaba ziinyoka"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Wabulawa ngenxa yokholo, wathenjiswa iParadesi",
+        "Nditshonile elwandle",
+        "Baba ngabalawuli baseYiputa",
+        "Abalandeli bakaFaro abaseleyo",
+        "Uzuze umhlaba njengelifa"
+      ],
+      "answer": "Wabulawa ngenxa yokholo, wathenjiswa iParadesi"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Men Madichon yo",
+  "intro": "Ou kanpe nan ti lari sinueuz ansyen Makkah yo, kote yon nanm ki te gen enfliyans ak richès te yon lè vire do bay apèl verite a. Istwa pèsonaj sa a se yon rapèl klè ke lyen san pa ka simonte chenn fyète. Ki moun sa a ki gen non ki rezone ak dife k ap tann nan?",
+  "clues": [
+    "Mwen te mache nan lari Makkah yo avèk yon fyète ki te avèg mwen devan laverite, menm si mesaje a te menm san avè m.",
+    "Byen mwen yo te anpil, men yo te vin tounen yon madichon olye de yon pwoteksyon.",
+    "Liv gidans lan pale de kraze mwen, li deklare ke men m ak kò m pral peri.",
+    "Madanm mwen te rantre nan kanpay lènmi mwen an, li te ranmase pikan pou l simen sou chemen moun ki t ap rele Allah la.",
+    "Nan jou jijman an, m ap plonje nan yon dife flanm dife, epi madanm mwen ap gen yon kòd fib palmis nan kou l.",
+    "Yo konnen mwen sou yon non ki vle di 'papa flanm dife' — yon non ki predi kote mwen pral rete etènèl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Abou Lahab",
+        "Abou Jahl",
+        "Abou Talib",
+        "Abou Soufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abou Lahab"
+    },
+    "trial": {
+      "label": "Pwosè oswa Evènman Kle",
+      "options": [
+        "Li te opoze ak pwofèt la epi li te resevwa madichon nan Koran an.",
+        "Li te dirije yon lame pou detwi Kaaba a",
+        "Yo te eseye touye pwofèt la ak wòch.",
+        "Refize kwè nan fann lalin nan",
+        "Bati yon gwo kay pou rive nan syèl la"
+      ],
+      "answer": "Li te opoze ak pwofèt la epi li te resevwa madichon nan Koran an."
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Dife lanfè a ki byen boule",
+        "Baton Musa a",
+        "Lach Now la",
+        "Pi Zamzam nan",
+        "Ti bèf an lò a"
+      ],
+      "answer": "Dife lanfè a ki byen boule"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "L ap antre nan gwo dife a, epi richès li p ap sèvi l anyen.",
+        "Li te repanti epi li te vin yon kwayan",
+        "Li te jwenn padon apre li te fin repanti",
+        "Li te mouri kòm yon mati",
+        "Li te monte nan syèl la"
+      ],
+      "answer": "L ap antre nan gwo dife a, epi richès li p ap sèvi l anyen."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

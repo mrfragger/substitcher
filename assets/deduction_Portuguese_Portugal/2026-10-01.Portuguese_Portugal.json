@@ -1,0 +1,61 @@
+{
+  "title": "Falado para ser",
+  "intro": "Uma figura emerge da história sagrada, carregando milagres que desafiaram a ordem natural. Essa alma chegou por meio de uma única ordem divina, defendeu um dos pais de graves acusações e partiu deste mundo antes que as correntes terrenas pudessem prendê-la. A história se estende de um humilde berço aos céus. Quem poderia ser?",
+  "clues": [
+    "Fui enviado como um sinal e uma misericórdia de Alá para os Filhos de Israel.",
+    "Minha chegada foi diferente de qualquer outra antes — vim à existência pela palavra divina 'Seja!', sem um pai terreno.",
+    "Meus pais enfrentaram calúnias cruéis, mas uma revelação sagrada desceu para declarar sua inocência e elevar sua posição.",
+    "Quando recém-nascido, surpreendi a todos ao meu redor ao falar claramente do meu berço para limpar o nome dos meus pais.",
+    "Com a permissão de Alá, dei vida a partir do barro sem vida, dei vista aos cegos e curei o leproso com o meu toque.",
+    "Fui elevado aos céus antes que qualquer mal pudesse me atingir, e retornarei a este mundo antes que chegue a Hora Final."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Isa",
+        "Profeta Moisés",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Isa"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Falando desde o berço, quando bebê",
+        "Sobrevivendo na barriga de um peixe enorme",
+        "Ser lançado em um fogo ardente",
+        "Construindo uma grande arca antes do dilúvio",
+        "Enfrentando a feitiçaria da corte do Faraó"
+      ],
+      "answer": "Falando desde o berço, quando bebê"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Injeel (Evangelho)",
+        "A Tawrah (Torá)",
+        "O Zabur (Salmos)",
+        "O Suhuf (Pergaminhos de Ibrahim)",
+        "Um cajado que dividiu o mar"
+      ],
+      "answer": "O Injeel (Evangelho)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Elevado aos céus, retornará antes do Dia do Juízo Final.",
+        "Liderou os filhos de Israel para fora do Egito.",
+        "Tornou-se rei com domínio sobre gênios, humanos e pássaros.",
+        "Sobreviveu a uma grande inundação com os fiéis.",
+        "Construiu a casa sagrada em Meca"
+      ],
+      "answer": "Elevado aos céus, retornará antes do Dia do Juízo Final."
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

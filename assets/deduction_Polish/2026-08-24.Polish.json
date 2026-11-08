@@ -1,0 +1,61 @@
+{
+  "title": "Ukryci słuchacze, którzy uwierzyli",
+  "intro": "W ciszy świętego zgromadzenia, niezwykłe zgromadzenie przybyło z niewidzialnego świata. Przyciągnięci szeptami czegoś cudownego, słuchali recytacji, która miała przypieczętować ich los na zawsze. Ich świadectwo pozostaje jednym z najbardziej unikatowych w Piśmie Świętym.",
+  "clues": [
+    "Jesteśmy istotami ze świata niewidzialnego dla większości i przybyliśmy tu jako grupa.",
+    "Wyruszyliśmy na spotkanie, na którym mieliśmy usłyszeć coś niezwykłego.",
+    "Po przybyciu na miejsce wysłuchaliśmy recytacji, która wprawiła nas w osłupienie.",
+    "Otwarcie przyznaliśmy, że niektórzy z nas są sprawiedliwi, a inni nie.",
+    "Wiedzieliśmy, że nie uciekniemy przed boskim wyrokiem na ziemi, ani też nie uciekniemy do nieba.",
+    "Kiedy usłyszeliśmy te wskazówki, uwierzyliśmy w nie. Kto wierzy w swego Pana, nie będzie się lękał straty ani ciężaru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Grupa dżinów",
+        "Ludzie Iramu",
+        "Ludzie z Tubby",
+        "Cesarstwo Rzymskie",
+        "Plemię Kurajszytów"
+      ],
+      "answer": "Grupa dżinów"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Słuchanie świętej recytacji",
+        "Budowanie wzniosłych filarów w naszym mieście",
+        "Polowanie na wspaniałą wielbłądzicę",
+        "Zniszczenie za zabicie naszych proroków",
+        "Pomnażanie bogactwa ponad miarę"
+      ],
+      "answer": "Słuchanie świętej recytacji"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Spotkanie poświęcone recytacji świętej",
+        "Miasto wysokich kolumn (Iram)",
+        "Studnia na pustyni",
+        "Wspaniały pałac ze złota",
+        "Święta jaskinia w górach"
+      ],
+      "answer": "Spotkanie poświęcone recytacji świętej"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wierzyliśmy i ostrzegaliśmy nasz lud",
+        "Zniszczony przez potężny wybuch z nieba",
+        "Ukarany przez palący, niszczycielski wiatr",
+        "Przyznano mu ogromne bogactwo i władzę",
+        "Pozostał niezachwiany w niedowierzaniu"
+      ],
+      "answer": "Wierzyliśmy i ostrzegaliśmy nasz lud"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

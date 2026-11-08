@@ -1,0 +1,61 @@
+{
+  "title": "Păzitorul Porții Soarelui Răsare",
+  "intro": "De-a lungul Coranului, anumite suflete străbat pământul lăsând urme de înțelepciune și uimire. O astfel de figură a călătorit până în cele mai îndepărtate puncte ale creației - unde răsare și apune soarele, unde o barieră ține la distanță chiar haosul. Acestui slujitor al lui Allah i s-a acordat un regat pe care nimeni nu-l va mai poseda vreodată. Prin trei călătorii distincte, scopul acestui individ a devenit clar. Puteți identifica acest rătăcitor legendar printre umbrele istoriei?",
+  "clues": [
+    "Mi-a fost acordată autoritatea de către Cel Prea Milostiv să domnesc peste pământ într-un mod pe care nimeni altcineva nu l-a realizat vreodată.",
+    "Am călătorit spre vest până am ajuns la locul unde apune soarele, găsindu-l apunând într-un izvor tulbure și am văzut acolo un popor.",
+    "Am călătorit spre est până am ajuns la locul unde răsare soarele, și l-am găsit răsărind peste un popor căruia Noi nu-i oferisem adăpost împotriva lui.",
+    "Am călătorit între acele două puncte extreme până am ajuns într-o vale dintre doi munți, unde am găsit un popor care abia putea înțelege graiul.",
+    "Am găsit pe munte două bariere dure de fier care se întindeau la dreapta și la stânga, iar între ele, un pasaj îngust. Acești oameni mi-au cerut să sparg bariera care ținea la distanță haosul.",
+    "Mi-am luat proviziile și am spus: „Când bariera va fi spartă, aceasta va fi o separare clară între noi și acest popor.” Și când a sosit momentul hotărât, am privit cum bariera a fost în sfârșit spartă."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Profetul Sulayman",
+        "Profetul Ibrahim",
+        "Regele Ghassaniyei",
+        "Dhul-Qarnain Rătăcitorul"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Spargerea barierei de fier pentru locuitorii din Yajuj și Majuj",
+        "Construirea Corăbiei sub comanda unui profet",
+        "Construirea unui templu în Ierusalim",
+        "Trecerea Mării Roșii alături de credincioși",
+        "Construirea unui baraj pentru a proteja o națiune dreaptă"
+      ],
+      "answer": "Spargerea barierei de fier pentru locuitorii din Yajuj și Majuj"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Bariera de fier dintre doi munți",
+        "Nava a ancorat pe un munte",
+        "Locul sfânt de cult din Ierusalim",
+        "Râul din țara Egiptului",
+        "Fântâna binecuvântărilor din Madyan"
+      ],
+      "answer": "Bariera de fier dintre doi munți"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Bariera a fost spartă când a sosit momentul hotărât, și haosul s-a revărsat",
+        "Necredincioșii s-au înecat, în timp ce credincioșii au fost mântuiți",
+        "Cei drepți au fost călăuziți spre paradisul veșnic",
+        "Orașul a fost distrus de un vânt urlător",
+        "Idolii au fost spulberați și oamenii s-au pocăit"
+      ],
+      "answer": "Bariera a fost spartă când a sosit momentul hotărât, și haosul s-a revărsat"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

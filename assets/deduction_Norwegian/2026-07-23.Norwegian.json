@@ -1,0 +1,61 @@
+{
+  "title": "Hæren som ble møtt av flygende leire",
+  "intro": "I tiden før profeten Muhammed startet en mektig hersker fra Jemen en militærkampanje med mål om å ødelegge et hellig fristed i Mekka. Denne fienden ledet en enorm hær komplett med krigselefanter, trygge på sin styrke og antall. Reisen deres tok imidlertid en brått slutt da de møtte en uventet guddommelig inngripen. Kan du identifisere hvem som sto overfor denne bemerkelsesverdige oppgjøret?",
+  "clues": [
+    "Vi marsjerte med en massiv hær og mektige krigselefanter mot det hellige huset",
+    "Vi hadde til hensikt å opprydde og ødelegge et tilbedelsessted bygget av tjenere til den Mest Barmhjertige",
+    "En flokk småfugler ble sendt mot oss, med leirsteiner i nebbene og klørne",
+    "Vi ble møtt av en lyd som kastet steiner på oss og forvandlet oss til nedtråkkede levninger.",
+    "Jeg var fra Jemen og tjente under en hersker som forsøkte å forråde det hellige fristed",
+    "Vi ble gjort til et eksempel for dem som våger å vanhellige Allahs helligdom"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Abraha al-Ashrams hær",
+        "De etiopiske styrkene",
+        "De persiske erobrerne",
+        "De romerske legionene",
+        "Beduinrøverne"
+      ],
+      "answer": "Abraha al-Ashrams hær"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "En beleiring av en ørkenfestning",
+        "En invasjon av det hellige stedet i Mekka",
+        "Et sjøslag til sjøs",
+        "Et opprør mot en tyrannkonge",
+        "En jakt på en tapt profet"
+      ],
+      "answer": "En invasjon av det hellige stedet i Mekka"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Mina-dalen nær Mekka",
+        "Sana'a-palasset i Jemen",
+        "Tihamah-fjellene",
+        "Den gamle byen Jerusalem",
+        "Rødehavets bredder"
+      ],
+      "answer": "Mina-dalen nær Mekka"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Seier og ødeleggelse av det hellige huset",
+        "Nederlag av fugler som bærer leirsteiner",
+        "Fredelig overgivelse og konvertering",
+        "Hungersnød og naturkatastrofer",
+        "Tilbaketrekning på grunn av kraftig nedbør"
+      ],
+      "answer": "Nederlag av fugler som bærer leirsteiner"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

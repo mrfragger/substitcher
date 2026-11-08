@@ -1,0 +1,61 @@
+{
+  "title": "Mellom jord og himmel",
+  "intro": "En mystisk sjel venter deg i de hellige sidene av guddommelig historie, bærende på tegn og undere som fortsatt gir gjenlyd gjennom tidene. Mens du følger sporene av ledetråder, vil du reise gjennom en historie preget av mirakler – fra en mirakuløs begynnelse til en oppstigning over himmelen. Kan du identifisere denne velsignede tjeneren før den siste ledetråden?",
+  "clues": [
+    "Jeg ble sendt som et budbringer til Israels barn med budskap om nåde og lys.",
+    "Min fødsel var et mirakuløst tegn – jeg kom til denne verden uten en far, etter Den allmektiges befaling.",
+    "Jeg talte mens jeg fortsatt var et spedbarn, og forsvarte min mors ære mot anklagene fra hennes folk.",
+    "Med Allahs tillatelse formet jeg fugler av leire og pustet liv i dem – de fløy bort foran øynene til de som så på.",
+    "Jeg helbredet de som var født blinde, helbredet de spedalske og til og med oppreiste de døde – men hvert mirakel var med Allahs tillatelse, ikke min egen.",
+    "Da fiendene mine planla å ødelegge meg, løftet Allah meg opp til himmelen og lovet min tilbakekomst før dommedag."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Isa (Jesus)",
+        "Profeten Musa (Moses)",
+        "Profeten Ibrahim (Abraham)",
+        "Profeten Muhammed",
+        "Profeten Yusuf (Josef)"
+      ],
+      "answer": "Profeten Isa (Jesus)"
+    },
+    "trial": {
+      "label": "Det definerende øyeblikket",
+      "options": [
+        "Jeg ble oppdratt til himmelen",
+        "Jeg ble kastet inn i en flammende ild",
+        "Jeg møtte Faraos mektige hær",
+        "Jeg ble slukt av en stor hval",
+        "Jeg bygde en ark på fjellet"
+      ],
+      "answer": "Jeg ble oppdratt til himmelen"
+    },
+    "location": {
+      "label": "Hellig tegn utført",
+      "options": [
+        "Jeg formet fugler av leire",
+        "Jeg forvandlet en stav til en slange",
+        "Jeg delte månen i to",
+        "Jeg befalte vinden og djinnene",
+        "Jeg førte frem en hunnkamel fra en klippe"
+      ],
+      "answer": "Jeg formet fugler av leire"
+    },
+    "outcome": {
+      "label": "Hva ble av meg",
+      "options": [
+        "Oppløftet til himmelen; lovet å komme tilbake",
+        "Ble en stor hersker over et imperium",
+        "Ledet mitt folk ut av fangenskap",
+        "Fikk uovertruffen jordisk rikdom",
+        "Ble gjenforent med familien min etter lang tids separasjon"
+      ],
+      "answer": "Oppløftet til himmelen; lovet å komme tilbake"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Cư dân của hai khu vườn",
+  "intro": "Tại một vùng đất nơi phước lành tuôn chảy dồi dào, một cộng đồng từng được hưởng lợi từ sự trù phú của hai khu vườn tuyệt đẹp. Cuộc sống của họ là minh chứng cho ân huệ thiêng liêng, nhưng câu chuyện của họ đã rẽ sang một hướng khác khi lòng biết ơn phai nhạt, dẫn đến một sự biến đổi sẽ trở thành một dấu ấn lâu dài cho tất cả những ai suy ngẫm.",
+  "clues": [
+    "Chúng tôi là một dân tộc được ban phước lành với một vùng đất an yên và sung túc.",
+    "Chúa chúng ta đã ban cho chúng ta hai khu vườn tuyệt đẹp, tươi tốt và trù phú khắp mọi nơi.",
+    "Chúng ta được truyền dạy phải biết ơn, nhưng chúng ta đã chọn sự vô ơn và quay lưng lại.",
+    "Một con đập lớn đã ngăn chặn dòng nước mang lại sự sống cho vùng đất này.",
+    "Khi chúng ta cứ tiếp tục phạm sai lầm, con đập vỡ và nước lũ tràn qua.",
+    "Những khu vườn từng tươi tốt của chúng tôi giờ đây bị thay thế bởi cây ăn quả đắng, cây me và một vài cây trầu bà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người dân Saba",
+        "Người dân Thamud",
+        "Người dân Madyan",
+        "Những người bạn đồng hành của hang động",
+        "Người dân của Voi"
+      ],
+      "answer": "Người dân Saba"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Gió mạnh suốt bảy đêm.",
+        "Một trận mưa đá từ trên trời rơi xuống.",
+        "Lũ lụt tàn phá do vỡ đập gây ra.",
+        "Một tiếng thét chói tai vang lên từ bầu trời.",
+        "Chết đuối trên biển"
+      ],
+      "answer": "Lũ lụt tàn phá do vỡ đập gây ra."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Đập nước lớn của Ma'rib",
+        "Thung lũng Wadi al-Qura",
+        "Khu vườn của Iram",
+        "Giếng Zamzam",
+        "Núi Sinai"
+      ],
+      "answer": "Đập nước lớn của Ma'rib"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Vườn tược của chúng tôi đã bị thay thế bằng những loại trái cây đắng và những cây cối thưa thớt.",
+        "Chúng tôi bị đất nuốt chửng trong một trận động đất.",
+        "Chúng tôi đã bị biến thành vượn và lợn.",
+        "Chúng tôi đã chết đuối trong một trận lụt lớn.",
+        "Chúng tôi bị tiêu diệt bởi một trận mưa đá."
+      ],
+      "answer": "Vườn tược của chúng tôi đã bị thay thế bằng những loại trái cây đắng và những cây cối thưa thớt."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

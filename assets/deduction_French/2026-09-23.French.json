@@ -1,0 +1,61 @@
+{
+  "title": "L'appel qui a traversé les âges",
+  "intro": "Imaginez une âme qui, seule, s'est dressée contre une civilisation entière, déterminée à la ramener du droit chemin avec une résolution inébranlable. Pendant des siècles, son message fut rejeté, moqué et ignoré ; pourtant, son effort ne cessa jamais. Finalement, un grand jugement arriva, et seuls quelques-uns rejoignirent le salut aux côtés de cette âme inébranlable. Pouvez-vous identifier ce personnage dans le Coran ?",
+  "clues": [
+    "J'ai été envoyé comme avertisseur auprès d'un peuple perdu dans ses propres coutumes.",
+    "Je les ai invités à demander pardon et à se détourner de leurs erreurs, mais ils ont refusé.",
+    "Sous l'influence d'un ordre divin, j'ai construit un navire gigantesque tandis que mon peuple me regardait et se moquait de moi.",
+    "J’ai imploré mon Seigneur sans relâche ; finalement Il m’a répondu, et l’eau s’est déversée du ciel en torrents.",
+    "J'ai embarqué sur le navire avec ceux qui croyaient encore, lorsque les eaux de l'inondation ont submergé les terres.",
+    "J’ai crié à celui qui était resté en arrière, lui demandant de se réfugier sur une montagne, mais le décret était déjà passé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Noé",
+        "Le prophète Ibrahim",
+        "Le prophète Moïse",
+        "Prophète Hud",
+        "Prophète Salih"
+      ],
+      "answer": "Prophète Noé"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Construire une grande arche et survivre à un déluge mondial",
+        "Être jeté dans un feu ardent",
+        "Affronter un tyran et ses puissants magiciens",
+        "Être avalé par un grand poisson",
+        "Assister au meurtre d'une chamelle sacrée"
+      ],
+      "answer": "Construire une grande arche et survivre à un déluge mondial"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une immense arche en bois sur des eaux de crue déchaînées",
+        "Une vallée sacrée avec d'anciennes ruines de pierre",
+        "Une grotte profonde où des compagnons ont dormi pendant des siècles",
+        "Le ventre d'une baleine géante dans les profondeurs de l'océan",
+        "Une imposante montagne de pierre dans la nature sauvage"
+      ],
+      "answer": "Une immense arche en bois sur des eaux de crue déchaînées"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Sauvés avec les croyants à bord du navire",
+        "Sauvés indemnes des flammes par la volonté divine",
+        "Il a mené un grand exode hors d'un puissant royaume",
+        "Lancer sa ligne depuis le poisson vers une rive déserte",
+        "Il a détourné les gens du mal par un signe miraculeux"
+      ],
+      "answer": "Sauvés avec les croyants à bord du navire"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

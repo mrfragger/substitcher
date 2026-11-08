@@ -1,0 +1,61 @@
+{
+  "title": "Gadymy jülgäniň daş oýujylary",
+  "intro": "Arabystanyň gaýaly jülgelerinde dag eteklerinden ajaýyp öýleri oýmakda ussat bolan bir siwilizasiýany göz öňüne getiriň. Olar güýç we sungat bilen gülläp ösdüler, ýöne olaryň taryhy ylahy duýduryşa garşy gorkunç garşylyk bilen alamatlanýar. Olaryň taryhyna çuňňur aralaşanyňyzda, tekepbirligi sebäpli doly ýok bolan bir halky taparsyňyz. Olar kimlerdi?",
+  "clues": [
+    "Biz gaýaly düzlükleriň we beýik gaýalaryň topragyny miras aldyk, şol ýerde biz öýlerimizi deňsiz-taýsyz ussatlyk bilen gurduk.",
+    "Biz daglarda howpsuz öýleri oýup, islendik zyýandan howpsuz duýmagymyz bilen tanalýardyk.",
+    "Bize öz aramyzdan bir pygamber geldi, ol bize Allanyň nemetlerini ýatladýardy we bizi jezadan duýdurýardy.",
+    "Biz alamat talap etdik we gaýadan gudratly düýe çykdy, bu Allanyň açyk synagydy.",
+    "Biz duýduryşa garşy çykyp, düýäniň aýaklaryny kesdik, ilçini masgara etdik we jeza garşy çykdyk.",
+    "Öýlerimizde ýekeje bir ses bizi gurşap aldy we irden biz ol ýerde hiç haçan ýaşamadyk ýaly, ýüzümizi ýere ýapyşdyryp ýatdyk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Semud halky",
+        "Ad halky",
+        "Madýan halky",
+        "Nuh pygamberiň halky",
+        "Lut pygamberiň halky"
+      ],
+      "answer": "Semud halky"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Däne ädini kesdi",
+        "Sabat günini bozdy",
+        "Altyn göle sežde etdi",
+        "Olara iberilen pygamberi öldürdi",
+        "Asmana ýetmek üçin diň gurdy"
+      ],
+      "answer": "Däne ädini kesdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Däne",
+        "Sandyk",
+        "Işgärler",
+        "Ak el",
+        "Manna we bildirçinler"
+      ],
+      "answer": "Däne"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Partlama bilen weýran boldy",
+        "Weýrançylykdan halas boldy",
+        "Maýmynlara öwrüldi",
+        "Deňizde gark boldy",
+        "Ýer tarapyndan ýuwudyldy"
+      ],
+      "answer": "Partlama bilen weýran boldy"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

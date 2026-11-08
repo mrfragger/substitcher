@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Whetu Tekau mā Tahi i Piko",
+  "intro": "I te tamarikitanga, i whakawhiwhia tētahi tangata o te Quran ki tētahi tirohanga hohonu - he moemoeā mō ngā tinana o te rangi e piko ana ki te whakaute. Ka maha ngā tau e pā ana ki te tinihanga, te wehenga, te whakapae teka, me te mauherehere i mua i te tutukitanga o tēnei tirohanga. Ko wai tēnei wairua manawanui, ko tana kōrero kei roto i te upoko roa rawa atu o te Quran?",
+  "clues": [
+    "I a au e tamariki ana, i manaakitia ahau ki tētahi moemoeā whakamiharo, ā, i whakatūpato mai anō tōku pāpā kia kaua e whakakitea ki ahau.",
+    "Ko ōku teina, i matapohia e te hae, i whakatakoto whakaaro mōku, ā, i maka ahau ki roto i te poka hohonu, pōuriuri.",
+    "I haria ahau ki tētahi whenua tawhiti, ā, i hokona ki te whare o tētahi āpiha rangatira, i reira ahau i kite ai i te manakohanga, ā, i whakatika ake ahau ki te kawenga.",
+    "Nā te whakapae teka i mauheretia ai ahau, heoi i taua wāhi pōuri ka kitea e au te whakamarie i roto i te inoi me te piko ki a Allah.",
+    "I manaakitia ahau e te Atua ki te pūkenga onge ki te whakamārama i ngā moemoeā, ā, i arahina ahau e tēnei ki te aroaro o te rangatira o te whenua, ā, i whakaarahia ake hoki ahau ki tētahi tūranga teitei o te whakawhirinaki.",
+    "I muri i ngā tau roa o te wehenga, ka tūtaki anō ahau ki tōku whānau aroha, ā, i tutuki ai taku moemoeā o tōku tamarikitanga mō ngā whetū tekau mā tahi, te rā, me te marama e piko mai ana ki ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Yusuf",
+        "Poropiti Salih",
+        "Poropiti a Iria",
+        "Tubba', te rangatira o Himyar onamata",
+        "He hepara whakaiti nō ngā pukepuke o Pāretina"
+      ],
+      "answer": "Poropiti a Yusuf"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te makanga ki roto i te poka hohonu, pōuri e ngā tuakana hae",
+        "Te horomia e te mea hanga nui o te moana hohonu",
+        "Te maka ki roto i te ahi mura e ngā kaikarakia whakapakoko",
+        "Ka kahakina e te hau atua o te whakangaromanga",
+        "Te ora i tētahi waipuke nui i taupokina te whenua katoa"
+      ],
+      "answer": "Te makanga ki roto i te poka hohonu, pōuri e ngā tuakana hae"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He puna maroke i te koraha i whakarērea ai ahau",
+        "He ika nui o ngā moana hohonu",
+        "He āaka nui i hangaia i runga i te whakahau a te Atua",
+        "He pourewa i hangaia hei toro atu ki te rangi",
+        "He ahi tapu i whakakahore ki te tahu"
+      ],
+      "answer": "He puna maroke i te koraha i whakarērea ai ahau"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I hoki anō ki te whānau i muri i ngā tau maha o te wehenga, ā, i noho hei minita pono",
+        "I ārahi i tētahi haerenga nui o tōku iwi i tērā taha o te moana kua wehea",
+        "I whakatūpato i taku iwi mō te aituā e tata mai ana ka pau i a rātou",
+        "I hangaia he whare tapu hei wāhi tapu mō te katoa",
+        "I puta ora mai i te puku o tētahi mea hanga nui i muri i ngā rā e toru"
+      ],
+      "answer": "I hoki anō ki te whānau i muri i ngā tau maha o te wehenga, ā, i noho hei minita pono"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

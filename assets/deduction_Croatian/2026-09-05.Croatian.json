@@ -1,0 +1,61 @@
+{
+  "title": "Sjaj koji je potonuo",
+  "intro": "Zamislite ovo: duša odjevena u finu odjeću i okružena blagom izvan svake mašte. Ova je osoba vjerovala da je svoje bogatstvo stekla vlastitom briljantnošću, nikada ne priznajući izvor istinske opskrbe. Hodajući među sljedbenicima moćnog proroka, ova je osoba odbila svaki poziv na poniznost. Danas otkrivamo identitet osobe čije je veličanstveno bogatstvo postalo njihovo posljednje počivalište.",
+  "clues": [
+    "Živio sam u vrijeme proroka koji je pozivao tvrdoglavi narod na istinu.",
+    "Bio sam dio odabrane zajednice, ali moje se srce okrenulo od poruke.",
+    "Zlato i srebro su me očaravali više od bilo koje božanske zapovijedi.",
+    "Moji trezori s blagom postali su toliko ogromni da je jaka skupina ljudi jedva mogla podići ključeve.",
+    "Hvalio sam se da mi je bogatstvo dano zahvaljujući mom vlastitom znanju.",
+    "Na kraju, mene i cijeli moj dom progutala je zemlja kao upozorenje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Karun",
+        "Haman",
+        "Samiri",
+        "Bilkis",
+        "Talut (Saul)"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Arogancija zbog bogatstva i odbijanje milostinje",
+        "Kovanje zlatnog idola od rastopljenog nakita",
+        "Proglašavanje božanstva nad moćnim kraljevstvom",
+        "Progon ranih vjernika u Meki",
+        "Vođenje kampanje za uništenje Svete kuće"
+      ],
+      "answer": "Arogancija zbog bogatstva i odbijanje milostinje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Blaga čiji su ključevi opterećivali mnoge snažne ljude",
+        "Zlatno tele koje je proizvodilo zvuk",
+        "Slavno prijestolje iz daleke zemlje",
+        "Rov ispunjen plamtećom vatrom",
+        "Moćna vojska ratnih slonova"
+      ],
+      "answer": "Blaga čiji su ključevi opterećivali mnoge snažne ljude"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Progutala ga zemlja zajedno sa prebivalištem",
+        "Utopljen u moru s vojskom",
+        "Živ spaljen u vatrenoj jami",
+        "Uništen zavijajućim, bijesnim vjetrom",
+        "Pogođen jednim snažnim udarom"
+      ],
+      "answer": "Progutala ga zemlja zajedno sa prebivalištem"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

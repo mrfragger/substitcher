@@ -1,0 +1,61 @@
+{
+  "title": "thesaurus qui sub superbia mersus est",
+  "intro": "Finge te stare ante acervos divitiarum tam ingentes ut solae claves gestandae coetum hominum fortium defatigarent. Circum te, voces humilitatem et memoriam incitant, sed superbia gratitudinem superat. Quid fit cum munificentia fit probatio et arrogantia exitum confirmat?",
+  "clues": [
+    "Ex populo Musae fui, et tamen contra eos deliqui.",
+    "Tanta mihi thesauri donati sunt ut claves eorum onerare cohortem virorum fortium essent.",
+    "A meis monitus sum ne exsultarem et post mortem quaererem, partem meam huius mundi obliviscendo.",
+    "Affirmavi mihi quae possidebam solum propter scientiam quam habebam data esse.",
+    "Ornatus coram populo meo incessi, et qui vitam mundanam cupiebant simile mihi optabant.",
+    "Terra absorpta sum cum domo mea, et nemo mihi auxiliari potuit nec ego mihi ipsi auxiliari potui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Divitiis gloriatus et gratia Dei negatus, consilio non obstante.",
+        "Ibrahim de vita et morte tradenda provocavit.",
+        "Exercitum contra Talut et Daud duxit",
+        "Idola sculpta ad populum adorandum",
+        "Invidia ob oblationem fratrem occidit"
+      ],
+      "answer": "Divitiis gloriatus et gratia Dei negatus, consilio non obstante."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Claves ad thesauros ingentes",
+        "Arca Foederis",
+        "Vitulus aureus ornamentorum",
+        "Agger inter duos montes",
+        "Undecim stellae in somnio"
+      ],
+      "answer": "Claves ad thesauros ingentes"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "A terra absorptus cum domicilio et divitiis",
+        "In mari submersus dum Musam persequebatur",
+        "Lapide e funda Dawud percussus",
+        "Ingenti flatu deleta ob femur camelam vulneratam",
+        "In simias conversi propter sabbatum violandum"
+      ],
+      "answer": "A terra absorptus cum domicilio et divitiis"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

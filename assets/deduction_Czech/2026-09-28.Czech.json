@@ -1,0 +1,61 @@
+{
+  "title": "Jedenáct hvězd, které se uklonily",
+  "intro": "Postava z Koránu dostala v dětství hlubokou vizi – sen o nebeských tělesech, která se s úctou klanějí. Než se tato vize splnila, uplynuly roky zrady, odloučení, falešného obvinění a uvěznění. Kdo je tato odolná duše, jejíž příběh zabírá nejdelší kapitolu Koránu?",
+  "clues": [
+    "Byl jsem kdysi mladý, požehnán pozoruhodným snem, který bych si měl nechat pro sebe i můj vlastní otec.",
+    "Moji vlastní bratři, zaslepení žárlivostí, proti mně zosnovali pikle a uvrhli mě do hluboké, temné studny.",
+    "Byl jsem odvezen do daleké země a prodán do domácnosti vznešeného úředníka, kde jsem získal přízeň a povýšil se na zodpovědnost.",
+    "Falešné obvinění vedlo k mému nespravedlivému uvěznění, přesto jsem v tom temném místě našel útěchu v modlitbě a poklonění se Alláhovi.",
+    "Alláh mi požehnal vzácnou schopností vykládat sny, což mě nakonec přivedlo před vládce země a povýšilo mě na vysoké postavení, v němž jsem měl důvěru.",
+    "Po dlouhých letech odloučení jsem se znovu setkal se svou milovanou rodinou a můj dětský sen o jedenácti hvězdách, slunci a měsíci, které se mi klanějí, se konečně splnil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Jusuf",
+        "Prorok Sálih",
+        "Prorok Iljas",
+        "Tubba', vládce starověkého Himyaru",
+        "Pokorný pastýř z palestinských kopců"
+      ],
+      "answer": "Prorok Jusuf"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být uvržen do hluboké, temné studny žárlivými bratry",
+        "Být pohlcen velkým tvorem z hlubin moří",
+        "Být vhozen do planoucího ohně modláři",
+        "Být smeten božským větrem zkázy",
+        "Přežití velké povodně, která zaplavila celou zemi"
+      ],
+      "answer": "Být uvržen do hluboké, temné studny žárlivými bratry"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Vyschlá studna v poušti, kde jsem byl opuštěn",
+        "Velká ryba z hlubin moří",
+        "Obrovská archa postavená na božský příkaz",
+        "Věž postavená, aby dosáhla nebes",
+        "Posvátný oheň, který odmítal hořet"
+      ],
+      "answer": "Vyschlá studna v poušti, kde jsem byl opuštěn"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Po letech odloučení se znovu setkal s rodinou a stal se důvěryhodným duchovním",
+        "Vedl jsem velký exodus svého lidu přes rozdělené moře",
+        "Varoval můj národ před hrozící zkázou, která je pohltila",
+        "Postavil posvátný dům, který se stal útočištěm pro všechny",
+        "Po třech dnech se bezpečně vynořil z břicha velkého tvora"
+      ],
+      "answer": "Po letech odloučení se znovu setkal s rodinou a stal se důvěryhodným duchovním"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Derinliklerden Gelen Çığlık",
+  "intro": "En Merhametli olanın bir kulu, inatçı bir milletten bıkmış ve izin verilmeden önce oradan ayrılmıştı. Bu kişi, daha önce hiçbir insanın ayak basmadığı, ilahi çağrının karanlık katmanlar arasında garip bir şekilde yankılandığı bir yere varmıştı. Zayıflamış ama dönüşmüş olarak ortaya çıkan bu ruh, sabır, samimi tövbe ve Yaratıcının sınırsız merhameti konusunda zamansız bir ders oldu. Bu gizemi çözebilir misiniz?",
+  "clues": [
+    "Ben halkıma elçi olarak gönderildim, fakat onlar inkârlarında sınırları aştılar ve dinlemeyi reddettiler.",
+    "Onların reddine öfkelendim ve Allah'ın emri gelmeden önce halkımdan kaçtım.",
+    "Kapasitesinin çok üzerinde insanla dolu bir gemiye bindim ve kimin denize atılacağını belirlemek için kura çektik.",
+    "Azgın denize atıldım ve büyük bir balık tarafından yutuldum.",
+    "Üç kat karanlığın içinde hapsolmuş haldeydim — karnımın içi, derin deniz ve altındaki toprak — ve samimi bir tövbeyle Rabbime seslendim.",
+    "Balığın içinden açık kıyıya çıktım, bitkin ve yorgundum; üzerimde bir kabak bitkisi büyüdü. Yüz binden fazla olan halkım sonunda bana inandı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yunus",
+        "Peygamber Eyyub",
+        "Peygamber Yusuf",
+        "Peygamber Musa",
+        "Peygamber Süleyman"
+      ],
+      "answer": "Peygamber Yunus"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Büyük bir balık tarafından yutuldu",
+        "Alev alev yanan bir ateşin içine atıldı",
+        "Bir kuyunun dibinde mahsur kalmış",
+        "Büyük bir selin etkisi altında kaldı.",
+        "Bir kral tarafından haksız yere hapsedildi"
+      ],
+      "answer": "Büyük bir balık tarafından yutuldu"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Büyük bir balığın karnı",
+        "Kabe yakınlarındaki kutsal vadi",
+        "Bir dağın üzerinde duran bir gemi.",
+        "Yılana dönüşen bir asa",
+        "Eşsiz bir ihtişam tahtı"
+      ],
+      "answer": "Büyük bir balığın karnı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Yüz bin veya daha fazla kişiden oluşan halkı inanıyordu.",
+        "Göklere diri diri yükseltildiler",
+        "Eşsiz bir krallığın hükümdarı oldu.",
+        "Gökyüzünden gelen delici bir çığlıkla yok edildi.",
+        "Yıkıcı bir depremle altüst oldu"
+      ],
+      "answer": "Yüz bin veya daha fazla kişiden oluşan halkı inanıyordu."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

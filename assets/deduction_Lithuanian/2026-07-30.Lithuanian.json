@@ -1,0 +1,61 @@
+{
+  "title": "Keisti aptverto miesto lankytojai",
+  "intro": "Grupė žmonių atvyko prie miesto, kurio gyventojai niekada nebuvo žinoję tiesos, vartų. Jie atnešė žinią, tačiau gyventojai tapo priešiški, grasindami smurtu. Vis dėlto, iš netikėtos vietos, vienas balsas pakilo ginti nepažįstamųjų, sudarydamas sąlygas dramatiškam įvykių posūkiui.",
+  "clues": [
+    "Įžengėme į miestą, kurio žmones apėmė netikėjimas.",
+    "Jie į mus pažvelgė įtariai ir tarė: „Jūs esate tik paprastos būtybės kaip ir mes.“",
+    "Mes juos perspėjome, bet jie pakėlė prieš mus akmenis.",
+    "Iš tolimiausio miesto krašto atskubėjo vyras patvirtinti mūsų tiesos.",
+    "Jis pareiškė savo tautai: „Kodėl turėčiau negarbinti To, kuris mane sukūrė?“",
+    "Miesto neigimas baigėsi vienu sprogimu, ir ten, kur anksčiau jie šaipėsi, įsivyravo tyla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Ja-Sino pasiuntiniai",
+        "Izos mokiniai",
+        "Tranšėjos žmonės",
+        "Faraono magai",
+        "Ja-Sino tikintysis"
+      ],
+      "answer": "Ja-Sino pasiuntiniai"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Atstūmimas ir grasinimas užmėtyti akmenimis",
+        "Įmestas į nuožmią ugnį",
+        "Kantrybės išbandymas su pasiklydusiu vaiku",
+        "Sodas, kuris nukentėjo nuo sunaikinimo",
+        "Kelionė per jūrą"
+      ],
+      "answer": "Atstūmimas ir grasinimas užmėtyti akmenimis"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Tolimiausias miesto galas",
+        "Raudonoji jūra",
+        "Ugnies griovys",
+        "Prieglobsčio urvas",
+        "Egipto kalėjimas"
+      ],
+      "answer": "Tolimiausias miesto galas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Miestą sugriovė vienas šūksnis",
+        "Jūra prasiskyrė ir paskandino armiją",
+        "Ugnis tapo vėsi ir saugi",
+        "Sodas buvo prarytas dangiškos ugnies",
+        "Banginis grąžino žmogų į krantą"
+      ],
+      "answer": "Miestą sugriovė vienas šūksnis"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

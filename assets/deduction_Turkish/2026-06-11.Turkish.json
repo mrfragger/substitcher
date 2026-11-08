@@ -1,0 +1,61 @@
+{
+  "title": "Deneme Kıyılarındaki Köy",
+  "intro": "Kendinizi, dalgaların sesinin unutulmuş bir halkın fısıltılarıyla karıştığı bir sahil köyünde buluyorsunuz. Onlara dinlenmeleri emredilmişti, ancak açgözlülükleri hâlâ fısıltılarla anlatılan bir cezaya yol açtı. Onların kim olduğunu ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Sahil kenarında yaşıyorduk ve bir gün dinlenmemiz emredilmişti.",
+    "O gün bol miktarda balık gelirdi bize, ama onları almamız yasaktı.",
+    "Aramızdan bazıları kural ihlaline karşı uyarıda bulunurken, diğerleri yine de balık tutmak için komplo kurdu.",
+    "Kutsal emri çiğnedik ve kendimize ağır bir ceza getirdik.",
+    "Cezamız, bizi şekilsiz ve rezil bir hale getiren bir dönüşümdü.",
+    "Bizler maymunlara dönüştürüldük; bu, bizden sonra gelecek herkes için bir işaretti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Şabat Halkı",
+        "Thamud Halkı",
+        "'Ad' halkı",
+        "Mağara Halkı",
+        "Fil Halkı"
+      ],
+      "answer": "Şabat Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Şabat Günü Balık Avı",
+        "Altın buzağıya tapınma",
+        "Hud'un mesajını reddetmek",
+        "Dişi deveyi öldürmek",
+        "Cennete doğru bir kule inşa etmek"
+      ],
+      "answer": "Şabat Günü Balık Avı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Balık",
+        "Dişi bir deve",
+        "Bir personel",
+        "Bir tekne",
+        "Bir bahçe"
+      ],
+      "answer": "Balık"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Maymunlara dönüştüler",
+        "Bir sel felaketiyle yıkıldı",
+        "Şiddetli bir yangın sonucu yok oldu.",
+        "Toprak tarafından yutuldu",
+        "Bir rüzgar tarafından dağıtılmış"
+      ],
+      "answer": "Maymunlara dönüştüler"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

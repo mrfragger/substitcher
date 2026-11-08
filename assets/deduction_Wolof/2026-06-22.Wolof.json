@@ -1,0 +1,61 @@
+{
+  "title": "Gëmkat bu nëbbu bi",
+  "intro": "Ci biir néegu nguur gu mag gi, di barab bu gëmul ak jaay doole, benn baat buy wax dëgg, joge ci barab buñu xamul woon. Nit ki dafa doon ñaawlu kiliftéef gi ngir aar ndaw si, te dafay risk seen kaaraange ngir xamle dëgg gi.",
+  "clues": [
+    "Maa ngi dëkkoon ci réew mu bari jaay doole, di jaamu njiit luy wax ni boroomam la.",
+    "Maa ngi nëbb sama ngëm dëgg ay at yu bari, ndax dama ragaloon limu nara jur su ma ko fësalee.",
+    "Bu ndaw dikkée ànd ak firnde yu leer, damaa gëmoon, waaye samay nit ñoo ko pexe.",
+    "Ma taxaw ci kanamu jaay doole ji ak àttekat yi, di wax ni waru ñu ray ab ndaw bu deful dara.",
+    "Ma artu leen ci mbugalu xeet yu jëkk ya bañoon dëgg, mel ni waa Nóoyin ak waa Ad.",
+    "Allah muccal nama ci seeni pexe yu bon, ma seede yàqu-yàqu nguur guy noot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Ki gëm ci njabootu Firawna",
+        "Luxuskat bu Firawna",
+        "Vizier bu Firawna",
+        "Jabaru Firawna",
+        "Ki yor xaalis bu Firawna"
+      ],
+      "answer": "Ki gëm ci njabootu Firawna"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Defar ab yonent ci rey",
+        "Dafay xeex pexe yu ab luxuskat",
+        "Tabax ab tour ngir yegg ci asamaan si",
+        "Xaajale géej gi ngir daw",
+        "Tekki géntu buur"
+      ],
+      "answer": "Defar ab yonent ci rey"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Kuur Firawna",
+        "Bush buy tàkk",
+        "Nagu wurus bi",
+        "Teenu Madyan",
+        "Gaalu Yonent bi Nuh"
+      ],
+      "answer": "Kuur Firawna"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ñu muccal leen ci loraange, fekk ñuy yàq ñi leen di noot",
+        "Nekk na njiit lu am doole",
+        "Dañu ko sànni ci safara, mu génn te dara dalu ko",
+        "Suuf si wann nako",
+        "Doxantu na ci àll bi diiru ñeent-fukki at"
+      ],
+      "answer": "Ñu muccal leen ci loraange, fekk ñuy yàq ñi leen di noot"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

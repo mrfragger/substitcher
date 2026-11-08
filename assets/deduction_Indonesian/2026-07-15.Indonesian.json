@@ -1,0 +1,61 @@
+{
+  "title": "Retret Kesendirian",
+  "intro": "Dalam catatan sejarah yang diberkati Tuhan, terdapat jiwa dengan kemurnian yang tak tertandingi, yang dipisahkan dari bangsanya untuk mencari kesendirian di tempat yang suci. Mereka tidak menyadari bahwa pengasingan ini akan melahirkan sebuah tanda bagi seluruh dunia, sebuah ujian iman yang akan dikisahkan untuk selama-lamanya.",
+  "clues": [
+    "Saya telah ditakdirkan untuk menjalani kehidupan yang penuh pengabdian bahkan sebelum saya lahir.",
+    "Aku ditempatkan di bawah perlindungan seorang nabi yang mulia.",
+    "Aku ditopang dengan rezeki dari Allah yang membuat waliku takjub.",
+    "Aku mengasingkan diri dari keluargaku ke suatu tempat di timur.",
+    "Seorang malaikat menampakkan diri kepadaku dalam wujud manusia sempurna, membawa kabar tentang seorang putra yang suci.",
+    "Ketika aku kembali dengan bayiku yang baru lahir, orang-orangku menuduhku, tetapi bayi itu berbicara membela diriku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Maryam (Maria)",
+        "Asiyah (istri Firaun)",
+        "Hajar (ibu Ismail)",
+        "Sarah (istri Ibrahim)",
+        "Ibu Musa"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Kehamilan dan kelahiran seorang anak laki-laki secara ajaib",
+        "Dilemparkan ke dalam api",
+        "Ditelan oleh ikan raksasa",
+        "Membangun bahtera besar",
+        "Menyeberangi laut"
+      ],
+      "answer": "Kehamilan dan kelahiran seorang anak laki-laki secara ajaib"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Sebuah tempat terpencil di sebelah timur.",
+        "Semak yang terbakar",
+        "Laut Merah",
+        "Batu tempat air menyembur keluar",
+        "Paus"
+      ],
+      "answer": "Sebuah tempat terpencil di sebelah timur."
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Seorang bayi berbicara untuk membela ibunya.",
+        "Laut terbelah",
+        "Api menjadi dingin dan aman.",
+        "Paus itu memuntahkan isinya ke pantai.",
+        "Bahtera itu mendarat di sebuah gunung."
+      ],
+      "answer": "Seorang bayi berbicara untuk membela ibunya."
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

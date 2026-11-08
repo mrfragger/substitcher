@@ -1,0 +1,61 @@
+{
+  "title": "Constans Veritatis Quaesitor",
+  "intro": "Tempore ignorantia et cultu falsorum deorum obtecto, iter fidei profundum se explicavit. Hic homo normas societatis suae provocavit, Unicum Verum Creatorem cum firma persuasione quaerens. Para te identitatem animae detegere cuius hereditas adhuc milliones inspirat.",
+  "clues": [
+    "Corpora caelestia interrogavi, Dominum verum quaerens qui omnia creat et sustentat.",
+    "Iussum mihi est patriam meam relinquere, iter facere ad terram ab Allah benedictam.",
+    "Idola populi mei provocavi, vanitatem eorum directe oppugnans, ea frangendo.",
+    "A populo meo in ignem furentem coniectus sum, tamen mihi iussu Dei frigidus et tranquillus factus est.",
+    "Probatus sum mandato immolandi filium meum dilectum primogenitum, quod erat experimentum ultimae submissionis.",
+    "Ego, una cum filio meo, fundamenta primae Domus Cultus in Terra, sanctuarii pro omni humanitate, erigi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Nuh",
+        "Propheta Iosue",
+        "Propheta Salih",
+        "Propheta Ibrahim",
+        "Propheta Isaias"
+      ],
+      "answer": "Propheta Ibrahim"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum diluvium",
+        "Maris divisio",
+        "Destructio Thamudis",
+        "Mandatum immolandi filium",
+        "Iter per desertum cum Arca"
+      ],
+      "answer": "Mandatum immolandi filium"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Officium",
+        "Mons Tur",
+        "Arca",
+        "Kaaba",
+        "Vitulus Aureus"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Princeps Aegypti factus est",
+        "Populus eius submersus est",
+        "Sapientia et stirps iusta concessa sunt",
+        "A balaena deglutitus est",
+        "Urbs eius eversa est"
+      ],
+      "answer": "Sapientia et stirps iusta concessa sunt"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

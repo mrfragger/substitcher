@@ -1,0 +1,61 @@
+{
+  "title": "Una pequeña advertencia antes de que una multitud marche",
+  "intro": "Adéntrate en un valle donde se aproxima un poderoso gobernante y un vasto ejército, e imagina a un pequeño viajero dando una advertencia que salva a toda una comunidad. Cuando la comunidad amenazada encuentra refugio, el peligro desaparece. Sigue las pistas para identificar a la figura oculta tras esa advertencia.",
+  "clues": [
+    "Soy una de las pequeñas criaturas asociadas al reino de un gobernante.",
+    "Mi comunidad vive en viviendas dentro de un valle, donde uno de nosotros puede llamar a los demás.",
+    "Nos enfrentamos a una amenaza por parte de ese gobernante y de los ejércitos que viajan con él.",
+    "Soy yo quien llama a mi comunidad a entrar en sus hogares y nos advierte que no seamos aplastados sin darnos cuenta.",
+    "El gobernante es Sulayman, y mi especie se encuentra entre las criaturas puestas bajo su mando.",
+    "Soy la hormiga de ese valle; después de mi advertencia, entramos en nuestras moradas y escapamos del aplastamiento que de otro modo nos habría tomado por sorpresa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La hormiga del valle",
+        "La abubilla",
+        "El Cuervo",
+        "La Serpiente",
+        "La mula"
+      ],
+      "answer": "La hormiga del valle"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Una advertencia que salvó a una colonia de hormigas.",
+        "Una petición de un pez para que le regalen un anillo.",
+        "La búsqueda de un trono desaparecido",
+        "El rescate de los ojos robados",
+        "Negarse a comer la comida de un gobernante"
+      ],
+      "answer": "Una advertencia que salvó a una colonia de hormigas."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El valle de las hormigas",
+        "El anillo de sello de Sulayman",
+        "La camisa ensangrentada de Yusuf",
+        "El becerro de oro del Éxodo",
+        "El personal de Musa"
+      ],
+      "answer": "El valle de las hormigas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "La comunidad se salvó tras ponerse a salvo.",
+        "La comunidad fue destruida sin haber podido refugiarse.",
+        "La comunidad se salvó porque el ejército se retiró.",
+        "La comunidad fue recompensada con el control sobre las aves.",
+        "La comunidad fue llevada cautiva a la corte real."
+      ],
+      "answer": "La comunidad se salvó tras ponerse a salvo."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

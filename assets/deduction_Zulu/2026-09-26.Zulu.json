@@ -1,0 +1,61 @@
+{
+  "title": "Ukwenqaba Phakathi Kokuchichima",
+  "intro": "Uzithola uphakathi kwabantu abanezimakethe ezigcwele ukuhweba, kodwa izikali zabo zigobhoza ngokungathembeki. Isithunywa sifikile kubo nezixwayiso ezicacile, kodwa bayahleka futhi bafulathele, beqiniseka ngokuchuma kwabo. Isibhakabhaka siqala ukuba mnyama, kodwa basibona njengesibusiso semvula. Bangobani laba bantu?",
+  "clues": [
+    "Sachuma emazweni ezohwebo kanye nenala, kodwa izinhliziyo zethu zaba lukhuni.",
+    "Isithunywa safika kithi nezibonakaliso ezivela eNkosini yethu, kodwa sahleka usulu izixwayiso zayo.",
+    "Sasaziwa ngomsebenzi wethu, kodwa sasinciphisa isilinganiso futhi sikhohlisa abantu.",
+    "Sasihlala phakathi kwezihlahla eziminyene nezitshalo eziluhlaza, kodwa sazithatha kalula izibusiso zethu.",
+    "Lapho ifu elimnyama lisondela, sajabula, sicabanga ukuthi lizoletha imvula ezweni lethu elomile.",
+    "Kunalokho, lelo fu lakhipha isijeziso esishisayo, futhi sabanjwa ukuhlushwa kosuku lomthunzi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "U-Ashab al-Aykah (Abangane Behlathi)",
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu bakaLut",
+        "Abantu baseNuh"
+      ],
+      "answer": "U-Ashab al-Aykah (Abangane Behlathi)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Balahla isithunywa sabo futhi bakhohlisa kwezohwebo",
+        "Bakhulekela ithole legolide futhi badukiswa",
+        "Babenobungqingili futhi bahlasela abahambi",
+        "Bakha imibhoshongo emide futhi baphonsela uNkulunkulu inselele",
+        "Benqaba ukwabelana ngamanzi futhi balimaza ikamela lensikazi"
+      ],
+      "answer": "Balahla isithunywa sabo futhi bakhohlisa kwezohwebo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ihlathi eliminyene noma ihlathi eliminyene",
+        "Intaba eqoshwe yaba yizindlu zokuhlala",
+        "Idolobha eliseduze nolwandle",
+        "Isigodi esiwugwadule esinemithombo",
+        "Ingadi evundile enezithelo eziningi"
+      ],
+      "answer": "Ihlathi eliminyene noma ihlathi eliminyene"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wabhujiswa yifu lomlilo elimnyama",
+        "Ukuminza ngenxa yesikhukhula esikhulu",
+        "Kugwinywe ukuzamazama komhlaba",
+        "Ushaywe umoya onamandla",
+        "Kuphenduke itshe"
+      ],
+      "answer": "Wabhujiswa yifu lomlilo elimnyama"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

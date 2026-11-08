@@ -1,0 +1,61 @@
+{
+  "title": "Dhiiga Jalqabaa Inaaffaadhaan Dhangala'e",
+  "intro": "Mee bara jalqabaa dhala namaa, yeroo addunyaan guutuun maatii tokko ture mee yaadi. Aarsaan lama Rabbiin duratti yeroo kaa’amu ilaalta — tokko fudhatama, inni kaan immoo dide. Inaaffaan onnee keessatti hidda gadi fageeffata, doorsisni immoo aariidhaan hasaasama. Wanti itti aanu seenaa irratti bara baraan mallattoo ni dhiisa, simbirroon xiqqoo illee barsiisaa taati.",
+  "clues": [
+    "Ani maatii lafarratti isa jalqabaa keessaa tokkodha.",
+    "Aarsaa tokko Rabbiif dhiheesse, garuu kan koo hin qeebalamne osoo aarsaan inni kaan hin fudhatamne.",
+    "Inaaffaadhaan dubbadhee lubbuu namaa balleessuuf doorsise.",
+    "Lafa irratti ajjeechaa haqa hin qabne isa jalqabaa nan raawwadhe.",
+    "Akkaataa reeffa dhoksu natti agarsiisuuf kormaan lafa xuuxuu arge.",
+    "Gaabbiin guutamee hafee waan harki koo godheef warra mo’aman keessaa tokko ta’e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Qabil (Qaayin), ilma Addaam",
+        "Samiri, nama re'ee tolche",
+        "Namrud, gabroomfataa Ibraahim waliin falme",
+        "Azaar, nama waaqa tolfamaa tolfamu",
+        "Kan'an, ilma Nuh"
+      ],
+      "answer": "Qabil (Qaayin), ilma Addaam"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ajjeechaa obboleessa tokko inaaffaa irraa kan ka'e erga aarsaa dide booda",
+        "Samii ilaaluuf masaraa olka'aa ijaaruu",
+        "Waaqeffannaaf re'ee warqee fakkeessuun",
+        "Minjaala samii irraa babal'ate gaafachuu",
+        "Waraana saree hoogganuudhaan Kaaba balleessuu"
+      ],
+      "answer": "Ajjeechaa obboleessa tokko inaaffaa irraa kan ka'e erga aarsaa dide booda"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Awwaalcha agarsiisuuf lafa xuxxuqxu",
+        "Re'ee warqee kan gadi bu'e",
+        "Taabotni guddaan bishaan lolaa irra jiru",
+        "Ulee bofa ta'e",
+        "Minjaala nyaata samii irraa babal'ate"
+      ],
+      "answer": "Awwaalcha agarsiisuuf lafa xuxxuqxu"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Gaabbii fi warra mo'aman keessaa ta'e",
+        "Lolaa guddaa sana keessatti bishaaniin liqimfame",
+        "Qabeenyaan lafaan liqimfame",
+        "Waggaa torbaaf dhukkuba nadaayiitiin rukutame",
+        "Mootummaa qilleensa to'atu kennameef"
+      ],
+      "answer": "Gaabbii fi warra mo'aman keessaa ta'e"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

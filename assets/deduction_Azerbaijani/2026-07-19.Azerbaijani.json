@@ -1,0 +1,61 @@
+{
+  "title": "Əsrlərin Eşidilməmiş Səsi",
+  "intro": "Böyük şəhərlərin yaranmasından çox-çox əvvəl, həqiqətdən üz döndərmiş bir xalq arasında tək bir ruh yüksəldi. Onların inadkarlığı yalnız qətiyyətini itirmədən nəsillər boyu yalvaran bu tək çağırışçının səbri ilə müqayisə edilə bilərdi. Bütün xəbərdarlıqlar qulaqardına vurulduqda, görünməmiş bir hesablaşma yer üzünün özünü yenidən formalaşdırır. Bu gün də həmin hekayənin əks-sədası hər oxunuşda hələ də dalğalanır. Bu qətiyyətli ruhu tanıya bilərsinizmi?",
+  "clues": [
+    "Mən yalançı bütlərə ibadət edən və ətraflarındakı əlamətləri görməzdən gələn bir qövm arasında böyümüşəm, amma onları qəflətdən oyatmaq üçün seçilmişdim.",
+    "Mən xalqıma dəfələrlə səsləndim, amma onlar məni özləri kimi bir insan olmaqda, mesajımı lağa qoymaqda və qulaqlarını örtməkdə günahlandırdılar.",
+    "Gecə-gündüz onlara müdrikliklə və incə xatırlatmalarla yalvarırdım, amma sözlərim eşidilmədən və qulaqardına vurulmadan havaya qalxırdı.",
+    "İlahi göstərişlə quru yerdə taxta və taxtadan nəhəng bir qab düzəltdim və xalqım mənə ağlını itirmiş biri kimi güldü.",
+    "Vəd edildiyi kimi böyük daşqın gələndə öz oğlum qalxan sulardan bir dağın onu qoruyacağına inanaraq mənimlə gəmiyə minməkdən imtina etdi.",
+    "Mən yer üzündə yeni bir başlanğıcın patriarxı oldum və hekayəm mənim adımla bağlı Quranın bir surəsində qorunub saxlanılır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Nuh peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Musa peyğəmbər",
+        "Lut peyğəmbər",
+        "Hud peyğəmbər"
+      ],
+      "answer": "Nuh peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Yer kürəsini yenidən formalaşdıran Böyük Daşqın",
+        "Bütpərəstlər tərəfindən alovlanan bir oda atılmaq",
+        "Sarayda Fironun sehrbazları ilə qarşılaşma",
+        "Səmavi fırtına ilə çiçəklənən bağların məhv edilməsi",
+        "Xəndək sakinlərinin devrilməsi"
+      ],
+      "answer": "Yer kürəsini yenidən formalaşdıran Böyük Daşqın"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi taxta və taxtadan tikilib",
+        "Qədim təməllər üzərində tikilmiş müqəddəs ev",
+        "İlana çevrilən əsa",
+        "Yatan gənclərin mağarası",
+        "Qüdrətli bir məxluq tərəfindən daşınan taxt"
+      ],
+      "answer": "Gəmi taxta və taxtadan tikilib"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Kafirlər boğuldular, möminlər isə gəmidə xilas oldular.",
+        "Atəş sərin və təhlükəsiz oldu və zəng edən sağ-salamat çıxdı",
+        "Sehrbazlar səcdəyə qapanıb iman gətirdilər",
+        "Bağ öz yerinə saleh qonşuya verildi.",
+        "Yatanlar əsrlər sonra oyandılar, dəyişdilər"
+      ],
+      "answer": "Kafirlər boğuldular, möminlər isə gəmidə xilas oldular."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Ang Pagsubok sa Ilalim ng mga Alon",
+  "intro": "Isang propeta, na nabibigatan ng kanyang misyon, ang gumawa ng isang desisyon na naglayo sa kanya mula sa kanyang mga tao at nagdala sa kanya sa isang hindi inaasahang pagsubok. Ang kanyang paglalakbay ay nagkaroon ng isang dramatikong pagbabago, na sumubok sa kanyang pananampalataya at pasensya sa pinakamalalim na paraan. Mahihinuha mo ba ang mga detalye ng pambihirang pangyayaring ito mula sa mga pahiwatig na ibinigay?",
+  "clues": [
+    "Isang propeta ang isinugo sa isang bayan, ngunit nagmamadaling umalis, dahil sa pagkadismaya sa kanilang pagtanggi.",
+    "Ang kaniyang paglalakbay ay humantong sa dagat, kung saan siya sumakay sa isang barkong puno ng kargang sasakyang pandagat upang maghanap ng mapupuntahan.",
+    "Isang malakas na bagyo ang bumangon, na nagbanta sa barko, at napagpasyahan na itapon ang isang tao sa dagat upang gumaan ang karga, na pinagpasyahan sa pamamagitan ng palabunutan.",
+    "Siya ay nilamon ng isang nilalang ng kalaliman, isang mahimalang pangyayaring itinakda ng Banal na kalooban.",
+    "Sa loob ng tiyan ng nilalang, siya ay tumawag sa kanyang Panginoon, nagsisisi at niluluwalhati ang Allah sa kadiliman.",
+    "Pagkatapos ng isang panahon ng matinding pagsusumamo, siya ay itinapon sa isang tigang na baybayin, mahina ngunit buhay, at kalaunan ay bumalik upang matuklasan na sa wakas ay naniwala na ang kanyang mga kababayan."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Propeta/Tao",
+      "options": [
+        "Propeta Noah",
+        "Propeta Lut",
+        "Propeta Musa",
+        "Propeta Yunus",
+        "Propeta Yusuf"
+      ],
+      "answer": "Propeta Yunus"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang baha ni Nuh",
+        "Ang pagkawasak ng Sodoma",
+        "Ang paglalakbay sa tiyan ng malaking isda",
+        "Ang paghahati ng dagat",
+        "Ang pagbubunyag ng nagliliyab na palumpong"
+      ],
+      "answer": "Ang paglalakbay sa tiyan ng malaking isda"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Kaban",
+        "Bundok Sinai",
+        "Ang Tungkod ni Musa",
+        "Ang Dakilang Isda",
+        "Ang Balon ni Yusuf"
+      ],
+      "answer": "Ang Dakilang Isda"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Isang bagong tipan sa sangkatauhan",
+        "Isang mahimalang kapanganakan para sa kanyang bayan",
+        "Isang kaharian na itinatag para sa kanyang lahi",
+        "Ang pagbabalik sa kaniyang mga tao na noon ay naniwala",
+        "Isang tagumpay laban sa isang malupit na pinuno"
+      ],
+      "answer": "Ang pagbabalik sa kaniyang mga tao na noon ay naniwala"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

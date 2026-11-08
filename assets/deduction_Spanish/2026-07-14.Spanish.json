@@ -1,0 +1,61 @@
+{
+  "title": "Las almas de la trinchera",
+  "intro": "Viajas en el tiempo a una época en la que un gobernante despiadado exigía devoción absoluta a falsas deidades. Una pequeña comunidad de almas devotas se negó y sufrió un castigo tan severo que quedó condenada a la maldición eterna. Su historia resuena en el Corán como testimonio de fe inquebrantable. ¿Puedes identificar a este grupo inquebrantable?",
+  "clues": [
+    "Vivíamos en una tierra bajo la tiranía de un gobernante que exigía la adoración de deidades falsas.",
+    "Nuestra comunidad sufrió una severa persecución únicamente por nuestra creencia en Alá.",
+    "El gobernante ordenó que se cavara una gran zanja y se avivara con feroces llamas.",
+    "Debido a que nos negamos a renunciar a nuestra fe, fuimos arrojados a ese pozo de fuego uno por uno.",
+    "Nuestra historia pasó a formar parte del Corán, y quienes nos persiguieron fueron malditos eternamente.",
+    "La sura que narra nuestra prueba recibe su nombre de los grandes signos celestiales del cielo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Compañeros de la Trinchera (Ashab al-Ukhdud)",
+        "Gente de la cueva (Ashab al-Kahf)",
+        "Gente del sábado",
+        "Gente de A'ad",
+        "Gente de Thamud"
+      ],
+      "answer": "Compañeros de la Trinchera (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Nuestro juicio",
+      "options": [
+        "Ser quemado vivo en un pozo de fuego",
+        "Estar encerrado en una cueva durante muchos años",
+        "Pescar en el día santo de descanso",
+        "Ser destruido por un viento aullador",
+        "Matar a una camella sagrada"
+      ],
+      "answer": "Ser quemado vivo en un pozo de fuego"
+    },
+    "location": {
+      "label": "El elemento clave",
+      "options": [
+        "Una trinchera de fuego ardiente",
+        "Una cueva escondida con un perro leal",
+        "Altas columnas de una antigua ciudad condenada",
+        "Viviendas de montaña excavadas en acantilados de piedra",
+        "Una llanura abierta azotada por vientos violentos"
+      ],
+      "answer": "Una trinchera de fuego ardiente"
+    },
+    "outcome": {
+      "label": "Nuestro resultado",
+      "options": [
+        "Fuimos martirizados y los perseguidores fueron malditos eternamente.",
+        "Despertamos después de dormir durante 309 años.",
+        "Fuimos transformados en simios por nuestra transgresión.",
+        "Un viento aullante y poderoso nos destruyó a todos.",
+        "Un único grito devastador destrozó nuestra existencia."
+      ],
+      "answer": "Fuimos martirizados y los perseguidores fueron malditos eternamente."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

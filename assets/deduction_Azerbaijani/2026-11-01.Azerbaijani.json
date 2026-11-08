@@ -1,0 +1,61 @@
+{
+  "title": "Ümidsizliyi Rədd Edən Səs",
+  "intro": "İtkilərin ardınca itkilərin gəldiyi, lakin sakit bir səsin ümidsizliyə qapıldığı bir ailəyə addım atın. Qurandakı tək bir çağırış səbri dönüş nöqtəsinə çevirir; bu səsin arxasındakı insana ipuclarını verə bilərsinizmi?",
+  "clues": [
+    "Mən nemətlərin bəla ilə sınandığı bir ailədə səbrin səsi idim.",
+    "Var-dövlət və uşaqlar itkisi nəticəsində boşalmış bir evdə qaldım.",
+    "Bilirdim ki, xəstəlik o yoldaşda da var idi, çünki onun da bədəni xəstə idi.",
+    "Bəla şiddətləndikdə, Allahı xatırlayaraq dua etdim.",
+    "Mən bir bəyanat verdim: Allah Haqqdır, ona görə də səbrli olun.",
+    "Mən Əyyubu adı ilə çağırdım; sonra Allah bəlanı aradan qaldırdı və ailəni bərpa etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əyyub peyğəmbərin həyat yoldaşı",
+        "Nuh peyğəmbərin həyat yoldaşı",
+        "İbrahim peyğəmbərin həyat yoldaşı",
+        "Yəqub peyğəmbərin həyat yoldaşı",
+        "Fironun qızı"
+      ],
+      "answer": "Əyyub peyğəmbərin həyat yoldaşı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İtki və xəstəlik zamanı Əyyubla birlikdə qalmaq, sonra səbr istəmək",
+        "Saleh bir elçiyə pozğun bir cəmiyyəti tərk etmək barədə xəbərdarlıq",
+        "Gələcək nəslin doğulması üçün dua",
+        "Kral həbsxanasında yuxuları yozmaq",
+        "Çay kənarında etibarnamə verilmiş bir uşağı tapmaq"
+      ],
+      "answer": "İtki və xəstəlik zamanı Əyyubla birlikdə qalmaq, sonra səbr istəmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Allahın Haqq olduğunu bəyan etmək və səbir tələb olunur",
+        "Bulağın kənarında bir xurma ağacı",
+        "Dalğalardan uzaq bir gəmi tikmək çağırışı",
+        "On bir ulduz və doğan günəşin xəyalı",
+        "Nil boyunca daşınan səbət"
+      ],
+      "answer": "Allahın Haqq olduğunu bəyan etmək və səbir tələb olunur"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Əyyubun bəlası aradan qalxdı və ailəsi bərpa olundu.",
+        "Qısır duadan sonra çoxdan gözlənilən bir uşaq verildi",
+        "Gənc bir hökmdar yeddi illik bolluq və qıtlığın yozulmasını",
+        "Etibarnamə ilə təmin olunmuş uşaq axan sudan xilas edildi",
+        "Dağıdıcı daşqından əvvəl xəbərdarlıq edildi"
+      ],
+      "answer": "Əyyubun bəlası aradan qalxdı və ailəsi bərpa olundu."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Na nse ya Elili ya Palmier ya Date",
+  "intro": "Lisapo moko esalemi na ntina ya molimo oyo ekabolamaki liboso ya kobotama, oyo ekolisama na kati ya bifelo ya bule, mpe eponami mpo na komema elembo oyo mokili emona naino te. Ntango bifundeli ebimaki na ngámbo nyonso, mongongo moko eutaki na bisika oyo ekoki kosalema te mpo na kokanga ntembe nyonso. Okoki koyeba nani atambolaki na nse ya elili ya mbila ya dati?",
+  "clues": [
+    "Namipesaki na mosala ya Mozwi-ya-Nguya-Nyonso liboso ete napema na ngai ya liboso, ndai oyo moto oyo amemaki ngai asalaki.",
+    "Nakolaki na nse ya bokebi ya mobateli ya sembo na kati ya bashambre ya bule ya esika ya losambo.",
+    "Ntango nyonso oyo mobateli na ngai azalaki koya na shambre na ngai, azalaki kokuta elongo na ngai bilei oyo euti na bileko oyo esengelaki kozala bongo te.",
+    "Bapesaki ngai nsango ya esengo ya mwana mobali, atako ezalela na ngai etikalaki esika moko te mpo na oyo elakamaki.",
+    "Namilongolaki na esika moko mosika, mpe kuna nzete moko ya date epesaki ngai elili ntango ebale moko ezalaki koleka na nse.",
+    "Ntango bifundeli eyaki mpe mituna ezingaki ngai, nalakisaki mwana na ngai oyo abotamaki sika —mpe alobaki uta na berceau mpo na kokanga monoko ya ntembe nyonso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawawa",
+        "Umm Musa",
+        "Mwasi ya Nuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Momekano / Likambo",
+      "options": [
+        "Kobota mwana mobali ya likamwisi na isolement",
+        "Kobwakama na mɔ́tɔ oyo ezali kopela na basambeli ya bikeko",
+        "Kobika na mpela monene elongo na bato moke oyo baponami",
+        "Kokabwana na bebe oyo babwaki ye na ebale",
+        "Kokutana na mokonzi ya nguya ya Ezipito"
+      ],
+      "answer": "Kobota mwana mobali ya likamwisi na isolement"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nzete ya dati mpe ebale oyo ezali kosopana na nse na yango",
+        "Masuwa moko ya nguya likoló ya mbonge milai",
+        "Nzete oyo ekabolaki mbu monene na biteni mibale",
+        "Mɔtɔ oyo ezalaki kopela elingaki kozikisa molimo ya sembo",
+        "Kiti ya bokonzi ya wolo oyo ekembisami na mabanga ya ntalo"
+      ],
+      "answer": "Nzete ya dati mpe ebale oyo ezali kosopana na nse na yango"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bakumisami lokola moto oyo aleki bato nyonso koleka basi nyonso",
+        "Akutanaki lisusu na mwana moko ya bolingo nsima ya kokabwana ntango molai",
+        "Abimisaki ekólo mobimba na boombo ya moto moko ya mobulu",
+        "Akebisaki bato oyo babungi na bizaleli ya mbindo",
+        "Bapesaki bokonzi likoló na ba jinn, bato, mpe mipɛpɛ"
+      ],
+      "answer": "Bakumisami lokola moto oyo aleki bato nyonso koleka basi nyonso"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

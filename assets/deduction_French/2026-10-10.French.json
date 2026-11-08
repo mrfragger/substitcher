@@ -1,0 +1,61 @@
+{
+  "title": "L'éclaireur à plumes",
+  "intro": "Au sein d'un royaume gouverné par un être qui régnait sur les vents, les êtres invisibles et les créatures du ciel, un membre petit et rapide disparut des rangs – pour revenir avec des révélations qui allaient bouleverser le destin d'une nation lointaine. Cet informateur perspicace mit en lumière la vérité là où l'ignorance avait prospéré. Qui suis-je ?",
+  "clues": [
+    "J'ai servi dans une cour où humains, êtres invisibles et créatures du ciel répondaient à un seul souverain sage qui commandait même aux vents.",
+    "J'ai été absent de mon poste pendant un certain temps, et la colère du souverain m'a été promise si je ne fournissais pas une raison satisfaisante.",
+    "Je suis une petite créature volante, connue pour ma vue perçante, et mon espèce a été honorée d'une mention explicite dans les pages de l'Apocalypse.",
+    "À mon retour, j'ai apporté des nouvelles d'un pays lointain où les habitants se prosternaient devant le soleil, aveugles à Celui qui a créé les cieux et la terre.",
+    "J'ai découvert une femme régnant sur un grand royaume, assise sur un trône magnifique, ignorant tout de la vérité jusqu'alors.",
+    "C'est moi qui ai découvert le royaume de Saba et qui portais une lettre d'invitation d'un roi-prophète qui avait reçu la domination sur le vent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "La huppe (Hudhud)",
+        "La fourmi de la vallée de Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit le Djinn",
+        "Un ange du trône"
+      ],
+      "answer": "La huppe (Hudhud)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "L'expédition au royaume de Saba (Sheba)",
+        "La confrontation avec les sorciers du pharaon",
+        "Le déluge du prophète Noé",
+        "La destruction du peuple d'Ad",
+        "La séparation de la mer Rouge"
+      ],
+      "answer": "L'expédition au royaume de Saba (Sheba)"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le pays de Saba (Sheba)",
+        "Mont Sinaï",
+        "L'arche du prophète Noé",
+        "La grotte d'Ashab al-Kahf",
+        "Le palais du pharaon"
+      ],
+      "answer": "Le pays de Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Bilqis se soumit à la cour de Sulaiman",
+        "Pharaon et son armée se sont noyés dans la mer",
+        "Le peuple d'Ad fut anéanti par un vent violent.",
+        "Les sorciers du pharaon croyaient au prophète Moïse",
+        "Un grand déluge a englouti les incrédules"
+      ],
+      "answer": "Bilqis se soumit à la cour de Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

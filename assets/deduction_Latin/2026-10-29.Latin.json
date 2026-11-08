@@ -1,0 +1,61 @@
+{
+  "title": "Parva admonitio ante exercitum incedentem",
+  "intro": "Ingredi vallem ubi princeps potens et exercitus ingens appropinquant, et finge parvum viatorem monitum dantem quod totam communitatem servat. Cum communitas minata perfugium attingit, periculum praeterit. Indicia sequere ut personam neglectam post illud monitum invenias.",
+  "clues": [
+    "Inter parvas creaturas regno regentis consociatas sum.",
+    "Communitas mea in domibus intra vallem habitat, ubi singuli nostrum alios vocare possunt.",
+    "Minaces nobis sunt a principe illo et exercitubus qui cum principe iter faciunt.",
+    "Ego sum qui communitatem meam voco ut in domicilia sua ingrediamur et nos monet ne inscii opprimamur.",
+    "Princeps est Sulayman, et mea species inter creaturas sub eius imperio positas est.",
+    "Formica illius vallis sum; post admonitionem meam, domicilia nostra intravimus et oppressionem, quae nos alias incautos decepisset, effugimus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Formica Vallis",
+        "Upupa",
+        "Corvus",
+        "Serpens",
+        "Mulus"
+      ],
+      "answer": "Formica Vallis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Monitum quod communitatem formicarum servavit",
+        "Petitio anuli a pisce",
+        "Quaesitio throni amissi",
+        "Salvatio oculorum furatorum",
+        "Recusatio edendi cibum rectoris"
+      ],
+      "answer": "Monitum quod communitatem formicarum servavit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vallis Formicarum",
+        "Anulus Signatus Sulaymani",
+        "Tunica Yusufi Cruenta",
+        "Vitulus Aureus Exodi",
+        "Baculus Musae"
+      ],
+      "answer": "Vallis Formicarum"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Communitas servata est postquam perfugium petivit",
+        "Communitas sine perfugio deleta est.",
+        "Communitas servata est quia exercitus se recepit",
+        "Communitas praemio avium potestate donata est.",
+        "Communitas ad curiam regiam captiva ducta est"
+      ],
+      "answer": "Communitas servata est postquam perfugium petivit"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

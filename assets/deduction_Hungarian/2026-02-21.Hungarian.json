@@ -1,0 +1,61 @@
+{
+  "title": "A nagy özönvíz hírnöke",
+  "intro": "Ez a személy évszázadokon át a kitartás oszlopaként állt, a gúnyolódás és az elutasítás ellenére az igazság fénye felé hívva a dacos társadalmat. A túlnyomó többségű nehézségek és a generációkon átívelő üzenet súlya ellenére ez a szolga rendíthetetlen maradt küldetésében egészen a végső rendelet kihirdetéséig.",
+  "clues": [
+    "Kilencszázötven évet töltöttem azzal, hogy népemet az igazság útjára hívjam, éjjel-nappal, titokban és nyilvánosan.",
+    "Fájdalmas büntetésre figyelmeztettem népemet, mégis a fülükbe dugták az ujjaikat, és gőgösen ruhájukkal takarták el magukat.",
+    "Parancsot kaptam, hogy építsek valami hatalmasat az Úr felügyelete alatt, annak ellenére, hogy víz sehol sem volt.",
+    "Miközben dolgoztam, népem vezetői elhaladtak mellettem és gúnyolódtak rajtam, de én azt mondtam nekik, hogy hamarosan mi fogjuk őket gúnyolni.",
+    "Könyörögtem, hogy a saját vérem csatlakozzon hozzám, de ők úgy döntöttek, hogy egy hegyen keresnek menedéket, abban a hitben, hogy az megmenti őket az árapálytól.",
+    "A hajóm végül a Judi-hegyen kötött ki, miután a föld elnyelte a vizet, és az ég megszűnt záporozni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Hud próféta",
+        "Szálih próféta",
+        "Nuh próféta",
+        "Lut próféta",
+        "Suajb próféta"
+      ],
+      "answer": "Nuh próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az átalakuló személyzet",
+        "A nagy árvíz",
+        "A hűlő tűz",
+        "A kettéhasadó tenger",
+        "Az Isten teve"
+      ],
+      "answer": "A nagy árvíz"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az aranyborjú",
+        "A személyzet",
+        "Az ing",
+        "A bárka",
+        "A gyűrű"
+      ],
+      "answer": "A bárka"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Belépés az ígéret földjére",
+        "Fulladás a Vörös-tengerben",
+        "Pihenés a Judi-hegyen",
+        "Egy gödörbe dobás",
+        "Felemelkedés a mennyekbe"
+      ],
+      "answer": "Pihenés a Judi-hegyen"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Det ensomme retræte",
+  "intro": "I den guddommelige gunsts annaler findes der en sjæl af uovertruffen renhed, der er sat ud fra sit folk for at søge ensomhed i en hellig retning. De vidste ikke, at denne afsondrethed ville bringe et tegn for alle verdener, en trosprøve, der ville blive omtalt i al evighed.",
+  "clues": [
+    "Jeg var dedikeret til et liv i tjeneste før min fødsel.",
+    "Jeg blev sat under en ædel profets værgemål.",
+    "Jeg blev forsørget med forsyninger fra Allah, der forbløffede min værge.",
+    "Jeg trak mig væk fra min familie og tog til et sted østpå.",
+    "En engel viste sig for mig i skikkelse af en fuldkommen mand og bragte nyheden om en ren søn.",
+    "Da jeg vendte tilbage med min nyfødte, anklagede mine folk mig, men spædbarnet talte til min forsvar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiyah (faraos hustru)",
+        "Hajar (Ismails mor)",
+        "Sara (Ibrahims hustru)",
+        "Musas mor"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Mirakuløs undfangelse og fødsel af en søn",
+        "At blive kastet i en ild",
+        "At blive slugt af en kæmpe fisk",
+        "Bygger en stor ark",
+        "Krydsning af havet"
+      ],
+      "answer": "Mirakuløs undfangelse og fødsel af en søn"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Et afsidesliggende sted østpå",
+        "Den brændende busk",
+        "Det Røde Hav",
+        "Klippen hvorfra vandet fossede",
+        "Hvalen"
+      ],
+      "answer": "Et afsidesliggende sted østpå"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Et spædbarn talte til forsvar for en mor",
+        "Havet blev delt",
+        "Ilden blev kølig og sikker",
+        "Hvalen kastede op på kysten",
+        "Arken landede på et bjerg"
+      ],
+      "answer": "Et spædbarn talte til forsvar for en mor"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

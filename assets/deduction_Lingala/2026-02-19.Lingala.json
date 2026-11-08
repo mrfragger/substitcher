@@ -1,0 +1,61 @@
+{
+  "title": "Bozoba ya Grand Ambition",
+  "intro": "Bobandi mobembo mpo na kobimisa bomoto ya entite collective oyo ba plans na yango ya mpiko ekutanaki na suka oyo okanisaki te, ya nguya. Lisolo oyo ezali lokola bokundoli mozindo ya nguya ya bonzambe mpe bolɛmbu ya nguya ya mokili ntango ezali kotɛmɛla oyo ya bule. Bofungola libombami ya etuluku oyo, oyo lisolo na yango ekomami na Coran lokola likebisi mpo na baye banso balukaka kobuka mobeko.",
+  "clues": [
+    "Tobombaki mposa monene, kondimaka ete nguya na biso ezalaki ya kokokana te, mpe tobandaki mobembo na mokano ya polele, ya kobebisa.",
+    "Mokambi na biso, oyo atondaki na lolendo, alukaki kobebisa Ndako ya bule oyo bato mingi bakumisaka, na mokano ya kopengwisa mobembo ya losambo na ndako oyo totongaki.",
+    "Uta na mokili moko ya mosika, totambolaki na nguya monene, na elikya na makoki na biso ya kobuka ndako ya kala na Engumba Mosantu.",
+    "Limpinga na biso ezalaki ya nsɔmɔ, oyo bikelamu ya kokamwa ezalaki kokamba yango, likambo oyo bato ya mokili oyo tokɔtaki na yango bazalaki komona yango mingi te, soki ezalaki komonana na kampanye ya ndenge wana.",
+    "Ntango tokómaki na esika oyo tozalaki kokende, bokɔti ya Nzambe esalemaki; bikelamu mikemike oyo ezali na mapapu ebimaki, ezalaki kobɛta biso mabanga ya mabele ya lima oyo batumbaki.",
+    "Mobembo na biso mobimba ekutanaki na nsuka ya kobebisa, kotikaka nguya na biso ya nsomo esilaki mpenza, lokola matiti ya matiti oyo etafunamaki, mwango na biso monene ekitisama na mputulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Thamud",
+        "Bato ya 'Ad",
+        "Bato ya Sodoma",
+        "Bato ya Nkoi",
+        "Bato ya Elanga"
+      ],
+      "answer": "Bato ya Nkoi"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mpela Monene",
+        "Campagne contre ba Kaaba",
+        "Kobebisama ya Bikeko",
+        "Kokabwana ya Mbu",
+        "Koningana ya Mabele ya Midian"
+      ],
+      "answer": "Campagne contre ba Kaaba"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku",
+        "Bato ya mosala",
+        "Ba Kaaba",
+        "Mwana ya Ngombe ya Wolo",
+        "Moto yango"
+      ],
+      "answer": "Ba Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Lobiko ya bonzambe",
+        "Eleko molai ya bozwi",
+        "Kobongwana na Islam",
+        "Kobebisama mpenza",
+        "Bokangami uta na mabele na bango"
+      ],
+      "answer": "Kobebisama mpenza"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

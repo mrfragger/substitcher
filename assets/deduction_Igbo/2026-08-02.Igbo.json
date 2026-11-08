@@ -1,0 +1,61 @@
+{
+  "title": "N'etiti Ụwa na Eluigwe",
+  "intro": "Mkpụrụ obi dị omimi na-echere gị n'ime peeji dị nsọ nke akụkọ ihe mere eme Chineke, na-ebu ihe ịrịba ama na ihe ebube ndị ka na-ada ụda kemgbe ọtụtụ afọ. Ka ị na-eso ụzọ ihe ngosi, ị ga-agafe akụkọ e ji ọrụ ebube mara - site na mmalite ọrụ ebube ruo n'ịrịgo gafere eluigwe. Ị nwere ike ịchọpụta ohu a dị ngọzi tupu ihe ngosi ikpeazụ?",
+  "clues": [
+    "E zigara m dịka onye ozi nye ụmụ Izrel site n'ikwu maka ebere na ìhè.",
+    "Ọmụmụ m bụ ihe ịrịba ama dị ebube — abịara m n'ụwa a na-enweghị nna, site n'iwu nke Onye Pụrụ Ime Ihe Nile.",
+    "Ekwuru m okwu mgbe m ka bụ nwa ọhụrụ, na-agbachitere nsọpụrụ nne m megide ebubo ndị obodo ya.",
+    "Site n'ikike Chineke, ejiri m ụrọ kpụọ nnụnụ ma kuo ume ndụ n'ime ha - ha fepụrụ n'ihu ndị na-ekiri ha.",
+    "Agụrụ m ndị ìsì mụrụ, gwọọ ndị ekpenta, ọbụna kpọlite ​​ndị nwụrụ anwụ — mana ọrụ ebube niile sitere n'aka Chineke, ọ bụghị nke m.",
+    "Mgbe ndị iro m zubere ibibi m, Allah kpọlitere m n'eluigwe ma kwe nkwa na m ga-alọghachi tupu ụbọchị ikpe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Aịza (Jizọs)",
+        "Onye Amụma Mozis (Moses)",
+        "Onye Amụma Ibrahim (Abraham)",
+        "Onye Amụma Muhammad",
+        "Onye Amụma Josef (Josef)"
+      ],
+      "answer": "Onye Amụma Aịza (Jizọs)"
+    },
+    "trial": {
+      "label": "Oge Nkọwapụta",
+      "options": [
+        "E buliri m elu n'eluigwe",
+        "A tụbara m n'ọkụ na-ere ọkụ",
+        "M zutere ndị agha dị ike nke Fero",
+        "Nnukwu whale loro m",
+        "Ewuru m ụgbọ n'elu ugwu ahụ"
+      ],
+      "answer": "E buliri m elu n'eluigwe"
+    },
+    "location": {
+      "label": "Emere Ihe Ịrịba Ama Dị Nsọ",
+      "options": [
+        "Ejiri m ụrọ kpụọ nnụnụ",
+        "Emere m mkpara ka ọ bụrụ agwọ",
+        "Ekewara m ọnwa ụzọ abụọ",
+        "Enyere m ifufe na jin iwu",
+        "E si n'okwute kpụpụta nne kamel"
+      ],
+      "answer": "Ejiri m ụrọ kpụọ nnụnụ"
+    },
+    "outcome": {
+      "label": "Ihe Mere M",
+      "options": [
+        "E buliri ya elu n'eluigwe; e kwere nkwa na ọ ga-alọghachi",
+        "Aghọrọ onye ọchịchị ukwu nke alaeze ukwu",
+        "Dọpụtara ndị m n'agha",
+        "E nyere ya akụnụba ụwa a na-enweghị atụ",
+        "Abịaghachiri m na ezinụlọ m mgbe m kewasịrị ogologo oge"
+      ],
+      "answer": "E buliri ya elu n'eluigwe; e kwere nkwa na ọ ga-alọghachi"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

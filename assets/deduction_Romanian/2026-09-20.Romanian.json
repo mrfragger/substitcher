@@ -1,0 +1,61 @@
+{
+  "title": "Credinciosul acoperit de voal în curtea tiranului",
+  "intro": "În sălile aurite ale celui mai arogant conducător cunoscut de Coran — unde sfidarea Divinității definea fiecare edict — un suflet umbla printre privilegiați, ascunzând cele mai periculoase secrete la vedere. Acest individ purta o credință atât de interzisă între acei ziduri, încât descoperirea ei ar fi însemnat moarte sigură. Totuși, convingerea ardea ca o flacără sub cenușă, iar când a sosit momentul, adevărul a răsunat cu un curaj care a zguduit chiar temelia palatului tiranului.",
+  "clues": [
+    "Am trăit în cercul restrâns al celui mai puternic și arogant conducător al timpului meu, înconjurat de lux și influență.",
+    "Mi-am ascuns adevărata credință adânc în inima mea, temându-mă pentru viața mea de cei care conduceau cu cruzime și opresiune.",
+    "Când poporul meu s-a îndoit și a ezitat în fața adevărului, am pășit înainte pentru a-i avertiza despre soarta tragică ce avusese loc națiunilor trecute care i-au respins pe mesagerii Domnului lor.",
+    "Le-am amintit poporului meu de povestea unui tânăr visător iubit, care a fost doborât de propriii săi rude, dar a ajuns la o mare autoritate într-o țară îndepărtată.",
+    "Mi-am îndemnat poporul să nu se supună conducătorului care i-a rătăcit, invitându-i în schimb să mă urmeze pe calea dreptății și a îndrumării.",
+    "Am spus adevărul deschis, chiar dacă adepții tiranului au amenințat că mă vor ucide cu pietre sau că mă vor expulza din țară."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Credinciosul ascuns din familia faraonului",
+        "Un patriarh răbdător care a plâns orb până când s-a întors fiul său",
+        "Un slujitor credincios a cărui boală de piele a fost în cele din urmă vindecată",
+        "Un fiu păcătos care a respins invitația unui profet de a se urca în arcă",
+        "Un tiran nemilos care și-a revendicat divinitatea"
+      ],
+      "answer": "Credinciosul ascuns din familia faraonului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ascunderea credinței în curtea unui tiran",
+        "Suferind de orbire din cauza anilor de plâns",
+        "Fiind încercați de pierderea familiei și de suferința severă",
+        "Construind o navă măreață în timp ce ești ridiculizat",
+        "Îndurând căldura arzătoare a unui incendiu puternic"
+      ],
+      "answer": "Ascunderea credinței în curtea unui tiran"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Palatul faraonului",
+        "Un vârf de munte unde a fost construită o arcă",
+        "O vale sacră sub Muntele Sinai",
+        "O grădină magnifică cu două pâraie curgătoare",
+        "Un tron ​​de cristal deasupra unui râu subteran"
+      ],
+      "answer": "Palatul faraonului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Protecție divină în timp ce asupritorii își întâmpinau distrugerea",
+        "S-a reunit cu familia după decenii de despărțire",
+        "I s-a acordat răbdare, sănătatea i s-a redat și a format o familie mai mare",
+        "A fost salvat pe o barcă în timp ce restul lumii s-a înecat",
+        "A fost salvat nevătămat din flăcări prin porunca lui Allah"
+      ],
+      "answer": "Protecție divină în timp ce asupritorii își întâmpinau distrugerea"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

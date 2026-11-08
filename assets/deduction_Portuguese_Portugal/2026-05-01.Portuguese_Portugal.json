@@ -1,0 +1,61 @@
+{
+  "title": "O Trono da Verdade",
+  "intro": "Um poderoso governante, conhecido por sua grande sabedoria e magnífico trono, recebe uma mensagem misteriosa de uma fonte desconhecida. Essa comunicação inesperada desafia suas crenças e autoridade, lançando-o em uma jornada diplomática que testará seu intelecto e, por fim, o levará a um profundo despertar espiritual. Você conseguirá desvendar a identidade desse soberano e os eventos que transformaram todo o seu reino?",
+  "clues": [
+    "Meu povo e eu adorávamos o sol, seguindo os costumes de nossos ancestrais.",
+    "Um pássaro, uma poupa, foi o mensageiro improvável que me trouxe uma carta de um líder poderoso.",
+    "Para testar a sabedoria do remetente, enviei presentes valiosos, mas eles foram devolvidos, pois o remetente possuía riquezas muito maiores concedidas por Alá.",
+    "Antes mesmo de eu chegar à corte do remetente, meu magnífico trono foi milagrosamente transportado para lá num piscar de olhos.",
+    "Ao chegar, perguntaram-me se o trono transportado era meu, e eu respondi: \"É como se fosse o meu próprio.\"",
+    "Entrei num grande salão com um chão que confundi com uma piscina, e naquele momento de reverência, submeti-me, juntamente com o Profeta Sulaiman, a Alá, o Senhor dos mundos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A Rainha de Sabá",
+        "Zulaikha (Esposa de Al-Aziz)",
+        "Asiya (Esposa do Faraó)",
+        "A mãe de Moisés",
+        "Maria (Mãe de Isa)"
+      ],
+      "answer": "A Rainha de Sabá"
+    },
+    "trial": {
+      "label": "O Evento Central",
+      "options": [
+        "Recebendo uma carta do Profeta Sulaiman",
+        "Ser jogado no fogo",
+        "Construindo uma arca para sobreviver a um dilúvio",
+        "Abrindo o Mar Vermelho",
+        "Ser acusado de imodéstia"
+      ],
+      "answer": "Recebendo uma carta do Profeta Sulaiman"
+    },
+    "location": {
+      "label": "O Objeto Chave",
+      "options": [
+        "Um trono magnífico",
+        "Um bezerro de ouro",
+        "Um casaco de muitas cores",
+        "Um cajado que se transformou em serpente.",
+        "Um navio feito de tábuas e pregos."
+      ],
+      "answer": "Um trono magnífico"
+    },
+    "outcome": {
+      "label": "O resultado final",
+      "options": [
+        "Submeter-se ao único Deus verdadeiro (Allah)",
+        "Ser transformado em uma estátua de sal",
+        "Construindo uma torre alta para alcançar Deus",
+        "Ser engolido por um peixe enorme",
+        "Perder uma imensa riqueza como punição."
+      ],
+      "answer": "Submeter-se ao único Deus verdadeiro (Allah)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

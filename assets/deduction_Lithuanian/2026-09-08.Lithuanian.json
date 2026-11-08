@@ -1,0 +1,61 @@
+{
+  "title": "Šventosios liepsnos išbandymas",
+  "intro": "Senovėje, kur kiekvienuose namuose buvo įleidęs šaknis raižytam akmeniui, vienas žmogus išsiskyrė. Tvirtai įsitikinęs ir dieviškos apsaugos dėka, jis susidūrė su tuo, kas turėjo būti neišvengiama mirtis, ir liko nenukentėjęs. Ar galite atskleisti šios nepaprastos sielos tapatybę?",
+  "clues": [
+    "Užaugau tarp žmonių, kurie lenkėsi savo rankomis išdrožtiems stabams, tikėdami, kad šie objektai turi dieviškąją galią.",
+    "Kai suabejojau jų įsitikinimais, jie iš pradžių mane atmetė, bet aš negalėjau tylėti apie tiesą, kurią žinojau.",
+    "Tą dieną, kai jie buvo surinkti, sunaikinau jų stabus, palikdamas tik didžiausią nepaliestą.",
+    "Kai jie sugrįžo ir pamatė, ką buvau padaręs, jų vadai įsakė pastatyti didelį laužą, ketindami mane įmesti į liepsnas.",
+    "Jie įmetė mane į liepsnojančią ugnį, bet pasaulių Viešpats įsakė jai atvėsti ir man būti saugiai.",
+    "Aš išlipau iš liepsnų visiškai nesužeistas, o tie, kurie rezgė prieš mane sąmokslą, susidūrė su visišku pražūtimi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Ibrahimas",
+        "Pranašas Musa",
+        "Pranašas Nuh",
+        "Pranašas Isa",
+        "Pranašas Jusufas"
+      ],
+      "answer": "Pranašas Ibrahimas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įmestas į liepsnojančią ugnį",
+        "Prarytas didžiojo banginio",
+        "Išgyvenęs didelį potvynį",
+        "Įmetimas į gilų šulinį",
+        "Susidūrimas su karaliaus magais"
+      ],
+      "answer": "Įmestas į liepsnojančią ugnį"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didžiulis degančios medienos laužas",
+        "Puiki medinė arka",
+        "Auksinio veršio statula",
+        "Upėje plūduriuojantis krepšys",
+        "Nuostabus sostas"
+      ],
+      "answer": "Didžiulis degančios medienos laužas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Alachas padarė ugnį vėsią ir saugią",
+        "Arka saugiai nusileido ant kalno",
+        "Auksinis stabas ištirpo jų akyse",
+        "Tironas ir jo armija nuskendo jūroje",
+        "Aklajam vyrui buvo atkurtas regėjimas"
+      ],
+      "answer": "Alachas padarė ugnį vėsią ir saugią"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

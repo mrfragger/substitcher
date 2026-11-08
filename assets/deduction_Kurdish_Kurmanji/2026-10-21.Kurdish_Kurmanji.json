@@ -1,0 +1,61 @@
+{
+  "title": "Pêxemberê ku bi pûtperestan re rû bi rû ma",
+  "intro": "Di demekê de ku îbadet ji rê derketibû, peyamberek derket û bang li vegera perestina Rebbê cîhanan kir. Ev kes li hember gelê ku di perestina xwedayekî derewîn de asê mabû, bi tundî li wan rawestiya, Afirînerê wan ê rastîn û Rebbê bav û kalên wan anî bîra wan. Lê dîsa jî gel bêxem bû û hişyarî red kir, û çarenûsa xwe mohr kir. Ev gazîkerê bênavber kî bû?",
+  "clues": [
+    "Ez ji bo gelekî ku ji rêya Xwedayê Rastîn dûr ketibûn hatim şandin.",
+    "Min ji gelê xwe pirsî: \"Ma hûn ji Xwedê natirsin?\"",
+    "Min gazî wan kir ku dev ji perestina xwedayekî derewîn ê bi navê Baal berdin.",
+    "Gelê min banga min red kir û di pûtperestiya xwe de israr kir.",
+    "Ji ber înkara wan, bê guman ew ê ji bo cezayê werin derxistin.",
+    "Xwedayê min di nav nifşên paşerojê de aramî û bîr û bîranînek pîroz daye min."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îlyas",
+        "Pêxember Yahya",
+        "Pêxemberê Zul-Kifl",
+        "Pêxember Yûsif",
+        "Pêxember Şûayb"
+      ],
+      "answer": "Pêxember Îlyas"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "gazî gelê xwe kir ku dev ji Baal berdin",
+        "Ji bo rizgarkirina bawermendan keştîyek ava kir",
+        "Hatin avêtin nav agir",
+        "Ji Fir'ewnê zalim reviya",
+        "Li kevir xist da ku av derkeve"
+      ],
+      "answer": "gazî gelê xwe kir ku dev ji Baal berdin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Baal",
+        "El-Lat",
+        "El-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bîranîneke bimbarek û aştiyeke mezin bi ser keve",
+        "Ji aliyê erdê ve hatiye daqurtandin",
+        "Ji aliyê bahozeke tund ve wêran bûye",
+        "Bûye kevir",
+        "Di deryayê de xeniqî"
+      ],
+      "answer": "Bîranîneke bimbarek û aştiyeke mezin bi ser keve"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

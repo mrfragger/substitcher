@@ -1,0 +1,61 @@
+{
+  "title": "Horti Prosperitatis Evanescentes",
+  "intro": "In terra abundanti ubertate benedicta, communitas floruit, inter signa gratiae divinae vivens. Prosperitas eorum testimonium erat favoris Domini sui, donum ad gratitudinem et oboedientiam inspirandam destinatum. Attamen, quamvis clara indicia beneficiorum eorum essent, momentum conversionis advenit, quod eorum gratiam erga fontem immensarum divitiarum et solacii provocavit.",
+  "clues": [
+    "Duobus hortis, uno a dextra et altero a sinistra, fructibus abundantibus, beati sumus.",
+    "Iussi sumus ut ex provisione Domini nostri ederemus et ei gratias ageremus pro terra bona et Domino ignoscente.",
+    "Superbi facti sumus et a via gratiarum actionis avertimus, divitiis nostris et potentia gloriantes.",
+    "Postulavimus ut Dominus noster spatium inter itinera nostra augeret, contempti otii quod praebuerat.",
+    "A nuntio moniti sumus, sed nuntium repudivimus et in incuria nostra perseveravimus.",
+    "Magnum nostrum aggerem, qui nostram prosperitatem sustentavit, tandem fractum est, quod ad inundationem vastantem duxit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Thamudensis",
+        "Populus Madian",
+        "Populus 'Aad",
+        "Populus Lut",
+        "Sabae populus"
+      ],
+      "answer": "Sabae populus"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Fames et siccitas",
+        "Invasio ab exercitu ingenti",
+        "Terrae motus vastans",
+        "Diluvium perniciosum ex aggere fracto",
+        "Oppressio a principe tyranno"
+      ],
+      "answer": "Diluvium perniciosum ex aggere fracto"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus aureus",
+        "Camelus mirabilis",
+        "Magna moles",
+        "Aedificium turritum",
+        "Puteus profundus"
+      ],
+      "answer": "Magna moles"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In simias et porcos transformati sumus",
+        "Servati sumus et ad novam terram migravimus",
+        "Dispersi sumus et terra nostra sterilis facta est",
+        "Ad caelos ascendimus",
+        "Regnum novum, prosperius aedificavimus"
+      ],
+      "answer": "Dispersi sumus et terra nostra sterilis facta est"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

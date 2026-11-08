@@ -1,0 +1,61 @@
+{
+  "title": "D'Missioun an der aler Stad",
+  "intro": "Eng staubeg antik Stad, hir Leit an enger Verleugnung verankert, an eng lescht Warnung, déi net berécksiichtegt gouf. Trëtt haut an d'Roll vun deenen, déi vum Allah geschéckt goufen, fir eng Botschaft un e stur Vollek ze vermëttelen. Eng Geschicht vun Ofleenung, eng eenzegaarteg Stëmm vum Glawen, an en Enn, dat duerch en zerstéierende Dekret versiegelt gouf. Wien schwätzt duerch dës Hiweiser?",
+  "clues": [
+    "Mir goufe vun Allah an eng Stad geschéckt, där hir Leit sech vun der Wourecht ewechgedréit hunn",
+    "Zwee vun eis koumen als éischt, dann ass en Drëtten dobäi komm fir eis Missioun ze stäerken",
+    "D'Awunner vun der Stad hunn eis ofgeleent a gesot, mir wieren näischt anescht wéi Mënschen ewéi si",
+    "Eng eenzeg Séil vum wäitsten Enn vun der Stad ass gelaf fir de Leit ze soen, si sollen eis folgen",
+    "Mir hunn si gebiet, mä si hunn hir Häerzer verhärtet a sech géint eis gedréint",
+    "An engem verheerenden Himmelsgeschrei gouf eis ganz Stad zum Schweige bruecht"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Bote vun der Stad am Surah Ya-Sin",
+        "Den Hawwariyyun (Jünger vum Isa)",
+        "D'Zauberer vum Pharao sengem Haff",
+        "D'Begleeder vum Sabbat",
+        "D'Leit vum Elefant"
+      ],
+      "answer": "D'Bote vun der Stad am Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Ofgeleent a vun den Awunner als Léigner bezeechent",
+        "Lieweg verbrannt an engem grousse Feier",
+        "Verschléckt vun engem grousse Fësch am déiwe Mier",
+        "Gezwongen, ze schaffen, fir eng héich Sail ze bauen",
+        "Gefoltert an engem Gruef vu rosenem Feier"
+      ],
+      "answer": "Ofgeleent a vun den Awunner als Léigner bezeechent"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Déi al Stad (al-Qaryah)",
+        "E groussen, brennenden Uewen",
+        "De Bauch vun engem grousse Fësch",
+        "Déi héich, den Himmel beréierend Sail",
+        "Dat hellegt Haus (Kaaba)"
+      ],
+      "answer": "Déi al Stad (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Stad gouf duerch een eenzege vernichtende Schrei (Sayha) zerstéiert.",
+        "Den Tyrann a seng Arméi sinn am gespléckte Mier erdronk",
+        "D'Leit goufen an Affen an Affen verwandelt",
+        "E Reen vu Steng vum Himmel huet d'Stad zerstéiert",
+        "Eng gewaltsam Iwwerschwemmung huet déi ganz Communautéit matgerappt"
+      ],
+      "answer": "D'Stad gouf duerch een eenzege vernichtende Schrei (Sayha) zerstéiert."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

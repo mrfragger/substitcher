@@ -1,0 +1,61 @@
+{
+  "title": "Fiducia Flumini Commissa",
+  "intro": "Anima decreto impossibili obviam ivit, ubi vita infantis recens nati in discrimine pendebat. Divina inspiratione ducti, imperio desperato parendum, pretiosum secretum in flumine vagatum missus est, solum ut modo inopinato rediret.",
+  "clues": [
+    "Sub umbra tyranni vixi qui mares recens natos necare iubebat.",
+    "Divina inspiratio mihi venit, me monens ut actionem desperatam et cor meum confractum aggrediar.",
+    "Infantem meum pretiosum in arca posui et super flumen fluentem posui.",
+    "Cor meum vacuum factum est, et paene arcanum revelavi, sed Allah animum meum confirmavit.",
+    "Misi aliquem qui iter infantis deorsum sequeretur, dum arca flumen auferebat.",
+    "Puer a familia tyranni inventus est, et tandem, cum filio meo iterum coniunctus, nutrix facta sum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Mater Prophetae Musae",
+        "Asiya (uxor Pharaonis)",
+        "Maria (Mater Prophetae Isae)",
+        "Uxor prophetae Lut",
+        "Mater Prophetae Yahyae (uxoris Zachariae)"
+      ],
+      "answer": "Mater Prophetae Musae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Filium suum in arca posuit et in flumine posuit",
+        "Filium suum in spelunca abscondit",
+        "Filium suum in deserto reliquit",
+        "Filium suum in ignem coniecit",
+        "Filium suum ad ianuam meschitae reliquit"
+      ],
+      "answer": "Filium suum in arca posuit et in flumine posuit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca in flumine posita",
+        "Rubus ardens",
+        "Baculus qui in serpentem conversus est",
+        "Mensa cibo de caelo instructa",
+        "Camella in signum missa"
+      ],
+      "answer": "Arca in flumine posita"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Cum filio suo iterum coniuncta est et eum lactavit",
+        "Numquam iterum filium suum vidit",
+        "A tyranno supplicio affectus est.",
+        "Regina in Aegypto facta est",
+        "In aliam terram migravit et in exilio vixit"
+      ],
+      "answer": "Cum filio suo iterum coniuncta est et eum lactavit"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

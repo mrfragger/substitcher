@@ -1,0 +1,61 @@
+{
+  "title": "Arkitekti i Arrogancës",
+  "intro": "Në një tokë të lashtë të sunduar nga një fuqi sfiduese, një individ kyç mbante një pozicion me ndikim. Ky shpirt luajti një rol të rëndësishëm në skemat e mëdha të sundimtarit, duke kontribuar në mbretërimin e tyre shtypës dhe duke sfiduar mesazhin hyjnor. Trashëgimia e tyre është e ndërthurur me një ndjekje të fuqisë së kësaj bote dhe një mohim të së vërtetës.",
+  "clues": [
+    "I shërbeva një sundimtari të fuqishëm që shtypi një popull për breza me radhë.",
+    "Emri im përmendet shpesh në Librin Hyjnor përkrah këtij udhëheqësi të fuqishëm.",
+    "Më ngarkuan me një projekt të madh ndërtimi, një strukturë gjigante që synonte të arrinte deri në qiell.",
+    "E këshillova zotërinë tim të vriste bijtë e bijve të Izraelit dhe t’ua linte bijat e tyre gjallë.",
+    "Isha i përfshirë në komplote dhe komplote kundër një të dërguari të fuqishëm të Allahut.",
+    "Fundi im, së bashku me zotërinë tim dhe ushtrinë e tij, erdhi në ujërat e një deti të gjerë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Nimrodi",
+        "Abraha",
+        "Goliath",
+        "Iblisi",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Duke u sprovuar me pasuri të pamasë",
+        "Udhëheqja e një ushtrie kundër një shtëpie të shenjtë",
+        "Ndërtimi i një kulle për të arritur te Zoti",
+        "Të hidhen në zjarr për shkak të besimit të tyre",
+        "Të hedhurit në një pus nga vëllezërit e motrat"
+      ],
+      "answer": "Ndërtimi i një kulle për të arritur te Zoti"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Arka",
+        "Stafi",
+        "Mali",
+        "Kulla",
+        "Balena"
+      ],
+      "answer": "Kulla"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Duke u dhënë mençuri e jashtëzakonshme",
+        "Duke u bërë profet",
+        "Duke u gëlltitur nga toka",
+        "Të jepet një mbretëri",
+        "Duke u mbytur në det"
+      ],
+      "answer": "Duke u mbytur në det"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

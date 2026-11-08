@@ -1,0 +1,61 @@
+{
+  "title": "Un petit avertissement avant un hôte en marche",
+  "intro": "Pénétrez dans une vallée où un puissant souverain et une immense armée approchent, et imaginez un minuscule voyageur lançant un avertissement qui sauve toute une communauté. Tandis que les habitants menacés trouvent refuge, le danger s'éloigne. Suivez les indices pour identifier le personnage méconnu à l'origine de cet avertissement.",
+  "clues": [
+    "Je fais partie des petites créatures associées au royaume d'un souverain.",
+    "Ma communauté vit dans des habitations situées à l'intérieur d'une vallée, où l'un d'entre nous peut appeler les autres.",
+    "Nous sommes menacés par ce dirigeant et les armées qui l'accompagnent.",
+    "C’est moi qui appelle ma communauté à rentrer chez elle et qui nous avertis de ne pas être écrasés sans le savoir.",
+    "Le souverain est Sulayman, et mon espèce figure parmi les créatures placées sous son commandement.",
+    "Je suis la fourmi de cette vallée ; après mon avertissement, nous sommes entrés dans nos demeures et avons échappé à l'écrasement qui, autrement, nous aurait surpris."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "La fourmi de la vallée",
+        "La huppe",
+        "Le Corbeau",
+        "Le Serpent",
+        "La mule"
+      ],
+      "answer": "La fourmi de la vallée"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Un avertissement qui a épargné une communauté de fourmis",
+        "Une demande de bague de la part d'un poisson",
+        "À la recherche d'un trône disparu",
+        "Le sauvetage des yeux volés",
+        "Le refus de manger la nourriture d'un dirigeant"
+      ],
+      "answer": "Un avertissement qui a épargné une communauté de fourmis"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La Vallée des Fourmis",
+        "La bague sigillaire de Sulayman",
+        "La chemise ensanglantée de Yusuf",
+        "Le veau d'or de l'Exode",
+        "Le bâton de Moïse"
+      ],
+      "answer": "La Vallée des Fourmis"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "La communauté a été épargnée après s'être réfugiée dans un abri.",
+        "La communauté a été détruite sans avoir pu se réfugier.",
+        "La communauté a été épargnée car l'armée a battu en retraite.",
+        "La communauté a été récompensée par le contrôle des oiseaux.",
+        "La communauté fut emmenée captive à la cour royale"
+      ],
+      "answer": "La communauté a été épargnée après s'être réfugiée dans un abri."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

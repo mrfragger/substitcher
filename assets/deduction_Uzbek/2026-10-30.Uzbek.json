@@ -1,0 +1,61 @@
+{
+  "title": "Qayg'u chekkanlarni hushyorlik bilan kutib olish",
+  "intro": "Siz eng chuqur ayriliq sinovidan o'tgan, ko'zlari ko'z yoshlari tilini bilgan, ammo qalbi hech qachon umidini yo'qotmagan ruhga duch kelasiz. Aldamchilik, sog'inch va oxir-oqibat qayta uchrashish hikoyasida Allohning bu olijanob bandasi abadiy sabr-toqat ramziga aylandi. Kim yashirin og'riqlarga chidadi, ammo bir lahzada ko'rish va quvonch tiklandi?",
+  "clues": [
+    "Men katta yo'qotishlarga qaramay, ismi sabr-toqat ramziga aylangan payg'ambarman.",
+    "Men ko'p o'g'illarga ega bo'ldim, lekin ulardan birini boshqalarning hasadidan tortib oldim.",
+    "Yo'qolgan odamga bo'lgan muhabbatim shunchalik chuqur ediki, ko'zlarim qayg'udan oqarib ketdi, lekin men hech qachon Allohdan shikoyat qilmaganman.",
+    "Men o'g'illarimni yo'qotganimni va uning ukasini qidirish uchun qaytarib yubordim va ularni umidsizlikka tushmaslikka undadim.",
+    "Xushxabarchi kelganida, yuzimga ko'ylak tashlandi va to'satdan dunyo yana ravshanlashdi.",
+    "Men Isroil nomi bilan tanilganman va mening o'n ikki o'g'limdan buyuk xalqning o'n ikki qabilasi kelib chiqqan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Ya'qub payg'ambar (Yoqub)",
+        "Yusuf payg'ambar (Yusuf)",
+        "Payg'ambar Ishoq (Ishoq)",
+        "Payg'ambar Ibrohim (Ibrohim)",
+        "Payg'ambar Ayyub (Ayyub)"
+      ],
+      "answer": "Ya'qub payg'ambar (Yoqub)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ko'p yillar davomida sevimli o'g'lidan ajralish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Katta baliq yutib yubordi",
+        "Og'ir teri kasalligiga chalingan",
+        "Qarilikka qadar farzandsiz qolish"
+      ],
+      "answer": "Ko'p yillar davomida sevimli o'g'lidan ajralish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yusufning ko'ylagi",
+        "Musoning tayoqlari",
+        "Nuhning kemasi",
+        "Solihning urg'ochi tuyasi",
+        "Sulaymonning uzugi"
+      ],
+      "answer": "Yusufning ko'ylagi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ko'rish qobiliyati tiklandi va o'g'li bilan yana uchrashdi",
+        "Zolim shoh ustidan g'alaba qozonildi",
+        "Tirik holda osmonga ko'tarildi",
+        "Misr ustidan hukmdor etib tayinlangan",
+        "Mo''jiza sifatida qarilikda o'g'il berildi"
+      ],
+      "answer": "Ko'rish qobiliyati tiklandi va o'g'li bilan yana uchrashdi"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

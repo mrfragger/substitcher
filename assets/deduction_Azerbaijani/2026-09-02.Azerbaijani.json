@@ -1,0 +1,61 @@
+{
+  "title": "Zamandan Sonrakı Yuxu",
+  "intro": "Həqiqətin susdurulduğu və möminlərin təqib olunduğu bir dövrü təsəvvür edin. Kiçik bir qrup təslim olmaqdansa, geri çəkilməyi seçdi və ən gözlənilməz yerlərdə - əsrlər boyu saysız-hesabsız istirahət yerlərinə çevriləcək bir yerdə sığınacaq tapdı. Nəhayət, oyandıqları zaman ətraflarındakı dünya dəyişmişdi. Bu yuxulu ruhlar kimlərdir?",
+  "clues": [
+    "Biz qədim bir şəhərdə yaşayan gənclər idik.",
+    "İcmamız onlarla birlikdə ibadət etməyimizi tələb etdi, amma biz imtina etdik.",
+    "İnanclarımıza qarşı çıxanlardan sığınacaq axtararaq şəhərdən qaçdıq.",
+    "Gizləndiyimiz yerin girişində sadiq dördayaqlı bir yoldaş dayanırdı.",
+    "Allah bizi üç yüz doqquz il yuxuya verdi.",
+    "Nəhayət, oyandığımız zaman bir vaxtlar təqib olunan şəhərimiz imanı qəbul etmişdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "Əshab əl-Kəhf (Məğarə Əhli)",
+        "Əshab əl-Fil (Fil Ordusu)",
+        "Əshab əl-Uxdud (Xəndək Əshabı)",
+        "Həvariyyun (İsanın şagirdləri)",
+        "Yəcuc və Məcuc (Yəcuc və Məcuc)"
+      ],
+      "answer": "Əshab əl-Kəhf (Məğarə Əhli)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Biz mağaraya çəkilib əsrlər boyu yatdıq",
+        "Biz alovlanan yanğından xilas olduq",
+        "Bizi böyük bir balıq uddu",
+        "Biz möcüzəvi bir dişi dəvə ilə imtahana çəkildik",
+        "Bizə doqquz açıq-aydın əlamət verildi"
+      ],
+      "answer": "Biz mağaraya çəkilib əsrlər boyu yatdıq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dağlarda dərin bir mağara",
+        "Açıq dənizdə bir qayıq",
+        "Göylərə çatan uca bir quruluş",
+        "İki rəqib arasında bölünmüş bir bağ",
+        "Dəmir və misdən ibarət bir maneə"
+      ],
+      "answer": "Dağlarda dərin bir mağara"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Oyandıq və şəhərimizin imana döndüyünü gördük",
+        "Alovlu bir od sərin və dinc oldu",
+        "Düşmən ordusu dənizdə boğuldu",
+        "Daş daşıyan quşlar düşməni məhv etdi",
+        "Böyük bir balıq bizi sahilə buraxdı"
+      ],
+      "answer": "Oyandıq və şəhərimizin imana döndüyünü gördük"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

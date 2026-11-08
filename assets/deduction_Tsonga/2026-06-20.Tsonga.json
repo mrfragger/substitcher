@@ -1,0 +1,61 @@
+{
+  "title": "La Hluvuriweke eNtangeni",
+  "intro": "Xivumbiwa lexi nga twisisekiki xi tshame xi tshama eka swiyimo swa le henhla swa ntumbuluko, ekusuhi ni Vukwembu ku tlula leswi vo tala a va swi twisisa. Hambi swi ri tano ku tikukumuxa ku dzime timitsu, naswona xiendlo xin’we xa ku kaneta xi cince ndlela ya vukona. Sweswi, xivumbiwa lexi xi famba-famba tanihi nala la hlambanyiweke, xi hlevetela ni ku endla makungu ku kondza siku leri tshembisiweke ri fika. Xana u nga paluxa vumunhu bya loyi a weke?",
+  "clues": [
+    "Ndzi tshame ndzi va exikarhi ka lava nga ekusuhi swinene ni vukona bya Vukwembu, lava tlakusiweke ehenhla ka vunyingi bya ntumbuluko.",
+    "Ndzi vumbiwe hi xiaki lexi hisaka, ku nga ri hi misava kumbe vumba.",
+    "Loko ndzi lerisiwe ku nkhinsama emahlweni ka xivumbiwa lexintshwa, ndzi arile — ndzi susumetiwa hi leswi a ndzi pfumela leswaku i ku tlakuka ka mina.",
+    "Ndzi hlongoriwile naswona ndzi rhukaniwile, kambe eku heteleleni ndzi nyikiwile nkarhi wo wisa ku fikela nkarhi lowu tiviwaka, lowu vekiweke.",
+    "Ndzi hlambanyile leswaku ndzi ta hambukisa vo tala hilaha ndzi nga kotaka hakona, ndzi tshinelela vana va Adamu ku suka ematlhelo hinkwawo.",
+    "Ndzi nala la pfulekeke, la tivisiweke wa vumunhu hinkwabyo, ndzi tshama ndzi ri karhi ndzi endla makungu ni ku hlevetela ku fikela emakumu lama vekiweke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Muprofeta Ilyas",
+        "Abu Lahab hi yena"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Xikambelo / Xiendlakalo",
+      "options": [
+        "Ku ala ku nkhinsama emahlweni ka Adamu",
+        "Ku aka rhole ra nsuku leswaku vanhu va ri gandzela",
+        "Ku dyondzisa vungoma eka vanhu va Babilona",
+        "Ku avanyisa lwandle hi nhonga",
+        "Ku rhwala xiluvelo xa Hosi ya Xisati ya Xeba hi xihatla"
+      ],
+      "answer": "Ku ala ku nkhinsama emahlweni ka Adamu"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ntanga wa Edeni",
+        "Ntshava ya Tur",
+        "Xihlovo xa Rass",
+        "Xigodlho xa Faro",
+        "Bako ra lava etleleke"
+      ],
+      "answer": "Ntanga wa Edeni"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku wisa loku nyikiwaka ku fikela hi Siku ra Vuavanyisi",
+        "U nwile elwandle ni vuthu",
+        "U lahliwile a ha hanya ehansi ka xigodlho lexi a xi ri karhi xi wa",
+        "Yi hundzuriwa yi va ximanga kumbe nghala",
+        "Ku tlakusiwa ku ya eka xiyimo xa le henhla"
+      ],
+      "answer": "Ku wisa loku nyikiwaka ku fikela hi Siku ra Vuavanyisi"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muinaisen laakson kivenveistäjät",
+  "intro": "Kuvittele sivilisaatio, joka nousi Arabian kalliolaaksoihin ja oli taitava kaivertamaan upeita koteja vuorenrinteille. He kukoistivat voimalla ja taidolla, mutta heidän tarinaansa leimaa kylmäävä uhma jumalallista varoitusta kohtaan. Kun syvennyt heidän tarinaansa, paljastat kansan, jonka ylimielisyys johti heidän täydelliseen tuhoonsa. Keitä he olivat?",
+  "clues": [
+    "Perimme maan, jossa oli kallioisia tasankoja ja kohoavia kallioita, jonne rakensimme asuntomme vertaansa vailla olevalla taidolla.",
+    "Meidät tunnettiin siitä, että rakensimme turvallisia koteja vuorille ja tunsimme olomme turvassa kaikelta pahalta.",
+    "Keskuudestamme tuli meille sanansaattaja, joka muistutti meitä Allahin suosiosta ja varoitti meitä rangaistuksesta.",
+    "Vaadimme merkkiä, ja ihmeellinen naaraskameli nousi kalliosta, selvä testi Allahilta.",
+    "Me uhmasimme varoitusta ja katkaisimme naaraskamelin kinnerjänteet pilkaten sanansaattajaa ja kyseenalaistaen rangaistuksen.",
+    "Yksi ainoa räjähdys yllätti meidät kodeissamme, ja aamuun mennessä makasimme maassa, aivan kuin emme olisi koskaan asuneetkaan siellä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Thamudin kansa",
+        "'Ad:n ihmiset",
+        "Madyanin kansa",
+        "Nuhin kansa",
+        "Lutin kansa"
+      ],
+      "answer": "Thamudin kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Naaraskamelin kinnerjänne",
+        "Rikkoi sapatin",
+        "Palvoi kultaista vasikkaa",
+        "Tappoivat heille lähetetyn profeetan",
+        "Rakensi tornin taivaalle yltääkseen"
+      ],
+      "answer": "Naaraskamelin kinnerjänne"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Naaraskameli",
+        "Arkki",
+        "Henkilökunta",
+        "Valkoinen käsi",
+        "Manna ja viiriäiset"
+      ],
+      "answer": "Naaraskameli"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Räjähdyksen tuhoama",
+        "Pelastettu tuholta",
+        "Muuttuivat apinoiksi",
+        "Hukkui mereen",
+        "Maan nielaisema"
+      ],
+      "answer": "Räjähdyksen tuhoama"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

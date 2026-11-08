@@ -1,0 +1,61 @@
+{
+  "title": "Arhitekti kamna",
+  "intro": "Predstavljajte si mogočno civilizacijo, obdarjeno z močjo in spretnostjo, ki v gorska pobočja vklesa veličastna bivališča. Ta skupina je imela izjemno blaginjo in edinstveno arhitekturno spretnost. Kljub jasnim opozorilom pa so izbrali pot, ki jih je vodila do dramatičnega in nepozabnega konca. Ali lahko prepoznate to skupino, katere zgodba služi kot globok nauk za vse, ki razmišljajo?",
+  "clues": [
+    "Dana nam je bila moč in spretnost, ki sta nam omogočili, da smo vklesali veličastne domove neposredno v gore.",
+    "Dal nam je jasen znak od Alaha, edinstveno bitje, ki naj bi se nemoteno paslo.",
+    "Naša skupnost je postala arogantna in je izpodbijala božansko sporočilo, ki ga je prinesel poslanec izmed nas.",
+    "Zarotili smo se, da bomo škodovali čudežnemu znamenju, kljub opozorilom o hudi kazni.",
+    "Uprli smo ukazu, da naj posebno bitje pije iz našega vodnjaka vsak drugi dan.",
+    "Doživeli smo uničujoč konec, saj nas je po našem prekršku zadela ena sama, grozljiva eksplozija."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Ljudje iz 'Ad",
+        "Ljudje iz Midjana",
+        "Ljudje slona",
+        "Ljudje iz Thamuda",
+        "Lutovi ljudje"
+      ],
+      "answer": "Ljudje iz Thamuda"
+    },
+    "trial": {
+      "label": "Naše večje sojenje/dogodek",
+      "options": [
+        "Poplava, ki je zajela deželo",
+        "Razcep morja",
+        "Uničenje z enim samim eksplozijo/krikom",
+        "Požig mesta",
+        "Spreminjanje gore v prah"
+      ],
+      "answer": "Uničenje z enim samim eksplozijo/krikom"
+    },
+    "location": {
+      "label": "Ključni element naše zgodbe",
+      "options": [
+        "Zlato tele",
+        "Čudežna kamela",
+        "Goreči grm",
+        "Govoreča ptica",
+        "Veličasten prestol"
+      ],
+      "answer": "Čudežna kamela"
+    },
+    "outcome": {
+      "label": "Naš končni rezultat",
+      "options": [
+        "Podeljeno ogromno bogastvo in moč",
+        "Povzdignjen v prerokovanje",
+        "Popolno uničenje z božjo kaznijo",
+        "Odpuščeno po iskrenem kesanju",
+        "Razkropljeni po zemlji, da bi tavali"
+      ],
+      "answer": "Popolno uničenje z božjo kaznijo"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

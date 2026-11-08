@@ -1,0 +1,61 @@
+{
+  "title": "Ike Na-anaghị Atụ Egwu",
+  "intro": "N'ala ochie, otu ọchịchị dị ike chịrị n'oge gara aga, na-achịkwa nnukwu akụnụba na ndụ ọtụtụ mmadụ. N'agbanyeghị ihe ịrịba ama na ịdọ aka ná ntị doro anya, onye ọchịchị a họọrọ ụzọ nnupụisi, nke na-eduga n'ọgụ dị ukwuu nke ga-ada ụda ka oge na-aga.",
+  "clues": [
+    "Ekwuru m na m nwere ike na ikike kachasị elu n'ebe dị ukwuu.",
+    "M gbara onye ozi dị umeala n'obi nke Onyenwe anyị nke alaeze niile zitere aka.",
+    "A maara ndị m maka nkà ha nwere n'ịrụ nnukwu ụlọ na osimiri nke na-akwado mmepeanya anyị.",
+    "Ahụla m ọtụtụ ihe ịrịba ama dị ebube, gụnyere mkpara nke ghọrọ agwọ na aka nke na-enwu gbaa.",
+    "Ajụrụ m ikwe ka otu ìgwè ndị ohu si n'ala m pụọ, n'agbanyeghị iwu Chineke.",
+    "Ịchụso m nke ndị na-apụ apụ dugara mụ na ndị agha m n'ime obi oké osimiri kewara ekewa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Josef",
+        "Eze Talut",
+        "Fero (Fero)",
+        "Onye Amụma Devid",
+        "Namrud"
+      ],
+      "answer": "Fero (Fero)"
+    },
+    "trial": {
+      "label": "Mkparịta ụka dị mkpa",
+      "options": [
+        "Idei mmiri nke rikpuru ala ahụ",
+        "Nkewa nke oké osimiri",
+        "Osisi ahụ na-ere ọkụ",
+        "Owuwu nke Kaaba",
+        "Mbibi nke ifufe dị ike"
+      ],
+      "answer": "Nkewa nke oké osimiri"
+    },
+    "location": {
+      "label": "Nkọwa Akụkụ",
+      "options": [
+        "Anụmanụ na-ekwu okwu",
+        "Mkpanaka na aka na-egbuke egbuke",
+        "Ọmụmụ ọrụ ebube",
+        "Kapeeti na-efe efe",
+        "Ocheeze dị ebube n'elu mmiri"
+      ],
+      "answer": "Mkpanaka na aka na-egbuke egbuke"
+    },
+    "outcome": {
+      "label": "Akara Aka Kasị Elu",
+      "options": [
+        "Arịgoro n'eluigwe",
+        "Ala loro ya",
+        "Mmiri gbawara n'oké osimiri",
+        "Agbanweela ka ọ bụrụ enwe",
+        "Nyere nnukwu akụnụba na ike"
+      ],
+      "answer": "Mmiri gbawara n'oké osimiri"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

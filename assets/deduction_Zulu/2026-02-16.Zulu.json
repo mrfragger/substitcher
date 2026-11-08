@@ -1,0 +1,61 @@
+{
+  "title": "Isimangalo Segunya Eliphelele",
+  "intro": "Ezikhathini zasendulo, umuntu onamandla wasukuma wabusa izwe elikhulu kanye nezakhamuzi zalo. Ukubusa kwalesi sibalo kwaphawulwa ngokuziqhenya okukhulu kanye nenselele enkulu egunyeni laphezulu. Lungiselela ukwembula ukuthi ungubani umphefumulo osiphelo sawo saba yisifundo esihlala njalo kuzo zonke izizukulwane.",
+  "clues": [
+    "Ngabusa phezu kombuso onamandla, lapho izwi lami laliwumthetho.",
+    "Ngazibiza ngokuthi ngingunkulunkulu ophakeme, ngifuna ukukhulekelwa yibo bonke abangaphansi kokubusa kwami.",
+    "Ngacindezela umphakathi othile, ngawenza izigqila futhi ngayala ukuba kubulawe izinsana zabo zabesilisa.",
+    "Ngabhekana kaningi nesithunywa sikaNkulunkulu esithobekile, esenza izimangaliso ezicacile phambi kwami ​​​​nabathakathi bami.",
+    "Ngaliphika ngenkani iqiniso, ngisola isithunywa ngokuthakatha futhi ngiceba ukumbhubhisa yena nabalandeli bakhe.",
+    "Ibutho lami lonke kanye nami sagubuzelwa ulwandle njengoba sasixosha labo ababekhululwe ezandleni zami ngokungaphezi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "uNimrod",
+        "U-Abu Jahl",
+        "I-Iblis",
+        "UFir'awn",
+        "UHamani"
+      ],
+      "answer": "UFir'awn"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "UZamcolo Omkhulu",
+        "Umlilo Ovuthayo",
+        "Ukuminza Komcindezeli",
+        "Ukubhujiswa Ngumoya",
+        "Ukuzamazama Komhlaba Kokungakholwa"
+      ],
+      "answer": "Ukuminza Komcindezeli"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umkhumbi KaNowa",
+        "Intonga kaMose",
+        "Isithixo Segolide",
+        "Umthombo weZamzam",
+        "Isihlalo Sobukhosi sikaBilqis"
+      ],
+      "answer": "Intonga kaMose"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kunikezwe umbuso omkhulu",
+        "Umzimba ugcinwe njengophawu",
+        "Uthethelelwe ngemva kokuphenduka",
+        "Kuphakanyiswe kwaba umprofethi",
+        "Abantu bakhe baba ngabangcwele"
+      ],
+      "answer": "Umzimba ugcinwe njengophawu"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'absence sacrée",
+  "intro": "Au-delà des dunes du temps se cache une histoire de dévotion inébranlable et de confiance si lourde que l'âme qui la portait aurait pu se briser. À un moment où le peuple se tournait vers la folie et l'or, une figure demeura inébranlable, l'appelant à revenir, implorant sa patience et portant le poids d'une promesse sacrée. Voici l'histoire de celui qui fut choisi comme aide, vizir et gardien de la foi durant une absence sacrée. Saurez-vous découvrir l'identité de cette âme inébranlable ?",
+  "clues": [
+    "Je partage le sang d'un grand prophète qui fut choisi pour parler directement avec Allah sur une montagne sacrée.",
+    "Mon frère/ma sœur a un jour imploré Allah de l'aider à parler clairement à un grand oppresseur.",
+    "J'ai été choisi par Allah pour me tenir aux côtés de mon frère ou ma sœur en tant qu'assistant et vizir.",
+    "Ensemble, nous avons affronté un dirigeant tyrannique qui exigeait d'être appelé le plus grand des dieux.",
+    "Pendant que mon frère/ma sœur priait Allah sur la montagne, notre peuple façonnait une idole avec son or.",
+    "Je suis le frère de Moïse, désigné par Allah comme son vizir, mentionné nommément dans le Coran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Harun (Aaron)",
+        "Le prophète Moïse",
+        "Prophète Dawud",
+        "Prophète Yaqub",
+        "Prophète Ishaq"
+      ],
+      "answer": "Prophète Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La crise du culte du veau",
+        "Le grand déluge de Noé",
+        "La bataille de Badr",
+        "La destruction de Thamud",
+        "La destruction de Sodome"
+      ],
+      "answer": "La crise du culte du veau"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le veau d'or",
+        "Arche de Noé",
+        "Le Buisson Ardent",
+        "La grotte de Hira",
+        "Le trône de Saba"
+      ],
+      "answer": "Le veau d'or"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "L'innocence confirmée par Allah",
+        "Noyade du pharaon",
+        "La construction de la Kaaba",
+        "Traversée sûre de la mer",
+        "Ascension vers les Cieux"
+      ],
+      "answer": "L'innocence confirmée par Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i Tae ki te Torona",
+  "intro": "I whakatata atu tētahi tangata taumaha ki te nohoanga o te whakawa, e wiri ana tōna reo, ehara i te wehi, engari i te tumanako. He take whaiaro tēnei, engari ka rangona tōna whakataunga i roto i te wā, ka whakakore i tētahi tikanga tukino. Ko wai tēnei wairua i rangona tana amuamu i tua atu i ngā whetū?",
+  "clues": [
+    "I haere mai ahau me te ngākau taimaha, e rapu ana i te tika mō tētahi take i herea ai tōku arero.",
+    "Kāore taku inoi i te mea ki tētahi karere anake; i kake atu ia ki tua atu, ki te Mea e whakarongo ana ki ngā mea katoa.",
+    "Ko ngā kupu i kōrerotia mōku, he rite ki ngā mekameka o mua.",
+    "I tautohe ahau, i whakaaroaro hoki, me ngā roimata me te arorau, kia mau ai tōku mana.",
+    "I heke iho tētahi whakakitenga, i whakamutua ai ngā tikanga tawhito, me te whakaae hoki ki tōku mamae.",
+    "E kiia ana ahau ko te tangata i totohe mō taku tāne, ā, ka noho tōku ingoa hei kupu whakarite mō te upoko i whakaora i ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Wahine a Imran (Whaea o Meriama)",
+        "Te Wahine i tautohe mō tana tāne (Khawla bint Tha'laba)",
+        "Te Kuīni o Sheba (Bilqis)",
+        "Te Whaea o Mohi",
+        "Te Wahine a Parao (Āhiah)"
+      ],
+      "answer": "Te Wahine i tautohe mō tana tāne (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "Te Whakamātautau, te Takahanga rānei",
+      "options": [
+        "I whakapaetia teka ia mō te puremu",
+        "He pakoko ia, ā, i hiahia ia ki tētahi tamaiti",
+        "I pāngia ia e te tikanga whakarere tukino",
+        "He kuīni ia e kōrero tahi ana me tētahi poropiti",
+        "I huna e ia tana tamaiti i te ringa o te rangatira"
+      ],
+      "answer": "I pāngia ia e te tikanga whakarere tukino"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He kuao kau koura",
+        "He torona whakahīhī",
+        "Te mahi a Zihar",
+        "He kete i te awa",
+        "He oati tapu mō te whakatapua"
+      ],
+      "answer": "Te mahi a Zihar"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I manaakitia ia ki te tamaiti i tōna koroheketanga",
+        "I whakaorangia ia i te toremitanga",
+        "I whiwhi ia i tētahi whakakitenga atua e whakakore ana i te tikanga",
+        "I riro ia hei kuīni i muri i tētahi whakamātautau",
+        "I whakawhiwhia ia ki tētahi tama, ā, i riro hei poropiti"
+      ],
+      "answer": "I whiwhi ia i tētahi whakakitenga atua e whakakore ana i te tikanga"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

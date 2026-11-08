@@ -1,0 +1,61 @@
+{
+  "title": "Một cuộc vây hãm dưới bầu trời bất ngờ",
+  "intro": "Bạn đang đứng trước một đội quân hùng mạnh đang tiến đến một thánh địa linh thiêng, mọi vũ khí đều đã sẵn sàng và chiến thắng dường như đã nằm trong tầm tay. Trước khi cuộc tấn công bắt đầu, một sức mạnh bất ngờ xuất hiện từ trên cao, và cuộc chiến rẽ sang một hướng mà không ai lường trước được.",
+  "clues": [
+    "Chúng tôi hành quân với niềm tự tin mà không một thế lực trần gian nào có thể lay chuyển.",
+    "Chúng tôi mang theo những con voi khổng lồ, và dường như toàn bộ lực lượng của chúng tôi được xây dựng xung quanh chúng.",
+    "Chúng tôi đến để phá hủy một thánh đường linh thiêng, tin rằng chiến thắng của mình đã chắc chắn.",
+    "Khi chúng tôi đến nơi, một đàn chim bay ngang qua bầu trời phía trên chúng tôi.",
+    "Những con chim ném những viên đá đất sét cứng vào các chiến binh của chúng ta.",
+    "Chúng ta đã bị đánh bại hoàn toàn đến nỗi lực lượng hùng mạnh của chúng ta tan rã như tro bụi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Người dân của Voi",
+        "Hai vị hoàng tử",
+        "Anh em của Joseph",
+        "Người tôi tớ của Allah trong tháng Dhul-Kifl",
+        "Những người bạn đồng hành của người chính trực"
+      ],
+      "answer": "Người dân của Voi"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Cuộc tấn công của đàn voi vào Kaaba",
+        "Biển rẽ đôi trước một nhóm người được giải cứu.",
+        "Việc một dân tộc bạo ngược chiếm đoạt Hòm Giao Ước",
+        "Hành trình đêm giữa hai nhà thờ Hồi giáo",
+        "Sự chữa lành người mắc bệnh phong nhờ sức mạnh thần thánh"
+      ],
+      "answer": "Cuộc tấn công của đàn voi vào Kaaba"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Chim mang theo những viên đất sét.",
+        "Một chiếc rương gỗ gopherwood",
+        "Một cây gậy biến thành con rắn.",
+        "Một phiến đá được niêm phong bằng một dấu hiệu.",
+        "Một bụi cây bốc cháy"
+      ],
+      "answer": "Chim mang theo những viên đất sét."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Sức mạnh hùng hậu của họ tan vỡ như tro bụi.",
+        "Họ đã vượt biển an toàn.",
+        "Họ bước qua lò lửa đang cháy mà không hề hấn gì.",
+        "Họ cùng nhau vào Thiên đường.",
+        "Họ ngủ trong hang động suốt 309 năm."
+      ],
+      "answer": "Sức mạnh hùng hậu của họ tan vỡ như tro bụi."
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

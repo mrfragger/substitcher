@@ -1,0 +1,61 @@
+{
+  "title": "Warra Baqataman Kakuu Cabsan",
+  "intro": "Bara jalqabaa hawaasa haaraa taʼetti, gosti tokko yeroo tokko mana jireenyaa dallaa qabu keessa jiraachaa ture, kunis waliigaltee tokkoon hidhamee ture. Walii galteen sun yeroo gantu bu’aan isaa fuula Qur’aana keessaa dhaga’ame. Namoonni kun eenyu turan, manni isaanii fi maasii midhaanii isaanii maal taʼe?",
+  "clues": [
+    "Miira tasgabbii sobaa nuuf kennu keessatti iddoo cimaa keessa jiraanna turre.",
+    "Nuti namoota Caaffata Qulqullaa'oo turre, ta'us kakuu keenya cabsine.",
+    "Ergamaan erga nutti dhufee booda shira xaxne, shirri keenya garuu fashalaa'e.",
+    "Mukkeen meexxii keenya ajaja Rabbiitiin murame, mallattoo humna Isaati.",
+    "Mana keenya keessaa ari’amne, gonkumaa akka hin deebine, akka adabbii mormii keenyaaf.",
+    "Qur’aanni boqonnaa walga’ii keessatti nu eereera, seenaan keenyas warra waliigaltee cabsaniif akeekkachiisa ta’ee tajaajila."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Banu Nadir jedhamtu",
+        "Baanuu Qureeyzaa",
+        "Banu Qaynuqaa",
+        "Ummata Madyan",
+        "Ummata Thamud"
+      ],
+      "answer": "Banu Nadir jedhamtu"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Goolama fi mana isaanii keessaa ari’amuu",
+        "Galaana keessatti liqimfamuu",
+        "Lafaan liqimfamuu",
+        "Obomboleettiidhaan badiisa",
+        "Gara hantuutaatti jijjiiramuu"
+      ],
+      "answer": "Goolama fi mana isaanii keessaa ari’amuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Mukkeen meexxii muraman",
+        "Hojjettoonni",
+        "Taabotni",
+        "Boolla bishaanii",
+        "Holqa"
+      ],
+      "answer": "Mukkeen meexxii muraman"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Baqatamanii qabeenyi isaanii fudhatame",
+        "Injifannoodhaan deebi'e",
+        "Dhiifama godhamee hafe",
+        "Achumaan jannata seene",
+        "Dha'ichaan rukutaman"
+      ],
+      "answer": "Baqatamanii qabeenyi isaanii fudhatame"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "O día da exhibición final",
+  "intro": "Convocados a unha gran demostración de poder, un grupo de artistas habilidosos atopáronse ante unha verdade inesperada que lles cambiaría as vidas para sempre.",
+  "clues": [
+    "Éramos recoñecidos polo noso oficio, mestres da ilusión e o engano.",
+    "Fomos convocados polo gobernante para enfrontarnos a un retador que empuñaba un bastón sinxelo.",
+    "Cando vimos a verdade, caemos prostrados, declarando a crenza no Señor dos mundos.",
+    "O tirano ameazounos cun castigo severo, pero non vacilamos.",
+    "Fomos dos primeiros en crer na mensaxe despois de presenciar o claro sinal.",
+    "Fomos martirizados pola nosa fe, pero seremos os primeiros en entrar no Paraíso cos xustos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Os magos do faraón",
+        "Os israelitas",
+        "A xente de Thamud",
+        "Os discípulos de Isa",
+        "O exército de Abraha"
+      ],
+      "answer": "Os magos do faraón"
+    },
+    "trial": {
+      "label": "Proba / Evento",
+      "options": [
+        "Concurso co profeta Moisés",
+        "Construíndo a Torre",
+        "A Gran Inundación",
+        "A praga das lagostas",
+        "O mar que se divide"
+      ],
+      "answer": "Concurso co profeta Moisés"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O día do festival",
+        "O val de Tuwa",
+        "A cidade de Iram",
+        "O Xardín da Eternidade",
+        "A chaira de Arafat"
+      ],
+      "answer": "O día do festival"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Foron crucificados en público",
+        "Afogáronse no mar",
+        "Foron feitos seguidores do profeta",
+        "Foron enviados ao exilio",
+        "Foron consumidos polo lume"
+      ],
+      "answer": "Foron crucificados en público"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

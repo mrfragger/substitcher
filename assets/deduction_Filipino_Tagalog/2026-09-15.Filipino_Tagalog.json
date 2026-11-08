@@ -1,0 +1,61 @@
+{
+  "title": "Ang mabuting pakikitungo na nagdulot ng takot",
+  "intro": "Sa isang lungsod na nababalot ng kasamaan, isang tapat na lingkod ang nakatanggap ng mga hindi inaasahang bisita isang araw. Dahil sa pag-aalala para sa kanilang kaligtasan, ang taong ito ay nag-alok ng proteksyon, ngunit ang mga tao sa lungsod ay humingi ng isang bagay na nakakahiya. Binalaan ng isang nalalapit na kapahamakan, ang lingkod ay tumakas kasama ang kanyang pamilya sa ilalim ng kublihan ng dilim, na iniwan ang isang lungsod na nakatakdang mawasak. Sino ang nag-iisang mananampalatayang ito?",
+  "clues": [
+    "Ako ay isinugo bilang isang mensahero sa mga taong gumawa ng mga kahiya-hiyang gawain.",
+    "May mga hindi inaasahang bisitang dumating sa bahay ko, at mas nag-aalala ako para sa kanilang kaligtasan kaysa sa sarili kong kaligtasan.",
+    "Pinilit ng mga tauhan ko na makipagkita sa mga bisita ko dahil sa masamang balak nila, at sinubukan kong makipagkatuwiranan sa kanila.",
+    "Nagpakilala ang mga bisita ko bilang mga anghel at inutusan akong isama ang aking pamilya at umalis ngayong gabi.",
+    "Hindi sinunod ng aking asawa ang panawagan na tumakas at hinarap ang parehong pagkawasak gaya ng aking mga kababayan.",
+    "Ang aking lungsod ay binaligtad ng ulan ng mga batong may patong-patong na luwad, ang pinakamataas na bahagi nito ay nabababa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Lut",
+        "Propeta Musa",
+        "Propeta Ibrahim",
+        "Propeta Noah",
+        "Propeta Hud"
+      ],
+      "answer": "Propeta Lut"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang kahilingan ng aking mga tao na lapitan ang aking mga panauhin nang may kasamaan",
+        "Ang paghahati ng dagat upang makatakas sa isang malupit na pinuno",
+        "Ang paggawa ng isang malaking arka sa gitna ng pangungutya",
+        "Ang sakripisyo ng aking anak sa isang pagsubok ng pananampalataya",
+        "Ang karanasan ng pagkalunok ng isang malaking isda"
+      ],
+      "answer": "Ang kahilingan ng aking mga tao na lapitan ang aking mga panauhin nang may kasamaan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang nawasak na lungsod ng aking mga tao",
+        "Ang bundok kung saan ako nakatanggap ng banal na pananalita",
+        "Ang arka na naglayag sa isang malaking baha",
+        "Ang kamelyong babae na lumabas mula sa bato",
+        "Ang hardin na may nakatagong matuwid na bisita"
+      ],
+      "answer": "Ang nawasak na lungsod ng aking mga tao"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naligtas ako kasama ang aking pamilya bago pa man bumagsak ang aking lungsod",
+        "Pinangunahan ko ang aking bayan tungo sa kalayaan sa kabila ng dagat",
+        "Gumawa ako ng isang malaking arka at nakaligtas sa isang malakas na baha",
+        "Binigyan ako ng kapangyarihan sa mga hangin at jinn",
+        "Matiyaga kong tiniis ang pagdurusa at ginantimpalaan ng pamilya"
+      ],
+      "answer": "Naligtas ako kasama ang aking pamilya bago pa man bumagsak ang aking lungsod"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Boikobo jo Bogolo jwa Molaodimogolo",
+  "intro": "O iphitlhela o le mo lefatsheng la dikgakgamatso tsa bogologolo le tshenolo e e tseneletseng. Mmusi mongwe yo o maatla, yo o neng a lebane le taletso e a neng a sa e lebelela, o ne a simolola loeto lo lo neng lo tla fetola tsela ya isagwe ya gagwe le tumelo ya batho ba gagwe. A o ka ribolola gore motho yono yo o tlotlegang ke mang?",
+  "clues": [
+    "Ke ne ke busa bogosi jo bo atlegileng, jo bo kgabisitsweng ka khumo e e seng kana ka sepe le setulo sa bogosi se sentle thata.",
+    "Nna le batho ba gaetsho re ne re obamela mmele wa selegodimo, re dumela gore ke morena wa rona, le fa ke ne ke na le dipelaelo mo pelong ya me.",
+    "Morongwa yo o sa tlwaelegang, nonyane, o ne a ntlisetsa lekwalo, a mpitsa nna le batho ba me gore re ineele mo Modimong o le Mongwe.",
+    "Ke ne ka buisana le bagakolodi ba me, ba ba neng ba le thata ka maatla, gore ke tsibogele jang molaetsa ono o o neng o ise o ko o nne teng.",
+    "Ke ne ka swetsa ka gore ke romele mpho ya botlhokwa kwa go yo o rometseng lekwalo leo, ke solofetse go lekanya maatla a gagwe le maikaelelo a gagwe.",
+    "Fa ke goroga, ke ne ka gakgamadiwa ke ntlo ya segosi e e neng e na le bodilo jo bo dirilweng ka galase, e e neng e lebega e kete ke letangwana la metsi, mme ke ka nako eo ke neng ka bolela gore ke ineela mo Moreneng wa popo yotlhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Faro",
+        "Kgosigadi ya Sheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Moporofeti Yusuf"
+      ],
+      "answer": "Kgosigadi ya Sheba"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go kgaogana ga lewatle",
+        "Morwalela o mogolo",
+        "Leeto la go kopana le Moporofeti Sulayman",
+        "Go senngwa ga batho ba ga Lute .",
+        "Go fisiwa ga ga Moporofeti Ibrahim"
+      ],
+      "answer": "Leeto la go kopana le Moporofeti Sulayman"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Badiri",
+        "Terone",
+        "Thaba",
+        "Molelo"
+      ],
+      "answer": "Terone"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ke ne ka nna moporofeti",
+        "E sentswe ke Allah",
+        "Amogela Boiselamo",
+        "O eteletse batho ba gagwe pele go ya ntweng",
+        "O ne a aga tempele e kgolo"
+      ],
+      "answer": "Amogela Boiselamo"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

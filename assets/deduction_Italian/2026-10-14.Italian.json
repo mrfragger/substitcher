@@ -1,0 +1,61 @@
+{
+  "title": "I trasgressori del patto esiliati",
+  "intro": "Agli albori di una comunità nascente, una tribù viveva in abitazioni fortificate, legata da un patto. Quando quel patto fu tradito, le conseguenze si ripercuoterono sulle pagine del Corano. Chi erano queste persone e che fine fecero le loro case e i loro frutteti?",
+  "clues": [
+    "Abitavamo in roccaforti che ci davano un falso senso di sicurezza.",
+    "Eravamo il popolo delle Scritture, eppure abbiamo infranto la nostra alleanza.",
+    "Abbiamo complottato contro il messaggero dopo il suo arrivo, ma il nostro piano è fallito.",
+    "Le nostre palme sono state abbattute per ordine di Allah, segno della Sua potenza.",
+    "Siamo stati cacciati dalle nostre case, senza potervi mai più tornare, come punizione per la nostra disobbedienza.",
+    "Il Corano ci menziona nel capitolo dell'incontro, e la nostra storia serve da monito per coloro che infrangono i patti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Popolo di Madyan",
+        "Popolo di Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Assedio ed espulsione dalle loro case",
+        "Annegare in mare",
+        "Essere inghiottito dalla terra",
+        "Distruzione causata da una tempesta",
+        "Essere trasformati in scimmie"
+      ],
+      "answer": "Assedio ed espulsione dalle loro case"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Palme abbattute",
+        "Lo staff",
+        "L'arca",
+        "Il pozzo d'acqua",
+        "La grotta"
+      ],
+      "answer": "Palme abbattute"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Esiliati e privati ​​dei loro beni",
+        "Ritornato vittorioso",
+        "Furono perdonati e rimasero",
+        "Entrato subito in paradiso",
+        "Furono colpiti da una pestilenza"
+      ],
+      "answer": "Esiliati e privati ​​dei loro beni"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

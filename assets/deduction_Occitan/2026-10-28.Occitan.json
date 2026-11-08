@@ -1,0 +1,61 @@
+{
+  "title": "Una promessa dicha al dessús de las brasas",
+  "intro": "Te pausas al costat d'un fuòc de desèrt del temps que sas brasas son soinosament espandidas. Los visitors arriban per un rescontre dins l'immobilitat, e un sol messatge dobrís una istòria de promessa, de suspresa, e d'un futur pas encara complit.",
+  "clues": [
+    "Traversèrem la distància per aténher un servicial fidèl dins lo desèrt.",
+    "Demandèrem que las brasas foguèsson espandidas per preparar un fuòc.",
+    "Parlèrem a un qu'aviá cridat a una flama per la frescor e la seguretat.",
+    "Portàvem de novèlas d'un neonat a qualqu'un qu'aviá passat l'edat d'aver d'enfants.",
+    "Nomenèrem l'enfant prometut Isaac.",
+    "Portèrem de bonas novèlas d'un filh a Ibrahim, e la novèla estonanta daissèt Ibrahim rire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Los Angels Que Portèron de Bonas Notícias d'Isaac a Ibrahim",
+        "Los Angels qu'avertiguèron Lut",
+        "Los Angèls Portaires del Tròn",
+        "Los Angels de l'Infèrn",
+        "Los Angels Mandats a Noè"
+      ],
+      "answer": "Los Angels Que Portèron de Bonas Notícias d'Isaac a Ibrahim"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Portant de bonas novèlas de la naissença d'Isaac a Ibrahim",
+        "Avisant Lut davant lo castig de son pòble",
+        "Anonciant la naissença de Yahya a Zakariyya",
+        "Portant lo tròn lo jorn del jutjament",
+        "Anonciant la naissença d'Isa a Maryam"
+      ],
+      "answer": "Portant de bonas novèlas de la naissença d'Isaac a Ibrahim"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un fuòc preparat a partir de brasas espandidas",
+        "Una arca flotant sus l'aiga d'inondacion",
+        "Una cauna tancada per una pèira rotlanta",
+        "Una montanha d'argila durcida per la salmòra",
+        "Una escala que s'espandís dins lo cèl"
+      ],
+      "answer": "Un fuòc preparat a partir de brasas espandidas"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bonas novèlas d'un filh nomenat Isaac",
+        "Bonas novèlas d'un filh nomenat Yahya",
+        "La seleccion de Talut coma sobeiran suls Filhs d'Israèl",
+        "Un avertiment abans lo castig del pòble de Lut",
+        "Un comandament de bastir una arca abans lo Deluvi"
+      ],
+      "answer": "Bonas novèlas d'un filh nomenat Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

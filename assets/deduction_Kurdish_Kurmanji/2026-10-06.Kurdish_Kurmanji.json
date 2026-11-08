@@ -1,0 +1,61 @@
+{
+  "title": "Rastiya ku Dadgehê bêdeng kir",
+  "intro": "Li qesrekê ku înkar serdest bû û desthilatdarî mutleq bû, komek pratîsyenên jêhatî li ber dijwariyeke nediyar rawestiyan. Hewa bi bendewariyê diqelişî dema ku her du rêyên derew û rastiyê li ber hev bûn. Yên li wir civiyabûn qet nizanibûn ku ev hevdîtin dê jiyana wan ji bo her û her biguherîne û çîroka wan di nivîsa pîroz de binivîsîne.",
+  "clues": [
+    "Em bi jêhatîbûna xwe ya di xeyalan de navdar bûn û ji hêla serwerekî bihêz ve hatin kom kirin da ku em bi dijberekî re rûbirû bibin.",
+    "Dema ku kêlî hat, me amûrên xwe avêtin û bi baweriya xwe li benda encamê man.",
+    "Lê tiştê ku me dît amûrên me tenê wek pêlîstok xuya kirin, û dilên me rastiya bê înkar nas kir.",
+    "Em ketin erdê û secde kirin, tevî hêrsa hukumdar, baweriya xwe bi Xudanê Mûsa û Harûn eşkere kirin.",
+    "Wî hukumdar bi cezayên herî hovane gef li me xwar, sond xwar ku dê me xaç bike û endamên me bi awayên dijberî jê bike.",
+    "Em bi israr man, me got ku em biryara Xudanê xwe ji her encamek dinyayî tercîh dikin, û em ji bo baweriya xwe şehîd bûn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Sêrbazên Fir'ewn",
+        "Xelkê Şikeftê",
+        "Hevalbendên Daristanê",
+        "Şagirtên Îsa",
+        "Gelê Fîl"
+      ],
+      "answer": "Sêrbazên Fir'ewn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Pêşbirkek sêrbaziyê li dijî Mûsa",
+        "Agir bi ser wan de dibarînin",
+        "Lehiyek ku wan xeniqand",
+        "Ziwabûn û birçîbûn",
+        "Erdhejek"
+      ],
+      "answer": "Pêşbirkek sêrbaziyê li dijî Mûsa"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Dar û têlên ku bûne mar",
+        "Dareke dişewite",
+        "Deveyekî mê",
+        "Keştiyek ji dar",
+        "Balînayek"
+      ],
+      "answer": "Dar û têlên ku bûne mar"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ji bo baweriyê hat îdamkirin, bihuşta sozdayî",
+        "Di deryayê de xeniqî",
+        "Bûn serwerên Misirê",
+        "Mayî peyrewên Fîrewn",
+        "Erd mîras girt"
+      ],
+      "answer": "Ji bo baweriyê hat îdamkirin, bihuşta sozdayî"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

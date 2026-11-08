@@ -1,0 +1,61 @@
+{
+  "title": "Mêvanperweriya ku tirs anî",
+  "intro": "Li bajarekî ku bi xerabiyê ve hatibû dorpêçkirin, rojekê xizmetkarekî dilsoz mêvanên ji nişka ve pêşwazî kir. Ji ber ku ji ewlehiya xwe bi fikar bû, vî kesî parastin pêşkêş kir, lê xelkê bajêr tiştekî şermok xwest. Xizmetkar ji bo karesatek nêzîk hat hişyarkirin, û bi malbata xwe re di bin tariyê de reviya, û bajarekî ku ji bo wêrankirinê hatibû nîşankirin li pey xwe hişt. Ev bawermendê tenê kî ye?",
+  "clues": [
+    "Ez wek peyamberek ji bo miletekî ku kiryarên nebaş kiribûn hatim şandin.",
+    "Mêvanên ji nişka ve hatin mala min, û ez ji ewlehiya xwe bêtir ji ewlehiya wan ditirsiyam.",
+    "Gelê min ji ber niyetên xerab daxwaza dîtina mêvanên min kir, û min hewl da ku bi wan re bifikim.",
+    "Mêvanên min xwe wek milyaketan nîşan dan û ji min re gotin ku ez malbata xwe bibim û di şevê de herim.",
+    "Jina min guh neda banga revê û bi heman wêraniyê re rû bi rû ma wekî gelê min.",
+    "Bajarê min bi barana kevirên ji heriyê hate hilweşandin, beşên wê yên herî bilind hatin nizmkirin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Lût",
+        "Pêxember Mûsa",
+        "Pêxember Îbrahîm",
+        "Pêxember Nûh",
+        "Pêxember Hûd"
+      ],
+      "answer": "Pêxember Lût"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Daxwaza gelê min ku bi xerabî nêzîkî mêvanên min bibin",
+        "Veqetandina deryayê ji bo revîna ji zordarekî",
+        "Avakirina keştiyeke mezin di nav tinazan de",
+        "Qurbaniya kurê min di ceribandineke baweriyê de",
+        "Ezmûna daqurtandina ji aliyê masiyek mezin ve"
+      ],
+      "answer": "Daxwaza gelê min ku bi xerabî nêzîkî mêvanên min bibin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Bajarê hilweşiyayî yê gelê min",
+        "Çiyayê ku min axaftina îlahî lê wergirt",
+        "Keştiya ku di nav lehiyê mezin re derbas bû",
+        "Deveya ku ji zinaran derket",
+        "Baxçe bi mêvanekî rastdar ê veşartî re"
+      ],
+      "answer": "Bajarê hilweşiyayî yê gelê min"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Berî ku bajarê min were hilweşandin, ez û malbata xwe hatin rizgarkirin",
+        "Min gelê xwe ber bi azadiyê ve bir ser deryayê",
+        "Min keştîyek mezin ava kir û ji lehiyê mezin xilas bûm",
+        "Serweriya li ser bayê û cinan ji min re hat dayîn",
+        "Min bi sebir êş kişand û bi malbatê xelat girtim"
+      ],
+      "answer": "Berî ku bajarê min were hilweşandin, ez û malbata xwe hatin rizgarkirin"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

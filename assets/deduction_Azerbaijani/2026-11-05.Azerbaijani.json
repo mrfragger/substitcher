@@ -1,0 +1,61 @@
+{
+  "title": "alaqaranlıqda dağların melodiyası",
+  "intro": "Allahın seçilmiş bir qulunun yanında vadilərin təriflə əks-səda verdiyini dinləyin. Melodiya ilə bəxş edilmiş bir səs, otaqda mübahisə edənlərin axtardığı bir mühakimə və ilahi əmrlə yumşaldılmış metal kəşf gözləyir. Bu əlamətlər vasitəsilə hansı ibadət və ədalətli hökmranlıq obrazı danışır?",
+  "clues": [
+    "Allah mənə lütf və melodik bir tərif səsi bəxş etdi.",
+    "Mənə mübahisə edənlər arasında ədalətli hökmün dilini anlamağı Allah öyrətdi.",
+    "Döyüşdə nəhəng bir döyüşçü ilə qarşılaşdım və Allahın izni ilə onlara qalib gəldim.",
+    "Mənə Allahdan hikmət, səlahiyyət və məzmurların nazil olduğu bir kitab verildi.",
+    "Axşam və gün doğarkən dağlar və quşlar mənimlə birlikdə Allahı təsbih edirdilər.",
+    "Allah mənə mənim üçün yumşaq hazırlanmış dəmirdən zireh düzəltməyi öyrətdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Davud peyğəmbər (ə)",
+        "İsmayıl peyğəmbər (İsmayıl)",
+        "Yəhya peyğəmbər (ə)",
+        "Zül-Kifl",
+        "Peyğəmbər Əl-Yəsa (Elişa)"
+      ],
+      "answer": "Davud peyğəmbər (ə)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Allahın izni ilə döyüşdə Calut (Qolyas) məğlub edildi",
+        "Böyük daşqından sağ çıxmaq üçün gəmi tikdi",
+        "Allahın sərinlətdiyi oda atıldı",
+        "Dənizdə böyük bir balıq tərəfindən uduldu",
+        "Ölüm dadmadan göylərə qaldırıldı"
+      ],
+      "answer": "Allahın izni ilə döyüşdə Calut (Qolyas) məğlub edildi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dağlar və quşlar Allahı tərifləmək üçün birləşirlər",
+        "İlana çevrilən bir əsa",
+        "Sərin və dinc bir atəş",
+        "İnsanlara bir işarə olaraq göndərilən dişi dəvə",
+        "Cudi dağında dayanan taxta bir gəmi"
+      ],
+      "answer": "Dağlar və quşlar Allahı tərifləmək üçün birləşirlər"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Padşahlıq, hikmət və Zəbur (Məzmurlar) verildi",
+        "Səmimi duadan sonra qocalıqda bir oğul bəxş etdi",
+        "Mağarada uzun illər təhlükəsizlik təmin edildi",
+        "Səhrada Zəmzəm bulağı bəxş etdi",
+        "Ordunun dənizdə boğulmasına icazə verildi"
+      ],
+      "answer": "Padşahlıq, hikmət və Zəbur (Məzmurlar) verildi"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

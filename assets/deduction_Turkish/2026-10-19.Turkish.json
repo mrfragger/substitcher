@@ -1,0 +1,61 @@
+{
+  "title": "Cennetin Dışlanmışı",
+  "intro": "Gizemli bir varlık, yaratılış ve reddedilmenin kavşağında duruyor. Hikayesi, eşi benzeri görülmemiş bir kibir ve ilahi bir emre karşı nihai bir meydan okuma öyküsüdür. Seçimi her nesilde yankılanarak, bu dünyaya doğan her ruh için bir sınav haline geliyor. Bu ebedi düşmanı tanımlayabilir misiniz?",
+  "clues": [
+    "Evrensel öneme sahip bir olaya şahit oldum; yeni bir varlık kilden yaratıldı ve Merhametli Olanın Nefesiyle hayata geçirildi.",
+    "Ben kendim, tozdan yaratılmış olanın aksine, tek bir alevli elementten var oldum.",
+    "Bana verilen emri, yetkimin altında gördüm.",
+    "Gururum kabardı ve bu emre uymayı kesinlikle reddettim.",
+    "Başkalarını yanıltma amacımı gerçekleştirebilmem için bana belirlenmiş bir güne kadar süre tanındı.",
+    "Ben, yeryüzünde yaşayan herkesin ilan edilmiş düşmanıyım; aldatmacalar fısıldayarak onları doğru yoldan saptırıyorum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "İblis (Şeytan)",
+        "Firavun (Firavun)",
+        "Haman",
+        "Ebu Cehl",
+        "Samiri"
+      ],
+      "answer": "İblis (Şeytan)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Adam'ın önünde eğilmeyi reddetti.",
+        "Sahte bir şekilde tanrı olduğunu iddia etti",
+        "Tapınma için altın bir buzağı yaptılar.",
+        "Kardeşini kıskançlıktan öldürdü.",
+        "Mekke'de çok tanrılı inançlara karşı muhalefete önderlik etti."
+      ],
+      "answer": "Adam'ın önünde eğilmeyi reddetti."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Cennet (Cennet)",
+        "Mısır'daki Firavun sarayı",
+        "Tuwa'nın kutsal vadisi",
+        "Denizin derinlikleri",
+        "Şeba Bahçesi"
+      ],
+      "answer": "Cennet (Cennet)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Kıyamet Gününe kadar mühlet tanındı.",
+        "Orduyla birlikte denizde boğuldu.",
+        "Hazinelerle birlikte toprak tarafından yutuldu",
+        "Şabat gününü ihlal ettikleri için maymuna dönüştürüldüler.",
+        "Gökyüzünden atılan taşlarla yanmış"
+      ],
+      "answer": "Kıyamet Gününe kadar mühlet tanındı."
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

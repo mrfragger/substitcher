@@ -1,0 +1,61 @@
+{
+  "title": "Vladar, ki je zahteval božanskost",
+  "intro": "Močan in aroganten vladar je verjel, da nihče ne stoji nad njegovim prestolom. Preganjali so bežečo skupino čez ogromno vodno površino, le da so doživeli dramatičen konec. Zgodba tega vladarja odmeva v številnih odlomkih Korana in služi kot opozorilo vsem.",
+  "clues": [
+    "Bil sem mogočen vladar, ki je verjel, da v deželah, ki sem jim vladal, nobena oblast ne presega moje.",
+    "Imel sem zaupanja vrednega vezirja po imenu Haman, ki mi je pomagal pri izvajanju velikih arhitekturnih projektov.",
+    "Poklical sem najboljše čarovnike svoje dežele, da bi izzvali znamenja poslanca, ki mi je nasprotoval.",
+    "Kljub kugam in jasnim opozorilom nisem dovolil, da bi ljudstvo, zasužnjeno v mojem kraljestvu, odšlo.",
+    "Zasledoval sem jih čez prostrano morje z vso svojo vojsko in bojnimi vozovi.",
+    "Pravo morje se je zaprlo nad mano in mojimi silami in nas vse utopilo, medtem ko so oni varno prečkali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Faraon (Faraon)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Džahl"
+      ],
+      "answer": "Faraon (Faraon)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Nadloge in spopad z Muso (Mojzesom)",
+        "Gradnja barke pred velikim potopom",
+        "Bitka proti Jalutu v dolini",
+        "Biti pogoltnjen s strani kita",
+        "Zagovor poštenih trgovinskih uteži"
+      ],
+      "answer": "Nadloge in spopad z Muso (Mojzesom)"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Visoki stolpi in koli",
+        "Velika lesena barka",
+        "Zlato tele",
+        "Palica, ki se je spremenila v kačo",
+        "Ogromen kit"
+      ],
+      "answer": "Visoki stolpi in koli"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Utopljen v morju z vojsko",
+        "Rešen po Alahovi milosti in potrpežljivosti, nagrajen",
+        "Po letih stiske ponovno združeni z družino",
+        "Požrla ga je zemlja",
+        "Zgorel v požaru"
+      ],
+      "answer": "Utopljen v morju z vojsko"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

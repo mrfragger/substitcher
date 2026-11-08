@@ -1,0 +1,61 @@
+{
+  "title": "Tahtı Hızlı Getiren",
+  "intro": "Kudretli bir hükümdarın sarayında imkansız bir talep ortaya atıldı ve birçok kişi yeteneklerini kanıtlamak için yarıştı. Ancak bu görevi, ilahi bilgiye olan bağlantısı tüm fiziksel güçten üstün olan biri başarabilirdi ve bu an, çağlar boyunca yankılanacak bir anı ortaya çıkardı.",
+  "clues": [
+    "Hem kral hem de peygamber olan büyük bir kralın hizmetindeydim ve onun en güvendiği kişiler arasında yer alıyordum.",
+    "Ben ateşten bir yaratık ya da büyük fiziksel güce sahip bir varlık değildim, ama çok daha güçlü bir şeye sahiptim.",
+    "Kral uzak bir ülkeden taht getirilmesini istediğinde, ne yapacağımı çok iyi biliyordum.",
+    "Kitaptan edindiğim bilgileri anlattım ve kimse tepki veremeden taht kralın önüne konuldu.",
+    "Bu davranışım kendi gücümle değil, gerçek bilginin yalnızca Allah'tan geldiğinin bir göstergesi olarak gerçekleşti.",
+    "Naml Suresi'nde kaydedildiği üzere, Saba Kraliçesi'nin tahtını bir göz açıp kapayıncaya kadar getiren benim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Kitabı bilen kişi",
+        "Kudretli cin İfrit",
+        "Süleyman'ın ibibik kuşu.",
+        "Peygamber Süleyman",
+        "Saba Kraliçesi"
+      ],
+      "answer": "Kitabı bilen kişi"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Saba Kraliçesi'nin tahtını bir anda getirmek",
+        "İsrailoğulları için Kızıldeniz'in yarılması",
+        "Kabe'yi oğluyla birlikte inşa etmek",
+        "Ateşli fırından sağ çıkmak",
+        "Balinanın karnından kurtarılmak"
+      ],
+      "answer": "Saba Kraliçesi'nin tahtını bir anda getirmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bilqis'in Tahtı",
+        "Musa'nın Asası",
+        "Nuh'un Gemisi",
+        "Namrud Ateşi",
+        "Yunus Balinası"
+      ],
+      "answer": "Bilqis'in Tahtı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Şükran göstergesi olarak taht aniden Süleyman'ın önünde belirdi.",
+        "Kraliçe hemen İslamiyet'i benimsedi.",
+        "Cin, başarısız olduğu için hapsedildi.",
+        "Süleyman krallığından vazgeçti.",
+        "Taht paramparça olmuştu."
+      ],
+      "answer": "Şükran göstergesi olarak taht aniden Süleyman'ın önünde belirdi."
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

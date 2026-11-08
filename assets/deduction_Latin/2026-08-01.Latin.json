@@ -1,0 +1,61 @@
+{
+  "title": "Victor Inter Duos Horizontes",
+  "intro": "In annalibus divinae gubernationis, figura quaedam eminet tamquam princeps potens et servus humilis Dei. Hic homo ad ultimas terrarum partes iter fecit, solem orientem super populum insolitum et occidentem in nigro et caliginoso fonte videns. Mirabile dictu, huic servo mandatum est ut munimentum extraordinarium contra gentem magnae nequitiae construeret. Potesne hanc figuram legendariam ex Corano agnoscere?",
+  "clues": [
+    "Potestas et auctoritas in terra mihi a Misericordissimo concessae sunt.",
+    "Ad locum ubi sol oritur et occidit iter feci",
+    "Ad populum perveni qui vix verbum intellegere poterat",
+    "Iussi sum ingens munimentum ferro aedificare",
+    "Spatium inter duos montes praeruptos metallo liquefacto obsignavi",
+    "Neque angelus neque propheta eram, sed servus cui Deus gratiam contulit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Dhu al-Qarnayn (Ille cum Duobus Cornubus)",
+        "Rex Soliman (Salomon)",
+        "Propheta Dhul-Kifl",
+        "Dhu al-Nun (Socius Piscium)",
+        "Angelus Claustri"
+      ],
+      "answer": "Dhu al-Qarnayn (Ille cum Duobus Cornubus)"
+    },
+    "trial": {
+      "label": "Magnum Munus",
+      "options": [
+        "Turrim ad caelum aedificans",
+        "Constructio ingentis ferreae munitionis contra Yajuj et Majuj",
+        "Creando thronum aureum ad iudicium",
+        "Fodens puteum profundum iustis",
+        "Navis constructio tempore diluvii magni"
+      ],
+      "answer": "Constructio ingentis ferreae munitionis contra Yajuj et Majuj"
+    },
+    "location": {
+      "label": "Scaena",
+      "options": [
+        "Terra Uzair inter duo flumina",
+        "Locus solis ortus et fons niger et lutulentus",
+        "Vallis sacra Meccae",
+        "Desertum Madyanum",
+        "Insula Cypri"
+      ],
+      "answer": "Locus solis ortus et fons niger et lutulentus"
+    },
+    "outcome": {
+      "label": "Promissio Divina",
+      "options": [
+        "Paradisus aeternus statim concessus",
+        "Natio vento calido vastata est",
+        "Obiex usque ad diem iudicii durabit",
+        "Libertas a morte omnibus credentibus",
+        "Regnum aeternum sine fine"
+      ],
+      "answer": "Obiex usque ad diem iudicii durabit"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

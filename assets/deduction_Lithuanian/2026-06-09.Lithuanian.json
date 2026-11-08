@@ -1,0 +1,61 @@
+{
+  "title": "Nepajudinamas tiesos šauklys",
+  "intro": "Pasiuntinys stovi vienas tarp užsispyrusių žmonių, kviesdamas juos pas Vienintelį Tikrąjį Dievą, kol jie tebėra prisirišę prie netikrų stabų. Šio pranašo vardas turi galingą reikšmę – „tas, kuris ieško apsaugos“, – tačiau sulaukia tik atmetimo ir neigimo. Švelniai įtikinėdamas ir tvirtai perspėjdamas, ši siela neša dievišką žinią, kurią galiausiai išteisins pati visata. Ar galite atpažinti šią tvirtą asmenybę, kuri atstovauja vienam seniausių pasakojimų islamo šventraščiuose?",
+  "clues": [
+    "Mano tauta garbino daugelį dievų, o aš pašaukiau juos tarnauti Tam, kuris sukūrė dangų ir žemę.",
+    "Aš stovėjau prieš savo tautą ir pareiškiau, kad nesitikiu iš jų jokio atlygio – mano vienintelis troškimas buvo jų vedimas į teisumą.",
+    "Mano tautai kaip dieviška bausmė buvo pasiųstas stiprus vėjas, apie kurį Koranas kalba tiek daugiskaitos, tiek moteriškos lyties formomis.",
+    "Kitaip nei kai kuriems pranašams, man nebuvo duota žmona ar vaikai, kurie būtų aiškiai paminėti mano pasakojime, nes mano misija buvo pašaukti savo žmones vienam.",
+    "Mano vardas turi gilią prasmę – susijusią su apsaugos ir prieglobsčio, kurio žmogus ieško, idėja.",
+    "Mano žmonės buvo žinomi konkrečiu geografiniu slėnio, kuriame gyveno, pavadinimu, o jų žemė buvo apibūdinama su ypatinga panieka dėl augmenijos trūkumo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Hudas",
+        "Pranašas Salihas",
+        "Pranašas Šuaibas",
+        "Pranašas Nuh",
+        "Pranašas Hudaibas"
+      ],
+      "answer": "Pranašas Hudas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Žemės potvynis",
+        "Žvarbus vėjas",
+        "Sunaikinimo žemės drebėjimas",
+        "Sausra ir badas",
+        "Skendimas jūroje"
+      ],
+      "answer": "Žvarbus vėjas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Derlingas Jemeno slėnis",
+        "Midjano smėlėtoji dykuma",
+        "Uolėtas Tamudo slėnis",
+        "Senovės „Ad“ žmonių žemė",
+        "Egipto pakrantės regionas"
+      ],
+      "answer": "Senovės „Ad“ žmonių žemė"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Mano žmonės atgailavo ir įžengė į rojų",
+        "Nė vienas iš mano žmonių neišgyveno bausmės",
+        "Buvau paimtas gyvas kaip ir mano brolis Junusas",
+        "Su savo pasekėjais migravau į palaimintą žemę",
+        "Vėjas sunaikino tik netikinčius, o tikintieji išgyveno"
+      ],
+      "answer": "Nė vienas iš mano žmonių neišgyveno bausmės"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

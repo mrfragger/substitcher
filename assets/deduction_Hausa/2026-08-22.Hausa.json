@@ -1,0 +1,61 @@
+{
+  "title": "Garin da Ya Yi Imani da Lokaci",
+  "intro": "A cikin tarihin rahamar Allah, akwai wata al'umma wadda lokacinta ya kasance lokacin fahimta tare. Za ku gano labarinsu - labari na gargaɗi, tuba, da kuma hutu wanda ya bambanta su da makomar sauran al'ummomi.",
+  "clues": [
+    "Mu mutane ne da aka aiko wa manzo, kuma da farko mun juya baya daga kiransa.",
+    "Lokacin da alamun azabar da ke tafe suka bayyana, mun fahimci gaskiyar gargaɗinsa.",
+    "Mun koma ga Ubangijinmu da tuba ta gaskiya, kuma aka karɓi imaninmu.",
+    "An ɗage mana hukuncin da aka yanke mana saboda imaninmu.",
+    "An ambaci labarinmu a matsayin wani abu daban a tsakanin garuruwan da suka yi imani bayan sun ga hukuncin.",
+    "Mu ne mutanen annabin da kifin ya haɗiye, amma an cece mu daga halaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Yunus",
+        "Mutanen Nuhu",
+        "Mutanen Hud",
+        "Mutanen Salih",
+        "Mutanen Lutu"
+      ],
+      "answer": "Mutanen Yunus"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ambaliyar ruwa mai barna",
+        "Iska mai ƙarfi",
+        "Hukuncin kunya da ke tafe wanda aka kauce masa",
+        "Ƙasa ta haɗiye su",
+        "Ruwan sama na duwatsu"
+      ],
+      "answer": "Hukuncin kunya da ke tafe wanda aka kauce masa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Raƙumar",
+        "Birni mai mutum dubu ɗari",
+        "Ma'aikatan Musa",
+        "Taska ta Qarun"
+      ],
+      "answer": "Birni mai mutum dubu ɗari"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An lalata su gaba ɗaya",
+        "An ba su jin daɗi na ɗan lokaci",
+        "An mayar da su birrai",
+        "An nutsar da su",
+        "Ƙasa ta haɗiye su"
+      ],
+      "answer": "An ba su jin daɗi na ɗan lokaci"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "O Paciente Un",
+  "intro": "Hai moito tempo, nos primeiros días da historia da humanidade, dúas almas presentáronse ante o seu Creador con ofrendas. Unha foi aceptada, a outra non. O que seguiu converteríase na primeira gran traxedia entre irmáns: un acto de paciente moderación e un acto de amarga vinganza. Podes descubrir quen son?",
+  "clues": [
+    "Nacín nos primeiros días da existencia humana na Terra",
+    "Fun fillo da primeira parella de humanos que camiñou por esta terra",
+    "Unha vez ofrecín un sacrificio do mellor do meu rabaño para agradar ao meu Creador",
+    "A miña ofrenda foi aceptada dende arriba, mentres que a ofrenda do meu irmán foi rexeitada",
+    "Cando me ameazaron de morte, decidín non levantar a man contra o meu irmán",
+    "Convertinme na primeira persoa en toda a historia da humanidade en ser asasinada inxustamente por outra persoa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Habil (Abel), fillo de Adán",
+        "Qabil (Caín), fillo de Adán",
+        "Adán, o primeiro ser humano",
+        "Nuh (Noé)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), fillo de Adán"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "O primeiro asasinato da historia da humanidade",
+        "O gran diluvio de Nuh",
+        "A destrución do exército de Fir'awn",
+        "O sacrificio de Ismail por Ibrahim",
+        "A batalla contra Jalut (Goliath)"
+      ],
+      "answer": "O primeiro asasinato da historia da humanidade"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha ovella ofrecida como un sacrificio agradable",
+        "Unha gran arca de madeira",
+        "Un bastón que se converteu nunha serpe",
+        "Unha ubupa levando unha mensaxe real",
+        "Unha trincheira de lume abrasador"
+      ],
+      "answer": "Unha ovella ofrecida como un sacrificio agradable"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Converteuse na primeira vítima de asasinato na historia da humanidade",
+        "Sobreviviu a unha gran inundación dentro dunha embarcación de madeira",
+        "Vivía dentro do ventre dun gran peixe",
+        "Gobernou sobre os djinns, os humanos e o vento",
+        "Vagou durante corenta anos por un vasto deserto"
+      ],
+      "answer": "Converteuse na primeira vítima de asasinato na historia da humanidade"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

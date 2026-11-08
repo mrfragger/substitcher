@@ -1,0 +1,61 @@
+{
+  "title": "Arroka Antzuaren Proba",
+  "intro": "Komunitate trebe eta harro batek bere ondarea mendietan bertan zizelkatu zuen. Baina seinale argi bat bidali zitzaienean, fedearen eta neurritasunaren proba bat, haien harrokeriak itzulerarik gabeko bide batetik eraman zituen. Identifika al dezakezu talde hau eta haien desafioaren ondorioa?",
+  "clues": [
+    "Harriaren maisuak ginen, etxebizitza bikainak zuzenean mendi-magalean zizelkatzen genituen.",
+    "Gure herriko mezulari bat etorri zitzaigun, Jainko Egiazko Bakarra gurtzera deituz.",
+    "Bere hitzak frogatzeko seinale bat eskatu genuen, eta izaki paregabe bat ekarri ziguten proba gisa.",
+    "Agindu sinple bat eman ziguten: gure ur iturria izaki honekin partekatzea, bere egunean edaten uztea.",
+    "Gure harrokerian, gure arteko gutxi batzuek konspiratu zuten eta abisua desafiatu genuen, gure seinale izan behar zuen izakia hilez.",
+    "Hiru egun eman zizkiguten gure patuaren aurretik, eta orduan leherketa izugarri batek harrapatu gintuen gure etxeetan, bizirik gabe eta irauli gintuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "'Ad-eko jendea",
+        "Madyango jendea.",
+        "Thamudeko jendea",
+        "Sabako jendea.",
+        "Luteko jendea."
+      ],
+      "answer": "Thamudeko jendea"
+    },
+    "trial": {
+      "label": "Zein izan zen gure lehen proba?",
+      "options": [
+        "Uholde bati aurre egiteko arka bat eraikitzea",
+        "Sabbatuan arrantza egiteko gogoari aurre egitea",
+        "Negozio-jardunbide iruzurrezkoak uztea",
+        "Gamelu eme miragarri bat babesten",
+        "Zazpi urteko goseteari aurre egitea"
+      ],
+      "answer": "Gamelu eme miragarri bat babesten"
+    },
+    "location": {
+      "label": "Zein izan zen gure istorioaren elementu nagusia?",
+      "options": [
+        "Urrezko Txahala",
+        "Gamelu Emearen",
+        "Musa profetaren makila",
+        "Ma'ribeko presa handia",
+        "Zerutik zabaldutako mahaia"
+      ],
+      "answer": "Gamelu Emearen"
+    },
+    "outcome": {
+      "label": "Zein izan zen gure azken patua?",
+      "options": [
+        "Uholde handi batean itota",
+        "Tximino eta txerri bihurtuta",
+        "Haize bortitz batek gainezka",
+        "Presa baten hausturak sakabanatuta",
+        "Leherketa/lurrikara handi batek suntsitu zuen"
+      ],
+      "answer": "Leherketa/lurrikara handi batek suntsitu zuen"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

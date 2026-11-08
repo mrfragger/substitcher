@@ -1,0 +1,60 @@
+{
+  "title": "O Julgamento Submerso",
+  "intro": "Um profeta, sobrecarregado por sua missão, tomou uma decisão que o levou para longe de seu povo e para uma provação inesperada. Sua jornada tomou um rumo dramático, testando sua fé e paciência da maneira mais profunda. Você consegue deduzir os detalhes desse evento extraordinário a partir das pistas fornecidas?",
+  "clues": [
+    "Um profeta foi enviado a um povo, mas partiu às pressas, frustrado com a rejeição que recebeu.",
+    "Sua jornada o levou ao mar, onde embarcou em uma embarcação carregada em busca de passagem.",
+    "Uma grande tempestade surgiu, ameaçando o navio, e foi tomada a decisão de lançar uma pessoa ao mar para aliviar a carga, determinada por sorteio.",
+    "Ele foi engolido por uma criatura das profundezas, um evento milagroso decretado pela vontade divina.",
+    "No interior do ventre da criatura, ele clamou ao seu Senhor, arrependendo-se e glorificando a Deus na escuridão.",
+    "Após um período de intensa súplica, ele foi lançado em uma praia deserta, fraco, mas vivo, e mais tarde retornou para descobrir que seu povo finalmente havia acreditado."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Pessoa",
+      "options": [
+        "Profeta Noé",
+        "Profeta Ló",
+        "Profeta Moisés",
+        "Profeta Yunus",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O dilúvio de Nuh",
+        "A destruição de Sodoma",
+        "A viagem na barriga do grande peixe",
+        "A divisão do mar",
+        "A revelação da sarça ardente"
+      ],
+      "answer": "A viagem na barriga do grande peixe"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Arca",
+        "Monte Sinai",
+        "O Cajado de Musa",
+        "O Grande Peixe",
+        "O Poço de Yusuf"
+      ],
+      "answer": "O Grande Peixe"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Um novo pacto com a humanidade",
+        "Um nascimento milagroso para o seu povo.",
+        "Um reino estabelecido para sua linhagem",
+        "Um retorno ao seu povo que então acreditava",
+        "Uma vitória sobre um governante tirano."
+      ],
+      "answer": "Um retorno ao seu povo que então acreditava"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vocea din Rugul Aprins",
+  "intro": "Dezvăluie identitatea unei figuri profunde a cărei călătorie a început cu o întâlnire miraculoasă și al cărei destin a fost împletit cu eliberarea unui popor asuprit. Această persoană a fost aleasă pentru o sarcină monumentală, confruntându-se cu provocări imense cu sprijin divin.",
+  "clues": [
+    "M-am născut într-o perioadă de mare asuprire, în care pruncii poporului meu erau uciși.",
+    "Timpurile mele de viață au însemnat să fiu aruncat într-un râu de către părinții mei, totuși am fost găsit și crescut chiar în casa asupritorului poporului meu.",
+    "Am fugit odată dintr-un oraș după ce am provocat, fără intenție, moartea unei persoane în timpul unei dispute.",
+    "Am primit un mesaj divin și un toiag miraculos într-un loc sacru, unde mi s-a poruncit să înfrunt un conducător puternic.",
+    "Fratele meu a fost numit ajutor pentru mine în misiunea mea, din cauza unei percepții negative în vorbirea mea.",
+    "Mi-am condus poporul peste o mare despărțită, scăpând de urmărirea unei armate tiranice."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Yusuf",
+        "Profetul Isa",
+        "Profetul Musa",
+        "Profetul Nuh",
+        "Profetul Ibrahim"
+      ],
+      "answer": "Profetul Musa"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ani de secetă îndurați",
+        "Construirea Arcei",
+        "Confruntarea faraonului și a vrăjitorilor săi",
+        "Fiind aruncat într-un cuptor aprins",
+        "Distrugerea oamenilor din Thamud"
+      ],
+      "answer": "Confruntarea faraonului și a vrăjitorilor săi"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Kaaba",
+        "Zidul de Fier",
+        "Personalul",
+        "Corabia lui Nuh",
+        "Inelul lui Sulaiman"
+      ],
+      "answer": "Personalul"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Orașul Sodoma a fost răsturnat",
+        "Oamenii au fost înghițiți de pământ",
+        "Marele potop a cuprins pământul",
+        "Faraonul și armata sa s-au înecat",
+        "Zidurile orașului s-au prăbușit dintr-un strigăt"
+      ],
+      "answer": "Faraonul și armata sa s-au înecat"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La voix avant la tempête",
+  "intro": "Une figure surgie du désert appela une puissante nation à revenir à la vérité. Ce peuple était réputé pour ses édifices magnifiques et sa force inégalée. Pourtant, son orgueil l'aveugla et il refusa d'écouter. Finalement, un châtiment terrible s'abattit sur lui, épargnant seulement un petit groupe de croyants.",
+  "clues": [
+    "J'ai été envoyé auprès d'un peuple puissant qui vivait en pleine nature et était réputé pour sa force.",
+    "Mon peuple est arrivé après une autre grande nation qui avait été détruite.",
+    "Ils possédaient des édifices magnifiques et construisaient de hautes tours.",
+    "Je les ai appelés à adorer un seul Dieu, mais ils ont refusé d'abandonner leurs idoles.",
+    "Un châtiment violent s'abattit sur eux, épargnant seulement ceux qui croyaient avec moi.",
+    "Je suis celui qui a été envoyé à un peuple puissant connu sous le nom d'Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Hud",
+        "Prophète Salih",
+        "Prophète Shu'aib",
+        "Prophète Noé",
+        "Le prophète Ibrahim"
+      ],
+      "answer": "Prophète Hud"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le grand déluge",
+        "Un vent violent et rugissant",
+        "Un tremblement de terre et un cri terrifiant",
+        "Une pluie de pierres brûlantes",
+        "Feu céleste venu d'en haut"
+      ],
+      "answer": "Un vent violent et rugissant"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une grande arche construite sur une montagne",
+        "Une chamelle unique",
+        "Un bâton qui se transforma en serpent",
+        "Immeubles de grande hauteur et structures imposantes",
+        "Un bûcher flamboyant"
+      ],
+      "answer": "Immeubles de grande hauteur et structures imposantes"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Tous ont péri noyés dans une grande inondation.",
+        "Mon peuple a été anéanti par un vent violent, tandis que j'ai été sauvé.",
+        "Mon peuple est frappé par un tremblement de terre et pleure",
+        "Mon peuple a été lapidé par le ciel",
+        "Mon peuple jeté dans un feu ardent"
+      ],
+      "answer": "Mon peuple a été anéanti par un vent violent, tandis que j'ai été sauvé."
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

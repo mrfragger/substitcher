@@ -1,0 +1,61 @@
+{
+  "title": "Fahirano eo ambanin'ny lanitra tampoka",
+  "intro": "Mijoro eo anoloan'ny tafika goavana manatona toerana masina hajaina ianao, miaraka amin'ny fitaovam-piadiana rehetra vonona ary toa azo antoka ny fandresena. Talohan'ny nanombohan'ny fanafihana dia nisy hery tsy nampoizina niseho teo ambony, ary niova ho zavatra tsy nisy nampoizina ny fifaninanana.",
+  "clues": [
+    "Nandeha tamim-pahatokiana izahay fa tsy misy hery eto an-tany afaka mihozongozona.",
+    "Nitondra elefanta matanjaka izahay, ary toa nanorina manodidina azy ireo ny tafikay.",
+    "Tonga handrava toeram-pivavahana hajaina izahay, satria nino fa efa azo antoka ny fandresenay.",
+    "Rehefa tonga teo izahay dia nisy andian'ondry nanenika ny lanitra teo amboninay.",
+    "Nitoraka vato tanimanga mafy tamin'ireo mpiady anay ireo vorona.",
+    "Resy tanteraka izahay ka nirodana sy niparitaka toy ny lavenona ny tafikay mahery."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny Vahoakan'ny Elefanta",
+        "Ireo Printsy Roa",
+        "Ireo Rahalahin'i Josefa",
+        "Ny mpanompon'Andriamanitra ao Dhul-Kifl",
+        "Ireo mpiara-dia amin'ny Lehilahy Marina"
+      ],
+      "answer": "Ny Vahoakan'ny Elefanta"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny fanafihana notarihin'ny elefanta tao amin'ny Kaaba",
+        "Ny ranomasina misasaka eo anoloan'ny vondrona iray nalefa",
+        "Ny fakana an-keriny ny Fiara nataon'ny vahoaka lozabe",
+        "Ny dia amin'ny alina eo anelanelan'ny moskea roa",
+        "Ny fanasitranana boka tamin'ny herin'Andriamanitra"
+      ],
+      "answer": "Ny fanafihana notarihin'ny elefanta tao amin'ny Kaaba"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Vorona mitondra vato tanimanga",
+        "Fiara vita amin'ny hazo gopher",
+        "Tehina niova ho menarana",
+        "Vato voaisy tombo-kase misy famantarana",
+        "Kirihitra mirehitra"
+      ],
+      "answer": "Vorona mitondra vato tanimanga"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nirodana toy ny lavenona ny heriny mahery",
+        "Niampita soa aman-tsara ny ranomasina izy ireo",
+        "Nandeha tsy naninona namaky lafaoro mirehitra izy ireo",
+        "Niditra tsiroaroa tao amin'ny Paradisa izy ireo",
+        "Natory tao anaty lava-bato nandritra ny 309 taona izy ireo"
+      ],
+      "answer": "Nirodana toy ny lavenona ny heriny mahery"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

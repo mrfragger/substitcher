@@ -1,0 +1,61 @@
+{
+  "title": "Ynanýan gizlin diňleýjiler",
+  "intro": "Mukaddes ýygnagyň asudalygynda, görünmeýän älemden ajaýyp bir ýygnak geldi. Ajaýyp bir zadyň pyşyrdylary bilen olar öz ykbalyny ebedilik möhürlejek okalyşlary diňlediler. Olaryň şaýatlyklary ylahy ýazgylardaky iň özboluşly şaýatlaryň biri bolmagynda galýar.",
+  "clues": [
+    "Biz köp adamyň görmeýän äleminden gelen jandarlar we topar hökmünde geldik.",
+    "Biz ajaýyp bir zat eşitmek üçin ýygnanyşyga tarap ýola düşdük.",
+    "Biz gelenimizde, bizi haýran galdyran bir okalyş diňledik.",
+    "Biz käbirimiziň dogruçyl, käbirimiziň bolsa dogruçyl däldigini açyk boýun aldyk.",
+    "Biz ýerdäki ylahy käbirden gaçyp bilmejekdigimizi, asmana gaçyp bilmejekdigimizi bilýärdik.",
+    "Biz hidaýaty eşidenimizde, oňa iman getirdik; Rebbine iman eden her kim zyýandan ýa-da ýükden gorkmaz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Jinleriň bir topary",
+        "Iram halky",
+        "Tubba halky",
+        "Rim imperiýasy",
+        "Kuraýş taýpasy"
+      ],
+      "answer": "Jinleriň bir topary"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Mukaddes okalyşy diňlemek",
+        "Şäherimizde beýik sütünler gurmak",
+        "Ajaýyp düýäni awlamak",
+        "Pygamberlerimizi öldürendigi üçin ýok edilýär",
+        "Baýlygy ölçegden daşary köpeltmek"
+      ],
+      "answer": "Mukaddes okalyşy diňlemek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Mukaddes okalyş ýygnagy",
+        "Beýik sütunlardan ybarat şäher (Iram)",
+        "Çölde bir guýy",
+        "Altyndan ýasalan uly köşk",
+        "Daglardaky mukaddes gowak"
+      ],
+      "answer": "Mukaddes okalyş ýygnagy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Biz ynandyk we halkymyza duýduryş berdik",
+        "Asmandan güýçli partlama bilen weýran edildi",
+        "Ýandyryjy, weýran ediji ýel bilen jezalandyryldy",
+        "Ummasyz baýlyk we güýç berildi",
+        "Ynanmazlykda berk galdy"
+      ],
+      "answer": "Biz ynandyk we halkymyza duýduryş berdik"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

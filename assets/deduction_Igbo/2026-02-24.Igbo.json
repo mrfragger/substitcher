@@ -1,0 +1,61 @@
+{
+  "title": "Nzaghachi nke Aghụghọ",
+  "intro": "E jiri anyaụfụ nwalee njikọ nke ndị ikwu. E mere atụmatụ nzuzo, wee malite usoro ihe omume ga-ewe ọtụtụ afọ ma gafere ebe dị anya. Ihe otu a mere butere nkewa na iru újú dị ukwuu, mana akụkọ ahụ akwụsịghị ebe ahụ. Ọ bụ akụkọ aghụghọ, mwute, na mkpughe nke atụmatụ Chineke. Ị nwere ike ịkọwa njirimara nke ndị a bụ ndị nhọrọ ha na-ada ụda ruo ọtụtụ ọgbọ?",
+  "clues": [
+    "Ekworo juru anyị anya n'ihi ịhụnanya e gosiri otu onye n'ime anyị.",
+    "N'ihi anyaụfụ anyị, anyị gbara izu ma tụba nwanne anyị nwoke n'ọchịchịrị nke olulu mmiri.",
+    "Iji zoo ihe anyị mere, anyị nyere nna anyị uwe, nke e ji ọbara ụgha tee.",
+    "Afọ ole na ole ka e mesịrị, oké ụnwụ nri manyere anyị ịga Ijipt ịchọ ihe oriri.",
+    "N'ebe ahụ, anyị bịara n'ihu otu gọvanọ dị ike, onye anyị na-amaghị, bụ nwanne anyị mejọrọ.",
+    "Nnwale ikpeazụ anyị bụ ịkpọta nwanne anyị nwoke nke kacha nta, bụ́ Benjamin, nke mere ka a mata ihe mere anyị ji biri ndụ, nna anyị bụkwa onye amụma Jekọb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka anyị bụ?",
+      "options": [
+        "Ụmụ Adam (Kabil na Habil)",
+        "Ndị Na-eso Ụzọ Onye Amụma Aịza",
+        "Ụmụnne onye amụma Josef",
+        "Ndị Midian",
+        "Ndị Anwansi nke Fero"
+      ],
+      "answer": "Ụmụnne onye amụma Josef"
+    },
+    "trial": {
+      "label": "Gịnị bụ isi ihe ọjọọ anyị mere?",
+      "options": [
+        "Ịrụ nwa ehi ọlaedo maka ofufe",
+        "Na-achọ ịhụ Allah ozugbo",
+        "Ịkwa onye amụma emo maka iwu ụgbọ",
+        "Aghụghọ nna anyị na ịhapụ nwanne anyị nwoke",
+        "Imebi Ụbọchị Izu Ike site n'ịkụ azụ̀"
+      ],
+      "answer": "Aghụghọ nna anyị na ịhapụ nwanne anyị nwoke"
+    },
+    "location": {
+      "label": "Gịnị bụ isi ihe mere e ji ghọgbuo anyị?",
+      "options": [
+        "Otu mbadamba e dere ede",
+        "Uwe elu e ji ọbara ụgha tee",
+        "Nwa ehi ọlaedo",
+        "Nnụnụ mara mma (Hoopoe)",
+        "Mkpanaka nke ghọrọ agwọ"
+      ],
+      "answer": "Uwe elu e ji ọbara ụgha tee"
+    },
+    "outcome": {
+      "label": "Gịnị bụ ihe ikpeazụ si na akụkọ anyị pụta?",
+      "options": [
+        "Iju mmiri bibiri anyị nke ukwuu",
+        "A gbanwere anyị ka anyị bụrụ enwe",
+        "Ala lodara anyị",
+        "A gbaghaara anyị ma anyị na ezinụlọ anyị dịghachi ná mma",
+        "Mmiri riri anyị n'oké osimiri"
+      ],
+      "answer": "A gbaghaara anyị ma anyị na ezinụlọ anyị dịghachi ná mma"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

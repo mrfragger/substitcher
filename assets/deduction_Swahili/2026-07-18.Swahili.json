@@ -1,0 +1,61 @@
+{
+  "title": "Yule Aliyetengwa na Jaribio la Maji",
+  "intro": "Katika kumbukumbu za maandiko ya kale, kuna mtu wa kuvutia ambaye hadithi yake haianzi na muujiza wa ajabu au ufunuo wa radi, bali na jaribio rahisi lakini kubwa la imani. Taifa lilisimama kwenye njia panda, likitafuta mwongozo wa kimungu kwa ajili ya uongozi. Kilichotokea kilikuwa jaribio la busara sana kiasi kwamba lingewafichua waumini wa kweli miongoni mwao. Je, unaweza kufichua siri hii kutokana na vidokezo vilivyoachwa nyuma?",
+  "clues": [
+    "Nilitoka katika ukoo ambao watu waliupenda, na Mwenyezi Mungu alinichagua kwa kusudi takatifu ambalo hawakuweza kulielewa.",
+    "Mwili wangu ulikuwa na alama ya sifa ambayo wengine hawakuwa nayo, ikinifanya nijitokeze miongoni mwa watu wangu.",
+    "Mto ulipotangazwa kuwa mtihani, wengi walirudi nyuma—lakini mimi nilisonga mbele, nikisukumwa na imani isiyoyumba katika ahadi ya Mwenyezi Mungu.",
+    "Niliamriwa nisinywe maji yaliyokatazwa, lakini tone moja lilitoka midomoni mwangu—dhambi iliyonisumbua moyoni milele.",
+    "Mwenyezi Mungu alinipangia kukutana na mchungaji kijana ambaye siku moja angekuwa maarufu kwa kumuua adui mwenye nguvu.",
+    "Majeshi yalipopambana, sikuanguka kwa mkono wa adui, bali kwa amri ya Mungu kama adhabu kwa kutotii kwangu pale mtoni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Talut (Sauli) – Mfalme wa Kwanza wa Bani Israeli",
+        "Nabii Dawud (Daudi) – Mfalme Mchungaji",
+        "Goliathi (Jalut) – Jitu la Bani Israeli",
+        "Nabii Sulayman (Sulemani) - Bwana wa Upepo na Majini",
+        "Jenerali wa Mfalme Sauli Aliyebeba Sanduku"
+      ],
+      "answer": "Talut (Sauli) – Mfalme wa Kwanza wa Bani Israeli"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukataa kunywa kutoka Mto Nile wakati wa Kutoka",
+        "Kujaribu jeshi kwa kuwaamuru wasinywe kutoka kwenye mto mtakatifu",
+        "Kujengwa kwa Hekalu la Yerusalemu katika miaka arobaini",
+        "Kupigana na Waamaleki na Nabii Musa",
+        "Kujenga jumba la kifalme kwa ajili ya Bilqis - Malkia wa Sheba"
+      ],
+      "answer": "Kujaribu jeshi kwa kuwaamuru wasinywe kutoka kwenye mto mtakatifu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mto Yordani karibu na Yerusalemu",
+        "Mto kwenye mpaka wa Nchi ya Ahadi",
+        "Mto Frati huko Babeli",
+        "Mto Nile huko Misri",
+        "Maji yanayozunguka jiji la Yeriko"
+      ],
+      "answer": "Mto kwenye mpaka wa Nchi ya Ahadi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Nikawa mfalme mkuu zaidi na nikajenga hekalu la Yerusalemu",
+        "Nilianguka vitani kama adhabu kwa kitendo changu kimoja cha kutotii",
+        "Niliokolewa kwa imani yangu na nikawa nabii",
+        "Jeshi langu lilishinda ulimwengu wote unaojulikana",
+        "Niliishi hadi nikaona mwanangu Sulemani arithi ufalme wangu"
+      ],
+      "answer": "Nilianguka vitani kama adhabu kwa kitendo changu kimoja cha kutotii"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

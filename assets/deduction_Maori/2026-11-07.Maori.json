@@ -1,0 +1,61 @@
+{
+  "title": "te rapunga whetu mō te tino pono",
+  "intro": "Whakaarohia te tū i raro i te rangi nui o te pō, e mātakitaki ana i ngā rama kanapa e ara ake ana, kātahi ka memeha haere, e rapu ana i te mea e tika ana kia whakatapua. I tō taha, ka whiwhi whakamoemiti me ngā whakahere ngā whakapakoko whakairo wahangu, engari e pātai ana te whakaaro mārama ki tō rātou mana. Kei te tata te reo maia ki te wero i ngā tikanga tuku iho, me te tohu ki te Kaihanga o te rangi me te whenua.",
+  "clues": [
+    "I titiro ahau ki ngā whetū, ki te marama, ki te rā, ā, ka whakaaro ahau kāore e taea e rātou te noho hei Ariki mōku, nā te mea ka toremi rātou, ka ngaro atu.",
+    "I whakakahoretia nuitia e au te mea i karakiatia e tōku iwi i tua atu i a Allah, ā, i karanga atu ahau kia karakia rātou ki te Kaihanga anake.",
+    "I tautohetohe ahau mō tētahi rangatira whakapehapeha i kī mai nā ia te ora me te mate, ā, i whakautu ahau mā te whakahua i a Allah e kawe mai ana i te rā i te rawhiti.",
+    "I patua e ahau ngā whakapakoko, i wahia hoki, ā, ko te mea nui rawa i mahue iho i roto i a rātou, kia hoki ai te iwi ki reira.",
+    "I hopukina ahau, i whakahengia hoki e tōku iwi, i mea mai rātou kia hanga he whare, ka maka ai ahau ki roto i te ahi e mura ana.",
+    "I ora ahau i te whakahau a Allah i te ahi hei whakamatao, hei haumaru mōku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Āperahama (Aperahama)",
+        "Poropiti a Yahya (Hoani)",
+        "Poropiti Al-Yasa (Eriha)",
+        "Te Hāmiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Poropiti a Āperahama (Aperahama)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakahē i te karakia whakapakoko, ā, i tautohetohe mō te tikanga o ngā mea o te rangi",
+        "I horomia e te ika nui i muri i tana wehenga atu me te riri",
+        "I arahina ngā akonga i roto i te moana i wehea e Allah",
+        "I whakaarahia oratia ki te rangi, kahore nei i pangia e te mate",
+        "I moe i roto i te ana me ngā hoa mō ngā tau maha"
+      ],
+      "answer": "I whakahē i te karakia whakapakoko, ā, i tautohetohe mō te tikanga o ngā mea o te rangi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He ahi mura i whakamataohia, i haumaruhia e Allah",
+        "Ko te āka i kawe i te hunga whakapono i roto i te waipuke",
+        "Ko te tokotoko i huri hei nakahi",
+        "I horahia te tēpu mai i te rangi",
+        "I tukuna mai te kamera uha hei tohu"
+      ],
+      "answer": "He ahi mura i whakamataohia, i haumaruhia e Allah"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tiakina mai i te ahi, ā, i whakawhiwhia ki ngā uri tika",
+        "I toremi tahi me ngā kaiwhakakahore i roto i te waipuke nui",
+        "I whakaputa ketia mō te takahi i te Hāpati",
+        "I whakangaromia e ngā manu e amo ana i ngā kōhatu paru",
+        "Horomia ana e te whenua me ngā taonga"
+      ],
+      "answer": "I tiakina mai i te ahi, ā, i whakawhiwhia ki ngā uri tika"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

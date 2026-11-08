@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Feo Nanao Tohetra ny Fitondran'ny Sampy Iray",
+  "intro": "Anisan'ireo iraky ny Tsitoha ny mpanompo mahatoky iray izay nitsangana teo anivon'ny firenena mafy loha mba hampita ny fahamarinana. Nanaiky andriamanitra noforonina ny vahoakany, niala tamin'ny Mpamorona ny zava-drehetra. Tamim-pahavononana tsy azo hozongozonina, dia niantso azy ireo hiverina ity olona ity - saingy nolavina sy nolavina ny hafatra. Mandehana mamaky ireo fanoroana mba hahitana hoe iza io mpanompo mahatoky io.",
+  "clues": [
+    "Nirahina ho iraka ho an'ny vahoaka mafy loha izay efa niala lavitra ny lalana mahitsy aho.",
+    "Tonga aho hampahatsiahy ny fireneko Ilay namorona ny zava-drehetra — Ilay tsara indrindra amin'ny mpamorona rehetra.",
+    "Ny oloko dia nitodika tany amin'ny sampy sandoka izay nohajainy sy nantsoiny andro aman'alina.",
+    "Sahy nanohitra azy ireo aho, nanontany hoe nahoana izy ireo no mivavaka amin'andriamanitra noforonina ary mandao ny Tompony marina.",
+    "Nandà Ahy izy ireo, tsy nety nihaino, ary nifikitra tamin'ny laingany — nefa niaro ahy ny Tompoko.",
+    "Izaho no Ilyas — ary nomena ahy ny fiadanana, ary isaina ho isan'ireo mpanompon'Ilay Be Famindrampo izay mino aho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ilyas",
+        "Mpaminany Idris",
+        "Mpaminany Alyasa",
+        "Mpaminany Dhul-Kifl",
+        "Mpaminany Noa"
+      ],
+      "answer": "Mpaminany Ilyas"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Miantso ny olona hiala amin'ny fanompoam-pivavahana amin'i Bala",
+        "Niatrika mpitondra jadona izay nilaza ho andriamanitra",
+        "Fampitandremana ny olona momba ny tondra-drano mananontanona",
+        "Atsipy ao anaty afo mirehitra lehibe",
+        "Mitarika ny fifindra-monina avy any amin'ny tanin'ny fanandevozana"
+      ],
+      "answer": "Miantso ny olona hiala amin'ny fanompoam-pivavahana amin'i Bala"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny sampy antsoina hoe Ba'al",
+        "Sambofiara lehibe vita tamin'ny hazo mafy orina",
+        "Tehina iray izay nanasaraka ranomasina midadasika",
+        "Akanjo masina voaloton'ny ra",
+        "Kirihitra mirehitra eo an-tendrombohitra masina"
+      ],
+      "answer": "Ny sampy antsoina hoe Ba'al"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nomena fiadanana ary isaina ho isan'ireo mpanompon'i Allah voafidiny",
+        "Notarihina ho any amin'ny paradisa raha rava ny hafa rehetra",
+        "Voavonjy tamin'ny afo lehibe izay nanjary nangatsiaka sy azo antoka",
+        "Nomena fahefana amin'ny jiny, ny olombelona ary ny rivotra",
+        "Voatahiry ho famantarana maharitra mandritra ny taona maro ny vatana"
+      ],
+      "answer": "Nomena fiadanana ary isaina ho isan'ireo mpanompon'i Allah voafidiny"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

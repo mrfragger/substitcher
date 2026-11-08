@@ -1,0 +1,61 @@
+{
+  "title": "De omkomne vidner",
+  "intro": "I en svunden tid boede et samfund i et korsvej mellem imperier. Deres profet kaldte dem til sandhedens vej, men de klamrede sig til vantro og undertrykkelse. Denne historie ender med guddommelig gengældelse. Kan du identificere denne nation og deres skæbne ud fra sporene nedenfor?",
+  "clues": [
+    "Et folk afviste advarslen fra en af ​​deres egne sendebud.",
+    "Sendebudet opfordrede os til at tilbede Allah alene og advarede mod korruption.",
+    "Vores overtrædelse var at forkaste profeten, som blev sendt iblandt os med retfærdighed.",
+    "Vi tvivlede på budbringerens autoritet og beskyldte ham for bedrag.",
+    "Straffen ramte os, mens vi boede trygt i vores hjem.",
+    "Vi blev ødelagt for at fornægte vores profet og forfølge de troende."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Modtagelse af en profet, der kaldede til retfærdighed",
+        "At blive prøvet med hungersnød",
+        "At få tydet en drøm",
+        "Modtagelse af Toraen",
+        "Rejser gennem havet"
+      ],
+      "answer": "Modtagelse af en profet, der kaldede til retfærdighed"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Midjan",
+        "Babylon",
+        "Sodoma",
+        "Det Røde Hav",
+        "Arken"
+      ],
+      "answer": "Midjan"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Folket blev ødelagt af vantro",
+        "Folket omvendte sig og blev vejledt",
+        "Folket gik ind i Paradis",
+        "Folket overlevede og havde fremgang",
+        "Folket emigrerede til et nyt land"
+      ],
+      "answer": "Folket blev ødelagt af vantro"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

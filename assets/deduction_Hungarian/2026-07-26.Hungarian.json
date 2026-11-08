@@ -1,0 +1,61 @@
+{
+  "title": "A korona, amely kihívást jelentett az égboltnak",
+  "intro": "Az ősi királyságok folyosóin egy uralkodó neve a zsarnokság és az arrogancia szinonimájává vált. Amikor Allah egy alázatos szolgája megérkezett tagadhatatlan jelekkel, ez a hatalmas uralkodó nem volt hajlandó megadni magát az igazságnak. Ma a feladatod, hogy azonosítsd ezt a legendás alakot, akinek uralma összeomlott, és akinek sorsa a hullámok alatt pecsételődött meg.",
+  "clues": [
+    "Én vagyok a legrettegettebb uralkodó, akinek a neve még mindig figyelmeztetésként visszhangzik az idők során.",
+    "Egy egész népet parancsoltam meg, hogy láncokban dolgozzanak, és emlékműveket emeljenek, amelyek dicsőségemet hirdetik.",
+    "Amikor Allah küldötte eljött elém tagadhatatlan jelekkel, nem voltam hajlandó meghajolni, és varázslatnak neveztem.",
+    "Elrendeltem a fogságba esett nép csecsemőfiainak megölését, abban a reményben, hogy összetörhetem a lelküket, mielőtt felkelhetnének.",
+    "Odaálltam a bíróság elé, és kijelentettem: „Én vagyok a legfőbb uratok”, követelve az isteni imádatot.",
+    "A miniszterelnökömmel mellettem egy hatalmas építményt építettem, amelynek célja az egeken túlra emelkedni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Fáraó (Fir'awn)",
+        "Namrud",
+        "Hámán",
+        "Abu Laháb",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Fáraó (Fir'awn)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A fulladás a Vörös-tengerben",
+        "A nőstény teve, amelyet Thamud népének küldtek",
+        "Nuh nagy áradása",
+        "Az Árok Társainak Megbüntetése",
+        "Abraha seregének madarak általi pusztítása"
+      ],
+      "answer": "A fulladás a Vörös-tengerben"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Hámánnal közösen épített hatalmas építmény",
+        "A bárka, amely az özönvízen áthajózott",
+        "A szamiriek által készített aranyborjú",
+        "Bilqis, Sába királynőjének trónja",
+        "Az alvó ifjak barlangja"
+      ],
+      "answer": "A Hámánnal közösen épített hatalmas építmény"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Tengerbe fulladt; a testét figyelmeztetésként megőrizték",
+        "Száműzetésbe küldték és a vadonba vándorolni kényszerültek",
+        "Büntetésből majmokká változtak",
+        "Heves földrengés sújtotta le",
+        "Égből hulló kövek égették meg"
+      ],
+      "answer": "Tengerbe fulladt; a testét figyelmeztetésként megőrizték"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

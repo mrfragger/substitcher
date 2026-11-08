@@ -1,0 +1,61 @@
+{
+  "title": "As Almas da Trincheira",
+  "intro": "Você viaja de volta a uma era em que um governante implacável exigia devoção absoluta a falsas divindades. Uma pequena comunidade de almas devotas recusou-se a obedecer e enfrentou uma punição tão severa que foi amaldiçoada para sempre. Sua história ressoa no Alcorão como um testemunho de fé inabalável. Você consegue identificar esse grupo firme?",
+  "clues": [
+    "Vivíamos em uma terra sob a tirania de um governante que exigia a adoração de falsas divindades.",
+    "Nossa comunidade enfrentou severa perseguição unicamente por nossa crença em Alá.",
+    "O governante ordenou que uma grande trincheira fosse cavada e abastecida com chamas intensas.",
+    "Por nos recusarmos a renunciar à nossa fé, fomos lançados naquele poço de fogo, um a um.",
+    "Nossa história tornou-se parte do Alcorão, e aqueles que nos perseguiram foram amaldiçoados eternamente.",
+    "A surata que registra nossa provação recebe o nome dos grandes sinais celestiais do céu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Companheiros da Trincheira (Ashab al-Ukhdud)",
+        "Pessoas da Caverna (Ashab al-Kahf)",
+        "Pessoas do sábado",
+        "Povo de A'ad",
+        "Povo de Thamud"
+      ],
+      "answer": "Companheiros da Trincheira (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Nosso julgamento",
+      "options": [
+        "Ser queimado vivo em uma vala em chamas",
+        "Ficar selado em uma caverna por muitos anos",
+        "Pescar no dia santo de descanso",
+        "Sendo destruído por um vento uivante",
+        "Matar uma camela sagrada"
+      ],
+      "answer": "Ser queimado vivo em uma vala em chamas"
+    },
+    "location": {
+      "label": "O Elemento Chave",
+      "options": [
+        "Uma trincheira em chamas",
+        "Uma caverna escondida com um cão leal",
+        "Altos pilares de uma antiga cidade condenada",
+        "Habitações de montanha esculpidas em penhascos de pedra",
+        "Uma planície aberta varrida por ventos violentos"
+      ],
+      "answer": "Uma trincheira em chamas"
+    },
+    "outcome": {
+      "label": "Nosso resultado",
+      "options": [
+        "Fomos martirizados e os perseguidores foram amaldiçoados para sempre.",
+        "Acordamos depois de dormir por 309 anos.",
+        "Fomos transformados em macacos por nossa transgressão.",
+        "Um vento uivante e poderoso destruiu a todos nós.",
+        "Um único grito devastador despedaçou nossa existência."
+      ],
+      "answer": "Fomos martirizados e os perseguidores foram amaldiçoados para sempre."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Siku ya Onyesho la Mwisho",
+  "intro": "Wakiwa wameitwa kuonyesha nguvu zao kwa njia kubwa, kundi la waigizaji stadi walijikuta wakikabiliwa na ukweli usiotarajiwa ambao ungebadilisha maisha yao milele.",
+  "clues": [
+    "Tulikuwa maarufu kwa ufundi wetu, mafundi wa udanganyifu na hila.",
+    "Tuliitwa na mtawala ili kukabiliana na mpinzani aliyekuwa na fimbo rahisi.",
+    "Tulipoona ukweli, tulianguka chini kwa kusujudu, tukitangaza imani yetu kwa Mola wa walimwengu.",
+    "Mtawala huyo alitutishia kwa adhabu kali, lakini hatukusitasita.",
+    "Tulikuwa miongoni mwa watu wa kwanza kuamini ujumbe huo baada ya kushuhudia ishara iliyo wazi.",
+    "Tuliuawa kwa ajili ya imani yetu, lakini tutakuwa wa kwanza kuingia Peponi pamoja na wenye haki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Wachawi wa Farao",
+        "Waisraeli",
+        "Watu wa Thamud",
+        "Wanafunzi wa Isa",
+        "Jeshi la Abraha"
+      ],
+      "answer": "Wachawi wa Farao"
+    },
+    "trial": {
+      "label": "Kesi / Tukio",
+      "options": [
+        "Shindano na Nabii Musa",
+        "Kujenga Mnara",
+        "Gharika Kuu",
+        "Pigo la Nzige",
+        "Bahari Inayogawanyika"
+      ],
+      "answer": "Shindano na Nabii Musa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Siku ya Tamasha",
+        "Bonde la Tuwa",
+        "Mji wa Iram",
+        "Bustani ya Milele",
+        "Uwanda wa Arafat"
+      ],
+      "answer": "Siku ya Tamasha"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Walisulubiwa hadharani",
+        "Walizama baharini",
+        "Walifanywa wafuasi wa nabii",
+        "Walipelekwa uhamishoni",
+        "Waliteketezwa na moto"
+      ],
+      "answer": "Walisulubiwa hadharani"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Duerf um Ufer vum Prozess",
+  "intro": "Dir fannt Iech an engem Küstenduerf, wou de Klang vun de Wellen sech mam Geflüster vun engem vergiessene Vollek vermëscht. Si kruten en Uerder fir Rou, awer hir Gier huet zu enger Strof gefouert, iwwer déi nach ëmmer a gedämpfter Stëmm geschwat gëtt. Kënnt Dir erausfannen, wien si waren?",
+  "clues": [
+    "Mir hunn um Ufer gewunnt a kruten den Uerder, e Roudag ze halen.",
+    "Un deem Dag koumen eis Fësch a villes, awer et war eis verbueden, se ze fänken.",
+    "E puer vun eis hunn virun Iwwertrëtt gewarnt, anerer hunn awer verschwuer, trotzdem ze fëschen.",
+    "Mir hunn dat hellegt Gebot verletzt a mir hunn eis eng schwéier Strof bruecht.",
+    "Eis Strof war eng Transformatioun, déi eis entfiguréiert a schändlech gemaach huet.",
+    "Mir goufen an Afen verwandelt, e Zeechen fir all déi, déi duerno kommen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Leit vum Sabbat",
+        "Leit vun Thamud",
+        "Leit vun 'Ad",
+        "Leit vun der Höhl",
+        "D'Leit vum Elefant"
+      ],
+      "answer": "Leit vum Sabbat"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Fëscherei um Sabbat",
+        "E gëllene Kalb ubidden",
+        "D'Botschaft vum Hud ofleenen",
+        "D'Kamel ëmbréngen",
+        "En Tuerm an den Himmel bauen"
+      ],
+      "answer": "Fëscherei um Sabbat"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Fësch",
+        "E Kamel",
+        "E Mataarbechter",
+        "E Boot",
+        "E Gaart"
+      ],
+      "answer": "De Fësch"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "An Affen verwandelt",
+        "Duerch eng Iwwerschwemmung zerstéiert",
+        "Duerch e blëtzende Feier zerstéiert",
+        "Vun der Äerd verschléckt",
+        "Verstreet vun engem Wand"
+      ],
+      "answer": "An Affen verwandelt"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

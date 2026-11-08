@@ -1,0 +1,61 @@
+{
+  "title": "Himlarnas utstötta",
+  "intro": "En mystisk varelse står vid ett vägskäl mellan skapelse och förkastelse. Deras berättelse är en berättelse om oöverträffad arrogans och det ultimata trotset mot ett gudomligt befall. Deras val ekar genom varje generation och blir ett prövoprov för varje själ som föds in i denna värld. Kan du identifiera denna eviga motståndare?",
+  "clues": [
+    "Jag var närvarande vid en händelse av kosmisk betydelse, då en ny varelse formades av lera och fick liv av den Barmhärtiges Andedräkt.",
+    "Jag själv blev till ur ett enda flammande element, till skillnad från det stoftiga varelsen.",
+    "Jag fick en befallning som jag ansåg vara under min ställning.",
+    "Stolthet svällde inom mig, och jag vägrade bestämt att lyda den befallningen.",
+    "En uppskjutning tills en bestämd dag beviljades mig, så att jag kunde fullfölja mitt uttalade syfte att vilseleda andra.",
+    "Jag är den uttalade fienden till alla som vandrar på jorden, viskar bedrägerier och lockar dem bort från den raka vägen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Iblis (Satan)",
+        "Farao (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Vägrade att böja sig inför Adam",
+        "Påstod falskeligen gudomlighet",
+        "Smidde en guldkalv för tillbedjan",
+        "Dödade sin bror av avund",
+        "Ledde den polyteistiska oppositionen i Mecka"
+      ],
+      "answer": "Vägrade att böja sig inför Adam"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Paradiset (Jannah)",
+        "Faraos palats i Egypten",
+        "Tuwas heliga dal",
+        "Havets djup",
+        "Shebas trädgård"
+      ],
+      "answer": "Paradiset (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Beviljas anstånd till domedagen",
+        "Drunknade tillsammans med armén i havet",
+        "Uppslukade av jorden tillsammans med skatter",
+        "Förvandlades till apor för att de bröt mot sabbaten",
+        "Bränd av stenar som kastats från himlen"
+      ],
+      "answer": "Beviljas anstånd till domedagen"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

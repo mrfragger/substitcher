@@ -1,0 +1,61 @@
+{
+  "title": "O Sono Além do Tempo",
+  "intro": "Imagine uma época em que a verdade era silenciada e os crentes eram perseguidos. Um pequeno grupo escolheu o retiro em vez da rendição, encontrando refúgio no lugar mais improvável — um lugar que se tornaria seu repouso por séculos incontáveis. Quando finalmente despertaram, o mundo ao seu redor havia se transformado. Quem são essas almas adormecidas?",
+  "clues": [
+    "Éramos jovens vivendo em uma cidade antiga.",
+    "Nossa comunidade exigiu que adorássemos junto com eles, mas nós nos recusamos.",
+    "Fugimos da cidade em busca de refúgio daqueles que se opunham às nossas crenças.",
+    "Um fiel companheiro de quatro patas permaneceu na entrada do nosso esconderijo.",
+    "Alá nos fez dormir por trezentos e nove anos.",
+    "Quando finalmente despertamos, nossa cidade, antes tão perseguidora, havia abraçado a fé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem somos nós?",
+      "options": [
+        "Ashab al-Kahf (O Povo da Caverna)",
+        "Ashab al-Fil (O Exército do Elefante)",
+        "Ashab al-Ukhdud (Os Companheiros da Trincheira)",
+        "Os Hawariyyun (Discípulos de Isa)",
+        "Yajuj wa Majuj (Gogue e Magogue)"
+      ],
+      "answer": "Ashab al-Kahf (O Povo da Caverna)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Recuamos para uma caverna e dormimos por séculos.",
+        "Fomos salvos de um incêndio devastador.",
+        "Fomos engolidos por um peixe enorme.",
+        "Fomos testados com uma camela milagrosa.",
+        "Recebemos nove sinais claros."
+      ],
+      "answer": "Recuamos para uma caverna e dormimos por séculos."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma caverna profunda nas montanhas",
+        "Um barco em mar aberto",
+        "Uma estrutura imponente que alcança os céus",
+        "Um jardim dividido entre dois rivais",
+        "Uma barreira de ferro e cobre"
+      ],
+      "answer": "Uma caverna profunda nas montanhas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Acordamos e descobrimos que nossa cidade havia se voltado para a fé.",
+        "Um fogo intenso tornou-se frio e tranquilo.",
+        "Um exército inimigo foi afogado no mar.",
+        "Pássaros carregando pedras destruíram o inimigo.",
+        "Um peixe enorme nos soltou na margem."
+      ],
+      "answer": "Acordamos e descobrimos que nossa cidade havia se voltado para a fé."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

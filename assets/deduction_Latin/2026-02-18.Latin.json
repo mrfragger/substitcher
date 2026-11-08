@@ -1,0 +1,61 @@
+{
+  "title": "Testis Stabilis",
+  "intro": "Profunda narratio se explicat, patefaciens inconcussam constantiam communitatis contra immensam tyrannidem. Historia eorum testimonium fidei praebet, etiam cum summo sacrificio obviam iri. Haec narratio nos de vi fidei contra oppressionem immensam admonet.",
+  "clues": [
+    "Coetus eramus cuius historia in brevi et potenti sura narratur, quae contra persecutionem monit.",
+    "Obviam habuimus rectori qui fidem nostram in unum Deum, Dominum Throni, Laude dignum, delere cupiebat.",
+    "Terribili probationi subiecti sumus, ingenti fovea in terram effossa.",
+    "Observavimus fideles, infantes etiam, in infernum furens intra illam foveam coniici.",
+    "Tormentarii nostri propter actiones suas maledicti sunt, dum nobis pro constantia nostra ingens praemium promittebatur.",
+    "Conatus principis fidem nostram exstinguendi tantum locum nostrum martyrum in conspectu Allah, qui omnium rerum testis est, confirmavit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Thamudensis",
+        "Populus 'Ad",
+        "Populus Fossae",
+        "Populus Lut",
+        "Populus Elephantis"
+      ],
+      "answer": "Populus Fossae"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum Diluvium",
+        "Rubus Ardens",
+        "Submersio in Mari",
+        "Fossa Ignea",
+        "Terraemotus"
+      ],
+      "answer": "Fossa Ignea"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Fossa",
+        "Mons",
+        "Puteus"
+      ],
+      "answer": "Fossa"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Regnum concessum est",
+        "Miraculo servati sumus",
+        "Martyrium et Paradisum consecutus",
+        "Per terras dispersi erant",
+        "Ingentes divitiae acceperunt"
+      ],
+      "answer": "Martyrium et Paradisum consecutus"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

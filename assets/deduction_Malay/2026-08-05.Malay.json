@@ -1,0 +1,61 @@
+{
+  "title": "Hari Pertunjukan Akhir",
+  "intro": "Dipanggil untuk pertunjukan kuasa yang hebat, sekumpulan penghibur yang mahir mendapati diri mereka menghadapi kebenaran yang tidak dijangka yang akan mengubah hidup mereka selama-lamanya.",
+  "clues": [
+    "Kami terkenal dengan kemahiran kami, pakar dalam ilusi dan tipu daya.",
+    "Kami telah dipanggil oleh pemerintah untuk berhadapan dengan seorang pencabar yang menggunakan tongkat yang ringkas.",
+    "Ketika kami melihat kebenaran, kami pun sujud, mengisytiharkan keimanan kepada Tuhan semesta alam.",
+    "Zalim itu mengancam kami dengan hukuman yang berat, tetapi kami tidak goyah.",
+    "Kami antara orang pertama yang percaya kepada risalah itu setelah menyaksikan tanda yang jelas itu.",
+    "Kita syahid kerana iman kita, tetapi kita akan menjadi orang pertama yang masuk Syurga bersama orang-orang yang soleh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Ahli Sihir Firaun",
+        "Orang Israel",
+        "Kaum Tsamud",
+        "Murid-murid Isa",
+        "Tentera Abrahah"
+      ],
+      "answer": "Ahli Sihir Firaun"
+    },
+    "trial": {
+      "label": "Percubaan / Acara",
+      "options": [
+        "Bertanding dengan Nabi Musa",
+        "Membina Menara",
+        "Banjir Besar",
+        "Wabak Belalang",
+        "Laut yang Terbelah"
+      ],
+      "answer": "Bertanding dengan Nabi Musa"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Hari Perayaan",
+        "Lembah Tuwa",
+        "Bandar Iram",
+        "Taman Keabadian",
+        "Dataran Arafat"
+      ],
+      "answer": "Hari Perayaan"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Mereka disalibkan di khalayak ramai",
+        "Mereka lemas di laut",
+        "Mereka dijadikan pengikut nabi",
+        "Mereka dihantar ke buangan",
+        "Mereka dimakan api"
+      ],
+      "answer": "Mereka disalibkan di khalayak ramai"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

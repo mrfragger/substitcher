@@ -1,0 +1,61 @@
+{
+  "title": "Bradwyr y Dewisedig",
+  "intro": "Drwy gydol hanes, roedd negeswyr dwyfol yn cerdded ymhlith dynoliaeth, a methodd rhai o'r rhai agosaf atynt â chydnabod y golau. Mae'r hanes hwn yn troi o amgylch dau enaid y daeth eu hagosrwydd at broffwydoliaeth yn brawf iddynt, a'u hetifeddiaeth yn wers dragwyddol.",
+  "clues": [
+    "Roedden ni'n byw mewn cyfnod o broffwydi mawr, ond eto i gyd, arhosodd ein llygaid ar gau i'r gwirionedd a ddygasant.",
+    "Roedd ein cartrefi wedi'u llenwi â datguddiad dwyfol, ond roedd ein calonnau wedi caledu.",
+    "Roedden ni'n briod â dynion a ddewiswyd i rybuddio eu pobl.",
+    "Pan ddaeth y gosb, ni cheisiom loches yn yr arch nac ni ffoi rhag y glaw poeth, oherwydd gwnaethom watwar y rhybuddion.",
+    "Rydym yn cael ein crybwyll yn y Quran fel esiampl i'r rhai sy'n anghrediniol, gan ddangos nad yw hyd yn oed perthynas agos â phroffwyd yn achub.",
+    "Gwragedd Nuh a Lut ydym ni, a'u bradychodd ac felly a gafodd ein condemnio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Gwragedd Nuh a Lut",
+        "Gwragedd Ibrahim ac Isma'il",
+        "Gwragedd Musa a Harun",
+        "Gwragedd Dawud a Sulayman",
+        "Gwragedd Ayyub a Yunus"
+      ],
+      "answer": "Gwragedd Nuh a Lut"
+    },
+    "trial": {
+      "label": "Beth oedd eu prawf?",
+      "options": [
+        "Roedden nhw'n briod â phroffwydi ond yn anghrediniol",
+        "Roedden nhw'n ddiffrwyth ac yn beio'r proffwydi",
+        "Roedden nhw'n gyfoethog ac yn drahaus",
+        "Cawsant eu temtio gan Iblis i adael eu cartrefi",
+        "Roedden nhw'n addoli'r Llo Aur"
+      ],
+      "answer": "Roedden nhw'n briod â phroffwydi ond yn anghrediniol"
+    },
+    "location": {
+      "label": "Beth oedd eu tynged yn gysylltiedig ag ef?",
+      "options": [
+        "Y llifogydd a glaw o gerrig",
+        "Gwynt ffyrnig",
+        "Daeargryn",
+        "Pla'r locustiaid",
+        "Hollti'r môr"
+      ],
+      "answer": "Y llifogydd a glaw o gerrig"
+    },
+    "outcome": {
+      "label": "Beth oedd eu diwedd?",
+      "options": [
+        "Fe fuont farw gyda'r anghredinwyr",
+        "Fe wnaethon nhw edifarhau a chael eu hachub",
+        "Fe'u gadawyd yn ddi-blant",
+        "Cawsant eu halltudio am byth",
+        "Fe'u trawsnewidiwyd yn fwncïod a moch"
+      ],
+      "answer": "Fe fuont farw gyda'r anghredinwyr"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

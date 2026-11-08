@@ -1,0 +1,61 @@
+{
+  "title": "D'Bewaacher vun der geheimer Ernte",
+  "intro": "An engem grénge Land huet eng Grupp vu Leit ënner dem Deckmantel vun der Däischtert e geheime Plang gemaach. Si haten e gemeinsamt Zil, awer hir Absicht war wäit ewech vu gerechtfäerdegt. Si woussten net, datt eng göttlech Wendung op si gewaart huet, wéi se geschlof hunn.",
+  "clues": [
+    "Mir hunn eis fest entscheet, well mir geduecht hunn, eise Plang wier fehlerlos.",
+    "Mir haten vir, fréi erauszegoen, ier aner Leit iwwerhaapt kéinte sech beweegen.",
+    "Mir hunn eis op e fruchtbare Grondstéck gesat, zouversiichtlech op eis Versuergung.",
+    "Wéi mir eis Destinatioun erreecht hunn, hu mir et kaal an isoléiert fonnt, dofir hu mir geduecht, mir wieren eis verluer.",
+    "Dunn hu mir gemierkt, datt et tatsächlech eis Plaz war, a mir hunn verzweifelt gekrasch, andeems mir eis géigesäiteg fir eise Verloscht beschëllegt hunn.",
+    "Mir haten deen Moien geschwuer, déi Aarm vun eiser Ernte auszeschléissen, awer d'Strofe vun Allah ass iwwer eis komm, während mir geschlof hunn, an huet eise Gaart an e Ruin verwandelt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "D'Besëtzer vum Gaart a Surah 68",
+        "D'Leit vu Saba",
+        "D'Begleeder vun der Höhl",
+        "D'Leit vum Elefant",
+        "D'Leit vum Trench"
+      ],
+      "answer": "D'Besëtzer vum Gaart a Surah 68"
+    },
+    "trial": {
+      "label": "Eise Prozess",
+      "options": [
+        "Eise Gaart gouf vun enger Katastroph vum Himmel zerstéiert",
+        "Eise Gaart gouf vun enger Iwwerschwemmung iwwerschwemmt",
+        "Eise Gaart gouf vun engem Feier vun engem Feind verbrannt",
+        "Eise Gaart war voller Heeschrecken",
+        "Eise Gaart gouf vun engem Äerdbiewen verschléckt"
+      ],
+      "answer": "Eise Gaart gouf vun enger Katastroph vum Himmel zerstéiert"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Mir hunn geschwuer, seng Friichte moies ze plécken",
+        "Mir hunn en Damm gebaut fir eise Gaart ze bewässeren",
+        "Mir hunn an enger Höhl Schutz gesicht",
+        "Mir hunn eng Arméi virbereet fir e Kinnekräich ze erueweren",
+        "Mir hunn e Schëff gesegelt fir d'Mier ze iwwerqueren"
+      ],
+      "answer": "Mir hunn geschwuer, seng Friichte moies ze plécken"
+    },
+    "outcome": {
+      "label": "Eist Schicksal",
+      "options": [
+        "Mir hunn Reue gehat a gehofft op Barmhäerzegkeet vun Allah",
+        "Mir ware komplett zerstéiert a mir hunn ni Reue gehat",
+        "Mir sinn aus dem Land geflücht a sinn ni méi zréckkomm",
+        "Mir sinn erëm mächteg a räich ginn",
+        "Mir goufe bestrooft andeems mir an Afen verwandelt goufen"
+      ],
+      "answer": "Mir hunn Reue gehat a gehofft op Barmhäerzegkeet vun Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

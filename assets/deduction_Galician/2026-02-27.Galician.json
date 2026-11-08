@@ -1,0 +1,61 @@
+{
+  "title": "A Voz do Invisible",
+  "intro": "Nos anais da comunicación divina, destaca unha figura cuxa historia está entretecida con signos milagrosos e unha fe firme. Este individuo recibiu unha revelación única que desafiou as normas do seu tempo, falando desde máis alá do veo da percepción ordinaria. A súa mensaxe non chegou por medios convencionais, senón a través dunha profunda conexión que desafiou o entendemento humano, chamando á xente a recoñecer a verdade de xeitos inesperados. A viaxe deste servo de Alá serve como testemuño de como a guía pode manifestarse nas circunstancias máis extraordinarias, invitando á reflexión sobre a natureza da propia revelación.",
+  "clues": [
+    "Recibín unha mensaxe que chegou a través dunha voz misteriosa dunha fonte invisible.",
+    "A miña xente rexeitou inicialmente a miña mensaxe, esixindo probas máis convencionais da miña veracidade.",
+    "Desafieinos a producir algo semellante ao que eu recibira, pero non puideron.",
+    "A revelación que trouxen foi descrita como versos claros que facían evidente a verdade.",
+    "Advertinlle ao meu pobo dun castigo severo se continuaban na súa incredulidade e arrogancia.",
+    "A miña historia menciónase xunto con outros mensaxeiros nunha sura que enfatiza os signos do poder de Alá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shu'ayb",
+        "O crente da familia de Fir'awn",
+        "Profeta Moisés"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Ser lanzado a un forno ardente",
+        "Enfrontándose á opresión dun gobernante tiránico",
+        "Producir unha cameloa como sinal milagroso",
+        "Sobrevivir a unha gran inundación",
+        "Ser lanzado ao mar nun cofre"
+      ],
+      "answer": "Producir unha cameloa como sinal milagroso"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O val de Tuwa",
+        "A cidade de Madyan",
+        "A terra de Thamud",
+        "A corte de Fir'awn",
+        "A cova de Hira"
+      ],
+      "answer": "A terra de Thamud"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "answer": "O meu pobo foi destruído por matar a camelo milagrosa",
+      "options": [
+        "O meu pobo arrepentiuse e foi salvo",
+        "Fun levado vivo ao ceo",
+        "O meu pobo foi destruído por matar a camelo milagrosa",
+        "Convertinme nun gran gobernante",
+        "Rescatáronme ao ser metido nunha arca"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

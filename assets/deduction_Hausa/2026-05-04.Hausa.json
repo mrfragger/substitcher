@@ -1,0 +1,61 @@
+{
+  "title": "Mai Gina Girman Kai",
+  "intro": "A cikin tsohuwar ƙasar da ke ƙarƙashin mulkin wani mai taurin kai, wani mutum mai muhimmanci ya riƙe muƙamin tasiri. Wannan ruhi ya taka muhimmiyar rawa a cikin manyan makircin mai mulki, yana ba da gudummawa ga mulkin zaluncinsu da kuma ƙalubalantar saƙon Allah. Gadonsu yana da alaƙa da neman iko na duniya da kuma musanta gaskiya.",
+  "clues": [
+    "Na yi wa wani babban sarki hidima wanda ya zalunci al'umma tsawon tsararraki da yawa.",
+    "Ana yawan ambaton sunana a cikin Littafin Allah tare da wannan shugaba mai iko.",
+    "An ba ni aikin gina wani babban gini, wani babban gini da aka yi niyya don isa sama.",
+    "Na shawarci shugabana ya kashe 'ya'yan Bani Isra'ila maza ya kuma bar musu 'ya'ya mata.",
+    "Na shiga cikin makirci da makirci a kan wani babban manzon Allah.",
+    "Ƙarshena, tare da maigidana da rundunarsa, ya zo cikin ruwan teku mai girma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Nimrod",
+        "Abraha",
+        "Goliyat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ana jarabtar ku da dukiya mai yawa",
+        "Jagoranci runduna a kan wani gida mai tsarki",
+        "Gina hasumiya don isa ga Allah",
+        "A jefa su cikin wuta saboda imaninsu",
+        "'Yan'uwa suna jefa shi cikin rijiya"
+      ],
+      "answer": "Gina hasumiya don isa ga Allah"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Ma'aikatan",
+        "Dutsen",
+        "Hasumiyar",
+        "Kifin Whale"
+      ],
+      "answer": "Hasumiyar"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ana ba shi hikima mai girma",
+        "Zama annabi",
+        "Ƙasa ta haɗiye shi",
+        "Ana ba shi mulki",
+        "Nutsewa cikin teku"
+      ],
+      "answer": "Nutsewa cikin teku"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

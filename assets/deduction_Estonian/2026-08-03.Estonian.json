@@ -1,0 +1,61 @@
+{
+  "title": "Kevad liiva all",
+  "intro": "Koraani annaalides seisis tohutu kannatlikkusega tegelane silmitsi katsumusega, mis murdis isegi kõige vapramad südamed. Kõik võeti ära – rikkus, perekond ja tervis. Ometi vastati meeleheite sügavustest alandlikule palvele kõige ootamatumal viisil. Kas suudad ära tunda selle hinge, kelle taastumise lugu kajab läbi aegade?",
+  "clues": [
+    "Mind pandi proovile nii ränga katsumusega, et seda mäletatakse läbi aegade.",
+    "Ma kaotasin kõik, mis oli oluline – oma rikkuse, lapsed ja tervise.",
+    "Mu keha oli kaetud valulike haavanditega ja kõik hülgasid mind.",
+    "Oma meeleheites hüüdsin Allahi poole, öeldes, et Saatan oli mind vaeva ja piinaga puudutanud.",
+    "Allah vastas mulle ja käskis mul jalaga maad lüüa.",
+    "Sellest samast kohast purskas välja jahe allikas ja Allah taastas mu perekonna ning kahekordistas nende arvu halastuseks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ayyub",
+        "Prohvet Musa",
+        "Prohvet Ilja",
+        "Prohvet Sulayman",
+        "Prohvet Dawud"
+      ],
+      "answer": "Prohvet Ayyub"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Raske haigus ning perekonna ja rikkuse kaotus",
+        "Suure vaala poolt alla neelatud",
+        "Pagulus Mekast",
+        "Vangistus sügavas kaevus",
+        "Vastasseis ülbe valitsejaga"
+      ],
+      "answer": "Raske haigus ning perekonna ja rikkuse kaotus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Jahe kevad maalt",
+        "Paat suure üleujutuse ajal",
+        "Personal, mis lõhestas mere",
+        "Kõrgendatud klaasist troon",
+        "Seinaga ümbritsetud koobas magamiseks"
+      ],
+      "answer": "Jahe kevad maalt"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Perekond ja rikkus taastatud ja kahekordistunud",
+        "Kala kõhust väljumine",
+        "Ohutu läbiminek lahutatud vetes",
+        "Kuningriik, mis on antud valitsemiseks",
+        "Poja imeline sünd vanas eas"
+      ],
+      "answer": "Perekond ja rikkus taastatud ja kahekordistunud"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Esimene kadedusest valatud veri",
+  "intro": "Kujutage ette inimkonna algusaegu, mil kogu maailm oli üks perekond. Te näete, kuidas Allahi ette tuuakse kaks ohvriandi – üks võetakse vastu, teine ​​lükatakse tagasi. Südames juurdub kadedus ja vihaselt sosistab ähvardus. See, mis järgneb, jätab ajalukku igaveseks jälje ja isegi väikesest linnust saab õpetaja.",
+  "clues": [
+    "Ma kuulun maailma esimesse perekonda.",
+    "Ma tõin Allahile ohvri, aga minu oma ei võetud vastu, samas kui teist ohvrit võeti.",
+    "Ma rääkisin kadedusest välja ja ähvardasin elu võtta.",
+    "Ma panin toime esimese ebaõiglase tapmise maa peal.",
+    "Ma nägin varest maad kraapimas, et näidata mulle, kuidas surnukeha peita.",
+    "Mind valdas kahetsus ja ma olin üks kaotajaid selle pärast, mida mu käed olid teinud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Qabil (Kain), Aadama poeg",
+        "Samiri, vasika valmistaja",
+        "Namrud, türann, kes vaidles Ibrahimiga",
+        "Azar, ebajumalate valmistaja",
+        "Kan'an, Nuh'i uppunud poeg"
+      ],
+      "answer": "Qabil (Kain), Aadama poeg"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Õe-venna mõrv kadedusest pärast pakkumise tagasilükkamist",
+        "Kõrge torni ehitamine taeva poole vaatamiseks",
+        "Kuldvasika valmistamine kummardamiseks",
+        "Taevast lauakatte nõudmine",
+        "Elevantide armee juhtimine Kaaba hävitamiseks"
+      ],
+      "answer": "Õe-venna mõrv kadedusest pärast pakkumise tagasilükkamist"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Vares kraabib maad, et näidata matmist",
+        "Kuldvasikas, mis ammus",
+        "Suur laev üleujutusvete kohal",
+        "Personali, mis muutus maoks",
+        "Taeva toiduga kaetud laud"
+      ],
+      "answer": "Vares kraabib maad, et näidata matmist"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Hakkas kahetsema ja kaotajate hulka",
+        "Uppus suures üleujutuses",
+        "Maa neelas alla aardega",
+        "Oli seitse aastat pidalitõves",
+        "Sai kuningriigi, millel oli kontroll tuulte üle"
+      ],
+      "answer": "Hakkas kahetsema ja kaotajate hulka"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

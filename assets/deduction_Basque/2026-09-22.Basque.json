@@ -1,0 +1,61 @@
+{
+  "title": "Zutabe Garaien Eraikitzaileak",
+  "intro": "Antzinako hiri dotore baten hondakinen aurrean zaude, bere zutabe garaiak erorita. Haizeak kale hutsetan zehar ulu egiten du, lurralde hauek garai batean gobernatu zituen herri boteretsu baten oroimena eramanez. Nor ziren?",
+  "clues": [
+    "Indar eta trebetasun izugarrizko herria ginen, gure eraikin handiengatik eta zibilizazio aurreratuagatik ezagunak.",
+    "Hareazko dunen eta muino harritsuen lurralde batean bizi ginen, eta uste genuen inork ezin gintuzkeela menderatu.",
+    "Gure ahaideen artetik mezulari bat etorri zitzaigun, Ala bakarrik gurtzera deituz, baina arbuiatu eta iseka egin genion.",
+    "«Nor da gu baino indartsuagoa?» esan genuen harrokeriaz, eta gure harrokerian eta idoloen gurtzan jarraitu genuen.",
+    "Ala-k zazpi gau eta zortzi egunez jo zuen haize bortitz bat bidali zigun, dena suntsituz.",
+    "'Ad-eko jendea ginen, Iramen eraikitzaileak, eta gure patua abisu bihurtu zen ondoren etorri ziren guztientzat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "'Ad-eko jendea",
+        "Thamudeko jendea",
+        "Madyango jendea.",
+        "Tubba'ko jendea",
+        "Al-Rass-eko jendea"
+      ],
+      "answer": "'Ad-eko jendea"
+    },
+    "trial": {
+      "label": "Zein zigorra ezarri zitzaien?",
+      "options": [
+        "Haize suntsitzaile bat.",
+        "Harri zaparrada bat",
+        "Eztanda ozen bat.",
+        "Uholdeek itota",
+        "Lurrak irentsia."
+      ],
+      "answer": "Haize suntsitzaile bat."
+    },
+    "location": {
+      "label": "Zein da haien hiri mitikoa?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Zein izan zen haien azken patua?",
+      "options": [
+        "Suntsitu egin ziren eta haien hondakinak ikasgai bihurtu ziren",
+        "Damutu eta salbatu ziren",
+        "Tximino bihurtu ziren.",
+        "Itsasoan ito ziren.",
+        "Lur-jausi baten azpian lurperatu zituzten"
+      ],
+      "answer": "Suntsitu egin ziren eta haien hondakinak ikasgai bihurtu ziren"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

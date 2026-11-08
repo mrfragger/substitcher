@@ -1,0 +1,61 @@
+{
+  "title": "A Voz nas Areias Antigas",
+  "intro": "Entre os primeiros mensageiros de Alá, houve um cujo nome brilha brevemente, mas de forma significativa, no Alcorão. Este indivíduo viveu muito antes do envio de muitos grandes profetas e era conhecido por sua inabalável sinceridade e paciência. Sua história é breve, mas seu legado perdura no registro eterno. Quem é essa alma nobre?",
+  "clues": [
+    "Sou um dos primeiros mensageiros, mencionado de forma breve, porém significativa, no Alcorão.",
+    "Minha personalidade era definida por um compromisso inabalável com a verdade.",
+    "Sou lembrado no livro de Alá entre aqueles que foram firmes e pacientes.",
+    "Apenas alguns versículos curtos do Alcorão contam a minha história.",
+    "Alá me honrou de uma maneira que é exclusivamente minha, não compartilhada com outros profetas.",
+    "Fui elevado a uma posição elevada, uma honra singular no Alcorão."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Ilyas",
+        "Dhul-Kifl",
+        "Profeta Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Momento Decisivo",
+      "options": [
+        "Fui elevado a uma posição elevada por Alá.",
+        "Construí uma grande arca para salvar meu povo.",
+        "Eu desafiei os feiticeiros do Faraó.",
+        "Meus irmãos me jogaram em um poço.",
+        "Perdi a visão de tanta tristeza pela morte do meu filho."
+      ],
+      "answer": "Fui elevado a uma posição elevada por Alá."
+    },
+    "location": {
+      "label": "Referência Sagrada",
+      "options": [
+        "Sura Al-Anbiya",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Ash-Shu'ara",
+        "Sura Yasin"
+      ],
+      "answer": "Sura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Honra Divina",
+      "options": [
+        "Uma posição elevada, diferente de qualquer outra.",
+        "Domínio sobre os gênios e os ventos",
+        "Um reino de glória incomparável",
+        "Um herdeiro da minha velhice",
+        "Um pacto selado com Alá"
+      ],
+      "answer": "Uma posição elevada, diferente de qualquer outra."
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

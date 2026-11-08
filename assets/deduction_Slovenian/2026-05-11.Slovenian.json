@@ -1,0 +1,61 @@
+{
+  "title": "Neomajne priče",
+  "intro": "Predstavljajte si čas, ko je bila vera preizkušena z ognjem in je neomajno prepričanje postalo skrajni izziv. Vaša naloga je odkriti identiteto skupine, katere zgodba je opisana v Koranu, pripovedi o globoki veri proti prevladujoči tiraniji. Razkrijte namige, da bi odkrili, kdo so bile te duše in s kakšnimi izjemnimi okoliščinami so se soočale.",
+  "clues": [
+    "Kljub ogromnemu pritisku, da se odpovemo svoji veri, smo ostali trdno v svojem prepričanju.",
+    "Bili smo tarča močnega vladarja, ki je želel ugasniti luč monoteizma.",
+    "Bili smo priča velikim znamenjem in čudežem, vendar so naši zatiralci ostali brezbrižni.",
+    "Pretrpeli smo grozljivo metodo preganjanja, katere namen je bil terorizirati druge do podrejenosti.",
+    "Vrženi smo bili v plameneč pekel, a naša vztrajnost nam je pri Alahu prislužila visok položaj.",
+    "Naša zgodba je opisana v suri, poimenovani po nebesnih ozvezdjih, ki svari pred usodo tistih, ki preganjajo vernike."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Ljudje iz Thamuda",
+        "Ljudje iz 'Ad",
+        "Ljudje iz jarka",
+        "Midjansko ljudstvo",
+        "Ljudje slona"
+      ],
+      "answer": "Ljudje iz jarka"
+    },
+    "trial": {
+      "label": "Naše preganjanje",
+      "options": [
+        "Utopitev v poplavi",
+        "Biti požrt v žgočem vetru",
+        "Biti vržen v ognjeni jarek",
+        "Biti pogoltnjen od zemlje",
+        "Preobrazba v opice"
+      ],
+      "answer": "Biti vržen v ognjeni jarek"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Obsežna poplava",
+        "Velik potres",
+        "Globok, goreč jarek",
+        "Močan idol",
+        "Uničujoča suša"
+      ],
+      "answer": "Globok, goreč jarek"
+    },
+    "outcome": {
+      "label": "Naša končna usoda",
+      "options": [
+        "Dano jim je bilo kraljestvo na zemlji.",
+        "Rešila jih je čudežna rešitev.",
+        "Dosegli so mučeništvo in večno nagrado.",
+        "Preobrazili so se v drugo vrsto.",
+        "Dano jim je bilo ogromno bogastvo in blaginja."
+      ],
+      "answer": "Dosegli so mučeništvo in večno nagrado."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

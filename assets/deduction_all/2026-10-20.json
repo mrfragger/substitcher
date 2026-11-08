@@ -1,0 +1,61 @@
+{
+  "title": "The Architect of False Ambition",
+  "intro": "A figure of great authority once served one of history's most notorious tyrants in ancient Egypt. This individual was entrusted with an audacious command — to construct a structure meant to defy the heavens. Their story stands in the Quran as a striking lesson about how blind obedience to arrogance leads only to ruin.",
+  "clues": [
+    "I served in the courts of a powerful ruler who claimed divinity over the lands.",
+    "I held a high ministerial position, advising the most arrogant tyrant of my time.",
+    "My ruler was consumed with challenging the God of Moses, whom they refused to acknowledge.",
+    "I was commanded to construct a tower of fire-baked bricks so my ruler could ascend to the heavens.",
+    "The tower never reached the sky, and my servitude to arrogance earned me eternal disgrace.",
+    "I perished with the one I followed, and my name became a lasting warning against those who enable tyrants."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Haman",
+        "Azar (father of Ibrahim)",
+        "Illyas (a prophet)",
+        "Dhu al-Kifl",
+        "Harut (one of the two angels in Babylon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Ordered to build a towering structure to reach the heavens",
+        "Asked to interpret a dream sent from the divine",
+        "Thrown into a blazing fire as a test of faith",
+        "Compelled to choose between throne and truth",
+        "Challenged in a contest of sorcery"
+      ],
+      "answer": "Ordered to build a towering structure to reach the heavens"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A tower of fire-baked bricks",
+        "A staff that transformed into a serpent",
+        "A ship sailing through a great flood",
+        "A garden enclosed by high walls",
+        "A throne adorned with rubies and gold"
+      ],
+      "answer": "A tower of fire-baked bricks"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Drowned alongside the oppressor in the sea",
+        "Became a powerful monarch of vast lands",
+        "Escaped a blazing fire unharmed",
+        "Built a prosperous kingdom of wisdom",
+        "Was reunited with family after years of exile"
+      ],
+      "answer": "Drowned alongside the oppressor in the sea"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

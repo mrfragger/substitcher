@@ -1,0 +1,61 @@
+{
+  "title": "An lasair laistigh de phálás na huaillmhéine",
+  "intro": "Taobh thiar de bhallaí móra an pháláis is cumhachtaí ar an domhan ársa, bhí duine ina chónaí a raibh rún ina chroí nach bhféadfadh aon fhorógra ríoga a chur ina thost. Cé gur chrom gach duine timpeall do dhéithe bréige, choinnigh an t-anam seo creideamh ciúin ina thost. Chreid rialóir na tíre sin gur diaga iad féin, ach roghnaigh an duine seo an fhírinne thar chompord, agus dúthracht thar shábháilteacht. Inniu, is é an tasc atá agat a fháil amach cé hé an t-anam cróga seo, a bhfuil a scéal fós ar cheann de na samplaí is cumhachtaí de chreideamh dochloíte.",
+  "clues": [
+    "Bhí cónaí orm in áit a raibh saibhreas ollmhór agus mórgacht gan sárú ann, áit a raibh cumhacht iomlán ag rialóir na tíre thar gach rud.",
+    "Cé gur chrom siadsan timpeall orm do dhéithe bréige, choinnigh mé solas ciúin creidimh i mo chroí.",
+    "D'aimsigh mé agus uchtaigh mé leanbh a tugadh chugam ar bhealach neamhghnách - ní trí bhreith, ach trí uiscí abhann móire.",
+    "Ghuigh mé chuig mo Thiarna, ag iarraidh teach in aice leis i bParthas agus slánú ón tíorántacht a bhí timpeall orm.",
+    "D'fhás an leanbh a thóg mé suas chun dúshlán a thabhairt don rialóir céanna a bhí i gceannas ar mo chinniúint, agus sheas mé go daingean i mo chreideamh fiú nuair a bhí bagairt orm.",
+    "Is mise an té a bhfuil a ainm onórach sa Choran mar mhúnla creidimh, agus bhí cónaí orm i bpálás an Fharó féin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Ásia, bean chéile an Fharó",
+        "Muiream, máthair Íosa",
+        "Bilqis, Banríon Sheba",
+        "Bean chéile an Fháidh Lut",
+        "Bean chéile Imran"
+      ],
+      "answer": "Ásia, bean chéile an Fharó"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag aimsiú agus ag tógáil naíonáin tréigthe a d’éirigh ina fháidh mhór",
+        "Á chaitheamh i dtine mhór ag tíoránach",
+        "Ag féachaint ar thuile mhór a scrios pobal",
+        "Ag féachaint ar chroitheadh ​​pailme dáta agus ag soláthar cothaithe",
+        "Mac a cheapadh in ainneoin aois ard"
+      ],
+      "answer": "Ag aimsiú agus ag tógáil naíonáin tréigthe a d’éirigh ina fháidh mhór"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Pálás ríoga gan sárú",
+        "Long mhór tógtha chun seasamh in aghaidh tuile",
+        "Uaimh dhomhain i bhfolach sna sléibhte",
+        "Tine lasrach tógtha ar bharr sléibhe",
+        "Gairdín atá faoi iamh ag ballaí"
+      ],
+      "answer": "Pálás ríoga gan sárú"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bronnadh teach i bParthas le toil Allah",
+        "Scrios tuile mhór na neamhchreidmhigh i náisiún ársa",
+        "Bronnadh ríocht chumhachta agus údaráis ollmhóra ar an saol seo",
+        "Scaipeadh arm mór ag éin san eitilt",
+        "Báthadh tíoránach a mhaígh go raibh diaga ann sa bhfarraige"
+      ],
+      "answer": "Bronnadh teach i bParthas le toil Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

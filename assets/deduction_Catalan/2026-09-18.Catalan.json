@@ -1,0 +1,61 @@
+{
+  "title": "La crida de la Vall Sagrada",
+  "intro": "Més enllà de les pàgines de la història hi ha la història d'una ànima que es va interposar entre un poderós governant i tot un poble esclavitzat. Aquest individu va ser cridat a alliberar una nació de la tirania, realitzant meravelles que desafiaven totes les lleis naturals. Des d'una muntanya sagrat fins a un miracle sobre les aigües, aquest servent d'Al·là va ser testimoni de signes que ressonarien al llarg dels segles. La vostra tasca avui és identificar aquesta figura extraordinària, el llegat de la qual va donar forma al curs de la història humana.",
+  "clues": [
+    "Vaig néixer durant una època en què el meu poble s'enfrontava a un decret mortal, i la meva família em va llençar a les aigües per salvar la meva vida.",
+    "Em van trobar i em van criar a la mateixa casa del governant que havia ordenat la mort de la meva espècie.",
+    "Vaig fugir a una muntanya sagrat on vaig veure foc en un arbre que no s'havia consumit, i una veu em va parlar des d'allà.",
+    "Em van enviar de tornada a aquell mateix governant amb miracles, exigint la llibertat del meu poble esclavitzat.",
+    "Vaig colpejar el mar amb el meu bastó, i es va obrir en camins secs, engolint els perseguidors que seguien el meu poble.",
+    "Vaig comunicar amb el meu Senyor en una muntanya durant quaranta nits, i em van ser concedides tauletes de guia divina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Musa",
+        "Profeta Harun",
+        "Profeta Ibrahim",
+        "Profeta Iússuf",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Musa"
+    },
+    "trial": {
+      "label": "La meva prova decisiva",
+      "options": [
+        "La separació del mar",
+        "Construint la Gran Arca",
+        "Prova per un foc ardent",
+        "Confinament al ventre d'una balena",
+        "Empresonament per un funcionari egipci"
+      ],
+      "answer": "La separació del mar"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un bastó de pastor",
+        "Una gran arca de fusta",
+        "Una cova on el temps dormia",
+        "Un jardí amb dues fonts",
+        "Un tron ​​​​adornat amb or"
+      ],
+      "answer": "Un bastó de pastor"
+    },
+    "outcome": {
+      "label": "El resultat",
+      "options": [
+        "El meu poble va creuar el mar cap a la seguretat",
+        "Un gran diluvi va destruir els incrèduls",
+        "El foc d'un tirà es va tornar fresc i pacífic",
+        "El mar va llançar el seu captiu a la riba",
+        "El captiu es va convertir en el tresorer d'Egipte"
+      ],
+      "answer": "El meu poble va creuar el mar cap a la seguretat"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

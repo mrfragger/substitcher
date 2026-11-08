@@ -1,0 +1,61 @@
+{
+  "title": "La Kaŝitaj Aŭskultantoj Kiuj Kredis",
+  "intro": "En la silento de sankta kunveno, rimarkinda kunveno alvenis el nevidebla regno. Allogitaj de flustroj pri io mirinda, ili aŭskultis deklamadon, kiu sigelus ilian sorton por ĉiam. Ilia atesto restas unu el la plej unikaj en la dia skribaĵo.",
+  "clues": [
+    "Ni estas estaĵoj el sfero nevidata de la plejmulto, kaj ni venis kiel grupo.",
+    "Ni vojaĝis al kunveno por aŭdi ion rimarkindan.",
+    "Kiam ni alvenis, ni aŭskultis deklamadon, kiu lasis nin mirigitaj.",
+    "Ni malkaŝe agnoskis, ke iuj inter ni estas justaj kaj iuj ne.",
+    "Ni sciis, ke ni ne povas eskapi la dian dekreton sur la tero, nek per flugo en la ĉielon.",
+    "Kiam ni aŭdis la gvidadon, ni kredis je ĝi; kiu ajn kredas je sia Sinjoro, ne timos perdon aŭ ŝarĝon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Grupo de Ĝinoj",
+        "La popolo de Iram",
+        "La popolo de Tubba'",
+        "La Romia Imperio",
+        "La Tribo de Kurajŝoj"
+      ],
+      "answer": "Grupo de Ĝinoj"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Aŭskultante sanktan deklamadon",
+        "Konstruante altajn kolonojn en nia urbo",
+        "Ĉasante grandiozan kamelinon",
+        "Estante detruita pro mortigo de niaj profetoj",
+        "Multiplikante riĉecon preter mezuro"
+      ],
+      "answer": "Aŭskultante sanktan deklamadon"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Kunveno de sankta deklamado",
+        "Urbo de altaj kolonoj (Iram)",
+        "Puto en la dezerto",
+        "Grandioza palaco el oro",
+        "Sankta kaverno en la montoj"
+      ],
+      "answer": "Kunveno de sankta deklamado"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ni kredis kaj avertis nian popolon",
+        "Detruita de potenca eksplodo el la ĉielo",
+        "Punita de brulanta, detrua vento",
+        "Donita grandegan riĉecon kaj potencon",
+        "Restis firma en nekredemo"
+      ],
+      "answer": "Ni kredis kaj avertis nian popolon"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

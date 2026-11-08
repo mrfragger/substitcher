@@ -1,0 +1,61 @@
+{
+  "title": "Il-Perit tal-Arroganza",
+  "intro": "F'art antika mmexxija minn qawwa ribelluża, individwu ewlieni kellu pożizzjoni ta' influwenza. Din ir-ruħ kienet strumentali fl-iskemi kbar tal-ħakkiem, billi kkontribwiet għar-renju oppressiv tagħhom u sfidat il-messaġġ divin. Il-wirt tagħhom huwa marbut mat-tfittxija għall-qawwa tad-dinja u ċ-ċaħda tal-verità.",
+  "clues": [
+    "Jiena servejt ħakkiem formidabbli li oppressa poplu għal ġenerazzjonijiet sħaħ.",
+    "Ismi jissemma spiss fil-Ktieb Divin flimkien ma’ dan il-mexxej qawwi.",
+    "Ġejt inkarigat bi proġett ta' kostruzzjoni grandjuż, struttura għolja maħsuba biex tilħaq is-smewwiet.",
+    "Jiena tajt parir lil sidi biex joqtol lil ulied Ulied Iżrael u jsalva lil uliedhom il-bniet.",
+    "Kont involut fi pjanijiet u konspirazzjonijiet kontra messaġġier setgħan ta' Alla.",
+    "Tmiemi, flimkien ma’ sidi u l-armata tiegħu, wasal fl-ilmijiet ta’ baħar vast."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Nimrod",
+        "Abraħa",
+        "Gulija",
+        "Iblis",
+        "Ħaman"
+      ],
+      "answer": "Ħaman"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Li tiġi ttestjat b'ġid immens",
+        "Mexxi armata kontra dar sagra",
+        "Nibnu torri biex nilħqu lil Alla",
+        "Jiġu mitfugħa fin-nar minħabba t-twemmin tagħhom",
+        "Li titfa’ f’bir minn aħwa"
+      ],
+      "answer": "Nibnu torri biex nilħqu lil Alla"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka",
+        "L-Istaff",
+        "Il-Muntanja",
+        "It-Torri",
+        "Il-Baliena"
+      ],
+      "answer": "It-Torri"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ningħata għerf immens",
+        "Issir profeta",
+        "Nibla’ mill-art",
+        "Li tingħata saltna",
+        "Għerqa fil-baħar"
+      ],
+      "answer": "Għerqa fil-baħar"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

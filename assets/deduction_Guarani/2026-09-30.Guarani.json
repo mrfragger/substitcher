@@ -1,0 +1,61 @@
+{
+  "title": "Pe Paciente Peteĩva",
+  "intro": "Ymaite guive, yvypóra rembiasakue ypykuépe, mokõi ánga oñembo’y Ijapohare renondépe ofrenda reheve. Peteĩva ojeacepta, peteĩ katu nahániri. Pe oúva upe rire oikóta peteĩha tragedia tuicháva joyke’ykuéra apytépe - peteĩ acto de contención paciente ha peteĩ acto de venganza amarga. ¿Ikatu piko reikuaauka mávapa che?",
+  "clues": [
+    "Che anase vaʼekue umi ára ypykuépe voi yvypóra oĩ haguépe ko yvy ape ári",
+    "Che ha’eva’ekue peteĩ mitã peteĩha par de yvypóra oguatava’ekue ko yvy ape ári",
+    "Peteĩ jey aikuaveʼẽ peteĩ sakrifísio umi iporãvévagui che ovecha atýgui ambovyʼa hag̃ua che Apoharépe",
+    "Che ofrénda ojeasepta yvate guive, ha che ermáno ofrénda katu oñemboyke",
+    "Oñeamenasa jave amanotaha, adesidi ndahupíri che po che ermánore",
+    "Oiko chehegui pe primera persona opa yvypóra historia-pe ojejuka vaíva chéve ambue"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mávapa che?",
+      "options": [
+        "Habil (Abel), Adán ra'y",
+        "Qabil (Caín), Adán ra'y",
+        "Adán, yvypóra ypykue",
+        "Nuh (Noé) .",
+        "Ibrahim (Abrahán) Ñe'ẽpoty ha ñe'ẽpoty ."
+      ],
+      "answer": "Habil (Abel), Adán ra'y"
+    },
+    "trial": {
+      "label": "Juicio/Evento rehegua",
+      "options": [
+        "Peteĩha jejuka yvypóra rembiasápe",
+        "Pe dilúvio guasu Nuh",
+        "Fir'awn ehérsito ñehundi",
+        "Pe sacrificio Ismail rehegua ojapova’ekue Ibrahim",
+        "Pe ñorairõ Jalut (Goliat) ndive ."
+      ],
+      "answer": "Peteĩha jejuka yvypóra rembiasápe"
+    },
+    "location": {
+      "label": "Elemento Clave rehegua",
+      "options": [
+        "Peteĩ ovecha oñekuaveʼẽva sakrifísio ombovyʼávaramo",
+        "Peteĩ árka guasu yvyrágui ojejapóva",
+        "Peteĩ yvyra oñemoambuéva mbóipe",
+        "Peteĩ guyra hoopoe ogueraháva peteĩ marandu mburuvicha guasu",
+        "Peteĩ zanja tatatĩ hendýva"
+      ],
+      "answer": "Peteĩ ovecha oñekuaveʼẽva sakrifísio ombovyʼávaramo"
+    },
+    "outcome": {
+      "label": "Sẽ",
+      "options": [
+        "Oiko chugui peteĩha víctima ojejukáva yvypóra rembiasápe",
+        "Oikove peteĩ inundación tuichávagui peteĩ mba’yru yvyrágui ojejapóva ryepýpe",
+        "Oiko peteĩ pira guasu rye ryepýpe",
+        "Oisãmbyhy jinn, yvypóra ha yvytu",
+        "Ojere cuarenta áño pukukue peteĩ desiérto tuichaitévape"
+      ],
+      "answer": "Oiko chugui peteĩha víctima ojejukáva yvypóra rembiasápe"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

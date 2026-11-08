@@ -1,0 +1,61 @@
+{
+  "title": "Der Fluch der reichen Ernte",
+  "intro": "In einem uralten Land zählte ein Mensch zu den Wohlhabendsten seiner Gemeinschaft. Zweimal in Folge waren ihm die Segnungen der Erde zuteilgeworden – eine doppelte Ernte, die sein Herz mit Dankbarkeit hätte erfüllen sollen. Doch als eine Tragödie geschah und ihm in einer einzigen Nacht alles genommen wurde, offenbarte seine Reaktion den wahren Charakter seiner Seele. Kannst du die Identität dieser Person aufdecken, deren Geschichte als Warnung vor dem Unglauben an Allahs Segen dient?",
+  "clues": [
+    "Ich gehörte zu den glücklichsten Seelen im ganzen Land und war mit reichlich Vorräten gesegnet.",
+    "Zweimal kam die Ernte innerhalb von zwei Jahren zu mir, doch mein Herz blieb meinem Herrn gegenüber undankbar.",
+    "Ich besaß einen prächtigen Garten mit Weinreben, Olivenbäumen und Palmen – ein Beweis für Allahs Gunst.",
+    "Als mein Garten zerstört wurde, stand ich in seinen Trümmern, die Hände zum Himmel ausgestreckt, und verfluchte mein Schicksal.",
+    "Ich leugnete, dass Allah einen solchen Verlust verursacht haben könnte, selbst als ich in Verzweiflung meine Hände zerdrückte.",
+    "Meine Strafe bestand nicht nur im Verlust meines Gartens, sondern darin, dass ich in seinen Trümmern völlig hilflos zurückgelassen wurde und keinen Helfer mehr rufen konnte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Der Besitzer des Gartens in Sure 26",
+        "Der Besitzer zweier Gärten aus einem fernen Land",
+        "Eine wohlhabende Seele aus der Stadt des Wohlstands",
+        "Der in der Sure Al-Kahf erwähnte Bauer",
+        "Ein Weinbergsbesitzer aus der Zeit des Propheten Schu'aib"
+      ],
+      "answer": "Der Besitzer des Gartens in Sure 26"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Verlust eines Gartens, der in einer einzigen Nacht zerstört wurde",
+        "Die große Flut, die die Erde bedeckte",
+        "Auf die Probe gestellt mit wahren und falschen Propheten",
+        "Die Prüfung, ins Feuer geworfen zu werden",
+        "Die Prüfung, von der Erde verschlungen zu werden"
+      ],
+      "answer": "Verlust eines Gartens, der in einer einzigen Nacht zerstört wurde"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein Garten mit Weinreben, Olivenbäumen und Palmen wurde innerhalb von zwei Jahren zerstört.",
+        "Ein Schiff, das auf einem hohen Berg gebaut wurde",
+        "Die Stadt einer Nation, die gegen ihre Prinzipien verstößt",
+        "Ein Brunnen im alten Midian",
+        "Der Fluss des Paradieses"
+      ],
+      "answer": "Ein Garten mit Weinreben, Olivenbäumen und Palmen wurde innerhalb von zwei Jahren zerstört."
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Völlige Hilflosigkeit – völlig hilflos.",
+        "Auferstehung, um ins Paradies einzugehen",
+        "Ein Prophet Allahs werden",
+        "Führung einer großen Nation",
+        "Ewige Strafe im Feuer"
+      ],
+      "answer": "Völlige Hilflosigkeit – völlig hilflos."
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

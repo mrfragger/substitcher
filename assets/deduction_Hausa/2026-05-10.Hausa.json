@@ -1,0 +1,61 @@
+{
+  "title": "Masu Gina Hasumiyai",
+  "intro": "A wani lokaci mai tsawo da ya gabata, wata babbar wayewa ta taso, wadda ta shahara da ayyukanta masu ban mamaki na gini da ƙarfi mai girma. An bai wa wannan ƙungiya ta haɗin gwiwa albarkatu masu yawa da ƙarfin jiki, duk da haka sun zaɓi hanyar nuna rashin amincewa da saƙon Allah da aka aiko don shiryar da su. Labarinsu ya zama babban darasi a cikin tarihin tarihi, shaida ga sakamakon ƙin gaskiya.",
+  "clues": [
+    "An ba mu ƙarfi da tsayi mai yawa na jiki, ba kamar sauran mutane na zamaninmu ba.",
+    "An san mu da gina manyan gine-gine da ginshiƙai masu tsayi a kowane wuri mai tsayi, muna tunanin za mu rayu har abada.",
+    "An aiko mana da wani manzo daga cikinmu don ya yi mana gargaɗi, yana kiranmu da mu bauta wa Allah shi kaɗai kuma mu bar gumakanmu.",
+    "Mun yi wa manzonmu tambaya cikin girman kai, muna tambayar ko sun zo mana ne kawai don su sa mu bauta wa Allah mu bar abin da kakanninmu suka bauta wa.",
+    "Ƙasarmu ta kasance mai albarka da lambuna, maɓuɓɓugan ruwa, da gonaki masu albarka, amma mun danganta wadatarmu da ƙarfinmu, ba ga Mahaliccinmu ba.",
+    "Saboda rashin yarda da izgilin da muka daɗe muna yi, a ƙarshe an halaka mu da wata iska mai ban tsoro da ta yi ta yi ta yi mana zafi tsawon kwanaki da dare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Samudawa",
+        "Mutanen Fir'auna",
+        "Mutanen Nuhu",
+        "Mutanen Madyana",
+        "Mutanen 'Ad'"
+      ],
+      "answer": "Mutanen 'Ad'"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ana roƙon a yi hadaya da wani takamaiman raƙumi",
+        "Ana ƙalubalantar samar da surorin Alƙur'ani guda goma kamar su",
+        "Ana nuna rabuwar teku",
+        "Annabi ya yi masa gargaɗi game da ambaliyar ruwa da ke tafe",
+        "Kin amincewa da annabin da ya yi gargaɗi game da gina gumaka da yawa da kuma bauta musu"
+      ],
+      "answer": "Kin amincewa da annabin da ya yi gargaɗi game da gina gumaka da yawa da kuma bauta musu"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Ma'aikatan",
+        "Wutar",
+        "Birnin Saduma",
+        "Ginshiƙai masu tsayi da gidaje masu ƙarfi"
+      ],
+      "answer": "Ginshiƙai masu tsayi da gidaje masu ƙarfi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An nutsar da shi cikin ambaliyar ruwa mai girma",
+        "Ƙasa ta haɗiye ta",
+        "Ya canza zuwa birai da aladu",
+        "An lalata shi da tsawa mai ƙarfi",
+        "An halaka ta da iska mai ƙarfi da bala'i"
+      ],
+      "answer": "An halaka ta da iska mai ƙarfi da bala'i"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

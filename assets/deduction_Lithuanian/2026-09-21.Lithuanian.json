@@ -1,0 +1,61 @@
+{
+  "title": "Šauksmas iš gelmių",
+  "intro": "Gailestingiausiojo tarnas pavargo nuo užsispyrusios tautos ir išvyko anksčiau laiko, nei buvo gautas leidimas. Šis asmuo atsidūrė ten, kur joks žmogus nebuvo buvęs, kur Dievo šauksmas keistai aidi per tamsos sluoksnius. Susilpnėjusi, bet pasikeitusi, ši siela tapo nesenstančia kantrybės, nuoširdžios atgailos ir beribės Kūrėjo gailestingumo pamoka. Ar galite įminti paslaptį?",
+  "clues": [
+    "Buvau pasiųstas kaip pasiuntinys savo žmonėms, bet jie peržengė visas ribas savo netikėjimu ir atsisakė klausytis.",
+    "Aš supykau dėl jų atstūmimo ir pabėgau nuo savo žmonių, kol neatėjo Alacho įsakymas.",
+    "Įlipau į laivą, kuris buvo pripildytas iki galo, ir mes traukėme burtus, kad nuspręstume, kas bus išmestas už borto.",
+    "Mane įmetė į šėlstančią jūrą ir prarijo didelė žuvis.",
+    "Įstrigęs trijuose tamsos sluoksniuose – pilve, jūros gelmėse ir žemėje apačioje – nuoširdžiai atgailaudamas šaukiausi savo Viešpaties.",
+    "Išlindau iš žuvies į atvirą krantą, silpnas ir pavargęs, ir mane apaugo moliūgas. Mano žmonės, šimtas tūkstančių ar daugiau, pagaliau patikėjo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Junusas",
+        "Pranašas Ayyubas",
+        "Pranašas Jusufas",
+        "Pranašas Musa",
+        "Pranašas Sulaimanas"
+      ],
+      "answer": "Pranašas Junusas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Prarijo didelė žuvis",
+        "Įmestas į liepsnojančią ugnį",
+        "Įstrigęs šulinio dugne",
+        "Užkluptas didelio potvynio",
+        "Karaliaus neteisingai įkalintas"
+      ],
+      "answer": "Prarijo didelė žuvis"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didžiosios žuvies pilvas",
+        "Šventasis slėnis netoli Kaabos",
+        "Arka, stovinti ant kalno",
+        "Lazdelė, kuri virto gyvate",
+        "Neprilygstamo didybės sostas"
+      ],
+      "answer": "Didžiosios žuvies pilvas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jo žmonės, šimtas tūkstančių ar daugiau, tikėjo",
+        "Gyvai prikeltas į dangų",
+        "Tapo neprilygstamos karalystės valdovu",
+        "Sunaikintas auskarą ausį veriančio šauksmo iš dangaus",
+        "Apvirto niokojantis žemės drebėjimas"
+      ],
+      "answer": "Jo žmonės, šimtas tūkstančių ar daugiau, tikėjo"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

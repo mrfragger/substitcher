@@ -1,0 +1,60 @@
+{
+  "title": "Turtų našta",
+  "intro": "Jūs stovite priešais milžiniškos sėkmės, aukso ir galios kupino gyvenimo istoriją, kuri galiausiai yra pamokanti pamoka visiems, siekiantiems pasaulietinės didybės. Ar galite atskleisti šios asmenybės, kurios istorija aidi laikui bėgant, tapatybę, liudydama apie trumpalaikį žemiškų turtų pobūdį?",
+  "clues": [
+    "Aš buvau iš didžio Pranašo žmonių, bet pasirinkau arogancijos ir priespaudos kelią.",
+    "Alachas man suteikė milžiniškus turtus, tokius didelius, kad raktai nuo mano lobių tapo sunkia našta stipriai vyrų grupei.",
+    "Mano žmonės patarė man nesidžiaugti savo turtais, primindami, kad Alachas nemyli besidžiaugiančiųjų.",
+    "Aš arogantiškai teigiau, kad mano didžiulis turtas yra mano paties žinių ir pastangų rezultatas, o ne Alacho palaiminimas.",
+    "Mane perspėjo dėl sugedimo ir priminė siekti pomirtinio gyvenimo su tuo, ką man davė Alachas, bet aš atsisakiau klausyti ir tęsiau savo išdidumą.",
+    "Galiausiai Alachas prarijo mane ir mano buveinę, nepalikdamas manęs be pagalbininkų prieš Jo įsakymą."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Faraonas",
+        "Hamanas",
+        "Qarun",
+        "Abu Lahabas",
+        "Namrudas"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Jūros padalijimas",
+        "Nimrodo ugnis",
+        "Potvynis",
+        "Žemės rijimas",
+        "Skėrių maras"
+      ],
+      "answer": "Žemės rijimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Auksinis veršelis",
+        "Lobiai / Raktai",
+        "Zamzamo šulinys"
+      ],
+      "answer": "Lobiai / Raktai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteikta karalystė",
+        "Išgelbėtas nuo sunaikinimo",
+        "Prarytas žemės",
+        "Tapo pranašu.",
+        "Mirė ramiai"
+      ],
+      "answer": "Prarytas žemės"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

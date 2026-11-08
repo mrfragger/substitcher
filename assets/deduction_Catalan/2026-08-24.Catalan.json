@@ -1,0 +1,61 @@
+{
+  "title": "Els oients ocults que van creure",
+  "intro": "En la quietud d'una reunió sagrada, una assemblea extraordinària va arribar d'un regne invisible. Atrets pels murmuris d'alguna cosa meravellosa, van escoltar la recitació que segellaria el seu destí per sempre. El seu testimoni continua sent un dels més singulars de les escriptures divines.",
+  "clues": [
+    "Som éssers d'un regne invisible per la majoria, i vam venir com a grup.",
+    "Vam viatjar cap a una reunió per escoltar alguna cosa extraordinària.",
+    "Quan vam arribar, vam escoltar una recitació que ens va deixar meravellats.",
+    "Vam reconèixer obertament que alguns entre nosaltres són justos i altres no.",
+    "Sabíem que no podíem escapar del decret diví a la terra, ni tampoc volant al cel.",
+    "Quan vam sentir la guia, hi vam creure; qui creu en el seu Senyor no temerà pèrdua ni càrrega."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Un grup de djins",
+        "El poble d'Iram",
+        "La gent de Tubba'",
+        "L'Imperi Romà",
+        "La tribu dels Quraysh"
+      ],
+      "answer": "Un grup de djins"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Escoltant una recitació sagrada",
+        "Construint pilars elevats a la nostra ciutat",
+        "Caçant una magnífica camella",
+        "Ser destruïts per haver matat els nostres profetes",
+        "Multiplicant la riquesa sense mesura"
+      ],
+      "answer": "Escoltant una recitació sagrada"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una reunió de recitació sagrada",
+        "Una ciutat de pilars alts (Iram)",
+        "Un pou al desert",
+        "Un gran palau d'or",
+        "Una cova sagrada a les muntanyes"
+      ],
+      "answer": "Una reunió de recitació sagrada"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vam creure i vam advertir la nostra gent",
+        "Destruït per una poderosa explosió del cel",
+        "Castigat per un vent abrasador i destructiu",
+        "Atorgat immensa riquesa i poder",
+        "Va romandre ferm en la incredulitat"
+      ],
+      "answer": "Vam creure i vam advertir la nostra gent"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

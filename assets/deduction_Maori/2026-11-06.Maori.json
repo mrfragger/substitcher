@@ -1,0 +1,61 @@
+{
+  "title": "Te Toto Tuatahi i Ringihia i roto i te Hae",
+  "intro": "Whakaarohia ngā rā tōmua o te tangata, i te wā i noho whānau kotahi ai te ao katoa. Ka mātakitaki koe i ngā whakahere e rua e whakatakotoria ana ki te aroaro o Allah - tētahi e manakohia ana, tētahi e whakakahoretia ana. Ka pū te hae i roto i te ngākau, ā, ka hāhā te riri. Ko ngā mea e whai ake nei ka waiho he tohu ki te hītori ake ake, ā, ka noho ko tētahi manu iti hei kaiako.",
+  "clues": [
+    "Nō te whānau tuatahi rawa ahau i runga i te whenua.",
+    "I hoatu e au he whakahere ki a Allah, engari kāore i manakohia taku, ko te whakahere anō i manakohia.",
+    "I kōrero ahau me te hae, me te whakawehi ki te tango i te ora.",
+    "Nāku i patu te tuatahi i te whenua, i te kore tika.",
+    "I kite ahau i tētahi rākau e waru ana i te whenua hei whakaatu mai ki ahau me pēhea te huna i tētahi tūpāpaku.",
+    "I mahue iho ahau i te pouri, ā, i roto ahau i te hunga i hinga mō ngā mahi a ōku ringa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ko Qabil (Kaina), te tama a Ātama",
+        "Ko Samiri, te kaihanga o te kuao kau",
+        "Ko Namrud, te kaitukino i totohe ki a Ibrahim",
+        "Ko Azar, te kaihanga whakapakoko",
+        "Ko Kan'an, te tama a Noa i toremi"
+      ],
+      "answer": "Ko Qabil (Kaina), te tama a Ātama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I kohurutia tētahi teina/tuākana i te hae i muri i te whakakorenga o te whakahere",
+        "Te hanga i tētahi pourewa tiketike hei tiro atu ki te rangi",
+        "Te hanga i tētahi kuao kau koura mō te karakia",
+        "Te tono kia horahia he tēpu i te rangi",
+        "Te ārahi i tētahi ope taua arewhana ki te whakangaro i te Kaaba"
+      ],
+      "answer": "I kohurutia tētahi teina/tuākana i te hae i muri i te whakakorenga o te whakahere"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He rākau e waru ana i te whenua hei whakaatu i te tanumanga",
+        "He kuao kau koura i tangi",
+        "He āka nui i runga i ngā wai waipuke",
+        "He tokotoko i huri hei nakahi",
+        "He tēpu kua horahia ki te kai mai i te rangi"
+      ],
+      "answer": "He rākau e waru ana i te whenua hei whakaatu i te tanumanga"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I pouri, ā, i roto i te hunga i hinga",
+        "I toremi i te waipuke nui",
+        "I horomia e te whenua me te taonga",
+        "I pāngia ia e te repera mō ngā tau e whitu",
+        "I whakawhiwhia ki tētahi rangatiratanga hei whakahaere i ngā hau"
+      ],
+      "answer": "I pouri, ā, i roto i te hunga i hinga"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

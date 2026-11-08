@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua i Muri i te Whakairo",
+  "intro": "I raro i te atarangi o te wehenga nui mai i te mana whakahaere, i tatari tēnei tangata ngaro i te koraha. I a te rangatira o te iwi whiriwhiri e piki ana i te maunga tapu mō te komuniotanga atua, ka tau he whakamātautau nui ki te hunga i mahue. I whakamahia e tēnei tangata te wā ki te hanga anō i ngā whakapono o te hapori katoa. I te hokinga mai o te rangatira me te pono, ka whakaritea he whiu ahurei, mutunga kore. Ka taea e koe te wetewete ko wai tēnei wairua tautohenga, tinihanga hoki?",
+  "clues": [
+    "I haere tahi māua ko tētahi iwi i wetekina i te ringa o tētahi kaitukino kaha nā roto i ngā tohu merekara.",
+    "I te pikinga o tō rātou rangatira ki te maunga ki te tiki arataki, i tatari ahau i roto i te hunga i noho ki muri.",
+    "I kohia e au he konganuku utu nui mai i ā rātou whakapaipai, ā, i hangaia hei mea e puta ai he oro.",
+    "Nā roto i tēnei hanganga, i whakatenatena ahau i tētahi whakatupuranga katoa kua kitea e rātou tō rātou atua i te koraha.",
+    "I te hokinga mai o te kaiārahi, ka tohua ko wai ahau, ka pātaihia he aha te mea i ārahi i ahau ki tēnei momo tinihanga.",
+    "Ko taku whiu i tēnei ao, kāore tetahi e pā mai ki ahau, kāore hoki e whakatata mai, he tohu whakama tēnei e mau tonu ana ki ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Hāmiri",
+        "Poropiti a Mohi",
+        "Ngā tohunga makutu a Parao",
+        "Hamana, minita a Parao",
+        "Ko Iblis, te mea i whakakahoretia"
+      ],
+      "answer": "Te Hāmiri"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hanga o te kuao kau koura",
+        "Te pakanga ki a Parao",
+        "Te hanganga o tētahi āka nui",
+        "Te korenga e piko ki mua i a Ātama",
+        "Te whakangaromanga o ngā pā o Ruta"
+      ],
+      "answer": "Te hanga o te kuao kau koura"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He whakapakoko kuao kau koura",
+        "He tokotoko i huri hei nakahi",
+        "He kamera uwha i puta mai i te toka",
+        "He āka i hangaia ki runga i te maunga",
+        "He torona e haria ana i runga i te hau"
+      ],
+      "answer": "He whakapakoko kuao kau koura"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua whakahēngia kia kore e taea te pā atu, me te kī tonu 'kāore he whakapā atu'",
+        "I toremi i te taha o te kaitukino me tana ope taua",
+        "Maka ki roto i te ahi i whakamatao, i rangimārie hoki",
+        "I pāngia e te matapo mō te whakakahore i te pono",
+        "I whakarērea ki roto i te poka e te whanaunga hae"
+      ],
+      "answer": "Kua whakahēngia kia kore e taea te pā atu, me te kī tonu 'kāore he whakapā atu'"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

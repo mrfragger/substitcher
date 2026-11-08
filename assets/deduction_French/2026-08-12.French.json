@@ -1,0 +1,61 @@
+{
+  "title": "Les Envoyés de la Miséricorde et de la Puissance",
+  "intro": "Imaginez un après-midi paisible soudainement interrompu par l'arrivée d'inconnus. Leur apparence est banale, mais leurs intentions sont tout sauf ordinaires. Ils portent un message divin qui bouleversera le destin de deux nations, apportant la joie dans un foyer désolé et la terreur dans une cité corrompue. Qui sont ces mystérieux visiteurs ?",
+  "clues": [
+    "Nous avons été envoyés chez un serviteur dévoué d'Allah, réputé pour son hospitalité sans bornes.",
+    "Nous sommes arrivés sous les traits d'étrangers, et pourtant notre hôte a perçu quelque chose d'étrange dans notre présence.",
+    "Nous avons apporté des nouvelles qui ont fait rire une vieille dame d'incrédulité, qui s'est frappée le visage d'étonnement.",
+    "Notre mission consistait à protéger une famille vertueuse tout en semant la destruction dans une ville gangrenée par la corruption.",
+    "Nous avons refusé de participer au repas qui nous était offert, ce qui n'a fait qu'accroître les soupçons de notre hôte.",
+    "Nous n'avons révélé notre véritable nature qu'avant notre départ, en disant : « Nous sommes, en vérité, des messagers de votre Seigneur. »"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les invités d'Abraham",
+        "Les disciples de Jésus",
+        "Les Compagnons de la Caverne",
+        "L'armée d'Abraha",
+        "Les Messagers de Ya-Sin"
+      ],
+      "answer": "Les invités d'Abraham"
+    },
+    "trial": {
+      "label": "Notre mission",
+      "options": [
+        "Pour éprouver la foi d'Abraham concernant son fils",
+        "Pour transmettre les Écritures à Abraham",
+        "Pour annoncer la naissance d'Isaac et la destruction du peuple de Lot",
+        "Pour guider Abraham vers la Kaaba",
+        "Pour sauver Abraham du feu"
+      ],
+      "answer": "Pour annoncer la naissance d'Isaac et la destruction du peuple de Lot"
+    },
+    "location": {
+      "label": "Lieu d'apparition",
+      "options": [
+        "Au pays de l'Égypte",
+        "Dans la ville d'Ur",
+        "Chez Abraham",
+        "Dans le jardin d'Éden",
+        "Au puits de Zamzam"
+      ],
+      "answer": "Chez Abraham"
+    },
+    "outcome": {
+      "label": "Le résultat",
+      "options": [
+        "Abraham devint roi",
+        "Abraham a construit la Kaaba",
+        "Sarah donna naissance à Isaac et le peuple de Lot fut anéanti.",
+        "Abraham a émigré en Palestine",
+        "Le peuple d'Abraham fut sauvé d'un grand déluge"
+      ],
+      "answer": "Sarah donna naissance à Isaac et le peuple de Lot fut anéanti."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

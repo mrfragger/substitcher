@@ -1,0 +1,61 @@
+{
+  "title": "Los enviados de la misericordia y el poder",
+  "intro": "Imagina una tarde tranquila interrumpida por la llegada de viajeros desconocidos. Su apariencia es común, pero su propósito es todo menos eso. Traen un mensaje divino que cambiará el rumbo de dos naciones, trayendo alegría a un hogar desolado y terror a una ciudad pecaminosa. ¿Quiénes son estos misteriosos visitantes?",
+  "clues": [
+    "Fuimos enviados a un siervo devoto de Alá, conocido por su hospitalidad sin límites.",
+    "Llegamos haciéndonos pasar por extraños, y sin embargo, nuestro anfitrión percibió algo sobrenatural en nuestra presencia.",
+    "Le trajimos una noticia que hizo reír a una anciana con incredulidad, llevándose las manos a la cara con asombro.",
+    "Nuestra misión era proteger a una familia virtuosa mientras sembrábamos la destrucción en una ciudad sumida en la corrupción.",
+    "Nos negamos a participar de la comida que nos ofrecieron, lo que no hizo sino aumentar las sospechas de nuestro anfitrión.",
+    "Revelamos nuestra verdadera naturaleza solo antes de partir, diciendo: «En verdad, somos mensajeros de vuestro Señor»."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Los huéspedes de Abraham",
+        "Los discípulos de Jesús",
+        "Los compañeros de la cueva",
+        "El ejército de Abraha",
+        "Los Mensajeros de Ya-Sin"
+      ],
+      "answer": "Los huéspedes de Abraham"
+    },
+    "trial": {
+      "label": "Nuestra misión",
+      "options": [
+        "Para poner a prueba la fe de Abraham con respecto a su hijo.",
+        "Para entregar las Escrituras a Abraham",
+        "Para anunciar el nacimiento de Isaac y la destrucción del pueblo de Lot.",
+        "Para guiar a Abraham a la Kaaba",
+        "Para rescatar a Abraham del fuego"
+      ],
+      "answer": "Para anunciar el nacimiento de Isaac y la destrucción del pueblo de Lot."
+    },
+    "location": {
+      "label": "Lugar de aparición",
+      "options": [
+        "En la tierra de Egipto",
+        "En la ciudad de Ur",
+        "En casa de Abraham",
+        "En el jardín del Edén",
+        "En el pozo de Zamzam"
+      ],
+      "answer": "En casa de Abraham"
+    },
+    "outcome": {
+      "label": "El resultado",
+      "options": [
+        "Abraham se convirtió en rey.",
+        "Abraham construyó la Kaaba",
+        "Sara dio a luz a Isaac y el pueblo de Lot fue destruido.",
+        "Abraham emigró a Palestina.",
+        "El pueblo de Abraham se salvó de un gran diluvio."
+      ],
+      "answer": "Sara dio a luz a Isaac y el pueblo de Lot fue destruido."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

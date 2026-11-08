@@ -1,0 +1,61 @@
+{
+  "title": "Maa embus",
+  "intro": "Suurte katsumuste ajal sai üks tuntud inimene osaliseks tohutu maise külluse, tänulikkuse ja alandlikkuse proovikivi. Selle tegelase teekond on sügav õppetund materiaalsete hüvede kaduvusest ja ülbuse tagajärgedest. Avastage selle hinge identiteet, kelle lugu on sööbinud meie alla maapinda.",
+  "clues": [
+    "Ma elasin rahva seas, keda juhtis suur sõnumitooja.",
+    "Allah andis mulle nii tohutu rikkuse, et isegi minu aarete võtmed olid paljudele tugevatele inimestele raskeks koormaks.",
+    "Mu rahvas, teades mu rikkust, soovitas mul otsida hauatagust eluaset sellega, mida Allah mulle andnud on, ja mitte unustada oma osa maailmas ning teha head, nagu Allah mulle head teinud on.",
+    "Kuulutasin ülbelt, et olen oma tohutu rikkuse saavutanud ainuüksi tänu oma teadmistele ja pingutustele, eitades igasugust jumalikku soosingut.",
+    "Kui mult paluti panustada või Allahi heldust tunnustada, keeldusin uhkelt, uskudes, et minu vara kuulub ainult mulle.",
+    "Minu äärmise ülbuse ja rõhumise tagajärjel käskis Allah maal avaneda ja mind ja mu eluaset alla neelata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Tulle viskamine",
+        "Uppumine meres",
+        "Aiast pagendamine",
+        "Ahviks muutumine",
+        "Maa alla neelata"
+      ],
+      "answer": "Maa alla neelata"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kuldne vasikas",
+        "Võimas laev",
+        "Rääkiv lind",
+        "Imeline personal",
+        "Tohutud aarded ja võtmed"
+      ],
+      "answer": "Tohutud aarded ja võtmed"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Suureks valitsejaks saamine",
+        "Jumaliku ilmutuse saamine",
+        "Taevasse tõusmine",
+        "Elades pikka vagaduse elu",
+        "Täielik häving ülbuse tõttu"
+      ],
+      "answer": "Täielik häving ülbuse tõttu"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

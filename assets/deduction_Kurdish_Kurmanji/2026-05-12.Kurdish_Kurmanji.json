@@ -1,0 +1,61 @@
+{
+  "title": "Desthilata Bêdawî",
+  "intro": "Li seranserê welatên kevnar, carekê desthilatdariyeke bihêz serdest bû, çavkaniyên pir mezin û jiyana bêhejmar kesan kontrol dikir. Tevî nîşan û hişyariyên zelal, vî serwerî rêya serhildanê hilbijart, ku bû sedema pevçûneke kûr ku dê di demê re deng vede.",
+  "clues": [
+    "Min li ser qadeke fireh desthilatdarî û otorîteya dawî îdia kir.",
+    "Min qasidek dilnizm ku ji hêla Rebê hemû cîhanan ve hatibû şandin, red kir.",
+    "Gelê min bi jêhatîbûna xwe ya li ser avahiyên mezin û çemê ku şaristaniya me domand, dihat nasîn.",
+    "Ez şahidê gelek nîşanên mûcîzeyî bûm, di nav wan de darek ku veguherî mar û destek ku bi geşî dibiriqî.",
+    "Min red kir ku komek koleyan ji welatê min derkevin, tevî fermanên îlahî.",
+    "Şopandina min a gelê ku diçû ez û artêşên min ber bi dilê deryayeke parvekirî ve bir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Yûsif",
+        "Qiral Talut",
+        "Fîrewn (Firewn)",
+        "Pêxember Dawud",
+        "Nemrûd"
+      ],
+      "answer": "Fîrewn (Firewn)"
+    },
+    "trial": {
+      "label": "Rûbirûbûna Sereke",
+      "options": [
+        "Lehiya ku erd da ber xwe",
+        "Parçekirina deryayê",
+        "Dara şewitî",
+        "Çêkirina Ke'bê",
+        "Wêranî ji ber bayê xurt"
+      ],
+      "answer": "Parçekirina deryayê"
+    },
+    "location": {
+      "label": "Alîyê Diyarkirinê",
+      "options": [
+        "Heywanekî diaxive",
+        "Darek û destekî geş",
+        "Zayîneke mûcîzeyî",
+        "Xalîçeyek firîner",
+        "Textekî bi heybet li ser avê"
+      ],
+      "answer": "Darek û destekî geş"
+    },
+    "outcome": {
+      "label": "Çarenûsa Dawî",
+      "options": [
+        "Hilkişiyaye asîmanan",
+        "Ji aliyê erdê ve hatiye daqurtandin",
+        "Di deryayê de xeniqî",
+        "Veguheriye meymûnekî",
+        "Bi saya dewlemendî û hêzeke mezin"
+      ],
+      "answer": "Di deryayê de xeniqî"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

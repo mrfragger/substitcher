@@ -1,0 +1,61 @@
+{
+  "title": "Mekos tiesą sakantys žmonės",
+  "intro": "Ankstyvosiomis apreiškimo dienomis, kai tiesos žinia susidūrė su nuožmiu pasipriešinimu, kai kurios sielos nepajudino savo įsitikinimų. Šie tikintieji susidūrė su neįsivaizduojamu žiaurumu iš tų, kurie siekė užgesinti tikėjimo šviesą. Jų kančios buvo sunkios, kančia didžiulė, tačiau jų liežuviai niekada nenustojo skelbti Alacho Vienumo. Net ir įmestus į nevilties gelmes, juos supo dieviška apsauga, paversdama jų išbandymą amžinu tikėjimo liudijimu. Panagrinėkime šių nepaprastų sielų kelionę.",
+  "clues": [
+    "Buvome griežtai nubausti už tai, kad atsisakėme atsisakyti tikėjimo Vienu Dievu",
+    "Mūsų žmonės negalėjo sugriauti mūsų ryžto, kad ir koks išradingas būtų jų žiaurumas",
+    "Dieną buvome kyboję prie šulinio, tačiau dieviškoji pagalba visada buvo šalia",
+    "Mūsų tvirtumas stebino net tuos, kurie matė mūsų ištvermę",
+    "Daugelis Mekoje bandė priversti mus išsižadėti savo įsitikinimų, bet mes likome ryžtingi",
+    "Kai atrodė, kad viskas prarasta, mūsų laisvė atėjo stebuklingo dieviškojo įsikišimo dėka"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammaras ibn Jasiras",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salmanas al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Kova su pranašu",
+        "Persekiojimas už atsisakymą garbinti stabus",
+        "Tikėjimo išbandymas dėl gaisro įvykio",
+        "Naktinės kelionės su padalinta dalimis išbandymas",
+        "Sodo sunaikinimo išbandymas"
+      ],
+      "answer": "Persekiojimas už atsisakymą garbinti stabus"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Uhudo kalnas",
+        "Šventoji Kabaho teritorija",
+        "Abu Sufyano šulinys",
+        "Kuraišų rūmai",
+        "Medinos miestas"
+      ],
+      "answer": "Abu Sufyano šulinys"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pergalė didžiojoje kovoje",
+        "Išlaisvinimas per dieviškąją intervenciją",
+        "Kankinystė Alacho kelyje",
+        "Priėmimas tiesiai į rojų",
+        "Migracija į palaimintą žemę"
+      ],
+      "answer": "Išlaisvinimas per dieviškąją intervenciją"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

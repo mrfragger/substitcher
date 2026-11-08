@@ -1,0 +1,61 @@
+{
+  "title": "Der verborgene Gläubige",
+  "intro": "In den prunkvollen Machtzentren, wo Unglaube und Tyrannei herrschten, erhob sich eine einsame Stimme der Wahrheit aus einem unerwarteten Ort. Diese Person stellte sich der Obrigkeit entgegen, um einen Boten zu schützen, und riskierte ihre eigene Sicherheit, um die Wahrheit zu verkünden.",
+  "clues": [
+    "Ich lebte in einem Land großer Tyrannei und diente einem Herrscher, der behauptete, göttlich zu sein.",
+    "Ich habe meine wahren Überzeugungen viele Jahre lang geheim gehalten, aus Angst vor den Konsequenzen ihrer Offenbarung.",
+    "Als ein Bote mit klaren Zeichen kam, glaubte ich; aber mein Volk verschwor sich gegen ihn.",
+    "Ich stand vor dem Tyrannen und seinem Rat und argumentierte, dass sie einen unschuldigen Boten nicht töten sollten.",
+    "Ich warnte sie vor der Bestrafung vergangener Völker, die die Wahrheit ablehnten, wie etwa das Volk Noahs und das Volk Ad.",
+    "Allah hat mich vor ihren bösen Plänen bewahrt, und ich wurde Zeuge der Zerstörung des unterdrückenden Regimes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Der Gläubige der Familie des Pharao",
+        "Der Magier des Pharaos",
+        "Der Wesir des Pharaos",
+        "Die Frau des Pharaos",
+        "Der Schatzmeister des Pharao"
+      ],
+      "answer": "Der Gläubige der Familie des Pharao"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Verteidigung eines Propheten gegen die Hinrichtung",
+        "Die Tricks eines Zauberers herausfordern",
+        "Einen Turm bauen, der bis zum Himmel reicht",
+        "Das Meer teilt sich zur Flucht",
+        "Die Deutung eines Königstraums"
+      ],
+      "answer": "Verteidigung eines Propheten gegen die Hinrichtung"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Hof des Pharaos",
+        "Der brennende Dornbusch",
+        "Das goldene Kalb",
+        "Der Brunnen von Madyan",
+        "Die Arche des Propheten Nuh"
+      ],
+      "answer": "Der Hof des Pharaos"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Vor Schaden bewahrt, während die Unterdrücker vernichtet wurden",
+        "Wurde ein mächtiger Herrscher",
+        "Wurde ins Feuer geworfen und kam unverletzt wieder heraus.",
+        "Wurde von der Erde verschluckt",
+        "Irrte vierzig Jahre lang in der Wildnis umher."
+      ],
+      "answer": "Vor Schaden bewahrt, während die Unterdrücker vernichtet wurden"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

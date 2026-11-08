@@ -1,0 +1,61 @@
+{
+  "title": "Say Maanos a Kamarerwa na Sagradon Abung",
+  "intro": "Diad saray pahina na Quran, walay pinmaway a pigura a nanlapud poli na sakey a baleg a propeta, ya inter bilang regalo nen masiken la. Sayan kamarerwa et seselebraan lapud ag-onkupas ya katuaan tan baleg a betang to ed pangiletneg na santuaryo ya magmaliw a silew na pananisia. Legan mon babasaen iray clue, dengelen mon maong so boses ya nanlapud apalabas, ta mansasalita itan ed primeron persona.",
+  "clues": [
+    "Siak so abitla ed Quran a kaiba so sananey a propeta bilang regalo ya inter ed sakey a masiken lan mensahero.",
+    "Sakey ak ed duaran ilalak ya inter ed saman a propeta nen mansasakit la.",
+    "Nidayew ak ed Quran lapud tua ak ed salitak.",
+    "Inawit ko so kagalangan na inkapropeta tan imbaki ak bilang mensahero.",
+    "Akiiba ak ed si tatay ko ed pangipaalagey na pundasyon na Sagradon Abung.",
+    "Nanonotan ak bilang sakey ed saray maanos, tan say sagradon abung ya impaalagey mi et nagmaliw a pasen a papawilen tan kaligenan na totoo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Ismail",
+        "Propeta Ishaq",
+        "Propeta Yaqub",
+        "Propeta Zakariya",
+        "Propeta Yahya"
+      ],
+      "answer": "Propeta Ismail"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Say pangipaalagey na pundasyon na Kaaba a kaiba nen Ibrahim",
+        "Say pangibantak ed apoy",
+        "Say inakmon na balyena",
+        "Say pangidaulo ed saray Israelita ya ompaway ed Ehipto",
+        "Manggagawa na biong"
+      ],
+      "answer": "Say pangipaalagey na pundasyon na Kaaba a kaiba nen Ibrahim"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say Kaaba",
+        "Palandey Sinai",
+        "Say Ambalangan Dayat",
+        "Say Balitok a Baka",
+        "Say Hardin na Eden"
+      ],
+      "answer": "Say Kaaba"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Nibilang ed saray pasyente",
+        "Nibilang ed saray managgaway mauges",
+        "Nibilang ed saray managsalamangka",
+        "Nibilang ed saray agmananisia",
+        "Nibilang ed saray mansimpisimpitan"
+      ],
+      "answer": "Nibilang ed saray pasyente"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

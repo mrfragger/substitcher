@@ -1,0 +1,61 @@
+{
+  "title": "A vixilia na Porta Ardente",
+  "intro": "Unha multitude silenciosa e formidable vixía nun limiar temible, sen probar nunca comida, bebida nin descanso. Formados dunha substancia diferente á arxila humana, agardan un único propósito terrible, e nunca desobedeceron nin unha soa orde do seu Señor.",
+  "clues": [
+    "Somos seres diferentes aos humanos, creados a partir dunha substancia que non come, bebe nin se cansa.",
+    "O noso número exacto coñécese e revélase no Libro: non somos nin incontables nin unha multitude.",
+    "Nunca desobedecemos ao noso Creador, nin falamos antes de recibir ordes.",
+    "Cando chegue o Día, os incrédulos serán levados cara a nós en grupos, e nós abrirémoslles as portas.",
+    "Preguntarémoslles: «Non vos viñeron mensaxeiros da vosa propia raza, avisándovos deste Día?»",
+    "Gardamos un lugar do que nunca sae alma ningunha: un dominio abrasador de castigo eterno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Os Gardiáns do Fogo Infernal (Zabaniyah)",
+        "Os portadores do trono de Alá",
+        "Os anxos da gravación (Kiraman Katibin)",
+        "Os Anxos da Morte",
+        "Os porteiros do paraíso"
+      ],
+      "answer": "Os Gardiáns do Fogo Infernal (Zabaniyah)"
+    },
+    "trial": {
+      "label": "O noso deber principal",
+      "options": [
+        "Gardando as portas do lume infernal",
+        "Rexistrar cada acto humano",
+        "Levando o Trono de Alá",
+        "Levando as almas dos falecidos",
+        "Dominando os ventos e as nubes"
+      ],
+      "answer": "Gardando as portas do lume infernal"
+    },
+    "location": {
+      "label": "Que protexemos?",
+      "options": [
+        "O lume infernal",
+        "O Trono de Alá",
+        "Os pergamiños das accións",
+        "Os ríos do paraíso",
+        "As montañas da Terra"
+      ],
+      "answer": "O lume infernal"
+    },
+    "outcome": {
+      "label": "Destino dos que están no noso dominio",
+      "options": [
+        "Quedarán para sempre e nunca marcharán",
+        "Finalmente serán indultados e liberados",
+        "Purificaranse co tempo",
+        "Transformaranse noutras formas",
+        "Alternarán entre o Inferno e o Paraíso"
+      ],
+      "answer": "Quedarán para sempre e nunca marcharán"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

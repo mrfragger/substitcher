@@ -1,0 +1,61 @@
+{
+  "title": "Wakazi wa Bustani Mbili",
+  "intro": "Katika nchi ambayo baraka zilitiririka kwa wingi, jamii moja iliwahi kufurahia wingi wa bustani mbili nzuri. Maisha yao yalikuwa ushuhuda wa neema ya Mungu, lakini hadithi yao ilibadilika shukrani ilipopungua, na kusababisha mabadiliko ambayo yangekuwa ishara ya kudumu kwa wote wanaotafakari.",
+  "clues": [
+    "Tulikuwa watu waliobarikiwa na nchi ya raha na wingi.",
+    "Mola wetu alitupatia bustani mbili nzuri, zenye majani mengi na zenye matunda kila upande.",
+    "Tuliamriwa tushukuru, lakini tulichagua kutoshukuru na tukageuka.",
+    "Bwawa kubwa lilizuia maji yaliyoipa ardhi yetu uhai.",
+    "Tulipoendelea na makosa yetu, bwawa lilipasuka na maji ya mafuriko yakapita.",
+    "Bustani zetu ambazo hapo awali zilikuwa na mimea mingi zilibadilishwa na matunda machungu, mivinje, na miti michache ya mikuyu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Saba",
+        "Watu wa Thamud",
+        "Watu wa Madyan",
+        "Masahaba wa Pango",
+        "Watu wa Tembo"
+      ],
+      "answer": "Watu wa Saba"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Upepo mkali kwa usiku saba",
+        "Mvua ya mawe kutoka angani",
+        "Mafuriko yenye uharibifu kutoka kwa bwawa lililopasuka",
+        "Kilio kikubwa kutoka angani",
+        "Kuzama baharini"
+      ],
+      "answer": "Mafuriko yenye uharibifu kutoka kwa bwawa lililopasuka"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bwawa kubwa la Ma'rib",
+        "Bonde la Wadi al-Qura",
+        "Bustani ya Iram",
+        "Kisima cha Zamzam",
+        "Mlima wa Sinai"
+      ],
+      "answer": "Bwawa kubwa la Ma'rib"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Bustani zetu zilibadilishwa na matunda machungu na miti michache",
+        "Tulimezwa na ardhi katika tetemeko la ardhi",
+        "Tulibadilishwa kuwa nyani na nguruwe",
+        "Tulizama katika mafuriko makubwa",
+        "Tuliharibiwa na mvua ya mawe"
+      ],
+      "answer": "Bustani zetu zilibadilishwa na matunda machungu na miti michache"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

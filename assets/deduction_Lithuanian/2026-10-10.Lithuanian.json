@@ -1,0 +1,61 @@
+{
+  "title": "Plunksnuotasis skautas",
+  "intro": "Karalystėje, kurią valdė asmuo, kuriam buvo suteikta valdžia vėjams, nematomoms būtybėms ir dangaus gyviams, vienas mažas ir greitas narys dingo iš gretų – tik tam, kad sugrįžtų su apreiškimais, kurie pakeistų tolimos tautos likimą. Šis įžvalgus informatorius iškėlė tiesą į dienos šviesą ten, kur buvo įsišaknijęs nežinojimas. Kas aš esu?",
+  "clues": [
+    "Tarnavau dvare, kur žmonės, nematomos būtybės ir dangaus padarai buvo pavaldūs vienam išmintingam valdovui, kuris valdė net vėjus.",
+    "Kurį laiką nebuvau savo poste, ir buvo pažadėtas valdovo rūstybė, jei nepateiksiu tinkamos priežasties.",
+    "Esu mažas, skraidantis padaras, žinomas dėl aštraus regėjimo, o mano rūšiai buvo suteikta garbė tiesiogiai įvardyti jo vardą apreiškimo puslapiuose.",
+    "Grįžęs parnešiau žinią apie tolimą šalį, kur žmonės lenkėsi prieš saulę, akli Tam, kuris sukūrė dangų ir žemę.",
+    "Radau moterį, valdančią didžiulę karalystę, sėdinčią didingame soste, niekada anksčiau nežinojusią tiesos.",
+    "Aš atradau Sabos karalystę ir gabenau kvietimo laišką nuo pranašo-karaliaus, kuriam buvo pavesta valdyti vėjus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Kukutis (Hudhud)",
+        "Skruzdėlė iš Suleimano slėnio",
+        "Asifas ibn Barkhiya",
+        "Džinas Ifritas",
+        "Sosto angelas"
+      ],
+      "answer": "Kukutis (Hudhud)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Ekspedicija į Sabos (Šebos) karalystę",
+        "Susidūrimas su faraono burtininkais",
+        "Pranašo Nuho tvanas",
+        "Ado žmonių sunaikinimas",
+        "Raudonosios jūros padalijimas"
+      ],
+      "answer": "Ekspedicija į Sabos (Šebos) karalystę"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Sabos (Šebos) žemė",
+        "Sinajaus kalnas",
+        "Pranašo Nuho arka",
+        "Ašabo al-Kahfo urvas",
+        "Faraono rūmai"
+      ],
+      "answer": "Sabos (Šebos) žemė"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Bilqis pakluso Sulaimano teismui",
+        "Faraonas ir jo armija nuskendo jūroje",
+        "Ado žmones sunaikino smarkus vėjas",
+        "Faraono burtininkai tikėjo pranašu Moze",
+        "Didelis potvynis prarijo netikinčiuosius"
+      ],
+      "answer": "Bilqis pakluso Sulaimano teismui"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

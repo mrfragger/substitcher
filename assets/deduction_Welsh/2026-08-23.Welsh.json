@@ -1,0 +1,61 @@
+{
+  "title": "Y Lluosogrwydd Diflanedig",
+  "intro": "Rydych chi'n sefyll o flaen adleisiau cymuned y mae ei stori wedi'i hysgrifennu yn y tonnau. Clywodd yr eneidiau hyn alwad, dewisasant herfeiddiad, ac wynebasant ganlyniad a ail-luniodd y ddaear. Pwy ydyn nhw, a beth ddaeth o'u byd?",
+  "clues": [
+    "Roedden ni'n byw amser maith yn ôl, a daeth negesydd atom ni o'n plith ni.",
+    "Fe wnaethon ni addoli pum eilun a gwrthod eu cefnu.",
+    "Fe wnaethon ni watwar y negesydd a'i gyhuddo o fod ar gyfeiliorn.",
+    "Fe wnaethon ni fynnu ei fod yn dod â'r gosb pe bai'n dweud y gwir.",
+    "Gwelsom yr awyr yn tywallt glaw i lawr a'r ddaear yn ffynhonnau'n ffrwythloni.",
+    "Dringon ni i'r lleoedd uchel i ddianc, ond fe'n goddiweddodd y tonnau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Pobl Nuh",
+        "Pobl 'Ad",
+        "Pobl Thamud",
+        "Pobl Lut",
+        "Pobl Madyan"
+      ],
+      "answer": "Pobl Nuh"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Boddwyd ni mewn llifogydd mawr",
+        "Fe'n dinistriwyd gan gorwynt",
+        "Cawsom ein lladd gan ffrwydrad uchel",
+        "Cawsom ein llyncu gan y ddaear",
+        "Cawsom ein peledu â cherrig o'r awyr"
+      ],
+      "answer": "Boddwyd ni mewn llifogydd mawr"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Llifogydd mawr",
+        "Gwynt treisgar",
+        "Cawod o gerrig",
+        "Ffrwydrad tanllyd",
+        "Daeargryn"
+      ],
+      "answer": "Llifogydd mawr"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Fe gollyngwyd ni i gyd ac eithrio'r credinwyr gyda Nuh",
+        "Fe'n trawsnewidiwyd yn epaod",
+        "Fe'n gadawyd fel adfeilion i deithwyr",
+        "Fe'n trowyd yn halen",
+        "Cawsom seibiant"
+      ],
+      "answer": "Fe gollyngwyd ni i gyd ac eithrio'r credinwyr gyda Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Taşın Mimarları",
+  "intro": "Güçlü ve becerikli, dağ yamaçlarına görkemli yapılar oyan kudretli bir medeniyeti hayal edin. Bu topluluk muazzam bir refaha ve eşsiz bir mimari yeteneğe sahipti. Ancak, açık uyarılara rağmen, dramatik ve unutulmaz bir sonuca götürecek bir yolu seçtiler. Hikayesi, düşünen herkes için derin bir ders niteliğinde olan bu grubu belirleyebilir misiniz?",
+  "clues": [
+    "Bize güç ve beceri bahşedildi; bu sayede muhteşem evleri doğrudan dağların içine oyabildik.",
+    "Allah'tan bize açık bir işaret verildi: Eşsiz bir yaratık vardı ve otlaması için rahatsız edilmemesi gerekiyordu.",
+    "Topluluğumuz kibirlendi ve aramızdan gelen bir elçinin getirdiği ilahi mesaja meydan okudu.",
+    "Şiddetli cezalarla ilgili uyarılara rağmen, mucizevi işarete zarar vermek için komplo kurduk.",
+    "Özel yaratığın kuyumuzdan iki günde bir su içmesine izin verme emrine karşı geldik.",
+    "İhlalimizin ardından tek bir korkunç patlamayla yerle bir olduk, yıkıcı bir sonla karşılaştık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "'Ad' halkı",
+        "Midyan Halkı",
+        "Fil Halkı",
+        "Thamud Halkı",
+        "Lut halkı"
+      ],
+      "answer": "Thamud Halkı"
+    },
+    "trial": {
+      "label": "Başlıca Duruşmamız/Etkinliğimiz",
+      "options": [
+        "Toprakları sular altında bırakan sel.",
+        "Denizin yarılması",
+        "Tek bir patlama/bağırma ile yıkım",
+        "Bir şehrin yakılması",
+        "Bir dağın toza dönüşmesi"
+      ],
+      "answer": "Tek bir patlama/bağırma ile yıkım"
+    },
+    "location": {
+      "label": "Hikayemizin Kilit Bir Unsuru",
+      "options": [
+        "altın buzağı",
+        "Mucizevi bir dişi deve",
+        "Yanan bir çalı",
+        "konuşan bir kuş",
+        "Görkemli bir taht"
+      ],
+      "answer": "Mucizevi bir dişi deve"
+    },
+    "outcome": {
+      "label": "Nihai Sonucumuz",
+      "options": [
+        "Büyük bir servet ve güç bahşedildi.",
+        "Peygamberliğe yükseltildi",
+        "İlahi bir cezayla tam bir yok oluş",
+        "Samimi tövbeden sonra affedildi.",
+        "Yeryüzüne dağılmış halde dolaşıyorlar"
+      ],
+      "answer": "İlahi bir cezayla tam bir yok oluş"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

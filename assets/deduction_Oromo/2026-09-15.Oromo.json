@@ -1,0 +1,61 @@
+{
+  "title": "Keessummeessitoota sodaa fide",
+  "intro": "Magaalaa hammeenyaan nyaate keessatti, hojjetaan amanamaan tokko guyyaa tokko daawwattoota utuu hin eegin argate. Nageenya isaaniif kan yaadda'e namni dhuunfaa kun eegumsa kan kennu yoo ta'u, ummanni magaalattii garuu waan nama qaanessu gaafate. Hojjetaan kun balaa akka dhufu akeekkachiifamee, maatii isaa wajjin dukkana haguugamee baqatee, magaalaa badiisaaf mallatteeffame dhiisee deeme. Amantiin kophaa isaa kun eenyu?",
+  "clues": [
+    "Ummata gocha qaanii irratti bobba’e tokkotti ergamaa ta’ee ergame.",
+    "Daawwattoonni hin eegamne gara mana koo kan dhufan siʼa taʼu, kan koo caalaa nageenya isaaniitiif nan yaaddaʼa ture.",
+    "Sabni koo akeeka hamaadhaaf keessummoota koo arguuf kan gaafatan siʼa taʼu, anis isaan waliin sababeeffachuu yaale.",
+    "Daawwattoonni koo ergamoota ta’anii of mul’isanii maatii koo fudhadhee halkan akkan deemu na ajajan.",
+    "Haati manaa koo waamicha miliquuf godhameef dhaggeeffachuu waan hin dandeenyeef badiisa saba kootu isa mudate.",
+    "Magaalaan koo rooba dhagaa suphee laayibarii ta’een garagalte, kutaaleen ishee olka’oon gadi aanaa fide."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Luut",
+        "Nabi Muusaa",
+        "Nabi Ibraahim",
+        "Nabi Nuh",
+        "Nabi Hud"
+      ],
+      "answer": "Nabi Luut"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Gaaffii sabni koo hammeenyaan keessummoota kootti akka dhiyaatu",
+        "Gabroomfataa jalaa miliquuf galaana addaan bahuu",
+        "Qoosaa gidduutti markaba guddaa ijaaruu",
+        "Qormaata amantii keessatti aarsaa ilma koo",
+        "Muuxannoo qurxummii guddaa tokkoon liqimfamuu"
+      ],
+      "answer": "Gaaffii sabni koo hammeenyaan keessummoota kootti akka dhiyaatu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Magaalaa diigamte kan saba koo",
+        "Gaara haasawa waaqummaa itti argadhe",
+        "Doonii bishaan lolaa guddaa keessa deeme",
+        "Gaala dubaraa dhagaa keessaa baate",
+        "Iddoo biqiltuu daawwataa qajeelaa dhokataa qabu"
+      ],
+      "answer": "Magaalaa diigamte kan saba koo"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Magaalaan koo osoo hin garagalfamin maatii koo waliin fayyeera",
+        "Ummata koo galaana ce'ee gara bilisummaatti geesse",
+        "Doonii guddaa tokkon ijaaree bishaan lolaa cimaa irraan hafe",
+        "Bubbee fi jinni irratti ol’aantummaa naaf kenname",
+        "Obsaan gidiraa dandamadhee maatiin badhaafameera"
+      ],
+      "answer": "Magaalaan koo osoo hin garagalfamin maatii koo waliin fayyeera"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

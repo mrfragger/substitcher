@@ -1,0 +1,61 @@
+{
+  "title": "İki Üfüq Arasında Fateh",
+  "intro": "İlahi rəhbərlik salnamələrində bir şəxs həm qüdrətli hökmdar, həm də Allahın təvazökar bir qulu kimi ayrıca dayanır. Bu şəxs yer üzünün ən ucqar nöqtələrinə səyahət edərək, günəşin qeyri-adi bir xalqın üzərinə doğduğunu və qara, bulanıq bir bulaqda batdığının şahidi oldu. Ən diqqətəlayiq hal odur ki, bu qul böyük fitnə-fəsad törədən bir xalqa qarşı fövqəladə bir sədd qurmaq vəzifəsi daşıyıb. Qurandakı bu əfsanəvi şəxsiyyəti tanıya bilərsinizmi?",
+  "clues": [
+    "Mənə yer üzündə ən mərhəmətli Allah tərəfindən güc və təsir verildi.",
+    "Günəşin doğduğu və batdığı yerə səyahət etdim",
+    "Mən bir kəlmə də çətinliklə başa düşən bir xalqa çatdım",
+    "Mənə dəmirdən istifadə edərək nəhəng bir sədd tikmək əmri verildi",
+    "İki dik dağ arasındakı boşluğu əridilmiş metal ilə möhürlədim",
+    "Mən nə mələk, nə də peyğəmbər idim, amma Allahın nemət verdiyi bir qul idim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Zülqərneyn (İki buynuzlu)",
+        "Kral Süleyman (Süleyman)",
+        "Peyğəmbər Zül-Kifl",
+        "Züln-Nun (Balıq Yoldaşı)",
+        "Baryer Mələyi"
+      ],
+      "answer": "Zülqərneyn (İki buynuzlu)"
+    },
+    "trial": {
+      "label": "Böyük Tapşırıq",
+      "options": [
+        "Cənnətə bir qüllə tikmək",
+        "Yəcuc və Məcucların qarşısına nəhəng dəmir sədd çəkmək",
+        "Hökm üçün qızıl taxt yaratmaq",
+        "Salehlər üçün dərin bir quyu qazmaq",
+        "Böyük daşqın zamanı gəmi inşa etmək"
+      ],
+      "answer": "Yəcuc və Məcucların qarşısına nəhəng dəmir sədd çəkmək"
+    },
+    "location": {
+      "label": "Ayar",
+      "options": [
+        "İki çay arasında Üzeyir diyarı",
+        "Günəşin doğuş yeri və qara palçıqlı bulaq",
+        "Məkkənin müqəddəs vadisi",
+        "Mədyən səhrası",
+        "Kipr adası"
+      ],
+      "answer": "Günəşin doğuş yeri və qara palçıqlı bulaq"
+    },
+    "outcome": {
+      "label": "İlahi vəd",
+      "options": [
+        "Əbədi cənnət dərhal verildi",
+        "Millət isti küləklə məhv edildi",
+        "Bu maneə qiyamət gününə qədər davam edəcək.",
+        "Bütün möminlər üçün ölümdən azadlıq",
+        "Sonu olmayan əbədi bir səltənət"
+      ],
+      "answer": "Bu maneə qiyamət gününə qədər davam edəcək."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

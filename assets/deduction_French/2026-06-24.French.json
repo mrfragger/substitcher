@@ -1,0 +1,61 @@
+{
+  "title": "Le Gardien de la Flamme Inextinguible",
+  "intro": "Une silhouette se dresse au seuil du lieu le plus redouté de l'invisible, investie d'une mission qu'aucun autre être ne désire. Lorsque les âmes souffrantes implorent la miséricorde, une réponse implacable résonne dans les chambres de feu. Saurez-vous percer le mystère de ce gardien éternel ?",
+  "clues": [
+    "Je me tiens à l'entrée d'un lieu de châtiment terrifiant, dans l'invisible.",
+    "Un feu ardent et inextinguible est au cœur de mon devoir solennel.",
+    "Des âmes souffrantes implorent mon nom, suppliant d'être soulagées de leur tourment sans fin.",
+    "Quand ils supplieront, je déclarerai qu'ils ne partiront jamais.",
+    "Je ne suis ni humain, ni djinn — je suis un être créé d'obéissance pure.",
+    "Je suis l'ange suprême désigné comme gardien éternel du Feu de l'Enfer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikaïl",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Les habitants de l'Enfer implorent la fin de leurs tourments.",
+        "On sonne de la trompette pour annoncer le Jour du Jugement.",
+        "Le Coran est révélé au cœur du Prophète",
+        "Un prophète est jeté dans un grand feu par son peuple.",
+        "Un mur puissant est construit pour contenir une nation corrompue"
+      ],
+      "answer": "Les habitants de l'Enfer implorent la fin de leurs tourments."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le Feu de l'Enfer (Jahannam)",
+        "Le lotus à la frontière du paradis",
+        "Une trompette perçante",
+        "Un bâton qui se transforme en serpent",
+        "Un trône divin magnifique"
+      ],
+      "answer": "Le Feu de l'Enfer (Jahannam)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il est dit aux habitants de l'Enfer qu'ils y resteront éternellement.",
+        "Les damnés de l'enfer sont pardonnés et libérés.",
+        "Les habitants de l'enfer se voient accorder une seconde chance de croire",
+        "Les habitants de l'enfer sont transférés dans un lieu de fraîcheur.",
+        "Les habitants de l'Enfer sont entièrement anéantis par la foudre."
+      ],
+      "answer": "Il est dit aux habitants de l'Enfer qu'ils y resteront éternellement."
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Entre a Terra e o Céu",
+  "intro": "Uma alma misteriosa aguarda você nas páginas sagradas da história divina, carregando sinais e maravilhas que ainda ecoam através dos tempos. Ao seguir o rastro de pistas, você embarcará em uma jornada por uma história marcada por milagres — de um início miraculoso a uma ascensão além dos céus. Conseguirá identificar este servo abençoado antes da pista final?",
+  "clues": [
+    "Fui enviado como mensageiro aos Filhos de Israel com novas de misericórdia e luz.",
+    "Meu nascimento foi um sinal milagroso — vim a este mundo sem pai, por ordem do Todo-Poderoso.",
+    "Eu falei ainda bebê, defendendo a honra da minha mãe contra as acusações do seu povo.",
+    "Com a permissão de Alá, moldei pássaros de barro e lhes dei vida — eles voaram diante dos olhos daqueles que observavam.",
+    "Eu curei cegos de nascença, curei leprosos e até ressuscitei mortos — contudo, todos esses milagres foram realizados com a permissão de Alá, não por minha própria iniciativa.",
+    "Quando meus inimigos conspiraram para me destruir, Alá me elevou aos céus e prometeu meu retorno antes do Dia do Juízo Final."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Isa (Jesus)",
+        "Profeta Musa (Moisés)",
+        "Profeta Ibrahim (Abraão)",
+        "Profeta Maomé",
+        "Profeta Yusuf (José)"
+      ],
+      "answer": "Profeta Isa (Jesus)"
+    },
+    "trial": {
+      "label": "O Momento Decisivo",
+      "options": [
+        "Fui elevado aos céus",
+        "Fui atirado em um incêndio devastador.",
+        "Enfrentei o poderoso exército do Faraó.",
+        "Fui engolido por uma grande baleia.",
+        "Construí uma arca na montanha"
+      ],
+      "answer": "Fui elevado aos céus"
+    },
+    "location": {
+      "label": "Sinal Sagrado Executado",
+      "options": [
+        "Modelei pássaros com argila.",
+        "Transformei um cajado em uma serpente.",
+        "Dividi a lua em duas.",
+        "Eu comandava o vento e os gênios.",
+        "Eu fiz sair de uma rocha uma camela."
+      ],
+      "answer": "Modelei pássaros com argila."
+    },
+    "outcome": {
+      "label": "O que aconteceu comigo?",
+      "options": [
+        "Elevado aos céus; prometeu retornar.",
+        "Tornou-se um grande governante de um império.",
+        "Liderou meu povo para fora do cativeiro",
+        "Recebeu riquezas terrenas incomparáveis.",
+        "Reencontrei minha família após uma longa separação."
+      ],
+      "answer": "Elevado aos céus; prometeu retornar."
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

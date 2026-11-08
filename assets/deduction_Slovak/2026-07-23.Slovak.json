@@ -1,0 +1,61 @@
+{
+  "title": "Armáda, ktorú stretla lietajúca hlina",
+  "intro": "V dobe pred prorokom Mohamedom spustil mocný jemenský vládca vojenskú kampaň zameranú na zničenie posvätnej svätyne v Mekke. Tento nepriateľ viedol obrovskú armádu vrátane vojnových slonov, sebavedomý v ich sile a počte. Ich cesta sa však náhle skončila, keď narazili na neočakávaný božský zásah. Viete identifikovať, kto čelil tomuto pozoruhodnému zúčtovaniu?",
+  "clues": [
+    "Pochodovali sme s obrovskou armádou a silnými vojnovými slonmi smerom k posvätnému domu",
+    "Mali sme v úmysle vyvrátiť a zničiť miesto uctievania postavené služobníkmi Najmilosrdnejšieho",
+    "Proti nám bol vyslaný kŕdeľ malých vtákov, ktoré v zobákoch a pazúroch niesli hlinené kamene.",
+    "Stretol nás zvuk, ktorý na nás hádzal kamene a premenil nás na pošliapané zvyšky",
+    "Pochádzal som z Jemenu a slúžil som pod vládcom, ktorý sa snažil chrániť posvätnú svätyňu.",
+    "Boli sme príkladom pre tých, ktorí by sa odvážili znesvätiť svätyňu Alaha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Armáda Abraha al-Ašram",
+        "Etiópske sily",
+        "Perzskí dobyvatelia",
+        "Rímske légie",
+        "Beduínski nájazdníci"
+      ],
+      "answer": "Armáda Abraha al-Ašram"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Obliehanie púštnej pevnosti",
+        "Invázia do posvätnej svätyne v Mekke",
+        "Námorná bitka na mori",
+        "Vzbura proti tyranskému kráľovi",
+        "Hľadanie strateného proroka"
+      ],
+      "answer": "Invázia do posvätnej svätyne v Mekke"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Údolie Mina neďaleko Mekky",
+        "Palác v Saná v Jemene",
+        "Vrchy Tihama",
+        "Staroveké mesto Jeruzalem",
+        "Pobrežie Červeného mora"
+      ],
+      "answer": "Údolie Mina neďaleko Mekky"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Víťazstvo a zničenie posvätného domu",
+        "Porážka vtákmi prenášajúcimi hlinené kamene",
+        "Pokojné odovzdanie a obrátenie",
+        "Hladomor a prírodné katastrofy",
+        "Ústup kvôli silným dažďom"
+      ],
+      "answer": "Porážka vtákmi prenášajúcimi hlinené kamene"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fiantohana ny Kibo",
+  "intro": "Tao amin'ny efitrano mangina tao amin'ny fo iray natokana ho an'Andriamanitra, dia noforonina ny voady masina iray. Nifantoka tamin'ny fiainana mbola tsy voafongotra io voady io, ary ny fahatanterahany dia hanova mandrakizay ny lalan'ny lova ara-panahy. Midira ao amin'ny misterin'ny fanahy iray izay nanakoako nandritra ny mandrakizay ny fampanantenany.",
+  "clues": [
+    "Nipetraka tao amin'ny tokantrano iray fantatra amin'ny fivavahana aho, ary naniry fanomezana izay hitondra ahy akaiky kokoa an'i Allah.",
+    "Nanao fanekena masina tamin'ny Tompoko aho momba izay niafina tato anatiko, ka nivoady fa hanokana izany manontolo ho amin'ny fanompoana Azy.",
+    "Rehefa tonga ny fotoana hanambarana ny zava-nitranga dia tsy nampoizina ny zavatra azoko, kanefa nanankina ny raharaha tamin'ilay Mahalala ny zava-drehetra aho.",
+    "Nomeko anarana ny zanako izay midika hoe fanoloran-tena, ary nitalaho fiarovana ho azy sy ny taranany tamin'ny ozona aho.",
+    "Napetraka tao amin'ny fitoerana masina ny zanako, teo ambany fiahian'ny mpaminany iray avy amin'ny taranak'i Arona.",
+    "Nanjary fantatra noho ny fahadiovany ny zanako vavy ary nofidina mihoatra noho ny vehivavy rehetra, ary taty aoriana dia renin'ny mpaminany lehibe iray izy, na dia tsy voakasika aza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny vadin'i Imran",
+        "Ny renin'i Musa",
+        "Ny vadin'i Farao",
+        "Ny vadin'i Al-Aziz",
+        "Ny renin'i Isa"
+      ],
+      "answer": "Ny vadin'i Imran"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Voady hanokana ny zanany ao am-bohoka ho an'ny tempoly",
+        "Fitsapana ny faharetana mandritra ny aretina maharitra",
+        "Dia lavitra ho an'ny finoana",
+        "Fifandonana tamin'ny mpanjaka jadona",
+        "Sakafo mahagaga avy any an-danitra"
+      ],
+      "answer": "Voady hanokana ny zanany ao am-bohoka ho an'ny tempoly"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ilay zaza antsoina hoe Maryam",
+        "Ilay tehina niova ho menarana",
+        "Ilay zanak'omby volamena",
+        "Ny lavadranon'i Zamzam",
+        "Ny sambofiaran'i Noa"
+      ],
+      "answer": "Ilay zaza antsoina hoe Maryam"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Neken'Andriamanitra ny zanany ary nitombo teo ambany fiahian'ny mpaminany",
+        "Lasa mpaminany ny zanany ary nahazo soratra masina",
+        "Nasandratra ho any an-danitra ny zanany",
+        "Nanorina trano masina ny zanany",
+        "Nomena fahendrena sy harena be dia be ny zanany"
+      ],
+      "answer": "Neken'Andriamanitra ny zanany ary nitombo teo ambany fiahian'ny mpaminany"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

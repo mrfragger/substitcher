@@ -1,0 +1,61 @@
+{
+  "title": "Pernati izviđač",
+  "intro": "U kraljevstvu kojim je vladao netko kome je dodijeljena vlast nad vjetrovima, nevidljivim bićima i nebeskim stvorenjima, jedan mali i brzi član nestao je iz redova - samo da bi se vratio s otkrićima koja će preoblikovati sudbinu daleke nacije. Ovaj oštroumni doušnik iznio je istinu na vidjelo tamo gdje se ukorijenilo neznanje. Tko sam ja?",
+  "clues": [
+    "Služio sam na dvoru gdje su ljudi, nevidljiva bića i nebeska stvorenja odgovarali jednom mudrom vladaru koji je zapovijedao samim vjetrovima.",
+    "Bio sam neko vrijeme odsutan sa svog položaja, a vladarov gnjev bio je obećan ako ne pružim zadovoljavajući razlog.",
+    "Ja sam malo stvorenje leta, poznato po oštrom vidu, a moja vrsta je počašćena izravnim imenovanjem na stranicama otkrivenja.",
+    "Kad sam se vratio, donio sam vijesti o dalekoj zemlji gdje su se ljudi klanjali suncu, slijepi za Onoga koji je stvorio nebesa i zemlju.",
+    "Našao sam ženu kako vlada velikim kraljevstvom, sjedi na veličanstvenom prijestolju, nikada prije ne poznajući istinu.",
+    "Ja sam onaj koji je otkrio carstvo Sabe i nosio pozivno pismo od kralja-proroka kojem je dana vlast nad vjetrom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Pupavac (Hudhud)",
+        "Mrav iz Sulejmanove doline",
+        "Asif ibn Barkhiya",
+        "Ifrit Džin",
+        "Anđeo s prijestolja"
+      ],
+      "answer": "Pupavac (Hudhud)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Ekspedicija u Kraljevstvo Saba (Šeba)",
+        "Sukob s faraonovim čarobnjacima",
+        "Potop proroka Nuha",
+        "Uništenje naroda Ad",
+        "Razdvajanje Crvenog mora"
+      ],
+      "answer": "Ekspedicija u Kraljevstvo Saba (Šeba)"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zemlja Saba (Šeba)",
+        "Planina Sinaj",
+        "Kovčeg proroka Nuha",
+        "Pećina Ashab al-Kahf",
+        "Faraonova palača"
+      ],
+      "answer": "Zemlja Saba (Šeba)"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Bilkis se pokorio Sulejmanovom dvoru",
+        "Faraon i njegova vojska utopili su se u moru",
+        "Ljudi iz Ada su uništeni snažnim vjetrom",
+        "Faraonovi čarobnjaci vjerovali su u proroka Musu",
+        "Velika poplava je progutala nevjernike"
+      ],
+      "answer": "Bilkis se pokorio Sulejmanovom dvoru"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

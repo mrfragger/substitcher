@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tahimik na Tinig ng Lambak",
+  "intro": "Balikan ang panahon ng isang makapangyarihang bayan na minsang nakatanggap ng isang buhay na himala bilang pagsubok. Ang kayabangan at katigasan ng ulo ang nagselyo sa kanilang kapalaran. Matusubaybayan mo ba ang kwento at matutuklasan ang mga pangyayari sa dramatikong pagbabagong ito?",
+  "clues": [
+    "Ako ay isinugo bilang isang banal na pagsubok sa isang makapangyarihang bayang kilala sa kanilang lakas at pagsuway.",
+    "Isa akong kakaibang kababalaghan—ang mga tulad ko ay hindi pa kailanman lumitaw sa kanila.",
+    "Nagbahagi ako ng inuming tubig mula sa balon kasama ang aking mga kamag-anak sa iba't ibang araw.",
+    "Binalaan sila na ang anumang pinsalang gagawin sa akin ay magdudulot ng agarang parusa.",
+    "Hindi pinansin ng pinakamatapang sa kanila ang babala at pinigilan ako.",
+    "Pagkatapos ng aking pagkamatay, isang malakas na sigaw mula sa itaas ang sumira sa aking buong bayan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang Babaeng Kamelyo ni Salih",
+        "Ang Baka ni Musa",
+        "Ang Barko ni Nuh",
+        "Ang Tungkod ni Musa",
+        "Ang Trono ni Bilqis"
+      ],
+      "answer": "Ang Babaeng Kamelyo ni Salih"
+    },
+    "trial": {
+      "label": "Ang Aking Kapalaran",
+      "options": [
+        "Pinigilan at pinatay",
+        "Kinatay bilang sakripisyo",
+        "Naging ahas",
+        "Napreserba sa panahon ng malaking baha",
+        "Mabilis na dinala sa isang kaharian"
+      ],
+      "answer": "Pinigilan at pinatay"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang balon ng tubig",
+        "Isang tapyas ng bato",
+        "Isang nasusunog na palumpong",
+        "Isang arka na gawa sa kahoy",
+        "Isang trono na gawa sa ginto at pilak"
+      ],
+      "answer": "Isang balon ng tubig"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nawasak sa isang iglap",
+        "Nalunod sa isang malaking baha",
+        "Nasusunog ng ulan ng mga bato",
+        "Sinalanta ng malakas na hangin",
+        "Nilamon ng lupa"
+      ],
+      "answer": "Nawasak sa isang iglap"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

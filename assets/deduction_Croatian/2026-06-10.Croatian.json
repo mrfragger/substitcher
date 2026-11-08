@@ -1,0 +1,61 @@
+{
+  "title": "Čuvari vrta",
+  "intro": "U bujnom vrtu, zajednica je dala svečani zavjet. Ali njihova je odlučnost bila testirana kada je božanska volja intervenirala, pretvorivši njihovo obilje u neplodnu zemlju.",
+  "clues": [
+    "Bili smo blagoslovljeni obilnim vrtom, ali smo postali arogantni.",
+    "Napravili smo plan za žetvu bez dijeljenja sa siromašnima.",
+    "Krenuli smo rano ujutro, sigurni u naš plan.",
+    "Ali kad smo stigli, otkrili smo da nam je vrt uništen preko noći.",
+    "Shvatili smo svoju grešku i počeli smo se međusobno kriviti.",
+    "Na kraju smo se pokajali, ali lekciju smo naučili prekasno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko smo mi?",
+      "options": [
+        "Ljudi iz vrta",
+        "Ljudi iz pećine",
+        "Ljudi slona",
+        "Ljudi iz Semuda",
+        "Ljudi iz 'Ad"
+      ],
+      "answer": "Ljudi iz vrta"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Vrt pretvoren u pepeo",
+        "Poplava koja je sve uništila",
+        "Glad koja je pogodila zemlju",
+        "Vojska ptica napada",
+        "Snažan vjetar koji je čupao drveće s korijenom"
+      ],
+      "answer": "Vrt pretvoren u pepeo"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrt",
+        "Špilja",
+        "Brod",
+        "Planina",
+        "Palača"
+      ],
+      "answer": "Vrt"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pokajali su se, ali su izgubili svoj vrt",
+        "Bili su potpuno uništeni",
+        "Pretvoreni su u majmune",
+        "Spašeni su vjerom",
+        "Postali su vladari"
+      ],
+      "answer": "Pokajali su se, ali su izgubili svoj vrt"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

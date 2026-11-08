@@ -1,0 +1,61 @@
+{
+  "title": "Xurmo palmasi soyasida",
+  "intro": "Tug'ilishdan oldin ajratilgan, muqaddas devorlar ichida tarbiyalangan va dunyo hech qachon ko'rmagan belgini ko'tarishga tanlangan ruh haqida hikoya qilinadi. Har tomondan ayblovlar ko'tarilganda, barcha shubhalarni o'chirish uchun eng kutilmagan joylardan bir ovoz keldi. Xurmo soyasida kim yurganini aniqlay olasizmi?",
+  "clues": [
+    "Men birinchi nafasimni olishdan oldin ham Qodir Tangriga xizmat qilishga bag'ishlangan edim, bu meni ko'tarib yurgan Zotning qasami edi.",
+    "Men ibodatxonaning muqaddas xonalarida solih qo'riqchining nazorati ostida ulg'ayganman.",
+    "Qo'riqchim har safar mening xonamga kelsa, u men bilan mavsumiy oziq-ovqatlarni topib olardi, ular esa bo'lmasligi kerak edi.",
+    "Va'da qilingan narsaga sharoitim imkon bermasa ham, menga o'g'il tug'ilishi haqida xushxabar berildi.",
+    "Men uzoq bir joyga chekindim va u yerda xurmo daraxti menga soya soldi, ostidan esa daryo oqardi.",
+    "Ayblovlar paydo bo'lib, savollar meni o'rab olganida, men yangi tug'ilgan chaqalog'imga ishora qildim - va u beshikdan boshlab har qanday shubhani o'chirish uchun gapirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Havva",
+        "Umm Muso",
+        "Nuhning xotini"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Sinov / Tadbir",
+      "options": [
+        "Mo''jizaviy o'g'ilni yolg'izlikda dunyoga keltirish",
+        "Butparastlar tomonidan alangali olovga tashlanish",
+        "Tanlangan bir nechta odamlar bilan buyuk to'fondan omon qolish",
+        "Daryoga tashlangan go'dakdan ajralish",
+        "Misrning qudratli hukmdori bilan to'qnashish"
+      ],
+      "answer": "Mo''jizaviy o'g'ilni yolg'izlikda dunyoga keltirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Xurmo daraxti va uning ostida oqayotgan oqim",
+        "Baland to'lqinlar ustidagi qudratli kema",
+        "Katta dengizni ikkiga bo'lib yuborgan tayoq",
+        "Sodiq qalbni yutib yuborish uchun mo'ljallangan alangali olov",
+        "Qimmatbaho toshlar bilan bezatilgan oltin taxt"
+      ],
+      "answer": "Xurmo daraxti va uning ostida oqayotgan oqim"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Barcha ayollarning eng yuksaklari sifatida e'tirof etilgan",
+        "Uzoq vaqtdan beri ayriliqdan keyin sevimli farzandi bilan qayta uchrashdi",
+        "Butun bir xalqni zolim qulligidan ozod qildi",
+        "Axloqsizlikka berilib ketgan xalqni ogohlantirdi",
+        "Jinlar, insonlar va shamollar ustidan hukmronlik berildi"
+      ],
+      "answer": "Barcha ayollarning eng yuksaklari sifatida e'tirof etilgan"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

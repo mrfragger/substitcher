@@ -1,0 +1,61 @@
+{
+  "title": "Na Finnéithe Caillte",
+  "intro": "I ré fhada a chuaigh thart, bhí pobal ina chónaí i gcrosbhóthar idir impireachtaí. Thug a bhfáidh treoir dóibh i dtreo chonair na fírinne, ach lean siad le heaspa creidimh agus le leatrom. Críochnaíonn an scéal seo le díoltas diaga. An féidir leat an náisiún seo agus a gcinniúint a aithint ó na leideanna thíos?",
+  "clues": [
+    "Dhiúltaigh pobal don rabhadh a thug duine dá dteachtairí féin.",
+    "Ghlaoigh an teachtaire orainn adhradh a dhéanamh d’Allah ina aonar agus thug sé rabhadh i gcoinne an éillithe.",
+    "Ba é ár gcion diúltú don fháidh a cuireadh inár measc le fíréantacht.",
+    "Chuireamar amhras ar údarás an teachtaire agus chuireamar meabhlaireacht ina leith.",
+    "Bhuail an pionós sinn agus muid ag maireachtáil go slán inár dtithe.",
+    "Scriosadh sinn as ár bhfáidh a shéanadh agus as géarleanúint a dhéanamh ar na creidmhigh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lút",
+        "Núh",
+        "Músa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag fáil fáidh a ghlaoigh chun fíréantachta",
+        "Á thástáil le gorta",
+        "Ag fáil léirmhíniú aisling",
+        "Ag Glacadh leis an Torah",
+        "Ag taisteal tríd an bhfarraige"
+      ],
+      "answer": "Ag fáil fáidh a ghlaoigh chun fíréantachta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Midian",
+        "Babilón",
+        "Sodom",
+        "An Mhuir Rua",
+        "An Áirc"
+      ],
+      "answer": "Midian"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosadh na daoine mar gheall ar an easpa creidimh",
+        "Rinne na daoine aithrí agus tugadh treoir dóibh",
+        "Chuaigh na daoine isteach i bParthas",
+        "Mhair na daoine agus d’éirigh leo",
+        "D’imigh na daoine go dtí tír nua"
+      ],
+      "answer": "Scriosadh na daoine mar gheall ar an easpa creidimh"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La ciudad perdida de una majestad inigualable",
+  "intro": "Una poderosa civilización dominó vastas extensiones de tierra, célebre por sus imponentes estructuras que se elevaban hacia el cielo. Sin embargo, bajo esta grandeza, crecía una obstinada negación: una negativa a escuchar la advertencia divina enviada desde dentro de la propia comunidad. El orgullo y la arrogancia pronto desatarían un castigo como jamás se había visto en la tierra ni en el cielo.",
+  "clues": [
+    "En otro tiempo, gobernamos vastas extensiones de tierra, jactándonos de una fuerza que creíamos que ninguna otra civilización podía igualar.",
+    "Nuestro reino era famoso por sus imponentes estructuras con poderosos pilares que se erguían sin igual en todas las tierras conocidas.",
+    "Un portavoz de nuestra propia comunidad se levantó, instándonos a cada uno de nosotros a someternos únicamente al Único Creador.",
+    "Negamos el mensaje que se nos transmitió y nos negamos a abandonar el camino que habíamos heredado.",
+    "Un viento furioso y aullante de una severidad abrumadora se desató contra nosotros, dejándonos completamente indefensos.",
+    "Nos dejaron como troncos huecos de palmeras, dispersos y olvidados, como una lección para todas las generaciones venideras."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Gente de A'ad",
+        "Pueblo de Nuh",
+        "Pueblo de Lut",
+        "Pueblo de Madyan",
+        "Gente de Tubba'"
+      ],
+      "answer": "Gente de A'ad"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Un viento furioso e implacable de castigo severo",
+        "Una inundación que cubrió todas las cumbres de las montañas.",
+        "Una lluvia de piedras de arcilla ardiente desde arriba",
+        "Un único grito aterrador proveniente del cielo.",
+        "Un violento terremoto que partió la tierra"
+      ],
+      "answer": "Un viento furioso e implacable de castigo severo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Iram, la ciudad de las altas columnas",
+        "Un enorme arca de madera construida sobre una montaña.",
+        "Una camella que surgió milagrosamente de la piedra.",
+        "El monte Sinaí, donde descendieron los mandamientos divinos.",
+        "Un palacio de cristal y vidrio fino con vistas a aguas cristalinas."
+      ],
+      "answer": "Iram, la ciudad de las altas columnas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Quedaron como troncos huecos de palmeras, dispersos y sin vida.",
+        "Ahogados bajo las abrumadoras olas de una gran inundación.",
+        "Transformados en criaturas parecidas a simios y cerdos.",
+        "Aplastado bajo una lluvia de piedras de arcilla endurecida",
+        "Consumido en un único grito ensordecedor que traspasó el alma."
+      ],
+      "answer": "Quedaron como troncos huecos de palmeras, dispersos y sin vida."
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

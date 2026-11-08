@@ -1,0 +1,61 @@
+{
+  "title": "Trở ngại tại ngôi nhà cổ",
+  "intro": "Tại thành phố linh thiêng, một nhân vật quyền lực sôi sục giận dữ khi một thông điệp mới bắt đầu lan truyền. Cá nhân này, người mà tên tuổi trở nên đồng nghĩa với sự chống đối chân lý, chứng kiến ​​ảnh hưởng của mình sụp đổ dưới sức nặng của sự mặc khải thiêng liêng. Linh hồn này là ai, người mà số phận đã được định đoạt trên cát của một chiến trường nổi tiếng?",
+  "clues": [
+    "Tôi là một thủ lĩnh trong bộ tộc mình, nổi tiếng về sự giàu có và tầm ảnh hưởng trong một thành phố có thánh địa cổ xưa.",
+    "Khi một người đàn ông trong bộ tộc tôi bắt đầu rao giảng về thông điệp của một Thượng đế duy nhất, tôi đã chế giễu ông ta và những lời mặc khải của ông, gọi chúng chỉ là những câu chuyện cổ tích của quá khứ.",
+    "Tôi đã đối mặt với người đàn ông đó khi ông ta đang cầu nguyện gần công trình linh thiêng, đe dọa sẽ dùng vũ lực để ngăn cản việc thờ cúng của ông ta nếu cần thiết.",
+    "Tôi nằm trong số những người lãnh đạo âm mưu dập tắt tôn giáo mới, chống lại những người theo đạo bằng cả lời nói và vũ khí.",
+    "Tôi dẫn một đạo quân tiến đến một nơi gọi là Badr, tin chắc rằng chúng tôi sẽ nghiền nát nhóm tín đồ nhỏ bé đó.",
+    "Nhưng trên chiến trường ấy, cuộc đời tôi đã kết thúc, và cái chết của tôi trở thành bài học cho những kẻ vẫn ngoan cố không tin dù đã có những dấu hiệu rõ ràng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Ngăn cản Nhà tiên tri cầu nguyện tại Kaaba",
+        "Xây dựng Kaaba",
+        "Viết kinh Qur'an",
+        "Dẫn đầu đội quân voi",
+        "Chia đôi mặt trăng"
+      ],
+      "answer": "Ngăn cản Nhà tiên tri cầu nguyện tại Kaaba"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Kaaba",
+        "Hòm Giao Ước của Tiên Tri Nuh",
+        "Cây gậy của Tiên tri Musa",
+        "Con bê vàng",
+        "Ngai vàng của Nữ hoàng Sheba"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Tử trận trong trận Badr",
+        "Hối cải và trở thành người Hồi giáo",
+        "Trốn sang Abyssinia",
+        "Mất vào năm con voi",
+        "Trở thành người bạn đồng hành của Nhà tiên tri"
+      ],
+      "answer": "Tử trận trong trận Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

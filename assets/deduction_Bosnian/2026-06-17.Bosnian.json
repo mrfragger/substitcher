@@ -1,0 +1,61 @@
+{
+  "title": "Odjek s ruba grada",
+  "intro": "U gradu koji se okrenuo od božanskog vodstva, usamljena figura pojavila se iz predgrađa, noseći poruku nade i upozorenja. Ova zaboravljena duša postala je vječni simbol nepokolebljive vjere.",
+  "clues": [
+    "Svjedočio sam slanju glasnika u moj grad, ali moj narod ih je odbacio kao obične ljude.",
+    "Vjerovao sam u njihovu poruku i osjetio kako istina odjekuje u mom biću.",
+    "Pozvao sam svoj narod da posluša glasnike koji nisu tražili nagradu.",
+    "Trčao sam s najudaljenijeg kraja grada, hitno pokušavajući da ih urazumim.",
+    "Moj narod se pobunio protiv mene i ja sam ubijen, ali sam našao vječni mir.",
+    "Allah mi je rekao: 'Uđi u Džennet', i poželio sam da moj narod može svjedočiti časti koja mi je ukazana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Vjernik Ya-Sina",
+        "Uzair Pitalac",
+        "Al-Khidr Vodič",
+        "Vjernik faraonove porodice",
+        "Namrud Tiranin"
+      ],
+      "answer": "Vjernik Ya-Sina"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Suočavanje s nevjerujućim narodom koji ga je ubio",
+        "Biti bačen u plamteću vatru",
+        "Biti progutan od strane velike ribe",
+        "Izgradnja ogromne arke",
+        "Bježeći od vojske tiranina"
+      ],
+      "answer": "Suočavanje s nevjerujućim narodom koji ga je ubio"
+    },
+    "location": {
+      "label": "Ključna lokacija",
+      "options": [
+        "Najudaljeniji kraj grada",
+        "Planina Tur",
+        "Dolina mrava",
+        "Obale Nila",
+        "Pećina pećine"
+      ],
+      "answer": "Najudaljeniji kraj grada"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Mučeništvo i trenutni ulazak u Raj",
+        "Bijeg i spasenje",
+        "Uznesenje na nebesa",
+        "Utapanje u moru",
+        "Pretvaranje u kamen"
+      ],
+      "answer": "Mučeništvo i trenutni ulazak u Raj"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

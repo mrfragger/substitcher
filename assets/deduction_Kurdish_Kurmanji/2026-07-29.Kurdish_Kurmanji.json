@@ -1,0 +1,61 @@
+{
+  "title": "Şopandina Dadgehê",
+  "intro": "Di korîdorên desthilatdariyê de, kesayetiyek bi payebilind bi xizmetkarekî ku bedewiya wî ji dinyayekê din bû, evîndar bû. Ev evîn bû sedema rêze bûyerên ku dê dilsoziyê biceribînin, rastiyên veşartî eşkere bikin, û di dawiyê de bêgunehiya xizmetkar piştrast bikin.",
+  "clues": [
+    "Ez li welatê Nîlê, li qesreke xwedî bandorek mezin dijiyam.",
+    "Xortek hat mala min, û hebûna wî dinyaya min tevlihev kir.",
+    "Min hewl da ku wî bixapînim, lê wî xwe avêt ber Xwedayê xwe.",
+    "Min cilê wî ji pişt ve qetand, lê delîl xapandina min nîşan dida.",
+    "Ji bo bêdengkirina gotegotên jinên esilzade, min ew vexwend civînekê û tiştên tûj danîn destên wan.",
+    "Di dawiyê de, min bi eşkereyî sûcê xwe îtîraf kir û li ber padîşah rastî qebûl kir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Jina El Ezîz",
+        "Asya (Jina Fîrewn)",
+        "Bilqis (Şahbanûya Şebayê)",
+        "Meryem (Dayika Îsa)",
+        "Dayîka Mûsa"
+      ],
+      "answer": "Jina El Ezîz"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Wê hewl da ku Pêxember Yûsif bixapîne",
+        "Wê hewl da ku Pêxember Mûsa bikuje",
+        "Wê îdîa kir ku xwedawendek e",
+        "Wê ji bo ku Xwedê bike dijber, bircêk ava kir",
+        "Wê artêşek li dijî Mekkeyê bi rê ve bir."
+      ],
+      "answer": "Wê hewl da ku Pêxember Yûsif bixapîne"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kirasêk ji pişt ve hatiye çirandin",
+        "Golikê zêrîn",
+        "Dara ku veguherî mar",
+        "Deveyekî mê",
+        "Çirayek"
+      ],
+      "answer": "Kirasêk ji pişt ve hatiye çirandin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Wê rastî qebûl kir û mikur hat",
+        "Ew bi artêşa xwe re xeniqî",
+        "Ew veguherî stûnek xwê",
+        "Ew ji aliyê erdê ve hate xwarê",
+        "Ew ji hêla bayê qîrîn ve hate wêrankirin"
+      ],
+      "answer": "Wê rastî qebûl kir û mikur hat"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

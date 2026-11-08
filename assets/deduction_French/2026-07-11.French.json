@@ -1,0 +1,61 @@
+{
+  "title": "Les voyageurs du champ verdoyant",
+  "intro": "Jadis, deux hommes cultivaient des terres voisines. Leurs chemins s'entremêlaient, mais leurs cœurs les menaient vers des horizons radicalement différents. L'un suivit la voie droite, tandis que l'autre s'égara dans les ténèbres du déni. Saurez-vous percer le mystère de ces deux gardiens des moissons ?",
+  "clues": [
+    "J'avais des récoltes abondantes, des moisson luxuriantes qui éblouissaient les regards des spectateurs.",
+    "Mon voisin possédait des richesses encore plus grandes que les miennes, et pourtant je convoitais sa part plus que la mienne.",
+    "J'ai suggéré de détruire entièrement leurs récoltes, afin de tout centraliser sous mon contrôle.",
+    "J'ai aussi ruiné ma propre récolte, détruisant tout par mes plans insensés.",
+    "Je suis resté impuissant tandis que mes récoltes se desséchaient et que ma richesse se transformait en poussière en une seule nuit.",
+    "Je n'ai eu aucune part à l'au-delà, et ma demeure finale est devenue une fosse de feu ardent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "L'homme qui niait la résurrection et le jugement",
+        "Le souverain qui a opprimé le juste paysan",
+        "Le riche propriétaire terrien qui manquait de gratitude",
+        "Le fermier qui convoitait les terres de son voisin",
+        "Le partenaire perfide qui a comploté la destruction"
+      ],
+      "answer": "Le fermier qui convoitait les terres de son voisin"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "L'épreuve de la réception de la révélation divine",
+        "Le défi de la richesse et de la patience",
+        "La tentation de détruire les moyens de subsistance d'une personne juste",
+        "L'ordre de partager l'héritage équitablement",
+        "La lutte contre l'oppression d'un tyran"
+      ],
+      "answer": "La tentation de détruire les moyens de subsistance d'une personne juste"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Les jardins verdoyants du paradis",
+        "Deux champs de cultures voisins",
+        "Les montagnes qui ont été témoins de la destruction",
+        "Le sanctuaire sacré de La Mecque",
+        "Les rives d'une terre bénie"
+      ],
+      "answer": "Deux champs de cultures voisins"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Le paradis éternel comme récompense pour la droiture",
+        "Destruction totale des deux récoltes dans cette vie",
+        "L'exil et l'errance jusqu'à la mort",
+        "Prospérité temporaire suivie du feu éternel",
+        "Une restauration miraculeuse et une générosité doublée"
+      ],
+      "answer": "Destruction totale des deux récoltes dans cette vie"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

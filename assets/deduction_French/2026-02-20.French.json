@@ -1,0 +1,61 @@
+{
+  "title": "Le témoin du feu",
+  "intro": "Une personne d'une grande profondeur, vouée à la découverte de la réalité ultime, s'est lancée dans un cheminement spirituel. Sa conviction inébranlable l'a conduite à remettre en question les normes établies, affrontant d'immenses épreuves qui ont mis sa foi à rude épreuve. L'histoire de cette âme témoigne de la protection et de la guidance divines.",
+  "clues": [
+    "J'ai reçu de mon Seigneur un titre unique, symbole d'un lien profond et particulier.",
+    "J'ai passé mon enfance parmi un peuple qui vénérait des images fabriquées, mais mon cœur aspirait au seul vrai Dieu.",
+    "J'observai les astres, le soleil, la lune et les étoiles, contemplant leur lever et leur coucher, et concluant qu'ils ne pouvaient être mon Seigneur.",
+    "Dans un acte de défiance contre le polythéisme répandu, j'ai affronté les fausses divinités, laissant intacte une divinité solitaire et plus grande, telle une accusatrice silencieuse.",
+    "Mon défi à l'idolâtrie m'a valu un châtiment sévère : j'ai été condamné à être jeté dans un brasier infernal.",
+    "Pourtant, par la volonté de mon Créateur, les flammes intenses se sont transformées en une source de fraîcheur et de sécurité, me préservant la vie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Moïse",
+        "Prophète Noé",
+        "Le prophète Ibrahim",
+        "Le prophète Isaïe",
+        "Prophète Yusuf"
+      ],
+      "answer": "Le prophète Ibrahim"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Traversée de la mer Rouge",
+        "Le déluge",
+        "Le sacrifice d'un fils",
+        "L'épreuve du feu",
+        "Le ventre de la baleine"
+      ],
+      "answer": "L'épreuve du feu"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "La trompette",
+        "Le feu",
+        "Le puits"
+      ],
+      "answer": "Le feu"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Conduit les gens en sécurité",
+        "Il a hérité d'un grand royaume",
+        "A été avalé par un poisson",
+        "A été sauvé des flammes",
+        "J'ai reçu les tablettes"
+      ],
+      "answer": "A été sauvé des flammes"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ezkutuko Konbentzimenduaren Ahotsa",
+  "intro": "Tiranoen auzitegi baten bihotzean, non sinesgaiztasuna zen herrialdeko legea, arima bakarti bat fedearen eta beldurraren soka tenkatuan ibili zen. Boterearen erdigunetik gertu zegoen pertsona honek profeta baten mezua mespretxuz eta mehatxuz hartua entzun zuen. Egiaren une bat iritsi zen, pertsona hau isiltasun segurtasunaren eta egia arriskutsu bat esatearen artean aukeratzera behartuz. Aurkitu al dezakezu defendatzaile ausart honen nortasuna?",
+  "clues": [
+    "Tirano baten etxean bertan bizi izan nintzen, jainkozko seinaleak arbuiatzen zituen harrokeria lehen eskuko lekuko izan nintzen.",
+    "Nire fedea sekretuan gorde nuen, idolatria jauregi batean ezkutatutako altxor bat bezala.",
+    "Entzun nuen zerbitzatzen nuen buruzagiak Alaren mezulari bat, Musa izeneko gizon bat, hiltzeko planak egiten zituela.",
+    "Haien logika zalantzan jarri nuen, Nuh, 'Ad eta Thamud-eko jendearen patua gogoraraziz.",
+    "Galdera kritiko bat egin nien nire herriari: «Gezurtia bada, gezurra beraren errua da; baina egiazkoa bada, agintzen duenaren zati bat harrituko zaituzte».",
+    "Nire istorioa fedearen adibide gisa kontatzen da 'Barkatzailea' izeneko suran, non nire herria boteretsuen azpijokoen aurka ohartarazi nuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Fir'awnen familiako sinestuna",
+        "Haman",
+        "Fir'awneko magoak",
+        "Qarun",
+        "Samiriarrak"
+      ],
+      "answer": "Fir'awnen familiako sinestuna"
+    },
+    "trial": {
+      "label": "Zein izan zen nire epaiketa?",
+      "options": [
+        "Musa profeta defendatzea tiranoaren auzitegian",
+        "Dorre garai bat eraikitzen zerura iristeko",
+        "Su bizian sartuta egotea",
+        "Arrain erraldoi batek irentsi izana",
+        "Aberastasun eta osasun guztia galtzea"
+      ],
+      "answer": "Musa profeta defendatzea tiranoaren auzitegian"
+    },
+    "location": {
+      "label": "Zein izan zen nire argudioaren gaia?",
+      "options": [
+        "Profeta baten mezua baztertzearen ondorioak",
+        "Zuhaitz sakratu batetik seinale baten eskaera",
+        "Txahal bat urtutako bitxietatik sortzea",
+        "Gamelu bat harkaitzetik ateratzearen miraria",
+        "Agintari baten ametsen interpretazioa"
+      ],
+      "answer": "Profeta baten mezua baztertzearen ondorioak"
+    },
+    "outcome": {
+      "label": "Zein izan zen emaitza?",
+      "options": [
+        "Ala-k pertsona hau salbatu zuen haien plan gaiztotik",
+        "Auzitegi osoak berehala onartu zuen Islama",
+        "Tiranoa damutu zen itotzean",
+        "Tiranoa lurrak irentsi zuen",
+        "Pertsona lurralde urrun batera erbesteratu zuten"
+      ],
+      "answer": "Ala-k pertsona hau salbatu zuen haien plan gaiztotik"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

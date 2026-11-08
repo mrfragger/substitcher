@@ -1,0 +1,61 @@
+{
+  "title": "Ang Pagsubok sa Sagradong Apoy",
+  "intro": "Sa isang sinaunang lupain kung saan ang debosyon sa inukit na bato ay nag-ugat sa bawat tahanan, may isang indibidwal na namuhay nang kakaiba. Sa pamamagitan ng matibay na paniniwala at banal na proteksyon, hinarap nila ang dapat sana'y tiyak na kamatayan — at nakaalis nang walang pinsala. Matutuklasan mo ba ang pagkakakilanlan ng kahanga-hangang kaluluwang ito?",
+  "clues": [
+    "Lumaki ako kasama ng mga taong yumuyuko sa mga idolo na inukit nila gamit ang sarili nilang mga kamay, na naniniwalang ang mga bagay na ito ay may taglay na banal na kapangyarihan.",
+    "Nang hamunin ko ang kanilang mga paniniwala, binalewala nila ako noong una, ngunit hindi ako maaaring manahimik tungkol sa katotohanang alam ko.",
+    "Nang araw na sila'y tinipon, winasak ko ang kanilang mga diyus-diyosan, at ang pinakamalaki lamang ang iniwan kong hindi ginalaw.",
+    "Nang bumalik sila at makita ang aking ginawa, iniutos ng kanilang mga pinuno na magtayo ng isang malaking sunog, sa balak na ihagis ako sa apoy.",
+    "Itinapon nila ako sa nagliliyab na apoy, ngunit inutusan ng Panginoon ng mga sanlibutan na ito ay maging malamig at ligtas para sa akin.",
+    "Lumabas ako mula sa apoy nang walang anumang pinsala, habang ang mga nagbalak laban sa akin ay naharap sa lubos na kapahamakan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Noah",
+        "Propeta Isa",
+        "Propeta Yusuf"
+      ],
+      "answer": "Propeta Ibrahim"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Itinapon sa nagliliyab na apoy",
+        "Nilunok ng isang malaking balyena",
+        "Nakaligtas sa isang malaking baha",
+        "Inihagis sa isang malalim na balon",
+        "Pagharap sa mga salamangkero ng isang hari"
+      ],
+      "answer": "Itinapon sa nagliliyab na apoy"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang napakalaking bunton ng nasusunog na kahoy",
+        "Isang malaking arkang gawa sa kahoy",
+        "Isang ginintuang estatwa ng guya",
+        "Isang lumulutang na basket sa ilog",
+        "Isang kahanga-hangang trono"
+      ],
+      "answer": "Isang napakalaking bunton ng nasusunog na kahoy"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ginawa ni Allah na malamig at ligtas ang apoy",
+        "Ligtas na lumapag ang arka sa isang bundok",
+        "Natunaw ang ginintuang idolo sa harap ng kanilang mga mata",
+        "Isang mapang-api at ang kanyang hukbo ang nalunod sa dagat",
+        "Nanumbalik ang paningin ng isang bulag"
+      ],
+      "answer": "Ginawa ni Allah na malamig at ligtas ang apoy"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

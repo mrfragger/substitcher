@@ -1,0 +1,61 @@
+{
+  "title": "Hääl, mis seadis kahtluse alla iidoli valitsusaja",
+  "intro": "Kõigevägevama sõnumitoojate seas oli vankumatu teener, kes tõusis kangekaelse rahva seast tõde edastama. Nende rahvas oli omaks võtnud väljamõeldud jumaluse, pöördudes ära kõige olemasoleva Loojast. Vankumatu otsusekindlusega kutsus see inimene nad tagasi – kuid sõnumit võeti eitamise ja tagasilükkamisega. Astuge läbi vihjete, et teada saada, kes see pühendunud teener oli.",
+  "clues": [
+    "Mind saadeti sõnumitoojana kangekaelse rahva juurde, kes oli sirgelt teelt kaugele eksinud.",
+    "Ma tulin oma rahvale meelde tuletama Teda, kes lõi kõik olemasoleva – parimat kõigist loojatest.",
+    "Mu rahvas oli pöördunud valejumala poole, mida nad kummardasid ja mille poole nad päeval ja öösel hüüdsid.",
+    "Ma esitasin neile julge väljakutse, küsides, miks nad peaksid kummardama väljamõeldud jumalust ja hülgama oma tõelise Issanda.",
+    "Nad salgasid mind, keeldusid kuulamast ja hoidsid kõvasti kinni oma valedest – ometi hoidis mu Issand mind.",
+    "Mina olen Iljas – ja mulle anti rahu ning mind arvati Kõigehalastavama usklike teenrite hulka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ilja",
+        "Prohvet Idris",
+        "Prohvet Alyasa",
+        "Prohvet Dhul-Kifl",
+        "Prohvet Noa"
+      ],
+      "answer": "Prohvet Ilja"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Rahva kutsumine Baali kummardamisest eemale",
+        "Vastamisi türanniga, kes väitis end olevat jumal",
+        "Inimeste hoiatamine eelseisva üleujutuse eest",
+        "Suurde lõõmavasse tulle heidetud",
+        "Orjuse maalt väljarände juhtimine"
+      ],
+      "answer": "Rahva kutsumine Baali kummardamisest eemale"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Iidol nimega Ba'al",
+        "Suur laev, mis on ehitatud tugevast puidust",
+        "Personali, mis lahutas tohutu mere",
+        "Verega määrdunud püha rõivas",
+        "Põlev põõsas pühal mäel"
+      ],
+      "answer": "Iidol nimega Ba'al"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Talle anti rahu ja ta arvati Allahi valitud teenijate hulka",
+        "Juhatati paradiisi, samal ajal kui kõik teised hävitati",
+        "Päästetud suurest tulekahjust, mis muutus jahedaks ja ohutuks",
+        "Antud võim džinnide, inimkonna ja tuule üle",
+        "Keha säilinud püsiva märgina läbi aegade"
+      ],
+      "answer": "Talle anti rahu ja ta arvati Allahi valitud teenijate hulka"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

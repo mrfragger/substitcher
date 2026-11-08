@@ -1,0 +1,61 @@
+{
+  "title": "Modumedi yo o Fitlhegileng",
+  "intro": "Mo diholong tse di maphatsiphatsi tsa puso, koo go neng go busa go sa dumele le bosetlhogo gone, lentswe le le nosi la boammaaruri le ne la bua go tswa kwa lefelong le le neng le sa lebelelwa. Palo eno e ne e gwetlha bolaodi jwa go sireletsa morongwa, ba tsenya tshireletsego ya bone mo kotsing go bolela boammaaruri.",
+  "clues": [
+    "Ke ne ke nna mo lefatsheng la bosetlhogo jo bogolo, ke direla mmusi yo o neng a ipolela gore ke wa bomodimo.",
+    "Ke ne ka fitlhela ditumelo tsa me tsa mmatota ka dingwaga di le dintsi, ke boifa ditlamorago tsa go di senola.",
+    "Fa morongwa a tla ka ditshupo tse di bonalang sentle, ke ne ka dumela, mme batho ba me ba ne ba mo logela leano.",
+    "Ke ne ka ema fa pele ga mmusaesi le lekgotla la gagwe, ke nganga gore ga ba a tshwanela go bolaya morongwa yo o se nang molato.",
+    "Ke ne ka ba tlhagisa ka kotlhao ya merafe e e fetileng e e neng ya gana boammaaruri, jaaka batho ba ga Noa le ‘Ad.",
+    "Allah o ne a mpholosa mo maanong a bone a a bosula, mme ke ne ka bona go senngwa ga puso e e gatelelang."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Modumedi wa Lelapa la ga Faro",
+        "Maselamotse a ga Faro",
+        "Molaodi wa ga Faro",
+        "Mosadi wa ga Faro",
+        "Ramatlotlo wa ga Faro"
+      ],
+      "answer": "Modumedi wa Lelapa la ga Faro"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go sireletsa moporofeti gore a se ka a bolawa",
+        "Go gwetlha maano a maselamotse",
+        "Go aga tora gore e fitlhe kwa loaping",
+        "Go kgaoganya lewatle go tshaba",
+        "Go tlhalosa toro ya kgosi"
+      ],
+      "answer": "Go sireletsa moporofeti gore a se ka a bolawa"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Kgotla ya ga Faro",
+        "Setlhatshana se se tukang",
+        "Namane ya gauta",
+        "Sediba sa Madyan",
+        "Letlole la ga Moporofeti Nuh"
+      ],
+      "answer": "Kgotla ya ga Faro"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go bolokwa mo dikotsing fa bagateledi ba ne ba nyelediwa",
+        "E ne ya nna mmusi yo o nonofileng",
+        "O ne a latlhelwa mo molelong mme a tswa a sa gobala",
+        "O ne a mediwa ke lefatshe",
+        "A kgarakgatshega mo sekakeng dingwaga di le masome a mane"
+      ],
+      "answer": "Go bolokwa mo dikotsing fa bagateledi ba ne ba nyelediwa"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

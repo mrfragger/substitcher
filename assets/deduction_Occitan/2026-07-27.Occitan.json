@@ -1,0 +1,61 @@
+{
+  "title": "L'ofèrta qu'alterèt lo destin",
+  "intro": "Dins los primièrs jorns de l'umanitat, una anma ofrissiá un present amb d'intencions puras. Pasmens, l'enveja s'escampava dins l'ombra de l'acceptacion. Descobrissètz l'istòria d'aquela figura que sa pietat e sa fin tragica son immortalizadas dins la revelacion divina.",
+  "clues": [
+    "Èri demest las primièras generacions de l'umanitat.",
+    "Presentèri una ofèrta a mon Senhor, e foguèt recebuda amb favor.",
+    "L'ofèrta de mon fraire foguèt refusada, e l'enveja escuriguèt son còr.",
+    "Li diguèri, 'S'estiratz vòstra man cap a ieu per me tuar, estirarai pas ma man per vos tuar; en efièch ai paur d'Allah, Senhor dels monds.'",
+    "Venguèri la victima del primièr acte d'assassinat sus tèrra.",
+    "Mon sang cridèt, e foguèri lo primièr martir de l'innocéncia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Caïn)",
+        "L'Òme de Ya-Sin",
+        "Lo Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Son ofèrta foguèt acceptada, causant l'enveja de son fraire e son assassinat",
+        "Foguèt getat dins un forn ardent mas sortiguèt ilesa",
+        "Bastiguèt una nau massissa jos la guida divina",
+        "Foguèt engolit per un grand peis e demorèt dins l'escur .",
+        "Menèt son pòble a travèrs una mar despartida"
+      ],
+      "answer": "Son ofèrta foguèt acceptada, causant l'enveja de son fraire e son assassinat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una ofèrta acceptada",
+        "Un baston que se convertís en sèrp",
+        "Una camèla coma un signe divin",
+        "Un cercle que pòrta de novèlas",
+        "Un vedèl d'aur adorat"
+      ],
+      "answer": "Una ofèrta acceptada"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Primièr murtre de l'istòria; son fraire foguèt condemnat",
+        "Engolit per la tèrra amassa amb sa riquesa",
+        "Transformats en monins a causa de la transgression",
+        "Destruch per un vent ferotge e glaçat",
+        "Afogat dins una granda inondacion coma punicion"
+      ],
+      "answer": "Primièr murtre de l'istòria; son fraire foguèt condemnat"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

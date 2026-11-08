@@ -1,0 +1,61 @@
+{
+  "title": "Bygmestrene af de høje søjler",
+  "intro": "Du står foran ruinerne af en majestætisk, gammel by, hvis høje søjler nu er faldet. Vinden hyler gennem de tomme gader og bærer minderne om et mægtigt folk, der engang herskede over disse lande. Hvem var de?",
+  "clues": [
+    "Vi var et folk med enorm styrke og dygtighed, kendt for vores store bygninger og avancerede civilisation.",
+    "Vi boede i et land med klitter og klippefyldte bakker, og vi troede, at ingen kunne overmande os.",
+    "Et sendebud kom til os fra vores egen slægt og opfordrede os til at tilbede Allah alene, men vi afviste og latterliggjorde ham.",
+    "Vi pralede: »Hvem er stærkere end os?« og vi fortsatte i vores arrogance og afgudsdyrkelse.",
+    "Allah sendte en voldsom vind over os, som blæste i syv nætter og otte dage og ødelagde alt.",
+    "Vi var folket fra 'Ad, bygmestrene i Iram, og vores skæbne blev en advarsel for alle, der kom efter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folk fra 'Ad",
+        "Folket i Thamud",
+        "Folk i Madyan",
+        "Folk fra Tubba'",
+        "Folk fra al-Rass"
+      ],
+      "answer": "Folk fra 'Ad"
+    },
+    "trial": {
+      "label": "Hvilken straf blev dem idømt?",
+      "options": [
+        "En ødelæggende vind",
+        "En byge af sten",
+        "Et højt brag",
+        "Drukning ved oversvømmelse",
+        "Opslugt af jorden"
+      ],
+      "answer": "En ødelæggende vind"
+    },
+    "location": {
+      "label": "Hvad hedder deres legendariske by?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midjan",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Hvad blev deres endelige skæbne?",
+      "options": [
+        "De blev ødelagt, og deres rester blev en lektie",
+        "De omvendte sig og blev frelst",
+        "De blev forvandlet til aber",
+        "De druknede i havet",
+        "De blev begravet under et jordskred"
+      ],
+      "answer": "De blev ødelagt, og deres rester blev en lektie"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

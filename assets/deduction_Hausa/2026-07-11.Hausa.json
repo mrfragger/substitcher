@@ -1,0 +1,61 @@
+{
+  "title": "Matafiya na filin kore",
+  "intro": "A zamanin da, mutane biyu suna kula da ƙasashen da ke makwabtaka da juna. Hanyoyinsu suna da alaƙa, duk da haka zukatansu sun jagorance su zuwa wurare daban-daban. Ɗaya ya bi hanya madaidaiciya, ɗayan kuma ya ɓace cikin duhun ƙarya. Za ku iya bayyana asirin waɗannan masu kula da girbi biyu?",
+  "clues": [
+    "Ina da amfanin gona mai yawa, girbi mai kyau wanda ke haskaka idanun masu kallo.",
+    "Maƙwabcina ya fi ni arziki, duk da haka na yi sha'awar rabonsu fiye da nawa.",
+    "Na ba da shawarar mu lalata amfanin gonarsu gaba ɗaya, domin mu haɗa komai da ke ƙarƙashin ikona.",
+    "Na kuma lalata amfanin gonata, na lalata komai a cikin makircina na wauta.",
+    "Na tsaya cak yayin da amfanin gonata suka bushe kuma dukiyata ta koma ƙura a cikin dare ɗaya.",
+    "Ba ni da wani rabo a Lahira, kuma gidana na ƙarshe ya zama ramin wuta mai zafi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutumin da ya musanta tashin matattu da hukunci",
+        "Mai mulkin da ya zalunci manomi mai adalci",
+        "Mai gonaki mai arziki wanda bai da godiya",
+        "Manomi wanda ya yi sha'awar ƙasar maƙwabcinsa",
+        "Abokin cin amana wanda ya shirya halaka"
+      ],
+      "answer": "Manomi wanda ya yi sha'awar ƙasar maƙwabcinsa"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Gwajin karɓar wahayin Allah",
+        "Kalubalen arziki da haƙuri",
+        "Jarabawar lalata abincin mutumin kirki",
+        "Umarnin raba gado bisa adalci",
+        "Yaƙi da zaluncin azzalumi"
+      ],
+      "answer": "Jarabawar lalata abincin mutumin kirki"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Lambunan aljanna masu launin kore",
+        "Gonaki biyu masu makwabtaka da juna",
+        "Duwatsun da suka shaida halaka",
+        "Wurin ibada mai tsarki na Makkah",
+        "Gaɓar kogin ƙasa mai albarka"
+      ],
+      "answer": "Gonaki biyu masu makwabtaka da juna"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Aljanna ta har abada a matsayin lada ga adalci",
+        "Rushewar girbin biyu gaba ɗaya a wannan rayuwar",
+        "Gudun hijira da yawo har zuwa mutuwa",
+        "Wa'adin wucin gadi sai wuta ta har abada ta biyo baya",
+        "Maidowa mai ban mamaki da kuma ninki biyu na albarka"
+      ],
+      "answer": "Rushewar girbin biyu gaba ɗaya a wannan rayuwar"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

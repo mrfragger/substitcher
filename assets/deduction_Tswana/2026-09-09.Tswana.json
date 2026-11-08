@@ -1,0 +1,61 @@
+{
+  "title": "Moya wa Ntlha go Ema",
+  "intro": "Bogologolo pele ga morongwa ope a tsamaya mo lefatsheng, pele ga lokwalo lope lo senolwa, go ne ga nna le setshedi se se sa tshwaneng le sepe se sengwe. Moya ono o ne wa bopiwa ke diatla tsa bomodimo, wa newa lefelo la bontle jo bo senang selekanyo, mme wa lekwa ka tsela e e neng e tla boeletsa mo hisitoring yotlhe ya batho. Se se neng sa latela e ne e le kgang ya bokoa, go ikwatlhaya ka boammaaruri, le phelelo e e neng e tla fetola tsela ya popo go ya go ile. A o ka fopholetsa gore yo ke mang?",
+  "clues": [
+    "Ke bopilwe ke diatla tsa Moutlwelobotlhoko go tswa mo leroleng la mmu .",
+    "Ke ne ka newa legae le lentle le le sa tshwaneng le lepe, le go neng go se na tlala kgotsa letsapa le le neng le ka nkgoma mo go lone .",
+    "Ke ne ka laelwa gore le ka motlha ke se ka ka atamela setlhare sepe, ka gonne se ne se ileditswe .",
+    "Nna le molekane wa me re ne ra tsiediwa mme ra atamela setlhare se se ileditsweng, kgatlhanong le taelo ya Morena wa rona .",
+    "Re ne ra boela kwa Moreneng wa rona ka boikwatlhao jwa boammaaruri, mme ra itshwarelwa tlolo ya rona .",
+    "Mo go rona, batho botlhe ba ne ba tswa; Ke nna wa ntlha go tsamaya mo lefatsheng leno"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Adame",
+        "Moporofeti Musa",
+        "Moporofeti Nuh",
+        "Moporofeti Yusuf",
+        "Moporofeti Isa"
+      ],
+      "answer": "Moporofeti Adame"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Thaelo ke setlhare se se ileditsweng",
+        "Go thulana le Faro",
+        "Go aga Areka e kgolo",
+        "Setlhabelo sa morwa yo o rategang",
+        "Go latlhelwa mo molelong o mogolo"
+      ],
+      "answer": "Thaelo ke setlhare se se ileditsweng"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Setlhare se se Thibetsweng",
+        "Setlhatshana se se Fisang",
+        "Lore lwa Gauta",
+        "Areka e Kgolo",
+        "Namane ya Gauta"
+      ],
+      "answer": "Setlhare se se Thibetsweng"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O rometswe mo lefatsheng jaaka motlhokomedi wa ntlha wa batho",
+        "Faro le masole a gagwe ba ne ba nwela mo lewatleng",
+        "Morwalela o mogolo o ne wa nyeletsa baikepi",
+        "Molelo o ne wa tsidifala e bile wa nna le kagiso",
+        "O ne a newa taolo mo bogosing jwa Egepeto"
+      ],
+      "answer": "O rometswe mo lefatsheng jaaka motlhokomedi wa ntlha wa batho"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

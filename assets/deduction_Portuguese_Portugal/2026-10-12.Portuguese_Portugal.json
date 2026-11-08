@@ -1,0 +1,61 @@
+{
+  "title": "O Voto dos Nascituros",
+  "intro": "Uma alma sincera fez uma promessa sagrada antes da chegada de uma criança. A história dessa figura se desenrola dentro dos muros de um santuário, onde a devoção encontra a aceitação divina. Quem é esse servo de Alá?",
+  "clues": [
+    "Eu pertencia a uma família honrada no Alcorão.",
+    "Fiz um voto solene de dedicar meu filho ainda não nascido ao serviço de Alá.",
+    "Quando dei à luz, fiquei surpresa ao descobrir que era uma menina, embora esperasse um menino.",
+    "Dei à minha filha o nome de Maryam, um nome que reflete devoção e serviço.",
+    "Busquei a proteção de Alá para minha filha e seus descendentes contra o maldito Satanás.",
+    "Meu filho foi aceito pelo Senhor e colocado sob os cuidados do Profeta Zacarias no santuário."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A esposa de Imran (mãe de Maryam)",
+        "Asiya, esposa do Faraó",
+        "Maria, mãe de Isa",
+        "A mãe do Profeta Moisés",
+        "A Rainha de Sabá"
+      ],
+      "answer": "A esposa de Imran (mãe de Maryam)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Prometendo dedicar seu filho ao templo.",
+        "Ser jogado no fogo",
+        "Atravessar o mar em terra firme",
+        "Construindo uma grande arca",
+        "Ser engolido por um peixe grande"
+      ],
+      "answer": "Prometendo dedicar seu filho ao templo."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O santuário (mihrab) onde seu filho foi colocado.",
+        "A arca da aliança",
+        "O bezerro de ouro",
+        "O funcionário que se transformou em cobra",
+        "A tamareira sob a qual ela descansava."
+      ],
+      "answer": "O santuário (mihrab) onde seu filho foi colocado."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Seu filho foi aceito e colocado sob os cuidados do Profeta Zacarias.",
+        "Ela foi salva da punição de um tirano.",
+        "Ela recebeu um filho chamado Yahya.",
+        "Seu povo foi destruído por uma tempestade.",
+        "Ela se tornou rainha de um grande reino."
+      ],
+      "answer": "Seu filho foi aceito e colocado sob os cuidados do Profeta Zacarias."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

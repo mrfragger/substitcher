@@ -1,0 +1,61 @@
+{
+  "title": "Ääni joka kieltäytyi epätoivosta",
+  "intro": "Astu taloon, jossa menetys perääntyy, mutta yksi rauhallinen ääni torjuu epätoivon. Yksi ainoa Koraanin kohta muuttaa kärsivällisyyden käännekohdaksi; pystytkö jäljittämään vihjeet äänen takana olevaan henkilöön?",
+  "clues": [
+    "Olin kärsivällisyyden ääni kodissa, jossa siunauksia koeteltiin onnettomuuden kautta.",
+    "Jäin talouteen, joka oli tyhjentynyt varallisuuden ja lasten menetyksen vuoksi.",
+    "Tiesin, että sairaus oli iskenyt myös tuohon toveriin, jonka ruumis oli vaivattu.",
+    "Kun ahdistus paheni, huusin avuksi Allahin muistutuksena.",
+    "Tarjosin yhden julistuksen: Allah on Totuus, joten pysykää kärsivällisinä.",
+    "Kutsuin Ayyubia nimeltä; sen jälkeen Allah poisti vaivan ja palautti perheen ennalleen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ayyubin vaimo",
+        "Profeetta Nooan vaimo",
+        "Profeetta Ibrahimin vaimo",
+        "Profeetta Ya'qubin vaimo",
+        "Faaraon tytär"
+      ],
+      "answer": "Profeetta Ayyubin vaimo"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ayyubin luona pysyminen menetyksen ja sairauden läpi ja sitten kärsivällisyyden pyytäminen",
+        "Varoitus vanhurskaalle sanansaattajalle turmeltuneen yhteisön hylkäämisestä",
+        "Rukoilen tulevan suvun syntymän puolesta",
+        "Unien tulkinta kuninkaallisessa vankilassa",
+        "Uskotun lapsen löytäminen joen varrelta"
+      ],
+      "answer": "Ayyubin luona pysyminen menetyksen ja sairauden läpi ja sitten kärsivällisyyden pyytäminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Julistus siitä, että Allah on Totuus, ja kärsivällisyys ovat välttämättömiä",
+        "Palmu lähteen vieressä",
+        "Kutsu rakentaa alus kauas aalloista",
+        "Unelma yhdestätoista tähdestä ja nousevasta auringosta",
+        "Niiliä pitkin kannettu kori"
+      ],
+      "answer": "Julistus siitä, että Allah on Totuus, ja kärsivällisyys ovat välttämättömiä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Ayyubin vaiva poistui ja hänen perheensä ennalleen",
+        "Kauan odotettu lapsi lahjoitettiin hedelmättömän rukouksen jälkeen",
+        "Nuori hallitsija tulkitsi seitsemän vuotta yltäkylläisyyttä ja niukkuutta",
+        "Uskottu lapsi pelastettiin virtaavasta vedestä",
+        "Tuhoisaa tulvaa edelsi varoitus"
+      ],
+      "answer": "Ayyubin vaiva poistui ja hänen perheensä ennalleen"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

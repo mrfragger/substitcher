@@ -1,0 +1,61 @@
+{
+  "title": "Vakaa totuuden etsijä",
+  "intro": "Tietämättömyyden ja väärien jumaluuksien palvonnan verhoamana aikana avautui syvällinen uskonmatka. Tämä henkilö haastoi yhteiskuntansa normit ja etsi Yhtä Todellista Luojaa horjumattomalla vakaumuksella. Valmistaudu paljastamaan sielun henkilöllisyys, jonka perintö inspiroi edelleen miljoonia.",
+  "clues": [
+    "Kyseenalaistin taivaankappaleita, etsin todellista Herraa, joka luo ja ylläpitää kaikkea.",
+    "Minut käskettiin jättämään kotimaani ja matkustamaan Allahin siunaamaan maahan.",
+    "Haastoin kansani epäjumalia, kohtasin niiden turhuuden suoraan murskaamalla ne.",
+    "Kansani heitti minut raivoavaan tuleen, mutta Allahin käskystä se muuttui minulle viileäksi ja rauhalliseksi.",
+    "Minua koeteltiin käskyllä ​​uhrata rakas esikoispoikani, mikä oli koetus lopulliselle alistumiselle.",
+    "Minä ja poikani rakensimme maan ensimmäisen palvontahuoneen perustukset, pyhäkön koko ihmiskunnalle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Nooa",
+        "Profeetta Yusuf",
+        "Profeetta Salih",
+        "Profeetta Ibrahim",
+        "Profeetta Isa"
+      ],
+      "answer": "Profeetta Ibrahim"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri tulva",
+        "Meren jakautuminen",
+        "Thamudin tuho",
+        "Käsky uhrata poika",
+        "Matka aavikon halki arkin kanssa"
+      ],
+      "answer": "Käsky uhrata poika"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Henkilökunta",
+        "Turin vuori",
+        "Arkki",
+        "Kaaba",
+        "Kultainen vasikka"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli Egyptin hallitsijaksi",
+        "Hänen kansansa hukkui",
+        "Sai viisautta ja vanhurskaan sukupuun",
+        "Valas nielaisi hänet",
+        "Hänen kaupunkinsa kukistui"
+      ],
+      "answer": "Sai viisautta ja vanhurskaan sukupuun"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

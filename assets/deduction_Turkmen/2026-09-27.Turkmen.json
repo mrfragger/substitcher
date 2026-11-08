@@ -1,0 +1,61 @@
+{
+  "title": "Bir gijede ýitip giden bag",
+  "intro": "Ýetişen miweleri köp we beýik agaçlar bilen gurşalan ýaşyl bagy göz öňüne getiriň. Oňa ideg edýänler özlerini akylly hasaplap, hasylyny daň atmazdan öň asuda sagatlarda, mätäçleriň gözünden daşda meýilleşdirýärdiler. Emma hiç haçan uklamaýan Zatyň olaryň gizlin baýlygy üçin başga meýilnamalary bardy. Gurhandaky bu duýduryşly ertekiniň arkasynda kimiň durandygyny çaklap bilersiňizmi?",
+  "clues": [
+    "Bizde bir wagtlar şeýle bir ýaşyl we bol bag bardy welin, ol ýerden geçýänleriň hemmesiniň göripligini özüne çekýärdi.",
+    "Meýilnamalaşdyryşymyzda, biz irden birek-birege pyşyrdaşyp, şol gün hiç bir mätäç adamyň içeri girmegine rugsat berilmejekdigini aýtdyk.",
+    "Biz baý adamlardyk we ýüregimiz töweregimizdäki garyplaryň hukuklaryna göz ýumupdy.",
+    "Biz niýetlän hasylyň daňy gelende, bagymyza golaýlaşdyk we onuň bir gije garaňky harabaçylyga öwrülendigini gördük.",
+    "Bir wagtlar ýetişen miweleriň asylyp duran ýerinde diňe kül galyp, weýran ediji perman ýaýrady.",
+    "Biziň ertekimiz Kuranda ýazylan berk duýduryşdyr, onda biz bagyň eýeleri hökmünde mätäçlerden haýyr-sahawatdan mahrum bolanlar hökmünde tanalýarys."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Bagyň eýeleri",
+        "Gowagyň adamlary",
+        "Isanyň şägirtleri",
+        "Tokaýyň ýoldaşlary",
+        "Ibrahimiň myhmanlary"
+      ],
+      "answer": "Bagyň eýeleri"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Gizlinlikde miwe ýygnamak we garyplary gadagan etmek",
+        "Asyrlarboýy gowagyň içinde uklap ýatyr",
+        "Daşdan düýe öndürmekden ýüz öwürmek",
+        "Sinaý dagynda altyn göle sežde etmek",
+        "Silden gaça durmak üçin uly gämi gurmak"
+      ],
+      "answer": "Gizlinlikde miwe ýygnamak we garyplary gadagan etmek"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Palma we üzüm agaçlary bilen doldurylan diwarly bag",
+        "Daglaryň çuňlugynda garaňky gowak",
+        "Hudaýly tupanyň basgysy astynda galan şäher",
+        "Allanyň öýüniň golaýyndaky mukaddes jülge",
+        "Akýan derýanyň kenarlary"
+      ],
+      "answer": "Palma we üzüm agaçlary bilen doldurylan diwarly bag"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Bag gökden gelen ýakymly perman bilen ýok edildi",
+        "Olar 309 aý ýyly dowamynda parahat ukladylar",
+        "Olar daş ýagyşy bilen ezilipdi",
+        "Olar uly sil tolkunlarynyň aşagynda gark boldular",
+        "Olar sowuk, güýçli ýeliň täsiri bilen dargady"
+      ],
+      "answer": "Bag gökden gelen ýakymly perman bilen ýok edildi"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

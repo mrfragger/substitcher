@@ -1,0 +1,61 @@
+{
+  "title": "La Semo de Tumulto",
+  "intro": "Antaŭ ol la mondo konis vastan konflikton, profunda testo de fido kaj obeemo disvolviĝis. Ĉi tiu rakonto esploras la elektojn faritajn de individuo, kies agoj starigis precedencon por estontaj generacioj. Preparu vin por malkaŝi la historion de animo luktanta kontraŭ grandega ĵaluzo kaj ĝiaj detruaj konsekvencoj.",
+  "clues": [
+    "Mi estis inter la unuaj idoj kiuj piediris sur la tero, infano de la plej unua homa paro.",
+    "Mia frato kaj mi ricevis ordonon oferi oferon al Alaho, teston de nia sincereco.",
+    "Mia ofero ne estis akceptita, dum tiu de mia frato ja estis, kio plenigis mian koron per terura emocio.",
+    "Mi parolis minacajn vortojn al mia frato, pelita de la amareco de la malakcepto.",
+    "Mia frato respondis kun saĝo kaj pieco, memorigante min pri la justeco de Alaho kaj la timo antaŭ Li.",
+    "Malgraŭ la mildaj vortoj de mia frato kaj lia volemo pardoni, mi prenis vivon, fariĝante unu el la malgajnintoj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Adamo",
+        "Ibliso",
+        "Profeto Nuh",
+        "Qabil (Kaino)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kaino)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La granda inundo",
+        "La disiĝo de la maro",
+        "La konstruado de la Kaaba",
+        "La ofero de oferoj",
+        "La tento en la Ĝardeno"
+      ],
+      "answer": "La ofero de oferoj"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Arkeo",
+        "La Kunlaborantaro",
+        "La Monto de Safa",
+        "La Ofero",
+        "La Brulanta Arbusto"
+      ],
+      "answer": "La Ofero"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Fariĝis mesaĝisto",
+        "Estis dronita",
+        "Konstruis grandan regnon",
+        "Fariĝis ekzemplo de bedaŭro",
+        "Ricevis grandegan riĉaĵon"
+      ],
+      "answer": "Fariĝis ekzemplo de bedaŭro"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

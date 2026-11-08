@@ -1,0 +1,61 @@
+{
+  "title": "Missionen i den antika staden",
+  "intro": "En dammig gammal stad, dess invånare försjunkna i förnekelse, och en sista varning som inte uppmärksammades. Idag kan du ta rollen som de som Allah sänt för att framföra ett budskap till ett envist folk. En berättelse om avvisande, en unik röst av tro och ett slut beseglat av ett förödande dekret. Vem talar genom dessa ledtrådar?",
+  "clues": [
+    "Vi sändes av Allah till en stad vars folk hade vänt sig bort från sanningen",
+    "Två av oss kom först, sedan anslöt sig en tredje för att stärka vårt uppdrag",
+    "Stadsborna avvisade oss och sa att vi inte var något annat än människor som dem",
+    "En enda själ från stadens yttersta ände sprang för att säga åt folket att följa oss",
+    "Vi vädjade till dem, men de förhärdade sina hjärtan och vände sig mot oss",
+    "Med ett enda förödande rop från himlen tystades hela vår stad"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Stadens budbärare i Surah Ya-Sin",
+        "Hawwariyyun (Isas lärjungar)",
+        "Trollkarlarna vid Faraos hov",
+        "Sabbatens följeslagare",
+        "Elefantens folk"
+      ],
+      "answer": "Stadens budbärare i Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Avvisade och kallade lögnare av stadsborna",
+        "Brändes levande i en stor, flammande eld",
+        "Slukad av en stor fisk i djuphavet",
+        "Tvingades att arbeta med att bygga en hög pelare",
+        "Torterade i en skyttegrav av rasande eld"
+      ],
+      "answer": "Avvisade och kallade lögnare av stadsborna"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Den antika staden (al-Qaryah)",
+        "En stor, brinnande ugn",
+        "Magen på en stor fisk",
+        "Den höga himmelsnära pelaren",
+        "Det heliga huset (Kaba)"
+      ],
+      "answer": "Den antika staden (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Staden förstördes av ett enda förödande rop (Sayha)",
+        "Tyrannen och hans armé drunknade i det delade havet",
+        "Människorna förvandlades till apor och människor",
+        "Ett regn av stenar från himlen förstörde staden",
+        "En våldsam översvämning svepte bort hela samhället"
+      ],
+      "answer": "Staden förstördes av ett enda förödande rop (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

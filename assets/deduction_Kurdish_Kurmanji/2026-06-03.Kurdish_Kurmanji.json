@@ -1,0 +1,61 @@
+{
+  "title": "Neteweya ku Mala Pîroz Dikeve Ber Pirsê",
+  "intro": "Di demên kevnar de, miletekî bihêz biryar da ku êrîşî cihekî pîroz bike ku bawermend pê rêz lê digirin. Ev kom dewlemend, bihêz û bi hêza xwe ya leşkerî bawermend bûn. Wan afirîdekî mezin bi xwe re anî ku dê wekî çeka wan a şer xizmet bike. Armanca wan eşkere bû: hilweşandina xaniyê pîroz û perçiqandina baweriya gelê wê. Lê xudperestiya wan li ber bersiveke wêranker ji jor ve bû. Ev bûyera dîrokî ji bo hemû kesên ku piştî wê hatin bû nîşanek û ders. Hûn dikarin vê komê ji nîşanan nas bikin?",
+  "clues": [
+    "Em miletekî bi dewlemendî û jêhatîbûna leşkerî pîroz bûn.",
+    "Me hêzên xwe kom kirin û cenawirekî pir mezin anîn ku di kampanyaya xwe de bikar bînin.",
+    "Hedefa me cihekî pîroz bû ku me dixwest bi tevahî wêran bikin.",
+    "Me bawer kir ku hêza me dê têrê bike ku li hember her parastina îlahî bi ser bikeve.",
+    "Lê Xudan ji ezmanan cezayek şand ser me ku me hêvî nedikir.",
+    "Em di çirkeyekê de hatin wêrankirin, wek perçeyên şikestî yên kayê belav bûn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Gelê Fîl",
+        "Gelê Semûdê",
+        "Gelê Adê",
+        "Hevalên Şikeftê",
+        "Miletê Pêxember Hud"
+      ],
+      "answer": "Gelê Fîl"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Fîlekî ber bi xaniyê pîroz ve dimeşe da ku wê hilweşîne",
+        "Avakirina bircê ji bo gihîştina ezmanan",
+        "Avakirina pûtekî zêrîn ji bo îbadetê",
+        "Redkirina guhdana peyamberê Xwedê",
+        "Kolandina bîrekê ji bo zirardayîna bawermendan"
+      ],
+      "answer": "Fîlekî ber bi xaniyê pîroz ve dimeşe da ku wê hilweşîne"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Fîl",
+        "Golika Zêrîn",
+        "Karmendê Mûsa",
+        "Masîyê Yunus",
+        "Hesinê Dawud"
+      ],
+      "answer": "Fîl"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ew ji aliyê keriyên çûkan ve bi keviran hatin wêrankirin",
+        "Ew di lehiyê mezin de xeniqîn",
+        "Ew bûne meymûn û beraz",
+        "Ew di bin kevirên ji çiyayekî diketin de hatin veşartin",
+        "Ew bi agirê ji ezman hatin şewitandin"
+      ],
+      "answer": "Ew ji aliyê keriyên çûkan ve bi keviran hatin wêrankirin"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

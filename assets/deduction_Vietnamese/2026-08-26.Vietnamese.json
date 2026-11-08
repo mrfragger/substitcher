@@ -1,0 +1,61 @@
+{
+  "title": "Sự đố kỵ đã thiêu đốt",
+  "intro": "Một câu chuyện cổ xưa hơn bất kỳ vương quốc hay kinh sách nào—bi kịch đầu tiên của loài người bắt nguồn từ lòng ghen tị. Một linh hồn, người con cả trong hai người con của tổ tiên đầu tiên, đã chứng kiến ​​trong cơn thịnh nộ khi người em út nhận được sự ưu ái mà mình bị từ chối. Điều tiếp theo là sự lựa chọn tăm tối nhất, để lại dòng máu đầu tiên từng đổ trên trái đất. Bạn có thể khám phá ra danh tính, thử thách và sự hối tiếc cay đắng?",
+  "clues": [
+    "Tôi được sinh ra từ cặp đôi người đầu tiên bước đi trên Trái Đất.",
+    "Tôi từng dâng lễ vật lên Allah, nhưng lễ vật đó không được chấp nhận.",
+    "Đề nghị của anh/chị/em tôi được chấp nhận, trong khi đề nghị của tôi bị từ chối - điều mà tôi không thể chấp nhận được.",
+    "Tôi đã đe dọa giết chết chính em trai mình.",
+    "Tôi đã trở thành người đầu tiên phạm tội giết người trên đời này, cướp đi sinh mạng của chính người anh/em ruột của mình.",
+    "Allah đã phái một sinh vật từ trần gian—một con chim đen đang đào đất—đến để dạy tôi cách che giấu những gì mình đã làm, và cuối cùng tôi chỉ còn lại sự hối tiếc."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Tiên tri Yaqub",
+        "Tiên tri Musa",
+        "Tiên tri Adam"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Lễ vật bị Allah từ chối",
+        "Bị ném vào một ngọn lửa lớn",
+        "Bị bỏ rơi ở sông khi còn là một đứa bé.",
+        "Được thử thách với một vương quốc rộng lớn",
+        "Bị ra lệnh phải hi sinh con trai mình"
+      ],
+      "answer": "Lễ vật bị Allah từ chối"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con quạ do Allah phái đến",
+        "Con bê vàng",
+        "Con tàu Noah trên núi",
+        "Bụi cây bốc cháy",
+        "Con lạc đà cái được chạm khắc từ đá."
+      ],
+      "answer": "Con quạ do Allah phái đến"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Trở nên đầy hối tiếc và nằm trong số những kẻ thất bại.",
+        "Bị nuốt chửng xuống đất cùng với những kho báu",
+        "Trở thành một sứ giả cao quý của Allah.",
+        "Được vào Thiên đường nhờ lòng thương xót của Chúa",
+        "Cai trị một vương quốc vô song."
+      ],
+      "answer": "Trở nên đầy hối tiếc và nằm trong số những kẻ thất bại."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

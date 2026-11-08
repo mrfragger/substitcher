@@ -1,0 +1,61 @@
+{
+  "title": "Tiếng Vọng của Sự Lừa Dối",
+  "intro": "Tình thân ruột thịt bị thử thách bởi lòng đố kỵ. Một kế hoạch bí mật được vạch ra, khởi đầu một chuỗi sự kiện kéo dài nhiều năm và vượt qua những khoảng cách rộng lớn. Hành động của nhóm người này dẫn đến sự chia ly và đau khổ sâu sắc, nhưng câu chuyện không kết thúc ở đó. Đó là một câu chuyện về sự lừa dối, hối tiếc và sự hé lộ cuối cùng của một kế hoạch thiêng liêng. Bạn có thể làm sáng tỏ danh tính của những cá nhân này, những người mà lựa chọn của họ đã vang vọng qua nhiều thế hệ?",
+  "clues": [
+    "Chúng tôi vô cùng ghen tị trước tình cảm mà người khác dành cho một người trong nhóm mình.",
+    "Vì ghen tị, chúng tôi đã cấu kết với nhau và đẩy người anh em của mình xuống vực sâu tăm tối.",
+    "Để che giấu hành vi của mình, chúng tôi đã dâng cho cha một chiếc áo bị vấy máu giả.",
+    "Nhiều năm sau, một nạn đói nghiêm trọng đã buộc chúng tôi phải đến Ai Cập để tìm kiếm lương thực.",
+    "Tại đó, chúng tôi đã đến gặp một vị thống đốc quyền lực, người mà chúng tôi không hề biết lại chính là người anh trai ruột mà chúng tôi đã từng làm tổn thương.",
+    "Bài kiểm tra cuối cùng của chúng tôi là đưa em trai út, Binyamin, đến, điều này đã dẫn đến việc tiết lộ về quá khứ của chúng tôi và việc cha chúng tôi chính là Tiên tri Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chúng tôi là ai?",
+      "options": [
+        "Con trai của Adam (Qabil & Habil)",
+        "Các môn đệ của tiên tri Isa",
+        "Các anh em của Tiên tri Yusuf",
+        "Người dân Madyan",
+        "Những pháp sư của Fir'awn"
+      ],
+      "answer": "Các anh em của Tiên tri Yusuf"
+    },
+    "trial": {
+      "label": "Lỗi lầm chính của chúng ta là gì?",
+      "options": [
+        "Xây dựng tượng con bê vàng để thờ cúng",
+        "Yêu cầu được trực tiếp nhìn thấy Allah.",
+        "Chế nhạo một nhà tiên tri vì đã đóng con tàu Noah.",
+        "Lừa dối cha và bỏ rơi anh trai",
+        "Vi phạm ngày Sa-bát bằng cách đi câu cá"
+      ],
+      "answer": "Lừa dối cha và bỏ rơi anh trai"
+    },
+    "location": {
+      "label": "Vật thể nào đóng vai trò trung tâm trong kế hoạch đánh lừa của chúng ta?",
+      "options": [
+        "Một bộ bảng khắc chữ.",
+        "Một chiếc áo sơ mi dính vết máu giả.",
+        "Con bê vàng",
+        "Một loài chim xinh đẹp (chim mỏ quặp)",
+        "Một cây gậy biến thành rắn"
+      ],
+      "answer": "Một chiếc áo sơ mi dính vết máu giả."
+    },
+    "outcome": {
+      "label": "Kết cục cuối cùng của câu chuyện chúng ta là gì?",
+      "options": [
+        "Chúng tôi đã bị tàn phá bởi một trận lụt khủng khiếp.",
+        "Chúng tôi đã bị biến thành vượn.",
+        "Chúng tôi bị đất nuốt chửng",
+        "Chúng tôi đã được tha thứ và đoàn tụ với gia đình.",
+        "Chúng tôi đã chết đuối trên biển."
+      ],
+      "answer": "Chúng tôi đã được tha thứ và đoàn tụ với gia đình."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

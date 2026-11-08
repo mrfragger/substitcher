@@ -1,0 +1,61 @@
+{
+  "title": "Ruuh bu muñ bu kër gu sell gi",
+  "intro": "Ci xëti Al Quran, amna nit ku feeñ ci xeetu yonent bu mag, ñu jox ko muy kado ginaaw bimu màggee. Ñu ngi màggal ruuh googu ndax dëgg gu dëgër gi mu am, ak liggéey bu am solo bimu def ci taxawal barab bu sell buy nekk làmp-gëm. Sooy jàng tegtal yi, déglul bu baax baat bi fi yàgg a nekk, ndax dafay wax ci nit ku njëkk ki.",
+  "clues": [
+    "Al Quran wax nañu ma ci wetu beneen yonent, muy kado buñu jox benn ndaw bu mag.",
+    "Man maay kenn ci ñaari doomi yonent boobu bimu màggee.",
+    "Al Quran daf may sargal ndax def naa lima wax.",
+    "Maa ngi yor ngor nekk yonent, ñu yónnee ma ma nekk ndaw.",
+    "Ma ànd ak sama pàppa ci defar fondaasioŋu kër gu sell gi.",
+    "Dañu may fàttaliku ni kenn la ci ñi muñ, ba noppi kër gu sell gi ñu tabaxoon nekk barab bu nit ñi di delloo, di am kaaraange."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Boroom bi Ismayil",
+        "Ishaq Yalla",
+        "Yaqub",
+        "Zakariya",
+        "Yahya"
+      ],
+      "answer": "Boroom bi Ismayil"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Yékkati fondaasioŋ yi Kaaba gi ak Ibrahim",
+        "ñu sànni la ci safara",
+        "Baleine wann la",
+        "Di génne waa Israyil ci Egypt",
+        "Tabax gaal"
+      ],
+      "answer": "Yékkati fondaasioŋ yi Kaaba gi ak Ibrahim"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Kaaba gi",
+        "Tundu Sinai",
+        "Géej gu xonk gi",
+        "Naat bu wurus bi",
+        "Jardinu Eden"
+      ],
+      "answer": "Kaaba gi"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "ñu ngi ko jàppee ci malaad yi",
+        "Ñu boole leen ci tooñkat yi",
+        "ñu jàppee ko ci luxuskat yi",
+        "Bopp nañu ko ci ñi gëmul Yàlla",
+        "Bopp nañu ko ci naaféq yi"
+      ],
+      "answer": "ñu ngi ko jàppee ci malaad yi"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

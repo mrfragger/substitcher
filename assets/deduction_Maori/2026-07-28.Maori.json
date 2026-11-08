@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakamātautau a te Mea Tapu",
+  "intro": "I tukuna he tohu ki tētahi iwi kua hē. I waenganui i ō rātou oranga whakamarie ka puta mai he whakatūpato—me tētahi mea whakamiharo i haere tahi me ia hei whakamātautau whakamutunga mō tō rātou whakapono. Mā tā rātou urupare e hiri tō rātou aituā ake ake. Ka taea e koe te hura ko wai i tuku i tēnei whakatūpato, ā, i pēhea te hunga i whakakahore?",
+  "clues": [
+    "He iwi tātou i arahina e ngā karere o mua i mua i a tātou.",
+    "I puta mai tētahi mea whakamiharo i te maunga, he tohu nā tō tātou Ariki mō tēnei iwi.",
+    "I mea atu ahau ki a rātou: 'He kamera uha tēnei nā Allah, nō reira waiho kia kai ia i te oneone a Allah, kaua hoki e pā ki a ia.'",
+    "Heoi i whakangote te iwi i taku kamera uha, i te whakakeketanga ki te whakahau a to ratou Ariki.",
+    "He karere noa iho ahau nā tōu Ariki, i tonoa mai me te pono—he poropiti pono, he pononga hoki ahau.",
+    "Mō te hunga hara, i pāngia rātou e tō tātou Ariki ki te haruru nui, ā, ka noho korekore noa iho rātou i roto i ō rātou kāinga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Poropiti a Huta o te iwi o Āta",
+        "Ko Salih te poropiti o te iwi o Thamud",
+        "Poropiti a Shu'aib o Miriana",
+        "Poropiti a Ruta o te iwi o Horoma",
+        "Poropiti a Noa o te Āraka"
+      ],
+      "answer": "Ko Salih te poropiti o te iwi o Thamud"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te Waipuke i toremi ai te iwi whakaponokore",
+        "Te rū whenua i whakangaro i tētahi tāone hara",
+        "I tukuna mai te kamera uha hei tohu atua, hei whakamātautau hoki",
+        "Te tupuhi i whiu i te iwi o Miriana",
+        "Te whakangaromanga o te iwi o Rota ki te kohatu"
+      ],
+      "answer": "I tukuna mai te kamera uha hei tohu atua, hei whakamātautau hoki"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tāone o Horoma i te Raorao o Horano",
+        "Ko te awaawa o Al-Hijr i waenganui i a Hijaz me Hiria",
+        "Ko te whenua tawhito o Ā'ad i te tonga o Ārāpia",
+        "Ngā ngahere o Miriana e tata ana ki te Moana Whero",
+        "Ngā mania o Maunga Judi i Mesopotamia"
+      ],
+      "answer": "Ko te awaawa o Al-Hijr i waenganui i a Hijaz me Hiria"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia rātou i muri i te ripeneta me te whakapono",
+        "I whakangaromia rawatia rātou e te ua o ngā kōhatu",
+        "I pā mai te haruru nui ki a rātou, ā, kāore i nekeneke",
+        "I kahakina atu rātou e te hau nui",
+        "I horomia rātou e te rū whenua ki te whenua"
+      ],
+      "answer": "I pā mai te haruru nui ki a rātou, ā, kāore i nekeneke"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Asrlar uyqusi",
+  "intro": "Siz vaqt o'tishi bilan sayohatga otlanmoqchisiz, iymon va ilohiy kuchning chuqur siriga duch kelasiz. O'z jamiyatining me'yorlariga qarshi chiqib, shirk dunyosida monoteizmga yopishib olgan bir guruh shaxslarni tasavvur qiling. Ularning hikoyasi Allohning solih bandalarini eng g'ayrioddiy usullar bilan himoya qilish qobiliyatiga dalolat beradi. Bu ajoyib shaxslarning kimligini ochib bera olasizmi?",
+  "clues": [
+    "Biz xalqimiz orasida keng tarqalgan shirkga qaramay, yagona Xudoga ishongan kichik bir guruh yigitlar edik.",
+    "Biz imonimiz uchun bizga tahdid solgan zolim hukmdordan qochib ketdik, ta'qib va ​​o'limdan qo'rqib.",
+    "Biz zolimlardan Allohning rahmati va himoyasini umid qilib, tanho joyda panoh topdik.",
+    "Parvardigorimiz bizni chuqur uyquga, vaqt o'tishiga qarshilik ko'rsatadigan mo''jizaviy uyquga yubordi.",
+    "Uyg'onganimizda, biz atigi bir kun yoki kunning bir qismi dam olganimizga ishongan edik, aslida qancha vaqt o'tganini bilmas edik.",
+    "Qur'onda biz o'z holatimizda uch yuz yil qolganimiz va to'qqiz yilga ortib, insoniyat uchun oyat-ibratga aylanganimiz haqida zikr qilingan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Xandaq xalqi",
+        "Samud qavmi",
+        "G'or ahli",
+        "Madyan xalqi",
+        "Filning sheriklari"
+      ],
+      "answer": "G'or ahli"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Katta suv toshqiniga duch kelish",
+        "Yer tomonidan yutib yuborilmoqda",
+        "Uzoq mo''jizaviy uyqu",
+        "Ularning shahrining vayron bo'lishi",
+        "Dengizning ikkiga bo'linishi"
+      ],
+      "answer": "Uzoq mo''jizaviy uyqu"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yonayotgan buta",
+        "Tog'",
+        "Qayiq",
+        "G'or",
+        "Quduq"
+      ],
+      "answer": "G'or"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ularga ulkan boylik va hokimiyat berilgan edi",
+        "Ular maymun va cho'chqalarga aylantirildi",
+        "Ular chuqur belgi sifatida uyqudan tirildilar",
+        "Ular katta to'fonda cho'kib ketishdi",
+        "Ular ulug'vor shohlikni qurdilar"
+      ],
+      "answer": "Ular chuqur belgi sifatida uyqudan tirildilar"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

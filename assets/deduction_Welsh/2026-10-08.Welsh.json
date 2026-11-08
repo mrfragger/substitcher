@@ -1,0 +1,61 @@
+{
+  "title": "Cerfwyr Cerrig y Dyffryn Hynafol",
+  "intro": "Dychmygwch wareiddiad a gododd yng nghymoedd creigiog Arabia, yn fedrus wrth gerfio cartrefi godidog o lethrau'r mynyddoedd. Ffynnasant gyda nerth a chelfyddyd, ond mae eu stori wedi'i nodi gan herfeiddiad oerllyd o rybudd dwyfol. Wrth i chi ymchwilio i'w stori, fe ddatgelwch bobl y mae eu haerllugrwydd wedi arwain at eu dinistrio'n llwyr. Pwy oedden nhw?",
+  "clues": [
+    "Etifeddon ni wlad o wastadeddau creigiog a chlogwyni uchel, lle adeiladon ni ein hanheddau â medrusrwydd heb ei ail.",
+    "Roedden ni'n adnabyddus am gerfio cartrefi diogel i'r mynyddoedd, gan deimlo'n ddiogel rhag unrhyw niwed.",
+    "Daeth negesydd atom o'n plith, yn ein hatgoffa o ffafrau Allah ac yn ein rhybuddio am gosb.",
+    "Gofynnon ni am arwydd, a daeth camel benywaidd ryfeddol allan o'r graig, prawf clir gan Allah.",
+    "Fe wnaethon ni herio'r rhybudd a rhwygo carreg filltir y gamel, gan watwar y negesydd a herio'r gosb.",
+    "Gorweddodd un ffrwydrad arnom yn ein cartrefi, ac erbyn y bore roedden ni'n gorwedd ar ein pennau ein hunain, fel pe na baem ni erioed wedi byw yno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pobl Thamud",
+        "Pobl 'Ad",
+        "Pobl Madyan",
+        "Pobl Nuh",
+        "Pobl Lut"
+      ],
+      "answer": "Pobl Thamud"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Hamstrung y gamel fenywaidd",
+        "Torrodd y Saboth",
+        "Addolodd y llo aur",
+        "Lladdodd y proffwyd a anfonwyd atynt",
+        "Adeiladodd twr i gyrraedd yr awyr"
+      ],
+      "answer": "Hamstrung y gamel fenywaidd"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y gamel fenywaidd",
+        "Yr Arch",
+        "Y staff",
+        "Y llaw wen",
+        "Y manna a'r soflieir"
+      ],
+      "answer": "Y gamel fenywaidd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i ddinistrio gan ffrwydrad",
+        "Wedi'i achub rhag dinistr",
+        "Wedi troi’n epaod",
+        "Boddi yn y môr",
+        "Wedi'i lyncu gan y ddaear"
+      ],
+      "answer": "Wedi'i ddinistrio gan ffrwydrad"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

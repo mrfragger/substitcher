@@ -1,0 +1,61 @@
+{
+  "title": "Vayingiseri Lava Fihliweke Lava Pfumeleke",
+  "intro": "Eka ku rhula ka nhlengeletano yo kwetsima, nhlengeletano yo hlamarisa yi fike yi huma exivandleni lexi nga voniwiki. Hi ku kokiwa hi ku hlevetela ka nchumu wo hlamarisa, va yingisele ku hlayiwa loku a ku ta fungha vumundzuku bya vona hilaha ku nga heriki. Vumbhoni bya vona byi tshama byi ri byin’wana bya lebyi hlawulekeke swinene eka matsalwa ya Xikwembu.",
+  "clues": [
+    "Hi swivumbiwa leswi humaka eka xivandla lexi nga voniwiki hi vo tala, naswona hi tile tanihi ntlawa.",
+    "Hi teke riendzo hi kongoma enhlengeletanweni leswaku hi ta twa nchumu wo hlamarisa.",
+    "Loko hi fika, hi yingisele ku hlayiwa loku hi siyeke hi hlamarile.",
+    "Hi pfumerile erivaleni leswaku van’wana exikarhi ka hina va lulamile kasi van’wana a va lulamanga.",
+    "A hi swi tiva leswaku a hi nge swi koti ku balekela xileriso xa Xikwembu emisaveni, kumbe hi ku balekela exibakabakeni.",
+    "Loko hi twa nkongomiso, a hi pfumela eka wona; loyi a pfumelaka eka Hosi ya yena a nge chavi ku lahlekeriwa kumbe ndzhwalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Ntlawa wa Jinn",
+        "Vanhu va le Iram",
+        "Vanhu va Tubba'.",
+        "Mfumo wa Rhoma",
+        "Rixaka ra Quraysh"
+      ],
+      "answer": "Ntlawa wa Jinn"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku yingisela ku hlayiwa ko kwetsima",
+        "Ku aka tiphuphu leti tlakukeke edorobeni ra hina",
+        "Ku hlota kamela ya xisati yo hlamarisa",
+        "Ku lovisiwa hikwalaho ko dlaya vaprofeta va hina",
+        "Ku andzisa rifuwo hi ndlela leyi nga pimekiki"
+      ],
+      "answer": "Ku yingisela ku hlayiwa ko kwetsima"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Nhlengeletano ya ku hlayela ko kwetsima",
+        "Muti wa tiphuphu to leha (Iram) .",
+        "Xihlovo lexi nga emananga",
+        "Xigodlho lexikulu xa nsuku",
+        "Bako ro kwetsima etintshaveni"
+      ],
+      "answer": "Nhlengeletano ya ku hlayela ko kwetsima"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Hi pfumerile hi tlhela hi lemukisa vanhu va hina",
+        "Ku lovisiwa hi ku buluka lokukulu loku humaka exibakabakeni",
+        "Ku xupuriwa hi moya lowu hisaka, lowu onhaka",
+        "U nyikiwile rifuwo lerikulu swinene ni matimba",
+        "U tshame a tiyile eku nga pfumeli"
+      ],
+      "answer": "Hi pfumerile hi tlhela hi lemukisa vanhu va hina"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

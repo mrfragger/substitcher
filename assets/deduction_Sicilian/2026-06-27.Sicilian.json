@@ -1,0 +1,61 @@
+{
+  "title": "L'Assenza Sacra",
+  "intro": "Oltri li duni dû tempu, c'è na storia di divuzzioni firmi e na fiducia accussì pisanti ca l'anima ca la purtava putìa rumpiri. Nna nu mumentu quannu lu pòpulu si vutàu versu la pazzia e l'oru, na figura ristàu ferma, chiamànnuli arrè, prigànnuli pâ pacienza e purtannu lu pisu di na prumissa sacra. Chista è la storia di unu ca fu scigghiutu comu aiutu, visir e guardianu dâ fede duranti n'assenza sacra. Riusci a scopriri l'identità di chista ànima firmi?",
+  "clues": [
+    "Condivìdu lu sangu di nu granni prufeta ca fu scigghiutu pi parrari cu Allah direttamenti supra nu munti sacru.",
+    "Na vota lu me frati prigàu Allah pi aiutari a parrari chiaramenti a nu granni oppressuri.",
+    "Fui scigghiutu di Allah pi stari vicinu a me frati comu aiutu e visir.",
+    "Insèmmula affruntàumu nu suvranu tirannicu ca vulìa èssiri chiamatu lu cchiù àutu dî dèi.",
+    "Mentri lu me frati cumunicava cu Allah ntâ muntagna, lu nostru pòpulu si furmò n’ìdulu dû so’ oru.",
+    "Sugnu lu frati di Mosè, numinatu di Allah comu sò visir, citatu pi nomu ntô Curanu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sugnu iu?",
+      "options": [
+        "Prufeta Arun (Aaron)",
+        "Prufeta Musa",
+        "Lu prufeta Dawud",
+        "Lu prufeta Yaqub",
+        "Lu prufeta Ishaq"
+      ],
+      "answer": "Prufeta Arun (Aaron)"
+    },
+    "trial": {
+      "label": "Pruva/Eventu",
+      "options": [
+        "La crisi dû cultu dû viteddu",
+        "Lu granni diluviu di Nuh",
+        "Lu cummattimentu di Badr",
+        "La distruzzioni di Thamud",
+        "La distruzzioni di Sodoma"
+      ],
+      "answer": "La crisi dû cultu dû viteddu"
+    },
+    "location": {
+      "label": "Elementu chiavi",
+      "options": [
+        "Lu viteddu d'oru",
+        "L'arca di Noè",
+        "Lu rusceddu ardenti",
+        "La Grutta di Hira",
+        "Lu Tronu di Sabba"
+      ],
+      "answer": "Lu viteddu d'oru"
+    },
+    "outcome": {
+      "label": "Risurtatu",
+      "options": [
+        "L'innucenza cunfirmata di Allah",
+        "Annegamentu dû farauni",
+        "L'edificiu dâ Kaaba",
+        "Attravirsata sicura dû mari",
+        "Ascinzioni ô Celu"
+      ],
+      "answer": "L'innucenza cunfirmata di Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

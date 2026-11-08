@@ -1,0 +1,61 @@
+{
+  "title": "Taifa Lililokataa Utaratibu wa Asili",
+  "intro": "Katika eneo ambalo hadithi yake inarudiwa kwa karne nyingi, jamii iliishi katika uasi wa wazi dhidi ya sheria za usafi. Matendo yao yalikuwa ya kipekee sana kiasi kwamba yanakumbukwa kama onyo kwa wanadamu wote. Nafsi hizi zilikuwa nani, na ni hatima gani iliyowapata?",
+  "clues": [
+    "Tuliishi katika nchi iliyo karibu na njia ambayo wasafiri walipitia mara nyingi, lakini safari yao tuliifanya kuwa hatari.",
+    "Tulifanya vitendo vya uasherati ambavyo hakuna mtu yeyote duniani aliyewahi kufanya hapo awali.",
+    "Mjumbe kutoka miongoni mwetu alituita tuache njia zetu, lakini tulimkataa na kudai adhabu ikiwa alikuwa mkweli.",
+    "Wageni warembo walipokuja katika jiji letu, tulijaribu kuwashambulia, bila kujua kwamba walikuwa wajumbe wa uharibifu.",
+    "Tulionywa kuhusu adhabu mbaya sana ikiwa hatungeacha, lakini tulidhihaki onyo hilo na kubaki katika dhambi zetu.",
+    "Mvua ya mawe kutoka mbinguni ilitunyeshea, na nyumba zetu zikapinduliwa, bila kuacha alama yoyote isipokuwa ishara kwa wale wanaotafakari."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Lut",
+        "Watu wa Thamud",
+        "Watu wa A'ad",
+        "Watu wa Madyan",
+        "Watu wa Saba"
+      ],
+      "answer": "Watu wa Lut"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alifanya uasherati usio wa kawaida na barabara zilizozuiliwa",
+        "Aliabudu ndama wa dhahabu",
+        "Alimuua ngamia jike mtakatifu",
+        "Alidanganywa katika biashara na kuwanyima watu",
+        "Alijenga mnara mrefu ili kupingana na mbingu"
+      ],
+      "answer": "Alifanya uasherati usio wa kawaida na barabara zilizozuiliwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Malaika wamejificha kama wageni wazuri",
+        "Ngamia jike akitoka kwenye mwamba",
+        "Fimbo inayobadilika na kuwa nyoka",
+        "Mashua iliyojengwa juu ya mlima",
+        "Moto uliokuwa baridi na wa amani"
+      ],
+      "answer": "Malaika wamejificha kama wageni wazuri"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imeharibiwa na mvua ya mawe kutoka angani",
+        "Imemezwa na ardhi",
+        "Kuzama katika mafuriko makubwa",
+        "Kupigwa na mlipuko wa kilio",
+        "Imebadilishwa kuwa nyani"
+      ],
+      "answer": "Imeharibiwa na mvua ya mawe kutoka angani"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

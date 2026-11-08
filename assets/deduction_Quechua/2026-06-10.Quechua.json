@@ -1,0 +1,61 @@
+{
+  "title": "Huertamanta Waqaychaqkuna",
+  "intro": "Huk sumaq huertapim huk ayllu hatun prometekurqaku. Ichaqa decidisqankuqa pruebasqa karqan Diospa munaynin chaypi yanapakuqtin, chaymi askha kasqankuta mana imayoq hallp’aman tukuchirqan.",
+  "clues": [
+    "Saminchasqan karqayku askha huertawan, ichaqa hatunchakuqmi karqayku.",
+    "Wakchakunawan mana rakinakuspa cosechanaykupaqmi huk planta ruwarqayku.",
+    "Tutamantapachan lloqsirqayku, chay yuyaykusqaykupi mana iskayrayaspa.",
+    "Ichaqa chayasqaykupin tarirqayku huertaykuta huk tutallapi thunisqa kashaqta.",
+    "Pantasqanchikta musyakuspaykutaqmi huchachayta qallaykurqaniku.",
+    "Tukuyninpiqa pesapakurqanchikmi, ichaqa ancha tardeñam chay yachachikuyta yacharurqaniku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pikunataq kanchik?",
+      "options": [
+        "Huertapi runakuna",
+        "Runakuna Machaypi",
+        "Runakuna Elefante",
+        "Thamud llaqtapi runakuna",
+        "Runakuna 'Ad"
+      ],
+      "answer": "Huertapi runakuna"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Huk huertaqa usphamanmi tukupurqan",
+        "Tukuy imata chinkachiq millp’u",
+        "Allpaman yarqay chayamuq",
+        "Huk ejercito pisqukuna atacaq",
+        "Sachakunata saphichakuq hatun wayra"
+      ],
+      "answer": "Huk huertaqa usphamanmi tukupurqan"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Huk huerta",
+        "Huk machay",
+        "Huk buque",
+        "Huk urqu",
+        "Huk palacio"
+      ],
+      "answer": "Huk huerta"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Paykunaqa pesapakurqankun ichaqa huertankuta chinkachirqanku",
+        "Paykunaqa llapanmi chinkachisqa karqanku",
+        "Paykunaqa monokunamanmi tukusqaku",
+        "Paykunaqa iñiywanmi qespichisqa karqanku",
+        "Paykunan kamachikuqman tukupurqanku"
+      ],
+      "answer": "Paykunaqa pesapakurqankun ichaqa huertankuta chinkachirqanku"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

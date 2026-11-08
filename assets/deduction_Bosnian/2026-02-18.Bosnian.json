@@ -1,0 +1,61 @@
+{
+  "title": "Nepokolebljivi svjedok",
+  "intro": "Razvija se duboka naracija koja otkriva nepokolebljivu odlučnost zajednice suočene s ogromnom tiranijom. Njihova priča služi kao svjedočanstvo vjere, čak i kada se suoči s najvećom žrtvom. Ovaj izvještaj podsjeća nas na moć vjerovanja protiv ogromnog ugnjetavanja.",
+  "clues": [
+    "Bili smo grupa čija je priča ispričana u kratkoj, snažnoj suri, koja upozorava na progon.",
+    "Suočili smo se s vladarom koji je želio iskorijeniti naše vjerovanje u Jednog Boga, Gospodara Prijestolja, Hvalevrijednog.",
+    "Bili smo podvrgnuti strašnom testu koji je uključivao ogromnu jamu iskopanu u zemlji.",
+    "Gledali smo kako vjernici, uključujući i bebe, bivaju bačeni u bijesni pakao unutar te jame.",
+    "Naši mučitelji su bili prokleti zbog svojih djela, dok je nama obećana ogromna nagrada za našu postojanost.",
+    "Vladarov pokušaj da uništi našu vjeru samo je učvrstio naše mjesto mučenika pred Allahom, koji je svjedok svemu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ljudi iz Semuda",
+        "Ljudi iz 'Ad",
+        "Ljudi iz jarka",
+        "Ljudi Luta",
+        "Ljudi slona"
+      ],
+      "answer": "Ljudi iz jarka"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Velika poplava",
+        "Gorući grm",
+        "Utapanje u moru",
+        "Vatrena jama",
+        "Zemljotres"
+      ],
+      "answer": "Vatrena jama"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Jarak",
+        "Planina",
+        "Bunar"
+      ],
+      "answer": "Jarak"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dobili su kraljevstvo",
+        "Spašeni su čudom",
+        "Postigao mučeništvo i Raj",
+        "Bili su raspršeni po zemljama",
+        "Dato im je ogromno bogatstvo"
+      ],
+      "answer": "Postigao mučeništvo i Raj"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

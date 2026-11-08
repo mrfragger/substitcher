@@ -1,0 +1,61 @@
+{
+  "title": "Însoțitorul care s-a întors",
+  "intro": "Ești pe cale să descoperi povestea unui suflet care a trăit în umbra profeției, dar a ales o cale care a dus la ruină. Această figură a împărțit o casă cu unul dintre mesagerii aleși ai lui Allah, dar a picat testul credinței. Cine este acest tovarăș pierdut?",
+  "clues": [
+    "Am trăit printre oameni care au respins chemarea la dreptate și nu m-am opus lor.",
+    "Am fost căsătorită cu un profet al lui Allah, dar nu împărtășeam credința lui.",
+    "Când mesagerii au venit la mine acasă cu un avertisment, nu i-am crezut.",
+    "Soției mele i s-a poruncit să părăsească orașul împreună cu credincioșii, iar eu nu eram printre ei.",
+    "Pedeapsa a căzut asupra poporului meu, iar eu am fost nimicit odată cu el.",
+    "Sunt menționată în Coran ca exemplu de necredință, alături de soția lui Nuh, în Sura At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Soția profetului Nuh",
+        "Soția profetului Lut",
+        "Soția profetului Ibrahim",
+        "Soția profetului Musa",
+        "Soția profetului Ayyub"
+      ],
+      "answer": "Soția profetului Lut"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Și-a trădat soțul necredincioasă",
+        "A respins mesajul profetului Hud",
+        "Se închinau în mod deschis la idoli în Kaaba",
+        "A complotat împotriva misiunii soțului ei",
+        "A refuzat să accepte profeția fiului ei"
+      ],
+      "answer": "Și-a trădat soțul necredincioasă"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Orașul Sodoma",
+        "Orașul Madyan",
+        "Orașul Iram",
+        "Orașul Babilon",
+        "Orașul Ierusalim"
+      ],
+      "answer": "Orașul Sodoma"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Salvată împreună cu soțul ei",
+        "Distruși împreună cu necredincioșii",
+        "Exilat într-o țară îndepărtată",
+        "S-a pocăit și a fost iertat",
+        "A devenit credincios mai târziu"
+      ],
+      "answer": "Distruși împreună cu necredincioșii"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

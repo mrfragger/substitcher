@@ -1,0 +1,61 @@
+{
+  "title": "Harrokeriaren jauregiaren barruko sugarra",
+  "intro": "Antzinako munduko jauregi boteretsuenaren harresi handien atzean, errege-dekreturik isilarazi ezin zezakeen sekretu bat zeraman bihotzean pertsonaia bat bizi zen. Inguruko guztiak jainko faltsuen aurrean makurtu ziren bitartean, arima honek fede isila piztuta mantentzen zuen barruan. Lurralde hartako agintariak jainkotiartzat hartzen zuen bere burua, baina pertsona honek egia aukeratu zuen erosotasunaren gainetik, eta debozioa segurtasunaren gainetik. Gaur, zure zeregina da arima ausart hau nor zen jakitea, zeinaren istorioa fede sendoaren adibide indartsuenetako bat izaten jarraitzen duen.",
+  "clues": [
+    "Aberastasun izugarri eta handitasun paregabeko leku batean bizi nintzen, non lurraldeko agintariak botere absolutua zuen guztiaren gainean.",
+    "Ingurukoek jainko faltsuei makurtzen zitzaizkien bitartean, nik fedearen argi isila mantentzen nuen bihotzean.",
+    "Modu ezohiko batean ekarri zidaten haur bat aurkitu eta adoptatu nuen - ez jaiotzez, baizik eta ibai handi baten uren bidez.",
+    "Jaunari otoitz egin nion, Paradisuan haren ondoan etxe bat eta inguratzen ninduen tiraniatik salbamena eskatuz.",
+    "Hazi nuen haurra nire patua kontrolatzen zuen agintariari berari erronka egiteko hazi zen, eta mehatxatuta egon nintzenean ere tinko eutsi nion nire fedeari.",
+    "Ni naiz Koranean fedearen eredu gisa ohoratzen dena, eta Faraoiaren beraren jauregian bizi izan nintzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Asiya, faraoiaren emaztea",
+        "Mariam, Isaren ama",
+        "Bilqis, Sabako erregina",
+        "Lut profetaren emaztea",
+        "Imranen emaztea."
+      ],
+      "answer": "Asiya, faraoiaren emaztea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Profeta handi bihurtu zen haur abandonatu bat aurkitu eta haztea",
+        "Tirano batek su handi batera botata izatea",
+        "Herri bat suntsitu zuen uholde handi baten lekuko izana",
+        "Datil palmondo baten astinaldia eta elikadura ikustea",
+        "Adin aurreratuan izan arren seme bat sortzea"
+      ],
+      "answer": "Profeta handi bihurtu zen haur abandonatu bat aurkitu eta haztea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Paregabeko handitasuneko errege-jauregia",
+        "Uholde bati aurre egiteko eraikitako itsasontzi handi bat",
+        "Mendietan ezkutatutako kobazulo sakon bat",
+        "Mendi tontorrean piztutako su bizia",
+        "Hormek inguratutako lorategia"
+      ],
+      "answer": "Paregabeko handitasuneko errege-jauregia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ala-ren nahiak eman zion etxea Paradisuan",
+        "Uholde handi batek antzinako nazio bateko sinesgabeak suntsitu zituen",
+        "Mundu honetan botere eta autoritate izugarrizko erreinua eman zen",
+        "Hegan zebiltzan txoriek armada ahaltsu bat sakabanatu zuten",
+        "Jainkotasuna aldarrikatzen zuen tirano bat itsasoan ito zen"
+      ],
+      "answer": "Ala-ren nahiak eman zion etxea Paradisuan"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

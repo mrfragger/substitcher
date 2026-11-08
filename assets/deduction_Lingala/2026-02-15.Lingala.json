@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo ya Bokasi",
+  "intro": "Moto oyo akanisami mpo na mayele mpe bokambi ya mozindo, kopesaka toli oyo eleki mabota. Maloba na bango ezali litatoli ya bonzambe mpe ntina ya koyeba mapamboli mpe mimekano uta na Bonzambe. Découvrez identité ya molimo oyo ya lokumu.",
+  "clues": [
+    "Nazalaki profeta te, kasi mayele na ngai ekufaka te na Makomi ya Bonzambe.",
+    "Toli na ngai epai ya mwana na ngai ezalaki kopesa ntina mingi na botɔndi epai ya Allah mpe kokima shirk.",
+    "Nateyaki na ntina ya ntina ya libondeli, kopesa mitindo ya malamu, mpe kopekisa mabe.",
+    "Nakebisaki na lolendo mpe kotambola na lolendo na mabele.",
+    "Nkombo na ngai epesami na mokapo mobimba ya Coran, oyo ezali komonisa mateya na ngai.",
+    "Toli na ngai ezalaki na motema molai na mikakatano, mpo ete ya solo, yango euti na makambo oyo eleki makasi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Idris",
+        "Mosakoli Yahya",
+        "Luqman, azali moto ya mayele",
+        "Imran, oyo azali",
+        "Mosakoli Hud"
+      ],
+      "answer": "Luqman, azali moto ya mayele"
+    },
+    "trial": {
+      "label": "Mateya/Bokambami ya ntina",
+      "options": [
+        "Kotonga masuwa",
+        "Kokutana na limpinga moko ya nguya",
+        "Kopesa mayele mpe toli ya bizaleli malamu",
+        "Ko interpréter ba ndoto",
+        "Kokamba ekolo moko na elonga"
+      ],
+      "answer": "Kopesa mayele mpe toli ya bizaleli malamu"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nzete moko oyo ezali kozika",
+        "Mbisi moko ya monene",
+        "Ngomba moko ya sikisiki",
+        "Toli ya bwanya epai na mwana",
+        "Palais moko monene"
+      ],
+      "answer": "Toli ya bwanya epai na mwana"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki mokonzi",
+        "Bapesaki ye mosala ya mosakoli",
+        "Mayele na ye ekomamaki na kati ya Coran",
+        "Akambaki bato na ye na mokili ya sika",
+        "Bapesaki ye bozwi monene mpenza"
+      ],
+      "answer": "Mayele na ye ekomamaki na kati ya Coran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

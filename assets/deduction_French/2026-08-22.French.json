@@ -1,0 +1,61 @@
+{
+  "title": "La ville qui croyait au temps",
+  "intro": "Dans les annales de la miséricorde divine, il existe une communauté dont le tournant décisif fut un moment de prise de conscience collective. Vous êtes sur le point de découvrir leur histoire : un récit d’avertissement, de repentir et de répit qui les a distingués du destin des autres nations.",
+  "clues": [
+    "Nous étions un peuple auquel un messager fut envoyé, et nous avons d'abord refusé d'écouter son appel.",
+    "Lorsque les signes d'une punition imminente sont devenus évidents, nous avons compris la véracité de son avertissement.",
+    "Nous nous sommes tournés vers notre Seigneur avec un repentir sincère, et notre foi a été acceptée.",
+    "La punition qui nous avait été infligée fut levée en raison de notre foi.",
+    "Notre histoire est citée comme une exception parmi les villes qui ont cru après avoir vu la punition.",
+    "Nous étions le peuple du prophète qui fut avalé par la baleine, et pourtant nous avons été sauvés de la destruction."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple de Yunus",
+        "Le peuple de Nuh",
+        "Les habitants de Hud",
+        "Peuple de Salih",
+        "Peuple de Lut"
+      ],
+      "answer": "Peuple de Yunus"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Une inondation dévastatrice",
+        "Une violente tempête de vent",
+        "Une punition infamante imminente qui a été évitée",
+        "La terre les engloutit",
+        "Une pluie de pierres"
+      ],
+      "answer": "Une punition infamante imminente qui a été évitée"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'arche",
+        "La chamelle",
+        "Une ville de cent mille habitants",
+        "Le personnel de Musa",
+        "Le trésor de Qarun"
+      ],
+      "answer": "Une ville de cent mille habitants"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Ils ont été complètement détruits.",
+        "Ils ont pu en profiter pendant un certain temps.",
+        "Ils furent transformés en singes",
+        "Ils se sont noyés",
+        "Ils furent engloutis par la terre"
+      ],
+      "answer": "Ils ont pu en profiter pendant un certain temps."
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

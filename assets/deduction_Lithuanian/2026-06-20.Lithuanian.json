@@ -1,0 +1,61 @@
+{
+  "title": "Atstumtasis iš sodo",
+  "intro": "Paslaptinga būtybė kadaise gyveno aukščiausiuose kūrinijos sluoksniuose, arčiau Dieviškumo, nei daugelis galėjo suvokti. Tačiau įsišaknijo išdidumas, ir vienas nepaklusnumo aktas pakeitė egzistencijos eigą. Dabar ši būtybė klajoja kaip prisiekęs priešas, šnabždėdama ir rezgdama intrigas, kol ateis pažadėta diena. Ar galite atskleisti šios puolusios būtybės tapatybę?",
+  "clues": [
+    "Kadaise buvau vienas iš tų, kurie buvo arčiausiai dieviškojo buvimo, iškeltas aukščiau už didžiąją dalį kūrinijos.",
+    "Esu sukurtas iš kaitrios stichijos, o ne iš žemės ar molio.",
+    "Kai man buvo liepta nusilenkti naujam kūriniui, aš atsisakiau – vedamas to, ką laikiau savo paties pranašumu.",
+    "Buvau išmestas ir prakeiktas, bet galiausiai man buvo suteiktas atidėjimas iki žinomo, paskirto laiko.",
+    "Prisiekiau suklaidinti kuo daugiau žmonių, artindamasis prie Adomo palikuonių iš visų pusių.",
+    "Esu atviras, paskelbtas visos žmonijos priešas, amžinai rezgantis sąmokslą ir šnabždantis iki paskirtos pabaigos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Iblis",
+        "Harutas",
+        "Samiri",
+        "Pranašas Ilja",
+        "Abu Lahabas"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Bandomasis / Įvykis",
+      "options": [
+        "Atsisakymas nusilenkti prieš Adomą",
+        "Auksinio veršio statyba, kad žmonės galėtų jį garbinti",
+        "Mokydamas Babilono žmones burtų",
+        "Jūros perskyrimas lazda",
+        "Akimirksniu nešdamas Šebos karalienės sostą"
+      ],
+      "answer": "Atsisakymas nusilenkti prieš Adomą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Edeno sodas",
+        "Turo kalnas.",
+        "Raso šulinys",
+        "Faraono rūmai",
+        "Miegančiųjų ola"
+      ],
+      "answer": "Edeno sodas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Atokvėpis suteiktas iki Teismo dienos",
+        "Nuskendo jūroje su armija",
+        "Palaidotas gyvas po griūvančiais rūmais",
+        "Pavirto į beždžionę arba beždžionę",
+        "Pakeltas į aukštesnį rangą"
+      ],
+      "answer": "Atokvėpis suteiktas iki Teismo dienos"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "I raro i te marumaru o te nikau tāte",
+  "intro": "He kōrero e whāia ana mō tētahi wairua i wehea i mua i tōna whānautanga, i atawhaitia i roto i ngā pakitara tapu, ā, i whiriwhiria kia mau i tētahi tohu kāore anō kia kitea e te ao. I te putanga mai o te whakapae mai i ngā taha katoa, ka puta mai he reo mai i ngā wāhi tino kore e taea te whakapono hei whakamutu i te feaa katoa. Ka taea e koe te kite ko wai i haere i raro i te marumaru o te nikau tāte?",
+  "clues": [
+    "I whakatapua ahau ki te mahi a te Kaha Rawa i mua i taku whakamānawa tuatahi, he oati nā te mea nāna ahau i kawe.",
+    "I tipu ake ahau i raro i te manaakitanga o tētahi kaitiaki tika i roto i ngā rūma tapu o te whare karakia.",
+    "I ngā wā katoa e haere mai ai taku kaitiaki ki tōku rūma, ka kitea e ia he kai māku nō ngā wā o te tau kāore i tika kia pērā.",
+    "I tae mai ngā rongopai pai mō tētahi tama, ahakoa kāore i rite te wāhi mō ngā mea i whakaaria mai i runga i tōku āhua.",
+    "I haere atu ahau ki tētahi wāhi tawhiti, ā, i reira tētahi nikau tāte i taumarumaru mai ki ahau, i te mea e rere ana tētahi awa i raro.",
+    "I te taenga mai o te whakapae, i te karapotinga mai hoki o ngā pātai, ka tohu atu ahau ki taku tamaiti whānau hou — ā, i kōrero mai ia mai anō i te whanga ki te whakamutu i ngā feaa katoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Meriama",
+        "Hera",
+        "Hāwa",
+        "Umu Musa",
+        "Te Wahine a Noa"
+      ],
+      "answer": "Meriama"
+    },
+    "trial": {
+      "label": "Whakamātautau / Takahanga",
+      "options": [
+        "Te whānautanga o tētahi tama whakamiharo i roto i te noho motuhake",
+        "Te maka ki roto i te ahi mura e ngā kaikarakia whakapakoko",
+        "Te ora i te waipuke nui me te hunga torutoru kua whiriwhiria",
+        "Te wehenga mai i te pēpi i maka ki te awa",
+        "Te tū atu ki te rangatira nui o Ihipa"
+      ],
+      "answer": "Te whānautanga o tētahi tama whakamiharo i roto i te noho motuhake"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He nikau tāti me te awa e rere ana i raro iho",
+        "He āka nui i runga i ngā ngaru nunui",
+        "He tokotoko i wehe i te moana nui kia rua",
+        "He ahi mura hei kai i te wairua pono",
+        "He torona koura kua whakapaipaihia ki ngā kōhatu utu nui"
+      ],
+      "answer": "He nikau tāti me te awa e rere ana i raro iho"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakahonoretia hei wahine tino rangatira o ngā wāhine katoa",
+        "I tūtaki anō ki tētahi tamaiti aroha i muri i te wehenga roa",
+        "I ārahi i te iwi katoa i roto i te here o te kaitukino",
+        "I whakatūpato i tētahi iwi kua ngaro i roto i te moepuku",
+        "I whakawhiwhia ki te mana whakahaere i runga i ngā jinn, i te tangata, me ngā hau"
+      ],
+      "answer": "I whakahonoretia hei wahine tino rangatira o ngā wāhine katoa"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

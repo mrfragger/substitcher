@@ -1,0 +1,61 @@
+{
+  "title": "Pierwsi, którzy szukali przebaczenia",
+  "intro": "Cofnijmy się do czasów sprzed pierwszego wschodu słońca, zanim ktokolwiek stąpał po ziemi. Postać została stworzona z najskromniejszych materiałów, otrzymała miejsce ponad aniołami i umieszczona w świętym ogrodzie z wyraźnym ostrzeżeniem. A jednak w jednej chwili dokonano wyboru – wyboru, który odbił się echem w całej historii ludzkości. Kim jest ta postać?",
+  "clues": [
+    "Zostałem stworzony w sposób nieporównywalny z żadnym innym — zostałem uformowany z prochu ziemi i obdarzony żywą duszą ręką Stwórcy.",
+    "Dano mi tak głęboką wiedzę, że nawet aniołowie na niebie byli nią zachwyceni.",
+    "Całemu niebu rozkazano pokłonić się przede mną i wszyscy mi się podporządkowali – oprócz jednego, który odmówił z powodu pychy.",
+    "Umieszczono mnie w świętym ogrodzie, miejscu wiecznego pocieszenia i zaopatrzenia, ale z jednym surowym zakazem.",
+    "Zapomniałem, poślizgnąłem się i nie posłuchałem — i głęboko odczułem ciężar swego błędu.",
+    "Zwróciłem się do mojego Pana ze szczerymi słowami, a On przyjął moją skruchę, bo On jest Najbardziej Przebaczający."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Adam",
+        "Prorok Dawud",
+        "Prorok Mahomet",
+        "Iblis",
+        "Prorok Jakub"
+      ],
+      "answer": "Prorok Adam"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Aniołom nakazano pokłonić się",
+        "Wielki Potop został wysłany",
+        "Rozpalono wielki ogień, który był chłodny i bezpieczny",
+        "Arogancki władca utonął w morzu",
+        "Zniszczono armię słoni"
+      ],
+      "answer": "Aniołom nakazano pokłonić się"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogród Rozkoszy",
+        "Góra Synaj",
+        "Święty Meczet",
+        "Rzeka Nil",
+        "Jaskinia"
+      ],
+      "answer": "Ogród Rozkoszy"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pokuta została przyjęta przez Allaha",
+        "Utonął w morzu",
+        "Połknięty przez wielką rybę",
+        "Naród został uderzony potężną eksplozją",
+        "Spalony przez palący wiatr"
+      ],
+      "answer": "Pokuta została przyjęta przez Allaha"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

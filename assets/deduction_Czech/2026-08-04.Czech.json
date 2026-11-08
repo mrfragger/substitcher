@@ -1,0 +1,61 @@
+{
+  "title": "Ozvěna skrz útesy",
+  "intro": "Představte si údolí, kde jsou obydlí vytesána z útesů a vzduch nese vzpomínku na varování, které nikdo neposlouchal. Kdysi zde vzkvétal lid, požehnaný, ale vzdorovitý, dokud se z té samé skály, které důvěřovali, nevynořilo znamení.",
+  "clues": [
+    "Byli jsme lidé, kteří si v horách vytesali bezpečné domovy a cítili se bezpečně ve svých skalnatých příbytcích.",
+    "Žili jsme v zemi plání a kamení, požehnané zahradami a prameny.",
+    "Přišel posel z našeho středu a vyzval nás, abychom opustili své falešné bohy a uctívali Jediného pravého Stvořitele.",
+    "Arogantně jsme si stanovili podmínku víry: jedinečné znamení, které by vyplynulo ze samotných skal, které jsme vytesali.",
+    "Když se ze skály objevila slíbená velbloudice, jasné znamení, naše elita stále odmítla a podřízla jí šlachy navzdory varování před hrozící zkázou.",
+    "Tři dny po našem činu se údolím rozlehla ohlušující rána a my jsme byli proměněni v sutiny, naše domy v hroby."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Lidé z ¿Ad",
+        "Lidé z Thamudu",
+        "Lidé z Madyanu",
+        "Lidé z háje",
+        "Lidé z jeskyně"
+      ],
+      "answer": "Lidé z Thamudu"
+    },
+    "trial": {
+      "label": "Naše zkušební/hlavní událost",
+      "options": [
+        "Podvrtnutí Alláhovy velbloudice",
+        "Uctívání zlatého telete",
+        "Porušení sabatu",
+        "Stavba věže do nebes",
+        "Zabíjení proroků"
+      ],
+      "answer": "Podvrtnutí Alláhovy velbloudice"
+    },
+    "location": {
+      "label": "Klíčový prvek našeho příběhu",
+      "options": [
+        "Alláhova velbloudice",
+        "Zaměstnanci Musy",
+        "Archa Noe",
+        "Bílá ruka Musy",
+        "Pták z Isy"
+      ],
+      "answer": "Alláhova velbloudice"
+    },
+    "outcome": {
+      "label": "Náš výsledek",
+      "options": [
+        "Zničení ohlušujícím výbuchem",
+        "Déšť kamenů z nebe",
+        "Potopa, která zaplavila zemi",
+        "Prudký vítr, který nás vyvrátil z kořenů",
+        "Země nás pohlcuje"
+      ],
+      "answer": "Zničení ohlušujícím výbuchem"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Dormeto Preter Tempo",
+  "intro": "Imagu tempon, kiam la vero estis silentigita kaj kredantoj estis ĉasitaj. Malgranda grupo elektis retiriĝon anstataŭ kapitulaco, trovante rifuĝon en la plej neverŝajna loko — loko, kiu fariĝus ilia ripozejo dum nekalkuleblaj jarcentoj. Kiam ili fine vekiĝis, la mondo transformiĝis ĉirkaŭ ili. Kiuj estas ĉi tiuj dormantaj animoj?",
+  "clues": [
+    "Ni estis junuloj loĝantaj en antikva urbo.",
+    "Nia komunumo postulis, ke ni adori kune kun ili, sed ni rifuzis.",
+    "Ni fuĝis el la urbo serĉante rifuĝon kontraŭ tiuj, kiuj kontraŭis niajn kredojn.",
+    "Fidela kvarpieda kunulo restis ĉe la enirejo de nia kaŝejo.",
+    "Alaho igis nin dormi dum tricent naŭ jaroj.",
+    "Kiam ni fine vekiĝis, nia iam persekutanta urbo ampleksis la fidon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "Aŝab al-Kahf (La Homoj de la Kaverno)",
+        "Aŝab al-Fil (La Armeo de la Elefanto)",
+        "Ashab al-Ukhdud (La Kunuloj de la Tranĉeo)",
+        "La Hawariyyun (Disĉiploj de Isa)",
+        "Yajuj wa Majuj (Gog kaj Magog)"
+      ],
+      "answer": "Aŝab al-Kahf (La Homoj de la Kaverno)"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Ni retiriĝis en kavernon kaj dormis dum jarcentoj",
+        "Ni estis savitaj de flamanta fajro",
+        "Nin englutis granda fiŝo",
+        "Ni estis testitaj per mirakla kamelino",
+        "Ni ricevis naŭ klarajn signojn"
+      ],
+      "answer": "Ni retiriĝis en kavernon kaj dormis dum jarcentoj"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Profunda kaverno en la montoj",
+        "Boato sur la malferma maro",
+        "Tura strukturo atinganta la ĉielon",
+        "Ĝardeno dividita inter du rivaloj",
+        "Bariero el fero kaj kupro"
+      ],
+      "answer": "Profunda kaverno en la montoj"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ni vekiĝis kaj trovis, ke nia urbo turniĝis al fido",
+        "Flamanta fajro fariĝis malvarmeta kaj paca",
+        "Malamika armeo dronis en la maro",
+        "Birdoj portantaj ŝtonojn detruis la malamikon",
+        "Granda fiŝo liberigis nin sur la bordon"
+      ],
+      "answer": "Ni vekiĝis kaj trovis, ke nia urbo turniĝis al fido"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kulelerin İnşaatçıları",
+  "intro": "Çok eski zamanlarda, etkileyici inşaat başarıları ve müthiş gücüyle öne çıkan güçlü bir medeniyet yükseldi. Bu kolektif varlığa bol kaynak ve fiziksel güç bahşedilmişti, ancak onlar kendilerine yol göstermek için gönderilen ilahi mesaja karşı gelmeyi seçtiler. Onların öyküsü, tarihin kayıtlarında derin bir ders, gerçeği reddetmenin sonuçlarına dair bir kanıt olarak yer almaktadır.",
+  "clues": [
+    "Bizlere, çağımızdaki diğer insanlardan farklı olarak, muazzam bir fiziksel güç ve yapı bahşedilmişti.",
+    "Sonsuza dek yaşayacağımızı düşünerek, her yüksek yere görkemli yapılar ve yüksek sütunlar inşa etmemizle tanınıyorduk.",
+    "Bizden bir elçi gönderildi; bizi uyardı, yalnızca Allah'a ibadet etmeye ve putlarımızı terk etmeye çağırdı.",
+    "Biz kibirli bir şekilde elçimize, \"Acaba bize sadece Allah'a ibadet etmemizi ve atalarımızın taptığı şeyleri terk etmemizi sağlamak için mi geldiler?\" diye sorduk.",
+    "Topraklarımız bahçelerle, pınarlarla ve verimli tarlalarla bereketliydi, fakat biz refahımızı Yaratıcımıza değil, kendi gücümüze bağladık.",
+    "Sürekli inançsızlığımız ve alaycılığımız yüzünden, sonunda günlerce ve gecelerce süren korkunç, öfkeli bir rüzgar tarafından yok edildik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Thamud Halkı",
+        "Firavun Halkı",
+        "Nuh Halkı",
+        "Madyan halkı",
+        "'Ad' halkı"
+      ],
+      "answer": "'Ad' halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Belirli bir deveyi kurban etmesinin istenmesi",
+        "Kur'an gibi on sure üretme konusunda meydan okumayla karşı karşıya kalmak.",
+        "Denizin yarılmasının gösterilmesi",
+        "Bir peygamber tarafından yaklaşan tufan konusunda uyarılmak",
+        "Aşırı yapılaşmaya ve putlara tapınmaya karşı uyarıda bulunan bir peygamberi reddetmek."
+      ],
+      "answer": "Aşırı yapılaşmaya ve putlara tapınmaya karşı uyarıda bulunan bir peygamberi reddetmek."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Yangın",
+        "Sodom Şehri",
+        "Yüksek sütunlar ve sağlam yapılar"
+      ],
+      "answer": "Yüksek sütunlar ve sağlam yapılar"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Büyük bir selde boğuldu",
+        "Toprak tarafından yutuldu",
+        "Maymunlara ve domuzlara dönüştürüldüler",
+        "Şiddetli bir patlamayla yok edildi.",
+        "Şiddetli ve yıkıcı bir rüzgar tarafından yok edildi."
+      ],
+      "answer": "Şiddetli ve yıkıcı bir rüzgar tarafından yok edildi."
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

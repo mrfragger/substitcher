@@ -1,0 +1,61 @@
+{
+  "title": "An Glao Gan Éiste i dTír na hArdúlachta",
+  "intro": "Seasann tú i bhfothracha sibhialtachta a bhí tráth ina hiontach, áit nach raibh aon teorainn leis an gcumhacht ná leis an uabhar. Shiúil teachtaire ina measc, ag glaoch ar an bhfírinne, ach bhí a gcroíthe cruaite. Níor tugadh aird ar an rabhadh, agus rinneadh uirlis feirge den spéir féin. Cé hé an teachtaire seo, agus cad a tharla dóibh siúd a dhiúltaigh don ghlao?",
+  "clues": [
+    "Cuireadh mé chuig pobal nach raibh a leithéid de neart ann agus a thóg séadchomhartha ar gach ardáit.",
+    "Mheas mo mhuintir nach raibh siad incháilithe agus dúirt siad, ‘Cé atá níos láidre ná sinn i neart?’",
+    "Ghlaoigh mé orthu adhradh a thabhairt d’Allah amháin, ach chuir siad i leith mé go raibh mé amaideach agus bréagach.",
+    "D’fhiafraigh siad díom an pionós a gheall mé a thabhairt dá mbeinn fírinneach.",
+    "Chuir Allah gaoth lom orthu nár spáráladh tada a tháinig uirthi.",
+    "Sábháladh mise agus iadsan a chreid liom le trócaire Allah, ach scriosadh na heaschreidmhigh go hiomlán."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Hud",
+        "Fáidh Salih",
+        "Fáidh Shuaib",
+        "Fáidh Lút",
+        "Fáidh Nuh"
+      ],
+      "answer": "Fáidh Hud"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Scrios gaoth tubaisteach na neamhchreidmhigh",
+        "Bhuail tuile mhór na heaschreidmhigh",
+        "Thit cith cloch anuas",
+        "Rug scread ard ar na heaschreidmhigh",
+        "Bhuail crith talún na neamhchreidmhigh"
+      ],
+      "answer": "Scrios gaoth tubaisteach na neamhchreidmhigh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gaoth gan staonadh",
+        "Áirc adhmaid",
+        "Camall baineann",
+        "Báisteach clocha cré",
+        "Tine lasrach"
+      ],
+      "answer": "Gaoth gan staonadh"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Sábháladh Hud agus na creidmhigh, agus scriosadh na heaschreidmhigh.",
+        "Ardaíodh Hud go stádas ard",
+        "Maraíodh Hud ag a mhuintir",
+        "Rinne muintir Hud aithrí agus sábháladh iad",
+        "D’fhág Hud a mhuintir roimh aon phionós"
+      ],
+      "answer": "Sábháladh Hud agus na creidmhigh, agus scriosadh na heaschreidmhigh."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

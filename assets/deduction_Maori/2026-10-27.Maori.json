@@ -1,0 +1,61 @@
+{
+  "title": "He Whakapaenga i raro i te Rangi Whakahohe",
+  "intro": "Kei te tū koe i mua i tētahi ope taua whakamataku e whakatata atu ana ki tētahi wāhi tapu, me ngā patu katoa kua rite, ā, e tino mōhiotia ana te wikitoria. I mua i te tīmatanga o te whakaeke, ka puta mai tētahi mana ohorere i runga ake i a koe, ā, ka tīmata te whakataetae ki tētahi mea kāore i kitea i mua e tetahi.",
+  "clues": [
+    "I hikoi mātou me te māia kāore e taea e tetahi mana o te ao te whakangaueue.",
+    "I mauria mai e mātou he arewhana nunui, ā, te āhua nei i hangaia tō mātou ope hei karapoti i a rātou.",
+    "I haere mai mātou ki te whakahoro i tētahi wāhi tapu e whakahonoretia ana, i te whakapono kua tino pono tō mātou wikitoria.",
+    "I tō mātou taenga atu, ka rere mai tētahi kahui hipi i te rangi i runga ake i a mātou.",
+    "I whiua e ngā manu ngā kōhatu uku mārō ki ō tātou toa.",
+    "I tino hinga mātou, pakaru ana, marara ana tō mātou ope nui, pērā i te pungarehu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Iwi o te Arewhana",
+        "Ngā Piriniha e Rua",
+        "Ngā Tuakana o Hohepa",
+        "Te Pononga a Allah i Dhul-Kifl",
+        "Ngā Hoa o te Tangata Tika"
+      ],
+      "answer": "Te Iwi o te Arewhana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakaekenga a te arewhana ki te Kaaba",
+        "Te wehenga o te moana i mua i te tukunga mai o tētahi rōpū",
+        "Te raupatutanga o te Āaka e te iwi nanakia",
+        "Te haerenga pō i waenganui i ngā whare karakia e rua",
+        "Te whakaora i te repera e te mana atua"
+      ],
+      "answer": "Te whakaekenga a te arewhana ki te Kaaba"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā manu e kawe ana i ngā pire uku",
+        "He āka rakau kopara",
+        "He tokotoko i hurihia hei nakahi",
+        "He kōhatu kua hiritia ki te tohu",
+        "He rakau e mura ana"
+      ],
+      "answer": "Ngā manu e kawe ana i ngā pire uku"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Ko tō rātou ope nui i pakaru pērā i te pungarehu",
+        "I whiti haumaru rātou i te moana",
+        "I haere rātou i roto i te oumu e mura ana, kahore he whara",
+        "I tomo takirua rātou ki Pararaiha",
+        "I moe rātou i roto i tētahi ana mō ngā tau 309"
+      ],
+      "answer": "Ko tō rātou ope nui i pakaru pērā i te pungarehu"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

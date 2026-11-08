@@ -1,0 +1,61 @@
+{
+  "title": "Dalens stille stemme",
+  "intro": "Rejs tilbage i tiden til et mægtigt folk, der engang modtog et levende vidunder som en prøve. Arrogance og stædighed beseglede deres skæbne. Kan du spore historien og opdage, hvad der udfoldede sig i dette dramatiske vendepunkt?",
+  "clues": [
+    "Jeg blev sendt som en guddommelig prøvelse til et mægtigt folk kendt for deres styrke og trodsighed.",
+    "Jeg var et enestående vidunder – min lige havde aldrig dukket op iblandt dem.",
+    "Jeg delte drikkevand fra en brønd med mine folk hver anden dag.",
+    "De blev advaret om, at enhver forvoldt skade mod mig ville medføre hurtig straf.",
+    "Den mest dristige af dem ignorerede advarslen og hæmmede mig.",
+    "Efter min død ødelagde et enkelt tordnende råb fra oven hele mit folk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Salihs hunkamel",
+        "Musas ko",
+        "Nuhs skib",
+        "Musas stab",
+        "Bilqis' trone"
+      ],
+      "answer": "Salihs hunkamel"
+    },
+    "trial": {
+      "label": "Min skæbne",
+      "options": [
+        "Hamstret og dræbt",
+        "Slagtet som et offer",
+        "Forvandlet til en slange",
+        "Bevaret gennem en stor oversvømmelse",
+        "Hurtigt bragt over et kongerige"
+      ],
+      "answer": "Hamstret og dræbt"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En brønd med vand",
+        "En stentavle",
+        "En brændende busk",
+        "En ark af træ",
+        "En trone af guld og sølv"
+      ],
+      "answer": "En brønd med vand"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ødelagt af et enkelt skrig",
+        "Druknet i en stor oversvømmelse",
+        "Brændt af en byge af sten",
+        "Knust af en voldsom vind",
+        "Opslugt af jorden"
+      ],
+      "answer": "Ødelagt af et enkelt skrig"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

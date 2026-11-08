@@ -1,0 +1,61 @@
+{
+  "title": "La Voko el la Sankta Valo",
+  "intro": "Trans la paĝoj de historio kuŝas la rakonto pri animo, kiu staris inter potenca reganto kaj tuta sklavigita popolo. Ĉi tiu individuo estis vokita por liberigi nacion de tiraneco, farante mirindaĵojn, kiuj spitis ĉiun naturan leĝon. De sankta monto ĝis miraklo sur la akvoj, ĉi tiu servisto de Alaho atestis signojn, kiuj eĥos tra la epokoj. Via tasko hodiaŭ estas identigi ĉi tiun rimarkindan figuron, kies heredaĵo formis la kurson de homa historio.",
+  "clues": [
+    "Mi naskiĝis dum tempo, kiam mia popolo alfrontis mortigan dekreton, kaj mia familio metis min en la akvojn por savi mian vivon.",
+    "Mi estis trovita kaj edukita en la domo mem de la reganto, kiu ordonis la mortojn de mia speco.",
+    "Mi fuĝis al sankta monto, kie mi vidis fajron sur arbo, kiu ne estis konsumita, kaj voĉo parolis al mi el ĝi.",
+    "Mi estis resendita al tiu sama reganto kun mirakloj, postulante la liberecon de mia sklavigita popolo.",
+    "Mi frapis la maron per mia bastono, kaj ĝi disfendiĝis en sekajn vojojn, kaj englutis la persekutantojn, kiuj sekvis mian popolon.",
+    "Mi komuniiĝis kun mia Sinjoro sur monto dum kvardek noktoj, kaj ricevis tabelojn de dia gvido."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Moseo",
+        "Profeto Harun",
+        "Profeto Ibrahim",
+        "Profeto Jusuf",
+        "Profeto Daŭd"
+      ],
+      "answer": "Profeto Moseo"
+    },
+    "trial": {
+      "label": "Mia Difina Testo",
+      "options": [
+        "La Disigo de la Maro",
+        "Konstruante la Grandan Arkeon",
+        "Testo de Flamanta Fajro",
+        "Enfermo en la ventro de baleno",
+        "Malliberigo fare de egipta oficialulo"
+      ],
+      "answer": "La Disigo de la Maro"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Paŝtista bastono",
+        "Granda Ligna Arkeo",
+        "Kaverno Kie Tempo Dormis",
+        "Ĝardeno kun Du Risortoj",
+        "Trono Ornamita per Oro"
+      ],
+      "answer": "Paŝtista bastono"
+    },
+    "outcome": {
+      "label": "La Rezulto",
+      "options": [
+        "Mia popolo transiris la maron al sekureco",
+        "Granda Inundo Detruis la Nekredantojn",
+        "Fajro de tirano fariĝis malvarmeta kaj paca",
+        "La Maro Ĵetis Sian Kaptiton sur la Marbordon",
+        "La Kaptito Fariĝis la Kasisto de Egiptujo"
+      ],
+      "answer": "Mia popolo transiris la maron al sekureco"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

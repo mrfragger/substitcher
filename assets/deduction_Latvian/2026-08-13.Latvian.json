@@ -1,0 +1,61 @@
+{
+  "title": "Svētā nama pacietīgā dvēsele",
+  "intro": "Korāna lappusēs no diža pravieša dzimtas parādās persona, kas vecumdienās tika dāvāta. Šī dvēsele tiek cildināta par nelokāmo patiesumu un dziļo lomu svētnīcas izveidē, kas kļuva par ticības bāku. Lasot norādes, uzmanīgi ieklausieties balsī no pagātnes, jo tā runā pirmajā personā.",
+  "clues": [
+    "Korānā esmu pieminēts līdzās citam pravietim kā dāvana, kas piešķirta kādam vecāka gadagājuma vēstnesim.",
+    "Es biju viens no diviem pēcnācējiem, kas tika dāvāti šim pravietim viņa vēlākajos gados.",
+    "Korānā mani slavē par to, ka esmu uzticīgs savam vārdam.",
+    "Es nesu pravieša godu un tiku sūtīts kā vēstnesis.",
+    "Es pievienojos savam tēvam Svētā nama pamatu celšanā.",
+    "Mani atceras kā vienu no pacietīgajiem, un svētā māja, ko mēs uzcēlām, kļuva par cilvēku atgriešanās un drošības vietu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Ismails",
+        "Pravietis Išaks",
+        "Pravietis Jakubs",
+        "Pravietis Zakarija",
+        "Pravietis Jahja"
+      ],
+      "answer": "Pravietis Ismails"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Kaabas pamatu celšana kopā ar Ibrahimu",
+        "Tiekot iemests ugunī",
+        "Valis norīts",
+        "Izraēliešu izvešana no Ēģiptes",
+        "Šķirsta būvēšana"
+      ],
+      "answer": "Kaabas pamatu celšana kopā ar Ibrahimu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Kaaba",
+        "Sinaja kalns",
+        "Sarkanā jūra",
+        "Zelta teļš",
+        "Ēdenes dārzs"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Pieskaitīts pie pacientiem",
+        "Pieskaitīts pie pārkāpējiem",
+        "Pieskaitīts burvju māksliniekiem",
+        "Pieskaitīts neticīgajiem",
+        "Pieskaitīts liekuļiem"
+      ],
+      "answer": "Pieskaitīts pie pacientiem"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

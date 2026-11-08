@@ -1,0 +1,61 @@
+{
+  "title": "Strážce na břehu řeky",
+  "intro": "V zemi, kde tyranův dekret přinesl zármutek do mnoha domovů, jedna duše přijala poselství, které vzdorovalo veškerému strachu. Se srdcem naplněným důvěrou se pustili do činu víry, který změnil směr národa. Zatímco vody nesly vzácný náklad, naděje se mísila s proudy.",
+  "clues": [
+    "Žil jsem v době útlaku a strachu.",
+    "Obdržel jsem božskou inspiraci, která mi dodala odvahu.",
+    "Bylo mi přikázáno, abych se nebál ani netruchlil.",
+    "Vložil jsem své dítě do truhly a postavil ji na vodu.",
+    "Mé dítě našla vládcova domácnost, ale mé druhé dítě ho následovalo.",
+    "Byla jsem znovu se svým dítětem, abych ho mohla kojit, přesně jak Alláh slíbil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Matka Mojžíše",
+        "Faraonova manželka",
+        "Mojžíšova sestra",
+        "Matka Ježíše",
+        "Královna ze Sáby"
+      ],
+      "answer": "Matka Mojžíše"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být inspirován k tomu, abych hodil dítě do řeky",
+        "Být vyzván k magickému souboji",
+        "Pronásledován armádou",
+        "Překračujíc moře, které se rozdělilo",
+        "Stavba posvátného domu"
+      ],
+      "answer": "Být inspirován k tomu, abych hodil dítě do řeky"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Truhla umístěná v řece",
+        "Hořící keř",
+        "Hůl, která se proměnila v hada",
+        "Zlaté tele",
+        "Trůn"
+      ],
+      "answer": "Truhla umístěná v řece"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Dítě bylo bezpečně vráceno zdravotní sestře",
+        "Dítě bylo navždy ztraceno",
+        "Dítě bylo odvezeno do daleké země",
+        "Dítě se okamžitě stalo vládcem",
+        "Dítě si adoptoval bohatý obchodník"
+      ],
+      "answer": "Dítě bylo bezpečně vráceno zdravotní sestře"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

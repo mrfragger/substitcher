@@ -1,0 +1,61 @@
+{
+  "title": "Allah magasztos szolgája",
+  "intro": "Suttogásokat hallasz egy ősi időkből származó alakról, Allah szolgájáról, akit a hétköznapiak fölé emeltek. Ez a személy rendíthetetlen türelméről és abszolút igazmondásáról volt ismert, és olyan emberekhez küldték, akik elfordultak az üzenettől. Ki ez a magasztos lélek?",
+  "clues": [
+    "Allah prófétának választott engem, és a Szent Koránban is megemlítenek.",
+    "A türelmemről és az igazmondásomról voltam ismert, olyan tulajdonságokról, amelyeket Allah dicsér.",
+    "Arra hívtam népemet, hogy imádják az Egyetlen Istent, de sokan elutasítottak engem.",
+    "Allah felemelte a rangomat, és magas rangot adományozott nekem.",
+    "Gyakran emlegetnek más próféták, például Iszmáil és Dhul-Kifl mellett.",
+    "Allah azt mondja rólam: „És magasra emeltük őt.” (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Idrisz próféta",
+        "Illés próféta",
+        "Dhu al-Kifl próféta",
+        "Al-Jásza próféta",
+        "Hud próféta"
+      ],
+      "answer": "Idrisz próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Felszólították az embereket, hogy imádják Allahot",
+        "Megépítette a bárkát",
+        "Harcolt a fáraó ellen",
+        "Súlyos betegséggel tesztelték",
+        "Tűzbe dobták"
+      ],
+      "answer": "Felszólították az embereket, hogy imádják Allahot"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Magas rang/magas állás",
+        "A bárka",
+        "A személyzet",
+        "A tűz",
+        "A kút"
+      ],
+      "answer": "Magas rang/magas állás"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Magas státuszba emelték",
+        "Megfulladt az árvízben",
+        "Egy bálna lenyelte",
+        "Megmentették a tűztől",
+        "Király lett"
+      ],
+      "answer": "Magas státuszba emelték"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

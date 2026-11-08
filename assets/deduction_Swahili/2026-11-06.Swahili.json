@@ -1,0 +1,61 @@
+{
+  "title": "Damu ya Kwanza Iliyomwagika Katika Wivu",
+  "intro": "Fikiria siku za mwanzo kabisa za ubinadamu, wakati ulimwengu wote ulikuwa familia moja. Unatazama sadaka mbili zikiwekwa mbele za Mwenyezi Mungu — moja ikikubaliwa, nyingine ikikataliwa. Wivu hutia mizizi moyoni, na tishio hunong'onezwa kwa hasira. Kinachofuata kitaacha alama kwenye historia milele, na hata ndege mdogo atakuwa mwalimu.",
+  "clues": [
+    "Mimi ni wa familia ya kwanza kabisa duniani.",
+    "Nilitoa sadaka kwa Mwenyezi Mungu, lakini yangu haikukubaliwa wakati sadaka nyingine ilikubaliwa.",
+    "Nilizungumza kwa wivu na kutishia kujiua.",
+    "Nilifanya mauaji ya kwanza yasiyo ya haki duniani.",
+    "Nilimwona kunguru akikwaruza ardhi ili kunionyesha jinsi ya kuficha mwili.",
+    "Niliachwa nimejaa majuto na nikawa miongoni mwa walioshindwa kwa yale ambayo mikono yangu ilikuwa imefanya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Qabil (Kaini), mwana wa Adamu",
+        "Samiri, mtengenezaji wa ndama",
+        "Namrud, mtawala wa kiimla aliyebishana na Ibrahim",
+        "Azar, mtengenezaji wa sanamu",
+        "Kan'an, mwana wa Nuh aliyezama"
+      ],
+      "answer": "Qabil (Kaini), mwana wa Adamu"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuuawa kwa ndugu kwa sababu ya wivu baada ya kukataliwa sadaka",
+        "Kujenga mnara mrefu ili kutazama mbingu",
+        "Kutengeneza ndama wa dhahabu kwa ajili ya ibada",
+        "Kudai meza iliyopangwa kutoka mbinguni",
+        "Kuongoza jeshi la tembo kuharibu Kaaba"
+      ],
+      "answer": "Kuuawa kwa ndugu kwa sababu ya wivu baada ya kukataliwa sadaka"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kunguru akikuna ardhi kuonyesha mazishi",
+        "Ndama wa dhahabu aliyelia",
+        "Safina kubwa juu ya maji ya gharika",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Meza iliyopambwa kwa chakula kutoka mbinguni"
+      ],
+      "answer": "Kunguru akikuna ardhi kuonyesha mazishi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa mwenye majuto na miongoni mwa walioshindwa",
+        "Alizama katika mafuriko makubwa",
+        "Alimezwa na dunia kwa hazina",
+        "Alipigwa na ukoma kwa miaka saba",
+        "Alipewa ufalme wenye udhibiti wa upepo"
+      ],
+      "answer": "Akawa mwenye majuto na miongoni mwa walioshindwa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

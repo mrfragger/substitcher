@@ -1,0 +1,61 @@
+{
+  "title": "Patientia Animae Afflictae",
+  "intro": "In annalibus historiae, figura quaedam exstat cuius nomen cum perseverantia coniungitur. Hic homo omni solacio mundano amittendo temptatus est, attamen Creatoris devotus servus mansit. Per annos difficultatum et aegritudinis corporis, huius animae cor in fide firmiter fixum mansit, omnibus qui adversitatem subeunt spei signum praebens.",
+  "clues": [
+    "Servus Allah devotus eram, abundantibus divitiis, multis liberis, et optima valetudine praeditus.",
+    "Vita mea mutata est cum divitiis meis et familia spoliatus sum, nihil nisi fidem mihi relictum.",
+    "Morbo diuturno et doloroso afflictus sum, qui ipsos limites humanae tolerantiae probavit.",
+    "Per totum tempus cruciatus mei, recusavi contra Dominum meum queri, etiam cum adversarius me ad desperationem inducere conatus est.",
+    "Cum tandem Dominum meum invocavi, non divitias petivi, sed simpliciter confessus sum angustiam me tetigisse.",
+    "Iussum est mihi ut terram pede percuterem, et ex ea fons aquae frigidae prodiit, ut corpus meum sanaret et sitim meam restingueret."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Yaqub",
+        "Propheta Ayyub",
+        "Propheta Zacharias",
+        "Propheta Yahya",
+        "Propheta Shu'ayb"
+      ],
+      "answer": "Propheta Ayyub"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Anni gravis morbi et iacturae",
+        "In puteum profundum proiectus",
+        "Ab ingenti pisce deglutitus",
+        "Tyranno in igne obviam",
+        "Longa via quaerendi magistrum"
+      ],
+      "answer": "Anni gravis morbi et iacturae"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Baculus qui mare divisit",
+        "Tunica quae domum redolebat",
+        "Fons aquae sanatrix",
+        "Mons qui in pulverem dilapsus est",
+        "Spelunca somni profundi"
+      ],
+      "answer": "Fons aquae sanatrix"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Fieri gubernator terrae magnae",
+        "Ducens exercitum ad victoriam",
+        "Restitutio valetudinis et familiae",
+        "Aedificatio domus sacrae cultus",
+        "Mensam de caelo paratam accipiens"
+      ],
+      "answer": "Restitutio valetudinis et familiae"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

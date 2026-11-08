@@ -1,0 +1,61 @@
+{
+  "title": "La maledicció de la collita abundant",
+  "intro": "En una terra antiga, una ànima es trobava entre els més rics de la seva comunitat. Havien rebut dues vegades les benediccions de la terra en anys consecutius, una doble collita que hauria d'haver omplert el seu cor de gratitud. Tot i això, quan va arribar la tragèdia i tot el que posseïen els va ser pres en una sola nit, la seva resposta va revelar la veritable naturalesa de la seva ànima. Podeu descobrir la identitat d'aquesta figura la història de la qual serveix com a advertència contra la incredulitat en les benediccions d'Al·là?",
+  "clues": [
+    "Jo era una de les ànimes més afortunades de tota la terra, beneïda amb abundants provisions.",
+    "Dues vegades vaig tenir la collita en dos anys, però el meu cor va romandre desagraït al meu Senyor.",
+    "Posseïa un gran jardí amb vinyes, oliveres i palmeres, un testimoni del favor d'Al·là.",
+    "Quan el meu jardí va ser destruït, vaig quedar-me dret entre les ruïnes amb les mans esteses al cel, maleint el meu destí.",
+    "Vaig negar que Al·là pogués haver causat aquesta pèrdua, fins i tot mentre em vaig aixafar els palmells de les mans en desesperació.",
+    "El meu càstig no va ser només la pèrdua del meu jardí, sinó quedar-me completament indefens entre les ruïnes, incapaç d'invocar cap ajuda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "El propietari del jardí a la sura 26",
+        "El propietari de dos jardins d'una terra llunyana",
+        "Una ànima rica de la ciutat de la prosperitat",
+        "El pagès esmentat a la Sura Al-Kahf",
+        "Un vinyer de l'època del profeta Xuaib"
+      ],
+      "answer": "El propietari del jardí a la sura 26"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Pèrdua d'un jardí destruït en una sola nit",
+        "El gran diluvi que va cobrir la terra",
+        "Sent posat a prova amb profetes veritables i falsos",
+        "La prova de ser llançat al foc",
+        "La prova de ser engolit per la terra"
+      ],
+      "answer": "Pèrdua d'un jardí destruït en una sola nit"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un jardí amb vinyes, oliveres i palmeres destruït durant dos anys",
+        "Un vaixell construït sobre una muntanya alta",
+        "La ciutat d'una nació transgressora",
+        "Un pou a l'antiga Madian",
+        "El riu del paradís"
+      ],
+      "answer": "Un jardí amb vinyes, oliveres i palmeres destruït durant dos anys"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Impotència absoluta: destruït sense ajuda",
+        "Resurrecció per entrar al paradís",
+        "Convertir-se en profeta d'Al·là",
+        "Lideratge d'una gran nació",
+        "Càstig etern al foc"
+      ],
+      "answer": "Impotència absoluta: destruït sense ajuda"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Eng Belagerung ënner engem plëtzlechen Himmel",
+  "intro": "Dir stitt virun enger formidabeler Arméi, déi sech engem verehrte Hellegtum uschléisst, mat all Waff prett an dem Victoire scheinbar sécher. Ier den Ugrëff ufänke kann, erschéngt eng onerwaart Kraaft iwwer Iech, an de Kampf hëlt eng Wendung, déi keen virausgesinn huet.",
+  "clues": [
+    "Mir sinn mat engem Vertrauen marschéiert, dat keng ierdesch Muecht erschüttere konnt.",
+    "Mir hunn mächteg Elefanten matbruecht, an eis Truppen hu sech wéi wann se ronderëm si opgebaut wieren.",
+    "Mir ware komm fir en verehrt Heiligtum ofzerappen, well mir gegleeft hunn, datt eise Victoire scho sécher wier.",
+    "Wéi mir do ukomm sinn, ass eng Trapp iwwer eis iwwer den Himmel geflunn.",
+    "D'Vullen hunn Steng aus gehärtetem Leem op eis Krieger gehäit.",
+    "Mir goufen sou komplett besiegt, datt eis mächteg Truppen zerbréckelt a wéi Asche zerstreet sinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Leit vum Elefant",
+        "Déi zwee Prënzen",
+        "Dem Joseph seng Bridder",
+        "Den Dénger vun Allah zu Dhul-Kifl",
+        "D'Begleeder vum Gerechte Mann"
+      ],
+      "answer": "D'Leit vum Elefant"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Den Elefantenugrëff op de Kaaba",
+        "D'Mier trennt sech virun enger befreiter Grupp",
+        "D'Beschlagnahmung vun der Ark duerch en tyrannescht Vollek",
+        "Déi Nuetsrees tëscht zwou Moscheeën",
+        "D'Heelung vun engem Aussätzigen duerch göttlech Kraaft"
+      ],
+      "answer": "Den Elefantenugrëff op de Kaaba"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Vigel, déi Lehmpellets droen",
+        "Eng Ark aus Gopherholz",
+        "E Staff huet sech an eng Schlaang verwandelt",
+        "E Steen, deen mat engem Zeechen versiegelt ass",
+        "E brennende Busch"
+      ],
+      "answer": "Vigel, déi Lehmpellets droen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hir mächteg Kraaft ass wéi Äsche zerbrach",
+        "Si sinn sécher iwwer d'Mier gefuer",
+        "Si sinn onbeschiedegt duerch e brennenden Uewen gaangen",
+        "Si sinn zu zwee an d'Paradies komm",
+        "Si hunn 309 Joer an enger Hiel geschlof"
+      ],
+      "answer": "Hir mächteg Kraaft ass wéi Äsche zerbrach"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

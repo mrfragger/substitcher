@@ -1,0 +1,61 @@
+{
+  "title": "A Kiválasztott Árulói",
+  "intro": "A történelem során isteni hírnökök jártak az emberiség között, és a hozzájuk legközelebb állók közül néhányan nem ismerték fel a fényt. Ez a beszámoló két lélekről szól, akiknek a prófétai mivolthoz való közelségük próbává, örökségük pedig időtlen tanulsággá vált.",
+  "clues": [
+    "Nagy próféták korában éltünk, mégis csukva maradtunk a szemünk az általuk hozott igazság előtt.",
+    "Otthonaink tele voltak isteni kinyilatkoztatással, de szívünk megkeményedett.",
+    "Olyan férfiakhoz voltunk házasok, akiket azért választottak ki, hogy figyelmeztessék a népüket.",
+    "Amikor elérkezett a büntetés, nem kerestünk menedéket a bárkában, és nem menekültünk a perzselő eső elől, mert gúnyt űztünk a figyelmeztetésekből.",
+    "A Korán példaként említ minket a hitetlenek számára, bemutatva, hogy még a prófétával való szoros kapcsolat sem üdvözít.",
+    "Mi vagyunk Nuh és Lút feleségei, akik elárulták őket, és ezért elítéltettek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Nuh és Lút feleségei",
+        "Ibrahim és Ismáil feleségei",
+        "Móza és Hárun feleségei",
+        "Dawud és Sulayman feleségei",
+        "Ayyub és Yunus feleségei"
+      ],
+      "answer": "Nuh és Lút feleségei"
+    },
+    "trial": {
+      "label": "Mi volt a tárgyalásuk?",
+      "options": [
+        "Prófétákhoz voltak házasok, de nem hittek",
+        "Meddők voltak és a prófétákat hibáztatták",
+        "Gazdagok és arrogánsak voltak",
+        "Iblisz megkísértette őket, hogy elhagyják otthonaikat",
+        "Imádták az Aranyborjút"
+      ],
+      "answer": "Prófétákhoz voltak házasok, de nem hittek"
+    },
+    "location": {
+      "label": "Mihez kötötte a sorsukat?",
+      "options": [
+        "Az árvíz és a kövek esője",
+        "Egy heves szél",
+        "Egy földrengés",
+        "A sáskák csapása",
+        "A tenger kettéhasadása"
+      ],
+      "answer": "Az árvíz és a kövek esője"
+    },
+    "outcome": {
+      "label": "Mi lett a végzetük?",
+      "options": [
+        "A hitetlenekkel együtt pusztultak el",
+        "Megbánták bűneiket és megmenekültek",
+        "Gyermektelenül maradtak",
+        "Örökre száműzték őket",
+        "Majmokká és disznókká változtak"
+      ],
+      "answer": "A hitetlenekkel együtt pusztultak el"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

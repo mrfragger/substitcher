@@ -1,0 +1,61 @@
+{
+  "title": "La voz de las afueras",
+  "intro": "Te encuentras en una ciudad donde tres mensajeros han llegado con señales claras, pero la gente se burla de ellos y se aferra a sus viejas costumbres. Desde el rincón más alejado de la ciudad, una figura corre hacia la multitud, sin aliento y decidida, para proclamar la verdad frente al rechazo. ¿Quién es esta alma que lo arriesgó todo por un mensaje ajeno?",
+  "clues": [
+    "Viví entre un pueblo que había recibido mensajeros con señales claras, pero que, con arrogancia, les dio la espalda.",
+    "Llegué corriendo desde el punto más alejado de la ciudad cuando oí el llamado de los mensajeros.",
+    "Dije a mi pueblo: «¡Oh, pueblo mío, seguid a los mensajeros! Seguid a aquellos que no os piden recompensa, porque ellos están bien guiados».",
+    "Yo no era profeta, pero creía en los mensajeros e instaba a mi pueblo a hacer lo mismo.",
+    "Mi gente se burló de mis consejos y me acusó de ser un extremista.",
+    "Cuando me mataron, Alá me dijo que entrara en el Paraíso, y deseé que mi pueblo pudiera conocer el perdón y el honor que recibí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El hombre de la parte más alejada de la ciudad (Ya-Sin)",
+        "Uno de los tres mensajeros enviados a la ciudad",
+        "Un comerciante prominente de la ciudad.",
+        "Un gobernante de la ciudad",
+        "El líder de los incrédulos"
+      ],
+      "answer": "El hombre de la parte más alejada de la ciudad (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Predicando a su pueblo para que sigan a los mensajeros.",
+        "Construir un barco para salvar a los creyentes de una inundación.",
+        "Ser arrojado al fuego por la fe",
+        "Ser tragado por una ballena",
+        "Recibir un reino y sabiduría"
+      ],
+      "answer": "Predicando a su pueblo para que sigan a los mensajeros."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La parte más alejada de la ciudad",
+        "El arca",
+        "El pozo",
+        "La zarza ardiente",
+        "La cueva"
+      ],
+      "answer": "La parte más alejada de la ciudad"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Entró en el Paraíso y deseó que su pueblo pudiera conocer su perdón.",
+        "Ahogado junto con su gente por rechazar el mensaje.",
+        "Se le concedió un milagro de la camella.",
+        "Se convirtió en gobernante después de su juicio.",
+        "Fue salvado por Alá y permaneció con su pueblo."
+      ],
+      "answer": "Entró en el Paraíso y deseó que su pueblo pudiera conocer su perdón."
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

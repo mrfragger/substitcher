@@ -1,0 +1,61 @@
+{
+  "title": "Gema Tipu Daya",
+  "intro": "Ikatan kekerabatan diuji oleh gelombang kecemburuan. Sebuah rencana rahasia disusun, memicu serangkaian peristiwa yang akan berlangsung selama bertahun-tahun dan melintasi jarak yang sangat jauh. Tindakan kelompok ini menyebabkan perpisahan dan kesedihan yang mendalam, tetapi cerita tidak berakhir di situ. Ini adalah kisah tentang penipuan, penyesalan, dan terungkapnya rencana ilahi. Dapatkah Anda mengungkap identitas individu-individu ini yang pilihan-pilihannya bergema lintas generasi?",
+  "clues": [
+    "Kami diliputi rasa iri atas kasih sayang yang ditunjukkan kepada salah satu dari kami.",
+    "Karena iri hati, kami bersekongkol dan melemparkan saudara kami ke dalam kegelapan sumur.",
+    "Untuk menutupi perbuatan kami, kami memberikan sehelai pakaian kepada ayah kami yang berlumuran darah palsu.",
+    "Bertahun-tahun kemudian, kelaparan hebat memaksa kami untuk pergi ke Mesir mencari perbekalan.",
+    "Di sana, kami menghadap seorang gubernur yang berkuasa yang, tanpa kami ketahui, adalah saudara kandung yang telah kami sakiti.",
+    "Ujian terakhir kami adalah membawa adik bungsu kami, Binyamin, yang kemudian mengarah pada terungkapnya masa lalu kami dan bahwa ayah kami adalah Nabi Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah kita?",
+      "options": [
+        "Anak-anak Adam (Qabil & Habil)",
+        "Para Murid Nabi Isa",
+        "Saudara-saudara Nabi Yusuf",
+        "Penduduk Madyan",
+        "Para Penyihir Fir'awn"
+      ],
+      "answer": "Saudara-saudara Nabi Yusuf"
+    },
+    "trial": {
+      "label": "Apa kesalahan utama kami?",
+      "options": [
+        "Membangun patung anak lembu emas untuk disembah.",
+        "Menuntut untuk melihat Allah secara langsung",
+        "Mengejek seorang nabi karena membangun bahtera.",
+        "Menipu ayah kami dan meninggalkan saudara kami",
+        "Melanggar hari Sabat dengan memancing"
+      ],
+      "answer": "Menipu ayah kami dan meninggalkan saudara kami"
+    },
+    "location": {
+      "label": "Benda apa yang menjadi inti dari penipuan kita?",
+      "options": [
+        "Seperangkat tablet bertuliskan",
+        "Kemeja yang bernoda darah palsu",
+        "Anak lembu emas",
+        "Burung yang cantik (burung Hoopoe)",
+        "Tongkat yang berubah menjadi ular"
+      ],
+      "answer": "Kemeja yang bernoda darah palsu"
+    },
+    "outcome": {
+      "label": "Apa hasil akhir dari cerita kita?",
+      "options": [
+        "Kami hancur oleh banjir yang dahsyat.",
+        "Kami diubah menjadi kera",
+        "Kami ditelan oleh bumi.",
+        "Kami dimaafkan dan dipersatukan kembali dengan keluarga kami.",
+        "Kami tenggelam di laut."
+      ],
+      "answer": "Kami dimaafkan dan dipersatukan kembali dengan keluarga kami."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

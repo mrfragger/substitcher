@@ -1,0 +1,61 @@
+{
+  "title": "Umphefumulo Wokuqala Owama",
+  "intro": "Kudala ngaphambi kokuba kuhambe noma yisiphi isithunywa emhlabeni, ngaphambi kokuba kwembulwe noma yimuphi umbhalo, kwaba khona isidalwa esingafani nanoma yisiphi esinye. Lo mphefumulo wabunjwa ngezandla zaphezulu, wanikezwa indawo yobuhle obungenakuqhathaniswa, futhi wavivinywa ngendlela eyayizozwakala kuwo wonke umlando wesintu. Okwalandela kwaba indaba yobuthakathaka, ukuphenduka okuqotho, kanye nesiphetho esasizoshintsha inkambo yendalo kuze kube phakade. Ungaqagela ukuthi ubani lo?",
+  "clues": [
+    "Ngabunjwa ngezandla zoMuntu Onomusa kakhulu ngothuli lomhlabathi",
+    "Nganikwa ikhaya elihle elingenakuqhathaniswa, lapho kungekho khona indlala noma ukukhathala okwakungangithinta",
+    "Ngayalwa ukuba ngingasondeli ngisho nasemthini owodwa, ngoba wawungavunyelwe",
+    "Mina nomngane wami sakhohliswa futhi sasondela emthini owenqatshelwe, ngokumelene nomyalo weNkosi yethu",
+    "Sabuyela eNkosini yethu ngokuphenduka okuqotho, futhi sathethelelwa iziphambeko zethu",
+    "Kusuka kithi, sonke isintu sehla; ngingowokuqala ukuhamba kulo mhlaba"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Adamu",
+        "Umprofethi uMusa",
+        "Umprofethi uNuh",
+        "Umprofethi uYusuf",
+        "Umprofethi u-Isa"
+      ],
+      "answer": "Umprofethi u-Adamu"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukulingwa ngomuthi owenqatshelwe",
+        "Ukubhekana noFaro",
+        "Ukwakha uMphongolo omkhulu",
+        "Umhlatshelo wendodana ethandekayo",
+        "Ukuphonswa emlilweni omkhulu"
+      ],
+      "answer": "Ukulingwa ngomuthi owenqatshelwe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umuthi Ongavunyelwe",
+        "Isihlahla Esivuthayo",
+        "Abasebenzi Begolide",
+        "UMphongolo Omkhulu",
+        "Ithole Legolide"
+      ],
+      "answer": "Umuthi Ongavunyelwe"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wathunyelwa emhlabeni njengomnakekeli wokuqala wesintu",
+        "UFaro nebutho lakhe baminza olwandle",
+        "Uzamcolo omkhulu wabhubhisa ababi",
+        "Umlilo waphola futhi waba nokuthula",
+        "Wanikwa igunya phezu kombuso waseGibhithe"
+      ],
+      "answer": "Wathunyelwa emhlabeni njengomnakekeli wokuqala wesintu"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

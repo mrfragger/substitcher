@@ -1,0 +1,61 @@
+{
+  "title": "Ang Lungsod nga Nagtuo sa Panahon",
+  "intro": "Sa mga talaan sa balaanong kalooy, adunay usa ka komunidad kansang punto sa pagbag-o mao ang usa ka gutlo sa hiniusang pagkaamgo. Hapit na nimo madiskobrehan ang ilang istorya—usa ka sugilanon sa pasidaan, paghinulsol, ug usa ka pahulay nga nagpalahi kanila gikan sa kapalaran sa ubang mga nasud.",
+  "clues": [
+    "Kita usa ka katawhan nga gipadalaan ug mensahero, ug kita mitalikod sa iyang tawag sa sinugdanan.",
+    "Sa dihang nahimong klaro ang mga timailhan sa nagsingabot nga silot, among naamgohan ang kamatuoran sa iyang pasidaan.",
+    "Midangop kami sa among Ginoo uban ang kinasingkasing nga paghinulsol, ug gidawat ang among pagtuo.",
+    "Ang silot nga gimando kanamo gikuha tungod sa among pagtuo.",
+    "Ang atong istorya gihisgutan nga usa ka eksepsiyon taliwala sa mga lungsod nga mituo human makakita sa silot.",
+    "Kami ang katawhan sa propeta nga gilamoy sa balyena, apan naluwas kami gikan sa kalaglagan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Mga tawo sa Yunus",
+        "Mga tawo ni Nuh",
+        "Mga tawo sa Hud",
+        "Mga tawo sa Salih",
+        "Mga tawo ni Lut"
+      ],
+      "answer": "Mga tawo sa Yunus"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Usa ka makadaot nga baha",
+        "Usa ka kusog nga bagyo",
+        "Usa ka umaabot nga silot sa kaulawan nga gilikayan",
+        "Ang yuta naglamoy kanila",
+        "Usa ka ulan sa mga bato"
+      ],
+      "answer": "Usa ka umaabot nga silot sa kaulawan nga gilikayan"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang arka",
+        "Ang bayeng kamelyo",
+        "Usa ka siyudad nga may usa ka gatos ka libo",
+        "Ang mga kawani ni Musa",
+        "Ang bahandi sa Qarun"
+      ],
+      "answer": "Usa ka siyudad nga may usa ka gatos ka libo"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalaglag sila sa hingpit",
+        "Gihatagan silag kalipay sulod sa usa ka panahon",
+        "Nabag-o sila nga mga unggoy",
+        "Nalumos sila",
+        "Gilamoy sila sa yuta"
+      ],
+      "answer": "Gihatagan silag kalipay sulod sa usa ka panahon"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

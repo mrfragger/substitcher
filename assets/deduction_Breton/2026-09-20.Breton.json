@@ -1,0 +1,61 @@
+{
+  "title": "Ar c'hredenn goloet e lez an tirant",
+  "intro": "E-barzh salioù alaouret ar rener lorc'husañ anavezet gant ar C'horan — ma oa termenet pep urzh gant enebiezh ouzh an Doue — e kerzhe un ene e-touez ar re briziet, o kuzhat ar sekredoù dañjerusañ dirak an holl. An den-se a zouge ur feiz ken difennet e-barzh ar mogerioù-se ma talvezfe e zizoloadenn ur marv sur. Koulskoude e teve ar gredenn evel ur flamm dindan al ludu, ha pa erruas ar mare, e sonas ar wirionez gant ur galon a grenas diazez palez an tiran.",
+  "clues": [
+    "Bevañ a raen e-touez kelc'h diabarzh ar rener galloudusañ ha lorc'husañ eus ma amzer, kelc'hiet gant ar pinvidigezh hag al levezon.",
+    "Kuzhet em eus ma gwir gredenn e-barzh va c'halon, o c'houzañv ma buhez dirak ar re a rene gant krizder ha gwaskerezh.",
+    "Pa oa ma fobl o douetañs hag o tistreiñ dirak ar wirionez, e oan aet war-raok evit o eveshaat diwar-benn an tonkadur reuzeudik a oa c'hoarvezet gant ar broadoù tremenet o doa nac'het kannaded o Aotrou.",
+    "Soñjal a ran d'am fobl istor un hunvreer yaouank karet a voe skarzhet gant e genseurted e-unan met deuet da vezañ ur galloud bras en ur vro bell.",
+    "Goulenn a ran digant ma fobl chom hep sentiñ ouzh ar rener en deus o c'has war an hent fall, o pediñ anezho da heuliañ ac'hanon war hent ar reizhder hag ar c'helenn.",
+    "Lavaret em eus ar wirionez dirak an holl, daoust ma oa heulierien an tirant o c'houlenn ma vefent meinataet pe ma skarzhfent eus ar vro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar c'hredenn kuzhet eus tiegezh Faraon",
+        "Ur Patriarch pasianted hag a ouelas dall betek ma tistroas e vab",
+        "Ur servijer feal a oa bet pareet e gleñved kroc'hen a-benn ar fin",
+        "Ur mab pec'her en deus nac'het pedenn ur profed da bignat en arc'h",
+        "Un tirant didruez hag a c'houlenne doueelezh evitañ e-unan"
+      ],
+      "answer": "Ar c'hredenn kuzhet eus tiegezh Faraon"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Kuzhat ar feiz e lez un tirant",
+        "Gouzañv dallentez abalamour da vloavezhioù a ouelañ",
+        "Bezañ amprouet gant koll ar familh hag ur boan grevus",
+        "Sevel ul lestr brav en ur vezañ goapaet",
+        "Gouzañv tommder dev un tan bras"
+      ],
+      "answer": "Kuzhat ar feiz e lez un tirant"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Palez Faraon |",
+        "Ur beg menez ma oa bet savet un arc'h",
+        "Ur saonenn sakr dindan menez Sinai",
+        "Ul liorzh kaer gant div stêr o redek",
+        "Un tron ​​kristal a-us d'ur stêr dindanzouar"
+      ],
+      "answer": "Palez Faraon |"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Gwarez doueel e-keit ma oa ar waskerien o kejañ gant o distruj",
+        "Adkavet e oa bet gant e familh goude dekvloaziadoù a zisparti",
+        "Roet e oa bet pasianted, yec'hed adstaget, hag ur familh ledanoc'h",
+        "Saveteet eo bet war ur vag e-keit ma oa beuzet ar peurrest eus ar bed",
+        "Saveteet eo bet diouzh an tanioù hep bezañ gloazet gant urzh Allah"
+      ],
+      "answer": "Gwarez doueel e-keit ma oa ar waskerien o kejañ gant o distruj"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

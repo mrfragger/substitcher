@@ -1,0 +1,61 @@
+{
+  "title": "El arquitecto de la arrogancia",
+  "intro": "En una tierra ancestral gobernada por un poder desafiante, una figura clave ostentaba una posición de influencia. Esta alma fue fundamental en los ambiciosos planes del gobernante, contribuyendo a su reinado opresivo y desafiando el mensaje divino. Su legado está intrínsecamente ligado a la búsqueda del poder terrenal y a la negación de la verdad.",
+  "clues": [
+    "Serví a un gobernante formidable que oprimió a un pueblo durante generaciones.",
+    "Mi nombre se menciona con frecuencia en el Libro Divino junto al de este poderoso líder.",
+    "Me encomendaron un ambicioso proyecto de construcción, una imponente estructura destinada a alcanzar el cielo.",
+    "Aconsejé a mi amo que matara a los hijos varones de los Hijos de Israel y perdonara a sus hijas.",
+    "Estuve involucrado en complots y conspiraciones contra un poderoso mensajero de Alá.",
+    "Mi final, junto con mi amo y su ejército, llegó en las aguas de un vasto mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliat",
+        "Iblis",
+        "Hamán"
+      ],
+      "answer": "Hamán"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser puesto a prueba con una inmensa riqueza",
+        "Dirigir un ejército contra una casa sagrada",
+        "Construir una torre para alcanzar a Dios",
+        "Ser arrojados al fuego por sus creencias",
+        "Ser arrojado a un pozo por los hermanos"
+      ],
+      "answer": "Construir una torre para alcanzar a Dios"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "La montaña",
+        "La Torre",
+        "La ballena"
+      ],
+      "answer": "La Torre"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ser concedido a una sabiduría inmensa",
+        "Convertirse en profeta",
+        "Ser engullido por la tierra",
+        "Ser concedido un reino",
+        "Ahogándose en el mar"
+      ],
+      "answer": "Ahogándose en el mar"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

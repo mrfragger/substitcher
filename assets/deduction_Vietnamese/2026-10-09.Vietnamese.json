@@ -1,0 +1,61 @@
+{
+  "title": "Lời Kêu Gọi Bị Phớt Lờ trong Vùng Đất Kiêu Ngạo",
+  "intro": "Bạn đang đứng giữa đống đổ nát của một nền văn minh từng huy hoàng, nơi quyền lực và kiêu hãnh không có giới hạn. Một sứ giả đã đi giữa họ, kêu gọi sự thật, nhưng trái tim họ đã chai sạn. Lời cảnh báo bị phớt lờ, và chính bầu trời cũng trở thành công cụ của cơn thịnh nộ. Sứ giả đó là ai, và điều gì đã xảy ra với những kẻ đã từ chối lời kêu gọi?",
+  "clues": [
+    "Tôi được phái đến một dân tộc có sức mạnh vô song và họ xây dựng tượng đài trên mọi nơi cao.",
+    "Dân tộc tôi tự cho mình là bất khả chiến bại và nói: \"Ai mạnh hơn chúng ta?\"",
+    "Tôi kêu gọi họ chỉ thờ phượng Allah duy nhất, nhưng họ lại buộc tội tôi là ngu ngốc và nói dối.",
+    "Họ thách thức tôi thực hiện hình phạt mà tôi đã hứa nếu tôi nói thật.",
+    "Allah đã giáng xuống họ một cơn gió khô cằn, không tha thứ bất cứ thứ gì nó gặp phải.",
+    "Tôi và những người cùng tin với tôi đã được Allah thương xót cứu rỗi, trong khi những kẻ không tin thì bị tiêu diệt hoàn toàn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Hud",
+        "Tiên tri Salih",
+        "Tiên tri Shuaib",
+        "Tiên tri Lut",
+        "Tiên tri Nuh"
+      ],
+      "answer": "Tiên tri Hud"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Một cơn gió tàn phá đã tiêu diệt những kẻ không tin.",
+        "Một trận lụt lớn đã nhấn chìm những kẻ không tin.",
+        "Một trận mưa đá trút xuống.",
+        "Một tiếng thét lớn vang lên khiến những kẻ hoài nghi không tin.",
+        "Một trận động đất đã xảy ra với những kẻ không tin."
+      ],
+      "answer": "Một cơn gió tàn phá đã tiêu diệt những kẻ không tin."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một cơn gió không ngừng nghỉ",
+        "Một chiếc thuyền gỗ",
+        "Một con lạc đà cái",
+        "Mưa đá đất sét",
+        "Một ngọn lửa rực cháy"
+      ],
+      "answer": "Một cơn gió không ngừng nghỉ"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Hud và những người tin Chúa được cứu rỗi, còn những kẻ không tin Chúa thì bị tiêu diệt.",
+        "Hud được thăng chức lên vị trí cao.",
+        "Hud bị chính người dân của mình giết chết.",
+        "Dân của Hud đã ăn năn hối lỗi và được tha mạng.",
+        "Hud đã rời bỏ người dân của mình trước khi bất kỳ hình phạt nào được ban ra."
+      ],
+      "answer": "Hud và những người tin đạo được cứu rỗi, còn những kẻ không tin đạo thì bị tiêu diệt."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

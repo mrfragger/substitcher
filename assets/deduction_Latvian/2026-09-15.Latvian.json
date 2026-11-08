@@ -1,0 +1,61 @@
+{
+  "title": "Viesmīlība, kas radīja bailes",
+  "intro": "Pilsētā, ko pārņēma ļaunums, kādu dienu uzticīgs kalps negaidīti sagaidīja viesus. Noraizējies par viņu drošību, šis cilvēks piedāvāja aizsardzību, bet pilsētas iedzīvotāji pieprasīja kaut ko apkaunojošu. Brīdināts par gaidāmo likteni, kalps kopā ar ģimeni tumsas aizsegā aizbēga, atstājot aiz sevis pilsētu, kas bija iezīmēta iznīcināšanai. Kas ir šis vientuļais ticīgais?",
+  "clues": [
+    "Es tiku sūtīts kā vēstnesis pie cilvēkiem, kas bija iesaistījušies apkaunojošās darbībās.",
+    "Manās mājās ieradās negaidīti viesi, un es vairāk uztraucos par viņu drošību nekā par savu.",
+    "Mani cilvēki ļaunu nodomu dēļ pieprasīja tikšanos ar maniem viesiem, un es centos ar viņiem sarunāties.",
+    "Mani apmeklētāji atklāja sevi kā eņģeļus un pavēlēja man naktī paņemt līdzi ģimeni un aiziet.",
+    "Mana sieva neklausījās aicinājumam bēgt un saskārās ar tādu pašu iznīcību kā mani ļaudis.",
+    "Manu pilsētu apgāza slāņainu māla akmeņu lietus, tās augstākās vietas nonesot zemākās."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Lūts",
+        "Pravietis Musa",
+        "Pravietis Ibrahims",
+        "Pravietis Nuhs",
+        "Pravietis Huds"
+      ],
+      "answer": "Pravietis Lūts"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Manas tautas prasība ļaunprātīgi tuvoties maniem viesiem",
+        "Jūras šķiršana, lai izbēgtu no tirāna",
+        "Liela šķirsta būvēšana izsmiekla vidū",
+        "Mana dēla upuris ticības pārbaudījumā",
+        "Pieredze, kad tevi norīs liela zivs"
+      ],
+      "answer": "Manas tautas prasība ļaunprātīgi tuvoties maniem viesiem"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Manas tautas apgāztā pilsēta",
+        "Kalns, kur es saņēmu dievišķu runu",
+        "Šķirsts, kas kuģoja cauri lieliem plūdiem",
+        "Kamielis, kas iznira no klints",
+        "Dārzs ar apslēptu taisnīgu viesi"
+      ],
+      "answer": "Manas tautas apgāztā pilsēta"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Es tiku izglābts kopā ar ģimeni, pirms mana pilsēta tika apgāzta",
+        "Es aizvedu savu tautu uz brīvību pāri jūrai",
+        "Es uzbūvēju lielu šķirstu un pārdzīvoju varenus plūdus",
+        "Man tika dota vara pār vējiem un džiniem",
+        "Es pacietīgi izturēju ciešanas un tiku atalgots ar ģimeni"
+      ],
+      "answer": "Es tiku izglābts kopā ar ģimeni, pirms mana pilsēta tika apgāzta"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

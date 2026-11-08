@@ -1,0 +1,61 @@
+{
+  "title": "Bareetsi ba ba tswang kwa go se se sa bonweng",
+  "intro": "Ka kwa ga lesire la lefatshe le le bonalang, kokoano e e fitlhegileng e ne e kokoane mo lefifing, e gogelwa kwa modumong o o neng o ganetsa tsotlhe tse ba neng ba di itse. Ba ne ba kgarakgatshega dingwaga di le dintsi ba sena kaelo ya boammaaruri, go fitlhela lentswe le tlhaba mo tidimalong ya lefelo la bone le le sa bonweng mme la tlhotlheletsa sengwe kwa teng mo teng. Bosigong jono, o lalediwa go gata ka kwa ga meriti le go ribolola boitshupo jwa setlhopha seno se se sa itsegeng, seo go kopana ga sone le mafoko a bomodimo go neng ga ba busetsa kwa bathong ba bone jaaka batlhagisi ba boammaaruri jo bo neng bo ka se kgone go thibelwa.",
+  "clues": [
+    "Re ditshedi tsa bogologolo, tse di neng di le teng bogologolo pele ga merafe e mentsi e o kileng wa bala ka yone, le fa go ntse jalo ga go buiwe ka rona ka sewelo mo dipolelong tsa batho.",
+    "Tlholego ya rona ga e tshwane le ya gago, e logilwe go tswa mo dilong tse di sa bonweng, mme re na le maatla a a ganetsanang le tse di tlwaelegileng.",
+    "Ka dingwaga di le dintsi, re ne re tsamayatsamaya re sena kaelo ya boammaaruri, go fitlha modumo o goroga kwa go rona o o neng wa tlhotlheletsa sengwe kwa tengteng.",
+    "Re ne ra utlwa go boeletsa go go tshwanang le sepe se re kileng ra se utlwa, mafoko a a neng a rwele bokete jo bo fetang puo epe fela.",
+    "Re ne re gatelela mo sephiring, re laela ba rona gore ba didimale, mme fa ditemana di konela, re ne re sa kgone go nna re sa tshikhinyega.",
+    "Re ne ra boela kwa bathong ba rona mme ra bolela jaana: 'Ao batho ba rona, re utlwile Buka e e senotsweng morago ga ga Moshe, e tlhomamisa se se neng se le pele ga yone, e kaela kwa boammaaruring.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Ba-Hawariyyun (Barutwa ba ga Isa)",
+        "Di-Jinn tse di neng tsa dumela morago ga go utlwa Quran",
+        "Batsala ba Logaga",
+        "Baengele ba legodimo le le kwa tlase thata",
+        "Batho ba ga Faro ba ba neng ba latela tsela ya gagwe"
+      ],
+      "answer": "Di-Jinn tse di neng tsa dumela morago ga go utlwa Quran"
+    },
+    "trial": {
+      "label": "Teko / Tiragalo",
+      "options": [
+        "Re ne ra lelekwa ka ntlha ya go gana go obama fa pele ga setshedi se se sa tswang go bopiwa",
+        "Re ne ra tswalelwa mo logageng dingwaga di le makgolo a mararo le borobongwe",
+        "Re ne ra laelwa go kgabaganya lewatle le le neng la kgaogana fa pele ga rona .",
+        "Re ne ra romelwa kwa lefatsheng la maselamotse go ya go ithuta boloi",
+        "Re ne ra reetsa pina e e neng e bolelwa mo sephiring mme re ne ra fetolwa ke yone"
+      ],
+      "answer": "Re ne ra reetsa pina e e neng e bolelwa mo sephiring mme re ne ra fetolwa ke yone"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Namane ya gauta e e dirilweng ka mekgabiso ya batho",
+        "Logaga lo boroko bo neng bo nna mo go lone dikokomana",
+        "Baengele ba babedi kwa Babelona ba ba neng ba ruta kitso e e ileditsweng",
+        "Buka e e neng ya senolwa morago ga ga Moshe, e e neng e tlhomamisa Tora .",
+        "Setlhatshana se se tukang mo godimo ga thaba e e boitshepo"
+      ],
+      "answer": "Buka e e neng ya senolwa morago ga ga Moshe, e e neng e tlhomamisa Tora ."
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Re ne ra hutsiwa go fitlha ka Letsatsi la Katlholo .",
+        "Re tsogologetse mmusi yo o nonofileng mme ra aga sekgoreletsi mo lefatsheng",
+        "Re ne ra fetolwa go nna ditshwene le dikolobe",
+        "Re ne ra boela kwa bathong ba rona re le batlhagisi, re bolela tumelo .",
+        "Re ne ra nwela mo lewatleng re bapile le moeteledipele wa rona"
+      ],
+      "answer": "Re ne ra boela kwa bathong ba rona re le batlhagisi, re bolela tumelo ."
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Įspėjimas po žeme",
+  "intro": "Įsivaizduokite, kad stovite šalia gilaus iškasimo, kai iš apačios sklinda balsai, o pasaulis viršuje nutyla. Koranas šią sceną išsaugojo kaip įspėjimą: bendruomenė atmeta tai, ką atneša pasiuntiniai, artėja bausmė, ir net jos riaumojimas tampa liudijimo dalimi. Kuri bendruomenė kalba per šias eilutes?",
+  "clues": [
+    "Korane esame prisimenami kaip kolektyvas, apibrėžtas vieno bendro likimo, o ne individualaus vardo.",
+    "Mes atmetėme pasiuntinių atneštą žinią, nors jų žodžiai buvo tiesa.",
+    "Mūsų prisimenama tapatybė susieta su giliu įdubimu žemėje, ir ši savybė tapo mūsų vardo dalimi.",
+    "Sutartą dieną mus išvedė ir nutempė prie ugnies.",
+    "Negalėjome apsiginti nuo bausmės ir negalėjome girdėti jos riaumojimo.",
+    "Mūsų veidai būtų nukreipti į ugnį ir būtume į ją įvaryti; klausiami sakydavome, kad esame tarp tų, kurie negali atsakyti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tranšėjos palydovai",
+        "Tauta, išgelbėta nuo Didžiojo tvano",
+        "Auksinio veršio garbintojai",
+        "Grupė pasislėpė kalnų oloje",
+        "Bendruomenė, išvaduota iš ugningos krosnies"
+      ],
+      "answer": "Tranšėjos palydovai"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Nutempti ir įmesti į ugnį",
+        "Išgabentas iš ugningos krosnies",
+        "Saugiai perneštas per didelį potvynį",
+        "Šimtmečius slėpėsi oloje",
+        "Išgelbėtas po to, kai buvo įmestas į šulinį"
+      ],
+      "answer": "Nutempti ir įmesti į ugnį"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Tranšėja arba duobė",
+        "Puiki jūra",
+        "Kalnų urvas",
+        "Aukšti rūmai",
+        "Dykumos šulinys"
+      ],
+      "answer": "Tranšėja arba duobė"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nesugebantys apsiginti ir negirdėję Ugnies riaumojimo",
+        "Išgelbėtas ir įleistas į amžinuosius sodus",
+        "Saugiai pristatyti per niokojantį potvynį",
+        "Apsaugotas ilgo miego oloje",
+        "Garbėta amžina karalyste"
+      ],
+      "answer": "Nesugebantys apsiginti ir negirdėję Ugnies riaumojimo"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

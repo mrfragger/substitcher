@@ -1,0 +1,61 @@
+{
+  "title": "O Construtor Inabalável da Salvação",
+  "intro": "Figura de imensa paciência e convicção inabalável, este indivíduo dedicou incontáveis ​​anos a uma missão divina, enfrentando desprezo e rejeição implacáveis. Sua história é um poderoso testemunho de fé diante da descrença avassaladora, culminando em um evento marcante que transformou o mundo.",
+  "clues": [
+    "Dediquei um período incrivelmente longo da minha vida a chamar o meu povo à adoração de Alá.",
+    "Meu povo zombou de mim e me acusou de erro manifesto e loucura.",
+    "Recebi a ordem de construir algo que parecia incomum para minha comunidade sem litoral.",
+    "Apenas alguns acreditaram e se juntaram a mim e à minha família nessa construção singular.",
+    "Levei a bordo pares de todas as criaturas vivas, conforme instruído por Alá.",
+    "Uma grande inundação engolfou a terra, salvando apenas aqueles que estavam comigo em minha embarcação, enquanto meu próprio filho pereceu por sua incredulidade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Noé",
+        "Profeta Dawud",
+        "Profeta Sulayman"
+      ],
+      "answer": "Profeta Noé"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A destruição causada por um terremoto",
+        "A divisão do mar",
+        "A grande inundação",
+        "O fogo de Ninrode",
+        "A praga de rãs"
+      ],
+      "answer": "A grande inundação"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A sarça ardente",
+        "A arca",
+        "O poço de água",
+        "O bezerro de ouro",
+        "A montanha de Tur"
+      ],
+      "answer": "A arca"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Recebeu um reino",
+        "Seu povo foi transformado em macacos.",
+        "Seu povo foi salvo por um milagre.",
+        "Seu povo foi afogado",
+        "Seu povo foi atingido por um raio."
+      ],
+      "answer": "Seu povo foi afogado"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

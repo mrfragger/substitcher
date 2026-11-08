@@ -1,0 +1,61 @@
+{
+  "title": "Na Lorgóirí Fírinne Umhal",
+  "intro": "I dtír na cumhachta agus na draíochta ársa, tarlaíonn coimhlint mhór. Tá údarás comharthaí diaga ag taobh amháin, agus déanann an taobh eile iarracht an rud dodhéanta a shárú. Athróidh an toradh cúrsa na staire go deo. An féidir leat céannacht na ndaoine a chonaic an fhírinne deiridh agus a umhlaíodh iad féin os a comhair a nochtadh?",
+  "clues": [
+    "Chonaiceamar comharthaí a chuaigh níos faide ná cleasa na draíochta",
+    "Thit muid uile i ndroch-umhlaíocht, gan cumas againn an fhírinne a shéanadh",
+    "D'aithin muid gur tháinig na comharthaí seo ón Aon Dia Fíor amháin",
+    "Ba muidne an chéad phobal a ghlac le creideamh ar bhealach chomh drámatúil sin.",
+    "Gealladh dúinn parthas mar luach saothair as ár gcreideamh",
+    "Rinneadh nathracha dár rópaí agus dár mbataí os comhair ár súl, ach roghnaigh muid géilleadh"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Draíodóirí an Pharaoh",
+        "Muintir an Fháidh Ibrahim",
+        "Na daoine atá ag lorg na fírinne go humhal",
+        "Muintir na hUaimhe",
+        "Náisiún na Banríona Bilqis"
+      ],
+      "answer": "Draíodóirí an Pharaoh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An teagmháil le foireann an Fháidh Músa",
+        "Triail ghaoth an Fháidh Hud",
+        "An dúshlán ó chamall baineann an Fháidh Salih",
+        "An tuile mhór a seoladh ar fháidh",
+        "Turas fáidh taobh istigh de mhíol mór"
+      ],
+      "answer": "An teagmháil le foireann an Fháidh Músa"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Éigipt Ársa",
+        "An teach naofa i Mecca",
+        "Cathair Mhidiáin",
+        "Fásach Thamud",
+        "Uaimh na gcodladh ársa"
+      ],
+      "answer": "An Éigipt Ársa"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Paradise mar a luach saothair",
+        "Pionós san uaigh",
+        "Cailliúint a ngairdíní flúirseach",
+        "Scriosadh de bharr crith talún tobann",
+        "Tarrtháil ó mhíol mór mór"
+      ],
+      "answer": "Paradise mar a luach saothair"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

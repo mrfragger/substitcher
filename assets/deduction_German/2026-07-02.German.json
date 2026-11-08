@@ -1,0 +1,61 @@
+{
+  "title": "Der Diener der verborgenen Weisheit",
+  "intro": "Im reichen Geflecht der koranischen Erzählungen erscheint eine rätselhafte Gestalt, ein Diener Allahs, gesegnet mit göttlichem Wissen und Barmherzigkeit. Dieser geheimnisvolle Mensch begegnete einem der größten Propheten, woraufhin eine Reise voller rätselhafter Taten begann, die das menschliche Verständnis überstiegen. Jede dieser Taten, so ungerecht sie auch scheinen mochte, barg tiefgründige Lehren über Schicksal, Geduld und die verborgene Weisheit hinter göttlichen Fügungen. Wer ist diese geheimnisvolle Gestalt, und welche Wahrheiten enthüllte sie?",
+  "clues": [
+    "Ich war ein Diener Allahs, auserwählt für besonderes Wissen und Barmherzigkeit.",
+    "Ein großer Prophet wollte von mir lernen, und ich stimmte unter strengen Bedingungen zu.",
+    "Während unseres Treffens habe ich drei Handlungen vorgenommen, die meinem Begleiter ungerecht erschienen.",
+    "Ich beschädigte ein Boot, das armen Leuten gehörte, doch es war eine verborgene Gnade.",
+    "Ich habe das Leben eines jungen Jungen genommen, und obwohl es grausam erscheinen mag, tat ich es, um seinen Eltern Kummer zu ersparen.",
+    "Ich habe in einer Stadt, die uns die Gastfreundschaft verweigerte, eine Mauer wieder aufgebaut und dabei einen darunter liegenden Schatz zum Vorschein gebracht."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Al-Khidr (der rechtschaffene Diener)",
+        "Der Besitzer der beiden Gärten",
+        "Einer der Höhlenbewohner",
+        "Der König, der mit Ibrahim stritt",
+        "Der Mann, der 100 Jahre lang schlief"
+      ],
+      "answer": "Al-Khidr (der rechtschaffene Diener)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Begegnung mit dem Propheten Musa am Zusammenfluss der beiden Meere",
+        "Errichtung einer Barriere gegen Gog und Magog",
+        "In ein großes Feuer geworfen werden",
+        "Das Meer in zwei Hälften teilen",
+        "Empfang der Tora-Tafeln"
+      ],
+      "answer": "Begegnung mit dem Propheten Musa am Zusammenfluss der beiden Meere"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Zusammenfluss der beiden Meere",
+        "Berg Sinai",
+        "Die Höhle von Thawr",
+        "Das Tal von Tuwa",
+        "Der Zamzam-Brunnen"
+      ],
+      "answer": "Der Zusammenfluss der beiden Meere"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Er erklärte die göttliche Weisheit hinter seinen rätselhaften Handlungen und trennte sich von Musa.",
+        "Nach der Reise wurde ihm das Prophetentum verliehen.",
+        "Das Boot wurde durch einen Sturm zerstört",
+        "Der Junge wurde wieder zum Leben erweckt.",
+        "Er baute eine Moschee in der unwirtlichen Stadt."
+      ],
+      "answer": "Er erklärte die göttliche Weisheit hinter seinen rätselhaften Handlungen und trennte sich von Musa."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

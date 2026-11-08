@@ -1,0 +1,61 @@
+{
+  "title": "Jumalikkust nõudnud suverään",
+  "intro": "Võimas ja ülbe valitseja uskus, et keegi ei seisa tema trooni kohal. Nad ajasid põgenevat rühma taga üle tohutu veekogu, kuid said dramaatilise lõpu. Selle valitseja lugu kajab läbi paljude Koraani lõikude, olles hoiatuseks kõigile.",
+  "clues": [
+    "Olin võimas valitseja, kes uskus, et minu valitsetavatel maadel pole ühtegi autoriteeti, mis oleks minu omast parem.",
+    "Mul oli usaldusväärne visiir nimega Haman, kes aitas mul ellu viia suuri arhitektuuriprojekte.",
+    "Kutsusin kokku oma maa parimad võlurid, et vaidlustada mulle vastu seisva sõnumitooja märke.",
+    "Ma keeldusin laskmast oma valduses orjastatud rahval lahkuda, hoolimata katkudest ja selgetest hoiatustest.",
+    "Ma ajasin neid taga üle laia mere kogu oma sõjaväe ja vankritega.",
+    "Seesama meri sulgus minu ja mu vägede kohal, uputades meid kõiki, samal ajal kui nemad turvaliselt üle läksid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Fir'awn (vaarao)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (vaarao)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Katkud ja vastasseis Moosesega",
+        "Laeva ehitamine enne suurt veeuputust",
+        "Võitlus Jaluti vastu orus",
+        "Vaala allaneelamine",
+        "Ausate kaubanduskaalude kaitsmine"
+      ],
+      "answer": "Katkud ja vastasseis Moosesega"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kõrged tornid ja vaiad",
+        "Suur puust laev",
+        "Kuldne vasikas",
+        "Personali, mis muutus maoks",
+        "Massiivne vaal"
+      ],
+      "answer": "Kõrged tornid ja vaiad"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Uppusid koos armeega merre",
+        "Päästetud Allahi halastuse ja kannatlikkuse poolt, premeeritud",
+        "Pärast aastaid kestnud raskusi taasühines perega",
+        "Maa poolt neelatud",
+        "Põles tulekahjus"
+      ],
+      "answer": "Uppusid koos armeega merre"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

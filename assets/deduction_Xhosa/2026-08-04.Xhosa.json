@@ -1,0 +1,61 @@
+{
+  "title": "I-Echo Edlula Emaweni",
+  "intro": "Khawuthelekelele intlambo apho izindlu zigrunjwe ngamawa, kwaye umoya ugcina inkumbulo yesilumkiso esingathotyelwanga. Abantu ababekhe bachuma apha, besikelelekile kodwa bengenamdla, de kwavela uphawu kwiliwa ababelithemba.",
+  "clues": [
+    "Sasingabantu ababeziqwenga izindlu ezikhuselekileyo ezintabeni, beziva bekhuselekile kwiindawo zethu zokuhlala ezinamatye.",
+    "Sasihlala kwilizwe elinamathafa namatye, elisikelelwe ziigadi nemithombo yamanzi.",
+    "Kwafika isithunywa esivela phakathi kwethu, sisibiza ukuba silahle oothixo bethu bobuxoki size sinqule uMdali oyinyaniso omnye.",
+    "Ngokuzikhukhumeza sibeka ummiselo wokukholelwa: uphawu olukhethekileyo oluya kuvela kumatye esiwaqobileyo.",
+    "Xa inkamela yemazi eyayithenjisiwe yavela eliweni, uphawu olucacileyo, abantu abaphezulu bethu basala baza bayinqumla imisipha nangona babelumkisiwe ngentshabalalo ezayo.",
+    "Emva kweentsuku ezintathu senze into esiyithethileyo, kwavakala isandi esikhulu entlanjeni, saza sadilika saba yinkunkuma, amakhaya ethu aba ngamangcwaba ethu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "Abantu base-'Ad'",
+        "Abantu baseThamud",
+        "Abantu baseMadyan",
+        "Abantu baseGrove",
+        "Abantu Bomqolomba"
+      ],
+      "answer": "Abantu baseThamud"
+    },
+    "trial": {
+      "label": "Uvavanyo Lwethu/Isiganeko Esiphambili",
+      "options": [
+        "Ukubetheka kwenkamela yenkamela ka-Allah",
+        "Ukunqulwa kwethole legolide",
+        "Ukwaphulwa kweSabatha",
+        "Ukwakhiwa kwenqaba esibhakabhakeni",
+        "Ukubulawa kwabaprofeti"
+      ],
+      "answer": "Ukubetheka kwenkamela yenkamela ka-Allah"
+    },
+    "location": {
+      "label": "Into ephambili kwibali lethu",
+      "options": [
+        "Inkamela yenkamela ka-Allah",
+        "Abasebenzi bakaMusa",
+        "Ityeya kaNuh",
+        "Isandla esimhlophe sikaMusa",
+        "Intaka ka-Isa"
+      ],
+      "answer": "Inkamela yenkamela ka-Allah"
+    },
+    "outcome": {
+      "label": "Isiphumo Sethu",
+      "options": [
+        "Ukutshatyalaliswa kukuqhuma okukhulu",
+        "Imvula yamatye evela esibhakabhakeni",
+        "Umkhukula owagubungela umhlaba",
+        "Umoya onamandla owasisusa",
+        "Umhlaba uyasiginya"
+      ],
+      "answer": "Ukutshatyalaliswa kukuqhuma okukhulu"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

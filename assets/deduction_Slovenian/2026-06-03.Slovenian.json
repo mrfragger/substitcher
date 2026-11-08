@@ -1,0 +1,61 @@
+{
+  "title": "Narod, ki je izzval sveto hišo",
+  "intro": "V davnih časih se je mogočen narod odločil napasti svetišče, ki so ga častili verniki. Ta skupina je bila bogata, mogočna in prepričana v svojo vojaško moč. S seboj so pripeljali ogromno bitje, ki bi jim služilo kot vojno orožje. Njihov cilj je bil jasen: porušiti sveto hišo in zatreti vero njenih ljudi. Toda njihova aroganca je bila tik pred tem, da se je od zgoraj odzvala z uničujočim odzivom. Ta zgodovinski dogodek je postal znamenje in lekcija za vse, ki so prišli za njim. Ali lahko prepoznate to skupino iz namigov?",
+  "clues": [
+    "Bili smo narod, blagoslovljen z bogastvom in vojaško spretnostjo.",
+    "Zbrali smo svoje sile in s seboj pripeljali ogromno zver, ki jo bomo uporabili v naši kampanji.",
+    "Naša tarča je bilo sveto svetišče, ki smo ga želeli popolnoma uničiti.",
+    "Verjeli smo, da bo naša moč dovolj, da premagamo vsako božansko zaščito.",
+    "Toda Gospod je poslal nad nas kazen z neba, ki je nismo pričakovali.",
+    "V trenutku smo bili uničeni, raztreseni kot polomljena slama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje slona",
+        "Ljudje iz Thamuda",
+        "Ljudje iz 'Ad",
+        "Spremljevalci jame",
+        "Narod preroka Huda"
+      ],
+      "answer": "Ljudje slona"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Korak s slonom proti sveti hiši, da bi jo uničil",
+        "Gradnja stolpa, da doseže nebesa",
+        "Izdelava zlatega idola za čaščenje",
+        "Zavrnitev poslušanja Alahovega poslanca",
+        "Kopanje vodnjaka za škodovanje vernikom"
+      ],
+      "answer": "Korak s slonom proti sveti hiši, da bi jo uničil"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Slon",
+        "Zlato tele",
+        "Musajevo osebje",
+        "Riba Yunusa",
+        "Dawudovo železo"
+      ],
+      "answer": "Slon"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Uničile so jih jate ptic s kamenjem",
+        "Utopila jih je velika poplava",
+        "Preobrazili so se v opice in prašiče",
+        "Pokopali so jih pod padajočim kamenjem z gore",
+        "Zgorel jih je ogenj z neba"
+      ],
+      "answer": "Uničile so jih jate ptic s kamenjem"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

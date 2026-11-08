@@ -1,0 +1,61 @@
+{
+  "title": "Te Ope Taua i Tūtaki ki te Ure Rere",
+  "intro": "I te wā i mua i te Poropiti a Muhammad, i whakarewahia e tētahi rangatira kaha o Yemen tētahi pakanga hōia e whai ana kia whakangaromia tētahi wāhi tapu i Makkah. Nā tēnei hoariri i ārahi tētahi ope nui me ngā arewhana whawhai, e whakapono ana ki tō rātou kaha me te tokomaha. Heoi, ka mutu ohorere tā rātou haerenga i te tūtakitanga ki tētahi wawaotanga atua kāore i te tumanakohia. Ka taea e koe te tautuhi ko wai i tūtaki ki tēnei whakatau tata whakamiharo?",
+  "clues": [
+    "I haere tahi mātou me tētahi ope taua nui me ngā arewhana pakanga kaha ki te whare tapu",
+    "I whakaaro mātou ki te hutia ake, ki te whakangaro hoki i tētahi wāhi karakia i hangaia e ngā pononga a te Atua Aroha Nui.",
+    "I tukuna mai he kahui manu ririki ki a mātou, me te mau i ngā kōhatu paru i roto i ō rātou ngutu me ō rātou maikuku.",
+    "I tūtaki mātou ki tētahi haruru i aki mai i ngā kōhatu ki runga i a mātou, i huri ai mātou hei toenga kua takatakahia",
+    "Nō te whenua o Yemen ahau, ā, i mahi ahau i raro i tētahi rangatira i whai kia tiakina te wāhi tapu.",
+    "I waiho mātou hei tauira mā te hunga e maia ana ki te whakakore i te wāhi tapu o Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Ope Taua o Abraha al-Ashram",
+        "Ngā Ope Taua o Etiopia",
+        "Ngā Kaiwhaiwhai o Pāhia",
+        "Ngā Rōpū Rōmana",
+        "Ngā Kaipahua Bedouin"
+      ],
+      "answer": "Te Ope Taua o Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakapaenga o tētahi pā kaha i te koraha",
+        "Te whakaekenga o te wāhi tapu i Meka",
+        "He pakanga moana i te moana",
+        "He whakakeke ki tētahi kīngi nanakia",
+        "He rapunga mō tētahi poropiti ngaro"
+      ],
+      "answer": "Te whakaekenga o te wāhi tapu i Meka"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te awaawa o Mina e tata ana ki Makkah",
+        "Te whare kingi o Sana'a i Yemen",
+        "Ngā maunga o Tihama",
+        "Te tāone tawhito o Hiruharama",
+        "Ngā takutai o te Moana Whero"
+      ],
+      "answer": "Te awaawa o Mina e tata ana ki Makkah"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te wikitoria me te whakangaromanga o te whare tapu",
+        "Te hinganga i ngā manu e kawe ana i ngā kōhatu uku",
+        "Te tukunga me te tahuritanga i runga i te rangimārie",
+        "Te matekai me te aituā taiao",
+        "Te hokinga whakamuri nā te nui o te ua"
+      ],
+      "answer": "Te hinganga i ngā manu e kawe ana i ngā kōhatu uku"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

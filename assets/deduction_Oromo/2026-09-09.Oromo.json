@@ -1,0 +1,61 @@
+{
+  "title": "Lubbuu Jalqabaa Dhaabbatte",
+  "intro": "Ergamaan kamiyyuu lafa irra osoo hin deemin yeroo dheeraa dura, macaafni kamiyyuu osoo hin mul’atin dura, uumamni kan biroo irraa adda ta’e tokko uumame. Lubbuun kun harka waaqaatiin bocamtee, bakki bareedina wal hin madaalle kennameefii, seenaa dhala namaa hundumaa keessatti haala sagalee ta’een qoratamte. Wanti itti aanee dhufe seenaa dadhabina, gaabbii garaa garaa fi hiree adeemsa uumaa bara baraan jijjiiru ture. Kun eenyu akka ta'e tilmaamu dandeessu?",
+  "clues": [
+    "Biyyee lafaa keessaa harka Rahmata godheen bocame",
+    "Manni bareedina gita hin qabne, bakka beelli ykn dadhabbiin tokkollee na tuquu hin dandeenye naaf kenname",
+    "Muka tokkottillee gonkumaa akkan hin dhiyaanne ajajameera, sababiin isaas haraama waan ta’eef",
+    "Aniifi hiriyaan koo gowwoomfamnee muka haraamaatti dhiyaanne, ajaja Gooftaa keenyaa malee",
+    "Towbaa garaa qulqulluudhaan gara Gooftaa keenyaatti deebine, irra daddarbaan keenyas dhiifama nuuf godhame",
+    "Nurraa dhala namaa hunduu bu’e; Ani nama jalqaba lafa kanarra deemedha"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Aadam",
+        "Nabi Muusaa",
+        "Nabi Nuh",
+        "Nabi Yuusuf",
+        "Nabi Isaa"
+      ],
+      "answer": "Nabi Aadam"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Qormaata muka dhorkameen",
+        "Fara’oon waliin wal dura dhaabbachuu",
+        "Taabota guddaa ijaaruu",
+        "Aarsaa ilma jaallatamaa",
+        "Ibidda guddaa keessa darbatamuu"
+      ],
+      "answer": "Qormaata muka dhorkameen"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Muka Dhorkame",
+        "Bosona Gubaa jiru",
+        "Ulee Warqee",
+        "Taabota Guddaa",
+        "Re'ee Warqee"
+      ],
+      "answer": "Muka Dhorkame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Kunuunsa dhala namaa isa jalqabaa ta'ee gara lafaatti gadi ergame",
+        "Fara’oonii fi waraanni isaa galaana keessatti liqimfaman",
+        "Bishaan badiisaa guddaan sun namoota jalʼoota ni balleesse",
+        "Ibiddi qabbanaa'ee nagaa ta'e",
+        "Mootummaa Gibxii irratti aangoo kennameef"
+      ],
+      "answer": "Kunuunsa dhala namaa isa jalqabaa ta'ee gara lafaatti gadi ergame"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

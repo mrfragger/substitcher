@@ -1,0 +1,61 @@
+{
+  "title": "Profeta baten ondoko ahots debotoak",
+  "intro": "Lurralde urrun batean, mezulari noble batek garai hartako botere agintarien arbuio gogorra jasan zuen. Hala ere, arima debotoen zirkulu txiki bat zegoen Alaren zerbitzari honen ondoan, jainkozko dei bati erantzuteko irrikaz. Haien konbikzio irmoak nazio boteretsu bat zatituko zuen eta azkenean sinesgaiztasunaren indarren aurka nagusituko zen.",
+  "clues": [
+    "Talde txiki eta deboto bat ginen, fedean eta helburu batean batuak.",
+    "Beren lurraldeko agintari boteretsuek arbuiatu zuten mezulari noble baten ondoan geunden.",
+    "Mezulariak galdetu zuenean, «Nortzuk dira nire aldekoak Alaren kausan?», zalantzarik gabe erantzun genuen.",
+    "Mezulari honi eskatu genion zerutik jai bat eskatzeko, gure bihotzak lasaitzeko.",
+    "Garai hartako jendearen artean, batzuek gure mezuari esker sinetsi zuten eta beste batzuek temati uko egin zioten, baina Alakek sinestunak indartu zituen.",
+    "Hawwariyyunak gara — Isaren dizipulu debotoak, Alaren laguntzari esker garaile lortu ditugunak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hawwariyyun (Isaren ikasleak)",
+        "Kobazuloko Lagunak",
+        "Faraoiaren emazte sinestuna",
+        "Sabako Errege Familia",
+        "Faraoiaren gortean sinesten zuten magoak"
+      ],
+      "answer": "Hawwariyyun (Isaren ikasleak)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Profeta baten misioaren aldeko leialtasuna zin egitea",
+        "Zigilatutako kobazulo batean lozorroan gordeta egotea",
+        "Fedeagatik lubaki sutsu batera botata izatea",
+        "Haurtzaroan sarraski-konplot batetik bizirik irautea",
+        "Profeta baten aginduz itsasoen zatitzearen lekuko"
+      ],
+      "answer": "Profeta baten misioaren aldeko leialtasuna zin egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Zerutik etorritako janari zerutiarrez apaindutako mahaia",
+        "Jainkoz eraikitako itsasontzi bat mendi tontor batean atseden hartzen",
+        "Tiranoen magia irentsi zuen langile bat",
+        "Jainkozko babesak zigilatutako kobazulo bat",
+        "Harkaitz sendo batetik atera zen gamelu eme bat"
+      ],
+      "answer": "Zerutik etorritako janari zerutiarrez apaindutako mahaia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Mezua baztertu zutenen gainetik nagusi egin ziren",
+        "Hirurehun urtez bakean lo egin zuen",
+        "Uholde handi baten uretatik salbatu ziren",
+        "Agintari zapaltzaile baten eta bere armadaren itotzearen lekuko izan nintzen",
+        "Urre eta altxor kopuru izugarria pilatu zuten, baina harrokeriak suntsitu zituen"
+      ],
+      "answer": "Mezua baztertu zutenen gainetik nagusi egin ziren"
+    }
+  },
+  "verseRef": "61:14",
+  "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+  "verse": "O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, \"Who are my supporters for Allāh?\" The disciples said, \"We are supporters of Allāh.\" And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant. (61:14)"
+}

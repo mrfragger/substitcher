@@ -1,0 +1,61 @@
+{
+  "title": "Umkhosi Owahlangatyezwa NguFlying Clay",
+  "intro": "Ngexesha langaphambi koMprofeti uMuhammad, umlawuli onamandla waseYemen waqalisa iphulo lomkhosi elalijolise ekutshabalaliseni indawo engcwele eMakkah. Olu tshaba lwalukhokela umkhosi omkhulu oneendlovu zemfazwe, ziqinisekile ngamandla azo kunye nenani lazo. Nangona kunjalo, uhambo lwazo lwaluza kuphela ngequbuliso njengoko zidibana nokungenelela okungalindelekanga kukaThixo. Ngaba ungamchaza obani ababejongene nolu vavanyo lumangalisayo?",
+  "clues": [
+    "Sahamba nomkhosi omkhulu kunye neendlovu ezinamandla zemfazwe sisiya endlwini engcwele",
+    "Sasijonge ukuncothula nokutshabalalisa indawo yonqulo eyakhiwe ngabakhonzi boThixo onenceba.",
+    "Umhlambi weentaka ezincinci wathunyelwa kuthi, uthwele amatye odongwe ngemilomo nangeenzipho zawo",
+    "Sadibana nesandi esasiphosa ngamatye, sasenza sangamanxuwa anyathelweyo",
+    "Ndandivela kwilizwe laseYemen kwaye ndandikhonzwa phantsi komlawuli owayefuna ukuhlalisa ingcwele engcwele.",
+    "Senziwe umzekelo wabo abo babenobuganga bokuhlambulula indawo engcwele ka-Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umkhosi ka-Abraha al-Ashram",
+        "Imikhosi yase-Ethiopia",
+        "AmaPersi Oyisayo",
+        "Imikhosi yamaRoma",
+        "Abahlaseli beBedouin"
+      ],
+      "answer": "Umkhosi ka-Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukungqingwa kwenqaba yasentlango",
+        "Ukuhlaselwa kwengcwele engcwele eMakkah",
+        "Imfazwe yaselwandle elwandle",
+        "Ukuvukela ukumkani onobuzwilakhe",
+        "Ukukhangela umprofeti olahlekileyo"
+      ],
+      "answer": "Ukuhlaselwa kwengcwele engcwele eMakkah"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intlambo yaseMina kufutshane neMakkah",
+        "Ibhotwe laseSana'a eYemen",
+        "Iintaba zaseTihama",
+        "Isixeko samandulo saseYerusalem",
+        "Unxweme loLwandle oluBomvu"
+      ],
+      "answer": "Intlambo yaseMina kufutshane neMakkah"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uloyiso nokutshatyalaliswa kwendlu engcwele",
+        "Ukoyiswa ziintaka ezithwele amatye odongwe",
+        "Ukuzinikela ngoxolo nokuguquka",
+        "Indlala kunye neentlekele zemvelo",
+        "Ukubuyela umva ngenxa yemvula enkulu"
+      ],
+      "answer": "Ukoyiswa ziintaka ezithwele amatye odongwe"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

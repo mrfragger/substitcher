@@ -1,0 +1,61 @@
+{
+  "title": "Varuh ob robu reke",
+  "intro": "V deželi, kjer je tiranin odlok prinesel žalost v številne domove, je duša prejela sporočilo, ki je kljubovalo vsakemu strahu. S srcem, polnim zaupanja, so se podali na dejanje vere, ki bo spremenilo pot naroda. Medtem ko so vode nosile dragocen tovor, se je upanje mešalo s tokovi.",
+  "clues": [
+    "Živel sem v času zatiranja in strahu.",
+    "Prejel sem božanski navdih, ki mi je dal pogum.",
+    "Zapovedano mi je bilo, naj se ne bojim in ne žalujem.",
+    "Otroka sem položil v skrinjo in ga postavil na vodo.",
+    "Mojega otroka je našla vladarjeva družina, moj drugi otrok pa je sledil.",
+    "Ponovno sem se združila s svojim otrokom, da bi ga dojila, tako kot je obljubil Alah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Mojzesova mati",
+        "Žena faraona",
+        "Mojzesova sestra",
+        "Jezusova mati",
+        "Kraljica iz Sabe"
+      ],
+      "answer": "Mojzesova mati"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Navdihnjen, da bi otroka vrgel v reko",
+        "Izzvan na magični dvoboj",
+        "Zasleduje ga vojska",
+        "Prečkanje morja, ki se je razdvojilo",
+        "Gradnja svete hiše"
+      ],
+      "answer": "Navdihnjen, da bi otroka vrgel v reko"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja, postavljena v reko",
+        "Goreči grm",
+        "Palica, ki se je spremenila v kačo",
+        "Zlato tele",
+        "Prestol"
+      ],
+      "answer": "Skrinja, postavljena v reko"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Otroka so varno vrnili medicinski sestri",
+        "Otrok je bil za vedno izgubljen",
+        "Otroka so odpeljali v daljno deželo",
+        "Otrok je takoj postal vladar",
+        "Otroka je posvojil bogat trgovec"
+      ],
+      "answer": "Otroka so varno vrnili medicinski sestri"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

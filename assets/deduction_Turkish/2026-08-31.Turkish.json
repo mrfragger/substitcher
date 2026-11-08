@@ -1,0 +1,61 @@
+{
+  "title": "Vadinin Sessiz Sesi",
+  "intro": "Zaman içinde geriye giderek, bir zamanlar yaşayan bir mucizeyi sınav olarak alan güçlü bir halkın öyküsünü hatırlayın. Kibir ve inatçılık kaderlerini belirledi. Hikayenin izini sürerek bu dramatik dönüm noktasında neler yaşandığını keşfedebilir misiniz?",
+  "clues": [
+    "Kudretli ve meydan okuyan bir halka ilahi bir imtihan olarak gönderildim.",
+    "Ben eşsiz bir mucizeydim; benim gibisi daha önce aralarında hiç görünmemişti.",
+    "Kuyudan çektiğim içme suyunu halkımla dönüşümlü olarak paylaşıyordum.",
+    "Bana karşı herhangi bir zarar verilmesinin hızlı bir şekilde cezalandırılacağı konusunda uyarıldılar.",
+    "Onlardan en cüretkâr olanı uyarıyı dikkate almadı ve beni zor durumda bıraktı.",
+    "Ölümümden sonra, yukarıdan gelen tek bir gürleyen çığlık tüm halkımı yok etti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Salih'in Dişi Devesi",
+        "Musa'nın İneği",
+        "Nuh'un Gemisi",
+        "Musa'nın Asası",
+        "Bilqis'in Tahtı"
+      ],
+      "answer": "Salih'in Dişi Devesi"
+    },
+    "trial": {
+      "label": "Kaderim",
+      "options": [
+        "Engelli ve öldürüldü",
+        "Kurban olarak katledildi",
+        "Yılana dönüştürüldü",
+        "Büyük bir sel felaketinden sağ kurtuldu",
+        "Bir krallık boyunca hızla getirildi"
+      ],
+      "answer": "Engelli ve öldürüldü"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir su kuyusu",
+        "Bir taş levha",
+        "Yanan bir çalı",
+        "Ahşap bir sandık",
+        "Altın ve gümüşten bir taht"
+      ],
+      "answer": "Bir su kuyusu"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Tek bir çığlıkla yok edildi",
+        "Büyük bir selde boğuldu",
+        "Taş yağmuru altında yanmış",
+        "Şiddetli bir rüzgar tarafından parçalandı",
+        "Toprak tarafından yutuldu"
+      ],
+      "answer": "Tek bir çığlıkla yok edildi"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

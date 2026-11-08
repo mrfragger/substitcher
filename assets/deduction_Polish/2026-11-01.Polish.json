@@ -1,0 +1,61 @@
+{
+  "title": "Głos, który odrzucił rozpacz",
+  "intro": "Wejdź do domu, w którym strata goni stratę, a mimo to jeden spokojny głos odrzuca rozpacz. Jedno wezwanie w Koranie zmienia cierpliwość w punkt zwrotny; czy potrafisz odnaleźć wskazówki prowadzące do osoby stojącej za tym głosem?",
+  "clues": [
+    "Byłem głosem cierpliwości w domu, w którym błogosławieństwa były wystawiane na próbę przez nieszczęścia.",
+    "Pozostałem w domu opustoszałym z powodu utraty majątku i dzieci.",
+    "Wiedziałem, że choroba dotknęła również tego towarzysza, którego ciało zostało dotknięte.",
+    "Kiedy cierpienie stało się poważne, zwróciłem się do Allaha z prośbą o pomoc.",
+    "Złożyłem jedno oświadczenie: Allah jest Prawdą, więc pozostań cierpliwy.",
+    "Wezwałem Ajjuba po imieniu, a potem Allah usunął nieszczęście i przywrócił rodzinę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Żona proroka Ajjuba",
+        "Żona proroka Noego",
+        "Żona proroka Ibrahima",
+        "Żona proroka Jakuba",
+        "Córka faraona"
+      ],
+      "answer": "Żona proroka Ajjuba"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Pozostanie przy Ayyubie pomimo straty i choroby, a następnie wezwanie do cierpliwości",
+        "Ostrzeżenie prawego posłańca przed porzuceniem skorumpowanej społeczności",
+        "Modlitwa o narodziny przyszłego rodu",
+        "Interpretacja snów w królewskim więzieniu",
+        "Znalezienie zaufanego dziecka nad rzeką"
+      ],
+      "answer": "Pozostanie przy Ayyubie pomimo straty i choroby, a następnie wezwanie do cierpliwości"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Oświadczenie, że Allah jest prawdą i wymagana jest cierpliwość",
+        "Palma obok źródła",
+        "Wezwanie do zbudowania statku z dala od fal",
+        "Sen o jedenastu gwiazdach i wschodzącym słońcu",
+        "Koszyk niesiony wzdłuż Nilu"
+      ],
+      "answer": "Oświadczenie, że Allah jest prawdą i wymagana jest cierpliwość"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Cierpienie Ayyuba zostało usunięte, a jego rodzina odzyskała siły",
+        "Długo oczekiwane dziecko zostało obdarzone po niepłodnej modlitwie",
+        "Młody władca zinterpretował siedem lat obfitości i niedostatku",
+        "Zaufane dziecko zostało uratowane z płynącej wody",
+        "Ostrzeżenie poprzedzało niszczycielską powódź"
+      ],
+      "answer": "Cierpienie Ayyuba zostało usunięte, a jego rodzina odzyskała siły"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dworski pościg",
+  "intro": "W kuluarach władzy, osoba o wysokim statusie zauroczyła się służącą o nieziemskiej urodzie. To zauroczenie doprowadziło do serii wydarzeń, które wystawiły lojalność na próbę, ujawniły skrywaną prawdę i ostatecznie potwierdziły niewinność służącej.",
+  "clues": [
+    "Mieszkałem w krainie Nilu, w pałacu o wielkim wpływie.",
+    "Do mojego domu przybył młody mężczyzna, a jego obecność zburzyła mój świat.",
+    "Próbowałam go uwieść, ale on szukał schronienia u swego Pana.",
+    "Rozerwałem mu ubranie od tyłu, ale dowody wskazywały na moje oszustwo.",
+    "Aby uciszyć plotki szlachcianek, zaprosiłem je na spotkanie i włożyłem im w ręce ostre przedmioty.",
+    "Na koniec publicznie wyznałem swój błąd, przyznając się przed królem do prawdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Żona Al-Aziza",
+        "Asiya (żona faraona)",
+        "Bilqis (Królowa Saby)",
+        "Maryam (Matka Isy)",
+        "Matka Musy"
+      ],
+      "answer": "Żona Al-Aziza"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Próbowała uwieść proroka Jusufa",
+        "Próbowała zabić proroka Musę",
+        "Twierdziła, że ​​jest boginią",
+        "Zbudowała wieżę, by rzucić wyzwanie Allahowi",
+        "Poprowadziła armię przeciwko Mekce"
+      ],
+      "answer": "Próbowała uwieść proroka Jusufa"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Koszula podarta z tyłu",
+        "Złoty cielec",
+        "Laska, która zamieniła się w węża",
+        "Wielbłądzica",
+        "Lampa"
+      ],
+      "answer": "Koszula podarta z tyłu"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przyznała się i potwierdziła prawdę",
+        "Utonęła wraz ze swoją armią",
+        "Zamieniła się w słup soli",
+        "Została pochłonięta przez ziemię",
+        "Została zniszczona przez wrzeszczący wiatr"
+      ],
+      "answer": "Przyznała się i potwierdziła prawdę"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

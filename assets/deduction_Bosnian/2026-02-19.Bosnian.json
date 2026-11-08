@@ -1,0 +1,61 @@
+{
+  "title": "Ludost velike ambicije",
+  "intro": "Krenite na putovanje kako biste otkrili identitet kolektivnog entiteta čiji su smjeli planovi doživjeli neočekivani, moćni kraj. Ova naracija služi kao dubok podsjetnik na božansku moć i krhkost svjetovne moći kada se ona suprotstavlja svetom. Razotkrijte misteriju ove grupe, čija je priča urezana u Kur'an kao upozorenje svima koji žele prijeći granicu.",
+  "clues": [
+    "Gajili smo veliku ambiciju, vjerujući da je naša moć neusporediva, i krenuli smo na putovanje s jasnim, destruktivnim ciljem.",
+    "Naš vođa, pun arogancije, pokušao je oskrnaviti sveti Dom koji mnogi poštuju, s ciljem da preusmjeri hodočašće na građevinu koju smo mi izgradili.",
+    "Iz daleke zemlje, marširali smo s ogromnom snagom, uvjereni u svoju sposobnost da srušimo drevnu građevinu u Svetom gradu.",
+    "Naša vojska je bila zastrašujuća, predvođena veličanstvenim stvorenjima, prizor koji su stanovnici zemlje koju smo napali rijetko, ako ikada, vidjeli u takvom pohodu.",
+    "Kada smo stigli na odredište, dogodila se božanska intervencija; pojavila su se mala, krilata stvorenja, zasipajući nas kamenjem od pečene gline.",
+    "Čitava naša ekspedicija doživjela je katastrofalan kraj, ostavljajući našu zastrašujuću silu potpuno uništenom, poput sažvakane slame, a naš veliki plan sveden na prah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ljudi iz Semuda",
+        "Ljudi iz 'Ad",
+        "Ljudi iz Sodome",
+        "Ljudi slona",
+        "Ljudi iz vrta"
+      ],
+      "answer": "Ljudi slona"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Velika poplava",
+        "Kampanja protiv Kabe",
+        "Uništenje idola",
+        "Cijepanje mora",
+        "Zemljotres u Midjanu"
+      ],
+      "answer": "Kampanja protiv Kabe"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Kaba",
+        "Zlatno tele",
+        "Vatra"
+      ],
+      "answer": "Kaba"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Božansko spasenje",
+        "Dug period prosperiteta",
+        "Prelazak na islam",
+        "Potpuno uništenje",
+        "Izgnanstvo iz njihove zemlje"
+      ],
+      "answer": "Potpuno uništenje"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

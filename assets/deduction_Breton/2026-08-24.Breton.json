@@ -1,0 +1,61 @@
+{
+  "title": "Ar selaouerien kuzh a grede",
+  "intro": "E sioulded un emvod sakr e teuas un emvod dreistordinal eus ur rouantelezh diwelus. Dedennet gant c'hwezhadennoù un dra bennak burzhudus, e selaoujont komzoù a lakafe o tonk da viken. Chom a ra o testeni unan eus ar re dibarañ er skritur doueel.",
+  "clues": [
+    "Boudoù eus ur rouantelezh na vezont ket gwelet gant an darn vrasañ omp, ha deuet omp evel ur strollad.",
+    "Mont a reomp war-zu un emvod evit klevet un dra bennak souezhus.",
+    "Pa'z omp erruet, hon eus selaouet un disklêriadur a lakaas ac'hanomp da vezañ souezhet.",
+    "Anzavet hon eus digor e oa lod ac'hanomp reizh ha lod all n'int ket.",
+    "Gouzout a reomp ne c'hellfemp ket tec'hout diouzh an urzh doueel war an douar, na dre dec'hout d'an oabl.",
+    "Pa glevjomp ar c'helenn, e krejomp enno; piv bennak a gred en e Aotrou n'en devo ket aon rak ar c'holl pe ar bec'h."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ur strollad Jinn",
+        "Pobl Iram",
+        "Tud Tubba'",
+        "Impalaeriezh Roma",
+        "Meuriad Quraysh"
+      ],
+      "answer": "Ur strollad Jinn"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Selaou un disklêriadur sakr",
+        "Sevel pileroù uhel en hor c'hêr",
+        "O chaseal ur c'hañvalez kaer-meurbet",
+        "Bezañ distrujet evit bezañ lazhet hon profeded",
+        "Liesaat ar pinvidigezh en tu all d'ar muzul"
+      ],
+      "answer": "Selaou un disklêriadur sakr"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Un emvod a zisplegadennoù sakr",
+        "Ur gêr gant pileroù uhel (Iram)",
+        "Ur puñs en dezerzh",
+        "Ur palez bras en aour",
+        "Ur c'hev sakr er menezioù"
+      ],
+      "answer": "Un emvod a zisplegadennoù sakr"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Krediñ a reomp ha kelaouiñ a reomp hon dud",
+        "Distrujet gant un taol kreñv eus an oabl",
+        "Kastizet gant un avel tev ha distrujus",
+        "Pinvidigezh ha galloud bras roet dezhañ",
+        "Chom a reas start en dic'hredenn"
+      ],
+      "answer": "Krediñ a reomp ha kelaouiñ a reomp hon dud"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

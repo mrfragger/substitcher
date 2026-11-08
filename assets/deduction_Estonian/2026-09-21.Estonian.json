@@ -1,0 +1,61 @@
+{
+  "title": "Karje sügavusest",
+  "intro": "Kõigehalastaja teener tüdines kangekaelsest rahvast ja lahkus enne loa saamist. See inimene sattus kohta, kus ükski inimene polnud kunagi varem käinud, kus kutse Jumala poole kajab kummaliselt läbi pimeduse kihtide. Nõrgemana, kuid muutununa ilmus see hing ajatuks õppetunniks kannatlikkuses, siiras meeleparanduses ja Looja piiritus halastusest. Kas suudad selle saladuse lahti harutada?",
+  "clues": [
+    "Mind saadeti sõnumitoojana oma rahva juurde, aga nad ületasid oma uskmatuse piirid ja keeldusid kuulamast.",
+    "Ma vihastasin nende hülgamise peale ja põgenesin oma rahva juurest enne, kui Allahi käsk tuli.",
+    "Läksin ületäituvalt täis laevale ja me loosisime, kes üle parda heidetakse.",
+    "Mind visati raevukasse merre ja suur kala neelas mind alla.",
+    "Kolmes pimedusekihis – kõhus, sügavas meres ja all maal – lõksus olles hüüdsin siiras kahetsuses oma Issanda poole.",
+    "Ma tulin kalast lahtisele kaldale, nõrk ja väsinuna, ja mu kohale kasvas kõrvits. Mu rahvas, sada tuhat või rohkemgi, uskus lõpuks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Yunus",
+        "Prohvet Ayyub",
+        "Prohvet Yusuf",
+        "Prohvet Musa",
+        "Prohvet Sulaiman"
+      ],
+      "answer": "Prohvet Yunus"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur kala neelas alla",
+        "Lõõmavasse tulle visatud",
+        "Kaevu põhjas lõksus",
+        "Suure üleujutuse poolt ülekoormatud",
+        "Kuninga poolt ebaõiglaselt vangistatud"
+      ],
+      "answer": "Suur kala neelas alla"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Suure kala kõht",
+        "Püha org Kaaba lähedal",
+        "Laev puhkab mäel",
+        "Personali, mis muutus maoks",
+        "Võrratu hiilguse troon"
+      ],
+      "answer": "Suure kala kõht"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Tema rahvas, sada tuhat või rohkemgi, uskus",
+        "Elusalt taevasse üles äratatud",
+        "Sai võrratu kuningriigi valitsejaks",
+        "Hävitatud taevast kostva läbistava hüüde poolt",
+        "Laastava maavärina tagajärjel kukkus ümber"
+      ],
+      "answer": "Tema rahvas, sada tuhat või rohkemgi, uskus"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

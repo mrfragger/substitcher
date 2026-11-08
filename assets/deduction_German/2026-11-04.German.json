@@ -1,0 +1,61 @@
+{
+  "title": "der Schatz, der im Stolz versank",
+  "intro": "Stellen Sie sich vor, Sie stünden vor Bergen von Reichtum, so gewaltig, dass allein das Tragen der Schlüssel eine Gruppe starker Männer erschöpfen würde. Um Sie herum fordern Stimmen Demut und Besinnung, doch der Stolz übertönt die Dankbarkeit. Was geschieht, wenn der Reichtum zur Prüfung wird und Arroganz über den Ausgang entscheidet?",
+  "clues": [
+    "Ich gehörte zum Volk von Musa, doch ich habe gegen sie gesündigt.",
+    "Mir wurden so unermessliche Schätze zuteil, dass die Schlüssel dazu eine Schar starker Männer zur Last fallen würden.",
+    "Mein Volk riet mir, nicht zu jubeln und nach dem Jenseits zu streben, ohne dabei meinen Anteil an dieser Welt zu vergessen.",
+    "Ich behauptete, dass mir das, was ich besaß, nur aufgrund meines Wissens zuteilgeworden sei.",
+    "Ich zog in prächtigem Schmuck vor meinem Volk her, und diejenigen, die sich nach einem weltlichen Leben sehnten, wünschten sich etwas Ähnliches wie ich.",
+    "Ich wurde mitsamt meiner Behausung von der Erde verschlungen, und niemand konnte mir helfen, noch konnte ich mir selbst helfen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er prahlte mit seinem Reichtum und leugnete Allahs Gunst trotz Rat.",
+        "Er forderte Ibrahim heraus, über Leben und Tod zu entscheiden.",
+        "Führte ein Heer gegen Talut und Dawud an",
+        "Geschnitzte Götzenbilder zur Verehrung durch die Bevölkerung",
+        "Er tötete seinen Bruder aus Neid wegen eines Opfers."
+      ],
+      "answer": "Er prahlte mit seinem Reichtum und leugnete Allahs Gunst trotz Rat."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Schlüssel zu unermesslichen Schätzen",
+        "Die Bundeslade",
+        "Ein goldenes Kalb voller Schmuck",
+        "Ein Damm zwischen zwei Bergen",
+        "Elf Sterne in einem Traum"
+      ],
+      "answer": "Schlüssel zu unermesslichen Schätzen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Von der Erde verschlungen, mit Wohnstätte und Reichtum",
+        "Ertrunken im Meer bei der Verfolgung von Musa",
+        "Von einem Stein aus Dawuds Schleuder niedergestreckt.",
+        "Von einer gewaltigen Explosion zerstört, weil er eine Kamelstute verletzt hatte.",
+        "Wegen Sabbatbruchs in Affen verwandelt"
+      ],
+      "answer": "Von der Erde verschlungen, mit Wohnstätte und Reichtum"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

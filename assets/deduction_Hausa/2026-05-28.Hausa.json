@@ -1,0 +1,61 @@
+{
+  "title": "Mara Lafiya Mai Rage Radadi",
+  "intro": "A cikin tarihin annabci, kaɗan ne suka jure irin wannan babban rashi da wahala ta jiki tare da imani mai ƙarfi. Labarin wannan mutum darasi ne mai ɗorewa game da haƙuri da aminci ga hikimar Allah. Wacece wannan rai?",
+  "clues": [
+    "Allah ne ya zaɓe ni don in isar da saƙo, amma babban jarabawata ba ta zo ta hanyar ƙin yarda ba, sai ta hanyar bala'i na kaina.",
+    "Dukiyata, dabbobina, da 'ya'yana an kwace min su, ɗaya bayan ɗaya.",
+    "Jikina ya cika da ƙuraje, kuma na bar ni ni kaɗai sai dai goyon bayan mijina.",
+    "Na yi kuka ga Ubangijina, ina godiya da wahalar da nake sha, ina kuma neman rahamarSa.",
+    "An umarce ni da in buga ƙasa da ƙafata, sai wata maɓuɓɓuga mai wartsakewa ta fito.",
+    "Allah ya dawo min da lafiyata ya kuma bani sabuwar iyali har ma da dukiya fiye da yadda na samu a da."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Ayyub",
+        "Annabi Ibrahim",
+        "Annabi Musa",
+        "Annabi Isa",
+        "Annabi Nuhu"
+      ],
+      "answer": "Annabi Ayyub"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Asarar dukiya da iyali",
+        "Ana jefa shi cikin wuta",
+        "Kifi ya haɗiye shi",
+        "Rabuwa da iyali aka sayar da shi zuwa bauta",
+        "Ana gwada shi da ɗan maraƙin zinariya"
+      ],
+      "answer": "Asarar dukiya da iyali"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Maɓuɓɓugar ruwa",
+        "Sanda da ta rikide ta zama maciji",
+        "Akwatin katako",
+        "Ɗan maraƙi mai narkewa",
+        "Itacen dabino"
+      ],
+      "answer": "Maɓuɓɓugar ruwa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Maido da iyali da dukiya",
+        "Hawan sama zuwa sama",
+        "Zama sarki",
+        "Ceton da aka yi daga kifin whale",
+        "Karɓar ɗa a tsufa"
+      ],
+      "answer": "Maido da iyali da dukiya"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

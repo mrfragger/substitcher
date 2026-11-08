@@ -1,0 +1,61 @@
+{
+  "title": "Îmbrățișarea Pământului",
+  "intro": "Într-o perioadă de mari încercări, unei persoane renumite i s-a acordat o imensă abundență lumească, un test al recunoștinței și umilinței. Călătoria acestei personalități servește drept o lecție profundă despre natura trecătoare a bunurilor materiale și consecințele aroganței. Descoperă identitatea acestui suflet a cărui poveste este gravată chiar în pământul de sub noi.",
+  "clues": [
+    "Am trăit printre un popor călăuzit de un mare mesager.",
+    "Allah mi-a dăruit bogății atât de vaste, încât chiar cheile comorilor mele au fost o povară grea pentru mulți oameni puternici.",
+    "Poporul meu, cunoscându-mi bogăția, m-a sfătuit să caut locuința Lumii de Apoi cu ceea ce mi-a dat Allah și să nu uit partea mea din lume și să fac bine așa cum mi-a făcut bine Allah.",
+    "Am declarat cu aroganță că imensa mea bogăție a fost dobândită exclusiv prin propriile mele cunoștințe și efort, negând orice favoare divină.",
+    "Când mi s-a cerut să contribui sau să recunosc bunătatea lui Allah, am refuzat cu mândrie, crezând că bunurile mele erau exclusiv ale mele.",
+    "Ca urmare a aroganței și opresiunii mele extreme, Allah a poruncit pământului să se deschidă și să mă înghită pe mine și locuința mea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A fi aruncat în foc",
+        "Înecându-se în mare",
+        "Fiind exilat dintr-o grădină",
+        "Transformarea într-o maimuță",
+        "Fiind înghițit de pământ"
+      ],
+      "answer": "Fiind înghițit de pământ"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un vițel de aur",
+        "O arcă puternică",
+        "O pasăre vorbitoare",
+        "Un toiag miraculos",
+        "Comori și chei imense"
+      ],
+      "answer": "Comori și chei imense"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Devenind un mare conducător",
+        "Primirea revelației divine",
+        "Înălțându-se spre ceruri",
+        "Trăind o viață lungă de evlavie",
+        "Distrugere totală din cauza aroganței"
+      ],
+      "answer": "Distrugere totală din cauza aroganței"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

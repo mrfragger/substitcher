@@ -1,0 +1,61 @@
+{
+  "title": "Ruhun da Ba a San Suna Ba wanda Ya Tsayayya da Al'umma Mara Adalci",
+  "intro": "A cikin shafukan Alƙur'ani, akwai mutane waɗanda aka ɓoye sunayensu domin mu yi tunani a kan darussansu. An haifi wata irin wannan rai a cikin al'ummar da ta ƙi manzanninta, amma wannan mutumin yana da wani ɓoyeccen imani wanda ya keɓe su. Lokacin da halaka ta zo, wannan mutumin ya tsaya tsayin daka a cikin imaninsa na sirri. Za ku iya gano asalin wannan mutum mai ban mamaki wanda ke gargaɗin mutanensa kafin a zartar da hukunci na ƙarshe?",
+  "clues": [
+    "Na zauna a cikin mutanen da suka yi ta musanta manzannin da Allah ya aiko musu akai-akai.",
+    "Sabanin al'ummata, na gane gaskiya lokacin da wani manzo ya zo da hujjoji bayyanannu daga Ubangijina.",
+    "Na ɓoye imanina daga masu zaluntara, na san za su cutar da ni idan suka gano imanina.",
+    "Lokacin da umarnin hukunci ya gabato, na bayyana biyayyata a fili kuma na yi wa mutanena gargaɗi su ceci kansu.",
+    "Na tunatar da su cewa ni amintaccen manzo ne, ba shi da bambanci da waɗanda aka aiko a baya, kuma bai kamata su bauta wa Allah ba.",
+    "Mutanena sun zarge ni da sihiri da hauka, amma duk da haka hukuncin da aka yi musu gargaɗi a ƙarshe ya same su."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Hud, manzon mutanen Aad",
+        "Mutum mumini daga al'ummar Annabi Hud wanda aka yi shahada",
+        "Mai mulkin mutanen Adawa wanda ya ƙi gaskiya",
+        "Sahabin Annabi Salih wanda ya yi shakkar alamun Allah",
+        "An aiko mala'ika don ya halaka mutanen Adawa"
+      ],
+      "answer": "Mutum mumini daga al'ummar Annabi Hud wanda aka yi shahada"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Jarabawar fari da yunwa wadda ta gwada haƙurinsu",
+        "Jarabawar bayyana imani a gaban al'umma mai zalunci marasa imani",
+        "Gwajin gina jirgin ruwa don gujewa ambaliyar ruwa mai yawa",
+        "Jarabawar jefa shi cikin wuta saboda imani da Allah",
+        "Jarabawar da za a gwada da wadata da wadata"
+      ],
+      "answer": "Jarabawar bayyana imani a gaban al'umma mai zalunci marasa imani"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Birnin Makkah inda aka gina gidan alfarma",
+        "Filayen hamada na al'ummar da suka ƙaryata manzonsu",
+        "Duwatsun Madyana inda aka aiko Annabi Shu'aib",
+        "Gaɓar kogin Masar inda aka sami Annabi Musa",
+        "Kwarin mutanen Adawa, wanda iska mai ƙarfi ta buge shi"
+      ],
+      "answer": "Filayen hamada na al'ummar da suka ƙaryata manzonsu"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An cece ni a cikin jirgin ruwa kuma na rayu har sai Allah ya so",
+        "Mutanena sun yi imani bayana kuma an shiryar da su zuwa ga hanya madaidaiciya",
+        "Mutane na ne suka kashe ni amma rahamar Allah ta ɗauke raina",
+        "Na tuba bayan an jarabce ni kuma Allah ya karɓi tubata",
+        "An mayar da ni gunki wanda mutanena ke bautawa bayan mutuwata"
+      ],
+      "answer": "Mutane na ne suka kashe ni amma rahamar Allah ta ɗauke raina"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

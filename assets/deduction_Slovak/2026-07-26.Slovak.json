@@ -1,0 +1,61 @@
+{
+  "title": "Koruna, ktorá vyzvala oblohu",
+  "intro": "V chodbách starovekých kráľovstiev sa meno jedného vládcu stalo synonymom tyranie a arogancie. Keď prišiel pokorný služobník Alaha s nepopierateľnými znameniami, tento mocný panovník sa odmietol vzdať pravde. Dnes je vašou úlohou identifikovať túto legendárnu postavu, ktorej panstvo sa rozpadlo a ktorej osud bol spečatený pod vlnami.",
+  "clues": [
+    "Som najobávanejší vládca, ktorého meno stále znie ako varovanie naprieč vekmi.",
+    "Prikázal som celému ľudu, aby pracoval v reťaziach a staval pamätníky, ktoré hlásali moju slávu.",
+    "Keď predo mňa prišiel Alahov posol s nepopierateľnými znameniami, odmietol som sa pokloniť a nazval som to čarodejníctvom.",
+    "Nariadil som zabíjanie malých synov medzi zajatými ľuďmi v nádeji, že zlomím ich ducha skôr, ako sa budú môcť povzniesť.",
+    "Postavil som sa pred svoj dvor a vyhlásil: „Som váš najvyšší pán,“ a požadoval som uctievanie ako boha.",
+    "S mojím hlavným ministrom po boku som postavil týčiacu sa stavbu, ktorej cieľom bolo vyšplhať sa až za nebesia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Faraón (Fir'awn)",
+        "Namrud",
+        "Háman",
+        "Abú Laháb",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraón (Fir'awn)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Utopenie v Červenom mori",
+        "Ťava poslaná k ľudu Thámudu",
+        "Veľká potopa Nuha",
+        "Trest spoločníkov zo zákopu",
+        "Zničenie Abrahovej armády vtákmi"
+      ],
+      "answer": "Utopenie v Červenom mori"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Tyčiaca sa stavba postavená s Hamanom",
+        "Archa, ktorá sa plavila po potope",
+        "Zlaté teľa vyrobené Samirom",
+        "Trón Bilqis, kráľovnej zo Sáby",
+        "Jaskyňa spiacich mladíkov"
+      ],
+      "answer": "Tyčiaca sa stavba postavená s Hamanom"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Utopený v mori; telo uchované ako varovanie",
+        "Vyhnaný a nútený blúdiť divočinou",
+        "Premenený na opice ako trest",
+        "Zasiahnutý silným zemetrasením",
+        "Spálený dažďom kameňov z neba"
+      ],
+      "answer": "Utopený v mori; telo uchované ako varovanie"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

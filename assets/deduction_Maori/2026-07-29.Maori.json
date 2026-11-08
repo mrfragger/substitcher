@@ -1,0 +1,61 @@
+{
+  "title": "Te Whainga a te Kōti",
+  "intro": "I roto i ngā ara o te mana, ka aroha tetahi tangata whai mana nui ki tētahi pononga he ataahua nō tetahi ao kē tōna. Nā tēnei aroha i ara ake ai he raupapa o ngā kaupapa i whakamātautau i te pono, i huraina ai ngā pono huna, ā, i te mutunga ka whakaū i te harakore o te pononga.",
+  "clues": [
+    "I noho ahau i te whenua o te Naera, i roto i tētahi whare rangatira whai mana nui.",
+    "I haere mai tētahi taitama ki roto i tōku whare, ā, i ohorere tōku ao i tōna aroaro.",
+    "I ngana ahau ki te whakawai i a ia, engari i rapu piringa ia i roto i tōna Ariki.",
+    "I haehaea e ahau tōna kākahu i muri, engari i whakaaturia mai e ngā taunakitanga taku tinihanga.",
+    "Hei whakamutu i te kōrero pakiwaitara a ngā wāhine rangatira, ka karangahia rātou e au ki tētahi huihuinga, ā, ka whakatakotoria e au he mea koi ki ō rātou ringa.",
+    "I te mutunga, i whaki ahau i taku he ki te aroaro o te kingi, me te whakaae ki te pono."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Wahine a Al-Aziz",
+        "Āsiya (Wahine a Parao)",
+        "Bilqis (Kuīni o Sheba)",
+        "Meriama (Whaea o Īha)",
+        "Te Whaea o Musa"
+      ],
+      "answer": "Te Wahine a Al-Aziz"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I ngana ia ki te whakawai i a Hohepa, te Poropiti",
+        "I ngana ia ki te patu i te Poropiti a Mohi",
+        "I kī ia he atua wahine ia",
+        "I hanga e ia he pourewa hei wero i a Allah",
+        "Nāna i ārahi tētahi ope taua ki a Makkah"
+      ],
+      "answer": "I ngana ia ki te whakawai i a Hohepa, te Poropiti"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He hāte i haehaea mai i te tuara",
+        "He kuao kau koura",
+        "He tokotoko i huri hei nakahi",
+        "He kamera uha",
+        "He rama"
+      ],
+      "answer": "He hāte i haehaea mai i te tuara"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whaki ia, i whakaae hoki ki te pono",
+        "I toremi ia me tana ope taua",
+        "I huri ia hei pou tote",
+        "I horomia ia e te whenua",
+        "I whakangaromia ia e te hau nui"
+      ],
+      "answer": "I whaki ia, i whakaae hoki ki te pono"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

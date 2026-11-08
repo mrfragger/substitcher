@@ -1,0 +1,61 @@
+{
+  "title": "Zanikające Ogrody Dobrobytu",
+  "intro": "W krainie obdarzonej obfitością dóbr, społeczność rozkwitała, żyjąc wśród znaków boskiej łaski. Ich dobrobyt był świadectwem łaski Pana, darem mającym inspirować wdzięczność i posłuszeństwo. Jednak pomimo wyraźnych oznak błogosławieństw, nadszedł punkt zwrotny, który podważył ich uznanie dla źródła ogromnego bogactwa i dobrobytu.",
+  "clues": [
+    "Mieliśmy szczęście posiadać dwa ogrody, jeden po prawej i jeden po lewej, pełne plonów.",
+    "Nakazano nam jeść z darów naszego Pana i być Mu wdzięcznym za dobrą ziemię i przebaczającego Pana.",
+    "Staliśmy się aroganccy i odeszliśmy od ścieżki wdzięczności, chwaląc się swoim bogactwem i władzą.",
+    "Żądaliśmy, aby nasz Pan zwiększył odległość między naszymi podróżami, okazując pogardę dla ułatwień, jakie nam zapewnił.",
+    "Zostaliśmy ostrzeżeni przez posłańca, ale odrzuciliśmy wiadomość i trwaliśmy w swojej nieuwadze.",
+    "Nasza wielka tama, która podtrzymywała nasz dobrobyt, ostatecznie została przerwana, co doprowadziło do niszczycielskiej powodzi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z Thamud",
+        "Ludzie Midianu",
+        "Ludzie z 'Aad",
+        "Ludzie Lutu",
+        "Ludzie Saby"
+      ],
+      "answer": "Ludzie Saby"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Głód i susza",
+        "Inwazja potężnej armii",
+        "Niszczycielskie trzęsienie ziemi",
+        "Niszczycielska powódź spowodowana przerwaniem tamy",
+        "Ucisk ze strony tyrana"
+      ],
+      "answer": "Niszczycielska powódź spowodowana przerwaniem tamy"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec",
+        "Cudowna wielbłądzica",
+        "Wielka tama",
+        "Wznosząca się budowla",
+        "Głęboka studnia"
+      ],
+      "answer": "Wielka tama"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zamieniliśmy się w małpy i świnie",
+        "Zostaliśmy uratowani i przeniesieni do nowej krainy",
+        "Zostaliśmy rozproszeni, a nasza ziemia stała się jałowa",
+        "Wstąpiliśmy do nieba",
+        "Zbudowaliśmy nowe, bardziej zamożne królestwo"
+      ],
+      "answer": "Zostaliśmy rozproszeni, a nasza ziemia stała się jałowa"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

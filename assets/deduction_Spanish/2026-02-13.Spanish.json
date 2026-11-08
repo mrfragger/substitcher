@@ -1,0 +1,61 @@
+{
+  "title": "La gran sumisión del soberano",
+  "intro": "Te encuentras en una tierra de maravillas ancestrales y profundas revelaciones. Una poderosa gobernante, ante una invitación inesperada, se embarcó en un viaje que cambiaría el curso de su destino y la fe de su pueblo. ¿Podrás descubrir la identidad de esta majestuosa figura?",
+  "clues": [
+    "Gobernaba un reino próspero, adornado con una inmensa riqueza y un trono magnífico.",
+    "Mi pueblo y yo adorábamos a un cuerpo celeste, creyendo que era nuestro señor, aunque yo albergaba dudas en mi corazón.",
+    "Un mensajero peculiar, un pájaro, me entregó una carta, llamándome a mí y a mi pueblo a someternos al Dios Único.",
+    "Consulté con mis asesores, que eran personas de gran influencia, sobre cómo responder a este mensaje sin precedentes.",
+    "Decidí enviar un valioso regalo a quien me envió la carta, con la esperanza de medir su poder e intenciones.",
+    "A mi llegada, me asombró un palacio con un suelo de cristal que parecía una piscina de agua, y fue entonces cuando declaré mi sumisión al Señor de toda la creación."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "faraón",
+        "Reina de Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Profeta Yusuf"
+      ],
+      "answer": "Reina de Saba"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La división del mar",
+        "El gran diluvio",
+        "El viaje para encontrarse con el profeta Sulayman",
+        "La destrucción del pueblo de Lut",
+        "La quema del profeta Ibrahim"
+      ],
+      "answer": "El viaje para encontrarse con el profeta Sulayman"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "El Trono",
+        "La montaña",
+        "El fuego"
+      ],
+      "answer": "El Trono"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se convirtió en profeta",
+        "Fue destruido por Alá",
+        "Abrazó el Islam",
+        "Condujo a su pueblo a la guerra.",
+        "Construyó un gran templo"
+      ],
+      "answer": "Abrazó el Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

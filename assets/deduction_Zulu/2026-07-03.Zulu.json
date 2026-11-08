@@ -1,0 +1,61 @@
+{
+  "title": "Isigijimi Sesono Esingakaze Sibonwe",
+  "intro": "Ezinye izindaba ku-Quran zembula ukujula kwenkohlakalo umphakathi wonke ongawela kuyo. Lesi sithunywa sama sodwa, sinxusa abantu abacwile ebubini obungakaze bulandelwe yisizwe ngaphambi kwaso. Naphezu kweminyaka yokuxwayisa, izinhliziyo zahlala zilukhuni, futhi isimemezelo saphezulu safika ngendlela eyesabekayo kakhulu. Ungasibona lesi sithunywa sika-Allah esihle?",
+  "clues": [
+    "Ngathunyelwa njengesixwayiso kubantu abagcwele ukuphambuka okungekho sizwe ngaphambi kwabo esake sakwenza.",
+    "Abantu bakithi bangibiza ngokuthi ngingumqambimanga futhi basongela ngokuxosha abalandeli bami kanye nami ezweni.",
+    "Izivakashi ezihloniphekile zeza ekhaya lami zifana nezinsizwa ezishayayo, futhi ngazizwa ngikhathazekile kakhulu ngokuphepha kwazo.",
+    "Abantu bami bafuna nginikele izivakashi zami kubo, bengazi ukuthi lezi zivakashi ziyizingelosi ezithunywe ngu-Allah.",
+    "Umlingani wami wayengakholwa nami futhi wakhetha ukusala nabalahliwe.",
+    "Ngasindiswa namadodakazi ami ekuseni, njengoba imvula enkulu yamatshe yayina futhi amadolobha ethu egumbuqelwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uLut",
+        "Umprofethi uShu'aib",
+        "Umprofethi uHud",
+        "Umprofethi uNuh",
+        "Umprofethi uSalih"
+      ],
+      "answer": "Umprofethi uLut"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Isikhukhula esikhulu sigubuzele umhlaba",
+        "Ukulahlekelwa amehlo ngenxa yokuhlupheka isikhathi eside",
+        "Umashiqela othi unguNkulunkulu",
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukufunwa ukuba kunikelwe izivakashi ezihloniphekile"
+      ],
+      "answer": "Ukufunwa ukuba kunikelwe izivakashi ezihloniphekile"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umkhumbi omkhulu owakhiwe ngezandla",
+        "Intonga eyahlukanisa ulwandle",
+        "Ikamela lensikazi eliyisimangaliso",
+        "Umlilo ovuthayo",
+        "Amadolobha agumbuqelwe"
+      ],
+      "answer": "Amadolobha agumbuqelwe"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wacwila ngenkathi elandela amakholwa",
+        "Ngisindiswe esithandweni somlilo ngingalimele",
+        "Waphakanyiswa waya ezulwini ephila",
+        "Umndeni washona esikhukhuleni esikhulu",
+        "Umndeni usindisiwe ngaphandle komfazi ongathembekile"
+      ],
+      "answer": "Umndeni usindisiwe ngaphandle komfazi ongathembekile"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

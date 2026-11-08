@@ -1,0 +1,61 @@
+{
+  "title": "Malgranda Averto Antaŭ Marŝanta Armeo",
+  "intro": "Paŝu en valon, kie potenca reganto kaj vasta armeo alproksimiĝas, kaj imagu malgrandan vojaĝanton donantan averton, kiu savas tutan komunumon. Kiam la minacata komunumo atingas ŝirmejon, la danĝero pasas. Sekvu la indicojn por identigi la preteratentitan figuron malantaŭ tiu averto.",
+  "clues": [
+    "Mi estas inter la malgrandaj estaĵoj asociitaj kun la regno de reganto.",
+    "Mia komunumo vivas en loĝejoj ene de valo, kie unu el ni povas voki la aliajn.",
+    "Ni alfrontas minacon de tiu reganto kaj la armeoj vojaĝantaj kun la reganto.",
+    "Mi estas tiu, kiu vokas mian komunumon eniri iliajn loĝejojn kaj avertas nin ne esti dispremitaj senscie.",
+    "La reganto estas Sulayman, kaj mia specio estas inter la estaĵoj metitaj sub lian komandon.",
+    "Mi estas la formiko de tiu valo; post mia averto, ni eniris niajn loĝejojn kaj eskapis la dispremadon, kiu alie nin surprizus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La Formiko de la Valo",
+        "La Upupo",
+        "La Korvo",
+        "La Serpento",
+        "La Mulo"
+      ],
+      "answer": "La Formiko de la Valo"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Averto kiu savis formikkomunumon",
+        "Peto pri ringo de fiŝo",
+        "Serĉo pri mankanta trono",
+        "La savo de ŝtelitaj okuloj",
+        "Rifuzo manĝi la manĝaĵon de reganto"
+      ],
+      "answer": "Averto kiu savis formikkomunumon"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Valo de la Formikoj",
+        "La Sigelringo de Sulayman",
+        "La Sangmakulita Ĉemizo de Jusuf",
+        "La Ora Bovido de la Eliro",
+        "La Bastono de Musa"
+      ],
+      "answer": "La Valo de la Formikoj"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "La komunumo estis savita post ŝirmejo",
+        "La komunumo estis detruita sen ŝirmejo",
+        "La komunumo estis savita ĉar la armeo retiriĝis",
+        "La komunumo estis rekompencita per kontrolo super la birdoj",
+        "La komunumo estis prenita kaptite al la reĝa kortego"
+      ],
+      "answer": "La komunumo estis savita post ŝirmejo"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

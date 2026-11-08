@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaitiaki o te Kotinga Ngaro",
+  "intro": "I tētahi whenua matomato, i whakatakotohia e tētahi rōpū tāngata tētahi mahere huna i raro i te pōuri. He kaupapa kotahi tā rātou, engari kāore i tika. Kāore rātou i te mōhio kei te tatari mai tētahi mea atua ki a rātou i a rātou e moe ana.",
+  "clues": [
+    "I whakatau mātou i tētahi mea pumau, i te whakaaro he tino kore he hapa tā mātou mahere.",
+    "I whakaaro mātou kia haere wawe, i mua i te oho ake o ētahi atu.",
+    "Ka tīmata mātou ki te whakatakoto i tētahi māra momona, me te u ki ā mātou kai.",
+    "I tō mātou taenga ki tō mātou ūnga, i kitea e mātou he koraha, he ururua, nō reira i mahara mātou kua ngaro tō mātou ara.",
+    "Kātahi mātou ka mōhio koinei tonu tō mātou tūranga, ā, ka tangi mātou i te pouri, me te whakapae tetahi i tetahi mō tō mātou mate.",
+    "I oati mātou i taua ata kia kaua e kohia te hunga rawakore, engari i a mātou e moe ana ka pā mai te whiu a Allah ki a mātou, ā, ka whakangaromia rawatia tā mātou māra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā Rangatira o te Māra i roto i te Surah 68",
+        "Te iwi o Saba",
+        "Ngā Hoa o te Ana",
+        "Te Iwi o te Arewhana",
+        "Te Iwi o te Wairakau"
+      ],
+      "answer": "Ngā Rangatira o te Māra i roto i te Surah 68"
+    },
+    "trial": {
+      "label": "Tā Mātou Whakamātautau",
+      "options": [
+        "I whakangaromia tā mātou māra e te aituā i te rangi",
+        "I horomia tō mātou māra e te waipuke",
+        "I tahuna tō mātou māra e te ahi a te hoariri",
+        "I kī tonu tā mātou māra i ngā mawhitiwhiti",
+        "I horomia tō mātou māra e te rū whenua"
+      ],
+      "answer": "I whakangaromia tā mātou māra e te aituā i te rangi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "I oati mātou ki te kohi i ōna hua i te ata",
+        "I hanga e mātou he tāhuna hei whakamakuku i tā mātou māra",
+        "I rapu piringa mātou i roto i tētahi ana hei tiaki",
+        "I whakarite mātou i tētahi ope taua hei raupatu i tētahi rangatiratanga",
+        "I rere mātou i tētahi kaipuke hei whiti i te moana"
+      ],
+      "answer": "I oati mātou ki te kohi i ōna hua i te ata"
+    },
+    "outcome": {
+      "label": "Tō tātou aituā",
+      "options": [
+        "I ripeneta mātou, ā, i tumanako ki te aroha o Allah",
+        "I tino whakangaromia mātou, ā, kāore i ripeneta",
+        "I rere mātou i te whenua, ā, kāore i hoki mai",
+        "I whai mana anō mātou, ā, i whai rawa anō hoki",
+        "I whiua mātou mā te huri hei makimaki"
+      ],
+      "answer": "I ripeneta mātou, ā, i tumanako ki te aroha o Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Rito Eka Sava ra Khale",
+  "intro": "Exikarhi ka varhumiwa vo sungula va Allah, a ku ri ni un’wana loyi vito rakwe ri voningaka swa xinkarhana kambe ri ri ni nhlamuselo eka Quran. Munhu loyi u hanye khale ku nga si rhumeriwa vaprofeta vo tala lavakulu, naswona a a tiviwa hi ntiyiso lowu nga tsekatsekiki ni ku lehisa mbilu. Mhaka ya vona yi komile kambe ndzhaka ya vona ya tshama eka rhekhodo leyi nga heriki. Xana i mani moya-xiviri lowu wa xiyimo xa le henhla?",
+  "clues": [
+    "Ndzi un’wana wa varhumiwa vo sungula, lava boxiweke hi ku komisa kambe hi ndlela leyi twalaka eka Quran.",
+    "Vumunhu bya mina a byi hlamuseriwa hi ku tinyiketela loku nga tsekatsekiki eka ntiyiso.",
+    "Ndzi tsundzukiwa ebukwini ya Allah exikarhi ka lava a va tiyile ni ku lehisa mbilu.",
+    "I tindzimana ti nga ri tingani ntsena to koma eka Quran leti hlamuselaka xitori xa mina.",
+    "Allah u ndzi xiximiwile hi ndlela leyi nga ya mina hi ndlela yo hlawuleka, ku nga ri ku averiwa na vaprofeta van’wana.",
+    "Ndzi tlakuseriwe exitichini lexi tlakukeke, ku xiximeka loku hlawulekeke eka Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Idris",
+        "Muprofeta Ilyas",
+        "Dhul-Kifl",
+        "Muprofeta Alyasa",
+        "Asif ibn Barkhiya, ku vula ka yena"
+      ],
+      "answer": "Muprofeta Idris"
+    },
+    "trial": {
+      "label": "Ku Hlamusela Nkarhi",
+      "options": [
+        "Ndzi tlakuseriwe exitichini xa le henhla hi Allah",
+        "Ndzi ake ngalava leyikulu leswaku ndzi ponisa vanhu va mina",
+        "Ndzi tlhontlhe vangoma va Faro",
+        "Ndzi hoxiwe ekheleni hi vamakwerhu",
+        "Ndzi lahlekeriwe hi mahlo hikwalaho ka gome hikwalaho ka n’wana wa mina"
+      ],
+      "answer": "Ndzi tlakuseriwe exitichini xa le henhla hi Allah"
+    },
+    "location": {
+      "label": "Xikombo xo Kwetsima",
+      "options": [
+        "Surah ya Al-Anbiya",
+        "Surah ya Al-Kahf",
+        "Surah ya Taha",
+        "Surah ya Ash-Shu'ara",
+        "Surah ya Yasin"
+      ],
+      "answer": "Surah ya Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Ku Xiximiwa ka Xikwembu",
+      "options": [
+        "Xitichi xa le henhla lexi hambaneke ni xin’wana",
+        "Ku fuma ehenhla ka jinn ni mimoya",
+        "Mfumo wa ku vangama loku nga ringanisiwiki na nchumu",
+        "Mudyandzhaka ku sukela eka vudyuhari bya mina",
+        "Ntwanano lowu funghiweke na Allah"
+      ],
+      "answer": "Xitichi xa le henhla lexi hambaneke ni xin’wana"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

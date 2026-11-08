@@ -1,0 +1,61 @@
+{
+  "title": "The Steadfast Builder of Salvation",
+  "intro": "A figure of immense patience and unwavering conviction, this individual dedicated countless years to a divine mission, facing relentless scorn and rejection. Their story is a powerful testament to faith in the face of overwhelming disbelief, culminating in a momentous event that reshaped the world.",
+  "clues": [
+    "I dedicated an incredibly long period of my life calling my people to the worship of Allah.",
+    "My people mocked me and accused me of manifest error and madness.",
+    "I was commanded to build something that seemed unusual for my landlocked community.",
+    "Only a few believed and joined me and my family on this unique construction.",
+    "I carried pairs of every living creature on board, as instructed by Allah.",
+    "A great flood engulfed the earth, saving only those who were with me in my vessel, while my own son perished for his disbelief."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Salih",
+        "Prophet Hud",
+        "Prophet Nuh",
+        "Prophet Dawud",
+        "Prophet Sulayman"
+      ],
+      "answer": "Prophet Nuh"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The destruction by an earthquake",
+        "The splitting of the sea",
+        "The great flood",
+        "The fire of Nimrod",
+        "The plague of frogs"
+      ],
+      "answer": "The great flood"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The burning bush",
+        "The ark",
+        "The well of water",
+        "The golden calf",
+        "The mountain of Tur"
+      ],
+      "answer": "The ark"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Received a kingdom",
+        "His people were transformed into apes",
+        "His people were saved by a miracle",
+        "His people were drowned",
+        "His people were struck by a thunderbolt"
+      ],
+      "answer": "His people were drowned"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

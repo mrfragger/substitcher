@@ -1,0 +1,61 @@
+{
+  "title": "L'ospitalitat que portava paur",
+  "intro": "Dins una vila consumada per la malvolença, un servicial fidèl recebèt un jorn de visitors inesperats. Preocupat per sa seguretat, aquel individú ofriguèt de proteccion, mas lo pòble de la vila demandèt quicòm de vergonhós. Avertit d'una destinacion imminenta, lo servicial fugiguèt amb sa familha jos cobèrta de l'escur, en daissant darrièr una vila marcada per la destruccion. Qual es aquel cresent solitari?",
+  "clues": [
+    "Foguèri mandat coma messatgièr a un pòble qu'aviá fach d'actes vergonhós.",
+    "De visitors inesperats venguèron a mon ostal, e èri mai preocupat per lor seguretat que per la miá.",
+    "Mon pòble demandava de veire mos convidats per d'intencions marridas, e ensagèri de rasonar amb eles.",
+    "Mos visitors se revelèron coma d'angèls e me comandèron de prene ma familha e de partir dins la nuèch.",
+    "Ma femna faguèt pas atencion a la crida a s'escapar e afrontèt la meteissa destruccion que mon pòble.",
+    "Ma vila foguèt capvirada amb una pluèja de pèiras d'argila encastrada, sas partidas mai nautas portadas las mai bassas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Lut",
+        "Lo profèta Musa",
+        "Lo profèta Ibrahim",
+        "Profèta Nuh",
+        "Profèta Hud"
+      ],
+      "answer": "Lo profèta Lut"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "La demanda de mon pòble d'aprochar malvadament mos convidats",
+        "Lo despartiment de la mar per escapar a un tiran",
+        "La construccion d'una granda arca al mitan de las trufariás",
+        "Lo sacrifici de mon filh dins una pròva de fe",
+        "L'experiéncia d'èsser engolida per un grand peis"
+      ],
+      "answer": "La demanda de mon pòble d'aprochar malvadament mos convidats"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La vila capvirada de mon pòble",
+        "La montanha ont recebèri lo discors divin",
+        "L'arca que naveguèt per un grand deluvi",
+        "La camèla que sortiguèt de la ròca",
+        "L'òrt amb un visitor just escondut"
+      ],
+      "answer": "La vila capvirada de mon pòble"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Foguèri salvat amb ma familha abans que ma vila foguèsse capvirada",
+        "Menèri mon pòble a la libertat de l'autre costat de la mar",
+        "Bastiguèri una granda arca e subrevisquèri a una inondacion poderosa",
+        "Me foguèt donat lo domini suls vents e los jinns",
+        "Suportèri pacientament la sofrença e foguèri recompensat amb la familha"
+      ],
+      "answer": "Foguèri salvat amb ma familha abans que ma vila foguèsse capvirada"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

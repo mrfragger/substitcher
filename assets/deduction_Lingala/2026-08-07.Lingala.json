@@ -1,0 +1,61 @@
+{
+  "title": "Kondima oyo ezali nsima ya Kiti ya Bokonzi",
+  "intro": "Milimo mosusu emekamaka na mɔ́tɔ to mpela te, kasi na bopusi ya malɛmbɛmalɛmbɛ ya kofanda na kati ya ndako ya mokonzi ya mobulu. Moto yango atɛlɛmaki pembeni ya mokonzi moko oyo azalaki koloba ete azali bonzambe likoló ya bato na bango, nzokande na kobombana akangamaki na kondima epai na Nzambe Moko ya Solo. Ntango komipesa na bango ezwamaki, mpasi eyaki —kasi elaka moko ya bonzambe eyaki mpe bongo. Okoki kokanisa soki oyo azali nani?",
+  "clues": [
+    "Nazalaki kofanda na nse ya nsamba ya mokonzi oyo aleki nguya na mokili na ngai, na esika oyo bato moke nde bakokaki kokanisa.",
+    "Mobalani na ngai atelemaki liboso ya bato mpe amisakolaki lokola nzambe — kasi motema na ngai ezalaki ya Nkolo Moko ya Solo.",
+    "Nazalaki koloba na mongongo ya nse mabondeli na kobombana, na kobangaka etumbu oyo ezalaki koya epai ya bato nyonso oyo bazalaki koboya molongani na ngai.",
+    "Ntango bondimi na ngai emonisami polele, bakangaki ngai mpe banyokolaki ngai — nzokande monoko na ngai ebimisaki ata liloba moko te ya kozanga kondima.",
+    "Nasopi motema na ngai epai ya Nkolo na ngai, kosenga ndako na Paradis, mosika na mabe nyonso.",
+    "Nazali Asiya bint Muzahim — mwasi ya Faraon oyo atelemeli Musa na Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Asiya bint Muzahim (Mwasi ya Faraon) .",
+        "Hawwa (Eve), mwasi ya liboso",
+        "Sarah, mwasi ya liboso ya Ibrahim",
+        "Agare, mama ya Isma’il",
+        "Mama ya Maryam (mwasi ya Imran) ."
+      ],
+      "answer": "Asiya bint Muzahim (Mwasi ya Faraon) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Koyika mpiko na minyoko mpo na koboya koboya kondima",
+        "Kobika na kati ya libumu ya mbisi monene",
+        "Kotonga masuwa moko monene mpo na kokima mpela",
+        "Kobwakama na mɔtɔ oyo ezali kopela",
+        "Kotatola bokabwani ya mbu monene"
+      ],
+      "answer": "Koyika mpiko na minyoko mpo na koboya koboya kondima"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ndako oyo etongamaki mpo na bango na Paladiso",
+        "Nzete oyo ebongwanaki nyoka",
+        "Masuwa oyo ememaki mibalemibale ya ekelamu nyonso",
+        "Mwana ya ngɔmbɛ ya wolo oyo ekólo moko esambelaka",
+        "Libenga oyo bazalaki kosalela mpo na kolonga mobundi moko monene"
+      ],
+      "answer": "Ndako oyo etongamaki mpo na bango na Paladiso"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bakumisami na kofanda na Paladiso pembeni ya bayengebene",
+        "Bazindaki na nse ya mbonge elongo na basoda na bango",
+        "Ezikisamaki na mɔ́tɔ kasi ebikisamaki na nzela ya bokɔti ya Nzambe",
+        "Emelamaki na ekelamu moko monene na nsima ebwakami na libongo",
+        "Akómaki moto oyo azalaki na bozwi mingi na ntango na bango"
+      ],
+      "answer": "Bakumisami na kofanda na Paladiso pembeni ya bayengebene"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

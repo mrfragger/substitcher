@@ -1,0 +1,61 @@
+{
+  "title": "Pe Eco Umi Acantilado rupive",
+  "intro": "Eñeimahinamína peteĩ válle ojejapohápe umi óga ojeikohápe umi acantilado-gui, ha pe aire ogueraha mandu’a peteĩ advertencia noñeñatendéiva rehe. Peteĩ pueblo peteĩ jey oprospera ko’ápe, ojehovasáva ha katu desafiante, osẽ peve peteĩ señal pe itaite ojeroviahápe hikuái.",
+  "clues": [
+    "Ore ha’eva’ekue peteĩ pueblo otalláva óga seguro umi montaña-gui, roñeñandu seguro ore róga itaju ári.",
+    "Roiko peteĩ yvy llanura ha ita rehegua, ojehovasáva yvotyty ha yvu reheve.",
+    "Ou ñande apytégui peteĩ mensajero, ñanerenóiva jaheja haĝua ñande tupã japu ha ñamomba’eguasu haĝua peteĩ Apohare añeteguápe.",
+    "Arrogantemente romoĩ peteĩ condición jeroviarã: peteĩ señal ijojaha’ỹva osẽtava umi ita ro’talláva’ekuégui voi.",
+    "Ojekuaa jave pe kuña camello oñeprometéva pe itagui, peteĩ señal hesakãva, ñande élite ombotove gueteri ha oinupã chupe jepe oadverti peteĩ perdición inminente rehegua.",
+    "Mbohapy ára ore rembiapo rire, peteĩ arasunu ohenduka pe valle rupi, ha roñemboguejy escombro ho’ava’ekuépe, ore róga ore sepulcro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mávapa Ñande?",
+      "options": [
+        "Tavayguakuéra ¿Ad",
+        "Umi Tavayguakuéra Támud-gua",
+        "Umi Tavayguakuéra Madyan-gua",
+        "Umi Tavayguakuéra Arboleda-pegua",
+        "Umi Tavayguakuéra Kuakuápe"
+      ],
+      "answer": "Umi Tavayguakuéra Támud-gua"
+    },
+    "trial": {
+      "label": "Ñande Prueba/Evento Principal",
+      "options": [
+        "Pe isquiotibiales Allah kaméllo kuña rehegua",
+        "Pe adorasión ojejapóva pe vakaraʼy órogui",
+        "Pe sábado ñemboyke",
+        "Pe ñemopu’ã peteĩ tórre yvága gotyo",
+        "Umi maranduhára jejuka"
+      ],
+      "answer": "Pe isquiotibiales Allah kaméllo kuña rehegua"
+    },
+    "location": {
+      "label": "Elemento Clave Ñande Rembiasápe",
+      "options": [
+        "Pe kaméllo kuña Allah mba'éva",
+        "Musa mba’apoharakuéra",
+        "Pe árka de Nuh",
+        "Musa po morotĩ",
+        "Guyra ¿Isa"
+      ],
+      "answer": "Pe kaméllo kuña Allah mba'éva"
+    },
+    "outcome": {
+      "label": "Ñande Resultado",
+      "options": [
+        "Ñehundi peteĩ explosión ombopyrũva rupive",
+        "Peteĩ ama ita yvágagui",
+        "Peteĩ dilúvio ojahoʼíva ko yvy",
+        "Yvytu hatã oremombova’ekue",
+        "Yvy ñanemokõ"
+      ],
+      "answer": "Ñehundi peteĩ explosión ombopyrũva rupive"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

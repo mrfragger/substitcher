@@ -1,0 +1,61 @@
+{
+  "title": "Ingoma Eyashukumisa Izintaba",
+  "intro": "Usuzokwembula indaba yenceku ka-Allah emangalisayo. Ezweni lezithunywa nababusi, lesi sibalo sabusiswa ngencwadi yaphezulu, izwi elinamandla, namandla ngaphezu kwensimbi. Njengoba ufunda izinkomba, ungabona ukuthi ngubani lo?",
+  "clues": [
+    "Ngangiyinceku ka-Allah eyanikwa incwadi ekhethekile.",
+    "Nganginezwi elimnandi, futhi udumo lwami lwaluthandeka kangangokuthi ngisho namagquma nezinyoni zangijoyina.",
+    "Ngabhekana nomphikisi onamandla empini edumile, futhi naphezu kokuba ngimncane, nganqoba.",
+    "Insimbi yenziwa yaba lula kimi, yangivumela ukuthi ngenze izikhali zempi ngezandla zami.",
+    "Ngenziwa umbusi phezu kwesizwe esikhulu, futhi ukuhlakanipha kwami ​​​​ekwahluleleni kwaduma.",
+    "Indodana yami, nayo engumprofethi, yanikwa amandla okulawula umoya kanye nama-jinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uDawud (uDavide)",
+        "Umprofethi uSulaiman (uSolomoni)",
+        "Umprofethi uMose (uMose)",
+        "Umprofethi uHarun (u-Aroni)",
+        "Umprofethi u-Ilyas (u-Eliya)"
+      ],
+      "answer": "Umprofethi uDawud (uDavide)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "UGoliyati ohluliwe (uJalut)",
+        "Uhlukanise ulwandle",
+        "Wasinda umkhomo",
+        "Waphonswa emlilweni",
+        "Wakha Umphongolo"
+      ],
+      "answer": "UGoliyati ohluliwe (uJalut)"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "AmaHubo (i-Zabur)",
+        "I-Torah (i-Tawrat)",
+        "IVangeli (Injil)",
+        "Imiqulu ka-Ibrahim",
+        "I-Qur'an"
+      ],
+      "answer": "AmaHubo (i-Zabur)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waba umprofethi nenkosi yakwa-Israyeli",
+        "Waba umbusi waseGibhithe",
+        "Waphakanyiselwa ezulwini",
+        "Wabhujiswa yisiphepho",
+        "Waba ngumngane womhume"
+      ],
+      "answer": "Waba umprofethi nenkosi yakwa-Israyeli"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

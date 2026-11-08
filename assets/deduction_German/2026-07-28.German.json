@@ -1,0 +1,61 @@
+{
+  "title": "Die Prüfung des heiligen Geschöpfes",
+  "intro": "Ein Zeichen wurde an ein Volk gesandt, das vom rechten Weg abgekommen war. Mitten in ihrem behaglichen Leben erreichte sie eine Warnung – begleitet von einem außergewöhnlichen Wesen, das zur ultimativen Glaubensprobe werden sollte. Ihre Reaktion würde ihr Schicksal für immer besiegeln. Können Sie herausfinden, wer diese Warnung überbrachte und was mit denen geschah, die sie ablehnten?",
+  "clues": [
+    "Wir waren ein Volk, das von früheren Boten vor uns geleitet worden war.",
+    "Aus dem Berg entstieg ein prächtiges Wesen, ein Zeichen unseres Herrn für diese Nation.",
+    "Ich sagte ihnen: „Dies ist eine Kamelstute, die Allah gehört. Lasst sie also von Allahs Erde fressen und tut ihr kein Leid.“",
+    "Aber die Leute fesselten meine Kamelstute und widersetzten sich damit dem Gebot ihres Herrn.",
+    "Ich bin nur ein Gesandter deines Herrn, gesandt mit der Wahrheit – ich bin ein vertrauenswürdiger Prophet und Diener.",
+    "Die Übeltäter aber ließ unser Herr mit einem donnernden Geräusch erbeben, und sie blieben bewegungslos in ihren Häusern stehen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Hud vom Volk der A'ad",
+        "Prophet Salih vom Volk der Thamud",
+        "Der Prophet Schu'aib von Midian",
+        "Der Prophet Lot aus dem Volk von Sodom",
+        "Prophet Nuh von der Arche"
+      ],
+      "answer": "Prophet Salih vom Volk der Thamud"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Sintflut, die eine ungläubige Nation ertränkte",
+        "Das Erdbeben, das eine sündige Stadt zerstörte",
+        "Die Kamelstute wurde als göttliches Zeichen und Prüfung gesandt.",
+        "Der Sturm, der das Volk von Midian bestrafte",
+        "Die Vernichtung des Volkes Lots durch Steine"
+      ],
+      "answer": "Die Kamelstute wurde als göttliches Zeichen und Prüfung gesandt."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Stadt Sodom im Jordantal",
+        "Das Al-Hijr-Tal zwischen dem Hedschas und Syrien",
+        "Das alte Land A'ad im südlichen Arabien",
+        "Die Wälder von Midian in der Nähe des Roten Meeres",
+        "Die Ebenen des Berges Judi in Mesopotamien"
+      ],
+      "answer": "Das Al-Hijr-Tal zwischen dem Hedschas und Syrien"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie wurden gerettet, nachdem sie Buße getan und geglaubt hatten.",
+        "Ein Steinhagel zerstörte sie vollständig.",
+        "Ein donnernder Knall traf sie wie gelähmt.",
+        "Sie wurden von einem heftigen Wind fortgerissen",
+        "Ein Erdbeben verschluckte sie unter der Erde."
+      ],
+      "answer": "Ein donnernder Knall traf sie wie gelähmt."
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

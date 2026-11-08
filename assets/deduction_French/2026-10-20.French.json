@@ -1,0 +1,61 @@
+{
+  "title": "L'architecte de la fausse ambition",
+  "intro": "Une figure d'une grande autorité servit jadis l'un des tyrans les plus tristement célèbres de l'Égypte antique. Cet individu reçut un ordre audacieux : construire un édifice destiné à défier les cieux. Son histoire, relatée dans le Coran, offre une leçon saisissante sur la façon dont l'obéissance aveugle à l'arrogance ne mène qu'à la ruine.",
+  "clues": [
+    "J'ai servi à la cour d'un puissant souverain qui prétendait détenir la divinité sur ces terres.",
+    "J'occupais un poste ministériel de haut rang, conseillant le tyran le plus arrogant de mon époque.",
+    "Mon souverain était obsédé par le défi du Dieu de Moïse, qu'ils refusaient de reconnaître.",
+    "On m'a ordonné de construire une tour de briques cuites au feu afin que mon souverain puisse monter jusqu'aux cieux.",
+    "La tour n'a jamais atteint le ciel, et ma servitude envers l'arrogance m'a valu une honte éternelle.",
+    "J'ai péri avec celui que je suivais, et mon nom est devenu un avertissement durable contre ceux qui soutiennent les tyrans."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Haman",
+        "Azar (père d'Ibrahim)",
+        "Illyas (un prophète)",
+        "Dhu al-Kifl",
+        "Harut (l'un des deux anges de Babylone)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "L'ordre fut donné de construire une structure gigantesque pour atteindre les cieux",
+        "On m'a demandé d'interpréter un rêve envoyé par le divin.",
+        "Jeté dans un brasier ardent comme épreuve de foi",
+        "Contraint de choisir entre le trône et la vérité",
+        "Défié dans un concours de sorcellerie"
+      ],
+      "answer": "L'ordre fut donné de construire une structure gigantesque pour atteindre les cieux"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une tour de briques cuites au feu",
+        "Un bâton qui se transformait en serpent",
+        "Un navire naviguant au milieu d'une grande inondation",
+        "Un jardin clos de hauts murs",
+        "Un trône orné de rubis et d'or"
+      ],
+      "answer": "Une tour de briques cuites au feu"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Noyé aux côtés de l'oppresseur dans la mer",
+        "Il devint un monarque puissant régnant sur de vastes territoires.",
+        "Il a échappé indemne à un violent incendie.",
+        "Il a bâti un royaume prospère de sagesse",
+        "Retrouvailles avec sa famille après des années d'exil"
+      ],
+      "answer": "Noyé aux côtés de l'oppresseur dans la mer"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

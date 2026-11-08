@@ -1,0 +1,61 @@
+{
+  "title": "Klagen hørt over støjen",
+  "intro": "Du hører en stemme komme fra et samfund, hvor undertrykkelse er blevet rutine. Ingen magtdemonstration besvarer klagen; i stedet når en direkte appel Allah, og svaret rammer selve tilbedelsens hjerte. Hvem fremsatte den klage, hvilket spørgsmål fulgte, og hvilken sandhed blev bekræftet?",
+  "clues": [
+    "Jeg blev plaget af undertrykkelsen fra de mennesker omkring mig.",
+    "Jeg gav udtryk for den klage direkte til Allah i en personlig klage.",
+    "Allah hørte klagen og svarede med en udfordring angående min egen tro.",
+    "Svaret spurgte, hvordan jeg kunne undlade at tro på Allah, som er Én og Højest.",
+    "Så spurgte jeg, hvorfor Allah skulle favorisere et folk, der var vantro.",
+    "Jeg er Uzair, nævnt i Surah Az-Zukhruf som den, hvis klage Allah hørte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Uzair",
+        "Ledsageren, der sejlede på den store syndflod",
+        "Tjeneren der gik på vandet",
+        "Den sovende beskyttet inde i en hule",
+        "Tjeneren, der bragte sten til en flod"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Klager til Allah over folkets undertrykkelse",
+        "Gå på vandet under en storm",
+        "At bære sten til en flod, der manglede vand",
+        "Sejlads gennem en stor oversvømmelse ombord på Arken",
+        "Modtagelse af nøglen til en enorm skat"
+      ],
+      "answer": "Klager til Allah over folkets undertrykkelse"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En direkte klage rettet til Allah",
+        "En stav der blev til en slange",
+        "En ovn gjort kølig og fredelig",
+        "En ark, der flyder over oversvømmelserne",
+        "En fisk, der sluger en tjener"
+      ],
+      "answer": "En direkte klage rettet til Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Allah hørte klagen og bekræftede guddommelig enhed og øverste herredømme",
+        "Sikker vandring på vandet under en storm",
+        "Sikker oversvømmelse ombord på Arken",
+        "Genvinder synet i et arrogant palads",
+        "Modtager herredømme, der strækker sig fra øst til vest"
+      ],
+      "answer": "Allah hørte klagen og bekræftede guddommelig enhed og øverste herredømme"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

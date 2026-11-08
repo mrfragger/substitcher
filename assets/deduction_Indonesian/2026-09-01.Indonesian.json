@@ -1,0 +1,61 @@
+{
+  "title": "Suara dari Pinggiran Kota",
+  "intro": "Anda berdiri di sebuah kota tempat tiga utusan datang dengan tanda-tanda yang jelas, tetapi orang-orang mengejek mereka dan berpegang teguh pada cara-cara lama mereka. Dari bagian kota yang paling jauh, sesosok tubuh berlari menuju kerumunan, terengah-engah dan penuh tekad, untuk menyampaikan kebenaran di tengah penolakan. Siapakah jiwa ini yang mempertaruhkan segalanya untuk sebuah pesan yang bukan miliknya?",
+  "clues": [
+    "Aku hidup di antara kaum yang telah menerima utusan dengan tanda-tanda yang jelas, namun mereka berpaling dengan kesombongan.",
+    "Aku berlari dari ujung kota ketika mendengar panggilan para utusan.",
+    "Aku berkata kepada kaumku, 'Wahai kaumku, ikutilah para utusan. Ikutilah orang-orang yang tidak meminta imbalan darimu, karena mereka adalah orang-orang yang mendapat petunjuk.'",
+    "Aku bukanlah seorang nabi, tetapi aku percaya kepada para utusan dan mendorong kaumku untuk melakukan hal yang sama.",
+    "Orang-orang saya mengejek saran saya dan menuduh saya sebagai seorang ekstremis.",
+    "Ketika mereka membunuhku, Allah menyuruhku masuk Surga, dan aku berharap kaumku dapat mengetahui pengampunan dan kehormatan yang kuterima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Pria dari bagian kota terjauh (Ya-Sin)",
+        "Salah satu dari tiga utusan yang dikirim ke kota itu",
+        "Seorang pedagang terkemuka di kota itu",
+        "Seorang penguasa kota",
+        "Pemimpin orang-orang kafir"
+      ],
+      "answer": "Pria dari bagian kota terjauh (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Berkhotbah kepada umatnya untuk mengikuti para utusan",
+        "Membangun kapal untuk menyelamatkan umat beriman dari banjir.",
+        "Dilemparkan ke dalam api karena iman",
+        "Ditelan oleh seekor paus",
+        "Diberikan sebuah kerajaan dan kebijaksanaan"
+      ],
+      "answer": "Berkhotbah kepada umatnya untuk mengikuti para utusan"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Bagian terjauh dari kota",
+        "Bahtera",
+        "Sumur",
+        "Semak yang terbakar",
+        "Gua"
+      ],
+      "answer": "Bagian terjauh dari kota"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Masuk Surga dan berharap kaumnya dapat mengetahui pengampunannya.",
+        "Ditenggelamkan bersama bangsanya karena menolak pesan tersebut",
+        "Diberi mukjizat unta betina",
+        "Menjadi penguasa setelah diadili",
+        "Diselamatkan oleh Allah dan tetap bersama kaumnya."
+      ],
+      "answer": "Masuk Surga dan berharap kaumnya dapat mengetahui pengampunannya."
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

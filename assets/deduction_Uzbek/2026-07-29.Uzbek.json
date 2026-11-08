@@ -1,0 +1,61 @@
+{
+  "title": "Sud ta'qibi",
+  "intro": "Hokimiyat yo'laklarida yuqori martabali shaxs go'zalligi boshqa dunyoga o'xshagan xizmatkorga oshiq bo'lib qoldi. Bu oshiqlik sadoqatni sinovdan o'tkazadigan, yashirin haqiqatlarni ochib beradigan va oxir-oqibat xizmatkorning aybsizligini tasdiqlaydigan bir qator voqealarga olib keldi.",
+  "clues": [
+    "Men Nil diyorida, katta nufuzga ega bo'lgan saroyda yashardim.",
+    "Uyimga bir yigit kirib keldi va uning borligi dunyomni bezovta qildi.",
+    "Men uni vasvasaga solishga harakat qildim, lekin u Parvardigoridan panoh so'radi.",
+    "Men uning kiyimini orqasidan yirtib tashladim, ammo dalillar mening yolg'onimni ko'rsatib turardi.",
+    "Zodagon ayollarning g'iybatlarini bostirish uchun men ularni yig'ilishga taklif qildim va qo'llariga o'tkir narsalar berdim.",
+    "Oxir-oqibat, men aybimni omma oldida tan oldim va shoh oldida haqiqatni tan oldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Al-Azizning xotini",
+        "Osiyo (Fir'avnning xotini)",
+        "Bilqis (Shaba malikasi)",
+        "Maryam (Iso alayhissalomning onasi)",
+        "Musoning onasi"
+      ],
+      "answer": "Al-Azizning xotini"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "U Yusuf payg'ambarni vasvasaga solishga harakat qildi",
+        "U Muso payg'ambarni o'ldirishga harakat qildi",
+        "U o'zini ma'buda deb da'vo qildi",
+        "U Allohga qarshi chiqish uchun minora qurdi",
+        "U Makkaga qarshi qo'shin boshqardi"
+      ],
+      "answer": "U Yusuf payg'ambarni vasvasaga solishga harakat qildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Orqa tomondan yirtilgan ko'ylak",
+        "Oltin buzoq",
+        "Ilonga aylangan tayoq",
+        "Urg'ochi tuya",
+        "Chiroq"
+      ],
+      "answer": "Orqa tomondan yirtilgan ko'ylak"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "U haqiqatni tan oldi va tan oldi",
+        "U qo'shini bilan birga cho'kib ketgan edi",
+        "U tuz ustuniga aylandi",
+        "Uni yer yutib yubordi",
+        "U baqiriq shamol tomonidan vayron qilindi"
+      ],
+      "answer": "U haqiqatni tan oldi va tan oldi"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

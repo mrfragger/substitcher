@@ -1,0 +1,61 @@
+{
+  "title": "A Voz Antes da Tempestade",
+  "intro": "Uma figura surgiu no deserto para chamar uma nação poderosa de volta à verdade. O povo era conhecido por suas magníficas construções e força inigualável. Contudo, seu orgulho os cegou e eles se recusaram a ouvir. Por fim, um castigo devastador se abateu sobre eles, poupando apenas um pequeno grupo de fiéis.",
+  "clues": [
+    "Fui enviado a um povo poderoso que vivia em terras abertas e era conhecido por sua força.",
+    "Meu povo veio depois de outra grande nação que havia sido destruída.",
+    "Eles possuíam estruturas magníficas e construíram torres altas.",
+    "Eu os convidei a adorar um só Deus, mas eles se recusaram a abandonar seus ídolos.",
+    "Um castigo violento os atingiu, poupando apenas aqueles que creram comigo.",
+    "Eu sou aquele enviado a um povo poderoso conhecido como Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shu'aib",
+        "Profeta Noé",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A grande inundação",
+        "Um vento violento e rugidor",
+        "Um terremoto e um grito aterrador",
+        "Uma chuva de pedras em chamas",
+        "Fogo celestial vindo do alto"
+      ],
+      "answer": "Um vento violento e rugidor"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma grande arca construída em uma montanha",
+        "Uma camela única",
+        "Um cajado que se transformou em serpente.",
+        "Prédios altos e estruturas imponentes",
+        "Uma pira em chamas"
+      ],
+      "answer": "Prédios altos e estruturas imponentes"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Todos se afogaram em uma grande enchente.",
+        "Meu povo foi destruído por um vento violento, enquanto eu fui salvo.",
+        "Meu povo, atingido por um terremoto, chora.",
+        "Meu povo foi apedrejado do céu",
+        "Meu povo lançado em um incêndio devastador."
+      ],
+      "answer": "Meu povo foi destruído por um vento violento, enquanto eu fui salvo."
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

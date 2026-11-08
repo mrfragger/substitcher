@@ -1,0 +1,61 @@
+{
+  "title": "Tuulen kuiskaus",
+  "intro": "Kuvittele valtakunta, jossa näkymätön ja näkyvä kietoutuvat yhteen, ja seisot hahmon edessä ainutlaatuisen valtakunnan sydämessä. Tällä sielulla on tavallisen ulottumattomissa olevaa tietoa, ja hän komentaa voimia, joita muut voivat vain kuvitella. Silti jopa mahtavimmat voivat nöyryytyä pienen olennon edessä, ja totuus voi pysyä piilossa määrättyyn aikaan asti. Kuka on tämä hahmo, jonka perintö kaikuu läpi aikojen?",
+  "clues": [
+    "Minulle annettiin valtakunta, jota kenelläkään minun jälkeläiselläni ei olisi.",
+    "Perin tiedon ja viisauden rakkaalta vanhemmaltani.",
+    "Tuuli oli minun käskysäntöjeni alla ja kulki käskystäni minne halusin.",
+    "Ymmärsin lintujen puhetta, ja ne palvelivat armeijassani.",
+    "Sain pieneltä linnulta uutisen kuningattaresta, joka palvoi aurinkoa.",
+    "Kuolemani pysyi piilossa, kunnes maan olento söi sauvani, ja vasta silloin džinni ymmärsi, etteivät he tienneet näkymätöntä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Sulayman (Salomo)",
+        "Profeetta Daavid",
+        "Profeetta Musa (Mooses)",
+        "Profeetta Isa (Jeesus)",
+        "Profeetta Nuh (Nooa)"
+      ],
+      "answer": "Profeetta Sulayman (Salomo)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Saban kuningattaren vierailu",
+        "Heitetään tuleen",
+        "Meren jakaminen",
+        "Arkin rakentaminen",
+        "Valaan nielaiseminen"
+      ],
+      "answer": "Saban kuningattaren vierailu"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Maan olennon syömä sauva",
+        "Sauva, joka muuttui käärmeeksi",
+        "Naaraskameli",
+        "Arkki",
+        "Valas"
+      ],
+      "answer": "Maan olennon syömä sauva"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hänen kuolemansa salattiin džinneiltä, ​​kunnes hänen sauvansa syötiin",
+        "Hänet nostettiin elävänä taivaisiin",
+        "Hänet pelastettiin tulesta Allahin käskystä",
+        "Hänelle annettiin Toora",
+        "Hänet pelastettiin valaan kynsistä"
+      ],
+      "answer": "Hänen kuolemansa salattiin džinneiltä, ​​kunnes hänen sauvansa syötiin"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

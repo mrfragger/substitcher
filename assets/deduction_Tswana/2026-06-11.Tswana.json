@@ -1,0 +1,61 @@
+{
+  "title": "Motse o o mo Lebopong la Tsheko",
+  "intro": "O iphitlhela o le mo motseng o o fa lotshitshing lwa lewatle, koo modumo wa makhubu o tlhakanang le ditshebo tsa batho ba ba lebetsweng. Ba ne ba newa taelo ya gore ba ikhutse, mme bopelotshetlha jwa bone bo ne jwa dira gore ba otlhaiwe e go sa ntseng go buiwa ka yone ka mantswe a a didimetseng. A o ka ribolola gore e ne e le bomang?",
+  "clues": [
+    "Re ne re nna fa lotshitshing lwa lewatle mme re ne ra newa taelo ya gore re boloke letsatsi la boikhutso.",
+    "Ka letsatsi leo, ditlhapi di ne di tla tla kwa go rona ka bontsi, mme re ne re thibetswe go di tsaya.",
+    "Bangwe mo gare ga rona ba ne ba tlhagisa kgatlhanong le tlolomolao, mme ba bangwe ba ne ba loga leano la go tshwara ditlhapi le fa go ntse jalo.",
+    "Re ne ra tlola taelo e e boitshepo mme ra itlisetsa kotlhao e e botlhoko.",
+    "Kotlhao ya rona e ne e le phetogo e e neng ya re tlogela re senyegile sebopego e bile re tlhabilwe ke ditlhong.",
+    "Re ne ra fetolwa go nna ditshwene, e le sesupo sa botlhe ba ba neng ba tla tla morago ga moo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Sabata",
+        "Batho ba Thamude",
+        "Batho ba 'Ad",
+        "Batho ba Logaga",
+        "Batho ba Tlou"
+      ],
+      "answer": "Batho ba Sabata"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go tshwara ditlhapi ka Sabata",
+        "Go obamela namane ya gauta",
+        "Go gana molaetsa wa ga Hud",
+        "Go bolaya kamela e namagadi",
+        "Go aga tora e e yang kwa legodimong"
+      ],
+      "answer": "Go tshwara ditlhapi ka Sabata"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Tlhapi",
+        "Kamela e namagadi",
+        "Badiri",
+        "Mokoro",
+        "Tshingwana"
+      ],
+      "answer": "Tlhapi"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E fetogile ditshwene",
+        "E sentswe ke morwalela",
+        "E sentswe ke molelo o o tukang",
+        "E meditswe ke lefatshe",
+        "Go phatlaladiwa ke phefo"
+      ],
+      "answer": "E fetogile ditshwene"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

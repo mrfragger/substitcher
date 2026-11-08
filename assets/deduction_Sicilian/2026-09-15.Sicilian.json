@@ -1,0 +1,61 @@
+{
+  "title": "L'ospitalità ca purtava paura",
+  "intro": "Nna na città cunsumata dâ malvagità, nu jornu nu sirvituri fideli ricivìu visitaturi inaspittati. Prioccupatu pâ sò sicurizza, chistu cristianu uffrìu prutizzioni, ma li genti dâ città vulìanu qualchi cosa di virgognosu. Avvirtutu di nu destinu imminenti, lu sirvituri scappàu câ famigghia sutta lu coperchio dû buio, lassannu arrè na città signata pâ distruzzioni. Chi è chistu cridenti sulu?",
+  "clues": [
+    "Fui mannatu comu messaggeru a nu pòpulu ca s’avìa fattu atti virgognosi.",
+    "Visitaturi inaspittati arrivaru a casa mia e ero cchiù prioccupatu pâ sò sicurizza ca pâ mia.",
+    "Lu me pòpulu vulìa vìdiri li me ospiti pi ntenzioni mali, e circava di raggiunari cu iḍḍi.",
+    "Li me visitaturi si rivilaru comu àngili e mi cumannaru di pigghiari la me famigghia e di partìri di notti.",
+    "Mia mugghieri non ascultò la chiamata pi scappari e affruntò la stissa distruzzioni dû me pòpulu.",
+    "La me città fu canciata cu na chioggia di petri di argilla stratificata, li sò parti cchiù auti purtaru cchiù vasci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sugnu iu?",
+      "options": [
+        "Lu prufeta Lut",
+        "Prufeta Musa",
+        "Lu prufeta Ibrahimu",
+        "Lu prufeta Nuh",
+        "Lu prufeta Hud"
+      ],
+      "answer": "Lu prufeta Lut"
+    },
+    "trial": {
+      "label": "Pruva/Eventu",
+      "options": [
+        "La richiesta dû me pòpulu d'avvicinarisi mali a li me ospiti",
+        "La spartizzioni di lu mari pi scappari a nu tirannu",
+        "La custruzzioni di na granni arca ntra li burla",
+        "Lu sacrificiu di me figghiu na prova di fidi",
+        "La spirienza di essiri nghiuttutu di nu granni pisci"
+      ],
+      "answer": "La richiesta dû me pòpulu d'avvicinarisi mali a li me ospiti"
+    },
+    "location": {
+      "label": "Elementu chiavi",
+      "options": [
+        "La cità ruvintata dû me pòpulu",
+        "La muntagna unni arriciviu lu discursu divinu",
+        "L'arca chi navigau attraversu na granni diluviuni",
+        "La camidda ca niscìu dâ roccia",
+        "Lu jardinu cu visitaturi giustu ammucciatu"
+      ],
+      "answer": "La cità ruvintata dû me pòpulu"
+    },
+    "outcome": {
+      "label": "Risurtatu",
+      "options": [
+        "Fui sarvatu câ me famigghia prima ca la me città fussi canciata",
+        "Guidai lu me pòpulu â libbirtà di l'àutra parti dû mari",
+        "Custruiu na granni arca e supravviviu a na forti allagamentu",
+        "Mi fu datu lu duminiu supra li venti e li jinni",
+        "Suppurtai cu pacienza li soffrenzi e fui ricumpinsatu câ famigghia"
+      ],
+      "answer": "Fui sarvatu câ me famigghia prima ca la me città fussi canciata"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

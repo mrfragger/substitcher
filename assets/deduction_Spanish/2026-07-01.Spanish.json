@@ -1,0 +1,61 @@
+{
+  "title": "El alma anónima que se enfrentó a una nación injusta.",
+  "intro": "En las páginas del Corán, encontramos figuras cuyos nombres se mantuvieron en secreto para que reflexionáramos sobre sus enseñanzas. Una de ellas nació en una nación que había rechazado a sus mensajeros, pero esta persona poseía una fe oculta que la distinguía. Ante la inminente destrucción, se mantuvo firme en su creencia secreta. ¿Podrás descubrir la identidad de esta misteriosa figura que advierte a su pueblo antes de que descienda el decreto final?",
+  "clues": [
+    "Viví entre un pueblo que había negado repetidamente a los mensajeros que Alá les había enviado.",
+    "A diferencia de mi nación, yo reconocí la verdad cuando llegó un mensajero con señales claras de mi Señor.",
+    "Oculté mi fe a mis opresores, sabiendo que me harían daño si descubrían mis creencias.",
+    "Cuando se acercaba la orden de castigo, declaré abiertamente mi lealtad y advertí a mi pueblo que se salvara.",
+    "Les recordé que soy un mensajero de confianza, igual que los enviados anteriormente, y que no deben adorar a nadie más que a Alá.",
+    "Mi gente me acusó de brujería y locura, pero el castigo del que habían sido advertidos acabó por alcanzarlos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Hud, el mensajero del pueblo de Aad",
+        "Un hombre creyente de la nación del Profeta Hud que fue martirizado.",
+        "El gobernante del pueblo de Aad que rechazó la verdad",
+        "Un compañero del profeta Salih que dudaba de las señales divinas.",
+        "Un ángel enviado para destruir al pueblo de Aad"
+      ],
+      "answer": "Un hombre creyente de la nación del Profeta Hud que fue martirizado."
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La prueba de la sequía y la hambruna que puso a prueba su paciencia.",
+        "La prueba de declarar la fe ante una nación opresora e incrédula.",
+        "El intento de construir un barco para escapar de una gran inundación.",
+        "La prueba de ser arrojado al fuego por creer en Alá",
+        "La prueba de ser puesto a prueba con la riqueza y la prosperidad."
+      ],
+      "answer": "La prueba de declarar la fe ante una nación opresora e incrédula."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La ciudad de La Meca donde se construyó la casa sagrada.",
+        "Las llanuras desérticas de la nación que negó a su mensajero",
+        "Las montañas de Madián, donde fue enviado el profeta Shu'aib.",
+        "La ribera del río de Egipto donde fue encontrado el profeta Musa.",
+        "El valle del pueblo de Aad, azotado por un viento feroz."
+      ],
+      "answer": "Las llanuras desérticas de la nación que negó a su mensajero"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Me salvé en un barco y viví hasta que Alá lo quiso.",
+        "Mi pueblo creyó en mí y fue guiado por el camino recto.",
+        "Fui asesinado por mi gente, pero mi alma fue acogida por la misericordia de Alá.",
+        "Me arrepentí después de ser puesto a prueba y Alá aceptó mi arrepentimiento.",
+        "Después de mi muerte, me convertí en un ídolo venerado por mi pueblo."
+      ],
+      "answer": "Fui asesinado por mi gente, pero mi alma fue acogida por la misericordia de Alá."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

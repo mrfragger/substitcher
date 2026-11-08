@@ -1,0 +1,61 @@
+{
+  "title": "Volání z Posvátného údolí",
+  "intro": "Za stránkami dějin se skrývá příběh duše, která stála mezi mocným vládcem a celým zotročeným lidem. Tato osoba byla povolána, aby vysvobodila národ z tyranie a vykonala zázraky, které se vzpíraly všem přírodním zákonům. Od posvátné hory až po zázrak na vodách, tento služebník Alláha byl svědkem znamení, která se budou ozývat po věky. Vaším dnešním úkolem je identifikovat tuto pozoruhodnou postavu, jejíž odkaz formoval běh lidských dějin.",
+  "clues": [
+    "Narodil jsem se v době, kdy můj lid čelil smrtícímu výnosu a moje rodina mě ponořila do vody, aby mi zachránila život.",
+    "Byl jsem nalezen a vychován v domácnosti vládce, který nařídil smrt mého druhu.",
+    "Uprchl jsem na posvátnou horu, kde jsem spatřil oheň na stromě, který neshořel, a z něj ke mně promluvil hlas.",
+    "Byl jsem poslán zpět k tomu samému vládci se zázraky, požadujícím svobodu mého zotročeného lidu.",
+    "Udeřil jsem holí do moře a ono se rozdělilo na suché stezky, které pohltily pronásledovatele, kteří následovali můj lid.",
+    "Čtyřicet nocí jsem hovořil se svým Pánem na hoře a byly mi dány tabulky božského vedení."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Músa",
+        "Prorok Harun",
+        "Prorok Ibráhím",
+        "Prorok Jusuf",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Músa"
+    },
+    "trial": {
+      "label": "Moje rozhodující zkouška",
+      "options": [
+        "Rozdělení moře",
+        "Stavba Velké archy",
+        "Zkouška planoucím ohněm",
+        "Uvěznění v břiše velryby",
+        "Uvěznění egyptským úředníkem"
+      ],
+      "answer": "Rozdělení moře"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Pastýřská hůl",
+        "Velká dřevěná archa",
+        "Jeskyně, kde spal čas",
+        "Zahrada se dvěma prameny",
+        "Trůn ozdobený zlatem"
+      ],
+      "answer": "Pastýřská hůl"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Můj lid překročil moře do bezpečí",
+        "Velká potopa zničila nevěřící",
+        "Tyranův oheň se stal chladným a mírumilovným",
+        "Moře vrhlo svého zajatce na břeh",
+        "Zajatec se stal egyptským pokladníkem"
+      ],
+      "answer": "Můj lid překročil moře do bezpečí"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

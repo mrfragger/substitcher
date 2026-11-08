@@ -1,0 +1,61 @@
+{
+  "title": "Umgcini weSango leLanga eliPhumayo",
+  "intro": "Kuyo yonke iQuran, imiphefumlo ethile idlula emhlabeni ishiya iindlela zobulumko nokumangalisa. Omnye umntu onjalo waya kwiindawo ezikude zendalo—apho ilanga liphuma lize litshone khona, apho umqobo uthintela isiphithiphithi ngokwaso. Lo mkhonzi ka-Allah wanikwa ubukumkani obungenakuze bube nabo kwakhona. Ngeendlela ezintathu ezahlukeneyo, injongo yalo mntu yacaca. Ungamchonga lo mhambi odumileyo phakathi kwezithunzi zembali?",
+  "clues": [
+    "Ndinikwe igunya nguSomnini-nceba ukuba ndilawule umhlaba ngendlela engakhange ifikelelwe mntu.",
+    "Ndahamba ndaya ngasentshona ndada ndafika apho ilanga litshona khona, ndafika litshona entwasahlobo emnyama, ndaza ndabona abantu apho.",
+    "Ndahamba ndaya empuma ndada ndafika apho ilanga liphuma khona, ndalifumana liphuma kubantu esingabalungiselelanga ndawo yokuzikhusela kulo.",
+    "Ndahamba phakathi kwezo ndawo zimbini zinzima de ndafika kwintlambo ephakathi kweentaba ezimbini, apho ndafumana khona abantu ababengaqondi kakuhle intetho.",
+    "Ndifumene entabeni imiqobo emibini eqinileyo yentsimbi efikelela ngasekunene nangasekhohlo, kwaye phakathi kwayo kukho indlela encinci. Aba bantu bandicele ukuba ndigqobhoze umqobo othintela isiphithiphithi.",
+    "Ndathabatha ukutya kwam ndathi: ‘Xa umqobo ugqobhoza, oku kuya kuba luqhekeko olucacileyo phakathi kwethu naba bantu.’ Kwaye xa ixesha elimiselweyo lafika, ndabukela njengoko umqobo ekugqibeleni wawugqobhoza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UDhu al-Qarnayn",
+        "Umprofeti uSulayman",
+        "Umprofeti uIbrahim",
+        "UKumkani waseGhassaniyah",
+        "UDhul-Qarnain uMhambi"
+      ],
+      "answer": "UDhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukugqobhoza umqobo wesinyithi kubantu baseYajuj naseMajuj",
+        "Ukwakha iNqanawa phantsi komyalelo womprofeti",
+        "Ukwakha itempile eYerusalem",
+        "Ukuwela uLwandle oluBomvu kunye nabantu abakholwayo",
+        "Ukwakha idama ukukhusela isizwe esilungileyo"
+      ],
+      "answer": "Ukugqobhoza umqobo wesinyithi kubantu baseYajuj naseMajuj"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umqobo wesinyithi phakathi kweentaba ezimbini",
+        "Inqanawa imise entabeni",
+        "Indlu engcwele yonqulo eYerusalem",
+        "Umlambo kwilizwe laseYiputa",
+        "Umthombo weentsikelelo eMadyan"
+      ],
+      "answer": "Umqobo wesinyithi phakathi kweentaba ezimbini"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Umqobo waphulwa xa kufika ixesha elimiselweyo, kwaza kwabakho isiphithiphithi",
+        "Abangakholwayo batshoniswa ngamanzi ngelixa abakholwayo babesindiswa",
+        "Amalungisa akhokelwe kwiparadesi engunaphakade",
+        "Isixeko satshatyalaliswa ngumoya ovuthuzayo",
+        "Izithixo zaqhekeka baza abantu baguquka"
+      ],
+      "answer": "Umqobo waphulwa xa kufika ixesha elimiselweyo, kwaza kwabakho isiphithiphithi"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

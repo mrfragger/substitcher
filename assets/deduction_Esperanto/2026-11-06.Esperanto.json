@@ -1,0 +1,61 @@
+{
+  "title": "La Unua Sango Verŝita en Envio",
+  "intro": "Imagu la plej fruajn tagojn de la homaro, kiam la tuta mondo estis unu familio. Vi rigardas, kiel du oferoj estas metitaj antaŭ Alaho — unu akceptita, la alia malakceptita. Envio enradikiĝas en koro, kaj minaco estas flustrita en kolero. Kio sekvas lasos spuron en la historio por ĉiam, kaj eĉ malgranda birdo fariĝos instruisto.",
+  "clues": [
+    "Mi apartenas al la plej unua familio sur la tero.",
+    "Mi prezentis oferon al Alaho, sed la mia ne estis akceptita, dum la alia ofero estis.",
+    "Mi parolis pro envio kaj minacis preni vivon.",
+    "Mi faris la unuan maljustan mortigon sur la tero.",
+    "Mi vidis korvon gratantan la teron por montri al mi kiel kaŝi kadavron.",
+    "Mi restis plena de bedaŭro kaj fariĝis inter la malgajnintoj pro tio, kion faris miaj manoj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Qabil (Kaino), filo de Adamo",
+        "Samiri, la kreinto de la bovido",
+        "Namrud, la tirano kiu kverelis kun Ibrahim",
+        "Azar, la kreinto de idoloj",
+        "Kan'an, la dronita filo de Nuh"
+      ],
+      "answer": "Qabil (Kaino), filo de Adamo"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Murdo de gefrato pro envio post malakceptita oferto",
+        "Konstruante altan turon por rigardi la ĉielon",
+        "Formante oran bovidon por adorado",
+        "Postulante tablon kovritan el la ĉielo",
+        "Gvidante armeon de elefantoj por detrui la Kaaba-on"
+      ],
+      "answer": "Murdo de gefrato pro envio post malakceptita oferto"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Korvo gratante la teron por montri entombigon",
+        "Ora bovido kiu blekis",
+        "Granda arkeo sur la inundakvoj",
+        "Bastono kiu fariĝis serpento",
+        "Tablo kovrita per manĝaĵoj el la ĉielo"
+      ],
+      "answer": "Korvo gratante la teron por montri entombigon"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Fariĝis pentanta kaj inter la malgajnintoj",
+        "Dronis en la granda inundo",
+        "Estis englutita de la tero kun trezoro",
+        "Estis frapita de lepro dum sep jaroj",
+        "Ricevis regnon kun kontrolo de la ventoj"
+      ],
+      "answer": "Fariĝis pentanta kaj inter la malgajnintoj"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

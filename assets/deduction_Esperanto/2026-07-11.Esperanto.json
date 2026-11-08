@@ -1,0 +1,61 @@
+{
+  "title": "La vojaĝantoj de la verda kampo",
+  "intro": "En antikva tempo, du individuoj prizorgis najbarajn terojn. Iliaj vojoj estis interplektitaj, tamen iliaj koroj kondukis ilin al vaste malsamaj cellokoj. Unu iris laŭ la rekta vojo, dum la alia erarvagis en la mallumon de neo. Ĉu vi povas malimpliki la misteron de ĉi tiuj du gardantoj de la rikolto?",
+  "clues": [
+    "Mi posedis abundajn rikoltojn, luksajn rikoltojn, kiuj brilblindumis la okulojn de la ĉeestantoj.",
+    "Mia najbaro posedis eĉ pli grandan abundon ol mi, tamen mi avidis ilian parton pli ol mian propran.",
+    "Mi sugestis, ke ni tute detruu iliajn rikoltojn, por plifirmigi ĉion sub mia kontrolo.",
+    "Mi ankaŭ ruinigis mian propran rikolton, detruante ĉion per mia malsaĝa intrigo.",
+    "Mi staris senhelpa dum miaj rikoltoj velkis kaj mia riĉeco fariĝis polvo en ununura nokto.",
+    "Mi havis neniun parton en la Postvivo, kaj mia fina loĝejo fariĝis fosaĵo de flamanta fajro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La viro, kiu neis resurekton kaj juĝon",
+        "La reganto kiu subpremis la justan farmiston",
+        "La riĉa terposedanto, al kiu mankis dankemo",
+        "La farmisto, kiu avidis la teron de sia najbaro",
+        "La perfida partnero kiu planis detruon"
+      ],
+      "answer": "La farmisto, kiu avidis la teron de sia najbaro"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La testo de ricevado de dia revelacio",
+        "La defio de riĉeco kaj pacienco",
+        "La tento detrui la vivrimedojn de justulo",
+        "La ordono juste dividi heredaĵon",
+        "La lukto kontraŭ la subpremo de tirano"
+      ],
+      "answer": "La tento detrui la vivrimedojn de justulo"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La verdaj ĝardenoj de paradizo",
+        "Du najbaraj kampoj de kultivaĵoj",
+        "La montoj kiuj atestis detruon",
+        "La sankta sanktejo de Mekko",
+        "La riverbordoj de benita lando"
+      ],
+      "answer": "Du najbaraj kampoj de kultivaĵoj"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Eterna paradizo kiel rekompenco por justeco",
+        "Kompleta detruo de ambaŭ rikoltoj en ĉi tiu vivo",
+        "Ekzilo kaj vagado ĝis morto",
+        "Provizora prospero sekvata de eterna fajro",
+        "Mirakla restarigo kaj duobligita premio"
+      ],
+      "answer": "Kompleta detruo de ambaŭ rikoltoj en ĉi tiu vivo"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

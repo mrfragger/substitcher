@@ -1,0 +1,61 @@
+{
+  "title": "Duše rova",
+  "intro": "Vraćate se u doba kada je nemilosrdni vladar zahtijevao apsolutnu odanost lažnim božanstvima. Mala zajednica odanih duša odbila je to i suočila se s kaznom toliko strogom da je postala vječno prokleta. Njihova priča odjekuje kroz Kuran kao svjedočanstvo nepokolebljive vjere. Možete li identificirati ovu nepokolebljivu grupu?",
+  "clues": [
+    "Živjeli smo u zemlji pod tiranijom vladara koji je zahtijevao obožavanje lažnih božanstava",
+    "Naša zajednica se suočila sa teškim progonom isključivo zbog našeg vjerovanja u jedinog Allaha",
+    "Vladar je naredio da se iskopa veliki rov i da se potpali žestokim plamenom.",
+    "Budući da smo odbili odreći se svoje vjere, bili smo bačeni u tu užarenu jamu jedan po jedan.",
+    "Naša priča je postala dio Kur'ana, a oni koji su nas progonili su vječno prokleti.",
+    "Sura koja bilježi našu kušnju nazvana je po velikim nebeskim znacima neba"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko smo mi?",
+      "options": [
+        "Drugovi iz rova ​​(Ashab al-Uhdud)",
+        "Ljudi iz pećine (Ashab al-Kahf)",
+        "Ljudi subote",
+        "Ljudi iz A'ada",
+        "Ljudi iz Semuda"
+      ],
+      "answer": "Drugovi iz rova ​​(Ashab al-Uhdud)"
+    },
+    "trial": {
+      "label": "Naše suđenje",
+      "options": [
+        "Biti živ spaljen u vatrenoj jami",
+        "Biti zatvoren u pećini dugi niz godina",
+        "Ribolov na sveti dan odmora",
+        "Biti uništen zavijajućim vjetrom",
+        "Ubijanje svete deve"
+      ],
+      "answer": "Biti živ spaljen u vatrenoj jami"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Plamteći vatreni rov",
+        "Skrivena pećina sa vjernim psom",
+        "Visoki stubovi drevnog osuđenog grada",
+        "Planinska prebivališta uklesana u kamene litice",
+        "Otvorena ravnica koju zahvataju siloviti vjetrovi"
+      ],
+      "answer": "Plamteći vatreni rov"
+    },
+    "outcome": {
+      "label": "Naš ishod",
+      "options": [
+        "Bili smo mučenici, a progonitelji su bili vječno prokleti",
+        "Probudili smo se nakon 309 godina spavanja",
+        "Pretvoreni smo u majmune zbog našeg prijestupa",
+        "Snažan zavijajući vjetar uništio nas je sve",
+        "Jedan razorni krik uništio je naše postojanje"
+      ],
+      "answer": "Bili smo mučenici, a progonitelji su bili vječno prokleti"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

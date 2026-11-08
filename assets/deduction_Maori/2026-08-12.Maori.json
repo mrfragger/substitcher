@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Karere o te Aroha me te Mana",
+  "intro": "Whakaarohia tētahi ahiahi marino e whakararuraruhia ana e te taenga mai o ngā kaihaerere tauhou. He āhua noa iho tō rātou āhua, engari he rerekē rawa tā rātou kaupapa. He karere atua tā rātou e kawe nei hei whakarerekē i te huarahi o ngā iwi e rua, e kawe mai ana i te kata ki tētahi kāinga pakoko, me te whakamataku ki tētahi tāone hara. Ko wai ēnei manuhiri ngaro?",
+  "clues": [
+    "I tonoa mātou ki tētahi pononga pono a Allah, e mōhiotia ana mō tōna manaakitanga mutunga kore.",
+    "I tae mai mātou me te āhua o te tangata ke, heoi i kitea e te kaihautu tētahi mea rerekē mō mātou.",
+    "I kawea mai e mātou he rongo i kata ai tētahi kuia i te kore whakapono, i miharo ai hoki tōna mata.",
+    "I tukuna mai ki a mātou te mahi tiaki i tētahi whānau tika, i a mātou e ringihia ana te whakangaromanga ki runga i tētahi tāone kua kī tonu i te pirau.",
+    "I whakakahore mātou ki te kai i te kai i tukuna mai ki a mātou, ā, ka nui ake te whakapae a te kaihautū ki a mātou.",
+    "I whakakitea e mātou tō mātou āhua tūturu i mua i te wehenga atu, me te kī, 'He pono, he karere mātou nā tō koutou Ariki.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā Manuhiri a Āperahāma",
+        "Ngā Ākonga a Ihu",
+        "Ngā Hoa o te Ana",
+        "Te Ope Taua a Āparaha",
+        "Ngā Karere o Ya-Sin"
+      ],
+      "answer": "Ngā Manuhiri a Āperahāma"
+    },
+    "trial": {
+      "label": "Tā Mātou Kaupapa",
+      "options": [
+        "Hei whakamātautau i te whakapono o Āperahāma ki tāna tama",
+        "Hei tuku i te karaipiture ki a Āperahāma",
+        "Hei kauwhau i te whānautanga o Ihaka me te whakangaromanga o te iwi o Rota",
+        "Hei ārahi i a Āperahāma ki te Kaaba",
+        "Hei whakaora i a Āperahāma i te ahi"
+      ],
+      "answer": "Hei kauwhau i te whānautanga o Ihaka me te whakangaromanga o te iwi o Rota"
+    },
+    "location": {
+      "label": "Te Wāhi o te Āhua",
+      "options": [
+        "I te whenua o Īhipa",
+        "I te tāone o Uru",
+        "I te kāinga o Āperahāma",
+        "I te kari o Ētene",
+        "I te puna o Zamzam"
+      ],
+      "answer": "I te kāinga o Āperahāma"
+    },
+    "outcome": {
+      "label": "Te Hua",
+      "options": [
+        "I riro a Āperahāma hei kingi",
+        "I hanga e Āperahāma te Kaaba",
+        "I whānau a Ihaka i a Hera, ā, i whakangaromia te iwi o Rota",
+        "I heke a Āperahāma ki Pāretina",
+        "I whakaorangia te iwi o Āperahāma i te waipuke nui"
+      ],
+      "answer": "I whānau a Ihaka i a Hera, ā, i whakangaromia te iwi o Rota"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

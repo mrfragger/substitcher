@@ -1,0 +1,61 @@
+{
+  "title": "Moto oyo babenganaki mwana-ngɔmbɛ ya wolo",
+  "intro": "Moto moko oyo elobelami na Coran ememaki ebele monene na kopengola na ntango oyo mosakoli moko ya lokumu azalaki te. Eloko moko oyo esalemaki na wolo ekangaki mitema ya ekolo mobimba — kasi lisolo ya moto oyo esukaka na kozala ye moko mpe na elakeli mabe ya kokamwa. Moto oyo abwakami akoki kozala nani?",
+  "clues": [
+    "Nabimaki na ntango ya kozanga ya profeta moko monene oyo amataki mpo na kozwa bokambi ya bonzambe.",
+    "Nasalaki ete ebele monene ya bato bábunga nzela na eloko moko oyo nasalaki na mabɔkɔ na ngai moko.",
+    "Ekelamu ya wolo oyo nabimisaki emonanaki lokola ete ezalaki na bomoi, ezalaki kobimisa makɛlɛlɛ oyo ezalaki kokamwisa bato oyo balandaki yango.",
+    "Nalobaki ete namonaki oyo basusu bakokaki kososola te —kotala mwa moke na oyo emonanaka te.",
+    "Nabendaki eloko moko na banzela ya momemi-nsango ya bonzambe mpe nabwakaki yango na ebende oyo enyangwaki.",
+    "Nazwaki etumbu ya koyengayenga ngai moko, na elakeli mabe oyo ekokani na mosusu te ete moto moko te akokaki kosimba loposo na ngai mpe ngai mpe kosimba oyo ya bango."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Samiri",
+        "Hamane",
+        "Farao (Fir'awn) .",
+        "Abu Lahab azali moto ya mayele",
+        "Mosakoli Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Akelaki mwana ya ngɔmbɛ ya wolo mpo na losambo",
+        "Atongaki linɔ́ngi oyo ekómaki na likoló",
+        "Atɛmɛlaki banganga-nkisi ya Ezipito",
+        "Akambaki limpinga moko na banyama oyo epumbwaka",
+        "Kabola sanza lokola elembeteli ya bosakoli"
+      ],
+      "answer": "Akelaki mwana ya ngɔmbɛ ya wolo mpo na losambo"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Nzete oyo ebongwanaki nyoka",
+        "Zamba oyo ezali kozika likoló ya ngomba",
+        "Masuwa oyo ezali kopema na nsɔngɛ moko",
+        "Libulu moko oyo etondi na mɔtɔ oyo ezalaki kopela mɔtɔ"
+      ],
+      "answer": "Mwana ya ngɔmbɛ ya wolo"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Balongolami na boombo, bapekisami kosimbama to kosimba basusu",
+        "Bazindaki na mbu elongo na basoda",
+        "Batumbaki na bomoi mpo aboyaki kondima",
+        "Mopɛpɛ moko ya makasi mpe ya konguluma ebɛtaki ye",
+        "Alimbisami mpe atombolami na station ya likolo"
+      ],
+      "answer": "Balongolami na boombo, bapekisami kosimbama to kosimba basusu"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Silenta Voĉo de la Valo",
+  "intro": "Reiru en la tempon al potenca popolo, kiu iam ricevis vivantan mirindaĵon kiel teston. Aroganteco kaj obstineco sigelis ilian sorton. Ĉu vi povas spuri la rakonton kaj malkovri, kio disvolviĝis en ĉi tiu drama turnopunkto?",
+  "clues": [
+    "Mi estis sendita kiel dia provo al potenca popolo konata pro sia forto kaj spitemo.",
+    "Mi estis unika mirindaĵo — inter ili neniam aperis tiaj, kiaj mi estis.",
+    "Mi dividis trinkakvon el puto kun miaj homoj alterne.",
+    "Ili estis avertitaj, ke ĉia damaĝo kontraŭ mi alportos rapidan punon.",
+    "La plej aŭdaca el ili ignoris la averton kaj malhelpis min.",
+    "Post mia morto, ununura tondranta krio de supre detruis mian tutan popolon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La Kamelo de Salih",
+        "La Bovino de Musa",
+        "La Ŝipo de Nuh",
+        "La Bastono de Musa",
+        "La Trono de Bilqis"
+      ],
+      "answer": "La Kamelo de Salih"
+    },
+    "trial": {
+      "label": "Mia Sorto",
+      "options": [
+        "Hamstringita kaj mortigita",
+        "Buĉita kiel ofero",
+        "Transformita en serpenton",
+        "Konservita tra granda inundo",
+        "Rapide alportita trans regnon"
+      ],
+      "answer": "Hamstringita kaj mortigita"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Puto da akvo",
+        "Tabuleto el ŝtono",
+        "Brulanta arbusto",
+        "Arko el ligno",
+        "Trono el oro kaj arĝento"
+      ],
+      "answer": "Puto da akvo"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Detruita de ununura kriego",
+        "Dronis en granda inundo",
+        "Bruligita de pluvo de ŝtonoj",
+        "Frakasita de furioza vento",
+        "Englutita de la tero"
+      ],
+      "answer": "Detruita de ununura kriego"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

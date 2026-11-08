@@ -1,0 +1,61 @@
+{
+  "title": "Bol hasylyň näleti",
+  "intro": "Gadymy bir ýurtda belli bir jan olaryň jemgyýetiniň iň baýlarynyň arasynda durdy. Ýer ýüzüniň iki esse bereketi olara yzly-yzyna ýyllarda geldi, iki esse hasyl olaryň ýüregini minnetdarlyk bilen doldurmalydy. Emma betbagtçylyk ýüze çykyp, eýe bolan ähli zatlary bir gijede ogurlananda, olaryň jogaby olaryň ruhunyň hakyky tebigatyny açyp görkezdi. Allanyň bereketlerine ynanmazlyga garşy duýduryş hökmünde hyzmat edýän bu şahsyýetiň kimdigini açyp bilersiňizmi?",
+  "clues": [
+    "Men ýurduň iň bagtly jandarlarynyň biridim, bol rysgaly bilen bereketlendim.",
+    "Iki ýylyň dowamynda iki gezek hasyl aldym, ýöne ýüregim Rebbime şükürsiz galdy.",
+    "Meniň üzüm, zeýtun we palma agaçlary bolan uly bagym bardy — bu bolsa Allanyň merhemetiniň subutnamasydy.",
+    "Bagym weýran bolanda, men onuň harabalyklarynda ellerimi göge uzadyp, ykbalyma nälet okap durdum.",
+    "Men umytsyzlykdan ellerimi gyssam-da, Allanyň şeýle ýitgini döredip biljekdigini inkär etdim.",
+    "Meniň jezam diňe bagymyň ýitmegi däl, eýsem onuň harabalyklarynda hiç hili kömekçi çagyryp bilmeýän, ejiz galmagymdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "26-njy sürede bagyň eýesi",
+        "Uzak ýurtdan iki bagyň eýesi",
+        "Baýlyk şäherinden baý jan",
+        "Kahf süresinde agzalan daýhan",
+        "Şuaýb pygamberiň döwründen üzüm bagynyň eýesi"
+      ],
+      "answer": "26-njy sürede bagyň eýesi"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Bir gijede weýran bolan bagyň ýitmegi",
+        "Ýer ýüzüni basan uly sil",
+        "Hakyky we ýalan pygamberler bilen synagdan geçirilýär",
+        "Oda taşlanmagyň synagy",
+        "Ýer tarapyndan ýuwutulmagyň synagy"
+      ],
+      "answer": "Bir gijede weýran bolan bagyň ýitmegi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Iki ýylyň dowamynda ýok edilen üzüm, zeýtun we palma agaçlary bolan bag",
+        "Beýik dagyň üstünde gurlan gämi",
+        "Bozuk milletiň şäheri",
+        "Gadymy Midiýadaky guýu",
+        "Jennet derýasy"
+      ],
+      "answer": "Iki ýylyň dowamynda ýok edilen üzüm, zeýtun we palma agaçlary bolan bag"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Başgaça ejizlik — kömekçisiz ýok edildi",
+        "Jennete girmek üçin direliş",
+        "Allanyň pygamberi bolmak",
+        "Beýik milletiň liderligi",
+        "Otda ebedi jeza"
+      ],
+      "answer": "Başgaça ejizlik — kömekçisiz ýok edildi"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

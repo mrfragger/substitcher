@@ -1,0 +1,60 @@
+{
+  "title": "Rettssaken under bølgene",
+  "intro": "En profet, tynget av sitt oppdrag, tok en avgjørelse som førte ham langt fra sitt folk og inn i en uventet prøvelse. Reisen hans tok en dramatisk vending, og testet hans tro og tålmodighet på den mest dyptgående måten. Kan du utlede detaljene om denne ekstraordinære hendelsen fra ledetrådene som er gitt?",
+  "clues": [
+    "En profet ble sendt til et folk, men dro av sted i all hast, frustrert over at de ble avvist.",
+    "Reisen hans førte ham til sjøen, hvor han gikk om bord i et tungt lastet skip for å søke gjennomfart.",
+    "En kraftig storm oppsto og truet skipet, og det ble tatt en beslutning om å kaste én person over bord for å lette lasten, bestemt ved loddtrekning.",
+    "Han ble slukt av en skapning fra dypet, en mirakuløs hendelse forordnet av guddommelig vilje.",
+    "Innenfor skapningens mage ropte han til sin Herre, angret og priste Allah i mørket.",
+    "Etter en periode med intens bønn ble han kastet ut på en gold strand, svak, men i live, og senere kom han tilbake for å oppdage at folket hans endelig hadde trodd."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profet/Person",
+      "options": [
+        "Profeten Nuh",
+        "Profeten Lut",
+        "Profeten Musa",
+        "Profeten Yunus",
+        "Profeten Yusuf"
+      ],
+      "answer": "Profeten Yunus"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Flommen av Nuh",
+        "Ødeleggelsen av Sodoma",
+        "Reisen i den store fiskens buk",
+        "Havets splittelse",
+        "Den brennende tornebuskens åpenbaring"
+      ],
+      "answer": "Reisen i den store fiskens buk"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Arken",
+        "Sinai-fjellet",
+        "Musas stab",
+        "Den store fisken",
+        "Yusufs brønn"
+      ],
+      "answer": "Den store fisken"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "En ny pakt med menneskeheten",
+        "En mirakuløs fødsel for hans folk",
+        "Et kongerike etablert for hans slektslinje",
+        "En tilbakekomst til sitt folk som da trodde",
+        "En seier over en tyrannisk hersker"
+      ],
+      "answer": "En tilbakekomst til sitt folk som da trodde"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

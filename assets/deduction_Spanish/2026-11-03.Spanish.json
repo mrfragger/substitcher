@@ -1,0 +1,61 @@
+{
+  "title": "El sueño de los justos",
+  "intro": "En una época en que la fe era peligrosa y los poderosos buscaban aplastar las creencias, un pequeño grupo de jóvenes tomó una decisión que resonaría a través de los siglos. Huyendo de todo lo que conocían, buscaron refugio en la oscuridad oculta de una montaña y depositaron toda su confianza en Alá. Lo que sucedió después se convertiría en un signo eterno para quienes reflexionan.",
+  "clues": [
+    "Éramos un grupo de jóvenes que creíamos en nuestro Señor, y Él nos fortaleció con su guía.",
+    "Nos pusimos de pie ante nuestro pueblo y declaramos que jamás invocaríamos a ninguna otra deidad que no fuera Alá.",
+    "Nos refugiamos en una cueva, diciendo: «¡Señor nuestro, concédenos tu misericordia y guíanos rectamente en nuestro asunto!».",
+    "Dormimos durante muchísimos años, y el sol se inclinaba alejándose de nuestra cueva y no nos alcanzaba.",
+    "Nuestro perro yacía estirado a la entrada de la cueva, vigilándonos como si estuviera de guardia.",
+    "Cuando despertamos, nos preguntamos cuánto tiempo habíamos tardado, y uno de nosotros fue enviado con monedas de plata a comprar comida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Gente de la cueva",
+        "Gente de la trinchera",
+        "Gente del sábado",
+        "Gente del elefante",
+        "Compañeros del Bosque"
+      ],
+      "answer": "Gente de la cueva"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Huyeron a una cueva para escapar de la persecución por su fe.",
+        "Destruido por un viento violento",
+        "Engullido por la tierra",
+        "Ahogado en el mar",
+        "Golpeado por una tormenta de piedras"
+      ],
+      "answer": "Huyeron a una cueva para escapar de la persecución por su fe."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un perro custodiando la entrada de la cueva.",
+        "Una gran arca",
+        "Un bastón que se convirtió en serpiente",
+        "Un pájaro abubilla",
+        "Un becerro de oro"
+      ],
+      "answer": "Un perro custodiando la entrada de la cueva."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Permanecieron en la cueva durante 309 años y luego fueron elevados como señal.",
+        "Se convirtieron en simios",
+        "Fueron destruidos por una inundación.",
+        "Fueron obligados a cruzar el mar.",
+        "Se les concedió un reino."
+      ],
+      "answer": "Permanecieron en la cueva durante 309 años y luego fueron elevados como señal."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

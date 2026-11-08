@@ -1,0 +1,61 @@
+{
+  "title": "Panovník, který požadoval božství",
+  "intro": "Mocný a arogantní vládce věřil, že nikdo nestojí nad jeho trůnem. Pronásledoval prchající skupinu přes rozlehlou vodní plochu, jen aby se setkal s dramatickým koncem. Příběh tohoto panovníka se odráží v mnoha pasážích Koránu a slouží jako varování pro všechny.",
+  "clues": [
+    "Byl jsem mocný vládce, který věřil, že v zemích, kterým vládl, žádná autorita nepřevyšuje tu mou.",
+    "Měl jsem důvěryhodného vezíra jménem Haman, který mi pomáhal realizovat velkolepé architektonické projekty.",
+    "Povolal jsem nejlepší mágy své země, aby zpochybnili znamení posla, který se mi postavil.",
+    "Odmítl jsem nechat odejít lid zotročený v mé říši, navzdory morům a jasným varováním.",
+    "Pronásledoval jsem je přes rozlehlé moře s celou svou armádou a vozy.",
+    "To moře se nade mnou a mými silami sevřelo a všechny nás potopilo, zatímco oni bezpečně přepluli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Faraon (Fir'awn)",
+        "Namrud",
+        "Abú Laháb",
+        "Haman",
+        "Abu Džahl"
+      ],
+      "answer": "Faraon (Fir'awn)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Mory a konfrontace s Músou (Mojžíšem)",
+        "Stavba archy před velkou potopou",
+        "Bitva proti Jalutovi v údolí",
+        "Být spolknut velrybou",
+        "Obrana poctivých obchodních vah"
+      ],
+      "answer": "Mory a konfrontace s Músou (Mojžíšem)"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Vysoké věže a kůly",
+        "Velká dřevěná archa",
+        "Zlaté tele",
+        "Hůl, která se proměnila v hada",
+        "Obrovská velryba"
+      ],
+      "answer": "Vysoké věže a kůly"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Utopený v moři s armádou",
+        "Zachráněn Alláhovým milosrdenstvím a trpělivostí odměněn",
+        "Shledáni s rodinou po letech těžkostí",
+        "Pohlceno zemí",
+        "Shořel v ohni"
+      ],
+      "answer": "Utopený v moři s armádou"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

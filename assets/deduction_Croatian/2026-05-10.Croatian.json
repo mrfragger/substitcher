@@ -1,0 +1,61 @@
+{
+  "title": "Graditelji tornjeva",
+  "intro": "U davnoj prošlosti, uzdigla se moćna civilizacija, poznata po impresivnim građevinskim podvizima i izuzetnoj snazi. Ovom kolektivnom entitetu dani su obilni resursi i fizička hrabrost, no oni su odabrali put prkosa božanskoj poruci poslanoj da ih vodi. Njihova priča služi kao duboka lekcija u analima povijesti, svjedočanstvo o posljedicama odbacivanja istine.",
+  "clues": [
+    "Bila nam je dana ogromna fizička snaga i stas, za razliku od bilo kojeg drugog naroda našeg vremena.",
+    "Bili smo poznati po gradnji veličanstvenih građevina i uzvišenih stupova na svakom uzvišenom mjestu, misleći da ćemo živjeti vječno.",
+    "Poslan je jedan od nas poslanik da nas upozori, pozivajući nas da obožavamo samo Allaha i da napustimo svoje idole.",
+    "Arogantno smo ispitivali našeg poslanika, pitajući nas jesu li nam došli samo da bismo se klanjali Allahu i napustili ono što su naši preci klanjali.",
+    "Naša zemlja bila je blagoslovljena vrtovima, izvorima i plodnim poljima, ali mi smo svoje blagostanje pripisivali vlastitoj moći, a ne našem Stvoritelju.",
+    "Zbog našeg upornog nevjerovanja i ruganja, na kraju nas je uništio zastrašujući, bijesni vjetar koji je bjesnio danima i noćima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ljudi iz Semuda",
+        "Ljudi Farauna",
+        "Nuhov narod",
+        "Ljudi iz Madyana",
+        "Ljudi iz 'Ad"
+      ],
+      "answer": "Ljudi iz 'Ad"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti zamoljen da žrtvuje određenu devu",
+        "Biti izazvan da napišem deset sura poput Kur'ana",
+        "Biti prikazan kako se more cijepa",
+        "Upozorenje proroka o nadolazećem potopu",
+        "Odbacivanje proroka koji je upozoravao na pretjeranu gradnju i obožavanje idola"
+      ],
+      "answer": "Odbacivanje proroka koji je upozoravao na pretjeranu gradnju i obožavanje idola"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Vatra",
+        "Grad Sodoma",
+        "Uzvišeni stupovi i čvrsta prebivališta"
+      ],
+      "answer": "Uzvišeni stupovi i čvrsta prebivališta"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Utopljen u velikoj poplavi",
+        "Progutala zemlja",
+        "Pretvoreni u majmune i svinje",
+        "Uništeno gromoglasnom eksplozijom",
+        "Uništen bijesnim, razornim vjetrom"
+      ],
+      "answer": "Uništen bijesnim, razornim vjetrom"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

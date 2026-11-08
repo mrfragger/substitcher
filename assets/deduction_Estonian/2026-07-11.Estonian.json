@@ -1,0 +1,61 @@
+{
+  "title": "Rohelise välja rändurid",
+  "intro": "Muistsel ajal harisid kaks inimest naabermaid. Nende teed olid põimunud, kuid südamed viisid nad hoopis erinevate sihtkohtade poole. Üks kõndis sirgel teel, teine ​​aga eksis eituse pimedusse. Kas suudad lahti harutada nende kahe saagihoidja saladuse?",
+  "clues": [
+    "Mul oli rikkalik saak, lopsakas saak, mis pimestas pealtvaatajate silmi.",
+    "Mu naabril oli veelgi suurem küllus kui minul, kuid ihaldasin tema osa rohkem kui enda oma.",
+    "Pakkusin välja, et me hävitaksime nende saagi täielikult, et koondada kõik minu kontrolli alla.",
+    "Ma tõin ka omaenda lõikusele hävingu, hävitades kõik oma rumalate sepitsustega.",
+    "Seisin abitult, kui mu vili närbus ja mu rikkus üheainsa ööga põrmuks muutus.",
+    "Mul polnud teispoolsuses osa ja minu lõplik elupaik sai lõõmava tule auku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Mees, kes eitas ülestõusmist ja kohtumõistmist",
+        "Valitseja, kes rõhus õiglast põllumeest",
+        "Rikas maaomanik, kellel puudus tänulikkus",
+        "Põllumees, kes ihaldas oma naabri maad",
+        "Reetlik partner, kes plaanis hävingut"
+      ],
+      "answer": "Põllumees, kes ihaldas oma naabri maad"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Jumaliku ilmutuse saamise proovikivi",
+        "Rikkuse ja kannatlikkuse väljakutse",
+        "Kiusatus hävitada õiglase inimese elatusallikas",
+        "Käsk pärandit õiglaselt jagada",
+        "Võitlus türanni rõhumise vastu"
+      ],
+      "answer": "Kiusatus hävitada õiglase inimese elatusallikas"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Paradiisi rohelised aiad",
+        "Kaks kõrvutiasuvat viljapõldu",
+        "Mäed, mis nägid hävingut",
+        "Meka pühamu",
+        "Õnnistatud maa jõekaldad"
+      ],
+      "answer": "Kaks kõrvutiasuvat viljapõldu"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Igavene paradiis kui tasuks õigluse eest",
+        "Mõlema saagi täielik hävitamine selles elus",
+        "Pagulus ja surmani ekslemine",
+        "Ajutine õitseng, millele järgneb igavene tuli",
+        "Imeline taastamine ja kahekordne küllus"
+      ],
+      "answer": "Mõlema saagi täielik hävitamine selles elus"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

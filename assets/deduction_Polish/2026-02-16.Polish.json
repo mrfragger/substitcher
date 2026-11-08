@@ -1,0 +1,61 @@
+{
+  "title": "Roszczenie o absolutną władzę",
+  "intro": "W starożytności potężna jednostka objęła władzę nad rozległym krajem i jego mieszkańcami. Panowanie tej postaci naznaczone było ogromną dumą i stanowiło poważne wyzwanie dla boskiego autorytetu. Przygotuj się na odkrycie tożsamości duszy, której ostateczny los stał się trwałą lekcją dla wszystkich pokoleń.",
+  "clues": [
+    "Sprawowałem władzę nad potężnym imperium, w którym moje słowo było prawem.",
+    "Ogłosiłem się najwyższym bóstwem i zażądałem czci od wszystkich podległych mi osób.",
+    "Uciskałem określoną społeczność, zniewalając jej członków i nakazując zabijanie ich małych dzieci płci męskiej.",
+    "Wielokrotnie spotykałem pokornego posłańca Boga, który dokonywał wyraźnych cudów w mojej obecności i wobec moich magików.",
+    "Uparcie odrzucałem prawdę, oskarżając posłańca o czary i knując, aby zniszczyć jego i jego zwolenników.",
+    "Cała moja armia i ja zostaliśmy pochłonięci przez morze, gdy nieustannie ścigaliśmy tych, którzy uwolnili się z moich rąk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Nimrod",
+        "Abu Dżahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wielka Powódź",
+        "Płonący ogień",
+        "Utonięcie ciemiężcy",
+        "Zniszczenie przez wiatr",
+        "Trzęsienie ziemi niedowierzania"
+      ],
+      "answer": "Utonięcie ciemiężcy"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka Noego",
+        "Laska Mojżesza",
+        "Złoty Bożek",
+        "Studnia Zamzam",
+        "Tron Bilqis"
+      ],
+      "answer": "Laska Mojżesza"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przyznano mu rozległe królestwo",
+        "Ciało zachowane jako znak",
+        "Wybaczony po pokucie",
+        "Podniesiony do rangi proroka",
+        "Jego lud stał się pobożny"
+      ],
+      "answer": "Ciało zachowane jako znak"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

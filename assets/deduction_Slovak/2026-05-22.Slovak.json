@@ -1,0 +1,61 @@
+{
+  "title": "Snílkov vzostup",
+  "intro": "Duša predurčená k veľkosti, no skúšaná ťažkými skúškami, sa vydala na mimoriadnu cestu. Cesta tohto jednotlivca bola poznačená žiarlivosťou, odlúčením a nespravodlivým utrpením, len aby vyvrcholila pozíciou nesmiernej zodpovednosti a hlbokého zjednotenia. Viete identifikovať túto pozoruhodnú postavu z Koránu?",
+  "clues": [
+    "Kedysi mi najbližší závideli, čo viedlo k hlbokému odlúčeniu od rodičov a domova.",
+    "Zažil som obdobie veľkých ťažkostí, vrátane toho, že ma cestovatelia predali za nízku cenu.",
+    "Bol som nespravodlivo obvinený z priestupkov a strávil som roky vo väzení, no moja viera zostala neochvejná.",
+    "Bola mi daná jedinečná schopnosť interpretovať zložité vízie, čo sa ukázalo ako kľúčové na mojej ceste k slobode.",
+    "Moja múdrosť a bezúhonnosť ma nakoniec priviedli k pozícii veľkej autority a dôvery v cudzej krajine.",
+    "Vďaka sérii udalostí som sa po dlhej a bolestivej neprítomnosti opäť stretol so svojím starším rodičom a súrodencami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Sulajmán",
+        "Prorok Isa",
+        "Prorok Júsuf",
+        "Prorok Dawud",
+        "Prorok Jahja"
+      ],
+      "answer": "Prorok Júsuf"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Byť prehltnutý veľkou rybou",
+        "Stavba Archy na záchranu stvorenia",
+        "Znášanie falošných obvinení a väznenie",
+        "Konfrontácia tyranského vládcu pomocou zázrakov",
+        "Skúšanie ťažkou chorobou a stratou"
+      ],
+      "answer": "Znášanie falošných obvinení a väznenie"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Horiaci ker",
+        "Hovoriaci vták",
+        "Studňa",
+        "Palica sa mení na hada",
+        "Ťava ako znamenie"
+      ],
+      "answer": "Studňa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Vedenie migrácie do zasľúbenej zeme",
+        "Stať sa mocným ministrom v Egypte",
+        "Prijatie božského súdu nad arogantným ľudom",
+        "Vládnutie rozsiahleho kráľovstva s múdrosťou a spravodlivosťou",
+        "Vzostup do nebies"
+      ],
+      "answer": "Stať sa mocným ministrom v Egypte"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

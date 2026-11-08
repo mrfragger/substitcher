@@ -1,0 +1,61 @@
+{
+  "title": "Ang Alay na Nagpabago sa Tadhana",
+  "intro": "Noong mga unang araw ng sangkatauhan, isang kaluluwa ang nag-alay ng regalo nang may dalisay na intensyon. Gayunpaman, may inggit na nagkukubli sa anino ng pagtanggap. Tuklasin ang kwento ng taong ito na ang kabanalan at kalunus-lunos na wakas ay imortalisa sa banal na paghahayag.",
+  "clues": [
+    "Kabilang ako sa mga pinakaunang henerasyon ng sangkatauhan.",
+    "Naghandog ako sa aking Panginoon, at tinanggap ko ito nang may pagsang-ayon.",
+    "Tinanggihan ang handog ng aking kapatid, at pinadilim ng inggit ang kanyang puso.",
+    "Sinabi ko sa kanya, 'Kung iuunat mo ang iyong kamay patungo sa akin upang patayin ako, hindi ko iuunat ang aking kamay upang patayin ka; katotohanang natatakot ako kay Allah, ang Panginoon ng mga sanlibutan.'",
+    "Ako ang naging biktima ng unang pagpatay sa mundo.",
+    "Sumigaw ang dugo ko, at ako ang unang martir ng kawalang-kasalanan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Cain)",
+        "Ang Lalaki mula sa Ya-Sin",
+        "Ang Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Tinanggap ang kaniyang handog, na nagdulot ng inggit ng kaniyang kapatid at ng kaniyang pagpatay.",
+        "Siya ay itinapon sa nagliliyab na hurno ngunit lumabas na hindi nasaktan",
+        "Gumawa siya ng isang napakalaking barko sa ilalim ng gabay ng Diyos",
+        "Nilunok siya ng isang malaking isda at nanatili sa kadiliman",
+        "Pinangunahan niya ang kanyang mga tao sa isang hating dagat"
+      ],
+      "answer": "Tinanggap ang kaniyang handog, na nagdulot ng inggit ng kaniyang kapatid at ng kaniyang pagpatay."
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang tinatanggap na alok",
+        "Isang tungkod na nagiging ahas",
+        "Isang babaeng kamelyo bilang isang banal na tanda",
+        "Isang hoopoe na nagdadala ng balita",
+        "Isang ginintuang guya na sinasamba"
+      ],
+      "answer": "Isang tinatanggap na alok"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Unang pagpatay sa kasaysayan; hinatulan ang kanyang kapatid",
+        "Nilamon ng lupa kasama ng kanyang kayamanan",
+        "Naging mga unggoy dahil sa paglabag",
+        "Nawasak ng isang malakas at nagyeyelong hangin",
+        "Nalunod sa isang malaking baha bilang parusa"
+      ],
+      "answer": "Unang pagpatay sa kasaysayan; hinatulan ang kanyang kapatid"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

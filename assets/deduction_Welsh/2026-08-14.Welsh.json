@@ -1,0 +1,61 @@
+{
+  "title": "Y Dwylo Melltigedig",
+  "intro": "Rydych chi'n sefyll yn lonydd troellog Mecca hynafol, lle trodd enaid dylanwadol a chyfoethog unwaith oddi wrth alwad y gwirionedd. Mae stori'r ffigur hwn yn atgof llym na all cysylltiadau gwaed oresgyn cadwyni balchder. Pwy yw'r un hwn y mae ei enw'n atseinio gyda'r tân sy'n aros?",
+  "clues": [
+    "Cerddais strydoedd Mecca gyda balchder a'm dallai i'r gwirionedd, er bod y negesydd o fy ngwaed fy hun.",
+    "Roedd fy eiddo yn helaeth, ond daethant yn felltith yn hytrach nag yn darian.",
+    "Mae llyfr y canllawiau yn sôn am fy nifnder, gan ddatgan y bydd fy nwylo a'm person yn darfod.",
+    "Ymunodd fy mhriod â'm hymgyrch o elyniaeth, gan gasglu drain i'w lledaenu ar lwybr yr un a alwodd ar Allah.",
+    "Ar ddydd y farn, byddaf yn cael fy mhlymu i dân o fflam llachar, a bydd rhaff o ffibr palmwydd o amgylch gwddf fy mhriod.",
+    "Rwy'n cael fy adnabod wrth enw sy'n golygu 'tad fflam' — enw sy'n rhagweld fy mhreswylfa dragwyddol."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Treial neu Ddigwyddiad Allweddol",
+      "options": [
+        "Gwrthwynebodd y Proffwyd a chafodd ei felltithio yn y Quran",
+        "Arweiniodd fyddin i ddinistrio'r Kaaba",
+        "Ceisiodd ladd y Proffwyd trwy daflu cerrig",
+        "Gwrthododd gredu yn hollti'r lleuad",
+        "Adeiladodd dŵr i gyrraedd y nefoedd"
+      ],
+      "answer": "Gwrthwynebodd y Proffwyd a chafodd ei felltithio yn y Quran"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Tân Uffern yn Llosgi",
+        "Staff Musa",
+        "Arch Nuh",
+        "Ffynnon Zamzam",
+        "Y Llo Aur"
+      ],
+      "answer": "Tân Uffern yn Llosgi"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Bydd yn mynd i mewn i'r Tân llachar, a ni fydd ei gyfoeth o fudd iddo",
+        "Edifarhaodd a daeth yn gredwr",
+        "Cafodd faddeuant ar ôl iddo ddatgelu ei fod wedi’i ddweud",
+        "Bu farw fel merthyr",
+        "Cafodd ei gymryd i fyny i'r nefoedd"
+      ],
+      "answer": "Bydd yn mynd i mewn i'r Tân llachar, a ni fydd ei gyfoeth o fudd iddo"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

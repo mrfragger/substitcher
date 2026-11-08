@@ -1,0 +1,61 @@
+{
+  "title": "Hindrunin við hið forna hús",
+  "intro": "Í hinni helgu borg sjóðaði öflug persóna af reiði þegar nýr boðskapur fór að breiðast út. Þessi einstaklingur, sem nafn varð samheiti yfir andstöðu við sannleikann, horfði á áhrif sín molna undan þunga guðlegrar opinberunar. Hver var þessi sál, sem örlög voru ráðin í sandinum á frægum vígvelli?",
+  "clues": [
+    "Ég var höfðingi meðal fólks míns, þekktur fyrir auð og áhrif í borg þar sem fornt helgidómur var.",
+    "Þegar maður úr ættbálki mínum byrjaði að boða boðskap um einn Guð, hæddist ég að honum og opinberunum hans og kallaði þær einungis sögur úr fortíðinni.",
+    "Ég stóð frammi fyrir þessum manni þegar hann baðst fyrir nálægt hinni helgu byggingu og hótaði að stöðva tilbeiðslu sína með valdi ef nauðsyn krefði.",
+    "Ég var meðal leiðtoganna sem lögðu á ráðin um að þagga niður í nýju trúnni og stóðust fylgjendur hennar bæði með orðum og vopnum.",
+    "Ég gekk með her til staðar sem heitir Badr, fullviss um að við myndum knésetja þennan litla hóp trúaðra.",
+    "En á þeim vígvelli leið lífi mínu undir lok og dauði minn varð þeim sem halda áfram að trúa ekki eftir skýr merki að verðleikum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Abú Jahl",
+        "Abú Súfjan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Útbah ibn Rabi'ah"
+      ],
+      "answer": "Abú Jahl"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að koma í veg fyrir að spámaðurinn bæðist fyrir í Kaaba",
+        "Að byggja Kaaba",
+        "Að skrifa Kóraninn",
+        "Að leiða her fílanna",
+        "Að kljúfa tunglið"
+      ],
+      "answer": "Að koma í veg fyrir að spámaðurinn bæðist fyrir í Kaaba"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Kaaba",
+        "Örk spámannsins Nuh",
+        "Starfsfólk spámannsins Músa",
+        "Gullkalfurinn",
+        "Hásæti drottningarinnar af Saba"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Lést í orrustunni við Badr",
+        "Iðraði sig og gerðist múslimi",
+        "Flótti til Abessiníu",
+        "Lést á ári fílsins",
+        "Varð félagi spámannsins"
+      ],
+      "answer": "Lést í orrustunni við Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

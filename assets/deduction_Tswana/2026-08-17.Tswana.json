@@ -1,0 +1,61 @@
+{
+  "title": "Tlolomolao ya Lebopo",
+  "intro": "O eme mo motlhabeng wa lebopo le le lebetsweng, kwa makhubu a sebasebang a setšhaba se se lekilweng ke taelo ya bomodimo. Mowa o bokete ka kgakologelo ya tlolomolao e e neng ya baka phetogo e e gakgamatsang. Meya eno e ne e le bomang, mme teko ya bone e ne e le ya mofuta ofe?",
+  "clues": [
+    "Re ne re le morafe o o neng wa amogela taelo e e tlhamaletseng go tswa go Morena wa rona, le fa go ntse jalo re ne ra bona ditsela tsa go e ganetsa.",
+    "Re ne re nna gaufi le metsi mangwe, mme botshelo jwa rona bo ne bo ikaegile ka dibopiwa tsa teng.",
+    "Teko e ne ya tla mo go rona ka letsatsi le re neng ra laelwa gore re ikgaphe mo dilong tsa lefatshe.",
+    "Dibopiwa tsa metsi di ne tsa tla kwa go rona ka bontsi ka lone letsatsi leo, tsa re raela go feta boitshoko.",
+    "Re ne ra loga leano la boferefere la go tila thulaganyo ya bomodimo, re akanya gore re ka feta taelo eo ka botlhale.",
+    "Tlolo ya rona e ne ya dira gore re fetoge ka tsela e e tlhabisang ditlhong; re ne ra nna ditshwene tse di nyatsegang ka taelo ya ga Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Batho ba Sabata",
+        "Batho ba Rass",
+        "Batho ba Tubba",
+        "Batho ba Logaga",
+        "Batsala ba Mosele"
+      ],
+      "answer": "Batho ba Sabata"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go bonala ga ditlhapi ka Sabata",
+        "Ngwaga wa komelelo e kgolo",
+        "Mophato wa dinonyane o rometswe kgatlhanong le bone",
+        "Morwalela o o neng wa ba hupetsa",
+        "Thoromo ya lefatshe e e maatla"
+      ],
+      "answer": "Go bonala ga ditlhapi ka Sabata"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Lewatle",
+        "Thaba",
+        "Logaga",
+        "Mokgatšha wa sekaka",
+        "Motse o o sireleditsweng"
+      ],
+      "answer": "Lewatle"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E fetogile ditshwene",
+        "E meditswe ke lefatshe",
+        "E sentswe ke phefo e e goang",
+        "O nwetse mo lewatleng",
+        "O iteilwe ke pula ya matlapa"
+      ],
+      "answer": "E fetogile ditshwene"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

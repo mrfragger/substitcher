@@ -1,0 +1,61 @@
+{
+  "title": "Motse o Lebopong la Nyeoe",
+  "intro": "U iphumana u le motsaneng o lebōpong la leoatle, moo molumo oa maqhubu o tsoakanang le menyenyetsi ea batho ba lebetsoeng. Ba ile ba fuoa taelo ea phomolo, empa meharo ea bona e ile ea lebisa kotlong e ntseng e buuoa ka mantsoe a khutsitseng. Na u ka senola hore na ke bo-mang?",
+  "clues": [
+    "Re ne re lula lebopong 'me re filoe taelo ea ho boloka letsatsi la phomolo.",
+    "Ka letsatsi leo, litlhapi li ne li tla ho rona ka bongata, empa re ne re thibetsoe ho li nka.",
+    "Ba bang har'a rona ba ile ba lemosa khahlanong le tlōlo ea molao, empa ba bang ba ile ba rera ho tšoasa litlhapi leha ho le joalo.",
+    "Re tlōtse taelo e halalelang 'me ra itlisetsa kotlo e boima.",
+    "Kotlo ea rona e bile phetoho e re siileng re senyehile 'me re hlabiloe ke lihlong.",
+    "Re ile ra fetoloa litšoene, e le pontšo ho bohle ba tlang ho tla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba Sabatha",
+        "Batho ba Thamud",
+        "Batho ba 'Ad",
+        "Batho ba Lehaha",
+        "Batho ba Tlou"
+      ],
+      "answer": "Batho ba Sabatha"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho tšoasa litlhapi ka Sabatha",
+        "Ho rapela namane ea khauta",
+        "Ho latola molaetsa oa Hud",
+        "Ho bolaea kamele e tšehali",
+        "Ho haha ​​tora ho ea leholimong"
+      ],
+      "answer": "Ho tšoasa litlhapi ka Sabatha"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Tlhapi",
+        "Kamele e tšehali",
+        "Basebetsi",
+        "Sekepe",
+        "Serapa"
+      ],
+      "answer": "Tlhapi"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E fetohile litšoene",
+        "E sentsoe ke moroallo",
+        "E sentsoe ke mollo o tukang",
+        "E metsoa ke lefats'e",
+        "E hasantsoe ke moea"
+      ],
+      "answer": "E fetohile litšoene"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

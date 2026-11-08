@@ -1,0 +1,61 @@
+{
+  "title": "Görünməmiş Günahın Xəbərçisi",
+  "intro": "Qurandakı bəzi hekayələr bütün cəmiyyətin düşə biləcəyi fəsadın dərinliyini göstərir. Bu elçi təkbaşına dayanaraq, heç bir ümmətin özlərindən əvvəl etmədiyi bir azğınlıqda boğulan bir xalqa yalvarırdı. İllərdir xəbərdarlıq edilməsinə baxmayaraq, ürəklər sərtləşdi və ilahi hökm çox dəhşətli bir şəkildə gəldi. Allahın bu nəcib elçisini tanıya bilərsinizmi?",
+  "clues": [
+    "Mən, onlardan əvvəl heç bir ümmətin etmədiyi bir azğınlığa qərq olmuş bir qövmə xəbərdarlıq edən bir peyğəmbər kimi göndərildim.",
+    "Qövmüm məni yalançı adlandırdı və məni və ardıcıllarımı bu torpaqdan qovmaqla hədələdi.",
+    "Hörmətli qonaqlar evimə hücum edən gənc kişilər şəklində gəldilər və onların təhlükəsizliyi üçün dərin bir narahatlıq hiss etdim.",
+    "Qövmüm qonaqlarımı onlara təslim etməyimi tələb etdi, halbuki bu qonaqların Allahın göndərdiyi mələklər olduğunu bilmirdilər.",
+    "Həyat yoldaşım mənim inancımı bölüşmədi və məhkumlarla birlikdə geridə qalmağı seçdi.",
+    "Sübh tezdən dəhşətli daş yağışı yağarkən və şəhərlərimiz alt-üst olanda mən və qızlarım xilas olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Lut peyğəmbər",
+        "Şüeyb peyğəmbər",
+        "Hud peyğəmbər",
+        "Nuh peyğəmbər",
+        "Peyğəmbər Saleh"
+      ],
+      "answer": "Lut peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Yer üzünü bürüyən böyük bir sel",
+        "Uzun müddət əziyyət çəkənlərin görmə qabiliyyətinin itirilməsi",
+        "Tanrılıq iddiasında olan bir zalım",
+        "Alovlu bir oda atılmaq",
+        "Hörmətli qonaqları təslim etmək tələb olunur"
+      ],
+      "answer": "Hörmətli qonaqları təslim etmək tələb olunur"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Əl ilə tikilmiş böyük bir gəmi",
+        "Dənizi iki yerə bölən bir əsa",
+        "Möcüzəvi bir dişi dəvə",
+        "Alovlu bir od",
+        "Devrilmiş şəhərlər"
+      ],
+      "answer": "Devrilmiş şəhərlər"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Möminləri təqib edərkən boğuldu",
+        "Alovlu sobadan sağ-salamat xilas oldu",
+        "Diri-diri göylərə qaldırıldı",
+        "Ailə böyük daşqında həlak oldu",
+        "Xəyanətkar arvaddan başqa ailə xilas edildi"
+      ],
+      "answer": "Xəyanətkar arvaddan başqa ailə xilas edildi"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

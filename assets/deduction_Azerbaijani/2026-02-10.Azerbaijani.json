@@ -1,0 +1,60 @@
+{
+  "title": "Əsrlərin Yuxusu",
+  "intro": "Zamanla səyahətə çıxmaq üzrəsiniz və iman və ilahi gücün dərin bir sirri ilə qarşılaşacaqsınız. Təsəvvür edin ki, cəmiyyətlərinin normalarına qarşı çıxan, şirk dünyasında təkallahlığa yapışan bir qrup insan var. Onların hekayəsi Allahın saleh qullarını ən qeyri-adi yollarla qorumaq qabiliyyətinin sübutudur. Bu əlamətdar şəxsiyyətlərin kimliyini aça bilərsinizmi?",
+  "clues": [
+    "Xalqımızın geniş yayılmış şirkə baxmayaraq, tək Tanrıya inanan kiçik bir gənc qrup idik.",
+    "Bizi imanımıza görə təhdid edən zalım bir hökmdardan qaçdıq, təqib və ölümdən qorxduq.",
+    "Biz Allahın rəhmətini və zalımlardan qorunmağı ümid edərək tənha bir yerə sığındıq.",
+    "Rəbbimiz bizi dərin bir yuxuya, zamanın keçməsinə mane olan möcüzəvi bir yuxuya saldı.",
+    "Oyandığımız zaman, həqiqətən də nə qədər uzun bir müddətin keçdiyinin fərqində olmadan, yalnız bir gün və ya günün bir hissəsi istirahət etdiyimizi düşündük.",
+    "Quranda deyilir ki, biz üç yüz il öz vəziyyətimizdə qaldıq və doqquz il də əlavə olaraq insanlar üçün bir ibrət olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Xəndək Xalqı",
+        "Səmud xalqı",
+        "Mağara Əhli",
+        "Mədyən xalqı",
+        "Filin Əshabı"
+      ],
+      "answer": "Mağara Əhli"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük bir daşqınla üz-üzə",
+        "Torpaq tərəfindən udulmaq",
+        "Uzun möcüzəvi yuxu",
+        "Onların şəhərinin məhv edilməsi",
+        "Dənizin iki yerə bölünməsi"
+      ],
+      "answer": "Uzun möcüzəvi yuxu"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Yanan bir kol",
+        "Bir dağ",
+        "Qayıq",
+        "Mağara",
+        "Bir quyu"
+      ],
+      "answer": "Mağara"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Onlara böyük sərvət və güc verildi",
+        "Onlar meymunlara və donuzlara çevrildilər",
+        "Onlar dərin bir əlamət olaraq yuxudan oyandılar",
+        "Onlar böyük bir daşqında boğuldular",
+        "Onlar möhtəşəm bir krallıq qurdular"
+      ],
+      "answer": "Onlar dərin bir əlamət olaraq yuxudan oyandılar"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

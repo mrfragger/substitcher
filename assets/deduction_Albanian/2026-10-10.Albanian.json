@@ -1,0 +1,61 @@
+{
+  "title": "Skauti me pendë",
+  "intro": "Brenda një mbretërie të sunduar nga një person të cilit i është dhënë sundim mbi erërat, qeniet e padukshme dhe krijesat e qiellit, një anëtar i vogël dhe i shpejtë u zhduk nga radhët - vetëm për t'u kthyer me zbulesa që do të riformësonin fatin e një kombi të largët. Ky informator me sy të mprehtë nxori të vërtetën në dritë aty ku injoranca kishte zënë rrënjë. Kush jam unë?",
+  "clues": [
+    "Unë shërbeva në një oborr ku njerëzit, qeniet e padukshme dhe krijesat e qiellit i përgjigjen një sundimtari të vetëm të urtë që komandonte vetë erërat.",
+    "Mungova në postin tim për një farë kohe dhe më ishte premtuar zemërimi i sundimtarit nëse nuk do të jepja një arsye të kënaqshme.",
+    "Unë jam një krijesë e vogël fluturuese, e njohur për shikim të mprehtë, dhe lloji im u nderua me emërtim të drejtpërdrejtë në faqet e zbulesës.",
+    "Kur u ktheva, solla lajme për një vend të largët ku njerëzit i përuleshin diellit, të verbër ndaj Atij që krijoi qiejt dhe tokën.",
+    "Gjeta një grua që sundonte mbi një mbretëri të madhe, të ulur mbi një fron madhështor, pa e ditur kurrë më parë të vërtetën.",
+    "Unë jam ai që zbuloi mbretërinë e Sebait dhe mbajta një letër ftese nga një mbret-profet të cilit iu dha sundim mbi erën."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Pupëza (Hudhud)",
+        "Milingona nga Lugina e Sulejmanit",
+        "Asif ibn Barkhiya",
+        "Ifrit Xhindi",
+        "Një Engjëll i Fronit"
+      ],
+      "answer": "Pupëza (Hudhud)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ekspedita në Mbretërinë e Sabasë (Shebës)",
+        "Përballja me magjistarët e Faraonit",
+        "Përmbytja e Profetit Nuh",
+        "Shkatërrimi i popullit të Adit",
+        "Ndarja e Detit të Kuq"
+      ],
+      "answer": "Ekspedita në Mbretërinë e Sabasë (Shebës)"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Toka e Sabasë (Sheba)",
+        "Mali Sinai",
+        "Arka e Profetit Nuh",
+        "Shpella e Ashab al-Kahf",
+        "Pallati i Faraonit"
+      ],
+      "answer": "Toka e Sabasë (Sheba)"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Bilqisi iu nënshtrua oborrit të Sulejmanit.",
+        "Faraoni dhe ushtria e tij u mbytën në det",
+        "Populli i Adit u shkatërrua nga një erë e fortë",
+        "Magjistarët e Faraonit besonin në Profetin Musa",
+        "Një përmbytje e madhe i përpiu jobesimtarët"
+      ],
+      "answer": "Bilqisi iu nënshtrua oborrit të Sulejmanit."
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

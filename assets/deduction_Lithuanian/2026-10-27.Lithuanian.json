@@ -1,0 +1,61 @@
+{
+  "title": "Apgultis po staigaus dangaus",
+  "intro": "Stovite priešais grėsmingą armiją, artėjančią prie gerbiamos šventovės, visi ginklai paruošti, o pergalė, regis, garantuota. Prieš prasidedant puolimui, virš galvos pasirodo netikėta jėga, ir kova pakrypsta taip, kaip niekas nenumatė.",
+  "clues": [
+    "Žygiavome su pasitikėjimu, kurio negalėjo supurtyti jokia žemiška jėga.",
+    "Atsivežėme galingų dramblių, ir atrodė, kad mūsų pajėgos buvo sutelktos aplink juos.",
+    "Atvykome nugriauti gerbiamą šventovę, tikėdami, kad mūsų pergalė jau neabejotina.",
+    "Kai jį pasiekėme, dangumi virš mūsų praskriejo pulkas.",
+    "Paukščiai svaidė į mūsų karius sukietėjusio molio akmenis.",
+    "Buvome taip visiškai nugalėti, kad mūsų galinga jėga subyrėjo ir išsibarstė lyg pelenai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Dramblio žmonės",
+        "Du princai",
+        "Juozapo broliai",
+        "Alacho tarnas Dhul-Kifle",
+        "Teisiojo žmogaus draugai"
+      ],
+      "answer": "Dramblio žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Dramblių vadovaujamas puolimas prieš Kaabą",
+        "Jūra prasiskiria prieš išgabentą grupę",
+        "Arkos užgrobimas tironiškų žmonių",
+        "Naktinė kelionė tarp dviejų mečečių",
+        "Raupsuotojo išgydymas dieviška galia"
+      ],
+      "answer": "Dramblių vadovaujamas puolimas prieš Kaabą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Paukščiai, nešiojantys molio granules",
+        "Gofermedžio arka",
+        "Personalas virto gyvate",
+        "Akmuo, užantspauduotas ženklu",
+        "Degantis krūmas"
+      ],
+      "answer": "Paukščiai, nešiojantys molio granules"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jų galinga jėga subyrėjo lyg pelenai",
+        "Jie saugiai perplaukė jūrą",
+        "Jie nesužeisti ėjo per liepsnojančią krosnį",
+        "Jie į Rojų įžengė poromis",
+        "Jie miegojo oloje 309 metus"
+      ],
+      "answer": "Jų galinga jėga subyrėjo lyg pelenai"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

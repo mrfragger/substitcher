@@ -1,0 +1,61 @@
+{
+  "title": "Aydın Seçilmiş",
+  "intro": "İlahi sözlərin endiyi bir dağın kölgəsində, qızıl parıltısı altında bir xalqın imanı sarsıldı. Fəsahət istedadına malik bir ruh daha böyük bir missiyaya dəstək oldu, lakin dərin bir sınaq anı ilə üzləşdi. Seçilmiş elçi müqəddəs bir təyinata yüksələndə bu şəxs geridə qaldı və narahat bir millətə yalvardı. Bütpərəstliyə qarşı səsi ucalmış bu səbatlı ruh kimdir?",
+  "clues": [
+    "Mən Allah tərəfindən peyğəmbər seçildim, baxmayaraq ki, mənim hekayəm tez-tez başqa bir hekayə ilə yanaşı danışılır.",
+    "Məni zalım bir hökmdarın yanına göndərdilər, amma mənim vəzifəm rəhbərlik etmək yox, dəstək olmaq idi.",
+    "Mən bəlağət istedadına malik idim və sözlərim ürəkləri yumşaltmaq üçün nəzərdə tutulmuşdu.",
+    "Yoldaşım müqəddəs bir görüşə gedəndə, narahat bir xalqa rəhbərlik etmək üçün mən qaldım.",
+    "Səbirsizliklə zinət əşyalarından bir surət düzəltdilər və mən onlara Allaha sadiq qalmalarını yalvardım.",
+    "Yoldaşım geri qayıdıb məni tutdu, amma mən dedim ki, camaat məni məğlub edib az qala öldürəcək; mən zalımlardan deyildim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Musa peyğəmbər",
+        "Harun peyğəmbər",
+        "İsa peyğəmbər",
+        "Yəhya peyğəmbər",
+        "Zəkəriyyə peyğəmbər"
+      ],
+      "answer": "Harun peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Oda atılmaq",
+        "Quyuya atılmaq",
+        "Qızıl buzov hadisəsi ilə üzləşmək",
+        "Ağır bir xəstəliyin testi",
+        "Var-dövləti və övladları itirməyin sınağı"
+      ],
+      "answer": "Qızıl buzov hadisəsi ilə üzləşmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qızıl buzov",
+        "İşçilər",
+        "Əhd sandığı",
+        "Tabletlər",
+        "Yanan kol"
+      ],
+      "answer": "Qızıl buzov"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Ağır cəzalandırıldı",
+        "Bağışlanmış və bəraət qazanmış",
+        "Padşah etdi",
+        "Cənnətə aparıldı",
+        "Yeni bir kitab verildi"
+      ],
+      "answer": "Bağışlanmış və bəraət qazanmış"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

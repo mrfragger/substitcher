@@ -1,0 +1,61 @@
+{
+  "title": "Valloittaja kahden horisontin välillä",
+  "intro": "Jumalallisen johdatuksen aikakirjoissa yksi hahmo erottuu muista sekä mahtavana hallitsijana että Allahin nöyränä palvelijana. Tämä henkilö matkusti maan ääriin ja näki auringon nousevan epätavallisen kansan ylle ja laskevan mustaan, sameaan kevääseen. Merkittävintä on, että tälle palvelijalle annettiin tehtäväksi rakentaa poikkeuksellinen suoja suurta pahuutta aiheuttavaa kansakuntaa vastaan. Voitko tunnistaa tämän legendaarisen hahmon Koraanista?",
+  "clues": [
+    "Armollisin antoi minulle vallan ja vaikutusvallan maan päällä",
+    "Matkustin paikkaan, jossa aurinko nousee ja missä se laskee",
+    "Tavoitin ihmisiä, jotka tuskin ymmärsivät sanaakaan",
+    "Minua käskettiin rakentamaan valtava este raudasta",
+    "Tiivistin kahden jyrkän vuoren välisen tilan sulalla metallilla",
+    "En ollut enkeli enkä profeetta, vaan palvelija, jolle Allah antoi suosionsa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Dhu al-Qarnayn (Kaksisarvinen)",
+        "Kuningas Suleiman (Salomon)",
+        "Profeetta Dhul-Kifl",
+        "Dhu al-Nun (Kalojen seuralainen)",
+        "Esteen enkeli"
+      ],
+      "answer": "Dhu al-Qarnayn (Kaksisarvinen)"
+    },
+    "trial": {
+      "label": "Suuri tehtävä",
+      "options": [
+        "Taivaaseen johtavan tornin rakentaminen",
+        "Massiivisen rautaesteen rakentaminen Yajujia ja Majujia vastaan",
+        "Kultaisen valtaistuimen luominen tuomiota varten",
+        "Syvän kaivon kaivaminen vanhurskaille",
+        "Laivan rakentaminen suuren tulvan aikana"
+      ],
+      "answer": "Massiivisen rautaesteen rakentaminen Yajujia ja Majujia vastaan"
+    },
+    "location": {
+      "label": "Asetus",
+      "options": [
+        "Uzairin maa kahden joen välissä",
+        "Auringonnousun paikka ja musta mutainen lähde",
+        "Mekan pyhä laakso",
+        "Madyanin autiomaa",
+        "Kyproksen saari"
+      ],
+      "answer": "Auringonnousun paikka ja musta mutainen lähde"
+    },
+    "outcome": {
+      "label": "Jumalallinen lupaus",
+      "options": [
+        "Ikuinen paratiisi myönnetään välittömästi",
+        "Kansakunta tuhoutui kuuman tuulen vuoksi",
+        "Este kestää tuomiopäivään asti",
+        "Vapaus kuolemasta kaikille uskoville",
+        "Ikuinen valtakunta ilman loppua"
+      ],
+      "answer": "Este kestää tuomiopäivään asti"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nzuzu nke Nnukwu Ọchịchọ",
+  "intro": "Malite njem iji chọpụta njirimara otu òtù nke atụmatụ ya siri ike zutere njedebe a na-atụghị anya ya na nke dị ike. Akụkọ a na-eje ozi dị ka ihe ncheta miri emi nke ike Chineke na adịghị ike nke ike ụwa mgbe ọ na-emegide ihe dị nsọ. Kpughee ihe omimi nke otu a, nke akụkọ ya dị na Quran dị ka ịdọ aka ná ntị nye ndị niile na-achọ ime ihe ọjọọ.",
+  "clues": [
+    "Anyị nwere nnukwu ọchịchọ, na-eche na ike anyị enweghị atụ, wee malite njem nwere ebumnuche doro anya na nke na-ebibi ihe.",
+    "Onye ndu anyị, nke jupụtara n'oke mpako, chọrọ imerụ Ụlọ nsọ nke ọtụtụ mmadụ na-asọpụrụ, na-achọ ịtụgharị njem nsọ gaa n'ụlọ anyị wuru.",
+    "Site n'ala dị anya, anyị ji nnukwu ndị agha zọọ ije, na-enwe obi ike na anyị nwere ike ịkwatu ụlọ ochie dị n'Obodo Nsọ ahụ.",
+    "Ndị agha anyị dị egwu, ndị e kere eke mara mma na-edu, ihe a na-ahụkarị, ma ọ bụrụ na ọ dịtụbeghị mgbe anyị hụrụ ya n'oge agha dị otu a nke ndị bi n'ala anyị wakporo.",
+    "Mgbe anyị rutere ebe anyị na-aga, Chineke tinyere aka n'ihe mberede; obere ihe ndị nwere nku pụtara, na-atụba anyị nkume ụrọ e ji ụrọ kpụọ.",
+    "Njem anyị niile bịara ná njedebe dị egwu, wee hapụ ike anyị dị egwu ka e bibie ya kpamkpam, dị ka ahịhịa a na-ata ata, atụmatụ anyị dị ukwuu wee ghọọ uzuzu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị Temọd",
+        "Ndị 'Ad'",
+        "Ndị Sọdọm",
+        "Ndị nke Enyí",
+        "Ndị Ubi ahụ"
+      ],
+      "answer": "Ndị nke Enyí"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Oké Iju Mmiri ahụ",
+        "Mkpọsa megide Kaaba",
+        "Mbibi nke Arụsị",
+        "Nkewa nke Oké Osimiri",
+        "Ala Ọma Jijiji nke Midian"
+      ],
+      "answer": "Mkpọsa megide Kaaba"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Igbe ahụ",
+        "Ndị Ọrụ ahụ",
+        "Kaaba",
+        "Nwa Ehi Ọlaedo ahụ",
+        "Ọkụ ahụ"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Nzọpụta Chineke",
+        "Ogologo oge nke ọganihu",
+        "Mgbanwe gaa na Alakụba",
+        "Mbibi zuru oke",
+        "A chụpụrụ ha n'ala ha"
+      ],
+      "answer": "Mbibi zuru oke"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

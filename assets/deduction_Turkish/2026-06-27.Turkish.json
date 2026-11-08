@@ -1,0 +1,61 @@
+{
+  "title": "Kutsal Yokluk",
+  "intro": "Zamanın kum tepelerinin ötesinde, sarsılmaz bir bağlılığın ve o kadar ağır bir güvenin öyküsü yatıyor ki, onu taşıyan ruh kırılabilirdi. İnsanlar aptallığa ve altına yönelirken, bir figür dimdik durdu; onları geri çağırdı, sabır için yalvardı ve kutsal bir sözün ağırlığını taşıdı. Bu, kutsal bir yokluk sırasında yardımcı, vezir ve inancın koruyucusu olarak seçilen birinin öyküsüdür. Bu sarsılmaz ruhun kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Ben, kutsal bir dağda Allah ile doğrudan konuşmak üzere seçilmiş büyük bir peygamberin kanını taşıyorum.",
+    "Kardeşim bir keresinde, büyük bir zalime karşı açık ve net bir şekilde konuşabilmek için Allah'tan yardım dilemişti.",
+    "Allah beni kardeşimin yanında yardımcı ve vezir olarak durmak üzere seçti.",
+    "Hep birlikte, kendisini tanrıların en yücesi olarak adlandırmayı talep eden zalim bir hükümdarın karşısına çıktık.",
+    "Kardeşim dağda Allah ile iletişim kurarken, bizim halkımız altınlarından kendilerine bir put yaptılar.",
+    "Ben, Allah tarafından veziri olarak atanmış, Kur'an'da adı geçen Musa'nın kardeşiyim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Harun (Harun)",
+        "Peygamber Musa",
+        "Peygamber Davud",
+        "Peygamber Yakub",
+        "Peygamber İshak"
+      ],
+      "answer": "Peygamber Harun (Harun)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Buzağıya Tapınma Krizi",
+        "Nuh'un Büyük Tufanı",
+        "Bedir Muharebesi",
+        "Thamud'un Yıkımı",
+        "Sodom'un Yıkımı"
+      ],
+      "answer": "Buzağıya Tapınma Krizi"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Altın Buzağı",
+        "Nuh'un Gemisi",
+        "Yanan Çalı",
+        "Hira Mağarası",
+        "Saba Tahtı"
+      ],
+      "answer": "Altın Buzağı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Masumiyeti Allah Tarafından Onaylandı",
+        "Firavunun boğulması",
+        "Kabe'nin İnşası",
+        "Denizin Güvenli Geçişi",
+        "Cennete Yükseliş"
+      ],
+      "answer": "Masumiyeti Allah Tarafından Onaylandı"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

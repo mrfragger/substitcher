@@ -1,0 +1,61 @@
+{
+  "title": "Te Tūroro",
+  "intro": "I ngā rā o mua, i ngā rā tōmua o te hītori o te tangata, e rua ngā wairua i tū ki mua i tō rātou Kaihanga me ā rātou whakahere. Kotahi i manakohia, kotahi i kore. Ko te mea i muri mai ka waiho hei aituā nui tuatahi i waenganui i ngā tuākana me ngā teina - he mahi manawanui, he mahi rapu utu kino. Ka taea e koe te hura ko wai ahau?",
+  "clues": [
+    "I whānau mai ahau i ngā rā tuatahi o te oranga o te tangata ki te whenua",
+    "He tamaiti ahau nō te tokorua tuatahi i hikoi i tēnei ao",
+    "I tētahi wā i patua e au tētahi patunga tapu nō te mea pai rawa atu o taku kahui hei whakamanawareka i tōku Kaihanga",
+    "I manakohia taku whakahere e te rangi, ko te whakahere a taku tuakana/teina i whakakahoretia.",
+    "I te wā i whakawehia ai ahau ki te mate, i whiriwhiria e au kia kaua e totoro atu tōku ringa ki tōku tuakana/teina",
+    "Ko au te tangata tuatahi i roto i te hītori o te tangata i patua hetia e tetahi atu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Hāpiri (Āpera), te tama a Ātama",
+        "Ko Qabil (Kaina), te tama a Ātama",
+        "Ātama, te tangata tuatahi",
+        "Noa (Noah)",
+        "Āperahama"
+      ],
+      "answer": "Hāpiri (Āpera), te tama a Ātama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Ko te kohuru tuatahi i roto i te hītori o te tangata",
+        "Te waipuke nui o Noa",
+        "Te whakangaromanga o te ope a Parao",
+        "Te patunga tapu a Ibrahim i a Ismail",
+        "Te whawhai ki a Jalut (Goliata)"
+      ],
+      "answer": "Ko te kohuru tuatahi i roto i te hītori o te tangata"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He hipi i tukua hei patunga tapu e manakohia ana",
+        "He āaka rakau nui",
+        "He tokotoko i huri hei nakahi",
+        "He manu hūpō e kawe ana i te karere kingi",
+        "He awaawa ahi e mura ana"
+      ],
+      "answer": "He hipi i tukua hei patunga tapu e manakohia ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Ko ia te patunga tuatahi o te kohuru i roto i te hītori o te tangata",
+        "I ora i te waipuke nui i roto i te waka rakau",
+        "I noho i roto i te puku o te ika nui",
+        "I whakahaere i ngā jinn, i ngā tāngata, me te hau",
+        "I kopikopiko mō ngā tau e whā tekau i roto i te koraha nui"
+      ],
+      "answer": "Ko ia te patunga tuatahi o te kohuru i roto i te hītori o te tangata"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

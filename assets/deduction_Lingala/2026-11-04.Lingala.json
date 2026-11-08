@@ -1,0 +1,61 @@
+{
+  "title": "eloko ya motuya oyo ezindaki na nse ya lolendo",
+  "intro": "Kanisá ete otɛlɛmi liboso ya bitunga ya bozwi oyo ezali monene mpenza na boye ete komema kaka bafungola ekolɛmbisa etuluku ya bato ya makasi. Nzinga nzinga na bino, mingongo ezali kolendisa komikitisa mpe bokundoli, nzokande lolendo ekoli makasi koleka botondi. Nini esalemaka ntango bounty ekomi test mpe lolendo ekangami na résultat?",
+  "clues": [
+    "Nazalaki na kati ya bato ya Musa, nzokande nabukaki bango.",
+    "Bapesaki ngai biloko ya motuya mingi mpenza na boye ete bafungola na yango ekopesa kilo na etuluku ya bato ya makasi.",
+    "Napesamaki toli na bato na ngai ete nasepela te mpe naluka sima ya sima kozanga kobosana eteni na ngai ya mokili oyo.",
+    "Nazalaki koloba ete biloko oyo nazalaki na yango epesamelaki ngai kaka mpo na boyebi oyo nazalaki na yango.",
+    "Nazalaki kosala parade liboso ya bato na ngai na biloko ya kokembisa, mpe baoyo bazalaki na mposa ya bomoi ya mokili bazalaki na mposa lokola oyo nazalaki na yango.",
+    "Namelisamaki na mabele elongo na esika na ngai ya kofanda, mpe moko te akokaki kosalisa ngai mpe nakokaki te komisunga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Qarun",
+        "Namrud, oyo azali",
+        "Jalut ezali",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Amikumisaki mpo na bomengo mpe awanganaki boboto ya Allah atako toli",
+        "A défier Ibrahim na oyo etali kopesa vie na liwa",
+        "Akambaki limpinga moko mpo na kobundisa Talut mpe Dawud",
+        "Bikeko oyo eyemami mpo bato básambela",
+        "Abomaki ndeko moko mpo na zuwa mpo na likabo moko"
+      ],
+      "answer": "Amikumisaki mpo na bomengo mpe awanganaki boboto ya Allah atako toli"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Bafungola ya biloko ya motuya minene",
+        "Sanduku ya Boyokani",
+        "Mwana ya ngɔmbɛ ya wolo ya biloko ya kokembisa",
+        "Barrage oyo ezali kati na bangomba mibale",
+        "Minzoto zomi na moko na ndoto"
+      ],
+      "answer": "Bafungola ya biloko ya motuya minene"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Emelami na mabele na bovandi mpe na bomengo",
+        "Azindi na mbu tango azalaki kolanda Musa",
+        "Abetamaki na nse na libanga moko oyo eutaki na libenga ya Dawud",
+        "Ebebisamaki na mopɛpɛ makasi mpo na kokanga nsinga ya kamela ya mwasi",
+        "Ebongwanaki ba singes mpo na kobuka Sabata"
+      ],
+      "answer": "Emelami na mabele na bovandi mpe na bomengo"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

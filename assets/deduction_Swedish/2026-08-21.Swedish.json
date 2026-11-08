@@ -1,0 +1,61 @@
+{
+  "title": "Skuggan bakom tronen",
+  "intro": "Du står i hoven i ett mäktigt forntida kungarike, där en mäktig härskare har utropat sig själv till gud över hela folket. Bredvid denne härskare står en hängiven tjänare, anförtrodd kungarikets största ambitioner. Tillsammans konspirerar och planerar de, och vägrar att lyssna på varningarna från en budbärare som skickats för att vägleda dem. Kan du avslöja vem denne lojale tjänare var?",
+  "clues": [
+    "Jag levde i ett mäktigt kungarike styrt av en mäktig person som gjorde anspråk på gudomlighet över alla människor.",
+    "Jag tjänstgjorde som en betrodd minister åt denne härskare och utförde alla deras ambitioner och befallningar.",
+    "När en av Allahs budbärare kom till vårt land och kallade oss till sanningen, vägrade min härskare och jag att lyssna.",
+    "Jag befalldes att tända en stor eld och förbereda tegelstenar av lera för ett storslaget bygge.",
+    "Min härskare ville uppföra en så hög byggnad att den skulle nå ända upp till himlen.",
+    "Till slut sveptes jag, min härskare och våra arméer bort och drunknade i havets djup."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Bygga ett torn för att nå himlen",
+        "Att kastas in i en flammande eld",
+        "Att väcka ett folk från dyrkan av stenavgudar",
+        "Att dela månen som ett gudomligt tecken",
+        "Att erövra en mäktig stad på gudomlig befallning"
+      ],
+      "answer": "Bygga ett torn för att nå himlen"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Ett torn av brända lertegelstenar",
+        "En vals mage",
+        "En helig källa i öknen",
+        "En brinnande buske på ett heligt berg",
+        "En ark som bär en utvald familj"
+      ],
+      "answer": "Ett torn av brända lertegelstenar"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Drunknade i havets djup",
+        "Lyfts i säkerhet i ett magnifikt palats",
+        "Räddad från en stor fisks buk",
+        "Ärad med kungadöme och gudomlig visdom",
+        "Förvandlades till stoft av ett genomträngande rop"
+      ],
+      "answer": "Drunknade i havets djup"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Creidmheach faoi Cheilt i gCúirt an Tíoránaigh",
+  "intro": "Laistigh de hallaí órga an rialóra is sotalach a raibh aithne ag an gCorán air - áit a raibh easaontas leis an Diaga ina shainiú ar gach foraithne - shiúil anam amháin i measc na ndaoine pribhléideacha, ag ceilt na rúin is contúirtí os comhair a scáileáin. Bhí creideamh chomh toirmiscthe sin ag an duine seo laistigh de na ballaí sin go gciallódh a fhionnachtain bás cinnte. Ach dhóigh an ciontú cosúil le lasair faoi na luaithreach, agus nuair a tháinig an nóiméad, ghlaoigh an fhírinne amach le misneach a chroith bunús phálás an tíoránaigh.",
+  "clues": [
+    "Bhí cónaí orm i measc chiorcal istigh an rialóra ba chumhachtaí agus ba sotalach de mo linne, timpeallaithe ag só agus tionchar.",
+    "Cheil mé mo fhíorchreideamh go domhain i mo chroí, agus eagla orm go mbeadh mo shaol ann ó na daoine a rialaigh le cruálacht agus le leatrom.",
+    "Nuair a bhí amhras agus luain ar mo mhuintir i bhfianaise na fírinne, sheas mé chun tosaigh chun rabhadh a thabhairt dóibh faoin gcinniúint thragóideach a thit ar náisiúin san am atá thart a dhiúltaigh teachtairí a dTiarna.",
+    "Chuir mé i gcuimhne do mo mhuintir scéal faoi bhrionglóidí óg a raibh grá aige dóibh a cuireadh ar leataobh ag a ghaolta féin ach a d’éirigh le húdarás mór a bhaint amach i dtír i bhfad i gcéin.",
+    "D’áitigh mé ar mo mhuintir gan géilleadh don rialóir a threoraigh ar strae iad, ach ina ionad sin thug mé cuireadh dóibh mé a leanúint ar chonair na fíréantachta agus na treorach.",
+    "Labhair mé an fhírinne go hoscailte cé gur bhagair lucht leanúna an tíoránaigh clocha a chaitheamh orm nó mé a dhíbirt as an tír."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Creidmheach Folaithe ó Theaghlach Pharaoh",
+        "Patriarch Foighneach a Ghuil go Dall go dtí gur Fhill a Mhac",
+        "Seirbhíseach Dílis a raibh a Ghalar Craicinn Leighisithe sa Deireadh",
+        "Mac Peacach a Dhiúltaigh Cuireadh Fáidh chun Bordáil na hÁirce",
+        "Tíoránach Gan Trua a Mhaígh Diagacht dóibh Féin"
+      ],
+      "answer": "An Creidmheach Folaithe ó Theaghlach Pharaoh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Creideamh a cheilt i gcúirt tíoránta",
+        "Ag fulaingt daille ó bhlianta ag gol",
+        "Á thástáil ag cailliúint teaghlaigh agus ag anró throm",
+        "Ag tógáil long mhóir agus magadh fúithi",
+        "Ag fulaingt teas loiscneach tine mhóir"
+      ],
+      "answer": "Creideamh a cheilt i gcúirt tíoránta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Pálás an Fharó",
+        "Buaic sléibhe inar tógadh áirc",
+        "Gleann naofa faoi Shliabh Shíonáí",
+        "Gairdín iontach le dhá shruthán ag sileadh",
+        "Ríchathaoir chriostail os cionn abhann faoi thalamh"
+      ],
+      "answer": "Pálás an Fharó"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Cosaint dhiaga agus na fir chosanta ag teacht salach ar a scrios",
+        "Athcheangailte leis an teaghlach tar éis blianta fada de scaradh",
+        "Bronnadh foighne, sláinte ar ais agus teaghlach níos mó air",
+        "Sábháladh ar bhád é agus bádh an chuid eile den domhan",
+        "Tarrtháladh gan díobháil ó na lasracha ar ordú Allah"
+      ],
+      "answer": "Cosaint dhiaga agus na fir chosanta ag teacht salach ar a scrios"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

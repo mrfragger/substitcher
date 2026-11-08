@@ -1,0 +1,61 @@
+{
+  "title": "Bihar di bin qûmê de",
+  "intro": "Di salnameyên Quranê de, kesayetiyek bi sebrek mezin rastî ceribandinek hat ku dê dilên herî bihêz jî bişkîne. Her tişt - dewlemendî, malbat û tenduristî - hate dizîn. Lê dîsa jî ji kûrahiya bêhêvîtiyê, duayek dilnizm bi awayê herî nediyar hate bersivandin. Hûn dikarin vî giyanê ku çîroka wî ya vejandinê di nav serdeman de deng vedide nas bikin?",
+  "clues": [
+    "Ez bi ceribandinek ewqas dijwar hatim ceribandin ku di seranserê sedsalan de tê bîranîn.",
+    "Min her tiştê ku girîng bû winda kir - dewlemendiya min, zarokên min, û tenduristiya min.",
+    "Laşê min bi birînên biêş hatibû nixumandin, û her kesî ez ji bîr dikir.",
+    "Di bêhêvîtîya xwe de, min gazî Xwedê kir û got ku şeytan bi zehmetî û azarê li min daye.",
+    "Xwedê bersiva min da û ji min re got ku ez bi lingê xwe li erdê bidim.",
+    "Ji wî cihî, kaniyeke sar vebû û Xwedê malbata min sererast kir û wek rehmet wan du qat kir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Eyûb",
+        "Pêxember Mûsa",
+        "Pêxember Îlyas",
+        "Pêxember Suleyman",
+        "Pêxember Dawud"
+      ],
+      "answer": "Pêxember Eyûb"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Nexweşiya giran û windakirina malbat û dewlemendiyê",
+        "Ji aliyê balînayek mezin ve tê daqurtandin",
+        "Sirgûnkirin ji bajarê Mekkeyê",
+        "Zindan di bîreke kûr de",
+        "Rûbirûbûna bi desthilatdarekî serhişk re"
+      ],
+      "answer": "Nexweşiya giran û windakirina malbat û dewlemendiyê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Bihareke sar ji erdê",
+        "Qeyik li ser lehiyek mezin",
+        "Dara ku deryayê parçe kir",
+        "Textekî bilindkirî yê ji şûşeyê",
+        "Şikefteke dîwarkirî ji bo razanê"
+      ],
+      "answer": "Bihareke sar ji erdê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Malbat û dewlemendî ji nû ve hatine sererastkirin û du qat zêde bûne",
+        "Derketin ji zikê masiyek",
+        "Derbasbûna ewle bi nav avên cuda",
+        "Padîşahiyek ku ji bo hikumdariyê hatiye dayîn",
+        "Zayîna mûcîzeyî ya kurekî di pîrbûnê de"
+      ],
+      "answer": "Malbat û dewlemendî ji nû ve hatine sererastkirin û du qat zêde bûne"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

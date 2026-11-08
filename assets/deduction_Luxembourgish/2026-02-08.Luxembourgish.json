@@ -1,0 +1,60 @@
+{
+  "title": "D'Rätsel vum wäiten Troun",
+  "intro": "E mächtege Monarch, geseent mat aussergewéinlecher Herrschaft, stoung virun enger spezieller Erausfuerderung mat enger Kinnigin aus engem wäitem Land. De Monarch wollt göttlech Kraaft a Wäisheet demonstréieren an doduerch en onheemlecht Evenement a Bewegung setzen, dat de Gesetzer vun Zäit a Raum widdersprécht. Kënnt Dir d'Detailer vun dësem wonnerbare Virfall ofleeden?",
+  "clues": [
+    "En Herrscher krut immens Muecht, dorënner d'Kontroll iwwer onsichtbar Wesen an d'Fäegkeet, d'Wand ze kommandéieren.",
+    "Dëse Herrscher krut d'Noriicht vun enger räicher Kinnigin, déi d'Sonn ugebiet huet, an huet decidéiert, si un den Haff invitéieren.",
+    "Virun der Arrivée vun der Kinnigin huet d'Herrscherin de Wonsch ausgedréckt, hire prächtege Muechtsëtz aus hirem wäiten Kinnekräich ze bréngen.",
+    "E mächtege Djinn huet ugebueden, den Objet zréckzehuelen, ier den Herrscher aus sengem Conseil kéint opstoen.",
+    "Wéi och ëmmer, een mat engem déiwe Wëssen iwwer déi göttlech Schrëft huet eng nach méi séier Réckgab ugebueden, andeems hien d'Aufgab am Aenbléck fäerdeg bruecht huet.",
+    "Bei senger Arrivée huet den Herrscher den Uerder ginn, den Objet ze veränneren, fir den Intellekt an d'Perceptioun vun der Kinnigin ze testen, wa si endlech am Palais ukomm ass."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prophet/Persoun",
+      "options": [
+        "Prophet Moses",
+        "Prophet David",
+        "Prophet Ibrahim",
+        "Prophet Yusuf",
+        "Prophet Sulayman"
+      ],
+      "answer": "Prophet Sulayman"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Spaltung vum Mier",
+        "D'Gedold an der Widregkeet",
+        "De Bau vum Kaaba",
+        "Den Test vun de Gäert",
+        "Den Troun vun der Kinnigin bréngen"
+      ],
+      "answer": "Den Troun vun der Kinnigin bréngen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark",
+        "D'Personal",
+        "De Bierg",
+        "De Brunn",
+        "Den Troun"
+      ],
+      "answer": "Den Troun"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "E grousst Affer",
+        "E Kinnekräich gegrënnt",
+        "E Vollek bestrooft",
+        "En neie Bund",
+        "D'Ënnerwerfung vun der Kinnigin dem Allah"
+      ],
+      "answer": "D'Ënnerwerfung vun der Kinnigin dem Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

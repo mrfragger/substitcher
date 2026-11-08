@@ -1,0 +1,61 @@
+{
+  "title": "Mfukuzwa wa Mbinguni",
+  "intro": "Kiumbe cha ajabu kinasimama kwenye makutano ya uumbaji na kukataliwa. Hadithi yao ni ya kiburi kisicho na kifani na ukaidi wa mwisho wa amri ya Mungu. Chaguo lao linasikika katika kila kizazi, likiwa jaribio kwa kila roho iliyozaliwa katika ulimwengu huu. Je, unaweza kumtambua adui huyu wa milele?",
+  "clues": [
+    "Nilikuwepo katika tukio lenye umuhimu wa ulimwengu, wakati kiumbe kipya kiliumbwa kutoka kwa udongo na kupewa uhai kwa Pumzi ya Mwenye Rehema.",
+    "Mimi mwenyewe niliumbwa kutoka kwa kipengele kimoja kinachowaka moto, tofauti na kile kilichoumbwa kwa vumbi.",
+    "Amri ilitolewa kwangu ambayo niliiona chini ya nafasi yangu.",
+    "Kiburi kilinijaa, na nilikataa kabisa kutii amri hiyo.",
+    "Nilipewa kuahirishwa hadi Siku iliyopangwa, ili niweze kufuata kusudi langu lililotangazwa la kuwapotosha wengine.",
+    "Mimi ni adui aliyetangazwa wa wote wanaotembea duniani, nikinong'oneza udanganyifu na kuwavuta watoke kwenye njia iliyonyooka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Ibilisi (Shetani)",
+        "Farao (Firauni)",
+        "Hamani",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Ibilisi (Shetani)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alikataa kuinama mbele ya Adamu",
+        "Alidai uungu kwa uwongo",
+        "Alitengeneza ndama wa dhahabu kwa ajili ya ibada",
+        "Alimuua kaka yake kwa wivu",
+        "Aliongoza upinzani wa washirikina huko Makka"
+      ],
+      "answer": "Alikataa kuinama mbele ya Adamu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Paradiso (Jannah)",
+        "Jumba la Farao huko Misri",
+        "Bonde takatifu la Tuwa",
+        "Kina cha bahari",
+        "Bustani ya Sheba"
+      ],
+      "answer": "Paradiso (Jannah)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kupewa muhula hadi Siku ya Hukumu",
+        "Kuzama pamoja na jeshi baharini",
+        "Imemezwa na dunia pamoja na hazina",
+        "Alibadilishwa kuwa nyani kwa kukiuka Sabato",
+        "Kuchomwa na mawe yaliyorushwa kutoka angani"
+      ],
+      "answer": "Kupewa muhula hadi Siku ya Hukumu"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

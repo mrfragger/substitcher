@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tagsibol sa Ilalim ng Buhangin",
+  "intro": "Sa mga tala ng Quran, isang pigura na may matinding pagtitiis ang humarap sa isang pagsubok na wawasak sa pinakamatatag na puso. Lahat ay inalis - kayamanan, pamilya, at kalusugan. Ngunit mula sa kaibuturan ng kawalan ng pag-asa, isang mapagpakumbabang panalangin ang sinagot sa pinaka-hindi inaasahang paraan. Makikilala mo ba ang kaluluwang ito na ang kuwento ng pagpapanumbalik ay umalingawngaw sa paglipas ng mga panahon?",
+  "clues": [
+    "Sinubukan ako ng isang pagsubok na napakatindi na hindi ko malilimutan sa buong panahon.",
+    "Nawala ko ang lahat ng mahalaga sa akin—ang aking kayamanan, ang aking mga anak, at ang aking kalusugan.",
+    "Ang aking katawan ay puno ng masasakit na sugat, at ako ay iniiwasan ng lahat.",
+    "Sa aking kawalan ng pag-asa, nanawagan ako kay Allah, sinasabing hinipo ako ni Satanas ng paghihirap at pagpapahirap.",
+    "Sinagot ako ng Allah at inutusan akong hampasin ang lupa gamit ang aking paa.",
+    "Mula sa mismong lugar na iyon, isang malamig na bukal ang bumulwak, at ibinalik ni Allah ang aking pamilya at dinoble sila bilang isang awa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Ayyub",
+        "Propeta Musa",
+        "Propeta Ilyas",
+        "Propeta Sulayman",
+        "Propeta David"
+      ],
+      "answer": "Propeta Ayyub"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Malubhang sakit at pagkawala ng pamilya at kayamanan",
+        "Nilunok ng isang malaking balyena",
+        "Pagpapatapon mula sa lungsod ng Makkah",
+        "Pagkabilanggo sa isang malalim na balon",
+        "Paghaharap sa isang arogante na pinuno"
+      ],
+      "answer": "Malubhang sakit at pagkawala ng pamilya at kayamanan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang malamig na bukal mula sa lupa",
+        "Isang bangka sa gitna ng matinding baha",
+        "Isang tungkod na humahati sa dagat",
+        "Isang mataas na trono na gawa sa salamin",
+        "Isang napapaderang kuweba para sa pagtulog"
+      ],
+      "answer": "Isang malamig na bukal mula sa lupa"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naibalik at nadoble ang pamilya at kayamanan",
+        "Paglabas mula sa tiyan ng isda",
+        "Ligtas na pagtawid sa naghating tubig",
+        "Isang kaharian na ibinigay upang mamuno",
+        "Ang mahimalang pagsilang ng isang anak na lalaki sa katandaan"
+      ],
+      "answer": "Naibalik at nadoble ang pamilya at kayamanan"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

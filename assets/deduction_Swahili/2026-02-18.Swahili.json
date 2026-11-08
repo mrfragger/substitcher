@@ -1,0 +1,61 @@
+{
+  "title": "Ushahidi Ulio imara",
+  "intro": "Simulizi la kina linajitokeza, likifunua azimio lisiloyumba la jamii katika kukabiliana na udhalimu mkubwa. Hadithi yao hutumika kama ushuhuda wa imani, hata inapokabiliwa na dhabihu ya mwisho. Simulizi hii inatukumbusha nguvu ya imani dhidi ya ukandamizaji unaozidi.",
+  "clues": [
+    "Tulikuwa kundi ambalo hadithi yake inasimuliwa katika sura fupi na yenye nguvu, ikionya dhidi ya mateso.",
+    "Tulikabiliana na mtawala aliyetaka kufuta imani yetu kwa Mungu Mmoja, Bwana wa Kiti cha Enzi, Mwenye Kusifiwa.",
+    "Tulipitia mtihani mbaya sana uliohusisha shimo kubwa lililochimbwa ardhini.",
+    "Tulitazama waumini, wakiwemo watoto wachanga, wakitupwa kwenye moto mkali ndani ya shimo hilo.",
+    "Watesi wetu walilaaniwa kwa matendo yao, huku sisi tukiahidiwa thawabu kubwa kwa uthabiti wetu.",
+    "Jaribio la mtawala kuzima imani yetu liliimarisha nafasi yetu kama mashahidi mbele ya Mwenyezi Mungu, ambaye ni shahidi wa vitu vyote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Thamud",
+        "Watu wa 'Ad",
+        "Watu wa Shimoni",
+        "Watu wa Lut",
+        "Watu wa Tembo"
+      ],
+      "answer": "Watu wa Shimoni"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Gharika Kuu",
+        "Kichaka Kinachowaka Moto",
+        "Kuzama Baharini",
+        "Shimo la Moto",
+        "Tetemeko la Ardhi"
+      ],
+      "answer": "Shimo la Moto"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Shimo",
+        "Mlima",
+        "Kisima"
+      ],
+      "answer": "Shimo"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Walipewa ufalme",
+        "Waliokolewa kwa muujiza",
+        "Kufikia kifo cha kishahidi na Paradiso",
+        "Walitawanyika katika nchi mbalimbali",
+        "Walipewa utajiri mkubwa"
+      ],
+      "answer": "Kufikia kifo cha kishahidi na Paradiso"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

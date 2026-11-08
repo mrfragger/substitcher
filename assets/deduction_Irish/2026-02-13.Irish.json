@@ -1,0 +1,61 @@
+{
+  "title": "Mór-Ghéilleadh an Fhlaitheasa",
+  "intro": "Tá tú i dtír lán d’iontais ársa agus nochtuithe doimhne. Thug rialóir cumhachtach cuireadh gan choinne di agus chuaigh sí ar thuras a d’athródh cúrsa a cinniúint agus creideamh a muintire. An féidir leat céannacht an fhigiúir mhaorga seo a nochtadh?",
+  "clues": [
+    "Bhí mé i ríocht rathúil, maisithe le saibhreas ollmhór agus le ríchathaoir iontach.",
+    "D’adhradh mé féin agus mo mhuintir corp neamhaí, ag creidiúint gurbh é ár dtiarna é, cé go raibh amhras i mo chroí.",
+    "Sheachaid teachtaire aisteach, éan, litir chugam, ag glaoch orm féin agus ar mo mhuintir géilleadh don Aon Dia amháin.",
+    "Chuaigh mé i gcomhairle le mo chomhairleoirí, a bhí cumhachtach, faoi conas freagairt don teachtaireacht gan fasach seo.",
+    "Shocraigh mé bronntanas luachmhar a sheoladh chuig an té a sheol an litir, ag súil le tomhas a dhéanamh ar a chumhacht agus a intinn.",
+    "Nuair a shroich mé an áit, chuir pálás le hurlár gloine, cosúil le linn uisce, iontas orm, agus ansin a dhearbhaigh mé mo ghéilleadh do Thiarna na cruthaithe uile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Faraó",
+        "Banríon Sheba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Fáidh Iósaf"
+      ],
+      "answer": "Banríon Sheba"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Scoilteadh na farraige",
+        "An tuile mhór",
+        "An turas chun bualadh leis an bhFáidh Sulayman",
+        "Scriosadh mhuintir Lut",
+        "Dóiteán an Fháidh Ibrahim"
+      ],
+      "answer": "An turas chun bualadh leis an bhFáidh Sulayman"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "An Ríchathaoir",
+        "An Sliabh",
+        "An Tine"
+      ],
+      "answer": "An Ríchathaoir"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh fáidh de",
+        "Scriosta ag Allah",
+        "Glacadh leis an Ioslam",
+        "Threoraigh sí a muintir chun cogaidh",
+        "Tógadh teampall mór"
+      ],
+      "answer": "Glacadh leis an Ioslam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

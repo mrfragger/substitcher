@@ -1,0 +1,61 @@
+{
+  "title": "Il peso di un dono rifiutato",
+  "intro": "Agli albori della storia umana, quando la terra era ancora giovane e il mondo esalava il suo primo respiro, un'anima si presentò al cospetto del Creatore con un'umile offerta. Quell'offerta fu pesata sulla bilancia dell'accettazione divina e ritenuta insufficiente. Ciò che seguì non fu una storia di perdono, ma di un cuore consumato dalla gelosia, che condusse a un atto irreversibile destinato a riecheggiare per sempre. Questa è la storia di colui il cui nome divenne sinonimo della prima grave ingiustizia mai commessa.",
+  "clues": [
+    "Sono venuto al mondo come uno dei primissimi bambini mai nati, figlio di un genitore la cui storia conoscete bene.",
+    "Una volta ho offerto un sacrificio ad Allah, ma non è stato accettato da me, mentre l'offerta di mio fratello è stata accolta con grazia.",
+    "L'invidia e la rabbia si radicarono nel mio cuore e minacciai di togliere la vita ai miei stessi parenti.",
+    "Mio fratello mi aveva avvertito di temere Allah, ma il mio orgoglio non mi ha permesso di ascoltarlo.",
+    "In un momento di terribile debolezza, ho compiuto un atto indicibile contro mio fratello.",
+    "In seguito, non seppi nemmeno come nascondere ciò che avevo fatto, finché una creatura della terra non venne mandata a insegnarmelo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Qabil (Caino)",
+        "Habil (Abel)",
+        "Il figlio del profeta Nuh",
+        "Profeta Isma'il",
+        "Il profeta Yusuf"
+      ],
+      "answer": "Qabil (Caino)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Un sacrificio offerto che venne rifiutato, portando al primo omicidio.",
+        "Costruire un'imponente torre per raggiungere il cielo",
+        "Essere gettati in un fuoco ardente per la propria fede",
+        "Sacrificare il proprio figlio in obbedienza ad Allah",
+        "Essere inghiottito da un grosso pesce per essere fuggito dal proprio dovere"
+      ],
+      "answer": "Un sacrificio offerto che venne rifiutato, portando al primo omicidio."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un corvo inviato da Allah per dimostrare la sepoltura",
+        "Un grande diluvio che ha sommerso un intero popolo",
+        "Un bastone che si è trasformato in un serpente vivente",
+        "Una cammella emersa da una montagna di roccia",
+        "Un magnifico trono trasportato da venti potenti"
+      ],
+      "answer": "Un corvo inviato da Allah per dimostrare la sepoltura"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Divenne uno dei pentiti, oppresso dal primo crimine mai commesso",
+        "Fu perdonato da Allah e gli fu concesso il Paradiso eterno.",
+        "Fu elevato a un alto rango di profezia e saggezza",
+        "Fu salvato dalla misericordia divina dopo aver invocato dalle profondità delle tenebre",
+        "Gli fu concesso il dominio sui jinn, sul vento e sui mari."
+      ],
+      "answer": "Divenne uno dei pentiti, oppresso dal primo crimine mai commesso"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

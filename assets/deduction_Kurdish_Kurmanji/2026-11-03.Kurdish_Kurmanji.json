@@ -1,0 +1,61 @@
+{
+  "title": "Xewa Rastan",
+  "intro": "Di demekê de ku bawerî xeternak bû û yên bi hêz dixwestin baweriyê bişkînin, komeke piçûk ji giyanên ciwan hilbijartinek kirin ku dê di nav serdeman de deng vede. Ji her tiştê ku ew dizanibûn reviyan, di tariya veşartî ya çiyayekî de penageh dîtin û bi tevahî baweriya xwe bi Xwedê anîn. Tiştê ku paşê qewimî dê ji bo kesên ku difikirin bibe nîşanek bêdem.",
+  "clues": [
+    "Em komeke ciwanan bûn ku baweriya xwe bi Xudanê xwe anîn, û Wî rêberiya me zêde kir.",
+    "Em li pêşberî gelê xwe rawestiyan û me ragihand ku em ji bilî Xwedê tu carî gazî ti xwedayekî nakin.",
+    "Me xwe di şikeftekê de girt û me got: “Xwedayê me, ji xwe re dilovanî bide me û di karê me de rêberiya me bike.”",
+    "Em gelek salan razayî bûn, û roj ji şikefta me dûr diket û me nedida.",
+    "Kûçikê me li ber deriyê şikeftê dirêjkirî dirêjkirî bû û wek ku nobedar be, me diparast.",
+    "Dema ku em şiyar bûn, me meraq kir ku em çiqas li wir man, û yek ji me bi zîvên zîv re şandin ku xwarin bikire."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Xelkê Şikeftê",
+        "Xelkê Xendekê",
+        "Xelkê Şemiyê",
+        "Gelê Fîl",
+        "Hevalbendên Daristanê"
+      ],
+      "answer": "Xelkê Şikeftê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ji bo ku ji ber baweriya xwe ji zilmê xilas bibin, reviyane şikeftekê",
+        "Ji aliyê bayekî tund ve hatiye wêrankirin",
+        "Ji aliyê erdê ve hatiye daqurtandin",
+        "Di deryayê de xeniqî",
+        "Bi bahoza keviran ket"
+      ],
+      "answer": "Ji bo ku ji ber baweriya xwe ji zilmê xilas bibin, reviyane şikeftekê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kûçikek deriyê şikeftê diparêze",
+        "Keştiyeke mezin",
+        "Darek ku veguherî mar",
+        "Çûkekî hoopoe",
+        "Golikê zêrîn"
+      ],
+      "answer": "Kûçikek deriyê şikeftê diparêze"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ew 309 salan di şikeftê de man û dû re wekî nîşanek hatin bilindkirin.",
+        "Ew bûne meymûn",
+        "Ew ji ber lehiyê wêran bûn",
+        "Ew hatin neçar kirin ku derbasî deryayê bibin",
+        "Padîşahiyek hat dayîn ji wan re"
+      ],
+      "answer": "Ew 309 salan di şikeftê de man û dû re wekî nîşanek hatin bilindkirin."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

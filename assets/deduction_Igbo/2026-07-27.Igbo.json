@@ -1,0 +1,61 @@
+{
+  "title": "Onyinye nke Gbanwere Akara Aka",
+  "intro": "N'oge mbụ nke mmadụ, mkpụrụ obi na-enye onyinye nwere ezi ebumnuche. Ma, anyaụfụ zoro n'onyinyo nke nnabata. Chọpụta akụkọ nke onye a nke nsọpụrụ Chineke na njedebe ya dị egwu na-adịgide adịgide n'ime mkpughe Chineke.",
+  "clues": [
+    "Eso m n'ọgbọ mbụ nke ụmụ mmadụ.",
+    "Enyere m Onyenwe m onyinye, a nabatakwara m ya nke ọma.",
+    "A jụrụ onyinye nwanne m nwoke, anyaụfụ gbakwara obi ya.",
+    "Agwara m ya, sị, 'Ọ bụrụ na ị gbatịa aka gị n'ebe m nọ ka ị gbuo m, agaghị m agbatị aka m igbu gị; n'ezie ana m atụ egwu Allah, Onyenwe ụwa.'",
+    "Abụrụ m onye e gburu n'oge mbụ e gburu mmadụ n'ụwa.",
+    "Ọbara m tiri mkpu, abụkwa m onye mbụ nwụrụ n'ihi ihe ọjọọ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Habil (Ebel)",
+        "Qabil (Ken)",
+        "Nwoke si Ya-Sin",
+        "Ndị Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Ebel)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "A nabatara onyinye ya, nke mere ka nwanne ya nwoke nwee anyaụfụ na igbu ọchụ ya.",
+        "A tụbara ya n'ime ọkụ na-ere ọkụ mana ọ pụtara n'enweghị ihe mere ya",
+        "Ọ rụrụ nnukwu ụgbọ mmiri n'okpuru nduzi Chineke",
+        "Azụ̀ ukwu loro ya, ọ nọkwa n'ọchịchịrị.",
+        "O duuru ndị ya gafee oké osimiri nke kewara ekewa"
+      ],
+      "answer": "A nabatara onyinye ya, nke mere ka nwanne ya nwoke nwee anyaụfụ na igbu ọchụ ya."
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Onyinye a nabatara",
+        "Mkpanaka na-aghọ agwọ",
+        "Nne kamel dị ka ihe ịrịba ama Chineke",
+        "Onye na-egwu hoopoe na-eweta ozi",
+        "E ji ọlaedo fee nwa ehi a na-efe ofufe"
+      ],
+      "answer": "Onyinye a nabatara"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Ogbugbu mbụ n'akụkọ ihe mere eme; a mara nwanne ya nwoke ikpe",
+        "Ala loro ya na akụ ya",
+        "Agbanweela ya ka ọ bụrụ enwe n'ihi mmebi iwu",
+        "Ifufe dị ike nke ice bibiri ya",
+        "E gbubiri ya n'ime oke idei mmiri dị ka ntaramahụhụ"
+      ],
+      "answer": "Ogbugbu mbụ n'akụkọ ihe mere eme; a mara nwanne ya nwoke ikpe"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

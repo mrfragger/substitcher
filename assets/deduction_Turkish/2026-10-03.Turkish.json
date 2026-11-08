@@ -1,0 +1,61 @@
+{
+  "title": "Alevli Kapıdaki Nöbet",
+  "intro": "Sessiz, heybetli bir kalabalık, korkunç bir eşikte nöbet tutuyor; ne yiyecek, ne içecek, ne de dinlenme tadına varmıyorlar. İnsan kilinden farklı bir maddeden yaratılmış olan bu kalabalık, tek bir korkunç amacı bekliyor ve Rablerinin tek bir emrine bile karşı gelmemişlerdir.",
+  "clues": [
+    "Bizler, yemeyen, içmeyen ve yorulmayan bir maddeden yaratılmış, insanlardan farklı varlıklarız.",
+    "Tam sayımız Kitap'ta biliniyor ve açıklanıyor; ne sayısızız ne de kalabalık.",
+    "Bizler hiçbir zaman Yaratıcımıza karşı gelmedik, emredilmeden de asla konuşmadık.",
+    "Kıyamet günü geldiğinde, inkârcılar gruplar halinde bize gelecekler ve biz de onlara kapıları açacağız.",
+    "Onlara şöyle soracağız: 'Size kendi soyunuzdan elçiler gelip bu günü size müjdelemediler mi?'",
+    "Biz, hiçbir ruhun asla çıkamayacağı bir yeri koruyoruz; ebedi cezalandırmanın alev alev yanan bir diyarı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Cehennem Ateşinin Muhafızları (Zabaniyah)",
+        "Allah'ın Tahtının Taşıyıcıları",
+        "Kaydedici Melekler (Kiraman Katibin)",
+        "Ölüm Melekleri",
+        "Cennetin Bekçileri"
+      ],
+      "answer": "Cehennem Ateşinin Muhafızları (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Birincil Görevimiz",
+      "options": [
+        "Cehennem ateşinin kapılarını korumak",
+        "Her insan eylemini kaydetmek",
+        "Allah'ın Tahtını Taşımak",
+        "Ölenlerin ruhlarını almak",
+        "Rüzgarlara ve bulutlara hükmetmek"
+      ],
+      "answer": "Cehennem ateşinin kapılarını korumak"
+    },
+    "location": {
+      "label": "Neyi Koruyoruz?",
+      "options": [
+        "Cehennem Ateşi",
+        "Allah'ın Tahtı",
+        "Tapu Kayıtları",
+        "Cennetin Nehirleri",
+        "Yeryüzünün Dağları"
+      ],
+      "answer": "Cehennem Ateşi"
+    },
+    "outcome": {
+      "label": "Bölgemizdekilerin Kaderi",
+      "options": [
+        "Onlar sonsuza dek kalacaklar ve asla ayrılmayacaklar.",
+        "Sonunda affedilecekler ve serbest bırakılacaklar.",
+        "Zamanla arındırılacaklar.",
+        "Bunlar başka biçimlere dönüştürülecektir.",
+        "Cehennem ve cennet arasında gidip gelecekler."
+      ],
+      "answer": "Onlar sonsuza dek kalacaklar ve asla ayrılmayacaklar."
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

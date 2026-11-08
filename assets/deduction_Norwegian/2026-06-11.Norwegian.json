@@ -1,0 +1,61 @@
+{
+  "title": "Landsbyen ved rettssakens bredder",
+  "intro": "Du befinner deg i en kystlandsby, hvor lyden av bølger blandes med hviskingen fra et glemt folk. De fikk en befaling om hvile, men grådigheten deres førte til en straff som fortsatt omtales med dempede toner. Kan du avsløre hvem de var?",
+  "clues": [
+    "Vi bodde ved kysten og fikk befaling om å holde hviledag.",
+    "Den dagen kom det fisk til oss i rikelig mengde, men vi fikk forbud mot å fange den.",
+    "Noen blant oss advarte mot overtredelse, men andre konspirerte om å fiske likevel.",
+    "Vi brøt det hellige budet og pådro oss selv en streng straff.",
+    "Straffen vår var en forvandling som gjorde oss vansiret og vanæret.",
+    "Vi ble forvandlet til aper, et tegn for alle som skulle komme etter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Sabbatens folk",
+        "Folket i Thamud",
+        "Folket i 'Ad",
+        "Folket i hulen",
+        "Elefantens folk"
+      ],
+      "answer": "Sabbatens folk"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Fiske på sabbaten",
+        "Tilbedelse av en gullkalv",
+        "Å fornekte Huds budskap",
+        "Å drepe hunnkamelen",
+        "Å bygge et tårn til himmelen"
+      ],
+      "answer": "Fiske på sabbaten"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Fisken",
+        "En hunnkamel",
+        "En stab",
+        "En båt",
+        "En hage"
+      ],
+      "answer": "Fisken"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Forvandlet seg til aper",
+        "Ødelagt av en flom",
+        "Ødelagt av en voldsom brann",
+        "Svelget av jorden",
+        "Spredt av en vind"
+      ],
+      "answer": "Forvandlet seg til aper"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

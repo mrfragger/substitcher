@@ -1,0 +1,61 @@
+{
+  "title": "Il giardino scomparso nel giro di una notte",
+  "intro": "Immaginate un giardino rigoglioso, carico di frutti maturi e circondato da alberi imponenti. Coloro che lo curavano si credevano astuti, pianificando il raccolto nelle ore tranquille prima dell'alba, lontano dagli occhi di chi ne aveva bisogno. Ma Colui che non dorme mai aveva altri piani per quel tesoro nascosto. Riuscite a indovinare chi si cela dietro questo racconto ammonitore del Corano?",
+  "clues": [
+    "Un tempo possedevamo un giardino così rigoglioso e abbondante da suscitare l'invidia di tutti coloro che passavano di lì.",
+    "Durante la fase di pianificazione, ci siamo sussurrati l'un l'altro di buon mattino, dichiarando che quel giorno non avremmo permesso a nessuna anima bisognosa di entrare.",
+    "Eravamo persone benestanti, e i nostri cuori si erano accecati di fronte ai diritti dei poveri che ci circondavano.",
+    "Quando giunse l'alba del giorno previsto per il raccolto, ci avvicinammo al nostro orto solo per scoprire che, nel giro di una notte, si era trasformato in un cumulo di rovine annerite.",
+    "Un decreto devastante si abbatté sulla regione, lasciando solo cenere dove un tempo pendevano grappoli di frutti maturi.",
+    "La nostra storia è un severo monito riportato nel Corano, dove siamo conosciuti come i proprietari del giardino che negarono la carità ai bisognosi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "I proprietari del giardino",
+        "Il popolo della caverna",
+        "I discepoli di Isa",
+        "I compagni del bosco",
+        "Gli ospiti di Ibrahim"
+      ],
+      "answer": "I proprietari del giardino"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Raccogliere segretamente la frutta ed escludere i poveri",
+        "Dormire per secoli all'interno di una grotta",
+        "Rifiutarsi di far nascere una cammella dalla pietra",
+        "Adorazione di un vitello d'oro sul Monte Sinai",
+        "Costruire una grande arca per sfuggire a un diluvio"
+      ],
+      "answer": "Raccogliere segretamente la frutta ed escludere i poveri"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un giardino recintato pieno di palme e rampicanti",
+        "Una caverna oscura nel profondo delle montagne",
+        "Una città travolta da un uragano divino",
+        "Una valle sacra vicino alla Casa di Allah",
+        "Le sponde di un fiume che scorre"
+      ],
+      "answer": "Un giardino recintato pieno di palme e rampicanti"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il giardino fu consumato da un decreto ardente proveniente dal cielo.",
+        "Dormirono pacificamente per 309 anni lunari.",
+        "Furono schiacciati da una pioggia di pietre.",
+        "Annegarono sotto le onde di una grande alluvione",
+        "Furono dispersi da una raffica di vento gelido e impetuoso."
+      ],
+      "answer": "Il giardino fu consumato da un decreto ardente proveniente dal cielo."
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

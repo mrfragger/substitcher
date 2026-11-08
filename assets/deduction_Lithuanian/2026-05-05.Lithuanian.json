@@ -1,0 +1,61 @@
+{
+  "title": "Žemės apkabinimas",
+  "intro": "Didelių išbandymų metu garsiam asmeniui buvo suteikta didžiulė žemiška gausa – dėkingumo ir nuolankumo išbandymas. Šios asmenybės kelionė yra gili pamoka apie trumpalaikį materialinių turtų pobūdį ir arogancijos pasekmes. Atskleiskite šios sielos, kurios istorija įsirėžusi į pačias po mumis, tapatybę.",
+  "clues": [
+    "Gyvenau tarp žmonių, kuriuos vedė didis pasiuntinys.",
+    "Alachas apdovanojo mane tokiais didžiuliais turtais, kad net raktai nuo mano lobių daugeliui stiprių asmenų buvo sunki našta.",
+    "Mano žmonės, žinodami mano turtus, patarė man ieškoti pomirtinio gyvenimo su tuo, ką man davė Alachas, nepamiršti savo dalies pasaulyje ir daryti gera, kaip Alachas man padarė gera.",
+    "Aš arogantiškai pareiškiau, kad mano didžiuliai turtai buvo pasiekti vien tik mano paties žiniomis ir pastangomis, neigdamas bet kokią dieviškąją malonę.",
+    "Kai manęs paprašė prisidėti arba pripažinti Alacho dosnumą, aš išdidžiai atsisakiau, manydamas, kad mano turtas yra išimtinai mano.",
+    "Dėl mano didžiulės arogancijos ir priespaudos Alachas įsakė žemei atsiverti ir praryti mane ir mano buveinę."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Hamanas",
+        "Abu Lahabas",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įmetimas į ugnį",
+        "Skęstantis jūroje",
+        "Ištremtas iš sodo",
+        "Paverčiamas beždžione",
+        "Prarytas žemės"
+      ],
+      "answer": "Prarytas žemės"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršelis",
+        "Galinga arka",
+        "Kalbantis paukštis",
+        "Stebuklingas personalas",
+        "Didžiuliai lobiai ir raktai"
+      ],
+      "answer": "Didžiuliai lobiai ir raktai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapimas didžiu valdovu",
+        "Dieviškojo apreiškimo gavimas",
+        "Kylant į dangų",
+        "Ilgą pamaldų gyvenimą",
+        "Visiškas sunaikinimas dėl arogancijos"
+      ],
+      "answer": "Visiškas sunaikinimas dėl arogancijos"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

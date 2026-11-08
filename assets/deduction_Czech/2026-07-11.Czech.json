@@ -1,0 +1,61 @@
+{
+  "title": "Cestovatelé zeleného pole",
+  "intro": "V dávných dobách dva jedinci obdělávali sousední země. Jejich cesty se proplétaly, ale jejich srdce je vedla k naprosto odlišným cílům. Jeden šel přímou cestou, zatímco druhý zatoulal do temnoty zapírání. Dokážete rozluštit záhadu těchto dvou strážců úrody?",
+  "clues": [
+    "Měl jsem hojnou úrodu, bujnou úrodu, která oslňovala oči přihlížejících.",
+    "Můj soused vlastnil ještě větší štědrost než já, přesto jsem po jeho podílu toužil víc než po svém.",
+    "Navrhl jsem, abychom jim úplně zničili úrodu, abychom si upevnili kontrolu nad vším.",
+    "Zničil jsem i svou vlastní úrodu, svými pošetilými plány jsem všechno zničil.",
+    "Bezmocně jsem stál, když mi úroda uschla a bohatství se během jediné noci proměnilo v prach.",
+    "Neměl jsem podíl na posmrtném životě a můj poslední příbytek se stal jámou planoucího ohně."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Muž, který popřel vzkříšení a soud",
+        "Vládce, který utlačoval spravedlivého farmáře",
+        "Bohatý statkář, kterému chyběla vděčnost",
+        "Farmář, který toužil po půdě svého souseda",
+        "Zrádný partner, který plánoval zkázu"
+      ],
+      "answer": "Farmář, který toužil po půdě svého souseda"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Zkouška přijetí božského zjevení",
+        "Výzva bohatství a trpělivosti",
+        "Pokušení zničit živobytí spravedlivého člověka",
+        "Příkaz spravedlivého rozdělení dědictví",
+        "Boj proti útlaku tyrana"
+      ],
+      "answer": "Pokušení zničit živobytí spravedlivého člověka"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zelené rajské zahrady",
+        "Dvě sousední pole s plodinami",
+        "Hory, které byly svědky zkázy",
+        "Posvátná svatyně Mekky",
+        "Břehy řek požehnané země"
+      ],
+      "answer": "Dvě sousední pole s plodinami"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Věčný ráj jako odměna za spravedlnost",
+        "Úplné zničení obou úrod v tomto životě",
+        "Vyhnanství a putování až do smrti",
+        "Dočasná prosperita následovaná věčným ohněm",
+        "Zázračná obnova a dvojnásobná odměna"
+      ],
+      "answer": "Úplné zničení obou úrod v tomto životě"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

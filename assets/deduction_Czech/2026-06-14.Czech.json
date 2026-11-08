@@ -1,0 +1,61 @@
+{
+  "title": "Plamen, který odhalil odkaz",
+  "intro": "V análech odporu stojí postava, jejíž jméno se stalo varováním až do konce časů. Tato osoba si zvolila nepřátelství před příbuzenským vztahem, vzdor před podřízeností a postavila se v opozici vůči volání po milosrdenství. Pozorně naslouchejte ozvěnám starodávného prohlášení, zatímco odhalujeme identitu této nechvalně známé duše.",
+  "clues": [
+    "Narodil jsem se do stejného klanu jako poslední Alláhův posel, a přesto jsem se jim na každém kroku stavěl proti nim.",
+    "Mé jméno neslo smysl – jméno, které znamená „otec plamene“, jméno, které mělo předznamenat můj věčný osud.",
+    "Páchal jsem zlo na nositeli pravdy a dokonce i moje vlastní domácnost se k této kruté kampani připojila.",
+    "Použil jsem své bohatství a vliv k umlčení volání k Alláhovi, protože jsem věřil, že peníze dokážou uhasit božské světlo.",
+    "Alláh mi věnoval celou kapitolu – kapitolu tak krátkou, že ji lze recitovat během několika sekund, přesto její váha zůstává až do Soudného dne.",
+    "Můj společník v posmrtném životě kráčí za mnou, svázaný provazem z vláken kolem krku, a nese ty samé trny, které dříve rozsévali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Abú Laháb",
+        "Abu Džahl",
+        "Waraqah ibn Nawfal",
+        "Umajja ibn Chalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abú Laháb"
+    },
+    "trial": {
+      "label": "Definování konfrontace",
+      "options": [
+        "Vedení opozice proti Prorokovi v Mekce",
+        "Migrace do Habeše, aby unikla pronásledování",
+        "Stavba Kaaby s prorokem Ibráhýmem",
+        "Přijetí islámu na smrtelné posteli",
+        "Uzavření Hudaybiyyahské smlouvy"
+      ],
+      "answer": "Vedení opozice proti Prorokovi v Mekce"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Žena, která nosila trní a dříví",
+        "Hůl, která se proměnila v hada",
+        "Prsten s pečetí Šalomouna",
+        "Zlaté tele uctívané lidmi",
+        "Pramen, který tryskal vodou"
+      ],
+      "answer": "Žena, která nosila trní a dříví"
+    },
+    "outcome": {
+      "label": "Konečné zúčtování",
+      "options": [
+        "Celá súra zjevena prohlašující totální zkázu",
+        "Stal se vůdcem muslimské komunity",
+        "Obdržel odpuštění v okamžiku smrti",
+        "Postavil velkou mešitu v Medíně",
+        "Byl vzkříšen mezi spravedlivými"
+      ],
+      "answer": "Celá súra zjevena prohlašující totální zkázu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

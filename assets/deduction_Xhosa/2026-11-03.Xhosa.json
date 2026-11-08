@@ -1,0 +1,61 @@
+{
+  "title": "Ukulala Kwamalungisa",
+  "intro": "Ngexesha apho ukholo lwaluyingozi kwaye abanamandla befuna ukuphelisa ukholo, iqela elincinci lemiphefumlo emitsha lenza ukhetho olwaluza kuvakala kangangexesha elide. Bebaleka konke ababekwazi, bafuna indawo yokusabela ebumnyameni obufihlakeleyo bentaba baza bathembela ngokupheleleyo ku-Allah. Okwenzeka emva koko kwakuza kuba luphawu olungapheliyo kwabo bacingayo.",
+  "clues": [
+    "Sasiliqela labantu abaselula ababekholelwa eNkosini yethu, waza wasandisa kwisikhokelo.",
+    "Sema phambi kwabantu bethu saza sathi asisayi kuze sibize nawuphi na uthixo ngaphandle kuka-Allah.",
+    "Safuna indawo yokusabela emqolombeni, sisithi, 'Nkosi yethu, siphe inceba evela kuwe kwaye usikhokele kakuhle kwimicimbi yethu.'",
+    "Silele iminyaka emininzi, ilanga lalisiya lisishiya emqolombeni wethu lingasichukumisi.",
+    "Inja yethu yayilele ilele emnyango womqolomba, isilindile ngokungathi ilindile.",
+    "Sathi sakuvuswa, sazibuza ukuba silinde ixesha elingakanani, waza omnye wethu wathunyelwa neengqekembe zesilivere ukuze aye kuthenga ukutya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu boMqolomba",
+        "Abantu baseMfuleni",
+        "Abantu beSabatha",
+        "Abantu beNdlovu",
+        "Amaqabane eWood"
+      ],
+      "answer": "Abantu boMqolomba"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Babalekela emqolombeni ukuze babalekele intshutshiso ngenxa yokholo lwabo",
+        "Itshatyalaliswe ngumoya onamandla",
+        "Iginywe ngumhlaba",
+        "Nditshonile elwandle",
+        "Ubethwe sisiphango samatye"
+      ],
+      "answer": "Babalekela emqolombeni ukuze babalekele intshutshiso ngenxa yokholo lwabo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Inja egade umnyango womqolomba",
+        "Umkhombe omkhulu",
+        "Intonga eyajika yaba yinyoka",
+        "Intaka eyi-hoopoe",
+        "Ithole legolide"
+      ],
+      "answer": "Inja egade umnyango womqolomba"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Bahlala emqolombeni iminyaka engama-309 baze bakhuliswa njengophawu",
+        "Bajikwa baba ziinkawu",
+        "Batshatyalaliswa ngumkhukula",
+        "Benzelwe ukuwela ulwandle",
+        "Banikwa ubukumkani"
+      ],
+      "answer": "Bahlala emqolombeni iminyaka engama-309 baze bakhuliswa njengophawu"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

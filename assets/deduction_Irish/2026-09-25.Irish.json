@@ -1,0 +1,61 @@
+{
+  "title": "An Damba a Bhris Ríocht",
+  "intro": "Tír ina raibh aibhneacha ag sileadh, dhá ghairdín glasa, agus rathúnas gan sárú — ach níor thug a háitritheoirí aird ar an té a bheannaigh iad. Nuair a tháinig meabhrúcháin ag glaoch orthu ar ais, chas siad uathu. Ina dhiaidh sin, bhí pionós ann a bhíonn fós ina rabhadh. Cé a bhí sa phobal ársa seo?",
+  "clues": [
+    "Bhí cónaí orainn i dtír chomh beannaithe sin gur luigh ár dteach idir dhá ghairdín glasa.",
+    "Bhaineamar taitneamh as na haibhneacha ag sileadh tríd ár gcuid tailte agus as na fómhair flúirseacha ag líonadh ár dtithe.",
+    "Ach nuair a glaodh orainn chun buíochas agus umhlaíochta dár dTiarna, d’iompaíomar uainn le bród.",
+    "Chuir ár saibhreas agus ár suaimhneas dearmad orainn faoin Té a bhronn gach rud orainn.",
+    "Ansin tháinig tuile tobann a bhris tríd an mbacainn mhór a raibh muid ag brath uirthi.",
+    "Is muidne muintir Saba', a raibh cáil ar a dtír mar gheall ar an Damba mór Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Muintir Saba",
+        "Muintir na Trinse",
+        "Comhpháirtithe an Tobair",
+        "Muintir Tubba'",
+        "Muintir Mhidiáin"
+      ],
+      "answer": "Muintir Saba"
+    },
+    "trial": {
+      "label": "Ár dTitim",
+      "options": [
+        "Tuile ó dhamba ag pléascadh",
+        "Gaoth fhoréigneach ón spéir",
+        "Ag dó i dtrinse tine",
+        "Crith talún ollmhór",
+        "Báthadh i dtuilte móra"
+      ],
+      "answer": "Tuile ó dhamba ag pléascadh"
+    },
+    "location": {
+      "label": "Suíomh Eochair",
+      "options": [
+        "Damba Ma'rib",
+        "Sliabh Shíonáí",
+        "Uaimh na Seachtar Codladh",
+        "An Tor Dóite",
+        "Scoilteadh na Farraige"
+      ],
+      "answer": "Damba Ma'rib"
+    },
+    "outcome": {
+      "label": "Ár gCinniúint",
+      "options": [
+        "Dhá ghairdín searbha in áit ár ngairdíní lush",
+        "D'fhás ár ngairdíní níos flúirseach fós",
+        "Chuaigh an talamh faoi uisce",
+        "Bhíomar curtha i luaithreach bholcánach",
+        "Roinneadh ár náisiún ina dhá threibh déag"
+      ],
+      "answer": "Dhá ghairdín searbha in áit ár ngairdíní lush"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

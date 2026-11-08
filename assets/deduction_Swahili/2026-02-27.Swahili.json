@@ -1,0 +1,61 @@
+{
+  "title": "Sauti ya Asiyeonekana",
+  "intro": "Katika kumbukumbu za mawasiliano ya kimungu, mtu anajitokeza ambaye hadithi yake imefumwa kwa ishara za miujiza na imani thabiti. Mtu huyu alipokea ufunuo wa kipekee uliopinga kanuni za wakati wao, akizungumza kutoka nje ya pazia la utambuzi wa kawaida. Ujumbe wao haukuja kupitia njia za kawaida bali kupitia muunganisho mkubwa uliopinga uelewa wa mwanadamu, ukiwaita watu kutambua ukweli kwa njia zisizotarajiwa. Safari ya mtumishi huyu wa Mwenyezi Mungu hutumika kama ushuhuda wa jinsi mwongozo unavyoweza kujitokeza katika hali za ajabu zaidi, ikialika tafakari juu ya asili ya ufunuo wenyewe.",
+  "clues": [
+    "Nilipewa ujumbe uliokuja kupitia sauti ya ajabu kutoka chanzo kisichoonekana.",
+    "Mwanzoni watu wangu walikataa ujumbe wangu, wakidai uthibitisho zaidi wa kawaida wa ukweli wangu.",
+    "Niliwapa changamoto ya kutoa kitu kama kile nilichokuwa nimepokea, lakini hawakuweza.",
+    "Ufunuo niliouleta ulielezewa kama mistari iliyo wazi iliyofanya ukweli uwe dhahiri.",
+    "Niliwaonya watu wangu kuhusu adhabu kali ikiwa wataendelea na ukafiri na kiburi chao.",
+    "Hadithi yangu imetajwa pamoja na wajumbe wengine katika sura inayosisitiza ishara za nguvu za Mwenyezi Mungu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Hud",
+        "Nabii Salih",
+        "Nabii Shu'ayb",
+        "Muumini kutoka Familia ya Firauni",
+        "Nabii Musa"
+      ],
+      "answer": "Nabii Salih"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutupwa katika tanuru ya moto",
+        "Kukabiliana na ukandamizaji wa mtawala dhalimu",
+        "Kutengeneza ngamia jike kama ishara ya muujiza",
+        "Kunusurika mafuriko makubwa",
+        "Kutupwa baharini kwenye sanduku"
+      ],
+      "answer": "Kutengeneza ngamia jike kama ishara ya muujiza"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bonde la Tuwa",
+        "Mji wa Madyan",
+        "Nchi ya Thamud",
+        "Baraza la Firauni",
+        "Pango la Hira"
+      ],
+      "answer": "Nchi ya Thamud"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "answer": "Watu wangu waliangamizwa kwa kumuua ngamia jike wa ajabu",
+      "options": [
+        "Watu wangu walitubu na kuokolewa",
+        "Nilichukuliwa mbinguni nikiwa hai",
+        "Watu wangu waliangamizwa kwa kumuua ngamia jike wa ajabu",
+        "Nikawa mtawala mkuu",
+        "Niliokolewa kwa kuwekwa kwenye safina"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

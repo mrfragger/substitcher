@@ -1,0 +1,61 @@
+{
+  "title": "Lo resson de l'engana",
+  "intro": "Un ligam de parentat foguèt testat per una èrsa d'enveja. Un plan secret foguèt escondut, en metent en movement una cadena d'eveniments que s'espandriá d'annadas e traversariá de distàncias vastas. Las accions d'aquel grop menèron a una separacion prigonda e a la pena, mas l'istòria s'acabèt pas ailà. Es un conte d'engana, de regrets, e lo desvolopament final d'un plan divin. Podètz descobrir l'identitat d'aqueles individús que lors causidas faguèron resson a travèrs de generacions?",
+  "clues": [
+    "Èrem consumits per la gelosia per l'afeccion mostrada a un dels nòstres.",
+    "Dins nòstra enveja, conspirèrem amassa e botèrem nòstre fraire dins l'escur d'un potz.",
+    "Per amagar nòstra gesta, presentèrem un vestit a nòstre paire, tacat de sang faus.",
+    "D'annadas mai tard, una famina grèva nos obliguèt a viatjar en Egipte en cercant de provisions.",
+    "Aquí, arribèrem davant un governador poderós que, desconegut per nosautres, èra lo quite fraire qu'aviam tort.",
+    "Nòstra darrièra pròva èra de portar nòstre fraire mai jove, Binyamin, çò que menèt a la revelacion de nòstre passat e nòstre paire essent lo profèta Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sèm?",
+      "options": [
+        "Los Hijos de Adam (Qabil & Habil)",
+        "Los discípols del profèta Isa",
+        "Los Fraires del Profèta Yusuf",
+        "Lo pòble de Madyan",
+        "Los Magos de Fir'awn"
+      ],
+      "answer": "Los Fraires del Profèta Yusuf"
+    },
+    "trial": {
+      "label": "Qual èra nòstre malfach principal?",
+      "options": [
+        "Bastir un vedèl d'aur per l'adoracion",
+        "Exigissent de veire Allah dirèctament",
+        "Se trufant d'un profèta per aver bastit una arca",
+        "Enganant nòstre paire e abandonant nòstre fraire",
+        "Rompre lo sabbat en pesca"
+      ],
+      "answer": "Enganant nòstre paire e abandonant nòstre fraire"
+    },
+    "location": {
+      "label": "Quin objècte èra central a nòstra engana?",
+      "options": [
+        "Un ensems de tauletas inscrichas",
+        "Una camisa tacada de faus sang",
+        "Un vedèl d'aur",
+        "Un bèl aucèl (lo Hoopoe)",
+        "Un baston que se transformèt en sèrp"
+      ],
+      "answer": "Una camisa tacada de faus sang"
+    },
+    "outcome": {
+      "label": "Quin foguèt lo resultat final de nòstra istòria?",
+      "options": [
+        "Foguèrem destruits per una inondacion poderosa",
+        "Foguèrem convertits en monins",
+        "Foguèrem engolits per la tèrra",
+        "Foguèrem perdonats e reünits amb nòstra familha",
+        "Foguèrem afogats dins la mar"
+      ],
+      "answer": "Foguèrem perdonats e reünits amb nòstra familha"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

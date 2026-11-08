@@ -1,0 +1,61 @@
+{
+  "title": "Mîmarên Kevir",
+  "intro": "Şaristaniyeke bihêz xeyal bike, ku xwedî hêz û jêhatîbûn e, xanîyên mezin li ser çiyayan dikole. Ev kom xwedî dewlemendiyeke mezin û jêhatîbûneke mîmarî ya bêhempa bû. Lê dîsa jî, tevî hişyariyên zelal wergirtin, wan rêyek hilbijart ku dê bigihêje encamek dramatîk û bêhempa. Hûn dikarin vê komê nas bikin ku çîroka wê wekî derseke kûr ji bo hemû kesên ku difikirin xizmet dike?",
+  "clues": [
+    "Hêz û jêhatîbûn ji me re hat dayîn, ku me hişt ku em xanîyên mezin rasterast di nav çiyayan de bikolin.",
+    "Ji Xwedê nîşanek eşkere ji me re hat dayîn, mexlûqek bêhempa ku divê bê destwerdan ji bo çêrandinê bê hiştin.",
+    "Civaka me xwe bilind kir, peyama îlahî ya ku ji hêla peyamberekî ji nav me ve hatibû, red kir.",
+    "Me komployek kir ku zirar bidin nîşana mûcîzeyî, tevî hişyariyên cezayên giran.",
+    "Me fermana ku em bihêlin ev afirîdê taybet rojên alternatîf ji bîra me avê vexwe, red kir.",
+    "Em bi dawiyeke wêranker re rû bi rû man, piştî kirina me ya gunehê, em bi teqîneke yekane û tirsnak hatin kuştin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Gelê Adê",
+        "Gelê Midyanê",
+        "Gelê Fîl",
+        "Gelê Semûdê",
+        "Gelê Lûtê"
+      ],
+      "answer": "Gelê Semûdê"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyera Me ya Sereke",
+      "options": [
+        "Lehiya ku erd da ber xwe",
+        "Parçekirina deryayê",
+        "Wêrankirin bi yek teqîn/qîrînê",
+        "Şewitandina bajarekî",
+        "Veguherandina çiyayekî bo tozê"
+      ],
+      "answer": "Wêrankirin bi yek teqîn/qîrînê"
+    },
+    "location": {
+      "label": "Hêmanek Sereke di Çîroka Me de",
+      "options": [
+        "Golikê zêrîn",
+        "Deveyekî keçik ê mûcîzeyî",
+        "Dareke dişewite",
+        "Çûkekî diaxive",
+        "Textekî bi heybet"
+      ],
+      "answer": "Deveyekî keçik ê mûcîzeyî"
+    },
+    "outcome": {
+      "label": "Encama me ya Dawî",
+      "options": [
+        "Dewlemendî û hêzeke mezin daye",
+        "Bi pêxemberîtiyê bilind bûye",
+        "Tunekirina tevahî bi cezayek xwedayî",
+        "Piştî tobeya dilsoz hat bexşandin",
+        "Li seranserê erdê belav bûne da ku bigerin"
+      ],
+      "answer": "Tunekirina tevahî bi cezayek xwedayî"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

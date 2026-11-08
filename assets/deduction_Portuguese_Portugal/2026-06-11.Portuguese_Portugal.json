@@ -1,0 +1,61 @@
+{
+  "title": "A Vila às Margens da Provação",
+  "intro": "Você se encontra em uma vila litorânea, onde o som das ondas se mistura aos sussurros de um povo esquecido. A eles foi dada a ordem de repouso, mas sua ganância levou a uma punição que ainda hoje é mencionada em tons baixos. Você conseguirá descobrir quem eram eles?",
+  "clues": [
+    "Morávamos perto da praia e recebemos a ordem de observar um dia de descanso.",
+    "Naquele dia, os peixes vinham até nós em abundância, mas nos era proibido pegá-los.",
+    "Alguns entre nós alertaram contra a transgressão, mas outros conspiraram para pescar mesmo assim.",
+    "Violamos o mandamento sagrado e atraímos sobre nós um severo castigo.",
+    "Nosso castigo foi uma transformação que nos deixou desfigurados e desonrados.",
+    "Fomos transformados em macacos, um sinal para todos os que viriam depois."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Pessoas do sábado",
+        "Povo de Thamud",
+        "Pessoas de 'Ad",
+        "Pessoas da Caverna",
+        "Povo do Elefante"
+      ],
+      "answer": "Pessoas do sábado"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Pescar no sábado",
+        "Adorando um bezerro de ouro",
+        "Negar a mensagem de Hud",
+        "Matar a camela",
+        "Construindo uma torre até o céu"
+      ],
+      "answer": "Pescar no sábado"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O peixe",
+        "Uma camela",
+        "Uma equipe",
+        "Um barco",
+        "Um jardim"
+      ],
+      "answer": "O peixe"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Transformados em macacos",
+        "Destruída por uma inundação",
+        "Destruído por um incêndio devastador.",
+        "Engolido pela terra",
+        "Espalhados pelo vento"
+      ],
+      "answer": "Transformados em macacos"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

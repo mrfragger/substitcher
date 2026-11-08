@@ -1,0 +1,61 @@
+{
+  "title": "Vox in Arenabus Antiquis",
+  "intro": "Inter primos nuntios Dei, unus fuit cuius nomen in Corano breviter sed significanter splendet. Hic homo diu ante multos magnos prophetas missi vixit, et propter constantem veritatem et patientiam notus erat. Historia eorum brevis est, sed hereditas eorum in actis aeternis durat. Quis est haec anima nobilis?",
+  "clues": [
+    "Unus ex primis nuntiis sum, in Alcorano breviter sed significanter memoratus.",
+    "Mores mei constanti veritati devotione definiebantur.",
+    "In libro Dei memoria teneor inter eos qui constantes et patientes fuerunt.",
+    "Pauci tantum versus breves in Corano historiam meam narrant.",
+    "Allah me honoravit modo qui unice meus est, non communicatus cum aliis prophetis.",
+    "Ad altum gradum evectus sum, honorem singularem in Alcorano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Idris propheta",
+        "Propheta Ilyas",
+        "Dhul-Kifl",
+        "Propheta Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Idris propheta"
+    },
+    "trial": {
+      "label": "Momentum Definiens",
+      "options": [
+        "Ad altum gradum ab Allah evectus sum",
+        "Arcam magnam aedificavi ad populum meum servandum",
+        "Magos Pharaonis provocavi",
+        "A fratribus meis in foveam coniectus sum",
+        "Visum amisi ex dolore filii mei"
+      ],
+      "answer": "Ad altum gradum ab Allah evectus sum"
+    },
+    "location": {
+      "label": "Sacra Referentia",
+      "options": [
+        "Sura Al-Anbiya",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Ash-Shu'ara",
+        "Sura Yasin"
+      ],
+      "answer": "Sura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Honor Divinus",
+      "options": [
+        "Statio alta dissimilis ulli aliae",
+        "Dominium super jinn et ventos",
+        "Regnum gloriae incomparabilis",
+        "Haeres ex senectute mea",
+        "Foedus cum Deo signatum"
+      ],
+      "answer": "Statio alta dissimilis ulli aliae"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

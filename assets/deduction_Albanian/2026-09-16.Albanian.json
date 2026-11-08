@@ -1,0 +1,61 @@
+{
+  "title": "Mbretërimi i testuar nga një lumë",
+  "intro": "Një udhëheqës ngrihet me dekret hyjnor në kohët e lashta. Mbretërimi i këtij sundimtari nuk filloi me lavdi, por me një provë pranë ujërave që rrjedhin. Një armik i frikshëm do ta sfidonte ushtrinë e tij dhe rezultati do të ndryshonte rrjedhën e historisë. A mund ta merrni me mend se kush është kjo figurë?",
+  "clues": [
+    "Unë u zgjodha për të udhëhequr një komb të madh, por emërimi erdhi nga lart, jo nga populli.",
+    "Një objekt i shenjtë iu kthye popullit tim si një shenjë që konfirmonte sundimin tim.",
+    "I testova ushtarët e mi me një lumë - shumica pinë prej tij dhe dështuan.",
+    "Një luftëtar i fuqishëm i quajtur Xhalut erdhi kundër nesh me një ushtri të madhe.",
+    "Një i ri nga radhët e mia, i armatosur vetëm me besim, e vrau Xhalutin.",
+    "Pas fitores sonë, mbretëria iu besua përfundimisht atij kampioni të ri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Taluti (Sauli)",
+        "Jalut (Goliath)",
+        "Profeti Davud",
+        "Profeti Musa",
+        "Profeti Harun"
+      ],
+      "answer": "Taluti (Sauli)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Testuar me një lumë",
+        "I hedhur në një zjarr të ndezur",
+        "I urdhëruar të sakrifikonte një bir",
+        "Urdhëroi të ndërtonte një arkë të madhe",
+        "Gëlltitur nga një peshk i madh"
+      ],
+      "answer": "Testuar me një lumë"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Arka e Besëlidhjes",
+        "Një shkop që ndau detin",
+        "Një hobe dhe gurë të lëmuar",
+        "Një idhull i viçit të artë",
+        "Një fron madhështor"
+      ],
+      "answer": "Arka e Besëlidhjes"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Mbretëria iu transferua kampionit të ri (Davudit)",
+        "U mbyt me ushtrinë në det",
+        "I nxjerrë në mënyrë të sigurt nga një zjarr i tërbuar",
+        "I gëlltitur nga toka me thesare",
+        "U dogj i gjallë në një hendek të flaktë"
+      ],
+      "answer": "Mbretëria iu transferua kampionit të ri (Davudit)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

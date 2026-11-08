@@ -1,0 +1,61 @@
+{
+  "title": "Mlinzi wa Moto Usiozimika",
+  "intro": "Mtu amesimama kwenye kizingiti cha mahali pa kuogopwa zaidi katika mahali pasipoonekana, amepewa jukumu ambalo hakuna kiumbe mwingine anayetaka. Wakati roho zinazoteseka zinapoomba rehema, jibu kali husikika kupitia vyumba vya moto. Je, unaweza kufichua utambulisho wa mlinzi huyu wa milele?",
+  "clues": [
+    "Nimesimama kwenye mlango wa mahali pa kutisha pa adhabu katika mambo yasiyoonekana.",
+    "Moto unaowaka na usiozimika ndio kiini cha wajibu wangu mzito.",
+    "Nafsi zinazoteseka huita jina langu, zikiomba msaada kutoka kwa mateso yao yasiyo na mwisho.",
+    "Wanapoomba, natangaza kwamba hawataondoka, kamwe.",
+    "Mimi si mwanadamu, wala jini — mimi ni kiumbe aliyeumbwa mwenye utiifu safi.",
+    "Mimi ndiye malaika mkuu niliyeteuliwa kuwa mlinzi wa milele wa Moto wa Jehanamu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Malik",
+        "Jibreeli",
+        "Mikaeli",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Watu wa Kuzimu wanaomba mateso yao yaishe",
+        "Tarumbeta inapulizwa kuashiria Siku ya Hukumu",
+        "Quran imefunuliwa kwa moyo wa Mtume",
+        "Nabii atupwa kwenye moto mkubwa na watu wake",
+        "Ukuta imara hujengwa ili kuzuia taifa lililoharibika"
+      ],
+      "answer": "Watu wa Kuzimu wanaomba mateso yao yaishe"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Moto wa Jahannamu (Jahannamu)",
+        "Mti wa Loti kwenye mpaka wa Paradiso",
+        "Tarumbeta inayotoboa",
+        "Fimbo inayobadilika kuwa nyoka",
+        "Kiti cha enzi cha ajabu cha Mungu"
+      ],
+      "answer": "Moto wa Jahannamu (Jahannamu)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Wakazi wa Kuzimu wanaambiwa kwamba watabaki milele",
+        "Wakazi wa Kuzimu wanasamehewa na kuachiliwa huru",
+        "Wakazi wa Kuzimu wanapewa nafasi ya pili ya imani",
+        "Wakazi wa Jahannamu wanahamishwa hadi mahali pa baridi",
+        "Wakazi wa Kuzimu wanaangamizwa kabisa na radi"
+      ],
+      "answer": "Wakazi wa Kuzimu wanaambiwa kwamba watabaki milele"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Midis Tokës dhe Qiellit",
+  "intro": "Një shpirt misterioz ju pret në faqet e shenjta të historisë hyjnore, duke mbajtur shenja dhe mrekulli që ende jehojnë nëpër shekuj. Ndërsa ndiqni gjurmët e të dhënave, do të udhëtoni nëpër një histori të shënuar nga mrekullitë - nga një fillim i mrekullueshëm deri në një ngjitje përtej qiellit. A mund ta identifikoni këtë shërbëtor të bekuar para të dhënave të fundit?",
+  "clues": [
+    "Unë u dërgova si i dërguar te Bijtë e Izraelit me lajme mëshire dhe drite.",
+    "Lindja ime ishte një shenjë e mrekullueshme - unë erdha në këtë botë pa baba, me urdhër të të Plotfuqishmit.",
+    "Fola që kur isha ende foshnjë, duke mbrojtur nderin e nënës sime kundër akuzave të popullit të saj.",
+    "Me lejen e Allahut, unë formova zogj nga balta dhe u dhashë jetë atyre — ata fluturuan para syve të atyre që i shikonin.",
+    "Shërova ata që kishin lindur të verbër, shërova të lebrosurit dhe madje ringjalla të vdekurit - megjithatë çdo mrekulli ishte me lejen e Allahut, jo imja.",
+    "Kur armiqtë e mi komplotuan për të më shkatërruar, Allahu më ngriti në qiej dhe më premtoi kthimin tim para Ditës së Gjykimit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Isa (Jezusi)",
+        "Profeti Musa (Moisiu)",
+        "Profeti Ibrahim (Abraham)",
+        "Profeti Muhamed",
+        "Profeti Jusuf (Joseph)"
+      ],
+      "answer": "Profeti Isa (Jezusi)"
+    },
+    "trial": {
+      "label": "Momenti Përcaktues",
+      "options": [
+        "U ngrita në qiell",
+        "U hodha në një zjarr të ndezur",
+        "U përballa me ushtrinë e fuqishme të Faraonit",
+        "Më gëlltiti një balenë e madhe",
+        "Ndërtova një arkë mbi mal"
+      ],
+      "answer": "U ngrita në qiell"
+    },
+    "location": {
+      "label": "Shenja e Shenjtë u Krye",
+      "options": [
+        "I dhashë formë zogjve nga balta",
+        "E shndërrova një shkop në gjarpër",
+        "E ndava hënën në dysh",
+        "Unë i urdhërova erës dhe xhindëve",
+        "Nxora një deve nga një shkëmb"
+      ],
+      "answer": "I dhashë formë zogjve nga balta"
+    },
+    "outcome": {
+      "label": "Çfarë u bë me mua",
+      "options": [
+        "I ngritur në qiej; i premtuar për t'u kthyer",
+        "U bë një sundimtar i madh i një perandorie",
+        "I nxori njerëzit e mi nga robëria",
+        "Iu dha pasuri tokësore e pakrahasueshme",
+        "U ribashkova me familjen time pas një ndarjeje të gjatë"
+      ],
+      "answer": "I ngritur në qiej; i premtuar për t'u kthyer"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Ang Palaisipan ng Malayong Trono",
+  "intro": "Isang makapangyarihang monarko, na biniyayaan ng pambihirang kapangyarihan, ang naharap sa isang kakaibang hamon na kinasasangkutan ng isang reyna mula sa isang malayong lupain. Sinikap ng monarko na ipakita ang banal na kapangyarihan at karunungan, sa pamamagitan ng pagsisimula ng isang hindi kapani-paniwalang pangyayari na sumasalungat sa mga batas ng panahon at kalawakan. Mahihinuha mo ba ang mga detalye ng mahimalang pangyayaring ito?",
+  "clues": [
+    "Isang pinuno ang pinagkalooban ng napakalaking kapangyarihan, kabilang ang kontrol sa mga di-nakikitang nilalang at ang kakayahang utusan ang mga hangin.",
+    "Nakatanggap ang pinunong ito ng balita tungkol sa isang mayamang reyna na sumasamba sa araw, at nagpasya siyang imbitahan ito sa korte.",
+    "Bago dumating ang reyna, ipinahayag ng pinuno ang kanyang pagnanais na dalhin ang kanyang kahanga-hangang luklukan ng kapangyarihan mula sa kanyang malayong kaharian.",
+    "Isang makapangyarihang jinn ang nag-alok na kunin ang bagay bago pa makatayo ang pinuno mula sa kanyang konseho.",
+    "Gayunpaman, ang isang taong may malalim na kaalaman sa Banal na Kasulatan ay nag-alok ng mas mabilis na pagsasauli, na natapos ang gawain sa isang kisap-mata.",
+    "Pagdating nito, iniutos ng pinuno na baguhin ang bagay upang masubukan ang talino at pang-unawa ng reyna pagdating niya sa palasyo."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Propeta/Tao",
+      "options": [
+        "Propeta Moises",
+        "Propeta David",
+        "Propeta Ibrahim",
+        "Propeta Yusuf",
+        "Propeta Sulayman"
+      ],
+      "answer": "Propeta Sulayman"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang Paghahati ng Dagat",
+        "Ang Pasensya sa Paghihirap",
+        "Ang Pagtatayo ng Kaaba",
+        "Ang Pagsubok sa mga Hardin",
+        "Pagdadala ng Trono ng Reyna"
+      ],
+      "answer": "Pagdadala ng Trono ng Reyna"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Kaban",
+        "Ang mga Kawani",
+        "Ang Bundok",
+        "Ang Balon",
+        "Ang Trono"
+      ],
+      "answer": "Ang Trono"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Isang dakilang sakripisyo",
+        "Isang kaharian ang itinatag",
+        "Isang bayan ang pinarusahan",
+        "Isang bagong tipan",
+        "Ang Pagsuko ng Reyna kay Allah"
+      ],
+      "answer": "Ang Pagsuko ng Reyna kay Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

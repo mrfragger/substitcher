@@ -1,0 +1,61 @@
+{
+  "title": "Els guardians del jardí",
+  "intro": "En un jardí exuberant, una comunitat va fer un vot solemne. Però la seva determinació es va posar a prova quan la voluntat divina va intervenir, transformant la seva generositat en una terra àrida.",
+  "clues": [
+    "Vam ser beneïts amb un jardí abundant, però ens vam tornar arrogants.",
+    "Vam fer un pla per collir sense compartir amb els pobres.",
+    "Vam sortir d'hora al matí, convençuts del nostre pla.",
+    "Però quan vam arribar, vam trobar que el nostre jardí havia estat destruït durant la nit.",
+    "Ens vam adonar del nostre error i vam començar a culpar-nos mútuament.",
+    "Finalment ens vam penedir, però la lliçó es va aprendre massa tard."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Gent del Jardí",
+        "Gent de la Cova",
+        "Gent de l'elefant",
+        "Gent de Thamud",
+        "Gent d'Ad"
+      ],
+      "answer": "Gent del Jardí"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Un jardí convertit en cendres",
+        "Una inundació que ho va destruir tot",
+        "Una fam que va assolar la terra",
+        "Un exèrcit d'ocells atacant",
+        "Un gran vent que va arrencar arbres d'arrel"
+      ],
+      "answer": "Un jardí convertit en cendres"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un jardí",
+        "Una cova",
+        "Un vaixell",
+        "Una muntanya",
+        "Un palau"
+      ],
+      "answer": "Un jardí"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es van penedir però van perdre el seu jardí",
+        "Van ser completament destruïts",
+        "Es van convertir en simis",
+        "Van ser salvats per la fe",
+        "Es van convertir en governants"
+      ],
+      "answer": "Es van penedir però van perdre el seu jardí"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

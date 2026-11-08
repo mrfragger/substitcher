@@ -1,0 +1,60 @@
+{
+  "title": "El prucess sotta i onde",
+  "intro": "Un profet, gravad de la soa mission, l’ha ciapad una decision qe l’ha portad lontan del so popol e ind una prova inaspetada. El sò viagi l’ha ciapad una svolta dramatica, e l’ha metü a la prœuva la sò fede e la sò pazienza in de la manera pusè prufunda. Pœdet dedur i detai de chestu event straordinari di indizi furnii?",
+  "clues": [
+    "Un profeta l’è stait mandad a un popol, ma l’è partid in fretta, sentend frustrazion per el so refud.",
+    "El sò viagg l’ha purtà in del mar, indué l’è montà sü una nav cargada per cercà de passagg.",
+    "L’è nassuda una grand tempesta che g’ha minacià la nav e l’è stada decidüda de slanzà una persòna en aqua per alleggerì el carich, determinà cunt el sorte.",
+    "L’è stait engullid de una creatura del fond, un event miracolos decretad de la volontaa Divina.",
+    "Denter dei confin del venter de la creatura, l’ha ciamad el so Signor, pentindos e glorificand Allah ind el bui.",
+    "Despœ de un period de intense supplicazion, l’è stait butad su una riva steril, debol ma viv, e pœ l’è tornad a trovar qe la soa popola l’era finalment creduda."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Persuna",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Lut",
+        "Profeta Musa",
+        "Profeta Yunus",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "L’inondazion de Nuh",
+        "La distruzion de Sodoma",
+        "El viagg in del panza del grand pess",
+        "La scissiun del mar",
+        "La rivelaziun del busc brüsant"
+      ],
+      "answer": "El viagg in del panza del grand pess"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "L'Arca",
+        "El Monte Sinai",
+        "El personal de Musa",
+        "El Grand Pess",
+        "El pozz de Yusuf"
+      ],
+      "answer": "El Grand Pess"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Un nœuf patt cun l’umanità",
+        "Una nassita miracolosa per el sò popul",
+        "Un regn stabilì per sò lignagg",
+        "Un ritorn al sò popul che alura credeva",
+        "Una vitoria sü un suvran tiranno"
+      ],
+      "answer": "Un ritorn al sò popul che alura credeva"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

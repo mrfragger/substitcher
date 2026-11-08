@@ -1,0 +1,61 @@
+{
+  "title": "Glas, ki je zavrnil obup",
+  "intro": "Stopite v gospodinjstvo, kjer izguba sledi izgubi, a en sam miren glas zavrača obup. En sam klic v Koranu spremeni potrpežljivost v prelomnico; ali lahko izsledite namige do osebe, ki se skriva za tem glasom?",
+  "clues": [
+    "Bil sem glas potrpežljivosti v gospodinjstvu, kjer so blagoslove preizkušale nesreče.",
+    "Ostala sem v gospodinjstvu, ki ga je izpraznila izguba bogastva in otrok.",
+    "Vedel sem, da je bolezen prizadela tudi tistega tovariša, čigar telo je bilo prizadeto.",
+    "Ko je stiska postala huda, sem klical in opominjal Alaha.",
+    "Ponudil sem eno izjavo: Alah je Resnica, zato bodite potrpežljivi.",
+    "Poklical sem Ajuba po imenu; nato je Allah odpravil nadlogo in obnovil družino."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Žena preroka Ajuba",
+        "Žena preroka Nuha",
+        "Žena preroka Ibrahima",
+        "Žena preroka Jakuba",
+        "Faraonova hči"
+      ],
+      "answer": "Žena preroka Ajuba"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ostati z Ayyubom skozi izgubo in bolezen, nato pa klicati k potrpežljivosti",
+        "Opozarja pravičnega poslanca, naj zapusti pokvarjeno skupnost",
+        "Molitev za rojstvo bodoče rodbine",
+        "Razlaga sanj v kraljevem zaporu",
+        "Iskanje zaupanega otroka ob reki"
+      ],
+      "answer": "Ostati z Ayyubom skozi izgubo in bolezen, nato pa klicati k potrpežljivosti"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Zahtevana je izjava, da je Alah Resnica, in potrpežljivost",
+        "Palma ob izviru",
+        "Poziv k izgradnji plovila daleč od valov",
+        "Sanje o enajstih zvezdah in vzhajajočem soncu",
+        "Košara, ki so jo nosili vzdolž Nila"
+      ],
+      "answer": "Zahtevana je izjava, da je Alah Resnica, in potrpežljivost"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Ayyubova nadloga je bila odpravljena in njegova družina obnovljena",
+        "Dolgo pričakovani otrok je bil podarjen po neplodni molitvi",
+        "Mladi vladar je razlagal sedem let obilja in pomanjkanja",
+        "Zaupani otrok je bil rešen iz tekoče vode",
+        "Opozorilo je predhodilo uničujoči poplavi"
+      ],
+      "answer": "Ayyubova nadloga je bila odpravljena in njegova družina obnovljena"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Parêzvanê Agirê Nevemirî",
+  "intro": "Kesayetek li ber deriyê cihê herî tirsnak ê nepenî radiweste, erkê ku tu hebûnek din naxwaze lê hatiye spartin. Dema ku giyanên êş kişandî ji bo dilovaniyê diqîrin, bersivek tund di odeyên agir de deng vedide. Hûn dikarin nasnameya vî parêzvanê herheyî eşkere bikin?",
+  "clues": [
+    "Ez li ber deriyê cihekî tirsnak ê cezayê ku di nedîtî de ye radiwestim.",
+    "Agirekî geş û netemîner navenda erkê min ê giran e.",
+    "Giyanên êş kişandî navê min gazî dikin, ji bo rizgarbûnê ji êşa xwe ya bêdawî lava dikin.",
+    "Dema ku ew lava dikin, ez diyar dikim ku ew ê qet neçin.",
+    "Ez ne mirov im, ne jî cin im - ez hebûnek afirandî me ku îtaeta pak dike.",
+    "Ez milyaketê sereke me ku wekî parêzvanê ebedî yê Agirê Cehenemê hatiye tayînkirin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Malik",
+        "Cîbreel",
+        "Mîkael",
+        "Harût",
+        "Marût"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Xelkê Cehenemê daxwaz dikin ku êşa wan bi dawî bibe",
+        "Li sûrmê tê lêxistin da ku Roja Qiyametê nîşan bide",
+        "Quran ji dilê Pêxember re nazil bûye",
+        "Pêxemberek ji aliyê gelê xwe ve tê avêtin nav agirê mezin",
+        "Dîwarekî mezin ji bo dorpêçkirina neteweyekî gendel hatiye avakirin"
+      ],
+      "answer": "Xelkê Cehenemê daxwaz dikin ku êşa wan bi dawî bibe"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Cehenem (Agirê Cehenemê)",
+        "Dara Lote li ser sînorê bihuştê",
+        "Trompêtek tûj",
+        "Dara ku vediguhere mar",
+        "Textekî xwedayî yê bi heybet"
+      ],
+      "answer": "Cehenem (Agirê Cehenemê)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ji niştecihên Cehenemê re tê gotin ku ew ê heta hetayê bimînin",
+        "Niştecihên Cehenemê têne bexşandin û berdan",
+        "Ji niştecihên Dojehê re şansek duyemîn a baweriyê tê dayîn",
+        "Niştecihên Cehennemê ber bi cihekî sar ve têne veguhastin",
+        "Niştecihên Dojehê bi birûskê bi temamî wêran dibin"
+      ],
+      "answer": "Ji niştecihên Cehenemê re tê gotin ku ew ê heta hetayê bimînin"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Katingad-an nga Bisita sa Usa ka Siyudad nga Gilibutan og Pader",
+  "intro": "Usa ka grupo ang miabot sa mga ganghaan sa usa ka siyudad kansang mga tawo wala pa gyud makaila sa kamatuoran. Nagdala sila og mensahe, apan ang mga lumulupyo nahimong masuk-anon, naghulga og kapintasan. Apan, gikan sa wala damha nga dapit, usa ka tingog ang mitindog aron panalipdan ang mga estranghero, nga nag-andam sa entablado alang sa usa ka dramatikong pagbag-o sa mga panghitabo.",
+  "clues": [
+    "Nisulod mi sa usa ka siyudad kansang mga tawo nalubong sa kawalay pagtuo.",
+    "Mitan-aw sila kanamo nga may pagduda ug miingon, 'Mga ordinaryong binuhat lang kamo sama kanamo.'",
+    "Gipasidan-an namo sila, apan nagbato sila batok kanamo.",
+    "Usa ka lalaki ang midali gikan sa pinakasuok nga bahin sa siyudad aron pamatud-an ang among kamatuoran.",
+    "Mipahayag siya sa iyang katawhan, 'Ngano nga dili ko simbahon ang Usa nga naglalang kanako?'",
+    "Ang paglimod sa siyudad natapos sa usa ka pagbuto, ug ang kahilom naghari sa dapit diin sila kaniadto nagbiaybiay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Kami?",
+      "options": [
+        "Ang mga Mensahero sa Ya-Sin",
+        "Ang mga Tinun-an ni Isa",
+        "Ang mga Tawo sa Trench",
+        "Ang mga Salamangkero ni Paraon",
+        "Ang Nagtuo sa Ya-Sin"
+      ],
+      "answer": "Ang mga Mensahero sa Ya-Sin"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagsalikway ug hulga sa pagbato",
+        "Gilabay ngadto sa nagdilaab nga kalayo",
+        "Usa ka pagsulay sa pailub uban sa usa ka nawala nga bata",
+        "Usa ka tanaman nga naguba",
+        "Usa ka panaw latas sa dagat"
+      ],
+      "answer": "Pagsalikway ug hulga sa pagbato"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang pinakalayong dapit sa siyudad",
+        "Ang Pulang Dagat",
+        "Ang kanal sa kalayo",
+        "Ang langob nga dalangpanan",
+        "Ang bilanggoan sa Ehipto"
+      ],
+      "answer": "Ang pinakalayong dapit sa siyudad"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang siyudad naguba tungod sa usa lang ka singgit",
+        "Nabahin ang dagat ug nalumos ang kasundalohan",
+        "Ang kalayo nahimong bugnaw ug luwas",
+        "Ang tanaman nalamoy sa langitnong kalayo",
+        "Gibalik sa balyena ang tawo sa baybayon"
+      ],
+      "answer": "Ang siyudad naguba tungod sa usa lang ka singgit"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

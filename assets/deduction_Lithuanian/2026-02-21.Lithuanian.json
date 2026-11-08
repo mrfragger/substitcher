@@ -1,0 +1,61 @@
+{
+  "title": "Didžiojo tvano pranašas",
+  "intro": "Šis asmuo šimtmečius buvo ištvermės ramstis, kviečiantis nepaklusnią visuomenę į tiesos šviesą, susidūręs su pajuoka ir atstūmimu. Nepaisant didžiulių sunkumų ir kartoms perteiktos žinios svorio, šis tarnas tvirtai vykdė savo misiją iki paskutinio dekreto paskelbimo.",
+  "clues": [
+    "Devynis šimtus penkiasdešimt metų kviesdavau savo žmones teisumo keliu dieną ir naktį, slapta ir viešai.",
+    "Įspėjau savo žmones apie skaudžią bausmę, bet jie išdidžiai užsikimšo pirštus ausyse ir apsigaubė drabužiais.",
+    "Man buvo įsakyta pastatyti kažką didžiulio, stebint mano Viešpačiui, nors vandens nebuvo matyti.",
+    "Kol dirbau, pro šalį ėjo mano tautos vadai ir tyčiojosi iš manęs, bet aš jiems pasakiau, kad netrukus mes patys tyčiosimės iš jų.",
+    "Aš maldavau, kad mano paties kūnas ir kraujas prisijungtų prie manęs, bet jie pasirinko ieškoti prieglobsčio kalne, tikėdami, kad tai išgelbės juos nuo kylančios potvynio.",
+    "Galiausiai mano laivas sustojo ant Judi kalno, kai žemė prarijo savo vandenį ir dangus nustojo lyti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Hudas",
+        "Pranašas Salihas",
+        "Pranašas Nuh",
+        "Pranašas Lutas",
+        "Pranašas Šuayb"
+      ],
+      "answer": "Pranašas Nuh"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Transformuojantis personalas",
+        "Didysis potvynis",
+        "Vėsinanti ugnis",
+        "Skyrioji jūra",
+        "Dievo kupranugaris"
+      ],
+      "answer": "Didysis potvynis"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršelis",
+        "Personalas",
+        "Marškinėliai",
+        "Arka",
+        "Žiedas"
+      ],
+      "answer": "Arka"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Įžengimas į Pažadėtąją žemę",
+        "Skendimas Raudonojoje jūroje",
+        "Poilsis ant Judi kalno",
+        "Įmetimas į duobę",
+        "Kylant į dangų"
+      ],
+      "answer": "Poilsis ant Judi kalno"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

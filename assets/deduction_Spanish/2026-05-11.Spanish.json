@@ -1,0 +1,61 @@
+{
+  "title": "Los testigos firmes",
+  "intro": "Imagina una época en la que la fe fue puesta a prueba por el fuego, y la convicción inquebrantable se convirtió en la máxima forma de resistencia. Tu misión es descubrir la identidad de un grupo cuya historia se narra en el Corán, un relato de profunda fe frente a una tiranía abrumadora. Descifra las pistas para descubrir quiénes eran estas personas y las extraordinarias circunstancias que enfrentaron.",
+  "clues": [
+    "Nos mantuvimos firmes en nuestras convicciones, a pesar de la inmensa presión para que renunciáramos a nuestra fe.",
+    "Fuimos blanco de un gobernante poderoso que buscaba extinguir la luz del monoteísmo.",
+    "Fuimos testigos de grandes señales y milagros, pero nuestros opresores permanecieron indiferentes.",
+    "Sufrimos un método de persecución espantoso diseñado para aterrorizar a otros y someterlos.",
+    "Fuimos arrojados a un infierno de llamas, pero nuestra firmeza nos valió una posición elevada ante Alá.",
+    "Nuestra historia se narra en una sura que lleva el nombre de constelaciones celestes, advirtiendo sobre el destino de quienes persiguen a los creyentes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "El pueblo de Thamud",
+        "La gente de 'Ad",
+        "La gente de la zanja",
+        "El pueblo de Madián",
+        "El pueblo del elefante"
+      ],
+      "answer": "La gente de la zanja"
+    },
+    "trial": {
+      "label": "Nuestra persecución",
+      "options": [
+        "Morir ahogado en una inundación",
+        "Ser consumido por un viento abrasador",
+        "Ser arrojado a una trinchera en llamas",
+        "Ser engullido por la tierra",
+        "Ser transformados en simios"
+      ],
+      "answer": "Ser arrojado a una trinchera en llamas"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una inundación masiva",
+        "Un gran terremoto",
+        "Una trinchera profunda y ardiente",
+        "Un ídolo poderoso",
+        "Una sequía devastadora"
+      ],
+      "answer": "Una trinchera profunda y ardiente"
+    },
+    "outcome": {
+      "label": "Nuestro destino final",
+      "options": [
+        "Se les concedió un reino en la tierra.",
+        "Se salvaron gracias a una huida milagrosa.",
+        "Alcanzaron el martirio y la recompensa eterna.",
+        "Se transformaron en una especie diferente.",
+        "Se les concedió una inmensa riqueza y prosperidad."
+      ],
+      "answer": "Alcanzaron el martirio y la recompensa eterna."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

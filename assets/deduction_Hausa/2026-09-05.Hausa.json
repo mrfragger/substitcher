@@ -1,0 +1,61 @@
+{
+  "title": "Ɗaukacin Da Ya Faɗi",
+  "intro": "Ka yi tunanin wannan: rai da aka lulluɓe da kyawawan tufafi kuma aka kewaye shi da taskoki fiye da tunanin da ba za a iya tsammani ba. Wannan mutumin ya yi imani cewa dukiyarsa ta samo asali ne daga hazakarsa, ba tare da ya san tushen arziki na gaskiya ba. Yana tafiya tare da mabiyan wani babban annabi, wannan mutumin ya ƙi kowace kira zuwa ga tawali'u. A yau, mun gano asalin wani mutum wanda dukiyarsa mai girma ta zama wurin hutawa na ƙarshe.",
+  "clues": [
+    "Na rayu a zamanin annabi wanda ya kira al'umma mai taurin kai zuwa ga gaskiya.",
+    "Na kasance cikin al'umma da aka zaɓa, duk da haka zuciyata ta juya daga saƙon.",
+    "Zinare da azurfa sun burge ni fiye da kowace irin umarni daga Allah.",
+    "Taskar ajiyar kayana ta yi girma sosai har ta kai ga ƙungiyar mutane masu ƙarfi da kyar suka iya ɗaga maɓallan.",
+    "Na yi alfahari da cewa an ba ni dukiyata ne saboda ilimina.",
+    "A ƙarshe, ni da dukkan gidana ƙasa ta haɗiye ni a matsayin gargaɗi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Ƙurun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Ƙurun"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Girman kai akan dukiya da ƙin yin sadaka",
+        "Ƙirƙira gunkin zinariya daga kayan ado masu narkewa",
+        "Bayyana allahntaka bisa mulki mai ƙarfi",
+        "Tsananta wa masu imani na farko a Makkah",
+        "Jagorancin kamfen na rusa Haikalin Allah Mai Tsarki"
+      ],
+      "answer": "Girman kai akan dukiya da ƙin yin sadaka"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Dukiyoyi waɗanda makullansu suka ɗauki nauyin mutane masu ƙarfi da yawa",
+        "Ɗan maraƙi na zinare wanda ya samar da sauti",
+        "Kursiyi mai daraja daga ƙasa mai nisa",
+        "Ramin da ke cike da wuta mai ci",
+        "Rundunar giwaye masu ƙarfi ta yaƙi"
+      ],
+      "answer": "Dukiyoyi waɗanda makullansu suka ɗauki nauyin mutane masu ƙarfi da yawa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ƙasa ta haɗiye ta tare da gidan",
+        "An nutsar da shi cikin teku tare da rundunar sojoji",
+        "An ƙone shi da rai a cikin ramin wuta",
+        "Iska mai ƙarfi ta halaka ta",
+        "An buge shi da wani babban fashewa guda ɗaya"
+      ],
+      "answer": "Ƙasa ta haɗiye ta tare da gidan"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

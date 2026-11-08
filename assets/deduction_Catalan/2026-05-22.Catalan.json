@@ -1,0 +1,61 @@
+{
+  "title": "L'ascens del somiador",
+  "intro": "Una ànima destinada a la grandesa, però posada a prova per proves severes, es va embarcar en un viatge extraordinari. El camí d'aquest individu va estar marcat per la gelosia, la separació i el sofriment injust, només per culminar en una posició d'immensa responsabilitat i profunda reunió. Pots identificar aquesta figura remarcable de l'Alcorà?",
+  "clues": [
+    "Una vegada vaig ser envejat pels meus més propers, cosa que va portar a una profunda separació dels meus pares i de casa.",
+    "Vaig passar un període de grans dificultats, inclòs ser venut per un preu escàs pels viatgers.",
+    "Em van acusar injustament de fer el que havia fet malament i vaig passar anys reclús, però la meva fe va romandre inquebrantable.",
+    "Se'm va atorgar una capacitat única per interpretar visions complexes, cosa que va resultar fonamental en el meu camí cap a la llibertat.",
+    "La meva saviesa i integritat finalment em van portar a una posició de gran autoritat i confiança en una terra estrangera.",
+    "A través d'una sèrie d'esdeveniments, vaig retrobar-me amb els meus pares i germans grans després d'una llarga i dolorosa absència."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Sulaiman",
+        "Profeta Isa",
+        "Profeta Iússuf",
+        "Profeta Dawud",
+        "Profeta Yahya"
+      ],
+      "answer": "Profeta Iússuf"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ser engolit per un peix gros",
+        "Construint una Arca per salvar la creació",
+        "Suportant acusacions falses i empresonament",
+        "Enfrontant-se a un governant tirànic amb miracles",
+        "Estar a prova amb una malaltia greu i pèrdua"
+      ],
+      "answer": "Suportant acusacions falses i empresonament"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un arbust ardent",
+        "Un ocell parlant",
+        "Un pou",
+        "Un bastó que es converteix en una serp",
+        "Una camella com a senyal"
+      ],
+      "answer": "Un pou"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Liderant una migració cap a una terra promesa",
+        "Convertir-se en un ministre poderós a Egipte",
+        "Rebre judici diví sobre un poble arrogant",
+        "Governant un vast regne amb saviesa i justícia",
+        "Ascendent als cels"
+      ],
+      "answer": "Convertir-se en un ministre poderós a Egipte"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

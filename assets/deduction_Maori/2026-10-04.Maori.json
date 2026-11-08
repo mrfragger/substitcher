@@ -1,0 +1,61 @@
+{
+  "title": "Te Taumahatanga i Kawea Mai ai te Whakaora",
+  "intro": "I te whakamātautau nui i te wairua, i tangohia te whakamarie, ngā hoa, me te kaha tinana. I a ia e noho mokemoke ana i roto i te mamae nui, ka tahuri tēnei pononga a Allah ki te Atua anake. Nā te manawanui korekore me te inoi pono, ka tae mai te tai o te aroha noa i nui atu i ngā tumanakohanga katoa. Ko wai tēnei tangata nāna nei te aroha i whakatuwhera te tatau o te whakaoranga?",
+  "clues": [
+    "He pononga ahau nā Allah, i pārekareka ki te nui o te taonga, ki te whare rangatira, ā, i pai hoki te hauora i ōku rā.",
+    "Kātahi ka puta he whakamātautau: kua riro te taonga, kua riro te hunga i arohaina, ā, i pāngia tōku kikokiko e te mamae nui.",
+    "Kāore i taea e te hunga e tata ana ki ahau te tu atu ki tōku āhua, ā, i mahue mokemoke ahau, e kī ana i te mamae nui.",
+    "I karanga ahau ki tōku Ariki, me te kī kua pā mai a Hātana ki ahau me te ngenge me te whiu.",
+    "I tae mai te whakautu—he whakahau kia patua te whenua ki tōku waewae, ā, mai i reira ka pupu mai te wai matao hei whakaora.",
+    "I tangohia rawatia e tōku Ariki te raruraru, ā, i whakahokia mai tōku whānau ki ahau, i whakanuia, hei tohu aroha ki te hunga e whakaaroaro ana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Ayyub",
+        "Poropiti a Mohi",
+        "Poropiti a Yusuf",
+        "Poropiti Yunus",
+        "Poropiti Ihāperama"
+      ],
+      "answer": "Poropiti a Ayyub"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te mate nui me te ngaronga o ngā mea katoa",
+        "I maka ki te ahi e te whakahau a te kaitukino",
+        "I mauheretia ki roto i te poka hohonu e te whanaunga",
+        "I horomia e te ika nui i te moana",
+        "Te haereere i te whenua tupu i te whakaraunga"
+      ],
+      "answer": "Te mate nui me te ngaronga o ngā mea katoa"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te puna matao i pupu mai i te whenua",
+        "Te ahi matao me te rangimārie",
+        "Te āka e takoto ana i runga i te maunga",
+        "Ko ngā kaimahi i wehe i te moana",
+        "Te kete e mānu ana i runga i te awa"
+      ],
+      "answer": "Te puna matao i pupu mai i te whenua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua whakahokia mai te whānau me ngā manaakitanga, kua takiruatia",
+        "I mawhiti mai i te ahi mura, kāore i whara",
+        "I ara ake ki te tūranga teitei rawa o te kingitanga",
+        "I puta mai i te puku o te ika nui ki te haumaru",
+        "I ārahi i tētahi iwi i roto i te moana wehewehe"
+      ],
+      "answer": "Kua whakahokia mai te whānau me ngā manaakitanga, kua takiruatia"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

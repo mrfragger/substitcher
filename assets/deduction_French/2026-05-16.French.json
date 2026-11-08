@@ -1,0 +1,61 @@
+{
+  "title": "Le bâtisseur inébranlable du salut",
+  "intro": "Figure d'une patience immense et d'une conviction inébranlable, cette personne a consacré d'innombrables années à une mission divine, bravant un mépris et un rejet constants. Son histoire est un puissant témoignage de foi face à l'incrédulité la plus totale, aboutissant à un événement capital qui a transformé le monde.",
+  "clues": [
+    "J'ai consacré une très longue période de ma vie à appeler mon peuple à adorer Allah.",
+    "Mon peuple se moquait de moi et m'accusait d'erreur manifeste et de folie.",
+    "On m'a ordonné de construire quelque chose qui semblait inhabituel pour ma communauté enclavée.",
+    "Seuls quelques-uns ont cru en moi et se sont joints à ma famille et à moi dans cette construction unique.",
+    "J'ai embarqué à bord des paires de chaque créature vivante, comme Allah me l'a ordonné.",
+    "Un grand déluge submergea la terre, ne sauvant que ceux qui étaient avec moi dans mon navire, tandis que mon propre fils périt pour son incrédulité."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Salih",
+        "Prophète Hud",
+        "Prophète Noé",
+        "Prophète Dawud",
+        "Le prophète Sulayman"
+      ],
+      "answer": "Prophète Noé"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La destruction causée par un tremblement de terre",
+        "La séparation de la mer",
+        "Le grand déluge",
+        "Le feu de Nimrod",
+        "Le fléau des grenouilles"
+      ],
+      "answer": "Le grand déluge"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le buisson ardent",
+        "L'arche",
+        "Le puits d'eau",
+        "Le veau d'or",
+        "La montagne de Tur"
+      ],
+      "answer": "L'arche"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il a reçu un royaume",
+        "Son peuple fut transformé en singes",
+        "Son peuple fut sauvé par un miracle",
+        "Son peuple a péri noyé.",
+        "Son peuple fut frappé par la foudre."
+      ],
+      "answer": "Son peuple a péri noyé."
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

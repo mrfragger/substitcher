@@ -1,0 +1,60 @@
+{
+  "title": "Kesi Chini ya Mawimbi",
+  "intro": "Nabii, akiwa ameelemewa na utume wake, alifanya uamuzi uliompeleka mbali na watu wake na kuingia katika jaribu lisilotarajiwa. Safari yake ilichukua mgeuko wa ajabu, ikijaribu imani na uvumilivu wake kwa njia ya kina zaidi. Je, unaweza kupata maelezo ya tukio hili la ajabu kutokana na vidokezo vilivyotolewa?",
+  "clues": [
+    "Nabii alitumwa kwa watu, lakini aliondoka haraka, akihisi kukatishwa tamaa na kukataliwa kwao.",
+    "Safari yake ilimpeleka baharini, ambapo alipanda chombo kilichokuwa na mizigo mingi kikitafuta njia.",
+    "Dhoruba kubwa ilitokea, ikitishia meli, na uamuzi ukafanywa wa kumtupa mtu mmoja baharini ili kupunguza mzigo, ulioamuliwa kwa kura.",
+    "Alimezwa na kiumbe wa vilindini, tukio la kimiujiza lililoamriwa na mapenzi ya Mungu.",
+    "Ndani ya tumbo la kiumbe huyo, alimwomba Mola wake, akitubu na kumtukuza Mwenyezi Mungu gizani.",
+    "Baada ya kipindi cha dua kali, alitupwa kwenye ufuo tasa, dhaifu lakini akiwa hai, na baadaye akarudi na kukuta watu wake wameamini hatimaye."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nabii/Mtu",
+      "options": [
+        "Nabii Nuh",
+        "Nabii Lut",
+        "Nabii Musa",
+        "Nabii Yunus",
+        "Nabii Yusufu"
+      ],
+      "answer": "Nabii Yunus"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mafuriko ya Nuh",
+        "Kuharibiwa kwa Sodoma",
+        "Safari katika tumbo la samaki mkubwa",
+        "Kugawanyika kwa bahari",
+        "Ufunuo wa kichaka kinachowaka"
+      ],
+      "answer": "Safari katika tumbo la samaki mkubwa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Mlima Sinai",
+        "Fimbo ya Musa",
+        "Samaki Mkuu",
+        "Kisima cha Yusufu"
+      ],
+      "answer": "Samaki Mkuu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Agano jipya na wanadamu",
+        "Kuzaliwa kwa muujiza kwa watu wake",
+        "Ufalme ulioanzishwa kwa ajili ya ukoo wake",
+        "Kurudi kwa watu wake ambao waliamini wakati huo",
+        "Ushindi dhidi ya mtawala dhalimu"
+      ],
+      "answer": "Kurudi kwa watu wake ambao waliamini wakati huo"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

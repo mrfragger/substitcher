@@ -1,0 +1,61 @@
+{
+  "title": "Sahabin da ya juya baya",
+  "intro": "Za ku gano labarin wata rai da ta rayu a inuwar annabci amma ta zaɓi hanyar da ta kai ga halaka. Wannan mutum ya zauna gida tare da ɗaya daga cikin manzannin Allah da aka zaɓa amma ya faɗi jarrabawar imani. Wanene wannan abokin da ya ɓace?",
+  "clues": [
+    "Na zauna a tsakanin mutanen da suka ƙi kiran adalci, kuma ban yi musu adawa ba.",
+    "An auri ni da wani annabin Allah, amma ban yarda da wannan imani ba.",
+    "Lokacin da manzannin suka zo gidana da gargaɗi, ban yarda da su ba.",
+    "An umurci matata ta bar birnin tare da masu bi, ni kuma ban kasance a cikinsu ba.",
+    "Hukuncin ya sauka a kan mutanena, ni kuma aka halaka ni tare da su.",
+    "An ambace ni a cikin Alqur'ani a matsayin misali na kafirci, tare da matar Nuhu, a cikin Suratul Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Matar Annabi Nuhu",
+        "Matar Annabi Lutu",
+        "Matar Annabi Ibrahim",
+        "Matar Annabi Musa",
+        "Matar Annabi Ayyub"
+      ],
+      "answer": "Matar Annabi Lutu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ta ci amanar mijinta ta hanyar rashin imani",
+        "Ya ƙi saƙon Annabi Hud",
+        "An bauta wa gumaka a fili a cikin Ka'aba",
+        "An shirya makirci kan manufar mijinta",
+        "Ta ƙi yarda da annabcin ɗanta"
+      ],
+      "answer": "Ta ci amanar mijinta ta hanyar rashin imani"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Birnin Saduma",
+        "Birnin Madyan",
+        "Birnin Iram",
+        "Birnin Babila",
+        "Birnin Urushalima"
+      ],
+      "answer": "Birnin Saduma"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ceto tare da mijinta",
+        "An halaka shi tare da kafirai",
+        "An yi hijira zuwa ƙasa mai nisa",
+        "Ya tuba kuma an gafarta masa",
+        "Ya zama mai imani daga baya"
+      ],
+      "answer": "An halaka shi tare da kafirai"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

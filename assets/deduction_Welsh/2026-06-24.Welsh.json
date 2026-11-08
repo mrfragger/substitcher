@@ -1,0 +1,61 @@
+{
+  "title": "Warden y Fflam Anffoddadwy",
+  "intro": "Mae ffigur yn sefyll ar drothwy'r lle mwyaf ofnus yn yr anweledig, wedi'i ymddiried â dyletswydd nad yw unrhyw fod arall yn ei dymuno. Pan fydd eneidiau dioddefus yn gweiddi am drugaredd, mae ymateb llym yn atseinio trwy siambrau tân. Allwch chi ddatgelu hunaniaeth y gwarcheidwad tragwyddol hwn?",
+  "clues": [
+    "Rwy'n sefyll wrth fynedfa lle dychrynllyd o gosb yn yr anweledig.",
+    "Tân llachar, anffoddadwy yw canolbwynt fy nyletswydd ddifrifol.",
+    "Mae eneidiau dioddefus yn galw fy enw, gan erfyn am ryddhad o'u poenydio diddiwedd.",
+    "Pan fyddant yn erfyn, rwy'n datgan na fyddant yn gadael, byth.",
+    "Nid wyf yn ddynol, nac yn jinn — rwy'n fod wedi'i greu o ufudd-dod pur.",
+    "Fi yw'r prif angel a benodwyd yn warcheidwad tragwyddol Tân Uffern."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Mae pobl Uffern yn erfyn am i'w poenydio ddod i ben",
+        "Mae'r utgorn yn cael ei chwythu i nodi Dydd y Farn",
+        "Datgelir y Quran i galon y Proffwyd",
+        "Mae Proffwyd yn cael ei daflu i dân mawr gan eu pobl",
+        "Mae wal gadarn wedi'i hadeiladu i gynnwys cenedl lygredig"
+      ],
+      "answer": "Mae pobl Uffern yn erfyn am i'w poenydio ddod i ben"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Tân Uffern (Jahannam)",
+        "Y Goeden Lote ar ffin Paradwys",
+        "Trwmped tyllu",
+        "Staff sy'n trawsnewid yn sarff",
+        "Gorsedd ddwyfol fawreddog"
+      ],
+      "answer": "Tân Uffern (Jahannam)"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Dywedir wrth drigolion Uffern y byddant yn aros am byth",
+        "Mae trigolion Uffern wedi cael eu maddau a'u rhyddhau",
+        "Rhoddir ail gyfle i drigolion Uffern gael ffydd",
+        "Mae trigolion Uffern yn cael eu symud i le o oerfel",
+        "Mae trigolion Uffern yn cael eu dinistrio'n llwyr gan daran fellt"
+      ],
+      "answer": "Dywedir wrth drigolion Uffern y byddant yn aros am byth"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

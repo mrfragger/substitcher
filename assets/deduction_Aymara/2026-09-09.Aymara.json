@@ -1,0 +1,61 @@
+{
+  "title": "Nayrïr Almaw Sayt’asi",
+  "intro": "Janïr khiti yatiyirix aka Uraqin sarnaqkipanxa, janïr kuna qillqatas uñstkipanxa, mä jaqiw uñstawayi, janiw yaqha jaqir uñtaskiti. Aka almax Diosan amparanakapamp luratawa, mä chiqaw jan uñtasit suma uñnaqt’ani, ukat yant’ata, ukhamat jaqinakan sarnaqäwipanx ist’asiñapataki. Kunatï uka qhepat paskäna ukajja, jan chʼamanïñata, taqe chuyma arrepentisiñata ukat mä destinowa, ukajj wiñayatakiw luratanakan sarnaqäwip mayjtʼayani. ¿Khitis akax uk amuytʼasmati?",
+  "clues": [
+    "Nayax khuyapayasir Diosan amparapampiw uraq laq’at uñstayatäyäta",
+    "Nayarojj jan uñtasit suma uñnaqtʼan uta churapjjetäna, ukanjja janiw manqʼat awtjatäñasa ni qarjatäñas llamktʼkitänti",
+    "Janipuniw mä quqarus jakʼachasiñax wakiskiti, kunattix jarkʼatänwa",
+    "Nayampi masijampixa sallqjata, jark’at quqaru jak’achasipxta, Tatitusan kamachiparjama",
+    "Taqi chuyma arrepentisisaw Tatitusar kuttʼxapxta, ukat juchanakasat pampachatäpxaraktwa",
+    "Jiwasatw taqi jaqinakax jutapxi; Nayaw nayrïr kutix aka uraqin sarnaqirïta"
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Khitis nayajja?",
+      "options": [
+        "Adán profeta",
+        "Profeta Musa satawa",
+        "Profeta Nuh",
+        "Yusuf profetax ukham sataynawa",
+        "Profeta Isa"
+      ],
+      "answer": "Adán profeta"
+    },
+    "trial": {
+      "label": "Yant’awi/Evento",
+      "options": [
+        "Jark’at quqampi yant’ata",
+        "Faraonampi uñkatasiña",
+        "Jach’a Arca luraña",
+        "Munat yuqapan sacrificio luratapa",
+        "Jach’a ninaru jaquntatäña"
+      ],
+      "answer": "Jark’at quqampi yant’ata"
+    },
+    "location": {
+      "label": "Elemento Clave ukax mä juk’a pachanakanwa",
+      "options": [
+        "Jark’at Quqa",
+        "Uka Q’añuchata quqa",
+        "Quri Laq’unaka",
+        "Jach’a Arca",
+        "Quri Wawa"
+      ],
+      "answer": "Jark’at Quqa"
+    },
+    "outcome": {
+      "label": "Utjiri",
+      "options": [
+        "Jaqinakar nayrïr uñjirjamaw aka uraqir khithatänxa",
+        "Faraonasa, ejercitopampejj lamar qotan umamp chhaqtjjapjjäna",
+        "Jachʼa umajj jan wali jaqenakaruw tukjäna",
+        "Ninajj thayaruw tukuwayjjäna, sumankañanwa utjarakïna",
+        "Egipto markan reinopar apnaqañ churatäjjänwa"
+      ],
+      "answer": "Jaqinakar nayrïr uñjirjamaw aka uraqir khithatänxa"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Rungumar Duniya",
+  "intro": "A lokacin manyan jarrabawa, an bai wa wani sanannen mutum yalwar duniya, jarabawar godiya da tawali'u. Tafiyar wannan mutum ta zama darasi mai zurfi kan yanayin kayan duniya na ɗan lokaci da kuma sakamakon girman kai. Gano asalin wannan rai wadda labarinta ya kasance a cikin ƙasa a ƙarƙashinmu.",
+  "clues": [
+    "Na zauna a tsakanin mutanen da babban manzo ya jagoranta.",
+    "Allah ya ba ni dukiya mai yawa har mabuɗan taskata suka zama nauyi ga mutane masu ƙarfi da yawa.",
+    "Mutanena, da suka san dukiyata, sun shawarce ni da in nemi gidan lahira da abin da Allah ya ba ni, kada in manta da rabona na duniya, kuma in yi alheri kamar yadda Allah ya yi mini alheri.",
+    "Na yi alfahari da cewa arzikina ya samo asali ne kawai ta hanyar ilimina da ƙoƙarina, ina hana duk wani alherin Allah.",
+    "Da aka nemi in bayar da gudummawa ko in amince da falalar Allah, na ƙi amincewa da girman kai, ina tsammanin mallakara tawa ce kawai.",
+    "Sakamakon girman kai da zalunci da na yi, Allah ya umarci duniya ta buɗe ta haɗiye ni da gidana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Fir'auna",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Ƙurun"
+      ],
+      "answer": "Ƙurun"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ana jefa shi cikin wuta",
+        "Nutsewa cikin teku",
+        "Ana korarsa daga lambu",
+        "Zama kamar biri",
+        "Ƙasa ta haɗiye shi"
+      ],
+      "answer": "Ƙasa ta haɗiye shi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ɗan maraƙi na zinariya",
+        "Babban jirgi",
+        "Tsuntsu mai magana",
+        "Sanda mai ban mamaki",
+        "Manyan taskoki da maɓallai"
+      ],
+      "answer": "Manyan taskoki da maɓallai"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Zama babban mai mulki",
+        "Karɓar wahayi na allahntaka",
+        "Hawa zuwa sama",
+        "Rayuwa mai tsawo ta ibada",
+        "Halaka ta gaba ɗaya saboda girman kai"
+      ],
+      "answer": "Halaka ta gaba ɗaya saboda girman kai"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nilning azoblangan ruhi",
+  "intro": "Buyuk zulm davrida, zolim yer yuzini mutlaq shafqatsizlik bilan boshqargan bir paytda, bir jon qirollik farovonligidan ko'ra iymon yo'lini tanladi. Bu shaxs hokimiyat markazida yashagan, ammo kamtar payg'ambarning xabarida haqiqatni topgan. Ularning sayohati sabr-toqat, fidoyilik va sobit ishonchning abadiy saboqiga aylanadi. Dunyoviy mavqedan ko'ra ilohiy zavqni afzal ko'rgan bu ajoyib shaxsni aniqlay olasizmi?",
+  "clues": [
+    "Men buyuk qudratli saroyda yashardim, ammo qalbim kamtarona xabarda haqiqatni topdi.",
+    "Men qanday oqibatlarga duch kelishimni bilib, Musoning yo'l-yo'rig'iga amal qilishni tanladim.",
+    "Men o'z davrimning eng qudratli zolimiga uylangan edim, ammo uning soxta xudolarini rad etdim.",
+    "Mening azoblarim juda og'ir edi, chunki men yagona Xudoga bo'lgan e'tiqodim uchun jazolandim.",
+    "Men hech qachon imonimdan tonmaganman, hatto eng qattiq azobga duch kelganimda ham.",
+    "Parvardigorim mening sabrimdan rozi bo'ldi va meni jannatdagi sharafli joyga tanladi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Muso payg'ambarning onasi",
+        "Fir'avnning xotini",
+        "Muso payg'ambarning singlisi",
+        "Qadimgi Misr malikasi",
+        "Isroilliklarning xizmatkori"
+      ],
+      "answer": "Fir'avnning xotini"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Alloh yo'lida qo'shin bilan jang qilish",
+        "Fir'avnga qarshi turish va imonni e'lon qilish",
+        "Misrda ibodatxonalar qurish",
+        "Muso bilan dengiz bo'ylab sayohat qilish",
+        "Allohdan vahiy olish"
+      ],
+      "answer": "Fir'avnga qarshi turish va imonni e'lon qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Midiyon cho'li",
+        "Misr qirollik saroyi",
+        "Nil daryosi qirg'oqlari",
+        "Sinay tog'i",
+        "Kan'on yurti"
+      ],
+      "answer": "Misr qirollik saroyi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ko'p yillardan keyin payg'ambar bo'ldi",
+        "Isroilliklarni Misrdan olib chiqdi",
+        "Misr ustidan hukmronlik berildi",
+        "Shahid bo'ldi va Alloh tomonidan ulug'landi",
+        "Qarilikka qadar qulaylikda yashadi"
+      ],
+      "answer": "Shahid bo'ldi va Alloh tomonidan ulug'landi"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

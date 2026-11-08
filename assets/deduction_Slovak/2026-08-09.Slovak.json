@@ -1,0 +1,61 @@
+{
+  "title": "Pravdivý hlas staroveku",
+  "intro": "V Koráne je duša, ktorej príbeh je rozprávaný len v niekoľkých veršoch, no jej vznešené vlastnosti žiaria s brilantnou jasnosťou. Tento starodávny služobník Najmilosrdnejšieho, chválený Všemohúcim za zvláštnu cnosť, má svoje miesto na stránkach zjavenia. Vašou úlohou je identifikovať túto pozoruhodnú postavu. Viete uhádnuť, kto to je?",
+  "clues": [
+    "Som prorok Alaha, ktorý žil medzi prvými generáciami ľudstva.",
+    "Alláh ma spomenul vo Svojej knihe spolu s ostatnými prorokmi, všetci chválení za tú istú vznešenú cnosť.",
+    "V Koráne som opísaný ako muž pravdy.",
+    "Alah ma povýšil na vysoké postavenie, aké dosiahlo len málo ľudí.",
+    "Moje meno je spomenuté v súre Al-Anbija spolu s dvoma ďalšími prorokmi chválenými za ich trpezlivosť.",
+    "Ja som Idris, pravdovravný a vznešený prorok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Idris",
+        "Prorok Nuh",
+        "Prorok Ibrahim",
+        "Prorok Músa",
+        "Prorok Ismail"
+      ],
+      "answer": "Prorok Idris"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Zachovanie trpezlivosti a pravdovravnosti, potom povýšenie na vysoké postavenie",
+        "Stavba veľkej archy na záchranu veriacich pred ničivou potopou",
+        "Byť uvrhnutý do plápolajúceho ohňa a vyjsť z neho úplne bez zranení",
+        "Konfrontácia s mocným kráľovom a porazenie jeho armády mágov",
+        "Prežitie v bruchu veľkej ryby v hlbinách mora"
+      ],
+      "answer": "Zachovanie trpezlivosti a pravdovravnosti, potom povýšenie na vysoké postavenie"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Vysoké a vznešené postavenie od Alaha",
+        "Obrovská loď postavená z dosiek a pokrytá dechtom",
+        "Zúriaci oheň rozdúchaný modlármi zlého kráľa",
+        "Rozľahlé more, ktoré sa rozdelilo na suché cesty",
+        "Tmavé brucho veľkej veľryby na dne oceánu"
+      ],
+      "answer": "Vysoké a vznešené postavenie od Alaha"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Pripustený do Alahovho milosrdenstva ako jeden zo spravodlivých",
+        "Zachránený spolu so všetkými veriacimi pred celosvetovou potopou",
+        "Vyšiel z plameňov nedotknutý ohňom",
+        "Bezpečne viedol deti Izraela k slobode cez more",
+        "Znovu sa stretli so svojou milovanou rodinou po dlhých rokoch útrap"
+      ],
+      "answer": "Pripustený do Alahovho milosrdenstva ako jeden zo spravodlivých"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

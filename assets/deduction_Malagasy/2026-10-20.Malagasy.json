@@ -1,0 +1,61 @@
+{
+  "title": "Ny Mpamorona ny Faniriana Diso",
+  "intro": "Olona nanana fahefana lehibe no nanompo ny iray amin'ireo mpitondra jadona malaza ratsy indrindra teo amin'ny tantara tany Ejipta fahiny. Nomena baiko sahisahy ity olona ity — hanorina rafitra natao hanohitra ny lanitra. Ny tantaran'izy ireo dia mijoro ao amin'ny CORAN ho toy ny lesona manaitra momba ny fomba itondran'ny fankatoavana jamba ny avonavona ho amin'ny faharavana fotsiny.",
+  "clues": [
+    "Niasa tao amin'ny lapan'ny mpitondra mahery iray izay nilaza ho andriamanitra teo amin'ny tany aho.",
+    "Nitana toerana ambony tao amin'ny governemanta aho, nanoro hevitra ny mpitondra jadona niavonavona indrindra tamin'ny androko.",
+    "Variana nihantsy an'Andriamanitr'i Mosesy ny mpanapaka ahy, nefa tsy nety nanaiky Azy izy ireo.",
+    "Nodidiana aho hanorina tilikambo amin'ny biriky may mba hahafahan'ny mpanapaka ahy miakatra any an-danitra.",
+    "Tsy nahatratra ny lanitra mihitsy ilay tilikambo, ary ny fanandevozako ny avonavona no nahazoako henatra mandrakizay.",
+    "Maty niaraka tamin'ilay narahiko aho, ary ny anarako dia lasa fampitandremana maharitra amin'ireo izay manome lalana ny mpitondra jadona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Hamana",
+        "Azar (rain'i Ibrahim)",
+        "Illyas (mpaminany)",
+        "Dhu al-Kifl",
+        "Harut (iray amin'ireo anjely roa tao Babylona)"
+      ],
+      "answer": "Hamana"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nasaina nanangana tranobe avo be mba hahatratrarana ny lanitra",
+        "Nasaina nanazava nofy nalefan'Andriamanitra",
+        "Natsipy tao anaty afo mirehitra ho fitsapana ny finoana",
+        "Voatery nisafidy teo amin'ny seza fiandrianana sy ny fahamarinana",
+        "Nifanandrina tamin'ny fifaninanana majika"
+      ],
+      "answer": "Nasaina nanangana tranobe avo be mba hahatratrarana ny lanitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Tilikambo vita amin'ny biriky may",
+        "Tehina niova ho menarana",
+        "Sambo iray mandalo tondra-drano lehibe",
+        "Zaridaina voahodidin'ny rindrina avo",
+        "Seza fiandrianana voaravaka vatosoa robina sy volamena"
+      ],
+      "answer": "Tilikambo vita amin'ny biriky may"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nilentika teo akaikin'ny mpampahory tao an-dranomasina",
+        "Tonga mpanjaka mahery tany amin'ny tany midadasika",
+        "Afaka nandositra afo mirehitra tsy naninona",
+        "Nanorina fanjakana feno fahendrena miroborobo",
+        "Nihaona indray tamin'ny fianakaviana taorian'ny sesitany an-taonany maro"
+      ],
+      "answer": "Nilentika teo akaikin'ny mpampahory tao an-dranomasina"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ba Retraite Solitaires",
+  "intro": "Na mikanda ya kala ya boboto ya Nzambe, ezali na molimo moko ya bopeto oyo ekokani na mosusu te, oyo ekeseni na bato na bango mpo na koluka kozala bango moko na nzela ya bule. Bayebaki te ete bozangisi oyo ekobimisa elembo mpo na mokili nyonso, komekama ya bondimi oyo ekolobama mpo na libela.",
+  "clues": [
+    "Namipesaki na bomoi ya mosala liboso ya kobotama na ngai.",
+    "Batyaki ngai na nse ya libateli ya mosakoli moko ya lokumu.",
+    "Nasimbamaki na bilei oyo euti na Allah oyo ekamwisaki mobateli na ngai.",
+    "Nalongwaki na libota na ngai mpo na kokende na esika moko ya ɛsti.",
+    "Anzelu abimelaki ngai na lolenge ya moto ya kokoka, amemi nsango ya mwana mobali ya peto.",
+    "Ntango nazongaki elongo na mwana na ngai ya sika, bato na ngai bafundaki ngai, kasi bebe yango alobaki mpo na komilongisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Maryam (Maria) .",
+        "Asiyah (mwasi ya Farao) .",
+        "Hajar (mama ya Ismail) .",
+        "Sarah (mwasi ya Ibrahim) .",
+        "Maman ya Musa"
+      ],
+      "answer": "Maryam (Maria) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Zemi ya kokamwa mpe kobotama ya mwana mobali",
+        "Kobwakama na mɔtɔ",
+        "Komela mbisi moko monene",
+        "Kotonga masuwa moko monene",
+        "Kokatisa mbu"
+      ],
+      "answer": "Zemi ya kokamwa mpe kobotama ya mwana mobali"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Esika moko ya ɛsti oyo ezali mosika te",
+        "Nzete oyo ezali kozika",
+        "Mbu Motane",
+        "Libanga oyo mai ezalaki kobima na yango",
+        "Baleine yango"
+      ],
+      "answer": "Esika moko ya ɛsti oyo ezali mosika te"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mwana moko ya bebe alobaki mpo na komibatela mama moko",
+        "Mbu ekabwanaki",
+        "Mɔtɔ ekómaki malili mpe ezalaki na likama te",
+        "Baleine yango esanzaki na libongo",
+        "Masuwa yango ekitanaki na ngomba moko"
+      ],
+      "answer": "Mwana moko ya bebe alobaki mpo na komibatela mama moko"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

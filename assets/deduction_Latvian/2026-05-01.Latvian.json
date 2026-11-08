@@ -1,0 +1,61 @@
+{
+  "title": "Patiesības tronis",
+  "intro": "Varens valdnieks, kas pazīstams ar savu lielo gudrību un krāšņo troni, saņem noslēpumainu ziņu no nezināma avota. Šī negaidītā saziņa apšauba viņu uzskatus un autoritāti, liekot viņiem doties diplomātiskā ceļojumā, kas pārbaudīs viņu intelektu un galu galā novedīs pie dziļas garīgas atmodas. Vai varat atklāt šī valdnieka identitāti un notikumus, kas pārveidoja visu viņa valstību?",
+  "clues": [
+    "Mana tauta un es pielūdzām sauli, sekojot mūsu senču ceļiem.",
+    "Putns, ūdensputns, bija negaidīts vēstnesis, kas atnesa man vēstuli no ietekmīga vadītāja.",
+    "Lai pārbaudītu sūtītāja gudrību, es nosūtīju vērtīgas dāvanas, bet tās tika atgrieztas, jo sūtītājam piederēja daudz lielāka Allāha bagātība.",
+    "Vēl pirms es nokļuvu sūtītāja galmā, mans krāšņais tronis brīnumainā kārtā tika turp pārvests acumirklī.",
+    "Pēc manas ierašanās man jautāja, vai pārvietotais tronis ir mans, un es atbildēju: \"It kā tas būtu tas pats.\"",
+    "Es iegāju lielā zālē, kuras grīdu es kļūdaini noturēju par ūdens peļķi, un tajā bijības brīdī es kopā ar pravieti Suleimanu pakļāvos Allāham, pasauļu Kungam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Šebas karaliene",
+        "Zulaikha (Al-Aziza sieva)",
+        "Asija (faraona sieva)",
+        "Musas māte",
+        "Marija (Īsas māte)"
+      ],
+      "answer": "Šebas karaliene"
+    },
+    "trial": {
+      "label": "Centrālais notikums",
+      "options": [
+        "Vēstules saņemšana no pravieša Suleimana",
+        "Tiekot iemests ugunī",
+        "Šķirsta būvēšana, lai pārdzīvotu plūdus",
+        "Sarkanās jūras šķelšana",
+        "Apsūdzēts nepieklājībā"
+      ],
+      "answer": "Vēstules saņemšana no pravieša Suleimana"
+    },
+    "location": {
+      "label": "Galvenais objekts",
+      "options": [
+        "Lielisks tronis",
+        "Zelta teļš",
+        "Daudzkrāsains mētelis",
+        "Personāla, kas pārvērtās par čūsku",
+        "Kuģis, kas veidots no dēļiem un naglām"
+      ],
+      "answer": "Lielisks tronis"
+    },
+    "outcome": {
+      "label": "Galīgais rezultāts",
+      "options": [
+        "Pakļaušanās vienīgajam patiesajam Dievam (Allāham)",
+        "Pārvēršanās par sāls stabu",
+        "Augsta torņa celtniecība, lai sasniegtu Dievu",
+        "Tikt norītai lielai zivij",
+        "Milzīga bagātības zaudēšana kā sods"
+      ],
+      "answer": "Pakļaušanās vienīgajam patiesajam Dievam (Allāham)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

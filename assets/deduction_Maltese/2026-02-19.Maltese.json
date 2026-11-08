@@ -1,0 +1,61 @@
+{
+  "title": "Il-Bluha tal-Ambizzjoni Kbira",
+  "intro": "Ibda vjaġġ biex tiskopri l-identità ta' entità kollettiva li l-pjanijiet awdaċi tagħha laħqu tmiem mhux mistenni u qawwi. Din in-narrattiva sservi bħala tfakkira profonda tal-qawwa divina u l-fraġilità tal-poter dinji meta jopponi s-sagru. Żvela l-misteru ta' dan il-grupp, li l-istorja tiegħu hija mnaqqxa fil-Koran bħala twissija għal dawk kollha li jfittxu li jiksru l-liġi.",
+  "clues": [
+    "Kellna ambizzjoni kbira, nemmnu li l-qawwa tagħna ma kellha l-ebda paragun, u tlaqna fuq vjaġġ b'objettiv ċar u distruttiv.",
+    "Il-mexxej tagħna, mimli arroganza, fittex li jħammeġ Dar sagra meqjuma minn ħafna, bil-għan li jiddevja l-pellegrinaġġ lejn struttura mibnija minna.",
+    "Minn art imbiegħda, immarċjajna b'forza enormi, kunfidenti fl-abbiltà tagħna li niżżarmaw il-bini antik fil-Belt Imqaddsa.",
+    "L-armata tagħna kienet formidabbli, immexxija minn ħlejjaq magnífico, xena li rarament, jekk qatt, dehret f'kampanja bħal din mill-abitanti tal-art li invadejna.",
+    "Meta wasalna fid-destinazzjoni tagħna, seħħ intervent divin; dehru ħlejjaq żgħar bil-ġwienaħ, li tefgħuna ġebel tat-tafal moħmi.",
+    "L-espedizzjoni kollha tagħna kellha tmiem devastanti, u ħalliet il-forza formidabbli tagħna annientata għalkollox, bħal tiben mimgħud, il-pjan grandjuż tagħna mnaqqas għal trab."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Nies ta' Thamud",
+        "Nies ta' 'Ad",
+        "Nies ta’ Sodoma",
+        "Nies tal-Iljunfant",
+        "Nies tal-Ġnien"
+      ],
+      "answer": "Nies tal-Iljunfant"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-Għargħar il-Kbir",
+        "Il-Kampanja kontra l-Kaaba",
+        "Il-Qerda tal-Idoli",
+        "Il-Qsim tal-Baħar",
+        "It-Terremot ta’ Midjan"
+      ],
+      "answer": "Il-Kampanja kontra l-Kaaba"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka",
+        "L-Istaff",
+        "Il-Kaaba",
+        "L-Għoġol tad-Deheb",
+        "In-Nar"
+      ],
+      "answer": "Il-Kaaba"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Salvazzjoni divina",
+        "Perjodu twil ta’ prosperità",
+        "Konverżjoni għall-Islam",
+        "Qerda totali",
+        "Eżilju minn arthom"
+      ],
+      "answer": "Qerda totali"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

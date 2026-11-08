@@ -1,0 +1,61 @@
+{
+  "title": "Das Echo vom Rande der Stadt",
+  "intro": "In einer Stadt, die sich von göttlicher Führung abgewandt hatte, tauchte am Stadtrand eine einsame Gestalt auf, die eine Botschaft der Hoffnung und Warnung überbrachte. Diese vergessene Seele sollte zu einem ewigen Symbol unerschütterlichen Glaubens werden.",
+  "clues": [
+    "Ich sah Boten in meine Stadt geschickt werden, aber mein Volk tat sie als gewöhnliche Menschen ab.",
+    "Ich glaubte an ihre Botschaft und spürte, wie die Wahrheit in mir widerhallte.",
+    "Ich rief mein Volk dazu auf, den Boten zu gehorchen, die keine Belohnung verlangten.",
+    "Ich rannte vom anderen Ende der Stadt los und versuchte verzweifelt, sie zur Vernunft zu bringen.",
+    "Mein Volk erhob sich gegen mich, und ich wurde getötet, aber ich fand ewigen Frieden.",
+    "Allah sagte zu mir: „Trete ein ins Paradies“, und ich wünschte, mein Volk könnte die mir zuteilgewordene Ehre miterleben."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Der Gläubige von Ya-Sin",
+        "Uzair der Fragesteller",
+        "Al-Khidr der Führer",
+        "Der Gläubige der Familie des Pharao",
+        "Namrud der Tyrann"
+      ],
+      "answer": "Der Gläubige von Ya-Sin"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er konfrontierte die ungläubigen Menschen, die ihn getötet hatten.",
+        "In ein loderndes Feuer geworfen werden",
+        "Von einem großen Fisch verschluckt werden",
+        "Bau einer riesigen Arche",
+        "Auf der Flucht vor der Armee eines Tyrannen"
+      ],
+      "answer": "Er konfrontierte die ungläubigen Menschen, die ihn getötet hatten."
+    },
+    "location": {
+      "label": "Schlüsselposition",
+      "options": [
+        "Das äußerste Ende der Stadt",
+        "Der Berg Tur",
+        "Das Tal der Ameisen",
+        "Die Ufer des Nils",
+        "Die Höhle der Höhle"
+      ],
+      "answer": "Das äußerste Ende der Stadt"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Martyrium und sofortiger Eintritt ins Paradies",
+        "Flucht und Erlösung",
+        "Aufstieg in den Himmel",
+        "Ertrinken im Meer",
+        "Versteinerung"
+      ],
+      "answer": "Martyrium und sofortiger Eintritt ins Paradies"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

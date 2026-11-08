@@ -1,0 +1,61 @@
+{
+  "title": "Anam géillte na lasrach naofa",
+  "intro": "Tá scéal faoi mhisneach urghnách romhat, áit ar leomh duine aonair dúshlán a thabhairt do na creidimh is daingne i sibhialtacht iomlán. Lean na cogarnaigh seo ón am atá thart, agus nochtfaidh tú saol atá marcáilte ag creideamh dochloíte, marthanacht mhíorúilteach, agus leagan bunsraitheanna a mhúnlódh turas spioradálta na mbilliún. Rianaigh gach leid go cúramach - cuimhníonn an tine naofa fós.",
+  "clues": [
+    "Rugadh mé i dteaghlach a raibh urraim agus íolanna snoite acu, ach dhiúltaigh rud éigin domhain ionam don rud a adhradh siad.",
+    "Sheas mé i gcoinne rialóir ba chumhachtaí mo thíre, ag briseadh na n-íodal céanna a chrom mo mhuintir dóibh, agus ag dearbhú nach raibh dílseacht tuillte ag ach Cruthaitheoir na bhflaitheas.",
+    "Ordaíodh tine bhriste a lasadh i m'ainm, ach d'fhógair mé go sábhálfadh an Té a raibh mé ag freastal air mé ina aonar — agus ordaíodh do na lasracha fuarú agus slán a choinneáil.",
+    "D’fhág mé i mo dhiaidh gach rud a raibh cur amach agam air ar ordú diaga, ag fánaíocht trí ghleannta tirime le mo theaghlach, ag cur muiníne i soláthar nárbh fhéidir liom a fheiceáil go fóill.",
+    "Agus mé i mo sheasamh le taobh mo mhic chéadghin i ngleann lom, thógamar le chéile bunchloch tí naofa, tearmann atá i ndán do chách a ghéilleann.",
+    "Tugtar Khalilullah orm — cara dlúth an Trócaire is Trócaireaí — agus nascadh m'ainm go deo le creideamh an géillte agus an géillte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Ibrahim (Abraham)",
+        "An Fáidh Músa (Maois)",
+        "An Fáidh Nuh (Nói)",
+        "An Fáidh Íosa (Íosa)",
+        "An Fáidh Muhammad ﷺ"
+      ],
+      "answer": "An Fáidh Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á chaitheamh isteach i tine lasrach ag tíoránach",
+        "Á shlogadh istigh i n-iasc mór ar muir",
+        "Á ísliú i bpoll ag deartháireacha éadmhara",
+        "Á iompar ar airde ar chréatúr sciathánach",
+        "Ag fulaingt tuile mhór taobh istigh de shoitheach adhmaid"
+      ],
+      "answer": "Á chaitheamh isteach i tine lasrach ag tíoránach"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Teach Naofa (Kaaba)",
+        "Soitheach mór adhmaid tógtha ar chnoc",
+        "Foireann a d'fhéadfadh an fharraige a scoilteadh",
+        "Uaimh codlata fada le cú dílis",
+        "Scrolla de dhlí nochtaithe bronnta ar sliabh"
+      ],
+      "answer": "An Teach Naofa (Kaaba)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Tugadh Khalilullah, cara dlúth Allah, air.",
+        "Threoraigh siad pobal trasna farraige scoilte go sábháilteacht",
+        "Bronnadh máistreacht air ar ghaotha agus ar fhórsaí dofheicthe",
+        "Rinneadh leigheoir air a raibh leigheasanna míorúilteacha air",
+        "Dhá threibh dhéag scaipthe aontaithe faoi aon chonradh amháin"
+      ],
+      "answer": "Tugadh Khalilullah, cara dlúth Allah, air."
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

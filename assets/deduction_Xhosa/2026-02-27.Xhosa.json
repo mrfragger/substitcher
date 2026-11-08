@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi Labangabonwayo",
+  "intro": "Kwiingxelo zonxibelelwano oluvela kuThixo, kuvela umntu obali lakhe lilukiwe ngemiqondiso emangalisayo nokholo oluqinileyo. Lo mntu wafumana isityhilelo esikhethekileyo esasichasa imimiselo yexesha lakhe, ethetha ngaphaya kwesigqubuthelo sokuqonda okuqhelekileyo. Isigidimi sakhe asizange sifike ngeendlela eziqhelekileyo kodwa ngonxibelelwano olunzulu olwaluchasene nokuqonda komntu, lubiza abantu ukuba baqonde inyaniso ngeendlela ezingalindelekanga. Uhambo lwalo mkhonzi ka-Allah lusebenza njengobungqina bendlela ulwalathiso olunokubonakala ngayo kwiimeko ezingaqhelekanga, lumema ukucamngca ngohlobo lwesityhilelo ngokwaso.",
+  "clues": [
+    "Ndanikwa umyalezo owavela ngelizwi elingaqondakaliyo elivela kumthombo ongabonakaliyo.",
+    "Ekuqaleni abantu bam abazange bawamkele umyalezo wam, befuna ubungqina obuqhelekileyo bokuba ndinyanisekile.",
+    "Ndabacela umngeni ukuba bavelise into efana naleyo ndiyifumeneyo, kodwa abazange bakwazi.",
+    "Isityhilelo endisiziseyo sichazwe njengeevesi ezicacileyo ezenza inyaniso yacaca.",
+    "Ndibalumkisile abantu bam ngesohlwayo esiqatha ukuba baqhubeka nokungakholwa kwabo nokuzikhukhumeza.",
+    "Ibali lam likhankanyiwe kunye nabanye abathunywa kwisurah egxininisa imiqondiso yamandla ka-Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uHud",
+        "Umprofeti uSalih",
+        "Umprofeti uShu'ayb",
+        "Umkholi ovela kusapho lukaFirawn",
+        "Umprofeti uMusa"
+      ],
+      "answer": "Umprofeti uSalih"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuphoswa esithandweni somlilo",
+        "Ukujongana nengcinezelo yomlawuli okhohlakeleyo",
+        "Ukuvelisa inkamela yemazi njengomqondiso omangalisayo",
+        "Ukusinda kumkhukula omkhulu",
+        "Ukuphoswa elwandle ebhokisini"
+      ],
+      "answer": "Ukuvelisa inkamela yemazi njengomqondiso omangalisayo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intlambo yaseTuwa",
+        "Isixeko saseMadyan",
+        "Ilizwe laseThamud",
+        "Inkundla kaFirawn",
+        "Umqolomba kaHira"
+      ],
+      "answer": "Ilizwe laseThamud"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "answer": "Abantu bam batshatyalalisiwe ngokubulala inkamela engummangaliso",
+      "options": [
+        "Abantu bam baguquka baza basindiswa",
+        "Ndanyuselwa ezulwini ndiphila",
+        "Abantu bam batshatyalalisiwe ngokubulala inkamela engummangaliso",
+        "Ndaba ngumlawuli omkhulu",
+        "Ndasindiswa ngokufakwa emkhombeni"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

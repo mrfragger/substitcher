@@ -1,0 +1,61 @@
+{
+  "title": "a melodia das montanhas ao entardecer",
+  "intro": "Escutem enquanto os vales ecoam em louvor ao lado de um servo escolhido de Alá. Uma voz dotada de melodia, um julgamento buscado pelos litigantes na câmara, e metal suavizado por ordem divina aguardam descoberta. Que figura de adoração e governo justo se manifesta através destes sinais?",
+  "clues": [
+    "Fui abençoado por Alá com abundância e uma voz melodiosa de louvor.",
+    "Alá me ensinou a compreender a linguagem do julgamento justo entre os litigantes.",
+    "Enfrentei um poderoso guerreiro gigante em batalha e, pela vontade de Alá, prevaleci sobre ele.",
+    "Recebi sabedoria, autoridade e uma escritura revelada de salmos de Alá.",
+    "As montanhas e os pássaros se uniram a mim para glorificar a Deus ao entardecer e ao nascer do sol.",
+    "Alá me ensinou a confeccionar cotas de malha a partir de ferro que foi amolecido para mim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Dawud (Davi)",
+        "Profeta Ismail (Ismael)",
+        "Profeta Yahya (João)",
+        "Dhul-Kifl",
+        "Profeta Al-Yasa (Elisha)"
+      ],
+      "answer": "Profeta Dawud (Davi)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Derrotou Jalut (Golias) em batalha pela vontade de Alá.",
+        "Construíram a Arca para sobreviver ao grande dilúvio.",
+        "Foi lançado em um fogo que Alá tornou frio",
+        "Foi engolido por um grande peixe no mar.",
+        "Foi elevado aos céus sem provar a morte."
+      ],
+      "answer": "Derrotou Jalut (Golias) em batalha pela vontade de Alá."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Montanhas e pássaros se unem em louvor a Alá.",
+        "Um cajado que se transformou em serpente.",
+        "Um fogo que se tornou frio e pacífico.",
+        "Uma camela enviada como sinal para o povo.",
+        "Uma arca de madeira repousando no Monte Judi"
+      ],
+      "answer": "Montanhas e pássaros se unem em louvor a Alá."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Concedidos o título de realeza, a sabedoria e o Zabur (Salmos).",
+        "Concedido um filho na velhice após fervorosa oração.",
+        "Garantiram segurança na caverna por muitos anos.",
+        "Concedida uma fonte de Zamzam no deserto",
+        "Concedido afogamento do exército no mar"
+      ],
+      "answer": "Concedidos o título de realeza, a sabedoria e o Zabur (Salmos)."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

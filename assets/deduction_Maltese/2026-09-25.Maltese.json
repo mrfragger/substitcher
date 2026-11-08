@@ -1,0 +1,61 @@
+{
+  "title": "Id-Diga Li Kissret Saltna",
+  "intro": "Art ta’ xmajjar immewġin, żewġ ġonna ħodor, u prosperità bla paragun — iżda l-abitanti tagħha ma tawx kas lil Dak li berikhom. Meta ġew tfakkiriet li sejħulhom lura, huma daru lura. Dak li segwa kien kastig li għadu jidwi bħala twissija. Min kienet din il-komunità antika?",
+  "clues": [
+    "Għexna f’art tant imbierka li d-dar tagħna kienet tinsab bejn żewġ ġonna ħodor.",
+    "Konna nieħdu pjaċir bix-xmajjar jiċċirkolaw minn ġo artijietna u b’ħsad abbundanti jimla djarna.",
+    "Madankollu meta ġejna msejħin għall-gratitudni u l-ubbidjenza lejn Sidna, dorna lura bil-kburija.",
+    "L-għana u l-kumdità tagħna ġegħluna ninsew lil Dak li kien tana kollox.",
+    "Imbagħad ġie torrent f'daqqa li kiser il-barriera kbira li konna nafdaw fuqha.",
+    "Aħna n-nies ta' Saba', li arthom kienet magħrufa għad-diga l-kbira ta' Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Nies ta' Saba",
+        "Nies tat-Trinka",
+        "Kumpanji tal-Bir",
+        "Nies ta' Tubba'",
+        "Nies ta’ Midjan"
+      ],
+      "answer": "Nies ta' Saba"
+    },
+    "trial": {
+      "label": "Il-waqgħa tagħna",
+      "options": [
+        "Għargħar minn diga li qed tinfaqa’",
+        "Riħ qawwi mis-sema",
+        "Ħruq f'trinka tan-nar",
+        "Terremot qawwi",
+        "Għerqa f'għargħar kbir"
+      ],
+      "answer": "Għargħar minn diga li qed tinfaqa’"
+    },
+    "location": {
+      "label": "Post Ewlieni",
+      "options": [
+        "Id-Diga ta' Ma'rib",
+        "il-Muntanja Sinaj",
+        "L-Għar tas-Seba’ Rieqdin",
+        "L-Għollieq Jaħraq",
+        "Il-Qsim tal-Baħar"
+      ],
+      "answer": "Id-Diga ta' Ma'rib"
+    },
+    "outcome": {
+      "label": "Id-Destin Tagħna",
+      "options": [
+        "Żewġ ġonna morri ħadu post dawk lush tagħna",
+        "Il-ġonna tagħna kibru saħansitra aktar lush",
+        "L-art għerqet taħt il-baħar",
+        "Aħna midfuna fl-irmied vulkaniku",
+        "Il-ġens tagħna nqasam fi tnax-il tribù"
+      ],
+      "answer": "Żewġ ġonna morri ħadu post dawk lush tagħna"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

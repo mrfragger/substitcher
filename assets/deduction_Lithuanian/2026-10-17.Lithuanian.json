@@ -1,0 +1,61 @@
+{
+  "title": "Ilgesys šventojoje kameroje",
+  "intro": "Įžengiate į tylią šventovę ir matote atsidavusį Alacho tarną, stovintį besimeldžiantį. Jų rankos pakeltos, akys pakeltos, o širdyse trykšta visą gyvenimą trunkantis ilgesys. Kas yra ši kantri siela, kurios pasitikėjimas Alachu niekada nesvyravo?",
+  "clues": [
+    "Ilgus metus praleidau garbindamas ir melsdamasis, mačiau stebuklus, kurie sustiprino mano tikėjimą.",
+    "Man buvo pavesta rūpintis palaiminta jauna siela šventovėje.",
+    "Senstant didžiausias mano sielvartas buvo tai, kad neturėjau vaikų, nes mano žmona buvo nevaisinga, o mes abu buvome senyvo amžiaus.",
+    "Meldžiausi Viešpačiui įpėdinio iš savo šeimos, kuris tęstų pranašystės palikimą.",
+    "Kol stovėjau maldos nišoje, angelai mane pašaukė sakydami: „Alachas tau siunčia gerąją naujieną“, ir mane apėmė baimė ir pagarba.",
+    "Man buvo pasakyta, kad turėsiu sūnų vardu Jahja – vardas, kuris niekam anksčiau nebuvo duotas, ir kaip ženklas, kad tris dienas nekalbėsiu su žmonėmis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Zakarija",
+        "Pranašas Jahja",
+        "Pranašas Isa",
+        "Pranašas Dawudas",
+        "Išmintingasis Lukmanas"
+      ],
+      "answer": "Pranašas Zakarija"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Nevaisingumas ir senatvė trokštant teisaus įpėdinio",
+        "Įmestas į liepsnojančią ugnį",
+        "Praryti didelės žuvies",
+        "Karalystės praradimas tironui",
+        "Ištremtas iš tėvynės"
+      ],
+      "answer": "Nevaisingumas ir senatvė trokštant teisaus įpėdinio"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Maldos niša (mihrab)",
+        "Didysis laivas (Arka)",
+        "Degantis krūmas",
+        "Personalas, kuris virto gyvate",
+        "Alacho kupranugarė"
+      ],
+      "answer": "Maldos niša (mihrab)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteikė teisų sūnų ir vėl prabilo po trijų dienų tylos",
+        "Sunaikintas potvynio dėl netikėjimo",
+        "Suteikta didžiulė karalystė ir vėjo kontrolė",
+        "Iš žuvies pilvo išlaisvintas",
+        "Prarytas žemės"
+      ],
+      "answer": "Suteikė teisų sūnų ir vėl prabilo po trijų dienų tylos"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

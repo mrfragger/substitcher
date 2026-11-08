@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo ya Bato oyo bamonanaka te",
+  "intro": "Na mikanda ya kala ya bosololi ya bonzambe, moto moko abimi oyo lisolo na ye esalemi na bilembo ya makamwisi mpe na kondima ya kokangama. Moto oyo azwaki emoniseli moko ya kokamwa oyo etyaki ntembe na mibeko ya ntango na bango, kolobaka uta na ngambo mosusu ya voile ya bososoli ya momesano. Nsango na bango eyaki te na nzela ya mayele ya momesano kasi na nzela ya boyokani ya mozindo oyo ezalaki koboya bososoli ya bato, kobenga bato mpo na koyeba bosolo na ndenge oyo bakanisaki te. Mobembo ya mosali oyo ya Allah ezali lokola litatoli ya lolenge nini bokambi ekoki komonana na makambo ya kokamwa mingi, kobengisaka bomanioli na lolenge ya bobimisi yango moko.",
+  "clues": [
+    "Bapesaki ngai nsango oyo eyaki na nzela ya mongongo moko ya kobombama oyo eutaki na esika oyo emonanaki te.",
+    "Bato na ngai baboyaki na ebandeli nsango na ngai, kosɛnga bilembeteli ya momeseno mingi mpo na bosolo na ngai.",
+    "Natyaki bango ntembe ete bábimisa eloko oyo ekokani na oyo nazwaki, kasi bakokaki te.",
+    "Emoniseli oyo namemaki elimbolamaki lokola bavɛrsɛ ya polele oyo emonisaki bosolo polele.",
+    "Nakebisaki bato na ngai na etumbu makasi soki bakobi na kozanga kondima mpe na lolendo na bango.",
+    "Lisolo na ngai elobelami pembeni ya bamemi-nsango mosusu na surah oyo ezali kopesa ntina na bilembo ya nguya ya Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Hud",
+        "Mosakoli Salih",
+        "Mosakoli Shu'ayb",
+        "Mondimi oyo awuti na Libota ya Fir'awn",
+        "Mosakoli Musa"
+      ],
+      "answer": "Mosakoli Salih"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobwakama na litumbu ya mɔ́tɔ",
+        "Kokutana na minyoko ya mokonzi moko ya mobulu",
+        "Kobimisa kamela ya mwasi lokola elembo ya likamwisi",
+        "Kobika na mpela monene",
+        "Kobwakama na mbu na kati ya sanduku"
+      ],
+      "answer": "Kobimisa kamela ya mwasi lokola elembo ya likamwisi"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Lobwaku ya Tuwa",
+        "Engumba ya Madyan",
+        "Mokili ya Thamude",
+        "Tribinale ya Fir'awn",
+        "Libulu ya Hira"
+      ],
+      "answer": "Mokili ya Thamude"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "answer": "Bato na ngai babebisamaki mpo babomaki kamela-mwasi ya likamwisi",
+      "options": [
+        "Bato na ngai bayambolaki mpe babikisamaki",
+        "Bamemaki ngai na likoló na bomoi",
+        "Bato na ngai babebisamaki mpo babomaki kamela-mwasi ya likamwisi",
+        "Nakómaki mokonzi monene",
+        "Babikisamaki na ndenge batyaki ngai na masuwa"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

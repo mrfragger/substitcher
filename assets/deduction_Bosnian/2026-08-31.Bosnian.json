@@ -1,0 +1,61 @@
+{
+  "title": "Tihi glas doline",
+  "intro": "Vratite se u prošlost, u doba moćnog naroda koji je nekada kao iskušenje primio živo čudo. Arogancija i tvrdoglavost zapečatili su njihovu sudbinu. Možete li pratiti priču i otkriti šta se odvijalo u ovoj dramatičnoj prekretnici?",
+  "clues": [
+    "Poslan sam kao božansko iskušenje moćnom narodu poznatom po svojoj snazi ​​i prkosu.",
+    "Bio sam jedinstveno čudo - ništa poput mene se nikada nije pojavilo među njima.",
+    "Dijelio sam vodu za piće iz bunara sa svojim ljudima svaki drugi dan.",
+    "Bili su upozoreni da će svaka šteta protiv mene dovesti do brze kazne.",
+    "Najhrabriji od njih su ignorisali upozorenje i oštetili me.",
+    "Nakon moje smrti, jedan gromki krik odozgo uništio je cijeli moj narod."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Salihova kamila",
+        "Musina krava",
+        "Nuhov brod",
+        "Musin štap",
+        "Prijestolje Bilqisa"
+      ],
+      "answer": "Salihova kamila"
+    },
+    "trial": {
+      "label": "Moja sudbina",
+      "options": [
+        "Oštećen i ubijen",
+        "Zaklan kao žrtva",
+        "Pretvoren u zmiju",
+        "Sačuvana kroz veliku poplavu",
+        "Brzo prenesen preko kraljevstva"
+      ],
+      "answer": "Oštećen i ubijen"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Bunar vode",
+        "Kamena ploča",
+        "Gorući grm",
+        "Drveni kovčeg",
+        "Prijestolje od zlata i srebra"
+      ],
+      "answer": "Bunar vode"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Uništen jednim vriskom",
+        "Utopljen u velikoj poplavi",
+        "Spaljen kišom kamenja",
+        "Smrvljen snažnim vjetrom",
+        "Progutala zemlja"
+      ],
+      "answer": "Uništen jednim vriskom"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

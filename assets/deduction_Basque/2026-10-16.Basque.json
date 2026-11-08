@@ -1,0 +1,61 @@
+{
+  "title": "Atseden Egunari Aurre Egin Dioen Komunitatea",
+  "intro": "Kostaldeko kokaleku batera sartu, non jainkozko agindu batek gurtzarako eta mugaketarako egun bat gorde zuen. Komunitate honetako talde batek agindu horren mugak probatzea erabaki zuen plan maltzur batekin, mendeetan zehar oihartzuna izango zuen eraldaketa bat ekarriz. Nor ziren arima hauek, eta zer bihurtu zen haiekin?",
+  "clues": [
+    "Kostaldetik gertu bizi ginen, itsasoak ematen zigun bizibidea.",
+    "Asteko egun bat ohoratzeko agindu ziguten, munduko helburuetatik alde batera utziz.",
+    "Egun hartan, arrainak ugari etorri zitzaizkigun, agindua hausteko tentatzen ariko balira bezala.",
+    "Egun sakratuaren bezperan arrainak harrapatzeko plan bat asmatu genuen, eta gero, igaro ondoren, biltzeko.",
+    "Gure arteko batzuek engainu honen aurka ohartarazi zutenean, haien aholkuak alde batera utzi eta tematu egin ginen.",
+    "Gure transgresioagatik, tximino bihurtu gintuzten, mespretxatu eta baztertu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sabatuko jendea",
+        "Lubakiko jendea",
+        "Basoko Jendea.",
+        "Lorategiko jendea.",
+        "Elefantearen Jendea"
+      ],
+      "answer": "Sabatuko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Sabbatuan arrantzan",
+        "Dorre garai bat eraikitzea",
+        "Gamelu eme sakratu bat hiltzea",
+        "Bidali zitzaien profeta bat ukatzea",
+        "Merkataritza-pisuak haustea"
+      ],
+      "answer": "Sabbatuan arrantzan"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Itsasoa eta bere arrainak",
+        "Hoztu zen sua",
+        "Suge bihurtu zen makila",
+        "Salbazioaren arka.",
+        "Harrizko tabletak."
+      ],
+      "answer": "Itsasoa eta bere arrainak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Tximino bihurtuta.",
+        "Lurrak irentsia.",
+        "Haize bortitz batek suntsitu zuen",
+        "Itsasoan itota.",
+        "Harri zaparrada batek jota"
+      ],
+      "answer": "Tximino bihurtuta."
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

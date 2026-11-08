@@ -1,0 +1,61 @@
+{
+  "title": "Lentsoe la ho Tiea",
+  "intro": "Motho enoa o hopoloa ka bohlale le tataiso e tebileng, a fana ka keletso e fetang meloko. Mantsoe a bona ke bopaki ba boinehelo le bohlokoa ba ho lemoha litlhohonolofatso le liteko tse tsoang ho Molimo. Senola boitsebiso ba moea ona o hlomphehang.",
+  "clues": [
+    "Ke ne ke se moporofeta, empa bohlale ba ka bo ke ke ba shwa Mangolong a Halalelang.",
+    "Keletso ea ka ho ngoana oa ka e ne e hatisa teboho ho Allah le ho qoba shirk.",
+    "Ke rutile ka bohlokoa ba thapelo, ho laela botle, le ho thibela bobe.",
+    "Ke lemositse khahlanong le boikhohomoso le ho tsamaea ka boikhohomoso lefatšeng.",
+    "Lebitso la ka le filoe khaolo eohle ho Quran, e totobatsang lithuto tsa ka.",
+    "Keletso ea ka e ne e kenyelletsa mamello mathateng, hobane ka 'nete, seo se tsoa litabeng tse tiileng ka ho fetisisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Idris",
+        "Moprofeta Yahya",
+        "Luqman",
+        "Imran",
+        "Moprofeta Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Thuto/Tataiso ea Bohlokoa",
+      "options": [
+        "Ho haha ​​​​areka",
+        "Ho tobana le lebotho le matla",
+        "Ho fana ka bohlale le likeletso tsa boitšoaro",
+        "Ho toloka litoro",
+        "Ho etella sechaba pele ho ea tlholong"
+      ],
+      "answer": "Ho fana ka bohlale le likeletso tsa boitšoaro"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Sehlahla se tukang",
+        "Tlhapi e kholo",
+        "Thaba e itseng",
+        "Keletso e bohlale ho bana",
+        "Ntlo ea borena e khōlō"
+      ],
+      "answer": "Keletso e bohlale ho bana"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E ile ea e-ba morena",
+        "O ile a fuoa boporofeta",
+        "Bohlale ba hae bo tlalehiloe ho Quran",
+        "O ile a etella batho ba hae pele ho ea naheng e ncha",
+        "O ile a fuoa leruo le leholo"
+      ],
+      "answer": "Bohlale ba hae bo tlalehiloe ho Quran"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

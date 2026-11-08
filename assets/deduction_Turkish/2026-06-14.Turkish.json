@@ -1,0 +1,61 @@
+{
+  "title": "Bir Mirası Ortaya Çıkaran Alev",
+  "intro": "Direniş tarihinin kayıtlarında, adı bile zamanın sonuna kadar bir uyarı niteliği taşıyan bir figür yer almaktadır. Bu kişi, akrabalık yerine düşmanlığı, boyun eğme yerine meydan okumayı seçmiş ve merhamet çağrısına karşı çıkmıştır. Bu kötü şöhretli ruhun kimliğini ortaya çıkarırken, kadim bir bildirinin yankılarını dikkatle dinleyin.",
+  "clues": [
+    "Ben, Allah'ın son peygamberiyle aynı kabileye mensup olarak doğdum, yine de her fırsatta onlara karşı durdum.",
+    "Adım bir anlam taşıyordu; 'alevlerin babası' anlamına gelen bir isim, ebedi kaderimi önceden haber verecek bir isim.",
+    "Gerçeğin taşıyıcısına karşı zulüm başlattım ve hatta kendi ev halkım bile bu zulüm kampanyasına katıldı.",
+    "Paranın ilahi ışığı söndürebileceğine inanarak, servetimi ve nüfuzumu Allah'a yapılan çağrıyı susturmak için kullandım.",
+    "Allah bana koca bir bölüm ayırdı; öyle kısa bir bölüm ki saniyeler içinde okunabilir, fakat ağırlığı kıyamet gününe kadar devam eder.",
+    "Öbür dünyadaki yol arkadaşım, boynuna liflerden bir ip bağlanmış halde, eskiden serptikleri dikenleri taşıyarak arkamdan yürüyor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Ebu Lahab",
+        "Ebu Cehl",
+        "Varakah ibn Nevfal",
+        "Umeyye ibn Halef",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Ebu Lahab"
+    },
+    "trial": {
+      "label": "Çatışmayı Tanımlamak",
+      "options": [
+        "Mekke'de Peygambere karşı muhalefete önderlik etmek",
+        "Zulümden kaçmak için Habeşistan'a göç etmek",
+        "İbrahim Peygamber ile birlikte Kâbe'nin inşası",
+        "Ölüm döşeğinde İslam'ı kabul etmek",
+        "Hudeybiye Antlaşması'nın Oluşturulması"
+      ],
+      "answer": "Mekke'de Peygambere karşı muhalefete önderlik etmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Diken ve odun taşıyan bir eş",
+        "Yılana dönüşen bir asa",
+        "Süleyman'ın mührünü taşıyan bir yüzük",
+        "Halk tarafından tapılan altın bir buzağı.",
+        "Fışkıran suların olduğu bir kaynak."
+      ],
+      "answer": "Diken ve odun taşıyan bir eş"
+    },
+    "outcome": {
+      "label": "Son Hesaplaşma",
+      "options": [
+        "Tamamen yıkımı ilan eden bir sure indirildi.",
+        "Müslüman topluluğunun lideri oldu.",
+        "Ölüm anında affedildi.",
+        "Medine'de büyük bir cami inşa etti.",
+        "Salihler arasında diriltildi"
+      ],
+      "answer": "Tamamen yıkımı ilan eden bir sure indirildi."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

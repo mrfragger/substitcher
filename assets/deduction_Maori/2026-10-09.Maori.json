@@ -1,0 +1,61 @@
+{
+  "title": "Te Karanga Kāore i Whakarongohia i te Whenua o te Whakakake",
+  "intro": "Kei roto koe i ngā ururua o tētahi ao nui i mua, i te wāhi kāore he rohe o te mana me te whakapehapeha. I haereere tētahi karere i waenganui i a rātou, e karanga ana ki te pono, engari i whakapakeketia ō rātou ngākau. Kāore i arohia te whakatūpato, ā, ko te rangi tonu i huri hei taputapu mō te riri. Ko wai tēnei karere, ā, i pēhea te hunga i whakakahore i te karanga?",
+  "clues": [
+    "I tonoa ahau ki tētahi iwi kaha rawa atu, ā, i hanga e rātou he tohu whakamaumahara ki runga i ngā wāhi tiketike katoa.",
+    "I whakaaro tōku iwi kāore e taea te hinga, ā, i mea rātou, 'Ko wai te mea kaha ake i a tātou?'",
+    "I karanga ahau i a rātou kia karakia ki a Allah anake, engari i whakapae rātou i ahau mō te wairangi me te teka.",
+    "I werohia ahau e rātou kia whiua ahau mēnā i pono ahau, kia rite ki taku i oati ai.",
+    "I tukua e Allah he hau pākoki ki a rātou, kāore i mahue tetahi mea i pā mai ki a rātou.",
+    "I whakaorangia ahau, me te hunga i whakapono tahi me ahau, i te aroha o Allah, ko te hunga whakateka ia i whakangaromia rawatia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hūta",
+        "Poropiti Salih",
+        "Poropiti Shuaib",
+        "Poropiti Ruta",
+        "Poropiti a Noa"
+      ],
+      "answer": "Poropiti a Hūta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Nā te hau nui i whakangaro te hunga whakaponokore",
+        "I taupokina te hunga whakaponokore e te waipuke nui",
+        "I uaina mai he ua kōhatu",
+        "I pā te hamama nui ki te hunga whakaponokore",
+        "I pā te rū whenua ki te hunga whakaponokore"
+      ],
+      "answer": "Nā te hau nui i whakangaro te hunga whakaponokore"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He hau mutunga kore",
+        "He āaka rakau",
+        "He kamera uha",
+        "He ua o ngā kōhatu uku",
+        "He ahi mura"
+      ],
+      "answer": "He hau mutunga kore"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia a Hūta rātou ko te hunga whakapono, ā, i whakangaromia te hunga kore whakapono",
+        "I whakaarahia a Hūta ki tētahi tūranga teitei",
+        "I patua a Hūta e tōna iwi",
+        "I ripeneta te iwi o Hūta, ā, i whakaorangia rātou",
+        "I whakarērea e Hūta tōna iwi i mua i te whiunga"
+      ],
+      "answer": "I whakaorangia a Hūta rātou ko te hunga whakapono, ā, i whakangaromia te hunga kore whakapono"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

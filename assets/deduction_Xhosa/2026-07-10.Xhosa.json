@@ -1,0 +1,61 @@
+{
+  "title": "Umthwali Wemiqondiso Esithoba",
+  "intro": "Umntu othile wavuka evela kwisiqalo esiphantsi, enesiphelo esibhalwe ngentando kaThixo. Efihliwe ebuntwaneni waza wakhuliswa ngaphakathi kweendonga zomlawuli owayefuna ukutshabalalisa abantu bakhe, lo mphefumlo ekugqibeleni wabizelwa kumsebenzi omkhulu. Bexhotyiswe ngokholo nentonga yomalusi ethobekileyo, bema phambi komlawuli onamandla kakhulu weli xesha baza bacela inkululeko kwabo babekhotyokisiwe. Ihlabathi ngokwalo lalibonakala lihamba ngomyalelo wabo—amanzi ahlukana, amazulu athetha, kwaye ubukumkani bawa.",
+  "clues": [
+    "Imihla yam yokuqala yayiphawulwa luloyiko — iintsana ezinjengam zazizingelwa ekuzalweni ngumlawuli ongenanceba owayesoyika ikamva.",
+    "Ndahlangulwa ngamanzi ndaza ndakhulela ebhotweni lomlawuli owayefuna ukunditshabalalisa.",
+    "Ndabaleka kwilizwe lam emva kwesiganeko esingalindelekanga, ndaba ngumalusi othobekileyo kwilizwe elikude.",
+    "Ndabuya ndaza kujongana naloo mlawuli unamandla ngentonga elula kunye nomyalezo ocacileyo, ndifuna inkululeko yabantu bam.",
+    "Ndahlukanisa amanzi amaninzi ukuze abo babendilandela bandibone, ndaza ndabukela loo manzi eginya utshaba lwam lonke.",
+    "Ndinyuke intaba engcwele ukuze ndifumane ulwalathiso oluvela kuThixo, kwaye ndanikwa imiqondiso esithoba ecacileyo njengobungqina benyaniso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uMusa",
+        "Umprofeti uNuh",
+        "Umprofeti uIbrahim",
+        "Umprofeti uYusuf",
+        "Umprofeti uLut"
+      ],
+      "answer": "Umprofeti uMusa"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukujongana noFaro ebhotwe lakhe",
+        "Ukwakha iTyeya ukuze isinde kumkhukula omkhulu",
+        "Ukuphoswa emlilweni ovuthayo ngabenzi bezithixo",
+        "Ukuthotywa equleni elinzulu ngabazalwana bam",
+        "Ndizama ukuthintela abantu bam ekuziphatheni okubi"
+      ],
+      "answer": "Ukujongana noFaro ebhotwe lakhe"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intonga eyaguquka yaba yinyoka",
+        "Ityeya kaNuh",
+        "Itrone kaBilqis",
+        "IRingi eyayilawula umoya kunye neejinn",
+        "Izitshixo zobutyebi obuqokelelweyo obunzima kangaka"
+      ],
+      "answer": "Intonga eyaguquka yaba yinyoka"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ndikhokele abantu bam ngaphesheya kwamanzi ahlukeneyo ukuya enkululekweni",
+        "Wasindiswa kumkhukula omkhulu ngaphakathi kwiTyeya",
+        "Wabuyiselwa empilweni naselusapho emva kokubandezeleka okukhulu",
+        "Waphoswa ephila kwintlanzi enkulu",
+        "Wakha iziseko zeNdlu eNgcwele"
+      ],
+      "answer": "Ndikhokele abantu bam ngaphesheya kwamanzi ahlukeneyo ukuya enkululekweni"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

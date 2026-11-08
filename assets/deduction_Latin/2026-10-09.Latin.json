@@ -1,0 +1,61 @@
+{
+  "title": "Vocatio Neglecta in Terra Arrogantiae",
+  "intro": "In ruinis olim magnae civilizationis statis, ubi potentia et superbia nullos fines cognoverunt. Nuntius inter eos ambulabat, veritatem clamans, sed corda eorum indurata erant. Monitum neglectum est, et caelum ipsum instrumentum irae factum est. Quis erat hic nuntius, et quid factum est de iis qui vocationem reiecerunt?",
+  "clues": [
+    "Missus sum ad populum qui incomparabilis erat robore et qui aedificavit in omni loco excelso monumentum.",
+    "Populus meus se invictum putabat et dixit: \"Quis nobis potentior est in fortitudine?\"",
+    "Vocavi eos ut solum Allah colerent, sed me stultitiae et mendacii accusaverunt.",
+    "Me provocaverunt ut poenam promiseram afferrem, si verax essem.",
+    "Misit Deus super eos ventum sterilem qui nihil pepercit quo supervenit.",
+    "Ego et qui mecum crediderunt misericordia Dei servati sumus, dum infideles penitus deleti sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Hud",
+        "Propheta Salih",
+        "Propheta Shuaib",
+        "Propheta Lut",
+        "Propheta Nuh"
+      ],
+      "answer": "Propheta Hud"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Ventus vastans infideles delevit",
+        "Magna inundatio infideles obruit",
+        "Imber lapidum defluxit",
+        "Magnus clamor infideles cepit",
+        "Terrae motus infideles percussit"
+      ],
+      "answer": "Ventus vastans infideles delevit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ventus incessanter",
+        "Arca lignea",
+        "Camelus",
+        "Pluvia lapidum fictilium",
+        "Ignis ardens"
+      ],
+      "answer": "Ventus incessanter"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Hud et credentes salvi facti sunt, et infideles deleti sunt.",
+        "Hud ad altum gradum evectus est",
+        "Hud a populo suo occisus est",
+        "Populus Hud paenitentiam egit et servatus est",
+        "Hud populum suum ante ullam poenam reliquit."
+      ],
+      "answer": "Hud et credentes salvi facti sunt, et infideles deleti sunt."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Transgression per la Ribera",
+  "intro": "Te pausas sus las sablas d'una riba oblidada, ont las ondas murmuran d'una comunautat testada per un comandament divin. L’aire es pesuc amb lo sovenir d’una violacion que menèt a una transformacion estonanta. Qui èran aquelas anmas, e quala èra la natura de lor jutjament?",
+  "clues": [
+    "Èrem una comunautat que recebèt un comandament clar de nòstre Senhor, e mai trobèrem de biais de lo desfisar.",
+    "Viviam prèp d'un còrs d'aiga, e nòstre subsisténcia dependiá de sas creaturas.",
+    "Una pròva nos venguèt lo jorn que nos foguèt comandat de nos abstenir de las activitats mondanas.",
+    "Las creaturas de l'aiga nos venguèron en grand nombre aquel meteis jorn, nos temptant al delà de l'endurança.",
+    "Concebèrem un truc astuciós per contornar l'òrdre divin, en pensant que podiam despassar lo decrèt.",
+    "Nòstra transgression menèt a una transformacion umilianta; venguèrem de simis mespresats per l'òrdre d'Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo pòble del sabbat",
+        "La Gent de Rass",
+        "Lo pòble de Tubba",
+        "Las Gentes de la Caverna",
+        "Los Companhons de la Fossa"
+      ],
+      "answer": "Lo pòble del sabbat"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "L'aparicion dels peisses lo sabbat",
+        "Una annada de secada fòrta",
+        "Una armada d'aucèls mandat contra eles",
+        "Una inondacion que los aclapèt",
+        "Un tèrratrem violent"
+      ],
+      "answer": "L'aparicion dels peisses lo sabbat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La mar",
+        "Una montanha",
+        "Una cauna",
+        "Una val desertica",
+        "Una vila fortificada"
+      ],
+      "answer": "La mar"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Convertits en simis",
+        "Engolit per la tèrra",
+        "Destruit per un vent cridant",
+        "Afogat dins la mar",
+        "Tustat per una pluèja de pèiras"
+      ],
+      "answer": "Convertits en simis"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

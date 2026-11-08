@@ -1,0 +1,61 @@
+{
+  "title": "Lo Bastidor de Barrèras",
+  "intro": "A travèrs de tèrras vastas, un individú poderós s'embarquèt dins una tièra d'expedicions, concedidas d'autoritat e de mejans immenses. Aquela anma rescontrèt de comunautats divèrsas e afrontèt de desfís unics, daissant una marca duradissa sus l'istòria e la fe a travèrs lors accions e saviesa, tot en reconeissent la vertadièra font de lor fòrça.",
+  "clues": [
+    "Me foguèt concedit lo poder e los mejans sus tot, e seguiguèri un camin.",
+    "Mon viatge me menèt al ponch del solelh, ont trobèri un pòble.",
+    "Rescontrèri una comunautat que podiá a pena comprene lo discors, que residissiá entre doas montanhas.",
+    "Me demandèron de bastir una barrèra, pas per un profièch personal, mas per me protegir contra una fòrça destructritz.",
+    "Declarèri que la fòrça per bastir aquel mur massís veniá d'Allah, e que demorariá fins a un temps prometut.",
+    "Mon nom, sovent revirat coma 'Lo de Dos Còrns', significa mon portada a travèrs la tèrra o benlèu doas èras distintas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Musa",
+        "Lo profèta Sulayman",
+        "Dhul-Qarnayn",
+        "Faraon",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Recebre la revelacion",
+        "Afrontar un tiran",
+        "Bastir una granda nau",
+        "Bastir una barrèra poderosa",
+        "Èsser engolit per un peis"
+      ],
+      "answer": "Bastir una barrèra poderosa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "Lo personal",
+        "La barrèra de fèrre",
+        "Lo riu Nil",
+        "Lo Tròn"
+      ],
+      "answer": "La barrèra de fèrre"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Salvacion de l'inondacion",
+        "Venent un grand reialme",
+        "Proteccion per un pòble",
+        "Destruccion d'un opressor",
+        "Saviesa durabla"
+      ],
+      "answer": "Proteccion per un pòble"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vaovao Mahafaly amin'ny Fahanterana",
+  "intro": "Mahita fotoana iray izay hifohazan'ny fanantenana indray ianao. Mpivady iray, efa ela no tsy afaka niteraka, no mahazo fampanantenana izay manohitra ny lalàn'ny natiora. Eo afovoan'izy ireo dia misy olona iray izay mariky ny famindram-pon'Andriamanitra ny fisiany—fanahy voatendry ho mpaminany, mitondra lova izay haharitra hatramin'ny taranaka fara mandimby. Iza moa ity olona miavaka ity?",
+  "clues": [
+    "Teraka tamin'ny ray aman-dreny efa antitra aho ary tsy nanan-janaka.",
+    "Anjely izay tonga vahiny tao amin'ny fianakaviako no nanambara ny fahaterahako.",
+    "Nomena fahendrena sy faminaniana aho, ary voatonona ho isan'ireo manam-paharetana aho.",
+    "Nantsoina hoe sakaizan'i Allah ny raiko, ary fanomezana ho azy aho tamin'ny faramparan'ny androny.",
+    "Nanana rahalahy iray izay mpaminany ihany koa aho, ary samy notahin'ny Tompontsika izahay roa.",
+    "Mpaminany koa ny zanako lahy, ary ny taranako no nomena ny soratra masina sy ny maha-mpaminany."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Isaka (Isaka)",
+        "Mpaminany Ismail (Ismaela)",
+        "Mpaminany Jakoba (Jakoba)",
+        "Mpaminany Yahya (Jaona)",
+        "Mpaminany Uzair (Ezra)"
+      ],
+      "answer": "Mpaminany Isaka (Isaka)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Teraka tamin'ny ray aman-dreny zokiolona",
+        "Natsipy tao anaty afo",
+        "Nomena fanjakana sy harena",
+        "Nitarika ny olony hiala tany Ejipta",
+        "Nanangana sambo fiara hamonjy ny mpino"
+      ],
+      "answer": "Teraka tamin'ny ray aman-dreny zokiolona"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny vaovao mahafaly momba ny zanakalahy iray",
+        "Ny kirihitra mirehitra",
+        "Ilay zanak'omby volamena",
+        "Ny fiaran'ny fanekena",
+        "Ny tehin'ny mpaminany"
+      ],
+      "answer": "Ny vaovao mahafaly momba ny zanakalahy iray"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Tonga mpaminany niaraka tamin'ny taranaky ny mpaminany",
+        "Lasa mpanjaka nanankarena",
+        "Ringana noho ny tsy finoana ny olony",
+        "Voavonjy tamin'ny afo izy",
+        "Nomena fahaizana miteny izy fony mbola zaza"
+      ],
+      "answer": "Tonga mpaminany niaraka tamin'ny taranaky ny mpaminany"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

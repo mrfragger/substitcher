@@ -1,0 +1,61 @@
+{
+  "title": "Intwasahlobo Ngaphansi Kwesihlabathi",
+  "intro": "Ezincwadini ze-Quran, umuntu onesineke esikhulu wabhekana novivinyo olwaluzophula izinhliziyo eziqinile. Konke kwasuswa - ingcebo, umndeni, kanye nempilo. Kodwa kusukela ekujuleni kokuphelelwa yithemba, umthandazo othobekile waphendulwa ngendlela engalindelekile. Ungawubona lo mphefumulo onendaba yokubuyiselwa ehlala izwakala iminyaka eminingi?",
+  "clues": [
+    "Ngavivinywa ngovivinyo olunzima kangangokuthi luyakhunjulwa kuyo yonke iminyaka.",
+    "Ngilahlekelwe yikho konke okwakubalulekile - ingcebo yami, izingane zami, kanye nempilo yami.",
+    "Umzimba wami wawugcwele izilonda ezibuhlungu, futhi bonke babengigwema.",
+    "Ngiphelelwe yithemba, ngabiza u-Allah, ngithi uSathane ungithinte ngobunzima nokuhlushwa.",
+    "U-Allah wangiphendula futhi wangiyala ukuba ngishaye umhlaba ngonyawo lwami.",
+    "Kuleyo ndawo kanye, kwavela umthombo opholile, futhi u-Allah wabuyisela umndeni wami futhi wawuphinda kabili njengesihe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Ayyub",
+        "Umprofethi uMusa",
+        "Umprofethi u-Ilyas",
+        "Umprofethi uSulayman",
+        "Umprofethi uDawud"
+      ],
+      "answer": "Umprofethi u-Ayyub"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukugula okukhulu nokulahlekelwa umndeni nengcebo",
+        "Ukugwinywa umkhomo omkhulu",
+        "Ukudingiswa edolobheni laseMakkah",
+        "Ukuboshwa emthonjeni ojulile",
+        "Ukubhekana nombusi oqhoshayo"
+      ],
+      "answer": "Ukugula okukhulu nokulahlekelwa umndeni nengcebo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umthombo opholile ovela emhlabeni",
+        "Isikebhe phezu kwesikhukhula esikhulu",
+        "Intonga eyahlukanisa ulwandle",
+        "Isihlalo sobukhosi esiphakanyisiwe sengilazi",
+        "Umhume obiyelwe ngodonga wokulala"
+      ],
+      "answer": "Umthombo opholile ovela emhlabeni"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Umndeni nengcebo ibuyiselwe futhi yaphindwa kabili",
+        "Phuma esiswini senhlanzi",
+        "Indlela ephephile emanzini ahlukene",
+        "Umbuso onikezwe ukubusa",
+        "Ukuzalwa kwendodana ngokuyisimangaliso esekhulile"
+      ],
+      "answer": "Umndeni nengcebo ibuyiselwe futhi yaphindwa kabili"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

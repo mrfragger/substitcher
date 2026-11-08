@@ -1,0 +1,61 @@
+{
+  "title": "Ang Komunidad sa Unang Paglapas",
+  "intro": "Sa yuta sa karaang mga siyudad, usa ka katawhan kaniadto ang milambo. Giduaw sila sa usa ka mensahero nga adunay klaro nga tawag, apan mitalikod sila ug misubay sa usa ka dalan nga wala pa gyud maagian ni bisan kinsa. Ang ilang sugilanon usa ka sugilanon sa pagsukol, pagkadaotan, ug usa ka silot nga mibiya sa ilang yutang natawhan isip usa ka timaan alang sa tanan nga naghunahuna. Kinsa kini nga mga kalag?",
+  "clues": [
+    "Nagpuyo kami sa mga siyudad sa kapatagan, diin ang among propeta nagtawag kanamo ngadto sa pagkamatarong.",
+    "Kami ang una nga nakahimo og usa ka kahilayan nga wala pa gyud mahimo sa bisan kinsa sa tibuok kalibutan.",
+    "Among gibabagan ang mga magpapanaw ug nagbuhat ug dautan sa dayag sa among mga panagtapok.",
+    "Among gisalikway ang mensahero nga gipadala kanamo ug gihulga nga papahawaon siya sa among yuta.",
+    "Nagdali-dali mi pag-adto sa iyang balay aron mangayo nga itugyan niya ang iyang mga bisita kanamo.",
+    "Ang among silot sama sa ulan sa mga bato, ug ang among siyudad nabalitok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Kami?",
+      "options": [
+        "Mga tawo ni Lut",
+        "Mga tawo ni Nuh",
+        "Mga tawo sa 'Ad",
+        "Mga tawo sa Thamud",
+        "Mga tawo sa Madyan"
+      ],
+      "answer": "Mga tawo ni Lut"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Naghimo sa unang buhat sa sodomiya",
+        "Gisimba nga mga idolo",
+        "Nalimbongan sa pamatigayon",
+        "Gipatay ang ilang propeta",
+        "Nagmasulub-on sa ilang mga ginikanan"
+      ],
+      "answer": "Naghimo sa unang buhat sa sodomiya"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang siyudad sa kapatagan",
+        "Ang siyudad sa atabay",
+        "Ang siyudad sa kanal",
+        "Ang siyudad sa elepante",
+        "Ang siyudad sa tanaman"
+      ],
+      "answer": "Ang siyudad sa kapatagan"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Giulanan og mga bato ug gibalintong",
+        "Nalumos sa baha",
+        "Giguba sa kusog nga hangin",
+        "Gilubong sa yuta",
+        "Naigo sa kusog nga pagbuto"
+      ],
+      "answer": "Giulanan og mga bato ug gibalintong"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

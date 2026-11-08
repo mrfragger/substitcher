@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Manawanui",
+  "intro": "I roto i ngā pukapuka o te poropititanga, i reira tētahi wairua i whakairohia tōna manawanui ki roto i te papanga o tōna tinana. I roto i ngā roimata me te wā, i mau tonu rātou ki te tumanako, ā, ka noho hei tauira pumau o te whakawhirinaki ki te whakaaro nui o te Atua. Ka taea e koe te wetewete i te mea ngaro o tēnei tangata pumau?",
+  "clues": [
+    "I whānau mai ahau i roto i te whānau poropiti, engari ko te whakamātautau nui rawa atu i puta mai i te tamaiti i tino arohaina e au.",
+    "I tae mai he whakatūpato mō te hae i roto i te moemoeā a taku tama, ā, i wehi ahau mō tōna haumaru.",
+    "I mā ōku kanohi i te pouri, heoi kāore i ngaro tōku whakapono ki te aroha noa o Allah.",
+    "I tae mai te kakara o taku tamaiti ngaro i tawhiti, ā, ka mōhio ahau kua tata te wā e tūtaki ai tātou.",
+    "I piko tōku whānau i te whakawhetai i te whakatutukitanga o te kitenga o mua, ā, i te hokinga mai o tōku tirohanga.",
+    "Ko au tēnei i tukuna mai he hāte toto ki ahau, ā, nō muri mai ka riro mai i ahau tētahi hāte i whakaora i tōku tirohanga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Ihāperama",
+        "Poropiti a Ihaka",
+        "Poropiti a Hākupa",
+        "Poropiti a Yusuf",
+        "Poropiti a Ayyub"
+      ],
+      "answer": "Poropiti a Hākupa"
+    },
+    "trial": {
+      "label": "Te Whakawa Hira",
+      "options": [
+        "Te wehenga mai i tētahi tamaiti aroha me te ngaronga o te tirohanga",
+        "Te maka ki roto i te ahi mura",
+        "Te horomia e te ika nui",
+        "Te manawanui ki te ngaronga o te taonga, o ngā tamariki, me te hauora",
+        "Te tinihanga a ōna tuākana, te makanga ki roto i te puna"
+      ],
+      "answer": "Te wehenga mai i tētahi tamaiti aroha me te ngaronga o te tirohanga"
+    },
+    "location": {
+      "label": "Te Mea Tohu",
+      "options": [
+        "He hāte i huna tuatahi i te pono kātahi ka whakakitea",
+        "He tokotoko i huri hei nakahi",
+        "He tohorā i horomia tētahi poropiti",
+        "He ahi i huri hei matao",
+        "He takirua hu i te ngahere e mura ana"
+      ],
+      "answer": "He hāte i huna tuatahi i te pono kātahi ka whakakitea"
+    },
+    "outcome": {
+      "label": "Te Whakataunga Atua",
+      "options": [
+        "Te tūtaki anō ki tētahi o ngā whanaunga kua ngaro, me te whakaora i te tirohanga",
+        "Te whakaoranga mai i tētahi iwi tukino",
+        "Te whakaoranga mai i te puku o te ika",
+        "Te whakaoranga mai i te ahi mura",
+        "Te pikinga ki te torona nui"
+      ],
+      "answer": "Te tūtaki anō ki tētahi o ngā whanaunga kua ngaro, me te whakaora i te tirohanga"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

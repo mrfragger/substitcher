@@ -1,0 +1,61 @@
+{
+  "title": "La Malaperinta Homamaso",
+  "intro": "Vi staras antaŭ la eĥoj de komunumo, kies rakonto estas skribita en la ondoj. Ĉi tiuj animoj aŭdis vokon, elektis spitemon, kaj alfrontis konsekvencon, kiu transformis la teron. Kiuj ili estas, kaj kio fariĝis el ilia mondo?",
+  "clues": [
+    "Ni vivis antaŭ longe, kaj mesaĝisto venis al ni el inter ni mem.",
+    "Ni adoris kvin idolojn kaj rifuzis forlasi ilin.",
+    "Ni mokis la mesaĝiston kaj akuzis lin pri erarvojiĝo.",
+    "Ni postulis, ke li alportu la punon, se li estus verema.",
+    "Ni vidis la ĉielon verŝi pluvon kaj la teron elŝprucigi fontojn.",
+    "Ni grimpis al la altaj lokoj por eskapi, sed la ondoj nin superfortis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "Homoj de Nuh",
+        "Homoj de 'Ad",
+        "Homoj de Thamud",
+        "Homoj de Lut",
+        "Homoj de Madyan"
+      ],
+      "answer": "Homoj de Nuh"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Ni dronis en granda inundo",
+        "Ni estis detruitaj de uragano",
+        "Nin mortigis laŭta eksplodo",
+        "Ni estis englutitaj de la tero",
+        "Ni estis ĵetitaj per ŝtonoj el la ĉielo"
+      ],
+      "answer": "Ni dronis en granda inundo"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Granda inundo",
+        "Furioza vento",
+        "Pluvo de ŝtonoj",
+        "Fajra eksplodo",
+        "Tertremo"
+      ],
+      "answer": "Granda inundo"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ni ĉiuj pereis krom la kredantoj kun Nuh",
+        "Ni estis transformitaj en simiojn",
+        "Ni estis lasitaj kiel ruinoj por vojaĝantoj",
+        "Ni fariĝis salon",
+        "Ni ricevis ripozon"
+      ],
+      "answer": "Ni ĉiuj pereis krom la kredantoj kun Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

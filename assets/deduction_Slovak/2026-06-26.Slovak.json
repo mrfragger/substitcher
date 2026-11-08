@@ -1,0 +1,61 @@
+{
+  "title": "Ťarcha odmietnutého daru",
+  "intro": "Na úsvite ľudských dejín, keď bola zem ešte mladá a svet zadržiaval svoj prvý dych, pred Stvoriteľom stála duša s pokornou obetou. Táto obeta bola zvážená na váhach Božieho prijatia – a bola uznaná za nedostatočnú. To, čo nasledovalo, nebol príbeh odpustenia, ale o srdci pohltenom žiarlivosťou, ktorý viedol k nezvratnému činu, ktorý sa bude ozývať navždy. Toto je príbeh niekoho, koho meno sa stalo synonymom prvej závažnej nespravodlivosti, aká sa kedy spáchala.",
+  "clues": [
+    "Prišiel som na svet ako jedno z úplne prvých detí, aké sa kedy narodili, narodil som sa rodičovi, ktorého príbeh dobre poznáte.",
+    "Raz som priniesol obetu Alahovi, ale nebola odo mňa prijatá – hoci obeta môjho súrodenca bola prijatá s milosťou.",
+    "Závisť a zúrivosť sa mi zakorenili v srdci a vyhrážal som sa, že ukončím život vlastných príbuzných.",
+    "Môj súrodenec ma varoval, aby som sa bál Alaha, ale moja pýcha mi nedovolila počúvať.",
+    "V momente strašnej slabosti som vykonal na vlastnom bratovi neopísateľný čin.",
+    "Potom som ani nevedel, ako skryť, čo som urobil – až kým ma to neposlali zo zeme, aby ma to naučil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Ábel)",
+        "Syn proroka Nuha",
+        "Prorok Ismail",
+        "Prorok Júsuf"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Prinesenie obety, ktorá bola odmietnutá, čo viedlo k prvej vražde",
+        "Stavba vznešenej veže, ktorá dosiahne nebesia",
+        "Byť uvrhnutý do zúriaceho ohňa pre svoju vieru",
+        "Obetovanie vlastného syna v poslušnosti Alahovi",
+        "Byť prehltnutý veľkou rybou za útek zo svojej povinnosti"
+      ],
+      "answer": "Prinesenie obety, ktorá bola odmietnutá, čo viedlo k prvej vražde"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Vrana poslaná Alahom, aby demonštrovala pohreb",
+        "Veľká povodeň, ktorá utopila celý ľud",
+        "Palica, ktorá sa premenila na živého hada",
+        "Ťava, ktorá vyšla zo skalnatej hory",
+        "Veľkolepý trón nesený mocnými vetrami"
+      ],
+      "answer": "Vrana poslaná Alahom, aby demonštrovala pohreb"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Stal sa z ľútostivých, zaťažených prvým spáchaným zločinom",
+        "Bol odpustený Alahom a udelený mu večný raj",
+        "Bol povýšený na vysoké miesto proroctva a múdrosti",
+        "Bol zachránený božským milosrdenstvom po tom, čo volal z hlbín temnoty",
+        "Bola mu daná vláda nad džinmi, vetrom a morom"
+      ],
+      "answer": "Stal sa z ľútostivých, zaťažených prvým spáchaným zločinom"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

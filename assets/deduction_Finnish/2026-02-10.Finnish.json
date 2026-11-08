@@ -1,0 +1,60 @@
+{
+  "title": "Iankaikkainen uni",
+  "intro": "Olet lähdössä ajassa taaksepäin ja kohtaamassa syvällisen uskon ja jumalallisen voiman mysteerin. Kuvittele joukko ihmisiä, jotka uhmasivat yhteiskuntansa normeja ja pitivät kiinni monoteismista polyteismin maailmassa. Heidän tarinansa on osoitus Allahin kyvystä suojella vanhurskaita palvelijoitaan mitä ainutlaatuisimmilla tavoilla. Pystytkö selvittämään näiden merkittävien henkilöiden henkilöllisyyden?",
+  "clues": [
+    "Olimme pieni ryhmä nuoria miehiä, jotka uskoivat yhteen Jumalaan kansamme laajalle levinneestä polyteismistä huolimatta.",
+    "Pakenimme tyrannimaista hallitsijaa, joka uhkasi meitä uskomme vuoksi, peläten vainoa ja kuolemaa.",
+    "Etsimme turvaa syrjäisestä paikasta toivoen Allahin armoa ja suojelusta sortajiamme vastaan.",
+    "Herramme vaivutti meidät syvään uneen, ihmeelliseen uneen, joka uhmasi ajan kulkua.",
+    "Herätessämme uskoimme levänneemme vain päivän tai osan päivästä, tietämättöminä siitä valtavasta ajasta, joka oli todella kulunut.",
+    "Koraani mainitsee, että pysyimme valtiossamme kolmesataa vuotta ja ylitimme sen yhdeksällä, jolloin siitä tuli merkki ihmiskunnalle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Ojan kansa",
+        "Thamudin kansa",
+        "Luolan ihmiset",
+        "Madyanin kansa",
+        "Norsun seuralaiset"
+      ],
+      "answer": "Luolan ihmiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kohdatessaan suurta tulvaa",
+        "Maan nielaisemana",
+        "Pitkä ihmeellinen uni",
+        "Heidän kaupunkinsa tuho",
+        "Meren jakautuminen"
+      ],
+      "answer": "Pitkä ihmeellinen uni"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Palava pensas",
+        "Vuori",
+        "Vene",
+        "Luola",
+        "Kaivo"
+      ],
+      "answer": "Luola"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Heille myönnettiin valtava vauraus ja valta",
+        "Ne muuttuivat apinoiksi ja sioiksi",
+        "Heidät herätettiin unesta syvällisenä merkkinä",
+        "He hukkuivat suureen tulvaan",
+        "He rakensivat mahtavan valtakunnan"
+      ],
+      "answer": "Heidät herätettiin unesta syvällisenä merkkinä"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

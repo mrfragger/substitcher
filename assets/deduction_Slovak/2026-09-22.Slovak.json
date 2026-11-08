@@ -1,0 +1,61 @@
+{
+  "title": "Stavitelia vznešených stĺpov",
+  "intro": "Stojíte pred ruinami majestátneho starobylého mesta, ktorého vznešené piliere sú teraz spadnuté. Vietor zavýja prázdnymi ulicami a nesie spomienku na mocný ľud, ktorý kedysi vládol tejto krajine. Kto boli?",
+  "clues": [
+    "Boli sme národom nesmiernej sily a zručnosti, známym pre naše veľkolepé budovy a pokročilú civilizáciu.",
+    "Žili sme v krajine piesočných dún a skalnatých kopcov a verili sme, že nás nikto nemôže premôcť.",
+    "Prišiel k nám posol z našich príbuzných a vyzýval nás, aby sme uctievali jedine Alaha, ale my sme ho odmietli a vysmievali sa mu.",
+    "Chválili sme sa: „Kto je silnejší ako my?“ a pokračovali sme vo svojej arogancii a uctievaní modiel.",
+    "Alah na nás zoslal zúrivý vietor, ktorý vial sedem nocí a osem dní a všetko zničil.",
+    "Boli sme ľudom Adu, stavitelia Irámu, a náš osud sa stal varovaním pre všetkých, ktorí prišli potom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z 'Ad",
+        "Ľudia z Thamudu",
+        "Ľudia z Madyanu",
+        "Ľudia z Tubby",
+        "Ľudia z al-Rassu"
+      ],
+      "answer": "Ľudia z 'Ad"
+    },
+    "trial": {
+      "label": "Aký trest im bol zoslaný?",
+      "options": [
+        "Ničivý vietor",
+        "Sprcha kameňov",
+        "Hlasný výbuch",
+        "Utopenie sa v dôsledku povodne",
+        "Pohltený zemou"
+      ],
+      "answer": "Ničivý vietor"
+    },
+    "location": {
+      "label": "Ako sa volá ich legendárne mesto?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midjánci",
+        "Babylon",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Aký bol ich konečný osud?",
+      "options": [
+        "Boli zničení a ich pozostatky sa stali ponaučením",
+        "Činili pokánie a boli zachránení",
+        "Premenili sa na opice",
+        "Utopili sa v mori",
+        "Boli pochovaní pod zosuvom pôdy"
+      ],
+      "answer": "Boli zničení a ich pozostatky sa stali ponaučením"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

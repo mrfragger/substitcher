@@ -1,0 +1,61 @@
+{
+  "title": "Ponizni tragači za istinom",
+  "intro": "U zemlji drevne moći i čarolije, odvija se veliki sukob. Jedna strana koristi autoritet božanskih znakova, dok druga pokušava postići nemoguće. Ishod će zauvijek promijeniti tijek povijesti. Možete li otkriti identitet onih koji su svjedočili krajnjoj istini i ponizili se pred njom?",
+  "clues": [
+    "Svjedočili smo znakovima koji su nadilazili trikove čarobnjaštva",
+    "Svi smo pali ničice, nesposobni poreći istinu",
+    "Prepoznali smo da ovi znakovi dolaze od Jednog Istinskog Boga",
+    "Bili smo prva zajednica koja je prihvatila vjeru na tako dramatičan način",
+    "Obećan nam je raj kao nagrada za našu vjeru",
+    "Naša užad i štapovi postali su zmije pred našim očima, a ipak smo odabrali pokornost"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Faraonovi čarobnjaci",
+        "Ljudi proroka Ibrahima",
+        "Ponizni tragači za istinom",
+        "Ljudi iz pećine",
+        "Nacija kraljice Bilqis"
+      ],
+      "answer": "Faraonovi čarobnjaci"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Susret sa štapom proroka Muse",
+        "Kušnja vjetra Poslanika Huda",
+        "Izazov deve proroka Saliha",
+        "Velika poplava poslana na proroka",
+        "Putovanje proroka u kitu"
+      ],
+      "answer": "Susret sa štapom proroka Muse"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Drevni Egipat",
+        "Sveta kuća u Meki",
+        "Grad Midjan",
+        "Pustinja Thamuda",
+        "Špilja drevnih spavača"
+      ],
+      "answer": "Drevni Egipat"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Raj kao njihova nagrada",
+        "Kazna u grobu",
+        "Gubitak njihovih bogatih vrtova",
+        "Uništenje uzrokovano iznenadnim potresom",
+        "Spašavanje od velikog kita"
+      ],
+      "answer": "Raj kao njihova nagrada"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

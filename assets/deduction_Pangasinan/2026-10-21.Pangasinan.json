@@ -1,0 +1,61 @@
+{
+  "title": "Say Mensahero ya Inmarap ed Saray Managdayew ed Idolo",
+  "intro": "Diad panaon ya alingo so debosyon, sakey a mensahero so inmalagey a walaan na tawag ya ompawil ed panagdayew ed Katawan na saray mundo. Sayan pigura so tinmalindeg a malet sumpad totoon niletneg ed panagdayew ed palson dirios, ya mangipapanonot ed sikara ed tuan Manamalsa ra tan say Katawan na inmuunan atateng da. Balet ag-inmabobon iray totoo tan agda inawat so pasakbay, ya insebel da so kapalaran da. Siopa iyan ag-ontutundan managtawag?",
+  "clues": [
+    "Nibaki ak ed saray totoon sinmian ed dalan na Sakey a Tuan Dios.",
+    "Tinepetan ko ray totook, \"Ag kayo tatakotan ed si Allah?\"",
+    "Tinawag ko ran taynanan day pangigalang dad tilan dirios a manngaray Baal.",
+    "Impulisay na saray totook so tawag ko tan intuloy day panagtalintao ra.",
+    "Lapud impangiburi ra, seguradon iyakar ira parad dusa.",
+    "Inikdan ak na Katawan ko na kareenan tan maliket a pakanodnonotan ed saray ontumbok a kailalakan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Propeta Ilyas",
+        "Propeta Yahya",
+        "Propeta Dhul-Kifl",
+        "Propeta Yusuf",
+        "Propeta Shu'ayb"
+      ],
+      "answer": "Propeta Ilyas"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Tinawag to ray totoo to ya taynanan day Baal",
+        "Nanggawa na biong pian nisalba iray mananisia",
+        "Nibantak ed apoy",
+        "Tinmakas ed managpairap a Faraon",
+        "Tinamaan so sakey a bato pian ompaway so danum"
+      ],
+      "answer": "Tinawag to ray totoo to ya taynanan day Baal"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Niiter so kareenan tan maliket a pakanodnonotan",
+        "Inakmon na dalin",
+        "Dineral na maksil a bagyo",
+        "Nagmaliw ya bato",
+        "Nalner ed dayat"
+      ],
+      "answer": "Niiter so kareenan tan maliket a pakanodnonotan"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

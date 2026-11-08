@@ -1,0 +1,61 @@
+{
+  "title": "Taqdirni o'zgartirgan qurbonlik",
+  "intro": "Insoniyatning dastlabki davrlarida bir qalb sof niyatlar bilan sovg'a qilgan. Shunga qaramay, hasad qabul qilish soyasida yashiringan edi. Taqvodorligi va fojiali oxiri ilohiy vahiyda abadiylashtirilgan bu shaxsning hikoyasini kashf eting.",
+  "clues": [
+    "Men insoniyatning ilk avlodlari orasida edim.",
+    "Men Rabbimga qurbonlik keltirdim va u mamnuniyat bilan qabul qilindi.",
+    "Akamning qurbonligi rad etildi va hasad uning qalbini qoraytirdi.",
+    "Men unga: «Agar meni o‘ldirish uchun qo‘lingni menga uzatsang, men seni o‘ldirish uchun qo‘limni uzatmayman. Men olamlarning Parvardigori Allohdan qo‘rqaman», dedim.",
+    "Men yer yuzidagi birinchi qotillik qurboniga aylandim.",
+    "Qonim faryod qildi va men begunohlikning birinchi shahidi bo'ldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Hobil (Abel)",
+        "Qobil (Qobil)",
+        "Ya-Sindagi odam",
+        "Samiri",
+        "Luqmon"
+      ],
+      "answer": "Hobil (Abel)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Uning qurbonligi qabul qilindi, bu esa akasining hasadiga va o'ldirilishiga sabab bo'ldi",
+        "U alangali pechga tashlandi, ammo sog'-salomat chiqdi",
+        "U ilohiy rahbarlik ostida ulkan kema qurdi",
+        "Uni katta baliq yutib yubordi va u qorong'ulikda qoldi",
+        "U o'z xalqini ikkiga bo'lingan dengiz orqali olib o'tdi"
+      ],
+      "answer": "Uning qurbonligi qabul qilindi, bu esa akasining hasadiga va o'ldirilishiga sabab bo'ldi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Qabul qilingan taklif",
+        "Tayoq ilonga aylanmoqda",
+        "Ilohiy belgi sifatida urg'ochi tuya",
+        "Yangilik olib kelayotgan halqa",
+        "Oltin buzoqqa sig'inilgan"
+      ],
+      "answer": "Qabul qilingan taklif"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Tarixdagi birinchi qotillik; uning ukasi hukm qilindi",
+        "Boyligi bilan birga yerga yutib yuborilgan",
+        "O'zboshimchalik tufayli maymunlarga aylandi",
+        "Shiddatli, muzli shamol tomonidan vayron qilingan",
+        "Jazo sifatida katta suv toshqinida cho'kib ketdi"
+      ],
+      "answer": "Tarixdagi birinchi qotillik; uning ukasi hukm qilindi"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

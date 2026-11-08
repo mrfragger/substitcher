@@ -1,0 +1,61 @@
+{
+  "title": "Der Ausgestoßene aus dem Garten",
+  "intro": "Einst weilte ein geheimnisvolles Wesen in den höchsten Rängen der Schöpfung, dem Göttlichen näher, als viele erahnen konnten. Doch Stolz nistete sich ein, und ein einziger Akt des Widerstands veränderte den Lauf der Existenz. Nun irrt dieses Wesen als eingeschworener Feind umher, flüstert und schmiedet Intrigen, bis der verheißene Tag kommt. Kannst du die Identität dieses Gefallenen enthüllen?",
+  "clues": [
+    "Einst gehörte ich zu denen, die der göttlichen Gegenwart am nächsten standen, erhaben über einen Großteil der Schöpfung.",
+    "Ich wurde aus einem sengenden Element erschaffen, nicht aus Erde oder Lehm.",
+    "Als ich aufgefordert wurde, mich vor einer neuen Schöpfung zu verbeugen, weigerte ich mich – angetrieben von dem, was ich für meine eigene Überlegenheit hielt.",
+    "Ich wurde verstoßen und verflucht, mir wurde aber letztendlich ein Aufschub bis zu einem bekannten, festgesetzten Zeitpunkt gewährt.",
+    "Ich schwor mir, so viele wie möglich in die Irre zu führen, indem ich mich den Nachkommen Adams aus allen Richtungen näherte.",
+    "Ich bin der offene, erklärte Feind der gesamten Menschheit, der stets plant und flüstert bis zum vorherbestimmten Ende."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Prophet Ilyas",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Prüfung / Veranstaltung",
+      "options": [
+        "Weigerung, sich vor Adam niederzuwerfen",
+        "Ein goldenes Kalb wird gebaut, das die Menschen anbeten sollen.",
+        "den Menschen von Babylon Zauberei lehren",
+        "Das Meer mit einem Stab teilen",
+        "Den Thron der Königin von Saba im Nu tragen"
+      ],
+      "answer": "Weigerung, sich vor Adam niederzuwerfen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Garten Eden",
+        "Der Berg Tur",
+        "Der Brunnen von Rass",
+        "Der Palast des Pharaos",
+        "Die Höhle der Schläfer"
+      ],
+      "answer": "Der Garten Eden"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Aufschub bis zum Tag des Jüngsten Gerichts gewährt",
+        "Im Meer ertrunken mit einer Armee",
+        "Lebendig begraben unter einem einstürzenden Palast",
+        "Verwandelt in einen Affen oder",
+        "Beförderung zu einem höheren Rang"
+      ],
+      "answer": "Aufschub bis zum Tag des Jüngsten Gerichts gewährt"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Klic, ki je prestal stoletja",
+  "intro": "Predstavljajte si dušo, ki se je sama postavila proti celotni civilizaciji, odločena, da jo z neomajno odločnostjo popelje nazaj iz zmot. Stoletja je bilo sporočilo zavračano, zasmehovano in odpisano – vendar se trud ni nikoli ustavil. Sčasoma je prišel veliki obračun in le redki so se vkrcali na odrešitev skupaj s to neomajno dušo. Ali lahko prepoznate to osebo iz Korana?",
+  "clues": [
+    "Poslan sem bil kot svarilec ljudstvu, ki je bilo izgubljeno na svojih lastnih poteh.",
+    "Povabil sem jih, naj prosijo za odpuščanje in se odvrnejo od svojih napak, vendar so se obrnili stran.",
+    "Pod božanskim poveljstvom sem zgradil ogromno plovilo, medtem ko so me moji ljudje opazovali in se mi posmehovali.",
+    "Nenehno sem klical svojega Gospoda – sčasoma se je odzval in voda se je z neba ulila v potokih.",
+    "Vkrcal sem se na ladjo s tistimi, ki so verovali, ko so se potopne vode dvignile nad kopno.",
+    "Zaklical sem k enemu, ki je ostal, in ga prosil, naj se zateče na goro, toda odlok je bil že izdan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Nuh",
+        "Prerok Ibrahim",
+        "Prerok Musa",
+        "Prerok Hud",
+        "Prerok Salih"
+      ],
+      "answer": "Prerok Nuh"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Gradnja velike barke in preživetje svetovnega potopa",
+        "Biti vržen v plameneči ogenj",
+        "Soočenje s tiraninom in njegovimi mogočnimi čarovniki",
+        "Biti pogoltnjen s strani velike ribe",
+        "Priča uboju svete kamele"
+      ],
+      "answer": "Gradnja velike barke in preživetje svetovnega potopa"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Masivna lesena barka na divji poplavni vodi",
+        "Sveta dolina s starodavnimi kamnitimi ruševinami",
+        "Globoka jama, kjer so tovariši spali stoletja",
+        "Trebuh velikanskega kita v oceanskih globinah",
+        "Visoka kamnita gora v divjini"
+      ],
+      "answer": "Masivna lesena barka na divji poplavni vodi"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Rešen z verniki na krovu ladje",
+        "Rešen nepoškodovan iz ognja po božjem ukazu",
+        "Vodil je velik eksodus iz mogočnega kraljestva",
+        "Vrzi se iz rib na neplodno obalo",
+        "S čudežnim znamenjem je ljudi odvrnil od napačnega ravnanja"
+      ],
+      "answer": "Rešen z verniki na krovu ladje"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

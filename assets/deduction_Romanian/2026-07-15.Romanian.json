@@ -1,0 +1,61 @@
+{
+  "title": "Retragerea solitară",
+  "intro": "În analele favorii divine, există un suflet de o puritate neegalată, pus deoparte de poporul său pentru a căuta singurătatea într-o direcție sacră. Habar n-aveau că această izolare va aduce un semn pentru toate lumile, o încercare a credinței despre care se va vorbi pentru totdeauna.",
+  "clues": [
+    "Am fost dedicat unei vieți de slujire înainte de a mă naște.",
+    "Am fost pus sub tutela unui nobil profet.",
+    "Am fost susținut cu provizii de la Allah care l-au uimit pe tutorele meu.",
+    "M-am retras de lângă familia mea, într-un loc din est.",
+    "Un înger mi-a apărut sub forma unui om perfect, aducând vești despre un fiu pur.",
+    "Când m-am întors cu nou-născutul meu, poporul meu m-a acuzat, dar bebelușul a vorbit în apărarea mea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Maryam (Maria)",
+        "Asiyah (soția faraonului)",
+        "Hajar (mama lui Ismail)",
+        "Sara (soția lui Ibrahim)",
+        "Mama lui Musa"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Concepția miraculoasă și nașterea unui fiu",
+        "A fi aruncat în foc",
+        "Fiind înghițit de un pește uriaș",
+        "Construirea unei mari arce",
+        "Traversând marea"
+      ],
+      "answer": "Concepția miraculoasă și nașterea unui fiu"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un loc retras din est",
+        "Rugul aprins",
+        "Marea Roșie",
+        "Stânca din care a țâșnit apa",
+        "Balena"
+      ],
+      "answer": "Un loc retras din est"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Un bebeluș a vorbit în apărarea mamei",
+        "Marea a fost despărțită",
+        "Focul s-a răcit și a devenit sigur",
+        "Balena a vomitat pe țărm",
+        "Arca a aterizat pe un munte"
+      ],
+      "answer": "Un bebeluș a vorbit în apărarea mamei"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

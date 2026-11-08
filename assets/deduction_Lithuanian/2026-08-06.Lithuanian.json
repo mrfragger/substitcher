@@ -1,0 +1,61 @@
+{
+  "title": "Budinti siela prie upės kranto",
+  "intro": "Jaunai sielai buvo patikėta slapta misija – iš saugaus atstumo stebėti, kaip likimas klostosi vandenyse. Nematoma ir neįtariama ši asmenybė atliks lemiamą vaidmenį keičiant tautos istorijos eigą.",
+  "clues": [
+    "Mama man davė užduotį, reikalaujančią slaptumo ir budrumo.",
+    "Mano akys sekė mažą lopšį, plaukiantį srovėje, širdis apsunko nerimu.",
+    "Kai jį rado netikėta grupė, priėjau arčiau, kupinas nerimo.",
+    "Mačiau jų neviltį ieškant prižiūrėtojo ir pasiūliau sprendimą neatskleisdamas tiesos.",
+    "Mano savalaikė intervencija sugrąžino slaugomą sielą tam, kuriam to labiausiai reikėjo.",
+    "Galingųjų teismuose kalbėjau: „Ar turėčiau nukreipti jus pas šeimą, kuri jį maitins ir rūpestingai juo rūpinsis?“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Musos sesuo",
+        "Mūzos motina",
+        "Faraono žmona",
+        "Akušerė",
+        "Šuaibo duktė"
+      ],
+      "answer": "Musos sesuo"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Vaiko įmetimas į upę",
+        "Jūros atsiskyrimas",
+        "Veršio deginimas",
+        "Arkos statyba",
+        "Skėrių maras"
+      ],
+      "answer": "Vaiko įmetimas į upę"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Upė",
+        "Dykuma",
+        "Kalnas",
+        "Rūmai",
+        "Ugnis"
+      ],
+      "answer": "Upė"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Ji sugrąžino vaiką jo motinai",
+        "Ji išsigelbėjo nuo faraono kareivių",
+        "Ji tapo karaliene",
+        "Ji buvo nubausta už šnipinėjimą",
+        "Ji vedė izraelitus"
+      ],
+      "answer": "Ji sugrąžino vaiką jo motinai"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

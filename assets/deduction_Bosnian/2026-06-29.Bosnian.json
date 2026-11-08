@@ -1,0 +1,61 @@
+{
+  "title": "Strpljiva duša",
+  "intro": "U analima proročanstva, postojala je duša čije je strpljenje bilo urezano u samu tkaninu njihovog bića. Kroz suze i vrijeme, čvrsto su se držali nade, postajući bezvremenski primjer povjerenja u božansku mudrost. Možete li otkriti misteriju ove nepokolebljive figure?",
+  "clues": [
+    "Rođen sam u porodici proroka, ali moj najveći test došao je kroz dijete koje sam najviše volio.",
+    "Dobila sam upozorenje na ljubomoru iz sna koji je moj sin podijelio i bojala sam se za njegovu sigurnost.",
+    "Oči su mi pobijeljele od tuge, ali nikada nisam izgubio vjeru u Allahovu milost.",
+    "Miris mog nestalog djeteta dopro je do mene izdaleka i tada sam znala da je ponovni susret blizu.",
+    "Moja porodica se poklonila u zahvalnosti kada se davna vizija ispunila i moj vid se povratio.",
+    "Ja sam taj kojem je poklonjena krvlju umrljana košulja, samo da bih kasnije dobio košulju koja mi je izliječila vid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Ibrahim",
+        "Poslanik Ishak",
+        "Poslanik Jakub",
+        "Poslanik Jusuf",
+        "Poslanik Ajjub"
+      ],
+      "answer": "Poslanik Jakub"
+    },
+    "trial": {
+      "label": "Ključno suđenje",
+      "options": [
+        "Odvojenost od voljenog djeteta i gubitak vida",
+        "Biti bačen u plamteću vatru",
+        "Biti progutan od strane velike ribe",
+        "Podnošenje gubitka bogatstva, djece i zdravlja",
+        "Izdana od strane braće i bačena u bunar"
+      ],
+      "answer": "Odvojenost od voljenog djeteta i gubitak vida"
+    },
+    "location": {
+      "label": "Simbolički objekt",
+      "options": [
+        "Majica koja je prvo sakrila istinu, a onda ju je otkrila",
+        "Štap koji se pretvorio u zmiju",
+        "Kit koji je progutao proroka",
+        "Vatra koja se ohladila",
+        "Par sandala kod gorućeg grma"
+      ],
+      "answer": "Majica koja je prvo sakrila istinu, a onda ju je otkrila"
+    },
+    "outcome": {
+      "label": "Božanska odluka",
+      "options": [
+        "Ponovni susret sa voljenom osobom i vraćanje vida",
+        "Spasenje od nacije ugnjetavanja",
+        "Oslobođenje iz utrobe ribe",
+        "Spasenje od plamteće vatre",
+        "Uspon na veliki tron"
+      ],
+      "answer": "Ponovni susret sa voljenom osobom i vraćanje vida"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

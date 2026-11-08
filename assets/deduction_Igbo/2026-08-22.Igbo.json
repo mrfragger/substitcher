@@ -1,0 +1,61 @@
+{
+  "title": "Obodo ahụ Kwere n'Oge",
+  "intro": "N'akwụkwọ akụkọ ebere Chineke, e nwere obodo nke mgbanwe ya bụ oge nghọta zuru oke. Ị na-achọ ikpughe akụkọ ha—akụkọ ịdọ aka ná ntị, nchegharị, na ezumike nke mere ka ha dị iche na akara aka nke mba ndị ọzọ.",
+  "clues": [
+    "Anyị bụ ndị e zigara onye ozi, anyị wee kwụsị ịkpọ ya na mbụ.",
+    "Mgbe ihe ịrịba ama nke ntaramahụhụ na-abịa pụtara ìhè, anyị ghọtara eziokwu nke ịdọ aka ná ntị ya.",
+    "Anyị tụgharịrị gaa n'ebe Onyenwe anyị nọ site n'obi eziokwu, a nakwerekwa okwukwe anyị.",
+    "A kagburu ntaramahụhụ e nyere anyị n'ihi okwukwe anyị.",
+    "A na-akpọ akụkọ anyị dị ka ihe dị iche n'etiti obodo ndị kwere mgbe ha hụchara ntaramahụhụ ahụ.",
+    "Anyị bụ ndị amụma ahụ e ji whale loo, mana a zọpụtara anyị site na mbibi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị Yunus",
+        "Ndị Nuh",
+        "Ndị Hud",
+        "Ndị obodo Salih",
+        "Ndị Lut"
+      ],
+      "answer": "Ndị Yunus"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Idei mmiri na-emebi ihe",
+        "Oké ifufe siri ike",
+        "Ntaramahụhụ na-abịa nke ihere nke a na-ezere",
+        "Ala na-elo ha",
+        "Mmiri ozuzo nke nkume"
+      ],
+      "answer": "Ntaramahụhụ na-abịa nke ihere nke a na-ezere"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ụgbọ ahụ",
+        "Nne kamel ahụ",
+        "Obodo nke otu narị puku",
+        "Ndị ọrụ nke Musa",
+        "Ihe e ji echekwa Qarun"
+      ],
+      "answer": "Obodo nke otu narị puku"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E bibiri ha kpamkpam",
+        "E nyere ha ihe ụtọ ruo oge ụfọdụ",
+        "A gbanwere ha ka ha bụrụ enwe",
+        "Mmiri riri ha",
+        "Ala loda ha"
+      ],
+      "answer": "E nyere ha ihe ụtọ ruo oge ụfọdụ"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'Esprit de Révélation digne de confiance",
+  "intro": "Dans les royaumes invisibles, un être de pure lumière se meut avec précision, exécutant chaque ordre sans hésitation. Cette figure a parlé à des serviteurs élus, leur a transmis des paroles de sagesse et a été témoin du déploiement des décrets divins à travers les âges. Qui est cette âme vénérée ?",
+  "clues": [
+    "Je suis un être de pure lumière, créé à partir de lumière, et je n'ai jamais désobéi à un seul commandement de mon Seigneur.",
+    "Je me déplace entre le ciel et la terre, descendant avec les décrets du Très Miséricordieux.",
+    "On m'a envoyé auprès d'une noble vierge du sanctuaire, pour lui annoncer la naissance d'un fils pur.",
+    "Je suis l'esprit de sainteté, et j'ai soutenu un prophète qui a reçu des signes clairs et l'Évangile.",
+    "Je suis venu dans une grotte sur une montagne pour prononcer les premiers mots d'une récitation qui serait préservée à jamais.",
+    "Je suis l'esprit digne de confiance, et c'est moi qui ai fait descendre le Coran dans le cœur du dernier messager."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "L'Ange de la Mort",
+        "Malik (Gardien de l'Enfer)",
+        "Harut (l'un des deux anges de Babylone)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Mission/Rôle clé",
+      "options": [
+        "Transmettre la révélation aux prophètes",
+        "Sonner de la trompette le jour du jugement",
+        "Gardiens des portes de l'enfer",
+        "Consigner les actes des humains",
+        "Provoquant la pluie"
+      ],
+      "answer": "Transmettre la révélation aux prophètes"
+    },
+    "location": {
+      "label": "Attribut clé ou titre",
+      "options": [
+        "Le Saint-Esprit (Ruh al-Qudus)",
+        "L'esprit de puissance",
+        "L'esprit de miséricorde",
+        "L'esprit de guidance",
+        "L'Esprit de Vérité"
+      ],
+      "answer": "Le Saint-Esprit (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Résultat de la mission",
+      "options": [
+        "Le Coran a été révélé au prophète Mahomet",
+        "La trompette a sonné le jour du jugement.",
+        "L'enfer était gardé et ses portes étaient fermées.",
+        "Le Livre des Actes fut présenté à Allah",
+        "La pluie fut envoyée sur la terre"
+      ],
+      "answer": "Le Coran a été révélé au prophète Mahomet"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

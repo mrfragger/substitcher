@@ -1,0 +1,61 @@
+{
+  "title": "Taatelipalmun varjossa",
+  "intro": "Tarina sielusta, joka erotettiin ennen syntymää, jota hoivattiin pyhien muurien sisällä ja valittiin kantamaan merkkiä, jota maailma ei ollut koskaan nähnyt. Kun syytöksiä nousi joka suunnalta, ääni kuului epätodennäköisimmästä paikasta vaientamaan kaikki epäilykset. Voitko selvittää, kuka käveli taatelipalmun varjon alla?",
+  "clues": [
+    "Olin omistautunut Kaikkivaltiaan palvelukseen jo ennen kuin vein ensimmäistäkään henkeäni, vala, jonka teki se, joka minua kantoi.",
+    "Kasvoin vanhurskaan suojelijan valvovan hoivan alaisena palvontapaikan pyhissä kammioissa.",
+    "Aina kun holhoojani tuli kammiooni, hän löysi minulta eväitä ajalta, joilta ei olisi pitänyt tulla.",
+    "Minulle kerrottiin ilosanoman pojasta, vaikka olosuhteeni eivät jättäneet tilaa luvatulle.",
+    "Vetäydyin kaukaiseen paikkaan, ja siellä taatelipalmu tarjosi minulle varjoa puron virtaillessa alhaallani.",
+    "Kun syytöksiä ja kysymyksiä heräsi, osoitin vastasyntynyttä lastani – ja hän puhui kehdosta asti vaientaakseen kaikki epäilykset."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Maryam",
+        "Saara",
+        "Hawwa",
+        "Umm Musa",
+        "Nuhin vaimo"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Koe / Tapahtuma",
+      "options": [
+        "Ihmeellisen pojan synnyttäminen eristyksissä",
+        "Epäjumalanpalvelijoiden heittämä liekehtivään tuleen",
+        "Selviytyminen suuresta vedenpaisumuksesta harvojen valittujen kanssa",
+        "Erotettuna jokeen heitetystä vauvasta",
+        "Kohtaamassa Egyptin mahtavaa hallitsijaa"
+      ],
+      "answer": "Ihmeellisen pojan synnyttäminen eristyksissä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Taatelipalmu ja sen alla virtaava puro",
+        "Mahtava arkki kohoavien aaltojen päällä",
+        "Sauva, joka halkaisi suuren meren kahtia",
+        "Liekehtivä tuli, jonka tarkoituksena on kuluttaa uskollinen sielu",
+        "Kultainen valtaistuin, jota koristavat jalokivi"
+      ],
+      "answer": "Taatelipalmu ja sen alla virtaava puro"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Kunnioitettu kaikista naisista ylevimpänä",
+        "Yhteen rakkaan lapsen kanssa pitkän eron jälkeen",
+        "Johti kokonaisen kansakunnan tyrannin orjuudesta",
+        "Varoitti moraalittomuuteen eksyneitä ihmisiä",
+        "Myönnettiin valta džinnien, ihmiskunnan ja tuulien yli"
+      ],
+      "answer": "Kunnioitettu kaikista naisista ylevimpänä"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

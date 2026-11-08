@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi Isiyojulikana Iliyosimama Dhidi ya Taifa Lisilo Haki",
+  "intro": "Katika kurasa za Quran, kuna watu ambao majina yao yalifichwa ili tutafakari masomo yao. Mtu mmoja kama huyo alizaliwa miongoni mwa taifa lililowakataa wajumbe wake, lakini mtu huyu alikuwa na imani iliyofichwa iliyowatenganisha. Wakati uharibifu ulipokaribia, mtu huyu alisimama imara katika imani yake ya siri. Je, unaweza kufichua utambulisho wa mtu huyu wa ajabu anayewaonya watu wake kabla ya amri ya mwisho kushuka?",
+  "clues": [
+    "Niliishi miongoni mwa watu ambao walikuwa wamewakataa mara kwa mara wajumbe waliotumwa kwao na Mwenyezi Mungu.",
+    "Tofauti na taifa langu, nilitambua ukweli pale Mtume alipofika na ishara zilizo wazi kutoka kwa Mola wangu.",
+    "Nilificha imani yangu kutoka kwa watesaji wangu, nikijua wangenidhuru ikiwa wangegundua imani yangu.",
+    "Amri ya adhabu ilipokaribia, nilitangaza waziwazi utii wangu na kuwaonya watu wangu wajiokoe.",
+    "Niliwakumbusha kwamba mimi ni mjumbe mwaminifu, sina tofauti na wale waliotumwa kabla, na kwamba hawapaswi kuabudu isipokuwa Mwenyezi Mungu.",
+    "Watu wangu walinituhumu kwa uchawi na wazimu, lakini adhabu waliyoonywa hatimaye iliwapata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Hud, mjumbe kwa watu wa Aad",
+        "Muumini kutoka taifa la Nabii Hud ambaye aliuawa kishahidi",
+        "Mtawala wa watu wa Aad aliyekataa ukweli",
+        "Sahaba wa Nabii Salih ambaye alitilia shaka ishara za Mungu",
+        "Malaika alitumwa kuwaangamiza watu wa Aad"
+      ],
+      "answer": "Muumini kutoka taifa la Nabii Hud ambaye aliuawa kishahidi"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Jaribio la ukame na njaa lililojaribu uvumilivu wao",
+        "Kesi ya kutangaza imani mbele ya taifa kaidi lisiloamini",
+        "Jaribio la kujenga meli ili kuepuka mafuriko makubwa",
+        "Jaribio la kutupwa motoni kwa ajili ya kumwamini Mwenyezi Mungu",
+        "Jaribio la kujaribiwa kwa utajiri na ustawi"
+      ],
+      "answer": "Kesi ya kutangaza imani mbele ya taifa kaidi lisiloamini"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mji wa Makka ambapo nyumba takatifu ilijengwa",
+        "Njama tambarare za taifa lililomkataa mjumbe wao",
+        "Milima ya Midiani ambapo Nabii Shu'aib alitumwa",
+        "Ufuo wa mto wa Misri ambapo Nabii Musa alipatikana",
+        "Bonde la watu wa Aad, lililopigwa na upepo mkali"
+      ],
+      "answer": "Njama tambarare za taifa lililomkataa mjumbe wao"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Niliokolewa ndani ya meli na nikaishi hadi Mwenyezi Mungu alipotaka",
+        "Watu wangu waliamini baada yangu na wakaongozwa kwenye njia iliyonyooka",
+        "Niliuawa na watu wangu lakini roho yangu ilichukuliwa na rehema za Mwenyezi Mungu",
+        "Nilitubu baada ya kujaribiwa na Mwenyezi Mungu akakubali toba yangu",
+        "Nilibadilishwa kuwa sanamu inayoabudiwa na watu wangu baada ya kifo changu"
+      ],
+      "answer": "Niliuawa na watu wangu lakini roho yangu ilichukuliwa na rehema za Mwenyezi Mungu"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

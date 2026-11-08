@@ -1,0 +1,61 @@
+{
+  "title": "Os Humildes Buscadores da Verdade",
+  "intro": "Em uma terra de poder ancestral e feitiçaria, um grande confronto se desenrola. Um lado detém a autoridade de sinais divinos, enquanto o outro tenta igualar o impossível. O resultado mudará para sempre o curso da história. Você conseguirá desvendar a identidade daqueles que testemunharam a verdade suprema e se humilharam diante dela?",
+  "clues": [
+    "Testemunhamos sinais que iam além dos truques de feitiçaria.",
+    "Todos nós nos prostramos, incapazes de negar a verdade.",
+    "Reconhecemos que esses sinais vinham do Único Deus Verdadeiro.",
+    "Fomos a primeira comunidade a abraçar a fé de uma forma tão impactante.",
+    "Nos foi prometido o paraíso como recompensa por nossa crença.",
+    "Nossas cordas e bastões se transformaram em serpentes diante de nossos olhos, mas escolhemos a submissão."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Os magos do faraó",
+        "O povo do profeta Ibrahim",
+        "Os humildes buscadores da verdade",
+        "O Povo da Caverna",
+        "A nação da Rainha Bilqis"
+      ],
+      "answer": "Os magos do faraó"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O encontro com o cajado do Profeta Moisés",
+        "O julgamento do vento do Profeta Hud",
+        "O desafio da camela do Profeta Salih",
+        "O grande dilúvio enviado sobre um profeta",
+        "A jornada de um profeta dentro de uma baleia"
+      ],
+      "answer": "O encontro com o cajado do Profeta Moisés"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Egito Antigo",
+        "A casa sagrada em Meca",
+        "A cidade de Midiã",
+        "O deserto de Thamud",
+        "A caverna dos adormecidos ancestrais"
+      ],
+      "answer": "Egito Antigo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O paraíso como sua recompensa.",
+        "Castigo na sepultura",
+        "Perda de seus jardins abundantes",
+        "Destruição causada por um terremoto repentino",
+        "Resgate de uma grande baleia"
+      ],
+      "answer": "O paraíso como sua recompensa."
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

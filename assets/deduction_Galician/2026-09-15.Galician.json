@@ -1,0 +1,61 @@
+{
+  "title": "A hospitalidade que trouxo medo",
+  "intro": "Nunha cidade consumida pola maldade, un servo fiel recibiu visitas inesperadas un día. Preocupado pola súa seguridade, este individuo ofreceu protección, pero a xente da cidade esixiu algo vergoñento. Advertido dunha condena inminente, o servo fuxiu coa súa familia ao amparo da escuridade, deixando atrás unha cidade marcada para a destrución. Quen é este único crente?",
+  "clues": [
+    "Fun enviado como mensaxeiro a un pobo que cometera actos vergoñentos.",
+    "Viñeron visitas inesperadas á miña casa e estaba máis preocupado pola súa seguridade que pola miña.",
+    "A miña xente esixiu ver os meus convidados por malas intencións, e eu tratei de razoar con eles.",
+    "Os meus visitantes reveláronse como anxos e ordenáronme que collese á miña familia e marchase pola noite.",
+    "A miña muller non atendeu a chamada para escapar e enfrontouse á mesma destrución que a miña xente.",
+    "A miña cidade foi derrubada por unha choiva de pedras de arxila en capas, e as súas partes máis altas foron afundidas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Lut",
+        "Profeta Moisés",
+        "Profeta Ibrahim",
+        "Profeta Nuh",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A esixencia do meu pobo de achegarse maliciosamente aos meus convidados",
+        "A separación do mar para escapar dun tirano",
+        "A construción dunha gran arca entre burlas",
+        "O sacrificio do meu fillo nunha proba de fe",
+        "A experiencia de ser tragado por un gran peixe"
+      ],
+      "answer": "A esixencia do meu pobo de achegarse maliciosamente aos meus convidados"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A cidade derrubada do meu pobo",
+        "A montaña onde recibín a fala divina",
+        "A arca que navegou a través dun gran diluvio",
+        "A camelo que emerxeu da rocha",
+        "O xardín cun visitante xusto oculto"
+      ],
+      "answer": "A cidade derrubada do meu pobo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fun salvado coa miña familia antes de que a miña cidade fose derrocada",
+        "Guiei o meu pobo cara á liberdade a través do mar",
+        "Construín unha gran arca e sobrevivín a unha poderosa inundación",
+        "Déronme dominio sobre os ventos e os xenios",
+        "Aguantei pacientemente o sufrimento e fun recompensado coa familia"
+      ],
+      "answer": "Fun salvado coa miña familia antes de que a miña cidade fose derrocada"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

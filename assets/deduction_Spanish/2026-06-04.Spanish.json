@@ -1,0 +1,61 @@
+{
+  "title": "El signo entre las piedras",
+  "intro": "En una tierra donde las montañas se convertían en hogares, llegó un mensajero con una señal milagrosa de Alá. El pueblo exigió pruebas, y recibieron una criatura de roca sólida. Pero su arrogancia los llevó a desobedecer la advertencia, sellando así su destino.",
+  "clues": [
+    "Me enviaron a un pueblo que vivía en viviendas excavadas en las montañas.",
+    "Me retaron a llevar un cartel, así que hice un camello con una piedra.",
+    "Les ordené que dejaran beber al camello libremente y que no le hicieran daño.",
+    "Desobedecieron y lastimaron al camello, desafiando mi advertencia.",
+    "Anuncié que el castigo llegaría después de tres días.",
+    "Por la mañana, una poderosa explosión los destruyó, pero yo y mis seguidores nos salvamos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Lut",
+        "Profeta Shu'ayb",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Demanda de una camella de roca",
+        "Demanda de un becerro de oro",
+        "Exigir una mesa servida desde el cielo",
+        "Demanda de una inundación",
+        "Se requiere que un miembro del personal se convierta en serpiente."
+      ],
+      "answer": "Demanda de una camella de roca"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La camella y su cría",
+        "El Arca de Noé",
+        "El bastón de Moisés",
+        "El becerro de oro",
+        "El fuego de Ibrahim"
+      ],
+      "answer": "La camella y su cría"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruido por una poderosa explosión.",
+        "Ahogado en la inundación",
+        "Engullido por la tierra",
+        "Se transformaron en simios",
+        "Destruido por un viento feroz."
+      ],
+      "answer": "Destruido por una poderosa explosión."
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

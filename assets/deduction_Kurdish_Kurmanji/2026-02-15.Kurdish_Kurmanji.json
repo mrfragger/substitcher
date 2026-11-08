@@ -1,0 +1,61 @@
+{
+  "title": "Dengê Sebirê",
+  "intro": "Ev kes bi şehrezayî û rêberiya kûr, pêşkêşkirina şîretan ku ji nifşan wêdetir in, tê bîranîn. Gotinên wan şahidiya dîndariyê û girîngiya naskirina bereket û ceribandinên ji Xwedayî ne. Nasnameya vî giyanê rêzdar eşkere bikin.",
+  "clues": [
+    "Ez pêxember nebûm, lê şehrezayiya min di Nivîsarên Pîroz de nemir e.",
+    "Şîreta min a ji bo zarokê min tekezî li ser şikirkirina ji Xwedê re û dûrketina ji şerqê kir.",
+    "Min li ser girîngiya nimêjê, fermankirina qencîyê û qedexekirina xerabîyê hînî wan kir.",
+    "Min li dijî xudperestî û meşa bi bêrêzî li ser erdê hişyarî da te.",
+    "Navê min ji tevahiya beşek di Quranê de hatiye dayîn, ku dersên min ronî dike.",
+    "Şîreta min sebir di tengasiyê de bû, çimku bi rastî ev yek ji karên herî çareserker e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îdrîs",
+        "Pêxember Yahya",
+        "Luqman",
+        "Îmran",
+        "Pêxember Hûd"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Hînkirin/Rêbernameya Sereke",
+      "options": [
+        "Avakirina keştîyekê",
+        "Bi artêşeke bi hêz re rû bi rû dimînin",
+        "Belavkirina şîretên exlaqî û şehrezayiyê",
+        "Şîrovekirina xewnan",
+        "Bi pêşengiya neteweyekê ber bi serkeftinê ve"
+      ],
+      "answer": "Belavkirina şîretên exlaqî û şehrezayiyê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Dareke dişewite",
+        "Masiyek mezin",
+        "Çiyayekî taybetî",
+        "Şîreteke aqilmend ji bo zarokekî",
+        "Qesreke mezin"
+      ],
+      "answer": "Şîreteke aqilmend ji bo zarokekî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bû padîşah.",
+        "Peyxembertî hat dayîn",
+        "zanîn û şehrezayiya wî di Quranê de hatiye tomar kirin",
+        "Gelê xwe ber bi axekî nû ve bir",
+        "Dewlemendiyeke mezin dan"
+      ],
+      "answer": "zanîn û şehrezayiya wî di Quranê de hatiye tomar kirin"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

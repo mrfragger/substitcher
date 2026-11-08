@@ -1,0 +1,61 @@
+{
+  "title": "Ciemats pie tiesas krastiem",
+  "intro": "Jūs atrodaties piekrastes ciematā, kur viļņu šalkas sajaucas ar aizmirstas tautas čukstiem. Viņiem tika dota pavēle ​​atpūsties, taču viņu alkatība noveda pie soda, par kuru joprojām runā klusā balsī. Vai varat atklāt, kas viņi bija?",
+  "clues": [
+    "Mēs dzīvojām krastmalā un mums tika dots pavēlējums ievērot atpūtas dienu.",
+    "Tajā dienā pie mums nāca zivis pārpilnībā, bet mums bija aizliegts tās ņemt līdzi.",
+    "Daži no mums brīdināja par pārkāpumiem, bet citi tik un tā sazvērējās zvejot.",
+    "Mēs pārkāpām svēto pavēli un izpelnījāmies bargu sodu.",
+    "Mūsu sods bija pārvērtības, kas mūs kropļoja un apkaunoja.",
+    "Mēs tikām pārvērsti par pērtiķiem, par zīmi visiem, kas nāks pēc mums."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Sabata cilvēki",
+        "Tamudas iedzīvotāji",
+        "Reklāmas cilvēki",
+        "Alas ļaudis",
+        "Ziloņu ļaudis"
+      ],
+      "answer": "Sabata cilvēki"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Makšķerēšana sabatā",
+        "Zelta teļa pielūgšana",
+        "Huda vēstījuma noliegšana",
+        "Kamieļa mātītes nogalināšana",
+        "Torņa uzcelšana debesīm"
+      ],
+      "answer": "Makšķerēšana sabatā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zivs",
+        "Kamielis-mātīte",
+        "Personāls",
+        "Laiva",
+        "Dārzs"
+      ],
+      "answer": "Zivs"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Pārvērtās par pērtiķiem",
+        "Iznīcināts plūdu dēļ",
+        "Iznīcināts liesmojošas uguns dēļ",
+        "Zeme norīja",
+        "Vēja izkaisīti"
+      ],
+      "answer": "Pārvērtās par pērtiķiem"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Abakhi Bezakhiwo Zamatshe",
+  "intro": "Cabanga ngempucuko enamandla, eneziphiwo zamandla namakhono, iqopha izindlu ezinkulu ezintabeni. Leli qembu lalinokuchuma okukhulu kanye nekhono eliyingqayizivele lokwakha. Kodwa-ke, naphezu kokuthola izixwayiso ezicacile, bakhetha indlela eyayizoholela esiphethweni esimangalisayo nesingenakulibaleka. Ungalibona leli qembu elindaba yalo isebenza njengesifundo esijulile kubo bonke abacabangayo?",
+  "clues": [
+    "Sanikwa amandla nekhono, okwasenza sakwazi ukuqopha izindlu ezinhle kakhulu ezintabeni.",
+    "Sanikwa isibonakaliso esicacile esivela ku-Allah, isidalwa esiyingqayizivele okwakufanele sishiywe singaphazanyiswa ukuze sidle.",
+    "Umphakathi wethu waba nokuzikhukhumeza, waphonsela inselelo umyalezo waphezulu owawulethwe yisithunywa esivela phakathi kwethu.",
+    "Sakha uzungu lokulimaza isibonakaliso esimangalisayo, naphezu kwezixwayiso zesijeziso esinzima.",
+    "Sawulahla umyalo wokuvumela lesi silwane esikhethekile siphuze emthonjeni wethu ngezinsuku ezishintshanayo.",
+    "Sabhekana nesiphetho esibuhlungu, sashaywa ukuqhuma okukodwa okwesabekayo ngemva kwesenzo sethu sokweqa umthetho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abantu be-'Ad",
+        "Abantu bakwaMidiyani",
+        "Abantu Bendlovu",
+        "Abantu baseThamud",
+        "Abantu bakaLut"
+      ],
+      "answer": "Abantu baseThamud"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi Wethu Omkhulu",
+      "options": [
+        "Isikhukhula esagubha izwe",
+        "Ukuhlukana kolwandle",
+        "Ukubhujiswa ngokuqhuma/ukumemeza okukodwa",
+        "Ukushiswa komuzi",
+        "Ukuguqulwa kwentaba ibe uthuli"
+      ],
+      "answer": "Ukubhujiswa ngokuqhuma/ukumemeza okukodwa"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko Endabeni Yethu",
+      "options": [
+        "Ithole legolide",
+        "Ikamela lensikazi eliyisimangaliso",
+        "Isihlahla esivuthayo",
+        "Inyoni ekhulumayo",
+        "Isihlalo sobukhosi esihle kakhulu"
+      ],
+      "answer": "Ikamela lensikazi eliyisimangaliso"
+    },
+    "outcome": {
+      "label": "Umphumela Wethu Oyinhloko",
+      "options": [
+        "Unikezwe ingcebo enkulu namandla",
+        "Kuphakanyiswe kwaba umprofethi",
+        "Ukubhujiswa okuphelele yisijeziso saphezulu",
+        "Ukuthethelelwa ngemva kokuphenduka okuqotho",
+        "Kuhlakazeke emhlabeni wonke ukuze kuzulazule"
+      ],
+      "answer": "Ukubhujiswa okuphelele yisijeziso saphezulu"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

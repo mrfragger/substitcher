@@ -1,0 +1,61 @@
+{
+  "title": "Qəfil Səma Altında Mühasirə",
+  "intro": "Siz bütün silahlarınız hazır və qələbəniz şübhəsiz olan möhtərəm bir sığınacağa yaxınlaşan nəhəng bir ordunun qarşısında dayanırsınız. Hücum başlamazdan əvvəl gözlənilməz bir qüvvə başınızın üstündə peyda olur və döyüş heç kimin gözləmədiyi bir dönüş edir.",
+  "clues": [
+    "Biz heç bir dünyəvi gücün sarsıda bilməyəcəyi bir inamla yürüş etdik.",
+    "Biz qüdrətli fillər gətirdik və qüvvələrimiz onların ətrafında cəmləşmiş kimi görünürdü.",
+    "Qələbəmizin artıq müəyyən olduğuna inanaraq hörmətli bir ziyarətgahı dağıtmağa gəlmişdik.",
+    "Biz ora çatanda bir sürü başımızın üstündəki səmanı bürüdü.",
+    "Quşlar döyüşçülərimizə bərkimiş gil daşlar atdılar.",
+    "Biz o qədər məğlub olduq ki, qüdrətli qüvvəmiz parçalanıb kül kimi səpələndi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Fil xalqı",
+        "İki Şahzadə",
+        "Yusifin qardaşları",
+        "Zül-Kifldə Allahın bəndəsi",
+        "Saleh İnsanın Əshabı"
+      ],
+      "answer": "Fil xalqı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Kəbəyə fillərin hücumu",
+        "Dəniz təslim olan bir dəstə qarşısında ayrılır",
+        "Zalım bir xalq tərəfindən sandığın ələ keçirilməsi",
+        "İki məscid arasında gecə səyahəti",
+        "İlahi güclə cüzamlı xəstənin sağalması"
+      ],
+      "answer": "Kəbəyə fillərin hücumu"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gil dənəcikləri daşıyan quşlar",
+        "Qofer ağacından hazırlanmış sandıq",
+        "Bir əsa ilana çevrildi",
+        "Bir işarə ilə möhürlənmiş bir daş",
+        "Yanan bir kol"
+      ],
+      "answer": "Gil dənəcikləri daşıyan quşlar"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Onların qüdrətli qüvvəsi kül kimi parçalandı",
+        "Onlar dənizi təhlükəsiz keçdilər",
+        "Onlar alovlu sobanın içindən sağ-salamat keçdilər",
+        "Onlar Cənnətə cüt-cüt daxil oldular",
+        "Onlar 309 il mağarada yatdılar"
+      ],
+      "answer": "Onların qüdrətli qüvvəsi kül kimi parçalandı"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

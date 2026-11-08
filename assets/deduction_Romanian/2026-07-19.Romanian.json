@@ -1,0 +1,61 @@
+{
+  "title": "Vocea neascultată a secolelor",
+  "intro": "Într-o epocă cu mult înainte ca marile orașe să se ridice, un suflet singuratic s-a ridicat printre un popor care se îndepărtase de adevăr. Încăpățânarea lor a fost egalată doar de răbdarea acestui chemător solitar, care a implorat generații întregi fără a-și pierde hotărârea. Când toate avertismentele au căzut în urechi surde, o socoteală fără precedent a remodelat chiar pământul. Astăzi, ecourile acelei povești încă răsună prin fiecare recitare. Poți identifica acest suflet hotărât?",
+  "clues": [
+    "Am fost crescut printre un popor care se închina la idoli falși și ignora semnele din jurul său, totuși am fost ales să-i trezesc din nepăsarea lor.",
+    "I-am chemat iar și iar pe oamenii mei, dar m-au acuzat că nu sunt altceva decât o persoană ca ei, batjocorindu-mi mesajul și astupându-și urechile.",
+    "Zi și noapte, i-am implorat cu înțelepciune și aducere aminte blândă, dar cuvintele mele păreau să dispară în aer, neauzite și nepăsătoare.",
+    "Sub îndrumare divină, am construit o vastă navă din lemn și scânduri pe uscat, iar poporul meu a râs de mine ca de unul care mi-a pierdut mințile.",
+    "Când a venit marea inundație, așa cum a promis, propriul meu fiu a refuzat să se îmbarce cu mine pe corabie, crezând că un munte îl va adăposti de apele care creșteau.",
+    "Am devenit patriarhul unui nou început pe pământ, iar povestea mea este păstrată într-un capitol din Coran care îmi poartă chiar numele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Nuh",
+        "Profetul Ibrahim",
+        "Profetul Musa",
+        "Profetul Lut",
+        "Profetul Hud"
+      ],
+      "answer": "Profetul Nuh"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Marele Potop care a remodelat Pământul",
+        "Aruncați într-un foc arzător de către idolatri",
+        "Confruntare cu magicienii faraonului la palat",
+        "Distrugerea grădinilor prospere de către o furtună cerească",
+        "Răsturnarea locuitorilor tranșeelor"
+      ],
+      "answer": "Marele Potop care a remodelat Pământul"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca construită din lemn și scânduri",
+        "Casa sacră construită pe temelii străvechi",
+        "Toiagul care s-a transformat într-un șarpe",
+        "Peștera tinerilor adormiți",
+        "Tronul purtat de o creatură puternică"
+      ],
+      "answer": "Arca construită din lemn și scânduri"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Necredincioșii s-au înecat, în timp ce credincioșii au fost salvați la bordul navei.",
+        "Focul s-a potolit și s-a dovedit a fi sigur, iar apelantul a ieșit nevătămat.",
+        "Magicienii s-au prosternat și au îmbrățișat credința",
+        "Grădina a fost acordată vecinului drept în locul ei",
+        "Cei care dormeau s-au trezit după secole, transformați"
+      ],
+      "answer": "Necredincioșii s-au înecat, în timp ce credincioșii au fost salvați la bordul navei."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

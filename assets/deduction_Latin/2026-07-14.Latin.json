@@ -1,0 +1,61 @@
+{
+  "title": "Animae Fossae",
+  "intro": "Ad aetatem iter facis, cum princeps crudelis deos falsos absolute devotos esse postulabat. Parva communitas animarum devotarum recusavit, et poenam tam gravem subiit ut in aeternum maledicta fieret. Historia eorum per Coranum resonat tamquam testimonium fidei inconcussae. Potesne hunc constantem gregem agnoscere?",
+  "clues": [
+    "In terra sub tyrannide principis qui cultum falsorum deorum postulabat habitavimus.",
+    "Communitas nostra persecutionem gravem passa est propter solam fidem nostram in Deum solum.",
+    "Princeps iussit ut magna fossa foderetur et flammis vehementibus infunderetur",
+    "Quia fidem nostram abicere recusavimus, in illam ardentem foveam singuli coniecti sumus.",
+    "Historia nostra pars Corani facta est, et qui nos persecuti sunt in aeternum maledicti sunt.",
+    "Sura quae afflictionem nostram commemorat, ex magnis signis caelestibus caeli nominatur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Socii Fossae (Ashab al-Ukhdud)",
+        "Populus Speluncae (Ashab al-Kahf)",
+        "Populus Sabbati",
+        "Populus A'ad",
+        "Populus Thamudensis"
+      ],
+      "answer": "Socii Fossae (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Iudicium Nostrum",
+      "options": [
+        "Vivus in fovea ignea comburitur",
+        "In spelunca per multos annos inclusus",
+        "Piscatio die sacro requietis",
+        "Vento ululante deleri",
+        "Camelam sacram occidere"
+      ],
+      "answer": "Vivus in fovea ignea comburitur"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Fossa ignis ardens",
+        "Spelunca occulta cum cane fideli",
+        "Altae columnae antiquae urbis damnatae",
+        "Domus montanae in rupes lapideas sculptae",
+        "Planities aperta ventis vehementibus agitata"
+      ],
+      "answer": "Fossa ignis ardens"
+    },
+    "outcome": {
+      "label": "Exitus Noster",
+      "options": [
+        "Martyres affecti sumus et persecutores in aeternum maledicti.",
+        "Post trecentos novem annos dormientes expergefacti sumus",
+        "In simias propter delicta nostra transformati sumus",
+        "Ventus ingens ululans nos omnes delevit",
+        "Unus clamor vastans vitam nostram fregit"
+      ],
+      "answer": "Martyres affecti sumus et persecutores in aeternum maledicti."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

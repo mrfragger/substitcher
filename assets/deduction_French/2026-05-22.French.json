@@ -1,0 +1,61 @@
+{
+  "title": "L'Ascension du Rêveur",
+  "intro": "Une âme promise à un grand destin, mais éprouvée par de dures épreuves, entreprit un voyage extraordinaire. Son chemin fut marqué par la jalousie, la séparation et des souffrances injustes, pour finalement aboutir à une immense responsabilité et à des retrouvailles profondes. Saurez-vous identifier ce personnage remarquable du Coran ?",
+  "clues": [
+    "J'ai un jour été envié par mes proches, ce qui a entraîné une profonde séparation d'avec mes parents et mon foyer.",
+    "J'ai traversé une période de grandes difficultés, notamment celle d'avoir été vendu à un prix dérisoire par des voyageurs.",
+    "J'ai été accusée à tort de méfaits et j'ai passé des années en détention, pourtant ma foi est restée inébranlable.",
+    "J'ai reçu le don unique d'interpréter des visions complexes, ce qui s'est avéré déterminant sur le chemin de ma liberté.",
+    "Ma sagesse et mon intégrité m'ont finalement conduit à un poste de grande autorité et de confiance dans un pays étranger.",
+    "Suite à une série d'événements, j'ai retrouvé mon parent âgé et mes frères et sœurs après une longue et douloureuse absence."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Sulaiman",
+        "Le prophète Isaïe",
+        "Prophète Yusuf",
+        "Prophète Dawud",
+        "Prophète Yahya"
+      ],
+      "answer": "Prophète Yusuf"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Être avalé par un gros poisson",
+        "Construire une arche pour sauver la création",
+        "Subir de fausses accusations et l'emprisonnement",
+        "Affronter un dirigeant tyrannique par des miracles",
+        "Être mis à l'épreuve par une maladie grave et la perte"
+      ],
+      "answer": "Subir de fausses accusations et l'emprisonnement"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un buisson ardent",
+        "Un oiseau qui parle",
+        "Un puits",
+        "Un bâton se transformant en serpent",
+        "Une chamelle comme signe"
+      ],
+      "answer": "Un puits"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Mener une migration vers une terre promise",
+        "Devenir un ministre influent en Égypte",
+        "Recevoir le jugement divin sur un peuple arrogant",
+        "Gouverner un vaste royaume avec sagesse et justice",
+        "L'ascension vers les cieux"
+      ],
+      "answer": "Devenir un ministre influent en Égypte"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

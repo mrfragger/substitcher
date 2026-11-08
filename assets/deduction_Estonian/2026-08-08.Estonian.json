@@ -1,0 +1,61 @@
+{
+  "title": "Tormieelne hääl",
+  "intro": "Kõrbes tõusis kuju, et kutsuda võimas rahvas tõe juurde tagasi. Inimesed olid tuntud oma suurepäraste hoonete ja võrratu jõu poolest. Ometi pimestas nende uhkus neid ja nad keeldusid kuulamast. Lõpuks tabas neid laastav karistus, mis säästis vaid väikese grupi usklikke.",
+  "clues": [
+    "Mind saadeti võimsa rahva juurde, kes elas avamaal ja oli tuntud oma võimsuse poolest.",
+    "Mu rahvas tuli pärast teist suurt rahvast, kes oli hävitatud.",
+    "Neil olid uhked ehitised ja nad ehitasid kõrgeid torne.",
+    "Ma kutsusin neid kummardama ühte Jumalat, aga nad keeldusid oma ebajumalaid hülgamast.",
+    "Neid tabas vägivaldne karistus, mis säästis vaid neid, kes minuga koos uskusid.",
+    "Mina olen see, kes saadeti vägeva rahva juurde, keda tuntakse kui Aadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Hud",
+        "Prohvet Salih",
+        "Prohvet Shu'aib",
+        "Prohvet Noa",
+        "Prohvet Ibrahim"
+      ],
+      "answer": "Prohvet Hud"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suur üleujutus",
+        "Möirgav ja äge tuul",
+        "Maavärin ja kohutav nutt",
+        "Põlevate kivide vihm",
+        "Taevane tuli ülalt"
+      ],
+      "answer": "Möirgav ja äge tuul"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Suur laev, mis ehitati mäele",
+        "Ainulaadne emane kaamel",
+        "Personali, mis muutus maoks",
+        "Kõrged hooned ja kõrged ehitised",
+        "Leegitsev tuleriit"
+      ],
+      "answer": "Kõrged hooned ja kõrged ehitised"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Kõik uppusid suures üleujutuses",
+        "Mu rahvas hävitas tugev tuul, samal ajal kui mina päästeti",
+        "Mu rahvast tabas maavärin ja nad nutavad",
+        "Mu rahvast loobiti taevast kividega",
+        "Mu rahvas visatakse lõõmavasse tulle"
+      ],
+      "answer": "Mu rahvas hävitas tugev tuul, samal ajal kui mina päästeti"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lehen Transgresioaren Komunitatea",
+  "intro": "Antzinako hirien lurraldean, herri bat loratu zen behin. Mezulari batek bisitatu zituen dei argi batekin, baina alde egin eta inork inoiz ibili ez zuen bide bati ekin zioten. Haien istorioa desafio, gaiztakeria eta zigor baten istorioa da, hausnartzen duten guztientzat seinale gisa utzi zuena. Nor dira arima hauek?",
+  "clues": [
+    "Lautadako hirietan bizi ginen, non gure profetak zuzentasunera deitu gintuen.",
+    "Mundu osoan inork lehenago egin ez zuen lizunkeria bat egiten lehenak izan ginen.",
+    "Bidaiariei traba egin genien eta gaiztakeria egin genuen agerian gure bileretan.",
+    "Bidali zigun mezularia arbuiatu eta gure lurraldetik kanporatuko genuela mehatxatu genuen.",
+    "Bere etxera korrika joan ginen, bere gonbidatuak guri emateko eskatuz.",
+    "Gure zigorra harri-jasa izan zen, eta gure hiria hankaz gora jarri zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Luteko jendea.",
+        "Nuh-eko jendea",
+        "'Ad-eko jendea",
+        "Thamudeko jendea",
+        "Madyango jendea."
+      ],
+      "answer": "Luteko jendea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Sodomia lehen ekintza egin zuen",
+        "Idolo gurtuak",
+        "Merkataritzan iruzur egin diote.",
+        "Beren profeta hil zuten",
+        "Gurasoei desobeditzea"
+      ],
+      "answer": "Sodomia lehen ekintza egin zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Lautadako hiria.",
+        "Putzuaren hiria.",
+        "Lubakiaren hiria.",
+        "Elefantearen hiria.",
+        "Lorategiko hiria."
+      ],
+      "answer": "Lautadako hiria."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Harriekin euri egin eta irauli egin zen",
+        "Uholde batek itota.",
+        "Haize bortitz batek suntsitu zuen",
+        "Lurrak irentsia.",
+        "Eztanda handi batek jota"
+      ],
+      "answer": "Harriekin euri egin eta irauli egin zen"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

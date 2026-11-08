@@ -1,0 +1,61 @@
+{
+  "title": "Neomajna priča",
+  "intro": "Razkriva se globoka pripoved, ki razkriva neomajno odločnost skupnosti kljub neizmerni tiraniji. Njihova zgodba služi kot dokaz vere, tudi ko se soočajo z najvišjo žrtvijo. Ta pripoved nas spominja na moč vere proti neizmernemu zatiranju.",
+  "clues": [
+    "Bili smo skupina, katere zgodba je opisana v kratki, močni suri, ki svari pred preganjanjem.",
+    "Soočili smo se z vladarjem, ki je želel izkoreniniti našo vero v Edinega Boga, Gospodarja Prestola, Hvalevrednega.",
+    "Bili smo podvrženi strašni preizkušnji, ki je vključevala ogromno jamo, izkopano v zemljo.",
+    "Opazovali smo, kako so vernike, vključno z dojenčki, vrgli v divji pekel v tej jami.",
+    "Naši mučitelji so bili prekleti zaradi svojih dejanj, nam pa je bila obljubljena neizmerna nagrada za našo vztrajnost.",
+    "Vladarjev poskus, da bi ugasnil našo vero, je le utrdil naš položaj mučenikov v očeh Alaha, ki je priča vsemu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz Thamuda",
+        "Ljudje iz 'Ad",
+        "Ljudje iz jarka",
+        "Lutovi ljudje",
+        "Ljudje slona"
+      ],
+      "answer": "Ljudje iz jarka"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Velika poplava",
+        "Goreči grm",
+        "Utapljanje v morju",
+        "Ognjena jama",
+        "Potres"
+      ],
+      "answer": "Ognjena jama"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Osebje",
+        "Jarek",
+        "Gora",
+        "Vodnjak"
+      ],
+      "answer": "Jarek"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Dobili so kraljestvo",
+        "Rešeni so bili po čudežu",
+        "Dosegel mučeništvo in raj",
+        "Bili so raztreseni po deželah",
+        "Dobili so ogromno bogastvo"
+      ],
+      "answer": "Dosegel mučeništvo in raj"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

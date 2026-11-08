@@ -1,0 +1,61 @@
+{
+  "title": "La Unua Animo Staranta",
+  "intro": "Longe antaŭ ol iu ajn mesaĝisto piediris sur la tero, antaŭ ol iu ajn skribaĵo estis revelaciita, estaĵo malsimila al iu ajn alia ekestis. Ĉi tiu animo estis formita de diaj manoj, ricevis lokon de nekomparebla beleco, kaj testita laŭ maniero kiu eĥos tra la tuta homa historio. Kio sekvis estis rakonto pri malforteco, sincera pento, kaj destino kiu ŝanĝus la kurson de la kreado por ĉiam. Ĉu vi povas diveni kiu ĉi tio estas?",
+  "clues": [
+    "Mi estis formita de la manoj de la Plej Kompatema el la polvo de la tero mem",
+    "Mi ricevis hejmon de nekomparebla beleco, kie nek malsato nek laceco povis tuŝi min",
+    "Mi estis ordonita neniam alproksimiĝi al unuopa arbo, ĉar ĝi estis malpermesita",
+    "Mia kunulo kaj mi estis trompitaj kaj alproksimiĝis al la malpermesita arbo, kontraŭ la ordono de nia Sinjoro",
+    "Ni returnis nin al nia Sinjoro kun sincera pento, kaj nia peko estis pardonita",
+    "De ni, la tuta homaro devenas; mi estas la plej unua, kiu piediris sur ĉi tiu tero"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Adamo",
+        "Profeto Moseo",
+        "Profeto Nuh",
+        "Profeto Jusuf",
+        "Profeto Isa"
+      ],
+      "answer": "Profeto Adamo"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Tento fare de la malpermesita arbo",
+        "Konflikto kun Faraono",
+        "Konstruante la grandan Arkeon",
+        "Ofero de la amata filo",
+        "Estante ĵetita en grandan fajron"
+      ],
+      "answer": "Tento fare de la malpermesita arbo"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Malpermesita Arbo",
+        "La Brulanta Arbusto",
+        "La Ora Bastono",
+        "La Granda Arkeo",
+        "La Ora Bovido"
+      ],
+      "answer": "La Malpermesita Arbo"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Sendita al la tero kiel la unua zorgisto de la homaro",
+        "Faraono kaj lia armeo dronis en la maro",
+        "La granda diluvo detruis la malbonulojn",
+        "La fajro fariĝis malvarmeta kaj paca",
+        "Ricevis aŭtoritaton super la regno de Egiptujo"
+      ],
+      "answer": "Sendita al la tero kiel la unua zorgisto de la homaro"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

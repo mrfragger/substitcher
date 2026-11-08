@@ -1,0 +1,61 @@
+{
+  "title": "Les bâtisseurs de tours",
+  "intro": "En des temps immémoriaux, une puissante civilisation s'éleva, remarquable par ses prouesses architecturales et sa force redoutable. Ce peuple, doté de ressources abondantes et d'une puissance physique considérable, choisit pourtant la voie de la rébellion contre le message divin censé le guider. Son histoire constitue un enseignement profond dans les annales du temps, un témoignage des conséquences du rejet de la vérité.",
+  "clues": [
+    "Nous avons bénéficié d'une force physique et d'une stature immenses, contrairement à tous les autres peuples de notre époque.",
+    "Nous étions connus pour construire de grandes structures et de hautes colonnes sur tous les lieux élevés, pensant que nous vivrions éternellement.",
+    "Un messager issu de notre peuple a été envoyé pour nous avertir, nous appelant à adorer Allah seul et à abandonner nos idoles.",
+    "Nous avons interrogé notre messager avec arrogance, lui demandant s'ils étaient venus à nous uniquement pour nous faire adorer Allah et abandonner ce que nos ancêtres adoraient.",
+    "Notre terre était bénie de jardins, de sources et de champs fertiles, mais nous attribuions notre prospérité à notre propre force, et non à notre Créateur.",
+    "Pour notre incrédulité et nos moqueries persistantes, nous avons finalement été anéantis par un vent terrifiant et furieux qui a fait rage pendant de nombreux jours et nuits."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple de Thamud",
+        "Peuple de Pharaon",
+        "Le peuple de Nuh",
+        "Les habitants de Madyan",
+        "Les gens de 'Ad"
+      ],
+      "answer": "Les gens de 'Ad"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "On vous demande de sacrifier un chameau en particulier",
+        "Être mis au défi de produire dix sourates comme le Coran",
+        "On nous montre la séparation de la mer",
+        "Averti par un prophète de l'imminence du déluge",
+        "Rejeter un prophète qui mettait en garde contre la construction excessive et le culte des idoles"
+      ],
+      "answer": "Rejeter un prophète qui mettait en garde contre la construction excessive et le culte des idoles"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "Le feu",
+        "La ville de Sodome",
+        "De hauts piliers et de solides demeures"
+      ],
+      "answer": "De hauts piliers et de solides demeures"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Noyés lors d'une grande inondation",
+        "Englouti par la terre",
+        "Transformés en singes et en porcs",
+        "Détruit par une explosion tonitruante",
+        "Anéanti par un vent furieux et dévastateur"
+      ],
+      "answer": "Anéanti par un vent furieux et dévastateur"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

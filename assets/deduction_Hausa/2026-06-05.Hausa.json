@@ -1,0 +1,61 @@
+{
+  "title": "Masu Neman Gaskiya Masu Tawali'u",
+  "intro": "A ƙasar da take cike da iko da sihiri na da, wani babban rikici ya ɓarke. Ɗaya daga cikin ɓangarorin yana amfani da ikon alamun allahntaka, yayin da ɗayan kuma ke ƙoƙarin daidaita abin da ba zai yiwu ba. Sakamakon zai canza tarihin har abada. Za ku iya gano asalin waɗanda suka shaida gaskiya ta ƙarshe kuma suka ƙasƙantar da kansu a gabanta?",
+  "clues": [
+    "Mun shaida alamun da suka wuce dabarun sihiri",
+    "Duk mun faɗi cikin sujada, ba mu iya musanta gaskiya ba",
+    "Mun fahimci cewa waɗannan alamu sun fito ne daga Allah ɗaya na gaskiya",
+    "Mu ne al'umma ta farko da ta rungumi imani ta wannan hanya mai ban mamaki",
+    "An yi mana alƙawarin aljanna a matsayin sakamakon imaninmu",
+    "Igiyoyinmu da sandunanmu sun zama macizai a gaban idanunmu, duk da haka mun zaɓi biyayya"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Masu sihirin Fir'auna",
+        "mutanen Annabi Ibrahim",
+        "Masu neman gaskiya masu tawali'u",
+        "Mutanen Kogo",
+        "Al'ummar Sarauniya Bilqis"
+      ],
+      "answer": "Masu sihirin Fir'auna"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Haɗuwa da ma'aikatan Annabi Musa",
+        "Jarabawar Iskar Annabi Hud",
+        "Kalubalen da Rakumin Annabi Salih ya fuskanta",
+        "An aika babban ambaliyar ruwa a kan annabi",
+        "Tafiyar annabi a cikin kifin whale"
+      ],
+      "answer": "Haɗuwa da ma'aikatan Annabi Musa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Tsohuwar Masar",
+        "Gidan alfarma a Makkah",
+        "Birnin Midiya",
+        "Hamadar Samudawa",
+        "Kogon tsoffin masu barci"
+      ],
+      "answer": "Tsohuwar Masar"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Aljanna a matsayin sakamakonsu",
+        "Hukunci a cikin kabari",
+        "Rashin wadataccen lambunansu",
+        "Lalacewar da girgizar ƙasa ta yi kwatsam",
+        "Ceto daga babban kifin whale"
+      ],
+      "answer": "Aljanna a matsayin sakamakonsu"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Messaġġier li Konfronta lill-Idolatri",
+  "intro": "Fi żmien meta d-devozzjoni kienet ħarġet, messaġġier qam b’sejħa biex jerġgħu lura għall-qima tal-Mulej tad-dinjiet. Din il-figura żammet sod kontra poplu mdaħħal fil-qima ta’ divinità falza, u fakkrithom fil-Ħallieq veru tagħhom u l-Mulej ta’ missirijiethom. Madankollu n-nies ma tawx kas u ċaħdu t-twissija, u b’hekk issiġillaw id-destin tagħhom stess. Min kien dan is-sejjieħ sod?",
+  "clues": [
+    "Intbgħatt għand poplu li kien tbiegħed mit-triq tal-Uniku Alla Veru.",
+    "Jiena staqsejt lin-nies tiegħi, \"Ma tibżgħux minn Alla?\"",
+    "Sejħitilhom biex jabbandunaw il-qima tagħhom ta’ alla falz jismu Baal.",
+    "Il-poplu tiegħi ċaħad is-sejħa tiegħi u baqa’ jgħix fl-idolatrija tiegħu.",
+    "Minħabba ċ-ċaħda tagħhom, żgur li se jitressqu għall-kastig.",
+    "Il-Mulej tiegħi tani l-paċi u tifkira mbierka fost il-ġenerazzjonijiet ta’ wara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Ilyas",
+        "Profeta Yahya",
+        "Il-Profeta Dhul-Kifl",
+        "Profeta Yusuf",
+        "Il-Profeta Shu'ayb"
+      ],
+      "answer": "Profeta Ilyas"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Sejjaħ lin-nies tiegħu biex jabbandunaw lil Baal",
+        "Bnew arka biex isalvaw lill-fidili",
+        "Intfa’ fin-nar",
+        "Ħarab mit-tirann Fargħun",
+        "Ħabat blata biex joħroġ l-ilma"
+      ],
+      "answer": "Sejjaħ lin-nies tiegħu biex jabbandunaw lil Baal"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Ħubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Mogħti paċi u tifkira mbierka",
+        "Mibela’ mill-art",
+        "Meqrud minn maltempata vjolenti",
+        "Inbidel f'ġebla",
+        "Għerqet fil-baħar"
+      ],
+      "answer": "Mogħti paċi u tifkira mbierka"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

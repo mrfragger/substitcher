@@ -1,0 +1,61 @@
+{
+  "title": "Vahlayisi Va Ntshovelo Wa Xihundla",
+  "intro": "Etikweni leri nga ni rihlaza, ntlawa wa vanhu wu endle pulani ya le xihundleni ehansi ka xifunengeto xa munyama. A va ri ni xikongomelo xin’we, kambe xikongomelo xa vona a xi nga ri kule swinene ni ku lulama. A va nga swi tivi leswaku ku soholota ka Xikwembu a ku va rindzile loko va etlele.",
+  "clues": [
+    "Hi endle xiboho lexi tiyeke, hi ehleketa leswaku pulani ya hina a yi na xihoxo.",
+    "A hi kunguhate ku huma ka ha ri mixo, van’wana va nga si rhurhumela hambi ku ri ku rhurhumela.",
+    "Hi veke eka xitandi lexi noneke, hi tiyiseka hi malunghiselelo ya hina.",
+    "Loko hi fika laha a hi ya kona, hi kume leswaku ri nga ri na nchumu naswona ri nga ri na nchumu, kutani a hi ehleketa leswaku hi lahlekeriwe hi ndlela.",
+    "Kutani hi swi xiyile leswaku hakunene a ku ri ndhawu ya hina, kutani hi huwelela hi ku heleriwa hi ntshembo, hi solana hikwalaho ka ku lahlekeriwa ka hina.",
+    "A hi hlambanyile mixo wolowo leswaku hi ta hlongola swisiwana eka ntshovelo wa hina, kambe nxupulo wa Allah wu hi fikelerile loko hi etlele, wu hundzula ntanga wa hina wu va rhumbi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Vini va Ntanga eka Surah 68",
+        "Vanhu va le Saba",
+        "Vaseketeri va Bako",
+        "Vanhu va Ndlopfu",
+        "Vanhu va Mugodi"
+      ],
+      "answer": "Vini va Ntanga eka Surah 68"
+    },
+    "trial": {
+      "label": "Ndzingo Wa Hina",
+      "options": [
+        "Ntanga wa hina wu onhiwile hi khombo leri humaka empfhukeni",
+        "Ntanga wa hina wu khukhuriwe hi ndhambi",
+        "Ntanga wa hina wu hisiwile hi ndzilo lowu humaka eka nala",
+        "Ntanga wa hina a wu tele hi tinjiya",
+        "Ntanga wa hina wu mitiwe hi ku tsekatseka ka misava"
+      ],
+      "answer": "Ntanga wa hina wu onhiwile hi khombo leri humaka empfhukeni"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Hi hlambanyile leswaku hi ta tshovela mihandzu ya yona nimixo",
+        "Hi ake damu ro cheleta ntanga wa hina",
+        "Hi lave vutumbelo ebakweni leswaku hi ta sirheleriwa",
+        "Hi lunghiselele vuthu ro hlula mfumo",
+        "Hi fambe hi xikepe leswaku hi ya tsemakanya lwandle"
+      ],
+      "answer": "Hi hlambanyile leswaku hi ta tshovela mihandzu ya yona nimixo"
+    },
+    "outcome": {
+      "label": "Vumundzuku Bya Hina",
+      "options": [
+        "Hi hundzukile naswona hi tshemba tintswalo leti humaka eka Allah",
+        "Hi lovisiwile hi ku helela naswona a hi si tshama hi hundzuka",
+        "Hi balekile etikweni naswona a hi nga ha vuyi",
+        "Hi tlhele hi va ni matimba ni ku fuwa",
+        "Hi xupuriwile hi ku hundzuriwa tindlopfu"
+      ],
+      "answer": "Hi hundzukile naswona hi tshemba tintswalo leti humaka eka Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

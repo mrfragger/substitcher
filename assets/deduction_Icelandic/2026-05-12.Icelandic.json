@@ -1,0 +1,61 @@
+{
+  "title": "Ósveigjanlegt vald",
+  "intro": "Um forn lönd réð eitt sinn voldugur yfirvaldi, sem hafði yfirráð yfir gífurlegum auðlindum og lífum ótal einstaklinga. Þrátt fyrir skýr merki og viðvaranir valdi þessi stjórnandi leið ófriðar, sem leiddi til djúpstæðra átaka sem myndu enduróma í gegnum tíðina.",
+  "clues": [
+    "Ég gerði tilkall til fullkomins valds og yfirráða yfir víðfeðmu ríki.",
+    "Ég áskoraði auðmjúkan sendiboða sendur af Drottni allra ríkja.",
+    "Fólk mitt var þekkt fyrir vald sitt á stórkostlegum mannvirkjum og ánni sem hélt uppi siðmenningu okkar.",
+    "Ég varð vitni að mörgum kraftaverkum, þar á meðal stafi sem breyttist í höggorm og hönd sem glóaði skært.",
+    "Ég neitaði að leyfa hópi þræla að yfirgefa land mitt, þrátt fyrir guðleg skipanir.",
+    "Eftirför mín á brottförinni þjóð leiddi mig og heri mína út í hjarta klofinns hafs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Jósef",
+        "Talút konungur",
+        "Fir'awn (Faraó)",
+        "Spámaðurinn Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraó)"
+    },
+    "trial": {
+      "label": "Lykilátök",
+      "options": [
+        "Flóðið sem gleypti landið",
+        "Klofingin í hafinu",
+        "Brennandi runninn",
+        "Bygging Kaaba",
+        "Eyðileggingin af völdum mikils vinds"
+      ],
+      "answer": "Klofingin í hafinu"
+    },
+    "location": {
+      "label": "Skilgreinandi þáttur",
+      "options": [
+        "Talandi dýr",
+        "Staf og glóandi hönd",
+        "Undursamleg fæðing",
+        "Fljúgandi teppi",
+        "Tignarlegt hásæti á vatni"
+      ],
+      "answer": "Staf og glóandi hönd"
+    },
+    "outcome": {
+      "label": "Örlögin eru fullkomin",
+      "options": [
+        "Steig upp til himins",
+        "Gleypt af jörðinni",
+        "Drukknaði í sjónum",
+        "Breyttist í apa",
+        "Gefið gífurlegum auð og völdum"
+      ],
+      "answer": "Drukknaði í sjónum"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

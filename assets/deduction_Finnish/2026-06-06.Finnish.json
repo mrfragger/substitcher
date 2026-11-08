@@ -1,0 +1,61 @@
+{
+  "title": "Allahin korkea-arvoinen palvelija",
+  "intro": "Kuulet kuiskauksia muinaisista ajoista, Allahin palvelijasta, joka nostettiin tavallisten yläpuolelle. Tämä henkilö tunnettiin horjumattomasta kärsivällisyydestä ja ehdottomasta totuudenmukaisuudesta, ja hänet lähetettiin ihmisten luokse, jotka kääntyivät pois sanomasta. Kuka on tämä ylevä sielu?",
+  "clues": [
+    "Minut valitsi Allah profeetaksi ja minut mainitaan Pyhässä Koraanissa.",
+    "Minut tunnettiin kärsivällisyydestäni ja totuudenmukaisuudestani, ominaisuuksista, joita Allah ylistää.",
+    "Kutsuin kansaani palvomaan yhtä Jumalaa, mutta monet hylkäsivät minut.",
+    "Allah korotti asemaani ja minulle myönnettiin korkea arvo.",
+    "Minut mainitaan usein muiden profeettojen, kuten Ismailin ja Dhul-Kiflin, rinnalla.",
+    "Allah sanoo minusta: ”Me nostimme hänet korkeaan asemaan.” (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Idris",
+        "Profeetta Elias",
+        "Profeetta Dhu al-Kifl",
+        "Profeetta Al-Yasa",
+        "Profeetta Hud"
+      ],
+      "answer": "Profeetta Idris"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kutsui ihmisiä palvomaan Allahia",
+        "Rakensi arkin",
+        "Taisteli faaraota vastaan",
+        "Testattiin vakavan sairauden vuoksi",
+        "Heitettiin tuleen"
+      ],
+      "answer": "Kutsui ihmisiä palvomaan Allahia"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Korkea asema/arvoasema",
+        "Arkki",
+        "Henkilökunta",
+        "Tuli",
+        "Kaivo"
+      ],
+      "answer": "Korkea asema/arvoasema"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Korkeaan asemaan nostettu",
+        "Hukkui tulvaan",
+        "Valaan nielaisema",
+        "Pelastettu tulesta",
+        "Tuli kuninkaaksi"
+      ],
+      "answer": "Korkeaan asemaan nostettu"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

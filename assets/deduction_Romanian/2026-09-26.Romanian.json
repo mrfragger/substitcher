@@ -1,0 +1,61 @@
+{
+  "title": "Negarea în mijlocul abundenței",
+  "intro": "Te afli printre un popor ale cărui piețe zumzăie de comerț, dar balanța lor se înclină necinstit. Un mesager a venit la ei cu avertismente clare, dar ei râd și se întorc, încrezători în prosperitatea lor. Cerul începe să se întunece, dar ei îl văd ca pe o binecuvântare a ploii. Cine sunt acești oameni?",
+  "clues": [
+    "Am prosperat în țări pline de comerț și belșug, totuși inimile noastre au devenit nesimțite.",
+    "Un mesager a venit la noi cu semne de la Domnul nostru, dar am râs de avertismentele Lui.",
+    "Eram cunoscuți pentru meseria noastră, dar eram scurti și înșelam poporul.",
+    "Trăiam printre copaci deși și vegetație luxuriantă, dar ne consideram binecuvântările de bune.",
+    "Când s-a apropiat un nor întunecat, ne-am bucurat, crezând că va aduce ploaie pe pământurile noastre aride.",
+    "În schimb, norul acela a dezlănțuit o pedeapsă arzătoare și am fost cuprinsi de chinul zilei umbrei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Ashab al-Aykah (Tovarășii Pădurii)",
+        "Oamenii din Thamud",
+        "Oamenii din 'Ad",
+        "Oamenii din Lut",
+        "Oamenii din Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Tovarășii Pădurii)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "L-au respins pe mesagerul lor și au înșelat în comerț",
+        "S-au închinat unui vițel de aur și au fost rătăciți",
+        "Practicau sodomia și atacau călătorii",
+        "Au construit turnuri înalte și L-au provocat pe Dumnezeu",
+        "Au refuzat să împartă apa și au rănit o cămilă"
+      ],
+      "answer": "L-au respins pe mesagerul lor și au înșelat în comerț"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O pădure densă sau un desiș",
+        "Un munte sculptat în locuințe",
+        "Un oraș la malul mării",
+        "O vale deșertică cu fântâni",
+        "O grădină fertilă cu multe fructe"
+      ],
+      "answer": "O pădure densă sau un desiș"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Distrus de un nor de umbră de foc",
+        "Înecat de o mare inundație",
+        "Înghițit de un cutremur",
+        "Lovit de un vânt violent",
+        "Transformat în piatră"
+      ],
+      "answer": "Distrus de un nor de umbră de foc"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

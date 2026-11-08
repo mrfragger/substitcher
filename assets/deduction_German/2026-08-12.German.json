@@ -1,0 +1,61 @@
+{
+  "title": "Die Gesandten der Barmherzigkeit und der Macht",
+  "intro": "Stellen Sie sich einen ruhigen Nachmittag vor, der durch die Ankunft unbekannter Reisender unterbrochen wird. Ihr Aussehen ist gewöhnlich, doch ihr Zweck alles andere als das. Sie bringen eine göttliche Botschaft, die den Lauf der Geschichte zweier Nationen verändern wird, Freude in ein trostloses Haus und Schrecken in eine sündige Stadt bringen wird. Wer sind diese geheimnisvollen Besucher?",
+  "clues": [
+    "Wir wurden zu einem ergebenen Diener Allahs gesandt, der für seine grenzenlose Gastfreundschaft bekannt ist.",
+    "Wir kamen als Fremde an, und doch spürte unser Gastgeber etwas Überirdisches an unserer Anwesenheit.",
+    "Wir brachten eine Nachricht, die eine ältere Dame ungläubig lachen ließ, sodass sie sich vor Staunen ans Gesicht schlug.",
+    "Wir hatten die Aufgabe, eine rechtschaffene Familie zu beschützen und gleichzeitig eine von Korruption durchdrungene Stadt ins Verderben zu stürzen.",
+    "Wir lehnten die uns angebotene Mahlzeit ab, was den Verdacht unseres Gastgebers nur noch verstärkte.",
+    "Wir offenbarten unser wahres Wesen erst kurz vor unserem Abschied und sprachen: „Wir sind wahrlich Gesandte deines Herrn.“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Die Gäste Abrahams",
+        "Die Jünger Jesu",
+        "Die Gefährten der Höhle",
+        "Die Armee von Abraham",
+        "Die Boten von Ya-Sin"
+      ],
+      "answer": "Die Gäste Abrahams"
+    },
+    "trial": {
+      "label": "Unsere Mission",
+      "options": [
+        "Um Abrahams Glauben an seinen Sohn zu prüfen",
+        "Um Abraham die Schrift zu überbringen",
+        "Um die Geburt Isaaks und die Vernichtung des Volkes Lots zu verkünden",
+        "Um Abraham zur Kaaba zu führen",
+        "Um Abraham aus dem Feuer zu retten"
+      ],
+      "answer": "Um die Geburt Isaaks und die Vernichtung des Volkes Lots zu verkünden"
+    },
+    "location": {
+      "label": "Erscheinungsort",
+      "options": [
+        "Im Land Ägypten",
+        "In der Stadt Ur",
+        "Bei Abraham zu Hause",
+        "Im Garten Eden",
+        "Am Zamzam-Brunnen"
+      ],
+      "answer": "Bei Abraham zu Hause"
+    },
+    "outcome": {
+      "label": "Das Ergebnis",
+      "options": [
+        "Abraham wurde ein König",
+        "Abraham baute die Kaaba",
+        "Sarah gebar Isaak und Lots Volk wurde vernichtet",
+        "Abraham wanderte nach Palästina aus.",
+        "Abrahams Volk wurde vor einer großen Flut gerettet."
+      ],
+      "answer": "Sarah gebar Isaak und Lots Volk wurde vernichtet"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

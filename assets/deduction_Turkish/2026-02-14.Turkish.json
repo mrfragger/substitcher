@@ -1,0 +1,61 @@
+{
+  "title": "Engellerin Kurucusu",
+  "intro": "Geniş topraklarda, muazzam yetki ve imkanlarla donatılmış güçlü bir kişi bir dizi sefere çıktı. Bu ruh, çeşitli topluluklarla karşılaştı ve benzersiz zorluklarla yüzleşti; eylemleri ve bilgeliğiyle tarihe ve inanca kalıcı bir iz bıraktı, tüm bunları yaparken gücünün gerçek kaynağını da kabul etti.",
+  "clues": [
+    "Bana her şey üzerinde güç ve imkan verildi ve ben de bir yolu izledim.",
+    "Yolculuğum beni güneşin battığı yere götürdü ve orada bir halkla karşılaştım.",
+    "İki dağ arasında yaşayan ve konuşmayı zar zor anlayabilen bir toplulukla karşılaştım.",
+    "Benden bir bariyer inşa etmem istendi; bu kişisel kazanç için değil, yıkıcı bir güce karşı korunmak içindi.",
+    "Bu devasa duvarı inşa etme gücünün Allah'tan geldiğini ve vaat edilen zamana kadar ayakta kalacağını ilan ettim.",
+    "Genellikle 'İki Boynuzlu Olan' olarak çevrilen adım, yeryüzündeki etki alanımı veya belki de iki farklı dönemi simgeliyor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Musa",
+        "Peygamber Süleyman",
+        "Zülkarneyn",
+        "Firavun",
+        "Luqman"
+      ],
+      "answer": "Zülkarneyn"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Vahiy almak",
+        "Bir tiranla yüzleşmek",
+        "Büyük bir gemi inşa etmek",
+        "Muazzam bir bariyer inşa etmek",
+        "Bir balık tarafından yutulmak"
+      ],
+      "answer": "Muazzam bir bariyer inşa etmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi",
+        "Personel",
+        "Demir Bariyer",
+        "Nil Nehri",
+        "Taht"
+      ],
+      "answer": "Demir Bariyer"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Tufandan kurtuluş",
+        "Büyük bir krallık olmak",
+        "Halkın korunması",
+        "Bir zalimin yok edilmesi",
+        "Kalıcı bilgelik"
+      ],
+      "answer": "Halkın korunması"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

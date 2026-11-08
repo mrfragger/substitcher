@@ -1,0 +1,61 @@
+{
+  "title": "El anhelo en la cámara sagrada",
+  "intro": "Entras en el silencioso santuario y ves a un devoto siervo de Alá en oración. Tiene las manos alzadas, la mirada fija y el corazón lleno de un anhelo que ha perdurado toda una vida. ¿Quién es esta alma paciente cuya fe en Alá jamás flaqueó?",
+  "clues": [
+    "Pasé largos años dedicado a la adoración y la oración, presenciando milagros que fortalecieron mi fe.",
+    "Se me encomendó la responsabilidad de cuidar de una joven alma bendecida en el santuario.",
+    "Al envejecer, mi mayor tristeza era no tener hijos, pues mi esposa era estéril y ambos éramos de edad avanzada.",
+    "Oré a mi Señor pidiendo un sucesor de mi propia familia, alguien que continuara con el legado profético.",
+    "Mientras estaba en el nicho de oración, los ángeles me llamaron diciendo: \"Allah te trae buenas nuevas\", y me invadieron el miedo y la reverencia.",
+    "Me dijeron que tendría un hijo llamado Yahya, un nombre que nunca antes se le había dado a nadie, y como señal, no debía hablar con nadie durante tres días."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Zacarías",
+        "Profeta Yahya",
+        "Profeta Isaías",
+        "Profeta Dawud",
+        "Luqman el Sabio"
+      ],
+      "answer": "Profeta Zacarías"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Esterilidad y vejez, deseando un heredero justo.",
+        "Ser arrojado a un fuego ardiente",
+        "Ser tragado por un gran pez",
+        "Perder un reino a manos de un tirano",
+        "Estar exiliado de la patria."
+      ],
+      "answer": "Esterilidad y vejez, deseando un heredero justo."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El nicho de oración (mihrab)",
+        "El gran barco (el Arca)",
+        "La zarza ardiente",
+        "El bastón que se convirtió en serpiente",
+        "La camella de Alá"
+      ],
+      "answer": "El nicho de oración (mihrab)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Le concedieron un hijo justo y volvieron a hablar después de tres días de silencio.",
+        "Destruido por una inundación por incredulidad.",
+        "Dado un vasto reino y el control sobre el viento",
+        "Extraído del vientre de un pez",
+        "Engullido por la tierra"
+      ],
+      "answer": "Le concedieron un hijo justo y volvieron a hablar después de tres días de silencio."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

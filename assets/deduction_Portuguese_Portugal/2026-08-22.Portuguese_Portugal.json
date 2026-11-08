@@ -1,0 +1,61 @@
+{
+  "title": "A cidade que acreditava no tempo.",
+  "intro": "Nos anais da misericórdia divina, existe uma comunidade cujo ponto de virada foi um momento de compreensão coletiva. Você está prestes a descobrir a história deles — uma história de advertência, arrependimento e alívio que os diferenciou do destino de outras nações.",
+  "clues": [
+    "Éramos um povo a quem foi enviado um mensageiro, e a princípio rejeitamos o seu chamado.",
+    "Quando os sinais da punição iminente se tornaram claros, percebemos a veracidade de seu aviso.",
+    "Nos voltamos para o nosso Senhor com sincero arrependimento, e nossa fé foi aceita.",
+    "A punição que nos havia sido imposta foi revogada devido à nossa fé.",
+    "Nossa história é citada como uma exceção entre as cidades que acreditaram após presenciarem a punição.",
+    "Éramos o povo do profeta que foi engolido pela baleia, mas fomos salvos da destruição."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Povo de Yunus",
+        "Povo de Noé",
+        "Pessoas de Hud",
+        "Povo de Salih",
+        "Povo de Lut"
+      ],
+      "answer": "Povo de Yunus"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Uma inundação devastadora",
+        "Uma forte tempestade de vento",
+        "Uma punição iminente e vergonhosa que foi evitada.",
+        "A terra os engolindo",
+        "Uma chuva de pedras"
+      ],
+      "answer": "Uma punição iminente e vergonhosa que foi evitada."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A arca",
+        "A camela",
+        "Uma cidade de cem mil habitantes",
+        "A equipe de Musa",
+        "O tesouro de Qarun"
+      ],
+      "answer": "Uma cidade de cem mil habitantes"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Eles foram completamente destruídos.",
+        "Eles desfrutaram de momentos de prazer.",
+        "Eles foram transformados em macacos.",
+        "Eles se afogaram",
+        "Eles foram engolidos pela terra."
+      ],
+      "answer": "Eles desfrutaram de momentos de prazer."
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

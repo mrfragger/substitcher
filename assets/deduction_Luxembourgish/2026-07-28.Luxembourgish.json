@@ -1,0 +1,61 @@
+{
+  "title": "Den Test vun der helleger Kreatur",
+  "intro": "E Zeechen gouf un eng Natioun geschéckt, déi sech vun der richteger Richtung gefuer war. An der Mëtt vun hirem gemittleche Liewen koum eng Warnung - begleet vun enger bemierkenswäerter Kreatur, déi den ultimativen Test fir hire Glawen sollt ginn. Hir Äntwert géif hiert Schicksal fir ëmmer versiegelen. Kënnt Dir erausfannen, wien dës Warnung ginn huet a wat mat deenen geschitt ass, déi se refuséiert hunn?",
+  "clues": [
+    "Mir waren e Vollek, dat vun fréiere Boten virun eis guidéiert gi war.",
+    "Eng prächteg Kreatur ass aus dem Bierg opgedaucht, e Zeeche vun eisem Här fir dës Natioun.",
+    "Ech hunn hinne gesot: 'Dëst ass eng Kamell, déi Allah gehéiert, also loosst se vun Allahs Äerd iessen a beréiert se net mat Schued.'",
+    "Mä d'Leit hunn meng Kamelin ëmgehäit, well se dem Gebot vun hirem Här widdersprécht hunn.",
+    "Ech sinn nëmmen e Bote vun Ärem Här, geschéckt mat der Wourecht - ech sinn e vertrauenswürdege Prophet a Knecht.",
+    "Wat d'Ongerechtegkeeten ugeet, huet eisen Här si mat engem Donnergeräisch geschloen, an si sinn onbeweeglech an hiren Haiser ginn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Hud vum Vollek vun A'ad",
+        "Prophet Salih vum Vollek vun Thamud",
+        "De Prophet Schu'aib vu Midian",
+        "Prophet Lut vum Vollek vu Sodom",
+        "De Prophet Nuh vun der Ark"
+      ],
+      "answer": "Prophet Salih vum Vollek vun Thamud"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Iwwerschwemmung, déi eng ongleeweg Natioun erdronk huet",
+        "Den Äerdbiewen, deen eng sënneg Stad zerstéiert huet",
+        "D'Kamelfra gouf als göttlecht Zeechen an Test geschéckt",
+        "De Stuerm, deen d'Leit vu Midian bestrooft huet",
+        "D'Zerstéierung vum Vollek vu Lot mat Steng"
+      ],
+      "answer": "D'Kamelfra gouf als göttlecht Zeechen an Test geschéckt"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Stad Sodom am Jordandal",
+        "D'Dall vun Al-Hijr tëscht Hijaz a Syrien",
+        "Dat antikt Land vun A'ad a Süd-Arabien",
+        "D'Bëscher vu Midian beim Roude Mier",
+        "D'Flächen vum Bierg Judi a Mesopotamien"
+      ],
+      "answer": "D'Dall vun Al-Hijr tëscht Hijaz a Syrien"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si goufe gerett nodeems si sech bekéiert hunn a gegleeft hunn",
+        "E Reen vu Steng huet se komplett zerstéiert",
+        "En Donnergeräisch huet si bewegungslos getraff",
+        "Si goufe vun engem heftege Wand fortgedroen",
+        "En Äerdbiewen huet se an de Buedem verschléckt"
+      ],
+      "answer": "En Donnergeräisch huet si bewegungslos getraff"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

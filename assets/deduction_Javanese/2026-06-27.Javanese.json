@@ -1,0 +1,61 @@
+{
+  "title": "Absen Suci",
+  "intro": "Ngluwihi gumuk pasir wektu, ana crita babagan pengabdian sing ora goyah lan amanah sing abot banget nganti jiwa sing nggawa amanah kasebut bisa wae rusak. Ing wayahe nalika wong-wong padha madhep marang kebodhoan lan emas, ana siji tokoh sing tetep teguh—nyeluk dheweke bali, njaluk sabar, lan nanggung bobot janji suci. Iki critane wong sing dipilih dadi penolong, wazir, lan penjaga iman nalika ora ana ing papan suci. Apa sampeyan bisa nemokake identitas jiwa sing teguh iki?",
+  "clues": [
+    "Aku melu getihe nabi agung sing dipilih kanggo ngobrol langsung karo Allah ing gunung suci.",
+    "Sedulurku lanang tau nyuwun tulung marang Gusti Allah supaya bisa ngomong kanthi cetha marang wong sing nindhes banget.",
+    "Aku dipilih déning Allah kanggo ngadeg sandhing adhiku minangka penolong lan wazir.",
+    "Bebarengan kita ngadhepi panguwasa tirani sing nuntut supaya diarani dewa sing paling dhuwur.",
+    "Nalika adhiku sembahyang karo Gusti Allah ing gunung, wong-wongku nggawe brahala saka emasé.",
+    "Aku iki seduluré Nabi Musa, sing ditunjuk déning Allah dadi wazir-é, sing kasebut jenengé ana ing Al-Qur'an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Nabi Harun (Harun)",
+        "Nabi Musa",
+        "Nabi Dawud",
+        "Nabi Yakub",
+        "Nabi Ishak"
+      ],
+      "answer": "Nabi Harun (Harun)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Krisis Penyembahan Pedhet",
+        "Banjir Gedhe Nabi Nuh",
+        "Perang Badar",
+        "Karusakan Kaum Tsamud",
+        "Karusakan Sodom"
+      ],
+      "answer": "Krisis Penyembahan Pedhet"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Pedhet Emas",
+        "Bahtera Nabi Nuh",
+        "Grumbulan sing Kobong",
+        "Guwa Hira",
+        "Tahta Sheba"
+      ],
+      "answer": "Pedhet Emas"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Kasunyatan sing wis dikonfirmasi dening Allah",
+        "Kelemahan Firaun",
+        "Pambangunan Ka'bah",
+        "Nyebrang Segara kanthi Aman",
+        "Munggah menyang Swarga"
+      ],
+      "answer": "Kasunyatan sing wis dikonfirmasi dening Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

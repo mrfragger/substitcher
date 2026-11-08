@@ -1,0 +1,61 @@
+{
+  "title": "Say Mapoy a Kabusol",
+  "intro": "Diad inmuna iran agew na panangiparungtal, walay sakey a pigura ya pinmatnag bilang sakey a masebeg ya onsusumpa ed katuaan. Lapud sikatoy binendisyonan na kayamanan tan kipapasen, pinili na sayan kamarerwa so inkamapaatagey nen say panangigiya, tan say istorya ra so nagmaliw a mabiskeg a pasakbay ed unor iran bersikulo na sakey a surah.",
+  "clues": [
+    "Nanayam ak ed parehon syudad na Propeta, tan sakey ak ed sankaasinggeran a kakanayon to, balet ta say inkamapaatagey ko so amaarawi ed siak ed katuaan.",
+    "Dakel so kayamanan ko tan dakel so kaykayarian ko, tan inisip kon saray kayamanan ko so lanang ya manprotekta ed siak.",
+    "Nen niparungtal so mensahe, niludlurey ko ed arap na totoo tan inmarawi ak, ta ipapasen kon mas matalonggaring ak nen saray mananisia.",
+    "Say panlalaban ko et bantog kanian say sakey a surah na Quran so direktan angibaga ed siak, ya tinawag to ak ed ngaran ya kabat na arum ed siak.",
+    "Pinasakbayan ak ya ag makagunggona ed siak so kayamanan ko tan say sueldok, tan nibantak ak ed mandarlang ya apoy.",
+    "Kabkabat ak bilang ama na ngalab, tan say asawak so mangawit na kiew ya walay lubir ya gawad lanot na palma ed beklew to."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Impulisay so Islam tan maparungtal ya inkontra so Propeta",
+        "Nanplano pian pateyen so Propeta",
+        "Indaulo so social boycott sumpad saray Muslim",
+        "Nanlalaban ed bakal ed Badr",
+        "Pinairap si Bilal ibn Rabah"
+      ],
+      "answer": "Impulisay so Islam tan maparungtal ya inkontra so Propeta"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey a lubir ya gawad lanot na palma",
+        "Sakey a matadem ya espada",
+        "Sakey a ambelat a kadena",
+        "Sakey a kiew a baston",
+        "Sakey a katat a latigo"
+      ],
+      "answer": "Sakey a lubir ya gawad lanot na palma"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Napoolan ed mandarlang ya apoy",
+        "Nagbabawi tan nagmaliw ya kaiba",
+        "Naandi so kayamanan to balet inatey ya apagalangan",
+        "Binmatik ed Abyssinia",
+        "Nalner ed dayat"
+      ],
+      "answer": "Napoolan ed mandarlang ya apoy"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

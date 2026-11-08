@@ -1,0 +1,61 @@
+{
+  "title": "Kivuli Nyuma ya Kiti cha Enzi",
+  "intro": "Unasimama ndani ya mahakama za ufalme mkuu wa kale, ambapo mtawala mwenye nguvu amejitangaza kama mungu juu ya watu wote. Kando ya mtawala huyu anasimama mtumishi aliyejitolea, aliyekabidhiwa matamanio makubwa zaidi ya ufalme. Pamoja, wanapanga njama na kupanga, wakikataa kutii maonyo ya mjumbe aliyetumwa kuwaongoza. Je, unaweza kumgundua mtumishi huyu mwaminifu alikuwa nani?",
+  "clues": [
+    "Niliishi katika ufalme wenye nguvu uliotawaliwa na mtu mwenye nguvu aliyedai uungu juu ya watu wote.",
+    "Nilihudumu kama waziri mwaminifu wa mtawala huyu, nikitekeleza kila nia na amri yake.",
+    "Mjumbe wa Mwenyezi Mungu alipokuja katika nchi yetu akituita kwenye ukweli, mimi na mtawala wangu tulikataa kusikiliza.",
+    "Niliamriwa kuwasha moto mkubwa na kuandaa matofali ya udongo kwa ajili ya ujenzi mkubwa.",
+    "Mtawala wangu alitaka kusimamisha jengo refu sana ili lifike mbinguni lenyewe.",
+    "Mwishowe, mimi, mtawala wangu, majeshi yetu, na mimi tulichukuliwa na kuzama kwenye vilindi vya bahari."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Hamani",
+        "Dhul-Kifl",
+        "Jibreeli",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Hamani"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kujenga mnara ili kufikia mbingu",
+        "Kutupwa kwenye moto unaowaka",
+        "Kuwaamsha watu kutoka kuabudu sanamu za mawe",
+        "Kugawanya mwezi kama ishara ya kimungu",
+        "Kushinda mji wenye nguvu kwa amri ya Mungu"
+      ],
+      "answer": "Kujenga mnara ili kufikia mbingu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mnara wa matofali ya udongo yaliyookwa",
+        "Tumbo la nyangumi",
+        "Chemchemi takatifu jangwani",
+        "Kichaka kinachowaka moto juu ya mlima mtakatifu",
+        "Safina iliyobeba familia teule"
+      ],
+      "answer": "Mnara wa matofali ya udongo yaliyookwa"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuzama katika vilindi vya bahari",
+        "Kuinuliwa hadi salama katika jumba la kifahari",
+        "Kuokolewa kutoka tumboni mwa samaki mkubwa",
+        "Kuheshimiwa kwa ufalme na hekima ya kimungu",
+        "Imegeuzwa kuwa vumbi kwa kilio cha kutoboa"
+      ],
+      "answer": "Kuzama katika vilindi vya bahari"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

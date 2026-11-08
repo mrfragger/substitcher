@@ -1,0 +1,61 @@
+{
+  "title": "Finné na Tine",
+  "intro": "Duine domhain, tiomanta don réaltacht deiridh a nochtadh, chuaigh sé ar thuras fionnachtana spioradálta. Mar thoradh ar a gciontacht dhochloíte, chuir siad dúshlán na noirm bhunaithe, agus thug siad aghaidh ar thrialacha ollmhóra a chuir teorainneacha an chreidimh faoi thástáil. Is fianaise ar chosaint agus treoir dhiaga scéal an anama seo.",
+  "clues": [
+    "Beannaíodh mé le teideal uathúil ó mo Thiarna, rud a léiríonn nasc domhain agus speisialta.",
+    "Chaith mé mo óige i measc daoine a chrom síos do íomhánna ceardaíochta, ach bhí mo chroí ag tnúth leis an Aon Dia Fíor amháin.",
+    "Bhreathnaigh mé ar na coirp neamhaí, an ghrian, an ghealach, agus na réaltaí, ag machnamh ar a n-ardú agus a dtitim, ag teacht ar an gconclúid nach bhféadfaidís a bheith i mo Thiarna.",
+    "Mar ghníomh dúshlánach in aghaidh an ildiachas fhorleathan, thug mé aghaidh ar na déithe bréagacha, ag fágáil ceann aonair, níos mó, slán mar chúisitheoir ciúin.",
+    "Mar thoradh ar mo dhúshlán don adhradh íol, cuireadh pionós dian orm, mar gur daoradh mé a bheith teilgthe isteach i n-ifreann buile.",
+    "Ach, faoi ordú mo Chruthaitheora, d’athraigh na lasracha diana ina bhfoinse fionnachtana agus sábháilteachta, ag caomhnú mo shaol."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "an Fáidh Músa",
+        "Fáidh Nuh",
+        "Fáidh Ibrahim",
+        "Fáidh Íosa",
+        "Fáidh Iósaf"
+      ],
+      "answer": "Fáidh Ibrahim"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag Trasnú na Mara Rua",
+        "An Tuile",
+        "Íobairt Mhic",
+        "An Triail Dhóite",
+        "Bolg an Mhíolta Móra"
+      ],
+      "answer": "An Triail Dhóite"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "An Trumpa",
+        "An Tine",
+        "An Tobar"
+      ],
+      "answer": "An Tine"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Threoraigh daoine go sábháilteacht",
+        "Fuair ​​ríocht mhór mar oidhreacht",
+        "Slogadh é ag iasc",
+        "Sábháladh ó dhóiteán é",
+        "Fuair ​​na táibléid"
+      ],
+      "answer": "Sábháladh ó dhóiteán é"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

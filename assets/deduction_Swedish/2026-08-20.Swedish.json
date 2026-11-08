@@ -1,0 +1,61 @@
+{
+  "title": "Trotsets röst",
+  "intro": "Långt innan den första människan vandrade på jorden, stod en varelse med enorm makt i en sfär av fullkomlig fred, omgiven av de mest hängivna själar. När en enda befallning gavs, böjde sig varje röst i underkastelse – men en röst höjde sig i trots, och det trotset skulle eka genom varje tidsålder fram till den yttersta dagen. Vem är denna fallna varelse?",
+  "clues": [
+    "Jag skapades av något som brann starkt, medan andra bredvid mig formades av det de gick på.",
+    "Jag bodde på en helig plats bland hängivna varelser, tills en enda befallning vände upp och ner på allt.",
+    "När befallningen kom, bugade sig alla utom för mig; min vägran föddes av stolthet.",
+    "Jag blev utkastad från den heliga platsen, märkt med en förbannelse som skulle vara för evigt.",
+    "Jag bad om tid till Uppståndelsens dag, och den beviljades. Jag svor att närma mig varje själ och leda dem vilse.",
+    "När hornet ljuder, skall de som följde mig dela mitt öde, de skall förenas med mig i en flammande eld där ingen hjälpare kan rädda dem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Iblis",
+        "Farao (Fir'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (Ibrahims far)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Det avgörande ögonblicket",
+      "options": [
+        "Vägrar att falla ner inför Adam",
+        "Att tillskansa sig gudomligheten över ett stort imperium",
+        "Planerar att kasta en rättfärdig i lågor",
+        "Att leda ett folk till att tillbe en gyllene bildstod",
+        "Att dränka en stor armé i havet"
+      ],
+      "answer": "Vägrar att falla ner inför Adam"
+    },
+    "location": {
+      "label": "Den heliga platsen",
+      "options": [
+        "Jannah (Paradiset)",
+        "Ett magnifikt palats vid Nilen",
+        "Ett torn av tegelstenar som sträcker sig mot himlen",
+        "En gyllene kalv tillverkad av ornament",
+        "En ugn med flammande eld"
+      ],
+      "answer": "Jannah (Paradiset)"
+    },
+    "outcome": {
+      "label": "Det slutgiltiga ödet",
+      "options": [
+        "Utkastad, med uppehåll till en utlovad dag",
+        "Drunknade med arméer under vågorna",
+        "Krossat av stenar kastade från himlen",
+        "Sönderslitna av svärmar av fåglar i flykt",
+        "Förtärd av en enda mäktig explosion"
+      ],
+      "answer": "Utkastad, med uppehåll till en utlovad dag"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

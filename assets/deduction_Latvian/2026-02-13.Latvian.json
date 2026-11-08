@@ -1,0 +1,61 @@
+{
+  "title": "Suverēna lielā pakļaušanās",
+  "intro": "Jūs atrodaties seno brīnumu un dziļu atklāsmju zemē. Varena valdniece, saņēmusi negaidītu ielūgumu, devās ceļojumā, kas mainīs viņas likteni un tautas ticību. Vai varat atklāt šīs majestātiskās figūras identitāti?",
+  "clues": [
+    "Es valdīju pār plaukstošu valstību, kas bija rotāta ar milzīgu bagātību un krāšņu troni.",
+    "Mani ļaudis un es pielūdzām debesu ķermeni, ticot, ka tas ir mūsu kungs, lai gan manā sirdī bija šaubas.",
+    "Īpašs vēstnesis, putns, man nogādāja vēstuli, aicinot mani un manu tautu pakļauties Vienīgajam Dievam.",
+    "Es konsultējos ar saviem padomdevējiem, kuri bija vareni spēkā, par to, kā reaģēt uz šo bezprecedenta vēstījumu.",
+    "Es nolēmu nosūtīt vērtīgu dāvanu vēstules sūtītājam, cerot novērtēt viņa spēku un nodomus.",
+    "Ierodoties, mani pārsteidza pils ar stikla grīdu, kas izskatījās pēc ūdens dīķa, un tieši tad es paziņoju par savu pakļaušanos visas radības Kungam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Faraons",
+        "Šebas karaliene",
+        "Dhu al-Karnaina",
+        "Lukmans",
+        "Pravietis Jusufs"
+      ],
+      "answer": "Šebas karaliene"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Jūras sadalīšana",
+        "Lielie plūdi",
+        "Ceļojums, lai satiktu pravieti Suleimanu",
+        "Lutas iedzīvotāju iznīcināšana",
+        "Pravieša Ibrahima dedzināšana"
+      ],
+      "answer": "Ceļojums, lai satiktu pravieti Suleimanu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Tronis",
+        "Kalns",
+        "Uguns"
+      ],
+      "answer": "Tronis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva par pravieti",
+        "Allāhs iznīcināja",
+        "Pieņēma islāmu",
+        "Veda savu tautu karā",
+        "Uzcēla grandiozu templi"
+      ],
+      "answer": "Pieņēma islāmu"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Gran Submissió del Sobirà",
+  "intro": "Et trobes en una terra de meravelles antigues i profundes revelacions. Una poderosa governant, davant d'una invitació inesperada, s'embarca en un viatge que canviaria el curs del seu destí i la fe del seu poble. Pots descobrir la identitat d'aquesta majestuosa figura?",
+  "clues": [
+    "Vaig governar un regne pròsper, adornat amb immenses riqueses i un tron ​​magnífic.",
+    "El meu poble i jo adoràvem un cos celeste, creient que era el nostre senyor, tot i que jo albergava dubtes al meu cor.",
+    "Un missatger peculiar, un ocell, em va lliurar una carta, cridant-me a mi i al meu poble a la submissió a l'Únic Déu.",
+    "Vaig consultar els meus assessors, que eren molt forts, sobre com respondre a aquest missatge sense precedents.",
+    "Vaig decidir enviar un regal valuós a qui havia enviat la carta, amb l'esperança de poder avaluar el seu poder i les seves intencions.",
+    "A la meva arribada, vaig quedar meravellat per un palau amb el terra de vidre, que semblava un estany d'aigua, i va ser llavors que vaig declarar la meva submissió al Senyor de tota la creació."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Faraó",
+        "Reina de Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Profeta Iússuf"
+      ],
+      "answer": "Reina de Saba"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "La divisió del mar",
+        "La gran inundació",
+        "El viatge per conèixer el profeta Sulayman",
+        "La destrucció del poble de Lut",
+        "La crema del profeta Ibrahim"
+      ],
+      "answer": "El viatge per conèixer el profeta Sulayman"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "El Tron",
+        "La muntanya",
+        "El foc"
+      ],
+      "answer": "El Tron"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va convertir en profeta",
+        "Va ser destruït per Al·là",
+        "Va abraçar l'Islam",
+        "Va conduir el seu poble a la guerra",
+        "Va construir un gran temple"
+      ],
+      "answer": "Va abraçar l'Islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lendava saviga kohtunud armee",
+  "intro": "Prohvet Muhamedi eelsel ajastul algatas võimas Jeemeni valitseja sõjalise kampaania, mille eesmärk oli hävitada Mekas asuv pühapaik. See vaenlane juhtis tohutut armeed, mis koosnes sõjaelevantidest, olles kindel oma jõus ja arvukuses. Nende teekond lõppes aga järsult, kui nad kohtasid ootamatut jumalikku sekkumist. Kas suudad ära tunda, kes selle tähelepanuväärse arveteõienduse ees seisis?",
+  "clues": [
+    "Me marssisime tohutu armee ja võimsate sõjaelevantidega püha maja poole",
+    "Me kavatsesime juurida välja ja hävitada palvepaiga, mille ehitasid Kõigehalastavama teenijad",
+    "Meie vastu saadeti parv väikeseid linde, kes kandsid nokkades ja küünistes savikive",
+    "Meid kohtas heli, mis paiskas meile kive peale, muutes meid tallatud jäänusteks",
+    "Ma olin pärit Jeemenimaalt ja teenisin valitseja alluvuses, kes püüdis püha pühamut halvustada",
+    "Meid tehti eeskujuks neile, kes julgesid Allahi pühamut rüvetada"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Abraha al-Ashrami armee",
+        "Etioopia väed",
+        "Pärsia vallutajad",
+        "Rooma leegionid",
+        "Beduiinide rüüstajad"
+      ],
+      "answer": "Abraha al-Ashrami armee"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kõrbekindluse piiramine",
+        "Meka pühamu vallutamine",
+        "Mereväe lahing merel",
+        "Mäss türannist kuninga vastu",
+        "Kadunud prohveti otsingud"
+      ],
+      "answer": "Meka pühamu vallutamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Mina org Meka lähedal",
+        "Sana'a palee Jeemenis",
+        "Tihamahi mäed",
+        "Jeruusalemma iidne linn",
+        "Punase mere kaldad"
+      ],
+      "answer": "Mina org Meka lähedal"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Püha koja võit ja hävitamine",
+        "Savi kive kandvate lindude lüüasaamine",
+        "Rahumeelne alistumine ja pöördumine",
+        "Nälg ja loodusõnnetus",
+        "Taandumine tugeva vihmasaju tõttu"
+      ],
+      "answer": "Savi kive kandvate lindude lüüasaamine"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sjeme svađe",
+  "intro": "Prije nego što je svijet upoznao raširene sukobe, dogodio se dubok test vjere i poslušnosti. Ova priča istražuje izbore koje je donio pojedinac, čiji su postupci postavili presedan za buduće generacije. Pripremite se otkriti priču o duši koja se bori s ogromnom ljubomorom i njezinim razornim posljedicama.",
+  "clues": [
+    "Bio sam među prvim potomcima koji su hodali zemljom, dijete prvog ljudskog para.",
+    "Mom bratu i meni je naređeno da prinesemo žrtvu Allahu, što je bio test naše iskrenosti.",
+    "Moja žrtva nije bila prihvaćena, dok je bratova bila, što je ispunilo moje srce strašnim emocijama.",
+    "Izgovorio sam prijeteće riječi svom bratu, vođen gorčinom odbijanja.",
+    "Moj brat je odgovorio mudro i pobožno, podsjećajući me na Allahovu pravdu i strah od Njega.",
+    "Unatoč bratovim blagim riječima i njegovoj spremnosti da oprosti, oduzeo sam život, postavši jedan od gubitnika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Adam",
+        "Iblis",
+        "Poslanik Nuh",
+        "Kabil (Kain)",
+        "Faraon"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Velika poplava",
+        "Cijepanje mora",
+        "Izgradnja Kabe",
+        "Prinošenje žrtava",
+        "Iskušenje u vrtu"
+      ],
+      "answer": "Prinošenje žrtava"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Planina Safa",
+        "Žrtva",
+        "Gorući grm"
+      ],
+      "answer": "Žrtva"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postao je glasnik",
+        "Bio je utopljen",
+        "Izgradio veliko kraljevstvo",
+        "Postao je primjer kajanja",
+        "Dodijeljeno mu je ogromno bogatstvo"
+      ],
+      "answer": "Postao je primjer kajanja"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

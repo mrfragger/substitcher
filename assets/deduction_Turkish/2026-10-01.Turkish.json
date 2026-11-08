@@ -1,0 +1,61 @@
+{
+  "title": "Sözlerle Varoluşa Dönüştürüldü",
+  "intro": "Kutsal tarihten, doğal düzene meydan okuyan mucizeler taşıyan bir figür ortaya çıkıyor. Bu ruh, tek bir ilahi emirle geldi, ebeveynini ağır suçlamalardan korudu ve dünyevi zincirler onu bağlamadan önce bu dünyadan ayrıldı. Hikaye, mütevazı bir beşikten yukarıdaki göklere uzanıyor. Bu kim olabilir?",
+  "clues": [
+    "Ben, Allah tarafından İsrailoğullarına bir işaret ve rahmet olarak gönderildim.",
+    "Benim gelişim daha önceki hiçbir şeye benzemiyordu; dünyevi bir baba olmadan, ilahi \"Ol!\" sözüyle var oldum.",
+    "Annem ve babam acımasız iftiralara maruz kaldılar, ancak kutsal bir vahiy onların masumiyetini ilan etti ve konumlarını yükseltti.",
+    "Yeni doğmuş bir bebekken, anne babamın adını temize çıkarmak için beşiğimden net bir şekilde konuşarak çevremdekileri hayrete düşürdüm.",
+    "Allah'ın izniyle cansız topraktan hayat yarattım, körlere görme yetisi verdim ve dokunuşumla cüzzamlıları iyileştirdim.",
+    "Bana zarar gelmeden önce göklere yükseltildim ve son saat gelmeden önce bu dünyaya geri döneceğim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İsa",
+        "Peygamber Musa",
+        "Peygamber İbrahim",
+        "Peygamber Yusuf",
+        "Peygamber Davud"
+      ],
+      "answer": "Peygamber İsa"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Bebekken beşikteyken konuşmak",
+        "Büyük bir balığın karnında hayatta kalmak",
+        "Alev alev yanan bir ateşe atılmak",
+        "Tufandan önce büyük bir gemi inşa etmek",
+        "Firavunun sarayındaki büyücülükle yüzleşmek"
+      ],
+      "answer": "Bebekken beşikteyken konuşmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "İncil",
+        "Tevrat (Tora)",
+        "Zebur (Mezmurlar)",
+        "Suhuf (İbrahim Ruloları)",
+        "Denizi ikiye ayıran bir asa"
+      ],
+      "answer": "İncil"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Göklere yükseltildiler, Kıyamet Günü'nden önce geri dönecekler.",
+        "İsrailoğullarını Mısır'dan çıkardı.",
+        "Cinler, insanlar ve kuşlar üzerinde egemenlik kuran bir kral oldu.",
+        "İnananlarla birlikte büyük bir sel felaketinden sağ kurtuldu.",
+        "Mekke'de kutsal evi inşa etti."
+      ],
+      "answer": "Göklere yükseltildiler, Kıyamet Günü'nden önce geri dönecekler."
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

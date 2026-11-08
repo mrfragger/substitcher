@@ -1,0 +1,61 @@
+{
+  "title": "Mamlaka Isiyokubali Kushindwa",
+  "intro": "Katika nchi za kale, mamlaka yenye nguvu iliwahi kutawala, ikitawala rasilimali nyingi na maisha ya watu wengi. Licha ya ishara na maonyo yaliyo wazi, mtawala huyu alichagua njia ya uasi, na kusababisha mzozo mkubwa ambao ungerudiwa baada ya muda.",
+  "clues": [
+    "Nilidai nguvu na mamlaka ya mwisho juu ya milki kubwa.",
+    "Nilimpa changamoto mjumbe mnyenyekevu aliyetumwa na Bwana wa ulimwengu wote.",
+    "Watu wangu walijulikana kwa ustadi wao wa majengo makubwa na mto uliodumisha ustaarabu wetu.",
+    "Nilishuhudia ishara nyingi za miujiza, ikiwa ni pamoja na fimbo iliyogeuka kuwa nyoka na mkono unaong'aa sana.",
+    "Nilikataa kuruhusu kundi la watu waliotumwa kuondoka katika nchi yangu, licha ya amri za Mungu.",
+    "Kuwafuatilia kwangu watu waliokuwa wakiondoka kuliniongoza mimi na majeshi yangu hadi katikati ya bahari iliyogawanyika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Yusufu",
+        "Mfalme Talut",
+        "Firauni (Farao)",
+        "Nabii Daudi",
+        "Namrud"
+      ],
+      "answer": "Firauni (Farao)"
+    },
+    "trial": {
+      "label": "Mapambano Muhimu",
+      "options": [
+        "Mafuriko yaliyoifunika nchi",
+        "Kugawanyika kwa bahari",
+        "Kichaka kinachowaka moto",
+        "Ujenzi wa Kaaba",
+        "Uharibifu unaosababishwa na upepo mkali"
+      ],
+      "answer": "Kugawanyika kwa bahari"
+    },
+    "location": {
+      "label": "Kipengele cha Kufafanua",
+      "options": [
+        "Mnyama anayezungumza",
+        "Fimbo na mkono unaong'aa",
+        "Kuzaliwa kwa muujiza",
+        "Zulia linaloruka",
+        "Kiti cha enzi chenye fahari juu ya maji"
+      ],
+      "answer": "Fimbo na mkono unaong'aa"
+    },
+    "outcome": {
+      "label": "Hatima ya Mwisho",
+      "options": [
+        "Alipanda mbinguni",
+        "Imemezwa na ardhi",
+        "Kuzama baharini",
+        "Imebadilishwa kuwa nyani",
+        "Kwa kupewa utajiri na nguvu nyingi"
+      ],
+      "answer": "Kuzama baharini"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

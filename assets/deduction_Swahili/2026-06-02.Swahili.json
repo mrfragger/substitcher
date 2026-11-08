@@ -1,0 +1,61 @@
+{
+  "title": "Mlinzi wa Lango la Jua Linalochomoza",
+  "intro": "Katika Quran nzima, roho fulani hupita duniani na kuacha njia za hekima na maajabu. Mtu mmoja kama huyo alisafiri hadi sehemu za mbali zaidi za uumbaji—ambapo jua huchomoza na kutua, ambapo kizuizi huzuia machafuko yenyewe. Mtumishi huyu wa Mwenyezi Mungu alipewa ufalme ambao hakuna mtu ambaye angeumiliki tena. Kupitia safari tatu tofauti, kusudi la mtu huyu likawa wazi. Je, unaweza kumtambua mzururaji huyu wa hadithi kutoka miongoni mwa vivuli vya historia?",
+  "clues": [
+    "Nilipewa mamlaka na Mwenye Rehema Zaidi ya kutawala dunia kwa njia ambayo hakuna mtu mwingine aliyewahi kuifanikisha.",
+    "Nilisafiri kuelekea magharibi hadi nilipofika mahali ambapo jua huzama, nikakuta linatua katika chemchemi yenye giza, na nikashuhudia watu hapo.",
+    "Nilisafiri kuelekea mashariki hadi nikafika mahali jua linapochomoza, nikakuta linachomoza kwa watu ambao hatukuwapa kimbilio la kuwakinga nao.",
+    "Nilisafiri kati ya sehemu hizo mbili kali hadi nikafika kwenye bonde kati ya milima miwili, ambapo niliwakuta watu ambao hawakuweza kuelewa vizuri usemi.",
+    "Niliona vizuizi viwili vigumu vya chuma mlimani vikifikia kulia na kushoto, na kati yao, njia nyembamba. Watu hawa waliniomba nivunje kizuizi hicho kikizuia machafuko.",
+    "Nilichukua riziki yangu na kusema: ‘Kizuizi kitakapovunjwa, huu utakuwa utengano dhahiri kati yetu na watu hawa.’ Na wakati uliowekwa ulipofika, nilitazama kizuizi kikivunjwa hatimaye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Nabii Sulayman",
+        "Nabii Ibrahimu",
+        "Mfalme wa Ghassaniyah",
+        "Dhul-Qarnain Mzururaji"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuvunja kizuizi cha chuma kwa ajili ya watu wa Yajuj na Majuj",
+        "Kujenga Meli chini ya amri ya nabii",
+        "Kujenga hekalu huko Yerusalemu",
+        "Kuvuka Bahari Nyekundu pamoja na watu waaminio",
+        "Kujenga bwawa ili kulinda taifa lenye haki"
+      ],
+      "answer": "Kuvunja kizuizi cha chuma kwa ajili ya watu wa Yajuj na Majuj"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kizuizi cha chuma kati ya milima miwili",
+        "Meli ilitia nanga kwenye mlima",
+        "Nyumba takatifu ya ibada huko Yerusalemu",
+        "Mto katika nchi ya Misri",
+        "Kisima cha baraka huko Madyan"
+      ],
+      "answer": "Kizuizi cha chuma kati ya milima miwili"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kizuizi kilivunjwa wakati uliowekwa ulipofika, na machafuko yakaanza",
+        "Makafiri walizama huku waumini wakiokolewa",
+        "Wenye haki waliongozwa hadi paradiso ya milele",
+        "Mji uliharibiwa na upepo mkali",
+        "Sanamu zilivunjwavunjwa na watu wakatubu"
+      ],
+      "answer": "Kizuizi kilivunjwa wakati uliowekwa ulipofika, na machafuko yakaanza"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

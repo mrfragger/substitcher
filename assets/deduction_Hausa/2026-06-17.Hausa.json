@@ -1,0 +1,61 @@
+{
+  "title": "Echo daga Gefen Birnin",
+  "intro": "A cikin birnin da ya kauce wa jagorancin Allah, wani mutum ɗaya ya fito daga gefen gari, yana tsere da saƙon bege da gargaɗi. Wannan rai da aka manta zai zama alamar bangaskiya mai ɗorewa har abada.",
+  "clues": [
+    "Na ga an aika da manzanni zuwa birnina, amma mutanena sun yi watsi da su a matsayin mutane na yau da kullun.",
+    "Na yi imani da saƙonsu kuma na ji gaskiyar ta yi tasiri a cikin raina.",
+    "Na yi kira ga mutanena da su yi biyayya ga manzannin da ba su nemi lada ba.",
+    "Na gudu daga mafi nisa na birnin, ina ƙoƙarin sa su ga dalili cikin gaggawa.",
+    "Mutanena sun tashi a kaina, an kashe ni, amma na sami zaman lafiya na har abada.",
+    "Allah ya ce mini, 'Shiga Aljanna,' kuma ina fatan mutanena za su iya shaida wannan girmamawa da aka yi mini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Muminin Ya-Sin",
+        "Uzairu Mai Tambaya",
+        "Jagorar Al-Khidr",
+        "Muminin Iyalan Fir'auna",
+        "Namrud azzalumi"
+      ],
+      "answer": "Muminin Ya-Sin"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Fuskantar mutanen da suka kafirta suka kashe shi",
+        "Ana jefa shi cikin wuta mai zafi",
+        "Babban kifi ya haɗiye shi",
+        "Gina babban jirgi",
+        "Gudu daga rundunar azzalumi"
+      ],
+      "answer": "Fuskantar mutanen da suka kafirta suka kashe shi"
+    },
+    "location": {
+      "label": "Maɓallin Wuri",
+      "options": [
+        "Ƙarshen birnin mafi nisa",
+        "Dutsen Tur",
+        "Kwarin Tururuwa",
+        "Gaɓar kogin Nilu",
+        "Kogon kogon"
+      ],
+      "answer": "Ƙarshen birnin mafi nisa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Shahada da shiga Aljanna nan take",
+        "Gudu da ceto",
+        "Hawan sama zuwa sama",
+        "Nutsewa cikin teku",
+        "Juyawa zuwa dutse"
+      ],
+      "answer": "Shahada da shiga Aljanna nan take"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

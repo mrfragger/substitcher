@@ -1,0 +1,61 @@
+{
+  "title": "Nevypočuté volanie v krajine arogancie",
+  "intro": "Stojíte v ruinách kedysi veľkej civilizácie, kde moc a pýcha nepoznali hraníc. Medzi nimi kráčal posol a volal k pravde, ale ich srdcia boli zatvrdnuté. Varovanie zostalo nepovšimnuté a samotná obloha sa stala nástrojom hnevu. Kto bol tento posol a čo sa stalo s tými, ktorí odmietli volanie?",
+  "clues": [
+    "Bol som poslaný k ľudu, ktorý nemal obdobnú silu a ktorý na každom vyvýšenom mieste postavil pamätník.",
+    "Môj ľud sa považoval za neporaziteľného a hovoril: „Kto je mocnejší ako my?“",
+    "Vyzýval som ich, aby uctievali iba Alaha, ale oni ma obvinili z hlúposti a klamstva.",
+    "Vyzvali ma, aby som vykonal trest, ktorý som sľúbil, ak budem pravdovravný.",
+    "Alah na nich zoslal neúrodný vietor, ktorý neušetril nič, na čo dopadlo.",
+    "Ja a tí, ktorí so mnou uverili, sme boli zachránení Alahovým milosrdenstvom, zatiaľ čo neveriaci boli úplne zničení."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Sálih",
+        "Prorok Šuaib",
+        "Prorok Lut",
+        "Prorok Nuh"
+      ],
+      "answer": "Prorok Hud"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Ničivý vietor zničil neveriacich",
+        "Veľká potopa zaplavila neveriacich",
+        "Pršala spŕška kameňov",
+        "Hlasný výkrik zmocnil sa neveriacich",
+        "Zemetrasenie zasiahlo neveriacich"
+      ],
+      "answer": "Ničivý vietor zničil neveriacich"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Neúprosný vietor",
+        "Drevená archa",
+        "Ťava",
+        "Dážď z hlinených kameňov",
+        "Planúci oheň"
+      ],
+      "answer": "Neúprosný vietor"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Hud a veriaci boli zachránení a neveriaci boli zničení",
+        "Hud bol povýšený na vysoké miesto",
+        "Huda zabili jeho ľudia",
+        "Hudov ľud činil pokánie a bol ušetrený",
+        "Hud opustil svoj ľud pred akýmkoľvek trestom"
+      ],
+      "answer": "Hud a veriaci boli zachránení a neveriaci boli zničení"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

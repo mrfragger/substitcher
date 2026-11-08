@@ -1,0 +1,61 @@
+{
+  "title": "O sinal entre as pedras",
+  "intro": "Nunha terra onde as montañas estaban esculpidas en fogares, chegou un mensaxeiro cun sinal milagroso de Alá. A xente esixiu probas e recibiron unha criatura de rocha sólida. Pero a súa arrogancia levounos a desafiar o aviso, selando o seu destino.",
+  "clues": [
+    "Enviáronme a un pobo que vivía en vivendas esculpidas nas montañas.",
+    "Desafiáronme a traer un sinal, así que sacei un camelo dunha rocha.",
+    "Ordeneilles que deixasen beber o camelo libremente e que non lle fixesen dano.",
+    "Desobedeceron e cortáronlle os xamóns ao camelo, desafiando a miña advertencia.",
+    "Anunciei que o castigo chegaría despois de tres días.",
+    "Pola mañá, unha forte explosión destruíunos, pero eu e os meus seguidores salvámonos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Lut",
+        "Profeta Shu'ayb",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Salih"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Demanda dunha cameloa dunha rocha",
+        "Demanda dun becerro de ouro",
+        "Demanda dunha mesa chegada do ceo",
+        "Demanda por inundación",
+        "Demanda dun bastón para converterse nunha serpe"
+      ],
+      "answer": "Demanda dunha cameloa dunha rocha"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A cameloa e a súa cría",
+        "A Arca de Noé",
+        "O bastón de Moisés",
+        "O Becerro de Ouro",
+        "O lume de Ibrahim"
+      ],
+      "answer": "A cameloa e a súa cría"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruído por unha poderosa explosión",
+        "Afogado na inundación",
+        "Tragado pola terra",
+        "Convertidos en simios",
+        "Destruído por un vento feroz"
+      ],
+      "answer": "Destruído por unha poderosa explosión"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

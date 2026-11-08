@@ -1,0 +1,61 @@
+{
+  "title": "Ny Feon-kira Nanova ny Tendrombohitra",
+  "intro": "Ho hitanao ny tantaran'ny mpanompon'i Allah miavaka iray. Tao amin'ny tanin'ny iraka sy mpitondra, ity olona ity dia notahina tamin'ny boky masina, feo mahery, ary hery mihoatra ny vy. Rehefa mamaky ireo fanoroana ianao, azonao fantarina ve hoe iza io?",
+  "clues": [
+    "Mpanompon'i Allah aho izay nomena boky manokana.",
+    "Nanana feo mahafinaritra aho, ary tian'ny olona loatra ny fiderana ahy ka na dia ny havoana sy ny vorona aza dia niaraka tamiko.",
+    "Niatrika fahavalo goavana aho tamin'ny ady malaza iray, ary na dia kely aza aho dia nandresy.",
+    "Natao mora levona ny vy, ka nahafahako nanamboatra fiadiana tamin'ny tanako manokana.",
+    "Notendrena ho mpanapaka firenena lehibe aho, ary nalaza ny fahendreko amin'ny fitsarana.",
+    "Ny zanako lahy, izay mpaminany ihany koa, dia nomena fifehezana ny rivotra sy ny jiny."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Davida (Davida)",
+        "Mpaminany Solaimana (Solomona)",
+        "Mpaminany Musa (Mosesy)",
+        "Mpaminany Harona (Aarona)",
+        "Mpaminany Ilyas (Elias)"
+      ],
+      "answer": "Mpaminany Davida (Davida)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nandresy an'i Goliata (Jalut)",
+        "Nisaraka ny ranomasina",
+        "Tafavoaka velona tamin'ilay trozona",
+        "Natsipy tao anaty afo",
+        "Nanangana ny Sambo Fiara"
+      ],
+      "answer": "Nandresy an'i Goliata (Jalut)"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Zabur (Salamo)",
+        "Ny Torah (Tawrat)",
+        "Ny Filazantsara (Injil)",
+        "Ny Horonam-bokin'i Ibrahim",
+        "Ny Korany"
+      ],
+      "answer": "Ny Zabur (Salamo)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Tonga mpaminany sy mpanjakan'ny Isiraely",
+        "Lasa mpitondra an'i Ejipta",
+        "Nasandratra ho any an-danitra",
+        "Rava tamin'ny tafio-drivotra",
+        "Lasa naman'ny lava-bato"
+      ],
+      "answer": "Tonga mpaminany sy mpanjakan'ny Isiraely"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

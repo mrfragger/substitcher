@@ -1,0 +1,61 @@
+{
+  "title": "Alltudion y Nefoedd",
+  "intro": "Mae bod dirgel yn sefyll ar groesffordd creu a gwrthod. Mae eu stori yn un o haerllugrwydd digyffelyb a'r herfeiddiad eithaf o orchymyn dwyfol. Mae eu dewis yn atseinio trwy bob cenhedlaeth, gan ddod yn brawf i bob enaid a aned i'r byd hwn. Allwch chi adnabod y gwrthwynebydd tragwyddol hwn?",
+  "clues": [
+    "Roeddwn i'n bresennol mewn digwyddiad o arwyddocâd cosmig, pan ffurfiwyd bod newydd o glai a rhoddwyd bywyd iddo gan Anadl y Trugarog.",
+    "Fi fy hun y'm daethpwyd i fodolaeth o un elfen danllyd, yn wahanol i'r bod hwnnw o lwch.",
+    "Rhoddwyd gorchymyn i mi yr oeddwn yn ei ystyried islaw fy safle.",
+    "Chwyddodd balchder ynof, a gwrthodais yn bendant ufuddhau i'r gorchymyn hwnnw.",
+    "Oedi nes i Ddiwrnod penodedig gael ei ganiatáu i mi, er mwyn i mi allu dilyn fy mwriad datganedig o gamarwain eraill.",
+    "Fi yw gelyn datganedig pawb sy'n cerdded y ddaear, yn sibrwd twyll ac yn eu denu i ffwrdd o'r llwybr syth."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Iblis (Satan)",
+        "Pharo (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gwrthododd ymgrymu o flaen Adda",
+        "Hawliodd dduwdod yn ffug",
+        "Ffurfiodd llo aur ar gyfer addoli",
+        "Lladdodd ei frawd allan o genfigen",
+        "Arweiniodd y gwrthwynebiad amldduwiaethol ym Makkah"
+      ],
+      "answer": "Gwrthododd ymgrymu o flaen Adda"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Paradwys (Jannah)",
+        "Palas y Pharo yn yr Aifft",
+        "Dyffryn cysegredig Tuwa",
+        "Dyfnderoedd y môr",
+        "Gardd Sheba"
+      ],
+      "answer": "Paradwys (Jannah)"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi cael seibiant tan Ddydd y Farn",
+        "Boddi ynghyd â'r fyddin yn y môr",
+        "Wedi'i lyncu gan y ddaear ynghyd â thrysorau",
+        "Wedi'u trawsnewid yn epaod am dorri'r Saboth",
+        "Wedi'i losgi gan gerrig a daflwyd o'r awyr"
+      ],
+      "answer": "Wedi cael seibiant tan Ddydd y Farn"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

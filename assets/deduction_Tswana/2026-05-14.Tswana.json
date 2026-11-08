@@ -1,0 +1,61 @@
+{
+  "title": "Moabi wa Botlhale jo bo sa Feleng",
+  "intro": "Motho yo o tlotlegang, yo o neng a itsege ka temogo ya gagwe e e tseneletseng le kgakololo ya gagwe e e botlhale, o kile a naya kgakololo e e fetang dikokomana. Mafoko a bone, a a kwadilweng mo lokwalong lo lo boitshepo, a kaela batho ka bongwe go ya kwa tebogong, bopelotelele, le boitshwaro jo bo siameng.",
+  "clues": [
+    "Ke ne ke segofaditswe ka botlhale, e seng ka boporofeti.",
+    "Ke ne ka gakolola ngwanake ka boleo jo bogolo go gaisa: go amanya balekane le Allah.",
+    "Ke ne ke ruta ka bokete jwa ditiro, tota le boleng jwa peo ya mosetareta, le kafa Allah a tla e ntshang ka gone.",
+    "Ke ne ke gatelela go leboga Allah le batsadi ba motho, ke amogela mathata a go godisa ngwana.",
+    "Kgakololo ya me e ne e akaretsa go tlhoma thapelo, go laela molemo, go thibela bosula le go itshokela ka bopelotelele se se diragalelang motho.",
+    "Kgaolo nngwe mo Quran e bidiwa ka nna, e na le dithuto tsa me le dithuto tse ke neng ka di abelana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Sulaiman",
+        "Moporofeti Dawud",
+        "Moporofeti Yahya",
+        "Luqman",
+        "Moporofeti Musa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Setlhogo se se Bogare",
+      "options": [
+        "Go aga Kaaba",
+        "Go kgaoganya lewatle",
+        "Go naya botlhale",
+        "Go falola morwalela",
+        "Go mediwa ke tlhapi"
+      ],
+      "answer": "Go naya botlhale"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Badiri",
+        "Thaba ya Tur",
+        "Morwawe",
+        "Namane ya Gauta"
+      ],
+      "answer": "Morwawe"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Batho ba gagwe ba ne ba nyelediwa",
+        "Botlhale jwa gagwe bo ne jwa nna mokaedi",
+        "O ne a newa bogosi",
+        "O ne a tlhatlosediwa kwa magodimong",
+        "O ne a newa khumo e ntsi thata"
+      ],
+      "answer": "Botlhale jwa gagwe bo ne jwa nna mokaedi"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

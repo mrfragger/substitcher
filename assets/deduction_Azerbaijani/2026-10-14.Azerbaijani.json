@@ -1,0 +1,61 @@
+{
+  "title": "Sürgündəki Əhdi Pozanlar",
+  "intro": "Yeni yaranmış bir icmanın ilk dövrlərində bir qəbilə bir vaxtlar möhkəmləndirilmiş evlərdə, bir əhdə bağlı yaşayırdı. Bu əhd pozulduqda, nəticələr Quran səhifələrində əks-səda verdi. Bu insanlar kimlər idi və onların evləri və bağları necə oldu?",
+  "clues": [
+    "Bizə yalançı təhlükəsizlik hissi verən qalalarda yaşayırdıq.",
+    "Biz Müqəddəs Kitab əhli idik, amma əhdimizi pozduq.",
+    "Elçi yanımıza gəldikdən sonra ona qarşı hiylə qurduq, amma planımız boşa çıxdı.",
+    "Xurma ağaclarımız Allahın qüdrətinin bir əlaməti olaraq, Onun əmri ilə kəsildi.",
+    "Biz itaətsizliyimizə görə cəza olaraq evlərimizdən qovulduq və bir daha geri qayıtmadıq.",
+    "Quranda toplantı fəslində bizdən bəhs olunur və bu hekayə əhd-peymanı pozanlar üçün bir xəbərdarlıqdır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qureyza",
+        "Banu Qaynuqa",
+        "Mədyən xalqı",
+        "Səmud xalqı"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Mühasirə və evlərindən qovulma",
+        "Dənizdə boğulmaq",
+        "Torpaq tərəfindən udulmaq",
+        "Fırtına nəticəsində dağıntı",
+        "Meymuna çevrilmək"
+      ],
+      "answer": "Mühasirə və evlərindən qovulma"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Palma ağacları kəsilib",
+        "İşçilər",
+        "Gəmi",
+        "Su quyusu",
+        "Mağara"
+      ],
+      "answer": "Palma ağacları kəsilib"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Sürgün edildi və əmlakları əllərindən alındı",
+        "Qalib qayıtdı",
+        "Bağışlandılar və qaldılar",
+        "Dərhal cənnətə girdi",
+        "Vəbaya yoluxmuşuq"
+      ],
+      "answer": "Sürgün edildi və əmlakları əllərindən alındı"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

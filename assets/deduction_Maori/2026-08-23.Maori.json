@@ -1,0 +1,61 @@
+{
+  "title": "Te Mano tini i Ngaro",
+  "intro": "Kei mua koe i ngā haruru o tētahi hapori kua tuhia nei te kōrero ki ngā ngaru. I rongo ēnei wairua i tētahi karanga, i whiriwhiri i te whakakeke, ā, i tūtaki ki tētahi hua i huri ai te ao. Ko wai rātou, ā, i pēhea rā tō rātou ao?",
+  "clues": [
+    "I noho tātou i ngā rā o mua, ā, i tae mai tētahi karere ki a tātou i roto i a tātou anō.",
+    "E rima ngā whakapakoko i karakia mātou, ā, kāore mātou i pai ki te whakarērea i a rātou.",
+    "I tawai mātou ki te karere, i whakapae hoki i a ia mō te he.",
+    "I tohe mātou kia whiua ia mēnā he pono tana kōrero.",
+    "I kite mātou i te rangi e ringihia ana te ua, me te whenua e pupu mai ana i ngā puna.",
+    "I piki mātou ki ngā wāhi teitei hei mawhiti, engari i mau mātou i ngā ngaru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "te iwi o Noa",
+        "Ngā tāngata o 'Ad",
+        "Te iwi o Thamud",
+        "Te iwi o Ruta",
+        "Ngā tāngata o Madyan"
+      ],
+      "answer": "te iwi o Noa"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I toremi mātou i roto i te waipuke nui",
+        "I whakangaromia mātou e te awhiowhio",
+        "I mate mātou i te pahūtanga nui",
+        "I horomia mātou e te whenua",
+        "I whiua mātou ki ngā kōhatu mai i te rangi"
+      ],
+      "answer": "I toremi mātou i roto i te waipuke nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He waipuke nui",
+        "He hau kaha",
+        "He ua kōhatu",
+        "He pahūtanga mura",
+        "He rū whenua"
+      ],
+      "answer": "He waipuke nui"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I mate katoa tātou engari ko te hunga whakapono i a Noa",
+        "I hurihia mātou hei makimaki",
+        "I waiho mātou hei ururua mā ngā kaihaerere",
+        "I hurihia mātou hei tote",
+        "I homai he wā okiokinga ki a mātou"
+      ],
+      "answer": "I mate katoa tātou engari ko te hunga whakapono i a Noa"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

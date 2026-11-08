@@ -1,0 +1,61 @@
+{
+  "title": "Những người nghe thầm lặng đã tin tưởng",
+  "intro": "Trong sự tĩnh lặng của một buổi lễ thiêng liêng, một nhóm người kỳ lạ đến từ một cõi vô hình. Bị thu hút bởi những lời thì thầm về điều kỳ diệu, họ lắng nghe lời kể sẽ định đoạt số phận của họ mãi mãi. Lời chứng của họ vẫn là một trong những lời chứng độc đáo nhất trong kinh thánh.",
+  "clues": [
+    "Chúng tôi là những sinh linh đến từ một cõi vô hình đối với hầu hết mọi người, và chúng tôi đến đây theo nhóm.",
+    "Chúng tôi lên đường đến một buổi tụ họp để nghe điều gì đó đặc biệt.",
+    "Khi chúng tôi đến nơi, chúng tôi được nghe một bài ng recitation khiến chúng tôi vô cùng kinh ngạc.",
+    "Chúng tôi công khai thừa nhận rằng trong số chúng tôi có người chính trực và có người thì không.",
+    "Chúng tôi biết rằng mình không thể trốn tránh mệnh lệnh thiêng liêng trên trần gian, cũng không thể bay lên trời.",
+    "Khi nghe lời chỉ dẫn, chúng tôi tin tưởng; ai tin tưởng vào Thượng đế của mình sẽ không sợ mất mát hay gánh nặng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Một nhóm thần Jinn",
+        "Người dân Iram",
+        "Người dân Tubba'",
+        "Đế chế La Mã",
+        "Bộ tộc Quraysh"
+      ],
+      "answer": "Một nhóm thần Jinn"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Lắng nghe một bài tụng kinh thiêng liêng",
+        "Xây dựng những cột trụ cao vút trong thành phố của chúng ta",
+        "Săn một con lạc đà cái tuyệt đẹp",
+        "Bị hủy diệt vì đã giết các tiên tri của chúng ta",
+        "Nhân bội của cải vượt xa mọi giới hạn"
+      ],
+      "answer": "Lắng nghe một bài tụng kinh thiêng liêng"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một buổi tụ họp tụng kinh thiêng liêng",
+        "Một thành phố với những cột trụ cao vút (Iram)",
+        "Một cái giếng trong sa mạc",
+        "Một cung điện vàng tráng lệ",
+        "Một hang động linh thiêng trên núi."
+      ],
+      "answer": "Một buổi tụ họp tụng kinh thiêng liêng"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Chúng tôi tin tưởng và cảnh báo người dân của mình.",
+        "Bị phá hủy bởi một vụ nổ mạnh từ trên trời.",
+        "Bị trừng phạt bởi một cơn gió thiêu đốt, tàn phá.",
+        "Được ban tặng khối tài sản và quyền lực khổng lồ.",
+        "Vẫn kiên định trong sự hoài nghi."
+      ],
+      "answer": "Chúng tôi tin tưởng và cảnh báo người dân của mình."
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

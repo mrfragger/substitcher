@@ -1,0 +1,61 @@
+{
+  "title": "Ndị Na-akpụ Nkume nke Ndagwurugwu Ochie",
+  "intro": "Chee echiche banyere mmepeanya nke bilitere na ndagwurugwu nkume nke Arabia, ndị nwere nkà n'ịkpụ ụlọ mara mma site n'akụkụ ugwu. Ha jupụtara n'ike na nka, mana akụkọ ha na-egosi enweghị mmasị n'ịdọ aka ná ntị Chineke. Ka ị na-enyocha akụkọ ha, ị ga-achọpụta ndị mpako ha dugara na mbibi ha kpamkpam. Ònye ka ha bụ?",
+  "clues": [
+    "Anyị ketara ala nke nwere ala dị larịị na nnukwu ugwu, ebe anyị wuru ụlọ anyị n'ụzọ amamihe na-enweghị atụ.",
+    "A maara anyị maka ịkpụ ụlọ ndị dị nchebe n'elu ugwu, na-eche na anyị enweghị ihe ọjọọ ọ bụla.",
+    "Onye ozi bịakwutere anyị site n'etiti anyị, na-echetara anyị amara Allah ma na-adọ anyị aka ná ntị maka ntaramahụhụ.",
+    "Anyị rịọrọ ihe ịrịba ama, nne kamel dị ebube wee si n'okwute ahụ pụta, nke bụ ule doro anya sitere n'aka Allah.",
+    "Anyị jụrụ ịdọ aka ná ntị ahụ ma gbubie nne kamel ahụ, na-akwa onye ozi ahụ emo ma na-ama ntaramahụhụ ahụ aka.",
+    "Otu mkpọtụ gbawara anyị n'ụlọ anyị, tupu ụtụtụ anyị alaa n'ala, dị ka a ga-asị na anyị ebibeghị ebe ahụ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị Temọd",
+        "Ndị 'Ad'",
+        "Ndị Midian",
+        "Ndị Nuh",
+        "Ndị Lut"
+      ],
+      "answer": "Ndị Temọd"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ịgbachi nne kamel ahụ",
+        "Mebichara Ụbọchị Izu Ike",
+        "Fere nwa ehi ọlaedo ahụ ofufe",
+        "Gbuo onye amụma e zigara ha",
+        "Wuru ụlọ elu iji ruo eluigwe"
+      ],
+      "answer": "Ịgbachi nne kamel ahụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Nne kamel ahụ",
+        "Igbe ahụ",
+        "Ndị ọrụ ahụ",
+        "Aka ọcha ahụ",
+        "Mana na nnụnụ quail"
+      ],
+      "answer": "Nne kamel ahụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Mgbawa bibiri ya",
+        "A zọpụtara ya site na mbibi",
+        "Agbanweela ka ọ bụrụ enwe",
+        "Mmiri gbawara n'oké osimiri",
+        "Ala loro ya"
+      ],
+      "answer": "Mgbawa bibiri ya"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

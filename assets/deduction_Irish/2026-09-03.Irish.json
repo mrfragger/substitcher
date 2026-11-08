@@ -1,0 +1,61 @@
+{
+  "title": "An Ríchathaoir a Thaistil i dTeannta",
+  "intro": "Bhí figiúr údarásach ollmhór i ríocht shaibhir a raibh saibhreas thar cuimse aici. Nuair a tháinig dúshlán gan choinne chun cinn, ní le claímhte a bhí an rialóir seo os comhair triail eagna agus creidimh ach le triail eagna. Tharlódh claochlú domhain croí ó bhuaicphointe chumhachta an tsaoil.",
+  "clues": [
+    "Bhí mé i ríocht a raibh saibhreas agus rathúnas thar a shamhlaíocht ag teastáil uaim.",
+    "Ba mhonarc cumhachtach mé a fuair litir dhána ag éileamh géilleadh",
+    "Thug mo uaisle comhairle dom faoi cibé acu troid nó síocháin a dhéanamh leis an rí seo i bhfad i gcéin.",
+    "Chuaigh mé amach le bronntanais iontacha chun bualadh leis an rí i bhfad i gcéin seo mé féin",
+    "Tugadh mo ríchathaoir ríoga go tír i bhfad i gcéin i gcnapán na súl, sular fhéadfainn filleadh",
+    "Nuair a chuaigh mé isteach i bpálás a raibh urlár chomh mín le gloine aige, d’fhógair mé mo ghéilleadh do Allah faoi dheireadh"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Bilqis, Banríon Sheba",
+        "Bean chéile an Fharó",
+        "Bean chéile Al-Aziz",
+        "Muiream, Iníon Imran",
+        "Bean chéile an Fháidh Lut"
+      ],
+      "answer": "Bilqis, Banríon Sheba"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Litir dhána á fáil ag éileamh aighneachta",
+        "Á chaitheamh i dtine lasrach",
+        "Á shlogadh ag iasc mór",
+        "Blianta fada tinnis phianmhar",
+        "Ag féachaint ar scriosadh daoine ag tuile"
+      ],
+      "answer": "Litir dhána á fáil ag éileamh aighneachta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Ríchathaoir ríoga iontach óir agus seoda",
+        "Foireann a scar an fharraige",
+        "Áirc ina luí ar shliabh",
+        "Teach adhartha naofa i Mecca",
+        "Lao órga a adhradh ag pobal"
+      ],
+      "answer": "Ríchathaoir ríoga iontach óir agus seoda"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Géilleadh do Allah in éineacht le fáidh",
+        "Báthadh sa bhfarraige agus tú ag tóraíocht namhaid",
+        "A bheith sábháilte go míorúilteach ó thine lasrach",
+        "Deoraíocht ó ghairdín na sonais shíoraí",
+        "Ag fáil ríocht ollmhór cumhachta"
+      ],
+      "answer": "Géilleadh do Allah in éineacht le fáidh"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

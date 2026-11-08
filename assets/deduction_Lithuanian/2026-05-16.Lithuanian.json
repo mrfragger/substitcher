@@ -1,0 +1,61 @@
+{
+  "title": "Tvirtas išgelbėjimo kūrėjas",
+  "intro": "Šis žmogus, pasižymėjęs nepaprasta kantrybe ir nepajudinamu įsitikinimu, nesuskaičiuojamus metus paskyrė dieviškai misijai, nuolat susidurdamas su panieka ir atstūmimu. Jų istorija yra galingas tikėjimo liudijimas didžiulio netikėjimo akivaizdoje, kulminuojantis reikšmingu įvykiu, pakeitusiu pasaulį.",
+  "clues": [
+    "Neįtikėtinai ilgą savo gyvenimo laikotarpį paskyriau kviesdamas savo žmones garbinti Alachą.",
+    "Mano žmonės tyčiojosi iš manęs ir kaltino akivaizdžia klaida ir beprotybe.",
+    "Man buvo įsakyta pastatyti kažką neįprasto mano bendruomenei, neturinčiai priėjimo prie jūros.",
+    "Tik nedaugelis patikėjo ir prisijungė prie manęs ir mano šeimos prie šios unikalios konstrukcijos.",
+    "Laive gabenausi poromis visų gyvų būtybių, kaip nurodė Alachas.",
+    "Didelis potvynis užliejo žemę, išgelbėdamas tik tuos, kurie buvo su manimi mano laive, o mano paties sūnus žuvo dėl savo netikėjimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Salihas",
+        "Pranašas Hudas",
+        "Pranašas Nuh",
+        "Pranašas Dawudas",
+        "Pranašas Suleimanas"
+      ],
+      "answer": "Pranašas Nuh"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Žemės drebėjimo sukeltas sunaikinimas",
+        "Jūros padalijimas",
+        "Didysis potvynis",
+        "Nimrodo ugnis",
+        "Varlių maras"
+      ],
+      "answer": "Didysis potvynis"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Degantis krūmas",
+        "Arka",
+        "Vandens šulinys",
+        "Auksinis veršis",
+        "Turo kalnas."
+      ],
+      "answer": "Arka"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Gavo karalystę.",
+        "Jo žmonės buvo paversti beždžionėmis",
+        "Jo žmonės buvo išgelbėti stebuklo dėka",
+        "Jo žmonės buvo nuskendę",
+        "Jo žmones trenkė žaibas"
+      ],
+      "answer": "Jo žmonės buvo nuskendę"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

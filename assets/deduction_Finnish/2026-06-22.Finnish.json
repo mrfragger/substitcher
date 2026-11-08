@@ -1,0 +1,61 @@
+{
+  "title": "Piilotettu uskovainen",
+  "intro": "Vallan loisteliaissa saleissa, joissa vallitsivat epäusko ja tyrannia, yksinäinen totuuden ääni puhui odottamattomasta paikasta. Tämä hahmo haastoi vallanpitäjät suojelemaan sanansaattajaa ja vaaransi oman turvallisuutensa julistaakseen totuutta.",
+  "clues": [
+    "Elin suuren tyrannian maassa ja palvelin hallitsijaa, joka väitti olevansa jumaluus.",
+    "Pidin todelliset uskomukseni piilossa monta vuotta peläten niiden paljastamisen seurauksia.",
+    "Kun sanansaattaja saapui selkeiden merkkien kanssa, minä uskoin, mutta kansani vehkeili häntä vastaan.",
+    "Seisoin tyrannin ja hänen neuvostonsa edessä väittäen, ettei heidän pitäisi tappaa viatonta sanansaattajaa.",
+    "Varoitin heitä menneiden kansojen rangaistuksesta, jotka hylkäsivät totuuden, kuten Nooan ja Juudaan ajan ihmisten.",
+    "Allah pelasti minut heidän pahoilta juoniltaan, ja näin sortavan hallinnon tuhon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Faaraon perheen uskovainen",
+        "Faaraon taikuri",
+        "Faaraon visiiri",
+        "Faaraon vaimo",
+        "Faaraon rahastonhoitaja"
+      ],
+      "answer": "Faaraon perheen uskovainen"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Profeetan puolustaminen teloitusta vastaan",
+        "Taikurin temppujen haastaminen",
+        "Tornin rakentaminen taivaalle yltääkseen",
+        "Meren halkaiseminen pakoa varten",
+        "Kuninkaan unen tulkinta"
+      ],
+      "answer": "Profeetan puolustaminen teloitusta vastaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Faaraon hovi",
+        "Palava pensas",
+        "Kultainen vasikka",
+        "Madyanin kaivo",
+        "Profeetta Nooan arkki"
+      ],
+      "answer": "Faaraon hovi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Pelastui vahingolta, kun sortajat tuhottiin",
+        "Tuli voimakkaaksi hallitsijaksi",
+        "Heitettiin tuleen ja selvisi vahingoittumattomana",
+        "Maa nielaisi",
+        "Vaelsi erämaassa neljäkymmentä vuotta"
+      ],
+      "answer": "Pelastui vahingolta, kun sortajat tuhottiin"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

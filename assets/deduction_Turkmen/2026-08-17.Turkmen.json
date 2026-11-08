@@ -1,0 +1,61 @@
+{
+  "title": "Kenardaky günä",
+  "intro": "Siz unudylan kenaryň çägesinde dursuňyz, tolkunlar Hudaýyň buýrugy bilen synag edilen jemgyýetiň pyşyrdaýan ýeri. Howa haýran galdyryjy özgerişe sebäp bolan bozulmanyň ýatlamasy bilen agyr. Bu janlar kimlerdi we olaryň synagynyň tebigaty nähilidi?",
+  "clues": [
+    "Biz Rebbimizden aýdyň bir emri alan bir jemgyýetdik, ýöne oňa garşy çykmagyň ýollaryny tapdyk.",
+    "Biz suw howdanynyň golaýynda ýaşaýardyk we güzeranymyz şol ýerdäki jandarlara baglydy.",
+    "Dünýä işleri bilen meşgullanmakdan saklanmagymyz buýrulan güni bize synag geldi.",
+    "Şol gün suwdaky jandarlar bize köp sanly gelip, bizi çydap bilmejek derejede synaga saldylar.",
+    "Biz permandan üstün çykyp biljekdigimizi pikir edip, ilahi tertip-düzgüni aýlanyp geçmek üçin mekir bir hile oýlap tapdyk.",
+    "Biziň günälerimiz utançly özgerişe getirdi; biz Allanyň emri bilen ýigrenilýän maýmynlara öwrüldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Sabat güni halky",
+        "Rass halky",
+        "Tubba halky",
+        "Gowagyň adamlary",
+        "Handak ýoldaşlary"
+      ],
+      "answer": "Sabat güni halky"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Sabat güni balyklaryň peýda bolmagy",
+        "Güýçli gurakçylyk ýyly",
+        "Olaryň üstüne guşlaryň goşuny iberildi",
+        "Olary basan sil",
+        "Güýçli ýer titremesi"
+      ],
+      "answer": "Sabat güni balyklaryň peýda bolmagy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Deňiz",
+        "Dag",
+        "Bir gowak",
+        "Çöl jülgesi",
+        "Berkidilen şäher"
+      ],
+      "answer": "Deňiz"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Maýmynlara öwrüldi",
+        "Ýer tarapyndan ýuwudyldy",
+        "Gygyrýan ýel bilen weýran boldy",
+        "Deňizde gark boldy",
+        "Daş ýagyşy bilen uruldy"
+      ],
+      "answer": "Maýmynlara öwrüldi"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

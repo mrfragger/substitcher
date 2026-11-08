@@ -1,0 +1,61 @@
+{
+  "title": "Riverbank bo'yidagi hushyor ruh",
+  "intro": "Yosh qalbga maxfiy topshiriq ishonib topshirildi, u suvda taqdir qanday rivojlanayotganini xavfsiz masofadan kuzatish edi. Ko'rinmas va shubhasiz, bu shaxs millat tarixining yo'nalishini o'zgartirishda hal qiluvchi rol o'ynaydi.",
+  "clues": [
+    "Onam menga yashirincha va hushyorlikni talab qiladigan vazifani topshirdi.",
+    "Ko'zlarim oqim bo'ylab suzib ketayotgan kichkina beshikka qaradi, yuragim xavotirdan og'irlashdi.",
+    "Uni kutilmagan bir guruh odamlar topib olganida, men vahimaga to'lib, yaqinlashdim.",
+    "Men ularning vasiyga bo'lgan umidsizligini ko'rdim va haqiqatni oshkor qilmasdan yechim taklif qildim.",
+    "O'z vaqtida ko'rsatgan aralashuvim, eng muhtoj bo'lgan insonga hamshira ruhni qaytarib berdi.",
+    "Hokimiyatlilarning saroylarida men: “Uni boqadigan va unga gʻamxoʻrlik qiladigan oilani sizga koʻrsataymi?” deb soʻradim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Musoning singlisi",
+        "Musoning onasi",
+        "Fir'avnning xotini",
+        "Doya",
+        "Shu'aybning qizi"
+      ],
+      "answer": "Musoning singlisi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Bolani daryoga uloqtirish",
+        "Dengizning ikkiga bo'linishi",
+        "Buzoqning yonishi",
+        "Kemaning qurilishi",
+        "Chigirtkalar vabosi"
+      ],
+      "answer": "Bolani daryoga uloqtirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Daryo",
+        "Cho'l",
+        "Tog'",
+        "Saroy",
+        "Yong'in"
+      ],
+      "answer": "Daryo"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "U bolani onasi bilan qayta birlashtirdi",
+        "U o'zini Fir'avn askarlaridan qutqardi",
+        "U malikaga aylandi",
+        "U josuslik uchun jazolandi",
+        "U Isroil xalqiga boshchilik qildi"
+      ],
+      "answer": "U bolani onasi bilan qayta birlashtirdi"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

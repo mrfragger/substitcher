@@ -1,0 +1,61 @@
+{
+  "title": "Münaqişə Toxumu",
+  "intro": "Dünya geniş yayılmış münaqişəni bilmədən əvvəl, iman və itaətin dərin bir sınağı baş verdi. Bu hekayə, hərəkətləri gələcək nəsillər üçün nümunə qoyan bir fərdin etdiyi seçimləri araşdırır. Böyük qısqanclıq və onun dağıdıcı nəticələri ilə mübarizə aparan bir ruhun hekayəsini açmağa hazır olun.",
+  "clues": [
+    "Mən yer üzündə gəzən ilk insanlardan biri, ilk insan cütlüyünün övladı idim.",
+    "Qardaşımla mənə Allaha qurban kəsmək əmr edildi ki, bu da səmimiyyətimizin sınağı idi.",
+    "Mənim təklifim qəbul edilmədi, qardaşımın təklifi isə qəbul edildi və bu, ürəyimi dəhşətli bir hisslə doldurdu.",
+    "Rədd edilmənin acılığından irəli gələrək qardaşıma hədə-qorxu sözləri dedim.",
+    "Qardaşım müdriklik və təqva ilə cavab verdi, mənə Allahın ədalətini və Ondan qorxmağı xatırlatdı.",
+    "Qardaşımın mülayim sözlərinə və bağışlamağa hazır olmasına baxmayaraq, mən bir cana qəsd etdim və uduzanlardan biri oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Adəm peyğəmbər",
+        "İblis",
+        "Nuh peyğəmbər",
+        "Qabil (Qabil)",
+        "Firon"
+      ],
+      "answer": "Qabil (Qabil)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük daşqın",
+        "Dənizin iki yerə bölünməsi",
+        "Kəbənin binası",
+        "Qurbanların təqdim edilməsi",
+        "Bağdakı sınaq"
+      ],
+      "answer": "Qurbanların təqdim edilməsi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Səfa dağı",
+        "Qurban",
+        "Yanan Kol"
+      ],
+      "answer": "Qurban"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Elçi oldu",
+        "Boğuldu",
+        "Böyük bir krallıq qurdu",
+        "Peşmançılığın nümunəsi oldu",
+        "Böyük sərvət bəxş edildi"
+      ],
+      "answer": "Peşmançılığın nümunəsi oldu"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

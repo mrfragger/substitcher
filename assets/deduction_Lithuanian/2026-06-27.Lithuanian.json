@@ -1,0 +1,61 @@
+{
+  "title": "Šventasis nebuvimas",
+  "intro": "Už laiko kopų slypi istorija apie nepajudinamą atsidavimą ir tokį sunkų pasitikėjimą, kad jį nešusi siela galėjo sudužti. Akimirką, kai žmonės pasuko kvailystės ir aukso link, viena figūra tvirtai stovėjo – šaukė juos atgal, maldavo kantrybės ir nešė švento pažado naštą. Tai istorija apie tą, kuris buvo pasirinktas kaip pagalbininkas, viziris ir tikėjimo sergėtojas švento nebuvimo metu. Ar galite atskleisti šios tvirtos sielos tapatybę?",
+  "clues": [
+    "Aš dalinuosi didžio pranašo, kuris buvo pasirinktas kalbėtis su Alachu tiesiai ant švento kalno, krauju.",
+    "Mano brolis ir sesuo kartą maldavo Alacho pagalbos, kad galėtų aiškiai kalbėti su didžiu engėju.",
+    "Alachas mane išsirinko stovėti šalia savo brolio ir sesers kaip padėjėjas ir viziris.",
+    "Kartu susidūrėme su tironišku valdovu, kuris reikalavo būti vadinamas aukščiausiuoju iš dievų.",
+    "Kol mano brolis ir sesuo bendravo su Alachu ant kalno, mūsų žmonės iš savo aukso pasidarė sau stabą.",
+    "Aš esu Mozės brolis, Alacho paskirtas savo viziriu, paminėtas vardu Korane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Harunas (Aaronas)",
+        "Pranašas Musa",
+        "Pranašas Dawudas",
+        "Pranašas Jakubas",
+        "Pranašas Išakas"
+      ],
+      "answer": "Pranašas Harunas (Aaronas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Veršio garbinimo krizė",
+        "Didysis Nuho potvynis",
+        "Badro mūšis",
+        "Tamudo sunaikinimas",
+        "Sodomos sunaikinimas"
+      ],
+      "answer": "Veršio garbinimo krizė"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršelis",
+        "Nojaus arka",
+        "Degantis krūmas",
+        "Hiros urvas",
+        "Šebos sostas"
+      ],
+      "answer": "Auksinis veršelis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nekaltumas patvirtintas Alacho",
+        "Faraono nuskendimas",
+        "Kaabos pastatas",
+        "Saugus jūros kirtimas",
+        "Žengimas į dangų"
+      ],
+      "answer": "Nekaltumas patvirtintas Alacho"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

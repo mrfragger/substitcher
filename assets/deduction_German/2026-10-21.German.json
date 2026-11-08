@@ -1,0 +1,61 @@
+{
+  "title": "Der Bote, der die Götzendiener konfrontierte",
+  "intro": "In einer Zeit, in der die Frömmigkeit nachgelassen hatte, erhob sich ein Bote mit dem Aufruf zur Rückkehr zur Anbetung des Herrn der Welten. Er stellte sich standhaft gegen ein Volk, das in der Anbetung einer falschen Gottheit verstrickt war, und erinnerte es an seinen wahren Schöpfer und den Herrn seiner Vorfahren. Doch das Volk war unachtsam und wies die Warnung zurück, womit es sein eigenes Schicksal besiegelte. Wer war dieser unerschütterliche Rufer?",
+  "clues": [
+    "Ich wurde zu einem Volk gesandt, das sich vom Weg des einen wahren Gottes abgewandt hatte.",
+    "Ich fragte mein Volk: „Wollt ihr Allah denn nicht fürchten?“",
+    "Ich rief sie dazu auf, ihre Verehrung einer falschen Gottheit namens Baal aufzugeben.",
+    "Mein Volk wies meinen Aufruf zurück und verharrte in seinem Götzendienst.",
+    "Da sie die Tat leugnen, werden sie mit Sicherheit zur Bestrafung vor Gericht gestellt.",
+    "Mein Herr schenkte mir Frieden und ein gesegnetes Andenken unter den späteren Generationen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ilyas",
+        "Prophet Yahya",
+        "Prophet Dhul-Kifl",
+        "Prophet Yusuf",
+        "Prophet Shu'ayb"
+      ],
+      "answer": "Prophet Ilyas"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er rief sein Volk auf, Baal zu verlassen.",
+        "Er baute eine Arche, um die Gläubigen zu retten.",
+        "Wurde ins Feuer geworfen",
+        "Floh vor dem Tyrannen Pharao",
+        "Er schlug einen Felsen, um Wasser hervorzubringen."
+      ],
+      "answer": "Er rief sein Volk auf, Baal zu verlassen."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Friede sei mit euch und ein gesegnetes Andenken.",
+        "Von der Erde verschluckt",
+        "Von einem heftigen Sturm zerstört",
+        "Zu Stein verwandelt",
+        "Im Meer ertrunken"
+      ],
+      "answer": "Friede sei mit euch und ein gesegnetes Andenken."
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

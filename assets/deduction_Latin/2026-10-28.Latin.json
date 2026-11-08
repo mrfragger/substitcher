@@ -1,0 +1,61 @@
+{
+  "title": "Promissio Super Favillas Prolata",
+  "intro": "Iuxta ignem deserti stas, dum eius cineres diligenter sparguntur. Adveniunt hospites ad congressum in quiete, et unum nuntium fabulam aperit de promissione, admiratione, et futuro nondum completo.",
+  "clues": [
+    "Spatium transiimus ut servum fidelem in deserto attingeremus.",
+    "Rogavimus ut cineres spargerentur ad ignem praeparandum.",
+    "Cum uno locuti sumus qui flammam pro frigore et salute imploraverat.",
+    "Nuntium de infante recens nato attulimus cuidam qui aetatem liberorum habendi iam excesserat.",
+    "Puerum promissum Isaac nominavimus.",
+    "Nuntium laetum de filio Abrahio attulimus, et nuntius mirabilis Abrahium risum reliquit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Angeli qui Ibrahimo nuntium laetum de Isaac attulerunt",
+        "Angeli Qui Lut Monuerunt",
+        "Angeli Throniferi",
+        "Angeli Inferni",
+        "Angeli ad Noe missi"
+      ],
+      "answer": "Angeli qui Ibrahimo nuntium laetum de Isaac attulerunt"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Nuntium laetum de nativitate Isaac ad Abrahamum afferens",
+        "Monitum Lut ante poenam populi sui",
+        "Nuntians Zachariae nativitatem Yahyae",
+        "Solium ferens in die iudicii",
+        "Nuntians Mariam nativitatem Isae"
+      ],
+      "answer": "Nuntium laetum de nativitate Isaac ad Abrahamum afferens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ignis ex sparsis favillis paratus",
+        "Arca super aquas diluvii fluitans",
+        "Spelunca lapide volventi obsignata",
+        "Mons argillae salsura induratus",
+        "Scala in caelum extensa"
+      ],
+      "answer": "Ignis ex sparsis favillis paratus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Nuntium laetum de filio nomine Isaac",
+        "Nuntium laetum de filio nomine Yahya",
+        "Electio Talut ut rector super filios Israel",
+        "Monitio ante poenam populi Lut",
+        "Mandatum arcae aedificandae ante Diluvium"
+      ],
+      "answer": "Nuntium laetum de filio nomine Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

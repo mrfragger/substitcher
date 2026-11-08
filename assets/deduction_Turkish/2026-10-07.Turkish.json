@@ -1,0 +1,61 @@
+{
+  "title": "Kibir sarayının içindeki alev",
+  "intro": "Antik dünyanın en güçlü sarayının görkemli duvarlarının ardında, kalbinde hiçbir kraliyet fermanının susturamayacağı bir sır taşıyan bir figür yaşıyordu. Etrafındakiler sahte tanrılara taparken, bu ruh içindeki sessiz inancı korudu. O ülkenin hükümdarı kendisini ilahi sanıyordu, ancak bu kişi rahatlıktan ziyade gerçeği, güvenlikten ziyade bağlılığı seçti. Bugün göreviniz, hikayesi sarsılmaz inancın en güçlü örneklerinden biri olan bu cesur ruhun kim olduğunu keşfetmek.",
+  "clues": [
+    "Ben, muazzam zenginliğin ve eşsiz ihtişamın hüküm sürdüğü, ülkenin yöneticisinin herkes üzerinde mutlak güce sahip olduğu bir yerde yaşadım.",
+    "Çevremdekiler sahte tanrılara taparken, ben kalbimde sessiz bir inanç ışığını korudum.",
+    "Bana alışılmadık bir şekilde, doğum yoluyla değil, büyük bir nehrin suları aracılığıyla getirilen bir çocuğu keşfettim ve evlat edindim.",
+    "Rabbime dua ettim, cennette O'nun yanında bir yurt ve beni çevreleyen zulümden kurtuluş diledim.",
+    "Yetiştirdiğim çocuk, kaderimi kontrol eden yöneticiye meydan okuyacak şekilde büyüdü ve ben tehdit edildiğimde bile inancımda dimdik durdum.",
+    "Ben, Kur'an'da iman örneği olarak adı anılan ve Firavun'un sarayında yaşamış olan kişiyim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Firavunun karısı Asiya",
+        "İsa'nın annesi Meryem",
+        "Saba Kraliçesi Bilqis",
+        "Peygamber Lut'un karısı",
+        "İmran'ın karısı"
+      ],
+      "answer": "Firavunun karısı Asiya"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Terk edilmiş bir bebeği bulup büyütmek ve onun büyük bir peygamber olmasını sağlamak.",
+        "Bir tiran tarafından büyük bir ateşe atılmak",
+        "Bir halkı yok eden büyük bir sel felaketine tanık olmak",
+        "Hurma suyu içeceğini yudumlarken beslenmek.",
+        "İleri yaşta bir erkek çocuğu dünyaya getirmek"
+      ],
+      "answer": "Terk edilmiş bir bebeği bulup büyütmek ve onun büyük bir peygamber olmasını sağlamak."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Eşsiz bir ihtişama sahip kraliyet sarayı",
+        "Sel baskınlarına dayanacak şekilde inşa edilmiş büyük bir gemi",
+        "Dağların arasında gizlenmiş derin bir mağara",
+        "Bir dağ tepesinde yükselen alevler.",
+        "Duvarlarla çevrili bir bahçe"
+      ],
+      "answer": "Eşsiz bir ihtişama sahip kraliyet sarayı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Allah'ın takdiriyle cennette bir yurt verildi.",
+        "Büyük bir tufan, eski bir milletin kâfirlerini yok etti.",
+        "Bu dünyada muazzam güç ve yetkiye sahip bir krallık bahşedildi.",
+        "Uçuş halindeki kuşlar, muazzam bir orduyu dağıttı.",
+        "Tanrı olduğunu iddia eden bir tiran denizde boğuldu."
+      ],
+      "answer": "Allah'ın takdiriyle cennette bir yurt verildi."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

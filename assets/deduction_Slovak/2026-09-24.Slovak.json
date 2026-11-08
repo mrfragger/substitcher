@@ -1,0 +1,61 @@
+{
+  "title": "Panovník, ktorý požadoval božstvo",
+  "intro": "Mocný a arogantný vládca veril, že nikto nestojí nad jeho trónom. Prenasledoval utekajúcu skupinu cez rozsiahlu vodnú plochu, len aby ich čakal dramatický koniec. Príbeh tohto panovníka sa odráža v mnohých pasážach Koránu a slúži ako varovanie pre všetkých.",
+  "clues": [
+    "Bol som mocný vládca, ktorý veril, že v krajinách, ktorým vládol, žiadna autorita neprevyšuje tú moju.",
+    "Mal som dôveryhodného vezíra menom Haman, ktorý mi pomáhal realizovať veľkolepé architektonické projekty.",
+    "Zavolal som najlepších mágov svojej krajiny, aby spochybnili znamenia posla, ktorý sa mi postavil proti mne.",
+    "Odmietol som nechať odísť ľud zotročený v mojej ríši, napriek morom a jasným varovaniam.",
+    "Prenasledoval som ich cez rozľahlé more s celou svojou armádou a vozmi.",
+    "To isté more sa nado mnou a mojimi silami zovrelo a všetkých nás potopilo, zatiaľ čo oni bezpečne prešli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Faraón (Fir'awn)",
+        "Namrud",
+        "Abú Laháb",
+        "Háman",
+        "Abu Džahl"
+      ],
+      "answer": "Faraón (Fir'awn)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Mory a konfrontácia s Músom (Mojžišom)",
+        "Stavba korábu pred veľkou potopou",
+        "Bitka proti Jalutovi v údolí",
+        "Byť prehltnutý veľrybou",
+        "Obhajoba poctivých obchodných váh"
+      ],
+      "answer": "Mory a konfrontácia s Músom (Mojžišom)"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Vysoké veže a kolíky",
+        "Veľká drevená archa",
+        "Zlaté teľa",
+        "Palica, ktorá sa premenila na hada",
+        "Obrovská veľryba"
+      ],
+      "answer": "Vysoké veže a kolíky"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Utopený v mori s armádou",
+        "Zachránený Alahovým milosrdenstvom a trpezlivosť odmenená",
+        "Znovu sa stretli s rodinou po rokoch útrap",
+        "Pohltený zemou",
+        "Zhorený v ohni"
+      ],
+      "answer": "Utopený v mori s armádou"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

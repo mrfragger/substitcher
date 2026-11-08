@@ -1,0 +1,61 @@
+{
+  "title": "Der Prozess der heiligen Flamme",
+  "intro": "In einem uralten Land, in dem die Verehrung von Steinschnitzereien in jedem Haus tief verwurzelt war, ragte ein Mensch heraus. Dank unerschütterlicher Überzeugung und göttlichen Schutzes stellte er sich dem sicheren Tod – und überlebte unversehrt. Können Sie die Identität dieser außergewöhnlichen Seele aufdecken?",
+  "clues": [
+    "Ich bin unter Menschen aufgewachsen, die sich vor Götzenbildern verbeugten, die sie selbst geschnitzt hatten, weil sie glaubten, diese Objekte besäßen göttliche Kraft.",
+    "Als ich ihre Überzeugungen in Frage stellte, wiesen sie mich zunächst zurück, aber ich konnte die Wahrheit, die ich kannte, nicht länger verschweigen.",
+    "An einem Tag, als sie sich versammelt hatten, zerstörte ich ihre Götzenbilder und ließ nur das größte unberührt.",
+    "Als sie zurückkehrten und sahen, was ich getan hatte, befahlen ihre Anführer, einen großen Scheiterhaufen zu errichten, um mich in die Flammen zu werfen.",
+    "Sie warfen mich ins lodernde Feuer, aber der Herr der Welten befahl, dass es kühl und sicher für mich werden sollte.",
+    "Ich bin völlig unversehrt aus den Flammen hervorgegangen, während diejenigen, die sich gegen mich verschworen hatten, dem totalen Untergang geweiht waren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Isa",
+        "Prophet Yusuf"
+      ],
+      "answer": "Prophet Ibrahim"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "In ein loderndes Feuer geworfen werden",
+        "Von einem großen Wal verschluckt werden",
+        "Das Überleben einer großen Flut",
+        "In einen tiefen Brunnen geworfen werden",
+        "Die Konfrontation mit den Magiern des Königs"
+      ],
+      "answer": "In ein loderndes Feuer geworfen werden"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein gewaltiger Scheiterhaufen aus brennendem Holz",
+        "Eine große hölzerne Arche",
+        "Eine goldene Kalbsstatue",
+        "Ein schwimmender Korb auf einem Fluss",
+        "Ein prächtiger Thron"
+      ],
+      "answer": "Ein gewaltiger Scheiterhaufen aus brennendem Holz"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Allah hat das Feuer kühl und sicher gemacht.",
+        "Die Arche landete sicher auf einem Berg",
+        "Das goldene Götzenbild schmolz vor ihren Augen dahin.",
+        "Ein Tyrann und sein Heer ertranken im Meer",
+        "Einem Blinden wurde das Augenlicht wiedergegeben"
+      ],
+      "answer": "Allah hat das Feuer kühl und sicher gemacht."
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Az abszolút tekintély igénye",
+  "intro": "Az ókorban egy hatalmas személy került hatalomra egy hatalmas föld és lakói felett. Uralkodását mérhetetlen büszkeség és az isteni tekintéllyel szembeni mély kihívás jellemezte. Készülj fel egy lélek kilétének feltárására, akinek végső sorsa minden generáció számára maradandó tanulságul szolgál.",
+  "clues": [
+    "Egy hatalmas birodalom felett uralkodtam, ahol az én szavam volt a törvény.",
+    "Kiáltottam ki magam a legfőbb istenségnek, és mindenkitől, aki az uralmam alatt áll, imádatot követeltem.",
+    "Elnyomtam egy bizonyos közösséget, rabszolgasorba taszítottam őket, és elrendeltem a fiúgyermekeik megölését.",
+    "Többször is szembesültem Isten egy alázatos hírnökével, aki nyilvánvaló csodákat művelt előttem és mágusaim előtt.",
+    "Makacsul elutasítottam az igazságot, varázslattal vádolva a küldöttet, és azzal, hogy elpusztítom őt és követőit.",
+    "Engem és az egész seregemet elnyelte a tenger, miközben könyörtelenül üldöztük azokat, akiket kiszabadítottam a kezemből."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Nimród",
+        "Abu Dzsahl",
+        "Iblisz",
+        "Fir'awn",
+        "Hámán"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A nagy árvíz",
+        "Az égő tűz",
+        "Az elnyomó megfulladása",
+        "A szél pusztítása",
+        "A hitetlenség földrengése"
+      ],
+      "answer": "Az elnyomó megfulladása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Noé bárkája",
+        "Mózes botja",
+        "Az arany bálvány",
+        "A Zamzam kútja",
+        "Bilqis trónja"
+      ],
+      "answer": "Mózes botja"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hatalmas királyságot adományoztak",
+        "A test jelként megőrződött",
+        "Megbocsátva a bűnbánat után",
+        "Prófétai rangra emelve",
+        "Népe jámbor lett"
+      ],
+      "answer": "A test jelként megőrződött"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

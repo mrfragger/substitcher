@@ -1,0 +1,61 @@
+{
+  "title": "Y Llais a Heriodd Deyrnasiad Idol",
+  "intro": "Ymhlith negeswyr yr Hollalluog roedd gwas diysgog a gododd ymhlith cenedl ystyfnig i gyflwyno'r gwir. Roedd eu pobl wedi mabwysiadu duwdod ffug, gan droi cefn ar Greawdwr popeth sy'n bodoli. Gyda phenderfyniad diysgog, galwodd yr unigolyn hwn nhw'n ôl - ond cafodd y neges ei gwadu a'i gwrthod. Camwch drwy'r cliwiau i ddarganfod pwy oedd y gwas ymroddedig hwn.",
+  "clues": [
+    "Anfonwyd fi fel negesydd at bobl ystyfnig oedd wedi crwydro ymhell o'r llwybr syth.",
+    "Deuthum i atgoffa fy nghenedl o'r Un a greodd bopeth sy'n bodoli — y gorau o'r holl greawdwyr.",
+    "Roedd fy mhobl wedi troi at eilun ffug yr oeddent yn ei addoli ac yn galw arno ddydd a nos.",
+    "Heriais nhw’n feiddgar, gan ofyn pam y byddent yn addoli duwdod ffug ac yn cefnu ar eu Harglwydd gwir.",
+    "Fe wnaethon nhw fy ngwadu, gwrthod gwrando, a glynu wrth eu celwydd—eto fe’m cadwodd fy Arglwydd.",
+    "Ilyas ydw i — a rhoddwyd heddwch i mi, a chefais fy nghyfrif ymhlith gweision crediniol y Mwyaf Trugarog."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "y Proffwyd Ilyas",
+        "Y Proffwyd Idris",
+        "Proffwyd Alyasa",
+        "Proffwyd Dhul-Kifl",
+        "Proffwyd Nuh"
+      ],
+      "answer": "y Proffwyd Ilyas"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Galw pobl i ffwrdd o addoli Ba'al",
+        "Wynebu teyrn a honnodd ei fod yn dduw",
+        "Rhybuddio pobl am lifogydd sydd ar ddod",
+        "Cael eich taflu i dân mawr llachar",
+        "Arwain allfudiad o wlad y caethiwed"
+      ],
+      "answer": "Galw pobl i ffwrdd o addoli Ba'al"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr eilun o'r enw Ba'al",
+        "Arch fawr wedi'i hadeiladu o bren cadarn",
+        "Staff a holltodd fôr helaeth",
+        "Dillad cysegredig wedi'i staenio â gwaed",
+        "Llwyn yn llosgi ar fynydd sanctaidd"
+      ],
+      "answer": "Yr eilun o'r enw Ba'al"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i roi i heddwch a'i gyfrif ymhlith gweision dewisol Allah",
+        "Arweiniwyd i baradwys tra bod pawb arall wedi'u dinistrio",
+        "Achubwyd o dân mawr a ddaeth yn oer ac yn ddiogel",
+        "Wedi'i roi i oruchafiaeth dros jinn, dynoliaeth, a'r gwynt",
+        "Corff wedi'i gadw fel arwydd parhaol am oesoedd"
+      ],
+      "answer": "Wedi'i roi i heddwch a'i gyfrif ymhlith gweision dewisol Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

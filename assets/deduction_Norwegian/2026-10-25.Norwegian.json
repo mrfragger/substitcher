@@ -1,0 +1,61 @@
+{
+  "title": "Klagen hørt over støyen",
+  "intro": "Du hører en stemme som stiger opp fra et samfunn der undertrykkelse har blitt rutine. Ingen maktdemonstrasjon besvarer klagen; i stedet når en direkte appell Allah, og svaret treffer selve tilbedelsens hjerte. Hvem kom med den klagen, hvilket spørsmål fulgte, og hvilken sannhet ble bekreftet?",
+  "clues": [
+    "Jeg ble plaget av undertrykkelsen fra menneskene rundt meg.",
+    "Jeg uttrykte den klagen direkte til Allah i en personlig klage.",
+    "Allah hørte klagen og svarte med en utfordring angående min egen tro.",
+    "Svaret spurte hvordan jeg kunne unnlate å tro på Allah, som er Én og Høyeste.",
+    "Så spurte jeg hvorfor Allah skulle favorisere et folk som ikke trodde.",
+    "Jeg er Uzair, nevnt i Surah Az-Zukhruf som den hvis klage Allah hørte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Uzair",
+        "Ledsageren som seilte på den store flommen",
+        "Tjeneren som gikk på vannet",
+        "Sovende beskyttet inne i en hule",
+        "Tjeneren som brakte steiner til en elv"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Klager til Allah over undertrykkelsen av folket",
+        "Å gå på vann under en storm",
+        "Å bære steiner til en elv som manglet vann",
+        "Seiling gjennom en stor flom om bord på Arken",
+        "Motta nøkkelen til en enorm skatt"
+      ],
+      "answer": "Klager til Allah over undertrykkelsen av folket"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En direkte klage rettet til Allah",
+        "En stav som ble til en slange",
+        "En ovn gjort kjølig og fredelig",
+        "En ark som flyter over flomvannet",
+        "En fisk som svelger en tjener"
+      ],
+      "answer": "En direkte klage rettet til Allah"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Allah hørte klagen og bekreftet guddommelig enhet og øverste herredømme",
+        "Å gå trygt på vannet under en storm",
+        "Å krysse en stor flom trygt om bord på Arken",
+        "Gjenvinne synet i et palass av arroganse",
+        "Motta herredømme som strekker seg fra øst til vest"
+      ],
+      "answer": "Allah hørte klagen og bekreftet guddommelig enhet og øverste herredømme"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

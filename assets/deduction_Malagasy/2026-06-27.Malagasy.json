@@ -1,0 +1,61 @@
+{
+  "title": "Ny tsy fisiana masina",
+  "intro": "Ao ambadiky ny fasika amoron-dranomasina, dia misy tantara momba ny fanoloran-tena tsy azo hozongozonina sy ny fitokisana mavesatra izay mety ho rava ho an'ny fanahy mitondra izany. Tao anatin'ny fotoana iray izay nitodihan'ny olona tamin'ny hadalana sy ny volamena, dia nisy olona iray nijoro mafy orina—niantso azy ireo hiverina, niangavy faharetana, ary nitondra ny lanjan'ny fampanantenana masina. Ity no tantaran'ny olona iray izay nofidina ho mpanampy, ho vizier, ary ho mpiambina ny finoana nandritra ny tsy fisiana masina. Azonao fantarina ve ny mombamomba an'io fanahy mahatoky io?",
+  "clues": [
+    "Mizara ny ran'ny mpaminany lehibe iray izay nofidina hiresaka mivantana amin'i Allah eo amin'ny tendrombohitra masina aho.",
+    "Indray mandeha ny iray tampo amiko dia nitalaho tamin'i Allah mba hanampy ahy hiteny mazava tsara amin'ny mpampahory lehibe iray.",
+    "Nofidin'i Allah aho hijoro eo anilan'ny iray tampo amiko amin'ny maha-mpanampy sy vizier ahy.",
+    "Niara-niatrika mpitondra jadona izay nitaky ny hantsoina hoe andriamanitra ambony indrindra isika.",
+    "Raha niresaka tamin'i Allah teny an-tendrombohitra ny iray tampo amiko, dia nanamboatra sampy ho an'ny tenany tamin'ny volamenany ny olonay.",
+    "Rahalahin'i Mosesy aho, notendren'i Allah ho vizier-ny, ary voatonona anarana ao amin'ny CORAN."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Harona (Aarona)",
+        "Mpaminany Musa",
+        "Mpaminany Davida",
+        "Mpaminany Jakoba",
+        "Mpaminany Isaka"
+      ],
+      "answer": "Mpaminany Harona (Aarona)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny Olana Momba ny Fivavahana tamin'ny Zanak'omby",
+        "Ny Safodrano Lehibe tamin'ny andron'i Noa",
+        "Ny Adin'i Badr",
+        "Ny Faharavan'ny Thamoud",
+        "Ny Fandringanana an'i Sodoma"
+      ],
+      "answer": "Ny Olana Momba ny Fivavahana tamin'ny Zanak'omby"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ilay Ombilahy Kely Volamena",
+        "Sambofiaran'i Noa",
+        "Ny kirihitra mirehitra",
+        "Ny Lava-bato Hira",
+        "Ny Seza Fiandrianan'i Sheba"
+      ],
+      "answer": "Ilay Ombilahy Kely Volamena"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nohamafisin'i Allah ny tsy fananan-tsiny",
+        "Fahafatesan'i Farao",
+        "Ny Fanorenana ny Kaaba",
+        "Fiampitana an-dranomasina azo antoka",
+        "Fiakarana any an-danitra"
+      ],
+      "answer": "Nohamafisin'i Allah ny tsy fananan-tsiny"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

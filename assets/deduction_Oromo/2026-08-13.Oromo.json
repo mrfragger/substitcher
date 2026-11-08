@@ -1,0 +1,61 @@
+{
+  "title": "Lubbuu Obsaan Mana Qulqulluu",
+  "intro": "Fuula Qur’aana keessatti fakkiin tokko hidda dhaloota nabiyyii guddaa, dulluma keessatti akka kennaatti kenname keessaa ba’a. Lubbuun kun dhugaa hin sochoonee fi bakka qulqulluu ibsaa amantii ta’u hundeessuuf gahee gadi fagoo qabaachuu isheetiin kabajamti. Yeroo ragaalee dubbistu, sagalee yeroo darbee sirriitti dhaggeeffadhu, sababiin isaas inni nama jalqabaatiin waan dubbatuuf.",
+  "clues": [
+    "Ani Qur'aana keessatti nabiyyii biraa cinatti akka kennaa ergamaa maanguddoo tokkoof kennameetti eerameera.",
+    "Sanyii lama raajicha sanaaf waggoota boodaatti kennaman keessaa tokko ture.",
+    "Jecha kootiif dhugaa ta'uu kootiin Qur'aana keessatti faarfama.",
+    "Kabaja nabiyyummaa baadhadhee ergamaa ta'ee ergame.",
+    "Bu’uura Mana Qulqulluu kaasuun abbaa kootti makame.",
+    "Namoota obsa qaban keessaa tokko ta’ee kan yaadatamu yoo ta’u, manni qulqulluun nuti ijaarre bakka deebi’uu fi nageenya namootaa ta’e."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Ismaa'el",
+        "Nabi Ishaaq",
+        "Nabi Yaqub",
+        "Nabi Zakaariyaa",
+        "Nabi Yahyaa"
+      ],
+      "answer": "Nabi Ismaa'el"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ibraahim waliin bu'uura Kaabaa ol kaasuu",
+        "Ibiddatti darbatamuu",
+        "Qurxummii galaanaatiin liqimfamuu",
+        "Israa’eloota Gibxii keessaa baasuu",
+        "Taabotaa ijaaruu"
+      ],
+      "answer": "Ibraahim waliin bu'uura Kaabaa ol kaasuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Kaabaa",
+        "Tulluu Siinaa",
+        "Galaana Diimaa",
+        "Re'ee Warqee",
+        "Iddoo dhaabaa Eden"
+      ],
+      "answer": "Kaabaa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Dhukkubsataa keessaa lakkaa'ame",
+        "Warra badii hojjetan keessaa lakkaa'ama",
+        "Falfaltoota keessaa lakkaa'ame",
+        "Kaafiroota keessaa lakkaa’ame",
+        "Fakkeessitoota keessaa lakkaa'ame"
+      ],
+      "answer": "Dhukkubsataa keessaa lakkaa'ame"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

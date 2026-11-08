@@ -1,0 +1,61 @@
+{
+  "title": "Te Torona i Haere i te Wā Poto",
+  "intro": "I te putanga mai o tētahi wero ohorere, ka tū te rangatira nei ki tētahi whakamātautau, ehara i te hoari, engari ki te whakaaro nui me te whakapono. Ko te mea ka puta, ka ārahi i a ia mai i te tihi o te mana o te ao ki tētahi huringa nui o te ngākau.",
+  "clues": [
+    "I whakahaere ahau i tētahi kingitanga i manaakitia ki te taonga me te angitu i tua atu i te whakaaro",
+    "He kuīni mana nui ahau i whiwhi reta maia e tono ana kia ngohengohe",
+    "I tohutohu mai aku rangatira mō te whawhai, te hohou rānei i te rongo ki tēnei kingi i tawhiti.",
+    "I haere atu ahau me ngā taonga whakahīhī ki te tūtaki ki tēnei kīngi tawhiti",
+    "I kawea mai tōku torona kingi ki tētahi whenua tawhiti i roto i te kimo o te kanohi, i mua i taku hokinga mai",
+    "I taku taenga ki tētahi whare rangatira he maeneene te papa, pērā i te karāhe, ka whakapuaki ahau i taku ngohengohe ki a Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Bilqis, Kuini o Sheba",
+        "Te Wahine a Parao",
+        "Te Wahine a Al-Aziz",
+        "Meriama, te tamahine a Imrana",
+        "Te Wahine a te Poropiti a Ruta"
+      ],
+      "answer": "Bilqis, Kuini o Sheba"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whiwhi reta māia e tono ana kia tukuna",
+        "Te maka ki roto i te ahi mura",
+        "Te horomia e te ika nui",
+        "Ngā tau e mau tonu ana i te mate mamae",
+        "Te kitenga i te whakangaromanga o tētahi iwi i te waipuke"
+      ],
+      "answer": "Te whiwhi reta māia e tono ana kia tukuna"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He torona kingi whakahīhī i hangaia ki te koura me ngā kohatu utu nui",
+        "He tokotoko i wehe i te moana",
+        "He āka e takoto ana i runga i te maunga",
+        "He whare karakia tapu i Makkah",
+        "He kuao kau koura e karakiatia ana e te iwi"
+      ],
+      "answer": "He torona kingi whakahīhī i hangaia ki te koura me ngā kohatu utu nui"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te ngohengohe ki a Allah me te poropiti",
+        "Te toremitanga i te moana i a ia e whaia ana te hoariri",
+        "Te whakaoranga whakamiharo mai i te ahi mura",
+        "Te peinga atu i te māra o te harikoa mutunga kore",
+        "Te whiwhi i tētahi rangatiratanga mana nui"
+      ],
+      "answer": "Te ngohengohe ki a Allah me te poropiti"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

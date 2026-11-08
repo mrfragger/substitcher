@@ -1,0 +1,60 @@
+{
+  "title": "Procesul de sub valuri",
+  "intro": "Un profet, împovărat de misiunea sa, a luat o decizie care l-a condus departe de poporul său și într-o încercare neașteptată. Călătoria sa a luat o întorsătură dramatică, testându-i credința și răbdarea în cel mai profund mod. Poți deduce detaliile acestui eveniment extraordinar din indiciile oferite?",
+  "clues": [
+    "Un profet a fost trimis unui popor, dar a plecat în grabă, simțind frustrare din cauza respingerii acestuia.",
+    "Călătoria sa l-a dus la mare, unde s-a îmbarcat pe o corabie puternic încărcată în căutarea unei traversări.",
+    "O furtună puternică s-a stârnit, amenințând corabia, și s-a luat hotărârea, prin tragere la sorți, de a arunca o persoană peste bord pentru a ușura încărcătura.",
+    "A fost înghițit de o creatură a adâncurilor, un eveniment miraculos decretat de voința divină.",
+    "În interiorul pântecelui creaturii, el L-a chemat pe Domnul său, pocăindu-se și glorificându-L pe Allah în întuneric.",
+    "După o perioadă de implorări intense, a fost aruncat pe un țărm sterp, slab, dar viu, iar mai târziu s-a întors și a descoperit că poporul său crezuse în sfârșit."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profet/Persoană",
+      "options": [
+        "Profetul Nuh",
+        "Profetul Lut",
+        "Profetul Musa",
+        "Profetul Yunus",
+        "Profetul Yusuf"
+      ],
+      "answer": "Profetul Yunus"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Potopul lui Nuh",
+        "Distrugerea Sodomei",
+        "Călătoria în burta marelui pește",
+        "Despărțirea mării",
+        "Revelația rugului aprins"
+      ],
+      "answer": "Călătoria în burta marelui pește"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Arca",
+        "Muntele Sinai",
+        "Toiagul lui Musa",
+        "Marele Pește",
+        "Fântâna lui Yusuf"
+      ],
+      "answer": "Marele Pește"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Un nou legământ cu omenirea",
+        "O naștere miraculoasă pentru poporul său",
+        "Un regat stabilit pentru linia sa de origine",
+        "O întoarcere la poporul său care atunci credea",
+        "O victorie asupra unui conducător tiranic"
+      ],
+      "answer": "O întoarcere la poporul său care atunci credea"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

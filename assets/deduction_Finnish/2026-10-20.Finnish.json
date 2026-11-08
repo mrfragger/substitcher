@@ -1,0 +1,61 @@
+{
+  "title": "Väärän kunnianhimon arkkitehti",
+  "intro": "Muinaisessa Egyptissä eräs historian pahamaineisimmista tyranneista palveli aikoinaan suurta auktoriteettia omaava henkilö. Tälle henkilölle uskottiin rohkea käsky – rakentaa rakennelma, jonka tarkoituksena olisi uhmata taivaita. Heidän tarinansa on Koraanissa silmiinpistävä opetus siitä, kuinka sokea tottelevaisuus ylimielisyydelle johtaa vain tuhoon.",
+  "clues": [
+    "Palvelin mahtavan hallitsijan hovissa, joka väitti olevansa jumaluuden herra mailla.",
+    "Toimin korkeassa ministerinvirassa ja neuvoin aikani ylimielisintä tyrannia.",
+    "Hallitsijani oli uppoutunut Mooseksen Jumalan haastamiseen, jota he kieltäytyivät tunnustamasta.",
+    "Minua käskettiin rakentamaan tulessa poltetuista tiilistä torni, jotta hallitsijani voisi nousta taivaisiin.",
+    "Torni ei koskaan yltänyt taivaisiin, ja ylimielisyyden orjuuteni toi minulle ikuisen häpeän.",
+    "Minä tuhouduin sen kanssa, jota seurasin, ja nimeni tuli ikuiseksi varoitukseksi niitä vastaan, jotka mahdollistavat tyranneja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Haman",
+        "Azar (Ibrahimin isä)",
+        "Illyas (profeetta)",
+        "Dhu al-Kifl",
+        "Harut (yksi Babylonin kahdesta enkelistä)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Käskettiin rakentamaan korkea rakennelma taivaisiin yltämään",
+        "Pyydettiin tulkitsemaan jumalalta lähetetty uni",
+        "Heitetty roihuavaan tuleen uskon koetukseksi",
+        "Pakotettu valitsemaan valtaistuimen ja totuuden välillä",
+        "Haastettu noitakilpailussa"
+      ],
+      "answer": "Käskettiin rakentamaan korkea rakennelma taivaisiin yltämään"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Tulessa poltettujen tiilien torni",
+        "Sauva, joka muuttui käärmeeksi",
+        "Laiva purjehtii suuren tulvan läpi",
+        "Korkeiden muurien ympäröimä puutarha",
+        "Rubiineilla ja kullalla koristeltu valtaistuin"
+      ],
+      "answer": "Tulessa poltettujen tiilien torni"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hukkui sortajan rinnalle mereen",
+        "Tuli laajojen maiden mahtavaksi monarkiksi",
+        "Selvisi roihuavasta tulipalosta vahingoittumattomana",
+        "Rakensi vauraan viisauden valtakunnan",
+        "Yhdistettiin perheen kanssa vuosien maanpaon jälkeen"
+      ],
+      "answer": "Hukkui sortajan rinnalle mereen"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

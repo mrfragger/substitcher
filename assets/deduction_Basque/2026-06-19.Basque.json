@@ -1,0 +1,61 @@
+{
+  "title": "Arima Iraunkorraren Proba",
+  "intro": "Arima bat jainkozko probaren une batean dago, apaltasunez eta irmotasunez gidaritza bilatzen. Dena dakienak bilatzaile hau uxatzen du, geroago bihotzaren proba bat izan zela agerian uzteko. Elkarrizketa misteriotsu honen bidez, jainkozko jakinduriari buruzko ikasgai bat zabaltzen da hausnartzen dutenen aurrean. Identifika al dezakezu figura hau Koranaren kontakizunetik?",
+  "clues": [
+    "Alaren mezulari maitearengandik ezagutza eta gidaritza bilatu nituen",
+    "Egiaren bila etorri nintzen, Profetari dei eginez irrika biziz",
+    "Errieta egin eta alde egin ninduten, Alaren jakinduriak beste plan batzuk baitzituen une horretarako.",
+    "Hala ere, ez nintzen etsi; horren ordez, aurrera jarraitu nuen nire bilaketan",
+    "Dena dakienak bihotzaren proba eta abisu bat zela adierazi zuen hau",
+    "Koranak honela dioenen artean nengoen: «Bekainak zimurtu eta alde egin zuen, itsua etorri baitzitzaion»."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Zalantza bilatzen duen hipokrita",
+        "Egiaren bilatzaile itsua",
+        "Mekako idolo-gurtzailea",
+        "Profetaz iseka egiten duen sinesgabea",
+        "Yemengo bidaiaria"
+      ],
+      "answer": "Egiaren bilatzaile itsua"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Otoitzean zehar Mahoma profetak errieta egitea",
+        "Mekan lehorte eta gosetearekin probatzen ari dira",
+        "Paradisuko ateetan baztertua izatea",
+        "Norberaren herriak fedeagatik baztertua izatea",
+        "Aberastasunarekin eta seme-alabekin probatua izatea"
+      ],
+      "answer": "Otoitzean zehar Mahoma profetak errieta egitea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Kaaba barruan erromesaldi garaian",
+        "Profetaren aurrean errezitazioan zehar",
+        "Safa mendiaren gainean, goizeko orduetan",
+        "Mekako merkatuan, sinesgabez inguratuta",
+        "Hajj-ean Zamzam putzuaren ondoan"
+      ],
+      "answer": "Profetaren aurrean errezitazioan zehar"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bilatzailea Qurayshek fedeagatik martirizatu zuten",
+        "Gertakaria Ummah-rentzako epaiketa eta ikasgai gisa erregistratu zen",
+        "Bilatzailea lagun eta lider bihurtu zen",
+        "Bilatzailearen aberastasuna hamar aldiz biderkatu zen",
+        "Bilatzailea sinesgaitzera itzuli zen"
+      ],
+      "answer": "Gertakaria Ummah-rentzako epaiketa eta ikasgai gisa erregistratu zen"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

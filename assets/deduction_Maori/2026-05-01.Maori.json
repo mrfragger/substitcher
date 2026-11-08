@@ -1,0 +1,61 @@
+{
+  "title": "Te Torona o te Pono",
+  "intro": "Ka whiwhi tētahi rangatira mana nui, e mōhiotia ana mō tōna whakaaro nui me tōna torona whakahīhī, i tētahi karere ngaro mai i tētahi pūtake ngaro. Ka werohia ō rātou whakapono me tō rātou mana e tēnei whakawhitiwhiti kōrero ohorere, ka whakatakoto i a rātou ki tētahi haerenga tōrangapū hei whakamātautau i ō rātou hinengaro, ā, hei te mutunga ka arahi atu ki tētahi ara wairua hohonu. Ka taea e koe te hura i te tuakiri o tēnei ariki me ngā kaupapa i whakarerekē i tō rātou kingitanga katoa?",
+  "clues": [
+    "I karakia mātou ko tōku iwi ki te rā, i te whai i ngā tikanga a ō mātou tūpuna.",
+    "He manu, he hūpī, te karere kāore i te tino tūmanakohia i kawe mai i tētahi reta ki ahau i tētahi rangatira whai mana.",
+    "Hei whakamātautau i te whakaaro nui o te kaituku, i tukuna atu e au ētahi taonga utu nui, engari i whakahokia mai, nā te mea he nui rawa atu te taonga a te kaituku mai i a Allah.",
+    "I mua i taku taenga atu ki te marae o te kaituku, i tere tonu te kawe whakamiharotia o taku torona whakahīhī ki reira.",
+    "I taku taenga atu, ka pātaihia mai mēnā nōku te torona i haria atu, ā, ka whakahoki ahau, 'Me te mea koia tonu.'",
+    "I tomo ahau ki tētahi whare nui, he papa tōna i whakaaro ahau he puna wai, ā, i taua wā o te miharo, ka tuku ahau i ahau i te taha o te Poropiti a Sulaiman ki a Allah, te Ariki o ngā ao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Kuīni o Sheba",
+        "Zulaikha (Wahine a Al-Aziz)",
+        "Āsiya (Wahine a Parao)",
+        "Te Whaea o Musa",
+        "Meriama (Whaea o Īha)"
+      ],
+      "answer": "Te Kuīni o Sheba"
+    },
+    "trial": {
+      "label": "Te Takahanga Matua",
+      "options": [
+        "Te whiwhinga reta mai i te Poropiti a Sulaimana",
+        "Te maka ki roto i te ahi",
+        "Te hanga i tētahi āka hei oranga mō te waipuke",
+        "Te Wehewehe i te Moana Whero",
+        "Te whakapae mō te whanoke"
+      ],
+      "answer": "Te whiwhinga reta mai i te Poropiti a Sulaimana"
+    },
+    "location": {
+      "label": "Te Mea Matua",
+      "options": [
+        "He torona whakahīhī",
+        "He kuao kau koura",
+        "He koti maha ngā tae",
+        "He tokotoko i huri hei nakahi",
+        "He kaipuke i hangaia ki ngā papa me ngā whao"
+      ],
+      "answer": "He torona whakahīhī"
+    },
+    "outcome": {
+      "label": "Te Huanga Whakamutunga",
+      "options": [
+        "Te tuku i a koe ki te Atua pono kotahi (Allah)",
+        "Te hurihanga hei pou tote",
+        "Te hanga i tētahi pourewa teitei hei whakatata atu ki te Atua",
+        "Te horomia e te ika nui",
+        "Te ngaronga o te taonga nui hei whiu"
+      ],
+      "answer": "Te tuku i a koe ki te Atua pono kotahi (Allah)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

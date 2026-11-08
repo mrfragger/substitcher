@@ -1,0 +1,61 @@
+{
+  "title": "Ko te wairua i tukua o te mura tapu",
+  "intro": "Kei mua i a koe tētahi kōrero mō te maia whakaharahara, i reira tētahi tangata i maia ai ki te wero i ngā whakapono tino pūmau o tētahi ao whānui. Whaia ēnei kōrero hāhā o mua, ā, ka hurahia e koe tētahi oranga kua tohua ki te whakapono pakari, te oranga whakamiharo, me te whakatakoto i ngā turanga hei hanga i te haerenga wairua o te tini miriona. Tātarihia marietia ia tohu - kei te maumahara tonu te ahi tapu.",
+  "clues": [
+    "I whānau mai ahau i roto i tētahi whānau e karakia ana ki ngā mea o te rangi, ki ngā whakapakoko whakairo, heoi i roto i ahau i whakakahoretia ai ngā mea i karakiatia e rātou.",
+    "I tū atu ahau ki te aroaro o te rangatira nui rawa o tōku whenua, i wawahi i ngā whakapakoko i piko atu ai tōku iwi, me te kī anō ko te Kaihanga o ngā rangi anake e tika ana kia koropikohia.",
+    "I tonoa he tahunga ahi e mura ana i runga i tōku ingoa, engari i kauwhau ahau mā te Tangata e mahi ana ahau ko ia anake hei whakaora i ahau — ā, i whakahaua kia whakamatao, kia haumaru hoki ngā mura.",
+    "I mahue iho i ahau ngā mea katoa i mōhiotia e au i runga i te whakahau a te Atua, i a au e kopikopiko ana i roto i ngā awaawa maroke me tōku whānau, e whakawhirinaki ana ki tētahi kai kāore anō kia kitea e au.",
+    "I a māua e tū ana i te taha o taku tama matamua i roto i te awaawa pakoko, ka whakaarahia ngātahitia e māua te turanga o te whare tapu, he wāhi tapu i whakaritea mō te hunga katoa e ngohengohe ana.",
+    "E mōhiotia ana ahau ko Khalilullah — te hoa piripono o te Atua Aroha — ā, i honoa tonutia tōku ingoa ki te whakapono o te tuku me te ngākau ngohengohe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Āperahama (Aperahama)",
+        "Poropiti a Mohi (Mōhi)",
+        "Poropiti a Noa (Noa)",
+        "Poropiti a Ihaia (Ihu)",
+        "Poropiti Muhammad ﷺ"
+      ],
+      "answer": "Poropiti a Āperahama (Aperahama)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te maka ki roto i te ahi mura e te kaitukino",
+        "Te horomia i roto i te ika nui i te moana",
+        "Te tukunga iho ki roto i te poka e ngā tuakana hae",
+        "Te haria ki runga i tētahi mea whai parirau",
+        "Te manawanui i te waipuke nui i roto i te oko rakau"
+      ],
+      "answer": "Te maka ki roto i te ahi mura e te kaitukino"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Whare Tapu (Kaaba)",
+        "He waka rakau nui i hangaia ki runga i te maunga",
+        "He tokotoko e taea ai te wāhi i te moana",
+        "He ana moe roa me te kurī pono",
+        "He pukapuka o te ture i whakakitea i tukuna ki runga i te maunga"
+      ],
+      "answer": "Te Whare Tapu (Kaaba)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I mōhiotia ia ko Khalilullah, te hoa piripono o Allah",
+        "I ārahi i tētahi iwi i te moana kua wehea ki te haumaru",
+        "I whakawhiwhia ki te mana whakahaere i ngā hau me ngā mana kāore i kitea",
+        "I riro hei kaiwhakaora i manaakitia ki ngā rongoā whakamiharo",
+        "I whakakotahi i ngā iwi tekau mā rua kua marara i raro i te kawenata kotahi"
+      ],
+      "answer": "I mōhiotia ia ko Khalilullah, te hoa piripono o Allah"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

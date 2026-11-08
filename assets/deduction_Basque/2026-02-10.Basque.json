@@ -1,0 +1,60 @@
+{
+  "title": "Aroen Loaldia",
+  "intro": "Denboran zehar bidaia bati ekiteko zorian zaude, fedearen eta jainkozko boterearen misterio sakon batekin topo eginez. Imajinatu gizartearen arauak hausten dituzten eta politeismoaren mundu batean monoteismoari eusten dioten pertsona talde bat. Haien istorioa Alak bere zerbitzari zuzenak modu apartekoetan babesteko duen gaitasunaren lekuko da. Argitu al dezakezu pertsonaia bikain hauen nortasuna?",
+  "clues": [
+    "Jainko bakarrean sinesten genuen gazte talde txiki bat ginen, gure herriaren politeismoa zabalduta egon arren.",
+    "Jazarpenaren eta heriotzaren beldurrez, gure fedeagatik mehatxatzen gintuen agintari tirano batetik ihesi joan ginen.",
+    "Leku bakartu batean bilatu genuen babesa, Alaren errukiaren eta gure zapaltzaileen aurkako babesaren esperantzan.",
+    "Gure Jaunak lo sakon batean erorarazi gintuen, denboraren joan-etorriari aurre egin zion loaldi miragarri batean.",
+    "Esnatzean, egun bat edo egun baten zati bat bakarrik atseden hartu genuela uste genuen, benetan igarotako denbora luzeaz jabetu gabe.",
+    "Koranak aipatzen du hirurehun urtez egon ginela gure estatuan, eta bederatzi urtez gainditu genuela, gizateriarentzat seinale bihurtuz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Lubakiko jendea",
+        "Thamudeko jendea",
+        "Kobazuloko jendea",
+        "Madyango jendea.",
+        "Elefantearen Lagunak."
+      ],
+      "answer": "Kobazuloko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde handi bati aurre eginez",
+        "Lurrak irentsita egotea.",
+        "Loaldi miragarri luzea",
+        "Haien hiriaren suntsipena.",
+        "Itsasoaren zatiketa."
+      ],
+      "answer": "Loaldi miragarri luzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Sasi erretzen ari den bat",
+        "Mendi bat",
+        "Txalupa bat",
+        "Kobazulo bat",
+        "Putzu bat"
+      ],
+      "answer": "Kobazulo bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Aberastasun eta botere izugarria eman zitzaien",
+        "Tximino eta txerri bihurtu ziren",
+        "Lotik esnatu ziren seinale sakon gisa",
+        "Uholde handi batean ito ziren",
+        "Erresuma bikaina eraiki zuten"
+      ],
+      "answer": "Lotik esnatu ziren seinale sakon gisa"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

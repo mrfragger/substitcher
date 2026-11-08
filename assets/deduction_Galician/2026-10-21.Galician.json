@@ -1,0 +1,61 @@
+{
+  "title": "O mensaxeiro que se enfrontou aos idólatras",
+  "intro": "Nun tempo no que a devoción se desviara, un mensaxeiro levantouse cun chamamento para volver á adoración do Señor dos mundos. Esta figura mantívose firme contra un pobo atrincheirado na adoración dunha falsa deidade, lembrándolles o seu verdadeiro Creador e o Señor dos seus antepasados. Con todo, o pobo foi descoidado e rexeitou a advertencia, selando o seu propio destino. Quen era este invocador inquebrantable?",
+  "clues": [
+    "Enviáronme a un pobo que se afastara do camiño do Único Deus Verdadeiro.",
+    "Pregunteille ao meu pobo: \"Non temeredes a Alá?\"",
+    "Chameinos para que abandonasen a súa adoración a unha falsa deidade chamada Baal.",
+    "O meu pobo rexeitou a miña chamada e persistiu na súa idolatría.",
+    "Por mor da súa negación, seguramente serán traídos para ser castigados.",
+    "O meu Señor concedeume paz e unha bendita lembranza entre as xeracións posteriores."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Ilyas",
+        "Profeta Yahya",
+        "Profeta Dhul-Kifl",
+        "Profeta Yusuf",
+        "Profeta Shu'ayb"
+      ],
+      "answer": "Profeta Ilyas"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Chamou ao seu pobo a abandonar a Baal",
+        "Construíu unha arca para salvar os crentes",
+        "Foi lanzado a un lume",
+        "Fuxiu do tirano faraón",
+        "Golpeou unha rocha para que brotase auga"
+      ],
+      "answer": "Chamou ao seu pobo a abandonar a Baal"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Concedéronlle paz e unha bendita lembranza",
+        "Tragado pola terra",
+        "Destruído por unha violenta tormenta",
+        "Converteuse nunha pedra",
+        "Afogado no mar"
+      ],
+      "answer": "Concedéronlle paz e unha bendita lembranza"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

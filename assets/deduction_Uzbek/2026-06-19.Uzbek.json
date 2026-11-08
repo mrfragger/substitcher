@@ -1,0 +1,61 @@
+{
+  "title": "Doimiy ruhning sinovi",
+  "intro": "Bir ruh ilohiy sinov paytida turib, kamtarlik bilan yo'l-yo'riq izlaydi. Hamma narsani biluvchi Zot bu izlovchini qaytaradi, ammo keyinchalik bu qalb sinovi ekanligini ochib beradi. Bu sirli suhbat orqali tafakkur qiluvchilar oldida ilohiy donolik haqida saboq ochiladi. Qur'on rivoyatlaridan bu shaxsni aniqlay olasizmi?",
+  "clues": [
+    "Men Allohning sevimli elchisidan ilm va yo'l-yo'riq so'radim",
+    "Men haqiqatni izlab keldim, Payg'ambarga chin dildan iltijo qildim",
+    "Men tanbeh oldim va rad etdim, chunki Allohning donoligining o'sha paytda boshqa rejalari bor edi.",
+    "Shunga qaramay, men umidsizlikka tushmadim - aksincha, izlanishda oldinga intildim",
+    "Hamma narsani biluvchi Zot buni qalb sinovi va ogohlantirish deb e'lon qildi",
+    "Men Qur'onda vahiy qilinganlardan biri edim: \"Uning oldiga ko'r odam kelgani uchun u qovog'ini soldi va yuz o'girdi\"."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Shubha izlayotgan ikkiyuzlamachi",
+        "Haqiqatning ko'r izlovchisi",
+        "Makkaning butparast kishisi",
+        "Kofir Payg'ambarni masxara qilmoqda",
+        "Yamanlik sayohatchi"
+      ],
+      "answer": "Haqiqatning ko'r izlovchisi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Namoz paytida Muhammad payg'ambar tomonidan tanbeh olish",
+        "Makkada qurg'oqchilik va ocharchilik bilan sinovdan o'tmoqda",
+        "Jannat darvozalarida rad etilish",
+        "O'z xalqi tomonidan imon uchun rad etilish",
+        "Mol-mulk va farzandlar bilan sinovdan o'tilmoqda"
+      ],
+      "answer": "Namoz paytida Muhammad payg'ambar tomonidan tanbeh olish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Haj mavsumida Ka'ba ichida",
+        "Qiroat paytida Payg'ambarning huzurida",
+        "Ertalabki soatlarda Safo tog'ining tepasida",
+        "Makka bozorida kofirlar qurshovida",
+        "Haj paytida Zamzam qudug'i yonida"
+      ],
+      "answer": "Qiroat paytida Payg'ambarning huzurida"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Tolib Quraysh tomonidan iymon uchun shahid qilindi",
+        "Bu voqea Ummat uchun sinov va saboq sifatida qayd etildi.",
+        "Izlovchi hamroh va yetakchiga aylandi",
+        "Qidiruvchining boyligi o'n barobar ko'paytirildi",
+        "Izlovchi ishonchsizlikka qaytdi"
+      ],
+      "answer": "Bu voqea Ummat uchun sinov va saboq sifatida qayd etildi."
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

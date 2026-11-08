@@ -1,0 +1,61 @@
+{
+  "title": "Niezachwiany Wzywający do Prawdy",
+  "intro": "Posłaniec stoi samotnie pośród upartego ludu, wzywając go ku Jedynemu Prawdziwemu Bogu, podczas gdy ten pozostaje przywiązany do fałszywych bożków. Ten prorok nosi imię, które rozbrzmiewa potężnym echem – „ten, który szuka ochrony” – a spotyka się jedynie z odrzuceniem i zaprzeczeniem. Poprzez łagodną perswazję i stanowcze ostrzeżenie, dusza ta niesie boskie przesłanie, które ostatecznie zostanie zrehabilitowane przez sam wszechświat. Czy potrafisz zidentyfikować tę niezłomną postać, która reprezentuje jedną z najstarszych narracji w pismach islamskich?",
+  "clues": [
+    "Mój lud oddawał cześć wielu bóstwom, a ja wezwałem ich do służby Temu, który stworzył niebo i ziemię.",
+    "Stanąłem przed moim narodem i oświadczyłem, że nie będę od nich oczekiwał żadnej nagrody – moim jedynym pragnieniem jest ich prowadzenie ku prawości.",
+    "Na mój lud zesłany został potężny wiatr jako kara boska, wiatr, o którym Koran mówi zarówno w formie liczby mnogiej, jak i żeńskiej.",
+    "W przeciwieństwie do niektórych proroków nie otrzymałem żony ani dzieci, o których w mojej historii wspomina się szczególnie, gdyż moją misją było zwoływanie samego ludu.",
+    "Moje imię ma głębokie znaczenie – wiąże się z ideą ochrony i schronienia, których człowiek szuka.",
+    "Mój lud był znany pod określoną nazwą geograficzną, która określała dolinę, którą zamieszkiwali, a ich ziemię opisywano ze szczególną pogardą z powodu braku roślinności."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Salih",
+        "Prorok Szu’ajb",
+        "Prorok Noh",
+        "Prorok Hudayb"
+      ],
+      "answer": "Prorok Hud"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Potop ziemi",
+        "Palący wiatr",
+        "Trzęsienie ziemi zniszczenia",
+        "Susza i głód",
+        "Utonięcie w morzu"
+      ],
+      "answer": "Palący wiatr"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Żyzna dolina Jemenu",
+        "Piaskowa pustynia Midian",
+        "Skalista dolina Thamud",
+        "Starożytna kraina ludzi „Ad”",
+        "Region przybrzeżny Egiptu"
+      ],
+      "answer": "Starożytna kraina ludzi „Ad”"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Mój lud pokutował i wszedł do raju",
+        "Nikt z mojego ludu nie przeżył kary",
+        "Zostałem zabrany żywy, tak jak mój brat Yunus",
+        "Wyemigrowałem ze swoimi zwolennikami do błogosławionej krainy",
+        "Wiatr zniszczył tylko niewierzących, podczas gdy wierzący przeżyli"
+      ],
+      "answer": "Nikt z mojego ludu nie przeżył kary"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

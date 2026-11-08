@@ -1,0 +1,61 @@
+{
+  "title": "O Escoteiro Emplumado",
+  "intro": "Em um reino governado por alguém com domínio sobre os ventos, os seres invisíveis e as criaturas do céu, um membro pequeno e ágil desapareceu das fileiras — apenas para retornar com revelações que mudariam o destino de uma nação distante. Esse informante de olhar perspicaz trouxe a verdade à luz onde a ignorância havia se enraizado. Quem sou eu?",
+  "clues": [
+    "Eu servi em uma corte onde humanos, seres invisíveis e criaturas do céu respondiam a um único governante sábio que comandava os próprios ventos.",
+    "Estive ausente do meu posto por um período, e a ira do governante foi prometida caso eu não apresentasse uma justificativa satisfatória.",
+    "Sou uma pequena criatura voadora, conhecida pela minha visão aguçada, e a minha espécie foi honrada com a menção direta nos livros de revelação.",
+    "Quando voltei, trouxe notícias de uma terra distante onde as pessoas se prostravam diante do sol, cegas para Aquele que criou os céus e a terra.",
+    "Encontrei uma mulher governando um grande reino, sentada em um trono magnífico, sem jamais ter conhecido a verdade antes.",
+    "Eu sou aquele que descobriu o reino de Sabá e trouxe uma carta-convite de um rei-profeta que recebeu domínio sobre o vento."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A poupa (Hudhud)",
+        "A Formiga do Vale de Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit, o Gênio",
+        "Um Anjo do Trono"
+      ],
+      "answer": "A poupa (Hudhud)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A expedição ao Reino de Sabá (Sheba)",
+        "O confronto com os feiticeiros do Faraó",
+        "O dilúvio do profeta Noé",
+        "A destruição do povo de 'Ad",
+        "A divisão do Mar Vermelho"
+      ],
+      "answer": "A expedição ao Reino de Sabá (Sheba)"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Terra de Sabá (Sheba)",
+        "Monte Sinai",
+        "A Arca do Profeta Noé",
+        "A caverna de Ashab al-Kahf",
+        "O Palácio do Faraó"
+      ],
+      "answer": "A Terra de Sabá (Sheba)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Bilqis submeteu-se ao tribunal de Sulaiman.",
+        "Faraó e seu exército se afogaram no mar.",
+        "O povo de 'Ad foi destruído por um vento violento.",
+        "Os feiticeiros do faraó acreditavam no profeta Moisés.",
+        "Uma grande inundação consumiu os incrédulos."
+      ],
+      "answer": "Bilqis submeteu-se ao tribunal de Sulaiman."
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

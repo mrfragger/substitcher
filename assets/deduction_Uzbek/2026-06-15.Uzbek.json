@@ -1,0 +1,61 @@
+{
+  "title": "Shamol va olov hukmronligi",
+  "intro": "Shamolning o'zi bitta hukmdorga javob beradigan, eng kichik jonzotlarning ovozlari og'irlik ko'taradigan va oddiy ko'zga ko'rinmas kuchlar ehtiyotkorlik bilan xizmat qiladigan hukmronlikni tasavvur qiling. Bu shaxs sevimli salafidan favqulodda qirollikni meros qilib oldi, u elementlar va jinlar ustidan hokimiyatga ega edi. Ammo buyuk hokimiyat katta sinovlar bilan birga keldi - va oxirgi lahza hayot va o'limning o'zi haqida hayratlanarli narsani ochib beradi.",
+  "clues": [
+    "Men Allohning payg'ambari va bandasi bo'lgan sevimli ota-onamdan buyuk saltanatni meros qilib oldim.",
+    "Alloh menga shamol ustidan hokimiyat berdi, uni bir tongda bir oylik yo'lni bosib o'tdi.",
+    "Hatto eng kichik jonzotlar ham mening yaqinlashayotganim haqida gapirishardi va men ularning xabardorligiga hayron bo'lish uchun to'xtab qolardim.",
+    "Men jinlar, odamlar va qushlardan iborat ulkan qo'shinni boshqardim, ularning barchasi oldimda tartibli saflarda turishardi.",
+    "Uzoqdan bir hukmdor meni qiyin sinov bilan sinash uchun keldi va mehmon o'rnidan turishga ulgurmasdan oldin, men o'sha hukmdorning taxtini saroyimga olib kelishni buyurdim.",
+    "Men tayoqqa suyanib, tik turdim, toki yerning kichkina bir jonzoti uni kemirguncha — va shundan keyingina atrofimdagilar mening o'tib ketganimni angladilar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Sulaymon (Sulaymon)",
+        "Payg'ambar Dovud (alayhissalom)",
+        "Payg'ambar Iso (Iso)",
+        "Payg'ambar Muhammad ﷺ",
+        "Muso payg'ambar (Muso)"
+      ],
+      "answer": "Payg'ambar Sulaymon (Sulaymon)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Uzoq malikaning taxtini g'ayritabiiy yo'llar bilan olib kelish",
+        "Bolaligida chuqur quduqqa tushirilish",
+        "Zolimning sehrgarlariga mo''jizaviy alomatlar bilan qarshi turish",
+        "Ona sharafini himoya qilish uchun beshikdan boshlab gapirish",
+        "Muqaddas tog'da oxirgi vahiy qilingan Muqaddas Yozuvlarni qabul qilish"
+      ],
+      "answer": "Uzoq malikaning taxtini g'ayritabiiy yo'llar bilan olib kelish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Termit yog'och tayoqni kemirib tashladi",
+        "Butun dunyo bo'ylab to'fondan omon qolish uchun qurilgan ulkan kema",
+        "Zolim oldida ilonga aylangan tayoq",
+        "Ko'rni davolash uchun ishlatiladigan mato parchasi",
+        "Vahiy birinchi marta olingan muqaddas g'or"
+      ],
+      "answer": "Termit yog'och tayoqni kemirib tashladi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Olijanob tashrif buyuruvchi hukmdor alomatlarni ko'rgandan keyin imonni qabul qildi",
+        "Kemadagi sodiqlardan tashqari hammani katta suv toshqini qirib tashladi",
+        "Fir'avn va uning qo'shini dengizda halok bo'ldi",
+        "Solih hamroh osmonga ko'tarildi",
+        "Zolim shoh va uning shahri ag'darilib, vayron qilindi"
+      ],
+      "answer": "Olijanob tashrif buyuruvchi hukmdor alomatlarni ko'rgandan keyin imonni qabul qildi"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

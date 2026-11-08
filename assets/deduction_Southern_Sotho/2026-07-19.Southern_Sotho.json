@@ -1,0 +1,61 @@
+{
+  "title": "Lentsoe le sa Mamelloang la Lilemo tse Makholo",
+  "intro": "Nakong e telele pele metse e meholo e hlaha, ho ile ha hlaha moea o le mong har'a batho ba neng ba furaletse 'nete. Bonganga ba bona bo ne bo tsamaisana feela le mamello ea moipiletso enoa ea le mong, ea ileng a kopa melokong e mengata ntle le ho lahleheloa ke boikemisetso. Ha litemoso tsohle li sa mameloe, kahlolo e sa tloaelehang e ile ea fetola lefatše ka bolona. Kajeno, melumo ea pale eo e ntse e utloahala ho pholletsa le phetolelo e 'ngoe le e 'ngoe. Na u ka tseba moea ona o tiileng?",
+  "clues": [
+    "Ke hōletse har'a batho ba neng ba rapela litšoantšo tsa bohata 'me ba hlokomoloha matšoao a ba potileng, empa ke ile ka khethoa ho ba tsosa ho se ele hloko ha bona.",
+    "Ke ile ka hoeletsa batho ba heso khafetsa, empa ba ile ba nqosa ka hore ke motho ea tšoanang le bona feela, ba soma molaetsa oa ka 'me ba koala litsebe tsa bona.",
+    "Bosiu le motšehare, ke ne ke ba kōpa ka bohlale le likhopotso tse bonolo, empa mantsoe a ka a ne a bonahala a nyamela moeeng, a sa utluoe ebile a sa eloe hloko.",
+    "Tlas'a taelo ea bomolimo, ke ile ka haha ​​​​sejana se seholo sa mapolanka le mapolanka mobung o omileng, 'me batho ba heso ba ile ba ntšeha joaloka motho ea lahlehetsoeng ke kelello.",
+    "Ha moroallo o moholo o fihla joalokaha ho tšepisitsoe, mora oa ka o ile a hana ho palama sekepe le 'na, a lumela hore thaba e tla mo sireletsa metsing a ntseng a phahama.",
+    "Ke ile ka ba mopatriareka oa qalo e ncha lefatšeng, 'me pale ea ka e bolokiloe khaolong ea Quran e nang le lebitso la ka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Nuh",
+        "Moprofeta Ibrahim",
+        "Moprofeta Musa",
+        "Moprofeta Lute",
+        "Moprofeta Hud"
+      ],
+      "answer": "Moprofeta Nuh"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Moroallo o Moholo o ileng oa fetola lefatše",
+        "Ho lahleloa mollong o tukang ke barapeli ba litšoantšo",
+        "Ho tobana le linohe tsa Faro ntlong ea borena",
+        "Ho senngoa ha lirapa tse atlehileng ke sefefo sa leholimo",
+        "Ho phethola ha baahi ba liforo"
+      ],
+      "answer": "Moroallo o Moholo o ileng oa fetola lefatše"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Areka e hahiloe ka mapolanka le mapolanka",
+        "Ntlo e halalelang e hahiloeng holim'a metheo ea boholo-holo",
+        "Lere le ileng la fetoha noha",
+        "Lehaha la bacha ba robetseng",
+        "Terone e jereng ke sebopuoa se matla"
+      ],
+      "answer": "Areka e hahiloe ka mapolanka le mapolanka"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Ba sa lumelang ba ile ba khangoa ke metsi ha balumeli ba ntse ba pholosoa ka sekepeng",
+        "Mollo o ile oa bata 'me oa bolokeha, 'me motho ea letsitseng a tsoa a sa tsoa kotsi.",
+        "Baloi ba ile ba wa ka sefahleho mme ba amohela tumelo",
+        "Serapa se ile sa fuoa moahisani ea lokileng sebakeng sa sona",
+        "Ba robetseng ba ile ba tsoha ka mor'a makholo a lilemo, ba fetoha"
+      ],
+      "answer": "Ba sa lumelang ba ile ba khangoa ke metsi ha balumeli ba ntse ba pholosoa ka sekepeng"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

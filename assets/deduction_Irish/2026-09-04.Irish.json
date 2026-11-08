@@ -1,0 +1,61 @@
+{
+  "title": "An Ceol a Bhog na Sléibhte",
+  "intro": "Tá tú ar tí scéal seirbhíseach iontach Allah a nochtadh. I dtír teachtairí agus rialóirí, beannaíodh an figiúr seo le leabhar diaga, guth cumhachtach, agus neart thar iarann. Agus tú ag léamh na leideanna, an féidir leat a aithint cé hé seo?",
+  "clues": [
+    "Bhí mé i mo sheirbhíseach de chuid Allah agus bronnadh leabhar speisialta orm.",
+    "Bhí guth álainn agam, agus bhí mo mholadh chomh mór sin gur thaitin fiú na cnoic agus na héin liom.",
+    "Bhí mé os comhair chéile comhraic uafásach i gcath cáiliúil, agus in ainneoin gur beag mé, bhuaigh mé.",
+    "Rinneadh iarann ​​solúbtha dom, rud a lig dom armúr a dhéanamh le mo lámha féin.",
+    "Rinneadh rialóir díom ar náisiún mór, agus bhí cáil ar mo eagna i mbreithiúnas.",
+    "Bronnadh smacht ar an ngaoth agus ar na jinn ar mo mhac, atá ina fháidh freisin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Dawud (Dáiví)",
+        "An Fáidh Sulaiman (Solamh)",
+        "An Fáidh Músa (Maois)",
+        "An Fáidh Harun (Aaron)",
+        "An Fáidh Ilyas (Elias)"
+      ],
+      "answer": "An Fáidh Dawud (Dáiví)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Buailte ar Goliath (Jalut)",
+        "Roinneadh an fharraige",
+        "Mhair an míol mór",
+        "Caitheadh ​​isteach sa tine é",
+        "Tógadh an Áirc"
+      ],
+      "answer": "Buailte ar Goliath (Jalut)"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Zabur (Sailm)",
+        "An Torah (Tawrat)",
+        "An Soiscéal (Injil)",
+        "Scrollaí Ibrahim",
+        "An Corán"
+      ],
+      "answer": "An Zabur (Sailm)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh fáidh agus rí ar Iosrael de",
+        "Rinneadh rialóir na hÉigipte de",
+        "Ardaíodh suas go dtí na flaithis",
+        "Scriosadh é le stoirm",
+        "Tháinig sé chun bheith ina chomrádaí den uaimh"
+      ],
+      "answer": "Rinneadh fáidh agus rí ar Iosrael de"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

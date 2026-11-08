@@ -1,0 +1,61 @@
+{
+  "title": "Na Fírinneacha ó Mecca",
+  "intro": "I laethanta tosaigh an nochta, nuair a bhí teachtaireacht na fírinne os comhair freasúra ghéar, sheas anamacha áirithe gan staonadh ina gcreideamh. Bhí na creidmhigh seo os comhair cruálacht dochreidte ó na daoine a bhí ag iarraidh solas an chreidimh a mhúchadh. Bhí a bpian dian, a bhfulaingt ollmhór - ach níor stop a dteangacha riamh ag fógairt Aontacht Allah. Fiú nuair a caitheadh ​​​​iad i ndoimhneacht an éadóchais, bhí cosaint dhiaga timpeall orthu, ag athrú a dtriail ina fianaise shíoraí creidimh. Déanaimis iniúchadh ar thuras na n-anamacha suntasacha seo.",
+  "clues": [
+    "Cuireadh pionós dian orainn mar gheall ar dhiúltú ár gcreideamh san Aon Dia amháin a thréigean.",
+    "Ní fhéadfadh ár ndaoine ár ndiongbháilteacht a bhriseadh, is cuma cé chomh cruthaitheach is a d’éirigh a gcruálacht",
+    "Bhíomar ar crochadh ó thobar i rith an lae, ach bhí cúnamh diaga i gcónaí in aice láimhe.",
+    "Chuir ár ndaingean iontas fiú ar na daoine a chonaic ár seasmhacht",
+    "Rinne go leor i Mecca iarracht sinn a chur ag cúlú, ach d’fhanamar diongbháilte.",
+    "Nuair a bhí cuma caillte ar gach rud, tháinig ár saoirse trí idirghabháil dhiaga mhíorúilteach"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Bilal al- Habashi",
+        "Ammar ibn Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al- Habashi"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Cath in aghaidh an Fháidh",
+        "Géarleanúint as diúltú adhradh a dhéanamh d’íolta",
+        "Tástáil creidimh maidir leis an eachtra dóiteáin",
+        "Triail an turais scoilte oíche",
+        "Tástáil ar scrios an ghairdín"
+      ],
+      "answer": "Géarleanúint as diúltú adhradh a dhéanamh d’íolta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Sliabh Uhud",
+        "Limistéar naofa an Kabah",
+        "Tobar Abu Sufyan",
+        "Pálás na Quraysh",
+        "Cathair Mhadinah"
+      ],
+      "answer": "Tobar Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bua i gcath mór",
+        "Saoirse trí idirghabháil dhiaga",
+        "Mairtíreacht i gcosán Allah",
+        "Glacadh isteach i bparthas go díreach",
+        "Imirce go dtí tír bheannaithe"
+      ],
+      "answer": "Saoirse trí idirghabháil dhiaga"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

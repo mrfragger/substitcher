@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi Eliyinyaniso Lamaxesha Amandulo",
+  "intro": "Kukho umphefumlo kwiQuran obaliselwa kwiindinyana ezimbalwa, kodwa iimpawu zawo ezintle zikhanya ngokucacileyo. Edunyiswa nguSomandla ngenxa yobuntu obukhethekileyo, lo mkhonzi wamandulo woNonceba unendawo yakhe kumaphepha esityhilelo. Umsebenzi wakho kukubona lo mntu umangalisayo. Ungaqikelela ukuba bangoobani?",
+  "clues": [
+    "Ndingumprofeti ka-Allah owayephila phakathi kwezizukulwana zokuqala zoluntu.",
+    "U-Allah undikhankanye kwiNcwadi Yakhe kunye nabanye abaprofeti, bonke benconywa ngenxa yesidima esifanayo.",
+    "Ndichazwa njengomntu onyanisekileyo kwiQuran.",
+    "U-Allah wandiphakamisa wandibeka kwindawo ephakamileyo abantu abambalwa abaye bayifikelela.",
+    "Igama lam likhankanyiwe kwiSurah Al-Anbiya, kunye nabanye abaprofeti ababini abanconywa ngomonde wabo.",
+    "NdinguIdris, umprofeti onyanisekileyo nophakanyisiweyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uIdris",
+        "Umprofeti uNuh",
+        "Umprofeti uIbrahim",
+        "Umprofeti uMusa",
+        "Umprofeti u-Ismail"
+      ],
+      "answer": "Umprofeti uIdris"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukugcina umonde nenyaniso, uze uphakanyiselwe kwisikhundla esiphezulu",
+        "Ukwakha umkhombe omkhulu wokusindisa amakholwa kwisikhukula esitshabalalisayo",
+        "Ukuphoswa emlilweni ovuthayo nokuphuma ungenzakalanga kwaphela",
+        "Ukujongana nokumkani onamandla aze oyise umkhosi wakhe wemilingo",
+        "Ukusinda ngaphakathi esiswini sentlanzi enkulu enzulwini yolwandle"
+      ],
+      "answer": "Ukugcina umonde nenyaniso, uze uphakanyiselwe kwisikhundla esiphezulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isikhundla esiphezulu nesiphakamileyo sika-Allah",
+        "Inqanawa enkulu eyakhiwe ngamaplanga yaza yaphoswa ngetha",
+        "Umlilo ovuthayo ovuselelwa ngabanquli bezithixo bokumkani ongendawo",
+        "Ulwandle olukhulu oluqhekeka lwaba ziindlela ezomileyo",
+        "Isisu esimnyama somnenga omkhulu ezantsi kolwandle"
+      ],
+      "answer": "Isikhundla esiphezulu nesiphakamileyo sika-Allah"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Wangeniswa kwinceba ka-Allah njengomnye wabalungileyo",
+        "Wasindiswa kunye nabo bonke abakholwayo kwisikhukula sehlabathi lonke",
+        "Ndaphuma elangatyeni elingachukunyiswanga ngumlilo",
+        "Wakhokela abantwana bakwaSirayeli ngokukhuselekileyo ukuya enkululekweni ngaphesheya kolwandle",
+        "Baphinde badibana nosapho lwabo abaluthandayo emva kweminyaka emininzi besokola"
+      ],
+      "answer": "Wangeniswa kwinceba ka-Allah njengomnye wabalungileyo"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

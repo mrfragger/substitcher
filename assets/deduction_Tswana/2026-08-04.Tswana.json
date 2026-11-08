@@ -1,0 +1,61 @@
+{
+  "title": "Modumo mo Mafikeng",
+  "intro": "Akanya fela ka mokgatšha o mo go one go betlilweng matlo mo mafikeng, mme mowa o rwele kgakologelo ya tlhagiso e e sa tsewang tsia. Batho ba kile ba bo ba atlega fano, ba segofaditswe mme ba ganetsa, go fitlha go tlhagelela sesupo mo go lone lefika le ba neng ba le ikantse.",
+  "clues": [
+    "Re ne re le batho ba ba neng ba betla matlo a a sireletsegileng go tswa mo dithabeng, re ikutlwa re babalesegile mo mafelong a rona a bonno a a nang le matlapa.",
+    "Re ne re nna mo lefatsheng la dipoa le matlapa, le le segofaditsweng ka ditshingwana le metswedi.",
+    "Go ne ga tla morongwa go tswa mo gare ga rona, a re bitsa gore re tlogele medimo ya rona ya maaka mme re obamele Mmopi a le Mongwe wa boammaaruri.",
+    "Re ne ra baya boemo jwa tumelo ka boikgogomoso: letshwao le le kgethegileng le le neng le tla tlhagelela mo go one mafika a re neng re a betlile.",
+    "Fa kamela e e namagadi e e solofeditsweng e ne e tlhagelela mo lefikeng, e leng sesupo se se bonalang sentle, batho ba rona ba maemo ba ne ba sa ntse ba gana mme ba mo kgaola le fa ba ne ba tlhagisiwa ka tshenyego e e neng e tla.",
+    "Malatsi a le mararo morago ga tiro ya rona, go ne ga utlwala go thunya ga maru go ralala mokgatšha, mme re ne ra fetoga go nna matlakala a a weleng, magae a rona e le mabitla a rona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Batho ba ¿Ad",
+        "Batho ba Thamude",
+        "Batho ba Madyan",
+        "Batho ba Grove",
+        "Batho ba Logaga"
+      ],
+      "answer": "Batho ba Thamude"
+    },
+    "trial": {
+      "label": "Teko ya rona/Tiragalo e Kgolo",
+      "options": [
+        "Go kgaolwa ga kamela e namagadi ya ga Allah",
+        "Kobamelo ya namane ya gauta",
+        "Go tlolwa ga Sabata",
+        "Go agiwa ga tora e e yang kwa loaping",
+        "Go bolawa ga baporofeti"
+      ],
+      "answer": "Go kgaolwa ga kamela e namagadi ya ga Allah"
+    },
+    "location": {
+      "label": "Ntlha ya Botlhokwa mo Kgannyeng ya Rona",
+      "options": [
+        "Kamela e namagadi ya ga Allah",
+        "Badiri ba Musa",
+        "Letlole la ga Nuhe",
+        "Seatla se sesweu sa ga Musa",
+        "Nonyane ya ¿Isa"
+      ],
+      "answer": "Kamela e namagadi ya ga Allah"
+    },
+    "outcome": {
+      "label": "Dipoelo tsa rona",
+      "options": [
+        "Tshenyo ka go thunya go go thibang ditsebe",
+        "Pula ya matlapa go tswa kwa loaping",
+        "Morwalela o o neng wa khurumetsa lefatshe",
+        "Phefo e e bogale e e neng ya re kumola ka medi",
+        "Lefatshe le re kometsa"
+      ],
+      "answer": "Tshenyo ka go thunya go go thibang ditsebe"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

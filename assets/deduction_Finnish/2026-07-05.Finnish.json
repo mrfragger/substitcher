@@ -1,0 +1,61 @@
+{
+  "title": "Valtaistuimen nopea tuoja",
+  "intro": "Mahtavan hallitsijan hovissa esitettiin mahdoton vaatimus, ja monet kilpailivat todistaakseen arvonsa. Tehtävän kykeni kuitenkin suorittamaan vain sellainen, jonka yhteys jumalalliseen tietoon ylitti kaiken fyysisen kyvykkyyden, paljastaen hetken, joka kaikuisi läpi aikojen.",
+  "clues": [
+    "Olin suuren kuninkaan, joka oli myös profeetta, palveluksessa ja kuuluin hänen luotetuimpaan piiriinsä.",
+    "En ollut tulen olento enkä fyysisesti kovin voimakas olento, mutta pitelin kädessäni jotakin paljon voimakkaampaa.",
+    "Kun kuningas pyysi valtaistuimen tuomista kaukaisesta maasta, tiesin tarkalleen, mitä tehdä.",
+    "Puhuin Kirjasta saamastani tiedosta, ja ennen kuin kukaan ehti reagoida, valtaistuin asetettiin kuninkaan eteen.",
+    "Tekoni ei ollut omasta voimastani, vaan osoitus siitä, että todellinen tieto tulee yksin Allahilta.",
+    "Minä nostin Saban kuningattaren valtaistuimen silmänräpäyksessä, kuten suurassa An-Naml on kerrottu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Se, jolla oli tietoa Kirjasta",
+        "Mahtava džinni Ifrit",
+        "Sulaymanin harjalintu",
+        "Profeetta Sulayman",
+        "Saban kuningatar"
+      ],
+      "answer": "Se, jolla oli tietoa Kirjasta"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Saban kuningattaren valtaistuimen tuominen silmänräpäyksessä",
+        "Punaisenmeren halkaiseminen israelilaisille",
+        "Kaaban rakentaminen poikansa kanssa",
+        "Selviytyminen tulisesta uunista",
+        "Pelastuminen valaan vatsasta"
+      ],
+      "answer": "Saban kuningattaren valtaistuimen tuominen silmänräpäyksessä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Bilqisin valtaistuin",
+        "Musan sauva",
+        "Noan arkki",
+        "Namrudin tuli",
+        "Yunuksen valas"
+      ],
+      "answer": "Bilqisin valtaistuin"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Valtaistuin ilmestyi välittömästi Sulaymanin eteen kiitollisuuden testinä",
+        "Kuningatar kääntyi välittömästi islamiin",
+        "Džinni vangittiin epäonnistumisesta",
+        "Sulayman luopui valtakunnastaan",
+        "Valtaistuin murskattiin palasiksi"
+      ],
+      "answer": "Valtaistuin ilmestyi välittömästi Sulaymanin eteen kiitollisuuden testinä"
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

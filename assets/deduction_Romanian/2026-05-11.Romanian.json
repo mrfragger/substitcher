@@ -1,0 +1,61 @@
+{
+  "title": "Martorii statornici",
+  "intro": "Imaginează-ți o vreme în care credința era testată prin foc, iar convingerea neclintită devenea sfidarea supremă. Ți se cuvine sarcina de a descoperi identitatea unui grup a cărui poveste este relatată în Coran, o narațiune a unei credințe profunde împotriva tiraniei copleșitoare. Dezvăluie indiciile pentru a descoperi cine erau aceste suflete și circumstanțele extraordinare cu care s-au confruntat.",
+  "clues": [
+    "Am rămas fermi în convingerea noastră, în ciuda presiunilor imense de a ne renunța la credință.",
+    "Am fost vizați de un conducător puternic care căuta să stingă lumina monoteismului.",
+    "Am fost martori la semne și miracole mari, totuși asupritorii noștri au rămas nepăsători.",
+    "Am îndurat o metodă oribilă de persecuție, menită să-i terorizeze pe alții până la supunere.",
+    "Am fost aruncați într-un infern arzător, însă statornicia noastră ne-a câștigat o poziție înaltă la Allah.",
+    "Povestea noastră este relatată într-o sură numită după constelații cerești, care avertizează asupra soartei celor care îi persecută pe credincioși."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Oamenii din Thamud",
+        "Oamenii din 'Ad",
+        "Oamenii șanțului",
+        "Oamenii din Madian",
+        "Oamenii elefantului"
+      ],
+      "answer": "Oamenii șanțului"
+    },
+    "trial": {
+      "label": "Persecuția noastră",
+      "options": [
+        "A fi înecat într-o inundație",
+        "Fiind mistuit de un vânt arzător",
+        "Aruncat într-un șanț de foc",
+        "Fiind înghițit de pământ",
+        "Transformarea în maimuțe"
+      ],
+      "answer": "Aruncat într-un șanț de foc"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O inundație masivă",
+        "Un mare cutremur",
+        "Un șanț adânc, arzător",
+        "Un idol puternic",
+        "O secetă devastatoare"
+      ],
+      "answer": "Un șanț adânc, arzător"
+    },
+    "outcome": {
+      "label": "Soarta noastră supremă",
+      "options": [
+        "Li s-a acordat o împărăție pe pământ.",
+        "Au fost salvați printr-o evadare miraculoasă.",
+        "Au dobândit martiriul și răsplata veșnică.",
+        "Au fost transformați într-o altă specie.",
+        "Li s-a dat o bogăție și o prosperitate imense."
+      ],
+      "answer": "Au dobândit martiriul și răsplata veșnică."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

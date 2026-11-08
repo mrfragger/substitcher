@@ -1,0 +1,61 @@
+{
+  "title": "Il-Fjamma Li Ħalliet Wirt",
+  "intro": "Fl-annali tar-reżistenza, hemm figura li isimha stess sar twissija sat-tmiem taż-żmien. Din il-persuna għażlet l-għadwa fuq il-parentela, l-isfida fuq is-sottomissjoni, u opponiet sejħa ta’ ħniena. Isma’ sew l-eki ta’ proklamazzjoni antika hekk kif niskopru l-identità ta’ din ir-ruħ notorja.",
+  "clues": [
+    "Jiena twilidt fl-istess familja bħall-aħħar messaġġier ta' Alla, iżda madankollu kont kontra tagħhom f'kull pass.",
+    "Ismi kellu tifsira—isem li jfisser 'missier il-fjamma,' isem li kien se jbassar id-destin etern tiegħi.",
+    "Jiena ħriġt il-ħsara kontra min iġorr il-verità, u anke l-familja tiegħi stess ingħaqdet f'din il-kampanja ta' krudeltà.",
+    "Użajt il-ġid u l-influwenza tiegħi biex insikkt is-sejħa lil Alla, għax nemmen li l-flus jistgħu jitfu d-dawl divin.",
+    "Alla ddedika kapitlu sħiħ lili—kapitlu tant qasir li jista’ jiġi reċitat f’sekondi, iżda l-piż tiegħu jibqa’ sal-Jum tal-Ġudizzju.",
+    "Is-sieħeb tiegħi fil-Ħajja ta’ Wara jimxi warajja, marbut b’ħabel tal-fibra madwar għonqi, iġorr l-istess xewk li kienu jxerrdu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definizzjoni ta' Konfrontazzjoni",
+      "options": [
+        "Mexxej tal-oppożizzjoni kontra l-Profeta f'Mekka",
+        "Jemigra lejn l-Abissinja biex jaħrab mill-persekuzzjoni",
+        "Il-bini tal-Kaaba mal-Profeta Ibrahim",
+        "Aċċettazzjoni tal-Islam fuq is-sodda tal-mewt",
+        "Il-ħolqien tat-Trattat ta' Hudaybiyyah"
+      ],
+      "answer": "Mexxej tal-oppożizzjoni kontra l-Profeta f'Mekka"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Mara li ġarret xewk u ħatab",
+        "Bastun li ttrasforma f'serp",
+        "Ċurkett li jġorr is-siġill ta’ Salamun",
+        "Għoġol tad-deheb meqjum min-nies",
+        "Għajn li ħarġet ilma"
+      ],
+      "answer": "Mara li ġarret xewk u ħatab"
+    },
+    "outcome": {
+      "label": "Ġudizzju Finali",
+      "options": [
+        "Sura sħiħa żvelat li tiddikjara rovina totali",
+        "Sar il-mexxej tal-komunità Musulmana",
+        "Irċieva l-maħfra fil-mument tal-mewt",
+        "Bena moskea kbira f’Medina",
+        "Irxoxta fost il-ġusti"
+      ],
+      "answer": "Sura sħiħa żvelat li tiddikjara rovina totali"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

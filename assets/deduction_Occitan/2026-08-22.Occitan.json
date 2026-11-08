@@ -1,0 +1,61 @@
+{
+  "title": "La Vila Que Cresiá Al Temps",
+  "intro": "Dins los annals de la misericòrdia divina, i a una comunautat que son ponch de virada foguèt un moment de realizacion collectiva. Sètz a mand de descobrir lor istòria — un conte d'avertiment, de repentiment, e d'un relambi que los distinguís del destin d'autras nacions.",
+  "clues": [
+    "Èrem un pòble al qual èra mandat un messatgièr, e nos desvièrem de sa crida d'en primièr.",
+    "Quand los signes de castig imminent venguèron clars, nos avisèrem de la vertat de son avertiment.",
+    "Nos virèrem cap a nòstre Senhor amb un repentiment sincèr, e nòstra fe foguèt acceptada.",
+    "Lo castig que nos èra estat decretat foguèt levat a causa de nòstra cresença.",
+    "Nòstra istòria es citada coma una excepcion demest los pòbles que cresián après aver vist lo castig.",
+    "Èrem lo pòble del profèta qu'èra engolit per la balena, pasmens foguèrem salvats de la destruccion."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Gent de Yunus",
+        "Gent de Nuh",
+        "Gent de Hud",
+        "Gent de Salih",
+        "Gent de Lut"
+      ],
+      "answer": "Gent de Yunus"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Una inondacion devastatritz",
+        "Una fòrta tempèsta de vent",
+        "Un castig imminent de desgràcia que foguèt evitat",
+        "La tèrra los engolint",
+        "Una pluèja de pèiras"
+      ],
+      "answer": "Un castig imminent de desgràcia que foguèt evitat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'arca",
+        "La camèla",
+        "Una vila de cent mila",
+        "Lo personal de Musa",
+        "L'escambi de Qarun"
+      ],
+      "answer": "Una vila de cent mila"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Foguèron destruchs completament",
+        "Se lor donèt de plaser pendent un temps",
+        "Foguèron transformats en monins",
+        "Foguèron afogats",
+        "Foguèron engolits per la tèrra"
+      ],
+      "answer": "Se lor donèt de plaser pendent un temps"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

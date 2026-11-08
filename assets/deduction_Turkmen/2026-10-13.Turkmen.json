@@ -1,0 +1,61 @@
+{
+  "title": "Otly garşydaş",
+  "intro": "Wahyýyň ilkinji günlerinde hakykata garşy inadkär bir şahsyýet peýda boldy. Baýlyk we dereje bilen bagtly bolan bu ruh, ýol görkezijilikden has köp tekepbirligi saýlady we olaryň hekaýasy süräniň soňky aýatlarynda berk duýduryşa öwrüldi.",
+  "clues": [
+    "Men Pygamber bilen bir şäherde ýaşaýardym we oňa iň ýakyn garyndaşlaryndan biridim, ýöne tekepbirligim meni hakykatdan daşlaşdyrýardy.",
+    "Meniň uly baýlygym we köp sanly emlägim bardy we men öz serişdelerimiň meni hemişe gorajakdygyna ynanýardym.",
+    "Habar nazil bolanda, men ony açykdan-açyk masgara etdim we özümi möminlerden ýokary hasaplap, ýüz öwürdim.",
+    "Meniň duşmançylygym şeýle meşhurdy welin, Gurhanyň bir süresi maňa gönüden-göni ýüzlenip, meni başgalaryň tanaýan ady bilen atlandyrdy.",
+    "Baýlygymyň we gazanjymyň maňa peýda bermejekdigi we meniň ýanyp duran oda taşlanjakdygym barada duýduryş berildi.",
+    "Men alawyň atasy hökmünde tanalýaryn, aýalym bolsa boýnuna palma süýüminden ýasalan halat asyp, odun daşaýar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufýan",
+        "Al-Walid ibn al-Mugira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Yslamy ret etdi we Pygambere açyk garşy çykdy",
+        "Pygamberi öldürmek üçin dildüwşük gurnaldy",
+        "Musulmanlara garşy sosial boýkot geçirdi",
+        "Bedr söweşinde söweşen",
+        "Bilal ibn Rabah gynaldy"
+      ],
+      "answer": "Yslamy ret etdi we Pygambere açyk garşy çykdy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Palma süýüminden ýasalan halat",
+        "Keskin gylyç",
+        "Agyr zynjyr",
+        "Agaçdan ýasalan taýak",
+        "Deri gamçy"
+      ],
+      "answer": "Palma süýüminden ýasalan halat"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ýalpyldap duran otda ýanyp gider",
+        "Toba etdi we ýoldaş boldy",
+        "Baýlygyny ýitirdi, ýöne hormat bilen öldi",
+        "Habeşistana gaçyp gitdi",
+        "Deňizde gark boldy"
+      ],
+      "answer": "Ýalpyldap duran otda ýanyp gider"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

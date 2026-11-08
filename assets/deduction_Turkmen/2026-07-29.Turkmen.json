@@ -1,0 +1,61 @@
+{
+  "title": "Sud yzarlamasy",
+  "intro": "Häkimiýet geçelgelerinde ýokary derejeli bir şahsyýet gözelligi başga bir dünýäden tapawutly bolan hyzmatkäre aşyk boldy. Bu aşyklyk wepalylygy synagdan geçirýän, gizlin hakykatlary açýan we ahyrsoňy hyzmatkäriň bigünädigini tassyklaýan birnäçe wakanyň ýüze çykmagyna getirdi.",
+  "clues": [
+    "Men Nil derýasynyň ýurdunda, uly täsirli köşkde ýaşaýardym.",
+    "Öýüme bir ýaş ýigit geldi we onuň barlygy meniň dünýämi biynjalyk etdi.",
+    "Men ony aldamaga synanyşdym, ýöne ol öz Rebbine sygyndy.",
+    "Men onuň eşigini arkasyndan ýyrtdym, ýöne subutnamalar meniň aldawçylygymy görkezdi.",
+    "Asylly aýallaryň gybatlaryny öçürmek üçin, men olary bir ýere çagyrdym we ellerine ýiti zatlary berdim.",
+    "Ahyrsoňy men günämi açyk boýun aldym, patyşanyň öňünde hakykaty boýun aldym."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Al-Aziziň aýaly",
+        "Aziýa (Farownyň aýaly)",
+        "Bilkis (Şebanyň şa aýaly)",
+        "Merýem (Isanyň ejesi)",
+        "Musanyň ejesi"
+      ],
+      "answer": "Al-Aziziň aýaly"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ol Ýusup pygamberi aldamaga synanyşdy",
+        "Ol Musa pygamberi öldürmäge synanyşdy",
+        "Ol özüni hudaý diýip yglan etdi",
+        "Ol Allatagala garşy çykmak üçin diň gurdy",
+        "Ol Mekgä garşy goşuna ýolbaşçylyk etdi"
+      ],
+      "answer": "Ol Ýusup pygamberi aldamaga synanyşdy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Arkasyndan ýyrtylan köýnek",
+        "Altyn göle",
+        "Ýylana öwrülen taýajyk",
+        "Däne",
+        "Çyranyň"
+      ],
+      "answer": "Arkasyndan ýyrtylan köýnek"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ol hakykaty boýun aldy we ykrar etdi",
+        "Ol goşuny bilen suwa gark boldy",
+        "Ol duz sütünine öwrüldi",
+        "Ol ýer tarapyndan ýutuldy",
+        "Ol gygyrýan ýel bilen ýok edildi"
+      ],
+      "answer": "Ol hakykaty boýun aldy we ykrar etdi"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

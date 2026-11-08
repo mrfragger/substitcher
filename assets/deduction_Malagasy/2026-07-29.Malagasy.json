@@ -1,0 +1,61 @@
+{
+  "title": "Ny fanenjehana ara-pitsarana",
+  "intro": "Teo amin'ny lalantsaran'ny fahefana, nisy olona ambony iray raiki-pitia tamin'ny mpanompo iray izay tsara tarehy tsy tahaka ny any an-danitra. Izany fitiavana izany dia nitarika andiana zava-nitranga izay nitsapa ny tsy fivadihan'ilay mpanompo, nampiharihary ny fahamarinana miafina, ary tamin'ny farany dia nanamafy ny tsy fananan-tsiny.",
+  "clues": [
+    "Nipetraka tany amin'ny tanin'i Neily aho, tao anaty lapa iray nanana fahefana lehibe.",
+    "Nisy tovolahy iray niditra tao an-tranoko, ary ny fanatrehany dia nanelingelina ny tontoloko.",
+    "Niezaka naka fanahy azy aho, saingy nitady fialofana tamin'ny Tompony izy.",
+    "Norovitiko avy tao aoriana ny akanjony, saingy ny porofo dia nanondro ny famitahako.",
+    "Mba hampanginana ny resabe nataon'ireo vehivavy andriana, dia nanasa azy ireo ho any amin'ny fivoriana aho ary nametraka zava-maranitra teny an-tanany.",
+    "Tamin'ny farany, niaiky ampahibemaso ny fahadisoako aho, niaiky ny marina teo anatrehan'ny mpanjaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny vadin'i Al-Aziz",
+        "Asiya (Vadin'i Farao)",
+        "Bilqis (Mpanjakavavin'i Sheba)",
+        "Maryam (Renin'i Isa)",
+        "Ny Renin'i Musa"
+      ],
+      "answer": "Ny vadin'i Al-Aziz"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Niezaka naka fanahy an'i Yusuf mpaminany izy",
+        "Niezaka namono an'i Mosesy mpaminany izy",
+        "Nilaza ho andriamanibavy izy",
+        "Nanangana tilikambo izy mba hihantsiana an'i Allah",
+        "Nitarika tafika iray hanafika an'i Makka izy"
+      ],
+      "answer": "Niezaka naka fanahy an'i Yusuf mpaminany izy"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Lobaka rovitra avy any aoriana",
+        "Ombilahy kely volamena",
+        "Tehina niova ho menarana",
+        "Ramevavavy iray",
+        "Jiro iray"
+      ],
+      "answer": "Lobaka rovitra avy any aoriana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Niaiky ny marina izy",
+        "Nilentika niaraka tamin'ny tafiny izy",
+        "Niova ho andry sira izy",
+        "Natelin'ny tany izy",
+        "Simba noho ny rivotra mahery izy"
+      ],
+      "answer": "Niaiky ny marina izy"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

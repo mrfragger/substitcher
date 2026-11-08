@@ -1,0 +1,61 @@
+{
+  "title": "Uzvarētājs starp diviem horizontiem",
+  "intro": "Dievišķās vadības annālēs viena persona izceļas gan kā varens valdnieks, gan pazemīgs Allāha kalps. Šī persona ceļoja uz zemes tālākajiem nostūriem, vērojot saullēktu pār neparastu tautu un saulrietu melnā, duļķainā pavasarī. Visievērojamākais ir tas, ka šim kalpam tika uzdots uzcelt neparastu barjeru pret lielu ļaunumu darošu tautu. Vai varat atpazīt šo leģendāro personu no Korāna?",
+  "clues": [
+    "Visžēlsirdīgais man piešķīra varu un ietekmi uz zemes",
+    "Es devos ceļojumā uz vietu, kur saule lec un kur tā riet",
+    "Es sasniedzu cilvēkus, kuri tik tikko spēja saprast ne vārda",
+    "Man pavēlēja uzcelt milzīgu barjeru, izmantojot dzelzi",
+    "Es ar izkausētu metālu aizzīmogoju telpu starp diviem stāviem kalniem",
+    "Es nebiju ne eņģelis, ne pravietis, bet gan kalps, kuram Allāhs bija devis labvēlību"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Dhu al-Qarnayn (Divragais)",
+        "Karalis Suleimans (Salomons)",
+        "Pravietis Dhul-Kifls",
+        "Dhu al-Nun (Zivju pavadonis)",
+        "Barjeras eņģelis"
+      ],
+      "answer": "Dhu al-Qarnayn (Divragais)"
+    },
+    "trial": {
+      "label": "Lielais uzdevums",
+      "options": [
+        "Torņa uzcelšana debesīm",
+        "Masīvas dzelzs barjeras būvniecība pret Jadžu un Madžu",
+        "Zelta troņa radīšana tiesai",
+        "Dziļas akas rakšana taisnīgajiem",
+        "Kuģa būvēšana lielu plūdu laikā"
+      ],
+      "answer": "Masīvas dzelzs barjeras būvniecība pret Jadžu un Madžu"
+    },
+    "location": {
+      "label": "Iestatījums",
+      "options": [
+        "Uzairas zeme starp divām upēm",
+        "Saullēkta vieta un melnais dubļainais avots",
+        "Mekas svētā ieleja",
+        "Madjanas tuksnesis",
+        "Kipras sala"
+      ],
+      "answer": "Saullēkta vieta un melnais dubļainais avots"
+    },
+    "outcome": {
+      "label": "Dievišķais solījums",
+      "options": [
+        "Mūžīgā paradīze tiek piešķirta nekavējoties",
+        "Karsts vējš iznīcināja tautu",
+        "Barjera pastāvēs līdz Tiesas dienai",
+        "Brīvība no nāves visiem ticīgajiem",
+        "Mūžīga valstība bez gala"
+      ],
+      "answer": "Barjera pastāvēs līdz Tiesas dienai"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Adversarius Ignis",
+  "intro": "Primis revelationis diebus, persona quaedam pertinax veritatis adversarius emersit. Divitiis et dignitate donata, haec anima superbiam prae ductu elegit, et fabula eius in ultimis versibus surae acrem admonitionem facta est.",
+  "clues": [
+    "In eadem urbe habitabam ac Propheta, et inter ei proximos propinquos eram, attamen superbia me a veritate procul tenuit.",
+    "Magnas divitias et possessiones numerosas possidebam, et putabam me semper opes meas protecturas esse.",
+    "Cum nuntius revelatus esset, palam illud derisi et me averti, me credentibus superiorem existimans.",
+    "Inimicitiae meae tam infames erant ut sura Quranorum me directe allocuta sit, me nomine quo alii me noverunt appellans.",
+    "Monitus sum divitias meas et quaestum meum mihi nihil profuturum, meque in ignem ardentem coniciendum esse.",
+    "Pater flammae notus sum, et uxor mea ligna cum fune e fibra palmae circa collum portabit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Islam repudiavit et aperte Prophetae adversatus est",
+        "Prophetam interficere coniuraverunt",
+        "Musulmanos in boycottam socialem duxit",
+        "In proelio Badr pugnavit",
+        "Bilal ibn Rabah cruciatus"
+      ],
+      "answer": "Islam repudiavit et aperte Prophetae adversatus est"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Funis e fibra palmae",
+        "Gladius acutus",
+        "Catena gravis",
+        "Baculus ligneus",
+        "Flagellum coriaceum"
+      ],
+      "answer": "Funis e fibra palmae"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In igne ardente ardebit",
+        "Paenituit et socius factus est",
+        "Divitias amisit, sed honoratus mortuus est",
+        "Fugit in Abyssiniam",
+        "In mari submersus"
+      ],
+      "answer": "In igne ardente ardebit"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

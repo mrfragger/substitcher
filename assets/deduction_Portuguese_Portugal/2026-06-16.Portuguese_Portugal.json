@@ -1,0 +1,61 @@
+{
+  "title": "A Voz Que Chamava à Justiça",
+  "intro": "Na antiga terra de Midiã, onde o comércio florescia e caravanas cruzavam vastos desertos, um profeta de Alá surgiu entre o povo que havia se desviado do caminho da justiça. Este servo de Alá foi enviado com uma missão divina que testaria a fé de toda uma comunidade. Através de provações de paciência e perseverança, essa alma se manteve firme em entregar uma advertência que ecoaria pela história. Você consegue desvendar o mistério deste mensageiro inabalável?",
+  "clues": [
+    "Fui escolhido por Alá para guiar um povo que havia esquecido os princípios da justiça e da honestidade em suas relações.",
+    "Transmiti uma mensagem convocando minha comunidade a adorar somente Alá e a falar com a verdade em todos os assuntos.",
+    "Alertei especificamente contra a prática corrupta de consumir riqueza por meios ilícitos e enfatizei a importância de pesos e medidas justos.",
+    "Meu povo respondeu aos meus avisos com escárnio, ameaçando me expulsar de suas terras se eu continuasse com minha mensagem.",
+    "Permaneci firme em minha missão, apesar da hostilidade deles, declarando que minha recompensa pertence somente a Alá.",
+    "Meu povo foi atingido por um castigo devastador, enquanto eu fui salvo pela misericórdia do meu Senhor, pois minha missão foi cumprida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Shu'aib",
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Ló",
+        "Profeta Muhammad ﷺ"
+      ],
+      "answer": "Profeta Shu'aib"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Enfrentando um povo que rejeitava a verdade e ameaçava punir quem transmitisse a mensagem de Alá.",
+        "Testemunhar o Grande Dilúvio que destruiu os descrentes de uma nação.",
+        "Receber revelação durante a viagem pelo vale de",
+        "A provação da fé quando um governante opressor tentou silenciar o chamado ao monoteísmo.",
+        "Uma nação pedindo chuva durante uma seca severa após anos de desobediência."
+      ],
+      "answer": "Enfrentando um povo que rejeitava a verdade e ameaçava punir quem transmitisse a mensagem de Alá."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A terra de Midiã, onde meu povo realizava seu comércio e negócios.",
+        "O convés de um grande navio que salvou os fiéis de uma inundação catastrófica.",
+        "Uma caverna em uma montanha rochosa onde sete jovens buscaram refúgio da perseguição.",
+        "A cidade sagrada de Jerusalém, onde fui levado em uma jornada noturna.",
+        "Um palácio em Sabá, onde um grande reino se preparava para testemunhar um sinal divino."
+      ],
+      "answer": "A terra de Midiã, onde meu povo realizava seu comércio e negócios."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Meu povo foi atingido por um castigo terrível, enquanto eu fui salvo, pois cumpri meu dever para com Alá.",
+        "Os incrédulos foram transformados em macacos por violarem os limites sagrados de Alá.",
+        "Meus inimigos abraçaram a fé após testemunharem uma transformação milagrosa.",
+        "A terra foi abençoada com chuvas abundantes e prosperidade depois que o povo se arrependeu.",
+        "Fui martirizado pelo meu próprio povo por me recusar a abandonar a minha missão."
+      ],
+      "answer": "Meu povo foi atingido por um castigo terrível, enquanto eu fui salvo, pois cumpri meu dever para com Alá."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

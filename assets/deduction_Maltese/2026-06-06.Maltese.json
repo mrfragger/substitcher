@@ -1,0 +1,61 @@
+{
+  "title": "Il-Qaddej Elevat ta’ Alla",
+  "intro": "Tisma’ tgergir dwar figura minn żminijiet antiki, qaddej ta’ Alla li ttella’ għal post ’il fuq mill-ordinarju. Dan l-individwu kien magħruf għall-paċenzja soda u l-verità assoluta tiegħu, u ntbagħat lil nies li tbiegħdu mill-messaġġ. Min hi din ir-ruħ eżaltata?",
+  "clues": [
+    "Jiena ġejt magħżul minn Alla bħala profeta u jien imsemmi fil-Koran Imqaddes.",
+    "Kont magħruf għall-paċenzja u s-sinċerità tiegħi, kwalitajiet li Alla jfaħħar.",
+    "Jiena sejjaħt lin-nies tiegħi biex iqimu lill-Uniku Alla, iżda ħafna ċaħduni.",
+    "Alla elevat l-istatus tiegħi, u ngħatajt grad għoli.",
+    "Spiss nissemma flimkien ma’ profeti oħra bħal Ismail u Dhul-Kifl.",
+    "Alla jgħid dwari: \"U għollejnieh għal post għoli.\" (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Idris",
+        "Il-Profeta Elija",
+        "Il-Profeta Dhu al-Kifl",
+        "Il-Profeta Al-Yasa",
+        "Profeta Hud"
+      ],
+      "answer": "Il-Profeta Idris"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Sejjaħ lin-nies biex iqimu lil Alla",
+        "Bnew l-arka",
+        "Ġieled kontra l-Fargħun",
+        "Ġie ttestjat b'marda severa",
+        "Intefa’ fin-nar"
+      ],
+      "answer": "Sejjaħ lin-nies biex iqimu lil Alla"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Grad għoli/stazzjon għoli",
+        "L-arka",
+        "L-istaff",
+        "In-nar",
+        "Il-bir"
+      ],
+      "answer": "Grad għoli/stazzjon għoli"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Elevata għal status għoli",
+        "Għerqet fl-għargħar",
+        "Mibela’ minn baliena",
+        "Salvat min-nar",
+        "Sar sultan"
+      ],
+      "answer": "Elevata għal status għoli"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

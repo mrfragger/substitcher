@@ -1,0 +1,61 @@
+{
+  "title": "La negaziun in mezz a l’abundanza",
+  "intro": "Te se truvet intra un popul che g’ha di mercat pien de cumers, e anca luur balanza la se slanzà en mod disonest. Un messagger l’è rivà cun di avvertiment ciar, ma luur riden e se voltan via, sicür de luur prosperità. El ciel el cumincia a scürir, ma lür el veden cuma una benediziun de la piœuva. Chi sun chesti gent?",
+  "clues": [
+    "G’hem prusperà in di terr de cumercio e de tanti ròbb, ma el noster cœur l’è diventà insensibil.",
+    "Un messagger l’è vegnuu cun di segn del noster Signur, ma g’hem ciapà in gir i sò avvertiment.",
+    "Erüm famus per el noster mesté, ma g’hemm dà di misur curt e g’hemm ingannà la gent.",
+    "Vivem intra i alber dens e la vegetaziun lüssureggiant, ma g’hem dà per scuntà i noster benediziun.",
+    "Quand che una nivola scüra la s’è avvicinada, serem cüntent, pensand che la purtava la piœuva in di noster terr arid.",
+    "Inveci, quella nivola l’ha scatenad una punizion brusant, e nuèter sem stait ciapad del torment del dì de l’ombra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "Ashab al-Aykah (I compagn del legn)",
+        "Popol de Thamud",
+        "Gent de 'Ad",
+        "Gent de Lut",
+        "Gent de Nuh"
+      ],
+      "answer": "Ashab al-Aykah (I compagn del legn)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "G’han refüdà el luur messagger e g’han fraudà in del cumers",
+        "Adoravan un vitell d’or e sun stà sbaglià",
+        "Praticaven la sodomia e atacaven i viagiatur",
+        "G’han costruì di torr volt e g’han sfidà Dio",
+        "G’han refudà de cundivider l’aqua e g’han dann a una camel"
+      ],
+      "answer": "G’han refüdà el luur messagger e g’han fraudà in del cumers"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una furesta o un boschet dens",
+        "Una muntagna sculpida en abitaziun",
+        "Una cità in riva al mar",
+        "Una vall del desert cun di pozz",
+        "Un giardin fertil cun tanti früta"
+      ],
+      "answer": "Una furesta o un boschet dens"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Distrutt de un’ombra de fœuch",
+        "Anegad da una granda inondazion",
+        "Inghiottida da un terremot",
+        "Colpì de un vent viulent",
+        "Trasfurmà en pedra"
+      ],
+      "answer": "Distrutt de un’ombra de fœuch"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

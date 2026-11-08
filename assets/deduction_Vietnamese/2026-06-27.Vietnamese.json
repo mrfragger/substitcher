@@ -1,0 +1,61 @@
+{
+  "title": "Sự vắng mặt thiêng liêng",
+  "intro": "Vượt qua dòng chảy thời gian, ẩn chứa một câu chuyện về lòng tận tụy bất diệt và một niềm tin nặng trĩu đến nỗi người mang nó suýt gục ngã. Trong khoảnh khắc khi dân chúng quay lưng vì dục vọng và vàng bạc, một nhân vật vẫn đứng vững – kêu gọi họ quay trở lại, cầu xin sự kiên nhẫn, và gánh vác trọng trách của một lời hứa thiêng liêng. Đây là câu chuyện về người được chọn làm người trợ giúp, tể tướng, và người bảo vệ đức tin trong thời điểm vắng mặt thiêng liêng. Bạn có thể khám phá ra danh tính của linh hồn kiên định này không?",
+  "clues": [
+    "Tôi mang trong mình dòng máu của một vị tiên tri vĩ đại, người được chọn để trực tiếp trò chuyện với Allah trên một ngọn núi thiêng.",
+    "Anh/chị em tôi từng cầu nguyện với Allah để được giúp đỡ trong việc nói chuyện rõ ràng với một kẻ áp bức tàn bạo.",
+    "Tôi được Allah chọn để sát cánh bên anh chị em ruột của mình với vai trò người giúp việc và tể tướng.",
+    "Cùng nhau, chúng tôi đối mặt với một kẻ cai trị độc đoán, người tự xưng là thần thánh tối cao.",
+    "Trong khi anh chị em tôi cầu nguyện với Allah trên núi, dân chúng tôi lại tự đúc cho mình một thần tượng từ vàng của họ.",
+    "Tôi là anh trai của Moses, người được Allah bổ nhiệm làm tể tướng của Ngài, tên của ông được nhắc đến trong Kinh Qur'an."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Harun (Aaron)",
+        "Tiên tri Musa",
+        "Tiên tri Dawud",
+        "Tiên tri Yaqub",
+        "Tiên tri Ishaq"
+      ],
+      "answer": "Tiên tri Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Cuộc khủng hoảng thờ cúng con bê",
+        "Trận Đại Hồng Thủy của Nuh",
+        "Trận chiến Badr",
+        "Sự hủy diệt của Thamud",
+        "Sự hủy diệt thành Sodom"
+      ],
+      "answer": "Cuộc khủng hoảng thờ cúng con bê"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con bê vàng",
+        "Con tàu của Noah",
+        "Bụi cây bốc cháy",
+        "Hang động Hira",
+        "Ngai vàng của Sheba"
+      ],
+      "answer": "Con bê vàng"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Sự vô tội được Allah xác nhận.",
+        "Sự chết đuối của Pharaoh",
+        "Việc xây dựng Kaaba",
+        "Chúc chuyến vượt biển an toàn",
+        "Thăng thiên lên trời"
+      ],
+      "answer": "Sự vô tội được Allah xác nhận."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

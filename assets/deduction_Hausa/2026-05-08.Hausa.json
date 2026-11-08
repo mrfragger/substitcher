@@ -1,0 +1,61 @@
+{
+  "title": "Mai Neman Gaskiya Mai Dorewa",
+  "intro": "A cikin wani lokaci da jahilci da bauta wa allolin ƙarya suka lulluɓe shi, wata tafiya mai zurfi ta imani ta bayyana. Wannan mutumin ya ƙalubalanci ƙa'idodin al'ummarsa, yana neman Mahalicci Ɗaya Mai Gaskiya da cikakken imani. Ku shirya don gano asalin rai wanda gadonsa ya ci gaba da zaburar da miliyoyin mutane.",
+  "clues": [
+    "Na yi wa halittun sama tambaya, ina neman Ubangiji na gaskiya wanda ke halitta kuma yake kiyaye komai.",
+    "An umarce ni da in bar ƙasarmu, ina tafiya zuwa ƙasar da Allah ya albarkace ni.",
+    "Na kalubalanci gumakan mutanena, ina fuskantar rashin amfaninsu kai tsaye ta hanyar karya su.",
+    "Mutanena sun jefa ni cikin wuta mai zafi, amma sai ta yi sanyi da kwanciyar hankali a gare ni bisa ga umarnin Allah.",
+    "An gwada ni da umarnin in yi hadaya da ɗana na fari da nake ƙauna, jarabawar miƙa wuya ta ƙarshe.",
+    "Ni, tare da ɗana, mun ɗaga harsashin farko na Gidan Bauta a Duniya, wurin mafaka ga dukkan bil'adama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Nuhu",
+        "Annabi Yusufu",
+        "Annabi Salihu",
+        "Annabi Ibrahim",
+        "Annabi Isa"
+      ],
+      "answer": "Annabi Ibrahim"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Babban ambaliyar ruwa",
+        "Rabe-raben teku",
+        "Halaka Samudawa",
+        "Umarnin yin hadaya da ɗa",
+        "Tafiya ta cikin hamada tare da Jirgin Sama"
+      ],
+      "answer": "Umarnin yin hadaya da ɗa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ma'aikatan",
+        "Dutsen Tur",
+        "Akwatin",
+        "Ka'aba",
+        "Ɗan Maraƙin Zinare"
+      ],
+      "answer": "Ka'aba"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama sarkin Masar",
+        "An nutsar da mutanensa",
+        "An ba shi hikima da kuma zuriya ta adalci",
+        "An haɗiye shi da kifin whale",
+        "An kifar da birninsa"
+      ],
+      "answer": "An ba shi hikima da kuma zuriya ta adalci"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Tsheko ka fa Tlase ga Makhubu",
+  "intro": "Moporofeti mongwe, yo o neng a imetswe ke thomo ya gagwe, o ne a tsaya tshwetso e e neng ya mo isa kgakala le batho ba gaabo mme a tsena mo tekong e e neng e sa solofelwa. Loeto lwa gagwe lo ne lwa fetoga ka tsela e e gakgamatsang, lwa leka tumelo le bopelotelele jwa gagwe ka tsela e e tseneletseng thata. A o ka kgona go swetsa ka dintlha tsa tiragalo eno e e sa tlwaelegang go tswa mo dintlheng tse di go thusang?",
+  "clues": [
+    "Moporofeti o ne a romelwa kwa bathong, mme a tsamaya ka bonako, a ikutlwa a kgobegile marapo ka go ganwa ga bone.",
+    "Loeto lwa gagwe lo ne lwa mo isa kwa lewatleng, koo a neng a palama sekepe se se neng se rwele dilo tse dintsi a batla tsela.",
+    "Go ne ga tsoga setsuatsue se segolo, se tshosetsa sekepe, mme ga dirwa tshwetso ya gore motho a le mongwe a latlhelwe kwa godimo ga lewatle go fokotsa morwalo, o o neng o laolwa ka bola.",
+    "O ne a mediwa ke sebopiwa sa boteng, tiragalo ya kgakgamatso e e neng e laotswe ke thato ya Bomodimo.",
+    "Mo teng ga melelwane ya mpa ya sebopiwa, o ne a bitsa Morena wa gagwe, a ikwatlhaya le go galaletsa Allah mo lefifing.",
+    "Morago ga nako ya go kopa thata, o ne a latlhelwa mo lotshitshing lo lo senang sepe, a le bokoa mme a tshela, mme moragonyana a boa go fitlhela batho ba gagwe ba dumetse kgabagare."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Moporofeti/Motho",
+      "options": [
+        "Moporofeti Nuh",
+        "Moporofeti Lute",
+        "Moporofeti Musa",
+        "Moporofeti Yunus",
+        "Moporofeti Yusuf"
+      ],
+      "answer": "Moporofeti Yunus"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Morwalela wa ga Nuh",
+        "Go senngwa ga Sodoma",
+        "Mosepele mo mpeng ya tlhapi e kgolo",
+        "Go kgaogana ga lewatle",
+        "Tshenolo ya sekgwa se se tukang"
+      ],
+      "answer": "Mosepele mo mpeng ya tlhapi e kgolo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Thaba ya Sinai",
+        "Badiri ba ga Musa",
+        "Tlhapi e Kgolo",
+        "Sediba sa ga Yusuf"
+      ],
+      "answer": "Tlhapi e Kgolo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Kgolagano e ntšhwa le batho",
+        "Tsalo e e gakgamatsang ya batho ba gagwe",
+        "Bogosi jo bo tlhometsweng losika lwa gagwe",
+        "Go boela kwa bathong ba gagwe ba ka nako eo ba neng ba dumela",
+        "Phenyo mo mmusi yo o bogagapa"
+      ],
+      "answer": "Go boela kwa bathong ba gagwe ba ka nako eo ba neng ba dumela"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

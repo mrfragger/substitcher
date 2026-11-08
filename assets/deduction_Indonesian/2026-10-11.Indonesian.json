@@ -1,0 +1,61 @@
+{
+  "title": "Suara di Pasir Kuno",
+  "intro": "Di antara para utusan Allah yang paling awal, ada seorang yang namanya bersinar singkat namun bermakna dalam Al-Quran. Individu ini hidup jauh sebelum banyak nabi besar diutus, dan dikenal karena kejujuran dan kesabarannya yang tak tergoyahkan. Kisahnya singkat tetapi warisannya abadi dalam catatan abadi. Siapakah jiwa mulia ini?",
+  "clues": [
+    "Aku adalah salah satu utusan paling awal, yang disebutkan secara singkat namun bermakna dalam Al-Quran.",
+    "Karakter saya ditentukan oleh komitmen yang teguh terhadap kebenaran.",
+    "Aku diingat dalam kitab Allah di antara orang-orang yang teguh dan sabar.",
+    "Hanya beberapa ayat pendek dalam Al-Quran yang menceritakan kisahku.",
+    "Allah memuliakan saya dengan cara yang unik, yang tidak dimiliki oleh nabi-nabi lain.",
+    "Aku diangkat ke kedudukan tinggi, sebuah kehormatan istimewa dalam Al-Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Idris",
+        "Nabi Ilyas",
+        "Dhul-Kifl",
+        "Nabi Alyasa",
+        "Asif bin Barkhiya"
+      ],
+      "answer": "Nabi Idris"
+    },
+    "trial": {
+      "label": "Momen Penting",
+      "options": [
+        "Aku diangkat ke kedudukan yang tinggi oleh Allah.",
+        "Aku membangun bahtera besar untuk menyelamatkan bangsaku.",
+        "Aku menantang para penyihir Firaun",
+        "Aku dilempar ke dalam lubang oleh saudara-saudaraku",
+        "Aku kehilangan penglihatan karena kesedihan atas kematian putraku."
+      ],
+      "answer": "Aku diangkat ke kedudukan yang tinggi oleh Allah."
+    },
+    "location": {
+      "label": "Referensi Suci",
+      "options": [
+        "Surah Al-Anbiya",
+        "Surah Al-Kahf",
+        "Surah Taha",
+        "Surah Asy-Syu'ara",
+        "Surah Yasin"
+      ],
+      "answer": "Surah Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Penghormatan Ilahi",
+      "options": [
+        "Sebuah posisi tinggi yang tidak seperti posisi lainnya.",
+        "Kekuasaan atas jin dan angin",
+        "Kerajaan dengan kemuliaan yang tak tertandingi",
+        "Seorang ahli waris dari masa tuaku",
+        "Perjanjian yang dimeteraikan dengan Allah"
+      ],
+      "answer": "Sebuah posisi tinggi yang tidak seperti posisi lainnya."
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

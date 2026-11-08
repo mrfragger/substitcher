@@ -1,0 +1,61 @@
+{
+  "title": "Den välformulerade utvalda",
+  "intro": "I skuggan av ett berg där gudomliga ord kom ner, vacklade ett folks tro under guldets glimt. En själ, begåvad med vältalighet, stod som ett stöd för ett större uppdrag, men stod inför ett ögonblick av djupgående prövningar. När den utvalda budbäraren steg upp till en helig plikt, stannade denna gestalt kvar och vädjade till en rastlös nation. Vem är denna ståndaktiga själ vars röst höjdes mot avgudadyrkan?",
+  "clues": [
+    "Jag blev utvald av Allah till att vara profet, även om min historia ofta berättas tillsammans med en annan.",
+    "Jag skickades till en tyrannisk härskare, men min roll var att stödja, inte att leda.",
+    "Jag var begåvad med vältalighet, och mina ord var avsedda att mjukna hjärtan.",
+    "När min följeslagare gav sig av till ett heligt möte, lämnades jag att vägleda ett rastlöst folk.",
+    "I sin otålighet förfalskade de en bild av sina ornament, och jag vädjade till dem att förbli trogna Allah.",
+    "Min följeslagare återvände och grep tag i mig, men jag förklarade att folket övermannade mig och nästan dödade mig; jag var inte bland de onda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Harun",
+        "Profeten Isa",
+        "Profeten Yahya",
+        "Profeten Zakariyah"
+      ],
+      "answer": "Profeten Harun"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att kastas in i en eld",
+        "Att kastas i en brunn",
+        "Inför guldkalvens incident",
+        "Testet för en allvarlig sjukdom",
+        "Testet att förlora förmögenhet och barn"
+      ],
+      "answer": "Inför guldkalvens incident"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Guldkalven",
+        "Personalen",
+        "Förbundsarken",
+        "Tabletterna",
+        "Den brinnande busken"
+      ],
+      "answer": "Guldkalven"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Straffad hårt",
+        "Förlåten och frikänd",
+        "Gjorde en kung",
+        "Tagen till himlen",
+        "Fått en ny bibelvers"
+      ],
+      "answer": "Förlåten och frikänd"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

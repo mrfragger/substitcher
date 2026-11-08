@@ -1,0 +1,61 @@
+{
+  "title": "La flamme au sein du palais de l'arrogance",
+  "intro": "Derrière les murs imposants du plus puissant palais du monde antique vivait un être dont le cœur abritait un secret qu'aucun décret royal ne pouvait faire taire. Tandis que tous autour de lui se prosternaient devant de faux dieux, cette âme conservait une foi silencieuse et ardente. Le souverain de ces terres se croyait divin, et pourtant, cet homme choisit la vérité plutôt que le confort, et la dévotion plutôt que la sécurité. Aujourd'hui, votre mission est de découvrir qui était cette âme courageuse, dont l'histoire demeure l'un des plus éloquents exemples de foi inébranlable.",
+  "clues": [
+    "J'ai vécu dans un lieu d'une richesse immense et d'une grandeur sans pareille, où le souverain du pays détenait un pouvoir absolu sur tous.",
+    "Tandis que ceux qui m'entouraient se prosternaient devant de faux dieux, je gardais une lueur de foi discrète dans mon cœur.",
+    "J'ai découvert et adopté un enfant qui m'a été amené d'une manière inhabituelle : non pas par la naissance, mais par les eaux d'un grand fleuve.",
+    "J'ai prié mon Seigneur, lui demandant une demeure près de Lui au Paradis et le salut face à la tyrannie qui m'entourait.",
+    "L'enfant que j'ai élevé a grandi pour défier le souverain même qui contrôlait mon destin, et je suis restée ferme dans ma foi même face aux menaces.",
+    "Je suis celui dont le nom est honoré dans le Coran comme un modèle de foi, et j'ai vécu dans le palais du Pharaon lui-même."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Asiya, l'épouse du Pharaon",
+        "Marie, la mère d'Isa",
+        "Bilqis, la reine de Saba",
+        "L'épouse du prophète Lot",
+        "L'épouse d'Imran"
+      ],
+      "answer": "Asiya, l'épouse du Pharaon"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Découverte et éducation d'un enfant abandonné devenu un grand prophète",
+        "Être jeté dans un grand feu par un tyran",
+        "Être témoin d'un grand déluge qui a détruit un peuple",
+        "Observer un palmier dattier se secouer et fournir de la nourriture",
+        "Concevoir un fils malgré un âge avancé"
+      ],
+      "answer": "Découverte et éducation d'un enfant abandonné devenu un grand prophète"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un palais royal d'une splendeur sans pareille",
+        "Un grand navire construit pour résister à une inondation",
+        "Une grotte profonde cachée dans les montagnes",
+        "Un feu flamboyant allumé au sommet d'une montagne",
+        "Un jardin clos de murs"
+      ],
+      "answer": "Un palais royal d'une splendeur sans pareille"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Une demeure fut accordée au Paradis par la volonté d'Allah",
+        "Un grand déluge a détruit les incrédules d'une nation ancienne",
+        "Un royaume d'une puissance et d'une autorité immenses fut accordé dans ce monde.",
+        "Une puissante armée fut dispersée par des oiseaux en vol.",
+        "Un tyran qui se prétendait divin a été noyé dans la mer"
+      ],
+      "answer": "Une demeure fut accordée au Paradis par la volonté d'Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

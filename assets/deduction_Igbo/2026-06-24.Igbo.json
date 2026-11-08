@@ -1,0 +1,61 @@
+{
+  "title": "Onye Nlekọta nke Ọkụ A Na-apụghị Imenyụ Emenyụ",
+  "intro": "Onye ahụ guzo n'ọnụ ụzọ ebe a na-atụ egwu nke ukwuu n'ebe a na-adịghị ahụ anya, e nyere ya ọrụ ọ bụla ọzọ na-achọghị. Mgbe mkpụrụ obi na-ata ahụhụ na-eti mkpu maka ebere, mmeghachi omume siri ike na-ada site n'ime ụlọ ọkụ. Ị nwere ike ịchọpụta onye onye nche a na-adịru ebighị ebi bụ?",
+  "clues": [
+    "M guzoro n'ọnụ ụzọ ebe ntaramahụhụ dị egwu n'ebe a na-anaghị ahụ anya.",
+    "Ọkụ na-ere ọkụ, nke a na-apụghị imenyụ bụ isi ihe dị mkpa n'ọrụ m dị nsọ.",
+    "Mkpụrụ obi na-ata ahụhụ na-akpọku aha m, na-arịọ maka enyemaka site na ahụhụ ha na-enweghị ngwụcha.",
+    "Mgbe ha na-arịọ arịrịọ, ana m ekwu na ha agaghị apụ, ma ọlị.",
+    "Abụghị m mmadụ, maọbụ mmụọ - Abụ m onye e kere eke nke nwere nrubeisi dị ọcha.",
+    "Abụ m onyeisi mmụọ ozi a họpụtara dị ka onye nche nke ọkụ ala mmụọ ruo mgbe ebighị ebi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Maịkel",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ndị Hel na-arịọ ka a kwụsị ahụhụ ha",
+        "A na-afụ opi iji gosi ụbọchị ikpe",
+        "A kpugheere Quran n'obi onye amụma.",
+        "Ndị obodo ha tụbara onye amụma n'ime nnukwu ọkụ",
+        "E wuru nnukwu mgbidi iji chịkwaa mba rụrụ arụ"
+      ],
+      "answer": "Ndị Hel na-arịọ ka a kwụsị ahụhụ ha"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ọkụ Ala Mmụọ (Jahannam)",
+        "Osisi Lote n'ókèala Paradaịs",
+        "Opi na-ama jijiji",
+        "Mkpanaka nke na-agbanwe ghọọ agwọ",
+        "Ocheeze Chineke mara mma"
+      ],
+      "answer": "Ọkụ Ala Mmụọ (Jahannam)"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A gwara ndị bi na Hel na ha ga-anọgide ruo mgbe ebighị ebi",
+        "A gbaghara ndị bi na Hel ma tọhapụ ha",
+        "Ndị bi na Hel nwere ohere nke abụọ n'okwukwe",
+        "A na-akwaga ndị bi na Hel gaa ebe dị jụụ",
+        "E bibiri ndị bi na Hel kpamkpam site na égbè eluigwe."
+      ],
+      "answer": "A gwara ndị bi na Hel na ha ga-anọgide ruo mgbe ebighị ebi"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

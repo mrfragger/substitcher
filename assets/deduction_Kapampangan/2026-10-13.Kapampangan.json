@@ -1,0 +1,61 @@
+{
+  "title": "Ing kalaban a api",
+  "intro": "keng minunang aldo ning kapahayagan, metung a pigura ing linwal bilang metung a matapang a kalaban ning katutwan. Bendisyunan na ning pibandian at katayuan, ing kaladwa ayni pinili ne ing pamagmaragul kesa keng patnube, at ing karelang istorya meging yang babala kareng tauling bersu ning surah.",
+  "clues": [
+    "menuknangan ku keng metung a siudad ning propeta, at metung ku kareng pekamalapit a kamaganak na, pero ing kanakung kayabangan peparayu na ku keng katutwan.",
+    "Atin kung maragul a pibandian ampo dakal a pibandian, at aisip ku na ing kanakung pibandyan parati na kung protektan.",
+    "Inyang mibulalag ya ing mensahi, insultuan ku yang bulalag at tinalikuran ke ing sarili ku uling matas ku karing talasalpantaya.",
+    "Ing kanakung pamipatepate metung yang sikat a ing metung a surah ning Quran diretsu yang migsalita kanaku, ausan na ku king lagyung balu da kanaku reng aliwa.",
+    "Mipabalu kanaku king ing pibandian ku at ing panakitan ku e na ku apakinabangnan, at miyugse ku king milalablab a api.",
+    "Kilala ku bilang tata ning api, at ing asawa ku magdala yang dutung a gamit ing lubid a palma keng gulut na."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Tinggap ne ing Islam at lantaran ne ing Propeta",
+        "Migplanu lang paten ing Propeta",
+        "menimuna yang social boycott laban kareng muslim",
+        "mekilaban ya keng labanan ning badr",
+        "Pepasakitan de i Bilal ibn Rabah"
+      ],
+      "answer": "Tinggap ne ing Islam at lantaran ne ing Propeta"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "metung a lubid a gawa keng palma",
+        "metung a mataram a espada",
+        "Metung a mabayat a kadena",
+        "metung a tungkud a gawa keng dutung",
+        "metung a balat a latiku"
+      ],
+      "answer": "metung a lubid a gawa keng palma"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Masilab ya keng milalablab a api",
+        "Sini at meging kayabe",
+        "mewala ya ing pibandian na pero mete yang parangal",
+        "Tinakas ya keng Abyssinia",
+        "Linud king dagat"
+      ],
+      "answer": "Masilab ya keng milalablab a api"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "El sonn di secul",
+  "intro": "Te l’è drèe a cumincià un viagg in del temp, incuntrand un prufund mistero de fed e de podè divin. Figürate un grupp de individui che sfidavan i norm de luur società, tacand al monoteism en un mund de politeism. La luur storia l’è una testimunianza de la capacità de Allah de pruteger i sò servitur giüst in di mod püsee straordinari. Pœdet descuvrir l’identità de chesti figur impurtant?",
+  "clues": [
+    "Erem un grupp piscinin de jòvin che credevan en un Dio, anca se l’era diffùs el politeismo del noster popul.",
+    "G’hem scapà de un suvran tiranno che g’haveva minacià per la noster fede, g’hem pagüra de la persecuziun e de la mort.",
+    "Cercam rifugi in d’un sit isolà, sperant in de la misericordia e in de la proteziun de Allah di noster opressur.",
+    "El noster Signur g’ha fatt cascà en un sonn profund, un sonn miraculus che sfidava el passagg del temp.",
+    "Quand sem desvilupà, credem che g’hem ripusà sultant per un dì o part de un dì, senza savè del vast periud che l’era verament passà.",
+    "El Coran parla che sem restà in del noster stat per tricent an, e che sem superà de nœuf, diventand un segn per l’umanità."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "La gent del foss",
+        "El popul de Thamud",
+        "La gent de la caverna",
+        "El popul de Madyan",
+        "I compagn del elefant"
+      ],
+      "answer": "La gent de la caverna"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Affrontand una grand inondaziun",
+        "Vesser inglutid de la terra",
+        "El luungh sonn miraculos",
+        "La distruziun de luur cità",
+        "La scissiun del mar"
+      ],
+      "answer": "El luungh sonn miraculos"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un busc in früsa",
+        "Una muntagna",
+        "Una barca",
+        "Una caverna",
+        "Un pozz"
+      ],
+      "answer": "Una caverna"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "G’han ricevü una grand richeza e podè",
+        "Sun stà trasfurmà en simi e en pors",
+        "Sun stà levà sü del son cuma un segn prufund",
+        "Sun stà affogà en un grand diluvio",
+        "G’han costruì un regn magnifich"
+      ],
+      "answer": "Sun stà levà sü del son cuma un segn prufund"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

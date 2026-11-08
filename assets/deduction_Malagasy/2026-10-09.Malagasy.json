@@ -1,0 +1,61 @@
+{
+  "title": "Ny Antso Tsy Nohenoina tao amin'ny Tanin'ny Avonavona",
+  "intro": "Mijoro eo amin'ny sisan-javatra rava amin'ny sivilizasiona lehibe taloha ianao, izay tsy nisy fetra ny fahefana sy ny avonavona. Nisy iraka nandeha teo amin'izy ireo, niantso ny fahamarinana, saingy nihamafy ny fony. Tsy noraharahaina ny fampitandremana, ary ny lanitra mihitsy no lasa fitaovan'ny fahatezerana. Iza moa io iraka io, ary inona no nanjo ireo izay nandà ny antso?",
+  "clues": [
+    "Nirahina ho any amin'ny vahoaka tsy manan-tsahala aho, izay nanorina tsangambato teo amin'ny toerana avo rehetra.",
+    "Nihevitra ny tenany ho tsy mety resy ny oloko ka nanao hoe: 'Iza no mahery noho isika amin'ny heriny?'",
+    "Niantso azy ireo aho mba hivavaka amin'i Allah irery ihany, saingy niampanga ahy ho hadalana sy mpandainga izy ireo.",
+    "Nanamby ahy ry zareo mba hampihatra ny sazy nampanantenaiko raha toa ka milaza ny marina aho.",
+    "Nandefa rivotra tsy nisy nitsitsy tamin'izy ireo i Allah.",
+    "Izaho sy ireo izay nino niaraka tamiko dia voavonjy noho ny famindram-pon'i Allah, fa ireo tsy mpino kosa dia ringana tanteraka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Hoda",
+        "Mpaminany Salih",
+        "Mpaminany Shuaib",
+        "Mpaminany Lota",
+        "Mpaminany Noa"
+      ],
+      "answer": "Mpaminany Hoda"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nisy rivotra mahery namely ireo tsy mpino",
+        "Safodrano lehibe no nandrakotra ireo tsy mpino",
+        "Nirotsaka ny vato be",
+        "Nisy kiakiaka mafy nahazo ireo tsy mpino",
+        "Nisy horohoron-tany namely ireo tsy mpino"
+      ],
+      "answer": "Nisy rivotra mahery namely ireo tsy mpino"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Rivotra tsy mety ritra",
+        "Vata hazo",
+        "Ramevavavy iray",
+        "Orana vato tanimanga",
+        "Afo mirehitra"
+      ],
+      "answer": "Rivotra tsy mety ritra"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voavonjy i Hoda sy ireo mpino, ary ringana kosa ireo tsy mpino",
+        "Nasandratra ho amin'ny toerana ambony i Hud",
+        "Novonoin'ny vahoakany i Hoda",
+        "Nibebaka ny vahoakan'i Hoda ary voavonjy izy ireo",
+        "Nandao ny olony i Hoda talohan'ny nahazoany sazy"
+      ],
+      "answer": "Voavonjy i Hoda sy ireo mpino, ary ringana kosa ireo tsy mpino"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

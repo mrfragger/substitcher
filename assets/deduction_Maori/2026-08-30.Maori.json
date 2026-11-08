@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Whakapono o te Whakakitenga",
+  "intro": "I ngā ao kāore e kitea, ka neke tika te mea ora o te mārama parakore, ka mahi i ngā whakahau katoa me te kore whakaroa. Kua kōrero tēnei tangata ki ngā pononga kua whiriwhiria, kua kawe mai i ngā kupu ārahi, ā, kua kite i te huraina o ngā ture atua puta noa i ngā tau. Ko wai tēnei wairua whakahonoretia?",
+  "clues": [
+    "He mea hanga ahau nō te māramatanga parakore, i hangaia mai i te māramatanga, ā, kāore anō ahau kia takahi i tetahi whakahau a tōku Ariki.",
+    "Ka neke ahau i waenganui i te rangi me te whenua, e heke iho ana me ngā ture a te Tino Atawhai.",
+    "I tonoa ahau ki tētahi wahine rangatira i te wāhi tapu, e kauwhau ana i tētahi tama parakore ki a ia.",
+    "Ko ahau te wairua o te tapu, ā, i tautoko ahau i tētahi poropiti i homai ki a ia ngā tohu mārama me te Rongopai.",
+    "I tae atu ahau ki tētahi ana i runga i te maunga ki te whakapuaki i ngā kupu tuatahi o tētahi whakahua ka tiakina mō ake tonu atu.",
+    "Ko ahau te wairua pono, ā, nāku i tuku iho te Quran ki te ngākau o te karere whakamutunga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Kapariera (Kapariera)",
+        "Mikaira (Michael)",
+        "Te Anahera o te Mate",
+        "Mārika (Kaitiaki o te Reinga)",
+        "Harut (tetahi o ngā anahera tokorua i Papurona)"
+      ],
+      "answer": "Kapariera (Kapariera)"
+    },
+    "trial": {
+      "label": "Kaupapa Matua/Tūranga",
+      "options": [
+        "Te tuku i ngā whakakitenga ki ngā poropiti",
+        "Te whakatangi i te tetere i te Rā Whakawa",
+        "Te tiaki i ngā kūaha o te reinga",
+        "Te tuhi i ngā mahi a te tangata",
+        "Te mea e ua ai"
+      ],
+      "answer": "Te tuku i ngā whakakitenga ki ngā poropiti"
+    },
+    "location": {
+      "label": "Huanga Matua, Taitara rānei",
+      "options": [
+        "Te Wairua Tapu (Ruh al-Qudus)",
+        "Te Wairua o te Mana",
+        "Te Wairua o te Aroha",
+        "Te Wairua o te Arataki",
+        "Te Wairua o te Pono"
+      ],
+      "answer": "Te Wairua Tapu (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Ngā Hua o te Misiona",
+      "options": [
+        "I whakakitea te Quran ki a Poropiti Muhammad",
+        "I whakatangihia te tetere i te Rā Whakawa",
+        "I tiakina te reinga, ā, i kati ōna kūaha",
+        "I tukuna te Pukapuka o ngā Mahi ki a Allah",
+        "I tukua iho te ua ki te whenua"
+      ],
+      "answer": "I whakakitea te Quran ki a Poropiti Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

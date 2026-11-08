@@ -1,0 +1,60 @@
+{
+  "title": "La Testo Sub la Ondoj",
+  "intro": "Profeto, ŝarĝita de sia misio, faris decidon, kiu kondukis lin malproksimen de sia popolo kaj en neatenditan provon. Lia vojaĝo prenis draman turnon, testante lian fidon kaj paciencon laŭ la plej profunda maniero. Ĉu vi povas dedukti la detalojn de ĉi tiu eksterordinara evento el la donitaj indicoj?",
+  "clues": [
+    "Profeto estis sendita al popolo, sed foriris haste, sentante frustriĝon pro ilia malakcepto.",
+    "Lia vojaĝo kondukis lin al la maro, kie li suriris peze ŝarĝitan ŝipon serĉante trairejon.",
+    "Granda ŝtormo ekestis, minacante la ŝipon, kaj oni decidis ĵeti unu personon ekster la ŝipon por malpezigi la ŝarĝon, laŭ lotumo.",
+    "Lin englutis estaĵo de la profundo, mirakla okazaĵo dekretita de Dia volo.",
+    "Ene de la limoj de la ventro de la kreitaĵo, li vokis sian Sinjoron, pentante kaj glorante Alaho'n en la mallumo.",
+    "Post periodo de intensa petegado, li estis ĵetita sur dezertan bordon, malforta sed vivanta, kaj poste revenis por trovi, ke lia popolo fine kredis."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeto/Persono",
+      "options": [
+        "Profeto Nuh",
+        "Profeto Lut",
+        "Profeto Moseo",
+        "Profeto Junus",
+        "Profeto Jusuf"
+      ],
+      "answer": "Profeto Junus"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La diluvo de Nuh",
+        "La detruo de Sodom",
+        "La vojaĝo en la ventro de la granda fiŝo",
+        "La disiĝo de la maro",
+        "La revelacio de la brulanta arbustaĵo"
+      ],
+      "answer": "La vojaĝo en la ventro de la granda fiŝo"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La Arkeo",
+        "Monto Sinajo",
+        "La Bastono de Musa",
+        "La Granda Fiŝo",
+        "La Puto de Jusuf"
+      ],
+      "answer": "La Granda Fiŝo"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Nova interligo kun la homaro",
+        "Mirakla naskiĝo por lia popolo",
+        "Regno establita por lia genlinio",
+        "Reveno al sia popolo, kiu tiam kredis",
+        "Venko super tirana reganto"
+      ],
+      "answer": "Reveno al sia popolo, kiu tiam kredis"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

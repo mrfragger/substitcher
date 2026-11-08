@@ -1,0 +1,61 @@
+{
+  "title": "L'anima senza nome che si oppose a una nazione ingiusta",
+  "intro": "Nelle pagine del Corano si trovano figure i cui nomi sono stati celati affinché potessimo riflettere sui loro insegnamenti. Una di queste anime nacque in una nazione che aveva ripudiato i propri messaggeri, eppure quest'individuo possedeva una fede nascosta che lo distingueva dagli altri. Quando la distruzione incombeva, rimase saldo nella sua segreta convinzione. Riuscirai a scoprire l'identità di questa misteriosa figura che avverte il suo popolo prima che si abbatta il decreto finale?",
+  "clues": [
+    "Vivevo in mezzo a un popolo che aveva ripetutamente rinnegato i messaggeri inviati loro da Allah.",
+    "A differenza della mia nazione, ho riconosciuto la verità quando è giunto un messaggero con chiari segni dal mio Signore.",
+    "Ho tenuto nascosta la mia fede ai miei oppressori, sapendo che mi avrebbero fatto del male se avessero scoperto il mio credo.",
+    "Quando si avvicinò il momento della punizione, dichiarai apertamente la mia fedeltà e avvertii il mio popolo di salvarsi.",
+    "Ho ricordato loro che sono un messaggero fidato, non diverso da quelli inviati prima di me, e che non devono adorare altri che Allah.",
+    "Il mio popolo mi accusò di stregoneria e follia, eppure la punizione di cui erano stati avvertiti alla fine li colpì."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Hud, messaggero del popolo di Aad",
+        "Un uomo credente della nazione del profeta Hud che fu martirizzato",
+        "Il sovrano del popolo di Aad che ha rifiutato la verità",
+        "Un compagno del profeta Salih che dubitava dei segni divini",
+        "Un angelo inviato per distruggere il popolo di Aad"
+      ],
+      "answer": "Un uomo credente della nazione del profeta Hud che fu martirizzato"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La prova della siccità e della carestia che mise a dura prova la loro pazienza",
+        "La prova di dichiarare la propria fede di fronte a una nazione oppressiva e miscredente",
+        "La prova di costruire una nave per sfuggire a una grande alluvione",
+        "La prova di essere gettati nel fuoco per la fede in Allah",
+        "La prova di essere messi alla prova con ricchezza e prosperità"
+      ],
+      "answer": "La prova di dichiarare la propria fede di fronte a una nazione oppressiva e miscredente"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La città della Mecca dove fu costruita la casa sacra",
+        "Le pianure desertiche della nazione che ha rinnegato il loro messaggero",
+        "Le montagne di Madian dove fu inviato il profeta Shu'aib",
+        "La riva del fiume Egitto dove fu trovato il profeta Mosè",
+        "La valle del popolo di Aad, colpita da un vento impetuoso"
+      ],
+      "answer": "Le pianure desertiche della nazione che ha rinnegato il loro messaggero"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Sono stato salvato su una nave e ho vissuto finché Allah non ha voluto",
+        "Il mio popolo credette dopo di me e fu guidato sulla retta via",
+        "Sono stato ucciso dal mio popolo, ma la mia anima è stata accolta dalla misericordia di Allah.",
+        "Mi sono pentito dopo essere stato messo alla prova e Allah ha accettato il mio pentimento.",
+        "Dopo la mia morte, sono stato trasformato in un idolo venerato dal mio popolo."
+      ],
+      "answer": "Sono stato ucciso dal mio popolo, ma la mia anima è stata accolta dalla misericordia di Allah."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

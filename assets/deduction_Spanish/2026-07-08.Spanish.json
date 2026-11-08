@@ -1,0 +1,61 @@
+{
+  "title": "Los traidores de los elegidos",
+  "intro": "A lo largo de la historia, mensajeros divinos caminaron entre la humanidad, y algunos de los más cercanos a ellos no supieron reconocer la luz. Este relato gira en torno a dos almas cuya cercanía a la profecía se convirtió en su prueba, y su legado en una lección eterna.",
+  "clues": [
+    "Vivimos en tiempos de grandes profetas, pero nuestros ojos permanecieron cerrados a la verdad que traían.",
+    "Nuestros hogares estaban llenos de revelaciones divinas, pero nuestros corazones estaban endurecidos.",
+    "Nos casamos con hombres que fueron elegidos para advertir a su pueblo.",
+    "Cuando llegó el castigo, no buscamos refugio en el arca ni huimos de la lluvia abrasadora, porque nos burlamos de las advertencias.",
+    "En el Corán se nos menciona como ejemplo para los incrédulos, demostrando que ni siquiera una relación cercana con un profeta garantiza la salvación.",
+    "Nosotras somos las esposas de Noé y Lot, quienes los traicionamos y por eso fuimos condenadas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Las esposas de Nuh y Lut",
+        "Las esposas de Ibrahim e Isma'il",
+        "Las esposas de Musa y Harún",
+        "Las esposas de Dawud y Sulayman",
+        "Las esposas de Ayyub y Yunus"
+      ],
+      "answer": "Las esposas de Nuh y Lut"
+    },
+    "trial": {
+      "label": "¿En qué consistió su juicio?",
+      "options": [
+        "Se casaron con profetas pero no creyeron.",
+        "Eran estériles y culpaban a los profetas.",
+        "Eran ricos y arrogantes.",
+        "Iblis los tentó a abandonar sus hogares.",
+        "Adoraban al becerro de oro."
+      ],
+      "answer": "Se casaron con profetas pero no creyeron."
+    },
+    "location": {
+      "label": "¿A qué estaba ligado su destino?",
+      "options": [
+        "La inundación y la lluvia de piedras",
+        "Un viento feroz",
+        "Un terremoto",
+        "La plaga de langostas",
+        "La división del mar"
+      ],
+      "answer": "La inundación y la lluvia de piedras"
+    },
+    "outcome": {
+      "label": "¿Cuál fue su final?",
+      "options": [
+        "Perecieron con los incrédulos.",
+        "Se arrepintieron y fueron salvados.",
+        "Se quedaron sin hijos.",
+        "Fueron exiliados para siempre.",
+        "Se transformaron en monos y cerdos."
+      ],
+      "answer": "Perecieron con los incrédulos."
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Neochvejní svedkovia",
+  "intro": "Predstavte si časy, keď bola viera skúšaná ohňom a neochvejné presvedčenie sa stalo vrcholným vzdorom. Vašou úlohou je odhaliť identitu skupiny, ktorej príbeh je opísaný v Koráne, rozprávaní o hlbokej viere proti drvivej tyranii. Odhaľte indície a odhaľte, kto tieto duše boli a akým mimoriadnym okolnostiam čelili.",
+  "clues": [
+    "Napriek obrovskému tlaku, aby sme sa zriekli svojej viery, sme si pevne stáli za svojím presvedčením.",
+    "Stali sme sa terčom mocného vládcu, ktorý sa snažil uhasiť svetlo monoteizmu.",
+    "Boli sme svedkami veľkých znamení a zázrakov, no naši utláčatelia zostali ľahostajní.",
+    "Zniesli sme hroznú metódu prenasledovania, ktorej cieľom bolo terorizovať ostatných a prinútiť ich podriadiť sa.",
+    "Boli sme uvrhnutí do plápolajúceho pekla, no naša neochvejnosť nám vyniesla vznešené postavenie u Alaha.",
+    "Náš príbeh je opísaný v súre pomenovanej podľa nebeských súhvezdí, ktorá varuje pred osudom tých, ktorí prenasledujú veriacich."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Ľudia z Thamudu",
+        "Ľudia z Adu",
+        "Ľudia z priekopy",
+        "Midjánci",
+        "Ľudia slona"
+      ],
+      "answer": "Ľudia z priekopy"
+    },
+    "trial": {
+      "label": "Naše prenasledovanie",
+      "options": [
+        "Utopenie sa v povodni",
+        "Byť pohltený spaľujúcim vetrom",
+        "Byť uvrhnutý do ohnivého zákopu",
+        "Byť pohltený zemou",
+        "Premena na opice"
+      ],
+      "answer": "Byť uvrhnutý do ohnivého zákopu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Masívna povodeň",
+        "Veľké zemetrasenie",
+        "Hlboká, horiaca priekopa",
+        "Mocný idol",
+        "Ničivé sucho"
+      ],
+      "answer": "Hlboká, horiaca priekopa"
+    },
+    "outcome": {
+      "label": "Náš konečný osud",
+      "options": [
+        "Bolo im udelené kráľovstvo na zemi.",
+        "Zachránil ich zázračný útek.",
+        "Dosiahli mučeníctvo a večnú odmenu.",
+        "Boli premenení na iný druh.",
+        "Bolo im dané nesmierne bohatstvo a prosperita."
+      ],
+      "answer": "Dosiahli mučeníctvo a večnú odmenu."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

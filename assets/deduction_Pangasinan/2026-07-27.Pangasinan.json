@@ -1,0 +1,61 @@
+{
+  "title": "Say Apay ya Anguman ed Kapalaran",
+  "intro": "Nen inmunan panaon na too, say sakey a kamarerwa et mangiyoopresi na regalo ya puro so getma to. Balet, say imon so akaamot ed anino na pangawat. Amtaen so istorya na sayan too ya say inka-dios tan makapasinagem ya anggaan to et ag-onpatey ed madibinon panangiparungtal.",
+  "clues": [
+    "Kaiba ak ed saray sankaunaan a kailalakan na katooan.",
+    "Angiter ak na bagat ed Katawan ko, tan inawat itan a maong.",
+    "Ag-inawat so apay nen agik, tan say imon so amabilunget ed puso to.",
+    "Inkuankod sikato, 'No iyunat moy limam ed siak pian pateyen mo ak, ag ko met iyunat so limak a pateyen ta ka; talagan tatakotan ko si Allah, say Katawan na amin a mundo.'",
+    "Siak so nagmaliw a biktima na sankaunaan a gawa na panagpatey ed dalin.",
+    "Inmakis so dalak, tan siak so sankaunaan ya martir na inka-inosente."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Cain)",
+        "Say Lalaki a taga Ya-Sin",
+        "Say Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Inawat so apay to, ya sengegan na imon na agi to tan sikatoy pinatey da",
+        "Sikatoy imbantak ed mandarlang ya hurnoan balet ta pinmaway ya anggapoy asugatan",
+        "Sikatoy nanggawa na baleg a barko diad panangigiya na Dios",
+        "Sikatoy inakmon na baleg a sira tan nansiansia ed kabilungetan",
+        "Inwanwan to ray totoo to ed sakey a dayat ya naapag"
+      ],
+      "answer": "Inawat so apay to, ya sengegan na imon na agi to tan sikatoy pinatey da"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey ya inawat ya apay",
+        "Sakey a baston ya nagmaliw ya uleg",
+        "Say kabatyan a kamelyo bilang madibinon tanda",
+        "Sakey a hoopoe ya mangiyaawit na balita",
+        "Sakey a balitok a kilaw a baka ya dadayewen"
+      ],
+      "answer": "Sakey ya inawat ya apay"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Say sankaunaan ya impamatey ed awaran; say agi to et nasentensiaan",
+        "Inakmon na dalin a kaiba so kayamanan to",
+        "Nagmaliw ya unggoy lapud impakasumlang",
+        "Dineral na maksil tan yelon dagem",
+        "Nalner ed baleg a delap bilang dusa"
+      ],
+      "answer": "Say sankaunaan ya impamatey ed awaran; say agi to et nasentensiaan"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Päästmise vankumatu ehitaja",
+  "intro": "Tohutu kannatlikkuse ja vankumatu veendumuse kehastus, pühendas see inimene lugematuid aastaid jumalikule missioonile, seistes silmitsi lakkamatu põlguse ja tagasilükkamisega. Tema lugu on võimas tunnistus usust ülekaaluka uskmatuse ees, kulmineerudes pöördelise sündmusega, mis muutis maailma.",
+  "clues": [
+    "Pühendasin uskumatult pika aja oma elust oma rahva kutsumisele Allahi kummardama.",
+    "Mu rahvas pilkas mind ja süüdistas mind ilmses eksimuses ja hullumeelsuses.",
+    "Mul kästi ehitada midagi, mis tundus minu sisemaal asuva kogukonna jaoks ebatavaline.",
+    "Vaid vähesed uskusid ja liitusid minu ja mu perega sellel ainulaadsel ehitusplatsil.",
+    "Kandsin pardal paarikaupa igast elusolendist, nagu Allah oli käskinud.",
+    "Suur veeuputus haaras maa, päästes vaid need, kes olid minuga mu laeval, samal ajal kui mu enda poeg hukkus oma uskmatuse pärast."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Salih",
+        "Prohvet Hud",
+        "Prohvet Noa",
+        "Prohvet Dawud",
+        "Prohvet Sulayman"
+      ],
+      "answer": "Prohvet Noa"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Maavärina põhjustatud häving",
+        "Mere lõhenemine",
+        "Suur üleujutus",
+        "Nimrodi tuli",
+        "Konnade katk"
+      ],
+      "answer": "Suur üleujutus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Põlev põõsas",
+        "Laev",
+        "Vee kaev",
+        "Kuldvasikas",
+        "Turi mägi"
+      ],
+      "answer": "Laev"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai kuningriigi",
+        "Tema rahvas muudeti ahvideks",
+        "Tema rahvas päästeti ime läbi",
+        "Tema rahvas uppus",
+        "Tema rahvast tabas pikselöök"
+      ],
+      "answer": "Tema rahvas uppus"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Le désir dans la chambre sacrée",
+  "intro": "Vous pénétrez dans ce sanctuaire paisible et découvrez un serviteur dévoué d'Allah, en prière. Ses mains sont levées, son regard tourné vers le ciel, et son cœur est empli d'une aspiration qui a traversé toute une vie. Qui est cette âme patiente dont la confiance en Allah n'a jamais faibli ?",
+  "clues": [
+    "J'ai passé de longues années dans le recueillement et la prière, témoin de miracles qui ont renforcé ma foi.",
+    "On m'a confié la responsabilité de prendre soin d'une jeune âme bénie dans le sanctuaire.",
+    "En vieillissant, mon plus grand chagrin était de ne pas avoir d'enfant, car ma femme était stérile et nous étions tous deux d'un âge avancé.",
+    "J'ai prié mon Seigneur pour qu'il me désigne un successeur issu de ma famille, quelqu'un qui perpétuerait l'héritage de la prophétie.",
+    "Alors que je me tenais dans le sanctuaire, les anges m'ont appelé en disant : « Allah t'annonce une bonne nouvelle », et j'ai été saisi de crainte et d'admiration.",
+    "On m'a annoncé que j'aurais un fils nommé Yahya, un nom qui n'avait jamais été donné à personne auparavant, et comme signe, je ne parlerais à personne pendant trois jours."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Zacharie",
+        "Prophète Yahya",
+        "Le prophète Isaïe",
+        "Prophète Dawud",
+        "Luqman le Sage"
+      ],
+      "answer": "Le prophète Zacharie"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La stérilité et la vieillesse, tout en désirant un héritier légitime.",
+        "Être jeté dans un feu ardent",
+        "Être avalé par un grand poisson",
+        "Perdre son royaume face à un tyran",
+        "Être exilé de sa patrie"
+      ],
+      "answer": "La stérilité et la vieillesse, tout en désirant un héritier légitime."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La niche de prière (mihrab)",
+        "Le grand navire (Arche)",
+        "Le buisson ardent",
+        "Le bâton qui s'est transformé en serpent",
+        "La chamelle d'Allah"
+      ],
+      "answer": "La niche de prière (mihrab)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il eut un fils juste et reprit la parole après trois jours de silence.",
+        "Détruit par une inondation pour cause d'incrédulité",
+        "Possédant un vaste royaume et le contrôle du vent",
+        "Sorti du ventre d'un poisson",
+        "Englouti par la terre"
+      ],
+      "answer": "Il eut un fils juste et reprit la parole après trois jours de silence."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

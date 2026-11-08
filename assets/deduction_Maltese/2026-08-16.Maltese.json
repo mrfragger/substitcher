@@ -1,0 +1,61 @@
+{
+  "title": "Il-Vuċi Siekta fil-Kamra",
+  "intro": "Talba dwiet fis-skiet ta’ kamra sagra żmien ilu, titla’ minn ruħ li qed tixjieħ tixxennaq għal dak li d-dinja kienet iddikjarat impossibbli. Din il-figura, avvanzata fl-età u mgħobbija bit-tħassib għall-futur, daret lejn Sidhom b’supplika personali. Dak li segwa kien tweġiba divina li sfidat kull aspettattiva naturali—xhieda tal-ħniena ta’ Dak li jwieġeb is-sejħa ddisprata.",
+  "clues": [
+    "Sejjaħt lill-Mulej tiegħi fil-privat, irtirajt f’kamra fejn iddedikajt ruħi għall-qima Tiegħu.",
+    "Stqarrejt mal-Mulej tiegħi li kont nibża' għal dawk li kienu se jiġu warajja, inkwetat għall-gwida tal-poplu tiegħi ladarba nitlaq.",
+    "Ix-xjuħija kienet ħakmitni—għadmi kien dgħajjef u xagħar abjad kien infirex ma’ rasi.",
+    "Martu kienet sterili ħajjitha kollha, iżda xorta tlabt lill-Mulej tiegħi biex jagħtini werriet mill-preżenza Tiegħu stess.",
+    "Tlabt sinjal, u l-Mulej tiegħi wieġeb billi żammni milli nkellem lil ħadd għal tlett iljieli, waqt li bqajt fiżikament f'saħħti.",
+    "Wegħedtni iben li ismu se jkun Yahya, isem li l-Mulej tiegħi ddikjara li qatt ma kien ingħata lil ħadd qabel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Żakkarija",
+        "Profeta Nuh",
+        "Il-Profeta Musa",
+        "Profeta Yusuf",
+        "Il-Profeta Dawud"
+      ],
+      "answer": "Profeta Żakkarija"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Nitolbu għal werriet fix-xjuħija b'mara sterili",
+        "Li tintrema f’nar qawwi",
+        "Nibla’ minn ħuta kbira fid-dlam",
+        "Nissaportu t-telf tal-familja, il-ġid, u s-saħħa",
+        "Li jiġi kkmandat biex jibni arka kbira"
+      ],
+      "answer": "Nitolbu għal werriet fix-xjuħija b'mara sterili"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-kamra tat-talb (mihrab)",
+        "Bastun li ttrasforma f'serp",
+        "Arka kbira tal-injam",
+        "Ġnien b'rebbiegħa unika",
+        "Muntanja fejn jinġabru l-għasafar"
+      ],
+      "answer": "Il-kamra tat-talb (mihrab)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ingħata iben b’isem mirakoluż minkejja età kbira ħafna",
+        "Salvat minn nar qawwi b’kmand divin",
+        "Dilluvju kbir qered lil dawk li ma jemmnux",
+        "Irrestawrat għall-familja, il-ġid, u s-saħħa wara l-paċenzja",
+        "Il-Fargħun u l-armata tiegħu għerqu fil-baħar"
+      ],
+      "answer": "Ingħata iben b’isem mirakoluż minkejja età kbira ħafna"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

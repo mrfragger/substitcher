@@ -1,0 +1,61 @@
+{
+  "title": "Pravdivý hlas dávných dob",
+  "intro": "V Koránu je duše, jejíž příběh je vyprávěn v pouhých několika verších, přesto její ušlechtilé vlastnosti vyzařují s brilantní jasností. Tento starodávný služebník Nejmilosrdnějšího, chválen Všemohoucím pro zvláštní ctnost, zaujímá své místo na stránkách zjevení. Vaším úkolem je identifikovat tuto pozoruhodnou postavu. Uhodnete, kdo to je?",
+  "clues": [
+    "Jsem Alláhův prorok, který žil mezi ranými generacemi lidstva.",
+    "Alláh mě ve Své Knize zmínil spolu s dalšími proroky, kteří byli všichni chváleni pro stejnou ušlechtilou ctnost.",
+    "V Koránu jsem popisován jako muž pravdy.",
+    "Alláh mě pozvedl na vysoké postavení, kterého dosáhlo jen málo lidí.",
+    "Moje jméno je zmíněno v súře Al-Anbija, spolu se dvěma dalšími proroky chválenými za jejich trpělivost.",
+    "Já jsem Idrís, pravdomluvný a vznešený prorok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Idrís",
+        "Prorok Nuh",
+        "Prorok Ibráhím",
+        "Prorok Músa",
+        "Prorok Ismáíl"
+      ],
+      "answer": "Prorok Idrís"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Zachování trpělivosti a pravdomluvnosti, poté povýšení na vysoké postavení",
+        "Stavba velké archy, která má zachránit věřící před ničivou potopou",
+        "Být uvržen do planoucího ohně a vyjít z něj zcela bez úhony",
+        "Konfrontace s mocným králem a porážka jeho armády kouzelníků",
+        "Přežití v břiše velké ryby v hlubinách moře"
+      ],
+      "answer": "Zachování trpělivosti a pravdomluvnosti, poté povýšení na vysoké postavení"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Vysoké a vznešené postavení od Alláha",
+        "Obrovská loď postavená z prken a vyzdobená dehtem",
+        "Zuřící oheň rozdmýchávaný modláři ničemného krále",
+        "Rozlehlé moře, které se rozdělilo na suché stezky",
+        "Tmavé břicho velké velryby na dně oceánu"
+      ],
+      "answer": "Vysoké a vznešené postavení od Alláha"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Přiveden do Alláhova milosrdenství jako jeden z bohoslužebníků",
+        "Zachráněn spolu se všemi věřícími před celosvětovou potopou",
+        "Vyšel z plamenů nedotčen ohněm",
+        "Bezpečně vedl děti Izraele k svobodě přes moře",
+        "Shledáni se svou milovanou rodinou po dlouhých letech útrap"
+      ],
+      "answer": "Přiveden do Alláhova milosrdenství jako jeden z bohoslužebníků"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

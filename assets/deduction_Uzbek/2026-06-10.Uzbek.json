@@ -1,0 +1,61 @@
+{
+  "title": "Bog'ning qo'riqchilari",
+  "intro": "Yam-yashil bog'da bir jamoa tantanali qasamyod qildi. Ammo ilohiy iroda aralashib, ularning ne'matlarini bepusht yerga aylantirganda, ularning qat'iyati sinovdan o'tkazildi.",
+  "clues": [
+    "Bizga mo'l-ko'l bog' berilgan edi, lekin biz takabbur bo'lib qoldik.",
+    "Biz kambag'allar bilan baham ko'rmasdan hosil yig'ib olish rejasini tuzdik.",
+    "Biz rejamizga ishonib, erta tongda yo'lga chiqdik.",
+    "Lekin yetib kelganimizda, bog'imiz bir kechada vayron bo'lganini ko'rdik.",
+    "Biz xatoimizni angladik va bir-birimizni ayblay boshladik.",
+    "Nihoyat tavba qildik, ammo saboq juda kech olindi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Bog' ahli",
+        "G'or odamlari",
+        "Fil odamlari",
+        "Samud qavmi",
+        "Ad qavmi"
+      ],
+      "answer": "Bog' ahli"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Kulga aylangan bog'",
+        "Hamma narsani vayron qilgan toshqin",
+        "Yurtni qamrab olgan ocharchilik",
+        "Qushlar qo'shini hujum qilmoqda",
+        "Daraxtlarni ildizi bilan qo'porib tashlagan kuchli shamol"
+      ],
+      "answer": "Kulga aylangan bog'"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Bog'",
+        "G'or",
+        "Kema",
+        "Tog'",
+        "Saroy"
+      ],
+      "answer": "Bog'"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ular tavba qilishdi, lekin bog'larini yo'qotishdi",
+        "Ular butunlay vayron qilindi",
+        "Ular maymunlarga aylantirildi",
+        "Ular imon orqali qutqarildilar",
+        "Ular hukmdor bo'lishdi"
+      ],
+      "answer": "Ular tavba qilishdi, lekin bog'larini yo'qotishdi"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

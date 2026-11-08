@@ -1,0 +1,61 @@
+{
+  "title": "Rabhadh Beag Roimh Óstach Máirseála",
+  "intro": "Téigh isteach i ngleann ina bhfuil rialóir cumhachtach agus slua ollmhór ag druidim, agus samhlaigh taistealaí beag bídeach ag tabhairt rabhaidh a shábhálann pobal ar fad. De réir mar a shroicheann an pobal atá faoi bhagairt foscadh, imíonn an baol thart. Lean na leideanna chun an figiúr atá fágtha ar lár taobh thiar den rabhadh sin a aithint.",
+  "clues": [
+    "Táim i measc na créatúir bheaga a bhaineann le ríocht rialóra.",
+    "Tá mo phobal ina gcónaí i dtithe cónaithe taobh istigh de ghleann, áit ar féidir le duine againn glaoch ar na daoine eile.",
+    "Tá bagairt orainn ón rialóir sin agus na hairm atá ag taisteal leis an rialóir.",
+    "Is mise an té a ghlaonn ar mo phobal dul isteach ina n-áitribh agus a thugann rabhadh dúinn gan a bheith brúite gan fhios dúinn.",
+    "Is é Sulayman an rialóir, agus tá mo speiceas i measc na créatúir atá faoina cheannas.",
+    "Is mise seangán an ghleanna sin; tar éis mo rabhaidh, chuaigh muid isteach inár n-áitribh agus d’éalaíomar ón mbrú a mbeadh orainn a bheith i ngan fhios murach sin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Seangán an Ghleanna",
+        "An Hoopoe",
+        "An Préachán",
+        "An Nathair",
+        "An Múil"
+      ],
+      "answer": "Seangán an Ghleanna"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Rabhadh a shábháil pobal seangán",
+        "Iarratas ar fáinne ó iasc",
+        "Cuardach ar ríchathaoir atá ar iarraidh",
+        "Tarrtháil na súile goidte",
+        "Diúltú bia rialóra a ithe"
+      ],
+      "answer": "Rabhadh a shábháil pobal seangán"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Gleann na Seangán",
+        "Fáinne Sínithe Sulayman",
+        "Léine Folaite Yusuf",
+        "Lao Órga an Eacsadas",
+        "Foireann Mhúsa"
+      ],
+      "answer": "Gleann na Seangán"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Sábháladh an pobal tar éis dóibh foscadh a ghlacadh",
+        "Scriosadh an pobal gan foscadh a fháil",
+        "Sábháladh an pobal mar gheall ar an cúlú ar an arm.",
+        "Bronnadh luach saothair ar an bpobal le smacht a fháil ar na héin",
+        "Tugadh an pobal i mbraighdeanas chuig an gcúirt ríoga"
+      ],
+      "answer": "Sábháladh an pobal tar éis dóibh foscadh a ghlacadh"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

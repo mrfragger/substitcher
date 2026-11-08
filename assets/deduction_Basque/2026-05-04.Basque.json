@@ -1,0 +1,61 @@
+{
+  "title": "Harrokeriaren Arkitektoa.",
+  "intro": "Antzinako botere desafiatzaile batek gobernatutako lurralde batean, pertsona gako batek eragin-posizio bat zuen. Arima hau agintariaren plan handietan funtsezkoa izan zen, haien erregealdi zapaltzailean lagunduz eta jainkozko mezua zalantzan jarriz. Haien ondarea munduko boterearen bilaketarekin eta egiaren ukazioarekin lotuta dago.",
+  "clues": [
+    "Belaunaldiz belaunaldi herri bat zapaldu zuen agintari ikaragarri bati zerbitzatu nion.",
+    "Nire izena maiz aipatzen da Jainkozko Liburuan lider boteretsu honen ondoan.",
+    "Eraikuntza proiektu handi baten ardura eman zidaten, zerura iristeko pentsatutako egitura erraldoi bat.",
+    "Israelgo semeak hiltzeko eta haien alabak barkatzeko aholkatu nion nire nagusiari.",
+    "Alaren mezulari boteretsu baten aurkako konspirazio eta konspirazioetan nahastuta egon nintzen.",
+    "Nire amaiera, nire nagusiarekin eta bere armadarekin batera, itsaso zabal baten uretan iritsi zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Aberastasun izugarriarekin probatua izatea",
+        "Armada bat etxe sakratu baten aurka gidatzen",
+        "Jainkoarengana iristeko dorre bat eraikitzea",
+        "Beren sinesmenagatik sutara botata izatea",
+        "Anai-arrebek putzu batera botata izatea"
+      ],
+      "answer": "Jainkoarengana iristeko dorre bat eraikitzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Langileak",
+        "Mendia",
+        "Dorrea",
+        "Balea"
+      ],
+      "answer": "Dorrea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Jakinduria izugarria eman izana",
+        "Profeta bihurtzea.",
+        "Lurrak irentsita egotea.",
+        "Erreinua eman izana",
+        "Itsasoan itotzea."
+      ],
+      "answer": "Itsasoan itotzea."
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Léigear faoi Spéir Tobann",
+  "intro": "Tá tú i do sheasamh os comhair arm cumhachtach atá ag druidim le tearmann measúil, agus gach arm réidh agus an bua cinnte. Sula dtosaíonn an t-ionsaí, feictear cumhacht gan choinne os do chionn, agus glacann an comórtas casadh nár thuar aon duine.",
+  "clues": [
+    "Mháirseáil muid le muinín nach bhféadfadh aon chumhacht talmhaí a chroitheadh.",
+    "Thugamar eilifintí cumhachtacha linn, agus is cosúil go raibh ár bhfórsa tógtha timpeall orthu.",
+    "Bhíomar tagtha chun tearmann measúil a leagan, agus muid den tuairim go raibh ár mbua cinnte cheana féin.",
+    "Nuair a shroicheamar é, scuab tréad trasna na spéire os ár gcionn.",
+    "Chaith na héin clocha cré cruaite ar ár laochra.",
+    "Buaileadh sinn chomh hiomlán sin gur thit ár bhfórsa cumhachtach as a chéile agus gur scaipeadh é cosúil le luaithreach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir an Eilifint",
+        "An Dá Phrionsa",
+        "Deartháireacha Iósaef",
+        "Seirbhíseach Allah i Dhul-Kifl",
+        "Comhluadar an Fhir Fhíréanta"
+      ],
+      "answer": "Muintir an Eilifint"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An t-ionsaí faoi stiúir eilifintí ar an Kaaba",
+        "An fharraige ag scaradh roimh ghrúpa saortha",
+        "Gabháil na hÁirce ag pobal tíoránta",
+        "An turas oíche idir dhá mhosc",
+        "Leigheas lobhar trí chumhacht dhiaga"
+      ],
+      "answer": "An t-ionsaí faoi stiúir eilifintí ar an Kaaba"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Éin ag iompar millíní cré",
+        "Áirc adhmaid gopher",
+        "Bata a d’iompaigh ina nathair",
+        "Cloch séalaithe le comhartha",
+        "Tor dóite"
+      ],
+      "answer": "Éin ag iompar millíní cré"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bhris a neart mór síos cosúil le luaithreach",
+        "Thrasnaigh siad an fharraige go sábháilte",
+        "Shiúil siad gan dochar trí fhoirnéis lasrach",
+        "Chuaigh siad isteach i bParthas i mbeirteanna",
+        "Chodail siad i bpluais ar feadh 309 bliain"
+      ],
+      "answer": "Bhris a neart mór síos cosúil le luaithreach"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

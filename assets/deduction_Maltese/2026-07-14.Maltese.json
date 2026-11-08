@@ -1,0 +1,61 @@
+{
+  "title": "L-Erwieħ tat-Trinka",
+  "intro": "Tivvjaġġa lura għal era meta ħakkiem bla ħniena kien jitlob devozzjoni assoluta lejn allat foloz. Komunità żgħira ta’ erwieħ devoti rrifjutat, u ffaċċjat kastig tant sever li sar misħut għal dejjem. L-istorja tagħhom tidwi fil-Koran bħala xhieda ta’ fidi soda. Tista’ tidentifika dan il-grupp sod?",
+  "clues": [
+    "Għexna f’art taħt it-tirannija ta’ ħakkiem li kien jitlob qima ta’ allat foloz",
+    "Il-komunità tagħna ffaċċjat persekuzzjoni severa sempliċement minħabba t-twemmin tagħna f'Alla biss.",
+    "Il-ħakkiem ordna li titħaffer trinka kbira u titħaddem b’fjammi qawwija",
+    "Peress li rrifjutajna li niċħdu l-fidi tagħna, ġejna mitfugħin f’dak il-ħofra tan-nar wieħed wieħed",
+    "L-istorja tagħna saret parti mill-Koran, u dawk li ppersegwitawna kienu misħutin għal dejjem.",
+    "Is-surah li tirreġistra l-esperjenza tagħna hija msemmija għas-sinjali ċelesti kbar tas-sema"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Kumpanji tat-Trinka (Ashab al-Ukhdud)",
+        "Nies tal-Għar (Ashab al-Kahf)",
+        "Nies tas-Sabat",
+        "Nies ta' A'ad",
+        "Nies ta' Thamud"
+      ],
+      "answer": "Kumpanji tat-Trinka (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Il-Prova Tagħna",
+      "options": [
+        "Li tinħaraq ħaj f'ħofra tan-nar",
+        "Li tkun issiġillat f'għar għal ħafna snin",
+        "Sajd fil-jum qaddis tal-mistrieħ",
+        "Li tinqered minn riħ qawwi",
+        "Qtil ta’ ġemela sagra"
+      ],
+      "answer": "Li tinħaraq ħaj f'ħofra tan-nar"
+    },
+    "location": {
+      "label": "L-Element Ewlieni",
+      "options": [
+        "Trinka tan-nar qawwija",
+        "Għar moħbi b'kelb leali",
+        "Pilastri twal ta’ belt antika ddestinata",
+        "Djar fil-muntanji mnaqqxa fl-irdumijiet tal-ġebel",
+        "Pjanura miftuħa maħkuma minn irjieħ vjolenti"
+      ],
+      "answer": "Trinka tan-nar qawwija"
+    },
+    "outcome": {
+      "label": "Ir-Riżultat Tagħna",
+      "options": [
+        "Konna martri u l-persekuturi kienu misħutin għal dejjem",
+        "Qomna wara li rqadna għal 309 snin",
+        "Ġejna trasformati f'xadini minħabba t-trasgressjoni tagħna",
+        "Riħ qawwi u qawwi qeredna lkoll",
+        "Għajta waħda devastanti farrket l-eżistenza tagħna"
+      ],
+      "answer": "Konna martri u l-persekuturi kienu misħutin għal dejjem"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

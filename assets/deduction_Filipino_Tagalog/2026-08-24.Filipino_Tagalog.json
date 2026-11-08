@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Nakatagong Tagapakinig na Naniwala",
+  "intro": "Sa katahimikan ng isang sagradong pagtitipon, isang kahanga-hangang pagtitipon ang dumating mula sa isang di-nakikitang kaharian. Hinila ng mga bulong ng isang kamangha-manghang bagay, nakinig sila sa isang pagbigkas na magtatakda ng kanilang kapalaran magpakailanman. Ang kanilang patotoo ay nananatiling isa sa mga pinakanatatangi sa banal na kasulatan.",
+  "clues": [
+    "Tayo ay mga nilalang mula sa isang kaharian na hindi nakikita ng karamihan, at tayo ay dumating bilang isang grupo.",
+    "Naglakbay kami patungo sa isang pagtitipon upang makinig sa isang bagay na kahanga-hanga.",
+    "Pagdating namin, nakinig kami sa isang recitation na nag-iwan sa amin ng pagkamangha.",
+    "Hayagan naming kinilala na ang ilan sa amin ay matuwid at ang ilan ay hindi.",
+    "Alam naming hindi namin matatakasan ang banal na utos sa lupa, ni sa pamamagitan ng paglipad patungo sa langit.",
+    "Nang marinig namin ang patnubay, naniwala kami rito; sinumang maniwala sa kanilang Panginoon ay hindi matatakot sa kawalan o pasanin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Isang grupo ng mga Jinn",
+        "Ang mga Tao ng Iram",
+        "Ang mga Tao ng Tubba'",
+        "Ang Imperyong Romano",
+        "Ang Tribo ng Quraysh"
+      ],
+      "answer": "Isang grupo ng mga Jinn"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pakikinig sa isang sagradong pagbigkas",
+        "Pagtatayo ng matataas na haligi sa ating lungsod",
+        "Pangangaso ng isang kahanga-hangang kamelyong babae",
+        "Ang pagkawasak dahil sa pagpatay sa ating mga propeta",
+        "Pagpaparami ng kayamanan nang higit sa sukat"
+      ],
+      "answer": "Pakikinig sa isang sagradong pagbigkas"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang pagtitipon ng sagradong pagbigkas",
+        "Isang lungsod ng matataas na haligi (Iram)",
+        "Isang balon sa disyerto",
+        "Isang malaking palasyo na gawa sa ginto",
+        "Isang sagradong kuweba sa mga bundok"
+      ],
+      "answer": "Isang pagtitipon ng sagradong pagbigkas"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naniwala at nagbabala kami sa aming mga tao",
+        "Nawasak ng isang malakas na pagsabog mula sa langit",
+        "Pinarusahan ng isang nakapapasong at mapaminsalang hangin",
+        "Pinagkalooban ng napakalaking kayamanan at kapangyarihan",
+        "Nanatiling matatag sa kawalan ng paniniwala"
+      ],
+      "answer": "Naniwala at nagbabala kami sa aming mga tao"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

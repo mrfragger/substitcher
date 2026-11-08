@@ -1,0 +1,61 @@
+{
+  "title": "Jaio gabekoen zin",
+  "intro": "Arima zintzo batek promesa sakratu bat egin zuen haur bat jaio aurretik. Pertsonaia honen istorioa santutegi baten hormen artean garatzen da, non debozioa eta jainkozko onarpena elkartzen diren. Nor da Alaren zerbitzari hau?",
+  "clues": [
+    "Koranean omentzen den familia batekoa nintzen.",
+    "Jaio gabeko haurra Ala-ren zerbitzura eskaintzeko zin solemne bat egin nuen.",
+    "Erditu nuenean, harrituta geratu nintzen alaba bat zela ikustean, nahiz eta seme bat espero nuen.",
+    "Maryam izena jarri nion nire haurrari, debozioa eta zerbitzua islatzen dituen izena.",
+    "Ala-ren babesa bilatu nuen nire alabarentzat eta bere ondorengoentzat Satanas madarikatuaren aurka.",
+    "Nire haurra Jaunak onartu zuen eta Zakariya profetaren zaintzapean jarri zuen santutegian."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Imranen emaztea (Maryamen ama)",
+        "Asiya, faraoiaren emaztea",
+        "Mariam, Isaren ama",
+        "Musa profetaren ama",
+        "Sabako erregina"
+      ],
+      "answer": "Imranen emaztea (Maryamen ama)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Bere haurra tenpluari eskaintzeko zin eginez",
+        "Sutara botata egotea.",
+        "Itsasoa lehorrean zeharkatzen",
+        "Arka handi bat eraikitzen",
+        "Arrain handi batek irentsi izana"
+      ],
+      "answer": "Bere haurra tenpluari eskaintzeko zin eginez"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Bere haurra jarri zuten santutegia (mihraba)",
+        "Itunaren kutxa",
+        "Urrezko txahala",
+        "Suge bihurtu zen makila",
+        "Atseden hartu zuen palmondoa"
+      ],
+      "answer": "Bere haurra jarri zuten santutegia (mihraba)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bere haurra onartu eta Zakariya profetaren zaintzapean jarri zuten.",
+        "Tirano baten zigorretik salbatu zen",
+        "Yahya izeneko seme bat eman zioten",
+        "Bere herria ekaitz batek suntsitu zuen",
+        "Erresuma handi baten gaineko erregina bihurtu zen"
+      ],
+      "answer": "Bere haurra onartu eta Zakariya profetaren zaintzapean jarri zuten."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A szent láng próbája",
+  "intro": "Egy ősi földön, ahol a faragott kő iránti odaadás minden otthonban gyökeret vert, egyetlen ember kitűnt. Rendíthetetlen meggyőződésének és isteni védelemnek köszönhetően szembenézett azzal, aminek biztos halálnak kellett volna lennie – és sértetlenül távozott. Vajon fel tudod fedezni ennek a figyelemre méltó léleknek a kilétét?",
+  "clues": [
+    "Olyan emberek között nőttem fel, akik saját kezükkel faragott bálványok előtt hajoltak meg, abban a hitben, hogy ezek a tárgyak isteni erővel bírnak.",
+    "Amikor megkérdőjeleztem a hiedelmeiket, először elutasítottak, de én nem hallgathattam el az igazságot, amit tudtam.",
+    "Azon a napon, amikor összegyűjtötték őket, elpusztítottam bálványszobraikat, csak a legnagyobbat hagytam érintetlenül.",
+    "Amikor visszatértek és látták, mit tettem, vezetőik elrendelték egy nagy máglya építését, azzal a szándékkal, hogy a lángokba vessék engem.",
+    "Bedobtak a lángoló tűzbe, de a világok Ura megparancsolta, hogy hűvös és biztonságos legyen számomra.",
+    "Teljesen sértetlenül kerültem ki a lángokból, míg azok, akik ellenem ármánykodtak, teljes pusztulással néztek szembe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ibrahim próféta",
+        "Mózes próféta",
+        "Nuh próféta",
+        "Isa próféta",
+        "Juszuf próféta"
+      ],
+      "answer": "Ibrahim próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Lángoló tűzbe vetve",
+        "Egy hatalmas bálna lenyelése",
+        "Túlélni egy nagy árvizet",
+        "Mély kútba vetve",
+        "Szembenézés a király mágusaival"
+      ],
+      "answer": "Lángoló tűzbe vetve"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy hatalmas máglya égő fából",
+        "Egy hatalmas fa bárka",
+        "Egy aranyborjú szobor",
+        "Egy úszó kosár a folyón",
+        "Egy csodálatos trón"
+      ],
+      "answer": "Egy hatalmas máglya égő fából"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Allah hűvösnek és biztonságosnak teremtette a tüzet",
+        "A bárka biztonságban landolt egy hegyen",
+        "Az arany bálvány elolvadt a szemük előtt",
+        "Egy zsarnok és serege a tengerbe fulladt",
+        "Visszanyerték egy vak férfi látását"
+      ],
+      "answer": "Allah hűvösnek és biztonságosnak teremtette a tüzet"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

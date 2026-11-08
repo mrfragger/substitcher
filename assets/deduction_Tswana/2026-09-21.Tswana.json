@@ -1,0 +1,61 @@
+{
+  "title": "Selelo se se tswang kwa botennyeng",
+  "intro": "Motlhanka wa Mopelotlhomogi o ne a lapisiwa ke morafe o o tlhogoethata mme a tsamaya pele ga tetlelelo e newa. Motho yono o ne a feleletsa a le mo lefelong le go neng go se na motho ope yo o kileng a nna mo go lone, koo pitso ya Bomodimo e utlwalang ka tsela e e sa tlwaelegang mo dikarolong tsa lefifi. E re ka moya ono o ne o tlhagelela o koafetse mme o fetogile, o ne wa nna thuto e e sa feleng ya bopelotelele, go ikwatlhaya ka boammaaruri le kutlwelobotlhoko e e senang selekanyo ya Mmopi. A o ka phutholola masaitsiweng ano?",
+  "clues": [
+    "Ke ne ke rometswe jaaka morongwa kwa bathong ba me, mme ba ne ba feta melelwane yotlhe mo go sa dumeleng ga bone mme ba gana go reetsa.",
+    "Ke ne ka galefa ke go gana ga bone mme ka tshaba mo bathong ba me pele ga taelo ya ga Allah e tla.",
+    "Ke ne ka palama sekepe se se neng se rwele dilo tse di fetang selekanyo, mme re ne ra dira bola go bona gore ke mang yo o neng a tla latlhelwa kwa godimo ga lewatle.",
+    "Ke ne ka latlhelwa mo lewatleng le le galefileng mme ka mediwa ke tlhapi e kgolo.",
+    "Ke tshwaregile mo dikarolong tse tharo tsa lefifi — mpa, lewatle le le boteng, le lefatshe le le kwa tlase — ke ne ka bitsa Morena wa me ka boikwatlhao jwa boammaaruri.",
+    "Ke ne ka tswa mo tlhaping ka ya kwa lotshitshing lo lo bulegileng, ke le bokoa e bile ke lapile, mme semela sa gourd sa tlhoga mo godimo ga me. Batho ba ka, ba dikete tse lekgolo kapa ho feta, qetellong ba dumela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Yunus",
+        "Moporofeti Ayyub",
+        "Moporofeti Yusuf",
+        "Moporofeti Musa",
+        "Moporofeti Sulaiman"
+      ],
+      "answer": "Moporofeti Yunus"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "E meditswe ke tlhapi e kgolo",
+        "A latlhelwa mo molelong o o tukang",
+        "O tshwaregile kwa tlase ga sediba",
+        "A fekeediwa ke morwalela o mogolo",
+        "Go tsenngwa mo kgolegelong go sa tshwanela ke kgosi"
+      ],
+      "answer": "E meditswe ke tlhapi e kgolo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Mpa ya tlhapi e kgolo",
+        "Mokgatšha o o boitshepo o o gaufi le Kaaba",
+        "Areka e e neng e eme mo thabeng",
+        "Lore lo lo neng lwa fetoga noga",
+        "Setulo sa bogosi sa bogolo jo bo senang selekanyo"
+      ],
+      "answer": "Mpa ya tlhapi e kgolo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Batho ba gagwe, ba le dikete di le lekgolo kgotsa go feta, ba ne ba dumela .",
+        "Go tsosediwa kwa magodimong a tshela",
+        "O ne a nna mmusi wa bogosi jo bo neng bo se na ope",
+        "E sentswe ke selelo se se tlhabang go tswa kwa loaping",
+        "E menotswe ke thoromo e kgolo ya lefatshe"
+      ],
+      "answer": "Batho ba gagwe, ba le dikete di le lekgolo kgotsa go feta, ba ne ba dumela ."
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

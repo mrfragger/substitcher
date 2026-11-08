@@ -1,0 +1,61 @@
+{
+  "title": "A türelmes lélek",
+  "intro": "A prófétaság krónikáiban létezett egy lélek, akinek a türelme lényének szövetébe vésődött. Könnyeken és időn át kapaszkodott a reménybe, az isteni bölcsességbe vetett bizalom időtlen példájává válva. Vajon meg tudod fejteni ennek a rendíthetetlen alaknak a rejtélyét?",
+  "clues": [
+    "Próféták családjába születtem, mégis a legnagyobb próbatételt a legjobban szeretett gyermekemen keresztül éltem át.",
+    "Egy álmomban, amit a fiam megosztott velem, féltékenységre figyelmeztetett, és aggódtam a biztonságáért.",
+    "A szemem kifehéredett a bánattól, de sosem vesztettem el a hitemet Allah irgalmában.",
+    "Eltűnt gyermekem illata messziről elért hozzám, és akkor tudtam, hogy közel van a viszontlátás.",
+    "A családom hálásan meghajolt, amikor a régi látomás beteljesedett, és a látásom helyreállt.",
+    "Én voltam az, akinek egy vérfoltos inget ajándékoztak, hogy később egy olyan inget kapjak, ami meggyógyította a látásomat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ibrahim próféta",
+        "Izsák próféta",
+        "Jakub próféta",
+        "Juszuf próféta",
+        "Ayyub próféta"
+      ],
+      "answer": "Jakub próféta"
+    },
+    "trial": {
+      "label": "A döntő próba",
+      "options": [
+        "Elválás egy szeretett gyermektől és látásvesztés",
+        "Lángoló tűzbe vetve",
+        "Egy nagy hal lenyelte",
+        "A vagyon, a gyermekek és az egészség elvesztésének elviselése",
+        "Testvérei elárulják és kútba vetik"
+      ],
+      "answer": "Elválás egy szeretett gyermektől és látásvesztés"
+    },
+    "location": {
+      "label": "A szimbolikus tárgy",
+      "options": [
+        "Egy ing, ami először elrejtette az igazságot, majd felfedte",
+        "Egy bot, ami kígyóvá változott",
+        "Egy bálna, amelyik lenyelt egy prófétát",
+        "Egy tűz, ami lehűlt",
+        "Egy pár szandál az égő csipkebokornál"
+      ],
+      "answer": "Egy ing, ami először elrejtette az igazságot, majd felfedte"
+    },
+    "outcome": {
+      "label": "Az isteni elhatározás",
+      "options": [
+        "Találkozás egy elvesztett szerettünkkel és a látás helyreállítása",
+        "Megmentés egy elnyomott nemzettől",
+        "Megszabadulás egy hal gyomrából",
+        "Megmentés a lángoló tűzből",
+        "Felemelkedés egy nagy trónra"
+      ],
+      "answer": "Találkozás egy elvesztett szerettünkkel és a látás helyreállítása"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

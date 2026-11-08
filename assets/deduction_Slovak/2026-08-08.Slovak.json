@@ -1,0 +1,61 @@
+{
+  "title": "Hlas pred búrkou",
+  "intro": "Postava na púšti povstala, aby vyzvala mocný národ späť k pravde. Ľudia boli známi svojimi nádhernými budovami a bezkonkurenčnou silou. Napriek tomu ich pýcha zaslepila a odmietli počúvať. Nakoniec ich stihol zničujúci trest, ktorý ušetril len malú skupinu veriacich.",
+  "clues": [
+    "Bol som poslaný k mocnému ľudu, ktorý žil v otvorených krajinách a bol známy svojou silou.",
+    "Môj ľud prišiel za ďalším veľkým národom, ktorý bol zničený.",
+    "Mali nádherné stavby a postavili vysoké veže.",
+    "Volal som ich, aby uctievali jedného Boha, ale oni odmietli opustiť svoje modly.",
+    "Postihol ich krutý trest, ktorý ušetril iba tých, ktorí mi verili.",
+    "Ja som ten, kto bol poslaný k mocnému ľudu známemu ako Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Hud",
+        "Prorok Sálih",
+        "Prorok Šu'aib",
+        "Prorok Nuh",
+        "Prorok Ibrahim"
+      ],
+      "answer": "Prorok Hud"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Veľká povodeň",
+        "Burácajúci prudký vietor",
+        "Zemetrasenie a desivý krik",
+        "Dážď horiacich kameňov",
+        "Nebeský oheň zhora"
+      ],
+      "answer": "Burácajúci prudký vietor"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Veľká archa postavená na vrchu hory",
+        "Unikátna ťava",
+        "Palica, ktorá sa premenila na hada",
+        "Vysoké budovy a mohutné stavby",
+        "Horiaca hranica"
+      ],
+      "answer": "Vysoké budovy a mohutné stavby"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Všetci sa utopili vo veľkej povodni",
+        "Môj ľud zničil prudký vietor, zatiaľ čo ja som bol zachránený",
+        "Môj ľud zasiahnutý zemetrasením a plače",
+        "Môj ľud je z neba zasypávaný kameňmi",
+        "Môj ľud hodený do planúceho ohňa"
+      ],
+      "answer": "Môj ľud zničil prudký vietor, zatiaľ čo ja som bol zachránený"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

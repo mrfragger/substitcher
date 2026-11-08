@@ -1,0 +1,61 @@
+{
+  "title": "Oferta që ndryshoi fatin",
+  "intro": "Në ditët e para të njerëzimit, një shpirt ofronte një dhuratë me qëllime të pastra. Megjithatë, zilia fshihej në hijen e pranimit. Zbuloni historinë e kësaj figure, devotshmëria dhe fundi tragjik i së cilës janë përjetësuar në zbulesën hyjnore.",
+  "clues": [
+    "Unë isha ndër brezat e parë të njerëzimit.",
+    "I paraqita një ofertë Zotit tim dhe u prit me pëlqim.",
+    "Oferta e vëllait tim u refuzua dhe zilia ia errësoi zemrën.",
+    "Unë i thashë: “Nëse e zgjat dorën drejt meje për të më vrarë, unë nuk do ta shtrij dorën time për të të vrarë ty; unë i frikësohem Allahut, Zotit të botëve.”",
+    "U bëra viktimë e aktit të parë të vrasjes në tokë.",
+    "Gjaku im bërtiti dhe unë isha martiri i parë i pafajësisë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Kain)",
+        "Burri nga Ya-Sin",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Oferta e tij u pranua, duke shkaktuar zilinë e vëllait të tij dhe vrasjen e tij.",
+        "Ai u hodh në një furrë përvëluese, por doli i padëmtuar",
+        "Ai ndërtoi një anije gjigante nën udhëheqjen hyjnore",
+        "Ai u gëlltit nga një peshk i madh dhe mbeti në errësirë",
+        "Ai e udhëhoqi popullin e tij përmes një deti të ndarë"
+      ],
+      "answer": "Oferta e tij u pranua, duke shkaktuar zilinë e vëllait të tij dhe vrasjen e tij."
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një ofertë e pranuar",
+        "Një shkop që shndërrohet në gjarpër",
+        "Një deve si një shenjë hyjnore",
+        "Një pupël që sjell lajme",
+        "Një viç i artë i adhuruar"
+      ],
+      "answer": "Një ofertë e pranuar"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Vrasja e parë në histori; vëllai i tij u dënua",
+        "I gëlltitur nga toka së bashku me pasurinë e tij",
+        "Të transformuar në majmunë për shkak të shkeljes",
+        "Shkatërrohet nga një erë e fortë dhe e akullt",
+        "U mbyt në një përmbytje të madhe si ndëshkim"
+      ],
+      "answer": "Vrasja e parë në histori; vëllai i tij u dënua"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

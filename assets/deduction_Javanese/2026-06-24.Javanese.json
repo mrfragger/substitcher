@@ -1,0 +1,61 @@
+{
+  "title": "Penjaga Geni sing Ora Bisa Dipateni",
+  "intro": "Ana sawijining sosok ngadeg ing ngarep lawang panggonan sing paling diwedeni ing papan sing ora katon, diwenehi tugas sing ora dikarepake dening makhluk liya. Nalika jiwa-jiwa sing nandhang sangsara njaluk welas asih, respon tegas muni liwat kamar geni. Apa sampeyan bisa nemokake identitas wali langgeng iki?",
+  "clues": [
+    "Aku ngadeg ing lawanging papan paukuman sing medeni, ing papan sing ora katon.",
+    "Geni sing murub lan ora bisa dipateni minangka inti saka tugasku sing khidmat.",
+    "Jiwa-jiwa sing nandhang sangsara nyebut jenengku, nyuwun supaya lega saka siksaan sing tanpa wates.",
+    "Nalika padha nyuwun, Aku nyatakake yen dheweke ora bakal lunga, salawas-lawase.",
+    "Aku dudu manungsa, utawa jin — aku iki makhluk sing diciptakake kanthi manut murni.",
+    "Aku iki malaikat utama sing ditunjuk dadi penjaga langgeng neraka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Malik",
+        "Jibril",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Wong-wong neraka padha nyuwun supaya siksane dirampungake",
+        "Trompet diunekake kanggo menehi tandha dina kiamat",
+        "Al-Qur'an diwahyukake menyang ati Nabi",
+        "Nabi diuncalake menyang geni gedhe dening kaumnya",
+        "Tembok sing kuwat dibangun kanggo ngempet bangsa sing rusak"
+      ],
+      "answer": "Wong-wong neraka padha nyuwun supaya siksane dirampungake"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Neraka Jahannam (Api Neraka)",
+        "Wit Lote ing wates Swarga",
+        "Trompet sing nembus",
+        "Teken sing malih dadi ula",
+        "Tahta suci sing megah"
+      ],
+      "answer": "Neraka Jahannam (Api Neraka)"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Wong-wong neraka dikandhani yen dheweke bakal tetep ana ing salawas-lawase",
+        "Wong-wong neraka diapura lan dibebasake",
+        "Wong-wong neraka diwenehi kesempatan kaping pindho kanggo iman",
+        "Para penghuni neraka dipindhah menyang panggonan sing adhem",
+        "Para penghuni neraka bakal dirusak dening bledhek"
+      ],
+      "answer": "Wong-wong neraka dikandhani yen dheweke bakal tetep ana ing salawas-lawase"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

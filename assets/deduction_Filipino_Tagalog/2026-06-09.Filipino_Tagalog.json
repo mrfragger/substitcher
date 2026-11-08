@@ -1,0 +1,61 @@
+{
+  "title": "Ang Hindi Natitinag na Tagapagtawag sa Katotohanan",
+  "intro": "Isang mensahero ang nakatayong mag-isa sa gitna ng isang matigas ang ulong bayan, tinatawag sila patungo sa Nag-iisang Tunay na Diyos habang sila ay nananatiling nakadikit sa mga huwad na diyus-diyusan. Ang propetang ito ay may pangalang umalingawngaw sa isang makapangyarihang kahulugan—'ang humihingi ng proteksyon'—ngunit tanging pagtanggi at pagtanggi lamang ang natatanggap. Sa pamamagitan ng mahinahong panghihikayat at matatag na babala, ang kaluluwang ito ay nagdadala ng isang banal na mensahe na sa huli ay ipagtatanggol ng sansinukob mismo. Makikilala mo ba ang matatag na pigurang ito na kumakatawan sa isa sa mga pinakasinaunang salaysay sa banal na kasulatan ng Islam?",
+  "clues": [
+    "Sumasamba ang aking bayan sa maraming diyos, samantalang tinawag ko sila upang maglingkod sa Isa na lumikha ng langit at lupa.",
+    "Tumayo ako sa harap ng aking bansa at ipinahayag na wala akong hihingin na gantimpala mula sa kanila—ang tanging hangad ko ay ang kanilang patnubay tungo sa kabutihan.",
+    "Isang malakas na hangin ang ipinadala sa aking mga tao bilang banal na parusa, isang hangin na binabanggit sa Quran sa parehong anyong pangmaramihan at pambabae.",
+    "Hindi tulad ng ibang mga propeta, hindi ako binigyan ng asawa o mga anak na nabanggit nang kitang-kita sa aking salaysay, sapagkat ang aking misyon ay tawagin ang aking mga tao nang mag-isa.",
+    "Ang pangalan ko ay may malalim na kahulugan—na may kaugnayan sa konsepto ng proteksyon at kanlungan na hinahanap ng isang tao.",
+    "Ang aking mga tao ay kilala sa isang partikular na terminong heograpikal para sa lambak na kanilang tinirhan, at ang kanilang lupain ay inilarawan nang may partikular na paghamak dahil sa kawalan nito ng mga halaman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Hud",
+        "Propeta Salih",
+        "Propeta Shu'aib",
+        "Propeta Noah",
+        "Propeta Hudayb"
+      ],
+      "answer": "Propeta Hud"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Ang baha ng mundo",
+        "Ang nakapapasong hangin",
+        "Ang lindol ng pagkawasak",
+        "Ang tagtuyot at taggutom",
+        "Ang pagkalunod sa dagat"
+      ],
+      "answer": "Ang nakapapasong hangin"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang matabang lambak ng Yemen",
+        "Ang mabuhanging disyerto ng Midian",
+        "Ang mabatong lambak ng Thamud",
+        "Ang sinaunang lupain ng mga taong 'Ad",
+        "Ang rehiyon sa baybayin ng Ehipto"
+      ],
+      "answer": "Ang sinaunang lupain ng mga taong 'Ad"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nagsisi ang aking bayan at nakapasok sa paraiso",
+        "Wala ni isa man sa aking mga kababayan ang nakaligtas sa parusa",
+        "Ako'y kinuhang buhay tulad ng aking kapatid na si Yunus",
+        "Lumipat ako kasama ang aking mga tagasunod patungo sa isang pinagpalang lupain",
+        "Ang hangin ay sumira lamang sa mga hindi mananampalataya habang ang mga mananampalataya ay nakaligtas"
+      ],
+      "answer": "Wala ni isa man sa aking mga kababayan ang nakaligtas sa parusa"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

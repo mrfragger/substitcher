@@ -1,0 +1,61 @@
+{
+  "title": "Ụbọchị nke Ngosipụta Ikpeazụ",
+  "intro": "Mgbe a kpọrọ ha ka ha bịa gosipụta ike ha nke ọma, otu ìgwè ndị na-eme ihe nkiri nwere nkà hụrụ onwe ha ka ha na-eche eziokwu a na-atụghị anya ya nke ga-agbanwe ndụ ha ruo mgbe ebighị ebi ihu.",
+  "clues": [
+    "A maara anyị maka ọrụ aka anyị, ndị ọkachamara n'ihe gbasara aghụghọ na aghụghọ.",
+    "Onye ọchịchị kpọrọ anyị ka anyị gaa hụ onye na-ama aka nke ji mkpara dị mfe ihu.",
+    "Mgbe anyị hụrụ eziokwu ahụ, anyị dara n'ala kpọọ isiala, na-ekwupụta na anyị kwenyere n'Onyenwe ụwa.",
+    "Onye ọchịchị aka ike ahụ yiri anyị egwu na a ga-ata anyị ahụhụ siri ike, mana anyị ekweghị ka ihe ọ bụla mee.",
+    "Anyị so ná ndị mbụ kwere n'ozi ahụ mgbe anyị hụrụ ihe ịrịba ama doro anya.",
+    "E gburu anyị n'ihi okwukwe anyị, mana anyị ga-abụ ndị mbụ ga-abanye na Paradaịs na ndị ezi omume."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka anyị bụ?",
+      "options": [
+        "Ndị Anwansi nke Fero",
+        "Ndị Izrel",
+        "Ndị Temọd",
+        "Ndị Na-eso Ụzọ Aịza",
+        "Ndị Agha nke Abraha"
+      ],
+      "answer": "Ndị Anwansi nke Fero"
+    },
+    "trial": {
+      "label": "Nnwale / Ihe Omume",
+      "options": [
+        "Asọmpi ya na onye amụma Musa",
+        "Iwu Ụlọ Elu ahụ",
+        "Oké Iju Mmiri ahụ",
+        "Ọrịa Igurube",
+        "Oké Osimiri Na-ekewa Awa"
+      ],
+      "answer": "Asọmpi ya na onye amụma Musa"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ụbọchị Ememme ahụ",
+        "Ndagwurugwu Tuwa",
+        "Obodo Iram",
+        "Ubi nke Ebighị Ebi",
+        "Ala Dị Larịị nke Arafat"
+      ],
+      "answer": "Ụbọchị Ememme ahụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A kpọgidere ha n'obe n'ihu ọha",
+        "E riri ha n'oké osimiri",
+        "E mere ha ka ha bụrụ ndị na-eso ụzọ onye amụma ahụ",
+        "E zigara ha n'ala ọzọ",
+        "Ọkụ gbawara ha"
+      ],
+      "answer": "A kpọgidere ha n'obe n'ihu ọha"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

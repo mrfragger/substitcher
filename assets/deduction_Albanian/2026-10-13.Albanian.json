@@ -1,0 +1,61 @@
+{
+  "title": "Kundërshtari i Zjarrtë",
+  "intro": "Në ditët e para të shpalljes, një figurë doli në pah si një kundërshtar kokëfortë i së vërtetës. I bekuar me pasuri dhe status, ky shpirt zgjodhi krenarinë mbi udhëzimin dhe historia e tyre u bë një paralajmërim i ashpër në vargjet e fundit të një sureje.",
+  "clues": [
+    "Jetoja në të njëjtin qytet me Profetin dhe isha ndër të afërmit më të afërt të tij, megjithatë krenaria ime më mbante larg të vërtetës.",
+    "Unë zotëroja pasuri të madhe dhe prona të shumta, dhe mendoja se burimet e mia do të më mbronin gjithmonë.",
+    "Kur u shpall mesazhi, e tallja hapur dhe u largova, duke e konsideruar veten superior ndaj besimtarëve.",
+    "Armiqësia ime ishte aq e njohur sa një sure e Kuranit më drejtohej drejtpërdrejt, duke më quajtur me emrin që të tjerët më njihnin.",
+    "Më paralajmëruan se pasuria dhe fitimet e mia nuk do të më bënin dobi dhe se do të hidhesha në një zjarr flakërues.",
+    "Unë njihem si babai i flakës dhe gruaja ime do ta mbajë drutë e zjarrit me një litar prej fibre palme rreth qafës."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Ebu Leheb",
+        "Ebu Xhehl",
+        "Ebu Sufjan",
+        "El-Valid ibn el-Mughira",
+        "El-As ibn Vail"
+      ],
+      "answer": "Ebu Leheb"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "E hodhi poshtë Islamin dhe e kundërshtoi hapur Profetin",
+        "Komplotoi për të vrarë Profetin",
+        "Udhëhoqi një bojkot social kundër myslimanëve",
+        "Luftoi në Betejën e Bedrit",
+        "Bilal ibn Rabah i torturuar"
+      ],
+      "answer": "E hodhi poshtë Islamin dhe e kundërshtoi hapur Profetin"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një litar me fibra palme",
+        "Një shpatë e mprehtë",
+        "Një zinxhir i rëndë",
+        "Një shkop prej druri",
+        "Një kamzhik lëkure"
+      ],
+      "answer": "Një litar me fibra palme"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Do të digjet në një zjarr të përvëluar",
+        "U pendua dhe u bë shok",
+        "Humbi pasurinë e tij, por vdiq i nderuar",
+        "Iku në Abisini",
+        "U mbyt në det"
+      ],
+      "answer": "Do të digjet në një zjarr të përvëluar"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

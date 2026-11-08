@@ -1,0 +1,61 @@
+{
+  "title": "Conspirator Velatus",
+  "intro": "In praesentia personae potentis ex diebus revelationis te invenis. Hic homo intellectu, divitiis, et dignitate inter populum suum notus erat. Cum signa manifesta advenissent, pulchritudinem agnoverunt, tamen contumaciam submissioni praeferunt. Quid hanc animam ad machinationes in tenebris impulit, et quid fuit fatum eius ultimum?",
+  "clues": [
+    "Abundantia opibus et auctoritate benedictus sum, verbum meum in ecclesiis grave faciens.",
+    "Cum verba divina recitarentur, eloquentiam eorum negare non poteram, sed superbia mea me subiicere non sinebat.",
+    "Consiliarios meos congregavi, me segregans ut modum cogitarem quo nuntium infamare possem.",
+    "Post multam deliberationem, nihil nisi 'magiam e praeterito traditam' ad homines avertendos declaravi.",
+    "Tum revelatio me directe allocuta est: 'Relinque me solum cum eo quem creavi.' Ob machinationes meas singularis sum.",
+    "Mox, ipse ignis de quo monita sum me cingulo comprehendet, nec effugium mihi erit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Conspiravit ad prophetam interficiendum",
+        "Musulmanos ab boycotto duxit",
+        "Concilium convocavit ut Alcoranum quasi magiam appellaret.",
+        "Coniuraverunt ad Prophetam ex Mecca expellendum",
+        "Divitias suas cum orphanis communicare recusavit"
+      ],
+      "answer": "Concilium convocavit ut Alcoranum quasi magiam appellaret."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Revelatio",
+        "Concilium",
+        "Cintura",
+        "Divitiae",
+        "Calamus"
+      ],
+      "answer": "Cintura"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Resipiens Islam amplexus est.",
+        "In Abyssiniam migravit",
+        "Morbo mortifero affectus est",
+        "In proelio contra Musulmanos mortuus est.",
+        "Ad inferos damnatus est"
+      ],
+      "answer": "Ad inferos damnatus est"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

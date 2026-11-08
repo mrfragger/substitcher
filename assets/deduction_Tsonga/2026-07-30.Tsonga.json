@@ -1,0 +1,61 @@
+{
+  "title": "Vaendzi Lava Nga Hlamarisaka Va Doroba Leri Nga Ni Rirhangu",
+  "intro": "Ntlawa wun’wana wu fike etinyangweni ta muti lowu vanhu va wona a va nga si tshama va tiva ntiyiso. Va tise rungula, kambe vaaki va hundzuke vulala, va xungeta madzolonga. Hambi swi ri tano, ku suka endhawini leyi a yi nga languteriwanga, rito rin’we ri tlakukile leswaku ri sirhelela vanhu lava va nga va tiviki, ri veka xiteji xa ku cinca loku hlamarisaka ka swiendlakalo.",
+  "clues": [
+    "Hi nghene emutini lowu vanhu va wona a va funengetiwe hi ku nga tshembi.",
+    "Va hi langutile hi ku kanakana kutani va ku, ‘Mi swivumbiwa leswi tolovelekeke ntsena ku fana na hina.’",
+    "Hi va tsundzuxile, kambe va hi tlakule hi maribye.",
+    "Wanuna un’wana u tsutsumele emakumu ya le kule swinene ya muti leswaku a tiyisekisa ntiyiso wa hina.",
+    "U byele vanhu va yena a ku: ‘Ha yini ndzi nga fanelanga ku gandzela Loyi a ndzi tumbuluxeke?’",
+    "Ku kaneta ka doroba ku hele hi ku buluka kan’we, naswona ku miyela ku fume laha va tshameke va hlekula kona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Varhumiwa va Ya-Sin",
+        "Vadyondzisiwa va Esa",
+        "Vanhu va Mugodi",
+        "Vaendli va masalamusi va Faro",
+        "Mupfumeri wa Ya-Sin"
+      ],
+      "answer": "Varhumiwa va Ya-Sin"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku ala ni ku xungetiwa hi ku khandliwa hi maribye",
+        "Ku lahleriwa endzilweni lowukulu",
+        "Xikambelo xa ku lehisa mbilu eka n’wana la lahlekeke",
+        "Ntanga lowu onhiweke",
+        "Riendzo ro tsemakanya lwandle"
+      ],
+      "answer": "Ku ala ni ku xungetiwa hi ku khandliwa hi maribye"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Makumu ya le kule swinene ya doroba",
+        "Lwandle ro Tshwuka",
+        "Mugodi wa ndzilo",
+        "Bako ra vutumbelo",
+        "Khotso ra le Egipta"
+      ],
+      "answer": "Makumu ya le kule swinene ya doroba"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Muti wu lovisiwile hi ku huwelela kan’we",
+        "Lwandle ri hambanile kutani ri nwela vuthu",
+        "Ndzilo wu sungule ku kufumela naswona wu hlayisekile",
+        "Ntanga lowu a wu hisiwa hi ndzilo wa le tilweni",
+        "Whale yi tlherisele munhu yoloye eribuweni"
+      ],
+      "answer": "Muti wu lovisiwile hi ku huwelela kan’we"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

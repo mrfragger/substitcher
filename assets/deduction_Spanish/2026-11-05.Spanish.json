@@ -1,0 +1,61 @@
+{
+  "title": "La melodía de las montañas al atardecer.",
+  "intro": "Escucha cómo los valles resuenan con alabanzas junto a un siervo escogido de Alá. Una voz dotada de melodía, un juicio buscado por los contendientes en la cámara y un metal ablandado por mandato divino aguardan ser descubiertos. ¿Qué figura de adoración y gobierno justo habla a través de estos signos?",
+  "clues": [
+    "Fui bendecido por Alá con abundancia y una melodiosa voz de alabanza.",
+    "Allah me enseñó a comprender el lenguaje del juicio justo entre las partes en disputa.",
+    "Me enfrenté en batalla a un poderoso guerrero gigante y, por la voluntad de Alá, lo vencí.",
+    "Se me concedió sabiduría, autoridad y una escritura revelada de salmos de Allah.",
+    "Las montañas y los pájaros me acompañaron al glorificar a Alá conmigo al atardecer y al amanecer.",
+    "Allah me enseñó a fabricar cotas de malla con hierro que fue ablandado especialmente para mí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Dawud (David)",
+        "Profeta Ismail (Ismael)",
+        "Profeta Yahya (Juan)",
+        "Dhul-Kifl",
+        "Profeta Al-Yasa (Elisha)"
+      ],
+      "answer": "Profeta Dawud (David)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Derrotó a Jalut (Goliat) en batalla por la voluntad de Alá.",
+        "Construyeron el Arca para sobrevivir al gran diluvio.",
+        "Fue arrojado al fuego que Alá hizo frío.",
+        "Fue tragado por un gran pez en el mar.",
+        "Fue elevado a los cielos sin probar la muerte."
+      ],
+      "answer": "Derrotó a Jalut (Goliat) en batalla por la voluntad de Alá."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Montañas y aves se unen en alabanza a Alá",
+        "Un bastón que se transformó en serpiente",
+        "Un fuego que se volvió fresco y pacífico.",
+        "Una camella enviada como señal al pueblo.",
+        "Un arca de madera que reposa en el monte Judi"
+      ],
+      "answer": "Montañas y aves se unen en alabanza a Alá"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se le concedió la realeza, la sabiduría y el Zabur (Salmos).",
+        "Tras ferviente oración, le fue concedido un hijo en su vejez.",
+        "Se le garantizó seguridad en la cueva durante muchos años.",
+        "Se le concedió un manantial de Zamzam en el desierto.",
+        "Se concedió el ahogamiento del ejército en el mar."
+      ],
+      "answer": "Se le concedió la realeza, la sabiduría y el Zabur (Salmos)."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

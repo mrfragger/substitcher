@@ -1,0 +1,61 @@
+{
+  "title": "Die Sehnsucht in der heiligen Kammer",
+  "intro": "Du betrittst den stillen Gebetsraum und siehst einen frommen Diener Allahs im Gebet. Seine Hände sind erhoben, sein Blick nach oben gerichtet, und sein Herz trägt eine Sehnsucht, die ein ganzes Leben umspannt. Wer ist diese geduldige Seele, deren Vertrauen in Allah niemals wankte?",
+  "clues": [
+    "Ich verbrachte viele Jahre im Gebet und in der Anbetung und wurde Zeuge von Wundern, die meinen Glauben stärkten.",
+    "Mir wurde die Verantwortung übertragen, mich im Heiligtum um eine gesegnete junge Seele zu kümmern.",
+    "Als ich älter wurde, war mein größter Kummer, dass ich kein Kind hatte, denn meine Frau war unfruchtbar und wir waren beide schon recht alt.",
+    "Ich betete zu meinem Herrn um einen Nachfolger aus meiner eigenen Familie, jemanden, der das Erbe des Prophetentums weiterführen würde.",
+    "Während ich in der Gebetsnische stand, riefen mich die Engel und sagten: „Allah verkündet dir frohe Botschaft“, und ich wurde von Furcht und Ehrfurcht ergriffen.",
+    "Mir wurde gesagt, ich würde einen Sohn namens Yahya bekommen, einen Namen, der noch nie zuvor jemandem gegeben worden war, und als Zeichen dafür würde ich drei Tage lang mit niemandem sprechen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Zakariyya",
+        "Prophet Yahya",
+        "Prophet Isa",
+        "Prophet Dawud",
+        "Luqman der Weise"
+      ],
+      "answer": "Prophet Zakariyya"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Unfruchtbarkeit und hohes Alter bei gleichzeitigem Wunsch nach einem rechtmäßigen Erben",
+        "In ein loderndes Feuer geworfen werden",
+        "Von einem großen Fisch verschluckt werden",
+        "Ein Königreich an einen Tyrannen verlieren",
+        "Aus der Heimat verbannt werden"
+      ],
+      "answer": "Unfruchtbarkeit und hohes Alter bei gleichzeitigem Wunsch nach einem rechtmäßigen Erben"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Gebetsnische (Mihrab)",
+        "Das große Schiff (Arche)",
+        "Der brennende Dornbusch",
+        "Der Stab, der sich in eine Schlange verwandelte",
+        "Die Kamelstute Allahs"
+      ],
+      "answer": "Die Gebetsnische (Mihrab)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihm wurde ein gerechter Sohn geschenkt, und nach drei Tagen des Schweigens sprach er wieder.",
+        "Von einer Flut aus Unglauben zerstört",
+        "Ein riesiges Königreich und die Kontrolle über den Wind wurden ihm zur Verfügung gestellt.",
+        "Aus dem Bauch eines Fisches hervorgegangen",
+        "Von der Erde verschluckt"
+      ],
+      "answer": "Ihm wurde ein gerechter Sohn geschenkt, und nach drei Tagen des Schweigens sprach er wieder."
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

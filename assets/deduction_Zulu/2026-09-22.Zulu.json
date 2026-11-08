@@ -1,0 +1,61 @@
+{
+  "title": "Abakhi Bezinsika Eziphakeme",
+  "intro": "Umi phambi kwamanxiwa omuzi wasendulo omuhle kakhulu, izinsika zawo eziphakeme seziwile. Umoya uvunguza emigwaqweni engenalutho, uphethe inkumbulo yabantu abanamandla abake babusa la mazwe. Babengobani?",
+  "clues": [
+    "Sasingabantu abanamandla amakhulu namakhono, saziwa ngezakhiwo zethu ezinkulu kanye nempucuko ethuthukile.",
+    "Sasihlala ezweni elinezindunduma zesihlabathi namagquma anamatshe, futhi sasikholelwa ukuthi akekho ongasinqoba.",
+    "Isithunywa safika kithi sivela phakathi kwezihlobo zethu, sisibiza ukuba sikhonze u-Allah yedwa, kodwa samlahla futhi samhleka usulu.",
+    "Sazigqaja sathi, ‘Ngubani onamandla kunathi?’ saqhubeka nokuzikhukhumeza kwethu nokukhulekela izithombe.",
+    "U-Allah wathumela phezu kwethu umoya onamandla owavunguza ubusuku obuyisikhombisa nezinsuku eziyisishiyagalombili, wachitha yonke into.",
+    "Sasingabantu baka-'Ad, abakhi be-Iram, futhi isiphetho sethu saba yisixwayiso kubo bonke abalandela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu be-'Ad",
+        "Abantu baseThamud",
+        "Abantu baseMadyan",
+        "Abantu baseTubba'",
+        "Abantu base-al-Rass"
+      ],
+      "answer": "Abantu be-'Ad"
+    },
+    "trial": {
+      "label": "Sasiyini isijeziso esathunyelwa kubo?",
+      "options": [
+        "Umoya obhubhisayo",
+        "Imvula yamatshe",
+        "Ukuqhuma okukhulu",
+        "Ukuminza ngenxa yezikhukhula",
+        "Kugwinywe umhlaba"
+      ],
+      "answer": "Umoya obhubhisayo"
+    },
+    "location": {
+      "label": "Liyini igama lomuzi wabo odumile?",
+      "options": [
+        "I-Iram",
+        "iSodoma",
+        "uMidiyani",
+        "IBhabhele",
+        "I-Petra"
+      ],
+      "answer": "I-Iram"
+    },
+    "outcome": {
+      "label": "Sasiyini isiphetho sabo sokugcina?",
+      "options": [
+        "Babhujiswa futhi izinsalela zabo zaba yisifundo",
+        "Baphenduka futhi basindiswa",
+        "Baguqulwa baba yizinkawu",
+        "Baminza olwandle",
+        "Bangcwatshwa ngaphansi kokudilika komhlaba"
+      ],
+      "answer": "Babhujiswa futhi izinsalela zabo zaba yisifundo"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

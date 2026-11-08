@@ -1,0 +1,61 @@
+{
+  "title": "O sono máis alá do tempo",
+  "intro": "Imaxina unha época na que a verdade era silenciada e os crentes eran perseguidos. Un pequeno grupo elixiu a retirada en lugar da rendición, atopando refuxio no lugar máis improbable, un lugar que se convertería no seu lugar de descanso durante séculos innumerables. Cando finalmente espertaron, o mundo transformárase ao seu redor. Quenes son estas almas durmidas?",
+  "clues": [
+    "Éramos mozos que vivíamos nunha cidade antiga.",
+    "A nosa comunidade esixiu que adorásemos xunto a eles, pero negámonos.",
+    "Fuximos da cidade en busca de refuxio daqueles que se opoñían ás nosas crenzas.",
+    "Un fiel compañeiro de catro patas quedou na entrada do noso agocho.",
+    "Alá fíxonos durmir durante trescentos nove anos.",
+    "Cando finalmente espertamos, a nosa cidade, outrora perseguidora, abrazara a fe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Ashab al-Kahf (A xente da cova)",
+        "Ashab al-Fil (O Exército do Elefante)",
+        "Ashab al-Ukhdud (Os Compañeiros da Trincheira)",
+        "Os Hawariyyun (Discípulos de Isa)",
+        "Yajuj wa Majuj (Gog e Magog)"
+      ],
+      "answer": "Ashab al-Kahf (A xente da cova)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Retirámonos nunha cova e durmimos durante séculos",
+        "Salváronnos dun lume abrasador",
+        "Fomos tragados por un gran peixe",
+        "Fomos probados cunha camelo milagrosa",
+        "Déronnos nove sinais claros"
+      ],
+      "answer": "Retirámonos nunha cova e durmimos durante séculos"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha cova profunda nas montañas",
+        "Un barco en mar aberto",
+        "Unha estrutura imponente que chega aos ceos",
+        "Un xardín dividido entre dous rivais",
+        "Unha barreira de ferro e cobre"
+      ],
+      "answer": "Unha cova profunda nas montañas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Despertamos para descubrir que a nosa cidade se convertera á fe",
+        "Un lume abrasador volveuse fresco e pacífico",
+        "Un exército inimigo afogouse no mar",
+        "Os paxaros que levaban pedras destruíron o inimigo",
+        "Un gran peixe soltounos á costa"
+      ],
+      "answer": "Despertamos para descubrir que a nosa cidade se convertera á fe"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

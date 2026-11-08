@@ -1,0 +1,61 @@
+{
+  "title": "La prueba de la criatura sagrada",
+  "intro": "Una señal llegó a una nación extraviada. En medio de sus vidas cómodas, una advertencia llegó acompañada de una criatura extraordinaria que pondría a prueba su fe. Su respuesta sellaría su destino para siempre. ¿Puedes descubrir quién envió esta advertencia y qué les sucedió a quienes la rechazaron?",
+  "clues": [
+    "Éramos un pueblo que había sido guiado por mensajeros que nos precedieron.",
+    "Una criatura magnífica emergió de la montaña, una señal de nuestro Señor para esta nación.",
+    "Les dije: «Esta es una camella que pertenece a Alá, así que déjenla comer de la tierra de Alá y no la toquen para hacerle daño».",
+    "Pero el pueblo amordazó a mi camella, desafiando la orden de su Señor.",
+    "No soy más que un mensajero de tu Señor, enviado con la verdad; soy un profeta y siervo de confianza.",
+    "En cuanto a los malhechores, nuestro Señor los castigó con un sonido atronador, y quedaron inmóviles en sus casas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Hud del pueblo de A'ad",
+        "El profeta Salih del pueblo de Thamud",
+        "El profeta Shu'aib de Madián",
+        "El profeta Lut del pueblo de Sodoma",
+        "El profeta Noé del Arca"
+      ],
+      "answer": "El profeta Salih del pueblo de Thamud"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El Diluvio que ahogó a una nación incrédula",
+        "El terremoto que destruyó una ciudad pecaminosa",
+        "La camella enviada como señal y prueba divina",
+        "La tormenta que castigó al pueblo de Madián",
+        "La destrucción del pueblo de Lot con piedras"
+      ],
+      "answer": "La camella enviada como señal y prueba divina"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La ciudad de Sodoma en el valle del Jordán",
+        "El valle de Al-Hijr entre Hiyaz y Siria",
+        "La antigua tierra de A'ad en el sur de Arabia",
+        "Los bosques de Madián, cerca del Mar Rojo.",
+        "Las llanuras del monte Judi en Mesopotamia"
+      ],
+      "answer": "El valle de Al-Hijr entre Hiyaz y Siria"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fueron salvados después de arrepentirse y creer.",
+        "Una lluvia de piedras los destruyó por completo.",
+        "Un sonido atronador los dejó inmóviles.",
+        "Fueron arrastrados por un viento violento.",
+        "Un terremoto los engulló bajo tierra."
+      ],
+      "answer": "Un sonido atronador los dejó inmóviles."
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

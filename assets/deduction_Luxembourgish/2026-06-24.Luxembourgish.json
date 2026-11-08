@@ -1,0 +1,61 @@
+{
+  "title": "De Wärter vun der onstillbarer Flam",
+  "intro": "Eng Figur steet um Schwell vun der gefaartester Plaz am Onsiichtbaren, enger Pflicht uvertraut, déi kee anert Wiesen sech wënscht. Wann leidend Séilen ëm Barmhäerzegkeet ruffen, da kléngt eng streng Äntwert duerch d'Feierkummeren. Kënnt Dir d'Identitéit vun dësem éiwege Bewaacher entdecken?",
+  "clues": [
+    "Ech stinn um Agank vun enger erschreckender Plaz vun der Strof am Onsichtbaren.",
+    "E flammend, onläschlecht Feier ass den Zentrum vu menger feierlecher Pflicht.",
+    "Leidend Séilen ruffen mäin Numm a bieden ëm Erliichterung vun hirer onendlecher Qual.",
+    "Wann si plädéieren, erklären ech, datt si ni fortgoe wäerten.",
+    "Ech sinn weder Mënsch nach Djinn - ech sinn e geschafe Wiesen vu purer Gehorsamkeet.",
+    "Ech sinn den ieweschte Engel, deen als éiwege Bewaacher vum Hellfeier ernannt gouf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Leit vun der Hell bieden ëm en Enn vun hirer Qual",
+        "D'Trompett gëtt geblosen fir den Dag vum Uerteel unzezeechenen",
+        "De Koran ass dem Häerz vum Prophet opgedeckt ginn",
+        "E Prophet gëtt vun hirem Vollek an e grousst Feier gehäit",
+        "Eng mächteg Mauer gëtt gebaut fir eng korrupt Natioun ze enthalen"
+      ],
+      "answer": "D'Leit vun der Hell bieden ëm en Enn vun hirer Qual"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Hällfeier (Jahannam)",
+        "De Lotebam um Rand vum Paradäis",
+        "Eng duerchdréngend Trompett",
+        "E Staff, deen sech an eng Schlaang verwandelt",
+        "En herrleche göttleche Troun"
+      ],
+      "answer": "D'Hällfeier (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De Bewunner vun der Hell gëtt gesot, datt si fir ëmmer bleiwen",
+        "D'Awunner vun der Hell gi verginn a befreit",
+        "D'Awunner vun der Hell kréien eng zweet Chance op Glawen",
+        "D'Awunner vun der Hell ginn an eng Plaz vu Killheet geréckelt",
+        "D'Awunner vun der Hell gi komplett vun engem Donnerschlag zerstéiert"
+      ],
+      "answer": "De Bewunner vun der Hell gëtt gesot, datt si fir ëmmer bleiwen"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

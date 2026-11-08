@@ -1,0 +1,61 @@
+{
+  "title": "Sinetsi zuten entzule ezkutuak",
+  "intro": "Bilera sakratu baten isiltasunean, ikusezin den eremu batetik batzar harrigarri bat iritsi zen. Zerbait miragarriaren xuxurla batek erakarrita, betiko beren patua zigilatuko zuen errezitazioa entzun zuten. Haien testigantza jainkozko idatzietan berezienetakoa da oraindik.",
+  "clues": [
+    "Gehienek ikusten ez duten erreinu bateko izakiak gara, eta talde gisa etorri ginen.",
+    "Bilkura batera joan ginen zerbait harrigarria entzuteko.",
+    "Iritsi ginenean, txundituta utzi gintuen errezitaldi bat entzun genuen.",
+    "Argi eta garbi onartu genuen gure artean batzuk zuzenak direla eta beste batzuk ez.",
+    "Bagenekien ezin genuela jainkozko dekretuari ihes egin lurrekoan, ezta zerurantz hegan eginda ere.",
+    "Gida entzun genuenean, sinetsi genuen; bere Jaunarengan sinesten duenak ez du galerarik edo zamarik beldurtuko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Jinn talde bat.",
+        "Irameko jendea.",
+        "Tubba'ko jendea",
+        "Erromatar Inperioa",
+        "Quraysh tribua"
+      ],
+      "answer": "Jinn talde bat."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Errezitaldi sakratu bat entzuten",
+        "Gure hirian zutabe altuak eraikitzen",
+        "Gamelu eme bikain baten ehiza",
+        "Gure profetak hiltzeagatik suntsituak izatea",
+        "Aberastasuna neurrigabe biderkatzea"
+      ],
+      "answer": "Errezitaldi sakratu bat entzuten"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Errezitaldi sakratuen bilkura",
+        "Zutabe altuen hiria (Iram)",
+        "Putzu bat basamortuan",
+        "Urrezko jauregi handi bat",
+        "Mendietako kobazulo sakratu bat"
+      ],
+      "answer": "Errezitaldi sakratuen bilkura"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gure jendeari sinetsi eta ohartarazi genion",
+        "Zeruko eztanda indartsu batek suntsitu zuen",
+        "Haize erretzaile eta suntsitzaile batek zigortua",
+        "Aberastasun eta botere izugarria eman zioten",
+        "Sinesgaitzean tinko mantendu zen"
+      ],
+      "answer": "Gure jendeari sinetsi eta ohartarazi genion"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

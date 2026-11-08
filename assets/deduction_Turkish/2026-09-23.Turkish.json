@@ -1,0 +1,61 @@
+{
+  "title": "Çağları aşan çağrı",
+  "intro": "Bir medeniyetin tamamına karşı tek başına duran, sarsılmaz bir kararlılıkla onları yanlış yoldan geri döndürmeye kararlı bir ruhu hayal edin. Yüzyıllar boyunca mesaj reddedildi, alay konusu oldu ve yok sayıldı; ancak çaba asla durmadı. Sonunda büyük bir hesaplaşma geldi ve sadece birkaç kişi bu kararlı ruhun yanında kurtuluşa kavuştu. Kur'an'daki bu figürü tanıyabilir misiniz?",
+  "clues": [
+    "Kendi yollarında kaybolmuş bir halka uyarıcı olarak gönderildim.",
+    "Onlardan af dilemelerini ve yanlışlarından dönmelerini rica ettim, ama onlar yüz çevirdiler.",
+    "Tanrı'nın emriyle, halkımın beni izleyip alay etmesi eşliğinde devasa bir gemi inşa ettim.",
+    "Rabbime durmaksızın yalvardım; sonunda O da karşılık verdi ve gökten seller gibi sular yağdı.",
+    "Sular karayı sular altında bıraktığında, inananlarla birlikte gemiye bindim.",
+    "Geride kalanlardan birine seslenerek dağa sığınmalarını rica ettim, ama karar çoktan verilmişti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Nuh",
+        "Peygamber İbrahim",
+        "Peygamber Musa",
+        "Peygamber Hud",
+        "Peygamber Salih"
+      ],
+      "answer": "Peygamber Nuh"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Büyük bir gemi inşa etmek ve dünya çapında bir tufandan sağ kurtulmak",
+        "Alev alev yanan bir ateşe atılmak",
+        "Bir tiran ve onun güçlü büyücüleriyle yüzleşmek",
+        "Büyük bir balık tarafından yutulmak",
+        "Kutsal bir dişi devenin öldürülmesine tanık olmak"
+      ],
+      "answer": "Büyük bir gemi inşa etmek ve dünya çapında bir tufandan sağ kurtulmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Azgın sel sularının üzerinde devasa bir ahşap gemi",
+        "Antik taş kalıntıların bulunduğu kutsal bir vadi.",
+        "İnsanların yüzyıllarca uyuduğu derin bir mağara.",
+        "Okyanusun derinliklerinde dev bir balinanın karnı",
+        "Vahşi doğada yükselen, heybetli bir taş dağ."
+      ],
+      "answer": "Azgın sel sularının üzerinde devasa bir ahşap gemi"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Gemideki inananlarla birlikte kurtarıldılar.",
+        "İlahi emir sayesinde yangından sağ salim kurtarıldı.",
+        "Güçlü bir krallıktan büyük bir göç dalgasına önderlik etti.",
+        "Balıktan ıssız bir kıyıya doğru atılan olta.",
+        "Mucizevi bir işaret aracılığıyla insanları yanlış yollardan uzaklaştırdı."
+      ],
+      "answer": "Gemideki inananlarla birlikte kurtarıldılar."
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

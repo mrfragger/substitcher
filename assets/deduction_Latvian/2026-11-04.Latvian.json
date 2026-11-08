@@ -1,0 +1,61 @@
+{
+  "title": "dārgums, kas nogrima zem lepnuma",
+  "intro": "Iedomājieties, ka stāvat tik milzīgu bagātību kaudžu priekšā, ka tikai atslēgu nešana nogurdinātu spēcīgu indivīdu grupu. Apkārt balsis mudina uz pazemību un atcerēšanos, tomēr lepnums kļūst skaļāks par pateicību. Kas notiek, kad dāsnums kļūst par pārbaudījumu un augstprātība apzīmogo iznākumu?",
+  "clues": [
+    "Es biju no Musas tautas, tomēr es pret viņiem pārkāpu likumus.",
+    "Man tika piešķirti tik milzīgi dārgumi, ka to atslēgas būtu apgrūtinājums veselam baram spēcīgu vīru.",
+    "Mani ļaudis man ieteica negavilēt un meklēt pēcnāves dzīvi, neaizmirstot savu daļu šajā pasaulē.",
+    "Es apgalvoju, ka tas, kas man pieder, man tika dots tikai manu zināšanu dēļ.",
+    "Es grezni gāju savas tautas priekšā, un tie, kas kāroja pasaulīgu dzīvi, vēlējās kaut ko līdzīgu tam, kas bija man.",
+    "Mani aprija zeme kopā ar manu mājokli, un neviens nevarēja man palīdzēt, un arī es pats sev nevarēju palīdzēt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Koruns",
+        "Namrud",
+        "Džaluta",
+        "Azārs",
+        "Kabils"
+      ],
+      "answer": "Koruns"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lielījās ar bagātību un noliedza Allāha labvēlību, neskatoties uz padomu",
+        "Izaicināja Ibrahimu par dzīvības un nāves došanu",
+        "Vadīja armiju pret Talutu un Davudu",
+        "Cirsts elks, ko cilvēki pielūgt",
+        "Nogalināja brāli aiz skaudības par upuri"
+      ],
+      "answer": "Lielījās ar bagātību un noliedza Allāha labvēlību, neskatoties uz padomu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Atslēgas uz milzīgiem dārgumiem",
+        "Derības šķirsts",
+        "Zelta rotaslietu teļš",
+        "Dambis starp diviem kalniem",
+        "Vienpadsmit zvaigznes sapnī"
+      ],
+      "answer": "Atslēgas uz milzīgiem dārgumiem"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Zeme to norijusi ar mājvietu un bagātību",
+        "Noslīka jūrā, dzenoties pakaļ Musai",
+        "Nogāzts ar akmeni no Davuda lingas",
+        "Iznīcināts spēcīga sprādziena dēļ par kamieļmātes cīpslas sasitumu",
+        "Pārvērtās par pērtiķiem par sabata pārkāpšanu"
+      ],
+      "answer": "Zeme to norijusi ar mājvietu un bagātību"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

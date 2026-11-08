@@ -1,0 +1,61 @@
+{
+  "title": "Els constructors dels pilars elevats",
+  "intro": "Et trobes davant de les ruïnes d'una majestuosa ciutat antiga, amb els seus alts pilars ara caiguts. El vent udola pels carrers buits, portant el record d'un poble poderós que una vegada va governar aquestes terres. Qui eren?",
+  "clues": [
+    "Érem un poble d'una força i habilitat immenses, coneguts pels nostres grans edificis i la nostra civilització avançada.",
+    "Vivíem en una terra de dunes de sorra i turons rocosos, i crèiem que ningú ens podria dominar.",
+    "Un missatger va venir a nosaltres d'entre els nostres parents, cridant-nos a adorar només Al·là, però el vam rebutjar i el vam ridiculitzar.",
+    "Ens vam vanagloriar dient: «Qui és més fort que nosaltres?», i vam persistir en la nostra arrogància i en l'adoració d'ídols.",
+    "Al·là ens va enviar un vent furiós que va bufar durant set nits i vuit dies, devastant-ho tot.",
+    "Érem el poble d'Ad, els constructors d'Iram, i el nostre destí es va convertir en un avís per a tots els que van venir després."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent d'Ad",
+        "Gent de Thamud",
+        "Gent de Madyan",
+        "Gent de Tubba'",
+        "Gent d'al-Rass"
+      ],
+      "answer": "Gent d'Ad"
+    },
+    "trial": {
+      "label": "Quin va ser el càstig que els van enviat?",
+      "options": [
+        "Un vent devastador",
+        "Una pluja de pedres",
+        "Una forta explosió",
+        "Ofegament per inundació",
+        "Engolit per la terra"
+      ],
+      "answer": "Un vent devastador"
+    },
+    "location": {
+      "label": "Com es diu la seva ciutat llegendària?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Midian",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Quin va ser el seu destí final?",
+      "options": [
+        "Van ser destruïts i les seves restes es van convertir en una lliçó",
+        "Es van penedir i van ser salvats",
+        "Es van transformar en simis",
+        "Es van ofegar al mar",
+        "Van ser enterrats sota una esllavissada"
+      ],
+      "answer": "Van ser destruïts i les seves restes es van convertir en una lliçó"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

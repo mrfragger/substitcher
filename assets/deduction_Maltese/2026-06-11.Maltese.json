@@ -1,0 +1,61 @@
+{
+  "title": "Ir-Raħal fuq ix-Xatt tal-Prova",
+  "intro": "Issib ruħek f'raħal kostali, fejn il-ħoss tal-mewġ jitħallat mal-leħen baxx ta' nies minsija. Ingħataw kmand ta' mistrieħ, iżda r-regħba tagħhom wasslet għal kastig li għadu jissemma b'leħen baxx. Tista' tiskopri min kienu?",
+  "clues": [
+    "Għexna ħdejn ix-xatt u ngħatajna kmand biex nosservaw jum ta’ mistrieħ.",
+    "Dakinhar, il-ħut kien jiġi għandna b’abbundanza, imma konna pprojbiti li nieħduh.",
+    "Xi wħud fostna wissew kontra t-trasgressjoni, iżda oħrajn xorta waħda kkonspiraw biex jistadu.",
+    "Ksirna l-kmand sagru u ġibna fuqna nfusna kastig sever.",
+    "Il-kastig tagħna kien trasformazzjoni li ħallietna sfigurati u diżgrazzjati.",
+    "Twiddimna f'xadini, sinjal għal dawk kollha li ġejjin warajna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Nies tas-Sabat",
+        "Nies ta' Thamud",
+        "Nies ta' 'Ad",
+        "Nies tal-Għar",
+        "Nies tal-Iljunfant"
+      ],
+      "answer": "Nies tas-Sabat"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Sajd fis-Sabat",
+        "Jaduraw għoġol tad-deheb",
+        "Iċ-ċaħda tal-messaġġ ta’ Hud",
+        "Joqtol il-ġemela",
+        "Nibnu torri għas-sema"
+      ],
+      "answer": "Sajd fis-Sabat"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-ħut",
+        "Ġemela",
+        "Staff",
+        "Dgħajsa",
+        "Ġnien"
+      ],
+      "answer": "Il-ħut"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Mibdula f'xadini",
+        "Meqrud minn għargħar",
+        "Meqrud minn nar qawwi",
+        "Mibela’ mill-art",
+        "Imxerred mir-riħ"
+      ],
+      "answer": "Mibdula f'xadini"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

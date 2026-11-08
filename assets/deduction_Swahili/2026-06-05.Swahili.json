@@ -1,0 +1,61 @@
+{
+  "title": "Watafuta Ukweli Wanyenyekevu",
+  "intro": "Katika nchi yenye nguvu na uchawi wa kale, mapambano makubwa yanatokea. Upande mmoja unatumia mamlaka ya ishara za kimungu, huku mwingine ukijaribu kuendana na yasiyowezekana. Matokeo yake yatabadilisha milele mkondo wa historia. Je, unaweza kufichua utambulisho wa wale walioshuhudia ukweli wa mwisho na kujinyenyekeza mbele yake?",
+  "clues": [
+    "Tulishuhudia ishara zilizopita mbinu za uchawi",
+    "Sote tulianguka kwa kusujudu, hatuwezi kukataa ukweli",
+    "Tulitambua kwamba ishara hizi zilitoka kwa Mungu Mmoja wa Kweli",
+    "Tulikuwa jamii ya kwanza kukubali imani kwa njia ya ajabu sana",
+    "Tuliahidiwa paradiso kama malipo yetu kwa imani yetu",
+    "Kamba na fimbo zetu zikawa nyoka mbele ya macho yetu, lakini tulichagua kunyenyekea"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Wachawi wa Farao",
+        "Watu wa Nabii Ibrahim",
+        "Watafutaji wa ukweli wanyenyekevu",
+        "Watu wa Pango",
+        "Taifa la Malkia Bilqis"
+      ],
+      "answer": "Wachawi wa Farao"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukutana na fimbo ya Nabii Musa",
+        "Jaribio la upepo wa Nabii Hud",
+        "Changamoto kutoka kwa ngamia jike wa Nabii Salih",
+        "Gharika kubwa iliyotumwa juu ya nabii",
+        "Safari ya nabii ndani ya nyangumi"
+      ],
+      "answer": "Kukutana na fimbo ya Nabii Musa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Misri ya Kale",
+        "Nyumba takatifu huko Makka",
+        "Mji wa Midiani",
+        "Jangwa la Thamud",
+        "Pango la walalaji wa kale"
+      ],
+      "answer": "Misri ya Kale"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Paradiso kama malipo yao",
+        "Adhabu kaburini",
+        "Kupoteza bustani zao nyingi",
+        "Uharibifu wa tetemeko la ghafla la ardhi",
+        "Uokoaji kutoka kwa nyangumi mkubwa"
+      ],
+      "answer": "Paradiso kama malipo yao"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

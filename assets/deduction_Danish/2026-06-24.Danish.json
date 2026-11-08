@@ -1,0 +1,61 @@
+{
+  "title": "Vogteren af ​​den uudslukkelige flamme",
+  "intro": "En skikkelse står på tærsklen til det mest frygtede sted i det usete, betroet en pligt, som intet andet væsen ønsker. Når lidende sjæle råber om nåde, genlyder et strengt svar gennem ildkamrene. Kan du afdække identiteten på denne evige vogter?",
+  "clues": [
+    "Jeg står ved indgangen til et skræmmende sted med straf i det usete.",
+    "En flammende, uudslukkelig ild er midtpunktet i min højtidelige pligt.",
+    "Lidende sjæle råber mit navn og tigger om lindring fra deres endeløse pine.",
+    "Når de bønfalder, erklærer jeg, at de aldrig vil forlade mig.",
+    "Jeg er hverken menneske eller jinn – jeg er et skabt væsen af ​​ren lydighed.",
+    "Jeg er den øverste engel, der er udpeget som den evige vogter af Helvede."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Helvedes folk bønfalder om, at deres pine må ophøre",
+        "Trompeten blæses for at signalere dommedag",
+        "Koranen er åbenbaret til profetens hjerte",
+        "En profet bliver kastet i en stor ild af sit folk",
+        "En mægtig mur er bygget for at inddæmme en korrupt nation"
+      ],
+      "answer": "Helvedes folk bønfalder om, at deres pine må ophøre"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Helvedesilden (Jahannam)",
+        "Lotetræet ved grænsen til Paradiset",
+        "En gennemtrængende trompet",
+        "En stav, der forvandles til en slange",
+        "En storslået guddommelig trone"
+      ],
+      "answer": "Helvedesilden (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Helvedes beboere får at vide, at de vil forblive for evigt",
+        "Helvedes beboere er tilgivet og frigivet",
+        "Helvedes beboere får en ny chance for tro",
+        "Helvedes beboere flyttes til et køligt sted",
+        "Helvedes beboere bliver fuldstændig ødelagt af et tordenkile"
+      ],
+      "answer": "Helvedes beboere får at vide, at de vil forblive for evigt"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

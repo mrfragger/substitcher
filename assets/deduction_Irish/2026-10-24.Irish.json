@@ -1,0 +1,61 @@
+{
+  "title": "An Rabhadh Faoin Talamh",
+  "intro": "Samhlaigh go bhfuil tú i do sheasamh le taobh tochailte domhain agus guthanna ag teacht anuas agus an domhan thuas ag titim ina thost. Coinníonn an Corán an radharc seo mar rabhadh: diúltaíonn pobal don rud a thugann na teachtairí, tagann pionós i ngar dúinn, agus fiú bíonn a ghlór mar chuid den fhianaise. Cén comhchoiteann a labhraíonn trí na véarsaí sin?",
+  "clues": [
+    "Cuimhnítear orainn sa Qur'an mar chomhchoiteann a shainmhínítear ag cinniúint chomhroinnte amháin seachas ainm aonair.",
+    "Dhiúltaíomar don teachtaireacht a thug teachtairí, cé gur fíor a ndúirt siad.",
+    "Tá ár bhféiniúlacht chuimhne ceangailte le gearradh domhain sa talamh, agus rinneadh cuid dár n-ainm den ghné sin.",
+    "Ar an lá ceaptha, tugadh amach sinn agus tarraingíodh sinn i dtreo na tine.",
+    "Ní raibh muid in ann sinn féin a chosaint ar an bpionós, agus ní raibh muid in ann a torann a chloisteáil.",
+    "Dhéanfaí ár n-aghaidheanna a chasadh sa tine, agus thiomáinfí isteach ann sinn; nuair a chuirfí ceist orainn, déarfaimis go raibh muid i measc na ndaoine nach raibh in ann freagra a thabhairt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Compánaigh an Trinse",
+        "An Náisiún Saortha ón Tuilte Mór",
+        "Adhradhóirí an Lao Órga",
+        "An Grúpa faoi Dhíon istigh in Uaimh an tSléibhe",
+        "An Pobal Saortha ón bhFoirnéis Dhóite"
+      ],
+      "answer": "Compánaigh an Trinse"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Tarraingthe agus teilgthe isteach sa Tine",
+        "Seachadta ó fhoirnéis theine",
+        "Iompar slán sábháilte tríd an tuile mhór",
+        "Foscadh le céadta bliain taobh istigh de uaimh",
+        "Tarrtháladh tar éis a bheith caite i dtobar"
+      ],
+      "answer": "Tarraingthe agus teilgthe isteach sa Tine"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Trinse nó poll",
+        "Muir mhór",
+        "Uaimh sléibhe",
+        "Pálás ard",
+        "Tobar fásaigh"
+      ],
+      "answer": "Trinse nó poll"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Gan a bheith in ann iad féin a chosaint agus gan a bheith in ann torann na Tine a chloisteáil",
+        "Tarrtháladh agus tugadh cead isteach sna gairdíní síoraí dóibh",
+        "Seachadta go sábháilte trí thuilte millteach",
+        "Faoi chosaint ag codladh fada taobh istigh de uaimh",
+        "Onóraithe le ríocht shíoraí"
+      ],
+      "answer": "Gan a bheith in ann iad féin a chosaint agus gan a bheith in ann torann na Tine a chloisteáil"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

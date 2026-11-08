@@ -1,0 +1,61 @@
+{
+  "title": "hvězdné hledání jistoty",
+  "intro": "Představte si, jak stojíte pod rozlehlou noční oblohou, sledujete, jak jasná světla vycházejí a zase mizí, zatímco hledáte to, co si skutečně zaslouží oddanost. Kolem vás tiché vyřezávané sochy dostávají chválu a oběti, přesto jasný rozum zpochybňuje jejich moc. Nebojácný hlas se chystá zpochybnit zděděnou tradici a ukázat na Stvořitele nebes i země.",
+  "clues": [
+    "Díval jsem se na hvězdy, měsíc a slunce a usoudil jsem, že nemohou být mým Pánem, protože zapadají a mizí.",
+    "Otevřeně jsem se zřekl toho, co můj lid uctívá kromě Alláha, a vyzval jsem je, aby uctívali pouze Stvořitele.",
+    "Debatoval jsem s chvástavým vládcem, který tvrdil, že dává život a smrt, a odpověděl jsem zmínkou o Alláhovi, který přináší slunce z východu.",
+    "Udeřil jsem do modl a roztříštil je, takže zbyla jen ta největší, aby se k ní lidé mohli vrátit.",
+    "Můj lid mě zajal a odsoudil, řekl mi, ať postavím stavbu a hodím mě do planoucího ohně.",
+    "Byl jsem zachráněn, když Alláh přikázal, aby oheň byl pro mě chladem a bezpečím."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Ibrahím (Abraham)",
+        "Prorok Jahja (Jan)",
+        "Prorok Al-Yása (Eliša)",
+        "Samiři",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Prorok Ibrahím (Abraham)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Konfrontoval se s uctíváním idolů a debatoval o významu nebeských těles",
+        "Byl spolknut velkou rybou poté, co v hněvu odplul",
+        "Vedl následovníky mořem rozděleným Alláhem",
+        "Byl vznesen zaživa do nebes, aniž by okusil smrt",
+        "Spal jsem mnoho let v jeskyni se společníky"
+      ],
+      "answer": "Konfrontoval se s uctíváním idolů a debatoval o významu nebeských těles"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Planoucí oheň, který Alláh ochladil a uklidnil",
+        "Archa, která věřící přenesla potopou",
+        "Hůl, která se proměnila v hada",
+        "Stůl se prostíral z nebe",
+        "Velbloudice poslána jako znamení"
+      ],
+      "answer": "Planoucí oheň, který Alláh ochladil a uklidnil"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Ochráněno před ohněm a uděleno spravedlivým potomkům",
+        "Utopeni popírači ve velké povodni",
+        "Proměněni za porušení Sabatu",
+        "Zničeno ptáky nesoucími hliněné kameny",
+        "Pohlceni zemí s poklady"
+      ],
+      "answer": "Ochráněno před ohněm a uděleno spravedlivým potomkům"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

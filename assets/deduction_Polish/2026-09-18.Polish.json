@@ -1,0 +1,61 @@
+{
+  "title": "Wezwanie ze Świętej Doliny",
+  "intro": "Za kartami historii kryje się historia duszy, która stanęła między potężnym władcą a całym zniewolonym ludem. Ten człowiek został powołany, by wyzwolić naród spod tyranii, dokonując cudów przeczących wszelkim prawom natury. Od świętej góry po cud na wodzie, ten sługa Allaha był świadkiem znaków, które miały rozbrzmiewać echem przez wieki. Twoim zadaniem jest dziś zidentyfikować tę niezwykłą postać, której dziedzictwo ukształtowało bieg historii ludzkości.",
+  "clues": [
+    "Urodziłem się w czasie, gdy mój lud stanął w obliczu śmiercionośnego dekretu, a moja rodzina umieściła mnie w wodzie, aby uratować mi życie.",
+    "Zostałem znaleziony i wychowany w domu władcy, który wydał rozkaz wymordowania przedstawicieli mojego gatunku.",
+    "Uciekłem na świętą górę, gdzie ujrzałem ogień płonący na drzewie, które nie uległo spaleniu, a z niego dobiegł mnie głos.",
+    "Zostałem wysłany z powrotem do tego samego władcy, czyniąc cuda, i domagając się wolności mojego zniewolonego ludu.",
+    "Uderzyłem laską w morze, a ono rozstąpiło się na suche ścieżki i pochłonęło prześladowców, którzy podążali za moim ludem.",
+    "Rozmawiałem z moim Panem na górze przez czterdzieści nocy i otrzymałem tablice boskiego przewodnictwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Musa",
+        "Prorok Harun",
+        "Prorok Ibrahim",
+        "Prorok Yusuf",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Musa"
+    },
+    "trial": {
+      "label": "Mój decydujący proces",
+      "options": [
+        "Rozstąpienie się morza",
+        "Budowa Wielkiej Arki",
+        "Próba ognia płonącego",
+        "Uwięzienie w brzuchu wieloryba",
+        "Uwięzienie przez egipskiego urzędnika"
+      ],
+      "answer": "Rozstąpienie się morza"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Laska pasterska",
+        "Wielka drewniana arka",
+        "Jaskinia, w której czas spał",
+        "Ogród z dwoma źródłami",
+        "Tron ozdobiony złotem"
+      ],
+      "answer": "Laska pasterska"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Mój lud przepłynął morze w bezpieczne miejsce",
+        "Wielka powódź zniszczyła niewiernych",
+        "Ogień tyrana stał się chłodny i spokojny",
+        "Morze rzuciło swego jeńca na brzeg",
+        "Jeniec został skarbnikiem Egiptu"
+      ],
+      "answer": "Mój lud przepłynął morze w bezpieczne miejsce"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

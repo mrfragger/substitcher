@@ -1,0 +1,61 @@
+{
+  "title": "Klausītāji no neredzamā",
+  "intro": "Aiz redzamās pasaules plīvura tumsā sapulcējās apslēpta draudze, ko piesaistīja skaņa, kas nepakļāvās visam, ko viņi bija zinājuši. Viņi bija klejojuši gadsimtiem ilgi bez patiesas vadības, līdz balss caururbja viņu neredzamās valstības klusumu un dziļi iekšienē kaut ko satrauca. Šovakar jūs esat aicināti spert soli ārpus ēnām un atklāt šīs noslēpumainās grupas identitāti, kuras saskarsme ar dievišķiem vārdiem atgrieza viņus pie savas tautas kā brīdinātājus par patiesību, ko nevarēja ietvert.",
+  "clues": [
+    "Mēs esam senas būtnes, kas pastāvēja ilgi pirms daudzām tautām, par kurām esat lasījuši, tomēr cilvēku stāstos par mums runā reti.",
+    "Mūsu daba atšķiras no jūsējās, tā ir veidota no neredzamajiem elementiem, un mums piemīt spēks, kas nepakļaujas ikdienišķajam.",
+    "Gadsimtiem ilgi mēs klejojām bez patiesas vadības, līdz mūs sasniedza skaņa, kas dziļi sevī kaut ko sakustināja.",
+    "Mēs nejauši dzirdējām deklamāciju, kādu nekad nebijām dzirdējuši, vārdus, kuriem bija lielāks svars nekā jebkurai runai.",
+    "Mēs slepeni spiedāmies cieši klāt, pavēlot savējiem klusēt, un, kad panti beidzās, mēs nespējām nostāvēt mierā.",
+    "Mēs atgriezāmies pie savas tautas un paziņojām: “Ak, mūsu tauta, mēs esam dzirdējuši Grāmatu, kas atklāta pēc Mozus, apstiprinot to, kas bija pirms tās, vadot uz patiesību.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Hawariyyun (Isas mācekļi)",
+        "Džinni, kas ticēja pēc Korāna dzirdēšanas",
+        "Alas pavadoņi",
+        "Zemāko debesu eņģeļi",
+        "Faraona tauta, kas sekoja viņa ceļam"
+      ],
+      "answer": "Džinni, kas ticēja pēc Korāna dzirdēšanas"
+    },
+    "trial": {
+      "label": "Izmēģinājums / pasākums",
+      "options": [
+        "Mēs tikām izraidīti par to, ka atteicāmies paklanīties jaunradītas būtnes priekšā",
+        "Mēs bijām ieslēgti alā trīs simti deviņus gadus",
+        "Mums pavēlēja šķērsot jūru, kas mūsu priekšā sašķēlās",
+        "Mūs aizsūtīja uz maģijas zemi, lai mācītos burvestības",
+        "Mēs slepeni klausījāmies deklamāciju un tikām tās pārveidoti"
+      ],
+      "answer": "Mēs slepeni klausījāmies deklamāciju un tikām tās pārveidoti"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš, kas darināts no tautas rotājumiem",
+        "Ala, kurā miegs ilga paaudzēm ilgi",
+        "Divi eņģeļi Babilonā, kas mācīja aizliegtās zināšanas",
+        "Grāmata, kas atklāta pēc Mozus, apstiprinot Toru",
+        "Degošs krūms svētā kalna virsotnē"
+      ],
+      "answer": "Grāmata, kas atklāta pēc Mozus, apstiprinot Toru"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mēs bijām nolādēti līdz Tiesas dienai",
+        "Mēs sacēlāmies pret varenu valdnieku un uzcēlām barjeru zemē",
+        "Mēs tikām pārvērsti par pērtiķiem un cūkām",
+        "Mēs atgriezāmies pie savas tautas kā brīdinātāji, pasludinot ticību",
+        "Mēs noslīkām jūrā kopā ar savu vadoni"
+      ],
+      "answer": "Mēs atgriezāmies pie savas tautas kā brīdinātāji, pasludinot ticību"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

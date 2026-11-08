@@ -1,0 +1,61 @@
+{
+  "title": "El retiro solitario",
+  "intro": "En los anales del favor divino, existe un alma de pureza incomparable, apartada de su pueblo para buscar la soledad en un camino sagrado. Poco sabían que este retiro traería consigo una señal para todos los mundos, una prueba de fe de la que se hablaría por toda la eternidad.",
+  "clues": [
+    "Desde antes de nacer, estaba destinado a una vida de servicio.",
+    "Me pusieron bajo la tutela de un noble profeta.",
+    "Fui sustentado por las provisiones de Alá, lo cual asombró a mi tutor.",
+    "Me retiré de mi familia a un lugar del este.",
+    "Un ángel se me apareció con la apariencia de un hombre perfecto, trayéndome la noticia de un hijo puro.",
+    "Cuando regresé con mi recién nacido, mi gente me acusó, pero el bebé habló en mi defensa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "María",
+        "Asiyah (esposa del faraón)",
+        "Hajar (madre de Ismail)",
+        "Sara (esposa de Ibrahim)",
+        "La madre de Musa"
+      ],
+      "answer": "María"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Concepción milagrosa y nacimiento de un hijo.",
+        "Ser arrojado al fuego",
+        "Ser tragado por un pez gigante",
+        "Construyendo una gran arca",
+        "Cruzando el mar"
+      ],
+      "answer": "Concepción milagrosa y nacimiento de un hijo."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un lugar aislado del este",
+        "La zarza ardiente",
+        "El Mar Rojo",
+        "La roca de la que brotaba el agua",
+        "La ballena"
+      ],
+      "answer": "Un lugar aislado del este"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Un bebé habló en defensa de su madre.",
+        "El mar se abrió",
+        "El fuego se enfrió y se volvió seguro.",
+        "La ballena vomitó en la orilla.",
+        "El arca aterrizó en una montaña."
+      ],
+      "answer": "Un bebé habló en defensa de su madre."
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

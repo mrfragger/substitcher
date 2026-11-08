@@ -1,0 +1,61 @@
+{
+  "title": "Le Rejeté du Veau d'Or",
+  "intro": "Un personnage mentionné dans le Coran a entraîné une foule immense dans l'égarement en l'absence d'un prophète illustre. Un objet d'or a conquis le cœur de toute une nation, mais l'histoire de cet individu s'achève dans la solitude et une étrange malédiction. Qui pouvait bien être ce paria ?",
+  "clues": [
+    "J'ai émergé en l'absence d'un grand prophète qui était monté au ciel pour recevoir la guidance divine.",
+    "J'ai égaré une grande multitude avec quelque chose que j'avais fabriqué de mes propres mains.",
+    "La création dorée que j'avais réalisée semblait avoir vie, produisant des sons qui hypnotisaient ceux qui la suivaient.",
+    "J'ai prétendu avoir vu ce que les autres ne pouvaient percevoir — un aperçu de l'invisible.",
+    "J'ai puisé mon inspiration dans les traces du messager divin et je l'ai coulée dans du métal en fusion.",
+    "J'étais condamné à errer seul, frappé d'une malédiction unique : nul ne pouvait toucher ma peau, et je ne pouvais toucher la leur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Pharaon (Fir'awn)",
+        "Abou Lahab",
+        "Prophète Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il créa un veau d'or pour le culte",
+        "Il a construit une tour qui atteint les cieux",
+        "Les sorciers d'Égypte défiés",
+        "Il commandait une armée dotée de bêtes volantes.",
+        "La lune fendue comme preuve de prophétie"
+      ],
+      "answer": "Il créa un veau d'or pour le culte"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le veau d'or",
+        "Un bâton qui se transforma en serpent",
+        "Un buisson ardent sur une montagne",
+        "Une arche reposant sur un pic",
+        "Une tranchée remplie de feu flamboyant"
+      ],
+      "answer": "Le veau d'or"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Exilé, interdiction d'être touché ou de toucher autrui",
+        "Noyé en mer avec une armée",
+        "Brûlé vif pour avoir rejeté la foi",
+        "Foudroyé par un vent violent et rugissant",
+        "Pardonné et élevé à un rang élevé"
+      ],
+      "answer": "Exilé, interdiction d'être touché ou de toucher autrui"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

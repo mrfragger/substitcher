@@ -1,0 +1,61 @@
+{
+  "title": "Vyvrhel zlatého telete",
+  "intro": "Postava zmíněná v Koránu svedla velké množství lidí k odvrácení během nepřítomnosti vznešeného proroka. Něco vyrobeného ze zlata si získalo srdce celého národa – ale příběh této osoby končí samotou a podivnou kletbou. Kdo by mohl být tímto vyvržencem?",
+  "clues": [
+    "Objevil jsem se během nepřítomnosti velkého proroka, který se vznesl, aby přijal božské vedení.",
+    "Svedl jsem na scestí velký dav něčím, co jsem si vytvořil vlastníma rukama.",
+    "Zlatý výtvor, který jsem vytvořil, jako by měl život a vydával zvuky, které fascinovaly ty, kdo ho následovali.",
+    "Tvrdil jsem, že jsem viděl to, co jiní vnímat nemohli – letmý pohled do neviditelného.",
+    "Vytáhl jsem něco ze stop božského posla a odlil to do roztaveného kovu.",
+    "Byl jsem odsouzen k osamělému putování, s jedinečnou kletbou, že se nikdo nesmí dotknout mé kůže ani já se nesmím dotknout jejich."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraon (Fir'awn)",
+        "Abú Laháb",
+        "Prorok Sálih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Stvořil zlaté tele k uctívání",
+        "Postavil věž dosahující až k nebesům",
+        "Vyzval egyptské čaroděje",
+        "Vedl armádu s létajícími zvířaty",
+        "Rozdělení Měsíce jako důkaz proroctví"
+      ],
+      "answer": "Stvořil zlaté tele k uctívání"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zlaté tele",
+        "Hůl, která se proměnila v hada",
+        "Hořící keř na hoře",
+        "Archa spočívající na vrcholu",
+        "Příkop plný planoucího ohně"
+      ],
+      "answer": "Zlaté tele"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Vyhoštěn, zakázáno se ho dotýkat nebo dotýkat se ostatních",
+        "Utopil se v moři spolu s armádou",
+        "Upálen zaživa za odmítnutí víry",
+        "Sražen prudkým, řvoucím větrem",
+        "Odpuštěno a povýšeno na vysokou pozici"
+      ],
+      "answer": "Vyhoštěn, zakázáno se ho dotýkat nebo dotýkat se ostatních"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Voix dans les Sables Anciens",
+  "intro": "Parmi les premiers messagers d'Allah, il en est un dont le nom brille brièvement mais intensément dans le Coran. Cet homme vécut bien avant l'envoi de nombreux grands prophètes et était réputé pour sa sincérité et sa patience inébranlables. Son histoire est brève, mais son héritage perdure dans les annales éternelles. Qui est cette âme noble ?",
+  "clues": [
+    "Je suis l'un des premiers messagers, mentionné brièvement mais de manière significative dans le Coran.",
+    "Mon caractère était défini par un engagement indéfectible envers la vérité.",
+    "Je suis mentionné dans le livre d'Allah parmi ceux qui ont été constants et patients.",
+    "Seuls quelques courts versets du Coran racontent mon histoire.",
+    "Allah m'a honoré d'une manière qui m'est propre, et que je ne partage pas avec les autres prophètes.",
+    "J'ai été élevé à un rang élevé, un honneur singulier mentionné dans le Coran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Idris",
+        "Le prophète Ilyas",
+        "Dhul-Kifl",
+        "Prophète Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Le prophète Idris"
+    },
+    "trial": {
+      "label": "Moment décisif",
+      "options": [
+        "J'ai été élevé à un rang élevé par Allah",
+        "J'ai construit une grande arche pour sauver mon peuple",
+        "J'ai défié les sorciers du Pharaon",
+        "J'ai été jeté dans une fosse par mes frères.",
+        "J'ai perdu la vue à cause du chagrin causé par mon fils."
+      ],
+      "answer": "J'ai été élevé à un rang élevé par Allah"
+    },
+    "location": {
+      "label": "Référence sacrée",
+      "options": [
+        "Sourate Al-Anbiya",
+        "Sourate Al-Kahf",
+        "Sourate Taha",
+        "Sourate Ash-Shu'ara",
+        "Sourate Yasin"
+      ],
+      "answer": "Sourate Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Honneur divin",
+      "options": [
+        "Une station de haute altitude pas comme les autres",
+        "Domination sur les djinns et les vents",
+        "Un royaume d'une gloire sans pareille",
+        "Un héritier de ma vieillesse",
+        "Une alliance scellée avec Allah"
+      ],
+      "answer": "Une station de haute altitude pas comme les autres"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

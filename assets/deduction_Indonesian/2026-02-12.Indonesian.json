@@ -1,0 +1,60 @@
+{
+  "title": "Keajaiban Bukti Diam",
+  "intro": "Anda bertemu dengan sosok yang diselimuti kisah campur tangan ilahi. Sebuah kisah tentang pertolongan ajaib dan pembelaan tanpa kata yang bergema sepanjang waktu. Dapatkah Anda mengungkap siapa yang menghadapi cobaan luar biasa ini?",
+  "clues": [
+    "Saya menerima pesan ilahi yang membuat saya tercengang.",
+    "Keluargaku mempertanyakan kesucianku ketika aku kembali dengan seorang anak.",
+    "Saya diperintahkan untuk berpuasa dari berbicara selama suatu periode.",
+    "Mata air dan kurma menopangku selama masa sulitku.",
+    "Tuhanku membuat pohon berguncang secara ajaib untuk memberiku rezeki.",
+    "Seorang malaikat menampakkan diri kepadaku dalam wujud manusia sempurna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Maryam",
+        "Asiya",
+        "Hawa",
+        "Sarah",
+        "Khadijah"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Melahirkan sendirian di bawah pohon palem",
+        "Menghadapi kelaparan yang mematikan",
+        "Dilemparkan ke dalam lubang api",
+        "Melarikan diri dari penguasa tirani",
+        "Menjaga relik suci"
+      ],
+      "answer": "Melahirkan sendirian di bawah pohon palem"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Pohon palem",
+        "Semak yang terbakar",
+        "Kuil batu",
+        "Sungai Nil",
+        "Gunung Sinai"
+      ],
+      "answer": "Pohon palem"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Ketidakbersalahanku terbukti ketika putraku yang masih bayi berbicara.",
+        "Aku menjadi seorang ratu yang dipuja",
+        "Umatku binasa oleh hukuman ilahi.",
+        "Saya memimpin bangsa saya menuju kemenangan.",
+        "Sebuah sumur ajaib muncul secara permanen."
+      ],
+      "answer": "Ketidakbersalahanku terbukti ketika putraku yang masih bayi berbicara."
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Gardantoj de la Ĝardeno",
+  "intro": "En verda ĝardeno, komunumo faris solenan ĵuron. Sed ilia decido estis provita kiam dia volo intervenis, transformante ilian abundon en dezertan teron.",
+  "clues": [
+    "Ni estis benitaj per abunda ĝardeno, sed ni fariĝis arogantaj.",
+    "Ni faris planon rikolti sen dividi kun la malriĉuloj.",
+    "Ni ekiris frumatene, memfidaj je nia plano.",
+    "Sed kiam ni alvenis, ni trovis, ke nia ĝardeno estis detruita dum la nokto.",
+    "Ni komprenis nian eraron kaj komencis kulpigi unu la alian.",
+    "Ni fine pentis, sed la leciono estis lernita tro malfrue."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "Homoj de la Ĝardeno",
+        "Homoj de la Kaverno",
+        "Homoj de la Elefanto",
+        "Homoj de Thamud",
+        "Homoj de 'Ad"
+      ],
+      "answer": "Homoj de la Ĝardeno"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Ĝardeno cindriĝinta",
+        "Inundo kiu ĉion detruis",
+        "Malsato kiu frapis la landon",
+        "Armeo de birdoj atakantaj",
+        "Granda vento kiu elradikigis arbojn"
+      ],
+      "answer": "Ĝardeno cindriĝinta"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Ĝardeno",
+        "Kaverno",
+        "Ŝipo",
+        "Monto",
+        "Palaco"
+      ],
+      "answer": "Ĝardeno"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ili pentis sed perdis sian ĝardenon",
+        "Ili estis tute detruitaj",
+        "Ili estis transformitaj en simiojn",
+        "Ili estis savitaj per fido",
+        "Ili fariĝis regantoj"
+      ],
+      "answer": "Ili pentis sed perdis sian ĝardenon"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

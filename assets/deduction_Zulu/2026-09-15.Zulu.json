@@ -1,0 +1,61 @@
+{
+  "title": "Ukungenisa izihambi okwaletha ukwesaba",
+  "intro": "Emzini ogcwele ububi, inceku ethembekile yamukela izivakashi ezingalindelekile ngolunye usuku. Ikhathazekile ngokuphepha kwayo, le ndoda yanikeza isivikelo, kodwa abantu bomuzi bafuna into eyihlazo. Ixwayisiwe ngenhlekelele ezayo, inceku yabaleka nomndeni wayo ebumnyameni, ishiya umuzi ophawulwe ukubhujiswa. Ubani lo okholwayo oyedwa?",
+  "clues": [
+    "Ngathunyelwa njengesithunywa kubantu ababenze izenzo ezihlazisayo.",
+    "Izivakashi ezingalindelekile zafika ekhaya lami, futhi ngangikhathazeke kakhulu ngokuphepha kwazo kunokwami.",
+    "Abantu bami bafuna ukubona izivakashi zami ngezinhloso ezimbi, futhi ngazama ukubonisana nabo.",
+    "Izivakashi zami zaziveza njengezingelosi futhi zangiyala ukuba ngithathe umndeni wami ngihambe ebusuku.",
+    "Umkami akazange alalele ubizo lokubaleka futhi wabhekana nokubhujiswa okufanayo nabantu bakithi.",
+    "Idolobha lami lagumbuqelwa yimvula yamatshe obumba oluhlanganisiwe, izingxenye zalo eziphakeme zancishiswa kakhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uLut",
+        "Umprofethi uMusa",
+        "Umprofethi u-Ibrahim",
+        "Umprofethi uNuh",
+        "Umprofethi uHud"
+      ],
+      "answer": "Umprofethi uLut"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Isidingo sabantu bami sokusondela ezivakashini zami ngonya",
+        "Ukuhlukana kolwandle ukuze kuphunyuke umashiqela",
+        "Ukwakhiwa komkhumbi omkhulu phakathi kokugconwa",
+        "Umhlatshelo wendodana yami ekuvivinyweni kokholo",
+        "Okuhlangenwe nakho kokugwinywa yinhlanzi enkulu"
+      ],
+      "answer": "Isidingo sabantu bami sokusondela ezivakashini zami ngonya"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Idolobha labantu bami eligumbuqelwe",
+        "Intaba lapho ngathola khona inkulumo yaphezulu",
+        "Umkhumbi owadlula esikhukhuleni esikhulu",
+        "Ikamela lensikazi elaphuma edwaleni",
+        "Ingadi enesivakashi esilungile esifihliwe"
+      ],
+      "answer": "Idolobha labantu bami eligumbuqelwe"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ngasindiswa nomndeni wami ngaphambi kokuba idolobha lami ligumbuqelwe",
+        "Ngaholela abantu bami enkululekweni ngaphesheya kolwandle",
+        "Ngakha umkhumbi omkhulu futhi ngasinda esikhukhuleni esikhulu",
+        "Nganikwa ukubusa phezu kwemimoya namajini",
+        "Ngabekezelela ukuhlupheka ngesineke futhi ngavuzwa ngomndeni"
+      ],
+      "answer": "Ngasindiswa nomndeni wami ngaphambi kokuba idolobha lami ligumbuqelwe"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

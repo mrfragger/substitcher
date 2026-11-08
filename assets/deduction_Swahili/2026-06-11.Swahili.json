@@ -1,0 +1,61 @@
+{
+  "title": "Kijiji Kwenye Ufuo wa Jaribio",
+  "intro": "Unajikuta katika kijiji cha pwani, ambapo sauti ya mawimbi huchanganyika na minong'ono ya watu waliosahaulika. Walipewa amri ya kupumzika, lakini uchoyo wao ulisababisha adhabu ambayo bado inazungumziwa kwa sauti ya kimya. Je, unaweza kuwagundua walikuwa akina nani?",
+  "clues": [
+    "Tuliishi kando ya ufuo na tulipewa amri ya kuadhimisha siku ya kupumzika.",
+    "Siku hiyo, samaki wangetujia kwa wingi, lakini tulikatazwa kuwachukua.",
+    "Baadhi yetu tulionya dhidi ya uvunjaji wa sheria, lakini wengine walipanga njama ya kuvua samaki hata hivyo.",
+    "Tulivunja amri takatifu na tukajiletea adhabu kali.",
+    "Adhabu yetu ilikuwa mabadiliko yaliyotuacha tumeharibika na kufedheheshwa.",
+    "Tuligeuzwa kuwa nyani, ishara kwa wote watakaokuja baada yetu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Sabato",
+        "Watu wa Thamud",
+        "Watu wa 'Ad",
+        "Watu wa Pango",
+        "Watu wa Tembo"
+      ],
+      "answer": "Watu wa Sabato"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Uvuvi Siku ya Sabato",
+        "Kuabudu ndama wa dhahabu",
+        "Kukataa ujumbe wa Hud",
+        "Kuua ngamia jike",
+        "Kujenga mnara hadi mbinguni"
+      ],
+      "answer": "Uvuvi Siku ya Sabato"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Samaki",
+        "Ngamia jike",
+        "Mfanyakazi",
+        "Mashua",
+        "Bustani"
+      ],
+      "answer": "Samaki"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aligeuka kuwa nyani",
+        "Imeharibiwa na mafuriko",
+        "Imeharibiwa na moto mkali",
+        "Imemezwa na ardhi",
+        "Imetawanywa na upepo"
+      ],
+      "answer": "Aligeuka kuwa nyani"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

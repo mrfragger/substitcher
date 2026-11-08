@@ -1,0 +1,61 @@
+{
+  "title": "Zvanītājs no dzīlēm",
+  "intro": "Iedomājieties dvēseli, kurai uzticēts dievišķs vēstījums, tomēr tādu, kura steigas brīdī atstāja savu ļaužu loku bez skaidras atļaujas. Šis ceļojums viņus noveda pie ārkārtēja pārbaudījuma, dziļa pacietības un paļaušanās uz Visaugstāko pārbaudījuma. Kas ir šī persona, kuras stāsts māca mums par grēku nožēlu un Allāha žēlastības plašumu?",
+  "clues": [
+    "Mani sūtīja pie lielas nācijas, bet viņu sākotnējā noraidīšana manī radīja ciešanas.",
+    "Es pametu savus ļaudis, ticot, ka mana misija ir pabeigta, pirms saņēmu skaidru pavēli doties prom.",
+    "Es meklēju ceļu ar kuģi, bet spēcīga vētra un lozēšana noveda pie briesmīgas situācijas.",
+    "Mani iemet jūrā, un varens dziļūdens radījums mani veselu aprija.",
+    "Tās vēdera tumsā es piesaucu Allāhu, atzīstot savu pārkāpumu un meklējot Viņa piedošanu.",
+    "Allāhs pavēlēja radībai mani izmest krastā, un zem unikāla auga es atguvu veselību."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Jusufs (Jāzeps)",
+        "Pravietis Nuhs (Noass)",
+        "Pravietis Junuss (Jona)",
+        "Pravietis Sulaimans (Salamans)",
+        "Pravietis Ajūbs (Ījabs)"
+      ],
+      "answer": "Pravietis Junuss (Jona)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Jūras sadalīšana",
+        "Nimroda uguns",
+        "Tikt norītai lielai zivij",
+        "Plūdi",
+        "Pilsētas iznīcināšana ar akmeņiem"
+      ],
+      "answer": "Tikt norītai lielai zivij"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Zivs vēders",
+        "Aka",
+        "Degošais krūms"
+      ],
+      "answer": "Zivs vēders"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva par lielu valdnieku",
+        "Uzcēla Kaabu",
+        "Atgriezās, lai vadītu nožēlojošu tautu",
+        "Tika dota vara pār džiniem",
+        "Veda cilvēkus pāri tuksnesim"
+      ],
+      "answer": "Atgriezās, lai vadītu nožēlojošu tautu"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Zarataren gainetik entzun zen kexa",
+  "intro": "Ahots bat entzuten duzu zapalkuntza errutina bihurtu den gizarte batetik. Botere erakustaldirik ez da kexa erantzuten; horren ordez, dei zuzen bat iristen da Ala-rengana, eta erantzunak gurtzaren muina bera jotzen du. Nork egin zuen kexa hori, zer galdera etorri zen ondoren, eta zer egia baieztatu zen?",
+  "clues": [
+    "Inguruko jendearen zapalkuntzak kezkatu ninduen.",
+    "Kexa hori zuzenean Ala-ri adierazi nion kexa pertsonal batean.",
+    "Ala-k kexa entzun zuen eta nire sinesmenari buruzko erronka batekin erantzun zuen.",
+    "Erantzunak galdetu zuen nola huts egin nezakeen Ala-rengan, Bat eta Gorena denarengan, sinetsi ez ahal izatea.",
+    "Orduan galdetu nuen zergatik Ala-k mesede egin behar zion sinesgaitza zen jende bati.",
+    "Uzair naiz, Az-Zukhruf suran izendatua, Ala-k kexa entzun zion pertsona gisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Uzair",
+        "Uholde handian nabigatu zuen laguna",
+        "Uretan ibili zen morroia",
+        "Loti kobazulo batean babestuta",
+        "Harriak ibaira ekarri zituen morroia"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Herriaren zapalkuntzaz Ala-ri kexatzea",
+        "Ekaitz batean uretan ibiltzea",
+        "Harriak urik gabeko ibaira eramatea",
+        "Uholde handi baten bidez nabigatzen Arkan",
+        "Altxor izugarri baten giltza jasotzea"
+      ],
+      "answer": "Herriaren zapalkuntzaz Ala-ri kexatzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ala-ri zuzendutako kexa zuzena",
+        "Suge bihurtu zen makila",
+        "Labe fresko eta baketsu bat",
+        "Uholde-uren gainean flotatzen ari den arka bat",
+        "Arrain batek morroi bat irensten du"
+      ],
+      "answer": "Ala-ri zuzendutako kexa zuzena"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ala-k kexa entzun eta jainkozko Batasuna eta Jaun Gorena berretsi zituen",
+        "Ekaitz batean uretan segurtasunez ibiltzea",
+        "Uholde handi bat segurtasunez zeharkatzen Arkan",
+        "Harrokeriaren jauregi batean ikusmena berreskuratzen",
+        "Ekialdetik mendebaldera hedatzen den nagusitasuna jasotzea"
+      ],
+      "answer": "Ala-k kexa entzun eta jainkozko Batasuna eta Jaun Gorena berretsi zituen"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

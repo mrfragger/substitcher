@@ -1,0 +1,61 @@
+{
+  "title": "Mposa na kati ya Chambre Sacré",
+  "intro": "Okɔti na esika mosantu ya kimya mpe omoni mosaleli moko ya Nzambe oyo amipesi na Nzambe atɛlɛmi na losambo. Maboko na bango etombolami, miso na bango etombolami, mpe motema na bango ememi mposa oyo eumelaki bomoi mobimba. Nani molimo oyo ya motema molai oyo elikia na ye na Allah etɛngamaki ata moke te?",
+  "clues": [
+    "Nalekisaki bambula mingi na losambo mpe na losambo, nazalaki kotatola makamwisi oyo elendisaki kondima na ngai.",
+    "Napesamaki mokumba ya kobatela molimo ya elenge oyo apambolami na esika mosantu.",
+    "Ntango nakómaki mobange, mawa na ngai ya monene ezalaki ete nazalaki na mwana te, mpamba te mwasi na ngai azalaki kobota mpe biso mibale tokómaki mibange.",
+    "Nabondelaki Nkolo na ngai mpo na mokitani uta na libota na ngai moko, moto oyo akokende liboso na libula ya boprofeta.",
+    "Ntango natelemaki na esika ya losambo, baanzelu babengaki ngai, balobi ete, ‘Allah apesi bino nsango ya esengo’, mpe nabɛtaki na bobangi mpe na bobangi.",
+    "Bayebisaki ngai ete nakobota mwana mobali na nkombo Yahya, nkombo oyo epesamaki naino na moto te, mpe lokola elembo nakoloba na bato te mikolo misato."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Zakariyya",
+        "Mosakoli Yahya",
+        "Mosakoli Yis",
+        "Mosakoli Dawud",
+        "Luqman moto ya mayele"
+      ],
+      "answer": "Mosakoli Zakariyya"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobota mpe bobange ntango ozali na mposa ya mosangoli ya libula ya sembo",
+        "Kobwakama na mɔtɔ oyo ezali kopela",
+        "Komelama na mbisi monene",
+        "Kobungisa bokonzi moko epai ya moto moko ya mobulu",
+        "Kozala na boombo na mboka na ye"
+      ],
+      "answer": "Kobota mpe bobange ntango ozali na mposa ya mosangoli ya libula ya sembo"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Niche ya losambo (mihrab) .",
+        "Masuwa monene (Masuwa) .",
+        "Nzete oyo ezali kozika",
+        "Nzete oyo ebongwanaki nyoka",
+        "Kamela ya mwasi ya Allah"
+      ],
+      "answer": "Niche ya losambo (mihrab) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Apesaki mwana mobali moyengebene mpe alobaki lisusu nsima ya mikolo misato ya kofanda nyɛɛ",
+        "Abebisami na mpela mpo na kozanga kondima",
+        "Bapesaki bokonzi monene mpe bokonzi likoló na mopɛpɛ",
+        "Ebimisamaka na libumu ya mbisi",
+        "Emelami na mabele"
+      ],
+      "answer": "Apesaki mwana mobali moyengebene mpe alobaki lisusu nsima ya mikolo misato ya kofanda nyɛɛ"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

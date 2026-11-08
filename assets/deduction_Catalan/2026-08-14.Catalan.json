@@ -1,0 +1,61 @@
+{
+  "title": "Les mans maleïdes",
+  "intro": "Et trobes als carrerons sinuosos de l'antiga Meca, on una ànima influent i rica va rebutjar la crida de la veritat. La història d'aquesta figura és un clar recordatori que els llaços de sang no poden superar les cadenes de l'orgull. Qui és aquest el nom del qual ressona amb el foc que l'espera?",
+  "clues": [
+    "Vaig caminar pels carrers de la Meca amb un orgull que em cegava a la veritat, tot i que el missatger era de la meva pròpia sang.",
+    "Les meves possessions eren vastes, però es van convertir en una maledicció en lloc d'un escut.",
+    "El llibre de guia parla de la meva ruïna, declarant que les meves mans i la meva persona periran.",
+    "El meu cònjuge es va unir a la meva campanya d'enemistat, recollint espines per escampar-les al camí d'aquell que va invocar Al·là.",
+    "El dia del judici, seré submergit en un foc de flames ardents, i la meva esposa tindrà una corda de fibra de palma al voltant del coll.",
+    "Sóc conegut amb un nom que significa \"pare de la flama\", un nom que prediu la meva morada eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova o esdeveniment clau",
+      "options": [
+        "Es va oposar al Profeta i va ser maleït a l'Alcorà",
+        "Va dirigir un exèrcit per destruir la Kaaba",
+        "Va intentar matar el profeta llançant pedres",
+        "Es va negar a creure en la divisió de la lluna",
+        "Va construir una torre per arribar al cel"
+      ],
+      "answer": "Es va oposar al Profeta i va ser maleït a l'Alcorà"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El foc ardent de l'infern",
+        "El bastó de Musa",
+        "L'Arca de Nuh",
+        "El Pou de Zamzam",
+        "El vedell d'or"
+      ],
+      "answer": "El foc ardent de l'infern"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Entrarà al Foc ardent, i les seves riqueses no li serviran de res",
+        "Es va penedir i es va fer creient",
+        "Va ser perdonat després de retractar-se",
+        "Va morir com a màrtir",
+        "Va ser endut als cels"
+      ],
+      "answer": "Entrarà al Foc ardent, i les seves riqueses no li serviran de res"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

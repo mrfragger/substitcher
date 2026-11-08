@@ -1,0 +1,61 @@
+{
+  "title": "L'Appel des Profondeurs",
+  "intro": "Imaginez une âme investie d'un message divin, qui, dans un moment de précipitation, quitte les siens sans autorisation explicite. Ce voyage la conduit à une épreuve extraordinaire, une profonde mise à l'épreuve de sa patience et de sa confiance en Dieu. Qui est cette personne dont l'histoire nous enseigne le repentir et l'immensité de la miséricorde d'Allah ?",
+  "clues": [
+    "J'ai été envoyé dans une grande nation, mais leur rejet initial m'a causé beaucoup de chagrin.",
+    "J'ai quitté les miens, croyant ma mission accomplie, avant de recevoir l'ordre clair de partir.",
+    "J'ai cherché à embarquer sur un navire, mais une violente tempête et un tirage au sort ont engendré une situation désespérée.",
+    "J'ai été jeté à la mer, et une créature puissante des profondeurs m'a avalé tout entier.",
+    "Au plus profond de son ventre obscur, j'ai imploré Allah, reconnaissant ma faute et implorant Son pardon.",
+    "Allah ordonna à la créature de me déposer sur le rivage, et je recouvrai la santé grâce à une plante unique."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Yusuf (Joseph)",
+        "Prophète Nuh (Noé)",
+        "Prophète Yunus (Jonas)",
+        "Prophète Sulaiman (Salomon)",
+        "Prophète Ayyub (Job)"
+      ],
+      "answer": "Prophète Yunus (Jonas)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La séparation de la mer",
+        "Le feu de Nimrod",
+        "Être avalé par un grand poisson",
+        "L'inondation",
+        "La destruction d'une ville par des pierres"
+      ],
+      "answer": "Être avalé par un grand poisson"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "Le ventre du poisson",
+        "Le puits",
+        "Le buisson ardent"
+      ],
+      "answer": "Le ventre du poisson"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il devint un grand souverain",
+        "Construction de la Kaaba",
+        "Revenu pour guider une nation repentante",
+        "On lui donna la domination sur les djinns",
+        "Il a conduit des gens à travers le désert"
+      ],
+      "answer": "Revenu pour guider une nation repentante"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

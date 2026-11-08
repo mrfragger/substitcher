@@ -1,0 +1,61 @@
+{
+  "title": "Thirrja nga Lugina e Shenjtë",
+  "intro": "Përtej faqeve të historisë shtrihet historia e një shpirti që qëndroi midis një sundimtari të fuqishëm dhe një populli të tërë të skllavëruar. Ky individ u thirr për të çliruar një komb nga tirania, duke kryer mrekulli që sfiduan çdo ligj natyror. Nga një mal i shenjtë te një mrekulli mbi ujëra, ky shërbëtor i Allahut dëshmoi shenja që do të jehonin nëpër shekuj. Detyra juaj sot është të identifikoni këtë figurë të shquar, trashëgimia e të cilit formësoi rrjedhën e historisë njerëzore.",
+  "clues": [
+    "Unë linda në një kohë kur populli im përballej me një dekret vdekjeprurës dhe familja ime më vendosi në ujëra për të më shpëtuar jetën.",
+    "U gjeta dhe u rrita në shtëpinë e sundimtarit që kishte urdhëruar vdekjen e njerëzve të llojit tim.",
+    "Unë ika në një mal të shenjtë ku pashë zjarr mbi një pemë që nuk ishte djegur dhe një zë më foli prej tij.",
+    "U dërgova përsëri te ai sundimtar me mrekulli, duke kërkuar lirinë e popullit tim të skllavëruar.",
+    "E godita detin me shkopin tim dhe ai e ndau në shtigje të thata, duke gëlltitur ndjekësit që ndiqnin popullin tim.",
+    "Unë bisedova me Zotin tim në një mal për dyzet netë dhe më dhanë pllaka udhëzimi hyjnor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Musa",
+        "Profeti Harun",
+        "Profeti Ibrahim",
+        "Profeti Jusuf",
+        "Profeti Davud"
+      ],
+      "answer": "Profeti Musa"
+    },
+    "trial": {
+      "label": "Prova ime përcaktuese",
+      "options": [
+        "Ndarja e Detit",
+        "Ndërtimi i Arkës së Madhe",
+        "Sprovë nga një zjarr flakërues",
+        "Mbyllja në barkun e një balene",
+        "Burgosje nga një zyrtar egjiptian"
+      ],
+      "answer": "Ndarja e Detit"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Shkopi i një bariu",
+        "Një Arkë e Madhe prej Druri",
+        "Një Shpellë Ku Koha Flinte",
+        "Një Kopsht me Dy Burime",
+        "Një Fron i Zbukuruar me Ar"
+      ],
+      "answer": "Shkopi i një bariu"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Populli im kaloi detin për në siguri",
+        "Një përmbytje e madhe i shkatërroi jobesimtarët",
+        "Zjarri i një tirani u bë i ftohtë dhe paqësor",
+        "Deti e hodhi robin e vet në breg",
+        "I robri u bë Thesari i Egjiptit"
+      ],
+      "answer": "Populli im kaloi detin për në siguri"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

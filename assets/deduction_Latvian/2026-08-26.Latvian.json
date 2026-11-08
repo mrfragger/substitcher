@@ -1,0 +1,61 @@
+{
+  "title": "Skaudība, kas pārņēma",
+  "intro": "Stāsts, kas ir vecāks par jebkuru valstību vai svētajiem rakstiem — pirmā cilvēces traģēdija, kas dzimusi greizsirdības dēļ. Viena dvēsele, vecākā no diviem bērniem, kas dzimuši pirmajiem vecākiem, dusmās vēroja, kā jaunākais brālis saņem labvēlību, kas tiek liegta. Sekoja visdrūmākā izvēle, atstājot aiz sevis pirmās asinis, kas jebkad izlietas uz zemes. Vai vari atklāt identitāti, pārbaudījumu un rūgto nožēlu?",
+  "clues": [
+    "Es piedzimu no paša pirmā cilvēku pāra, kas staigāja pa zemi.",
+    "Reiz es veicu upuri Allāham, bet tas no manis netika pieņemts.",
+    "Mana brāļa vai māsas piedāvājums tika pieņemts, savukārt manējais tika noraidīts — ko es nespēju izturēt.",
+    "Es piedraudēju savam brālim ar iznīcināšanu.",
+    "Es kļuvu par pirmo, kas izdarīja slepkavību uz šīs zemes, atņemot dzīvību savam brālim vai māsai.",
+    "Allāhs sūtīja zemes radību — melnu putnu, kas rakņājās zemē —, lai iemācītu man noslēpt izdarīto, un man palika tikai nožēla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Kabils (Kains)",
+        "Habils (Ābels)",
+        "Pravietis Jakubs",
+        "Pravietis Musa",
+        "Pravietis Ādams"
+      ],
+      "answer": "Kabils (Kains)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Allahs noraidīja upuri",
+        "Iemests lielā ugunī",
+        "Pamests kā zīdainis upē",
+        "Pārbaudīts ar milzīgu valstību",
+        "Pavēlēts upurēt savu dēlu"
+      ],
+      "answer": "Allahs noraidīja upuri"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Allāha sūtītā vārna",
+        "Zelta teļš",
+        "Šķirsts kalnā",
+        "Degošais krūms",
+        "No klints izgrebta kamieļu mātīte"
+      ],
+      "answer": "Allāha sūtītā vārna"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva pilns nožēlas un starp zaudētājiem",
+        "Zeme norīja kopā ar dārgumiem",
+        "Kļuva par cēlu Allāha vēstnesi",
+        "Iegāja Paradīzē, pateicoties dievišķajai žēlastībai",
+        "Valdīja pār nepārspējamu valstību"
+      ],
+      "answer": "Kļuva pilns nožēlas un starp zaudētājiem"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

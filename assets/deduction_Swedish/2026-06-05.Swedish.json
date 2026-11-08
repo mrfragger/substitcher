@@ -1,0 +1,61 @@
+{
+  "title": "De ödmjuka sanningssökarna",
+  "intro": "I ett land av uråldrig makt och trolldom utspelar sig en stor konfrontation. Ena sidan utövar gudomliga teckens auktoritet, medan den andra försöker matcha det omöjliga. Resultatet kommer för alltid att förändra historiens gång. Kan du avslöja identiteten på dem som bevittnade den ultimata sanningen och ödmjukade sig inför den?",
+  "clues": [
+    "Vi bevittnade tecken som gick utöver trolldomens knep",
+    "Vi föll alla i utmattning, oförmögna att förneka sanningen",
+    "Vi insåg att dessa tecken kom från den ende sanne Guden",
+    "Vi var det första samhället som omfamnade tron ​​på ett sådant dramatiskt sätt",
+    "Vi blev lovade paradiset som belöning för vår tro",
+    "Våra rep och stavar blev till ormar inför våra ögon, men vi valde underkastelse"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Faraos magiker",
+        "Profeten Ibrahims folk",
+        "De ödmjuka sanningssökarna",
+        "Grottans folk",
+        "Drottning Bilqis nation"
+      ],
+      "answer": "Faraos magiker"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Mötet med profeten Musas stab",
+        "Rättegången mot profeten Huds vind",
+        "Utmaningen från profeten Salihs kamelhona",
+        "Den stora översvämningen sändes över en profet",
+        "En profets resa inuti en val"
+      ],
+      "answer": "Mötet med profeten Musas stab"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Forntida Egypten",
+        "Det heliga huset i Mecka",
+        "Staden Midjan",
+        "Thamudöknen",
+        "Grottan med forntida sliprar"
+      ],
+      "answer": "Forntida Egypten"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Paradiset som deras belöning",
+        "Straff i graven",
+        "Förlusten av deras rikliga trädgårdar",
+        "Förstörelse av en plötslig jordbävning",
+        "Räddning från en stor val"
+      ],
+      "answer": "Paradiset som deras belöning"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

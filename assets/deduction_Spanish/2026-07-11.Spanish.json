@@ -1,0 +1,61 @@
+{
+  "title": "Los viajeros del campo verde",
+  "intro": "En tiempos remotos, dos personas cultivaban tierras vecinas. Sus caminos se entrelazaban, pero sus corazones los conducían a destinos muy diferentes. Uno siguió el camino recto, mientras que el otro se adentró en la oscuridad de la negación. ¿Podrás desentrañar el misterio de estos dos guardianes de la cosecha?",
+  "clues": [
+    "Poseía cosechas abundantes, cultivos exuberantes que deslumbraban a los ojos de los espectadores.",
+    "Mi vecino poseía aún más riqueza que yo, pero yo codiciaba su porción más que la mía.",
+    "Sugerí que destruyéramos sus cosechas por completo, para así consolidar todo bajo mi control.",
+    "También arruiné mi propia cosecha, destruyéndolo todo con mis necios planes.",
+    "Me quedé impotente mientras mis cosechas se marchitaban y mi riqueza se convertía en polvo en una sola noche.",
+    "No tuve parte en el Más Allá, y mi morada final se convirtió en un pozo de fuego abrasador."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El hombre que negó la resurrección y el juicio.",
+        "El gobernante que oprimía al campesino justo",
+        "El terrateniente adinerado que carecía de gratitud",
+        "El granjero que codiciaba la tierra de su vecino",
+        "El socio traicionero que planeó la destrucción"
+      ],
+      "answer": "El granjero que codiciaba la tierra de su vecino"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La prueba de recibir la revelación divina",
+        "El desafío de la riqueza y la paciencia",
+        "La tentación de destruir el sustento de una persona justa",
+        "La orden de dividir la herencia de manera justa",
+        "La lucha contra la opresión de un tirano"
+      ],
+      "answer": "La tentación de destruir el sustento de una persona justa"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Los verdes jardines del paraíso",
+        "Dos campos de cultivo vecinos",
+        "Las montañas que presenciaron la destrucción",
+        "El santuario sagrado de La Meca",
+        "Las riberas de una tierra bendita"
+      ],
+      "answer": "Dos campos de cultivo vecinos"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "El paraíso eterno como recompensa por la rectitud.",
+        "Destrucción total de ambas cosechas en esta vida.",
+        "Exilio y vagar hasta la muerte",
+        "Prosperidad temporal seguida de fuego eterno",
+        "Una restauración milagrosa y una recompensa duplicada."
+      ],
+      "answer": "Destrucción total de ambas cosechas en esta vida."
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

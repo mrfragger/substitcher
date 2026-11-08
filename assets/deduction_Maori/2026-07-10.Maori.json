@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaimau o ngā Tohu e Iwa",
+  "intro": "I ara ake tētahi tangata i te tīmatanga tino iti, me te mutunga kua tuhia ki roto i te hiahia o te Atua. I huna i te tamarikitanga, ā, i whakatipuria i roto i ngā pakitara o te rangatira tonu i whai ki te whakangaro i ō rātou iwi, i karangatia tēnei wairua ki tētahi misioni nui. Ko te whakapono me te tokotoko hepara iti anake te mea i mau i a rātou, i tū rātou i mua i te rangatira tino kaha o te ao, ā, i tono kia herea te hunga i hereherea. Ko te ao tonu i te āhua nei i neke i raro i tā rātou whakahau - i wehea ngā wai, i kōrero ngā rangi, ā, i hinga te rangatiratanga.",
+  "clues": [
+    "I kitea ōku rā tuatahi i te wehi — i whaia ngā pēpi pēnei i ahau i te whānautanga e tētahi rangatira nanakia i wehi i te heke mai.",
+    "I whakaorangia ahau e te wai, i whakatupuria hoki i roto i te whare kingi o te rangatira tonu i whai kia whakangaromia ahau.",
+    "I rere atu ahau i tōku whenua tupu i muri i tētahi aituā ohorere, ā, ka riro hei hepara iti i tētahi whenua tawhiti.",
+    "I hoki atu ahau ki te tū atu ki taua rangatira mana nui me te tokotoko māmā me te karere mārama, e tono ana kia herekoretia tōku iwi.",
+    "I wehea e ahau tētahi wai nui mō te hunga i aru mai i ahau, ā, i mātakitaki ahau i aua wai e horomia katoatia ana tōku hoariri.",
+    "I piki ahau i tētahi maunga tapu kia whiwhi ai ahau i ngā aratohu atua mai i a Allah, ā, i homai ki ahau ngā tohu mārama e iwa hei tohu mō te pono."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Mohi",
+        "Poropiti a Noa",
+        "Poropiti Ihāperama",
+        "Poropiti a Yusuf",
+        "Poropiti Ruta"
+      ],
+      "answer": "Poropiti a Mohi"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tū atu ki a Parao i tōna marae",
+        "Te hanga i te Āraka hei oranga mō te waipuke nui",
+        "Te maka ki roto i te ahi mura e ngā kaihanga whakapakoko",
+        "Te tukunga iho ki roto i te poka hohonu e ōku tuakana",
+        "E ngana ana ki te aukati i taku iwi i ngā whanonga hē"
+      ],
+      "answer": "Te tū atu ki a Parao i tōna marae"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te tokotoko i huri hei nakahi",
+        "Te Āka o Noa",
+        "Te Torona o Bilqis",
+        "Te Mowhiti i whakahaere i te hau me te jinn",
+        "He taumaha rawa ngā kī ki ngā taonga kua kohia"
+      ],
+      "answer": "Te tokotoko i huri hei nakahi"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I ārahi i taku iwi i ngā wai wehe ki te herekoretanga",
+        "I whakaorangia i te waipuke nui i roto i te Āraka",
+        "I ora anō ia, ā, i ora anō hoki tōna whānau i muri i te mamae nui",
+        "I maka ora mai i roto i te ika nui",
+        "I hanga ngā turanga o te Whare Tapu"
+      ],
+      "answer": "I ārahi i taku iwi i ngā wai wehe ki te herekoretanga"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

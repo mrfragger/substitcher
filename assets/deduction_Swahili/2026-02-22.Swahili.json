@@ -1,0 +1,61 @@
+{
+  "title": "Uvumilivu wa Nafsi Iliyoteseka",
+  "intro": "Katika kumbukumbu za historia, kuna mtu ambaye jina lake lina maana sawa na uvumilivu. Mtu huyu alijaribiwa kwa kupoteza kila faraja ya kidunia, lakini alibaki mtumishi mwaminifu wa Muumba. Kupitia miaka mingi ya shida na maradhi ya kimwili, moyo wa roho hii ulibaki umejikita katika imani, ukitoa mwanga wa matumaini kwa wote wanaokabiliwa na shida.",
+  "clues": [
+    "Nilikuwa mtumishi mwaminifu wa Mwenyezi Mungu, niliyebarikiwa utajiri mwingi, watoto wengi, na afya njema.",
+    "Maisha yangu yalibadilika niliponyang'anywa utajiri wangu na familia yangu, na kuniacha na imani yangu tu.",
+    "Nilisumbuliwa na ugonjwa wa muda mrefu na wenye uchungu ambao ulijaribu mipaka ya uvumilivu wa mwanadamu.",
+    "Katika mateso yangu yote, nilikataa kulalamika dhidi ya Bwana wangu, hata wakati adui alipojaribu kunifanya nikate tamaa.",
+    "Hatimaye nilipomwita Bwana wangu, sikuomba utajiri, bali nilikiri tu kwamba dhiki ilikuwa imenigusa.",
+    "Niliambiwa nipige ardhi kwa mguu wangu, na kutoka humo chemchemi ya maji baridi ili kuponya mwili wangu na kuzima kiu yangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Yaqub",
+        "Nabii Ayyub",
+        "Nabii Zakaria",
+        "Nabii Yahya",
+        "Nabii Shu'ayb"
+      ],
+      "answer": "Nabii Ayyub"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Miaka mingi ya ugonjwa mbaya na hasara",
+        "Kutupwa kwenye kisima kirefu",
+        "Kumezwa na samaki mkubwa",
+        "Kukabiliana na mtawala wa kiimla katika moto",
+        "Safari ndefu ya kutafuta mwalimu"
+      ],
+      "answer": "Miaka mingi ya ugonjwa mbaya na hasara"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Fimbo iliyogawanya bahari",
+        "Shati lililokuwa na harufu ya nyumbani",
+        "Chemchemi ya maji ya uponyaji",
+        "Mlima uliovunjika na kuwa vumbi",
+        "Pango la usingizi mzito"
+      ],
+      "answer": "Chemchemi ya maji ya uponyaji"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuwa gavana wa nchi kubwa",
+        "Kuongoza jeshi hadi ushindi",
+        "Urejesho wa afya na familia",
+        "Kujenga nyumba takatifu ya ibada",
+        "Kupokea meza iliyopangwa kutoka mbinguni"
+      ],
+      "answer": "Urejesho wa afya na familia"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

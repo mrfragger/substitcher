@@ -1,0 +1,61 @@
+{
+  "title": "Una promessa pronunciata tra le braci",
+  "intro": "Ti trovi accanto a un fuoco nel deserto, mentre le braci vengono accuratamente ravvivate. I visitatori arrivano per un incontro nel silenzio, e un singolo messaggio dà inizio a una storia di promesse, sorprese e un futuro ancora da realizzare.",
+  "clues": [
+    "Abbiamo percorso la distanza per raggiungere un fedele servitore nel deserto.",
+    "Abbiamo chiesto che venissero sparse delle braci per preparare un fuoco.",
+    "Abbiamo parlato con una persona che aveva invocato una fiamma chiedendo frescura e sicurezza.",
+    "Abbiamo portato la notizia di un neonato a una persona che aveva superato l'età in cui si possono avere figli.",
+    "Abbiamo chiamato il bambino promesso Isacco.",
+    "Portammo a Ibrahim la lieta notizia della nascita di un figlio, e la notizia sorprendente fece ridere Ibrahim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Gli angeli che portarono la lieta novella di Isacco a Ibrahim",
+        "Gli angeli che avvertirono Lutero",
+        "Gli angeli portatori del trono",
+        "Gli angeli dell'inferno",
+        "Gli angeli inviati a Noè"
+      ],
+      "answer": "Gli angeli che portarono la lieta novella di Isacco a Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Portare la lieta notizia della nascita di Isacco a Ibrahim",
+        "Avvertire Lutero prima della punizione del suo popolo",
+        "Annuncio della nascita di Yahya a Zakariyya",
+        "Portare il trono nel giorno del giudizio",
+        "Annuncio della nascita di Isa a Maryam"
+      ],
+      "answer": "Portare la lieta notizia della nascita di Isacco a Ibrahim"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un fuoco preparato con braci sparse",
+        "Un'arca che galleggia sulle acque del diluvio",
+        "Una grotta sigillata da una pietra rotolante",
+        "Una montagna di argilla indurita dalla salamoia",
+        "Una scala che si protende verso il cielo"
+      ],
+      "answer": "Un fuoco preparato con braci sparse"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Lieti auguri per la nascita di un figlio di nome Isacco",
+        "Lieti annunci: è nato un figlio di nome Yahya.",
+        "La scelta di Talut come sovrano dei Figli d'Israele",
+        "Un avvertimento prima della punizione del popolo di Lut.",
+        "Un comando per costruire un'arca prima del Diluvio"
+      ],
+      "answer": "Lieti auguri per la nascita di un figlio di nome Isacco"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

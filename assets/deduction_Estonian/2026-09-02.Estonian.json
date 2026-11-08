@@ -1,0 +1,61 @@
+{
+  "title": "Uni pärast aega",
+  "intro": "Kujutage ette aega, mil tõde vaigistati ja usklikke taga aeti. Väike grupp valis alistumise asemel taganemise, leides varjupaika kõige ebatõenäolisemast kohast – kohast, mis sai nende puhkepaigaks lugematuteks sajanditeks. Kui nad lõpuks ärkasid, oli maailm nende ümber muutunud. Kes on need uinunud hinged?",
+  "clues": [
+    "Me olime noored inimesed, kes elasid iidses linnas.",
+    "Meie kogukond nõudis, et me koos nendega jumalateenistusel osaleksime, aga me keeldusime.",
+    "Me põgenesime linnast, otsides varjupaika nende eest, kes meie uskumustele vastu seisid.",
+    "Meie peidupaiga sissepääsu juures peatus ustav neljajalgne kaaslane.",
+    "Allah pani meid kolmsada üheksa aastat magama.",
+    "Kui me lõpuks ärkasime, oli meie kunagi tagakiusav linn usu omaks võtnud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Ashab al-Kahf (Kooparahvas)",
+        "Ashab al-Fil (Elevandi armee)",
+        "Ashab al-Ukhdud (Kaeviku kaaslased)",
+        "Hawariyyun (Isa jüngrid)",
+        "Yajuj wa Majuj (Gog ja Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Kooparahvas)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Me taandusime koopasse ja magasime sajandeid",
+        "Meid päästeti lõõmavast tulekahjust",
+        "Meid neelas alla suur kala",
+        "Meid proovile pandi imelise emase kaameli abil",
+        "Meile anti üheksa selget märki"
+      ],
+      "answer": "Me taandusime koopasse ja magasime sajandeid"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Sügav koobas mägedes",
+        "Paat avamerel",
+        "Taevani ulatuv kõrguv ehitis",
+        "Aed, mis on jagatud kahe rivaali vahel",
+        "Rauast ja vasest barjäär"
+      ],
+      "answer": "Sügav koobas mägedes"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Ärkasime ja avastasime, et meie linn oli pöördunud usu poole",
+        "Lõõmav tuli muutus jahedaks ja rahulikuks",
+        "Vaenlase armee uppus merre",
+        "Kive kandvad linnud hävitasid vaenlase",
+        "Suur kala lasi meid kaldale"
+      ],
+      "answer": "Ärkasime ja avastasime, et meie linn oli pöördunud usu poole"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

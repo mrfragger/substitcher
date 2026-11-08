@@ -1,0 +1,61 @@
+{
+  "title": "Eine kleine Warnung vor dem Marschieren",
+  "intro": "Betrete ein Tal, in dem ein mächtiger Herrscher und ein gewaltiges Heer herannahen, und stell dir einen kleinen Reisenden vor, der eine Warnung ausspricht und damit eine ganze Gemeinschaft rettet. Als die bedrohte Gemeinschaft Schutz findet, ist die Gefahr vorüber. Folge den Hinweisen, um die übersehene Gestalt hinter dieser Warnung zu entlarven.",
+  "clues": [
+    "Ich gehöre zu den kleinen Geschöpfen, die mit dem Reich eines Herrschers verbunden sind.",
+    "Meine Gemeinschaft lebt in Behausungen in einem Tal, wo einer von uns den anderen rufen kann.",
+    "Wir sehen uns einer Bedrohung durch diesen Herrscher und die mit ihm reisenden Armeen gegenüber.",
+    "Ich bin es, der meine Gemeinschaft dazu aufruft, in ihre Behausungen zurückzukehren und uns davor warnt, unversehens zermalmt zu werden.",
+    "Der Herrscher ist Sulayman, und meine Spezies gehört zu den Geschöpfen, die seinem Befehl unterstehen.",
+    "Ich bin die Ameise jenes Tales; nach meiner Warnung zogen wir uns in unsere Behausungen zurück und entkamen dem Zermalmen, das uns sonst unvorbereitet getroffen hätte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Ameise des Tals",
+        "Der Wiedehopf",
+        "Die Krähe",
+        "Die Schlange",
+        "Das Maultier"
+      ],
+      "answer": "Die Ameise des Tals"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Eine Warnung, die eine Ameisengemeinschaft verschonte",
+        "Die Bitte eines Fisches um einen Ring",
+        "Die Suche nach einem verschollenen Thron",
+        "Die Rettung gestohlener Augen",
+        "Die Weigerung, das Essen eines Herrschers zu essen"
+      ],
+      "answer": "Eine Warnung, die eine Ameisengemeinschaft verschonte"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Tal der Ameisen",
+        "Der Siegelring von Sulayman",
+        "Das blutbefleckte Hemd von Yusuf",
+        "Das goldene Kalb des Exodus",
+        "Das Personal von Musa"
+      ],
+      "answer": "Das Tal der Ameisen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Die Gemeinde blieb verschont, nachdem sie Schutz gesucht hatte.",
+        "Die Gemeinde wurde zerstört, ohne Schutz gesucht zu haben.",
+        "Die Gemeinde wurde verschont, weil sich die Armee zurückzog.",
+        "Die Gemeinschaft wurde mit der Kontrolle über die Vögel belohnt.",
+        "Die Gemeinde wurde als Gefangene an den Königshof verschleppt."
+      ],
+      "answer": "Die Gemeinde blieb verschont, nachdem sie Schutz gesucht hatte."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

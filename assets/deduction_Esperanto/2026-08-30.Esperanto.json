@@ -1,0 +1,61 @@
+{
+  "title": "La Fidinda Spirito de Revelacio",
+  "intro": "En la nevideblaj sferoj, estaĵo de pura lumo moviĝas precize, plenumante ĉiun ordonon sen hezito. Ĉi tiu figuro parolis al elektitaj servistoj, alportis gvidvortojn, kaj atestis la disvolviĝon de diaj dekretoj tra la epokoj. Kiu estas ĉi tiu honorita animo?",
+  "clues": [
+    "Mi estas estaĵo de pura lumo, kreita el lumo, kaj mi neniam malobeis eĉ unu ordonon de mia Sinjoro.",
+    "Mi moviĝas inter la ĉielo kaj la tero, malsuprenirante kun la dekretoj de la Plej Kompatema.",
+    "Mi estis sendita al nobla virgulino en la sanktejo, anoncante al ŝi puran filon.",
+    "Mi estas la spirito de sankteco, kaj mi subtenis profeton, al kiu oni donis klarajn signojn kaj la Evangelion.",
+    "Mi venis al kaverno sur monto por diri la unuajn vortojn de deklamado, kiu estos konservita por ĉiam.",
+    "Mi estas la fidinda spirito, kaj Mi estis tiu, kiu alportis la Koranon sur la koron de la fina mesaĝisto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Jibril (Gabrielo)",
+        "Mikail (Mikaelo)",
+        "La Anĝelo de Morto",
+        "Malik (Gardanto de Infero)",
+        "Harut (unu el la du anĝeloj en Babilono)"
+      ],
+      "answer": "Jibril (Gabrielo)"
+    },
+    "trial": {
+      "label": "Ŝlosila Misio/Rolo",
+      "options": [
+        "Transdonante revelacion al la profetoj",
+        "Blovante la trumpeton en la Tago de Juĝo",
+        "Gardante la pordegojn de Infero",
+        "Registrado de la agoj de homoj",
+        "Kaŭzante la pluvon fali"
+      ],
+      "answer": "Transdonante revelacion al la profetoj"
+    },
+    "location": {
+      "label": "Ŝlosila Atributo aŭ Titolo",
+      "options": [
+        "La Sankta Spirito (Ruh al-Qudus)",
+        "La Spirito de Potenco",
+        "La Spirito de Kompato",
+        "La Spirito de Gvidado",
+        "La Spirito de Vero"
+      ],
+      "answer": "La Sankta Spirito (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Rezulto de la Misio",
+      "options": [
+        "La Korano estis revelaciita al la profeto Mohamedo",
+        "La trumpeto estis blovigita en la Tago de Juĝo",
+        "Infero estis gardata kaj ĝiaj pordegoj estis fermitaj",
+        "La Libro de Agoj estis prezentita al Alaho",
+        "La pluvo estis sendita al la tero"
+      ],
+      "answer": "La Korano estis revelaciita al la profeto Mohamedo"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

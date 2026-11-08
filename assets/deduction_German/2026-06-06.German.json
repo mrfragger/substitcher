@@ -1,0 +1,61 @@
+{
+  "title": "Der erhabene Diener Allahs",
+  "intro": "Man hört Gerüchte über eine Gestalt aus uralten Zeiten, einen Diener Allahs, der über alle anderen erhaben war. Dieser Mann war bekannt für seine unerschütterliche Geduld und absolute Wahrhaftigkeit und wurde zu einem Volk gesandt, das sich von der Botschaft abwandte. Wer ist diese erhabene Seele?",
+  "clues": [
+    "Ich wurde von Allah zum Propheten auserwählt und werde im Heiligen Koran erwähnt.",
+    "Ich war bekannt für meine Geduld und Wahrhaftigkeit, Eigenschaften, die Allah lobt.",
+    "Ich rief mein Volk zur Anbetung des einen Gottes auf, aber viele lehnten mich ab.",
+    "Mein Status wurde von Allah erhöht, und mir wurde ein hoher Rang verliehen.",
+    "Ich werde oft zusammen mit anderen Propheten wie Ismail und Dhul-Kifl erwähnt.",
+    "Allah sagt über mich: „Und Wir erhoben ihn zu einem hohen Rang.“ (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Idris",
+        "Prophet Elias",
+        "Prophet Dhu al-Kifl",
+        "Prophet Al-Yasa",
+        "Prophet Hud"
+      ],
+      "answer": "Prophet Idris"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er rief die Menschen zur Anbetung Allahs auf",
+        "Die Arche gebaut",
+        "Kämpfte gegen den Pharao",
+        "Wurde bei schwerer Krankheit getestet",
+        "Wurde ins Feuer geworfen"
+      ],
+      "answer": "Er rief die Menschen zur Anbetung Allahs auf"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Hoher Rang/hohe Stellung",
+        "Die Arche",
+        "Das Personal",
+        "Das Feuer",
+        "Der Brunnen"
+      ],
+      "answer": "Hoher Rang/hohe Stellung"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "In einen hohen Status befördert",
+        "Im Hochwasser ertrunken",
+        "Von einem Wal verschluckt",
+        "Aus dem Feuer gerettet",
+        "Wurde König"
+      ],
+      "answer": "In einen hohen Status befördert"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

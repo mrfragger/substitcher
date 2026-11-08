@@ -1,0 +1,61 @@
+{
+  "title": "Người bảo vệ bên bờ sông",
+  "intro": "Tại một vùng đất nơi sắc lệnh của bạo chúa mang đến nỗi đau buồn cho nhiều gia đình, một tâm hồn đã nhận được một thông điệp vượt qua mọi nỗi sợ hãi. Với trái tim tràn đầy niềm tin, họ dấn thân vào một hành động đức tin sẽ thay đổi vận mệnh của cả một quốc gia. Khi dòng nước mang theo một món hàng quý giá, niềm hy vọng hòa quyện với dòng chảy.",
+  "clues": [
+    "Tôi đã sống trong thời kỳ áp bức và sợ hãi.",
+    "Tôi đã nhận được nguồn cảm hứng thiêng liêng, ban cho tôi lòng can đảm.",
+    "Tôi được lệnh không được sợ hãi hay đau buồn.",
+    "Tôi đặt con tôi vào một chiếc rương và đặt nó xuống nước.",
+    "Con tôi được gia đình của nhà vua tìm thấy, nhưng đứa con khác của tôi thì đi theo.",
+    "Tôi đã được đoàn tụ với con trai mình để chăm sóc con, đúng như lời hứa của Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Mẹ của Moses",
+        "Vợ của Pharaoh",
+        "Chị gái của Moses",
+        "Mẹ của Chúa Giêsu",
+        "Nữ hoàng Sheba"
+      ],
+      "answer": "Mẹ của Moses"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Lấy cảm hứng từ việc ném một đứa trẻ xuống sông.",
+        "Bị thách đấu phép thuật.",
+        "Bị quân đội truy đuổi",
+        "Vượt qua biển cả chia đôi",
+        "Xây dựng một ngôi nhà linh thiêng"
+      ],
+      "answer": "Lấy cảm hứng từ việc ném một đứa trẻ xuống sông."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một chiếc rương được đặt trong dòng sông.",
+        "Một bụi cây bốc cháy",
+        "Một cây gậy biến thành rắn",
+        "Con bê vàng",
+        "Một ngai vàng"
+      ],
+      "answer": "Một chiếc rương được đặt trong dòng sông."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Đứa trẻ đã được trả lại cho y tá một cách an toàn.",
+        "Đứa trẻ đã mất tích mãi mãi",
+        "Đứa trẻ bị đưa đến một vùng đất xa xôi.",
+        "Đứa trẻ lập tức trở thành người cai trị.",
+        "Đứa trẻ được một thương gia giàu có nhận nuôi."
+      ],
+      "answer": "Đứa trẻ đã được trả lại cho y tá một cách an toàn."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

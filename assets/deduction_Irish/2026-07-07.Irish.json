@@ -1,0 +1,61 @@
+{
+  "title": "An Guth ón Abyss",
+  "intro": "Scéal faoi fhoighne agus faoi thrócaire gan teorainn an Diaga a nochtar sa Chorán. Cuireadh teachtaire chuig cathair mhór, ach dhiúltaigh a muintir don rabhadh agus don fhírinne. I frustrachas, d’imigh an t-anam seo - ach le go ndéanfaí tástáil air ag an bhfarraige fhoréigneach agus go slogfaí isteach i ndoimhneacht is dorcha é. As bolg an dorchadais, d’éirigh achainí umhal, agus d’fhreagair an Trócaire is Mó. Cé hé an t-anam seo a tháinig chun cinn athraithe, a mbeadh a mhuintir ina gcreidmhigh ag breis agus céad míle?",
+  "clues": [
+    "Cuireadh mé mar rabhaidh chuig cathair mhór a raibh a háitritheoirí imithe ar strae ó chonair an chreidimh.",
+    "Ghlaoigh mé ar mo mhuintir chun na fírinne arís agus arís eile, ach rinne siad ceap magaidh de mo theachtaireacht agus dhiúltaigh siad di.",
+    "D’imigh mé uathu i frustrachas sular tugadh cead dom, agus chuaigh mé i dtreo na farraige oscailte.",
+    "D’éirigh stoirm mhór, agus caitheadh ​​thar bord mé — ansin shlog créatúr mara ollmhór mé.",
+    "I sraitheanna dorchadais — doimhneacht na farraige, bolg an chréatúir, agus urlár domhain na farraige — d’éigh mé amach: ‘Níl aon dia ann ach Tusa; glóir duit; bhí mé i measc na ndrochdhaoine.’",
+    "Shaor Allah mé ó dhoimhneacht na ndoimhneachtaí, agus nuair a d’fhill mé, bhí breis is céad míle de mo mhuintir tar éis glacadh leis an bhfírinne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Yunus (Ióna)",
+        "An Fáidh Músa (Maois)",
+        "An Fáidh Ibrahim (Abraham)",
+        "An Fáidh Zakariyya (Zachariah)",
+        "An Fáidh Idris (Enoch)"
+      ],
+      "answer": "An Fáidh Yunus (Ióna)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á shlogadh ag créatúr ollmhór mara",
+        "Ag tabhairt aghaidh ar tíoránach agus a dhraoithe",
+        "Á chaitheamh i dtine lasrach ag rí feargach",
+        "Ag cloisteáil dea-scéala faoi mhac agus é sean agus gan chumas aige",
+        "Ag féachaint ar náisiún a scriosadh ag tuile tubaisteach"
+      ],
+      "answer": "Á shlogadh ag créatúr ollmhór mara"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Bolg créatúir mhóir mhara i ndoimhneacht na farraige",
+        "Teach naofa timpeallaithe ag sléibhte i ngleann lom",
+        "Tine lasrach a rinneadh fionnuar agus síochánta",
+        "Gairdín iontach le haibhneacha ag sileadh agus scáth",
+        "Áirc ollmhór ina luí ar bharr sléibhe"
+      ],
+      "answer": "Bolg créatúir mhóir mhara i ndoimhneacht na farraige"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Saoradh ón dorchadas; chreid slua mór",
+        "Saor ó thine lasrach, agus lasracha ag fuarú",
+        "Rinneadh ceannaire de ar náisiún cumhachtach agus shaor sé iad ó fhoréigean",
+        "Bronnadh leanbh air i seanaois tar éis blianta paidreoireachta",
+        "Tugadh eagna ollmhór, ríocht, agus riail thar ghaotha agus jinn"
+      ],
+      "answer": "Saoradh ón dorchadas; chreid slua mór"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

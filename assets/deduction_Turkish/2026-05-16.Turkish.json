@@ -1,0 +1,61 @@
+{
+  "title": "Kurtuluşun Kararlı İnşaatçısı",
+  "intro": "Son derece sabırlı ve sarsılmaz bir inanca sahip olan bu kişi, amansız bir hor görme ve reddedilme karşısında sayısız yılını ilahi bir göreve adadı. Hikayesi, ezici bir inançsızlık karşısında inancın güçlü bir kanıtıdır ve dünyayı yeniden şekillendiren önemli bir olayla sonuçlanmıştır.",
+  "clues": [
+    "Hayatımın inanılmaz uzun bir dönemini, halkımı Allah'a ibadete çağırmaya adadım.",
+    "Halkım benimle alay etti ve beni apaçık bir hata ve delilikle suçladı.",
+    "Bana, karayla çevrili topluluğum için alışılmadık görünen bir şey inşa etme emri verildi.",
+    "Bu eşsiz yapım projesinde bana ve aileme sadece birkaç kişi inandı ve katıldı.",
+    "Allah'ın emri üzerine, gemide her canlıdan ikişer tane taşıdım.",
+    "Yeryüzünü büyük bir tufan kapladı; gemimde benimle birlikte olanlar dışında kimse kurtulmadı, oğlum ise inkârı yüzünden helak oldu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Salih",
+        "Peygamber Hud",
+        "Peygamber Nuh",
+        "Peygamber Davud",
+        "Peygamber Süleyman"
+      ],
+      "answer": "Peygamber Nuh"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Deprem sonucu oluşan yıkım",
+        "Denizin yarılması",
+        "büyük tufan",
+        "Nimrod'un ateşi",
+        "Kurbağa vebası"
+      ],
+      "answer": "büyük tufan"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yanan çalı",
+        "Gemi",
+        "su kuyusu",
+        "altın buzağı",
+        "Tur Dağı"
+      ],
+      "answer": "Gemi"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bir krallık aldı.",
+        "Halkı maymunlara dönüştürüldü.",
+        "Halkı bir mucize sayesinde kurtuldu.",
+        "Halkı boğuldu",
+        "Halkı yıldırım çarpmasına maruz kaldı."
+      ],
+      "answer": "Halkı boğuldu"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La nation qui a défié la maison sacrée",
+  "intro": "Dans les temps anciens, une puissante nation décida d'attaquer un sanctuaire vénéré par les croyants. Ce peuple était riche, puissant et sûr de sa force militaire. Il amena avec lui une créature colossale qui lui servirait d'arme de guerre. Son but était clair : détruire le lieu sacré et anéantir la foi de ses habitants. Mais son arrogance allait bientôt se heurter à une riposte divine dévastatrice. Cet événement historique devint un signe et une leçon pour tous ceux qui viendront après. Pouvez-vous identifier ce peuple grâce aux indices ?",
+  "clues": [
+    "Nous étions une nation bénie par la richesse et la puissance militaire.",
+    "Nous avons rassemblé nos forces et amené une bête gigantesque pour l'utiliser dans notre campagne.",
+    "Notre cible était un sanctuaire sacré que nous souhaitions détruire entièrement.",
+    "Nous pensions que notre force serait suffisante pour surmonter toute protection divine.",
+    "Mais le Seigneur nous a envoyé du ciel un châtiment auquel nous ne nous attendions pas.",
+    "Nous avons été anéantis en un instant, dispersés comme de la paille brisée."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le peuple de l'éléphant",
+        "Le peuple de Thamud",
+        "Les habitants de 'Ad",
+        "Les Compagnons de la Caverne",
+        "La nation du prophète Hud"
+      ],
+      "answer": "Le peuple de l'éléphant"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Faire marcher un éléphant vers la maison sacrée pour la détruire",
+        "Construire une tour pour atteindre les cieux",
+        "Construction d'une idole en or pour le culte",
+        "Refuser d'écouter le messager d'Allah",
+        "Creuser un puits pour nuire aux croyants"
+      ],
+      "answer": "Faire marcher un éléphant vers la maison sacrée pour la détruire"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'éléphant",
+        "Le veau d'or",
+        "Le bâton de Moïse",
+        "Le Poisson de Yunus",
+        "Le fer de Dawud"
+      ],
+      "answer": "L'éléphant"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Ils furent détruits par des volées d'oiseaux chargés de pierres.",
+        "Ils se sont noyés lors d'une grande inondation.",
+        "Ils furent transformés en singes et en cochons.",
+        "Ils furent ensevelis sous des pierres tombées d'une montagne",
+        "Ils furent brûlés par le feu venu du ciel"
+      ],
+      "answer": "Ils furent détruits par des volées d'oiseaux chargés de pierres."
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

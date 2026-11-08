@@ -1,0 +1,61 @@
+{
+  "title": "Mizgînvanê Gunehekî Bêhempa",
+  "intro": "Hin çîrokên di Quranê de eşkere dikin ku çiqas gendeliya tevahiya civakê dikare bikeve nav wê. Ev peyamber bi tena serê xwe rawestiya û ji gelek kesan re lava kir ku di fesadiyekê de xeniqîbûn ku tu miletekî berî wan qet neşopandibû. Tevî hişyariyên bi salan, dil hişk man û fermana îlahî bi awayekî pir tirsnak hat. Hûn dikarin vî peyamberê hêja yê Xwedê nas bikin?",
+  "clues": [
+    "Ez wek hişyarkerek hatim şandin bo gelek ku bi xirabiyekê şewitîbû ku berî wan tu miletî qet nekiriye.",
+    "Gelê min ji min re got derewîn û gef li min û peyrewên min xwarin ku ew ê min ji welêt derxin.",
+    "Mêvanên bi rûmet bi şiklê xortên grevkar hatin mala min, û ez ji bo ewlehiya wan xemgîniyek mezin hîs kirim.",
+    "Gelê min daxwaz kir ku ez mêvanên xwe radestî wan bikim, bêyî ku ez hay ji wê yekê hebe ku ew milyaketên ku ji hêla Xwedê ve hatine şandin bûn.",
+    "Hevjînê min baweriya min parve nekir û hilbijart ku bi yên mehkûm re bimîne.",
+    "Ez û keçên xwe di sibehê de rizgar bûn, dema ku baranek wêranker ji keviran barî û bajarên me hilweşiyan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Lût",
+        "Pêxember Şû'eyb",
+        "Pêxember Hûd",
+        "Pêxember Nûh",
+        "Pêxember Salih"
+      ],
+      "answer": "Pêxember Lût"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Tofaneke mezin erdê dadigire",
+        "Windakirina çavan ji ber êşa dirêj",
+        "Zalimekî ku îdîa dike xwedayî ye",
+        "Têne avêtin nav agirê geş",
+        "Daxwaz tê kirin ku mêvanên rûmetê radest bikin"
+      ],
+      "answer": "Daxwaz tê kirin ku mêvanên rûmetê radest bikin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keştiyeke mezin bi destan hatiye çêkirin",
+        "Dara ku deryayê parçe kir",
+        "Deveyekî keçik ê mûcîzeyî",
+        "Agirekî geş",
+        "Bajarên hilweşiyayî"
+      ],
+      "answer": "Bajarên hilweşiyayî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Dema ku li pey bawermendan diçû xeniqî",
+        "Ji firna agir bê zirar hat xilaskirin",
+        "Bi zindî ber bi asîmanan ve hat hildan",
+        "Di lehiyê mezin de malbatek jiyana xwe ji dest da",
+        "Malbat rizgar bû ji bilî jineke bêwefa"
+      ],
+      "answer": "Malbat rizgar bû ji bilî jineke bêwefa"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

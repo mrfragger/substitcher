@@ -1,0 +1,61 @@
+{
+  "title": "Ndị Na-edebe Owuwe Ihe Ubi Nzuzo",
+  "intro": "N'ala jupụtara n'ahịhịa ndụ, otu ìgwè mmadụ mere atụmatụ nzuzo n'okpuru ọchịchịrị. Ha nwere otu nzube, mana ebumnobi ha abụghị nke ezi omume. Ha amaghị na ihe na-eme ka ha ghara ịdị ndụ ga-adị ka ha na-ehi ụra.",
+  "clues": [
+    "Anyị kpebiri ime mkpebi siri ike, na-eche na atụmatụ anyị enweghị ntụpọ.",
+    "Anyị bu n'obi ịpụ apụ n'oge, tupu ndị ọzọ amalite ịkpali.",
+    "Anyị malitere ala dị mma, obi siri anyị ike na ihe anyị ga-eri ga-ezuru anyị.",
+    "Ka anyị rutere ebe anyị na-aga, anyị hụrụ na ọ tọgbọrọ chakoo ma tọgbọrọ chakoo, ya mere anyị chere na anyị furu ụzọ.",
+    "Mgbe ahụ, anyị ghọtara na ọ bụ ebe anyị nọ n'ezie, anyị wee tie mkpu n'enweghị olileanya, na-ata ibe anyị ụta maka mfu anyị.",
+    "Anyị ṅụrụ iyi n'ụtụtụ ahụ na anyị ga-ewepụ ndị ogbenye n'ihe ubi anyị, mana ntaramahụhụ Chineke bịara n'ahụ anyị mgbe anyị na-ehi ụra, wee mee ka ubi anyị bụrụ ihe tọgbọrọ n'efu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka anyị bụ?",
+      "options": [
+        "Ndị Nwe Ubi ahụ na Surah nke 68",
+        "Ndị Saba",
+        "Ndị Enyi nke Ọgba ahụ",
+        "Ndị nke Enyí",
+        "Ndị nke Ọgba ahụ"
+      ],
+      "answer": "Ndị Nwe Ubi ahụ na Surah nke 68"
+    },
+    "trial": {
+      "label": "Ọnwụnwa Anyị",
+      "options": [
+        "Ọdachi si n'eluigwe bibiri ubi anyị",
+        "Idei mmiri kpuchiri ubi anyị",
+        "Ọkụ sitere n'aka onye iro gbara ubi anyị ọkụ",
+        "Ubi anyị jupụtara n'igurube",
+        "Ala ọma jijiji lodara ubi anyị"
+      ],
+      "answer": "Ọdachi si n'eluigwe bibiri ubi anyị"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Anyị ṅụrụ iyi ịghọrọ mkpụrụ ya n'ụtụtụ",
+        "Anyị wuru mmiri mmiri iji mee ka ubi anyị gbaa mmiri",
+        "Anyị chọrọ ebe mgbaba n'ọgba maka nchebe",
+        "Anyị kwadebere ndị agha iji merie alaeze",
+        "Anyị ji ụgbọ mmiri gaa gafee oké osimiri"
+      ],
+      "answer": "Anyị ṅụrụ iyi ịghọrọ mkpụrụ ya n'ụtụtụ"
+    },
+    "outcome": {
+      "label": "Akara Aka Anyị",
+      "options": [
+        "Anyị chegharịrị ma nwee olileanya maka ebere sitere n'aka Allah",
+        "E bibiri anyị kpamkpam, anyị echegharịghịkwa echegharị",
+        "Anyị gbapụrụ n'ala ahụ ma anyị alọghachighị azụ ọzọ",
+        "Anyị ghọrọ ndị ike ma baa ọgaranya ọzọ",
+        "A tara anyị ahụhụ site n'ịghọ enwe"
+      ],
+      "answer": "Anyị chegharịrị ma nwee olileanya maka ebere sitere n'aka Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dam olish kuniga qarshi chiqqan jamoa",
+  "intro": "Ilohiy buyruq ibodat va tiyish uchun bir kun ajratilgan qirg'oqbo'yi aholi punktiga qadam qo'ying. Bu jamoadagi bir guruh ayyor reja bilan ushbu buyruqning chegaralarini sinab ko'rishni tanladi, bu esa asrlar davomida aks-sado beradigan o'zgarishga olib keldi. Bu ruhlar kimlar edi va ular bilan nima bo'ldi?",
+  "clues": [
+    "Biz qirg'oq yaqinida yashardik, dengiz esa tirikchiligimizni ta'minlardi.",
+    "Bizga haftaning bir kunini hurmat qilish, uni dunyoviy ishlardan chetga surib qo'yish buyurilgan edi.",
+    "O'sha kuni baliqlar bizga buyruqni buzishga vasvasaga solgandek, juda ko'p bo'lib kelishdi.",
+    "Biz muqaddas kun arafasida baliqlarni tutib olish va keyin ularni yig'ib olish rejasini tuzdik.",
+    "Ba'zilarimiz bu yolg'on haqida ogohlantirganlarida, biz ularning maslahatini e'tiborsiz qoldirdik va qat'iyat bilan davom etdik.",
+    "Gunohlarimiz uchun biz maymunlarga aylandik, nafratlandik va rad etildik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Shabbat ahli",
+        "Xandaq xalqi",
+        "O'rmon aholisi",
+        "Jannat ahli",
+        "Fil xalqi"
+      ],
+      "answer": "Shabbat ahli"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Shanba kuni baliq ovlash",
+        "Baland minora qurish",
+        "Muqaddas urg'ochi tuyani o'ldirish",
+        "Ularga yuborilgan payg'ambarni inkor etish",
+        "Savdo vaznida haddan oshish"
+      ],
+      "answer": "Shanba kuni baliq ovlash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Dengiz va uning baliqlari",
+        "Sovutilgan olov",
+        "Ilonga aylangan tayoq",
+        "Najot sandig'i",
+        "Tosh lavhalari"
+      ],
+      "answer": "Dengiz va uning baliqlari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Maymunlarga aylangan",
+        "Yer tomonidan yutib yuborilgan",
+        "Kuchli shamol tomonidan vayron qilingan",
+        "Dengizda cho'kib ketdi",
+        "Toshlar yog'ishi bilan urildi"
+      ],
+      "answer": "Maymunlarga aylangan"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

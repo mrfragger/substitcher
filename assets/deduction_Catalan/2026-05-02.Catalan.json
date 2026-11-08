@@ -1,0 +1,61 @@
+{
+  "title": "El portador d'un missatge sepulcral",
+  "intro": "Una ànima justa va ser enviada per guiar un poble perdut en transgressions sense precedents. Aquest missatger es va mantenir ferm, donant un clar avís contra una corrupció que desafiava l'ordre natural. Malgrat les súpliques més fervents, la comunitat es va submergir més en la foscor, preparant el terreny per a un judici diví com cap altre. Pots identificar aquest servent fidel d'Al·là?",
+  "clues": [
+    "Jo era parent d'un altre gran profeta, i vaig emigrar amb ell, deixant enrere la nostra pàtria.",
+    "Vaig ser enviat a un poble la maldat del qual era única, una transgressió que cap creació havia comès abans d'ells.",
+    "La meva pròpia llar estava dividida; un membre proper de la família es va posar en secret del costat dels incrèduls.",
+    "Uns àngels, en forma de joves ben plantats, van venir a casa meva com a convidats, causant-me una gran angoixa per la seva seguretat.",
+    "Vaig oferir les meves pròpies filles en matrimoni al meu poble en un intent desesperat de fer que abandonessin els seus actes vergonyosos.",
+    "El meu poble va ser destruït per un crit terrible i una pluja de pedres d'argila cuita, mentre que jo i la meva família, excepte un, ens vam salvar marxant en plena nit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Shu'ayb",
+        "Profeta Salih",
+        "Profeta Lut",
+        "Profeta Hud",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Quina va ser la meva prova principal?",
+      "options": [
+        "Convencent un rei tirà que no em cremi al foc.",
+        "Superar la gelosia dels meus germans i ser llançat a un pou.",
+        "Enfrontar-se a un poble involucrat en una immoralitat sexual sense precedents.",
+        "Alliberant el meu poble de l'esclavitud d'un poderós faraó.",
+        "Construint un vaixell enorme per salvar els creients d'un gran diluvi."
+      ],
+      "answer": "Enfrontar-se a un poble involucrat en una immoralitat sexual sense precedents."
+    },
+    "location": {
+      "label": "Quina era la ubicació de la meva missió?",
+      "options": [
+        "La ciutat de Madyan",
+        "L'antiga ciutat d'Iram",
+        "La terra d'Egipte sota el faraó",
+        "Les ciutats de Sodoma i Gomorra",
+        "La ciutat de Nínive"
+      ],
+      "answer": "Les ciutats de Sodoma i Gomorra"
+    },
+    "outcome": {
+      "label": "Quin va ser el resultat final?",
+      "options": [
+        "Les ciutats van ser enderrocades i cobertes amb pedres d'argila cuita.",
+        "El meu poble va ser engolit per la terra juntament amb el seu ric líder.",
+        "El meu poble va ser destruït per un vent violent durant set nits i vuit dies.",
+        "El meu poble va patir plagues com llagostes, polls i granotes.",
+        "Un peix gegant em va empassar després que abandonés la meva missió."
+      ],
+      "answer": "Les ciutats van ser enderrocades i cobertes amb pedres d'argila cuita."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

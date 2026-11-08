@@ -1,0 +1,61 @@
+{
+  "title": "stellata inquisitio certitudinis",
+  "intro": "Finge te stare sub vasto caelo nocturno, lumina clara orientem deinde evanescentem spectans, dum quaeris quid vere devotionem dignum sit. Circum te, silentes imagines sculptae laudes et dona accipiunt, attamen clara ratio earum potentiam in dubium vocat. Vox intrepida parat traditionem hereditariam provocare et ad Creatorem caelorum et terrae indicare.",
+  "clues": [
+    "Ad stellas, lunam et solem aspexi, et cogitavi ea Dominum meum esse non posse, quia occidunt et evanescunt.",
+    "Aperte repudiavi quod populus meus praeter Allah colebat et eos ad solum Creatorem colendum vocavi.",
+    "De principe iactanti qui se vitam mortemque dare affirmabat disputavi, et respondi commemorans Deum solem ab oriente adduxisse.",
+    "Percutivi idola et comminui ea, maxima tantum in eis reliqui, ut populus rediret ad ea.",
+    "A populo meo comprehensus et damnatus sum, qui dixit ut structuram aedificarem et me in ignem ardentem conicerem.",
+    "Servatus sum cum Deus ignem mihi refrigerationem et salutem praecepit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ibrahim (Abraham)",
+        "Propheta Yahya (Ioannes)",
+        "Propheta Al-Yasa (Eliseus)",
+        "Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Propheta Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Cultum idolorum oppugnavit et de significatione corporum caelestium disputavit",
+        "A magno pisce devoratus est postquam iratus discesserat",
+        "Duxerunt sectatores per mare ab Allah divisum",
+        "Vivus in caelum resurrexit, mortem non gustans",
+        "In spelunca cum sociis per multos annos dormivit"
+      ],
+      "answer": "Cultum idolorum oppugnavit et de significatione corporum caelestium disputavit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ignis ardens a Deo refrigeratus et tutus factus",
+        "Arca quae fideles per diluvium portavit",
+        "Baculus qui in serpentem factus est",
+        "Mensa de caelo parata",
+        "Camella in signum missa"
+      ],
+      "answer": "Ignis ardens a Deo refrigeratus et tutus factus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Ab igne protectus et iusta progenies concessa",
+        "Cum negatoribus in magna diluvio submersi",
+        "Transformatus propter violationem Sabbati",
+        "Ab avibus lapides fictiles portantibus deletus",
+        "A terra cum thesauris absorptus"
+      ],
+      "answer": "Ab igne protectus et iusta progenies concessa"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

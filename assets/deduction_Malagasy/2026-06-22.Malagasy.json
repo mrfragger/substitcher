@@ -1,0 +1,61 @@
+{
+  "title": "Ny mpino miafina",
+  "intro": "Tao amin'ireo efitrano feno voninahitra sy fahefana, izay nanjakan'ny tsy finoana sy ny jadona, dia nisy feo tokana maneho ny fahamarinana niteny avy amin'ny toerana tsy nampoizina. Io olona io dia nanohitra ny fahefana hiaro iraka iray, ka nanao vivery ny ainy mba hanambarana ny fahamarinana.",
+  "clues": [
+    "Nipetraka tany amin'ny tany feno jadona aho, nanompo mpitondra iray izay nilaza ho andriamanitra.",
+    "Nafeniko nandritra ny taona maro ny tena finoako, satria natahotra ny ho vokatry ny fanambarana izany aho.",
+    "Rehefa tonga nitondra famantarana mazava ny iraka iray dia nino aho, saingy niray tetika hanohitra azy ny vahoakako.",
+    "Nijoro teo anatrehan'ilay mpitondra jadona sy ny mpanolo-tsainy aho, nilaza fa tsy tokony hamono iraka tsy manan-tsiny izy ireo.",
+    "Nampitandrina azy ireo aho ny amin'ny sazin'ireo firenena taloha izay nandà ny fahamarinana, tahaka ny vahoakan'i Noa sy Ad.",
+    "Namonjy ahy tamin'ny teti-dratsin'izy ireo Andriamanitra, ary nahita ny faharavan'ny fitondrana mpampahory aho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny mpino ny fianakavian'i Farao",
+        "Ny mpanao majika an'i Farao",
+        "Ny Vizier an'i Farao",
+        "Ny vadin'i Farao",
+        "Ny mpitahiry volan'i Farao"
+      ],
+      "answer": "Ny mpino ny fianakavian'i Farao"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Fiarovana mpaminany amin'ny famonoana ho faty",
+        "Manao fanamby amin'ny hafetsen'ny mpanao majika",
+        "Manangana tilikambo mba hahatratra ny lanitra",
+        "Manasaraka ny ranomasina mba handosirana",
+        "Fandikana ny nofin'ny mpanjaka iray"
+      ],
+      "answer": "Fiarovana mpaminany amin'ny famonoana ho faty"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny lapan'i Farao",
+        "Ny kirihitra mirehitra",
+        "Ilay zanak'omby volamena",
+        "Ny lavadranon'i Madyan",
+        "Ny fiaran'ny Mpaminany Noa"
+      ],
+      "answer": "Ny lapan'i Farao"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voavonjy tamin'ny loza raha ringana kosa ireo mpampahory",
+        "Lasa mpitondra mahery",
+        "Natsipy tao anaty afo ary nivoaka tsy naninona",
+        "Natelin'ny tany",
+        "Nirenireny tany an-tany efitra nandritra ny efapolo taona"
+      ],
+      "answer": "Voavonjy tamin'ny loza raha ringana kosa ireo mpampahory"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

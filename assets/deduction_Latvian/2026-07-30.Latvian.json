@@ -1,0 +1,61 @@
+{
+  "title": "Mūru ieskautas pilsētas dīvainie apmeklētāji",
+  "intro": "Grupa ieradās pie pilsētas vārtiem, kuras iedzīvotāji nekad nebija zinājuši patiesību. Viņi atnesa vēsti, bet iedzīvotāji kļuva naidīgi, draudot ar vardarbību. Tomēr no negaidītas vietas viena balss pacēlās, lai aizstāvētu svešiniekus, sagatavojot augsni dramatiskam notikumu pavērsienam.",
+  "clues": [
+    "Mēs iebraucām pilsētā, kuras iedzīvotāji bija pārņemti neticībā.",
+    "Viņi uz mums paskatījās ar aizdomām un teica: \"Jūs esat tikai parastas būtnes, tāpat kā mēs.\"",
+    "Mēs viņus brīdinājām, bet viņi pacēla pret mums akmeņus.",
+    "No pilsētas tālākā gala steidzās vīrietis, lai apstiprinātu mūsu patiesību.",
+    "Viņš paziņoja savai tautai: “Kāpēc lai es nepielūgtu To, kas mani radījis?”",
+    "Pilsētas noliegums beidzās ar vienu sprādzienu, un tur, kur reiz viņi ņirgājās, valdīja klusums."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Ja-Sinas vēstneši",
+        "Isas mācekļi",
+        "Tranšejas ļaudis",
+        "Faraona burvji",
+        "Ja-Sina ticīgais"
+      ],
+      "answer": "Ja-Sinas vēstneši"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Noraidīšana un draudi nomētāt ar akmeņiem",
+        "Tiekot iemests spēcīgā ugunī",
+        "Pacietības pārbaudījums ar pazudušu bērnu",
+        "Dārzs, kas cieta postījumus",
+        "Ceļojums cauri jūrai"
+      ],
+      "answer": "Noraidīšana un draudi nomētāt ar akmeņiem"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Pilsētas tālākais gals",
+        "Sarkanā jūra",
+        "Ugunsgrēks",
+        "Patvēruma ala",
+        "Ēģiptes cietums"
+      ],
+      "answer": "Pilsētas tālākais gals"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Pilsētu iznīcināja viens kliedziens",
+        "Jūra pašķīrās un noslīcināja armiju",
+        "Uguns kļuva vēsa un droša",
+        "Dārzu aprija debesu uguns",
+        "Valis atgrieza cilvēku krastā"
+      ],
+      "answer": "Pilsētu iznīcināja viens kliedziens"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

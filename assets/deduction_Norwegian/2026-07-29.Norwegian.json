@@ -1,0 +1,61 @@
+{
+  "title": "Den høviske jakten",
+  "intro": "I maktens korridorer ble en høytstående skikkelse betatt av en tjener med en skjønnhet som var utenomjordisk. Denne betattheten førte til en rekke hendelser som skulle sette lojalitet på prøve, avsløre skjulte sannheter og til slutt bekrefte tjenerens uskyld.",
+  "clues": [
+    "Jeg bodde i Nilens land, i et palass med stor innflytelse.",
+    "En ung mann kom inn i huset mitt, og hans nærvær forstyrret min verden.",
+    "Jeg prøvde å forføre ham, men han søkte tilflukt hos sin Herre.",
+    "Jeg rev kappen hans i stykker bakfra, men bevisene pekte på mitt bedrag.",
+    "For å stilne sladderen fra adelskvinnene inviterte jeg dem til en sammenkomst og la skarpe gjenstander i hendene deres.",
+    "Til slutt bekjente jeg offentlig min feil og innrømmet sannheten for kongen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Al-Aziz' kone",
+        "Asiya (faraos kone)",
+        "Bilqis (dronningen av Saba)",
+        "Maryam (Isas mor)",
+        "Musas mor"
+      ],
+      "answer": "Al-Aziz' kone"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Hun forsøkte å forføre profeten Yusuf",
+        "Hun prøvde å drepe profeten Musa",
+        "Hun hevdet å være en gudinne",
+        "Hun bygde et tårn for å utfordre Allah",
+        "Hun ledet en hær mot Mekka"
+      ],
+      "answer": "Hun forsøkte å forføre profeten Yusuf"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En skjorte revet fra baksiden",
+        "En gullkalv",
+        "En stav som ble til en slange",
+        "En hunnkamel",
+        "En lampe"
+      ],
+      "answer": "En skjorte revet fra baksiden"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Hun tilsto og erkjente sannheten",
+        "Hun druknet med hæren sin",
+        "Hun forvandlet seg til en saltstøtte",
+        "Hun ble slukt av jorden",
+        "Hun ble ødelagt av en skrikende vind"
+      ],
+      "answer": "Hun tilsto og erkjente sannheten"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

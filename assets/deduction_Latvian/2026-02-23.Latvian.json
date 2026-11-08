@@ -1,0 +1,61 @@
+{
+  "title": "Slēptās pārliecības balss",
+  "intro": "Tirāniskas tiesas sirdī, kur neticība bija valsts likums, vientuļa dvēsele gāja pa ticības un baiļu virvi. Šī persona, atrodoties tuvu varas centram, klausījās, kā pravieša vēsts tika uztverta ar nicinājumu un draudiem. Pienāca patiesības brīdis, piespiežot šo personu izvēlēties starp klusu drošību un bīstamas patiesības paušanu. Vai varat atklāt šī drosmīgā aizstāvja identitāti?",
+  "clues": [
+    "Es dzīvoju tirāna mājās, pats savām acīm redzot augstprātību, kas noraidīja dievišķās zīmes.",
+    "Es glabāju savu ticību noslēpumā, kā apslēptu dārgumu elkdievības pilī.",
+    "Es dzirdēju, ka vadonis, kuram kalpoju, plānoja nogalināt Allāha vēstnesi, vīrieti vārdā Musa.",
+    "Es apšaubīju viņu loģiku, atgādinot viņiem par Nuhas, Ada un Tamūda tautas likteni.",
+    "Es uzdevu kritisku jautājumu saviem ļaudīm: “Ja viņš ir melis, tad viņa meli ir uz viņa pleciem; bet, ja viņš ir patiess, tad kaut kas no viņa solījumiem jūs skars.”",
+    "Mans stāsts ir stāstīts kā ticības piemērs surā ar nosaukumu “Piedevējs”, kur es brīdināju savu tautu par vareno viltībām."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Ticīgais no Fir'awn ģimenes",
+        "Hamans",
+        "Fir'awn burvji",
+        "Koruns",
+        "Samiri"
+      ],
+      "answer": "Ticīgais no Fir'awn ģimenes"
+    },
+    "trial": {
+      "label": "Kāds bija mans pārbaudījums?",
+      "options": [
+        "Aizstāvot pravieti Musu tirāna tiesā",
+        "Celt augstu torni, lai sasniegtu debesis",
+        "Tiekot iemests liesmojošā ugunī",
+        "Milzu zivs norīšana",
+        "Zaudējot visu bagātību un veselību"
+      ],
+      "answer": "Aizstāvot pravieti Musu tirāna tiesā"
+    },
+    "location": {
+      "label": "Kāda bija mana argumenta tēma?",
+      "options": [
+        "Pravieša vēstījuma noraidīšanas sekas",
+        "Prasība pēc zīmes no svēta koka",
+        "Teļa radīšana no izkausētām rotaslietām",
+        "Kamieļa brīnums no klints",
+        "Valdnieka sapņu interpretācija"
+      ],
+      "answer": "Pravieša vēstījuma noraidīšanas sekas"
+    },
+    "outcome": {
+      "label": "Kāds bija rezultāts?",
+      "options": [
+        "Allāhs izglāba šo cilvēku no viņa ļaunā plāna",
+        "Visa tiesa nekavējoties pieņēma islāmu",
+        "Tirāns nožēloja grēkus slīkšanas brīdī",
+        "Tirānu aprija zeme",
+        "Persona tika izsūtīta uz tālu zemi"
+      ],
+      "answer": "Allāhs izglāba šo cilvēku no viņa ļaunā plāna"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

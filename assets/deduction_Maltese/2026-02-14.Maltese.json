@@ -1,0 +1,61 @@
+{
+  "title": "Il-Bennej tal-Ostakli",
+  "intro": "Tul artijiet vasti, individwu b'saħħtu beda sensiela ta' spedizzjonijiet, u ngħata awtorità u mezzi immensi. Din ir-ruħ iltaqgħet ma' komunitajiet diversi u ffaċċjat sfidi uniċi, u ħalliet marka dejjiema fuq l-istorja u l-fidi permezz tal-azzjonijiet u l-għerf tagħha, filwaqt li rrikonoxxiet is-sors veru tas-saħħa tagħha.",
+  "clues": [
+    "Ingħatajt is-setgħa u l-mezzi fuq kollox, u segwejt triq.",
+    "Il-vjaġġ tiegħi ħadani lejn inżul ix-xemx, fejn sibt poplu.",
+    "Iltqajt ma' komunità li bilkemm setgħet tifhem id-diskors, li tgħix bejn żewġ muntanji.",
+    "Tlabuni nibni barriera, mhux għal gwadann personali, iżda biex nipproteġi kontra forza distruttiva.",
+    "Jiena ddikjarajt li s-saħħa biex nibnu dan il-ħajt enormi ġiet mingħand Alla, u li se jibqa' wieqaf sa żmien imwiegħed.",
+    "Ismi, ħafna drabi tradott bħala 'Dak b'Żewġ Qrun,' jissinifika l-firxa tiegħi madwar id-dinja jew forsi żewġ eri distinti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Musa",
+        "Il-Profeta Sulayman",
+        "Dhul-Qarnayn",
+        "Fargħun",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Li tirċievi r-rivelazzjoni",
+        "Niffaċċjaw tirann",
+        "Il-bini ta’ vapur kbir",
+        "Il-bini ta’ barriera qawwija",
+        "Li tinbela’ minn ħuta"
+      ],
+      "answer": "Il-bini ta’ barriera qawwija"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-Arka",
+        "L-Istaff",
+        "Il-Barriera tal-Ħadid",
+        "Ix-Xmara Nil",
+        "It-Tron"
+      ],
+      "answer": "Il-Barriera tal-Ħadid"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Salvazzjoni mill-għargħar",
+        "Issir saltna kbira",
+        "Protezzjoni għal poplu",
+        "Qerda ta’ oppressur",
+        "Għerf dejjiemi"
+      ],
+      "answer": "Protezzjoni għal poplu"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

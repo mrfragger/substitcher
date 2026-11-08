@@ -1,0 +1,61 @@
+{
+  "title": "Pacientas vienas",
+  "intro": "Seniai seniai, pačioje žmonijos istorijos pradžioje, dvi sielos stovėjo prieš savo Kūrėją su aukomis. Viena buvo priimta, kita – ne. Tai, kas įvyko vėliau, tapo pirmąja didele tragedija tarp brolių ir seserų – vienas kantraus susilaikymo aktas ir vienas kartaus keršto aktas. Ar galite atskleisti, kas aš esu?",
+  "clues": [
+    "Aš gimiau pačiomis pirmosiomis žmogaus egzistencijos žemėje dienomis",
+    "Aš buvau pačios pirmosios žmonių poros, kada nors vaikščiojusios šia žeme, vaikas",
+    "Kartą paaukojau auką iš geriausios savo kaimenės, kad įtikčiau savo Kūrėjui",
+    "Mano auka buvo priimta iš viršaus, o mano brolio ir sesers auka buvo atmesta",
+    "Kai man buvo grasinama mirtimi, nusprendžiau nepakelti rankos prieš savo brolį ar seserį",
+    "Aš tapau pirmuoju žmogumi visoje žmonijos istorijoje, kurį neteisėtai nužudė kitas žmogus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Habilas (Abelis), Adomo sūnus",
+        "Kabilas (Kainas), Adomo sūnus",
+        "Adomas, pirmasis žmogus",
+        "Nuh (Nojus)",
+        "Ibrahimas (Abraomas)"
+      ],
+      "answer": "Habilas (Abelis), Adomo sūnus"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pirmoji žmogžudystė žmonijos istorijoje",
+        "Didysis Nuho potvynis",
+        "Fir'awno armijos sunaikinimas",
+        "Ibrahimo atlikta Ismailo auka",
+        "Mūšis prieš Jalutą (Goliatą)"
+      ],
+      "answer": "Pirmoji žmogžudystė žmonijos istorijoje"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Avis, paaukota kaip maloni auka",
+        "Puiki medinė arka",
+        "Lazdelė, kuri virto gyvate",
+        "Kukutis neša karališką žinią",
+        "Liepsnojanti ugnies tranšėja"
+      ],
+      "answer": "Avis, paaukota kaip maloni auka"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapo pirmąja žmogžudystės auka žmonijos istorijoje",
+        "Išgyveno didelį potvynį medinio laivo viduje",
+        "Gyveno didelės žuvies pilve",
+        "Valdė džinus, žmones ir vėją",
+        "Keturiasdešimt metų klajojo plačioje dykynėje"
+      ],
+      "answer": "Tapo pirmąja žmogžudystės auka žmonijos istorijoje"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

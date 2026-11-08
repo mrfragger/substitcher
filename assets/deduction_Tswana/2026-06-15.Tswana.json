@@ -1,0 +1,61 @@
+{
+  "title": "Puso ya Phefo le Kgabo",
+  "intro": "Akanya ka puso e mo go yone phefo ka boyone e neng e arabela mmusi a le mongwe fela, e mo go yone mantswe a ditshedi tse dinnye thata a neng a rwele bokete, le e mo go yone maatla a a sa bonweng ke matlho a a tlwaelegileng a neng a tshwarwa ka kelotlhoko mo tirelong. Setshwantsho seno se ne sa rua bogosi jo bo sa tlwaelegang go tswa mo go yo o neng a le teng pele ga sone yo o rategang, se na le maatla mo dielementeng le mo di- jinn. Mme taolo e kgolo e ne ya tla ka diteko tse dikgolo — mme motsotso wa bofelo o ne o tla senola sengwe se se gakgamatsang ka ga mofuta wa botshelo le loso ka botsone.",
+  "clues": [
+    "Ke ne ka rua bogosi jo bogolo go tswa mo motsading yo o rategang yo gape e neng e le moporofeti le motlhanka wa ga Allah.",
+    "Allah o ne a nnaya taolo mo phefong, a e romela kwa ditirong tsa loeto lwa kgwedi mo mosong o le mongwe fela.",
+    "Tota le ditshedi tse dinnye thata di ne di tla bua ka tsela e ke atamelang ka yone, mme ke ne ke ema go sekae go gakgamadiwa ke go lemoga ga tsone.",
+    "Ke ne ke laola mophato o mogolo wa di- jinn, batho le dinonyane, tsotlhe di rulagantswe ka thulaganyo fa pele ga me.",
+    "Mmusi mongwe yo o kgakala o ne a tla go nteka ka kgwetlho e e thata, mme ke ne ka dira gore setulo sa bogosi sa mmusi yoo se tlisiwe kwa kgotleng ya me pele ga moeng a ka tsoga le eleng mo setulong.",
+    "Ke ne ka nna ke eme, ke ikaegile ka thobane, go fitlhela setshedi se sennye sa lefatshe se e tlhotlhora — mme ke gone fela ba ba neng ba ntikologile ba neng ba lemoga gore ke fetile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeta Sulayman (Solomone)",
+        "Moporofeti Dawud (Dafide)",
+        "Moporofeti Isa (Jesu)",
+        "Moporofeta Muhammad صلى الله عليه وسلم",
+        "Moporofeta Musa (Moshe)"
+      ],
+      "answer": "Moporofeta Sulayman (Solomone)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go tlisa setulo sa bogosi sa kgosigadi e e kgakala ka ditsela tse di fetang tsa tlholego",
+        "Go folosediwa mo sedibeng se se boteng ke le ngwana",
+        "Go lebana le maselamotse a mogateledi ka ditshupo tsa kgakgamatso",
+        "Go bua go tswa mo sebopelong go sireletsa tlotlo ya mme",
+        "Go amogela lokwalo lwa bofelo lo lo senotsweng mo thabeng e e boitshepo"
+      ],
+      "answer": "Go tlisa setulo sa bogosi sa kgosigadi e e kgakala ka ditsela tse di fetang tsa tlholego"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Lore lwa logong lo lo neng lwa tlhabiwa ke motlhwa",
+        "Areka e kgolo e e agilweng go thibela morwalela wa lefatshe lotlhe",
+        "Thobane e e neng ya fetoga noga fa pele ga mogateledi",
+        "Letsela le le neng le dirisiwa go fodisa sefofu",
+        "Logaga lo lo boitshepo lo tshenolo e neng ya amogelwa la ntlha mo go lone"
+      ],
+      "answer": "Lore lwa logong lo lo neng lwa tlhabiwa ke motlhwa"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Mmusi mongwe yo o tlotlegang yo o neng a etile o ne a amogela tumelo morago ga go bona ditshupo",
+        "Morwalela o mogolo o ne wa senya botlhe kwantle ga ba ba ikanyegang ba ba neng ba le mo arakeng",
+        "Faro le masole a gagwe ba ne ba nyelela mo lewatleng",
+        "Molekane wa tshiamo o ne a tlhatlosediwa kwa magodimong",
+        "Kgosi ya bogateledi le motse wa yone di ne tsa menolwa tsa bo tsa senngwa ."
+      ],
+      "answer": "Mmusi mongwe yo o tlotlegang yo o neng a etile o ne a amogela tumelo morago ga go bona ditshupo"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

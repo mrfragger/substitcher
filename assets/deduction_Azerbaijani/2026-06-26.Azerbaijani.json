@@ -1,0 +1,61 @@
+{
+  "title": "Rədd Edilmiş Hədiyyənin Yükü",
+  "intro": "Bəşər tarixinin başlanğıcında, yer hələ gənc ikən və dünya ilk nəfəsini verəndə bir ruh Yaradanın qarşısında təvazökar bir qurbanla dayandı. Bu qurban ilahi qəbul tərəzisində çəkildi və lazımsız hesab edildi. Ardınca gələn bağışlama hekayəsi deyil, qısqanclıqla dolu bir ürəyin hekayəsi gəldi və bu, bütün zamanlarda əks-səda verəcək dönməz bir hərəkətə gətirib çıxardı. Bu, adı indiyə qədər törədilən ilk ağır ədalətsizliklə sinonimləşən birinin hekayəsidir.",
+  "clues": [
+    "Mən dünyaya ilk doğulan uşaqlardan biri, hekayəsini yaxşı bildiyiniz bir valideynin övladı kimi gəlmişəm.",
+    "Bir dəfə Allaha qurban kəsdim, amma qəbul edilmədi, baxmayaraq ki, qardaşımın qurbanı lütflə qəbul edildi.",
+    "Paxıllıq və qəzəb ürəyimdə kök saldı və öz qohumlarımın həyatına son qoymaqla hədələdim.",
+    "Qardaşım mənə Allahdan qorxmağımı xəbərdar etdi, amma qürurum qulaq asmağa imkan vermədi.",
+    "Dəhşətli bir zəiflik anında öz qardaşıma qarşı ağlasığmaz bir hərəkət etdim.",
+    "Sonradan, yer üzündə bir məxluq mənə öyrətməyə göndərilənə qədər etdiklərimi necə gizlədəcəyimi belə bilmirdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Qabil (Qabil)",
+        "Habil (Habil)",
+        "Nuh peyğəmbərin oğlu",
+        "Peyğəmbər İsmayıl",
+        "Yusif peyğəmbər"
+      ],
+      "answer": "Qabil (Qabil)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Rədd edilən bir qurban təqdim etmək və ilk qətlə səbəb olmaq",
+        "Göylərə çatmaq üçün hündür bir qüllə tikmək",
+        "İmanı uğrunda şiddətli bir oda atılmaq",
+        "Allaha itaət yolunda öz oğlunu qurban vermək",
+        "Vəzifəsindən qaçdığı üçün böyük bir balığın udması"
+      ],
+      "answer": "Rədd edilən bir qurban təqdim etmək və ilk qətlə səbəb olmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dəfn mərasimini nümayiş etdirmək üçün Allah tərəfindən göndərilən qarğa",
+        "Bütün bir xalqı boğan böyük bir sel",
+        "Canlı ilana çevrilən bir əsa",
+        "Qaya dağından çıxan dişi dəvə",
+        "Qüdrətli küləklərin daşıdığı möhtəşəm bir taxt"
+      ],
+      "answer": "Dəfn mərasimini nümayiş etdirmək üçün Allah tərəfindən göndərilən qarğa"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İlk törədilən cinayətin ağır yükü altında, peşmançılığa düçar oldum",
+        "Allah tərəfindən bağışlandı və əbədi Cənnətə layiq görüldü",
+        "Peyğəmbərlik və hikmət baxımından yüksək bir məqama yüksəldildi",
+        "Qaranlığın dərinliklərindən səsləndikdən sonra ilahi mərhəmətlə xilas oldu",
+        "Cinlər, külək və dənizlər üzərində hökmranlıq verildi"
+      ],
+      "answer": "İlk törədilən cinayətin ağır yükü altında, peşmançılığa düçar oldum"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

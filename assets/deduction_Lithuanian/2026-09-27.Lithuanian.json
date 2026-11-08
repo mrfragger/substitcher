@@ -1,0 +1,61 @@
+{
+  "title": "Sodas, kuris išnyko per naktį",
+  "intro": "Įsivaizduokite vešlų sodą, pilną nokstančių vaisių ir apsuptą aukštų medžių. Tie, kurie juo rūpinosi, laikė save protingais, planuodami derlių tyliomis valandomis prieš aušrą, atokiau nuo tų, kuriems to reikia, akių. Tačiau Tas, kuris niekada nemiega, turėjo kitų planų jų paslėptai labdarai. Ar galite atspėti, kas stovi už šios pamokančios istorijos iš Korano?",
+  "clues": [
+    "Kadaise turėjome tokį vešlų ir gausų sodą, kad jo pavydėjo visi praeiviai.",
+    "Planuodami anksti ryte, pašnibždėjome vienas kitam, pareikšdami, kad tą dieną jokia vargstanti siela nebus įleista į vidų.",
+    "Mes buvome turtingi žmonės, o mūsų širdys tapo aklos aplinkinių vargšų teisėms.",
+    "Kai atėjo mūsų numatyto derliaus aušra, priėjome prie savo sodo ir pamatėme, kad jis per naktį virto pajuodusiais griuvėsiais.",
+    "Pražūtingas dekretas nuvilnijo, palikdamas tik pelenus ten, kur kažkada kabojo prinokusių vaisių kekių.",
+    "Mūsų istorija yra griežtas įspėjimas, užrašytas Korane, kur esame žinomi kaip sodo savininkai, kurie nedavė išmaldos vargšams."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Sodo savininkai",
+        "Olos žmonės",
+        "Izos mokiniai",
+        "Miško palydovai",
+        "Ibrahimo svečiai."
+      ],
+      "answer": "Sodo savininkai"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Slapta nuimdamas vaisių derlių ir uždrausdamas vargšams patekti į namus",
+        "Miegoti šimtmečius oloje",
+        "Atsisakymas pagaminti kupranugarinę patelę iš akmens",
+        "Auksinio veršio garbinimas prie Sinajaus kalno",
+        "Didelės arkos statyba, kad išvengtų potvynio"
+      ],
+      "answer": "Slapta nuimdamas vaisių derlių ir uždrausdamas vargšams patekti į namus"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Aptvertas sodas, pilnas palmių ir vijoklių",
+        "Tamsus urvas giliai kalnuose",
+        "Miestą užklupo dieviškas uraganas",
+        "Šventas slėnis netoli Alacho namų",
+        "Tekančios upės krantai"
+      ],
+      "answer": "Aptvertas sodas, pilnas palmių ir vijoklių"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Sodas buvo sunaikintas deginančiu dangaus įsakymu",
+        "Jie ramiai miegojo 309 mėnulio metus",
+        "Juos sutraiškė akmenų lietus",
+        "Jie nuskendo po didelio potvynio bangomis",
+        "Juos išsklaidė šaltas, siautėjantis vėjas"
+      ],
+      "answer": "Sodas buvo sunaikintas deginančiu dangaus įsakymu"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

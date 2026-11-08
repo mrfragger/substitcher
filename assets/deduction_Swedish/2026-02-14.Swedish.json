@@ -1,0 +1,61 @@
+{
+  "title": "Byggaren av barriärer",
+  "intro": "Över vidsträckta länder gav sig en mäktig individ ut på en serie expeditioner, tilldelad enorm auktoritet och medel. Denna själ mötte olika samhällen och stod inför unika utmaningar, och lämnade ett bestående avtryck i historia och tro genom sina handlingar och visdom, samtidigt som de erkände den sanna källan till sin styrka.",
+  "clues": [
+    "Jag fick makt och resurser över allt, och jag följde en väg.",
+    "Min resa förde mig till solens nedgång, där jag fann ett folk.",
+    "Jag mötte ett samhälle som knappt kunde förstå tal, bosatt mellan två berg.",
+    "Jag blev ombedd att bygga en barriär, inte för personlig vinning, utan för att skydda mot en destruktiv kraft.",
+    "Jag förkunnade att styrkan att bygga denna massiva mur kom från Allah, och att den skulle stå kvar till en utlovad tid.",
+    "Mitt namn, ofta översatt som \"Den Tvåhornade\", betecknar min räckvidd över jorden eller kanske två distinkta epoker."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Sulayman",
+        "Dhul-Qarnayn",
+        "Farao",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att ta emot uppenbarelse",
+        "Att möta en tyrann",
+        "Att bygga ett stort skepp",
+        "Att bygga en mäktig barriär",
+        "Att bli uppslukad av en fisk"
+      ],
+      "answer": "Att bygga en mäktig barriär"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken",
+        "Personalen",
+        "Järnbarriären",
+        "Nilen",
+        "Tronen"
+      ],
+      "answer": "Järnbarriären"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Räddning från översvämningen",
+        "Att bli ett stort kungarike",
+        "Skydd för ett folk",
+        "Förstörelse av en förtryckare",
+        "Bestående visdom"
+      ],
+      "answer": "Skydd för ett folk"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

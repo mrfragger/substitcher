@@ -1,0 +1,61 @@
+{
+  "title": "Hlas, který zpochybnil vládu idola",
+  "intro": "Mezi posly Všemohoucího byl neochvějný služebník, který se uprostřed tvrdohlavého národa postavil, aby zvěstoval pravdu. Jejich lid přijal vymyšlené božstvo a odvrátil se od Stvořitele všeho, co existuje. S neochvějným odhodláním je tento jedinec povolal zpět – ale poselství se setkalo s popřením a odmítnutím. Projděte si stopy a odhalte, kdo byl tímto oddaným služebníkem.",
+  "clues": [
+    "Byl jsem poslán jako posel k zarputilému lidu, který se odchýlil od přímé cesty.",
+    "Přišel jsem, abych svému národu připomněl Toho, kdo stvořil vše, co existuje – nejlepšího ze všech stvořitelů.",
+    "Můj lid se obrátil k falešné modle, kterou uctíval a vzýval dnem i nocí.",
+    "Odvážně jsem je vyzval a zeptal se jich, proč by uctívali vymyšlené božstvo a opustili svého pravého Pána.",
+    "Zapírali mě, odmítali naslouchat a pevně se drželi své lži – a přece mě můj Pán ochránil.",
+    "Já jsem Ilyas – a byl mi udělen mír a byl jsem počítán mezi věřící služebníky Nejmilosrdnějšího."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Iljas",
+        "Prorok Idrís",
+        "Prorok Alyasa",
+        "Prorok Zul-Kifl",
+        "Prorok Nuh"
+      ],
+      "answer": "Prorok Iljas"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Odvolání lidu od uctívání Baala",
+        "Konfrontace s tyranem, který o sobě tvrdil, že je bůh",
+        "Varování lidí před hrozící povodní",
+        "Být vhozen do velkého planoucího ohně",
+        "Vedoucí exodus ze země otroctví"
+      ],
+      "answer": "Odvolání lidu od uctívání Baala"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Idol jménem Ba'al",
+        "Velká archa postavená z pevného dřeva",
+        "Hůl, která rozdělila rozlehlé moře",
+        "Posvátný oděv potřísněný krví",
+        "Hořící keř na svaté hoře"
+      ],
+      "answer": "Idol jménem Ba'al"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Udělen mír a počítán mezi vyvolené služebníky Alláha",
+        "Veden do ráje, zatímco všichni ostatní byli zničeni",
+        "Zachráněn z velkého požáru, který se stal chladným a bezpečným",
+        "Dána vláda nad džiny, lidstvem a větrem",
+        "Tělo uchováno jako trvalé znamení pro věky"
+      ],
+      "answer": "Udělen mír a počítán mezi vyvolené služebníky Alláha"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

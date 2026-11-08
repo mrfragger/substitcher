@@ -1,0 +1,61 @@
+{
+  "title": "Təbii Nizama Meydan Olan Millət",
+  "intro": "Əsrlər boyu hekayəsi əks-səda verən bir bölgədə bir icma təmizlik qanunlarına qarşı açıq üsyan içində yaşayırdı. Onların əməlləri o qədər misli görünməmiş idi ki, bütün bəşəriyyət üçün bir xəbərdarlıq kimi xatırlanır. Bu ruhlar kimlər idi və onları hansı aqibət gözləyirdi?",
+  "clues": [
+    "Biz səyahətçilərin tez-tez keçdiyi bir yolda yerləşən bir torpaqda yaşayırdıq, amma onların səyahətini təhlükəli etdik.",
+    "Biz elə iyrəncliklər etdik ki, aləmlərdə heç kim bunu etməmişdi.",
+    "Öz aramızdan bir elçi bizi dinimizdən dönməyə çağırdı, amma biz onu rədd etdik və əgər doğru danışırsa, əzab istədik.",
+    "Şəhərimizə yaraşıqlı qonaqlar gələndə, onların məhv elçiləri olduqlarını bilmədən onlara hücum etməyə çalışdıq.",
+    "Əgər əl çəkməsək, dəhşətli bir əzabla qarşılaşacağımız barədə xəbərdarlıq edildi, amma biz xəbərdarlığa istehza ilə yanaşdıq və günahlarımızda qaldıq.",
+    "Göydən başımıza daş yağışı yağdı və evlərimiz alt-üst oldu, düşünənlər üçün yalnız bir əlamət olaraq bir əsər-əlamət qoyduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Lut qövmü",
+        "Səmud xalqı",
+        "Ad xalqı",
+        "Mədyən xalqı",
+        "Səba xalqı"
+      ],
+      "answer": "Lut qövmü"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Görünməmiş əxlaqsızlıq etdi və yolları bağladı",
+        "Qızıl buzova ibadət etdi",
+        "Müqəddəs dişi dəvəni öldürdü",
+        "Ticarətdə fırıldaqçılıq etdi və xalqı əskiltdi",
+        "Göylərə meydan oxumaq üçün uca bir qüllə tikdi"
+      ],
+      "answer": "Görünməmiş əxlaqsızlıq etdi və yolları bağladı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Mələklər yaraşıqlı qonaqlar kimi gizləndilər",
+        "Qayadan çıxan dişi dəvə",
+        "İlana çevrilən əsa",
+        "Dağda tikilmiş qayıq",
+        "Sərin və dinc bir atəş"
+      ],
+      "answer": "Mələklər yaraşıqlı qonaqlar kimi gizləndilər"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Göydən yağan daş yağışı ilə məhv edildi",
+        "Torpaq tərəfindən udulmuş",
+        "Böyük bir daşqında boğuldu",
+        "Qışqırıq səsi ilə vurulub",
+        "Meymunlara çevrildi"
+      ],
+      "answer": "Göydən yağan daş yağışı ilə məhv edildi"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

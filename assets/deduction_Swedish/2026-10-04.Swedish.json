@@ -1,0 +1,61 @@
+{
+  "title": "Bördan som gav läkning",
+  "intro": "En själ prövad utom all gräns berövades all tröst, all följeslagare och all fysisk styrka. Isolerad i djup lidande vände sig denna Allahs tjänare endast till det Gudomliga. Genom orubbligt tålamod och innerlig bön kom en flodvåg av barmhärtighet som överträffade all förväntan. Vem är denna gestalt vars hängivenhet öppnade en dörr till återupprättelse?",
+  "clues": [
+    "Jag var en gynnad tjänare till Allah och åtnjöt överflöd, ett blomstrande hushåll och god hälsa under mina dagar.",
+    "Sedan kom en prövning: rikedom försvann, nära och kära gick bort, och mitt eget kött drabbades av svår plåga.",
+    "De som stod mig nära kunde inte uthärda mitt tillstånd, och jag lämnades isolerad, min kropp plågad av lidande.",
+    "Jag åkallade min Herre och förkunnade att Satan hade berört mig med utmattning och straff.",
+    "Svaret kom – en befallning att slå i marken med foten, och från den vällde fram kallt vatten till läkning.",
+    "Min Herre tog bort all svårighet och återställde min familj, mångfaldigad, som ett tecken på barmhärtighet för dem som reflekterar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Ayyub",
+        "Profeten Musa",
+        "Profeten Yusuf",
+        "Profeten Yunus",
+        "Profeten Ibrahim"
+      ],
+      "answer": "Profeten Ayyub"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Svår sjukdom och förlust av alla",
+        "Kastad i eld på en tyranns befallning",
+        "Fängslad i en djup grop av släktingar",
+        "Slukad av en stor fisk till sjöss",
+        "Vandrande i exil från hemlandet"
+      ],
+      "answer": "Svår sjukdom och förlust av alla"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Den svala källan som vällde upp ur marken",
+        "Den svala och fridfulla elden",
+        "Arken vilar på ett berg",
+        "Staven som delade havet",
+        "Korgen som flyter på floden"
+      ],
+      "answer": "Den svala källan som vällde upp ur marken"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Familj och välsignelser återställda, fördubblade",
+        "Slapp undan den brinnande elden oskadd",
+        "Steg till det högsta ämbetet i ett kungarike",
+        "Kom ut ur en stor fisks mage i säkerhet",
+        "Ledde ett folk genom ett delat hav"
+      ],
+      "answer": "Familj och välsignelser återställda, fördubblade"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

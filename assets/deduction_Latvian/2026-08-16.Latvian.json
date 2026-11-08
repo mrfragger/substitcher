@@ -1,0 +1,61 @@
+{
+  "title": "Klusā balss palātā",
+  "intro": "Sensenos laikos svētās telpas klusumā atskanēja lūgšana, kas pacēlās no novecojošas dvēseles, kura ilgojās pēc tā, ko pasaule bija pasludinājusi par neiespējamu. Šī figūra, gados veca un apgrūtināta ar raizēm par nākotni, vērsās pie sava Kunga ar personīgu lūgumu. Sekoja dievišķa atbilde, kas pārspēja visas dabiskās cerības – apliecinājums Tā žēlastībai, kurš atbild uz izmisuma aicinājumu.",
+  "clues": [
+    "Es klusībā piesaucu savu Kungu, atkāpjoties istabā, kur veltīju sevi Viņa pielūgsmei.",
+    "Es atzinos savam Kungam, ka baidos par tiem, kas nāks pēc manis, un uztraucos par savas tautas vadību pēc aiziešanas.",
+    "Vecums mani bija pārņēmis — mani kauli bija kļuvuši vāji, un sirmi mati bija izpletušies pāri galvai.",
+    "Mana dzīvesbiedre visu savu dzīvi bija bijusi neauglīga, tomēr es tomēr lūdzu savam Kungam, lai Viņš man dāvā mantinieku no Viņa paša klātbūtnes.",
+    "Es lūdzu zīmi, un mans Kungs atbildēja, neļaujot man runāt ne ar vienu trīs naktis, kamēr es paliku fiziski vesels.",
+    "Man tika apsolīts dēls, kura vārds būs Jahja, vārds, ko mans Kungs pasludināja, nevienam iepriekš nebija dots."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Zakarija",
+        "Pravietis Nuhs",
+        "Pravietis Musa",
+        "Pravietis Jusufs",
+        "Pravietis Davuds"
+      ],
+      "answer": "Pravietis Zakarija"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lūgšana par mantinieku vecumdienās ar neauglīgu dzīvesbiedru",
+        "Tiekot iemests liesmojošā ugunī",
+        "Tikt aprītam lielas zivs tumsā",
+        "Pārciest ģimenes, bagātības un veselības zaudējumu",
+        "Saņemot pavēli uzbūvēt lielu šķirstu"
+      ],
+      "answer": "Lūgšana par mantinieku vecumdienās ar neauglīgu dzīvesbiedru"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Lūgšanu kambaris (mihrabs)",
+        "Personāla, kas pārvērtās par čūsku",
+        "Liela koka šķirsta",
+        "Dārzs ar unikālu avotu",
+        "Kalns, kur pulcējās putni"
+      ],
+      "answer": "Lūgšanu kambaris (mihrabs)"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Brīnumainā kārtā nosaukts dēls, neskatoties uz ārkārtīgi lielo vecumu",
+        "Izglābts no liesmojošas uguns ar dievišķu pavēli",
+        "Lieli plūdi iznīcināja neticīgos",
+        "Pēc pacietības atjaunota ģimene, bagātība un veselība",
+        "Faraons un viņa armija noslīka jūrā"
+      ],
+      "answer": "Brīnumainā kārtā nosaukts dēls, neskatoties uz ārkārtīgi lielo vecumu"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Slib nenarozených",
+  "intro": "Upřímná duše dala posvátný slib před narozením dítěte. Příběh této postavy se odehrává ve zdech svatyně, kde se oddanost setkává s božským přijetím. Kdo je tento služebník Alláha?",
+  "clues": [
+    "Patřil jsem do rodiny ctěné v Koránu.",
+    "Složila jsem slavnostní slib, že zasvětím své nenarozené dítě službě Alláhovi.",
+    "Když jsem porodila, byla jsem překvapená, když jsem zjistila, že je to dcera, i když jsem čekala syna.",
+    "Své dítě jsem pojmenovala Marjam, jméno, které odráží oddanost a službu.",
+    "Žádal jsem Alláha o ochranu pro své dítě a její potomky před prokletým Satanem.",
+    "Mé dítě bylo přijato Pánem a svěřeno do péče proroka Zakariyi ve svatyni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Manželka Imrana (matka Maryam)",
+        "Asiya, manželka faraona",
+        "Maryam, matka Isy",
+        "Matka proroka Musy",
+        "Královna ze Sáby"
+      ],
+      "answer": "Manželka Imrana (matka Maryam)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Slibuje, že zasvětí své dítě chrámu",
+        "Být vhozen do ohně",
+        "Překročení moře po suché zemi",
+        "Stavba velké archy",
+        "Být spolknut velkou rybou"
+      ],
+      "answer": "Slibuje, že zasvětí své dítě chrámu"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Svatyně (mihrab), kde bylo uloženo její dítě",
+        "Archa úmluvy",
+        "Zlaté tele",
+        "Hůl, která se proměnila v hada",
+        "Datlovou palmu, pod kterou odpočívala"
+      ],
+      "answer": "Svatyně (mihrab), kde bylo uloženo její dítě"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Její dítě bylo přijato a svěřeno do péče proroka Zakariyi.",
+        "Byla zachráněna před trestem tyrana",
+        "Dostala syna jménem Yahya",
+        "Její lid byl zničen bouří",
+        "Stala se královnou nad velkým královstvím"
+      ],
+      "answer": "Její dítě bylo přijato a svěřeno do péče proroka Zakariyi."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

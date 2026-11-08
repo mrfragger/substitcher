@@ -1,0 +1,61 @@
+{
+  "title": "loxo yu alku",
+  "intro": "Yaa ngi taxaw ci mbedd yu xawa jaxasoo yi ci Makkah, di barab bu nit ku am doole ak alal daa musa bàyyi wootu dëgg. Jaar-jaaru nit kii daf nuy fàttali ni lëkkaloo deret mënul daaneel buum gi. Kan mooy ki turam di yegg ci safara jiy xaar?",
+  "clues": [
+    "Maa ngi dox ci mbeddi Màkka ak mbégte bu ma lëndëmloo ci dëgg, doonte ndaw si sama deret la bokk.",
+    "Samay moomeel bariwoon nañu lool, waaye nekkul woon luy mbugal, nekkul luy may sama bopp.",
+    "Téere tegtal bi dafay wax ci sama yàqu-yàqu, di wax ni samay loxo ak sama yaram dina ñu ñàkk.",
+    "Sama jabar dugg na ci sama kàmpaañu noonte, dajale dég ngir tasaare ko ci yoonu kiy woo Yàlla.",
+    "Bisu àtte ba, dina ñu ma dugal ci safara gu tàng, te sama jabar dina am buum bu ñu defaree fibre palme ci baat bi.",
+    "Ñu xamee ma ci tur wuy tekki 'baay xal' — tur wuy wax sama dëkkuwaay ba fàww."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Taalib",
+        "Abu Sufayan",
+        "Al walid ibn al mugiira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Jàngat bu am solo wala xew-xew",
+      "options": [
+        "Dafa bañ Yonent bi, ñu alku ko ci Al Quran",
+        "Jiite woon ab soldaar ngir daaneel Kaaba gi",
+        "Di jéema ray yonent bi ci sànni ay xeer",
+        "Bañ gëm ni weer wi dafay xaajaloo",
+        "Tabax ab tour buy yegg ci asamaan si"
+      ],
+      "answer": "Dafa bañ Yonent bi, ñu alku ko ci Al Quran"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Safara suy tàkk ci jahannama",
+        "Staff de Musa",
+        "Gaalu Nuh",
+        "Teenu Zamzam",
+        "Naat bu wurus bi"
+      ],
+      "answer": "Safara suy tàkk ci jahannama"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Dana dugg ci safara su tàng, te alalam du ko jariñ.",
+        "Mu tuub bàkkaar yi, gëm .",
+        "Ñu baal ko ginaaw bimu bañee",
+        "Dee na ni martyr",
+        "Dañu ko yéege ci asamaan"
+      ],
+      "answer": "Dana dugg ci safara su tàng, te alalam du ko jariñ."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

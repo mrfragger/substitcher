@@ -1,0 +1,61 @@
+{
+  "title": "Závisť, ktorá pohltila",
+  "intro": "Príbeh starší ako akékoľvek kráľovstvo či písmo – prvá ľudská tragédia zrodená zo žiarlivosti. Jedna duša, staršia z dvoch detí narodených prvým rodičom, s hnevom sledovala, ako mladší súrodenec dostáva priazeň, ktorá mu bola odopretá. Nasledovalo najtemnejšie rozhodnutie, ktoré zanechalo po sebe prvú krv preliatu na zemi. Dokážete odhaliť identitu, skúšku a trpkú ľútosť?",
+  "clues": [
+    "Narodil som sa z úplne prvého páru ľudí, ktorí chodili po zemi.",
+    "Raz som priniesol obetu Alahovi, ale nebola odo mňa prijatá.",
+    "Ponuka môjho súrodenca bola prijatá, zatiaľ čo moja bola odmietnutá – niečo, čo som nemohol zniesť.",
+    "Vyhrážal som sa vlastnému bratovi zničením.",
+    "Stal som sa prvým, kto spáchal vraždu na tejto zemi, vzal som život vlastnému súrodencovi.",
+    "Alah poslal tvora zeme – čierneho vtáka, ktorý sa hrabe v zemi – aby ma naučil, ako skryť, čo som urobil, a mne nezostalo nič iné ako ľútosť."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Ábel)",
+        "Prorok Jakub",
+        "Prorok Músa",
+        "Prorok Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Obeť odmietnutá Alahom",
+        "Hodený do veľkého ohňa",
+        "Opustený ako dieťa v rieke",
+        "Skúšaný nesmiernym kráľovstvom",
+        "Prikázané obetovať vlastného syna"
+      ],
+      "answer": "Obeť odmietnutá Alahom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Vrana poslaná Alahom",
+        "Zlaté teľa",
+        "Archa na vrchu",
+        "Horiaci ker",
+        "Ťava vytesaná zo skaly"
+      ],
+      "answer": "Vrana poslaná Alahom"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Naplnila ma ľútosť a patrila medzi porazených",
+        "Pohltené zemou spolu s pokladmi",
+        "Stal sa vznešeným poslom Alaha",
+        "Vstúpil do raja skrze Božie milosrdenstvo",
+        "Vládol nad bezkonkurenčným kráľovstvom"
+      ],
+      "answer": "Naplnila ma ľútosť a patrila medzi porazených"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

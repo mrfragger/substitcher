@@ -1,0 +1,61 @@
+{
+  "title": "Nkwa E Kwuru Banyere Ọkụ Ọkụ",
+  "intro": "I guzoro n'akụkụ ọkụ ọzara ka e ji nlezianya gbasaa ire ọkụ ya. Ndị ọbịa bịara izute gị n'ebe dị jụụ, otu ozi wee malite akụkọ nkwa, ihe ijuanya, na ọdịnihu nke na-emezubeghị.",
+  "clues": [
+    "Anyị gafere ebe dị anya iji ruo otu ohu kwesịrị ntụkwasị obi n'ọzara.",
+    "Anyị rịọrọ ka e gbasaa ire ọkụ iji kwadebe ọkụ.",
+    "Anyị na otu onye kpọrọ oku ka ọ jụọ oyi na nchekwa okwu.",
+    "Anyị webatara ozi gbasara nwa amụrụ ọhụrụ nye onye gaferela afọ ịmụ ụmụ.",
+    "Anyị kpọrọ nwa ahụ e kwere ná nkwa aha bụ́ Aịzik.",
+    "Anyị wetara Abraham ozi ọma gbasara otu nwa nwoke, ozi dị ịtụnanya ahụ mekwara ka Ibrahim chịa ọchị."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Ndị Mmụọ Ozi Ndị Wetara Abraham Ozi Ọma Banyere Aịzik",
+        "Ndị Mmụọ Ozi Bụ́ Ndị Dọrọ Lọt Aka ná Ntị",
+        "Ndị Mmụọ Ozi Na-ebu Ocheeze",
+        "Ndị Mmụọ Ozi nke Hel",
+        "Ndị Mmụọ Ozi E Zigara Noa"
+      ],
+      "answer": "Ndị Mmụọ Ozi Ndị Wetara Abraham Ozi Ọma Banyere Aịzik"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Na-ewetara Abraham ozi ọma gbasara ọmụmụ Aịzik",
+        "Ịdọ aka ná ntị Lut tupu a taa ndị ya ahụhụ",
+        "Ịkpọsa ọmụmụ Yahya nye Zakariyya",
+        "Ibu Ocheeze n'Ụbọchị Ikpe",
+        "Ịkpọsa ọmụmụ Isa nye Meri"
+      ],
+      "answer": "Na-ewetara Abraham ozi ọma gbasara ọmụmụ Aịzik"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ọkụ e ji ire ọkụ gbasaa kwadebe",
+        "Ụgbọ mmiri na-ese n'elu mmiri idei mmiri",
+        "Ọgba e ji nkume a na-atụgharị atụgharị mechie",
+        "Ugwu ụrọ nke mmiri mmiri siri ike",
+        "Ubube nke na-agbasa n'eluigwe"
+      ],
+      "answer": "Ọkụ e ji ire ọkụ gbasaa kwadebe"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Ozi ọma gbasara nwa nwoke aha ya bụ Aịzik",
+        "Ozi ọma gbasara nwa nwoke aha ya bụ Yahya",
+        "Nhọpụta Talut dị ka onye ọchịchị n'elu ụmụ Izrel",
+        "Ịdọ aka ná ntị tupu ntaramahụhụ nke ndị Lọt",
+        "Iwu e nyere ka e wuo ụgbọ tupu Iju Mmiri ahụ"
+      ],
+      "answer": "Ozi ọma gbasara nwa nwoke aha ya bụ Aịzik"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

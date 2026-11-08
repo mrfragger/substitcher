@@ -1,0 +1,61 @@
+{
+  "title": "Stridens frö",
+  "intro": "Innan världen upplevde utbredda konflikter utspelade sig ett djupt prövande av tro och lydnad. Denna berättelse utforskar de val som görs av en individ, vars handlingar skapar ett prejudikat för kommande generationer. Förbered dig på att nysta upp berättelsen om en själ som brottas med enorm svartsjuka och dess förödande konsekvenser.",
+  "clues": [
+    "Jag var bland de första avkommorna som vandrade på jorden, ett barn till det allra första människoparet.",
+    "Min bror och jag beordrades att offra till Allah, ett test på vår uppriktighet.",
+    "Mitt offer accepterades inte, medan min brors blev det, vilket fyllde mitt hjärta med en fruktansvärd känsla.",
+    "Jag uttalade hotfulla ord till min bror, driven av bitterheten över att bli avvisad.",
+    "Min bror svarade med visdom och fromhet och påminde mig om Allahs rättvisa och fruktan för Honom.",
+    "Trots min brors vänliga ord och hans villighet att förlåta tog jag ett liv och blev en av förlorarna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Adam",
+        "Iblis",
+        "Profeten Nuh",
+        "Qabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Den stora översvämningen",
+        "Havets delning",
+        "Byggandet av Kaba",
+        "Offrandet av offer",
+        "Frestelsen i trädgården"
+      ],
+      "answer": "Offrandet av offer"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken",
+        "Personalen",
+        "Safaberget",
+        "Offret",
+        "Den brinnande busken"
+      ],
+      "answer": "Offret"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev en budbärare",
+        "Drunknade",
+        "Byggde ett stort kungarike",
+        "Blev ett exempel på ånger",
+        "Blev tilldelad en enorm rikedom"
+      ],
+      "answer": "Blev ett exempel på ånger"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

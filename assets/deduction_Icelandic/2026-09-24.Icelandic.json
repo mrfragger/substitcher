@@ -1,0 +1,61 @@
+{
+  "title": "Drottininn sem krafðist guðdómleika",
+  "intro": "Valdasamur og hrokafullur stjórnandi trúði því að enginn gæti æðst hásæti hans. Þeir eltu flóttahóp yfir víðáttumikið vatn, en endaði með dramatískum hætti. Saga þessa þjóðhöfðingja endurómar í mörgum köflum Kóransins og þjónar sem viðvörun til allra.",
+  "clues": [
+    "Ég var öflugur stjórnandi sem trúði því að ekkert vald væri fremra mínu eigin í þeim löndum sem ég stjórnaði.",
+    "Ég átti traustan vesír að nafni Haman sem hjálpaði mér að framkvæma stór byggingarverkefni.",
+    "Ég kallaði saman bestu töframenn lands míns til að véfengja tákn sendiboða sem var á móti mér.",
+    "Ég neitaði að leyfa fólki sem var hneppt í þrældóm innan ríkis míns að fara, þrátt fyrir plágur og skýrar viðvaranir.",
+    "Ég elti þá yfir víðáttumikið haf með öllum her mínum og vögnum.",
+    "Þetta sama haf lokaðist yfir mig og herlið mitt og drukknaði okkur öllum á meðan þeir fóru heilu og höldnu yfir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fir'awn (Faraó)",
+        "Namrud",
+        "Abú Lahab",
+        "Haman",
+        "Abú Jahl"
+      ],
+      "answer": "Fir'awn (Faraó)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Plágur og átök við Músa (Móse)",
+        "Að smíða örk fyrir mikla flóðið",
+        "Bardaginn gegn Jalut í dalnum",
+        "Að vera gleypt af hval",
+        "Að verja heiðarleg viðskiptavog"
+      ],
+      "answer": "Plágur og átök við Músa (Móse)"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Háir turnar og staurar",
+        "Stór örk úr tré",
+        "Gullkálfur",
+        "Stafurinn sem breyttist í höggorm",
+        "Risavaxinn hvalur"
+      ],
+      "answer": "Háir turnar og staurar"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Drukknaði í sjónum með hernum",
+        "Bjargað af miskunn Allah og þolinmæði sem verðlaunuð var",
+        "Sameinuð fjölskyldunni á ný eftir ára erfiðleika",
+        "Gleypt af jörðinni",
+        "Brann í eldi"
+      ],
+      "answer": "Drukknaði í sjónum með hernum"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

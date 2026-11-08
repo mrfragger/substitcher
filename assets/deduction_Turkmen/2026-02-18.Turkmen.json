@@ -1,0 +1,61 @@
+{
+  "title": "Berk Şahad",
+  "intro": "Çuňňur hekaýa açylýar we ägirt uly zulumyň öňünde jemgyýetiň üýtgewsiz tutanýerliligini açyp görkezýär. Olaryň hekaýasy, hatda iň soňky pida bilen ýüzbe-ýüz bolanda-da, ynamyň subutnamasy bolup hyzmat edýär. Bu hekaýa bize ynamyň güýçli zuluma garşy güýjüni ýatladýar.",
+  "clues": [
+    "Biz gysga we täsirli sürede beýan edilýän we yzarlamalara garşy duýduryş berýän topardyk.",
+    "Biz Arşyň eýesi, öwgä mynasyp bolan ýeke-täk Hudaýa bolan ynanjymyzy ýok etmek isleýän hökümdar bilen ýüzbe-ýüz bolduk.",
+    "Biz ýere gazylan ägirt uly çukur bilen baglanyşykly elhenç synaga sezewar bolduk.",
+    "Biz imanlylaryň, şol sanda bäbekleriň, şol çukuryň içinde gaharly dowzaha taşlanýandygyny gördük.",
+    "Bizi jebirleýänler eden işleri üçin näletlendiler, bize bolsa çydamlylygymyz üçin ägirt uly sylag wada berildi.",
+    "Hökümdaryň biziň imanymyzy ýok etmek synanyşygy, ähli zada şaýat bolan Allanyň huzurynda şehit hökmünde biziň ornumyzy has-da berkitdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Semud halky",
+        "Ad halky",
+        "Arykdaky adamlar",
+        "Lut pygamberiň halky",
+        "Pilleriň halky"
+      ],
+      "answer": "Arykdaky adamlar"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Beýik Tufany",
+        "Ýanýan Çala",
+        "Deňizde Gark Bolmak",
+        "Otly Çukur",
+        "Ýer titremesi"
+      ],
+      "answer": "Otly Çukur"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Sandyk",
+        "Işgärler",
+        "Aryk",
+        "Dag",
+        "Guýu"
+      ],
+      "answer": "Aryk"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Patyşalyk berildi",
+        "Bir möjüze bilen halas boldular",
+        "Şehitlige we Jennete ýetdi",
+        "Ýerlere ýaýrapdyrlar",
+        "Olara ägirt uly baýlyk berildi"
+      ],
+      "answer": "Şehitlige we Jennete ýetdi"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

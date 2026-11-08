@@ -1,0 +1,61 @@
+{
+  "title": "A Szent Völgyből érkező hívás",
+  "intro": "A történelem lapjain túl egy lélek története húzódik meg, aki egy hatalmas uralkodó és egy egész rabszolgasorba taszított nép között állt. Ezt a személyt arra kérték, hogy szabadítson meg egy nemzetet a zsarnokságtól, csodákat téve véghez, amelyek minden természeti törvényt felülmúltak. Egy szent hegytől a vizeken tett csodákig, Allah szolgája olyan jeleknek volt tanúja, amelyek korokon át visszhangoznak majd. A mai feladatod az, hogy azonosítsd ezt a figyelemre méltó személyiséget, akinek öröksége alakította az emberiség történelmének menetét.",
+  "clues": [
+    "Egy olyan időszakban születtem, amikor népem halálos ítélettel nézett szembe, és a családom vízbe helyezett, hogy megmentse az életemet.",
+    "Annak az uralkodónak a házában találtak és nőttem fel, aki elrendelte a fajtám halálát.",
+    "Egy szent hegyre menekültem, ahol tüzet láttam egy el nem égett fán, és egy hang szólt hozzám onnan.",
+    "Csodákkal küldtek vissza ehhez az uralkodóhoz, követelve rabszolgasorba taszított népem szabadságát.",
+    "Bottal csaptam a tengerre, és az száraz ösvényekre vált szét, elnyelve népemet üldözőket.",
+    "Negyven éjszakán át beszélgettem az Urammal egy hegyen, és isteni útmutatást adó táblákat kaptam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes próféta",
+        "Harun próféta",
+        "Ibrahim próféta",
+        "Juszuf próféta",
+        "Dawud próféta"
+      ],
+      "answer": "Mózes próféta"
+    },
+    "trial": {
+      "label": "A meghatározó próbatételem",
+      "options": [
+        "A tenger kettéválása",
+        "A Nagy Bárka építése",
+        "Próbatétel lángoló tűz mellett",
+        "Bálna gyomrában való bezártság",
+        "Egy egyiptomi tisztviselő bebörtönzése"
+      ],
+      "answer": "A tenger kettéválása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Pásztorbot",
+        "Egy nagy fa bárka",
+        "Egy barlang, ahol az idő aludt",
+        "Két forrással rendelkező kert",
+        "Arannyal díszített trón"
+      ],
+      "answer": "Pásztorbot"
+    },
+    "outcome": {
+      "label": "Az eredmény",
+      "options": [
+        "Népem átkelt a tengeren, hogy biztonságba jusson",
+        "Egy nagy árvíz elpusztította a hitetleneket",
+        "Egy zsarnok tüze hűvössé és békéssé vált",
+        "A tenger partra vetette foglyát",
+        "A fogoly Egyiptom kincstárnokává vált"
+      ],
+      "answer": "Népem átkelt a tengeren, hogy biztonságba jusson"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

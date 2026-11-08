@@ -1,0 +1,61 @@
+{
+  "title": "Anima Innominata Quae Contra Nationem Iniustam Stetit",
+  "intro": "In paginis Corani, personae inveniuntur quarum nomina occultata sunt ut de eorum praeceptis meditare possimus. Una talis anima nata est in gente quae nuntios suos reiecerat, tamen hic homo fidem occultam possidebat quae eos separabat. Cum clades immineret, hic homo in secreta sua fide firmiter stetit. Potesne identitatem huius personae mysteriosae quae populum suum monet antequam decretum finale feratur, detegere?",
+  "clues": [
+    "Vixi inter populum qui nuntios ab Allah ad eos missos iterum atque iterum negaverat.",
+    "Dissimilis genti meae, veritatem agnovi cum nuntius advenit cum signis claris a Domino meo.",
+    "Fidem meam ab oppressoribus meis celavi, sciens eos mihi nocere si fidem meam detegerent.",
+    "Cum supplicii imperium appropinquaret, palam fidem meam professus sum et meos monui ut se servarent.",
+    "Eis admonui me esse nuntium fidum, non dissimilem ab iis qui ante missi sunt, et ne aliud colant quam Deum.",
+    "Mei homines me magiae et insaniae accusaverunt, tamen poena de qua moniti erant eos tandem adsecuta est."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Hud, nuntius ad populum Aad",
+        "Vir fidelis e gente prophetae Hud qui martyrium passus est",
+        "Princeps populi Aad qui veritatem repudiavit",
+        "Socius Prophetae Salih qui de signis divinis dubitabat",
+        "Angelus missus ad populum Aad delendum"
+      ],
+      "answer": "Vir fidelis e gente prophetae Hud qui martyrium passus est"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Experimentum siccitatis et famis quod patientiam eorum probavit",
+        "Iudicium fidei declarandae coram gente incredula et oppressante",
+        "Conatus navis construendae ad magnum diluvium effugendum",
+        "Experimentum in ignem coniciendi propter fidem in Allah",
+        "Experimentum divitiarum et prosperitatis"
+      ],
+      "answer": "Iudicium fidei declarandae coram gente incredula et oppressante"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Urbs Meccae ubi sacra domus aedificata est",
+        "Deserti campi gentis quae nuntium suum negavit",
+        "Montes Madian ubi propheta Shu'aib missus est",
+        "Ripa fluminis Aegypti ubi propheta Musa inventus est",
+        "Vallis populi Aad, vento vehementi percussa"
+      ],
+      "answer": "Deserti campi gentis quae nuntium suum negavit"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In navi servatus sum et vixi donec Deus voluerit.",
+        "Populus meus post me credidit et ad viam rectam ductus est.",
+        "A populo meo occisus sum, sed anima mea misericordia Dei ablata est.",
+        "Post tentationem paenitentiam egi et Deus paenitentiam meam accepit.",
+        "Post mortem meam in idolum a populo meo adoratum transformatus sum"
+      ],
+      "answer": "A populo meo occisus sum, sed anima mea misericordia Dei ablata est."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nähtamatu hääl",
+  "intro": "Jumaliku suhtluse annaalides paistab silma tegelane, kelle lugu on põimitud imeliste märkide ja vankumatu usuga. See inimene sai ainulaadse ilmutuse, mis seadis kahtluse alla tolleaegsed normid, rääkides tavapärase taju loori tagant. Nende sõnum ei tulnud mitte tavapäraste vahenditega, vaid sügava ühenduse kaudu, mis trotsis inimlikku arusaama, kutsudes inimesi üles ära tundma tõde ootamatutel viisidel. Selle Allahi teenri teekond on tunnistuseks sellest, kuidas juhatus võib avalduda kõige erakordsemates olukordades, kutsudes üles mõtisklema ilmutuse enda olemuse üle.",
+  "clues": [
+    "Mulle anti sõnum, mis tuli salapärase hääle kaudu nähtamatust allikast.",
+    "Mu rahvas lükkas mu sõnumi esialgu tagasi, nõudes minu tõesuse kohta tavapärasemaid tõendeid.",
+    "Ma esitasin neile väljakutse toota midagi sarnast sellele, mille mina olin saanud, aga nad ei suutnud.",
+    "Minu toodud ilmutust kirjeldati selgete salmidena, mis tegid tõe ilmsiks.",
+    "Ma hoiatasin oma rahvast ränga karistuse eest, kui nad jätkavad oma uskmatust ja ülbust.",
+    "Minu lugu on mainitud koos teiste sõnumitoojatega suuras, mis rõhutab Allahi väe märke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Hud",
+        "Prohvet Salih",
+        "Prohvet Šu'ayb",
+        "Fir'awni perekonnast pärit usklik",
+        "Prohvet Musa"
+      ],
+      "answer": "Prohvet Salih"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Tulisse ahju heidetud",
+        "Türanliku valitseja rõhumisega silmitsi seismine",
+        "Emase kaameli esilekutsumine imelise märgina",
+        "Suure üleujutuse üleelamine",
+        "Merre heidetud rinnus"
+      ],
+      "answer": "Emase kaameli esilekutsumine imelise märgina"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tuwa org",
+        "Madyani linn",
+        "Thamudi maa",
+        "Fir'awni kohus",
+        "Hira koobas"
+      ],
+      "answer": "Thamudi maa"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "answer": "Mu rahvas hävitati imelise emase kaameli tapmise pärast",
+      "options": [
+        "Mu rahvas parandas meelt ja päästeti",
+        "Mind viidi elusalt taevasse",
+        "Mu rahvas hävitati imelise emase kaameli tapmise pärast",
+        "Minust sai suur valitseja",
+        "Mind päästeti laeva panemisega"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

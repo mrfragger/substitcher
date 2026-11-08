@@ -1,0 +1,61 @@
+{
+  "title": "Avunden som förtärde",
+  "intro": "En berättelse äldre än något kungarike eller någon skrift – den första mänskliga tragedin född ur svartsjuka. En själ, den äldsta av två barn födda av de första föräldrarna, såg i raseri på när ett yngre syskon fick en ynnest som nekades. Det som följde var det mörkaste av val, och lämnade efter sig det första blodet som någonsin utgjutits på jorden. Kan du avslöja identiteten, prövningen och den bittra ångern?",
+  "clues": [
+    "Jag föddes av det allra första människoparet som vandrade på jorden.",
+    "Jag gjorde en gång ett offer till Allah, men det accepterades inte från mig.",
+    "Mitt syskons offer accepterades, medan mitt avvisades – något jag inte kunde bära.",
+    "Jag hotade min egen bror med förintelse.",
+    "Jag blev den förste att begå mord på denna jord och tog livet av mitt eget syskon.",
+    "Allah sände en jordisk varelse – en svart fågel som grävde i marken – för att lära mig hur jag skulle dölja vad jag hade gjort, och jag lämnades med ingenting annat än ånger."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Profeten Yaqub",
+        "Profeten Musa",
+        "Profeten Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Offergåva avvisad av Allah",
+        "Kastad i en stor eld",
+        "Övergiven som spädbarn i en flod",
+        "Testad med ett enormt kungarike",
+        "Befalldes att offra sin son"
+      ],
+      "answer": "Offergåva avvisad av Allah"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Kråkan sänd av Allah",
+        "Guldkalven",
+        "Arken på berget",
+        "Den brinnande busken",
+        "Honkamelen uthuggen ur sten"
+      ],
+      "answer": "Kråkan sänd av Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev fylld av ånger och bland förlorarna",
+        "Slukad i jorden tillsammans med skatter",
+        "Blev en ädel budbärare från Allah",
+        "Inträdde i paradiset genom gudomlig barmhärtighet",
+        "Styrde över ett oöverträffat kungarike"
+      ],
+      "answer": "Blev fylld av ånger och bland förlorarna"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

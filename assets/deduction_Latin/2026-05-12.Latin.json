@@ -1,0 +1,61 @@
+{
+  "title": "Auctoritas Inflexibilis",
+  "intro": "Per terras antiquas, olim auctoritas potens vigebat, immensis opibus et innumerabilium hominum vitas regens. Signis et monitis perspicuis non obstantibus, hic princeps viam contumaciae elegit, ad gravem contentionem ducens quae per tempus resonaret.",
+  "clues": [
+    "Potestatem et auctoritatem summam super vastum regnum vindicavi.",
+    "Humilem nuntium a Domino omnium regnorum missos provocavi.",
+    "Meus populus notus erat ob peritiam magnarum structurarum et fluminis quod civilizationem nostram sustentabat.",
+    "Multa signa miraculosa testis fui, inter quae baculum in serpentem conversum et manum fulgentem.",
+    "Recusavi ne coetum servorum terra mea relinquere permitterem, divina mandata contra.",
+    "Persecutio mea abeuntis populi me exercitusque meos in cor maris divisi duxit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Iosue",
+        "Rex Talut",
+        "Fir'awn (Pharao)",
+        "Propheta Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Pharao)"
+    },
+    "trial": {
+      "label": "Clavis Conflictus",
+      "options": [
+        "Diluvium quod terram obruit",
+        "Maris divisio",
+        "Rubus ardens",
+        "Constructio Kaabae",
+        "Destructio a vento valido"
+      ],
+      "answer": "Maris divisio"
+    },
+    "location": {
+      "label": "Aspectus Definiens",
+      "options": [
+        "Animal loquens",
+        "Baculus et manus lucens",
+        "Nativitas mirabilis",
+        "Tapes volans",
+        "Thronus maiesticus in aqua"
+      ],
+      "answer": "Baculus et manus lucens"
+    },
+    "outcome": {
+      "label": "Fatum Ultimum",
+      "options": [
+        "Ad caelos ascendit",
+        "A terra absorptus",
+        "In mari submersus",
+        "In simiam transformatus",
+        "Datis immensis divitiis et potestate"
+      ],
+      "answer": "In mari submersus"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kaiku kallioiden läpi",
+  "intro": "Kuvittele laakso, jossa asumukset on hakattu kallioihin ja ilmassa leijuu muisto huomiotta jätetystä varoituksesta. Täällä eli kerran kansa, siunattuna mutta uhmakkaana, kunnes merkki nousi esiin juuri siitä kalliosta, johon he luottivat.",
+  "clues": [
+    "Me olimme kansa, joka louhi turvallisia koteja vuorille ja tunsi olonsa turvalliseksi kallioisissa asunnoissamme.",
+    "Asuimme tasankojen ja kivien maassa, siunattuna puutarhoilla ja lähteillä.",
+    "Keskuudestamme tuli sanansaattaja, joka kutsui meitä hylkäämään väärät jumalamme ja palvomaan Yhtä todellista Luojaa.",
+    "Asetimme ylimielisesti uskomiselle ehdon: ainutlaatuisen merkin, joka nousisi esiin samoista kivistä, joita veistimme.",
+    "Kun luvattu naaraskameli ilmestyi kalliosta, selvänä merkkinä, eliittimme kieltäytyi silti ja katkaisi sen kinnerjänteet uhkaavan tuhon varoituksesta huolimatta.",
+    "Kolme päivää tekomme jälkeen jylinän jylinä kaikui laakson läpi, ja meistä tuli raunioina kaatuneita raunioita, kotimme hautoinamme."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "¿Ad-kaupungin kansa",
+        "Thamudin kansa",
+        "Madyanin kansa",
+        "Lehdon kansa",
+        "Luolan ihmiset"
+      ],
+      "answer": "Thamudin kansa"
+    },
+    "trial": {
+      "label": "Kokeilumme/päätapahtumamme",
+      "options": [
+        "Allahin naaraskamelin takareisi",
+        "Kultaisen vasikan palvonta",
+        "Sapatin rikkominen",
+        "Tornin rakentaminen taivaaseen",
+        "Profeettojen surmaaminen"
+      ],
+      "answer": "Allahin naaraskamelin takareisi"
+    },
+    "location": {
+      "label": "Tarinamme keskeinen elementti",
+      "options": [
+        "Allahin naaraskameli",
+        "Musan henkilökunta",
+        "Nuhan arkki",
+        "Musan valkoinen käsi",
+        "¿Isan lintu"
+      ],
+      "answer": "Allahin naaraskameli"
+    },
+    "outcome": {
+      "label": "Tuloksemme",
+      "options": [
+        "Korviahuumaavan räjähdyksen aiheuttama tuho",
+        "Kivien sade taivaalta",
+        "Tulva, joka peitti maan",
+        "Raivoisa tuuli, joka repi meidät juurineen",
+        "Maa nielee meidät"
+      ],
+      "answer": "Korviahuumaavan räjähdyksen aiheuttama tuho"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

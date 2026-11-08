@@ -1,0 +1,61 @@
+{
+  "title": "Anyaụfụ nke ripịara",
+  "intro": "Akụkọ ochie karịa alaeze ma ọ bụ akwụkwọ nsọ ọ bụla—ọdachi mbụ mmadụ nke sitere n'ekworo. Otu mkpụrụ obi, nke okenye n'ime ụmụ abụọ nne na nna mbụ mụrụ, ji iwe lere nwanne ya nke nta anya ka a na-anabata ihu ọma nke a jụrụ. Ihe sochiri ya bụ nhọrọ kachasị njọ, nke hapụrụ ọbara mbụ a wụfuru n'ụwa. Ị̀ pụrụ ịchọpụta njirimara ya, ọnwụnwa ahụ, na mwute dị ilu?",
+  "clues": [
+    "A mụrụ m site n'ụmụ mmadụ mbụ bi n'ụwa.",
+    "E nwere mgbe m mere onyinye nye Allah, mana ọ bụghị m nabatara ya.",
+    "A nabatara onyinye nwanne m nwoke nyere, ebe a jụrụ nke m—ihe m na-enweghị ike idi.",
+    "Etinyere m nwanne m nwoke egwu na a ga-ebibi ya.",
+    "Abụrụ m onye mbụ gburu mmadụ n'ụwa a, gbuo nwanne m nwoke.",
+    "Allah zitere otu anụ ọhịa nke ụwa—nnụnụ ojii na-egwu ala—ka ọ kụziere m otu esi ezo ihe m mere, ihe fọdụrụ m bụ mwute."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Qabil (Ken)",
+        "Habil (Ebel)",
+        "Onye Amụma Jekọb",
+        "Onye Amụma Mozis",
+        "Onye Amụma Adam"
+      ],
+      "answer": "Qabil (Ken)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Chineke jụrụ onyinye ahụ",
+        "A tụbara ya n'ọkụ dị ukwuu",
+        "A gbahapụrụ ya mgbe ọ bụ nwa ọhụrụ n'ime osimiri",
+        "A nwalere ya site n'alaeze ukwu dị ukwuu",
+        "E nyere iwu ka mmadụ chụọ nwa ya nwoke n'àjà"
+      ],
+      "answer": "Chineke jụrụ onyinye ahụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ugoloọma nke Allah zitere",
+        "Nwa ehi ọlaedo ahụ",
+        "Ụgbọ ahụ dị n'elu ugwu ahụ",
+        "Osisi ahụ na-ere ọkụ",
+        "Nne kamel a kpụrụ n'okwute"
+      ],
+      "answer": "Ugoloọma nke Allah zitere"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Jupụtara n'ọṅụ ma soro ndị meriri",
+        "E loro ya n'ụwa ya na akụ̀ ya",
+        "Aghọrọ m onye ozi Allah dị ebube",
+        "Batara na Paradaịs site n'ebere Chineke",
+        "Ọchịchị alaeze a na-enweghị atụ"
+      ],
+      "answer": "Jupụtara n'ọṅụ ma soro ndị meriri"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sērojošo vigīlija",
+  "intro": "Jūs drīz sastapsiet dvēseli, ko pārbaudījusi dziļa šķiršanās, kuras acis prata asaru valodu, bet kuras sirds nekad nezaudēja cerību. Maldināšanas, ilgošanās un galu galā atkalredzēšanās stāstā šis cēlais Allāha kalps kļuva par pacietības simbolu uz visiem laikiem. Kas izturēja slēptu sāpju gadus, lai tikai vienā mirklī atgūtu redzi un prieku?",
+  "clues": [
+    "Esmu pravietis, kura vārds kļuva par pacietības simbolu lielu zaudējumu priekšā.",
+    "Man bija daudz dēlu, bet vienu man atņēma citu greizsirdība.",
+    "Mana mīlestība pret šo pazudušo bija tik dziļa, ka manas acis kļuva baltas no bēdām, tomēr es nekad nesūdzējos, izņemot Allāham.",
+    "Es sūtīju savus dēlus atpakaļ meklēt to, kuru biju pazaudējis, un viņa brāli, aicinot viņus nezaudēt cerību.",
+    "Kad ieradās labās vēsts nesējs, man uz sejas tika uzmests krekls, un pasaule pēkšņi atkal kļuva skaidra.",
+    "Mani pazīst kā Izraēlu, un no maniem divpadsmit dēliem cēlušās lielas tautas divpadsmit ciltis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Jakubs (Jēkabs)",
+        "Pravietis Jusufs (Jāzeps)",
+        "Pravietis Išaks (Īzāks)",
+        "Pravietis Ibrahims (Ābrahāms)",
+        "Pravietis Ajūbs (Ījabs)"
+      ],
+      "answer": "Pravietis Jakubs (Jēkabs)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Daudzus gadus šķirta no mīļotā dēla",
+        "Tiekot iemests liesmojošā ugunī",
+        "Lielas zivs norīta",
+        "Saslimusi ar smagu ādas slimību",
+        "Būt bez bērniem līdz sirmam vecumam"
+      ],
+      "answer": "Daudzus gadus šķirta no mīļotā dēla"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Jusufa krekls",
+        "Musas personāls",
+        "Nū šķirsts",
+        "Salihas kamielis",
+        "Suleimana gredzens"
+      ],
+      "answer": "Jusufa krekls"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Redze atjaunota un atkalapvienota ar dēlu",
+        "Piešķirta uzvara pār tirānu karali",
+        "Dzīvi pacelti debesīs",
+        "Iecelts par valdnieku pār Ēģipti",
+        "Brīnumainā kārtā vecumdienās dāvāts dēls"
+      ],
+      "answer": "Redze atjaunota un atkalapvienota ar dēlu"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

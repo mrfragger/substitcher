@@ -1,0 +1,61 @@
+{
+  "title": "Warden bu xal bu dul fay",
+  "intro": "Benn jëmm mingi taxaw ci buntu barab biñ gëna ragal ci liñu dul gis, ñu dénk ko wareef bu kenn bëggul. Su ruuh yiy dundu lu metti di yuuxu ngir ñu yërëm leen, tontu bu dëgër dafay yegg ci biir néegi safara yi. Ndax mën nga xam kan mooy gardien biy dundu ba fàww?",
+  "clues": [
+    "Maa ngi taxaw ci buntu barabu yar bu raglu ci lu nëbbu.",
+    "Sama wareef bu mag mooy safara gu tàng gu dul fey.",
+    "Ruuh yiy dundu lu metti dañuy woo sama tur, di ñaan ñu muccal leen ci seen tiis budul jeex.",
+    "Bu ñu ñaanee, maa ngi leen di wax ni duñu dem, ba fàww.",
+    "Duma nit, duma jinn — man maay mbindéef bu sell déggal.",
+    "Man maay malaaka mi gëna mag biñ fal muy gardien budul jeex ci safara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Malik",
+        "Jibril",
+        "Mikaël",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Waa jahannama ñu ngi ñaan ñu jeexal seen tiis",
+        "Dañuy tàbb mboq mi ngir màndargaal Bis Àtte ba",
+        "Al Quran dafa wacc ci khol Yonente bi",
+        "Seen askan sànni ab yonent ci safara bu mag",
+        "Tabax nañu miir bu dëgër ngir tëye réew mu yàqu"
+      ],
+      "answer": "Waa jahannama ñu ngi ñaan ñu jeexal seen tiis"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Jahannam",
+        "Garab Lote ci peggu Aljanna",
+        "Trompet buy bën",
+        "Baton buy soppiku nekk jaan",
+        "tron divine bu mag"
+      ],
+      "answer": "Jahannam"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Neena ñu ñi dëkk ci safara dina ñu des ba fàww",
+        "Ñi dëkk safara dañu leen jéggal seeni bàkkaar te bàyyi leen",
+        "Ñi dëkk ci jahannama ñu ngi leen jox ñaareelu yoon ngir gëm",
+        "Ñi dëkk safara dañu leen di yóbbu ci barab bu sedd .",
+        "Ñi dëkk ci jahannama, dënd dina leen yàq lépp"
+      ],
+      "answer": "Neena ñu ñi dëkk ci safara dina ñu des ba fàww"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

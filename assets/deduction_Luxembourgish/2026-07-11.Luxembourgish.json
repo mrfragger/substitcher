@@ -1,0 +1,61 @@
+{
+  "title": "D'Reesender vum grénge Feld",
+  "intro": "An enger aler Zäit hunn zwou Persounen Nopeschlänner bewunnt. Hir Weeër ware matenee verbonnen, awer hir Häerzer hunn se zu ganz verschiddenen Destinatiounen gefouert. Ee vun hinnen ass de riichte Wee gaangen, während deen aneren an d'Däischtert vun der Verleugnung ofgewichen ass. Kënnt Dir de Rätsel vun dësen zwou Erntebewacher entklären?",
+  "clues": [
+    "Ech hat räich Ernte, üppig Ernten, déi d'Ae vun den Zuschauer geblend hunn.",
+    "Mäi Noper hat nach méi grouss Räichtum wéi ech, awer ech hunn hiren Undeel méi begeert wéi mäin eegenen.",
+    "Ech hunn virgeschloen, datt mir hir Kulturen komplett zerstéieren, fir alles ënner menger Kontroll ze kréien.",
+    "Ech hunn och meng eegen Ernte ruinéiert, andeems ech alles mat menge domme Pläng zerstéiert hunn.",
+    "Ech stoung hëlleflos, wéi meng Ernte verwëllt ass a mäi Räichtum an enger eenzeger Nuecht zu Stëbs ginn ass.",
+    "Ech hat keen Undeel um Hiernof, a mäi leschte Wunnsëtz ass zu enger Lach vu flammendem Feier ginn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Mann, deen d'Operstéiung an d'Uerteel verleegnen huet",
+        "Den Herrscher, deen de gerechte Bauer ënnerdréckt huet",
+        "De räiche Grondbesëtzer, deem et net zu Dankbarkeet koum",
+        "De Bauer, deen d'Land vu sengem Noper begeeschtert huet",
+        "De verréidere Partner, deen Zerstéierung geplangt huet"
+      ],
+      "answer": "De Bauer, deen d'Land vu sengem Noper begeeschtert huet"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Den Test fir d'Empfang vu göttlecher Offenbarung",
+        "D'Erausfuerderung vum Räichtum a Gedold",
+        "D'Versuchung, de Liewensënnerhalt vun engem gerechte Mënsch ze zerstéieren",
+        "De Gebot fir d'Ierfschaft gerecht ze verdeelen",
+        "De Kampf géint d'Ënnerdréckung vun engem Tyrann"
+      ],
+      "answer": "D'Versuchung, de Liewensënnerhalt vun engem gerechte Mënsch ze zerstéieren"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Déi gréng Gäert vum Paradäis",
+        "Zwee Nopeschfelder mat Kulturen",
+        "D'Bierger, déi Zerstéierung gesinn hunn",
+        "Den hellege Tempel vu Mekka",
+        "D'Flossufer vun engem geseenten Land"
+      ],
+      "answer": "Zwee Nopeschfelder mat Kulturen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ewigt Paradäis als Belounung fir Gerechtegkeet",
+        "Komplett Zerstéierung vun deenen zwou Ernten an dësem Liewen",
+        "Exil a Wandern bis zum Doud",
+        "Temporäre Wuelstand gefollegt vun engem éiwege Feier",
+        "Eng wonnerbar Restauratioun an eng duebel Belounung"
+      ],
+      "answer": "Komplett Zerstéierung vun deenen zwou Ernten an dësem Liewen"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

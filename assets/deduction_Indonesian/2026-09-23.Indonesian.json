@@ -1,0 +1,61 @@
+{
+  "title": "Seruan yang telah bertahan selama berabad-abad",
+  "intro": "Bayangkan sebuah jiwa yang berdiri sendirian melawan seluruh peradaban, bertekad untuk membimbing mereka kembali dari kesesatan dengan tekad yang teguh. Selama berabad-abad, pesan itu ditolak, diejek, dan diabaikan—namun usaha itu tidak pernah berhenti. Akhirnya, hari penghakiman besar tiba, dan hanya sedikit yang naik ke surga bersama jiwa yang teguh ini. Dapatkah Anda mengenali sosok ini dari Al-Quran?",
+  "clues": [
+    "Aku diutus sebagai pemberi peringatan kepada suatu bangsa yang tersesat dalam jalan mereka sendiri.",
+    "Saya mengajak mereka untuk meminta maaf dan berpaling dari kesalahan mereka, tetapi mereka menolak.",
+    "Atas perintah ilahi, aku membangun sebuah kapal besar sementara rakyatku menyaksikan dan mengejekku.",
+    "Aku memohon kepada Tuhanku tanpa henti—akhirnya Dia mengabulkan permohonanku, dan air pun turun dari langit dengan deras.",
+    "Aku menaiki kapal bersama orang-orang yang beriman ketika air bah naik menutupi daratan.",
+    "Aku berseru kepada salah seorang yang tertinggal di belakang, meminta mereka untuk berlindung di gunung, tetapi dekrit itu telah berlalu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Ibrahim",
+        "Nabi Musa",
+        "Nabi Hud",
+        "Nabi Salih"
+      ],
+      "answer": "Nabi Nuh"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Membangun bahtera besar dan selamat dari banjir dunia.",
+        "Dilemparkan ke dalam api yang menyala-nyala",
+        "Menghadapi seorang tiran dan para penyihirnya yang perkasa",
+        "Ditelan oleh ikan besar",
+        "Menyaksikan pembunuhan seekor unta betina suci."
+      ],
+      "answer": "Membangun bahtera besar dan selamat dari banjir dunia."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Sebuah bahtera kayu besar di tengah derasnya air bah.",
+        "Lembah suci dengan reruntuhan batu kuno.",
+        "Sebuah gua dalam tempat para sahabat tidur selama berabad-abad.",
+        "Perut paus raksasa di kedalaman samudra",
+        "Sebuah gunung batu menjulang tinggi di tengah hutan belantara."
+      ],
+      "answer": "Sebuah bahtera kayu besar di tengah derasnya air bah."
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diselamatkan bersama orang-orang beriman di atas kapal.",
+        "Diselamatkan tanpa cedera dari kobaran api berkat perintah ilahi.",
+        "Memimpin eksodus besar-besaran keluar dari kerajaan yang kuat.",
+        "Terlempar dari tempat ikan berada ke pantai yang tandus",
+        "Membimbing orang menjauh dari perbuatan jahat melalui tanda ajaib."
+      ],
+      "answer": "Diselamatkan bersama orang-orang beriman di atas kapal."
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

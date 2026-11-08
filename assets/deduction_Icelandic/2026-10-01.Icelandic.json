@@ -1,0 +1,61 @@
+{
+  "title": "Töluð inn í tilveruna",
+  "intro": "Persóna kemur fram úr helgri sögu, berandi kraftaverk sem ögruðu náttúrunni. Þessi sál kom fyrir eitt guðlegt boð, varði foreldri sitt gegn alvarlegum ásökunum og yfirgaf þennan heim áður en jarðneskar fjötrar gátu bundið það. Sagan spannar frá auðmjúkri vöggu til himins. Hver gæti þetta verið?",
+  "clues": [
+    "Ég var sendur sem tákn og miskunn frá Allah til Ísraelsmanna.",
+    "Koma mín var ólík öllum fyrri – ég varð til með hinu guðdómlega orði „Vertu!“ án jarðnesks föður.",
+    "Foreldrar mínir mættu grimmri rógi, en heilög opinberun kom til að lýsa yfir sakleysi þeirra og hækka stöðu þeirra.",
+    "Sem nýfætt barn kom ég þeim sem voru í kringum mig á óvart með því að tala skýrt frá vöggu til að hreinsa nafn foreldra minna.",
+    "Með leyfi Allah mótaði ég líf úr líflausum leir, gaf blindum sjón og læknaði holdsveika með snertingu minni.",
+    "Ég var reistur upp til himins áður en illt gat snert mig, og ég mun snúa aftur til þessa heims áður en síðasta stundin rennur upp."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Ísa",
+        "Spámaðurinn Músa",
+        "Spámaðurinn Íbrahim",
+        "Spámaðurinn Jósef",
+        "Spámaðurinn Dawud"
+      ],
+      "answer": "Spámaðurinn Ísa"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Að tala frá vöggu sem ungbarn",
+        "Að lifa af í maga stórfisks",
+        "Að vera kastað í logandi eld",
+        "Að byggja mikla örk fyrir flóðið",
+        "Að horfast í augu við galdra hirðar Faraós"
+      ],
+      "answer": "Að tala frá vöggu sem ungbarn"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Injeel (fagnaðarerindið)",
+        "Tawrah (Tóran)",
+        "Zabur (Sálmar)",
+        "The Suhuf (Ibrahims handrit)",
+        "Stafurinn sem klauf hafið"
+      ],
+      "answer": "Injeel (fagnaðarerindið)"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Upprisinn til himins, mun snúa aftur fyrir dómsdag",
+        "Leið Ísraelsmenn út úr Egyptalandi",
+        "Varð konungur með yfirráð yfir djinnum, mönnum og fuglum",
+        "Lifði af gríðarlegt flóð með trúuðum",
+        "Byggði hið helga hús í Mekka"
+      ],
+      "answer": "Upprisinn til himins, mun snúa aftur fyrir dómsdag"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

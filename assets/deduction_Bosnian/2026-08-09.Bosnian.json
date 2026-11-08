@@ -1,0 +1,61 @@
+{
+  "title": "Istiniti glas drevnih vremena",
+  "intro": "U Kur'anu postoji duša čija je priča ispričana u samo nekoliko ajeta, ali njene plemenite osobine sijaju briljantnom jasnoćom. Hvaljen od Svemogućeg zbog posebne vrline, ovaj drevni sluga Najmilostivijeg zauzima mjesto na stranicama objave. Vaš zadatak je da identificirate ovu izuzetnu figuru. Možete li pogoditi ko su oni?",
+  "clues": [
+    "Ja sam Allahov prorok koji je živio među prvim generacijama čovječanstva.",
+    "Allah me je spomenuo u Svojoj Knjizi s drugim prorocima, a svi su hvaljeni zbog iste plemenite vrline.",
+    "U Kur'anu sam opisan kao čovjek istine.",
+    "Allah me je uzdigao na visoki položaj koji je malo ko drugi dostigao.",
+    "Moje ime se spominje u suri El-Anbija, zajedno s još dvojicom proroka koji su hvaljeni zbog strpljenja.",
+    "Ja sam Idris, istinoljubivi i uzvišeni prorok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Idris",
+        "Poslanik Nuh",
+        "Poslanik Ibrahim",
+        "Poslanik Musa",
+        "Poslanik Ismail"
+      ],
+      "answer": "Poslanik Idris"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Održavanje strpljenja i istinoljubivosti, a zatim uzdizanje na visok položaj",
+        "Izgradnja velike arke kako bi se vjernici spasili od razorne poplave",
+        "Biti bačen u plamteću vatru i izaći potpuno neozlijeđen",
+        "Suočavanje s moćnim kraljem i pobjeda nad njegovom vojskom čarobnjaka",
+        "Preživljavanje u utrobi velike ribe u morskim dubinama"
+      ],
+      "answer": "Održavanje strpljenja i istinoljubivosti, a zatim uzdizanje na visok položaj"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Visok i uzvišen položaj od Allaha",
+        "Masivni brod izgrađen od dasaka i premazan katranom",
+        "Bijesna vatra koju podstiču idolopoklonici zlog kralja",
+        "Prostrano more koje se dijelilo na suhe staze",
+        "Tamni stomak velikog kita na dnu okeana"
+      ],
+      "answer": "Visok i uzvišen položaj od Allaha"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Primljen u Allahovu milost kao jedan od pravednika",
+        "Spašen zajedno sa svim vjernicima od svjetskog potopa",
+        "Izašao iz plamena netaknut vatrom",
+        "Sigurno je vodio djecu Izraela do slobode preko mora",
+        "Ponovo su se okupili sa svojom voljenom porodicom nakon dugih godina teškoća"
+      ],
+      "answer": "Primljen u Allahovu milost kao jedan od pravednika"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

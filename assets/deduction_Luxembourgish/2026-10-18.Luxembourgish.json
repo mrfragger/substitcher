@@ -1,0 +1,61 @@
+{
+  "title": "Déi glécklech Noriicht am Alter",
+  "intro": "Dir sidd Zeie vun engem Moment, wou d'Hoffnung nei entzündegt gëtt. E Koppel, laang iwwer dem Alter vun der Elterenschaft eraus, kritt e Verspriechen, dat géint d'Gesetzer vun der Natur verstéisst. An hirer Mëtt steet eng Figur, där hir Existenz e Zeeche vu gëttlecher Barmhäerzegkeet ass - eng Séil, déi fir d'Prophéitschaft bestëmmt ass, an e Vermächtnis dréit, dat iwwer Generatiounen geet. Wien ass dës bemierkenswäert Persoun?",
+  "clues": [
+    "Ech sinn vun Elteren gebuer, déi am héije Alter waren a keng Kanner haten.",
+    "Meng Gebuert gouf vun Engelen ugekënnegt, déi als Gäscht a meng Famill koumen.",
+    "Mir gouf Wäisheet a Prophetschaft ginn, an ech ginn ënner de Gedëllege ernimmt.",
+    "Mäi Papp gouf de Frënd vun Allah genannt, an ech war e Kaddo fir hien a senge spéidere Joren.",
+    "Ech hat e Brudder, deen och e Prophet war, a mir goufe béid vun eisem Här geseent.",
+    "Mäi Jong war och e Prophet, a menge Nokommen kruten d'Schrëft an d'Prophetschaft."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Ishaq (Isaak)",
+        "De Prophet Ismail (Ishmael)",
+        "De Prophet Yaqub (Jakob)",
+        "De Prophet Yahya (Johannes)",
+        "De Prophet Uzair (Ezra)"
+      ],
+      "answer": "De Prophet Ishaq (Isaak)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Gebuer vun eelere Elteren",
+        "An e Feier gehäit",
+        "E Kinnekräich a Räichtum ginn",
+        "Hie huet säi Vollek aus Ägypten erausgefouert",
+        "Eng Ark gebaut fir Gleeweger ze retten"
+      ],
+      "answer": "Gebuer vun eelere Elteren"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Déi glécklech Noriicht vun engem Jong",
+        "De brennende Busch",
+        "Dat gëllent Kalb",
+        "D'Ark vum Bund",
+        "D'Staff vun der Prophetschaft"
+      ],
+      "answer": "Déi glécklech Noriicht vun engem Jong"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ass e Prophet mat enger Linn vu Prophéiten ginn",
+        "Ass e räiche Kinnek ginn",
+        "Säi Vollek gouf wéinst Ongleewegkeet zerstéiert",
+        "Hie gouf virum Feier gerett",
+        "Hie krut d'Fäegkeet ze schwätzen als Puppelchen"
+      ],
+      "answer": "Ass e Prophet mat enger Linn vu Prophéiten ginn"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

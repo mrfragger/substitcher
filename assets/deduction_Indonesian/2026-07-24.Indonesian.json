@@ -1,0 +1,61 @@
+{
+  "title": "Sang Konspirator Bertopeng",
+  "intro": "Anda mendapati diri Anda berada di hadapan sosok berpengaruh dari zaman wahyu. Individu ini dikenal karena kecerdasan, kekayaan, dan statusnya di antara kaumnya. Ketika tanda-tanda yang jelas datang, mereka mengenali keindahannya namun memilih pembangkangan daripada penyerahan diri. Apa yang mendorong jiwa ini untuk bersekongkol dalam kegelapan, dan apa nasib akhirnya?",
+  "clues": [
+    "Saya diberkati dengan sumber daya dan pengaruh yang melimpah, sehingga firman saya memiliki pengaruh besar dalam pertemuan-pertemuan.",
+    "Ketika firman Tuhan diucapkan, aku tak dapat menyangkal kefasihannya, tetapi kesombonganku tak mengizinkanku untuk tunduk.",
+    "Saya mengumpulkan para penasihat saya, mengasingkan diri untuk merenungkan cara mendiskreditkan pesan tersebut.",
+    "Setelah berpikir panjang, saya menyatakan bahwa itu hanyalah 'sihir yang diwariskan dari masa lalu' untuk mengusir orang.",
+    "Wahyu itu kemudian ditujukan langsung kepada saya: 'Biarkan Aku bersama orang yang telah Kuciptakan.' Saya dipilih karena rencana jahat saya.",
+    "Tak lama lagi, api yang telah diperingatkan kepadaku akan mencengkeram rambutku, dan aku tak akan bisa melarikan diri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Bersekongkol untuk membunuh Nabi",
+        "Memimpin boikot terhadap umat Muslim",
+        "Menghimpun sebuah dewan untuk mencap Al-Quran sebagai sihir.",
+        "Berkomplot untuk mengusir Nabi dari Mekah",
+        "Menolak untuk membagikan kekayaannya kepada anak yatim"
+      ],
+      "answer": "Menghimpun sebuah dewan untuk mencap Al-Quran sebagai sihir."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Wahyu",
+        "Dewan",
+        "Jambul",
+        "Kekayaan",
+        "Pena"
+      ],
+      "answer": "Jambul"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Dia bertobat dan memeluk Islam.",
+        "Dia bermigrasi ke Abyssinia",
+        "Dia terserang penyakit mematikan.",
+        "Dia gugur dalam pertempuran melawan kaum Muslim.",
+        "Dia dikutuk untuk masuk ke dalam api neraka."
+      ],
+      "answer": "Dia dikutuk untuk masuk ke dalam api neraka."
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Föld ölelése",
+  "intro": "Egy nagy megpróbáltatások idején egy neves személy hatalmas földi bőségben részesült, hála és alázat próbájaként. Ennek a személynek az utazása mély tanulsággal szolgál az anyagi javak múlandóságáról és az arrogancia következményeiről. Fedezd fel ennek a léleknek a kilétét, akinek a története a földbe vésődött alattunk.",
+  "clues": [
+    "Egy nagy hírnök által vezetett nép között éltem.",
+    "Allah olyan hatalmas kincsekkel halmozott fel, hogy még a kincseim kulcsai is nehéz terhet jelentettek sok erős ember számára.",
+    "Népem, ismerve gazdagságomat, azt tanácsolta, hogy keressem a túlvilágot azzal, amit Allah adott nekem, és ne feledkezzek meg a földi részemről, és tegyek jót, ahogyan Allah is jót tett velem.",
+    "Arrogánsan kijelentettem, hogy hatalmas vagyonomat kizárólag a saját tudásomnak és erőfeszítéseimnek köszönhetően szereztem, tagadva minden isteni kegyet.",
+    "Amikor arra kértek, hogy járuljak hozzá, vagy ismerjem el Allah nagylelkűségét, büszkén visszautasítottam, abban a hitben, hogy a javaim kizárólag az enyémek.",
+    "A rendkívüli arroganciám és elnyomásom következtében Allah megparancsolta a földnek, hogy nyíljon meg és nyeljen el engem és a hajlékomat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Fir'awn",
+        "Iblisz",
+        "Hámán",
+        "Abu Laháb",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Tűzbe dobva",
+        "Fulladás a tengerben",
+        "Száműzetés a kertből",
+        "Majommá alakulás",
+        "Elnyeli a föld"
+      ],
+      "answer": "Elnyeli a föld"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy aranyborjú",
+        "Egy hatalmas bárka",
+        "Egy beszélő madár",
+        "Egy csodálatos személyzet",
+        "Hatalmas kincsek és kulcsok"
+      ],
+      "answer": "Hatalmas kincsek és kulcsok"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Nagy uralkodóvá válni",
+        "Isteni kinyilatkoztatás fogadása",
+        "Felemelkedés a mennyekbe",
+        "Hosszú, jámbor életet élni",
+        "Teljes pusztítás az arrogancia miatt"
+      ],
+      "answer": "Teljes pusztítás az arrogancia miatt"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

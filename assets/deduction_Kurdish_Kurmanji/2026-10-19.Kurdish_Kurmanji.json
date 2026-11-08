@@ -1,0 +1,61 @@
+{
+  "title": "Derbederên Ezmanan",
+  "intro": "Hebûnek nepenî li ser rêya afirandin û redkirinê radiweste. Çîroka wan çîrokeke bêhempe û serhişkiya dawî ya li dijî fermaneke îlahî ye. Hilbijartina wan di her nifşî de deng vedide, dibe ceribandinek ji bo her giyanekî ku li vê dinyayê hatiye dinê. Hûn dikarin vî dijminê herheyî nas bikin?",
+  "clues": [
+    "Ez li bûyerek bi girîngiya kozmîk amade bûm, dema ku hebûnek nû ji axê hat afirandin û bi Nefesa Dilovan ve jiyan lê hat dayîn.",
+    "Ez bi xwe ji hêmanek yekane ya agirîn hatim afirandin, berevajî wê yekê ku ji tozê ye.",
+    "Fermanek ji min re hat dayîn ku min texmîn kir ku li jêr qereqola min e.",
+    "Serbilindî di hundirê min de zêde bû, û min bi israr red kir ku ez vê fermanê bi cih bînim.",
+    "Taloqek heta rojek diyarkirî ji min re hat dayîn, da ku ez bikaribim armanca xwe ya eşkerekirî ya xapandina yên din bişopînim.",
+    "Ez dijminê eşkere yê hemû kesên ku li ser rûyê erdê dimeşin, bi pispiskên xapandinê diaxivin û wan ji rêya rast dûr dixin im."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Îblîs (Şeytan)",
+        "Fîrewn (Firewn)",
+        "Haman",
+        "Ebû Cehl",
+        "Samirî"
+      ],
+      "answer": "Îblîs (Şeytan)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ji Adem re red kir ku li ber wî serê xwe bitewîne",
+        "Bi derewîn îdia kir ku xwedayî ye",
+        "Ji bo îbadetê golikekî zêrîn çêkir",
+        "Ji ber hesûdiyê birayê xwe kuşt",
+        "Li Mekkeyê serkêşiya muxalefeta muşrikan kir"
+      ],
+      "answer": "Ji Adem re red kir ku li ber wî serê xwe bitewîne"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Bihuşt (Cennet)",
+        "Qesra Fir'ewn li Misrê",
+        "Geliyê pîroz ê Tuwa",
+        "Kûrahiya deryayê",
+        "Baxçeyê Şebayê"
+      ],
+      "answer": "Bihuşt (Cennet)"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Heta Roja Qiyametê dem hatiye dayîn",
+        "Li gel artêşê di deryayê de xeniqîn",
+        "Ji aliyê erdê ve ligel gencîneyan hat daqurtandin",
+        "Ji ber binpêkirina roja Şemiyê veguherî meymûnan",
+        "Bi kevirên ji ezmanan hatine avêtin şewitî"
+      ],
+      "answer": "Heta Roja Qiyametê dem hatiye dayîn"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

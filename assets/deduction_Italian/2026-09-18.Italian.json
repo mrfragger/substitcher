@@ -1,0 +1,61 @@
+{
+  "title": "La chiamata dalla Valle Sacra",
+  "intro": "Al di là delle pagine della storia si cela la storia di un'anima che si frappose tra un potente sovrano e un intero popolo schiavizzato. Quest'individuo fu chiamato a liberare una nazione dalla tirannia, compiendo prodigi che sfidarono ogni legge naturale. Da un monte sacro a un miracolo sulle acque, questo servo di Allah fu testimone di segni che avrebbero riecheggiato nei secoli. Il vostro compito oggi è identificare questa figura straordinaria la cui eredità ha plasmato il corso della storia umana.",
+  "clues": [
+    "Sono nato in un periodo in cui il mio popolo si trovava ad affrontare un decreto mortale, e la mia famiglia mi ha gettato in acqua per salvarmi la vita.",
+    "Sono stato trovato e cresciuto proprio nella casa del sovrano che aveva ordinato lo sterminio della mia specie.",
+    "Mi rifugiai su un monte sacro dove vidi un fuoco su un albero che non si consumava, e da esso una voce mi parlò.",
+    "Fui rimandato da quel sovrano stesso, correndogli incontro con dei miracoli e chiedendo la liberazione del mio popolo ridotto in schiavitù.",
+    "Ho colpito il mare con il mio bastone, ed esso si è aperto in canali asciutti, inghiottendo gli inseguitori che seguivano il mio popolo.",
+    "Ho meditato in comunione con il mio Signore su un monte per quaranta notti e mi sono state concesse le tavole della guida divina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Mosè",
+        "Profeta Harun",
+        "Profeta Ibrahim",
+        "Il profeta Yusuf",
+        "Profeta Dawud"
+      ],
+      "answer": "Profeta Mosè"
+    },
+    "trial": {
+      "label": "Il mio processo decisivo",
+      "options": [
+        "La separazione del mare",
+        "La costruzione della Grande Arca",
+        "Prova del fuoco ardente",
+        "Confinamento nel ventre di una balena",
+        "Prigionia per mano di un funzionario egiziano"
+      ],
+      "answer": "La separazione del mare"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il bastone del pastore",
+        "Una grande arca di legno",
+        "Una grotta dove il tempo dormiva",
+        "Un giardino con due sorgenti",
+        "Un trono ornato d'oro"
+      ],
+      "answer": "Il bastone del pastore"
+    },
+    "outcome": {
+      "label": "Il risultato",
+      "options": [
+        "Il mio popolo ha attraversato il mare per mettersi in salvo",
+        "Un grande diluvio distrusse i miscredenti",
+        "Il fuoco di un tiranno si fece fresco e pacifico",
+        "Il mare gettò il suo prigioniero sulla riva",
+        "Il prigioniero divenne il tesoriere d'Egitto"
+      ],
+      "answer": "Il mio popolo ha attraversato il mare per mettersi in salvo"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

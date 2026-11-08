@@ -1,0 +1,61 @@
+{
+  "title": "Wzywający z Głębin",
+  "intro": "Wyobraź sobie duszę, której powierzono boskie przesłanie, a która w chwili pośpiechu odeszła od swojego ludu bez wyraźnego pozwolenia. Ta podróż postawiła ją w obliczu niezwykłej próby, głębokiej próby cierpliwości i zaufania Najwyższemu. Kim jest ten człowiek, którego historia uczy nas o pokucie i ogromie miłosierdzia Allaha?",
+  "clues": [
+    "Zostałem wysłany do wspaniałego narodu, ale początkowa odmowa wywołała u mnie smutek.",
+    "Opuściłem swój lud, wierząc, że moja misja została wypełniona, zanim otrzymałem jasny rozkaz odejścia.",
+    "Starałem się o przejazd statkiem, ale silna burza i losowanie doprowadziły do ​​tragicznej sytuacji.",
+    "Zostałem wrzucony do morza, a potężny potwór głębinowy połknął mnie całego.",
+    "W ciemnościach jego brzucha zwróciłem się do Allaha, przyznając się do błędu i prosząc o przebaczenie.",
+    "Bóg rozkazał stworzeniu, aby wyrzuciło mnie na brzeg, a ja odzyskałem zdrowie pod wyjątkową rośliną."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Jusuf (Józef)",
+        "Prorok Noe (Noe)",
+        "Prorok Junus (Jonasz)",
+        "Prorok Sulaiman (Salomon)",
+        "Prorok Ajjub (Hiob)"
+      ],
+      "answer": "Prorok Junus (Jonasz)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Rozdzielenie morza",
+        "Ogień Nimroda",
+        "Być połkniętym przez wielką rybę",
+        "Powódź",
+        "Zniszczenie miasta kamieniami"
+      ],
+      "answer": "Być połkniętym przez wielką rybę"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Brzuch ryby",
+        "Studnia",
+        "Płonący krzew"
+      ],
+      "answer": "Brzuch ryby"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Został wielkim władcą",
+        "Zbudował Kaabę",
+        "Powrócił, by przewodzić narodowi, który się pokutuje",
+        "Dano mu władzę nad dżinami",
+        "Prowadził ludzi przez pustynię"
+      ],
+      "answer": "Powrócił, by przewodzić narodowi, który się pokutuje"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

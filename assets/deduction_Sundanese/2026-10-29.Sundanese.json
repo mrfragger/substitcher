@@ -1,0 +1,61 @@
+{
+  "title": "Peringatan Leutik Sateuacan Pasukan Baris",
+  "intro": "Lebet ka hiji lebak dimana saurang pamingpin anu perkasa sareng pasukan anu ageung nuju nyampeurkeun, teras bayangkeun saurang musafir alit anu masihan peringatan anu nyalametkeun sakumna komunitas. Nalika komunitas anu kaancam sumping ka tempat panyumputan, bahaya éta ngaliwat. Turutan petunjuk pikeun ngaidentipikasi sosok anu teu katingali di tukangeun peringatan éta.",
+  "clues": [
+    "Abdi kalebet mahluk leutik anu aya patalina sareng karajaan pamingpin.",
+    "Komunitas kuring cicing di imah-imah di jero lebak, dimana salah sahiji urang tiasa nelepon anu sanés.",
+    "Urang nyanghareupan ancaman ti pamingpin éta sareng pasukan anu ngiring ngarambat sareng pamingpin éta.",
+    "Abdi anu nyauran umat abdi pikeun lebet ka bumi aranjeunna sareng ngingetkeun urang supados ulah diruksak tanpa disadari.",
+    "Pamingpinna nyaéta Sulaiman, sareng jinis abdi kalebet mahluk anu ditempatkeun di handapeun paréntahna.",
+    "Kuring téh sireum di éta lebak; sanggeus dibéré pépéling, urang asup ka imah-imah urang sarta lolos tina remuk anu lamun teu kitu urang bakal teu sadar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Sireum Lebak",
+        "Si Manuk Hud",
+        "Gagak",
+        "Si Ular",
+        "Bagal"
+      ],
+      "answer": "Sireum Lebak"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Peringatan anu ngahémat komunitas sireum",
+        "Pamundut cincin ti lauk",
+        "Milarian tahta anu leungit",
+        "Nyalametkeun panon anu dipaling",
+        "Panolakan pikeun ngadahar kadaharan pamingpin"
+      ],
+      "answer": "Peringatan anu ngahémat komunitas sireum"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Lebak Sireum",
+        "Cincin Tanda Tangan Sulaiman",
+        "Baju Yusuf anu pinuh ku getih",
+        "Anak Sapi Emas nalika Éksodus",
+        "Staf Musa"
+      ],
+      "answer": "Lebak Sireum"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Masarakat éta disalametkeun saatos ngungsi",
+        "Masarakatna ancur tanpa néangan panyumputan",
+        "Masarakatna salamet sabab tentara mundur",
+        "Masarakat dibéré ganjaran ku cara ngadalikeun manuk-manuk éta",
+        "Masarakat éta ditawan ka karaton"
+      ],
+      "answer": "Masarakat éta disalametkeun saatos ngungsi"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

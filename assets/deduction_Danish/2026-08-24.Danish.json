@@ -1,0 +1,61 @@
+{
+  "title": "De skjulte lyttere, der troede",
+  "intro": "I stilheden af ​​en hellig forsamling ankom en bemærkelsesværdig forsamling fra et usynligt rige. Tiltrukket af hvisken af ​​noget vidunderligt lyttede de til recitationer, der ville besegle deres skæbne for evigt. Deres vidnesbyrd er fortsat et af de mest unikke i den guddommelige skrift.",
+  "clues": [
+    "Vi er væsener fra en verden, som de fleste ikke kan se, og vi kom som en gruppe.",
+    "Vi rejste mod en forsamling for at høre noget bemærkelsesværdigt.",
+    "Da vi ankom, lyttede vi til en oplæsning, som forbløffede os.",
+    "Vi erkendte åbent, at nogle iblandt os er retfærdige, og nogle er det ikke.",
+    "Vi vidste, at vi ikke kunne undslippe den guddommelige bestemmelse på jorden, ej heller ved at flygte til himlen.",
+    "Da vi hørte vejledningen, troede vi på den; den, der tror på sin Herre, skal ikke frygte tab eller byrde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "En gruppe djinner",
+        "Irams folk",
+        "Folket i Tubba'",
+        "Det romerske imperium",
+        "Quraysh-stammen"
+      ],
+      "answer": "En gruppe djinner"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Lytter til en hellig recitation",
+        "Bygger høje søjler i vores by",
+        "Jagt på en pragtfuld hunkamel",
+        "At blive ødelagt for at dræbe vores profeter",
+        "Multiplikation af rigdom ud over mål"
+      ],
+      "answer": "Lytter til en hellig recitation"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En samling af hellig recitation",
+        "En by med høje søjler (Iram)",
+        "En brønd i ørkenen",
+        "Et storslået palads af guld",
+        "En hellig hule i bjergene"
+      ],
+      "answer": "En samling af hellig recitation"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vi troede og advarede vores folk",
+        "Ødelagt af et voldsomt vindstød fra himlen",
+        "Straffet af en brændende, ødelæggende vind",
+        "Tildelt enorm rigdom og magt",
+        "Forblev standhaftig i vantro"
+      ],
+      "answer": "Vi troede og advarede vores folk"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "ny fikarohana azo antoka amin'ny alalan'ny kintana",
+  "intro": "Alaivo sary an-tsaina hoe mijoro eo ambanin'ny lanitra midadasika amin'ny alina ianao, mijery ireo jiro mamirapiratra mipoitra ary avy eo mihalefy sady mitady izay tena mendrika ny fanompoam-pivavahana. Manodidina anao, misy sary sokitra mangina mahazo fiderana sy fanatitra, nefa ny saina mazava dia mametraka fanontaniana momba ny heriny. Feo tsy misy tahotra no efa saika hanohitra ny lovantsofina nolovaina ary hanondro ny Mpamorona ny lanitra sy ny tany.",
+  "clues": [
+    "Nijery ny kintana sy ny volana ary ny masoandro aho, ary nieritreritra fa tsy mety ho Tompoko izy ireo satria milentika sy manjavona.",
+    "Nandà ampahibemaso izay notompoin'ny oloko ankoatra an'i Allah aho ary niantso azy ireo mba hivavaka amin'ny Mpamorona irery ihany.",
+    "Niady hevitra tamin'ny mpitondra mirehareha iray izay nilaza fa manome ny fiainana sy ny fahafatesana aho, ary namaly aho tamin'ny firesahana an'i Allah izay nitondra ny masoandro avy any atsinanana.",
+    "Nokapohiko ireo sampy ary notorotoroiko izy ireo, ka ny lehibe indrindra ihany no navelako teo aminy mba hiverenan'ny olona any.",
+    "Nosamborin'ny fireneko aho ary nomelohiny, izay nilaza taminy mba hanorina tranobe ary hanipy ahy ao anaty afo mirehitra.",
+    "Voavonjy aho rehefa nandidy ny afo ho mangatsiaka sy ho fiarovana ahy i Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ibrahim (Abrahama)",
+        "Mpaminany Yahya (Jaona)",
+        "Mpaminany Al-Yasa (Elisa)",
+        "Ny Samiri",
+        "Namroda (Nimroda)"
+      ],
+      "answer": "Mpaminany Ibrahim (Abrahama)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Niatrika ny fanompoam-pivavahana sampy ary niady hevitra momba ny dikan'ny zavatra eny amin'ny lanitra",
+        "Natelin'ny trondro goavambe iray rehefa lasa noho ny hatezerana",
+        "Nitarika ireo mpanara-dia namaky ny ranomasina nosarahin'i Allah",
+        "Natsangana velona ho any an-danitra nefa tsy nanandrana fahafatesana",
+        "Natory tao anaty lava-bato niaraka tamin'ny namana nandritra ny taona maro"
+      ],
+      "answer": "Niatrika ny fanompoam-pivavahana sampy ary niady hevitra momba ny dikan'ny zavatra eny amin'ny lanitra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Afo mirehitra izay nataon'i Allah mangatsiaka sy azo antoka",
+        "Ny sambo fiara izay nitondra ny mpino namakivaky ny safodrano",
+        "Ny tehina izay lasa menarana",
+        "Nivelatra avy any an-danitra ny latabatra",
+        "Ny ramevavavy nalefa ho famantarana"
+      ],
+      "answer": "Afo mirehitra izay nataon'i Allah mangatsiaka sy azo antoka"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voaro amin'ny afo ary nomena taranaka marina",
+        "Niaraka tamin'ireo mpandavina tao anaty tondra-drano lehibe",
+        "Niova noho ny fandikana ny Sabata",
+        "Noravan'ny vorona nitondra vato tanimanga",
+        "Voatelina tamin'ny harena ny tany"
+      ],
+      "answer": "Voaro amin'ny afo ary nomena taranaka marina"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

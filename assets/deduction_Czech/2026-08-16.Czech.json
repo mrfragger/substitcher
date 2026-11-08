@@ -1,0 +1,61 @@
+{
+  "title": "Tichý hlas v komoře",
+  "intro": "V tichu posvátné komnaty se kdysi dávno ozývala modlitba, vycházející ze stárnoucí duše toužící po tom, co svět prohlásil za nemožné. Tato postava, v pokročilém věku a zatížená starostmi o budoucnost, se obrátila ke svému Pánu s osobní prosbou. Následovala božská odpověď, která se vzpírala všem přirozeným očekáváním – svědectví o milosrdenství Toho, kdo odpovídá na zoufalé volání.",
+  "clues": [
+    "V soukromí jsem vzýval svého Pána a uchýlil se do komnaty, kde jsem se oddal Jeho uctívání.",
+    "Přiznal jsem svému Pánu, že se bojím o ty, kdo přijdou po mně, a že se obávám o vedení svého lidu, až odejdu.",
+    "Stáří mě přemohlo – kosti mi zeslábly a po hlavě se mi rozrostly bílé vlasy.",
+    "Moje manželka byla celý život neplodná, a přesto jsem prosil svého Pána, aby mi dal dědice z Jeho vlastní přítomnosti.",
+    "Požádal jsem o znamení a můj Pán mi odpověděl tím, že mi po tři noci zabránil s nikým mluvit, dokud jsem zůstal fyzicky zdravý.",
+    "Bylo mi slíbeno syna, jehož jméno bude Jahja, jméno, o kterém můj Pán prohlásil, že ho ještě nikdo předtím nedostal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Zakariya",
+        "Prorok Nuh",
+        "Prorok Músa",
+        "Prorok Jusuf",
+        "Prorok Dawud"
+      ],
+      "answer": "Prorok Zakariya"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Modlitba za dědice ve stáří s neplodným manželem/manželkou",
+        "Být vhozen do planoucího ohně",
+        "Být spolknut velkou rybou ve tmě",
+        "Snášení ztráty rodiny, bohatství a zdraví",
+        "Dostal příkaz postavit velkou archu"
+      ],
+      "answer": "Modlitba za dědice ve stáří s neplodným manželem/manželkou"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Modlitební komora (mihrab)",
+        "Hůl, která se proměnila v hada",
+        "Velká dřevěná archa",
+        "Zahrada s unikátním pramenem",
+        "Hora, kde se shromažďovali ptáci"
+      ],
+      "answer": "Modlitební komora (mihrab)"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Navzdory vysokému věku se mu zázračně narodil syn",
+        "Zachráněn před planoucím ohněm božím rozkazem",
+        "Velká potopa zničila nevěřící",
+        "Obnovení rodiny, bohatství a zdraví po trpělivosti",
+        "Faraon a jeho armáda se utopili v moři"
+      ],
+      "answer": "Navzdory vysokému věku se mu zázračně narodil syn"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

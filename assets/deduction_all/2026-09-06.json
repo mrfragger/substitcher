@@ -1,0 +1,61 @@
+{
+  "title": "The Outcast of the Golden Calf",
+  "intro": "A figure mentioned in the Quran led a great multitude into deviation during the absence of a noble prophet. Something crafted from gold captured the hearts of an entire nation — but the story of this individual ends in solitude and a strange curse. Who could this outcast be?",
+  "clues": [
+    "I emerged during the absence of a great prophet who had ascended to receive divine guidance.",
+    "I caused a great multitude to go astray with something I crafted with my own hands.",
+    "The golden creation I produced seemed to have life, producing sounds that mesmerized those who followed it.",
+    "I claimed to have seen what others could not perceive — a glimpse into the unseen.",
+    "I drew something from the tracks of the divine messenger and cast it into molten metal.",
+    "I was condemned to wander alone, with a unique curse that none could touch my skin nor I touch theirs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Pharaoh (Fir'awn)",
+        "Abu Lahab",
+        "Prophet Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Created a golden calf for worship",
+        "Built a tower reaching the heavens",
+        "Challenged Egypt's sorcerers",
+        "Led an army with flying beasts",
+        "Split the moon as proof of prophethood"
+      ],
+      "answer": "Created a golden calf for worship"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The golden calf",
+        "A staff that turned into a serpent",
+        "A burning bush on a mountain",
+        "An ark resting on a peak",
+        "A trench filled with blazing fire"
+      ],
+      "answer": "The golden calf"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Exiled, forbidden from being touched or touching others",
+        "Drowned in the sea along with an army",
+        "Burned alive for rejecting faith",
+        "Struck down by a violent, roaring wind",
+        "Forgiven and raised to a high station"
+      ],
+      "answer": "Exiled, forbidden from being touched or touching others"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

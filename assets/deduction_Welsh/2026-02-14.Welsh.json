@@ -1,0 +1,61 @@
+{
+  "title": "Adeiladwr y Rhwystrau",
+  "intro": "Ar draws tiroedd helaeth, cychwynnodd unigolyn pwerus ar gyfres o alldeithiau, gan roi awdurdod a moddion aruthrol iddo. Daeth yr enaid hwn ar draws cymunedau amrywiol ac wynebu heriau unigryw, gan adael marc parhaol ar hanes a ffydd trwy eu gweithredoedd a'u doethineb, a hynny i gyd wrth gydnabod gwir ffynhonnell eu cryfder.",
+  "clues": [
+    "Cefais bŵer a modd dros bopeth, a dilynais ffordd.",
+    "Aeth fy nhaith â mi i fan machlud yr haul, lle y des i o hyd i bobl.",
+    "Fe wnes i ddod ar draws cymuned a oedd prin yn gallu deall lleferydd, yn byw rhwng dau fynydd.",
+    "Gofynnwyd i mi adeiladu rhwystr, nid er budd personol, ond i amddiffyn rhag grym dinistriol.",
+    "Datganais fod y nerth i adeiladu'r wal enfawr hon wedi dod gan Allah, a byddai'n sefyll tan amser addawedig.",
+    "Mae fy enw, a gyfieithir yn aml fel 'Yr Un Dwygorn,' yn arwydd o fy nghyrhaeddiad ar draws y ddaear neu efallai dau gyfnod gwahanol."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Musa",
+        "Proffwyd Sulayman",
+        "Dhul-Qarnayn",
+        "Pharo",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Derbyn datguddiad",
+        "Wynebu teyrn",
+        "Adeiladu llong wych",
+        "Adeiladu rhwystr cadarn",
+        "Cael eich llyncu gan bysgodyn"
+      ],
+      "answer": "Adeiladu rhwystr cadarn"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr Arch",
+        "Y Staff",
+        "Y Rhwystr Haearn",
+        "Afon Nîl",
+        "Yr Orsedd"
+      ],
+      "answer": "Y Rhwystr Haearn"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Iachawdwriaeth rhag llifogydd",
+        "Dod yn deyrnas fawr",
+        "Amddiffyniad i bobl",
+        "Dinistrio gormeswr",
+        "Doethineb parhaol"
+      ],
+      "answer": "Amddiffyniad i bobl"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

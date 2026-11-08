@@ -1,0 +1,61 @@
+{
+  "title": "Mokolo ya Elakiseli ya Nsuka",
+  "intro": "Lokola babengamaki mpo na kolakisa nguya monene, etuluku moko ya basani ya mayele bamimonaki ete bakutanaki na solo moko oyo bakanisaki te oyo ekobongola bomoi na bango mpo na libela.",
+  "clues": [
+    "Toyebanaki mpo na misala na biso ya maboko, ba masta ya illusion mpe ya mayele mabe.",
+    "Mokonzi abengaki biso mpo na kokutana na momekani moko oyo azalaki na lingenda ya pɛtɛɛ.",
+    "Ntango tomonaki bosolo, tokweyaki na nse na kofukama, kosakolaka kondima na Nkolo ya mokili.",
+    "Mokonzi yango abangisaki biso ete akopesa biso etumbu makasi, kasi tolɛngamaki te.",
+    "Tozalaki kati na bato ya liboso oyo bandimaki nsango nsima ya komona elembo ya polele.",
+    "Tobomamaki martiru mpo na kondima na biso, kasi tokozala bato ya liboso oyo bakokɔta na Paladiso elongo na bayengebene."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Bato ya nganga-nkisi ya Farao",
+        "Bayisraele",
+        "Bato ya Thamud",
+        "Bayekoli ya Yis",
+        "Mampinga ya Abraha"
+      ],
+      "answer": "Bato ya nganga-nkisi ya Farao"
+    },
+    "trial": {
+      "label": "Momekano / Likambo",
+      "options": [
+        "Concurrence na Prophète Musa",
+        "Kotonga Linɔ́ngi ya Linɔ́ngi",
+        "Mpela Monene",
+        "Bolɔzi ya Nzoku",
+        "Mbu oyo ezali kokabwana"
+      ],
+      "answer": "Concurrence na Prophète Musa"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mokolo ya Fɛti",
+        "Lobwaku ya Tuwa",
+        "Engumba ya Iram",
+        "Elanga ya Boseko",
+        "Esika ya patatalu ya Arafat"
+      ],
+      "answer": "Mokolo ya Fɛti"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Babakamaki na ekulusu liboso ya miso ya bato",
+        "Bazindaki bango na mbu",
+        "Bakómaki balandi ya mosakoli",
+        "Batindamaki na boombo",
+        "Mɔtɔ esilisaki bango"
+      ],
+      "answer": "Babakamaki na ekulusu liboso ya miso ya bato"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

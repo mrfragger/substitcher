@@ -1,0 +1,61 @@
+{
+  "title": "Xandaq ruhlari",
+  "intro": "Siz shafqatsiz hukmdor soxta xudolarga mutlaq sadoqatni talab qilgan davrga sayohat qilasiz. Fidoyi ruhlardan iborat kichik bir jamoa rad javobini berdi va shu qadar qattiq jazoga duch keldiki, abadiy la'natga uchradi. Ularning hikoyasi Qur'onda sobit imonning guvohligi sifatida aks-sado beradi. Siz bu sobit guruhni aniqlay olasizmi?",
+  "clues": [
+    "Biz soxta xudolarga sig'inishni talab qiladigan hukmdorning zulmi ostida yashadik",
+    "Bizning jamoamiz faqat Allohga bo'lgan e'tiqodimiz uchun qattiq ta'qiblarga duch keldi",
+    "Hukmdor katta xandaq qazishni va uni shiddatli alanga bilan yoqib yuborishni buyurdi",
+    "Biz imonimizdan voz kechmaganimiz uchun, biz birma-bir olovli chuqurga tashlandik",
+    "Bizning hikoyamiz Qur'onning bir qismiga aylandi va bizni ta'qib qilganlar abadiy la'natlandilar.",
+    "Bizning sinovlarimizni yozib olgan sura osmonning buyuk samoviy belgilari sharafiga nomlangan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Ashobi Uxdud (Xandaq sahobalari)",
+        "G'or ahli (Ashab al-Kahf)",
+        "Shabbat kuni odamlari",
+        "Od qavmi",
+        "Samud qavmi"
+      ],
+      "answer": "Ashobi Uxdud (Xandaq sahobalari)"
+    },
+    "trial": {
+      "label": "Bizning sinovimiz",
+      "options": [
+        "Olovli chuqurda tiriklayin kuydirilmoqda",
+        "Ko'p yillar davomida g'orda muhrlangan holda",
+        "Muqaddas dam olish kunida baliq ovlash",
+        "Uvillagan shamol tomonidan vayron qilinmoqda",
+        "Muqaddas urg'ochi tuyani o'ldirish"
+      ],
+      "answer": "Olovli chuqurda tiriklayin kuydirilmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yonayotgan olov xandaqi",
+        "Sodiq it bilan yashirin g'or",
+        "Qadimgi halokatga uchragan shaharning baland ustunlari",
+        "Tosh jarliklarga o'yilgan tog' uylari",
+        "Kuchli shamollar bilan qoplangan ochiq tekislik"
+      ],
+      "answer": "Yonayotgan olov xandaqi"
+    },
+    "outcome": {
+      "label": "Bizning natijamiz",
+      "options": [
+        "Biz shahid bo'ldik va ta'qibchilar abadiy la'natlandilar",
+        "Biz 309 yil uxlagandan keyin uyg'ondik",
+        "Biz gunohlarimiz uchun maymunga aylandik",
+        "Kuchli shamol barchamizni vayron qildi",
+        "Bitta dahshatli qichqiriq bizning borligimizni barbod qildi"
+      ],
+      "answer": "Biz shahid bo'ldik va ta'qibchilar abadiy la'natlandilar"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

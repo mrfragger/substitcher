@@ -1,0 +1,61 @@
+{
+  "title": "Is-Sejħa mill-Wied Sagru",
+  "intro": "Lil hinn mill-paġni tal-istorja tinsab l-istorja ta’ ruħ li kienet bejn ħakkiem qawwi u poplu sħiħ skjav. Dan l-individwu kien imsejjaħ biex jeħles nazzjon mit-tirannija, billi wettaq għeġubijiet li sfidaw kull liġi naturali. Minn muntanja sagra għal miraklu fuq l-ilmijiet, dan il-qaddej ta’ Alla ra sinjali li kienu se jidwu matul is-sekli. Il-kompitu tiegħek illum hu li tidentifika din il-figura notevoli li l-wirt tagħha sawwar il-kors tal-istorja tal-bniedem.",
+  "clues": [
+    "Jiena twilidt fi żmien meta l-poplu tiegħi ffaċċja digriet fatali, u l-familja tiegħi tefgħetni fl-ilmijiet biex issalva ħajti.",
+    "Instabu u trabbejt fid-dar stess tal-ħakkiem li kien ordna l-mewt tan-nies tat-tip tiegħi.",
+    "Ħarabt lejn muntanja sagra fejn rajt nar fuq siġra li ma ntużatx, u leħen kellimni minnha.",
+    "Intbgħatt lura għand dak l-istess ħakkiem bil-mirakli, u nitlob il-libertà tal-poplu tiegħi li kien ilsir.",
+    "Jiena ħabatt il-baħar bil-bastun tiegħi, u dan inqasam f’mogħdijiet niexfa, u belgħet lil dawk li kienu qed jiġru warajja lin-nies tiegħi.",
+    "Jiena kkomunikajt mal-Mulej tiegħi fuq muntanja għal erbgħin lejl, u ngħatajt tabelli ta’ gwida divina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Musa",
+        "Il-Profeta Harun",
+        "Profeta Ibrahim",
+        "Profeta Yusuf",
+        "Il-Profeta Dawud"
+      ],
+      "answer": "Il-Profeta Musa"
+    },
+    "trial": {
+      "label": "Il-Prova Definitorja Tiegħi",
+      "options": [
+        "Il-Qsim tal-Baħar",
+        "Il-Bini tal-Arka l-Kbira",
+        "Prova minn Nar Jaħraq",
+        "Konfinament fiż-Żaqq ta' Baliena",
+        "Priġunerija minn Uffiċjal Eġizzjan"
+      ],
+      "answer": "Il-Qsim tal-Baħar"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Bastun tar-Ragħaj",
+        "Arka Kbira tal-Injam",
+        "Għar Fejn il-Ħin Raqad",
+        "Ġnien b'Żewġ Molol",
+        "Tron Imżejjen bid-Deheb"
+      ],
+      "answer": "Bastun tar-Ragħaj"
+    },
+    "outcome": {
+      "label": "Ir-Riżultat",
+      "options": [
+        "Il-Poplu Tiegħi Qasam il-Baħar għas-Sigurtà",
+        "Dilluvju Kbir Qered lil dawk li ma kinux jemmnu",
+        "In-Nar ta’ Tirann Sar Kessaħ u Paċifiku",
+        "Il-Baħar Tefa’ l-Priġunier Tiegħu fuq ix-Xatt",
+        "Il-Priġunier Sar it-Teżorier tal-Eġittu"
+      ],
+      "answer": "Il-Poplu Tiegħi Qasam il-Baħar għas-Sigurtà"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

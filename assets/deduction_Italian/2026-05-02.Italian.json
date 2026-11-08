@@ -1,0 +1,61 @@
+{
+  "title": "Il portatore di un messaggio funebre",
+  "intro": "Un'anima retta fu inviata a guidare un popolo smarrito in trasgressioni senza precedenti. Questo messaggero rimase saldo, lanciando un severo avvertimento contro una corruzione che sfidava l'ordine naturale. Nonostante le suppliche sincere, la comunità sprofondò sempre più nelle tenebre, preparando il terreno per un giudizio divino senza precedenti. Sapreste identificare questo fedele servitore di Allah?",
+  "clues": [
+    "Ero un parente di un altro grande profeta e sono emigrato con lui, lasciandomi alle spalle la nostra terra d'origine.",
+    "Sono stato inviato presso un popolo la cui malvagità era unica, una trasgressione che nessuna creatura aveva commesso prima di loro.",
+    "Anche nella mia famiglia c'era divisione; un parente stretto si era segretamente schierato dalla parte degli increduli.",
+    "Angeli, sotto forma di giovani uomini di bell'aspetto, vennero a casa mia come ospiti, causandomi grande angoscia per la loro incolumità.",
+    "Ho offerto in sposa le mie figlie al mio popolo nel disperato tentativo di distoglierli dalle loro azioni vergognose.",
+    "Il mio popolo fu annientato da un terribile grido e da una pioggia di pietre di argilla cotta, mentre io e la mia famiglia, tranne uno, ci salvammo fuggendo nel cuore della notte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Shu'ayb",
+        "Profeta Salih",
+        "Profeta Lutero",
+        "Profeta Hud",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Lutero"
+    },
+    "trial": {
+      "label": "Qual era il mio studio clinico principale?",
+      "options": [
+        "Convincere un re tiranno a non bruciarmi sul rogo.",
+        "Affrontare la gelosia dei miei fratelli ed essere gettato in un pozzo.",
+        "Confrontarsi con un popolo coinvolto in un'immoralità sessuale senza precedenti.",
+        "Guidare il mio popolo fuori dalla schiavitù di un potente faraone.",
+        "Costruire un'enorme nave per salvare i credenti da un grande diluvio."
+      ],
+      "answer": "Confrontarsi con un popolo coinvolto in un'immoralità sessuale senza precedenti."
+    },
+    "location": {
+      "label": "Qual era il luogo della mia missione?",
+      "options": [
+        "La città di Madyan",
+        "L'antica città di Iram",
+        "La terra d'Egitto sotto il faraone",
+        "Le città di Sodoma e Gomorra",
+        "La città di Ninive"
+      ],
+      "answer": "Le città di Sodoma e Gomorra"
+    },
+    "outcome": {
+      "label": "Qual è stato il risultato finale?",
+      "options": [
+        "Le città furono rovesciate e ricoperte da pietre di argilla cotta.",
+        "Il mio popolo fu inghiottito dalla terra insieme al suo ricco capo.",
+        "Il mio popolo fu sterminato da un vento violento per sette notti e otto giorni.",
+        "Il mio popolo fu afflitto da piaghe come locuste, pidocchi e rane.",
+        "Un pesce gigante mi ha inghiottito dopo che ho abbandonato la mia missione."
+      ],
+      "answer": "Le città furono rovesciate e ricoperte da pietre di argilla cotta."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den skjulte troende",
+  "intro": "I maktens overdådige haller, hvor vantro og tyranni hersket, talte en enslig sannhetsstemme fra et uventet sted. Denne skikkelsen utfordret autoriteten til å beskytte en budbringer, og risikerte sin egen sikkerhet for å forkynne sannheten.",
+  "clues": [
+    "Jeg levde i et land med stort tyranni, og tjente en hersker som hevdet å være guddommelig.",
+    "Jeg holdt mine sanne overbevisninger skjult i mange år, i frykt for konsekvensene av å avsløre dem.",
+    "Da et budbringer kom med klare tegn, trodde jeg, men mitt folk konspirerte mot ham.",
+    "Jeg sto foran tyrannen og hans råd og argumenterte for at de ikke burde drepe en uskyldig budbringer.",
+    "Jeg advarte dem om straffen for tidligere nasjoner som forkastet sannheten, slik som Noahs og Ads folk.",
+    "Allah reddet meg fra deres onde planer, og jeg var vitne til ødeleggelsen av det undertrykkende regimet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Den troende i faraos familie",
+        "Faraos magiker",
+        "Faraos vesir",
+        "Faraos kone",
+        "Faraos kasserer"
+      ],
+      "answer": "Den troende i faraos familie"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Å forsvare en profet mot henrettelse",
+        "Å utfordre en tryllekunstners triks",
+        "Å bygge et tårn for å nå himmelen",
+        "Deler havet for å flykte",
+        "Å tolke en konges drøm"
+      ],
+      "answer": "Å forsvare en profet mot henrettelse"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Faraos hoff",
+        "Den brennende busken",
+        "Gullkalven",
+        "Madyans brønn",
+        "Profeten Nuhs ark"
+      ],
+      "answer": "Faraos hoff"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Reddet fra skade mens undertrykkerne ble ødelagt",
+        "Ble en mektig hersker",
+        "Ble kastet i brann og kom uskadd fra det",
+        "Ble slukt av jorden",
+        "Vandret i ødemarken i førti år"
+      ],
+      "answer": "Reddet fra skade mens undertrykkerne ble ødelagt"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

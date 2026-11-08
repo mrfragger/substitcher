@@ -1,0 +1,61 @@
+{
+  "title": "Umphefumlo Wokuqala Ukuma",
+  "intro": "Kudala ngaphambi kokuba kubekho nasiphi na isithunywa emhlabeni, ngaphambi kokuba kutyhilwe nasiphi na isibhalo, kwabakho isidalwa esingafaniyo nezinye. Lo mphefumlo wawubunjwe zizandla zikaThixo, wanikwa indawo yobuhle obungenakuthelekiswa nanto, waza wavavanywa ngendlela eyayiza kuvakala kuyo yonke imbali yoluntu. Okwalandela yayilibali lobuthathaka, inguquko enyanisekileyo, kunye nesiphelo esasiza kutshintsha indlela yendalo ngonaphakade. Ungaqikelela ukuba ngubani lo?",
+  "clues": [
+    "Ndabunjwa zizandla zoThixo onenceba ngothuli lomhlaba.",
+    "Ndanikwa ikhaya elihle elingenakuthelekiswa nanto, apho kungekho ndlala okanye ukudinwa okunokundichukumisa khona",
+    "Ndayalelwa ukuba ndingasondeli kumthi omnye, kuba kwakungavumelekanga",
+    "Mna nomlingane wam sikhohlisiwe saza sasondela kumthi owalelweyo, ngokuchasene nomyalelo weNkosi yethu.",
+    "Sabuyela eNkosini yethu ngenguquko enyanisekileyo, saza saxolelwa izigqitho zethu",
+    "Kuthi, lonke uluntu lwaphuma; ndingowokuqala ukuhamba kulo mhlaba"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uAdam",
+        "Umprofeti uMusa",
+        "Umprofeti uNuh",
+        "Umprofeti uYusuf",
+        "Umprofeti uIsa"
+      ],
+      "answer": "Umprofeti uAdam"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukulingwa ngumthi ongavumelekanga",
+        "Ukungqubana noFaro",
+        "Ukwakha iTyeya enkulu",
+        "Umbingelelo wonyana othandekayo",
+        "Ukuphoswa emlilweni omkhulu"
+      ],
+      "answer": "Ukulingwa ngumthi ongavumelekanga"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umthi Ongavumelekanga",
+        "Isihlahla Esitshayo",
+        "Abasebenzi beGolden",
+        "Ityeya Enkulu",
+        "Ithole Legolide"
+      ],
+      "answer": "Umthi Ongavumelekanga"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Wathunyelwa emhlabeni njengomlondolozi wokuqala woluntu",
+        "UFaro nomkhosi wakhe batshona elwandle",
+        "Umkhukula omkhulu watshabalalisa abangendawo",
+        "Umlilo waba noxolo kwaye wapholile",
+        "Wanikwa igunya phezu kobukumkani baseYiputa"
+      ],
+      "answer": "Wathunyelwa emhlabeni njengomlondolozi wokuqala woluntu"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

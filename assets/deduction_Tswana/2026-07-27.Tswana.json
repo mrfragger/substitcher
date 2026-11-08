@@ -1,0 +1,61 @@
+{
+  "title": "Tshupelo e e Fetotseng Bokamoso",
+  "intro": "Mo malatsing a ntlha a batho, moya o ne o ntsha mpho ka maikaelelo a a phepa. Mme lefa go ntse jalo, lefufa le ne le lalela mo moriting wa go amogelwa. Ribolola kgang ya setshwantsho seno se boineelo jwa sone le bokhutlo jwa sone jo bo utlwisang botlhoko di dirwang gore di se ka tsa swa mo tshenolong ya bomodimo.",
+  "clues": [
+    "Ke ne ke le mongwe wa dikokomana tsa ntlhantlha tsa batho.",
+    "Ke ne ka isa tshupelo kwa Morena wa me, mme ya amogelwa ka kamogelo.",
+    "Tshupelo ya ga morwarre e ne ya ganwa, lefufa la fifatsa pelo ya gagwe.",
+    "Ke ne ka mo raya ka re, ‘Fa o ka otlololela letsogo la gago kwa go nna go mpolaya, ga nkitla ke otlololela letsogo la me go go bolaya; eleruri ke boifa Allah, Morena wa mafatshe.’",
+    "Ke ne ka nna motswasetlhabelo wa tiro ya ntlha ya polao mo lefatsheng.",
+    "Madi a me a ne a lela, mme ke ne ke le moswelatumelo wa ntlha wa go tlhoka molato."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Habile (Abele)",
+        "Kabile (Kaine)",
+        "Monna wa kwa Ya-Sin",
+        "Basamari",
+        "Luqman"
+      ],
+      "answer": "Habile (Abele)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Tshupelo ya gagwe e ne ya amogelwa, mme seno sa dira gore morwarraagwe a mo fufegele le go mmolaya .",
+        "O ne a latlhelwa mo leubelong le le tukang mme a tswa a sa gobala",
+        "O ne a aga sekepe se segolo a kaelwa ke Modimo",
+        "O ne a mediwa ke tlhapi e kgolo mme a sala mo lefifing .",
+        "O ne a etelela batho ba gagwe pele go ralala lewatle le le kgaoganeng"
+      ],
+      "answer": "Tshupelo ya gagwe e ne ya amogelwa, mme seno sa dira gore morwarraagwe a mo fufegele le go mmolaya ."
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Tshupelo e e amogelwang",
+        "Lore lo lo fetogang noga",
+        "Kamela e namagadi e le sesupo sa bomodimo",
+        "Hoopoe e tlisa dikgang",
+        "Namane ya gauta e ne e obamelwa"
+      ],
+      "answer": "Tshupelo e e amogelwang"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Polao ya ntlha mo hisitoring; morwarraagwe o ne a atlholwa",
+        "A mediwa ke lefatshe mmogo le khumo ya gagwe .",
+        "E fetogile ditshwene ka ntlha ya tlolomolao",
+        "E sentswe ke phefo e e bogale, e e nang le aese",
+        "Go nwela mo morwaleleng o mogolo e le kotlhao"
+      ],
+      "answer": "Polao ya ntlha mo hisitoring; morwarraagwe o ne a atlholwa"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Užmaskuotas tikintysis tirono teisme",
+  "intro": "Paauksuotose, arogantiškiausio Korano žinomo valdovo menėse – kur kiekvieną įsaką apibrėžė nepaklusnumas dieviškumui – viena siela vaikščiojo tarp privilegijuotųjų, akivaizdoje slėpdama pavojingiausias paslaptis. Šis asmuo už tų sienų nešiojo tikėjimą, kuris buvo taip uždraustas, kad jo atskleidimas reikštų neabejotiną mirtį. Tačiau įsitikinimas degė kaip liepsna po pelenais, ir kai atėjo akimirka, tiesa nuskambėjo su drąsa, kuri sudrebino pačius tirono rūmų pamatus.",
+  "clues": [
+    "Gyvenau galingiausio ir arogantiškiausio savo laikų valdovo vidiniame rate, apsuptas prabangos ir įtakos.",
+    "Savo tikrąjį įsitikinimą slėpiau giliai širdyje, bijodamas dėl savo gyvybės nuo tų, kurie valdė žiauriai ir engiamai.",
+    "Kai mano tauta abejojo ​​ir svyravo tiesos akivaizdoje, aš žengiau į priekį, kad perspėčiau juos apie tragišką likimą, ištikusį praeities tautas, kurios atmetė savo Viešpaties pasiuntinius.",
+    "Priminiau savo žmonėms istoriją apie mylimą jauną svajotoją, kurį nuvylė jo paties giminaičiai, tačiau jis iškilo iki didelės valdžios tolimoje šalyje.",
+    "Raginau savo žmones nepaklusti valdovui, kuris juos suklaidino, o verčiau kviečiau sekti manimi teisumo ir vadovavimo keliu.",
+    "Aš atvirai sakiau tiesą, nors tirono pasekėjai grasino mane užmėtyti akmenimis arba išvaryti iš šalies."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Paslėptas tikintysis iš faraono šeimos",
+        "Kantrus patriarchas, kuris verkė aklas, kol sugrįžo jo sūnus",
+        "Ištikimas tarnas, kurio odos liga galiausiai buvo išgydyta",
+        "Nuodėmingas sūnus, atmetęs pranašo kvietimą įlipti į arką",
+        "Negailestingas tironas, kuris tvirtino esąs dieviškas"
+      ],
+      "answer": "Paslėptas tikintysis iš faraono šeimos"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Slėpti tikėjimą tirono teisme",
+        "Apakęs dėl daugelio metų verksmo",
+        "Išbandomi dėl šeimos netekties ir didelių kančių",
+        "Statant didingą laivą, išjuokiamas",
+        "Ištverti didelio gaisro svilinantį karštį"
+      ],
+      "answer": "Slėpti tikėjimą tirono teisme"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Faraono rūmai",
+        "Kalno viršūnė, kurioje buvo statoma arka",
+        "Šventas slėnis po Sinajaus kalnu",
+        "Nuostabus sodas su dviem tekančiais upeliais",
+        "Krištolinis sostas virš požeminės upės"
+      ],
+      "answer": "Faraono rūmai"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Dieviškoji apsauga, kol engėjai sutiko savo sunaikinimą",
+        "Po dešimtmečių išsiskyrimo vėl susitiko su šeima",
+        "Sulaukė kantrybės, atgavo sveikatą ir pagamino didesnę šeimą",
+        "Buvo išgelbėtas valtyje, kol likęs pasaulis nuskendo",
+        "Alacho įsakymu buvo išgelbėtas nenukentėjęs nuo liepsnų"
+      ],
+      "answer": "Dieviškoji apsauga, kol engėjai sutiko savo sunaikinimą"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

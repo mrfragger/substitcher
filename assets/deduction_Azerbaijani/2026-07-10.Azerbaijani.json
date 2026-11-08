@@ -1,0 +1,61 @@
+{
+  "title": "Doqquz Bürcün Daşıyıcısı",
+  "intro": "Ən təvazökar başlanğıclardan bir fiqur yüksəldi, taleyi ilahi iradə ilə yazıldı. Körpəlikdə gizlənən və xalqını məhv etməyə çalışan hökmdarın divarları arasında böyüyən bu ruh sonda qüdrətli bir missiyaya çağırıldı. Yalnız iman və təvazökar çoban çubuğu ilə təchiz olunmuş onlar dövrün ən güclü hökmdarının qarşısında dayandılar və kölə olanlar üçün azadlıq tələb etdilər. Dünyanın özü onların əmri ilə hərəkət edirdi - sular ayrıldı, göylər danışdı və bir səltənət süqut etdi.",
+  "clues": [
+    "Həyatımın ilk günləri qorxu ilə keçib — mənim kimi körpələr doğularkən gələcəkdən qorxan amansız bir hökmdar tərəfindən təqib olunublar.",
+    "Məni su xilas etdi və məhvimi istəyən hökmdarın sarayında böyüdüm.",
+    "Qəfil bir hadisədən sonra vətənimdən qaçdım və uzaq bir diyarda təvazökar bir çoban oldum.",
+    "Mən xalqımın azadlığını tələb edən sadə bir əsa və aydın bir mesajla o güclü hökmdarın qarşısında durmaq üçün geri qayıtdım.",
+    "Ardımca gələnlər üçün böyük bir su hövzəsini ayırdım və o suların düşmənimi necə tamamilə udduğunu seyr etdim.",
+    "Allahdan ilahi rəhbərlik almaq üçün müqəddəs bir dağa çıxdım və mənə həqiqətin sübutu olaraq doqquz açıq-aydın əlamət verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Musa peyğəmbər",
+        "Nuh peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Yusif peyğəmbər",
+        "Lut peyğəmbər"
+      ],
+      "answer": "Musa peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Fironun sarayında onunla qarşılaşmaq",
+        "Böyük daşqından sağ çıxmaq üçün gəminin tikilməsi",
+        "Büt düzəldənlər tərəfindən alovlanan oda atılmaq",
+        "Qardaşlarım tərəfindən dərin bir quyuya salınıram",
+        "Xalqımı əxlaqsız davranışlardan çəkindirməyə çalışıram"
+      ],
+      "answer": "Fironun sarayında onunla qarşılaşmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "İlana çevrilən əsa",
+        "Nuhun gəmisi",
+        "Bilqis taxtı",
+        "Külək və cinləri idarə edən üzük",
+        "Yığılan xəzinələrin açarları çox ağırdır"
+      ],
+      "answer": "İlana çevrilən əsa"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Xalqımı ayrılmış suların o tayından azadlığa apardım",
+        "Bir gəminin içindəki böyük bir daşqından xilas oldu",
+        "Dərin əzablardan sonra sağlamlığına və ailəsinə qovuşdu",
+        "Böyük bir balıqdan diri-diri atıldı",
+        "Müqəddəs Evin təməlini tikdi"
+      ],
+      "answer": "Xalqımı ayrılmış suların o tayından azadlığa apardım"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

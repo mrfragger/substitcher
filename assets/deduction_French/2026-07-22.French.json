@@ -1,0 +1,61 @@
+{
+  "title": "Du fond du puits",
+  "intro": "Le parcours d'une jeune âme commença par une vision puissante des astres s'inclinant en signe de révérence. Sa vie fut marquée par la plus profonde trahison de ses proches, suivie d'années d'esclavage et d'emprisonnement injuste. Pourtant, grâce à une foi inébranlable et à la guidance divine, il s'éleva des profondeurs de l'abîme pour devenir l'une des personnes les plus influentes d'un grand empire. Saurez-vous découvrir l'identité de cet extraordinaire serviteur d'Allah ?",
+  "clues": [
+    "On m'a montré une vision de onze étoiles, du soleil et de la lune prosternés devant moi.",
+    "J'étais l'enfant chéri de mes parents, ce qui engendrait de la jalousie chez mes frères.",
+    "J'ai été saisi par mes propres frères, dépouillé de mes vêtements et jeté dans un puits profond et obscur.",
+    "J'ai été vendue comme une marchandise sur un marché et emmenée loin de ma patrie.",
+    "Une femme influente a tenté de porter atteinte à mon honneur, et j'ai été jeté en prison pour avoir refusé ses avances.",
+    "J'ai eu le don d'interpréter les rêves et je suis passé du statut de prisonnier oublié à celui de premier ministre d'Égypte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Yusuf",
+        "Le prophète Moïse",
+        "Prophète Dawud",
+        "Prophète Ayyub",
+        "Le prophète Sulayman"
+      ],
+      "answer": "Prophète Yusuf"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "jeté dans un puits profond par ses propres frères",
+        "Survivre à une grande inondation mondiale",
+        "Être jeté dans une fournaise ardente",
+        "Combattre un guerrier géant sur un champ de bataille",
+        "Être avalé par un grand poisson"
+      ],
+      "answer": "jeté dans un puits profond par ses propres frères"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un puits profond et sec en pleine nature",
+        "Une grande arche en bois au sommet d'une montagne",
+        "Un bâton qui se transformait en serpent",
+        "Un trône magnifique d'une grande splendeur",
+        "Une fronde et cinq pierres lisses"
+      ],
+      "answer": "Un puits profond et sec en pleine nature"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il est devenu Premier ministre d'Égypte et a retrouvé sa famille bien-aimée.",
+        "Il construisit un grand navire et appela les gens à la foi.",
+        "Il a libéré toute une nation de l'esclavage en Égypte.",
+        "Il reçut un royaume et la domination sur l'invisible",
+        "On lui a témoigné de la patience durant sa grave maladie et il a guéri."
+      ],
+      "answer": "Il est devenu Premier ministre d'Égypte et a retrouvé sa famille bien-aimée."
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

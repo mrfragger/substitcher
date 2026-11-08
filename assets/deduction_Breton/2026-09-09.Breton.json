@@ -1,0 +1,61 @@
+{
+  "title": "An ene kentañ o sevel",
+  "intro": "Pell a-raok ma kerzhe kannad ebet war an douar, a-raok ma vefe diskuliet skritur ebet, e teuas da vezañ un den disheñvel diouzh hini ebet all. Stummet e oa bet an ene-se gant daouarn doueel, roet dezhañ ul lec'h kaer hep e bar, ha amprouet en un doare a voe klevet a-hed istor mab-den. Ar pezh a zeuas war-lerc'h a oa un istor a wanded, a geuzidigezh gwirion, hag un tonkad a cheñche hent ar grouidigezh da viken. Gallout a rit divinout piv eo hemañ ?",
+  "clues": [
+    "Stummet on bet gant daouarn an Trugarezus-meurbet diwar poultrenn an douar",
+    "Roet e voe din un ti kaer hep e bar, e-lec'h ma ne c'halle naon na skuizhder ebet touch ouzhin",
+    "Gourc’hemennet e oue d’in tostaat morse ouz eur wezenn e-bed, rak difennet e oa",
+    "Va c’hompagnunez ha me a voe touellet hag a dostaas ouzh ar wezenn difennet, a-enep gourc’hemenn hon Aotrou",
+    "Distreiñ a reomp d'hon Aotrou gant keuz gwirion, ha pardonet e voe deomp hon torfedoù",
+    "Diganeomp eo diskennet an holl dud ; Me eo an hini kentañ o kerzhet war an douar-mañ"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Adam",
+        "Ar profed Musa",
+        "Profed Nuh",
+        "Ar profed Yusuf",
+        "Ar profed Isa"
+      ],
+      "answer": "Ar profed Adam"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Temptadur gant ar wezenn difennet",
+        "Emgav gant Faraon",
+        "O sevel an Arc'h bras",
+        "Sakrifis ar mab karet",
+        "Bezañ taolet en un tan bras"
+      ],
+      "answer": "Temptadur gant ar wezenn difennet"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar wezenn difennet",
+        "Ar vodenn o teviñ",
+        "Ar vazh aour",
+        "An Arc'h Meur",
+        "Al Leue Aour"
+      ],
+      "answer": "Ar wezenn difennet"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Kaset d'an douar evel kentañ gwazour an denelezh",
+        "Faraon hag e arme beuzet er mor",
+        "Al liñvadenn vras ​​a zistrujas ar re zrouk",
+        "Dont a reas an tan da vezañ fresk ha peoc'hus",
+        "Roet e voe dezhañ galloud war rouantelezh Egipt"
+      ],
+      "answer": "Kaset d'an douar evel kentañ gwazour an denelezh"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

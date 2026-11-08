@@ -1,0 +1,61 @@
+{
+  "title": "Auksinio veršio atstumtasis",
+  "intro": "Korane paminėta asmenybė, kai nebuvo kilmingo pranašo, nuklydo nuo tikėjimo daugybe žmonių. Kažkas iš aukso pagaminto užkariavo visos tautos širdis, tačiau šio asmens istorija baigiasi vienatve ir keistu prakeiksmu. Kas galėtų būti šis atstumtasis?",
+  "clues": [
+    "Aš iškilau, kai nebuvo didžio pranašo, kuris pakilo į dangų gauti dieviškojo vadovavimo.",
+    "Savo rankomis pasidariau ir suklaidinau daugybę žmonių.",
+    "Mano sukurtas auksinis kūrinys atrodė gyvas, skleidęs garsus, kurie užhipnotizavo tuos, kurie jį sekė.",
+    "Teigiau, kad mačiau tai, ko kiti negalėjo suvokti – žvilgsnį į nematomą.",
+    "Aš kažką ištraukiau iš dieviškojo pasiuntinio pėdsakų ir išliejau į išlydytą metalą.",
+    "Buvau pasmerktas klajoti vienas, apimtas unikalaus prakeiksmo, kad niekas negalėjo paliesti mano odos, o aš – jų odos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Samiri",
+        "Hamanas",
+        "Faraonas (Fir'awn)",
+        "Abu Lahabas",
+        "Pranašas Salihas"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Sukūrė auksinį veršį garbinimui",
+        "Pastatė bokštą, siekiantį dangų",
+        "Mesė iššūkį Egipto burtininkams",
+        "Vadovavo armijai su skraidančiais žvėrimis",
+        "Padalinkite mėnulį kaip pranašystės įrodymą"
+      ],
+      "answer": "Sukūrė auksinį veršį garbinimui"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršis",
+        "Lazdelė, kuri virto gyvate",
+        "Degantis krūmas ant kalno",
+        "Arka, stovinti ant viršūnės",
+        "Tranšėja, užpildyta liepsnojančia ugnimi"
+      ],
+      "answer": "Auksinis veršis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Ištremtas, draudžiama būti liečiamam ar liesti kitus",
+        "Nuskendo jūroje kartu su armija",
+        "Sudegintas gyvas už tikėjimo atmetimą",
+        "Partrenkė smarkus, riaumojantis vėjas",
+        "Atleistas ir pakeltas į aukštą padėtį"
+      ],
+      "answer": "Ištremtas, draudžiama būti liečiamam ar liesti kitus"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

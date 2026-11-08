@@ -1,0 +1,61 @@
+{
+  "title": "Det obesvarade kallet i arrogansens land",
+  "intro": "Du står i ruinerna av en en gång stor civilisation, där makt och stolthet inte kände några gränser. En budbärare vandrade bland dem och ropade till sanningen, men deras hjärtan var förhärdade. Varningen gick obemärkt förbi, och himlen själv blev ett redskap för vrede. Vem var denne budbärare, och vad hände med dem som avvisade kallelsen?",
+  "clues": [
+    "Jag sändes till ett folk som var oöverträffat i styrka och som byggde ett monument på varje höjd.",
+    "Mitt folk ansåg sig oövervinnliga och sade: \"Vem är mäktigare än vi i styrka?\"",
+    "Jag uppmanade dem att dyrka Allah allena, men de anklagade mig för dumhet och lögn.",
+    "De utmanade mig att utdöma det straff jag lovat om jag talade sanning.",
+    "Allah sände över dem en ofruktbar vind som skonade ingenting den kom över.",
+    "Jag och de som trodde med mig räddades genom Allahs barmhärtighet, medan de icke-troende fullständigt förintades."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Hud",
+        "Profeten Salih",
+        "Profeten Shuaib",
+        "Profeten Lut",
+        "Profeten Nuh"
+      ],
+      "answer": "Profeten Hud"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "En förödande vind förintade de icke-troende",
+        "En stor översvämning omslöt de icke-troende",
+        "Ett regn av stenar regnade ner",
+        "Ett högt skrik grep de icke-troende",
+        "En jordbävning drabbade de icke-troende"
+      ],
+      "answer": "En förödande vind förintade de icke-troende"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En obeveklig vind",
+        "En ark av trä",
+        "En honkamel",
+        "Ett regn av lerstenar",
+        "En flammande eld"
+      ],
+      "answer": "En obeveklig vind"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hud och de troende räddades, och de icke-troende förintades",
+        "Hud höjdes till en hög ställning",
+        "Hud dödades av sitt folk",
+        "Huds folk ångrade sig och skonades",
+        "Hud lämnade sitt folk före något straff"
+      ],
+      "answer": "Hud och de troende räddades, och de icke-troende förintades"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

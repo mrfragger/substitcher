@@ -1,0 +1,61 @@
+{
+  "title": "L'eco travers i scogliere",
+  "intro": "Figürate una vall indué i abitaziun sun tajà di scùgli e l’aria la purta la memoria de un avvertiment che l’è minga stà tegnuu cunt. Un popul che una volta l’era prusperà chichinsci, benedett ma sfidant, fin quand un segn l’è vegnuu fœura de la ròca che se fidavan.",
+  "clues": [
+    "Erum un popul che sculpiva cà sicür in di muntagn, e se sentiva al sicür in di noster cà de ròcc.",
+    "Vivem in una terra de pianure e de pedra, benedeta de giardin e de surgent.",
+    "Un messagger de intra de nun l’è vegnuu, che g’ha ciamà a bandonà i noster falsi dè e a venerà l’Unic vero Creatur.",
+    "G’hem stabilì cun arroganza una cundiziun per la credenza: un segn ünich che sarès stà fœura di stess ròcc che g’hem sculpì.",
+    "Quand la camel promessa l’è cumparsa de la ròca, un segn ciar, la noster élite l’ha ancamò refudà e la g’ha sgrifonà anca se l’era avvertì de una destinaziun imminent.",
+    "Tri dì dopu el noster fatt, un tron ​​g’ha fatt eco in de la vall e serem ridott a maceri, i noster cà i noster tomb."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "La gent de ¿Ad",
+        "El popul de Thamud",
+        "El popul de Madyan",
+        "La gent del boschet",
+        "La gent de la caverna"
+      ],
+      "answer": "El popul de Thamud"
+    },
+    "trial": {
+      "label": "La nostra prova/Event principal",
+      "options": [
+        "El muscul del ischio de la camel de Allah",
+        "El cult del vitell d’or",
+        "La rottura del Sabat",
+        "La costruziun de una tor al ciel",
+        "La mort dei profet"
+      ],
+      "answer": "El muscul del ischio de la camel de Allah"
+    },
+    "location": {
+      "label": "Element chiave in de la nostra storia",
+      "options": [
+        "La camel de Allah",
+        "El personal de Musa",
+        "L'arca de Nuh",
+        "La man bianca de Musa",
+        "L'usel de ¿Isa"
+      ],
+      "answer": "La camel de Allah"
+    },
+    "outcome": {
+      "label": "El noster resultà",
+      "options": [
+        "Distruziun da un esplusiun assurdent",
+        "Una piœva de sass del ciel",
+        "Un diluvio che g’ha quatà sü la terra",
+        "Un vent fort che g’ha desradicà",
+        "La terra che ne inglutiss"
+      ],
+      "answer": "Distruziun da un esplusiun assurdent"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

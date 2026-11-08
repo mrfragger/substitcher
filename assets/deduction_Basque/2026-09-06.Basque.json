@@ -1,0 +1,61 @@
+{
+  "title": "Urrezko Txahalaren Baztertua",
+  "intro": "Koranean aipatzen den pertsonaia batek jendetza handi bat desbideratu zuen profeta noble baten faltan. Urrez egindako zerbaitek nazio oso baten bihotzak bereganatu zituen, baina pertsona honen istorioa bakardadean eta madarikazio arraro batean amaitzen da. Nor izan liteke baztertu hau?",
+  "clues": [
+    "Jainkozko gidaritza jasotzera igo zen profeta handi baten absentzian agertu nintzen.",
+    "Jendetza handia galdu nuen neure eskuekin landutako zerbaitekin.",
+    "Nik sortutako urrezko sorkuntzak bizitza zuela zirudien, jarraitzen ziotenak liluratzen zituzten soinuak sortuz.",
+    "Besteek hauteman ezin zezaketena ikusi nuela aldarrikatu nuen — ikusezinaren begirada bat.",
+    "Jainkozko mezulariaren arrastoetatik zerbait atera eta metal urtu bihurtu nuen.",
+    "Bakarrik ibiltzera kondenatu ninduten, madarikazio berezi batekin: inork ezin zuen nire azala ukitu, ezta nik haiena ere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraoia (Fir'awn)",
+        "Abu Lahab",
+        "Salih profeta"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Urrezko zekor bat sortu zuen gurtzarako",
+        "Zeruraino iristen zen dorrea eraiki zuen",
+        "Egiptoko aztiei erronka egin zien",
+        "Hegan egiten zuten piztiekin osatutako armada bat zuzendu zuen",
+        "Ilargia zatitu profeta izatearen froga gisa"
+      ],
+      "answer": "Urrezko zekor bat sortu zuen gurtzarako"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Urrezko txahala",
+        "Suge bihurtu zen makila",
+        "Mendi batean erretzen ari den sasi bat",
+        "Gailur batean atseden hartzen duen arka bat",
+        "Su biziz betetako lubaki bat"
+      ],
+      "answer": "Urrezko txahala"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erbesteratua, ukitzea edo besteak ukitzea debekatuta",
+        "Itsasoan itota, armada batekin batera",
+        "Fedea ukatzeagatik bizirik erre zuten",
+        "Haize bortitz eta orrotsu batek jota",
+        "Barkatua eta goi mailako estazio batera igoa"
+      ],
+      "answer": "Erbesteratua, ukitzea edo besteak ukitzea debekatuta"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

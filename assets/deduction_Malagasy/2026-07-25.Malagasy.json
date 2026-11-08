@@ -1,0 +1,61 @@
+{
+  "title": "Ireo Mponina ao amin'ny Zaridaina Roa",
+  "intro": "Tao amin'ny tany iray izay nikoriana be dia be ny fitahiana, dia nisy vondrom-piarahamonina iray nankafy ny hatsaran'ny zaridaina roa mahafinaritra. Ny fiainan'izy ireo dia vavolombelon'ny fankasitrahan'Andriamanitra, saingy niova ny tantarany rehefa nihena ny fankasitrahana, izay nitarika ho amin'ny fiovana izay ho lasa famantarana maharitra ho an'izay rehetra misaintsaina.",
+  "clues": [
+    "Vahoaka notahina tamin'ny tany niadana sy feno harena isika.",
+    "Nanome antsika zaridaina roa mahafinaritra ny Tompontsika, izay maitso mavana sy mahavokatra amin'ny lafiny rehetra.",
+    "Nodidiana mba ho velom-pankasitrahana isika, saingy nifidy ny tsy fankasitrahana isika ka nihodina.",
+    "Nisy tohodrano lehibe nisakana ny rano izay nanome aina ny tanintsika.",
+    "Rehefa nikiry tamin'ny ratsy nataontsika isika dia vaky ny tohodrano ary niparitaka be ny rano.",
+    "Nosoloina voankazo mangidy, tamariska ary hazo lota vitsivitsy ireo zaridainanay izay maitso mavana taloha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny vahoakan'i Saba",
+        "Ny vahoakan'ny Thamoud",
+        "Ny Vahoakan'i Madyana",
+        "Ireo mpiara-dia amin'ny lava-bato",
+        "Ny Vahoakan'ny Elefanta"
+      ],
+      "answer": "Ny vahoakan'i Saba"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Rivotra mahery nandritra ny fito alina",
+        "Oram-bato milatsaka avy any an-danitra",
+        "Tondra-drano manimba avy amin'ny tohodrano vaky",
+        "Kiakiaka mafy avy any an-danitra",
+        "Maty an-drano any an-dranomasina"
+      ],
+      "answer": "Tondra-drano manimba avy amin'ny tohodrano vaky"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny tohodrano lehibe ao Ma'rib",
+        "Ny lohasahan'i Wadi al-Qura",
+        "Ny zaridainan'i Iram",
+        "Ny lavadranon'i Zamzam",
+        "Ny tendrombohitr'i Sinay"
+      ],
+      "answer": "Ny tohodrano lehibe ao Ma'rib"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nosoloina voankazo mangidy sy hazo vitsy ny zaridainanay",
+        "Natelin'ny tany tamin'ny horohoron-tany izahay",
+        "Niova ho rajako sy kisoa izahay",
+        "Safotry ny rano be izahay",
+        "Rava tamin'ny vato izahay"
+      ],
+      "answer": "Nosoloina voankazo mangidy sy hazo vitsy ny zaridainanay"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

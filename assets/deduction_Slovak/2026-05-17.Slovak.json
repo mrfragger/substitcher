@@ -1,0 +1,61 @@
+{
+  "title": "Architekti kameňa",
+  "intro": "Predstavte si mocnú civilizáciu, obdarenú silou a zručnosťou, ktorá si do horských svahov vytesáva honosné obydlia. Táto skupina disponovala nesmiernou prosperitou a jedinečnou architektonickou zdatnosťou. Napriek jasným varovaniam si však zvolila cestu, ktorá viedla k dramatickému a nezabudnuteľnému záveru. Viete identifikovať túto skupinu, ktorej príbeh slúži ako hlboké ponaučenie pre všetkých, ktorí sa nad tým zamýšľajú?",
+  "clues": [
+    "Bola nám daná sila a zručnosť, ktoré nám umožnili vytesať nádherné domy priamo do hôr.",
+    "Dostali sme jasné znamenie od Alaha, jedinečného tvora, ktorý mal byť ponechaný nerušene na pásť sa.",
+    "Naša komunita sa stala arogantnou a spochybňovala božské posolstvo, ktoré priniesol posol spomedzi nás.",
+    "Napriek varovaniam pred prísnym trestom sme sa sprisahali, že zázračnému znameniu uškodíme.",
+    "Porušili sme príkaz nechať to zvláštne stvorenie piť z našej studne každý druhý deň.",
+    "Stretol nás zničujúci koniec, zasiahnutí jediným, desivým výbuchom po našom priestupku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Ľudia z 'Ad",
+        "Ľudia z Midjánu",
+        "Ľudia slona",
+        "Ľudia z Thamudu",
+        "Ľudia z Luta"
+      ],
+      "answer": "Ľudia z Thamudu"
+    },
+    "trial": {
+      "label": "Naša hlavná skúška/udalosť",
+      "options": [
+        "Povodeň, ktorá zaplavila krajinu",
+        "Rozštiepenie mora",
+        "Zničenie jediným výbuchom/výkrikom",
+        "Horenie mesta",
+        "Premena hory na prach"
+      ],
+      "answer": "Zničenie jediným výbuchom/výkrikom"
+    },
+    "location": {
+      "label": "Kľúčový prvok nášho príbehu",
+      "options": [
+        "Zlaté teľa",
+        "Zázračná ťava",
+        "Horiaci ker",
+        "Hovoriaci vták",
+        "Majestátny trón"
+      ],
+      "answer": "Zázračná ťava"
+    },
+    "outcome": {
+      "label": "Náš konečný výsledok",
+      "options": [
+        "Udelené obrovské bohatstvo a moc",
+        "Povýšený na proroctvo",
+        "Úplné zničenie božím trestom",
+        "Odpustené po úprimnom pokání",
+        "Roztrúsení po zemi, aby sa túlali"
+      ],
+      "answer": "Úplné zničenie božím trestom"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

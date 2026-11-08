@@ -1,0 +1,60 @@
+{
+  "title": "Uzaq Taxtın Müəmması",
+  "intro": "Qeyri-adi bir hakimiyyətə malik güclü bir monarx, uzaq bir diyardan gələn bir kraliça ilə bağlı qəribə bir çətinliklə qarşılaşdı. Monarx, zaman və məkan qanunlarına zidd gedən inanılmaz bir hadisəni başladaraq ilahi güc və müdriklik nümayiş etdirməyə çalışdı. Bu möcüzəvi hadisənin təfərrüatlarını çıxara bilərsinizmi?",
+  "clues": [
+    "Bir hökmdara görünməyən varlıqlar üzərində nəzarət və küləkləri idarə etmək də daxil olmaqla, böyük bir güc verildi.",
+    "Bu hökmdar günəşə ibadət edən varlı bir kraliçanın xəbərini aldı və onu saraya dəvət etmək qərarına gəldi.",
+    "Kraliçanın gəlişindən əvvəl hökmdar onun möhtəşəm hakimiyyət taxtını uzaq krallığından gətirmək istəyini bildirdi.",
+    "Qüdrətli bir cin hökmdarın məclisindən qalxmasından əvvəl əşyanı geri almağı təklif etdi.",
+    "Lakin İlahi Müqəddəs Yazıları dərindən bilən biri, tapşırığı bir göz qırpımında tamamlayaraq daha sürətli bir axtarış təklif etdi.",
+    "Əşyanın çatmasından sonra hökmdar, nəhayət saraya çatanda kraliçanın zəkasını və qavrayışını sınamaq üçün əşyanın dəyişdirilməsini əmr etdi."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Peyğəmbər/Şəxs",
+      "options": [
+        "Musa peyğəmbər",
+        "Davud peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Yusif peyğəmbər",
+        "Süleyman peyğəmbər"
+      ],
+      "answer": "Süleyman peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Dənizin İkiyə Bölünməsi",
+        "Çətinliklərdə Səbir",
+        "Kəbənin binası",
+        "Bağların Sınaqdan Keçirilməsi",
+        "Kraliçanın taxtını gətirmək"
+      ],
+      "answer": "Kraliçanın taxtını gətirmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Dağ",
+        "Quyu",
+        "Taxt"
+      ],
+      "answer": "Taxt"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Böyük bir qurban",
+        "Qurulan bir krallıq",
+        "Bir xalq cəzalandırıldı",
+        "Yeni bir əhd",
+        "Kraliçanın Allaha təslim olması"
+      ],
+      "answer": "Kraliçanın Allaha təslim olması"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

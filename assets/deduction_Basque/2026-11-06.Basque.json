@@ -1,0 +1,61 @@
+{
+  "title": "Inbidiaz isuritako lehen odola",
+  "intro": "Imajinatu gizateriaren lehen egunak, mundu osoa familia bakarra zenean. Bi eskaintza Ala-ren aurrean jartzen direla ikusten duzu: bata onartua, bestea ukatua. Inbidia sustraiak jartzen dira bihotzean, eta mehatxu bat xuxurlatzen da haserre. Ondorengoak marka utziko du historian betiko, eta txori txiki bat ere irakasle bihurtuko da.",
+  "clues": [
+    "Lurreko lehenengo familiakoa naiz.",
+    "Eskaintza bat aurkeztu nion Alahi, baina nirea ez zen onartu, beste eskaintza bai.",
+    "Inbidiaz hitz egin nuen eta bizitza bat kentzeko mehatxua egin nuen.",
+    "Lurreko lehen hilketa bidegabea egin nuen.",
+    "Bele bat lurra urratzen ikusi nuen gorpu bat nola ezkutatu erakusteko.",
+    "Damuz beteta geratu nintzen eta nire eskuek egindakoagatik galtzaileen artean geratu nintzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Qabil (Kain), Adamen semea",
+        "Samiri, txahalaren egilea",
+        "Namrud, Ibrahimekin eztabaidatu zuen tiranoa",
+        "Azar, idoloen egilea",
+        "Kan'an, Nuhen seme itoa"
+      ],
+      "answer": "Qabil (Kain), Adamen semea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Anai-arreba baten hilketa inbidiaz eskaintza baztertu ondoren",
+        "Dorre garai bat eraikitzen zeruari begira egoteko",
+        "Urrezko txahal bat egitea gurtzarako",
+        "Zerutik mahai bat eskatuz",
+        "Elefante armada bat gidatuz Kaaba suntsitzeko"
+      ],
+      "answer": "Anai-arreba baten hilketa inbidiaz eskaintza baztertu ondoren"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Bele bat lurra urratzen lurperatzea erakusteko",
+        "Urrezko txahal bat marru egin zuena",
+        "Arka handi bat uholde-uretan",
+        "Suge bihurtu zen makila",
+        "Zeruko janariarekin apaindutako mahaia"
+      ],
+      "answer": "Bele bat lurra urratzen lurperatzea erakusteko"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Damutu eta galtzaileen artean geratu zen",
+        "Uholde handian ito zen",
+        "Lurrak irentsi zuen altxorrarekin",
+        "Zazpi urtez legenarrak jota egon zen",
+        "Haizeen kontrola zuen erreinua eman zioten"
+      ],
+      "answer": "Damutu eta galtzaileen artean geratu zen"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

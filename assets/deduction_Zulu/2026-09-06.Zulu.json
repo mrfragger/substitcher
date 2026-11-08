@@ -1,0 +1,61 @@
+{
+  "title": "Ukuxoshwa Kwethole Legolide",
+  "intro": "Umuntu okukhulunywe ngaye kwiQuran waholela isixuku esikhulu ekuphambukeni ngesikhathi engekho umprofethi ohloniphekile. Into ethile eyenziwe ngegolide yathumba izinhliziyo zesizwe sonke - kodwa indaba yalo muntu iphela ngokuba yedwa kanye nesiqalekiso esingajwayelekile. Kungaba ngubani lo olahliwe?",
+  "clues": [
+    "Ngavela ngesikhathi umprofethi omkhulu engekho owayenyukele ukuyothola isiqondiso saphezulu.",
+    "Ngabangela isixuku esikhulu ukuba siduke ngento engiyiklame ngezandla zami.",
+    "Indalo yegolide engangiyidalile yayibonakala sengathi inokuphila, ikhiqiza imisindo eyabahlaba umxhwele labo abayilandelayo.",
+    "Ngithi ngibone lokho abanye abangakwazi ukukubona — umbono obonakalayo kokungabonakali.",
+    "Ngakhipha okuthile emizileni yesithunywa saphezulu ngakufaka ensimbini encibilikisiwe.",
+    "Ngagwetshwa ukuzulazula ngedwa, nginesiqalekiso esiyingqayizivele sokuthi akekho owayengathinta isikhumba sami futhi akekho owayengathinta esakhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "IsiSamiri",
+        "UHamani",
+        "UFaro (uFir'awn)",
+        "Abu Lahab",
+        "Umprofethi uSalih"
+      ],
+      "answer": "IsiSamiri"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wadala ithole legolide ukuze likhulekelwe",
+        "Wakha umbhoshongo ofinyelela emazulwini",
+        "Waphonsela inselelo abathakathi baseGibhithe",
+        "Bahola ibutho elinezilwane ezindizayo",
+        "Ukuhlukanisa inyanga njengobufakazi bobuprofethi"
+      ],
+      "answer": "Wadala ithole legolide ukuze likhulekelwe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ithole legolide",
+        "Induku eyaphenduka inyoka",
+        "Isihlahla esivuthayo entabeni",
+        "Umkhumbi uphumule esiqongweni",
+        "Umsele ogcwele umlilo ovuthayo"
+      ],
+      "answer": "Ithole legolide"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukudingiswa, ukunqatshelwa ukuthintwa noma ukuthintwa abanye",
+        "Ngicwile olwandle kanye nebutho",
+        "Washiswa ephila ngenxa yokwenqaba ukholo",
+        "Ushaywe umoya onamandla, ovunguzayo",
+        "Uthethelelwe futhi wakhushulelwa esikhundleni esiphakeme"
+      ],
+      "answer": "Ukudingiswa, ukunqatshelwa ukuthintwa noma ukuthintwa abanye"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "melodie hor za soumraku",
+  "intro": "Poslouchejte, jak se údolí rozléhají chválou po boku vyvoleného služebníka Alláha. Hlas obdařený melodií, soud, který hledají sporníci v komnatě, a kov změkčený božským příkazem čeká na objevení. Která postava uctívání a spravedlivé vlády promlouvá skrze tato znamení?",
+  "clues": [
+    "Alláh mi požehnal štědrostí a melodickým hlasem chvály.",
+    "Alláh mě naučil rozumět jazyku spravedlivého rozsudku mezi sporícími se stranami.",
+    "V bitvě jsem čelil mocnému obrovi a z Alláhovy vůle jsem nad ním zvítězil.",
+    "Byla mi dána moudrost, autorita a zjevená píseň žalmů od Alláha.",
+    "Večer a při východu slunce se ke mně připojily hory a ptáci, kteří se mnou oslavovali Alláha.",
+    "Alláh mě naučil vyrábět si kroužky ze železa, které mi bylo změkčeno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Dawud (David)",
+        "Prorok Ismail (Išmael)",
+        "Prorok Jahja (Jan)",
+        "Dhul-Kifl",
+        "Prorok Al-Yása (Eliša)"
+      ],
+      "answer": "Prorok Dawud (David)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Poražený Jalut (Goliáš) v bitvě z Alláhovy vůle",
+        "Postaven Archa, aby přežil velkou potopu",
+        "Byl vhozen do ohně, který Alláh ochladil",
+        "Byl spolknut velkou rybou v moři",
+        "Byl pozvednut do nebes, aniž by okusil smrt"
+      ],
+      "answer": "Poražený Jalut (Goliáš) v bitvě z Alláhovy vůle"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Hory a ptáci se sjednocují v chvále Alláha",
+        "Hůl, která se proměnila v hada",
+        "Oheň, který se stal chladným a mírumilovným",
+        "Velbloudice vyslaná jako znamení lidem",
+        "Dřevěná archa spočívající na hoře Judi"
+      ],
+      "answer": "Hory a ptáci se sjednocují v chvále Alláha"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Uděleno královské království, moudrost a Zabur (Žalmy)",
+        "Po vroucí modlitbě dostal syna ve stáří",
+        "Zaručeno bezpečí v jeskyni po mnoho let",
+        "Darován pramen Zamzamu v poušti",
+        "Umožněno utonutí armády v moři"
+      ],
+      "answer": "Uděleno královské království, moudrost a Zabur (Žalmy)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

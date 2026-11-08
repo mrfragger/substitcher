@@ -1,0 +1,61 @@
+{
+  "title": "Popření uprostřed hojnosti",
+  "intro": "Nacházíte se mezi lidmi, jejichž tržiště hemží se obchodem, ale jejich váhy se nepoctivě naklánějí. Přišel k nim posel s jasnými varováními, ale oni se smějí a odvracejí se, důvěřujíc si své prosperitě. Obloha se začíná stmívat, ale oni to vnímají jako požehnání deště. Kdo jsou tito lidé?",
+  "clues": [
+    "V zemích obchodu a hojnosti se nám dařilo, ale naše srdce ztvrdla.",
+    "Přišel k nám posel se znameními od našeho Pána, ale my jsme se jeho varováním vysmívali.",
+    "Byli jsme známí svým řemeslem, ale dávali jsme lidem málo a podváděli jsme je.",
+    "Žili jsme mezi hustými stromy a bujnou vegetací, ale svá požehnání jsme brali jako samozřejmost.",
+    "Když se přiblížil temný mrak, zaradovali jsme se a mysleli jsme si, že to přinese déšť do naší vyprahlé krajiny.",
+    "Místo toho ten oblak seslal spalující trest a my jsme byli zasaženi mukami dne stínu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Ashab al-Aykah (Společníci ze dřeva)",
+        "Lidé z Thamudu",
+        "Lidé z 'Ad",
+        "Lidé z Lutu",
+        "Lidé z Nuha"
+      ],
+      "answer": "Ashab al-Aykah (Společníci ze dřeva)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Odmítli svého posla a podváděli v obchodu",
+        "Uctívali zlaté tele a byli svedeni na scestí",
+        "Praktikovali sodomii a napadali cestovatele",
+        "Postavili vysoké věže a vyzývali Boha",
+        "Odmítli se podělit o vodu a ublížili velbloudi."
+      ],
+      "answer": "Odmítli svého posla a podváděli v obchodu"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Hustý les nebo houští",
+        "Hora vytesaná do obydlí",
+        "Město u moře",
+        "Pouštní údolí se studnami",
+        "Úrodná zahrada s mnoha plody"
+      ],
+      "answer": "Hustý les nebo houští"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zničen stínovým oblakem ohně",
+        "Zaplaven velkou povodní",
+        "Pohlceno zemětřesením",
+        "Zasažen prudkým větrem",
+        "Proměněn v kámen"
+      ],
+      "answer": "Zničen stínovým oblakem ohně"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

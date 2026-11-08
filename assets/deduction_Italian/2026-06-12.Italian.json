@@ -1,0 +1,61 @@
+{
+  "title": "Il sacrificio volontario",
+  "intro": "In un tempo di prove divine, un'anima fu chiamata all'atto supremo di sottomissione. Cresciuta in una terra desolata, questa figura divenne l'incarnazione della fede e della pazienza. Quando una visione le impose un sacrificio, non esitò. La sua storia è una pietra angolare della devozione.",
+  "clues": [
+    "Ero la risposta a una preghiera a lungo attesa di un grande profeta.",
+    "Mia madre ed io fummo abbandonate in una valle desolata con provviste limitate a datteri e acqua.",
+    "Sono cresciuto e sono diventato un profeta noto per la mia veridicità e pazienza.",
+    "Ho aiutato mio padre a erigere le fondamenta di una casa sacra dedicata ad Allah.",
+    "Quando mio padre mi raccontò di un sogno in cui mi chiedeva di sacrificarmi, risposi: \"Fa' come ti è stato comandato\".",
+    "Allah ha onorato la mia sottomissione inviando un ariete dal cielo per riscattarmi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Isma'il",
+        "Profeta Isacco",
+        "Profeta Ya'qub",
+        "Profeta Ibrahim",
+        "Il profeta Yusuf"
+      ],
+      "answer": "Profeta Isma'il"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Sottomettersi volontariamente al sacrificio",
+        "Essere gettati in un fuoco ardente",
+        "Essere inghiottito da un grande pesce",
+        "Essere venduti come schiavi",
+        "Essere sottoposti a test con una grave malattia"
+      ],
+      "answer": "Sottomettersi volontariamente al sacrificio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Pozzo di Zamzam",
+        "L'Arca di Nuh",
+        "Il fuoco di Nimrod",
+        "Il vitello d'oro",
+        "Lo staff di Musa"
+      ],
+      "answer": "Pozzo di Zamzam"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Fu riscattato con un grande ariete",
+        "È stato salvato dall'incendio",
+        "È stato salvato dall'alluvione",
+        "È stato estratto dalla balena",
+        "Gli fu dato un regno e la saggezza"
+      ],
+      "answer": "Fu riscattato con un grande ariete"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

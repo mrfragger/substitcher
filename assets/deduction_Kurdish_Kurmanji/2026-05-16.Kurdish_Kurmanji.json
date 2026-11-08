@@ -1,0 +1,61 @@
+{
+  "title": "Avakerê Bêrehm ê Xilasiyê",
+  "intro": "Kesayetiyek bi sebir û baweriyeke bêdawî, vî kesî salên bêhejmar ji bo mîsyoneke îlahî terxan kiriye, û bi bêhurmetî û redkirineke bênavber re rû bi rû maye. Çîroka wan şahidiyeke bihêz a baweriyê ye li hember bêbaweriya zêde, ku bi bûyereke girîng a ku cîhan ji nû ve şekil da, gihîştiye lûtkeyê.",
+  "clues": [
+    "Min demek pir dirêj ji jiyana xwe ji bo gazîkirina gelê xwe bo perestina Xwedê terxan kir.",
+    "Gelê min tinazên xwe bi min kirin û min bi xeletî û dînîtîya eşkere tawanbar kirin.",
+    "Ji min re ferman hat dayîn ku tiştekî ava bikim ku ji bo civaka min a bêderya neasayî xuya bike.",
+    "Tenê çend kesan bawerî anî û di vê avakirina bêhempa de tevlî min û malbata min bûn.",
+    "Min ji her zindiyek cot cot hilgirtin, wekî ku Xwedê ferman dabû.",
+    "Tofaneke mezin erd girt, tenê ew kesên ku di keştiya min de bi min re bûn xilas kirin, di heman demê de kurê min bi xwe ji ber bêbaweriya xwe mir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Salih",
+        "Pêxember Hûd",
+        "Pêxember Nûh",
+        "Pêxember Dawud",
+        "Pêxember Suleyman"
+      ],
+      "answer": "Pêxember Nûh"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Wêranbûna ji ber erdhejê",
+        "Parçekirina deryayê",
+        "Lehiya mezin",
+        "Agirê Nemrod",
+        "Nexweşiya beqan"
+      ],
+      "answer": "Lehiya mezin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Dara şewitî",
+        "Keştiya",
+        "Kaniya avê",
+        "Golika zêrîn",
+        "Çiyayê Turê"
+      ],
+      "answer": "Keştiya"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Padîşahiyek wergirt",
+        "Gelê wî veguherî meymûnan",
+        "Gelê wî bi mûcîzeyek rizgar bû",
+        "Gelê wî xeniqîn",
+        "Gelê wî bi birûskê lêdan xwar"
+      ],
+      "answer": "Gelê wî xeniqîn"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

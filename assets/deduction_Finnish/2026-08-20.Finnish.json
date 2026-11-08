@@ -1,0 +1,61 @@
+{
+  "title": "Uhmakkuuden ääni",
+  "intro": "Kauan ennen kuin ensimmäinen ihminen vaelsi maan päällä, valtavan voimakas olento seisoi täydellisen rauhan valtakunnassa, omistautuneiden sielujen ympäröimänä. Kun yksikin käsky annettiin, jokainen ääni kumarsi alistuen – mutta yksi ääni nousi uhmaten, ja tuo uhma kaikui läpi aikakausien viimeiseen päivään asti. Kuka on tämä langennut olento?",
+  "clues": [
+    "Minut luotiin jostakin, joka paloi kirkkaasti, kun taas vierelläni olevat muodostuivat siitä, minkä päällä he kävelivät.",
+    "Asuin pyhässä paikassa omistautuneiden olentojen keskuudessa, kunnes yksi käsky käänsi kaiken ylösalaisin.",
+    "Kun käsky tuli, jokainen sielu kumarsi paitsi minä; kieltäytymiseni johtui ylpeydestä.",
+    "Minut karkotettiin tuosta pyhästä paikasta, ja minut leimattiin ikuisesti kestävällä kirouksella.",
+    "Anoin hartaasti aikaa ylösnousemuksen päivään asti, ja se myönnettiin. Vannoin lähestyväni jokaista sielua ja johtavani heidät harhaan.",
+    "Kun pasuuna soi, ne, jotka minua seurasivat, joutuvat minun kanssani roihuavaan tuleen, jossa kukaan ei voi auttaa heitä."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Iblis",
+        "Faarao (Fir'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (Ibrahimin isä)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Määrittävä hetki",
+      "options": [
+        "Kieltäytyi kumartamasta Aadamin edessä",
+        "Jumaluuden anastamista suuren imperiumin yli",
+        "Suunnitellen vanhurskaan heittämistä tuleen",
+        "Johtaa ihmisiä palvomaan kultaista kuvapatsasta",
+        "Hukuttamalla suuren armeijan mereen"
+      ],
+      "answer": "Kieltäytyi kumartamasta Aadamin edessä"
+    },
+    "location": {
+      "label": "Pyhä paikka",
+      "options": [
+        "Jannah (Paratiisi)",
+        "Upea palatsi Niilin varrella",
+        "Tiilitorni kurottautuu kohti taivasta",
+        "Koruista muovattu kultainen vasikka",
+        "Liekehtivän tulen uuni"
+      ],
+      "answer": "Jannah (Paratiisi)"
+    },
+    "outcome": {
+      "label": "Lopullinen kohtalo",
+      "options": [
+        "Karkotettu, hengähdystauolla luvattuun päivään asti",
+        "Hukkuivat armeijoiden kanssa aaltojen alle",
+        "Taivaasta sinkoutuneiden kivien murskaamana",
+        "Lintuparvien repimä lennossa",
+        "Yhden mahtavan räjähdyksen nielaisema"
+      ],
+      "answer": "Karkotettu, hengähdystauolla luvattuun päivään asti"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

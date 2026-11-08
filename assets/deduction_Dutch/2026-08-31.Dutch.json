@@ -1,0 +1,61 @@
+{
+  "title": "De stille stem van de vallei",
+  "intro": "Reis terug in de tijd naar een machtig volk dat ooit een levend wonder als beproeving ontving. Arrogantie en koppigheid bezegelden hun lot. Kun je het verhaal reconstrueren en ontdekken wat er zich in dit dramatische keerpunt heeft afgespeeld?",
+  "clues": [
+    "Ik werd als een goddelijke beproeving gezonden naar een machtig volk dat bekendstaat om zijn kracht en weerstand.",
+    "Ik was een uniek wonder – iemand zoals ik was nog nooit onder hen verschenen.",
+    "Ik deelde om de dag drinkwater uit een put met mijn mensen.",
+    "Ze werden gewaarschuwd dat elke vorm van schade aan mij onmiddellijk zou worden bestraft.",
+    "De meest brutale onder hen negeerden de waarschuwing en maakten me machteloos.",
+    "Na mijn dood vernietigde een enkele donderende kreet van boven mijn hele volk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "De kameelin van Salih",
+        "De koe van Musa",
+        "Het schip van Nuh",
+        "De staf van Musa",
+        "De troon van Bilqis"
+      ],
+      "answer": "De kameelin van Salih"
+    },
+    "trial": {
+      "label": "Mijn lot",
+      "options": [
+        "Verlamd en gedood",
+        "Geslacht als offer.",
+        "Veranderd in een slang",
+        "Bewaard gebleven tijdens een grote overstroming.",
+        "Snel door een koninkrijk vervoerd"
+      ],
+      "answer": "Verlamd en gedood"
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "Een waterput",
+        "Een stenen tablet",
+        "Een brandende struik",
+        "Een houten ark",
+        "Een troon van goud en zilver"
+      ],
+      "answer": "Een waterput"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Vernietigd door één enkele schreeuw",
+        "Verdronken tijdens een grote overstroming.",
+        "Verbrand door een stenenregen.",
+        "Verpletterd door een hevige wind",
+        "Verzwolgen door de aarde"
+      ],
+      "answer": "Vernietigd door één enkele schreeuw"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

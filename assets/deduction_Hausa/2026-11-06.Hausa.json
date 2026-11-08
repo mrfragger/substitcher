@@ -1,0 +1,61 @@
+{
+  "title": "Jinin Farko da Aka Zuba a Cikin Hassada",
+  "intro": "Ka yi tunanin farkon zamanin ɗan adam, lokacin da duniya duka iyali ɗaya ce. Ka kalli yadda ake miƙa hadayu biyu a gaban Allah - ɗaya ya karɓa, ɗayan kuma ya ƙi. Hassada ta yi tushe a cikin zuciya, kuma ana raɗa barazana cikin fushi. Abin da zai biyo baya zai bar alama a tarihi har abada, har ma ƙaramin tsuntsu zai zama malami.",
+  "clues": [
+    "Ni na cikin iyali na farko a duniya.",
+    "Na miƙa hadaya ga Allah, amma nawa ba a karɓi ba yayin da aka karɓi ɗayan hadayar.",
+    "Na yi magana cikin hassada kuma na yi barazanar kashe rai.",
+    "Ni ne na yi kisan gilla na farko a duniya.",
+    "Na ga hankaka yana tono ƙasa don ya nuna mini yadda ake ɓoye gawa.",
+    "Na yi nadama cike da baƙin ciki, na kuma zama cikin waɗanda suka yi hasarar abin da hannuna ya aikata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Kabil (Ka'ab), ɗan Adam",
+        "Samiri, mai yin maraƙin",
+        "Namrud, azzalumin da ya yi jayayya da Ibrahim,",
+        "Azar, mai yin gumaka",
+        "Kan'an, ɗan Nuhu da aka nutsar"
+      ],
+      "answer": "Kabil (Ka'ab), ɗan Adam"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kisan wani ɗan'uwa saboda hassada bayan an ƙi bayar da tayin",
+        "Gina hasumiya mai tsayi don kallon sammai",
+        "Yin ƙera ɗan maraƙi na zinariya don bauta",
+        "Ina neman teburi daga sama",
+        "Jagorancin rundunar giwaye don lalata Ka'aba"
+      ],
+      "answer": "Kisan wani ɗan'uwa saboda hassada bayan an ƙi bayar da tayin"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Hankaka yana tono ƙasa don nuna binnewa",
+        "Ɗan maraƙi na zinariya wanda ya faɗi",
+        "Babban jirgi a kan ruwan ambaliyar ruwa",
+        "Sanda wadda ta zama maciji",
+        "Teburin da aka shimfiɗa tare da abinci daga sama"
+      ],
+      "answer": "Hankaka yana tono ƙasa don nuna binnewa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama mai nadama kuma yana cikin masu hasara",
+        "An nutsar da shi cikin babban ambaliyar ruwa",
+        "An haɗiye shi da ƙasa da taska",
+        "An yi min kuturta tsawon shekaru bakwai",
+        "An ba shi mulki mai iko da iska"
+      ],
+      "answer": "Ya zama mai nadama kuma yana cikin masu hasara"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

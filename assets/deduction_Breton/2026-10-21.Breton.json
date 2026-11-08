@@ -1,0 +1,61 @@
+{
+  "title": "Ar c'hannad a stourmas ouzh an idolatred",
+  "intro": "En amzer m’oa distroet an devosion, e savas ur c’hannad gant ur galv da zistreiñ da azeuliñ Aotrou ar bedoù. Ar skeudenn-se a savas start a-enep ur bobl gwriziennet en azeulerezh un doueez faos, o lakaat anezho da soñjal en o c'hrouer gwirion hag en Aotrou o zadoù-kozh. Koulskoude e oa an dud disoursi ha nac'hañ a rejont ar c'hemenn, o siellañ o tonkadur o-unan. Piv e oa ar c'halver dic'hortoz-se ?",
+  "clues": [
+    "Kaset on bet davet ur bobl he doa distroet diouzh hent an Doue Gwir Unan.",
+    "Goulenn a ran digant ma fobl, \"Ha ne zoujit ket Allah?\"",
+    "Galvet em eus anezho da zilezel o azeulerezh d'un doue faos anvet Baal.",
+    "Va fobl a nac'has va galv hag a gendalc'has en he idolatriezh.",
+    "Abalamour d’o nac’hadenn e vint kaset a-dra-sur evit bezañ kastizet.",
+    "Ma Aotrou en deus roet din ar peoc'h hag un eñvor benniget e-touez ar rummadoù diwezhañ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Ilyas",
+        "Ar profed Yahya",
+        "Ar profed Dhul-Kifl",
+        "Ar profed Yusuf",
+        "Ar profed Shu'ayb"
+      ],
+      "answer": "Ar profed Ilyas"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Galvet e voe e bobl da zilezel Baal",
+        "Savet eun arc'h evit savetei ar feizidi",
+        "Taolet e oa bet en un tan",
+        "Tec'het dirak an tirant Faraon",
+        "Skeiñ ur roc'h evit degas dour"
+      ],
+      "answer": "Galvet e voe e bobl da zilezel Baal"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Ar peoc'h roet hag un eñvor benniget",
+        "Lonket gant an douar",
+        "Distrujet gant ur gorventenn feuls",
+        "Troet e maen",
+        "Beuzet er mor"
+      ],
+      "answer": "Ar peoc'h roet hag un eñvor benniget"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vaqtga ishongan shahar",
+  "intro": "Ilohiy rahm-shafqat yilnomalarida burilish nuqtasi jamoaviy anglash lahzasi bo'lgan bir jamoa bor. Siz ularning hikoyasini - ogohlantirish, tavba qilish va ularni boshqa xalqlar taqdiridan ajratib turadigan kechirim haqidagi hikoyani ochib bermoqchisiz.",
+  "clues": [
+    "Biz payg'ambar yuborilgan qavm edik va dastlab uning chaqirig'idan yuz o'girdik.",
+    "Yaqinlashib kelayotgan azob alomatlari aniq bo'lganda, biz uning ogohlantirishining haqiqatini angladik.",
+    "Biz chin dildan tavba qilib, Rabbimizga yuzlandik va iymonimiz qabul qilindi.",
+    "Bizga berilgan jazo bizning iymonimiz tufayli bekor qilindi.",
+    "Bizning hikoyamiz azobni ko'rgandan keyin iymon keltirgan shaharlar orasida istisno sifatida keltirilgan.",
+    "Biz kit yutib yuborgan payg'ambar qavmi edik, ammo halokatdan qutuldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yunus qavmi",
+        "Nuh qavmi",
+        "Hud qavmi",
+        "Solih qavmi",
+        "Lut qavmi"
+      ],
+      "answer": "Yunus qavmi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Dahshatli suv toshqini",
+        "Kuchli shamol",
+        "Yaqinlashib kelayotgan sharmandalik jazosi oldi olindi",
+        "Yer ularni yutib yuboradi",
+        "Tosh yomg'iri"
+      ],
+      "answer": "Yaqinlashib kelayotgan sharmandalik jazosi oldi olindi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Urg'ochi tuya",
+        "Yuz ming aholiga ega shahar",
+        "Musoning tayoqlari",
+        "Qorunning xazinasi"
+      ],
+      "answer": "Yuz ming aholiga ega shahar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ular butunlay vayron qilindi",
+        "Ularga bir muddat zavq berildi",
+        "Ular maymunlarga aylantirildi",
+        "Ular cho'kib ketishdi",
+        "Ularni yer yutib yubordi"
+      ],
+      "answer": "Ularga bir muddat zavq berildi"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

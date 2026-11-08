@@ -1,0 +1,61 @@
+{
+  "title": "Vehreän pellon matkalaiset",
+  "intro": "Muinaisina aikoina kaksi ihmistä hoiti naapurimaita. Heidän polkunsa olivat kietoutuneet toisiinsa, mutta heidän sydämensä johdattivat heidät täysin eri kohteisiin. Toinen kulki suoraa polkua, kun taas toinen eksyi kieltämisen pimeyteen. Pystytkö selvittämään näiden kahden sadonvartijan mysteerin?",
+  "clues": [
+    "Minulla oli runsas sato, rehevä sato, joka häikäisi katsojien silmiä.",
+    "Naapurillani oli vielä suurempi anteliaisuus kuin minulla, mutta himoitsin hänen osuuttaan enemmän kuin omaani.",
+    "Ehdotin, että tuhoaisimme heidän satonsa kokonaan, jotta voisimme keskittää kaiken hallintaani.",
+    "Minä turmelin myös oman satoni, tuhosin kaiken tyhmillä juonillani.",
+    "Seisoin avuttomana, kun satoni kuihtui ja rikkauteni muuttui tomuksi yhdessä yössä.",
+    "Minulla ei ollut osuutta tuonpuoleisessa, ja viimeinen asuinpaikkani muuttui hehkuvaksi tulen kuopaksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Mies, joka kielsi ylösnousemuksen ja tuomion",
+        "Hallitsija, joka sorsi vanhurskasta maanviljelijää",
+        "Rikas maanomistaja, jolta puuttui kiitollisuutta",
+        "Maanviljelijä, joka himoitsi naapurinsa maata",
+        "Petollinen kumppani, joka suunnitteli tuhoa"
+      ],
+      "answer": "Maanviljelijä, joka himoitsi naapurinsa maata"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Jumalallisen ilmestyksen vastaanottamisen koe",
+        "Rikkauden ja kärsivällisyyden haaste",
+        "Kiusaus tuhota vanhurskaan ihmisen toimeentulo",
+        "Käsky jakaa perintö oikeudenmukaisesti",
+        "Taistelu tyrannin sortoa vastaan"
+      ],
+      "answer": "Kiusaus tuhota vanhurskaan ihmisen toimeentulo"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Paratiisin vehreät puutarhat",
+        "Kaksi vierekkäistä viljapeltoa",
+        "Vuoret, jotka todistivat tuhoa",
+        "Mekan pyhä pyhäkkö",
+        "Siunatun maan jokirannat"
+      ],
+      "answer": "Kaksi vierekkäistä viljapeltoa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Ikuinen paratiisi palkkiona vanhurskaudesta",
+        "Molempien satojen täydellinen tuhoaminen tässä elämässä",
+        "Maanpaossa ja vaeltelussa kuolemaan asti",
+        "Väliaikainen vauraus, jota seuraa ikuinen tuli",
+        "Ihmeellinen ennallistaminen ja kaksinkertainen palkkio"
+      ],
+      "answer": "Molempien satojen täydellinen tuhoaminen tässä elämässä"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

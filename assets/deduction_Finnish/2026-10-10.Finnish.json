@@ -1,0 +1,61 @@
+{
+  "title": "Höyhenpeitteinen partiolainen",
+  "intro": "Kuningaskunnassa, jota hallitsi henkilö, jolle oli annettu valta tuuliin, näkymättömiin olentoihin ja taivaan luomuksiin, yksi pieni ja nopea jäsen katosi riveistä – vain palatakseen paljastusten kanssa, jotka muokkaisivat kaukaisen kansakunnan kohtalon. Tämä tarkkasilmäinen ilmiantaja toi totuuden päivänvaloon siellä, missä tietämättömyys oli juurtunut. Kuka minä olen?",
+  "clues": [
+    "Palvelin hovissa, jossa ihmiset, näkymättömät olennot ja taivaan luomukset olivat vastuussa yhdelle viisaalle hallitsijalle, joka komensi jopa tuulia.",
+    "Olin poissa viraltani jonkin aikaa, ja hallitsijan viha oli luvattu, jos en pystyisi esittämään tyydyttävää syytä.",
+    "Olen pieni lentävä olento, joka tunnetaan terävästä näkökyvystään, ja lajini on saanut kunnian nimetä sen suoraan ilmestyksen sivuilla.",
+    "Palattuani toin uutisen kaukaisesta maasta, jossa ihmiset kumarsivat aurinkoa, sokeina Hänelle, joka oli luonut taivaan ja maan.",
+    "Löysin naisen, joka hallitsi suurta valtakuntaa, istui mahtavalla valtaistuimella, eikä ollut koskaan ennen tiennyt totuutta.",
+    "Minä löysin Saban valtakunnan ja kannoin mukanani kutsukirjeen profeetta-kuninkaalta, jolle annettiin valta tuulen yli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Harjalintu (Hudhud)",
+        "Muurahainen Sulaimanin laaksosta",
+        "Asif ibn Barkhiya",
+        "Ifrit džinni",
+        "Valtaistuimen enkeli"
+      ],
+      "answer": "Harjalintu (Hudhud)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Retkikunta Saban (Sheban) kuningaskuntaan",
+        "Yhteenotto faaraon velhojen kanssa",
+        "Profeetta Nooan tulva",
+        "'Ad-kansan tuho",
+        "Punaisenmeren jakautuminen"
+      ],
+      "answer": "Retkikunta Saban (Sheban) kuningaskuntaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Saban (Sheban) maa",
+        "Siinainvuori",
+        "Profeetta Nooan arkki",
+        "Ashab al-Kahfin luola",
+        "Faaraon palatsi"
+      ],
+      "answer": "Saban (Sheban) maa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Bilqis alistui Sulaimanin hoviin",
+        "Faarao ja hänen armeijansa hukkuivat mereen",
+        "'Ad'in kansa tuhoutui voimakkaan tuulen seurauksena",
+        "Faaraon velhot uskoivat profeetta Moosekseen",
+        "Suuri tulva kulutti uskottomat"
+      ],
+      "answer": "Bilqis alistui Sulaimanin hoviin"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

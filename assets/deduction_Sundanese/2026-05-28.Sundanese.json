@@ -1,0 +1,61 @@
+{
+  "title": "Sing Sabar Teu Goyah",
+  "intro": "Dina catetan sajarah nubuat, saeutik pisan anu ngalaman karugian anu ageung sareng sangsara fisik sapertos kitu kalayan iman anu teu tiasa digoyangkeun. Carita tokoh ieu mangrupikeun palajaran anu teu lekang ku waktu dina kasabaran sareng kapercayaan kana hikmah ilahi. Saha jiwa ieu?",
+  "clues": [
+    "Abdi dipilih ku Allah pikeun nepikeun hiji risalah, tapi ujian panggedéna sanés ku cara ditolak, tapi ku cara ditimpa musibah pribadi.",
+    "Kakayaan kuring, ingon-ingon kuring, jeung anak-anak kuring dirampas ti kuring, hiji-hiji.",
+    "Awak kuring pinuh ku borok, jeung kuring ditinggalkeun sorangan iwal ti dukungan ti pamajikan kuring.",
+    "Abdi ngajerit ka Gusti, ngaku kana kasangsaraan abdi sareng nyuhunkeun rahmat-Na.",
+    "Kuring diinstruksikeun pikeun ngagebug taneuh ku suku kuring, terus cai cinyusu nu nyegerkeun mimiti ngagolak.",
+    "Allah mulangkeun kasehatan abdi sareng masihan abdi kulawarga énggal sareng kakayaan anu langkung seueur tibatan sateuacanna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Nabi Ayyub",
+        "Nabi Ibrahim",
+        "Nabi Musa",
+        "Nabi Isa",
+        "Nabi Nuh"
+      ],
+      "answer": "Nabi Ayyub"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Kaleungitan harta jeung kulawarga",
+        "Dialungkeun kana seuneu",
+        "Ditelan ku lauk",
+        "Dipisahkeun ti kulawarga sareng dijual ka budak",
+        "Keur diuji ku anak sapi emas"
+      ],
+      "answer": "Kaleungitan harta jeung kulawarga"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Sumber cai",
+        "Tongkat anu robah jadi oray",
+        "Peti kai",
+        "Anak sapi anu dilebur",
+        "Tangkal palem"
+      ],
+      "answer": "Sumber cai"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Pamulihan kulawarga sareng kabeungharan",
+        "Naék ka sawarga",
+        "Janten raja",
+        "Disalametkeun tina paus",
+        "Nampi putra dina yuswa sepuh"
+      ],
+      "answer": "Pamulihan kulawarga sareng kabeungharan"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

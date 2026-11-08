@@ -1,0 +1,61 @@
+{
+  "title": "Kukataa Kati ya Wingi",
+  "intro": "Unajikuta miongoni mwa watu ambao masoko yao yanajaa biashara, lakini mizani yao inaanguka kwa udanganyifu. Mjumbe amewajia na maonyo yaliyo wazi, lakini wanacheka na kugeuka, wakiwa na uhakika wa ustawi wao. Anga inaanza kuwa nyeusi, lakini wanaona kama baraka ya mvua. Watu hawa ni akina nani?",
+  "clues": [
+    "Tulifanikiwa katika nchi za biashara na utajiri, lakini mioyo yetu ikawa migumu.",
+    "Mtume alitujia na ishara kutoka kwa Mola wetu Mlezi, lakini tulimdhihaki maonyo yake.",
+    "Tulijulikana kwa biashara yetu, lakini tulitoa kipimo cha muda mfupi na kuwadanganya watu.",
+    "Tuliishi kati ya miti minene na mimea yenye majani mengi, lakini tulichukua baraka zetu kirahisi.",
+    "Wingu jeusi lilipokaribia, tulifurahi, tukifikiri ingeleta mvua katika nchi zetu zilizokauka.",
+    "Badala yake, wingu hilo lilitoa adhabu kali, nasi tukashikwa na mateso ya siku ya kivuli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Ashab al-Aykah (Maswahaba wa Wood)",
+        "Watu wa Thamud",
+        "Watu wa 'Ad",
+        "Watu wa Lut",
+        "Watu wa Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Maswahaba wa Wood)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Walimkataa mjumbe wao na kudanganya katika biashara",
+        "Waliabudu ndama wa dhahabu na wakapotoshwa",
+        "Walifanya ulawiti na kuwashambulia wasafiri",
+        "Walijenga minara mirefu na kumpinga Mungu",
+        "Walikataa kushiriki maji na kumdhuru ngamia jike"
+      ],
+      "answer": "Walimkataa mjumbe wao na kudanganya katika biashara"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Msitu mzito au kichaka",
+        "Mlima uliochongwa katika makazi",
+        "Mji kando ya bahari",
+        "Bonde la jangwa lenye visima",
+        "Bustani yenye rutuba yenye matunda mengi"
+      ],
+      "answer": "Msitu mzito au kichaka"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuharibiwa na wingu la moto lenye kivuli",
+        "Kuzama na mafuriko makubwa",
+        "Imemezwa na tetemeko la ardhi",
+        "Imepigwa na upepo mkali",
+        "Imegeuzwa kuwa jiwe"
+      ],
+      "answer": "Kuharibiwa na wingu la moto lenye kivuli"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

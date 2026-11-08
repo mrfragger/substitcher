@@ -1,0 +1,61 @@
+{
+  "title": "Hamba Allah yang Mulia",
+  "intro": "Anda mendengar bisikan seorang tokoh dari zaman dahulu kala, seorang hamba Allah yang diangkat ke martabat di atas orang biasa. Individu ini dikenali kerana kesabaran yang teguh dan kejujuran yang mutlak, dan diutus kepada kaum yang berpaling daripada risalah. Siapakah jiwa yang mulia ini?",
+  "clues": [
+    "Aku telah dipilih oleh Allah sebagai nabi dan disebut dalam Al-Quran.",
+    "Aku dikenali kerana kesabaran dan kejujuranku, sifat-sifat yang dipuji oleh Allah.",
+    "Aku menyeru kaumku untuk menyembah Tuhan Yang Maha Esa, tetapi ramai yang menolakku.",
+    "Allah telah mengangkat martabatku dan menganugerahkanku darjat yang tinggi.",
+    "Saya sering disebut bersama nabi-nabi lain seperti Ismail dan Zulkifli.",
+    "Allah berfirman tentangku: 'Dan Kami telah mengangkatnya ke martabat yang tinggi.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Idris",
+        "Nabi Ilyas",
+        "Nabi Dzul Kifli",
+        "Nabi Al-Yasa",
+        "Nabi Hud"
+      ],
+      "answer": "Nabi Idris"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Menyeru manusia untuk beribadah kepada Allah",
+        "Membina bahtera itu",
+        "Berperang melawan Firaun",
+        "Telah diuji dengan penyakit yang teruk",
+        "Dicampakkan ke dalam api"
+      ],
+      "answer": "Menyeru manusia untuk beribadah kepada Allah"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Pangkat/jawatan tinggi yang tinggi",
+        "Bahtera itu",
+        "Kakitangan",
+        "Api itu",
+        "Perigi itu"
+      ],
+      "answer": "Pangkat/jawatan tinggi yang tinggi"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dinaikkan taraf kepada status yang tinggi",
+        "Lemas dalam banjir",
+        "Ditelan oleh ikan paus",
+        "Diselamatkan daripada kebakaran",
+        "Menjadi raja"
+      ],
+      "answer": "Dinaikkan taraf kepada status yang tinggi"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

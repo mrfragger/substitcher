@@ -1,0 +1,61 @@
+{
+  "title": "Próba pragnienia",
+  "intro": "Społeczność, pragnąc przywództwa w obronie swojej sprawy, zwróciła się z petycją o wyznaczenie dowódcy. Kiedy prośba została spełniona, wybraniec spotkał się ze sceptycyzmem, ponieważ osoba ta nie posiadała oczekiwanego przez nich statusu społecznego. Przed ostateczną konfrontacją, nowy przywódca miał wystawić na próbę dyscyplinę armii, poddając ją prostej, lecz głębokiej próbie opanowania.",
+  "clues": [
+    "Zostałem mianowany dowódcą, gdy mój lud zażądał przywódcy, który walczyłby w imię Allaha.",
+    "Wielu moich rodaków początkowo kwestionowało moją nominację, powołując się na mój brak bogactwa i szlachetnego pochodzenia.",
+    "Zostałem wybrany, ponieważ Allah obdarzył mnie wielką wiedzą i potężną postawą fizyczną.",
+    "Jasnym znakiem mojego boskiego powołania był powrót Arki Przymierza, niesionej przez aniołów, co przyniosło pokój sercom wierzących.",
+    "Gdy maszerowałem z moimi żołnierzami, oznajmiłem, że zostaniemy wystawieni na próbę przez rzekę.",
+    "Rozkazałem mojej armii, że ten, kto napije się głęboko z rzeki, nie będzie moim towarzyszem, a ci, którzy wezmą tylko jedną chochlę do ręki, mają pozostać."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Dżalut (Goliat)",
+        "Talut (Saul)",
+        "Prorok Dawud",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Jaki był mój główny test?",
+      "options": [
+        "Budowanie bariery przeciwko Gogowi i Magogowi",
+        "Stawienie czoła olbrzymowi w pojedynku",
+        "Testowanie posłuszeństwa armii nad rzeką",
+        "Prowadzenie armii dżinów i ptaków",
+        "Przeżycie wrzucenia do ognia"
+      ],
+      "answer": "Testowanie posłuszeństwa armii nad rzeką"
+    },
+    "location": {
+      "label": "Co było kluczowym znakiem mojego autorytetu?",
+      "options": [
+        "Laska, która zamieniła się w węża",
+        "Wielbłąd, który wyłonił się ze skały",
+        "Kolczuga wykonana z zmiękczonego żelaza",
+        "Arka Przymierza (At-Tabut)",
+        "Stół pełen jedzenia z niebios"
+      ],
+      "answer": "Arka Przymierza (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Jaki był wynik mojej kampanii?",
+      "options": [
+        "Pokonanie armii Dżaluta (Goliata)",
+        "Rozstąpienie się Morza Czerwonego, by uciec przed tyranem",
+        "Ustanowienie trwałej dynastii w moim imieniu",
+        "Budowa świętej Kaaby w Mekce",
+        "Być uniesionym do nieba bez umierania"
+      ],
+      "answer": "Pokonanie armii Dżaluta (Goliata)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

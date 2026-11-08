@@ -1,0 +1,61 @@
+{
+  "title": "Osamelé útočisko",
+  "intro": "V análoch božskej priazne existuje duša neporovnateľnej čistoty, oddelená od svojho ľudu, aby hľadala samotu v posvätnom smere. Netušili, že toto odlúčenie prinesie znamenie pre všetky svety, skúšku viery, o ktorej sa bude hovoriť naveky.",
+  "clues": [
+    "Ešte pred narodením som bol zasvätený službe.",
+    "Bol som zverený do ochrany vznešeného proroka.",
+    "Dostal som od Alaha zásoby, ktoré môjho opatrovníka ohromili.",
+    "Stiahol som sa od rodiny na východ.",
+    "Zjavil sa mi anjel v podobe dokonalého muža a priniesol mi správu o čistom synovi.",
+    "Keď som sa vrátila so svojím novorodencom, moji ľudia ma obvinili, ale dieťa prehovorilo na moju obranu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Mária (Maryam)",
+        "Asija (manželka faraóna)",
+        "Hajar (matka Ismaila)",
+        "Sára (manželka Ibrahima)",
+        "Matka Musu"
+      ],
+      "answer": "Mária (Maryam)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Zázračné počatie a narodenie syna",
+        "Byť hodený do ohňa",
+        "Byť prehltnutý obrovskou rybou",
+        "Stavba veľkej archy",
+        "Prechod cez more"
+      ],
+      "answer": "Zázračné počatie a narodenie syna"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Odľahlé miesto na východe",
+        "Horiaci ker",
+        "Červené more",
+        "Skala, z ktorej vytryskla voda",
+        "Veľryba"
+      ],
+      "answer": "Odľahlé miesto na východe"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Dieťa prehovorilo na obranu matky",
+        "More sa rozdelilo",
+        "Oheň sa stal chladným a bezpečným",
+        "Veľryba zvracala na breh",
+        "Archa pristála na vrchu hory"
+      ],
+      "answer": "Dieťa prehovorilo na obranu matky"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

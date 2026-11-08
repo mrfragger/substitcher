@@ -1,0 +1,61 @@
+{
+  "title": "Haizearen eta Suaren Nagusitasuna",
+  "intro": "Imajinatu haizeak berak agintari bakar bati erantzuten dion erresuma bat, non izaki txikienen ahotsek pisua duten, eta non begi arruntek ikusten ez dituzten indarrak arretaz zerbitzatzen dituzten. Figura honek erreinu aparteko bat heredatu zuen aurreko maite batengandik, elementuen eta jinnen gaineko boterea erabiliz. Baina autoritate handiak proba handiekin batera etorri ziren — eta azken une batek bizitzaren eta heriotzaren beraren izaerari buruzko zerbait harrigarria agerian utziko zuen.",
+  "clues": [
+    "Erreinu handi bat jaso nuen oinordetzan, profeta eta Alaren zerbitzaria ere bazena maite nuen guraso batengandik.",
+    "Ala-k haizearen gaineko agintea eman zidan, hilabete osoko bidaia egiteko bidaliz goiz bakarrean.",
+    "Izaki txikienak ere nire hurbilketaz hitz egiten zuen, eta nik gelditu egiten nintzen haien kontzientziaz harrituta geratzeko.",
+    "Jinn, gizaki eta hegaztiz osatutako armada zabal bat zuzendu nuen, denak nire aurrean lerro ordenatuetan antolatuta.",
+    "Urruneko agintari bat etorri zen erronka zail batekin probatzera, eta agintari horren tronua nire gortera ekarri nuen bisitaria eserlekutik altxatu ere egin aurretik.",
+    "Zutik geratu nintzen, makil batean bermatuta, lurreko izaki txiki batek karraskatu zuen arte — eta orduan bakarrik konturatu ziren ingurukoek igaro nintzela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sulayman profeta (Salomon)",
+        "Dawud profeta (David)",
+        "Isa profeta (Jesus)",
+        "Mahoma profeta (la paz eta lah)",
+        "Musa (Moises) profeta"
+      ],
+      "answer": "Sulayman profeta (Salomon)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Erregina urrun baten tronua modu gainnaturalean ekartzea",
+        "Haurtzaroan putzu sakon batera sartu izana",
+        "Tirano baten magoei seinale miragarriekin aurre egitea",
+        "Sehaskatik hitz egiten amaren ohorea defendatzeko",
+        "Azken idatzi santu agerian jasotzea mendi santu batean"
+      ],
+      "answer": "Erregina urrun baten tronua modu gainnaturalean ekartzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Termita batek karraskatutako zurezko makila",
+        "Mundu osoko uholde bati aurre egiteko eraikitako arka handi bat",
+        "Tirano baten aurrean suge bihurtu zen makila",
+        "Itsuak sendatzeko erabiltzen den oihal zatia",
+        "Lehen aldiz errebelazio bat jaso zen kobazulo sakratua"
+      ],
+      "answer": "Termita batek karraskatutako zurezko makila"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bisitan zegoen agintari noble batek fedea bereganatu zuen seinaleak ikusi ondoren",
+        "Uholde handi batek arka batean zeuden fededunak izan ezik, guztiak suntsitu zituen",
+        "Faraoi bat eta bere armada itsasoan hil ziren",
+        "Lagun zuzen bat zeruetara igo zen",
+        "Errege tirano bat eta bere hiria irauli eta suntsitu zituzten"
+      ],
+      "answer": "Bisitan zegoen agintari noble batek fedea bereganatu zuen seinaleak ikusi ondoren"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

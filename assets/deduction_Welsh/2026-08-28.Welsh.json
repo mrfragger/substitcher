@@ -1,0 +1,61 @@
+{
+  "title": "Y Rhwystr yn y Tŷ Hynafol",
+  "intro": "Yn y ddinas sanctaidd, roedd ffigwr pwerus yn berwi gan ddicter wrth i neges newydd ddechrau lledaenu. Gwyliodd yr unigolyn hwn, y daeth ei enw yn gyfystyr â gwrthwynebiad i'r gwirionedd, ei ddylanwad yn chwalu o dan bwysau datguddiad dwyfol. Pwy oedd yr enaid hwn, y seliwyd ei dynged yn nhywod maes brwydr enwog?",
+  "clues": [
+    "Roeddwn i'n bennaeth ymhlith fy mhobl, yn adnabyddus am fy nghyfoeth a'm dylanwad mewn dinas a oedd yn gartref i gysegr hynafol.",
+    "Pan ddechreuodd dyn o'm llwyth gyhoeddi neges am un Duw, gwnes i watwar amdano a'i ddatguddiadau, gan eu galw'n straeon o'r gorffennol yn unig.",
+    "Wynebais y dyn hwnnw wrth iddo weddïo ger yr adeilad cysegredig, gan fygwth atal ei addoliad trwy rym os oedd angen.",
+    "Roeddwn i ymhlith yr arweinwyr a gynllwyniodd i dawelu’r ffydd newydd, gan wrthwynebu ei dilynwyr â geiriau ac arfau.",
+    "Gorymdeithiais gyda byddin i le o'r enw Badr, yn hyderus y byddem yn dinistrio'r grŵp bach o gredinwyr.",
+    "Ond ar y maes brwydr hwnnw, daeth fy mywyd i ben, a daeth fy marwolaeth yn wers i'r rhai sy'n parhau mewn anghrediniaeth ar ôl arwyddion clir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Atal y Proffwyd rhag gweddïo yn y Kaaba",
+        "Adeiladu'r Kaaba",
+        "Ysgrifennu'r Quran",
+        "Arwain byddin yr eliffant",
+        "Hollti'r lleuad"
+      ],
+      "answer": "Atal y Proffwyd rhag gweddïo yn y Kaaba"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y Kaaba",
+        "Arch y Proffwyd Nuh",
+        "Staff y Proffwyd Musa",
+        "Y Llo Aur",
+        "Gorsedd Brenhines Sheba"
+      ],
+      "answer": "Y Kaaba"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Lladdwyd ym Mrwydr Badr",
+        "Edifarhaodd a daeth yn Fwslim",
+        "Ffodd i Abyssinia",
+        "Bu farw ym Mlwyddyn yr Eliffant",
+        "Daeth yn gydymaith i'r Proffwyd"
+      ],
+      "answer": "Lladdwyd ym Mrwydr Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

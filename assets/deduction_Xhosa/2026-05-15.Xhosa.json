@@ -1,0 +1,61 @@
+{
+  "title": "Umgcini Womqondiso KaThixo",
+  "intro": "Ngaphakathi kwindawo engcwele engcwele, umphefumlo osikelelekileyo wakhuliswa phantsi kokhathalelo lukaThixo. Lo mntu wayemiselwe ukudlala indima ebalulekileyo kwisiganeko esimangalisayo, esiba bubungqina bamandla nobulumko buka-Allah obungenamda. Uhambo lwabo lwatyhila inyaniso enzulu, lwafaka umngeni kwiimbono kwaye lwamisela uphawu olulodwa kubo bonke abantu.",
+  "clues": [
+    "Ndakhethwa kwaye ndahlanjululwa nguAllah ngaphezu kwabo bonke abafazi bexesha lam.",
+    "Ndabekwa phantsi kolwalathiso lomprofeti olilungisa, owafumana inkxaso ngokungummangaliso kwigumbi lam lokuthandaza.",
+    "Ndazihlukanisa nosapho lwam ndaya kwindawo eyimfihlo yokunqula uAllah.",
+    "Ingelosi yabonakala kum ikwimo yomntu ogqibeleleyo, izisa iindaba zonyana omsulwa, nangona ndandingazi mntu wesilisa.",
+    "Emva kwentlungu yokubeleka, ndayalelwa ukuba ndishukumise isiqu somthi wesundu ukuze ndifumane ukutya okutsha.",
+    "Ndathi ndakubuyela ebantwini bam ndithwele usana lwam, bandibuza imibuzo, kodwa unyana wam oselusana wathetha ngokungummangaliso esesesibelekweni ukuze andikhusele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "USara (umfazi woMprofeti u-Ibrahim)",
+        "UHajar (umama woMprofeti u-Ismail)",
+        "UBilqis (uKumkanikazi waseShebha)",
+        "UAsia (umfazi kaFaro)",
+        "UMaryam (uMariya)"
+      ],
+      "answer": "UMaryam (uMariya)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umkhukula omkhulu owatshabalalisa isizwe esingakholwayo",
+        "Ukuphoswa emlilweni ovuthayo ngenxa yokukhanyela izithixo",
+        "Ukuzalwa komntwana okungenayise ngokungummangaliso",
+        "Ukuginywa ngumnenga ngenxa yokushiya umsebenzi",
+        "Ukutshatyalaliswa kwesixeko ngenxa yezenzo zokuziphatha okubi"
+      ],
+      "answer": "Ukuzalwa komntwana okungenayise ngokungummangaliso"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ithole legolide",
+        "Ityeya yomnqophiso",
+        "Igumbi lomthandazo elingcwele (iMihrab)",
+        "Intaka ethethayo (iHudhud)",
+        "Intonga eyajika yaba yinyoka"
+      ],
+      "answer": "Igumbi lomthandazo elingcwele (iMihrab)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukwakhiwa kwetempile entle kakhulu",
+        "Ukwahlulwa kolwandle ukuze abantu bawele",
+        "Umntwana othethe esengumntwana ekhusela umzali wakhe",
+        "Ukutyhilwa kwencwadi engcwele yokukhokela uluntu",
+        "Ubukumkani obusikelelwe ngumoya neejinn"
+      ],
+      "answer": "Umntwana othethe esengumntwana ekhusela umzali wakhe"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

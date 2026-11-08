@@ -1,0 +1,61 @@
+{
+  "title": "Igadi Eyanyamalala Ngobusuku Obodwa",
+  "intro": "Khawucinge ngegadi entle, ezele ziziqhamo ezivuthiweyo kwaye ijikelezwe yimithi emide. Abo babeyinyamekela babecinga ukuba bakrelekrele, beceba isivuno sabo kwiiyure ezizolileyo ngaphambi kokusa, kude namehlo abo basweleyo. Kodwa Lowo ungalaliyo wayenezinye izicwangciso zentsikelelo yakhe efihliweyo. Ungaqikelela ukuba ngubani omi ngasemva kweli bali lesilumkiso elivela kwiQuran?",
+  "clues": [
+    "Sakha sanegadi echumileyo neninzi kangangokuba yaba ngumona kubo bonke abadlulayo.",
+    "Ekucwangciseni kwethu, sahlebelana kwakusasa, sivakalisa ukuba akukho mntu usweleyo oya kuvunyelwa ukuba angene ngaloo mini.",
+    "Sasingabantu abazizityebi, kwaye iintliziyo zethu zazingaboni amalungelo amahlwempu asingqongileyo.",
+    "Xa kwafika ukusa kwesivuno esasisifuna ukusenza, sasondela emyezweni wethu saza sawufumana uguqulwe waba yinkangala emnyama ngobusuku obunye.",
+    "Umyalelo otshabalalisayo wadlula, ungashiyi nto ngaphandle kothuthu apho kwakuxhonywe khona iziqwenga zeziqhamo ezivuthiweyo.",
+    "Ibali lethu lisilumkiso esiqatha esibhalwe kwiQuran, apho saziwa njengabanini begadi ababengavumeli uncedo kubantu abasweleyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abanini Begadi",
+        "Abantu Bomqolomba",
+        "Abafundi baka-Isa",
+        "Amaqabane aseMthini",
+        "Iindwendwe zika-Ibrahim"
+      ],
+      "answer": "Abanini Begadi"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuvuna iziqhamo ngasese nokuthintela amahlwempu",
+        "Ukulala kangangeenkulungwane ngaphakathi emqolombeni",
+        "Ukwala ukuvelisa inkamela yemazi ngelitye",
+        "Ukunqula ithole legolide kwiNtaba yaseSinayi",
+        "Ukwakha umkhombe omkhulu ukuze ubalekele umkhukula"
+      ],
+      "answer": "Ukuvuna iziqhamo ngasese nokuthintela amahlwempu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Igadi ebiyelweyo ezele ziisundu neediliya",
+        "Umqolomba omnyama onzulu ezintabeni",
+        "Isixeko esibanjwe yinkanyamba enamandla",
+        "Intlambo engcwele kufutshane neNdlu ka-Allah",
+        "Iibhanki zomlambo oqukuqelayo"
+      ],
+      "answer": "Igadi ebiyelweyo ezele ziisundu neediliya"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Igadi yatshiswa ngumyalelo ovuthayo ovela ezulwini",
+        "Balala ngoxolo iminyaka engama-309 yenyanga",
+        "Batyunyuzwa yimvula yamatye",
+        "Batshona phantsi kwamaza omkhukula omkhulu",
+        "Basasazeke ngumoya obandayo, ovuthuzayo"
+      ],
+      "answer": "Igadi yatshiswa ngumyalelo ovuthayo ovela ezulwini"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

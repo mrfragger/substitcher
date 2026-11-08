@@ -1,0 +1,61 @@
+{
+  "title": "L'abséncia sacrada",
+  "intro": "Al delà de las dunas del temps, i a un conte de devocion inflexibla e d'una fisança tan pesuga que l'alma que la pòrta auriá pogut trencar. Dins un moment ont lo pòble se virèt cap a la foliá e l'aur, una figura se tenguèt ferma — los cridant enrè, suplicant de paciéncia, e portant lo pes d'una promessa sacrada. Aquò's l'istòria d'un que foguèt causit coma ajudant, vizir, e gardian de la fe pendent una abséncia sacrada. Podètz descobrir l'identitat d'aquela anma ferma?",
+  "clues": [
+    "Partegi la sang d'un grand profèta que foguèt causit per parlar amb Allah dirèctament sus un mont sacrat.",
+    "Mon fraire sòrre supliquèt un còp Allah per l'ajuda per parlar clarament a un grand opressor.",
+    "Foguèri causit per Allah per me pausar al costat de mon fraire coma ajudant e visir.",
+    "Ensems afrontèrem un sobeiran tiranic qu'exigissiá d'èsser nomenat lo mai naut dels dieus.",
+    "Del temps que mon fraire e sòrre comunicava amb Allah sus la montanha, nòstre pòble se fabricava una idòla de son aur.",
+    "Soi lo fraire de Moïses, nomenat per Allah coma son visir, mencionat per nom dins l'Alcoran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Harun (Aaron)",
+        "Lo profèta Musa",
+        "Lo profèta Dawud",
+        "Lo profèta Yaqub",
+        "Lo profèta Ishaq"
+      ],
+      "answer": "Profèta Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "La crisi del culte del vedèl",
+        "Lo Grand Diluvi de Nuh",
+        "La batalha de Badr",
+        "La destruccion de Thamud",
+        "La destruccion de Sodoma"
+      ],
+      "answer": "La crisi del culte del vedèl"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo vedèl d'aur",
+        "L'Arca de Noè",
+        "Lo Busc Ardent",
+        "La Cauna d'Hira",
+        "Lo Tròn de Saba"
+      ],
+      "answer": "Lo vedèl d'aur"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Innocéncia confirmada per Allah",
+        "Afogament de faraon",
+        "L'edifici de la Kaaba",
+        "Traversament segur de la mar",
+        "Ascension als Cèls"
+      ],
+      "answer": "Innocéncia confirmada per Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

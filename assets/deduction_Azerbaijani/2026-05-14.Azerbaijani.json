@@ -1,0 +1,61 @@
+{
+  "title": "Zamansız Müdrikliyin Paylayıcısı",
+  "intro": "Dərin düşüncələri və müdrik məsləhətləri ilə tanınan hörmətli bir şəxsiyyət bir vaxtlar nəsillərin öhdəsindən gələn məsləhətlər vermişdir. Müqəddəs kitablarda qeyd olunan onların sözləri fərdləri minnətdarlığa, səbrə və saleh davranışa yönəldir.",
+  "clues": [
+    "Mənə peyğəmbərlik deyil, hikmət nəsib oldu.",
+    "Uşağıma ən böyük günahı - Allaha şərik qoşmağı tövsiyə etdim.",
+    "Mən əməllərin ağırlığını, hətta bir xardal dənəsi qədər dəyərini və Allahın onu necə ortaya çıxaracağını öyrətdim.",
+    "Uşağı böyütməyin çətinliklərini qəbul edərək, Allaha və valideynlərə minnətdarlığımı vurğuladım.",
+    "Mənim nəsihətlərim namaz qılmaq, yaxşılığa əmr etmək, pislikdən çəkindirmək və insanın başına gələnlərə səbir etmək idi.",
+    "Quranda mənim adımla adlandırılan bir surə, təlimlərimi və paylaşdığım dərsləri özündə birləşdirir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Süleyman peyğəmbər",
+        "Davud peyğəmbər",
+        "Yəhya peyğəmbər",
+        "Loğman",
+        "Musa peyğəmbər"
+      ],
+      "answer": "Loğman"
+    },
+    "trial": {
+      "label": "Mərkəzi Mövzu",
+      "options": [
+        "Kəbənin tikilməsi",
+        "Dənizi yarmaq",
+        "Müdriklik aşılamaq",
+        "Daşqından sağ çıxmaq",
+        "Balıq tərəfindən udulmaq"
+      ],
+      "answer": "Müdriklik aşılamaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Tur dağı",
+        "Onun Oğlu",
+        "Qızıl buzov"
+      ],
+      "answer": "Onun Oğlu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Onun xalqı məhv edildi",
+        "Onun müdrikliyi bələdçi oldu",
+        "Ona padşahlıq verildi",
+        "O, göylərə qaldırıldı",
+        "Ona böyük sərvət verildi"
+      ],
+      "answer": "Onun müdrikliyi bələdçi oldu"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

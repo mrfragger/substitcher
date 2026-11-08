@@ -1,0 +1,61 @@
+{
+  "title": "Jeshi Lililokabiliwa na Udongo Unaoruka",
+  "intro": "Katika enzi ya kabla ya Mtume Muhammad, mtawala mwenye nguvu kutoka Yemen alianzisha kampeni ya kijeshi iliyolenga kuharibu mahali patakatifu patakatifu huko Makka. Adui huyu aliongoza jeshi kubwa lililojaa tembo wa vita, akiwa na uhakika wa nguvu na idadi yao. Hata hivyo, safari yao ingeisha ghafla walipokutana na uingiliaji kati usiotarajiwa wa kimungu. Je, unaweza kutambua ni nani aliyekabiliwa na hesabu hii ya ajabu?",
+  "clues": [
+    "Tuliandamana na jeshi kubwa na tembo wenye nguvu wa vita kuelekea nyumba takatifu",
+    "Tulikusudia kung'oa na kuharibu mahali pa ibada palipojengwa na watumishi wa Mwingi wa Rehema",
+    "Kundi la ndege wadogo lilitumwa dhidi yetu, wakiwa wamebeba mawe ya udongo katika midomo na makucha yao",
+    "Tulikutana na sauti iliyoturushia mawe, na kutufanya kuwa mabaki yaliyokanyagwa",
+    "Nilitoka nchi ya Yemen na nilihudumu chini ya mtawala aliyetaka kuilinda patakatifu patakatifu.",
+    "Tulifanywa mfano kwa wale ambao wangethubutu kuiondoa patakatifu pa Mwenyezi Mungu"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Jeshi la Abraha al-Ashram",
+        "Vikosi vya Ethiopia",
+        "Washindi wa Uajemi",
+        "Majeshi ya Kirumi",
+        "Wavamizi wa Bedouin"
+      ],
+      "answer": "Jeshi la Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuzingirwa kwa ngome ya jangwani",
+        "Uvamizi wa patakatifu patakatifu huko Makka",
+        "Vita vya majini baharini",
+        "Uasi dhidi ya mfalme mdhalimu",
+        "Kutafuta nabii aliyepotea"
+      ],
+      "answer": "Uvamizi wa patakatifu patakatifu huko Makka"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bonde la Mina karibu na Makka",
+        "Jumba la Sana'a huko Yemen",
+        "Milima ya Tihama",
+        "Mji wa kale wa Yerusalemu",
+        "Pwani za Bahari Nyekundu"
+      ],
+      "answer": "Bonde la Mina karibu na Makka"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Ushindi na uharibifu wa nyumba takatifu",
+        "Kushindwa na ndege wanaobeba mawe ya udongo",
+        "Kujisalimisha kwa amani na uongofu",
+        "Njaa na maafa ya asili",
+        "Makazi ya mapumziko kutokana na mvua kubwa"
+      ],
+      "answer": "Kushindwa na ndege wanaobeba mawe ya udongo"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

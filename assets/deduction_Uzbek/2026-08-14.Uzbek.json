@@ -1,0 +1,61 @@
+{
+  "title": "La'natlangan qo'llar",
+  "intro": "Siz qadimgi Makkaning egri-bugri xiyobonlarida turibsiz, u yerda ta'sir va boylikka ega bo'lgan bir ruh bir vaqtlar haqiqat chaqirig'idan yuz o'girgan edi. Bu shaxsning hikoyasi qon rishtalari mag'rurlik zanjirlarini yengib o'tolmasligini yorqin eslatadi. Ismi kutayotgan olov bilan aks-sado beradigan bu kim?",
+  "clues": [
+    "Men Makka ko'chalarida haqiqatni ko'rishga meni ko'r qilib qo'ygan mag'rurlik bilan yurdim, garchi elchi mening qonimdan bo'lsa ham.",
+    "Mening mol-mulkim juda katta edi, lekin ular qalqon emas, balki la'natga aylandi.",
+    "Yo'l-yo'riq kitobi mening halokatim haqida gapiradi, qo'llarim va tanam halok bo'lishini e'lon qiladi.",
+    "Turmush o'rtog'im Allohga da'vat qiluvchining yo'liga tikanlar yoyish uchun mening adovat kampaniyamga qo'shildi.",
+    "Qiyomat kuni men alangali olovga tashlanaman va turmush o'rtog'imning bo'ynida xurmo tolasidan arqon bo'ladi.",
+    "Meni \"olov otasi\" degan ma'noni anglatuvchi ism bilan bilishadi — bu ism mening abadiy maskanim haqida bashorat qiladi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Tolib",
+        "Abu Sufyon",
+        "Valid ibn al-Mug'ira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Asosiy sinov yoki tadbir",
+      "options": [
+        "Payg'ambarga qarshi chiqdi va Qur'onda la'natlandi",
+        "Ka'bani vayron qilish uchun qo'shin boshqardi",
+        "Payg'ambarni tosh otib o'ldirishga urinish",
+        "Oyning ikkiga bo'linishiga ishonishdan bosh tortdi",
+        "Osmonga yetib borish uchun minora qurdi"
+      ],
+      "answer": "Payg'ambarga qarshi chiqdi va Qur'onda la'natlandi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Do'zaxning alangali olovi",
+        "Musoning tayoqchasi",
+        "Nuhning kemasi",
+        "Zamzam qudug'i",
+        "Oltin buzoq"
+      ],
+      "answer": "Do'zaxning alangali olovi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "U olovga kiradi va uning mol-mulki unga foyda bermaydi.",
+        "U tavba qildi va mo'min bo'ldi",
+        "U rad etganidan keyin kechirildi",
+        "U shahid bo'lib vafot etdi",
+        "U osmonga ko'tarildi"
+      ],
+      "answer": "U olovga kiradi va uning mol-mulki unga foyda bermaydi."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

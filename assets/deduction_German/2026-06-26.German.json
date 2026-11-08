@@ -1,0 +1,61 @@
+{
+  "title": "Die Last eines abgelehnten Geschenks",
+  "intro": "In der Morgendämmerung der Menschheitsgeschichte, als die Erde noch jung war und die Welt ihren ersten Atemzug tat, trat eine Seele mit einem demütigen Opfer vor den Schöpfer. Dieses Opfer wurde in der Waage der göttlichen Annahme gewogen – und für zu leicht befunden. Was folgte, war keine Geschichte der Vergebung, sondern die eines von Eifersucht verzehrten Herzens, die zu einer unumkehrbaren Tat führte, deren Nachhall durch alle Zeiten reichen sollte. Dies ist die Geschichte eines Menschen, dessen Name zum Synonym für das erste schwere Unrecht der Menschheitsgeschichte wurde.",
+  "clues": [
+    "Ich bin als eines der allerersten Kinder geboren worden, und zwar von einem Elternteil, dessen Geschichte Sie gut kennen.",
+    "Ich habe einmal Allah ein Opfer dargebracht, aber es wurde nicht angenommen – wohingegen das Opfer meines Geschwisters gnädig angenommen wurde.",
+    "Neid und Wut nisteten sich in meinem Herzen ein, und ich drohte, das Leben meiner eigenen Verwandten zu beenden.",
+    "Mein Geschwisterkind hat mich ermahnt, Allah zu fürchten, aber mein Stolz ließ mich nicht zuhören.",
+    "In einem Moment furchtbarer Schwäche beging ich eine unsägliche Tat an meinem eigenen Bruder.",
+    "Danach wusste ich nicht einmal mehr, wie ich meine Tat verbergen sollte – bis mir ein Geschöpf der Erde gesandt wurde, um mich zu lehren."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Der Sohn des Propheten Nuh",
+        "Prophet Isma'il",
+        "Prophet Yusuf"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Das Darbringen eines Opfers, das abgelehnt wurde, führte zum ersten Mord.",
+        "Einen hohen Turm bauen, der bis zum Himmel reicht",
+        "Wegen seines Glaubens in ein wütendes Feuer geworfen werden",
+        "Den eigenen Sohn im Gehorsam gegenüber Allah opfern.",
+        "Von einem großen Fisch verschluckt werden, weil man seiner Pflicht entflohen ist"
+      ],
+      "answer": "Das Darbringen eines Opfers, das abgelehnt wurde, führte zum ersten Mord."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine von Allah gesandte Krähe, um das Begräbnis zu demonstrieren",
+        "Eine gewaltige Flut, die ein ganzes Volk ertränkte",
+        "Ein Stab, der sich in eine lebende Schlange verwandelte",
+        "Eine Kamelstute, die aus einem Felsenberg auftauchte",
+        "Ein prächtiger Thron, getragen von mächtigen Winden."
+      ],
+      "answer": "Eine von Allah gesandte Krähe, um das Begräbnis zu demonstrieren"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde zu einem der Reuevollen, belastet von dem ersten Verbrechen, das jemals begangen wurde",
+        "Allah vergab ihm und gewährte ihm das ewige Paradies.",
+        "Wurde zu einer hohen Stellung der Prophetie und Weisheit erhoben.",
+        "Wurde durch göttliche Gnade gerettet, nachdem er aus den Tiefen der Finsternis gerufen hatte.",
+        "Ihm wurde die Herrschaft über die Dschinn, den Wind und die Meere verliehen."
+      ],
+      "answer": "Wurde zu einem der Reuevollen, belastet von dem ersten Verbrechen, das jemals begangen wurde"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

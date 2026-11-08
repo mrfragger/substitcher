@@ -1,0 +1,61 @@
+{
+  "title": "Stemmen der afviste fortvivlelse",
+  "intro": "Træd ind i en husstand, hvor tab følger tab, men hvor én rolig stemme afviser fortvivlelse. Et enkelt kald i Koranen forvandler tålmodighed til et vendepunkt; kan du spore sporene til personen bag den stemme?",
+  "clues": [
+    "Jeg var tålmodighedens stemme i en husstand, hvor velsignelser blev prøvet af ulykker.",
+    "Jeg forblev i en husstand, der var tømt af tabet af rigdom og børn.",
+    "Jeg vidste, at sygdom også havde ramt den ledsager, hvis krop var plaget.",
+    "Da nøden blev alvorlig, råbte jeg til Allah.",
+    "Jeg fremsatte én erklæring: Allah er Sandheden, så vær tålmodig.",
+    "Jeg kaldte på Ayyub ved navn; derefter fjernede Allah plagen og genoprettede familien."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Ayyubs hustru",
+        "Profeten Nuhs hustru",
+        "Profeten Ibrahims hustru",
+        "Profeten Ya'qubs hustru",
+        "Faraos datter"
+      ],
+      "answer": "Profeten Ayyubs hustru"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "At forblive hos Ayyub gennem tab og sygdom, og derefter bede om tålmodighed",
+        "Advarsel til en retfærdig budbringer om at forlade et korrupt samfund",
+        "Bøn for fødslen af ​​en fremtidig slægt",
+        "Drømmetydning i et kongeligt fængsel",
+        "At finde et betroet barn ved en flod"
+      ],
+      "answer": "At forblive hos Ayyub gennem tab og sygdom, og derefter bede om tålmodighed"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Erklæringen om, at Allah er Sandheden, og tålmodighed er påkrævet",
+        "Et palmetræ ved siden af ​​en kilde",
+        "En opfordring til at bygge et fartøj langt fra bølgerne",
+        "En drøm om elleve stjerner og en opgående sol",
+        "En kurv båret langs Nilen"
+      ],
+      "answer": "Erklæringen om, at Allah er Sandheden, og tålmodighed er påkrævet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ayyubs lidelse blev fjernet, og hans familie blev genoprettet",
+        "Et længe ventet barn blev givet efter en ufrugtbar bøn",
+        "En ung hersker fortolkede syv år med overflod og knaphed",
+        "Et betroet barn blev reddet fra strømmende vand",
+        "En advarsel gik forud for en ødelæggende oversvømmelse"
+      ],
+      "answer": "Ayyubs lidelse blev fjernet, og hans familie blev genoprettet"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fialofana Mitokana",
+  "intro": "Ao amin'ny tantaran'ny fankasitrahan'Andriamanitra dia misy fanahy madio tsy manam-paharoa, natokana tamin'ny olony mba hitady toerana mitokana amin'ny lalana masina. Tsy fantatr'izy ireo fa ity toerana mitokana ity dia hitondra famantarana ho an'izao tontolo izao, fitsapana ny finoana izay horesahina mandrakizay.",
+  "clues": [
+    "Efa nanolo-tena ho amin'ny fanompoana aho talohan'ny nahaterahako.",
+    "Napetraka teo ambany fiahian'ny mpaminany mendri-kaja iray aho.",
+    "Novelomin'i Allah aho tamin'ny alalan'ny sakafo izay nahagaga ny mpiambina ahy.",
+    "Nisintaka niala ny fianakaviako tany amin'ny toerana atsinanana aho.",
+    "Nisy anjely niseho tamiko tamin'ny endriky ny lehilahy lavorary, nitondra vaovao momba ny zanakalahy madio.",
+    "Rehefa niverina niaraka tamin'ny zanako vao teraka aho dia niampanga ahy ny namako, saingy niteny hiaro ahy ilay zazakely."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiyah (vadin'i Farao)",
+        "Hajar (renin'i Ismail)",
+        "Sarah (vadin'i Ibrahim)",
+        "Ny renin'i Musa"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Fitondrana vohoka mahagaga sy fahaterahan-dahy",
+        "Atsipy ao anaty afo",
+        "Voatelina trondro goavambe",
+        "Fanorenana sambo fiara lehibe",
+        "Miampita ny ranomasina"
+      ],
+      "answer": "Fitondrana vohoka mahagaga sy fahaterahan-dahy"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Toerana atsinanana mitokana",
+        "Ny kirihitra mirehitra",
+        "Ny Ranomasina Mena",
+        "Ilay vatolampy niboiboika rano",
+        "Ny trozona"
+      ],
+      "answer": "Toerana atsinanana mitokana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Niteny niaro ny reniny ny zaza iray",
+        "Nisaraka ny ranomasina",
+        "Nangatsiaka sy azo antoka ny afo",
+        "Nandoa teny amoron-dranomasina ilay trozona",
+        "Nipetraka teo amin'ny tendrombohitra ny sambo fiara"
+      ],
+      "answer": "Niteny niaro ny reniny ny zaza iray"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

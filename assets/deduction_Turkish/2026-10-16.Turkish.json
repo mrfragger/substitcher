@@ -1,0 +1,61 @@
+{
+  "title": "Dinlenme Gününe Meydan Okuyan Topluluk",
+  "intro": "İlahi bir emrin ibadet ve nefsi terbiye için ayırdığı bir sahil yerleşimine adım atın. Bu topluluk içindeki bir grup, kurnaz bir planla bu emrin sınırlarını zorlamayı seçti ve bu da çağlar boyunca yankılanacak bir dönüşüme yol açtı. Bu ruhlar kimdi ve onlara ne oldu?",
+  "clues": [
+    "Denize yakın bir yerde yaşıyorduk ve geçimimizi denizden sağlıyorduk.",
+    "Haftanın bir gününü dünyevi işlerden uzak tutarak kutsal saymamız emredildi.",
+    "O gün balıklar, sanki bize emri çiğnememiz için meydan okurcasına, büyük sayılarda yanımıza geldiler.",
+    "Kutsal günün arifesinde balıkları yakalamak, gün geçtikten sonra da toplamak için bir plan devised ettik.",
+    "Aramızdan bazıları bu aldatmacaya karşı bizi uyardığında, onların tavsiyelerini dikkate almadık ve ısrar ettik.",
+    "İşlediğimiz günah yüzünden maymunlara dönüştürüldük, hor görüldük ve dışlandık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Şabat Halkı",
+        "Hendek Halkı",
+        "Orman Halkı",
+        "Bahçenin Halkı",
+        "Fil Halkı"
+      ],
+      "answer": "Şabat Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Şabat Günü Balık Avı",
+        "Yüksek bir kule inşa etmek",
+        "Kutsal bir dişi deveyi öldürmek",
+        "Kendilerine gönderilen bir peygamberi inkar etmek",
+        "Ticaret ağırlıklarında ihlal"
+      ],
+      "answer": "Şabat Günü Balık Avı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Deniz ve balıkları",
+        "Soğutulan ateş",
+        "Yılana dönüşen asa",
+        "Kurtuluş gemisi",
+        "taş tabletler"
+      ],
+      "answer": "Deniz ve balıkları"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Maymunlara dönüştürüldüler",
+        "Toprak tarafından yutuldu",
+        "Şiddetli bir rüzgar tarafından yıkıldı",
+        "Denizde boğuldu",
+        "Bir taş yağmuruna yakalandı"
+      ],
+      "answer": "Maymunlara dönüştürüldüler"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

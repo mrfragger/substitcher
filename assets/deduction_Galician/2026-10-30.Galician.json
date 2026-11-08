@@ -1,0 +1,61 @@
+{
+  "title": "A Vixilia dos En duelo",
+  "intro": "Estás a piques de atoparte cunha alma posta a proba pola separación máis profunda, cuxos ollos coñecían a linguaxe das bágoas pero cuxo corazón nunca perdeu a esperanza. Nunha historia de engano, anhelo e reunión final, este nobre servo de Alá converteuse nun símbolo de paciencia para sempre. Quen soportou os anos de dor oculta, só para recuperar a vista e a alegría nun só instante?",
+  "clues": [
+    "Son un profeta cuxo nome se converteu nun símbolo de paciencia ante grandes perdas.",
+    "Fun bendicida con moitos fillos, pero un foime arrebatado polos celos doutros.",
+    "O meu amor por aquel ser perdido era tan profundo que os meus ollos se me puxeron brancos de dor, pero nunca me queixei excepto a Alá.",
+    "Enviei os meus fillos de volta para buscar o que perdera e o seu irmán, instándoos a non perder a esperanza.",
+    "Cando chegou o portador das boas novas, tapáronme a cara cunha camisa e, de súpeto, o mundo volveu a aclararse.",
+    "Coñécenme como Israel, e dos meus doce fillos xurdiron as doce tribos dunha gran nación."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Ya'qub (Xacob)",
+        "Profeta Yusuf (Xosé)",
+        "Profeta Isaac (Isaac)",
+        "Profeta Ibrahim (Abraham)",
+        "Profeta Ayyub (Xob)"
+      ],
+      "answer": "Profeta Ya'qub (Xacob)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Separación dun fillo querido durante moitos anos",
+        "Ser lanzado a un lume abrasador",
+        "Tragado por un gran peixe",
+        "Afectado por unha grave enfermidade da pel",
+        "Estar sen fillos ata a vellez"
+      ],
+      "answer": "Separación dun fillo querido durante moitos anos"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A camisa de Yusuf",
+        "O persoal de Musa",
+        "A arca de Nuh",
+        "A cameloa de Salih",
+        "O anel de Sulayman"
+      ],
+      "answer": "A camisa de Yusuf"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Vista restaurada e reencontro co seu fillo",
+        "Vitoria concedida sobre un rei tirano",
+        "Elevado aos ceos vivo",
+        "Nomeado gobernante sobre Exipto",
+        "Déronlle un fillo na vellez como un milagre"
+      ],
+      "answer": "Vista restaurada e reencontro co seu fillo"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

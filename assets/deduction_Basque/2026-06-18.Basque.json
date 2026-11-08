@@ -1,0 +1,61 @@
+{
+  "title": "Barkamena eskatzen lehenengoak",
+  "intro": "Egin atzera lehenengo egunsentia baino lehenagoko garai batera, inongo hilkorrik lurrean ibili aurretik. Figura bat material xumeenekin egin zen, aingeruen gainetik kokatu zen eta lorategi sakratu batean jarri zen abisu argi batekin. Hala ere, une bakarrean, aukera bat egin zen — gizateriaren historia osoan oihartzuna izango zuena. Nor da figura hau?",
+  "clues": [
+    "Beste edozein modutan sortu ninduten — lurreko hautsetik moldatu eta Sortzailearen eskuak arima bizia eman zidan.",
+    "Hain ezagutza sakona eman zitzaidan, ezen goiko aingeruek ere harrituta geratu baitziren harekin.",
+    "Zeru osoari agindu zitzaion nire aurrean makurtzeko, eta denak amore eman zuten — bat izan ezik, harrotasunez uko egin baitzion.",
+    "Lorategi sakratu batean jarri ninduten, betiko erosotasun eta horniduraren leku batean — baina debeku zorrotz batekin.",
+    "Ahaztu egin zitzaidan, irrist egin nuen, eta desobeditu egin nuen — eta nire akatsaren pisua sakon sentitu nuen.",
+    "Bihotzez hitz eginez jo nuen Jaunarengana, eta nire damua onartu zuen, bera baita Barkatzaileena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Adam profeta",
+        "Dawud profeta",
+        "Mahoma profeta",
+        "Iblis",
+        "Yaqub profeta"
+      ],
+      "answer": "Adam profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Aingeruei ahozpeztzeko agindu zitzaien",
+        "Uholde Handia bidali zen",
+        "Su handi bat fresko eta seguru egin zen",
+        "Agintari harroputz bat itsasoan ito zen",
+        "Elefante armada bat suntsitu zuten"
+      ],
+      "answer": "Aingeruei ahozpeztzeko agindu zitzaien"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Zoriontasunaren Lorategia",
+        "Sinai mendia",
+        "Meskita Sakratua",
+        "Nilo ibaia",
+        "Kobazuloa"
+      ],
+      "answer": "Zoriontasunaren Lorategia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Damua Ala-k onartu zuen",
+        "Itsasoan itota.",
+        "Arrain handi batek irentsi du",
+        "Nazioa eztanda handi batek jo zuen",
+        "Haize bortitz batek erreta."
+      ],
+      "answer": "Damua Ala-k onartu zuen"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ukulala Okungaphezu Kwesikhathi",
+  "intro": "Cabanga ngesikhathi lapho iqiniso lathuliswa khona futhi abakholwayo bezingelwa. Iqembu elincane lakhetha ukuhoxa esikhundleni sokuzinikela, lithola indawo yokukhosela ezindaweni ezingalindelekile - indawo eyayizoba yindawo yabo yokuphumula amakhulu eminyaka angenakubalwa. Lapho ekugcineni bevuka, umhlaba wawusushintshile nxazonke zabo. Bangobani laba bantu abalele?",
+  "clues": [
+    "Sasiyintsha ehlala edolobheni lasendulo.",
+    "Umphakathi wethu wawufuna ukuba sikhulekele kanye nabo, kodwa senqaba.",
+    "Sabaleka edolobheni sifuna indawo yokuphephela kulabo ababephikisa izinkolelo zethu.",
+    "Umngane othembekile onemilenze emine wahlala emnyango wendawo yethu yokucasha.",
+    "U-Allah wasenza salala iminyaka engamakhulu amathathu nesishiyagalolunye.",
+    "Ekugcineni lapho sivuka, idolobha lethu elalishushiswa lalamukele ukholo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "U-Ashab al-Kahf (Abantu Bomhume)",
+        "U-Ashab al-Fil (Ibutho Lendlovu)",
+        "U-Ashab al-Ukhdud (Abangane Bomsele)",
+        "I-Hawariyyun (Abafundi baka-Isa)",
+        "Yajuj wa Majuj (uGogi noMagogi)"
+      ],
+      "answer": "U-Ashab al-Kahf (Abantu Bomhume)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Sabuyela emhumeni futhi salala amakhulu eminyaka",
+        "Sasindiswa emlilweni ovuthayo",
+        "Sagwinywa yinhlanzi enkulu",
+        "Savivinywa ngekamela lensikazi eliyisimangaliso",
+        "Sanikwa izimpawu ezicacile eziyisishiyagalolunye"
+      ],
+      "answer": "Sabuyela emhumeni futhi salala amakhulu eminyaka"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umhume ojulile ezintabeni",
+        "Isikebhe olwandle oluvulekile",
+        "Isakhiwo eside esifinyelela emazulwini",
+        "Ingadi ehlukaniswe phakathi kwezimbangi ezimbili",
+        "Isithiyo sensimbi nethusi"
+      ],
+      "answer": "Umhume ojulile ezintabeni"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Savuka sathola ukuthi idolobha lethu seliphendukele okholweni",
+        "Umlilo ovuthayo waba nokuthula futhi waphola",
+        "Ibutho lesitha lacwila olwandle",
+        "Izinyoni ezithwele amatshe zabhubhisa isitha",
+        "Inhlanzi enkulu yasikhulula ogwini"
+      ],
+      "answer": "Savuka sathola ukuthi idolobha lethu seliphendukele okholweni"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

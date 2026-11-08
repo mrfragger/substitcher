@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Arkitekto sa Bato",
+  "intro": "Handurawa ang usa ka gamhanang sibilisasyon, nga gihatagan og kusog ug kahanas, nga nagkulit og dagkong mga balay sa mga kilid sa bukid. Kining grupoha adunay dakong kauswagan ug talagsaon nga kahanas sa arkitektura. Apan, bisan pa sa pagdawat og klaro nga mga pasidaan, gipili nila ang usa ka dalan nga mosangpot sa usa ka dramatiko ug dili malimtan nga konklusyon. Makaila ka ba niining grupo kansang istorya nagsilbing usa ka lawom nga leksyon alang sa tanan nga mamalandong?",
+  "clues": [
+    "Gihatagan kami og kusog ug kahanas, nga nagtugot kanamo sa pagkulit og mga maanindot nga balay direkta sa kabukiran.",
+    "Gihatagan kami og klaro nga timaan gikan sa Allah, usa ka talagsaon nga binuhat nga dili angay samokon aron manibsib.",
+    "Ang among komunidad nahimong mapahitas-on, nga mihagit sa balaang mensahe nga gidala sa usa ka mensahero gikan sa among taliwala.",
+    "Nagkunsabo kami sa pagdaot sa milagrosong timaan, bisan pa sa mga pasidaan sa grabeng silot.",
+    "Gisupak namo ang sugo nga pasagdan ang espesyal nga binuhat nga moinom gikan sa among atabay sa laing mga adlaw.",
+    "Nakahiagum kami og usa ka makalilisang nga katapusan, naigo sa usa ka makalilisang nga pagbuto human sa among kalapasan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Kami?",
+      "options": [
+        "Mga tawo sa 'Ad",
+        "Mga tawo sa Midian",
+        "Mga tawo sa elepante",
+        "Mga tawo sa Thamud",
+        "Mga tawo ni Lut"
+      ],
+      "answer": "Mga tawo sa Thamud"
+    },
+    "trial": {
+      "label": "Ang Among Dakong Pagsulay/Kalihokan",
+      "options": [
+        "Ang baha nga mitabon sa yuta",
+        "Ang pagkabahin sa dagat",
+        "Ang kalaglagan pinaagi sa usa ka pagbuto/singgit",
+        "Ang pagsunog sa usa ka siyudad",
+        "Ang paghimo sa bukid nga abog"
+      ],
+      "answer": "Ang kalaglagan pinaagi sa usa ka pagbuto/singgit"
+    },
+    "location": {
+      "label": "Usa ka Importanteng Elemento sa Among Istorya",
+      "options": [
+        "Usa ka bulawan nga nating baka",
+        "Usa ka milagrosong babayeng kamelyo",
+        "Usa ka nagdilaab nga sapinit",
+        "Usa ka langgam nga nagsulti",
+        "Usa ka halangdon nga trono"
+      ],
+      "answer": "Usa ka milagrosong babayeng kamelyo"
+    },
+    "outcome": {
+      "label": "Ang Among Kinatas-ang Resulta",
+      "options": [
+        "Gihatagan og dakong bahandi ug gahom",
+        "Gibayaw ngadto sa pagkapropeta",
+        "Bug-os nga pagkalaglag pinaagi sa silot sa Diyos",
+        "Gipasaylo human sa sinsero nga paghinulsol",
+        "Nagkatibulaag sa tibuok yuta aron maglatagaw"
+      ],
+      "answer": "Bug-os nga pagkalaglag pinaagi sa silot sa Diyos"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Die Übertretung am Ufer",
+  "intro": "Du stehst am Strand eines vergessenen Ufers, wo die Wellen von einer Gemeinschaft flüstern, die durch ein göttliches Gebot geprüft wurde. Die Luft ist schwer von der Erinnerung an ein Verbrechen, das zu einer erstaunlichen Wandlung führte. Wer waren diese Seelen, und worin bestand ihre Prüfung?",
+  "clues": [
+    "Wir waren eine Gemeinschaft, die ein klares Gebot von unserem Herrn empfing, und doch fanden wir Wege, es zu missachten.",
+    "Wir lebten in der Nähe eines Gewässers, und unser Lebensunterhalt hing von seinen Geschöpfen ab.",
+    "Eine Prüfung kam für uns an dem Tag, an dem uns befohlen wurde, uns von weltlichen Beschäftigungen fernzuhalten.",
+    "An diesem Tag kamen die Wassertiere in großer Zahl zu uns und versuchten uns bis zur Unerträglichkeit.",
+    "Wir ersannen einen raffinierten Trick, um die göttliche Ordnung zu umgehen, in der Annahme, wir könnten das Dekret überlisten.",
+    "Unser Vergehen führte zu einer erniedrigenden Verwandlung; wir wurden auf Befehl Allahs zu verachteten Affen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Das Volk des Sabbats",
+        "Das Volk von Rass",
+        "Das Volk von Tubba",
+        "Die Menschen der Höhle",
+        "Die Gefährten des Grabens"
+      ],
+      "answer": "Das Volk des Sabbats"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Das Erscheinen von Fischen am Sabbat",
+        "Ein Jahr schwerer Dürre",
+        "Eine Armee von Vögeln wurde gegen sie ausgesandt.",
+        "Eine Flut, die sie überwältigte",
+        "Ein heftiges Erdbeben"
+      ],
+      "answer": "Das Erscheinen von Fischen am Sabbat"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Meer",
+        "Ein Berg",
+        "Eine Höhle",
+        "Ein Wüstental",
+        "Eine befestigte Stadt"
+      ],
+      "answer": "Das Meer"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "In Affen verwandelt",
+        "Von der Erde verschluckt",
+        "Zerstört von einem heulenden Wind",
+        "Im Meer ertrunken",
+        "Von einem Steinhagel getroffen"
+      ],
+      "answer": "In Affen verwandelt"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

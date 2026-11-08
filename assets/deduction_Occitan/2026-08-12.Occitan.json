@@ -1,0 +1,61 @@
+{
+  "title": "Los Enviats de la Misericòrdia e de la Poder",
+  "intro": "Imaginatz una tarda tranquila interrompuda per l'arribada de viatjaires desconeguts. Lor aparéncia es ordinària, mas lor tòca es quicòm mai. Pòrtan un messatge divin qu'alterarà lo cors de doas nacions, en portant de rire a un ostal arid e de terror a una vila pecaira. Qual son aqueles visitors misterioses?",
+  "clues": [
+    "Foguèrem mandats a un servicial devot d'Allah, conegut per son espitalitat sens limits.",
+    "Arribèrem jos la guisa d'estranhs, e pasmens nòstre òste sentiguèt quicòm d'autre mond a prepaus de nòstra preséncia.",
+    "Portèrem de novèlas que faguèron rire d'incredulitat una femna vièlha, en se tustant la cara d'eston.",
+    "Èrem encargats de protegir una familha justa del temps que ploviam de destruccions sus una vila trempada de corrupcion.",
+    "Refusèrem de participar al repais que nos ofrissián, çò qu'aprigondiguèt pas que la sospiècha de nòstre òste.",
+    "Revelèrem nòstra vertadièra natura sonque abans de partir, en disent, 'En efièch, sèm de messatgièrs de vòstre Senhor.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Los Convidats d'Abram",
+        "Los discípols de Jèsus",
+        "Los Companhs de la Cava",
+        "L'Armada d'Abraha",
+        "Los Messatgièrs de Ya-Sin"
+      ],
+      "answer": "Los Convidats d'Abram"
+    },
+    "trial": {
+      "label": "Nòstra Mission",
+      "options": [
+        "Per testar la fe d'Abram a prepaus de son filh",
+        "Per liurar l'escriptura a Abraham",
+        "Per anonciar la naissença d'Isaac e la destruccion del pòble de Lòt",
+        "Per guidar Abraham a la Kaaba",
+        "Per salvar Abraham del fuòc"
+      ],
+      "answer": "Per anonciar la naissença d'Isaac e la destruccion del pòble de Lòt"
+    },
+    "location": {
+      "label": "Luòc d'aparicion",
+      "options": [
+        "En la terra d'Egipte .",
+        "Dins la vila d'Ur",
+        "A l'ostal d'Abram",
+        "Dins l'òrt d'Edèn",
+        "Al potz de Zamzam"
+      ],
+      "answer": "A l'ostal d'Abram"
+    },
+    "outcome": {
+      "label": "Lo resultat",
+      "options": [
+        "Abraham venguèt un rei",
+        "Abraham bastiguèt la Kaaba",
+        "Sara donèt naissença a Isaac e lo pòble de Lòt foguèt destruch",
+        "Abraham migrèt en Palestina",
+        "Lo pòble d'Abram foguèt salvat d'un grand diluvi"
+      ],
+      "answer": "Sara donèt naissença a Isaac e lo pòble de Lòt foguèt destruch"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

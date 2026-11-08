@@ -1,0 +1,61 @@
+{
+  "title": "İlahiliyi Tələb Edən Hökmdar",
+  "intro": "Güclü və təkəbbürlü bir hökmdar taxtının üstündə heç kimin dayanmadığına inanırdı. Onlar qaçan bir qrupu böyük bir su hövzəsində təqib etdilər və dramatik bir sonluqla qarşılaşdılar. Bu hökmdarın hekayəsi Quranın bir çox ayələrində əks-səda verir və hamı üçün bir xəbərdarlıq rolunu oynayır.",
+  "clues": [
+    "Mən idarə etdiyim torpaqlarda heç bir hakimiyyətin öz hakimiyyətimdən üstün olmadığına inanan güclü bir hökmdar idim.",
+    "Mənim Haman adlı etibarlı bir vəzirim var idi və o, mənə möhtəşəm memarlıq layihələrini həyata keçirməkdə kömək edirdi.",
+    "Mənə qarşı çıxan bir elçinin əlamətlərinə meydan oxumaq üçün ölkəmin ən yaxşı sehrbazlarını çağırdım.",
+    "Vəbalara və açıq xəbərdarlıqlara baxmayaraq, səltənətimdə köləlik edən bir xalqın getməsinə icazə vermədim.",
+    "Mən bütün ordum və döyüş arabalarımla onları geniş bir dənizin o tayına təqib etdim.",
+    "Həmin dəniz mənim və qoşunlarımın üzünə bağlandı və hamımızı boğdu, onlar isə sağ-salamat keçdilər."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Firon (Firon)",
+        "Nəmrud",
+        "Əbu Ləhəb",
+        "Haman",
+        "Əbu Cəhil"
+      ],
+      "answer": "Firon (Firon)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Musa (Musa) ilə bəlalar və qarşıdurma",
+        "Böyük bir daşqından əvvəl bir gəmi tikmək",
+        "Vadidə Calutla döyüş",
+        "Balina tərəfindən udulmaq",
+        "Dürüst ticarət çəkilərini müdafiə etmək"
+      ],
+      "answer": "Musa (Musa) ilə bəlalar və qarşıdurma"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Hündür qüllələr və dirəklər",
+        "Böyük bir taxta sandıq",
+        "Qızıl buzov",
+        "İlana çevrilən bir əsa",
+        "Nəhəng bir balina"
+      ],
+      "answer": "Hündür qüllələr və dirəklər"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Ordu ilə dənizdə boğuldu",
+        "Allahın mərhəməti və səbri ilə xilas oldum",
+        "İllərdir davam edən çətinliklərdən sonra ailəsi ilə yenidən görüşdü",
+        "Torpaq tərəfindən udulmuş",
+        "Yanğında yanıb"
+      ],
+      "answer": "Ordu ilə dənizdə boğuldu"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

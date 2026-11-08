@@ -1,0 +1,61 @@
+{
+  "title": "Odjek obmane",
+  "intro": "Srodstvene veze su bile testirane naletom zavisti. Skovan je tajni plan, pokrećući lanac događaja koji će se protezati godinama i prelaziti ogromne udaljenosti. Postupci ove grupe doveli su do dubokog razdvajanja i tuge, ali priča se tu nije završila. To je priča o obmani, kajanju i konačnom otkrivanju božanskog plana. Možete li otkriti identitet ovih pojedinaca čiji su se izbori odražavali generacijama?",
+  "clues": [
+    "Proždirala nas je ljubomora zbog naklonosti iskazane jednom od naših.",
+    "U našoj zavisti, skovali smo zavjeru i bacili našeg brata/sestru u tamu bunara.",
+    "Da bismo sakrili svoje djelo, poklonili smo ocu odjeću umrljanu lažnom krvlju.",
+    "Godinama kasnije, teška glad nas je prisilila da otputujemo u Egipat u potrazi za namirnicama.",
+    "Tamo smo došli pred moćnog guvernera koji, nama nepoznat, bio je upravo onaj brat kojeg smo omalovažavali.",
+    "Naš posljednji test bio je dovesti našeg najmlađeg brata, Benjamina, što je dovelo do otkrića naše prošlosti i našeg oca, poslanika Jakuba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko smo mi?",
+      "options": [
+        "Sinovi Adamovi (Kabil i Habil)",
+        "Učenici Poslanika Ise",
+        "Braća proroka Jusufa",
+        "Ljudi iz Madyana",
+        "Faraonovi čarobnjaci"
+      ],
+      "answer": "Braća proroka Jusufa"
+    },
+    "trial": {
+      "label": "Koji je bio naš glavni grijeh?",
+      "options": [
+        "Gradnja zlatnog teleta za obožavanje",
+        "Zahtjev da se vidi Allah direktno",
+        "Ismijavanje proroka zbog izgradnje arke",
+        "Varamo našeg oca i napuštamo našeg brata",
+        "Kršenje subote ribolovom"
+      ],
+      "answer": "Varamo našeg oca i napuštamo našeg brata"
+    },
+    "location": {
+      "label": "Koji je objekt bio središnji dio naše obmane?",
+      "options": [
+        "Set ispisanih pločica",
+        "Košulja umrljana lažnom krvlju",
+        "Zlatno tele",
+        "Prekrasna ptica (pupavac)",
+        "Štap koji se pretvorio u zmiju"
+      ],
+      "answer": "Košulja umrljana lažnom krvlju"
+    },
+    "outcome": {
+      "label": "Šta je bio krajnji ishod naše priče?",
+      "options": [
+        "Uništila nas je ogromna poplava",
+        "Pretvoreni smo u majmune",
+        "Progutala nas je zemlja",
+        "Oprošteno nam je i ponovo smo se ujedinili sa svojom porodicom",
+        "Utopili smo se u moru"
+      ],
+      "answer": "Oprošteno nam je i ponovo smo se ujedinili sa svojom porodicom"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

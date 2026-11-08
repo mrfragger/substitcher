@@ -1,0 +1,61 @@
+{
+  "title": "Onye Na-ebu Ihe Akara Itoolu",
+  "intro": "Otu onye biliri site na mmalite kacha ala, ya na akara aka e dere n'uche Chineke. E zoro ya n'oge ọ bụ nwata ma zụlite ya n'ime mgbidi nke onye ọchịchị ahụ nke chọrọ ibibi ndị ha, e mechara kpọọ mkpụrụ obi a ka ọ gaa rụọ ọrụ dị ike. Ha ji okwukwe na mkpara onye ọzụzụ atụrụ dị umeala n'obi kwadebe onwe ha n'ihu onye ọchịchị kacha ike n'oge ahụ ma rịọ ka ndị a na-agba ohu nwere onwe ha. Ụwa n'onwe ya yiri ka ọ na-agagharị dịka iwu ha si dị - mmiri kewara, eluigwe kwuru okwu, alaeze daa.",
+  "clues": [
+    "Ụjọ tụrụ m n'oge mbụ m — onye ọchịchị na-enweghị obi ebere nke na-atụ egwu ọdịnihu na-achụgharị ụmụ ọhụrụ dịka m mgbe a mụrụ ha.",
+    "Mmiri zọpụtara m ma zụlite m n'obí eze nke onye ọchịchị ahụ chọrọ mbibi m.",
+    "M si n'obodo m gbapụ mgbe ihe mberede mere, wee ghọọ onye ọzụzụ atụrụ dị umeala n'obi n'ala dị anya.",
+    "Alọghachiri m iji mkpara dị mfe na ozi doro anya lụso onye ọchịchị dị ike ahụ ọgụ, na-achọ nnwere onwe nke ndị m.",
+    "E kewara m nnukwu mmiri nye ndị so m, wee lee ka mmiri ahụ si loda onye iro m dum.",
+    "Arịgoro m ugwu dị nsọ iji nata nduzi Chineke site n'aka Allah, e wee nye m ihe ịrịba ama itoolu doro anya dị ka ihe akaebe nke eziokwu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Mozis",
+        "Onye Amụma Nua",
+        "Onye Amụma Ibrahim",
+        "Onye Amụma Josef",
+        "Onye Amụma Lọt"
+      ],
+      "answer": "Onye Amụma Mozis"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Izute Fero n'obí ya",
+        "Iwuli Ụgbọ ahụ iji lanarị nnukwu idei mmiri",
+        "Ndị na-eme arụsị ga-atụba ha n'ọkụ na-ere ọkụ",
+        "Ụmụnne m ndị nwoke na-eweda m n'ime olulu miri emi",
+        "Ịgbalị igbochi ndị m ime omume rụrụ arụ"
+      ],
+      "answer": "Izute Fero n'obí ya"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Mkpanaka ahụ nke ghọrọ agwọ",
+        "Ụgbọ Noa",
+        "Ocheeze Bilqis",
+        "Mgbaaka nke na-achịkwa ifufe na jin",
+        "Mkpịsị ugodi nke akụ̀ ndị a chịkọtara dị oke arọ"
+      ],
+      "answer": "Mkpanaka ahụ nke ghọrọ agwọ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Duru ndị m gafee mmiri kewara ekewa ruo nnwere onwe",
+        "A zọpụtara m n'oké idei mmiri dị n'ime Ụgbọ",
+        "E weghachiri ya n'ahụike na ezinụlọ ya mgbe nnukwu ahụhụ gasịrị",
+        "A tụpụrụ ya n'ime nnukwu azụ dị ndụ",
+        "Wuru ntọala nke Ụlọ Nsọ ahụ"
+      ],
+      "answer": "Duru ndị m gafee mmiri kewara ekewa ruo nnwere onwe"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

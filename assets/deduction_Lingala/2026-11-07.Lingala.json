@@ -1,0 +1,61 @@
+{
+  "title": "koluka koyeba makambo oyo ezali na minzoto oyo ezali kongɛnga",
+  "intro": "Kanisá kotɛlɛma na nse ya likoló monene ya butu, kotalaka miinda ya kongɛnga oyo ezali komata mpe na nsima ezali kosila ntango ozali koluka oyo ebongi mpenza komipesa. Nzinga nzinga na yo, bililingi oyo eyemami na nkuku ezwaka masanzoli mpe makabo, nzokande ntina ya polele ezali kotya ntembe na nguya na yango. Mongongo moko ya kobanga te elingi kotelemela bonkoko ya libula mpe kolakisa epai ya Mozalisi ya lola mpe ya mabele.",
+  "clues": [
+    "Natalaki minzoto, sanza, mpe moi, mpe nakanisaki ete bakokaki kozala Nkolo na ngai te mpo ete elalaka mpe elimwaka.",
+    "Naboyaki polele oyo bato na ngai bazalaki kosambela longola Allah mpe nabengaki bango básambela kaka Mozalisi.",
+    "Nazalaki kotyana ntembe na mokonzi moko ya lolendo oyo alobaki ete apesaka bomoi mpe liwa, mpe nayanolaki na kolobelaka Allah oyo amemaki moi longwa na ɛsti.",
+    "Nabɛtaki bikeko mpe nabukaki yango, natikaki kaka oyo eleki minene kati na yango mpo bato bázonga na yango.",
+    "Bato na ngai bakangaki ngai mpe bakweisaki ngai, oyo balobaki ete bátonga ndako moko mpe bábwaka ngai na mɔtɔ oyo ezalaki kopela.",
+    "Nabikisamaki ntango Allah atindaki moto ezala malili mpe bokengi mpo na ngai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Ibrahim (Abraham) .",
+        "Mosakoli Yahya (Yoane) .",
+        "Mosakoli Al-Yasa (Elisa) .",
+        "Ba Samiri",
+        "Namrude (Nimilode) ."
+      ],
+      "answer": "Mosakoli Ibrahim (Abraham) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Akutanaki na losambo ya bikeko mpe azalaki kotyana ntembe mpo na ndimbola ya biloko ya likoló",
+        "Amelamaki na mbisi moko monene nsima ya kolongwa na nkanda",
+        "Akambaki balandi na nzela ya mbu oyo ekabwani na Allah",
+        "Asekwamaki na bomoi na lola kozanga komeka liwa",
+        "Alalaki na libulu moko elongo na baninga na ye na boumeli ya bambula mingi"
+      ],
+      "answer": "Akutanaki na losambo ya bikeko mpe azalaki kotyana ntembe mpo na ndimbola ya biloko ya likoló"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mɔtɔ ya mɔ́tɔ oyo esalemaki malili mpe na libateli na Allah",
+        "Masuwa oyo ememaki bandimi na kati ya mpela",
+        "Likonzí oyo ekómaki nyoka",
+        "Mesa yango epalanganaki uta na likoló",
+        "Kamela ya mwasi etindaki lokola elembo"
+      ],
+      "answer": "Mɔtɔ ya mɔ́tɔ oyo esalemaki malili mpe na libateli na Allah"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Babatelami na mɔ́tɔ mpe bapesaki ye bakitani ya sembo",
+        "Bazindaki na bato oyo bawanganaki na mpela monene",
+        "Babongwanaki mpo abukaki Sabata",
+        "Ebebisami na bandɛkɛ oyo ememaki mabanga ya mabele ya lima",
+        "Emelami na mabele na biloko ya motuya"
+      ],
+      "answer": "Babatelami na mɔ́tɔ mpe bapesaki ye bakitani ya sembo"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

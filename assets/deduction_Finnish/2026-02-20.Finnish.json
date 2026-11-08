@@ -1,0 +1,61 @@
+{
+  "title": "Tulen todistaja",
+  "intro": "Syvällinen yksilö, joka oli omistautunut paljastamaan perimmäisen todellisuuden, lähti hengellisen löytöretkelle. Heidän horjumaton vakaumuksensa johti hänet kyseenalaistamaan vakiintuneita normeja ja kohtaamaan valtavia koettelemuksia, jotka koettelivat uskon rajoja. Tämän sielun tarina on osoitus jumalallisesta suojeluksesta ja ohjauksesta.",
+  "clues": [
+    "Minut siunattiin ainutlaatuisella tittelillä Herraltani, joka symboloi syvää ja erityistä sidettä.",
+    "Vietin varhaisen elämäni kansan keskuudessa, joka kumarsi tekokuvia, mutta sydämeni kaipasi yhtä todellista Jumalaa.",
+    "Tarkkailin taivaankappaleita, aurinkoa, kuuta ja tähtiä, pohdiskellen niiden nousua ja laskua ja päädyin siihen tulokseen, etteivät ne voineet olla minun Herrani.",
+    "Uhmakseni laajalle levinnyttä polyteismia vastaan ​​kohtasin väärät jumaluudet, jättäen yhden suuremman ehjäksi hiljaiseksi syyttäjäksi.",
+    "Haasteeni epäjumalanpalvelusta vastaan ​​johti ankaraan rangaistukseen, sillä minut tuomittiin heitettäväksi raivoavaan helvettiin.",
+    "Silti Luojani käskystä voimakkaat liekit muuttuivat viileyden ja turvallisuuden lähteeksi, joka säilytti henkeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Musa",
+        "Profeetta Nooa",
+        "Profeetta Ibrahim",
+        "Profeetta Isa",
+        "Profeetta Yusuf"
+      ],
+      "answer": "Profeetta Ibrahim"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Punaisenmeren ylitys",
+        "Tulva",
+        "Pojan uhraus",
+        "Tulinen koettelemus",
+        "Valaan vatsa"
+      ],
+      "answer": "Tulinen koettelemus"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Trumpetti",
+        "Tuli",
+        "Kaivo"
+      ],
+      "answer": "Tuli"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Johdatti ihmisiä turvaan",
+        "Peri suuren valtakunnan",
+        "Kala nielaisi hänet",
+        "Pelastui palamiselta",
+        "Sai tabletit"
+      ],
+      "answer": "Pelastui palamiselta"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

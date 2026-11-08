@@ -37,11 +37,11 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 
 ![](images/fonts.jpg)
 
-- download 38 demo fonts + 3 free foreign fonts or search for them to download on font websites
+- download 40 demo fonts + 3 free foreign fonts or search for them to download on font websites
 - custom fonts can all be in one directory within various subdirectories, it recursively loads the fonts
-- ![customfonts.zip 24 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
+- ![customfonts.zip 25 MB](https://github.com/mrfragger/substitcher/raw/main/images/customfonts.zip)
 - in font panel set custom folder to this one and all fonts will be loaded
-- [177Studio](https://177studio.com) with 16 fonts
+- [177Studio](https://177studio.com) with 17 fonts
 - [Grezline Studio](https://grezlinestudio.com) with 6 fonts
 - [Letterara Studio](https://letterarastudio.com) with 5 fonts
 
@@ -83,6 +83,7 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 │   ├── Creates Presence demo.otf
 │   ├── Engaging Realities demo.otf
 │   ├── Fantastic Deception One demo.otf
+│   ├── Healthcare Resilience demo.otf
 │   ├── Historical Conditions demo.otf
 │   ├── Material Lettering demo.otf
 │   ├── Radical Blending demo.otf
@@ -90,11 +91,12 @@ Opus chaptered audiobook player, encoder and editor with colored subtitles and f
 ├── mustBeUppercase
 │   ├── Caroline Everett.otf (Grezline)
 │   ├── Children Interests demo.otf (177)
-│   └── Intricate Narrative demo.otf (177)
+│   ├── Intricate Narrative demo.otf (177)
+│   └── Rocket Raccoon free.otf (Alpaprana)
 └── seesawcase
-    ├── Harquil.ttf (Mentor Type)
-    ├── Sidethree.otf (ahweproject)
-    └── Zigzageo.ttf (deFharo)
+│   ├── Harquil.ttf (Mentor Type)
+│   ├── Sidethree.otf (ahweproject)
+│   └── Zigzageo.ttf (deFharo)
 ```
 
 ### Glyph Viewer

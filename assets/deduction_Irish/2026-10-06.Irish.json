@@ -1,0 +1,61 @@
+{
+  "title": "An Fhírinne a Chuir Tost ar an gCúirt",
+  "intro": "I bpálás inar réimeas an séanadh agus an chumhacht iomlán, sheas grúpa cleachtóirí oilte os comhair dúshlán gan choinne. Bhí an t-aer ag pléascadh le réamhshuim agus an dá chonair bréag agus fírinne ar tí imbhualadh. Ní raibh a fhios ag na daoine a bhí cruinnithe go n-athródh an teagmháil seo a saol go deo agus go ndéanfadh sé a scéal a ghreanadh isteach sa téacs naofa.",
+  "clues": [
+    "Bhí cáil orainn as ár scileanna i mbréagriochtaí agus bhailigh rialóir cumhachtach sinn le dul i ngleic le dúshlánóir.",
+    "Nuair a tháinig an nóiméad, chaith muid ár n-uirlisí agus d’fhan muid leis an toradh, muiníneach as ár gceird.",
+    "Ach de bharr an méid a chonaiceamar, bhí ár ngléasanna féin cosúil le bréagáin amháin, agus d’aithin ár gcroí an fhírinne dhochloíte.",
+    "Thit muid ar an talamh i ndroch-umhlaíocht, ag dearbhú ár gcreideamh i dTiarna Mhaois agus Árón, in ainneoin fheirg an rialóra.",
+    "Bhagair an rialóir sin an pionós ba bhrúidiúla orainn, ag gealladh go gcéasfadh sé sinn agus go ngearrfadh sé ár ngéaga ar bhealaí difriúla.",
+    "D’fhanamar daingean, ag rá gur fearr linn breithiúnas ár dTiarna thar aon iarmhairt dhomhanda, agus cuireadh chun báis sinn ar son ár gcreidimh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Draoithe an Fharó",
+        "Muintir na hUaimhe",
+        "Comhluadar na Coille",
+        "Deisceabail Íosa",
+        "Muintir an Eilifint"
+      ],
+      "answer": "Draoithe an Fharó"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Comórtas draíochta i gcoinne Musa",
+        "Tine a caitheadh ​​orthu",
+        "Tuile a bháigh iad",
+        "Triomach agus gorta",
+        "Crith talún"
+      ],
+      "answer": "Comórtas draíochta i gcoinne Musa"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Bataí agus rópaí a d’iompaigh ina nathracha",
+        "Tor dóite",
+        "Camall baineann",
+        "Áirc adhmaid",
+        "Míol mór"
+      ],
+      "answer": "Bataí agus rópaí a d’iompaigh ina nathracha"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Cuireadh chun báis é de bharr creidimh, gealladh Pharthais dó",
+        "Báite sa bhfarraige",
+        "Rinneadh rialóirí ar an Éigipt díobh",
+        "Leanúna fós ag Pharaoh",
+        "Fuair ​​an talamh mar oidhreacht"
+      ],
+      "answer": "Cuireadh chun báis é de bharr creidimh, gealladh Pharthais dó"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

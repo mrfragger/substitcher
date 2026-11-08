@@ -1,0 +1,61 @@
+{
+  "title": "Moea oa Mokuli oa Ntlo e Halalelang",
+  "intro": "Maqepheng a Quran, ho hlaha motho ea hlahellang lelokong la moprofeta e moholo, ea filoeng e le mpho botsofaling. Moea ona o ketekoa ka lebaka la 'nete e sa thekeseleng le karolo e tebileng ho theheng sehalalelo se neng se tla fetoha lebone la tumelo. Ha u ntse u bala lintlha, mamela ka hloko lentsoe la nakong e fetileng, hobane le bua ka motho oa pele.",
+  "clues": [
+    "Ke boletsoe ho Quran hammoho le moprofeta e mong e le mpho e fuoeng lenģosa le hōlileng.",
+    "Ke ne ke le e mong oa bana ba babeli ba ileng ba fuoa moprofeta eo lilemong tsa hae tsa morao.",
+    "Quran e a ntlhompha ka ho ba le 'nete ho seo ke se buileng.",
+    "Ke ne ke jere tlotla ea boporofeta 'me ke rometsoe e le lenģosa.",
+    "Ke ile ka ikopanya le ntate oa ka ho phahamisa metheo ea Ntlo e Halalelang.",
+    "Ke hopoloa ke le e mong oa ba nang le mamello, 'me ntlo e halalelang eo re e hahileng e ile ea fetoha sebaka sa ho khutla le tšireletso bakeng sa batho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Ismail",
+        "Moprofeta Ishaq",
+        "Moprofeta Yaqub",
+        "Moprofeta Zakaria",
+        "Moprofeta Yahya"
+      ],
+      "answer": "Moprofeta Ismail"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho phahamisa metheo ea Kaaba le Ibrahim",
+        "Ho lahleloa mollong",
+        "Ho metsoa ke leruarua",
+        "Ho etella Baiseraele pele ho tsoa Egepeta",
+        "Ho haha ​​​​areka"
+      ],
+      "answer": "Ho phahamisa metheo ea Kaaba le Ibrahim"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Kaaba",
+        "Thaba ea Sinai",
+        "Leoatle le Lefubelu",
+        "Namane ea Khauta",
+        "Serapa sa Edene"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E baloa har'a mokuli",
+        "E baloa har'a bafosi",
+        "E baloa har'a linohe",
+        "E baloa har'a ba sa lumelang",
+        "E baloa har'a baikaketsi"
+      ],
+      "answer": "E baloa har'a mokuli"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

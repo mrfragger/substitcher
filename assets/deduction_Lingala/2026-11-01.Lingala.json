@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo Oyo Eboyaki Désespoir",
+  "intro": "Kota na ndako oyo kobungisa elandi kobungisa, nzokande mongongo moko ya kimia eboyi kozanga elikya. Libenga moko na kati ya Coran ebongoli motema molai na esika ya mbongwana; okoki ko tracer ba indices na mutu oyo azali sima ya voix wana?",
+  "clues": [
+    "Nazalaki mongongo ya motema molai na kati ya ndako wapi mapamboli emekamaki na likama.",
+    "Natikalaki na ndako oyo etikalaki mpamba mpo na kobungisa bozwi mpe bana.",
+    "Nayebaki ete maladi ebɛtaki mpe moninga wana, oyo nzoto na ye ezalaki konyokwama.",
+    "Tango mpasi ekomaki makasi, nabelelaki na bokundoli ya Allah.",
+    "Napesaki esakola moko: Allah azali Solo, yango wana tikala motema molai.",
+    "Nabengaki Ayyub na nkombo; na nsima, Allah alongolaki mpasi mpe azongisaki libota."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mwasi ya Prophète Ayyab",
+        "Mwasi ya Prophète Nuh",
+        "Mwasi ya Prophète Ibrahim",
+        "Mwasi ya Ntoma Ya'qub",
+        "Mwana mwasi ya Farao"
+      ],
+      "answer": "Mwasi ya Prophète Ayyab"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kotikala na Ayyub na nzela ya bobungisi mpe bokono, sima kobenga motema molai",
+        "Kokebisa motindami ya sembo atika lisanga ya kanyaka",
+        "Kobondela mpo na mbotama ya libota oyo ekoya",
+        "Kolimbola bandoto na kati ya boloko ya mokonzi",
+        "Kozwa mwana oyo bapesi ye mokumba pembeni ya ebale"
+      ],
+      "answer": "Kotikala na Ayyub na nzela ya bobungisi mpe bokono, sima kobenga motema molai"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Esengeli kosakola ete Allah azali Solo mpe motema molai",
+        "Nzete ya mbila pembeni ya liziba moko",
+        "Libenga ya kotonga masuwa mosika na mbonge",
+        "Ndoto ya minzoto zomi na moko mpe moi oyo ezali kobima",
+        "Kitunga moko oyo bamemaki pembenipembeni ya Ebale Nil"
+      ],
+      "answer": "Esengeli kosakola ete Allah azali Solo mpe motema molai"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Pasi ya Ayyub elongolamaki mpe libota na ye ezongaki",
+        "Mwana moko oyo bazelaki banda kala azwaki ndingisa nsima ya libondeli ya kobota",
+        "Elenge mokonzi moko alimbolaki mbula nsambo ya ebele mpe ya bozangi",
+        "Mwana moko oyo bapesaki ye mokumba abikisamaki na mai oyo ezalaki kosopana",
+        "Likebisi moko esalemaki liboso ya mpela oyo ebebisaki"
+      ],
+      "answer": "Pasi ya Ayyub elongolamaki mpe libota na ye ezongaki"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

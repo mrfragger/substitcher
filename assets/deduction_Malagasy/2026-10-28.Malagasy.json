@@ -1,0 +1,61 @@
+{
+  "title": "Fampanantenana Nolazaina teo Ambonin'ny Vainafo",
+  "intro": "Mijoro eo akaikin'ny afo any an'efitra ianao raha aparitaka amim-pitandremana ny vainafony. Tonga ireo mpitsidika mba hihaona ao anatin'ny fahanginana, ary hafatra tokana no manokatra tantara feno fampanantenana, fahagagana ary hoavy mbola tsy tanteraka.",
+  "clues": [
+    "Namakivaky ny elanelana izahay mba hahatratrarana mpanompo mahatoky iray tany an-tany efitra.",
+    "Nangataka izahay mba hanaparitahana vainafo mba hanomanana afo.",
+    "Niresaka tamin'ny olona iray izay niantso lelafo mba hangataka hatsiaka sy fiarovana izahay.",
+    "Nitondra vaovao momba ny zaza vao teraka ho an'ny olona iray izay efa tsy afaka niteraka intsony izahay.",
+    "Nomenay anarana hoe Isaka ilay zaza nampanantenaina.",
+    "Nitondra vaovao mahafaly momba ny zazalahy ho an'i Ibrahim izahay, ary nampihomehy an'i Ibrahim izany vaovao mahagaga izany."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ireo Anjely Nitondra Vaovao Mahafaly Momba an'i Isaka tamin'i Ibrahim",
+        "Ireo Anjely Nampitandrina an'i Lota",
+        "Ireo Anjely Mitondra Seza Fiandrianana",
+        "Ireo Anjelin'ny Helo",
+        "Ireo Anjely Nirahina ho any amin'i Noa"
+      ],
+      "answer": "Ireo Anjely Nitondra Vaovao Mahafaly Momba an'i Isaka tamin'i Ibrahim"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Nitondra vaovao mahafaly momba ny nahaterahan'i Isaka ho an'i Ibrahim",
+        "Fampitandremana an'i Lota talohan'ny nanasaziana ny olony",
+        "Fanambarana ny nahaterahan'i Yahya ho an'i Zakariyya",
+        "Mitondra ny Seza Fiandrianana amin'ny Andro Fitsarana",
+        "Fanambarana ny nahaterahan'i Isa tamin'i Maryam"
+      ],
+      "answer": "Nitondra vaovao mahafaly momba ny nahaterahan'i Isaka ho an'i Ibrahim"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Afo voaomana avy amin'ny vainafo miparitaka",
+        "Sambofiara mitsingevana eo ambonin'ny rano tondraka",
+        "Lava-bato voaisy tombo-kase",
+        "Tendrombohitra tanimanga nohamafisin'ny rano masira",
+        "Tohatra mivelatra mankany amin'ny lanitra"
+      ],
+      "answer": "Afo voaomana avy amin'ny vainafo miparitaka"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Vaovao mahafaly momba ny zanaka lahy iray antsoina hoe Isaka",
+        "Vaovao mahafaly momba ny zanaka lahy antsoina hoe Yahya",
+        "Ny nifidianana an'i Talut ho mpitondra ny Zanak'Israely",
+        "Fampitandremana alohan'ny hanasaziana ny vahoakan'i Luta",
+        "Didy hanorina sambo fiara alohan'ny Safodrano"
+      ],
+      "answer": "Vaovao mahafaly momba ny zanaka lahy iray antsoina hoe Isaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vas na obali preizkušnje",
+  "intro": "Znajdete se v obalni vasi, kjer se zvok valov meša s šepetanjem pozabljenega ljudstva. Dobili so ukaz počitka, a njihova pohlepnost je privedla do kazni, o kateri se še danes govori v pridušenem tonu. Ali lahko odkrijete, kdo so bili?",
+  "clues": [
+    "Živeli smo ob obali in dobili smo ukaz, naj praznujemo dan počitka.",
+    "Tistega dne smo imeli veliko rib, vendar nam jih je bilo prepovedano jesti.",
+    "Nekateri med nami so svarili pred prestopki, drugi pa so se vseeno zarotili, da bodo lovili ribe.",
+    "Prekršili smo sveto zapoved in si nakopali hudo kazen.",
+    "Naša kazen je bila preobrazba, ki nas je pustila pohabljene in osramočene.",
+    "Spremenili so nas v opice, znamenje za vse, ki bodo prišli za nami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje sobote",
+        "Ljudje iz Thamuda",
+        "Ljudje iz 'Ad",
+        "Ljudje iz jame",
+        "Ljudje slona"
+      ],
+      "answer": "Ljudje sobote"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ribolov na soboto",
+        "Čaščenje zlatega teleta",
+        "Zanikanje Hudovega sporočila",
+        "Ubijanje kamele",
+        "Gradnja stolpa do neba"
+      ],
+      "answer": "Ribolov na soboto"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Riba",
+        "Kamela",
+        "Osebje",
+        "Čoln",
+        "Vrt"
+      ],
+      "answer": "Riba"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Spremenjeni v opice",
+        "Uničeno zaradi poplave",
+        "Uničeno v plamenečem požaru",
+        "Požrla ga je zemlja",
+        "Raztreseno od vetra"
+      ],
+      "answer": "Spremenjeni v opice"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

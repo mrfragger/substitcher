@@ -1,0 +1,61 @@
+{
+  "title": "Mtoaji wa Hekima Isiyo na Wakati",
+  "intro": "Mtu mwenye heshima, anayejulikana kwa ufahamu wake wa kina na ushauri wa busara, aliwahi kutoa ushauri unaopita vizazi vingi. Maneno yao, yaliyoandikwa katika maandiko matakatifu, huwaongoza watu kuelekea shukrani, uvumilivu, na mwenendo mwema.",
+  "clues": [
+    "Nilibarikiwa hekima, si unabii.",
+    "Nilimshauri mtoto wangu kuhusu dhambi kubwa zaidi: kumshirikisha Mwenyezi Mungu.",
+    "Nilifundisha kuhusu uzito wa matendo, hata thamani ya punje ya haradali, na jinsi Mwenyezi Mungu atakavyoileta.",
+    "Nilisisitiza shukrani kwa Mwenyezi Mungu na wazazi wa mtu, nikitambua mapambano ya kumlea mtoto.",
+    "Ushauri wangu ulijumuisha kusimamisha sala, kuamrisha mema, kukataza maovu, na kuvumilia kwa subira yanayompata mtu.",
+    "Sura katika Quran imepewa jina langu, ikiwa na mafundisho yangu na masomo niliyoshiriki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Suleiman",
+        "Nabii Daudi",
+        "Nabii Yahya",
+        "Luqman",
+        "Nabii Musa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Mandhari ya Kati",
+      "options": [
+        "Kujenga Kaaba",
+        "Kugawanya bahari",
+        "Kutoa hekima",
+        "Kunusurika mafuriko",
+        "Kumezwa na samaki"
+      ],
+      "answer": "Kutoa hekima"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Mlima wa Tur",
+        "Mwanawe",
+        "Ndama wa Dhahabu"
+      ],
+      "answer": "Mwanawe"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu wake waliangamizwa",
+        "Hekima yake ikawa mwongozo",
+        "Alipewa ufalme",
+        "Alipandishwa mbinguni",
+        "Alipewa utajiri mkubwa"
+      ],
+      "answer": "Hekima yake ikawa mwongozo"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

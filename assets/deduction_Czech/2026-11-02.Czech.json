@@ -1,0 +1,61 @@
+{
+  "title": "Neochvějný spojenec ve zkoušce zlata",
+  "intro": "Ve stínu velkého proroka byla vybrána duše výřečná a víry, aby pomohla v monumentální misi. Tato postava pevně stála, když masy zaváhaly, a kázala proti do očí bijícímu přestupku, který ohrožoval samotné jádro monoteismu. Když se prorok vrátil, aby byl svědkem selhání lidu, jeho obhajoba nebyla vinou, ale povinností a strachem z rozdělení. Kdo je tento oddaný služebník Alláha?",
+  "clues": [
+    "Byl jsem vyvolen Alláhem pro posvátnou povinnost po boku jiného člověka a mou rolí bylo podporovat a hlásat.",
+    "Byla mi dána srozumitelnost řeči a doprovázel jsem posla, aby se postavil mocnému utlačovateli.",
+    "Během kritické cesty posel vystoupil na horu sám a nechal mě, abych dohlížel na lidi.",
+    "V jejich nepřítomnosti si lidé vyrobili zlatou sochu a já jsem je prosil, aby zůstali věrní, ale oni mou radu odmítli.",
+    "Když se posel vrátil, plný hněvu a zármutku, byl jsem chycen, ale vysvětlil jsem jim, že jsem byl přemožen a obával se, že mezi nimi způsobím svár.",
+    "Jsem prorok, který stál po boku svého bratra Músy, sdílel jeho břemeno a zůstal neochvějný proti modlářství."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Harun",
+        "Prorok Músa",
+        "Prorok Ísa",
+        "Prorok Dawud",
+        "Prorok Zakariyya"
+      ],
+      "answer": "Prorok Harun"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Lidé uctívali zlaté tele navzdory varováním",
+        "Lidé mě hodili do planoucího ohně",
+        "Spolkla mě velká ryba",
+        "Byl jsem uvězněn na základě falešných obvinění",
+        "Byl jsem vyhoštěn z mého města za kázání"
+      ],
+      "answer": "Lidé uctívali zlaté tele navzdory varováním"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zlaté tele",
+        "Hořící keř",
+        "Hůl, která se proměnila v hada",
+        "Desky úmluvy",
+        "Archa úmluvy"
+      ],
+      "answer": "Zlaté tele"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byl jsem zproštěn viny a pokračoval jsem ve svém prorockém poslání",
+        "Byl jsem potrestán za hříchy lidí",
+        "Byl mi dán nový národ k vedení",
+        "Byl jsem vzat do nebe živý",
+        "Byl jsem ustanoven vládcem nad královstvím"
+      ],
+      "answer": "Byl jsem zproštěn viny a pokračoval jsem ve svém prorockém poslání"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

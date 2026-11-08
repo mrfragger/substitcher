@@ -1,0 +1,61 @@
+{
+  "title": "La Cità Perdüda de Majestaa Inigualabil",
+  "intro": "Una civiltà putent una volta duminava tanti tòcc de la terra, famusa per i strütür impurtant che rivavan fin al ciel. Eppur sotta chesta grandeza, l’è cressuuda una negaziun ostinada: un refud de tegnir cunt del avvertiment divin mandà de denter de la comunità stess. L’orgœi e l’arroganza g’havarian prest purtà una puniziun simil che né la terra né el ciel g’havarian mai vist.",
+  "clues": [
+    "Una volta guvernàvom tanti part de la terra, cun una forza che credem che nissuna oltra civiltà pudeva avegh.",
+    "El noster regn l’era famus per i strütür impurtant cun di pilaster putent che g’havevan no pari in tüt i terr famus.",
+    "Un avvertiment de la noster comunità l’è levà sü, esortand ognun de noalter a sometter sultant al Creatur.",
+    "G’hem negad el messaj qe g’hem ricevud e g’hem refudad de bandonar el percors qe g’hem ereditad.",
+    "Un vent furios e ululant de severità travolgent l’è stà scatenà cuntra de noi, e ne g’ha lassà senza difesa.",
+    "Sem restà cuma di tronc cavà de palm, sparpagnà e desmentegà, cuma leziun per tüt i generaziun dopu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Gent de A'ad",
+        "Gent de Nuh",
+        "Gent de Lut",
+        "La gent de Madyan",
+        "Gent de Tubba'"
+      ],
+      "answer": "Gent de A'ad"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Un vent furius senza pausa de puniziun severa",
+        "Un'inondaziun che g'ha quatà sü tüt i vètt di muntagn",
+        "Una piœuva de sass de argila brüsada de sora",
+        "Un singul urlo spaventus dal ciel",
+        "Un terremot viulent che g’ha dividü la terra"
+      ],
+      "answer": "Un vent furius senza pausa de puniziun severa"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Iram, la cità di pilaster volt",
+        "Una grandissima arca de legn costruida sü una muntagna",
+        "Una camel che l’è vegnuda fœura miraculosament de la pedra",
+        "El Monte Sinai indué sun discendü i cumandament divin",
+        "Un palazz de cristal e de veder fin che varda sü l’aqua che scorren"
+      ],
+      "answer": "Iram, la cità di pilaster volt"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Lassà cuma di tronc cavà de palm, sparpagnà e senza vida",
+        "Anegad sotta i onde travolgent de una grand inondaziun",
+        "Trasfurmà en creatür che paren scimi e pors",
+        "Sfracià sotta una piœuva de sass de argila indurì",
+        "Consumad ind un sol grid assurdent qe al traforava l'anema"
+      ],
+      "answer": "Lassà cuma di tronc cavà de palm, sparpagnà e senza vida"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

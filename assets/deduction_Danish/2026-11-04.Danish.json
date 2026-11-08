@@ -1,0 +1,61 @@
+{
+  "title": "skatten, der sank under stolthed",
+  "intro": "Forestil dig at stå foran bunker af rigdom så enorme, at blot at bære nøglerne ville udmatte en gruppe stærke individer. Omkring dig opfordrer stemmer til ydmyghed og erindring, men stolthed vokser højere end taknemmelighed. Hvad sker der, når gavmildhed bliver en prøve, og arrogance besegler resultatet?",
+  "clues": [
+    "Jeg var fra Musas folk, men jeg overtrådte dem.",
+    "Jeg fik tildelt så enorme skatte, at nøglerne til dem ville tynge en flok stærke mænd.",
+    "Jeg blev rådet af mit folk til ikke at juble og til at søge det hinsides uden at glemme min del af denne verden.",
+    "Jeg hævdede, at det, jeg besad, kun var givet til mig på grund af den viden, jeg havde.",
+    "Jeg fremstod i prydelse foran mit folk, og de, der ønskede et verdsligt liv, ønskede sig noget, der lignede mig.",
+    "Jeg blev opslugt af jorden sammen med min bolig, og ingen kunne hjælpe mig, og jeg kunne heller ikke hjælpe mig selv."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Pralede af rigdom og nægtede Allahs gunst trods råd",
+        "Udfordrede Ibrahim om at give liv og død",
+        "Ledte en hær mod Talut og Dawud",
+        "Udskårne gudebilleder som folket kunne tilbede",
+        "Dræbte en bror af misundelse over et offer"
+      ],
+      "answer": "Pralede af rigdom og nægtede Allahs gunst trods råd"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Nøgler til enorme skatte",
+        "Pagtens Ark",
+        "En guldkalv af prydelser",
+        "En dæmning mellem to bjerge",
+        "Elleve stjerner i en drøm"
+      ],
+      "answer": "Nøgler til enorme skatte"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Opslugt af jorden med bolig og rigdom",
+        "Druknede i havet under forfølgelsen af ​​Musa",
+        "Slået ned af en sten fra Dawuds slynge",
+        "Ødelagt af et voldsomt brag for at have overskåret en hunkamel",
+        "Forvandlet til aber for at bryde sabbatten"
+      ],
+      "answer": "Opslugt af jorden med bolig og rigdom"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

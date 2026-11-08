@@ -1,0 +1,61 @@
+{
+  "title": "Błagający Sanktuarium",
+  "intro": "W ciszy nocy oddana dusza wołała do Najmiłosierniejszego w uświęconych murach świętego miejsca. Lata niezachwianej wiary i cierpliwości miały zostać nagrodzone cudem, który miał przynieść radość i dziedzictwo proroctwa.",
+  "clues": [
+    "Spędzałem dni i noce na modlitwie w świętym sanktuarium, nieustannie modląc się do mojego Pana.",
+    "Zestarzałem się, a moja żona była bezpłodna, jednak nigdy nie straciłem nadziei na miłosierdzie Allaha.",
+    "Dano mi syna, imieniem Yahya, który stał się prorokiem i symbolem sprawiedliwości.",
+    "Sam byłem prorokiem, posłanym, aby prowadzić dzieci Izraela.",
+    "Byłem potomkiem proroka Haruna i służyłem jako kapłan w Świątyni.",
+    "Powierzono mi opiekę Maryam, matki Isy, i byłem świadkiem jej cudów."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Zachariasz",
+        "Prorok Yahya",
+        "Prorok Ilyas",
+        "Prorok Ishaq",
+        "Prorok Jakub"
+      ],
+      "answer": "Prorok Zachariasz"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Obdarował syna na starość",
+        "Ocalony z płonącego ognia",
+        "Uratowany z brzucha ryby",
+        "Przetrwał wielką powódź",
+        "Wyleczony z ciężkiej choroby"
+      ],
+      "answer": "Obdarował syna na starość"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Mihrab (nisza modlitewna)",
+        "Kaaba",
+        "Płonący krzew",
+        "Arka Przymierza",
+        "Jaskinia Siedmiu Śpiących"
+      ],
+      "answer": "Mihrab (nisza modlitewna)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Obdarzony sprawiedliwym synem, który stał się prorokiem",
+        "Zniszczony przez gwałtowną burzę",
+        "Utonął w morzu",
+        "Ocalony przed poparzeniem",
+        "Wrócili do swojego ludu po uratowaniu z ręki ryby"
+      ],
+      "answer": "Obdarzony sprawiedliwym synem, który stał się prorokiem"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

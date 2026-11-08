@@ -1,0 +1,61 @@
+{
+  "title": "Baemeli ba Mohau le Matla",
+  "intro": "Ak'u nahane ka thapama e khutsitseng e sitisoang ke ho fihla ha baeti bao u sa ba tsebeng. Ponahalo ea bona e tloaelehile, empa morero oa bona ha o tšoane le letho. Ba jere molaetsa o halalelang o tla fetola tsela ea lichaba tse peli, o tlise litšeho lehaeng le se nang letho le tšabo motseng o tletseng sebe. Baeti bana ba makatsang ke bo-mang?",
+  "clues": [
+    "Re ile ra romeloa ho mohlanka ea inehetseng oa Allah, ea tsebahalang ka kamohelo ea bona e se nang moeli.",
+    "Re fihlile re iketsa eka re batho bao re sa ba tsebeng, empa moamoheli oa rona o ile a utloa ho hong ho fapaneng ka boteng ba rona.",
+    "Re tlisitse litaba tse ileng tsa tšehisa mosali-moholo ka ho se kholoe, a iketsa sefahleho se makatsang.",
+    "Re ne re filoe mosebetsi oa ho sireletsa lelapa le lokileng ha re ntse re nesetsa motse o tletseng bobolu timetso.",
+    "Re ile ra hana ho ja lijo tseo re neng re li fuoa, e leng se ileng sa mpefatsa lipelaelo tsa motho ea re amohetseng.",
+    "Re senotse tlhaho ea rona ea 'nete pele re tloha, re re, 'Ka 'nete, re manģosa a Morena oa hau.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Baeti ba Abrahama",
+        "Barutuoa ba Jesu",
+        "Balekane ba Lehaheng",
+        "Lebotho la Abraha",
+        "Baromuoa ba Ya-Sin"
+      ],
+      "answer": "Baeti ba Abrahama"
+    },
+    "trial": {
+      "label": "Thomo ea Rona",
+      "options": [
+        "Ho leka tumelo ea Abrahama mabapi le mora oa hae",
+        "Ho isa lengolo ho Abrahama",
+        "Ho phatlalatsa tsoalo ea Isaka le timetso ea batho ba Lota",
+        "Ho tataisa Abrahama ho ea Kaaba",
+        "Ho pholosa Abrahama mollong"
+      ],
+      "answer": "Ho phatlalatsa tsoalo ea Isaka le timetso ea batho ba Lota"
+    },
+    "location": {
+      "label": "Sebaka sa Ponahalo",
+      "options": [
+        "Naheng ea Egepeta",
+        "Motseng oa Ure",
+        "Ha hae Abrahama",
+        "Serapeng sa Edene",
+        "Selibeng sa Zamzam"
+      ],
+      "answer": "Ha hae Abrahama"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Abrahama e ile ea e-ba morena",
+        "Abrahama o hahile Kaaba",
+        "Sara o ile a beleha Isaka mme batho ba Lota ba ile ba timetsoa",
+        "Abrahama o ile a fallela Palestina",
+        "Batho ba Abrahama ba ile ba pholosoa moroallong o moholo"
+      ],
+      "answer": "Sara o ile a beleha Isaka mme batho ba Lota ba ile ba timetsoa"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

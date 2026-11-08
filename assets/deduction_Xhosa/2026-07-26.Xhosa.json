@@ -1,0 +1,61 @@
+{
+  "title": "Isithsaba Esasichasa Isibhakabhaka",
+  "intro": "Kwiindlela zobukumkani bamandulo, igama lomlawuli omnye laba yintsingiselo yobuzwilakhe kunye nokuzikhukhumeza. Xa umkhonzi othobekileyo ka-Allah efika ephethe imiqondiso engenakuphikiswa, lo mlawuli unamandla wala ukuzinikela enyanisweni. Namhlanje, umsebenzi wakho kukuchonga lo mntu udumileyo olawulo lwakhe lwadilika kwaye ikamva lakhe lavalwa phantsi kwamaza.",
+  "clues": [
+    "Ndingumlawuli owoyikwa kakhulu ogama lakhe lisavakala njengesilumkiso ukutyhubela iminyaka.",
+    "Ndayalela abantu bonke ukuba basebenze ngamatyathanga, bephakamisa izikhumbuzo ezazivakalisa uzuko lwam.",
+    "Xa isithunywa sika-Allah safika phambi kwam sinemiqondiso engenakuphikwa, ndala ukuqubuda ndaza ndathi bubugqwirha.",
+    "Ndayalela ukuba kubulawe oonyana abancinane phakathi kwabantu abathinjiweyo, ndinethemba lokubatyumza umoya wabo ngaphambi kokuba bavuke.",
+    "Ndema phambi kwenkundla yam ndaza ndathi, 'Ndiyinkosi yenu ephezulu,' ndifuna ukunqulwa njengothixo.",
+    "Ndikunye nomphathiswa wam oyintloko ecaleni kwam, ndakha isakhiwo eside esijolise ekunyukeni ngaphaya kwamazulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UFaro (uFir'awn)",
+        "INamrud",
+        "UHaman",
+        "U-Abu Lahab",
+        "U-Al-Walid ibn al-Mughira"
+      ],
+      "answer": "UFaro (uFir'awn)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukutshona kuLwandle Olubomvu",
+        "Inkamela eyimazi yathunyelwa kubantu baseThamud",
+        "Umkhukula omkhulu kaNuh",
+        "Isohlwayo sabahlobo boMsele",
+        "Ukutshatyalaliswa komkhosi ka-Abraha ziintaka"
+      ],
+      "answer": "Ukutshona kuLwandle Olubomvu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Isakhiwo esiphakamileyo esakhiwe ngoHaman",
+        "Umkhombe owahamba phezu komkhukula",
+        "Ithole legolide elenziwe ngamaSamiri",
+        "Itrone kaBilqis, uKumkanikazi waseShebha",
+        "Umqolomba wolutsha oluleleyo"
+      ],
+      "answer": "Isakhiwo esiphakamileyo esakhiwe ngoHaman"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukutshoniswa elwandle; umzimba ugcinwe njengesilumkiso",
+        "Ukugxothwa nokunyanzelwa ukuba bazulazule entlango",
+        "Iguqulwe yaba ziinkawu njengesohlwayo",
+        "Itshaywe yinyikima enamandla",
+        "Itshiswe yimvula yamatye avela esibhakabhakeni"
+      ],
+      "answer": "Ukutshoniswa elwandle; umzimba ugcinwe njengesilumkiso"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

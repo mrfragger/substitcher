@@ -1,0 +1,61 @@
+{
+  "title": "Le banni des cieux",
+  "intro": "Un être mystérieux se tient au carrefour de la création et du rejet. Son histoire est celle d'une arrogance sans pareille et d'un défi absolu à un commandement divin. Son choix résonne à travers les générations, devenant une épreuve pour chaque âme née en ce monde. Saurez-vous identifier cet adversaire éternel ?",
+  "clues": [
+    "J'étais présent lors d'un événement d'une importance cosmique, lorsqu'un nouvel être fut façonné à partir d'argile et animé par le Souffle du Miséricordieux.",
+    "Moi-même, j'ai été créé à partir d'un unique élément incandescent, contrairement à cet être de poussière.",
+    "On m'a donné un ordre que j'ai jugé indigne de mon rang.",
+    "L'orgueil m'envahit et je refusai catégoriquement d'obéir à cet ordre.",
+    "Un délai m'a été accordé jusqu'à une date fixée, afin que je puisse poursuivre mon dessein déclaré : tromper les autres.",
+    "Je suis l'ennemi déclaré de tous ceux qui foulent la terre, leur murmurant des mensonges et les détournant du droit chemin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Iblis (Satan)",
+        "Pharaon (Fir'awn)",
+        "Haman",
+        "Abou Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "A refusé de s'incliner devant Adam",
+        "Il a prétendu faussement être divin",
+        "Il forgea un veau d'or pour le culte",
+        "Il a tué son frère par jalousie",
+        "Il a dirigé l'opposition polythéiste à La Mecque."
+      ],
+      "answer": "A refusé de s'incliner devant Adam"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Paradis (Jannah)",
+        "Le palais du pharaon en Égypte",
+        "La vallée sacrée de Tuwa",
+        "Les profondeurs de la mer",
+        "Le jardin de Saba"
+      ],
+      "answer": "Paradis (Jannah)"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Un sursis leur est accordé jusqu'au Jour du Jugement.",
+        "Noyés avec l'armée dans la mer",
+        "Engloutis par la terre avec leurs trésors",
+        "Transformés en singes pour avoir violé le sabbat",
+        "Brûlé par des pierres lancées du ciel"
+      ],
+      "answer": "Un sursis leur est accordé jusqu'au Jour du Jugement."
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

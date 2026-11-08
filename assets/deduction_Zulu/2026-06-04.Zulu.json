@@ -1,0 +1,61 @@
+{
+  "title": "Isibonakaliso Phakathi Kwamatshe",
+  "intro": "Ezweni lapho izintaba zaziqoshwe khona zibe yizindlu, kwafika isithunywa nesibonakaliso esimangalisayo esivela ku-Allah. Abantu bafuna ubufakazi, futhi bathola isidalwa esivela edwaleni eliqinile. Kodwa ukuzikhukhumeza kwabo kwabaholela ekubeni bangalaleli isixwayiso, kwavala isiphetho sabo.",
+  "clues": [
+    "Ngathunyelwa kubantu ababehlala ezindaweni zokuhlala eziqoshwe ezintabeni.",
+    "Bangiphonsela inselelo yokuthi ngilethe isibonakaliso, ngakho ngaveza ikamela edwaleni.",
+    "Ngabayala ukuba bavumele ikamela liphuze ngokukhululeka futhi bangalilimazi.",
+    "Abalalelanga futhi banquma ikamela imisipha, bephula isixwayiso sami.",
+    "Ngamemezela ukuthi isijeziso sizofika ngemva kwezinsuku ezintathu.",
+    "Ekuseni, ukuqhuma okukhulu kwababhubhisa, kodwa mina nabalandeli bami sasinda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uSalih",
+        "Umprofethi uHud",
+        "Umprofethi uLut",
+        "Umprofethi uShu'ayb",
+        "Umprofethi u-Ibrahim"
+      ],
+      "answer": "Umprofethi uSalih"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Isidingo sekamela eliyinsikazi elivela edwaleni",
+        "Isidingo sethole legolide",
+        "Isidingo setafula sisakazeke sivela ezulwini",
+        "Isidingo sesikhukhula",
+        "Isidingo senduku ukuze ibe yinyoka"
+      ],
+      "answer": "Isidingo sekamela eliyinsikazi elivela edwaleni"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ikamela lensikazi nethole lalo",
+        "Umkhumbi KaNowa",
+        "Intonga kaMose",
+        "Ithole Legolide",
+        "Umlilo ka-Ibrahim"
+      ],
+      "answer": "Ikamela lensikazi nethole lalo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kubhujiswe ukuqhuma okukhulu",
+        "Ngicwile kuzamcolo",
+        "Kugwinywe umhlaba",
+        "Yaphenduka izinkawu",
+        "Kubhujiswe umoya onamandla"
+      ],
+      "answer": "Kubhujiswe ukuqhuma okukhulu"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

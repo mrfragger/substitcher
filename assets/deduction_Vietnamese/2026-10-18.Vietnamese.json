@@ -1,0 +1,61 @@
+{
+  "title": "Tin Mừng Khi Tuổi Già",
+  "intro": "Bạn đang chứng kiến ​​một khoảnh khắc mà niềm hy vọng được nhen nhóm trở lại. Một cặp vợ chồng, đã qua tuổi làm cha mẹ từ lâu, nhận được một lời hứa vượt ngoài quy luật tự nhiên. Giữa họ là một nhân vật mà sự tồn tại của người đó là dấu hiệu của lòng thương xót thiêng liêng – một linh hồn được định sẵn để trở thành nhà tiên tri, mang trong mình một di sản sẽ trường tồn qua nhiều thế hệ. Cá nhân phi thường này là ai?",
+  "clues": [
+    "Tôi sinh ra trong một gia đình có cha mẹ đã già và không có con.",
+    "Sự ra đời của tôi đã được các thiên thần, những vị khách đến thăm gia đình tôi, báo tin.",
+    "Tôi được ban cho trí tuệ và khả năng tiên tri, và tên tôi được nhắc đến trong số những người bệnh.",
+    "Cha tôi được gọi là bạn của Allah, và tôi là món quà ông nhận được trong những năm cuối đời.",
+    "Tôi có một người anh trai cũng là một nhà tiên tri, và cả hai chúng tôi đều được Chúa ban phước.",
+    "Con trai tôi cũng là một nhà tiên tri, và con cháu tôi được trao truyền lại kinh sách và sứ mệnh tiên tri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Ishaq (Isaac)",
+        "Tiên tri Ismail (Ishmael)",
+        "Tiên tri Yaqub (Gia-cốp)",
+        "Tiên tri Yahya (John)",
+        "Tiên tri Uzair (Ezra)"
+      ],
+      "answer": "Tiên tri Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Sinh ra trong một gia đình có bố mẹ lớn tuổi.",
+        "Bị ném vào lửa",
+        "Được ban tặng một vương quốc và của cải.",
+        "Dẫn dắt dân tộc mình ra khỏi Ai Cập.",
+        "Đóng một con thuyền để cứu những người tin Chúa"
+      ],
+      "answer": "Sinh ra trong một gia đình có bố mẹ lớn tuổi."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Tin vui về một đứa con trai",
+        "Bụi cây bốc cháy",
+        "Con bê vàng",
+        "Hòm giao ước",
+        "Cây gậy của sứ mệnh tiên tri"
+      ],
+      "answer": "Tin vui về một đứa con trai"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Trở thành một nhà tiên tri với dòng dõi các nhà tiên tri.",
+        "Trở thành một vị vua giàu có",
+        "Dân tộc ông đã bị tiêu diệt vì tội bất tín.",
+        "Anh ấy đã được cứu thoát khỏi đám cháy.",
+        "Ông ấy có khả năng nói từ khi còn nhỏ."
+      ],
+      "answer": "Trở thành một nhà tiên tri với dòng dõi các nhà tiên tri."
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Molimo ya Nil oyo enyokwamaki",
+  "intro": "Na eleko ya minyoko monene, ntango mokonzi moko ya bokonzi ayangelaki mokili na motema mabe mpenza, molimo moko eponaki nzela ya kondima na esika ya libɔndisi ya bokonzi. Moto oyo afandaki na motema ya nguya nzokande azwaki bosolo na nsango ya profeta moko ya komikitisa. Mobembo na bango ekokoma liteya oyo ezanga ntango na motema molai, komipesa, mpe endimiseli oyo etɛngamá te. Okoki koyeba moto wana ya kokamwa oyo azalaki kolinga bisengo ya Nzambe koleka lokumu ya mokili?",
+  "clues": [
+    "Nafandaki na ndako ya mokonzi ya nguya monene, nzokande motema na ngai ezwaki bosolo na nsango moko ya komikitisa.",
+    "Naponaki kolanda litambwisi ya Musa, koyebaka mbano oyo nakokutana na yango.",
+    "Nabalanaki na mobulu oyo aleki nguya na ntango na ngai, nzokande naboyaki banzambe na ye ya lokuta.",
+    "Mpasi na ngai ezalaki makasi, lokola nazwaki etumbu mpo na kondima na ngai epai na Nzambe Moko.",
+    "Nazalaki kotɛngatɛnga ata mokolo moko te na kondima na ngai, ata ntango nakutanaki na minyoko ya makasi koleka.",
+    "Nkolo na ngai asepelaki na motema molai na ngai mpe aponaki ngai mpo na esika ya lokumu na Paradis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Maman ya Prophète Musa",
+        "Mwasi ya Farao",
+        "Ndeko mwasi ya Prophète Musa",
+        "Mokonzi-mwasi moko ya Ezipito ya kala",
+        "Mosaleli ya Bayisraele"
+      ],
+      "answer": "Mwasi ya Farao"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kobunda na likambo ya Allah na mampinga",
+        "Kokutana na Farao mpe kosakola kondima",
+        "Kotonga bisika ya losambo na Ezipito",
+        "Kosala mobembo na ngambo mosusu ya mbu elongo na Musa",
+        "Kozwa bobimisi epai ya Allah"
+      ],
+      "answer": "Kokutana na Farao mpe kosakola kondima"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Esobe ya Midian",
+        "Ndako ya mokonzi ya Ezipito",
+        "Mabongo ya Ebale Nile",
+        "Ngomba ya Sinai",
+        "Mokili ya Kanana"
+      ],
+      "answer": "Ndako ya mokonzi ya Ezipito"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki mosakoli nsima ya bambula mingi",
+        "Abimisaki Bayisraele na Ezipito",
+        "Bapesaki ye bokonzi likoló na Ezipito",
+        "Azalaki martyré mpe akumisamaki na Allah",
+        "Azalaki na bomoi tii ntango akómaki mobange na libɔndisi"
+      ],
+      "answer": "Azalaki martyré mpe akumisamaki na Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

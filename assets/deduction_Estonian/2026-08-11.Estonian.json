@@ -1,0 +1,61 @@
+{
+  "title": "Emaka lubadus",
+  "intro": "Jumalikule pühendatud südame vaiksetes kambrites sündis püha tõotus. See tõotus keskendus veel hinge tõmbamata elule ja selle täitumine muutis igaveseks vaimse pärandi kulgu. Astu hinge müsteeriumisse, kelle lubadus kajab läbi igaviku.",
+  "clues": [
+    "Ma elasin majapidamises, mis oli tuntud oma vagaduse poolest, ja igatsesin kingitust, mis tooks mind Allahile lähemale.",
+    "Ma tegin oma Issandaga pühaliku lepingu selle kohta, mis minus peidus oli, vandudes, et pühendan selle täielikult Tema teenimisele.",
+    "Kui paljastumise hetk kätte jõudis, oli see, mida ma sain, ootamatu, aga ma usaldasin asja Kõikteadja hoolde.",
+    "Panin oma lapsele pühendumust sümboliseeriva nime ja anusin kaitset temale ja ta järeltulijatele neetud eest.",
+    "Mu laps pandi pühasse pühamusse Aaroni soost pärit prohveti eestkoste alla.",
+    "Mu tütar sai tuntuks oma puhtuse poolest ja valiti kõigist naistest kõrgemale, olles hiljem suure prohveti ema, kuigi ta jäi puutumata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Imrani naine",
+        "Musa ema",
+        "Vaarao naine",
+        "Al-Azizi naine",
+        "Isa ema"
+      ],
+      "answer": "Imrani naine"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Tõotus pühendada oma sündimata laps templile",
+        "Kannatlikkuse proovilepanek pika haiguse ajal",
+        "Teekond kaugele maale usu nimel",
+        "Vastasseis türannkuningaga",
+        "Imeline toiduandmine taevast"
+      ],
+      "answer": "Tõotus pühendada oma sündimata laps templile"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laps nimega Maryam",
+        "Personal, mis muutus maoks",
+        "Kuldvasikas",
+        "Zamzami kaev",
+        "Noa laev"
+      ],
+      "answer": "Laps nimega Maryam"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Tema laps võeti Allahi poolt vastu ja kasvas üles prohvetliku hoole all",
+        "Tema lapsest sai prohvet ja ta sai pühakirjakoha",
+        "Tema laps tõusis taevasse",
+        "Tema laps ehitas püha maja",
+        "Tema lapsele anti tohutu tarkus ja rikkus"
+      ],
+      "answer": "Tema laps võeti Allahi poolt vastu ja kasvas üles prohvetliku hoole all"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Strażnik nad brzegiem rzeki",
+  "intro": "W krainie, gdzie dekret tyrana przyniósł smutek wielu domom, pewna dusza otrzymała wiadomość, która przeczyła wszelkiemu strachowi. Z sercem przepełnionym ufnością, podjęli akt wiary, który miał odmienić losy narodu. Gdy wody niosły cenny ładunek, nadzieja mieszała się z prądami.",
+  "clues": [
+    "Żyłem w czasach ucisku i strachu.",
+    "Otrzymałem boską inspirację, która dodała mi odwagi.",
+    "Nakazano mi się nie bać i nie smucić.",
+    "Umieściłem dziecko w skrzyni i postawiłem ją na wodzie.",
+    "Moje dziecko zostało odnalezione przez rodzinę władcy, ale drugie dziecko poszło w jego ślady.",
+    "Ponownie spotkałam się z moim dzieckiem, aby je nakarmić piersią, tak jak obiecał Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Matka Mojżesza",
+        "Żona Faraona",
+        "Siostra Mojżesza",
+        "Matka Jezusa",
+        "Królowa Saby"
+      ],
+      "answer": "Matka Mojżesza"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Zainspirowany, by wrzucić dziecko do rzeki",
+        "Wyzwanie na pojedynek magiczny",
+        "Być ściganym przez armię",
+        "Przekroczenie rozstępującego się morza",
+        "Budowanie świętego domu"
+      ],
+      "answer": "Zainspirowany, by wrzucić dziecko do rzeki"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Skrzynia umieszczona w rzece",
+        "Płonący krzew",
+        "Laska, która zamieniła się w węża",
+        "Złoty cielec",
+        "Tron"
+      ],
+      "answer": "Skrzynia umieszczona w rzece"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Dziecko zostało bezpiecznie zwrócone pielęgniarce",
+        "Dziecko zostało utracone na zawsze",
+        "Dziecko zabrano do dalekiej krainy",
+        "Dziecko natychmiast stało się władcą",
+        "Dziecko zostało adoptowane przez bogatego kupca"
+      ],
+      "answer": "Dziecko zostało bezpiecznie zwrócone pielęgniarce"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

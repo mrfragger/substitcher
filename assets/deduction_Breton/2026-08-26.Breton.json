@@ -1,0 +1,61 @@
+{
+  "title": "An envidigezh a lonkas",
+  "intro": "Ur gontadenn koshoc'h eget rouantelezh pe skritur ebet — an drajedienn denel kentañ ganet diwar ar warizi. Un ene, an hini henañ eus daou vugel ganet gant ar gerent kentañ, a sellas gant fulor ouzh ur breur yaouankoc'h o resev ur skoazell a voe nac'het. Ar pezh a zeuas war-lerc'h a oa an dibab teñvalañ, o lezel war e lerc'h ar gwad kentañ bet skuilhet war an douar. Ha gallout a rit dizoleiñ an identelezh, ar prosez hag ar glac'har c'hwerv ?",
+  "clues": [
+    "Ganet on eus ar c'houblad tud kentañ o kerzhout war an douar.",
+    "Ur wech em eus graet ur prof da Allah, met ne oa ket bet degemeret ganin.",
+    "Degemeret e oa bet kinnig ma c'hoar, tra ma oa bet nac'het ma hini — un dra na c'hellen ket gouzañv.",
+    "Meneget em eus ma breur e-unan gant an distruj.",
+    "Deuet on da vezañ an hini kentañ o lazhañ war an douar-mañ, o kemer buhez ma c'hoar.",
+    "Kaset en deus Allah ur c'hrouadur eus an douar — un evn du o toullañ an douar — evit deskiñ din penaos kuzhat ar pezh am boa graet, ha ne chomas nemet keuz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Ar profed Yaqub",
+        "Ar profed Musa",
+        "Ar profed Adam"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Kinnig nac'het gant Allah",
+        "Taolet en un tan bras",
+        "Dilezet evel babig en ur stêr",
+        "Amprouet gant ur rouantelezh divent",
+        "Gourc'hemennet da aberzhiñ e vab"
+      ],
+      "answer": "Kinnig nac'het gant Allah"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar vran kaset gant Allah",
+        "Al leue aour",
+        "An arc'h war ar menez",
+        "Ar vodenn o teviñ",
+        "Ar c'hañvalez kizellet diwar ar roc'h"
+      ],
+      "answer": "Ar vran kaset gant Allah"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Deuet da vezañ leun a glemmoù hag e-touez ar re gollet",
+        "Lonket en douar gant teñzorioù",
+        "Deuet eo da vezañ kannad nobl Allah",
+        "Antreet er baradoz dre drugarez doueel",
+        "Renet war ur rouantelezh hep par"
+      ],
+      "answer": "Deuet da vezañ leun a glemmoù hag e-touez ar re gollet"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

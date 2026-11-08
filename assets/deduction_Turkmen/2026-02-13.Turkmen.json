@@ -1,0 +1,61 @@
+{
+  "title": "Hökümdaryň Beýik Boýun ...",
+  "intro": "Siz özüňizi gadymy täsinlikleriň we çuňňur açyşlaryň ýurdunda tapýarsyňyz. Garaşylmadyk çakylyk bilen ýüzbe-ýüz bolan güýçli hökümdar öz ykbalynyň ugruny we halkynyň ynanjyny üýtgedjek syýahata çykýar. Bu ajaýyp şahsyýetiň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Men ägirt uly baýlyk we ajaýyp tagt bilen bezelen gülläp ösýän patyşalygyň hökümdarydym.",
+    "Men we meniň halkym asman jisimine sežde edýärdik, ony biziň hökümdarymyz hasaplaýardyk, emma ýüregimde şübhe saklaýardyk.",
+    "Gaty bir habarçy, guş, maňa hat getirdi we meni we halkymy Ýeke-täk Hudaýa boýun bolmaga çagyrdy.",
+    "Men bu deňsiz-taýsyz habara nähili jogap bermelidigi barada güýçli geňeşçilerim bilen maslahatlaşdym.",
+    "Men haty iberen adamyň güýjüni we niýetlerini ölçäp görmek üçin oňa gymmatly sowgat ibermegi makul bildim.",
+    "Men gelenimde, aýnadan ýasalan, suw howdanyna meňzeýän polly köşk meni haýran galdyrdy we şonda men ähli ýaradylanlaryň Rebbine boýun bolýandygymy yglan etdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Fyrown",
+        "Şebanyň şa aýaly",
+        "Zül-karneýn",
+        "Lukman",
+        "Ýusup pygamber"
+      ],
+      "answer": "Şebanyň şa aýaly"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Deňziň bölünmegi",
+        "Beýik sil",
+        "Süleýman pygamber bilen duşuşmak üçin syýahat",
+        "Lut kowmynyň ýok edilmegi",
+        "Ybraýym pygamberiň ýakylmagy"
+      ],
+      "answer": "Süleýman pygamber bilen duşuşmak üçin syýahat"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Sandyk",
+        "Işgärler",
+        "Tagt",
+        "Dag",
+        "Ot"
+      ],
+      "answer": "Tagt"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Pygamber boldy",
+        "Alla tarapyndan ýok edildi",
+        "Yslamy kabul etdi",
+        "Öz halkyny urşa alyp gitdi",
+        "Beýik ybadathana gurdy"
+      ],
+      "answer": "Yslamy kabul etdi"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

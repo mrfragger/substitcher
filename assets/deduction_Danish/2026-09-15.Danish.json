@@ -1,0 +1,61 @@
+{
+  "title": "Gæstfriheden, der bragte frygt",
+  "intro": "I en by opslugt af ondskab modtog en trofast tjener en dag uventede besøg. Bekymret for deres sikkerhed tilbød denne person beskyttelse, men byens indbyggere krævede noget skamfuldt. Advaret om en forestående undergang flygtede tjeneren med familien i ly af mørket og efterlod en by, der var mærket til ødelæggelse. Hvem er denne ensomme troende?",
+  "clues": [
+    "Jeg blev sendt som budbringer til et folk, der havde begået skamfulde handlinger.",
+    "Uventede gæster kom til mit hjem, og jeg var mere bekymret for deres sikkerhed end for min egen.",
+    "Mit folk krævede at se mine gæster med onde hensigter, og jeg forsøgte at tale til dem om fornuft.",
+    "Mine besøgende åbenbarede sig som engle og befalede mig at tage min familie med og forlade stedet om natten.",
+    "Min kone lyttede ikke til kaldet om at flygte og stod over for den samme ødelæggelse som mit folk.",
+    "Min by blev væltet omkuld af en regn af sten af ​​lagdelt ler, dens højeste dele bragt lavest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Lut",
+        "Profeten Musa",
+        "Profeten Ibrahim",
+        "Profeten Nuh",
+        "Profeten Hud"
+      ],
+      "answer": "Profeten Lut"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Mit folks krav om at henvende sig ondskabsfuldt til mine gæster",
+        "Havets deling for at undslippe en tyran",
+        "Byggeriet af en stor ark midt i spot",
+        "Min søns offer i en trosprøve",
+        "Oplevelsen af ​​at blive slugt af en stor fisk"
+      ],
+      "answer": "Mit folks krav om at henvende sig ondskabsfuldt til mine gæster"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Mit folks omstyrtede by",
+        "Bjerget hvor jeg modtog guddommelig tale",
+        "Arken, der sejlede gennem en stor oversvømmelse",
+        "Hunkamelen, der kom op af klippen",
+        "Haven med en skjult retfærdig gæst"
+      ],
+      "answer": "Mit folks omstyrtede by"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Jeg blev reddet sammen med min familie, før min by blev omstyrtet",
+        "Jeg førte mit folk til frihed over havet",
+        "Jeg byggede en stor ark og overlevede en voldsom oversvømmelse",
+        "Jeg fik herredømme over vindene og djinnerne",
+        "Jeg udholdt tålmodigt lidelse og blev belønnet med familie"
+      ],
+      "answer": "Jeg blev reddet sammen med min familie, før min by blev omstyrtet"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

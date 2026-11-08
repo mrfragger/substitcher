@@ -1,0 +1,61 @@
+{
+  "title": "Te Waiata i Neke ai ngā Maunga",
+  "intro": "Kei te tata koe ki te hura i te kōrero mō tētahi pononga whakamiharo a Allah. I te whenua o ngā karere me ngā rangatira, i manaakitia tēnei tangata ki tētahi pukapuka atua, he reo kaha, ā, he kaha ake i te rino. I a koe e pānui ana i ngā tohu, ka taea e koe te tautuhi ko wai tēnei?",
+  "clues": [
+    "He pononga ahau nā Allah i homai he pukapuka motuhake ki ahau.",
+    "He reo ataahua tōku, ā, i tino arohaina ahau e te whakamoemiti, ā, i aru mai ngā pukepuke me ngā manu ki ahau.",
+    "I tūtaki ahau ki tētahi hoa whawhai kaha rawa i roto i tētahi pakanga rongonui, ā, ahakoa he iti ahau, i toa ahau.",
+    "I hangaia te rino kia ngāwari mōku, kia taea ai e au te hanga pukupuku ki ōku ake ringaringa.",
+    "I meinga ahau hei rangatira mō tētahi iwi nui, ā, i rongonuitia tōku whakaaro nui ki te whakarite.",
+    "Ko taku tama, he poropiti anō hoki, i tukuna ki a ia te mana whakahaere i te hau me ngā jinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Rawiri (David)",
+        "Poropiti a Sulaimana (Hōromona)",
+        "Poropiti a Mohi (Mōhi)",
+        "Poropiti a Haruna (Arona)",
+        "Poropiti a Iraia (Iraia)"
+      ],
+      "answer": "Poropiti a Rawiri (David)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I hinga a Koriata (Jalut)",
+        "I wehea te moana",
+        "I ora i te tohorā",
+        "I maka ki roto i te ahi",
+        "I hanga te Āraka"
+      ],
+      "answer": "I hinga a Koriata (Jalut)"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā Waiata (Zabur)",
+        "Te Torah (Tawrat)",
+        "Te Rongopai (Injil)",
+        "Ngā Pukapuka a Ibrahim",
+        "Te Qur'an"
+      ],
+      "answer": "Ngā Waiata (Zabur)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I riro hei poropiti, hei kingi hoki mō Iharaira",
+        "I riro hei rangatira mō Īhipa",
+        "I whakaarahia ki te rangi",
+        "I whakangaromia e te tupuhi",
+        "I noho hei hoa mō te ana"
+      ],
+      "answer": "I riro hei poropiti, hei kingi hoki mō Iharaira"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

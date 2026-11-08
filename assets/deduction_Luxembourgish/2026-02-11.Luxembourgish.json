@@ -1,0 +1,60 @@
+{
+  "title": "D'Laascht vum Räichtum",
+  "intro": "Dir stinn virun enger Geschicht vun engem immense Räichtum, engem Liewen, dat mat Gold a Muecht geschmückt ass, awer letztendlich eng warnend Lektioun fir all déi, déi weltlëch Gréisst sichen. Kënnt Dir d'Identitéit vun dëser Figur entfalen, där hir Geschicht duerch d'Zäit widerhallt, en Zeie vun der flüchteger Natur vu weltlëche Besëtzer?",
+  "clues": [
+    "Ech war aus dem Vollek vun engem grousse Prophet, awer ech hunn e Wee vun Arroganz an Ënnerdréckung gewielt.",
+    "Allah huet mir en immense Räichtum geschenkt, sou vill, datt d'Schlësselen zu menge Schätz eng schwéier Laascht fir eng staark Grupp vu Männer waren.",
+    "Mäi Vollek huet mir geroden, mech net iwwer mäi Räichtum ze freeën, a mech drun erënnert, datt Allah déi Freedvoll net gär huet.",
+    "Ech hunn arrogant behaapt, datt mäi grousst Verméige mengem eegenen Wëssen an Ustrengungen ze verdanken wier, net engem Segen vun Allah.",
+    "Ech gouf viru Korruptioun gewarnt an drun erënnert, d'Joer duerno mat deem ze sichen, wat Allah mir ginn hat, awer ech hunn refuséiert ze lauschteren a sinn a mengem Stolz weidergaangen.",
+    "Schlussendlech huet Allah mech a meng Wunneng verschléckt, sou datt ech keng Hëllefer méi hat, géint säin Uerder."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Pharao",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Spaltung vum Mier",
+        "D'Feier vum Nimrod",
+        "D'Iwwerschwemmung",
+        "D'Verschlécken vun der Äerd",
+        "D'Pescht vun de Heeschrecken"
+      ],
+      "answer": "D'Verschlécken vun der Äerd"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Ark",
+        "D'Personal",
+        "Dat gëllent Kalb",
+        "D'Schätz/Schlësselen",
+        "De Brunn vum Zamzam"
+      ],
+      "answer": "D'Schätz/Schlësselen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Kinnekräich zougestanen",
+        "Vum Zerstéierung gerett",
+        "Vun der Äerd verschléckt",
+        "Ass e Prophet ginn",
+        "Friddlech gestuerwen"
+      ],
+      "answer": "Vun der Äerd verschléckt"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

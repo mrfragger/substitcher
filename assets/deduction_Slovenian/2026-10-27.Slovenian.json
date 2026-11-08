@@ -1,0 +1,61 @@
+{
+  "title": "Obleganje pod nenadnim nebom",
+  "intro": "Stojiš pred mogočno vojsko, ki se bliža častitljivemu svetišču, z vsem orožjem pripravljenim in zmago, ki se zdi gotova. Preden se napad lahko začne, se nad glavo pojavi nepričakovana sila in boj se obrne v smer, ki je nihče ni predvidel.",
+  "clues": [
+    "Korakali smo z zaupanjem, ki ga nobena zemeljska sila ni mogla omajati.",
+    "Pripeljali smo mogočne slone in zdelo se je, da je naša sila zgrajena okoli njih.",
+    "Prišli smo porušit cenjeno svetišče, saj smo verjeli, da je naša zmaga že zagotovljena.",
+    "Ko smo prispeli, je nad nami po nebu drvela jata.",
+    "Ptice so metale kamenje strjene gline na naše bojevnike.",
+    "Bili smo tako popolnoma poraženi, da se je naša mogočna sila zdrobila in raztresla kot pepel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje slona",
+        "Dva princa",
+        "Jožefovi bratje",
+        "Alahov služabnik v Zul-Kiflu",
+        "Spremljevalci pravičnega moža"
+      ],
+      "answer": "Ljudje slona"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Napad slonov na Kaabo",
+        "Morje se ločuje pred oddano skupino",
+        "Zaseg Skrinje s strani tiranskega ljudstva",
+        "Nočno potovanje med dvema mošejama",
+        "Ozdravitev gobavca z božjo močjo"
+      ],
+      "answer": "Napad slonov na Kaabo"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ptice, ki nosijo glinene kroglice",
+        "Skrinja iz goferjevega lesa",
+        "Palica se je spremenila v kačo",
+        "Kamen, zapečaten z znakom",
+        "Goreči grm"
+      ],
+      "answer": "Ptice, ki nosijo glinene kroglice"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Njihova mogočna sila se je zdrobila kot pepel",
+        "Varno so prečkali morje",
+        "Nepoškodovani so šli skozi gorečo peč",
+        "V raj so vstopili v parih",
+        "Spali so v jami 309 let"
+      ],
+      "answer": "Njihova mogočna sila se je zdrobila kot pepel"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

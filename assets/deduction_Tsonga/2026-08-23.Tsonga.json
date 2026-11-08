@@ -1,0 +1,61 @@
+{
+  "title": "Ntshungu Lowu Nyamalala",
+  "intro": "U yima emahlweni ka swichayachayana swa vaaki lava xitori xa vona xi tsariweke hi magandlati. Mimoya-xiviri leyi yi twe xirhambo, yi hlawula ku kaneta, naswona yi langutane ni vuyelo lebyi vumbeke misava hi vuntshwa. I vamani, naswona ku humelele yini hi misava ya vona?",
+  "clues": [
+    "Hi hanye khale swinene, kutani murhumiwa u tile eka hina a huma exikarhi ka hina.",
+    "A hi gandzela swifaniso swa ntlhanu hi tlhela hi ala ku swi tshika.",
+    "Hi hlekile murhumiwa loyi hi tlhela hi n’wi hehla hi ku va a hambukile.",
+    "Hi lave leswaku a tisa nxupulo loko a vula ntiyiso.",
+    "Hi vone matilo ma chulula mpfula naswona misava yi khuluka swihlovo.",
+    "Hi khandziye hi ya etindhawini leti tlakukeke leswaku hi baleka, kambe magandlati ma hi tlulerile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Vanhu va le Nuh",
+        "Vanhu va 'Ad",
+        "Vanhu va le Thamud",
+        "Vanhu va Lut",
+        "Vanhu va le Madyan"
+      ],
+      "answer": "Vanhu va le Nuh"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Hi nwile hi ndhambi leyikulu",
+        "Hi lovisiwe hi xidzedze",
+        "Hi dlayiwile hi ku buluka lokukulu",
+        "Hi mitiwe hi misava",
+        "Hi biwile hi maribye lama humaka empfhukeni"
+      ],
+      "answer": "Hi nwile hi ndhambi leyikulu"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ndhambi leyikulu",
+        "Moya wa matimba",
+        "Ku khuluka ka maribye",
+        "Ku buluka ka ndzilo",
+        "Ku tsekatseka ka misava"
+      ],
+      "answer": "Ndhambi leyikulu"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Hinkwerhu hi lovile handle ka vapfumeri lava nga na Nuh",
+        "Hi hundzuriwile hi va tindlopfu",
+        "Hi sale hi ri marhumbi ya vafambi",
+        "Hi hundzuriwile hi va munyu",
+        "Hi nyikiwe nkarhi wo wisa"
+      ],
+      "answer": "Hinkwerhu hi lovile handle ka vapfumeri lava nga na Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

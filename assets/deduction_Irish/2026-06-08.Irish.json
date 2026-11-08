@@ -1,0 +1,61 @@
+{
+  "title": "Iarrthóir an Tearmainn",
+  "intro": "I gciúineas na hoíche, ghlaoigh anam dílis ar an Trócaire is Trócaireaí laistigh de bhallaí naofa áit naofa. Bhí blianta de chreideamh agus foighne gan staonadh ar tí a bheith luach saothair le míorúilt a thabharfadh áthas agus oidhreacht fáidheachta.",
+  "clues": [
+    "Chaith mé mo laethanta agus mo oícheanta i ndiadhacht i naomh-eaglais, ag achainí i gcónaí chuig mo Thiarna.",
+    "D’éirigh mé sean, agus bhí mo bhean neamhthorrach, ach níor chaill mé dóchas riamh i dtrócaire Allah.",
+    "Bronnadh mac dom, darb ainm Yahya, a tháinig chun bheith ina fháidh agus ina sholas na fíréantachta.",
+    "Bhí mé i mo fháidh mé féin, a cuireadh chun treoir a thabhairt do Chlann Iosrael.",
+    "Ba shliocht de chuid an Fháidh Harun mé agus d'fhóin mé mar shagart sa Teampall.",
+    "Cuireadh cúram Mhuiream, máthair Íosa, orm agus chonaic mé a míorúiltí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Zakariyya",
+        "An Fáidh Yahya",
+        "An Fáidh Ilyas",
+        "Fáidh Ishaq",
+        "An Fáidh Ya'qub"
+      ],
+      "answer": "Fáidh Zakariyya"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Bhronn mac air i seanaois",
+        "Sábháilte ó thine lasrach",
+        "Tarrtháladh ó bholg éisc",
+        "Mhair tuile mhór",
+        "Leigheasaithe ó ghalar trom"
+      ],
+      "answer": "Bhronn mac air i seanaois"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Mihrab (níseán paidir)",
+        "An Kaaba",
+        "An Tor Dóite",
+        "Áirc an Chonartha",
+        "Uaimh na Seachtar Codladh"
+      ],
+      "answer": "An Mihrab (níseán paidir)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bronnadh mac fíréanta air a tháinig chun bheith ina fháidh",
+        "Scriosta ag stoirm fhoréigneach",
+        "Báite sa bhfarraige",
+        "Sábháilte ó bheith dóite",
+        "D’fhill siad ar a muintir tar éis iad a shábháil ó iasc"
+      ],
+      "answer": "Bronnadh mac fíréanta air a tháinig chun bheith ina fháidh"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

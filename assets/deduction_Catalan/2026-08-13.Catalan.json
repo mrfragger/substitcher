@@ -1,0 +1,61 @@
+{
+  "title": "L'ànima pacient de la Casa Sagrada",
+  "intro": "A les pàgines de l'Alcorà, una figura emergeix del llinatge d'un gran profeta, concedit com a regal a la vellesa. Aquesta ànima és celebrada per la seva sinceritat inquebrantable i el seu paper profund en l'establiment d'un santuari que es convertiria en un far de fe. Mentre llegiu les pistes, escolteu atentament la veu del passat, ja que parla en primera persona.",
+  "clues": [
+    "Sóc esmentat a l'Alcorà juntament amb un altre profeta com a regal concedit a un missatger ancià.",
+    "Jo vaig ser un dels dos fills que va rebre aquell profeta en els seus últims anys.",
+    "A l'Alcorà em lloen per ser fidel a la meva paraula.",
+    "Vaig portar l'honor de la profecia i vaig ser enviat com a missatger.",
+    "Em vaig unir al meu pare en l'aixecament dels fonaments de la Casa Sagrada.",
+    "Em recorden com una de les pacients, i la casa sagrada que vam construir es va convertir en un lloc de retorn i seguretat per a la gent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Ismaïl",
+        "Profeta Ishaq",
+        "Profeta Yaqub",
+        "Profeta Zacaries",
+        "Profeta Yahya"
+      ],
+      "answer": "Profeta Ismaïl"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Aixecant els fonaments de la Kaaba amb Ibrahim",
+        "Ser llançat al foc",
+        "Ser engolit per una balena",
+        "Guiant els israelites fora d'Egipte",
+        "Construint una arca"
+      ],
+      "answer": "Aixecant els fonaments de la Kaaba amb Ibrahim"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Kaaba",
+        "Mont Sinaí",
+        "El Mar Roig",
+        "El vedell d'or",
+        "El Jardí de l'Edèn"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Comptat entre els pacients",
+        "Comptat entre els malfactors",
+        "Comptat entre els mags",
+        "Comptat entre els incrèduls",
+        "Comptat entre els hipòcrites"
+      ],
+      "answer": "Comptat entre els pacients"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Moles quae regnum fregit",
+  "intro": "Terra fluminum fluentium, duorum hortorum viridium, et prosperitatis incomparabilis — sed incolae eius neglexerunt Eum qui eos benedixit. Cum admonitiones eos revocarent, se averterunt. Quod secutum est fuit poena quae adhuc resonat ut monitio. Quis erat haec antiqua communitas?",
+  "clues": [
+    "In terra tam benedicta habitavimus ut domus nostra inter duos hortos virides iaceret.",
+    "Flumina per terras nostras fluentia et messibus uberibus domos nostras complentibus fructi sumus.",
+    "Attamen cum ad gratiam et oboedientiam Domino nostro vocati sumus, superbi avertimus.",
+    "Divitiae nostrae et otium nos oblivisci fecerunt Eius qui omnia concesserat.",
+    "Tum subito torrens venit qui magnum munimentum quo confisi eramus perrupit.",
+    "Nos sumus populus Sabae, cuius terra propter magnum aggerem Ma'rib nota erat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Sabae populus",
+        "Populus Fossae",
+        "Socii Putei",
+        "Populus Tubbae",
+        "Populus Madian"
+      ],
+      "answer": "Sabae populus"
+    },
+    "trial": {
+      "label": "Nostra Ruina",
+      "options": [
+        "Inundatio ex aggere rupto",
+        "Ventus vehemens de caelo",
+        "Ardens in fossa ignis",
+        "Terrae motus ingens",
+        "Submersus in magno diluvio"
+      ],
+      "answer": "Inundatio ex aggere rupto"
+    },
+    "location": {
+      "label": "Locus Clavis",
+      "options": [
+        "Moles Maribensis",
+        "Mons Sinai",
+        "Spelunca Septem Dormientum",
+        "Rubus Ardens",
+        "Scissio Maris"
+      ],
+      "answer": "Moles Maribensis"
+    },
+    "outcome": {
+      "label": "Fatum Nostrum",
+      "options": [
+        "Duo horti amari nostros luxuriantes substituerunt",
+        "Horti nostri etiam uberiores facti sunt",
+        "Terra sub mare mersa est",
+        "In cinere vulcanico sepulti sumus",
+        "Gens nostra in duodecim tribus divisa est"
+      ],
+      "answer": "Duo horti amari nostros luxuriantes substituerunt"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

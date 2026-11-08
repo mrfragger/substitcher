@@ -1,0 +1,61 @@
+{
+  "title": "Nauyin da Ya Kawo Waraka",
+  "intro": "An cire wa rai da aka gwada fiye da kima jin daɗi, abokai, da ƙarfin jiki. Wannan bawan Allah ya kaɗaita cikin tsananin wahala, ya juya ga Allah kawai. Ta hanyar haƙuri mai ƙarfi da addu'a mai zurfi, an sami wata rahama da ta wuce duk abin da ake tsammani. Wanene wannan mutum wanda ibadarsa ta buɗe ƙofar gyarawa?",
+  "clues": [
+    "Ni bawan Allah ne mai son jama'a, ina jin daɗin yalwa, gida mai wadata, da kuma lafiya mai kyau a zamanina.",
+    "Sai wata jarabawa ta faɗo: dukiya ta tafi, ƙaunatattuna suka tafi, kuma jikina ya kamu da mummunan wahala.",
+    "Waɗanda ke kusa da ni ba za su iya jure yanayina ba, sai aka bar ni a keɓe, jikina cike da wahala.",
+    "Na kira Ubangijina, ina shelar cewa Shaidan ya shafe ni da gajiya da azaba.",
+    "Amsar ta zo - umarni na buga ƙasa da ƙafata, kuma daga ciki ruwan sanyi ya fito don warkarwa.",
+    "Ubangijina ya kawar da wahalar gaba ɗaya ya dawo min da iyalina, ya yawaita, a matsayin alamar rahama ga waɗanda ke tunani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Ayyub",
+        "Annabi Musa",
+        "Annabi Yusufu",
+        "Annabi Yunus",
+        "Annabi Ibrahim"
+      ],
+      "answer": "Annabi Ayyub"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Rashin lafiya mai tsanani da asarar duk",
+        "A jefa shi cikin wuta da umarnin azzalumi",
+        "An ɗaure shi a cikin wani rami mai zurfi ta hannun danginsa",
+        "Wani babban kifi ya haɗiye shi a teku",
+        "Yawo a gudun hijira daga ƙasar"
+      ],
+      "answer": "Rashin lafiya mai tsanani da asarar duk"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Sanyiyar maɓuɓɓugar ruwa da ke bulbulowa daga ƙasa",
+        "Wuta mai sanyi da natsuwa",
+        "Jirgin yana kan dutse",
+        "Ma'aikatan da suka raba teku",
+        "Kwandon yana shawagi a kan kogin"
+      ],
+      "answer": "Sanyiyar maɓuɓɓugar ruwa da ke bulbulowa daga ƙasa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Iyali da albarka sun dawo, sun ninka biyu",
+        "Ya tsere daga wutar da ke ci ba tare da ya ji rauni ba",
+        "Ya tashi zuwa ga mafi girman mukami na masarauta",
+        "Ya fito daga cikin babban kifi zuwa aminci",
+        "Ya jagoranci mutane ta cikin teku da ta rabu"
+      ],
+      "answer": "Iyali da albarka sun dawo, sun ninka biyu"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

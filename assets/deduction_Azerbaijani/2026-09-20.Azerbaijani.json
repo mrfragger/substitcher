@@ -1,0 +1,61 @@
+{
+  "title": "Zalımın sarayında örtülü mömin",
+  "intro": "Quranda tanınan ən təkəbbürlü hökmdarın qızılı zinət əşyaları ilə bəzədilmiş salonlarında - İlahi hökmlərə qarşı çıxmağın hər bir hökmü müəyyən etdiyi yerdə - bir ruh imtiyazlılar arasında gəzir, ən təhlükəli sirləri göz qabağında gizlədirdi. Bu şəxs o divarların içərisində o qədər qadağan olunmuş bir iman daşıyırdı ki, onun kəşfi mütləq ölüm demək olardı. Lakin inanc külün altında alov kimi yanırdı və an gələndə həqiqət zalımın sarayının təməlini sarsıdan bir cəsarətlə ucaldı.",
+  "clues": [
+    "Mən dövrümün ən güclü və təkəbbürlü hökmdarının daxili çevrəsində, lüks və nüfuzla əhatə olunmuş vəziyyətdə yaşayırdım.",
+    "Qəddarlıq və zülmlə hökmranlıq edənlərdən həyatım üçün qorxaraq əsl inancımı qəlbimin dərinliyində gizlətdim.",
+    "Xalqım həqiqət qarşısında şübhə edib tərəddüd edəndə, mən onları Rəbbinin elçilərini rədd edən keçmiş ümmətlərin başına gələn faciəli aqibət barədə xəbərdar etmək üçün irəli addım atdım.",
+    "Mən xalqıma öz qohumları tərəfindən alçaldılmış, lakin uzaq bir diyarda böyük nüfuza sahib olmuş sevimli gənc xəyalpərəstin hekayəsini xatırlatdım.",
+    "Mən xalqımı onları yoldan çıxaran hökmdara itaət etməməyə çağırdım, əvəzində onları haqq və hidayət yolunda mənim ardınca getməyə dəvət etdim.",
+    "Zalımın tərəfdarları məni daşqalaq etməklə və ya ölkədən qovmaqla hədələsələr də, mən açıq şəkildə həqiqəti söylədim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Firon ailəsindən olan gizli mömin",
+        "Oğlu Qayıdanda Kor Olaraq Ağlayan Səbirli Patriarx",
+        "Dəri xəstəliyindən sonda sağalmış sadiq bir qul",
+        "Peyğəmbərin gəmiyə minmək dəvətini rədd edən günahkar bir oğul",
+        "Özünü Tanrılıq İddia Edən Amansız Bir Zalım"
+      ],
+      "answer": "Firon ailəsindən olan gizli mömin"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Zalımın sarayında imanı gizlətmək",
+        "İllərdir ağlamaqdan korluq çəkir",
+        "Ailə itkisi və ağır əzablarla sınağa çəkilmək",
+        "Lağ edilərkən möhtəşəm bir gəmi qurmaq",
+        "Böyük bir odun qızmar istisinə dözmək"
+      ],
+      "answer": "Zalımın sarayında imanı gizlətmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Fironun sarayı",
+        "Bir gəminin tikildiyi dağ zirvəsi",
+        "Sina dağının altındakı müqəddəs bir vadi",
+        "İki axan çayı olan möhtəşəm bir bağ",
+        "Yeraltı çayın üstündəki büllur taxt"
+      ],
+      "answer": "Fironun sarayı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Zalımlar məhv olarkən ilahi qoruma",
+        "Onilliklər boyu ayrılıqdan sonra ailəsi ilə yenidən qovuşdu",
+        "Səbir verildi, sağlamlığı bərpa edildi və daha böyük bir ailə yarandı",
+        "Dünyanın qalan hissəsi boğularkən qayıqda xilas oldu",
+        "Allahın əmri ilə alovdan sağ-salamat xilas edildi"
+      ],
+      "answer": "Zalımlar məhv olarkən ilahi qoruma"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

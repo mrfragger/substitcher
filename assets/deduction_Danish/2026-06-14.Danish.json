@@ -1,0 +1,61 @@
+{
+  "title": "Flammen der bar en arv",
+  "intro": "I modstandens annaler står der en skikkelse, hvis navn blev en advarsel til tidens ende. Denne person valgte fjendskab frem for slægtskab, trods frem for underkastelse og stod i opposition til et kald om barmhjertighed. Lyt opmærksomt til ekkoerne af en gammel proklamation, mens vi afdækker identiteten af ​​denne berygtede sjæl.",
+  "clues": [
+    "Jeg blev født ind i den samme klan som Allahs sidste sendebud, men alligevel stod jeg imod dem på alle måder.",
+    "Mit navn bar betydning – et navn, der betyder 'flammens far', et navn, der ville varsle min evige skæbne.",
+    "Jeg udløste skade mod sandhedens bærer, og selv min egen husstand sluttede sig til denne grusomme kampagne.",
+    "Jeg brugte min rigdom og indflydelse til at lukke munden på kaldet til Allah, i den tro at penge kunne slukke det guddommelige lys.",
+    "Allah dedikerede et helt kapitel til mig – et kapitel så kort, at det kan reciteres på få sekunder, men dets vægt forbliver indtil Dommedag.",
+    "Min ledsager i det hinsides går bag mig, bundet af et fiberreb om halsen, bærende på de samme torne, som de plejede at sprede."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definition af konfrontation",
+      "options": [
+        "Leder oppositionen mod profeten i Mekka",
+        "Migrerer til Abessinien for at undslippe forfølgelse",
+        "Byggeriet af Kabaen med profeten Ibrahim",
+        "At acceptere islam på dødslejet",
+        "Smedningen af ​​Hudaybiyyah-traktaten"
+      ],
+      "answer": "Leder oppositionen mod profeten i Mekka"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En kone, der bar torne og brænde",
+        "En stav, der forvandlede sig til en slange",
+        "En ring med Salomons segl",
+        "En guldkalv tilbedt af folket",
+        "En kilde, der sprang vand frem"
+      ],
+      "answer": "En kone, der bar torne og brænde"
+    },
+    "outcome": {
+      "label": "Endelig opgørelse",
+      "options": [
+        "En hel sura åbenbaret, der erklærer total ruin",
+        "Blev leder af det muslimske samfund",
+        "Modtog tilgivelse i dødsøjeblikket",
+        "Byggede en stor moské i Medina",
+        "Blev oprejst blandt de retfærdige"
+      ],
+      "answer": "En hel sura åbenbaret, der erklærer total ruin"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

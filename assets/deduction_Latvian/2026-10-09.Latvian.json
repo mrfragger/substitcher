@@ -1,0 +1,61 @@
+{
+  "title": "Neieklausītais aicinājums augstprātības zemē",
+  "intro": "Jūs stāvat kādreiz dižas civilizācijas drupās, kur varai un lepnumam nebija robežu. Starp viņiem gāja vēstnesis, aicinot uz patiesību, bet viņu sirdis bija nocietinājušās. Brīdinājums palika neievērots, un pašas debesis kļuva par dusmu ieroci. Kas bija šis vēstnesis, un kas notika ar tiem, kas noraidīja aicinājumu?",
+  "clues": [
+    "Es tiku sūtīts pie tautas, kurai nebija līdzvērtīga spēka un kas katrā augstienē uzcēla pieminekli.",
+    "Mana tauta uzskatīja sevi par neuzvaramu un sacīja: “Kas ir spēcīgāks par mums?”",
+    "Es aicināju viņus pielūgt tikai Allāhu, bet viņi mani apsūdzēja muļķībā un melošanā.",
+    "Viņi mani izaicināja izpildīt solīto sodu, ja es būšu patiess.",
+    "Allāhs sūtīja pār viņiem neauglīgu vēju, kas neko nežēloja.",
+    "Es un tie, kas ticēja kopā ar mani, tikām izglābti ar Allāha žēlastību, kamēr neticīgie tika pilnībā iznīcināti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Huds",
+        "Pravietis Salihs",
+        "Pravietis Šuaibs",
+        "Pravietis Lūts",
+        "Pravietis Nuhs"
+      ],
+      "answer": "Pravietis Huds"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Postošs vējš iznīcināja neticīgos",
+        "Lieli plūdi pārņēma neticīgos",
+        "Akmeņu lietusgāze lija",
+        "Skaļš kliedziens pārņēma neticīgos",
+        "Neticīgos skāra zemestrīce"
+      ],
+      "answer": "Postošs vējš iznīcināja neticīgos"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Nežēlīgs vējš",
+        "Koka šķirsts",
+        "Kamielis-mātīte",
+        "Māla akmeņu lietus",
+        "Ugunsgrēks"
+      ],
+      "answer": "Nežēlīgs vējš"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Huds un ticīgie tika izglābti, bet neticīgie tika iznīcināti",
+        "Huds tika paaugstināts augstā amatā",
+        "Hudu nogalināja viņa tauta",
+        "Huda tauta nožēloja grēkus un tika saudzēta",
+        "Huds pameta savu tautu pirms jebkāda soda"
+      ],
+      "answer": "Huds un ticīgie tika izglābti, bet neticīgie tika iznīcināti"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Röddin frá útjaðrinum",
+  "intro": "Þú stendur í borg þar sem þrír sendiboðar eru komnir með skýr merki, en fólkið hæðist að þeim og heldur fast í gamla siði sína. Frá fjarlægasta hluta borgarinnar kemur maður sprettur að mannfjöldanum, andlaus og ákveðin, til að segja sannleikann frammi fyrir höfnun. Hver er þessi sál sem fór öllu í hættu fyrir skilaboð sem ekki voru þeirra eigin?",
+  "clues": [
+    "Ég bjó meðal fólks sem hafði tekið við boðberum með skýrum táknum, en þeir sneru sér undan í hroka.",
+    "Ég kom hlaupandi úr fjarlægustu borgarhlutanum þegar ég heyrði kall sendiboðanna.",
+    "Ég sagði við fólk mitt: „Þjóð mitt, fylgið sendiboðunum. Fylgið þeim sem biðja ykkur ekki um laun, því að þeir eru réttleiddir.“",
+    "Ég var ekki spámaður, en ég trúði á sendiboðana og hvatti fólk mitt til að gera slíkt hið sama.",
+    "Fólkið mitt hæddist að ráðum mínum og sakaði mig um að vera öfgamaður.",
+    "Þegar þeir drápu mig sagði Allah mér að ganga inn í Paradís og ég óskaði þess að fólk mitt gæti þekkt fyrirgefninguna og heiðurinn sem ég hlaut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Maðurinn frá fjarlægasta hluta borgarinnar (Ya-Sin)",
+        "Einn af þremur sendiboðum sem sendir voru til borgarinnar",
+        "Þekktur kaupmaður borgarinnar",
+        "Höfðingi borgarinnar",
+        "Leiðtogi hinna vantrúuðu"
+      ],
+      "answer": "Maðurinn frá fjarlægasta hluta borgarinnar (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Prédikar fyrir fólki sínu að fylgja sendiboðunum",
+        "Að smíða skip til að bjarga trúuðum frá flóði",
+        "Að vera kastað í eld fyrir trú",
+        "Að vera gleypt af hval",
+        "Að fá ríki og visku"
+      ],
+      "answer": "Prédikar fyrir fólki sínu að fylgja sendiboðunum"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Fjarlægasti hluti borgarinnar",
+        "Örkina",
+        "Brunnurinn",
+        "Brennandi runninn",
+        "Hellinn"
+      ],
+      "answer": "Fjarlægasti hluti borgarinnar"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Gekk inn í Paradís og óskaði þess að fólk hans gæti þekkt fyrirgefningu hans",
+        "Drukknaði með fólki sínu fyrir að hafna skilaboðunum",
+        "Fékk kraftaverk úlfaldans",
+        "Varð stjórnandi eftir réttarhöld sín",
+        "Var bjargað af Allah og varð eftir með fólki sínu"
+      ],
+      "answer": "Gekk inn í Paradís og óskaði þess að fólk hans gæti þekkt fyrirgefningu hans"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

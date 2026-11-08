@@ -1,0 +1,61 @@
+{
+  "title": "Chemchemi Chini ya Mchanga",
+  "intro": "Katika kumbukumbu za Quran, mtu mwenye subira kubwa alikabiliwa na jaribu ambalo lingevunja mioyo migumu zaidi. Kila kitu kiliondolewa - utajiri, familia, na afya. Lakini kutoka kwenye kina cha kukata tamaa, sala ya unyenyekevu ilijibiwa kwa njia isiyotarajiwa. Je, unaweza kutambua roho hii ambayo hadithi yake ya urejesho inarudiwa-rudiwa katika vizazi vingi?",
+  "clues": [
+    "Nilijaribiwa kwa jaribio kali sana kiasi kwamba linakumbukwa katika vizazi vyote.",
+    "Nilipoteza kila kitu muhimu - utajiri wangu, watoto wangu, na afya yangu.",
+    "Mwili wangu ulikuwa umejaa vidonda vikali, na nilitengwa na wote.",
+    "Katika kukata tamaa kwangu, nilimwita Mwenyezi Mungu, nikisema kwamba Shetani amenigusa kwa shida na mateso.",
+    "Mwenyezi Mungu alinijibu na akaniamuru nipige ardhi kwa mguu wangu.",
+    "Kutoka mahali hapo, chemchemi ya baridi ilibubujika, na Mwenyezi Mungu akairejesha familia yangu na kuiongeza mara mbili kama rehema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ayyub",
+        "Nabii Musa",
+        "Nabii Ilyas",
+        "Nabii Sulayman",
+        "Nabii Daudi"
+      ],
+      "answer": "Nabii Ayyub"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Ugonjwa mkali na kupoteza familia na utajiri",
+        "Kumezwa na nyangumi mkubwa",
+        "Uhamisho kutoka mji wa Makka",
+        "Kifungo katika kisima kirefu",
+        "Kukabiliana na mtawala mwenye kiburi"
+      ],
+      "answer": "Ugonjwa mkali na kupoteza familia na utajiri"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Chemchemi baridi kutoka ardhini",
+        "Mashua juu ya mafuriko makubwa",
+        "Fimbo iliyogawanya bahari",
+        "Kiti cha enzi kilichoinuliwa cha kioo",
+        "Pango lenye ukuta kwa ajili ya kulala"
+      ],
+      "answer": "Chemchemi baridi kutoka ardhini"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Familia na utajiri vilirejeshwa na kuimarishwa maradufu",
+        "Toka kutoka tumboni mwa samaki",
+        "Njia salama kupitia maji yaliyogawanyika",
+        "Ufalme uliopewa kutawala",
+        "Kuzaliwa kwa muujiza kwa mwana katika uzee"
+      ],
+      "answer": "Familia na utajiri vilirejeshwa na kuimarishwa maradufu"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

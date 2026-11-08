@@ -1,0 +1,61 @@
+{
+  "title": "Arsitek Ambisi Palsu",
+  "intro": "Seorang tokoh yang memiliki otoritas besar pernah melayani salah satu tiran paling terkenal dalam sejarah Mesir kuno. Individu ini dipercayakan dengan perintah yang berani — untuk membangun sebuah struktur yang dimaksudkan untuk menentang langit. Kisah mereka tercatat dalam Al-Quran sebagai pelajaran yang mencolok tentang bagaimana kepatuhan buta terhadap kesombongan hanya akan membawa pada kehancuran.",
+  "clues": [
+    "Saya mengabdi di istana seorang penguasa yang kuat yang mengklaim kekuasaan ilahi atas negeri itu.",
+    "Saya pernah memegang posisi menteri tinggi, memberi nasihat kepada tiran paling arogan di zaman saya.",
+    "Penguasa saya terobsesi untuk menantang Tuhan Musa, yang mereka tolak untuk akui.",
+    "Aku diperintahkan untuk membangun menara dari batu bata yang dibakar agar penguasaanku dapat naik ke surga.",
+    "Menara itu tak pernah mencapai langit, dan perbudakanku pada kesombongan mendatangkan aib abadi bagiku.",
+    "Aku binasa bersama orang yang kuikuti, dan namaku menjadi peringatan abadi bagi mereka yang mendukung para tiran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Haman",
+        "Azar (ayah Ibrahim)",
+        "Illyas (seorang nabi)",
+        "Dhu al-Kifl",
+        "Harut (salah satu dari dua malaikat di Babilonia)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Diperintahkan untuk membangun struktur menjulang tinggi hingga mencapai langit",
+        "Diminta untuk menafsirkan mimpi yang dikirim dari alam ilahi",
+        "Dilemparkan ke dalam api yang berkobar sebagai ujian iman",
+        "Terpaksa memilih antara takhta dan kebenaran",
+        "Tertantang dalam kontes sihir"
+      ],
+      "answer": "Diperintahkan untuk membangun struktur menjulang tinggi hingga mencapai langit"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Menara yang terbuat dari batu bata bakar",
+        "Sebuah tongkat yang berubah menjadi ular.",
+        "Sebuah kapal berlayar melewati banjir besar.",
+        "Sebuah taman yang dikelilingi tembok tinggi.",
+        "Singgasana yang dihiasi dengan batu rubi dan emas."
+      ],
+      "answer": "Menara yang terbuat dari batu bata bakar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Tenggelam bersama penindas di laut.",
+        "Menjadi seorang raja yang berkuasa atas wilayah yang luas.",
+        "Berhasil lolos dari kobaran api tanpa cedera.",
+        "Membangun kerajaan kebijaksanaan yang makmur",
+        "Bertemu kembali dengan keluarga setelah bertahun-tahun dalam pengasingan."
+      ],
+      "answer": "Tenggelam bersama penindas di laut."
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

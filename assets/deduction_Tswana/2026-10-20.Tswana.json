@@ -1,0 +1,61 @@
+{
+  "title": "Moagi wa Maikaelelo a Maaka",
+  "intro": "Motho mongwe yo o neng a na le taolo e kgolo o kile a direla mongwe wa babusaesi ba ba itsegeng thata mo hisitoring kwa Egepeto wa bogologolo. Motho yono o ne a newa taelo e e bopelokgale — ya go aga sebopego se se neng se diretswe go ganetsa magodimo. Kgang ya bone e eme mo Quran jaaka thuto e e kgatlhang ka ga kafa go ikobela boikgogomoso ka bofofu go isang fela kwa tshenyegong ka gone.",
+  "clues": [
+    "Ke ne ke direla mo dikgotleng tsa mmusi mongwe yo o maatla yo o neng a bolela gore ke ene bomodimo mo dinageng tseo.",
+    "Ke ne ke na le maemo a a kwa godimo a bodiredi, ke gakolola mmusaesi yo o mabela go gaisa botlhe wa motlha wa me.",
+    "Mmusi wa me o ne a tshwaregile ka go gwetlha Modimo wa ga Moshe, yo ba neng ba gana go mo amogela.",
+    "Ke ne ka laelwa go aga tora ya ditena tse di besitsweng ka molelo gore mmusi wa me a kgone go tlhatlogela kwa magodimong.",
+    "Tora ga e ise e ko e fitlhe kwa loaping, mme go nna motlhanka wa me wa boikgogomoso go ne ga dira gore ke tlhabiwe ke ditlhong ka bosakhutleng.",
+    "Ke ne ka nyelela le yo ke neng ke mo sala morago, mme leina la me le ne la nna tlhagiso e e nnelang ruri kgatlhanong le ba ba kgontshang bagateledi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Hamane",
+        "Azar (rraagwe Ibrahime)",
+        "Ilyase (moporofeti)",
+        "Dhu al-Kifl",
+        "Harut (mongwe wa baengele ba babedi kwa Babelona)"
+      ],
+      "answer": "Hamane"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O laetswe go aga sebopego se se kwa godimo gore se fitlhe kwa magodimong",
+        "O kopilwe go ranola toro e e rometsweng go tswa kwa bomodimong",
+        "Go latlhelwa mo molelong o o tukang e le teko ya tumelo",
+        "Go patelesega go tlhopha fa gare ga setulo sa bogosi le boammaaruri",
+        "Go gwetlhiwa mo kgaisanong ya boloi"
+      ],
+      "answer": "O laetswe go aga sebopego se se kwa godimo gore se fitlhe kwa magodimong"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Tora ya ditena tse di besitsweng ka molelo",
+        "Lore lo lo neng lwa fetoga noga",
+        "Sekepe se se tsamayang mo morwaleleng o mogolo",
+        "Tshingwana e e dikologilweng ke mabota a a kwa godimo",
+        "Setulo sa bogosi se se kgabisitsweng ka dirubi le gouta"
+      ],
+      "answer": "Tora ya ditena tse di besitsweng ka molelo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "A nwela mmogo le mogateledi mo lewatleng",
+        "E ne ya nna kgosi e e nonofileng ya dinaga tse dikgolo",
+        "O falotse molelo o o tukang a sa gobala",
+        "A aga bogosi jo bo atlegileng jwa botlhale",
+        "O ne a kopanngwa gape le ba lelapa la gagwe morago ga dingwaga di le dintsi a le kwa botshabelo"
+      ],
+      "answer": "A nwela mmogo le mogateledi mo lewatleng"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

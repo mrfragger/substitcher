@@ -1,0 +1,61 @@
+{
+  "title": "Siege ci suufu asamaan bu gaaw",
+  "intro": "Yaa ngi taxaw ci kanamu larme bu mag buy jegesi barab bu sell bu ñuy jox cër, nga amaale bépp gànnaay daal di waaja am ndam. Laata ñuy tàmbali song, amna doole ju kenn xamul woon feeñ ci kaw, joŋante bi daal di dem ci anam wu kenn xamul woon.",
+  "clues": [
+    "Nu doxantu ak wóolu ni amul benn doole bu mëna yëngal àdduna.",
+    "Nu indi ñay yu am doole, sunu doole melni dañu ko wër.",
+    "Danu ñëwoon ngir daaneel barab bu sell bu ñu jox cër, gëmoon ni sunu ndam mën na am.",
+    "Bi nu yeggee ci barab bi, nu gis mbooloo mu bari, daal di jàll ci asamaan si ci kaw sunu kaw.",
+    "Picc yi dañu sànni xeer yu am ban bu dëgër ci sunuy xarekat.",
+    "Ñu daal di nu daaneel ba sunuy doole daal di tas, tasaaroo ni dóóm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "askanu ñay bi",
+        "Ñaari buur yi",
+        "Rakki Yuusufa",
+        "Jaamub Yalla bi ci Zul-Kifl",
+        "Sahabaa ku jub ki"
+      ],
+      "answer": "askanu ñay bi"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Cong bi ñay jiite ci Kaaba bi",
+        "Geej gi dafay xaajaloo balaa ñuy joxe",
+        "Askan wuy jaay doole jël gaal gi",
+        "Tukkib guddi gi diggante ñaari jumaa",
+        "Faj ku am gaañ-gaañu ci dooley Yàlla"
+      ],
+      "answer": "Cong bi ñay jiite ci Kaaba bi"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Picc yi yor ay pellet ban",
+        "Ark buñ defaree bois gopher",
+        "Baton bu soppiku nekk jaan",
+        "Xeer wuñ tafu ak màndarga",
+        "àll buy tàkk"
+      ],
+      "answer": "Picc yi yor ay pellet ban"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Seen doole ju mag ji daanu ni dóóm",
+        "Ñu jàll géej gi ci jàmm",
+        "Ñu dox ci biir fuur bu tàng bi te dara dalu leen",
+        "Ñu dugg ñaar-ñaar ca Aljanna .",
+        "Ñu nelaw ci 309 at ci lëmu doj"
+      ],
+      "answer": "Seen doole ju mag ji daanu ni dóóm"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Arkitektët e Gurit",
+  "intro": "Imagjinoni një qytetërim të fuqishëm, të talentuar me forcë dhe aftësi, që gdhendte banesa madhështore në shpatet e maleve. Ky kolektiv zotëronte një begati të jashtëzakonshme dhe një mjeshtëri unike arkitekturore. Megjithatë, pavarësisht paralajmërimeve të qarta, ata zgjodhën një rrugë që do të çonte në një përfundim dramatik dhe të paharrueshëm. A mund ta identifikoni këtë grup, historia e të cilit shërben si një mësim i thellë për të gjithë ata që reflektojnë?",
+  "clues": [
+    "Na u dha forcë dhe aftësi, të cilat na mundësuan të skalitnim shtëpi madhështore direkt në male.",
+    "Na u dha një shenjë e qartë nga Allahu, një krijesë unike që duhej lënë e paprekur të kulloste.",
+    "Komuniteti ynë u bë arrogant, duke sfiduar mesazhin hyjnor të sjellë nga një i dërguar nga mesi ynë.",
+    "Ne komplotuam për të dëmtuar shenjën e mrekullueshme, pavarësisht paralajmërimeve për ndëshkim të rëndë.",
+    "Ne sfiduam urdhrin për ta lënë krijesën e veçantë të pinte nga pusi ynë çdo ditë me radhë.",
+    "Patëm një fund shkatërrues, të goditur nga një shpërthim i vetëm e i tmerrshëm pas aktit tonë të shkeljes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush Jemi Ne?",
+      "options": [
+        "Populli i Adit",
+        "Populli i Madianit",
+        "Njerëzit e Elefantit",
+        "Populli i Themudit",
+        "Populli i Lutit"
+      ],
+      "answer": "Populli i Themudit"
+    },
+    "trial": {
+      "label": "Gjyqi/Ngjarja jonë e Madhe",
+      "options": [
+        "Përmbytja që përfshiu tokën",
+        "Ndarja e detit",
+        "Shkatërrimi nga një shpërthim/britmë e vetme",
+        "Djegia e një qyteti",
+        "Shndërrimi i një mali në pluhur"
+      ],
+      "answer": "Shkatërrimi nga një shpërthim/britmë e vetme"
+    },
+    "location": {
+      "label": "Një element kyç në historinë tonë",
+      "options": [
+        "Një viç i artë",
+        "Një deve e mrekullueshme",
+        "Një kaçubë që digjet",
+        "Një zog që flet",
+        "Një fron madhështor"
+      ],
+      "answer": "Një deve e mrekullueshme"
+    },
+    "outcome": {
+      "label": "Rezultati ynë përfundimtar",
+      "options": [
+        "I është dhënë pasuri dhe pushtet i jashtëzakonshëm",
+        "I ngritur në profetësi",
+        "Shfarosje e plotë nga një ndëshkim hyjnor",
+        "I falur pas pendimit të sinqertë",
+        "Të shpërndarë nëpër tokë për të bredhur"
+      ],
+      "answer": "Shfarosje e plotë nga një ndëshkim hyjnor"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

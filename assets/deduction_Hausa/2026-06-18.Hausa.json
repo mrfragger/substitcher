@@ -1,0 +1,61 @@
+{
+  "title": "Wanda Ya Fara Neman Gafara",
+  "intro": "Komawa baya zuwa lokacin da ya gabaci fitowar rana ta farko, kafin wani mutum ya yi tafiya a duniya. An ƙera wani mutum daga mafi ƙasƙanci kayan aiki, an ba shi matsayi sama da mala'iku, aka kuma sanya shi a cikin lambu mai tsarki tare da gargaɗi bayyananne. Duk da haka a cikin ɗan lokaci guda, an yi zaɓi - wanda zai yi ta maimaitawa a duk tarihin ɗan adam. Wanene wannan mutum?",
+  "clues": [
+    "An kawo ni cikin rayuwa ta hanyar da ba ta saba da kowace ba — an ƙera ni daga ƙurar ƙasa kuma aka ba ni rai mai rai ta hannun Mahalicci.",
+    "An ba ni ilimi mai zurfi har ma mala'iku a sama sun yi mamakinsa.",
+    "An umurci dukkan sammai su yi mini sujada, kuma duk suka miƙa wuya - sai ɗaya, wanda ya ƙi saboda girman kai.",
+    "An sanya ni a cikin wani lambu mai tsarki, wuri mai jin daɗi da wadata har abada - amma tare da haramcin guda ɗaya.",
+    "Na manta, na zame, kuma na yi rashin biyayya - kuma na ji nauyin kuskurena sosai.",
+    "Na koma ga Ubangijina da kalmomi masu ratsa zuciya, kuma Ya karɓi tubata, domin Shi ne Mafi gafara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Adamu",
+        "Annabi Dawuda",
+        "Annabi Muhammadu",
+        "Iblis",
+        "Annabi Yaƙub"
+      ],
+      "answer": "Annabi Adamu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "An umurci mala'iku da su yi sujada",
+        "An aika da Babban Ruwan Tsufana",
+        "An yi wata babbar wuta mai sanyi kuma lafiyayye",
+        "An nutsar da wani mai girman kai a cikin teku",
+        "An lalata rundunar giwaye"
+      ],
+      "answer": "An umurci mala'iku da su yi sujada"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Lambun Ni'ima",
+        "Dutsen Sinai",
+        "Masallaci Mai Tsarki",
+        "Kogin Nilu",
+        "Kogon"
+      ],
+      "answer": "Lambun Ni'ima"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Allah ya karɓi tuba",
+        "An nutsar da shi cikin teku",
+        "Wani babban kifi ya haɗiye shi",
+        "An yi wa al'ummar ƙasar mummunan bugu",
+        "Iska mai zafi ta ƙone ta"
+      ],
+      "answer": "Allah ya karɓi tuba"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

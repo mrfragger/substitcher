@@ -1,0 +1,61 @@
+{
+  "title": "Armon ja voiman lähettiläät",
+  "intro": "Kuvittele hiljainen iltapäivä, jonka keskeyttää tuntemattomien matkalaisten saapuminen. Heidän ulkonäkönsä on tavallinen, mutta heidän tarkoituksensa on kaikkea muuta. He kantavat jumalallista viestiä, joka muuttaa kahden kansakunnan suunnan, tuoden naurua karuun kotiin ja kauhua syntiseen kaupunkiin. Keitä nämä salaperäiset vierailijat ovat?",
+  "clues": [
+    "Meidät lähetettiin Allahin omistautuneen palvelijan luokse, joka tunnettiin rajattomasta vieraanvaraisuudestaan.",
+    "Saavuimme paikalle muukalaisten hahmossa, ja silti isäntämme aisti läsnäolossamme jotain yliluonnollista.",
+    "Toimme uutisia, jotka saivat iäkkään naisen nauramaan epäuskoisena ja lyömään omia kasvojaan hämmästyksestä.",
+    "Meidän tehtävämme oli suojella vanhurskasta perhettä ja samalla sataa tuhoa korruption kyllästämän kaupungin ylle.",
+    "Kieltäydyimme nauttimasta meille tarjotusta ateriasta, mikä vain syvensi isäntämme epäilyksiä.",
+    "Me paljastimme todellisen luonteemme vasta ennen lähtöämme sanoen: \"Totisesti, me olemme Herranne lähettiläitä.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Abrahamin vieraat",
+        "Jeesuksen opetuslapset",
+        "Luolan seuralaiset",
+        "Abraha-armeija",
+        "Ya-Sinin lähettiläät"
+      ],
+      "answer": "Abrahamin vieraat"
+    },
+    "trial": {
+      "label": "Missiomme",
+      "options": [
+        "Koetellakseen Abrahamin uskoa poikaansa kohtaan",
+        "Antaakseen Raamatun Abrahamille",
+        "Ilmoittaakseen Iisakin syntymästä ja Lootin kansan tuhosta",
+        "Opastaakseen Abrahamia Kaabaan",
+        "Pelastaakseen Abrahamin tulesta"
+      ],
+      "answer": "Ilmoittaakseen Iisakin syntymästä ja Lootin kansan tuhosta"
+    },
+    "location": {
+      "label": "Esiintymispaikka",
+      "options": [
+        "Egyptin maassa",
+        "Urin kaupungissa",
+        "Abrahamin kotona",
+        "Eedenin puutarhassa",
+        "Zamzamin kaivolla"
+      ],
+      "answer": "Abrahamin kotona"
+    },
+    "outcome": {
+      "label": "Tulos",
+      "options": [
+        "Abrahamista tuli kuningas",
+        "Abraham rakensi Kaaban",
+        "Saara synnytti Iisakin ja Lootin kansa tuhoutui",
+        "Abraham muutti Palestiinaan",
+        "Abrahamin kansa pelastui suurelta vedenpaisumukselta"
+      ],
+      "answer": "Saara synnytti Iisakin ja Lootin kansa tuhoutui"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

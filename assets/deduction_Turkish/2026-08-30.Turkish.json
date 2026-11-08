@@ -1,0 +1,61 @@
+{
+  "title": "Vahiy'in Güvenilir Ruhu",
+  "intro": "Görünmeyen âlemlerde, saf ışıktan bir varlık, her emri tereddüt etmeden yerine getirerek, hassasiyetle hareket eder. Bu varlık, seçilmiş kullarıyla konuşmuş, yol gösterici sözler söylemiş ve çağlar boyunca ilahi hükümlerin gerçekleşmesine tanık olmuştur. Bu saygıdeğer ruh kimdir?",
+  "clues": [
+    "Ben saf ışıktan yaratılmış, saf ışık varlığıyım ve Rabbimin hiçbir emrine karşı gelmedim.",
+    "Ben gökler ve yer arasında hareket ederim, Rahman olanın hükümleriyle inerim.",
+    "Kutsal mekândaki soylu bir bakireye gönderildim ve ona temiz bir oğulun doğacağını müjdeledim.",
+    "Ben kutsallık ruhuyum ve kendisine açık işaretler ve İncil verilen bir peygamberi destekledim.",
+    "Sonsuza dek saklanacak bir şiirin ilk sözlerini okumak için bir dağdaki mağaraya geldim.",
+    "Ben güvenilir ruhum ve Kur'an'ı son peygamberin kalbine indiren de bendim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Cibril (Gabriel)",
+        "Mikail (Michael)",
+        "Ölüm Meleği",
+        "Malik (Cehennemin Bekçisi)",
+        "Harut (Babil'deki iki melekten biri)"
+      ],
+      "answer": "Cibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Başlıca Görev/Rol",
+      "options": [
+        "Peygamberlere vahiy iletmek",
+        "Kıyamet Gününde Borazan Çalmak",
+        "Cehennemin kapılarını korumak",
+        "İnsanların yaptıklarını kaydetmek",
+        "Yağmurun yağmasına neden olmak"
+      ],
+      "answer": "Peygamberlere vahiy iletmek"
+    },
+    "location": {
+      "label": "Ana Özellik veya Başlık",
+      "options": [
+        "Kutsal Ruh (Ruh el-Kudus)",
+        "Gücün Ruhu",
+        "Merhamet Ruhu",
+        "Rehberlik Ruhu",
+        "Hakikat Ruhu"
+      ],
+      "answer": "Kutsal Ruh (Ruh el-Kudus)"
+    },
+    "outcome": {
+      "label": "Misyonun Sonucu",
+      "options": [
+        "Kur'an, Hz. Muhammed'e vahyedilmiştir.",
+        "Kıyamet Günü'nde borazan çalındı.",
+        "Cehennem korunuyordu ve kapıları kapalıydı.",
+        "Amel Kitabı Allah'a sunuldu.",
+        "Yağmur yeryüzüne indi."
+      ],
+      "answer": "Kur'an, Hz. Muhammed'e vahyedilmiştir."
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

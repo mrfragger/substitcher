@@ -1,0 +1,61 @@
+{
+  "title": "Horjumaton liittolainen kullan koettelemuksessa",
+  "intro": "Suuren profeetan varjossa valittiin kaunopuheinen ja uskova sielu auttamaan valtavassa tehtävässä. Tämä hahmo seisoi lujana, kun massat horjuivat, saarnaten räikeää rikkomusta vastaan, joka uhkasi monoteismin ydintä. Kun profeetta palasi todistamaan kansan epäonnistumista, hänen puolustuspuheensa ei perustunut syyllisyyteen, vaan velvollisuuteen ja pelkoon jakautumisesta. Kuka on tämä Allahin omistautunut palvelija?",
+  "clues": [
+    "Allah valitsi minut pyhään tehtävään toisen rinnalla, ja roolini oli tukea ja julistaa.",
+    "Minulle annettiin selkeä puhekyky, ja seurasin sanansaattajaa kohdatakseni mahtavan sortajan.",
+    "Kriittisen matkan aikana sanansaattaja nousi yksin vuorelle ja jätti minut valvomaan ihmisiä.",
+    "Heidän poissa ollessaan kansa valmisti kultaisen kuvapatsaan, ja minä pyysin heitä pysymään uskollisina, mutta he kieltäytyivät neuvostani.",
+    "Kun sanansaattaja palasi täynnä vihaa ja surua, minut valtasi, mutta selitin, että minut oli voitettu ja pelkäsin aiheuttavani riitaa heidän keskuudessaan.",
+    "Minä olen profeetta, joka seisoi veljeni Mooseksen rinnalla, jakoi hänen taakkansa ja pysyi järkkymättömänä epäjumalanpalvelusta vastaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Harun",
+        "Profeetta Musa",
+        "Profeetta Isa",
+        "Profeetta Daavid",
+        "Profeetta Zakariyya"
+      ],
+      "answer": "Profeetta Harun"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ihmiset palvoivat kultaista vasikkaa varoituksista huolimatta",
+        "Ihmiset heittivät minut roihuavaan tuleen",
+        "Suuri kala nielaisi minut",
+        "Minut vangittiin väärien syytteiden perusteella",
+        "Minut karkotettiin kotikaupungistani saarnaamisen takia"
+      ],
+      "answer": "Ihmiset palvoivat kultaista vasikkaa varoituksista huolimatta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kultainen vasikka",
+        "Palava pensas",
+        "Sauva, joka muuttui käärmeeksi",
+        "Liiton taulut",
+        "Liitonarkki"
+      ],
+      "answer": "Kultainen vasikka"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Minut vapautettiin syytteistä ja jatkoin profeetallista tehtävääni",
+        "Minut rangaistiin ihmisten synneistä",
+        "Minulle annettiin uusi kansakunta oppaakseni",
+        "Minut vietiin elävänä taivaaseen",
+        "Minusta tehtiin valtakunnan hallitsija"
+      ],
+      "answer": "Minut vapautettiin syytteistä ja jatkoin profeetallista tehtävääni"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

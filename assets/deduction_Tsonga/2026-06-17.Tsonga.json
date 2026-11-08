@@ -1,0 +1,61 @@
+{
+  "title": "Echo leyi humaka eMakumu ka Doroba",
+  "intro": "Edorobeni leri fularheleke nkongomiso wa Xikwembu, ku hume munhu loyi a nga yexe ehandle ka doroba, a tsutsuma ni rungula ra ntshembo ni ra xilemukiso. Moya-xiviri lowu lowu rivariweke a wu ta va xikombiso lexi nga heriki xa ripfumelo leri tiyeke.",
+  "clues": [
+    "Ndzi vone varhumiwa va ri karhi va rhumeriwa emutini wa ka hina, kambe vanhu va ka hina va va hlongole tanihi vanhu lava tolovelekeke.",
+    "A ndzi pfumela eka rungula ra vona naswona ndzi twe ntiyiso wu twala endzeni ka vumunhu bya mina.",
+    "Ndzi vitane vanhu va mina leswaku va yingisa varhumiwa lava a va nga kombeli hakelo.",
+    "Ndzi tsutsumile ndzi suka emakumu ya le kule swinene ya doroba, ndzi ringeta hi xihatla ku va endla va vona xivangelo.",
+    "Vanhu va mina va ndzi pfukerile, kutani ndzi dlayiwile, kambe ndzi kume ku rhula loku nga heriki.",
+    "Allah u ndzi byele a ku, ‘Nghena eParadeyisini,’ naswona ndzi navela onge vanhu va mina va nga vona ku xiximiwa loku ndzi nyikiweke kona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Mupfumeri wa Ya-Sin",
+        "Uzair Muvutisi",
+        "Al-Khidr Mukongomisi",
+        "Mupfumeri wa Ndyangu wa Faro",
+        "Namrud Mufumi wa tihanyi"
+      ],
+      "answer": "Mupfumeri wa Ya-Sin"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku langutana ni vanhu lava nga pfumeriki lava n’wi dlayeke",
+        "Ku lahleriwa endzilweni lowu pfurhaka",
+        "Ku mitiwa hi nhlampfi leyikulu",
+        "Ku aka ngalava leyikulu",
+        "Ku balekela vuthu ra mufumi wa tihanyi"
+      ],
+      "answer": "Ku langutana ni vanhu lava nga pfumeriki lava n’wi dlayeke"
+    },
+    "location": {
+      "label": "Ndhawu ya Xilotlelo",
+      "options": [
+        "Makumu ya le kule swinene ya doroba",
+        "Ntshava ya Tur",
+        "Nkova wa Tinjiya",
+        "Ribuwa ra Nayili",
+        "Bako ra bako"
+      ],
+      "answer": "Makumu ya le kule swinene ya doroba"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku dlayiwa ripfumelo ni ku nghena hi ku hatlisa eParadeyisini",
+        "Ku baleka na ku ponisiwa",
+        "Ku tlhandlukela ematilweni",
+        "Ku nwela elwandle",
+        "Ku hundzuka ribye"
+      ],
+      "answer": "Ku dlayiwa ripfumelo ni ku nghena hi ku hatlisa eParadeyisini"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

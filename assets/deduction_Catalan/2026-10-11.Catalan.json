@@ -1,0 +1,61 @@
+{
+  "title": "La veu a les sorres antigues",
+  "intro": "Entre els primers missatgers d'Al·là, n'hi va haver un el nom del qual brilla breument però significativament a l'Alcorà. Aquest individu va viure molt abans que molts grans profetes fossin enviats, i era conegut per la seva sinceritat i paciència inquebrantables. La seva història és breu, però el seu llegat perdura en el registre etern. Qui és aquesta noble ànima?",
+  "clues": [
+    "Sóc un dels primers missatgers, esmentat breument però significativament a l'Alcorà.",
+    "El meu caràcter es definia per un compromís inquebrantable amb la veritat.",
+    "Sóc recordat al llibre d'Al·là entre aquells que van ser constants i pacients.",
+    "Només uns quants versos curts de l'Alcorà expliquen la meva història.",
+    "Al·là m'ha honrat d'una manera que és únicament meva, no compartida amb altres profetes.",
+    "Vaig ser elevat a una alta posició, un honor singular a l'Alcorà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Ilyas",
+        "Dhul-Kifl",
+        "Profeta Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Moment decisiu",
+      "options": [
+        "Vaig ser elevat a una alta posició per Al·là",
+        "Vaig construir una gran arca per salvar el meu poble",
+        "Vaig desafiar els bruixots del faraó",
+        "Els meus germans em van llançar a un pou",
+        "Vaig perdre la vista per la pena pel meu fill"
+      ],
+      "answer": "Vaig ser elevat a una alta posició per Al·là"
+    },
+    "location": {
+      "label": "Referència sagrada",
+      "options": [
+        "Sura Al-Anbiya",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Ash-Shu'ara",
+        "Sura Yasin"
+      ],
+      "answer": "Sura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Honor Diví",
+      "options": [
+        "Una estació elevada com cap altra",
+        "Domini sobre els djins i els vents",
+        "Un regne de glòria inigualable",
+        "Un hereu de la meva vellesa",
+        "Un pacte segellat amb Al·là"
+      ],
+      "answer": "Una estació elevada com cap altra"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Durnuklylyk Sesi",
+  "intro": "Bu şahsyýet çuňňur akyldarlygy we ýol görkezijiligi bilen ýatlanylýar, nesillerden geçen maslahatlary berýär. Olaryň sözleri takwalygyň we Ylahydan gelýän bereketleri we synaglary ykrar etmegiň möhümdiginiň subutnamasydyr. Bu hormatlanýan ruhuň kimligini açyň.",
+  "clues": [
+    "Men pygamber däldim, ýöne meniň akyldarlygym Ylahy Ýazgylarda ebedileşdirilipdir.",
+    "Çagama beren maslahatymda Allatagala şükür etmek we şirkden gaça durmak barada aýratyn gürrüň berildi.",
+    "Men namazyň, ýagşylyga çagyrmagyň we ýamanlykdan gaça durmagyň ähmiýeti barada öwretdim.",
+    "Men ýer ýüzünde tekepbirlikden we tekepbirlikden saklanmagy duýdurdym.",
+    "Meniň adym Gurhanda tutuş bir surä berlen we meniň taglymatlarymy nygtaýar.",
+    "Meniň maslahatym kynçylyklara sabyrly bolmagy öz içine alýardy, sebäbi bu iň berk işlerdendir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Idris pygamber",
+        "Ýahýa pygamber",
+        "Lukman",
+        "Imran",
+        "Hud pygamber"
+      ],
+      "answer": "Lukman"
+    },
+    "trial": {
+      "label": "Esasy Okuw/Görkezme",
+      "options": [
+        "Gämi gurmak",
+        "Güýçli goşun bilen ýüzbe-ýüz bolmak",
+        "Paýhas we ahlak maslahatlaryny paýlamak",
+        "Düşleri ýorumlamak",
+        "Milleti ýeňişe alyp barmak"
+      ],
+      "answer": "Paýhas we ahlak maslahatlaryny paýlamak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýanýan gyrymsy agaç",
+        "Uly balyk",
+        "Belli bir dag",
+        "Nesil üçin paýhasly maslahat",
+        "Beýik köşk"
+      ],
+      "answer": "Nesil üçin paýhasly maslahat"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Patyşa boldy",
+        "Pygamberlik berildi",
+        "Onuň akyldarlygy Kuranda ýazylypdyr",
+        "Öz halkyny täze ýere alyp gitdi",
+        "Oňa ägirt uly baýlyk berildi"
+      ],
+      "answer": "Onuň akyldarlygy Kuranda ýazylypdyr"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

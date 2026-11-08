@@ -1,0 +1,61 @@
+{
+  "title": "Miegantys tiesos ieškotojai",
+  "intro": "Įsivaizduokite laiką, kai tikėjimas buvo išbandomas ir sielų grupė pasirinko tvirtą įsitikinimą, o ne žemišką komfortą. Susidūrę su nelengvu pasirinkimu, jie ieškojo prieglobsčio ir leidosi į kelionę, kuri nuvedė į nepaprastą miegą. Jų istorija liudija apie dieviškąją apsaugą ir tikėjimo galią prieš priespaudą. Ar galite įžvelgti šių nepaprastų asmenų tapatybę?",
+  "clues": [
+    "Buvome maža bendruomenė, kurią vienijo gilus tikėjimas Vienu Kūrėju.",
+    "Mes gyvenome laikais, kai galingas valdovas reikalavo garbinti ne Alachą.",
+    "Kad išsaugotume savo tikėjimą, nusprendėme palikti savo namus ir bėgti nuo priespaudos.",
+    "Kelionėje mus lydėjo ištikimas palydovas, žemės padaras.",
+    "Radome prieglobstį nuošalioje vietoje, kur Alachas mus užmigdė giliai ir ilgai.",
+    "Kai pabudome, manėme, kad praėjo tik diena ar jos dalis, bet iš tiesų buvo praėję šimtmečiai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Griovio žmonės",
+        "Tamudo žmonės",
+        "Sabos žmonės",
+        "Olos žmonės",
+        "Madjano žmonės"
+      ],
+      "answer": "Olos žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Išbandomas nederlingoje žemėje",
+        "Susidūrę su dideliu potvyniu",
+        "Ieškantis prieglobsčio nuo tironiško valdovo",
+        "Įmetimas į deginančią ugnį",
+        "Iššūkis burtininko magijai"
+      ],
+      "answer": "Ieškantis prieglobsčio nuo tironiško valdovo"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didieji rūmai",
+        "Laivas / arka",
+        "Gilus šulinys",
+        "Ola",
+        "Didžiulis kalnas"
+      ],
+      "answer": "Ola"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteikus karalystę",
+        "Stebuklingas miegas šimtmečius",
+        "Prarytas žemės",
+        "Išgelbėjimas nuo niokojančios audros",
+        "Būti aprūpintam dangišku stalu"
+      ],
+      "answer": "Stebuklingas miegas šimtmečius"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

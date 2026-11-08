@@ -1,0 +1,61 @@
+{
+  "title": "La chiamata minga ascultada in de la Terra del Arroganza",
+  "intro": "Te ste in di ruvin de una civiltà che l’era grand, indué el podè e l’orgœuj g’havevan no di cunfin. Un messagger el caminava intra de lor, el ciamava la verità, ma el luur cœur l’era indurì. L’avvertiment l’è stà minga tegnü cunt, e el ciel stess l’è diventà un strüment de ira. Chi l’era chestu messagger, e cosa l’è sucedü a quei che g’han refudà la chiamada?",
+  "clues": [
+    "Sun stà mandà a un popul che g’haveva no pari de forza e che g’haveva costruì sü ogni sit volt un monument.",
+    "El me popul se cunsiderava invincibil e diseva: “Chi l’è püsee fort de nun?”",
+    "I g’ho ciamà per venerà sultant Allah, ma g’han acusà de sciocco e de bugia.",
+    "M’han sfidà a purtà la puniziun che g’ho prumetü se l’eri verità.",
+    "Allah g’ha mandà sü de luur un vent steril che g’ha minga risparmià nient che g’ha rivà.",
+    "Mi e quei che credevan cun mi sun stà salvà de la misericordia de Allah, menter i incredul sun stà distrutt del tut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "El prufeta Shuaib",
+        "Profeta Lut",
+        "Profeta Nuh"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Un vent devastant g’ha distrutt i incredul",
+        "Una grand diluviun g’ha inglutì i incredul",
+        "Una piova de sass l’è piovuda",
+        "Un urlo fort g’ha ciapà i incredul",
+        "Un terremot l’ha colpid i incredul"
+      ],
+      "answer": "Un vent devastant g’ha distrutt i incredul"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un vent senza pausa",
+        "Un'arca de legn",
+        "Una camel",
+        "Una piœva de sass de argila",
+        "Un fœg ardent"
+      ],
+      "answer": "Un vent senza pausa"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Hud e i credent sun stà salvà, e i incredul sun stà distrutt",
+        "Hud l’è stà levà sü a una staziun volta",
+        "Hud l’è stà copà del sò popul",
+        "El popul de Hud el s’è pentì e l’è stà risparmià",
+        "Hud g’ha lassà el sò popul prima de qual-sa-vöör puniziun"
+      ],
+      "answer": "Hud e i credent sun stà salvà, e i incredul sun stà distrutt"
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

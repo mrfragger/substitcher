@@ -1,0 +1,61 @@
+{
+  "title": "Klic iz Svete doline",
+  "intro": "Onkraj strani zgodovine se skriva zgodba o duši, ki je stala med mogočnim vladarjem in celotnim zasužnjenim ljudstvom. Ta posameznik je bil poklican, da osvobodi narod tiranije in stori čudeže, ki so kljubovali vsem naravnim zakonom. Od svete gore do čudeža na vodi je ta Alahov služabnik bil priča znamenjem, ki bodo odmevala skozi stoletja. Vaša današnja naloga je prepoznati to izjemno osebnost, katere zapuščina je oblikovala potek človeške zgodovine.",
+  "clues": [
+    "Rodil sem se v času, ko se je moje ljudstvo soočalo s smrtonosnim odlokom, in moja družina me je dala v vodo, da bi mi rešila življenje.",
+    "Našli so me in vzgojili v samem gospodinjstvu vladarja, ki je odredil smrt moje vrste.",
+    "Zbežal sem na sveto goro, kjer sem videl ogenj na drevesu, ki ni zgorel, in iz njega mi je spregovoril glas.",
+    "Poslan sem bil nazaj k temu vladarju s čudeži, zahtevajoč svobodo mojega zasužnjenega ljudstva.",
+    "S palico sem udaril po morju in ono se je razdelilo v suhe steze, ki so pogoltnile zasledovalce, ki so sledili mojemu ljudstvu.",
+    "Štirideset noči sem se pogovarjal s svojim Gospodom na gori in prejel sem tablice božanskega vodstva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Musa",
+        "Prerok Harun",
+        "Prerok Ibrahim",
+        "Prerok Jusuf",
+        "Prerok Davud"
+      ],
+      "answer": "Prerok Musa"
+    },
+    "trial": {
+      "label": "Moja odločilna preizkušnja",
+      "options": [
+        "Ločitev morja",
+        "Gradnja velike barke",
+        "Preizkušnja z gorečim ognjem",
+        "Zaprtje v kitovem trebuhu",
+        "Zapor s strani egiptovskega uradnika"
+      ],
+      "answer": "Ločitev morja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Pastirska palica",
+        "Velika lesena skrinja",
+        "Jama, kjer je čas spal",
+        "Vrt z dvema izviroma",
+        "Prestol, okrašen z zlatom"
+      ],
+      "answer": "Pastirska palica"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Moje ljudstvo je prečkalo morje na varno",
+        "Velika poplava je uničila nevernike",
+        "Tiranov ogenj je postal hladen in miren",
+        "Morje je vrglo svojo ujetnico na obalo",
+        "Ujetnik je postal egiptovski zakladnik"
+      ],
+      "answer": "Moje ljudstvo je prečkalo morje na varno"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

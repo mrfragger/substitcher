@@ -1,0 +1,61 @@
+{
+  "title": "Communitas quae diem quietis sprevit",
+  "intro": "Ingredimini vicum maritimum ubi divinum mandatum unum diem cultui et coertioni destinavit. Quidam intra hanc communitatem limites illius mandati callido consilio experiri constituit, ducens ad transformationem quae per saecula resonaret. Quaenam erant hae animae, et quid ex eis factum est?",
+  "clues": [
+    "Prope litus habitavimus, ubi mare nobis victum praebebat.",
+    "Iussi sumus unum diem hebdomadis honorare, eum a mundanis studiis seponere.",
+    "Eo die, pisces ad nos magno numero venerunt, quasi nos allicerent ut mandatum violaremus.",
+    "Consilium excogitavimus ut pisces pridie diei sacri caperemus, deinde post eum praeteritum colligeremus.",
+    "Cum quidam ex nobis contra hanc fraudem monuissent, consilium eorum negleximus et perseveravimus.",
+    "Propter transgressionem nostram, in simias transformati sumus, despecti et reiecti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Populus Sabbati",
+        "Populus Fossae",
+        "Populus Silvae",
+        "Populus Horti",
+        "Populus Elephantis"
+      ],
+      "answer": "Populus Sabbati"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Piscatio Sabbato",
+        "Turrim excelsam aedificans",
+        "Camelam sacram occidere",
+        "Prophetam ad eos missum negantes",
+        "Transgrediendo in ponderibus mercatoriis"
+      ],
+      "answer": "Piscatio Sabbato"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Mare et pisces eius",
+        "Ignis qui refrigeratus est",
+        "Baculus qui in serpentem factus est",
+        "Arca salutis",
+        "Tabulae lapideae"
+      ],
+      "answer": "Mare et pisces eius"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In simias transformati",
+        "A terra absorptus",
+        "Vento vehementi vastatus",
+        "In mari submersus",
+        "Imbri lapidum percussus"
+      ],
+      "answer": "In simias transformati"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

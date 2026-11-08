@@ -1,0 +1,61 @@
+{
+  "title": "Architekt falošných ambícií",
+  "intro": "V starovekom Egypte kedysi slúžil jeden z najznámejších tyranov v histórii, ktorý mal mať veľkú autoritu. Táto osoba dostala smelý príkaz – postaviť stavbu, ktorá mala vzdorovať nebesiam. Ich príbeh je v Koráne zapísaný ako pozoruhodné ponaučenie o tom, ako slepá poslušnosť arogancii vedie len k záhube.",
+  "clues": [
+    "Slúžil som na dvore mocného vládcu, ktorý si nárokoval božskú moc nad krajinami.",
+    "Zastával som vysokú ministerskú pozíciu a radil som najarogantnejšiemu tyranovi svojej doby.",
+    "Môj vládca bol pohltený spochybňovaním Mojžišovho Boha, ktorého odmietali uznať.",
+    "Dostal som rozkaz postaviť vežu z ohňom pálených tehál, aby môj vládca mohol vystúpiť do nebies.",
+    "Veža nikdy nedosiahla oblohu a moja podriadenosť arogancii mi vyniesla večnú hanbu.",
+    "Zahynul som s tým, koho som nasledoval, a moje meno sa stalo trvalou výstrahou pred tými, ktorí umožňujú tyranom vládnuť."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Háman",
+        "Azar (otec Ibrahima)",
+        "Illyas (prorok)",
+        "Dhu al-Kifl",
+        "Harut (jeden z dvoch anjelov v Babylone)"
+      ],
+      "answer": "Háman"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Nariadené postaviť týčiacu sa stavbu, ktorá dosiahne nebesia",
+        "Požiadaný o výklad sna poslaného od božstva",
+        "Hodený do plápolajúceho ohňa ako skúška viery",
+        "Nútený vybrať si medzi trónom a pravdou",
+        "Vyzvaný v súťaži čarodejníctva"
+      ],
+      "answer": "Nariadené postaviť týčiacu sa stavbu, ktorá dosiahne nebesia"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Veža z ohňom pálených tehál",
+        "Palica, ktorá sa premenila na hada",
+        "Loď plaviaca sa cez veľkú povodeň",
+        "Záhrada ohradená vysokými múrmi",
+        "Trón ozdobený rubínmi a zlatom"
+      ],
+      "answer": "Veža z ohňom pálených tehál"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Utopený po boku utláčateľa v mori",
+        "Stal sa mocným panovníkom rozsiahlych území",
+        "Unikol z horiaceho požiaru bez zranení",
+        "Vybudoval prosperujúce kráľovstvo múdrosti",
+        "Po rokoch exilu sa opäť stretol s rodinou"
+      ],
+      "answer": "Utopený po boku utláčateľa v mori"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

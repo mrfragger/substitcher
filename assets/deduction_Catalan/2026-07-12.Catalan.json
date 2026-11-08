@@ -1,0 +1,61 @@
+{
+  "title": "La ciutat perduda de la majestat inigualable",
+  "intro": "Una poderosa civilització va dominar una vasta extensió de la terra, famosa per les seves imponents estructures que s'elevaven fins al cel. Tanmateix, sota aquesta grandesa, va créixer una negació tossuda: una negativa a escoltar l'advertència divina enviada des de dins de la mateixa comunitat. L'orgull i l'arrogància aviat provocarien un càstig com ni la terra ni els cels havien vist mai.",
+  "clues": [
+    "Una vegada vam governar vastes extensions de terra, presumint d'una força que crèiem que cap altra civilització podia igualar.",
+    "El nostre regne era famós per les seves imponents estructures amb poderosos pilars que s'alçaven inigualables a totes les terres conegudes.",
+    "Un advertidor de la nostra pròpia comunitat es va aixecar, instant-nos a cadascun de nosaltres a sotmetre'ns només a l'Únic Creador.",
+    "Vam negar el missatge que ens havien transmès i vam rebutjar abandonar el camí que havíem heretat.",
+    "Un vent furiós i udolant d'una severitat aclaparadora es va desencadenar contra nosaltres, deixant-nos completament indefensos.",
+    "Ens van deixar com troncs buits de palmeres, dispersos i oblidats, com a lliçó per a cada generació posterior."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Gent d'A'ad",
+        "Gent de Nuh",
+        "Gent de Lut",
+        "Gent de Madyan",
+        "Gent de Tubba'"
+      ],
+      "answer": "Gent d'A'ad"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Un vent furiós i implacable de càstig sever",
+        "Una inundació que va cobrir tots els cims de les muntanyes",
+        "Una pluja de pedres d'argila cremant des de dalt",
+        "Un crit terrorífic des del cel",
+        "Un violent terratrèmol que va dividir la terra"
+      ],
+      "answer": "Un vent furiós i implacable de càstig sever"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Iram, la ciutat dels pilars elevats",
+        "Una arca enorme de fusta construïda sobre una muntanya",
+        "Una camella que va emergir miraculosament de la pedra",
+        "El Mont Sinaí, on van descendir els manaments divins",
+        "Un palau de cristall i vidre fi amb vistes a les aigües que flueixen"
+      ],
+      "answer": "Iram, la ciutat dels pilars elevats"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Deixats com troncs buits de palmeres, dispersos i sense vida",
+        "Ofegat sota les onades aclaparadores d'una gran inundació",
+        "Transformats en criatures semblants a simis i porcs",
+        "Aixafat sota una pluja de pedres d'argila endurides",
+        "Consumit en un sol crit ensordidor que va traspassar l'ànima"
+      ],
+      "answer": "Deixats com troncs buits de palmeres, dispersos i sense vida"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

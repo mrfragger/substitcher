@@ -1,0 +1,61 @@
+{
+  "title": "L'Empacha a l'Ostal Ancian",
+  "intro": "Dins la vila sacrada, una figura poderosa bolhiguèt de colèra quand un novèl messatge comencèt de s'espandir. Aquel individú, que son nom venguèt sinonim d'oposicion a la vertat, vegèt son influéncia s'esfondrar jol pes de la revelacion divina. Qual èra aquela anma, que son destin èra sagelat dins las sablas d'un famós camp de batalha?",
+  "clues": [
+    "Èri un cap demest mon pòble, conegut per ma riquesa e ma influéncia dins una vila qu'albergava un santuari ancian.",
+    "Quand un òme de ma tribú comencèt de proclamar un messatge d'un sol Dieu, lo trufèri e de sas revelacions, las nomenant de simples contes del passat.",
+    "Confrontèri aquel òme del temps que pregava còsta l'estructura sacrada, menaçant d'arrestar son culte per fòrça se caliá.",
+    "Èri demest los dirigents que complotèron per far calar la novèla fe, en s'opausant a sos seguidors amb de mots e d'armas.",
+    "Marchèri amb una armada cap a un luòc nomenat Badr, segur qu'esclafariam la pichona banda de cresents.",
+    "Mas sus aquel camp de batalha, ma vida s'acabèt, e ma mòrt venguèt una leiçon per los que persistan dins l'incredulitat après de signes clars."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Omayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Empachar lo Profèta de pregar a la Kaaba",
+        "Construccion de la Kaaba",
+        "Escriure l'Alcoran",
+        "Menant l'armada de l'elefant",
+        "Fendiment de la luna"
+      ],
+      "answer": "Empachar lo Profèta de pregar a la Kaaba"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Kaaba",
+        "L'Arca del profèta Nuh",
+        "Lo baston del profèta Musa",
+        "Lo vedèl d'aur",
+        "Lo Tròn de la Reina de Saba"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Tuat a la batalha de Badr",
+        "Se repentiguèt e venguèt musulman",
+        "Fugiguèt en Abissinia",
+        "Moriguèt l'an de l'elefant",
+        "Venguèt un companh del Profèta"
+      ],
+      "answer": "Tuat a la batalha de Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

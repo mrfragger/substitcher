@@ -1,0 +1,61 @@
+{
+  "title": "Déi verschwannend Gäert vum Wuelstand",
+  "intro": "An engem Land, dat mat iwwerflësseger Räichtum geseent war, huet eng Gemeinschaft gebléit, déi ënner Zeeche vun der gëttlecher Gnod gelieft huet. Hire Wuelstand war en Zeie vun der Gonscht vun hirem Här, e Kaddo, dat Dankbarkeet an Gehorsam inspiréiere sollt. Trotz de kloeren Hiweiser op hire Seegen ass awer e Wendepunkt komm, deen hir Unerkennung fir d'Quell vun hirem immense Räichtum a Komfort a Fro gestallt huet.",
+  "clues": [
+    "Mir ware mat zwéi Gäert geseent, een op der rietser an een op der lénkser Säit, reich u Produkter.",
+    "Mir goufe gebueden, vun der Versuergung vun eisem Här ze iessen a him dankbar ze sinn fir e gutt Land an en Här, deen him verzeiht.",
+    "Mir sinn arrogant ginn a mir hunn eis vum Wee vun der Dankbarkeet ofgedréit, andeems mir mat eisem Räichtum a Muecht gebrëscht hunn.",
+    "Mir hunn eisen Här gefuerdert, d'Distanz tëscht eise Reesen ze erhéijen, a sou Veruechtung fir déi Liichtegkeet gewisen, déi Hie mir geschenkt hat.",
+    "Mir goufe vun engem Bote gewarnt, awer mir hunn d'Botschaft refuséiert a weider mat eiser Onopmierksamkeet geschafft.",
+    "Eise groussen Damm, deen eise Wuelstand gehalen huet, ass schlussendlech gebrach, wat zu enger verheerender Iwwerschwemmung gefouert huet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Leit vun Thamud",
+        "D'Leit vu Midian",
+        "D'Leit vun 'Aad",
+        "Leit vu Lut",
+        "D'Leit vu Saba"
+      ],
+      "answer": "D'Leit vu Saba"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Hongersnout an Dréchent",
+        "Invasioun vun enger mächteger Arméi",
+        "E verheerenden Äerdbiewen",
+        "Eng zerstéierend Iwwerschwemmung vun engem futtise Staudamm",
+        "Ënnerdréckung vun engem tyranneschen Herrscher"
+      ],
+      "answer": "Eng zerstéierend Iwwerschwemmung vun engem futtise Staudamm"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E gëllent Kalb",
+        "E wonnerbart Kamel",
+        "E groussen Damm",
+        "E risegt Gebai",
+        "E déiwe Brunn"
+      ],
+      "answer": "E groussen Damm"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mir goufen an Affen a Schwäin verwandelt",
+        "Mir goufe gerett a sinn an en neit Land ausgewandert",
+        "Mir goufe verstreet an eist Land ass onfruchtbar ginn",
+        "Mir sinn an den Himmel eropgeklommen",
+        "Mir hunn en neit, méi räicht Kinnekräich opgebaut"
+      ],
+      "answer": "Mir goufe verstreet an eist Land ass onfruchtbar ginn"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

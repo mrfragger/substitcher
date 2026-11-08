@@ -1,0 +1,60 @@
+{
+  "title": "Te Whakamātautau i raro i ngā Ngaru",
+  "intro": "I whakatau tetahi poropiti, i taimaha i tana misioni, i arahi i a ia ki tawhiti atu i tōna iwi, ā, i uru atu ki tētahi whakamātautau ohorere. I tino rerekē tana haerenga, i whakamatautauria tōna whakapono me tōna manawanui i te huarahi tino hohonu. Ka taea e koe te whakatau i ngā taipitopito o tēnei huihuinga whakamiharo mai i ngā tohu i whakaratohia?",
+  "clues": [
+    "I tonoa tētahi poropiti ki tētahi iwi, engari i hohoro tonu tana haere atu, i te pōuri mō tō rātou whakakahoretia.",
+    "Nā tana haerenga ia i arahi ki te moana, ā, ka eke ia ki runga i tētahi kaipuke taumaha e rapu huarahi ana.",
+    "Ka puta he tupuhi nui, ka whakawehi i te kaipuke, ā, ka whakatauhia kia maka tetahi tangata ki te moana hei whakamama i te utanga, i whakatauhia mā te rota.",
+    "I horomia ia e tetahi mea hanga o te hohonu, he merekara i whakaritea e te Atua.",
+    "I roto i te puku o te mea hanga, ka karanga ia ki tōna Ariki, me te ripeneta me te whakakororia i a Allah i roto i te pōuri.",
+    "I muri i tētahi wā o te inoi kaha, ka maka ia ki te takutai waikore, he ngoikore engari e ora ana; ā, i muri mai ka hoki ia ka kite kua whakapono tōna iwi."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Poropiti/Tangata",
+      "options": [
+        "Poropiti a Noa",
+        "Poropiti Ruta",
+        "Poropiti a Mohi",
+        "Poropiti Yunus",
+        "Poropiti a Yusuf"
+      ],
+      "answer": "Poropiti Yunus"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te waipuke o Noa",
+        "Te whakangaromanga o Horoma",
+        "Te haerenga i roto i te puku o te ika nui",
+        "Te wehenga o te moana",
+        "Te whakakitenga mai o te rakau e mura ana"
+      ],
+      "answer": "Te haerenga i roto i te puku o te ika nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Maunga Hinai",
+        "Ngā Rākau o Musa",
+        "Te Ika Nui",
+        "Te Puna o Hohepa"
+      ],
+      "answer": "Te Ika Nui"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "He kawenata hou ki te tangata",
+        "He whānautanga merekara mō tōna iwi",
+        "He kingitanga i whakatūria mō tōna whakapapa",
+        "He hokinga ki tōna iwi i whakapono i taua wā",
+        "He wikitoria i runga i tētahi rangatira nanakia"
+      ],
+      "answer": "He hokinga ki tōna iwi i whakapono i taua wā"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

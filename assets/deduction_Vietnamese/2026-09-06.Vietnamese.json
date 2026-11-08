@@ -1,0 +1,61 @@
+{
+  "title": "Kẻ bị ruồng bỏ của Con Bò Vàng",
+  "intro": "Một nhân vật được nhắc đến trong kinh Quran đã dẫn dắt một đám đông lớn lạc lối trong thời gian vắng bóng của một vị tiên tri cao quý. Một vật phẩm được chế tác từ vàng đã chiếm được trái tim của cả một dân tộc — nhưng câu chuyện về cá nhân này kết thúc trong sự cô độc và một lời nguyền kỳ lạ. Kẻ bị ruồng bỏ này là ai?",
+  "clues": [
+    "Tôi xuất hiện trong thời điểm vắng mặt của một vị tiên tri vĩ đại, người đã thăng thiên để nhận được sự hướng dẫn thiêng liêng.",
+    "Tôi đã khiến rất nhiều người lạc lối bởi một thứ do chính tay mình tạo ra.",
+    "Tác phẩm bằng vàng mà tôi tạo ra dường như có sự sống, phát ra những âm thanh mê hoặc những người đi theo nó.",
+    "Tôi khẳng định mình đã nhìn thấy những điều mà người khác không thể thấy – một cái nhìn thoáng qua về thế giới vô hình.",
+    "Tôi đã rút ra một điều gì đó từ dấu vết của sứ giả thần thánh và đúc nó vào kim loại nóng chảy.",
+    "Tôi bị kết án phải lang thang một mình, với một lời nguyền độc nhất vô nhị: không ai được chạm vào da tôi và tôi cũng không được chạm vào da họ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Pharaoh (Fir'awn)",
+        "Abu Lahab",
+        "Tiên tri Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Đã tạo ra con bê vàng để thờ cúng.",
+        "Xây dựng một tòa tháp vươn tới trời cao",
+        "Thách thức các pháp sư Ai Cập",
+        "Dẫn đầu một đội quân với những sinh vật biết bay.",
+        "Chia đôi mặt trăng như bằng chứng của lời tiên tri"
+      ],
+      "answer": "Đã tạo ra con bê vàng để thờ cúng."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Con bê vàng",
+        "Một cây gậy biến thành rắn",
+        "Một bụi cây bốc cháy trên núi",
+        "Một con thuyền nằm trên đỉnh núi",
+        "Một chiến hào ngập tràn lửa cháy."
+      ],
+      "answer": "Con bê vàng"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Bị lưu đày, bị cấm chạm vào người khác hoặc chạm vào người khác.",
+        "Chết đuối trên biển cùng với một đội quân.",
+        "Bị thiêu sống vì từ chối đức tin",
+        "Bị quật ngã bởi một cơn gió dữ dội, gào thét.",
+        "Được tha thứ và được nâng lên vị trí cao."
+      ],
+      "answer": "Bị lưu đày, bị cấm chạm vào người khác hoặc chạm vào người khác."
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

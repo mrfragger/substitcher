@@ -1,0 +1,61 @@
+{
+  "title": "Sauti ya Kimya ya Bonde",
+  "intro": "Rudi nyuma katika wakati hadi kwa watu wenye nguvu ambao hapo awali walipokea muujiza hai kama jaribio. Kiburi na ukaidi vilifunga hatima yao. Je, unaweza kufuatilia hadithi na kugundua kilichotokea katika hatua hii ya mabadiliko makubwa?",
+  "clues": [
+    "Nilitumwa kama jaribio la kimungu kwa watu wenye nguvu wanaojulikana kwa nguvu na ukaidi wao.",
+    "Nilikuwa ajabu ya kipekee—watu kama mimi hawakuwahi kuonekana miongoni mwao.",
+    "Nilishiriki maji ya kunywa kutoka kisimani na watu wangu kwa siku tofauti.",
+    "Walionywa kwamba madhara yoyote dhidi yangu yangeleta adhabu ya haraka.",
+    "Jasiri zaidi kati yao walipuuza onyo hilo na kuniuma.",
+    "Baada ya kifo changu, kilio kimoja cha radi kutoka juu kiliwaangamiza watu wangu wote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Ngamia Jike wa Salih",
+        "Ng'ombe wa Musa",
+        "Meli ya Nuh",
+        "Fimbo ya Musa",
+        "Kiti cha Enzi cha Bilqis"
+      ],
+      "answer": "Ngamia Jike wa Salih"
+    },
+    "trial": {
+      "label": "Hatima Yangu",
+      "options": [
+        "Alikatwa mshipa na kuuawa",
+        "Kuchinjwa kama dhabihu",
+        "Alibadilika kuwa nyoka",
+        "Imehifadhiwa wakati wa mafuriko makubwa",
+        "Kufikishwa haraka katika ufalme"
+      ],
+      "answer": "Alikatwa mshipa na kuuawa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kisima cha maji",
+        "Kibao cha mawe",
+        "Kichaka kinachowaka moto",
+        "Sanduku la mbao",
+        "Kiti cha enzi cha dhahabu na fedha"
+      ],
+      "answer": "Kisima cha maji"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imeharibiwa na kilio kimoja",
+        "Kuzama katika mafuriko makubwa",
+        "Imechomwa na mvua ya mawe",
+        "Imepigwa na upepo mkali",
+        "Imemezwa na ardhi"
+      ],
+      "answer": "Imeharibiwa na kilio kimoja"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "U sjeni datuljine palme",
+  "intro": "Priča se odvija o duši odvojenoj prije rođenja, odgojenoj unutar svetih zidova i odabranoj da nosi znak kakav svijet nikada prije nije vidio. Kada su se optužbe pojavile sa svih strana, glas se začuo s najnevjerovatnijeg mjesta kako bi utišao svaku sumnju. Možete li otkriti ko je hodao ispod sjene palme datule?",
+  "clues": [
+    "Bio sam posvećen službi Svemogućeg prije nego što sam uopće udahnuo, zavjet koji je dao onaj koji me je nosio.",
+    "Odrastao sam pod budnim nadzorom pravednog čuvara u svetim odajama mjesta bogosluženja.",
+    "Kad god bi moj čuvar došao u moju odaju, nalazio bi kod mene namirnice iz godišnjih doba koja nisu trebala biti.",
+    "Dobio sam radosnu vijest o sinu, iako moje okolnosti nisu ostavljale mjesta za ono što je obećano.",
+    "Povukao sam se na udaljeno mjesto, a tamo mi je palma datulja pružala hlad dok je ispod tekao potok.",
+    "Kada su stigle optužbe i pitanja me okružila, pokazala sam na svoje novorođenče - i ono je progovorilo od kolijevke kako bi utišalo svaku sumnju."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Marjam",
+        "Sara",
+        "Hava",
+        "Umm Musa",
+        "Nuhova žena"
+      ],
+      "answer": "Marjam"
+    },
+    "trial": {
+      "label": "Probno razdoblje / Događaj",
+      "options": [
+        "Rađanje čudesnog sina u izolaciji",
+        "Biti bačen u plamteću vatru od strane idolopoklonika",
+        "Preživljavanje velike poplave s nekolicinom odabranih",
+        "Biti odvojen od dojenčeta bačenog u rijeku",
+        "Suočavanje s moćnim vladarom Egipta"
+      ],
+      "answer": "Rađanje čudesnog sina u izolaciji"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Datulja i potok koji teče ispod nje",
+        "Moćna arka na visokim valovima",
+        "Štap koji je podijelio veliko more na dva dijela",
+        "Plamteća vatra namijenjena da proguta vjernu dušu",
+        "Zlatni tron ​​ukrašen dragim kamenjem"
+      ],
+      "answer": "Datulja i potok koji teče ispod nje"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Poštovana kao najuzvišenija od svih žena",
+        "Ponovo ujedinjeni sa voljenim djetetom nakon duge razdvojenosti",
+        "Izveo je cijelu naciju iz ropstva tiranina",
+        "Upozorio je narod izgubljen u nemoralu",
+        "Dodijeljena mu je vlast nad džinima, ljudima i vjetrovima"
+      ],
+      "answer": "Poštovana kao najuzvišenija od svih žena"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

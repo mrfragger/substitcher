@@ -1,0 +1,61 @@
+{
+  "title": "Tidur Melampaui Masa",
+  "intro": "Bayangkan suatu masa apabila kebenaran dibungkam dan orang yang beriman diburu. Sekumpulan kecil memilih untuk berundur daripada menyerah kalah, mencari perlindungan di tempat yang paling tidak dijangka — tempat yang akan menjadi tempat rehat mereka selama berabad-abad yang tidak terkira banyaknya. Apabila mereka akhirnya terjaga, dunia telah berubah di sekeliling mereka. Siapakah jiwa-jiwa yang sedang tidur ini?",
+  "clues": [
+    "Kami adalah anak muda yang tinggal di sebuah bandar purba.",
+    "Komuniti kami menuntut agar kami beribadah bersama mereka, tetapi kami menolak.",
+    "Kami melarikan diri dari bandar itu untuk mencari perlindungan daripada mereka yang menentang kepercayaan kami.",
+    "Seorang teman berkaki empat yang setia tinggal di pintu masuk tempat persembunyian kami.",
+    "Allah menyebabkan kita tidur selama tiga ratus sembilan tahun.",
+    "Apabila kami akhirnya terjaga, kota kami yang pernah menganiaya telah memeluk agama Kristian."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Asy-Shab al-Kahf (Penghuni Gua)",
+        "Ashab al-Fil (Tentera Gajah)",
+        "Ashab al-Ukhdud (Para Penghuni Khandaq)",
+        "Hawariyyun (Murid-murid Isa)",
+        "Yajuj wa Majuj (Ya’juj dan Ma’juj)"
+      ],
+      "answer": "Asy-Shab al-Kahf (Penghuni Gua)"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Kami berundur ke dalam gua dan tidur selama berabad-abad",
+        "Kami diselamatkan daripada api yang marak",
+        "Kami ditelan oleh seekor ikan besar",
+        "Kita diuji dengan unta betina yang ajaib",
+        "Kami diberi sembilan petanda yang jelas"
+      ],
+      "answer": "Kami berundur ke dalam gua dan tidur selama berabad-abad"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Gua yang dalam di pergunungan",
+        "Sebuah bot di laut lepas",
+        "Sebuah struktur yang menjulang tinggi menjulang ke langit",
+        "Sebuah taman yang dibahagikan antara dua pesaing",
+        "Penghalang besi dan tembaga"
+      ],
+      "answer": "Gua yang dalam di pergunungan"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Kami terbangun dan mendapati bandar kami telah beralih kepada iman",
+        "Api yang marak menjadi sejuk dan damai",
+        "Tentera musuh telah lemas di laut",
+        "Burung-burung yang membawa batu memusnahkan musuh",
+        "Seekor ikan besar melepaskan kami ke pantai"
+      ],
+      "answer": "Kami terbangun dan mendapati bandar kami telah beralih kepada iman"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

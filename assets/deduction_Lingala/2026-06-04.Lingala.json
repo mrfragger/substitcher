@@ -1,0 +1,61 @@
+{
+  "title": "Elembo Kati na Mabanga",
+  "intro": "Na mboka oyo bazalaki koyema bangomba na bandako, momemi-nsango moko akómaki na elembo moko ya kokamwa oyo euti na Allah. Bato basɛngaki bilembeteli, mpe bazwaki ekelamu moko oyo euti na mabanga ya makasi. Kasi lolendo na bango etindaki bango báboya likebisi yango, mpe etyaki elembo na nsuka na bango.",
+  "clues": [
+    "Batindaki ngai epai ya bato moko oyo bazalaki kofanda na bandako oyo eyemami na bangomba.",
+    "Batyaki ngai ntembe ete namema elembo, yango wana nabimisaki kamela na libanga.",
+    "Napesaki bango mitindo ete bátika kamela emɛla na bonsomi nyonso mpe básala yango mabe te.",
+    "Baboyaki botosi mpe bakangaki kamela na makolo, kozangaka likebisi na ngai.",
+    "Nayebisaki ete etumbu ekoya nsima ya mikolo misato.",
+    "Na ntɔngɔ, mopɛpɛ moko makasi ebebisaki bango, kasi ngai ná balandi na ngai tobikisamaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Salih",
+        "Mosakoli Hud",
+        "Mosakoli Luta",
+        "Mosakoli Shu'ayb",
+        "Mosakoli Ibrahim"
+      ],
+      "answer": "Mosakoli Salih"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bosenga ya kamela ya mwasi oyo euti na libanga",
+        "Bosenga ya mwana ya ngɔmbɛ ya wolo",
+        "Bosenga ya mesa epalangani uta na lola",
+        "Bosenga ya mpela",
+        "Bosenga ya lingenda mpo ekoma nyoka"
+      ],
+      "answer": "Bosenga ya kamela ya mwasi oyo euti na libanga"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Kamela ya mwasi mpe mwana na ye ya ngɔmbɛ",
+        "Sanduku ya Noa",
+        "Likonzí ya Moize",
+        "Mwana ya Ngombe ya Wolo",
+        "Moto ya Ibrahim"
+      ],
+      "answer": "Kamela ya mwasi mpe mwana na ye ya ngɔmbɛ"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ebebisamaki na mopɛpɛ moko ya makasi",
+        "Azindaki na mpela",
+        "Emelami na mabele",
+        "Ebongwanaki na ba singes",
+        "Babebisamaki na mopɛpɛ makasi"
+      ],
+      "answer": "Ebebisamaki na mopɛpɛ moko ya makasi"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

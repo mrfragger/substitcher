@@ -1,0 +1,61 @@
+{
+  "title": "Umakhi Wemiqobo",
+  "intro": "Kumazwe amakhulu, umntu onamandla waqalisa uthotho lweehambo, wanika igunya elikhulu kunye nezixhobo. Lo mphefumlo wadibana neentlanga ezahlukeneyo waza wajongana nemingeni eyahlukileyo, washiya uphawu oluhlala luhleli kwimbali nokholo ngezenzo zabo nobulumko babo, konke oku ngelixa bevuma umthombo wokwenene wamandla abo.",
+  "clues": [
+    "Ndanikwa amandla nezixhobo phezu kwayo yonke into, ndaza ndalandela indlela.",
+    "Uhambo lwam lundiyise kwindawo etshona ilanga, apho ndafumana khona abantu.",
+    "Ndidibene noluntu olwalungaqondi kakuhle intetho, oluhlala phakathi kweentaba ezimbini.",
+    "Ndicelwe ukuba ndakhe umqobo, kungekhona ngenxa yenzuzo yam, kodwa ukuze ndikhuseleke kumandla atshabalalisayo.",
+    "Ndathi amandla okwakha olu donga lukhulu avela ku-Allah, kwaye aya kuhlala ekho kude kube lixesha elithembisiweyo.",
+    "Igama lam, elidla ngokuguqulelwa ngokuthi 'Oneempondo Ezimbini,' lithetha ukufikelela kwam emhlabeni okanye mhlawumbi amaxesha amabini ahlukeneyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uMusa",
+        "Umprofeti uSulayman",
+        "Dhul-Qarnayn",
+        "UFaro",
+        "uLuqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukufumana isityhilelo",
+        "Ukujongana nomtyholi",
+        "Ukwakha inqanawa enkulu",
+        "Ukwakha umqobo omkhulu",
+        "Ukuginywa yintlanzi"
+      ],
+      "answer": "Ukwakha umqobo omkhulu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Abasebenzi",
+        "Umqobo wesinyithi",
+        "UMlambo iNayile",
+        "Itrone"
+      ],
+      "answer": "Umqobo wesinyithi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Usindiso kwisikhukula",
+        "Ukuba bubukumkani obukhulu",
+        "Ukhuseleko lwabantu",
+        "Ukutshatyalaliswa komcinezeli",
+        "Ubulumko obuhlala buhleli"
+      ],
+      "answer": "Ukhuseleko lwabantu"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

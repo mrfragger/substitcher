@@ -1,0 +1,61 @@
+{
+  "title": "Patientia quae dolorem superavit",
+  "intro": "Presbyter cuius patientia legendaria facta est, cuius visio dolore evanuit, cuius tamen fides in divinum consilium numquam vacillavit. Hic vir duodecim filios in fundamenta tribuum crescere vidit, dolorem filii dilectissimi pertulit, et symbolum aeternum pulchrae patientiae in facie doloris immensi factus est. Anima venerata cuius historia per paginas revelationis narratur. Potesne hanc figuram ex Alcorano agnoscere?",
+  "clues": [
+    "Propheta fui cuius historia in sura quadam maiori Corani accurate narratur.",
+    "Duodecim filios habui, qui patres tribuum Bani Israel facti sunt.",
+    "Filiis meis dixi ut per diversas portas intrarent, ne ut unus populus agnoscerentur.",
+    "Oculi mei callescerunt ex perpetuo fletu super dilectum filium mihi abductum.",
+    "Nolui desperare, etiam cum alii filii me hortati sunt, dicentes me solum apud Deum queri.",
+    "Pater sum prophetae Yusuf, cuius ipsum nomen \"augmentatorem\" Arabice significat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Yaqub (Iacob)",
+        "Propheta Iosue",
+        "Propheta Ibrahim",
+        "Propheta Musa",
+        "Propheta Dawud"
+      ],
+      "answer": "Propheta Yaqub (Iacob)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Amissio filii dilecti puteo",
+        "Magnum diluvium quod totum populum absorbuit",
+        "Migratio ex regno ignem colente",
+        "Conflictus cum potenti tyranno Aegypti",
+        "Exilium ad ventrem balaenae"
+      ],
+      "answer": "Amissio filii dilecti puteo"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Tunica falso sanguine maculata",
+        "Baculus qui in serpentem conversus est",
+        "Arca in monte aedificata",
+        "Camelus e rupe sculptus",
+        "Vitulus aureus"
+      ],
+      "answer": "Tunica falso sanguine maculata"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Visus restitutus cum tunica filii dilecti super faciem posita est",
+        "Salus post proiectionem in ventrem piscis magni",
+        "Accipiendo titulum Khalilullah ab Allah",
+        "Trans mare cum populo a servitute liberato",
+        "Arcus caelestis post diluvium apparens ut signum spei"
+      ],
+      "answer": "Visus restitutus cum tunica filii dilecti super faciem posita est"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

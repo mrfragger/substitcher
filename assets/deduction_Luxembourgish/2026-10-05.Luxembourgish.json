@@ -1,0 +1,61 @@
+{
+  "title": "D'Vertrauen, dat dem Floss uvertraut gouf",
+  "intro": "Eng Séil stoung virun engem onméiglechen Uerteel, wou d'Liewe vun engem Neigebuerenen op der Gläichgewiicht hänkt. Geféiert vun der göttlecher Inspiratioun gouf engem verzweifelten Uerder gefollegt, an e wäertvollt Geheimnis gouf op d'Stroumung bruecht, nëmme fir op eng onvirgesinn Aart a Weis zréckzekommen.",
+  "clues": [
+    "Ech hunn ënner dem Schiet vun engem Tyrann gelieft, deen d'Ermuerdung vun neigebuerene Männercher befaol huet.",
+    "Eng göttlech Inspiratioun koum zu mir, déi mech uginn huet, eng verzweifelt an häerzzeräissend Handlung ze maachen.",
+    "Ech hunn mäi léift Puppelchen an eng Këscht geluecht an et op de fléissende Floss gesat.",
+    "Mäin Häerz ass eidel ginn, an ech hunn bal d'Geheimnis verroden, awer Allah huet mäin Entschlossenheet gestäerkt.",
+    "Ech hunn een geschéckt, fir dem Kand senger Rees flussof ze verfollegen, wéi d'Stréimung d'Broscht matgedroen huet.",
+    "D'Kand gouf vum Stot vum Tyrann fonnt, an schliisslech gouf ech mat mengem Kand erëm vereenegt a gouf Kannermeedchen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Mamm vum Prophet Musa",
+        "Asiya (Fra vum Pharao)",
+        "Maryam (Mamm vum Prophet Isa)",
+        "D'Fra vum Prophet Lut",
+        "D'Mamm vum Prophet Yahya (Fra vum Zakariya)"
+      ],
+      "answer": "Mamm vum Prophet Musa"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Si huet hiert Kand an eng Këscht geluecht an et um Floss gesat",
+        "Si huet hiert Kand an enger Hiel verstoppt",
+        "Si huet hiert Kand an der Wüst verlooss",
+        "Si huet hiert Kand an d'Feier gehäit",
+        "Si huet hiert Kand virun der Dier vun enger Moschee gelooss"
+      ],
+      "answer": "Si huet hiert Kand an eng Këscht geluecht an et um Floss gesat"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng Këscht, déi um Floss schwamme gesat gouf",
+        "E brennende Busch",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "En Dësch gedeckt mat Iessen aus dem Himmel",
+        "E Kamel als Zeeche geschéckt"
+      ],
+      "answer": "Eng Këscht, déi um Floss schwamme gesat gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Si gouf mat hirem Kand erëm vereenegt a si huet et gefleegt",
+        "Si huet hiert Kand ni méi gesinn",
+        "Si gouf vum Tyrann higeriicht",
+        "Si gouf Kinnigin an Ägypten",
+        "Si ass an en anert Land geplënnert a lieft am Exil"
+      ],
+      "answer": "Si gouf mat hirem Kand erëm vereenegt a si huet et gefleegt"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

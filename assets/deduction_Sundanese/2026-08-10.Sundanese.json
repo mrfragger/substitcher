@@ -1,0 +1,61 @@
+{
+  "title": "Para Penjaga Panén Rahasia",
+  "intro": "Di hiji tanah anu héjo ngemploh, sakelompok jalma nyieun rencana rusiah dina kaayaan poék mongkleng. Aranjeunna miboga tujuan anu sarua, tapi niatna jauh tina bener. Aranjeunna teu nyaho yén aya kejutan ti Gusti anu ngantosan aranjeunna nalika aranjeunna keur saré.",
+  "clues": [
+    "Kami nyieun tekad anu pageuh, nganggap rencana kami teu aya cacadna.",
+    "Kami niat rék indit isuk-isuk, méméh nu séjén bisa ngagaur.",
+    "Kami ngadegkeun lahan anu subur, percaya diri kana bekel kami.",
+    "Nalika kami dugi ka tempat tujuan, kami mendakan éta tempat tandus sareng sepi, janten kami ngira yén kami parantos leungiteun jalan.",
+    "Teras kami sadar yén éta leres-leres tempat kami, teras kami ceurik putus asa, silih salahkeun kana karugian kami.",
+    "Isuk-isuk éta kami geus sumpah rék ngaluarkeun jalma-jalma miskin tina panén kami, tapi hukuman Allah datang ka kami nalika kami keur saré, ngarobah kebon kami jadi ruksak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Urang?",
+      "options": [
+        "Nu Boga Kebon dina Surah 68",
+        "Urang Saba",
+        "Para Sahabat Gua",
+        "Jalma-jalma Gajah",
+        "Jalma-jalma di Parit"
+      ],
+      "answer": "Nu Boga Kebon dina Surah 68"
+    },
+    "trial": {
+      "label": "Uji Coba Kami",
+      "options": [
+        "Kebon urang ancur ku musibah ti langit",
+        "Kebon urang kakeueum ku banjir",
+        "Kebon urang kaduruk ku seuneu ti musuh",
+        "Kebon urang pinuh ku simeut",
+        "Kebon urang kakeueum ku lini"
+      ],
+      "answer": "Kebon urang ancur ku musibah ti langit"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Kami sumpah rék metik buahna isuk-isuk",
+        "Kami ngadamel bendungan pikeun nyiram kebon kami",
+        "Kami milarian panyalindungan di guha",
+        "Kami nyiapkeun pasukan pikeun nalukkeun hiji karajaan",
+        "Kami ngalayarkeun kapal pikeun meuntas laut"
+      ],
+      "answer": "Kami sumpah rék metik buahna isuk-isuk"
+    },
+    "outcome": {
+      "label": "Nasib Urang",
+      "options": [
+        "Urang tobat sareng ngarep-ngarep rahmat ti Allah",
+        "Urang ancur sagemblengna sareng teu pernah tobat",
+        "Kami kabur ti tanah éta sareng henteu pernah uih deui",
+        "Urang jadi kuat jeung beunghar deui",
+        "Urang dihukum ku cara dirobah jadi monyét"
+      ],
+      "answer": "Urang tobat sareng ngarep-ngarep rahmat ti Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

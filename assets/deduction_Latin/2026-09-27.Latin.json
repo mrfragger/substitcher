@@ -1,0 +1,61 @@
+{
+  "title": "Hortus Qui Nocte Evanescit",
+  "intro": "Finge tibi hortum luxuriosum, fructibus maturescentibus onustum et arboribus excelsis circumdatum. Qui eum colebant, se callidos putabant, messem suam in horis quietis ante lucem, ab oculis egentium remotis, disponentes. Sed Ille qui numquam dormit alia consilia habebat pro eorum occulta largitione. Potesne divinare quis post hanc fabulam admonitoriam ex Alcorano latet?",
+  "clues": [
+    "Olim hortum tam uberem et abundantem habuimus ut omnium praetereuntium invidiae esset.",
+    "In consilio nostro, mane primo inter nos susurravimus, affirmantes nullam animam egentem eo die intrare licitum fore.",
+    "Divites eramus, et corda nostra ad iura pauperum circa nos caeca facta erant.",
+    "Cum aurora messis destinatae advenisset, hortum nostrum appropinquavimus, solum ut eum nocte in ruinam nigram transformatum invenimus.",
+    "Decretum vastans pervasit, nihil nisi cinerem relinquens ubi olim pependierant racemi fructuum maturorum.",
+    "Fabula nostra est admonitio severa in Alcorano relata, ubi cognoscimur ut domini horti qui eleemosynam egentibus subtrahebant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Domini Horti",
+        "Populus Speluncae",
+        "Discipuli Isae",
+        "Socii Silvae",
+        "Hospites Ibrahimi"
+      ],
+      "answer": "Domini Horti"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Fructus clam colligentes et pauperes excludentes",
+        "Saeculis intra speluncam dormiens",
+        "Recusantem camelam ex lapide producere",
+        "Adoratio vituli aurei in monte Sinai",
+        "Arcam magnam aedificans ad diluvium effugendum"
+      ],
+      "answer": "Fructus clam colligentes et pauperes excludentes"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Hortus saeptus palmis et vitibus plenus",
+        "Spelunca obscura in montibus profundis",
+        "Urbs a procella divina superata",
+        "Vallis sacra prope Domum Dei",
+        "Ripae fluminis fluentis"
+      ],
+      "answer": "Hortus saeptus palmis et vitibus plenus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Hortus decreto caelesti ardenti consumpsus est",
+        "Trecentos novem annos lunares placide dormierunt.",
+        "Pluvia lapidum oppressi sunt",
+        "Sub undis magnae inundationis submersi sunt",
+        "Dispersi sunt flatu frigidi et furentis venti"
+      ],
+      "answer": "Hortus decreto caelesti ardenti consumpsus est"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

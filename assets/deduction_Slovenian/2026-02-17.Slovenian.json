@@ -1,0 +1,61 @@
+{
+  "title": "Seme spora",
+  "intro": "Preden je svet spoznal obsežne konflikte, se je odvil globok preizkus vere in poslušnosti. Ta pripoved raziskuje odločitve posameznika, čigar dejanja postavljajo precedens za prihodnje generacije. Pripravite se na razplet zgodbe o duši, ki se spopada z neizmerno ljubosumnostjo in njenimi uničujočimi posledicami.",
+  "clues": [
+    "Bil sem med prvimi potomci, ki so hodili po zemlji, otrok prvega človeškega para.",
+    "Z bratom nama je bilo zapovedano, naj darovava žrtvovanje Alahu, kar je bil preizkus najine iskrenosti.",
+    "Moje daritve niso sprejeli, bratove pa so, kar je moje srce napolnilo s strašnim čustvom.",
+    "Bratu sem izrekel grozilne besede, gnan od grenkobe zavrnitve.",
+    "Moj brat se je odzval z modrostjo in pobožnostjo ter me spomnil na Alahovo pravičnost in strah pred Njim.",
+    "Kljub bratovim nežnim besedam in njegovi pripravljenosti odpustiti sem si vzel življenje in postal eden od poražencev."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Adam",
+        "Iblis",
+        "Prerok Nuh",
+        "Kabil (Kain)",
+        "Faraon"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Velika poplava",
+        "Razcep morja",
+        "Gradnja Kaabe",
+        "Darovanje žrtev",
+        "Skušnjava v vrtu"
+      ],
+      "answer": "Darovanje žrtev"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Osebje",
+        "Gora Safa",
+        "Žrtvovanje",
+        "Goreči grm"
+      ],
+      "answer": "Žrtvovanje"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal je glasnik",
+        "Utopil se je",
+        "Zgradil veliko kraljestvo",
+        "Postal je zgled obžalovanja",
+        "Bilo mu je podeljeno ogromno bogastvo"
+      ],
+      "answer": "Postal je zgled obžalovanja"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

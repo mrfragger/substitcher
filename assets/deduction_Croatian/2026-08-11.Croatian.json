@@ -1,0 +1,61 @@
+{
+  "title": "Zavjet maternice",
+  "intro": "U tihim odajama srca posvećenog Božanskom, začet je sveti zavjet. Taj se zavjet usredotočio na život koji tek treba udahnuti, a njegovo ispunjenje zauvijek će promijeniti tijek duhovnog nasljeđa. Zakoračite u misterij duše čije je obećanje odjekivalo kroz vječnost.",
+  "clues": [
+    "Živio sam u domaćinstvu poznatom po svojoj pobožnosti i žudio sam za darom koji bi me približio Allahu.",
+    "Sklopio sam svečani savez sa svojim Gospodinom u vezi s onim što je skriveno u meni, zavjetujući se da ću to u potpunosti posvetiti Njegovoj službi.",
+    "Kad je došao trenutak otkrivanja, ono što sam primio bilo je neočekivano, ali sam stvar povjerio Sveznajućem.",
+    "Dao sam svom djetetu ime koje označava odanost i molio sam za zaštitu nje i njezinih potomaka od prokletnika.",
+    "Moje dijete je bilo smješteno u sveto svetište, pod skrbništvo proroka iz Aronove loze.",
+    "Moja kći postala je poznata po svojoj čistoći i odabrana je među svim ženama, kasnije je postala majka velikog proroka, iako je ostala netaknuta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Imranova supruga",
+        "Musina majka",
+        "Žena faraona",
+        "Supruga Al-Aziza",
+        "Majka Ise"
+      ],
+      "answer": "Imranova supruga"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Zavjet da će posvetiti svoje nerođeno dijete hramu",
+        "Test strpljenja kroz dugu bolest",
+        "Putovanje u daleku zemlju radi vjere",
+        "Sukob s kraljem tiranom",
+        "Čudesna opskrba hranom s neba"
+      ],
+      "answer": "Zavjet da će posvetiti svoje nerođeno dijete hramu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dijete po imenu Maryam",
+        "Štap koji se pretvorio u zmiju",
+        "Zlatno tele",
+        "Zemzamov bunar",
+        "Noina arka"
+      ],
+      "answer": "Dijete po imenu Maryam"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Njeno dijete je prihvatio Allah i odraslo je pod proročanskom skrbi.",
+        "Njeno dijete je postalo prorok i primilo je Sveto pismo",
+        "Njeno dijete je uzneseno u nebesa",
+        "Njeno dijete je sagradilo svetu kuću",
+        "Njeno dijete je dobilo neizmjernu mudrost i bogatstvo"
+      ],
+      "answer": "Njeno dijete je prihvatio Allah i odraslo je pod proročanskom skrbi."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

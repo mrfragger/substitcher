@@ -1,0 +1,61 @@
+{
+  "title": "Abalaleli Abavela Kokungabonwayo",
+  "intro": "Ngale kwesihenqo sezwe elibonakalayo, umhlangano ofihliwe wawubuthene ebumnyameni, udonseleka emsindweni owawuphikisa konke ababekwazi. Babezulazule iminyaka eminingi bengenaso isiqondiso seqiniso, kwaze kwaba yilapho izwi lihlaba ekuthuleni kombuso wabo ongabonakali futhi lishukumisa okuthile okujulile ngaphakathi. Namuhla ebusuku, umenywa ukuba udlule emthunzini futhi wembule ukuthi ungubani leli qembu eliyimfihlakalo, ukuhlangana kwalo namazwi aphezulu kwabaholela emuva kubantu balo njengezixwayiso zeqiniso elingenakuvinjelwa.",
+  "clues": [
+    "Siyizidalwa zasendulo, ezazikhona kudala ngaphambi kwezizwe eziningi oke wafunda ngazo, kodwa akuvamile ukuthi kukhulunywe ngathi ezindabeni zabantu.",
+    "Imvelo yethu ayifani neyakho, ithungwe ngezinto ezingabonakali, futhi sinamandla aphikisana nokujwayelekile.",
+    "Sekuyisikhathi eside sizulazula ngaphandle kwesiqondiso sangempela, kwaze kwaba yilapho kufika umsindo kithi owawushukumisa okuthile okujulile ngaphakathi.",
+    "Sezwa ukuphindaphindwa okungenakuqhathaniswa esake sakuzwa, amazwi ayenesisindo esingaphezu kwanoma iyiphi inkulumo.",
+    "Sasondela ngasese, sayala abethu ukuba bathule, kwathi lapho amavesi ephela, asikwazanga ukuhlala sithule.",
+    "Sabuyela kubantu bakithi sathi: 'O bantu bakithi, sizwile incwadi eyambulwa ngemva kukaMose, iqinisekisa okwakungaphambi kwayo, iqondisa eqinisweni.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "I-Hawariyyun (Abafundi baka-Isa)",
+        "AmaJinn akholwa ngemva kokuzwa iQuran",
+        "Abangane Bomhume",
+        "Izingelosi zezulu eliphansi kakhulu",
+        "Abantu bakaFaro abalandela indlela yakhe"
+      ],
+      "answer": "AmaJinn akholwa ngemva kokuzwa iQuran"
+    },
+    "trial": {
+      "label": "Icala / Umcimbi",
+      "options": [
+        "Saxoshwa ngenxa yokwenqaba ukukhothama phambi kwesidalwa esisanda kudalwa",
+        "Savalelwa emhumeni iminyaka engamakhulu amathathu nesishiyagalolunye",
+        "Sayalwa ukuba siwele ulwandle olwahlukana phambi kwethu",
+        "Sathunyelwa ezweni lemilingo ukuyofunda ubuthakathi",
+        "Salalela ukulandisa ngasese futhi saguqulwa yikho"
+      ],
+      "answer": "Salalela ukulandisa ngasese futhi saguqulwa yikho"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ithole legolide elenziwe ngemihlobiso yabantu",
+        "Umhume lapho ubuthongo buhlala khona izizukulwane ngezizukulwane",
+        "Izingelosi ezimbili eBhabhiloni ezazifundisa ulwazi olunqatshelwe",
+        "Incwadi eyambulwa ngemva kukaMose, eqinisekisa iTorah",
+        "Isihlahla esivuthayo phezu kwentaba engcwele"
+      ],
+      "answer": "Incwadi eyambulwa ngemva kukaMose, eqinisekisa iTorah"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Saqalekiswa kuze kube uSuku Lokwahlulela",
+        "Savukela umbusi onamandla futhi sakha umgoqo ezweni",
+        "Saguqulwa saba yizinkawu nezingulube",
+        "Sabuyela kubantu bethu njengezixwayiso, simemezela inkolelo",
+        "Sacwila olwandle kanye nomholi wethu"
+      ],
+      "answer": "Sabuyela kubantu bethu njengezixwayiso, simemezela inkolelo"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

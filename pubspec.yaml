@@ -1,7 +1,7 @@
 name: substitcher
 description: opus chaptered audiobook player and encoder with colored vtt subtitles and fancy fonts, Quran vtt translations, video and audio editor
 publish_to: "none"
-version: 26.11.07
+version: 26.11.08
 
 environment:
   sdk: ">=3.13.0 <4.0.0"
@@ -91,6 +91,17 @@ flutter_launcher_icons:
 flutter:
   uses-material-design: true
 
+  fonts:
+    - family: CustomFonts
+      fonts:
+        - asset: assets/fonts/0xProto.otf
+    - family: ScheherazadeNew
+      fonts:
+        - asset: assets/fonts/ScheherazadeNew-Regular.woff2
+    - family : Amiri Quran
+      fonts:
+        - asset: assets/fonts/AmiriQuran-Regular.ttf
+
   assets:
     - assets/adhanclock/
     - assets/alif/
@@ -108,14 +119,125 @@ flutter:
     - assets/tafsir_index/baghawi.bin
     - assets/tafsir_index/katheer.bin
     - assets/tafsir_index/kathir.bin
-
-  fonts:
-    - family: CustomFonts
-      fonts:
-        - asset: assets/fonts/0xProto.otf
-    - family: ScheherazadeNew
-      fonts:
-        - asset: assets/fonts/ScheherazadeNew-Regular.woff2
-    - family : Amiri Quran
-      fonts:
-        - asset: assets/fonts/AmiriQuran-Regular.ttf
+    - assets/deduction_Acehnese/
+    - assets/deduction_Afrikaans/
+    - assets/deduction_Albanian/
+    - assets/deduction_all/
+    - assets/deduction_Amharic/
+    - assets/deduction_Arabic/
+    - assets/deduction_Armenian/
+    - assets/deduction_Assamese/
+    - assets/deduction_Aymara/
+    - assets/deduction_Azerbaijani/
+    - assets/deduction_Bashkir/
+    - assets/deduction_Basque/
+    - assets/deduction_Belarusian/
+    - assets/deduction_Bengali/
+    - assets/deduction_Bhojpuri/
+    - assets/deduction_Bosnian/
+    - assets/deduction_Breton/
+    - assets/deduction_Bulgarian/
+    - assets/deduction_Burmese/
+    - assets/deduction_Cantonese/
+    - assets/deduction_Catalan/
+    - assets/deduction_Cebuano/
+    - assets/deduction_Chinese_Simplified/
+    - assets/deduction_Chinese_Traditional/
+    - assets/deduction_Croatian/
+    - assets/deduction_Czech/
+    - assets/deduction_Danish/
+    - assets/deduction_Dari/
+    - assets/deduction_Dutch/
+    - assets/deduction_English/
+    - assets/deduction_Esperanto/
+    - assets/deduction_Estonian/
+    - assets/deduction_Filipino_Tagalog/
+    - assets/deduction_Finnish/
+    - assets/deduction_French/
+    - assets/deduction_Galician/
+    - assets/deduction_Georgian/
+    - assets/deduction_German/
+    - assets/deduction_Greek/
+    - assets/deduction_Guarani/
+    - assets/deduction_Gujarati/
+    - assets/deduction_Haitian_Creole/
+    - assets/deduction_Hausa/
+    - assets/deduction_Hebrew/
+    - assets/deduction_Hindi/
+    - assets/deduction_Hungarian/
+    - assets/deduction_Icelandic/
+    - assets/deduction_Igbo/
+    - assets/deduction_Indonesian/
+    - assets/deduction_Irish/
+    - assets/deduction_Italian/
+    - assets/deduction_Japanese/
+    - assets/deduction_Javanese/
+    - assets/deduction_Kannada/
+    - assets/deduction_Kapampangan/
+    - assets/deduction_Kazakh/
+    - assets/deduction_Khmer/
+    - assets/deduction_Konkani/
+    - assets/deduction_Korean/
+    - assets/deduction_Kurdish_Kurmanji/
+    - assets/deduction_Kurdish_Sorani/
+    - assets/deduction_Kyrgyz/
+    - assets/deduction_Lao/
+    - assets/deduction_Latin/
+    - assets/deduction_Latvian/
+    - assets/deduction_Lingala/
+    - assets/deduction_Lithuanian/
+    - assets/deduction_Lombard/
+    - assets/deduction_Luxembourgish/
+    - assets/deduction_Macedonian/
+    - assets/deduction_Maithili/
+    - assets/deduction_Malagasy/
+    - assets/deduction_Malay/
+    - assets/deduction_Malayalam/
+    - assets/deduction_Maltese/
+    - assets/deduction_Maori/
+    - assets/deduction_Marathi/
+    - assets/deduction_Mongolian/
+    - assets/deduction_Nepali/
+    - assets/deduction_Norwegian/
+    - assets/deduction_Occitan/
+    - assets/deduction_Oromo/
+    - assets/deduction_Pangasinan/
+    - assets/deduction_Pashto/
+    - assets/deduction_Persian/
+    - assets/deduction_Polish/
+    - assets/deduction_Portuguese_Brazil/
+    - assets/deduction_Portuguese_Portugal/
+    - assets/deduction_Punjabi/
+    - assets/deduction_Quechua/
+    - assets/deduction_Romanian/
+    - assets/deduction_Russian/
+    - assets/deduction_Sanskrit/
+    - assets/deduction_Serbian/
+    - assets/deduction_Sicilian/
+    - assets/deduction_Sinhala/
+    - assets/deduction_Slovak/
+    - assets/deduction_Slovenian/
+    - assets/deduction_Southern_Sotho/
+    - assets/deduction_Spanish/
+    - assets/deduction_Sundanese/
+    - assets/deduction_Swahili/
+    - assets/deduction_Swedish/
+    - assets/deduction_Tajik/
+    - assets/deduction_Tamil/
+    - assets/deduction_Tatar/
+    - assets/deduction_Telugu/
+    - assets/deduction_Thai/
+    - assets/deduction_Tsonga/
+    - assets/deduction_Tswana/
+    - assets/deduction_Turkish/
+    - assets/deduction_Turkmen/
+    - assets/deduction_Ukrainian/
+    - assets/deduction_Urdu/
+    - assets/deduction_Uyghur/
+    - assets/deduction_Uzbek/
+    - assets/deduction_Vietnamese/
+    - assets/deduction_Welsh/
+    - assets/deduction_Wolof/
+    - assets/deduction_Xhosa/
+    - assets/deduction_Yiddish/
+    - assets/deduction_Zulu/

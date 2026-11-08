@@ -1,0 +1,61 @@
+{
+  "title": "Gwas Uchel Allah",
+  "intro": "Rydych chi'n clywed sibrydion am ffigur o'r hen amser, gwas Allah a ddyrchafwyd i safle uwchlaw'r cyffredin. Roedd yr unigolyn hwn yn adnabyddus am amynedd diysgog a gwirionedd llwyr, ac fe'i hanfonwyd at bobl a drodd oddi wrth y neges. Pwy yw'r enaid dyrchafedig hwn?",
+  "clues": [
+    "Cefais fy newis gan Allah yn broffwyd ac rwyf yn cael fy sôn yn y Quran Sanctaidd.",
+    "Roeddwn i'n adnabyddus am fy amynedd a'm gwirionedd, rhinweddau y mae Allah yn eu canmol.",
+    "Gelwais ar fy mhobl i addoli'r Un Duw, ond gwrthododd llawer fi.",
+    "Dyrchafwyd fy safle gan Allah, a rhoddwyd rheng uchel i mi.",
+    "Rwy'n cael fy nghrybwyll yn aml ochr yn ochr â phroffwydi eraill fel Ismail a Dhul-Kifl.",
+    "Mae Allah yn dweud amdanaf: 'Ac fe'i codom i safle uchel.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Y Proffwyd Idris",
+        "Proffwyd Elias",
+        "Proffwyd Dhu al-Kifl",
+        "Proffwyd Al-Yasa",
+        "Proffwyd Hud"
+      ],
+      "answer": "Y Proffwyd Idris"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Galwodd ar bobl i addoli Allah",
+        "Adeiladodd yr arch",
+        "Ymladdodd yn erbyn Pharo",
+        "Cafodd ei brofi gyda salwch difrifol",
+        "Cafodd ei daflu i'r tân"
+      ],
+      "answer": "Galwodd ar bobl i addoli Allah"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Safle uchel/rheng uchel",
+        "Yr arch",
+        "Y staff",
+        "Y tân",
+        "Y ffynnon"
+      ],
+      "answer": "Safle uchel/rheng uchel"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i ddyrchafu i statws uchel",
+        "Boddi yn y llifogydd",
+        "Wedi'i lyncu gan forfil",
+        "Wedi'i achub rhag y tân",
+        "Daeth yn frenin"
+      ],
+      "answer": "Wedi'i ddyrchafu i statws uchel"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

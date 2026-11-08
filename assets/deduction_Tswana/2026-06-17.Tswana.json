@@ -1,0 +1,61 @@
+{
+  "title": "Modumo go tswa kwa Ntlheng ya Toropo",
+  "intro": "Mo motseng o o neng wa fapoga kaelo ya bomodimo, go ne ga tlhagelela motho mongwe yo o neng a le esi go tswa kwa mafelong a a kwa ntle ga toropo, a taboga ka molaetsa wa tsholofelo le tlhagiso. Moya ono o o lebetsweng o ne o tla nna letshwao le le sa khutleng la tumelo e e tlhomameng.",
+  "clues": [
+    "Ke ne ka bona barongwa ba romelwa kwa motseng wa gaetsho, mme batho ba gaetsho ba ne ba ba kgaphela kwa thoko ba re ke batho ba ba tlwaelegileng.",
+    "Ke ne ke dumela mo molaetseng wa bone mme ke utlwa boammaaruri bo utlwala mo teng ga botho jwa me.",
+    "Ke ne ka bitsa batho ba me go utlwa barongwa ba ba neng ba kopa tuelo epe.",
+    "Ke ne ka taboga go tswa kwa ntlheng e e kgakala thata ya toropo, ke leka ka bonako go dira gore ba bone lebaka.",
+    "Morafe wa me o ne wa ntsogela, mme ka bolawa, mme ka bona kagiso e e sa khutleng.",
+    "Allah o ne a nthaya a re, ‘Tsena mo Paradaiseng,’ mme ke ne ke eletsa e kete batho ba me ba ka bona tlotlo e ke e neilweng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Modumedi wa Ya-Sin",
+        "Uzair yo o botsang dipotso",
+        "Al-Khidr Mokaedi",
+        "Modumedi wa Lelapa la ga Faro",
+        "Namrud Mogateledi"
+      ],
+      "answer": "Modumedi wa Ya-Sin"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go lebana le batho ba ba sa dumeleng ba ba mmolaileng",
+        "Go latlhelwa mo molelong o o tukang",
+        "Go mediwa ke tlhapi e kgolo",
+        "Go aga araka e kgolo",
+        "Go tshaba mophato wa mogateledi"
+      ],
+      "answer": "Go lebana le batho ba ba sa dumeleng ba ba mmolaileng"
+    },
+    "location": {
+      "label": "Lefelo la Botlhokwa",
+      "options": [
+        "Ntlha e e kgakala thata ya toropo",
+        "Thaba ya Tur",
+        "Mokgatšha wa Ditshoswane",
+        "Dintshi tsa Noka ya Nile",
+        "Logaga lwa logaga"
+      ],
+      "answer": "Ntlha e e kgakala thata ya toropo"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Boswelatumelo le go tsena mo Paradaiseng ka bonako",
+        "Go falola le poloko",
+        "Tlhatlogo kwa magodimong",
+        "Go nwela mo lewatleng",
+        "Go fetoga letlapa"
+      ],
+      "answer": "Boswelatumelo le go tsena mo Paradaiseng ka bonako"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

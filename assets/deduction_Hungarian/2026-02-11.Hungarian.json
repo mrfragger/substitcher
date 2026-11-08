@@ -1,0 +1,60 @@
+{
+  "title": "A gazdagság terhe",
+  "intro": "Egy hatalmas vagyonról, egy arannyal és hatalommal ékesített életről szóló történettel állsz szemben, amely végső soron intő lecke mindazok számára, akik világi nagyságra vágynak. Vajon sikerül megfejtened ennek az alaknak a kilétét, akinek a története az időben visszhangzik, tanúbizonyságot téve a világi javak múlandó természetéről?",
+  "clues": [
+    "Egy nagy Próféta népéből származtam, de az arrogancia és az elnyomás útját választottam.",
+    "Allah mérhetetlen vagyonnal halmozott fel, olyan nagy vagyonnal, hogy kincseim kulcsai nehéz terhet jelentettek egy erős embercsoport számára.",
+    "A népem azt tanácsolta, hogy ne ujjongjak a gazdagságomon, emlékeztetve arra, hogy Allah nem szereti a dicsekvőket.",
+    "Arrogánsan azt állítottam, hogy hatalmas vagyonomat a saját tudásomnak és erőfeszítésemnek köszönhetem, nem pedig Allah áldásának.",
+    "Figyelmeztettek a romlottság ellen, és emlékeztettek arra, hogy a túlvilágot azzal keressem, amit Allah adott nekem, de én nem voltam hajlandó hallgatni rájuk, és megmaradtam a büszkeségemben.",
+    "Végül Allah elnyelt engem és a hajlékomat a földdel, és nem hagyott engem, hogy segítsek volna az Ő parancsolata ellen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "fáraó",
+        "Hámán",
+        "Qarun",
+        "Abu Laháb",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A tenger kettéhasadása",
+        "Nimród tüze",
+        "Az árvíz",
+        "A föld elnyelése",
+        "A sáskák csapása"
+      ],
+      "answer": "A föld elnyelése"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "Az aranyborjú",
+        "A kincsek/kulcsok",
+        "A Zamzam kútja"
+      ],
+      "answer": "A kincsek/kulcsok"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megadott királyság",
+        "Megmentve a pusztulástól",
+        "Elnyelte a föld",
+        "Prófétává vált",
+        "Békében halt meg"
+      ],
+      "answer": "Elnyelte a föld"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

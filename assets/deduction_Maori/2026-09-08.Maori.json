@@ -1,0 +1,61 @@
+{
+  "title": "Te Whakamātautau o te Mura Tapu",
+  "intro": "I tētahi whenua tawhito i reira kua pūmau te aroha ki ngā kōhatu whakairo i roto i ngā kāinga katoa, kotahi te tangata i tū motuhake. Nā te whakapono pumau me te tiaki a te Atua, i tūtaki rātou ki te mea i tika kia mate - ā, i haere atu rātou me te kore whara. Ka taea e koe te hura i te tuakiri o tēnei wairua whakamiharo?",
+  "clues": [
+    "I whakatipuria ahau i roto i te hunga i piko ki ngā whakapakoko i whakairohia e ō rātou ake ringa, i te whakapono he mana atua kei roto i ēnei taonga.",
+    "I taku whakahē i ō rātou whakapono, i te tuatahi ka whakakorekore rātou i ahau, engari kāore i taea e au te noho puku mō te pono i mōhiotia e au.",
+    "I te rā i huihuia mai ai rātou, i whakangaromia e ahau ā rātou whakapakoko, ā, ko te mea nui rawa i mahue iho, kāore i pāngia.",
+    "I tō rātou hokinga mai, ka kite i taku i mahi ai, ka whakahaua e ō rātou kaiārahi kia hanga he tahunga nui, i te whakaaro kia maka ahau ki roto i te mura.",
+    "I maka ahau e rātou ki roto i te ahi mura, engari i whakahau te Ariki o ngā ao kia matao, kia haumaru hoki mōku.",
+    "I puta mai ahau i roto i te mura, kāore he whara i pā ki ahau, ko te hunga i whakatakoto whakaaro mōku i tūtaki ki te whakangaromanga rawa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Ihāperama",
+        "Poropiti a Mohi",
+        "Poropiti a Noa",
+        "Poropiti a Ihaia",
+        "Poropiti a Yusuf"
+      ],
+      "answer": "Poropiti Ihāperama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te maka ki roto i te ahi mura",
+        "Te horomia e te tohorā nui",
+        "Te ora i te waipuke nui",
+        "Te maka ki roto i te poka hohonu",
+        "Te tūtaki ki ngā tohunga makutu a te kingi"
+      ],
+      "answer": "Te maka ki roto i te ahi mura"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He puranga rakau nui e mura ana",
+        "He āaka rakau nui",
+        "He whakapakoko kuao kau koura",
+        "He kete e mānu ana i runga i te awa",
+        "He torona whakahīhī"
+      ],
+      "answer": "He puranga rakau nui e mura ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I meinga e Allah te ahi kia mātao, kia haumaru hoki",
+        "I tau haumaru te āraka ki runga i te maunga",
+        "I rewa te whakapakoko koura i mua i ō rātou kanohi",
+        "I toremi te rangatira me tana ope taua ki te moana",
+        "I whakahokia te tirohanga a te matapo"
+      ],
+      "answer": "I meinga e Allah te ahi kia mātao, kia haumaru hoki"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

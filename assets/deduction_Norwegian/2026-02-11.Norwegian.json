@@ -1,0 +1,60 @@
+{
+  "title": "Rikdommens byrde",
+  "intro": "Du står foran en fortelling om enorm rikdom, et liv utsmykket med gull og makt, men til syvende og sist en advarende lekse for alle som søker verdslig storhet. Kan du nøste opp identiteten til denne skikkelsen hvis historie gir gjenlyd gjennom tiden, et vitnesbyrd om den flyktige naturen til verdslige eiendeler?",
+  "clues": [
+    "Jeg var fra folket til en stor profet, men jeg valgte en vei av arroganse og undertrykkelse.",
+    "Allah skjenket meg enorm rikdom, så mye at nøklene til skattene mine var en tung byrde for en sterk gruppe menn.",
+    "Mitt folk rådet meg til ikke å juble over rikdommen min, og minnet meg på at Allah ikke elsker de jublende.",
+    "Jeg hevdet arrogant at min enorme formue skyldtes min egen kunnskap og innsats, ikke en velsignelse fra Allah.",
+    "Jeg ble advart mot korrupsjon og minnet på å søke det hinsidige med det Allah hadde gitt meg, men jeg nektet å lytte og fortsatte i min stolthet.",
+    "Til slutt lot Allah jorden sluke meg og min bolig, og etterlot meg uten hjelpere mot Hans befaling."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Farao",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Havets splittelse",
+        "Nimrods ild",
+        "Flommen",
+        "Jordens svelging",
+        "Gresshoppeplagen"
+      ],
+      "answer": "Jordens svelging"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Arken",
+        "De ansatte",
+        "Den gylne kalven",
+        "Skattene/Nøklene",
+        "Zamzams brønn"
+      ],
+      "answer": "Skattene/Nøklene"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Innvilget kongedømme",
+        "Reddet fra ødeleggelse",
+        "Svelget av jorden",
+        "Ble en profet",
+        "Døde fredelig"
+      ],
+      "answer": "Svelget av jorden"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

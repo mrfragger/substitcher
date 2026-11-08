@@ -1,0 +1,61 @@
+{
+  "title": "Ymwelwyr Rhyfedd Dinas Gaerog",
+  "intro": "Cyrhaeddodd grŵp giatiau dinas nad oedd ei phobl erioed wedi gwybod y gwir. Daethant â neges, ond trodd y trigolion yn elyniaethus, gan fygwth trais. Eto, o le annisgwyl, cododd un llais i amddiffyn y dieithriaid, gan baratoi'r llwyfan ar gyfer tro dramatig mewn digwyddiadau.",
+  "clues": [
+    "Aethom i mewn i ddinas yr oedd ei phobl wedi'u hamgylchynu gan anghrediniaeth.",
+    "Edrychon nhw arnom ni gyda amheuaeth a dweud, 'Dim ond bodau cyffredin fel ni ydych chi.'",
+    "Fe wnaethon ni eu rhybuddio, ond fe godon nhw gerrig yn ein herbyn.",
+    "Rhuthrodd dyn o ben pellaf y ddinas i gadarnhau ein gwirionedd.",
+    "Datganodd wrth ei bobl, 'Pam na ddylwn i addoli'r Un a'm creodd i?'",
+    "Daeth gwadu’r ddinas i ben gydag un chwyth, a theyrnasodd distawrwydd lle roeddent gynt yn gwawdio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Negeswyr Ya-Sin",
+        "Disgyblion Isa",
+        "Pobl y Ffos",
+        "Dewiniaid y Pharo",
+        "Credwr Ya-Sin"
+      ],
+      "answer": "Negeswyr Ya-Sin"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Gwrthod a bygythiad o gael ei daflu â cherrig",
+        "Cael eich taflu i dân ffyrnig",
+        "Prawf o amynedd gyda phlentyn coll",
+        "Gardd a ddioddefodd ddinistr",
+        "Taith drwy'r môr"
+      ],
+      "answer": "Gwrthod a bygythiad o gael ei daflu â cherrig"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Pen pellaf y ddinas",
+        "Y Môr Coch",
+        "Ffos y tân",
+        "Ogof y lloches",
+        "Carchar yr Aifft"
+      ],
+      "answer": "Pen pellaf y ddinas"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Dinistriwyd y ddinas gan un sgrech",
+        "Gwahanodd y môr a boddi'r fyddin",
+        "Daeth y tân yn oer ac yn ddiogel",
+        "Cafodd yr ardd ei llosgi gan dân nefol",
+        "Dychwelodd y morfil y person i'r lan"
+      ],
+      "answer": "Dinistriwyd y ddinas gan un sgrech"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

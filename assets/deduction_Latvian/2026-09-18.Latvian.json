@@ -1,0 +1,61 @@
+{
+  "title": "Aicinājums no Svētās ielejas",
+  "intro": "Aiz vēstures lappusēm slēpjas stāsts par dvēseli, kura stāvēja starp varenu valdnieku un veselu paverdzinātu tautu. Šī persona tika aicināta atbrīvot tautu no tirānijas, veicot brīnumus, kas nepakļāvās visiem dabas likumiem. No svēta kalna līdz brīnumam uz ūdeņiem, šis Allāha kalps bija liecinieks zīmēm, kas atbalsosies cauri gadsimtiem. Jūsu uzdevums šodien ir identificēt šo ievērojamo personību, kuras mantojums veidoja cilvēces vēstures gaitu.",
+  "clues": [
+    "Es piedzimu laikā, kad manu tautu piemeklēja nāvējošs spriedums, un mana ģimene mani ievietoja ūdenī, lai glābtu manu dzīvību.",
+    "Mani atrada un uzaudzināja tā valdnieka mājsaimniecībā, kurš bija pavēlējis manas sugas cilvēkus nogalināt.",
+    "Es aizbēgu uz svētu kalnu, kur ieraudzīju uguni uz koka, kas nebija sadedzināts, un no tā balss runāja ar mani.",
+    "Mani ar brīnumiem aizsūtīja atpakaļ pie šī paša valdnieka, pieprasot manas paverdzinātās tautas brīvību.",
+    "Es sita jūru ar savu spieķi, un tā pāršķēlās sausās takās, aprīdama vajātājus, kas sekoja manai tautai.",
+    "Es četrdesmit naktis sarunājos ar savu Kungu uz kalna un man tika dotas dievišķas vadības plāksnes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Musa",
+        "Pravietis Haruns",
+        "Pravietis Ibrahims",
+        "Pravietis Jusufs",
+        "Pravietis Davuds"
+      ],
+      "answer": "Pravietis Musa"
+    },
+    "trial": {
+      "label": "Mans definējošais pārbaudījums",
+      "options": [
+        "Jūras šķiršanās",
+        "Lielā šķirsta būvniecība",
+        "Pārbaudījums pie liesmojošas uguns",
+        "Ieslodzījums vaļa vēderā",
+        "Ieslodzījums, ko veic Ēģiptes amatpersona"
+      ],
+      "answer": "Jūras šķiršanās"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Gana spieķis",
+        "Liela koka šķirsts",
+        "Ala, kur gulēja laiks",
+        "Dārzs ar diviem avotiem",
+        "Ar zeltu rotāts tronis"
+      ],
+      "answer": "Gana spieķis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mani ļaudis šķērsoja jūru drošībā",
+        "Lieli plūdi iznīcināja neticīgos",
+        "Tirāna uguns kļuva vēsa un mierīga",
+        "Jūra izmeta savu gūstekni krastā",
+        "Gūsteknis kļuva par Ēģiptes mantzini"
+      ],
+      "answer": "Mani ļaudis šķērsoja jūru drošībā"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

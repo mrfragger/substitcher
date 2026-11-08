@@ -1,0 +1,61 @@
+{
+  "title": "Dieviškojo ženklo saugotojas",
+  "intro": "Giliai šventoje šventovėje palaiminta siela buvo puoselėjama dieviškos globos. Šiam asmeniui buvo lemta atlikti lemiamą vaidmenį stebuklingame įvykyje, tapti beribės Alacho galios ir išminties liudijimu. Jų kelionė atskleidė gilią tiesą, metė iššūkį suvokimui ir sukūrė unikalų ženklą visai žmonijai.",
+  "clues": [
+    "Mane pasirinko ir apvalė Alachas labiau nei visas mano laikų moteris.",
+    "Mane globojo teisus pranašas, kuris stebuklingai rado išlaikymą mano maldos kambaryje.",
+    "Aš atsiskyriau nuo šeimos ir pasislėpiau privačioje vietoje, kad galėčiau garbinti Alachą.",
+    "Man pasirodė angelas tobulo vyro pavidalu, atnešdamas žinią apie tyrą sūnų, nors nepažinojau jokio vyro.",
+    "Po gimdymo kančių man buvo nurodyta pakratyti palmės kamieną, kad rasčiau šviežio maisto.",
+    "Kai grįžau pas savo žmones nešina naujagimiu, jie mane klausinėjo, bet mano kūdikis sūnus stebuklingai prabilo nuo lopšio, mane apgindamas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Sara (pranašo Ibrahimo žmona)",
+        "Hadžaras (pranašo Ismailo motina)",
+        "Bilqis (Šebos karalienė)",
+        "Asija (faraono žmona)",
+        "Maryam (Marija)"
+      ],
+      "answer": "Maryam (Marija)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Didelis potvynis, sunaikinęs netikinčią tautą",
+        "Įmesti į liepsnojančią ugnį už stabų neigimą",
+        "Stebuklingas vaiko gimimas be tėvo",
+        "Būti prarytam banginio už misijos atsisakymą",
+        "Miesto sunaikinimas dėl amoralių praktikų"
+      ],
+      "answer": "Stebuklingas vaiko gimimas be tėvo"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršelis",
+        "Sandoros skrynia",
+        "Šventa maldos kamera (Mihrab)",
+        "Kalbantis paukštis (Hudhud)",
+        "Lazdelė, kuri virto gyvate"
+      ],
+      "answer": "Šventa maldos kamera (Mihrab)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Didingos šventyklos statyba",
+        "Jūros perskyrimas, kad žmonės galėtų ją perplaukti",
+        "Vaikas, kuris nuo lopšio gindavo savo tėvus",
+        "Dieviškos knygos, skirtos žmonijai vesti, apreiškimas",
+        "Karalystė, palaiminta vėju ir džinu"
+      ],
+      "answer": "Vaikas, kuris nuo lopšio gindavo savo tėvus"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

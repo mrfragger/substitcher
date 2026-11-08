@@ -1,0 +1,60 @@
+{
+  "title": "Olatuen Azpiko Epaiketa",
+  "intro": "Profeta batek, bere misioak zama handia eraginda, erabaki bat hartu zuen, eta horrek bere herritik urrundu eta ustekabeko proba batera eraman zuen. Bidaiak bira dramatikoa eman zuen, bere fedea eta pazientzia modu sakonenean proban jarriz. Gertaera aparteko honen xehetasunak ondoriozta ditzakezu emandako arrastoetatik?",
+  "clues": [
+    "Profeta bat bidali zuten herri batengana, baina presaka alde egin zuen, haien arbuioagatik frustratuta.",
+    "Bidaiak itsasora eraman zuen, eta han ontzi astun batean igo zen pasabide bila.",
+    "Ekaitz handi bat sortu zen, itsasontzia mehatxatuz, eta pertsona bat itsasora botatzea erabaki zen zama arintzeko, zozketa bidez erabakita.",
+    "Sakoneko izaki batek irentsi zuen, Jainkoaren nahiak agindutako gertaera miragarri bat.",
+    "Izakiaren sabelaren barruan, bere Jaunari dei egin zion, damutuz eta Ala goratuz iluntasunean.",
+    "Erregu bizien ondoren, kostalde antzu batera bota zuten, ahul baina bizirik, eta geroago itzuli zenean bere herriak azkenean sinetsi zuela ikusi zuen."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Pertsona",
+      "options": [
+        "Nuh profeta",
+        "Lut profeta",
+        "Musa profeta",
+        "Yunus profeta",
+        "Yusuf profeta"
+      ],
+      "answer": "Yunus profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Nuh-ren uholdea",
+        "Sodomako suntsipena.",
+        "Arrain handiaren sabeleko bidaia",
+        "Itsasoaren zatiketa.",
+        "Sasi errearen errebelazioa"
+      ],
+      "answer": "Arrain handiaren sabeleko bidaia"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Sinai mendia",
+        "Musaren langileak",
+        "Arrain Handia",
+        "Yusuf-en putzua"
+      ],
+      "answer": "Arrain Handia"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gizateriarekin itun berri bat",
+        "Jaiotza miragarria bere herriarentzat",
+        "Bere leinuarentzat ezarritako erreinua",
+        "Orduan sinetsi zuen bere herriarengana itzultzea",
+        "Agintari tirano baten aurkako garaipena"
+      ],
+      "answer": "Orduan sinetsi zuen bere herriarengana itzultzea"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

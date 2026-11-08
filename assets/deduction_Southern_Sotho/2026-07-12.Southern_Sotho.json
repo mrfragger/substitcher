@@ -1,0 +1,61 @@
+{
+  "title": "Motse o Lahlehileng oa Boholo bo sa Bapisoeng",
+  "intro": "Tsoelo-pele e matla e kileng ea busa libaka tse kholo tsa lefats'e, e rorisoa ka meaho e melelele e fihlang maholimong. Empa tlas'a boholo bona, ho latola ka manganga ho ile ha hola - ho hana ho mamela temoso ea bomolimo e rometsoeng ho tsoa ka har'a sechaba ka bosona. Boikhohomoso le boikhohomoso li ne li tla tloha li tlisa kotlo eo lefatše kapa maholimo a neng a e-so ka a e bona.",
+  "clues": [
+    "Re kile ra busa lefats'e le leholo, re ithorisa ka matla ao re neng re lumela hore ha ho na tsoelo-pele e 'ngoe e ka bapisoang le 'ona.",
+    "Mmuso wa rona o ne o tumme ka meaho e melelele e nang le dipilara tse matla tse neng di eme di sa bapiswa le naha e nngwe le e nngwe e tsebahalang.",
+    "Molebeli ea tsoang sechabeng sa habo rona o ile a hlaha, a re khothalletsa ho ikokobelletsa 'Mōpi a le mong feela.",
+    "Re ile ra hana molaetsa oo re o filoeng 'me ra hana ho lahla tsela eo re e futsitseng.",
+    "Moea o matla o matla o ile oa foka khahlanong le rona, oa re siea re se na tšireletso ka ho feletseng.",
+    "Re ile ra sala re le jwalo ka dikutu tse nang le dikoti tsa difate tsa palema, re hasane ebile re lebetswe, e le thuto bakeng sa moloko o mong le o mong ka mora moo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba A'ad",
+        "Batho ba Nuh",
+        "Batho ba Lute",
+        "Batho ba Madyan",
+        "Batho ba Tubba'"
+      ],
+      "answer": "Batho ba A'ad"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Moea o matla o sa khaotseng oa kotlo e matla",
+        "Moroallo o ileng oa koahela tlhoro e 'ngoe le e 'ngoe ea lithaba",
+        "Pula ea majoe a letsopa a tukang a tsoang holimo",
+        "Mohoo o le mong o tšosang o tsoang maholimong",
+        "Tšisinyeho e matla ea lefatše e ileng ea arola naha"
+      ],
+      "answer": "Moea o matla o sa khaotseng oa kotlo e matla"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Irame, motse oa litšiea tse telele",
+        "Areka e kgolo ya difate e hahilweng hodima thaba",
+        "Kamele e tšehali e ileng ea hlaha ka mohlolo lejoeng",
+        "Thaba ea Sinai moo litaelo tsa Molimo li ileng tsa theohela teng",
+        "Ntlo ea borena ea kristale le khalase e ntle e shebileng metsi a phallang"
+      ],
+      "answer": "Irame, motse oa litšiea tse telele"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E siiloe joaloka likutu tse se nang letho tsa lifate tsa palema, li hasane ebile li se na bophelo",
+        "Ho khangoa ke maqhubu a matla a moroallo o moholo",
+        "E fetohile libopuoa tse kang litšoene le likolobe",
+        "E sithabelitsoe tlas'a pula ea majoe a letsopa a thatafetseng",
+        "E ile ea jeoa ke mohoo o le mong o thibang litsebe o ileng oa hlaba moea"
+      ],
+      "answer": "E siiloe joaloka likutu tse se nang letho tsa lifate tsa palema, li hasane ebile li se na bophelo"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

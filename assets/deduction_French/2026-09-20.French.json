@@ -1,0 +1,61 @@
+{
+  "title": "La croyante voilée à la cour du tyran",
+  "intro": "Dans les salles dorées du souverain le plus arrogant que le Coran ait connu — où la désobéissance divine imprégnait chaque édit —, une âme, parmi les privilégiés, dissimulait au grand jour le plus dangereux des secrets. Cet individu portait une foi si proscrite entre ces murs que sa découverte lui vaudrait une mort certaine. Pourtant, sa conviction brûlait comme une flamme sous les cendres, et lorsque l'heure arriva, la vérité éclata avec un courage qui ébranla les fondements mêmes du palais du tyran.",
+  "clues": [
+    "J'ai vécu au sein du cercle restreint du dirigeant le plus puissant et arrogant de mon époque, entourée de luxe et d'influence.",
+    "J'ai dissimulé mes véritables convictions au plus profond de mon cœur, craignant pour ma vie face à ceux qui régnaient avec cruauté et oppression.",
+    "Lorsque mon peuple a douté et vacillé face à la vérité, je me suis avancé pour l'avertir du sort tragique qui avait frappé les nations du passé qui avaient rejeté les messagers de leur Seigneur.",
+    "J'ai rappelé à mon peuple l'histoire d'un jeune rêveur aimé de tous, rejeté par les siens mais qui avait accédé à une grande autorité dans un pays lointain.",
+    "J'ai exhorté mon peuple à ne pas obéir au dirigeant qui l'avait égaré, l'invitant plutôt à me suivre sur le chemin de la droiture et de la sagesse.",
+    "J'ai dit ouvertement la vérité même si les partisans du tyran menaçaient de me lapider ou de m'expulser du pays."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le croyant caché de la famille du pharaon",
+        "Un patriarche patient qui a pleuré à chaudes larmes jusqu'au retour de son fils",
+        "Un serviteur fidèle dont la maladie de peau fut finalement guérie",
+        "Un fils pécheur qui a refusé l'invitation d'un prophète à monter à bord de l'arche",
+        "Un tyran impitoyable qui s'est arrogé la divinité"
+      ],
+      "answer": "Le croyant caché de la famille du pharaon"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Dissimuler sa foi à la cour d'un tyran",
+        "Devenu aveugle après des années de pleurs",
+        "Être mis à l'épreuve par la perte d'un membre de sa famille et une grave maladie",
+        "Construire un grand navire tout en étant ridiculisé",
+        "Endurer la chaleur torride d'un grand feu"
+      ],
+      "answer": "Dissimuler sa foi à la cour d'un tyran"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le palais du pharaon",
+        "Un sommet montagneux où une arche a été construite",
+        "Une vallée sacrée au pied du mont Sinaï",
+        "Un magnifique jardin traversé par deux ruisseaux.",
+        "Un trône de cristal au-dessus d'une rivière souterraine"
+      ],
+      "answer": "Le palais du pharaon"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Protection divine tandis que les oppresseurs subissaient leur destruction",
+        "Retrouvailles avec sa famille après des décennies de séparation",
+        "On lui accorda la patience, la santé et une famille plus nombreuse.",
+        "J'ai été sauvé sur un bateau alors que le reste du monde se noyait.",
+        "Il a été sauvé indemne des flammes par l'ordre d'Allah."
+      ],
+      "answer": "Protection divine tandis que les oppresseurs subissaient leur destruction"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

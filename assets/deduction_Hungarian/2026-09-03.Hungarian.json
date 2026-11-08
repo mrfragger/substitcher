@@ -1,0 +1,61 @@
+{
+  "title": "A trón, amely egy pillanat alatt utazott",
+  "intro": "Egy hatalmas hatalommal bíró személy uralkodott egy gazdag, mérhetetlen gazdagsággal megáldott királyság felett. Amikor váratlan kihívás merült fel, ez az uralkodó nem a kardok, hanem a bölcsesség és a hit próbájával nézett szembe. Ami ezután kibontakozott, az a világi hatalom csúcsáról a szív mélyreható átalakulásához vezetett.",
+  "clues": [
+    "Egy olyan királyság felett uralkodtam, amely minden képzeletet felülmúló gazdagsággal és jóléttel volt megáldva",
+    "Hatalmas uralkodó voltam, aki merész levelet kapott, amelyben behódolást követeltem",
+    "Nemeseim tanácskoztak velem, hogy harcoljak-e vagy békét kössek-e ezzel a távoli királlyal",
+    "Csodálatos ajándékokkal indultam el, hogy magam is találkozzam ezzel a távoli királlyal",
+    "Királyi trónom egy szempillantás alatt távoli földre került, mielőtt visszatérhettem volna",
+    "Amikor beléptem egy üvegsima padlójú palotába, végre kijelentettem, hogy meghódoltam Allahnak,"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Bilqis, Sába királynője",
+        "A fáraó felesége",
+        "Al-Aziz felesége",
+        "Máriam, Imrán lánya",
+        "Lut próféta felesége"
+      ],
+      "answer": "Bilqis, Sába királynője"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Merész levél fogadása, amely alávetést követel",
+        "Lángoló tűzbe vetve",
+        "Egy nagy hal lenyelte",
+        "Évekig tartó fájdalmas betegség",
+        "Tanúja volt egy nép pusztulásának egy árvíz által"
+      ],
+      "answer": "Merész levél fogadása, amely alávetést követel"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy csodálatos királyi trón aranyból és drágakövekből",
+        "Egy személyzet, amely kettéválasztotta a tengert",
+        "Egy bárka pihen egy hegyen",
+        "Szent imaház Mekkában",
+        "Egy aranyborjú, akit egy nép imádott"
+      ],
+      "answer": "Egy csodálatos királyi trón aranyból és drágakövekből"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Allahnak való alávetettség egy próféta mellett",
+        "Tengerbe fulladni, miközben egy ellenséget üldöz",
+        "Csodával határos módon megmenekültek egy lángoló tűzvészből",
+        "Száműzetés az örök boldogság kertjéből",
+        "Hatalmas hatalmú királyság befogadása"
+      ],
+      "answer": "Allahnak való alávetettség egy próféta mellett"
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

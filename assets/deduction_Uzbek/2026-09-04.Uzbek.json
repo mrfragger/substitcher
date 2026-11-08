@@ -1,0 +1,61 @@
+{
+  "title": "Tog'larni siljitgan kuy",
+  "intro": "Siz Allohning ajoyib bandasi haqidagi hikoyani ochish arafasidasiz. Payg'ambarlar va hukmdorlar yurtida bu shaxs ilohiy kitob, kuchli ovoz va temirdan ustun kuch bilan baraka topgan edi. Izohlarni o'qiyotganingizda, bu kim bo'lishi mumkinligini aniqlay olasizmi?",
+  "clues": [
+    "Men Allohning maxsus kitobini olgan bandasi edim.",
+    "Mening ovozim juda chiroyli edi va maqtovlarim shunchalik yoqimli ediki, hatto tepaliklar va qushlar ham menga qo'shilishardi.",
+    "Mashhur jangda men kuchli raqibga duch keldim va kichikroq bo'lishimga qaramay, g'alaba qozondim.",
+    "Temir menga egiluvchan qilib yasalgan edi, bu menga o'z qo'llarim bilan zirh yasashga imkon berdi.",
+    "Men buyuk xalq ustidan hukmdor bo'ldim va hukm qilishdagi donoligim mashhur bo'ldi.",
+    "Mening o'g'lim, payg'ambar ham bo'lgan, shamol va jinlar ustidan hukmronlik qilish huquqiga ega edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Dovud (alayhissalom)",
+        "Payg'ambar Sulaymon (Sulaymon)",
+        "Muso payg'ambar (Muso)",
+        "Payg'ambar Horun (Horun)",
+        "Payg'ambar Ilyos (Ilyos)"
+      ],
+      "answer": "Payg'ambar Dovud (alayhissalom)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Mag'lub bo'lgan Go'liyot (Jalut)",
+        "Dengizni ikkiga bo'ldi",
+        "Kitdan omon qoldi",
+        "Olovga tashlandi",
+        "Kemani qurdi"
+      ],
+      "answer": "Mag'lub bo'lgan Go'liyot (Jalut)"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Zabur (Zabur)",
+        "Tavrot (Tavrot)",
+        "Xushxabar (Injil)",
+        "Ibrohimning bitiklari",
+        "Qur'on"
+      ],
+      "answer": "Zabur (Zabur)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Payg'ambar va Isroil shohi bo'ldi",
+        "Misr hukmdori bo'ldi",
+        "Osmonga ko'tarildi",
+        "Bo'ron tomonidan vayron qilingan",
+        "G'orning hamrohi bo'ldi"
+      ],
+      "answer": "Payg'ambar va Isroil shohi bo'ldi"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

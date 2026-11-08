@@ -1,0 +1,61 @@
+{
+  "title": "Umhlobo Ongagungqiyo Kwisilingo Segolide",
+  "intro": "Emthunzini womprofeti omkhulu, umphefumlo othetha kakuhle nokholo wakhethwa ukuba uncedise kumsebenzi omkhulu. Lo mntu wema eqinile xa izihlwele zazigungqa, eshumayela ngokuchasene nokwaphulwa komthetho okucacileyo okwakusongela isiseko sobuThixo bodwa. Xa umprofeti ebuya ukuze abone ukuphosakala kwabantu, ukuzikhusela kwalo mntu kwakungekuko ukuziva enetyala kodwa kwakungenxa yomsebenzi noloyiko lokwahlukana. Ngubani lo mkhonzi ka-Allah ozinikeleyo?",
+  "clues": [
+    "Ndakhethwa nguAllah ukuba ndenze umsebenzi ongcwele kunye nomnye, kwaye indima yam yayiyeyokuxhasa nokuvakalisa.",
+    "Ndanikwa ithuba lokuthetha ngokucacileyo, ndaza ndahamba nomthunywa ukuya kujongana nomcinezeli onamandla.",
+    "Ngexesha lohambo olunzima, umthunywa wenyuka intaba yedwa, endishiya ndijonge abantu.",
+    "Bengekho, abantu benza umfanekiso wegolide, ndaza ndabacenga ukuba bahlale bethembekile, kodwa balamkela icebiso lam.",
+    "Xa umthunywa ebuya, ezele ngumsindo nosizi, ndabanjwa, kodwa ndachaza ukuba ndoyisiwe kwaye ndisoyika ukubangela ukungavisisani phakathi kwabo.",
+    "Ndingumprofeti owayemi ecaleni kukaMoses, umntakwethu, ndisabelana ngomthwalo wakhe kwaye ndihlala ndiqinile nxamnye nokunqula izithixo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uHarun",
+        "Umprofeti uMusa",
+        "Umprofeti uIsa",
+        "Umprofeti uDawud",
+        "Umprofeti uZakariya"
+      ],
+      "answer": "Umprofeti uHarun"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Abantu babenqula ithole legolide nangona babelumkisiwe",
+        "Abantu bandiphosa emlilweni ovuthayo",
+        "Ndiginywe yintlanzi enkulu",
+        "Ndavalelwa entolongweni ngezityholo zobuxoki",
+        "Ndagxothwa kwisixeko sasekhaya ngenxa yokushumayela"
+      ],
+      "answer": "Abantu babenqula ithole legolide nangona babelumkisiwe"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ithole Legolide",
+        "Isihlahla Esitshayo",
+        "Intonga eyaguquka yaba yinyoka",
+        "Amacwecwe omnqophiso",
+        "Ityeya yomnqophiso"
+      ],
+      "answer": "Ithole Legolide"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ndakhululwa ndaza ndaqhubeka nomsebenzi wam wobuprofeti",
+        "Ndohlwaywa ngenxa yesono sabantu",
+        "Ndanikwa isizwe esitsha ukuba ndisikhokele",
+        "Ndanyuselwa ezulwini ndiphila",
+        "Ndenziwa umlawuli phezu kobukumkani"
+      ],
+      "answer": "Ndakhululwa ndaza ndaqhubeka nomsebenzi wam wobuprofeti"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

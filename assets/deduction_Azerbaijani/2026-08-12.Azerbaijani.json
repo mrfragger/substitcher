@@ -1,0 +1,61 @@
+{
+  "title": "Mərhəmət və Qüdrət Elçiləri",
+  "intro": "Tanımadığı səyahətçilərin gəlişi ilə kəsilən sakit bir günortanı təsəvvür edin. Onların görünüşü adi olsa da, məqsədləri başqadır. Onlar iki xalqın gedişatını dəyişdirəcək, qısır bir evə gülüş, günahkar bir şəhərə isə dəhşət gətirəcək ilahi bir mesaj daşıyırlar. Bu sirli qonaqlar kimlərdir?",
+  "clues": [
+    "Biz Allahın sonsuz qonaqpərvərliyi ilə tanınan sadiq bir qulunun yanına göndərildik.",
+    "Biz yad adamlar kimi gəldik, amma ev sahibi bizim varlığımızda qəribə bir şey hiss etdi.",
+    "Yaşlı bir qadının inamsızlıqla gülməsinə, təəccüblə öz üzünə vurmasına səbəb olan bir xəbər gətirdik.",
+    "Bizə saleh bir ailəni qorumaq, eyni zamanda korrupsiyaya bulaşmış bir şəhəri məhv etmək vəzifəsi verilmişdi.",
+    "Bizə təklif olunan yeməyi yeməkdən imtina etdik və bu, ev sahibinin şübhəsini daha da artırdı.",
+    "Biz yalnız yola düşməzdən əvvəl əsl mahiyyətimizi aşkar etdik və dedik: “Həqiqətən də, biz sənin Rəbbinin elçiləriyik”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimik?",
+      "options": [
+        "İbrahimin qonaqları",
+        "İsanın şagirdləri",
+        "Mağara Əhli",
+        "Əbrəhə ordusu",
+        "Ya-Sinin elçiləri"
+      ],
+      "answer": "İbrahimin qonaqları"
+    },
+    "trial": {
+      "label": "Missiyamız",
+      "options": [
+        "İbrahimin oğluna olan imanını sınamaq üçün",
+        "Müqəddəs Yazıları İbrahimə çatdırmaq üçün",
+        "İshaqın doğulduğunu və Lutun qövmünün məhvini elan etmək",
+        "İbrahimi Kəbəyə doğru yola yönəltmək",
+        "İbrahimi oddan xilas etmək üçün"
+      ],
+      "answer": "İshaqın doğulduğunu və Lutun qövmünün məhvini elan etmək"
+    },
+    "location": {
+      "label": "Görünüş yeri",
+      "options": [
+        "Misir torpağında",
+        "Ur şəhərində",
+        "İbrahimin evində",
+        "Eden bağında",
+        "Zəmzəm quyusunda"
+      ],
+      "answer": "İbrahimin evində"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İbrahim padşah oldu",
+        "İbrahim Kəbəni tikdi",
+        "Sara İshaqı dünyaya gətirdi və Lutun qövmü məhv edildi",
+        "İbrahim Fələstinə köçdü",
+        "İbrahimin xalqı böyük daşqından xilas oldu"
+      ],
+      "answer": "Sara İshaqı dünyaya gətirdi və Lutun qövmü məhv edildi"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

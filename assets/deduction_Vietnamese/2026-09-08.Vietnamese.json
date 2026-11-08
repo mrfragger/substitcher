@@ -1,0 +1,61 @@
+{
+  "title": "Cuộc thử thách ngọn lửa thiêng",
+  "intro": "Tại vùng đất cổ xưa nơi lòng sùng bái đá chạm khắc đã ăn sâu vào mọi gia đình, có một người nổi bật hơn cả. Nhờ niềm tin kiên định và sự che chở của thần linh, người đó đã đối mặt với cái chết chắc chắn - và thoát chết. Bạn có thể tìm ra danh tính của người phi thường này không?",
+  "clues": [
+    "Tôi lớn lên giữa những người thờ cúng những bức tượng do chính tay họ tạc nên, tin rằng những vật thể này nắm giữ sức mạnh thần thánh.",
+    "Khi tôi chất vấn niềm tin của họ, ban đầu họ gạt bỏ tôi, nhưng tôi không thể im lặng về sự thật mà tôi biết.",
+    "Vào ngày họ tụ họp lại, tôi đã phá hủy các thần tượng của họ, chỉ để lại bức tượng lớn nhất không bị đụng đến.",
+    "Khi họ trở về và thấy những gì tôi đã làm, các thủ lĩnh của họ ra lệnh dựng một giàn hỏa thiêu lớn, với ý định ném tôi vào lửa.",
+    "Họ ném tôi vào ngọn lửa đang cháy dữ dội, nhưng Chúa tể muôn loài đã ra lệnh cho ngọn lửa nguội lạnh và trở nên an toàn cho tôi.",
+    "Tôi thoát khỏi ngọn lửa hoàn toàn không hề hấn gì, trong khi những kẻ âm mưu chống lại tôi phải chịu sự diệt vong hoàn toàn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Tiên tri Ibrahim",
+        "Tiên tri Musa",
+        "Tiên tri Nuh",
+        "Tiên tri Isa",
+        "Tiên tri Yusuf"
+      ],
+      "answer": "Tiên tri Ibrahim"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Bị ném vào ngọn lửa đang cháy.",
+        "Bị một con cá voi khổng lồ nuốt chửng",
+        "Sống sót sau trận đại hồng thủy",
+        "Bị ném xuống một cái giếng sâu",
+        "Đối đầu với các pháp sư của nhà vua"
+      ],
+      "answer": "Bị ném vào ngọn lửa đang cháy."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một đống củi khổng lồ đang cháy.",
+        "Một chiếc thuyền Noah bằng gỗ lớn",
+        "Tượng con bê vàng",
+        "Một chiếc giỏ nổi trên sông.",
+        "Một ngai vàng tráng lệ"
+      ],
+      "answer": "Một đống củi khổng lồ đang cháy."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Allah đã làm cho lửa nguội lạnh và an toàn.",
+        "Con tàu Noah đã hạ cánh an toàn trên một ngọn núi.",
+        "Bức tượng vàng tan chảy trước mắt họ.",
+        "Một bạo chúa và quân đội của hắn đã chết đuối trên biển.",
+        "Thị lực của người mù đã được phục hồi."
+      ],
+      "answer": "Allah đã làm cho lửa nguội lạnh và an toàn."
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

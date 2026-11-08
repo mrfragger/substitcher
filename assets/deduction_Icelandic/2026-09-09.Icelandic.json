@@ -1,0 +1,61 @@
+{
+  "title": "Fyrsta sálin sem stendur upp",
+  "intro": "Löngu áður en nokkur sendiboði gekk um jörðina, áður en nokkur ritning var opinberuð, varð vera ólík öllum öðrum til. Þessi sál var mótuð af guðdómlegum höndum, gefin staður óviðjafnanlegs fegurðar og prófuð á þann hátt sem myndi enduróma í allri mannkynssögunni. Það sem fylgdi í kjölfarið var saga um veikleika, einlæga iðrun og örlög sem myndu breyta gangi sköpunarinnar að eilífu. Geturðu giskað á hver þetta er?",
+  "clues": [
+    "Ég var mótaður af höndum hins miskunnsama úr dufti jarðar",
+    "Mér var gefið heimili einstakrar fegurðar, þar sem hvorki hungur né þreyta náðu til mín",
+    "Mér var fyrirskipað að nálgast aldrei eitt einasta tré, því það var bannað",
+    "Ég og félagi minn létum blekkjast og nálguðumst hið bannaða tré, gegn skipun Drottins okkar.",
+    "Við snerum okkur aftur til Drottins okkar með einlægri iðrun og fengum fyrirgefningu um syndir okkar",
+    "Frá okkur er allt mannkynið komið; ég er sá allra fyrsti sem gengur á þessari jörð"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Adam",
+        "Spámaðurinn Músa",
+        "Spámaðurinn Nuh",
+        "Spámaðurinn Jósef",
+        "Spámaðurinn Ísa"
+      ],
+      "answer": "Spámaðurinn Adam"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Freisting af hinu bannaða tré",
+        "Árekstrar við Faraó",
+        "Að byggja hina miklu örk",
+        "Fórn hins ástkæra sonar",
+        "Að vera kastað í mikinn eld"
+      ],
+      "answer": "Freisting af hinu bannaða tré"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Forboðna tréð",
+        "Brennandi runninn",
+        "Gullna starfsfólkið",
+        "Hin mikla örk",
+        "Gullkalfurinn"
+      ],
+      "answer": "Forboðna tréð"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Sendur niður til jarðar sem fyrsti umsjónarmaður mannkynsins",
+        "Faraó og her hans drukknuðu í sjónum",
+        "Hið mikla flóð eyddi hinum óguðlegu",
+        "Eldurinn varð kaldur og friðsæll",
+        "Fékk yfirráð yfir Egyptalandi"
+      ],
+      "answer": "Sendur niður til jarðar sem fyrsti umsjónarmaður mannkynsins"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

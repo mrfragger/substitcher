@@ -1,0 +1,61 @@
+{
+  "title": "Faarfannaa Gaarreen Sochoose",
+  "intro": "Seenaa gabricha Rabbii dinqisiisaa ta’e tokko saaxiluudhaaf jirta. Biyya ergamtootaa fi bulchitootaa keessatti fakkiin kun kitaaba waaqummaa, sagalee cimaa fi humna sibiilaa irra eebbifame. Yaadannoowwan sana yommuu dubbistu, kun eenyu taʼuu akka dandaʼu adda baasuu dandeessaa?",
+  "clues": [
+    "Ani gabricha Rabbii kitaabni addaa naaf kenname ture.",
+    "Sagalee bareedaa qaba ture, galatni koos baayʼee jaallatamaa waan tureef tulluu fi simbirroonni illee natti makaman.",
+    "Lola beekamaa tokko irratti morkataa sodaachisaa taʼeen kan na mudate siʼa taʼu, xinnoo taʼus injifadheera.",
+    "Sibiilli akka naaf taʼu kan godhame siʼa taʼu, kunis harka kootiin meeshaa waraanaa akkan hojjedhu naaf heyyama ture.",
+    "Saba guddaa tokko irratti bulchaa akkan taʼu nan godhame, firdii irratti ogummaan koos beekamaa ture.",
+    "Ilmi koo innillee nabiyyii ta’eef qilleensaa fi jinnii to’achuun isaaf kenname."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Daawud (Dawit) .",
+        "Nabi Suleeymaan (Solomon) .",
+        "Nabi Muusaa (Musee) .",
+        "Nabi Haaruun (Aaron) .",
+        "Nabi Iliyaas (Eliyaas) ."
+      ],
+      "answer": "Nabi Daawud (Dawit) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Goliyaad (Jalut) injifate .",
+        "Galaana addaan baase",
+        "Qurxummii galaanaa irraa hafe",
+        "Ibidda keessa darbatame",
+        "Taabota Ijaarse"
+      ],
+      "answer": "Goliyaad (Jalut) injifate ."
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Zabur (Faarfannaa) .",
+        "Tawraat (Tawrat) .",
+        "Wangeela (Injil) .",
+        "Kitaabota Ibraahim",
+        "Qur'aana"
+      ],
+      "answer": "Zabur (Faarfannaa) ."
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Raajii fi mootii Israa'el ta'e",
+        "Bulchaa Gibxii ta'e",
+        "Gara samiitti ka'e",
+        "Obomboleettiidhaan barbadaa'e",
+        "Hiriyyaa holqa ta'e"
+      ],
+      "answer": "Raajii fi mootii Israa'el ta'e"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

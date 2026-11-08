@@ -1,0 +1,61 @@
+{
+  "title": "Comunitatea care a sfidat ziua de odihnă",
+  "intro": "Pășește într-o așezare de coastă unde o poruncă divină a rezervat o zi pentru închinare și reținere. Un grup din cadrul acestei comunități a ales să testeze limitele acelei porunci cu un plan viclean, ducând la o transformare care avea să răsune de-a lungul veacurilor. Cine erau aceste suflete și ce s-a întâmplat cu ele?",
+  "clues": [
+    "Locuiam lângă coastă, unde marea ne asigura existența.",
+    "Ni s-a poruncit să onorăm o zi a săptămânii, punând-o deoparte de preocupările lumești.",
+    "În ziua aceea, peștii au venit la noi în număr mare, ispitindu-ne parcă să încălcăm porunca.",
+    "Am pus la cale un plan să prindem peștii în capcană în ajunul zilei sacre, apoi să-i adunăm după ce aceasta trece.",
+    "Când unii dintre noi ne-au avertizat împotriva acestei înșelăciuni, am ignorat sfatul lor și am persistat.",
+    "Pentru fărădelegile noastre, am fost transformați în maimuțe, disprețuiți și respinși."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii Sabatului",
+        "Oamenii șanțului",
+        "Oamenii Pădurii",
+        "Oamenii din Grădină",
+        "Oamenii elefantului"
+      ],
+      "answer": "Oamenii Sabatului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Pescuitul în Sabat",
+        "Construirea unui turn înalt",
+        "Uciderea unei cămile sacre",
+        "Negând un profet trimis lor",
+        "Încălcarea ponderilor comerciale"
+      ],
+      "answer": "Pescuitul în Sabat"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Marea și peștii ei",
+        "Focul care s-a răcit",
+        "Toiagul care s-a transformat într-un șarpe",
+        "Arca mântuirii",
+        "Tablele de piatră"
+      ],
+      "answer": "Marea și peștii ei"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Transformați în maimuțe",
+        "Înghițit de pământ",
+        "Distrus de un vânt puternic",
+        "Înecat în mare",
+        "Lovit de o ploaie de pietre"
+      ],
+      "answer": "Transformați în maimuțe"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

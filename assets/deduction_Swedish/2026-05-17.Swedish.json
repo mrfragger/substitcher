@@ -1,0 +1,61 @@
+{
+  "title": "Stenens arkitekter",
+  "intro": "Föreställ dig en mäktig civilisation, begåvad med styrka och skicklighet, som hugger ut ståtliga bostäder i bergssluttningar. Denna kollektivitet ägde enormt välstånd och en unik arkitektonisk skicklighet. Ändå, trots tydliga varningar, valde de en väg som skulle leda till ett dramatiskt och oförglömligt slut. Kan du identifiera denna grupp vars historia tjänar som en djupgående läxa för alla som reflekterar?",
+  "clues": [
+    "Vi fick styrka och skicklighet, vilket gjorde det möjligt för oss att hugga ut magnifika hus direkt i bergen.",
+    "Vi fick ett tydligt tecken från Allah, en unik varelse som skulle lämnas ostörd för att beta.",
+    "Vårt samhälle blev arrogant och ifrågasatte det gudomliga budskapet som förmedlats av en budbärare bland oss.",
+    "Vi konspirerade för att skada det mirakulösa tecknet, trots varningarna om stränga straff.",
+    "Vi trotsade befallningen att låta den speciella varelsen dricka ur vår brunn varannan dag.",
+    "Vi mötte ett förödande slut, träffade av en enda, skrämmande explosion efter vår överträdelsehandling."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Folket i 'Ad",
+        "Midjans folk",
+        "Elefantens folk",
+        "Folket i Thamud",
+        "Luts folk"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Vårt stora evenemang/test",
+      "options": [
+        "Översvämningen som omslöt landet",
+        "Havets delning",
+        "Förstörelsen av en enda explosion/rop",
+        "En stad brändes ner",
+        "Förvandlingen av ett berg till stoft"
+      ],
+      "answer": "Förstörelsen av en enda explosion/rop"
+    },
+    "location": {
+      "label": "En viktig del i vår berättelse",
+      "options": [
+        "En gyllene kalv",
+        "En mirakulös honkamel",
+        "En brinnande buske",
+        "En talande fågel",
+        "En majestätisk tron"
+      ],
+      "answer": "En mirakulös honkamel"
+    },
+    "outcome": {
+      "label": "Vårt slutgiltiga resultat",
+      "options": [
+        "Tilldelad enorm rikedom och makt",
+        "Upphöjd till profetskap",
+        "Fullständig förintelse genom ett gudomligt straff",
+        "Förlåten efter uppriktig ånger",
+        "Spridda över jorden för att vandra"
+      ],
+      "answer": "Fullständig förintelse genom ett gudomligt straff"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

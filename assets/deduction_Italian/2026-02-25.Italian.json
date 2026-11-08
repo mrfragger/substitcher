@@ -1,0 +1,61 @@
+{
+  "title": "La prova della roccia sterile",
+  "intro": "Una comunità, abile e fiera, ha scolpito la propria eredità nelle montagne stesse. Ma quando un chiaro segno le fu inviato, una prova di fede e moderazione, la loro arroganza li condusse su una strada senza ritorno. Sapreste identificare questo gruppo e le conseguenze della loro sfida?",
+  "clues": [
+    "Eravamo maestri nella lavorazione della pietra, capaci di scolpire magnifiche abitazioni direttamente sui fianchi delle montagne.",
+    "Un messaggero del nostro popolo è venuto a noi, invitandoci ad adorare l'Unico Vero Dio.",
+    "Abbiamo chiesto un segno a conferma delle sue parole, e una creatura straordinaria ci è stata presentata come prova.",
+    "Ci è stato dato un semplice comando: condividere la nostra fonte d'acqua con questa creatura, lasciandola bere nel giorno a lei assegnato.",
+    "Nella nostra arroganza, alcuni di noi cospirarono e ignorammo l'avvertimento, abbattendo la creatura che avrebbe dovuto essere il nostro segno.",
+    "Ci furono concessi tre giorni prima della nostra fine, e poi una violenta esplosione ci colse nelle nostre case, lasciandoci senza vita e completamente sconvolti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Persone di 'Ad",
+        "Popolo di Madyan",
+        "Popolo di Thamud",
+        "Popolo di Saba",
+        "Popolo di Lutero"
+      ],
+      "answer": "Popolo di Thamud"
+    },
+    "trial": {
+      "label": "Qual era il nostro test principale?",
+      "options": [
+        "Costruire un'arca per sopravvivere a un'alluvione",
+        "Resistere alla tentazione di pescare di sabato",
+        "Abbandonare le pratiche commerciali fraudolente",
+        "Proteggere una cammella miracolosa",
+        "Sopravvivere a una carestia durata sette anni"
+      ],
+      "answer": "Proteggere una cammella miracolosa"
+    },
+    "location": {
+      "label": "Qual era l'elemento centrale della nostra storia?",
+      "options": [
+        "Il vitello d'oro",
+        "La cammella",
+        "Il bastone del profeta Mosè",
+        "La grande diga di Ma'rib",
+        "La tavola apparecchiata dal cielo"
+      ],
+      "answer": "La cammella"
+    },
+    "outcome": {
+      "label": "Qual era il nostro destino finale?",
+      "options": [
+        "Annegato in un grande diluvio",
+        "Trasformati in scimmie e maiali",
+        "Sopraffatto da un vento furioso",
+        "Dispersi dallo scoppio di una diga",
+        "Distrutto da una potente esplosione/terremoto"
+      ],
+      "answer": "Distrutto da una potente esplosione/terremoto"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

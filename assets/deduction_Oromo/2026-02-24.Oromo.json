@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Gowwoomsaa",
+  "intro": "Hidhamiinsi firummaa inaaffaa guddaadhaan qoratame. Karoorri dhoksaa tokko kan qophaaʼe siʼa taʼu, kunis taateewwan waggoota dheeraa fi fageenya balʼaa qaxxaamuran walduraa duubaan raawwataman sochii keessa galche. Gochaan garee kanaa gargar bahuu fi gadda gadi fagootti kan geesse ta’us, seenaan sun achitti hin xumuramne. Innis oduu gowwoomsaa, gaabbii fi karoora waaqummaa isa dhumaa irratti mul’achuudha. Eenyummaa namoota dhuunfaa filannoon isaanii dhalootaan sagalee dhageessisaa ture kanaa hiikuu dandeessaa?",
+  "clues": [
+    "Jaalala nama ofii keenyaa tokkoof argisiifne irratti hinaaffaan nu nyaatame.",
+    "Inaaffaa keenyaan waliin shira xaxnee obboleessa keenya dukkana boolla bishaanii keessa darbanne.",
+    "Hojii keenya dhoksuuf uffata dhiiga sobaan xuraa'e abbaa keenyaaf dhiheessine.",
+    "Waggoota hedduu booda, beelli cimaan mudate, soorata barbaaduuf gara Gibxii akka deemnu nu dirqisiise.",
+    "Achitti bulchaa humna guddaa qabu kan osoo nuti hin beekin obboleessa nuti balleessine sana duratti dhufne.",
+    "Qormaanni keenya inni dhumaa obboleessa keenya quxisuu Binyamin fiduudha, kunis seenaa keenya darbee fi abbaan keenya Nabi Yaa'quub ta'uu isaa akka mul'atu nu taasise."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti eenyu?",
+      "options": [
+        "Ilmaan Addaam (Qabil & Habil) .",
+        "Duuka Buutonni Nabi Isaa",
+        "Obboleeyyan Nabi Yuusuf",
+        "Uummata Madyan",
+        "Sihrii Fir'awn"
+      ],
+      "answer": "Obboleeyyan Nabi Yuusuf"
+    },
+    "trial": {
+      "label": "Hojiin badaa keenya inni guddaan maali?",
+      "options": [
+        "Ibaadaadhaaf re'ee warqee ijaaruu",
+        "Rabbiin kallattiin arguu gaafachuu",
+        "Raajii tokko markaba ijaare jedhee qoosuu",
+        "Abbaa keenya gowwoomsuu fi obboleessa keenya gatuu",
+        "Qurxummii qabuun Sanbata cabsuu"
+      ],
+      "answer": "Abbaa keenya gowwoomsuu fi obboleessa keenya gatuu"
+    },
+    "location": {
+      "label": "Gowwoomsaa keenya keessatti wanti giddu galeessa ture maali?",
+      "options": [
+        "Tuuta gabatee barreeffame",
+        "Qamisa dhiiga sobaan faalame",
+        "Re'ee warqee",
+        "Simbirroo bareedduu (Hoopoe) .",
+        "Ulee gara bofaatti jijjiirame"
+      ],
+      "answer": "Qamisa dhiiga sobaan faalame"
+    },
+    "outcome": {
+      "label": "Bu’aan dhumaa seenaa keenyaa maal ture?",
+      "options": [
+        "Bishaan lolaa cimaadhaan balleessine",
+        "Gara hantuutaatti jijjiiramne",
+        "Lafaan liqimfamne",
+        "Dhiifamni nuuf godhamee maatii keenya waliin walitti deebine",
+        "Galaana keessatti liqimfamne"
+      ],
+      "answer": "Dhiifamni nuuf godhamee maatii keenya waliin walitti deebine"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

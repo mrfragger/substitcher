@@ -1,0 +1,61 @@
+{
+  "title": "Çavnebariya ku Xwe Dixwe",
+  "intro": "Çîrokeke ji her padîşahî an nivîsareke pîroz kevintir - yekem trajediya mirovî ya ji çavnebariyê çêbû. Giyanek, mezinê du zarokên ku ji dê û bavên pêşîn çêbûn, bi hêrs temaşe kir çawa xwişk û birayê wî yê biçûk erêkirinek wergirt ku nehatibû redkirin. Ya ku piştre hat kirin hilbijartina herî tarî bû, ku xwîna yekem a ku li ser erdê hatiye rijandin li dû xwe hişt. Hûn dikarin nasname, ceribandin û poşmaniya tal eşkere bikin?",
+  "clues": [
+    "Ez ji pêşî cot mirovên ku li ser rûyê erdê meşiyan, ji dayik bûm.",
+    "Carekê min ji Xwedê re qurbanek pêşkêş kir, lê ji min nehat qebûlkirin.",
+    "Pêşkêşa birayê min hat qebûlkirin, lê ya min hat redkirin—tiştek ku min nikarîbû tehemûl bikim.",
+    "Min birayê xwe bi wêrankirinê tehdît kir.",
+    "Ez yekem kes bûm ku li ser vê dinyayê kuştim, ez jiyana birayê xwe ji dest dam.",
+    "Xwedê afirîdekî ji erdê şand - çûkek reş ku axê dikole - da ku fêrî min bike ka ez çawa tiştên ku min kirine veşêrim, û ji min re ji bilî poşmaniyê tiştek nema."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Qabîl (Qabîl)",
+        "Habîl (Habîl)",
+        "Pêxember Yaqûb",
+        "Pêxember Mûsa",
+        "Pêxember Adem"
+      ],
+      "answer": "Qabîl (Qabîl)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Pêxember ji aliyê Xwedê ve hatiye redkirin",
+        "Avêtin nav agirê mezin",
+        "Wek pitikek di çem de hatiye terikandin",
+        "Bi padîşahiyek mezin ve hat ceribandin",
+        "Ferman hat dayîn ku kurê xwe bikin qurban"
+      ],
+      "answer": "Pêxember ji aliyê Xwedê ve hatiye redkirin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Qijika ku Xwedê şandiye",
+        "Golika zêrîn",
+        "Keştiya li ser çiyê",
+        "Dara şewitî",
+        "Deveya ji kevir hatiye çêkirin"
+      ],
+      "answer": "Qijika ku Xwedê şandiye"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bi poşmaniyê tijî bûm û di nav windahiyan de bûm",
+        "Digel gencîneyan di erdê de hat daqurtandin",
+        "Bûme pêxemberê Xwedê yê hêja",
+        "Bi dilovaniya Xwedê ket bihuştê",
+        "Li ser padîşahiyek bêhempa hukum kir"
+      ],
+      "answer": "Bi poşmaniyê tijî bûm û di nav windahiyan de bûm"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

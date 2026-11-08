@@ -1,0 +1,61 @@
+{
+  "title": "Ukarimu ulioleta hofu",
+  "intro": "Katika jiji lililojaa uovu, mtumishi mwaminifu alipokea wageni wasiotarajiwa siku moja. Akiwa na wasiwasi kuhusu usalama wao, mtu huyu alitoa ulinzi, lakini watu wa jiji walidai jambo la aibu. Akiwa ameonywa kuhusu maangamizi yanayokuja, mtumishi huyo alikimbia na familia yake gizani, akiacha mji uliowekwa alama ya uharibifu. Ni nani huyu mwamini pekee?",
+  "clues": [
+    "Nilitumwa kama mjumbe kwa watu waliokuwa wamejihusisha na matendo ya aibu.",
+    "Wageni wasiotarajiwa walikuja nyumbani kwangu, nami nilikuwa na wasiwasi zaidi kuhusu usalama wao kuliko wangu.",
+    "Watu wangu walidai kuwaona wageni wangu kwa nia mbaya, nami nilijaribu kujadiliana nao.",
+    "Wageni wangu walijidhihirisha kama malaika na kuniamuru nichukue familia yangu na kuondoka usiku.",
+    "Mke wangu hakuitikia wito wa kutoroka na akakabiliwa na uharibifu kama ule wa watu wangu.",
+    "Mji wangu ulipinduliwa na mvua ya mawe ya udongo uliotawanyika, sehemu zake za juu zilishuka chini kabisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Lut",
+        "Nabii Musa",
+        "Nabii Ibrahimu",
+        "Nabii Nuh",
+        "Nabii Hud"
+      ],
+      "answer": "Nabii Lut"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Madai ya watu wangu kuwakaribia wageni wangu kwa uovu",
+        "Kugawanyika kwa bahari ili kutoroka mtawala wa kiimla",
+        "Kujengwa kwa safina kubwa katikati ya dhihaka",
+        "Dhabihu ya mwanangu katika jaribio la imani",
+        "Uzoefu wa kumezwa na samaki mkubwa"
+      ],
+      "answer": "Madai ya watu wangu kuwakaribia wageni wangu kwa uovu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mji uliopinduliwa wa watu wangu",
+        "Mlima ambapo nilipokea hotuba takatifu",
+        "Safina iliyovuka mafuriko makubwa",
+        "Ngamia jike aliyetoka kwenye mwamba",
+        "Bustani yenye mgeni aliyejificha mwenye haki"
+      ],
+      "answer": "Mji uliopinduliwa wa watu wangu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Niliokolewa pamoja na familia yangu kabla ya jiji langu kupinduliwa",
+        "Niliwaongoza watu wangu kwenye uhuru kuvuka bahari",
+        "Nilijenga safina kubwa na kunusurika mafuriko makubwa",
+        "Nilipewa mamlaka juu ya pepo na majini",
+        "Nilivumilia mateso kwa subira na nikapewa familia"
+      ],
+      "answer": "Niliokolewa pamoja na familia yangu kabla ya jiji langu kupinduliwa"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

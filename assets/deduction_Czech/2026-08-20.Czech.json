@@ -1,0 +1,61 @@
+{
+  "title": "Hlas vzdoru",
+  "intro": "Dlouho předtím, než první člověk chodil po zemi, stála v říši dokonalého míru bytost nesmírné moci, obklopená nejoddanějšími dušemi. Když byl vydán jediný rozkaz, všechny hlasy se sklonily na znamení poslušnosti – ale jeden hlas se vzbouřil a tento vzdor se bude ozývat všemi věky až do Posledního Dne. Kdo je tato padlá bytost?",
+  "clues": [
+    "Byl jsem stvořen z něčeho, co jasně hořelo, zatímco ostatní vedle mě byli utvořeni z toho, po čem kráčeli.",
+    "Přebýval jsem na posvátném místě mezi oddanými bytostmi, dokud jediný příkaz neobrátil všechno vzhůru nohama.",
+    "Když přišel rozkaz, všechny duše se uklonily kromě mě; mé odmítnutí pramenilo z pýchy.",
+    "Byl jsem vyhnán z onoho posvátného místa, poznamenán kletbou, která měla trvat navždy.",
+    "Prosil jsem o čas do Dne zmrtvýchvstání a byl mi udělen. Slíbil jsem, že se přiblížím ke každé duši a svedu ji z cesty.",
+    "Až zazní polnice, ti, kdo mě následovali, sdílejí můj osud, připojí se ke mně v planoucím ohni, kde je žádný pomocník nezachrání."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Iblis",
+        "Faraon (Fir'awn)",
+        "Namrud",
+        "Abú Laháb",
+        "Azar (otec Ibrahima)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Rozhodující okamžik",
+      "options": [
+        "Odmítání poklonit se před Adamem",
+        "Uzurpování božství nad velkou říší",
+        "Plánují uvrhnout spravedlivého do plamenů",
+        "Vedení lidí k uctívání zlaté sochy",
+        "Utopení velké armády v moři"
+      ],
+      "answer": "Odmítání poklonit se před Adamem"
+    },
+    "location": {
+      "label": "Posvátné místo",
+      "options": [
+        "Džanna (ráj)",
+        "Velkolepý palác na Nilu",
+        "Věž z cihel sahající k nebi",
+        "Zlaté tele vyrobené z ozdob",
+        "Pec planoucího ohně"
+      ],
+      "answer": "Džanna (ráj)"
+    },
+    "outcome": {
+      "label": "Konečný osud",
+      "options": [
+        "Vyhnán, s oddechem až do zaslíbeného Dne",
+        "Utopeni armádami pod vlnami",
+        "Rozdrceni kameny házenými z nebe",
+        "Roztrháni roji ptáků za letu",
+        "Pohlcen jediným mocným výbuchem"
+      ],
+      "answer": "Vyhnán, s oddechem až do zaslíbeného Dne"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

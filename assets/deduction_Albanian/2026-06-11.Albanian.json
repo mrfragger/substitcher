@@ -1,0 +1,61 @@
+{
+  "title": "Fshati në brigjet e sprovës",
+  "intro": "E gjen veten në një fshat bregdetar, ku zhurma e valëve përzihet me pëshpëritjet e një populli të harruar. Atyre iu dha urdhër të pushonin, por lakmia e tyre çoi në një ndëshkim për të cilin ende flitet me zë të ulët. A mund ta zbulosh se kush ishin ata?",
+  "clues": [
+    "Ne jetonim pranë bregut dhe na u dha urdhër të mbanim një ditë pushimi.",
+    "Atë ditë, peshqit do të vinin tek ne me bollëk, por na ishte e ndaluar t’i merrnim.",
+    "Disa prej nesh paralajmëruan kundër shkeljes, por të tjerë komplotuan për të peshkuar gjithsesi.",
+    "Ne shkelëm urdhrin e shenjtë dhe sollëm mbi veten tonë një ndëshkim të rëndë.",
+    "Ndëshkimi ynë ishte një transformim që na la të shpërfytyruar dhe të turpëruar.",
+    "Ne u shndërruam në majmunë, një shenjë për të gjithë ata që do të vinin më pas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Njerëzit e Sabatit",
+        "Populli i Themudit",
+        "Populli i Adit",
+        "Njerëzit e Shpellës",
+        "Njerëzit e Elefantit"
+      ],
+      "answer": "Njerëzit e Sabatit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Peshkimi në Sabat",
+        "Adhurimi i një viçi të artë",
+        "Mohimi i mesazhit të Hudit",
+        "Vrasja e devesë",
+        "Ndërtimi i një kulle drejt qiellit"
+      ],
+      "answer": "Peshkimi në Sabat"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Peshku",
+        "Një deve",
+        "Një staf",
+        "Një varkë",
+        "Një kopsht"
+      ],
+      "answer": "Peshku"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U shndërruan në majmunë",
+        "Shkatërruar nga një përmbytje",
+        "Shkatërrohet nga një zjarr i përvëluar",
+        "Gëlltitur nga toka",
+        "I shpërndarë nga një erë"
+      ],
+      "answer": "U shndërruan në majmunë"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La fiducia riposta nel fiume",
+  "intro": "Un'anima si trovò di fronte a un decreto impossibile, dove la vita di un neonato era in bilico. Guidata dall'ispirazione divina, un comando disperato fu obbedito e un prezioso segreto fu affidato alla corrente, per poi essere ritrovato in un modo imprevedibile.",
+  "clues": [
+    "Ho vissuto all'ombra di un tiranno che ordinava l'uccisione dei neonati maschi.",
+    "Un'ispirazione divina mi ha guidato verso un gesto disperato e straziante.",
+    "Ho messo il mio prezioso neonato in una cassa e l'ho adagiato sul fiume che scorreva.",
+    "Il mio cuore si è svuotato e stavo quasi per rivelare il segreto, ma Allah ha rafforzato la mia determinazione.",
+    "Ho mandato qualcuno a seguire il percorso del bambino a valle, mentre la corrente trascinava via la cassa.",
+    "La bambina fu ritrovata dalla famiglia del tiranno e, alla fine, riuscii a ricongiungermi con lei e a diventare la sua bambinaia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Madre del profeta Mosè",
+        "Asiya (moglie del faraone)",
+        "Maria (madre del profeta Isa)",
+        "La moglie del profeta Lutero",
+        "La madre del profeta Yahya (moglie di Zakariya)"
+      ],
+      "answer": "Madre del profeta Mosè"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Mise il bambino in una cassa e la depose sul fiume.",
+        "Ha nascosto suo figlio in una grotta",
+        "Ha abbandonato suo figlio nel deserto.",
+        "Ha gettato suo figlio nel fuoco",
+        "Ha lasciato suo figlio sulla porta di una moschea"
+      ],
+      "answer": "Mise il bambino in una cassa e la depose sul fiume."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una cassa lasciata galleggiare sul fiume",
+        "Un roveto ardente",
+        "Un bastone che si è trasformato in un serpente",
+        "Una tavola imbandita con cibo paradisiaco.",
+        "Una cammella inviata come segno"
+      ],
+      "answer": "Una cassa lasciata galleggiare sul fiume"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Si è ricongiunta con suo figlio e lo ha allattato.",
+        "Non rivide mai più suo figlio.",
+        "Fu giustiziata dal tiranno",
+        "Divenne regina in Egitto",
+        "Emigrò in un altro paese e visse in esilio"
+      ],
+      "answer": "Si è ricongiunta con suo figlio e lo ha allattato."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

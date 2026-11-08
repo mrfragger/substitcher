@@ -1,0 +1,61 @@
+{
+  "title": "An t-éad a d'ith",
+  "intro": "Scéal níos sine ná aon ríocht nó scrioptúr—an chéad thragóid dhaonna a rugadh as éad. D’fhéach anam amháin, an duine ba shine de bheirt pháistí a rugadh do na chéad tuismitheoirí, le fearg agus siblín níos óige ag fáil fabhar a diúltaíodh dó. Ba é an rud ba dhorcha a lean, ag fágáil an chéad fhuil a doirteadh riamh ar an domhan ina diaidh. An féidir leat an t-aitheantas, an triail, agus an t-aiféala searbh a nochtadh?",
+  "clues": [
+    "Rugadh mé den chéad péire daonna riamh a shiúl an domhan.",
+    "Rinne mé ofráil uair amháin do Allah, ach níor glacadh léi uaimse.",
+    "Glacadh le tairiscint mo dhearthár, ach diúltaíodh do mo chuid féin—rud nach raibh mé in ann a sheasamh.",
+    "Bhagair mé mo dheartháir féin le scrios.",
+    "Ba mise an chéad duine a rinne dúnmharú ar an domhan seo, ag baint beatha mo dhearthár/deirfiúr féin.",
+    "Chuir Allah créatúr talún—éan dubh ag tochailt sa talamh—chun múineadh dom conas a cheilt a raibh déanta agam, agus ní raibh fágtha agam ach aiféala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Ábal)",
+        "an Fáidh Yaqub",
+        "an Fáidh Músa",
+        "Fáidh Ádhamh"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Diúltaíodh an tairiscint ag Allah",
+        "Caitheadh ​​i dtine mhór",
+        "Tréigthe mar leanbh in abhainn",
+        "Tástáilte le ríocht ollmhór",
+        "Ordaíodh mac duine a íobairt"
+      ],
+      "answer": "Diúltaíodh an tairiscint ag Allah"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An préachán a sheol Allah",
+        "An lao órga",
+        "An áirc ar an sliabh",
+        "An tor dóite",
+        "An camall baineann snoite as carraig"
+      ],
+      "answer": "An préachán a sheol Allah"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Lán le brón agus i measc na gcailleoirí",
+        "Slogtha isteach sa talamh mar aon le seoda",
+        "Tháinig sé chun bheith ina theachtaire uasal de chuid Allah",
+        "Chuaigh isteach i bParthas trí thrócaire Dé",
+        "Rialaithe thar ríocht gan sárú"
+      ],
+      "answer": "Lán le brón agus i measc na gcailleoirí"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

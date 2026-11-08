@@ -1,0 +1,61 @@
+{
+  "title": "I custodi del raccolto segreto",
+  "intro": "In una terra lussureggiante, un gruppo di individui ordì un piano segreto al riparo dell'oscurità. Condividevano un obiettivo comune, ma le loro intenzioni erano tutt'altro che nobili. Non sapevano che un colpo di scena divino li attendeva nel sonno.",
+  "clues": [
+    "Abbiamo preso una decisione ferma, convinti che il nostro piano fosse impeccabile.",
+    "Avevamo intenzione di uscire presto, prima ancora che gli altri si svegliassero.",
+    "Ci incamminammo verso un terreno fertile, fiduciosi nelle nostre provviste.",
+    "Quando raggiungemmo la nostra destinazione, la trovammo spoglia e desolata, e pensammo di esserci persi.",
+    "Poi ci rendemmo conto che quello era davvero il nostro posto, e gridammo disperati, incolpandoci a vicenda per la nostra perdita.",
+    "Quella mattina avevamo giurato di escludere i poveri dal nostro raccolto, ma la punizione di Allah si è abbattuta su di noi mentre dormivamo, riducendo il nostro giardino in rovina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "I proprietari del giardino nella Sura 68",
+        "Il popolo di Saba",
+        "I compagni della caverna",
+        "Il popolo dell'elefante",
+        "La gente della trincea"
+      ],
+      "answer": "I proprietari del giardino nella Sura 68"
+    },
+    "trial": {
+      "label": "La nostra prova",
+      "options": [
+        "Il nostro giardino è stato distrutto da una calamità caduta dal cielo.",
+        "Il nostro giardino è stato spazzato via da un'alluvione.",
+        "Il nostro giardino è stato bruciato da un incendio appiccato da un nemico",
+        "Il nostro giardino era pieno di locuste",
+        "Il nostro giardino è stato inghiottito da un terremoto."
+      ],
+      "answer": "Il nostro giardino è stato distrutto da una calamità caduta dal cielo."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Abbiamo giurato di coglierne i frutti al mattino",
+        "Abbiamo costruito una diga per irrigare il nostro giardino.",
+        "Abbiamo cercato rifugio in una grotta per proteggerci",
+        "Abbiamo preparato un esercito per conquistare un regno",
+        "Abbiamo navigato su una nave per attraversare il mare"
+      ],
+      "answer": "Abbiamo giurato di coglierne i frutti al mattino"
+    },
+    "outcome": {
+      "label": "Il nostro destino",
+      "options": [
+        "Ci siamo pentiti e abbiamo sperato nella misericordia di Allah.",
+        "Eravamo completamente distrutti e non ci siamo mai pentiti",
+        "Siamo fuggiti da quella terra e non vi abbiamo mai più fatto ritorno.",
+        "Siamo tornati ad essere potenti e ricchi",
+        "Siamo stati puniti venendo trasformati in scimmie"
+      ],
+      "answer": "Ci siamo pentiti e abbiamo sperato nella misericordia di Allah."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

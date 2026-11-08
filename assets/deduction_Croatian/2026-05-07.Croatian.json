@@ -1,0 +1,61 @@
+{
+  "title": "Pozivatelj iz dubine",
+  "intro": "Zamislite dušu kojoj je povjerena božanska poruka, a opet, u trenutku žurbe, napustila je svoj narod bez izričitog dopuštenja. Ovo putovanje ih je dovelo do izvanrednog iskušenja, dubokog testa strpljenja i oslanjanja na Svevišnjeg. Tko je ta osoba čija nas priča uči o pokajanju i prostranosti Allahove milosti?",
+  "clues": [
+    "Bio sam poslan u veliku naciju, ali njihovo početno odbijanje uzrokovalo mi je nevolju.",
+    "Napustio sam svoje ljude, vjerujući da je moja misija završena, prije nego što sam primio jasnu naredbu za odlazak.",
+    "Tražio sam mjesto za putovanje brodom, ali jaka oluja i izvlačenje ždrijeba doveli su do teške situacije.",
+    "Bačen sam u more, a moćno stvorenje dubina me cijelog progutalo.",
+    "U tami njegove utrobe, zazvao sam Allaha, priznajući svoj grijeh i tražeći Njegov oprost.",
+    "Allah je naredio stvorenju da me izbaci na obalu, a ja sam ozdravio pod jedinstvenom biljkom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Jusuf (Josif)",
+        "Poslanik Nuh (Noa)",
+        "Poslanik Junus (Jona)",
+        "Poslanik Sulejman (Solomon)",
+        "Poslanik Ajjub (Job)"
+      ],
+      "answer": "Poslanik Junus (Jona)"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Cijepanje mora",
+        "Nimrodova vatra",
+        "Biti progutan od strane velike ribe",
+        "Poplava",
+        "Uništenje grada kamenjem"
+      ],
+      "answer": "Biti progutan od strane velike ribe"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Trbuh ribe",
+        "Bunar",
+        "Gorući grm"
+      ],
+      "answer": "Trbuh ribe"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postao je veliki vladar",
+        "Izgradio je Kabu",
+        "Vratio se da vodi pokajanu naciju",
+        "Dobio je vlast nad džinima",
+        "Vodio je ljude preko pustinje"
+      ],
+      "answer": "Vratio se da vodi pokajanu naciju"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

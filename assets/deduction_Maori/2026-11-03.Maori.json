@@ -1,0 +1,61 @@
+{
+  "title": "Te Moenga o te Hunga Tika",
+  "intro": "I te wā i mōrearea ai te whakapono, ā, i rapu te hunga whai mana ki te whakangaro i te whakapono, i whiriwhiria e tētahi rōpū taitamariki he kōwhiringa ka pāorooro tonu i roto i ngā tau. I te oma atu i ngā mea katoa i mōhiotia e rātou, ka rapu piringa rātou i roto i te pōuri huna o te maunga, ā, ka whakawhirinaki katoa ki a Allah. Ko te mea i tupu i muri mai ka waiho hei tohu pumau mō te hunga e whakaaroaro ana.",
+  "clues": [
+    "He rōpū taitamariki mātou i whakapono ki tō mātou Ariki, ā, i whakanuia e ia tō mātou arataki.",
+    "I tū mātou i mua i tō mātou iwi, ā, i kī mātou e kore rawa mātou e karanga ki tētahi atu atua i tua atu i a Allah.",
+    "I rapu piringa mātou i roto i tētahi ana, me te kī atu, 'E tō mātou Ariki, homai he aroha ki a mātou, ā, arahina mātou i roto i te tika o tā mātou mahi.'",
+    "He maha ngā tau i moe ai mātou, ā, ka anga atu te rā i tō mātou ana, ā, kāore e pā mai ki a mātou.",
+    "I takoto ta mātou kurī i te kuwaha o te ana, e tiaki ana i a mātou me te mea kei te tūtaki.",
+    "I tō mātou oho ake, ka miharo mātou kia pēhea te roa o tō mātou noho, ā, ka tonoa mai tētahi o mātou me ngā moni hiriwa hei hoko kai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā tāngata o te ana",
+        "Ngā tāngata o te awaawa",
+        "Ngā tāngata o te Hāpati",
+        "Ngā tāngata o te arewhana",
+        "Ngā Hoa o te Ngāhere"
+      ],
+      "answer": "Ngā tāngata o te ana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I rere ki tētahi ana hei mawhiti i te whakatoi mō tō rātou whakapono",
+        "I whakangaromia e te hau kaha",
+        "Horomia e te whenua",
+        "I toremi ki te moana",
+        "I pāngia e te tupuhi o ngā kōhatu"
+      ],
+      "answer": "I rere ki tētahi ana hei mawhiti i te whakatoi mō tō rātou whakapono"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He kurī e tiaki ana i te tomokanga o te ana",
+        "He āaka nui",
+        "He tokotoko i huri hei nakahi",
+        "He manu hūpō",
+        "He kuao kau koura"
+      ],
+      "answer": "He kurī e tiaki ana i te tomokanga o te ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I noho rātou i roto i te ana mō ngā tau 309, ā, i whakaarahia ake rātou hei tohu",
+        "I hurihia rātou hei makimaki",
+        "I whakangaromia rātou e te waipuke",
+        "I meinga rātou kia whiti i te moana",
+        "I hoatu he kingitanga ki a rātou"
+      ],
+      "answer": "I noho rātou i roto i te ana mō ngā tau 309, ā, i whakaarahia ake rātou hei tohu"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

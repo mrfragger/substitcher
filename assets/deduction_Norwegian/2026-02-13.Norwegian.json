@@ -1,0 +1,61 @@
+{
+  "title": "Suverenens store underkastelse",
+  "intro": "Du befinner deg i et land med eldgamle underverker og dype åpenbaringer. En mektig hersker, stilt overfor en uventet invitasjon, la ut på en reise som skulle forandre hennes skjebne og folkets tro. Kan du avdekke identiteten til denne majestetiske skikkelsen?",
+  "clues": [
+    "Jeg hersket over et velstående kongerike, utsmykket med enorm rikdom og en praktfull trone.",
+    "Mitt folk og jeg tilba et himmellegeme, i den tro at det var vår herre, selv om jeg næret tvil i mitt hjerte.",
+    "En merkelig budbringer, en fugl, leverte et brev til meg, der han oppfordret meg og mitt folk til underkastelse til den ene Gud.",
+    "Jeg rådførte meg med rådgiverne mine, som var mektige i styrke, om hvordan jeg skulle reagere på dette enestående budskapet.",
+    "Jeg bestemte meg for å sende en verdifull gave til den som sendte brevet, i håp om å få et inntrykk av hans makt og intensjoner.",
+    "Da jeg ankom, ble jeg forbløffet over et palass med et gulv av glass, som så ut som et vannbasseng, og det var da jeg erklærte min underkastelse til Herren over all skapning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Farao",
+        "Dronningen av Saba",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Profeten Yusuf"
+      ],
+      "answer": "Dronningen av Saba"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Havets splittelse",
+        "Den store flommen",
+        "Reisen for å møte profeten Sulayman",
+        "Ødeleggelsen av Luts folk",
+        "Profeten Ibrahims brenning"
+      ],
+      "answer": "Reisen for å møte profeten Sulayman"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Arken",
+        "De ansatte",
+        "Tronen",
+        "Fjellet",
+        "Ilden"
+      ],
+      "answer": "Tronen"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Ble en profet",
+        "Ble ødelagt av Allah",
+        "Omfavnet islam",
+        "Ledet sitt folk til krig",
+        "Bygde et storslått tempel"
+      ],
+      "answer": "Omfavnet islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

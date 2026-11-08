@@ -1,0 +1,61 @@
+{
+  "title": "Il-Vuċi Siekta tal-Wied",
+  "intro": "Mur lura fiż-żmien għal poplu setgħan li darba rċieva meravilja ħajja bħala prova. L-arroganza u r-ras iebsa ssiġillaw id-destin tagħhom. Tista' ssegwi l-istorja u tiskopri x'żvolġa f'dan il-punt ta' bidla drammatiku?",
+  "clues": [
+    "Intbgħatt bħala prova divina lil poplu setgħan magħruf għas-saħħa u r-ruħ qawwija tiegħu.",
+    "Jien kont meravilja unika—xi ħadd bħali qatt ma kien deher fosthom.",
+    "Kont naqsam l-ilma tax-xorb minn bir man-nies tiegħi f'jiem alternattivi.",
+    "Huma ġew mwissija li kwalunkwe ħsara kontrija kienet se ġġib kastig malajr.",
+    "L-aktar kuraġġużi minnhom injoraw it-twissija u waqqfuni l-muskoli tal-muskoli.",
+    "Wara mewti, għajta waħda qawwija minn fuq qerdet il-poplu kollu tiegħi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Ġemela ta’ Salih",
+        "Il-Baqra ta’ Musa",
+        "Il-Vapur ta’ Nuh",
+        "L-Istaff ta’ Musa",
+        "It-Tron ta' Bilqis"
+      ],
+      "answer": "Il-Ġemela ta’ Salih"
+    },
+    "trial": {
+      "label": "Id-Destin Tiegħi",
+      "options": [
+        "Imdendel u maqtul",
+        "Maqtul bħala sagrifiċċju",
+        "Trasformat f'serp",
+        "Ippreservat permezz ta’ għargħar kbir",
+        "Miġjub malajr minn naħa għal oħra ta’ saltna"
+      ],
+      "answer": "Imdendel u maqtul"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Bir ta' ilma",
+        "Tavla tal-ġebel",
+        "Siġra taqbad",
+        "Arka tal-injam",
+        "Tron tad-deheb u l-fidda"
+      ],
+      "answer": "Bir ta' ilma"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Meqrud minn għajta waħda",
+        "Għerqet f'għargħar kbir",
+        "Maħruq minn xita ta’ ġebel",
+        "Imkisser minn riħ qawwi",
+        "Mibela’ mill-art"
+      ],
+      "answer": "Meqrud minn għajta waħda"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

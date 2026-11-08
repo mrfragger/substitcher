@@ -1,0 +1,61 @@
+{
+  "title": "Dëgjuesit nga e Padukshmja",
+  "intro": "Përtej velit të botës së dukshme, një grup i fshehur u mblodh në errësirë, i tërhequr nga një tingull që sfidonte gjithçka që ata kishin njohur. Ata kishin endej për shekuj pa udhëzim të vërtetë, derisa një zë depërtoi nëpër heshtjen e mbretërisë së tyre të padukshme dhe nxiti diçka thellë brenda tyre. Sonte, ju jeni të ftuar të shkoni përtej hijeve dhe të zbuloni identitetin e këtij grupi misterioz, takimi i të cilit me fjalët hyjnore i çoi ata përsëri te populli i tyre si paralajmërues të një të vërtete që nuk mund të përmbahej.",
+  "clues": [
+    "Ne jemi qenie të lashta, që kemi ekzistuar shumë kohë para shumë kombeve për të cilat keni lexuar, megjithatë rrallë përmendemi në përrallat njerëzore.",
+    "Natyra jonë është ndryshe nga e jotja, e endur nga elementë të së padukshmes, dhe ne kemi fuqi që sfidojnë të zakonshmen.",
+    "Për shekuj me radhë, ne endeshim pa një udhëheqje të vërtetë, derisa një tingull na arriti që trazoi diçka thellë brenda nesh.",
+    "Dëgjuam rastësisht një recitim si asgjë që nuk e kishim dëgjuar më parë, fjalë që mbanin një peshë përtej çdo të foluri.",
+    "Ne u afruam shumë fshehurazi, duke i urdhëruar të vetët të heshtnin, dhe kur vargjet mbaruan, nuk mundëm të qëndronim në vend.",
+    "Ne u kthyem te populli ynë dhe u thamë: “O populli ynë, ne dëgjuam një Libër të shpallur pas Musait, që vërteton atë që ishte para tij dhe udhëzon drejt së vërtetës!”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Hawariyyun (Dishepujt e Isait)",
+        "Xhindi që besoi pasi dëgjoi Kuranin",
+        "Shokët e Shpellës",
+        "Engjëjt e qiellit më të ulët",
+        "Populli i Faraonit që ndoqën rrugën e tij"
+      ],
+      "answer": "Xhindi që besoi pasi dëgjoi Kuranin"
+    },
+    "trial": {
+      "label": "Provë / Ngjarje",
+      "options": [
+        "Ne u dëbuam sepse refuzuam të përkuleshim para një qenieje të sapokrijuar",
+        "Ne u vulosëm në një shpellë për treqind e nëntë vjet",
+        "Na u urdhërua të kalonim një det që u nda para nesh",
+        "Na dërguan në një vend magjie për të mësuar magjinë",
+        "Ne dëgjuam një recitim fshehurazi dhe u transformuam prej tij"
+      ],
+      "answer": "Ne dëgjuam një recitim fshehurazi dhe u transformuam prej tij"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një viç i artë i modeluar nga stolitë e një populli",
+        "Një shpellë në të cilën gjumi zgjati për breza të tërë",
+        "Dy engjëj në Babiloni që mësuan njohuri të ndaluara",
+        "Një libër i zbritur pas Moisiut, që vërteton Teuratin",
+        "Një kaçubë që digjet në majë të një mali të shenjtë"
+      ],
+      "answer": "Një libër i zbritur pas Moisiut, që vërteton Teuratin"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Ne ishim të mallkuar deri në Ditën e Gjykimit",
+        "Ne u ngritëm kundër një sundimtari të fuqishëm dhe ndërtuam një pengesë në tokë",
+        "Ne u transformuam në majmunë dhe derra",
+        "Ne u kthyem te populli ynë si paralajmërues, duke shpallur besimin",
+        "Ne u mbytëm në det bashkë me udhëheqësin tonë"
+      ],
+      "answer": "Ne u kthyem te populli ynë si paralajmërues, duke shpallur besimin"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

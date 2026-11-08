@@ -1,0 +1,61 @@
+{
+  "title": "Bir kechada yo'q bo'lib ketgan bog'",
+  "intro": "Pishgan mevalarga boy va baland daraxtlar bilan o'ralgan yam-yashil bog'ni tasavvur qiling. Unga g'amxo'rlik qilganlar o'zlarini aqlli deb hisoblashgan, hosilni tong otmasdan oldin sokin soatlarda, muhtojlarning ko'zidan uzoqda rejalashtirishgan. Lekin hech qachon uxlamaydigan Zotning ularning yashirin ne'matlari uchun boshqa rejalari bor edi. Qur'ondagi bu ogohlantiruvchi hikoya ortida kim turganini taxmin qila olasizmi?",
+  "clues": [
+    "Bir paytlar bizda shunday yam-yashil va mo'l-ko'l bog' bor ediki, u yonidan o'tganlarning hammasiga hasad qilardi.",
+    "Reja tuzish jarayonida biz erta tongda bir-birimizga pichirlab, o'sha kuni hech bir muhtoj odamning kirishiga ruxsat berilmasligini aytdik.",
+    "Biz boy odamlar edik va qalbimiz atrofimizdagi kambag'allarning huquqlarini ko'r qilib qo'ygan edi.",
+    "Biz rejalashtirgan hosil tong otganda, bog'imizga yaqinlashdik va u bir kechada qoraygan xarobaga aylanganini ko'rdik.",
+    "Vayronkor farmon bir paytlar pishgan mevalar osilib turgan joyda faqat kul qoldirdi.",
+    "Bizning hikoyamiz Qur'onda qayd etilgan qattiq ogohlantirishdir, unda biz muhtojlardan sadaqa ayamagan bog' egalari sifatida tanilganmiz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Bog' egalari",
+        "G'or ahli",
+        "Iso payg'ambarning shogirdlari",
+        "O'rmon egalari",
+        "Ibrohimning mehmonlari"
+      ],
+      "answer": "Bog' egalari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yashirincha mevalarni yig'ib olish va kambag'allarni taqiqlash",
+        "G'or ichida asrlar davomida uxlash",
+        "Toshdan urg'ochi tuya yasashdan bosh tortish",
+        "Sinay tog'ida oltin buzoqqa sig'inish",
+        "To'fondan qochish uchun katta kema qurish"
+      ],
+      "answer": "Yashirincha mevalarni yig'ib olish va kambag'allarni taqiqlash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Xurmo va uzumzorlar bilan to'ldirilgan devor bilan o'ralgan bog'",
+        "Tog'larning tubidagi qorong'u g'or",
+        "Ilohiy bo'ron bosib olgan shahar",
+        "Allohning uyi yaqinidagi muqaddas vodiy",
+        "Oqayotgan daryoning qirg'oqlari"
+      ],
+      "answer": "Xurmo va uzumzorlar bilan to'ldirilgan devor bilan o'ralgan bog'"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Bog' osmondan kelgan jazirama farmon bilan yonib ketdi",
+        "Ular 309 oy yili davomida tinch uxladilar",
+        "Ular tosh yomg'iri ostida ezildi",
+        "Ular buyuk toshqin to'lqinlari ostida cho'kib ketishdi",
+        "Ular sovuq, shiddatli shamolning bir zarbasi bilan tarqab ketishdi"
+      ],
+      "answer": "Bog' osmondan kelgan jazirama farmon bilan yonib ketdi"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

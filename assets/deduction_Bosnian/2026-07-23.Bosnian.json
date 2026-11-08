@@ -1,0 +1,61 @@
+{
+  "title": "Vojska koju je dočekala leteća glina",
+  "intro": "U eri prije proroka Muhameda, moćni vladar iz Jemena pokrenuo je vojnu kampanju s ciljem uništenja svetog utočišta u Meki. Ovaj neprijatelj je predvodio ogromnu vojsku, uključujući i ratne slonove, uvjeren u njihovu snagu i brojnost. Međutim, njihovo putovanje je naglo završilo kada su naišli na neočekivanu božansku intervenciju. Možete li prepoznati ko se suočio s ovim izvanrednim obračunom?",
+  "clues": [
+    "Marširali smo s ogromnom vojskom i moćnim ratnim slonovima prema svetoj kući",
+    "Namjeravali smo iščupati i uništiti bogomolju koju su izgradili sluge Najmilostivijeg",
+    "Jato malih ptica poslano je protiv nas, noseći glineno kamenje u kljunovima i kandžama",
+    "Dočekao nas je zvuk koji je bacao kamenje na nas, pretvarajući nas u zgažene ostatke",
+    "Bio sam iz zemlje Jemen i služio sam pod vladarom koji je nastojao sačuvati sveto svetište.",
+    "Postali smo primjer onima koji bi se usudili oskrnaviti Allahovo svetište."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Vojska Abraha al-Ashrama",
+        "Etiopske snage",
+        "Perzijski osvajači",
+        "Rimske legije",
+        "Beduinski osvajači"
+      ],
+      "answer": "Vojska Abraha al-Ashrama"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Opsada pustinjske tvrđave",
+        "Invazija na sveto utočište u Meki",
+        "Pomorska bitka na moru",
+        "Pobuna protiv tiranskog kralja",
+        "Potraga za izgubljenim prorokom"
+      ],
+      "answer": "Invazija na sveto utočište u Meki"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dolina Mine blizu Meke",
+        "Palača u Sani u Jemenu",
+        "Planine Tihamah",
+        "Drevni grad Jeruzalem",
+        "Obale Crvenog mora"
+      ],
+      "answer": "Dolina Mine blizu Meke"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Pobjeda i uništenje svete kuće",
+        "Poraz od ptica koje nose glineno kamenje",
+        "Mirna predaja i preobraćenje",
+        "Glad i prirodne katastrofe",
+        "Povlačenje zbog obilnih padavina"
+      ],
+      "answer": "Poraz od ptica koje nose glineno kamenje"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Supplicator Sanctuarii",
+  "intro": "Noctis horis quietis, anima quaedam devota ad Misericordem Deum intra sacra loci parietes invocavit. Anni fidei et patientiae inconcussae miraculo remunerandi erant, quod gaudium et hereditatem prophetiae afferret.",
+  "clues": [
+    "Dies noctesque meas intra sanctum sanctuarium in devotione transigebam, Dominum meum incessanter supplicans.",
+    "Senuiti, et uxor mea sterilis erat, tamen numquam spem in misericordia Dei amisi.",
+    "Datus sum mihi filio, nomine Yahya, qui factus est propheta et signum iustitiae.",
+    "Ipse propheta fui, missus ad filios Israel ducendos.",
+    "Progenies prophetae Harunis eram et sacerdos in templo functus sum.",
+    "Cura Mariae, matris Isae, mihi commissa est, eiusque miracula vidi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Zacharias",
+        "Propheta Yahya",
+        "Propheta Ilyas",
+        "Propheta Isaac",
+        "Propheta Ya'qub"
+      ],
+      "answer": "Propheta Zacharias"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Filium in senectute donavit",
+        "Servatus ab igne ardente",
+        "E ventre piscis servatus",
+        "Magnum diluvium supervixit",
+        "Curatus a gravi morbo"
+      ],
+      "answer": "Filium in senectute donavit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Mihrab (locus precum)",
+        "Kaaba",
+        "Rubus Ardens",
+        "Arca Foederis",
+        "Spelunca Septem Dormientum"
+      ],
+      "answer": "Mihrab (locus precum)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Datus est filio iusto qui propheta factus est",
+        "Violenta tempestate vastatus",
+        "In mari submersus",
+        "Servatus a combustione",
+        "Ad suos redierunt postquam a pisce servati sunt"
+      ],
+      "answer": "Datus est filio iusto qui propheta factus est"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

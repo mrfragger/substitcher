@@ -1,0 +1,61 @@
+{
+  "title": "Sikina Pasea",
+  "intro": "Sateuacan dunya terang konflik anu nyebar, tés iman sareng kataatan anu jero parantos lumangsung. Narasi ieu ngajalajah pilihan anu dilakukeun ku hiji jalma, anu tindakanna netepkeun preseden pikeun generasi anu bakal datang. Siap-siap pikeun ngabongkar carita jiwa anu berjuang ngalawan rasa sirik anu ageung sareng akibat anu dahsyatna.",
+  "clues": [
+    "Abdi kalebet turunan anu munggaran anu hirup di bumi, putra ti pasangan manusa anu munggaran pisan.",
+    "Abdi sareng lanceuk abdi diparentahkeun pikeun ngurban ka Allah, pikeun nguji kaikhlasan urang.",
+    "Kurban kuring teu ditampi, sedengkeun kurban lanceuk kuring ditampi, anu ngeusian haté kuring ku émosi anu pikasieuneun.",
+    "Kuring ngucapkeun kecap-kecap ancaman ka lanceuk kuring, didorong ku kapaitan akibat ditolak.",
+    "Lanceuk kuring ngawaler kalawan hikmah jeung takwa, ngingetkeun kuring kana kaadilan Allah jeung rasa sieun ka Anjeunna.",
+    "Sanajan lanceuk kuring nyarita lemes jeung daék ngahampura, kuring malah nyokot nyawa, jadi salah sahiji jalma anu éléh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Nabi Adam",
+        "Iblis",
+        "Nabi Nuh",
+        "Qabil (Kain)",
+        "Fir'aun"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Banjir ageung",
+        "Beulahna laut",
+        "Pangwangunan Ka'bah",
+        "Kurban kurban",
+        "Godaan di Kebon"
+      ],
+      "answer": "Kurban kurban"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Bahtera",
+        "Staf",
+        "Gunung Safa",
+        "Kurban",
+        "Rungkun Nu Ngaduruk"
+      ],
+      "answer": "Kurban"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Janten utusan",
+        "Tilelep",
+        "Ngawangun karajaan anu ageung",
+        "Janten conto kaduhung",
+        "Dipasihan kakayaan anu teu aya bandinganna"
+      ],
+      "answer": "Janten conto kaduhung"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

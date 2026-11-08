@@ -1,0 +1,61 @@
+{
+  "title": "Ukhumanta Llamaq",
+  "intro": "Piensariy huk alma Diospa willakuyninta encargasqa, chaywanpas huk ratollapi usqaylla llaqtankumanta ripuq, mana sut’i permisoyoq. Kay puriymi paykunata pusarqan huk mana hayk’aq rikusqa pruebaman, huk hatun prueba pacienciamanta hinallataq Ancha Hatun Diospi hap’ipakuymanta. ¿Pitaq kay sapan runa, willakuynin yachachiwanchis pesapakuymanta, Allahpa khuyapayakuyninpa hatun kayninmantawan?",
+  "clues": [
+    "Hatun nacionmanmi kachawarqanku, ichaqa qallariypi mana chaskiwasqankun llakichiwarqan.",
+    "Llaqtayta saqerqani, misionniy hunt’asqa kasqanpi iñispa, manaraq ripunaypaq sut’i kamachikuyta chaskishaspa.",
+    "Huk barcopin pasajeta maskharqani, ichaqa sinchi wayra-parawan sorteowanmi sinchi sasachakuypi tarikurqani.",
+    "Lamar qochaman wikch'uykusqa kani, ukhumanta huk atiyniyoq kawsaqmi lliwta millp'uwarqan.",
+    "Wiksanpa tutayaq ukhupin Allahta waqyarqani, mana allin ruwasqayta reqsikuspa pampachayta maskhaspa.",
+    "Allah kamachirqa chay unanchata qucha pataman wikch’uwananpaq, chaymi huk sapaq yurapa uranpi qhaliyarqani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Yusuf (José) sutiyuq runa.",
+        "Profeta Nuh (Noe) sutiyuq runa.",
+        "Profeta Yunus (Jonas) .",
+        "Profeta Sulaiman (Salomon) sutiyuq runam.",
+        "Profeta Ayub (Job) sutiyuq runa."
+      ],
+      "answer": "Profeta Yunus (Jonas) ."
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Lamar qochapa rakinakuynin",
+        "Nimrodpa ninan",
+        "Hatun challwawan millp’usqa kay",
+        "Chay unu hunt’aykusqan",
+        "Rumikunawan huk llaqtata chinkachiy"
+      ],
+      "answer": "Hatun challwawan millp’usqa kay"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Arca",
+        "El Personal",
+        "Challwapa wiksan",
+        "Pukyu",
+        "Ruphachkaq sacha"
+      ],
+      "answer": "Challwapa wiksan"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Hatun kamachiqman tukupurqan",
+        "Kaaba llaqtata hatarichirqa",
+        "Kutimurqa hukmanta wanakuq llaqtata pusananpaq",
+        "Jinnkunata kamachiyta qusqaku",
+        "Runakunata pusarqa chunniq chimpaman"
+      ],
+      "answer": "Kutimurqa hukmanta wanakuq llaqtata pusananpaq"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

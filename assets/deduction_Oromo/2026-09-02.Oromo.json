@@ -1,0 +1,61 @@
+{
+  "title": "Hirriba Yeroo Darbe",
+  "intro": "Mee yeroo dhugaan callifamee amantoonni adamfamani yaadi. Gareen xiqqaan tokko harka kennachuu irra duubatti deebi'uu filate, bakka baay'ee hin fakkaanne keessatti baqannaa argate — bakka jaarraa lakkaa'amuu bira darbee bakka boqonnaa isaanii ta'u. Dhumarratti yeroo dammaqan addunyaan naannoo isaaniitti jijjiiramee ture. Lubbuuwwan hirriba keessa jiran kun eenyu?",
+  "clues": [
+    "Dargaggoota magaalaa durii keessa jiraachaa turre.",
+    "Hawaasni keenya isaan cinaa akka waaqeffannu gaafate, nuti garuu didde.",
+    "Warra amantaa keenya morman jalaa baqannee magaalattii baqanne.",
+    "Hiriyaan amanamaan miila afur qabu tokko seensa bakka dhokannee turre irra bule.",
+    "Rabbiin waggaa dhibba sadii fi sagal nu raffise.",
+    "Dhumarratti yeroo dammaqnu, magaalaan keenya yeroo tokko ariʼatamaa turte amantii fudhattee turte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Ashab al-Kahf (Ummata Holqa) .",
+        "Ashab al-Fil (Waraana Qeerroo) .",
+        "Ashab al-Ukhdud (Sahaabaa Boollaa) .",
+        "Warri Hawariyyun (Duka Bu'oota Isaa) .",
+        "Yajuj wa Majuj (Goog fi Magog) ."
+      ],
+      "answer": "Ashab al-Kahf (Ummata Holqa) ."
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Holqa tokkotti duubatti deebinee jaarraa hedduuf rafne",
+        "Ibidda boba'aa jalaa baraaramne",
+        "Qurxummii guddaa tokkoon liqimfamne",
+        "Gaala dubartii dinqisiisaa ta'een qoramne",
+        "Mallattoon ifa ta’e sagal nuuf kenname"
+      ],
+      "answer": "Holqa tokkotti duubatti deebinee jaarraa hedduuf rafne"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Holqa gadi fagoo gaara keessa jiru",
+        "Doonii galaana banaa irra jirtu",
+        "Caasaa olka’aa samii ga’u",
+        "Iddoo biqiltuu dorgomtoota lama gidduutti qoodame",
+        "Gufuu sibiilaa fi sibiila diimaa"
+      ],
+      "answer": "Holqa gadi fagoo gaara keessa jiru"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Magaalaan keenya gara amantiitti akka garagalte arginee dammaqne",
+        "Ibiddi boba’u qabbanaa’aa fi nagaa ta’e",
+        "Waraanni diinaa galaana keessatti liqimfame",
+        "Simbirroonni dhagaa baatanii deeman diina sana balleessan",
+        "Qurxummiin guddaan tokko qarqara galaanaatti nu gadhiise"
+      ],
+      "answer": "Magaalaan keenya gara amantiitti akka garagalte arginee dammaqne"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

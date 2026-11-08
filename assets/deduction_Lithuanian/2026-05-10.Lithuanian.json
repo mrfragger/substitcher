@@ -1,0 +1,61 @@
+{
+  "title": "Bokštų statytojai",
+  "intro": "Seniai praeityje iškilo galinga civilizacija, pasižyminti įspūdingais statybos žygdarbiais ir įspūdinga jėga. Šiam kolektyviniam dariniui buvo suteikti gausūs ištekliai ir fizinis meistriškumas, tačiau jie pasirinko nepaklusnumo kelią prieš dieviškąją žinią, siųstą jiems vesti. Jų istorija yra gili pamoka istorijos metraščiuose, liudijimas apie tiesos atmetimo pasekmes.",
+  "clues": [
+    "Mums buvo suteikta didžiulė fizinė jėga ir ūgis, kitaip nei jokiems kitiems mūsų laikų žmonėms.",
+    "Buvome žinomi dėl to, kad statėme didingus statinius ir aukštas kolonas kiekvienoje aukštumoje, manydami, kad gyvensime amžinai.",
+    "Iš mūsų tarpo buvo pasiųstas pasiuntinys, kuris mus perspėjo, ragindamas garbinti vien Allahą ir palikti savo stabus.",
+    "Mes arogantiškai klausinėjome savo pasiuntinio, klausdami, ar jie atėjo pas mus tik tam, kad priverstų mus garbinti Alachą ir atsisakyti to, ką garbino mūsų protėviai.",
+    "Mūsų žemė buvo palaiminta sodais, šaltiniais ir derlingais laukais, bet savo gerovę priskyrėme savo pačių galiai, o ne Kūrėjui.",
+    "Dėl mūsų nuolatinio netikėjimo ir tyčiojimosi mus galiausiai sunaikino bauginantis, įnirtingas vėjas, siautėjęs daugelį dienų ir naktų."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tamudo žmonės",
+        "Fir'auno žmonės",
+        "Nuh žmonės",
+        "Madjano žmonės",
+        "„Ad“ žmonės"
+      ],
+      "answer": "„Ad“ žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Paprašyta paaukoti konkretų kupranugarį",
+        "Iššūkis sukurti dešimt surų, panašių į Koraną",
+        "Rodoma, kaip jūra skyla",
+        "Pranašo perspėjimas apie artėjantį tvaną",
+        "Atmetant pranašą, kuris perspėjo nestatyti per daug ir negarbinti stabų"
+      ],
+      "answer": "Atmetant pranašą, kuris perspėjo nestatyti per daug ir negarbinti stabų"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Ugnis",
+        "Sodomos miestas",
+        "Aukšti stulpai ir tvirtos būstinės"
+      ],
+      "answer": "Aukšti stulpai ir tvirtos būstinės"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Nuskendo dideliame potvynyje",
+        "Prarytas žemės",
+        "Pavirto beždžionėmis ir kiaulėmis",
+        "Sugriautas griaustinio sprogimo",
+        "Sunaikintas siautėjančio, niokojančio vėjo"
+      ],
+      "answer": "Sunaikintas siautėjančio, niokojančio vėjo"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

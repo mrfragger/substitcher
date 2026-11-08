@@ -1,0 +1,61 @@
+{
+  "title": "Under dadelpalmens skugga",
+  "intro": "En berättelse utspelar sig om en själ som avskildes före födseln, fostrades inom heliga murar och valdes att bära ett tecken som världen aldrig hade bevittnat. När anklagelser steg från alla håll, kom en röst från de mest osannolika platser för att tysta allt tvivel. Kan du upptäcka vem som vandrade under dadelpalmens skugga?",
+  "clues": [
+    "Jag var hängiven den Allsmäktiges tjänst innan jag ens drog mitt första andetag, ett löfte av honom som bar mig.",
+    "Jag växte upp under en rättfärdig väktares vaksamma vård i de heliga kamrarna på en tillbedjans plats.",
+    "Närhelst min förmyndare kom till min kammare, fann han hos mig proviant från årstider som inte borde ha funnits.",
+    "Jag fick det glada budskapet om en son, fastän mina omständigheter inte lämnade utrymme för det som utlovats.",
+    "Jag drog mig tillbaka till en avlägsen plats, och där gav en dadelpalm mig skugga medan en bäck flöt nedanför.",
+    "När anklagelser kom och frågor omgav mig, pekade jag på mitt nyfödda barn – och han talade från vaggan för att tysta alla tvivel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawa",
+        "Umm Musa",
+        "Nuhs hustru"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Test / Evenemang",
+      "options": [
+        "Att föda en mirakulös son i isolering",
+        "Att kastas i en flammande eld av avgudadyrkare",
+        "Att överleva den stora översvämningen med ett fåtal utvalda",
+        "Att bli separerad från ett spädbarn som kastats i floden",
+        "Konfrontera Egyptens mäktige härskare"
+      ],
+      "answer": "Att föda en mirakulös son i isolering"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En dadelpalm och en flödande bäck under den",
+        "En mäktig ark på höga vågor",
+        "En stav som klöv ett stort hav i två delar",
+        "En flammande eld avsedd att förtära en trogen själ",
+        "En gyllene tron ​​prydd med ädelstenar"
+      ],
+      "answer": "En dadelpalm och en flödande bäck under den"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hedrad som den mest upphöjda av alla kvinnor",
+        "Återförenad med ett älskat barn efter en lång separation",
+        "Ledde en hel nation ut ur en tyranns slaveri",
+        "Varnade ett folk som var vilse i omoral",
+        "Beviljades herravälde över jinn, mänskligheten och vindarna"
+      ],
+      "answer": "Hedrad som den mest upphöjda av alla kvinnor"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

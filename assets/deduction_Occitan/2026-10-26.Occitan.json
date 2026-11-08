@@ -1,0 +1,61 @@
+{
+  "title": "Lo murmur dins lo vent",
+  "intro": "Imaginatz un reialme ont l'invisible e lo vist s'entrelaçan, e vos plaçatz davant una figura al còr d'un reialme contrari a cap d'autre. Aquela anma possedís de coneissenças al delà de l'atencion ordinaria, comandant de fòrças que d'autres poirián pas qu'imaginar. Pasmens, quitament lo mai poderós pòt èsser umiliat per una creatura minuscula, e la vertat pòt demorar amagada fins al moment fixat. Qual es aquela figura que son legat fa resson dins los sègles?",
+  "clues": [
+    "Me foguèt donat un reialme que degun après ieu auriá pas.",
+    "Ai eretat la coneissença e la saviesa d'un parent aimat.",
+    "Lo vent èra jos mon comandament, viatjant per mon òrdre ont voliái.",
+    "Podiái comprene lo parlar dels aucèls, e servissián dins mon armada.",
+    "Recebèri de novèlas d'un pichon aucèl a prepaus d'una reina qu'adorava lo solelh.",
+    "Ma mòrt demorèt amagada fins qu'una creatura de la tèrra devorèt mon baston, e sonque alara los jinn se rendèron compte que coneissián pas l'invisible."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Sulayman (Salomon)",
+        "Profèta Dawud (David)",
+        "Profèta Musè (Moïses)",
+        "Profèta Isa (Jèsus)",
+        "Profèta Nuh (Noè)"
+      ],
+      "answer": "Profèta Sulayman (Salomon)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "La visita de la reina de Saba",
+        "Èsser getat dins un fuòc",
+        "Despartint la mar",
+        "Bastir una arca",
+        "Èsser engolit per una balena"
+      ],
+      "answer": "La visita de la reina de Saba"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo baston consumit per una creatura de la tèrra",
+        "Lo baston que se transformèt en sèrp",
+        "La camèla",
+        "L'arca",
+        "La balena"
+      ],
+      "answer": "Lo baston consumit per una creatura de la tèrra"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Sa mòrt foguèt amagada dels jinns fins que son baston foguèt manjat",
+        "Foguèt levat als cèls viu",
+        "Foguèt salvat del fuòc per l'òrdre d'Allah",
+        "Li foguèt donada la Torah",
+        "Foguèt salvat de la balena"
+      ],
+      "answer": "Sa mòrt foguèt amagada dels jinns fins que son baston foguèt manjat"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

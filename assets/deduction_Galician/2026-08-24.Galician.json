@@ -1,0 +1,61 @@
+{
+  "title": "Os oíntes ocultos que creron",
+  "intro": "Na quietude dunha reunión sagrada, chegou unha asemblea extraordinaria dun reino invisible. Atraídos polos murmurios de algo marabilloso, escoitaron a recitación que selaría o seu destino para sempre. O seu testemuño segue sendo un dos máis singulares das escrituras divinas.",
+  "clues": [
+    "Somos seres dun reino invisible para a maioría, e viñemos como un grupo.",
+    "Viaxamos cara a unha reunión para escoitar algo extraordinario.",
+    "Ao chegar, escoitamos unha recitación que nos deixou abraiados.",
+    "Recoñecemos abertamente que algúns entre nós somos xustos e outros non.",
+    "Sabiamos que non podiamos escapar do decreto divino na terra, nin voando cara ao ceo.",
+    "Cando escoitamos a guía, cremos nela; quen crea no seu Señor non temerá perda nin carga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Un grupo de Djinn",
+        "A xente de Iram",
+        "A xente de Tubba'",
+        "O Imperio Romano",
+        "A tribo dos Quraysh"
+      ],
+      "answer": "Un grupo de Djinn"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Escoitando unha recitación sagrada",
+        "Construíndo altos piares na nosa cidade",
+        "Cazando unha magnífica cameloa",
+        "Ser destruídos por matar os nosos profetas",
+        "Multiplicando a riqueza sen medida"
+      ],
+      "answer": "Escoitando unha recitación sagrada"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha reunión de recitación sagrada",
+        "Unha cidade de altos piares (Iram)",
+        "Un pozo no deserto",
+        "Un gran palacio de ouro",
+        "Unha cova sagrada nas montañas"
+      ],
+      "answer": "Unha reunión de recitación sagrada"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Cremos e avisamos á nosa xente",
+        "Destruído por unha poderosa explosión do ceo",
+        "Castigado por un vento abrasador e destrutivo",
+        "Concedéronlle inmensas riquezas e poder",
+        "Permaneceu firme na incredulidade"
+      ],
+      "answer": "Cremos e avisamos á nosa xente"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

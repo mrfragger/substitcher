@@ -1,0 +1,61 @@
+{
+  "title": "Ketiadaan Suci",
+  "intro": "Di sebalik gumuk pasir zaman, tersimpan kisah pengabdian yang teguh dan amanah yang begitu berat sehingga jiwa yang memikulnya hampir memungkirinya. Pada saat orang ramai berpaling kepada kebodohan dan emas, seorang tokoh berdiri teguh—memanggil mereka kembali, merayu kesabaran, dan memikul beban janji suci. Ini adalah kisah seseorang yang dipilih sebagai pembantu, wazir, dan penjaga iman semasa ketiadaan suci. Bolehkah anda mendedahkan identiti jiwa yang teguh ini?",
+  "clues": [
+    "Aku berkongsi darah seorang nabi agung yang dipilih untuk bercakap dengan Allah secara langsung di atas gunung suci.",
+    "Adik saya pernah merayu kepada Allah agar dapat bercakap dengan jelas kepada seorang penindas yang hebat.",
+    "Aku telah dipilih oleh Allah untuk berdiri di sisi adikku sebagai pembantu dan wazir.",
+    "Bersama-sama kita menghadapi seorang pemerintah zalim yang menuntut untuk digelar tuhan yang tertinggi.",
+    "Ketika adik-beradik saya bermunajat dengan Allah di atas gunung, kaum kami membuat berhala untuk diri mereka sendiri daripada emas mereka.",
+    "Aku saudara Musa, yang dilantik oleh Allah sebagai wazir-Nya, yang disebut namanya dalam Al-Quran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Harun (Harun)",
+        "Nabi Musa",
+        "Nabi Daud",
+        "Nabi Ya'qub",
+        "Nabi Ishak"
+      ],
+      "answer": "Nabi Harun (Harun)"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Krisis Penyembahan Anak Lembu",
+        "Banjir Besar Nabi Nuh",
+        "Perang Badar",
+        "Kemusnahan Kaum Tsamud",
+        "Kemusnahan Sodom"
+      ],
+      "answer": "Krisis Penyembahan Anak Lembu"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Anak Lembu Emas",
+        "Bahtera Nabi Nuh",
+        "Semak yang Membakar",
+        "Gua Hira",
+        "Takhta Sheba"
+      ],
+      "answer": "Anak Lembu Emas"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Kesucian Disahkan oleh Allah",
+        "Lemasnya Firaun",
+        "Pembinaan Kaabah",
+        "Penyeberangan Laut yang Selamat",
+        "Kenaikan ke Syurga"
+      ],
+      "answer": "Kesucian Disahkan oleh Allah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

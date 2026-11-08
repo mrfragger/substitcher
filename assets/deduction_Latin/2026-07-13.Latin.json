@@ -1,0 +1,61 @@
+{
+  "title": "Vox Sapientiae",
+  "intro": "Vox sapientiae lenis olim consilium praebebat quod tempus transcendit. Haec persona, profunda intelligentia ornata, praecepta inaestimabilia tradidit quae manent velut signum omnibus qui directionem desiderant. Potesne identitatem post haec verba perennia detegere?",
+  "clues": [
+    "Profunda benedictione ab Allah donatus sum, dono quod cor mentemque meam illuminavit.",
+    "Ad filiam meam dilectam me converti, cupiens communicare thesaurum pretiosissimum quem possidebam.",
+    "Monui gravissimam iniuriam esse socios cum uno vero Deo constituere.",
+    "Admonui etiam pondus grani sinapis, intra petram vel ultra caelos abditum, ab Allah rationem reddendum esse.",
+    "Parentibus obsequium praecepi, quamquam oboedientia solum in rebus iustitiae est.",
+    "Mores simplices docui: cum humilitate ambula super terram et vocem modera; nam asperrimus sonus est ruditus asinorum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Luqman",
+        "Al-Khidr",
+        "Propheta Sulayman",
+        "Dhul-Qarnayn",
+        "Uzair"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Iudicium / Eventum",
+      "options": [
+        "Consilia profunda filio suo offerens",
+        "Arcam aedificans ut diluvium magnum supervivat",
+        "Gravem morbum patienter tolerans",
+        "Ad fines terrae iter faciens",
+        "Accipiens tabulas divinas in monte"
+      ],
+      "answer": "Consilia profunda filio suo offerens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Consilium filio suo",
+        "Rubus ardens",
+        "Baculus Musae",
+        "Vitulus aureus",
+        "Portae ferreae"
+      ],
+      "answer": "Consilium filio suo"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Consilium eius in divina scriptura immortalatum est",
+        "Prophetia et nova lex ei concessae sunt",
+        "Factus est potens princeps super regnum vastum",
+        "Ad caelum sine morte elevatus est",
+        "Revelationem directam ab angelo accepit"
+      ],
+      "answer": "Consilium eius in divina scriptura immortalatum est"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

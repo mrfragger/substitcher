@@ -1,0 +1,61 @@
+{
+  "title": "Panguberan Pengadilan",
+  "intro": "Ing koridor kekuasaan, ana tokoh status dhuwur sing kepincut karo abdi sing ayune ora kaya jagad liya. Rasa kepincut iki nyebabake serangkaian kedadeyan sing nguji kasetyan, mbukak bebener sing didhelikake, lan pungkasane negesake yen abdi kasebut ora salah.",
+  "clues": [
+    "Aku manggon ing tanah Nil, ing kraton sing nduweni pengaruh gedhe.",
+    "Ana wong enom mlebu omahku, lan anane dheweke nggawe jagadku ora tentrem.",
+    "Aku nyoba nggodha dhèwèké, nanging dhèwèké ngungsi marang Gustiné.",
+    "Aku nyuwék klambiné saka mburi, nanging bukti-buktiné nuduhaké yèn aku ngapusi.",
+    "Kanggo menengake gosip para wanita bangsawan, aku ngundang dheweke menyang kumpul lan nyelehake barang-barang landhep ing tangane.",
+    "Pungkasanipun, kula ngakeni kalepatan kula ing ngajenging raja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Garwane Al-Aziz",
+        "Asiya (garwane Firaun)",
+        "Bilqis (Ratu Saba)",
+        "Maryam (Ibune Nabi Isa)",
+        "Ibune Musa"
+      ],
+      "answer": "Garwane Al-Aziz"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Dheweke nyoba nggodha Nabi Yusuf",
+        "Dheweke nyoba mateni Nabi Musa",
+        "Dhèwèké ngaku dadi déwi",
+        "Dhèwèké nggawé menara kanggo nantang Gusti Allah",
+        "Dheweke mimpin pasukan nglawan Mekah"
+      ],
+      "answer": "Dheweke nyoba nggodha Nabi Yusuf"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Klambi sing suwek saka mburi",
+        "Pedhet emas",
+        "Teken sing malih dadi ula",
+        "Unta wadon",
+        "Lampu"
+      ],
+      "answer": "Klambi sing suwek saka mburi"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Dheweke ngakoni lan ngakoni bebener",
+        "Dheweke klelep karo pasukane",
+        "Dhèwèké malih dadi pilar uyah",
+        "Dheweke diuntal bumi",
+        "Dheweke rusak kena angin sing banter"
+      ],
+      "answer": "Dheweke ngakoni lan ngakoni bebener"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

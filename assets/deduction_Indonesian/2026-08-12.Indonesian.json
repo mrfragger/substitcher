@@ -1,0 +1,61 @@
+{
+  "title": "Para Utusan Belas Kasih dan Kekuatan",
+  "intro": "Bayangkan suatu sore yang tenang tiba-tiba diganggu oleh kedatangan para pelancong yang tak dikenal. Penampilan mereka biasa saja, tetapi tujuan mereka sama sekali tidak biasa. Mereka membawa pesan ilahi yang akan mengubah jalan hidup dua bangsa, membawa tawa ke rumah yang tandus dan teror ke kota yang penuh dosa. Siapakah para pengunjung misterius ini?",
+  "clues": [
+    "Kami diutus kepada seorang hamba Allah yang taat, yang dikenal karena keramahannya yang tak terbatas.",
+    "Kami datang dengan menyamar sebagai orang asing, namun tuan rumah kami merasakan sesuatu yang gaib tentang kehadiran kami.",
+    "Kami membawa kabar yang membuat seorang wanita tua tertawa tak percaya, sambil menepuk wajahnya sendiri karena heran.",
+    "Kami diberi tugas untuk melindungi sebuah keluarga yang saleh sambil menghujani kehancuran di kota yang penuh dengan korupsi.",
+    "Kami menolak untuk menyantap makanan yang ditawarkan kepada kami, yang justru memperdalam kecurigaan tuan rumah kami.",
+    "Kami menampakkan jati diri kami yang sebenarnya hanya sebelum berangkat, seraya berkata, 'Sesungguhnya kami adalah utusan Tuhanmu.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Para Tamu Abraham",
+        "Murid-murid Yesus",
+        "Para Sahabat Gua",
+        "Tentara Abraha",
+        "Para Utusan Ya-Sin"
+      ],
+      "answer": "Para Tamu Abraham"
+    },
+    "trial": {
+      "label": "Misi Kami",
+      "options": [
+        "Untuk menguji iman Abraham mengenai putranya",
+        "Untuk menyampaikan kitab suci kepada Abraham.",
+        "Untuk mengumumkan kelahiran Ishak dan kehancuran kaum Lot.",
+        "Untuk membimbing Ibrahim ke Ka'bah",
+        "Untuk menyelamatkan Abraham dari api"
+      ],
+      "answer": "Untuk mengumumkan kelahiran Ishak dan kehancuran kaum Lot."
+    },
+    "location": {
+      "label": "Tempat Penampilan",
+      "options": [
+        "Di tanah Mesir",
+        "Di kota Ur",
+        "Di rumah Abraham",
+        "Di taman Eden",
+        "Di sumur Zamzam"
+      ],
+      "answer": "Di rumah Abraham"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Abraham menjadi raja",
+        "Abraham membangun Ka'bah",
+        "Sarah melahirkan Ishak dan kaum Lot binasa.",
+        "Abraham bermigrasi ke Palestina",
+        "Umat ​​Abraham diselamatkan dari banjir besar."
+      ],
+      "answer": "Sarah melahirkan Ishak dan kaum Lot binasa."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ọkụ nke Ghọtara Ihe Nketa",
+  "intro": "N'akwụkwọ akụkọ mmegide, e nwere otu onye aha ya ghọrọ ịdọ aka ná ntị ruo ọgwụgwụ oge. Onye a họọrọ ibu iro karịa ikwu okwu, nnupụisi karịa ido onwe ya n'okpuru, ma guzoro n'ụzọ megidere oku ebere. Gee ntị nke ọma na ụda olu nke mkpọsa ochie ka anyị na-ekpughe njirimara nke mkpụrụ obi a a ma ama.",
+  "clues": [
+    "A mụrụ m n'otu agbụrụ ahụ dịka onye ozi ikpeazụ nke Allah, mana eguzogidere m ha n'oge ọ bụla.",
+    "Aha m nwere ihe ọ pụtara—aha pụtara 'nna nke ire ọkụ,' aha nke ga-egosi ọdịnihu ebighị ebi m.",
+    "Emere m ihe ọjọọ megide onye na-ebu eziokwu, ọbụna ezinụlọ m sonyekwara n'ọrụ ime ihe ike a.",
+    "Eji m akụnụba na ikike m mee ka oku a na-akpọ Allah ghara ịdị mma, ekwere m na ego nwere ike imenyụ ìhè Chineke.",
+    "Allah raara otu isiakwụkwọ dum nye m—isiakwụkwọ dị mkpụmkpụ nke na enwere ike ịgụ ya n'ime sekọnd ole na ole, mana ibu ya ka dị ruo ụbọchị ikpe.",
+    "Onye mụ na ya bi n'ụwa a na-eso m, e ji eriri eriri kee m n'olu, na-ebukwa ogwu ndị ha na-agbasa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ịkọwapụta Esemokwu",
+      "options": [
+        "Na-edu ndị mmegide megide onye amụma na Mecca",
+        "Ịkwaga Abyssinia iji gbanahụ mkpagbu",
+        "Iwulite Kaaba na Onye Amụma Ibrahim",
+        "Ịnabata Islam n'ihe ndina ọnwụ",
+        "Ịmepụta Nkwekọrịta Hudaybiyyah"
+      ],
+      "answer": "Na-edu ndị mmegide megide onye amụma na Mecca"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Nwunye nke bu ogwu na nkụ",
+        "Mkpanaka nke gbanwere ghọọ agwọ",
+        "Mgbaaka nwere akara nke Solomọn",
+        "Nwa ehi ọlaedo nke ndị mmadụ na-efe ofufe",
+        "Isi iyi nke na-agbapụta mmiri"
+      ],
+      "answer": "Nwunye nke bu ogwu na nkụ"
+    },
+    "outcome": {
+      "label": "Ngụcha Ikpeazụ",
+      "options": [
+        "Otu sura dum kpughere na-ekwupụta mbibi zuru oke",
+        "Aghọọla onye ndu obodo ndị Alakụba",
+        "Natara mgbaghara n'oge ọnwụ",
+        "Wuru nnukwu ụlọ alakụba na Medina",
+        "A kpọlitere ya n'ọnwụ n'etiti ndị ezi omume"
+      ],
+      "answer": "Otu sura dum kpughere na-ekwupụta mbibi zuru oke"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

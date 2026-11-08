@@ -1,0 +1,61 @@
+{
+  "title": "El constructor de barreras",
+  "intro": "A través de vastas tierras, un poderoso individuo emprendió una serie de expediciones, dotado de inmensa autoridad y recursos. Esta alma se encontró con diversas comunidades y enfrentó desafíos únicos, dejando una huella imborrable en la historia y la fe a través de sus acciones y sabiduría, sin olvidar nunca la verdadera fuente de su fuerza.",
+  "clues": [
+    "Se me concedió poder y medios sobre todo, y seguí un camino.",
+    "Mi viaje me llevó al lugar donde se pone el sol, donde encontré a un pueblo.",
+    "Me encontré con una comunidad que apenas entendía el lenguaje hablado, y que residía entre dos montañas.",
+    "Me pidieron que construyera una barrera, no para obtener beneficio personal, sino para protegerme de una fuerza destructiva.",
+    "Declaré que la fuerza para construir este muro gigantesco provenía de Alá, y que permanecería en pie hasta el tiempo prometido.",
+    "Mi nombre, a menudo traducido como \"El de los Dos Cuernos\", simboliza mi alcance a través de la tierra o quizás dos épocas distintas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El profeta Musa",
+        "Profeta Sulayman",
+        "Dhul-Qarnayn",
+        "faraón",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Recibir revelación",
+        "Enfrentando a un tirano",
+        "Construyendo un gran barco",
+        "Construyendo una poderosa barrera",
+        "Ser tragado por un pez"
+      ],
+      "answer": "Construyendo una poderosa barrera"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "La barrera de hierro",
+        "El río Nilo",
+        "El Trono"
+      ],
+      "answer": "La barrera de hierro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Salvación de las inundaciones",
+        "Convertirse en un gran reino",
+        "Protección para un pueblo",
+        "Destrucción de un opresor",
+        "Sabiduría perdurable"
+      ],
+      "answer": "Protección para un pueblo"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

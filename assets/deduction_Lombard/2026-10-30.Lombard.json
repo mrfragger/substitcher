@@ -1,0 +1,61 @@
+{
+  "title": "La Veglia dei Luto",
+  "intro": "Te l’è drèe a incuntrar un’anema testada de la separaziun püsee prufunda, che i sò œucc cognossevan el linguagg di làcrime e ancamò el sò cœur g’ha mai perduu la speranza. In una storia de ingann, ansia e eventual riuniun, chestu nobil servitur de Allah l’è diventà un simbul de pazienza per tüt i temp. Chi g’ha suportà i an de dolor scondù, sultant per avegh la vista e la gioia restaurada en un sœul mument?",
+  "clues": [
+    "Mi sun un prufet che el sò nomm l’è diventà un simbul de pazienza davaant a una grand perdita.",
+    "Sun stà benedì cun tanti fiœui, ma ün l’è stà ciapà da la gelusia di olter.",
+    "La mia amor per quella perduda l’era inscì prufunda che i me occ se sun diventà bianch per el dolor, e ancamò me sun mai lamentà senza Allah.",
+    "Ho mandà indrè i me fiœi a cercà quel che g’havevi perdü e sò fradel, e g’ho urtà de perder no la speranza.",
+    "Quand el purtadur de la bona nutizia l’è rivà, una camisa l’è stada tirada sü la me facia, e all’improvviso el mund l’è diventà ancamò ciar.",
+    "Mi sun famus cuma Israel, e di me dòdes fiœu sun vegnuu i dòdes tribù de una grand naziun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Profeta Ya'qub (Giacob)",
+        "Profeta Yusuf (Giuseppe)",
+        "Profeta Ishaq (Isaac)",
+        "Profeta Ibrahim (Abrahim)",
+        "Profeta Ayyub (Giob)"
+      ],
+      "answer": "Profeta Ya'qub (Giacob)"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "La separaziun de un fiœu carì per tanti an",
+        "Vess butà denter de un fœuch ardent",
+        "Inglutì da un grand pess",
+        "Aflitt de una grave malatia de la pel",
+        "Vesser senza fiœi fina a la vegiania"
+      ],
+      "answer": "La separaziun de un fiœu carì per tanti an"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La camisa de Yusuf",
+        "El personal de Musa",
+        "L'arca de Nuh",
+        "La camel de Salih",
+        "L'anell de Sulaiman"
+      ],
+      "answer": "La camisa de Yusuf"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "La vista restaurada e riunida cun sò fiœul",
+        "Cuncessa la vitoria sü un re tiranno",
+        "Alzà in del ciel viv",
+        "Nominad come sovran sora l'Egit",
+        "Dat un fiœl in vegiaia come un miracol"
+      ],
+      "answer": "La vista restaurada e riunida cun sò fiœul"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

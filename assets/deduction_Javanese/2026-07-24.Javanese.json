@@ -1,0 +1,61 @@
+{
+  "title": "Konspirator Terselubung",
+  "intro": "Kowé bakal nemokaké awakmu dhéwé ing ngarsané tokoh sing kuwasa saka jaman wahyu. Wong iki dikenal amarga kapinteran, kasugihan, lan statusé ing antarané bangsané. Nalika pratandha-pratandha sing jelas teka, wong-wong mau ngakoni kaendahané nanging milih nglawan tinimbang tundhuk. Apa sing ndadèkaké jiwa iki ngrancang rencana ing peteng, lan kepriyé nasibé pungkasané?",
+  "clues": [
+    "Aku diberkahi karo sumber daya lan pengaruh sing melimpah, saengga janjiku abot ing pasamuwan-pasamuwan.",
+    "Nalika pangandikane para dewa diwaca, aku ora bisa nolak kefasihane, nanging rasa banggaku ora ngidini aku nyerah.",
+    "Aku nglumpukake para penasihatku, ngisolasi awake dhewe kanggo mikir carane ngrusak pesen kasebut.",
+    "Sawisé mikir dawa, aku nyatakaké yèn iku mung 'sihir sing diturunaké saka jaman biyèn' kanggo ngusir wong.",
+    "Wahyu kasebut banjur langsung ngandika marang aku: 'Ninggalake Aku karo sing Dakciptakake dhewekan.' Aku dipilih amarga rencanaku.",
+    "Ora suwe, geni sing wis dielingake marang aku bakal nyekel rambutku, lan aku ora bakal bisa uwal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Al-Walid bin al-Mughira",
+        "Abu Lahab",
+        "Abu Jahal",
+        "Uqbah bin Abi Mu'ayt",
+        "An-Nadr bin al-Harith"
+      ],
+      "answer": "Al-Walid bin al-Mughira"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Konspirasi kanggo mateni Nabi",
+        "Ndadekake boikot marang umat Islam",
+        "Ngumpulake dewan kanggo menehi cap marang Al-Qur'an minangka sihir",
+        "Ngrancang kanggo ngusir Nabi saka Mekah",
+        "Ora gelem mbagi bandhane karo bocah yatim"
+      ],
+      "answer": "Ngumpulake dewan kanggo menehi cap marang Al-Qur'an minangka sihir"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Wahyu",
+        "Dewan",
+        "Jambul",
+        "Kasugihan",
+        "Pena"
+      ],
+      "answer": "Jambul"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Dheweke tobat lan mlebu Islam",
+        "Dhèwèké pindhah menyang Abyssinia",
+        "Dheweke kena penyakit sing mematikan",
+        "Dheweke tilar donya ing perang nglawan umat Islam",
+        "Dhèwèké diukum menyang neraka"
+      ],
+      "answer": "Dhèwèké diukum menyang neraka"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

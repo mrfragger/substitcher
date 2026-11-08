@@ -1,0 +1,61 @@
+{
+  "title": "Das Echo der Täuschung",
+  "intro": "Ein Band der Verwandtschaft wurde durch einen Anflug von Neid auf die Probe gestellt. Ein geheimer Plan wurde geschmiedet und setzte eine Kette von Ereignissen in Gang, die sich über Jahre und weite Entfernungen erstrecken sollte. Die Taten dieser Gruppe führten zu tiefer Trennung und Trauer, doch die Geschichte endete dort nicht. Es ist eine Geschichte von Täuschung, Reue und der letztendlichen Entfaltung eines göttlichen Plans. Können Sie die Identität dieser Individuen entschlüsseln, deren Entscheidungen über Generationen hinweg nachhallten?",
+  "clues": [
+    "Wir waren von Neid auf die Zuneigung erfüllt, die einem unserer Leute entgegengebracht wurde.",
+    "Aus Neid verschworen wir uns und warfen unser Geschwisterkind in die Dunkelheit eines Brunnens.",
+    "Um unsere Tat zu verbergen, überreichten wir unserem Vater ein mit falschem Blut beflecktes Kleidungsstück.",
+    "Jahre später zwang uns eine schwere Hungersnot, nach Ägypten zu reisen, um Vorräte zu besorgen.",
+    "Dort standen wir vor einem mächtigen Gouverneur, der, ohne dass wir es wussten, genau der Bruder oder die Schwester war, dem/der wir Unrecht getan hatten.",
+    "Unsere letzte Prüfung bestand darin, unseren jüngsten Bruder Binyamin mitzubringen, was zur Offenbarung unserer Vergangenheit und der Tatsache führte, dass unser Vater der Prophet Ya'qub war."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Die Söhne Adams (Qabil & Habil)",
+        "Die Jünger des Propheten Isa",
+        "Die Brüder des Propheten Yusuf",
+        "Das Volk von Madyan",
+        "Die Magier von Fir'awn"
+      ],
+      "answer": "Die Brüder des Propheten Yusuf"
+    },
+    "trial": {
+      "label": "Was war unser Hauptvergehen?",
+      "options": [
+        "Anfertigung eines goldenen Kalbs zur Anbetung",
+        "Die Forderung, Allah direkt zu sehen",
+        "Einen Propheten verspotten, weil er eine Arche baut",
+        "Unseren Vater täuschen und unseren Bruder im Stich lassen",
+        "Den Sabbat durch Angeln brechen"
+      ],
+      "answer": "Unseren Vater täuschen und unseren Bruder im Stich lassen"
+    },
+    "location": {
+      "label": "Welcher Gegenstand spielte bei unserer Täuschung eine zentrale Rolle?",
+      "options": [
+        "Ein Satz beschrifteter Tafeln",
+        "Ein mit Kunstblut beflecktes Hemd",
+        "Ein goldenes Kalb",
+        "Ein wunderschöner Vogel (der Wiedehopf)",
+        "Ein Stab, der sich in eine Schlange verwandelte"
+      ],
+      "answer": "Ein mit Kunstblut beflecktes Hemd"
+    },
+    "outcome": {
+      "label": "Was war der endgültige Ausgang unserer Geschichte?",
+      "options": [
+        "Wir wurden von einer gewaltigen Flut vernichtet.",
+        "Wir wurden in Affen verwandelt.",
+        "Wir wurden von der Erde verschluckt",
+        "Uns wurde vergeben und wir wurden mit unserer Familie wiedervereint.",
+        "Wir sind im Meer ertrunken"
+      ],
+      "answer": "Uns wurde vergeben und wir wurden mit unserer Familie wiedervereint."
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

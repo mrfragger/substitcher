@@ -1,0 +1,61 @@
+{
+  "title": "Traustur andi opinberunarinnar",
+  "intro": "Í ósýnilegum heimum hreyfist vera af hreinu ljósi af nákvæmni og framkvæmir hverja skipun án þess að hika. Þessi persóna hefur talað við útvalda þjóna, fært leiðsögn og orðið vitni að því hvernig guðlegar tilskipanir birtast í gegnum aldirnar. Hver er þessi heiðraða sál?",
+  "clues": [
+    "Ég er vera af hreinu ljósi, sköpuð úr ljósi, og ég hef aldrei óhlýðnast einni einustu skipun Drottins míns.",
+    "Ég færi mig milli himins og jarðar, stíg niður með tilskipunum Hins miskunnsamasta.",
+    "Ég var sendur til göfugrar meyjar í helgidóminum og boðaði henni hreinan son.",
+    "Ég er andi heilagleikans og ég studdi spámann sem fékk skýr tákn og fagnaðarerindið.",
+    "Ég kom að helli á fjalli til að flytja fyrstu orðin í upplestri sem varðveittist að eilífu.",
+    "Ég er hinn trausti andi og það var ég sem færði Kóraninn niður yfir hjarta síðasta sendiboðans."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Jibril (Gabríel)",
+        "Mikael (Michael)",
+        "Dauðans engill",
+        "Malik (Vörður helvítis)",
+        "Harút (annar af tveimur englum í Babýlon)"
+      ],
+      "answer": "Jibril (Gabríel)"
+    },
+    "trial": {
+      "label": "Lykilverkefni/hlutverk",
+      "options": [
+        "Að færa spámönnunum opinberanir",
+        "Að blása í lúðurinn á dómsdegi",
+        "Að verja hlið helvítis",
+        "Að skrá gjörðir manna",
+        "Að valda því að rigningin falli"
+      ],
+      "answer": "Að færa spámönnunum opinberanir"
+    },
+    "location": {
+      "label": "Lykileiginleiki eða titill",
+      "options": [
+        "Heilagur andi (Ruh al-Qudus)",
+        "Andi máttarins",
+        "Andi miskunnar",
+        "Andi leiðsagnarinnar",
+        "Andi sannleikans"
+      ],
+      "answer": "Heilagur andi (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Niðurstaða verkefnisins",
+      "options": [
+        "Kóraninn var opinberaður spámanninum Múhameð",
+        "Lúðurinn var blásinn á dómsdegi",
+        "Helvíti var varið og hlið þess voru lokuð",
+        "Verkabókin var lögð fyrir Allah",
+        "Regnið var sent niður til jarðar"
+      ],
+      "answer": "Kóraninn var opinberaður spámanninum Múhameð"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

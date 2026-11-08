@@ -1,0 +1,61 @@
+{
+  "title": "An Flaitheas a D'éiligh Diagacht",
+  "intro": "Chreid rialóir cumhachtach agus sotalach nach raibh aon duine os cionn a ríchathaoir. Ruaig siad grúpa teitheadh ​​​​trasna corp ollmhór uisce, ach bhuail siad le deireadh drámatúil. Macallaíonn scéal an fhlaitheas seo i go leor sleachta den Qurán, ag fónamh mar rabhadh do chách.",
+  "clues": [
+    "Bhí mé i mo rialóir cumhachtach a chreid nach raibh aon údarás níos fearr ná mo chuid féin sna tailte a raibh mé i gceannas orthu.",
+    "Bhí vízier iontaofa agam darbh ainm Haman a chabhraigh liom tionscadail mhóra ailtireachta a chur i gcrích.",
+    "Ghlaoigh mé ar na draoithe is fearr i mo thír chun dúshlán a thabhairt do chomharthaí teachtaire a bhí i mo choinne.",
+    "Dhiúltaigh mé ligean do phobal a bhí i sclábhaíocht laistigh de mo ríocht imeacht, in ainneoin plá agus rabhaidh shoiléire.",
+    "Lean mé iad trasna farraige fairsing le mo chuid arm agus carbadanna ar fad.",
+    "Dhún an fharraige sin féin orm féin agus ar mo chuid fórsaí, ag báthadh sinn go léir, agus iad ag trasnú go sábháilte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fir'awn (Faraó)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Faraó)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Plá agus achrann le Músa (Maois)",
+        "Ag tógáil áirce roimh thuile mhór",
+        "Cath i gcoinne Jalut sa ghleann",
+        "Á shlogadh ag míol mór",
+        "Meáchain trádála macánta a chosaint"
+      ],
+      "answer": "Plá agus achrann le Músa (Maois)"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Túir arda agus cuaillí",
+        "Áirc adhmaid mhór",
+        "Lao órga",
+        "Bata a d’iompaigh ina nathair",
+        "Míol mór ollmhór"
+      ],
+      "answer": "Túir arda agus cuaillí"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Báite sa bhfarraige leis an arm",
+        "Sábháilte ag trócaire agus foighne Allah, luach saothair tugtha dó",
+        "Athcheangailte leis an teaghlach tar éis blianta cruatain",
+        "Slogtha ag an talamh",
+        "Dóite i dtine"
+      ],
+      "answer": "Báite sa bhfarraige leis an arm"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

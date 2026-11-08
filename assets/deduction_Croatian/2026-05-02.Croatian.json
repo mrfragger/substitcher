@@ -1,0 +1,61 @@
+{
+  "title": "Nositelj ozbiljne poruke",
+  "intro": "Pravedna duša poslana je da vodi narod izgubljen u neviđenim prijestupima. Ovaj glasnik stajao je čvrsto, dajući oštro upozorenje protiv korupcije koja je prkosila prirodnom redu. Unatoč iskrenim molbama, zajednica je sve dublje utonula u tamu, postavljajući pozornicu za božanski obračun kakav nijedan drugi nije imao. Možete li prepoznati ovog postojanog Allahovog slugu?",
+  "clues": [
+    "Bio sam rođak drugog velikog proroka i s njim sam se preselio, ostavljajući našu domovinu za sobom.",
+    "Poslan sam narodu čija je zloća bila jedinstvena, prijestup koji nijedno stvorenje prije njih nije počinilo.",
+    "Moje vlastito kućanstvo bilo je podijeljeno; bliski član obitelji potajno je stao na stranu nevjernika.",
+    "Anđeli, u obliku zgodnih mladića, došli su u moj dom kao gosti, uzrokujući mi veliku nevolju za njihovu sigurnost.",
+    "Ponudio sam vlastite kćeri za brak svom narodu u očajničkom pokušaju da ih odvratim od njihovih sramotnih djela.",
+    "Moj narod je uništen strašnim krikom i kišom kamenja od pečene gline, dok sam ja i moja obitelj, osim jednog, spašeni odlaskom usred noći."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Šu'ajb",
+        "Poslanik Salih",
+        "Poslanik Lut",
+        "Poslanik Hud",
+        "Poslanik Nuh"
+      ],
+      "answer": "Poslanik Lut"
+    },
+    "trial": {
+      "label": "Koje je bilo moje primarno suđenje?",
+      "options": [
+        "Uvjeriti tiranskog kralja da me ne spali u vatri.",
+        "Suočavanje s ljubomorom moje braće i bacanje u bunar.",
+        "Suočavanje s ljudima koji su se upustili u neviđeni seksualni nemoral.",
+        "Vodim svoj narod iz ropstva moćnog faraona.",
+        "Izgradnja ogromnog broda kako bi spasio vjernike od velike poplave."
+      ],
+      "answer": "Suočavanje s ljudima koji su se upustili u neviđeni seksualni nemoral."
+    },
+    "location": {
+      "label": "Koja je bila lokacija moje misije?",
+      "options": [
+        "Grad Madyan",
+        "Drevni grad Iram",
+        "Egipatska zemlja pod faraonom",
+        "Gradovi Sodoma i Gomora",
+        "Grad Niniva"
+      ],
+      "answer": "Gradovi Sodoma i Gomora"
+    },
+    "outcome": {
+      "label": "Koji je bio konačni ishod?",
+      "options": [
+        "Gradovi su bili srušeni i zasuti kamenjem od pečene gline.",
+        "Moj narod je progutala zemlja zajedno sa svojim bogatim vođom.",
+        "Moj narod je uništavao siloviti vjetar sedam noći i osam dana.",
+        "Moj narod je bio pogođen kugama poput skakavaca, ušiju i žaba.",
+        "Divovska riba me progutala nakon što sam odustao od misije."
+      ],
+      "answer": "Gradovi su bili srušeni i zasuti kamenjem od pečene gline."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La gastamo kiu alportis timon",
+  "intro": "En urbo konsumita de malboneco, fidela servisto ricevis neatenditajn vizitantojn unu tagon. Zorgema pri ilia sekureco, ĉi tiu individuo ofertis protekton, sed la urbanoj postulis ion hontindan. Avertite pri baldaŭa pereo, la servisto forkuris kun sia familio sub la ŝirmo de mallumo, lasante post si urbon destinitan por detruo. Kiu estas ĉi tiu sola kredanto?",
+  "clues": [
+    "Mi estis sendita kiel mesaĝisto al popolo, kiu faris hontajn agojn.",
+    "Neatenditaj vizitantoj venis al mia hejmo, kaj mi pli maltrankviliĝis pri ilia sekureco ol pri la mia propra.",
+    "Mia popolo postulis vidi miajn gastojn pro malbonaj intencoj, kaj mi provis rezonadi kun ili.",
+    "Miaj vizitantoj malkaŝis sin kiel anĝeloj kaj ordonis al mi preni mian familion kaj foriri nokte.",
+    "Mia edzino ne atentis la vokon eskapi kaj alfrontis la saman detruon kiel mia popolo.",
+    "Mia urbo estis renversita per pluvo de ŝtonoj el tavoligita argilo, ĝiaj plej altaj partoj estis malaltigitaj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Lut",
+        "Profeto Moseo",
+        "Profeto Ibrahim",
+        "Profeto Nuh",
+        "Profeto Hud"
+      ],
+      "answer": "Profeto Lut"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La postulo de mia popolo alproksimiĝi al miaj gastoj malice",
+        "La disiĝo de la maro por eskapi tiranon",
+        "La konstruado de granda arkeo meze de mokado",
+        "La ofero de mia filo en provo de fido",
+        "La sperto de esti englutita de granda fiŝo"
+      ],
+      "answer": "La postulo de mia popolo alproksimiĝi al miaj gastoj malice"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La renversita urbo de mia popolo",
+        "La monto kie mi ricevis dian paroladon",
+        "La arkeo kiu velis tra granda diluvo",
+        "La kamelo kiu eliris el la roko",
+        "La ĝardeno kun kaŝita justa vizitanto"
+      ],
+      "answer": "La renversita urbo de mia popolo"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Mi estis savita kun mia familio antaŭ ol mia urbo estis renversita",
+        "Mi kondukis mian popolon al libereco trans la maron",
+        "Mi konstruis grandan arkeon kaj travivis potencan diluvon",
+        "Mi ricevis regadon super la ventoj kaj ĝinoj",
+        "Mi pacience eltenis suferon kaj estis rekompencita per familio"
+      ],
+      "answer": "Mi estis savita kun mia familio antaŭ ol mia urbo estis renversita"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

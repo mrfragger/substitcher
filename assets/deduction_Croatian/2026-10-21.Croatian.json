@@ -1,0 +1,61 @@
+{
+  "title": "Poslanik koji se suprotstavio idolopoklonicima",
+  "intro": "U vremenu kada je odanost zalutala, glasnik se pojavio s pozivom na povratak obožavanju Gospodara svjetova. Ova osoba je čvrsto stajala protiv ljudi ukorijenjenih u obožavanju lažnog božanstva, podsjećajući ih na njihovog istinskog Stvoritelja i Gospodara njihovih predaka. Pa ipak, ljudi su bili nemarni i odbacili su upozorenje, zapečativši vlastitu sudbinu. Tko je bio ovaj nepokolebljivi pozivatelj?",
+  "clues": [
+    "Poslan sam narodu koji je skrenuo s puta Jedinog Istinskog Boga.",
+    "Upitao sam svoj narod: \"Zar se nećete bojati Allaha?\"",
+    "Pozvao sam ih da napuste štovanje lažnog božanstva po imenu Baal.",
+    "Moj narod je odbio moj poziv i ustrajao u svom idolopoklonstvu.",
+    "Zbog svog poricanja, sigurno će biti izvedeni na kaznu.",
+    "Gospodar mi je podario mir i blagoslovljeno sjećanje među kasnijim generacijama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Iljas",
+        "Poslanik Jahja",
+        "Poslanik Zul-Kifl",
+        "Poslanik Jusuf",
+        "Poslanik Šu'ajb"
+      ],
+      "answer": "Poslanik Iljas"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Pozvao je svoj narod da napusti Baala",
+        "Izgradio je arku da spasi vjernike",
+        "Bačen je u vatru",
+        "Pobjegao od tiranina faraona",
+        "Udario je u stijenu da bi iz nje izašla voda"
+      ],
+      "answer": "Pozvao je svoj narod da napusti Baala"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Darovan mir i blagoslovljeno sjećanje",
+        "Progutala zemlja",
+        "Uništeno snažnom olujom",
+        "Pretvoren u kamen",
+        "Utopljen u moru"
+      ],
+      "answer": "Darovan mir i blagoslovljeno sjećanje"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

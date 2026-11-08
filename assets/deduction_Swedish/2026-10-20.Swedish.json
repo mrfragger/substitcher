@@ -1,0 +1,61 @@
+{
+  "title": "Arkitekten av falsk ambition",
+  "intro": "En person med stor auktoritet tjänade en gång en av historiens mest ökända tyranner i det forntida Egypten. Denna person anförtroddes en djärv befallning – att bygga en struktur avsedd att trotsa himlen. Deras berättelse finns i Koranen som en slående läxa om hur blind lydnad mot arrogans bara leder till undergång.",
+  "clues": [
+    "Jag tjänstgjorde vid hoven hos en mäktig härskare som gjorde anspråk på gudomlighet över landen.",
+    "Jag innehade en hög ministerposition och var rådgivare till den mest arroganta tyrannen i min tid.",
+    "Min härskare var upptagen av att utmana Moses Gud, som de vägrade att erkänna.",
+    "Jag befalldes att bygga ett torn av eldbakade tegelstenar så att min härskare kunde stiga upp till himlen.",
+    "Tornet nådde aldrig himlen, och mitt slaveri under arrogansen gav mig evig skam.",
+    "Jag omkom med den jag följde, och mitt namn blev en bestående varning mot dem som möjliggör tyranner."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Haman",
+        "Azar (far till Ibrahim)",
+        "Illyas (en profet)",
+        "Dhu al-Kifl",
+        "Harut (en av de två änglarna i Babylon)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Beordrades att bygga en hög byggnad för att nå himlen",
+        "Ombedd att tyda en dröm sänd från det gudomliga",
+        "Kastade i en flammande eld som ett prov på tro",
+        "Tvingad att välja mellan tronen och sanningen",
+        "Utmanad i en trolldomstävling"
+      ],
+      "answer": "Beordrades att bygga en hög byggnad för att nå himlen"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Ett torn av eldbakade tegelstenar",
+        "En stav som förvandlades till en orm",
+        "Ett skepp som seglar genom en stor översvämning",
+        "En trädgård omgiven av höga murar",
+        "En tron ​​prydd med rubiner och guld"
+      ],
+      "answer": "Ett torn av eldbakade tegelstenar"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Drunknade tillsammans med förtryckaren i havet",
+        "Blev en mäktig monark över vidsträckta länder",
+        "Slapp undan oskadd från en flammande brand",
+        "Byggde ett blomstrande visdomsrike",
+        "Återförenades med familjen efter år av exil"
+      ],
+      "answer": "Drunknade tillsammans med förtryckaren i havet"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

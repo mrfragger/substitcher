@@ -1,0 +1,60 @@
+{
+  "title": "Zagonetka dalekog prijestolja",
+  "intro": "Moćni monarh, blagoslovljen izvanrednom vlašću, suočio se s neobičnim izazovom u koji je bila uključena kraljica iz daleke zemlje. Monarh je nastojao pokazati božansku moć i mudrost, pokrećući nevjerojatan događaj koji je prkosio zakonima vremena i prostora. Možete li zaključiti detalje ovog čudesnog događaja?",
+  "clues": [
+    "Vladaru je bila dodijeljena ogromna moć, uključujući kontrolu nad nevidljivim bićima i sposobnost zapovijedanja vjetrovima.",
+    "Ovaj vladar primio je vijest o bogatoj kraljici koja je obožavala sunce i odlučio ju je pozvati na dvor.",
+    "Prije kraljičinog dolaska, vladarica je izrazila želju da donese njezino veličanstveno prijestolje moći iz njezina dalekog kraljevstva.",
+    "Moćni džin ponudio se da će preuzeti predmet prije nego što vladar ustane sa svog vijeća.",
+    "Međutim, netko s dubokim poznavanjem Božanskog pisma ponudio je još brže pronalaženje, dovršivši zadatak u tren oka.",
+    "Po dolasku, vladar je naredio da se predmet preinači kako bi se testirao kraljičin intelekt i percepcija kada konačno stigne u palaču."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prorok/Osoba",
+      "options": [
+        "Prorok Mojsije",
+        "Prorok David",
+        "Poslanik Ibrahim",
+        "Poslanik Jusuf",
+        "Poslanik Sulejman"
+      ],
+      "answer": "Poslanik Sulejman"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Cijepanje mora",
+        "Strpljenje u nevolji",
+        "Izgradnja Kabe",
+        "Test vrtova",
+        "Dovođenje kraljičinog prijestolja"
+      ],
+      "answer": "Dovođenje kraljičinog prijestolja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Planina",
+        "Bunar",
+        "Prijestolje"
+      ],
+      "answer": "Prijestolje"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Velika žrtva",
+        "Osnovano kraljevstvo",
+        "Narod kažnjen",
+        "Novi savez",
+        "Kraljičina pokornost Alahu"
+      ],
+      "answer": "Kraljičina pokornost Alahu"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

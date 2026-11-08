@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Māra o te Whai Hua e Ngaro Ana",
+  "intro": "I roto i tētahi whenua i manaakitia ki te hua nui, i tupu te hapori, e noho ana i waenganui i ngā tohu o te aroha noa o te Atua. Ko tō rātou rawa he tohu i te manaakitanga o tō rātou Ariki, he taonga hei whakaoho i te whakawhetai me te ngohengohe. Heoi, ahakoa ngā tohu mārama o ō rātou manaakitanga, i tae mai tētahi wā hurihanga, e wero ana i tō rātou maioha ki te pūtake o ō rātou taonga nui me te whakamarie.",
+  "clues": [
+    "I manaakitia mātou ki ngā māra e rua, tētahi i te taha matau, tētahi i te taha maui, he nui ngā hua.",
+    "I whakahaua tātou kia kai i ngā mea i homai e tō tātou Ariki, kia whakawhetai hoki ki a Ia mō te whenua pai, me te Ariki muru hara.",
+    "I whakakake mātou, i tahuri ke atu i te ara o te whakawhetai, i te whakamanamana ki ō mātou taonga me te mana.",
+    "I tono mātou kia whakanuia e te Ariki te tawhiti i waenganui i ā mātou haerenga, hei whakaatu i tōna whakahawea ki te ngāwari i homai e Ia.",
+    "I whakatūpatohia mātou e tētahi karere, engari i whakakahoretia e mātou te karere, ā, i haere tonu mātou i roto i tō mātou mangere.",
+    "I te mutunga, i pakaru tō mātou tāwharau nui, te mea i tautoko i tō mātou whai rawa, ka arahina atu ki tētahi waipuke nui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te iwi o Thamud",
+        "Ngā tāngata o Miriana",
+        "Te iwi o 'Aad",
+        "Te iwi o Ruta",
+        "Ngā tāngata o Saba"
+      ],
+      "answer": "Ngā tāngata o Saba"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te matekai me te tauraki",
+        "Te whakaekenga a te ope taua nui",
+        "He rū whenua whakangaro",
+        "He waipuke whakangaro mai i tētahi tāke pakaru",
+        "Te tukino a te rangatira nanakia"
+      ],
+      "answer": "He waipuke whakangaro mai i tētahi tāke pakaru"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He kuao kau koura",
+        "He kamera uha whakamiharo",
+        "He tāhuna nui",
+        "He whare teitei",
+        "He puna hohonu"
+      ],
+      "answer": "He tāhuna nui"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I hurihia mātou hei makimaki me hei poaka",
+        "I whakaorangia mātou, ā, i heke ki tētahi whenua hou",
+        "I marara noa atu mātou, ā, i pakoko haere tō mātou whenua",
+        "I piki mātou ki te rangi",
+        "I hanga e mātou he kingitanga hou, he rangatiratanga whai rawa ake"
+      ],
+      "answer": "I marara noa atu mātou, ā, i pakoko haere tō mātou whenua"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

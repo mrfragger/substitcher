@@ -1,0 +1,61 @@
+{
+  "title": "Pouzdani Duh Otkrivenja",
+  "intro": "U nevidljivim područjima, biće čistog svjetla kreće se precizno, izvršavajući svaku naredbu bez oklijevanja. Ova figura je razgovarala s odabranim slugama, donosila riječi smjernica i svjedočila odvijanju božanskih odluka kroz vijekove. Ko je ova časna duša?",
+  "clues": [
+    "Ja sam biće od čiste svjetlosti, stvoreno od svjetlosti, i nikada nisam prekršio nijednu zapovijed svog Gospodara.",
+    "Krećem se između nebesa i zemlje, silazeći s odredbama Najmilostivijeg.",
+    "Poslan sam plemenitoj djevici u svetištu, naviještajući joj čistog sina.",
+    "Ja sam duh svetosti i podržavao sam proroka kojem su dati jasni znakovi i Evanđelje.",
+    "Došao sam u pećinu na planini da izgovorim prve riječi recitacije koja će se zauvijek sačuvati.",
+    "Ja sam duh pouzdan, i ja sam taj koji je spustio Kur'an na srce posljednjeg poslanika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Džibril (Gabriel)",
+        "Mikail (Michael)",
+        "Anđeo smrti",
+        "Malik (Čuvar pakla)",
+        "Harut (jedan od dva anđela u Babilonu)"
+      ],
+      "answer": "Džibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Ključna misija/uloga",
+      "options": [
+        "Prenošenje objave prorocima",
+        "Trubanje u trubu na Sudnji dan",
+        "Čuvajući vrata pakla",
+        "Zapisivanje ljudskih djela",
+        "Uzrokujući kišu"
+      ],
+      "answer": "Prenošenje objave prorocima"
+    },
+    "location": {
+      "label": "Ključni atribut ili naslov",
+      "options": [
+        "Sveti Duh (Ruh al-Qudus)",
+        "Duh moći",
+        "Duh milosrđa",
+        "Duh vodstva",
+        "Duh Istine"
+      ],
+      "answer": "Sveti Duh (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Ishod misije",
+      "options": [
+        "Kuran je objavljen Poslaniku Muhammedu",
+        "Truba je zasvirala na Sudnji dan",
+        "Pakao je bio čuvan, a njegova vrata zatvorena",
+        "Knjiga djela je predstavljena Allahu",
+        "Kiša je poslana na zemlju"
+      ],
+      "answer": "Kuran je objavljen Poslaniku Muhammedu"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

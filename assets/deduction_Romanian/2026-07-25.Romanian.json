@@ -1,0 +1,61 @@
+{
+  "title": "Locuitorii celor două grădini",
+  "intro": "Într-o țară în care binecuvântările curgeau din abundență, o comunitate se bucura odată de belșugul a două grădini magnifice. Viețile lor erau o mărturie a favorii divine, însă povestea lor a luat o întorsătură atunci când recunoștința a scăzut, ducând la o transformare care avea să devină un semn durabil pentru toți cei care reflectează.",
+  "clues": [
+    "Am fost un popor binecuvântat cu o țară a ușurinței și abundenței.",
+    "Domnul nostru ne-a dăruit două grădini splendide, luxuriante și roditoare din toate părțile.",
+    "Ni s-a poruncit să fim recunoscători, dar am ales nerecunoștința și ne-am întors spatele.",
+    "Un baraj mare a ținut în frâu apele care au dat viață pământului nostru.",
+    "Când am persistat în răul nostru, barajul s-a spart și apele au inundat orașul.",
+    "Grădinile noastre odinioară luxuriante au fost înlocuite de fructe amare, tamariscuri și câțiva lotusi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din Saba",
+        "Oamenii din Thamud",
+        "Oamenii din Madyan",
+        "Companionii Peșterii",
+        "Oamenii elefantului"
+      ],
+      "answer": "Oamenii din Saba"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Un vânt violent timp de șapte nopți",
+        "O ploaie de pietre din cer",
+        "O inundație distructivă cauzată de un baraj care se sparge",
+        "Un țipăt puternic din cer",
+        "Înecându-se în mare"
+      ],
+      "answer": "O inundație distructivă cauzată de un baraj care se sparge"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Marele baraj al lui Ma'rib",
+        "Valea Wadi al-Qura",
+        "Grădina lui Iram",
+        "Fântâna lui Zamzam",
+        "Muntele Sinai"
+      ],
+      "answer": "Marele baraj al lui Ma'rib"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Grădinile noastre au fost înlocuite cu fructe amare și pomi rari",
+        "Am fost înghițiți de pământ într-un cutremur",
+        "Am fost transformați în maimuțe și porci",
+        "Ne-am înecat într-o mare inundație",
+        "Am fost distruși de o ploaie de pietre"
+      ],
+      "answer": "Grădinile noastre au fost înlocuite cu fructe amare și pomi rari"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

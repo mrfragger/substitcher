@@ -1,0 +1,61 @@
+{
+  "title": "Veistettyjen vuorten profeetta",
+  "intro": "Muinaisen Arabian ankarissa aavikoissa nousi esiin hahmo ihmisten keskuudessa, jotka olivat tunnettuja poikkeuksellisesta käsityötaidostaan. Heidän kotinsa kohosivat kalliosta, mutta heidän sydämensä olivat kovemmat kuin heidän veistämänsä vuoret. Jumalallinen sanansaattaja saapui yhden ihmeellisen merkin kanssa – mutta ylpeys ja uhmakkuus johtivat nopeisiin ja kauhistuttaviin seurauksiin. Voitko tunnistaa jalon palvelijan, jonka kansa valitsi tuhon ohjauksen sijaan?",
+  "clues": [
+    "Minut lähetettiin varoittajaksi kansalleni, kutsumaan heitä palvomaan yhtä Jumalaa.",
+    "Kansani eli dramaattisten kalliomuodostelmien keskellä ja kaiversi upeita asumuksia vuorenrinteisiin.",
+    "Ihmeellinen naaraskameli nousi kalliosta rukouksestani, selvä merkki Kaikkivaltiaalta.",
+    "Käskin kansaani jakamaan veden tämän naaraskamelin kanssa eikä vahingoittamaan sitä.",
+    "Kansani juonitteli naaraskamelia vastaan ​​ja katkaisi sen kinnerjänteet, sinetöiden näin oman tuhonsa.",
+    "Kauhistuttava maanjäristys iski kansaani, ja he jäivät liikkumattomiksi asunnoissaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Salih",
+        "Profeetta Hud",
+        "Profeetta Shu'ayb",
+        "Profeetta Nooa",
+        "Profeetta Musa"
+      ],
+      "answer": "Profeetta Salih"
+    },
+    "trial": {
+      "label": "Mikä oli ratkaiseva oikeudenkäynti?",
+      "options": [
+        "Ihmeellisen naaraskamelin takareisi",
+        "Suuren arkin rakentaminen pilkan keskellä",
+        "Tyrannimaisen faaraon kohtaaminen",
+        "Heitetään liekehtivään tuleen",
+        "Sapattiliiton rikkominen"
+      ],
+      "answer": "Ihmeellisen naaraskamelin takareisi"
+    },
+    "location": {
+      "label": "Mikä oli keskeinen elementti?",
+      "options": [
+        "Kalliosta noussut naaraskameli",
+        "Suuri puinen arkki",
+        "Sauva, joka halkaisi meren",
+        "Valtava valas",
+        "Yläpuolella leijuva vuori"
+      ],
+      "answer": "Kalliosta noussut naaraskameli"
+    },
+    "outcome": {
+      "label": "Mikä oli heidän lopullinen kohtalonsa?",
+      "options": [
+        "Äkillinen maanjäristys taivaalta",
+        "Hukkui mahtavaan tulvaan",
+        "Heidän kaupunkinsa tuhoutuivat jumalallisesta käskystä",
+        "Poltti paahtavan tuulen",
+        "Maan nielaisema"
+      ],
+      "answer": "Äkillinen maanjäristys taivaalta"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'abraç de la Terra",
+  "intro": "Ind un temp de grands prœve, a un individuo famos l’è staita dada una immensa abundanza mondana, una prova de gratitudin e umiltaa. El viagg de chesta figüra l’è una prufunda leziun sü la natüra fugaz di ben materiai e süi conseguenz del arroganza. Scopri l’identità de chesta anima che la sò storia l’è incisa in de la terra sotta de noi.",
+  "clues": [
+    "Vivi intra un popul guidà de un grand messagger.",
+    "Allah m’ha concedü richezi inscì grand che i ciaf di me tesor l’eran un peso pesant per tanti gent fort.",
+    "El me popul, che cognosseva la me richeza, m’ha cunsiglià de cercà la dimora del Aldilà cun chel che Allah m’haveva dà e de desmentegà no la mia part del mund, e de fär el ben cuma Allah g’haveva fatt el ben a mi.",
+    "G’ho dichiarà cun arroganza che la mè immensa richeza l’è stada ottenüda sultant travers de la mè savè e sforzi, negand qual-sa-vöör favor divin.",
+    "Quand che m’è stà dumandà de contribuir o de recognoss la generosità de Allah, g’ho refudà cun orgœuj, credend che i mè ben l’eran sultant di mè.",
+    "Come conseguenza de la mia estrema arroganza e oppression, Allah l’ha comandad a la terra de dervir-m e de inglutir mi e la mia abitazion."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Aman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Vesser butad ind un fœg",
+        "Anegare in del mar",
+        "Vess esilià de un giardin",
+        "Vesser trasformads in una scimia",
+        "Vesser inglutid de la terra"
+      ],
+      "answer": "Vesser inglutid de la terra"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un vitell dorà",
+        "Un'arca potent",
+        "Un usel che parla",
+        "Un staff miracolos",
+        "Immensi tesor e ciaf"
+      ],
+      "answer": "Immensi tesor e ciaf"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Diventar un grand suvran",
+        "Ricef la rivelaziun divina",
+        "Ascendent in del ciel",
+        "Viver una longa vita de pietà",
+        "Distruziun total per arroganza"
+      ],
+      "answer": "Distruziun total per arroganza"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Okalyň Ruhlary",
+  "intro": "Siz rehimsiz hökümdaryň ýalan taňrylara doly wepalylygy talap eden döwrüne syýahat edýärsiňiz. Bagyşlanan janlylaryň kiçi bir jemgyýeti muňa boýun egmedi we ebedi näletlenen ýaly agyr jeza bilen ýüzbe-ýüz boldy. Olaryň hekaýasy Gurhanda sarsmaz imanyň subutnamasy hökmünde ýaňlanýar. Bu berk topary kesgitläp bilersiňizmi?",
+  "clues": [
+    "Biz ýalan taňrylara sežde etmegi talap edýän hökümdaryň zulumy astynda ýaşaýan ýurtda ýaşadyk",
+    "Diňe Alla ynanýandygymyz üçin jemgyýetimiz agyr yzarlamalara duçar boldy",
+    "Hökümdar uly bir hendek gazylyp, ony güýçli ot bilen doldurmagy buýurdy",
+    "Biz imanymyzdan ýüz öwürmekden ýüz öwürendigimiz üçin, bizi bir-birden şol ýanýan çukura taşladylar",
+    "Biziň hekaýamyz Gurhanyň bir bölegine öwrüldi we bizi yzarlaýanlar ebedi näletlendiler",
+    "Başymyzdan geçen kynçylyklary ýazýan süre asmanyň beýik asman alamatlarynyň ady bilen atlandyrylypdyr"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "Ashab al-Uhdud (Hendek sahabalary)",
+        "Ashab al-Kahf (Gähriň adamlary)",
+        "Sabat güni adamlary",
+        "Ad halky",
+        "Semud halky"
+      ],
+      "answer": "Ashab al-Uhdud (Hendek sahabalary)"
+    },
+    "trial": {
+      "label": "Synagymyz",
+      "options": [
+        "Otly çukurda diri-diri ýanmak",
+        "Köp ýyllaryň dowamynda gowakda möhürlenip galmak",
+        "Mukaddes dynç gününde balyk tutmak",
+        "Uwuldaýan ýel bilen weýran bolýar",
+        "Mukaddes düýäni öldürmek"
+      ],
+      "answer": "Otly çukurda diri-diri ýanmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýalpyldap duran ot hendek",
+        "Wepaly itiň ýaşaýan gizlin gowagy",
+        "Gadymy heläkçilikli şäheriň beýik sütünleri",
+        "Daş gaýalara oýulyp ýasalan dag ýaşaýyş jaýlary",
+        "Güýçli ýeller bilen örtülen açyk düzlük"
+      ],
+      "answer": "Ýalpyldap duran ot hendek"
+    },
+    "outcome": {
+      "label": "Biziň netijämiz",
+      "options": [
+        "Biz şehit bolduk we yzarlaýjylar ebedi näletlendiler",
+        "Biz 309 ýyl uklandan soň oýandyk",
+        "Biz günälerimiz üçin maýmynlara öwrüldik",
+        "Güýçli öwüsýän ýel biziň hemmämizi ýok etdi",
+        "Ýekeje weýran ediji gykylyk biziň barlygymyzy dargady"
+      ],
+      "answer": "Biz şehit bolduk we yzarlaýjylar ebedi näletlendiler"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

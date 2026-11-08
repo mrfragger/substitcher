@@ -1,0 +1,61 @@
+{
+  "title": "Te Pononga o te Whakaaro Nui",
+  "intro": "I roto i te whānuitanga o ngā kōrero a te Quran, e tū ana tētahi tangata ngaro, he pononga nā Allah kua whakanuia ki te mātauranga atua me te aroha noa. I tūtaki tēnei tangata ngaro ki tētahi o ngā poropiti nui rawa atu, ā, i arahina atu ki tētahi haerenga kī tonu i ngā mahi whakapoauau i wero i ngā rohe o te māramatanga tangata. Ahakoa te āhua hē o ia mahi, i hunaia ngā akoranga hohonu mō te aituā, te manawanui, me te whakaaro nui ngaro i muri i te whakataunga atua. Ko wai tēnei tangata pōuri, ā, he aha ngā pono i huraina e rātou?",
+  "clues": [
+    "He pononga ahau nā Allah, i whiriwhiria mō te mātauranga motuhake me te aroha noa.",
+    "I whai tetahi poropiti nui ki te ako i ahau, ā, i whakaae ahau i raro i ngā tikanga tino pakari.",
+    "I roto i tā māua hui, e toru ngā mahi i mahia e au, ā, i te whakaaro o taku hoa, he mahi hē tēnei.",
+    "I pakaru i ahau te poti o te hunga rawakore, engari he mahi tohu huna tēnā.",
+    "I tangohia e au te ora o tētahi tamaiti, ahakoa te āhua nanakia, i meatia kia kore ai e pouri ōna mātua.",
+    "I hanga anō e au tētahi taiepa i tētahi tāone i whakakahore i a mātou ki te manaaki, e huraina ana tētahi taonga i raro iho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Al-Khidr (te pononga tika)",
+        "Ko te rangatira o ngā māra e rua",
+        "Tetahi o ngā tāngata o te ana",
+        "Ko te kingi i totohe ki a Ihāperama",
+        "Te tangata i moe mō ngā tau 100"
+      ],
+      "answer": "Al-Khidr (te pononga tika)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tūtakitanga ki te Poropiti a Mohi i te hononga o ngā moana e rua",
+        "Te hanga i tētahi ārai hei ārai i a Koka rāua ko Makoka",
+        "Te maka ki roto i te ahi nui",
+        "Te wehewehe i te moana kia rua ngā haurua",
+        "Te whiwhi i ngā papa o te Torah"
+      ],
+      "answer": "Te tūtakitanga ki te Poropiti a Mohi i te hononga o ngā moana e rua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te hononga o ngā moana e rua",
+        "Maunga Hinai",
+        "Te ana o Thawr",
+        "Te awaawa o Tūwa",
+        "Te puna o Zamzam"
+      ],
+      "answer": "Te hononga o ngā moana e rua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakamārama ia i te whakaaro nui o te Atua i muri i ana mahi whakamīharo, ā, ka wehe atu i a rāua ko Mohi.",
+        "I whakawhiwhia ia ki te tohu poropiti i muri i te haerenga",
+        "I pakaru te poti i te tupuhi",
+        "I whakahokia mai te tamaiti ki te ora",
+        "I hanga e ia he whare karakia i roto i te tāone kino"
+      ],
+      "answer": "I whakamārama ia i te whakaaro nui o te Atua i muri i ana mahi whakamīharo, ā, ka wehe atu i a rāua ko Mohi."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

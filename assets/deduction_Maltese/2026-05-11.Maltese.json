@@ -1,0 +1,61 @@
+{
+  "title": "Ix-Xhieda Sodi",
+  "intro": "Immaġina żmien meta t-twemmin ġie ttestjat bin-nar, u l-konvinzjoni soda saret l-akbar sfida. Int inkarigat li tiskopri l-identità ta’ grupp li l-istorja tiegħu hija rrakkuntata fil-Koran, narrattiva ta’ fidi profonda kontra t-tirannija kbira. Skopri l-ħjiel biex tiskopri min kienu dawn l-erwieħ, u ċ-ċirkostanzi straordinarji li ffaċċjaw.",
+  "clues": [
+    "Żammejna sod fil-konvinzjoni tagħna, minkejja l-pressjoni immensa biex niċħdu l-fidi tagħna.",
+    "Konna fil-mira ta’ ħakkiem setgħan li ried jitfi d-dawl tal-monoteiżmu.",
+    "Rajna sinjali u mirakli kbar, iżda l-oppressuri tagħna baqgħu bla ma taw kas.",
+    "Issaportejna metodu orribbli ta’ persekuzzjoni maħsub biex jitterroriżża lil oħrajn sakemm jissottomettu ruħhom.",
+    "Konna mitfugħin f'infern jaqbad, iżda s-sodizza tagħna kisbitna post għoli ma' Alla.",
+    "L-istorja tagħna hija rrakkontata f'Surah imsemmija għal kostellazzjonijiet ċelesti, li twissi dwar id-destin ta' dawk li jippersegwitaw lill-fidili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Il-Poplu ta’ Thamud",
+        "In-Nies ta' 'Ad",
+        "In-Nies tal-Foss",
+        "Il-Poplu ta’ Midjan",
+        "In-Nies tal-Iljunfant"
+      ],
+      "answer": "In-Nies tal-Foss"
+    },
+    "trial": {
+      "label": "Il-Persekuzzjoni Tagħna",
+      "options": [
+        "Li tkun mgħarraq f'għargħar",
+        "Li tkun ikkonsmat minn riħ qawwi",
+        "Mitfugħ f’trinka tan-nar",
+        "Nibla’ mill-art",
+        "Li jiġu trasformati f'xadini"
+      ],
+      "answer": "Mitfugħ f’trinka tan-nar"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Għargħar kbir",
+        "Terremot kbir",
+        "Trinka fonda u taħraq",
+        "Idol qawwi",
+        "Nixfa devastanti"
+      ],
+      "answer": "Trinka fonda u taħraq"
+    },
+    "outcome": {
+      "label": "Id-Destin Aħħari Tagħna",
+      "options": [
+        "Ingħataw saltna fid-dinja.",
+        "Huma ġew salvati permezz ta’ ħarba mirakoluża.",
+        "Huma kisbu l-martirju u l-premju ta’ dejjem.",
+        "Huma ġew trasformati fi speċi differenti.",
+        "Ingħataw ġid u prosperità immensa."
+      ],
+      "answer": "Huma kisbu l-martirju u l-premju ta’ dejjem."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

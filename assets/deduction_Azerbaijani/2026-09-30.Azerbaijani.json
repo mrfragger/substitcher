@@ -1,0 +1,61 @@
+{
+  "title": "Xəstə Bir",
+  "intro": "Çoxdan, bəşər tarixinin ən erkən dövrlərində iki ruh Yaradanının hüzurunda qurbanlarla dayanırdı. Biri qəbul edildi, digəri isə qəbul edilmədi. Bundan sonra baş verənlər bacı-qardaşlar arasında ilk böyük faciəyə çevrildi - bir səbirli təmkin və bir də acı intiqam. Mənim kim olduğumu deyə bilərsinizmi?",
+  "clues": [
+    "Mən yer üzündə insan varlığının ilk günlərində anadan olmuşam",
+    "Mən bu dünyada gəzən ilk insan cütlüyünün uşağı idim",
+    "Bir dəfə Yaradanımı razı salmaq üçün sürümün ən yaxşısından qurban kəsdim.",
+    "Mənim təklifim yuxarıdan qəbul edildi, qardaşımın təklifi isə rədd edildi",
+    "Ölümlə təhdid edildikdə, bacı-qardaşıma əl qaldırmamağı seçdim",
+    "Mən bütün bəşəriyyət tarixində başqası tərəfindən haqsız yerə öldürülən ilk insan oldum"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Adəmin oğlu Habil (Habil)",
+        "Adəmin oğlu Qabil (Qabil)",
+        "İlk insan olan Adəm",
+        "Nuh (Nuh)",
+        "İbrahim (İbrahim)"
+      ],
+      "answer": "Adəmin oğlu Habil (Habil)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Bəşər tarixində ilk qətl hadisəsi",
+        "Nuhun böyük tufanı",
+        "Firon ordusunun məhv edilməsi",
+        "İbrahimin İsmayılı qurban etməsi",
+        "Calut (Goliath) ilə döyüş"
+      ],
+      "answer": "Bəşər tarixində ilk qətl hadisəsi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Xoş bir qurban olaraq təqdim edilən qoyun",
+        "Böyük bir taxta sandıq",
+        "İlana çevrilən bir əsa",
+        "Kral mesajı daşıyan şanapipik quş",
+        "Alovlu bir səngər"
+      ],
+      "answer": "Xoş bir qurban olaraq təqdim edilən qoyun"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bəşər tarixində ilk qətl qurbanı oldu",
+        "Taxta bir gəminin içində böyük bir daşqından sağ çıxdı",
+        "Böyük bir balığın qarnının içində yaşayırdı",
+        "Cinlərə, insanlara və küləyə hökmranlıq etdi",
+        "Qırx il geniş bir səhrada gəzib dolaşdı"
+      ],
+      "answer": "Bəşər tarixində ilk qətl qurbanı oldu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

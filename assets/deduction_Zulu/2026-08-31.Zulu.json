@@ -1,0 +1,61 @@
+{
+  "title": "Izwi Elithule Lesigodi",
+  "intro": "Buyela emuva esikhathini uye kubantu abanamandla abake bathola isimangaliso esiphilayo njengesivivinyo. Ukuzikhukhumeza kanye nenkani kwavala isiphetho sabo. Ungakwazi yini ukulandelela indaba bese uthola ukuthi kwenzekani kulesi sigameko esimangalisayo?",
+  "clues": [
+    "Ngathunyelwa njengesivivinyo saphezulu kubantu abanamandla abaziwa ngamandla abo nokungalaleli kwabo.",
+    "Ngangiyisimangaliso esiyingqayizivele—abantu abafana nami babengakaze bavele phakathi kwabo.",
+    "Ngabelana ngamanzi okuphuza avela emthonjeni nabantu bakithi ngezinsuku ezishintshanayo.",
+    "Baxwayiswa ngokuthi noma yikuphi ukungilimaza kuzoletha isijeziso esisheshayo.",
+    "Abanesibindi kakhulu kubo basishaya indiva isixwayiso futhi banginquma imisipha.",
+    "Ngemva kokufa kwami, ukukhala okukodwa okukhulu okuvela phezulu kwabhubhisa bonke abantu bami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Ikamela Lensikazi likaSalih",
+        "Inkomo kaMusa",
+        "Umkhumbi kaNuh",
+        "Induku kaMusa",
+        "Isihlalo Sobukhosi sikaBilqis"
+      ],
+      "answer": "Ikamela Lensikazi likaSalih"
+    },
+    "trial": {
+      "label": "Isiphetho Sami",
+      "options": [
+        "Wanqunywa intambo wabulawa",
+        "Kuhlatshwe njengomhlatshelo",
+        "Waguqulwa waba yinyoka",
+        "Kugcinwe ngesikhathi sikazamcolo omkhulu",
+        "Kulethwe ngokushesha embusweni"
+      ],
+      "answer": "Wanqunywa intambo wabulawa"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umthombo wamanzi",
+        "Ithebhulethi yetshe",
+        "Isihlahla esivuthayo",
+        "Umphongolo wokhuni",
+        "Isihlalo sobukhosi segolide nesiliva"
+      ],
+      "answer": "Umthombo wamanzi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kubhujiswe ukukhala okukodwa",
+        "Ngicwile esikhukhuleni esikhulu",
+        "Kushiswe yimvula yamatshe",
+        "Ishaywe umoya onamandla",
+        "Kugwinywe umhlaba"
+      ],
+      "answer": "Kubhujiswe ukukhala okukodwa"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

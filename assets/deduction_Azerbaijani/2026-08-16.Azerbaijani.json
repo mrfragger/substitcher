@@ -1,0 +1,61 @@
+{
+  "title": "Palatadakı Səssiz Səs",
+  "intro": "Dünyanın qeyri-mümkün elan etdiyi şeylərə can atan qocalmış bir ruhdan ayılan bir dua çoxdan müqəddəs bir otağın sükutunda əks-səda verdi. İllər keçdikcə böyüyən və gələcək üçün narahatlıqla yüklənən bu şəxs, Rəbbinə şəxsi yalvarışla müraciət etdi. Ardınca gələn hər bir təbii gözləntiyə meydan oxuyan ilahi bir cavab oldu - ümidsiz çağırışa cavab verənin mərhəmətinin sübutu.",
+  "clues": [
+    "Mən Rəbbimi təklikdə çağırdım, özümü Ona ibadət etməyə həsr etdiyim bir otağa çəkildim.",
+    "Rəbbimə etiraf etdim ki, məndən sonra gələcəklər üçün qorxuram, dünyadan köçdükdən sonra qövmümün hidayətinə görə narahatam.",
+    "Qocalıq məni bürümüşdü — sümüklərim zəifləmişdi və ağ saçlar başıma yayılmışdı.",
+    "Həyat yoldaşım bütün həyatı boyu sonsuz idi, amma yenə də Rəbbimdən mənə Öz dərgahından bir varis bəxş etməsini dilədim.",
+    "Mən bir əlamət istədim və Rəbbim cavab olaraq mənə üç gecə heç kimlə danışmağı qadağan etdi, halbuki mən fiziki cəhətdən sağlam idim.",
+    "Mənə adı Yəhya olan bir oğul vəd edilmişdi. Rəbbim bu adı əvvəllər heç kimə verməmişdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Zəkəriyyə peyğəmbər",
+        "Nuh peyğəmbər",
+        "Musa peyğəmbər",
+        "Yusif peyğəmbər",
+        "Davud peyğəmbər"
+      ],
+      "answer": "Zəkəriyyə peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Sonsuz həyat yoldaşı ilə qocalıqda varis üçün dua etmək",
+        "Alovlu bir oda atılmaq",
+        "Qaranlıqda böyük bir balıq tərəfindən udulur",
+        "Ailənin, var-dövlətin və sağlamlığın itkisinə dözmək",
+        "Böyük bir gəmi tikmək əmri"
+      ],
+      "answer": "Sonsuz həyat yoldaşı ilə qocalıqda varis üçün dua etmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Namaz otağı (mihrab)",
+        "İlana çevrilən bir əsa",
+        "Böyük bir taxta sandıq",
+        "Unikal bir bulağı olan bir bağ",
+        "Quşların toplaşdığı bir dağ"
+      ],
+      "answer": "Namaz otağı (mihrab)"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Həddindən artıq qocalığa baxmayaraq, möcüzəvi bir adla oğul bəxş edildi",
+        "İlahi əmrlə alovlanan oddan xilas oldu",
+        "Böyük bir sel kafirləri məhv etdi",
+        "Səbirdən sonra ailəsinə, var-dövlətinə və sağlamlığına qovuşdu",
+        "Firon və ordusu dənizdə boğuldu"
+      ],
+      "answer": "Həddindən artıq qocalığa baxmayaraq, möcüzəvi bir adla oğul bəxş edildi"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

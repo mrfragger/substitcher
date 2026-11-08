@@ -1,0 +1,61 @@
+{
+  "title": "An Guth a Chuir Dúshlán ar Réimeas Íodail",
+  "intro": "I measc theachtairí an Uilechumhachtaigh bhí seirbhíseach dílis a d’éirigh i measc náisiúin cheanndána chun an fhírinne a sheachadadh. Bhí dia bréige glactha ag a muintir, ag casadh ar shiúl ó Chruthaitheoir gach a bhfuil ann. Le rún daingean, ghlaoigh an duine seo orthu ar ais - ach cuireadh an teachtaireacht i gcoinne le séanadh agus le diúltú. Céim trí na leideanna chun a fháil amach cé hé an seirbhíseach dílis seo.",
+  "clues": [
+    "Cuireadh mé mar theachtaire chuig pobal ceanndána a bhí imithe ar seachrán ón gcosán díreach.",
+    "Tháinig mé chun cur i gcuimhne do mo náisiún an Té a chruthaigh gach a bhfuil ann — an ceann is fearr de na cruthaitheoirí uile.",
+    "Bhí mo mhuintir iompaithe i dtreo íodal bréagach a raibh siad ag adhradh agus ag glaoch air de lá agus d’oíche.",
+    "Chuir mé dúshlán dána rompu, ag fiafraí díobh cén fáth a ndéanfaidís adhradh do dhia bréige agus a dTiarna fíor a thréigean.",
+    "Shéan siad mé, dhiúltaigh siad éisteacht, agus chloígh siad go daingean lena mbréag - ach choinnigh mo Thiarna mé.",
+    "Is mise Ilyas — agus bronnadh síocháin orm, agus áiríodh mé i measc seirbhísigh chreidmheacha an Té is Trócaireaí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Ilyas",
+        "An Fáidh Idris",
+        "Fáidh Alyasa",
+        "Fáidh Dhul-Kifl",
+        "Fáidh Nuh"
+      ],
+      "answer": "An Fáidh Ilyas"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag glaoch ar phobal ó adhradh Ba'al",
+        "Ag tabhairt aghaidh ar tíoránach a mhaígh gur dia é",
+        "Rabhadh a thabhairt do dhaoine faoi thuilte atá ar tí tarlú",
+        "Á chaitheamh i dtine mhór lasrach",
+        "Ag treorú eacsadas ó thír na sclábhaíochta"
+      ],
+      "answer": "Ag glaoch ar phobal ó adhradh Ba'al"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An íodal darb ainm Ba'al",
+        "Áirc mhór tógtha as adhmad láidir",
+        "Foireann a scar farraige ollmhór",
+        "Éadach naofa atá daite le fuil",
+        "Tor dóite ar shliabh naofa"
+      ],
+      "answer": "An íodal darb ainm Ba'al"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Deonaíodh síocháin dóibh agus cuireadh san áireamh iad i measc seirbhísigh roghnaithe Allah",
+        "Treoraíodh isteach i bparthas agus scriosadh na cinn eile go léir",
+        "Tarrtháladh ó thine mhór a d’éirigh fionnuar agus sábháilte",
+        "Tugadh ceannas dóibh ar an jinn, ar an gcine daonna agus ar an ngaoth",
+        "Corp caomhnaithe mar chomhartha buan ar feadh na haoiseanna"
+      ],
+      "answer": "Deonaíodh síocháin dóibh agus cuireadh san áireamh iad i measc seirbhísigh roghnaithe Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

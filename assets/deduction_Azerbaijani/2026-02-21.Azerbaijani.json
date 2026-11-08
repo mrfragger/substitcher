@@ -1,0 +1,61 @@
+{
+  "title": "Böyük Tufanın Xəbərçisi",
+  "intro": "Bu şəxs əsrlər boyu dözümlülük sütunu kimi dayanmış, istehza və rədd edilmə ilə üzləşərkən üsyankar bir cəmiyyəti həqiqət işığına çağırmışdır. Böyük çətinliklərə və nəsillərə yayılan mesajın ağırlığına baxmayaraq, bu xidmətçi son fərman verilənə qədər öz missiyasında səbatlı qalmışdır.",
+  "clues": [
+    "Mən doqquz yüz əlli il xalqımı gecə-gündüz, gizli və aşkar şəkildə haqq yoluna çağırdım.",
+    "Mən qövmümü şiddətli bir əzabla qorxutdum, onlar isə təkəbbürlə barmaqlarını qulaqlarına tıxadılar və libaslarına büründülər.",
+    "Su görünməsə də, Rəbbimin nəzarəti altında nəhəng bir şey tikmək əmri mənə verildi.",
+    "İşlədiyim zaman xalqımın rəhbərləri yanımdan keçib məni lağa qoyurdular, amma mən onlara dedim ki, tezliklə onları lağa qoyan biz olacağıq.",
+    "Öz qanım və ətimlə birlikdə mənə qoşulmağı yalvardım, amma onlar qalxan dalğadan xilas olacağına inanaraq bir dağa sığınmağı seçdilər.",
+    "Yer sularını udduqdan və göy yağışını dayandırdıqdan sonra gəmim nəhayət Cudi dağında dayandı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Hud peyğəmbər",
+        "Peyğəmbər Saleh",
+        "Nuh peyğəmbər",
+        "Lut peyğəmbər",
+        "Şüeyb peyğəmbər"
+      ],
+      "answer": "Nuh peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Dəyişən Heyət",
+        "Böyük Daşqın",
+        "Soyuducu Atəş",
+        "Bölünən Dəniz",
+        "Tanrının Dəvəsi"
+      ],
+      "answer": "Böyük Daşqın"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Qızıl buzov",
+        "Heyət",
+        "Köynək",
+        "Gəmi",
+        "Üzük"
+      ],
+      "answer": "Gəmi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Vəd edilmiş diyara daxil olmaq",
+        "Qırmızı dənizdə boğulmaq",
+        "Cudi dağında dincəlir",
+        "Çuxura atılmaq",
+        "Göylərə yüksəlmək"
+      ],
+      "answer": "Cudi dağında dincəlir"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

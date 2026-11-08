@@ -1,0 +1,61 @@
+{
+  "title": "Den försvunna mängden",
+  "intro": "Du står inför ekon från ett samhälle vars historia är skriven i vågorna. Dessa själar hörde ett kall, valde trots och mötte en konsekvens som omformade jorden. Vilka är de, och vad hände med deras värld?",
+  "clues": [
+    "Vi levde för länge sedan, och ett budbärare kom till oss från vår egen krets.",
+    "Vi dyrkade fem avgudar och vägrade att överge dem.",
+    "Vi hånade budbäraren och anklagade honom för att vara vilse.",
+    "Vi krävde att han skulle utdöma straffet om han talade sanning.",
+    "Vi såg himlen ösa ner regn och jorden flöda fram källor.",
+    "Vi klättrade upp på höjderna för att fly, men vågorna övermannade oss."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Folket i Nuh",
+        "Folket i 'Ad",
+        "Folket i Thamud",
+        "Luts folk",
+        "Människor i Madyan"
+      ],
+      "answer": "Folket i Nuh"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Vi drunknade i en stor översvämning",
+        "Vi förstördes av en orkan",
+        "Vi dödades av en kraftig explosion",
+        "Vi slukades av jorden",
+        "Vi blev bombarderade med stenar från himlen"
+      ],
+      "answer": "Vi drunknade i en stor översvämning"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En stor översvämning",
+        "En våldsam vind",
+        "En dusch av stenar",
+        "En eldig explosion",
+        "En jordbävning"
+      ],
+      "answer": "En stor översvämning"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Vi alla förgås utom de troende med Nuh",
+        "Vi förvandlades till apor",
+        "Vi lämnades som ruiner för resenärer",
+        "Vi förvandlades till salt",
+        "Vi fick respit"
+      ],
+      "answer": "Vi alla förgås utom de troende med Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

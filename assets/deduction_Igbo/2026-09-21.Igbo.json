@@ -1,0 +1,61 @@
+{
+  "title": "Mkpu Site n'Omi",
+  "intro": "Otu ohu nke Onye Kasị Ebere ike gwụrụ mba isi ike wee pụọ tupu e nye ya ikike. Onye a mechara biri n'ebe ọ dịghị mmadụ ọ bụla nọbu, ebe oku a na-akpọku Chineke na-ada ụda n'ụzọ dị ịtụnanya site n'ọchịchịrị. Mgbe ọ pụtara na-adịghị ike mana agbanweela, mkpụrụ obi a ghọrọ ihe mmụta na-adịghị agwụ agwụ n'inwe ndidi, nchegharị sitere n'ezi obi, na ebere na-enweghị njedebe nke Onye Okike. Ị nwere ike ịkọwa ihe omimi ahụ?",
+  "clues": [
+    "E zigara m dịka onye ozi nye ndị m, mana ha gafere ókè niile n'ekweghị na Chineke ha ma jụ ige ntị.",
+    "Iwe were m maka njụ ha wee gbapụ n'aka ndị m tupu iwu Allah abịa.",
+    "M banyere n'ụgbọ mmiri nke karịrị ike mmadụ, anyị wee see nza iji mara onye a ga-atụba n'ime mmiri.",
+    "A tụbara m n'ime oké osimiri na-efe efe, nnukwu azụ̀ lokwara m.",
+    "N'ime akwa ọchịchịrị atọ — afọ, oké osimiri miri emi, na ụwa dị n'okpuru — akpọkuru m Onyenwe m n'ezi nchegharị.",
+    "M si n'azụ ahụ pụta n'ụsọ oké osimiri, ike gwụrụ m, otu osisi gourd wee too n'elu m. Ndị m, otu narị puku ma ọ bụ karịa, mechara kwere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Yunus",
+        "Onye Amụma Ayyub",
+        "Onye Amụma Josef",
+        "Onye Amụma Mozis",
+        "Onye Amụma Sulaiman"
+      ],
+      "answer": "Onye Amụma Yunus"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Azụ dị egwu loro ya",
+        "A tụbara ya n'ọkụ na-ere ọkụ",
+        "A tọrọ n'ala olulu mmiri",
+        "Iju mmiri karịrị ya",
+        "Eze tụrụ ya mkpọrọ n'ụzọ na-ezighị ezi"
+      ],
+      "answer": "Azụ dị egwu loro ya"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Afọ azụ̀ ukwu",
+        "Ndagwurugwu dị nsọ dị nso na Kaaba",
+        "Ụgbọ dị n'elu ugwu",
+        "Mkpanaka nke ghọrọ agwọ",
+        "Ocheeze dị ebube nke ukwuu"
+      ],
+      "answer": "Afọ azụ̀ ukwu"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Ndị ya, otu narị puku ma ọ bụ karịa, kwenyere",
+        "A kpọlitere ya dị ndụ gaa n'eluigwe",
+        "Aghọrọ m onye ọchịchị nke alaeze na-enweghị atụ",
+        "Mkpọtụ sitere n'eluigwe bibiri ya",
+        "Ala ọma jijiji nke mebiri emebi kụdara ya"
+      ],
+      "answer": "Ndị ya, otu narị puku ma ọ bụ karịa, kwenyere"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

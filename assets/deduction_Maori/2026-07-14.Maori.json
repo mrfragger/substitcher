@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Wairua o te Āwhata",
+  "intro": "Ka hoki whakamuri koe ki tētahi wā i tono ai tētahi rangatira nanakia kia tino piripono ki ngā atua teka. I whakakahore tētahi hapori iti o ngā wairua pono, ā, i pāngia e tētahi whiu tino kino, ā, ka kanga tonutia. Kei roto i te Quran tō rātou kōrero hei tohu mō te whakapono pumau. Ka taea e koe te tautuhi i tēnei rōpū pumau?",
+  "clues": [
+    "I noho mātou i tētahi whenua i raro i te mana o tētahi rangatira i tono kia karakia ki ngā atua teka",
+    "I pāngia tō mātou hapori e te whakatoi nui nā tō mātou whakapono ki a Allah anake",
+    "I whakahau te rangatira kia keria he awaawa nui, kia tahuna hoki ki te ahi mura.",
+    "Nā te mea i whakakahore mātou ki te whakarērea tō mātou whakapono, i makahia mātou ki roto i taua poka mura, takitahi",
+    "I uru tō mātou kōrero ki roto i te Quran, ā, ko te hunga i whakatoi i a mātou i kanga tonutia.",
+    "Ko te ingoa o te sura e tuhi ana i tō tātou whakamātautau i ahu mai i ngā tohu nui o te rangi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā Hoa o te Parekura (Ashab al-Ukhdud)",
+        "Ngā tāngata o te ana (Ashab al-Kahf)",
+        "Ngā tāngata o te Hāpati",
+        "Te iwi o Āta",
+        "Te iwi o Thamud"
+      ],
+      "answer": "Ngā Hoa o te Parekura (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Tā Mātou Whakamātautau",
+      "options": [
+        "Te tahuna ora i roto i te poka mura",
+        "Te hiri i roto i te ana mō ngā tau maha",
+        "Te hī ika i te rā tapu o te okiokinga",
+        "E whakangaromia ana e te hau e pupuhi ana",
+        "Te patu i tētahi kamera uwha tapu"
+      ],
+      "answer": "Te tahuna ora i roto i te poka mura"
+    },
+    "location": {
+      "label": "Te Huānga Matua",
+      "options": [
+        "He awaawa ahi e mura ana",
+        "He ana huna me te kurī pono",
+        "Ngā pou teitei o tētahi tāone tawhito kua whakangaromia",
+        "Ngā whare maunga i whakairohia ki ngā pari kohatu",
+        "He mania tuwhera e pupuhihia ana e ngā hau kaha"
+      ],
+      "answer": "He awaawa ahi e mura ana"
+    },
+    "outcome": {
+      "label": "Tā Mātou Hua",
+      "options": [
+        "I whakamatea mātou, ā, i kanga tonutia ngā kaitukino",
+        "I ara ake mātou i muri i te moe mō ngā tau 309",
+        "I hurihia mātou hei makimaki mō ā mātou hara",
+        "I whakangaromia mātou katoa e te hau nui e aue ana",
+        "Kotahi te tangi whakangaro i pakaru ai tō mātou oranga"
+      ],
+      "answer": "I whakamatea mātou, ā, i kanga tonutia ngā kaitukino"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

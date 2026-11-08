@@ -1,0 +1,61 @@
+{
+  "title": "Isithunywa Esabhekana Nabakhulekeli Bezithombe",
+  "intro": "Ngesikhathi lapho ukuzinikela kwase kulahlekile, isithunywa sasukuma sabiza ukuba sibuyele ekukhulekeleni iNkosi yezwe. Lesi sibalo sama siqinile ngokumelene nabantu ababegxile ekukhulekeleni unkulunkulu wamanga, sibakhumbuza ngoMdali wabo weqiniso neNkosi yokhokho babo. Kodwa abantu abazange balalele futhi benqaba isixwayiso, bavala isiphetho sabo. Wayengubani lo mmemezeli ongantengantengi?",
+  "clues": [
+    "Ngathunyelwa kubantu ababephambukile endleleni kaNkulunkulu Oyedwa Weqiniso.",
+    "Ngabuza abantu bakithi, \"Aniyikwesaba yini u-Allah?\"",
+    "Ngabatshela ukuthi bayeke ukukhonza unkulunkulu wamanga ogama lakhe linguBali.",
+    "Abantu bami benqaba ubizo lwami futhi baqhubeka nokukhonza izithombe zabo.",
+    "Ngenxa yokuphika kwabo, ngokuqinisekile bazolethwa ukuze bajeziswe.",
+    "INkosi yami yanginika ukuthula kanye nesikhumbuzo esibusisekile phakathi kwezizukulwane ezizayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Ilyas",
+        "Umprofethi uYahya",
+        "Umprofethi uDhul-Kifl",
+        "Umprofethi uYusuf",
+        "Umprofethi uShu'ayb"
+      ],
+      "answer": "Umprofethi u-Ilyas"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wabiza abantu bakhe ukuba bashiye uBali",
+        "Wakha umkhumbi ukuze asindise amakholwa",
+        "Waphonswa emlilweni",
+        "Wabaleka kuFaro owayeyisiqhwaga",
+        "Washaya idwala ukuze kuphume amanzi"
+      ],
+      "answer": "Wabiza abantu bakhe ukuba bashiye uBali"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "UBhali",
+        "I-Al-Lat",
+        "U-Al-Uzza",
+        "I-Manat",
+        "I-Hubal"
+      ],
+      "answer": "UBhali"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukuthula nokukhumbula okuhle",
+        "Kugwinywe umhlaba",
+        "Kubhujiswe yisiphepho esinamandla",
+        "Kuphenduke itshe",
+        "Ukuminza olwandle"
+      ],
+      "answer": "Ukuthula nokukhumbula okuhle"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

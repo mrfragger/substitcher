@@ -1,0 +1,61 @@
+{
+  "title": "El Veloz Portador del Trono",
+  "intro": "En la corte de un poderoso gobernante, se formuló una exigencia imposible, y muchos compitieron por demostrar su valía. Sin embargo, la tarea solo podía ser cumplida por aquel cuya conexión con el conocimiento divino superaba toda destreza física, revelando un momento que resonaría a través de los siglos.",
+  "clues": [
+    "Estuve al servicio de un gran rey que también era profeta, y formé parte de su círculo más cercano.",
+    "Yo no era una criatura de fuego ni un ser de gran fuerza física, pero poseía algo mucho más poderoso.",
+    "Cuando el rey pidió que le trajeran un trono de una tierra lejana, supe exactamente qué hacer.",
+    "Hablé del conocimiento que tenía del Libro, y antes de que nadie pudiera reaccionar, el trono fue colocado ante el rey.",
+    "Mi acción no fue fruto de mi propio poder, sino una demostración de que el verdadero conocimiento proviene únicamente de Alá.",
+    "Yo soy quien trajo el trono de la Reina de Saba en un abrir y cerrar de ojos, como se registra en la Sura An-Naml."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El que tenía conocimiento del Libro",
+        "El poderoso genio Ifrit",
+        "La abubilla de Sulayman",
+        "Profeta Sulayman",
+        "La reina de Saba"
+      ],
+      "answer": "El que tenía conocimiento del Libro"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Trayendo el trono de la Reina de Saba en un abrir y cerrar de ojos.",
+        "La división del Mar Rojo para los israelitas",
+        "Construyendo la Kaaba con su hijo",
+        "Sobreviviendo al horno de fuego",
+        "Ser rescatado del vientre de la ballena"
+      ],
+      "answer": "Trayendo el trono de la Reina de Saba en un abrir y cerrar de ojos."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El trono de Bilqis",
+        "El personal de Musa",
+        "El Arca de Noé",
+        "El fuego de Namrud",
+        "La ballena de Yunus"
+      ],
+      "answer": "El trono de Bilqis"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "El trono apareció instantáneamente ante Sulayman como una prueba de gratitud.",
+        "La reina se convirtió inmediatamente al islam.",
+        "El genio fue encarcelado por fallar",
+        "Sulayman renunció a su reino.",
+        "El trono quedó hecho pedazos."
+      ],
+      "answer": "El trono apareció instantáneamente ante Sulayman como una prueba de gratitud."
+    }
+  },
+  "verseRef": "27:40",
+  "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌۭ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّۭ كَرِيمٌۭ",
+  "verse": "Said one who had knowledge from the Scripture, \"I will bring it to you before your glance returns to you.\" And when [Solomon] saw it placed before him, he said, \"This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous.\" (27:40)"
+}

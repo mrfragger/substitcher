@@ -1,0 +1,61 @@
+{
+  "title": "Tamm, mis purustas kuningriigi",
+  "intro": "Voolavate jõgede, kahe rohelise aia ja võrratu õitsengu maa – kuid selle elanikud ei hoolinud sellest, kes neid õnnistas. Kui meeldetuletused neid tagasi kutsusid, pöördusid nad selja. Sellele järgnes karistus, mis siiani hoiatusena kajab. Kes oli see iidne kogukond?",
+  "clues": [
+    "Me elasime nii õnnistatud maal, et meie kodu asus kahe rohelise aia vahel.",
+    "Nautisime meie maadel voolavaid jõgesid ja meie kodusid täitvat rikkalikku saaki.",
+    "Ometi, kui meid kutsuti üles olema tänulikud ja kuulekad oma Issandale, pöördusime uhkuses selja.",
+    "Meie rikkus ja heaolu panid meid unustama Tema, kes oli meile kõik andnud.",
+    "Siis tuli äkiline juga, mis murdis läbi suure barjääri, millele olime toetunud.",
+    "Me oleme Saba rahvas, kelle maa oli tuntud suure Ma'ribi tammi poolest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Saba rahvas",
+        "Kaeviku inimesed",
+        "Kaevu kaaslased",
+        "Tubba rahvas",
+        "Midjani rahvas"
+      ],
+      "answer": "Saba rahvas"
+    },
+    "trial": {
+      "label": "Meie langus",
+      "options": [
+        "Üleujutus lõhkenud tammist",
+        "Taevast puhub äge tuul",
+        "Põlemine tulekraavis",
+        "Tohutu maavärin",
+        "Uppumine suures üleujutuses"
+      ],
+      "answer": "Üleujutus lõhkenud tammist"
+    },
+    "location": {
+      "label": "Võtme asukoht",
+      "options": [
+        "Ma'ribi tamm",
+        "Siinai mägi",
+        "Seitsme magaja koobas",
+        "Põlev põõsas",
+        "Mere lõhenemine"
+      ],
+      "answer": "Ma'ribi tamm"
+    },
+    "outcome": {
+      "label": "Meie saatus",
+      "options": [
+        "Kaks kibedat aeda asendasid meie lopsakaid",
+        "Meie aiad muutusid veelgi lopsakamaks",
+        "Maa vajus mere alla",
+        "Meid maeti vulkaanilise tuha alla",
+        "Meie rahvas jagunes kaheteistkümneks hõimuks"
+      ],
+      "answer": "Kaks kibedat aeda asendasid meie lopsakaid"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

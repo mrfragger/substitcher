@@ -1,0 +1,61 @@
+{
+  "title": "Pierwsza krew przelana z zazdrości",
+  "intro": "Wyobraź sobie początki ludzkości, kiedy cały świat był jedną rodziną. Widzisz, jak dwie ofiary są składane przed Allahem – jedna przyjęta, druga odrzucona. Zazdrość zakorzenia się w sercu, a groźba szepcze w gniewie. To, co nastąpi, pozostawi ślad w historii na zawsze, a nawet mały ptak stanie się nauczycielem.",
+  "clues": [
+    "Należę do pierwszej rodziny na Ziemi.",
+    "Złożyłem ofiarę Allahowi, lecz moja ofiara nie została przyjęta, podczas gdy inna ofiara owszem.",
+    "Wypowiedziałam te słowa z zazdrością i zagroziłam, że odbiorę komuś życie.",
+    "Dopuściłem się pierwszego niesprawiedliwego zabójstwa na Ziemi.",
+    "Zobaczyłem wronę drapiącą ziemię, która chciała mi pokazać, jak ukryć ciało.",
+    "Pozostało mi wiele żalu i zostałem jednym z przegranych w sprawie tego, co zrobiły moje ręce."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Kabil (Kain), syn Adama",
+        "Samiri, twórca cielęcia",
+        "Namrud, tyran, który spierał się z Ibrahimem",
+        "Azar, twórca bożków",
+        "Kanan, utopiony syn Noego"
+      ],
+      "answer": "Kabil (Kain), syn Adama"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Morderstwo rodzeństwa z zazdrości po odrzuceniu oferty",
+        "Zbudowanie wysokiej wieży, aby patrzeć w niebo",
+        "Tworzenie złotego cielca do kultu",
+        "Żądanie stołu nakrytego z nieba",
+        "Prowadzenie armii słoni w celu zniszczenia Kaaby"
+      ],
+      "answer": "Morderstwo rodzeństwa z zazdrości po odrzuceniu oferty"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Kruk drapie ziemię, aby pokazać miejsce pochówku",
+        "Złoty cielec, który ryczał",
+        "Wielka arka na wodach potopu",
+        "Laska, która stała się wężem",
+        "Stół zastawiony jedzeniem z nieba"
+      ],
+      "answer": "Kruk drapie ziemię, aby pokazać miejsce pochówku"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Stał się żałosny i należał do przegranych",
+        "Utonął w wielkiej powodzi",
+        "Został pochłonięty przez ziemię wraz ze skarbem",
+        "Przez siedem lat cierpiał na trąd",
+        "Otrzymał królestwo z kontrolą nad wiatrami"
+      ],
+      "answer": "Stał się żałosny i należał do przegranych"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

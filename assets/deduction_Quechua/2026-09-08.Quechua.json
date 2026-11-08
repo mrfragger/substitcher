@@ -1,0 +1,61 @@
+{
+  "title": "Sagrado Llamamanta Prueba",
+  "intro": "Ñawpa tiempopi, maypichus sapa wasipi tallasqa rumiman sunquchakuy saphichakusqa, juk runa sapan sayarirqa. Mana kuyuriq convencikuywan, Diospa amachayninwan ima, seguro wañuywan tuparqanku — hinaspa mana k’irisqa purirqanku. ¿Atiwaqchu reparayta kay admirakuypaq alma imayna kasqanmanta?",
+  "clues": [
+    "Paykuna ukhupin wiñarqani, paykunan makinkuwan tallasqanku idolokunaman k’umuykukuqku, creespanku chay imakuna Diospa atiyninta hap’isqankuta.",
+    "Creesqankuta impugnaqtiymi qallariypiqa qarqowarqanku, ichaqa manan ch’inlla kayta atirqanichu yachasqay cheqaq kaqta.",
+    "Huñusqa kasqanku p’unchaypin idolonkuta thunirqani, aswan hatun idolollanta mana llamiykuspa saqerqani.",
+    "Kutimuspa ruwasqayta rikuspa, umalliqninkuna kamachirqanku hatun pirata ruwanankupaq, nina rawrayman wikch’uwayta munaspa.",
+    "Nina rawraq ninamanmi wikch’uykuwarqanku, ichaqa kay pachakunaq Señorninmi kamachirqan q’oñi, mana imamanta manchakuspa ñoqapaq kananpaq.",
+    "Nina rawraymantaqa mana ima k’irisqallan lloqsimurqani, contraypi yuyaykuqkunapas sinchi thunisqañan kasharqanku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Ibrahim sutiyuq runa",
+        "Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Isa",
+        "Profeta Yusuf sutiyuq runa"
+      ],
+      "answer": "Profeta Ibrahim sutiyuq runa"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Nina rawraq ninaman wikch’usqa kay",
+        "Hatun ballenawan millp’usqa kay",
+        "Hatun unu hunt’aymanta kawsaspa",
+        "Ukhu pukyuman wikch’usqa kay",
+        "Huk reypa layqankunawan tupaspa"
+      ],
+      "answer": "Nina rawraq ninaman wikch’usqa kay"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Ruphaq k’aspimanta hatun pira",
+        "Hatun k’aspimanta arca",
+        "Qurimanta torillo estatua",
+        "Mayu patapi unupi puriq canasta",
+        "Huk sumaq kamachikuy tiyana"
+      ],
+      "answer": "Ruphaq k’aspimanta hatun pira"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Allah ninata q’uñi, mana imamanta manchachikuqta ruwarqa",
+        "Arcaqa allinllam huk orqoman chayarurqa",
+        "Chay qori idoloqa ñawinkupa ñawpaqenpi chullururqa",
+        "Huk tirano ejercitonwan lamar-qochapi unupi chinkaykurqanku",
+        "Huk ñawsa runapa rikusqanmi allinyarurqa"
+      ],
+      "answer": "Allah ninata q’uñi, mana imamanta manchachikuqta ruwarqa"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

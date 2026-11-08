@@ -1,0 +1,61 @@
+{
+  "title": "Te Hae i Whakangaro",
+  "intro": "He kōrero tawhito atu i tētahi kingitanga, i tētahi karaipiture rānei—ko te aituā tuatahi o te tangata i whānau mai i te hae. Kotahi te wairua, te tuakana o ngā tamariki tokorua i whānau mai i ngā mātua tuatahi, i mātakitaki me te riri i te whiwhinga o tētahi teina i te manaakitanga i whakakahoretia. Ko te mea i whai ake ko ngā kōwhiringa pōuri rawa atu, i mahue iho ko te toto tuatahi i ringihia ki te whenua. Ka taea e koe te hura i te tuakiri, te whakamātautau, me te pouri nui?",
+  "clues": [
+    "I whānau mai ahau i te tokorua tangata tuatahi ki te hikoi i te whenua.",
+    "I tukua e au he whakahere ki a Allah i mua, engari kāore i manakohia e au.",
+    "I whakaaetia te whakahere a tōku tuakana, teina rānei, ko tāku ia i whakakahoretia—he mea kāore i taea e au te whakamanawanui.",
+    "I whakawehi ahau i tōku ake tuakana ki te whakangaromanga.",
+    "Ko au te tuatahi ki te kohuru i runga i tēnei ao, me te tango i te ora o tōku teina, teina rānei.",
+    "I tonoa mai e Atua tētahi mea hanga o te whenua—he manu mangu e keri ana i te whenua—hei whakaako i ahau ki te huna i taku i mea ai, ā, ko te pouri anake i mahue mai ki ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Qabil (Kaina)",
+        "Hāpiri (Āpera)",
+        "Poropiti a Hākupa",
+        "Poropiti a Mohi",
+        "Poropiti Arama"
+      ],
+      "answer": "Qabil (Kaina)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakahere i whakakahoretia e Allah",
+        "I maka ki roto i te ahi nui",
+        "I whakarērea i te wā e pēpi ana i roto i te awa",
+        "I whakamatautauria ki tētahi rangatiratanga nui whakaharahara",
+        "I whakahaua kia patua tana tama"
+      ],
+      "answer": "Te whakahere i whakakahoretia e Allah"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te rākau i tonoa mai e Allah",
+        "Te kuao kau koura",
+        "Te āaka i runga i te maunga",
+        "Te rakau e mura ana",
+        "Te kamera uha i whakairohia mai i te toka"
+      ],
+      "answer": "Te rākau i tonoa mai e Allah"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I kī tonu i te pouri, ā, i roto i te hunga i hinga",
+        "Horomia ki te whenua me ngā taonga",
+        "I riro hei karere rangatira a Allah",
+        "I tomo ki Pararaiha nā te aroha o te Atua",
+        "I whakahaere i tētahi kingitanga kāore i rite"
+      ],
+      "answer": "I kī tonu i te pouri, ā, i roto i te hunga i hinga"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

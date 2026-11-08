@@ -1,0 +1,61 @@
+{
+  "title": "Penafian Di Tengah-tengah Kelimpahan",
+  "intro": "Anda mendapati diri anda berada di antara suatu kaum yang pasarnya sibuk dengan perdagangan, namun neraca mereka tidak jujur. Seorang utusan telah datang kepada mereka dengan amaran yang jelas, tetapi mereka ketawa dan berpaling, yakin dengan kemakmuran mereka. Langit mula gelap, tetapi mereka melihatnya sebagai rahmat hujan. Siapakah orang-orang ini?",
+  "clues": [
+    "Kami berkembang maju di tanah perdagangan dan kelimpahan, namun hati kami menjadi tidak berperasaan.",
+    "Seorang rasul telah datang kepada kami dengan membawa ayat-ayat dari Tuhan kami, tetapi kami memperolok-olokkan amaran-amarannya.",
+    "Kami terkenal dengan perdagangan kami, tetapi kami memberi sukatan yang sedikit dan menipu rakyat.",
+    "Kami tinggal di antara pokok-pokok yang lebat dan tumbuh-tumbuhan yang subur, tetapi kami menganggap remeh nikmat yang kami terima.",
+    "Apabila awan gelap datang, kami bersukacita, kerana menyangka ia akan menurunkan hujan ke tanah kami yang gersang.",
+    "Sebaliknya, awan itu melepaskan hukuman yang membakar, dan kita dicengkam oleh seksaan hari bayangan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Ashab al-Aykah (Penghuni Hutan)",
+        "Kaum Tsamud",
+        "Kaum 'Ad",
+        "Kaum Luth",
+        "Kaum Nabi Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Penghuni Hutan)"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Mereka mendustakan utusan mereka dan menipu dalam perdagangan",
+        "Mereka menyembah anak lembu emas dan disesatkan",
+        "Mereka melakukan liwat dan menyerang pengembara",
+        "Mereka membina menara-menara tinggi dan mencabar Tuhan",
+        "Mereka enggan berkongsi air dan menyakiti seekor unta betina"
+      ],
+      "answer": "Mereka mendustakan utusan mereka dan menipu dalam perdagangan"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Hutan atau semak samun yang padat",
+        "Sebuah gunung yang diukir menjadi tempat tinggal",
+        "Sebuah bandar di tepi laut",
+        "Lembah gurun dengan perigi",
+        "Kebun yang subur dengan banyak buah-buahan"
+      ],
+      "answer": "Hutan atau semak samun yang padat"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dimusnahkan oleh awan api yang bayang-bayang",
+        "Tenggelam akibat banjir besar",
+        "Ditelan gempa bumi",
+        "Dipukul angin kencang",
+        "Berubah menjadi batu"
+      ],
+      "answer": "Dimusnahkan oleh awan api yang bayang-bayang"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

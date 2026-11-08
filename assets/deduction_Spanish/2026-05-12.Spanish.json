@@ -1,0 +1,61 @@
+{
+  "title": "La autoridad inquebrantable",
+  "intro": "En tierras ancestrales, una poderosa autoridad gobernaba, controlando inmensos recursos y la vida de innumerables personas. A pesar de las claras señales y advertencias, este gobernante optó por la rebeldía, lo que desencadenó una profunda confrontación cuyas repercusiones perdurarían a través del tiempo.",
+  "clues": [
+    "Reclamé el poder y la autoridad absolutos sobre un vasto dominio.",
+    "Desafié a un humilde mensajero enviado por el Señor de todos los reinos.",
+    "Mi pueblo era conocido por su maestría en la construcción de grandes estructuras y por el río que sustentaba nuestra civilización.",
+    "Fui testigo de muchas señales milagrosas, entre ellas un bastón que se transformó en serpiente y una mano que resplandeció intensamente.",
+    "Me negué a dejar que un grupo de personas esclavizadas abandonara mi tierra, a pesar de los mandatos divinos.",
+    "Mi persecución de la gente que partía me llevó, junto con mis ejércitos, al corazón de un mar dividido."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Yusuf",
+        "Rey Talut",
+        "Fir'awn (Faraón)",
+        "Profeta Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraón)"
+    },
+    "trial": {
+      "label": "Confrontación clave",
+      "options": [
+        "La inundación que asoló la tierra",
+        "La división del mar",
+        "La zarza ardiente",
+        "La construcción de la Kaaba",
+        "La destrucción causada por un viento poderoso"
+      ],
+      "answer": "La división del mar"
+    },
+    "location": {
+      "label": "Aspecto definitorio",
+      "options": [
+        "Un animal que habla",
+        "Un bastón y una mano resplandeciente",
+        "Un nacimiento milagroso",
+        "Una alfombra voladora",
+        "Un majestuoso trono sobre el agua."
+      ],
+      "answer": "Un bastón y una mano resplandeciente"
+    },
+    "outcome": {
+      "label": "Destino final",
+      "options": [
+        "Ascendió a los cielos",
+        "Engullido por la tierra",
+        "Ahogado en el mar",
+        "Transformado en un simio",
+        "Dada la inmensa riqueza y el poder"
+      ],
+      "answer": "Ahogado en el mar"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

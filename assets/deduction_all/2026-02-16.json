@@ -1,0 +1,61 @@
+{
+  "title": "The Claim of Absolute Authority",
+  "intro": "In ancient times, a powerful individual rose to dominion over a vast land and its inhabitants. This figure's reign was marked by immense pride and a profound challenge to divine authority. Prepare to uncover the identity of a soul whose ultimate fate became a lasting lesson for all generations.",
+  "clues": [
+    "I held sway over a mighty empire, where my word was law.",
+    "I declared myself the supreme deity, demanding worship from all under my rule.",
+    "I oppressed a specific community, enslaving them and ordering the killing of their infant males.",
+    "I was repeatedly confronted by a humble messenger of God, who performed clear miracles before me and my magicians.",
+    "I stubbornly rejected the truth, accusing the messenger of sorcery and plotting to destroy him and his followers.",
+    "My entire army and I were engulfed by the sea as we relentlessly pursued those who had been freed from my grasp."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Haman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The Great Flood",
+        "The Burning Fire",
+        "The Drowning of the Oppressor",
+        "The Destruction by Wind",
+        "The Earthquake of Disbelief"
+      ],
+      "answer": "The Drowning of the Oppressor"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The Ark of Noah",
+        "The Staff of Moses",
+        "The Golden Idol",
+        "The Well of Zamzam",
+        "The Throne of Bilqis"
+      ],
+      "answer": "The Staff of Moses"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Granted a vast kingdom",
+        "Body preserved as a sign",
+        "Forgiven after repentance",
+        "Elevated to prophethood",
+        "His people became pious"
+      ],
+      "answer": "Body preserved as a sign"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

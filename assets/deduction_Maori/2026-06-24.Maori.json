@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaitiaki o te Mura e kore e tineia",
+  "intro": "Kei te paepae o te wāhi tino wehingia i te ao ngaro tētahi āhua, kua tukua ki a ia tētahi mahi kāore i hiahiatia e tētahi atu. Ina karanga ngā wairua mamae mō te aroha, ka rangona he whakautu pakari i roto i ngā rūma ahi. Ka taea e koe te hura i te tuakiri o tēnei kaitiaki mutunga kore?",
+  "clues": [
+    "E tū ana ahau i te tomokanga o tētahi wāhi whiu whakamataku, i te wāhi e kore e kitea.",
+    "He ahi e mura ana, e kore e tineia, te kaupapa matua o taku mahi tapu.",
+    "E karanga ana ngā wairua mamae ki tōku ingoa, e inoi ana kia whakaorangia rātou i tō rātou whakamamae mutunga kore.",
+    "Ina inoi rātou, ka kī atu ahau e kore rātou e haere atu, ake tonu atu.",
+    "Ehara ahau i te tangata, ehara hoki i te jinn — he mea hanga ahau me te ngohengohe parakore.",
+    "Ko ahau te anahera matua kua whakaritea hei kaitiaki mutunga kore o te Ahi Reinga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Mārika",
+        "Jibreel",
+        "Mikaere",
+        "Harut",
+        "Māruti"
+      ],
+      "answer": "Mārika"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "E inoi ana te iwi o te reinga kia mutu tō rātou whakamamae",
+        "Ka whakatangihia te tetere hei tohu mō te Rā Whakawa",
+        "Kua whakakitea te Quran ki te ngākau o te Poropiti",
+        "Ka makaia tētahi Poropiti ki roto i te ahi nui e tōna iwi",
+        "Ka hangaia he taiepa kaha hei pupuri i tētahi iwi pirau"
+      ],
+      "answer": "E inoi ana te iwi o te reinga kia mutu tō rātou whakamamae"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Ahi o te Reinga (Jahannam)",
+        "Te Rākau Lote i te rohe o Pararaiha",
+        "He tetere e pupuhi ana",
+        "He tokotoko e huri ana hei nakahi",
+        "He torona atua whakahīhī"
+      ],
+      "answer": "Te Ahi o te Reinga (Jahannam)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "E kīia ana ki ngā tāngata o te Reinga ka noho tonu rātou ake ake",
+        "Ka murua te hara o te hunga e noho ana i te reinga, ā, ka tukuna",
+        "Ka tukuna he whai wāhitanga tuarua ki te hunga e noho ana i te reinga ki te whakapono",
+        "Ka nekehia ngā tāngata o te reinga ki te wāhi matao",
+        "Ka whakangaromia rawatia ngā tāngata o te Reinga e te whatitiri"
+      ],
+      "answer": "E kīia ana ki ngā tāngata o te Reinga ka noho tonu rātou ake ake"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

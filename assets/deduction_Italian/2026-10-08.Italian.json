@@ -1,0 +1,61 @@
+{
+  "title": "Gli scalpellini dell'antica valle",
+  "intro": "Immaginate una civiltà sorta nelle valli rocciose dell'Arabia, abile nello scolpire magnifiche dimore nelle pareti rocciose delle montagne. Fiorirono grazie alla forza e all'abilità artistica, eppure la loro storia è segnata da una agghiacciante sfida agli avvertimenti divini. Addentrandovi nella loro vicenda, scoprirete un popolo la cui arroganza condusse alla completa annientamento. Chi erano?",
+  "clues": [
+    "Abbiamo ereditato una terra di pianure rocciose e scogliere imponenti, dove abbiamo costruito le nostre abitazioni con un'abilità senza pari.",
+    "Eravamo noti per aver scavato case sicure tra le montagne, sentendoci al sicuro da qualsiasi pericolo.",
+    "Un messaggero è giunto a noi dallo stesso gruppo, ricordandoci i favori di Allah e avvertendoci del castigo.",
+    "Abbiamo chiesto un segno, e una cammella miracolosa è emersa dalla roccia, una chiara prova da parte di Allah.",
+    "Abbiamo ignorato l'avvertimento e abbiamo legato la cammella, deridendo il messaggero e sfidando la punizione.",
+    "Un'unica esplosione ci ha investiti nelle nostre case e al mattino giacevamo prostrati, come se non ci avessimo mai vissuto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Popolo di Thamud",
+        "Persone di 'Ad",
+        "Popolo di Madyan",
+        "Popolo di Nuh",
+        "Popolo di Lutero"
+      ],
+      "answer": "Popolo di Thamud"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ha immobilizzato la cammella",
+        "Ha violato il sabato",
+        "Adoravano il vitello d'oro",
+        "Uccisero il profeta inviato loro",
+        "Ho costruito una torre per raggiungere il cielo"
+      ],
+      "answer": "Ha immobilizzato la cammella"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La cammella",
+        "L'Arca",
+        "Lo staff",
+        "La mano bianca",
+        "La manna e le quaglie"
+      ],
+      "answer": "La cammella"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Distrutto da un'esplosione",
+        "Salvato dalla distruzione",
+        "Trasformati in scimmie",
+        "Annegato in mare",
+        "Inghiottito dalla terra"
+      ],
+      "answer": "Distrutto da un'esplosione"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

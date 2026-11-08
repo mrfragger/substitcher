@@ -1,0 +1,61 @@
+{
+  "title": "Osvajalec med dvema obzorjema",
+  "intro": "V analih božanskega vodstva izstopa ena osebnost kot mogočen vladar in ponižen Alahov služabnik. Ta posameznik je odpotoval v najoddaljenejše konce sveta in bil priča sončnemu vzhodu nad nenavadnim ljudstvom in njegovemu zahodu v črnem, motnem izviru. Najbolj presenetljivo je, da je bil ta služabnik zadolžen za izgradnjo izjemne pregrade pred narodom, ki je bil poln hudobije. Ali lahko prepoznate to legendarno osebnost iz Korana?",
+  "clues": [
+    "Najusmiljeniji mi je podelil moč in vpliv na zemlji",
+    "Potoval sem tja, kjer sonce vzhaja in kjer zahaja",
+    "Dosegel sem ljudi, ki so komaj razumeli besedo",
+    "Ukazano mi je bilo, naj zgradim ogromno pregrado iz železa",
+    "Prostor med dvema strmima gorama sem zaprl s staljeno kovino",
+    "Nisem bil ne angel ne prerok, ampak služabnik, ki mu je Alah izkazal naklonjenost."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Zhu al-Qarnayn (Tisti z dvema rogovoma)",
+        "Kralj Sulejman (Salomon)",
+        "Prerok Zul-Kifl",
+        "Zhu al-Nun (Ribji spremljevalec)",
+        "Angel pregrade"
+      ],
+      "answer": "Zhu al-Qarnayn (Tisti z dvema rogovoma)"
+    },
+    "trial": {
+      "label": "Velika naloga",
+      "options": [
+        "Gradnja stolpa do neba",
+        "Gradnja ogromne železne pregrade proti Yajujuju in Majuju",
+        "Ustvarjanje zlatega prestola za sodbo",
+        "Kopanje globokega vodnjaka za pravične",
+        "Gradnja ladje med veliko poplavo"
+      ],
+      "answer": "Gradnja ogromne železne pregrade proti Yajujuju in Majuju"
+    },
+    "location": {
+      "label": "Okolje",
+      "options": [
+        "Dežela Uzair med dvema rekama",
+        "Kraj sončnega vzhoda in črnega blatnega izvira",
+        "Sveta dolina Meke",
+        "Madjanska puščava",
+        "Otok Ciper"
+      ],
+      "answer": "Kraj sončnega vzhoda in črnega blatnega izvira"
+    },
+    "outcome": {
+      "label": "Božja obljuba",
+      "options": [
+        "Večni raj podeljen takoj",
+        "Narod je uničil vroč veter",
+        "Pregrada bo trajala do sodnega dne",
+        "Osvoboditev pred smrtjo za vse vernike",
+        "Večno kraljestvo brez konca"
+      ],
+      "answer": "Pregrada bo trajala do sodnega dne"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

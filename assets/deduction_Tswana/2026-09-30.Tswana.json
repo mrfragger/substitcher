@@ -1,0 +1,61 @@
+{
+  "title": "Molwetse",
+  "intro": "Bogologolo tala, mo metlheng ya ntlhantlha ya hisitori ya motho, meya e mebedi e ne e eme fa pele ga Mmopi wa yone e tshwere ditshupelo. E nngwe e ne ya amogelwa, e nngwe ya se ka ya amogelwa. Se se neng sa latela se ne se tla nna masetlapelo a ntlha a magolo fa gare ga bana ba motho - tiro e le nngwe ya go ikgapa ka bopelotelele le tiro e le nngwe ya go ipusolosetsa ka tsela e e botlhoko. A o ka ribolola gore ke mang?",
+  "clues": [
+    "Ke tshotswe mo malatsing a ntlha fela a botshelo jwa motho mo lefatsheng",
+    "Ke ne ke le ngwana wa para ya ntlha ya batho ba ba kileng ba tsamaya mo lefatsheng leno",
+    "Ke kile ka ntsha setlhabelo sa letsomane la me le le gaisang go itumedisa Mmopi wa me .",
+    "Tshupelo ya me e ne ya amogelwa go tswa kwa godimo, fa tshupelo ya ga ngwanake yone e ne ya ganwa .",
+    "Fa ke ne ke tshosediwa ka loso, ke ne ka tlhopha gore ke se ka ka tsholetsa letsogo la me kgatlhanong le ngwanake .",
+    "Ke ne ka nna motho wa ntlha mo hisitoring yotlhe ya batho go bolawa ke motho yo mongwe ka phoso"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Habile (Abele), morwa Adame",
+        "Qabile (Kaine), morwa Adame",
+        "Adame, motho wa ntlha",
+        "Nuh (Noa)",
+        "Aborahame (Aborahame)"
+      ],
+      "answer": "Habile (Abele), morwa Adame"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Polao ya ntlha mo hisitoring ya batho",
+        "Morwalela o mogolo wa Nuh .",
+        "Go senngwa ga mophato wa ga Fir'awn",
+        "Setlhabelo sa ga Ismail ke Ibrahim",
+        "Ntwa kgatlhanong le Jalut (Goliathe)"
+      ],
+      "answer": "Polao ya ntlha mo hisitoring ya batho"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Nku e e neng e ntshiwa jaaka setlhabelo se se itumedisang",
+        "Areka e kgolo ya logong",
+        "Lore lo lo neng lwa fetoga noga",
+        "Nonyane ya hoopoe e tshotse molaetsa wa segosi",
+        "Mosele o o tukang wa molelo"
+      ],
+      "answer": "Nku e e neng e ntshiwa jaaka setlhabelo se se itumedisang"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E nnile motswasetlhabelo wa ntlha wa polao mo hisitoring ya batho",
+        "O falotse morwalela o mogolo mo teng ga sejana sa logong",
+        "E ne e nna mo teng ga mpa ya tlhapi e kgolo",
+        "O ne a busa di- jinn, batho le phefo .",
+        "A kgarakgatshega dingwaga di le masome a mane mo sekakeng se segolo"
+      ],
+      "answer": "E nnile motswasetlhabelo wa ntlha wa polao mo hisitoring ya batho"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

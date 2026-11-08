@@ -1,0 +1,61 @@
+{
+  "title": "Patiens Indubitabilis Unus",
+  "intro": "In annalibus historiae propheticae, pauci tantam iacturam et afflictionem corporis fide inconcussa pertulerunt. Historia huius personae est aeterna lectio de patientia et fiducia in sapientiam divinam. Quis est haec anima?",
+  "clues": [
+    "Ab Allah electus sum ad nuntium tradendum, sed maxima mea probatio non per reiectionem, sed per calamitatem personalem venit.",
+    "Divitiae meae, pecora mea, et liberi mei, unus post alterum, auferti sunt a me.",
+    "Corpus meum ulceribus tectum erat, et sola relicta sum praeter auxilium coniugis mei.",
+    "Ad Dominum meum clamavi, dolorem meum agnoscens et misericordiam eius petens.",
+    "Iussi sum terram pede ferire, et fons refrigerans profluxit.",
+    "Deus mihi salutem restituit et novam familiam mihi dedit et divitias etiam maiores quam antea habueram."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ayyub",
+        "Propheta Ibrahim",
+        "Propheta Musa",
+        "Propheta Isaias",
+        "Propheta Nuh"
+      ],
+      "answer": "Propheta Ayyub"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Iactura divitiarum et familiae",
+        "In ignem coniectus",
+        "A pisce deglutiri",
+        "Separati a familia et in servitutem venditi",
+        "Cum vitulo aureo tentatus"
+      ],
+      "answer": "Iactura divitiarum et familiae"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Fons aquae",
+        "Baculus qui in serpentem conversus est",
+        "Arca lignea",
+        "Vitulus liquefactus",
+        "Palma"
+      ],
+      "answer": "Fons aquae"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Restitutio familiae et divitiarum",
+        "Ascensio ad caelum",
+        "Rex fieri",
+        "Servatus a balaena",
+        "Filium in senectute accipiens"
+      ],
+      "answer": "Restitutio familiae et divitiarum"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Niezłomny Pacjent",
+  "intro": "W annałach historii proroctw niewielu zniosło tak głęboką stratę i cierpienie fizyczne z niezachwianą wiarą. Historia tej postaci to ponadczasowa lekcja cierpliwości i zaufania do boskiej mądrości. Kim jest ta dusza?",
+  "clues": [
+    "Zostałem wybrany przez Allaha, aby przekazać przesłanie, ale największą próbą nie było dla mnie odrzucenie, ale osobiste nieszczęście.",
+    "Mój majątek, mój dobytek i moje dzieci zostały mi odebrane jedno po drugim.",
+    "Moje ciało było pokryte wrzodami, a ja zostałem sam, z pomocą przychodził mi tylko mój małżonek.",
+    "Zawołałem do mojego Pana, uznając swoje cierpienie i prosząc o Jego miłosierdzie.",
+    "Kazano mi uderzyć stopą o ziemię, a wytrysnęło orzeźwiające źródło.",
+    "Bóg przywrócił mi zdrowie, dał nową rodzinę i jeszcze więcej bogactwa, niż miałem przedtem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Ajjub",
+        "Prorok Ibrahim",
+        "Prorok Musa",
+        "Prorok Isa",
+        "Prorok Noh"
+      ],
+      "answer": "Prorok Ajjub"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Utrata majątku i rodziny",
+        "Wrzucenie do ognia",
+        "Połknięcie przez rybę",
+        "Oddzielenie od rodziny i sprzedanie w niewolę",
+        "Poddanie się próbie złotego cielca"
+      ],
+      "answer": "Utrata majątku i rodziny"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Źródło wody",
+        "Laska, która zamieniła się w węża",
+        "Drewniana arka",
+        "Roztopiony cielę",
+        "Palma"
+      ],
+      "answer": "Źródło wody"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przywrócenie rodziny i bogactwa",
+        "Wniebowstąpienie",
+        "Zostanie królem",
+        "Uratowanie się przed wielorybem",
+        "Przyjęcie syna w podeszłym wieku"
+      ],
+      "answer": "Przywrócenie rodziny i bogactwa"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

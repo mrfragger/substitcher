@@ -1,0 +1,60 @@
+{
+  "title": "San vjekova",
+  "intro": "Spremate se krenuti na putovanje kroz vrijeme, susrećući se s dubokom misterijom vjere i božanske moći. Zamislite skupinu pojedinaca koji su prkosili normama svog društva, držeći se monoteizma u svijetu politeizma. Njihova priča svjedoči o Allahovoj sposobnosti da zaštiti svoje pravedne sluge na najneobičnije načine. Možete li otkriti identitet ovih izvanrednih ličnosti?",
+  "clues": [
+    "Bili smo mala skupina mladića koji su vjerovali u jednog Boga, unatoč raširenom politeizmu našeg naroda.",
+    "Pobjegli smo od tiranskog vladara koji nam je prijetio zbog naše vjere, bojeći se progona i smrti.",
+    "Potražili smo utočište na osamljenom mjestu, nadajući se Allahovoj milosti i zaštiti od naših tlačitelja.",
+    "Naš Gospodin nas je uspavao dubokim snom, čudesnim snom koji je prkosio protoku vremena.",
+    "Kad smo se probudili, vjerovali smo da smo se odmorili samo jedan dan ili dio dana, nesvjesni golemog razdoblja koje je zapravo prošlo.",
+    "Kuran spominje da smo ostali u našem stanju tri stotine godina, a prekoračili smo ga za devet, postavši znak za ljude."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ljudi iz jarka",
+        "Narod Semuda",
+        "Ljudi iz pećine",
+        "Ljudi iz Madyana",
+        "Slonovi pratitelji"
+      ],
+      "answer": "Ljudi iz pećine"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Suočavanje s velikom poplavom",
+        "Biti progutan od zemlje",
+        "Dugi čudesni san",
+        "Uništenje njihovog grada",
+        "Cijepanje mora"
+      ],
+      "answer": "Dugi čudesni san"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Gorući grm",
+        "Planina",
+        "Brod",
+        "Špilja",
+        "Bunar"
+      ],
+      "answer": "Špilja"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dodijeljeno im je ogromno bogatstvo i moć",
+        "Pretvorili su se u majmune i svinje",
+        "Bili su probuđeni iz sna kao duboki znak",
+        "Utopili su se u velikoj poplavi",
+        "Izgradili su veličanstveno kraljevstvo"
+      ],
+      "answer": "Bili su probuđeni iz sna kao duboki znak"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

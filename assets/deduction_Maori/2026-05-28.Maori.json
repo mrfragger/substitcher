@@ -1,0 +1,61 @@
+{
+  "title": "Te Manawanui Tuturu",
+  "intro": "I roto i ngā pukapuka poropiti, he tokoiti noa iho te hunga i whakamanawanui i tēnei mate nui me te mamae tinana me te whakapono pumau. Ko te kōrero a tēnei tangata he akoranga mutunga kore mō te manawanui me te whakawhirinaki ki te whakaaro nui o te Atua. Ko wai tēnei wairua?",
+  "clues": [
+    "I whiriwhiria ahau e Allah ki te kawe i tētahi karere, engari ko te whakamātautau nui rawa atu i puta mai i te whakakorenga, engari i puta mai i te aituā whaiaro.",
+    "I tangohia aku taonga, aku kararehe, me aku tamariki, tetahi i muri i tetahi.",
+    "Kī tonu tōku tinana i ngā mate pukupuku, ā, i mahue iho ko au anake me te tautoko a taku hoa rangatira.",
+    "I karanga ahau ki tōku Ariki, me te whakaae ki tōku mamae, me te rapu i Tōna aroha.",
+    "I whakahaua ahau kia papaki i te whenua ki tōku waewae, ā, ka pupu mai he puna whakahauora.",
+    "I whakahokia mai e te Atua tōku hauora, i homai hoki he whānau hou ki ahau, me te taonga nui atu i tōku o mua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Ayyub",
+        "Poropiti Ihāperama",
+        "Poropiti a Mohi",
+        "Poropiti a Ihaia",
+        "Poropiti a Noa"
+      ],
+      "answer": "Poropiti a Ayyub"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te ngaronga o te taonga me te whānau",
+        "Te maka ki roto i te ahi",
+        "Te horomia e te ika",
+        "Te wehenga atu i te whānau, te hokonga atu hei pononga",
+        "Te whakamatautauria ki te kuao kau koura"
+      ],
+      "answer": "Te ngaronga o te taonga me te whānau"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He puna wai",
+        "He tokotoko i huri hei nakahi",
+        "He āaka rakau",
+        "He kuao kau whakarewa",
+        "He nikau"
+      ],
+      "answer": "He puna wai"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te whakahokinga mai o te whānau me te taonga",
+        "Te pikinga ki te rangi",
+        "Te noho hei kingi",
+        "Te whakaoranga mai i te tohorā",
+        "Te whiwhi i tētahi tama i te koroheketanga"
+      ],
+      "answer": "Te whakahokinga mai o te whānau me te taonga"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

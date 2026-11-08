@@ -1,0 +1,61 @@
+{
+  "title": "Waa Dëgg ñi ci Màkka",
+  "intro": "Bi ñuy sooga feeñ, bi ñuy xeex bu baax bataaxalu dëgg gi, amna ruuh yu baña xàddi ci seen ngëm. Gëm-gëm yooyu dañu jànkoonte ak fitna gu kenn mënul xalaat ci ñiy fexe fay leeralu ngëm. Seen metital mettiwoon na lool, seen tiis bariwoon na lool, waaye seen làmmiñ musul xàddi di wax ni Yàlla benn la. Bu ñu sànnee sax ci biir tiis wu metti, aar bu Yàlla wër leen, soppi seen fitna nekk seede ngëm budul jeex. Nanu jàngat tukkib ruuh yu yéeme yooyu.",
+  "clues": [
+    "Dañu nu natt ci ay yar yu metti ndax bëggu nu bàyyi sunu ngëm ci Jenn Yàlla ji .",
+    "Sunuy nit mënu ñu woon bañ sunu dogal, ak li seen fitna mëna doon",
+    "Bis bu nekk dañu nu tëjoon ci wetu benn buntu, waaye ndimbalu boroom bi daf nu doon jege saa yu nekk",
+    "Sunu dëgër yéem na sax ñi seedewoon sunu muñ",
+    "Ñu bari ci Makkah dañu nu bëggoon forse nu dellu ginaaw, waaye nu baña bàyyi",
+    "Biñu demee ba melni lépp réer, sunu moom sa bopp ñëwna ci kéemtaanu boroomam"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Bilal Habashi",
+        "Amar ben Yasiir",
+        "Miqdaad ben Aswad",
+        "Khabbab ibn al aratt",
+        "Salmaan al farsi"
+      ],
+      "answer": "Bilal Habashi"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Xare ak Yonent bi",
+        "Ñu ngi leen di sonal ndax dañu bañ jaamu xër",
+        "Natt ngëm ci wàllu lakk bu am",
+        "Jàngat ci tukkib guddi giñ xaaj",
+        "Natt yàqu-yàqu jardin bi"
+      ],
+      "answer": "Ñu ngi leen di sonal ndax dañu bañ jaamu xër"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Tundu Uhud",
+        "Kabah bu sell bi",
+        "Teenu Abu Sufyan",
+        "Palais du Quraysh",
+        "Dëkk bu Madinah"
+      ],
+      "answer": "Teenu Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ndam ci xare bu mag",
+        "Mucc ci ndimbalu Yàlla",
+        "Martyrdom ci yoonu Yallah",
+        "Nangu ci aljana directement",
+        "Tukki ci réew mu barkeel"
+      ],
+      "answer": "Mucc ci ndimbalu Yàlla"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Los Arquitèctes de Pèira",
+  "intro": "Imaginatz una civilizacion poderosa, dotada de fòrça e d'abiletat, en talhant de grandas abitacions dins de penjals de montanha. Aquel collectiu possedissiá una prosperitat immensa e una proesa arquitecturala unica. Pasmens, malgrat recebre d'avertiments clars, causiguèron un camin que menariá a una conclusion dramatica e inoblidabla. Podètz identificar aquel grop que son istòria servís de leiçon prigonda per totes los que reflexionan?",
+  "clues": [
+    "Nos foguèt balhada de fòrça e d'abiletat, çò que nos permetèt de talhar d'ostals magnifics dirèctament dins las montanhas.",
+    "Nos foguèt donat un signe clar d'Allah, una creatura unica que deviá èsser daissada sens destorbar per pastar.",
+    "Nòstra comunautat venguèt arroganta, en contestant lo messatge divin portat per un messatgièr d'entre nosautres.",
+    "Conspirèrem per far mal al signe miraculos, malgrat los avertiments de punicion severa.",
+    "Desfièrem lo comandament de daissar la creatura especiala beure de nòstre potz de jorns alternats.",
+    "Rescontrèrem una fin devastatritz, tustat per un sol esclat espaventós après nòstre acte de transgression."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Personas de 'Ad",
+        "Pòble de Madian",
+        "Gent de l'Elefant",
+        "Pòble de Thamud",
+        "Gent de Lut"
+      ],
+      "answer": "Pòble de Thamud"
+    },
+    "trial": {
+      "label": "Nòstre jutjament/eveniment màger",
+      "options": [
+        "L'inondacion qu'engulhèt la tèrra",
+        "La fendidura de la mar",
+        "La destruccion per un sol esclat/crit",
+        "La cremacion d'una vila",
+        "La transformacion d'una montanha en polvera"
+      ],
+      "answer": "La destruccion per un sol esclat/crit"
+    },
+    "location": {
+      "label": "Un element clau dins nòstra istòria",
+      "options": [
+        "Un vedèl d'aur",
+        "Una camèla miraculosa",
+        "Un arbust ardent",
+        "Un aucèl parlant",
+        "Un tròn majestuós"
+      ],
+      "answer": "Una camèla miraculosa"
+    },
+    "outcome": {
+      "label": "Nòstre resultat final",
+      "options": [
+        "Concedida una riquesa e un poder immenses",
+        "Elevat a la profecia",
+        "Aniquilacion totala per un castig divin",
+        "Perdonat après un repentiment sincèr",
+        "Escampilhats sus la tèrra per vagabondar"
+      ],
+      "answer": "Aniquilacion totala per un castig divin"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

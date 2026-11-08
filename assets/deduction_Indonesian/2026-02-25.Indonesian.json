@@ -1,0 +1,61 @@
+{
+  "title": "Ujian Batu Tandus",
+  "intro": "Sebuah komunitas, terampil dan bangga, mengukir warisan mereka di pegunungan itu sendiri. Tetapi ketika sebuah tanda yang jelas dikirim kepada mereka, sebuah ujian iman dan pengendalian diri, kesombongan mereka membawa mereka ke jalan tanpa kembali. Dapatkah Anda mengidentifikasi kelompok ini dan konsekuensi dari pembangkangan mereka?",
+  "clues": [
+    "Kami adalah ahli dalam mengolah batu, memahat tempat tinggal megah langsung ke lereng gunung.",
+    "Seorang utusan dari kalangan kita sendiri datang kepada kita, menyeru kita untuk menyembah Tuhan Yang Maha Esa.",
+    "Kami meminta bukti untuk membuktikan kata-katanya, dan makhluk unik dihadirkan sebagai ujian bagi kami.",
+    "Kami diberi perintah sederhana: untuk berbagi sumber air kami dengan makhluk ini, membiarkannya minum pada hari yang telah ditentukan.",
+    "Dalam kesombongan kami, beberapa di antara kami bersekongkol dan kami mengabaikan peringatan tersebut, menyerang makhluk yang seharusnya menjadi pertanda bagi kami.",
+    "Kami diberi waktu tiga hari sebelum malapetaka menimpa kami, dan kemudian ledakan dahsyat menghantam kami di rumah-rumah kami, membuat kami tak bernyawa dan berantakan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Orang-orang 'Ad",
+        "Penduduk Madyan",
+        "Orang-orang Tsamud",
+        "Penduduk Saba",
+        "Orang-orang Lut"
+      ],
+      "answer": "Orang-orang Tsamud"
+    },
+    "trial": {
+      "label": "Apa Ujian Utama Kami?",
+      "options": [
+        "Membangun bahtera untuk bertahan hidup dari banjir.",
+        "Menahan keinginan untuk memancing pada hari Sabat",
+        "Menghentikan praktik bisnis curang",
+        "Melindungi seekor unta betina yang ajaib",
+        "Menjalani kelaparan selama tujuh tahun"
+      ],
+      "answer": "Melindungi seekor unta betina yang ajaib"
+    },
+    "location": {
+      "label": "Apa Unsur Sentral dalam Kisah Kita?",
+      "options": [
+        "Anak Lembu Emas",
+        "Unta Betina",
+        "Tongkat Nabi Musa",
+        "Bendungan Besar Ma'rib",
+        "Hidangan dari Surga"
+      ],
+      "answer": "Unta Betina"
+    },
+    "outcome": {
+      "label": "Apa Nasib Akhir Kita?",
+      "options": [
+        "Tenggelam dalam banjir besar",
+        "Berubah menjadi kera dan babi",
+        "Diterjang angin yang dahsyat",
+        "Tercerai-berai akibat jebolnya bendungan.",
+        "Hancur akibat ledakan/gempa bumi yang dahsyat"
+      ],
+      "answer": "Hancur akibat ledakan/gempa bumi yang dahsyat"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

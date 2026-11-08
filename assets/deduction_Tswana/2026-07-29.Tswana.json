@@ -1,0 +1,61 @@
+{
+  "title": "Go Latelelwa ga Kgotlatshekelo",
+  "intro": "Mo diphasejeng tsa puso, motho wa maemo a a kwa godimo o ne a ratana le motlhanka yo bontle jwa gagwe bo neng bo le jwa lefatshe le lengwe. Go ratana gono go ne ga dira gore go nne le motseletsele wa ditiragalo tse di neng di tla leka boikanyegi, di senola boammaaruri jo bo fitlhegileng, mme kgabagare di tlhomamise gore motlhanka yono ga a na molato.",
+  "clues": [
+    "Ke ne ke nna mo lefatsheng la Nile, mo ntlong ya segosi e e nang le tlhotlheletso e kgolo.",
+    "Lekawana lengwe le ne la tsena mo ntlong ya me, mme go nna gone ga gagwe go ne ga dira gore lefatshe la me le se ka la ritibala.",
+    "Ke ne ka leka go mo raela, mme o ne a batla botshabelo mo Moreneng wa gagwe.",
+    "Ke ne ka gagola seaparo sa gagwe ka fa morago, mme bosupi bo ne bo supa tsietso ya me.",
+    "Go didimatsa tshebo ya basadi ba ba tlotlegang, ke ne ka ba laletsa kwa kokoanong nngwe mme ka ba tsenya dilo tse di bogale mo diatleng.",
+    "Kwa bokhutlong, ke ne ka ipolela molato wa me phatlalatsa, ka dumela boammaaruri fa pele ga kgosi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Mosadi wa ga Al-Aziz",
+        "Asiya (Mosadi wa ga Faro)",
+        "Bilqis (Kgosigadi ya Sheba)",
+        "Maryam (Mmaagwe Isa)",
+        "Mmaagwe Musa"
+      ],
+      "answer": "Mosadi wa ga Al-Aziz"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O ne a leka go hepisa Moporofeti Yusuf",
+        "O ne a leka go bolaya Moporofeti Musa",
+        "O ne a ipolela gore ke modimogadi",
+        "O ne a aga tora go gwetlha Allah",
+        "O ne a etelela pele mophato kgatlhanong le Makkah"
+      ],
+      "answer": "O ne a leka go hepisa Moporofeti Yusuf"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Hempe e e gagogileng go tswa kwa morago",
+        "Namane ya gauta",
+        "Lore lo lo neng lwa fetoga noga",
+        "Kamela e namagadi",
+        "Lebone"
+      ],
+      "answer": "Hempe e e gagogileng go tswa kwa morago"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O ne a ipolela mme a amogela boammaaruri",
+        "O ne a nwela le mophato wa gagwe",
+        "O ne a fetoga pilara ya letswai",
+        "O ne a mediwa ke lefatshe",
+        "O sentswe ke phefo e e goang"
+      ],
+      "answer": "O ne a ipolela mme a amogela boammaaruri"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

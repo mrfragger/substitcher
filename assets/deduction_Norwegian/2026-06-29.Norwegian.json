@@ -1,0 +1,61 @@
+{
+  "title": "Den tålmodige sjelen",
+  "intro": "I profetskapets annaler eksisterte det en sjel hvis tålmodighet var etset inn i selve vevet av deres vesen. Gjennom tårer og tid holdt de fast ved håpet og ble et tidløst eksempel på tillit til guddommelig visdom. Kan du løse mysteriet med denne urokkelige skikkelsen?",
+  "clues": [
+    "Jeg ble født inn i en familie av profeter, men min største prøve kom gjennom barnet jeg elsket mest.",
+    "Jeg fikk en advarsel om sjalusi fra en drøm sønnen min delte, og jeg fryktet for hans sikkerhet.",
+    "Øynene mine ble hvite av sorg, men jeg mistet aldri troen på Allahs nåde.",
+    "Lukten av mitt savnede barn nådde meg langveisfra, og jeg visste da at gjenforeningen var nær.",
+    "Familien min bøyde seg i takknemlighet da den gamle visjonen ble oppfylt, og synet mitt ble gjenopprettet.",
+    "Det var jeg som fikk en blodflekket skjorte, bare for senere å motta en skjorte som helbredet synet mitt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Ibrahim",
+        "Profeten Ishaq",
+        "Profeten Yaqub",
+        "Profeten Yusuf",
+        "Profeten Ayyub"
+      ],
+      "answer": "Profeten Yaqub"
+    },
+    "trial": {
+      "label": "Den avgjørende rettssaken",
+      "options": [
+        "Separasjon fra et elsket barn og tap av synet",
+        "Å bli kastet inn i en flammende ild",
+        "Å bli slukt av en stor fisk",
+        "Å tåle å miste rikdom, barn og helse",
+        "Blir forrådt av brødrene sine og kastet i en brønn"
+      ],
+      "answer": "Separasjon fra et elsket barn og tap av synet"
+    },
+    "location": {
+      "label": "Det symbolske objektet",
+      "options": [
+        "En skjorte som først skjulte sannheten, og så avslørte den",
+        "En stav som ble til en slange",
+        "En hval som svelget en profet",
+        "En ild som ble kjølig",
+        "Et par sandaler ved den brennende busken"
+      ],
+      "answer": "En skjorte som først skjulte sannheten, og så avslørte den"
+    },
+    "outcome": {
+      "label": "Den guddommelige resolusjonen",
+      "options": [
+        "Gjenforening med en mistet kjær og gjenoppretting av synet",
+        "Redning fra en nasjon av undertrykkelse",
+        "Befrielse fra fiskens buk",
+        "Redning fra en flammende ild",
+        "Oppstigning til en stor trone"
+      ],
+      "answer": "Gjenforening med en mistet kjær og gjenoppretting av synet"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bàn Tay Bị Nguyền Rủa",
+  "intro": "Bạn đang đứng giữa những con hẻm quanh co của thành phố Mecca cổ kính, nơi một người đầy quyền lực và giàu có từng quay lưng lại với tiếng gọi của chân lý. Câu chuyện về nhân vật này là lời nhắc nhở khắc nghiệt rằng huyết thống không thể vượt qua xiềng xích của lòng kiêu hãnh. Ai là người mà tên tuổi vang vọng cùng ngọn lửa đang chờ đợi?",
+  "clues": [
+    "Tôi rong ruổi trên đường phố Makkah với lòng kiêu hãnh che mờ lý trí, dù người đưa tin lại chính là người thân ruột thịt của tôi.",
+    "Tôi sở hữu rất nhiều tài sản, nhưng chúng lại trở thành lời nguyền thay vì lá chắn.",
+    "Sách hướng dẫn nói về sự diệt vong của tôi, tuyên bố rằng tay và thân thể tôi sẽ bị diệt vong.",
+    "Vợ/chồng tôi đã tham gia vào chiến dịch thù địch của tôi, gom góp gai nhọn để rải trên con đường của người kêu gọi mọi người đến với Allah.",
+    "Vào ngày phán xét, tôi sẽ bị ném vào lửa cháy rực, và vợ tôi sẽ bị thắt một sợi dây bằng xơ cọ quanh cổ.",
+    "Tôi được biết đến với một cái tên có nghĩa là 'cha của ngọn lửa' — một cái tên báo trước nơi ở vĩnh hằng của tôi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Thử nghiệm hoặc sự kiện quan trọng",
+      "options": [
+        "Ông ta chống đối Nhà tiên tri và bị nguyền rủa trong kinh Qur'an.",
+        "Dẫn đầu một đội quân để phá hủy Kaaba.",
+        "Âm mưu ám sát Nhà tiên tri bằng cách ném đá.",
+        "Từ chối tin vào việc mặt trăng bị tách đôi.",
+        "Xây dựng một tòa tháp vươn tới trời cao."
+      ],
+      "answer": "Ông ta chống đối Nhà tiên tri và bị nguyền rủa trong kinh Qur'an."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Ngọn lửa địa ngục rực cháy",
+        "Cây gậy của Musa",
+        "Hòm Giao Ước của Nuh",
+        "Giếng Zamzam",
+        "Con bê vàng"
+      ],
+      "answer": "Ngọn lửa địa ngục rực cháy"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Hắn sẽ bước vào ngọn lửa thiêu đốt, và của cải của hắn cũng chẳng giúp ích gì cho hắn.",
+        "Ông ta hối cải và trở thành người tin Chúa.",
+        "Ông ta được tha thứ sau khi rút lại lời khai.",
+        "Ông đã chết như một vị tử đạo.",
+        "Ngài được cất lên trời."
+      ],
+      "answer": "Hắn sẽ bước vào ngọn lửa thiêu đốt, và của cải của hắn cũng chẳng giúp ích gì cho hắn."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

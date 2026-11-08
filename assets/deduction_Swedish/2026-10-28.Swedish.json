@@ -1,0 +1,61 @@
+{
+  "title": "Ett löfte uttalat över glödande kol",
+  "intro": "Du står bredvid en ökeneld medan dess glödande kol försiktigt sprids. Besökare anländer för ett möte i stillheten, och ett enda meddelande öppnar upp en berättelse om löfte, överraskning och en framtid som ännu inte är uppfylld.",
+  "clues": [
+    "Vi korsade avståndet för att nå en trogen tjänare i öknen.",
+    "Vi bad att glödande bål skulle spridas för att förbereda en eld.",
+    "Vi pratade med en som hade ropat på en låga för att få svalka och säkerhet.",
+    "Vi kom med nyheter om en nyfödd till någon som hade passerat åldern för att få barn.",
+    "Vi gav det utlovade barnet namnet Isak.",
+    "Vi kom med det glada budskapet om en son till Ibrahim, och den häpnadsväckande nyheten fick Ibrahim att skratta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Änglarna som förde glada budskap om Isak till Ibrahim",
+        "Änglarna som varnade Lut",
+        "De tronbärande änglarna",
+        "Helvetets änglar",
+        "Änglarna som sändes till Noa"
+      ],
+      "answer": "Änglarna som förde glada budskap om Isak till Ibrahim"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att sprida glädjebudskapet om Isaks födelse till Ibrahim",
+        "Varna Lut innan hans folks straff",
+        "Tillkännager Yahyas födelse för Zakariyya",
+        "Att bära tronen på domens dag",
+        "Tillkännager Isas födelse för Maryam"
+      ],
+      "answer": "Att sprida glädjebudskapet om Isaks födelse till Ibrahim"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En eld förberedd av spridda glödande kol",
+        "En ark som flyter på flodvatten",
+        "En grotta förseglad av en rullande sten",
+        "Ett berg av lera som härdats av saltlake",
+        "En stege som sträcker sig mot himlen"
+      ],
+      "answer": "En eld förberedd av spridda glödande kol"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Glada nyheter om en son som heter Isak",
+        "Glädjande nyheter om en son som heter Yahya",
+        "Valet av Talut till härskare över Israels barn",
+        "En varning före bestraffningen av Luts folk",
+        "En befallning att bygga en ark före syndafloden"
+      ],
+      "answer": "Glada nyheter om en son som heter Isak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

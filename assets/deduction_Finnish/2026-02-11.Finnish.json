@@ -1,0 +1,60 @@
+{
+  "title": "Rikkauksien taakka",
+  "intro": "Seisot valtavan onnen tarinan edessä, kullalla ja vallalla koristellun elämän edessä, mutta pohjimmiltaan varoittavan opetuksen edessä kaikille, jotka etsivät maallista loistoa. Pystytkö selvittämään tämän hahmon identiteetin, jonka tarina kaikuu läpi ajan, todisteena maallisen omaisuuden katoavaisuudesta?",
+  "clues": [
+    "Olin suuren profeetan kansasta, mutta valitsin ylimielisyyden ja sorron tien.",
+    "Allah antoi minulle suunnattoman paljon vaurautta, niin paljon, että aarteeni avaimet olivat raskas taakka vahvalle miesryhmälle.",
+    "Kansani neuvoi minua olemaan riemuitsematta rikkauksistani ja muistutti minua siitä, että Allah ei rakasta riemuitsevia.",
+    "Väitin ​​ylimielisesti, että valtava omaisuuteni oli oman tietämykseni ja ponnistelujeni ansiota, ei Allahin siunauksen.",
+    "Minua varoitettiin turmeluksesta ja muistutettiin etsimään tuonpuoleista sillä, mitä Allah oli minulle antanut, mutta kieltäydyin kuuntelemasta ja jatkoin ylpeydessäni.",
+    "Lopulta Allah nielaisi maan ja asuinpaikkani, jättäen minut ilman auttajaa Hänen päätöstään vastaan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "farao",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Meren jakautuminen",
+        "Nimrodin tuli",
+        "Tulva",
+        "Maan nieleminen",
+        "Heinäsirkkavitsaus"
+      ],
+      "answer": "Maan nieleminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Kultainen vasikka",
+        "Aarteet/avaimet",
+        "Zamzamin kaivo"
+      ],
+      "answer": "Aarteet/avaimet"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Myönnetty kuninkuus",
+        "Pelastettu tuholta",
+        "Maan nielaisema",
+        "Tuli profeetnaksi",
+        "Kuoli rauhallisesti"
+      ],
+      "answer": "Maan nielaisema"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

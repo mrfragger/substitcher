@@ -1,0 +1,61 @@
+{
+  "title": "Batan Əzəmət",
+  "intro": "Təsəvvür edin: gözəl paltarlar geyinmiş və təsəvvüründən kənar xəzinələr ilə əhatə olunmuş bir ruh. Bu şəxs sərvətinin öz parlaqlığı sayəsində qazanıldığına inanırdı və əsl təminatın mənbəyini heç vaxt qəbul etmirdi. Qüdrətli bir peyğəmbərin davamçıları arasında gəzən bu şəxs təvazökarlığa çağırışları rədd edirdi. Bu gün biz möhtəşəm sərvəti onların son mənzili olan bir şəxsiyyətin kimliyini aşkar edirik.",
+  "clues": [
+    "Mən inadkar bir qövmü haqqa çağıran bir peyğəmbərin dövründə yaşamışam.",
+    "Mən seçilmiş bir icmanın bir hissəsi idim, amma ürəyim mesajdan üz döndərdi.",
+    "Qızıl və gümüş məni hər hansı bir ilahi əmrdən daha çox valeh etdi.",
+    "Xəzinələrim o qədər böyüdü ki, güclü bir qrup kişi açarları güclə qaldıra bildi.",
+    "Mən sərvətimin mənə öz biliyimə görə verildiyi ilə öyündüm.",
+    "Axırda mən və bütün evim xəbərdarlıq olaraq yer üzünə batdıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Var-dövlətə qarşı təkəbbür və xeyriyyəçilikdən imtina",
+        "Əridilmiş zərgərlikdən qızıl büt hazırlamaq",
+        "Güclü bir krallıq üzərində ilahiliyi elan etmək",
+        "Məkkədə ilk möminlərin təqib edilməsi",
+        "Müqəddəs Evi dağıtmaq üçün kampaniyaya rəhbərlik edir"
+      ],
+      "answer": "Var-dövlətə qarşı təkəbbür və xeyriyyəçilikdən imtina"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Açarları bir çox güclü kişiyə yük olan xəzinələr",
+        "Səs çıxaran qızıl buzov",
+        "Uzaq diyardan gələn şanlı bir taxt",
+        "Alovlu bir səngər",
+        "Müharibə fillərindən ibarət qüdrətli bir ordu"
+      ],
+      "answer": "Açarları bir çox güclü kişiyə yük olan xəzinələr"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Yer üzü ilə birlikdə yuva tərəfindən uduldu",
+        "Bir ordu ilə dənizdə boğuldu",
+        "Alovlu bir çuxurda diri-diri yandı",
+        "Ulayan və şiddətli bir küləklə məhv edildi",
+        "Tək bir güclü partlayışla yerə yıxıldı"
+      ],
+      "answer": "Yer üzü ilə birlikdə yuva tərəfindən uduldu"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

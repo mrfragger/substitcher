@@ -1,0 +1,61 @@
+{
+  "title": "Chet eldan kelgan ovoz",
+  "intro": "Siz uchta xabarchi aniq alomatlar bilan kelgan shaharda turibsiz, ammo odamlar ularni masxara qilishadi va eski odatlariga yopishib olishadi. Shaharning eng chekkasidan nafasi uzilgan va qat'iyatli bir odam rad etilishga qaramay, haqiqatni gapirish uchun olomon tomon yuguradi. O'ziniki bo'lmagan xabar uchun hamma narsani xavf ostiga qo'ygan bu jon kim?",
+  "clues": [
+    "Men bir qavm orasida yashadim, ularga ochiq-oydin mo''jizalar bilan Payg'ambarlar kelgan edi, lekin ular kibr-havo bilan yuz o'girishdi.",
+    "Men xabarchilarning chaqirig'ini eshitib, shaharning eng chekkasidan yugurib keldim.",
+    "Men qavmimga: \"Ey qavmim, payg'ambarlarga ergashinglar. Sizdan hech qanday mukofot so'ramaydiganlarga ergashinglar, chunki ular to'g'ri yo'ldan boradilar\", dedim.",
+    "Men payg'ambar emas edim, lekin elchilarga ishonganman va qavmimni ham shunday qilishga undaganman.",
+    "Odamlarim mening maslahatlarimni masxara qilishdi va meni ekstremistlikda ayblashdi.",
+    "Ular meni o'ldirishganda, Alloh menga jannatga kirishimni aytdi va men qavmlarim menga berilgan kechirim va sharafni bilishlarini istardim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Shaharning eng chekka qismidan kelgan odam (Ya-Sin)",
+        "Shaharga yuborilgan uchta xabarchidan biri",
+        "Shaharning taniqli savdogari",
+        "Shahar hukmdori",
+        "Kofirlarning yetakchisi"
+      ],
+      "answer": "Shaharning eng chekka qismidan kelgan odam (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "O'z qavmiga elchilarga ergashishni va'z qilish",
+        "Mo'minlarni suv toshqinidan qutqarish uchun kema qurish",
+        "Iymon uchun olovga tashlanmoqda",
+        "Kit tomonidan yutib yuborilmoqda",
+        "Shohlik va donolik berilgan"
+      ],
+      "answer": "O'z qavmiga elchilarga ergashishni va'z qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Shaharning eng chekka qismi",
+        "Kema",
+        "Quduq",
+        "Yonayotgan buta",
+        "G'or"
+      ],
+      "answer": "Shaharning eng chekka qismi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Jannatga kirdi va qavmi uning kechirimini bilishini istadi",
+        "Xabarni rad etgani uchun o'z xalqi bilan birga cho'kib ketdi",
+        "Unga tuya mo''jizasi berildi",
+        "Sud jarayonidan keyin hukmdor bo'ldi",
+        "Alloh tomonidan qutqarildi va o'z xalqi bilan qoldi"
+      ],
+      "answer": "Jannatga kirdi va qavmi uning kechirimini bilishini istadi"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

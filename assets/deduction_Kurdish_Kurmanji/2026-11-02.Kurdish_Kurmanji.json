@@ -1,0 +1,61 @@
+{
+  "title": "Hevalbendê Bêdawî di Ceribandina Zêr de",
+  "intro": "Di bin siya pêxemberekî mezin de, giyanekî xweşgotin û baweriyê hat hilbijartin da ku di mîsyoneke mezin de alîkariyê bike. Ev kesayetî dema ku girse lerizîn, li dijî sûcekî eşkere ku gefê li bingeha yekxwedayetiyê dixwar, xutbe da. Dema ku pêxember vegeriya da ku şahidiya windabûna gel bike, parastina vê kesayetî ne ji ber sûcdariyê bû, lê ji ber erk û tirsa ji dabeşbûnê bû. Ev xizmetkarê dilsoz ê Xwedê kî ye?",
+  "clues": [
+    "Ez ji aliyê Xwedê ve ji bo erkekî pîroz li kêleka yekî din hatim hilbijartin, û rola min piştgirî û îlankirin bû.",
+    "Zelaliya axaftinê ji min re hat dayîn, û ez bi qasidek re çûm da ku rûbirûyê zordarekî bihêz bibim.",
+    "Di rêwîtiyek krîtîk de, qasidê bi tena serê xwe hilkişiya çiyayekî, û ez hiştim ku çavdêriya xelkê bikim.",
+    "Di nebûna wan de, gel peykerekî zêrîn çêkir, û min ji wan lava kir ku dilsoz bimînin, lê wan şîreta min red kir.",
+    "Dema ku qasidê tijî hêrs û xemgînî vegeriya, ez hatim girtin, lê min şirove kir ku ez têk çûme û ez ditirsiyam ku di navbera wan de nakokî çêbikim.",
+    "Ez ew pêxember im ku li kêleka birayê xwe Mûsa rawestiyam, barê wî parve kirim û li hember pûtperestiyê sebir kirim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Harûn",
+        "Pêxember Mûsa",
+        "Pêxember Îsa",
+        "Pêxember Dawud",
+        "Pêxember Zekeriya"
+      ],
+      "answer": "Pêxember Harûn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Tevî hişyariyan, mirovan golikê zêrîn perizîn",
+        "Xelkê min avêtin nav agirê geş",
+        "Masîyekî mezin min daqurtand",
+        "Ez bi tohmetên derewîn hatim girtin",
+        "Ji ber waazkirinê ez ji bajarê xwe hatim sirgûnkirin"
+      ],
+      "answer": "Tevî hişyariyan, mirovan golikê zêrîn perizîn"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Golika Zêrîn",
+        "Dara Dişewite",
+        "Dara ku veguherî mar",
+        "Tabletên Peymanê",
+        "Sandoqa Peymanê"
+      ],
+      "answer": "Golika Zêrîn"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Ez bêguneh bûm û mîsyona xwe ya pêxemberîtiyê domandim",
+        "Ez ji ber gunehên gel hatim cezakirin",
+        "miletekî nû ji min re hat dayîn ku rêberiya wî bikim",
+        "Ez bi zindî ber bi bihuştê ve hatim hilkişandin",
+        "Ez li ser padîşahiyekê wek hukumdar hatim hilbijartin"
+      ],
+      "answer": "Ez bêguneh bûm û mîsyona xwe ya pêxemberîtiyê domandim"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

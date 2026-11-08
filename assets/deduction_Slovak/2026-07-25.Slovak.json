@@ -1,0 +1,61 @@
+{
+  "title": "Obyvatelia dvoch záhrad",
+  "intro": "V krajine, kde požehnanie prúdilo hojne, si kedysi jedna komunita užívala štedrosť dvoch nádherných záhrad. Ich životy boli dôkazom božskej priazne, no ich príbeh sa zmenil, keď vďačnosť vyprchala, čo viedlo k premene, ktorá sa stala trvalým znamením pre všetkých, ktorí sa nad tým zamyslia.",
+  "clues": [
+    "Boli sme ľudia požehnaní krajinou pokoja a hojnosti.",
+    "Náš Pán nám daroval dve nádherné záhrady, bujné a úrodné zo všetkých strán.",
+    "Bolo nám prikázané byť vďační, ale my sme si vybrali nevďačnosť a odvrátili sme sa.",
+    "Veľká priehrada zadržiavala vody, ktoré dávali život našej krajine.",
+    "Keď sme vo svojom zlom konaní vytrvali, priehrada sa pretrhla a záplavová voda sa preliala cez nás.",
+    "Naše kedysi bujné záhrady nahradilo horké ovocie, tamarišky a niekoľko lotosových stromov."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia zo Saby",
+        "Ľudia z Thamudu",
+        "Ľudia z Madyanu",
+        "Spoločníci jaskyne",
+        "Ľudia slona"
+      ],
+      "answer": "Ľudia zo Saby"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Silný vietor sedem nocí",
+        "Sprška kameňov z neba",
+        "Ničivá povodeň z prasknutej priehrady",
+        "Hlasný výkrik z neba",
+        "Topenie sa v mori"
+      ],
+      "answer": "Ničivá povodeň z prasknutej priehrady"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Veľká priehrada Ma'rib",
+        "Údolie Vádí al-Kúra",
+        "Iramova záhrada",
+        "Studňa Zamzam",
+        "Hora Sinaj"
+      ],
+      "answer": "Veľká priehrada Ma'rib"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Naše záhrady boli nahradené horkým ovocím a riedkymi stromami",
+        "Zem nás pohltila pri zemetrasení",
+        "Premenili sme sa na opice a prasatá",
+        "Utopila nás veľká povodeň",
+        "Zničila nás spŕška kameňov"
+      ],
+      "answer": "Naše záhrady boli nahradené horkým ovocím a riedkymi stromami"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Gjumi i Epokave",
+  "intro": "Je gati të nisësh një udhëtim nëpër kohë, duke u përballur me një mister të thellë besimi dhe fuqie hyjnore. Imagjino një grup individësh që sfiduan normat e shoqërisë së tyre, duke u kapur pas monoteizmit në një botë politeizmi. Historia e tyre është një dëshmi e aftësisë së Allahut për të mbrojtur shërbëtorët e Tij të drejtë në mënyrat më të jashtëzakonshme. A mund ta zbulosh identitetin e këtyre figurave të shquara?",
+  "clues": [
+    "Ne ishim një grup i vogël të rinjsh që besonim në një Zot të vetëm, pavarësisht politeizmit të përhapur gjerësisht në popullin tonë.",
+    "Ne ikëm nga një sundimtar tiranik që na kërcënoi për besimin tonë, nga frika e persekutimit dhe vdekjes.",
+    "Ne kërkuam strehim në një vend të izoluar, duke shpresuar për mëshirën dhe mbrojtjen e Allahut nga shtypësit tanë.",
+    "Zoti ynë na bëri të biem në një gjumë të thellë, një gjumë të mrekullueshëm që sfidoi kalimin e kohës.",
+    "Kur u zgjuam, besuam se kishim pushuar vetëm për një ditë ose një pjesë të ditës, të pavetëdijshëm për periudhën e gjatë që kishte kaluar vërtet.",
+    "Kurani përmend se ne qëndruam në gjendjen tonë për treqind vjet dhe e tejkaluam atë me nëntë vjet, duke u bërë një shenjë për njerëzimin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Njerëzit e Hendekut",
+        "Populli i Themudit",
+        "Njerëzit e Shpellës",
+        "Populli i Medjenit",
+        "Shokët e Elefantit"
+      ],
+      "answer": "Njerëzit e Shpellës"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Përballë një përmbytjeje të madhe",
+        "Duke u gëlltitur nga toka",
+        "Gjumi i gjatë i mrekullueshëm",
+        "Shkatërrimi i qytetit të tyre",
+        "Ndarja e detit"
+      ],
+      "answer": "Gjumi i gjatë i mrekullueshëm"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një kaçubë që digjet",
+        "Një mal",
+        "Një varkë",
+        "Një shpellë",
+        "Një pus"
+      ],
+      "answer": "Një shpellë"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Atyre iu dha pasuri dhe pushtet i jashtëzakonshëm",
+        "Ata u transformuan në majmunë dhe derra",
+        "Ata u ngritën nga gjumi si një shenjë e thellë",
+        "Ata u mbytën në një përmbytje të madhe",
+        "Ata ndërtuan një mbretëri madhështore"
+      ],
+      "answer": "Ata u ngritën nga gjumi si një shenjë e thellë"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

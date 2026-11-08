@@ -1,0 +1,61 @@
+{
+  "title": "Arhitekt lažnih ambicij",
+  "intro": "Nekoč je v starem Egiptu eden najbolj razvpitih tiranov služil človek z veliko avtoriteto. Temu posamezniku je bil zaupan drzen ukaz – zgraditi strukturo, ki naj bi kljubovala nebesom. Njihova zgodba je v Koranu zapisana kot presenetljiv nauk o tem, kako slepa poslušnost aroganci vodi le v propad.",
+  "clues": [
+    "Služil sem na dvorih mogočnega vladarja, ki je razglašal božansko oblast nad deželo.",
+    "Imel sem visok ministrski položaj in svetoval najbolj arogantnemu tiraninu svojega časa.",
+    "Moj vladar je bil prevzet od izzivanja Mojzesovega Boga, ki ga niso hoteli priznati.",
+    "Ukazano mi je bilo, naj zgradim stolp iz žganih opek, da se bo moj vladar lahko povzpel v nebesa.",
+    "Stolp ni nikoli dosegel neba, moja podrejenost aroganci pa mi je prinesla večno sramoto.",
+    "Umrl sem skupaj s tistim, ki sem mu sledil, in moje ime je postalo trajno svarilo pred tistimi, ki omogočajo tirane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Haman",
+        "Azar (oče Ibrahima)",
+        "Illyas (prerok)",
+        "Zu al-Kifl",
+        "Harut (eden od dveh angelov v Babilonu)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ukazano je bilo zgraditi mogočno zgradbo, ki bo dosegla nebesa",
+        "Prosil za razlago sanj, poslanih od božanstva",
+        "Vrženi v plameneči ogenj kot preizkus vere",
+        "Prisiljen izbirati med prestolom in resnico",
+        "Izzvan v čarovniškem tekmovanju"
+      ],
+      "answer": "Ukazano je bilo zgraditi mogočno zgradbo, ki bo dosegla nebesa"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Stolp iz žganih opek",
+        "Palica, ki se je spremenila v kačo",
+        "Ladja pluje skozi veliko poplavo",
+        "Vrt, obdan z visokimi zidovi",
+        "Prestol, okrašen z rubini in zlatom"
+      ],
+      "answer": "Stolp iz žganih opek"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Utopljen skupaj z zatiralcem v morju",
+        "Postal je mogočen monarh prostranih dežel",
+        "Nepoškodovan pobegnil iz gorečega požara",
+        "Zgradil uspešno kraljestvo modrosti",
+        "Po letih izgnanstva se je ponovno združil z družino"
+      ],
+      "answer": "Utopljen skupaj z zatiralcem v morju"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

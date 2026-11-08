@@ -1,0 +1,61 @@
+{
+  "title": "Muqaddas olov sinovi",
+  "intro": "Har bir uyda o'ymakor toshlarga sig'inish ildiz otgan qadimiy yurtda bir kishi ajralib turardi. Qat'iy ishonch va ilohiy himoya orqali ular aniq o'limga duch kelishdi va sog'-salomat ketishdi. Bu ajoyib qalbning kimligini ochib bera olasizmi?",
+  "clues": [
+    "Men o'z qo'llari bilan o'yib ishlangan butlarga sajda qiladigan, bu buyumlar ilohiy kuchga ega deb ishonadigan odamlar orasida ulg'ayganman.",
+    "Men ularning e'tiqodlariga shubha qilganimda, ular dastlab meni rad etishdi, lekin men bilgan haqiqat haqida jim turolmadim.",
+    "Ular yigʻilgan kuni men ularning butlarini yoʻq qildim, faqat eng kattasiga tegmasdan.",
+    "Ular qaytib kelib, mening qilgan ishimni ko'rishganda, ularning rahbarlari meni olovga tashlash niyatida katta olov qurishni buyurishdi.",
+    "Ular meni alangali olovga tashlashdi, lekin olamlarning Parvardigori uni men uchun salqin va xavfsiz qilishni buyurdi.",
+    "Men olovdan butunlay sog'-salomat chiqdim, menga qarshi fitna uyushtirganlar esa butunlay halokatga yuz tutishdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Ibrohim payg'ambar",
+        "Muso payg'ambar",
+        "Nuh payg'ambar",
+        "Payg'ambar Iso",
+        "Yusuf payg'ambar"
+      ],
+      "answer": "Ibrohim payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yonayotgan olovga tashlanmoqda",
+        "Katta kit tomonidan yutib yuborilmoqda",
+        "Katta suv toshqinidan omon qolish",
+        "Chuqur quduqqa tashlanmoqda",
+        "Qirolning sehrgarlariga qarshi turish"
+      ],
+      "answer": "Yonayotgan olovga tashlanmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yonayotgan o'tinning ulkan olovi",
+        "Ajoyib yog'och kema",
+        "Oltin buzoq haykali",
+        "Daryoda suzib yuruvchi savat",
+        "Ajoyib taxt"
+      ],
+      "answer": "Yonayotgan o'tinning ulkan olovi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Alloh olovni salqin va xavfsiz qildi",
+        "Kema tog'ga eson-omon qo'ndi",
+        "Oltin but ularning ko'zlari oldida erib ketdi",
+        "Zolim va uning qo'shini dengizda cho'kib ketishdi",
+        "Ko'r odamning ko'rish qobiliyati tiklandi"
+      ],
+      "answer": "Alloh olovni salqin va xavfsiz qildi"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dominion ya Mopepe mpe Lolemo",
+  "intro": "Kanisá bokonzi epai wapi mopɛpɛ yango moko eyanolaki na mokonzi moko, epai mingongo ya bikelamu ya mikemike ezalaki komema kilo, mpe epai nguya oyo miso ya bato mpamba emonanaka te esimbamaki na mosala ya bokebi. Moto yango azwaki bokonzi moko ya kokamwa epai ya moto moko oyo azalaki liboso na ye oyo alingaki mingi, oyo azalaki na nguya likoló ya biloko oyo ezali na bomoi mpe ba jinn. Kasi bokonzi monene eyaki na mimekano minene —mpe ngonga ya nsuka ekomonisa eloko moko ya kokamwa na ntina ya lolenge ya bomoi mpe liwa yango moko.",
+  "clues": [
+    "Nazwaki bokonzi monene epai ya moboti moko ya bolingo oyo azalaki mpe mosakoli mpe mosali ya Allah.",
+    "Allah apesaki ngai bokonzi likolo ya mopepe, kotindaka yango na misala ya mobembo ya sanza moko na ntongo moko.",
+    "Ata bikelamu ya mike koleka ekoloba na ntina ya bopusani na ngai, mpe nazalaki kopema mpo na kokamwa na bososoli na bango.",
+    "Nazalaki kotambwisa limpinga monene ya ba jinn, bato mpe bandɛkɛ, bango nyonso babongisamaki na molɔngɔ liboso na ngai.",
+    "Mokonzi moko ya mosika ayaki komeka ngai na mokakatano moko ya mpasi, mpe nasalaki ete bámema kiti ya bokonzi ya mokonzi wana na ndako na ngai liboso ete mopaya atelema kutu na kiti.",
+    "Natikalaki kotelema, kogumbama na lingenda, kino ekelamu moko ya moke ya mabele eswaki yango —mpe kaka na ntango wana nde baye bazalaki nzinganzinga na ngai basosolaki ete nalekaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Sulayman (Salomo) .",
+        "Mosakoli Dawud (David) .",
+        "Mosakoli Isa (Yesu) .",
+        "Mosakoli Muhammad صلى الله عليه وسلم",
+        "Mosakoli Musa (Moise) ."
+      ],
+      "answer": "Mosakoli Sulayman (Salomo) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Komema kiti ya bokonzi ya mokonzi-mwasi oyo ezali mosika na nzela ya mayele oyo eleki mayele ya bato",
+        "Kokita na libulu ya mozindo ntango azalaki mwana moke",
+        "Kokutana na ba magiciens ya tyrant na bilembo ya makamwisi",
+        "Koloba uta na berceau mpo na ko défendre lokumu ya mama",
+        "Kozwa makomi ya nsuka oyo emonisami na ngomba mosantu"
+      ],
+      "answer": "Komema kiti ya bokonzi ya mokonzi-mwasi oyo ezali mosika na nzela ya mayele oyo eleki mayele ya bato"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Likonzí moko ya mabaya ekɔtaki na kati na termite moko",
+        "Masuwa monene oyo etongamaki mpo na kobimisa mpela oyo ekɔtaki na mokili mobimba",
+        "Fimbo oyo ebongwanaki nyoka liboso ya mobulu",
+        "Eteni ya elamba oyo basalelaka mpo na kobikisa bato oyo bakufá miso",
+        "Libulu mosantu esika wapi emoniseli ezwamaki mpo na mbala ya yambo"
+      ],
+      "answer": "Likonzí moko ya mabaya ekɔtaki na kati na termite moko"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mokonzi moko ya lokumu oyo ayaki kotala ye ayambaki kondima nsima ya komona bilembo",
+        "Mpela moko monene ebebisaki bato nyonso longola kaka bato ya sembo oyo bazalaki na masuwa",
+        "Farao moko ná basoda na ye bakufaki na mbu",
+        "Moninga moko ya sembo atombolamaki na lola",
+        "Mokonzi moko ya mobulu mpe engumba na ye bakweisamaki mpe babebisamaki"
+      ],
+      "answer": "Mokonzi moko ya lokumu oyo ayaki kotala ye ayambaki kondima nsima ya komona bilembo"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

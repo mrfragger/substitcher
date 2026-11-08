@@ -1,0 +1,61 @@
+{
+  "title": "An Guth Roimh an Stoirm",
+  "intro": "D’éirigh figiúr san fhásach chun glaoch ar náisiún cumhachtach ar ais chun na fírinne. Bhí cáil ar na daoine as a bhfoirgnimh iontacha agus a neart gan sárú. Ach chuir a n-uaill dall orthu, agus dhiúltaigh siad éisteacht. Sa deireadh, bhuail pionós tubaisteach iad, agus níor shábháladh ach grúpa beag creidmheach.",
+  "clues": [
+    "Cuireadh mé chuig pobal cumhachtach a bhí ina gcónaí sna tailte oscailte agus a raibh cáil orthu as a gcumhacht.",
+    "Tháinig mo mhuintir i ndiaidh náisiún mór eile a bhí scriosta.",
+    "Bhí struchtúir iontacha acu agus thóg siad túir arda.",
+    "Ghlaoigh mé orthu adhradh a thabhairt d’Aon Dia amháin, ach dhiúltaigh siad a n-íodail a thréigean.",
+    "Bhuail pionós foréigneach iad, ag sábháil ach iad siúd a chreid liom.",
+    "Is mise an té a seoladh chuig pobal cumhachtach ar a dtugtar Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Hud",
+        "Fáidh Salih",
+        "Fáidh Shu'aib",
+        "Fáidh Nuh",
+        "Fáidh Ibrahim"
+      ],
+      "answer": "Fáidh Hud"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An tuile mhór",
+        "Gaoth fhoréigneach ag borradh",
+        "Crith talún agus caoineadh scanrúil",
+        "Báisteach clocha dóite",
+        "Tine neamhaí ó thuas"
+      ],
+      "answer": "Gaoth fhoréigneach ag borradh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Áirc mhór tógtha ar shliabh",
+        "Camall baineann uathúil",
+        "Sloinne a d’éirigh ina nathair",
+        "Foirgnimh arda agus struchtúir uaisle",
+        "Píre lasrach"
+      ],
+      "answer": "Foirgnimh arda agus struchtúir uaisle"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bádh iad go léir i dtuilte móra",
+        "Scriosadh mo mhuintir le gaoth fhoréigneach, agus mé féin á shábháil",
+        "Mo mhuintir buailte ag crith talún agus ag caoineadh",
+        "Chaith mo mhuintir clocha ón spéir",
+        "Mo mhuintir caite i dtine lasrach"
+      ],
+      "answer": "Scriosadh mo mhuintir le gaoth fhoréigneach, agus mé féin á shábháil"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

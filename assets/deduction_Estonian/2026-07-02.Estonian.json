@@ -1,0 +1,61 @@
+{
+  "title": "Varjatud tarkuse teener",
+  "intro": "Koraani narratiivide tohutus seinavaibas seisab mõistatuslik tegelane, Allahi teener, keda on õnnistatud jumaliku teadmise ja halastusega. See salapärane isik kohtus ühe suurima prohvetiga, mis viis ta teekonnale, mis oli täis hämmastavaid tegusid, mis panid proovile inimliku arusaamise piirid. Iga tegu, kuigi pealtnäha ebaõiglane, varjas sügavaid õppetunde saatuse, kannatlikkuse ja jumaliku käsu taga peituva nähtamatu tarkuse kohta. Kes on see varjuline tegelane ja milliseid tõdesid ta paljastas?",
+  "clues": [
+    "Olin Allahi teener, valitud eriliste teadmiste ja halastuse pärast.",
+    "Üks suur prohvet soovis minult õppida ja ma nõustusin rangetel tingimustel.",
+    "Meie kohtumise ajal sooritasin kolm tegu, mis tundusid mu kaaslasele ebaõiglased.",
+    "Ma kahjustasin vaestele inimestele kuuluvat paati, kuid see oli varjatud halastus.",
+    "Ma võtsin noore poisi elu, kuigi see tundus julm, tegin seda tema vanemate leina säästmiseks.",
+    "Ma ehitasin uuesti müüri linnas, mis keeldus meile külalislahkust osutamast, paljastades selle all peituva aarde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Al-Khidr (õiglane teener)",
+        "Kahe aia omanik",
+        "Üks koopa inimestest",
+        "Kuningas, kes vaidles Ibrahimiga",
+        "Mees, kes magas 100 aastat"
+      ],
+      "answer": "Al-Khidr (õiglane teener)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kohtumine prohvet Musaga kahe mere ristumiskohas",
+        "Tõkke ehitamine Googi ja Magogi vastu",
+        "Suurde tulle visatud",
+        "Mere jagamine kaheks pooleks",
+        "Toora tahvlite vastuvõtmine"
+      ],
+      "answer": "Kohtumine prohvet Musaga kahe mere ristumiskohas"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kahe mere ühenduskoht",
+        "Siinai mägi",
+        "Thawri koobas",
+        "Tuwa org",
+        "Zamzami kaev"
+      ],
+      "answer": "Kahe mere ühenduskoht"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Ta selgitas oma mõistatuslike tegude taga peituvat jumalikku tarkust ja lahkus Moosast.",
+        "Pärast teekonda anti talle prohveti staatus",
+        "Torm hävitas paati",
+        "Poiss äratati ellu",
+        "Ta ehitas ebasõbralikku linna mošee"
+      ],
+      "answer": "Ta selgitas oma mõistatuslike tegude taga peituvat jumalikku tarkust ja lahkus Moosast."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

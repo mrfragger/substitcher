@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo e Mōhio Ana ki ngā Taumaha Hē",
+  "intro": "I whakatipuria he wairua pono i roto i ngā kaihokohoko me ngā kaihokohoko i roto i te whenua i whakatōngia ai ngā pauna me ngā mehua. I tū takitahi tēnei tangata ki te whakahē i te tinihanga o te iwi katoa, me te karanga i a rātou ki te tika me te karakia ki te Atua Pono Kotahi. Ahakoa i mārama te karere, ā, i tika te karanga, i whakakahore te iwi ki te whakarongo, ā, i pāngia e te mate kino. Ka taea e koe te tautuhi i tēnei karere rangatira mai i te Quran?",
+  "clues": [
+    "I tonoa ahau hei karere ki tētahi iwi ko ā rātou oranga he mahi hokohoko, he mahi taupua.",
+    "I mōhiotia tōku iwi puta noa i te whenua mō tā rātou mehua poto, me tā rātou tinihanga i ngā pauna.",
+    "I whakamataku hoki rātou i ngā kaihaerere i te huarahi, ā, i horahia te pirau puta noa i te whenua.",
+    "I akiaki ahau i a rātou kia karakia ki a Allah anake, kia tino pono hoki i roto i ā rātou mahi ki ētahi atu.",
+    "I whakakahoretia e rātou taku karere, ā, i whakawehi rātou ki te pei i ahau me te hunga e whakapono tahi ana me ahau i te whenua.",
+    "Nā te aroha noa i whakaorangia ai ahau me aku akonga e Allah, ko te hunga hara ia i mau i te whiu nui rawa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Shuaib",
+        "Poropiti Ruta",
+        "Poropiti a Hūta",
+        "Poropiti Salih",
+        "Poropiti a Noa"
+      ],
+      "answer": "Poropiti Shuaib"
+    },
+    "trial": {
+      "label": "Te Hara o Tōku Iwi",
+      "options": [
+        "Te tinihanga i ngā taumaha me ngā mehua",
+        "Te hanga i tētahi pourewa tiketike ki te rangi",
+        "Te tono i tētahi kamera uha i roto i te toka",
+        "Te patu i ngā poropiti i tonoa ki a rātou",
+        "Te tanu ora i ngā kōtiro pēpi"
+      ],
+      "answer": "Te tinihanga i ngā taumaha me ngā mehua"
+    },
+    "location": {
+      "label": "Tōku Iwi",
+      "options": [
+        "Te Iwi o Madyan",
+        "Te Iwi o 'Aad",
+        "Te Iwi o Thamud",
+        "Te Iwi o Parao",
+        "Te Iwi o te Hāpati"
+      ],
+      "answer": "Te Iwi o Madyan"
+    },
+    "outcome": {
+      "label": "Tō rātou Mutunga",
+      "options": [
+        "I te pō ka mau rātou i te aue nui",
+        "I toremi katoa rātou e te waipuke nui",
+        "Nā te hau makariri nui i whakangaro i a rātou",
+        "I uaina iho ngā kōhatu paru tunua ki runga i a rātou",
+        "I hurihia rātou hei pou kōhatu"
+      ],
+      "answer": "I te pō ka mau rātou i te aue nui"
+    }
+  },
+  "verseRef": "11:94",
+  "arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+  "verse": "And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone (11:94)"
+}

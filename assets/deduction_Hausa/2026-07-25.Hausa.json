@@ -1,0 +1,61 @@
+{
+  "title": "Mazauna Lambunan Biyu",
+  "intro": "A cikin ƙasar da albarka ke kwarara sosai, wata al'umma ta taɓa jin daɗin yalwar lambuna biyu masu ban mamaki. Rayuwarsu shaida ce ta alherin Allah, duk da haka labarinsu ya sauya lokacin da godiya ta ragu, wanda ya haifar da canji wanda zai zama alama mai ɗorewa ga duk wanda ya yi tunani.",
+  "clues": [
+    "Mu mutane ne masu albarka da ƙasar jin daɗi da wadata.",
+    "Ubangijinmu ya ba mu gonaki biyu masu kyau, masu kyau da albarka a kowane gefe.",
+    "An umarce mu da mu gode, amma muka zaɓi rashin godiya muka juya baya.",
+    "Babban madatsar ruwa ya riƙe ruwan da ya ba ƙasarmu rai.",
+    "Da muka dage kan aikata laifinmu, sai madatsar ruwa ta fashe kuma ruwan ya ratsa ta.",
+    "An maye gurbin lambunanmu masu cike da 'ya'yan itace masu ɗaci, tamarisk, da wasu bishiyoyin lote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Saba",
+        "Mutanen Samudawa",
+        "Mutanen Madyana",
+        "Ma'abota Kogo",
+        "Mutanen Giwa"
+      ],
+      "answer": "Mutanen Saba"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Iska mai ƙarfi ta tsawon dare bakwai",
+        "Ruwan duwatsu daga sama",
+        "Ambaliyar ruwa daga fashewar madatsar ruwa",
+        "Wata babbar ihu daga sama",
+        "Nutsewa cikin teku"
+      ],
+      "answer": "Ambaliyar ruwa daga fashewar madatsar ruwa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Babban madatsar ruwa ta Ma'rib",
+        "Kwarin Wadi al-Qura",
+        "Lambun Iram",
+        "Rijiyar Zamzam",
+        "Dutsen Sinai"
+      ],
+      "answer": "Babban madatsar ruwa ta Ma'rib"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An maye gurbin lambunanmu da 'ya'yan itatuwa masu ɗaci da kuma bishiyoyi marasa yawa",
+        "Ƙasa ta haɗiye mu a girgizar ƙasa",
+        "An rikide mu zuwa birai da aladu",
+        "An nutsar da mu cikin ambaliyar ruwa mai girma",
+        "Ruwan duwatsu ya lalata mu"
+      ],
+      "answer": "An maye gurbin lambunanmu da 'ya'yan itatuwa masu ɗaci da kuma bishiyoyi marasa yawa"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

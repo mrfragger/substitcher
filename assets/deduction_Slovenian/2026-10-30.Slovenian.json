@@ -1,0 +1,61 @@
+{
+  "title": "Bdenje žalujočih",
+  "intro": "Srečali boste dušo, ki jo je preizkušala najgloblja ločitev, katere oči so poznale jezik solz, a njeno srce ni nikoli izgubilo upanja. V zgodbi o prevari, hrepenenju in končni združitvi je ta plemeniti Alahov služabnik postal simbol potrpežljivosti za vse čase. Kdo je prestal leta skrite bolečine, le da bi se mu v enem samem trenutku povrnila vid in veselje?",
+  "clues": [
+    "Sem prerok, čigar ime je postalo simbol potrpežljivosti ob soočenju z veliko izgubo.",
+    "Blagoslovljen sem bil z mnogimi sinovi, a enega mi je vzela ljubosumnost drugih.",
+    "Moja ljubezen do tiste izgubljene osebe je bila tako globoka, da so mi oči od žalosti pobelile, vendar se nisem nikoli pritoževal, razen Alahu.",
+    "Sinova sem poslal nazaj iskat tistega, ki sem ga izgubil, in njegovega brata ter ju pozval, naj ne obupajo.",
+    "Ko je prispel prinašalec dobrih novic, so mi čez obraz vrgli srajco in nenadoma je svet spet postal jasen.",
+    "Znan sem kot Izrael in iz mojih dvanajstih sinov je nastalo dvanajst plemen velikega naroda."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Jakub (Jakob)",
+        "Prerok Jusuf (Jožef)",
+        "Prerok Izak (Išak)",
+        "Prerok Ibrahim (Abraham)",
+        "Prerok Ajjub (Job)"
+      ],
+      "answer": "Prerok Jakub (Jakob)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Dolga leta ločitve od ljubljenega sina",
+        "Biti vržen v plameneči ogenj",
+        "Pogoltnila ga je velika riba",
+        "Prizadeta za hudo kožno boleznijo",
+        "Biti brez otrok do visoke starosti"
+      ],
+      "answer": "Dolga leta ločitve od ljubljenega sina"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Jusufova srajca",
+        "Musajevo osebje",
+        "Nuhova skrinja",
+        "Salihova kamela",
+        "Sulejmanov prstan"
+      ],
+      "answer": "Jusufova srajca"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vid mu je bil povrnjen in ponovno združen s sinom",
+        "Dodeljena zmaga nad tiranskim kraljem",
+        "Živ dvignjen v nebesa",
+        "Imenovan za vladarja Egipta",
+        "Sina dobil v starosti kot čudež"
+      ],
+      "answer": "Vid mu je bil povrnjen in ponovno združen s sinom"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

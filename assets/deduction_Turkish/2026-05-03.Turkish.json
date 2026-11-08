@@ -1,0 +1,61 @@
+{
+  "title": "Uyuyan Hakikat Arayıcıları",
+  "intro": "İnancın sorgulandığı ve bir grup ruhun dünyevi rahatlık yerine sarsılmaz inançlarını seçtiği bir zamanı hayal edin. Zorlu bir seçimle karşı karşıya kalan bu insanlar, sığınak arayarak olağanüstü bir uykuya götüren bir yolculuğa çıktılar. Hikayeleri, ilahi korumaya ve baskıya karşı inancın gücüne bir kanıt niteliğindedir. Bu olağanüstü bireylerin kimliğini belirleyebilir misiniz?",
+  "clues": [
+    "Bizler, tek bir Yaratıcıya olan derin inançla birleşmiş küçük bir topluluktuk.",
+    "Biz, güçlü bir yöneticinin Allah'tan başkasına tapınmayı emrettiği bir dönemde yaşadık.",
+    "İnancımızı korumak için evlerimizi terk edip zulümden kaçmaya karar verdik.",
+    "Sadık bir dost, toprağın bir yaratığı, yolculuğumuz boyunca bize eşlik etti.",
+    "Allah'ın bizleri derin ve uzun bir uykuya daldırdığı, tenha bir yerde sığınak bulduk.",
+    "Uyandığımızda, sadece bir gün ya da günün bir bölümünün geçtiğine inanıyorduk, oysa gerçekte yüzyıllar geçmişti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Hendek Halkı",
+        "Thamud Halkı",
+        "Saba Halkı",
+        "Mağara Halkı",
+        "Madyan Halkı"
+      ],
+      "answer": "Mağara Halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Çorak bir araziyle sınanmak",
+        "Büyük bir sel felaketiyle karşı karşıya",
+        "Zalim bir yöneticiden sığınma arayışı",
+        "Yanan bir ateşe atılmak",
+        "Bir büyücünün büyüsüne meydan okumak"
+      ],
+      "answer": "Zalim bir yöneticiden sığınma arayışı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Büyük bir saray",
+        "Bir gemi/gemi",
+        "derin bir kuyu",
+        "Bir mağara",
+        "Yüksek bir dağ"
+      ],
+      "answer": "Bir mağara"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bir krallığın kendisine verilmesi",
+        "Yüzyıllarca süren mucizevi bir uyku",
+        "Yer tarafından yutulmak",
+        "Yıkıcı bir fırtınadan kurtarılmak",
+        "Cennet sofrasına layık görülmek"
+      ],
+      "answer": "Yüzyıllarca süren mucizevi bir uyku"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

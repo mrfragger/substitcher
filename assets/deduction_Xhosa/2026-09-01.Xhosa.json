@@ -1,0 +1,61 @@
+{
+  "title": "Ilizwi Elivela Ngaphandle",
+  "intro": "Umi kwisixeko apho abathunywa abathathu beze nemiqondiso ecacileyo, kodwa abantu bayabahleka baze babambelele kwiindlela zabo zakudala. Ukusuka kwiindawo ezikude zesixeko, umntu ubaleka esiya kwisihlwele, ephefumla kwaye ezimisele, ukuze athethe inyaniso nangona elahliwe. Ngubani lo mphefumlo obeke yonke into emngciphekweni ngenxa yesigidimi esingesiso esakhe?",
+  "clues": [
+    "Ndihlala phakathi kwabantu ababefumene izithunywa ngemiqondiso ecacileyo, kodwa bona bajika ngekratshi.",
+    "Ndiphume ndibaleka ndisuka kweyona ndawo ikude yesixeko xa ndeva ngesimemo sabathunywa.",
+    "Ndathi ebantwini bam, 'Owu bantu bam, landelani abathunywa. Landelani abo bangaceli mvuzo kuni, kuba bakhokelwe kakuhle.'",
+    "Bendingengomprofeti, kodwa bendikholelwa kubathunywa kwaye ndibakhuthaza abantu bam ukuba benze okufanayo.",
+    "Abantu bam bahlekisa ngecebiso lam baza bandityhola ngokuba ngumntu othanda izinto ezingaphaya kwamandla omntu.",
+    "Xa bandibulala, uAllah wandixelela ukuba ndingene eParadesi, kwaye ndandinqwenela ukuba abantu bam bayazi intethelelo nembeko endiyifumeneyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Indoda evela kude kakhulu kwisixeko (uYa-Sin)",
+        "Omnye wabathunywa abathathu abathunyelwe esixekweni",
+        "Umrhwebi odumileyo wesixeko",
+        "Umlawuli wesixeko",
+        "Inkokeli yabangakholwayo"
+      ],
+      "answer": "Indoda evela kude kakhulu kwisixeko (uYa-Sin)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukushumayela kubantu bakhe ukuba balandele abathunywa",
+        "Ukwakha inqanawa yokusindisa amakholwa kwisikhukula",
+        "Ukuphoswa emlilweni ngenxa yokholo",
+        "Ukuginywa ngumnenga",
+        "Ukunikwa ubukumkani nobulumko"
+      ],
+      "answer": "Ukushumayela kubantu bakhe ukuba balandele abathunywa"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Eyona ndawo ikude yesixeko",
+        "Ityeya",
+        "Umthombo",
+        "Isihlahla esitshayo",
+        "Umqolomba"
+      ],
+      "answer": "Eyona ndawo ikude yesixeko"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Wangena eParadesi waza wanqwenela ukuba abantu bakhe bamazi uxolelo lwakhe",
+        "Utshone nabantu bakhe ngenxa yokwala umyalezo",
+        "Wanikwa ummangaliso wenkamela yemazi",
+        "Waba ngumlawuli emva kwetyala lakhe",
+        "Wasindiswa nguAllah waza wahlala nabantu bakhe"
+      ],
+      "answer": "Wangena eParadesi waza wanqwenela ukuba abantu bakhe bamazi uxolelo lwakhe"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

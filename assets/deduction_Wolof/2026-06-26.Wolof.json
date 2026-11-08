@@ -1,0 +1,61 @@
+{
+  "title": "Kado buñu bañ",
+  "intro": "Bi taarixu nit ñi di tàmbali, bi suuf si di ndaw ba leegi, àdduna bi di noyyi bu njëkk, amoon na ruuh bu taxaw ci kanamu Boroom bi, yóbbaale sarax bu woyof. Sarax boobu dañu ko teg ci balansu nangug Yàlla — ñu gis ni daa ñàkk. Li ci topp bokkul ak jaar-jaaru baale, waaye xol bu fees dell ak fiiraange, mu dem ba def jëf ju kenn duko delloo ginaaw, te dina wéy di am ci àdduna bi yépp. Lii mooy jaar-jaaru kenn ku turam nekkoon luy nuru njubadi bu rëy biñ njëkka def.",
+  "clues": [
+    "Man maay nekk benn ci xale yi njëkka judd, juddoo ci waajur bu xam jaar-jaaram bu baax.",
+    "Benn bis dama saraxe Yàlla sarax, waaye nangu wuma ko, doonte saraxu sama mbokk nangu nañu ko ci yitte.",
+    "Ci ñeel ak mer daal di dugg ci sama xol, ma ni damay ray samay mbokk.",
+    "Sama mbokk daf ma artu ma ragal Yàlla, waaye sama ngor nanguwul ma déglu ko.",
+    "Ci jamonoy néew doole bu metti, def naa sama rak jëf ju kenn mënul wax.",
+    "Ginaaw loolu, xamuma woon ni may nëbbee li ma def, ba keroog ñu yónnee ma benn mbindéef ci kaw suuf ngir jàngal ma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Qabil (Kayin)",
+        "Habil (Abel)",
+        "Doomu Yonent Yàlla Nuh",
+        "Boroom bi Ismaail",
+        "Yonent bi Yuusuf"
+      ],
+      "answer": "Qabil (Kayin)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Saraxe sarax bu ñu bañ, mooy yóbbe faat bu njëkk bi",
+        "Tabax ab tour bu kawe ngir yegg ci asamaan si",
+        "ñu sànni la ci safara su tàng ndax ngëmam",
+        "Rendi sa doom ngir déggal Yàlla",
+        "Jën wu mag wann la ndax daw sa wareef"
+      ],
+      "answer": "Saraxe sarax bu ñu bañ, mooy yóbbe faat bu njëkk bi"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Korney bu Yàlla yónnee ngir wane suul",
+        "Mbënd mu mag mi naan askan wi yépp",
+        "Baton bu soppiku nekk jaan juy dundu",
+        "Gaam bu jigéen bu génn ci tundu xeer",
+        "Jalluwaay bu rafet bu ngelaw lu am doole yóbbu"
+      ],
+      "answer": "Korney bu Yàlla yónnee ngir wane suul"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekkoon naa réccu, tiis ci krim bi ñu njëkka def",
+        "Yàlla jéggal na ko, jox ko Aljanna ba fàww",
+        "Ñu yéegal ko ci barab bu kawe ci wax ci kàddug Yàlla ak xam-xam",
+        "Dañu ko muccal ci yërmaande Yàlla ginaaw bimu woote ci lëndëm gu xóot gi",
+        "Dañu ko jox nguur ci kaw jinn yi, ngelaw li ak géej yi."
+      ],
+      "answer": "Nekk naa réccu, tiis ci krim bi ñu njëkka def"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

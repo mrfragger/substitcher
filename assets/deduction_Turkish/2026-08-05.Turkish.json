@@ -1,0 +1,61 @@
+{
+  "title": "Son Gösterinin Günü",
+  "intro": "Büyük bir güç gösterisine çağrılan yetenekli bir grup sanatçı, hayatlarını sonsuza dek değiştirecek beklenmedik bir gerçekle karşı karşıya kaldı.",
+  "clues": [
+    "Bizler, illüzyon ve hile ustaları olarak ün salmıştık.",
+    "Hükümdar tarafından, elinde basit bir asa taşıyan bir meydan okuyucuyla yüzleşmek üzere çağrıldık.",
+    "Gerçeği görünce, âlemlerin Rabbine iman ettiğimizi ilan ederek yere kapandık.",
+    "Zalim yönetici bizi ağır cezalarla tehdit etti, ama biz yılmadık.",
+    "Açık işareti gördükten sonra mesaja inanan ilk kişiler arasındaydık.",
+    "Bizler imanımız uğruna şehit olduk, fakat salihlerle birlikte cennete ilk girecek olanlar biz olacağız."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "Firavun'un Büyücüleri",
+        "İsrailoğulları",
+        "Thamud Halkı",
+        "İsa'nın Öğrencileri",
+        "Abraha Ordusu"
+      ],
+      "answer": "Firavun'un Büyücüleri"
+    },
+    "trial": {
+      "label": "Deneme / Etkinlik",
+      "options": [
+        "Hz. Musa ile yarışma",
+        "Kulenin İnşası",
+        "Büyük Tufan",
+        "Çekirge Salgını",
+        "Bölünen Deniz"
+      ],
+      "answer": "Hz. Musa ile yarışma"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Festival Günü",
+        "Tuwa Vadisi",
+        "Iram Şehri",
+        "Sonsuzluk Bahçesi",
+        "Arafat Ovası"
+      ],
+      "answer": "Festival Günü"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Onlar halkın gözü önünde çarmıha gerildiler.",
+        "Denizde boğuldular.",
+        "Onlar peygamberin takipçileri oldular.",
+        "Onlar sürgüne gönderildiler.",
+        "Onlar ateş tarafından yok edildiler."
+      ],
+      "answer": "Onlar halkın gözü önünde çarmıha gerildiler."
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

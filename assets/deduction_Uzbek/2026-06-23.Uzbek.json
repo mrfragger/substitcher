@@ -1,0 +1,61 @@
+{
+  "title": "Daryo bo'yidagi qo'riqchi",
+  "intro": "Zolimning farmoni ko'plab uylarga qayg'u keltirgan yurtda, bir qalb barcha qo'rquvga qarshi turadigan xabarni oldi. Ishonchga to'la qalb bilan ular millatning yo'nalishini o'zgartiradigan imon harakatiga kirishdilar. Suvlar qimmatbaho yukni olib ketayotgan bir paytda, umid oqimlar bilan aralashdi.",
+  "clues": [
+    "Men zulm va qo'rquv davrida yashadim.",
+    "Menga jasorat bag'ishlagan ilohiy ilhom oldim.",
+    "Menga qo'rqmaslik va xafa bo'lmaslik buyurilgan edi.",
+    "Men bolamni sandiqqa solib, suvga qo'ydim.",
+    "Mening bolamni hukmdorning xonadoni topdi, lekin boshqa farzandim ham uning ortidan keldi.",
+    "Alloh va'da qilganidek, men bolamni emizish uchun uni yana birlashtirdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Musoning onasi",
+        "Fir'avnning xotini",
+        "Musoning singlisi",
+        "Iso Masihning onasi",
+        "Sheba malikasi"
+      ],
+      "answer": "Musoning onasi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Bolani daryoga tashlashga ilhomlanmoqda",
+        "Sehrgarlik dueliga chaqirilish",
+        "Armiya tomonidan ta'qib qilinmoqda",
+        "Ikkiga bo'lingan dengizni kesib o'tish",
+        "Muqaddas uy qurish"
+      ],
+      "answer": "Bolani daryoga tashlashga ilhomlanmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Daryoga qo'yilgan sandiq",
+        "Yonayotgan buta",
+        "Ilonga aylangan tayoq",
+        "Oltin buzoq",
+        "Taxt"
+      ],
+      "answer": "Daryoga qo'yilgan sandiq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Bola xavfsiz tarzda hamshiraning qo'liga qaytarildi",
+        "Bola abadiy yo'qoldi",
+        "Bolani uzoq yurtga olib ketishdi",
+        "Bola darhol hukmdorga aylandi",
+        "Bolani boy savdogar asrab oldi"
+      ],
+      "answer": "Bola xavfsiz tarzda hamshiraning qo'liga qaytarildi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

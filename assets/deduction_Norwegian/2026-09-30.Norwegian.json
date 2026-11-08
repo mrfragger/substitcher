@@ -1,0 +1,61 @@
+{
+  "title": "Den pasienten",
+  "intro": "For lenge siden, i menneskehetens tidligste dager, sto to sjeler foran sin Skaper med offergaver. Den ene ble akseptert, den andre ikke. Det som fulgte skulle bli den første store tragedien mellom søsken – én handling av tålmodig tilbakeholdenhet og én handling av bitter hevn. Kan du avsløre hvem jeg er?",
+  "clues": [
+    "Jeg ble født i de aller første dagene av menneskets eksistens på jorden",
+    "Jeg var et barn av det aller første menneskeparet som noen gang vandret på denne jorden",
+    "Jeg ofret en gang et offer fra den beste delen av min hjord for å behage min Skaper",
+    "Mitt offer ble akseptert ovenfra, mens søskens offer ble avvist",
+    "Da jeg truet med døden, valgte jeg å ikke løfte hånden mot søskenet mitt",
+    "Jeg ble den første personen i hele menneskehetens historie som ble urettmessig drept av en annen"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Habil (Abel), sønn av Adam",
+        "Qabil (Kain), sønn av Adam",
+        "Adam, det første mennesket",
+        "Noah (Nuh)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), sønn av Adam"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Det første drapet i menneskets historie",
+        "Den store flommen i Nuh",
+        "Ødeleggelsen av Fir'awns hær",
+        "Ismails offer av Ibrahim",
+        "Kampen mot Jalut (Goliat)"
+      ],
+      "answer": "Det første drapet i menneskets historie"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "En sau ofret som et velbehagelig offer",
+        "En flott treark",
+        "En stav som ble til en slange",
+        "En hærfugl som bærer et kongelig budskap",
+        "En flammende grøft av ild"
+      ],
+      "answer": "En sau ofret som et velbehagelig offer"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Ble det første offeret for drap i menneskets historie",
+        "Overlevde en stor flom inne i et trefartøy",
+        "Levde i magen til en stor fisk",
+        "Hersket over djinn, mennesker og vinden",
+        "Vandret i førti år i en enorm villmark"
+      ],
+      "answer": "Ble det første offeret for drap i menneskets historie"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

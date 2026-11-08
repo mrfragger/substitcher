@@ -1,0 +1,61 @@
+{
+  "title": "Národ, který zpochybnil Posvátný dům",
+  "intro": "V dávných dobách se mocný národ rozhodl zaútočit na svatyni uctívanou věřícími. Tato skupina byla bohatá, mocná a sebevědomá ve svou vojenskou sílu. Přivedli s sebou obrovského tvora, který jim měl sloužit jako válečná zbraň. Jejich cíl byl jasný: zbořit posvátný dům a zničit víru jeho obyvatel. Jejich arogance se však měla setkat s ničivou odpovědí shůry. Tato historická událost se stala znamením a ponaučením pro všechny, kdo přišli poté. Dokážete tuto skupinu identifikovat podle indicií?",
+  "clues": [
+    "Byli jsme národem požehnaným bohatstvím a vojenskou zdatností.",
+    "Shromáždili jsme síly a přivedli s sebou obrovskou bestii, kterou budeme používat v našem tažení.",
+    "Naším cílem byla posvátná svatyně, kterou jsme chtěli úplně zničit.",
+    "Věřili jsme, že naše síla bude stačit k překonání jakékoli božské ochrany.",
+    "Ale Hospodin na nás seslal trest z nebe, který jsme nečekali.",
+    "Byli jsme zničeni v mžiku, rozptýleni jako nalámaná sláma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé slona",
+        "Lidé z Thamudu",
+        "Lidé z 'Ad",
+        "Společníci jeskyně",
+        "Národ proroka Huda"
+      ],
+      "answer": "Lidé slona"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Pochod slona k posvátnému domu, aby ho zničil",
+        "Stavba věže, která dosáhne nebes",
+        "Stavba zlaté modly k uctívání",
+        "Odmítání naslouchat Alláhovu poslu",
+        "Kopání studny s cílem ublížit věřícím"
+      ],
+      "answer": "Pochod slona k posvátnému domu, aby ho zničil"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Slon",
+        "Zlaté tele",
+        "Musova hůl",
+        "Ryba z Yunusu",
+        "Železo Dawuda"
+      ],
+      "answer": "Slon"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byli zničeni hejny ptáků kameny",
+        "Utopili se ve velké povodni",
+        "Byli proměněni v opice a prasata",
+        "Byli pohřbeni pod padajícími kameny z hory",
+        "Byli spáleni ohněm z nebe"
+      ],
+      "answer": "Byli zničeni hejny ptáků kameny"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

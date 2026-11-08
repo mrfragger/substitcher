@@ -1,0 +1,60 @@
+{
+  "title": "Det tysta bevisets mirakel",
+  "intro": "Du möter en gestaltad berättelse om gudomligt ingripande. En berättelse om mirakulös försörjning och ett mållöst försvar som ekar genom tiden. Kan du avslöja vem som stod inför denna extraordinära prövning?",
+  "clues": [
+    "Jag fick ett gudomligt budskap som förvånade mig",
+    "Mitt folk ifrågasatte min renhet när jag återvände med ett barn",
+    "Jag blev beordrad att fasta från att tala under en period",
+    "En källa med vatten och dadlar uppehöll mig under min prövning",
+    "Min Herre gjorde en mirakulös trädskakning för att försörja mig",
+    "En ängel visade sig för mig i skepnad av en fullkomlig man"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Maryam",
+        "Asia",
+        "Hawa",
+        "Sara",
+        "Khadija"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att föda barn ensam under en palm",
+        "Står inför en dödlig hungersnöd",
+        "Att kastas i en brinnande grop",
+        "Flyr från en tyrannisk härskare",
+        "Att vakta en helig relik"
+      ],
+      "answer": "Att föda barn ensam under en palm"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Palmträd",
+        "Brinnande buske",
+        "Stentempel",
+        "Nilen",
+        "Sinaiberget"
+      ],
+      "answer": "Palmträd"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Min oskuld bevisades när min spädbarnsson talade",
+        "Jag blev en vördad drottning",
+        "Mitt folk förintades genom gudomligt straff",
+        "Jag ledde min nation till seger",
+        "En mirakulös brunn dök upp permanent"
+      ],
+      "answer": "Min oskuld bevisades när min spädbarnsson talade"
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

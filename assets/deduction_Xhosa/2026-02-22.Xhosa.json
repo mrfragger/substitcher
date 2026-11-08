@@ -1,0 +1,61 @@
+{
+  "title": "Umonde Womphefumlo Obandezelekileyo",
+  "intro": "Kwiingxelo zembali, kukho umntu ogama lakhe lithetha ukunyamezela. Lo mntu wavavanywa ngokulahlekelwa yiyo yonke intuthuzelo yehlabathi, kodwa wahlala engumkhonzi ozinikeleyo woMdali. Kwiminyaka yobunzima nokugula komzimba, intliziyo yalo mphefumlo yahlala inamathele elukholweni, inika isibane sethemba kubo bonke abajongene nobunzima.",
+  "clues": [
+    "Ndandingumkhonzi ozinikeleyo ka-Allah, ndisikelelwe ngobutyebi obuninzi, abantwana abaninzi, nempilo entle.",
+    "Ubomi bam batshintsha xa ndahluthwa ubutyebi bam nosapho lwam, ndasala ndingenanto ngaphandle kokholo lwam.",
+    "Ndandigula kakhulu, ndinesifo esibuhlungu nesihlala ixesha elide, esasivavanya imida yokunyamezela komntu.",
+    "Kuyo yonke imbandezelo yam, andizange ndivume ukukhalaza ngeNkosi yam, nangona utshaba lwaluzama ukundikhokelela ekuphelelweni lithemba.",
+    "Ekugqibeleni ndathi ndakubiza iNkosi yam, andizange ndicele ubutyebi, kodwa ndavuma nje ukuba ubunzima bundichukumisile.",
+    "Ndaxelelwa ukuba ndibethe umhlaba ngonyawo lwam, kwaye kuwo kwaphuma umthombo wamanzi abandayo ukuphilisa umzimba wam nokuphelisa unxano lwam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uYaqub",
+        "Umprofeti u-Ayyub",
+        "Umprofeti uZakariya",
+        "Umprofeti uYahya",
+        "Umprofeti uShu'ayb"
+      ],
+      "answer": "Umprofeti u-Ayyub"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Iminyaka yokugula kakhulu kunye nokulahlekelwa",
+        "Ukuphoswa emthonjeni onzulu",
+        "Ukuginywa yintlanzi enkulu",
+        "Ukujongana nomtyholi emlilweni",
+        "Uhambo olude lokufuna utitshala"
+      ],
+      "answer": "Iminyaka yokugula kakhulu kunye nokulahlekelwa"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intonga eyahlula ulwandle",
+        "Ihempe eyayinuka ikhaya",
+        "Umthombo wamanzi ophilisayo",
+        "Intaba eyadilika yaba luthuli",
+        "Umqolomba wobuthongo obunzulu"
+      ],
+      "answer": "Umthombo wamanzi ophilisayo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukuba ngumlawuli welizwe elikhulu",
+        "Ukukhokela umkhosi ukuya empumelelweni",
+        "Ukubuyiselwa kwempilo nosapho",
+        "Ukwakha indlu engcwele yonqulo",
+        "Ukufumana itafile evela ezulwini"
+      ],
+      "answer": "Ukubuyiselwa kwempilo nosapho"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

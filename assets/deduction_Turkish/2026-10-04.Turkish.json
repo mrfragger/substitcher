@@ -1,0 +1,61 @@
+{
+  "title": "Şifayı Getiren Yük",
+  "intro": "Ruh, ölçüsüz bir imtihandan geçerek, rahatlığından, arkadaşlarından ve bedensel gücünden mahrum kaldı. Derin bir ıstırap içinde yalnız kalan bu Allah kulu, yalnızca İlahi olana yöneldi. Sarsılmaz sabrı ve yürekten duası sayesinde, tüm beklentileri aşan bir rahmet dalgası geldi. Adanmışlığıyla kurtuluş kapısını açan bu kişi kimdir?",
+  "clues": [
+    "Ben Allah'ın gözde bir kuluydum; hayatım boyunca bolluk içinde yaşadım, ailem müreffeh bir hayat sürdü ve sağlığım yerindeydi.",
+    "Sonra bir imtihan çöktü: servet gitti, sevdiklerim gitti ve kendi bedenim de büyük bir acıyla vuruldu.",
+    "Yakınlarım durumuma dayanamadı ve ben yalnız kaldım, bedenim acılarla kıvranıyordu.",
+    "Rabbime yalvardım ve şeytanın bana yorgunluk ve azap verdiğini bildirdim.",
+    "Cevap geldi: Ayağımla yere vurmam emredildi ve oradan şifa veren serin su fışkırdı.",
+    "Rabbim, çektiğim zorluğu tamamen ortadan kaldırdı ve düşünenler için bir merhamet işareti olarak ailemi çoğaltarak bana geri verdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Eyyub",
+        "Peygamber Musa",
+        "Peygamber Yusuf",
+        "Peygamber Yunus",
+        "Peygamber İbrahim"
+      ],
+      "answer": "Peygamber Eyyub"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Ağır hastalık ve her şeyin kaybı",
+        "Bir tiranın emriyle ateşe atıldı",
+        "akrabaları tarafından derin bir çukura hapsedildi",
+        "Denizde büyük bir balık tarafından yutuldu.",
+        "Anavatanından uzakta sürgünde dolaşmak"
+      ],
+      "answer": "Ağır hastalık ve her şeyin kaybı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yerden fışkıran serin kaynak.",
+        "Serin ve huzurlu ateş",
+        "Gemi bir dağın üzerinde duruyor.",
+        "Denizi ikiye ayıran asa",
+        "Nehir üzerinde yüzen sepet"
+      ],
+      "answer": "Yerden fışkıran serin kaynak."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Aile ve bereket yeniden sağlandı, ikiye katlandı.",
+        "Yanan yangından yara almadan kurtuldu.",
+        "Krallığın en yüksek makamına yükseldi.",
+        "Büyük bir balığın karnından güvenli bir yere çıktı.",
+        "Bölünmüş bir denizde bir halkı yönetti."
+      ],
+      "answer": "Aile ve bereket yeniden sağlandı, ikiye katlandı."
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

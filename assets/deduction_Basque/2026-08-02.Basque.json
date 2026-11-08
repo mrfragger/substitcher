@@ -1,0 +1,61 @@
+{
+  "title": "Lurraren eta Zeruaren artean",
+  "intro": "Arima misteriotsu bat zain duzu jainkozko historiaren orrialde sakratuetan, mendeetan zehar oraindik oihartzun egiten duten seinale eta mirariak eramanez. Pistak jarraitzen dituzun bitartean, mirariek markatutako istorio batean zehar bidaiatuko duzu — hasiera miragarri batetik zerutik haratago igoera bateraino. Identifikatu al dezakezu zerbitzari bedeinkatu hau azken pistaren aurretik?",
+  "clues": [
+    "Mezulari gisa bidali ninduten Israelgo seme-alabei errukiaren eta argiaren berriekin.",
+    "Nire jaiotza seinale miragarria izan zen — aitarik gabe etorri nintzen mundu honetara, Ahalguztidunaren aginduz.",
+    "Haurra nintzela hitz egin nuen, amaren ohorea bere herriaren akusazioen aurka defendatuz.",
+    "Alaren baimenarekin, buztinezko txoriak moldatu eta bizia eman nien — hegan egin zuten begira zeudenen begien aurrean.",
+    "Jaiotzez itsuak sendatu nituen, legenardunak sendatu nituen eta baita hildakoak piztu ere — hala ere, mirari guztiak Alaren baimenarekin izan ziren, ez nireak.",
+    "Nire etsaiek ni suntsitzeko plan egin zutenean, Alak zeruetara igo ninduen eta Judizioaren Eguna baino lehen itzuliko nintzela agindu zidan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Isa profeta (Jesus)",
+        "Musa (Moises) profeta",
+        "Ibrahim (Abraham) profeta",
+        "Mahoma profeta",
+        "Yusuf (Joseph) profeta"
+      ],
+      "answer": "Isa profeta (Jesus)"
+    },
+    "trial": {
+      "label": "Une erabakigarria",
+      "options": [
+        "Zeruetara igo nintzen",
+        "Su bizian sartu ninduten",
+        "Faraoiaren armada ahaltsuari aurre egin nion",
+        "Balea handi batek irentsi ninduen",
+        "Mendi gainean arka bat eraiki nuen"
+      ],
+      "answer": "Zeruetara igo nintzen"
+    },
+    "location": {
+      "label": "Seinale sakratua egin da",
+      "options": [
+        "Buztinezko txoriak moldatu nituen",
+        "Makila bat suge bihurtu nuen",
+        "Ilargia bitan zatitu dut",
+        "Haizeari eta jinnei agindu nien",
+        "Gamelu eme bat atera nuen harkaitz batetik"
+      ],
+      "answer": "Buztinezko txoriak moldatu nituen"
+    },
+    "outcome": {
+      "label": "Zer bihurtu zen nirekin",
+      "options": [
+        "Zeruetara igoa; itzultzeko promesa egin zuen",
+        "Inperio bateko agintari handi bihurtu zen",
+        "Nire herria gatibutasunetik atera zuen",
+        "Lurreko aberastasun paregabea eman zitzaion",
+        "Banantze luze baten ondoren, nire familiarekin elkartu nintzen"
+      ],
+      "answer": "Zeruetara igoa; itzultzeko promesa egin zuen"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Patli skaut",
+  "intro": "Shamollar, ko'rinmas mavjudotlar va osmondagi mavjudotlar ustidan hukmronlik qilgan bitta qirollik ichida kichik va tezkor a'zo safdan g'oyib bo'ldi - faqat uzoqdagi xalqning taqdirini o'zgartiradigan vahiylar bilan qaytib keldi. Bu o'tkir ko'zli xabarchi johillik ildiz otgan joyda haqiqatni yoritib berdi. Men kimman?",
+  "clues": [
+    "Men odamlar, ko'rinmas mavjudotlar va osmondagi mavjudotlar shamollarga buyruq bergan bitta dono hukmdorga bo'ysunadigan saroyda xizmat qildim.",
+    "Men bir muddat lavozimimda yo'q edim va agar qoniqarli sabab keltirmasam, hukmdorning g'azabi va'da qilingan edi.",
+    "Men uchishga qodir kichik bir jonzotman, o'tkir ko'rish qobiliyatim bilan tanilganman va mening turdoshim vahiy sahifalarida to'g'ridan-to'g'ri nomlanish sharafiga muyassar bo'lgan.",
+    "Qaytib kelganimda, odamlar osmonu yerni yaratgan Zotga ko'r bo'lib, quyoshga sajda qilgan uzoq yurt haqida xabar olib keldim.",
+    "Men buyuk saltanat ustidan hukmronlik qilayotgan, ulug'vor taxtda o'tirgan, ilgari hech qachon haqiqatni bilmagan bir ayolni topdim.",
+    "Men Saba' shohligini kashf etgan va shamol ustidan hukmronlik qilgan payg'ambar-podshohdan taklifnoma olib kelgan odamman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Hupu (Hudhud)",
+        "Sulaymon vodiysidan kelgan chumoli",
+        "Osif ibn Barxiya",
+        "Jin Ifrit",
+        "Arsh farishtasi"
+      ],
+      "answer": "Hupu (Hudhud)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Saba' (Sheba) qirolligiga ekspeditsiya",
+        "Fir'avnning sehrgarlari bilan to'qnashuv",
+        "Nuh payg'ambarning to'foni",
+        "Od qavmining halokati",
+        "Qizil dengizning ikkiga bo'linishi"
+      ],
+      "answer": "Saba' (Sheba) qirolligiga ekspeditsiya"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Saba' (Sheba) yurti",
+        "Sinay tog'i",
+        "Nuh payg'ambarning kemasi",
+        "Ashob al-Kahf g'ori",
+        "Fir'avn saroyi"
+      ],
+      "answer": "Saba' (Sheba) yurti"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Bilqis Sulaymon saroyiga bo'ysundi",
+        "Fir'avn va uning qo'shini dengizda cho'kib ketishdi",
+        "Od qavmi kuchli shamol bilan halok bo'ldi.",
+        "Fir'avnning sehrgarlari Muso payg'ambarga ishonishdi",
+        "Kofirlarni katta suv toshqini yutib yubordi"
+      ],
+      "answer": "Bilqis Sulaymon saroyiga bo'ysundi"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

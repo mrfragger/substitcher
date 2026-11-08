@@ -1,0 +1,61 @@
+{
+  "title": "Verndarar garðsins",
+  "intro": "Í gróskumiklum garði gaf samfélag hátíðlegt heit. En ásetningur þeirra reyndi á þegar guðlegur vilji greip inn í og ​​breytti auðæfum þeirra í hrjóstrugt land.",
+  "clues": [
+    "Við vorum blessuð með gróskumiklum garði en urðum hrokafull.",
+    "Við gerðum áætlun um að uppskera án þess að deila með fátækum.",
+    "Við lögðum af stað snemma morguns, örugg með áætlun okkar.",
+    "En þegar við komum á staðinn komumst við að því að garðurinn okkar hafði verið eyðilagður yfir nóttina.",
+    "Við gerðum okkur grein fyrir mistökum okkar og byrjuðum að kenna hvert öðru um.",
+    "Við iðruðumst loksins, en lexían lærðumst of seint."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hverjir erum við?",
+      "options": [
+        "Fólkið í garðinum",
+        "Fólkið í hellinum",
+        "Fólkið í fílnum",
+        "Fólkið í Thamud",
+        "Fólkið í 'Ad"
+      ],
+      "answer": "Fólkið í garðinum"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Garður breyttist í ösku",
+        "Flóð sem eyðilagði allt",
+        "Hungursneyð sem skall á landið",
+        "Her fugla ræðst á",
+        "Mikill vindur sem reif upp tré með rótum"
+      ],
+      "answer": "Garður breyttist í ösku"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Garður",
+        "Hellir",
+        "Skip",
+        "Fjall",
+        "Höll"
+      ],
+      "answer": "Garður"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Þau iðruðust en misstu garðinn sinn",
+        "Þau voru gjörsamlega eyðilögð",
+        "Þeim var breytt í apa",
+        "Þau voru hólpin fyrir trú",
+        "Þeir urðu stjórnendur"
+      ],
+      "answer": "Þau iðruðust en misstu garðinn sinn"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

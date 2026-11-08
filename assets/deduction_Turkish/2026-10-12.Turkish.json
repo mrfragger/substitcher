@@ -1,0 +1,61 @@
+{
+  "title": "Doğmamışların Yemini",
+  "intro": "Samimi bir ruh, çocuğunun doğumundan önce kutsal bir söz verdi. Bu şahsiyetin öyküsü, bağlılığın ilahi kabulle buluştuğu bir kutsal mekânın duvarları içinde geçiyor. Allah'ın bu kulu kimdir?",
+  "clues": [
+    "Ben Kur'an'da şereflendirilmiş bir aileye mensuptum.",
+    "Doğmamış çocuğumu Allah'ın hizmetine adayacağıma dair ciddi bir yemin ettim.",
+    "Doğum yaptığımda, bir erkek çocuğu beklediğim halde bir kız çocuğu olduğunu görünce çok şaşırdım.",
+    "Çocuğuma, bağlılığı ve hizmeti yansıtan bir isim olan Maryam adını verdim.",
+    "Çocuğumu ve onun soyundan gelenleri lanetli şeytandan korumak için Allah'tan koruma diledim.",
+    "Çocuğum Rabbimiz tarafından kabul edildi ve kutsal mekânda Peygamber Zekeriya'nın himayesine verildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "İmran'ın karısı (Meryem'in annesi)",
+        "Firavunun karısı Asiya",
+        "İsa'nın annesi Meryem",
+        "Hz. Musa'nın annesi",
+        "Saba Kraliçesi"
+      ],
+      "answer": "İmran'ın karısı (Meryem'in annesi)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Çocuğunu tapınağa adayacağına dair yemin etti.",
+        "ateşe atılmak",
+        "Karadan denizi geçmek",
+        "Büyük bir gemi inşa etmek",
+        "Büyük bir balık tarafından yutulmak"
+      ],
+      "answer": "Çocuğunu tapınağa adayacağına dair yemin etti."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Çocuğunun yerleştirildiği mihrap (kutsal yer).",
+        "Ahd sandığı",
+        "altın buzağı",
+        "Yılana dönüşen personel",
+        "Dinlendiği hurma ağacı"
+      ],
+      "answer": "Çocuğunun yerleştirildiği mihrap (kutsal yer)."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Çocuğu kabul edildi ve Peygamber Zekeriya'nın himayesine verildi.",
+        "O, bir zalimin cezasından kurtarıldı.",
+        "Ona Yahya adında bir oğul verildi.",
+        "Halkı bir fırtına tarafından yok edildi.",
+        "Büyük bir krallığın kraliçesi oldu."
+      ],
+      "answer": "Çocuğu kabul edildi ve Peygamber Zekeriya'nın himayesine verildi."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

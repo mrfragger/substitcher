@@ -1,0 +1,61 @@
+{
+  "title": "Müqəddəs Alov Məhkəməsi",
+  "intro": "Hər evdə oyma daşa olan sədaqətin kök saldığı qədim bir diyarda bir nəfər ayrı dayanırdı. Sarsılmaz inam və ilahi qoruma sayəsində onlar mütləq ölümlə üzləşdilər və sağ-salamat ayrıldılar. Bu əlamətdar ruhun kimliyini kəşf edə bilərsinizmi?",
+  "clues": [
+    "Mən öz əlləri ilə yonduqları bütlərə səcdə edən və bu əşyaların ilahi gücə malik olduğuna inanan insanlar arasında böyümüşəm.",
+    "Onların inanclarına etiraz etdiyim zaman əvvəlcə məni rədd etdilər, amma bildiyim həqiqət barədə susa bilməzdim.",
+    "Onlar toplandığı gün bütlərini məhv etdim, yalnız ən böyüyünə toxunmadım.",
+    "Qayıdıb nə etdiyimi görəndə rəhbərləri məni alovlara atmaq niyyətində olaraq böyük bir ocaq tikməyi əmr etdilər.",
+    "Məni alovlu oda atdılar, amma aləmlərin Rəbbi onun mənim üçün sərin və təhlükəsiz olmasını əmr etdi.",
+    "Mən alovdan tamamilə sağ-salamat çıxdım, mənə qarşı sui-qəsd quranlar isə tamamilə məhv oldular."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "İbrahim peyğəmbər",
+        "Musa peyğəmbər",
+        "Nuh peyğəmbər",
+        "İsa peyğəmbər",
+        "Yusif peyğəmbər"
+      ],
+      "answer": "İbrahim peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Alovlu bir oda atılmaq",
+        "Böyük bir balina tərəfindən udulmaq",
+        "Böyük bir daşqından sağ çıxmaq",
+        "Dərin bir quyuya atılır",
+        "Padşahın sehrbazları ilə qarşılaşmaq"
+      ],
+      "answer": "Alovlu bir oda atılmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Yanan odunların nəhəng bir tonqalı",
+        "Böyük bir taxta sandıq",
+        "Qızıl buzov heykəli",
+        "Çayda üzən səbət",
+        "Möhtəşəm bir taxt"
+      ],
+      "answer": "Yanan odunların nəhəng bir tonqalı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Allah odu sərin və təhlükəsiz etdi",
+        "Gəmi təhlükəsiz şəkildə bir dağa endi",
+        "Qızıl büt onların gözləri qarşısında əridi",
+        "Bir zalım və ordusu dənizdə boğuldu",
+        "Kor kişinin görmə qabiliyyəti bərpa edildi"
+      ],
+      "answer": "Allah odu sərin və təhlükəsiz etdi"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

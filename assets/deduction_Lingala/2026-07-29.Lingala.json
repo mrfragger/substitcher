@@ -1,0 +1,61 @@
+{
+  "title": "Kolanda makambo na ndako ya mokonzi",
+  "intro": "Na ba couloirs ya pouvoir, figure moko ya statut ya likolo akomaki kolinga mosali oyo kitoko na ye ezalaki ya mokili mosusu. Kolinga mingi wana ememaki na molɔngɔ́ ya makambo oyo ekomeka bosembo, ekobimisa bosolo oyo ebombami, mpe na nsuka ekondimisa ete mosaleli azali na ngambo te.",
+  "clues": [
+    "Nazalaki kofanda na mokili ya Ebale Nil, na ndako ya mokonzi oyo ezalaki na bopusi monene.",
+    "Elenge mobali moko akoti na ndako na ngai, mpe bozali na ye ebulunganisaki mokili na ngai.",
+    "Namekaki kobengisa ye, kasi alukaki ekimelo epai ya Nkolo na ye.",
+    "Napasolaki elamba na ye na nsima, kasi bilembeteli bimonisaki bokosi na ngai.",
+    "Mpo na kokanga monɔkɔ ya masolo ya basi ya lokumu, nabengisaki bango na liyangani moko mpe natyaki biloko ya makasi na mabɔkɔ na bango.",
+    "Na nsuka, nayambolaki libunga na ngai na miso ya bato nyonso, nandimaki solo liboso ya mokonzi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mwasi ya Al-Aziz",
+        "Asiya (Mwasi ya Farao) .",
+        "Bilqis (Mokonzi-mwasi ya Sheba) .",
+        "Maryam (Mama ya Isa) .",
+        "Maman na Musa"
+      ],
+      "answer": "Mwasi ya Al-Aziz"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Amekaki kobenda Prophète Yusuf",
+        "Amekaki koboma Ntoma Musa",
+        "Alobaki ete azali nzambe-mwasi",
+        "Atongaki tour mpo na kotelemela Allah",
+        "Akambaki limpinga moko mpo na kobundisa Makkah"
+      ],
+      "answer": "Amekaki kobenda Prophète Yusuf"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Chemise oyo epasolamaki na nsima",
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Nzete oyo ebongwanaki nyoka",
+        "Kamela moko ya mwasi",
+        "Mwinda moko"
+      ],
+      "answer": "Chemise oyo epasolamaki na nsima"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ayambolaki mpe andimaki solo",
+        "Azindaki na mai elongo na basoda na ye",
+        "Akómaki likonzí ya mungwa",
+        "Mabelé emɛlaki ye",
+        "Mopɛpɛ moko oyo ezalaki koganga ebebisamaki"
+      ],
+      "answer": "Ayambolaki mpe andimaki solo"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

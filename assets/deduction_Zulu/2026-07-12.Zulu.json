@@ -1,0 +1,61 @@
+{
+  "title": "Idolobha Elilahlekile Lobukhosi Obungenakuqhathaniswa",
+  "intro": "Impucuko enamandla eyake yabusa izindawo ezinkulu zomhlaba, idunyiswa ngezakhiwo eziphakeme ezazifinyelela esibhakabhakeni. Kodwa ngaphansi kwalobu bukhulu, kwanda ukuphika okunenkani - ukwenqaba ukulalela isixwayiso saphezulu esasithunyelwe sivela emphakathini uqobo. Ukuziqhenya nokuzikhukhumeza kwakuzokhipha isijeziso esinjengaso umhlaba namazulu angakaze asibone.",
+  "clues": [
+    "Sake sabusa phezu kwezindawo ezinkulu zomhlaba, siqhosha ngamandla esasikholelwa ukuthi akekho omunye umphakathi ongawalingana nawo.",
+    "Umbuso wethu wawudumile ngezakhiwo ezinde ezinezinsika ezinkulu ezazimi zingenakuqhathaniswa kuwo wonke amazwe aziwayo.",
+    "Kwasukuma isixwayiso esivela emphakathini wakithi, sinxusa ngamunye wethu ukuba azithobe kuMdali Oyedwa kuphela.",
+    "Sawuphika umyalezo esiwunikezwe futhi senqaba ukushiya indlela esasiyizuze njengefa.",
+    "Umoya onamandla nolaka onzima kakhulu wavuthela phezu kwethu, wasishiya singenakuzivikela nhlobo.",
+    "Sashiywa njengeziqu zemithi yesundu ezinemigodi, sihlakazekile futhi sikhohliwe, njengesifundo kuzo zonke izizukulwane ngemva kwalokho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abantu base-A'ad",
+        "Abantu baseNuh",
+        "Abantu bakaLut",
+        "Abantu baseMadyan",
+        "Abantu baseTubba'"
+      ],
+      "answer": "Abantu base-A'ad"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Umoya ovunguzayo ongapheli wesijeziso esinzima",
+        "Isikhukhula esamboza zonke iziqongo zezintaba",
+        "Imvula yamatshe obumba avuthayo avela phezulu",
+        "Ukukhala okukodwa okwesabekayo okuvela emazulwini",
+        "Ukuzamazama komhlaba okukhulu okwahlukanisa izwe"
+      ],
+      "answer": "Umoya ovunguzayo ongapheli wesijeziso esinzima"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "I-Iram, idolobha lezinsika eziphakeme",
+        "Umkhumbi omkhulu wezingodo owakhiwe phezu kwentaba",
+        "Ikamela lensikazi elaphuma ngokuyisimangaliso etsheni",
+        "INtaba iSinayi lapho kwehlela khona imiyalo kaNkulunkulu",
+        "Isigodlo sekristalu nengilazi enhle ebheke amanzi agelezayo"
+      ],
+      "answer": "I-Iram, idolobha lezinsika eziphakeme"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kushiywe njengeziqu zemithi yesundu ezinemigodi, zihlakazekile futhi zingenampilo",
+        "Ukuminza ngaphansi kwamagagasi amakhulu esikhukhula esikhulu",
+        "Yaguqulwa yaba izidalwa ezifana nezinkawu nezingulube",
+        "Kuchotshozwe ngaphansi kwemvula yamatshe obumba aqinile",
+        "Kudliwe ukukhala okukodwa okuyisithulu okwahlaba umphefumulo"
+      ],
+      "answer": "Kushiywe njengeziqu zemithi yesundu ezinemigodi, zihlakazekile futhi zingenampilo"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

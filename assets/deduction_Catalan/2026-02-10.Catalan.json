@@ -1,0 +1,60 @@
+{
+  "title": "El son de les eres",
+  "intro": "Esteu a punt d'embarcar-vos en un viatge a través del temps, trobant-vos amb un profund misteri de fe i poder diví. Imagineu-vos un grup d'individus que desafien les normes de la seva societat, aferrant-se al monoteisme en un món de politeisme. La seva història és un testimoni de la capacitat d'Al·là per protegir els seus servents justos de les maneres més extraordinàries. Podeu desxifrar la identitat d'aquestes figures extraordinàries?",
+  "clues": [
+    "Érem un petit grup de joves que creiem en un sol Déu, malgrat el politeisme generalitzat del nostre poble.",
+    "Vam fugir d'un governant tirànic que ens amenaçava per la nostra fe, per por de la persecució i la mort.",
+    "Vam buscar refugi en un lloc apartat, esperant la misericòrdia d'Al·là i la protecció dels nostres opressors.",
+    "El nostre Senyor ens va fer caure en un son profund, un son miraculós que va desafiar el pas del temps.",
+    "Quan ens vam despertar, crèiem que només havíem descansat un dia o part d'un dia, sense adonar-nos del vast període que realment havia passat.",
+    "L'Alcorà esmenta que vam romandre al nostre estat durant tres-cents anys, i els vam superar en nou, convertint-se en un signe per a la humanitat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La gent de la fossa",
+        "La gent de Thamud",
+        "La gent de la cova",
+        "El poble de Madyan",
+        "Els companys de l'elefant"
+      ],
+      "answer": "La gent de la cova"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Davant d'una gran inundació",
+        "Ser engolit per la terra",
+        "El llarg son miraculós",
+        "La destrucció de la seva ciutat",
+        "La divisió del mar"
+      ],
+      "answer": "El llarg son miraculós"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un arbust ardent",
+        "Una muntanya",
+        "Un vaixell",
+        "Una cova",
+        "Un pou"
+      ],
+      "answer": "Una cova"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Se'ls va concedir una immensa riquesa i poder",
+        "Es van transformar en simis i porcs",
+        "Van ser despertats del son com un senyal profund",
+        "Es van ofegar en un gran diluvi",
+        "Van construir un regne magnífic"
+      ],
+      "answer": "Van ser despertats del son com un senyal profund"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

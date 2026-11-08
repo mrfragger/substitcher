@@ -1,0 +1,61 @@
+{
+  "title": "Hospitalitas quae timorem attulit",
+  "intro": "In urbe sceleribus vastata, servus fidelis hospites inopinatos quodam die accepit. De eorum salute sollicitus, hic homo protectionem obtulit, sed cives rem turpem postulabant. De imminenti clade admonitus, servus cum familia sub tenebris fugit, urbem ad destructionem destinatam relinquens. Quis est hic solus fidelis?",
+  "clues": [
+    "Missus sum nuntius ad populum qui facinora turpia commiserat.",
+    "Ad domum meam venerunt hospites inopinati, et de eorum salute magis quam de mea sollicitus eram.",
+    "Mei hospites meos videre postulaverunt ob nefarias intentiones, et ego cum eis ratiocinari conatus sum.",
+    "Visitatores mei se angelos revelaverunt et mihi mandaverunt ut familiam meam nocte discederem.",
+    "Uxor mea vocationem ad effugiendum non audivit et eandem cladem ac populus meus passa est.",
+    "Urbs mea pluvia lapidum e luto stratificato eversa est, partes eius summae ad infimam redactae sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Lut",
+        "Propheta Musa",
+        "Propheta Ibrahim",
+        "Propheta Nuh",
+        "Propheta Hud"
+      ],
+      "answer": "Propheta Lut"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Postulatio populi mei ut hospites meos improbe adeant",
+        "Maris divisio ad tyrannum effugendum",
+        "Arcae magnae constructio inter derisum",
+        "Sacrificium filii mei in probatione fidei",
+        "Experientia a pisce magno deglutiendi"
+      ],
+      "answer": "Postulatio populi mei ut hospites meos improbe adeant"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Urbs eversa populi mei",
+        "Mons ubi orationem divinam accepi",
+        "Arca quae per magnum diluvium navigavit",
+        "Camella quae e rupe emersit",
+        "Hortus cum occulto iusto hospite"
+      ],
+      "answer": "Urbs eversa populi mei"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Servatus sum cum familia mea antequam urbs mea everteretur",
+        "Populum meum trans mare ad libertatem duxi",
+        "Arcam magnam aedificavi et diluvium ingens supervixi",
+        "Datum mihi est dominium super ventos et jinn",
+        "Patienter dolorem toleravi et familia praemio affectus sum."
+      ],
+      "answer": "Servatus sum cum familia mea antequam urbs mea everteretur"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kankinamos sielos kantrybė",
+  "intro": "Istorijos metraščiuose yra asmenybė, kurios vardas siejamas su ištverme. Šis asmuo buvo išbandytas praradus bet kokį žemišką komfortą, tačiau liko atsidavęs Kūrėjo tarnas. Per daugelį sunkumų ir fizinių negalavimų šios sielos širdis išliko įsišaknijusi tikėjime, teikdama vilties švyturį visiems, susiduriantiems su sunkumais.",
+  "clues": [
+    "Buvau atsidavęs Alacho tarnas, apdovanotas gausiais turtais, daugybe vaikų ir puikia sveikata.",
+    "Mano gyvenimas pasikeitė, kai netekau turtų ir šeimos, o man liko tik tikėjimas.",
+    "Mane kamavo ilgalaikė ir skausminga liga, išbandžiusi pačias žmogaus ištvermės ribas.",
+    "Per visą savo kančią aš atsisakiau skųstis savo Viešpačiu, net kai priešininkas bandė mane įvesti į neviltį.",
+    "Kai pagaliau šaukiausi savo Viešpaties, neprašiau turtų, o tiesiog pripažinau, kad mane ištiko nelaimė.",
+    "Man buvo liepta koja trenkti į žemę, ir iš jos tryško vėsus vanduo, kuris gydė mano kūną ir numalšino troškulį."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Jakubas",
+        "Pranašas Ayyubas",
+        "Pranašas Zakarija",
+        "Pranašas Jahja",
+        "Pranašas Šuayb"
+      ],
+      "answer": "Pranašas Ayyubas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Sunkių ligų ir netekčių metai",
+        "Įmetimas į gilų šulinį",
+        "Praryti milžiniškos žuvies",
+        "Susidūrimas su tironu ugnyje",
+        "Ilga kelionė ieškant mokytojo"
+      ],
+      "answer": "Sunkių ligų ir netekčių metai"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Personalas, kuris perskyrė jūrą",
+        "Marškinėliai, kvepiantys namais",
+        "Gydantis vandens šaltinis",
+        "Kalnas, kuris sugriuvo į dulkes",
+        "Gilaus miego urvas"
+      ],
+      "answer": "Gydantis vandens šaltinis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapimas didžios žemės valdytoju",
+        "Veda armiją į pergalę",
+        "Sveikatos ir šeimos atkūrimas",
+        "Šventų garbinimo namų statyba",
+        "Gauti iš dangaus padengtą stalą"
+      ],
+      "answer": "Sveikatos ir šeimos atkūrimas"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

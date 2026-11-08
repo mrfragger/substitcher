@@ -1,0 +1,61 @@
+{
+  "title": "El conspirador velado",
+  "intro": "Te encuentras ante una figura poderosa de los tiempos de la revelación. Este individuo era conocido por su intelecto, riqueza y estatus entre su gente. Cuando llegaron las señales claras, reconoció su belleza, pero prefirió la rebeldía a la sumisión. ¿Qué impulsó a esta alma a conspirar en la oscuridad, y cuál fue su destino final?",
+  "clues": [
+    "Tuve la suerte de contar con abundantes recursos e influencia, lo que hizo que mi palabra tuviera mucho peso en las asambleas.",
+    "Cuando se recitaron las palabras divinas, no pude negar su elocuencia, pero mi orgullo no me permitió someterme.",
+    "Reuní a mis asesores y me aislé para reflexionar sobre cómo desacreditar el mensaje.",
+    "Tras mucho pensarlo, declaré que no era más que \"magia transmitida desde el pasado\" para ahuyentar a la gente.",
+    "La revelación se dirigió entonces directamente a mí: «Déjame en paz con el que yo creé». Me señalaron por mis intrigas.",
+    "Pronto, el mismo fuego del que me advirtieron me atrapará por el flequillo y no tendré escapatoria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Conspiraron para asesinar al Profeta.",
+        "Lideró un boicot contra los musulmanes.",
+        "Se reunió un consejo para tachar el Corán de mágico.",
+        "Conspiraron para expulsar al Profeta de La Meca.",
+        "Se negó a compartir su riqueza con los huérfanos."
+      ],
+      "answer": "Se reunió un consejo para tachar el Corán de mágico."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La Revelación",
+        "El Consejo",
+        "El flequillo",
+        "La riqueza",
+        "El bolígrafo"
+      ],
+      "answer": "El flequillo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se arrepintió y abrazó el Islam.",
+        "Emigró a Abisinia.",
+        "Le sobrevino una enfermedad mortal.",
+        "Murió en batalla contra los musulmanes.",
+        "Fue condenado al fuego del infierno."
+      ],
+      "answer": "Fue condenado al fuego del infierno."
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

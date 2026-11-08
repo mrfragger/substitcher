@@ -1,0 +1,61 @@
+{
+  "title": "L-Abitanti taż-Żewġ Ġonna",
+  "intro": "F’art fejn il-barkiet kienu jinfirxu b’abbundanza, komunità darba gawdiet l-abbundanza ta’ żewġ ġonna magnifiċi. Ħajjithom kienet xhieda tal-favur divin, iżda l-istorja tagħhom ħadet bidla meta l-gratitudni naqset, u wasslet għal trasformazzjoni li kienet se ssir sinjal dejjiemi għal dawk kollha li jirriflettu.",
+  "clues": [
+    "Konna poplu mbierek b'art mimlija kwiet u abbundanza.",
+    "Sidna tana żewġ ġonna mill-isbaħ, ħadra u produttivi minn kull naħa.",
+    "Ġejna kmandati biex inkunu grati, imma għażilna l-ingratitudni u dorna triqitna.",
+    "Diga kbira żammet lura l-ilmijiet li taw il-ħajja lil artna.",
+    "Meta persistajna fl-għemil ħażin tagħna, id-diga nfaqgħet u l-ilmijiet tal-għargħar għaddew minn ġo fina.",
+    "Il-ġonna tagħna li darba kienu jgħumu ġew sostitwiti bi frott morr, tamariski, u ftit siġar tal-lotu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "In-Nies ta’ Saba",
+        "Il-Poplu ta’ Thamud",
+        "Il-Poplu ta' Madyan",
+        "Il-Kumpanji tal-Għar",
+        "In-Nies tal-Iljunfant"
+      ],
+      "answer": "In-Nies ta’ Saba"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Riħ qawwi għal sebat iljieli",
+        "Xita ta’ ġebel mis-sema",
+        "Għargħar distruttiv minn diga li qed tinfaqa’",
+        "Għajta qawwija mis-sema",
+        "Għerqa fil-baħar"
+      ],
+      "answer": "Għargħar distruttiv minn diga li qed tinfaqa’"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Id-diga l-kbira ta' Ma'rib",
+        "Il-wied ta' Wadi al-Qura",
+        "Il-ġnien ta’ Iram",
+        "Il-bir ta’ Zamzam",
+        "Il-muntanja tas-Sinaj"
+      ],
+      "answer": "Id-diga l-kbira ta' Ma'rib"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-ġonna tagħna ġew sostitwiti bi frott morr u siġar skarsi",
+        "Belagħna mill-art f’terremot",
+        "Ġejna trasformati f'xadini u ħnieżer",
+        "Għerqna f’għargħar kbir",
+        "Ġejna meqruda minn xita ta’ ġebel"
+      ],
+      "answer": "Il-ġonna tagħna ġew sostitwiti bi frott morr u siġar skarsi"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

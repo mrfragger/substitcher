@@ -1,0 +1,61 @@
+{
+  "title": "Pierwsza dusza, która stanęła",
+  "intro": "Na długo zanim jakikolwiek posłaniec stąpał po ziemi, zanim objawiono jakiekolwiek pismo, narodziła się istota niepodobna do żadnej innej. Ta dusza została ukształtowana przez boskie dłonie, otrzymała miejsce o niezrównanym pięknie i została wystawiona na próbę w sposób, który odbił się echem w całej historii ludzkości. To, co nastąpiło, było historią słabości, szczerej skruchy i przeznaczenia, które na zawsze zmieniło bieg stworzenia. Czy potrafisz zgadnąć, kim ona jest?",
+  "clues": [
+    "Zostałem uformowany rękami Najmiłosierniejszego z samego prochu ziemi",
+    "Dano mi dom o niezrównanym pięknie, gdzie żaden głód ani zmęczenie nie mogły mnie dotknąć",
+    "Nakazano mi nigdy nie zbliżać się do żadnego drzewa, ponieważ było to zabronione",
+    "Mój towarzysz i ja zostaliśmy oszukani i podeszliśmy do zakazanego drzewa wbrew nakazowi naszego Pana",
+    "Zwróciliśmy się do naszego Pana z szczerą skruchą i odpuszczono nam nasze przewinienia",
+    "Od nas pochodzi cała ludzkość; ja jestem pierwszym, który stąpa po tej ziemi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Adam",
+        "Prorok Musa",
+        "Prorok Noh",
+        "Prorok Yusuf",
+        "Prorok Isa"
+      ],
+      "answer": "Prorok Adam"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Kuszenie zakazanym drzewem",
+        "Konfrontacja z faraonem",
+        "Budowanie wielkiej Arki",
+        "Ofiara ukochanego syna",
+        "Wrzucenie w wielki ogień"
+      ],
+      "answer": "Kuszenie zakazanym drzewem"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Zakazane drzewo",
+        "Płonący krzew",
+        "Złoty Kostur",
+        "Wielka Arka",
+        "Złoty cielec"
+      ],
+      "answer": "Zakazane drzewo"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zesłany na Ziemię jako pierwszy opiekun ludzkości",
+        "Faraon i jego armia utonęli w morzu",
+        "Wielka powódź zniszczyła niegodziwych",
+        "Ogień stał się chłodny i spokojny",
+        "Otrzymał władzę nad królestwem Egiptu"
+      ],
+      "answer": "Zesłany na Ziemię jako pierwszy opiekun ludzkości"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

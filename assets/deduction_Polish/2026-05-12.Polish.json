@@ -1,0 +1,61 @@
+{
+  "title": "Nieustępliwa władza",
+  "intro": "W starożytnych krainach niegdyś panowała potężna władza, dysponująca ogromnymi zasobami i życiem niezliczonych ludzi. Pomimo wyraźnych znaków i ostrzeżeń, władca ten wybrał drogę buntu, prowadząc do głębokiej konfrontacji, która odbiła się echem w czasie.",
+  "clues": [
+    "Zadeklarowałem, że mam pełną władzę i autorytet nad rozległym terytorium.",
+    "Wyzwałem pokornego posłańca wysłanego przez Pana wszystkich królestw.",
+    "Mój lud słynął ze znakomitego budowania wielkich budowli i rzeki, która podtrzymywała naszą cywilizację.",
+    "Byłem świadkiem wielu cudownych znaków, m.in. przemiany laski w węża i świecącej ręki.",
+    "Nie zgodziłem się, aby grupa zniewolonych ludzi opuściła moją ziemię, pomimo boskich nakazów.",
+    "W pogoni za odchodzącym ludem doprowadziłem siebie i moje armie w samo serce rozdartego morza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Yusuf",
+        "Król Talut",
+        "Fir'awn (Faraon)",
+        "Prorok Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Faraon)"
+    },
+    "trial": {
+      "label": "Kluczowa konfrontacja",
+      "options": [
+        "Powódź, która pochłonęła ziemię",
+        "Rozdzielenie morza",
+        "Płonący krzew",
+        "Budowa Kaaby",
+        "Zniszczenie przez potężny wiatr"
+      ],
+      "answer": "Rozdzielenie morza"
+    },
+    "location": {
+      "label": "Definiujący aspekt",
+      "options": [
+        "Mówiące zwierzę",
+        "Laska i świecąca ręka",
+        "Cudowne narodziny",
+        "Latający dywan",
+        "Majestatyczny tron ​​na wodzie"
+      ],
+      "answer": "Laska i świecąca ręka"
+    },
+    "outcome": {
+      "label": "Ostateczny los",
+      "options": [
+        "Wstąpił do nieba",
+        "Pochłonięty przez ziemię",
+        "Utonął w morzu",
+        "Przemieniony w małpę",
+        "Mając ogromne bogactwo i władzę"
+      ],
+      "answer": "Utonął w morzu"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

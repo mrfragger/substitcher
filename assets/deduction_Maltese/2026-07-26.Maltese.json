@@ -1,0 +1,61 @@
+{
+  "title": "Il-Kuruna Li Sfidat Is-Smewwiet",
+  "intro": "Fil-kurituri tas-saltniet tal-qedem, isem ta’ ħakkiem wieħed sar sinonimu mat-tirannija u l-arroganza. Meta qaddej umli ta’ Alla wasal b’sinjali innegabbli, dan is-sovran setgħan irrifjuta li jċedi għall-verità. Illum, il-kompitu tiegħek hu li tidentifika din il-figura leġġendarja li d-dominju tagħha sfaxxa u d-destin tagħha ġie ssiġillat taħt il-mewġ.",
+  "clues": [
+    "Jiena l-aktar ħakkiem li jibża' li ismu għadu jidwi bħala twissija matul iż-żminijiet.",
+    "Jiena ordnajt poplu sħiħ biex jaħdem fil-ktajjen, jibni monumenti li pproklamaw il-glorja tiegħi.",
+    "Meta messaġġier ta’ Alla ġie quddiemi b’sinjali inkontestabbli, jien irrifjutajt li nmil u sejjaħtilha seħer.",
+    "Jiena ddekrejt il-qtil tat-trabi subien fost poplu jasar, bit-tama li negħreq l-ispirtu tagħhom qabel ma jkunu jistgħu jqumu.",
+    "Qgħadt quddiem il-qorti tiegħi u ddikjarajt, 'Jiena l-ogħla sid tagħkom,' u talabt qima bħala alla.",
+    "Bil-prim ministru tiegħi maġenbi, bnejt struttura għolja bl-għan li titla’ lil hinn mis-smewwiet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Fargħun (Fir'awn)",
+        "Namrud",
+        "Ħaman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Fargħun (Fir'awn)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-għarqa fil-Baħar l-Aħmar",
+        "Il-ġemela mibgħuta lin-nies ta’ Thamud",
+        "Id-dilluvju kbir ta’ Nuh",
+        "Il-kastig tal-Kumpanji tat-Trinka",
+        "Il-qerda tal-armata ta' Abraha mill-għasafar"
+      ],
+      "answer": "L-għarqa fil-Baħar l-Aħmar"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "L-istruttura għolja mibnija ma’ Ħaman",
+        "L-arka li baħħret fuq id-dilluvju",
+        "L-għoġol tad-deheb magħmul mis-Samiri",
+        "It-tron ta' Bilqis, ir-Reġina ta' Saba",
+        "L-għar taż-żgħażagħ reqdin"
+      ],
+      "answer": "L-istruttura għolja mibnija ma’ Ħaman"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Għereq fil-baħar; ġismu ppreservat bħala twissija",
+        "Eżiljat u mġiegħel jiġġerra fid-deżert",
+        "Trasformati f'xadini bħala kastig",
+        "Milqut minn terremot vjolenti",
+        "Maħruq minn xita ta’ ġebel mis-sema"
+      ],
+      "answer": "Għereq fil-baħar; ġismu ppreservat bħala twissija"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

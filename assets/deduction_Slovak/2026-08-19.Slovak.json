@@ -1,0 +1,61 @@
+{
+  "title": "Národ, ktorý sa vzoprel prirodzenému poriadku",
+  "intro": "V regióne, ktorého príbeh sa ozýva naprieč vekmi, žila komunita v otvorenej vzbure proti zákonom čistoty. Ich činy boli také bezprecedentné, že sa na ne spomína ako na varovanie pre celé ľudstvo. Kto boli tieto duše a aký osud ich postihol?",
+  "clues": [
+    "Bývali sme v krajine pozdĺž cesty, ktorou cestovatelia často prechádzali, ale my sme im cestu robili nebezpečnou.",
+    "Dopustili sme sa takých neslušných činov, akých sa nikto na svete predtým nedopustil.",
+    "Posol spomedzi nás nás vyzýval, aby sme opustili svoje cesty, ale my sme ho odmietli a požadovali trest, ak hovoril pravdu.",
+    "Keď do nášho mesta prišli pekní hostia, snažili sme sa ich napadnúť, nevediac, že ​​sú poslami skazy.",
+    "Boli sme varovaní pred hrozným trestom, ak neprestaneme, ale my sme sa varovaniu vysmievali a zostali sme vo svojom hriechu.",
+    "Z neba na nás padol dážď kameňov a naše domy sa zrútili, pričom po sebe nezanechali ani stopu, iba znamenie pre tých, ktorí sa zamýšľajú."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Ľudia z Luta",
+        "Ľudia z Thamudu",
+        "Ľudia z A'adu",
+        "Ľudia z Madyanu",
+        "Ľudia zo Saby"
+      ],
+      "answer": "Ľudia z Luta"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Dopustil sa bezprecedentnej nemravnosti a zablokoval cesty",
+        "Uctieval zlaté teľa",
+        "Zabil posvätnú ťavu",
+        "Podvádzali v obchode a okrádali ľudí",
+        "Postavil vznešenú vežu, aby vyzval nebesia"
+      ],
+      "answer": "Dopustil sa bezprecedentnej nemravnosti a zablokoval cesty"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Anjeli prezlečení za pekných hostí",
+        "Ťava vychádzajúca zo skaly",
+        "Zamestnanec premieňajúci sa na hada",
+        "Loď postavená na hore",
+        "Oheň, ktorý sa stal chladným a pokojným"
+      ],
+      "answer": "Anjeli prezlečení za pekných hostí"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Zničený dažďom kameňov z neba",
+        "Pohltený zemou",
+        "Utopený vo veľkej povodni",
+        "Zasiahnutý kričiacim výbuchom",
+        "Premenené na opice"
+      ],
+      "answer": "Zničený dažďom kameňov z neba"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

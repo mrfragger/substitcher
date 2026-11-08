@@ -1,0 +1,61 @@
+{
+  "title": "Maan äärien halki kulkenut hallitsija",
+  "intro": "Kuvittele voimakas hallitsija, jolle on annettu voima ja valta maan yli. Tämä hahmo lähti uskomattomille matkoille, saavuttaen paikan, jossa aurinko laskee, ja paikan, jossa se nousee, kohtaaen outoja kansoja ja kohdaten suuren haasteen kahdelta turmeltuneelta kansakunnalta. Kuka on tämä arvoituksellinen johtaja?",
+  "clues": [
+    "Olin hallitsija, jolle oli annettu valta ja keinot tavoittaa maan syvimmätkin kolkat.",
+    "Matkustin länteen ja näin auringonlaskun sameassa keväässä.",
+    "Kohtasin nousevan auringon lähellä ihmisiä, joilla ei ollut suojaa sen kuumuudelta.",
+    "Eräs toinen yhteisö pyysi minulta apua kahta turmeltunutta kansakuntaa, Gogia ja Magogia, vastaan.",
+    "Rakensin raudasta ja sulasta kuparista esteen niiden eristämiseksi.",
+    "Julistin, että tämä este oli Herrani armoa ja että se pysyy määrättyyn aikaan asti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Profeetta Sulaiman",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Esteen rakentaminen Gogia ja Magogia vastaan",
+        "Selviytyminen suuresta tulvasta",
+        "Heitetään tuleen",
+        "Meren ylitys",
+        "Taistelee jättiläistä vastaan"
+      ],
+      "answer": "Esteen rakentaminen Gogia ja Magogia vastaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Raudan ja kuparin muodostama este",
+        "Sauva, josta tuli käärme",
+        "Puinen laiva",
+        "Lasinen palatsi",
+        "Taatelipalmujen puutarha"
+      ],
+      "answer": "Raudan ja kuparin muodostama este"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Goog ja Magog pidettiin eristyksissä määrättyyn aikaan asti",
+        "Hänestä tuli profeetta",
+        "Häntä rangaistiin ylimielisyydestä",
+        "Hän valloitti koko maailman",
+        "Hän eli ikuisesti"
+      ],
+      "answer": "Goog ja Magog pidettiin eristyksissä määrättyyn aikaan asti"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

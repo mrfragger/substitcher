@@ -1,0 +1,61 @@
+{
+  "title": "Leek ülbuse palees",
+  "intro": "Muistse maailma võimsaima palee suurte müüride taga elas kuju, kelle südames oli saladus, mida ükski kuninglik dekreet ei suutnud vaigistada. Samal ajal kui kõik ümberringi kummardasid valejumalaid, põles selle hinge sees vaikne usk. Selle maa valitseja pidas end jumalikuks, kuid see inimene valis tõe mugavuse asemel ja pühendumuse turvalisuse asemel. Täna on teie ülesanne avastada, kes oli see julge hing, kelle lugu on endiselt üks võimsamaid näiteid vankumatust usust.",
+  "clues": [
+    "Ma elasin tohutu rikkuse ja võrratu hiilguse paigas, kus maa valitsejal oli absoluutne võim kõige üle.",
+    "Samal ajal kui mu ümber olevad inimesed kummardasid valejumalaid, hoidsin mina oma südames vaikset usutuld.",
+    "Avastasin ja lapsendasin lapse, kes toodi minuni ebatavalisel moel – mitte sünni, vaid suure jõe vete kaudu.",
+    "Ma palvetasin oma Issanda poole, paludes kodu Tema lähedal paradiisis ja päästmist mind ümbritsevast türanniast.",
+    "Laps, keda ma kasvatasin, kasvas üles selleks, et esitada väljakutse valitsejale, kes kontrollis minu saatust, ja ma jäin oma usus kindlaks isegi siis, kui mind ähvardati.",
+    "Mina olen see, kelle nime Koraanis austatakse usu eeskujuna ja ma elasin vaarao enda palees."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Asiya, vaarao naine",
+        "Maryam, Isa ema",
+        "Bilqis, Seeba kuninganna",
+        "Prohvet Luti naine",
+        "Imrani naine"
+      ],
+      "answer": "Asiya, vaarao naine"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Hüljatud imiku avastamine ja kasvatamine, kellest sai suur prohvet",
+        "Türann heidab ta suurde tulle",
+        "Tunnistades suurt üleujutust, mis hävitas terve rahva",
+        "Datlipalmi raputamise ja toitumise tunnistajaks",
+        "Poja saamine hoolimata kõrgest east"
+      ],
+      "answer": "Hüljatud imiku avastamine ja kasvatamine, kellest sai suur prohvet"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Võrratu hiilgusega kuninglik palee",
+        "Suur laev, mis on ehitatud üleujutuse talumiseks",
+        "Mägedes peidetud sügav koobas",
+        "Mäetipul tehtud lõõmav lõke",
+        "Müüridega ümbritsetud aed"
+      ],
+      "answer": "Võrratu hiilgusega kuninglik palee"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Allahi tahtel anti kodu paradiisis",
+        "Suur veeuputus hävitas iidse rahva uskmatud",
+        "Selles maailmas anti tohutu võimu ja autoriteediga kuningriik",
+        "Võimas armee hajutati lendvate lindude poolt",
+        "Jumalikkust väitnud türann uppus merre"
+      ],
+      "answer": "Allahi tahtel anti kodu paradiisis"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

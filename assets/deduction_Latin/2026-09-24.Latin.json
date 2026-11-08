@@ -1,0 +1,61 @@
+{
+  "title": "Princeps Qui Divinitatem Postulavit",
+  "intro": "Princeps potens et arrogans credebat neminem super solium suum stare. Fugientes gregem per vastum aquae corpus persecuti sunt, sed finem dramaticum experti sunt. Fabula huius regis per multa Corani loca resonat, omnibus quasi admonitio inserviens.",
+  "clues": [
+    "Potens princeps eram qui nullam auctoritatem meam in terris quas regebam superare credebat.",
+    "Vizier mihi fidus nomine Aman erat, qui me adiuvit in perficiendis magnis operibus architecturae.",
+    "Optimos magos terrae meae vocavi ut signa nuntii qui mihi adversabatur provocarent.",
+    "Nolui populum intra regnum meum servitum discedere, pestibus et perspicuis monitis obstantibus.",
+    "Per mare vastum persecutus sum eos cum omni exercitu meo et curribus.",
+    "Illud ipsum mare me measque copias superclusum est, nos omnes submergens, dum illi tuto transierunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Fir'awn (Pharao)",
+        "Namrud",
+        "Abu Lahab",
+        "Aman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Pharao)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Plagae et conflictus cum Musa (Moses)",
+        "Arcae aedificatio ante magnum diluvium",
+        "Pugna contra Jalut in valle",
+        "A balaena deglutiri",
+        "Pondera mercaturae honestae defendere"
+      ],
+      "answer": "Plagae et conflictus cum Musa (Moses)"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Turres altae et pali",
+        "Arca lignea magna",
+        "Vitulus aureus",
+        "Baculus qui in serpentem conversus est",
+        "Balaena ingens"
+      ],
+      "answer": "Turres altae et pali"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In mari cum exercitu submersi",
+        "Misericordia et patientia Dei servati, praemiati.",
+        "Post annos difficultatum cum familia iterum coniunctus",
+        "A terra absorptus",
+        "In igne combustus"
+      ],
+      "answer": "In mari cum exercitu submersi"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

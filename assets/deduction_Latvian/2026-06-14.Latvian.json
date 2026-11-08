@@ -1,0 +1,61 @@
+{
+  "title": "Liesma, kas atklāja mantojumu",
+  "intro": "Pretošanās annālēs ir minēta persona, kuras vārds pats par sevi kļuva par brīdinājumu līdz laiku beigām. Šī persona izvēlējās naidu, nevis radniecību, nepakļaušanos, nevis pakļaušanos, un nostājās pretī žēlsirdības aicinājumam. Ieklausieties uzmanīgi senā paziņojuma atbalsīs, kad mēs atklājam šīs bēdīgi slavenās dvēseles identitāti.",
+  "clues": [
+    "Es piedzimu tajā pašā klanā, kurā beidzās Allāha vēstnesis, tomēr es nostājos pret viņiem ik uz soļa.",
+    "Manam vārdam bija nozīme — vārds, kas nozīmēja “liesmu tēvs”, vārds, kas paredzēja manu mūžīgo likteni.",
+    "Es laidu vaļā ļaunumu pret patiesības nesēju, un pat mana paša ģimene pievienojās šai nežēlības kampaņai.",
+    "Es izmantoju savu bagātību un ietekmi, lai apklusinātu Allāha aicinājumu, ticot, ka nauda var apdzēst dievišķo gaismu.",
+    "Allāhs man veltīja veselu nodaļu – nodaļu, kas ir tik īsa, ka to var noskaitīt sekundēs, tomēr tās svars saglabājas līdz Tiesas dienai.",
+    "Mans biedrs Aizsaulē iet man aiz muguras, sasiets ar šķiedras virvi ap kaklu, nesdams tos pašus ērkšķus, ko viņi mēdza izplatīt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Abu Lahābs",
+        "Abu Džahls",
+        "Varakā ibn Navfāls",
+        "Umaija ibn Halafs",
+        "Ukba ibn Abi Muajt"
+      ],
+      "answer": "Abu Lahābs"
+    },
+    "trial": {
+      "label": "Konfrontācijas definēšana",
+      "options": [
+        "Vadot opozīciju pret pravieti Mekā",
+        "Migrācija uz Abesīniju, lai izvairītos no vajāšanas",
+        "Kaabas celtniecība kopā ar pravieti Ibrahimu",
+        "Pieņemot islāmu uz nāves gultas",
+        "Hudaibijas līguma noslēgšana"
+      ],
+      "answer": "Vadot opozīciju pret pravieti Mekā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Sieva, kas nesa ērkšķus un malku",
+        "Personāla, kas pārvērtās par čūsku",
+        "Gredzens ar Zālamana zīmogu",
+        "Zelta teļš, ko pielūdza tauta",
+        "Avots, kas straumēm šļāca ūdeni"
+      ],
+      "answer": "Sieva, kas nesa ērkšķus un malku"
+    },
+    "outcome": {
+      "label": "Galīgā atmaksa",
+      "options": [
+        "Atklāta visa sura, kas pasludina pilnīgu sagrāvi",
+        "Kļuva par musulmaņu kopienas līderi",
+        "Saņēma piedošanu nāves brīdī",
+        "Medīnā uzcēla lielu mošeju",
+        "Augšāmcēlās starp taisnīgajiem"
+      ],
+      "answer": "Atklāta visa sura, kas pasludina pilnīgu sagrāvi"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

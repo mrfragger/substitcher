@@ -1,0 +1,61 @@
+{
+  "title": "Məhkəmə Təqibi",
+  "intro": "Hakimiyyət dəhlizlərində yüksək statusa malik bir şəxs gözəlliyi başqa dünyalardan fərqli olan bir xidmətçiyə vuruldu. Bu aşiqlik sədaqətləri sınayan, gizli həqiqətləri aşkar edən və nəticədə xidmətçinin günahsızlığını təsdiqləyən bir sıra hadisələrə səbəb oldu.",
+  "clues": [
+    "Mən Nil torpağında, böyük nüfuza malik bir sarayda yaşayırdım.",
+    "Gənc bir oğlan evimə gəldi və onun varlığı dünyamı qarışdırdı.",
+    "Mən onu yoldan çıxarmağa çalışdım, amma o, Rəbbinə sığındı.",
+    "Mən onun paltarını arxadan cırdım, amma dəlillər mənim yalanımı göstərirdi.",
+    "Zadəgan qadınların dedi-qodularını susdurmaq üçün onları bir məclisə dəvət etdim və əllərinə iti əşyalar verdim.",
+    "Sonda günahımı açıq şəkildə etiraf etdim və padşahın qarşısında həqiqəti etiraf etdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Əl-Əzizin həyat yoldaşı",
+        "Asiya (Fironun arvadı)",
+        "Bilqis (Səba kraliçası)",
+        "Məryəm (İsanın anası)",
+        "Musanın anası"
+      ],
+      "answer": "Əl-Əzizin həyat yoldaşı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "O, Yusif peyğəmbəri yoldan çıxarmağa çalışdı",
+        "O, Musa peyğəmbəri öldürməyə cəhd etdi",
+        "O, özünü tanrıça adlandırdı",
+        "O, Allaha meydan oxumaq üçün bir qüllə tikdi",
+        "O, Məkkəyə qarşı bir orduya rəhbərlik etdi"
+      ],
+      "answer": "O, Yusif peyğəmbəri yoldan çıxarmağa çalışdı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Arxadan cırılmış köynək",
+        "Qızıl buzov",
+        "İlana çevrilən bir əsa",
+        "Dişi dəvə",
+        "Bir lampa"
+      ],
+      "answer": "Arxadan cırılmış köynək"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "O, həqiqəti etiraf etdi və qəbul etdi",
+        "O, ordusu ilə birlikdə boğuldu",
+        "O, duz sütununa çevrildi",
+        "O, yer tərəfindən uduldu",
+        "O, qışqırıqlı bir külək tərəfindən məhv edildi"
+      ],
+      "answer": "O, həqiqəti etiraf etdi və qəbul etdi"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

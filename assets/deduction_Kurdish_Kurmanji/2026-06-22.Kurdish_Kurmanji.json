@@ -1,0 +1,61 @@
+{
+  "title": "Bawermendê Veşartî",
+  "intro": "Li holên dewlemend ên desthilatdariyê, ku bêbawerî û zordarî li wir serdest bûn, dengekî tenê yê rastiyê ji cihekî nedihat hêvîkirin axivî. Vê kesayetiyê desthilatdariya parastina peyamberekî xist ber xeterê, ewlehiya xwe xist xeterê da ku rastiyê ragihîne.",
+  "clues": [
+    "Ez li welatekî zordestiya mezin dijîm, û xizmeta hukumdarekî dikir ku îdîa dikir ew xweda ye.",
+    "Min baweriyên xwe yên rastîn bi salan veşartî hiştin, ji ber ku ez ji encamên eşkerekirina wan ditirsiyam.",
+    "Dema ku peyamberek bi nîşanên eşkere hat, min bawerî anî, lê gelê min li dijî wî komplo kir.",
+    "Ez li ber zalim û encumena wî rawestiyam û min got ku divê ew peyamberekî bêguneh nekujin.",
+    "Min wan ji cezayê miletên berê yên ku rastî red kirin, mîna gelê Nûh û Ad, hişyar kir.",
+    "Xwedê min ji planên wan ên xerab xilas kir, û min hilweşîna rejîma zalim dît."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Bawermendê Malbata Fîrewn",
+        "Sêrbazê Fîrewn",
+        "Wezîrê Fîrewn",
+        "Jina Fîrewn",
+        "Xezînedarê Fir'ewn"
+      ],
+      "answer": "Bawermendê Malbata Fîrewn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Parastina pêxemberekî li dijî darvekirinê",
+        "Dijberkirina hîleyên sêrbazekî",
+        "Avakirina bircê ji bo gihîştina asîman",
+        "Ji bo revê deryayê vediqetînin",
+        "Şîrovekirina xewna padîşahekî"
+      ],
+      "answer": "Parastina pêxemberekî li dijî darvekirinê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Dadgeha Fîrewn",
+        "Dara şewitî",
+        "Golika zêrîn",
+        "Kaniya Medyenê",
+        "Keştiya Pêxember Nûh"
+      ],
+      "answer": "Dadgeha Fîrewn"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Dema ku zordar hatin tunekirin, ji zirarê hatin xilas kirin",
+        "Bû serwerekî bi hêz",
+        "Hat avêtin nav agir û bê zirar derket",
+        "Ji aliyê erdê ve hat daqurtandin",
+        "Çil salan li çolê geriya"
+      ],
+      "answer": "Dema ku zordar hatin tunekirin, ji zirarê hatin xilas kirin"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Böyük Ambisiyanın Axmaqlığı",
+  "intro": "Cəsarətli planları gözlənilməz və güclü bir sonluqla nəticələnən kollektiv bir varlığın kimliyini kəşf etmək üçün səyahətə çıxın. Bu hekayə, müqəddəsə qarşı çıxdıqda ilahi qüdrətin və dünyəvi gücün kövrəkliyinin dərin bir xatırlatmasıdır. Hekayəsi Quranda həddi aşmaq istəyən hər kəs üçün bir xəbərdarlıq olaraq həkk olunmuş bu qrupun sirrini açın.",
+  "clues": [
+    "Gücümüzün misilsiz olduğuna inanaraq böyük bir ambisiyamız var idi və aydın, dağıdıcı bir məqsədlə yola düşdük.",
+    "Təkəbbürlə dolu liderimiz, ziyarəti bizim tərəfimizdən tikilmiş bir tikiliyə yönəltmək məqsədi ilə, çoxlarının hörmət etdiyi müqəddəs Evi murdarlamağa çalışdı.",
+    "Uzaq bir diyardan, Müqəddəs Şəhərdəki qədim binanı sökmək qabiliyyətimizə əmin olaraq böyük bir qüvvə ilə yürüş etdik.",
+    "Ordumuz möhtəşəm canlıların başçılığı ilə nəhəng idi və işğal etdiyimiz torpağın sakinləri tərəfindən nadir hallarda, bəlkə də heç görülməmiş bir mənzərə.",
+    "Təyinat yerimizə çatanda ilahi bir müdaxilə baş verdi; kiçik, qanadlı məxluqlar peyda olub bizə bişmiş gil daşları atdılar.",
+    "Bütün ekspedisiyamız dağıdıcı bir sonluqla başa çatdı, nəhəng qüvvələrimiz çeynənmiş saman kimi tamamilə məhv edildi, böyük planımız isə toza çevrildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Səmud xalqı",
+        "Ad xalqı",
+        "Sodom xalqı",
+        "Fil Xalqı",
+        "Bağ Əhli"
+      ],
+      "answer": "Fil Xalqı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük Daşqın",
+        "Kəbəyə qarşı kampaniya",
+        "Bütlərin məhv edilməsi",
+        "Dənizin İkiyə Bölünməsi",
+        "Mədiyan zəlzələsi"
+      ],
+      "answer": "Kəbəyə qarşı kampaniya"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Kəbə",
+        "Qızıl buzov",
+        "Atəş"
+      ],
+      "answer": "Kəbə"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İlahi qurtuluş",
+        "Uzun bir rifah dövrü",
+        "İslamı qəbul etmək",
+        "Tamamilə məhv",
+        "Öz torpaqlarından sürgün"
+      ],
+      "answer": "Tamamilə məhv"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

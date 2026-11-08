@@ -1,0 +1,61 @@
+{
+  "title": "El Guardián a la orilla del río",
+  "intro": "En una tierra donde el decreto de un tirano sembró la tristeza en muchos hogares, un alma recibió un mensaje que desafió todo temor. Con el corazón lleno de confianza, emprendió un acto de fe que cambiaría el rumbo de una nación. Mientras las aguas transportaban una valiosa carga, la esperanza se mezclaba con las corrientes.",
+  "clues": [
+    "Viví en una época de opresión y miedo.",
+    "Recibí inspiración divina que me dio valor.",
+    "Se me ordenó no temer ni afligirme.",
+    "Coloqué a mi hijo en un cofre y lo puse sobre el agua.",
+    "Mi hijo fue encontrado por la familia del gobernante, pero mi otro hijo lo siguió.",
+    "Me reuní con mi hijo para amamantarlo, tal como Alá lo había prometido."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La madre de Moisés",
+        "La esposa del faraón",
+        "La hermana de Moisés",
+        "La Madre de Jesús",
+        "La reina de Saba"
+      ],
+      "answer": "La madre de Moisés"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Sentir la inspiración de arrojar a un niño a un río.",
+        "Ser desafiado a un duelo de magia",
+        "Ser perseguido por un ejército",
+        "Cruzando un mar que se abrió",
+        "Construyendo una casa sagrada"
+      ],
+      "answer": "Sentir la inspiración de arrojar a un niño a un río."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un cofre colocado en el río",
+        "Una zarza ardiente",
+        "Un bastón que se convirtió en serpiente",
+        "Un becerro de oro",
+        "Un trono"
+      ],
+      "answer": "Un cofre colocado en el río"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "El niño fue devuelto sano y salvo a la enfermería.",
+        "El niño se perdió para siempre.",
+        "El niño fue llevado a una tierra lejana.",
+        "El niño se convirtió en gobernante inmediatamente",
+        "El niño fue adoptado por un comerciante adinerado."
+      ],
+      "answer": "El niño fue devuelto sano y salvo a la enfermera."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

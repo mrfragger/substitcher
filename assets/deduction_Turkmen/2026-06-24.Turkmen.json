@@ -1,0 +1,61 @@
+{
+  "title": "Öçmez alawyň sakçysy",
+  "intro": "Görünmeýän ýeriň iň gorkunç ýeriniň bosagasynda bir keşp dur, oňa başga hiç bir jandaryň islemeýän borjy ynanylýar. Jebir çekýän janlar rehim dileýänlerinde, ot otaglaryndan berk jogap ýaňlanýar. Bu ebedi goragçynyň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Men görünmeýän ýerde gorkunç jeza ýeriniň agzynda durun.",
+    "Ýanýan, öçmeýän ot meniň mukaddes borjumyň merkezi bölegidir.",
+    "Jebir çekýän janlar meniň adymy çagyryp, çäksiz jebirlerinden dynmaklaryny dileýärler.",
+    "Olar ýalbaranda, men olaryň hiç haçan gitmejekdigini yglan edýärin.",
+    "Men ynsan hem däl, jyn hem däl — men arassa itaatkär ýaradylan jandar.",
+    "Men dowzahyň ebedi goragçysy hökmünde bellenen baş perişde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Malik",
+        "Jibril",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Dowzah halky azaplarynyň soňlanmagyny dileýärler",
+        "Kyýamat gününiň alamaty hökmünde surnaý çalynýar",
+        "Kuran Pygamberiň ýüregine wahy edilýär",
+        "Pygamber öz halky tarapyndan uly oda taşlanýar",
+        "Buzulan milleti saklamak üçin güýçli diwar guruldy"
+      ],
+      "answer": "Dowzah halky azaplarynyň soňlanmagyny dileýärler"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Dowzah ody (Jahannam)",
+        "Jennetiň serhedindäki Lot agajy",
+        "Deşikli surnaý",
+        "Ýylana öwrülýän taýak",
+        "Ajaýyp ilahi tagt"
+      ],
+      "answer": "Dowzah ody (Jahannam)"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Dowzahyň ýaşaýjylaryna ebedi galjakdyklary aýdylýar",
+        "Dowzahyň ýaşaýjylary bagyşlanýar we boşadylýar",
+        "Dowzahyň ýaşaýjylaryna iman etmekde ikinji mümkinçilik berilýär",
+        "Dowzahyň ýaşaýjylary sowuk ýere göçürilýärler",
+        "Dowzahyň ýaşaýjylary ýyldyrym bilen doly ýok edilýär"
+      ],
+      "answer": "Dowzahyň ýaşaýjylaryna ebedi galjakdyklary aýdylýar"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

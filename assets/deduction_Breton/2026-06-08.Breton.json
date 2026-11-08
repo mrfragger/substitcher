@@ -1,0 +1,61 @@
+{
+  "title": "Goulennour ar santual",
+  "intro": "E-pad eurvezhioù sioul an noz, un ene devot a c'halvas ar C'hras-meurbet e-barzh mogerioù santelaet ul lec'h sakr. Bloavezhioù a feiz ha pasianted dic'hortoz a oa o vont da vezañ gounezet gant ur burzhud a zegase levenez hag un hêrezh a brofeded.",
+  "clues": [
+    "Tremen a raen ma deizioù ha ma nozvezhioù en devosion en ur santual santel, o pediñ bepred va Aotrou.",
+    "Deuet on da vezañ kozh, ha ma wreg a oa difrouezh, met ne'm eus ket kollet va fiziañs e trugarez Allah.",
+    "Roet e voe din ur mab, anvet Yahya, deuet da vezañ ur profed hag ur farour eus ar reizhder.",
+    "Ur profed e oan va-unan, kaset da ren bugale Israel.",
+    "Diskennad ar profed Harun e oan ha beleg e oan en Templ.",
+    "Fiziet e oa bet din ober war-dro Maryam, mamm Isa, ha gwelet em eus he burzhudoù."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Zakariyya",
+        "Ar profed Yahya",
+        "Ar profed Ilyas",
+        "Ar profed Ishaq",
+        "Ar profed Ya'qub"
+      ],
+      "answer": "Ar profed Zakariyya"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Roet e voe dezhañ ur mab en e gozhni",
+        "Saveteet diouzh un tan-gwall",
+        "Saveteet eus kof ur pesk",
+        "Tremenet dreist un dour-beuz bras",
+        "Yac'haet eus ur c'hleñved kriz"
+      ],
+      "answer": "Roet e voe dezhañ ur mab en e gozhni"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar Mihrab (lec'h ar bedenn)",
+        "Ar C'haaba",
+        "Ar vodenn o teviñ",
+        "Arc'h an Emglev",
+        "Kev ar Seizh Kousket"
+      ],
+      "answer": "Ar Mihrab (lec'h ar bedenn)"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Graet e voe ur mab reizh a zeuas da vezañ ur profed",
+        "Distrujet gant ur gorventenn feuls",
+        "Beuzet er mor",
+        "Miret diouzh bezañ devet",
+        "Distroet d'o fobl goude bezañ bet saveteet diouzh ur pesk"
+      ],
+      "answer": "Graet e voe ur mab reizh a zeuas da vezañ ur profed"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

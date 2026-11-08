@@ -1,0 +1,61 @@
+{
+  "title": "Əsrlər boyu davam edən çağırış",
+  "intro": "Təsəvvür edin ki, bütün bir sivilizasiyaya qarşı təkbaşına dayanan, onları sarsılmaz qətiyyətlə azğınlıqdan çıxarmağa qərarlı olan bir ruh var. Əsrlər boyu bu mesaj rədd edildi, istehza edildi və rədd edildi, lakin səylər heç vaxt dayanmadı. Nəhayət, böyük bir hesablaşma gəldi və bu səbatlı ruhla birlikdə yalnız bir neçə nəfər qurtuluşa nail oldu. Qurandakı bu fiquru tanıya bilərsinizmi?",
+  "clues": [
+    "Mən öz yolunu azmış bir qövmə xəbərdarlıq edən bir peyğəmbər kimi göndərildim.",
+    "Mən onları bağışlanma diləməyə və səhvlərindən dönməyə dəvət etdim, amma onlar üz çevirdilər.",
+    "Allahın əmri ilə nəhəng bir gəmi düzəltdim, halbuki qövmüm məni izləyib lağa qoyurdu.",
+    "Mən Rəbbimi dayanmadan çağırdım - nəhayət, O, cavab verdi və göydən sel kimi sular yağdı.",
+    "Daşqın suları quru üzərindən qalxanda mən də iman gətirənlərlə birlikdə gəmiyə mindim.",
+    "Geridə qalanlardan birinə qışqırıb dağa sığınmalarını istədim, amma fərman artıq verilmişdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Nuh peyğəmbər",
+        "İbrahim peyğəmbər",
+        "Musa peyğəmbər",
+        "Hud peyğəmbər",
+        "Peyğəmbər Saleh"
+      ],
+      "answer": "Nuh peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük bir gəmi tikmək və dünya miqyaslı daşqından sağ çıxmaq",
+        "Alovlu bir oda atılmaq",
+        "Bir zalım və onun güclü sehrbazları ilə qarşılaşmaq",
+        "Böyük bir balığın udması",
+        "Müqəddəs dişi dəvənin öldürülməsinin şahidi olmaq"
+      ],
+      "answer": "Böyük bir gəmi tikmək və dünya miqyaslı daşqından sağ çıxmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Şiddətli daşqın suları üzərində nəhəng bir taxta gəmi",
+        "Qədim daş xarabalıqları olan müqəddəs bir vadi",
+        "Əsrlər boyu yoldaşlarının yatdığı dərin bir mağara",
+        "Okeanın dərinliklərində nəhəng bir balinanın qarnı",
+        "Səhrada uca bir daş dağı"
+      ],
+      "answer": "Şiddətli daşqın suları üzərində nəhəng bir taxta gəmi"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Gəmidəki möminlərlə birlikdə xilas oldu",
+        "İlahi əmrlə oddan sağ-salamat xilas edildi",
+        "Güclü bir krallıqdan böyük bir köçə rəhbərlik etdi",
+        "Balıqdan çıxaraq qısır bir sahilə atıldı",
+        "Möcüzəvi bir əlamətlə insanları pisliklərdən uzaqlaşdırdı"
+      ],
+      "answer": "Gəmidəki möminlərlə birlikdə xilas oldu"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

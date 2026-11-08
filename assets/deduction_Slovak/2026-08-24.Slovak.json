@@ -1,0 +1,61 @@
+{
+  "title": "Skrytí poslucháči, ktorí uverili",
+  "intro": "V tichu posvätného zhromaždenia prišlo z neviditeľnej ríše pozoruhodné zhromaždenie. Priťahovaní šepotom niečoho úžasného počúvali recitáciu, ktorá navždy spečatila ich osud. Ich svedectvá zostávajú jedným z najunikátnejších v božskom písme.",
+  "clues": [
+    "Sme bytosti z ríše, ktorú väčšina ľudí nevidí, a prišli sme ako skupina.",
+    "Vydali sme sa na zhromaždenie, kde sme si vypočuli niečo pozoruhodné.",
+    "Keď sme prišli, vypočuli sme si recitáciu, ktorá nás ohromila.",
+    "Otvorene sme uznali, že niektorí medzi nami sú spravodliví a iní nie.",
+    "Vedeli sme, že božskému rozhodnutiu neunikneme na zemi, ani letom do neba.",
+    "Keď sme počuli vedenie, uverili sme mu; kto verí v svojho Pána, nebude sa báť straty ani bremena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Skupina džinov",
+        "Ľudia z Iramu",
+        "Ľudia z Tubby",
+        "Rímska ríša",
+        "Kmeň Kurajšovcov"
+      ],
+      "answer": "Skupina džinov"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Počúvanie posvätného recitovania",
+        "Stavba vznešených pilierov v našom meste",
+        "Lov na nádhernú ťavu",
+        "Byť zničený za zabitie našich prorokov",
+        "Znásobovanie bohatstva nad mieru"
+      ],
+      "answer": "Počúvanie posvätného recitovania"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Zhromaždenie posvätného recitovania",
+        "Mesto vysokých stĺpov (Iram)",
+        "Studňa v púšti",
+        "Veľkolepý zlatý palác",
+        "Posvätná jaskyňa v horách"
+      ],
+      "answer": "Zhromaždenie posvätného recitovania"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Verili sme našim ľuďom a varovali ich",
+        "Zničený mohutným výbuchom z neba",
+        "Potrestaný spaľujúcim, ničivým vetrom",
+        "Udelené obrovské bohatstvo a moc",
+        "Zostal neochvejný v nevere"
+      ],
+      "answer": "Verili sme našim ľuďom a varovali ich"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

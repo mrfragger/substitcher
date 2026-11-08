@@ -1,0 +1,61 @@
+{
+  "title": "Kechirim so'ragan birinchi odam",
+  "intro": "Birinchi quyosh chiqishidan oldingi, yer yuzida biron bir inson yurishidan oldingi davrga qayting. Eng oddiy materiallardan bir figura yasab, unga farishtalardan yuqori mavqe berilgan va aniq ogohlantirish bilan muqaddas bog'ga joylashtirilgan. Biroq, bir zumda butun insoniyat tarixida aks-sado beradigan tanlov amalga oshirildi. Bu figura kim?",
+  "clues": [
+    "Men boshqa hech kimga o'xshamagan tarzda — yer tuprog'idan yaratilib, Yaratguvchining qo'li bilan tirik jonga ega bo'ldim.",
+    "Menga shunchalik chuqur bilim berilgan ediki, hatto yuqoridagi farishtalar ham undan hayratda qolishdi.",
+    "Barcha osmon egalari menga bosh egishlari buyurildi va ularning barchasi bo'ysunishdi - faqat bittasi mag'rurlikdan bosh tortdi.",
+    "Meni muqaddas bog'ga, abadiy tasalli va ta'minlangan joyga joylashtirishdi — lekin bitta qat'iy taqiq bilan.",
+    "Men unutdim, adashdim va itoatsizlik qildim — va xatomning og'irligini chuqur his qildim.",
+    "Men samimiy so'zlar bilan Rabbimga murojaat qildim va U mening tavbamni qabul qildi, chunki U juda kechirimli zotdir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Odam",
+        "Payg'ambar Dovud",
+        "Payg'ambar Muhammad",
+        "Iblis",
+        "Ya'qub payg'ambar"
+      ],
+      "answer": "Payg'ambar Odam"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Farishtalarga sajda qilishga buyurildi",
+        "Buyuk To'fon yuborildi",
+        "Ajoyib olov salqin va xavfsiz holga keltirildi",
+        "Mag'rur hukmdor dengizda cho'kib ketdi",
+        "Fillardan iborat qo'shin yo'q qilindi"
+      ],
+      "answer": "Farishtalarga sajda qilishga buyurildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Baxt bog'i",
+        "Sinay tog'i",
+        "Muqaddas masjid",
+        "Nil daryosi",
+        "G'or"
+      ],
+      "answer": "Baxt bog'i"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Tavba Alloh tomonidan qabul qilindi",
+        "Dengizda cho'kib ketdi",
+        "Katta baliq yutib yubordi",
+        "Millat kuchli portlashdan aziyat chekdi",
+        "Kuchli shamol bilan kuydirilgan"
+      ],
+      "answer": "Tavba Alloh tomonidan qabul qilindi"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

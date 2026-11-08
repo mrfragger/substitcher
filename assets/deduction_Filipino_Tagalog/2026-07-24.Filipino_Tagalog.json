@@ -1,0 +1,61 @@
+{
+  "title": "Ang Nakatagong Konspirador",
+  "intro": "Matatagpuan mo ang iyong sarili sa piling ng isang makapangyarihang pigura mula sa panahon ng rebelasyon. Ang indibidwal na ito ay kilala sa kanilang talino, kayamanan, at katayuan sa kanilang mga kababayan. Nang dumating ang mga malinaw na palatandaan, nakilala nila ang kagandahan ngunit pinili ang pagsuway kaysa sa pagpapasakop. Ano ang nagtulak sa kaluluwang ito na magplano sa dilim, at ano ang kanilang huling kapalaran?",
+  "clues": [
+    "Pinagpala ako ng masaganang kayamanan at impluwensya, kaya't naging mabigat ang aking salita sa mga pagtitipon.",
+    "Nang bigkasin ang mga salita ng banal, hindi ko maikakaila ang kanilang kahusayan sa pagsasalita, ngunit hindi ako pinayagan ng aking kapalaluan na sumuko.",
+    "Tinipon ko ang aking mga tagapayo, inihiwalay ang aking sarili upang mag-isip ng paraan upang siraan ang mensahe.",
+    "Pagkatapos ng mahabang pag-iisip, idineklara ko itong walang iba kundi 'mahika na ipinamana mula pa noong nakaraan' para itaboy ang mga tao.",
+    "Ang rebelasyon ay direktang tumukoy sa akin: 'Iwan mo Akong mag-isa kasama ang aking nilikha.' Ako ay pinagbintangan dahil sa aking mga pakana.",
+    "Malapit na, ang mismong apoy na binalaan sa akin ay susunggab sa aking noo, at wala akong matatakasan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Nagsabwatan upang patayin ang Propeta",
+        "Nanguna sa isang boycott laban sa mga Muslim",
+        "Nagtipon ng isang konseho upang tawagin ang Quran bilang mahika",
+        "Nagplanong palayasin ang Propeta mula sa Makkah",
+        "Tumanggi siyang ibahagi ang kanyang kayamanan sa mga ulila"
+      ],
+      "answer": "Nagtipon ng isang konseho upang tawagin ang Quran bilang mahika"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Pahayag",
+        "Ang Konseho",
+        "Ang Forelock",
+        "Ang Kayamanan",
+        "Ang Panulat"
+      ],
+      "answer": "Ang Forelock"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nagsisi siya at niyakap ang Islam",
+        "Lumipat siya sa Abyssinia",
+        "Tinamaan siya ng isang nakamamatay na sakit",
+        "Namatay siya sa labanan laban sa mga Muslim",
+        "Siya ay hinatulan sa Impiyerno"
+      ],
+      "answer": "Siya ay hinatulan sa Impiyerno"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

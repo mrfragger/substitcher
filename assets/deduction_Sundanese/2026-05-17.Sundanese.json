@@ -1,0 +1,61 @@
+{
+  "title": "Arsiték Batu",
+  "intro": "Bayangkeun hiji peradaban anu kuat, anu dipaparin kakuatan sareng katerampilan, ngukir imah-imah anu megah di lereng gunung. Koléktif ieu ngagaduhan kamakmuran anu luar biasa sareng kamampuan arsitéktur anu unik. Tapi, sanaos nampi peringatan anu jelas, aranjeunna milih jalan anu bakal ngarah kana kacindekan anu dramatis sareng teu tiasa dipopohokeun. Naha anjeun tiasa ngaidentipikasi kelompok ieu anu caritana janten palajaran anu jero pikeun sadayana anu mikir?",
+  "clues": [
+    "Kami dipaparin kakuatan sareng katerampilan, anu ngamungkinkeun kami pikeun ngukir bumi anu megah langsung di pagunungan.",
+    "Kami dipasihan hiji mu'jizat anu jelas ti Allah, hiji mahluk unik anu kedah dibiarkeun teu diganggu kanggo ngahakan jukut.",
+    "Masarakat urang jadi adigung, nangtang kana pesen ilahi anu dibawa ku utusan ti antara urang.",
+    "Kami geus ngayakeun konspirasi pikeun ngaruksak tanda ajaib éta, sanajan geus aya peringatan hukuman anu beurat.",
+    "Kami ngalawan paréntah pikeun ngantep mahluk istimewa éta nginum ti sumur kami unggal dinten silih ganti.",
+    "Urang panggih jeung tungtung anu dahsyat, ditarajang ku hiji ledakan anu pikasieuneun saatos tindakan palanggaran urang."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Urang?",
+      "options": [
+        "Kaum 'Ad",
+        "Urang Midian",
+        "Jalma-jalma Gajah",
+        "Kaom Tsamud",
+        "Kaum Luth"
+      ],
+      "answer": "Kaom Tsamud"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara Utama Kami",
+      "options": [
+        "Banjir anu ngalelepkeun lahan",
+        "Beulahna laut",
+        "Karusakan ku hiji ledakan/jerit",
+        "Kadurukna hiji kota",
+        "Ngubah gunung jadi lebu"
+      ],
+      "answer": "Karusakan ku hiji ledakan/jerit"
+    },
+    "location": {
+      "label": "Unsur Kunci dina Carita Kami",
+      "options": [
+        "Anak sapi emas",
+        "Onta bikang anu ajaib",
+        "Rungkun anu kaduruk",
+        "Manuk nu bisa nyarita",
+        "Tahta anu megah"
+      ],
+      "answer": "Onta bikang anu ajaib"
+    },
+    "outcome": {
+      "label": "Hasil Pamungkas Kami",
+      "options": [
+        "Diberikan kakayaan dan kekuasaan yang luar biasa",
+        "Diangkat jadi kenabian",
+        "Kamusnahan sagemblengna ku hukuman ilahi",
+        "Dihampura saatos tobat anu tulus",
+        "Nyebar di sakuliah bumi pikeun ngumbara"
+      ],
+      "answer": "Kamusnahan sagemblengna ku hukuman ilahi"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

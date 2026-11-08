@@ -1,0 +1,61 @@
+{
+  "title": "le trésor englouti sous l'orgueil",
+  "intro": "Imaginez-vous face à des montagnes de richesses si immenses que même un groupe d'hommes robustes en porterait les clés. Autour de vous, des voix appellent à l'humilité et au recueillement, mais l'orgueil l'emporte sur la gratitude. Que se passe-t-il lorsque l'abondance devient une épreuve et que l'arrogance en scelle le dénouement ?",
+  "clues": [
+    "J'étais du peuple de Moïse, et pourtant j'ai transgressé leurs règles.",
+    "On m'a accordé des trésors si immenses que leurs clés pèseraient lourd sur une bande d'hommes robustes.",
+    "Les miens m'ont conseillé de ne pas exulter et de rechercher l'au-delà sans oublier ma part de ce monde.",
+    "J'ai affirmé que ce que je possédais m'avait été donné uniquement grâce aux connaissances que je détenais.",
+    "Je me suis promenée devant mon peuple parée de bijoux, et ceux qui désiraient la vie terrestre enviaient ce que j'avais.",
+    "J'ai été englouti par la terre avec ma demeure, et personne ne pouvait m'aider, ni moi d'ailleurs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il se vantait de sa richesse et reniait la faveur d'Allah malgré les conseils.",
+        "Il a interpellé Ibrahim sur le thème de la vie et de la mort.",
+        "Il a mené une armée contre Talut et Dawud",
+        "Des idoles sculptées que le peuple pouvait vénérer",
+        "Il a tué son frère par jalousie à propos d'une offrande"
+      ],
+      "answer": "Il se vantait de sa richesse et reniait la faveur d'Allah malgré les conseils."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Les clés d'immenses trésors",
+        "L'Arche d'Alliance",
+        "Un veau d'or d'ornements",
+        "Un barrage entre deux montagnes",
+        "Onze étoiles dans un rêve"
+      ],
+      "answer": "Les clés d'immenses trésors"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Englouti par la terre avec sa demeure et ses richesses",
+        "Noyé en mer lors de la poursuite de Musa",
+        "Frappé par une pierre lancée par la fronde de Dawud, il fut terrassé.",
+        "Détruit par une puissante explosion pour avoir blessé une chamelle à la jambe",
+        "Ils furent transformés en singes pour avoir enfreint le sabbat."
+      ],
+      "answer": "Englouti par la terre avec sa demeure et ses richesses"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

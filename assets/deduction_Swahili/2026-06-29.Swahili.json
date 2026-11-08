@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi ya Mvumilivu",
+  "intro": "Katika kumbukumbu za unabii, kulikuwa na nafsi ambayo uvumilivu wake ulichongwa katika umbo lao. Kupitia machozi na wakati, walishikilia tumaini, na kuwa mfano usio na mwisho wa kuamini hekima ya Mungu. Je, unaweza kufichua fumbo la mtu huyu asiyeyumba?",
+  "clues": [
+    "Nilizaliwa katika familia ya manabii, lakini jaribu langu kubwa zaidi lilitokana na mtoto niliyempenda zaidi.",
+    "Nilipokea onyo la wivu kutoka kwa ndoto ambayo mwanangu aliniambia, na nilihofia usalama wake.",
+    "Macho yangu yaligeuka meupe kwa huzuni, lakini sikupoteza imani katika rehema za Mwenyezi Mungu.",
+    "Harufu ya mtoto wangu aliyepotea ilinifikia kutoka mbali, na nilijua wakati huo kwamba kuungana tena kulikuwa karibu.",
+    "Familia yangu iliinama kwa shukrani wakati maono ya zamani yalipotimia, na macho yangu yakarejeshwa.",
+    "Mimi ndiye niliyepewa shati lenye madoa ya damu, lakini baadaye nikapewa shati lililoniponya macho."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ibrahimu",
+        "Nabii Ishaq",
+        "Nabii Yaqub",
+        "Nabii Yusufu",
+        "Nabii Ayyub"
+      ],
+      "answer": "Nabii Yaqub"
+    },
+    "trial": {
+      "label": "Kesi Muhimu",
+      "options": [
+        "Kutengana na mtoto mpendwa na kupoteza uwezo wa kuona",
+        "Kutupwa kwenye moto unaowaka",
+        "Kumezwa na samaki mkubwa",
+        "Kuvumilia kupoteza utajiri, watoto, na afya",
+        "Akisalitiwa na ndugu zake na kutupwa kisimani"
+      ],
+      "answer": "Kutengana na mtoto mpendwa na kupoteza uwezo wa kuona"
+    },
+    "location": {
+      "label": "Kitu cha Mfano",
+      "options": [
+        "Shati ambalo kwanza lilificha ukweli kisha likaufunua",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Nyangumi aliyemmeza nabii",
+        "Moto uliokuwa baridi",
+        "Jozi ya viatu kwenye kichaka kinachowaka moto"
+      ],
+      "answer": "Shati ambalo kwanza lilificha ukweli kisha likaufunua"
+    },
+    "outcome": {
+      "label": "Azimio la Kimungu",
+      "options": [
+        "Kukutana tena na mpendwa aliyepotea na kurejeshwa kwa uwezo wa kuona",
+        "Uokoaji kutoka kwa taifa la ukandamizaji",
+        "Ukombozi kutoka tumboni mwa samaki",
+        "Wokovu kutoka kwa moto unaowaka",
+        "Kupanda kwenye kiti cha enzi kikubwa"
+      ],
+      "answer": "Kukutana tena na mpendwa aliyepotea na kurejeshwa kwa uwezo wa kuona"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

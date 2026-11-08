@@ -1,0 +1,61 @@
+{
+  "title": "Das freiwillige Opfer",
+  "intro": "In einer Zeit göttlicher Prüfungen wurde eine Seele zum ultimativen Akt der Unterwerfung berufen. Aufgewachsen in einem kargen Land, verkörperte diese Gestalt Glauben und Geduld. Als eine Vision ein Opfer forderte, wich sie nicht zurück. Ihre Geschichte ist ein Eckpfeiler der Hingabe.",
+  "clues": [
+    "Ich war die Antwort auf ein lang ersehntes Gebet eines großen Propheten.",
+    "Meine Mutter und ich wurden in einem verlassenen Tal zurückgelassen, mit nichts als Datteln und Wasser als Proviant.",
+    "Ich wuchs zu einem Propheten heran, der für seine Wahrhaftigkeit und Geduld bekannt war.",
+    "Ich habe meinem Vater beim Errichten der Grundsteine ​​für ein heiliges, Allah geweihtes Haus geholfen.",
+    "Als mein Vater mir von einem Traum erzählte, in dem er mich opfern wollte, antwortete ich: „Tu, was dir befohlen wird.“",
+    "Allah ehrte meine Unterwerfung, indem er einen Widder vom Himmel sandte, um mich freizukaufen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Isma'il",
+        "Prophet Ishaq",
+        "Prophet Ya'qub",
+        "Prophet Ibrahim",
+        "Prophet Yusuf"
+      ],
+      "answer": "Prophet Isma'il"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "sich freiwillig dem Opferritual unterwerfen",
+        "In ein loderndes Feuer geworfen werden",
+        "Von einem großen Fisch verschluckt werden",
+        "In die Sklaverei verkauft werden",
+        "Bei einer schweren Krankheit getestet werden"
+      ],
+      "answer": "sich freiwillig dem Opferritual unterwerfen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Zamzam-Brunnen",
+        "Die Arche Noahs",
+        "Das Feuer Nimrods",
+        "Das goldene Kalb",
+        "Das Personal von Musa"
+      ],
+      "answer": "Zamzam-Brunnen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde mit einem großen Widder freigekauft.",
+        "Wurde aus dem Feuer gerettet",
+        "Wurde vor der Flut gerettet",
+        "Wurde aus dem Wal herausgenommen",
+        "Ihm wurde ein Königreich und Weisheit gegeben."
+      ],
+      "answer": "Wurde mit einem großen Widder freigekauft."
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yerning chekkalarini kezib chiqqan Hukmdor",
+  "intro": "Yer ustidan kuch va hokimiyat berilgan qudratli hukmdorni tasavvur qiling. Bu shaxs g'ayrioddiy sayohatlarga otlandi, quyosh botadigan va chiqadigan joyga yetib bordi, g'alati xalqlarga duch keldi va ikkita buzg'unchi millatning katta sinoviga duch keldi. Bu sirli rahbar kim?",
+  "clues": [
+    "Men yer yuzining eng chekka burchaklariga yetib borish uchun vakolat va vositalarga ega bo'lgan hukmdor edim.",
+    "Men g'arbga sayohat qildim va loyqa bahorda quyosh botishini ko'rdim.",
+    "Men quyosh chiqayotgan joyda uning issiqligidan boshpanasi bo'lmagan bir odamga duch keldim.",
+    "Boshqa bir jamoa Ya'juj va Ma'juj deb atalgan ikki buzg'unchi qavmga qarshi mendan yordam so'radi.",
+    "Men ularni ushlab turish uchun temir va eritilgan misdan foydalanib, to'siq qurdim.",
+    "Men bu to'siq Parvardigorimning rahmati ekanligini va belgilangan vaqtgacha saqlanib qolishini e'lon qildim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Zulqarnayn",
+        "Payg'ambar Sulaymon",
+        "Qorun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Zulqarnayn"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ya'juj va Ma'jujga qarshi to'siq qurish",
+        "Katta suv toshqinidan omon qolish",
+        "Olovga tashlanmoqda",
+        "Dengizni kesib o'tish",
+        "Gigant bilan jang qilish"
+      ],
+      "answer": "Ya'juj va Ma'jujga qarshi to'siq qurish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Temir va mis to'sig'i",
+        "Ilonga aylangan tayoq",
+        "Yog'ochdan yasalgan kema",
+        "Shishadan yasalgan saroy",
+        "Xurmozor bog'i"
+      ],
+      "answer": "Temir va mis to'sig'i"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ya'juj va Ma'juj belgilangan vaqtgacha ushlab turildi",
+        "U payg'ambar bo'ldi",
+        "U takabburligi uchun jazolandi",
+        "U butun dunyoni zabt etdi",
+        "U abadiy yashadi"
+      ],
+      "answer": "Ya'juj va Ma'juj belgilangan vaqtgacha ushlab turildi"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

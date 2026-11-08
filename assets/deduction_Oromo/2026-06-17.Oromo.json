@@ -1,0 +1,61 @@
+{
+  "title": "Sagalee Qarqara Magaalaa irraa",
+  "intro": "Magaalaa qajeelfama waaqaa irraa garagalte keessatti, namni kophaa isaa ta’e tokko ergaa abdii fi akeekkachiisaa qabatee fiigaa qarqara galaanaa irraa ba’e. Lubbuun dagatamte kun mallattoo bara baraa amantii cimaa ta’a turte.",
+  "clues": [
+    "Ergamtoonni gara magaalaa kootti ergaman argeera, garuu sabni koo akka nama idileetti isaan ari'e.",
+    "Ergaa isaaniitti amanee dhugaan jiraachuu koo keessatti akka dhaga’amu natti dhaga’ame.",
+    "Ergamtoota mindaa tokko malee gaafataniif akka ajajaman sabni koo waamicha godhe.",
+    "Hatattamaan sababa akka argan gochuuf yaaluun magaalattii isa fagoo irraan fiige.",
+    "Sabni koo natti ka'ee, ani ajjeefamee, garuu nagaa bara baraa argadhe.",
+    "Rabbiin jannata seena naan jedhe, kabaja naaf kenname sabni kiyya akka ragaa ba’u hawwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Mu’mina Ya-Sin",
+        "Uzaayir Gaafataa",
+        "Al-Khidr Qajeelfama",
+        "Amanaa Maatii Fara'oon",
+        "Namrud Gabroomfataa"
+      ],
+      "answer": "Mu’mina Ya-Sin"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Ummata kaafiraa isa ajjeese waliin wal dura dhaabbachuu",
+        "Ibidda boba'aa keessa darbatamuu",
+        "Qurxummii guddaa tokkoon liqimfamuu",
+        "Doonii guddaa ijaaruu",
+        "Waraana gabroomfataa jalaa baqachuu"
+      ],
+      "answer": "Ummata kaafiraa isa ajjeese waliin wal dura dhaabbachuu"
+    },
+    "location": {
+      "label": "Bakka Furtuu",
+      "options": [
+        "Dhuma magaalattii isa fagoo",
+        "Gaara Tur",
+        "Gammoojjii Saroonni",
+        "Qarqara laga Abbayyaa",
+        "Holqa holqa keessaa"
+      ],
+      "answer": "Dhuma magaalattii isa fagoo"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Wareegamuu fi battalumatti Jannata seenuu",
+        "Baqachuu fi fayyina",
+        "Gara samiitti ol bahuu",
+        "Galaana keessatti liqimfamuu",
+        "Gara dhagaatti jijjiiramuu"
+      ],
+      "answer": "Wareegamuu fi battalumatti Jannata seenuu"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

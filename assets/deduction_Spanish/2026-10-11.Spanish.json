@@ -1,0 +1,61 @@
+{
+  "title": "La voz en las arenas antiguas",
+  "intro": "Entre los primeros mensajeros de Alá, hubo uno cuyo nombre brilla brevemente pero con significado en el Corán. Este individuo vivió mucho antes de que se enviaran muchos grandes profetas, y era conocido por su inquebrantable veracidad y paciencia. Su historia es breve, pero su legado perdura en los registros eternos. ¿Quién era esta noble alma?",
+  "clues": [
+    "Soy uno de los primeros mensajeros, mencionado brevemente pero con significado en el Corán.",
+    "Mi carácter se definía por un compromiso inquebrantable con la verdad.",
+    "En el libro de Alá se me recuerda entre aquellos que fueron firmes y pacientes.",
+    "Solo unos pocos versículos del Corán cuentan mi historia.",
+    "Allah me honró de una manera que es exclusivamente mía, no compartida con otros profetas.",
+    "Fui elevado a una posición elevada, un honor singular en el Corán."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Ilyas",
+        "Dhul-Kifl",
+        "Profeta Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Momento decisivo",
+      "options": [
+        "Alá me elevó a una posición elevada.",
+        "Construí una gran arca para salvar a mi pueblo.",
+        "Desafié a los hechiceros del faraón.",
+        "Mis hermanos me arrojaron a un pozo.",
+        "Perdí la vista por el dolor que sentí por mi hijo."
+      ],
+      "answer": "Alá me elevó a una posición elevada."
+    },
+    "location": {
+      "label": "Referencia Sagrada",
+      "options": [
+        "Sura Al-Anbiya",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Ash-Shu'ara",
+        "Sura Yasin"
+      ],
+      "answer": "Sura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Honor divino",
+      "options": [
+        "Una estación elevada como ninguna otra",
+        "Dominio sobre los genios y los vientos",
+        "Un reino de gloria sin igual",
+        "Un heredero de mi vejez",
+        "Un pacto sellado con Alá"
+      ],
+      "answer": "Una estación elevada como ninguna otra"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

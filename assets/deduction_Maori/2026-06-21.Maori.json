@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i Hono atu ki ngā Maunga",
+  "intro": "I whakawhiwhia tētahi wairua tika ki ngā taonga whakamiharo mai i te rangi, ka noho hei rangatira, hei toa, ko tōna āhua tūturu te āhua nei e hono ana ki te hanganga tonu. Ka rarangahia tā rāua kōrero i roto i te poropititanga, te rangatiratanga, me te mahi toi, ka waiho he taonga tuku iho e rangona ana i roto i ngā whārangi o te whakakitenga atua.",
+  "clues": [
+    "I whiriwhiria ahau hei pononga mā Allah, ā, i tukuna mai he kingitanga nui ki ahau i roto i tētahi iwi whiriwhiri.",
+    "Ka haruru tahi mai ngā maunga me ngā manu i ahau e whakakororia ana i te Runga Rawa.",
+    "I ngawari te rino pērā i te paru i roto i ōku ringa, nā te hiahia o Allah anake.",
+    "I hanga e au he pukupuku tiaki hei tiaki i ngā toa i te werawera o te pakanga.",
+    "I paahitia e au tētahi whakamātautau uaua i te wā i tomo ohorere mai ai ētahi tāngata tautohe tokorua ki roto i taku wāhi karakia.",
+    "Kua whakahuatia ahau i te taha o tētahi rangatira nāna i whakahau te hau me ngā jinn — nā te mea ko taua rangatira nōku ake uri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Rawiri",
+        "Poropiti a Mohi",
+        "Poropiti a Sulaimana",
+        "Poropiti Ihāperama",
+        "Poropiti a Hākupa"
+      ],
+      "answer": "Poropiti a Rawiri"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Tokorua ngā tāngata tautohe i uru mai ki roto i taku wāhi karakia",
+        "I pā mai he waipuke nui i whakangaro i tōku iwi",
+        "I horomia e te ika nui",
+        "I makaia ki roto i te ahi mura e taku iwi",
+        "I whakamatautauria ki te ngaronga o te whānau katoa me te taonga"
+      ],
+      "answer": "Tokorua ngā tāngata tautohe i uru mai ki roto i taku wāhi karakia"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He rino i ngāwari ki ōku ringa",
+        "He ika nui o te hohonu",
+        "He tokotoko i huri hei nakahi",
+        "He māra ataahua me ngā momo hua e rua",
+        "He maunga tapu e kiia nei ko Tur"
+      ],
+      "answer": "He rino i ngāwari ki ōku ringa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whiwhi i ngā Waiata (Zabur) ā, i whakatūria hei rangatira tika",
+        "I whakaorangia mai i te puku o te ika, ā, i whakapono te iwi",
+        "I whakaorangia taku iwi i te ringa o te kaitukino",
+        "I whakawhiwhia ki te mana whakahaere i te hau me te jinn",
+        "Kua ora anō, ā, kua nui ake ngā manaakitanga kua homai"
+      ],
+      "answer": "I whiwhi i ngā Waiata (Zabur) ā, i whakatūria hei rangatira tika"
+    }
+  },
+  "verseRef": "34:11",
+  "arabic": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍۢ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+  "verse": "[Commanding him], \"Make full coats of mail and calculate [precisely] the links, and work [all of you] righteousness. Indeed I, of what you do, am Seeing.\" (34:11)"
+}

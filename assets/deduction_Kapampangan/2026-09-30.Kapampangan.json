@@ -1,0 +1,61 @@
+{
+  "title": "Ing metung a pasyenti",
+  "intro": "Kanitang minunang panaun, king minunang panaun ning kasalesayan ning tau, ating aduang kaladwa a tinalakad arapan ning karelang Miglalang a maki ain. Metung ing tinggap, ing metung ali. Ing tinuki maging yang mumunang maragul a trahedya kareng mikakapatad - metung a gawa ning pamagpigil at metung a gawa ning mapait a pamangimut. Malyari meng abalu nung ninu ku?",
+  "clues": [
+    "mibait ku keng mumunang aldo ning pangatau keti keng yatu",
+    "anak ku ning mumunang pares da reng taung miglakad keng yatu",
+    "Misan miyain kung ain-sakripisyu ibat karing pekamasanting karing kawan ku ban apasaya ke ing kanakung Miglalang",
+    "Ing ain ku tinggap de ibat babo, kabang ing ain ning kapatad ku e ya metanggap",
+    "Inyang banta da kung paten, pinili kung e itas ing gamat ku laban keng kapatad ku",
+    "aku ing meging mumunang tau keng mabilug a amlat ning tau na mepate keng aliwa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Habil (Abel), anak nang Adan",
+        "Qabil (Cain), anak nang Adan",
+        "I Adan, ing mumunang tau",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), anak nang Adan"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Ing mumunang pamakamate keng amlat ning tau",
+        "Ing maragul a albug ning Nuh",
+        "Ing pangasira da reng sundalus nang Fir'awn",
+        "Ing sakripisyu nang Ismail kang Ibrahim",
+        "Ing labanan laban kang Jalut (Goliath)"
+      ],
+      "answer": "Ing mumunang pamakamate keng amlat ning tau"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Metung a tupa a miyain bilang makatula a ain",
+        "Metung a maragul a daung a gawa king dutung",
+        "Metung a tukud a meging ubingan",
+        "Metung a ayup a hoopoe a magdalang mensahi ning ari",
+        "Metung a masilab a kanal ning api"
+      ],
+      "answer": "Metung a tupa a miyain bilang makatula a ain"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Meging mumunang biktima ning pamakamate king amlat ning tau",
+        "Mekaligtas ya keng maragul a albug kilub ning metung a saken a gawa keng dutung",
+        "menuknangan ya kilub ning atian ning maragul a asan",
+        "Mag-ari ya kareng jinn, tau, ampo ing angin",
+        "Miglakbe kilub ning apat apulung banua king malawak a ilang"
+      ],
+      "answer": "Meging mumunang biktima ning pamakamate king amlat ning tau"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Penjaga Tuaian Rahsia",
+  "intro": "Di sebuah tanah yang menghijau, sekumpulan individu telah membuat rancangan rahsia di bawah naungan kegelapan. Mereka berkongsi tujuan yang sama, tetapi niat mereka jauh dari benar. Mereka tidak tahu bahawa satu kejutan ilahi menanti mereka ketika mereka tidur.",
+  "clues": [
+    "Kami telah membuat tekad yang kukuh, kerana menyangka rancangan kami tidak bercacat.",
+    "Kami berhasrat untuk keluar awal, sebelum orang lain sempat bangun.",
+    "Kami mendirikan sebidang tanah yang subur, yakin dengan bekalan kami.",
+    "Ketika kami sampai ke destinasi kami, kami mendapati ia tandus dan sunyi sepi, jadi kami sangkakan kami telah sesat jalan.",
+    "Kemudian kami sedar bahawa itu memang tempat kami, dan kami menjerit putus asa, menyalahkan satu sama lain atas kehilangan kami.",
+    "Kami telah bersumpah pagi itu untuk mengecualikan orang miskin daripada tuaian kami, tetapi azab Allah menimpa kami ketika kami tidur, mengubah kebun kami menjadi rosak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Pemilik Taman dalam Surah 68",
+        "Orang-orang Saba",
+        "Para Penghuni Gua",
+        "Orang-orang Gajah",
+        "Orang-orang Parit"
+      ],
+      "answer": "Pemilik Taman dalam Surah 68"
+    },
+    "trial": {
+      "label": "Percubaan Kami",
+      "options": [
+        "Kebun kami musnah akibat bencana dari langit",
+        "Kebun kami dilanda banjir",
+        "Kebun kami hangus terbakar oleh api musuh",
+        "Kebun kami dipenuhi dengan belalang",
+        "Kebun kami ditelan gempa bumi"
+      ],
+      "answer": "Kebun kami musnah akibat bencana dari langit"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Kami bersumpah untuk memetik buahnya pada waktu pagi",
+        "Kami membina empangan untuk mengairi kebun kami",
+        "Kami mencari perlindungan di dalam gua",
+        "Kami menyediakan tentera untuk menakluki sebuah kerajaan",
+        "Kami belayar dengan kapal untuk menyeberangi laut"
+      ],
+      "answer": "Kami bersumpah untuk memetik buahnya pada waktu pagi"
+    },
+    "outcome": {
+      "label": "Nasib Kita",
+      "options": [
+        "Kami bertaubat dan mengharapkan rahmat daripada Allah",
+        "Kami telah musnah sepenuhnya dan tidak pernah bertaubat",
+        "Kami melarikan diri dari tanah itu dan tidak pernah kembali",
+        "Kami menjadi berkuasa dan kaya semula",
+        "Kami dihukum dengan dijadikan monyet"
+      ],
+      "answer": "Kami bertaubat dan mengharapkan rahmat daripada Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

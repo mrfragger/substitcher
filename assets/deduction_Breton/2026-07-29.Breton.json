@@ -1,0 +1,61 @@
+{
+  "title": "An heuliad lez",
+  "intro": "E kornioù ar galloud e teuas un den a statud uhel da vezañ sot gant ur servijer a oa e gened eus ar bed all. Ar garantez-se a gasas d'un heuliad darvoudoù a amproue al lealded, a ziskoueze gwirionezioù kuzhet, hag a gadarnae a-benn ar fin didamall ar servijer.",
+  "clues": [
+    "Bevañ a raen e bro an Nil, en ur palez a levezon bras.",
+    "Un den yaouank a zeuas e-barzh ma zi, hag e vezañs a zistagas ma bed.",
+    "Klasket em eus e douellañ, met klask a reas repu en e Aotrou.",
+    "Torret em eus e zilhad a-dreñv, met an testenioù a ziskoueze din bezañ touellet.",
+    "Evit sioulaat klemm ar merc'hed noblañs, em eus pedet anezho d'un emvod ha lakaet em eus traezoù lemm en o daouarn.",
+    "A-benn ar fin em eus anzavet va faot dirak an holl, en ur anzav ar wirionez dirak ar roue."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Gwreg Al-Aziz",
+        "Asiya (Gwreg Faraon)",
+        "Bilqis (Rouanez Saba)",
+        "Maryam (Mamm Isa)",
+        "Mamm Musa"
+      ],
+      "answer": "Gwreg Al-Aziz"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Klask a reas seduiñ ar profed Yusuf",
+        "Klask a reas lazhañ ar profed Musa",
+        "Lavarout a rae bezañ un doueez",
+        "Savet he deus un tour evit enebiñ ouzh Allah",
+        "Ren a reas un arme a-enep Mekka"
+      ],
+      "answer": "Klask a reas seduiñ ar profed Yusuf"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ur c'hemmesk torret eus an adreñv",
+        "Eul leue aour",
+        "Ur vazh hag a zo deuet da vezañ un naer",
+        "Ur c'hañvalez",
+        "Ul lamp"
+      ],
+      "answer": "Ur c'hemmesk torret eus an adreñv"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Kofes a reas hag anavezout a reas ar wirionez",
+        "Beuzet e voe gant hec'h arme",
+        "Treiñ a reas en ur piler holen",
+        "Lonket e voe gant an douar",
+        "Distrujet e voe gant un avel o youc'hal"
+      ],
+      "answer": "Kofes a reas hag anavezout a reas ar wirionez"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

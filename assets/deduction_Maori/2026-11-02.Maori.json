@@ -1,0 +1,61 @@
+{
+  "title": "Te Hoa Tūturu i roto i te Whakamātautau Koura",
+  "intro": "I raro i te marumaru o tētahi poropiti nui, i whiriwhiria tētahi wairua whaikōrero me te whakapono hei āwhina i tētahi misioni nui. I tū pakari tēnei tangata i te wā i wiri ai te marea, e kauwhau ana mō tētahi hara nui i whakatuma i te pūtake o te whakapono kotahi. I te hokinga mai o te poropiti ki te mātakitaki i te hinganga o te iwi, ehara i te mea he hara te tiaki a tēnei tangata engari he kawenga me te wehi kei wehewehea. Ko wai tēnei pononga pono a Allah?",
+  "clues": [
+    "I whiriwhiria ahau e Allah mō tētahi mahi tapu me tētahi atu mahi, ā, ko taku tūranga he tautoko me te kauwhau.",
+    "I homai he māramatanga ki ahau, ā, i haere tahi māua me tētahi karere ki te tū atu ki tētahi kaitukino kaha.",
+    "I roto i tētahi haerenga nui, ka piki te karere ki runga i tētahi maunga ko au anake, ā, ka waiho ahau hei tiaki i te iwi.",
+    "I tō rātou ngaro, ka hanga e te iwi tētahi whakapakoko koura, ā, ka inoi ahau kia noho pono rātou, engari i whakakahore rātou i taku kupu tohutohu.",
+    "I te hokinga mai o te karere, ki tonu i te riri me te pouri, ka hopukina ahau, engari i whakamārama ahau kua hinga ahau, ā, i wehi hoki kei whakatupu raruraru i waenganui i a rātou.",
+    "Ko ahau te poropiti i tū i te taha o Mohi, o tōku tuakana, e tautoko ana i tana kawenga, e tū pakari ana hoki ki te whakahē i te karakia whakapakoko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Haruna",
+        "Poropiti a Mohi",
+        "Poropiti a Ihaia",
+        "Poropiti a Rawiri",
+        "Poropiti Hakaraia"
+      ],
+      "answer": "Poropiti Haruna"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I karakia te iwi ki tētahi kuao kau koura ahakoa ngā whakatūpato",
+        "I maka ahau e te iwi ki roto i te ahi mura",
+        "I horomia ahau e te ika nui",
+        "I mauheretia ahau mō ngā whakapae teka",
+        "I peia ahau i tōku tāone mō te kauwhau"
+      ],
+      "answer": "I karakia te iwi ki tētahi kuao kau koura ahakoa ngā whakatūpato"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Kuao Kau Koura",
+        "Te Rakau e Mura Ana",
+        "Te tokotoko i huri hei nakahi",
+        "Ngā Papa o te Kawenata",
+        "Te Āka o te Kawenata"
+      ],
+      "answer": "Te Kuao Kau Koura"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakakorea ahau, ā, i haere tonu taku misioni poropiti",
+        "I whiua ahau mō te hara o te iwi",
+        "I homai he iwi hou hei ārahi māku",
+        "I haria oratia ahau ki te rangi",
+        "I meinga ahau hei rangatira mō tētahi kingitanga"
+      ],
+      "answer": "I whakakorea ahau, ā, i haere tonu taku misioni poropiti"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

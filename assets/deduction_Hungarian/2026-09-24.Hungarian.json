@@ -1,0 +1,61 @@
+{
+  "title": "Az istenséget követelő szuverén",
+  "intro": "Egy hatalmas és arrogáns uralkodó úgy hitte, senki sem állhat a trónja felett. Egy menekülő csoportot üldöztek egy hatalmas vízfelületen keresztül, de drámai véggel végződtek. Az uralkodó története a Korán számos szakaszában visszhangzik, figyelmeztetésül szolgálva mindenkinek.",
+  "clues": [
+    "Hatalmas uralkodó voltam, aki úgy hitte, hogy az általam kormányzott területeken nincs nagyobb hatalom, mint az enyém.",
+    "Volt egy Hámán nevű megbízható vezírem, aki segített nagyszabású építészeti projektek megvalósításában.",
+    "Összehívtam hazám legkiválóbb mágusait, hogy megkérdőjelezzék egy velem szembeszálló hírvivő jeleit.",
+    "Nem engedtem el a birodalmamban rabszolgasorban élő népet, a járványok és az egyértelmű figyelmeztetések ellenére sem.",
+    "Egész seregemmel és szekereimmel üldöztem őket egy hatalmas tengeren át.",
+    "Ugyanaz a tenger zárult össze felettem és csapataim felett, mindannyiunkat elnyelt, miközben ők biztonságban átkeltek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Fir'awn (fáraó)",
+        "Namrud",
+        "Abu Laháb",
+        "Hámán",
+        "Abu Dzsahl"
+      ],
+      "answer": "Fir'awn (fáraó)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Pestisek és összetűzés Mózessel",
+        "Bárkaépítés egy nagy özönvíz előtt",
+        "Csata Jalut ellen a völgyben",
+        "Egy bálna lenyelése",
+        "A tisztességes kereskedelmi súlyok védelme"
+      ],
+      "answer": "Pestisek és összetűzés Mózessel"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Magas tornyok és karók",
+        "Egy hatalmas fa bárka",
+        "Egy aranyborjú",
+        "Egy kígyóvá változott személyzet",
+        "Egy hatalmas bálna"
+      ],
+      "answer": "Magas tornyok és karók"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Tengerbe fulladt a sereggel együtt",
+        "Allah irgalma és türelme megmentette, megjutalmazta",
+        "Évekig tartó nehézségek után újra együtt a családdal",
+        "Elnyelte a föld",
+        "Tűzben égett"
+      ],
+      "answer": "Tengerbe fulladt a sereggel együtt"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

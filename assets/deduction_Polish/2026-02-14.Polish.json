@@ -1,0 +1,61 @@
+{
+  "title": "Budowniczy barier",
+  "intro": "Przemierzając rozległe krainy, potężna jednostka wyruszyła na serię wypraw, obdarzona ogromnym autorytetem i środkami. Ta dusza napotkała różnorodne społeczności i stawiła czoła wyjątkowym wyzwaniom, pozostawiając trwały ślad w historii i wierze poprzez swoje czyny i mądrość, jednocześnie uznając prawdziwe źródło swojej siły.",
+  "clues": [
+    "Dano mi władzę i środki nad wszystkim i podążałem drogą.",
+    "Moja podróż zaprowadziła mnie do miejsca zachodu słońca, gdzie znalazłem ludzi.",
+    "Spotkałem społeczność, która ledwo rozumiała mowę i mieszkała pomiędzy dwiema górami.",
+    "Poproszono mnie o zbudowanie bariery, nie dla osobistych korzyści, ale w celu ochrony przed niszczycielską siłą.",
+    "Oświadczyłem, że siła potrzebna do zbudowania tego potężnego muru pochodzi od Allaha i że będzie on stał aż do obiecanego czasu.",
+    "Moje imię, często tłumaczone jako „Dwurożny”, wskazuje na mój zasięg na całej ziemi, a może na dwie odrębne epoki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Musa",
+        "Prorok Sulayman",
+        "Dhul-Qarnayn",
+        "faraon",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Otrzymywanie objawienia",
+        "Stając twarzą w twarz z tyranem",
+        "Budowanie wspaniałego statku",
+        "Budowa potężnej bariery",
+        "Połknięcie przez rybę"
+      ],
+      "answer": "Budowa potężnej bariery"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Żelazna Bariera",
+        "Rzeka Nil",
+        "Tron"
+      ],
+      "answer": "Żelazna Bariera"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zbawienie od potopu",
+        "Stać się wielkim królestwem",
+        "Ochrona dla ludzi",
+        "Zniszczenie ciemiężyciela",
+        "Trwała mądrość"
+      ],
+      "answer": "Ochrona dla ludzi"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

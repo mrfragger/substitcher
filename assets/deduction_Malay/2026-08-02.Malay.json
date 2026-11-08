@@ -1,0 +1,61 @@
+{
+  "title": "Antara Bumi dan Langit",
+  "intro": "Sebuah jiwa misteri menanti anda di halaman suci sejarah ilahi, membawa tanda-tanda dan keajaiban yang masih bergema sepanjang zaman. Semasa anda mengikuti jejak petunjuk, anda akan menempuh kisah yang ditandai dengan keajaiban — dari permulaan yang ajaib hingga pendakian di luar langit. Bolehkah anda mengenal pasti hamba yang diberkati ini sebelum petunjuk terakhir?",
+  "clues": [
+    "Aku diutus sebagai utusan kepada Bani Israil dengan membawa berita rahmat dan cahaya.",
+    "Kelahiranku adalah satu petanda ajaib — aku lahir ke dunia ini tanpa seorang ayah, atas perintah Yang Maha Kuasa.",
+    "Aku bersuara ketika masih bayi, mempertahankan kehormatan ibuku terhadap tuduhan kaumnya.",
+    "Dengan izin Allah, aku membentuk burung dari tanah liat dan meniupkan kehidupan ke dalam mereka — mereka terbang di depan mata orang-orang yang menyaksikan.",
+    "Aku menyembuhkan orang buta sejak lahir, menyembuhkan orang kusta, dan bahkan membangkitkan orang mati — namun setiap mukjizat adalah dengan izin Allah, bukan dengan izinku sendiri.",
+    "Ketika musuh-musuhku merancang untuk menghancurkanku, Allah mengangkatku ke langit dan menjanjikan kembalinya aku sebelum Hari Kiamat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Isa (Yesus)",
+        "Nabi Musa (Musa)",
+        "Nabi Ibrahim (Abraham)",
+        "Nabi Muhammad",
+        "Nabi Yusuf (Yusuf)"
+      ],
+      "answer": "Nabi Isa (Yesus)"
+    },
+    "trial": {
+      "label": "Detik Penentu",
+      "options": [
+        "Aku diangkat ke syurga",
+        "Aku dicampakkan ke dalam api yang marak",
+        "Aku berhadapan dengan tentera Firaun yang perkasa",
+        "Saya ditelan oleh seekor ikan paus yang besar",
+        "Aku membina sebuah bahtera di atas gunung"
+      ],
+      "answer": "Aku diangkat ke syurga"
+    },
+    "location": {
+      "label": "Tanda Suci Dilakukan",
+      "options": [
+        "Saya membentuk burung daripada tanah liat",
+        "Aku telah mengubah tongkat menjadi ular",
+        "Aku membelah bulan menjadi dua",
+        "Aku perintahkan angin dan jin",
+        "Aku mengeluarkan seekor unta betina dari batu"
+      ],
+      "answer": "Saya membentuk burung daripada tanah liat"
+    },
+    "outcome": {
+      "label": "Apa yang Terjadi pada Saya",
+      "options": [
+        "Diangkat ke langit; berjanji untuk kembali",
+        "Menjadi pemerintah agung sebuah empayar",
+        "Memimpin bangsaku keluar dari perbudakan",
+        "Dikurniakan kekayaan duniawi yang tiada tandingan",
+        "Telah bersatu semula dengan keluarga saya setelah lama berpisah"
+      ],
+      "answer": "Diangkat ke langit; berjanji untuk kembali"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

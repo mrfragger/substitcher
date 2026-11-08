@@ -1,0 +1,61 @@
+{
+  "title": "tekepbirligiň aşagynda batýan hazyna",
+  "intro": "Açarlary götermek güýçli adamlaryň toparyny ýadadýan derejede uly baýlyk üýşmeleriniň öňünde durmagy göz öňüne getiriň. Siziň töweregiňizde sesler pesgöwünliligi we ýatlamany höweslendirýär, ýöne buýsanç minnetdarlykdan has güýçli bolýar. Baýlyk synaga öwrülip, ​​tekepbirlik netijäni berkitse näme bolýar?",
+  "clues": [
+    "Men Musanyň kowmundandym, ýöne olara garşy hyýanat etdim.",
+    "Maňa şeýle uly hazynalar berildi welin, olaryň açarlary güýçli adamlaryň toparyna agyrlyk salyp bilerdi.",
+    "Maňa kowumym şatlanmazlygy we bu dünýädäki paýymy ýatdan çykarman ahyreti gözlemegi maslahat berdi.",
+    "Men eýe bolan zadymyň diňe bilimim sebäpli berlendigini öňe sürdüm.",
+    "Men kowumumyň öňünde bezenip ýördüm, dünýä durmuşyna höwes edýänler bolsa meniňki ýaly zady arzuw etdiler.",
+    "Meni ýer we meniň öýüm ýuwutdy, hiç kim maňa kömek edip bilmedi, men hem özüme kömek edip bilmedim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Karun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Kabil"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Baýlygy bilen öwündi we maslahat berlende-de, Allanyň ryzasyny ret etdi",
+        "Ibrahime ýaşaýyş we ölüm bermek barada çagyryş berdi",
+        "Talut we Dawut pygamberlere garşy goşun sürdi",
+        "Halkyň sežde etmegi üçin oýulan butlar",
+        "Sadaka üçin göriplik edip, doganyny öldürdi"
+      ],
+      "answer": "Baýlygy bilen öwündi we maslahat berlende-de, Allanyň ryzasyny ret etdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Uly hazynalaryň açarlary",
+        "Äht sandyk",
+        "Bezegleriň altyn gölesi",
+        "Iki dagyň arasyndaky bent",
+        "Düşde on bir ýyldyz"
+      ],
+      "answer": "Uly hazynalaryň açarlary"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ýer ýaşaýşy we baýlygy bilen ýuwudyldy",
+        "Musany yzarlaýarka deňizde gark boldy",
+        "Dawudyň sapanyndan daş bilen ýere uruldy",
+        "Däneleriň aýagyny kesmek üçin güýçli partlama bilen ýok edildi",
+        "Sabat günini bozanlygy üçin maýmynlara öwrüldi"
+      ],
+      "answer": "Ýer ýaşaýşy we baýlygy bilen ýuwudyldy"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

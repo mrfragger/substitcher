@@ -1,0 +1,61 @@
+{
+  "title": "Die Verleugnung inmitten des Überflusses",
+  "intro": "Du befindest dich inmitten eines Volkes, dessen Marktplätze vor Handel nur so wimmeln, doch ihre Waage neigt sich in Ungerechtigkeit. Ein Bote ist mit deutlichen Warnungen zu ihnen gekommen, aber sie lachen und wenden sich ab, selbstsicher in ihrem Wohlstand. Der Himmel verdunkelt sich, doch sie sehen darin einen Segen des Regens. Wer sind diese Menschen?",
+  "clues": [
+    "Wir gediehen in Ländern des Handels und des Überflusses, doch unsere Herzen wurden gefühllos.",
+    "Ein Bote kam zu uns mit Zeichen von unserem Herrn, aber wir spotteten über seine Warnungen.",
+    "Wir waren für unseren Handel bekannt, aber wir haben zu wenig getan und die Leute betrogen.",
+    "Wir lebten inmitten dichter Bäume und üppiger Vegetation, aber wir nahmen unsere Segnungen als selbstverständlich hin.",
+    "Als sich eine dunkle Wolke näherte, jubelten wir, weil wir dachten, sie würde Regen in unsere ausgedörrten Länder bringen.",
+    "Stattdessen entfesselte diese Wolke eine sengende Strafe, und wir wurden von der Qual des finsteren Tages ergriffen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Ashab al-Aykah (Die Gefährten des Waldes)",
+        "Volk der Thamud",
+        "Leute von 'Ad",
+        "Volk von Lut",
+        "Volk von Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Die Gefährten des Waldes)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Sie wiesen ihren Boten zurück und betrogen im Handel.",
+        "Sie beteten ein goldenes Kalb an und wurden irregeführt.",
+        "Sie praktizierten Sodomie und griffen Reisende an.",
+        "Sie bauten hohe Türme und forderten Gott heraus",
+        "Sie weigerten sich, Wasser zu teilen und verletzten eine Kamelstute."
+      ],
+      "answer": "Sie wiesen ihren Boten zurück und betrogen im Handel."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein dichter Wald oder ein Dickicht",
+        "Ein in Wohnhäuser gehauener Berg",
+        "Eine Stadt am Meer",
+        "Ein Wüstental mit Brunnen",
+        "Ein fruchtbarer Garten mit vielen Früchten"
+      ],
+      "answer": "Ein dichter Wald oder ein Dickicht"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Zerstört von einer Schattenwolke aus Feuer",
+        "Von einer großen Flut überflutet",
+        "Von einem Erdbeben verschluckt",
+        "Von einem heftigen Wind getroffen",
+        "Zu Stein verwandelt"
+      ],
+      "answer": "Zerstört von einer Schattenwolke aus Feuer"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

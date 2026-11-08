@@ -1,0 +1,61 @@
+{
+  "title": "La veu de la convicció oculta",
+  "intro": "Al cor d'una cort tirànica, on la incredulitat era la llei del país, una ànima solitària caminava per una corda fluixa de fe i por. Aquest individu, a prop del centre del poder, escoltava com el missatge d'un profeta era rebut amb menyspreu i amenaces. Va arribar un moment de veritat, obligant aquesta persona a triar entre la seguretat silenciosa i dir una veritat perillosa. Pots descobrir la identitat d'aquest valent defensor?",
+  "clues": [
+    "Vaig viure a la mateixa casa d'un tirà, presenciant de primera mà l'arrogància que rebutjava els signes divins.",
+    "Vaig guardar la meva fe en secret, un tresor amagat en un palau d'idolatria.",
+    "Vaig sentir que el líder a qui servia conspirava per matar un missatger d'Al·là, un home anomenat Musa.",
+    "Vaig qüestionar la seva lògica, recordant-los el destí de la gent de Nuh, 'Ad i Thamud.",
+    "Vaig plantejar una pregunta crítica al meu poble: «Si és un mentider, la seva mentida recau sobre ell; però si és veraç, alguna de les seves promeses us sorprendrà».",
+    "La meva història es narra com a exemple de fe en la sura anomenada \"El Perdonador\", on vaig advertir el meu poble contra els plans dels poderosos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "El creient de la família de Fir'awn",
+        "Aman",
+        "Els mags de Fir'awn",
+        "Qarun",
+        "El Samiri"
+      ],
+      "answer": "El creient de la família de Fir'awn"
+    },
+    "trial": {
+      "label": "Quina va ser la meva prova?",
+      "options": [
+        "Defensant el profeta Musa a la cort del tirà",
+        "Construint una torre elevada per arribar al cel",
+        "Ser llançat a un foc ardent",
+        "Ser engolit per un peix gegant",
+        "Perdre tota la riquesa i la salut"
+      ],
+      "answer": "Defensant el profeta Musa a la cort del tirà"
+    },
+    "location": {
+      "label": "Quin era el tema del meu argument?",
+      "options": [
+        "Les conseqüències de rebutjar el missatge d'un profeta",
+        "La demanda d'un signe d'un arbre sagrat",
+        "La creació d'un vedell a partir de joies foses",
+        "El miracle d'un camell de la roca",
+        "La interpretació dels somnis d'un governant"
+      ],
+      "answer": "Les conseqüències de rebutjar el missatge d'un profeta"
+    },
+    "outcome": {
+      "label": "Quin va ser el resultat?",
+      "options": [
+        "Al·là va salvar aquest individu del seu malvat complot",
+        "Tota la cort va acceptar immediatament l'Islam",
+        "El tirà es va penedir en el moment d'ofegar-se",
+        "El tirà va ser engolit per la terra",
+        "L'individu va ser exiliat a una terra llunyana"
+      ],
+      "answer": "Al·là va salvar aquest individu del seu malvat complot"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

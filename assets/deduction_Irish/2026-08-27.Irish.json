@@ -1,0 +1,61 @@
+{
+  "title": "An Duine Roghnaithe Dea-Chumasach",
+  "intro": "I scáth sléibhe inar tháinig focail dhiaga anuas, bhí creideamh an phobail ag luascadh faoi ghlioscarnach an óir. Sheas anam amháin, a raibh bronntanas ealaíonta aige, mar thaca do mhisean níos mó, ach bhí sé os comhair tástála domhain. Nuair a chuaigh an teachtaire roghnaithe suas go dtí ceapachán naofa, d’fhan an figiúr seo ina dhiaidh, ag achainí le náisiún suaimhneach. Cé hé an t-anam daingean seo a raibh a ghlór ag ardú i gcoinne íoladhradh?",
+  "clues": [
+    "Roghnaigh Allah mé le bheith i mo fháidh, cé go minic a insítear mo scéal taobh le scéal eile.",
+    "Cuireadh chuig rialóir tíoránta mé, ach ba é mo ról tacú a thabhairt, ní ceannaireacht a dhéanamh.",
+    "Bhí bua agam le héabhlóid, agus bhí mo chuid focal ceaptha chun croíthe a mhaolú.",
+    "Nuair a d’imigh mo chompánach le haghaidh coinne naofa, fágadh mise le pobal suaimhneach a threorú.",
+    "Ina mífhoighne, chruthaigh siad íomhá as a n-ornáidí, agus impigh mé orthu fanacht dílis d'Allah.",
+    "D’fhill mo chompánach agus rug sé orm, ach mhínigh mé dom gur sháraigh na daoine mé agus gur bheag nár mharaigh siad mé; ní raibh mé i measc na ndaoine a rinne an cion."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "an Fáidh Músa",
+        "Fáidh Harun",
+        "Fáidh Íosa",
+        "An Fáidh Yahya",
+        "Fáidh Zakariya"
+      ],
+      "answer": "Fáidh Harun"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á chaitheamh isteach sa tine",
+        "Á chaitheamh isteach i dtobar",
+        "Ag tabhairt aghaidh ar eachtra an lao órga",
+        "An tástáil ar ghalar tromchúiseach",
+        "An tástáil ar shaibhreas agus leanaí a chailleadh"
+      ],
+      "answer": "Ag tabhairt aghaidh ar eachtra an lao órga"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An lao órga",
+        "An fhoireann",
+        "Áirc an Chonartha",
+        "Na táibléid",
+        "An tor dóite"
+      ],
+      "answer": "An lao órga"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Pionós trom",
+        "Maithithe agus saortha",
+        "Rinneadh rí de",
+        "Tógtha chun na bhflaitheas",
+        "Scrioptúr nua tugtha"
+      ],
+      "answer": "Maithithe agus saortha"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

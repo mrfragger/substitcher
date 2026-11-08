@@ -1,0 +1,61 @@
+{
+  "title": "Valdnieks, kas ceļoja pāri zemes malām",
+  "intro": "Iztēlojieties varenu valdnieku, kuram piešķirta vara un vara pār zemi. Šī persona devās neparastos ceļojumos, sasniedzot vietu, kur riet saule, un vietu, kur tā uzlec, satiekot svešas tautas un saskaroties ar lielu izaicinājumu no divām korumpētām tautām. Kas ir šis mīklainais vadonis?",
+  "clues": [
+    "Es biju valdnieks, kam bija piešķirta vara un līdzekļi, lai sasniegtu zemes tālākos nostūrus.",
+    "Es devos ceļojumā uz rietumiem un vēroju saulrietu duļķainā pavasarī.",
+    "Uzlecošās saules tuvumā es sastapu cilvēkus, kuriem nebija patvēruma no tās karstuma.",
+    "Cita kopiena lūdza manu palīdzību cīņā pret divām samaitājošām tautām, kas pazīstamas kā Gogs un Magogs.",
+    "Es uzbūvēju barjeru, izmantojot dzelzi un izkausētu varu, lai tos ierobežotu.",
+    "Es paziņoju, ka šī barjera ir mana Kunga žēlastība un tā paliks līdz noteiktajam laikam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Pravietis Sulaimans",
+        "Koruns",
+        "Taluts",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Barjeras celšana pret Gogu un Magogu",
+        "Pārdzīvojot lielus plūdus",
+        "Tiekot iemests ugunī",
+        "Jūras šķērsošana",
+        "Cīņa ar milzi"
+      ],
+      "answer": "Barjeras celšana pret Gogu un Magogu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Dzelzs un vara barjera",
+        "Personāla loceklis, kas pārvērtās par čūsku",
+        "Koka kuģis",
+        "Stikla pils",
+        "Dateļpalmu dārzs"
+      ],
+      "answer": "Dzelzs un vara barjera"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Gogs un Magogs tika sagūstīti līdz noteiktajam laikam",
+        "Viņš kļuva par pravieti",
+        "Viņš tika sodīts par augstprātību",
+        "Viņš iekaroja visu pasauli",
+        "Viņš dzīvoja mūžīgi"
+      ],
+      "answer": "Gogs un Magogs tika sagūstīti līdz noteiktajam laikam"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

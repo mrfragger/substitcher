@@ -1,0 +1,61 @@
+{
+  "title": "Architectus Falsae Ambitionis",
+  "intro": "Persona magnae auctoritatis olim uni ex tyrannis historiae notissimis in Aegypto antiqua servivit. Huic viro audax mandatum est — structuram construere quae caelos provocaret. Historia eorum in Alcorano stat ut insignis lectio de quomodo caeca oboedientia arrogantiae solum ad ruinam ducat.",
+  "clues": [
+    "In aulis principis potentis qui divinitatem super terras sibi vindicabat, servivi.",
+    "Altum ministerii munus tenui, tyrannum mei temporis arrogantissimum consulens.",
+    "Princeps meus provocando Deum Moysi, quem agnoscere nolebant, consumebatur.",
+    "Iussi sum turrim ex lateribus igne coctis construere ut princeps meus in caelum ascendere posset.",
+    "Turris numquam caelum attigit, et arrogantiae servitus mihi aeternum dedecus peperit.",
+    "Cum eo quem secutus sum perii, et nomen meum factum est in perpetuam admonitionem contra eos qui tyrannos adiuvant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Aman",
+        "Azar (pater Ibrahimi)",
+        "Illyas (propheta)",
+        "Dhu al-Kifl",
+        "Harut (unus ex duobus angelis Babylonis)"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Iussi aedificare structuram altissimam ad caelum pertingendum",
+        "Rogatus ut somnium a divino missum interpretaretur",
+        "In ignem ardentem proiectus ut fidei experimentum",
+        "Coactus inter thronum et veritatem eligere",
+        "Provocatus in certamine magiae"
+      ],
+      "answer": "Iussi aedificare structuram altissimam ad caelum pertingendum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Turris laterum igne coctorum",
+        "Baculus qui in serpentem transformatus est",
+        "Navis per magnum diluvium navigans",
+        "Hortus muris altis clausus",
+        "Thronus rubinis et auro ornatus"
+      ],
+      "answer": "Turris laterum igne coctorum"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Submersus iuxta oppressorem in mari",
+        "Potens rex vastarum terrarum factus est",
+        "Effugit ignem ardentem incolumis",
+        "Regnum sapientiae prosperum aedificavit",
+        "Post annos exsilii cum familia iterum coniunctus est"
+      ],
+      "answer": "Submersus iuxta oppressorem in mari"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

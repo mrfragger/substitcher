@@ -1,0 +1,61 @@
+{
+  "title": "An Trasnú ag an gCladach",
+  "intro": "Seasann tú ar ghaineamh cladaigh dearmadta, áit a bhfuil na tonnta ag cogarnaigh faoi phobal atá faoi thástáil ordaithe diaga. Tá an t-aer trom le cuimhne ar shárú a thug claochlú scanrúil. Cé hiad na hanamacha seo, agus cén cineál a dtriail?",
+  "clues": [
+    "Ba phobal muid a fuair ordú soiléir ónár dTiarna, ach fuair muid bealaí chun é a shárú.",
+    "Bhí cónaí orainn in aice le corp uisce, agus bhí ár slí bheatha ag brath ar a chréatúir.",
+    "Tháinig tástáil orainn an lá a tugadh orduithe dúinn staonadh ó thóireachtaí an tsaoil.",
+    "Tháinig créatúir an uisce chugainn i líon mór an lá sin féin, ag cur cathú orainn thar a bheith seasmhach.",
+    "Cheapamar cleas seiftiúil chun an t-ordú diaga a sheachaint, agus muid ag ceapadh go bhféadfaimis an foraithne a shárú.",
+    "Mar thoradh ar ár gcion, tháinig claochlú náireach orainn; rinneadh apaí dímheasúla dínn de réir ordaithe Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir na Sabóide",
+        "Muintir Rass",
+        "Muintir Tubba",
+        "Muintir na hUaimhe",
+        "Compánaigh an Díog"
+      ],
+      "answer": "Muintir na Sabóide"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Le feiceáil iasc ar an tSabóid",
+        "Bliain de thriomach dian",
+        "Arm éan a seoladh ina gcoinne",
+        "Tuile a chuir an ruaig orthu",
+        "Crith talún foréigneach"
+      ],
+      "answer": "Le feiceáil iasc ar an tSabóid"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An fharraige",
+        "Sliabh",
+        "Uaimh",
+        "Gleann fásaigh",
+        "Cathair dhaingnithe"
+      ],
+      "answer": "An fharraige"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Iompú ina n-apaí",
+        "Slogtha ag an talamh",
+        "Scriosta ag gaoth ag screadaíl",
+        "Báite sa bhfarraige",
+        "Buailte ag cith cloch"
+      ],
+      "answer": "Iompú ina n-apaí"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

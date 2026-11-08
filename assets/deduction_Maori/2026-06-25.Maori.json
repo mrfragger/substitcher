@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaiwhakarongo mai i te Mea Kāore i Kitea",
+  "intro": "I tua atu i te arai o te ao kitea, he huihuinga huna i huihui i roto i te pōuri, e kukume ana ki tētahi oro i whakahē i ngā mea katoa i mōhiotia e rātou. Kua roa rātou e kopikopiko ana me te kore he aratohu pono, tae noa ki te putanga mai o tētahi reo i roto i te wā puku o tō rātou ao kāore i kitea, ā, ka whakaoho i tētahi mea hohonu i roto. I tēnei pō, ka karangatia koe kia hikoi atu i ngā atarangi, kia hurahia te tuakiri o tēnei rōpū ngaro, nā te tūtakitanga ki ngā kupu atua i arahi i a rātou ki tō rātou iwi hei kaiwhakatūpato mō te pono e kore e taea te pupuri.",
+  "clues": [
+    "He tangata tawhito tātou, i noho i mua noa atu i ngā iwi maha kua pānuitia e koutou, heoi, he onge te kōrero mō tātou i roto i ngā kōrero tuku iho a te tangata.",
+    "He rerekē tō mātou āhua i tō koutou, he mea whatu mai i ngā āhuatanga o te mea kāore e kitea, ā, he mana anō ō mātou e whakahē ana i te mea noa.",
+    "Mō ngā tau maha, i kopikopiko noa mātou me te kore he aratohu pono, ā tae noa mai tētahi haruru i whakaoho i tētahi mea i roto i a mātou.",
+    "I rongo mātou i tētahi whakahuatanga hou kāore i rite ki tā mātou i mua, he kupu e taimaha ana i tua atu i tētahi atu kōrero.",
+    "I pīkari puku mātou, me te whakahau i ō mātou ake kia noho puku, ā, i te mutunga o ngā whiti, kāore i taea e mātou te noho mārire.",
+    "I hoki mātou ki tō mātou iwi, ā, i kī atu mātou: 'E tō mātou iwi, kua rongo mātou i tētahi Pukapuka i whakakitea i muri i a Mohi, e whakaū ana i ngā mea o mua atu, e ārahi ana ki te pono.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Hawariyyun (Nga akonga a Isa)",
+        "Ko ngā Jinn i whakapono i muri i te rongonga i te Quran",
+        "Ngā Hoa o te Ana",
+        "Ngā anahera o te rangi o raro rawa",
+        "Ko te iwi o Parao i whai i tōna ara"
+      ],
+      "answer": "Ko ngā Jinn i whakapono i muri i te rongonga i te Quran"
+    },
+    "trial": {
+      "label": "Whakamātautau / Takahanga",
+      "options": [
+        "I peia tātou i waho nā te mea i whakakahore tātou ki te piko ki mua i tētahi mea hou i hangaia",
+        "I hiritia mātou i roto i tētahi ana mō ngā tau e toru rau e iwa",
+        "I whakahaua mātou kia whiti i te moana i wehea i mua i a mātou",
+        "I tonoa mātou ki te whenua makutu ki te ako i te makutu",
+        "I whakarongo puku mātou ki tētahi whakahua, ā, i puta ke ō mātou whakaaro i taua whakahua"
+      ],
+      "answer": "I whakarongo puku mātou ki tētahi whakahua, ā, i puta ke ō mātou whakaaro i taua whakahua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He kuao kau koura i hangaia mai i ngā whakapaipai a tētahi iwi",
+        "He ana i moe ai mō ngā whakatipuranga",
+        "Tokorua ngā anahera i Papurona i whakaako i te mātauranga tapu",
+        "He pukapuka i whakakitea i muri i a Mohi, hei whakaū i te Tora",
+        "He rakau e mura ana i runga i te maunga tapu"
+      ],
+      "answer": "He pukapuka i whakakitea i muri i a Mohi, hei whakaū i te Tora"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I kanga tātou tae noa ki te Rā Whakawa",
+        "I whakatika mātou ki tētahi rangatira nui, ā, i hanga he ārai ki te whenua",
+        "I hurihia mātou hei makimaki me hei poaka",
+        "I hoki mātou ki tō mātou iwi hei kaiwhakatūpato, hei kauwhau i te whakapono",
+        "I toremi mātou ki te moana i te taha o tō mātou rangatira"
+      ],
+      "answer": "I hoki mātou ki tō mātou iwi hei kaiwhakatūpato, hei kauwhau i te whakapono"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

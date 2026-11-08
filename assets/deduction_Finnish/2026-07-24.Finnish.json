@@ -1,0 +1,61 @@
+{
+  "title": "Verhottu salaliittolainen",
+  "intro": "Huomaat olevasi ilmestysten ajan vaikutusvaltaisen hahmon seurassa. Tämä henkilö tunnettiin älykkyydestään, varallisuudestaan ​​ja asemastaan ​​kansansa keskuudessa. Kun selkeät merkit tulivat, he tunnistivat kauneuden, mutta valitsivat uhman alistumisen sijaan. Mikä ajoi tämän sielun juonittelemaan pimeydessä, ja mikä oli hänen lopullinen kohtalonsa?",
+  "clues": [
+    "Minua siunattiin runsailla resursseilla ja vaikutusvallalla, minkä ansiosta sanani oli painava seurakunnissa.",
+    "Kun jumalallisia sanoja lausuttiin, en voinut kieltää niiden kaunopuheisuutta, mutta ylpeyteni ei sallinut minun alistua.",
+    "Kokosin neuvonantajani yhteen ja eristäydyin miettimään, miten voisin kyseenalaistaa viestin.",
+    "Paljon mietittyäni julistin sen olevan vain \"menneisyydestä periytynyttä taikuutta\" ihmisten käännyttämiseksi pois.",
+    "Sitten ilmestys osoitettiin minulle suoraan: \"Jätä minut yksin sen kanssa, jonka loin.\" Minut valittiin juonittelujeni vuoksi.",
+    "Pian sama tuli, josta minua varoitettiin, tarttuu minuun otsatukasta, enkä pääse pakoon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Salaliitossa profeetan salamurhaamiseksi",
+        "Johti boikottia muslimeja vastaan",
+        "Kokosi neuvoston leimaamaan Koraanin taikuudeksi",
+        "Suunnittelivat karkottavansa profeetan Mekasta",
+        "Kieltäytyi jakamasta vaurauttaan orpojen kanssa"
+      ],
+      "answer": "Kokosi neuvoston leimaamaan Koraanin taikuudeksi"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Ilmestyskirja",
+        "Neuvosto",
+        "Etuotsa",
+        "Rikkaus",
+        "Kynä"
+      ],
+      "answer": "Etuotsa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hän katui ja kääntyi islamiin",
+        "Hän muutti Abessiniaan",
+        "Häntä kohtasi tappava tauti",
+        "Hän kuoli taistelussa muslimeja vastaan",
+        "Hänet tuomittiin helvetintuleen"
+      ],
+      "answer": "Hänet tuomittiin helvetintuleen"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

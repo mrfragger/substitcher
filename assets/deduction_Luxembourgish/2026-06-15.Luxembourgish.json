@@ -1,0 +1,61 @@
+{
+  "title": "D'Herrschaft vum Wand a Flam",
+  "intro": "Stellt Iech eng Herrschaft vir, wou de Wand selwer engem eenzege Herrscher äntwert, wou d'Stëmme vun de klengste Kreaturen Gewiicht gedroen hunn, a wou Kräften, déi fir normal Aen net ze gesi sinn, virsiichteg am Déngscht gehale goufen. Dës Figur huet en aussergewéinlecht Kinnekräich vun engem beléiften Virgänger geierft, dat Muecht iwwer d'Elementer an d'Djinn ausgeübt huet. Awer grouss Autoritéit koum mat grousse Prüfungen - an e leschte Moment géif eppes Erstaunleches iwwer d'Natur vum Liewen an dem Doud selwer verroden.",
+  "clues": [
+    "Ech hunn e grousst Kinnekräich vun engem beléiften Elterendeel geierft, deen och e Prophet an Dénger vun Allah war.",
+    "Allah huet mir Autoritéit iwwer de Wand ginn, an huet en op engem eenzege Moien op Kommissioune vun engem Mount Rees geschéckt.",
+    "Souguer déi klengst Kreaturen géifen iwwer mäin Usaz schwätzen, an ech géif kuerz ophalen fir sech iwwer hiert Bewosstsinn ze bewonneren.",
+    "Ech hunn eng grouss Arméi vu Djinn, Mënschen a Vigel kommandéiert, all a Reien uerdentlech virun mir opgestallt.",
+    "En wäiten Herrscher koum fir mech mat enger schwiereger Erausfuerderung ze testen, an ech hunn den Troun vun deem Herrscher op mäin Haff brénge gelooss, ier de Besucher iwwerhaapt vun engem Stull opstoe konnt.",
+    "Ech sinn stoe bliwwen, op e Staff gelehnt, bis eng kleng Kreatur vun der Äerd en duerchgenaabt huet - an eréischt dann hunn déi ronderëm mech gemierkt, datt ech laanscht war."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Sulayman (Salomo)",
+        "De Prophet Dawud (David)",
+        "De Prophet Isa (Jesus)",
+        "De Prophet Mohammed ﷺ",
+        "Prophet Musa (Moses)"
+      ],
+      "answer": "Prophet Sulayman (Salomo)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Den Troun vun enger wäiter Kinnigin duerch iwwernatierlech Mëttelen bréngen",
+        "Als Kand an en déiwe Brunn erofgelooss ginn",
+        "D'Magier vun engem Tyrann mat wonnerbare Zeeche konfrontéieren",
+        "Vum Kandheetsalter un schwätzen, fir d'Éier vun enger Mamm ze verdeedegen",
+        "D'Empfänke vun der leschter opgedeckter Schrëft op engem hellege Bierg"
+      ],
+      "answer": "Den Troun vun enger wäiter Kinnigin duerch iwwernatierlech Mëttelen bréngen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Stab aus Holz, dee vun engem Termit duerchgebass gouf",
+        "Eng grouss Ark, déi gebaut gouf, fir eng weltwäit Iwwerschwemmung ze iwwerstoen",
+        "Eng Staang, déi sech virun engem Tyrann an eng Schlaang verwandelt huet",
+        "E Stéck Stoff, dat benotzt gëtt fir Blann ze heelen",
+        "Eng helleg Höhl, wou eng Offenbarung fir d'éischt kritt gouf"
+      ],
+      "answer": "E Stab aus Holz, dee vun engem Termit duerchgebass gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "En noble Besuchende Herrscher huet de Glawen ugeholl, nodeems hien Zeeche gesinn huet",
+        "Eng grouss Iwwerschwemmung huet all ausser déi Gleeweg op enger Ark zerstéiert",
+        "E Pharao a seng Arméi sinn am Mier ëmkomm",
+        "E gerechte Begleeder gouf an den Himmel gehuewen",
+        "En Tyrannkinnek a seng Stad goufen ëmgekéiert an zerstéiert"
+      ],
+      "answer": "En noble Besuchende Herrscher huet de Glawen ugeholl, nodeems hien Zeeche gesinn huet"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

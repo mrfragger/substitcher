@@ -1,0 +1,61 @@
+{
+  "title": "Intwasahlobo Ephantsi Kwentlabathi",
+  "intro": "Kwimbali yeQuran, umntu owayenomonde omkhulu wajongana novavanyo olwaluza kwaphula iintliziyo eziqinileyo. Yonke into yahluthwa - ubutyebi, usapho, nempilo. Kodwa ke, ngenxa yokuphelelwa lithemba, umthandazo othobekileyo waphendulwa ngendlela engalindelekanga. Ungawubona lo mphefumlo obali lakhe lokubuyiselwa lihlala linkenteza iminyaka?",
+  "clues": [
+    "Ndavavanywa ngovavanyo olunzima kangangokuba luhlala lukhunjulwa kuyo yonke iminyaka.",
+    "Ndilahlekelwe yiyo yonke into ebalulekileyo - ubutyebi bam, abantwana bam, nempilo yam.",
+    "Umzimba wam wawugcwele izilonda ezibuhlungu, kwaye ndandingafunwa ngumntu wonke.",
+    "Ndiphelelwe lithemba, ndabiza uAllah, ndisithi uSathana undichukumisile ngobunzima nentuthumbo.",
+    "U-Allah wandiphendula waza wandiyalela ukuba ndibethe umhlaba ngonyawo lwam.",
+    "Kuloo ndawo kanye, kwaphuma umthombo obandayo, waza u-Allah wabuyisela usapho lwam waza waluphinda kabini njengenceba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti u-Ayyub",
+        "Umprofeti uMusa",
+        "Umprofeti uIlyas",
+        "Umprofeti uSulayman",
+        "Umprofeti uDawud"
+      ],
+      "answer": "Umprofeti u-Ayyub"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukugula kakhulu kunye nokulahlekelwa lusapho kunye nobutyebi",
+        "Ukuginywa yintlanzi enkulu",
+        "Ukugxothwa kwisixeko saseMakkah",
+        "Ukuvalelwa entolongweni emthonjeni onzulu",
+        "Ukulwa nomlawuli onekratshi"
+      ],
+      "answer": "Ukugula kakhulu kunye nokulahlekelwa lusapho kunye nobutyebi"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umthombo opholileyo ovela emhlabeni",
+        "Inqanawa phezu komkhukula omkhulu",
+        "Intonga eyahlula ulwandle",
+        "Itrone ephakamileyo yeglasi",
+        "Umqolomba obiyelweyo wokulala"
+      ],
+      "answer": "Umthombo opholileyo ovela emhlabeni"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Usapho nobutyebi bubuyiselwe kwaye buphindwe kabini",
+        "Phuma esiswini sentlanzi",
+        "Indlela ekhuselekileyo emanzini ahlukeneyo",
+        "Ubukumkani obunikwe ulawulo",
+        "Ukuzalwa konyana ngokungummangaliso ebudaleni"
+      ],
+      "answer": "Usapho nobutyebi bubuyiselwe kwaye buphindwe kabini"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

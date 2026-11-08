@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Mpiantso Tsy Mihozongozona ho amin'ny Fahamarinana",
+  "intro": "Misy iraka mijoro irery eo anivon'ny vahoaka mafy loha, miantso azy ireo hanatona an'ilay Andriamanitra Tokana Marina raha mbola mifikitra amin'ny sampy sandoka izy ireo. Ity mpaminany ity dia mitondra anarana izay maneno miaraka amin'ny dikany mahery vaika - 'ilay mitady fiarovana' - nefa tsy mahazo afa-tsy fandavana sy fandavana. Amin'ny alalan'ny fandresen-dahatra malefaka sy fampitandremana mafy orina, ity fanahy ity dia mitondra hafatra masina izay hohamarinin'izao rehetra izao amin'ny farany. Azonao fantarina ve ity olona mahatoky ity izay maneho ny iray amin'ireo fitantarana tranainy indrindra ao amin'ny soratra masina Islamika?",
+  "clues": [
+    "Nivavaka tamin'andriamanitra maro ny oloko, raha izaho kosa niantso azy ireo hanompo Ilay nahary ny lanitra sy ny tany.",
+    "Nijoro teo anatrehan'ny fireneko aho ary nanambara fa tsy hangataka valisoa amin'izy ireo aho—ny hany faniriako dia ny fitarihana azy ireo ho amin'ny fahamarinana.",
+    "Nisy rivotra mahery nalefa tamin'ny vahoakako ho sazy avy amin'Andriamanitra, rivotra izay resahin'ny CORAN amin'ny endrika maro sy vavy.",
+    "Tsy tahaka ny mpaminany sasany, tsy nomena vady na zanaka voalaza miharihary tao amin'ny fitantarako aho, satria ny iraka nampanaovina ahy dia ny hiantso ny oloko irery ihany.",
+    "Mitondra dikany lalina ny anarako—mifandraika amin'ny hevitra momba ny fiarovana sy ny fialofana tadiavin'ny olona iray.",
+    "Fantatra tamin'ny teny ara-jeôgrafia manokana ho an'ny lohasaha nonenany ny oloko, ary nolazalazaina tamim-pankahalana manokana ny taniny noho ny tsy fisian'ny zavamaniry tao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Hoda",
+        "Mpaminany Salih",
+        "Mpaminany Shu'aib",
+        "Mpaminany Noa",
+        "Mpaminany Hodayb"
+      ],
+      "answer": "Mpaminany Hoda"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny tondra-dranon'ny tany",
+        "Ny rivotra mahamay",
+        "Ny horohoron-tany manimba",
+        "Ny hain-tany sy ny mosary",
+        "Ny fandevenana any an-dranomasina"
+      ],
+      "answer": "Ny rivotra mahamay"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny lohasaha lonaka any Yemen",
+        "Ny efitr'i Midiana fasika",
+        "Ny lohasaha vatolampin'ny Thamud",
+        "Ny tanin'ny vahoaka 'Ad fahiny",
+        "Ny faritra amorontsirak'i Ejipta"
+      ],
+      "answer": "Ny tanin'ny vahoaka 'Ad fahiny"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nibebaka ny oloko ary niditra tao amin'ny paradisa",
+        "Tsy nisy tamin'ny oloko tafavoaka velona tamin'ny famaizana",
+        "Nalaina velona aho tahaka an'i Yunus rahalahiko",
+        "Nifindra monina niaraka tamin'ireo mpanara-dia ahy ho any amin'ny tany voatahy aho",
+        "Ny rivotra dia nandringana ireo tsy mpino ihany raha tafavoaka velona kosa ireo mpino"
+      ],
+      "answer": "Tsy nisy tamin'ny oloko tafavoaka velona tamin'ny famaizana"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Arkiteektii Of tuulummaa",
+  "intro": "Biyya durii humna mormituutiin bulfamtu keessatti, namni dhuunfaa ijoo taʼe tokko ejjennoo dhiibbaa qaba ture. Lubbuun kun mala gurguddaa bulchaa kanaa keessatti gahee guddaa kan qabdu siʼa taʼu, bulchiinsa cunqursaa isaaniif gumaacha kan goote siʼa taʼu, ergaa waaqaa mormtee turte. Dhaalli isaanii humna addunyaa hordofuu fi dhugaa ganuu wajjin wal-xaxaa dha.",
+  "clues": [
+    "Bulchaa sodaachisaa dhalootaaf ummata tokko cunqursaa ture tajaajilaa ture.",
+    "Maqaan koo yeroo baay’ee Kitaaba Waaqaa keessatti geggeessaa humna guddaa qabu kana cinatti caqafama.",
+    "Pirojektii ijaarsaa guddaa, jechuunis caasaa olkaʼaa samii gaʼuuf yaadame hojjechuuf natti kenname.",
+    "Gooftaan koo ilmaan Israa’el akka ajjeesee ijoollee durbaa isaanii akka qusatu gorse.",
+    "Ergamaa Rabbii jabaa tokko irratti shiraa fi shira xaxaa ture.",
+    "Dhumni koo gooftaa koo fi waraana isaa wajjin bishaan galaana bal’aa keessa dhufe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nimrud",
+        "Abraahaa",
+        "Goliyaad",
+        "Ibliis",
+        "Hamaan"
+      ],
+      "answer": "Hamaan"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Qabeenya hangana hin jedhamneen qoramuu",
+        "Mana qulqulluu tokko irratti waraana geggeessuu",
+        "Waaqayyoo bira ga'uuf masaraa ijaaruu",
+        "Amantii isaaniif ibiddatti darbatamuu",
+        "Obbolaadhaan boolla bishaanii keessatti gatamuu"
+      ],
+      "answer": "Waaqayyoo bira ga'uuf masaraa ijaaruu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Taabota",
+        "Hojjettoonni",
+        "Gaara",
+        "Masaraa",
+        "Whale jedhamuun beekama"
+      ],
+      "answer": "Masaraa"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Ogummaa guddaa argachuu",
+        "Raajii ta'uu",
+        "Lafaan liqimfamuu",
+        "Mootummaan kennamuu",
+        "Galaana keessatti liqimfamuu"
+      ],
+      "answer": "Galaana keessatti liqimfamuu"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Parêzvan li kêleka çem",
+  "intro": "Li welatekî ku fermana zalimekî xemgînî anî gelek malan, giyanek peyamek wergirt ku hemû tirsan red kir. Bi dilê tijî baweriyê, wan dest bi kiryarek baweriyê kir ku dê rêça neteweyekê biguherîne. Dema ku av barekî hêja hildigirt, hêvî bi herikînan re tevlihev dibû.",
+  "clues": [
+    "Ez di serdema zulm û tirsê de jiyam.",
+    "Min îlhama îlahî wergirt ku cesaret da min.",
+    "Ji min re hatibû gotin ku netirsim û xemgîn nebim.",
+    "Min zarokê xwe xist nav sandûqekê û danî ser avê.",
+    "Zarokê min ji aliyê malbata hukumdar ve hate dîtin, lê zarokê min ê din jî li pey wî hat.",
+    "Ez dîsa bi zarokê xwe re hatim cem hev da ku şîrê wî bidim, tam wekî ku Xwedê soz dabû."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Dayîka Mûsa",
+        "Jina Fîrewn",
+        "Xwişka Mûsa",
+        "Dayika Îsa",
+        "Şahbanûya Şebayê"
+      ],
+      "answer": "Dayîka Mûsa"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Îlhama avêtina zarokekî nav çem",
+        "Ji bo dueleke sêrbaziyê tê teşwîqkirin",
+        "Ji aliyê artêşê ve tê şopandin",
+        "Derbaskirina deryayeke ku ji hev veqetiyaye",
+        "Avakirina xaniyek pîroz"
+      ],
+      "answer": "Îlhama avêtina zarokekî nav çem"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Sandoqek li çem hatiye danîn",
+        "Dareke dişewite",
+        "Darek ku veguherî mar",
+        "Golikê zêrîn",
+        "Textek"
+      ],
+      "answer": "Sandoqek li çem hatiye danîn"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Zarok bi ewlehî vegeriya cem bijîşk",
+        "Zarok ji bo her û her winda bû",
+        "Zarok bir welatekî dûr",
+        "Zarok di cih de bû serwer",
+        "Zarok ji aliyê bazirganekî dewlemend ve hate xwedîkirin."
+      ],
+      "answer": "Zarok bi ewlehî vegeriya cem bijîşk"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

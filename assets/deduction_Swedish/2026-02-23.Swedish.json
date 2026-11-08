@@ -1,0 +1,61 @@
+{
+  "title": "Den dolda övertygelsens röst",
+  "intro": "I hjärtat av en tyrannisk domstol, där misstro var landets lag, vandrade en ensam själ på en balanserad lina av tro och rädsla. Denna individ, nära maktens centrum, lyssnade medan en profets budskap möttes av hån och hot. Ett sanningens ögonblick kom, vilket tvingade denna person att välja mellan tyst trygghet och att tala en farlig sanning. Kan du avslöja identiteten på denna modiga förespråkare?",
+  "clues": [
+    "Jag levde i en tyranns själva hushåll och bevittnade på nära håll den arrogans som förkastade gudomliga tecken.",
+    "Jag höll min tro hemlig, en gömd skatt i ett avgudadyrkans palats.",
+    "Jag hörde att ledaren jag tjänade planerade att döda en av Allahs budbärare, en man vid namn Musa.",
+    "Jag ifrågasatte deras logik och påminde dem om ödet för folket i Nuh, 'Ad och Thamud.",
+    "Jag ställde en kritisk fråga till mitt folk: \"Om han är en lögnare, så vilar hans lögn på honom; men om han är sanningsenlig, kommer en del av vad han lovar att slå er.\"",
+    "Min berättelse berättas som ett exempel på tro i suran \"Förlåtaren\", där jag varnade mitt folk för de mäktigas planer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Den troende från Fir'awns familj",
+        "Haman",
+        "Magikerna från Fir'awn",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Den troende från Fir'awns familj"
+    },
+    "trial": {
+      "label": "Vad var min prövning?",
+      "options": [
+        "Försvarar profeten Musa i tyrannens hov",
+        "Bygga ett högt torn för att nå himlen",
+        "Att kastas in i en flammande eld",
+        "Att bli uppslukad av en jättefisk",
+        "Förlora all rikedom och hälsa"
+      ],
+      "answer": "Försvarar profeten Musa i tyrannens hov"
+    },
+    "location": {
+      "label": "Vad var temat för mitt argument?",
+      "options": [
+        "Konsekvensen av att förkasta en profets budskap",
+        "Kravet på ett tecken från ett heligt träd",
+        "Skapandet av en kalv av smälta smycken",
+        "Miraklet med en kamel från klippan",
+        "Tolkning av en härskares drömmar"
+      ],
+      "answer": "Konsekvensen av att förkasta en profets budskap"
+    },
+    "outcome": {
+      "label": "Vad blev resultatet?",
+      "options": [
+        "Allah räddade denna individ från deras onda plan",
+        "Hela hovet accepterade omedelbart islam",
+        "Tyrannen ångrade sig i drunkningsögonblicket",
+        "Tyrannen svaldes av jorden",
+        "Individen förvisades till ett avlägset land"
+      ],
+      "answer": "Allah räddade denna individ från deras onda plan"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

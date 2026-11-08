@@ -1,0 +1,61 @@
+{
+  "title": "Trimdas derības lauzēji",
+  "intro": "Jaunas kopienas pirmsākumos kāda cilts dzīvoja nocietinātās mājās, ko saistīja pakts. Kad šis pakts tika lauzts, sekas atbalsojās Korāna lappusēs. Kas bija šie cilvēki, un kas notika ar viņu mājām un augļu dārziem?",
+  "clues": [
+    "Mēs dzīvojām cietokšņos, kas mums deva viltus drošības sajūtu.",
+    "Mēs bijām Rakstu ļaudis, tomēr mēs lauzām savu derību.",
+    "Mēs sazvērējāmies pret vēstnesi pēc tam, kad viņš bija ieradies pie mums, bet mūsu plāns neizdevās.",
+    "Mūsu palmas tika nocirstas pēc Allāha pavēles, kas ir Viņa spēka zīme.",
+    "Par nepakļaušanos mūs izdzina no mājām un nekad tur neatgriezās.",
+    "Korāns mūs piemin sapulces nodaļā, un mūsu stāsts kalpo kā brīdinājums tiem, kas lauž paktus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Banu Nadir",
+        "Banu Kuraiza",
+        "Banu Qaynuqa",
+        "Madjanas iedzīvotāji",
+        "Tamudas iedzīvotāji"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Aplenkums un izraidīšana no mājām",
+        "Slīkšana jūrā",
+        "Tikt norītai zemei",
+        "Iznīcināšana vētras laikā",
+        "Pārvēršanās par pērtiķiem"
+      ],
+      "answer": "Aplenkums un izraidīšana no mājām"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Nocirstas palmas",
+        "Personāls",
+        "Šķirsts",
+        "Ūdens aka",
+        "Ala"
+      ],
+      "answer": "Nocirstas palmas"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Izsūtīti un viņu īpašums atņemts",
+        "Atgriezās uzvaroši",
+        "Tika piedoti un palika",
+        "Tūlīt iekļuva paradīzē",
+        "Viņus piemeklēja mēris"
+      ],
+      "answer": "Izsūtīti un viņu īpašums atņemts"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

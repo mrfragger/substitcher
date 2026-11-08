@@ -1,0 +1,61 @@
+{
+  "title": "Go Gatola mo gare ga Letlotlo",
+  "intro": "O iphitlhela o le mo gare ga batho ba mebaraka ya bone e tletseng ka kgwebo, mme lefa go ntse jalo sekale sa bone se tlhotlhorega ka go sa ikanyege. Morongwa o tlile kwa go bone a tshotse ditlhagiso tse di utlwalang sentle, mme ba a tshega ba bo ba fapoga, ba tlhomamisegile ka katlego ya bone. Loapi lo simolola go fifala, mme ba se bona e le tshegofatso ya pula. Batho bano ke bomang?",
+  "clues": [
+    "Re ne re atlega mo dinageng tsa kgwebo le tsa letlotlo, le fa go ntse jalo dipelo tsa rona di ne tsa nna kutlwelobotlhoko.",
+    "Morongwa o ne a tla kwa go rona ka ditshupo tse di tswang kwa Moreneng wa rona, mme re ne ra sotla ditlhagiso tsa gagwe.",
+    "Re ne re itsege ka kgwebo ya rona, mme re ne re ntsha selekanyo se sekhutshwane mme re tsietsa batho.",
+    "Re ne re nna mo gare ga ditlhare tse di kitlaneng le dimela tse ditala, mme re ne re tsaya masego a rona a le botlhokwa fela thata.",
+    "Fa leru le lentsho le atamela, re ne re itumela, re akanya gore le tla tlisa pula mo mafatsheng a rona a a omileng.",
+    "Go na le moo, leru leo ​​le ne la golola kotlhao e e fisang, mme re ne ra tshwarwa ke pogiso ya letsatsi la moriti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Ashab al-Aykah (Balekane ba Dikgong)",
+        "Batho ba Thamude",
+        "Batho ba 'Ad",
+        "Batho ba Lute",
+        "Batho ba Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Balekane ba Dikgong)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Ba ne ba gana morongwa wa bone mme ba tsietsa mo kgwebong .",
+        "Ba ne ba obamela namane ya gouta mme ba timediwa .",
+        "Ba ne ba dira bosodoma le go tlhasela batsamai",
+        "Ba ne ba aga ditora tse ditelele mme ba gwetlha Modimo .",
+        "Ba ne ba gana go abelana metsi mme ba gobatsa kamela e namagadi"
+      ],
+      "answer": "Ba ne ba gana morongwa wa bone mme ba tsietsa mo kgwebong ."
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Sekgwa se se kitlaneng kgotsa sekgwa",
+        "Thaba e e betlilweng go nna bonno",
+        "Motse o o fa thoko ga lewatle",
+        "Mokgatšha wa sekaka o o nang le didiba",
+        "Tshingwana e e nonneng e e nang le maungo a mantsi"
+      ],
+      "answer": "Sekgwa se se kitlaneng kgotsa sekgwa"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E sentswe ke moriti wa leru la molelo",
+        "A nwelwa ke morwalela o mogolo",
+        "E meditswe ke thoromo ya lefatshe",
+        "A itewa ke phefo e e maatla",
+        "E fetogile letlapa"
+      ],
+      "answer": "E sentswe ke moriti wa leru la molelo"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

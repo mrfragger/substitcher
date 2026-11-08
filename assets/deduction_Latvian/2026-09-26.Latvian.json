@@ -1,0 +1,61 @@
+{
+  "title": "Noliegums pārpilnības vidū",
+  "intro": "Tu atrodies tautas vidū, kuras tirgus laukumi rosās no tirdzniecības, tomēr viņu svari svārstās negodīgi. Pie viņiem ir atnācis vēstnesis ar skaidriem brīdinājumiem, bet viņi smejas un novēršas, pārliecināti par savu labklājību. Debesis sāk satumst, bet viņi to uztver kā lietus svētību. Kas ir šie cilvēki?",
+  "clues": [
+    "Mēs uzplaukām tirdzniecības un pārpilnības zemēs, tomēr mūsu sirdis kļuva bezsirdīgas.",
+    "Pie mums atnāca vēstnesis ar mūsu Kunga zīmēm, bet mēs izsmējām viņa brīdinājumus.",
+    "Mēs bijām pazīstami ar savu tirdzniecību, bet mēs trūkām mēra un krāpām cilvēkus.",
+    "Mēs dzīvojām blīvu koku un sulīgas veģetācijas vidū, bet mēs uzskatījām savu svētību par pašsaprotamu.",
+    "Kad tuvojās tumšs mākonis, mēs priecājāmies, domājot, ka tas atnesīs lietu mūsu izkaltušajām zemēm.",
+    "Tā vietā šis mākonis atbrīvoja dedzinošu sodu, un mūs pārņēma ēnas dienas mokas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Ašabs al-Ajkah (Meža biedri)",
+        "Tamudas iedzīvotāji",
+        "Reklāmas cilvēki",
+        "Lutas iedzīvotāji",
+        "Nuhas iedzīvotāji"
+      ],
+      "answer": "Ašabs al-Ajkah (Meža biedri)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Viņi noraidīja savu vēstnesi un krāpās tirdzniecībā",
+        "Viņi pielūdza zelta teļu un tika maldināti",
+        "Viņi praktizēja sodomiju un uzbruka ceļotājiem",
+        "Viņi uzcēla augstus torņus un izaicināja Dievu",
+        "Viņi atteicās dalīties ūdenī un nodarīja pāri kamielim"
+      ],
+      "answer": "Viņi noraidīja savu vēstnesi un krāpās tirdzniecībā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Blīvs mežs vai biezoknis",
+        "Kalns, kas izgrebts mājokļos",
+        "Pilsēta pie jūras",
+        "Tuksneša ieleja ar akām",
+        "Auglīgs dārzs ar daudziem augļiem"
+      ],
+      "answer": "Blīvs mežs vai biezoknis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Iznīcināts uguns ēnu mākoņa",
+        "Noslīka lielos plūdos",
+        "Zemestrīces aprīta",
+        "Spēcīga vēja brāzma",
+        "Pārvērtās akmenī"
+      ],
+      "answer": "Iznīcināts uguns ēnu mākoņa"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

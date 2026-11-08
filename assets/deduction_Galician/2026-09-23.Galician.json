@@ -1,0 +1,61 @@
+{
+  "title": "A chamada que atravesou as eras",
+  "intro": "Imaxina unha alma que se enfronta soa a toda unha civilización, decidida a guiala para que non se desvíe do seu destino cunha resolución inquebrantable. Durante séculos, a mensaxe foi rexeitada, burlada e desestimada, pero o esforzo nunca cesou. Finalmente, chegou un gran xuízo final e só uns poucos embarcaron na salvación xunto a esta alma firme. Podes identificar esta figura do Corán?",
+  "clues": [
+    "Fun enviado como advertidor a un pobo perdido nos seus propios camiños.",
+    "Convideinos a buscar perdón e a arrepentirse dos seus erros, pero déronse a volta.",
+    "Baixo orde divina, construín unha embarcación enorme mentres a miña xente me observaba e ridiculizaba.",
+    "Invoquei ao meu Señor sen cesar; finalmente, El respondeu, e a auga derramouse do ceo a torrentes.",
+    "Subín ao barco cos que creran cando as augas do diluvio subiron por riba da terra.",
+    "Clamei a un que quedara atrás, pedíndolle que se refuxiase nun monte, pero o decreto xa se aprobara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Ibrahim",
+        "Profeta Moisés",
+        "Profeta Hud",
+        "Profeta Salih"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Construíndo unha gran arca e sobrevivindo a un diluvio mundial",
+        "Ser lanzado a un lume abrasador",
+        "Enfrontándose a un tirano e aos seus poderosos magos",
+        "Ser tragado por un gran peixe",
+        "Presenciando a matanza dunha cameloa sagrada"
+      ],
+      "answer": "Construíndo unha gran arca e sobrevivindo a un diluvio mundial"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha arca de madeira enorme sobre as furiosas augas das inundacións",
+        "Un val sagrado con antigas ruínas de pedra",
+        "Unha cova profunda onde os compañeiros durmiron durante séculos",
+        "O ventre dunha balea xigante nas profundidades do océano",
+        "Unha imponente montaña de pedra no deserto"
+      ],
+      "answer": "Unha arca de madeira enorme sobre as furiosas augas das inundacións"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Salvados cos crentes a bordo do barco",
+        "Rescatada ilesa do lume por orde divina",
+        "Liderou un gran éxodo dun poderoso reino",
+        "Lanzado fóra do peixe a unha costa árida",
+        "Afastou á xente da maldade mediante un sinal milagroso"
+      ],
+      "answer": "Salvados cos crentes a bordo do barco"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

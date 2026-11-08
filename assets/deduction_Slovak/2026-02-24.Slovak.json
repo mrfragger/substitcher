@@ -1,0 +1,61 @@
+{
+  "title": "Ozvena klamstva",
+  "intro": "Príbuzenské puto bolo otestované vlnou závisti. Vznikol tajný plán, ktorý spustil reťaz udalostí, ktoré sa mali rozprestierať roky a prekonať obrovské vzdialenosti. Činy tejto skupiny viedli k hlbokému odlúčeniu a smútku, ale príbeh sa tým nekončil. Je to príbeh o klamstve, ľútosti a konečnom odhalení božského plánu. Dokážete odhaliť identitu týchto jednotlivcov, ktorých rozhodnutia sa ozývali generáciami?",
+  "clues": [
+    "Zožierala nás žiarlivosť kvôli náklonnosti prejavovanej jednému z našich.",
+    "V našej závisti sme sa sprisahali a hodili nášho súrodenca do tmy studne.",
+    "Aby sme zakryli svoj čin, darovali sme otcovi odev poškvrnený falošnou krvou.",
+    "O niekoľko rokov neskôr nás krutý hladomor prinútil cestovať do Egypta hľadať zásoby.",
+    "Tam sme sa ocitli pred mocným guvernérom, ktorý, bez nášho vedomia, bol práve tým súrodencom, ktorému sme ukrivdili.",
+    "Našou poslednou skúškou bolo priviesť nášho najmladšieho brata, Benjamína, čo viedlo k odhaleniu našej minulosti a toho, že naším otcom bol prorok Jakub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Synovia Adama (Qabil a Habil)",
+        "Učeníci proroka Isaa",
+        "Bratia proroka Jusufa",
+        "Ľudia z Madyanu",
+        "Faraónovi kúzelníci"
+      ],
+      "answer": "Bratia proroka Jusufa"
+    },
+    "trial": {
+      "label": "Aký bol náš hlavný prehrešok?",
+      "options": [
+        "Stavba zlatého teľaťa na uctievanie",
+        "Požiadavka vidieť priamy pohľad na Alaha",
+        "Vysmievať sa prorokovi za to, že postavil archu",
+        "Oklamali sme nášho otca a opustili nášho brata",
+        "Porušenie sabatu rybolovom"
+      ],
+      "answer": "Oklamali sme nášho otca a opustili nášho brata"
+    },
+    "location": {
+      "label": "Aký objekt bol ústredným prvkom nášho klamu?",
+      "options": [
+        "Sada tabuliek s nápismi",
+        "Košeľa zafarbená falošnou krvou",
+        "Zlaté teľa",
+        "Krásny vták (dudok)",
+        "Palica, ktorá sa premenila na hada"
+      ],
+      "answer": "Košeľa zafarbená falošnou krvou"
+    },
+    "outcome": {
+      "label": "Aký bol konečný výsledok nášho príbehu?",
+      "options": [
+        "Zničila nás mohutná povodeň",
+        "Premenili nás na opice",
+        "Zem nás pohltila",
+        "Bolo nám odpustené a opäť sme sa stretli s našou rodinou",
+        "Utopili sme sa v mori"
+      ],
+      "answer": "Bolo nám odpustené a opäť sme sa stretli s našou rodinou"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

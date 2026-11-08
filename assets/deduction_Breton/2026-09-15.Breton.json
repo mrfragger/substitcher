@@ -1,0 +1,61 @@
+{
+  "title": "An ostaleri a zegase ar spont",
+  "intro": "En ur gêr lonket gant ar fallagriezh, ur servijer feal a resevas gweladennerien dic'hortoz un deiz. Prederiet gant e surentez, an den-se a ginnigas gwarez, met tud ar gêr a c'houlennas un dra bennak mezhus. Diwallet diouzh un distruj o tont, e tec'has ar servijer gant e familh dindan kuzh an deñvalijenn, o lezel war e lerc'h ur gêr merket evit an distruj. Piv eo ar c'hredenn nemetañ-se ?",
+  "clues": [
+    "Kaset on bet evel kannad d'ur bobl he doa graet oberoù mezhus.",
+    "Dont a rae gweladennerien dic'hortoz d'am zi, ha nec'het e oan muioc'h gant o surentez eget gant ma hini.",
+    "Goulenn a rae va zud gwelet ma c'hostezennoù evit mennozhioù fall, ha klask a ran rezoniñ ganto.",
+    "Ma weladennerien a ziskouezas bezañ aeled hag a c'hourc'hemennas din kemer ma familh ha mont kuit diouzh an noz.",
+    "Ma wreg n'he deus ket selaouet ar galv da dec'hout ha dirak ar memes distruj evel ma fobl.",
+    "Ma c'hêr a oa bet troc'het gant ur glav mein pri strollet, he lodennoù uhelañ degaset an izelañ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Lut",
+        "Ar profed Musa",
+        "Ar profed Ibrahim",
+        "Profed Nuh",
+        "Profed Hud"
+      ],
+      "answer": "Ar profed Lut"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Goulenn va fobl da dostaat ouzh va c'houvidi en un doare fall",
+        "Disparti ar mor evit tec'hout diouzh un tirant",
+        "Savadur un arc'h bras e-kreiz ar goap",
+        "Sakrifis va mab en eur test a feiz",
+        "An darvoud bezañ lonket gant ur pesk bras"
+      ],
+      "answer": "Goulenn va fobl da dostaat ouzh va c'houvidi en un doare fall"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Kêr diskaret va fobl",
+        "Ar menez e-lec'h ma'm eus resevet ar brezegenn doueel",
+        "An arc'h a dremenas dre eul liñvadenn vras",
+        "Ar c'hañvalez a zeuas er-maez eus ar roc'h",
+        "Al liorzh gant ur weladenner reizh kuzhet"
+      ],
+      "answer": "Kêr diskaret va fobl"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Saveteet on bet gant ma familh a-raok ma vije diskaret ma c'hêr",
+        "Kaset em eus va fobl d'ar frankiz en tu all d'ar mor",
+        "Savet em eus un arc'h bras ha chomet bev diouzh ul liñvadenn vras",
+        "Roet e oa bet din galloud war an avelioù hag ar jinn",
+        "Gouzañvet em eus ar boan gant pasianted ha gounezet on bet gant ma familh"
+      ],
+      "answer": "Saveteet on bet gant ma familh a-raok ma vije diskaret ma c'hêr"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

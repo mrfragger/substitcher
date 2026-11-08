@@ -1,0 +1,61 @@
+{
+  "title": "An tOthar Gan Chlaonadh",
+  "intro": "I stair na fáidhiúlachta, is beag duine a d’fhulaing caillteanas chomh domhain agus anró fisiciúil le creideamh dochloíte. Is ceacht gan teorainn é scéal an fhigiúir seo i bhfoighne agus i muinín in eagna dhiaga. Cé hé an t-anam seo?",
+  "clues": [
+    "Roghnaigh Allah mé chun teachtaireacht a sheachadadh, ach ní trí dhiúltú a tháinig an tástáil is mó a rinne mé, ach trí thubaiste phearsanta.",
+    "Tógadh mo shaibhreas, mo bheostoc, agus mo chlann uaim, duine i ndiaidh a chéile.",
+    "Bhí mo chorp clúdaithe le créachta, agus fágadh i m’aonar mé ach amháin tacaíocht mo chéile.",
+    "Ghlaoigh mé ar mo Thiarna, ag admháil mo fhulaingt agus ag lorg a thrócaire.",
+    "Tugadh treoir dom an talamh a bhualadh le mo chos, agus phléasc tobar úrnua amach.",
+    "D’athbhunaigh Allah mo shláinte agus thug sé teaghlach nua dom agus níos mó saibhris fós ná mar a bhí agam roimhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ayyub",
+        "Fáidh Ibrahim",
+        "an Fáidh Músa",
+        "Fáidh Íosa",
+        "Fáidh Nuh"
+      ],
+      "answer": "Fáidh Ayyub"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Cailliúint saibhris agus teaghlaigh",
+        "Á chaitheamh isteach sa tine",
+        "A bheith á shlogadh ag iasc",
+        "A bheith scartha ón teaghlach agus díolta i sclábhaíocht",
+        "Á thástáil le lao órga"
+      ],
+      "answer": "Cailliúint saibhris agus teaghlaigh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tobar uisce",
+        "Bata a d’iompaigh ina nathair",
+        "Áirc adhmaid",
+        "Lao leáite",
+        "Crann pailme"
+      ],
+      "answer": "Tobar uisce"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Athchóiriú an teaghlaigh agus an tsaibhris",
+        "Ardú chun na bhflaitheas",
+        "Ag éirí ina rí",
+        "Á shábháil ó mhíol mór",
+        "Mac a fháil i seanaois"
+      ],
+      "answer": "Athchóiriú an teaghlaigh agus an tsaibhris"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

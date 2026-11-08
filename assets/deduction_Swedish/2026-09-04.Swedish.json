@@ -1,0 +1,61 @@
+{
+  "title": "Melodin som flyttade bergen",
+  "intro": "Du är på väg att avslöja historien om en anmärkningsvärd tjänare till Allah. I ett land av budbärare och härskare välsignades denna figur med en gudomlig bok, en kraftfull röst och styrka över järn. När du läser ledtrådarna, kan du identifiera vem detta kan vara?",
+  "clues": [
+    "Jag var en Allahs tjänare som fick en speciell bok.",
+    "Jag hade en vacker röst, och mitt lov var så älskat att till och med bergen och fåglarna sällade sig till mig.",
+    "Jag mötte en formidabel motståndare i en berömd strid, och trots att jag var mindre segrade jag.",
+    "Järn gjordes smidigt åt mig, vilket gjorde det möjligt för mig att tillverka rustningar med mina egna händer.",
+    "Jag blev satt till härskare över ett stort folk, och min visdom i omdöme blev berömd.",
+    "Min son, också en profet, fick kontroll över vinden och djinnerna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Dawud (David)",
+        "Profeten Sulaiman (Salomo)",
+        "Profeten Musa (Moses)",
+        "Profeten Harun (Aron)",
+        "Profeten Ilyas (Elias)"
+      ],
+      "answer": "Profeten Dawud (David)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Besegrade Goliat (Jalut)",
+        "Delade havet",
+        "Överlevde valen",
+        "Kastades i en eld",
+        "Byggde arken"
+      ],
+      "answer": "Besegrade Goliat (Jalut)"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Zabur (Psalmerna)",
+        "Toran (Tawrat)",
+        "Evangeliet (Injil)",
+        "Ibrahims rullar",
+        "Koranen"
+      ],
+      "answer": "Zabur (Psalmerna)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Blev profet och kung i Israel",
+        "Blev härskare över Egypten",
+        "Blev upphöjd till himlen",
+        "Förstördes av en storm",
+        "Blev en grottans följeslagare"
+      ],
+      "answer": "Blev profet och kung i Israel"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hurma Ağacının Gölgesinde",
+  "intro": "Doğumdan önce ayrıcalıklı kılınmış, kutsal duvarlar içinde beslenmiş ve dünyanın daha önce hiç tanık olmadığı bir işareti taşımak üzere seçilmiş bir ruhun öyküsü ortaya çıkıyor. Her yönden suçlamalar yükselirken, en beklenmedik yerden gelen bir ses tüm şüpheleri susturdu. Hurma ağacının gölgesinde kimin yürüdüğünü keşfedebilir misiniz?",
+  "clues": [
+    "Daha dünyaya gelmeden önce Yüce Allah'a hizmet etmeye adanmıştım; bu, beni karnında taşıyanın verdiği bir sözdü.",
+    "Ben, bir ibadethanenin kutsal odalarında, dürüst bir koruyucunun gözetimi altında büyüdüm.",
+    "Velim ne zaman odama gelse, yanımda mevsimlerin dışında kalmış yiyecekler bulurdu.",
+    "Bana bir oğul sahibi olacağım müjdesi verildi, ancak içinde bulunduğum koşullar vaat edilenin gerçekleşmesine imkan vermiyordu.",
+    "Uzak bir yere çekildim ve orada bir hurma ağacı bana gölge sağladı, altından da bir dere akıyordu.",
+    "Suçlamalar yöneltildiğinde ve sorular etrafımı sardığında, yeni doğmuş çocuğumu işaret ettim ve o, beşiğinden konuşarak tüm şüpheleri susturdu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Maryam",
+        "Sarah",
+        "Hawaii",
+        "Umm Musa",
+        "Nuh'un Karısı"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Deneme / Etkinlik",
+      "options": [
+        "Tecrit altında mucizevi bir şekilde oğul dünyaya getirmek",
+        "Putperestler tarafından alev alev yanan bir ateşe atılmak",
+        "Seçilmiş birkaç kişiyle büyük tufandan sağ kurtulmak",
+        "Nehre atılan bir bebekten ayrılmak",
+        "Mısır'ın kudretli hükümdarıyla yüzleşmek"
+      ],
+      "answer": "Tecrit altında mucizevi bir şekilde oğul dünyaya getirmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir hurma ağacı ve altından akan bir dere.",
+        "Yüksek dalgaların üzerinde görkemli bir gemi",
+        "Koca bir denizi ikiye ayıran bir asa",
+        "Sadık bir ruhu yakıp kül etmeyi amaçlayan alevli bir ateş",
+        "Değerli taşlarla süslenmiş altın bir taht."
+      ],
+      "answer": "Bir hurma ağacı ve altından akan bir dere."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Tüm kadınların en yücesi olarak onurlandırıldı.",
+        "Uzun bir ayrılığın ardından sevgili çocuğuyla yeniden bir araya geldi.",
+        "Bütün bir ulusu bir tiranın esaretinden kurtardı.",
+        "Ahlaksızlığa batmış bir halkı uyardı.",
+        "Cinler, insanlar ve rüzgarlar üzerinde egemenlik bahşedildi."
+      ],
+      "answer": "Tüm kadınların en yücesi olarak onurlandırıldı."
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

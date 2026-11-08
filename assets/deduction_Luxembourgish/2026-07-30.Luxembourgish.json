@@ -1,0 +1,61 @@
+{
+  "title": "Déi komesch Visiteuren vun enger befestegter Stad",
+  "intro": "Eng Grupp ass un d'Paarte vun enger Stad ukomm, där hir Leit d'Wourecht ni kannt hunn. Si hunn eng Botschaft bruecht, awer d'Awunner sinn feindlech ginn a mat Gewalt gedreet. Awer aus enger onerwaarter Plaz huet sech eng eenzeg Stëmm erhieft fir d'Främler ze verdeedegen an huet d'Bühn fir eng dramatesch Wendung vun den Eventer virbereet.",
+  "clues": [
+    "Mir sinn an eng Stad erakomm, där hir Leit vun Ongleewe verschléckt waren.",
+    "Si hunn eis mat Verdacht ugekuckt a gesot: \"Dir sidd just ganz normal Wiesen ewéi mir.\"",
+    "Mir hunn se gewarnt, mä si hunn Steng géint eis gehäit.",
+    "E Mann ass vum wäitsten Enn vun der Stad gestürmt fir eis Wourecht ze bestätegen.",
+    "Hien huet sengem Vollek erkläert: \"Firwat soll ech deen net ubidden, deen mech erschaf huet?\"",
+    "D'Dementi vun der Stad ass mat engem eenzege Knall op en Enn gaangen, an et huet Rou geherrscht, wou se fréier gespott hunn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "D'Bote vum Ya-Sin",
+        "D'Jünger vum Jesaja",
+        "D'Leit vum Trench",
+        "D'Magier vum Pharao",
+        "De Gleewegen vum Ya-Sin"
+      ],
+      "answer": "D'Bote vum Ya-Sin"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Ofleenung a Bedrohung mat Stengung",
+        "An e schaarft Feier gehäit ginn",
+        "E Gedoldstest mat engem verluerene Kand",
+        "E Gaart, deen zerstéiert gouf",
+        "Eng Rees duerch d'Mier"
+      ],
+      "answer": "Ofleenung a Bedrohung mat Stengung"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Dat wäitst Enn vun der Stad",
+        "D'Rout Mier",
+        "D'Graf vum Feier",
+        "D'Höhl vum Schutz",
+        "De Prisong vun Egypten"
+      ],
+      "answer": "Dat wäitst Enn vun der Stad"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Stad gouf duerch een eenzege Ruff zerstéiert",
+        "D'Mier huet sech opgemaach an d'Arméi erdronk",
+        "D'Feier ass kill a sécher ginn",
+        "De Gaart gouf vun engem himmlesche Feier verbraucht",
+        "De Wal huet d'Persoun zréck un d'Ufer bruecht"
+      ],
+      "answer": "D'Stad gouf duerch een eenzege Ruff zerstéiert"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

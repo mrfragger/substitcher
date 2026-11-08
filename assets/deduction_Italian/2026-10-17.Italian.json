@@ -1,0 +1,61 @@
+{
+  "title": "La nostalgia nella camera sacra",
+  "intro": "Entrando nel silenzioso santuario, si vede un devoto servo di Allah in preghiera. Le mani sono alzate, gli occhi rivolti verso l'alto e nel suo cuore si cela un desiderio che dura da una vita intera. Chi è quest'anima paziente la cui fiducia in Allah non ha mai vacillato?",
+  "clues": [
+    "Ho trascorso lunghi anni in adorazione e preghiera, assistendo a miracoli che hanno rafforzato la mia fede.",
+    "Mi è stata affidata la responsabilità di prendermi cura di una giovane anima benedetta nel santuario.",
+    "Con l'avanzare dell'età, il mio più grande dolore fu quello di non avere figli, poiché mia moglie era sterile ed entrambi eravamo in età avanzata.",
+    "Ho pregato il Signore affinché mi mandasse un successore dalla mia famiglia, qualcuno che portasse avanti l'eredità della profezia.",
+    "Mentre mi trovavo nella nicchia di preghiera, gli angeli mi chiamarono dicendo: \"Allah ti annuncia una buona novella\", e fui colto da timore reverenziale e stupore.",
+    "Mi dissero che avrei avuto un figlio di nome Yahya, un nome che non era mai stato dato a nessuno prima, e come segno non avrei parlato con nessuno per tre giorni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Zakariyya",
+        "Profeta Yahya",
+        "Profeta Isa",
+        "Profeta Dawud",
+        "Luqman il Saggio"
+      ],
+      "answer": "Profeta Zakariyya"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Sterilità e vecchiaia, pur desiderando un erede giusto",
+        "Essere gettati in un fuoco ardente",
+        "Essere inghiottito da un grande pesce",
+        "Perdere un regno a causa di un tiranno",
+        "Essere esiliati dalla propria patria"
+      ],
+      "answer": "Sterilità e vecchiaia, pur desiderando un erede giusto"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La nicchia di preghiera (mihrab)",
+        "La grande nave (Arca)",
+        "Il roveto ardente",
+        "Il bastone che si trasformò in un serpente",
+        "La cammella di Allah"
+      ],
+      "answer": "La nicchia di preghiera (mihrab)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Concesse un figlio giusto e parlò di nuovo dopo tre giorni di silenzio",
+        "Distrutto da un'alluvione per incredulità",
+        "Avendo un vasto regno e il controllo sul vento",
+        "Fornito dal ventre di un pesce",
+        "Inghiottito dalla terra"
+      ],
+      "answer": "Concesse un figlio giusto e parlò di nuovo dopo tre giorni di silenzio"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

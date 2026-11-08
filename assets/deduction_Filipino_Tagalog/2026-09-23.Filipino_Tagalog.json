@@ -1,0 +1,61 @@
+{
+  "title": "Ang tawag na matagal nang hindi natitinag",
+  "intro": "Gunigunihin ang isang kaluluwa na nag-iisa laban sa isang buong sibilisasyon, determinadong gabayan sila pabalik mula sa pagkaligaw nang may matibay na determinasyon. Sa loob ng maraming siglo, ang mensahe ay tinanggihan, kinutya, at binalewala—ngunit ang pagsisikap ay hindi tumigil. Kalaunan, isang dakilang pagtutuos ang dumating, at iilan lamang ang nakaligtas kasama ang matatag na kaluluwang ito. Makikilala mo ba ang pigurang ito mula sa Quran?",
+  "clues": [
+    "Ako ay isinugo bilang tagapagbabala sa mga taong naliligaw sa kanilang sariling mga landas.",
+    "Inanyayahan ko silang humingi ng tawad at tumalikod sa kanilang mga pagkakamali, ngunit tumalikod sila.",
+    "Sa ilalim ng banal na utos, gumawa ako ng isang napakalaking sasakyang-dagat habang pinapanood at kinukutya ako ng aking mga kababayan.",
+    "Walang humpay akong tumawag sa aking Panginoon—kalaunan ay tumugon Siya, at bumuhos ang tubig mula sa langit nang may kalakasan.",
+    "Sumakay ako sa barko kasama ng mga naniwala nang tumaas ang tubig-baha sa lupa.",
+    "Sumigaw ako sa isa na naiwan, hiniling ko sa kanila na sumilong sa isang bundok, ngunit naipasa na ang utos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Noah",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Hud",
+        "Propeta Salih"
+      ],
+      "answer": "Propeta Noah"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Paggawa ng isang malaking arka at pagkaligtas sa isang pandaigdigang baha",
+        "Itinapon sa nagliliyab na apoy",
+        "Pagharap sa isang malupit na pinuno at sa kaniyang makapangyarihang mga salamangkero",
+        "Nilunok ng isang malaking isda",
+        "Pagsaksi sa pagpatay ng isang sagradong kamelyong babae"
+      ],
+      "answer": "Paggawa ng isang malaking arka at pagkaligtas sa isang pandaigdigang baha"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang napakalaking arkang kahoy sa ibabaw ng rumaragasang tubig-baha",
+        "Isang sagradong lambak na may mga sinaunang guho ng bato",
+        "Isang malalim na kuweba kung saan natutulog ang mga kasama sa loob ng maraming siglo",
+        "Ang tiyan ng isang higanteng balyena sa kailaliman ng karagatan",
+        "Isang matayog na bundok ng bato sa ilang"
+      ],
+      "answer": "Isang napakalaking arkang kahoy sa ibabaw ng rumaragasang tubig-baha"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naligtas kasama ng mga mananampalataya sakay ng barko",
+        "Nailigtas nang walang pinsala mula sa apoy sa pamamagitan ng banal na utos",
+        "Pinangunahan ang isang malaking pag-alis mula sa isang makapangyarihang kaharian",
+        "Itinapon mula sa isda patungo sa isang tigang na baybayin",
+        "Inakay ang mga tao palayo sa paggawa ng masama sa pamamagitan ng isang mahimalang tanda"
+      ],
+      "answer": "Naligtas kasama ng mga mananampalataya sakay ng barko"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

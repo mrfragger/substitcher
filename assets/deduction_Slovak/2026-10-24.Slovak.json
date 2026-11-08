@@ -1,0 +1,61 @@
+{
+  "title": "Varovanie pod zemou",
+  "intro": "Predstavte si, že stojíte pri hlbokom výkope, zatiaľ čo zdola sa ozývajú hlasy a svet hore stíchne. Korán zachováva túto scénu ako varovanie: komunita odmieta to, čo prinášajú poslovia, trest sa blíži a dokonca aj jej rev sa stáva súčasťou svedectva. Ktorý kolektív prehovára prostredníctvom týchto veršov?",
+  "clues": [
+    "V Koráne sme spomínaní ako kolektív definovaný jedným spoločným osudom, a nie individuálnym menom.",
+    "Odmietli sme posolstvo, ktoré priniesli poslovia, hoci to, čo hovorili, bola pravda.",
+    "Naša pamätná identita je spätá s hlbokým zárezom v zemi a tento prvok sa stal súčasťou nášho mena.",
+    "V určený deň nás vyviedli von a odvliekli k ohňu.",
+    "Nemohli sme sa brániť trestu a nepočuli sme jeho rev.",
+    "Naše tváre by boli otočené do ohňa a my by sme boli doňho zahnaní; keď sa nás pýtali, povedali by sme, že patríme medzi tých, ktorí nevedia odpovedať."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Spoločníci zo zákopu",
+        "Národ vyslobodený z veľkej potopy",
+        "Uctievači zlatého teľaťa",
+        "Skupina ukrytá v horskej jaskyni",
+        "Komunita vyslobodená z ohnivej pece"
+      ],
+      "answer": "Spoločníci zo zákopu"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Vtiahnutý a hodený do ohňa",
+        "Vyslobodený z ohnivej pece",
+        "Bezpečne prenesený cez veľkú povodeň",
+        "Stáročia ukrytý v jaskyni",
+        "Zachránený po tom, čo bol hodený do studne"
+      ],
+      "answer": "Vtiahnutý a hodený do ohňa"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Priekopa alebo jama",
+        "Veľké more",
+        "Horská jaskyňa",
+        "Vysoký palác",
+        "Púštna studňa"
+      ],
+      "answer": "Priekopa alebo jama"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Neschopní sa brániť a neschopní počuť rev ohňa",
+        "Zachránený a umožnený vstup do večných záhrad",
+        "Bezpečne doručené cez ničivú povodeň",
+        "Chránený dlhým spánkom v jaskyni",
+        "Poctený večným kráľovstvom"
+      ],
+      "answer": "Neschopní sa brániť a neschopní počuť rev ohňa"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

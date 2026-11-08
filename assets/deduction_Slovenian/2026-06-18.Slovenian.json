@@ -1,0 +1,61 @@
+{
+  "title": "Prvi, ki išče odpuščanje",
+  "intro": "Stopimo nazaj v čas pred prvim sončnim vzhodom, preden je kateri koli smrtnik hodil po zemlji. Iz najskromnejših materialov je bila izdelana figura, ki ji je bil dodeljen položaj nad angeli in postavljena v sveti vrt z jasnim opozorilom. Pa vendar je bila v enem samem trenutku sprejeta odločitev – izbira, ki bo odmevala skozi vso človeško zgodovino. Kdo je ta figura?",
+  "clues": [
+    "Nastal sem na način, ki ni podoben nobenemu drugemu – ustvarjen iz zemeljskega prahu in po Stvarnikovi roki sem dobil živo dušo.",
+    "Dano mi je bilo tako globoko znanje, da so se mu čudili celo angeli zgoraj.",
+    "Vsem nebesom je bilo ukazano, naj se priklonijo pred mano, in vsi so se podredili – razen enega, ki je iz ponosa zavrnil.",
+    "Postavili so me v sveti vrt, kraj večnega udobja in oskrbe – vendar z eno strogo prepovedjo.",
+    "Pozabil sem, spotaknil sem se in nisem ubogal – in težo svoje napake sem čutil globoko.",
+    "Z iskrenimi besedami sem se obrnil k svojemu Gospodu in sprejel je moje kesanje, saj je On Najbolj odpuščajoči."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Adam",
+        "Prerok Davud",
+        "Prerok Mohamed",
+        "Iblis",
+        "Prerok Jakub"
+      ],
+      "answer": "Prerok Adam"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Angelom je bilo ukazano, naj se poklonijo",
+        "Veliki potop je bil poslan",
+        "Velik ogenj se je ohladil in varno razplamtel",
+        "Arogantni vladar se je utopil v morju",
+        "Uničena je bila vojska slonov"
+      ],
+      "answer": "Angelom je bilo ukazano, naj se poklonijo"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrt blaženosti",
+        "Gora Sinaj",
+        "Sveta mošeja",
+        "Reka Nil",
+        "Jama"
+      ],
+      "answer": "Vrt blaženosti"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Alah je sprejel kesanje",
+        "Utopljen v morju",
+        "Pogoltnila ga je velika riba",
+        "Narod je zadel močan udar",
+        "Opečen od žgočega vetra"
+      ],
+      "answer": "Alah je sprejel kesanje"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

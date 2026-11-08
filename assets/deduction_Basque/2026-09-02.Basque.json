@@ -1,0 +1,61 @@
+{
+  "title": "Denboraren Haratagoko Loaldia",
+  "intro": "Imajinatu egia isilarazi eta sinestunak ehizatu zituzten garaia. Talde txiki batek errendizioaren gainetik erretiratzea aukeratu zuen, babeslekurik ezohikoenean aurkituz — mendeetan zehar atsedenleku bihurtuko zen leku batean. Azkenean esnatu zirenean, mundua eraldatu egin zen haien inguruan. Nor dira arima loti hauek?",
+  "clues": [
+    "Gazteak ginen, hiri zahar batean bizi ginenak.",
+    "Gure komunitateak haiekin batera gurtzea eskatu zigun, baina uko egin genion.",
+    "Gure sinesmenen aurka zeudenengandik babes bila ihes egin genuen hiritik.",
+    "Lau hankako lagun leial bat gure ezkutalekuaren sarreran geratu zen.",
+    "Ala-k hirurehun eta bederatzi urtez lo eginarazi zigun.",
+    "Azkenean esnatu ginenean, gure jazarrilari hiriak fedea besarkatu zuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Ashab al-Kahf (Haitzuloetako Jendea)",
+        "Ashab al-Fil (Elefantearen Armada)",
+        "Ashab al-Ukhdud (Lubakiko Lagunak)",
+        "Hawariyyun (Isako ikasleak)",
+        "Yajuj wa Majuj (Gog eta Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Haitzuloetako Jendea)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Kobazulo batera erretiratu eta mendeetan lo egin genuen",
+        "Sute bizitik salbatu gintuzten",
+        "Arrain handi batek irentsi gintuen",
+        "Gamelu eme miragarri batekin probatu gintuzten",
+        "Bederatzi seinale argi eman zizkiguten"
+      ],
+      "answer": "Kobazulo batera erretiratu ginen eta mendeetan lo egin genuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Mendietako kobazulo sakon bat",
+        "Itsasontzi bat itsaso zabalean",
+        "Zeruraino iristen den egitura erraldoi bat",
+        "Bi arerioren artean banatutako lorategia",
+        "Burdin eta kobrezko hesi bat"
+      ],
+      "answer": "Mendietako kobazulo sakon bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Esnatu ginenean, gure hiria fedearen alde agertu zen",
+        "Su bizia fresko eta baketsu bihurtu zen",
+        "Etsai armada bat itsasoan ito zen",
+        "Harriak zeramatzaten txoriek etsaia suntsitu zuten",
+        "Arrain handi batek kostaldera askatu gintuen"
+      ],
+      "answer": "Esnatu ginenean, gure hiria fedearen alde agertu zen"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

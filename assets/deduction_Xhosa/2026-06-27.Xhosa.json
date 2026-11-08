@@ -1,0 +1,61 @@
+{
+  "title": "Ukungabikho Okungcwele",
+  "intro": "Ngaphaya kweenduli zexesha, kukho ibali lokuzinikela okungagungqiyo kunye nokuthembana okunzima kangangokuba umphefumlo owawukuthwele wawunokwaphuka. Ngephanyazo xa abantu bajika baya ebubini nasegolideni, umntu omnye wema eqinileyo—ebabiza ukuba babuye, ecela umonde, kwaye ethwele ubunzima besithembiso esingcwele. Eli libali lomntu owakhethwa njengomncedisi, ingcali, kunye nomgcini wokholo ngexesha lokungabikho okungcwele. Ngaba ungatyhila ubuwena balo mphefumlo uqinileyo?",
+  "clues": [
+    "Ndibelana ngegazi lomprofeti omkhulu owakhethwa ukuba athethe no-Allah ngqo entabeni engcwele.",
+    "Umntakwabo wakha wacela uncedo kuAllah ukuba athethe ngokucacileyo nomcinezeli omkhulu.",
+    "Ndakhethwa nguAllah ukuba ndime ecaleni komntakwethu njengomncedi negosa.",
+    "Sisonke sajongana nomlawuli okhohlakeleyo owayefuna ukubizwa ngokuba ngoyena thixo uphakamileyo.",
+    "Ngelixa umntakwethu wayethetha no-Allah entabeni, abantu bethu bazenzela isithixo ngegolide yabo.",
+    "NdingumntakwaboMoses, omiselwe nguAllah njengegosa lakhe, okhankanywe ngegama kwiQuran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uHarun (uAron)",
+        "Umprofeti uMusa",
+        "Umprofeti uDawud",
+        "Umprofeti uYaqub",
+        "Umprofeti uIshaq"
+      ],
+      "answer": "Umprofeti uHarun (uAron)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ingxaki Yokunqula Ithole",
+        "UMkhukula Omkhulu kaNuh",
+        "Imfazwe yaseBadr",
+        "Ukutshatyalaliswa kweThamud",
+        "Ukutshatyalaliswa kweSodom"
+      ],
+      "answer": "Ingxaki Yokunqula Ithole"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ithole Legolide",
+        "Inqanawa kaNowa",
+        "Isihlahla Esitshayo",
+        "Umqolomba waseHira",
+        "Itrone yaseShebha"
+      ],
+      "answer": "Ithole Legolide"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ukungabi Nacala Kuqinisekiswe nguAllah",
+        "Ukuntywiliselwa kukaFaro",
+        "Ukwakhiwa kweKaaba",
+        "Ukuwela uLwandle ngokukhuselekileyo",
+        "Ukunyukela Emazulwini"
+      ],
+      "answer": "Ukungabi Nacala Kuqinisekiswe nguAllah"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

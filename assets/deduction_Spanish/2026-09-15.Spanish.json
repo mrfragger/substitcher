@@ -1,0 +1,61 @@
+{
+  "title": "La hospitalidad que trajo miedo",
+  "intro": "En una ciudad asolada por la maldad, un fiel siervo recibió un día visitas inesperadas. Preocupado por su seguridad, les ofreció protección, pero los habitantes de la ciudad exigieron algo vergonzoso. Advertido de una inminente catástrofe, el siervo huyó con su familia al amparo de la oscuridad, dejando atrás una ciudad condenada a la destrucción. ¿Quién es este único creyente?",
+  "clues": [
+    "Fui enviado como mensajero a un pueblo que había cometido actos vergonzosos.",
+    "Recibí visitas inesperadas en mi casa y me preocupaba más su seguridad que la mía.",
+    "Mi gente exigió ver a mis invitados por sus malas intenciones, y traté de razonar con ellos.",
+    "Mis visitantes se revelaron como ángeles y me ordenaron que tomara a mi familia y me marchara durante la noche.",
+    "Mi esposa no hizo caso al llamado a escapar y se enfrentó a la misma destrucción que mi pueblo.",
+    "Mi ciudad quedó arrasada por una lluvia de piedras de arcilla estratificada, y sus partes más altas quedaron reducidas a las más bajas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Lut",
+        "El profeta Musa",
+        "Profeta Ibrahim",
+        "Profeta Noé",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La exigencia de mi gente de acercarse a mis invitados de forma maliciosa",
+        "La separación del mar para escapar de un tirano",
+        "La construcción de una gran arca en medio de la burla.",
+        "El sacrificio de mi hijo en una prueba de fe",
+        "La experiencia de ser tragado por un pez enorme."
+      ],
+      "answer": "La exigencia de mi gente de acercarse a mis invitados de forma maliciosa"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La ciudad derribada de mi pueblo",
+        "La montaña donde recibí el discurso divino",
+        "El arca que navegó a través de un gran diluvio",
+        "La camella que emergió de la roca",
+        "El jardín con un visitante justo oculto"
+      ],
+      "answer": "La ciudad derribada de mi pueblo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Me salvé junto con mi familia antes de que mi ciudad fuera arrasada.",
+        "Guié a mi pueblo hacia la libertad al otro lado del mar.",
+        "Construí una gran arca y sobreviví a un gran diluvio.",
+        "Se me concedió dominio sobre los vientos y los genios.",
+        "Soporté pacientemente el sufrimiento y fui recompensado con la familia."
+      ],
+      "answer": "Me salvé junto con mi familia antes de que mi ciudad fuera arrasada."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fitakiana Fahefana Tampony",
+  "intro": "Fahiny, nisy olona mahery iray nanjaka tamin'ny tany midadasika sy ny mponina tao aminy. Ny fanjakan'io olona io dia voamariky ny avonavona lehibe sy ny fanoherana lalina ny fahefan'Andriamanitra. Miomàna hamantatra ny maha-izy azy ny fanahy iray izay ny anjarany farany dia lasa lesona maharitra ho an'ny taranaka rehetra.",
+  "clues": [
+    "Nitana ny fahefana teo amin'ny empira mahery iray aho, izay lalàna no teniko.",
+    "Nanambara ny tenako ho andriamanitra fara tampony aho, nitaky fanompoam-pivavahana tamin'izay rehetra teo ambany fifehezako.",
+    "Nampahory vondrom-piarahamonina iray manokana aho, nanandevo azy ireo ary nandidy ny hamonoana ny zazalahy kely tao aminy.",
+    "Imbetsaka aho no nifanatrika tamin'ny irak'Andriamanitra iray izay nanetry tena, izay nanao fahagagana miharihary teo anatrehako sy ireo mpanao ombiasy tamiko.",
+    "Nanda mafy ny fahamarinana aho, niampanga ilay iraka ho mpamosavy ary nikasa ny handringana azy sy ireo mpanara-dia azy.",
+    "Safotry ny ranomasina izaho sy ny miaramilako manontolo raha nanenjika tsy an-kijanona ireo izay efa nafahana teo am-pelatanako izahay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Nimroda",
+        "Abu Jahl",
+        "Iblisy",
+        "Fir'awn",
+        "Hamana"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Ny Safodrano Lehibe",
+        "Ny afo mirehitra",
+        "Ny Fahafatesan'ny Mpampahory",
+        "Ny Fandringanana Noho ny Rivotra",
+        "Ny Horohoron-tany Noho ny Tsy Finoana"
+      ],
+      "answer": "Ny Fahafatesan'ny Mpampahory"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Sambofiaran'i Noa",
+        "Ny Tehin'i Mosesy",
+        "Ny Sampy Volamena",
+        "Ny Farihin'i Zamzam",
+        "Ny Seza Fiandrianan'i Bilqis"
+      ],
+      "answer": "Ny Tehin'i Mosesy"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nomena fanjakana midadasika",
+        "Voatahiry ho famantarana ny vatana",
+        "Voavela heloka rehefa avy nibebaka",
+        "Nasandratra ho mpaminany",
+        "Lasa mpivavaka ny vahoakany"
+      ],
+      "answer": "Voatahiry ho famantarana ny vatana"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La prueba de la Llama Sagrada",
+  "intro": "En una tierra ancestral donde la devoción por la piedra tallada se había arraigado en cada hogar, un individuo se destacó. Con una convicción inquebrantable y la protección divina, se enfrentó a una muerte segura y salió ileso. ¿Puedes descubrir la identidad de esta alma extraordinaria?",
+  "clues": [
+    "Me crié entre gente que se inclinaba ante ídolos que habían tallado con sus propias manos, creyendo que estos objetos poseían poder divino.",
+    "Cuando cuestioné sus creencias, al principio me desestimaron, pero no podía permanecer en silencio sobre la verdad que conocía.",
+    "El día en que fueron reunidos, destruí sus ídolos, dejando intacto solo el más grande.",
+    "Cuando regresaron y vieron lo que yo había hecho, sus líderes ordenaron que se construyera una gran pira, con la intención de arrojarme a las llamas.",
+    "Me arrojaron al fuego abrasador, pero el Señor de los mundos ordenó que se enfriara y me pusiera a salvo.",
+    "Salí de las llamas completamente ileso, mientras que quienes conspiraron contra mí se enfrentaron a la ruina total."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Ibrahim",
+        "El profeta Musa",
+        "Profeta Noé",
+        "Profeta Isaías",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Ibrahim"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser arrojado a un fuego ardiente",
+        "Ser tragado por una gran ballena",
+        "Sobrevivir a una gran inundación",
+        "Ser arrojado a un pozo profundo",
+        "Enfrentándose a los magos de un rey"
+      ],
+      "answer": "Ser arrojado a un fuego ardiente"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una enorme pira de madera ardiendo.",
+        "Un gran arca de madera",
+        "Una estatua de un becerro de oro",
+        "Una cesta flotante en un río",
+        "Un trono magnífico"
+      ],
+      "answer": "Una enorme pira de madera ardiendo."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Alá hizo que el fuego fuera frío y seguro.",
+        "El arca aterrizó sana y salva en una montaña.",
+        "El ídolo de oro se derritió ante sus ojos.",
+        "Un tirano y su ejército se ahogaron en el mar.",
+        "Se le devolvió la vista a un hombre ciego."
+      ],
+      "answer": "Alá hizo que el fuego fuera frío y seguro."
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Õukondlik jälitustegevus",
+  "intro": "Võimukoridorides armus kõrge staatusega tegelane teenijasse, kelle ilu oli ebamaine. See armumine viis sündmuste jadani, mis pani proovile lojaalsuse, paljastas varjatud tõdesid ja kinnitas lõpuks teenija süütust.",
+  "clues": [
+    "Ma elasin Niiluse maal, suure mõjuvõimuga palees.",
+    "Minu majja tuli noormees ja tema kohalolek pani mu maailma segadusse.",
+    "Ma üritasin teda võrgutada, aga ta otsis varjupaika oma Issanda juures.",
+    "Ma rebisin ta kuue tagant katki, aga tõendid viitasid mu pettusele.",
+    "Aadlinaiste klatši vaigistamiseks kutsusin nad koosviibimisele ja panin neile kätte teravaid esemeid.",
+    "Lõpuks tunnistasin avalikult oma vea, tunnistades kuninga ees tõde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Al-Azizi naine",
+        "Asiya (vaarao naine)",
+        "Bilqis (Sheba kuninganna)",
+        "Maryam (Isa ema)",
+        "Musa ema"
+      ],
+      "answer": "Al-Azizi naine"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Ta üritas prohvet Yusufi võrgutada",
+        "Ta üritas tappa prohvet Musat",
+        "Ta väitis end olevat jumalanna",
+        "Ta ehitas torni, et Allahile vastu astuda",
+        "Ta juhtis armeed Meka vastu"
+      ],
+      "answer": "Ta üritas prohvet Yusufi võrgutada"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Seljast rebenenud särk",
+        "Kuldne vasikas",
+        "Personali, mis muutus maoks",
+        "Emane kaamel",
+        "Lamp"
+      ],
+      "answer": "Seljast rebenenud särk"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Ta tunnistas üles ja tunnistas tõde",
+        "Ta uppus koos oma armeega",
+        "Ta muutus soolasambaks",
+        "Maa neelas ta alla",
+        "Ta hävitas karjuv tuul"
+      ],
+      "answer": "Ta tunnistas üles ja tunnistas tõde"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

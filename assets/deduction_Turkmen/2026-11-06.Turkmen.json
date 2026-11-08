@@ -1,0 +1,61 @@
+{
+  "title": "Göriplik bilen dökülen ilkinji gan",
+  "intro": "Adamzadyň ilkinji günlerini, bütin dünýä bir maşgala bolan döwrüni göz öňüne getiriň. Allanyň öňünde iki sadaka hödürlenýändigini görýärsiňiz - biri kabul edilýär, beýlekisi ret edilýär. Göriplik ýürekde kök urýar we gahar bilen howp pyşyrdaýar. Soňraky zatlar taryhda ebedi yz galdyrar we hatda kiçijik guş hem mugallym bolar.",
+  "clues": [
+    "Men ýer ýüzündäki iň ilkinji maşgalanyň agzasydyryn.",
+    "Men Allaha gurbanlyk berdim, ýöne meniňki kabul edilmedi, beýleki gurbanlyk bolsa kabul edildi.",
+    "Men göriplik bilen gürleşdim we janyna kast etmek bilen haýbat atdym.",
+    "Men ýer ýüzündäki ilkinji adalatsyz ganhorlugy etdim.",
+    "Men bir garganyň jesedi nädip gizlemelidigini görkezmek üçin ýeri dyrmaşýandygyny gördüm.",
+    "Men ökünçden doly galdym we elim bilen eden işlerim üçin zyýan çekenleriň arasynda boldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Adamyň ogly Kabil (Kaýil)",
+        "Bulagyň döredijisi Samiri",
+        "Ybraýym bilen jedelleşen zalym Namrud",
+        "Butlaryň döredijisi Azar",
+        "Nuhuň ogly Kan'an, suwa gark boldy"
+      ],
+      "answer": "Adamyň ogly Kabil (Kaýil)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Berlen gurbanlyk ret edilenden soň, göriplik sebäpli doganynyň öldürilmegi",
+        "Göklere seretmek üçin beýik diň gurmak",
+        "Sežde etmek üçin altyn göle şekilini ýasamak",
+        "Jennetden ýazylyp berilýän stoly talap etmek",
+        "Käbäni ýok etmek üçin pilleriň goşunyna ýolbaşçylyk etmek"
+      ],
+      "answer": "Berlen gurbanlyk ret edilenden soň, göriplik sebäpli doganynyň öldürilmegi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Garga jaýlanyşyny görkezmek üçin ýeri dyrmaşýar",
+        "Möňürýän altyn göle",
+        "Sil suwlarynyň üstünde uly gämi",
+        "Ýylana öwrülen taýak",
+        "Jennetden gelen iýmit bilen ýazylan stol"
+      ],
+      "answer": "Garga jaýlanyşyny görkezmek üçin ýeri dyrmaşýar"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ökündi we ýeňilenleriň arasynda boldy",
+        "Uly silde gark boldy",
+        "Ýer hazyna bilen ýuwutdy",
+        "Ýedi ýyllap leke keselinden ejir çekdi",
+        "Ýelleri dolandyrýan patyşalyk berildi"
+      ],
+      "answer": "Ökündi we ýeňilenleriň arasynda boldy"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

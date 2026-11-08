@@ -1,0 +1,61 @@
+{
+  "title": "kalnų melodija sutemus",
+  "intro": "Klausykitės, kaip slėniai aidi nuo šlovinimo kartu su išrinktuoju Alacho tarnu. Melodingas balsas, ginčų dalyvių prie kambario siekiamas sprendimas ir dieviškojo įsakymo suminkštintas metalas laukia atradimo. Kuri garbinimo ir teisingo valdymo figūra kalba per šiuos ženklus?",
+  "clues": [
+    "Alachas mane palaimino dosnumu ir melodingu šlovinimo balsu.",
+    "Alachas mane išmokė suprasti teisingo sprendimo tarp besiginčijančių kalbą.",
+    "Mūšyje susidūriau su galingu milžinu kariu ir Alacho valia juos nugalėjau.",
+    "Man buvo suteikta išmintis, autoritetas ir apreikštas psalmių raštas iš Alacho.",
+    "Vakare ir saulėtekio metu kartu su manimi šlovino Alachą kalnai ir paukščiai.",
+    "Alachas išmokė mane gaminti šarvinius tunikus iš geležies, kuri man buvo suminkštinta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Dawudas (Dovydas)",
+        "Pranašas Ismailas (Izmaelis)",
+        "Pranašas Jahja (Jonas)",
+        "Dhul-Kifl",
+        "Pranašas Al-Yasa (Eliziejus)"
+      ],
+      "answer": "Pranašas Dawudas (Dovydas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Alacho valia mūšyje nugalėjo Džalutą (Galijotą)",
+        "Pastatė arką, kad išgyventų didįjį tvaną",
+        "Buvo įmestas į ugnį, kurią Alachas atvėsino",
+        "Jį jūroje prarijo didelė žuvis",
+        "Buvo pakeltas į dangų neparagavęs mirties"
+      ],
+      "answer": "Alacho valia mūšyje nugalėjo Džalutą (Galijotą)"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Kalnai ir paukščiai kartu šlovina Alachą",
+        "Lazdelė, kuri virto gyvate",
+        "Ugnis, kuri tapo vėsi ir rami",
+        "Kupranugarė, siųsta kaip ženklas žmonėms",
+        "Medinė arka, stovinti ant Judi kalno"
+      ],
+      "answer": "Kalnai ir paukščiai kartu šlovina Alachą"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteikta karalystė, išmintis ir Zaburas (Psalmės)",
+        "Po nuoširdžios maldos senatvėje padovanotas sūnus",
+        "Ilgus metus oloje buvo užtikrintas saugumas",
+        "Dykumoje suteiktas Zamzamo šaltinis",
+        "Patvirtintas armijos nuskandinimas jūroje"
+      ],
+      "answer": "Suteikta karalystė, išmintis ir Zaburas (Psalmės)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

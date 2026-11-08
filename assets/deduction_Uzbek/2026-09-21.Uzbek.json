@@ -1,0 +1,61 @@
+{
+  "title": "Chuqurlikdan kelgan faryod",
+  "intro": "Rahmonning bir xizmatkori o'jar xalqdan charchab, ruxsat berilmasdan oldin ketdi. Bu shaxs hech qachon inson bo'lmagan joyga, Ilohiylikka chaqiruv zulmat qatlamlari orasidan g'alati aks-sado beradigan joyga tushib qoldi. Zaiflashgan, ammo o'zgargan holda paydo bo'lgan bu qalb sabr-toqat, chin dildan tavba qilish va Yaratguvchining cheksiz rahm-shafqati haqida abadiy saboq bo'ldi. Sirni yecha olasizmi?",
+  "clues": [
+    "Men qavmimga elchi qilib yuborildim, lekin ular kufrda haddan oshdilar va quloq solishdan bosh tortdilar.",
+    "Men ularning rad etilishidan g'azablanib, Allohning amri kelmasdan oldin qavmimdan qochib ketdim.",
+    "Men sig‘imidan ortiq yuk bilan to‘ldirilgan kemaga chiqdim va kim dengizga tashlanishini aniqlash uchun qur’a tashladik.",
+    "Meni shiddatli dengizga uloqtirishdi va ulkan baliq meni yutib yubordi.",
+    "Uch qavat zulmat — qorin, chuqur dengiz va yer qamalib, men chin dildan tavba qilib Rabbimga iltijo qildim.",
+    "Men zaif va charchagan holda baliqdan ochiq qirg'oqqa chiqdim va ustimda qovoq o'simligi o'sdi. Yuz ming yoki undan ortiq xalqim nihoyat ishonishdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yunus payg'ambar",
+        "Payg'ambar Ayyub",
+        "Yusuf payg'ambar",
+        "Muso payg'ambar",
+        "Payg'ambar Sulaymon"
+      ],
+      "answer": "Yunus payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Katta baliq yutib yubordi",
+        "Yonayotgan olovga tashlandi",
+        "Quduq tubida qolib ketgan",
+        "Katta suv toshqini ostida qolgan",
+        "Podshoh tomonidan nohaq qamoqqa olingan"
+      ],
+      "answer": "Katta baliq yutib yubordi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Katta baliqning qorni",
+        "Ka'ba yaqinidagi muqaddas vodiy",
+        "Tog'da qotib qolgan kema",
+        "Ilonga aylangan tayoq",
+        "Beqiyos ulug'vorlik taxti"
+      ],
+      "answer": "Katta baliqning qorni"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Uning xalqi, yuz ming yoki undan ko'proq, ishonishgan",
+        "Osmonga tiriklayin ko'tarildi",
+        "Raqobatsiz qirollikning hukmdori bo'ldi",
+        "Osmondan kelgan o'tkir qichqiriq bilan vayron qilingan",
+        "Dahshatli zilzila natijasida ag'darilgan"
+      ],
+      "answer": "Uning xalqi, yuz ming yoki undan ko'proq, ishonishgan"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

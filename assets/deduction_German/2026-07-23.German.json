@@ -1,0 +1,61 @@
+{
+  "title": "Die Armee, die auf fliegenden Lehm traf",
+  "intro": "In der Zeit vor dem Propheten Mohammed unternahm ein mächtiger Herrscher aus dem Jemen einen Feldzug mit dem Ziel, ein heiliges Heiligtum in Mekka zu zerstören. Dieser Feind führte ein riesiges Heer mit Kriegselefanten an, überzeugt von seiner Stärke und Überzahl. Doch sein Feldzug fand ein jähes Ende, als er auf unerwartetes göttliches Eingreifen stieß. Können Sie erkennen, wer diesem bemerkenswerten Schicksal gegenüberstand?",
+  "clues": [
+    "Wir marschierten mit einem riesigen Heer und mächtigen Kriegselefanten zum heiligen Haus.",
+    "Wir hatten die Absicht, eine von Dienern des Allerbarmers erbaute Kultstätte zu entwurzeln und zu zerstören.",
+    "Ein Schwarm kleiner Vögel wurde gegen uns geschickt, die Lehmkörner in ihren Schnäbeln und Krallen trugen.",
+    "Wir wurden von einem Geräusch empfangen, das Steine ​​auf uns schleuderte und uns in zertretene Überreste verwandelte.",
+    "Ich stammte aus dem Land Jemen und diente unter einem Herrscher, der das heilige Heiligtum zerstören wollte.",
+    "Wir wurden zu einem abschreckenden Beispiel für all jene gemacht, die es wagen würden, das Heiligtum Allahs zu verunglimpfen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Armee von Abraha al-Ashram",
+        "Die äthiopischen Streitkräfte",
+        "Die persischen Eroberer",
+        "Die römischen Legionen",
+        "Die Beduinenräuber"
+      ],
+      "answer": "Die Armee von Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Belagerung einer Wüstenfestung",
+        "Ein Einfall in das heilige Heiligtum in Mekka",
+        "Eine Seeschlacht auf See",
+        "Eine Rebellion gegen einen tyrannischen König",
+        "Die Suche nach einem verlorenen Propheten"
+      ],
+      "answer": "Ein Einfall in das heilige Heiligtum in Mekka"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Tal von Mina in der Nähe von Mekka",
+        "Der Palast von Sanaa im Jemen",
+        "Die Berge von Tihamah",
+        "Die antike Stadt Jerusalem",
+        "Die Küsten des Roten Meeres"
+      ],
+      "answer": "Das Tal von Mina in der Nähe von Mekka"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sieg und Zerstörung des heiligen Hauses",
+        "Niederlage gegen Vögel, die Lehmsteine ​​tragen",
+        "Friedliche Kapitulation und Bekehrung",
+        "Hungersnot und Naturkatastrophe",
+        "Rückzug aufgrund starker Regenfälle"
+      ],
+      "answer": "Niederlage gegen Vögel, die Lehmsteine ​​tragen"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

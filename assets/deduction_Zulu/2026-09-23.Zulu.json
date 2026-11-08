@@ -1,0 +1,61 @@
+{
+  "title": "Ucingo oluye lwadlula iminyaka",
+  "intro": "Cabanga ngomphefumulo omi wodwa umelene nempucuko yonke, uzimisele ukuwuqondisa emuva ekudukisweni ngesinqumo esiqinile. Sekungamakhulu eminyaka, umyalezo wenqatshwa, wahlekwa usulu, futhi walahlwa—kodwa umzamo awuzange uphele. Ekugcineni, kwafika ukubalwa okukhulu, futhi bambalwa kuphela abathola insindiso kanye nalomphefumulo oqinile. Ungawubona lo mfanekiso ku-Quran?",
+  "clues": [
+    "Ngathunyelwa njengomxwayisi kubantu abalahlekile ngezindlela zabo.",
+    "Ngabamema ukuba bacele intethelelo futhi baphenduke eziphambekweni zabo, kodwa baphenduka.",
+    "Ngaphansi komyalo kaNkulunkulu, ngakha umkhumbi omkhulu ngenkathi abantu bakithi bengibuka futhi bengihleka usulu.",
+    "Ngabiza iNkosi yami ngokungaphezi—ekugcineni yaphendula, futhi amanzi ageleza esibhakabhakeni ngezikhukhula.",
+    "Ngangena esikebheni nalabo abakholwa lapho amanzi kazamcolo ephakama ngaphezu komhlaba.",
+    "Ngamemeza komunye owayesele ngemuva, ngibacela ukuba baphephele entabeni, kodwa isinqumo sase sidlulile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uNuh",
+        "Umprofethi u-Ibrahim",
+        "Umprofethi uMusa",
+        "Umprofethi uHud",
+        "Umprofethi uSalih"
+      ],
+      "answer": "Umprofethi uNuh"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukwakha umkhumbi omkhulu nokusinda kuzamcolo womhlaba wonke",
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukubhekana nombusi oyisihluku kanye nabathakathi bakhe abanamandla",
+        "Ukugwinywa yinhlanzi enkulu",
+        "Ukubona ukubulawa kwekamela elingcwele eliyinsikazi"
+      ],
+      "answer": "Ukwakha umkhumbi omkhulu nokusinda kuzamcolo womhlaba wonke"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umkhumbi omkhulu wokhuni phezu kwamanzi akhukhula ngamandla",
+        "Isigodi esingcwele esinamanxiwa amatshe asendulo",
+        "Umhume ojulile lapho abangane babelala khona amakhulu eminyaka",
+        "Isisu somkhomo omkhulu ekujuleni kolwandle",
+        "Intaba ephakeme yamatshe ehlane"
+      ],
+      "answer": "Umkhumbi omkhulu wokhuni phezu kwamanzi akhukhula ngamandla"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Wasindiswa kanye namakholwa asemkhunjini",
+        "Ngisindiswe ngingalimalanga emlilweni ngomyalo kaNkulunkulu",
+        "Wahola ufuduko olukhulu embusweni onamandla",
+        "Lahlela inhlanzi ogwini olungenalutho",
+        "Waholela abantu kude nokwenza okubi ngesibonakaliso esimangalisayo"
+      ],
+      "answer": "Wasindiswa kanye namakholwa asemkhunjini"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mafoko a a Itumedisang a Botsofe",
+  "intro": "O bona motsotso o tsholofelo e tsosolosiwang mo go one. Banyalani, ba ba setseng ba fetile dingwaga tsa go nna batsadi ka lobaka lo loleele, ba amogela tsholofetso e e ganetsanang le melao ya tlholego. Mo gare ga bone go eme setshwantsho se go nna gone ga sone go leng sesupo sa kutlwelobotlhoko ya bomodimo—moya o o laoletsweng go nna moporofeti, o o tshotseng boswa jo bo tla tsayang dikokomana. Motho yono yo o gakgamatsang ke mang?",
+  "clues": [
+    "Ke tshotswe ke batsadi ba ba neng ba godile mme ba se na bana.",
+    "Botsalo jwa me bo ne jwa itsisiwe ke baengele ba ba neng ba tla e le baeng mo lelapeng la gaetsho.",
+    "Ke ne ka fiwa botlhale le boporofeti, mme ke umakiwa mo gare ga balwetse.",
+    "Rre o ne a bidiwa tsala ya ga Allah, mme ke ne ke le mpho mo go ene mo dingwageng tsa gagwe tsa moragonyana.",
+    "Ke ne ke na le nnake yo le ene e neng e le moporofeti, mme bobedi jwa rona re ne ra segofadiwa ke Morena wa rona.",
+    "Morwaake le ene e ne e le moporofeti, mme ditlogolwana tsa me di ne tsa fiwa lokwalo le boporofiti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeta Ishaq (Isaka)",
+        "Moporofeta Isemaele (Isemaele)",
+        "Moporofeti Yaqub (Jakobe)",
+        "Moporofeti Yahya (Johane)",
+        "Moporofeti Usaire (Esera)"
+      ],
+      "answer": "Moporofeta Ishaq (Isaka)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "E tshotswe ke batsadi ba ba godileng",
+        "Go latlhelwa mo molelong",
+        "A filwe bogosi le khumo",
+        "O eteletse batho ba gagwe pele go tswa kwa Egepeto",
+        "A aga araka go boloka badumedi"
+      ],
+      "answer": "E tshotswe ke batsadi ba ba godileng"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Dikgang tse di itumedisang tsa morwa",
+        "Setlhatshana se se tukang",
+        "Namane ya gauta",
+        "Letlole la kgolagano",
+        "Lore lwa boporofeti"
+      ],
+      "answer": "Dikgang tse di itumedisang tsa morwa"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "E ne ya nna moporofeti yo o nang le losika lwa baporofeti",
+        "E ne ya nna kgosi e e humileng",
+        "Batho ba gagwe ba ne ba senngwa ka ntlha ya go sa dumele",
+        "O ne a pholosiwa mo molelong",
+        "O ne a newa bokgoni jwa go bua jaaka lesea"
+      ],
+      "answer": "E ne ya nna moporofeti yo o nang le losika lwa baporofeti"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

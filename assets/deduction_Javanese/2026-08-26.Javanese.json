@@ -1,0 +1,61 @@
+{
+  "title": "Rasa iri sing ngonsumsi",
+  "intro": "Crita sing luwih tuwa tinimbang kerajaan utawa kitab suci apa wae—tragedi manungsa pisanan sing lair saka rasa meri. Siji wong, sing mbarep saka rong anak sing lair saka wong tuwa pisanan, ndeleng kanthi nesu nalika adhine nampa sih-rahmat sing ditolak. Sing kedadeyan yaiku pilihan sing paling peteng, ninggalake getih pisanan sing tau diwutahake ing bumi. Apa sampeyan bisa nemokake identitas, pacoban, lan penyesalan sing pait?",
+  "clues": [
+    "Aku lair saka pasangan manungsa pisanan sing mlaku ing bumi.",
+    "Aku tau ngaturake kurban marang Allah, nanging kurban iku ora ditampa saka aku.",
+    "Kurbane adhiku ditampa, dene kurbanku ditolak—soko sing ora bisa tak tahan.",
+    "Aku ngancam adhiku dhewe bakal ngrusak.",
+    "Aku dadi wong pisanan sing mateni wong ing bumi iki, njupuk nyawane sedulurku dhewe.",
+    "Allah ngutus makhluk saka bumi—manuk ireng sing lagi nggali lemah—kanggo mulang aku carane ndhelikake apa sing wis daklakoni, lan aku mung ditinggal karo penyesalan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Habil)",
+        "Nabi Yakub",
+        "Nabi Musa",
+        "Nabi Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Kurban ditolak dening Allah",
+        "Dibuwang menyang geni gedhe",
+        "Ditinggal nalika isih bayi ing kali",
+        "Diuji karo kerajaan sing gedhe banget",
+        "Diprentahake kanggo ngorbanake putrane"
+      ],
+      "answer": "Kurban ditolak dening Allah"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Manuk gagak sing dikirim dening Gusti Allah",
+        "Pedhet emas",
+        "Bahtera ing ndhuwur gunung",
+        "Grumbul sing kobong",
+        "Unta wadon sing dipahat saka watu karang"
+      ],
+      "answer": "Manuk gagak sing dikirim dening Gusti Allah"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Dadi kebak penyesalan lan kalebu wong-wong sing kalah",
+        "Diuntal ing bumi bebarengan karo bandha",
+        "Dadi utusane Allah sing mulya",
+        "Mlebu swarga amarga sih rahmating Gusti",
+        "Ngwasani kerajaan sing ora ana tandhingane"
+      ],
+      "answer": "Dadi kebak penyesalan lan kalebu wong-wong sing kalah"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Qasidên Dilovanî û Hêzdariyê",
+  "intro": "Xeyal bike ku nîvroyek bêdeng ji ber hatina rêwiyên nenas tê qutkirin. Xuyabûna wan asayî ye, lê armanca wan ne asayî ye. Ew peyamek îlahî hildigirin ku dê rêça du neteweyan biguherîne, ken bîne malek bêber û tirs bîne bajarekî gunehkar. Ev mêvanên sirrî kî ne?",
+  "clues": [
+    "Em ji bo xizmetkarekî dilsoz ê Xwedê hatin şandin, ku bi mêvanperweriya xwe ya bêdawî tê nasîn.",
+    "Em bi şiklê xerîban gihîştin, lê dîsa jî mêvandarê me tiştek ji dinyayeke din di hebûna me de hîs kir.",
+    "Me xeberek anî ku jineke pîr bi bêbawerî keniya û matmayî li rûyê wê xist.",
+    "Em hatibûn erkdarkirin ku malbateke rast biparêzin di heman demê de wêranî li ser bajarekî ku di nav gendeliyê de bû dibarînin.",
+    "Me red kir ku em beşdarî xwarina ku ji me re hatibû pêşkêşkirin bibin, ku ev yek tenê gumanên mêvandarê me kûrtir kir.",
+    "Me tenê berî ku em biçin, xwezaya xwe ya rastîn eşkere kir û got: 'Bi rastî, em peyamberên Xwedayê te ne.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Em Kî ne?",
+      "options": [
+        "Mêvanên Qesra Îbrahîm",
+        "Şagirtên Îsa",
+        "Hevalên Şikeftê",
+        "Artêşa Abrahayê",
+        "Qasidên Ya-Sin"
+      ],
+      "answer": "Mêvanên Qesra Îbrahîm"
+    },
+    "trial": {
+      "label": "Mîsyona me",
+      "options": [
+        "Ji bo ceribandina baweriya Birahîm di derbarê kurê wî de",
+        "Ji bo ku nivîsarên pîroz bigihîne Birahîm",
+        "Ji bo ragihandina jidayikbûna Îshaq û wêrankirina gelê Lût",
+        "Ji bo ku Îbrahîm ber bi Kabeyê ve rêberî bike",
+        "Ji bo rizgarkirina Îbrahîm ji agir"
+      ],
+      "answer": "Ji bo ragihandina jidayikbûna Îshaq û wêrankirina gelê Lût"
+    },
+    "location": {
+      "label": "Cihê Xuyabûnê",
+      "options": [
+        "Li welatê Misrê",
+        "Li bajarê Urê",
+        "Li mala Îbrahîm",
+        "Li baxçeyê Edenê",
+        "Li ber kaniya Zemzemê"
+      ],
+      "answer": "Li mala Îbrahîm"
+    },
+    "outcome": {
+      "label": "Encam",
+      "options": [
+        "Birahîm bû padîşah",
+        "Îbrahîm Kabe ava kir",
+        "Sarayê Îshaq anî dinyayê û gelê Lût hat tunekirin",
+        "Îbrahîm koçî Filistînê kir",
+        "Gelê Birahîm ji tofaneke mezin xilas bû"
+      ],
+      "answer": "Sarayê Îshaq anî dinyayê û gelê Lût hat tunekirin"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

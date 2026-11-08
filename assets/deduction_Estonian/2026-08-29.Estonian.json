@@ -1,0 +1,61 @@
+{
+  "title": "Kannatlikkus, mis pidas leinast kauem vastu",
+  "intro": "Vanem, kelle kannatlikkusest sai legend, kelle nägemus kurbusest hääbus, kuid kelle usk jumalikusse plaani ei kõigutanud kunagi. See inimene nägi, kuidas kaksteist poega kasvasid hõimude alustaladeks, kannatas läbi armastatud lapse valusa kaotuse ja temast sai ajatu kauni kannatlikkuse sümbol ülekaaluka leina ees. Austatud hing, kelle lugu jutustatakse ilmutuse lehekülgedel. Kas suudad selle tegelase Koraanist ära tunda?",
+  "clues": [
+    "Ma olin prohvet, kelle lugu on detailselt jutustatud Koraani ühes suures suuras.",
+    "Mul oli kaksteist poega, kellest said Iisraeli Bani suguharude esiisad.",
+    "Ma käskisin oma poegadel siseneda eri väravatest, et neid ei tuntaks ühtse rahvana.",
+    "Mu silmad läksid valgeks lakkamatust nutmisest armsa lapse pärast, kes minult võeti.",
+    "Ma keeldusin meeleheitest isegi siis, kui mu teised pojad mind selleks õhutasid, öeldes, et ma kurdan ainult Allahi ees.",
+    "Ma olen prohvet Yusufi isa, kelle nimi tähendab araabia keeles 'suurendajat'."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Yaqub (Jaakob)",
+        "Prohvet Yusuf",
+        "Prohvet Ibrahim",
+        "Prohvet Musa",
+        "Prohvet Dawud"
+      ],
+      "answer": "Prohvet Yaqub (Jaakob)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Armastatud poja kaotus kaevu tõttu",
+        "Suur veeuputus, mis haaras terve rahva",
+        "Ränne tulekummardavast kuningriigist",
+        "Vastasseis Egiptuse võimsa türanniga",
+        "Pagulus vaala kõhtu"
+      ],
+      "answer": "Armastatud poja kaotus kaevu tõttu"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Valeverega määrdunud särk",
+        "Personali, mis muutus maoks",
+        "Mäele ehitatud laev",
+        "Kaljust nikerdatud emane kaamel",
+        "Kuldne vasikas"
+      ],
+      "answer": "Valeverega määrdunud särk"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Nägemine taastus, kui armastatud poja särk näole pandi",
+        "Päästmine pärast suure kala kõhtu heitmist",
+        "Khalilullah tiitli saamine Allahilt",
+        "Mere ületamine orjusest vabastatud rahvaga",
+        "Vikerkaar ilmub lootuse märgina pärast veeuputust"
+      ],
+      "answer": "Nägemine taastus, kui armastatud poja särk näole pandi"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Os construtores dos altos piares",
+  "intro": "Estás diante das ruínas dunha maxestosa cidade antiga, cos seus elevados piares agora caídos. O vento ouvea polas rúas baleiras, levando a memoria dun poderoso pobo que outrora gobernou estas terras. Quen eran?",
+  "clues": [
+    "Éramos un pobo de inmensa forza e habilidade, coñecido polos nosos grandes edificios e a nosa civilización avanzada.",
+    "Vivíamos nunha terra de dunas de area e outeiros rochosos, e críamos que ninguén nos podería dominar.",
+    "Un mensaxeiro veu a nós de entre a nosa propia parentela, chamándonos a adorar só a Alá, pero rexeitamos e ridiculizamos o.",
+    "Gabámonos dicíndolle: «Quen é máis forte ca nós?», e continuamos na nosa arrogancia e na adoración de ídolos.",
+    "Alá enviou sobre nós un vento furioso que soprou durante sete noites e oito días, arrasándoo todo.",
+    "Nós eramos o pobo de 'Ad, os construtores de Iram, e o noso destino converteuse nunha advertencia para todos os que viñeron despois."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Xente de 'Ad",
+        "Xente de Thamud",
+        "Xente de Madyan",
+        "Xente de Tubba'",
+        "Xente de al-Rass"
+      ],
+      "answer": "Xente de 'Ad"
+    },
+    "trial": {
+      "label": "Cal foi o castigo que lles foi enviada?",
+      "options": [
+        "Un vento devastador",
+        "Unha chuvia de pedras",
+        "Unha forte explosión",
+        "Afogamento por inundación",
+        "Tragado pola terra"
+      ],
+      "answer": "Un vento devastador"
+    },
+    "location": {
+      "label": "Cal é o nome da súa cidade lendaria?",
+      "options": [
+        "Iram",
+        "Sodoma",
+        "Madián",
+        "Babel",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Cal foi o seu destino final?",
+      "options": [
+        "Foron destruídos e os seus restos convertéronse nunha lección",
+        "Arrepentíronse e foron salvos",
+        "Transformáronse en simios",
+        "Afogáronse no mar",
+        "Quedaron sepultados baixo un deslizamento de terra"
+      ],
+      "answer": "Foron destruídos e os seus restos convertéronse nunha lección"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

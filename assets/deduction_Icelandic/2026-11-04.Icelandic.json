@@ -1,0 +1,61 @@
+{
+  "title": "fjársjóðurinn sem sökk undan stolti",
+  "intro": "Ímyndaðu þér að standa frammi fyrir svo miklum auðsfjölda að það eitt að bera lyklana myndi þreyta hóp sterkra einstaklinga. Í kringum þig hvetja raddir til auðmýktar og minningar, en stolt verður háværara en þakklæti. Hvað gerist þegar rausn verður prófraun og hroki innsiglar niðurstöðuna?",
+  "clues": [
+    "Ég var af Músaættum, en samt sem áður syndgaði ég þeim.",
+    "Mér voru veittir svo gríðarlegir fjársjóðir að lyklarnir að þeim myndu byrða hóp sterkra manna.",
+    "Fólk mitt ráðlagði mér að fagna ekki og leita lífsins eftir dauðann án þess að gleyma hlutdeild minni í þessum heimi.",
+    "Ég hélt því fram að það sem ég átti hefði ég aðeins fengið vegna þekkingar sem ég hafði.",
+    "Ég skrúðgaði mig frammi fyrir fólki mínu, og þeir sem þráðu veraldlegt líf þráðu þess sama og ég hafði.",
+    "Jörðin gleypti mig ásamt bústað mínum, og enginn gat hjálpað mér né ég sjálfur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalút",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Stærði sig af auðæfum og neitaði velþóknun Allah þrátt fyrir ráðleggingar",
+        "Áskoraði Ibrahim um að gefa líf og dauða",
+        "Leið her gegn Talút og Dawúd",
+        "Útskornar skurðgoð fyrir fólkið til að tilbiðja",
+        "Drap bróður sinn af öfund vegna fórnar"
+      ],
+      "answer": "Stærði sig af auðæfum og neitaði velþóknun Allah þrátt fyrir ráðleggingar"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Lyklar að gríðarlegum fjársjóðum",
+        "Sáttmálsörkin",
+        "Gullkálfur af skreytingum",
+        "Stífla milli tveggja fjalla",
+        "Ellefu stjörnur í draumi"
+      ],
+      "answer": "Lyklar að gríðarlegum fjársjóðum"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Gleypt af jörðinni með búsetu og auðæfum",
+        "Drukknaði í sjónum á meðan hann elti Músa",
+        "Sleginn niður af steini úr slöngvu Dawuds",
+        "Eyðilagður af öflugri sprengingu fyrir að hafa höggvið aftan á úlfalda",
+        "Breytt í apa fyrir að brjóta hvíldardaginn"
+      ],
+      "answer": "Gleypt af jörðinni með búsetu og auðæfum"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

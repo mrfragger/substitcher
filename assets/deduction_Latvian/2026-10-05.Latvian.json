@@ -1,0 +1,61 @@
+{
+  "title": "Upei uzticētā uzticība",
+  "intro": "Dvēsele saskārās ar neiespējamu lēmumu, kurā jaundzimušā dzīvība karājās uz mata galā. Dievišķas iedvesmas vadīti, tika paklausīta izmisīgai pavēlei, un dārgs noslēpums tika atstāts straumē, tikai lai atgrieztos neparedzētā veidā.",
+  "clues": [
+    "Es dzīvoju tirāna ēnā, kurš pavēlēja nogalināt jaundzimušus zēnus.",
+    "Mani pārņēma dievišķa iedvesma, kas pavēlēja man rīkoties izmisīgi un sirdi plosoši.",
+    "Es ievietoju savu dārgo zīdaini lādē un noliku to uz plūstošās upes.",
+    "Mana sirds kļuva tukša, un es gandrīz atklāju noslēpumu, bet Allāhs stiprināja manu apņēmību.",
+    "Es nosūtīju kādu sekot bērna ceļojumam lejup pa straumi, kamēr straume aiznesa lādi prom.",
+    "Bērnu atrada tirāna mājsaimniecība, un galu galā es atkal satiku savu bērnu un kļuvu par auklīti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravieša Musas māte",
+        "Asija (faraona sieva)",
+        "Marija (pravieša Īsas māte)",
+        "Pravieša Luta sieva",
+        "Pravieša Jahjas māte (Zakarijas sieva)"
+      ],
+      "answer": "Pravieša Musas māte"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Viņa ielika savu bērnu lādē un nolika to uz upes",
+        "Viņa paslēpa savu bērnu alā",
+        "Viņa pameta savu bērnu tuksnesī",
+        "Viņa iemeta savu bērnu ugunī",
+        "Viņa atstāja savu bērnu pie mošejas durvīm"
+      ],
+      "answer": "Viņa ielika savu bērnu lādē un nolika to uz upes"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Lāde, kas peld uz upes",
+        "Degošs krūms",
+        "Personāls, kas pārvērtās par čūsku",
+        "Galds klāts ar ēdienu no debesīm",
+        "Kamielis, kas sūtīta kā zīme"
+      ],
+      "answer": "Lāde, kas peld uz upes"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņa atkalapvienojās ar savu bērnu un baroja viņu ar krūti",
+        "Viņa vairs nekad neredzēja savu bērnu",
+        "Viņu sodīja ar nāvi tirāns",
+        "Viņa kļuva par karalieni Ēģiptē",
+        "Viņa pārcēlās uz citu zemi un dzīvoja trimdā"
+      ],
+      "answer": "Viņa atkalapvienojās ar savu bērnu un baroja viņu ar krūti"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

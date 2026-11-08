@@ -1,0 +1,61 @@
+{
+  "title": "Api yang Mempamerkan Legasi",
+  "intro": "Dalam sejarah perlawanan, berdiri seorang tokoh yang namanya menjadi amaran hingga akhir zaman. Orang ini memilih permusuhan daripada persaudaraan, pembangkangan daripada penyerahan diri, dan berdiri menentang seruan belas kasihan. Dengarkan dengan teliti gema pengisytiharan kuno ketika kita membongkar identiti jiwa yang terkenal kejam ini.",
+  "clues": [
+    "Aku dilahirkan dalam puak yang sama dengan utusan Allah yang terakhir, namun aku tetap menentang mereka di setiap kesempatan.",
+    "Nama saya membawa maksud—nama yang bermaksud 'bapa api,' nama yang akan meramalkan takdir abadi saya.",
+    "Aku telah melepaskan bahaya terhadap pembawa kebenaran, dan bahkan keluargaku sendiri turut serta dalam kempen kekejaman ini.",
+    "Aku menggunakan kekayaan dan pengaruhku untuk membungkam seruan kepada Allah, dengan percaya bahawa wang dapat memadamkan cahaya ilahi.",
+    "Allah mendedikasikan satu surah penuh untukku—suatu surah yang begitu singkat sehingga dapat dibaca dalam beberapa saat, namun beratnya kekal hingga Hari Kiamat.",
+    "Sahabatku di akhirat berjalan di belakangku, diikat dengan tali serat di lehernya, sambil membawa duri yang biasa mereka bentangkan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahal",
+        "Waraqah bin Naufal",
+        "Umayyah bin Khalaf",
+        "Uqbah bin Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Mendefinisikan Konfrontasi",
+      "options": [
+        "Memimpin penentangan terhadap Nabi di Mekah",
+        "Berhijrah ke Habsyah untuk melarikan diri daripada penganiayaan",
+        "Membina Kaabah bersama Nabi Ibrahim",
+        "Menerima Islam di atas katil kematian",
+        "Memeterai Perjanjian Hudaybiyyah"
+      ],
+      "answer": "Memimpin penentangan terhadap Nabi di Mekah"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Seorang isteri yang membawa duri dan kayu api",
+        "Tongkat yang berubah menjadi ular",
+        "Cincin yang mempunyai meterai Sulaiman",
+        "Anak lembu emas yang disembah oleh orang ramai",
+        "Mata air yang memancarkan air"
+      ],
+      "answer": "Seorang isteri yang membawa duri dan kayu api"
+    },
+    "outcome": {
+      "label": "Perhitungan Akhir",
+      "options": [
+        "Seluruh surah diturunkan mengisytiharkan kehancuran sepenuhnya",
+        "Menjadi pemimpin masyarakat Islam",
+        "Mendapat pengampunan pada saat kematian",
+        "Membina sebuah masjid agung di Madinah",
+        "Dibangkitkan di kalangan orang-orang soleh"
+      ],
+      "answer": "Seluruh surah diturunkan mengisytiharkan kehancuran sepenuhnya"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Acı Çeken Ruhun Sabrı",
+  "intro": "Tarihin sayfalarında, adı dayanıklılıkla özdeşleşmiş bir figür vardır. Bu kişi, dünyevi her türlü rahatlığı kaybetme sınamasına rağmen, Yaratıcının sadık bir hizmetkarı olarak kaldı. Yıllarca süren zorluklar ve fiziksel rahatsızlıklar boyunca, bu ruhun kalbi inancına bağlı kaldı ve zorluklarla karşılaşan herkese umut ışığı oldu.",
+  "clues": [
+    "Ben Allah'ın sadık bir kuluydum, bolca servete, çok sayıda çocuğa ve mükemmel sağlığa sahiptim.",
+    "Servetimden ve ailemden mahrum kaldığımda hayatım tamamen değişti; geriye sadece inancım kaldı.",
+    "Uzun süren ve insan dayanıklılığının sınırlarını zorlayan acı verici bir hastalığa yakalandım.",
+    "Çektiğim tüm acılar boyunca, düşman beni umutsuzluğa düşürmeye çalışsa bile, Rabbime karşı hiçbir zaman şikayet etmedim.",
+    "Nihayet Rabbime seslendiğimde, zenginlik istemedim, sadece sıkıntının beni etkilediğini kabul ettim.",
+    "Bana ayağımla toprağa vurmam söylendi ve bunun sonucunda bedenimi iyileştirecek ve susuzluğumu giderecek serin bir su kaynağı fışkırdı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Yakub",
+        "Peygamber Eyyub",
+        "Peygamber Zekeriya",
+        "Peygamber Yahya",
+        "Peygamber Şuayb"
+      ],
+      "answer": "Peygamber Eyyub"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yıllarca süren ağır hastalık ve kayıplar",
+        "derin bir kuyuya atılmak",
+        "Dev bir balık tarafından yutulmak",
+        "Ateşin içinde bir tiranla yüzleşmek",
+        "Öğretmen arayışında uzun bir yolculuk"
+      ],
+      "answer": "Yıllarca süren ağır hastalık ve kayıplar"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Denizi ikiye ayıran bir asa",
+        "Ev kokan bir gömlek",
+        "Şifalı bir su kaynağı",
+        "Toz haline gelen bir dağ",
+        "Derin uyku mağarası"
+      ],
+      "answer": "Şifalı bir su kaynağı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Büyük bir ülkenin valisi olmak",
+        "Bir orduyu zafere götürmek",
+        "Sağlığın ve ailenin yeniden kurulması",
+        "kutsal bir ibadethane inşa etmek",
+        "Cennetten indirilen bir sofrayı karşılamak"
+      ],
+      "answer": "Sağlığın ve ailenin yeniden kurulması"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

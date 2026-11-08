@@ -1,0 +1,61 @@
+{
+  "title": "Mongongo ya Défiance",
+  "intro": "Kala liboso ete moto ya liboso atambola na mabele, ekelamu moko ya nguya monene etɛlɛmaki na mokili moko ya kimya ya kokoka, oyo ezingamaki na milimo oyo bamipesi mingi koleka. Ntango etinda moko epesamelaki, mongongo nyonso efukamaki na botosi —kasi mongongo moko etombolaki mpo na koboya, mpe botelemeli wana ekozonga na mibu nyonso kino Mokolo ya nsuka. Ekelamu oyo ekweyi ezali nani?",
+  "clues": [
+    "Nakelamaki uta na eloko oyo ezalaki kozika makasi, nzokande basusu pembeni na ngai basalaki uta na oyo batambolaki likolo na yango.",
+    "Nafandaki na esika ya bule kati na bikelamu oyo bamipesaki, kino etinda moko ebalusaki makambo nyonso na nse.",
+    "Ntango etinda eyaki, molimo nyonso efukamaki longola se mpo na ngai; koboya na ngai ebotamaki na lolendo.",
+    "Nabwakama libanda uta na esika wana ya bule, na elembo na elakeli mabe oyo ekoumela libela.",
+    "Nabondelaki ntango kino Mokolo ya Lisekwa, mpe epesamaki. Nalapaki ndai ete nakopusana penepene na molimo nyonso mpe nakobungisa bango nzela.",
+    "Ntango kelelo ekobeta, baoyo balandaki ngai bakokabola nsuka na ngai, kosangana na ngai na mɔ́tɔ ya mɔ́tɔ epai mosungi moko te akoki kobikisa bango."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Iblis, oyo azali",
+        "Farao (Fir'awn) .",
+        "Namrud, oyo azali",
+        "Abu Lahab azali moto ya mayele",
+        "Azar (tata ya Ibrahim) ."
+      ],
+      "answer": "Iblis, oyo azali"
+    },
+    "trial": {
+      "label": "Moment oyo Ezali Définir",
+      "options": [
+        "Koboya kofukama liboso ya Adama",
+        "Kobɔtɔla bonzambe likoló ya bokonzi moko monene",
+        "Kosala mwango ya kobwaka moyengebene na mɔ́tɔ",
+        "Kokamba bato moko mpo na kosambela ekeko ya wolo",
+        "Kozindisa limpinga monene na mbu"
+      ],
+      "answer": "Koboya kofukama liboso ya Adama"
+    },
+    "location": {
+      "label": "Esika Mosantu",
+      "options": [
+        "Jannah (Paradis) .",
+        "Ndako moko kitoko mpenza oyo ezali likoló ya Ebale Nil",
+        "Linɔ́ngi ya babriki oyo ekómi epai na likoló",
+        "Mwana ya ngɔmbɛ ya wolo oyo esalemi na biloko ya kokembisa",
+        "Litumbu ya mɔ́tɔ oyo ezali kopela mɔ́tɔ"
+      ],
+      "answer": "Jannah (Paradis) ."
+    },
+    "outcome": {
+      "label": "Destin ya Nsuka",
+      "options": [
+        "Bwaka libanda, na bopemi kino Mokolo oyo elakamaki",
+        "Bazindaki na mai elongo na mampinga na nse ya mbonge",
+        "Enyatami na mabanga oyo ebɛtamaki longwa na likoló",
+        "Epasolami na bituluku ya bandɛkɛ oyo ezali kopumbwa",
+        "Esilisami na mopɛpɛ moko ya makasi"
+      ],
+      "answer": "Bwaka libanda, na bopemi kino Mokolo oyo elakamaki"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

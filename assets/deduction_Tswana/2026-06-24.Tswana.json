@@ -1,0 +1,61 @@
+{
+  "title": "Motlhokomedi wa Kgabo e e sa Timeng",
+  "intro": "Setshwantsho se eme mo serepoding sa lefelo le le tshabiwang thata mo go se se sa bonweng, se neilwe tiro e go senang setshedi sepe se sengwe se se e eletsang. Fa mewa e e bogang e goa e kopa kutlwelobotlhoko, karabo e e gagametseng e utlwala mo diphaposing tsa molelo. A o ka ribolola gore motlhokomedi yono wa bosakhutleng ke mang?",
+  "clues": [
+    "Ke eme mo kgorong ya lefelo le le tshosang la kotlhao mo go sa bonweng.",
+    "Molelo o o tukang, o o sa timeng ke one o o botlhokwa thata mo tirong ya me e e masisi.",
+    "Mewa e e bogang e bitsa leina la me, e kopa go gololwa mo tlhokofatsong ya yone e e sa feleng.",
+    "Fa ba kopa, ke bolela gore ga ba kitla ba tsamaya, le ka motlha.",
+    "Ga ke motho, le fa e le di-jinn — ke setshedi se se bopilweng sa kutlo e e phepa.",
+    "Ke nna moengele yo mogolo yo o tlhomilweng go nna motlhokomedi wa bosakhutleng wa Molelo wa Dihele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Malik",
+        "Jibriele",
+        "Mikaele",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Batho ba Dihele ba kopa gore tlhokofatso ya bone e khutlisiwe",
+        "Terompeta e lediwa go supa Letsatsi la Katlholo .",
+        "Quran e senolelwa pelo ya Moporofeta",
+        "Moporofeta o latlhelwa mo molelong o mogolo ke batho ba bone",
+        "Go agilwe lobota lo logolo go thibela setšhaba se se senyegileng"
+      ],
+      "answer": "Batho ba Dihele ba kopa gore tlhokofatso ya bone e khutlisiwe"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Molelo wa Dihele (Jahanam)",
+        "Setlhare sa Lote kwa molelwaneng wa Paradaise",
+        "Terompeta e e tlhabang",
+        "Lore lo lo fetogang noga",
+        "Setulo se sentle sa bogosi sa bomodimo"
+      ],
+      "answer": "Molelo wa Dihele (Jahanam)"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Baagi ba Dihele ba bolelelwa gore ba tla nna ka bosakhutleng",
+        "Baagi ba Dihele ba itshwarelwa mme ba gololwa",
+        "Baagi ba Dihele ba newa tshono ya bobedi ya tumelo",
+        "Baagi ba Dihele ba fudusediwa kwa lefelong le le tsidifetseng",
+        "Baagi ba Dihele ba nyelediwa gotlhelele ke legadima"
+      ],
+      "answer": "Baagi ba Dihele ba bolelelwa gore ba tla nna ka bosakhutleng"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

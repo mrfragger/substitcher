@@ -1,0 +1,61 @@
+{
+  "title": "Wezwanie, które przetrwało wieki",
+  "intro": "Wyobraź sobie duszę, która samotnie przeciwstawiła się całej cywilizacji, zdeterminowana, by z niezłomną determinacją wyprowadzić ją z błędu. Przez wieki przesłanie było odrzucane, wyśmiewane i lekceważone – a jednak wysiłki nigdy nie ustały. W końcu nadszedł wielki rozrachunek i tylko nieliczni dostąpili zbawienia u boku tej niezłomnej duszy. Czy potrafisz rozpoznać tę postać z Koranu?",
+  "clues": [
+    "Zostałem posłany jako ostrzeżenie do ludzi błądzących własnymi drogami.",
+    "Zachęcałem ich, aby szukali przebaczenia i odwrócili się od swoich błędów, ale oni się odwrócili.",
+    "Z boskiego rozkazu zbudowałem ogromny statek, podczas gdy mój lud przyglądał się i wyśmiewał mnie.",
+    "Nieustannie wzywałem mego Pana i w końcu odpowiedział, a z nieba spadł potok wody.",
+    "Wsiadłem na pokład statku wraz z tymi, którzy uwierzyli, gdy woda powodziowa podniosła się ponad ląd.",
+    "Zawołałem do jednego z tych, którzy pozostali, prosząc go, aby schronił się w górze, ale dekret już zapadł."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Noh",
+        "Prorok Ibrahim",
+        "Prorok Musa",
+        "Prorok Hud",
+        "Prorok Salih"
+      ],
+      "answer": "Prorok Noh"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Zbudowanie wielkiej arki i przetrwanie ogólnoświatowego potopu",
+        "Wrzucenie w płonący ogień",
+        "Konfrontacja z tyranem i jego potężnymi magami",
+        "Być połkniętym przez wielką rybę",
+        "Bycie świadkiem zabicia świętej wielbłądzicy"
+      ],
+      "answer": "Zbudowanie wielkiej arki i przetrwanie ogólnoświatowego potopu"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogromna drewniana arka na wzburzonych wodach powodziowych",
+        "Święta dolina ze starożytnymi kamiennymi ruinami",
+        "Głęboka jaskinia, w której towarzysze spali przez stulecia",
+        "Brzuch gigantycznego wieloryba w głębinach oceanu",
+        "Wznosząca się góra z kamienia na pustkowiu"
+      ],
+      "answer": "Ogromna drewniana arka na wzburzonych wodach powodziowych"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zbawiony wraz z wierzącymi na pokładzie statku",
+        "Ocalony bez szwanku z pożaru dzięki boskiemu rozkazowi",
+        "Poprowadził wielki exodus z potężnego królestwa",
+        "Wyrzuć rybę na jałowy brzeg",
+        "Odwodził ludzi od zła poprzez cudowny znak"
+      ],
+      "answer": "Zbawiony wraz z wierzącymi na pokładzie statku"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

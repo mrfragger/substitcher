@@ -1,0 +1,61 @@
+{
+  "title": "Majhno opozorilo pred pohodno množico",
+  "intro": "Stopite v dolino, kamor se bližata mogočen vladar in ogromna vojska, in si predstavljajte drobnega popotnika, ki daje opozorilo, ki reši celotno skupnost. Ko ogrožena skupnost doseže zavetje, nevarnost mine. Sledite namigom, da prepoznate spregledano osebnost za tem opozorilom.",
+  "clues": [
+    "Sem med majhnimi bitji, povezanimi z vladarjevim kraljestvom.",
+    "Moja skupnost živi v bivališčih v dolini, kjer lahko eden od nas pokliče druge.",
+    "Soočamo se z grožnjo tega vladarja in vojsk, ki potujejo z vladarjem.",
+    "Jaz sem tisti, ki kliče svojo skupnost, naj vstopi v svoja bivališča, in nas svari, naj se ne pustimo zdrobiti nevede.",
+    "Vladar je Sulejman in moja vrsta je med bitji, ki so pod njegovim poveljstvom.",
+    "Jaz sem mravlja tiste doline; po mojem opozorilu smo vstopili v svoja bivališča in se izognili stiski, ki bi nas sicer presenetila."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Mravlja iz doline",
+        "Hoopoe",
+        "Vrana",
+        "Kača",
+        "Mula"
+      ],
+      "answer": "Mravlja iz doline"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Opozorilo, ki je prizaneslo mravljinčjo skupnost",
+        "Prošnja za prstan od ribe",
+        "Iskanje pogrešanega prestola",
+        "Reševanje ukradenih oči",
+        "Zavrnitev uživanja vladarjeve hrane"
+      ],
+      "answer": "Opozorilo, ki je prizaneslo mravljinčjo skupnost"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Dolina mravelj",
+        "Sulejmanov pečatni prstan",
+        "Jusufova krvava srajca",
+        "Zlato tele iz eksodusa",
+        "Musajevo osebje"
+      ],
+      "answer": "Dolina mravelj"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Skupnost je bila rešena, potem ko se je zatekla v zavetje.",
+        "Skupnost je bila uničena, ne da bi se ljudje zatekli k njej.",
+        "Skupnost je bila prizanesena, ker se je vojska umaknila",
+        "Skupnost je bila nagrajena z nadzorom nad pticami",
+        "Skupnost je bila odpeljana v ujetništvo na kraljevi dvor"
+      ],
+      "answer": "Skupnost je bila rešena, potem ko se je zatekla v zavetje."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

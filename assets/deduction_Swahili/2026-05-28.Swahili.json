@@ -1,0 +1,61 @@
+{
+  "title": "Mgonjwa Asiyeyuka",
+  "intro": "Katika kumbukumbu za historia ya unabii, ni wachache waliovumilia hasara kubwa na mateso ya kimwili kwa imani isiyotikisika. Hadithi ya mtu huyu ni somo lisilopitwa na wakati kuhusu uvumilivu na kuamini hekima ya Mungu. Nafsi hii ni nani?",
+  "clues": [
+    "Nilichaguliwa na Mwenyezi Mungu kutoa ujumbe, lakini mtihani wangu mkubwa zaidi haukuja kwa kukataliwa, bali kwa msiba wa kibinafsi.",
+    "Utajiri wangu, mifugo yangu, na watoto wangu walichukuliwa kutoka kwangu, mmoja baada ya mwingine.",
+    "Mwili wangu ulikuwa umejaa vidonda, na niliachwa peke yangu isipokuwa kwa msaada wa mwenzi wangu.",
+    "Nilimlilia Bwana wangu, nikitambua mateso yangu na kutafuta rehema zake.",
+    "Niliagizwa kupiga ardhi kwa mguu wangu, na chemchemi yenye kuburudisha ikabubujika.",
+    "Mwenyezi Mungu alinirejeshea afya yangu na akanipa familia mpya na utajiri zaidi kuliko nilivyokuwa nao hapo awali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ayyub",
+        "Nabii Ibrahimu",
+        "Nabii Musa",
+        "Nabii Isa",
+        "Nabii Nuh"
+      ],
+      "answer": "Nabii Ayyub"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kupoteza utajiri na familia",
+        "Kutupwa motoni",
+        "Kumezwa na samaki",
+        "Kutengwa na familia na kuuzwa utumwani",
+        "Kujaribiwa kwa ndama wa dhahabu"
+      ],
+      "answer": "Kupoteza utajiri na familia"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Chemchemi ya maji",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Sanduku la mbao",
+        "Ndama aliyeyeyushwa",
+        "Mtende"
+      ],
+      "answer": "Chemchemi ya maji"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Marejesho ya familia na utajiri",
+        "Kupaa mbinguni",
+        "Kuwa mfalme",
+        "Kuokolewa kutoka kwa nyangumi",
+        "Kupokea mwana katika uzee"
+      ],
+      "answer": "Marejesho ya familia na utajiri"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Negimusiojo įžadas",
+  "intro": "Nuoširdi siela davė šventą pažadą prieš vaiko gimimą. Šios asmenybės istorija rutuliojasi šventovės sienose, kur atsidavimas susitinka su dievišku priėmimu. Kas yra šis Alacho tarnas?",
+  "clues": [
+    "Priklausiau šeimai, gerbiamai Korane.",
+    "Aš daviau iškilmingą įžadą skirti savo negimusį vaiką Alacho tarnybai.",
+    "Kai pagimdžiau, nustebau pamačiusi, kad tai dukra, nors tikėjausi sūnaus.",
+    "Savo vaiką pavadinau Maryam – vardu, atspindinčiu atsidavimą ir tarnystę.",
+    "Ieškojau Alacho apsaugos savo vaikui ir jos palikuonims nuo prakeikto šėtono.",
+    "Mano vaiką priėmė Viešpats ir atidavė pranašo Zakariyos globai šventovėje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Imrano (Marijos motinos) žmona",
+        "Asija, faraono žmona",
+        "Maryam, Isos motina",
+        "Pranašo Mozės motina",
+        "Šebos karalienė"
+      ],
+      "answer": "Imrano (Marijos motinos) žmona"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Prisiekdama pašvęsti savo vaiką šventyklai",
+        "Įmetimas į ugnį",
+        "Jūros kirtimas sausuma",
+        "Didžiosios arkos statyba",
+        "Praryti didelės žuvies"
+      ],
+      "answer": "Prisiekdama pašvęsti savo vaiką šventyklai"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Šventovė (mihrab), kurioje buvo paguldytas jos vaikas",
+        "Sandoros skrynia",
+        "Auksinis veršis",
+        "Personalas, kuris virto gyvate",
+        "Datulių palmė, po kuria ji ilsėjosi"
+      ],
+      "answer": "Šventovė (mihrab), kurioje buvo paguldytas jos vaikas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jos vaikas buvo priimtas ir perduotas pranašo Zakariya globai.",
+        "Ji buvo išgelbėta nuo tirono bausmės",
+        "Jai gimė sūnus, vardu Jahja.",
+        "Jos žmones sunaikino audra",
+        "Ji tapo didžios karalystės karaliene"
+      ],
+      "answer": "Jos vaikas buvo priimtas ir perduotas pranašo Zakariya globai."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Rito Leri Hlohloteke Ku Fuma Ka Xifaniso Xa Xifaniso",
+  "intro": "Exikarhi ka varhumiwa va Lowa Matimba Hinkwawo a ku ri na nandza la tiyeke loyi a pfukeke exikarhi ka tiko leri nonon’hwaka leswaku a ntshunxa ntiyiso. Vanhu va vona a va amukele xikwembu lexi vumbiweke, va fularhela Muvumbi wa hinkwaswo leswi nga kona. Hi ku tiyimisela loku nga tsekatsekiki, munhu loyi u va vitanile endzhaku — kambe rungula leri ri hlangane na ku kaneta na ku ala. Nghena eka swikombiso leswaku u kuma leswaku nandza loyi la tinyiketeleke a a ri mani.",
+  "clues": [
+    "Ndzi rhumeriwe tanihi murhumiwa eka vanhu vo nonon’hwa lava a va famba-famba ekule ni ndlela yo lulama.",
+    "Ndzi tile ku ta tsundzuxa rixaka ra mina hi Loyi a tumbuluxeke hinkwaswo leswi nga kona — lonene eka vatumbuluxi hinkwavo.",
+    "Vanhu va mina a va hundzukele eka xifaniso xa mavunwa lexi a va xi xixima ni ku xi vitana vusiku ni nhlikanhi.",
+    "Ndzi va tlhontlhe hi xivindzi, ndzi vutisa leswaku ha yini va ta gandzela xikwembu lexi vumbiweke ivi va tshika Hosi ya vona ya ntiyiso.",
+    "Va ndzi landzurile, va ala ku yingisa, va khomelela swinene eka mavunwa ya vona — hambiswiritano Hosi ya mina yi ndzi hlayisile.",
+    "Hi mina Ilyas — naswona ku rhula ku nyikiwile eka mina, naswona ndzi hlayiwile exikarhi ka malandza lama pfumelaka ya Loyi a nga ni Tintswalo-nkulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Ilyas",
+        "Muprofeta Idris",
+        "Muprofeta Alyasa",
+        "Muprofeta Dhul-Kifl",
+        "Muprofeta Nuh"
+      ],
+      "answer": "Muprofeta Ilyas"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku vitana vanhu ekule ni vugandzeri bya Baali",
+        "Ku langutana ni mufumi wa tihanyi loyi a a tivula xikwembu",
+        "Ku tsundzuxa vanhu hi ndhambi leyi tshinelaka",
+        "Ku lahleriwa endzilweni lowukulu lowu pfurhaka",
+        "Ku rhangela ku rhurha etikweni ra vuhlonga"
+      ],
+      "answer": "Ku vitana vanhu ekule ni vugandzeri bya Baali"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xifaniso lexi vuriwaka Baali",
+        "Areka leyikulu leyi akiweke hi timhandzi leti tiyeke",
+        "Nhonga leyi a yi hambanisa lwandle lerikulu",
+        "Xiambalo xo kwetsima lexi nga ni ngati",
+        "Xihlahla lexi pfurhaka entshaveni yo kwetsima"
+      ],
+      "answer": "Xifaniso lexi vuriwaka Baali"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U nyikiwile ku rhula naswona u hlayiwe exikarhi ka malandza lama hlawuriweke ya Allah",
+        "Yi kongomisiwe eparadeyisini loko van’wana hinkwavo va lovisiwile",
+        "U ponisiwile eka ndzilo lowukulu lowu veke ku kufumela naswona wu hlayisekeke",
+        "Ku nyikiwa vulawuri ehenhla ka jinn, vumunhu ni moya",
+        "Miri lowu hlayisiweke tanihi xikombiso lexi nga heriki xa malembe"
+      ],
+      "answer": "U nyikiwile ku rhula naswona u hlayiwe exikarhi ka malandza lama hlawuriweke ya Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

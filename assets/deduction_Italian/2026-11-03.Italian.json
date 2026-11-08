@@ -1,0 +1,61 @@
+{
+  "title": "Il sonno dei giusti",
+  "intro": "In un'epoca in cui la fede era pericolosa e i potenti cercavano di soffocare il credo, un piccolo gruppo di giovani anime fece una scelta che avrebbe riecheggiato nei secoli. Fuggendo da tutto ciò che conoscevano, cercarono rifugio nell'oscurità nascosta di una montagna e riposero la loro fiducia interamente in Allah. Ciò che accadde in seguito sarebbe diventato un segno senza tempo per coloro che rifletteranno.",
+  "clues": [
+    "Eravamo un gruppo di giovani che credevano nel nostro Signore, ed Egli ci ha arricchiti nella sua guida.",
+    "Ci siamo presentati davanti al nostro popolo e abbiamo dichiarato che non avremmo mai invocato alcuna divinità all'infuori di Allah.",
+    "Ci rifugiammo in una grotta, dicendo: «Signore nostro, concedici misericordia e guidaci sulla retta via».",
+    "Abbiamo dormito per moltissimi anni, e il sole si allontanava dalla nostra grotta senza toccarci.",
+    "Il nostro cane giaceva disteso all'ingresso della grotta, a farci da guardia come se fosse di guardia.",
+    "Quando ci svegliammo, ci chiedemmo quanto tempo avessimo trattenuto, e uno di noi fu mandato con delle monete d'argento a comprare del cibo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abitanti della caverna",
+        "Gente della trincea",
+        "Popolo del sabato",
+        "Popolo dell'Elefante",
+        "Compagni del bosco"
+      ],
+      "answer": "Abitanti della caverna"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Si rifugiarono in una grotta per sfuggire alle persecuzioni a causa della loro fede.",
+        "Distrutto da un vento violento",
+        "Inghiottito dalla terra",
+        "Annegato in mare",
+        "Colpito da una tempesta di pietre"
+      ],
+      "answer": "Si rifugiarono in una grotta per sfuggire alle persecuzioni a causa della loro fede."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un cane a guardia dell'ingresso della grotta",
+        "Una grande arca",
+        "Un bastone che si è trasformato in un serpente",
+        "Un uccello upupa",
+        "Un vitello dorato"
+      ],
+      "answer": "Un cane a guardia dell'ingresso della grotta"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Rimasero nella grotta per 309 anni e poi furono sollevati come segno",
+        "Furono trasformati in scimmie",
+        "Furono distrutti da un'alluvione",
+        "Furono costretti ad attraversare il mare",
+        "Fu dato loro un regno"
+      ],
+      "answer": "Rimasero nella grotta per 309 anni e poi furono sollevati come segno"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

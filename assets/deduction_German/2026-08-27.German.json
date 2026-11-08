@@ -1,0 +1,61 @@
+{
+  "title": "Der wortgewandte Auserwählte",
+  "intro": "Im Schatten eines Berges, von dem göttliche Worte herabkamen, schwankte der Glaube eines Volkes im Glanz des Goldes. Eine Seele, begabt mit Beredsamkeit, stand einer höheren Mission als Stütze zur Seite und wurde dabei auf eine schwere Probe gestellt. Als der auserwählte Bote zu einer heiligen Aufgabe aufstieg, blieb diese Gestalt zurück und flehte ein unruhiges Volk an. Wer ist diese standhafte Seele, deren Stimme sich gegen Götzendienst erhob?",
+  "clues": [
+    "Ich wurde von Allah zum Propheten auserwählt, obwohl meine Geschichte oft zusammen mit einer anderen erzählt wird.",
+    "Ich wurde zu einem tyrannischen Herrscher geschickt, aber meine Rolle bestand darin, ihn zu unterstützen, nicht zu führen.",
+    "Ich besaß die Gabe der Eloquenz, und meine Worte waren dazu bestimmt, Herzen zu erweichen.",
+    "Als mein Begleiter zu einer heiligen Verabredung aufbrach, blieb ich zurück, um ein unruhiges Volk zu führen.",
+    "In ihrer Ungeduld bastelten sie sich ein Bild aus ihren Schmuckstücken, und ich flehte sie an, Allah treu zu bleiben.",
+    "Mein Begleiter kam zurück und packte mich, aber ich erklärte ihm, dass die Leute mich überwältigt und beinahe getötet hätten; ich sei nicht unter den Übeltätern gewesen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Harun",
+        "Prophet Isa",
+        "Prophet Yahya",
+        "Prophet Zakariya"
+      ],
+      "answer": "Prophet Harun"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Ins Feuer geworfen werden",
+        "In einen Brunnen geworfen werden",
+        "Angesichts des Vorfalls mit dem goldenen Kalb",
+        "Der Test einer schweren Krankheit",
+        "Die Bewährungsprobe für den Verlust von Vermögen und Kindern"
+      ],
+      "answer": "Angesichts des Vorfalls mit dem goldenen Kalb"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das goldene Kalb",
+        "Das Personal",
+        "Die Bundeslade",
+        "Die Tabletten",
+        "Der brennende Dornbusch"
+      ],
+      "answer": "Das goldene Kalb"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "streng bestraft",
+        "Vergeben und rehabilitiert",
+        "Er machte einen König",
+        "In den Himmel aufgenommen",
+        "Angesichts einer neuen Schrift"
+      ],
+      "answer": "Vergeben und rehabilitiert"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

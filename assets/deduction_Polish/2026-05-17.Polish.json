@@ -1,0 +1,61 @@
+{
+  "title": "Architekci kamienia",
+  "intro": "Wyobraź sobie potężną cywilizację, obdarzoną siłą i kunsztem, wznoszącą okazałe domy na zboczach gór. Ta grupa cieszyła się ogromnym dobrobytem i wyjątkowym kunsztem architektonicznym. Mimo wyraźnych ostrzeżeń, wybrali oni drogę, która doprowadziła ich do dramatycznego i niezapomnianego finału. Czy potrafisz zidentyfikować tę grupę, której historia stanowi głęboką lekcję dla wszystkich, którzy się nad nią zastanawiają?",
+  "clues": [
+    "Obdarzono nas siłą i umiejętnościami, które pozwoliły nam na wykuwanie wspaniałych domów bezpośrednio w górach.",
+    "Otrzymaliśmy jasny znak od Allaha – wyjątkowe stworzenie, któremu należało pozwolić paść się w spokoju.",
+    "Nasza społeczność stała się arogancka i zaczęła podważać boskie przesłanie przyniesione przez posłańca pochodzącego spośród nas.",
+    "Spiskowaliśmy, aby zaszkodzić cudownemu znakowi, mimo ostrzeżeń o surowej karze.",
+    "Zignorowaliśmy polecenie i pozwoliliśmy temu wyjątkowemu stworzeniu pić z naszej studni co drugi dzień.",
+    "Spotkał nas druzgocący koniec, powaleni pojedynczym, przerażającym wybuchem po naszym akcie występku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ludzie z „Ad”",
+        "Ludzie Midianu",
+        "Ludzie Słonia",
+        "Ludzie z Thamud",
+        "Ludzie Lutu"
+      ],
+      "answer": "Ludzie z Thamud"
+    },
+    "trial": {
+      "label": "Nasze najważniejsze wydarzenie/próba",
+      "options": [
+        "Powódź, która pochłonęła ziemię",
+        "Rozdzielenie morza",
+        "Zniszczenie jednym wybuchem/krzykiem",
+        "Spalenie miasta",
+        "Zamiana góry w pył"
+      ],
+      "answer": "Zniszczenie jednym wybuchem/krzykiem"
+    },
+    "location": {
+      "label": "Kluczowy element naszej historii",
+      "options": [
+        "Złoty cielec",
+        "Cudowna wielbłądzica",
+        "Płonący krzew",
+        "Mówiący ptak",
+        "Majestatyczny tron"
+      ],
+      "answer": "Cudowna wielbłądzica"
+    },
+    "outcome": {
+      "label": "Nasz ostateczny wynik",
+      "options": [
+        "Przyznano mu ogromne bogactwo i władzę",
+        "Podniesiony do rangi proroka",
+        "Całkowite unicestwienie przez karę boską",
+        "Wybaczone po szczerym żalu",
+        "Rozproszeni po całej ziemi, by wędrować"
+      ],
+      "answer": "Całkowite unicestwienie przez karę boską"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

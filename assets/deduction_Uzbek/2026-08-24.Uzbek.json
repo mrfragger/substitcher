@@ -1,0 +1,61 @@
+{
+  "title": "Ishongan yashirin tinglovchilar",
+  "intro": "Muqaddas yig'ilish sukunatida ko'rinmas olamdan ajoyib bir yig'ilish keldi. Ajoyib bir narsaning pichirlashlari bilan ular taqdirlarini abadiy muhrlaydigan tilovatni tinglashdi. Ularning guvohligi ilohiy yozuvlardagi eng noyob guvohliklardan biri bo'lib qolmoqda.",
+  "clues": [
+    "Biz ko'pchilik ko'rmaydigan olamdan kelgan mavjudotlarmiz va biz bir guruh bo'lib kelganmiz.",
+    "Biz ajoyib bir narsa eshitish uchun yig'ilganlar tomon yo'l oldik.",
+    "Yetib kelganimizda, bizni hayratda qoldirgan qiroatni tingladik.",
+    "Biz oramizda ba'zilarimiz solih, ba'zilarimiz esa solih emasligini ochiq tan oldik.",
+    "Biz yer yuzidagi ilohiy taqdirdan qochib qutula olmasligimizni, osmonga uchib keta olmasligimizni bilardik.",
+    "Biz hidoyatni eshitganimizda unga iymon keltirdik; kimki Parvardigoriga iymon keltirsa, u ziyondan yoki og'irlikdan qo'rqmaydi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Jinlardan bir guruh",
+        "Iram xalqi",
+        "Tubba qavmi",
+        "Rim imperiyasi",
+        "Quraysh qabilasi"
+      ],
+      "answer": "Jinlardan bir guruh"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Muqaddas tilovatni tinglash",
+        "Shahrimizda baland ustunlar qurish",
+        "Ajoyib urg'ochi tuyani ovlash",
+        "Payg'ambarlarimizni o'ldirgani uchun yo'q qilinmoqda",
+        "Boylikni o'lchovsiz ko'paytirish"
+      ],
+      "answer": "Muqaddas tilovatni tinglash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Muqaddas tilovat yig'ilishi",
+        "Baland ustunlar shahri (Iram)",
+        "Cho'lda quduq",
+        "Oltindan yasalgan ulug'vor saroy",
+        "Tog'lardagi muqaddas g'or"
+      ],
+      "answer": "Muqaddas tilovat yig'ilishi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Biz ishondik va xalqimizni ogohlantirdik",
+        "Osmondan kuchli portlash bilan vayron qilingan",
+        "Kuchli, halokatli shamol bilan jazolandi",
+        "Ulkan boylik va kuch berdi",
+        "Kufrda sobit qoldi"
+      ],
+      "answer": "Biz ishondik va xalqimizni ogohlantirdik"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

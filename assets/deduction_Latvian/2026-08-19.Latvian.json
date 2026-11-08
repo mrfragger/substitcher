@@ -1,0 +1,61 @@
+{
+  "title": "Nācija, kas nepakļāvās dabiskajai kārtībai",
+  "intro": "Reģionā, kura stāsti atbalsojas cauri gadsimtiem, kāda kopiena dzīvoja atklātā dumpī pret tīrības likumiem. Viņu darbi bija tik nepieredzēti, ka tie tiek atcerēti kā brīdinājums visai cilvēcei. Kas bija šīs dvēseles un kāds liktenis tās piemeklēja?",
+  "clues": [
+    "Mēs dzīvojām zemē, pa kuru ceļotāji bieži gāja cauri, bet mēs padarījām viņu ceļojumu bīstamu.",
+    "Mēs pastrādājām tādas nepiedienības, kādas neviens pasaulē nekad iepriekš nebija darījis.",
+    "Vēstnesis no mūsu vidus aicināja mūs atteikties no mūsu ceļiem, bet mēs viņu noraidījām un pieprasījām sodu, ja viņš būtu patiess.",
+    "Kad mūsu pilsētā ieradās izskatīgi viesi, mēs centāmies viņiem uzbrukt, nezinot, ka tie ir iznīcības vēstneši.",
+    "Mūs brīdināja par briesmīgu sodu, ja mēs neatkāpsimies, bet mēs izsmējām brīdinājumu un palikām savos grēkos.",
+    "No debesīm pār mums krita akmeņu lietus, un mūsu mājas tika apgāztas, neatstājot nekādas pēdas, izņemot zīmi tiem, kas par to domā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Lutas iedzīvotāji",
+        "Tamudas iedzīvotāji",
+        "A'adas iedzīvotāji",
+        "Madjanas iedzīvotāji",
+        "Sabas iedzīvotāji"
+      ],
+      "answer": "Lutas iedzīvotāji"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pastrādāja nepieredzētu amoralitāti un aizšķērsoja ceļus",
+        "Pielūdza zelta teļu",
+        "Nogalināja svēto kamieli",
+        "Krāpās tirdzniecībā un apkrāpa cilvēkus",
+        "Uzcēla augstu torni, lai izaicinātu debesis"
+      ],
+      "answer": "Pastrādāja nepieredzētu amoralitāti un aizšķērsoja ceļus"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Eņģeļi maskējas par skaistiem viesiem",
+        "No klints iznirst kamieļu mātīte",
+        "Personāla pārtapšana par čūsku",
+        "Laiva, kas uzbūvēta kalnā",
+        "Uguns, kas kļuva vēsa un mierīga"
+      ],
+      "answer": "Eņģeļi maskējas par skaistiem viesiem"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Iznīcināts ar akmeņu lietu no debesīm",
+        "Zeme norīja",
+        "Noslīka lielos plūdos",
+        "Skārusi kliedzoša sprādziena",
+        "Pārveidojušies par pērtiķiem"
+      ],
+      "answer": "Iznīcināts ar akmeņu lietu no debesīm"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

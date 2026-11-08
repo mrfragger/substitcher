@@ -1,0 +1,61 @@
+{
+  "title": "L'arquitècte de la falsa ambicion",
+  "intro": "Una figura de granda autoritat serviguèt un còp un dels tirans mai notoris de l'istòria dins l'Egipte antica. Aquel individú foguèt confiat d'un comandament audaciós — de bastir una estructura destinada a desfisar los cèls. Lor istòria se tròba dins l'Alcoran coma una leiçon frapanta sus cossí l'obedíncia òrba a l'arrogància mena pas que a la roïna.",
+  "clues": [
+    "Serviguèri dins las corts d'un poderós governant que revendicava la divinitat sus las tèrras.",
+    "Ocupavi un naut pòste ministerial, conselhant lo tiran mai arrogant de mon temps.",
+    "Mon governador èra consumit a contestar lo Dieu de Moïses, que refusèron de reconéisser.",
+    "Me foguèt comandat de bastir una torre de bricas al fuòc per que mon regent poguèsse montar al cèl.",
+    "La torre arribèt pas jamai al cèl, e ma servitud a l'arrogància me valguèt una desgràcia eternala.",
+    "Periguèri amb lo que seguiguèri, e mon nom venguèt un avertiment duradís contra los que permeton los tirans."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Aman",
+        "Azar (paire d'Ibrahim)",
+        "Illias (un profèta)",
+        "Dhu al-Kifl",
+        "Harut (un dels dos angèls de Babilònia)"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Ordenat de bastir una estructura torrejanta per aténher los cèls",
+        "Demandat d'interpretar un sòmi mandat del divin",
+        "Tirat dins un fuòc ardent coma una pròva de fe",
+        "Obligat de causir entre tròn e vertat",
+        "Desfiat dins un concors de bruèissa"
+      ],
+      "answer": "Ordenat de bastir una estructura torrejanta per aténher los cèls"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una torre de bricas al fuòc",
+        "Un baston que se transformèt en sèrp",
+        "Un vaissèl navegant a travèrs una granda inondacion",
+        "Un òrt enclausat per de parets nautas",
+        "Un tròn ornat de robins e d'aur"
+      ],
+      "answer": "Una torre de bricas al fuòc"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Afogats al ras de l'opressor dins la mar",
+        "Venguèt un monarca poderós de tèrras vastas",
+        "Escapèt a un incendi ardent sens damatge",
+        "Bastiguèt un reialme prospèr de saviesa",
+        "Foguèt reünit amb la familha après d'annadas d'exili"
+      ],
+      "answer": "Afogats al ras de l'opressor dins la mar"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "I traditori degli eletti",
+  "intro": "Nel corso della storia, messaggeri divini hanno camminato tra gli uomini, e alcuni dei loro più vicini non sono riusciti a riconoscere la luce. Questo racconto ruota attorno a due anime la cui vicinanza alla profezia è diventata la loro prova, e la cui eredità una lezione senza tempo.",
+  "clues": [
+    "Abbiamo vissuto in tempi di grandi profeti, eppure abbiamo tenuto gli occhi chiusi alla verità che ci hanno portato.",
+    "Le nostre case erano colme di rivelazione divina, ma i nostri cuori erano induriti.",
+    "Eravamo sposate con uomini che erano stati scelti per avvertire il loro popolo.",
+    "Quando giunse il castigo, non ci rifugiammo nell'arca né fuggimmo dalla pioggia ardente, perché ci facemmo beffe degli avvertimenti.",
+    "Nel Corano siamo citati come esempio per coloro che non credono, a dimostrazione che nemmeno una stretta relazione con un profeta garantisce la salvezza.",
+    "Noi siamo le mogli di Nuh e Lut, che li tradimmo e per questo fummo condannate."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "Le mogli di Nuh e Lut",
+        "Le mogli di Abramo e Ismaele",
+        "Le mogli di Musa e Harun",
+        "Le mogli di Dawud e Sulayman",
+        "Le mogli di Ayyub e Yunus"
+      ],
+      "answer": "Le mogli di Nuh e Lut"
+    },
+    "trial": {
+      "label": "Qual era il loro processo?",
+      "options": [
+        "Erano sposate con profeti ma non credevano",
+        "Erano sterili e incolpavano i profeti",
+        "Erano ricchi e arroganti",
+        "Furono tentati da Iblis ad abbandonare le loro case",
+        "Adoravano il vitello d'oro"
+      ],
+      "answer": "Erano sposate con profeti ma non credevano"
+    },
+    "location": {
+      "label": "A cosa era legato il loro destino?",
+      "options": [
+        "Il diluvio e la pioggia di pietre",
+        "Un vento impetuoso",
+        "Un terremoto",
+        "La piaga delle locuste",
+        "La divisione del mare"
+      ],
+      "answer": "Il diluvio e la pioggia di pietre"
+    },
+    "outcome": {
+      "label": "Qual è stata la loro fine?",
+      "options": [
+        "Perirono con i miscredenti",
+        "Si pentirono e furono salvati",
+        "Rimasero senza figli",
+        "Furono esiliati per sempre",
+        "Furono trasformati in scimmie e maiali"
+      ],
+      "answer": "Perirono con i miscredenti"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bazara a Ƙarƙashin Yashi",
+  "intro": "A cikin tarihin Alƙur'ani, wani mutum mai haƙuri mai yawa ya fuskanci gwaji wanda zai karya zukatan masu ƙarfi. An kwace komai - dukiya, iyali, da lafiya. Duk da haka, daga cikin zurfin yanke ƙauna, an amsa addu'ar tawali'u ta hanyar da ba a zata ba. Za ku iya gane wannan ruhi wanda labarin maidowa ke maimaitawa tsawon shekaru?",
+  "clues": [
+    "An gwada ni da wata jarabawa mai tsanani wadda ake tunawa da ita tsawon shekaru.",
+    "Na rasa duk abin da ya fi muhimmanci - dukiyata, 'ya'yana, da lafiyata.",
+    "Jikina ya cika da raunuka masu zafi, kuma kowa ya guje ni.",
+    "Cikin tsananin damuwa, na kira Allah, ina cewa Shaidan ya shafe ni da wahala da azaba.",
+    "Allah ya amsa min ya kuma umarce ni da in buga ƙasa da ƙafata.",
+    "Daga nan sai wani sanyin marmaro ya fito, Allah ya dawo da iyalina ya kuma ninka su a matsayin rahama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Ayyub",
+        "Annabi Musa",
+        "Annabi Ilyas",
+        "Annabi Sulaiman",
+        "Annabi Dawuda"
+      ],
+      "answer": "Annabi Ayyub"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Mummunan rashin lafiya da asarar iyali da dukiya",
+        "Babban kifin whale ya haɗiye shi",
+        "Ficewa daga birnin Makkah",
+        "Kurkuku a cikin wani babban rijiya",
+        "Muhawara da mai mulki mai girman kai"
+      ],
+      "answer": "Mummunan rashin lafiya da asarar iyali da dukiya"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Maɓuɓɓugar ruwa mai sanyi daga ƙasa",
+        "Jirgin ruwa a kan babban ambaliyar ruwa",
+        "Sanda da ta raba teku",
+        "Kursi mai ɗaukaka na gilashi",
+        "Kogo mai katanga don barci"
+      ],
+      "answer": "Maɓuɓɓugar ruwa mai sanyi daga ƙasa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Iyali da dukiya sun dawo kuma sun ninka sau biyu",
+        "Fita daga cikin kifi",
+        "Wucewa lafiya ta cikin ruwan da aka raba",
+        "Masarautar da aka ba wa mulki",
+        "Haihuwar ɗa mai ban mamaki a tsufa"
+      ],
+      "answer": "Iyali da dukiya sun dawo kuma sun ninka sau biyu"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

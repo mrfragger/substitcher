@@ -1,0 +1,61 @@
+{
+  "title": "Vestitorul unui păcat fără precedent",
+  "intro": "Unele povești din Coran dezvăluie profunzimea corupției în care poate cădea o întreagă societate. Acest mesager a stat singur, implorând un popor înecat într-o perversiune pe care nicio națiune dinaintea lor nu o urmărise vreodată. În ciuda anilor de avertizare, inimile au rămas împietrite, iar decretul divin a sosit într-un mod extrem de terifiant. Îl puteți identifica pe acest nobil mesager al lui Allah?",
+  "clues": [
+    "Am fost trimis ca avertizator pentru un popor mistuit de o perversiune pe care nicio națiune înaintea lui n-o mai săvârșise vreodată.",
+    "Poporul meu m-a numit mincinos și m-a amenințat că mă vor expulza pe mine și pe adepții mei din țară.",
+    "Vizitatori de onoare au venit la mine acasă sub forma unor tineri greviști, iar eu am simțit o profundă durere pentru siguranța lor.",
+    "Poporul meu a cerut să le predau oaspeții mei, fără să știe că acești vizitatori erau îngeri trimiși de Allah.",
+    "Propriul meu soț nu a împărtășit credința mea și a ales să rămână alături de cei condamnați.",
+    "Am fost salvată împreună cu fiicele mele în zori, când o ploaie devastatoare de pietre a căzut și orașele noastre au fost răsturnate."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Lut",
+        "Profetul Șu'aib",
+        "Profetul Hud",
+        "Profetul Nuh",
+        "Profetul Salih"
+      ],
+      "answer": "Profetul Lut"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "O mare inundație care cuprinde pământul",
+        "Pierderea vederii din cauza suferinței îndelungate",
+        "Un tiran care se revendică divinitatea",
+        "A fi aruncat într-un foc arzător",
+        "Li se cere să predea oaspeții de onoare"
+      ],
+      "answer": "Li se cere să predea oaspeții de onoare"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O arcă mare construită manual",
+        "Un toiag care a despicat marea",
+        "O cămilă miraculoasă",
+        "Un foc arzător",
+        "Orașe răsturnate"
+      ],
+      "answer": "Orașe răsturnate"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "S-a înecat în timp ce îi urmărea pe credincioși",
+        "Salvat nevătămat dintr-un cuptor de foc",
+        "Înălțat viu la ceruri",
+        "O familie a pierit într-o mare inundație",
+        "Familie salvată, cu excepția unei soții infidele"
+      ],
+      "answer": "Familie salvată, cu excepția unei soții infidele"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

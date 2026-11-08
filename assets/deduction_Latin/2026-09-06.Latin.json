@@ -1,0 +1,61 @@
+{
+  "title": "Expulsus Vituli Aurei",
+  "intro": "Persona in Corano memorata magnam multitudinem in deviationem duxit absente propheta nobili. Aliquid ex auro factum corda totius gentis cepit — sed historia huius hominis in solitudine et mira maledictione terminatur. Quisnam hic exsul esse potest?",
+  "clues": [
+    "Emersi absente magno propheta qui ascenderat ut divinam gubernationem acciperet.",
+    "Magnam multitudinem errare feci eo quod manibus meis fabricavi.",
+    "Aurea creatura quam produxi vitam habere videbatur, sonos edens qui eos qui eam sequebantur fascinabant.",
+    "Affirmabam me vidisse quod alii percipere non poterant — obliquum quoddam in invisibile.",
+    "Ex vestigiis nuntii divini aliquid extraxi et in metallum liquefactum fudi.",
+    "Damnatus eram solus vagari, cum singulari maledictione ne quis cutem meam tangere posset nec ego eorum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Samiri",
+        "Aman",
+        "Pharao (Fire)",
+        "Abu Lahab",
+        "Propheta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Creavit vitulum aureum ad adorandum",
+        "Turrim aedificavit ad caelum pertingens",
+        "Magos Aegypti provocavit",
+        "Exercitum bestiis volantibus duxit",
+        "Lunam findere ut testimonium prophetiae"
+      ],
+      "answer": "Creavit vitulum aureum ad adorandum"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus aureus",
+        "Baculus qui in serpentem conversus est",
+        "Rubus ardens in monte",
+        "Arca in cacumine quiescens",
+        "Fossa igne ardenti repleta"
+      ],
+      "answer": "Vitulus aureus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Exsul, tangi vel alios tangere prohibitus",
+        "In mari submersus una cum exercitu",
+        "Vivus combustus ob fidem reiectam",
+        "Vento vehementi et fragori percussus",
+        "Ignositus et ad altum gradum evectus"
+      ],
+      "answer": "Exsul, tangi vel alios tangere prohibitus"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

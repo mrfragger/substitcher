@@ -1,0 +1,61 @@
+{
+  "title": "Sanansaattaja, joka kohtasi epäjumalanpalvelijat",
+  "intro": "Aikana, jolloin harhautuminen oli harhautunut, nousi sanansaattaja kutsumaan ihmisiä palaamaan maailmojen Herran palvontaan. Tämä hahmo seisoi lujana väärän jumaluuden palvontaan juurtunutta kansaa vastaan ​​muistuttaen heitä heidän todellisesta Luojastaan ​​ja esi-isiensä Herrasta. Silti kansa oli piittaamaton ja hylkäsi varoituksen, sinetöiden näin oman kohtalonsa. Kuka oli tämä horjumaton kutsuja?",
+  "clues": [
+    "Minut lähetettiin kansan luo, joka oli kääntynyt pois Yhden Tosi Jumalan polulta.",
+    "Kysyin kansaltani: \"Ettekö te pelkäisi Allahia?\"",
+    "Kehotin heitä luopumaan Baal-nimisen väärän jumaluuden palvonnasta.",
+    "Kansani hylkäsi kutsuni ja jatkoi epäjumalanpalvelustaan.",
+    "Kieltämisensä vuoksi heidät varmasti tuomitaan rangaistukseen.",
+    "Herrani soi minulle rauhan ja siunatun muiston tulevien sukupolvien keskuudessa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ilja",
+        "Profeetta Jahja",
+        "Profeetta Dhul-Kifl",
+        "Profeetta Yusuf",
+        "Profeetta Shu'ayb"
+      ],
+      "answer": "Profeetta Ilja"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kutsui kansaansa hylkäämään Baalin",
+        "Rakensi arkin pelastaakseen uskovat",
+        "Heitettiin tuleen",
+        "Pakeni tyranni faaraolta",
+        "Löi kalliota saadakseen vettä esiin"
+      ],
+      "answer": "Kutsui kansaansa hylkäämään Baalin"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Rauha ja siunattu muisto annettu",
+        "Maan nielaisema",
+        "Tuhoutui rajussa myrskyssä",
+        "Muuttui kiveksi",
+        "Hukkui mereen"
+      ],
+      "answer": "Rauha ja siunattu muisto annettu"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Šventovės maldininkas",
+  "intro": "Tyliomis nakties valandomis atsidavusi siela šaukėsi Gailestingiausiojo šventos vietos sienose. Ilgus metus trukęs nepajudinamas tikėjimas ir kantrybė netrukus bus apdovanoti stebuklu, kuris atneš džiaugsmo ir pranašystės palikimą.",
+  "clues": [
+    "Dienas ir naktis leidau atsidavęs šventoje šventykloje, nuolat melsdamasis savo Viešpačiui.",
+    "Aš pasenau, o mano žmona buvo nevaisinga, tačiau niekada nepraradau vilties dėl Alacho gailestingumo.",
+    "Man buvo padovanotas sūnus, vardu Jahja, kuris tapo pranašu ir teisumo švyturiu.",
+    "Aš pats buvau pranašas, pasiųstas vesti Izraelio vaikus.",
+    "Aš buvau pranašo Haruno palikuonis ir tarnavau kunigu šventykloje.",
+    "Man buvo patikėta globoti Maryam, Isos motina, ir aš mačiau jos stebuklus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Zakarija",
+        "Pranašas Jahja",
+        "Pranašas Ilja",
+        "Pranašas Išakas",
+        "Pranašas Jakubas"
+      ],
+      "answer": "Pranašas Zakarija"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Senatvėje padovanojo sūnų",
+        "Išgelbėtas nuo liepsnojančio gaisro",
+        "Išgelbėtas iš žuvies pilvo",
+        "Išgyveno didelį potvynį",
+        "Išgydytas nuo sunkios ligos"
+      ],
+      "answer": "Senatvėje padovanojo sūnų"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Mihrabas (maldos niša)",
+        "Kaaba",
+        "Degantis krūmas",
+        "Sandoros skrynia",
+        "Septynių miegančiųjų ola"
+      ],
+      "answer": "Mihrabas (maldos niša)"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteiktas teisus sūnus, kuris tapo pranašu",
+        "Sugriauta smarkios audros",
+        "Nuskendo jūroje",
+        "Išsaugotas nuo sudeginimo",
+        "Grįžo pas savo žmones po to, kai buvo išgelbėti nuo žuvies"
+      ],
+      "answer": "Suteiktas teisus sūnus, kuris tapo pranašu"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

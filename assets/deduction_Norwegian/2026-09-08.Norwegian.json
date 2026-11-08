@@ -1,0 +1,61 @@
+{
+  "title": "Rettssaken mot den hellige flamme",
+  "intro": "I et gammelt land hvor hengivenhet til utskåret stein hadde slått rot i alle hjem, skilte én person seg ut. Gjennom urokkelig overbevisning og guddommelig beskyttelse møtte de det som skulle ha vært sikker død – og gikk uskadd derfra. Kan du avsløre identiteten til denne bemerkelsesverdige sjelen?",
+  "clues": [
+    "Jeg vokste opp blant folk som bøyde seg for avguder de hadde skåret ut med sine egne hender, i den tro at disse gjenstandene hadde guddommelig kraft.",
+    "Da jeg utfordret deres tro, avfeide de meg først, men jeg klarte ikke å tie om sannheten jeg visste.",
+    "En dag de ble samlet bort, ødela jeg avgudene deres og lot bare den største bli urørt.",
+    "Da de kom tilbake og så hva jeg hadde gjort, befalte lederne deres at det skulle bygges et stort bål, i den hensikt å kaste meg i flammene.",
+    "De kastet meg inn i den flammende ilden, men verdens Herre befalte at den skulle bli kjølig og trygg for meg.",
+    "Jeg kom uskadd ut av flammene, mens de som konspirerte mot meg sto overfor fullstendig ødeleggelse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Nuh",
+        "Profeten Isa",
+        "Profeten Yusuf"
+      ],
+      "answer": "Profeten Ibrahim"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Å bli kastet inn i en flammende ild",
+        "Å bli slukt av en stor hval",
+        "Overlevde en stor flom",
+        "Å bli kastet ned i en dyp brønn",
+        "Konfrontasjon med en konges magikere"
+      ],
+      "answer": "Å bli kastet inn i en flammende ild"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Et massivt bål av brennende tre",
+        "En flott treark",
+        "En statue av en gullkalv",
+        "En flytende kurv på en elv",
+        "En praktfull trone"
+      ],
+      "answer": "Et massivt bål av brennende tre"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Allah gjorde ilden kjølig og trygg",
+        "Arken landet trygt på et fjell",
+        "Det gylne idolet smeltet foran øynene deres",
+        "En tyrann og hæren hans druknet i havet",
+        "En blind manns syn ble gjenopprettet"
+      ],
+      "answer": "Allah gjorde ilden kjølig og trygg"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Serdestiya Ba û Agir",
+  "intro": "Xeyal bikin ku serweriyek tê de ba bi xwe ji serwerekî yekane re xizmet dikir, dengên afirîdên herî biçûk giranî hildigirt û hêzên ku ji çavên asayî nayên dîtin di xizmeta baldar de dihatin girtin. Vê kesayetiyê ji pêşiyê xwe yê delal padîşahiyek bêhempa mîras girt, ku li ser hêmanan û cinan desthilatdar bû. Lê desthilatdariya mezin bi ceribandinên mezin re hat - û kêliyek dawîn dê tiştek ecêb li ser xwezaya jiyan û mirinê bi xwe eşkere bike.",
+  "clues": [
+    "Min ji dê û bavê xwe yê delal ku ew jî pêxember û xizmetkarê Xwedê bû, padîşahiyek mezin mîras girt.",
+    "Xwedê hukum li ser bayê da min, û di sibehekê de ew ji bo karên rêwîtiyek mehekê şand.",
+    "Tewra herî biçûk jî dê qala nêzîkbûna min bikira, û ez ê rawestiyama da ku ji hişyariya wan matmayî bimînim.",
+    "Min fermandariya artêşeke mezin ji cin, mirov û çûkan dikir, ku hemû bi rêzên rêkûpêk li pêş min rêz bûbûn.",
+    "Hikumdarekî dûr hat ku min bi ceribandineke dijwar biceribîne, û min textê wî hikumdar anî ber deriyê min berî ku mêvan bikaribe ji kursiyekê rabe.",
+    "Ez li ser piyan mam, xwe dispêrim çoqekê, heta ku afirîdeke biçûk a axê ew xwar - û tenê wê hingê yên li dora min fêm kirin ku ez derbas bûm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Suleyman (Silêman)",
+        "Pêxember Dawud (Dawid)",
+        "Pêxember Îsa (Îsa)",
+        "Pêxember Muhemmed (s.a.w)",
+        "Pêxember Mûsa (Mûsa)"
+      ],
+      "answer": "Pêxember Suleyman (Silêman)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Anîna textê şahbanûyek dûr bi rêbazên serxwezayî",
+        "Wek zarokekî, daketin bîreke kûr",
+        "Bi nîşanên mûcîzeyî rûbirûbûna sêrbazên zalimekî",
+        "Ji dergûşê ve axaftin ji bo parastina rûmeta dayikê",
+        "Wergirtina nivîsara dawîn a eşkerekirî li ser çiyayekî pîroz"
+      ],
+      "answer": "Anîna textê şahbanûyek dûr bi rêbazên serxwezayî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Darekî darîn ji aliyê termîtan ve hat xwarkirin",
+        "Keştiyeke mezin ji bo siwarbûna ji lehiyê cîhanî hatiye çêkirin",
+        "Çîpek ku li ber zalimekî veguherî mar",
+        "Perçeyek qumaşê ku ji bo qenckirina koran tê bikaranîn",
+        "Şikefteke pîroz ku cara yekem wehî lê hat wergirtin"
+      ],
+      "answer": "Darekî darîn ji aliyê termîtan ve hat xwarkirin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Hikumdarekî esilzade piştî dîtina nîşanên olî bawerî qebûl kir",
+        "Tofaneke mezin hemû kes ji bilî bawermendên di keştiyê de wêran kir",
+        "Fîrewn û artêşa wî di deryayê de mirin",
+        "Hevalekî rast ber bi asîmanan ve hate hilkişandin",
+        "Padîşahekî zalim û bajarê wî hatin hilweşandin û wêrankirin"
+      ],
+      "answer": "Hikumdarekî esilzade piştî dîtina nîşanên olî bawerî qebûl kir"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

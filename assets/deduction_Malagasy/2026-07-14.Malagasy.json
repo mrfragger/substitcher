@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanahin'ny Hady",
+  "intro": "Miverina any amin'ny vanim-potoana iray izay nitakian'ny mpitondra lozabe iray ny fanoloran-tena tanteraka amin'ny andriamanitra sandoka. Nandà izany ny vondrom-piarahamonina kely iray feno fanahy nanolo-tena, ary niatrika sazy mafy dia mafy izay nanjary voaozona mandrakizay. Manakoako ao amin'ny CORAN ny tantaran'izy ireo ho vavolombelon'ny finoana tsy azo hozongozonina. Azonao fantarina ve ity vondrona tsy mety lefy ity?",
+  "clues": [
+    "Niaina tao amin'ny tany iray teo ambany fitondrana jadona nataon'ny mpitondra iray izay nitaky ny hivavahana tamin'andriamani-diso izahay",
+    "Niatrika fanenjehana mafy ny vondrom-piarahamonintsika noho ny finoanay an'i Allah irery ihany",
+    "Nandidy ny hanamboarana hady lehibe sy handrehetana afo mirehitra ny mpitondra",
+    "Satria tsy nety nanda ny finoanay izahay, dia natsipy tsirairay tao amin'io lavaka mirehitra io",
+    "Lasa anisan'ny CORAN ny tantarantsika, ary ireo izay nanenjika antsika dia voaozona mandrakizay.",
+    "Ny sora izay mirakitra ny fitsapana mahazo antsika dia nomena anarana avy amin'ireo famantarana lehibe eny amin'ny lanitra"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Ireo mpiara-dia amin'ny hady (Ashab al-Ukhdud)",
+        "Ireo Vahoakan'ny Lava-bato (Ashab al-Kahf)",
+        "Ny olona amin'ny Sabata",
+        "Vahoakan'i A'ad",
+        "Vahoakan'ny Thamoud"
+      ],
+      "answer": "Ireo mpiara-dia amin'ny hady (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Ny Fitsaranay",
+      "options": [
+        "Dorana velona ao anaty lavaka mirehitra",
+        "Voaisy tombo-kase tao anaty lava-bato nandritra ny taona maro",
+        "Fanjonoana amin'ny andro masina fitsaharana",
+        "Rava noho ny rivotra mahery",
+        "Mamono rameva vavy masina"
+      ],
+      "answer": "Dorana velona ao anaty lavaka mirehitra"
+    },
+    "location": {
+      "label": "Ny singa fototra",
+      "options": [
+        "Hady mirehitra afo",
+        "Lava-bato miafina misy alika mahatoky",
+        "Andry avo ao amin'ny tanàna tranainy iray efa voaozona",
+        "Trano an-tendrombohitra voasokitra teo amin'ny hantsana vato",
+        "Lemaka malalaka iray voafaokan'ny rivotra mahery"
+      ],
+      "answer": "Hady mirehitra afo"
+    },
+    "outcome": {
+      "label": "Ny vokatra azonay",
+      "options": [
+        "Maty maritiora izahay ary voaozona mandrakizay ireo mpanenjika",
+        "Nifoha isika rehefa avy natory nandritra ny 309 taona",
+        "Niova ho rajako isika noho ny fandikan-dalàna nataontsika",
+        "Nisy rivotra mahery nitsoka nandringana antsika rehetra",
+        "Fitarainana iray monja no nandrava ny fiainantsika"
+      ],
+      "answer": "Maty maritiora izahay ary voaozona mandrakizay ireo mpanenjika"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

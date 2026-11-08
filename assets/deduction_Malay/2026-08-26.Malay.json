@@ -1,0 +1,61 @@
+{
+  "title": "Iri Hati Yang Melahap",
+  "intro": "Sebuah kisah yang lebih tua daripada mana-mana kerajaan atau kitab suci—tragedi manusia pertama yang lahir daripada rasa cemburu. Seorang jiwa, anak sulung daripada dua orang anak yang dilahirkan oleh ibu bapa pertama, menyaksikan dengan marah seorang adik lelaki menerima pertolongan yang dinafikan. Apa yang berlaku selepas itu adalah pilihan yang paling gelap, meninggalkan darah pertama yang pernah ditumpahkan di bumi. Bolehkah anda mendedahkan identiti, perbicaraan, dan penyesalan yang pahit?",
+  "clues": [
+    "Aku dilahirkan daripada pasangan manusia pertama yang berjalan di bumi.",
+    "Aku pernah mempersembahkan korban kepada Allah, tetapi ia tidak diterima daripadaku.",
+    "Persembahan adik-beradik saya diterima, manakala persembahan saya ditolak—sesuatu yang saya tidak tahan.",
+    "Aku ugut abangku sendiri dengan kemusnahan.",
+    "Aku menjadi orang pertama yang melakukan pembunuhan di bumi ini, meragut nyawa adikku sendiri.",
+    "Allah mengutus seekor makhluk bumi—seekor burung hitam yang menggali tanah—untuk mengajarku cara menyembunyikan apa yang telah kulakukan, dan aku hanya menyesal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Habil)",
+        "Nabi Ya'qub",
+        "Nabi Musa",
+        "Nabi Adam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Persembahan ditolak oleh Allah",
+        "Dicampakkan ke dalam api yang besar",
+        "Ditinggalkan semasa bayi di sungai",
+        "Diuji dengan kerajaan yang besar",
+        "Diperintahkan untuk mengorbankan anak lelakinya"
+      ],
+      "answer": "Persembahan ditolak oleh Allah"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Burung gagak yang diutus oleh Allah",
+        "Anak lembu emas",
+        "Bahtera di atas gunung",
+        "Semak yang terbakar",
+        "Unta betina yang dipahat daripada batu"
+      ],
+      "answer": "Burung gagak yang diutus oleh Allah"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Menjadi penuh dengan penyesalan dan antara orang-orang yang rugi",
+        "Ditelan ke dalam bumi bersama harta karun",
+        "Menjadi utusan Allah yang mulia",
+        "Masuk Syurga dengan rahmat ilahi",
+        "Memerintah kerajaan yang tiada tandingan"
+      ],
+      "answer": "Menjadi penuh dengan penyesalan dan antara orang-orang yang rugi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Asyrlaryň Ukysy",
+  "intro": "Siz wagtyň içinde syýahata çykyp, imanyň we ylahy güýjüň çuňňur syry bilen duşuşmaga taýýarlanýarsyňyz. Jemgyýetiniň kadalaryna garşy çykyp, köp hudaýlylyk dünýäsinde ýekehudaýlyga ýapyşan bir topary göz öňüne getiriň. Olaryň hekaýasy Allanyň öz salyh gullaryny iň adatdan daşary usullar bilen goramaga ukyplydygynyň subutnamasydyr. Bu ajaýyp şahsyýetleriň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Biz halkymyz arasynda giňden ýaýran köp hudaýlylyga garamazdan, ýeke-täk Hudaýa ynanýan ýaş ýigitleriň kiçijik toparydyk.",
+    "Biz yzarlanmakdan we ölümden gorkup, imanymyz üçin bize howp salan zalym hökümdardan gaçdyk.",
+    "Biz zalymlardan Allanyň rehimini we goragyny umyt edip, gizlin bir ýere gaçybatalga gözledik.",
+    "Rebbimiz bizi çuňňur ukyda, wagtyň geçmegine garşy durýan gudratly bir ukyda goýdy.",
+    "Oýananymyzda, hakykatdanam geçen ägirt uly döwrüň nämedigini bilmeýänimizden, diňe bir gün ýa-da günüň bir bölegini dynç alandygymyza ynanýardyk.",
+    "Kuranda biziň üç ýüz ýyllap öz ýagdaýymyzda galandygymyz we dokuz ýyl mundan artyk ýaşap, ynsanlar üçin bir alamat bolandygymyz aýdylýar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Arkanyň adamlary",
+        "Semud halky",
+        "Gowagyň adamlary",
+        "Medýan halky",
+        "Pilleriň ýoldaşlary"
+      ],
+      "answer": "Gowagyň adamlary"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Beýik sil bilen ýüzbe-ýüz bolmak",
+        "Ýer tarapyndan ýuwutulmak",
+        "Uzak möjüzeli uky",
+        "Olaryň şäheriniň weýran edilmegi",
+        "Deňziň bölünmegi"
+      ],
+      "answer": "Uzak möjüzeli uky"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýanýan gyrymsy agaç",
+        "Dag",
+        "Gaýyk",
+        "Bir gowak",
+        "Guýy"
+      ],
+      "answer": "Bir gowak"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Olara ägirt uly baýlyk we güýç berildi",
+        "Olar maýmynlara we doňuzlara öwrüldiler",
+        "Olar çuňňur alamat hökmünde ukudan oýandylar",
+        "Olar uly silde gark boldular",
+        "Olar ajaýyp patyşalyk gurdular"
+      ],
+      "answer": "Olar çuňňur alamat hökmünde ukudan oýandylar"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Strangaj Vizitantoj de Murita Urbo",
+  "intro": "Grupo alvenis ĉe la pordegoj de urbo, kies popolo neniam konis la veron. Ili alportis mesaĝon, sed la loĝantoj fariĝis malamikaj, minacante per perforto. Tamen, el neatendita loko, ununura voĉo leviĝis por defendi la fremdulojn, preparante la scenejon por drama turno de eventoj.",
+  "clues": [
+    "Ni eniris urbon, kies popolo estis englutita de nekredemo.",
+    "Ili rigardis nin kun suspekto kaj diris: \"Vi estas nur ordinaraj estaĵoj kiel ni.\"",
+    "Ni avertis ilin, sed ili levis ŝtonojn kontraŭ nin.",
+    "Viro rapidis de la plej fora fino de la urbo por aserti nian veron.",
+    "Li deklaris al sia popolo: \"Kial mi ne adori Tiun, kiu min kreis?\"",
+    "La neo de la urbo finiĝis per ununura eksplodo, kaj silento regis kie iam ili mokis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "La Mesaĝistoj de Ya-Sin",
+        "La Disĉiploj de Jesa",
+        "La Homoj de la Tranĉeo",
+        "La Magiistoj de Faraono",
+        "La Kredanto de Ya-Sin"
+      ],
+      "answer": "La Mesaĝistoj de Ya-Sin"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Malakcepto kaj minaco de ŝtonumado",
+        "Esti ĵetita en furiozan fajron",
+        "Testo de pacienco kun perdita infano",
+        "Ĝardeno kiu suferis detruon",
+        "Vojaĝo tra la maro"
+      ],
+      "answer": "Malakcepto kaj minaco de ŝtonumado"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "La plej fora fino de la urbo",
+        "La Ruĝa Maro",
+        "La fosaĵo de fajro",
+        "La kaverno de rifuĝo",
+        "La malliberejo de Egiptujo"
+      ],
+      "answer": "La plej fora fino de la urbo"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "La urbo estis detruita per ununura kriego",
+        "La maro disiĝis kaj dronigis la armeon",
+        "La fajro fariĝis malvarmeta kaj sekura",
+        "La ĝardeno estis konsumita de ĉiela fajro",
+        "La baleno revenigis la personon al la bordo"
+      ],
+      "answer": "La urbo estis detruita per ununura kriego"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

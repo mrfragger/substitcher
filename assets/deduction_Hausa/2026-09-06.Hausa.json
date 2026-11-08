@@ -1,0 +1,61 @@
+{
+  "title": "Korar Ɗan Maraƙin Zinare",
+  "intro": "Wani mutum da aka ambata a cikin Alƙur'ani ya jagoranci jama'a masu yawa zuwa ga karkacewa a lokacin da babu wani annabi mai daraja. Wani abu da aka ƙera da zinariya ya kama zukatan al'umma gaba ɗaya - amma labarin wannan mutumin ya ƙare da kaɗaici da la'ana mai ban mamaki. Wanene wannan wanda aka kore?",
+  "clues": [
+    "Na fito ne a lokacin rashin wani babban annabi wanda ya hau sama don samun shiriya daga Allah.",
+    "Na sa taron jama'a da yawa su ɓace da wani abu da na ƙera da hannuna.",
+    "Halittar zinare da na samar ta yi kama da tana da rai, tana samar da sautuka da ke burge waɗanda suka bi ta.",
+    "Na yi iƙirarin na ga abin da wasu ba za su iya gani ba - wani ɗan gajeren bayani game da abin da ba a gani ba.",
+    "Na zaro wani abu daga cikin sawun manzon allah na jefa shi cikin ƙarfe mai narkewa.",
+    "An yanke min hukunci na yi yawo ni kaɗai, da wata la'ana ta musamman wadda babu wanda zai iya taɓa fatata ko kuma ni ma in taɓa ta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Fir'auna (Fir'auna)",
+        "Abu Lahab",
+        "Annabi Salihu"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ƙirƙiri ɗan maraƙin zinariya don bauta",
+        "Gina hasumiya mai zuwa sama",
+        "An ƙalubalanci masu sihirin Masar",
+        "Ya jagoranci runduna tare da namomin jeji masu tashi",
+        "Raba wata a matsayin hujja ta annabci"
+      ],
+      "answer": "Ƙirƙiri ɗan maraƙin zinariya don bauta"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ɗan maraƙin zinariya",
+        "Sanda da ta rikide ta zama maciji",
+        "Dajin da ke cin wuta a kan dutse",
+        "Jirgin ruwa yana kan kololuwa",
+        "Ramin da ke cike da wuta mai ci"
+      ],
+      "answer": "Ɗan maraƙin zinariya"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Korarsa, an hana shi taɓawa ko taɓa wasu",
+        "An nutsar da shi cikin teku tare da rundunar sojoji",
+        "An ƙone shi da rai saboda ƙin amincewa",
+        "Iska mai ƙarfi ta buge shi",
+        "An yafe masa kuma an ɗaga shi zuwa babban matsayi"
+      ],
+      "answer": "Korarsa, an hana shi taɓawa ko taɓa wasu"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

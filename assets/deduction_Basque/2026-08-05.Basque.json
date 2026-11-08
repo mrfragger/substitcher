@@ -1,0 +1,61 @@
+{
+  "title": "Azken Erakustaldiaren Eguna",
+  "intro": "Botere erakustaldi handi baterako deituta, artista trebe talde batek ustekabeko egia bati aurre egin behar izan zion, eta honek haien bizitzak betiko aldatuko zituen.",
+  "clues": [
+    "Gure trebetasunagatik ginen ospetsuak, ilusio eta trikimailu maisuak.",
+    "Agintariak deitu gintuen makila soil bat zeraman erronkari aurre egiteko.",
+    "Egia ikusi genuenean, lurrera erori ginen, munduen Jaunarengan sinesten dugula aldarrikatuz.",
+    "Tiranoak zigor gogorrarekin mehatxatu gintuen, baina ez genuen zalantzarik izan.",
+    "Seinale argia ikusi ondoren, lehenengoetakoak izan ginen mezuan sinetsi zutenak.",
+    "Gure fedeagatik martirizatuak izan ginen, baina Paradisura sartuko gara lehenengoak justuekin batera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Faraoiaren magoak.",
+        "Israeldarrak",
+        "Thamudeko jendea",
+        "Isa-ren dizipuluak",
+        "Abraharen Armada."
+      ],
+      "answer": "Faraoiaren magoak."
+    },
+    "trial": {
+      "label": "Proba / Ekitaldia",
+      "options": [
+        "Musa profetarekin lehiaketa",
+        "Dorrea eraikitzen",
+        "Uholde Handia",
+        "Matxinsaltoen izurria",
+        "Itsaso Zatitzailea"
+      ],
+      "answer": "Musa profetarekin lehiaketa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Jaialdi Eguna.",
+        "Tuwa harana.",
+        "Iram hiria.",
+        "Betikotasunaren Lorategia",
+        "Arafateko lautada."
+      ],
+      "answer": "Jaialdi Eguna."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Jendaurrean gurutziltzatu zuten",
+        "Itsasoan ito ziren.",
+        "Profetaren jarraitzaile egin ziren",
+        "Erbestera bidali zituzten.",
+        "Suak irentsi zituen."
+      ],
+      "answer": "Jendaurrean gurutziltzatu zuten"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

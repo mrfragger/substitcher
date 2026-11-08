@@ -1,0 +1,61 @@
+{
+  "title": "Moya o o Ikanyegang wa Tshenolo",
+  "intro": "Mo mafelong a a sa bonweng, setshedi sa lesedi le le phepa se tsamaya ka nepo, se diragatsa taelo nngwe le nngwe kwantle ga go okaoka. Setshwantsho seno se ile sa bua le batlhanka ba ba tlhophilweng, sa tlisa mafoko a kaelo, mme sa bona go phuthologa ga ditaelo tsa bomodimo go ralala dingwaga. Moya o o tlotlegang ono ke mang?",
+  "clues": [
+    "Ke sebopiwa sa lesedi le le phepa, ke bopilwe go tswa mo leseding, mme ga ke ise ke ko ke tlole taelo e le nngwe ya Morena wa me.",
+    "Ke tsamaya fa gare ga magodimo le lefatshe, ke fologa ka ditaelo tsa Moutlwelobotlhoko.",
+    "Ke ne ka romelwa kwa lekgarebeng le le tlotlegang mo lefelong le le boitshepo, ke le itsise ka morwa yo o itshekileng.",
+    "Ke nna moya wa boitshepo, mme ke tshegeditse moporofeta yo o neng a newa ditshupo tse di tlhamaletseng le Efangele.",
+    "Ke ne ka tla kwa logageng lo lo mo thabeng go tla go neela mafoko a ntlha a go boeletsa go go neng go tla bolokwa ka bosakhutleng.",
+    "Ke nna mowa o o ikanyegang, mme ke nna yo o neng a folosa Quran mo pelong ya morongwa wa bofelo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Jiberile (Gabariele)",
+        "Mikaele (Mikaele)",
+        "Moengele wa Loso",
+        "Malik (Motlhokomedi wa Dihele)",
+        "Harut (mongwe wa baengele ba babedi kwa Babelona)"
+      ],
+      "answer": "Jiberile (Gabariele)"
+    },
+    "trial": {
+      "label": "Thomo/Seabe sa Botlhokwa",
+      "options": [
+        "Go isa tshenolo kwa baporofeting",
+        "Go letsa terompeta ka Letsatsi la Katlholo .",
+        "Go disa dikgoro tsa Dihele",
+        "Go kwala ditiro tsa batho",
+        "Go dira gore pula e ne"
+      ],
+      "answer": "Go isa tshenolo kwa baporofeting"
+    },
+    "location": {
+      "label": "Ponagalo ya Botlhokwa kgotsa Setlhogo",
+      "options": [
+        "Moya o Halalelang (Ruh al-Qudus)",
+        "Moya wa Matla",
+        "Moya wa Kutlwelobotlhoko",
+        "Moya wa Kaelo",
+        "Moya wa Boammaaruri"
+      ],
+      "answer": "Moya o Halalelang (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Dipoelo tsa Thomo",
+      "options": [
+        "Quran e ne ya senolelwa Moporofeti Muhammad",
+        "Terompeta e ne ya lediwa ka Letsatsi la Katlholo .",
+        "Dihele di ne di disitswe mme dikgoro tsa tsone di ne di tswetswe .",
+        "Buka ya Ditiro e ne ya neelwa Allah",
+        "Pula e ne ya romelwa mo lefatsheng ."
+      ],
+      "answer": "Quran e ne ya senolelwa Moporofeti Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

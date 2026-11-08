@@ -1,0 +1,61 @@
+{
+  "title": "De verstoppte Gleewegen",
+  "intro": "An den opulente Muechtssäll, wou Ongleewegkeet an Tyrannei regéiert hunn, huet eng eenzeg Stëmm vun der Wourecht aus enger onerwaarter Plaz geschwat. Dës Figur huet d'Autoritéit erausgefuerdert, e Messenger ze schützen, andeems se hir eege Sécherheet riskéiert huet, fir d'Wourecht ze verkënnegen.",
+  "clues": [
+    "Ech hunn an engem Land vu grousser Tyrannei gelieft, an engem Herrscher gedéngt, deen d'Göttlechkeet behaapt huet.",
+    "Ech hunn meng richteg Iwwerzeegungen vill Jore laang verstoppt gehalen, aus Angscht virun de Konsequenze vun hirer Verëffentlechung.",
+    "Wéi e Bot mat kloere Zeeche koum, hunn ech gegleeft, mä mäi Vollek huet sech géint hie verschwuer.",
+    "Ech stoung virum Tyrann a sengem Conseil a argumentéiert, datt si keen onschëllege Bote sollten ëmbréngen.",
+    "Ech hunn si virun der Strof vun de fréiere Natiounen gewarnt, déi d'Wourecht refuséiert hunn, wéi d'Leit vum Noah an dem 'Ad.",
+    "Allah huet mech virun hire béise Komplott gerett, an ech hunn d'Zerstéierung vum ënnerdréckende Regime matkritt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Gleewegen vun der Famill vum Pharao",
+        "De Magier vum Pharao",
+        "De Vizier vum Pharao",
+        "D'Fra vum Pharao",
+        "De Schatzmeeschter vum Pharao"
+      ],
+      "answer": "De Gleewegen vun der Famill vum Pharao"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "E Prophet géint d'Hinrichtung verdeedegen",
+        "D'Tricker vun engem Zauberer erausfuerderen",
+        "En Tuerm bauen fir an den Himmel ze kommen",
+        "D'Mier opmaachen fir ze flüchten",
+        "Interpretatioun vun engem Dram vun engem Kinnek"
+      ],
+      "answer": "E Prophet géint d'Hinrichtung verdeedegen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Den Haff vum Pharao",
+        "De brennende Busch",
+        "Dat gëllent Kalb",
+        "De Brunn vu Madyan",
+        "D'Ark vum Prophet Nuh"
+      ],
+      "answer": "Den Haff vum Pharao"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Virum Schued gerett, während d'Ënnerdrécker zerstéiert goufen",
+        "Ass e mächtege Herrscher ginn",
+        "Gouf an e Feier gehäit a koum ouni Verletzungen dovunner",
+        "Gouf vun der Äerd verschléckt",
+        "Véierzeg Joer laang an der Wüst gewandert"
+      ],
+      "answer": "Virum Schued gerett, während d'Ënnerdrécker zerstéiert goufen"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

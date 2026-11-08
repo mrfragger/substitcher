@@ -1,0 +1,61 @@
+{
+  "title": "Egiaren Tronua",
+  "intro": "Bere jakinduria handiagatik eta tronu bikainagatik ezaguna den agintari boteretsu batek mezu misteriotsu bat jasotzen du iturri ezezagun batetik. Komunikazio ustekabe honek haien sinesmenak eta autoritatea zalantzan jartzen ditu, bidaia diplomatiko batean jarriz, haien adimena proban jarriko duena eta, azkenean, esnatze espiritual sakon batera eramango duena. Aurkitu al dezakezu subirano honen nortasuna eta haien erreinu osoa eraldatu zuten gertaerak?",
+  "clues": [
+    "Nire herriak eta nik eguzkia gurtzen genuen, gure arbasoen bideei jarraituz.",
+    "Txori bat, upupa bat, izan zen buruzagi boteretsu baten gutuna ekarri zidan mezulari ezohikoa.",
+    "Bidaltzailearen jakinduria probatzeko, opari baliotsuak bidali nituen, baina itzuli egin zizkidaten, bidaltzaileak Allahrengandik jasotako aberastasun askoz handiagoa baitzuen.",
+    "Bidaltzailearen gortera iritsi baino lehen, nire tronu bikaina mirari baten moduan eraman zuten hara begi keinu batean.",
+    "Iristean, garraiatutako tronua nirea zen galdetu zidaten, eta nik erantzun nuen: «Berak berak balitz bezala da».",
+    "Ur putzu bat bezala hartu nuen zorua zuen areto handi batera sartu nintzen, eta harridura une hartan, Sulaiman profetaren ondoan, Ala-ri, munduen Jaunari, aurkeztu nion neure burua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Sabako erregina",
+        "Zulaikha (Al-Azizen emaztea)",
+        "Asiya (Faraoiaren emaztea)",
+        "Musaren ama.",
+        "Maryam (Isaren ama)"
+      ],
+      "answer": "Sabako erregina"
+    },
+    "trial": {
+      "label": "Gertaera Zentrala",
+      "options": [
+        "Sulaiman profetaren gutun bat jasotzea",
+        "Sutara botata egotea.",
+        "Uholde bati aurre egiteko arka bat eraikitzea",
+        "Itsaso Gorria zatitzen",
+        "Apaltasunik ezaz akusatuta egotea"
+      ],
+      "answer": "Sulaiman profetaren gutun bat jasotzea"
+    },
+    "location": {
+      "label": "Objektu nagusia",
+      "options": [
+        "Tronu bikaina.",
+        "Urrezko txahal bat",
+        "Kolore askotako berokia.",
+        "Suge bihurtu zen makila",
+        "Oholez eta iltzez egindako itsasontzia"
+      ],
+      "answer": "Tronu bikaina."
+    },
+    "outcome": {
+      "label": "Azken emaitza",
+      "options": [
+        "Jainko bakarrari (Alari) men egitea",
+        "Gatz zutabe bihurtuta",
+        "Jainkoarengana iristeko dorre altu bat eraikitzea",
+        "Arrain handi batek irentsi izana",
+        "Aberastasun izugarria galtzea zigor gisa"
+      ],
+      "answer": "Jainko bakarrari (Alari) men egitea"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

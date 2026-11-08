@@ -1,0 +1,61 @@
+{
+  "title": "Seetukat dëgg yu woyof yi",
+  "intro": "Ci réew mu bari doole ak luxus, xeex bu mag dafa am. Benn wet gi dafay jëfandikoo kàttanam màndarga yu boroom bi, beneen wet gi di jéema méngoo ak li mënatul am. Lépp lu ciy mujjee mooy soppi jaar-jaaru taarix ba fàww. Ndax mën nga wane nit ñi seede dëgg gu mujj gi, ba noppi toroxal seen bopp ci kanamam?",
+  "clues": [
+    "Nu seede firnde yu weesu luxus",
+    "Nun ñépp nu daanu ci sujjóot, mënu nu weddi dëgg",
+    "Nu xamni firnde yooyu ñu ngi bawoo ci Benn Yàlla Dëgg bi .",
+    "Nun lañu njëkka nangu ngëm ci anam wu yéeme nii",
+    "Digoon nañu nu aljana ngir sunu ngëm",
+    "Sunuy buum ak sunuy yett nekk nañu jaan ci sunuy bët, waaye nu tànn déggal"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Luxuskat yu Firawna",
+        "Waa Seydina Ibrahim",
+        "Seetkat dëgg yu woyof yi",
+        "Nit ñi ci grotte",
+        "La nation de la Reine Bilqis"
+      ],
+      "answer": "Luxuskat yu Firawna"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Daje bi ak waa Seydina Musa",
+        "Natt bu ngelawlu Yonent bi Hud",
+        "Jafe-jafe bi juge ci gaam bu jigéen bu Yonent-Yàlla Salih",
+        "Mbënd mu mag mi yónnee ci kaw benn yonent",
+        "Tukkib yonent ci biir baleine"
+      ],
+      "answer": "Daje bi ak waa Seydina Musa"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Egypt bu yàgg",
+        "Kër gu sell gi ci Màkka",
+        "Dëkk bu Madian",
+        "Désert bu Thamud",
+        "La grotte des dommes anciens"
+      ],
+      "answer": "Egypt bu yàgg"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Aljanna mooy seen mbégte",
+        "Yar ci bàmmeel",
+        "Ñàkk seen jardin yu bari",
+        "Yaxxum suuf suy yëngu ci lu gaaw",
+        "Rawale ci baleine bu mag"
+      ],
+      "answer": "Aljanna mooy seen mbégte"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lítil viðvörun fyrir gönguher",
+  "intro": "Stígðu inn í dal þar sem voldugur stjórnandi og mikill her nálgast og ímyndaðu þér lítinn ferðalang sem gefur viðvörun sem bjargar heilu samfélagi. Þegar samfélagið í hættu nær skjóli er hættan liðin hjá. Fylgdu vísbendingunum til að bera kennsl á þá persónu sem stendur á bak við viðvörunina.",
+  "clues": [
+    "Ég er meðal þeirra smávera sem tengjast ríki stjórnanda.",
+    "Samfélag mitt býr í íbúðarhúsum inni í dal þar sem annað okkar getur hringt í hitt.",
+    "Við stöndum frammi fyrir ógn frá þeim stjórnanda og herjunum sem ferðast með honum.",
+    "Ég er sá sem kalla samfélag mitt inn í híbýli sín og vara okkur við að láta ekki kúga okkur óafvitandi.",
+    "Stjórnandinn er Sulayman, og mín tegund er meðal þeirra vera sem undir hans stjórn eru settar.",
+    "Ég er maurinn í þeim dal; eftir að hafa varað mig við gengum við inn í bústaði okkar og sluppum við við þá þunglyndi sem annars hefði komið okkur á óvart."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Maurinn í dalnum",
+        "Höfuðþjófurinn",
+        "Krákan",
+        "Höggormurinn",
+        "Múlan"
+      ],
+      "answer": "Maurinn í dalnum"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Viðvörun sem bjargaði maurasamfélagi",
+        "Beiðni um hring frá fiski",
+        "Leit að týndu hásæti",
+        "Björgun stolinna augna",
+        "Að neita að borða mat höfðingja"
+      ],
+      "answer": "Viðvörun sem bjargaði maurasamfélagi"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Mauradalurinn",
+        "Signethringur Sulaymans",
+        "Blóðlitaða skyrtan hjá Júsuf",
+        "Gullkálfurinn í útlegðinni",
+        "Starfsfólk Músa"
+      ],
+      "answer": "Mauradalurinn"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Samfélagið var hlíft eftir að hafa leitað skjóls",
+        "Samfélagið var eyðilagt án þess að leita skjóls.",
+        "Samfélagið var hlíft vegna þess að herinn hörfaði",
+        "Samfélagið var verðlaunað með því að stjórna fuglunum",
+        "Samfélagið var tekið til fanga til konungshirðarinnar"
+      ],
+      "answer": "Samfélagið var hlíft eftir að hafa leitað skjóls"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

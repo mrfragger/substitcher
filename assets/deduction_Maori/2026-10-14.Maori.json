@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaiwhakataka o te Kawenata i Whakaraua",
+  "intro": "I ngā rā tōmua o tētahi hapori hou, i noho tētahi iwi i roto i ngā whare pā, i herea e tētahi kawenata. I te wā i tukua ai taua kawenata, ka rangona ngā hua i roto i ngā whārangi o te Quran. Ko wai ēnei tāngata, ā, i pēhea ō rātou kāinga me ō rātou māra hua rākau?",
+  "clues": [
+    "I noho mātou i roto i ngā pā kaha i homai ai ki a mātou te whakaaro teka o te haumaru.",
+    "He iwi tātou nō te Karaipiture, heoi kua takahia e tātou tā tātou kawenata.",
+    "I whakatakoto mātou i tā mātou whakaaro mō te karere i muri i tōna taenga mai ki a mātou, engari i rahua tā mātou whakaaro.",
+    "I tuaina ā mātou nikau e te whakahau a Allah, he tohu mō Tōna mana.",
+    "I peia mātou i ō mātou kāinga, kāore rawa i hoki mai, hei whiu mō tō mātou whakakeke.",
+    "E whakahuatia ana tātou e te Quran i roto i te upoko o te huihuinga, ā, he whakatūpato tā tātou kōrero mō te hunga e takahi ana i ngā kawenata."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Pāni Nadir",
+        "Pāni Qurayza",
+        "Pāni Qaynuqa",
+        "Ngā tāngata o Madyan",
+        "Te iwi o Thamud"
+      ],
+      "answer": "Pāni Nadir"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whakapaenga me te peinga i ō rātou kāinga",
+        "Te toremitanga i te moana",
+        "Te horomia e te whenua",
+        "Te whakangaromanga e te tupuhi",
+        "Te hurihanga hei makimaki"
+      ],
+      "answer": "Te whakapaenga me te peinga i ō rātou kāinga"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā nikau kua tuaina",
+        "Ngā kaimahi",
+        "Te āaka",
+        "Te puna wai",
+        "Te ana"
+      ],
+      "answer": "Ngā nikau kua tuaina"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I peia atu, ā, i tangohia ō rātou taonga",
+        "I hoki mai i te wikitoria",
+        "I murua ngā hara, ā, i noho tonu",
+        "I tomo tonu ki te pararaiha",
+        "I pāngia e te mate urutā"
+      ],
+      "answer": "I peia atu, ā, i tangohia ō rātou taonga"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

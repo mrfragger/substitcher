@@ -1,0 +1,60 @@
+{
+  "title": "Nelaw yu jamono yi",
+  "intro": "Yaa ngi waaja dugg ci tukkib jamono, nga daje ak kumpa gu xóot gi ci ngëm ak dooley Yàlla. Xalaatal benn mbooloo mu nit ñu baña topp seeni sàrti bopp, ba noppi tëye ci benn boroom ci àdduna bu bari boroom. Seen nettali dafay firndeel kàttanam Yàlla ci aar jaamam yu baax yi ci fànn yu gën a yéeme. Ndax mën nga wax kan mooy nit ñu am solo ñooñu?",
+  "clues": [
+    "Nun mbooloo mu tuuti lanu woon ci ay waxambaane yu gëmoon benn Yàlla, doonte sunuy askan dañu daan jaamu lu bari ci yàlla yi.",
+    "Danu daw woon njiit luy jaay doole, di nu tiital ndax sunu ngëm, ndax dañu ragal ñu sonal nu wala ñu ray nu.",
+    "Nu wut rëcci ci barab bu wéet, di yaakaar yërmaande Yàlla ak aar ci sunuy noot.",
+    "Sunu Boroom daf nu nelawal nelaw yu xóot, nelaw yu kéemtaan yu bañoon ànd ak jamono.",
+    "Bi nuy yewwu, nu jàpp ni benn bis wala wàll ci bis bi rek lanu noppalu, te xamu nu woon lu yàgg lu weesu.",
+    "Al Quran dafa wax ni nu toog ci sunu nekkin ñatti téemeeri at, ba noppi weesu juróom ñeent, nekk màndarga ci nit ñi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Nit ñi ci foss bi",
+        "Waa Samud",
+        "Nit ñi ci grotte",
+        "Waa Madyan",
+        "Sahabaayu Ñay bi"
+      ],
+      "answer": "Nit ñi ci grotte"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Jano ak mbënd bu rëy",
+        "Suuf si wann leen",
+        "Nelaw yu gudd ak kéemtaanu",
+        "Yaxxum seen dëkk",
+        "Xaajaloo géej gi"
+      ],
+      "answer": "Nelaw yu gudd ak kéemtaanu"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "àll buy tàkk",
+        "Benn tundu",
+        "Gaal",
+        "Grotte",
+        "Teen"
+      ],
+      "answer": "Grotte"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Jox nañu leen alal ak kàttan gu bari",
+        "Ñu soppi leen nekk maymu ak mbaam xuux",
+        "Ñu dekkal leen ci nelaw muy màndarga gu xóot",
+        "Mbënd mu mag moo leen mbëgg",
+        "Tabax nañu benn buur bu mag"
+      ],
+      "answer": "Ñu dekkal leen ci nelaw muy màndarga gu xóot"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

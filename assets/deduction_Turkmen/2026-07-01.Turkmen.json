@@ -1,0 +1,61 @@
+{
+  "title": "Adalatsyz milletiň garşysyna çykan atsyz jan",
+  "intro": "Kuranyň sahypalarynda, sapaklaryny oýlanyp görmegimiz üçin atlary aýdylmaýan şahsyýetler bar. Şeýle jandarlaryň biri öz elçilerini ret eden milletde doguldy, ýöne bu şahsyýetiň olary tapawutlandyrýan gizlin ynanjy bardy. Waýraçylyk golaýlanda, bu şahsyýet gizlin ynanjynda berk durdy. Soňky höküm gelmezden öň öz halkyna duýduryş berýän bu syrly şahsyýetiň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Men Allanyň iberen pygamberlerini yzygiderli inkär eden bir halkyň arasynda ýaşadym.",
+    "Meniň ümmetimden tapawutlylykda, men hakykaty Rebbimden aýdyň alamatlar bilen gelende tanadym.",
+    "Men zalymlarymdan ynanjymy gizledim, sebäbi olaryň meniň ynanjymy tapsalar, maňa zyýan ýetirjekdigini bilýärdim.",
+    "Jeza buýrugy golaýlanda, men açykdan-açyk wepalydygymy yglan etdim we halkyma özlerini halas etmegini duýdurdym.",
+    "Men olara öň iberilenlerden tapawutlanmaýan ygtybarly pygamberdigimi we diňe Allaha ybadat etmeli däldigini ýatlatdym.",
+    "Meniň halkym meni jadygöýlikde we delilikde aýyplady, ýöne olara duýduryş berlen jeza ahyrsoňy olary gurşap aldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ad kowmuna iberilen pygamber Hud",
+        "Hud pygamberiň kowmundan şehit bolan mömin adam",
+        "Hakykaty inkär eden Ad kowmynyň hökümdary",
+        "Salih pygamberiň ylahy alamatlara şübhelenen ýoldaşy",
+        "Ad kowmuny ýok etmek üçin iberilen perişde"
+      ],
+      "answer": "Hud pygamberiň kowmundan şehit bolan mömin adam"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Olaryň sabyrlylygyny synap gören gurakçylyk we açlyk synagy",
+        "Zalym käfir milletiniň öňünde iman yglan etmek synagy",
+        "Uly silden gaça durmak üçin gämi gurmak synagy",
+        "Alla ynanýandygy üçin oda taşlanmagyň synagy",
+        "Baýlyk we abadançylyk bilen synagdan geçmek synagy"
+      ],
+      "answer": "Zalym käfir milletiniň öňünde iman yglan etmek synagy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Mukaddes öýüň gurlan Mekke şäheri",
+        "Öz ilçisini inkär eden milletiň çöl düzlükleri",
+        "Şuaýb pygamberiň iberilen ýeri bolan Midýan daglary",
+        "Musa pygamberiň tapylan Müsür derýasynyň kenary",
+        "Güýçli ýel urlan Ad kowmynyň jülgesi"
+      ],
+      "answer": "Öz ilçisini inkär eden milletiň çöl düzlükleri"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Men gämide halas boldum we Allanyň islegine çenli ýaşadym",
+        "Meniň kowumym menden soň iman getirdi we dogry ýola gönükdirildi",
+        "Meni kowum öldürdi, ýöne janym Allanyň rehimi bilen alyndy",
+        "Synagdan soň toba etdim we Alla meniň tobamy kabul etdi",
+        "Men ölenimden soň halkymyň sežde edýän butuna öwrüldim"
+      ],
+      "answer": "Meni kowum öldürdi, ýöne janym Allanyň rehimi bilen alyndy"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

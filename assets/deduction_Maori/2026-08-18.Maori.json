@@ -1,0 +1,61 @@
+{
+  "title": "Te Tangata i Whiwhi i te Surah",
+  "intro": "Whakaarohia tētahi wairua whakaiti e whakatata atu ana ki tētahi o ngā Karere a Allah me te ngākau pono me te hiahia nui ki te ako. Heoi i taua wā tonu, ka mau te aro o te Karere ki tētahi tangata whai rawa, whai mana, ā, ka anga atu he kanohi ki te tangata e rapu ana. Ko te mea i muri mai ko tētahi upoko katoa o te Quran, i tukuna hei whakatikatika i te Karere me te whakahonore i te wairua i haere mai ki te rapu.",
+  "clues": [
+    "I haere mai ahau ki te Karere a Allah me te ngākau tuwhera, me te hiahia nui ki te arataki",
+    "Kāore he mana o te ao hei tuku māku, he wairua whakaiti noa iho e rapu ana i te pono",
+    "Kāore i taea e ōku kanohi tinana te kite, engari i mārama taku tirohanga wairua",
+    "I tae atu ahau i tētahi wā kāore i te pai, i te wā e pukumahi ana te Karere me tētahi tangata whai mana nui.",
+    "I tahuri mai te mata o te kanohi ki ahau, engari i whakahoki mai a Atua me te whakatikatika atua",
+    "Ko Abdullah ibn Umm Maktum ahau, te hoa piripono nana nei nga korero i whakaawe a Surah Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Hāmana al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Whakamātautau / Takahanga",
+      "options": [
+        "Te whakakāhoretia e te Poropiti mō te tangata whai rawa",
+        "Te maka ki roto i te ahi mura e ngā hoariri",
+        "Te hokonga me te whakatoi hei pononga",
+        "Te werohia ki tētahi pakanga e tētahi toa kaha",
+        "Te horomia e te ika nui"
+      ],
+      "answer": "Te whakakāhoretia e te Poropiti mō te tangata whai rawa"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He upoko Qurani e tīmata ana me te pōuriuri (Surah Abasa)",
+        "He ahi i whakamataohia, i haumaruhia hoki",
+        "He tokotoko i wāhi i te moana nui",
+        "He āka i hangaia ki runga i tētahi maunga teitei",
+        "He manu i hangaia ki te uku kua whakapakeketia"
+      ],
+      "answer": "He upoko Qurani e tīmata ana me te pōuriuri (Surah Abasa)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakakitea mai e Allah tētahi sura o te Quran hei tiaki i ahau",
+        "Nā te Atua i whakamatao te ahi, i haumaru hoki mōku",
+        "I wehea e te Atua te moana hei whakaora i ahau i te whai",
+        "I homai e te Atua ki ahau he rangatiratanga nui me te whakaaro nui",
+        "I haria ahau e te Atua ki te rangi, kāore he mate"
+      ],
+      "answer": "I whakakitea mai e Allah tētahi sura o te Quran hei tiaki i ahau"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

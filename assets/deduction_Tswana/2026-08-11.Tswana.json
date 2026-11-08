@@ -1,0 +1,61 @@
+{
+  "title": "Peeletso ya Popelo",
+  "intro": "Mo diphaposing tse di didimetseng tsa pelo e e neng e ineetse mo Bomodimong, go ne ga akanngwa maikano a a boitshepo. Maikano ano a ne a lebisitswe thata mo botshelong jo bo neng bo sa ntse bo tla hema, mme go diragadiwa ga jone go ne go tla fetola tsela ya boswa jwa semoya go ya go ile. Kgato mo masaitsiweng a mowa o tsholofetso ya one e neng e boeletsa go ralala bosakhutleng.",
+  "clues": [
+    "Ke ne ke nna mo lelapeng le le neng le itsege ka poifomodimo, mme ke ne ke eletsa go bona mpho e e neng e tla nkatametsa gaufi le Allah.",
+    "Ke dirile kgolagano e e masisi le Morena wa me mabapi le se se neng se fitlhegile mo teng ga me, ke ikana go se neela ka botlalo mo tirelong ya Gagwe.",
+    "Fa nako ya go senola e goroga, se ke neng ka se amogela se ne se sa lebelelwa, mme ke ne ka neela Moitse-Tsotlhe kgang.",
+    "Ke ne ka naya ngwanake leina le le bontshang boineelo, mme ka kopa gore ene le ditlogolwana tsa gagwe ba sirelediwe mo go yo o hutsitsweng.",
+    "Ngwanake o ne a bewa mo lefelong le le boitshepo, ka fa tlase ga tlhokomelo ya moporofeti yo o tswang mo losikeng lwa ga Arone.",
+    "Morwadiake o ne a itsege ka bophepa jwa gagwe mme a tlhophiwa go feta basadi botlhe, moragonyana a nna mmaagwe moporofeti yo mogolo, le fa a ne a sala a sa amiwe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Mosadi wa ga Imran",
+        "Mmaagwe Musa",
+        "Mosadi wa ga Faro",
+        "Mosadi wa ga Al-Aziz",
+        "Mmaagwe Isa ."
+      ],
+      "answer": "Mosadi wa ga Imran"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Maikano a go neela ngwana wa gagwe yo o iseng a tsholwe mo tempeleng",
+        "Teko ya bopelotelele mo bolwetseng jo boleele",
+        "Loeto lwa go ya kwa lefatsheng le le kgakala ka ntlha ya tumelo",
+        "Go thulana le kgosi ya bogateledi",
+        "Thulaganyo ya kgakgamatso ya dijo tse di tswang kwa legodimong"
+      ],
+      "answer": "Maikano a go neela ngwana wa gagwe yo o iseng a tsholwe mo tempeleng"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Ngwana yo o bidiwang Maryam",
+        "Lore lo lo neng lwa fetoga noga",
+        "Namane ya gauta",
+        "Sediba sa Sazame",
+        "Areka ya ga Noa"
+      ],
+      "answer": "Ngwana yo o bidiwang Maryam"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Ngwana wa gagwe o ne a amogelwa ke Allah mme a gola ka fa tlase ga tlhokomelo ya boporofeti",
+        "Ngwana wa gagwe o ne a nna moporofeti mme a amogela lokwalo",
+        "Ngwana wa gagwe o ne a tlhatlosediwa kwa magodimong",
+        "Ngwana wa gagwe o ne a aga ntlo e e boitshepo",
+        "Ngwana wa gagwe o ne a newa botlhale jo bogolo le khumo"
+      ],
+      "answer": "Ngwana wa gagwe o ne a amogelwa ke Allah mme a gola ka fa tlase ga tlhokomelo ya boporofeti"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

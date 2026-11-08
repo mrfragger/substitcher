@@ -1,0 +1,61 @@
+{
+  "title": "Deviņu zīmju nesējs",
+  "intro": "No visvienkāršākajiem pirmsākumiem radās persona ar dievišķā gribā ierakstītu likteni. Zīdaiņā paslēpta un audzināta tā valdnieka sienās, kurš centās iznīcināt viņu tautu, šī dvēsele galu galā tika aicināta uz varenu misiju. Apbruņota ar tikai ticību un pazemīgu gana spieķi, viņi nostājās laikmeta visspēcīgākā valdnieka priekšā un pieprasīja brīvību tiem, kas bija paverdzināti. Šķita, ka pati pasaule kustas pēc viņu pavēles — ūdeņi pašķīrās, debesis runāja, un valstība sabruka.",
+  "clues": [
+    "Manas pirmās dienas iezīmēja bailes — tādus zīdaiņus kā es jau no dzimšanas vajāja nežēlīgs valdnieks, kurš baidījās no nākotnes.",
+    "Mani izglāba ūdens, un mani uzaudzināja tā valdnieka pilī, kurš vēlējās manu bojāeju.",
+    "Pēc pēkšņa notikuma es aizbēgu no dzimtenes, kļūstot par pazemīgu ganu tālā zemē.",
+    "Es atgriezos, lai stātos pretī šim varenajam valdniekam ar vienkāršu spieķi un skaidru vēstījumu, pieprasot savas tautas brīvību.",
+    "Es pāršķīru lielu ūdenstilpni tiem, kas man sekoja, un vēroju, kā šie ūdeņi pilnībā aprija manu ienaidnieku.",
+    "Es uzkāpu svētā kalnā, lai saņemtu dievišķu vadību no Allāha, un man tika dotas deviņas skaidras zīmes kā patiesības pierādījums."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Musa",
+        "Pravietis Nuhs",
+        "Pravietis Ibrahims",
+        "Pravietis Jusufs",
+        "Pravietis Lūts"
+      ],
+      "answer": "Pravietis Musa"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Sastopoties ar faraonu viņa galmā",
+        "Šķirsta būvniecība, lai pārdzīvotu lielus plūdus",
+        "Elku darinātāju iemests liesmojošā ugunī",
+        "Mani brāļi mani nolaiž dziļā akā",
+        "Cenšos atturēt savus ļaudis no amorālas rīcības"
+      ],
+      "answer": "Sastopoties ar faraonu viņa galmā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Personāla, kas pārvērtās par čūsku",
+        "Nū šķirsts",
+        "Bilkiša tronis",
+        "Gredzens, kas kontrolēja vēju un džinus",
+        "Atslēgas uz uzkrātajām dārgumiem tik smagas"
+      ],
+      "answer": "Personāla, kas pārvērtās par čūsku"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Vadīju savu tautu pāri šķirtiem ūdeņiem uz brīvību",
+        "Tika izglābts no lieliem plūdiem šķirsta iekšpusē",
+        "Pēc dziļām ciešanām atguva veselību un ģimeni",
+        "Tika dzīvs izmests no lielas zivs",
+        "Uzcēla Svētā nama pamatus"
+      ],
+      "answer": "Vadīju savu tautu pāri šķirtiem ūdeņiem uz brīvību"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

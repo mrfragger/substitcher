@@ -1,0 +1,61 @@
+{
+  "title": "De Wuechter vum Tor vun der opgoender Sonn",
+  "intro": "Am ganze Koran reesen verschidde Séilen d'Äerd a loossen Spuere vu Wäisheet a Wonner hannerloossen. Eng sou eng Figur ass bis an déi wäitst Punkte vun der Schöpfung gereest - wou d'Sonn op- an ënnergeet, wou eng Barrière de Chaos selwer zréckhält. Dësem Dénger vun Allah gouf e Kinnekräich zougestanen, dat keen jee méi besëtze géif. Duerch dräi verschidde Reesen ass den Zweck vun dëser Persoun kloer ginn. Kënnt Dir dëse legendäre Wanderer aus de Schied vun der Geschicht identifizéieren?",
+  "clues": [
+    "Mir gouf vum Barmhäerzegsten d'Autoritéit ginn, iwwer d'Äerd ze regéieren, op eng Manéier, déi nach keen aneren jee erreecht huet.",
+    "Ech sinn no Westen gereest, bis ech do ukomm sinn, wou d'Sonn ënnergeet, wou ech se an enger däischterer Quell fonnt hunn, an ech hunn do e Vollek gesinn.",
+    "Ech sinn no Oste gereest, bis ech do ukomm sinn, wou d'Sonn opgëtt, an hunn se iwwer e Vollek opgefaangen, virun deem Mir kee Schutz geschaf haten.",
+    "Ech sinn tëscht dësen zwou Extrempunkten gereest, bis ech an en Dall tëscht zwee Bierger ukomm sinn, wou ech e Vollek fonnt hunn, dat kaum eng Sprooch verstanen huet.",
+    "Ech hunn um Bierg zwou haart Barrièren aus Eisen fonnt, déi sech no riets a lénks erstrecken, an tëscht hinnen e schmuele Passage. Dës Leit hunn mech gefrot, duerch d'Barriär ze briechen, déi de Chaos zréckgehalen huet.",
+    "Ech hunn meng Proviant geholl a gesot: 'Wann d'Barrière duerchbrécht, da gëtt et eng kloer Trennung tëscht eis an dësem Vollek.' An wéi déi festgeluecht Zäit ukomm ass, hunn ech zougekuckt, wéi d'Barrière endlech duerchbrach gouf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Prophet Sulayman",
+        "Prophet Ibrahim",
+        "De Kinnek vu Ghassaniyah",
+        "Dhul-Qarnain de Wanderer"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Duerchbriechen vun der eiserner Barrière fir d'Leit vu Yajuj a Majuj",
+        "De Bau vum Schëff ënner dem Kommando vun engem Prophet",
+        "De Bau vun engem Tempel zu Jerusalem",
+        "Iwwer d'Rout Mier mat de gleewegen Leit",
+        "En Damm bauen fir eng gerecht Natioun ze schützen"
+      ],
+      "answer": "Duerchbriechen vun der eiserner Barrière fir d'Leit vu Yajuj a Majuj"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Barrière aus Eisen tëscht zwéi Bierger",
+        "D'Schëff huet op engem Bierg verankert",
+        "Dat hellegt Gebetshaus zu Jerusalem",
+        "De Floss am Land vun Egypten",
+        "De Quell vun de Segen zu Madyan"
+      ],
+      "answer": "D'Barrière aus Eisen tëscht zwéi Bierger"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Barriär gouf gebrach, wéi déi festgeluecht Zäit komm ass, an de Chaos ass erausgefall.",
+        "Déi Ongleeweg sinn erdronk, während déi Gleeweg gerett goufen",
+        "Déi Gerecht goufen an d'éiwegt Paradäis gefouert",
+        "D'Stad gouf vun engem jäizenden Wand zerstéiert",
+        "D'Idolen goufen zerstéiert an d'Leit hunn sech bekéiert"
+      ],
+      "answer": "D'Barriär gouf gebrach, wéi déi festgeluecht Zäit komm ass, an de Chaos ass erausgefall."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

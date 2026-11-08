@@ -1,0 +1,61 @@
+{
+  "title": "Flacăra care a lăsat o moștenire",
+  "intro": "În analele rezistenței, există o figură al cărei nume a devenit un avertisment pentru sfârșitul timpurilor. Această persoană a ales dușmănia în locul rudeniei, sfidarea în locul supunerii și s-a opus unui apel la milă. Ascultați cu atenție ecourile unei proclamații străvechi în timp ce descoperim identitatea acestui suflet notoriu.",
+  "clues": [
+    "M-am născut în același clan ca ultimul mesager al lui Allah, și totuși m-am opus lor la fiecare pas.",
+    "Numele meu avea o semnificație – un nume care însemna „tatăl flăcării”, un nume care avea să prefigureze destinul meu etern.",
+    "Am dezlănțuit răul împotriva purtătorului adevărului și chiar și propria mea familie s-a alăturat acestei campanii de cruzime.",
+    "Mi-am folosit averea și influența pentru a reduce la tăcere chemarea către Allah, crezând că banii pot stinge lumina divină.",
+    "Allah mi-a dedicat un întreg capitol – un capitol atât de scurt încât poate fi recitat în câteva secunde, dar care își păstrează importanța până în Ziua Judecății.",
+    "Însoțitorul meu din Viața de Apoi merge în spatele meu, legat cu o frânghie de fibră în jurul gâtului, purtând chiar spinii pe care ei îi răspândeau odinioară."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definirea confruntării",
+      "options": [
+        "Conducerea opoziției împotriva Profetului la Mecca",
+        "Migrând în Abisinia pentru a scăpa de persecuție",
+        "Construirea Kaaba cu profetul Ibrahim",
+        "Acceptarea Islamului pe patul de moarte",
+        "Falsificarea Tratatului de la Hudaybiyyah"
+      ],
+      "answer": "Conducerea opoziției împotriva Profetului la Mecca"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O soție care căra spini și lemne de foc",
+        "Un toiag care s-a transformat într-un șarpe",
+        "Un inel purtând sigiliul lui Solomon",
+        "Un vițel de aur venerat de popor",
+        "Un izvor care a țâșnit apă"
+      ],
+      "answer": "O soție care căra spini și lemne de foc"
+    },
+    "outcome": {
+      "label": "Socoteala finală",
+      "options": [
+        "O întreagă sură dezvăluie ruina totală",
+        "A devenit liderul comunității musulmane",
+        "A primit iertarea în momentul morții",
+        "A construit o mare moschee în Medina",
+        "A înviat printre cei drepți"
+      ],
+      "answer": "O întreagă sură dezvăluie ruina totală"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

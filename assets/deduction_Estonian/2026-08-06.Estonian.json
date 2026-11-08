@@ -1,0 +1,61 @@
+{
+  "title": "Valvas hing jõekaldal",
+  "intro": "Noorele hingele usaldati salajane missioon jälgida turvalisest kaugusest saatuse kulgu vetel. Nähtamatu ja kahtlustamatu tegelane mängib võtmerolli rahva ajaloo kulgemise muutmisel.",
+  "clues": [
+    "Ema andis mulle ülesande, mis nõudis hiilimist ja valvsust.",
+    "Mu pilk jälgis väikest hälli, mis voolus triivimas oli, süda murest raske.",
+    "Kui keegi ootamatu seltskond selle leidis, läksin lähemale, täis hirmu.",
+    "Nägin nende meeleheidet hooldaja järele ja pakkusin lahenduse tõde avaldamata.",
+    "Minu õigeaegne sekkumine tõi imetava hinge tagasi selle juurde, kes seda kõige rohkem vajas.",
+    "Võimukandjate õukondades ütlesin ma: „Kas peaksin teid juhatama perekonna juurde, kes teda toidab ja tema eest hoolega hoolitseb?“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Musa õde",
+        "Musa ema",
+        "Vaarao naine",
+        "Ämmaemand",
+        "Shu'aibi tütar"
+      ],
+      "answer": "Musa õde"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Lapse jõkke viskamine",
+        "Mere lahknemine",
+        "Vasika põletamine",
+        "Laeva ehitamine",
+        "Rohutirtsukate nuhtlus"
+      ],
+      "answer": "Lapse jõkke viskamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Jõgi",
+        "Kõrb",
+        "Mägi",
+        "Palee",
+        "Tuli"
+      ],
+      "answer": "Jõgi"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Ta viis lapse emaga taas kokku",
+        "Ta päästis end vaarao sõdurite käest",
+        "Temast sai kuninganna",
+        "Teda karistati luuramise eest",
+        "Ta juhtis iisraellasi"
+      ],
+      "answer": "Ta viis lapse emaga taas kokku"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

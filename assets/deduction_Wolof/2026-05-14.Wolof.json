@@ -1,0 +1,61 @@
+{
+  "title": "Dispenser bu am xam-xam budul jeex",
+  "intro": "Nit ku ñu jox cër, ñu xamee ko ci seen xam-xam bu xóot ak seen xelal yu am xel, mu ngi daan joxe xelal yu ëpp doole yi. Seeni kàddu yuñ bind ci téere bu sell bi, dañuy jàngal nit ñi ci ngërëm, muñ ak doxalin wu jub.",
+  "clues": [
+    "Dama barkeel xam-xam, du yonent.",
+    "Digal naa sama doom ci bàkkaar bi gën a rëy: bokkaale ak Yàlla.",
+    "Jàngale naa ci diisaayu jëf, ba ci benn jiwwu mutard, ak ni Yàlla di ko génne.",
+    "Maa ngi gëna fësal ngërëm Yàlla ak sa waajur, xam jafe-jafe yi ci yar doom.",
+    "Sama xelal mooy ñu ñaan, digal lu baax, tere lu bon, ak muñ ak muñ liy daj nit.",
+    "Amna benn chapitre ci Al Quran buñu tuddee sama tur, mu def samay njàngalem ak njàngale yi ma séddoo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Boroom bi Suleymaan",
+        "Dawud",
+        "Yahya",
+        "Luqman",
+        "Boroom bi Musa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Tema bu mag",
+      "options": [
+        "Defar Kaaba gi",
+        "Xaajale géej gi",
+        "Joxe xam-xam",
+        "Mucc ci mbënd",
+        "Jën wann la"
+      ],
+      "answer": "Joxe xam-xam"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Ark bi",
+        "Ndaw yi",
+        "Tundu Tur",
+        "Doomam",
+        "Naat bu wurus bi"
+      ],
+      "answer": "Doomam"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nit ñi yàqu nañu",
+        "Xam-xam bimu àndaloon nekk na tegtal",
+        "Ñu jox ko buur",
+        "Dañu ko yéege ci asamaan si .",
+        "Dañu ko jox alal bu bari"
+      ],
+      "answer": "Xam-xam bimu àndaloon nekk na tegtal"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

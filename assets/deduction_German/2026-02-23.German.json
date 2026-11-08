@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimme der verborgenen Überzeugung",
+  "intro": "Im Herzen eines tyrannischen Hofes, wo Unglaube Gesetz war, wandelte eine einsame Seele auf dem schmalen Grat zwischen Glauben und Angst. Nahe dem Machtzentrum lauschte diese Person, wie die Botschaft eines Propheten mit Verachtung und Drohungen beantwortet wurde. Ein Augenblick der Wahrheit kam und zwang diese Person, zwischen schweigender Sicherheit und dem Aussprechen einer gefährlichen Wahrheit zu wählen. Können Sie die Identität dieses mutigen Fürsprechers aufdecken?",
+  "clues": [
+    "Ich lebte im Haushalt eines Tyrannen und wurde Zeuge der Arroganz, die göttliche Zeichen ablehnte.",
+    "Ich hielt meinen Glauben geheim, einen verborgenen Schatz in einem Palast des Götzendienstes.",
+    "Ich hörte, wie der Anführer, dem ich diente, plante, einen Gesandten Allahs, einen Mann namens Musa, zu töten.",
+    "Ich stellte ihre Logik in Frage und erinnerte sie an das Schicksal der Völker von Nuh, 'Ad und Thamud.",
+    "Ich stellte meinem Volk eine entscheidende Frage: „Wenn er ein Lügner ist, fällt seine Lüge auf ihn zurück; wenn er aber die Wahrheit sagt, wird sich einiges von dem, was er verspricht, in Erfüllung gehen.“",
+    "Meine Geschichte wird als Beispiel für Glauben in der Sure mit dem Titel „Der Vergebende“ erzählt, in der ich mein Volk vor den Machenschaften der Mächtigen warnte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Der Gläubige aus Fir'awns Familie",
+        "Haman",
+        "Die Magier von Fir'awn",
+        "Qarun",
+        "Der Samiri"
+      ],
+      "answer": "Der Gläubige aus Fir'awns Familie"
+    },
+    "trial": {
+      "label": "Was war mein Prozess?",
+      "options": [
+        "Verteidigung des Propheten Musa vor dem Tyrannen",
+        "Einen hohen Turm bauen, der bis zum Himmel reicht",
+        "In ein loderndes Feuer geworfen werden",
+        "Von einem Riesenfisch verschluckt werden",
+        "Verlust des gesamten Vermögens und der Gesundheit"
+      ],
+      "answer": "Verteidigung des Propheten Musa vor dem Tyrannen"
+    },
+    "location": {
+      "label": "Was war das Thema meiner Argumentation?",
+      "options": [
+        "Die Konsequenz der Ablehnung der Botschaft eines Propheten",
+        "Die Forderung nach einem Zeichen von einem heiligen Baum",
+        "Die Erschaffung eines Kalbs aus geschmolzenem Schmuck",
+        "Das Wunder eines Kamels aus dem Felsen",
+        "Die Deutung der Träume eines Herrschers"
+      ],
+      "answer": "Die Konsequenz der Ablehnung der Botschaft eines Propheten"
+    },
+    "outcome": {
+      "label": "Wie war das Ergebnis?",
+      "options": [
+        "Allah hat diesen Menschen vor ihrem bösen Plan bewahrt.",
+        "Das gesamte Gericht nahm den Islam sofort an.",
+        "Der Tyrann bereute es im Augenblick des Ertrinkens.",
+        "Der Tyrann wurde von der Erde verschlungen",
+        "Die betreffende Person wurde in ein fernes Land verbannt."
+      ],
+      "answer": "Allah hat diesen Menschen vor ihrem bösen Plan bewahrt."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

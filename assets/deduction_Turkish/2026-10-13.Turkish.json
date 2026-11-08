@@ -1,0 +1,61 @@
+{
+  "title": "Ateşli Düşman",
+  "intro": "Vahyin ilk dönemlerinde, hakikate inatla karşı çıkan bir figür ortaya çıktı. Zenginlik ve mevki sahibi olan bu ruh, rehberlik yerine gururu seçti ve onun öyküsü, bir surenin son ayetlerinde çarpıcı bir uyarı niteliği taşıdı.",
+  "clues": [
+    "Peygamberle aynı şehirde yaşadım ve ona en yakın akrabalardan biriydim, yine de gururum beni hakikatten uzak tuttu.",
+    "Büyük bir servete ve sayısız mülke sahiptim ve kaynaklarımın beni her zaman koruyacağını düşünüyordum.",
+    "Mesaj ortaya çıktığında, onu açıkça alaya aldım ve inananlardan kendimi üstün görerek yüz çevirdim.",
+    "Düşmanlığım o kadar yaygındı ki, Kur'an'ın bir suresi bana doğrudan hitap ederek, başkalarının beni tanıdığı isimle beni anmıştı.",
+    "Servetimin ve kazancımın bana hiçbir fayda sağlamayacağı ve alev alev yanan bir ateşe atılacağım konusunda uyarıldım.",
+    "Ben alevin babası olarak bilinirim ve eşim de boynuna palmiye lifinden bir ip bağlayarak odunları taşıyacak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Ebu Lahab",
+        "Ebu Cehl",
+        "Ebu Sufyan",
+        "El-Valid ibn el-Muğira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Ebu Lahab"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İslam'ı reddetti ve Peygamber'e açıkça karşı çıktı.",
+        "Peygamberi öldürme planı yapıldı.",
+        "Müslümanlara karşı sosyal boykot başlattı.",
+        "Bedir Muharebesi'nde savaştı.",
+        "İşkence gören Bilal ibn Rabah"
+      ],
+      "answer": "İslam'ı reddetti ve Peygamber'e açıkça karşı çıktı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Palmiye lifinden yapılmış bir ip.",
+        "Keskin bir kılıç",
+        "Ağır bir zincir",
+        "tahta bir asa",
+        "deri bir kırbaç"
+      ],
+      "answer": "Palmiye lifinden yapılmış bir ip."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Alev alev yanacak",
+        "Tövbe etti ve yol arkadaşı oldu.",
+        "Servetini kaybetti ama onurlu bir şekilde öldü.",
+        "Habeşistan'a kaçtı.",
+        "Denizde boğuldu"
+      ],
+      "answer": "Alev alev yanacak"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

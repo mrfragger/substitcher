@@ -1,0 +1,61 @@
+{
+  "title": "La prétention à l'autorité absolue",
+  "intro": "Dans les temps anciens, un personnage puissant s'éleva au pouvoir et régna sur un vaste territoire et ses habitants. Son règne fut marqué par un orgueil démesuré et une contestation profonde de l'autorité divine. Préparez-vous à découvrir l'identité d'une âme dont le destin tragique devint une leçon intemporelle pour toutes les générations.",
+  "clues": [
+    "J'exerçais mon pouvoir sur un puissant empire, où ma parole était loi.",
+    "Je me suis proclamé divinité suprême, exigeant l'adoration de tous ceux qui étaient soumis à mon autorité.",
+    "J'ai opprimé une communauté en particulier, en la réduisant en esclavage et en ordonnant le massacre de ses nouveau-nés mâles.",
+    "J'ai été confronté à plusieurs reprises à un humble messager de Dieu, qui accomplissait des miracles manifestes devant moi et mes magiciens.",
+    "J'ai obstinément rejeté la vérité, accusant le messager de sorcellerie et complotant pour le détruire, lui et ses disciples.",
+    "Mon armée entière et moi-même fûmes engloutis par la mer alors que nous poursuivions sans relâche ceux qui m'avaient échappé."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Nimrod",
+        "Abou Jahl",
+        "Iblis",
+        "Feu",
+        "Haman"
+      ],
+      "answer": "Feu"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Le Grand Déluge",
+        "Le feu ardent",
+        "La noyade de l'oppresseur",
+        "La destruction par le vent",
+        "Le tremblement de terre de l'incrédulité"
+      ],
+      "answer": "La noyade de l'oppresseur"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'arche de Noé",
+        "Le bâton de Moïse",
+        "L'idole d'or",
+        "Le puits de Zamzam",
+        "Le Trône de Bilqis"
+      ],
+      "answer": "Le bâton de Moïse"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Un vaste royaume lui fut octroyé",
+        "Corps préservé comme signe",
+        "Pardonné après le repentir",
+        "Élevé au rang de prophète",
+        "Son peuple devint pieux"
+      ],
+      "answer": "Corps préservé comme signe"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

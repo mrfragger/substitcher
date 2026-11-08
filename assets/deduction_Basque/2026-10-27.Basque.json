@@ -1,0 +1,61 @@
+{
+  "title": "Bat-bateko zeruaren azpian setio bat",
+  "intro": "Santutegi gurtu batera hurbiltzen ari den armada ikaragarri baten aurrean zaude zutik, arma guztiak prest eta garaipena ziurra dirudiela. Erasoa hasi baino lehen, ustekabeko botere bat agertzen da gainean, eta lehiak inork aurreikusi ez zuen norabidea hartzen du.",
+  "clues": [
+    "Lurreko inongo boterek astindu ezin zezakeen konfiantzaz abiatu ginen.",
+    "Elefante indartsuak ekarri genituen, eta gure indarra haien inguruan eraikita zegoela zirudien.",
+    "Santutegi gurtu bat eraisteko etorri ginen, gure garaipena jada ziurra zela sinetsita.",
+    "Hara iritsi ginenean, hegazti-talde bat zeharkatu zuen gure gainean.",
+    "Txoriek buztin gogortuko harriak jaurti zizkieten gure gerlariei.",
+    "Hain erabat garaituak izan ginen, ezen gure indar handia errautsak bezala xehatu eta sakabanatu baitzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Elefantearen Jendea",
+        "Bi Printzeak",
+        "Josefen anaiak.",
+        "Ala-ren zerbitzaria Dhul-Kifl-en",
+        "Gizon Zuzenaren Lagunak"
+      ],
+      "answer": "Elefantearen Jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Elefanteek gidatutako Kaabako erasoa",
+        "Itsasoa talde entregatu baten aurretik banatzen da",
+        "Herri tirano batek Arka bahitzea",
+        "Bi meskitaren arteko gaueko bidaia",
+        "Jainkozko boterearen bidez legenardun baten sendaketa"
+      ],
+      "answer": "Elefanteek gidatutako Kaabako erasoa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Buztinezko bolak daramatzaten hegaztiak",
+        "Gopher egurrezko arka bat",
+        "Suge bihurtutako makila",
+        "Harri bat seinale batekin zigilatuta",
+        "Sasi erretzen ari den bat"
+      ],
+      "answer": "Buztinezko bolak daramatzaten hegaztiak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Haien indar handia errautsak bezala xehatu zen",
+        "Itsasoa segurtasunez zeharkatu zuten",
+        "Labe sutsu batetik onik ibili ziren",
+        "Bikoteka sartu ziren Paradisuan",
+        "309 urtez lo egin zuten kobazulo batean"
+      ],
+      "answer": "Haien indar handia errautsak bezala xehatu zen"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

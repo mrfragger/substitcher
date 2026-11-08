@@ -1,0 +1,61 @@
+{
+  "title": "To'siqlar quruvchisi",
+  "intro": "Keng yerlar bo'ylab qudratli bir shaxs bir qator ekspeditsiyalarga yo'l oldi, ulkan hokimiyat va vositalarni berdi. Bu ruh turli jamoalarga duch keldi va noyob qiyinchiliklarga duch keldi, o'z harakatlari va donoligi bilan tarix va imonda abadiy iz qoldirdi, shu bilan birga o'z kuchining asl manbasini tan oldi.",
+  "clues": [
+    "Menga hamma narsa ustidan hokimiyat va vosita berildi va men bir yo'ldan yurdim.",
+    "Sayohatim meni quyosh botadigan joyga olib bordi, u yerda bir xalqni topdim.",
+    "Men nutqni zo'rg'a tushunadigan, ikki tog' orasida yashaydigan bir jamoaga duch keldim.",
+    "Mendan shaxsiy manfaat uchun emas, balki vayronkor kuchdan himoya qilish uchun to'siq qurishni so'rashdi.",
+    "Men bu ulkan devorni qurish uchun kuch Allohdan kelganini va u va'da qilingan vaqtgacha turishini e'lon qildim.",
+    "Mening ismim, ko'pincha \"Ikki shoxli\" deb tarjima qilinadi, bu mening butun yer yuziga yoki ehtimol ikkita alohida davrga ta'sir qilishimni anglatadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Muso payg'ambar",
+        "Payg'ambar Sulaymon",
+        "Zulqarnayn",
+        "Fir'avn",
+        "Luqmon"
+      ],
+      "answer": "Zulqarnayn"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Vahiy olish",
+        "Zolimga qarshi turish",
+        "Ajoyib kema qurish",
+        "Kuchli to'siq qurish",
+        "Baliq tomonidan yutib yuborilmoqda"
+      ],
+      "answer": "Kuchli to'siq qurish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Temir to'siq",
+        "Nil daryosi",
+        "Taxt"
+      ],
+      "answer": "Temir to'siq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "To'fondan najot",
+        "Buyuk qirollikka aylanish",
+        "Xalq uchun himoya",
+        "Zolimning yo'q qilinishi",
+        "Doimiy donolik"
+      ],
+      "answer": "Xalq uchun himoya"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

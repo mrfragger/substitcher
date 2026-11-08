@@ -1,0 +1,61 @@
+{
+  "title": "Deret ji njëkka tuuru ci ñee",
+  "intro": "Xalaatal jamonoy nit ñi, jamono yi àdduna bi yépp nekkoon benn njaboot. Yaa ngi xool ñuy teg ñaari sarax ci kanamu Yàlla, benn bi ñu nangu, beneen bi ñu bañ. Ci ñeel dafay sax ci xol, te dafay wax luy tiital ci mer. Li ci topp dina bàyyi màndarga ci taarix ba fàww, ba ci picc mu ndaw sax dina nekk jàngalekat.",
+  "clues": [
+    "Man maa bokk ci famiy bi njëkka am ci kaw suuf.",
+    "Ma jox Yàlla sarax, waaye sama sarax nangu wuñu ko, beneen sarax bi nanguwul.",
+    "Ma wax loolu ndax ci ñee, ba noppi ni damay ray nit.",
+    "Maa njëkka ray nit ci kaw suuf te amul yoon.",
+    "Ma gis korney di xasan suuf ngir wan ma ni ñuy nëbbee néew.",
+    "Ma réccu lool, ma bokk ci ñi ñàkk li samay loxo def."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Qabil (Kayin), doomu Adam",
+        "Samiri, defarkatu naat bi",
+        "Namrud, jaay doole jiy xuloo ak Ibraahim",
+        "Azar, defarkatu yàlla yi",
+        "Kan'an, doomu Nuh bu féey"
+      ],
+      "answer": "Qabil (Kayin), doomu Adam"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Ray benn mbokk ndax ci ñee ginaaw biñu ko bañee saraxe",
+        "Tabax tour bu kawe ngir xool asamaan si",
+        "Defar ab naat bu wurus ngir jaamu",
+        "Laaj taabal ju tasaaroo ci asamaan si",
+        "Jiite larme ñay ngir yàq Kaaba"
+      ],
+      "answer": "Ray benn mbokk ndax ci ñee ginaaw biñu ko bañee saraxe"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Korney di xoosu suuf si ngir wane bàmmeel",
+        "Naat bu wurus buy yuuxu",
+        "Ark bu mag ci kaw ndoxu mbënd mi",
+        "Baton bu mujjee nekk jaan",
+        "Taabal bu fees dell ak lekk yu bawoo ci asamaan si"
+      ],
+      "answer": "Korney di xoosu suuf si ngir wane bàmmeel"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekk na réccu ak bokk ci ñi ñàkk",
+        "Dafa féey ci mbënd mu mag mi",
+        "Suuf si wann nako ak alal",
+        "Ñu daal di koy jàpp lu tollu ci juróom ñaari at",
+        "Dañu ko jox réew mu yor ngelaw li"
+      ],
+      "answer": "Nekk na réccu ak bokk ci ñi ñàkk"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

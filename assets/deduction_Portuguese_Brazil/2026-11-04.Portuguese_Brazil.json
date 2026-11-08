@@ -1,0 +1,61 @@
+{
+  "title": "o tesouro que afundou sob o orgulho",
+  "intro": "Imagine-se diante de pilhas de riquezas tão vastas que o simples ato de carregar as chaves exauriria um grupo de pessoas fortes. Ao seu redor, vozes clamam por humildade e lembrança, mas o orgulho se sobressai à gratidão. O que acontece quando a abundância se torna um teste e a arrogância sela o resultado?",
+  "clues": [
+    "Eu era do povo de Moisés, contudo, transgredi contra eles.",
+    "Recebi tesouros tão imensos que as chaves para eles seriam um fardo para um bando de homens fortes.",
+    "Fui aconselhado pelo meu povo a não me vangloriar e a buscar a vida após a morte sem esquecer a minha parte nesta vida.",
+    "Afirmei que o que eu possuía me foi dado unicamente devido ao conhecimento que eu tinha.",
+    "Desfilei diante do meu povo adornado, e aqueles que desejavam a vida mundana cobiçavam o que eu possuía.",
+    "Fui engolido pela terra junto com minha morada, e ninguém pôde me ajudar, nem eu pude me ajudar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Ostentava riquezas e negou o favor de Alá, apesar dos conselhos.",
+        "Desafiou Ibrahim sobre dar a vida e a morte.",
+        "Liderou um exército contra Talut e Dawud.",
+        "Ídolos esculpidos para o povo adorar.",
+        "Matou um irmão por inveja de uma oferenda."
+      ],
+      "answer": "Ostentava riquezas e negou o favor de Alá, apesar dos conselhos."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Chaves para tesouros imensos",
+        "A Arca da Aliança",
+        "Um bezerro de ouro adornado",
+        "Uma barragem entre duas montanhas",
+        "Onze estrelas em um sonho"
+      ],
+      "answer": "Chaves para tesouros imensos"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Engolidos pela terra com morada e riquezas",
+        "Afogou-se no mar enquanto perseguia Musa.",
+        "Atingido por uma pedra disparada pela funda de Davi.",
+        "Destruído por uma poderosa explosão por ter ferido os tendões de uma camela.",
+        "Transformados em macacos por violarem o sábado."
+      ],
+      "answer": "Engolidos pela terra com morada e riquezas"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

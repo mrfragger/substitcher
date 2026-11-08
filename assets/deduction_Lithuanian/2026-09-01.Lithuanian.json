@@ -1,0 +1,61 @@
+{
+  "title": "Balsas iš pakraščių",
+  "intro": "Stovite mieste, kur atėjo trys pasiuntiniai su aiškiais ženklais, bet žmonės iš jų tyčiojasi ir laikosi savo senų įpročių. Iš tolimiausio miesto kampo link minios bėga figūra, uždususi ir pasiryžusi sakyti tiesą, nepaisant atmetimo. Kas ši siela, rizikavusi viskuo dėl ne savo žinios?",
+  "clues": [
+    "Gyvenau tarp žmonių, kurie gavo pasiuntinius su aiškiais ženklais, tačiau jie arogantiškai nusisuko.",
+    "Išgirdęs apie pasiuntinių šauksmą, atbėgau iš tolimiausio miesto krašto.",
+    "Aš tariau savo tautai: „O mano tauta, sekite pasiuntinius. Sekite tuos, kurie neprašo iš jūsų atlygio, nes jie eina teisingu keliu.“",
+    "Nebuvau pranašas, bet tikėjau pasiuntiniais ir raginau savo žmones daryti tą patį.",
+    "Mano žmonės tyčiojosi iš mano patarimo ir kaltino mane ekstremizmu.",
+    "Kai jie mane nužudė, Alachas liepė man patekti į Rojų, ir aš norėjau, kad mano žmonės sužinotų apie atleidimą ir garbę, kurią gavau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Vyras iš tolimiausio miesto krašto (Ya-Sin)",
+        "Vienas iš trijų į miestą išsiųstų pasiuntinių",
+        "Žymus miesto pirklys",
+        "Miesto valdovas",
+        "Netikinčiųjų lyderis"
+      ],
+      "answer": "Vyras iš tolimiausio miesto krašto (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pamokslaudamas savo žmonėms sekti pasiuntiniais",
+        "Laivo statyba tikintiesiems išgelbėti nuo potvynio",
+        "Įmesti į ugnį už tikėjimą",
+        "Banginio prarytas",
+        "Suteikta karalystė ir išmintis"
+      ],
+      "answer": "Pamokslaudamas savo žmonėms sekti pasiuntiniais"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Tolimiausia miesto dalis",
+        "Arka",
+        "Šulinys",
+        "Degantis krūmas",
+        "Ola"
+      ],
+      "answer": "Tolimiausia miesto dalis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Įžengė į Rojų ir palinkėjo savo žmonėms patirti jo atleidimą",
+        "Nuskendo kartu su savo žmonėmis, nes atmetė žinią",
+        "Buvo padovanotas kupranugario stebuklas",
+        "Po teismo tapo valdovu",
+        "Buvo išgelbėtas Alachu ir liko su savo žmonėmis"
+      ],
+      "answer": "Įžengė į Rojų ir palinkėjo savo žmonėms patirti jo atleidimą"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

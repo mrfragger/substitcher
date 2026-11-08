@@ -1,0 +1,61 @@
+{
+  "title": "A cidade perdida da maxestade inigualable",
+  "intro": "Unha poderosa civilización dominou outrora vastas extensións da terra, famosa polas súas imponentes estruturas que se erguían cara aos ceos. Con todo, baixo esta grandeza, xurdiu unha teimuda negación: unha negativa a escoitar o aviso divino enviado desde dentro da propia comunidade. O orgullo e a arrogancia axiña provocarían un castigo como nin a terra nin os ceos presenciaran nunca.",
+  "clues": [
+    "Unha vez gobernamos vastas extensións da terra, gabándonos dunha forza que críamos que ningunha outra civilización podía igualar.",
+    "O noso reino era famoso polas súas imponentes estruturas con poderosos piares que se erguían sen rival en todas as terras coñecidas.",
+    "Un advertidor da nosa propia comunidade levantouse, instándonos a cada un de nós a someternos unicamente ao Único Creador.",
+    "Negamos a mensaxe que nos entregaron e negámonos a abandonar o camiño que herdáramos.",
+    "Un vento furioso e ouveante, dunha severidade abafadora, desatouse contra nós, deixándonos completamente indefensos.",
+    "Ficamos coma troncos ocos de palmeiras, esparexidos e esquecidos, como lección para cada xeración posterior."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Xente de A'ad",
+        "Xente de Nuh",
+        "Xente de Lut",
+        "Xente de Madyan",
+        "Xente de Tubba'"
+      ],
+      "answer": "Xente de A'ad"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Un vento furioso e implacable de castigo severo",
+        "Unha inundación que cubriu todos os cumios das montañas",
+        "Unha choiva de pedras de arxila ardendo dende arriba",
+        "Un único berro terrorífico dende o ceo",
+        "Un violento terremoto que dividiu a terra"
+      ],
+      "answer": "Un vento furioso e implacable de castigo severo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Iram, a cidade dos altos piares",
+        "Unha enorme arca de madeira construída sobre unha montaña",
+        "Unha cameloa que emerxeu milagrosamente da pedra",
+        "Monte Sinaí onde descenderon os mandamentos divinos",
+        "Un palacio de cristal e vidro fino con vistas ás augas correntes"
+      ],
+      "answer": "Iram, a cidade dos altos piares"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Deixados coma troncos ocos de palmeiras, dispersos e sen vida",
+        "Afogado baixo as ondas abrumadoras dunha gran inundación",
+        "Transformados en criaturas semellantes a monos e porcos",
+        "Esmagado baixo unha choiva de pedras de arxila endurecidas",
+        "Consumido nun único berro ensordecedor que atravesou a alma"
+      ],
+      "answer": "Deixados coma troncos ocos de palmeiras, dispersos e sen vida"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

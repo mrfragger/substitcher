@@ -1,0 +1,61 @@
+{
+  "title": "Snoíodóirí Cloiche an Ghleanna Ársa",
+  "intro": "Samhlaigh sibhialtacht a d’éirigh i ngleannta creagacha na hAraibe, oilte i snoíodóireacht tithe iontacha ó thaobhanna sléibhe. D’éirigh leo le neart agus le healaíneacht, ach tá a scéal marcáilte ag dúshlán fuar do rabhadh diaga. Agus tú ag tumadh isteach ina scéal, nochtfaidh tú pobal a raibh a n-uaillmhian mar thoradh ar a scriosadh iomlán. Cé hiad?",
+  "clues": [
+    "Fuaireamar tír ina raibh machairí creagacha agus aillte arda mar oidhreacht, áit ar thógamar ár dtithe le scileanna gan sárú.",
+    "Bhí cáil orainn as tithe slána a shnoí sna sléibhte, agus muid ag mothú sábháilte ó aon dochar.",
+    "Tháinig teachtaire chugainn ónár measc féin, ag cur i gcuimhne dúinn fabhar Allah agus ag tabhairt rabhaidh dúinn faoi phionós.",
+    "D'éilíomar comhartha, agus tháinig camall baineann míorúilteach amach as an gcarraig, tástáil shoiléir ó Allah.",
+    "Shéanamar an rabhadh agus ghearramar bacainní ar an gcamall baineann, ag magadh faoin teachtaire agus ag dúshlán an phionóis.",
+    "Bhuail pléasc amháin sinn inár dtithe, agus faoi mhaidin luíomar síos, amhail is nár chónaíomar ann riamh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir Thamud",
+        "Muintir 'Ad",
+        "Muintir Madyan",
+        "Muintir Nuh",
+        "Muintir Lut"
+      ],
+      "answer": "Muintir Thamud"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Hamstrung an camall baineann",
+        "Bhris an tSabóid",
+        "D’adhradh an lao órga",
+        "Mharaigh an fáidh a seoladh chucu",
+        "Thóg túr chun an spéir a bhaint amach"
+      ],
+      "answer": "Hamstrung an camall baineann"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An camall baineann",
+        "An Áirc",
+        "An fhoireann",
+        "An lámh bán",
+        "An manna agus na gearga"
+      ],
+      "answer": "An camall baineann"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Scriosta ag pléascadh",
+        "Sábháilte ón scrios",
+        "Iompú ina n-apaí",
+        "Báite sa bhfarraige",
+        "Slogtha ag an talamh"
+      ],
+      "answer": "Scriosta ag pléascadh"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

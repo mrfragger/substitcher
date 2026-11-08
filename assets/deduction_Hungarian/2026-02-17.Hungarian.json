@@ -1,0 +1,61 @@
+{
+  "title": "A viszály magja",
+  "intro": "Mielőtt a világ megismerte volna a széles körű konfliktusokat, a hit és az engedelmesség mélyreható próbája bontakozott ki. Ez a történet egy olyan ember döntéseit mutatja be, akinek a tettei precedenst teremtenek a jövő generációi számára. Készülj fel egy lélek történetének felfejtésére, aki mérhetetlen féltékenységgel és annak pusztító következményeivel küzd.",
+  "clues": [
+    "Az elsők között voltam, akik a földön jártak, az első emberpár gyermeke.",
+    "A testvéremmel azt a parancsot kaptuk, hogy mutassunk be áldozatot Allahnak, ami próbára tette őszinteségünket.",
+    "Az én felajánlásomat nem fogadták el, míg a bátyámét igen, ami szörnyű érzelemmel töltötte el a szívemet.",
+    "Fenyegető szavakat mondtam a testvéremnek, az elutasítás keserűsége vezérelt.",
+    "A bátyám bölcsen és áhítattal válaszolt, emlékeztetve Allah igazságosságára és az Ő félelmére.",
+    "A bátyám gyengéd szavai és a megbocsátó készsége ellenére elvettem egy életet, és a vesztesek közé kerültem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ádám próféta",
+        "Iblisz",
+        "Nuh próféta",
+        "Qabil (Káin)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Káin)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A nagy árvíz",
+        "A tenger kettéhasadása",
+        "A Kába építése",
+        "Az áldozatok felajánlása",
+        "A kísértés a kertben"
+      ],
+      "answer": "Az áldozatok felajánlása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A Szafa-hegy",
+        "Az áldozat",
+        "Az égő csipkebokor"
+      ],
+      "answer": "Az áldozat"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Hírvivővé vált",
+        "Megfulladt",
+        "Hatalmas királyságot épített",
+        "A megbánás példájává vált",
+        "Hatalmas vagyont adományoztak"
+      ],
+      "answer": "A megbánás példájává vált"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An glao a sheas leis na haoiseanna",
+  "intro": "Samhlaigh anam a sheasfadh ina aonar i gcoinne sibhialtachta iomláin, dírithe ar iad a threorú ar ais ón míthreoir le diongbháilteacht dhochloíte. Ar feadh na gcéadta bliain, diúltaíodh don teachtaireacht, rinneadh magadh fúithi, agus cuireadh i leataobh í—ach níor stop an iarracht riamh. Sa deireadh, tháinig cuntas mór, agus níor tháinig ach cúpla duine ar bord slánaithe taobh leis an anam daingean seo. An féidir leat an figiúr seo a aithint ón gCorán?",
+  "clues": [
+    "Cuireadh mé mar rabhaidh chuig pobal a bhí caillte ina mbealaí féin.",
+    "Thug mé cuireadh dóibh maithiúnas a lorg agus casadh siar óna n-éagóraí, ach chas siad uathu.",
+    "Faoi ordú diaga, thóg mé soitheach ollmhór agus mo mhuintir ag faire orm agus ag magadh fúm.",
+    "Ghlaoigh mé ar mo Thiarna gan stad—faoi dheireadh d’fhreagair sé, agus dhoirt uisce ón spéir i dtuile.",
+    "Chuaigh mé ar bord an tsoithigh leo siúd a chreid nuair a d’ardaigh uiscí na tuile os cionn na tíre.",
+    "Ghlaoigh mé ar dhuine a d’fhan taobh thiar, ag iarraidh orthu tearmann a ghlacadh ar sliabh, ach bhí an forógra rite cheana féin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Nuh",
+        "Fáidh Ibrahim",
+        "an Fáidh Músa",
+        "Fáidh Hud",
+        "Fáidh Salih"
+      ],
+      "answer": "Fáidh Nuh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Áirc mhór a thógáil agus tuile dhomhanda a shárú",
+        "Á chaitheamh i dtine lasrach",
+        "Ag tabhairt aghaidh ar tíoránach agus a dhraoithe cumhachtacha",
+        "Á shlogadh ag iasc mór",
+        "Ag finné marú camall baineann naofa"
+      ],
+      "answer": "Áirc mhór a thógáil agus tuile dhomhanda a shárú"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Áirc adhmaid ollmhór ar uiscí tuile borba",
+        "Gleann naofa le fothracha cloiche ársa",
+        "Uaimh dhomhain inar chodail compánaigh le céadta bliain",
+        "Bolg míol mór ollmhór i ndoimhneacht na farraige",
+        "Sliabh ard cloiche sa bhfásach"
+      ],
+      "answer": "Áirc adhmaid ollmhór ar uiscí tuile borba"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Sábháilte leis na creidmhigh ar bord na loinge",
+        "Tarrtháladh gan díobháil ón tine trí ordú Dé",
+        "Threoraigh sé eacsadós mór as ríocht chumhachtach",
+        "Teilgthe amach ón iasc go dtí cladach lom",
+        "Threoraigh sé daoine ó mhí-iompar trí chomhartha míorúilteach"
+      ],
+      "answer": "Sábháilte leis na creidmhigh ar bord na loinge"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lo Jorn de l'Exposicion Finala",
+  "intro": "Convocats a una granda mòstra de poder, un grop d'interpretes qualificats se trobèron davant una vertat inesperada que cambiariá lor vida per totjorn.",
+  "clues": [
+    "Èrem reputats per nòstre mestièr, mèstres de l'illusion e de l'engana.",
+    "Foguèrem convocats pel regent per afrontar un contestant qu'emplegava un baston simple.",
+    "Quand vesèrem la vertat, tombèrem en prostracion, declarant la cresença dins lo Senhor dels monds.",
+    "Lo tiran nos menacèt de punicion severa, mas vacilhèrem pas.",
+    "Èrem demest los primièrs a ​​creire al messatge après aver assistit al signe clar.",
+    "Foguèrem martirizats per nòstra fe, mas serem los primièrs a ​​dintrar dins lo Paradís amb los justes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Los Magos de Faraon",
+        "Los israelians",
+        "Lo pòble de Thamud",
+        "Los discípols d'Isa",
+        "L'Armada d'Abraha"
+      ],
+      "answer": "Los Magos de Faraon"
+    },
+    "trial": {
+      "label": "Ensag / Eveniment",
+      "options": [
+        "Concors amb lo profèta Musa",
+        "Construccion de la Tor",
+        "Lo Grand Diluvi",
+        "La pèsta de las langostas",
+        "La mar que se fendís"
+      ],
+      "answer": "Concors amb lo profèta Musa"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo jorn de la fèsta",
+        "La Val de Tuwa",
+        "La Ciutat d'Iram",
+        "Lo Jardin de l'Eternitat",
+        "La Plana d'Arafat"
+      ],
+      "answer": "Lo jorn de la fèsta"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Foguèron crucificats en public",
+        "Foguèron afogats dins la mar",
+        "Foguèron faches seguidors del profèta",
+        "Foguèron mandats en exili",
+        "Foguèron consumits pel fuòc"
+      ],
+      "answer": "Foguèron crucificats en public"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Murhumiwa Loyi A Languteleke Vagandzeri Va Swifaniso",
+  "intro": "Hi nkarhi lowu ku tinyiketela a ku hambukile, murhumiwa u pfukile a ri ni xirhambo xo tlhelela eku gandleni ka Hosi ya misava. Xifaniso lexi xi yime xi tiyile xi lwisana ni vanhu lava dzimeke timitsu evugandzerini bya xikwembu xa mavunwa, xi va tsundzuxa hi Muvumbi wa vona wa ntiyiso ni Hosi ya vakokwa wa vona. Hambi swi ri tano vanhu a va nga ri na mhaka naswona va arile xilemukiso, va fungha vumundzuku bya vona vini. Xana a ku ri mani mufoyini loyi la nga tsekatsekiki?",
+  "clues": [
+    "Ndzi rhumeriwe eka vanhu lava a va hambukile endleleni ya Xikwembu Xin’we xa Ntiyiso.",
+    "Ndzi vutisile vanhu va mina ndzi ku, \"Xana a mi nge n'wi chavi Allah?\"",
+    "Ndzi va vitanile leswaku va tshika vugandzeri bya vona bya xikwembu xa mavunwa lexi vuriwaka Bali.",
+    "Vanhu va mina va arile xirhambo xa mina kutani va phikelela eku gandleni ka vona ka swikwembu swa hava.",
+    "Hikwalaho ka ku landzula ka vona, hakunene va ta humesiwa leswaku va xupuriwa.",
+    "Hosi ya mina yi ndzi nyikile ku rhula na ku tsundzuka loku katekisiweke exikarhi ka tinxaka ta le ndzhaku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Ilyas",
+        "Muprofeta Yahya",
+        "Muprofeta Dhul-Kifl",
+        "Muprofeta Yusuf",
+        "Muprofeta Shu'ayb"
+      ],
+      "answer": "Muprofeta Ilyas"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U vitane vanhu va yena leswaku va tshika Bali",
+        "U ake ngalava ku ponisa vapfumeri",
+        "U lahleriwe endzilweni",
+        "U balekile eka Faro wa tihanyi",
+        "U ba ribye leswaku a humesa mati"
+      ],
+      "answer": "U vitane vanhu va yena leswaku va tshika Bali"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku nyikiwe ku rhula ni xitsundzuxo lexi katekisiweke",
+        "Ku mitiwa hi misava",
+        "Ku lovisiwa hi xidzedze xa matimba",
+        "Yi hundzuke ribye",
+        "Ku nwela elwandle"
+      ],
+      "answer": "Ku nyikiwe ku rhula ni xitsundzuxo lexi katekisiweke"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

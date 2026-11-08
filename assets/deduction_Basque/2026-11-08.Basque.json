@@ -1,0 +1,61 @@
+{
+  "title": "hondamendia gonbidatu zuen aliantza",
+  "intro": "Imajinatu errebelazioarekin teilatu beraren azpian babestuta egotea, baina leialtasun desberdina aukeratzea. Figura honek egiarekiko eta profeziarekiko oso gertu bizi izan zen, baina hura arbuiatzen zutenengana jo zuen. Haien istorioa abisu solemne gisa da, zuzentasunarekiko hurbiltasunak bakarrik ezin duela konfiantza traizionatzen duen arima salbatu.",
+  "clues": [
+    "Alak aukeratutako profeta baten etxean bizi nintzen.",
+    "Nire senarrak predikatzen zuen egia banekien, baina ez nuen benetan sinesten.",
+    "Bere konfiantza traizionatu nuen, jendea arbuiatzen zuenaren alde egin eta haren aurka lagunduz.",
+    "Beste profeta baten emaztearekin batera aipatzen naute, zeinak ere traizioa egin zuen, sinesgabeentzako adibide gisa.",
+    "Nire istorioa At-Tahrim suran kontatzen da, profetekiko ahaidetasunak ez duela babesik ematen ohartarazpen gisa.",
+    "Alahek Lut-eko herria suntsitu zuenean, gaizkileekin batera hil nintzen, eta geratu zirenekin batera geratu nintzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Lut profetaren emaztea",
+        "Asiya, Faraoiaren emaztea",
+        "Imranen emaztea.",
+        "Sara, Ibrahim profetaren emaztea",
+        "Al-Azizen emaztea"
+      ],
+      "answer": "Lut profetaren emaztea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Profeta traizionatu zuen, sinestunei haren aurka lagunduz.",
+        "Bota haurtxo bat ibaira saski batean salbatzeko",
+        "Profeta ez zegoenean urrezko txahal bat eraikitzeko eskatu zuen",
+        "Ministro zuzen bat gaiztakeriaz akusatu eta espetxeratu zuen",
+        "Elefanteen armada bat gidatu zuen Kaaba suntsitzeko"
+      ],
+      "answer": "Profeta traizionatu zuen, sinestunei haren aurka lagunduz."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Lut-en herriaren hiri irauliek",
+        "Jainkozko agindupean eraikitako Arka",
+        "Suak freskatu egin zuen Ibrahim",
+        "Gazte lotientzako babesleku kobazuloa",
+        "Haurraren saskia aurkitu zuten ibaia"
+      ],
+      "answer": "Lut-en herriaren hiri irauliek"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Profeta batekin ezkondu arren, sinesgabeekin batera hil zen",
+        "Sinestunekin batera salbatu zen eta bakean sartu zen Paradisura",
+        "Zutabe bihurtu zen ondorengo belaunaldientzako seinale gisa",
+        "Lurrak irentsi zuen altxor izugarriekin",
+        "Zahartzaroan haur miragarri bat eman zioten"
+      ],
+      "answer": "Profeta batekin ezkondu arren, sinesgabeekin batera hil zen"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

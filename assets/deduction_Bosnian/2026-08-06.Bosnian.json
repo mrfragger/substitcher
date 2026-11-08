@@ -1,0 +1,61 @@
+{
+  "title": "Budna duša na obali rijeke",
+  "intro": "Mladoj duši je povjerena tajna misija da sa sigurne udaljenosti posmatra kako se sudbina odvija na vodama. Neviđena i neočekivana, ova figura će odigrati ključnu ulogu u promjeni toka historije jedne nacije.",
+  "clues": [
+    "Majka mi je dala zadatak koji je zahtijevao prikrivenost i budnost.",
+    "Očima sam pratio malu kolijevku koja je plutala niz struju, srce mi je bilo teško od brige.",
+    "Kada ga je pronašla neočekivana grupa, približio sam se, pun strepnje.",
+    "Vidio sam njihovu očajničku potrebu za starateljem i ponudio sam rješenje bez otkrivanja istine.",
+    "Moja pravovremena intervencija vratila je dušu koja je njegovala onoga kome je to bilo najpotrebnije.",
+    "Na dvorovima moćnih, govorio sam: 'Trebam li da vas uputim porodici koja će ga hraniti i brižno se brinuti o njemu?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Musina sestra",
+        "Musina majka",
+        "Faraonova žena",
+        "Babica",
+        "Šuaibova kćerka"
+      ],
+      "answer": "Musina sestra"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Bacanje djeteta u rijeku",
+        "Razdvajanje mora",
+        "Spaljivanje teleta",
+        "Izgradnja arke",
+        "Pošast skakavaca"
+      ],
+      "answer": "Bacanje djeteta u rijeku"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Rijeka",
+        "Pustinja",
+        "Planina",
+        "Palača",
+        "Vatra"
+      ],
+      "answer": "Rijeka"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ponovo je spojila dijete s njegovom majkom",
+        "Spasila se od faraonovih vojnika",
+        "Postala je kraljica",
+        "Kažnjena je zbog špijunaže",
+        "Ona je vodila Izraelce"
+      ],
+      "answer": "Ponovo je spojila dijete s njegovom majkom"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

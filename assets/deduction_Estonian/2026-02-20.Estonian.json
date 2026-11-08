@@ -1,0 +1,61 @@
+{
+  "title": "Tule tunnistaja",
+  "intro": "Sügavmeelne inimene, kes oli pühendunud ülima reaalsuse paljastamisele, asus vaimse avastuse teekonnale. Nende vankumatu veendumus pani neid vaidlustama kehtestatud norme, seistes silmitsi tohutute katsumustega, mis panid proovile usu piirid. Selle hinge lugu on tunnistus jumalikust kaitsest ja juhatusest.",
+  "clues": [
+    "Issand õnnistas mind ainulaadse tiitliga, mis sümboliseeris sügavat ja erilist sidet.",
+    "Minu varased elud möödusid rahva seas, kes kummardasid sepistatud kujusid, aga mu süda igatses ühte Tõelist Jumalat.",
+    "Ma vaatlesin taevakehi, päikest, kuud ja tähti, mõtiskledes nende tõusu ja languse üle ning jõudsin järeldusele, et need ei saa olla minu Issand.",
+    "Laialt levinud polüteismi vastu trotsides astusin vastu valejumalustele, jättes ühe suurema jumaluse vaikiva süüdistajana puutumata.",
+    "Minu vastuhakk ebajumalakummardamisele viis karmi karistuseni – mind määrati heidetuks raevukasse põrgusse.",
+    "Ometi muutusid intensiivsed leegid mu Looja käsul jaheduse ja turvalisuse allikaks, mis päästis mu elu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Musa",
+        "Prohvet Noa",
+        "Prohvet Ibrahim",
+        "Prohvet Isa",
+        "Prohvet Yusuf"
+      ],
+      "answer": "Prohvet Ibrahim"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Punase mere ületamine",
+        "Üleujutus",
+        "Poja ohverdus",
+        "Tuline katsumus",
+        "Vaala kõht"
+      ],
+      "answer": "Tuline katsumus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Trompet",
+        "Tuli",
+        "Kaev"
+      ],
+      "answer": "Tuli"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Juhatas inimesi ohutusse kohta",
+        "Päris suure kuningriigi",
+        "Kala neelas ta alla",
+        "Päästeti põlemisest",
+        "Sai tabletid kätte"
+      ],
+      "answer": "Päästeti põlemisest"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

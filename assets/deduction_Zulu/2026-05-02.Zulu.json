@@ -1,0 +1,61 @@
+{
+  "title": "Umthwali Wesigijimi Esiyithuna",
+  "intro": "Umphefumulo olungileyo wathunyelwa ukuzoqondisa abantu abalahlekile eziphambekweni ezingakaze zibonwe. Lesi sithunywa sama siqinile, sinikeza isixwayiso esiqinile mayelana nokonakala okwakungavumelani nokuhleleka kwemvelo. Naphezu kokuncenga okuqotho, umphakathi wangena ebumnyameni obujulile, wabeka isisekelo sokubala kwaphezulu okungafani nanoma yikuphi okunye. Ungayibona yini le nceku ka-Allah eqotho?",
+  "clues": [
+    "Ngangiyisihlobo somunye umprofethi omkhulu, futhi ngathuthela naye, ngashiya izwe lakithi.",
+    "Ngathunyelwa kubantu abanobubi obuhlukile, isiphambeko esingakaze senziwe yisidalwa ngaphambi kwabo.",
+    "Umndeni wami wawuhlukene phakathi; ilungu lomndeni eliseduze lasekela ngasese abantu abangakholwa.",
+    "Izingelosi, ezisesimweni sezinsizwa ezinhle, zeza ekhaya lami njengezivakashi, zangibangela ukucindezeleka okukhulu ngenxa yokuphepha kwazo.",
+    "Nganikela ngamadodakazi ami kubantu bakithi ngomzamo omkhulu wokubaxosha ezenzweni zabo ezihlazisayo.",
+    "Abantu bami babhujiswa ukukhala okubi kakhulu kanye nemvula yamatshe obumba olubhakiwe, kanti mina nomndeni wami, ngaphandle koyedwa, sasindiswa ngokuhamba phakathi kobusuku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uShu'ayb",
+        "Umprofethi uSalih",
+        "Umprofethi uLut",
+        "Umprofethi uHud",
+        "Umprofethi uNuh"
+      ],
+      "answer": "Umprofethi uLut"
+    },
+    "trial": {
+      "label": "Yayiyini Isilingo Sami Esiyinhloko?",
+      "options": [
+        "Ukukholisa inkosi eyisiqhwaga ukuthi ingangishisi emlilweni.",
+        "Ukubhekana nomona wabafowethu nokuphonswa emthonjeni.",
+        "Ukubhekana nabantu abenza ukuziphatha okubi ngokocansi okungakaze kubonwe.",
+        "Ukuhola abantu bami baphume ebugqilini bukaFaro onamandla.",
+        "Ukwakha umkhumbi omkhulu ukuze kusindiswe amakholwa esikhukhuleni esikhulu."
+      ],
+      "answer": "Ukubhekana nabantu abenza ukuziphatha okubi ngokocansi okungakaze kubonwe."
+    },
+    "location": {
+      "label": "Yayiyini Indawo Yomsebenzi Wami?",
+      "options": [
+        "Idolobha laseMadyan",
+        "Idolobha lasendulo lase-Iram",
+        "Izwe laseGibhithe ngaphansi kukaFaro",
+        "Imizi yaseSodoma neGomora",
+        "Umuzi waseNineve"
+      ],
+      "answer": "Imizi yaseSodoma neGomora"
+    },
+    "outcome": {
+      "label": "Waba Yini Umphumela Oyinhloko?",
+      "options": [
+        "Imizi yagumbuqelwa futhi yabhujiswa ngamatshe obumba olubhakiwe.",
+        "Abantu bami bagwinywa umhlaba kanye nomholi wabo ocebile.",
+        "Abantu bami babhujiswa ngumoya onamandla ubusuku obuyisikhombisa nezinsuku eziyisishiyagalombili.",
+        "Abantu bami babehlushwa yizinhlupho ezifana nezinkumbi, izintwala namaxoxo.",
+        "Inhlanzi enkulu yangigwinya ngemva kokushiya umsebenzi wami."
+      ],
+      "answer": "Imizi yagumbuqelwa futhi yabhujiswa ngamatshe obumba olubhakiwe."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

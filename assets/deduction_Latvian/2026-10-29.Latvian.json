@@ -1,0 +1,61 @@
+{
+  "title": "Neliels brīdinājums pirms soļojošā pulka",
+  "intro": "Ieejiet ielejā, kur tuvojas varens valdnieks un milzīgs karaspēks, un iztēlojieties sīku ceļotāju, kas brīdina visu kopienu. Kad apdraudētā kopiena nonāk patvērumā, briesmas pazūd. Sekojiet norādēm, lai identificētu nepamanīto figūru aiz brīdinājuma.",
+  "clues": [
+    "Esmu starp mazajām radībām, kas saistītas ar valdnieka valstību.",
+    "Mana kopiena dzīvo mājokļos ielejas iekšienē, kur viens no mums var sazvanīt citus.",
+    "Mēs saskaramies ar draudiem no šī valdnieka un armijām, kas ceļo kopā ar valdnieku.",
+    "Es esmu tas, kas aicina savu kopienu ieiet savos mājokļos un brīdina mūs netikt neapzināti saspiestiem.",
+    "Valdnieks ir Suleimans, un mana suga ir starp radībām, kas nodotas viņa pakļautībā.",
+    "Esmu šīs ielejas skudra; pēc mana brīdinājuma mēs iegājām savos mājokļos un izbēgām no sabrukuma, kas citādi mūs būtu pārsteigusi nemanot."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Ielejas skudra",
+        "Pupukāzis",
+        "Vārna",
+        "Čūska",
+        "Mūlis"
+      ],
+      "answer": "Ielejas skudra"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Brīdinājums, kas saudzēja skudru kopienu",
+        "Lūgums pēc gredzena no zivs",
+        "Pazudušā troņa meklējumi",
+        "Nozagto acu glābšana",
+        "Atteikšanās ēst valdnieka ēdienu"
+      ],
+      "answer": "Brīdinājums, kas saudzēja skudru kopienu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Skudru ieleja",
+        "Suleimana zīmoga gredzens",
+        "Jusufa asiņainais krekls",
+        "Zelta teļš izceļošanas laikā",
+        "Musas personāls"
+      ],
+      "answer": "Skudru ieleja"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kopiena tika saudzēta pēc patvēruma meklēšanas",
+        "Kopiena tika iznīcināta bez patvēruma meklēšanas",
+        "Kopiena tika saudzēta, jo armija atkāpās",
+        "Kopiena tika apbalvota ar kontroli pār putniem",
+        "Kopiena tika aizvesta gūstā uz karaļa tiesu"
+      ],
+      "answer": "Kopiena tika saudzēta pēc patvēruma meklēšanas"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

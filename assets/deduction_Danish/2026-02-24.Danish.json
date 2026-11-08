@@ -1,0 +1,61 @@
+{
+  "title": "Bedragets ekko",
+  "intro": "Et slægtskabsbånd blev sat på prøve af en bølge af misundelse. En hemmelig plan blev udtænkt, hvilket satte gang i en række begivenheder, der ville strække sig over år og krydse enorme afstande. Denne gruppes handlinger førte til dyb adskillelse og sorg, men historien sluttede ikke der. Det er en fortælling om bedrag, anger og den ultimative udfoldelse af en guddommelig plan. Kan du opklare identiteten på disse individer, hvis valg gav genlyd gennem generationer?",
+  "clues": [
+    "Vi var opslugt af jalousi over den hengivenhed der blev vist en af ​​vores egne.",
+    "I vores misundelse konspirerede vi sammen og kastede vores søskende ned i en brønds mørke.",
+    "For at skjule vores gerning præsenterede vi vores far for et klæde, der var plettet med falsk blod.",
+    "År senere tvang en alvorlig hungersnød os til at rejse til Egypten for at finde forsyninger.",
+    "Der mødte vi op for en magtfuld guvernør, som uden vores viden var den samme søskende, som vi havde gjort os uret.",
+    "Vores sidste prøve var at bringe vores yngste bror, Benjamin, med, hvilket førte til afsløringen af ​​vores fortid og at vores far var profeten Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er vi?",
+      "options": [
+        "Adams sønner (Qabil og Habil)",
+        "Profeten Isas disciple",
+        "Profeten Yusufs brødre",
+        "Madyans folk",
+        "Magikerne fra Fir'awn"
+      ],
+      "answer": "Profeten Yusufs brødre"
+    },
+    "trial": {
+      "label": "Hvad var vores primære misgerning?",
+      "options": [
+        "At bygge en guldkalv til tilbedelse",
+        "Kræver at se Allah direkte",
+        "At håne en profet for at bygge en ark",
+        "At bedrage vores far og svigte vores bror",
+        "Bryd sabbatten ved at fiske"
+      ],
+      "answer": "At bedrage vores far og svigte vores bror"
+    },
+    "location": {
+      "label": "Hvilket objekt var centralt i vores bedrag?",
+      "options": [
+        "Et sæt indskrevne tabletter",
+        "En skjorte plettet med falsk blod",
+        "En guldkalv",
+        "En smuk fugl (Hurfuglen)",
+        "En stav der forvandlede sig til en slange"
+      ],
+      "answer": "En skjorte plettet med falsk blod"
+    },
+    "outcome": {
+      "label": "Hvad blev det endelige udfald af vores historie?",
+      "options": [
+        "Vi blev ødelagt af en voldsom oversvømmelse",
+        "Vi blev forvandlet til aber",
+        "Vi blev opslugt af jorden",
+        "Vi blev tilgivet og genforenet med vores familie",
+        "Vi druknede i havet"
+      ],
+      "answer": "Vi blev tilgivet og genforenet med vores familie"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

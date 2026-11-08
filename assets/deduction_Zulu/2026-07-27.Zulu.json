@@ -1,0 +1,61 @@
+{
+  "title": "Umnikelo Owashintsha Ikusasa",
+  "intro": "Ezinsukwini zokuqala zesintu, umphefumulo wawunikela ngesipho ngezinhloso ezimsulwa. Noma kunjalo, umona wawucashe emthunzini wokwamukelwa. Thola indaba yalesi sibalo esinobungcwele nesiphetho esibuhlungu esingenakufa esambulweni saphezulu.",
+  "clues": [
+    "Ngangiphakathi kwezizukulwane zokuqala zesintu.",
+    "Nganikela umnikelo eNkosini yami, futhi wamukelwa ngomusa.",
+    "Umnikelo womfowethu wenqatshwa, futhi umona wamnyama inhliziyo yakhe.",
+    "Ngathi kuye, 'Uma welula isandla sakho kimi ukuze ungibulale, ngeke ngilule isandla sami ukuze ngikubulale; impela ngiyamesaba u-Allah, iNkosi yezwe.'",
+    "Ngaba yisisulu sesenzo sokuqala sokubulala emhlabeni.",
+    "Igazi lami lakhala, futhi ngangingumfel’ ukholo wokuqala ongenacala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UHabil (u-Abela)",
+        "UQabil (uKhayini)",
+        "Indoda evela eYa-Sin",
+        "AmaSamiri",
+        "ULuqman"
+      ],
+      "answer": "UHabil (u-Abela)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Umnikelo wakhe wamukelwa, okwabangela umona womfowabo nokubulawa kwakhe",
+        "Waphonswa esithandweni somlilo ovuthayo kodwa waphuma engenamyocu",
+        "Wakha umkhumbi omkhulu ngaphansi kwesiqondiso saphezulu",
+        "Wagwinywa yinhlanzi enkulu wahlala ebumnyameni",
+        "Wahola abantu bakhe olwandle oluhlukene"
+      ],
+      "answer": "Umnikelo wakhe wamukelwa, okwabangela umona womfowabo nokubulawa kwakhe"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umnikelo owamukelekile",
+        "Induku iphenduka inyoka",
+        "Ikamela lensikazi njengesibonakaliso saphezulu",
+        "I-hoopoe iletha izindaba",
+        "Ithole legolide elikhulekelwayo"
+      ],
+      "answer": "Umnikelo owamukelekile"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukubulala kokuqala emlandweni; umfowabo wagwetshwa",
+        "Ugwinywe umhlaba kanye nengcebo yakhe",
+        "Waguqulwa waba yizinkawu ngenxa yokweqa umthetho",
+        "Kubhujiswe umoya onamandla, obandayo",
+        "Ukuminza esikhukhuleni esikhulu njengesijeziso"
+      ],
+      "answer": "Ukubulala kokuqala emlandweni; umfowabo wagwetshwa"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

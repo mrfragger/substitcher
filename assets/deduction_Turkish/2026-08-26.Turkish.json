@@ -1,0 +1,61 @@
+{
+  "title": "Tüketen Kıskançlık",
+  "intro": "Herhangi bir krallıktan veya kutsal kitaptan daha eski bir öykü—kıskançlıktan doğan ilk insanlık trajedisi. İlk ebeveynlerin iki çocuğundan büyüğü olan bir ruh, küçük kardeşine lütuf gösterilirken kendisinin gösterilmemesini öfkeyle izledi. Ardından en karanlık seçimler geldi ve yeryüzünde dökülen ilk kan geride kaldı. Kimliği, yargılamayı ve acı pişmanlığı ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Ben, yeryüzünde yürüyen ilk insan çiftinin çocuğu olarak dünyaya geldim.",
+    "Bir keresinde Allah'a bir adak sundum, fakat kabul edilmedi.",
+    "Kardeşimin teklifi kabul edildi, benimki ise reddedildi; buna katlanamadım.",
+    "Öz kardeşimi yok etmekle tehdit ettim.",
+    "Bu dünyada cinayet işleyen ilk kişi ben oldum, kendi kardeşimin canını aldım.",
+    "Allah bana yaptığım şeyi nasıl gizleyeceğimi öğretmek için yeryüzünden bir yaratık, yerde kazı yapan siyah bir kuş gönderdi ve bana pişmanlıktan başka bir şey kalmadı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Peygamber Yakub",
+        "Peygamber Musa",
+        "Peygamber Adem"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Allah tarafından reddedilen sunu",
+        "büyük bir ateşe atıldı",
+        "Bebekken nehre terk edilmiş",
+        "Engin bir krallıkla sınandı",
+        "Oğlunu kurban etmesi emredildi"
+      ],
+      "answer": "Allah tarafından reddedilen sunu"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Allah tarafından gönderilen karga",
+        "altın buzağı",
+        "Dağdaki gemi",
+        "Yanan çalı",
+        "Kayadan oyulmuş dişi deve"
+      ],
+      "answer": "Allah tarafından gönderilen karga"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Pişmanlıkla doldu ve kaybedenler arasına katıldı.",
+        "Hazinelerle birlikte toprağın içine gömüldü.",
+        "Allah'ın yüce bir elçisi oldu.",
+        "İlahi merhamet sayesinde cennete girdim.",
+        "Eşsiz bir krallığa hükmetti."
+      ],
+      "answer": "Pişmanlıkla doldu ve kaybedenler arasına katıldı."
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

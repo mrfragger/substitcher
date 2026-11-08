@@ -1,0 +1,60 @@
+{
+  "title": "Il peso delle ricchezze",
+  "intro": "Vi trovate di fronte a una storia di immensa fortuna, una vita adornata d'oro e potere, ma in definitiva un monito per tutti coloro che bramano la gloria terrena. Riuscirete a svelare l'identità di questa figura la cui storia riecheggia nel tempo, a testimonianza della natura effimera dei beni materiali?",
+  "clues": [
+    "Discendevo dalla stirpe di un grande Profeta, ma ho scelto la via dell'arroganza e dell'oppressione.",
+    "Allah mi ha concesso immense ricchezze, tanto che le chiavi dei miei tesori rappresentavano un fardello troppo pesante per un gruppo di uomini forti.",
+    "La mia gente mi ha consigliato di non esultare per le mie ricchezze, ricordandomi che Allah non ama chi esulta.",
+    "Pretesi arrogantemente che la mia immensa fortuna fosse dovuta alla mia conoscenza e al mio impegno, e non a una benedizione di Allah.",
+    "Sono stato messo in guardia contro la corruzione e mi è stato ricordato di cercare l'Aldilà con ciò che Allah mi ha donato, ma mi sono rifiutato di ascoltare e ho persistito nel mio orgoglio.",
+    "Alla fine, Allah fece sì che la terra inghiottisse me e la mia dimora, lasciandomi senza alcun aiuto contro il Suo decreto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "faraone",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La divisione del mare",
+        "Il fuoco di Nimrod",
+        "L'alluvione",
+        "L'inghiottimento da parte della terra",
+        "La piaga delle locuste"
+      ],
+      "answer": "L'inghiottimento da parte della terra"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca",
+        "Lo staff",
+        "Il vitello d'oro",
+        "I tesori/le chiavi",
+        "Il pozzo di Zamzam"
+      ],
+      "answer": "I tesori/le chiavi"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Concessa la regalità",
+        "Salvato dalla distruzione",
+        "Inghiottito dalla terra",
+        "Divenne un profeta",
+        "È morto serenamente."
+      ],
+      "answer": "Inghiottito dalla terra"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

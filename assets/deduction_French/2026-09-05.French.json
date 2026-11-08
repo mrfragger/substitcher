@@ -1,0 +1,61 @@
+{
+  "title": "La splendeur qui a sombré",
+  "intro": "Imaginez ceci : une âme drapée de vêtements somptueux et entourée de trésors inimaginables. Cet individu croyait que sa richesse était le fruit de son seul génie, sans jamais reconnaître la véritable source de prospérité. Marchant parmi les disciples d’un puissant prophète, il refusait tout appel à l’humilité. Aujourd’hui, nous révélons l’identité de cette figure dont la fortune colossale devint sa dernière demeure.",
+  "clues": [
+    "J'ai vécu à l'époque d'un prophète qui appelait une nation obstinée à la vérité.",
+    "J'appartenais à une communauté choisie, et pourtant mon cœur s'est détourné du message.",
+    "L'or et l'argent me fascinaient plus que n'importe quel commandement divin.",
+    "Mes coffres-forts étaient devenus si vastes qu'un groupe d'hommes robustes pouvait à peine en soulever les clés.",
+    "Je me suis vanté que ma richesse m'avait été donnée grâce à mon propre savoir.",
+    "Finalement, la terre a englouti ma demeure et moi-même, en guise d'avertissement."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "L'arrogance face à la richesse et le refus de la charité",
+        "Forger une idole en or à partir de bijoux fondus",
+        "Déclarer la divinité d'un royaume puissant",
+        "Persécution des premiers croyants à La Mecque",
+        "Mener une campagne pour détruire la Maison Sacrée"
+      ],
+      "answer": "L'arrogance face à la richesse et le refus de la charité"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Des trésors dont les clés pesaient sur bien des hommes forts.",
+        "Un veau d'or qui produisait du son",
+        "Un trône glorieux venu d'une terre lointaine",
+        "Une tranchée remplie de feu flamboyant",
+        "Une puissante armée d'éléphants de guerre"
+      ],
+      "answer": "Des trésors dont les clés pesaient sur bien des hommes forts."
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Englouti par la terre avec l'habitation",
+        "Noyé en mer avec une armée",
+        "Brûlé vif dans une fosse aux flammes",
+        "Détruit par un vent hurlant et déchaîné",
+        "Foudroyé par une seule et puissante explosion"
+      ],
+      "answer": "Englouti par la terre avec l'habitation"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

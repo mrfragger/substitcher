@@ -1,0 +1,61 @@
+{
+  "title": "Arhitekt lažne ambicije",
+  "intro": "Ličnost velikog autoriteta nekada je služila jednom od najozloglašenijih tiranina u historiji drevnog Egipta. Ovoj osobi je povjerena smjela naredba - da izgradi građevinu namijenjenu prkositi nebesima. Njihova priča stoji u Kuranu kao upečatljiva lekcija o tome kako slijepa poslušnost aroganciji vodi samo u propast.",
+  "clues": [
+    "Služio sam na dvoru moćnog vladara koji je tvrdio da je božanstvo nad zemljama.",
+    "Obavljao sam visoku ministarsku funkciju, savjetujući najarogantnijeg tiranina svog vremena.",
+    "Moj vladar je bio obuzet izazivanjem Mojsijevog Boga, kojeg su odbijali priznati.",
+    "Bilo mi je naređeno da sagradim kulu od pečenih cigli kako bi se moj vladar mogao uzdići na nebesa.",
+    "Toranj nikada nije dosegao nebo, a moje služenje aroganciji donijelo mi je vječnu sramotu.",
+    "Propao sam s onim koga sam slijedio, a moje ime je postalo trajna opomena protiv onih koji omogućavaju tiraninima da egzekuciju."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Haman",
+        "Azar (Ibrahimov otac)",
+        "Ilijas (prorok)",
+        "Zul-Kifl",
+        "Harut (jedan od dva anđela u Babilonu)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Naređeno je da se izgradi impozantna građevina koja će dosegnuti nebesa.",
+        "Zamoljen da protumači san poslan od božanstva",
+        "Bačen u plamteću vatru kao test vjere",
+        "Prisiljen birati između prijestolja i istine",
+        "Izazvan u takmičenju u čarobnjaštvu"
+      ],
+      "answer": "Naređeno je da se izgradi impozantna građevina koja će dosegnuti nebesa."
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kula od pečenih cigli",
+        "Štap koji se pretvorio u zmiju",
+        "Brod plovi kroz veliku poplavu",
+        "Vrt okružen visokim zidovima",
+        "Prijestolje ukrašeno rubinima i zlatom"
+      ],
+      "answer": "Kula od pečenih cigli"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Utopljen pored ugnjetača u moru",
+        "Postao je moćni monarh ogromnih zemalja",
+        "Izbjegao/la plamteći požar neozlijeđen/a",
+        "Izgradio prosperitetno kraljevstvo mudrosti",
+        "Ponovo se ujedinio sa porodicom nakon godina izgnanstva"
+      ],
+      "answer": "Utopljen pored ugnjetača u moru"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

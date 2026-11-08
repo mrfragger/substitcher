@@ -1,0 +1,61 @@
+{
+  "title": "The Steadfast Seeker of Truth",
+  "intro": "In a time shrouded by ignorance and the worship of false deities, a profound journey of faith unfolded. This individual challenged the norms of their society, seeking the One True Creator with unwavering conviction. Prepare to uncover the identity of a soul whose legacy continues to inspire millions.",
+  "clues": [
+    "I questioned the celestial bodies, seeking the true Lord who creates and sustains all.",
+    "I was commanded to leave my homeland, journeying to a land blessed by Allah.",
+    "I challenged the idols of my people, confronting their futility directly by breaking them.",
+    "I was cast into a raging fire by my people, yet it became cool and peaceful for me by Allah's command.",
+    "I was tested with the command to sacrifice my beloved firstborn son, a trial of ultimate submission.",
+    "I, along with my son, raised the foundations of the first House of Worship on Earth, a sanctuary for all humanity."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Nuh",
+        "Prophet Yusuf",
+        "Prophet Salih",
+        "Prophet Ibrahim",
+        "Prophet Isa"
+      ],
+      "answer": "Prophet Ibrahim"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "The great flood",
+        "The splitting of the sea",
+        "The destruction of Thamud",
+        "The command to sacrifice a son",
+        "The journey through the desert with the Ark"
+      ],
+      "answer": "The command to sacrifice a son"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The Staff",
+        "The Mountain of Tur",
+        "The Ark",
+        "The Kaaba",
+        "The Golden Calf"
+      ],
+      "answer": "The Kaaba"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Became a ruler of Egypt",
+        "His people were drowned",
+        "Was granted wisdom and a righteous lineage",
+        "Was swallowed by a whale",
+        "His city was overturned"
+      ],
+      "answer": "Was granted wisdom and a righteous lineage"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

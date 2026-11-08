@@ -1,0 +1,61 @@
+{
+  "title": "Ikustezinaren Ahotsa",
+  "intro": "Jainkozko komunikazioaren analetan, pertsonaia bat nabarmentzen da, zeinaren istorioa miragarri zeinuez eta fede irmoz josita dagoen. Pertsona honek bere garaiko arauak zalantzan jarri zituen errebelazio paregabe bat jaso zuen, ohiko pertzepzioaren beloaren haratago hitz eginez. Beren mezua ez zen ohiko bideetatik iritsi, baizik eta giza ulermena desafiatu zuen lotura sakon baten bidez, jendea egia modu ustekabeetan aitortzera deituz. Alaren zerbitzari honen bidaiak gidaritza nola ager daitekeen erakusten du egoerarik apartekoenetan, errebelazioaren beraren izaerari buruzko hausnarketa egitera gonbidatuz.",
+  "clues": [
+    "Iturri ikusezin batetik ahots misteriotsu baten bidez iritsi zen mezu bat eman zidaten.",
+    "Hasieran, nire jendeak nire mezua ukatu zuen, nire egiazkotasunaren froga konbentzionalagoak eskatuz.",
+    "Jaso nuenaren antzeko zerbait ekoizteko erronka egin nien, baina ezin izan zuten.",
+    "Ekarri nuen errebelazioa egia agerian uzten zuten bertso argi gisa deskribatu zen.",
+    "Nire herriari zigor gogorraren berri eman nion sinesgaiztasunean eta harrokerian jarraitzen bazuten.",
+    "Nire istorioa beste mezulari batzuekin batera aipatzen da Alaren boterearen seinaleak azpimarratzen dituen sura batean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hud profeta",
+        "Salih profeta",
+        "Shu'ayb profeta",
+        "Fir'awnen familiako sinestuna",
+        "Musa profeta"
+      ],
+      "answer": "Salih profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Labe sutsu batera botata izatea",
+        "Agintari tirano baten zapalkuntzari aurre egitea",
+        "Gamelu eme bat sortzea seinale miragarri gisa",
+        "Uholde handi bati bizirautea",
+        "Kutxa batean itsasora botata"
+      ],
+      "answer": "Gamelu eme bat sortzea seinale miragarri gisa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Tuwa harana.",
+        "Madyan hiria.",
+        "Thamuden lurraldea.",
+        "Fir'awnen auzitegiak",
+        "Hirako kobazuloa."
+      ],
+      "answer": "Thamuden lurraldea."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "answer": "Nire herria suntsitu zuten gamelu eme miragarria hiltzeagatik",
+      "options": [
+        "Nire herriak damutu egin zen eta salbatu egin zen",
+        "Bizirik zerura eraman ninduten",
+        "Nire herria suntsitu zuten gamelu eme miragarria hiltzeagatik",
+        "Agintari handi bihurtu nintzen",
+        "Arka batean sartuz salbatu ninduten"
+      ]
+    }
+  },
+  "verseRef": "26:154",
+  "arabic": "مَآ أَنتَ إِلَّا بَشَرٌۭ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "You are but a man like ourselves, so bring a sign, if you should be of the truthful.\" (26:154)"
+}

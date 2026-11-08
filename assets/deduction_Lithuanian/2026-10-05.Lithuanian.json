@@ -1,0 +1,61 @@
+{
+  "title": "Upei patikėtas pasitikėjimas",
+  "intro": "Sielai iškilo neįmanomas nuosprendis, kai naujagimio gyvybė pakibo ant plauko. Vedami dieviško įkvėpimo, jie pakluso desperatiškam įsakymui ir brangi paslaptis buvo palikta srovėje, bet sugrįžo netikėtu būdu.",
+  "clues": [
+    "Gyvenau tirono, kuris įsakė žudyti naujagimius berniukus, šešėlyje.",
+    "Mane aplankė dieviškas įkvėpimas, nurodantis imtis desperatiško ir širdį veriančio veiksmo.",
+    "Įdėjau savo brangų kūdikį į skrynią ir padėjau jį ant tekančios upės.",
+    "Mano širdis ištuštėjo, ir aš vos neatskleidžiau paslapties, bet Alachas sustiprino mano ryžtą.",
+    "Pasiunčiau ką nors sekti vaiko kelionę pasroviui, nes srovė nešė skrynią tolyn.",
+    "Vaiką rado tirono namiškiai, ir galiausiai aš vėl susijungiau su savo vaiku ir tapau aukle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašo Musos motina",
+        "Asija (faraono žmona)",
+        "Maryam (pranašo Isos motina)",
+        "Pranašo Luto žmona",
+        "Pranašo Jahjos motina (Zakarijos žmona)"
+      ],
+      "answer": "Pranašo Musos motina"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Ji įdėjo savo vaiką į skrynią ir padėjo ją ant upės",
+        "Ji paslėpė savo vaiką oloje",
+        "Ji paliko savo vaiką dykumoje",
+        "Ji įmetė savo vaiką į ugnį",
+        "Ji paliko savo vaiką prie mečetės durų"
+      ],
+      "answer": "Ji įdėjo savo vaiką į skrynią ir padėjo ją ant upės"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Upėje plūduriuojanti krūtinė",
+        "Degantis krūmas",
+        "Personalas, kuris virto gyvate",
+        "Stalas, padengtas maistu iš dangaus",
+        "Kupranugarė, siųsta kaip ženklas"
+      ],
+      "answer": "Upėje plūduriuojanti krūtinė"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Ji vėl susitiko su savo vaiku ir jį maitino",
+        "Ji daugiau niekada nematė savo vaiko",
+        "Ją įvykdė tironas",
+        "Ji tapo karaliene Egipte",
+        "Ji persikėlė į kitą šalį ir gyveno tremtyje"
+      ],
+      "answer": "Ji vėl susitiko su savo vaiku ir jį maitino"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

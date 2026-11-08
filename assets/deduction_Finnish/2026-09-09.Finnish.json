@@ -1,0 +1,61 @@
+{
+  "title": "Ensimmäinen sielu seisomaan",
+  "intro": "Kauan ennen kuin yksikään sanansaattaja kulki maan päällä, ennen kuin yksikään pyhä kirjoitus ilmoitettiin, syntyi olento, jollaista ei ollut ennen nähty. Tämä sielu muovattiin jumalallisten käsien toimesta, sille annettiin vertaansa vailla oleva kaunis paikka ja sitä koeteltiin tavalla, joka kaikuisi läpi koko ihmiskunnan historian. Seurasi tarina heikkoudesta, vilpittömästä katumuksesta ja kohtalosta, joka muuttaisi luomakunnan kulun ikuisiksi ajoiksi. Arvaatkö kuka tämä on?",
+  "clues": [
+    "Armollisimman kädet muovasivat minut maan tomusta",
+    "Minulle annettiin vertaansa vailla olevan kauneuden koti, jossa nälkä tai väsymys ei voinut minua koskettaa",
+    "Minua kiellettiin lähestymästä yhtäkään puuta, sillä se oli kiellettyä",
+    "Minä ja seuralaiseni jouduimme petoksen uhriksi ja lähestyimme kiellettyä puuta vastoin Herramme käskyä",
+    "Käännyimme takaisin Herramme luo vilpittömässä katumuksessa ja saimme rikkomuksemme anteeksi",
+    "Meistä koko ihmiskunta polveutuu; minä olen ensimmäinen, joka kulkee tällä maan päällä"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Aadam",
+        "Profeetta Musa",
+        "Profeetta Nooa",
+        "Profeetta Yusuf",
+        "Profeetta Isa"
+      ],
+      "answer": "Profeetta Aadam"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kielletyn puun kiusaus",
+        "Kohtaaminen faaraon kanssa",
+        "Suuren arkin rakentaminen",
+        "Rakkaan pojan uhraus",
+        "Heitetään suureen tuleen"
+      ],
+      "answer": "Kielletyn puun kiusaus"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kielletty puu",
+        "Palava pensas",
+        "Kultainen sauva",
+        "Suuri arkki",
+        "Kultainen vasikka"
+      ],
+      "answer": "Kielletty puu"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Lähetetty maan päälle ihmiskunnan ensimmäiseksi huolehtijaksi",
+        "Faarao ja hänen armeijansa hukkuivat mereen",
+        "Suuri vedenpaisumus tuhosi jumalattomat",
+        "Tuli viileni ja rauhoittui",
+        "Sai vallan Egyptin kuningaskuntaan"
+      ],
+      "answer": "Lähetetty maan päälle ihmiskunnan ensimmäiseksi huolehtijaksi"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

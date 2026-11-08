@@ -1,0 +1,61 @@
+{
+  "title": "Den første som søker tilgivelse",
+  "intro": "Gå tilbake til en tid før den første soloppgangen, før noen dødelig vandret på jorden. En skikkelse ble formet av det ydmykeste materiale, gitt en stilling over englene, og plassert i en hellig hage med en klar advarsel. Likevel, i et enkelt øyeblikk ble et valg tatt – et som ville gi gjenklang gjennom hele menneskehetens historie. Hvem er denne skikkelsen?",
+  "clues": [
+    "Jeg ble skapt på en måte ulik alle andre – formet av jordens støv og gitt en levende sjel av Skaperens hånd.",
+    "Jeg ble gitt kunnskap så dyp at selv englene i himmelen undret seg over den.",
+    "Hele himmelen ble befalt å bøye seg for meg, og de underkastet seg alle – bortsett fra én, som nektet av stolthet.",
+    "Jeg ble plassert i en hellig hage, et sted med evig trøst og forsyning – men med ett strengt forbud.",
+    "Jeg glemte, jeg skled, og jeg var ulydig – og jeg følte tyngden av feilen min dypt.",
+    "Jeg vendte meg til min Herre med inderlige ord, og Han aksepterte min anger, for Han er den Mest Tilgivende."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Adam",
+        "Profeten Dawud",
+        "Profeten Muhammed",
+        "Iblis",
+        "Profeten Yaqub"
+      ],
+      "answer": "Profeten Adam"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Englene ble befalt å kaste seg ned",
+        "Den store flommen ble sendt",
+        "En stor ild ble kjølig og trygg",
+        "En arrogant hersker druknet i havet",
+        "En hær av elefanter ble ødelagt"
+      ],
+      "answer": "Englene ble befalt å kaste seg ned"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Lykkens hage",
+        "Sinai-fjellet",
+        "Den hellige moskeen",
+        "Nilen",
+        "Hulen"
+      ],
+      "answer": "Lykkens hage"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Omvendelse ble akseptert av Allah",
+        "Druknet i havet",
+        "Svelget av en stor fisk",
+        "Nasjonen ble rammet av et kraftig slag",
+        "Brent av en brennende vind"
+      ],
+      "answer": "Omvendelse ble akseptert av Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

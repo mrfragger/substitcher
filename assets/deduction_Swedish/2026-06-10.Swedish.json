@@ -1,0 +1,61 @@
+{
+  "title": "Trädgårdens väktare",
+  "intro": "I en frodig trädgård avlade ett samhälle ett högtidligt löfte. Men deras beslutsamhet prövades när gudomlig vilja ingrep och förvandlade deras rikedom till ett ofruktbart land.",
+  "clues": [
+    "Vi var välsignade med en riklig trädgård, men vi blev arroganta.",
+    "Vi gjorde upp en plan att skörda utan att dela med de fattiga.",
+    "Vi gav oss av tidigt på morgonen, säkra på vår plan.",
+    "Men när vi kom fram upptäckte vi att vår trädgård hade blivit förstörd över natten.",
+    "Vi insåg vårt misstag och började skylla på varandra.",
+    "Vi ångrade oss till slut, men läxan lärdes för sent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Trädgårdens folk",
+        "Grottans folk",
+        "Elefantens folk",
+        "Folket i Thamud",
+        "Folket i 'Ad"
+      ],
+      "answer": "Trädgårdens folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "En trädgård förvandlades till aska",
+        "En översvämning som förstörde allt",
+        "En hungersnöd som drabbade landet",
+        "En armé av fåglar attackerar",
+        "En kraftig vind som ryckte upp träd med rötterna"
+      ],
+      "answer": "En trädgård förvandlades till aska"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En trädgård",
+        "En grotta",
+        "Ett skepp",
+        "Ett berg",
+        "Ett palats"
+      ],
+      "answer": "En trädgård"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De ångrade sig men förlorade sin trädgård",
+        "De förstördes fullständigt",
+        "De förvandlades till apor",
+        "De blev frälsta genom tro",
+        "De blev härskare"
+      ],
+      "answer": "De ångrade sig men förlorade sin trädgård"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

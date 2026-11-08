@@ -1,0 +1,61 @@
+{
+  "title": "Il grido dal profondo",
+  "intro": "Un servo del Misericordioso, stanco di una nazione ostinata, partì prima di ottenere il permesso. Quest'uomo finì in un luogo dove nessun essere umano era mai giunto, dove la chiamata del Divino echeggia stranamente attraverso strati di oscurità. Emergendo indebolito ma trasformato, quest'anima divenne un esempio senza tempo di pazienza, sincero pentimento e infinita misericordia del Creatore. Riuscirai a svelare il mistero?",
+  "clues": [
+    "Sono stato inviato come messaggero al mio popolo, ma essi hanno superato ogni limite nella loro incredulità e si sono rifiutati di ascoltare.",
+    "Mi sono infuriato per il loro rifiuto e sono fuggito dal mio popolo prima che giungesse il comando di Allah.",
+    "Salii a bordo di una nave sovraffollata e tirammo a sorte per decidere chi sarebbe stato gettato in mare.",
+    "Sono stato gettato nel mare in tempesta e inghiottito da un grosso pesce.",
+    "Intrappolato in tre strati di oscurità — il ventre, il mare profondo e la terra sottostante — ho invocato il mio Signore con sincero pentimento.",
+    "Sono emerso dal mare, sulla riva aperta, debole e stanco, e una pianta di zucca è cresciuta sopra di me. Il mio popolo, centomila o più persone, alla fine ha creduto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Yunus",
+        "Profeta Ayyub",
+        "Il profeta Yusuf",
+        "Profeta Mosè",
+        "Profeta Salomone"
+      ],
+      "answer": "Il profeta Yunus"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Inghiottito da un grande pesce",
+        "Gettato in un fuoco ardente",
+        "Intrappolato in fondo a un pozzo",
+        "Travolto da una grande alluvione",
+        "Imprigionato ingiustamente da un re"
+      ],
+      "answer": "Inghiottito da un grande pesce"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il ventre di un grande pesce",
+        "La valle sacra vicino alla Kaaba",
+        "Un'arca che riposa su una montagna",
+        "Un bastone che si è trasformato in un serpente",
+        "Un trono di impareggiabile magnificenza"
+      ],
+      "answer": "Il ventre di un grande pesce"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il suo popolo, centomila o più persone, credeva",
+        "Risuscitato vivo al cielo",
+        "Divenne sovrano di un regno senza rivali",
+        "Distrutto da un grido lacerante proveniente dal cielo",
+        "Ribaltato da un devastante terremoto"
+      ],
+      "answer": "Il suo popolo, centomila o più persone, credeva"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

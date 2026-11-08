@@ -1,0 +1,61 @@
+{
+  "title": "Noon bu tàng bi",
+  "intro": "Bi feeñu bi di sooga xew, dafa amoon nit ku dëgër bopp ku doon xeex dëgg gi. Ñu barkeel ko ci alal ak daraja, ruuh gi tànn mbégte moo gën njiit, seen jaar-jaar nekk na àrtu bu am solo ci aaya yu mujj yi ci benn surah.",
+  "clues": [
+    "Maa ngi dëkkoon ci benn dëkk ak Yonent bi, te nekkoon naa ci mbokkam yi gëna jege, waaye sama réy-réy daf ma sori ci dëgg.",
+    "Amoon naa alal lu bari ak moomeel yu bari, te jàppoon naa ni samay moomeel dina ñu ma aar saa yu nekk.",
+    "Bi bataaxal bi feeñee, ma ñaawal ko ci kanam ñépp, ba noppi ma dellu ginaaw, ndax jàpp naa ni maa gëna mag ci gëm-gëm yi.",
+    "Sama noon siiw na lool ba sax benn suura ci Al Quran daf may woo ci tur wi ñeneen ñi xamoon.",
+    "Àrtu nañu ma ne sama alal ak sama xaalis du ma amal njariñ, dina ñu ma sànni ci safara su tàng.",
+    "Man maay baayu xal yi, te sama jabar mooy yab matt bi ak buum buñ defaree fibre palme ci baat bi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufayan",
+        "Al walid ibn al mugiira",
+        "Al-as ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Bañ Islam, bañ Yonent bi ci kanam ñépp.",
+        "ñu ngi waajal ray yonent bi",
+        "Moo jiitewoon benn boycott buy xeex jullit yi",
+        "Xeex nañu ci xarab Badr",
+        "Bilaal ibn Rabah dañu ko sonal"
+      ],
+      "answer": "Bañ Islam, bañ Yonent bi ci kanam ñépp."
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Fibre de palme",
+        "Sabre bu ñaw",
+        "Caden bu diis",
+        "Baton bant",
+        "Futtu der"
+      ],
+      "answer": "Fibre de palme"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Dina tàkk ci safara gu tàng",
+        "Tuub na, nekk àndado",
+        "Ñàkk na alal waaye mu dee ci ngor",
+        "Daw dem Abyssinie",
+        "Dafa féey ci géej gi"
+      ],
+      "answer": "Dina tàkk ci safara gu tàng"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

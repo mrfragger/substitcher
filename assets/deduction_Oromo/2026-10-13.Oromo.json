@@ -1,0 +1,61 @@
+{
+  "title": "Diina Abiddaa",
+  "intro": "Bara jalqaba mul’ataatti namni tokko akka nama mata jabeessa dhugaa mormu ta’ee mul’ate. Qabeenyaa fi sadarkaadhaan kan eebbifamte lubbuun kun qajeelfama irra of tuuluun kan filatte yoo ta’u, seenaan isaaniis keeyyatoota dhumaa suuraa tokkoo keessatti akeekkachiisa cimaa ta’e.",
+  "clues": [
+    "Nabiyyiin magaalaa tokko keessa jiraadha, firoota isaatti dhihoo ta’an keessaa tokkon ture, ta’us of tuuluun koo dhugaa irraa na fageesse.",
+    "Qabeenya guddaa fi qabeenya hedduu kanan qabu siʼa taʼu, qabeenyi koo yeroo hunda na eega jedheen yaade.",
+    "Ergaan sun yommuu mul’atu, ifatti itti qoosee, amantoota caalaa akkan of ilaalee ofirraa deebi’e.",
+    "Diinummaan koo baay’ee maqaa gaarii waan qabuuf suuraan Qur’aanaa tokko kallattiin natti dubbate, maqaa warri kaan na beekaniin na waama.",
+    "Qabeenyi koo fi galiin koo akka na hin fayyadne, akkasumas ibidda boba’aa keessatti akkan darbatamu akeekkachiifame.",
+    "Ani abbaa abiddaa jedhamuun beekama, haati manaa koos funyoo fiber meexxii morma ishee irra kaa'attee muka ibiddaa baattee deemti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Abuu Lahaab",
+        "Abuu Jahl",
+        "Abuu Sufyaan",
+        "Al-Waliid ibnu al-Mughira",
+        "Al-As ibnu Waayil jedhamuun beekama"
+      ],
+      "answer": "Abuu Lahaab"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Islaamummaa dide ifatti Nabiyyicha morme",
+        "Nabiyyii ajjeesuuf shira xaxame",
+        "Muslimoota irratti uggura hawaasummaa geggeesse",
+        "Lola Badr keessatti lolame",
+        "Bilaal ibnu Rabah dararame"
+      ],
+      "answer": "Islaamummaa dide ifatti Nabiyyicha morme"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Funyoo fiber meexxii irraa hojjetame",
+        "Seeyfii qara qabu",
+        "Sansalata ulfaataa",
+        "Ulee mukaa",
+        "Qaccee gogaa"
+      ],
+      "answer": "Funyoo fiber meexxii irraa hojjetame"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Ibidda boba'aa keessatti ni gubata",
+        "Towbatee hiriyyaa ta'e",
+        "Qabeenya dhabe garuu kabajaan du'e",
+        "Gara Abisiniyaatti baqate",
+        "Galaana keessatti liqimfame"
+      ],
+      "answer": "Ibidda boba'aa keessatti ni gubata"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

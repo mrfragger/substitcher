@@ -1,0 +1,61 @@
+{
+  "title": "Kronis, kas izaicināja debesis",
+  "intro": "Seno karaļvalstu gaiteņos viena valdnieka vārds kļuva par tirānijas un augstprātības apzīmējumu. Kad ieradās pazemīgs Allāha kalps, nesot nenoliedzamas zīmes, šis varenais valdnieks atteicās padoties patiesībai. Šodien tavs uzdevums ir identificēt šo leģendāro figūru, kuras vara sabruka un kuras liktenis tika izšķirts zem viļņiem.",
+  "clues": [
+    "Esmu visbaidītākais valdnieks, kura vārds joprojām atskan kā brīdinājums cauri gadsimtiem.",
+    "Es pavēlēju veselai tautai strādāt važās, ceļot pieminekļus, kas sludināja manu godību.",
+    "Kad manā priekšā ar nenoliedzamām zīmēm ieradās Allāha vēstnesis, es atteicos paklanīties un nosaucu to par burvestību.",
+    "Es pavēlēju nogalināt zīdaiņus dēlus gūstā esošas tautas vidū, cerot saspiest viņu garu, pirms viņi varētu piecelties.",
+    "Es nostājos savas tiesas priekšā un paziņoju: “Esmu jūsu augstākais kungs”, pieprasot pielūgsmi kā dievs.",
+    "Ar savu galveno ministru man blakus es uzcēlu milzīgu celtni, kuras mērķis bija pakāpties pāri debesīm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Faraons (Fir'awn)",
+        "Namrud",
+        "Hamans",
+        "Abu Lahābs",
+        "Al-Valīds ibn al-Mughira"
+      ],
+      "answer": "Faraons (Fir'awn)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Slīkšana Sarkanajā jūrā",
+        "Kamielis, kas sūtīts Tamudas tautai",
+        "Lielie Nū plūdi",
+        "Tranšejas biedru sodīšana",
+        "Abrahas armijas iznīcināšana ar putnu palīdzību"
+      ],
+      "answer": "Slīkšana Sarkanajā jūrā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Augstā celtne, kas celta kopā ar Hamanu",
+        "Šķirsts, kas kuģoja plūdu laikā",
+        "Samiri darinātais zelta teļš",
+        "Šebas karalienes Bilkī tronis",
+        "Guļošo jaunekļu ala"
+      ],
+      "answer": "Augstā celtne, kas celta kopā ar Hamanu"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Noslīka jūrā; ķermenis saglabāts kā brīdinājums",
+        "Izsūtīts un spiests klejot pa tuksnesi",
+        "Pārveidoti par pērtiķiem kā sods",
+        "Smaga zemestrīce skāra",
+        "Apdedzināts akmeņu lietusgāzē no debesīm"
+      ],
+      "answer": "Noslīka jūrā; ķermenis saglabāts kā brīdinājums"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

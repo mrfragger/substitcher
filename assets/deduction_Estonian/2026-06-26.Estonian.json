@@ -1,0 +1,61 @@
+{
+  "title": "Keeldud kingituse koorem",
+  "intro": "Inimkonna ajaloo alguses, kui maa oli alles noor ja maailm hoidis oma esimest hingetõmmet, seisis hing Looja ees alandliku ohvriandiga. See ohver kaaluti jumaliku vastuvõtmise vaekausil – ja leiti olevat puudulik. Järgnes mitte andestuse lugu, vaid armukadedusest haaratud südame lugu, mis viis pöördumatu teoni, mis kajab läbi kõigi aegade. See on lugu inimesest, kelle nimi sai sünonüümiks esimese ränga ülekohtuga, mis kunagi toime pandi.",
+  "clues": [
+    "Ma sündisin ühena esimestest lastest maailmas, sündisin vanemale, kelle lugu te hästi teate.",
+    "Kord tõin Allahile ohvri, aga seda ei võetud minult vastu – kuigi mu õe või venna ohver võeti vastu armuga.",
+    "Kadedus ja raev juurdusid mu südamesse ning ma ähvardasin omaenda sugulase elu lõpetada.",
+    "Mu õde-vend hoiatas mind Allahi kartma, aga mu uhkus ei lasknud mul kuulata.",
+    "Kohutava nõrkuse hetkel sooritasin oma venna kallal kirjeldamatu teo.",
+    "Pärast seda ei teadnud ma isegi, kuidas oma tegu varjata – kuni mind õpetama saadeti üks maapealne olend."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Prohvet Noa poeg",
+        "Prohvet Isma'il",
+        "Prohvet Yusuf"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Ohverduse toomine, mis lükati tagasi, mis viis esimese mõrvani",
+        "Kõrge torni ehitamine taeva poole",
+        "Oma usu pärast raevukasse tulle heidetud",
+        "Oma poja ohverdamine Allahile kuuletudes",
+        "Kohustuste eest põgenemise eest suure kala alla neelamine"
+      ],
+      "answer": "Ohverduse toomine, mis lükati tagasi, mis viis esimese mõrvani"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Allahi saadetud vares matmise demonstreerimiseks",
+        "Suur üleujutus, mis uputas terve rahva",
+        "Personali, mis muutus elavaks maoks",
+        "Kaljumäest ilmunud emane kaamel",
+        "Võimsate tuulte poolt kantud suurejooneline troon"
+      ],
+      "answer": "Allahi saadetud vares matmise demonstreerimiseks"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai kahetsevaks, koormatud esimesest kunagi toime pandud kuriteost",
+        "Allah andestas ja pälvis igavese paradiisi",
+        "Tõsteti prohvetiennustuse ja tarkuse kõrgele positsioonile",
+        "Jumalik halastus päästis ta pärast pimeduse sügavusest kutsumist",
+        "Sai võimu džinnide, tuule ja merede üle"
+      ],
+      "answer": "Sai kahetsevaks, koormatud esimesest kunagi toime pandud kuriteost"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

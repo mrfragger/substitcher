@@ -1,0 +1,61 @@
+{
+  "title": "Irrika Ganbera Sakratuaren",
+  "intro": "Santutegi isilean sartzen zara eta Alaren zerbitzari deboto bat otoitzean zutik ikusten duzu. Eskuak altxatuta dituzte, begiak altxatuta, eta bihotzean bizitza osoa iraun duen irrika bat dago. Nor da Alarengan konfiantza inoiz ez duen arima paziente hau?",
+  "clues": [
+    "Urte luzeak eman nituen gurtzan eta otoitzean, nire fedea sendotu zuten mirariak ikusiz.",
+    "Santutegian arima gazte bedeinkatu bat zaintzeko ardura eman zidaten.",
+    "Zahartu ahala, nire atsekabe handiena seme-alabarik ez izatea zen, nire emaztea antzua baitzen eta biok adin aurreratuan geunden.",
+    "Jaunari otoitz egin nion nire familiako oinordeko bat eskatzeko, profetaren ondarea jarraituko zuen norbait.",
+    "Otoitz-nitxoan nengoela, aingeruek deitu ninduten, esanez: \"Alak berri onak ematen dizkizu\", eta beldurrak eta harridurak jo ninduen.",
+    "Yahya izeneko seme bat izango nuela esan zidaten, inori inoiz eman ez zitzaion izena, eta seinale gisa hiru egunez ez niola jendearekin hitz egingo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Zakariyya profeta",
+        "Yahya profeta",
+        "Isa profeta",
+        "Dawud profeta",
+        "Luqman Jakintsua"
+      ],
+      "answer": "Zakariyya profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Antzutasuna eta zahartzaroa oinordeko zuzen bat nahi duzun bitartean",
+        "Su bizian botata egotea",
+        "Arrain handi batek irentsi izana",
+        "Erresuma bat tirano baten esku galtzea",
+        "Norberaren sorterritik erbesteratua izatea"
+      ],
+      "answer": "Antzutasuna eta zahartzaroa oinordeko zuzen bat nahi duzun bitartean"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Otoitz-nitxoa (mihraba)",
+        "Itsasontzi handia (Arka)",
+        "Sasi erretzailea",
+        "Suge bihurtu zen makila",
+        "Alaren gamelu emea"
+      ],
+      "answer": "Otoitz-nitxoa (mihraba)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Seme zuzen bat eman zitzaion eta hiru eguneko isilunearen ondoren berriro hitz egin zuen",
+        "Uholde batek suntsitu zuen sinesgaiztasunagatik",
+        "Erresuma zabala eta haizearen gaineko kontrola emanda",
+        "Arrain baten sabeletik aterata",
+        "Lurrak irentsia."
+      ],
+      "answer": "Seme zuzen bat eman zitzaion eta hiru eguneko isilunearen ondoren berriro hitz egin zuen"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

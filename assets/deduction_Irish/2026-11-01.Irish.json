@@ -1,0 +1,61 @@
+{
+  "title": "An Guth a Dhiúltaigh an tÉadóchas",
+  "intro": "Téigh isteach i dteaghlach ina leanann caillteanas caillteanas, ach ina ndiúltaíonn guth socair amháin éadóchas. Déanann glao amháin sa Qur'an foighne ina phointe casaidh; an féidir leat na leideanna a rianú chuig an duine taobh thiar den ghuth sin?",
+  "clues": [
+    "Ba mise guth na foighne i dteaghlach inar chuir tubaiste tástáil ar bheannacht.",
+    "D’fhan mé i dteaghlach a bhí folamh de bharr cailliúint saibhris agus leanaí.",
+    "Bhí a fhios agam go raibh galar tar éis buille a thabhairt don chomrádaí sin freisin, a raibh a chorp buailte.",
+    "Nuair a tháinig an anacair chun cinn, ghlaoigh mé amach le meabhrú dom Allah.",
+    "Thairg mé dearbhú amháin: Is é Allah an Fhírinne, mar sin fan foighneach.",
+    "Ghlaoigh mé ar Ayyub de réir ainm; ina dhiaidh sin, bhain Allah an trioblóid agus d’athbhunaigh sé an teaghlach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Bean chéile an Fháidh Ayyub",
+        "Bean chéile an Fháidh Nuh",
+        "Bean chéile an Fháidh Ibrahim",
+        "Bean chéile an Fháidh Ya'qub",
+        "Iníon an Fharó"
+      ],
+      "answer": "Bean chéile an Fháidh Ayyub"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag fanacht le Ayyub tríd an gcaillteanas agus an tinneas, ansin ag iarraidh foighne",
+        "Ag tabhairt rabhaidh do theachtaire fíréanta pobal truaillithe a thréigean",
+        "Ag guí ar son breithe shliocht amach anseo",
+        "Ag léirmhíniú aislingí laistigh de phríosún ríoga",
+        "Ag aimsiú linbh iontaofa cois abhann"
+      ],
+      "answer": "Ag fanacht le Ayyub tríd an gcaillteanas agus an tinneas, ansin ag iarraidh foighne"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tá gá le dearbhú gurb é Allah an Fhírinne agus foighne",
+        "Crann pailme in aice le tobar",
+        "Glao chun soitheach a thógáil i bhfad ó na tonnta",
+        "Brionglóid faoi aon réalta déag agus grian ag éirí",
+        "Ciseán a iompraíodh feadh na Níle"
+      ],
+      "answer": "Tá gá le dearbhú gurb é Allah an Fhírinne agus foighne"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Baineadh galar Ayyub agus athchóiríodh a theaghlach",
+        "Bronnadh leanbh a raibhtear ag súil leis le fada tar éis paidir neamhthorrach",
+        "Rinne rialóir óg léirmhíniú ar sheacht mbliana flúirse agus ganntanais",
+        "Tarrtháladh leanbh a raibh muinín aige as uisce ag sileadh",
+        "Tháinig rabhadh roimh thuilte millteach"
+      ],
+      "answer": "Baineadh galar Ayyub agus athchóiríodh a theaghlach"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

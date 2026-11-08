@@ -1,0 +1,61 @@
+{
+  "title": "Gwajin Dutsen Bakarare",
+  "intro": "Al'umma, mai ƙwarewa da alfahari, ta sassaka gadonsu a kan tsaunuka. Amma lokacin da aka aiko musu da wata alama bayyananna, jarabawar imani da kamewa, girman kansu ya kai su ga hanyar da ba za a iya komawa baya ba. Za ku iya gano wannan rukunin da kuma sakamakon rashin biyayyarsu?",
+  "clues": [
+    "Mun kasance ƙwararrun masu fasaha a fannin duwatsu, muna sassaka gidaje masu kyau kai tsaye a gefen tsaunuka.",
+    "Wani manzo daga cikin mutanenmu ya zo mana, yana kiranmu mu bauta wa Allah ɗaya tilo na gaskiya.",
+    "Mun nemi wata alama don tabbatar da maganarsa, aka kuma fito da wata halitta ta musamman a matsayin jarabawa a gare mu.",
+    "An ba mu umarni mai sauƙi: mu raba tushen ruwanmu da wannan halitta, mu bar shi ya sha a ranar da aka ƙayyade.",
+    "Cikin girman kai, wasu daga cikinmu sun yi makirci muka ƙi gargaɗin, muka kashe halittar da aka yi niyya ta zama alamarmu.",
+    "An ba mu kwana uku kafin halakarmu, sannan aka yi wata babbar fashewa a gidajenmu, ta bar mu babu rai kuma ta kife."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Mutanen 'Ad'",
+        "Mutanen Madyana",
+        "Mutanen Samudawa",
+        "mutanen Saba",
+        "Mutanen Lutu"
+      ],
+      "answer": "Mutanen Samudawa"
+    },
+    "trial": {
+      "label": "Menene Jarrabawarmu ta Farko?",
+      "options": [
+        "Gina jirgi don tsira daga ambaliyar ruwa",
+        "Yin tsayayya da sha'awar kamun kifi a ranar Asabar",
+        "Barin ayyukan kasuwanci na jabu",
+        "Kare raƙumi mai ban mamaki",
+        "Jure wa yunwa ta shekaru bakwai"
+      ],
+      "answer": "Kare raƙumi mai ban mamaki"
+    },
+    "location": {
+      "label": "Menene Babban Abin Da Ya Faru a Labarinmu?",
+      "options": [
+        "Ɗan Maraƙin Zinare",
+        "Raƙumi",
+        "Sandar Annabi Musa",
+        "Babban Madatsar Ruwa ta Ma'rib",
+        "Teburin Ya Bazu Daga Sama"
+      ],
+      "answer": "Raƙumi"
+    },
+    "outcome": {
+      "label": "Menene Makomarmu ta Ƙarshe?",
+      "options": [
+        "An nutsar da shi cikin babban ambaliyar ruwa",
+        "Ya zama birai da aladu",
+        "Iska mai ƙarfi ta mamaye shi",
+        "Fashewar madatsar ruwa ta warwatse",
+        "An lalata ta da wata babbar fashewa/girgizar ƙasa"
+      ],
+      "answer": "An lalata ta da wata babbar fashewa/girgizar ƙasa"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

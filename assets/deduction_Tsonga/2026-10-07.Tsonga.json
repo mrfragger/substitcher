@@ -1,0 +1,61 @@
+{
+  "title": "Langavi leri nga endzeni ka xigodlho xa ku tikukumuxa",
+  "intro": "Endzhaku ka marhangu lamakulu ya xigodlho xa matimba swinene xa misava ya khale a ku tshama xifaniso lexi mbilu ya xona a yi rhwale xihundla lexi ku nga riki na xileriso xa vuhosi lexi a xi ta xi miyeta. Loko hinkwako-nkwako va nkhinsame eka swikwembu swa mavunwa, moya-xiviri lowu wu hlayise ripfumelo leri rhuleke ri pfurha endzeni. Mufumi wa tiko rero a a ti pfumela leswaku i va Xikwembu, hambiswiritano munhu loyi u hlawule ntiyiso ku tlula nchavelelo, ni ku tinyiketela ku tlula vuhlayiseki. Namuntlha, ntirho wa wena i ku kuma leswaku moya lowu wa xivindzi a wu ri mani, lowu xitori xa wona xi tshamaka xi ri xin’wana xa swikombiso swa matimba swinene swa ripfumelo leri nga tsekatsekiki.",
+  "clues": [
+    "A ndzi tshama endhawini leyi nga ni rifuwo lerikulu ni vukulu lebyi nga ringanisiwiki na nchumu, laha mufumi wa tiko a a ri ni matimba lama heleleke ehenhla ka hinkwaswo.",
+    "Loko lava a va ri ekusuhi na mina va nkhinsamela swikwembu swa mavunwa, ndzi hlayise ku vonakala loku rhuleke ka ripfumelo endzeni ka mbilu ya mina.",
+    "Ndzi tshubule no amukela n’wana loyi a tisiweke eka mina hi ndlela leyi nga tolovelekangiki - ku nga ri hi ku velekiwa, kambe hi mati ya nambu lowukulu.",
+    "Ndzi khongele eka Hosi ya mina, ndzi kombela kaya ekusuhi na Yena eParadeyisini na ku ponisiwa eka vulawuri bya tihanyi lebyi a byi ndzi rhendzele.",
+    "N’wana loyi ndzi n’wi kuriseke u kule a tlhontlha mufumi loyi a a lawula vumundzuku bya mina, naswona ndzi yime ndzi tiyile eripfumelweni ra mina hambiloko ndzi xungetiwa.",
+    "Hi mina loyi vito ra yena ri xiximiwaka eka Quran tani hi xikombiso xa ripfumelo, naswona ndzi tshame exigodlhweni xa Faro hi yexe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Asiya, nsati wa Faro",
+        "Mariyamu, mana wa Esa",
+        "Bilqis, Hosi ya Xisati ya le Xeba",
+        "Nsati wa Muprofeta Lut",
+        "Nsati wa Imran"
+      ],
+      "answer": "Asiya, nsati wa Faro"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku tshubula ni ku kurisa ricece leri lahliweke leri veke muprofeta lonkulu",
+        "Ku hoxiwa endzilweni lowukulu hi mufumi wa tihanyi",
+        "Ku vona ndhambi leyikulu leyi loviseke vanhu",
+        "Ku vona ku tsekatseka ka date palm na ku nyika swakudya",
+        "Ku tika n’wana wa jaha hambileswi a dyuhaleke"
+      ],
+      "answer": "Ku tshubula ni ku kurisa ricece leri lahliweke leri veke muprofeta lonkulu"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xigodlho xa vuhosi xa ku vangama loku nga ringanisiwiki na nchumu",
+        "Xikepe lexikulu lexi akiweke leswaku xi kota ku tiyisela ndhambi",
+        "Bako leri dzikeke leri fihliweke etintshaveni",
+        "Ndzilo lowu pfurhaka lowu akiweke ehenhla ka ntshava",
+        "Ntanga lowu pfaleriweke hi marhangu"
+      ],
+      "answer": "Xigodlho xa vuhosi xa ku vangama loku nga ringanisiwiki na nchumu"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Kaya ri nyikiwile eParadeyisini hi ku navela ka Allah",
+        "Ndhambi leyikulu yi lovise vapfumeri va tiko ra khale",
+        "Mfumo wa matimba ni vulawuri lebyikulu wu nyikiwile emisaveni leyi",
+        "Vuthu ra matimba ri hangalasiwe hi swinyenyana leswi a swi ri karhi swi baleka",
+        "Mufumi wa tihanyi loyi a a vula leswaku i vukwembu u nwile elwandle"
+      ],
+      "answer": "Kaya ri nyikiwile eParadeyisini hi ku navela ka Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

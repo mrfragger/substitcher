@@ -1,0 +1,61 @@
+{
+  "title": "Ensimmäisen rikkomuksen yhteisö",
+  "intro": "Muinaisten kaupunkien maassa eli aikoinaan kansa. Heidän luokseen tuli selkeän kutsun tuova sanansaattaja, mutta he kääntyivät pois ja jatkoivat polkua, jota kukaan ei ollut koskaan kulkenut. Heidän tarinansa on uhmakkuutta, turmelusta ja rangaistus, joka jätti heidän kotimaansa merkiksi kaikille, jotka asiaa miettivät. Keitä nämä sielut ovat?",
+  "clues": [
+    "Me asuimme tasangon kaupungeissa, joissa profeettamme kutsui meitä vanhurskauteen.",
+    "Me olimme ensimmäiset, jotka tekivät siveellisyyden, jollaista kukaan koko maailmassa ei ollut koskaan ennen tehnyt.",
+    "Me väijyimme matkalaisia ​​ja teimme pahaa avoimesti kokoontumisissamme.",
+    "Me torjuimme meille lähetetyn sanansaattajan ja uhkasimme ajaa hänet pois maastamme.",
+    "Ryntäsimme hänen talolleen vaatien, että hän luovuttaisi vieraansa meille.",
+    "Rangaistuksemme oli kivisade, ja kaupunkimme kääntyi ylösalaisin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Lutin kansa",
+        "Nuhin kansa",
+        "'Ad:n ihmiset",
+        "Thamudin kansa",
+        "Madyanin kansa"
+      ],
+      "answer": "Lutin kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Teki ensimmäisen sodomian teon",
+        "Palvotut epäjumalat",
+        "Huijattu kaupankäynnissä",
+        "Tappoivat heidän profeettansa",
+        "Tottelemattomat vanhemmilleen"
+      ],
+      "answer": "Teki ensimmäisen sodomian teon"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Tasangon kaupunki",
+        "Kaivon kaupunki",
+        "Ojan kaupunki",
+        "Norsun kaupunki",
+        "Puutarhan kaupunki"
+      ],
+      "answer": "Tasangon kaupunki"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Satoi kiviä ja kaatui",
+        "Tulva hukkui",
+        "Voimakkaan tuulen tuhoama",
+        "Maan nielaisema",
+        "Kova räjähdys iski"
+      ],
+      "answer": "Satoi kiviä ja kaatui"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

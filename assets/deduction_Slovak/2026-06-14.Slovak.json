@@ -1,0 +1,61 @@
+{
+  "title": "Plameň, ktorý odhalil dedičstvo",
+  "intro": "V análoch odporu stojí postava, ktorej samotné meno sa stalo varovaním až do konca časov. Táto osoba si zvolila nepriateľstvo pred príbuzenstvom, vzdor pred podriadenosťou a postavila sa na odpor volaniu po milosrdenstve. Pozorne si vypočujte ozveny starodávneho vyhlásenia, keď odhalíme identitu tejto neslávne známej duše.",
+  "clues": [
+    "Narodil som sa do toho istého klanu ako posledný Alahov posol, no napriek tomu som sa im postavil na každom kroku.",
+    "Moje meno nieslo význam – meno, ktoré znamenalo „otec plameňa“, meno, ktoré malo predznamenať môj večný osud.",
+    "Páchal som zlo na nositeľovi pravdy a dokonca aj moja vlastná domácnosť sa pridala k tejto krutej kampani.",
+    "Použil som svoje bohatstvo a vplyv na umlčanie volania k Alahovi, pretože som veril, že peniaze dokážu uhasiť božské svetlo.",
+    "Alah mi venoval celú kapitolu – kapitolu tak krátku, že sa dá recitovať za pár sekúnd, no jej váha zostáva až do Súdneho dňa.",
+    "Môj spoločník v posmrtnom živote kráča za mnou, zviazaný lanom z vlákien okolo krku, nesúc tie tŕne, ktoré kedysi rozširovali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Abú Laháb",
+        "Abu Džahl",
+        "Waraqah ibn Nawfal",
+        "Umajja ibn Chalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abú Laháb"
+    },
+    "trial": {
+      "label": "Definovanie konfrontácie",
+      "options": [
+        "Vedenie opozície proti Prorokovi v Mekke",
+        "Migrácia do Habeša, aby unikli prenasledovaniu",
+        "Stavba Kaaby s prorokom Ibrahimom",
+        "Prijatie islamu na smrteľnej posteli",
+        "Uzatvorenie Hudaybiyyahskej zmluvy"
+      ],
+      "answer": "Vedenie opozície proti Prorokovi v Mekke"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Manželka, ktorá nosila tŕne a drevo na kúrenie",
+        "Palica, ktorá sa premenila na hada",
+        "Prsteň so Šalamúnovou pečaťou",
+        "Zlaté teľa uctievané ľuďmi",
+        "Prameň, ktorý vytryskol vodou"
+      ],
+      "answer": "Manželka, ktorá nosila tŕne a drevo na kúrenie"
+    },
+    "outcome": {
+      "label": "Konečné zúčtovanie",
+      "options": [
+        "Celá súra zjavená ohlasujúca úplnú skazu",
+        "Stal sa vodcom moslimskej komunity",
+        "Prijal odpustenie v okamihu smrti",
+        "Postavil veľkú mešitu v Medine",
+        "Bol vzkriesený medzi spravodlivými"
+      ],
+      "answer": "Celá súra zjavená ohlasujúca úplnú skazu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ar vouezh a nac'he an dizesper",
+  "intro": "Mont e-barzh un tiegezh ma teu ar c'holl war-lerc'h ar c'holl, met ur vouezh sioul a nac'h an dizesper. Ur galv hepken er C'horan a laka ar pasianted da vezañ ur poent treiñ ; gallout a rit heuliañ an titouroù betek an hini a zo a-dreñv ar vouezh-se ?",
+  "clues": [
+    "Mouezh ar basianted e oan en un tiegezh ma veze amprouet ar vennozhioù gant ar gwalleur.",
+    "Chom a ran en un tiegezh goullo gant koll ar madoù hag ar vugale.",
+    "Gouzout a raen e oa bet skoet ar c'hleñved ivez gant ar c'hompagnunez-se, a oa gwallgaset e gorf.",
+    "Pa zeuas an enkrez da vezañ kreñv, e c'halvis gant ur soñj eus Allah.",
+    "Kinnig a ran un disklêriadur : Allah eo ar wirionez, neuze chomit pasiant.",
+    "Galvet em eus Ayyub dre e anv; goude-se, Allah a lakaas kuit ar boan hag a adlakaas ar familh en-dro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Gwreg ar profed Ayyub",
+        "Gwreg ar profed Nuh",
+        "Gwreg ar profed Ibrahim",
+        "Gwreg ar profed Ya'qub",
+        "Merc'h Faraon"
+      ],
+      "answer": "Gwreg ar profed Ayyub"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Chom gant Ayyub dre ar c'holl hag ar c'hleñved, ha goude-se e c'houlenn pasianted",
+        "Diwall ur c'hannad reizh da zilezel ur gumuniezh breinet",
+        "O pediñ evit ganedigezh ul lignez da zont",
+        "Displegañ hunvreoù e-barzh ur prizon roueel",
+        "Kavout ur bugel fiziet e-kichen ur stêr"
+      ],
+      "answer": "Chom gant Ayyub dre ar c'holl hag ar c'hleñved, ha goude-se e c'houlenn pasianted"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ret eo disklêriañ eo Allah ar Wirionez ha pasianted",
+        "Ur wezenn-palmez e-kichen ur feunteun",
+        "Ur galv da sevel ul lestr pell diouzh ar gwagennoù",
+        "Un hunvre unnek steredenn hag un heol o sevel",
+        "Ur panerad douget a-hed an Nil"
+      ],
+      "answer": "Ret eo disklêriañ eo Allah ar Wirionez ha pasianted"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Tennet e voe poan Ayyub hag adsavet e familh",
+        "Ur bugel hirgortozet a voe roet goude ur bedenn difrouezh",
+        "Ur rener yaouank a zisplege seizh vloaz a fonnder hag a skarzh",
+        "Ur bugel fiziet ennañ a oa bet saveteet diouzh an dour o redek",
+        "Ur c'hemenn-diwall a oa bet a-raok un dour-beuz distrujus"
+      ],
+      "answer": "Tennet e voe poan Ayyub hag adsavet e familh"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

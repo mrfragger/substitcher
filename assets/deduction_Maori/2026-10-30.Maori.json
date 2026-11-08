@@ -1,0 +1,61 @@
+{
+  "title": "Te Mataaratanga o te Hunga e Mate Ana",
+  "intro": "Kei te tata koe ki te tūtaki ki tētahi wairua kua whakamatautauria e te wehenga hohonu rawa atu, e mōhio ana ōna kanohi ki te reo o ngā roimata, engari kāore i ngaro te tumanako o tōna ngākau. I roto i tētahi kōrero mō te tinihanga, te hiahia, me te huihuinga anō, ka noho tēnei pononga rangatira a Allah hei tohu mō te manawanui mō ngā wā katoa. Nā wai i whakamanawanui ngā tau o te mamae huna, ā, i whakahokia mai anō te tirohanga me te harikoa i roto i tētahi wā poto?",
+  "clues": [
+    "He poropiti ahau, ā, ko tōna ingoa i waiho hei tohu mō te manawanui i te aroaro o te mate nui.",
+    "I manaakitia ahau ki te tini o ngā tama, engari i tangohia tetahi i ahau e te hae o ētahi atu.",
+    "Nā te hohonu o tōku aroha ki taua mea ngaro, kua mā ōku kanohi i te pouri, heoi kāore au i amuamu engari ki a Allah anake.",
+    "I tonoa e au aku tama kia hoki ki te rapu i taku i ngaro ai me tōna tuakana, me te akiaki i a rāua kia kaua e ngoikore te tumanako.",
+    "I te taenga mai o te kaikawe i te rongo pai, ka taupokina tōku mata e te hāte, ā, kātahi ka mārama anō te ao.",
+    "E mōhiotia ana ahau ko Iharaira, ā, nō aku tama tekau mā rua ngā iwi tekau mā rua o tētahi iwi nui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hākupa (Hākopa)",
+        "Poropiti a Hohepa (Yusup)",
+        "Poropiti a Ihaka (Ihaka)",
+        "Poropiti a Āperahama (Aperahama)",
+        "Poropiti a Ayyub (Hōpa)"
+      ],
+      "answer": "Poropiti a Hākupa (Hākopa)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te wehenga mai i tētahi tama aroha mō ngā tau maha",
+        "Ka makaia ki roto i te ahi mura",
+        "I horomia e te ika nui",
+        "E pāngia ana e te mate kiri kino",
+        "Te kore tamariki tae noa ki te koroheketanga"
+      ],
+      "answer": "Te wehenga mai i tētahi tama aroha mō ngā tau maha"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te hāte o Yusuf",
+        "Ngā kaimahi a Musa",
+        "Te āka a Noa",
+        "Te kamera uha o Salih",
+        "Te mowhiti o Sulayman"
+      ],
+      "answer": "Te hāte o Yusuf"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua hoki te tirohanga, ā, kua tūtaki anō ki tana tama",
+        "I whakawhiwhia te wikitoria ki tētahi kīngi nanakia",
+        "Kua whakaarahia ora ki te rangi",
+        "I whakatūria hei rangatira mō Īhipa",
+        "I hoatu he tama i te koroheketanga hei merekara"
+      ],
+      "answer": "Kua hoki te tirohanga, ā, kua tūtaki anō ki tana tama"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

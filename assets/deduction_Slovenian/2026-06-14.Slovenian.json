@@ -1,0 +1,61 @@
+{
+  "title": "Plamen, ki je razkril zapuščino",
+  "intro": "V analih upora stoji oseba, katere že samo ime je postalo svarilo do konca časov. Ta oseba je izbrala sovraštvo namesto sorodstva, kljubovanje namesto podrejenosti in se uprla klicu usmiljenja. Pozorno prisluhnite odmevom starodavnega razglasa, ko bomo odkrivali identiteto te zloglasne duše.",
+  "clues": [
+    "Rodil sem se v istem klanu kot zadnji Alahov poslanec, a sem se jim na vsakem koraku uprl.",
+    "Moje ime je nosilo pomen – ime, ki pomeni 'oče plamena', ime, ki je napovedovalo mojo večno usodo.",
+    "Zlorabo sem povzročil nosilcu resnice in celo moja lastna družina se je pridružila tej krutosti.",
+    "Svoje bogastvo in vpliv sem uporabil, da bi utišal klic k Alahu, saj sem verjel, da lahko denar ugasne božansko luč.",
+    "Allah mi je posvetil celo poglavje – poglavje, tako kratko, da ga je mogoče recitirati v nekaj sekundah, a njegova teža ostaja vse do sodnega dne.",
+    "Moj spremljevalec v onostranstvu hodi za mano, zvezan z vrvjo iz vlaken okoli vratu, in nosi prav tiste trnje, ki so jih nekoč širili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Abu Lahab",
+        "Abu Džahl",
+        "Waraqah ibn Nawfal",
+        "Umaja ibn Kalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definiranje soočenja",
+      "options": [
+        "Vodenje opozicije proti preroku v Meki",
+        "Selitev v Abesinijo, da bi se izognili preganjanju",
+        "Gradnja Kaabe s prerokom Ibrahimom",
+        "Sprejem islama na smrtni postelji",
+        "Sklenitev Hudaybiyyahove pogodbe"
+      ],
+      "answer": "Vodenje opozicije proti preroku v Meki"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Žena, ki je nosila trnje in drva",
+        "Palica, ki se je spremenila v kačo",
+        "Prstan s Salomonovim pečatom",
+        "Zlato tele, ki ga častijo ljudje",
+        "Izvir, ki je bruhal vodo"
+      ],
+      "answer": "Žena, ki je nosila trnje in drva"
+    },
+    "outcome": {
+      "label": "Končni obračun",
+      "options": [
+        "Celotna sura, razodeta v kateri je razglašen popoln propad",
+        "Postal je vodja muslimanske skupnosti",
+        "Odpuščanje prejel v trenutku smrti",
+        "V Medini je zgradil veliko mošejo",
+        "Bil je vstajen med pravičniki"
+      ],
+      "answer": "Celotna sura, razodeta v kateri je razglašen popoln propad"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

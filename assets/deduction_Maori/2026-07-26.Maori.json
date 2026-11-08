@@ -1,0 +1,61 @@
+{
+  "title": "Te Karauna i Wero i ngā Rangi",
+  "intro": "I ngā ara o ngā kingitanga onamata, ka noho te ingoa o tētahi rangatira hei kupu whakataukī mō te tukino me te whakapehapeha. I te taenga mai o tētahi pononga whakaiti a Allah me ngā tohu e kore e taea te whakakorekore, ka whakakahore tēnei ariki nui ki te tuku i a ia ki te pono. I tēnei rā, ko tāu mahi he tautuhi i tēnei tangata rongonui i pakaru tōna mana, ā, i hiritia tōna aituā i raro i ngā ngaru.",
+  "clues": [
+    "Ko au te rangatira tino wehingia, ko tōku ingoa e mau tonu ana hei whakatūpato i ngā tau kua pahure.",
+    "I whakahau ahau i tētahi iwi katoa kia mahi i roto i ngā mekameka, kia whakatūria ngā whakamaharatanga hei whakapuaki i tōku korōria.",
+    "I te taenga mai o te karere a Allah ki tōku aroaro me ngā tohu e kore e taea te whakakorekore, kāore ahau i pai ki te piko, ā, i kī ahau he mahi makutu tēnei.",
+    "I whakahaua e au te kōhurutanga o ngā tamariki tāne i roto i te iwi herehere, me te tumanako ka pakaru ō rātou wairua i mua i tō rātou aranga ake.",
+    "I tū ahau ki mua i tōku kooti, ​​ā, i kī atu, 'Ko ahau tō koutou ariki teitei rawa,' me te tono kia karakiatia ahau hei atua.",
+    "I te taha o taku tumuaki minita, ka hanga e au tētahi whare tiketike hei piki ki tua atu i ngā rangi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Parao (Fir'awn)",
+        "Namrud",
+        "Hāmana",
+        "Āpu Rāhapi",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Parao (Fir'awn)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te toremitanga i te Moana Whero",
+        "Te kamera uha i tukuna ki te iwi o Thamud",
+        "Te waipuke nui o Noa",
+        "Te whiu o ngā Hoa o te Wairakau",
+        "Te whakangaromanga o te ope a Āparaha e ngā manu"
+      ],
+      "answer": "Te toremitanga i te Moana Whero"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te whare tiketike i hangaia e Hāmana",
+        "Te āka i rere i runga i te waipuke",
+        "Ko te kuao kau koura i hangaia e te Samiri",
+        "Te torona o Bilqis, te Kuīni o Sheba",
+        "Te ana o ngā taiohi e moe ana"
+      ],
+      "answer": "Ko te whare tiketike i hangaia e Hāmana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi ki te moana; i tiakina te tinana hei whakatūpato",
+        "I peia atu, ā, i akiakihia kia kopikopiko i te koraha",
+        "I hurihia hei makimaki hei whiu",
+        "I pāngia e te rū whenua nui",
+        "I tahuna e te ua kōhatu i te rangi"
+      ],
+      "answer": "I toremi ki te moana; i tiakina te tinana hei whakatūpato"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

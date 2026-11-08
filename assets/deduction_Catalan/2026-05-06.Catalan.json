@@ -1,0 +1,61 @@
+{
+  "title": "La veu de l'arbust ardent",
+  "intro": "Descobreix la identitat d'una figura profunda, el viatge de la qual va començar amb una trobada miraculosa i el destí de la qual es va entrellaçar amb l'alliberament d'un poble oprimit. Aquest individu va ser escollit per a una tasca monumental, afrontant reptes immensos amb el suport diví.",
+  "clues": [
+    "Vaig néixer en una època de gran opressió, on assassinaven els infants del meu poble.",
+    "La meva joventut va incloure ser llençada en un riu pels meus pares, però em van trobar i em van criar a la mateixa llar de l'opressor del meu poble.",
+    "Una vegada vaig fugir d'una ciutat després d'haver causat la mort involuntàriament d'una persona durant una disputa.",
+    "Vaig rebre un missatge diví i un bastó miraculós en un lloc sagrat, on se'm va ordenar enfrontar-me a un poderós governant.",
+    "El meu germà va ser nomenat ajudant meu en la meva missió, a causa d'un impediment percebut en la meva parla.",
+    "Vaig guiar el meu poble a través d'un mar obert, escapant de la persecució d'un exèrcit tirànic."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Iússuf",
+        "Profeta Isa",
+        "Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Musa"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Anys de sequera que duren",
+        "Construint l'Arca",
+        "Enfrontant-se al faraó i als seus bruixots",
+        "Ser llançat a un forn ardent",
+        "La destrucció del poble de Thamud"
+      ],
+      "answer": "Enfrontant-se al faraó i als seus bruixots"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Kaaba",
+        "El Mur de Ferro",
+        "El personal",
+        "El vaixell de Nuh",
+        "L'Anell de Sulaiman"
+      ],
+      "answer": "El personal"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La ciutat de Sodoma va ser destruïda",
+        "La gent va ser engolida per la terra",
+        "La gran inundació va engolir la terra",
+        "El faraó i el seu exèrcit es van ofegar",
+        "Les muralles de la ciutat es van esfondrar per un crit"
+      ],
+      "answer": "El faraó i el seu exèrcit es van ofegar"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

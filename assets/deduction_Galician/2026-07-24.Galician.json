@@ -1,0 +1,61 @@
+{
+  "title": "O conspirador velado",
+  "intro": "Atópaste en presenza dunha figura poderosa dos días da revelación. Este individuo era coñecido polo seu intelecto, riqueza e status entre o seu pobo. Cando chegaron os sinais claros, recoñeceron a beleza pero elixiron o desafío en lugar da submisión. Que levou a esta alma a conspirar na escuridade e cal foi o seu destino final?",
+  "clues": [
+    "Fun bendicido con abundantes recursos e influencia, facendo que a miña palabra fose pesada nas asembleas.",
+    "Cando se recitaban as palabras do divino, non podía negar a súa elocuencia, pero o meu orgullo non me permitía someterme.",
+    "Reunín os meus conselleiros, illándome para reflexionar sobre unha forma de desacreditar a mensaxe.",
+    "Despois de moita reflexión, declarei que non era máis que \"maxia herdada do pasado\" para espantar á xente.",
+    "A revelación dirixiuse entón directamente a min: «Déixame só co que creei». Fun sinalado polas miñas maquinacións.",
+    "Pronto, o mesmo lume do que me advertiron atraparame polo tupé, e non terei escapatoria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Conspirou para asasinar o Profeta",
+        "Liderou un boicot contra os musulmáns",
+        "Reuniron un consello para cualificar o Corán de maxia",
+        "Conspiraron para expulsar o Profeta da Meca",
+        "Negouse a compartir a súa riqueza cos orfos"
+      ],
+      "answer": "Reuniron un consello para cualificar o Corán de maxia"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Revelación",
+        "O Consello",
+        "O tupé",
+        "A riqueza",
+        "A pluma"
+      ],
+      "answer": "O tupé"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Arrepentiuse e abrazou o Islam",
+        "Emigrou a Abisinia",
+        "Foi alcanzado por unha enfermidade mortal",
+        "Morreu en combate contra os musulmáns",
+        "Foi condenado ao inferno"
+      ],
+      "answer": "Foi condenado ao inferno"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

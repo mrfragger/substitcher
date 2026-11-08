@@ -1,0 +1,61 @@
+{
+  "title": "Păstrătorii recoltei secrete",
+  "intro": "Într-un ținut verde, un grup de indivizi a pus la cale un plan secret la adăpostul întunericului. Împărtășeau un scop comun, dar intenția lor era departe de a fi dreaptă. Habar n-aveau că o răsturnare de situație divină îi aștepta în timp ce dormeau.",
+  "clues": [
+    "Am luat o hotărâre fermă, crezând că planul nostru era perfect.",
+    "Intenționam să ieșim devreme, înainte ca alții să apuce măcar să se miște.",
+    "Am pornit pe un teren fertil, încrezători în proviziile noastre.",
+    "Când am ajuns la destinație, am găsit-o sterpă și pustie, așa că am crezut că ne-am rătăcit.",
+    "Apoi ne-am dat seama că era într-adevăr locul nostru și am strigat de disperare, dând vina unul pe altul pentru pierderea noastră.",
+    "În dimineața aceea jurasem să-i excludem pe săraci de la recolta noastră, dar pedeapsa lui Allah a venit asupra noastră în timp ce dormeam, transformând grădina noastră în ruine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine suntem noi?",
+      "options": [
+        "Proprietarii grădinii din Sura 68",
+        "Oamenii din Saba",
+        "Companionii Peșterii",
+        "Oamenii elefantului",
+        "Oamenii din tranșee"
+      ],
+      "answer": "Proprietarii grădinii din Sura 68"
+    },
+    "trial": {
+      "label": "Încercarea noastră",
+      "options": [
+        "Grădina noastră a fost distrusă de o calamitate din cer",
+        "Grădina noastră a fost măturată de o inundație",
+        "Grădina noastră a fost arsă de un foc de la un inamic",
+        "Grădina noastră era plină de lăcuste",
+        "Grădina noastră a fost înghițită de un cutremur"
+      ],
+      "answer": "Grădina noastră a fost distrusă de o calamitate din cer"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Am jurat să-i culegem fructele dimineața",
+        "Am construit un baraj pentru a iriga grădina noastră",
+        "Am căutat refugiu într-o peșteră pentru protecție",
+        "Am pregătit o armată pentru a cuceri un regat",
+        "Am navigat pe o corabie pentru a traversa marea"
+      ],
+      "answer": "Am jurat să-i culegem fructele dimineața"
+    },
+    "outcome": {
+      "label": "Soarta noastră",
+      "options": [
+        "Ne-am pocăit și am nădăjduit în mila lui Allah",
+        "Am fost complet distruși și nu ne-am pocăit niciodată",
+        "Am fugit din țară și nu ne-am mai întors niciodată",
+        "Am devenit din nou puternici și bogați",
+        "Am fost pedepsiți fiind transformați în maimuțe"
+      ],
+      "answer": "Ne-am pocăit și am nădăjduit în mila lui Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

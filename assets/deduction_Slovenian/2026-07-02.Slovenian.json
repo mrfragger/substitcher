@@ -1,0 +1,61 @@
+{
+  "title": "Služabnik skrite modrosti",
+  "intro": "V obsežni tapiseriji koranskih pripovedi stoji skrivnostna figura, Alahov služabnik, obdarjen z božanskim znanjem in usmiljenjem. Ta skrivnostna oseba se je srečala z enim največjih prerokov, kar ga je vodilo na potovanje, polno zmedenih dejanj, ki so preizkušala meje človeškega razumevanja. Vsako dejanje, čeprav na videz krivično, je skrivalo globoke lekcije o usodi, potrpežljivosti in nevidni modrosti, ki se skriva za božansko odredbo. Kdo je ta senčna figura in katere resnice je razkrila?",
+  "clues": [
+    "Bil sem Alahov služabnik, izbran zaradi posebnega znanja in usmiljenja.",
+    "Veliki prerok se je želel učiti od mene in privolil sem pod strogimi pogoji.",
+    "Med najinim srečanjem sem storil tri dejanja, ki so se mojemu spremljevalcu zdela krivična.",
+    "Poškodoval sem čoln, ki je pripadal revnim ljudem, a vendar je bilo to skrito usmiljenje.",
+    "Vzel sem življenje mlademu fantu, čeprav se je zdelo kruto, da bi staršem prihranil žalost.",
+    "V mestu, ki nam je odrekalo gostoljubnost, sem obnovil zid in pod njim razkril zaklad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Al-Khidr (pravični služabnik)",
+        "Lastnik obeh vrtov",
+        "Eden od ljudi iz jame",
+        "Kralj, ki se je prepiral z Ibrahimom",
+        "Mož, ki je spal 100 let"
+      ],
+      "answer": "Al-Khidr (pravični služabnik)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Srečanje s prerokom Muso na stičišču dveh morij",
+        "Gradnja pregrade proti Gogu in Magogu",
+        "Biti vržen v velik ogenj",
+        "Delitev morja na dve polovici",
+        "Prejemanje tablic Tore"
+      ],
+      "answer": "Srečanje s prerokom Muso na stičišču dveh morij"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Stičišče obeh morij",
+        "Gora Sinaj",
+        "Jama Thawr",
+        "Dolina Tuwa",
+        "Vodnjak Zamzam"
+      ],
+      "answer": "Stičišče obeh morij"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Pojasnil je božansko modrost, ki se skriva za njegovimi zagonetnimi dejanji, in se ločil od Muse.",
+        "Po potovanju mu je bila podeljena preroška služba",
+        "Ladjo je uničila nevihta",
+        "Dečka so obudili nazaj v življenje",
+        "V negostoljubnem mestu je zgradil mošejo"
+      ],
+      "answer": "Pojasnil je božansko modrost, ki se skriva za njegovimi zagonetnimi dejanji, in se ločil od Muse."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

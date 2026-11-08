@@ -1,0 +1,61 @@
+{
+  "title": "Umphefumlo Olindileyo Ngaselunxwemeni Lomlambo",
+  "intro": "Umphefumlo omncinci waphathiswa umsebenzi oyimfihlo, wokubukela umgama okhuselekileyo njengoko ikamva lisenzeka emanzini. Engabonwa kwaye engacingelwanga, lo mntu wayeza kudlala indima ebalulekileyo ekutshintsheni imbali yesizwe.",
+  "clues": [
+    "Umama wandinika umsebenzi, owawufuna ukucacelwa nokulumka.",
+    "Amehlo am alandela ibhere elincinci elalihamba phezu komsinga, intliziyo yam ikhathazekile.",
+    "Xa yafunyanwa liqela elingalindelwanga, ndasondela, ndizele luloyiko.",
+    "Ndabona ukuphelelwa lithemba kwabo ngomntu oza kubagcina, ndaza ndabanika isisombululo ngaphandle kokutyhila inyaniso.",
+    "Ukungenelela kwam ngexesha elifanelekileyo kwabuyisela umphefumlo onobubele kulowo wawufuna kakhulu.",
+    "Kwiinkundla zabantu abanamandla, ndathi: 'Ndingakukhombisa usapho oluza kumondla luze lumnyamekele ngononophelo?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Udade boMusa",
+        "Umama kaMusa",
+        "Umfazi kaFaro",
+        "Umbelethisi",
+        "Intombi kaShu'aib"
+      ],
+      "answer": "Udade boMusa"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuphoswa komntwana emlanjeni",
+        "Ukwahlukana kolwandle",
+        "Ukutshiswa kwethole",
+        "Ukwakhiwa komkhombe",
+        "Isibetho seenkumbi"
+      ],
+      "answer": "Ukuphoswa komntwana emlanjeni"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umlambo",
+        "Intlango",
+        "Intaba",
+        "Ibhotwe",
+        "Umlilo"
+      ],
+      "answer": "Umlambo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waphinda wadibanisa umntwana nonina",
+        "Wazisindisa kumajoni kaFaro",
+        "Waba ngukumkanikazi",
+        "Wohlwaywa ngokuhlola",
+        "Wayekhokela amaSirayeli"
+      ],
+      "answer": "Waphinda wadibanisa umntwana nonina"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

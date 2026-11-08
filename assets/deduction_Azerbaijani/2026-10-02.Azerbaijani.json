@@ -1,0 +1,61 @@
+{
+  "title": "Yer kürəsinin uclarını gəzən hökmdar",
+  "intro": "Torpaq üzərində güc və səlahiyyət verilmiş güclü bir hökmdarı təsəvvür edin. Bu şəxs qeyri-adi səyahətlərə çıxdı, günəşin batdığı və doğduğu yerə çatdı, qəribə xalqlarla qarşılaşdı və iki pozğun millətin böyük bir çətinliyi ilə üzləşdi. Bu sirli lider kimdir?",
+  "clues": [
+    "Mən dünyanın ən ucqar guşələrinə çatmaq üçün səlahiyyət və vasitələrə malik bir hökmdar idim.",
+    "Qərbə səyahət etdim və günəşin bulanıq bir yazda batışının şahidi oldum.",
+    "Günəşin doğan yerinin yaxınlığında istidən qorunmaq üçün yeri olmayan bir xalqla qarşılaşdım.",
+    "Başqa bir ümmət də Yəcuc və Məcuc adlanan iki fəsad törədən ümmətə qarşı məndən kömək istədi.",
+    "Onları saxlamaq üçün dəmir və əridilmiş misdən istifadə edərək bir sədd qurdum.",
+    "Mən elan etdim ki, bu maneə Rəbbimdən bir mərhəmətdir və təyin olunmuş vaxta qədər qalacaq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Zül-Qərneyn",
+        "Süleyman peyğəmbər",
+        "Qarun",
+        "Talut",
+        "Nəmrud"
+      ],
+      "answer": "Zül-Qərneyn"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Yəcuc və Məcuc əleyhinə sədd çəkmək",
+        "Böyük bir daşqından sağ çıxmaq",
+        "Oda atılmaq",
+        "Dənizi keçmək",
+        "Nəhənglə döyüşmək"
+      ],
+      "answer": "Yəcuc və Məcuc əleyhinə sədd çəkmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Dəmir və misdən ibarət bir maneə",
+        "İlana çevrilən bir əsa",
+        "Taxtadan hazırlanmış gəmi",
+        "Şüşədən hazırlanmış saray",
+        "Xurma bağı"
+      ],
+      "answer": "Dəmir və misdən ibarət bir maneə"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Yəcuc və Məcuc təyin olunmuş vaxta qədər saxlanıldı",
+        "O, peyğəmbər oldu",
+        "O, təkəbbürlü olduğuna görə cəzalandırıldı",
+        "O, bütün dünyanı fəth etdi",
+        "O, əbədi yaşadı"
+      ],
+      "answer": "Yəcuc və Məcuc təyin olunmuş vaxta qədər saxlanıldı"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

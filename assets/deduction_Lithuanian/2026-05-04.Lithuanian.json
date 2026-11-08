@@ -1,0 +1,61 @@
+{
+  "title": "Arogancijos architektas",
+  "intro": "Senovės žemėje, valdomoje nepaklusnios jėgos, įtakingas pareigas užėmė svarbus asmuo. Ši siela atliko svarbų vaidmenį valdovo grandioziniuose planuose, prisidėjo prie jo represinio valdymo ir metė iššūkį dieviškajai žiniai. Jų palikimas yra susijęs su pasaulietinės galios siekimu ir tiesos neigimu.",
+  "clues": [
+    "Tarnavau grėsmingam valdovui, kuris ištisas kartas engė tautą.",
+    "Mano vardas dažnai minimas Dieviškojoje knygoje kartu su šiuo galingu lyderiu.",
+    "Man buvo pavesta grandiozinis statybos projektas – milžiniškas statinys, turėjęs siekti dangų.",
+    "Patariau savo šeimininkui nužudyti Izraelio vaikų sūnus ir pasigailėti jų dukterų.",
+    "Buvau įsivėlęs į sąmokslus ir planus prieš galingą Alacho pasiuntinį.",
+    "Mano galas kartu su mano šeimininku ir jo armija atėjo plačios jūros vandenyse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Nimrodas",
+        "Abraomas",
+        "Galijotas",
+        "Iblis",
+        "Hamanas"
+      ],
+      "answer": "Hamanas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Išbandomas su didžiuliais turtais",
+        "Vedant armiją prieš šventus namus",
+        "Statant bokštą, kad pasiektume Dievą",
+        "Įmesti į ugnį už savo tikėjimą",
+        "Brolių ir seserų įmetimas į šulinį"
+      ],
+      "answer": "Statant bokštą, kad pasiektume Dievą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Kalnas",
+        "Bokštas",
+        "Banginis"
+      ],
+      "answer": "Bokštas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Suteikta didžiulė išmintis",
+        "Tapimas pranašu",
+        "Prarytas žemės",
+        "Suteikus karalystę",
+        "Skęstantis jūroje"
+      ],
+      "answer": "Skęstantis jūroje"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

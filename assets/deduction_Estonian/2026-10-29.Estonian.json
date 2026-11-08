@@ -1,0 +1,61 @@
+{
+  "title": "Väike hoiatus enne marsiva väesalga ettevõtmist",
+  "intro": "Astu orgu, kuhu läheneb võimas valitseja ja tohutu väehulk, ning kujuta ette pisikest rändurit, kes annab hoiatuse, mis päästab terve kogukonna. Kui ohustatud kogukond jõuab varjule, möödub oht. Järgi vihjeid, et tuvastada hoiatuse taga peituv tähelepanuta jäetud tegelane.",
+  "clues": [
+    "Ma kuulun valitseja kuningriigiga seotud väikeste olendite hulka.",
+    "Minu kogukond elab orus asuvates elamutes, kus igaüks meist saab teistele helistada.",
+    "Me seisame silmitsi ohuga sellelt valitsejalt ja temaga koos reisivatelt armeedelt.",
+    "Mina olen see, kes kutsub oma kogukonda oma eluruumidesse sisenema ja hoiatab meid, et me ei laseks end teadmatult purustada.",
+    "Valitseja on Sulayman ja minu liik kuulub tema juhtimisele alluvate olendite hulka.",
+    "Mina olen selle oru sipelgas; pärast minu hoiatust sisenesime oma eluruumidesse ja pääsesime purustustest, mis muidu oleksid meid ootamatult tabanud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Orgu sipelgas",
+        "Kägu-kägu",
+        "Vares",
+        "Madu",
+        "Muul"
+      ],
+      "answer": "Orgu sipelgas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Hoiatus, mis säästis sipelgate kogukonna",
+        "Kalalt sõrmuse taotlus",
+        "Kadunud trooni otsingud",
+        "Varastatud silmade päästmine",
+        "Keeldumine valitseja toidu söömisest"
+      ],
+      "answer": "Hoiatus, mis säästis sipelgate kogukonna"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Sipelgate org",
+        "Sulaymani pitsatsõrmus",
+        "Yusufi vereplekiline särk",
+        "Väljarände kuldvasikas",
+        "Musa personal"
+      ],
+      "answer": "Sipelgate org"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Pärast varjupaiga otsimist säästeti kogukonda",
+        "Kogukond hävitati ilma peavarju otsimata",
+        "Kogukond pääses, sest armee taandus",
+        "Kogukond sai tasuks kontrolli lindude üle",
+        "Kogukond viidi kuninglikku õukonda vangi"
+      ],
+      "answer": "Pärast varjupaiga otsimist säästeti kogukonda"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

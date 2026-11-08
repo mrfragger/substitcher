@@ -1,0 +1,61 @@
+{
+  "title": "Dam ɗin da ya karya Masarauta",
+  "intro": "Ƙasa mai koguna masu gudana, lambuna biyu masu ganye, da wadata mara misaltuwa - amma mazaunanta sun yi sakaci ga Wanda ya albarkace su. Lokacin da tunatarwa ta zo ta dawo da su, sai suka juya baya. Abin da ya biyo baya shi ne hukunci wanda har yanzu yana amsawa a matsayin gargaɗi. Wanene wannan tsohuwar al'umma?",
+  "clues": [
+    "Mun zauna a ƙasar da ta yi albarka sosai har gidanmu yana tsakanin lambuna biyu masu ganye.",
+    "Mun ji daɗin koguna suna gudana ta cikin ƙasashenmu da kuma yalwar amfanin gona da suka cika gidajenmu.",
+    "Duk da haka lokacin da aka kira mu zuwa ga godiya da biyayya ga Ubangijinmu, sai muka juya baya cikin girman kai.",
+    "Dukiyarmu da jin daɗinmu sun sa muka manta da Wanda ya ba mu komai.",
+    "Sai wata guguwa ta zo kwatsam wadda ta ratsa babban shingen da muka dogara da shi.",
+    "Mu ne mutanen Saba', waɗanda ƙasarsu ta shahara da babban madatsar ruwa ta Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "mutanen Saba",
+        "Mutanen Tarko",
+        "Abokan Rijiyar",
+        "Mutanen Tubba'",
+        "Mutanen Midiyana"
+      ],
+      "answer": "mutanen Saba"
+    },
+    "trial": {
+      "label": "Faduwarmu",
+      "options": [
+        "Ambaliyar ruwa daga fashewar madatsar ruwa",
+        "Iska mai ƙarfi daga sama",
+        "Tana ƙonewa a cikin ramin wuta",
+        "Girgizar ƙasa mai girma",
+        "Nutsewa cikin ambaliyar ruwa mai girma"
+      ],
+      "answer": "Ambaliyar ruwa daga fashewar madatsar ruwa"
+    },
+    "location": {
+      "label": "Maɓallin Wuri",
+      "options": [
+        "Madatsar Ruwa ta Ma'rib",
+        "Dutsen Sinai",
+        "Kogon Masu Barci Bakwai",
+        "Dajin da ke Konewa",
+        "Raba Teku"
+      ],
+      "answer": "Madatsar Ruwa ta Ma'rib"
+    },
+    "outcome": {
+      "label": "Ƙaddararmu",
+      "options": [
+        "Lambuna biyu masu ɗaci sun maye gurbin lambunan mu masu kyau",
+        "Lambunanmu sun ƙara yin kyau",
+        "Ƙasa ta nutse a ƙarƙashin teku",
+        "An binne mu a cikin tokar aman wuta",
+        "Al'ummarmu ta rabu gida goma sha biyu kabilai"
+      ],
+      "answer": "Lambuna biyu masu ɗaci sun maye gurbin lambunan mu masu kyau"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

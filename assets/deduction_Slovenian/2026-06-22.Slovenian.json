@@ -1,0 +1,61 @@
+{
+  "title": "Skriti vernik",
+  "intro": "V razkošnih dvoranah moči, kjer sta vladala nevera in tiranija, je z nepričakovanega mesta spregovoril osamljen glas resnice. Ta osebnost je izzvala avtoriteto, da bi zaščitila glasnika, in tvegala lastno varnost, da bi oznanila resnico.",
+  "clues": [
+    "Živel sem v deželi velike tiranije in služil vladarju, ki je trdil, da je božanski.",
+    "Svoja prava prepričanja sem dolga leta skrival, saj sem se bal posledic njihovega razkritja.",
+    "Ko je prišel poslanec z jasnimi znamenji, sem verjel, toda moje ljudstvo se je zarotilo proti njemu.",
+    "Stal sem pred tirana in njegov svet ter trdil, da ne smejo ubiti nedolžnega glasnika.",
+    "Opozoril sem jih na kazen preteklih narodov, ki so zavračali resnico, kot sta bila Noeto in Adovo ljudstvo.",
+    "Alah me je rešil pred njihovimi zlobnimi zarotami in bil sem priča uničenju zatiralskega režima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Vernik faraonove družine",
+        "Faraonov čarovnik",
+        "Faraonov vezir",
+        "Žena faraona",
+        "Faraonov blagajnik"
+      ],
+      "answer": "Vernik faraonove družine"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Braniti preroka pred usmrtitvijo",
+        "Izzivanje čarovniških trikov",
+        "Gradnja stolpa, ki bo dosegel nebo",
+        "Razdelitev morja za pobeg",
+        "Razlaga kraljevih sanj"
+      ],
+      "answer": "Braniti preroka pred usmrtitvijo"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Faraonovo dvorišče",
+        "Goreči grm",
+        "Zlato tele",
+        "Madjanski vodnjak",
+        "Skrinja preroka Nuha"
+      ],
+      "answer": "Faraonovo dvorišče"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Rešeni pred škodo, medtem ko so bili zatiralci uničeni",
+        "Postal je močan vladar",
+        "Vrgli so ga v ogenj in iz njega izšli nepoškodovani",
+        "Požrla ga je zemlja",
+        "Štirideset let je taval po divjini"
+      ],
+      "answer": "Rešeni pred škodo, medtem ko so bili zatiralci uničeni"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

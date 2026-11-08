@@ -1,0 +1,61 @@
+{
+  "title": "Nasjonen som trosset den naturlige orden",
+  "intro": "I en region hvis historie gir gjenklang gjennom tidene, levde et samfunn i åpent opprør mot renhetslovene. Deres gjerninger var så enestående at de huskes som en advarsel for hele menneskeheten. Hvem var disse sjelene, og hvilken skjebne rammet dem?",
+  "clues": [
+    "Vi bodde i et land langs en rute som reisende ofte reiste gjennom, men vi gjorde reisen deres farefull.",
+    "Vi begikk slike uanstendige handlinger som ingen i verden noen gang hadde gjort før.",
+    "Et sendebud fra oss ba oss om å forlate våre veier, men vi avviste ham og krevde straffen hvis han var sannferdig.",
+    "Da vakre gjester kom til byen vår, forsøkte vi å angripe dem, uten å vite at de var ødeleggelsens budbringere.",
+    "Vi ble advart om en forferdelig straff hvis vi ikke avsto, men vi hånet advarselen og forble i vår synd.",
+    "Et regn av steiner fra himmelen falt over oss, og husene våre ble veltet over, og det var ikke noe spor igjen bortsett fra et tegn for dem som reflekterer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i Lut",
+        "Folket i Thamud",
+        "Folket i A'ad",
+        "Folket i Madyan",
+        "Folket på Saba"
+      ],
+      "answer": "Folket i Lut"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Begikk enestående umoral og blokkerte veier",
+        "Tilba en gullkalv",
+        "Drepte den hellige hunnkamelen",
+        "Jukset i handel og undervurderte folket",
+        "Bygde et høyt tårn for å utfordre himmelen"
+      ],
+      "answer": "Begikk enestående umoral og blokkerte veier"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Engler forkledd som kjekke gjester",
+        "En hunnkamel som kommer ut av en stein",
+        "En stav som forvandles til en slange",
+        "En båt bygget på et fjell",
+        "En ild som ble kjølig og fredelig"
+      ],
+      "answer": "Engler forkledd som kjekke gjester"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Ødelagt av et regn av steiner fra himmelen",
+        "Svelget av jorden",
+        "Druknet i en stor flom",
+        "Truffet av et skrikende smell",
+        "Forvandlet til aper"
+      ],
+      "answer": "Ødelagt av et regn av steiner fra himmelen"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

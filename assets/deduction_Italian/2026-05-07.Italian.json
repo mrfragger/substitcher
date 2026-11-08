@@ -1,0 +1,61 @@
+{
+  "title": "Il chiamante dagli abissi",
+  "intro": "Immaginate un'anima a cui è stato affidato un messaggio divino, eppure, in un momento di fretta, si è allontanata dal suo popolo senza esplicito permesso. Questo viaggio l'ha condotta ad affrontare una prova straordinaria, una profonda prova di pazienza e di fiducia nell'Altissimo. Chi è quest'individuo la cui storia ci insegna il pentimento e l'immensità della misericordia di Allah?",
+  "clues": [
+    "Sono stato mandato in una grande nazione, ma il loro iniziale rifiuto mi ha causato grande angoscia.",
+    "Ho lasciato il mio popolo, credendo che la mia missione fosse compiuta, prima di ricevere un ordine esplicito di andarmene.",
+    "Ho cercato di imbarcarmi, ma una violenta tempesta e un sorteggio hanno portato a una situazione disastrosa.",
+    "Fui gettato in mare e una possente creatura degli abissi mi inghiottì intero.",
+    "Nell'oscurità del suo ventre, ho invocato Allah, ammettendo la mia colpa e implorando il Suo perdono.",
+    "Allah comandò alla creatura di gettarmi sulla riva, e fui ristabilito in salute sotto una pianta straordinaria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Yusuf (Giuseppe)",
+        "Il profeta Nuh (Noè)",
+        "Il profeta Giona",
+        "Il profeta Salomone",
+        "Profeta Ayyub (Giobbe)"
+      ],
+      "answer": "Il profeta Giona"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La divisione del mare",
+        "Il fuoco di Nimrod",
+        "Essere inghiottito da un grande pesce",
+        "L'alluvione",
+        "La distruzione di una città mediante le pietre"
+      ],
+      "answer": "Essere inghiottito da un grande pesce"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca",
+        "Lo staff",
+        "Il ventre del pesce",
+        "Il pozzo",
+        "Il roveto ardente"
+      ],
+      "answer": "Il ventre del pesce"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Divenne un grande sovrano",
+        "Costruire la Kaaba",
+        "Ritornato per guidare una nazione pentita",
+        "Gli fu conferito il dominio sui jinn",
+        "Ha condotto le persone attraverso il deserto"
+      ],
+      "answer": "Ritornato per guidare una nazione pentita"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

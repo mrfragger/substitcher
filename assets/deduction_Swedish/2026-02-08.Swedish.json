@@ -1,0 +1,60 @@
+{
+  "title": "Den avlägsna tronens gåta",
+  "intro": "En mäktig monark, välsignad med extraordinärt herravälde, stod inför en säregen utmaning som involverade en drottning från ett avlägset land. Monarken försökte visa gudomlig makt och visdom och satte igång en otrolig händelse som trotsade tidens och rummets lagar. Kan du härleda detaljerna kring denna mirakulösa händelse?",
+  "clues": [
+    "En härskare tilldelades enorm makt, inklusive kontroll över osynliga varelser och förmågan att befalla vindarna.",
+    "Denna härskare fick höra talas om en rik drottning som dyrkade solen och bestämde sig för att bjuda in henne till hovet.",
+    "Innan drottningens ankomst uttryckte härskaren en önskan att hämta hennes magnifika maktsäte från sitt avlägsna kungarike.",
+    "En mäktig jinn erbjöd sig att hämta föremålet innan härskaren kunde resa sig från sitt råd.",
+    "Men en med djupgående kunskap om den gudomliga skriften erbjöd en ännu snabbare återhämtning och slutförde uppgiften på ett ögonblick.",
+    "Vid dess ankomst beordrade härskaren att föremålet skulle ändras för att testa drottningens intellekt och uppfattningsförmåga när hon slutligen nådde palatset."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profet/Person",
+      "options": [
+        "Profeten Mose",
+        "Profeten David",
+        "Profeten Ibrahim",
+        "Profeten Yusuf",
+        "Profeten Sulayman"
+      ],
+      "answer": "Profeten Sulayman"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Havets delning",
+        "Tålamod i motgångar",
+        "Byggandet av Kaba",
+        "Trädgårdarnas test",
+        "Att bringa drottningens tron"
+      ],
+      "answer": "Att bringa drottningens tron"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken",
+        "Personalen",
+        "Berget",
+        "Brunnen",
+        "Tronen"
+      ],
+      "answer": "Tronen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "En stor uppoffring",
+        "Ett kungarike etablerat",
+        "Ett folk som straffats",
+        "Ett nytt förbund",
+        "Drottningens underkastelse till Allah"
+      ],
+      "answer": "Drottningens underkastelse till Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

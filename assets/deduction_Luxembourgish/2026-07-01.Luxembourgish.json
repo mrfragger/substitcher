@@ -1,0 +1,61 @@
+{
+  "title": "Déi onbenannt Séil, déi géint eng ongerecht Natioun gestanen huet",
+  "intro": "Op de Säite vum Koran ginn et Figuren, deenen hir Nimm net genannt goufen, fir datt mir iwwer hir Lektioune nodenke kënnen. Eng sou Séil gouf an enger Natioun gebuer, déi hir Boten ofgeleent hat, awer dës Persoun hat e verstoppte Glawen, deen se ausgezeechent huet. Wéi d'Zerstéierung ugedeit huet, ass dës Persoun fest an hirem geheime Glawen bliwwen. Kënnt Dir d'Identitéit vun dëser mysteriéiser Figur opdecken, déi hiert Vollek warnt, ier dat lescht Uerteel kënnt?",
+  "clues": [
+    "Ech hunn ënner engem Vollek gelieft, dat d'Boten, déi hinnen vum Allah geschéckt goufen, ëmmer erëm ofgeleent huet.",
+    "Am Géigesaz zu menger Natioun hunn ech d'Wourecht erkannt, wéi e Bot mat kloere Zeeche vu mengem Här ukomm ass.",
+    "Ech hunn mäi Glawen viru mengen Ënnerdrécker verstoppt, well ech wousst, datt si mir schueden géifen, wa se mäi Glawen entdecken.",
+    "Wéi d'Uweisung vun der Strof méi no koum, hunn ech meng Loyalitéit ëffentlech erkläert a mäi Vollek gewarnt, sech selwer ze retten.",
+    "Ech hunn si drun erënnert, datt ech e vertrauenswürdege Bot sinn, net anescht wéi déi, déi virdru geschéckt goufen, an datt si nëmmen Allah ubidden sollten.",
+    "Mäi Vollek huet mech vun Zaubererei a Wahnsinn beschëllegt, awer d'Strof, virun där si gewarnt goufen, huet si schlussendlech iwwerholl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "De Prophet Hud, de Bote fir d'Leit vun Aad",
+        "E gleewegen Mann aus der Natioun vum Prophet Hud, deen ëm de Märtyrer gestuerwen ass",
+        "Den Herrscher vum Vollek vun Aad, deen d'Wourecht verworf huet",
+        "E Begleeder vum Prophet Salih, deen un den göttleche Zeeche gezweifelt huet",
+        "En Engel, deen geschéckt gouf, fir d'Leit vun Aad ze zerstéieren"
+      ],
+      "answer": "E gleewegen Mann aus der Natioun vum Prophet Hud, deen ëm de Märtyrer gestuerwen ass"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Prüfung vun Dréchent a Hongersnout, déi hir Gedold op d'Prouf gestallt huet",
+        "De Prozess fir de Glawen virun enger ënnerdréckender ongleeweger Natioun ze deklaréieren",
+        "De Prozess vum Bau vun engem Schëff fir enger grousser Iwwerschwemmung ze entkommen",
+        "D'Prouf, an d'Feier gehäit ze ginn, well een un Allah gleeft",
+        "D'Prüfung vum Räichtum a Wuelstand"
+      ],
+      "answer": "De Prozess fir de Glawen virun enger ënnerdréckender ongleeweger Natioun ze deklaréieren"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Stad Mekka, wou dat hellegt Haus gebaut gouf",
+        "D'Wüsteflächen vun der Natioun, déi hire Messenger ofgeleent hunn",
+        "D'Bierger vu Midian, wou de Prophet Schu'aib geschéckt gouf",
+        "D'Ufer vum Floss vun Egypten, wou de Prophet Musa fonnt gouf",
+        "D'Dall vun de Leit vun Aad, getraff vun engem staarke Wand"
+      ],
+      "answer": "D'Wüsteflächen vun der Natioun, déi hire Messenger ofgeleent hunn"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ech gouf an engem Schëff gerett a sinn iwwerlieft, bis Allah et wollt",
+        "Mäi Vollek huet mir nogegleeft a gouf op de riichte Wee gefouert",
+        "Ech gouf vu mengem Vollek ëmbruecht, mä meng Séil gouf duerch d'Barmhäerzegkeet vum Allah geholl.",
+        "Ech hunn no der Prüfung Reue gehat an Allah huet meng Reue akzeptéiert",
+        "Ech gouf no mengem Doud an en Idol verwandelt, dat vu mengem Vollek veréiert gouf"
+      ],
+      "answer": "Ech gouf vu mengem Vollek ëmbruecht, mä meng Séil gouf duerch d'Barmhäerzegkeet vum Allah geholl."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "tähtien valaisema varmuuden etsintä",
+  "intro": "Kuvittele seisovasi valtavan yötaivaan alla katselemassa kirkkaiden valojen nousevan ja sitten hiipuvan etsien sitä, mikä todella ansaitsee palvonnan. Ympärilläsi hiljaiset veistetyt kuvat saavat ylistystä ja uhreja, mutta selkeä järki kyseenalaistaa niiden voiman. Peloton ääni on kyseenalaistamassa perittyä perinnettä ja osoittamassa kohti taivaiden ja maan Luojaa.",
+  "clues": [
+    "Katsoin tähtiä, kuuta ja aurinkoa ja päättelin, etteivät ne voineet olla Herrani, koska ne laskevat ja katoavat.",
+    "Sanoin avoimesti irti siitä, mitä kansani palvoi Allahin ohella, ja kehotin heitä palvomaan yksin Luojaa.",
+    "Väittelin kerskailevan hallitsijan kanssa, joka väitti antavansa elämän ja kuoleman, ja vastasin mainitsemalla Allahin tuovan auringon idästä.",
+    "Minä löin epäjumalat ja murskasin ne, jättäen jäljelle vain suurimman niistä, jotta ihmiset voisivat palata niiden luo.",
+    "Kansani otti minut kiinni ja tuomitsi minut käskemällä rakentamaan rakennelman ja heittämään minut roihuavaan tuleen.",
+    "Pelastuin, kun Allah käski tulen viileydeksi ja turvaksi minulle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ibrahim (Abraham)",
+        "Profeetta Jahja (Johannes)",
+        "Profeetta Al-Yasa (Elisa)",
+        "Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Profeetta Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kohtasi epäjumalien palvonnan ja väitteli taivaankappaleiden merkityksestä",
+        "Suuri kala nielaisi hänet vihaisena lähdettyään",
+        "Johti seuraajiaan Allahin jakaman meren läpi",
+        "Herätettiin elävältä taivaisiin maistamatta kuolemaa",
+        "Nukkui luolassa kavereiden kanssa monta vuotta"
+      ],
+      "answer": "Kohtasi epäjumalien palvonnan ja väitteli taivaankappaleiden merkityksestä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Liekehtivä tuli, jonka Allah on tehnyt viileäksi ja turvalliseksi",
+        "Arkki, joka kuljetti uskovia vedenpaisumuksen läpi",
+        "Sauva, josta tuli käärme",
+        "Pöytä levitettiin taivaasta",
+        "Naaraskameli lähetettiin merkkinä"
+      ],
+      "answer": "Liekehtivä tuli, jonka Allah on tehnyt viileäksi ja turvalliseksi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Suojattu tulelta ja myönnetty vanhurskaille jälkeläisille",
+        "Hukkui kieltäjien kanssa suureen tulvaan",
+        "Muuttui sapatin rikkomisesta",
+        "Savikiviä kantavien lintujen tuhoama",
+        "Maan nielaisema aarteineen"
+      ],
+      "answer": "Suojattu tulelta ja myönnetty vanhurskaille jälkeläisille"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

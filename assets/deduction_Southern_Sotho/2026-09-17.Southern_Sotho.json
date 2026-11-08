@@ -1,0 +1,61 @@
+{
+  "title": "Tlas'a Moriti oa Palema ea Letsatsi",
+  "intro": "Pale e hlahella ea moea o arotsoeng pele ho tsoalo, o holisitsoeng ka har'a marako a halalelang, 'me o khethiloe ho jara pontšo eo lefatše le e-so ka le e bona. Ha qoso e hlaha mahlakoreng 'ohle, lentsoe le ile la tsoa libakeng tse sa lebelloang ho khutsisa lipelaelo tsohle. Na u ka fumana hore na ke mang ea tsamaileng tlas'a moriti oa palema ea palema?",
+  "clues": [
+    "Ke ne ke inehetse tšebeletsong ea Ea Matla 'Ohle pele ke hema moea oa ka oa pele, kano e entsoeng ke ea ntjarang.",
+    "Ke hōletse tlas'a tlhokomelo e hlokolosi ea mohlokomeli ea lokileng ka hare ho likamore tse halalelang tsa sebaka sa borapeli.",
+    "Neng kapa neng ha mohlokomedi oa ka a ne a tla kamoreng ea ka, o ne a fumana lijo tsa linako tsa selemo tseo ho neng ho sa lokela hore ebe li ne li le teng.",
+    "Ke ile ka fuoa litaba tse monate tsa mora, leha maemo a ka a ne a sa siee sebaka sa seo ke se tšepisitsoeng.",
+    "Ke ile ka ikhula ho ea sebakeng se hole, 'me moo sefate sa palema se ile sa mpha moriti ha molapo o phalla ka tlas'a sona.",
+    "Ha qoso e fihla 'me lipotso li mpota-pota, ke ile ka supa ngoana oa ka ea sa tsoa tsoaloa - 'me a bua ho tloha bongoaneng ho khutsisa lipelaelo tsohle."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawwa",
+        "Ummu Musa",
+        "Mosadi oa Nuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Nyeoe / Ketsahalo",
+      "options": [
+        "Ho beleha mora oa mohlolo a le mong",
+        "Ho lahleloa mollong o tukang ke barapeli ba litšoantšo",
+        "Ho pholoha moroallo o moholo le ba khethiloeng ba 'maloa",
+        "Ho aroloa ho lesea le lahleloang ka nōkeng",
+        "Ho tobana le 'musi ea matla oa Egepeta"
+      ],
+      "answer": "Ho beleha mora oa mohlolo a le mong"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Sefate sa palema le molapo o phallang ka tlas'a sona",
+        "Areka e matla holim'a maqhubu a maholo",
+        "Lere le ileng la arola leoatle le leholo ka lehare",
+        "Mollo o tukang o reretsoeng ho timetsa moea o tšepahalang",
+        "Terone ea khauta e khabisitsoeng ka majoe a bohlokoa"
+      ],
+      "answer": "Sefate sa palema le molapo o phallang ka tlas'a sona"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "O hlomphuoa e le ea phahamisitsoeng ka ho fetisisa ho basali bohle",
+        "Ke kopane hape le ngoana ea ratoang ka mor'a karohano e telele",
+        "O ile a etella sechaba sohle pele ho tsoa botlamuoeng ba mohatelli",
+        "O lemositse batho ba lahlehileng boitšoarong bo bobe",
+        "O filoe puso holim'a li-jinn, batho le meea"
+      ],
+      "answer": "O hlomphuoa e le ea phahamisitsoeng ka ho fetisisa ho basali bohle"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

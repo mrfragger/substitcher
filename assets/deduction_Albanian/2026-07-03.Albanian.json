@@ -1,0 +1,61 @@
+{
+  "title": "Lajmëtari i një mëkati të paparë",
+  "intro": "Disa histori në Kuran zbulojnë thellësinë e korrupsionit në të cilin mund të bjerë një shoqëri e tërë. Ky i dërguar qëndroi i vetëm, duke iu lutur një populli të mbytur në një perversitet që asnjë komb para tyre nuk e kishte ndjekur ndonjëherë. Pavarësisht viteve të paralajmërimit, zemrat mbetën të ngurtësuara dhe urdhri hyjnor mbërriti në një mënyrë shumë të tmerrshme. A mund ta identifikoni këtë të dërguar fisnik të Allahut?",
+  "clues": [
+    "Unë u dërgova si paralajmërues për një popull të konsumuar nga një perversitet që asnjë komb para tyre nuk e kishte bërë kurrë.",
+    "Populli im më quajti gënjeshtar dhe më kërcënoi se do të më dëbonte mua dhe ndjekësit e mi nga vendi.",
+    "Vizitorë të nderuar erdhën në shtëpinë time në formën e të rinjve grevistë dhe ndjeva shqetësim të thellë për sigurinë e tyre.",
+    "Populli im kërkoi që t’ua dorëzoja mysafirët e mi, pa e ditur se këta vizitorë ishin engjëj të dërguar nga Allahu.",
+    "Bashkëshorti/ja im/e nuk e ndante besimin tim dhe zgjodhi të qëndronte me të dënuarit.",
+    "Unë u shpëtova me bijat e mia në agim, ndërsa një shi shkatërrues gurësh ra dhe qytetet tona u përmbysën."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Lut",
+        "Profeti Shuajb",
+        "Profeti Hud",
+        "Profeti Nuh",
+        "Profeti Salih"
+      ],
+      "answer": "Profeti Lut"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Një përmbytje e madhe që përfshin tokën",
+        "Humbja e shikimit nga vuajtja e gjatë",
+        "Një tiran që pretendon hyjninë",
+        "Duke u hedhur në një zjarr të ndezur",
+        "Duke u kërkuar të dorëzoheshin mysafirët e nderuar"
+      ],
+      "answer": "Duke u kërkuar të dorëzoheshin mysafirët e nderuar"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një arkë e madhe e ndërtuar me dorë",
+        "Një shkop që ndau detin",
+        "Një deve e mrekullueshme",
+        "Një zjarr i flaktë",
+        "Qytete të përmbysura"
+      ],
+      "answer": "Qytete të përmbysura"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U mbyt ndërsa ndiqte besimtarët",
+        "I shpëtuar nga një furrë zjarri i padëmtuar",
+        "I ngritur lart në qiell i gjallë",
+        "Një familje humbi jetën në një përmbytje të madhe",
+        "Familja e shpëtuar përveç një gruaje jobesnike"
+      ],
+      "answer": "Familja e shpëtuar përveç një gruaje jobesnike"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

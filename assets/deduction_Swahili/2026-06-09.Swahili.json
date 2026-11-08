@@ -1,0 +1,61 @@
+{
+  "title": "Mwitaji Asiyeyuka wa Ukweli",
+  "intro": "Mjumbe anasimama peke yake miongoni mwa watu wakaidi, akiwaita kumwelekea Mungu Mmoja wa Kweli huku wakiendelea kushikamana na sanamu za uongo. Nabii huyu ana jina linalorudiwa na maana yenye nguvu—'yule anayetafuta ulinzi'—lakini hupokea kukataliwa na kukataliwa tu. Kupitia ushawishi mpole na onyo thabiti, roho hii hubeba ujumbe wa kimungu ambao ulimwengu wenyewe utauthibitisha hatimaye. Je, unaweza kumtambua mtu huyu imara anayewakilisha mojawapo ya masimulizi ya kale zaidi katika maandiko ya Kiislamu?",
+  "clues": [
+    "Watu wangu waliabudu miungu mingi, huku mimi nikiwaita wamtumikie Yule aliyeumba mbingu na dunia.",
+    "Nilisimama mbele ya taifa langu na kutangaza kwamba sitaomba thawabu yoyote kutoka kwao—tamaa yangu pekee ilikuwa mwongozo wao kuelekea haki.",
+    "Upepo mkubwa ulitumwa kwa watu wangu kama adhabu ya kimungu, upepo ambao Quran inauzungumzia kwa wingi na uke.",
+    "Tofauti na baadhi ya manabii, sikupewa mke au watoto waliotajwa sana katika simulizi langu, kwani dhamira yangu ilikuwa kuwaita watu wangu peke yao.",
+    "Jina langu lina maana kubwa—inayohusiana na dhana ya ulinzi na kimbilio ambalo mtu hutafuta.",
+    "Watu wangu walijulikana kwa neno maalum la kijiografia kwa bonde walilokuwa wakiishi, na ardhi yao ilielezewa kwa dharau kubwa kwa ukosefu wake wa mimea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Hud",
+        "Nabii Salih",
+        "Nabii Shu'aib",
+        "Nabii Nuh",
+        "Nabii Hudayb"
+      ],
+      "answer": "Nabii Hud"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mafuriko ya dunia",
+        "Upepo mkali",
+        "Tetemeko la ardhi la uharibifu",
+        "Ukame na njaa",
+        "Kuzama baharini"
+      ],
+      "answer": "Upepo mkali"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Bonde lenye rutuba la Yemen",
+        "Jangwa la mchanga la Midiani",
+        "Bonde la miamba la Thamud",
+        "Nchi ya kale ya watu wa 'Ad",
+        "Eneo la pwani la Misri"
+      ],
+      "answer": "Nchi ya kale ya watu wa 'Ad"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Watu wangu walitubu na kuingia peponi",
+        "Hakuna hata mmoja wa watu wangu aliyenusurika adhabu hiyo",
+        "Nilichukuliwa hai kama kaka yangu Yunus",
+        "Nilihamia pamoja na wafuasi wangu hadi nchi iliyobarikiwa",
+        "Upepo uliwaangamiza makafiri pekee huku waumini wakinusurika."
+      ],
+      "answer": "Hakuna hata mmoja wa watu wangu aliyenusurika adhabu hiyo"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

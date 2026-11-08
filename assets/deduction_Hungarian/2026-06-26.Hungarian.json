@@ -1,0 +1,61 @@
+{
+  "title": "Az elutasított ajándék terhe",
+  "intro": "Az emberiség történelmének hajnalán, amikor a föld még fiatal volt, és a világ először lélegzett, egy lélek állt a Teremtő előtt alázatos felajánlással. Ezt az áldozatot az isteni elfogadás mérlegén mérlegelték – és hiányosnak találták. Ami ezután következett, az nem a megbocsátás története volt, hanem egy féltékenység által emésztett szívé, amely egy visszafordíthatatlan cselekedethez vezetett, amely minden időkben visszhangozni fog. Ez annak a története, akinek a neve egyet jelentett a valaha elkövetett első súlyos igazságtalansággal.",
+  "clues": [
+    "Az elsők között születtem, egy olyan szülő gyermekeként, akinek a történetét jól ismered.",
+    "Egyszer áldozatot mutattam be Allahnak, de nem fogadta el tőlem – bár a testvérem áldozatát kegyelemmel fogadták.",
+    "Irigység és düh vert gyökeret a szívemben, és azzal fenyegetőztem, hogy véget vetek a saját rokonaim életének.",
+    "A testvérem figyelmeztetett, hogy féljem Allahot, de a büszkeségem nem engedte, hogy meghallgassam.",
+    "Egy szörnyű gyengeség pillanatában kimondhatatlan tettet vittem véghez a saját testvéremmel.",
+    "Utána azt sem tudtam, hogyan titkoljam el, amit tettem – mígnem egy földi teremtményt küldtek, hogy megtanítson."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Qabil (Káin)",
+        "Habil (Ábel)",
+        "Nuh próféta fia",
+        "Iszmáil próféta",
+        "Juszuf próféta"
+      ],
+      "answer": "Qabil (Káin)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy elutasított áldozat bemutatása, ami az első gyilkossághoz vezetett",
+        "Magas tornyot építve, hogy elérje az eget",
+        "Tomboló tűzbe vetve a hitéért",
+        "Saját fia feláldozása Allah iránti engedelmességből",
+        "Egy nagy hal lenyelte, mert elmenekült a kötelessége elől"
+      ],
+      "answer": "Egy elutasított áldozat bemutatása, ami az első gyilkossághoz vezetett"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy varjú, akit Allah küldött a temetés bemutatására",
+        "Egy hatalmas árvíz, amely egy egész népet elnyelt",
+        "Egy bot, amely élő kígyóvá változott",
+        "Egy nőstény teve, amely egy sziklahegyből bukkant elő",
+        "Egy fenséges trón, melyet hatalmas szelek hordoznak"
+      ],
+      "answer": "Egy varjú, akit Allah küldött a temetés bemutatására"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A megbánók közül lettem, az első elkövetett bűn terhe alatt",
+        "Allah megbocsátott és örök Paradicsomot kapott",
+        "A prófécia és a bölcsesség magas rangjára emelték",
+        "Isteni irgalom mentette meg, miután a sötétség mélyéről szólt",
+        "Uralmat kapott a dzsinnek, a szél és a tengerek felett"
+      ],
+      "answer": "A megbánók közül lettem, az első elkövetett bűn terhe alatt"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

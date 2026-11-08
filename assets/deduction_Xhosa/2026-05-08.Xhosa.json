@@ -1,0 +1,61 @@
+{
+  "title": "Umfuni Wenyaniso Oqinileyo",
+  "intro": "Ngexesha eligutyungelwe kukungaqondi nokunqulwa koothixo bobuxoki, kwavela uhambo olukhulu lokholo. Lo mntu waphikisana nemigaqo yoluntu lwakhe, efuna uMdali Oyedwa Oyinyaniso ngokuqiniseka okungagungqiyo. Lungiselela ukutyhila ubuwena bomphefumlo onelifa eliqhubeka likhuthaza izigidi zabantu.",
+  "clues": [
+    "Ndazibuza ngezidalwa zasezulwini, ndifuna iNkosi yokwenene edala nexhasa zonke izinto.",
+    "Ndayalelwa ukuba ndishiye ilizwe lam, ndihambe ndiye kwilizwe elisikelelwe ngu-Allah.",
+    "Ndizichasile izithixo zabantu bam, ndijongana nokungabi namsebenzi kwazo ngokuthe ngqo ngokuzaphula.",
+    "Ndaphoswa emlilweni ovuthayo ngabantu bam, kodwa kwaba mnandi kwaye kwaba noxolo kum ngomyalelo ka-Allah.",
+    "Ndavavanywa ngomyalelo wokuba ndinikele ngonyana wam wamazibulo endimthandayo, uvavanyo lokuzithoba ngokupheleleyo.",
+    "Mna, kunye nonyana wam, saphakamisa iziseko zeNdlu yokuqala yoNqulo eMhlabeni, indawo yokusabela yoluntu lonke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uNuh",
+        "Umprofeti uYusuf",
+        "Umprofeti uSalih",
+        "Umprofeti uIbrahim",
+        "Umprofeti uIsa"
+      ],
+      "answer": "Umprofeti uIbrahim"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Umkhukula omkhulu",
+        "Ukwahlukana kolwandle",
+        "Ukutshatyalaliswa kweThamud",
+        "Umyalelo wokunikela ngonyana",
+        "Uhambo oluya entlango kunye neTyeya"
+      ],
+      "answer": "Umyalelo wokunikela ngonyana"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Abasebenzi",
+        "INtaba yaseTur",
+        "Ityeya",
+        "IKaaba",
+        "Ithole Legolide"
+      ],
+      "answer": "IKaaba"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waba ngumlawuli waseYiputa",
+        "Abantu bakhe batshona emanzini",
+        "Wanikwa ubulumko kunye nohlanga olulungileyo",
+        "Ndaginywa yi-whale",
+        "Isixeko sakhe sabhukuqwa"
+      ],
+      "answer": "Wanikwa ubulumko kunye nohlanga olulungileyo"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

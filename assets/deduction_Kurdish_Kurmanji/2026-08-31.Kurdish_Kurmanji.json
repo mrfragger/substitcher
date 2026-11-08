@@ -1,0 +1,61 @@
+{
+  "title": "Dengê Bêdeng ê Geliyê",
+  "intro": "Di demê de vegerin cem gelek kesên bi hêz ku carekê wekî ceribandinek ecêbek zindî wergirtine. Xurtbûn û serhişkiyê çarenûsa wan mohr kir. Hûn dikarin çîrokê bişopînin û kifş bikin ka di vê xala werçerxê ya dramatîk de çi qewimî?",
+  "clues": [
+    "Ez wek ceribandinek îlahî ji bo gelek kesên bi hêz û serhildana xwe navdar hatim şandin.",
+    "Ez ecêbekî bêhempa bûm—kesekî wek min qet di nav wan de xuya nebûbû.",
+    "Min rojên alternatîf ava vexwarinê ya ji bîrekê bi gelê xwe re parve dikir.",
+    "Ji wan re hatibû gotin ku her zirarek li dijî min dê cezayek bilez bi xwe re bîne.",
+    "Yên herî wêrek ji wan guh nedan hişyariyê û min darbe kirin.",
+    "Piştî mirina min, qîrînek birûskê ji jor hemû gelê min wêran kir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Deveya Salih",
+        "Gayê Mûsa",
+        "Keştiya Nûh",
+        "Karmendê Mûsa",
+        "Textê Bilqisê"
+      ],
+      "answer": "Deveya Salih"
+    },
+    "trial": {
+      "label": "Çarenûsa Min",
+      "options": [
+        "Qazê lê hat birîn û kuştin",
+        "Wek qurbanî hate serjêkirin",
+        "Veguherî mar",
+        "Di nav lehiyê mezin de hat parastin",
+        "Zû li seranserê padîşahiyê hat anîn"
+      ],
+      "answer": "Qazê lê hat birîn û kuştin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kaniyek avê",
+        "Tabletek ji kevir",
+        "Dareke dişewite",
+        "Keştiyek ji dar",
+        "Textekî ji zêr û zîv"
+      ],
+      "answer": "Kaniyek avê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bi qîrînek yekane hate wêrankirin",
+        "Di lehiyê mezin de xeniqîn",
+        "Bi barana keviran şewitî",
+        "Bi bayekî tund ve hat şewtandin",
+        "Ji aliyê erdê ve hatiye daqurtandin"
+      ],
+      "answer": "Bi qîrînek yekane hate wêrankirin"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

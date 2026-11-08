@@ -1,0 +1,61 @@
+{
+  "title": "Hakikat Tahtı",
+  "intro": "Büyük bilgeliği ve muhteşem tahtıyla tanınan güçlü bir hükümdar, bilinmeyen bir kaynaktan gizemli bir mesaj alır. Bu beklenmedik iletişim, inançlarını ve otoritesini sorgulatır ve onu zekâsını sınayacak ve nihayetinde derin bir ruhsal uyanışa yol açacak diplomatik bir yolculuğa çıkarır. Bu hükümdarın kimliğini ve tüm krallığını dönüştüren olayları ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Ben ve halkım, atalarımızın yolunu izleyerek güneşe taptık.",
+    "Beklenmedik bir şekilde, bir ibibik kuşu bana güçlü bir liderden gelen mektubu ulaştırdı.",
+    "Gönderenin hikmetini sınamak için ona değerli hediyeler gönderdim, fakat gönderenin Allah'tan çok daha büyük bir servete sahip olması nedeniyle hediyeler geri çevrildi.",
+    "Daha gönderenin sarayına varmadan, muhteşem tahtım mucizevi bir şekilde göz açıp kapayıncaya kadar oraya taşındı.",
+    "Varışımda, taşınan tahtın benim olup olmadığı soruldu ve ben de \"Sanki ta kendisiymiş gibi\" diye yanıtladım.",
+    "Yerini su birikintisi sandığım büyük bir salona girdim ve o huşu anında, Peygamber Süleyman ile birlikte âlemlerin Rabbi olan Allah'a teslim oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Saba Kraliçesi",
+        "Züleyha (Aziz'in eşi)",
+        "Asiya (Firavunun karısı)",
+        "Musa'nın Annesi",
+        "Meryem (İsa'nın annesi)"
+      ],
+      "answer": "Saba Kraliçesi"
+    },
+    "trial": {
+      "label": "Merkezi Etkinlik",
+      "options": [
+        "Hz. Süleyman'dan bir mektup almak",
+        "ateşe atılmak",
+        "Tufandan kurtulmak için bir gemi inşa etmek",
+        "Kızıldeniz'in Yarılması",
+        "Mütevazı olmamakla suçlanmak"
+      ],
+      "answer": "Hz. Süleyman'dan bir mektup almak"
+    },
+    "location": {
+      "label": "Ana Nesne",
+      "options": [
+        "Muhteşem bir taht",
+        "altın buzağı",
+        "Çok renkli bir ceket",
+        "Yılana dönüşen bir asa",
+        "Tahta ve çivilerden yapılmış bir gemi"
+      ],
+      "answer": "Muhteşem bir taht"
+    },
+    "outcome": {
+      "label": "Nihai Sonuç",
+      "options": [
+        "Tek gerçek Tanrı'ya (Allah'a) teslim olmak.",
+        "Tuz sütununa dönüştürülmek",
+        "Tanrıya ulaşmak için yüksek bir kule inşa etmek",
+        "Büyük bir balık tarafından yutulmak",
+        "Ceza olarak muazzam serveti kaybetmek"
+      ],
+      "answer": "Tek gerçek Tanrı'ya (Allah'a) teslim olmak."
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ireo Iraka Mpamindra Fo sy Hery",
+  "intro": "Alaivo sary an-tsaina ny tolakandro mangina iray izay tapaka noho ny fahatongavan'ireo mpandeha tsy mahazatra. Tsotra ny endrik'izy ireo, saingy tsy izany mihitsy no tanjony. Mitondra hafatra masina izay hanova ny lalan'ny firenena roa izy ireo, ka hitondra fihomehezana ho an'ny trano tsy misy mponina ary horohoro ho an'ny tanàna mpanota. Iza moa ireo mpitsidika mistery ireo?",
+  "clues": [
+    "Nirahina ho any amin'ny mpanompon'i Allah iray mahafoy tena izahay, izay fantatra amin'ny fahaizany mandray vahiny tsy manam-petra.",
+    "Tonga izahay niseho ho vahiny, nefa nahatsapa zavatra hafahafa momba ny fanatrehanay ilay mpampiantrano anay.",
+    "Nitondra vaovao izay nampihomehy vehivavy zokiolona iray noho ny tsy finoana izahay, sady nahagaga ny tarehiny ihany koa.",
+    "Nasaina niaro fianakaviana marina iray izahay sady nandatsaka fandravana tamin'ny tanàna iray feno kolikoly.",
+    "Tsy nety nihinana ny sakafo natolotra anay izahay, ka vao mainka izany nahatonga ny fiahiahian’ilay mpampiantrano anay.",
+    "Nasehonay ny tena toetranay talohan'ny niainganay, ka hoy izahay: 'Marina tokoa fa iraky ny Tomponao izahay.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Ireo Vahinin'i Abrahama",
+        "Ireo mpianatr'i Jesosy",
+        "Ireo mpiara-dia amin'ny lava-bato",
+        "Ny tafik'i Abraha",
+        "Ireo iraka avy any Ya-Sin"
+      ],
+      "answer": "Ireo Vahinin'i Abrahama"
+    },
+    "trial": {
+      "label": "Ny iraka ataonay",
+      "options": [
+        "Mba hitsapana ny finoan'i Abrahama ny amin'ny zanany lahy",
+        "Mba hanolotra ny soratra masina amin'i Abrahama",
+        "Hanambara ny nahaterahan'i Isaka sy ny fandringanana ny olon'i Lota",
+        "Mba hitarihana an'i Abrahama ho any amin'ny Kaaba",
+        "Mba hamonjena an'i Abrahama tamin'ny afo"
+      ],
+      "answer": "Hanambara ny nahaterahan'i Isaka sy ny fandringanana ny olon'i Lota"
+    },
+    "location": {
+      "label": "Toerana nisehoana",
+      "options": [
+        "Any amin'ny tany Ejipta",
+        "Ao amin'ny tanànan'i Ora",
+        "Tao an-tranon'i Abrahama",
+        "Ao amin'ny zaridainan'i Edena",
+        "Ao amin'ny fantsakan'i Zamzam"
+      ],
+      "answer": "Tao an-tranon'i Abrahama"
+    },
+    "outcome": {
+      "label": "Ny vokany",
+      "options": [
+        "Lasa mpanjaka i Abrahama",
+        "Nanangana ny Kaaba i Abrahama",
+        "Niteraka an'i Isaka i Saraha ary naringana ny olon'i Lota",
+        "Nifindra tany Palestina i Abrahama",
+        "Voavonjy tamin'ny safodrano lehibe ny vahoakan'i Abrahama"
+      ],
+      "answer": "Niteraka an'i Isaka i Saraha ary naringana ny olon'i Lota"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

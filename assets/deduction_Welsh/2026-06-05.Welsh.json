@@ -1,0 +1,61 @@
+{
+  "title": "Y Ceiswyr Gwirionedd Gostyngedig",
+  "intro": "Mewn gwlad o rym a dewiniaeth hynafol, mae gwrthdaro mawr yn datblygu. Mae un ochr yn defnyddio awdurdod arwyddion dwyfol, tra bod y llall yn ceisio cyfateb i'r amhosibl. Bydd y canlyniad yn newid cwrs hanes am byth. A allwch chi ddatgelu hunaniaeth y rhai a welodd y gwirionedd eithaf ac a ostyngodd eu hunain o'i flaen?",
+  "clues": [
+    "Gwelsom arwyddion a aeth y tu hwnt i driciau dewiniaeth",
+    "Syrthiasom i gyd mewn ymostyngiad, yn methu gwadu'r gwir",
+    "Fe wnaethon ni gydnabod bod yr arwyddion hyn wedi dod oddi wrth yr Un Gwir Dduw",
+    "Ni oedd y gymuned gyntaf i gofleidio ffydd mewn ffordd mor ddramatig",
+    "Addawyd paradwys inni fel ein gwobr am ein cred",
+    "Daeth ein rhaffau a'n ffyn yn nadroedd o flaen ein llygaid, ond fe ddewison ni ufuddhau"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Dewiniaid y Pharo",
+        "Pobl y Proffwyd Ibrahim",
+        "Y ceiswyr gwirionedd gostyngedig",
+        "Pobl yr Ogof",
+        "Cenedl y Frenhines Bilqis"
+      ],
+      "answer": "Dewiniaid y Pharo"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Y cyfarfyddiad â staff y Proffwyd Musa",
+        "Treial gwynt y Proffwyd Hud",
+        "Yr her gan gamel benywaidd y Proffwyd Salih",
+        "Y llifogydd mawr a anfonwyd ar broffwyd",
+        "Taith proffwyd y tu mewn i forfil"
+      ],
+      "answer": "Y cyfarfyddiad â staff y Proffwyd Musa"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr Hen Aifft",
+        "Y tŷ cysegredig ym Makkah",
+        "Dinas Midian",
+        "Anialwch Thamud",
+        "Ogof y cysgwyr hynafol"
+      ],
+      "answer": "Yr Hen Aifft"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Paradwys fel eu gwobr",
+        "Cosb yn y bedd",
+        "Colli eu gerddi toreithiog",
+        "Dinistr gan ddaeargryn sydyn",
+        "Achub rhag morfil mawr"
+      ],
+      "answer": "Paradwys fel eu gwobr"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

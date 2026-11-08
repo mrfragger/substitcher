@@ -1,0 +1,61 @@
+{
+  "title": "Maƙiyin Wuta",
+  "intro": "A farkon zamanin wahayi, wani mutum ya bayyana a matsayin mai taurin kai ga gaskiya. Albarkacin wadata da matsayi, wannan rai ta zaɓi girman kai fiye da shiriya, kuma labarinsu ya zama gargaɗi mai ƙarfi a cikin ayoyin ƙarshe na sura.",
+  "clues": [
+    "Na zauna a birni ɗaya da Annabi, kuma ina cikin danginsa mafi kusanci da shi, duk da haka girman kai na ya nisanta ni daga gaskiya.",
+    "Ina da dukiya mai yawa da kadarori da yawa, kuma na yi tunanin albarkatuna za su kare ni koyaushe.",
+    "Da aka bayyana saƙon, sai na yi masa ba'a a fili na juya baya, ina ɗaukar kaina a matsayin wanda ya fi muminai.",
+    "Ƙiyayyata ta yi muni sosai har wata sura ta Alƙur'ani ta yi mini magana kai tsaye, tana kiran ni da sunan da wasu suka san ni.",
+    "An yi mini gargaɗi cewa dukiyata da abin da na samu ba za su amfane ni ba, kuma za a jefa ni cikin wuta mai ƙuna.",
+    "An san ni da uban harshen wuta, kuma matata za ta ɗauki itacen wuta da igiyar zare a wuyanta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As bin Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ya ƙi Musulunci kuma ya nuna adawarsa ga Annabi a fili",
+        "An shirya makircin kashe Annabi",
+        "Ya jagoranci zanga-zangar kin jinin Musulunci a bainar jama'a",
+        "Yaƙi a Yaƙin Badr",
+        "Bilal ibn Rabah wanda aka azabtar"
+      ],
+      "answer": "Ya ƙi Musulunci kuma ya nuna adawarsa ga Annabi a fili"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Igiya ta zare ta dabino",
+        "Takobi mai kaifi",
+        "Sarka mai nauyi",
+        "Sanda na katako",
+        "Bulalar fata"
+      ],
+      "answer": "Igiya ta zare ta dabino"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Zai ƙone a cikin wuta mai zafi",
+        "Ya tuba ya zama abokin tarayya",
+        "Ya yi asarar dukiyarsa amma ya mutu a matsayin wanda aka girmama",
+        "Na gudu zuwa Habasha",
+        "An nutsar da shi cikin teku"
+      ],
+      "answer": "Zai ƙone a cikin wuta mai zafi"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

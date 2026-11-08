@@ -1,0 +1,61 @@
+{
+  "title": "Głos z peryferii",
+  "intro": "Stoisz w mieście, do którego przybyło trzech posłańców z jasnymi znakami, ale ludzie wyśmiewają ich i trzymają się starych zwyczajów. Z najdalszego zakątka miasta, zdyszana i zdeterminowana, by mówić prawdę w obliczu odrzucenia, pędzi w stronę tłumu jakaś postać. Kim jest ta dusza, która zaryzykowała wszystko dla przesłania, które nie jest jej własne?",
+  "clues": [
+    "Mieszkałem wśród ludu, który przyjmował posłańców z jasnymi znakami, a jednak odwrócili się z arogancją.",
+    "Przybiegłem z najdalszego zakątka miasta, gdy usłyszałem wezwanie posłańców.",
+    "Powiedziałem mojemu ludowi: „O mój ludu, podążajcie za posłańcami. Podążajcie za tymi, którzy nie żądają od was żadnej nagrody, bo oni są właściwie prowadzeni”.",
+    "Nie byłem prorokiem, ale wierzyłem w posłańców i namawiałem swój lud, aby czynił to samo.",
+    "Moi ludzie wyśmiali moją radę i oskarżyli mnie o ekstremizm.",
+    "Kiedy mnie zabili, Allah powiedział mi, że mogę pójść do Raju, a ja życzyłem swojemu ludowi, aby dowiedział się o przebaczeniu i czci, jakie otrzymałem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Mężczyzna z najdalszej części miasta (Jasin)",
+        "Jeden z trzech posłańców wysłanych do miasta",
+        "Wybitny kupiec miasta",
+        "Władca miasta",
+        "Przywódca niewiernych"
+      ],
+      "answer": "Mężczyzna z najdalszej części miasta (Jasin)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Nawołując swój lud do naśladowania posłańców",
+        "Budowa statku, aby uratować wierzących przed potopem",
+        "Wrzucony w ogień za wiarę",
+        "Połknięcie przez wieloryba",
+        "Otrzymanie królestwa i mądrości"
+      ],
+      "answer": "Nawołując swój lud do naśladowania posłańców"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Najdalsza część miasta",
+        "Arka",
+        "Studnia",
+        "Płonący krzew",
+        "Jaskinia"
+      ],
+      "answer": "Najdalsza część miasta"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wszedł do Raju i życzył swojemu ludowi, aby mógł poznać Jego przebaczenie",
+        "Utonął wraz ze swoim ludem za odrzucenie przesłania",
+        "Otrzymał cud wielbłądzicy",
+        "Został władcą po swoim procesie",
+        "Został ocalony przez Allaha i pozostał ze swoim ludem"
+      ],
+      "answer": "Wszedł do Raju i życzył swojemu ludowi, aby mógł poznać Jego przebaczenie"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

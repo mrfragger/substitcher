@@ -1,0 +1,61 @@
+{
+  "title": "Baat bi baña am yaakaar",
+  "intro": "Duggal ci kër gu ñàkk gu topp ñàkk, waaye benn baat bu dal te baña ñàkka am yaakaar. Benn woote ci Al Qur'an dafay soppi muñ nekk jéego bu am solo; Ndax mën nga topp tegtal yi ci nit ki ci ginaaw baat boobu?",
+  "clues": [
+    "Man maay baatu muñ ci biir kër gu musiba di natt barkeb Yàlla.",
+    "Ma des ci kër gu amul kenn ndax ñàkka am alal ak samay doom.",
+    "Xamoon naa ni feebar bi dafa dal sama àndadoo boobu itam, ndax yaram wi dafa mettiwoon lool.",
+    "Bi coono bi gënee tar, ma woote ak fàttali Yàlla.",
+    "Maa ngi wax benn yoon: Yàlla mooy Dëgg, kon muñleen.",
+    "Ma woo Ayyub ci turam; Ginaaw loolu Yàlla dindi na tiis wi, indiwaat famiy bi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Soxna Seydina Ayyub",
+        "Jabar Yonent Nuh",
+        "Soxna Seydina Ibrahim",
+        "Soxna Yonent Ya'qub",
+        "Doom ju jigéen ju Firawna"
+      ],
+      "answer": "Soxna Seydina Ayyub"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Dese ak Ayyub ci ñàkk ak feebar, ba noppi woo mu muñ",
+        "Àrtu ab ndaw bu jub mu bàyyi askan wu yàqu",
+        "Ñaanal juddug mbokk ëlëg",
+        "Tekki ay gént ci biir kaso bu buur",
+        "Gis xale buñu wóolu ci wetu dex"
+      ],
+      "answer": "Dese ak Ayyub ci ñàkk ak feebar, ba noppi woo mu muñ"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Wax ni Yalla moy Dëgg ak muñ lay laaj",
+        "Garab palme ci wetu ndox mi",
+        "woote ngir tabax gaal gu sori ci vague yi",
+        "Geestu fukk ak benn biddiiw ak jant buy fenk",
+        "Basket bu ñuy yóbbu ci wetu dexu Nile"
+      ],
+      "answer": "Wax ni Yalla moy Dëgg ak muñ lay laaj"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ayyub dindi nañu tiis wi, njabootam delluwaat",
+        "Xale buñu yàgg a xaar, ñu may ko ginaaw bi ñu ñaanee lu amul doom",
+        "Benn njiit bu ndaw dafa tekki juróom ñaari at yu bari ak ñàkk",
+        "Xale bu ñu wóolu lañu muccal ci ndox muy wal",
+        "Àrtu dafa jiitu mbënd buy yàq"
+      ],
+      "answer": "Ayyub dindi nañu tiis wi, njabootam delluwaat"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

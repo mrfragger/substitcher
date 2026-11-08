@@ -1,0 +1,61 @@
+{
+  "title": "Vankumatu tõe kutsuja",
+  "intro": "Sõnumitooja seisab üksi kangekaelse rahva seas, kutsudes neid ühe tõelise Jumala poole, samal ajal kui nad jäävad kinni valejumalatest. Sellel prohvetil on nimi, millel on võimas tähendus – „see, kes otsib kaitset” –, kuid saab vaid tagasilükkamist ja eitamist. Õrna veenmise ja kindla hoiatuse kaudu kannab see hing jumalikku sõnumit, mille universum ise lõpuks õigustab. Kas suudad ära tunda selle vankumatu tegelase, kes esindab ühte islami pühakirjade vanimat narratiivi?",
+  "clues": [
+    "Mu rahvas kummardas paljusid jumalaid, samal ajal kui mina kutsusin neid teenima Teda, kes on loonud taevad ja maa.",
+    "Seisin oma rahva ees ja kuulutasin, et ma ei oota neilt mingit tasu – minu ainus soov on nende juhatus õigluse poole.",
+    "Jumaliku karistusena saadeti mu rahvale suur tuul, tuul, millest Koraan räägib nii mitmuses kui ka naissoost vormis.",
+    "Erinevalt mõnest prohvetist ei antud mulle oma loos silmapaistvalt mainitud naist ega lapsi, sest minu missiooniks oli kutsuda üksi oma rahvast.",
+    "Mu nimel on sügav tähendus – see on seotud kaitse ja pelgupaiga otsimisega.",
+    "Minu rahvast tunti oru järgi kindla geograafilise nimetuse järgi, mida nad asustasid, ja nende maad kirjeldati erilise põlgusega taimestiku puudumise tõttu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Hud",
+        "Prohvet Salih",
+        "Prohvet Shu'aib",
+        "Prohvet Noa",
+        "Prohvet Hudayb"
+      ],
+      "answer": "Prohvet Hud"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Maa üleujutus",
+        "Kõrvetav tuul",
+        "Hävingu maavärin",
+        "Põud ja nälg",
+        "Uppumine merre"
+      ],
+      "answer": "Kõrvetav tuul"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Jeemeni viljakas org",
+        "Midjani liivane kõrb",
+        "Thamudi kivine org",
+        "'Ad rahva iidne maa",
+        "Egiptuse rannikuala"
+      ],
+      "answer": "'Ad rahva iidne maa"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Mu rahvas kahetses ja sisenes paradiisi",
+        "Ükski minu rahvas ei jäänud karistust ellu",
+        "Mind viidi elusalt üles nagu mu vend Yunus",
+        "Ma rändasin oma järgijatega õnnistatud maale",
+        "Tuul hävitas ainult uskmatud, usklikud jäid ellu"
+      ],
+      "answer": "Ükski minu rahvas ei jäänud karistust ellu"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

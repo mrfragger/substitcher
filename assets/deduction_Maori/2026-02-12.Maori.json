@@ -1,0 +1,60 @@
+{
+  "title": "Te Merekara o te Whakamātautau Wahangu",
+  "intro": "Ka tūtaki koe ki tētahi kōrero mō te wawaotanga mai o te Atua, he kōrero mō te manaakitanga whakamiharo me te parenga kore e taea te kōrero, e haruru tonu ana i roto i te wā. Ka taea e koe te hura ko wai i tūtaki ki tēnei whakamātautau whakamiharo?",
+  "clues": [
+    "I whiwhi ahau i tētahi karere atua i miharo ai ahau",
+    "I pātai taku iwi mō tōku parakore i taku hokinga mai me te tamaiti",
+    "I whakahaua ahau kia nohopuku i te kōrero mō tētahi wā",
+    "Nā te puna wai me ngā tāte ahau i tautoko i ahau i taku whakamātautau",
+    "I ruia e tōku Ariki tētahi rākau whakamiharo hei whāngai i ahau",
+    "I puta mai tētahi anahera ki ahau i roto i te āhua o tētahi tangata tino tika"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Meriama",
+        "Āhia",
+        "Hawa",
+        "Hera",
+        "Khadijah"
+      ],
+      "answer": "Meriama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whānautanga takitahi i raro i te nikau",
+        "Te aro atu ki te matekai whakamate",
+        "Te maka ki roto i te poka mura ahi",
+        "Te rere atu i tētahi rangatira nanakia",
+        "Te tiaki i tētahi taonga tapu"
+      ],
+      "answer": "Te whānautanga takitahi i raro i te nikau"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Rākau pāma",
+        "Te rakau e mura ana",
+        "Temepara kōhatu",
+        "Awa o te Nile",
+        "Maunga Hinai"
+      ],
+      "answer": "Rākau pāma"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakamātauhia tōku harakore i te wā i kōrero ai taku tamaiti pēpi",
+        "I riro ahau hei kuīni whakahonoretia",
+        "I whakangaromia tōku iwi e te whiu a te Atua",
+        "Nāku i ārahi tōku iwi ki te wikitoria",
+        "I puta ake he puna whakamiharo mō ake tonu atu"
+      ],
+      "answer": "I whakamātauhia tōku harakore i te wā i kōrero ai taku tamaiti pēpi"
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

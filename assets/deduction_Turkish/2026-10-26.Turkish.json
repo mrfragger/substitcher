@@ -1,0 +1,61 @@
+{
+  "title": "Rüzgarda Fısıltı",
+  "intro": "Görünmeyen ve görünenin iç içe geçtiği bir diyarı hayal edin ve eşi benzeri olmayan bir krallığın kalbinde duran bir figürün önünde durun. Bu ruh, sıradan insanların ulaşamayacağı bir bilgiye sahip ve başkalarının ancak hayal edebileceği güçlere hükmediyor. Yine de, en güçlüler bile minicik bir yaratık karşısında boyun eğebilir ve gerçek, belirlenen zamana kadar gizli kalabilir. Mirası çağlar boyunca yankılanan bu figür kimdir?",
+  "clues": [
+    "Bana, benden sonra kimsenin sahip olamayacağı bir krallık verildi.",
+    "Sevgili ebeveynimden bilgi ve bilgelik miras aldım.",
+    "Rüzgar benim emrim altındaydı, istediğim yere benim talimatımla gidiyordu.",
+    "Kuşların konuşmalarını anlayabiliyordum ve onlar benim ordumda görev yapıyorlardı.",
+    "Küçük bir kuştan, güneşe tapan bir kraliçe hakkında haber aldım.",
+    "Ölümüm, yeryüzünden bir yaratık asamı yutana kadar gizli kaldı ve ancak o zaman cinler görünmeyeni bilmediklerini anladılar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Süleyman (Solomon)",
+        "Peygamber Davud (David)",
+        "Peygamber Musa (Musa)",
+        "Peygamber İsa (İsa)",
+        "Peygamber Nuh (Noah)"
+      ],
+      "answer": "Peygamber Süleyman (Solomon)"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Saba Kraliçesi'nin ziyareti",
+        "ateşe atılmak",
+        "denizi ikiye ayırmak",
+        "Bir gemi inşa etmek",
+        "Bir balina tarafından yutulmak"
+      ],
+      "answer": "Saba Kraliçesi'nin ziyareti"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Topraktan bir yaratık tarafından tüketilen asa",
+        "Yılana dönüşen asa",
+        "Dişi deve",
+        "Gemi",
+        "Balina"
+      ],
+      "answer": "Topraktan bir yaratık tarafından tüketilen asa"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Ölümü, asası yenene kadar cinlerden gizlendi.",
+        "O, diri olarak göklere yükseltildi.",
+        "Allah'ın emriyle ateşten kurtuldu.",
+        "Ona Tevrat verildi.",
+        "Balinadan kurtarıldı."
+      ],
+      "answer": "Ölümü, asası yenene kadar cinlerden gizlendi."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

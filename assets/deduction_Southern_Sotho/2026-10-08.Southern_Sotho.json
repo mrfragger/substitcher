@@ -1,0 +1,61 @@
+{
+  "title": "Babetli ba Majoe ba Phuleng ea Boholo-holo",
+  "intro": "Ak'u nahane ka tsoelo-pele e ileng ea hlaha likhohlong tse mafika tsa Arabia, e nang le tsebo ea ho betla matlo a matle a tsoang lithabeng. Ba ile ba atleha ka matla le bonono, empa pale ea bona e tšoauoa ka ho se mamele temoso ea bomolimo ka mokhoa o tšosang. Ha u ntse u teba paleng ea bona, u tla sibolla batho bao boikhohomoso ba bona bo ileng ba ba isa timetsong e feletseng. E ne e le bo-mang?",
+  "clues": [
+    "Re ruile naha ea lithota tse mafika le mafika a malelele, moo re hahileng matlo a rona ka tsebo e ke keng ea bapisoa.",
+    "Re ne re tsebahala ka ho betla matlo a sireletsehileng lithabeng, re ikutloa re sireletsehile kotsing efe kapa efe.",
+    "Moromuoa o tlile ho rona a tsoa har'a rona, a re hopotsa ka melemo ea Allah le ho re lemosa ka kotlo.",
+    "Re ile ra kopa pontšo, 'me kamele e tšehali ea mohlolo ea hlaha lefikeng, e le teko e hlakileng e tsoang ho Allah.",
+    "Re ile ra hana temoso mme ra kgaola kamele e tshehadi mesifa, ra soma lenqosa mme ra phephetsa kotlo.",
+    "Ho ile ha re hlahela hanngoe feela malapeng a rona, 'me hoseng ra robala fatše, joalokaha eka ha re e-s'o ka re lula moo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Batho ba Thamud",
+        "Batho ba 'Ad",
+        "Batho ba Madyan",
+        "Batho ba Nuh",
+        "Batho ba Lute"
+      ],
+      "answer": "Batho ba Thamud"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O ile a khaola kamele e tšehali ka sekhomaretsi",
+        "O ile a roba Sabatha",
+        "O ile a rapela namane ea khauta",
+        "A bolaea moprofeta ea rometsoeng ho bona",
+        "Ke hahile tora ho fihla leholimong"
+      ],
+      "answer": "O ile a khaola kamele e tšehali ka sekhomaretsi"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Kamele e tšehali",
+        "Areka",
+        "Basebetsi",
+        "Letsoho le lesoeu",
+        "Manna le likoekoe"
+      ],
+      "answer": "Kamele e tšehali"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E sentsoe ke ho phatloha",
+        "E pholositsoe timetsong",
+        "E fetohile litšoene",
+        "Ho khangoa ke metsi leoatleng",
+        "E metsoa ke lefats'e"
+      ],
+      "answer": "E sentsoe ke ho phatloha"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

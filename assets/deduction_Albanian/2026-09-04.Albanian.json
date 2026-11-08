@@ -1,0 +1,61 @@
+{
+  "title": "Melodia që lëvizi malet",
+  "intro": "Je gati të zbulosh historinë e një shërbëtori të shquar të Allahut. Në një vend të lajmëtarëve dhe sundimtarëve, kjo figurë u bekua me një libër hyjnor, një zë të fuqishëm dhe forcë mbi hekurin. Ndërsa lexon të dhënat, a mund ta identifikosh se kush mund të jetë ky?",
+  "clues": [
+    "Unë isha një shërbëtor i Allahut të cilit i ishte dhënë një libër i veçantë.",
+    "Kisha një zë të bukur dhe lavdërimi im ishte aq i dashur saqë edhe kodrat dhe zogjtë u bashkuan me mua.",
+    "U përballa me një kundërshtar të frikshëm në një betejë të famshme dhe, megjithëse isha më i vogël, fitova.",
+    "Hekuri u bë i lakueshëm për mua, duke më lejuar të krijoja armaturë me duart e mia.",
+    "U bëra sundimtar mbi një komb të madh dhe mençuria ime në gjykim u bë e famshme.",
+    "Djalit tim, gjithashtu një profet, iu dha kontroll mbi erën dhe xhindët."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Davud (David)",
+        "Profeti Sulejman (Solomon)",
+        "Profeti Musa (Moisiu)",
+        "Profeti Harun (Aaron)",
+        "Profeti Ilyas (Elias)"
+      ],
+      "answer": "Profeti Davud (David)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Goliathin (Jalutin) e mposhti",
+        "E ndau detin",
+        "I mbijetoi balenës",
+        "U hodh në zjarr",
+        "Ndërtoi Arkën"
+      ],
+      "answer": "Goliathin (Jalutin) e mposhti"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Zaburi (Psalmet)",
+        "Tora (Tewrati)",
+        "Ungjilli (Inxhili)",
+        "Rrotullat e Ibrahimit",
+        "Kurani"
+      ],
+      "answer": "Zaburi (Psalmet)"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U bë profet dhe mbret i Izraelit",
+        "U bë sundimtar i Egjiptit",
+        "U ngrit në qiell",
+        "U shkatërrua nga një stuhi",
+        "U bë shok i shpellës"
+      ],
+      "answer": "U bë profet dhe mbret i Izraelit"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

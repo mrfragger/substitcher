@@ -1,0 +1,61 @@
+{
+  "title": "Para Utusan Welas Asih lan Kakuwatan",
+  "intro": "Bayangna wayah sore sing sepi diganggu dening tekane para wisatawan sing ora dikenal. Penampilane biasa wae, nanging tujuane ora kaya ngono. Dheweke nggawa pesen ilahi sing bakal ngowahi dalane rong negara, nggawa guyonan menyang omah sing tandus lan teror menyang kutha sing dosa. Sapa wae para pengunjung misterius iki?",
+  "clues": [
+    "Kita diutus menyang abdine Allah sing setya, sing dikenal amarga keramahane sing tanpa wates.",
+    "Awaké dhéwé teka kanthi samaran wong liyo, nanging sing duwé omah ngrasakaké ana sing ora lumrah babagan anané awaké dhéwé.",
+    "Kita nggawa kabar sing nggawe wong wadon tuwa ngguyu ora percaya, lan uga kaget nalika ndeleng raine dhewe.",
+    "Kita diwenehi tugas kanggo nglindhungi kulawarga sing bener nalika ngrusak kutha sing kebak korupsi.",
+    "Awaké dhéwé ora gelem mèlu mangan sing ditawakake, sing mung nambahi rasa curigané sing duwé omah.",
+    "Kita mung nuduhake sipat sejati kita sadurunge budhal, karo ngucap, 'Saktemene, kita iki utusane Gustimu.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Kita?",
+      "options": [
+        "Para Tamu Abraham",
+        "Para Muridé Yésus",
+        "Para Pengiring Gua",
+        "Tentara Abrahah",
+        "Para Rasul Ya-Sin"
+      ],
+      "answer": "Para Tamu Abraham"
+    },
+    "trial": {
+      "label": "Misi Kita",
+      "options": [
+        "Kanggo nguji imané Abraham marang anaké",
+        "Kanggo ngaturake kitab suci marang Abraham",
+        "Kanggo ngumumake lairé Ishak lan karusakané bangsané Lut",
+        "Kanggo nuntun Nabi Ibrahim menyang Ka'bah",
+        "Kanggo nylametake Abraham saka geni"
+      ],
+      "answer": "Kanggo ngumumake lairé Ishak lan karusakané bangsané Lut"
+    },
+    "location": {
+      "label": "Panggonan Penampilan",
+      "options": [
+        "Ing tanah Mesir",
+        "Ing kutha Ur",
+        "Ing omahé Abraham",
+        "Ing taman Eden",
+        "Ing sumur Zamzam"
+      ],
+      "answer": "Ing omahé Abraham"
+    },
+    "outcome": {
+      "label": "Asil kasebut",
+      "options": [
+        "Abraham dadi raja",
+        "Nabi Ibrahim mbangun Ka'bah",
+        "Sarah nglairaké Iskak lan bangsané Lut dirusak",
+        "Nabi Ibrahim hijrah menyang Palestina",
+        "Bangsane Nabi Ibrahim slamet saka banjir gedhe"
+      ],
+      "answer": "Sarah nglairaké Iskak lan bangsané Lut dirusak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

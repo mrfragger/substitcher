@@ -1,0 +1,61 @@
+{
+  "title": "Quri yant’äwin jan mayjt’ir aliado",
+  "intro": "Mä jach’a profetan ch’amapanxa, mä jach’a misión ukan yanapt’añatakix mä almaw ajllitäna, jupax wali suma arst’asir ukhamarak iyawsäwiniwa. Uka jakhüwijj kunapachatï walja jaqenakajj mayjtʼayapjjäna ukhajja, mä qhanpach jan wali luräwi contraw yatiyäna, uka juchajj monoteísmo religionan chuymaparuw jan waltʼayäna. Kunapachatï profetajj jaqenakan pantjasitap uñjir kuttʼankäna ukhajja, uka jaqen arjjatapajj janiw juchañchatäkänti, jan ukasti lurañapa ukat tʼaqa tʼaqa sarnaqañ ajjsarañaw utjäna. ¿Khitis aka Allahan taqi chuyma luqtiripaxa?",
+  "clues": [
+    "Nayax Allah-an ajllitätwa mä qullan lurañatak maynimp chika, ukat lurawijax yanapt’añawa ukat yatiyañawa.",
+    "Nayarojj qhana arstʼañaw wakisïna, ukat mä yatiyirimp chikaw mä chʼamani tʼaqhesiyirimpi uñkatasiñatak sarayäta.",
+    "Mä jachʼa thaknam sarkasaxa, uka yatiyirix sapakiw mä qullur makatäna, ukat jaqinakar uñjañajatakiw jaytawayitu.",
+    "Jan ukankapkäna ukhajja, jaqenakajj qorit lurat mä idolo lurapjjerïna, ukatwa Diosar jan jitheqtapjjañapatak achiktʼasiyäta, ukampis janiw ewjjtʼajar istʼapkänti.",
+    "Kunapachatï uka yatiyirix kuttʼankäna ukhaxa, colerasiñampi ukat llakisiñampiw katjapxitäna, ukampis nayarux atipjataw uñjasta ukat jupanak taypin jan waltʼayasiñ ajjsarayäta sasaw qhanañchtʼta.",
+    "Nayax profetatwa, Musa jilajan jak’apan sayt’asiwayta, q’ipipamp chika, idolonakar yupaychañ contra jan sayt’as qhiparasa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Khitis nayajja?",
+      "options": [
+        "Harun profetax ukham luratayna",
+        "Profeta Musa satawa",
+        "Profeta Isa",
+        "Dawud profetax ukham luratayna",
+        "Zakariyya profetax ukham sataynawa"
+      ],
+      "answer": "Harun profetax ukham luratayna"
+    },
+    "trial": {
+      "label": "Yant’awi/Evento",
+      "options": [
+        "Jaqenakajj ewjjtʼasipkchïnjja, qorit lurat mä vaca qalluruw yupaychapjjerïna",
+        "Jaqenakajj nina nakhaskir ninaruw jaqontapjjetäna",
+        "Mä jach’a challwaw manq’antawayitu",
+        "Kʼari juchañchasaw carcelan jistʼantatäyäta",
+        "Diosan arunakapat yatiyatajatwa markajat jaqsutäyäta"
+      ],
+      "answer": "Jaqenakajj ewjjtʼasipkchïnjja, qorit lurat mä vaca qalluruw yupaychapjjerïna"
+    },
+    "location": {
+      "label": "Elemento Clave ukax mä juk’a pachanakanwa",
+      "options": [
+        "Quri Wawa",
+        "Uka Q’añuchata quqa",
+        "Uka Staff ukax mä katariruw tukuwayi",
+        "Pacto ukan tablanakapa",
+        "Pacto ukan Arcapa"
+      ],
+      "answer": "Quri Wawa"
+    },
+    "outcome": {
+      "label": "Utjiri",
+      "options": [
+        "Nayajj juchanïtwa ukat profecía misión luraskakiyätwa",
+        "Jaqenakan jucha luratapat mutuyatätwa",
+        "Nayarojj irpañatakejj mä machaq markaw churapjjetäna",
+        "Nayajj alajjpacharuw jakkir apapjjetäna",
+        "Nayarojj mä reino apnaqirit uttʼayatätwa"
+      ],
+      "answer": "Nayajj juchanïtwa ukat profecía misión luraskakiyätwa"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

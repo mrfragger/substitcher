@@ -1,0 +1,61 @@
+{
+  "title": "Kahe aia elanikud",
+  "intro": "Maal, kus õnnistused külluslikult voolasid, nautis üks kogukond kunagi kahe suurejoonelise aia küllust. Nende elu oli tunnistuseks jumalikust soosingust, kuid tänulikkuse hääbudes võttis nende lugu pöörde, mis viis muutumiseni, millest sai kestev märk kõigile, kes selle üle järele mõtlevad.",
+  "clues": [
+    "Me olime rahvas, keda oli õnnistatud mugavuse ja külluse maaga.",
+    "Meie Issand andis meile kaks imelist aeda, mis olid igast küljest lopsakad ja viljakad.",
+    "Meile kästi olla tänulikud, aga meie valisime tänamatuse ja pöördusime selja.",
+    "Suur tamm hoidis tagasi veed, mis andsid meie maale elu.",
+    "Kui me oma väärtegudega edasi läksime, purunes tamm ja üleujutusvesi voolas läbi.",
+    "Meie kunagi lopsakad aiad olid asendatud kibedate puuviljade, tamariskide ja mõne lootosepuuga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Saba rahvas",
+        "Thamudi rahvas",
+        "Madjani rahvas",
+        "Koopa kaaslased",
+        "Elevandi rahvas"
+      ],
+      "answer": "Saba rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Seitse ööd kestnud tugev tuul",
+        "Kivide sadamine taevast",
+        "Purunenud tammi põhjustatud hävitav üleujutus",
+        "Valju karje taevast",
+        "Uppumine meres"
+      ],
+      "answer": "Purunenud tammi põhjustatud hävitav üleujutus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Ma'ribi suur tamm",
+        "Wadi al-Qura org",
+        "Irami aed",
+        "Zamzami kaev",
+        "Siinai mägi"
+      ],
+      "answer": "Ma'ribi suur tamm"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Meie aiad olid asendunud kibedate viljade ja hõredate puudega",
+        "Maavärin neelas meid alla",
+        "Meid muudeti ahvideks ja sigadeks",
+        "Meid uppus suur üleujutus",
+        "Meid hävitas kivisadu"
+      ],
+      "answer": "Meie aiad olid asendunud kibedate viljade ja hõredate puudega"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

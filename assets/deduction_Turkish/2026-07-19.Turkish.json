@@ -1,0 +1,61 @@
+{
+  "title": "Yüzyılların Duyulmayan Sesi",
+  "intro": "Büyük şehirlerin yükselişinden çok önce, hakikatten yüz çevirmiş bir halkın arasında yalnız bir ruh yükseldi. Onların inatçılığına yalnızca bu yalnız çağrıcının sabrı denkti; nesiller boyunca azmini kaybetmeden yalvardı. Tüm uyarılar duymazdan gelindiğinde, eşi benzeri görülmemiş bir hesaplaşma yeryüzünü yeniden şekillendirdi. Bugün, bu hikâyenin yankıları her anlatımda hâlâ hissediliyor. Bu azimli ruhu tanıyabilir misiniz?",
+  "clues": [
+    "Ben, sahte putlara tapan ve çevrelerindeki işaretleri görmezden gelen bir halkın arasında büyüdüm, yine de onları bu gafletten uyandırmak için seçildim.",
+    "Halkıma tekrar tekrar seslendim, ama onlar beni kendileri gibi sıradan bir insan olmakla suçladılar, mesajımı alaya aldılar ve kulaklarını tıkadılar.",
+    "Gece gündüz, onlara bilgelikle ve nazik hatırlatmalarla yalvardım, ama sözlerim duyulmadan ve dikkate alınmadan havaya karışmış gibiydi.",
+    "Tanrı'nın talimatı üzerine, kuru toprak üzerinde kereste ve tahtalardan büyük bir gemi inşa ettim ve halkım aklını yitirmiş biriymişim gibi bana güldü.",
+    "Söz verildiği gibi büyük sel geldiğinde, oğlum yükselen sulardan bir dağın onu koruyacağına inanarak benimle birlikte gemiye binmeyi reddetti.",
+    "Yeryüzünde yeni bir başlangıcın atası oldum ve öyküm, Kur'an'da benim adımı taşıyan bir surede saklıdır."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Nuh",
+        "Peygamber İbrahim",
+        "Peygamber Musa",
+        "Peygamber Lut",
+        "Peygamber Hud"
+      ],
+      "answer": "Peygamber Nuh"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Dünyayı yeniden şekillendiren Büyük Tufan",
+        "Putperestler tarafından alev alev yanan bir ateşe atılmak",
+        "Firavunun sarayındaki sihirbazlarla karşılaşma",
+        "Gökten gelen bir fırtınanın bereketli bahçeleri yerle bir etmesi",
+        "Siper sakinlerinin devrilmesi"
+      ],
+      "answer": "Dünyayı yeniden şekillendiren Büyük Tufan"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nuh'un Gemisi kereste ve tahtalardan inşa edildi.",
+        "Antik temeller üzerine inşa edilmiş kutsal ev",
+        "Yılana dönüşen asa",
+        "Uyuyan gençlerin mağarası",
+        "Tahtı taşıyan kudretli bir yaratık."
+      ],
+      "answer": "Nuh'un Gemisi kereste ve tahtalardan inşa edildi."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İnanmayanlar boğularak öldü, inananlar ise gemide kurtuldu.",
+        "Yangın söndü ve güvenli hale geldi, arayan kişi de yara almadan dışarı çıktı.",
+        "Sihirbazlar yere kapanıp imana teslim oldular.",
+        "Bahçe, onun yerine dürüst komşuya verildi.",
+        "Uyuyanlar yüzyıllar sonra dönüşüme uğramış olarak uyandılar."
+      ],
+      "answer": "İnanmayanlar boğularak öldü, inananlar ise gemide kurtuldu."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

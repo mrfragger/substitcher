@@ -1,0 +1,61 @@
+{
+  "title": "O Exilado dos Céus",
+  "intro": "Um ser misterioso se encontra na encruzilhada entre a criação e a rejeição. Sua história é de arrogância sem precedentes e da mais absoluta afronta a uma ordem divina. Sua escolha ressoa por todas as gerações, tornando-se um teste para cada alma que nasce neste mundo. Você consegue identificar esse adversário eterno?",
+  "clues": [
+    "Estive presente num evento de significado cósmico, quando um novo ser foi formado a partir do barro e recebeu vida pelo Sopro do Misericordioso.",
+    "Eu mesmo fui criado a partir de um único elemento incandescente, diferentemente daquele ser de pó.",
+    "Recebi uma ordem que considerei indigna da minha posição.",
+    "O orgulho me invadiu e recusei-me veementemente a cumprir aquela ordem.",
+    "Foi-me concedido um adiamento até uma data determinada, para que eu pudesse prosseguir com meu propósito declarado de enganar os outros.",
+    "Sou o inimigo declarado de todos os que caminham sobre a Terra, sussurrando enganos e desviando-os do caminho reto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Iblis (Satanás)",
+        "Faraó (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satanás)"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Recusou-se a curvar-se perante Adão.",
+        "Alegou falsamente ser divino.",
+        "Forjaram um bezerro de ouro para adoração.",
+        "Matou o próprio irmão por inveja.",
+        "Liderou a oposição politeísta em Meca."
+      ],
+      "answer": "Recusou-se a curvar-se perante Adão."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Paraíso (Jannah)",
+        "Palácio do faraó no Egito",
+        "O vale sagrado de Tuwa",
+        "As profundezas do mar",
+        "O jardim de Sabá"
+      ],
+      "answer": "Paraíso (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Foi-lhe concedido um adiamento até o Dia do Juízo Final.",
+        "Afogado junto com o exército no mar",
+        "Engolido pela terra junto com tesouros",
+        "Transformados em macacos por violarem o sábado.",
+        "Queimado por pedras atiradas do céu"
+      ],
+      "answer": "Foi-lhe concedido um adiamento até o Dia do Juízo Final."
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

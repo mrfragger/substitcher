@@ -1,0 +1,60 @@
+{
+  "title": "Pacoban Ing Ngisor Ombak",
+  "intro": "Sawijining nabi, sing dibebani dening misine, nggawe keputusan sing nggawa dheweke adoh saka umate lan mlebu ing pacoban sing ora dikarepke. Lelakone ngalami owah-owahan dramatis, nguji iman lan kesabarane kanthi cara sing paling jero. Apa sampeyan bisa nyimpulake rincian kedadeyan sing luar biasa iki saka pitunjuk sing diwenehake?",
+  "clues": [
+    "Sawijining nabi diutus menyang sawijining kaum, nanging kesusu lunga, rumangsa frustasi amarga ditolak.",
+    "Lelakone nggawa dheweke menyang segara, ing ngendi dheweke numpak prau sing kebak muatan kanggo nggoleki papan.",
+    "Badai gedhe teka, ngancam kapal, lan diputusake kanggo mbuwang siji wong menyang segara kanggo ngenthengake beban, sing ditemtokake liwat undhian.",
+    "Dhèwèké diuntal déning makhluk saka jero, sawijining prastawa ajaib sing wis ditemtokaké déning kersané Ilahi.",
+    "Ing sajroning wetenge makhluk mau, dheweke nyebut marang Gustine, tobat lan ngluhurake Allah ing pepeteng.",
+    "Sawisé sawetara wektu panyuwunan sing kuat, dhèwèké dibuwang menyang pesisir sing gersang, ringkih nanging isih urip, lan sawisé bali lan nemokaké yèn bangsané pungkasane wis percaya."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nabi/Wong",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Luth",
+        "Nabi Musa",
+        "Nabi Yunus",
+        "Nabi Yusuf"
+      ],
+      "answer": "Nabi Yunus"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Banjir Nuh",
+        "Karusakan Sodom",
+        "Lelampahan ing weteng iwak gedhe",
+        "Pamisahan segara",
+        "Wahyu grumbulan sing kobong"
+      ],
+      "answer": "Lelampahan ing weteng iwak gedhe"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Tabut",
+        "Gunung Sinai",
+        "Staf Musa",
+        "Iwak Gedhe",
+        "Sumur Yusuf"
+      ],
+      "answer": "Iwak Gedhe"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Prajanjian anyar karo manungsa",
+        "Lair sing nggumunake kanggo umate",
+        "Kraton sing diadegaké kanggo keturunané",
+        "Bali menyang umate sing nalika semana percaya",
+        "Kemenangan nglawan penguasa tirani"
+      ],
+      "answer": "Bali menyang umate sing nalika semana percaya"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

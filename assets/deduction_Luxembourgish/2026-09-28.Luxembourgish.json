@@ -1,0 +1,61 @@
+{
+  "title": "Déi eelef Stären, déi sech verbeugt hunn",
+  "intro": "Eng Figur aus dem Koran krut an hirer Kandheet eng déif Visioun - en Dram vun Himmelskierper, déi sech aus Éierbied verbeugen. Jore géife mat Verrot, Trennung, falschen Ukloen a Prisongsstrof vergoen, ier dës Visioun wouer gouf. Wien ass dës resilient Séil, där hir Geschicht dat längst Kapitel vum Koran besetzt?",
+  "clues": [
+    "Ech war eemol jonk, geseent mat engem bemierkenswäerten Dram, deen souguer mäi Papp mir gewarnt huet, privat ze halen.",
+    "Meng eege Bridder, vun Jalousie verblend, hunn géint mech intrigéiert a mech an eng déif, däischter Brunn gehäit.",
+    "Ech gouf an e wäit Land bruecht a an d'Haus vun engem adlege Beamten verkaaft, wou ech Gunst fonnt hunn a méi Verantwortung krut.",
+    "Falsch Beschuldigungen hunn zu menger ongerechtfäerdeger Prisongsstrof gefouert, awer an där däischterer Plaz hunn ech Trouscht am Gebied an der Ënnerwerfung virum Allah fonnt.",
+    "Allah huet mech mat der rarer Fäegkeet geseent, Dreem z'interpretéieren, wat mech schlussendlech virum Herrscher vum Land bruecht huet an mech op eng héich Vertrauenspositioun erhuewen huet.",
+    "No laange Jore vun Trennung gouf ech mat menger beléifter Famill erëm vereenegt, a mäi Kandheetsdram vun eelef Stären, der Sonn an dem Mound, déi sech viru mir verbeugen, gouf endlech erfëllt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Yusuf",
+        "Prophet Salih",
+        "Prophet Ilyas",
+        "Tubba', den Herrscher vum antike Himyar",
+        "E bescheidenen Hiert aus den Hiwwele vu Palästina"
+      ],
+      "answer": "Prophet Yusuf"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Vun jalouse Bridder an en déiwen, däischteren Brunn gehäit ginn",
+        "Vun enger grousser Kreatur vun den déiwe Mierer verschléckt ginn",
+        "Vun Gëtzendénger an e flammend Feier gehäit ginn",
+        "Vun engem göttleche Wand vun der Zerstéierung fortgerappt ginn",
+        "Iwwerliewe vun enger grousser Iwwerschwemmung, déi dat ganzt Land bedeckt huet"
+      ],
+      "answer": "Vun jalouse Bridder an en déiwen, däischteren Brunn gehäit ginn"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E dréchene Brunn an der Wüst, wou ech verlooss gouf",
+        "E grousse Fësch vun den déiwe Mierer",
+        "Eng massiv Ark, déi op göttleche Befehl gebaut gouf",
+        "En Tuerm gebaut fir an den Himmel ze kommen",
+        "E hellegt Feier, dat refuséiert huet ze brennen"
+      ],
+      "answer": "E dréchene Brunn an der Wüst, wou ech verlooss gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "No Jore vun Trennung mat der Famill erëm vereenegt a gouf e vertrauenswürdege Paschtouer",
+        "Huet e groussen Exodus vu mengem Vollek iwwer e getrennt Mier gefouert",
+        "Huet meng Natioun virum drohenden Ënnergang gewarnt, deen se verbraucht huet",
+        "E hellegt Haus gebaut, dat zu engem Hellegtum fir all gouf",
+        "No dräi Deeg sécher aus dem Bauch vun engem grousse Wiesen erauskomm"
+      ],
+      "answer": "No Jore vun Trennung mat der Famill erëm vereenegt a gouf e vertrauenswürdege Paschtouer"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

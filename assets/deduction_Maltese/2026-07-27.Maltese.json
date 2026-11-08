@@ -1,0 +1,61 @@
+{
+  "title": "L-Offerta li Bidlet id-Destin",
+  "intro": "Fl-ewwel jiem tal-umanità, ruħ offriet rigal b'intenzjonijiet puri. Madankollu, l-għira kienet tinħeba fid-dell tal-aċċettazzjoni. Skopri l-istorja ta' din il-figura li l-pjetà u t-tmiem traġiku tagħha huma immortalizzati fir-rivelazzjoni divina.",
+  "clues": [
+    "Jiena kont fost l-ewwel ġenerazzjonijiet tal-umanità.",
+    "Ippreżentajt offerta lil Sidi, u ntlaqgħet b'favur.",
+    "L-offerta ta’ ħija ġiet miċħuda, u l-għira dalmetlu qalbu.",
+    "Għedtlu, ‘Jekk tmidd idek lejja biex toqtolni, jien ma nmiddx idi biex noqtlok; tassew jien nibża’ minn Alla, Sid id-dinjiet.’",
+    "Sirt vittma tal-ewwel att ta' qtil fid-dinja.",
+    "Demmi għajjat, u jien kont l-ewwel martri tal-innoċenza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Ħabil (Abel)",
+        "Qabil (Kajin)",
+        "Ir-Raġel minn Ya-Sin",
+        "Is-Samiri",
+        "Luqman"
+      ],
+      "answer": "Ħabil (Abel)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-offerta tiegħu ġiet aċċettata, u dan ikkawża l-għira ta’ ħuh u l-qtil tiegħu.",
+        "Huwa ntefa’ f’forn jaqbad imma ħareġ bla ħsara",
+        "Huwa bena vapur enormi taħt gwida divina",
+        "Huwa nbela’ minn ħuta kbira u baqa’ fid-dlam",
+        "Huwa mexxa lill-poplu tiegħu minn ġo baħar miftuħ"
+      ],
+      "answer": "L-offerta tiegħu ġiet aċċettata, u dan ikkawża l-għira ta’ ħuh u l-qtil tiegħu."
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Offerta aċċettata",
+        "Bastun li jinbidel f'serp",
+        "Ġemela mara bħala sinjal divin",
+        "Upupa ġġib l-aħbarijiet",
+        "Għoġol tad-deheb adorjat"
+      ],
+      "answer": "Offerta aċċettata"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "L-ewwel qtil fl-istorja; ħuh ġie kkundannat",
+        "Mibela’ mill-art flimkien mal-ġid tiegħu",
+        "Trasformati f'xadini minħabba trasgressjoni",
+        "Meqrud minn riħ qawwi u silġ",
+        "Għerqet f’għargħar kbir bħala kastig"
+      ],
+      "answer": "L-ewwel qtil fl-istorja; ħuh ġie kkundannat"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

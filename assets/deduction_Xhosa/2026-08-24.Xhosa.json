@@ -1,0 +1,61 @@
+{
+  "title": "Abaphulaphuli Abafihlakeleyo Ababekholelwa",
+  "intro": "Kwindibano engcwele, kwafika indibano emangalisayo ivela kwindawo engabonakaliyo. Betsalwa yingxolo yento emangalisayo, baphulaphula ingxolo eyayiza kuqinisekisa ikamva labo ngonaphakade. Ubungqina babo buhlala bubobunye bobona bukhethekileyo kwizibhalo zikaThixo.",
+  "clues": [
+    "Singabantu abavela kummandla ongabonwayo ngabaninzi, kwaye size njengeqela.",
+    "Saya kwindibano ukuze sive into emangalisayo.",
+    "Xa sifika, samamela ingoma eyasishiya simangalisiwe.",
+    "Sivumile ngokuphandle ukuba abanye phakathi kwethu bangamalungisa abanye abanjalo.",
+    "Sasisazi ukuba asinakukwazi ukuwubaleka ummiselo kaThixo emhlabeni, okanye ngokubalekela esibhakabhakeni.",
+    "Sathi sakuva ulwalathiso, salukholelwa; nabani na okholelwa eNkosini yakhe akayi koyika ukulahlekelwa okanye umthwalo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Iqela leeJinn",
+        "Abantu base-Iram",
+        "Abantu baseTubba'",
+        "Ubukhosi baseRoma",
+        "Isizwe samaQuraysh"
+      ],
+      "answer": "Iqela leeJinn"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukumamela isicengcelezo esingcwele",
+        "Ukwakha iintsika eziphakamileyo kwisixeko sethu",
+        "Ukuzingela inkamela yemazi entle kakhulu",
+        "Ukutshatyalaliswa ngenxa yokubulala abaprofeti bethu",
+        "Ukwandisa ubutyebi ngokungaphaya komlinganiselo"
+      ],
+      "answer": "Ukumamela isicengcelezo esingcwele"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intlanganiso yokucengceleza okungcwele",
+        "Isixeko esineentsika ezinde (i-Iram)",
+        "Umthombo entlango",
+        "Ibhotwe elikhulu legolide",
+        "Umqolomba ongcwele ezintabeni"
+      ],
+      "answer": "Intlanganiso yokucengceleza okungcwele"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Sakholelwa saza sabalumkisa abantu bethu",
+        "Itshatyalaliswe kukuqhuma okukhulu okuvela esibhakabhakeni",
+        "Wohlwaywa ngumoya otshisayo notshabalalisayo",
+        "Unikwe ubutyebi namandla amakhulu",
+        "Ndahlala ndiqinile ndingakholelwa"
+      ],
+      "answer": "Sakholelwa saza sabalumkisa abantu bethu"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

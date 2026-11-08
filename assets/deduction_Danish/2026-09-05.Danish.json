@@ -1,0 +1,61 @@
+{
+  "title": "Den pragt, der sank",
+  "intro": "Forestil dig dette: en sjæl klædt i fine klæder og omgivet af skatte, der hævder sig over al fornuft. Denne person troede, at deres rigdom var tjent gennem deres egen genialitet, og anerkendte aldrig kilden til sand forsyning. Vandrende blandt en mægtig profets tilhængere afviste denne person ethvert kald til ydmyghed. I dag afslører vi identiteten på en person, hvis storslåede formue blev deres sidste hvilested.",
+  "clues": [
+    "Jeg levede på den tid, hvor en profet kaldte en stædig nation til sandhed.",
+    "Jeg var en del af et udvalgt fællesskab, men alligevel vendte mit hjerte sig væk fra budskabet.",
+    "Guld og sølv fængslede mig mere end nogen guddommelig befaling.",
+    "Mine skattekamre voksede sig så enorme, at en stærk gruppe mænd knap nok kunne løfte nøglerne.",
+    "Jeg pralede af, at min rigdom var givet til mig på grund af min egen viden.",
+    "Til sidst blev jeg og hele min bolig opslugt af jorden som en advarsel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Qarun",
+        "Haman",
+        "Samiri",
+        "Bilqis",
+        "Talut (Saul)"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Arrogance over rigdom og afvisning af velgørenhed",
+        "Smedning af et gyldent idol af smeltede smykker",
+        "Erklærer guddommelighed over et magtfuldt kongerige",
+        "Forfølgelse af de tidlige troende i Mekka",
+        "Leder en kampagne for at ødelægge det Hellige Hus"
+      ],
+      "answer": "Arrogance over rigdom og afvisning af velgørenhed"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Skatte hvis nøgler tyngede mange stærke mænd",
+        "En guldkalv, der frembragte lyd",
+        "En strålende trone fra et fjernt land",
+        "En skyttegrav fyldt med flammende ild",
+        "En mægtig hær af krigselefanter"
+      ],
+      "answer": "Skatte hvis nøgler tyngede mange stærke mænd"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Opslugt af jorden sammen med boligen",
+        "Druknede i havet med en hær",
+        "Brændt levende i en ildgrube",
+        "Ødelagt af en hylende, rasende vind",
+        "Ramt af et enkelt voldsomt brag"
+      ],
+      "answer": "Opslugt af jorden sammen med boligen"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

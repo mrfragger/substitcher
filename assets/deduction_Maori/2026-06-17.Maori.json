@@ -1,0 +1,61 @@
+{
+  "title": "Te Echo mai i te Pito o te Tāone",
+  "intro": "I roto i tētahi tāone i tahuri ke i te arataki a te Atua, ka puta mai tētahi tangata takitahi i ngā taha, e tere haere ana me te kawe i tētahi karere o te tumanako me te whakatūpato. Ka noho tēnei wairua kua warewaretia hei tohu mutunga kore o te whakapono pumau.",
+  "clues": [
+    "I kite ahau i ngā karere e tonoa ana ki tōku tāone, engari i whakahēngia rātou e tōku iwi he tangata noa iho.",
+    "I whakapono ahau ki tā rātou karere, ā, i rongo ahau i te pono e pā ana ki roto i ahau.",
+    "I karanga ahau ki tōku iwi kia whakarongo ki ngā karere kāore nei i tono utu.",
+    "I oma ahau i te pito rawa o te tāone, me te ngana tonu kia mārama rātou ki te take.",
+    "I whakatika mai tōku iwi ki ahau, ā, i patua ahau; heoi i kitea e ahau te rangimārie mutunga kore.",
+    "I mea mai a Allah ki ahau, 'E tomo ki Pararaiha,' ā, i hiahia ahau kia kite taku iwi i te honore kua homai ki ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Kaiwhakapono o Ya-Sin",
+        "Uzair te Kaiuiui",
+        "Al-Khidr te Kaiārahi",
+        "Te Kaiwhakapono o te Whānau o Parao",
+        "Namrud te Kaitukino"
+      ],
+      "answer": "Te Kaiwhakapono o Ya-Sin"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te tū atu ki tētahi iwi whakaponokore i whakamate i a ia",
+        "Ka makaia ki roto i te ahi mura",
+        "Te horomia e te ika nui",
+        "Te hanga i tētahi āka nui",
+        "Te rere atu i te ope taua a te kaitukino"
+      ],
+      "answer": "Te tū atu ki tētahi iwi whakaponokore i whakamate i a ia"
+    },
+    "location": {
+      "label": "Tauwāhi Matua",
+      "options": [
+        "Te pito rawa o te tāone",
+        "Maunga o Tur",
+        "Te Raorao o ngā Pōpokorua",
+        "Ngā pareparenga o te awa o te Naera",
+        "Te ana o te ana"
+      ],
+      "answer": "Te pito rawa o te tāone"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te matenga me te tomo tonu ki Pararaiha",
+        "Te mawhiti me te whakaoranga",
+        "Te pikinga ki te rangi",
+        "Te toremitanga i te moana",
+        "Te huri hei kōhatu"
+      ],
+      "answer": "Te matenga me te tomo tonu ki Pararaiha"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

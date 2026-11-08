@@ -1,0 +1,61 @@
+{
+  "title": "Ó Dhoimhneacht an Tobair",
+  "intro": "Thosaigh turas anama óig le fís chumhachtach de chomhlachtaí neamhaí ag cromadh in ómós. Bhí saol an duine seo marcáilte ag an bhfeall is doimhne ó na daoine ba ghaire dó, agus ina dhiaidh sin blianta sclábhaíochta agus príosúnachta mídhleathaí. Ach trí chreideamh gan staonadh agus treoir dhiaga, d’éirigh an figiúr seo ón bpoll is ísle chun bheith ar dhuine de na daoine is cumhachtaí in impireacht mhór. An féidir leat céannacht an tseirbhísigh iontach seo de chuid Allah a nochtadh?",
+  "clues": [
+    "Taispeánadh dom fís d’aon réalta déag, an ghrian agus an ghealach ag lúthchleasaíocht os mo chomhair.",
+    "Ba mise leanbh an-ghrámhar mo thuismitheora, rud a spreag éad i measc mo dheartháireacha",
+    "Rug mo dheartháireacha féin orm, baineadh mo chuid éadaigh díom, agus caitheadh ​​i dtobar domhain dorcha mé",
+    "Díoladh mé mar earra i margadh agus iompraíodh mé i bhfad ó mo thír dhúchais.",
+    "Rinne bean chumhachtach iarracht mo onóir a chur i mbaol, agus caitheadh ​​i bpríosún mé as diúltú dá hiarrachtaí",
+    "Bronnadh bronntanas léirmhínithe aislingí orm, agus d’éirigh mé ó phríosúnach dearmadta go príomh-aire na hÉigipte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Iósaf",
+        "an Fáidh Músa",
+        "Fáidh Dawud",
+        "Fáidh Ayyub",
+        "Fáidh Sulayman"
+      ],
+      "answer": "Fáidh Iósaf"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Caitheadh ​​i dtobar domhain ag a dheartháireacha féin",
+        "Ag maireachtáil tuile mhór dhomhanda",
+        "Á chaitheamh isteach i bhfoirnéis lasrach",
+        "Ag troid i gcoinne laoch ollmhór ar chatha",
+        "Á shlogadh ag iasc mór"
+      ],
+      "answer": "Caitheadh ​​i dtobar domhain ag a dheartháireacha féin"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tobar domhain, tirim sa bhfásach",
+        "Áirc adhmaid mhór ar bharr sléibhe",
+        "Sloinne a d’athraigh ina nathair",
+        "Ríchathaoir iontach de mhórghlóir",
+        "Sling agus cúig chloch réidh"
+      ],
+      "answer": "Tobar domhain, tirim sa bhfásach"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "D'éirigh sé ina phríomh-aire ar an Éigipt agus athaontaíodh é le muintir ghrámhar",
+        "Thóg long mhór agus ghlaoigh sé daoine chun creidimh",
+        "Threoraigh náisiún iomlán amach as daoirse san Éigipt",
+        "Bronnadh ríocht agus ceannas ar an neamhfheicthe",
+        "Tugadh foighne dó le linn tinnis throm agus leigheasadh é"
+      ],
+      "answer": "D'éirigh sé ina phríomh-aire ar an Éigipt agus athaontaíodh é le muintir ghrámhar"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

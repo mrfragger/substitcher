@@ -1,0 +1,61 @@
+{
+  "title": "La comunidad que desafió el día de descanso",
+  "intro": "Adéntrate en un asentamiento costero donde un mandato divino designó un día para el culto y la moderación. Un grupo dentro de esta comunidad decidió poner a prueba los límites de dicho mandato con un astuto plan, lo que desencadenó una transformación que resonaría a través de los siglos. ¿Quiénes eran estas almas y qué fue de ellas?",
+  "clues": [
+    "Vivíamos cerca de la costa, donde el mar nos proporcionaba nuestro sustento.",
+    "Se nos ordenó honrar un día de la semana, apartándolo de las actividades mundanas.",
+    "Ese día, los peces acudieron a nosotros en gran número, como si nos tentaran a desobedecer la orden.",
+    "Ideamos un plan para atrapar los peces la víspera del día sagrado y luego recogerlos una vez que hubiera pasado.",
+    "Cuando algunos de nosotros nos advirtieron sobre este engaño, ignoramos sus consejos y persistimos.",
+    "Por nuestra transgresión, fuimos transformados en simios, despreciados y rechazados."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "El Pueblo del Sábado",
+        "La gente de la zanja",
+        "La gente del bosque",
+        "La gente del jardín",
+        "El pueblo del elefante"
+      ],
+      "answer": "El Pueblo del Sábado"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Pescar en sábado",
+        "Construyendo una torre imponente",
+        "Matar a una camella sagrada",
+        "Negando a un profeta que les fue enviado.",
+        "Transgredir en pesos comerciales"
+      ],
+      "answer": "Pescar en sábado"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El mar y sus peces",
+        "El fuego que se enfrió",
+        "El bastón que se convirtió en serpiente",
+        "El arca de la salvación",
+        "Las tablas de piedra"
+      ],
+      "answer": "El mar y sus peces"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Transformados en simios",
+        "Engullido por la tierra",
+        "Destruido por un viento feroz.",
+        "Ahogado en el mar",
+        "Golpeado por una lluvia de piedras"
+      ],
+      "answer": "Transformados en simios"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

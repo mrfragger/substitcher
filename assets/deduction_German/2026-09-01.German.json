@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimme aus den Vororten",
+  "intro": "Du stehst in einer Stadt, in der drei Boten mit klaren Botschaften erschienen sind, doch die Menschen verspotten sie und klammern sich an ihre alten Gewohnheiten. Vom anderen Ende der Stadt eilt eine Gestalt atemlos und entschlossen auf die Menge zu, um trotz Ablehnung die Wahrheit zu verkünden. Wer ist diese Seele, die alles für eine fremde Botschaft riskierte?",
+  "clues": [
+    "Ich lebte unter einem Volk, das Boten mit klaren Zeichen empfangen hatte, die sich aber in Arroganz abwandten.",
+    "Als ich den Ruf der Boten hörte, kam ich aus dem entferntesten Teil der Stadt angerannt.",
+    "Ich sagte zu meinem Volk: »O mein Volk, folgt den Boten! Folgt denen, die keinen Lohn von euch verlangen, denn sie sind rechtgeleitet.«",
+    "Ich war kein Prophet, aber ich glaubte an die Boten und forderte mein Volk auf, es mir gleichzutun.",
+    "Mein Volk verspottete meine Ratschläge und beschuldigte mich, ein Extremist zu sein.",
+    "Als sie mich töteten, sagte Allah mir, ich solle ins Paradies eingehen, und ich wünschte, mein Volk könnte die Vergebung und Ehre erfahren, die mir zuteilwurden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Der Mann aus dem entferntesten Teil der Stadt (Ya-Sin)",
+        "Einer der drei Boten, die in die Stadt geschickt wurden",
+        "Ein angesehener Kaufmann der Stadt",
+        "Ein Herrscher der Stadt",
+        "Der Anführer der Ungläubigen"
+      ],
+      "answer": "Der Mann aus dem entferntesten Teil der Stadt (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er predigte seinem Volk, den Boten zu folgen.",
+        "Ein Schiff bauen, um Gläubige vor einer Flut zu retten",
+        "Für den Glauben ins Feuer geworfen werden",
+        "Von einem Wal verschluckt werden",
+        "Ihm wurde ein Königreich und Weisheit verliehen"
+      ],
+      "answer": "Er predigte seinem Volk, den Boten zu folgen."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der entfernteste Teil der Stadt",
+        "Die Arche",
+        "Der Brunnen",
+        "Der brennende Dornbusch",
+        "Die Höhle"
+      ],
+      "answer": "Der entfernteste Teil der Stadt"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Er betrat das Paradies und wünschte, sein Volk könnte seine Vergebung erfahren.",
+        "Er ertrank mit seinem Volk, weil es die Botschaft abgelehnt hatte.",
+        "Ihm wurde ein Wunder der Kamelstute zuteil.",
+        "Wurde nach seinem Prozess zum Herrscher",
+        "Er wurde von Allah gerettet und blieb bei seinem Volk."
+      ],
+      "answer": "Er betrat das Paradies und wünschte, sein Volk könnte seine Vergebung erfahren."
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

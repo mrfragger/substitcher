@@ -1,0 +1,61 @@
+{
+  "title": "Strażnicy Ogrodu",
+  "intro": "W bujnym ogrodzie społeczność złożyła uroczystą przysięgę. Jednak ich determinacja została wystawiona na próbę, gdy wola boska zainterweniowała, przekształcając ich urodzaj w jałową ziemię.",
+  "clues": [
+    "Zostaliśmy obdarowani bujnym ogrodem, ale staliśmy się aroganccy.",
+    "Ułożyliśmy plan zbierania plonów bez dzielenia się nimi z biednymi.",
+    "Wyruszyliśmy wcześnie rano, pewni naszego planu.",
+    "Gdy jednak dotarliśmy na miejsce, okazało się, że nasz ogród został zniszczony w nocy.",
+    "Zrozumieliśmy swój błąd i zaczęliśmy się wzajemnie obwiniać.",
+    "W końcu żałowaliśmy, ale nauczkę przyswoiliśmy sobie za późno."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Ludzie Ogrodu",
+        "Ludzie jaskini",
+        "Ludzie Słonia",
+        "Ludzie z Thamud",
+        "Ludzie z „Ad”"
+      ],
+      "answer": "Ludzie Ogrodu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Ogród zamieniony w popiół",
+        "Powódź, która zniszczyła wszystko",
+        "Głód, który nawiedził kraj",
+        "Atakująca armia ptaków",
+        "Silny wiatr, który wyrywał drzewa z korzeniami"
+      ],
+      "answer": "Ogród zamieniony w popiół"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogród",
+        "Jaskinia",
+        "Statek",
+        "Góra",
+        "Pałac"
+      ],
+      "answer": "Ogród"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Żałowali, ale stracili swój ogród",
+        "Zostały całkowicie zniszczone",
+        "Zostali zamienieni w małpy",
+        "Zostali zbawieni przez wiarę",
+        "Zostali władcami"
+      ],
+      "answer": "Żałowali, ale stracili swój ogród"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

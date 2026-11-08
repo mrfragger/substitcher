@@ -1,0 +1,60 @@
+{
+  "title": "Baýlygyň ýükü",
+  "intro": "Siz ägirt uly baýlygyň, altyn we güýç bilen bezelen durmuşyň, ýöne ahyrsoňy dünýä beýikligini gözleýänleriň hemmesi üçin duýduryş sapagynyň öňünde durýarsyňyz. Hekaýasy wagtyň dowamynda ýaňlanýan, dünýä baýlygynyň geçiji tebigatynyň subutnamasy bolan bu şahsyýetiň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Men beýik Pygamberiň kowmundandym, ýöne men tekepbirlik we zulum ýoluny saýladym.",
+    "Allatagala maňa şeýle bir ägirt uly baýlyk berdi welin, hazynalarymyň açarlary güýçli adamlar topary üçin agyr ýük boldy.",
+    "Meniň kowumym maňa baýlygym bilen begenmezligi maslahat berip, Allanyň begenýänleri söýmeýändigini ýatlatdy.",
+    "Men uly baýlygymyň Allanyň beren nygmaty däl-de, öz bilimim we tagallam bilen gazanylandygyny tekepbirlik bilen öňe sürdüm.",
+    "Maňa bozuklykdan gorkmak barada duýduryş berildi we Allanyň beren zady bilen ahyreti gözlemelidigim ýatladyldy, ýöne men diňlemekden ýüz öwürdim we tekepbirligim bilen dowam etdim.",
+    "Ahyrsoňy, Allatagala meni we öýümi ýere ýuwutdy we Öz emrine garşy maňa hiç bir kömekçi galdyrmady."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Fyrown",
+        "Haman",
+        "Karun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Deňziň bölünmegi",
+        "Nimrodyň ody",
+        "Suw joşmasy",
+        "Ýeriň ýuwutmagy",
+        "Çekirtgeleriň betbagtçylygy"
+      ],
+      "answer": "Ýeriň ýuwutmagy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Sandyk",
+        "Işgärler",
+        "Altyn göle",
+        "Hazynalar/Açarlar",
+        "Zemzem guýusy"
+      ],
+      "answer": "Hazynalar/Açarlar"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Patyşalyk berildi",
+        "Weýrançylykdan halas boldy",
+        "Ýer tarapyndan ýuwudyldy",
+        "Pygamber boldy",
+        "Parahatçylyk bilen öldi"
+      ],
+      "answer": "Ýer tarapyndan ýuwudyldy"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "San pravednika",
+  "intro": "U vremenu kada je vjera bila opasna i moćni su nastojali uništiti vjerovanje, mala skupina mladih duša donijela je odluku koja će odjekivati ​​kroz stoljeća. Bježeći od svega što su znali, potražili su utočište u skrivenoj tami planine i potpuno se pouzdali u Allaha. Ono što se sljedeće dogodilo postat će bezvremenski znak za one koji razmišljaju.",
+  "clues": [
+    "Bili smo grupa mladih ljudi koji su vjerovali u našeg Gospodara, a On nas je obogatio u vodstvu.",
+    "Stali smo pred naš narod i izjavili da nikada nećemo prizivati ​​nijedno božanstvo osim Allaha.",
+    "Utočište smo potražili u pećini govoreći: \"Gospodaru naš, smilujte nam se i uputite nas na pravi put.\"",
+    "Spavali smo dugi niz godina, a sunce bi se naginjalo od naše pećine i nije nas dodirivalo.",
+    "Naš pas je ležao ispružen na ulazu u špilju, čuvajući nas kao da je na straži.",
+    "Kad smo se probudili, pitali smo se koliko smo se dugo zadržali, a jednog od nas poslali su sa srebrnjacima da kupi hranu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ljudi iz pećine",
+        "Ljudi iz rova",
+        "Ljudi subote",
+        "Ljudi slona",
+        "Šumski drugovi"
+      ],
+      "answer": "Ljudi iz pećine"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Pobjegli su u špilju kako bi izbjegli progon zbog svoje vjere",
+        "Uništeno snažnim vjetrom",
+        "Progutala zemlja",
+        "Utopljen u moru",
+        "Pogođen olujom kamenja"
+      ],
+      "answer": "Pobjegli su u špilju kako bi izbjegli progon zbog svoje vjere"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Pas koji čuva ulaz u pećinu",
+        "Velika arka",
+        "Štap koji se pretvorio u zmiju",
+        "Ptica pupavac",
+        "Zlatno tele"
+      ],
+      "answer": "Pas koji čuva ulaz u pećinu"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ostali su u pećini 309 godina, a zatim su podignuti kao znak",
+        "Pretvoreni su u majmune",
+        "Uništila ih je poplava",
+        "Bili su prisiljeni prijeći more",
+        "Dano im je kraljevstvo"
+      ],
+      "answer": "Ostali su u pećini 309 godina, a zatim su podignuti kao znak"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

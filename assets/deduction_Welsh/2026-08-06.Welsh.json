@@ -1,0 +1,61 @@
+{
+  "title": "Yr Enaid Gwyliadwrus wrth Lan yr Afon",
+  "intro": "Ymddiriedwyd cenhadaeth gyfrinachol i enaid ifanc, i arsylwi o bellter diogel wrth i dynged ddatblygu ar y dyfroedd. Heb ei weld a heb ei amau, byddai'r ffigur hwn yn chwarae rhan allweddol wrth newid cwrs hanes cenedl.",
+  "clues": [
+    "Cefais dasg gan fy mam, un a oedd yn gofyn am ddirgelwch a gwyliadwriaeth.",
+    "Dilynodd fy llygaid grud bach yn drifftio ar hyd y cerrynt, fy nghalon yn drwm gan bryder.",
+    "Pan gafodd ei ddarganfod gan barti annisgwyl, nesais yn agos, yn llawn ofn.",
+    "Gwelais eu hangen mawr am ofalwr a chynigiais ateb heb ddatgelu'r gwir.",
+    "Daeth fy ymyrraeth amserol â enaid nyrsio yn ôl i'r un oedd ei angen fwyaf.",
+    "Yng nghwrtoedd y rhai pwerus, lleferais: 'A ddylwn i eich cyfeirio at deulu a fydd yn ei feithrin ac yn gofalu amdano'n ofalus?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Chwaer Musa",
+        "Mam Musa",
+        "Gwraig y Pharo",
+        "Bydwraig",
+        "Merch Shu'aib"
+      ],
+      "answer": "Chwaer Musa"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Taflu plentyn i'r afon",
+        "Gwahanu'r môr",
+        "Llosgi'r llo",
+        "Adeiladu'r arch",
+        "Pla'r locustiaid"
+      ],
+      "answer": "Taflu plentyn i'r afon"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr afon",
+        "Yr anialwch",
+        "Y mynydd",
+        "Y palas",
+        "Y tân"
+      ],
+      "answer": "Yr afon"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Fe wnaeth hi ailuno'r plentyn â'i fam",
+        "Achubodd ei hun rhag milwyr Pharo",
+        "Daeth hi'n frenhines",
+        "Cafodd ei chosbi am ysbïo",
+        "Hi a arweiniodd yr Israeliaid"
+      ],
+      "answer": "Fe wnaeth hi ailuno'r plentyn â'i fam"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

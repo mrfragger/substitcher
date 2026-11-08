@@ -1,0 +1,61 @@
+{
+  "title": "Ensimmäinen kateudesta vuodatettu veri",
+  "intro": "Kuvittele ihmiskunnan alkuaikoja, jolloin koko maailma oli yksi perhe. Näet, kuinka Allahin eteen asetetaan kaksi uhria – toinen hyväksytään, toinen hylätään. Kateus juurtuu sydämeen, ja uhkaus kuiskutaan vihassa. Se, mitä seuraa, jättää ikuisen jäljen historiaan, ja jopa pienestä linnusta tulee opettaja.",
+  "clues": [
+    "Kuulun maan ensimmäiseen perheeseen.",
+    "Esitin uhrin Allahille, mutta minun uhriani ei hyväksytty, kun taas toista uhria hyväksyttiin.",
+    "Puhuin kateellisena ja uhkasin riistää hengen.",
+    "Tein maan ensimmäisen epäoikeudenmukaisen tapon.",
+    "Näin variksen raapivan maata näyttääkseen minulle, miten ruumis piilotetaan.",
+    "Minut valtasi katumus ja jouduin häviäjien joukkoon siitä, mitä käteni olivat tehneet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Qabil (Kain), Aadamin poika",
+        "Samiri, vasikan tekijä",
+        "Namrud, tyranni, joka väitteli Ibrahimin kanssa",
+        "Azar, epäjumalien tekijä",
+        "Kan'an, Nuhin hukkunut poika"
+      ],
+      "answer": "Qabil (Kain), Aadamin poika"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Sisaruksen murha kateudesta hylätyn tarjouksen jälkeen",
+        "Rakentaa korkean tornin katsoakseen taivasta",
+        "Kultaisen vasikan tekeminen palvontaa varten",
+        "Taivaasta katetun pöydän vaatiminen",
+        "Norsujen armeijan johtaminen Kaaban tuhoamiseksi"
+      ],
+      "answer": "Sisaruksen murha kateudesta hylätyn tarjouksen jälkeen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Varis raapii maata osoittaakseen hautaamistaan",
+        "Kultainen vasikka, joka ammui",
+        "Suuri arkki tulvavesien päällä",
+        "Sauva, josta tuli käärme",
+        "Pöytä katettu taivaallisella ruoalla"
+      ],
+      "answer": "Varis raapii maata osoittaakseen hautaamistaan"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli katuvaksi ja häviäjien joukkoon",
+        "Hukkui suureen tulvaan",
+        "Maa nielaisi aarteineen",
+        "Sairasti lepraa seitsemän vuotta",
+        "Sai kuningaskunnan, jolla oli mahdollisuus hallita tuulia"
+      ],
+      "answer": "Tuli katuvaksi ja häviäjien joukkoon"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

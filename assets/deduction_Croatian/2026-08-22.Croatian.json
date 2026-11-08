@@ -1,0 +1,61 @@
+{
+  "title": "Grad koji je vjerovao u vrijeme",
+  "intro": "U analima božanskog milosrđa postoji zajednica čija je prekretnica bila trenutak kolektivne spoznaje. Upravo ćete otkriti njihovu priču - priču o upozorenju, pokajanju i odgodi koja ih je odvojila od sudbine drugih naroda.",
+  "clues": [
+    "Bili smo narod kojem je poslan poslanik, a mi smo se isprva okrenuli od njegovog poziva.",
+    "Kad su znakovi nadolazeće kazne postali jasni, shvatili smo istinitost njegovog upozorenja.",
+    "Okrenuli smo se našem Gospodaru s iskrenim pokajanjem i naša vjera je bila prihvaćena.",
+    "Kazna koja nam je bila određena ukinuta je zbog naše vjere.",
+    "Naša priča se navodi kao iznimka među gradovima koji su povjerovali nakon što su vidjeli kaznu.",
+    "Bili smo narod proroka kojeg je progutao kit, a ipak smo spašeni od uništenja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Ljudi iz Yunusa",
+        "Nuhov narod",
+        "Ljudi iz Huda",
+        "Ljudi iz Saliha",
+        "Ljudi Luta"
+      ],
+      "answer": "Ljudi iz Yunusa"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Razorna poplava",
+        "Jaka oluja s vjetrom",
+        "Predstojeća kazna sramote koja je izbjegnuta",
+        "Zemlja ih guta",
+        "Kiša kamenja"
+      ],
+      "answer": "Predstojeća kazna sramote koja je izbjegnuta"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Deva",
+        "Grad od sto tisuća",
+        "Musino osoblje",
+        "Blago iz Qaruna"
+      ],
+      "answer": "Grad od sto tisuća"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Bili su potpuno uništeni",
+        "Pruženo im je uživanje neko vrijeme",
+        "Pretvorili su se u majmune",
+        "Utopili su se",
+        "Progutala ih je zemlja"
+      ],
+      "answer": "Pruženo im je uživanje neko vrijeme"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Eşsiz Görkemli Kayıp Şehir",
+  "intro": "Bir zamanlar yeryüzünün uçsuz bucaksız topraklarına hükmeden, gökyüzüne uzanan görkemli yapılarıyla ünlü güçlü bir medeniyet vardı. Ancak bu ihtişamın altında, toplumun içinden gönderilen ilahi uyarıcıya kulak asmama gibi inatçı bir inkâr büyüyordu. Gurur ve kibir, yakında ne yeryüzünün ne de gökyüzünün daha önce hiç tanık olmadığı türden bir cezayı beraberinde getirecekti.",
+  "clues": [
+    "Bir zamanlar yeryüzünün uçsuz bucaksız topraklarına hükmediyorduk ve hiçbir medeniyetin ulaşamayacağına inandığımız bir güce sahip olmakla övünüyorduk.",
+    "Krallığımız, bilinen tüm topraklarda eşi benzeri olmayan, görkemli sütunlara sahip yüksek yapılarıyla ünlüydü.",
+    "Kendi topluluğumuzdan bir uyarıcı ortaya çıktı ve her birimizin yalnızca Tek Yaratıcıya teslim olmasını istedi.",
+    "Bize iletilen mesajı reddettik ve miras aldığımız yoldan ayrılmayı reddettik.",
+    "Bize karşı son derece şiddetli, uğultulu ve öfkeli bir rüzgar esti ve bizi tamamen savunmasız bıraktı.",
+    "Bizler, içi boşaltılmış palmiye ağaçlarının gövdeleri gibi, dağılmış ve unutulmuş halde, gelecek nesiller için bir ders olarak geride kaldık."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "A'ad halkı",
+        "Nuh Halkı",
+        "Lut halkı",
+        "Madyan halkı",
+        "Tubba Halkı"
+      ],
+      "answer": "A'ad halkı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Şiddetli bir cezanın amansız, öfkeli bir rüzgarı",
+        "Her dağ zirvesini kaplayan bir sel.",
+        "Yukarıdan yağan yanan kil taşlarından oluşan bir yağmur.",
+        "Gökyüzünden yükselen tek bir korkunç çığlık",
+        "Yeryüzünü ikiye ayıran şiddetli bir deprem"
+      ],
+      "answer": "Şiddetli bir cezanın amansız, öfkeli bir rüzgarı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yüksek sütunlar şehri İram",
+        "Dağın üzerine inşa edilmiş devasa bir ahşap gemi.",
+        "Taşın içinden mucizevi bir şekilde çıkan dişi bir deve",
+        "İlahi emirlerin indiği Sina Dağı",
+        "Akarsulara bakan kristal ve ince camdan yapılmış bir saray."
+      ],
+      "answer": "Yüksek sütunlar şehri İram"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İçi boşaltılmış palmiye ağacı gövdeleri gibi, dağınık ve cansız halde bırakılmışlar.",
+        "Büyük bir selin ezici dalgaları altında boğuldu",
+        "Maymun ve domuz benzeri yaratıklara dönüştürüldüler",
+        "Sertleşmiş kil taşlarından oluşan bir yağmurun altında ezildi",
+        "Ruhu delip geçen, kulakları sağır eden tek bir çığlıkla yok oldu."
+      ],
+      "answer": "İçi boşaltılmış palmiye ağacı gövdeleri gibi, dağınık ve cansız halde bırakılmışlar."
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

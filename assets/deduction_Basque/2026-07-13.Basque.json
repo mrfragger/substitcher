@@ -1,0 +1,61 @@
+{
+  "title": "Jakinduriaren Ahotsa",
+  "intro": "Jakinduriaren ahots leun batek denboraren gainetik dauden aholkuak eman zituen behin. Ulermen sakonaz bedeinkatutako figura honek balio handiko ikasgaiak eman zituen, gidaritza bilatzen duten guztientzat itsasargi izaten jarraitzen dutenak. Hitz iraunkor hauen atzean dagoen identitatea argitu al dezakezu?",
+  "clues": [
+    "Alaren bedeinkapen sakon bat eman zidan, nire bihotza eta adimena argitu zituen oparia.",
+    "Nire maitearengana jo nuen, daukadan altxor baliotsuena partekatu nahian.",
+    "Ohartarazi nuen bidegabekeria larriena Jainko bakarrarekin bazkideak ezartzea dela.",
+    "Gogorarazi nion mostaza hazi baten pisua ere, harkaitz batean edo zeruaren haratago ezkutatuta, Alaren esku jarriko dela kontuak.",
+    "Gurasoei obeditzeko agindu nien, nahiz eta obedientzia zuzentasun kontuetan bakarrik den.",
+    "Jokabide sinpleak irakatsi nituen: apaltasunez ibili lurrean eta neurriz ahotsa; astoen oihuak baitira soinurik zakarrena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Luqman",
+        "Al-Khidr",
+        "Sulayman profeta",
+        "Dhul-Qarnayn",
+        "Uzair"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Proba / Ekitaldia",
+      "options": [
+        "Bere semeari aholku sakonak emanez",
+        "Uholde handi bati aurre egiteko arka bat eraikitzea",
+        "Gaixotasun larri bati pazientziaz aurre egitea",
+        "Lurraren muturreraino bidaiatzen",
+        "Jainkozko tabletak mendi batean jasotzea"
+      ],
+      "answer": "Bere semeari aholku sakonak emanez"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Bere semeari emandako aholkua",
+        "Sasi erretzailea",
+        "Musaren langileak.",
+        "Urrezko txahala",
+        "Burdinazko ateak."
+      ],
+      "answer": "Bere semeari emandako aholkua"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Bere aholkua jainkozko idatzietan hilezkor geratu zen",
+        "Profezia eta lege berri bat eman zizkioten",
+        "Erresuma zabal baten gaineko agintari boteretsu bihurtu zen",
+        "Heriotzarik gabe zerura igo zen",
+        "Aingeruarengandik zuzenean errebelazio bat jaso zuen"
+      ],
+      "answer": "Bere aholkua jainkozko idatzietan hilezkor geratu zen"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

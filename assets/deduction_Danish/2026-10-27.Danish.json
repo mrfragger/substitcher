@@ -1,0 +1,61 @@
+{
+  "title": "En belejring under en pludselig himmel",
+  "intro": "Du står foran en formidabel hær, der nærmer sig et æret fristed, med alle våben klar og sejren tilsyneladende sikker. Før angrebet kan begynde, dukker en uventet magt op over dig, og kampen tager en drejning, ingen havde forudset.",
+  "clues": [
+    "Vi marcherede med en tillid, som ingen jordisk magt kunne rokke.",
+    "Vi medbragte mægtige elefanter, og vores styrke syntes at være bygget omkring dem.",
+    "Vi var kommet for at rive et æret fristed ned, i den tro at vores sejr allerede var sikker.",
+    "Da vi nåede dertil, fejede en flok hen over himlen over os.",
+    "Fuglene kastede sten af ​​hærdet ler mod vores krigere.",
+    "Vi blev besejret så fuldstændigt, at vores mægtige styrke smuldrede og spredtes som aske."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Elefantens folk",
+        "De to prinser",
+        "Josefs brødre",
+        "Allahs tjener i Dhul-Kifl",
+        "Den retfærdige mands ledsagere"
+      ],
+      "answer": "Elefantens folk"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Det elefantledede angreb på Kaabaen",
+        "Havet der skiller sig foran en udfriet gruppe",
+        "Arkens beslaglæggelse af et tyrannisk folk",
+        "Natturen mellem to moskeer",
+        "Helbredelsen af ​​en spedalsk ved guddommelig kraft"
+      ],
+      "answer": "Det elefantledede angreb på Kaabaen"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Fugle, der bærer lerkugler",
+        "En ark af gopherwood",
+        "En stav forvandlede sig til en slange",
+        "En sten forseglet med et tegn",
+        "En brændende busk"
+      ],
+      "answer": "Fugle, der bærer lerkugler"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Deres mægtige kraft smuldrede som aske",
+        "De krydsede havet sikkert",
+        "De gik uskadt gennem en flammende ovn",
+        "De gik ind i Paradis parvis",
+        "De sov i en hule i 309 år"
+      ],
+      "answer": "Deres mægtige kraft smuldrede som aske"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

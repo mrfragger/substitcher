@@ -1,0 +1,61 @@
+{
+  "title": "Avakerên Stûnên Bilind",
+  "intro": "Tu li ber xirbeyên bajarekî kevnar ê bi heybet radiwestî, stûnên wî yên bilind niha hilweşiyayî ne. Ba di kolanên vala re diqîre, bîranînên gelekî bi hêz ên ku carekê li ser van axan hukum dikirin hildigire. Ew kî bûn?",
+  "clues": [
+    "Em gelekî xwedî hêz û jêhatîbûneke mezin bûn, bi avahiyên xwe yên mezin û şaristaniya xwe ya pêşketî dihatin naskirin.",
+    "Em li welatekî tijî girên qûm û girên kevirî dijiyan, û me bawer dikir ku kes nikare me têk bibe.",
+    "Pêxemberek ji nav xizmên me hat ba me û gazî me kir ku em tenê ji Xwedê re îbadet bikin, lê me ew red kir û tinazên xwe pê kir.",
+    "Me pesnê xwe da û got, 'Kî ji me bihêztir e?' û me di xudperestî û pûtperestiya xwe de berdewam kir.",
+    "Xwedê bayekî pir dijwar bi ser me de şand ku heft şev û heşt rojan lê da û her tişt wêran kir.",
+    "Em gelê Ad bûn, avahîsazên Îramê bûn, û çarenûsa me ji bo hemû kesên ku piştî me hatin hişyariyek bû."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Gelê Adê",
+        "Gelê Semûdê",
+        "Xelkê Medyenê",
+        "Xelkê Tubbayê",
+        "Xelkê El-Rassê"
+      ],
+      "answer": "Gelê Adê"
+    },
+    "trial": {
+      "label": "Cezayê ku li wan hat birîn çi bû? (Çi ceza li wan hat birîn?)",
+      "options": [
+        "Bayekî wêranker",
+        "Baraneke ji keviran",
+        "Teqînek bilind",
+        "Bi lehiyê xeniqîn",
+        "Ji aliyê erdê ve hatiye daqurtandin"
+      ],
+      "answer": "Bayekî wêranker"
+    },
+    "location": {
+      "label": "Navê bajarê wan ê efsanewî çi ye?",
+      "options": [
+        "Îram",
+        "Sodom",
+        "Midî",
+        "Babîl",
+        "Petra"
+      ],
+      "answer": "Îram"
+    },
+    "outcome": {
+      "label": "Çarenûsa wan a dawî çi bû?",
+      "options": [
+        "Ew hatin wêrankirin û mayînên wan bûn ders",
+        "Ew tobe kirin û xilas bûn",
+        "Ew bûne meymûn",
+        "Di deryayê de xeniqîn",
+        "Ew di bin lehiyê de man"
+      ],
+      "answer": "Ew hatin wêrankirin û mayînên wan bûn ders"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

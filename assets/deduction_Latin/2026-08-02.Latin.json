@@ -1,0 +1,61 @@
+{
+  "title": "Inter Terram et Caelum",
+  "intro": "Anima arcana te exspectat in sacris paginis historiae divinae, signa et prodigia portans quae adhuc per saecula resonant. Dum vestigia indiciorum sequeris, per fabulam miraculis notatam iter facies — ab initio mirabili ad ascensum ultra caelum. Potesne hunc servum beatum agnoscere ante ultimum indicium?",
+  "clues": [
+    "Missus sum ut nuntius ad filios Israel cum nuntio misericordiae et lucis.",
+    "Nativitas mea signum mirabile fuit — in hunc mundum sine patre, iussu Omnipotentis, veni.",
+    "Infans adhuc locutus sum, matris meae honorem contra criminationes populi sui defendens.",
+    "Allah permittente, aves ex luto formavi et eis vitam insufflavi — avolaverunt autem coram oculis spectantium.",
+    "Caecos natos sanavi, leprosos curavi, mortuos etiam suscitavi — attamen omne miraculum Dei venia factum est, non mea.",
+    "Cum inimici mei me delere conarentur, Deus me ad caelos extulit et reditum meum ante Diem Iudicii promisit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Isaiae (Iesus)",
+        "Propheta Musa (Moses)",
+        "Propheta Ibrahim (Abraham)",
+        "Propheta Muhammadus",
+        "Propheta Yusuf (Iosephus)"
+      ],
+      "answer": "Propheta Isaiae (Iesus)"
+    },
+    "trial": {
+      "label": "Momentum Definitorium",
+      "options": [
+        "Ad caelum evectus sum",
+        "In ignem ardentem proiectus sum",
+        "exercitum pharaonis validum aggrediebar",
+        "A magna balaena devoratus sum",
+        "Arcam in monte aedificavi"
+      ],
+      "answer": "Ad caelum evectus sum"
+    },
+    "location": {
+      "label": "Signum Sacrum Peractum",
+      "options": [
+        "Aves ex argilla formavi",
+        "Virgam in serpentem converti",
+        "Lunam in duas partes divisi",
+        "Vento et jinn imperavi",
+        "Camelam de petra produxi"
+      ],
+      "answer": "Aves ex argilla formavi"
+    },
+    "outcome": {
+      "label": "Quid de me factum est",
+      "options": [
+        "Ad caelum evectus; reditum promisit",
+        "Magnus imperii princeps factus est",
+        "Populum meum e captivitate eduxi",
+        "Divitiae terrenae incomparabiles datae sunt",
+        "Post longam separationem cum familia mea iterum coniunctus sum"
+      ],
+      "answer": "Ad caelum evectus; reditum promisit"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

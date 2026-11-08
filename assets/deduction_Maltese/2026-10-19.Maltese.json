@@ -1,0 +1,61 @@
+{
+  "title": "L-Imkeċċija tas-Smewwiet",
+  "intro": "Esseri misterjuż jinsab f’salib it-toroq bejn il-ħolqien u ċ-ċaħda. L-istorja tagħhom hija waħda ta’ arroganza bla paragun u l-akbar sfida ta’ kmand divin. L-għażla tagħhom tidwi f’kull ġenerazzjoni, u ssir test għal kull ruħ imwielda f’din id-dinja. Tista’ tidentifika dan l-avversarju etern?",
+  "clues": [
+    "Jiena kont preżenti għal avveniment ta’ sinifikat kożmiku, meta bniedem ġdid ġie ffurmat mit-tafal u ngħata l-ħajja permezz tan-Nifs tal-Ħanin.",
+    "Jiena stess ġejt mibdul minn element wieħed jaqbad, għall-kuntrarju ta' dak il-ħlejqa tat-trab.",
+    "Ingħatajt kmand li qist li kien taħt il-pożizzjoni tiegħi.",
+    "Il-kburija żdiedet fija, u rrifjutajt b’mod sod li nobdi dak il-kmand.",
+    "Ingħatajt dewmien sakemm Jum maħtur, sabiex inkun nista' nsegwi l-iskop iddikjarat tiegħi li nqarraq b'ħaddieħor.",
+    "Jiena l-għadu ddikjarat ta’ dawk kollha li jimxu fuq l-art, inxerred inganni u nħajjarhom 'il bogħod mit-triq id-dritta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Iblis (Satana)",
+        "Fargħun (Fir'awn)",
+        "Ħaman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satana)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Irrifjuta li jmil quddiem Adam",
+        "Iddikjarat divinità falzament",
+        "Fassra għoġol tad-deheb għall-qima",
+        "Qatel lil ħuh minħabba l-għira",
+        "Mexxa l-oppożizzjoni politeista f'Mekka"
+      ],
+      "answer": "Irrifjuta li jmil quddiem Adam"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Ġenna (Jannah)",
+        "Il-palazz tal-Fargħun fl-Eġittu",
+        "Il-wied sagru ta’ Tuwa",
+        "Il-fond tal-baħar",
+        "Il-ġnien ta’ Xeba"
+      ],
+      "answer": "Ġenna (Jannah)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ingħata mistrieħ sal-Jum tal-Ġudizzju",
+        "Għerqet flimkien mal-armata fil-baħar",
+        "Mibela’ mill-art flimkien mat-teżori",
+        "Trasformati f’xadini talli kisru s-Sabat",
+        "Maħruq minn ġebel mitfugħ mis-sema"
+      ],
+      "answer": "Ingħata mistrieħ sal-Jum tal-Ġudizzju"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

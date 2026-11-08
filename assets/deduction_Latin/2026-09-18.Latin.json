@@ -1,0 +1,61 @@
+{
+  "title": "Vocatio e Valle Sacra",
+  "intro": "Ultra paginas historiae latet fabula animae quae inter potentem principem et totum populum servitum stetit. Hic homo vocatus est ad gentem a tyrannide liberandam, mirabilia perficiens quae omnem legem naturalem spreverunt. A monte sacro ad miraculum super aquas, hic servus Dei signa vidit quae per saecula resonarent. Munus tuum hodie est hanc figuram insignem identificare, cuius hereditas cursum historiae humanae formavit.",
+  "clues": [
+    "Natus sum tempore quo populus meus decreto mortifero premebatur, et familia mea me in aquas deiecit ut vitam meam servaret.",
+    "In ipsa domo rectoris qui mortem generis mei iusserat, inventus et educatus sum.",
+    "Ad montem sacrum fugi, ubi ignem in ligno vidi qui non consumebatur, et vox ex eo mihi locuta est.",
+    "Ad illum ipsum principem cum miraculis remissus sum, libertatem populi mei servi postulans.",
+    "Percuti mare virga mea, et abiit in semitas aridas, deglutiens eos qui persequebantur populum meum.",
+    "Quadraginta noctes cum Domino meo in monte communicavi, et tabulae divinae directionis mihi concessae sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Musa",
+        "Propheta Harun",
+        "Propheta Ibrahim",
+        "Propheta Iosue",
+        "Propheta Dawud"
+      ],
+      "answer": "Propheta Musa"
+    },
+    "trial": {
+      "label": "Meum Iudicium Definitivum",
+      "options": [
+        "Disiunctio Maris",
+        "Arca Magna Aedificanda",
+        "Iudicium ab Igne Ardente",
+        "Clausura in Ventro Balaenae",
+        "Incarceratio a magistratu Aegyptio"
+      ],
+      "answer": "Disiunctio Maris"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Baculus Pastoris",
+        "Arca Lignea Magna",
+        "Antrum Ubi Tempus Dormivit",
+        "Hortus cum Duobus Fontibus",
+        "Thronus auro ornatus"
+      ],
+      "answer": "Baculus Pastoris"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populus meus mare ad salutem transiit",
+        "Magnum Diluvium infideles delevit",
+        "Ignis Tyranni Frigidus et Pacificus Factus Est",
+        "Mare Captivum Suum in Litus Eiecit",
+        "Captivus Quaestor Aegypti Factus Est"
+      ],
+      "answer": "Populus meus mare ad salutem transiit"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

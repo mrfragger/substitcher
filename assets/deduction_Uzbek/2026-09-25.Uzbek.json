@@ -1,0 +1,61 @@
+{
+  "title": "Shohlikni buzgan to'g'on",
+  "intro": "Oqayotgan daryolar, ikkita yashil bog' va mislsiz farovonlik yurti — lekin uning aholisi ularni barakalagan Zotdan bexabar edilar. Ularni qaytarib chaqiradigan eslatmalar kelganda, ular yuz o'girishdi. Keyin esa hali ham ogohlantirish sifatida aks-sado beradigan jazo keldi. Bu qadimgi jamoa kim edi?",
+  "clues": [
+    "Biz shunchalik muborak yurtda yashardikki, uyimiz ikkita yashil bog' orasida edi.",
+    "Biz yerlarimizdan oqib o'tadigan daryolardan va uylarimizni to'ldirib turgan mo'l hosildan zavqlanardik.",
+    "Lekin biz Rabbimizga shukr qilish va itoat qilishga chaqirilganimizda, mag'rurlik bilan yuz o'girdik.",
+    "Bizning boyligimiz va qulayligimiz bizga bularning barchasini bergan Zotni unutishga majbur qildi.",
+    "Keyin to'satdan biz suyangan ulkan to'siqni yorib o'tuvchi sel keldi.",
+    "Biz Saba’ xalqimiz, uning yurti buyuk Ma’rib to‘g‘oni bilan mashhur edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Saba xalqi",
+        "Xandaq odamlari",
+        "Quduqning sheriklari",
+        "Tubba qavmi",
+        "Midiyon xalqi"
+      ],
+      "answer": "Saba xalqi"
+    },
+    "trial": {
+      "label": "Bizning qulashimiz",
+      "options": [
+        "To'g'onning yorilishi natijasida suv toshqini",
+        "Osmondan kuchli shamol esmoqda",
+        "Olov xandaqida yonish",
+        "Kuchli zilzila",
+        "Katta suv toshqinida cho'kib ketish"
+      ],
+      "answer": "To'g'onning yorilishi natijasida suv toshqini"
+    },
+    "location": {
+      "label": "Asosiy joylashuv",
+      "options": [
+        "Ma'rib to'g'oni",
+        "Sinay tog'i",
+        "Yetti uxlab yotganning g'ori",
+        "Yonayotgan buta",
+        "Dengizning ikkiga bo'linishi"
+      ],
+      "answer": "Ma'rib to'g'oni"
+    },
+    "outcome": {
+      "label": "Bizning taqdirimiz",
+      "options": [
+        "Ikkita achchiq bog' bizning yam-yashil bog'larimizni almashtirdi",
+        "Bog'larimiz yanada serhosil bo'lib o'sdi",
+        "Yer dengiz ostiga cho'kdi",
+        "Biz vulqon kuliga ko'milgan edik",
+        "Bizning xalqimiz o'n ikki qabilaga bo'lindi"
+      ],
+      "answer": "Ikkita achchiq bog' bizning yam-yashil bog'larimizni almashtirdi"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

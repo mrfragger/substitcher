@@ -1,0 +1,61 @@
+{
+  "title": "Le sommeil au-delà du temps",
+  "intro": "Imaginez une époque où la vérité était étouffée et les croyants persécutés. Un petit groupe choisit la retraite plutôt que la reddition, trouvant refuge dans le lieu le plus improbable – un lieu qui deviendrait leur havre de paix pour des siècles et des siècles. À leur réveil, le monde avait changé. Qui sont ces âmes endormies ?",
+  "clues": [
+    "Nous étions de jeunes gens vivant dans une ville antique.",
+    "Notre communauté exigeait que nous priions avec elle, mais nous avons refusé.",
+    "Nous avons fui la ville pour trouver refuge loin de ceux qui s'opposaient à nos convictions.",
+    "Un fidèle compagnon à quatre pattes restait à l'entrée de notre cachette.",
+    "Allah nous a fait dormir pendant trois cent neuf ans.",
+    "Quand nous nous sommes enfin réveillés, notre ville, qui nous avait autrefois persécutés, avait embrassé la foi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Ashab al-Kahf (Les Gens de la Caverne)",
+        "Ashab al-Fil (L'Armée de l'Éléphant)",
+        "Ashab al-Ukhdud (Les Compagnons de la Tranchée)",
+        "Les Hawariyyun (Disciples d'Isa)",
+        "Yajuj wa Majuj (Gog et Magog)"
+      ],
+      "answer": "Ashab al-Kahf (Les Gens de la Caverne)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Nous nous sommes réfugiés dans une grotte et avons dormi pendant des siècles.",
+        "Nous avons été sauvés d'un incendie dévastateur",
+        "Nous avons été avalés par un énorme poisson",
+        "Nous avons été mis à l'épreuve avec une chamelle miraculeuse",
+        "On nous a donné neuf signes clairs"
+      ],
+      "answer": "Nous nous sommes réfugiés dans une grotte et avons dormi pendant des siècles."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une grotte profonde dans les montagnes",
+        "Un bateau en pleine mer",
+        "Une structure imposante qui touche le ciel",
+        "Un jardin partagé entre deux rivaux",
+        "Une barrière de fer et de cuivre"
+      ],
+      "answer": "Une grotte profonde dans les montagnes"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Nous nous sommes réveillés et avons constaté que notre ville s'était tournée vers la foi.",
+        "Un feu flamboyant s'est transformé en un feu frais et paisible",
+        "Une armée ennemie a été engloutie par la mer",
+        "Des oiseaux chargés de pierres ont détruit l'ennemi.",
+        "Un gros poisson nous a relâchés sur le rivage."
+      ],
+      "answer": "Nous nous sommes réveillés et avons constaté que notre ville s'était tournée vers la foi."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Un mic avertisment înaintea unei oști în marș",
+  "intro": "Pășește într-o vale unde se apropie un conducător puternic și o vastă oaste și imaginează-ți un mic călător care dă un avertisment ce salvează o întreagă comunitate. Pe măsură ce comunitatea amenințată ajunge la adăpost, pericolul trece. Urmărește indiciile pentru a identifica figura trecută cu vederea din spatele acelui avertisment.",
+  "clues": [
+    "Mă număr printre micile creaturi asociate cu regatul unui conducător.",
+    "Comunitatea mea trăiește în locuințe într-o vale, unde fiecare dintre noi îi poate chema pe ceilalți.",
+    "Ne confruntăm cu o amenințare din partea acelui conducător și a armatelor care călătoresc cu el.",
+    "Eu sunt cel care cheamă comunitatea mea să intre în locuințele lor și ne avertizează să nu ne lăsăm zdrobiți fără să știm.",
+    "Conducătorul este Sulayman, iar specia mea se numără printre creaturile plasate sub comanda sa.",
+    "Eu sunt furnica acelei văi; după avertismentul meu, am intrat în locuințele noastre și am scăpat de zdrobirea care altfel ne-ar fi luat prin surprindere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Furnica din Vale",
+        "Pupăza",
+        "Corbul",
+        "Şarpele",
+        "Catârul"
+      ],
+      "answer": "Furnica din Vale"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Un avertisment care a cruțat o comunitate de furnici",
+        "O cerere pentru un inel de la un pește",
+        "O căutare a unui tron ​​dispărut",
+        "Salvarea ochilor furați",
+        "Refuzul de a mânca mâncarea unui conducător"
+      ],
+      "answer": "Un avertisment care a cruțat o comunitate de furnici"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Valea Furnicilor",
+        "Inelul cu sigiliu al lui Sulayman",
+        "Cămașa pătată de sânge a lui Yusuf",
+        "Vițelul de aur al Exodului",
+        "Toiagul lui Musa"
+      ],
+      "answer": "Valea Furnicilor"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Comunitatea a fost salvată după ce s-a adăpostit",
+        "Comunitatea a fost distrusă fără a se adăposti",
+        "Comunitatea a fost cruțată deoarece armata s-a retras",
+        "Comunitatea a fost răsplătită cu controlul asupra păsărilor",
+        "Comunitatea a fost dusă captivă la curtea regală"
+      ],
+      "answer": "Comunitatea a fost salvată după ce s-a adăpostit"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

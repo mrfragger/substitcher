@@ -1,0 +1,61 @@
+{
+  "title": "Hääl põlevast põõsast",
+  "intro": "Paljasta lahti sügava tegelase identiteet, kelle teekond algas imelise kohtumisega ja kelle saatus oli põimunud rõhutud rahva vabastamisega. See inimene valiti monumentaalse ülesande täitmiseks, seistes silmitsi tohutute väljakutsetega jumaliku toetuse abil.",
+  "clues": [
+    "Ma sündisin suure rõhumise ajal, kus minu rahva imikuid tapeti.",
+    "Minu varases elus pani vanem mind jõkke, kuid mind leiti ja kasvasin üles oma rahva rõhuja majapidamises.",
+    "Kord põgenesin linnast pärast seda, kui olin tüli käigus tahtmatult ühe inimese surma põhjustanud.",
+    "Sain pühas paigas jumaliku sõnumi ja imelise kepi, kus mul kästi võimsa valitsejaga silmitsi seista.",
+    "Mu vend määrati mulle misjonil abiliseks, kuna ma tajusin kõnes takistust.",
+    "Ma juhtisin oma rahva üle lõhenenud mere, põgenedes türanliku armee jälitamise eest."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Yusuf",
+        "Prohvet Isa",
+        "Prohvet Musa",
+        "Prohvet Noa",
+        "Prohvet Ibrahim"
+      ],
+      "answer": "Prohvet Musa"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kestvad põuaaastad",
+        "Laeva ehitamine",
+        "Vaarao ja tema nõidadega silmitsi seismine",
+        "Tulisse ahju heidetud",
+        "Thamudi rahva hävitamine"
+      ],
+      "answer": "Vaarao ja tema nõidadega silmitsi seismine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kaaba",
+        "Raudmüür",
+        "Personal",
+        "Nuhi laev",
+        "Sulaimani sõrmus"
+      ],
+      "answer": "Personal"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Soodoma linn pandi maatasa",
+        "Maa neelas inimesed alla",
+        "Suur veeuputus haaras maa",
+        "Vaarao ja tema armee uppusid",
+        "Linnamüürid varisesid nutu peale kokku"
+      ],
+      "answer": "Vaarao ja tema armee uppusid"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

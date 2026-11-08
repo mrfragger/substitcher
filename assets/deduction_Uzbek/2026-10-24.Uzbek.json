@@ -1,0 +1,61 @@
+{
+  "title": "Yer ostidagi ogohlantirish",
+  "intro": "Pastdan ovozlar ko'tarilayotganda va yuqoridagi dunyo jim bo'lib qolganda chuqur qazishma yonida turganingizni tasavvur qiling. Qur'on bu manzarani ogohlantirish sifatida saqlab qoladi: bir jamoa elchilar olib kelgan narsani rad etadi, jazo yaqinlashadi va hatto uning g'uvillashi ham guvohlikning bir qismiga aylanadi. Qaysi jamoa bu oyatlar orqali gapiradi?",
+  "clues": [
+    "Qur'onda biz individual nom bilan emas, balki umumiy taqdir bilan belgilangan jamoa sifatida esga olinamiz.",
+    "Biz elchilar keltirgan xabarni rad etdik, garchi ularning aytganlari rost bo'lsa ham.",
+    "Bizning eslab qolgan kimligimiz yer yuzidagi chuqur kesma bilan bog'liq va bu xususiyat bizning ismimizning bir qismiga aylangan.",
+    "Belgilangan kuni bizni tashqariga olib chiqib, olov tomon sudrab borishdi.",
+    "Biz jazodan o'zimizni himoya qila olmadik va uning gumburlashini eshita olmadik.",
+    "Yuzlarimiz olovda burilar va bizni olovga uloqtirib yuborishardi; so'ralganda, biz javob bera olmaydiganlar qatorida ekanligimizni aytardik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Xandaqdagi sahobalar",
+        "Buyuk To'fondan xalos bo'lgan xalq",
+        "Oltin Buzoqning sig'inuvchilari",
+        "Guruh tog' g'orining ichida boshpana topdi",
+        "Olovli pechdan qutqarilgan jamiyat"
+      ],
+      "answer": "Xandaqdagi sahobalar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Sudrab olovga tashlandi",
+        "Olovli pechdan qutqarildi",
+        "Katta suv toshqini orqali xavfsiz olib o'tildi",
+        "Asrlar davomida g'or ichida boshpana topgan",
+        "Quduqqa tashlanganidan keyin qutqarildi"
+      ],
+      "answer": "Sudrab olovga tashlandi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Xandaq yoki chuqur",
+        "Buyuk dengiz",
+        "Tog' g'ori",
+        "Baland saroy",
+        "Cho'l qudug'i"
+      ],
+      "answer": "Xandaq yoki chuqur"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "O'zlarini himoya qila olmaslik va olovning gumburlashini eshita olmaslik",
+        "Qutqarildi va abadiy bog'larga kirish huquqi berildi",
+        "Vayronkor suv toshqini paytida xavfsiz yetkazib berildi",
+        "G'or ichida uzoq uyqu bilan himoyalangan",
+        "Abadiy shohlik bilan taqdirlangan"
+      ],
+      "answer": "O'zlarini himoya qila olmaslik va olovning gumburlashini eshita olmaslik"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

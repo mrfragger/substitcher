@@ -1,0 +1,61 @@
+{
+  "title": "Auditores Occulti Qui Credebant",
+  "intro": "In silentio sacrae congregationis, ex regno invisibili coetus insignis advenit. Susurris alicuius rei mirabilis tracti, recitationem audiebant quae fatum eorum in perpetuum signaret. Testimonium eorum inter singularissima in scripturis divinis manet.",
+  "clues": [
+    "Entia sumus ex regno plerisque invisibili, et ut grex venimus.",
+    "Ad conventum iter fecimus ut aliquid mirabile audiremus.",
+    "Cum advenissemus, recitationem audivimus quae nos attonitos reliquit.",
+    "Aperte confessi sumus quosdam inter nos iustos esse, quosdam non.",
+    "Sciebamus nos neque in terris neque volatu in caelum divinum decretum effugere posse.",
+    "Cum consilium audivimus, in eo credidimus; quicumque in Domino suo credit, non timebit damnum aut onus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Grex Jinnorum",
+        "Populus Irae",
+        "Populus Tubbae",
+        "Imperium Romanum",
+        "Tribus Qurayshorum"
+      ],
+      "answer": "Grex Jinnorum"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Sacram recitationem audiens",
+        "Aedificantes columnas excelsas in urbe nostra",
+        "Venatio camelæ magnificæ",
+        "Deleti propter prophetas nostros necandos",
+        "Divitias ultra modum multiplicans"
+      ],
+      "answer": "Sacram recitationem audiens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Conventus recitationis sacrae",
+        "Urbs columnarum altarum (Iram)",
+        "Puteus in deserto",
+        "Magnum palatium aureum",
+        "Spelunca sacra in montibus"
+      ],
+      "answer": "Conventus recitationis sacrae"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Credimus et populum nostrum monuimus",
+        "Ingenti caelorum flatu deleta",
+        "Punitus vento urente et pernicioso",
+        "Immensis divitiis et potestate concessis",
+        "Incredulitate constanter permansit"
+      ],
+      "answer": "Credimus et populum nostrum monuimus"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

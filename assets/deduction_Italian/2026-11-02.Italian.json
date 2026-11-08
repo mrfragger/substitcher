@@ -1,0 +1,61 @@
+{
+  "title": "L'alleato incrollabile in una prova d'oro",
+  "intro": "All'ombra di un grande profeta, un'anima di eloquenza e fede fu scelta per assistere in una missione monumentale. Questa figura rimase salda quando le masse vacillarono, predicando contro una palese trasgressione che minacciava il nucleo stesso del monoteismo. Quando il profeta tornò e assistette alla caduta del popolo, la difesa di questa figura non fu dettata dal senso di colpa, ma dal dovere e dal timore della divisione. Chi è questo devoto servitore di Allah?",
+  "clues": [
+    "Sono stato scelto da Allah per un sacro dovere, insieme a un altro, e il mio ruolo è stato quello di sostegno e proclamazione.",
+    "Mi fu concessa la chiarezza di parola e accompagnai un messaggero ad affrontare un potente oppressore.",
+    "Durante un viaggio cruciale, il messaggero scalò una montagna da solo, lasciandomi a vegliare sul popolo.",
+    "In loro assenza, il popolo creò un'immagine dorata, e io li supplicai di rimanere fedeli, ma rifiutarono il mio consiglio.",
+    "Quando il messaggero tornò, pieno di rabbia e dolore, fui afferrato, ma spiegai di essere stato sopraffatto e di aver temuto di causare discordia tra loro.",
+    "Io sono il profeta che stava accanto a Mosè, mio ​​fratello, condividendo il suo fardello e rimanendo saldo contro l'idolatria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Harun",
+        "Profeta Mosè",
+        "Profeta Isa",
+        "Profeta Dawud",
+        "Profeta Zakariyya"
+      ],
+      "answer": "Profeta Harun"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La gente adorava un vitello d'oro nonostante gli avvertimenti",
+        "La gente mi ha gettato in un fuoco ardente",
+        "Sono stato inghiottito da un grande pesce",
+        "Sono stato imprigionato con false accuse",
+        "Sono stato esiliato dalla mia città per aver predicato"
+      ],
+      "answer": "La gente adorava un vitello d'oro nonostante gli avvertimenti"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il vitello d'oro",
+        "Il roveto ardente",
+        "Il bastone che si trasformò in un serpente",
+        "Le Tavole dell'Alleanza",
+        "L'Arca dell'Alleanza"
+      ],
+      "answer": "Il vitello d'oro"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Sono stato scagionato e ho continuato la mia missione profetica",
+        "Sono stato punito per il peccato del popolo",
+        "Mi è stata affidata una nuova nazione da guidare",
+        "Sono stato portato in cielo vivo",
+        "Fui nominato sovrano di un regno"
+      ],
+      "answer": "Sono stato scagionato e ho continuato la mia missione profetica"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

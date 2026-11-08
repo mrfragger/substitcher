@@ -1,0 +1,61 @@
+{
+  "title": "Hilgirê Neh Nîşanan",
+  "intro": "Kesayetek ji destpêkên herî dilnizm derket holê, bi çarenûsek ku di îradeya îlahî de hatiye nivîsandin. Di zarokatiyê de veşartî û di nav dîwarên heman serwerê ku dixwest gelê wan tune bike de mezin bû, ev giyan di dawiyê de ji bo mîsyonek mezin hate gazîkirin. Bi bawerî û gopalek şivanekî dilnizm, ew li ber serwerê herî bihêz ê serdemê sekinîn û ji bo yên ku di koletiyê de bûn azadî xwestin. Cîhan bi xwe xuya bû ku bi fermana wan dimeşe - av ji hev veqetiyan, ezman axivîn, û padîşahiyek hilweşiya.",
+  "clues": [
+    "Rojên min ên pêşîn bi tirsê derbas bûn - pitikên mîna min ji hêla hukumdarekî bêrehm ve ku ji pêşerojê ditirsiya, ji dema jidayikbûnê ve dihatin nêçîrkirin.",
+    "Ez bi avê hatim rizgarkirin û di qesra wî hukumdarê ku dixwest min tune bike de mezin bûm.",
+    "Piştî bûyerek ji nişka ve, ez ji welatê xwe reviyam û li welatekî dûr bûm şivanekî dilnizm.",
+    "Ez vegeriyam da ku bi gopalek sade û peyamek zelal rûbirûyê wî hukumdarê bihêz bibim, û daxwaza azadiya gelê xwe bikim.",
+    "Min ji bo kesên ku li pey min dihatin, golek mezin ji avê vekir û min temaşe kir ka çawa wan avan dijminê min bi tevahî daqurtand.",
+    "Ez ji bo wergirtina rêberiya îlahî ji Xwedê hilkişiyam çiyayekî pîroz, û neh nîşanên zelal wekî delîlên rastiyê ji min re hatin dayîn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Mûsa",
+        "Pêxember Nûh",
+        "Pêxember Îbrahîm",
+        "Pêxember Yûsif",
+        "Pêxember Lût"
+      ],
+      "answer": "Pêxember Mûsa"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Li dadgeha Fîrewn rû bi rû dimînin",
+        "Avakirina Keştiyê ji bo xilasbûna ji tofana mezin",
+        "Ji aliyê pûtperestan ve tên avêtin nav agirê geş",
+        "Ji aliyê birayên min ve ez hatim xwarê nav bîreke kûr",
+        "Hewl didim gelê xwe ji tevgerên neexlaqî rawestînim"
+      ],
+      "answer": "Li dadgeha Fîrewn rû bi rû dimînin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Dara ku veguherî mar",
+        "Keştiya Nûh",
+        "Textê Bilqisê",
+        "Xeleka ku bayê û cin kontrol dikir",
+        "Mifteyên xezîneyên komkirî yên ewqas giran"
+      ],
+      "answer": "Dara ku veguherî mar"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Gelê min di nav avên cuda re ber bi azadiyê ve bir",
+        "Di hundirê keştiyekê de ji lehiyê mezin rizgar bû",
+        "Piştî êşeke giran saxlemî û malbat vegeriya",
+        "Zindî ji masiyek mezin hate avêtin",
+        "Bingehên Mala Pîroz ava kirin"
+      ],
+      "answer": "Gelê min di nav avên cuda re ber bi azadiyê ve bir"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

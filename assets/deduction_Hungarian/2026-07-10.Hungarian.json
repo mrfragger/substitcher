@@ -1,0 +1,61 @@
+{
+  "title": "A kilenc jel hordozója",
+  "intro": "Egy alak emelkedett fel a legszerényebb kezdetekből, isteni akaratba foglalt sorssal. Csecsemőkorában elrejtve, és népük elpusztítására törekvő uralkodó falai között nevelkedett, ez a lélek végül hatalmas küldetésre kapott elhívást. Csupán hittel és alázatos pásztori bottal felvértezve álltak koruk leghatalmasabb uralkodója elé, és szabadságot követeltek a rabszolgasorban élőknek. Maga a világ is megmozdult parancsukra – vizek kettéváltak, az egek szóltak, és egy királyság bukott meg.",
+  "clues": [
+    "Legkorábbi napjaimat a félelem jellemezte – a hozzám hasonló csecsemőket születésüktől fogva egy könyörtelen uralkodó üldözte, aki félt a jövőtől.",
+    "Víz mentett meg, és annak az uralkodónak a palotájában nevelkedtem, aki a pusztulásomat akarta.",
+    "Egy hirtelen incidens után elmenekültem a hazámból, és alázatos pásztor lettem egy távoli földön.",
+    "Visszatértem, hogy egyszerű bottal és világos üzenettel szembeszálljak a hatalmas uralkodóval, követelve népem szabadságát.",
+    "Hatalmas vízfelületet választottam szét azoknak, akik követtek, és néztem, ahogy a vizek egészben elnyelik ellenségemet.",
+    "Felmásztam egy szent hegyre, hogy isteni útmutatást kapjak Allahtól, és kilenc egyértelmű jelet kaptam az igazság bizonyítékául."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes próféta",
+        "Nuh próféta",
+        "Ibrahim próféta",
+        "Juszuf próféta",
+        "Lut próféta"
+      ],
+      "answer": "Mózes próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Szembenézés a fáraóval az udvarában",
+        "A bárka építése, hogy túlélje a nagy özönvizet",
+        "Bálványkészítők lángoló tűzbe vetik",
+        "Testvéreim mély kútba eresztettek",
+        "Megpróbálom megakadályozni az embereimet az erkölcstelen viselkedésben"
+      ],
+      "answer": "Szembenézés a fáraóval az udvarában"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A kígyóvá változott bot",
+        "Nuh ládája",
+        "Bilqis trónja",
+        "A gyűrű, amely a szelet és a dzsinneket irányította",
+        "A felhalmozott kincsek kulcsai olyan nehezek"
+      ],
+      "answer": "A kígyóvá változott bot"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Átvezettem népemet a kettévált vizeken a szabadságba",
+        "Egy bárkában megmenekültek egy nagy árvíztől",
+        "Mély szenvedés után visszanyerte egészségét és családját",
+        "Élve kidobták egy nagy halból",
+        "Megépítették a Szent Ház alapjait"
+      ],
+      "answer": "Átvezettem népemet a kettévált vizeken a szabadságba"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

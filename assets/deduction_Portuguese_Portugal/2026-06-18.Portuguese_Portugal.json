@@ -1,0 +1,61 @@
+{
+  "title": "O primeiro a buscar o perdão",
+  "intro": "Retroceda a um tempo anterior ao primeiro amanhecer, antes mesmo de qualquer mortal caminhar sobre a Terra. Uma figura foi esculpida nos materiais mais humildes, elevada a um lugar acima dos anjos e colocada em um jardim sagrado com uma clara advertência. Contudo, em um único instante, uma escolha foi feita — uma escolha que reverberaria por toda a história da humanidade. Quem é essa figura?",
+  "clues": [
+    "Fui trazido à existência de uma forma diferente de qualquer outra — moldado a partir do pó da terra e dotado de uma alma vivente pela mão do Criador.",
+    "Recebi um conhecimento tão profundo que até os anjos lá de cima se maravilharam com ele.",
+    "Foi ordenado a todos os céus que se curvassem diante de mim, e todos se submeteram — exceto um, que se recusou por orgulho.",
+    "Fui colocado em um jardim sagrado, um lugar de conforto e provisão eternos — mas com uma proibição estrita.",
+    "Eu esqueci, escorreguei e desobedeci — e senti profundamente o peso do meu erro.",
+    "Voltei-me para o meu Senhor com palavras sinceras, e Ele aceitou meu arrependimento, pois Ele é o Mais Perdoador."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Adão",
+        "Profeta Dawud",
+        "Profeta Maomé",
+        "Iblis",
+        "Profeta Yaqub"
+      ],
+      "answer": "Profeta Adão"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Os anjos receberam a ordem de se prostrarem.",
+        "O Grande Dilúvio foi enviado",
+        "Uma grande fogueira foi resfriada e mantida segura.",
+        "Um governante arrogante se afogou no mar.",
+        "Um exército de elefantes foi destruído."
+      ],
+      "answer": "Os anjos receberam a ordem de se prostrarem."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O Jardim da Felicidade",
+        "Monte Sinai",
+        "A Mesquita Sagrada",
+        "O Rio Nilo",
+        "A caverna"
+      ],
+      "answer": "O Jardim da Felicidade"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O arrependimento foi aceito por Alá.",
+        "Afogado no mar",
+        "Engolido por um peixe enorme",
+        "A nação foi atingida por uma explosão poderosa.",
+        "Queimado por um vento escaldante"
+      ],
+      "answer": "O arrependimento foi aceito por Alá."
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

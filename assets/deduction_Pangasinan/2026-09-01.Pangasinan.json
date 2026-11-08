@@ -1,0 +1,61 @@
+{
+  "title": "Say Boses manlapud Paway",
+  "intro": "Manalalagey ka ed sakey a siudad a sinmabi so taloran mensahero a walaan na malinew iran tanda, balet luludlureyen ira na saray totoo tan mansiasiansia ira ed daan iran kagagawa ra. Manlapud sankaarawian a parte na syudad, walay sakey a too ya ombabatik ya amaarap ed karaklan, ya agmakapanlinawa tan determinado, ya mansalita na tua anggaman ag-ira ag-awaten. Siopa iyan kamarerwa ya inrisga toy amin parad mensahen aliwan dilin mensahe ra?",
+  "clues": [
+    "Nanayam ak ed limog na totoon angawat na saray mensahero a walaan na malinew iran tanda, balet ta inmarawi ira lapud inkatangsit da.",
+    "Binmatik ak a nanlapud sankaarawian a pasen na syudad sanen nadngel koy tawag na saray imbaki.",
+    "Inkuankod saray totook, O totook, tombok yo ray imbaki. Tumboken mo ray ag onkekerew na tumang ed sika, ta sikaray naiwanwan ed dugan paraan.'",
+    "Aliwa ak a propita, balet manisia ak ed saray imbaki tan binilin ko ray totook a gawaen da met so ontan.",
+    "Inelek-elekan na totook so simbawak tan inakusaan da ak ya sakey ya extremist.",
+    "Nen pinatey da ak, imbaga nen Allah ya onloob ak ed Paraiso, tan labay ko komon ya naamtaan na totook so panamerdona tan kagalangan ya naawat ko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Say laki a nanlapud sankaarawian a pasen na syudad (Ya-Sin)",
+        "Sakey ed saray taloran mensahero ya imbaki ed syudad",
+        "Sakey a prominentin negosyante ed syudad",
+        "Sakey a manuley ed syudad",
+        "Say pangulo na saray ag mananisia"
+      ],
+      "answer": "Say laki a nanlapud sankaarawian a pasen na syudad (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Manpupulong ed saray totoo to ya tumboken da ray mensahero",
+        "Manggawa na barko pian nisalba iray mananisia ed delap",
+        "Say pangibantak ed apoy parad pananisia",
+        "Say inakmon na balyena",
+        "Naikdan na panarian tan kakabatan"
+      ],
+      "answer": "Manpupulong ed saray totoo to ya tumboken da ray mensahero"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say sankaarawian a parte na syudad",
+        "Say biong",
+        "Say bobon",
+        "Say manpopoolan a kakiewan",
+        "Say ungib"
+      ],
+      "answer": "Say sankaarawian a parte na syudad"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Linmoob ed Paraiso tan pinirawat ton naamtaan na totoo to so panamerdona to",
+        "Nalner a kaiba iray totoo to lapud ag da inawat so mensahe",
+        "Naikdan na milagro so kabatyan a kamelyo",
+        "Nagmaliw a manuley kayari na bista to",
+        "Inliktar nen Allah tan nansiansia ed saray totoo to"
+      ],
+      "answer": "Linmoob ed Paraiso tan pinirawat ton naamtaan na totoo to so panamerdona to"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

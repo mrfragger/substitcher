@@ -1,0 +1,61 @@
+{
+  "title": "Inceku Ka-Allah Ephakanyisiwe",
+  "intro": "Uzwa ukunyenyeza komuntu wasendulo, inceku ka-Allah eyakhushulelwa esikhundleni esingaphezu kwesivamile. Lo muntu wayaziwa ngokubekezela okungantengantengi kanye neqiniso eliphelele, futhi wathunyelwa kubantu abafulathela umyalezo. Ungubani lo mphefumulo ophakanyisiwe?",
+  "clues": [
+    "Ngakhethwa ngu-Allah njengomprofethi futhi kukhulunywa ngami ku-Quran Engcwele.",
+    "Ngangaziwa ngokubekezela kwami ​​nokuba neqiniso, izimfanelo ezidunyiswa u-Allah.",
+    "Ngabiza abantu bakithi ukuba bakhulekele uNkulunkulu oyedwa, kodwa abaningi bangenqaba.",
+    "Isikhundla sami saphakanyiswa ngu-Allah, futhi nganikwa isikhundla esiphakeme.",
+    "Ngivame ukukhulunywa ngabanye abaprofethi abafana no-Ismail noDhul-Kifl.",
+    "U-Allah uthi ngami: 'Futhi samphakamisa samyisa esikhundleni esiphakeme.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Idris",
+        "Umprofethi u-Eliya",
+        "Umprofethi uDhu al-Kifl",
+        "Umprofethi u-Al-Yasa",
+        "Umprofethi uHud"
+      ],
+      "answer": "Umprofethi u-Idris"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Abantu babizwa ukuba bakhulekele u-Allah",
+        "Wakha umkhumbi",
+        "Walwa noFaro",
+        "Wahlolwa enesifo esibi kakhulu",
+        "Waphonswa emlilweni"
+      ],
+      "answer": "Abantu babizwa ukuba bakhulekele u-Allah"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Isikhundla esiphakeme/isiteshi esiphezulu",
+        "Umkhumbi",
+        "Abasebenzi",
+        "Umlilo",
+        "Umthombo"
+      ],
+      "answer": "Isikhundla esiphakeme/isiteshi esiphezulu"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kuphakanyiswe kwaba sezingeni eliphezulu",
+        "Ngicwile kuzamcolo",
+        "Kugwinywe umkhomo",
+        "Ngisindiswe emlilweni",
+        "Waba yinkosi"
+      ],
+      "answer": "Kuphakanyiswe kwaba sezingeni eliphezulu"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "De märkliga besökarna i en muromgärdad stad",
+  "intro": "En grupp anlände till portarna till en stad vars invånare aldrig hade känt till sanningen. De kom med ett budskap, men invånarna blev fientliga och hotade med våld. Ändå, från en oväntad plats, reste sig en enda röst för att försvara främlingarna och banade väg för en dramatisk vändning.",
+  "clues": [
+    "Vi kom in i en stad vars invånare var uppslukade av misstro.",
+    "De tittade på oss med misstänksamhet och sa: \"Ni är bara vanliga varelser som vi.\"",
+    "Vi varnade dem, men de kastade stenar mot oss.",
+    "En man rusade från stadens yttersta ände för att bekräfta vår sanning.",
+    "Han förklarade för sitt folk: ”Varför skulle jag inte tillbe den som skapade mig?”",
+    "Stadens förnekelse slutade med en enda stöt, och tystnad rådde där de en gång hånade."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vilka är vi?",
+      "options": [
+        "Ya-Sins budbärare",
+        "Jesajas lärjungar",
+        "Folket i skyttegraven",
+        "Faraos magiker",
+        "Den som tror på Ya-Sin"
+      ],
+      "answer": "Ya-Sins budbärare"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Avslag och hot om stening",
+        "Att kastas in i en våldsam eld",
+        "Ett tålamodstest med ett förlorat barn",
+        "En trädgård som lidit förstörelse",
+        "En resa genom havet"
+      ],
+      "answer": "Avslag och hot om stening"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Stadens yttersta ände",
+        "Röda havet",
+        "Eldens dike",
+        "Tillflyktsgrottan",
+        "Egyptens fängelse"
+      ],
+      "answer": "Stadens yttersta ände"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Staden förstördes av ett enda rop",
+        "Havet delade sig och dränkte armén",
+        "Elden blev sval och trygg",
+        "Trädgården förtärdes av en himmelsk eld",
+        "Valen återförde personen till stranden"
+      ],
+      "answer": "Staden förstördes av ett enda rop"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

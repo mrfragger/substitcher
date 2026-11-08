@@ -1,0 +1,61 @@
+{
+  "title": "Ikki bog' aholisi",
+  "intro": "Ne'matlar mo'l-ko'l yog'ilib turadigan yurtda bir jamoa bir vaqtlar ikkita ulug'vor bog'ning ne'matlaridan bahramand bo'lgan. Ularning hayoti ilohiy marhamatning dalili edi, ammo minnatdorchilik so'nib, ularning hikoyasi o'zgarib, tafakkur qiluvchilar uchun abadiy belgi bo'ladigan o'zgarishga olib keldi.",
+  "clues": [
+    "Biz farovonlik va mo'l-ko'lchilik yurtiga ega bo'lgan barakali xalq edik.",
+    "Parvardigorimiz bizga har tomoni serhosil va serhosil bo'lgan ikkita ajoyib bog'ni ato etdi.",
+    "Bizga shukr qilish buyurilgan edi, lekin biz noshukurlikni tanladik va yuz o'girdik.",
+    "Katta to'g'on yerimizga hayot baxsh etgan suvlarni ushlab turardi.",
+    "Biz gunohlarimizda davom etganimizda, to'g'on yorilib, toshqin suvlari oqib o'tdi.",
+    "Bir vaqtlar yam-yashil bo'lgan bog'larimiz o'rnini achchiq mevalar, yulg'unlar va bir nechta nilufar daraxtlari egalladi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Saba xalqi",
+        "Samud qavmi",
+        "Madyan xalqi",
+        "G'or egalari",
+        "Fil xalqi"
+      ],
+      "answer": "Saba xalqi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yetti kecha davomida kuchli shamol",
+        "Osmondan yog'ayotgan toshlar",
+        "To'g'onning yorilishi natijasida vayronkor suv toshqini",
+        "Osmondan baland qichqiriq",
+        "Dengizda cho'kish"
+      ],
+      "answer": "To'g'onning yorilishi natijasida vayronkor suv toshqini"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Ma'ribning buyuk to'g'oni",
+        "Vodiy al-Quro vodiysi",
+        "Iram bog'i",
+        "Zamzam qudug'i",
+        "Sinay tog'i"
+      ],
+      "answer": "Ma'ribning buyuk to'g'oni"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Bog'larimiz achchiq mevalar va siyrak daraxtlar bilan almashtirildi",
+        "Bizni zilzila yer yutib yubordi",
+        "Biz maymun va cho'chqalarga aylanib qoldik",
+        "Biz katta suv toshqinida cho'kib ketdik",
+        "Bizni toshlar yog'ishi vayron qildi"
+      ],
+      "answer": "Bog'larimiz achchiq mevalar va siyrak daraxtlar bilan almashtirildi"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

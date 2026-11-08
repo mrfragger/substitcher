@@ -1,0 +1,61 @@
+{
+  "title": "Mophato o o neng wa Kopana le Letsopa le le Fofang",
+  "intro": "Mo motlheng wa pele ga Moporofeti Muhammad, mmusi mongwe yo o maatla go tswa kwa Yemen o ne a simolola letsholo la sesole le le neng le ikaeletse go senya lefelo le le boitshepo kwa Makkah. Mmaba yono o ne a etelela pele mophato o mogolo wa masole o o neng o feletse ka ditlou tsa ntwa, a itshepa ka maatla le palo ya tsone. Le fa go ntse jalo, loeto lwa bone lo ne lo tla fela ka tshoganyetso fa ba ne ba kopana le tsereganyo e e sa lebelelwang ya bomodimo. A o ka kgona go lemoga gore ke bomang ba ba neng ba lebane le go ikarabela gono go go gakgamatsang?",
+  "clues": [
+    "Re ne ra gwanta le mophato o mogolo wa masole le ditlou tse di maatla tsa ntwa re lebile kwa ntlong e e boitshepo .",
+    "Re ne re ikaeletse go kumola le go senya lefelo la kobamelo le le agilweng ke batlhanka ba Mopelotlhomogi .",
+    "Go ne ga romelwa letsomane la dinonyane tse dinnye kgatlhanong le rona, di rwele matlapa a letsopa mo melomong ya tsone le mo manaleng .",
+    "Re ne ra kgatlhantshiwa ke modumo o o neng o re latlhela matlapa, o re fetola masalela a a gatakilweng .",
+    "Ke ne ke tswa kwa lefatsheng la Yemen mme ke ne ke direla ka fa tlase ga mmusi yo o neng a batla go 挑衅 lefelo le le boitshepo .",
+    "Re ne ra dirwa sekao sa batho ba ba neng ba ka nna le sebete sa go tlhoka lefelo le le boitshepo la ga Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Sesole sa ga Aborahame",
+        "Masole a Ethiopia",
+        "Bafenyi ba Peresia",
+        "Masole a Roma",
+        "Batlhasedi ba Ba-Bedouin"
+      ],
+      "answer": "Sesole sa ga Aborahame"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go dikaganyediwa ga kago ya phemelo ya sekaka",
+        "Go tlhaselwa ga lefelo le le boitshepo kwa Makkah",
+        "Ntwa ya sesole sa lewatle kwa lewatleng",
+        "Go tsuologela kgosi e e bogateledi",
+        "Go batla moporofeti yo o latlhegileng"
+      ],
+      "answer": "Go tlhaselwa ga lefelo le le boitshepo kwa Makkah"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Mokgatšha wa Mina gaufi le Makkah",
+        "Ntlo ya segosi ya Sana'a kwa Yemen",
+        "Dithaba tsa Tihama .",
+        "Motse wa bogologolo wa Jerusalema .",
+        "Mabopo a Lewatle le Lehibidu"
+      ],
+      "answer": "Mokgatšha wa Mina gaufi le Makkah"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Phenyo le go senngwa ga ntlo e e boitshepo",
+        "Go fenngwa ke dinonyane tse di rweleng matlapa a letsopa",
+        "Go ineela ka kagiso le go sokologa",
+        "Leuba le masetlapelo a tlholego",
+        "Go boela morago ka ntlha ya pula e e nang thata"
+      ],
+      "answer": "Go fenngwa ke dinonyane tse di rweleng matlapa a letsopa"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

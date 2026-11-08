@@ -1,0 +1,60 @@
+{
+  "title": "Nauyin Arziki",
+  "intro": "Kana tsaye a gaban wani labari na arziki mai yawa, rayuwa mai ado da zinariya da iko, amma a ƙarshe darasi ne mai gargaɗi ga duk waɗanda ke neman ɗaukakar duniya. Za ka iya gano asalin wannan mutum wanda labarinsa ke maimaitawa a kowane lokaci, shaida ce ta yanayin mallakar duniya mai wucewa?",
+  "clues": [
+    "Na kasance daga cikin mutanen Annabi mai girma, amma na zaɓi hanyar girman kai da zalunci.",
+    "Allah ya ba ni dukiya mai yawa, har makullan taskata suka zama nauyi ga ƙungiyar mutane masu ƙarfi.",
+    "Mutanena sun shawarce ni da kada in yi alfahari da dukiyata, suna tunatar da ni cewa Allah ba ya son masu farin ciki.",
+    "Cikin girman kai na yi iƙirarin cewa babban arzikina ya samo asali ne daga ilimina da ƙoƙarina, ba ni'ima daga Allah ba.",
+    "An yi mini gargaɗi game da cin hanci da rashawa kuma an tunatar da ni in nemi Lahira da abin da Allah ya ba ni, amma na ƙi saurara na ci gaba da alfaharina.",
+    "Daga ƙarshe, Allah ya sa ƙasa ta haɗiye ni da gidana, ba tare da wani mataimaki ba a kan hukuncinsa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Fir'auna",
+        "Haman",
+        "Ƙurun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Ƙurun"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Rabe-raben teku",
+        "Wutar Nimrod",
+        "Ambaliyar ruwa",
+        "Haɗiyewar ƙasa",
+        "Annobar fari"
+      ],
+      "answer": "Haɗiyewar ƙasa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Ma'aikatan",
+        "Ɗan Maraƙin Zinare",
+        "Taskokin/Maɓallan",
+        "Rijiyar Zamzam"
+      ],
+      "answer": "Taskokin/Maɓallan"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba da sarauta",
+        "An cece shi daga halaka",
+        "Ƙasa ta haɗiye ta",
+        "Ya zama annabi",
+        "Ya mutu cikin kwanciyar hankali"
+      ],
+      "answer": "Ƙasa ta haɗiye ta"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

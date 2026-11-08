@@ -1,0 +1,61 @@
+{
+  "title": "Architekt arogancji",
+  "intro": "W starożytnej krainie rządzonej przez buntowniczą potęgę, kluczowa osoba zajmowała wpływową pozycję. Ta dusza odegrała kluczową rolę w wielkich planach władcy, przyczyniając się do jego opresyjnych rządów i podważając boskie przesłanie. Ich dziedzictwo jest splecione z dążeniem do ziemskiej potęgi i zaprzeczeniem prawdy.",
+  "clues": [
+    "Służyłem potężnemu władcy, który uciskał ludzi przez pokolenia.",
+    "Moje imię jest często wymieniane w Boskiej Księdze obok tego potężnego przywódcy.",
+    "Powierzono mi zadanie zbudowania wielkiego projektu budowlanego, wzniesienia ogromnej budowli, która miała sięgać nieba.",
+    "Radziłem swemu panu, aby wymordował synów Izraela i oszczędził ich córki.",
+    "Brałem udział w spiskach i intrygach przeciwko potężnemu posłańcowi Allaha.",
+    "Mój koniec, mój pan i jego armia, nastąpił w wodach ogromnego morza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Poddanie się testowi z ogromnym bogactwem",
+        "Prowadzenie armii przeciwko świętemu domowi",
+        "Budowanie wieży, aby dotrzeć do Boga",
+        "Wrzucenie w ogień za wiarę",
+        "Wrzucenie do studni przez rodzeństwo"
+      ],
+      "answer": "Budowanie wieży, aby dotrzeć do Boga"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Góra",
+        "Wieża",
+        "Wieloryb"
+      ],
+      "answer": "Wieża"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Otrzymanie ogromnej mądrości",
+        "Zostać prorokiem",
+        "Pochłonięty przez ziemię",
+        "Otrzymanie królestwa",
+        "Tonąc w morzu"
+      ],
+      "answer": "Tonąc w morzu"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

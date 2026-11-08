@@ -1,0 +1,61 @@
+{
+  "title": "Tog'larni birlashtirgan ovoz",
+  "intro": "Solih qalbga osmondan favqulodda in'omlar berildi, u hukmdor va jangchiga aylandi, uning tabiati yaratilishning o'zi bilan chambarchas bog'liq edi. Ularning hikoyasi bashorat, shohlik va hunarmandchilik orqali o'tib, ilohiy vahiy sahifalarida aks-sado beradigan meros qoldirdi.",
+  "clues": [
+    "Men Allohning bandasi etib saylandim va tanlangan qavm orasida buyuk saltanatga ega bo'ldim.",
+    "Tog'lar va qushlar men bilan birga Eng oliy Zotni ulug'lashda aks-sado berishardi.",
+    "Temir faqat Allohning irodasi bilan qo'llarimda loy kabi yumshoq bo'ldi.",
+    "Men jangchilarni jangning qizg'in pallasida himoya qiladigan himoya zirhlarini yasadim.",
+    "Bir safar ikki janjalchi kutilmaganda ibodatxonamga bostirib kirganida, men qiyin sinovdan o'tdim.",
+    "Men shamol va jinlarga buyruq bergan hukmdor bilan birga tilga olinganman — chunki bu hukmdor mening o'z avlodim edi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Dovud",
+        "Muso payg'ambar",
+        "Payg'ambar Sulaymon",
+        "Ibrohim payg'ambar",
+        "Ya'qub payg'ambar"
+      ],
+      "answer": "Payg'ambar Dovud"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ikki janjalchi mening ibodatxonamga bostirib kirdi",
+        "Xalqimni vayron qilgan katta suv toshqiniga duch keldim",
+        "Katta baliq tomonidan yutib yuborildi",
+        "Xalqim tomonidan alangali olovga tashlandi",
+        "Barcha oila va boylikning yo'qolishi bilan sinovdan o'tdi"
+      ],
+      "answer": "Ikki janjalchi mening ibodatxonamga bostirib kirdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Qo'llarimda egiluvchan temir yasadim",
+        "Chuqurlikdagi buyuk baliq",
+        "Ilonga aylangan tayoq",
+        "Ikki xil mahsulotga ega ajoyib bog'",
+        "Tur deb nomlangan muqaddas tog'"
+      ],
+      "answer": "Qo'llarimda egiluvchan temir yasadim"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Zaburni (Zabur) qabul qildi va adolatli hukmdor sifatida o'zini ko'rsatdi",
+        "Baliq qornidan qutqarildi va odamlar ishonishdi",
+        "Xalqimni zolimning changalidan qutqardi",
+        "Shamol va jinlar ustidan hukmronlik berildi",
+        "Sog'lig'i tiklandi va yanada ko'proq ne'matlar berildi"
+      ],
+      "answer": "Zaburni (Zabur) qabul qildi va adolatli hukmdor sifatida o'zini ko'rsatdi"
+    }
+  },
+  "verseRef": "34:11",
+  "arabic": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍۢ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+  "verse": "[Commanding him], \"Make full coats of mail and calculate [precisely] the links, and work [all of you] righteousness. Indeed I, of what you do, am Seeing.\" (34:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mohono o Neng o Chesa",
+  "intro": "Pale e tsofetseng ho feta mmuso ofe kapa ofe kapa lengolo—tlokotsi ea pele ea motho e tsoetsoeng ke poulelo. Motho a le mong, e moholo ho bana ba babeli ba tsoetsoeng ke batsoali ba pele, o ile a shebella ka bohale ha ngoan'abo e monyenyane a fumana mohau o ileng oa haneloa. Se ileng sa latela e bile khetho e lefifi ka ho fetisisa, a siea mali a pele a tšolotsoeng lefatšeng. Na u ka senola boitsebiso, teko le masoabi a bohloko?",
+  "clues": [
+    "Ke hlahile ho batho ba babeli ba pele ba ileng ba tsamaea lefatšeng.",
+    "Ke kile ka etsetsa Allah nyehelo, empa ha ea ka ea amoheloa ke 'na.",
+    "Nyehelo ea ngoan'eso e ile ea amoheloa, ha ea ka eona e ile ea hanoa—ntho eo ke neng ke sa khone ho e mamella.",
+    "Ke ile ka tšosa moena oa ka ka timetso.",
+    "Ke bile oa pele oa ho bolaea lefatšeng lena, ka bolaea ngoan'eso.",
+    "Allah o ile a romela sebopuoa sa lefats'e—nonyana e ntšo e chekang mobung—ho nthuta ho pata seo ke se entseng, 'me ka sala ke sa ikoahlaea feela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Qabil (Kaine)",
+        "Habile (Abele)",
+        "Moprofeta Yaqub",
+        "Moprofeta Musa",
+        "Moprofeta Adama"
+      ],
+      "answer": "Qabil (Kaine)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Nyehelo e hanetsoe ke Allah",
+        "E lahleloa mollong o moholo",
+        "O lahliloe e sa le lesea ka nokeng",
+        "E lekoa ka 'muso o moholo",
+        "O laeloa ho etsa sehlabelo ka mora oa motho"
+      ],
+      "answer": "Nyehelo e hanetsoe ke Allah"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Lekhoaba le rometsoeng ke Allah",
+        "Namane ea khauta",
+        "Areka e holim'a thaba",
+        "Sehlahla se tukang",
+        "Kamele e tšehali e betliloeng lefikeng"
+      ],
+      "answer": "Lekhoaba le rometsoeng ke Allah"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "A tlala masoabi 'me a ba har'a ba lahlehileng",
+        "E metsoa lefatšeng hammoho le matlotlo",
+        "E ile ea e-ba lenģosa le hlomphehang la Allah",
+        "O kene Paradeiseng ka mohau oa Molimo",
+        "O busitse 'muso o sa bapisoeng le o mong"
+      ],
+      "answer": "A tlala masoabi 'me a ba har'a ba lahlehileng"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

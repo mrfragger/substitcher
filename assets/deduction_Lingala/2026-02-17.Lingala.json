@@ -1,0 +1,61 @@
+{
+  "title": "Momboto ya Matata",
+  "intro": "Liboso ete mokili eyeba matata oyo epalangani mingi, momekano moko ya mozindo ya kondima mpe botosi esalemaki. Lisolo oyo ezali kotala maponi oyo moto moko asali, oyo misala na ye etie ndakisa mpo na bankola ekoya. Bomibongisa mpo na kofungola lisapo ya molimo oyo ezali kobunda na zuwa monene mpe mbuma na yango ya kobebisa.",
+  "clues": [
+    "Nazalaki kati na bana ya liboso oyo batambolaki na mabele, mwana ya babalani ya liboso mpenza.",
+    "Ngai na ndeko na ngai ya mobali topesamaki mitindo ya kopesa mbeka epai ya Allah, momekano ya bosembo na biso.",
+    "Libonza na ngai endimamaki te, nzokande oyo ya ndeko na ngai ya mobali endimamaki, oyo etondisaki motema na ngai na mayoki ya nsomo.",
+    "Nalobaki maloba ya kobangisa epai ya ndeko na ngai ya mobali, kopusama na bololo ya koboya.",
+    "Ndeko na ngai ya mobali ayanolaki na mayele mpe na kobanga Nzambe, kokundwelaka ngai bosembo ya Allah mpe bobangi na Ye.",
+    "Atako ndeko na ngai ya mobali alobaki maloba ya pɛtɛɛ mpe alingaki kolimbisa, nabomaki bomoi moko, mpe nakómaki moko ya bato oyo babungisaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Adama",
+        "Iblis, oyo azali",
+        "Mosakoli Nuh",
+        "Kabil (Kaina) .",
+        "Fir'awn na likambo yango"
+      ],
+      "answer": "Kabil (Kaina) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Mpela monene",
+        "Kokabwana ya mbu",
+        "Ndako ya Kaaba",
+        "Kopesa bambeka",
+        "Momekano na Elanga"
+      ],
+      "answer": "Kopesa bambeka"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku",
+        "Bato ya mosala",
+        "Ngomba ya Safa",
+        "Mbeka oyo bapesaki",
+        "Nzete oyo ezali kozika"
+      ],
+      "answer": "Mbeka oyo bapesaki"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Akómaki momemi-nsango",
+        "Azindaki na mai",
+        "Atongaki bokonzi monene",
+        "Ekómaki ndakisa ya mawa",
+        "Bapesaki ye bozwi monene mpenza"
+      ],
+      "answer": "Ekómaki ndakisa ya mawa"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

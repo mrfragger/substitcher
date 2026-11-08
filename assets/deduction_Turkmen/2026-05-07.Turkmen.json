@@ -1,0 +1,61 @@
+{
+  "title": "Çuňňurdan gelen çagyryjy",
+  "intro": "Ylahy habar ynanylan, ýöne gyssagly pursatda açyk rugsatsyz öz halkyndan giden bir jany göz öňüne getiriň. Bu syýahat olary adatdan daşary synaga, sabyrlylygyň we Beýik Biribaryň öňünde durmagyň çuňňur synagyna alyp geldi. Hekaýasy bize toba we Allanyň rehimdarlygynyň giňligi barada öwredýän bu şahsyýet kim?",
+  "clues": [
+    "Meni uly bir millete iberdiler, ýöne olaryň ilki ret edilmegi meni gynandyrdy.",
+    "Men öz missiýamyň tamamlanandygyna ynanyp, halkymdan gitdim, şondan soň gitmek barada aýdyň buýruk aldym.",
+    "Men gämide ýol gözledim, ýöne güýçli tupandan soň we bije çekişmeden soň agyr ýagdaýa düşdüm.",
+    "Men deňze taşlandym, çuňlugyň güýçli bir jandary meni bütinleý ýuwutdy.",
+    "Garnymyň garaňkylygynda, men ýalňyşlygymy boýun alyp, Ondan bagyşlama dileýän, Allatagala ýalbardym.",
+    "Allatagala jandara meni kenara taşlamagy buýurdy we men özboluşly ösümligiň aşagynda sagaldym."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ýusup pygamber (Ýusup)",
+        "Nuh pygamber (Nuh)",
+        "Ýunus pygamber (Ýunus)",
+        "Süleýman pygamber (Süleýman)",
+        "Eýýup pygamber (Eýýup)"
+      ],
+      "answer": "Ýunus pygamber (Ýunus)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Deňziň bölünmegi",
+        "Nimrodyň ody",
+        "Uly balyk tarapyndan ýuwutulýar",
+        "Suw joşmasy",
+        "Şäheriň daşlar bilen ýok edilmegi"
+      ],
+      "answer": "Uly balyk tarapyndan ýuwutulýar"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Sandyk",
+        "Işgärler",
+        "Balygyň garny",
+        "Guýy",
+        "Ýanýan gyrymsy agaç"
+      ],
+      "answer": "Balygyň garny"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Beýik hökümdar boldy",
+        "Käbäni gurdy",
+        "Toba eden millete ýol görkezmek üçin gaýdyp geldi",
+        "Jinleriň üstünden höküm sürmek berildi",
+        "Çölüň üstünden adamlary alyp gitdi"
+      ],
+      "answer": "Toba eden millete ýol görkezmek üçin gaýdyp geldi"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Umi Po Maldecido",
+  "intro": "Peẽ peñembo’y umi callejón sinuoso Makkah yma guarépe, peteĩ ánga influencia ha riqueza rehegua peteĩ jey ojere haguépe pe añetegua ñehenóigui. Ko figura rembiasakue ha’e peteĩ mandu’a mbarete umi tuguy vínculo ndaikatuiha ipu’aka umi cadena de orgullo rehe. Máva piko ko héra ohenduka tata oha’arõva ndive?",
+  "clues": [
+    "Aguata Makkah rapére peteĩ orgullo reheve che resa’ỹva pe añeteguáre, jepe pe mensajero ha’e che ruguy tee.",
+    "Tuichaiterei mbaʼe arekóva, péro oiko chuguikuéra peteĩ maldisión, peteĩ eskúdo rangue.",
+    "Pe libro de guía oñe’ẽ che ruina rehe, odeclaráva che po ha che persona oñehunditaha.",
+    "Che ména térã che rembireko oike che campaña de enemigosidad-pe, ombyatývo ñuatĩ oñemyasãi haĝua pe ohenóiva Allah-pe rapére.",
+    "Pe huísio árape, añembohysýita tatarendy hendývape, ha che ména térã che rembireko oguerekóta peteĩ soga de fibra de palma ijajúrare.",
+    "Che ojekuaa peteĩ téra he’iséva ‘tata ru’ — peteĩ téra oprofetisava che residencia eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mávapa che?",
+      "options": [
+        "Abu Lahab rehegua",
+        "Abu Jahl rehegua",
+        "Abu Talib rehegua",
+        "Abu Sufyan rehegua",
+        "Al-Walid ibn al-Mughira rehegua"
+      ],
+      "answer": "Abu Lahab rehegua"
+    },
+    "trial": {
+      "label": "Prueba térã Evento Clave rehegua",
+      "options": [
+        "Ombocháke Profeta-pe ha oñemaldesi Corán-pe",
+        "Omotenonde peteĩ ehérsito ohundi hag̃ua Kaaba",
+        "Oñeha’ã ojuka Profeta-pe omombo rupi ita",
+        "Ombotove oguerovia haguã jasy ñemboja'o",
+        "Omopu'ã peteĩ tórre oguahẽ haguã yvágape"
+      ],
+      "answer": "Ombocháke Profeta-pe ha oñemaldesi Corán-pe"
+    },
+    "location": {
+      "label": "Elemento Clave rehegua",
+      "options": [
+        "Pe Tatarendy hendýva Infierno-pegua",
+        "Pe Mba’apoharakuéra Musa rehegua",
+        "Pe Arca de Nuh",
+        "Pe Ykua Zamzam rehegua",
+        "Pe Vakara’y de Oro"
+      ],
+      "answer": "Pe Tatarendy hendýva Infierno-pegua"
+    },
+    "outcome": {
+      "label": "Sẽ",
+      "options": [
+        "Oikéta Tata hendývape, ha imba’erepy ndovalemo’ãi chupe",
+        "Oñearrepenti ha oiko chugui peteĩ jeroviaha",
+        "Oñeperdona chupe ojerreactiva rire",
+        "Omano mártir ramo",
+        "Ojegueraha yvága peve"
+      ],
+      "answer": "Oikéta Tata hendývape, ha imba’erepy ndovalemo’ãi chupe"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

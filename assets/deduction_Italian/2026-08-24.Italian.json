@@ -1,0 +1,61 @@
+{
+  "title": "Gli ascoltatori nascosti che credevano",
+  "intro": "Nel silenzio di un sacro incontro, una straordinaria assemblea giunse da un regno invisibile. Attratti da sussurri di qualcosa di meraviglioso, ascoltarono una recitazione che avrebbe sigillato per sempre il loro destino. La loro testimonianza rimane una delle più singolari nelle sacre scritture.",
+  "clues": [
+    "Siamo esseri provenienti da un regno invisibile ai più, e siamo venuti qui in gruppo.",
+    "Ci siamo diretti verso un luogo di ritrovo per ascoltare qualcosa di straordinario.",
+    "Al nostro arrivo, abbiamo ascoltato una recitazione che ci ha lasciati a bocca aperta.",
+    "Abbiamo riconosciuto apertamente che alcuni tra noi sono retti e altri no.",
+    "Sapevamo di non poter sfuggire al decreto divino né sulla terra, né volando in cielo.",
+    "Quando abbiamo ascoltato la guida, abbiamo creduto in essa; chi crede nel suo Signore non temerà né perdita né peso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Un gruppo di Jinn",
+        "Il popolo dell'Iram",
+        "Il popolo di Tubba'",
+        "L'Impero Romano",
+        "La tribù dei Quraysh"
+      ],
+      "answer": "Un gruppo di Jinn"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ascoltare una recitazione sacra",
+        "Costruire pilastri imponenti nella nostra città",
+        "A caccia di una magnifica cammella",
+        "Essere distrutti per aver ucciso i nostri profeti",
+        "Moltiplicare la ricchezza oltre ogni misura"
+      ],
+      "answer": "Ascoltare una recitazione sacra"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un raduno di recitazione sacra",
+        "Città dalle alte colonne (Iram)",
+        "Un pozzo nel deserto",
+        "Un grandioso palazzo d'oro",
+        "Una grotta sacra tra le montagne"
+      ],
+      "answer": "Un raduno di recitazione sacra"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Noi abbiamo creduto e abbiamo avvertito il nostro popolo",
+        "Distrutto da una potente esplosione dal cielo",
+        "Punito da un vento cocente e distruttivo",
+        "Concesse immensa ricchezza e potere",
+        "Rimase fermo nella sua incredulità"
+      ],
+      "answer": "Noi abbiamo creduto e abbiamo avvertito il nostro popolo"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

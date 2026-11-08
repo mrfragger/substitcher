@@ -1,0 +1,61 @@
+{
+  "title": "Výkrik z hlbín",
+  "intro": "Služobník Najmilosrdnejšieho sa unavil tvrdohlavým národom a odišiel skôr, ako mu bolo udelené povolenie. Tento jedinec skončil na mieste, kde nikdy predtým nebol žiadny človek, kde volanie k Bohu zvláštne znie cez vrstvy temnoty. Vynorila sa oslabená, ale premenená, táto duša sa stala nadčasovou lekciou trpezlivosti, úprimného pokánia a bezhraničného milosrdenstva Stvoriteľa. Dokážete rozlúštiť záhadu?",
+  "clues": [
+    "Bol som poslaný ako posol k svojmu ľudu, ale oni vo svojej nevere prekročili všetky hranice a odmietli počúvať.",
+    "Nahneval som sa na ich odmietnutie a utiekol som od svojho ľudu skôr, ako prišiel Alahov rozkaz.",
+    "Nastúpil som na loď naloženú nad rámec svojej kapacity a losovali sme, aby sme určili, kto bude hodený cez palubu.",
+    "Bol som hodený do rozbúreného mora a prehltla ma veľká ryba.",
+    "Uväznený v troch vrstvách temnoty – v bruchu, hlbokom mori a zemi pod ním – som v úprimnom pokání volal k svojmu Pánovi.",
+    "Vynoril som sa z ryby na otvorený breh, slabý a unavený, a nado mnou vyrástla tekvica. Môj ľud, stotisíc alebo viac, konečne uveril."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Júnus",
+        "Prorok Ayyub",
+        "Prorok Júsuf",
+        "Prorok Músa",
+        "Prorok Sulajmán"
+      ],
+      "answer": "Prorok Júnus"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Prehltnuté veľkou rybou",
+        "Hodený do planúceho ohňa",
+        "Uväznený na dne studne",
+        "Zasiahnutý veľkou povodňou",
+        "Nespravodlivo uväznený kráľom"
+      ],
+      "answer": "Prehltnuté veľkou rybou"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Brucho veľkej ryby",
+        "Posvätné údolie blízko Kaaby",
+        "Archa odpočívajúca na vrchu hory",
+        "Palica, ktorá sa premenila na hada",
+        "Trón bezkonkurenčnej vznešenosti"
+      ],
+      "answer": "Brucho veľkej ryby"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Jeho ľud, stotisíc alebo viac, uveril",
+        "Zaživa pozdvihnutý do nebies",
+        "Stal sa vládcom bezkonkurenčného kráľovstva",
+        "Zničený prenikavým výkrikom z neba",
+        "Prevrátené ničivým zemetrasením"
+      ],
+      "answer": "Jeho ľud, stotisíc alebo viac, uveril"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

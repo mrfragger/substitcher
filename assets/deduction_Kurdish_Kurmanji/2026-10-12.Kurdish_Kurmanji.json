@@ -1,0 +1,61 @@
+{
+  "title": "Sonda Nezayînê",
+  "intro": "Giyanekî dilsoz berî hatina zarokekî sozek pîroz da. Çîroka vê kesayetiyê di nav dîwarên cihekî pîroz de, li cihê ku fedakarî bi qebûlkirina îlahî re hevdîtin dike, derbas dibe. Ev xizmetkarê Xwedê kî ye?",
+  "clues": [
+    "Ez ji malbateke ku di Quranê de rûmeta wan heye bûm.",
+    "Min sond xwar ku ez ê zaroka xwe ya jidayikbûyî ji bo xizmeta Xwedê bi cih bikim.",
+    "Dema min zarok anî dinyayê, ez matmayî mam ku min dît keçek e, her çend ez li benda kurek bûm.",
+    "Min navê zaroka xwe Meryem kir, navekî ku fedakarî û xizmetkirinê nîşan dide.",
+    "Min ji Xwedê xwest ku zaroka xwe û nifşên wê ji şeytanê lanetkirî biparêze.",
+    "Zarokê min ji aliyê Xwedê ve hate qebûlkirin û di bin lênêrîna Pêxember Zekeriya de li perestgehê hate danîn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Jina Îmran (Dayika Meryemê)",
+        "Asya, jina Fîrewn",
+        "Meryem, dayika Îsa",
+        "Dayika Pêxember Mûsa",
+        "Şahbanûya Şebayê"
+      ],
+      "answer": "Jina Îmran (Dayika Meryemê)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Soz dide ku zarokê xwe bide perestgehê",
+        "Tê avêtin nav agir",
+        "Derbaskirina deryayê li ser erdê hişk",
+        "Avakirina keştiyek mezin",
+        "Ji aliyê masiyek mezin ve tê daqurtandin"
+      ],
+      "answer": "Soz dide ku zarokê xwe bide perestgehê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Perestgeha (mîhrab) ku zaroka wê lê hatibû danîn",
+        "Sindoqa peymanê",
+        "Golika zêrîn",
+        "Dara ku veguherî mar",
+        "Dara xurmeyê ya ku ew li binê wê bêhna xwe vedabû"
+      ],
+      "answer": "Perestgeha (mîhrab) ku zaroka wê lê hatibû danîn"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Zaroka wê hate qebûlkirin û xistin bin çavdêriya Pêxember Zekeriya.",
+        "Ew ji cezayê zalimekî rizgar bû",
+        "Ji wê re kurek bi navê Yahya hat dayîn.",
+        "Gelê wê ji aliyê tofanekê ve hate wêrankirin",
+        "Ew li ser padîşahiyek mezin bû şahbanû"
+      ],
+      "answer": "Zaroka wê hate qebûlkirin û xistin bin çavdêriya Pêxember Zekeriya."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

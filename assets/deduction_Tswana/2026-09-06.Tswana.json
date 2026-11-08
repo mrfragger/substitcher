@@ -1,0 +1,61 @@
+{
+  "title": "Molatlhelwa wa Namane ya Gauta",
+  "intro": "Setshwantsho se se umakilweng mo Quran se ne sa dira gore boidiidi jo bogolo bo fapoge ka nako ya fa moporofeti yo o tlotlegang a ne a seyo. Sengwe se se dirilweng ka gauta se ne sa gapa dipelo tsa setšhaba sotlhe — mme kgang ya motho yono e felela ka go nna a le esi le phutso e e sa tlwaelegang. Motho yono yo o kgaphetsweng kwa thoko e ka tswa e le mang?",
+  "clues": [
+    "Ke ne ka tlhagelela ka nako ya fa moporofeti yo mogolo yo o neng a tlhatlogile go ya go amogela kaelo ya selegodimo a ne a seyo.",
+    "Ke ne ka dira gore bontsi jo bogolo bo timetse ka sengwe se ke se itiretseng ka diatla tsa me.",
+    "Sebopiwa sa gauta se ke neng ke se dira se ne se lebega se na le botshelo, se ntsha medumo e e neng e kgatlha batho ba ba neng ba se sala morago.",
+    "Ke ne ke bolela gore ke bone se ba bangwe ba neng ba sa kgone go se lemoga — go bona se se sa bonweng.",
+    "Ke ne ka goga sengwe mo metlhaleng ya morongwa wa bomodimo mme ka se latlhela mo tshiping e e nyerolotsweng.",
+    "Ke ne ka atlholelwa go tlhola ke tlhola ke le nosi, ka phutso e e kgethegileng ya gore ga go ope yo o neng a ka ama letlalo la me le nna ke ame la bone."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Samiri",
+        "Hamane",
+        "Faro (Fir'awn)",
+        "Abu Lahab",
+        "Moporofeti Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "O bopile namane ya gouta gore e obamelwe",
+        "A aga tora e e fitlhang kwa magodimong",
+        "O gwetlhile baloi ba Egepeto",
+        "O ne a etelela pele mophato o o nang le dibatana tse di fofang",
+        "Kgaoganya ngwedi jaaka bosupi jwa boporofeti"
+      ],
+      "answer": "O bopile namane ya gouta gore e obamelwe"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Namane ya gauta",
+        "Lore lo lo neng lwa fetoga noga",
+        "Setlhatshana se se tukang mo thabeng",
+        "Areka e e neng e iketlile mo setlhoeng",
+        "Mosele o o neng o tletse ka molelo o o tukang"
+      ],
+      "answer": "Namane ya gauta"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go lelekwa, go thibelwa go amiwa kgotsa go ama ba bangwe",
+        "A nwela mo lewatleng mmogo le mophato",
+        "A fisiwa a tshela ka ntlha ya go gana tumelo",
+        "E itewa ke phefo e e bogale, e e duma",
+        "Go itshwarelwa le go tlhatlosediwa kwa maemong a a kwa godimo"
+      ],
+      "answer": "Go lelekwa, go thibelwa go amiwa kgotsa go ama ba bangwe"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

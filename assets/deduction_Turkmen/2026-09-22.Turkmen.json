@@ -1,0 +1,61 @@
+{
+  "title": "Beýik sütünleriň gurujylary",
+  "intro": "Siz beýik sütünleri ýykylan ajaýyp gadymy şäheriň harabalyklarynyň öňünde dursuňyz. Şemal boş köçelerden öwüsýär we bir wagtlar bu ýerlere höküm süren güýçli halkyň ýadygärligini göterýär. Olar kimlerdi?",
+  "clues": [
+    "Biz ägirt uly güýç we ussatlyk bilen tanalýan, beýik binalarymyz we ösen medeniýetimiz bilen tanalýan halkdyk.",
+    "Biz gum depeleri we gaýaly depeler ýurdunda ýaşaýardyk we hiç kimiň bizi ýeňip bilmejekdigine ynanýardyk.",
+    "Bize öz garyndaşlarymyzyň arasyndan bir ilçi gelip, bizi diňe Allaha ybadat etmäge çagyrdy, ýöne biz ony ret edip, onuň üstünden güldük.",
+    "Biz: «Bizden kim güýçli?» diýip öwündik we tekepbirligimizi we butlara sežde etmegimizi dowam etdirdik.",
+    "Allatagala bize ýedi gije we sekiz gün dowam eden güýçli ýel iberdi, ol ýel hemme zady weýran etdi.",
+    "Biz Ad halky, Iramyň gurujylarydyk we ykbalymyz bizden soň gelenleriň hemmesi üçin duýduryş boldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ad halky",
+        "Semud halky",
+        "Madýan halky",
+        "Tubba halky",
+        "Ar-Rassyň halky"
+      ],
+      "answer": "Ad halky"
+    },
+    "trial": {
+      "label": "Olara nähili jeza iberildi?",
+      "options": [
+        "Weýran ediji ýel",
+        "Daş ýagyşy",
+        "Güýçli partlama",
+        "Suw joşmasy sebäpli gark bolmak",
+        "Ýer tarapyndan ýuwudyldy"
+      ],
+      "answer": "Weýran ediji ýel"
+    },
+    "location": {
+      "label": "Olaryň rowaýata öwrülen şäheriniň ady näme?",
+      "options": [
+        "Iram",
+        "Sodom",
+        "Midýan",
+        "Babyl",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Olaryň soňky ykbaly nähili boldy?",
+      "options": [
+        "Olar ýok edildi we olaryň galyndylary sapak boldy",
+        "Olar toba etdiler we halas boldular",
+        "Olar maýmynlara öwrüldiler",
+        "Olar deňizde gark boldular",
+        "Olar ýer süýşmesiniň aşagynda gömülip galdylar"
+      ],
+      "answer": "Olar ýok edildi we olaryň galyndylary sapak boldy"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Strīdu sēkla",
+  "intro": "Pirms pasaule iepazina plaši izplatītus konfliktus, risinājās dziļa ticības un paklausības pārbaude. Šis stāsts pēta indivīda izdarītās izvēles, kura rīcība rada precedentu nākamajām paaudzēm. Sagatavojieties atšķetināt stāstu par dvēseli, kas cīnās ar milzīgu greizsirdību un tās postošajām sekām.",
+  "clues": [
+    "Es biju viens no pirmajiem pēcnācējiem, kas staigāja pa zemi, paša pirmā cilvēku pāra bērns.",
+    "Man un manam brālim tika pavēlēts upurēt Allāham, kas bija mūsu sirsnības pārbaudījums.",
+    "Mans piedāvājums netika pieņemts, bet mana brāļa gan, kas manu sirdi piepildīja ar briesmīgām emocijām.",
+    "Es, noraidījuma rūgtuma vadīts, teicu draudus savam brālim.",
+    "Mans brālis atbildēja ar gudrību un dievbijību, atgādinot man par Allāha taisnīgumu un bijību Viņa priekšā.",
+    "Neskatoties uz brāļa maigajiem vārdiem un viņa vēlmi piedot, es atņēmu kādam dzīvību, kļūstot par vienu no zaudētājiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Ādams",
+        "Iblis",
+        "Pravietis Nuhs",
+        "Kabils (Kains)",
+        "Fir'awn"
+      ],
+      "answer": "Kabils (Kains)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lielie plūdi",
+        "Jūras sadalīšana",
+        "Kaabas celtniecība",
+        "Upurēšana",
+        "Kārdinājums dārzā"
+      ],
+      "answer": "Upurēšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Arka",
+        "Personāls",
+        "Safas kalns",
+        "Upurēšanās",
+        "Degošais krūms"
+      ],
+      "answer": "Upurēšanās"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva par vēstnesi",
+        "Noslīka",
+        "Uzcēla lielu valstību",
+        "Kļuva par nožēlas piemēru",
+        "Tika piešķirta milzīga bagātība"
+      ],
+      "answer": "Kļuva par nožēlas piemēru"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

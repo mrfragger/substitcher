@@ -1,0 +1,61 @@
+{
+  "title": "Balsas, kuris prisijungė prie kalnų",
+  "intro": "Teisia siela gavo nepaprastas dovanas iš dangaus – tapo valdovu ir kariu, kurio prigimtis, regis, buvo susipynusi su pačia kūrinija. Jų istorija persipina su pranašystėmis, karalystėmis ir meistriškumu, palikdama palikimą, kuris aidi dieviškojo apreiškimo puslapiuose.",
+  "clues": [
+    "Buvau išrinktas Alacho tarnu ir man buvo suteikta galinga karalystė tarp išrinktosios tautos.",
+    "Kalnai ir paukščiai kartu su manimi šlovintų Aukščiausiąjį.",
+    "Geležis mano rankose tapo minkšta kaip molis, vien Alacho valia.",
+    "Aš pagaminau apsauginius šarvus, kurie saugojo karius mūšio įkarštyje.",
+    "Kartą išlaikiau sunkų išbandymą, kai du ginčininkai netikėtai įsilaužė į mano maldos namus.",
+    "Esu minimas greta valdovo, kuris valdė vėją ir džinus – nes tas valdovas buvo mano paties palikuonis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Dawudas",
+        "Pranašas Musa",
+        "Pranašas Suleimanas",
+        "Pranašas Ibrahimas",
+        "Pranašas Jakubas"
+      ],
+      "answer": "Pranašas Dawudas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Du ginčininkai įsilaužė į mano maldos namus",
+        "Susidūriau su dideliu potvyniu, kuris sunaikino mano žmones",
+        "Buvo prarijęs didelę žuvį",
+        "Mano žmonės mane įmetė į liepsnojančią ugnį",
+        "Buvo išbandytas praradus visą šeimą ir turtą"
+      ],
+      "answer": "Du ginčininkai įsilaužė į mano maldos namus"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Geležis tapo lanksti mano rankose",
+        "Didžioji gelmių žuvis",
+        "Lazdelė, kuri virto gyvate",
+        "Puikus sodas su dviejų rūšių vaisiais",
+        "Šventas kalnas, vadinamas Turu"
+      ],
+      "answer": "Geležis tapo lanksti mano rankose"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Gavo Psalmes (Zaburą) ir įtvirtino savo valdžią kaip teisingas valdovas",
+        "Išgelbėtas iš žuvies pilvo ir žmonės tikėjo",
+        "Išlaisvino mano tautą iš tirono gniaužtų",
+        "Suteikta valdžia vėjui ir džinams",
+        "Atgauta sveikata ir suteikta dar daugiau palaiminimų"
+      ],
+      "answer": "Gavo Psalmes (Zaburą) ir įtvirtino savo valdžią kaip teisingas valdovas"
+    }
+  },
+  "verseRef": "34:11",
+  "arabic": "أَنِ ٱعْمَلْ سَـٰبِغَـٰتٍۢ وَقَدِّرْ فِى ٱلسَّرْدِ ۖ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+  "verse": "[Commanding him], \"Make full coats of mail and calculate [precisely] the links, and work [all of you] righteousness. Indeed I, of what you do, am Seeing.\" (34:11)"
+}

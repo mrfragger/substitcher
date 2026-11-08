@@ -1,0 +1,61 @@
+{
+  "title": "Il ritiro solitario",
+  "intro": "Negli annali del favore divino, esiste un'anima di purezza incomparabile, separata dal suo popolo per cercare la solitudine in una direzione sacra. Non sapeva che questo isolamento avrebbe prodotto un segno per tutti i mondi, una prova di fede di cui si sarebbe parlato per l'eternità.",
+  "clues": [
+    "Ero destinato a una vita di servizio ancor prima di nascere.",
+    "Fui posto sotto la tutela di un nobile profeta.",
+    "Sono stato sostenuto da Allah con provviste che hanno stupito il mio protettore.",
+    "Mi sono allontanato dalla mia famiglia e mi sono rifugiato in un luogo a est.",
+    "Un angelo mi apparve sotto forma di uomo perfetto, annunciandomi la nascita di un figlio puro.",
+    "Quando tornai con il mio neonato, la mia gente mi accusò, ma il bambino parlò in mia difesa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Maria (Mary)",
+        "Asiyah (moglie del faraone)",
+        "Hajar (madre di Ismail)",
+        "Sara (moglie di Ibrahim)",
+        "La madre di Musa"
+      ],
+      "answer": "Maria (Mary)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Concezione miracolosa e nascita di un figlio",
+        "Essere gettato nel fuoco",
+        "Essere inghiottito da un pesce gigante",
+        "Costruire una grande arca",
+        "Attraversando il mare"
+      ],
+      "answer": "Concezione miracolosa e nascita di un figlio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un luogo appartato a est",
+        "Il roveto ardente",
+        "Il Mar Rosso",
+        "La roccia da cui sgorgava l'acqua",
+        "La balena"
+      ],
+      "answer": "Un luogo appartato a est"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Un neonato ha parlato in difesa di una madre",
+        "Il mare si divise",
+        "Il fuoco si è raffreddato ed è diventato sicuro",
+        "La balena ha vomitato sulla riva",
+        "L'arca approdò su una montagna"
+      ],
+      "answer": "Un neonato ha parlato in difesa di una madre"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

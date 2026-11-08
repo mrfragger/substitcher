@@ -1,0 +1,61 @@
+{
+  "title": "Sora ti Pinggir Kota",
+  "intro": "Anjeun nangtung di hiji kota dimana tilu utusan parantos sumping mawa tanda-tanda anu jelas, tapi jalma-jalma ngahina aranjeunna sareng tetep kana adat istiadat lami aranjeunna. Ti bagian anu pangjauhna di kota, hiji sosok lumpat ka arah jalma réa, ngarenghap panjang sareng nekad, pikeun nyarioskeun bebeneran sanaos ditolak. Saha jiwa ieu anu ngorbankeun sagalana pikeun pesen anu sanés pesenna sorangan?",
+  "clues": [
+    "Kuring hirup di antara hiji kaum anu geus narima utusan kalawan bukti-bukti anu jelas, tapi maranéhna malik kalawan adigung.",
+    "Kuring lumpat ti bagian kota anu pangjauhna nalika ngadéngé panggero utusan.",
+    "Kuring geus ngomong ka kaum kuring, 'He kaum kuring, turutan para rasul. Turutan jalma-jalma anu teu ménta ganjaran ti anjeun, sabab maranéhna geus meunang pituduh.'",
+    "Abdi sanés nabi, tapi abdi percanten ka para rasul sareng ngadesek umat abdi pikeun ngalakukeun hal anu sami.",
+    "Rahayat kuring nyeungseurikeun naséhat kuring sareng nuduh kuring ékstremis.",
+    "Nalika aranjeunna maehan abdi, Allah nitah abdi lebet ka sawarga, sareng abdi miharep umat abdi terang panghampura sareng kahormatan anu abdi tampi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Lalaki ti bagian pangjauhna kota (Ya-Sin)",
+        "Salah sahiji ti tilu utusan anu dikirim ka kota",
+        "Saurang padagang anu kasohor di kota éta",
+        "Panguasa kota",
+        "Pamingpin jalma-jalma kafir"
+      ],
+      "answer": "Lalaki ti bagian pangjauhna kota (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Ngadakwah ka umatna pikeun nuturkeun para rasul",
+        "Ngawangun kapal pikeun nyalametkeun jalma-jalma anu percaya tina banjir",
+        "Dilebur kana seuneu pikeun iman",
+        "Ditelan ku paus",
+        "Dipasihan karajaan sareng hikmah"
+      ],
+      "answer": "Ngadakwah ka umatna pikeun nuturkeun para rasul"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Bagian pangjauhna di kota",
+        "Bahtera",
+        "Sumur éta",
+        "Rungkun anu ngaduruk",
+        "Guha éta"
+      ],
+      "answer": "Bagian pangjauhna di kota"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Lebet ka sawarga sareng miharep umatna terang panghampura-Na",
+        "Dilebur jeung rahayatna lantaran nolak pesen éta",
+        "Dipasihan mukjizat onta bikang",
+        "Janten pamingpin saatos sidangna",
+        "Disalametkeun ku Allah sareng tetep sareng umatna"
+      ],
+      "answer": "Lebet ka sawarga sareng miharep umatna terang panghampura-Na"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

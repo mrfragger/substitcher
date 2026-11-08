@@ -1,0 +1,61 @@
+{
+  "title": "Qabr xabarini tashuvchi",
+  "intro": "Misli ko'rilmagan gunohlar ichida adashgan xalqni boshqarish uchun solih qalb yuborildi. Bu elchi qat'iy turdi va tabiiy tartibni buzadigan buzuqlikdan qattiq ogohlantirdi. Jiddiy iltijolarga qaramay, jamoa zulmatga chuqurroq sho'ng'ib, boshqa hech kimga o'xshamaydigan ilohiy hisob-kitob uchun zamin yaratdi. Allohning bu sodiq bandasini taniy olasizmi?",
+  "clues": [
+    "Men yana bir buyuk payg'ambarning qarindoshi edim va u bilan birga hijrat qilib, vatanimizni tashlab ketdim.",
+    "Meni yovuzligi noyob bo'lgan, ulardan oldin hech bir mavjudot qilmagan gunohkor bir qavmga yubordilar.",
+    "Mening oilam ikkiga bo'lingan edi; yaqin oila a'zolarimdan biri yashirincha kofirlar tomoniga o'tdi.",
+    "Chiroyli yigitlar qiyofasida bo'lgan farishtalar uyimga mehmon bo'lib kelishdi va ularning xavfsizligi uchun menga katta tashvish tug'dirishdi.",
+    "Men o'z qizlarimni xalqimga turmushga berishni taklif qildim, ularni sharmandali ishlaridan qaytarishga urindim.",
+    "Xalqim dahshatli qichqiriq va loydan yasalgan toshlar yomg'iri bilan vayron bo'ldi, men va oilam esa, bittasidan tashqari, tunda chiqib ketishimiz bilan najot topdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Shu'ayb",
+        "Payg'ambar Solih",
+        "Lut payg'ambar",
+        "Payg'ambar Hud",
+        "Nuh payg'ambar"
+      ],
+      "answer": "Lut payg'ambar"
+    },
+    "trial": {
+      "label": "Mening asosiy sinovim nima edi?",
+      "options": [
+        "Zolim podshohni meni olovda kuydirmaslikka ishontirish.",
+        "Akalarimning rashkiga dosh berish va quduqqa tashlash.",
+        "Misli ko'rilmagan jinsiy axloqsizlikka aralashgan xalqqa qarshi turish.",
+        "Xalqimni qudratli fir'avn qulligidan ozod qilish.",
+        "Mo'minlarni katta suv toshqinidan qutqarish uchun ulkan kema qurish."
+      ],
+      "answer": "Misli ko'rilmagan jinsiy axloqsizlikka aralashgan xalqqa qarshi turish."
+    },
+    "location": {
+      "label": "Mening vazifam qayerda edi?",
+      "options": [
+        "Madyan shahri",
+        "Qadimgi Iram shahri",
+        "Fir'avn hukmronligi davridagi Misr yeri",
+        "Sodom va Gomorra shaharlari",
+        "Nineviya shahri"
+      ],
+      "answer": "Sodom va Gomorra shaharlari"
+    },
+    "outcome": {
+      "label": "Yakuniy natija qanday bo'ldi?",
+      "options": [
+        "Shaharlar ag'darilib, pishgan loydan yasalgan toshlar bilan yog'dirildi.",
+        "Mening xalqimni yer yuzi va uning boy yoʻlboshchisi yutib yubordi.",
+        "Mening xalqim yetti kechayu sakkiz kunduz kuchli shamol bilan vayron bo'ldi.",
+        "Mening xalqim chigirtka, bit va qurbaqa kabi o'latlarga duchor bo'ldi.",
+        "Missiyamni tark etganimdan keyin bahaybat baliq meni yutib yubordi."
+      ],
+      "answer": "Shaharlar ag'darilib, pishgan loydan yasalgan toshlar bilan yog'dirildi."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

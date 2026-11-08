@@ -1,0 +1,61 @@
+{
+  "title": "Derýanyň kenaryndaky seresap jan",
+  "intro": "Ýaş bir jana gizlin bir missiýa ynanyldy, ol suwda ykbalyň nähili bolup geçýändigini howpsuz uzakdan synlamakdy. Görünmeýän we şübhelenilmeýän bu şahsyýet milletiň taryhynyň ugruny üýtgetmekde möhüm rol oýnardy.",
+  "clues": [
+    "Maňa ejem gizlinligi we seresaplygy talap edýän bir iş berdi.",
+    "Gözlerim akymyň ugrunda akyp barýan kiçijik sallançagany yzarlady, ýüregim aladadan agyrdy.",
+    "Garaşylmadyk bir topar ony tapanda, men howsala bilen golaýlaşdym.",
+    "Men olaryň idegçi üçin umytsyzlygyny gördüm we hakykaty aýtman çözgüt teklip etdim.",
+    "Wagtynda kömek edenim, şepagat uýasyny iň mätäç bolan adama gaýtaryp getirdi.",
+    "Güýçli adamlaryň köşgünde men: \"Size ony idedip, oňa üns berip biljek maşgalany görkezeýinmi?\" diýdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Musanyň gyz dogany",
+        "Musanyň ejesi",
+        "Fyrownyň aýaly",
+        "Akuşer",
+        "Şuaýbyň gyzy"
+      ],
+      "answer": "Musanyň gyz dogany"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Çaganyň derýa zyňylmagy",
+        "Deňziň bölünmegi",
+        "Bulagyň ýanmagy",
+        "Gäminiň gurulmagy",
+        "Çekirtgeleriň betbagtçylygy"
+      ],
+      "answer": "Çaganyň derýa zyňylmagy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Derýa",
+        "Çöl",
+        "Dag",
+        "Köşk",
+        "Ot"
+      ],
+      "answer": "Derýa"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ol çagany ejesi bilen gaýtadan duşuşdyrdy",
+        "Ol özüni faraonyň esgerlerinden halas etdi",
+        "Ol şa zenan boldy",
+        "Ol içalyçylyk üçin jezalandyryldy",
+        "Ol ysraýyllylara ýolbaşçylyk etdi"
+      ],
+      "answer": "Ol çagany ejesi bilen gaýtadan duşuşdyrdy"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

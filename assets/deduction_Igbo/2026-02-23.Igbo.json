@@ -1,0 +1,61 @@
+{
+  "title": "Olu nke Nkwenye Ezoro Ezo",
+  "intro": "N'obi ụlọ ikpe aka ike, ebe iwu obodo ahụ bụ nkwenye, otu mkpụrụ obi nọ naanị ya jere ije n'ụdọ okwukwe na egwu. Onye a, nke dị nso n'etiti ike, gere ntị ka a na-akwa ya emo ma na-eyi ya egwu. Oge eziokwu bịara, na-amanye onye a ịhọrọ n'etiti nchekwa dị jụụ na ikwu eziokwu dị ize ndụ. Ị nwere ike ịchọpụta onye onye na-akwado obi ike a bụ?",
+  "clues": [
+    "Ebi m n'ime ezinụlọ onye ọchịchị aka ike, na-ahụkwa m anya m n'anya ndị mpako jụrụ ihe ịrịba ama Chineke.",
+    "Edebere m okwukwe m ihe nzuzo, akụ̀ zoro ezo n'obí arụsị.",
+    "Anụrụ m onye ndu m jere ozi na-eme atụmatụ igbu onye ozi Allah, nwoke aha ya bụ Musa.",
+    "Ajụrụ m echiche ha, chetara ha akara aka nke ndị Nuh, Ad, na Thamud.",
+    "Ajụrụ m ndị m ajụjụ dị mkpa: 'Ọ bụrụ na ọ bụ onye ụgha, ụgha ya ga-adị n'isi ya; mana ọ bụrụ na ọ bụ onye eziokwu, ụfọdụ ihe o kwere ná nkwa ga-adakwasị gị.'",
+    "A kọrọ akụkọ m dịka ihe atụ nke okwukwe na sura a kpọrọ 'Onye Mgbaghara,' ebe m dọrọ ndị m aka ná ntị megide atụmatụ nke ndị dị ike."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye kwere ekwe si n'ezinụlọ Fero",
+        "Haman",
+        "Ndị Anwansi nke Fero",
+        "Qarọn",
+        "Ndị Samiri"
+      ],
+      "answer": "Onye kwere ekwe si n'ezinụlọ Fero"
+    },
+    "trial": {
+      "label": "Gịnị Bụ Ikpe M?",
+      "options": [
+        "Ịgbachitere Onye Amụma Mozis n'ụlọikpe onye ọchịchị aka ike",
+        "Iwuli ụlọ elu dị elu iji ruo eluigwe",
+        "Ịtụba n'ime ọkụ na-ere ọkụ",
+        "Azụ ukwu loro ya",
+        "Ịtụfu akụnụba na ahụike niile"
+      ],
+      "answer": "Ịgbachitere Onye Amụma Mozis n'ụlọikpe onye ọchịchị aka ike"
+    },
+    "location": {
+      "label": "Gịnị Bụ Isi Okwu M?",
+      "options": [
+        "Ihe ga-esi na ịjụ ozi onye amụma pụta",
+        "Arịrịọ maka ihe ịrịba ama sitere n'osisi dị nsọ",
+        "Okike nke nwa ehi site na ihe ịchọ mma a gbazere agbaze",
+        "Ọrụ ebube nke kamel si n'okwute pụta",
+        "Nkọwa nke nrọ onye ọchịchị"
+      ],
+      "answer": "Ihe ga-esi na ịjụ ozi onye amụma pụta"
+    },
+    "outcome": {
+      "label": "Gịnị Ka Ọ Pụtara?",
+      "options": [
+        "Allah zọpụtara onye a site na atụmatụ ọjọọ ha",
+        "Ụlọikpe ahụ dum nabatara Islam ozugbo",
+        "Onye ọchịchị aka ike ahụ chegharịrị n'oge mmiri na-eri ya",
+        "Ala loro onye aka ike ahụ",
+        "A chụgara onye ahụ n'ala dị anya"
+      ],
+      "answer": "Allah zọpụtara onye a site na atụmatụ ọjọọ ha"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

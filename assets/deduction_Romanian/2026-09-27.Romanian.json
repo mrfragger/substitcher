@@ -1,0 +1,61 @@
+{
+  "title": "Grădina care a dispărut peste noapte",
+  "intro": "Imaginează-ți o grădină luxuriantă, încărcată de fructe coapte și înconjurată de copaci falnici. Cei care o îngrijeau se credeau inteligenți, planificându-și recolta în orele liniștite dinaintea zorilor, departe de ochii celor nevoiași. Dar Cel care nu doarme niciodată avea alte planuri pentru bogăția lor ascunsă. Poți ghici cine stă în spatele acestei povești cu mesaj din Coran?",
+  "clues": [
+    "Am avut odată o grădină atât de luxuriantă și abundentă încât a devenit invidia tuturor trecetorilor.",
+    "În planificarea noastră, ne-am șoptit unul altuia dis-de-dimineață, declarând că niciun suflet nevoiaș nu va avea voie să intre în ziua aceea.",
+    "Eram oameni bogați, iar inimile noastre deveniseră oarbe față de drepturile săracilor din jurul nostru.",
+    "Când a sosit zorii recoltei pe care o plănuisem, ne-am apropiat de grădina noastră doar ca să o găsim transformată peste noapte într-o ruină înnegrită.",
+    "Un decret devastator a fost promulgat, lăsând în urmă doar cenușă acolo unde odinioară atârnaseră ciorchini de fructe coapte.",
+    "Povestea noastră este un avertisment sever consemnat în Coran, unde suntem cunoscuți ca proprietarii grădinii care au reținut caritatea de la cei nevoiași."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Proprietarii grădinii",
+        "Oamenii din peșteră",
+        "Discipolii lui Isa",
+        "Companionii Pădurii",
+        "Oaspeții lui Ibrahim"
+      ],
+      "answer": "Proprietarii grădinii"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Recoltând fructe în secret și interzicând săracii",
+        "Dormind secole într-o peșteră",
+        "Refuzând să producă o cămilă din piatră",
+        "Închinarea la un vițel de aur pe Muntele Sinai",
+        "Construirea unei arce mari pentru a scăpa de potop"
+      ],
+      "answer": "Recoltând fructe în secret și interzicând săracii"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O grădină împrejmuită cu ziduri, plină de palmieri și viță de vie",
+        "O peșteră întunecată adânc în munți",
+        "Un oraș cuprins de un uragan divin",
+        "O vale sacră lângă Casa lui Allah",
+        "Malurile unui râu curgător"
+      ],
+      "answer": "O grădină împrejmuită cu ziduri, plină de palmieri și viță de vie"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Grădina a fost mistuită de un decret arzător din ceruri",
+        "Au dormit liniștit timp de 309 ani lunari",
+        "Au fost zdrobiți de o ploaie de pietre",
+        "S-au înecat sub valurile unei mari inundații",
+        "Au fost împrăștiați de o rafală de vânt rece și puternic"
+      ],
+      "answer": "Grădina a fost mistuită de un decret arzător din ceruri"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

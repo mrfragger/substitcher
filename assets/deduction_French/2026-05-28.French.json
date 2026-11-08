@@ -1,0 +1,61 @@
+{
+  "title": "Le patient inébranlable Un",
+  "intro": "Dans les annales de l'histoire prophétique, rares sont ceux qui ont enduré une perte aussi profonde et une telle souffrance physique avec une foi inébranlable. L'histoire de cette figure est une leçon intemporelle de patience et de confiance en la sagesse divine. Qui est cette âme ?",
+  "clues": [
+    "J'ai été choisi par Allah pour délivrer un message, mais ma plus grande épreuve n'est pas venue du rejet, mais d'une calamité personnelle.",
+    "On m'a pris mes biens, mon bétail et mes enfants, l'un après l'autre.",
+    "Mon corps était couvert de plaies et j'étais seule, à l'exception du soutien de mon conjoint.",
+    "J'ai crié vers mon Seigneur, reconnaissant ma souffrance et implorant sa miséricorde.",
+    "On m'a demandé de frapper le sol du pied, et une source rafraîchissante a jailli.",
+    "Allah m'a rendu la santé, m'a donné une nouvelle famille et encore plus de richesses qu'auparavant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Ayyub",
+        "Le prophète Ibrahim",
+        "Le prophète Moïse",
+        "Le prophète Isaïe",
+        "Prophète Noé"
+      ],
+      "answer": "Prophète Ayyub"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Perte de richesse et de famille",
+        "Être jeté dans le feu",
+        "Être avalé par un poisson",
+        "Séparés de leur famille et vendus comme esclaves",
+        "Testé avec un veau d'or"
+      ],
+      "answer": "Perte de richesse et de famille"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Une source d'eau",
+        "Un bâton qui se transforma en serpent",
+        "Une arche en bois",
+        "Un veau fondu",
+        "Un palmier"
+      ],
+      "answer": "Une source d'eau"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Restauration de la famille et de la richesse",
+        "Ascension au ciel",
+        "Devenir roi",
+        "Sauvé d'une baleine",
+        "Recevoir un fils dans la vieillesse"
+      ],
+      "answer": "Restauration de la famille et de la richesse"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

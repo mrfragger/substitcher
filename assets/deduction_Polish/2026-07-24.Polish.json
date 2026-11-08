@@ -1,0 +1,61 @@
+{
+  "title": "Zamaskowany spiskowiec",
+  "intro": "Stajesz twarzą w twarz z potężną postacią z czasów objawienia. Ten człowiek był znany ze swojego intelektu, bogactwa i statusu społecznego. Kiedy nadeszły wyraźne znaki, rozpoznał piękno, ale wybrał bunt zamiast uległości. Co skłoniło tę duszę do spiskowania w ciemności i jaki był jej ostateczny los?",
+  "clues": [
+    "Zostałem obdarzony dużymi środkami i wpływami, co sprawiło, że moje słowo na zgromadzeniach stało się ważne.",
+    "Kiedy recytowano słowa boskie, nie mogłem zaprzeczyć ich elokwencji, lecz moja duma nie pozwalała mi się poddać.",
+    "Zebrałem swoich doradców i odizolowałem się, aby zastanowić się, w jaki sposób zdyskredytować tę wiadomość.",
+    "Po długim namyśle stwierdziłem, że to nic innego jak „magia przekazywana z przeszłości”, mająca na celu zniechęcenie ludzi.",
+    "Objawienie zwróciło się wówczas bezpośrednio do mnie: „Zostaw Mnie w spokoju z tym, którego stworzyłem”. Zostałem wytypowany do udziału w moich intrygach.",
+    "Już niedługo ten sam ogień, przed którym mnie ostrzegano, chwyci mnie za grzywkę i nie będę miał ucieczki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Dżahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Spiskował w celu zamordowania Proroka",
+        "Prowadził bojkot przeciwko muzułmanom",
+        "Zwołano radę, która miała nazwać Koran magicznym",
+        "Zaplanowano wygnanie Proroka z Mekki",
+        "Odmówił dzielenia się swoim bogactwem z sierotami"
+      ],
+      "answer": "Zwołano radę, która miała nazwać Koran magicznym"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Objawienie",
+        "Rada",
+        "Grzywka",
+        "Bogactwo",
+        "Pióro"
+      ],
+      "answer": "Grzywka"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Pożałował i przyjął islam",
+        "Wyemigrował do Abisynii",
+        "Dotknęła go śmiertelna choroba",
+        "Zginął w walce z muzułmanami",
+        "Został skazany na piekło"
+      ],
+      "answer": "Został skazany na piekło"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

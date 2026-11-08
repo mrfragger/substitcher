@@ -1,0 +1,61 @@
+{
+  "title": "Ruajtësit e Korrjes Sekrete",
+  "intro": "Në një tokë të gjelbër, një grup individësh bënë një plan të fshehtë nën mbulesën e errësirës. Ata kishin një qëllim të përbashkët, por qëllimi i tyre ishte larg të qenit i drejtë. Nuk e dinin se një kthesë hyjnore i priste ndërsa flinin.",
+  "clues": [
+    "Ne morëm një vendim të prerë, duke menduar se plani ynë ishte i përsosur.",
+    "Kishim ndërmend të dilnim herët, përpara se të tjerët të lëviznin fare.",
+    "Ne u vendosëm në një parcelë pjellore, të sigurt në furnizimet tona.",
+    "Ndërsa mbërritëm në destinacionin tonë, e gjetëm atë të shkretë dhe të shkretë, kështu që menduam se e kishim humbur rrugën.",
+    "Pastaj e kuptuam se ishte me të vërtetë vendi ynë dhe bërtitëm të dëshpëruar, duke fajësuar njëri-tjetrin për humbjen tonë.",
+    "Atë mëngjes ishim betuar se do t’i përjashtonim të varfrit nga të korrat tona, por ndëshkimi i Allahut erdhi mbi ne ndërsa flinim, duke e shndërruar kopshtin tonë në rrënim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush Jemi Ne?",
+      "options": [
+        "Pronarët e Kopshtit në Suren 68",
+        "Populli i Sabasë",
+        "Shokët e Shpellës",
+        "Njerëzit e Elefantit",
+        "Njerëzit e Hendekut"
+      ],
+      "answer": "Pronarët e Kopshtit në Suren 68"
+    },
+    "trial": {
+      "label": "Gjyqi ynë",
+      "options": [
+        "Kopshti ynë u shkatërrua nga një fatkeqësi nga qielli",
+        "Kopshti ynë u përfshi nga një përmbytje",
+        "Kopshti ynë u dogj nga një zjarr nga një armik",
+        "Kopshti ynë ishte mbushur me karkaleca",
+        "Kopshti ynë u përpi nga një tërmet"
+      ],
+      "answer": "Kopshti ynë u shkatërrua nga një fatkeqësi nga qielli"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Ne u betuam të këpusnim frutat e saj në mëngjes",
+        "Ne ndërtuam një digë për të ujitur kopshtin tonë",
+        "Ne kërkuam strehim në një shpellë për mbrojtje",
+        "Ne përgatitëm një ushtri për të pushtuar një mbretëri",
+        "Ne lundruam me një anije për të kaluar detin"
+      ],
+      "answer": "Ne u betuam të këpusnim frutat e saj në mëngjes"
+    },
+    "outcome": {
+      "label": "Fati ynë",
+      "options": [
+        "Ne u penduam dhe shpresuam për mëshirë nga Allahu",
+        "Ne u shkatërruam plotësisht dhe nuk u penduam kurrë",
+        "Ne ikëm nga vendi dhe nuk u kthyem më kurrë",
+        "Ne u bëmë përsëri të fuqishëm dhe të pasur",
+        "Ne u ndëshkuam duke u shndërruar në majmunë"
+      ],
+      "answer": "Ne u penduam dhe shpresuam për mëshirë nga Allahu"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

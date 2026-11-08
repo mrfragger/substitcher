@@ -1,0 +1,61 @@
+{
+  "title": "Jedenaście gwiazd, które się skłoniły",
+  "intro": "Pewna postać z Koranu w dzieciństwie doznała głębokiej wizji – snu o ciałach niebieskich kłaniających się z szacunkiem. Minęły lata, wypełnione zdradą, rozłąką, fałszywymi oskarżeniami i uwięzieniem, zanim ta wizja się spełniła. Kim jest ta niezłomna dusza, której historia zajmuje najdłuższy rozdział Koranu?",
+  "clues": [
+    "Kiedyś byłem młody i miałem niezwykłe marzenie, o którym nawet mój ojciec ostrzegał mnie, żebym zachował je w tajemnicy.",
+    "Moi bracia, zaślepieni zazdrością, uknuli przeciwko mnie spisek i wrzucili mnie do głębokiej, ciemnej studni.",
+    "Zostałem zabrany do dalekiego kraju i sprzedany do domu pewnego szlachetnego urzędnika, gdzie zdobyłem łaskę i awansowałem na stanowisko kierownicze.",
+    "Fałszywe oskarżenie doprowadziło do mojego niesłusznego uwięzienia, jednak w tym mrocznym miejscu znalazłem ukojenie w modlitwie i pokłonie przed Allahem.",
+    "Bóg obdarzył mnie rzadką umiejętnością interpretowania snów, co ostatecznie doprowadziło mnie przed oblicze władcy kraju i wyniosło na wysokie stanowisko, na którym mi zaufano.",
+    "Po długich latach rozłąki spotkałem się ponownie z moją ukochaną rodziną, a moje dziecięce marzenie o jedenastu gwiazdach, słońcu i księżycu kłaniających się mi w końcu spełniło się."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Yusuf",
+        "Prorok Salih",
+        "Prorok Ilyas",
+        "Tubba”, władca starożytnego Himyaru",
+        "Pokorny pasterz z wzgórz Palestyny"
+      ],
+      "answer": "Prorok Yusuf"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wrzucony do głębokiej, ciemnej studni przez zazdrosnych braci",
+        "Połknięcie przez wielkie stworzenie głębin morskich",
+        "Wrzucenie w płonący ogień przez bałwochwalców",
+        "Porywany przez boski wiatr zniszczenia",
+        "Przetrwanie wielkiej powodzi, która pokryła całą ziemię"
+      ],
+      "answer": "Wrzucony do głębokiej, ciemnej studni przez zazdrosnych braci"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wyschnięta studnia na pustyni, gdzie mnie porzucono",
+        "Wielka ryba głębin morskich",
+        "Ogromna arka zbudowana na boskim rozkazie",
+        "Wieża zbudowana, by sięgnąć nieba",
+        "Święty ogień, który nie chciał płonąć"
+      ],
+      "answer": "Wyschnięta studnia na pustyni, gdzie mnie porzucono"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Po latach rozłąki spotkał się ponownie z rodziną i został zaufanym duchownym",
+        "Poprowadziłem wielki exodus mojego ludu przez rozstąpione morze",
+        "Ostrzegłem mój naród przed zbliżającą się zagładą, która go pochłonęła",
+        "Zbudował święty dom, który stał się sanktuarium dla wszystkich",
+        "Wyłonił się bezpiecznie z brzucha wielkiego stworzenia po trzech dniach"
+      ],
+      "answer": "Po latach rozłąki spotkał się ponownie z rodziną i został zaufanym duchownym"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

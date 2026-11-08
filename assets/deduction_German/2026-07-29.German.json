@@ -1,0 +1,61 @@
+{
+  "title": "Die höfische Verfolgung",
+  "intro": "In den Machtzentren verfiel eine hochgestellte Persönlichkeit dem Bann einer Dienerin von überirdischer Schönheit. Diese Schwärmerei löste eine Reihe von Ereignissen aus, die Loyalitäten auf die Probe stellten, verborgene Wahrheiten enthüllten und letztlich die Unschuld der Dienerin bestätigten.",
+  "clues": [
+    "Ich lebte im Land des Nils, in einem Palast von großem Einfluss.",
+    "Ein junger Mann kam in meinen Haushalt, und seine Anwesenheit brachte meine Welt ins Wanken.",
+    "Ich versuchte, ihn zu verführen, aber er suchte Zuflucht bei seinem Herrn.",
+    "Ich riss ihm von hinten das Gewand auf, aber die Beweise wiesen auf meine Täuschung hin.",
+    "Um den Klatsch der adligen Damen zu unterbinden, lud ich sie zu einer Zusammenkunft ein und legte ihnen spitze Gegenstände in die Hände.",
+    "Am Ende bekannte ich öffentlich meinen Fehler und gestand die Wahrheit vor dem König."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Frau von Al-Aziz",
+        "Asiya (Ehefrau des Pharaos)",
+        "Bilqis (Königin von Saba)",
+        "Maria (Mutter von Isa)",
+        "Die Mutter von Musa"
+      ],
+      "answer": "Die Frau von Al-Aziz"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Sie versuchte, den Propheten Yusuf zu verführen.",
+        "Sie versuchte, den Propheten Musa zu töten.",
+        "Sie behauptete, eine Göttin zu sein.",
+        "Sie baute einen Turm, um Allah herauszufordern.",
+        "Sie führte ein Heer gegen Mekka."
+      ],
+      "answer": "Sie versuchte, den Propheten Yusuf zu verführen."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein am Rücken zerrissenes Hemd",
+        "Ein goldenes Kalb",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Eine Kamelstute",
+        "Eine Lampe"
+      ],
+      "answer": "Ein am Rücken zerrissenes Hemd"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie gestand und bekannte die Wahrheit.",
+        "Sie ertrank mit ihrer Armee.",
+        "Sie verwandelte sich in eine Salzsäule",
+        "Sie wurde von der Erde verschlungen",
+        "Sie wurde von einem heulenden Wind zerstört"
+      ],
+      "answer": "Sie gestand und bekannte die Wahrheit."
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

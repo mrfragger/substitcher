@@ -1,0 +1,61 @@
+{
+  "title": "Iudicium Flammae Sacrae",
+  "intro": "In terra antiqua, ubi devotio lapidis sculpti in omni domo radices egerat, unus homo seorsum erexit. Per firmam persuasione et divinam protectionem, mortem ei quae certa esse debuisset, obviam ierunt — et incolumes abierunt. Potesne identitatem huius animae insignis detegere?",
+  "clues": [
+    "Inter homines educatus sum qui idolis, quae ipsis manibus sculpserant, adorabant, credentes haec res vim divinam inesse.",
+    "Cum eorum opiniones impugnarem, me primo repudiaverunt, sed de veritate quam sciebam tacere non potui.",
+    "In die qua congregati sunt, idola eorum contrivi, maximum unum tantum relinquens intactum.",
+    "Cum rediissent et viderunt quae fecissem, duces eorum magnum rogum aedificari iusserunt, ut me in flammas coniicerent.",
+    "In ignem ardentem me praecipitaverunt, sed Dominus mundorum mandavit ut mihi frigidus et tutus fieret.",
+    "Ex flammis omnino incolumis emersi, dum ii qui contra me coniuraverunt ultimam exitium imminebant."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ibrahim",
+        "Propheta Musa",
+        "Propheta Nuh",
+        "Propheta Isaias",
+        "Propheta Iosue"
+      ],
+      "answer": "Propheta Ibrahim"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "In ignem ardentem coniectus",
+        "Ab magna balaena deglutitus",
+        "Superstes diluvii magni",
+        "In puteum profundum proiectus",
+        "Magos regis confrontans"
+      ],
+      "answer": "In ignem ardentem coniectus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Rogus ingens lignorum ardentium",
+        "Arca lignea magna",
+        "Statua vituli aurei",
+        "Calathus fluitans in flumine",
+        "Thronus magnificus"
+      ],
+      "answer": "Rogus ingens lignorum ardentium"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Allah ignem frigidum et tutum fecit",
+        "Arca tuto in montem appulit",
+        "Simulacrum aureum ante oculos eorum liquefactum est",
+        "Tyrannus et exercitus eius in mari submersi sunt",
+        "Visus caeci restitutus est"
+      ],
+      "answer": "Allah ignem frigidum et tutum fecit"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

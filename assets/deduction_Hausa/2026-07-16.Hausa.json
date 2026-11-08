@@ -1,0 +1,61 @@
+{
+  "title": "Muryar Da Ta Kalubalanci Mulkin Wani Gumaka",
+  "intro": "Daga cikin manzannin Madaukaki akwai wani bawa mai aminci wanda ya tashi a tsakanin al'umma mai taurin kai don isar da gaskiya. Mutanensu sun rungumi wani allahn da aka ƙirƙira, suna guje wa Mahaliccin duk abin da ke wanzuwa. Da ƙudurin da ba ya miƙewa, wannan mutumin ya sake kiransu - amma saƙon ya fuskanci ƙin yarda da kuma ƙin yarda. Ku bi diddigin alamu don gano ko wanene wannan bawa mai aminci.",
+  "clues": [
+    "An aiko ni a matsayin manzo zuwa ga mutane masu taurin kai waɗanda suka yi nisa da hanya madaidaiciya.",
+    "Na zo ne don in tunatar da al'ummata Wanda ya halicci dukkan abin da ke akwai - mafi kyawun masu halitta.",
+    "Mutanena sun koma ga wani gunki na ƙarya da suke bautawa kuma suke kira dare da rana.",
+    "Na ƙalubalance su da ƙarfin hali, ina tambayarsu dalilin da yasa za su bauta wa wani allahn da aka ƙirƙira kuma su bar Ubangijinsu na gaskiya.",
+    "Sun ƙaryata ni, sun ƙi saurara, kuma sun riƙe ƙaryarsu - duk da haka Ubangijina ya kiyaye ni.",
+    "Ni ne Ilyas — kuma an yi mini aminci, kuma an ƙirga ni cikin bayin Mai rahama muminai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Ilyas",
+        "Annabi Idris",
+        "Annabi Alyasa",
+        "Annabi Dhul-Kifl",
+        "Annabi Nuhu"
+      ],
+      "answer": "Annabi Ilyas"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kiran mutane daga bauta wa Ba'al",
+        "Fuskantar wani azzalumin da ya yi iƙirarin cewa shi allah ne",
+        "Gargaɗi ga mutane game da ambaliyar ruwa mai zuwa",
+        "Ana jefa shi cikin babbar wuta mai zafi",
+        "Jagoranci fita daga ƙasar bauta"
+      ],
+      "answer": "Kiran mutane daga bauta wa Ba'al"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Gumin mai suna Ba'al",
+        "Babban jirgi da aka gina da itace mai ƙarfi",
+        "Sanda da ta raba babban teku",
+        "Tufafi mai tsarki da aka yi wa fenti da jini",
+        "Daji mai ƙonewa a kan wani dutse mai tsarki"
+      ],
+      "answer": "Gumin mai suna Ba'al"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba da zaman lafiya kuma an ƙidaya shi a cikin bayin Allah da aka zaɓa",
+        "An kai shi aljanna yayin da aka halaka sauran duka",
+        "An ceto shi daga babbar wuta wadda ta yi sanyi kuma ta yi aminci",
+        "An ba shi iko akan aljanu, bil'adama, da iska",
+        "Jiki da aka kiyaye a matsayin alama mai ɗorewa har tsawon shekaru"
+      ],
+      "answer": "An ba da zaman lafiya kuma an ƙidaya shi a cikin bayin Allah da aka zaɓa"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

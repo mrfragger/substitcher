@@ -1,0 +1,61 @@
+{
+  "title": "Quduq tubidan",
+  "intro": "Yosh qalbning sayohati samoviy jismlarning hurmat bilan bosh egayotganini ko'rish bilan boshlandi. Bu shaxsning hayoti eng yaqinlarining eng chuqur xiyonati, undan keyin yillar davomida qullik va nohaq qamoq bilan yakunlandi. Shunga qaramay, sobit imon va ilohiy yo'l-yo'riq orqali bu shaxs eng past chuqurlikdan ko'tarilib, buyuk imperiyaning eng qudratli odamlaridan biriga aylandi. Allohning bu ajoyib bandasining kimligini ochib bera olasizmi?",
+  "clues": [
+    "Menga o'n bitta yulduz, quyosh va oyning oldimda sajda qilayotgani ko'rsatildi.",
+    "Men ota-onamning juda sevimli farzandi edim, bu esa akalarim orasida hasadgo'ylikni keltirib chiqardi",
+    "Meni o'z akalarim ushlab olishdi, kiyimlarimni yechib olishdi va chuqur, qorong'i quduqqa tashlashdi.",
+    "Meni bozorda tovar sifatida sotishdi va vatanimdan uzoqlarga olib ketishdi.",
+    "Nufuzli bir ayol mening sha'nimga putur yetkazishga urindi va men uning takliflarini rad etganim uchun qamoqqa tashlandim",
+    "Men tush ta'birlash qobiliyatiga ega bo'ldim va unutilgan mahbusdan Misrning bosh vaziri darajasiga ko'tarildim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yusuf payg'ambar",
+        "Muso payg'ambar",
+        "Payg'ambar Dovud",
+        "Payg'ambar Ayyub",
+        "Payg'ambar Sulaymon"
+      ],
+      "answer": "Yusuf payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "O'z aka-ukalari tomonidan chuqur quduqqa tashlangan",
+        "Butun dunyo bo'ylab katta suv toshqinidan omon qolish",
+        "Yonayotgan o'choqqa tashlanmoqda",
+        "Jang maydonida ulkan jangchi bilan jang qilish",
+        "Katta baliq tomonidan yutib yuborilmoqda"
+      ],
+      "answer": "O'z aka-ukalari tomonidan chuqur quduqqa tashlangan"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Cho'lda chuqur, quruq quduq",
+        "Tog' tepasidagi ulkan yog'och kema",
+        "Ilonga aylangan tayoq",
+        "Buyuk ulug'vorlikning ulug'vor taxti",
+        "Paypoq va beshta silliq tosh"
+      ],
+      "answer": "Cho'lda chuqur, quruq quduq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Misr bosh vaziri lavozimiga ko'tarildi va sevimli oilasi bilan yana birlashdi",
+        "Buyuk kema qurdi va odamlarni iymonga chaqirdi",
+        "Misrdagi qullikdan butun bir xalqni olib chiqdi",
+        "Ko'rinmas narsalar ustidan shohlik va hukmronlik berildi",
+        "Og'ir kasallik paytida sabr-toqat berildi va shifo topdi"
+      ],
+      "answer": "Misr bosh vaziri lavozimiga ko'tarildi va sevimli oilasi bilan yana birlashdi"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Isitha Esinomlilo",
+  "intro": "Ezinsukwini zokuqala zesambulo, kwavela umuntu ophikisana neqiniso ngenkani. Ebusiswe ngengcebo nesikhundla, lo mphefumulo wakhetha ukuqhosha kunesiqondiso, futhi indaba yabo yaba yisixwayiso esiqinile emavesini okugcina e-surah.",
+  "clues": [
+    "Bengihlala edolobheni elifanayo noMprofethi, futhi ngangiphakathi kwezihlobo zakhe eziseduze kakhulu, kodwa ukuqhosha kwami ​​kwangigcina ngikude neqiniso.",
+    "Nganginengcebo enkulu nezindawo eziningi, futhi ngangicabanga ukuthi izinsiza zami zizongivikela njalo.",
+    "Lapho umyalezo wembulwa, ngawuhleka usulu obala futhi ngaphenduka, ngizibona ngingcono kunabakholwayo.",
+    "Ubutha bami babudume kakhulu kangangokuthi i-surah ye-Quran yayingibhekisa ngqo, ingibiza ngegama abanye ababengazi ngalo.",
+    "Ngaxwayiswa ukuthi ingcebo yami kanye nemali engiyitholayo ngeke kungisize ngalutho, futhi ngizophonswa emlilweni ovuthayo.",
+    "Ngaziwa njengoyise welangabi, futhi umkami uzophatha izinkuni ngentambo yesundu entanyeni yakhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abu Lahab",
+        "U-Abu Jahl",
+        "U-Abu Sufyan",
+        "U-Al-Walid ibn al-Mughira",
+        "U-Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wenqaba ubuSulumane futhi wamelana ngokusobala noMprofethi",
+        "Kuhlelwe ukubulala uMprofethi",
+        "Bahole ukubhikisha komphakathi ngokumelene namaSulumane",
+        "Walwa eMpini yaseBadr",
+        "Wahlushwa uBilal ibn Rabah"
+      ],
+      "answer": "Wenqaba ubuSulumane futhi wamelana ngokusobala noMprofethi"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Intambo yefibre yesundu",
+        "Inkemba ebukhali",
+        "Iketanga elisindayo",
+        "Intonga yokhuni",
+        "Isiswebhu sesikhumba"
+      ],
+      "answer": "Intambo yefibre yesundu"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Izosha emlilweni ovuthayo",
+        "Waphenduka waba ngumngane",
+        "Ulahlekelwe yingcebo yakhe kodwa washona ehlonishwa",
+        "Wabalekela e-Abyssinia",
+        "Ukuminza olwandle"
+      ],
+      "answer": "Izosha emlilweni ovuthayo"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

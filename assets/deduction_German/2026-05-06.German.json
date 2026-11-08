@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimme aus dem brennenden Busch",
+  "intro": "Enthülle die Identität einer tiefgründigen Persönlichkeit, deren Reise mit einer wundersamen Begegnung begann und deren Schicksal mit der Befreiung eines unterdrückten Volkes verbunden war. Diese Person wurde für eine gewaltige Aufgabe auserwählt und stellte sich mit göttlicher Unterstützung immensen Herausforderungen.",
+  "clues": [
+    "Ich wurde in eine Zeit großer Unterdrückung hineingeboren, in der Säuglinge meines Volkes getötet wurden.",
+    "In meiner frühen Kindheit wurde ich von meinen Eltern in einem Fluss ausgesetzt, doch später wurde ich im Haushalt des Unterdrückers meines Volkes gefunden und aufgezogen.",
+    "Ich bin einmal aus einer Stadt geflohen, nachdem ich bei einem Streit unbeabsichtigt den Tod eines Menschen verursacht hatte.",
+    "Ich empfing eine göttliche Botschaft und einen wundersamen Stab an einem heiligen Ort, wo ich den Auftrag erhielt, mich einem mächtigen Herrscher entgegenzustellen.",
+    "Mein Bruder wurde mir aufgrund einer vermuteten Sprachbehinderung als Helfer bei meiner Mission zugeteilt.",
+    "Ich führte mein Volk über ein geteiltes Meer und entkam so der Verfolgung durch ein tyrannisches Heer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Yusuf",
+        "Prophet Isa",
+        "Prophet Musa",
+        "Prophet Nuh",
+        "Prophet Ibrahim"
+      ],
+      "answer": "Prophet Musa"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Jahrelange Dürre aushalten",
+        "Der Bau der Arche",
+        "Konfrontation mit dem Pharao und seinen Zauberern",
+        "In einen glühenden Ofen geworfen werden",
+        "Die Vernichtung des Volkes der Thamud"
+      ],
+      "answer": "Konfrontation mit dem Pharao und seinen Zauberern"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Kaaba",
+        "Die eiserne Mauer",
+        "Die Mitarbeiter",
+        "Das Schiff von Nuh",
+        "Der Ring von Sulaiman"
+      ],
+      "answer": "Die Mitarbeiter"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Die Stadt Sodom wurde erobert.",
+        "Die Menschen wurden von der Erde verschlungen",
+        "Die große Flut überschwemmte das Land",
+        "Der Pharao und sein Heer ertranken.",
+        "Die Stadtmauern stürzten unter einem Schrei ein."
+      ],
+      "answer": "Der Pharao und sein Heer ertranken."
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

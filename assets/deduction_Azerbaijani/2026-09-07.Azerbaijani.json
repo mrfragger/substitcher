@@ -1,0 +1,61 @@
+{
+  "title": "Üz döndərən yoldaş",
+  "intro": "Siz peyğəmbərlik kölgəsində yaşamış, lakin məhvə aparan bir yolu seçmiş bir ruhun hekayəsini açmaq üzrəsiniz. Bu şəxs Allahın seçilmiş elçilərindən biri ilə bir evi bölüşmüş, lakin iman sınağından keçə bilməmişdi. Bu itirilmiş yoldaş kimdir?",
+  "clues": [
+    "Mən salehliyə çağırışı rədd edən insanlar arasında yaşadım və onlara qarşı çıxmadım.",
+    "Mən Allahın peyğəmbəri ilə evli idim, amma bu inancı bölüşmürdüm.",
+    "Qasidlər evimə xəbərdarlıqla gələndə onlara inanmadım.",
+    "Həyat yoldaşıma möminlərlə birlikdə şəhəri tərk etmək əmri verilmişdi və mən onların arasında deyildim.",
+    "Cəza xalqımın üzərinə gəldi və mən də onlarla birlikdə məhv oldum.",
+    "Mən Quranda Nuhun arvadı ilə yanaşı, Təhrim surəsində küfr nümunəsi kimi qeyd olunmuşam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Nuh peyğəmbərin həyat yoldaşı",
+        "Lut peyğəmbərin həyat yoldaşı",
+        "İbrahim peyğəmbərin həyat yoldaşı",
+        "Musa peyğəmbərin həyat yoldaşı",
+        "Əyyub peyğəmbərin həyat yoldaşı"
+      ],
+      "answer": "Lut peyğəmbərin həyat yoldaşı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "İnamsızlıqla ərinə xəyanət etdi",
+        "Hud peyğəmbərin mesajını rədd etdi",
+        "Kəbədə açıq şəkildə ibadət edilən bütlər",
+        "Ərinin missiyasına qarşı sui-qəsd hazırladı",
+        "Oğlunun peyğəmbərliyini qəbul etməkdən imtina etdi"
+      ],
+      "answer": "İnamsızlıqla ərinə xəyanət etdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Sodom şəhəri",
+        "Mədyən şəhəri",
+        "İrəm şəhəri",
+        "Babil şəhəri",
+        "Yerusəlim şəhəri"
+      ],
+      "answer": "Sodom şəhəri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Əri ilə birlikdə xilas oldu",
+        "Kafirlərlə birlikdə məhv edildi.",
+        "Uzaq bir diyara sürgün edildi",
+        "Tövbə etdi və bağışlandı",
+        "Daha sonra mömin oldu"
+      ],
+      "answer": "Kafirlərlə birlikdə məhv edildi."
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Bakardadeko Erretiroa",
+  "intro": "Jainkozko faborearen analetan, badago paregabeko purutasuneko arima bat, bere herritik bereizita, norabide sakratu batean bakardadea bilatzeko. Ez zekiten bakardade honek mundu guztientzat seinale bat ekarriko zuela, betikotasunerako aipatuko zen fedearen proba bat.",
+  "clues": [
+    "Jaio aurretik zerbitzu bizitza bati eskaini nion.",
+    "Profeta noble baten zaintzapean jarri ninduten.",
+    "Allahren hornidurekin elikatu nintzen, eta nire zaindaria harritu zuen.",
+    "Familiatik erretiratu nintzen ekialdeko leku batera.",
+    "Aingeru bat agertu zitzaidan gizon perfektu baten itxuran, seme garbi baten berri emanez.",
+    "Jaioberriarekin itzuli nintzenean, nire jendeak leporatu ninduen, baina haurtxoak nire alde hitz egin zuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Maryam (Maria)",
+        "Asiyah (Faraoiaren emaztea)",
+        "Hajar (Ismailen ama)",
+        "Sara (Ibrahimen emaztea)",
+        "Musaren ama."
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Seme baten kontzepzio eta jaiotza miragarria",
+        "Sutara botata egotea.",
+        "Arrain erraldoi batek irentsi izana",
+        "Arka handi bat eraikitzen",
+        "Itsasoa zeharkatzen."
+      ],
+      "answer": "Seme baten kontzepzio eta jaiotza miragarria"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ekialdeko leku isolatu bat",
+        "Sasi erretzailea",
+        "Itsaso Gorria",
+        "Ura isuri zen harkaitza",
+        "Balea"
+      ],
+      "answer": "Ekialdeko leku isolatu bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Haurtxo batek amaren alde hitz egin zuen",
+        "Itsasoa zatitu zen.",
+        "Sua fresko eta seguru bihurtu zen",
+        "Balea kostaldean oka egin zuen",
+        "Arka mendi batean lurreratu zen"
+      ],
+      "answer": "Haurtxo batek amaren alde hitz egin zuen"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

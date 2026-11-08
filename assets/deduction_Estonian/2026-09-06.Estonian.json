@@ -1,0 +1,61 @@
+{
+  "title": "Kuldvasika väljatõukaja",
+  "intro": "Koraanis mainitud tegelane juhtis suure hulga inimesi õilsa prohveti äraolekul usust kõrvale kalduma. Kullast valmistatud ese vallutas terve rahva südamed – kuid selle inimese lugu lõpeb üksinduse ja kummalise needusega. Kes see heidik küll olla võiks?",
+  "clues": [
+    "Ma ilmusin esile suure prohveti äraolekul, kes oli taevasse tõusnud jumalikku juhatust saama.",
+    "Ma ajasin suure hulga inimesi eksiteele millegagi, mille ma ise oma kätega valmistasin.",
+    "Minu loodud kuldne looming tundus elavat, tekitades helisid, mis lummasid neid, kes sellele järgnesid.",
+    "Ma väitsin, et nägin seda, mida teised ei suutnud tajuda – pilguheitu nähtamatusse.",
+    "Ma tõmbasin jumaliku sõnumitooja jälgedest midagi välja ja valasin selle sulametalli.",
+    "Mind määrati üksi rändama, ainulaadse needusega, et keegi ei tohtinud puudutada minu nahka ega mina nende oma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Vaarao (Fir'awn)",
+        "Abu Lahab",
+        "Prohvet Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Loonud kummardamiseks kuldvasika",
+        "Ehitas taevani ulatuva torni",
+        "Esitas väljakutse Egiptuse nõidadele",
+        "Juhtis lendavate loomadega armeed",
+        "Jaga kuu prohvetluse tõendina"
+      ],
+      "answer": "Loonud kummardamiseks kuldvasika"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kuldvasikas",
+        "Personali, mis muutus maoks",
+        "Põlev põõsas mäel",
+        "Laev puhkab tipul",
+        "Lõõmava tulega täidetud kaevik"
+      ],
+      "answer": "Kuldvasikas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Paguluses, keelatud teda puudutada või teisi puudutada",
+        "Uppusid koos armeega merre",
+        "Põletati elusalt usu hülgamise pärast",
+        "Löönud maha vägivaldse, möirgava tuule poolt",
+        "Andestati ja kõrgele positsioonile tõsteti"
+      ],
+      "answer": "Paguluses, keelatud teda puudutada või teisi puudutada"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

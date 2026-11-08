@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaiwhakaatu Pūmau",
+  "intro": "Whakaarohia tētahi wā i whakamatautauria ai te whakapono ki te ahi, ā, ko te whakapono pumau te mea tino whakahē. Ko tāu mahi he hura i te tuakiri o tētahi rōpū e kōrerotia ana i roto i te Quran, he kōrero mō te whakapono hohonu ki te mana whakahaere kino. Wetekina ngā tohu kia kitea ai ko wai ēnei wairua, me ngā āhuatanga rerekē i pā ki a rātou.",
+  "clues": [
+    "I tū pakari mātou ki tō mātou whakapono, ahakoa te kaha o te pēhanga ki te whakarērea tō mātou whakapono.",
+    "I whaia mātou e tētahi rangatira mana nui i whai ki te tineia te māramatanga o te whakapono ki te atua kotahi.",
+    "I kite mātou i ngā tohu nunui me ngā merekara, heoi i noho mangere tonu ō mātou kaitukino.",
+    "I whakamanawanui mātou i tētahi tikanga whakatoi whakamataku i hangaia hei whakawehi i ētahi atu kia ngohengohe.",
+    "I maka mātou ki roto i te mura ahi, heoi nā tō mātou manawanui i whiwhi ai mātou i tētahi tūranga teitei i te aroaro o Allah.",
+    "Kei roto i tētahi Surah, i tapaina i muri i ngā whetū o te rangi, te kōrero mō te mutunga o te hunga e whakatoi ana i te hunga whakapono."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Te Iwi o Thamud",
+        "Te Iwi o 'Ad",
+        "Te Iwi o te Waikeri",
+        "Te Iwi o Miriana",
+        "Te Iwi o te Arewhana"
+      ],
+      "answer": "Te Iwi o te Waikeri"
+    },
+    "trial": {
+      "label": "Tō tātou whakatoi",
+      "options": [
+        "Te toremitanga i roto i te waipuke",
+        "E kainga ana e te hau werawera",
+        "Te maka ki roto i te awaawa mura",
+        "Te horomia e te whenua",
+        "Te hurihanga hei makimaki"
+      ],
+      "answer": "Te maka ki roto i te awaawa mura"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He waipuke nui",
+        "He rū whenua nui",
+        "He awaawa hohonu, e mura ana",
+        "He whakapakoko kaha",
+        "He tauraki kino"
+      ],
+      "answer": "He awaawa hohonu, e mura ana"
+    },
+    "outcome": {
+      "label": "Tō tātou mutunga mutunga",
+      "options": [
+        "I whakawhiwhia rātou ki tētahi rangatiratanga i runga i te whenua.",
+        "I whakaorangia rātou e tētahi mawhiti whakamiharo.",
+        "I whiwhi rātou i te mate whakamate me te utu mutunga kore.",
+        "I hurihia rātou hei momo rerekē.",
+        "I hoatu ki a rātou te taonga nui me te angitu nui."
+      ],
+      "answer": "I whiwhi rātou i te mate whakamate me te utu mutunga kore."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

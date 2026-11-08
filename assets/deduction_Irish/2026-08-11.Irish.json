@@ -1,0 +1,61 @@
+{
+  "title": "Gealltanas na Broinne",
+  "intro": "I seomraí ciúine croí a bhí tiomanta don Diaga, ceapadh gealltanas naofa. Dhírigh an gealltanas seo ar shaol nár tharraing anáil fós, agus d’athródh a chomhlíonadh cúrsa na hoidhreachta spioradálta go deo. Céim isteach i rúndiamhair anama a raibh a gealltanas ag macalla tríd an tsíoraíocht.",
+  "clues": [
+    "Bhí cónaí orm i dteaghlach a raibh cáil air as a chráifeacht, agus bhí fonn orm bronntanas a thabharfadh níos gaire d'Allah mé.",
+    "Rinne mé conradh sollúnta le mo Thiarna maidir leis an méid a bhí i bhfolach ionam, ag gealladh go ndéanfainn é a thiomnú go hiomlán dá sheirbhís.",
+    "Nuair a tháinig nóiméad an nochta, ní raibh súil agam leis an méid a fuair mé, ach chuir mé an t-ábhar ar iontaoibh an Uile-Eolaigh.",
+    "Thug mé ainm a léirigh dílseacht do mo leanbh, agus d’impigh mé go gcosnódh sí féin agus a sliocht ón té a bhí mallaithe.",
+    "Cuireadh mo leanbh sa tearmann naofa, faoi choimirce fáidh de shliocht Árón.",
+    "Tháinig cáil ar m’iníon as a híonacht agus roghnaíodh í os cionn na mban go léir, agus ina dhiaidh sin ba í máthair fáidh mhóir í, cé nár cuireadh isteach uirthi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Bean chéile Imran",
+        "Máthair Mhúsa",
+        "Bean chéile an Fharó",
+        "Bean chéile Al-Aziz",
+        "Máthair Íosa"
+      ],
+      "answer": "Bean chéile Imran"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Gealltanas a leanbh gan bhreith a thiomnú don teampall",
+        "Tástáil foighne le linn tinnis fhada",
+        "Turas go tír i bhfad i gcéin ar mhaithe leis an gcreideamh",
+        "Agóid le rí tíoránta",
+        "Soláthar míorúilteach bia ó neamh"
+      ],
+      "answer": "Gealltanas a leanbh gan bhreith a thiomnú don teampall"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An leanbh darb ainm Máire",
+        "An fhoireann a d’iompaigh ina nathair",
+        "An lao órga",
+        "Tobar Zamzam",
+        "Áirc Naoi"
+      ],
+      "answer": "An leanbh darb ainm Máire"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ghlac Allah lena leanbh agus d'fhás sé faoi chúram fáidhiúil",
+        "Rinneadh fáidh dá leanbh agus fuair sé scrioptúr",
+        "Tógadh a leanbh suas go dtí na flaithis",
+        "Thóg a leanbh teach naofa",
+        "Bronnadh eagna agus saibhreas ollmhór ar a leanbh"
+      ],
+      "answer": "Ghlac Allah lena leanbh agus d'fhás sé faoi chúram fáidhiúil"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

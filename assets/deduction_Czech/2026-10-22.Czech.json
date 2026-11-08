@@ -1,0 +1,61 @@
+{
+  "title": "Komunita prvního přestupku",
+  "intro": "V zemi starobylých měst kdysi vzkvétal lid. Navštívil je posel s jasným voláním, přesto se odvrátili a vydali se cestou, po které nikdo předtím nekráčel. Jejich příběh je příběhem vzdoru, zkaženosti a trestu, který opustil jejich vlast jako znamení pro všechny, kdo se nad ní zamýšlejí. Kdo jsou tyto duše?",
+  "clues": [
+    "Žili jsme ve městech na rovině, kde nás náš prorok volal ke spravedlnosti.",
+    "Byli jsme první, kdo se dopustil neslušnosti, jaké se předtím nikdo na celém světě nedopustil.",
+    "Přepadali jsme poutníky a na našich shromážděních jsme otevřeně páchali zlo.",
+    "Odmítli jsme posla, který k nám byl vyslán, a vyhrožovali jsme, že ho vyženeme z naší země.",
+    "Spěchali jsme k jeho domu a požadovali, aby nám vydal své hosty.",
+    "Naším trestem byl déšť kamení a naše město bylo obráceno vzhůru nohama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Lidé z Lutu",
+        "Lidé z Nuha",
+        "Lidé z 'Ad",
+        "Lidé z Thamudu",
+        "Lidé z Madyanu"
+      ],
+      "answer": "Lidé z Lutu"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Spáchal první sodomický čin",
+        "Uctívané modly",
+        "Podveden v obchodě",
+        "Zabili svého proroka",
+        "Neposlechli své rodiče"
+      ],
+      "answer": "Spáchal první sodomický čin"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Město na pláni",
+        "Město studny",
+        "Město příkopu",
+        "Město slonů",
+        "Město zahrady"
+      ],
+      "answer": "Město na pláni"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zasypané kameny a převrácené",
+        "Utopený povodní",
+        "Zničeno prudkým větrem",
+        "Pohlceno zemí",
+        "Zasažen hlasitým výbuchem"
+      ],
+      "answer": "Zasypané kameny a převrácené"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

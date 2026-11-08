@@ -1,0 +1,61 @@
+{
+  "title": "Ku Pfuxetiwa Ka Vukanganyisi",
+  "intro": "Vuxaka bya rixaka byi ringiwile hi ku andza ka mavondzo. Ku endliwe pulani ya le xihundleni, yi sungula nxaxamelo wa swiendlakalo leswi a swi ta teka malembe ni ku tsemakanya mpfhuka lowukulu. Swiendlo swa ntlawa lowu swi yise eka ku hambana lokukulu ni gome, kambe xitori a xi helelanga kwalaho. I ntsheketo wa vuxisi, ku tisola ni ku paluxiwa loku heleleke ka pulani ya Xikwembu. Xana u nga paluxa vumunhu bya vanhu lava lava ku hlawula ka vona ku twala eka switukulwana?",
+  "clues": [
+    "Hi dyiwe hi mavondzo hikwalaho ka rirhandzu leri kombisiweke eka un’wana wa hina.",
+    "Hi mavondzo ya hina, hi endle xikungu swin’we ivi hi lahlela makwerhu emunyameni wa xihlovo.",
+    "Leswaku hi tumbeta xiendlo xa hina, hi nyike tata wa hina nguvu, leyi nga ni ngati ya mavunwa.",
+    "Endzhaku ka malembe, ndlala leyikulu yi hi sindzise ku ya aEgipta hi ya lava malunghiselelo.",
+    "Kwalaho, hi tile emahlweni ka holobye wa matimba loyi, hi nga swi tivi, a a ri makwerhu loyi hi n’wi dyoheleke.",
+    "Xikambelo xa hina xo hetelela a ku ri ku tisa makwerhu wa hina lontsongo, Binyamin, leswi endleke leswaku ku paluxiwa nkarhi wa hina lowu hundzeke naswona tata wa hina a ri Muprofeta Ya’qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi vamani hina?",
+      "options": [
+        "Vana va Adamu (Qabil & Habil) .",
+        "Vadyondzisiwa va Muprofeta Esa",
+        "Vamakwavo va Muprofeta Yusuf",
+        "Vanhu va le Madyan",
+        "Vaendli va masalamusi va le Fir'awn"
+      ],
+      "answer": "Vamakwavo va Muprofeta Yusuf"
+    },
+    "trial": {
+      "label": "Hi xihi xiendlo xo biha xa hina lexikulu?",
+      "options": [
+        "Ku aka rhole ra nsuku ra vugandzeri",
+        "Ku lava ku vona Allah hi ku kongoma",
+        "Ku hlekula muprofeta hi ku aka ngalava",
+        "Ku kanganyisa tata wa hina ni ku tshika makwerhu",
+        "Ku tlula Savata hi ku phasa tinhlampfi"
+      ],
+      "answer": "Ku kanganyisa tata wa hina ni ku tshika makwerhu"
+    },
+    "location": {
+      "label": "Hi xihi nchumu lowu a wu ri wa nkoka eka vuxisi bya hina?",
+      "options": [
+        "Seti ya swiphepherhele leswi tsariweke",
+        "Xikipa lexi nga ni ngati ya mavunwa",
+        "Rhole ra nsuku",
+        "Xinyenyana xo saseka (xiharhi xa Hoopoe) .",
+        "Nhonga leyi hundzukeke nyoka"
+      ],
+      "answer": "Xikipa lexi nga ni ngati ya mavunwa"
+    },
+    "outcome": {
+      "label": "Hi byihi vuyelo byo hetelela bya xitori xa hina?",
+      "options": [
+        "Hi lovisiwile hi ndhambi ya matimba",
+        "Hi hundzuriwile hi va tindlopfu",
+        "Hi mitiwe hi misava",
+        "Hi rivaleriwile naswona hi tlhele hi hlangana ni ndyangu wa ka hina",
+        "Hi nwile elwandle"
+      ],
+      "answer": "Hi rivaleriwile naswona hi tlhele hi hlangana ni ndyangu wa ka hina"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

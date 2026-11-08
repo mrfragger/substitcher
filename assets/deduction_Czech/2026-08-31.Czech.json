@@ -1,0 +1,61 @@
+{
+  "title": "Tichý hlas údolí",
+  "intro": "Vraťte se v čase k mocnému lidu, který kdysi dostal jako zkoušku živoucí zázrak. Arogance a tvrdohlavost zpečetily jejich osud. Dokážete vystopovat příběh a zjistit, co se v tomto dramatickém zlomu odehrálo?",
+  "clues": [
+    "Byl jsem poslán jako božská zkouška mocnému lidu známému pro svou sílu a vzdor.",
+    "Byl jsem jedinečný zázrak – nikdo jako já se mezi nimi nikdy neobjevil.",
+    "Sdílel jsem s lidmi pitnou vodu ze studny každý druhý den.",
+    "Byli varováni, že jakékoli újmy vůči mně budou rychle potrestány.",
+    "Ti nejodvážnější z nich ignorovali varování a podrazili mi šlachy.",
+    "Po mé smrti jediný ohlušující výkřik shůry zničil celý můj lid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Velbloudice ze Sáliha",
+        "Kráva Musa",
+        "Noeova loď",
+        "Musova hůl",
+        "Trůn Bilqis"
+      ],
+      "answer": "Velbloudice ze Sáliha"
+    },
+    "trial": {
+      "label": "Můj osud",
+      "options": [
+        "Ochromený a zabitý",
+        "Poražen jako oběť",
+        "Proměněn v hada",
+        "Zachováno během velké povodně",
+        "Rychle přeneseno přes království"
+      ],
+      "answer": "Ochromený a zabitý"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Studna vody",
+        "Kamenná deska",
+        "Hořící keř",
+        "Dřevěná archa",
+        "Trůn ze zlata a stříbra"
+      ],
+      "answer": "Studna vody"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zničen jediným výkřikem",
+        "Utopil se ve velké povodni",
+        "Spálen sprškou kamení",
+        "Zničený prudkým větrem",
+        "Pohlceno zemí"
+      ],
+      "answer": "Zničen jediným výkřikem"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

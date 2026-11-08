@@ -1,0 +1,61 @@
+{
+  "title": "El Espíritu Confiable de la Revelación",
+  "intro": "En los reinos invisibles, un ser de luz pura se mueve con precisión, ejecutando cada orden sin vacilación. Esta figura ha hablado con siervos elegidos, ha traído palabras de guía y ha presenciado el desarrollo de decretos divinos a través de los siglos. ¿Quién es esta alma venerada?",
+  "clues": [
+    "Soy un ser de luz pura, creado de luz, y jamás he desobedecido una sola orden de mi Señor.",
+    "Me muevo entre los cielos y la tierra, descendiendo con los decretos del Misericordioso.",
+    "Me enviaron a una noble virgen en el santuario para anunciarle un hijo puro.",
+    "Yo soy el espíritu de santidad, y apoyé a un profeta al que se le dieron señales claras y el Evangelio.",
+    "Llegué a una cueva en la montaña para pronunciar las primeras palabras de una recitación que quedaría preservada para siempre.",
+    "Yo soy el espíritu digno de confianza, y fui yo quien hizo descender el Corán sobre el corazón del último mensajero."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Miguel",
+        "El Ángel de la Muerte",
+        "Malik (Guardián del Infierno)",
+        "Harut (uno de los dos ángeles en Babilonia)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Misión/Función principal",
+      "options": [
+        "Transmitiendo la revelación a los profetas",
+        "Tocar la trompeta en el Día del Juicio Final",
+        "Custodiando las puertas del infierno",
+        "Registrar las hazañas de los seres humanos",
+        "Provocando que llueva"
+      ],
+      "answer": "Transmitiendo la revelación a los profetas"
+    },
+    "location": {
+      "label": "Atributo o título clave",
+      "options": [
+        "El Espíritu Santo (Ruh al-Qudus)",
+        "El espíritu del poder",
+        "El Espíritu de Misericordia",
+        "El espíritu de guía",
+        "El Espíritu de la Verdad"
+      ],
+      "answer": "El Espíritu Santo (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Resultado de la misión",
+      "options": [
+        "El Corán fue revelado al profeta Mahoma.",
+        "La trompeta sonó en el Día del Juicio Final.",
+        "El infierno estaba custodiado y sus puertas estaban cerradas.",
+        "El Libro de los Hechos fue presentado a Alá.",
+        "La lluvia fue enviada a la tierra"
+      ],
+      "answer": "El Corán fue revelado al profeta Mahoma."
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Az állhatatos tanú",
+  "intro": "Egy mélyreható történet bontakozik ki, feltárva egy közösség rendíthetetlen elszántságát a mérhetetlen zsarnoksággal szemben. Történetük a hit bizonyítéka, még akkor is, ha a végső áldozattal kell szembenézniük. Ez a beszámoló emlékeztet minket a hit erejére a túlnyomó elnyomással szemben.",
+  "clues": [
+    "Egy olyan csoport voltunk, amelynek történetét egy rövid, erőteljes szúra meséli el, amely az üldöztetés veszélyeire figyelmeztet.",
+    "Egy olyan uralkodóval néztünk szembe, aki el akarta pusztítani az Egyetlen Istenbe, a Trón Urába, a Dicsőségre Méltóba vetett hitünket.",
+    "Egy szörnyű próbatételnek volt kitéve, amelyben egy hatalmas gödröt ástak a földbe.",
+    "Láttuk, ahogy a hívőket, köztük csecsemőket is, a tomboló pokolba vetették abban a gödörben.",
+    "Kínzóinkat megátkozták tetteikért, míg nekünk hatalmas jutalmat ígértek állhatatosságunkért.",
+    "Az uralkodó kísérlete, hogy kioltsa a hitünket, csak megerősítette a mártírok helyét Allah színe előtt, aki minden dolog tanúja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Thamud népe",
+        "'Ad emberei",
+        "Az árok népe",
+        "Lut népe",
+        "Az elefánt népe"
+      ],
+      "answer": "Az árok népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A nagy árvíz",
+        "Az égő csipkebokor",
+        "A fulladás a tengerben",
+        "A tüzes gödör",
+        "A földrengés"
+      ],
+      "answer": "A tüzes gödör"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "Az árok",
+        "A hegy",
+        "A kút"
+      ],
+      "answer": "Az árok"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Királyságot kaptak",
+        "Egy csoda folytán megmentették őket",
+        "Elérte a vértanúságot és a Paradicsomot",
+        "Szétszóródtak a földeken",
+        "Hatalmas vagyont adományoztak"
+      ],
+      "answer": "Elérte a vértanúságot és a Paradicsomot"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

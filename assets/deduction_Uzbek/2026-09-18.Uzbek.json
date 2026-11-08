@@ -1,0 +1,61 @@
+{
+  "title": "Muqaddas Vodiydan kelgan chaqiriq",
+  "intro": "Tarix sahifalaridan tashqarida qudratli hukmdor va butun qul xalq o'rtasida turgan bir ruhning hikoyasi yotadi. Bu shaxs har qanday tabiiy qonunga zid bo'lgan mo''jizalar ko'rsatib, bir xalqni zulmdan qutqarishga chaqirilgan edi. Muqaddas tog'dan suv ustidagi mo''jizagacha, Allohning bu xizmatkori asrlar davomida aks-sado beradigan alomatlarga guvoh bo'ldi. Bugungi vazifangiz insoniyat tarixi yo'nalishini shakllantirgan bu ajoyib shaxsni aniqlashdir.",
+  "clues": [
+    "Men xalqim halokatli farmonga duch kelgan va oilam meni hayotimni saqlab qolish uchun suvga tashlagan bir paytda tug'ilganman.",
+    "Men o'z avlodlarimning o'limiga buyruq bergan hukmdorning xonadonida topilib, ulg'ayganman.",
+    "Men muqaddas tog'ga qochib ketdim, u yerda yonib ketmagan daraxtda olovni ko'rdim va undan menga bir ovoz gapirdi.",
+    "Meni mo''jizalar bilan o'sha hukmdorning oldiga qaytarib yuborishdi, qul xalqimning ozodligini talab qilishdi.",
+    "Men tayoqcham bilan dengizni urdim, u quruq yo'llarga bo'linib, xalqimning orqasidan ergashganlarni yutib yubordi.",
+    "Men qirq kecha davomida ot ustida Parvardigorim bilan muloqot qildim va menga ilohiy hidoyat lavhalari berildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Muso payg'ambar",
+        "Horun payg'ambar",
+        "Ibrohim payg'ambar",
+        "Yusuf payg'ambar",
+        "Payg'ambar Dovud"
+      ],
+      "answer": "Muso payg'ambar"
+    },
+    "trial": {
+      "label": "Mening aniqlovchi sinovim",
+      "options": [
+        "Dengizning ajralishi",
+        "Buyuk Kemani Qurish",
+        "Yonayotgan olov ostidagi sinov",
+        "Kitning qornidagi qamoqxona",
+        "Misrlik amaldor tomonidan qamoqqa olish"
+      ],
+      "answer": "Dengizning ajralishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Cho'ponning tayog'i",
+        "Buyuk yog'och kema",
+        "Vaqt uxlagan g'or",
+        "Ikki buloqli bog'",
+        "Oltin bilan bezatilgan taxt"
+      ],
+      "answer": "Cho'ponning tayog'i"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Mening xalqim dengizdan o'tib, xavfsiz joyga yetib keldi",
+        "Kofirlarni katta to'fon halok qildi",
+        "Zolimning olovi salqin va tinch bo'ldi",
+        "Dengiz o'z asirini qirg'oqqa tashladi",
+        "Asir Misr xazinachisi bo'ldi"
+      ],
+      "answer": "Mening xalqim dengizdan o'tib, xavfsiz joyga yetib keldi"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

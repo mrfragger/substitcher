@@ -1,0 +1,60 @@
+{
+  "title": "L-Irqad tal-Etajiet",
+  "intro": "Int se tibda vjaġġ fiż-żmien, fejn tiltaqa' ma' misteru profond ta' fidi u qawwa divina. Immaġina grupp ta' individwi li sfidaw in-normi tas-soċjetà tagħhom, billi żammew mal-monoteiżmu f'dinja ta' politeiżmu. L-istorja tagħhom hija xhieda tal-abbiltà ta' Alla li jipproteġi lill-qaddejja twajbin Tiegħu bl-aktar modi straordinarji. Tista' tifhem l-identità ta' dawn il-figuri notevoli?",
+  "clues": [
+    "Konna grupp żgħir ta’ rġiel żgħażagħ li nemmnu f’Alla wieħed, minkejja l-politeiżmu mifrux fost il-poplu tagħna.",
+    "Ħrabna minn ħakkiem tirann li heddedna minħabba l-fidi tagħna, bil-biża’ tal-persekuzzjoni u l-mewt.",
+    "Fittixna kenn f'post imwarrab, bit-tama tal-ħniena u l-protezzjoni ta' Alla mill-oppressuri tagħna.",
+    "Sidna ġagħalna naqgħu f’rqad fil-fond, rqad mirakoluż li sfida l-mogħdija taż-żmien.",
+    "Meta qomna, ħsibna li konna strieħna biss għal ġurnata jew parti minn ġurnata, mingħajr ma konna konxji tal-perjodu vast li kien verament għadda.",
+    "Il-Koran isemmi li bqajna fl-istat tagħna għal tliet mitt sena, u qbiżna b'disgħa, u b'hekk sirna sinjal għall-umanità."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "In-Nies tal-Foss",
+        "Il-Poplu ta’ Thamud",
+        "In-Nies tal-Għar",
+        "Il-Poplu ta' Madyan",
+        "Il-Kumpanji tal-Iljunfant"
+      ],
+      "answer": "In-Nies tal-Għar"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Niffaċċjaw għargħar kbir",
+        "Nibla’ mill-art",
+        "L-irqad twil u mirakoluż",
+        "Il-qerda tal-belt tagħhom",
+        "Il-qsim tal-baħar"
+      ],
+      "answer": "L-irqad twil u mirakoluż"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Siġra taqbad",
+        "Muntanja",
+        "Dgħajsa",
+        "Għar",
+        "Bir"
+      ],
+      "answer": "Għar"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ingħataw ġid u poter immens",
+        "Huma ġew trasformati f'xadini u ħnieżer",
+        "Huma qajmu mill-irqad bħala sinjal profond",
+        "Għerqu f’dilluvju kbir",
+        "Huma bnew saltna magnifika"
+      ],
+      "answer": "Huma qajmu mill-irqad bħala sinjal profond"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'ànima vigilant a la vora del riu",
+  "intro": "Una jove ànima va rebre la missió secreta d'observar des d'una distància segura com es desenvolupava el destí sobre les aigües. Invisible i insospitada, aquesta figura jugaria un paper fonamental en l'alteració del curs de la història d'una nació.",
+  "clues": [
+    "La meva mare em va encomanar una tasca, una que requeria sigil i vigilància.",
+    "Els meus ulls van seguir un petit bressol que es movia al corrent, amb el cor pesat de preocupació.",
+    "Quan el va trobar algú inesperat, m'hi vaig acostar, ple de trepidació.",
+    "Vaig veure la seva desesperació per un cuidador i vaig oferir una solució sense revelar la veritat.",
+    "La meva intervenció oportuna va fer tornar una ànima infermera a qui més la necessitava.",
+    "A les corts dels poderosos, vaig dir: «Us hauria de dirigir cap a una família que el nodrirà i el cuidarà amb cura?»"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La germana de Musa",
+        "La mare de Musa",
+        "L'esposa del faraó",
+        "Una llevadora",
+        "La filla de Shuaib"
+      ],
+      "answer": "La germana de Musa"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Llançar un nen al riu",
+        "La separació del mar",
+        "La crema del vedell",
+        "La construcció de l'arca",
+        "La plaga de llagostes"
+      ],
+      "answer": "Llançar un nen al riu"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El riu",
+        "El desert",
+        "La muntanya",
+        "El palau",
+        "El foc"
+      ],
+      "answer": "El riu"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Va reunir el nen amb la seva mare",
+        "Es va salvar dels soldats del faraó",
+        "Es va convertir en una reina",
+        "Va ser castigada per espionatge",
+        "Ella va dirigir els israelites"
+      ],
+      "answer": "Va reunir el nen amb la seva mare"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

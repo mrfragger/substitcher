@@ -1,0 +1,61 @@
+{
+  "title": "Prova e Flakës së Shenjtë",
+  "intro": "Në një tokë të lashtë ku përkushtimi ndaj gurit të gdhendur kishte zënë rrënjë në çdo shtëpi, një individ u dallua. Nëpërmjet bindjes së palëkundur dhe mbrojtjes hyjnore, ata u përballën me atë që duhej të kishte qenë vdekje e sigurt - dhe u larguan të padëmtuar. A mund ta zbuloni identitetin e këtij shpirti të jashtëzakonshëm?",
+  "clues": [
+    "U rrita mes njerëzve që përuleshin para idhujve që i kishin gdhendur me duart e tyre, duke besuar se këto objekte mbanin fuqi hyjnore.",
+    "Kur i sfidova bindjet e tyre, në fillim më shpërfillën, por unë nuk mund të heshtja për të vërtetën që dija.",
+    "Një ditë kur ata u mblodhën, Unë shkatërrova idhujt e tyre, duke lënë të paprekur vetëm më të madhin.",
+    "Kur u kthyen dhe panë çfarë kisha bërë, udhëheqësit e tyre urdhëruan të ndërtohej një turrë e madhe, me qëllim që të më hidhnin në flakë.",
+    "Ata më hodhën në zjarrin flakërues, por Zoti i botëve urdhëroi që ai të bëhej i freskët dhe i sigurt për mua.",
+    "Dola nga flakët krejtësisht i padëmtuar, ndërsa ata që komplotuan kundër meje përballeshin me shkatërrim të plotë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Ibrahim",
+        "Profeti Musa",
+        "Profeti Nuh",
+        "Profeti Isa",
+        "Profeti Jusuf"
+      ],
+      "answer": "Profeti Ibrahim"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Duke u hedhur në një zjarr të ndezur",
+        "Gëlltitja nga një balenë e madhe",
+        "Mbijetesa e një përmbytjeje të madhe",
+        "Duke u hedhur në një pus të thellë",
+        "Përballja me magjistarët e një mbreti"
+      ],
+      "answer": "Duke u hedhur në një zjarr të ndezur"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një turrë gjigante me dru të djegur",
+        "Një arkë e madhe prej druri",
+        "Një statujë viçi e artë",
+        "Një shportë lundruese në një lumë",
+        "Një fron madhështor"
+      ],
+      "answer": "Një turrë gjigante me dru të djegur"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Allahu e bëri zjarrin të ftohtë dhe të sigurt",
+        "Arka u ul shëndoshë e mirë në një mal",
+        "Idhulli i artë u shkri para syve të tyre",
+        "Një tiran dhe ushtria e tij u mbytën në det",
+        "Një të verbëri iu rikthye shikimi"
+      ],
+      "answer": "Allahu e bëri zjarrin të ftohtë dhe të sigurt"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

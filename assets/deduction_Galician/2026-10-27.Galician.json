@@ -1,0 +1,61 @@
+{
+  "title": "Un asedio baixo un ceo repentino",
+  "intro": "Estás de pé ante un exército formidable que se achega a un santuario venerado, con todas as armas preparadas e a vitoria aparentemente segura. Antes de que poida comezar o asalto, un poder inesperado aparece no ceo e a loita toma un xiro que ninguén previu.",
+  "clues": [
+    "Marchamos cunha confianza que ningún poder terreal podería abalar.",
+    "Trouxemos elefantes poderosos, e as nosas forzas parecían construídas arredor deles.",
+    "Viñeramos derrubar un santuario venerado, crendo que a nosa vitoria xa era segura.",
+    "Cando chegamos, unha bandada varreu o ceo sobre nós.",
+    "Os paxaros lanzaban pedras de arxila endurecida contra os nosos guerreiros.",
+    "Fomos derrotados tan completamente que a nosa poderosa forza esfarelouse e esparceuse coma cinza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A xente do elefante",
+        "Os dous príncipes",
+        "Irmáns de Xosé",
+        "O Servo de Alá en Dhul-Kifl",
+        "Os compañeiros do home xusto"
+      ],
+      "answer": "A xente do elefante"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "O asalto á Kaaba liderado por elefantes",
+        "O mar ábrese antes dun grupo entregado",
+        "A incautación da Arca por un pobo tiránico",
+        "A viaxe nocturna entre dúas mesquitas",
+        "A curación dun leproso polo poder divino"
+      ],
+      "answer": "O asalto á Kaaba liderado por elefantes"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Aves que levan boliñas de arxila",
+        "Unha arca de madeira de gofer",
+        "Un bastón convertido nunha serpe",
+        "Unha pedra selada cun sinal",
+        "Unha sarza ardente"
+      ],
+      "answer": "Aves que levan boliñas de arxila"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A súa poderosa forza esfarelouse coma cinza",
+        "Cruzaron o mar con seguridade",
+        "Camiñaron ilesos a través dun forno ardente",
+        "Entraron no Paraíso por parellas",
+        "Durmiron nunha cova durante 309 anos"
+      ],
+      "answer": "A súa poderosa forza esfarelouse coma cinza"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

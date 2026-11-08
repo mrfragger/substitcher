@@ -1,0 +1,61 @@
+{
+  "title": "Dat éischt Blutt aus Näid vergoss",
+  "intro": "Stellt Iech déi fréist Deeg vun der Mënschheet vir, wéi déi ganz Welt eng Famill war. Dir kuckt, wéi zwou Offeren virum Allah geluecht ginn - eng ugeholl, déi aner refuséiert. Näid setzt Wuerzelen an engem Häerz, an eng Drohung gëtt am Roserei geflüstert. Wat duerno kënnt, wäert fir ëmmer eng Spuer an der Geschicht hannerloossen, an och e klenge Vugel gëtt e Léierer.",
+  "clues": [
+    "Ech gehéieren zu der alleréischter Famill op der Äerd.",
+    "Ech hunn Allah eng Offer bruecht, mä meng gouf net ugeholl, während déi aner Offer ugeholl gouf.",
+    "Ech hunn aus Näid geschwat a gedreet, mir d'Liewen ze huelen.",
+    "Ech hunn den éischten ongerechte Mord op der Äerd begaangen.",
+    "Ech hunn eng Kräi gesinn, déi um Buedem gekraazt huet, fir mir ze weisen, wéi een e Läich verstoppt.",
+    "Ech war voller Bedauern a war ee vun de Verléierer fir dat, wat meng Hänn gemaach haten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Qabil (Kain), Jong vum Adam",
+        "Samiri, de Schëpfer vum Kallef",
+        "Den Namrud, den Tyrann, deen mam Ibrahim gestridden huet",
+        "Azar, de Schëpfer vun den Idolen",
+        "Kan'an, den erdronkene Jong vum Nuh"
+      ],
+      "answer": "Qabil (Kain), Jong vum Adam"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Mord un engem Geschwëster aus Näid nodeems en ofgeleent Offer ofgeleent gouf",
+        "En héijen Tuerm bauen fir an den Himmel ze kucken",
+        "E gëllene Kalb fir d'Veréierung maachen",
+        "En Dësch aus dem Himmel fuerderen",
+        "Eng Arméi vun Elefanten ugefouert fir de Kaaba ze zerstéieren"
+      ],
+      "answer": "Mord un engem Geschwëster aus Näid nodeems en ofgeleent Offer ofgeleent gouf"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng Kräi, déi d'Äerd kraazt, fir d'Begriefnes ze weisen",
+        "E gëllent Kalb, dat gekrasch huet",
+        "Eng grouss Ark iwwer d'Iwwerschwemmungswaasser",
+        "E Staff, deen zu enger Schlaang gouf",
+        "En Dësch gedeckt mat Iessen aus dem Himmel"
+      ],
+      "answer": "Eng Kräi, déi d'Äerd kraazt, fir d'Begriefnes ze weisen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Huet Reue kritt a war ënnert de Verléierer",
+        "Ass an der grousser Iwwerschwemmung erdronk",
+        "Gouf vun der Äerd mat Schatz verschléckt",
+        "War siwe Joer laang vun der Lepra geplot",
+        "krut e Kinnekräich mat Kontroll iwwer d'Wand"
+      ],
+      "answer": "Huet Reue kritt a war ënnert de Verléierer"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

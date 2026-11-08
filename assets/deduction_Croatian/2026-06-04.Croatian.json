@@ -1,0 +1,61 @@
+{
+  "title": "Znak među kamenjem",
+  "intro": "U zemlji gdje su planine bile uklesane u domove, stigao je glasnik s čudesnim znakom od Alaha. Ljudi su tražili dokaz i primili su stvorenje iz čvrste stijene. Ali njihova arogancija navela ih je da prkose upozorenju, zapečativši svoju sudbinu.",
+  "clues": [
+    "Bio sam poslan narodu koji je živio u nastambama isklesanim u planinama.",
+    "Izazvali su me da donesem znak, pa sam iz stijene izvukao devu.",
+    "Zapovjedio sam im da puste devu da slobodno pije i da joj ne naude.",
+    "Nisu poslušali i prerezali su devi nogu, prkoseći mom upozorenju.",
+    "Najavio sam da će kazna doći nakon tri dana.",
+    "Ujutro ih je uništila snažna eksplozija, ali ja i moji sljedbenici smo spašeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Salih",
+        "Poslanik Hud",
+        "Poslanik Lut",
+        "Poslanik Šu'ajb",
+        "Poslanik Ibrahim"
+      ],
+      "answer": "Poslanik Salih"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Zahtjev za devu sa stijene",
+        "Potražnja za zlatnim teletom",
+        "Potražnja za stolom raširena s neba",
+        "Zahtjev za poplavom",
+        "Zahtjev da se štap pretvori u zmiju"
+      ],
+      "answer": "Zahtjev za devu sa stijene"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Deva i njezino tele",
+        "Noina arka",
+        "Mojsijev štap",
+        "Zlatno tele",
+        "Ibrahimova vatra"
+      ],
+      "answer": "Deva i njezino tele"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Uništeno snažnom eksplozijom",
+        "Utopljen u poplavi",
+        "Progutala zemlja",
+        "Pretvoreni u majmune",
+        "Uništen jakim vjetrom"
+      ],
+      "answer": "Uništeno snažnom eksplozijom"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

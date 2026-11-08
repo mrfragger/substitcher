@@ -1,0 +1,61 @@
+{
+  "title": "Tra la Terra e il Cielo",
+  "intro": "Un'anima misteriosa ti attende tra le pagine sacre della storia divina, portando segni e prodigi che ancora riecheggiano nei secoli. Seguendo la scia di indizi, intraprenderai un viaggio attraverso una storia segnata dai miracoli, da un inizio prodigioso a un'ascesa al di là del cielo. Riuscirai a identificare questo servo benedetto prima dell'ultimo indizio?",
+  "clues": [
+    "Sono stato inviato come messaggero ai figli d'Israele con la novella della misericordia e della luce.",
+    "La mia nascita è stata un segno miracoloso: sono venuto al mondo senza padre, per volere dell'Onnipotente.",
+    "Ho parlato fin da quando ero neonata, difendendo l'onore di mia madre dalle accuse del suo popolo.",
+    "Con il permesso di Allah, ho plasmato degli uccelli dall'argilla e ho infuso loro la vita: sono volati via davanti agli occhi di coloro che li osservavano.",
+    "Ho guarito i ciechi dalla nascita, ho curato i lebbrosi e ho persino risuscitato i morti, eppure ogni miracolo è avvenuto per volere di Allah, non per merito mio.",
+    "Quando i miei nemici complottarono per distruggermi, Allah mi elevò ai cieli e promise il mio ritorno prima del Giorno del Giudizio."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Isa (Gesù)",
+        "Il profeta Musa (Mosè)",
+        "Il profeta Ibrahim (Abramo)",
+        "Profeta Maometto",
+        "Il profeta Yusuf (Giuseppe)"
+      ],
+      "answer": "Il profeta Isa (Gesù)"
+    },
+    "trial": {
+      "label": "Il momento decisivo",
+      "options": [
+        "Sono stato elevato al cielo",
+        "Sono stato gettato in un fuoco ardente",
+        "Ho affrontato il potente esercito del faraone",
+        "Sono stato inghiottito da una grande balena",
+        "Ho costruito un'arca sulla montagna"
+      ],
+      "answer": "Sono stato elevato al cielo"
+    },
+    "location": {
+      "label": "Segno sacro eseguito",
+      "options": [
+        "Ho modellato degli uccelli con l'argilla",
+        "Ho trasformato un bastone in un serpente",
+        "Ho diviso la luna in due",
+        "Ho comandato al vento e ai jinn",
+        "Ho fatto uscire una cammella da una roccia"
+      ],
+      "answer": "Ho modellato degli uccelli con l'argilla"
+    },
+    "outcome": {
+      "label": "Che fine ho fatto?",
+      "options": [
+        "Innalzato al cielo; promessa di ritorno",
+        "Divenne un grande sovrano di un impero",
+        "Ho condotto il mio popolo fuori dalla prigionia",
+        "Gli fu data una ricchezza terrena senza pari.",
+        "Mi sono ricongiunto alla mia famiglia dopo una lunga separazione."
+      ],
+      "answer": "Innalzato al cielo; promessa di ritorno"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

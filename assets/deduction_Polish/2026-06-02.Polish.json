@@ -1,0 +1,61 @@
+{
+  "title": "Strażnik Bramy Wschodzącego Słońca",
+  "intro": "W Koranie pewne dusze przemierzają ziemię, pozostawiając ślady mądrości i zachwytu. Jedna z takich postaci dotarła do najdalszych punktów stworzenia – tam, gdzie słońce wschodzi i zachodzi, gdzie bariera powstrzymuje sam chaos. Ten sługa Allaha otrzymał królestwo, którego nikt już nigdy nie posiądzie. Trzy różne podróże ujawniły cel jego życia. Czy potrafisz rozpoznać tego legendarnego wędrowca w cieniach historii?",
+  "clues": [
+    "Otrzymałem od Najmiłosierniejszego władzę, aby rządzić ziemią w sposób, jakiego nikt inny nigdy nie osiągnął.",
+    "Podróżowałem na zachód, aż dotarłem do miejsca, gdzie zachodziło słońce. Znajdowało się ono w mętnym źródle, i tam zobaczyłem ludzi.",
+    "Podróżowałem na wschód, aż dotarłem do miejsca, gdzie wschodzi słońce. Znalazłem je wschodzące nad ludem, dla którego nie zapewniliśmy przed nim ochrony.",
+    "Podróżowałem między tymi dwoma skrajnymi punktami, aż dotarłem do doliny między dwiema górami, gdzie spotkałem ludzi, którzy ledwo rozumieli mowę.",
+    "Znalazłem na górze dwie twarde, żelazne bariery, sięgające na prawo i lewo, a między nimi wąskie przejście. Ci ludzie poprosili mnie o przełamanie bariery powstrzymującej chaos.",
+    "Wziąłem swój zapas i powiedziałem: „Kiedy bariera zostanie przełamana, będzie to wyraźny rozdział między nami a tym ludem”. I gdy nadszedł wyznaczony czas, patrzyłem, jak bariera w końcu została przełamana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Prorok Sulayman",
+        "Prorok Ibrahim",
+        "Król Ghassaniyah",
+        "Dhul-Qarnain Wędrowiec"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Przełamanie żelaznej bariery dla mieszkańców Yajuj i Majuj",
+        "Budowa statku pod dowództwem proroka",
+        "Budowa świątyni w Jerozolimie",
+        "Przejście przez Morze Czerwone z wierzącymi ludźmi",
+        "Budowa tamy w celu ochrony prawego narodu"
+      ],
+      "answer": "Przełamanie żelaznej bariery dla mieszkańców Yajuj i Majuj"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Żelazna bariera między dwiema górami",
+        "Statek zakotwiczony na górze",
+        "Święty dom modlitwy w Jerozolimie",
+        "Rzeka w krainie Egiptu",
+        "Studnia błogosławieństw w Madian"
+      ],
+      "answer": "Żelazna bariera między dwiema górami"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Bariera została przełamana, gdy nadszedł wyznaczony czas, i zapanował chaos",
+        "Niewierni utonęli, a wierzący zostali uratowani",
+        "Sprawiedliwi zostali poprowadzeni do wiecznego raju",
+        "Miasto zostało zniszczone przez wyjący wiatr",
+        "Bożki zostały rozbite, a ludzie pokutowali"
+      ],
+      "answer": "Bariera została przełamana, gdy nadszedł wyznaczony czas, i zapanował chaos"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

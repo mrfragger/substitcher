@@ -1,0 +1,61 @@
+{
+  "title": "An Pobal a Sháraigh Lá na Scíthe",
+  "intro": "Téigh isteach i lonnaíocht chósta inar chuir ordú diaga lá amháin ar leataobh le haghaidh adhartha agus srianadh. Roghnaigh grúpa laistigh den phobal seo teorainneacha an ordaithe sin a thástáil le plean glic, rud a d’fhág go raibh claochlú ann a leanfadh ar aghaidh tríd na haoiseanna. Cé hiad na hanamacha seo, agus cad a tharla dóibh?",
+  "clues": [
+    "Bhí cónaí orainn in aice an chósta, áit a raibh an fharraige ag soláthar ár slí bheatha.",
+    "Tugadh ordú dúinn lá amháin den tseachtain a urramú, agus é a chur ar leataobh ó iarrachtaí an tsaoil.",
+    "An lá sin, tháinig na héisc chugainn i líon mór, amhail is dá mbeadh siad ag iarraidh orainn an t-ordú a bhriseadh.",
+    "Cheapamar plean chun na héisc a ghabháil tráthnóna an lae naofa, agus ansin iad a bhailiú tar éis dó a bheith thart.",
+    "Nuair a thug cuid againn rabhadh i gcoinne na meabhlaireachta seo, níor thugamar aird ar a gcomhairle agus leanamar orainn.",
+    "Mar gheall ar ár gcionta, rinneadh ápaí dínn, rinneadh drochmheas orainn agus diúltaíodh dúinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir na Sabóide",
+        "Muintir na Díge",
+        "Muintir na Coille",
+        "Muintir an Ghairdín",
+        "Muintir an Eilifint"
+      ],
+      "answer": "Muintir na Sabóide"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Iascaireacht ar an tSabóid",
+        "Ag tógáil túir ard",
+        "Ag marú camall baineann naofa",
+        "Ag séanadh fáidh a seoladh chucu",
+        "Sárú i meáchain trádála"
+      ],
+      "answer": "Iascaireacht ar an tSabóid"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An fharraige agus a cuid iasc",
+        "An tine a fuaraíodh",
+        "An fhoireann a d’éirigh ina nathair",
+        "Áirc an tslánaithe",
+        "Na táibléid chloiche"
+      ],
+      "answer": "An fharraige agus a cuid iasc"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Claochlaithe ina n-apaí",
+        "Slogtha ag an talamh",
+        "Scriosta ag gaoth ghéar",
+        "Báite sa bhfarraige",
+        "Buailte ag cith cloch"
+      ],
+      "answer": "Claochlaithe ina n-apaí"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

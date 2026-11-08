@@ -1,0 +1,61 @@
+{
+  "title": "Evdê Bilind ê Xwedê",
+  "intro": "Hûn fısıltokên kesayetiyek ji demên kevnar dibihîzin, xizmetkarekî Xwedê ku gihîştiye pileyeke bilindtir ji yên asayî. Ev kes bi sebira bêdawî û rastgoyiya mutleq dihat nasîn, û ji bo gelekî ku ji peyama Xwedê dûr ketibû hatibû şandin. Ev giyanê bilind kî ye?",
+  "clues": [
+    "Ez ji aliyê Xwedê ve wek pêxember hatim hilbijartin û di Qurana Pîroz de jî navê min hatiye nivîsandin.",
+    "Ez bi sebir û rastgoyiya xwe, taybetmendiyên ku Xwedê pesnê wan dide, dihatim naskirin.",
+    "Min gazî gelê xwe kir ku Xwedayê yekane bihebînin, lê gelek kesan ez red kirim.",
+    "Xwedê pileya min bilind kir û meqam û pileyeke bilind da min.",
+    "Ez gelek caran li kêleka pêxemberên din ên wekî Îsmaîl û Dhul-Kifl têm behs kirin.",
+    "Xwedê li ser min dibêje: 'Û Me ew gihand cihekî bilind.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Îdrîs",
+        "Pêxember Îlyas",
+        "Pêxember Zû el-Kifl",
+        "Pêxember El-Yasa",
+        "Pêxember Hûd"
+      ],
+      "answer": "Pêxember Îdrîs"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bang li mirovan kir ku ji Xwedê re îbadet bikin",
+        "Keştiyê ava kir",
+        "Li dijî Fîrewn şer kir",
+        "Bi nexweşiya giran hat ceribandin",
+        "Hatin avêtin nav agir"
+      ],
+      "answer": "Bang li mirovan kir ku ji Xwedê re îbadet bikin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Pileya bilind/stasyona bilind",
+        "Keştiya",
+        "Karmend",
+        "Agir",
+        "Bîra"
+      ],
+      "answer": "Pileya bilind/stasyona bilind"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bi statuya bilind hatiye bilindkirin",
+        "Di lehiyê de xeniqî",
+        "Ji aliyê balîneyekê ve hat daqurtandin",
+        "Ji agir xilas bûn",
+        "Bû padîşah."
+      ],
+      "answer": "Bi statuya bilind hatiye bilindkirin"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

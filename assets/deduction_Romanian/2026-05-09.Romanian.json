@@ -1,0 +1,61 @@
+{
+  "title": "Grădinile decolorate ale prosperității",
+  "intro": "Într-un ținut binecuvântat cu belșug, o comunitate a înflorit, trăind în mijlocul semnelor harului divin. Prosperitatea lor era o dovadă a favoării Domnului lor, un dar menit să inspire recunoștință și ascultare. Totuși, în ciuda indiciilor clare ale binecuvântărilor lor, a sosit un punct de cotitură, care le-a pus la încercare aprecierea pentru sursa imensei lor bogății și confort.",
+  "clues": [
+    "Am fost binecuvântați cu două grădini, una în dreapta și una în stânga, pline de produse agricole.",
+    "Ni s-a poruncit să mâncăm din provizia Domnului nostru și să-I fim recunoscători pentru o țară bună și un Domn iertător.",
+    "Am devenit aroganți și ne-am îndepărtat de calea recunoștinței, lăudându-ne cu bogăția și puterea noastră.",
+    "I-am cerut Domnului nostru să mărească distanța dintre călătoriile noastre, arătând dispreț pentru ușurința pe care ne-o oferise.",
+    "Am fost avertizați de un mesager, dar am respins mesajul și am continuat în nepăsarea noastră.",
+    "Marele nostru baraj, care ne-a susținut prosperitatea, s-a rupt în cele din urmă, ducând la o inundație devastatoare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii din Thamud",
+        "Oamenii din Madian",
+        "Oamenii din 'Aad",
+        "Oamenii din Lut",
+        "Oamenii din Saba"
+      ],
+      "answer": "Oamenii din Saba"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Foametea și seceta",
+        "Invazia unei armate puternice",
+        "Un cutremur devastator",
+        "O inundație distructivă cauzată de un baraj spart",
+        "Opresiune din partea unui conducător tiran"
+      ],
+      "answer": "O inundație distructivă cauzată de un baraj spart"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un vițel de aur",
+        "O cămilă miraculoasă",
+        "Un baraj mare",
+        "Un edificiu impunător",
+        "O fântână adâncă"
+      ],
+      "answer": "Un baraj mare"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Am fost transformați în maimuțe și porci",
+        "Am fost salvați și am migrat într-o țară nouă",
+        "Am fost împrăștiați și pământul nostru a devenit sterp",
+        "Ne-am înălțat la ceruri",
+        "Am construit un regat nou, mai prosper"
+      ],
+      "answer": "Am fost împrăștiați și pământul nostru a devenit sterp"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

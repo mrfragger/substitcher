@@ -1,0 +1,61 @@
+{
+  "title": "Moagi wa Dikgoreletsi",
+  "intro": "Go kgabaganya mafatshe a magolo, motho mongwe yo o maatla o ne a simolola motseletsele wa maeto, a newa taolo e kgolo le madi a mantsi. Moya ono o ne wa kopana le merafe e e farologaneng mme wa lebana le dikgwetlho tse di kgethegileng, wa tlogela letshwao le le nnelang ruri mo hisitoring le mo tumelong ka ditiro le botlhale jwa bone, tsotlhe fa ba ntse ba amogela motswedi wa boammaaruri wa maatla a bone.",
+  "clues": [
+    "Ke ne ka newa maatla le bokgoni mo go sengwe le sengwe, mme ke ne ka latela tsela nngwe.",
+    "Loeto lwa me lo ne lwa nkisa kwa letsatsi le phirimang teng, kwa ke neng ka fitlhela batho teng.",
+    "Ke ne ka kopana le morafe o o neng o sa kgone go tlhaloganya puo sentle, o o neng o nna fa gare ga dithaba tse pedi.",
+    "Ke ne ka kopiwa gore ke age leparego, e seng gore ke solegelwe molemo, mme e le go itshireletsa kgatlhanong le maatla a a senyang.",
+    "Ke ne ka bolela gore maatla a go aga lebota le legolo leno a tswa kwa go Allah, mme le tla ema go fitlha ka nako e e solofeditsweng.",
+    "Leina la me, le gantsi le ranotsweng e le ‘Yo o Dinaka Tse Pedi,’ le bontsha go fitlhelela ga me go kgabaganya lefatshe kgotsa gongwe metlha e mebedi e e farologaneng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Musa",
+        "Moporofeti Sulayman",
+        "Dul-Qarnayn",
+        "Faro",
+        "Luqman"
+      ],
+      "answer": "Dul-Qarnayn"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go amogela tshenolo",
+        "Go lebana le mogateledi",
+        "Go aga sekepe se segolo",
+        "Go aga sekgoreletsi se segolo",
+        "Go mediwa ke tlhapi"
+      ],
+      "answer": "Go aga sekgoreletsi se segolo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Badiri",
+        "Leparego la Tshipi",
+        "Noka ya Nile",
+        "Terone"
+      ],
+      "answer": "Leparego la Tshipi"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Pholoso mo morwaleleng",
+        "Go nna bogosi jo bogolo",
+        "Tshireletso ya batho",
+        "Go senngwa ga mogateledi",
+        "Botlhale jo bo itshokang"
+      ],
+      "answer": "Tshireletso ya batho"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

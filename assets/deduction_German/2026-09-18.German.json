@@ -1,0 +1,61 @@
+{
+  "title": "Der Ruf aus dem Heiligen Tal",
+  "intro": "Jenseits der Geschichtsbücher verbirgt sich die Geschichte einer Seele, die sich zwischen einen mächtigen Herrscher und ein ganzes versklavtes Volk stellte. Dieser Mensch wurde berufen, eine Nation von der Tyrannei zu befreien und vollbrachte Wunder, die jedem Naturgesetz widersprachen. Von einem heiligen Berg bis zu einem Wunder auf dem Wasser – dieser Diener Allahs erlebte Zeichen, die durch die Jahrhunderte hallen sollten. Ihre heutige Aufgabe ist es, diese bemerkenswerte Persönlichkeit zu identifizieren, deren Vermächtnis den Lauf der Menschheitsgeschichte prägte.",
+  "clues": [
+    "Ich wurde in einer Zeit geboren, als mein Volk einem tödlichen Erlass gegenüberstand, und meine Familie legte mich ins Wasser, um mein Leben zu retten.",
+    "Ich wurde im Haushalt des Herrschers gefunden und aufgezogen, der den Tod meiner Artgenossen befohlen hatte.",
+    "Ich floh zu einem heiligen Berg, wo ich ein Feuer an einem Baum sah, der nicht verzehrt wurde, und aus dem Feuer sprach eine Stimme zu mir.",
+    "Ich wurde mit Wundern zu ebendiesem Herrscher zurückgeschickt und forderte die Freiheit meines versklavten Volkes.",
+    "Ich schlug mit meinem Stab auf das Meer, und es teilte sich in trockene Pfade und verschluckte die Verfolger, die meinem Volk gefolgt waren.",
+    "Ich unterhielt mich vierzig Nächte lang auf einem Berg mit meinem Herrn und empfing Tafeln göttlicher Weisung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Harun",
+        "Prophet Ibrahim",
+        "Prophet Yusuf",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Musa"
+    },
+    "trial": {
+      "label": "Mein entscheidender Prozess",
+      "options": [
+        "Die Teilung des Meeres",
+        "Der Bau der Großen Arche",
+        "Prüfung durch ein loderndes Feuer",
+        "Gefangenschaft im Bauch eines Wals",
+        "Inhaftierung durch einen ägyptischen Beamten"
+      ],
+      "answer": "Die Teilung des Meeres"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Hirtenstab",
+        "Eine große hölzerne Arche",
+        "Eine Höhle, in der die Zeit schlief",
+        "Ein Garten mit zwei Quellen",
+        "Ein mit Gold geschmückter Thron"
+      ],
+      "answer": "Der Hirtenstab"
+    },
+    "outcome": {
+      "label": "Das Ergebnis",
+      "options": [
+        "Mein Volk überquerte das Meer in Sicherheit",
+        "Eine große Flut vernichtete die Ungläubigen.",
+        "Das Feuer eines Tyrannen erlosch und wurde friedlich.",
+        "Das Meer warf seinen Gefangenen ans Ufer",
+        "Der Gefangene wurde Schatzmeister von Ägypten"
+      ],
+      "answer": "Mein Volk überquerte das Meer in Sicherheit"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hawaasa Dabarsa Jalqabaa",
+  "intro": "Biyya magaalota durii keessatti yeroo tokko ummanni tokko dagaagaa ture. Ergamaan waamicha ifa ta’een isaan daawwate, ta’us garuu garagalanii daandii namni irra deemee hin beekne hordofan. Oduu durii isaanii kan mormuu, kan jal’inaafi adabbii biyya isaanii dhiisee akka mallattoo warra yaadan hundaaf ta’eedha. Lubbuuwwan kun eenyu?",
+  "clues": [
+    "Magaalota dirree, bakka raajiin keenya gara qajeelummaatti nu waame keessa jiraanna turre.",
+    "Wantoota safuu hin qabne kan kanaan dura addunyaa hunda keessatti namni tokkollee hin hojjenne kan raawwanne nuti.",
+    "Imaltoota wayyaanee walga’ii keenya keessatti ifatti badii hojjenna turre.",
+    "Ergamaa nutti ergame gannee lafa keenya keessaa ari'a jennee doorsifne.",
+    "Keessummoota isaa akka nuuf kennu gaafachaa gara mana isaatti ariifanne.",
+    "Adabbiin keenya rooba dhagaa, magaalaan keenyas garagalte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Ummata Luut",
+        "Ummata Nuh",
+        "Namoonni 'Ad",
+        "Ummata Thamud",
+        "Ummata Madyan"
+      ],
+      "answer": "Ummata Luut"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Gocha jalqabaa saalqunnamtii raawwate",
+        "Waaqolii tolfamoo waaqeffaman",
+        "Daldala keessatti gowwoomfame",
+        "Nabiyyii isaanii ajjeese",
+        "Warra isaaniif hin ajajamne"
+      ],
+      "answer": "Gocha jalqabaa saalqunnamtii raawwate"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Magaalaa dirree",
+        "Magaalaa boollaa",
+        "Magaalaa boollaa",
+        "Magaalaa saree",
+        "Magaalaa biqiltuu"
+      ],
+      "answer": "Magaalaa dirree"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Dhagaa roobsee garagale",
+        "Lolaan liqimfame",
+        "Qilleensi cimaan barbadaa'e",
+        "Lafaan liqimfame",
+        "Dhohinsa guddaa tokkoon rukutame"
+      ],
+      "answer": "Dhagaa roobsee garagale"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

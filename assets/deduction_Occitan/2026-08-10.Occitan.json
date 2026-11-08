@@ -1,0 +1,61 @@
+{
+  "title": "Los Gardians de la Sega Secrèta",
+  "intro": "Dins una tèrra verdosa, un grop d'individús faguèron un plan secret jos la cobèrta de l'escur. Partejavan un objectiu comun, mas lor intencion èra luènh d'èsser justa. Sabián pas qu'un viratge divin los esperava del temps que dormián.",
+  "clues": [
+    "Prenguèrem una decision ferma, en pensant que nòstre plan èra impecable.",
+    "Aviam l'intencion de sortir lèu, abans que los autres poguèsson quitament bolegar.",
+    "Nos metèrem sus un complòt fertil, segurs de nòstras provisions.",
+    "Coma arribèrem a nòstra destinacion, la trobèrem èrma e desolada, alara cresiam qu'aviam perdut lo camin.",
+    "Puèi nos avisèrem qu'èra en efièch nòstre luòc, e cridèrem de desespèr, en nos culpant l'un l'autre per nòstra pèrda.",
+    "Aviam jurat aquel matin d'exclure los paures de nòstra culhida, mas lo castig d'Allah nos arribèt del temps que dormissiam, en transformant nòstre òrt en roïna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Los proprietaris de l'òrt dins la Soura 68",
+        "La gent de Saba",
+        "Los Companhs de la Cava",
+        "Lo Pòble de l'Elefant",
+        "Lo Gòble de la Trinchèra"
+      ],
+      "answer": "Los proprietaris de l'òrt dins la Soura 68"
+    },
+    "trial": {
+      "label": "Nòstre jutjament",
+      "options": [
+        "Nòstre jardin foguèt destruit per una calamitat del cèl",
+        "Nòstre jardin foguèt escombrat per una inondacion",
+        "Nòstre jardin foguèt cremat per un fuòc d'un enemic",
+        "Nòstre òrt èra emplenat de langostas",
+        "Nòstre jardin foguèt engolit per un tèrratrem"
+      ],
+      "answer": "Nòstre jardin foguèt destruit per una calamitat del cèl"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Jurèrem d'arrancar sos fruchs lo matin",
+        "Bastiguèrem un barratge per irrigar nòstre jardin",
+        "Cerquèrem refugi dins una cauna per proteccion",
+        "Preparèrem una armada per conquistar un reialme",
+        "Naveguèrem un vaissèl per traversar la mar"
+      ],
+      "answer": "Jurèrem d'arrancar sos fruchs lo matin"
+    },
+    "outcome": {
+      "label": "Nòstre Destin",
+      "options": [
+        "Nos pentiguèrem e esperèrem la misericòrdia d'Allah",
+        "Foguèrem completament destruits e nos repentiguèrem pas jamai",
+        "Fugiguèrem la tèrra e tornèrem pas jamai",
+        "Tornèrem venir poderoses e rics",
+        "Foguèrem castigats en nos transformant en monins"
+      ],
+      "answer": "Nos pentiguèrem e esperèrem la misericòrdia d'Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

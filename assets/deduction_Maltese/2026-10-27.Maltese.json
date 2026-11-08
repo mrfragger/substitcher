@@ -1,0 +1,61 @@
+{
+  "title": "Assedju Taħt Sema F'daqqa",
+  "intro": "Inti wieqaf quddiem armata formidabbli li qed toqrob lejn santwarju venerat, b'kull arma lesta u r-rebħa tidher ċerta. Qabel ma jista' jibda l-assalt, tidher qawwa mhux mistennija minn fuqek, u l-konfront jieħu żvolta li ħadd ma bassar.",
+  "clues": [
+    "Immarċjajna b'kunfidenza li l-ebda qawwa tad-dinja ma setgħet tħawwad.",
+    "Ġibna iljunfanti qawwija, u l-forza tagħna dehret li kienet mibnija madwarhom.",
+    "Konna ġejna biex inwaqqgħu santwarju meqjum, għax nemmnu li r-rebħa tagħna kienet diġà ċerta.",
+    "Meta wasalna hemm, merħla nfirxet fis-sema 'l fuq minna.",
+    "L-għasafar waddbu ġebel tat-tafal imwebbes lejn il-gwerriera tagħna.",
+    "Ġejna megħluba tant għalkollox li l-forza setgħana tagħna tfarrket u xterdet bħall-irmied."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "In-Nies tal-Iljunfant",
+        "Iż-Żewġ Prinċpijiet",
+        "Ħut Ġużeppi",
+        "Il-Qaddej ta’ Alla f’Dhul-Kifl",
+        "Il-Kumpanji tar-Raġel Ġust"
+      ],
+      "answer": "In-Nies tal-Iljunfant"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "L-attakk immexxi mill-iljunfanti fuq il-Kaaba",
+        "Il-baħar jinfired qabel grupp ikkonsenjat",
+        "Il-qbid tal-Arka minn poplu tirann",
+        "Il-vjaġġ bil-lejl bejn żewġ moskej",
+        "Il-fejqan ta’ lebbruż bil-qawwa divina"
+      ],
+      "answer": "L-attakk immexxi mill-iljunfanti fuq il-Kaaba"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Għasafar li jġorru pritkuni tat-tafal",
+        "Arka tal-injam tal-gopher",
+        "Bastun mibdul f’serp",
+        "Ġebla ssiġillata b'sinjal",
+        "Siġra taqbad"
+      ],
+      "answer": "Għasafar li jġorru pritkuni tat-tafal"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-forza setgħana tagħhom tfarrak bħall-irmied",
+        "Huma qasmu l-baħar mingħajr periklu",
+        "Huma mxew bla ħsara minn ġo forn jaqbad",
+        "Daħlu fil-Ġenna f’pari",
+        "Huma raqdu f'għar għal 309 snin"
+      ],
+      "answer": "Il-forza setgħana tagħhom tfarrak bħall-irmied"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

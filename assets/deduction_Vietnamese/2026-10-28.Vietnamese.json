@@ -1,0 +1,61 @@
+{
+  "title": "Lời hứa được thốt ra trên tàn lửa",
+  "intro": "Bạn đứng bên cạnh ngọn lửa sa mạc khi những tàn lửa được cẩn thận dàn đều. Khách đến để tìm kiếm sự giao thoa trong tĩnh lặng, và một thông điệp duy nhất mở ra một câu chuyện về lời hứa, sự bất ngờ và một tương lai chưa được hoàn thành.",
+  "clues": [
+    "Chúng tôi đã vượt qua quãng đường dài để đến gặp một người tôi tớ trung thành giữa sa mạc.",
+    "Chúng tôi yêu cầu rải than hồng để chuẩn bị nhóm lửa.",
+    "Chúng tôi đã nói chuyện với một người từng cầu xin sự mát mẻ và an toàn từ ngọn lửa.",
+    "Chúng tôi mang tin vui về sự ra đời của một đứa trẻ đến cho một người đã qua tuổi sinh con.",
+    "Chúng tôi đặt tên cho đứa con được hứa hẹn là Isaac.",
+    "Chúng tôi mang đến cho Ibrahim niềm vui mừng về việc ông sắp có con trai, và tin tức đáng kinh ngạc đó khiến Ibrahim bật cười."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Các thiên thần mang tin vui về I-sác cho I-bra-ra-ôn.",
+        "Những Thiên Thần Cảnh Báo Lut",
+        "Các Thiên Thần Mang Ngai Vàng",
+        "Những Thiên Thần Địa Ngục",
+        "Các Thiên Thần Được Sai Đến với Nô-ê"
+      ],
+      "answer": "Các thiên thần mang tin vui về I-sác cho I-bra-ra-ôn."
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Mang tin vui về sự ra đời của Isaac đến cho Ibrahim.",
+        "Cảnh báo Lut trước khi dân tộc ông bị trừng phạt.",
+        "Thông báo về sự ra đời của Yahya cho Zakariyya.",
+        "Mang ngai vàng vào Ngày Phán xét",
+        "Thông báo về sự ra đời của Isa cho Maryam."
+      ],
+      "answer": "Mang tin vui về sự ra đời của Isaac đến cho Ibrahim."
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Ngọn lửa được tạo ra từ những tàn lửa rải rác.",
+        "Một con thuyền Noah trôi nổi trên dòng nước lũ.",
+        "Một hang động bị bịt kín bởi một tảng đá lăn.",
+        "Một ngọn núi đất sét cứng lại do nước muối.",
+        "Một chiếc thang vươn lên bầu trời"
+      ],
+      "answer": "Ngọn lửa được tạo ra từ những tàn lửa rải rác."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Tin vui về một cậu con trai tên là Isaac.",
+        "Tin vui về việc có một cậu con trai tên là Yahya.",
+        "Việc chọn Talut làm người cai trị con cái Israel",
+        "Lời cảnh báo trước khi trừng phạt dân của Lut.",
+        "Mệnh lệnh đóng một con tàu trước trận Đại hồng thủy"
+      ],
+      "answer": "Tin vui về một cậu con trai tên là Isaac."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

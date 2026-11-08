@@ -1,0 +1,61 @@
+{
+  "title": "Znamenje med kamni",
+  "intro": "V deželi, kjer so bile gore vklesane v domove, je prispel sel s čudežnim znamenjem od Alaha. Ljudje so zahtevali dokaz in prejeli so bitje iz trdne skale. Toda njihova aroganca jih je pripeljala do tega, da so kljubovali opozorilu in si s tem zapečatili usodo.",
+  "clues": [
+    "Poslali so me k ljudstvu, ki je živelo v bivališčih, izklesanih v gorah.",
+    "Izzvali so me, naj prinesem znamenje, zato sem iz skale izvlekel kamelo.",
+    "Ukazal sem jim, naj kamelo pustijo piti in ji ne storijo nič hudega.",
+    "Niso ubogali in so kameli prerezali žile, kljubovali mojemu opozorilu.",
+    "Napovedal sem, da bo kazen sledila čez tri dni.",
+    "Zjutraj jih je uničil močan sunek, jaz in moji spremljevalci pa smo bili rešeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Salih",
+        "Prerok Hud",
+        "Prerok Lut",
+        "Prerok Šuajb",
+        "Prerok Ibrahim"
+      ],
+      "answer": "Prerok Salih"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Povpraševanje po kameli s skale",
+        "Zahteva po zlatem teletu",
+        "Povpraševanje po mizi se je razširilo z neba",
+        "Zahteva po poplavi",
+        "Zahteva, da se palica spremeni v kačo"
+      ],
+      "answer": "Povpraševanje po kameli s skale"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kamela in njen teliček",
+        "Noetova barka",
+        "Mojzesova palica",
+        "Zlato tele",
+        "Ibrahimov ogenj"
+      ],
+      "answer": "Kamela in njen teliček"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Uničeno zaradi močne eksplozije",
+        "Utopljen v poplavi",
+        "Požrla ga je zemlja",
+        "Spremenjeni v opice",
+        "Uničen zaradi močnega vetra"
+      ],
+      "answer": "Uničeno zaradi močne eksplozije"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

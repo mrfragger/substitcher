@@ -1,0 +1,61 @@
+{
+  "title": "Viltus ambīciju arhitekts",
+  "intro": "Senajā Ēģiptē vienam no vēstures bēdīgi slavenākajiem tirāniem savulaik kalpoja liela autoritāte. Šai personai tika uzticēts pārdrošs uzdevums — uzcelt celtni, kas stātos pretī debesīm. Viņu stāsts Korānā ir spilgta mācība par to, kā akla paklausība augstprātībai noved tikai pie sagrāves.",
+  "clues": [
+    "Es kalpoju varena valdnieka galmā, kurš apgalvoja, ka viņam pieder dievība pār zemēm.",
+    "Es ieņēmu augstu ministra amatu, konsultējot sava laika augstprātīgāko tirānu.",
+    "Mans valdnieks bija pilnībā aizņemts ar Mozus Dieva izaicināšanu, kuru viņi atteicās atzīt.",
+    "Man pavēlēja uzcelt torni no ugunī ceptiem ķieģeļiem, lai mans valdnieks varētu pacelties debesīs.",
+    "Tornis nekad nesasniedza debesis, un mana pakļaušanās augstprātībai man sagādāja mūžīgu negodu.",
+    "Es gāju bojā kopā ar to, kuram sekoju, un mans vārds kļuva par paliekošu brīdinājumu pret tiem, kas dod iespēju tirāniem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Hamans",
+        "Azārs (Ibrahima tēvs)",
+        "Iļjass (pravietis)",
+        "Dhu al-Kifl",
+        "Haruts (viens no diviem eņģeļiem Babilonā)"
+      ],
+      "answer": "Hamans"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pavēlēts uzcelt augstu celtni, lai sasniegtu debesis",
+        "Lūgts interpretēt dievišķu sūtītu sapni",
+        "Iemests liesmojošā ugunī kā ticības pārbaudījums",
+        "Spiests izvēlēties starp troni un patiesību",
+        "Izaicinājums burvestību konkursā"
+      ],
+      "answer": "Pavēlēts uzcelt augstu celtni, lai sasniegtu debesis"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Uguns ceptu ķieģeļu tornis",
+        "Personāla, kas pārvērtās par čūsku",
+        "Kuģis, kas kuģo cauri lieliem plūdiem",
+        "Dārzs, ko ieskauj augstas sienas",
+        "Tronis, kas rotāts ar rubīniem un zeltu"
+      ],
+      "answer": "Uguns ceptu ķieģeļu tornis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Noslīka jūrā kopā ar apspiedēju",
+        "Kļuva par spēcīgu plašu zemju monarhu",
+        "Izglābās no liesmojošas ugunsgrēka neskarts",
+        "Uzcēla plaukstošu gudrības valstību",
+        "Pēc gadiem ilgas trimdas atkalapvienojās ar ģimeni"
+      ],
+      "answer": "Noslīka jūrā kopā ar apspiedēju"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "D'Flam, déi e Vermächtnis hannerlooss huet",
+  "intro": "An den Annalen vum Widderstand steet eng Figur, där hiren Numm zu enger Warnung bis zum Enn vun der Zäit gouf. Dës Persoun huet Feindschaft iwwer Verwandtschaft gewielt, Widdersproch iwwer Ënnerwerfung, a stoung am Géigenzuch zu engem Ruff vun der Barmhäerzegkeet. Lauschtert gutt op d'Echoe vun enger aler Proklamatioun, wéi mir d'Identitéit vun dëser berüchtegter Séil entdecken.",
+  "clues": [
+    "Ech sinn an deeselwechte Clan gebuer wéi den leschte Messenger vun Allah, awer ech hunn mech op all Eck géint si gewiert.",
+    "Mäin Numm hat Bedeitung – en Numm, deen 'Papp vun der Flam' bedeit, en Numm, deen mäin éiwegt Schicksal virausschätze géif.",
+    "Ech hunn dem Träger vun der Wourecht Schued ugedoen, a souguer mäin eegent Stot huet sech dëser Kampagne vun der Grausamkeet ugeschloss.",
+    "Ech hunn mäi Räichtum an Afloss benotzt fir de Ruff un Allah ze stëllen, well ech gegleeft hunn, datt Suen dat göttlecht Liicht kéint läschen.",
+    "Allah huet mir e ganzt Kapitel gewidmet – e Kapitel, dat sou kuerz ass, datt et a Sekonne rezitéiert ka ginn, awer säi Gewiicht bleift bis zum Uerteelsdag.",
+    "Mäi Begleeder am Hiernof geet hannert mir, gebonnen un engem Seel aus Faseren ëm den Hals, an dréit genau déi Dären, déi se fréier verbreet hunn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Konfrontatioun definéieren",
+      "options": [
+        "D'Oppositioun géint de Prophet zu Mekka féieren",
+        "Migratioun an Abessinien fir der Verfolgung ze entkommen",
+        "De Bau vum Kaaba mam Prophet Ibrahim",
+        "Den Islam um Doudesbett akzeptéieren",
+        "D'Schmiede vum Traité vun Hudaybiyyah"
+      ],
+      "answer": "D'Oppositioun géint de Prophet zu Mekka féieren"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng Fra, déi Dären a Brennholz gedroen huet",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "E Rank mat dem Siegel vum Salomon",
+        "E gëllene Kalb, dat vum Vollek veréiert gëtt",
+        "Eng Quell, déi Waasser erausgestraalt huet"
+      ],
+      "answer": "Eng Fra, déi Dären a Brennholz gedroen huet"
+    },
+    "outcome": {
+      "label": "Schlussrechnung",
+      "options": [
+        "Eng ganz Sura, déi den totalen Ruin erkläert, gëtt opgedeckt",
+        "Hie gouf de Leader vun der muslimescher Gemeinschaft",
+        "Verzeiung am Moment vum Doud kritt",
+        "Eng grouss Moschee zu Medina gebaut",
+        "Ass ënner de Gerechten erëmbelieft ginn"
+      ],
+      "answer": "Eng ganz Sura, déi den totalen Ruin erkläert, gëtt opgedeckt"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

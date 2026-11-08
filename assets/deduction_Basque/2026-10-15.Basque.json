@@ -1,0 +1,61 @@
+{
+  "title": "Merkatarien arteko justizia",
+  "intro": "Irabaziaren lilurak irensten zuen herri baten aurrean figura bat zegoen, zintzotasun eta zuzentasunera deituz beren harremanetan. Alaren zerbitzari honek neurri laburrak ez ematearen eta balantza manipulatzearen aurka ohartarazi zuen. Jendeak ez zion entzun nahi izan, pertsona hau bere lurraldetik kanporatzeko mehatxua eginez. Lurra bera epaituko zen haien aurka. Nor da merkatarien artean justiziaren alde agertu zen figura hau?",
+  "clues": [
+    "Merkataritza eta merkataritzan murgilduta zegoen herri batengana bidali ninduten mezulari gisa.",
+    "Nire herriak neurri laburra erabili zuen besteen ondasunak pisatzerakoan.",
+    "Federa dei egiten jarraitzen banuen, lurraldetik kanporatuko nindutela mehatxatu zuten.",
+    "Profeten artean hizlari elokuenteena bezala gogoratzen naute.",
+    "Nire herria lurrikara bortitz batek hartu zuen, eta etxeetan bizirik gabe utzi zituen.",
+    "Iparraldeko Hijaz-eko Madyan herriarengana bidali ninduten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Shu'ayb profeta",
+        "Ishaq profeta",
+        "Ismael profeta",
+        "Zakariya profeta",
+        "Yahya profeta"
+      ],
+      "answer": "Shu'ayb profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Lurraldetik kanporatzeko mehatxua egin diote",
+        "Nire herriak su bizian botata",
+        "Faraoi boteretsu baten magoei aurre egin zien",
+        "Harkaitzetik gamelu eme bat ekoizteko eskaerari aurre egin zion",
+        "Aingeru-talde batek nire hiria suntsitu zuela ikusi nuen"
+      ],
+      "answer": "Lurraldetik kanporatzeko mehatxua egin diote"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Madyanen lurraldea.",
+        "Egiptoko lurraldea.",
+        "Sinai mendia",
+        "Sodoma hiria.",
+        "Kanaango lurraldea."
+      ],
+      "answer": "Madyanen lurraldea."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Nire herria lurrikara bortitz batek harrapatu zuen",
+        "Nire herria uholde handi batean ito zen",
+        "Nire jendea tximino bihurtu zen",
+        "Nire herria haize oihuka sakabanatu zen",
+        "Arrain handi baten sabelean salbatu ninduten"
+      ],
+      "answer": "Nire herria lurrikara bortitz batek harrapatu zuen"
+    }
+  },
+  "verseRef": "11:87",
+  "arabic": "قَالُوا۟ يَـٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَـٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+  "verse": "They said, \"O Shuʿayb, does your prayer [i.e., religion] command you that we should leave what our fathers worship or not do with our wealth what we please? Indeed, you are the forbearing, the discerning!\" (11:87)"
+}

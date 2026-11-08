@@ -1,0 +1,61 @@
+{
+  "title": "Nelokāmais patiesības aicinājējs",
+  "intro": "Vēstnesis stāv viens spītīgu ļaužu vidū, aicinot viņus pie Vienīgā Patiesā Dieva, kamēr viņi paliek pieķērušies viltus elkiem. Šī pravieša vārds atbalsojas ar spēcīgu nozīmi — \"tas, kurš meklē aizsardzību\" —, tomēr saņem tikai noraidījumu un noliegumu. Ar maigu pārliecināšanu un stingru brīdinājumu šī dvēsele nes dievišķu vēstījumu, ko pats Visums galu galā attaisnos. Vai varat atpazīt šo nelokāmo figūru, kas pārstāv vienu no senākajiem naratīviem islāma rakstos?",
+  "clues": [
+    "Mani ļaudis pielūdza daudzas dievības, kamēr es viņus aicināju kalpot Tam, kas radīja debesis un zemi.",
+    "Es stāvēju savas tautas priekšā un paziņoju, ka nelūgšu no viņiem nekādu atlīdzību — mana vienīgā vēlēšanās bija viņu vadība uz taisnīgumu.",
+    "Kā dievišķs sods pār manu tautu tika sūtīts liels vējš, par kuru Korāns runā gan daudzskaitļa, gan sieviešu dzimtes formā.",
+    "Atšķirībā no dažiem praviešiem, man netika dota sieva vai bērni, kas būtu īpaši pieminēti manā stāstījumā, jo mana misija bija aicināt tikai savus ļaudis.",
+    "Manam vārdam ir dziļa nozīme — tas ir saistīts ar aizsardzības un patvēruma jēdzienu, ko cilvēks meklē.",
+    "Mani ļaudis bija pazīstami ar konkrētu ģeogrāfisku apzīmējumu ielejai, kurā viņi dzīvoja, un viņu zeme tika raksturota ar īpašu nicinājumu veģetācijas trūkuma dēļ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Huds",
+        "Pravietis Salihs",
+        "Pravietis Šuaibs",
+        "Pravietis Nuhs",
+        "Pravietis Hudaibs"
+      ],
+      "answer": "Pravietis Huds"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Zemes plūdi",
+        "Dedzinošais vējš",
+        "Iznīcinošā zemestrīce",
+        "Sausums un bads",
+        "Slīkšana jūrā"
+      ],
+      "answer": "Dedzinošais vējš"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Jemenas auglīgā ieleja",
+        "Midiānas smilšainais tuksnesis",
+        "Tamudas akmeņainā ieleja",
+        "Senā Ad tautas zeme",
+        "Ēģiptes piekrastes reģions"
+      ],
+      "answer": "Senā Ad tautas zeme"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mani ļaudis nožēloja grēkus un iegāja paradīzē",
+        "Neviens no maniem cilvēkiem neizdzīvoja sodu",
+        "Mani aizveda dzīvu, tāpat kā manu brāli Junusu",
+        "Es kopā ar saviem sekotājiem pārcēlos uz svētītu zemi",
+        "Vējš iznīcināja tikai neticīgos, kamēr ticīgie izdzīvoja"
+      ],
+      "answer": "Neviens no maniem cilvēkiem neizdzīvoja sodu"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

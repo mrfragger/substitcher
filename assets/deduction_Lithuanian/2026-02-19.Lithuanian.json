@@ -1,0 +1,61 @@
+{
+  "title": "Didžiųjų ambicijų kvailystė",
+  "intro": "Leiskitės į kelionę, kurios metu atskleisite kolektyvinio darinio, kurio drąsūs planai sulaukė netikėtos ir galingos pabaigos, tapatybę. Šis pasakojimas yra gilus priminimas apie dieviškąją galią ir pasaulietinės valdžios trapumą, kai ji priešinasi šventumui. Atskleiskite šios grupės, kurios istorija įrašyta Korane kaip įspėjimas visiems, kurie siekia nusižengti, paslaptį.",
+  "clues": [
+    "Puoselėjome dideles ambicijas, tikėdami, kad mūsų galia neprilygstama, ir leidomės į kelionę su aiškiu, destruktyviu tikslu.",
+    "Mūsų vadovas, kupinas arogancijos, siekė suteršti daugelio gerbiamus šventus Namus, nukreipdamas piligrimystę į mūsų pastatytą statinį.",
+    "Iš tolimo krašto žygiavome su didžiule jėga, pasitikėdami savo gebėjimu nugriauti senovinį pastatą Šventajame Mieste.",
+    "Mūsų armija buvo grėsminga, jai vadovavo nuostabios būtybės – vaizdas, kurį retai, o gal ir niekada, matydavo mūsų įsiveržusios šalies gyventojai tokioje kampanijoje.",
+    "Kai pasiekėme kelionės tikslą, įvyko dieviškas įsikišimas; pasirodė maži sparnuoti padarai, apmėtantys mus degto molio akmenimis.",
+    "Visa mūsų ekspedicija sulaukė niokojančios pabaigos, mūsų galinga jėga buvo visiškai sunaikinta kaip sukramtytas šiaudas, o mūsų didysis planas virto dulkėmis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Tamudo žmonės",
+        "„Ad“ žmonės",
+        "Sodomos žmonės",
+        "Dramblio žmonės",
+        "Sodo žmonės"
+      ],
+      "answer": "Dramblio žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Didysis potvynis",
+        "Kampanija prieš Kaabą",
+        "Stabų sunaikinimas",
+        "Jūros padalijimas",
+        "Midjano žemės drebėjimas"
+      ],
+      "answer": "Kampanija prieš Kaabą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Kaaba",
+        "Auksinis veršelis",
+        "Ugnis"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Dieviškasis išgelbėjimas",
+        "Ilgas klestėjimo laikotarpis",
+        "Atsivertimas į islamą",
+        "Visiškas sunaikinimas",
+        "Tremtis iš savo žemės"
+      ],
+      "answer": "Visiškas sunaikinimas"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

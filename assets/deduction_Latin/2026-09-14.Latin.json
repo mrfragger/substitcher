@@ -1,0 +1,61 @@
+{
+  "title": "Vox Sapientiae in Umbris",
+  "intro": "Persona antiqua, perspicacia profunda nota, per saecula vobiscum loquitur. Hic homo numquam prophetiam sibi vindicavit, tamen divina sapientia per verba eius fluebat. Parens qui aeternam consilii hereditatem reliquit, consilium eius in cordibus millionum conservatur, usque ad hunc diem recitatur et meditatur.",
+  "clues": [
+    "Donum divinum accepi quod me alium distinxit - sapientiam tam profundam ut per totam historiam nota mea propria facta sit.",
+    "Non eram nuntius nec angelus - tantum anima profunda intelligentia et perspicacia in mundum beata.",
+    "Vinculum meum artissimum cum filio meo erat, et per hoc vinculum, nuntium meum durabilissimum transmissum est.",
+    "Ei qui mihi omnia dedit gratiam hortatus sum, et contra superbiam atque arrogantiam monui.",
+    "De pondere factorum, etiam grani sinapis, docui, et de necessitate vocis humiliter deprimendae.",
+    "Caput in Alcorano nomen meum fert, ubi consilium meum filio meo dilecto in aeternum servatur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Luqmanus Sapiens",
+        "Dhul-Kifl Devotus",
+        "Khidr Sapiens Errans",
+        "Harut Angelus in Babele",
+        "Marut Angelus in Babele"
+      ],
+      "answer": "Luqmanus Sapiens"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Patientia per morbum tentata",
+        "Sapientiam tribuere et filium monere",
+        "In magnum ignem coniectus",
+        "Vivus ad caelum evectus",
+        "Magnam navem aedificans ad interitum vitandum"
+      ],
+      "answer": "Sapientiam tribuere et filium monere"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Domus sacra cultus",
+        "Baculus qui in serpentem factus est",
+        "Verba sapientiae aeternae ad filium directa",
+        "Magnificum thronum vitreum",
+        "Hortus ruinae oppressus"
+      ],
+      "answer": "Verba sapientiae aeternae ad filium directa"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Sapientia concessa et gratias Deo imperatae",
+        "Dominus jinn, hominum, et venti factus est",
+        "Vivus in caelum assumptus est",
+        "Ab magna balaena absorptus et renovatus emersit",
+        "A fratribus zelotypis in puteum coniectus"
+      ],
+      "answer": "Sapientia concessa et gratias Deo imperatae"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

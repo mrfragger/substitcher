@@ -1,0 +1,61 @@
+{
+  "title": "Die Quelle unter dem Sand",
+  "intro": "In den Annalen des Korans wird von einer Person von unermesslicher Geduld berichtet, die eine Prüfung durchmachte, die selbst die stärksten Herzen brechen würde. Alles wurde ihr genommen – Reichtum, Familie und Gesundheit. Doch aus tiefster Verzweiflung wurde ein demütiges Gebet auf unerwartetste Weise erhört. Können Sie diese Seele identifizieren, deren Geschichte der Wiederherstellung durch die Jahrhunderte hallt?",
+  "clues": [
+    "Ich wurde einer so schweren Prüfung unterzogen, dass sie bis heute in Erinnerung geblieben ist.",
+    "Ich verlor alles, was mir wichtig war – meinen Reichtum, meine Kinder und meine Gesundheit.",
+    "Mein Körper war mit schmerzhaften Geschwüren bedeckt, und ich wurde von allen gemieden.",
+    "In meiner Verzweiflung rief ich zu Allah und sagte, dass Satan mich mit Not und Qualen heimgesucht habe.",
+    "Allah antwortete mir und befahl mir, mit meinem Fuß auf die Erde zu treten.",
+    "Aus eben diesem Ort entsprang eine kühle Quelle, und Allah gab mir meine Familie zurück und verdoppelte sie aus Barmherzigkeit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Ayyub",
+        "Prophet Musa",
+        "Prophet Ilyas",
+        "Prophet Sulayman",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Ayyub"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Schwere Krankheit und Verlust von Familie und Vermögen",
+        "Von einem großen Wal verschluckt werden",
+        "Verbannung aus der Stadt Mekka",
+        "Gefangenschaft in einem tiefen Brunnen",
+        "Konfrontation mit einem arroganten Herrscher"
+      ],
+      "answer": "Schwere Krankheit und Verlust von Familie und Vermögen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine kühle Quelle aus der Erde",
+        "Ein Boot auf einer großen Flut",
+        "Ein Stab, der das Meer spaltete",
+        "Ein erhöhter Thron aus Glas",
+        "Eine ummauerte Höhle zum Schlafen"
+      ],
+      "answer": "Eine kühle Quelle aus der Erde"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Familie und Vermögen wiederhergestellt und verdoppelt",
+        "Ausgang aus dem Bauch eines Fisches",
+        "Sichere Durchfahrt durch geteilte Gewässer",
+        "Ein Königreich, das zum Herrschen gegeben ist",
+        "Die wundersame Geburt eines Sohnes im hohen Alter"
+      ],
+      "answer": "Familie und Vermögen wiederhergestellt und verdoppelt"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

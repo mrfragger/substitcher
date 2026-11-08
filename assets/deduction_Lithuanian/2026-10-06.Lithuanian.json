@@ -1,0 +1,61 @@
+{
+  "title": "Tiesa, kuri nutildė teismą",
+  "intro": "Rūmuose, kuriuose karaliavo neigimas ir valdžia buvo absoliuti, būrys patyrusių praktikų stojo prieš netikėtą iššūkį. Oras virpėjo nuo laukimo, nes du melo ir tiesos keliai tuoj susidurs. Susirinkusieji nė nenumanė, kad šis susitikimas amžiams pakeis jų gyvenimus ir įrašys jų istoriją į šventąjį tekstą.",
+  "clues": [
+    "Mus garsino iliuzijų kūrimo įgūdžiai ir galingas valdovas surinko mus stoti prieš varžovą.",
+    "Kai atėjo akimirka, mes nuliejome instrumentus ir laukėme rezultato, pasitikėdami savo amatu.",
+    "Tačiau tai, ką matėme, mūsų pačių prietaisus privertė atrodyti kaip paprastus žaislus, ir mūsų širdys pripažino nepaneigiamą tiesą.",
+    "Mes parpuolėme ant žemės kniūbsčia, pareikšdami savo tikėjimą Mozės ir Aarono Viešpačiu, nepaisydami valdovo įniršio.",
+    "Tas valdovas grasino mums žiauriausia bausme, prisiekdamas mus nukryžiuoti ir nupjauti mums galūnes priešingomis kryptimis.",
+    "Mes likome tvirti, sakydami, kad Viešpaties teismas mums yra svarbesnis už bet kokias žemiškas pasekmes, ir buvome nužudyti dėl savo tikėjimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Faraono burtininkai",
+        "Olos žmonės",
+        "Miško palydovai",
+        "Izos mokiniai",
+        "Dramblio žmonės"
+      ],
+      "answer": "Faraono burtininkai"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Magijos konkursas prieš Musą",
+        "Ant jų užmesta ugnis",
+        "Potvynis, kuris juos paskandino",
+        "Sausra ir badas",
+        "Žemės drebėjimas"
+      ],
+      "answer": "Magijos konkursas prieš Musą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Lazdos ir virvės, kurios virto gyvatėmis",
+        "Degantis krūmas",
+        "Kupranugarė",
+        "Medinė arka",
+        "Banginis"
+      ],
+      "answer": "Lazdos ir virvės, kurios virto gyvatėmis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Už tikėjimą įvykdytas mirties bausmė, pažadėtas Rojus",
+        "Nuskendo jūroje",
+        "Tapo Egipto valdovais",
+        "Likę faraono pasekėjai",
+        "Paveldėjo žemę."
+      ],
+      "answer": "Už tikėjimą įvykdytas mirties bausmė, pažadėtas Rojus"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

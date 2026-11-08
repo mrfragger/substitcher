@@ -1,0 +1,60 @@
+{
+  "title": "Ummangaliso Wobungqina Obuthuleyo",
+  "intro": "Udibana nebali eligutyungelwe ngumntu lokungenelela kukaThixo. Ibali lelungiselelo elimangalisayo kunye nokuzikhusela okungenamazwi okuphindaphindwa ngokuhamba kwexesha. Ungafumanisa ukuba ngubani ojongene nolu vavanyo lungaqhelekanga?",
+  "clues": [
+    "Ndifumene umyalezo ovela kuThixo owandishiya ndimangalisiwe",
+    "Abantu bam babuza ubunyulu bam xa ndibuya nomntwana",
+    "Ndayalelwa ukuba ndizile ukutya ngenxa yokuthetha okwethutyana",
+    "Umthombo wamanzi kunye needati wandixhasa ngexesha lovavanyo lwam",
+    "INkosi yam yenze umthi omangalisayo washukunyiswa ukuze undincede",
+    "Ingelosi yabonakala kum ikwimo yomntu ogqibeleleyo"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UMaryam",
+        "iAsia",
+        "IsiHawa",
+        "USarah",
+        "Khadijah"
+      ],
+      "answer": "UMaryam"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuzala yedwa phantsi komthi wesundu",
+        "Ukujongana nendlala ebulalayo",
+        "Ukuphoswa emngxunyeni ovuthayo",
+        "Ukubaleka umlawuli okhohlakeleyo",
+        "Ukukhusela intsalela engcwele"
+      ],
+      "answer": "Ukuzala yedwa phantsi komthi wesundu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "umthi wephalm",
+        "Isihlahla esitshayo",
+        "Itempile yamatye",
+        "UMlambo iNayile",
+        "INtaba yeSinayi"
+      ],
+      "answer": "umthi wephalm"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Ubumsulwa bam bubonakaliswe xa unyana wam oselusana ethetha",
+        "Ndaba yikumkanikazi ehlonitshwayo",
+        "Abantu bam batshatyalaliswa sisohlwayo sikaThixo",
+        "Ndikhokelele isizwe sam empumelelweni",
+        "Umthombo omangalisayo wabonakala ngonaphakade"
+      ],
+      "answer": "Ubumsulwa bam bubonakaliswe xa unyana wam oselusana ethetha"
+    }
+  },
+  "verse": "Then he called her from below her, 'Do not grieve; your Lord has provided beneath you a stream. And shake toward you the trunk of the palm tree; it will drop upon you ripe, fresh dates.' (Maryam 19:24-25)",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا ﴿٢٤﴾ وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا ﴿٢٥﴾"
+}

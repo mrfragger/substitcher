@@ -1,0 +1,61 @@
+{
+  "title": "A tűz tanúja",
+  "intro": "Egy mélyenszántó, a végső valóság feltárásának szentelt egyéniség spirituális felfedezés útjára indult. Rendíthetetlen meggyőződése arra késztette, hogy megkérdőjelezze a megszokott normákat, és hatalmas megpróbáltatásokkal nézzen szembe, amelyek próbára tették a hit határait. Ennek a léleknek a története az isteni védelem és útmutatás bizonyítéka.",
+  "clues": [
+    "Egy különleges címmel áldott meg az Úr, ami mély és különleges köteléket jelképez.",
+    "Fiatalkoromat olyan emberek között töltöttem, akik szobrok előtt borultak le, de a szívem az Egy Igaz Isten után vágyakozott.",
+    "Figyeltem az égitesteket, a Napot, a Holdat és a csillagokat, elmélkedve a felkelésükön és hanyatlásukon, és arra a következtetésre jutottam, hogy nem lehetnek az Uram.",
+    "A széles körben elterjedt politeizmus elleni dacból szembeszálltam a hamis istenségekkel, egyetlen, nagyobb istent hagyva érintetlenül néma vádlóként.",
+    "A bálványimádás elleni kihívásom súlyos büntetéshez vezetett, mivel arra ítéltek, hogy egy tomboló pokolba vessék.",
+    "Mégis, Teremtőm parancsára az intenzív lángok hűvös és biztonságos forrássá változtak, megőrizve az életemet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mózes próféta",
+        "Nuh próféta",
+        "Ibrahim próféta",
+        "Isa próféta",
+        "Juszuf próféta"
+      ],
+      "answer": "Ibrahim próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Átkelés a Vörös-tengeren",
+        "Az özönvíz",
+        "Egy fiú áldozata",
+        "A tüzes megpróbáltatás",
+        "A bálna hasa"
+      ],
+      "answer": "A tüzes megpróbáltatás"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A trombita",
+        "A tűz",
+        "A kút"
+      ],
+      "answer": "A tűz"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Biztonságba vezette az embereket",
+        "Egy hatalmas királyságot örökölt",
+        "Lenyelte egy hal",
+        "Megmentették az égéstől",
+        "Megkapták a tablettákat"
+      ],
+      "answer": "Megmentették az égéstől"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Semnul printre pietre",
+  "intro": "Într-o țară în care munții erau sculptați în case, un mesager a sosit cu un semn miraculos de la Allah. Oamenii au cerut dovezi și au primit o creatură din stâncă solidă. Dar aroganța lor i-a determinat să sfideze avertismentul, pecetluindu-și soarta.",
+  "clues": [
+    "Am fost trimis la un popor care trăia în locuințe sculptate în munți.",
+    "M-au provocat să aduc un semn, așa că am scos o cămilă dintr-o stâncă.",
+    "Le-am poruncit să lase cămila să bea din belșug și să nu-i facă niciun rău.",
+    "N-au ascultat și i-au tăiat tibiile cămilei, sfidând avertismentul meu.",
+    "Am anunțat că pedeapsa va veni peste trei zile.",
+    "Dimineața, o explozie puternică i-a distrus, dar eu și urmașii mei am fost salvați."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Salih",
+        "Profetul Hud",
+        "Profetul Lut",
+        "Profetul Șu'ayb",
+        "Profetul Ibrahim"
+      ],
+      "answer": "Profetul Salih"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Cererea pentru o cămilă dintr-o stâncă",
+        "Cererea pentru un vițel de aur",
+        "Cererea pentru o masă servită din ceruri",
+        "Cererea pentru o inundație",
+        "Cererea ca un toiag să devină un șarpe"
+      ],
+      "answer": "Cererea pentru o cămilă dintr-o stâncă"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Cămila și puiul ei",
+        "Arca lui Noe",
+        "Toiagul lui Moise",
+        "Vițelul de Aur",
+        "Focul lui Ibrahim"
+      ],
+      "answer": "Cămila și puiul ei"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Distrus de o explozie puternică",
+        "Înecat în potop",
+        "Înghițit de pământ",
+        "Transformați în maimuțe",
+        "Distrus de un vânt puternic"
+      ],
+      "answer": "Distrus de o explozie puternică"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

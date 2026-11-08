@@ -1,0 +1,61 @@
+{
+  "title": "Wageni Wa ajabu wa Jiji Lililozungukwa na Ukuta",
+  "intro": "Kundi lilifika kwenye malango ya jiji ambalo watu wake hawakuwa wamejua ukweli. Walileta ujumbe, lakini wakazi waligeuka kuwa maadui, na kutishia vurugu. Hata hivyo, kutoka mahali pasipotarajiwa, sauti moja iliinuka kuwatetea wageni, ikiandaa mazingira ya mabadiliko makubwa ya matukio.",
+  "clues": [
+    "Tuliingia katika mji ambao watu wake walikuwa wamezingirwa na ukafiri.",
+    "Walitutazama kwa mashaka na kusema, 'Nyinyi ni viumbe wa kawaida tu kama sisi.'",
+    "Tuliwaonya, lakini walituwekea mawe.",
+    "Mwanamume mmoja alikimbia kutoka mwisho wa mbali wa jiji ili kuthibitisha ukweli wetu.",
+    "Aliwaambia watu wake, 'Kwa nini nisimuabudu Yule aliyeniumba?'",
+    "Kukataa kwa jiji kuliisha kwa mlipuko mmoja, na ukimya ulitawala pale walipowadhihaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Wajumbe wa Ya-Sin",
+        "Wanafunzi wa Isa",
+        "Watu wa Handaki",
+        "Wachawi wa Farao",
+        "Muumini wa Ya-Sin"
+      ],
+      "answer": "Wajumbe wa Ya-Sin"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukataliwa na tishio la kupigwa mawe",
+        "Kutupwa kwenye moto mkali",
+        "Mtihani wa uvumilivu na mtoto aliyepotea",
+        "Bustani iliyoharibiwa",
+        "Safari kupitia bahari"
+      ],
+      "answer": "Kukataliwa na tishio la kupigwa mawe"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mwisho wa mbali zaidi wa jiji",
+        "Bahari Nyekundu",
+        "Mtaro wa moto",
+        "Pango la kimbilio",
+        "Gereza la Misri"
+      ],
+      "answer": "Mwisho wa mbali zaidi wa jiji"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mji uliharibiwa kwa kelele moja",
+        "Bahari iligawanyika na kuzama jeshi",
+        "Moto ukawa baridi na salama",
+        "Bustani iliteketezwa na moto wa mbinguni",
+        "Nyangumi alimrudisha mtu huyo ufukweni"
+      ],
+      "answer": "Mji uliharibiwa kwa kelele moja"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

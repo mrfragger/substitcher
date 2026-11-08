@@ -1,0 +1,61 @@
+{
+  "title": "Vadinin Səssiz Səsi",
+  "intro": "Bir vaxtlar sınaq olaraq canlı möcüzə almış qüdrətli bir xalqa geri qayıdın. Təkəbbür və inadkarlıq onların taleyini həll etdi. Hekayəni izləyə və bu dramatik dönüş nöqtəsində nələrin baş verdiyini kəşf edə bilərsinizmi?",
+  "clues": [
+    "Mən gücü və itaətsizliyi ilə tanınan qüdrətli bir qövmə ilahi bir sınaq olaraq göndərildim.",
+    "Mən misilsiz bir möcüzə idim — mənim kimiləri heç vaxt onların arasında peyda olmamışdı.",
+    "Mən alternativ günlərdə quyudan su içirdim və insanlarla bölüşürdüm.",
+    "Onlara xəbərdarlıq edildi ki, mənə qarşı hər hansı bir zərər tezliklə cəzalandırılacaq.",
+    "Onlardan ən cəsarətlisi xəbərdarlığı qulaqardına vurdu və məni ayaq barmaqlarından keçirdi.",
+    "Ölümümdən sonra yuxarıdan gələn tək bir gurultulu fəryad bütün xalqımı məhv etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Salehin dişi dəvəsi",
+        "Musanın inəyi",
+        "Nuhun gəmisi",
+        "Musanın əsası",
+        "Bilqis taxtı"
+      ],
+      "answer": "Salehin dişi dəvəsi"
+    },
+    "trial": {
+      "label": "Mənim taleyim",
+      "options": [
+        "Budları gərilmiş və öldürülmüş",
+        "Qurban olaraq kəsildi",
+        "İlana çevrilib",
+        "Böyük bir daşqından qorunub saxlanılıb",
+        "Tez bir zamanda bir krallığa gətirildi"
+      ],
+      "answer": "Budları gərilmiş və öldürülmüş"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Bir su quyusu",
+        "Daş lövhə",
+        "Yanan bir kol",
+        "Taxta sandıq",
+        "Qızıl və gümüşdən hazırlanmış taxt"
+      ],
+      "answer": "Bir su quyusu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Tək bir qışqırıqla məhv edildi",
+        "Böyük bir daşqında boğuldu",
+        "Daş yağışı ilə yanıb",
+        "Şiddətli küləklə vurulub",
+        "Torpaq tərəfindən udulmuş"
+      ],
+      "answer": "Tək bir qışqırıqla məhv edildi"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

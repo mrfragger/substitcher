@@ -1,0 +1,61 @@
+{
+  "title": "Tayin da Ya Canza Kaddara",
+  "intro": "A farkon zamanin ɗan adam, rai yana bayar da kyauta da niyya mai tsarki. Duk da haka, hassada tana ɓoye a cikin inuwar karɓuwa. Gano labarin wannan mutum wanda ibadarsa da ƙarshensa mai ban tausayi suka mutu a cikin wahayin Allah.",
+  "clues": [
+    "Na kasance cikin tsararrakin farko na bil'adama.",
+    "Na miƙa sadaka ga Ubangijina, kuma an karɓe ta da alheri.",
+    "An ƙi tayin ɗan'uwana, kuma hassada ta duhunta zuciyarsa.",
+    "Na ce masa, 'Idan ka miƙa hannunka zuwa gare ni don ka kashe ni, ba zan miƙa hannuna don in kashe ka ba; hakika ina tsoron Allah, Ubangijin talikai.'",
+    "Na zama wanda aka yi wa kisan kai na farko a duniya.",
+    "Jinina ya yi kuka, ni ne shahidi na farko da ya yi rashin laifi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Habila (Habila)",
+        "Qabil (Ka'in)",
+        "Mutumin daga Ya-Sin",
+        "Samiri",
+        "Luqman"
+      ],
+      "answer": "Habila (Habila)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "An karɓi tayinsa, wanda ya haifar da kishin ɗan'uwansa da kisansa.",
+        "An jefa shi cikin tanderu mai zafi amma ya fito ba tare da ya ji rauni ba",
+        "Ya gina babban jirgi a ƙarƙashin jagorancin Allah",
+        "Wani babban kifi ya haɗiye shi, ya ci gaba da zama cikin duhu.",
+        "Ya jagoranci mutanensa ta cikin teku da ta rabu"
+      ],
+      "answer": "An karɓi tayinsa, wanda ya haifar da kishin ɗan'uwansa da kisansa."
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Tayin da aka karɓa",
+        "Sanda ta rikide ta zama maciji",
+        "Raƙumi a matsayin alamar allahntaka",
+        "Wata yar iska mai kawo labarai",
+        "An bauta wa maraƙin zinariya"
+      ],
+      "answer": "Tayin da aka karɓa"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Kisan kai na farko a tarihi; an yanke wa ɗan'uwansa hukunci",
+        "Ƙasa ta haɗiye shi tare da dukiyarsa",
+        "An canza shi zuwa birai saboda keta doka",
+        "Iska mai ƙarfi da ƙanƙara ta halaka ta",
+        "An nutsar da shi cikin babban ambaliyar ruwa a matsayin hukunci"
+      ],
+      "answer": "Kisan kai na farko a tarihi; an yanke wa ɗan'uwansa hukunci"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

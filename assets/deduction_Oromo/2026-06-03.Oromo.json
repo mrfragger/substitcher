@@ -1,0 +1,61 @@
+{
+  "title": "Saba Mana Qulqulluu Morme",
+  "intro": "Bara durii sabni humna guddaa qabu tokko bakka qulqulluu amantoonni kabajan haleeluuf murteessa ture. Gareen kun sooressa, humna guddaa fi humna waraanaa isaanii irratti ofitti amanamummaa kan qaban turan. Uumama guddaa meeshaa waraanaa isaanii ta’ee tajaajilu of biraa fidanii dhufan. Kaayyoon isaanii ifa ture: mana qulqulluu sana diiguu fi amantii saba isaa caccabsuu. Garuu of tuuluun isaanii deebii gaddisiisaa olii irraa argachuuf ture. Taatee seenaa kun warra booda dhufan hundaaf mallattoo fi barumsa ta’e. Garee kana ragaalee irraa adda baasuu dandeessaa?",
+  "clues": [
+    "Saba qabeenyaafi dandeettii waraanaatiin eebbifame turre.",
+    "Humna keenya walitti qabnee bineensa guddaa fidnee duula keenya keessatti itti fayyadamne.",
+    "Xiyyeeffannaan keenya bakka qulqulluu qulqulluu guutummaatti balleessuu hawwine ture.",
+    "Eegumsa waaqaa kamiyyuu mo’uuf humni keenya gahaa akka ta’u amanna turre.",
+    "Gooftaan garuu adabbii nuti hin eegne samii irraa nutti erge.",
+    "Akka qoree cabee faffacaane battalumatti diigamne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata Qeerroo",
+        "Ummata Thamud",
+        "Ummanni 'Ad",
+        "Sahaabonni Holqa",
+        "Saba Nabi Hud"
+      ],
+      "answer": "Ummata Qeerroo"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Elephant tokko gara mana qulqulluu sanaatti hiriirsuun balleessuu",
+        "Samii ga’uuf masaraa ijaaruu",
+        "Waaqeffannaaf waaqa tolfamaa warqee ijaaruu",
+        "Ergamaa Rabbii dhaggeeffachuu diduu",
+        "Amantoota miidhuuf boolla bishaanii qotuu"
+      ],
+      "answer": "Elephant tokko gara mana qulqulluu sanaatti hiriirsuun balleessuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Elemoo",
+        "Re'ee Warqee",
+        "Ulee Muusaa",
+        "Qurxummii Yunuus",
+        "Sibiilli Daawud"
+      ],
+      "answer": "Elemoo"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Tuuta simbirroota dhagaa qabataniin balleessan",
+        "Lolaa guddaadhaan liqimfaman",
+        "Gara hantuutaa fi allaattiitti jijjiiraman",
+        "Gaara irraa dhagaa kufaa jiru jalatti awwaalaman",
+        "Samii irraa ibiddaan gubatan"
+      ],
+      "answer": "Tuuta simbirroota dhagaa qabataniin balleessan"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

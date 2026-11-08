@@ -1,0 +1,61 @@
+{
+  "title": "Tvirti liudytojai",
+  "intro": "Įsivaizduokite laikus, kai tikėjimas buvo išbandomas ugnimi, o nepajudinamas įsitikinimas tapo didžiausiu pasipriešinimu. Jums pavesta atskleisti grupės, kurios istorija papasakota Korane – pasakojime apie gilų tikėjimą prieš didžiulę tironiją, tapatybę. Išnarpliokite užuominas, kad sužinotumėte, kas buvo šios sielos ir su kokiomis nepaprastomis aplinkybėmis jos susidūrė.",
+  "clues": [
+    "Tvirtai laikėmės savo įsitikinimų, nepaisant didžiulio spaudimo išsižadėti savo tikėjimo.",
+    "Mus taikėsi galingas valdovas, siekęs užgesinti monoteizmo šviesą.",
+    "Mes matėme didelių ženklų ir stebuklų, tačiau mūsų engėjai liko abejingi.",
+    "Mes kentėme žiaurų persekiojimo metodą, kuriuo buvo siekiama įbauginti kitus ir priversti juos paklusti.",
+    "Mus įmetė į liepsnojantį pragarą, bet mūsų tvirtumas pelnė mums aukštą padėtį Alacho akyse.",
+    "Mūsų istorija papasakota suroje, pavadintoje pagal dangaus žvaigždynus, įspėjančioje apie likimą tų, kurie persekioja tikinčiuosius."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Tamudo žmonės",
+        "„Ad“ žmonės",
+        "Griovio žmonės",
+        "Midjano žmonės",
+        "Dramblio žmonės"
+      ],
+      "answer": "Griovio žmonės"
+    },
+    "trial": {
+      "label": "Mūsų persekiojimas",
+      "options": [
+        "Skęstant potvynyje",
+        "Prarytas svilinančio vėjo",
+        "Įmestas į ugningą apkasą",
+        "Prarytas žemės",
+        "Paverčiami beždžionėmis"
+      ],
+      "answer": "Įmestas į ugningą apkasą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Didžiulis potvynis",
+        "Didelis žemės drebėjimas",
+        "Gilus, degantis tranšėjos",
+        "Galingas stabas",
+        "Pražūtinga sausra"
+      ],
+      "answer": "Gilus, degantis tranšėjos"
+    },
+    "outcome": {
+      "label": "Mūsų galutinis likimas",
+      "options": [
+        "Jiems buvo suteikta karalystė žemėje.",
+        "Juos išgelbėjo stebuklingas pabėgimas.",
+        "Jie pasiekė kankinystę ir amžiną atlygį.",
+        "Jie buvo paversti kita rūšimi.",
+        "Jiems buvo suteiktas didžiulis turtas ir gerovė."
+      ],
+      "answer": "Jie pasiekė kankinystę ir amžiną atlygį."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

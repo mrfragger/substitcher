@@ -1,0 +1,61 @@
+{
+  "title": "Gizli Hasadın Koruyucuları",
+  "intro": "Yeşillikler içinde bir grup insan, gecenin örtüsü altında gizli bir plan yaptı. Ortak bir amaçları vardı, ancak niyetleri hiç de iyi niyetli değildi. Uyurken onları ilahi bir sürprizin beklediğinden habersizdiler.",
+  "clues": [
+    "Planımızın kusursuz olduğuna inanarak kesin bir karar aldık.",
+    "Diğerleri daha uyanmadan, erkenden dışarı çıkmayı planlıyorduk.",
+    "Yeterli erzakımız olduğuna güvenerek verimli bir araziye yöneldik.",
+    "Varış noktamıza ulaştığımızda, oranın çorak ve ıssız olduğunu gördük, bu yüzden yolumuzu kaybettiğimizi sandık.",
+    "Sonra buranın gerçekten de bizim yerimiz olduğunu anladık ve çaresizlik içinde feryat ederek, kaybımızdan birbirimizi sorumlu tuttuk.",
+    "O sabah, hasadımızdan fakirleri mahrum bırakacağımıza yemin etmiştik, fakat Allah'ın cezası biz uyurken üzerimize geldi ve bahçemizi harabeye çevirdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz Kimiz?",
+      "options": [
+        "68. Surede Bahşedilen Bahçe Sahipleri",
+        "Saba Halkı",
+        "Mağara Yoldaşları",
+        "Fil Halkı",
+        "Siperdeki İnsanlar"
+      ],
+      "answer": "68. Surede Bahşedilen Bahçe Sahipleri"
+    },
+    "trial": {
+      "label": "Denememiz",
+      "options": [
+        "Bahçemiz gökyüzünden gelen bir felaket yüzünden yok oldu.",
+        "Bahçemiz sel sularına kapıldı.",
+        "Bahçemiz düşman tarafından çıkarılan bir ateşle yandı.",
+        "Bahçemiz çekirgelerle doluydu.",
+        "Bahçemiz depremde yerle bir oldu."
+      ],
+      "answer": "Bahçemiz gökyüzünden gelen bir felaket yüzünden yok oldu."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Sabahleyin meyvelerini toplayacağımıza yemin ettik.",
+        "Bahçemizi sulamak için bir baraj inşa ettik.",
+        "Korunmak için bir mağaraya sığındık.",
+        "Bir krallığı fethetmek için bir ordu hazırladık.",
+        "Denizi geçmek için bir gemiyle yola çıktık."
+      ],
+      "answer": "Sabahleyin meyvelerini toplayacağımıza yemin ettik."
+    },
+    "outcome": {
+      "label": "Kaderimiz",
+      "options": [
+        "Tövbe ettik ve Allah'tan merhamet diledik.",
+        "Tamamen yıkıldık ve asla tövbe etmedik.",
+        "Ülkeyi terk ettik ve bir daha geri dönmedik.",
+        "Yeniden güçlü ve zengin olduk.",
+        "Maymunlara dönüştürülerek cezalandırıldık."
+      ],
+      "answer": "Tövbe ettik ve Allah'tan merhamet diledik."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

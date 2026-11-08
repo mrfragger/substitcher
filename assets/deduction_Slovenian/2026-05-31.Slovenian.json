@@ -1,0 +1,61 @@
+{
+  "title": "Umrle priče",
+  "intro": "V davni preteklosti je na križišču med imperiji prebivala skupnost. Njihov prerok jih je klical na pot resnice, vendar so se oklepali nevere in zatiranja. Ta zgodba se konča z božjo kaznijo. Ali lahko prepoznate ta narod in njegovo usodo iz spodnjih namigov?",
+  "clues": [
+    "Ljudstvo je zavrnilo opozorilo, ki ga je prinesel eden od njihovih lastnih poslancev.",
+    "Poslanec nas je pozval, naj častimo samo Alaha, in svaril pred pokvarjenostjo.",
+    "Naš prestopek je bil, da smo zavrnili preroka, ki je bil poslan med nas s pravičnostjo.",
+    "Podvomili smo v glasnikovo avtoriteto in ga obtožili prevare.",
+    "Kazen nas je doletela, medtem ko smo varno prebivali v svojih domovih.",
+    "Uničeni smo bili, ker smo zanikali našega preroka in preganjali vernike."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Šuajb",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Šuajb"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Sprejemanje preroka, ki je klical k pravičnosti",
+        "Preizkušnja z lakoto",
+        "Razlaga sanj",
+        "Prejemanje Tore",
+        "Potovanje skozi morje"
+      ],
+      "answer": "Sprejemanje preroka, ki je klical k pravičnosti"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Midjanec",
+        "Babilon",
+        "Sodoma",
+        "Rdeče morje",
+        "Skrinja"
+      ],
+      "answer": "Midjanec"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Ljudje so bili uničeni zaradi nevere",
+        "Ljudje so se pokesali in bili vodeni",
+        "Ljudje so vstopili v raj",
+        "Ljudje so preživeli in uspevali",
+        "Ljudje so se preselili v novo deželo"
+      ],
+      "answer": "Ljudje so bili uničeni zaradi nevere"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

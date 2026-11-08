@@ -1,0 +1,61 @@
+{
+  "title": "Allah'ın Yüce Kulu",
+  "intro": "Eski zamanlardan kalma bir şahsiyetin, sıradanlığın üstünde bir makama yükseltilmiş bir Allah kulunun fısıltılarını duyuyorsunuz. Bu kişi, sarsılmaz sabrı ve mutlak dürüstlüğüyle tanınıyordu ve mesajdan yüz çeviren bir kavme gönderilmişti. Bu yüce ruh kimdir?",
+  "clues": [
+    "Ben Allah tarafından peygamber olarak seçildim ve Kuran-ı Kerim'de adım geçiyor.",
+    "Sabrım ve dürüstlüğümle tanınırdım; bunlar Allah'ın övdüğü niteliklerdir.",
+    "Halkımı tek Tanrı'ya ibadet etmeye çağırdım, fakat çoğu beni reddetti.",
+    "Allah tarafından makamım yükseltildi ve bana yüce bir derece bahşedildi.",
+    "Sıklıkla İsmail ve Zülkifl gibi diğer peygamberlerle birlikte anılırım.",
+    "Allah benim hakkımda şöyle buyuruyor: 'Ve onu yüksek bir makama yükselttik.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İdris",
+        "Peygamber İlyas",
+        "Peygamber Zülfili",
+        "Peygamber El-Yasa",
+        "Peygamber Hud"
+      ],
+      "answer": "Peygamber İdris"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İnsanları Allah'a ibadet etmeye çağırdı.",
+        "Nuh'un gemisini inşa etti.",
+        "Firavuna karşı savaştı",
+        "Ağır hastalık teşhisi konuldu.",
+        "Ateşe atıldı"
+      ],
+      "answer": "İnsanları Allah'a ibadet etmeye çağırdı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Yüksek rütbe/yüksek mevki",
+        "Gemi",
+        "Personel",
+        "Yangın",
+        "Kuyu"
+      ],
+      "answer": "Yüksek rütbe/yüksek mevki"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Yüksek statüye yükseltildi",
+        "Selde boğuldu",
+        "Bir balina tarafından yutuldu",
+        "Yangından kurtarıldı",
+        "Kral oldu"
+      ],
+      "answer": "Yüksek statüye yükseltildi"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

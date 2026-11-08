@@ -1,0 +1,61 @@
+{
+  "title": "lobis, kuris nuskendo po išdidumu",
+  "intro": "Įsivaizduokite, kad stovite priešais tokias dideles turtų krūvas, kad vien raktų nešiojimas išsekintų grupę stiprių asmenų. Aplink jus balsai ragina būti nuolankiems ir prisiminti, tačiau pasididžiavimas tampa garsesnis už dėkingumą. Kas nutinka, kai dosnumas tampa išbandymu, o arogancija užtvirtina rezultatą?",
+  "clues": [
+    "Aš buvau iš Mozės žmonių, tačiau nusikaltau prieš juos.",
+    "Man buvo suteikti tokie milžiniški lobiai, kad raktai nuo jų būtų našta net būriui stiprių vyrų.",
+    "Mano žmonės man patarė nedžiūgauti ir siekti pomirtinio gyvenimo nepamirštant savo dalies šiame pasaulyje.",
+    "Teigiau, kad tai, ką turiu, man duota tik dėl mano turimų žinių.",
+    "Aš vaikščiojau prieš savo žmones pasipuošęs, ir tie, kurie troško žemiško gyvenimo, troško panašaus, ką turėjau aš.",
+    "Mane prarijo žemė kartu su mano buveine, ir niekas negalėjo man padėti, nei aš pats sau padėti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Qarun",
+        "Namrudas",
+        "Džalutas",
+        "Azaras",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Gyrėsi turtais ir, nepaisant patarimo, neigė Alacho palankumą",
+        "Iššūkį Ibrahimui dėl gyvenimo ir mirties dovanojimo",
+        "Vedė armiją prieš Talutą ir Dawudą",
+        "Drožinėti stabai, kuriuos žmonės galėtų garbinti",
+        "Iš pavydo nužudė brolį dėl aukos"
+      ],
+      "answer": "Gyrėsi turtais ir, nepaisant patarimo, neigė Alacho palankumą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Raktai į didžiulius lobius",
+        "Sandoros skrynia",
+        "Auksinis papuošalų veršis",
+        "Užtvanka tarp dviejų kalnų",
+        "Vienuolika žvaigždžių sapne"
+      ],
+      "answer": "Raktai į didžiulius lobius"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Praryta žemės su būstu ir turtais",
+        "Nuskendo jūroje, persekiodamas Musą",
+        "Nukrito Dawudo svaidyklės akmuo",
+        "Sunaikinta galingo sprogimo už kupranugario pakinklinės sausgyslės pažeidimą",
+        "Pavirto beždžionėmis už sabato laužymą"
+      ],
+      "answer": "Praryta žemės su būstu ir turtais"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

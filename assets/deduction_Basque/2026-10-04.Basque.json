@@ -1,0 +1,61 @@
+{
+  "title": "Sendatzea ekarri zuen zama",
+  "intro": "Neurrigabe probatutako arima bat erosotasunik, lagunik eta gorputz-indarrerik gabe geratu zen. Atsekabe sakonean isolatuta, Alaren zerbitzari honek Jainkoari bakarrik begiratu zion. Pazientzia irmoaren eta bihotzeko otoitzaren bidez, erruki-olatu bat iritsi zen, itxaropen guztiak gainditu zituena. Nor da zaharberritzeko atea ireki zion deboziozko pertsonaia hau?",
+  "clues": [
+    "Allahren zerbitzari faboritoa izan nintzen, ugaritasunaz, etxe oparoaz eta osasun onez gozatu nuen nire bizitzan.",
+    "Orduan proba bat etorri zen: aberastasuna joan zen, maiteak joan ziren, eta nire haragia atsekabe larri batek jo zuen.",
+    "Nire ingurukoek ezin zuten nire egoera jasan, eta isolatuta geratu nintzen, gorputza sufrimenduz jota.",
+    "Jaunari dei egin nion, Satanasek neke eta zigorrarekin ukitu ninduela adieraziz.",
+    "Erantzuna etorri zen — lurra oinarekin jotzeko agindua, eta bertatik ur freskoa isuri zen sendatzeko.",
+    "Nire Jaunak zailtasunak erabat kendu eta nire familia itzuli zidan, biderkatuta, hausnartzen dutenentzako errukiaren seinale gisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ayyub profeta",
+        "Musa profeta",
+        "Yusuf profeta",
+        "Yunus profeta",
+        "Ibrahim profeta"
+      ],
+      "answer": "Ayyub profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Gaixotasun larria eta guztiaren galera",
+        "Tirano baten aginduz sutara botata",
+        "Senideek zulo sakon batean preso",
+        "Itsasoko arrain handi batek irentsi zuen",
+        "Aberritik erbesteratuta ibiltzea"
+      ],
+      "answer": "Gaixotasun larria eta guztiaren galera"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Lurretik sortu zen iturburu freskoa",
+        "Su fresko eta baketsua",
+        "Mendi baten gainean dagoen arka",
+        "Itsasoa zatitu zuen langileak",
+        "Ibaian flotatzen ari den saskia"
+      ],
+      "answer": "Lurretik sortu zen iturburu freskoa"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Familia eta bedeinkapenak berreskuratuta, bikoiztuta",
+        "Sute erretzailetik kalterik gabe ihes egin zuen",
+        "Erresumako kargu gorenera iritsi zen",
+        "Arrain handi baten sabeletik segurtasunera atera zen",
+        "Herri bat itsaso zatitu batetik gidatu zuen"
+      ],
+      "answer": "Familia eta bedeinkapenak berreskuratuta, bikoiztuta"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

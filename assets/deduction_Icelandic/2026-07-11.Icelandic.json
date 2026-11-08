@@ -1,0 +1,61 @@
+{
+  "title": "Ferðalangarnir á grænum ökrum",
+  "intro": "Til forna tíma ræktuðu tveir einstaklingar nágrannalönd. Leiðir þeirra voru fléttaðar saman, en hjörtu þeirra leiddu þá til gjörólíkra áfangastaða. Annar gekk beinu leiðina, en hinn villtist inn í myrkur afneitunar. Geturðu leyst leyndardóm þessara tveggja uppskeruvarða?",
+  "clues": [
+    "Ég eignaðist ríkulega uppskeru, dýrindis uppskeru sem blindaði augu áhorfenda.",
+    "Nágranni minn átti enn meiri auð en ég, en ég girntist hlutdeild þeirra meira en minn eigin.",
+    "Ég lagði til að við eyðilögðum uppskeru þeirra alveg, til að sameina allt undir mína stjórn.",
+    "Ég olli einnig minni eigin uppskeru tortímingu og eyðilagði allt með heimskulegri áformum mínum.",
+    "Ég stóð hjálparvana á meðan uppskera mín visnaði og auðæfi mín urðu að ryki á einni nóttu.",
+    "Ég átti engan hlut í lífinu eftir dauðann og síðasta dvalarstaður minn varð að logandi eldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Maðurinn sem afneitaði upprisu og dómi",
+        "Stjórnandinn sem kúgaði réttlátan bónda",
+        "Auðugur landeigandi sem skorti þakklæti",
+        "Bóndinn sem girntist land nágranna síns",
+        "Svikulli félaginn sem skipulagði eyðileggingu"
+      ],
+      "answer": "Bóndinn sem girntist land nágranna síns"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Prófið á að taka á móti guðlegri opinberun",
+        "Áskorunin um auð og þolinmæði",
+        "Freistingin til að eyðileggja lífsviðurværi réttláts manns",
+        "Skipunin um að skipta arfi á sanngjarnan hátt",
+        "Baráttan gegn kúgun harðstjórans"
+      ],
+      "answer": "Freistingin til að eyðileggja lífsviðurværi réttláts manns"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Grænir garðar paradísarinnar",
+        "Tveir nálægir akrar með ræktun",
+        "Fjöllin sem urðu vitni að eyðileggingu",
+        "Hið helga helgidómur Mekka",
+        "Árbakkar blessaðs lands"
+      ],
+      "answer": "Tveir nálægir akrar með ræktun"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Eilíf paradís sem umbun fyrir réttlæti",
+        "Algjör eyðilegging beggja uppskera í þessu lífi",
+        "Útlegð og flakk til dauðadags",
+        "Tímabundin velmegun fylgt eftir af eilífum eldi",
+        "Undursamleg endurreisn og tvöfölduð verðlaun"
+      ],
+      "answer": "Algjör eyðilegging beggja uppskera í þessu lífi"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

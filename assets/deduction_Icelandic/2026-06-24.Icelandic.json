@@ -1,0 +1,61 @@
+{
+  "title": "Verðir hins óslökkvandi loga",
+  "intro": "Vera stendur á þröskuldi hins óttaðasta staðar í hinu ósýnilega, falin skylda sem engin önnur vera þráir. Þegar þjáðar sálir hrópa á miskunn, ómar hörð viðbrögð í gegnum eldklefana. Geturðu afhjúpað hver þessi eilífi verndari er?",
+  "clues": [
+    "Ég stend við innganginn að skelfilegum refsistað í hinu ósýnilega.",
+    "Logandi, óslökkvandi eldur er kjarninn í hátíðlegri skyldu minni.",
+    "Þjáðar sálir kalla nafn mitt, biðja um lausn frá endalausri kvöl sinni.",
+    "Þegar þeir biðja, lýsi ég því yfir að þeir muni aldrei fara.",
+    "Ég er hvorki maður né djinn — ég er sköpuð vera af hreinni hlýðni.",
+    "Ég er aðalengillinn sem skipaður er eilífur verndari helvítiseldsins."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harút",
+        "Marút"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Fólk helvítis biður þess að kvölum þeirra verði lokið",
+        "Lúðurinn er blásinn til að merkja dómsdaginn",
+        "Kóraninn er opinberaður í hjarta spámannsins",
+        "Spámaður er kastað í mikinn eld af fólki sínu",
+        "Öflugur múr er reistur til að halda spilltri þjóð í skefjum"
+      ],
+      "answer": "Fólk helvítis biður þess að kvölum þeirra verði lokið"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Helvítiseldurinn (Jahannam)",
+        "Lótus-tréð við mörk Paradísar",
+        "Götandi trompet",
+        "Staf sem breytist í höggorm",
+        "Stórkostlegt guðlegt hásæti"
+      ],
+      "answer": "Helvítiseldurinn (Jahannam)"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Íbúum helvítis er sagt að þeir muni vera að eilífu",
+        "Íbúum helvítis er fyrirgefið og þeir leystir úr haldi.",
+        "Íbúum helvítis er gefið annað tækifæri til trúar.",
+        "Íbúar helvítis eru fluttir á köldan stað",
+        "Íbúar helvítis eru gjörsamlega tortímdir af þrumufleygi"
+      ],
+      "answer": "Íbúum helvítis er sagt að þeir muni vera að eilífu"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

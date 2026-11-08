@@ -1,0 +1,61 @@
+{
+  "title": "Seno laiku patiesā balss",
+  "intro": "Korānā ir dvēsele, kuras stāsts ir izstāstīts tikai dažos pantos, tomēr tās cēlās īpašības mirdz ar spožu skaidrību. Visvarenā slavēts par īpašu tikumu, šis senais Visžēlsirdīgā kalps ieņem vietu atklāsmes lappusēs. Tavs uzdevums ir identificēt šo ievērojamo personību. Vai vari uzminēt, kas tā ir?",
+  "clues": [
+    "Esmu Allāha pravietis, kurš dzīvoja starp cilvēces pirmajām paaudzēm.",
+    "Allāhs Savā Grāmatā pieminēja mani kopā ar citiem praviešiem, kuri visi tika slavēti par to pašu cēlo tikumu.",
+    "Korānā mani raksturo kā patiesības cilvēku.",
+    "Allāhs mani pacēla augstā stāvoklī, kādu tikai retais ir sasniedzis.",
+    "Mans vārds ir pieminēts Sūrā Al-Anbiya kopā ar diviem citiem praviešiem, kuri tiek slavēti par viņu pacietību.",
+    "Es esmu Idriss, patiesais un cildenais pravietis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Idriss",
+        "Pravietis Nuhs",
+        "Pravietis Ibrahims",
+        "Pravietis Musa",
+        "Pravietis Ismails"
+      ],
+      "answer": "Pravietis Idriss"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Saglabājot pacietību un patiesumu, pēc tam paaugstinot augstā amatā",
+        "Liela šķirsta būvniecība, lai glābtu ticīgos no postošiem plūdiem",
+        "Iemests liesmojošā ugunī un iznākt no tās pilnīgi neskarts",
+        "Sastopoties ar varenu karali un uzveicot viņa burvju armiju",
+        "Izdzīvošana lielas zivs vēderā jūras dzīlēs"
+      ],
+      "answer": "Saglabājot pacietību un patiesumu, pēc tam paaugstinot augstā amatā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Augsts un cildens stāvoklis Allāha priekšā",
+        "Masīvs kuģis, kas būvēts no dēļiem un apbērts ar darvu",
+        "Nikna uguns, ko kurina ļauna ķēniņa elkdievji",
+        "Plaša jūra, kas sadalījās sausos ceļos",
+        "Liela vaļa tumšais vēders okeāna dibenā"
+      ],
+      "answer": "Augsts un cildens stāvoklis Allāha priekšā"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Uzņemts Allāha žēlastībā kā viens no taisnīgajiem",
+        "Izglābts kopā ar visiem ticīgajiem no pasaules mēroga plūdiem",
+        "Izgāja no liesmām, uguns neskarta",
+        "Aizveda Izraēla bērnus droši uz brīvību pāri jūrai",
+        "Atkal kopā ar savu mīļoto ģimeni pēc ilgiem grūtību gadiem"
+      ],
+      "answer": "Uzņemts Allāha žēlastībā kā viens no taisnīgajiem"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

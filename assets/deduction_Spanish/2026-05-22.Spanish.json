@@ -1,0 +1,61 @@
+{
+  "title": "El ascenso del soñador",
+  "intro": "Un alma destinada a la grandeza, pero puesta a prueba por duras tribulaciones, emprendió un viaje extraordinario. Su camino estuvo marcado por los celos, la separación y el sufrimiento injusto, para culminar en una posición de inmensa responsabilidad y un profundo reencuentro. ¿Puedes identificar a esta notable figura del Corán?",
+  "clues": [
+    "En el pasado, fui objeto de envidia por parte de mis seres queridos, lo que provocó un profundo distanciamiento de mis padres y de mi hogar.",
+    "Viví un período de grandes dificultades, incluyendo el de ser vendida a un precio irrisorio por viajeros.",
+    "Fui acusado injustamente de un delito y pasé años en prisión, pero mi fe se mantuvo inquebrantable.",
+    "Me fue concedida una habilidad única para interpretar visiones complejas, lo cual resultó fundamental en mi camino hacia la libertad.",
+    "Mi sabiduría e integridad me llevaron finalmente a ocupar un puesto de gran autoridad y confianza en un país extranjero.",
+    "Tras una serie de acontecimientos, me reencontré con mi padre anciano y mis hermanos después de una larga y dolorosa ausencia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Sulaimán",
+        "Profeta Isaías",
+        "Profeta Yusuf",
+        "Profeta Dawud",
+        "Profeta Yahya"
+      ],
+      "answer": "Profeta Yusuf"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser tragado por un pez grande",
+        "Construyendo un Arca para salvar la creación",
+        "Soportar falsas acusaciones y encarcelamiento.",
+        "Enfrentar a un gobernante tiránico con milagros",
+        "Ser puesto a prueba con una enfermedad grave y una pérdida."
+      ],
+      "answer": "Soportar falsas acusaciones y encarcelamiento."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una zarza ardiente",
+        "Un pájaro parlante",
+        "Un pozo",
+        "Un bastón que se transforma en serpiente",
+        "Una camella como señal"
+      ],
+      "answer": "Un pozo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Liderando una migración hacia una tierra prometida.",
+        "Convertirse en un poderoso ministro en Egipto",
+        "Recibir el juicio divino sobre un pueblo arrogante",
+        "Gobernar un vasto reino con sabiduría y justicia.",
+        "Ascendiendo a los cielos"
+      ],
+      "answer": "Convertirse en un poderoso ministro en Egipto"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

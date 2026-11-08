@@ -1,0 +1,61 @@
+{
+  "title": "Orang Beriman yang Tersembunyi",
+  "intro": "Di aula kekuasaan yang mewah, tempat ketidakpercayaan dan tirani berkuasa, sebuah suara kebenaran yang sendirian berbicara dari tempat yang tak terduga. Sosok ini menantang otoritas untuk melindungi seorang pembawa pesan, mempertaruhkan keselamatan mereka sendiri untuk menyatakan kebenaran.",
+  "clues": [
+    "Aku hidup di negeri yang penuh tirani, mengabdi kepada seorang penguasa yang mengaku sebagai dewa.",
+    "Saya menyembunyikan keyakinan sejati saya selama bertahun-tahun, karena takut akan konsekuensi jika mengungkapkannya.",
+    "Ketika seorang utusan datang dengan tanda-tanda yang jelas, aku percaya, tetapi kaumku bersekongkol melawannya.",
+    "Aku berdiri di hadapan sang tiran dan dewan penasihatnya, berargumentasi bahwa mereka seharusnya tidak membunuh seorang utusan yang tidak bersalah.",
+    "Aku memperingatkan mereka tentang hukuman yang akan diterima bangsa-bangsa terdahulu yang menolak kebenaran, seperti kaum Nuh dan 'Ad.",
+    "Allah menyelamatkan saya dari rencana jahat mereka, dan saya menyaksikan kehancuran rezim yang menindas itu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Orang Beriman dari Keluarga Firaun",
+        "Sang Penyihir Firaun",
+        "Wazir Firaun",
+        "Istri Firaun",
+        "Bendahara Firaun"
+      ],
+      "answer": "Orang Beriman dari Keluarga Firaun"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Membela seorang nabi dari hukuman mati",
+        "Menantang trik pesulap",
+        "Membangun menara untuk mencapai langit",
+        "Membelah laut untuk melarikan diri",
+        "Menafsirkan mimpi seorang raja"
+      ],
+      "answer": "Membela seorang nabi dari hukuman mati"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Istana Firaun",
+        "Semak yang terbakar",
+        "Anak lembu emas",
+        "Sumur Madyan",
+        "Bahtera Nabi Nuh"
+      ],
+      "answer": "Istana Firaun"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Diselamatkan dari bahaya sementara para penindas dihancurkan.",
+        "Menjadi penguasa yang kuat",
+        "Dilemparkan ke dalam api dan muncul tanpa terluka.",
+        "Ditelan oleh bumi",
+        "Mengembara di hutan belantara selama empat puluh tahun"
+      ],
+      "answer": "Diselamatkan dari bahaya sementara para penindas dihancurkan."
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

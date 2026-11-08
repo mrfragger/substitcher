@@ -1,0 +1,61 @@
+{
+  "title": "Il-Ġurament tat-Tfal li Ma Twieldux",
+  "intro": "Ruħ sinċiera għamlet wegħda sagra qabel il-wasla ta’ tarbija. L-istorja ta’ din il-figura tiżvolġi fi ħdan il-ħitan ta’ santwarju, fejn id-devozzjoni tiltaqa’ mal-aċċettazzjoni divina. Min hu dan il-qaddej ta’ Alla?",
+  "clues": [
+    "Jien kont nappartjeni għal familja onorata fil-Koran.",
+    "Għilt wegħda solenni li niddedika t-tarbija fil-ġuf tiegħi għas-servizz ta' Alla.",
+    "Meta wellidt, bqajt sorpriża li sibt li kienet tifla, għalkemm kont stennejt tifel.",
+    "Semmejt lil binti Maryam, isem li jirrifletti devozzjoni u servizz.",
+    "Fittixt il-protezzjoni ta' Alla għal ibni u d-dixxendenti tagħha mix-Xitan misħut.",
+    "It-tifel/tifla tiegħi ġie aċċettat/a mill-Mulej u mqiegħed/tqiegħed taħt il-kura tal-Profeta Zakariya fis-santwarju."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Mart Imran (Omm Maryam)",
+        "Asiya, mart il-Fargħun",
+        "Marija, omm Isa",
+        "Omm il-Profeta Musa",
+        "Ir-Reġina ta’ Saba"
+      ],
+      "answer": "Mart Imran (Omm Maryam)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Wiegħed li tiddedika lil binha lit-tempju",
+        "Li tintrema fin-nar",
+        "Qsim tal-baħar fuq art niexfa",
+        "Il-bini ta’ arka kbira",
+        "Tinbela’ minn ħuta kbira"
+      ],
+      "answer": "Wiegħed li tiddedika lil binha lit-tempju"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Is-santwarju (mihrab) fejn tqiegħed it-tifel tagħha",
+        "L-arka tal-patt",
+        "L-għoġol tad-deheb",
+        "Il-bastun li nbidel f’serp",
+        "Il-palm tad-dati li taħtu kienet tistrieħ"
+      ],
+      "answer": "Is-santwarju (mihrab) fejn tqiegħed it-tifel tagħha"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "It-tifel tagħha ġie aċċettat u mqiegħed taħt il-kura tal-Profeta Zakkarija",
+        "Hija ġiet salvata mill-kastig ta’ tirann",
+        "Ingħatatilha tifel jismu Yahya",
+        "In-nies tagħha nqerdu minn maltempata",
+        "Hija saret reġina fuq saltna kbira"
+      ],
+      "answer": "It-tifel tagħha ġie aċċettat u mqiegħed taħt il-kura tal-Profeta Zakkarija"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

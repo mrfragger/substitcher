@@ -1,0 +1,61 @@
+{
+  "title": "Ukuzithoba Okukhulu KoMbusi",
+  "intro": "Uzifumana ukwilizwe lemimangaliso yamandulo kunye nesityhilelo esinzulu. Umlawuli onamandla, ejongene nesimemo esingalindelekanga, waqalisa uhambo oluya kutshintsha indlela yekamva lakhe kunye nokholo lwabantu bakhe. Ungamtyhila na lo mntu ubalaseleyo?",
+  "clues": [
+    "Ndalawula ubukumkani obuchumileyo, obuhonjiswe ngobutyebi obukhulu netrone eqaqambileyo.",
+    "Mna nabantu bam sasinqula umzimba wasezulwini, sikholelwa ukuba yiNkosi yethu, nangona ndandinamathandabuzo entliziyweni yam.",
+    "Umthunywa ongaqhelekanga, intaka, wandithumelela ileta, endibiza mna nabantu bam ukuba sizithobe kuThixo omnye.",
+    "Ndibuzise kubacebisi bam, ababenamandla amakhulu, malunga nendlela yokusabela kwesi sigidimi singazange sibonwe ngaphambili.",
+    "Ndagqiba ekubeni ndithumele isipho esixabisekileyo kulowo undithumelele ileta, ndinethemba lokuvavanya amandla neenjongo zakhe.",
+    "Ndakufika, ndamangaliswa sibhotwe esinomgangatho owenziwe ngeglasi, sibonakala njengechibi lamanzi, kwaye kulapho ndavakalisa khona ukuzithoba kwam kwiNkosi yendalo yonke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UFaro",
+        "UKumkanikazi waseShebha",
+        "UDhu al-Qarnayn",
+        "uLuqman",
+        "Umprofeti uYusuf"
+      ],
+      "answer": "UKumkanikazi waseShebha"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukwahlukana kolwandle",
+        "Umkhukula omkhulu",
+        "Uhambo lokudibana noMprofeti uSulayman",
+        "Ukutshatyalaliswa kwabantu bakaLut",
+        "Ukutshiswa koMprofeti u-Ibrahim"
+      ],
+      "answer": "Uhambo lokudibana noMprofeti uSulayman"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Abasebenzi",
+        "Itrone",
+        "Intaba",
+        "Umlilo"
+      ],
+      "answer": "Itrone"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waba ngumprofeti",
+        "Yatshatyalaliswa nguAllah",
+        "Ukwamkela ubuSilamsi",
+        "Wakhokela abantu bakhe emfazweni",
+        "Wakha itempile enkulu"
+      ],
+      "answer": "Ukwamkela ubuSilamsi"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

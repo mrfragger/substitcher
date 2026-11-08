@@ -1,0 +1,61 @@
+{
+  "title": "Los buscadores de la verdad dormidos",
+  "intro": "Imagina una época en la que la fe se vio desafiada, y un grupo de personas eligió la convicción inquebrantable por encima de la comodidad terrenal. Ante una difícil decisión, buscaron refugio, emprendiendo un viaje que los condujo a un sueño profundo y extraordinario. Su historia es un testimonio de la protección divina y del poder de la fe frente a la opresión. ¿Puedes identificar a estas personas extraordinarias?",
+  "clues": [
+    "Éramos una pequeña asamblea, unida por una profunda creencia en el Único Creador.",
+    "Vivíamos en una época en la que un gobernante poderoso exigía la adoración de algo distinto a Alá.",
+    "Para preservar nuestra fe, decidimos abandonar nuestros hogares y huir de la opresión.",
+    "Un fiel compañero, una criatura de la tierra, nos acompañó en nuestro viaje.",
+    "Encontramos refugio en un lugar apartado, donde Alá nos hizo caer en un sueño profundo y prolongado.",
+    "Al despertar, creíamos que solo había pasado un día o parte de un día, pero en realidad habían transcurrido siglos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La gente de la zanja",
+        "El pueblo de Thamud",
+        "El pueblo de Saba'",
+        "La gente de la cueva",
+        "El pueblo de Madyan"
+      ],
+      "answer": "La gente de la cueva"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ser puesto a prueba con una tierra estéril",
+        "Ante una gran inundación",
+        "Buscando refugio de un gobernante tiránico.",
+        "Ser arrojado a un fuego ardiente",
+        "Desafiando la magia de un hechicero"
+      ],
+      "answer": "Buscando refugio de un gobernante tiránico."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un gran palacio",
+        "Un barco/arca",
+        "Un pozo profundo",
+        "Una cueva",
+        "Una montaña imponente"
+      ],
+      "answer": "Una cueva"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ser concedido un reino",
+        "Un sueño milagroso durante siglos",
+        "Ser engullido por la tierra",
+        "Ser salvado de una tormenta destructiva",
+        "Ser provisto de una mesa celestial"
+      ],
+      "answer": "Un sueño milagroso durante siglos"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

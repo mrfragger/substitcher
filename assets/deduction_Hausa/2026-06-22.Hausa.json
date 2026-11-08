@@ -1,0 +1,61 @@
+{
+  "title": "Muminin da ke Ɓoye",
+  "intro": "A cikin manyan dakunan iko, inda rashin imani da zalunci suka mamaye, wata murya ta gaskiya ta yi magana daga wani wuri da ba a zata ba. Wannan mutumin ya ƙalubalanci ikon kare manzo, yana mai kasadar tsaron kansa don yaɗa gaskiya.",
+  "clues": [
+    "Na zauna a ƙasar da ake mulkin kama-karya, ina bauta wa wani mai mulki wanda ya yi iƙirarin allahntaka.",
+    "Na ɓoye gaskiyan imanina tsawon shekaru da yawa, ina jin tsoron sakamakon bayyana su.",
+    "Lokacin da wani manzo ya zo da hujjoji bayyanannu, na yi imani, amma mutanena sun yi masa makirci.",
+    "Na tsaya a gaban azzalumi da majalisarsa, ina jayayya cewa bai kamata su kashe wani manzo marar laifi ba.",
+    "Na yi musu gargaɗi game da hukuncin al'ummomin da suka gabata waɗanda suka ƙi gaskiya, kamar mutanen Nuhu da Ada.",
+    "Allah ya cece ni daga mugun makircinsu, kuma na shaida halakar gwamnatin zalunci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Muminin Iyalan Fir'auna",
+        "Mai Sihiri na Fir'auna",
+        "Mai Kula da Fir'auna",
+        "Matar Fir'auna",
+        "Ma'ajin Fir'auna"
+      ],
+      "answer": "Muminin Iyalan Fir'auna"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Kare annabi daga kisa",
+        "Kalubalen dabarun mai sihiri",
+        "Gina hasumiya don isa sama",
+        "Raba teku don tsira",
+        "Fassara mafarkin sarki"
+      ],
+      "answer": "Kare annabi daga kisa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Kotun Fir'auna",
+        "Dajin da ke ƙonewa",
+        "Ɗan maraƙin zinariya",
+        "Rijiyar Madyan",
+        "Jirgin Annabi Nuhu"
+      ],
+      "answer": "Kotun Fir'auna"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An cece shi daga cutarwa yayin da aka halaka azzalumai",
+        "Ya zama mai iko mai iko",
+        "An jefa shi cikin wuta kuma ya fito ba tare da ya ji rauni ba",
+        "An haɗiye shi da ƙasa",
+        "Yawo a cikin jeji tsawon shekaru arba'in"
+      ],
+      "answer": "An cece shi daga cutarwa yayin da aka halaka azzalumai"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

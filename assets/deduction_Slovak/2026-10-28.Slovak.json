@@ -1,0 +1,61 @@
+{
+  "title": "Sľub vyslovený nad žeravým uhlím",
+  "intro": "Stojíte pri púštnom ohni, zatiaľ čo jeho uhlíky sa opatrne rozhadzujú. Návštevníci prichádzajú na stretnutie v tichu a jediná správa otvára príbeh plný prísľubu, prekvapenia a budúcnosti, ktorá sa ešte nenaplnila.",
+  "clues": [
+    "Prekročili sme vzdialenosť, aby sme sa dostali k vernému služobníkovi na púšti.",
+    "Požiadali sme, aby rozložili uhlíky na prípravu ohňa.",
+    "Hovorili sme s jedným, ktorý volal k plameňu, aby ho ochladil a zachránil.",
+    "Priniesli sme zvesť o novorodencovi niekomu, kto už prekročil vek, kedy by mohol mať deti.",
+    "Zasľúbenému dieťaťu sme dali meno Izák.",
+    "Priniesli sme Ibrahimovi radostnú zvesť o synovi a tá ohromujúca správa ho rozosmiala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Anjeli, ktorí priniesli Ibrahimovi radostnú zvesť o Izákovi",
+        "Anjeli, ktorí varovali Luta",
+        "Anjeli nesúci trón",
+        "Anjeli pekla",
+        "Anjeli poslaní k Noemovi"
+      ],
+      "answer": "Anjeli, ktorí priniesli Ibrahimovi radostnú zvesť o Izákovi"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Prinášanie radostnej správy o Izákovom narodení Ibrahimovi",
+        "Varovanie Luta pred trestom jeho ľudu",
+        "Oznámenie narodenia Yahyu Zakariyyovi",
+        "Nesenie trónu v deň súdu",
+        "Oznámenie narodenia Isy Maryam"
+      ],
+      "answer": "Prinášanie radostnej správy o Izákovom narodení Ibrahimovi"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Oheň pripravený z roztiahnutých uhlíkov",
+        "Archa plávajúca na povodňovej vode",
+        "Jaskyňa zapečatená valcom kameňa",
+        "Hora hliny stvrdnutá soľným roztokom",
+        "Rebrík siahajúci do neba"
+      ],
+      "answer": "Oheň pripravený z roztiahnutých uhlíkov"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Radostná správa o synovi menom Izák",
+        "Radostná správa o synovi menom Yahya",
+        "Výber Taluta za vládcu nad deťmi Izraela",
+        "Varovanie pred trestom Lutovho ľudu",
+        "Príkaz postaviť koráb pred potopou"
+      ],
+      "answer": "Radostná správa o synovi menom Izák"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

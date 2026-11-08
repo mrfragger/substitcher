@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaitukino o te Hunga Whiriwhiri",
+  "intro": "I roto i te hītori, i haereere ngā karere atua i waenganui i te tangata, ā, ko ētahi o te hunga tata ki a rātou kāore i kite i te māramatanga. E pā ana tēnei kōrero ki ngā wairua e rua, ko tō rāua tata ki te poropititanga i whakamātautau i a rāua, ā, ko tō rāua taonga tuku iho he akoranga mutunga kore.",
+  "clues": [
+    "I ora tātou i ngā wā o ngā poropiti nunui, heoi i katia tonu ō tātou kanohi ki te pono i kawea mai e rātou.",
+    "I ī tonu ō mātou kāinga i te whakakitenga mai o te rangi, engari i whakapakeketia ō mātou ngākau.",
+    "I moe māua ki ngā tāne i whiriwhiria hei whakatūpato i ō rātou iwi.",
+    "I te taenga mai o te whiu, kāore mātou i rapu piringa i roto i te āaka, kāore hoki i rere i te ua mura, nā te mea i tawai mātou ki ngā whakatūpato.",
+    "Kua whakahuatia tātou i roto i te Quran hei tauira mō te hunga whakateka, e whakaatu ana ahakoa te whanaungatanga tata ki te poropiti, kāore e whakaora.",
+    "Ko mātou ngā wāhine a Noa rāua ko Ruta, nā rāua rāua i tinihanga, ā, nā reira i whakataua ai rāua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā wāhine a Noa rāua ko Ruta",
+        "Ngā wāhine a Ibrahim rāua ko Ihimaera",
+        "Ngā wāhine a Mohi rāua ko Hārana",
+        "Ngā wāhine a Rawiri rāua ko Hurama",
+        "Ngā wāhine a Ayyub rāua ko Yunus"
+      ],
+      "answer": "Ngā wāhine a Noa rāua ko Ruta"
+    },
+    "trial": {
+      "label": "He aha te whakawakanga i mahia ki a rātou?",
+      "options": [
+        "I marena rātou ki ngā poropiti, engari kāore i whakapono",
+        "He pakoko rātou, ā, i whakapae rātou i ngā poropiti",
+        "He whai rawa rātou, he whakakake hoki",
+        "I whakamatautauria rātou e Iblis kia wehe atu i ō rātou kāinga",
+        "I karakia rātou ki te Kuao Kau Koura"
+      ],
+      "answer": "I marena rātou ki ngā poropiti, engari kāore i whakapono"
+    },
+    "location": {
+      "label": "I aha te hononga o tō rātou aituā?",
+      "options": [
+        "Te waipuke me te ua o ngā kōhatu",
+        "He hau kaha",
+        "He rū whenua",
+        "Te mate urutā o ngā mawhitiwhiti",
+        "Te wehenga o te moana"
+      ],
+      "answer": "Te waipuke me te ua o ngā kōhatu"
+    },
+    "outcome": {
+      "label": "He aha tō rātou mutunga?",
+      "options": [
+        "I mate tahi rātou me te hunga whakaponokore",
+        "I ripeneta rātou, ā, i whakaorangia",
+        "I mahue kore tamariki rātou",
+        "I peia atu rātou ake ake",
+        "I hurihia rātou hei makimaki me hei poaka"
+      ],
+      "answer": "I mate tahi rātou me te hunga whakaponokore"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

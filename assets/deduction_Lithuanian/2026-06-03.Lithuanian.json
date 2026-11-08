@@ -1,0 +1,61 @@
+{
+  "title": "Tauta, metusi iššūkį Šventiesiems Namams",
+  "intro": "Senovėje galinga tauta nusprendė pulti tikinčiųjų gerbiamą šventovę. Ši grupė buvo turtinga, galinga ir pasitikinti savo karine jėga. Jie atsivežė didžiulį padarą, kuris turėjo būti jų karo ginklas. Jų tikslas buvo aiškus: nugriauti šventus namus ir sutriuškinti jų žmonių tikėjimą. Tačiau jų arogancija netrukus sulauks niokojančio atsako iš viršaus. Šis istorinis įvykis tapo ženklu ir pamoka visiems, kurie gyvens vėliau. Ar galite atpažinti šią grupę pagal užuominas?",
+  "clues": [
+    "Buvome tauta, apdovanota turtais ir karine galia.",
+    "Surinkome savo pajėgas ir atsivežėme didžiulį žvėrį, kurį panaudosime savo kampanijoje.",
+    "Mūsų taikinys buvo šventovė, kurią norėjome visiškai sunaikinti.",
+    "Tikėjome, kad mūsų jėgų pakaks įveikti bet kokią dieviškąją apsaugą.",
+    "Bet Viešpats mums iš dangaus atsiuntė bausmę, kurios nesitikėjome.",
+    "Buvome akimirksniu sunaikinti, išsklaidyti lyg sulaužyti šiaudai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Dramblio žmonės",
+        "Tamudo žmonės",
+        "„Ad“ žmonės",
+        "Olos palydovai",
+        "Pranašo Hudo tauta"
+      ],
+      "answer": "Dramblio žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Dramblio žygis link šventųjų namų, siekiant juos sunaikinti",
+        "Statyti bokštą, kad pasiektum dangų",
+        "Auksinio stabo statymas garbinimui",
+        "Atsisakymas klausyti Alacho pasiuntinio",
+        "Kasti šulinį, kad pakenktų tikintiesiems"
+      ],
+      "answer": "Dramblio žygis link šventųjų namų, siekiant juos sunaikinti"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Dramblys",
+        "Auksinis veršelis",
+        "Musos personalas",
+        "Junuso žuvis",
+        "Dawudo geležis"
+      ],
+      "answer": "Dramblys"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Juos sunaikino paukščių pulkai su akmenimis",
+        "Jie nuskendo dideliame potvynyje",
+        "Jie buvo paversti beždžionėmis ir kiaulėmis",
+        "Jie buvo palaidoti po nuo kalno krintančiais akmenimis",
+        "Juos sudegino ugnis iš dangaus"
+      ],
+      "answer": "Juos sunaikino paukščių pulkai su akmenimis"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

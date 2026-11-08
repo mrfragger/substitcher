@@ -1,0 +1,61 @@
+{
+  "title": "melodija planina u sumrak",
+  "intro": "Slušajte kako doline odjekuju hvalom uz odabranog Allahovog slugu. Glas obdaren melodijom, sud koji traže oni koji se raspravljaju u odaji i metal omekšan božanskom naredbom čekaju otkriće. Koja figura obožavanja i pravedne vladavine govori kroz ove znakove?",
+  "clues": [
+    "Allah me je blagoslovio obiljem i melodičnim glasom hvale.",
+    "Allah me je naučio da razumijem jezik pravednog suda između strana u sporu.",
+    "Suočio sam se u bici s moćnim divovskim ratnikom i Allahovom voljom sam ih pobijedio.",
+    "Od Allaha mi je data mudrost, autoritet i objavljeni spis sastavljen od psalama.",
+    "Planine i ptice su mi se pridružile u slavljenju Allaha sa mnom uveče i pri izlasku sunca.",
+    "Allah me je naučio da pravim oklope od željeza koje je za mene omekšano."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Davud (David)",
+        "Poslanik Ismail (Išmael)",
+        "Poslanik Jahja (Ivan)",
+        "Zul-kifl",
+        "Poslanik Al-Yasa (Eliša)"
+      ],
+      "answer": "Poslanik Davud (David)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Pobijedio Jaluta (Golijata) u bici Allahovom voljom",
+        "Izgradio je Arku da preživi veliki potop",
+        "Bačen je u vatru koju je Allah ohladio",
+        "Progutala ga je velika riba u moru",
+        "Uzdignut je na nebesa bez okusa smrti"
+      ],
+      "answer": "Pobijedio Jaluta (Golijata) u bici Allahovom voljom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Planine i ptice se udružuju u hvali Allaha",
+        "Štap koji se pretvorio u zmiju",
+        "Vatra koja je postala hladna i mirna",
+        "Kamila poslana kao znak ljudima",
+        "Drveni kovčeg koji počiva na gori Judi"
+      ],
+      "answer": "Planine i ptice se udružuju u hvali Allaha"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Dodijeljeno mu je kraljevstvo, mudrost i Zabur (Psalmi)",
+        "Dobio sina u starosti nakon usrdne molitve",
+        "Zagarantovana sigurnost u pećini dugi niz godina",
+        "Darovan izvor Zemzama u pustinji",
+        "Dozvoljeno utapanje vojske u moru"
+      ],
+      "answer": "Dodijeljeno mu je kraljevstvo, mudrost i Zabur (Psalmi)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

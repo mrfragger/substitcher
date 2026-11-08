@@ -1,0 +1,61 @@
+{
+  "title": "Donolik ovozi",
+  "intro": "Bir vaqtlar donolikning muloyim ovozi vaqt chegaralaridan tashqaridagi maslahatlarni baham ko'rgan. Chuqur tushunchaga ega bo'lgan bu shaxs yo'l-yo'riq izlayotgan barcha uchun mayoq bo'lib qoladigan bebaho saboqlarni yetkazdi. Ushbu abadiy so'zlar ortidagi o'ziga xoslikni ochib bera olasizmi?",
+  "clues": [
+    "Menga Allohning chuqur ne'mati, qalbim va ongimni yorituvchi sovg'a berildi.",
+    "Men o'zimdagi eng qimmatli xazinani baham ko'rishni istab, sevimli bolamga murojaat qildim.",
+    "Men eng katta adolatsizlik yagona haqiqiy Xudoga sherik qo'shish ekanligi haqida ogohlantirdim.",
+    "Men hatto tosh ichida yoki osmon ortida yashiringan xantal urug'i og'irligi ham Alloh tomonidan hisob-kitob qilinishini eslatdim.",
+    "Men ota-onaga itoat qilishni buyurdim, garchi itoat faqat solihlik masalalarida bo'lsa ham.",
+    "Men oddiy odob-axloq qoidalarini o'rgatdim: yer yuzida kamtarlik bilan yuring va ovozingizni past tuting, chunki eng yomon ovoz eshaklarning ingrashidir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Luqmon",
+        "Al-Xizr",
+        "Payg'ambar Sulaymon",
+        "Zulqarnayn",
+        "Uzair"
+      ],
+      "answer": "Luqmon"
+    },
+    "trial": {
+      "label": "Sinov / Tadbir",
+      "options": [
+        "Farzandiga chuqur maslahatlar berib",
+        "Katta to'fondan omon qolish uchun kema qurish",
+        "Og'ir kasallikka sabr bilan dosh berish",
+        "Yerning chekkalariga sayohat",
+        "Tog'da ilohiy lavhalarni olish"
+      ],
+      "answer": "Farzandiga chuqur maslahatlar berib"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "O'g'liga bergan nasihati",
+        "Yonayotgan buta",
+        "Musoning tayoqlari",
+        "Oltin buzoq",
+        "Temir darvozalar"
+      ],
+      "answer": "O'g'liga bergan nasihati"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Uning maslahatlari ilohiy yozuvlarda abadiylashtirilgan",
+        "Unga payg'ambarlik va yangi qonun berildi",
+        "U ulkan saltanat ustidan qudratli hukmdorga aylandi",
+        "U o'limsiz osmonga ko'tarildi",
+        "U farishtadan to'g'ridan-to'g'ri vahiy oldi"
+      ],
+      "answer": "Uning maslahatlari ilohiy yozuvlarda abadiylashtirilgan"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

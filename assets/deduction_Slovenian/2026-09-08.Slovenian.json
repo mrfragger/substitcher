@@ -1,0 +1,61 @@
+{
+  "title": "Preizkušnja svetega plamena",
+  "intro": "V starodavni deželi, kjer je bila predanost klesanemu kamnu ukoreninjena v vsakem domu, je en posameznik izstopal. Z neomajnim prepričanjem in božjo zaščito se je soočil s tem, kar bi morala biti gotova smrt – in odšel nepoškodovan. Ali lahko odkrijete identiteto te izjemne duše?",
+  "clues": [
+    "Odraščal sem med ljudmi, ki so se klanjali idolom, ki so jih izrezljali z lastnimi rokami, saj so verjeli, da imajo ti predmeti božansko moč.",
+    "Ko sem izpodbijal njihova prepričanja, so me sprva zavračali, vendar nisem mogel molčati o resnici, ki sem jo poznal.",
+    "Nekega dne, ko so jih zbrali, sem uničil njihove malike in pustil nedotaknjenega le največjega.",
+    "Ko so se vrnili in videli, kaj sem storil, so njihovi voditelji ukazali sežigati veliko grmado, da bi me sežgali v plamenih.",
+    "Vrgli so me v plameneči ogenj, toda Gospodar svetov je ukazal, naj se ohladi in postane varen zame.",
+    "Iz plamenov sem prišel popolnoma nepoškodovan, medtem ko so tisti, ki so kovali zaroto proti meni, čakali popolni propad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Ibrahim",
+        "Prerok Musa",
+        "Prerok Nuh",
+        "Prerok Isa",
+        "Prerok Jusuf"
+      ],
+      "answer": "Prerok Ibrahim"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Biti vržen v plameneči ogenj",
+        "Biti pogoltnjen s strani velikega kita",
+        "Preživetje velike poplave",
+        "Biti vržen v globok vodnjak",
+        "Soočenje s kraljevimi čarovniki"
+      ],
+      "answer": "Biti vržen v plameneči ogenj"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ogromna grmada gorečega lesa",
+        "Velika lesena barka",
+        "Kip zlatega teleta",
+        "Plavajoča košara na reki",
+        "Veličasten prestol"
+      ],
+      "answer": "Ogromna grmada gorečega lesa"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Allah je ogenj naredil hladen in varen",
+        "Barka je varno pristala na gori",
+        "Zlati idol se je stopil pred njihovimi očmi",
+        "Tiran in njegova vojska sta se utopila v morju",
+        "Slepemu moškemu se je povrnil vid"
+      ],
+      "answer": "Allah je ogenj naredil hladen in varen"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

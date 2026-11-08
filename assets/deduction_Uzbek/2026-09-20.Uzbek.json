@@ -1,0 +1,61 @@
+{
+  "title": "Zolim saroyidagi niqobli mo'min",
+  "intro": "Qur'onda ma'lum bo'lgan eng mag'rur hukmdorning zarhal zallarida - Ilohiy buyruqlarga bo'ysunmaslik har bir farmonni belgilab bergan joyda - bir jon imtiyozli odamlar orasida yurar, eng xavfli sirlarni ko'z oldida yashirar edi. Bu shaxs shu devorlar ichida shunchalik taqiqlangan e'tiqodga ega ediki, uning kashf etilishi aniq o'limga olib kelardi. Shunga qaramay, ishonch kul ostida alanga kabi yondi va vaqt kelganda, haqiqat zolim saroyining poydevorini larzaga keltiradigan jasorat bilan yangradi.",
+  "clues": [
+    "Men o'z davrimning eng qudratli va mag'rur hukmdorining ichki doirasi orasida, hashamat va ta'sir bilan o'ralgan holda yashardim.",
+    "Men shafqatsizlik va zulm bilan hukmronlik qilayotganlardan jonim uchun qo'rqib, chinakam e'tiqodimni qalbimning tubiga yashirdim.",
+    "Qavmim haqiqat oldida shubhalanib, ikkilanib turganda, men ularni Parvardigorlarining elchilarini rad etgan o'tmishdagi xalqlarning boshiga tushgan fojiali taqdir haqida ogohlantirish uchun oldinga qadam tashladim.",
+    "Men xalqimga o'z qarindoshlari tomonidan tashlab ketilgan, ammo uzoq yurtda buyuk obro'ga ega bo'lgan sevimli yosh xayolparastning hikoyasini eslatdim.",
+    "Men qavmimni ularni yo'ldan ozdirgan hukmdorga itoat qilmaslikka chaqirdim, buning o'rniga ularni menga to'g'ri yo'l va hidoyat yo'lidan ergashishga chaqirdim.",
+    "Zolimning izdoshlari meni toshbo'ron qilish yoki yurtdan quvib chiqarish bilan tahdid qilishganiga qaramay, men ochiqchasiga haqiqatni aytdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avn oilasidan yashirin mo'min",
+        "O'g'li qaytib kelguncha ko'r bo'lib yig'lagan sabrli patriarx",
+        "Teri kasalligi oxir-oqibat tuzalib ketgan sodiq xizmatkor",
+        "Payg'ambarning kemaga chiqish taklifini rad etgan gunohkor o'g'il",
+        "O'zini ilohiy deb da'vo qilgan shafqatsiz zolim"
+      ],
+      "answer": "Fir'avn oilasidan yashirin mo'min"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Zolimning saroyida iymonni yashirish",
+        "Yillar davomida yig'lab, ko'rlikdan azob chekmoqda",
+        "Oilasini yo'qotish va og'ir azob-uqubatlar bilan sinovdan o'tish",
+        "Masxara qilinayotgan bir paytda ajoyib kema qurish",
+        "Katta olovning jazirama issiqligiga chidash"
+      ],
+      "answer": "Zolimning saroyida iymonni yashirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Fir'avn saroyi",
+        "Kema qurilgan tog 'cho'qqisi",
+        "Sinay tog'i ostidagi muqaddas vodiy",
+        "Ikkita oqimli daryosi bo'lgan ajoyib bog'",
+        "Yer osti daryosi ustidagi billur taxt"
+      ],
+      "answer": "Fir'avn saroyi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Zolimlar halokatga duch kelganlarida ilohiy himoya",
+        "O'nlab yillar davomida ajralishdan keyin oilasi bilan yana birlashdi",
+        "Sabr-toqat berildi, sog'lig'i tiklandi va katta oila qurildi",
+        "Dunyoning qolgan qismi cho'kib ketgan paytda qayiqda qutqarildi",
+        "Allohning amri bilan olovdan sog'-salomat qutqarildi"
+      ],
+      "answer": "Zolimlar halokatga duch kelganlarida ilohiy himoya"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

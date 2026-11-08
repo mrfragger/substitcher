@@ -1,0 +1,61 @@
+{
+  "title": "Mashahidi Waaminifu",
+  "intro": "Hebu fikiria wakati ambapo imani ilijaribiwa kwa moto, na imani isiyoyumba ikawa uasi wa mwisho. Umepewa jukumu la kufichua utambulisho wa kundi ambalo hadithi yake inasimuliwa katika Quran, simulizi la imani kubwa dhidi ya udhalimu mkubwa. Fumbua vidokezo ili kugundua roho hizi zilikuwa nani, na hali za ajabu walizokabiliana nazo.",
+  "clues": [
+    "Tulisimama imara katika imani yetu, licha ya shinikizo kubwa la kukataa imani yetu.",
+    "Tulilengwa na mtawala mwenye nguvu aliyetaka kuzima mwanga wa Mungu mmoja.",
+    "Tulishuhudia ishara na miujiza mikubwa, lakini wakandamizaji wetu walibaki bila kujali.",
+    "Tulivumilia njia mbaya ya mateso iliyokusudiwa kuwatisha wengine ili wajisalimishe.",
+    "Tulitupwa kwenye moto mkali, lakini uthabiti wetu ulitupatia cheo cha juu mbele ya Mwenyezi Mungu.",
+    "Hadithi yetu inasimuliwa katika Surah iliyopewa jina la makundi ya nyota ya mbinguni, ikionya kuhusu hatima ya wale wanaowatesa waumini."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Watu wa Thamud",
+        "Watu wa 'Ad",
+        "Watu wa Shimoni",
+        "Watu wa Midiani",
+        "Watu wa Tembo"
+      ],
+      "answer": "Watu wa Shimoni"
+    },
+    "trial": {
+      "label": "Mateso Yetu",
+      "options": [
+        "Kuzama katika mafuriko",
+        "Kumezwa na upepo mkali",
+        "Kutupwa kwenye mtaro wa moto",
+        "Kumezwa na ardhi",
+        "Kubadilishwa kuwa nyani"
+      ],
+      "answer": "Kutupwa kwenye mtaro wa moto"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mafuriko makubwa",
+        "Tetemeko kubwa la ardhi",
+        "Mtaro mzito, unaowaka moto",
+        "Sanamu yenye nguvu",
+        "Ukame mbaya sana"
+      ],
+      "answer": "Mtaro mzito, unaowaka moto"
+    },
+    "outcome": {
+      "label": "Hatima Yetu ya Mwisho",
+      "options": [
+        "Walipewa ufalme duniani.",
+        "Waliokolewa kwa kutoroka kimiujiza.",
+        "Walipata kifo cha kishahidi na thawabu ya milele.",
+        "Walibadilishwa kuwa aina tofauti.",
+        "Walipewa utajiri na ustawi mwingi."
+      ],
+      "answer": "Walipata kifo cha kishahidi na thawabu ya milele."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

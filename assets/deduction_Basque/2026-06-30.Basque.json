@@ -1,0 +1,61 @@
+{
+  "title": "Autoritatea zalantzan jarri zuen arima preziatua",
+  "intro": "Koranaren analetan, aberastasuna eta ezagutza legendario bihurtu ziren pertsonaia bat bizi izan zen. Arima hau lurretik atera zen ikusleak liluratu zituzten apaingarri eta aberastasunekin, baina haren bihotza harroputz bihurtu zen. Batu zaitez gurekin Koranaren ipuin aleccionagarrienetako baten misterioa argitzen dugun bitartean, non handitasun materialak amaiera apal bat aurkitzen duen haien fortuna sortu zuen lur azpian.",
+  "clues": [
+    "Lurretik atera nintzen denen begiradak erakarri zituzten apaingarriekin apainduta.",
+    "Aberastasun handiak eta ezagutza sakonak nituen, besteengandik bereizten nindutenak.",
+    "Mezulari bat jendeari Ala-rengana deituz etorri zenean, harrotasunez zalantzan jarri nuen haien autoritatea.",
+    "Ingurukoek xuxurlatu zuten Alaren faborea ez zela nire aberastasunaren iturria.",
+    "Nire herriak nire handitasunaz harrituta zegoen eta nirearen antzeko patua nahi zuen.",
+    "Nire egitura bikainak lurrak osorik irentsi zituen jainkozko zigor gisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Shu'aib profeta",
+        "Qarun (Korah)",
+        "Musa profetaren lagun aberatsa",
+        "Bal'am ibn Ba'ura",
+        "Zul-Qarnainen ministroa"
+      ],
+      "answer": "Qarun (Korah)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Urrezko zekorra eraikitzea gurtzarako",
+        "Profeta baten autoritatea harrokeriaz zalantzan jartzea",
+        "Goseteak jotako nazio batetik aberastasuna pilatzea",
+        "Jakintsuekin ezagutza partekatzeari uko egitea",
+        "Profeta bati berpizkundearen froga bisuala eskatzea"
+      ],
+      "answer": "Profeta baten autoritatea harrokeriaz zalantzan jartzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Midian hiria.",
+        "Itsasoan murgildutako jauregiak",
+        "Apaingarriak eta altxorrak",
+        "Sinai mendiko sasi erretzailea",
+        "Antzinako Egiptoko hareazko lautadak"
+      ],
+      "answer": "Apaingarriak eta altxorrak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Gatz zutabe bihurtuta",
+        "Itsasora botata, trumoi eta olatuen artean",
+        "Lurrak irentsi du ondasun guztiekin",
+        "Zeruraino bizirik altxatua seinale gisa",
+        "Lurrak irentsi du damu iraunkor batekin"
+      ],
+      "answer": "Lurrak irentsi du ondasun guztiekin"
+    }
+  },
+  "verseRef": "29:39",
+  "arabic": "وَقَـٰرُونَ وَفِرْعَوْنَ وَهَـٰمَـٰنَ ۖ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَـٰبِقِينَ",
+  "verse": "And [We destroyed] Qārūn and Pharaoh and Hāmān. And Moses had already come to them with clear evidences, and they were arrogant in the land, but they were not outrunners [of Our punishment]. (29:39)"
+}

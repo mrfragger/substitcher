@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Natago nga Tigpaminaw nga Nagtuo",
+  "intro": "Sa kahilom sa usa ka sagrado nga panagtigom, usa ka talagsaong panagtigom ang miabot gikan sa usa ka dili makita nga gingharian. Nadani sa mga hunghong sa usa ka butang nga katingalahan, naminaw sila sa pagsaysay nga magsilyo sa ilang kapalaran hangtod sa hangtod. Ang ilang pagpamatuod nagpabilin nga usa sa labing talagsaon sa balaang kasulatan.",
+  "clues": [
+    "Kita mga binuhat gikan sa usa ka gingharian nga wala makita sa kadaghanan, ug kita mianhi isip usa ka grupo.",
+    "Mibiyahe mi padulong sa usa ka panagtapok aron makadungog og usa ka butang nga talagsaon.",
+    "Pag-abot namo, naminaw mi og recitation nga nakapahingangha namo.",
+    "Among giangkon sa dayag nga ang uban kanamo matarong ug ang uban dili.",
+    "Nasayod kami nga dili kami makalikay sa balaang mando dinhi sa yuta, ni pinaagi sa paglupad paingon sa langit.",
+    "Sa dihang among nadungog ang giya, kami mituo niini; bisan kinsa nga mituo sa ilang Ginoo dili mahadlok sa kapildihan o palas-anon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Usa ka grupo sa mga Jinn",
+        "Ang mga tawo sa Iram",
+        "Ang mga Tawo sa Tubba'",
+        "Ang Imperyong Romano",
+        "Ang Tribo sa Quraysh"
+      ],
+      "answer": "Usa ka grupo sa mga Jinn"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagpamati sa sagrado nga pag-awit",
+        "Pagtukod og mga habog nga haligi sa atong siyudad",
+        "Pagpangayam og usa ka talagsaong bayeng kamelyo",
+        "Gilaglag tungod sa pagpatay sa atong mga propeta",
+        "Pagpadaghan sa bahandi nga labaw sa masukod"
+      ],
+      "answer": "Pagpamati sa sagrado nga pag-awit"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka panagtigom sa sagradong pagsaysay",
+        "Usa ka siyudad sa mga habog nga haligi (Iram)",
+        "Usa ka atabay sa disyerto",
+        "Usa ka dakong palasyo nga bulawan",
+        "Usa ka sagrado nga langob sa kabukiran"
+      ],
+      "answer": "Usa ka panagtigom sa sagradong pagsaysay"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nagtuo ug nagpasidaan kami sa among katawhan",
+        "Gilaglag sa kusog nga pagbuto gikan sa langit",
+        "Gisilotan sa usa ka nagdilaab ug makadaot nga hangin",
+        "Gihatagan og dakong bahandi ug gahom",
+        "Nagpabilin nga lig-on sa kawalay pagtuo"
+      ],
+      "answer": "Nagtuo ug nagpasidaan kami sa among katawhan"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

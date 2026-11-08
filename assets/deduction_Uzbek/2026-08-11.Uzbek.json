@@ -1,0 +1,61 @@
+{
+  "title": "Bachadonning qasamyodi",
+  "intro": "Ilohiylikka bag'ishlangan qalbning jim xonalarida muqaddas qasamyod tug'ildi. Bu qasam hali nafas olmagan hayotga qaratilgan edi va uning bajarilishi ma'naviy meros yo'nalishini abadiy o'zgartiradi. Va'dasi abadiyatda aks-sado bergan qalbning siriga qadam qo'ying.",
+  "clues": [
+    "Men taqvodorligi bilan mashhur bo'lgan xonadonda yashardim va meni Allohga yaqinlashtiradigan sovg'ani orzu qilardim.",
+    "Men ichimda yashiringan narsalar haqida Rabbim bilan tantanali ahd tuzdim va uni to'liq Unga xizmat qilishga bag'ishlashga qasam ichdim.",
+    "Ochilish vaqti kelganida, men kutilmagan narsaga duch keldim, lekin men bu ishni Hamma narsani biluvchi Zotga ishonib topshirdim.",
+    "Men farzandimga sadoqatni anglatuvchi ism qo'ydim va uni va uning avlodlarini la'natlangan ismdan himoya qilishini iltijo qildim.",
+    "Farzandim Horun avlodidan bo'lgan payg'ambarning qaramog'ida, muqaddas maskanga joylashtirildi.",
+    "Qizim o'zining pokligi bilan mashhur bo'ldi va barcha ayollardan ustun keldi, keyinchalik buyuk payg'ambarning onasi bo'ldi, garchi unga tegilmagan bo'lsa ham."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Imronning xotini",
+        "Musoning onasi",
+        "Fir'avnning xotini",
+        "Al-Azizning xotini",
+        "Isoning onasi"
+      ],
+      "answer": "Imronning xotini"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Tug'ilmagan bolasini ma'badga bag'ishlashga qasamyod qildi",
+        "Uzoq davom etgan kasallik orqali sabr-toqat sinovi",
+        "Imon uchun uzoq yurtga sayohat",
+        "Zolim shoh bilan to'qnashuv",
+        "Osmondan mo''jizaviy ravishda oziq-ovqat yetkazib berish"
+      ],
+      "answer": "Tug'ilmagan bolasini ma'badga bag'ishlashga qasamyod qildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Maryam ismli bola",
+        "Ilonga aylangan tayoq",
+        "Oltin buzoq",
+        "Zamzam qudug'i",
+        "Nuhning kemasi"
+      ],
+      "answer": "Maryam ismli bola"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Uning farzandi Alloh tomonidan qabul qilindi va payg'ambarning qaramog'ida ulg'aydi.",
+        "Uning bolasi payg'ambar bo'ldi va Muqaddas Kitobni oldi",
+        "Uning bolasi osmonga ko'tarildi",
+        "Uning bolasi muqaddas uy qurdi",
+        "Uning bolasiga ulkan donolik va boylik berildi"
+      ],
+      "answer": "Uning farzandi Alloh tomonidan qabul qilindi va payg'ambarning qaramog'ida ulg'aydi."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

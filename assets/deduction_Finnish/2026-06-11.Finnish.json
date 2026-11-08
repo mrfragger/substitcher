@@ -1,0 +1,61 @@
+{
+  "title": "Kylä koetuksen rannalla",
+  "intro": "Olet rannikkokylässä, jossa aaltojen äänet sekoittuvat unohdetun kansan kuiskauksiin. Heille annettiin käsky levätä, mutta heidän ahneutensa johti rangaistukseen, josta puhutaan edelleen vaimeasti. Voitko paljastaa, keitä he olivat?",
+  "clues": [
+    "Me asuimme rannalla ja meille annettiin käsky viettää lepopäivää.",
+    "Sinä päivänä kalaa tuli meille runsaasti, mutta meitä kiellettiin ottamasta sitä.",
+    "Jotkut meistä varoittivat rikkomuksesta, mutta toiset juonittelivat joka tapauksessa kalastamista.",
+    "Rikkoimme pyhää käskyä ja aiheutimme itsellemme ankaran rangaistuksen.",
+    "Rangaistuksemme oli muodonmuutos, joka jätti meidät rumentuneiksi ja häpeään joutuneiksi.",
+    "Meidät muutettiin apinoiksi, merkiksi kaikille tuleville."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Sapatin ihmiset",
+        "Thamudin kansa",
+        "'Ad:n ihmiset",
+        "Luolan ihmiset",
+        "Norsun kansa"
+      ],
+      "answer": "Sapatin ihmiset"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kalastus sapattina",
+        "Kultaisen vasikan palvonta",
+        "Hudin sanoman kieltäminen",
+        "Naaraskamelin tappaminen",
+        "Taivaaseen johtavan tornin rakentaminen"
+      ],
+      "answer": "Kalastus sapattina"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kala",
+        "Naaraskameli",
+        "Henkilökunta",
+        "Vene",
+        "Puutarha"
+      ],
+      "answer": "Kala"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Muuttuivat apinoiksi",
+        "Tulvan tuhoama",
+        "Tuhoutui liekehtivässä tulipalossa",
+        "Maan nielaisema",
+        "Tuulen hajottamana"
+      ],
+      "answer": "Muuttuivat apinoiksi"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

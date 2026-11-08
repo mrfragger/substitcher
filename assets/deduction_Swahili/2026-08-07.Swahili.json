@@ -1,0 +1,61 @@
+{
+  "title": "Imani Nyuma ya Kiti cha Enzi",
+  "intro": "Baadhi ya roho hujaribiwa si kwa moto au mafuriko, bali kwa shinikizo la polepole la kuishi ndani ya jumba la mtawala dhalimu. Mtu huyu alisimama kando ya mtawala aliyedai uungu juu ya watu wake, lakini kwa siri alishikilia imani katika Mungu Mmoja wa Kweli. Ujitoaji wao ulipogunduliwa, mateso yalikuja - lakini pia ahadi ya Mungu. Je, unaweza kukisia huyu ni nani?",
+  "clues": [
+    "Niliishi chini ya paa la mtawala mwenye nguvu zaidi katika nchi yangu, katika hali ambayo wachache wangeweza kufikiria.",
+    "Mwenzi wangu alisimama mbele ya watu na kujitangaza kuwa mungu — lakini moyo wangu ulikuwa wa Bwana Mmoja wa Kweli.",
+    "Nilinong'ona maombi kwa siri, nikiogopa adhabu ambayo ingekuwa kwa wote waliomkataa mwenzi wangu.",
+    "Imani yangu ilipofichuliwa, nilikamatwa na kuteswa — lakini ulimi wangu haukutamka kamwe neno la kutoamini.",
+    "Nilimmiminia Mola wangu moyo wangu wote, nikiomba nyumba huko Peponi, mbali na maovu yote.",
+    "Mimi ni Asiya bint Muzahim — mke wa Farao aliyempinga Musa na Harun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Asiya binti Muzahim (Mke wa Firauni)",
+        "Hawwa (Hawa), mwanamke wa kwanza",
+        "Sara, mke wa kwanza wa Ibrahim",
+        "Hajiri, mama yake Ismaili",
+        "Mama yake Maryam (mke wa Imran)"
+      ],
+      "answer": "Asiya binti Muzahim (Mke wa Firauni)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuvumilia mateso kwa kukataa kukana imani",
+        "Kuishi ndani ya tumbo la samaki mkubwa",
+        "Kujenga safina kubwa ili kuepuka mafuriko",
+        "Kutupwa kwenye moto unaowaka",
+        "Kushuhudia mgawanyiko wa bahari kubwa"
+      ],
+      "answer": "Kuvumilia mateso kwa kukataa kukana imani"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Nyumba iliyojengwa kwa ajili yao huko Paradiso",
+        "Fimbo iliyobadilika na kuwa nyoka",
+        "Safina iliyobeba jozi za kila kiumbe",
+        "Ndama wa dhahabu anayeabudiwa na taifa",
+        "Teo lililotumika kumshinda shujaa mkubwa"
+      ],
+      "answer": "Nyumba iliyojengwa kwa ajili yao huko Paradiso"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuheshimiwa kwa kukaa Paradiso pamoja na wenye haki",
+        "Walizama chini ya mawimbi pamoja na jeshi lao",
+        "Alichomwa moto lakini aliokolewa na Mungu kuingilia kati",
+        "Alimezwa na kiumbe mkubwa kisha akatupwa ufukweni",
+        "Akawa mtu tajiri zaidi wa wakati wao"
+      ],
+      "answer": "Kuheshimiwa kwa kukaa Paradiso pamoja na wenye haki"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

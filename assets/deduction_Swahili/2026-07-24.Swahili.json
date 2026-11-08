@@ -1,0 +1,61 @@
+{
+  "title": "Mpangaji Aliyefunikwa",
+  "intro": "Unajikuta mbele ya mtu mwenye nguvu kutoka siku za ufunuo. Mtu huyu alijulikana kwa akili yake, utajiri, na hadhi yake miongoni mwa watu wake. Ishara zilizo wazi zilipokuja, walitambua uzuri lakini walichagua ukaidi badala ya utii. Ni nini kilichoisukuma roho hii kupanga njama gizani, na hatima yao ya mwisho ilikuwa nini?",
+  "clues": [
+    "Nilibarikiwa na rasilimali nyingi na ushawishi, na kufanya neno langu liwe zito katika makusanyiko.",
+    "Maneno ya Mungu yaliposomwa, sikuweza kukataa ufasaha wao, lakini kiburi changu hakikuniruhusu kunyenyekea.",
+    "Niliwakusanya washauri wangu, nikijitenga ili kutafakari njia ya kudharau ujumbe huo.",
+    "Baada ya kufikiria sana, nilitangaza kuwa ni 'uchawi uliorithiwa kutoka zamani' ili kuwageuza watu waache.",
+    "Kisha ufunuo huo ulinijia moja kwa moja: ‘Niache na yule niliyemuumba peke yangu.’ Nilichaguliwa kwa ajili ya njama zangu.",
+    "Hivi karibuni, moto uleule nilioonywa utanishika kwa kifundo cha mguu, nami sitakuwa na njia ya kutoroka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Walipanga njama ya kumuua Mtume",
+        "Aliongoza mgomo dhidi ya Waislamu",
+        "Walikusanya baraza ili kuiita Quran kama uchawi",
+        "Walipanga kumfukuza Mtume kutoka Makka",
+        "Alikataa kushiriki utajiri wake na mayatima"
+      ],
+      "answer": "Walikusanya baraza ili kuiita Quran kama uchawi"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ufunuo",
+        "Baraza",
+        "Kifuli cha Mbele",
+        "Utajiri",
+        "Kalamu"
+      ],
+      "answer": "Kifuli cha Mbele"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alitubu na kusilimu",
+        "Alihamia Abyssinia",
+        "Alipigwa na ugonjwa mbaya",
+        "Alikufa katika vita dhidi ya Waislamu",
+        "Alihukumiwa kwenda motoni"
+      ],
+      "answer": "Alihukumiwa kwenda motoni"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

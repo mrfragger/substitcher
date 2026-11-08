@@ -1,0 +1,61 @@
+{
+  "title": "Trpezlivá duša",
+  "intro": "V análoch proroctva existovala duša, ktorej trpezlivosť bola vrytá do samotnej štruktúry ich bytia. Cez slzy a čas sa pevne držala nádeje a stala sa nadčasovým príkladom dôvery v božskú múdrosť. Dokážeš rozlúštiť tajomstvo tejto neochvejnej postavy?",
+  "clues": [
+    "Narodil som sa do rodiny prorokov, no najväčšou skúškou pre mňa bolo dieťa, ktoré som najviac miloval.",
+    "Dostala som varovanie pred žiarlivosťou zo sna, ktorý sa mi sníval môj syn, a bála som sa o jeho bezpečnosť.",
+    "Moje oči zbeleli od smútku, no nikdy som nestratil vieru v Alahovo milosrdenstvo.",
+    "Vôňa môjho strateného dieťaťa ku mne doľahla z diaľky a vtedy som vedela, že stretnutie je blízko.",
+    "Moja rodina sa vďačne uklonila, keď sa naplnilo dávne videnie a môj zrak sa obnovil.",
+    "Ja som ten, komu darovali krvou zafarbenú košeľu, len aby som neskôr dostal košeľu, ktorá mi uzdravila zrak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Ibrahim",
+        "Prorok Izák",
+        "Prorok Jakub",
+        "Prorok Júsuf",
+        "Prorok Ayyub"
+      ],
+      "answer": "Prorok Jakub"
+    },
+    "trial": {
+      "label": "Rozhodujúci súdny proces",
+      "options": [
+        "Odlúčenie od milovaného dieťaťa a strata zraku",
+        "Byť uvrhnutý do planúceho ohňa",
+        "Byť prehltnutý veľkou rybou",
+        "Znášanie straty bohatstva, detí a zdravia",
+        "Zradený bratmi a hodený do studne"
+      ],
+      "answer": "Odlúčenie od milovaného dieťaťa a strata zraku"
+    },
+    "location": {
+      "label": "Symbolický objekt",
+      "options": [
+        "Tričko, ktoré najprv skrylo pravdu a potom ju odhalilo",
+        "Palica, ktorá sa premenila na hada",
+        "Veľryba, ktorá prehltla proroka",
+        "Oheň, ktorý vychladol",
+        "Pár sandálov pri horiacom kríku"
+      ],
+      "answer": "Tričko, ktoré najprv skrylo pravdu a potom ju odhalilo"
+    },
+    "outcome": {
+      "label": "Božské predsavzatie",
+      "options": [
+        "Stretnutie so stratenou milovanou osobou a obnovenie zraku",
+        "Záchrana pred národom útlaku",
+        "Vyslobodenie z brucha ryby",
+        "Záchrana z planúceho ohňa",
+        "Nanebovstúpenie na veľký trón"
+      ],
+      "answer": "Stretnutie so stratenou milovanou osobou a obnovenie zraku"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

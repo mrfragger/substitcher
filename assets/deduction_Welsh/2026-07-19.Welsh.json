@@ -1,0 +1,61 @@
+{
+  "title": "Llais Anwybyddus y Canrifoedd",
+  "intro": "Mewn cyfnod ymhell cyn i'r dinasoedd mawrion godi, cododd enaid unig ymhlith pobl a oedd wedi troi cefn ar y gwir. Dim ond amynedd yr unig alwr hwn, a oedd yn pledio trwy genedlaethau heb golli penderfyniad, oedd yn cyfateb i'w hystyfnigrwydd. Pan syrthiodd pob rhybudd ar glustiau byddar, ail-luniodd cyfrif digynsail y ddaear ei hun. Heddiw, mae adleisiau'r stori honno'n dal i guro trwy bob adrodd. Allwch chi adnabod yr enaid penderfynol hwn?",
+  "clues": [
+    "Cefais fy magu ymhlith pobl a oedd yn addoli eilunod ffug ac yn anwybyddu'r arwyddion o'u cwmpas, ond eto cefais fy newis i'w deffro o'u diofalwch.",
+    "Gelwais ar fy mhobl dro ar ôl tro, ond fe wnaethon nhw fy nghyhuddo o fod yn ddim byd ond person fel nhw, gan watwar fy neges a gorchuddio eu clustiau.",
+    "Nos a dydd, roeddwn i'n erfyn arnyn nhw gyda doethineb ac atgofion tyner, ond roedd fy ngeiriau fel pe baent yn diflannu i'r awyr, heb eu clywed na'u hystyried.",
+    "O dan gyfarwyddyd dwyfol, adeiledais lestr enfawr o bren a planciau ar dir sych, a chwarddodd fy mhobl am fy mhen fel un oedd wedi colli rheswm.",
+    "Pan ddaeth y llifogydd mawr fel yr addawyd, gwrthododd fy mab fy hun fynd ar fwrdd y llong gyda mi, gan gredu y byddai mynydd yn ei gysgodi rhag y dyfroedd yn codi.",
+    "Daethum yn batriarch i ddechrau newydd ar y ddaear, ac mae fy stori wedi'i chadw mewn pennod o'r Coran sy'n dwyn fy enw i."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Nuh",
+        "Proffwyd Ibrahim",
+        "Proffwyd Musa",
+        "Proffwyd Lut",
+        "Proffwyd Hud"
+      ],
+      "answer": "Proffwyd Nuh"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Y Llifogydd Mawr a ail-luniodd y ddaear",
+        "Cael fy fwrw i dân llosg gan yr eilunaddolwyr",
+        "Gwrthdaro â swynwyr y Pharo yn y palas",
+        "Dinistr y gerddi llewyrchus gan storm nefol",
+        "Dymchweliad trigolion y ffosydd"
+      ],
+      "answer": "Y Llifogydd Mawr a ail-luniodd y ddaear"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr Arch wedi'i hadeiladu o bren a phlanciau",
+        "Y tŷ cysegredig a adeiladwyd ar seiliau hynafol",
+        "Y staff a drawsnewidiodd yn sarff",
+        "Ogof y bobl ifanc sy'n cysgu",
+        "Yr orsedd a gludwyd gan greadur nerthol"
+      ],
+      "answer": "Yr Arch wedi'i hadeiladu o bren a phlanciau"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Boddodd yr anghredinwyr tra bod y credinwyr yn cael eu hachub ar fwrdd y llong.",
+        "Daeth y tân yn oer ac yn ddiogel, a daeth y galwr allan heb anaf.",
+        "Syrthiodd y swynwyr ar eu hochr a chofleidio ffydd",
+        "Rhoddwyd yr ardd i'r cymydog cyfiawn yn ei lle",
+        "Deffrodd y cysgwyr ar ôl canrifoedd, wedi'u trawsnewid"
+      ],
+      "answer": "Boddodd yr anghredinwyr tra bod y credinwyr yn cael eu hachub ar fwrdd y llong."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

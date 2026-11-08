@@ -1,0 +1,61 @@
+{
+  "title": "Ny Zaridaina Nanjavona Tao Anatin'ny Alina",
+  "intro": "Alaivo sary an-tsaina ny zaridaina maitso mavana iray, feno voankazo masaka sady voahodidin'ny hazo avo be. Ireo izay nikarakara azy dia nihevitra ny tenany ho kinga saina, nikasa ny fijinjana azy ireo tamin'ny ora mangina talohan'ny fiposahan'ny masoandro, lavitry ny mason'ireo sahirana. Saingy Ilay tsy matory mihitsy dia nanana drafitra hafa ho an'ny harena miafina ananany. Azonao an-tsaina ve hoe iza no ao ambadiky ity tantara fampitandremana avy ao amin'ny CORAN ity?",
+  "clues": [
+    "Nanana zaridaina maitso mavana sy lonaka be izahay taloha ka nahatonga izay rehetra nandalo hialonana azy.",
+    "Nandritra ny fandrindrana nataonay dia nifampibitsibitsika izahay vao maraina, nanambara fa tsy hisy fanahy sahirana hiditra amin'io andro io.",
+    "Olona nanan-karena izahay, ary efa jamba ny fonay ka tsy nahita ny zon'ny mahantra nanodidina anay.",
+    "Rehefa tonga ny fotoana fijinjana kasainay hatao, dia nanatona ny zaridainanay izahay saingy hitanay fa niova ho rava sy mainty tao anatin'ny indray alina ilay izy.",
+    "Nisy didy nandravarava namely mafy, ka lavenona sisa no namela teo amin'izay nihantona ireo sampahom-boankazo masaka taloha.",
+    "Fampitandremana henjana voarakitra ao amin'ny CORAN ny tantarantsika, izay ahafantarana antsika ho tompon'ny zaridaina izay tsy manome fiantrana ho an'ny sahirana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ireo Tompon'ny Zaridaina",
+        "Ny Vahoakan'ny Lava-bato",
+        "Ireo mpianatr'i Isa",
+        "Ireo mpiara-dia amin'ny ala",
+        "Ireo Vahinin'i Ibrahim"
+      ],
+      "answer": "Ireo Tompon'ny Zaridaina"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Mijinja voankazo mangingina ary mandrara ny mahantra",
+        "Matory mandritra ny taonjato maro ao anaty lava-bato",
+        "Mandà tsy hamokatra rameva vavy avy amin'ny vato",
+        "Nivavaka tamin'ny ombilahy kely volamena teo amin'ny Tendrombohitra Sinay",
+        "Nanangana sambo fiara lehibe mba handosirana ny safodrano"
+      ],
+      "answer": "Mijinja voankazo mangingina ary mandrara ny mahantra"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Zaridaina voafefy feno hazo palmie sy voaloboka",
+        "Lava-bato maizina lalina any an-tendrombohitra",
+        "Tanàna iray tratran'ny rivo-doza avy amin'Andriamanitra",
+        "Lohasaha masina akaikin'ny Tranon'i Allah",
+        "Ny moron'ny renirano mikoriana"
+      ],
+      "answer": "Zaridaina voafefy feno hazo palmie sy voaloboka"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Levon'ny didy mirehitra avy any an-danitra ilay zaridaina",
+        "Natory am-pilaminana nandritra ny 309 taona araka ny volana izy ireo",
+        "Voatototry ny orana vato izy ireo",
+        "Nilentika tao ambanin'ny onjan'ny tondra-drano lehibe izy ireo",
+        "Niparitaka tamin'ny rivotra mangatsiaka sy mahery izy ireo"
+      ],
+      "answer": "Levon'ny didy mirehitra avy any an-danitra ilay zaridaina"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Nagsusumamo sa Santuwaryo",
+  "intro": "Sa mga tahimik na oras ng gabi, isang tapat na kaluluwa ang nananawagan sa Pinakamaawain sa loob ng mga banal na pader ng isang sagradong lugar. Ang mga taon ng matibay na pananampalataya at pagtitiis ay malapit nang gantimpalaan ng isang himala na magdudulot ng kagalakan at isang pamana ng pagkapropeta.",
+  "clues": [
+    "Ginugol ko ang aking mga araw at gabi sa debosyon sa loob ng isang banal na santuwaryo, patuloy na nananalangin sa aking Panginoon.",
+    "Tumanda ako, at baog ang aking asawa, ngunit hindi ako nawalan ng pag-asa sa awa ng Allah.",
+    "Ako ay pinagkalooban ng isang anak na lalaki, na nagngangalang Yahya, na naging isang propeta at tanglaw ng katuwiran.",
+    "Ako mismo ay isang propeta, na isinugo upang gabayan ang mga Anak ni Israel.",
+    "Ako ay inapo ni Propeta Harun at naglingkod bilang pari sa Templo.",
+    "Ipinagkatiwala sa akin ang pangangalaga kay Maryam, ang ina ni Isa, at nasaksihan ko ang kanyang mga himala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Zakariyya",
+        "Propeta Yahya",
+        "Propeta Ilyas",
+        "Propeta Ishaq",
+        "Propeta Ya'qub"
+      ],
+      "answer": "Propeta Zakariyya"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pinagkalooban ng anak na lalaki sa katandaan",
+        "Nailigtas mula sa nagliliyab na apoy",
+        "Nailigtas mula sa tiyan ng isda",
+        "Nakaligtas sa isang malaking baha",
+        "Gumaling sa isang malubhang karamdaman"
+      ],
+      "answer": "Pinagkalooban ng anak na lalaki sa katandaan"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Mihrab (lugar ng panalangin)",
+        "Ang Kaaba",
+        "Ang Nasusunog na Palumpong",
+        "Ang Kaban ng Tipan",
+        "Ang Kweba ng Pitong Natutulog"
+      ],
+      "answer": "Ang Mihrab (lugar ng panalangin)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pinagkalooban ng isang matuwid na anak na naging propeta",
+        "Nawasak ng isang malakas na bagyo",
+        "Nalunod sa dagat",
+        "Nakaligtas sa pagkasunog",
+        "Bumalik sa kanilang mga tao matapos mailigtas mula sa isang isda"
+      ],
+      "answer": "Pinagkalooban ng isang matuwid na anak na naging propeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

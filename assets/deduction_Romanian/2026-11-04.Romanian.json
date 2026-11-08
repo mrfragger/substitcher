@@ -1,0 +1,61 @@
+{
+  "title": "comoara care s-a scufundat sub mândrie",
+  "intro": "Imaginează-ți că stai în fața unor grămezi de bogății atât de mari încât simpla purtare a cheilor ar epuiza un grup de indivizi puternici. În jurul tău, vocile îndeamnă la umilință și la amintire, însă mândria crește mai tare decât recunoștința. Ce se întâmplă când generozitatea devine un test, iar aroganța pecetluiește rezultatul?",
+  "clues": [
+    "Eram dintre oamenii lui Musa, și totuși am păcătuit împotriva lor.",
+    "Mi s-au acordat comori atât de imense încât cheile lor ar fi împovărat o ceată de oameni puternici.",
+    "Am fost sfătuit de poporul meu să nu mă bucur și să caut Viața de Apoi fără a uita partea mea din această lume.",
+    "Am susținut că ceea ce posedam mi-a fost dat doar datorită cunoștințelor pe care le aveam.",
+    "Am paradat prin fața poporului meu în podoabă, iar cei care doreau o viață lumească își doreau ceva asemănător cu ceea ce aveam eu.",
+    "Am fost înghițit de pământ împreună cu locuința mea și nimeni nu m-a putut ajuta, nici eu nu m-am putut ajuta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "S-au lăudat cu bogăția lor și au fost lipsiți de favoarea lui Allah, în ciuda sfatului",
+        "L-a provocat pe Ibrahim în privința dăruirii vieții și a morții",
+        "A condus o armată împotriva lui Talut și Dawud",
+        "Idoli sculptați pentru ca oamenii să se închine",
+        "A ucis un frate din invidie pentru o ofrandă"
+      ],
+      "answer": "S-au lăudat cu bogăția lor și au fost lipsiți de favoarea lui Allah, în ciuda sfatului"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Cheile unor comori imense",
+        "Arca Legământului",
+        "Un vițel de aur cu podoabe",
+        "Un baraj între doi munți",
+        "Unsprezece stele într-un vis"
+      ],
+      "answer": "Cheile unor comori imense"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Înghițit de pământ cu locuință și bogăție",
+        "S-a înecat în mare în timp ce îl urmărea pe Musa",
+        "Lovit de o piatră din praștia lui Dawud",
+        "Distrusă de o explozie puternică pentru că a tăiat hamstring-ul unei cămile",
+        "Transformați în maimuțe pentru încălcarea Sabatului"
+      ],
+      "answer": "Înghițit de pământ cu locuință și bogăție"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

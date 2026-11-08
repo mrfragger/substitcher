@@ -1,0 +1,61 @@
+{
+  "title": "O servo elevado de Alá",
+  "intro": "Escoitas rumores dunha figura dos tempos antigos, un servo de Alá que foi elevado a unha posición por riba do ordinario. Este individuo era coñecido pola súa paciencia inquebrantable e veracidade absoluta, e foi enviado a un pobo que se afastou da mensaxe. Quen é esta alma exaltada?",
+  "clues": [
+    "Fun escollido por Alá como profeta e son mencionado no Sagrado Corán.",
+    "Era coñecido pola miña paciencia e veracidade, calidades que Alá eloxia.",
+    "Chamei ao meu pobo a adorar ao Deus Único, pero moitos me rexeitaron.",
+    "Alá elevou a miña posición e concedéuseme un rango elevado.",
+    "A miúdo menciónanme xunto a outros profetas como Ismail e Dhul-Kifl.",
+    "Alá di de min: «E o elevamos a unha posición elevada». (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Elías",
+        "Profeta Dhu al-Kifl",
+        "Profeta Al-Yasa",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Chamou á xente a adorar a Alá",
+        "Construíu a arca",
+        "Loitou contra o faraón",
+        "Fixéronlle a proba cunha enfermidade grave",
+        "Foi lanzado ao lume"
+      ],
+      "answer": "Chamou á xente a adorar a Alá"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Rango elevado/estación elevada",
+        "A arca",
+        "O persoal",
+        "O lume",
+        "O pozo"
+      ],
+      "answer": "Rango elevado/estación elevada"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Elevado a un alto status",
+        "Afogado na inundación",
+        "Tragado por unha balea",
+        "Salvado do incendio",
+        "Converteuse en rei"
+      ],
+      "answer": "Elevado a un alto status"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

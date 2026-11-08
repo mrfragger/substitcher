@@ -1,0 +1,61 @@
+{
+  "title": "O obstáculo na Casa Antiga",
+  "intro": "Na cidade sagrada, unha figura poderosa fervía de ira mentres unha nova mensaxe comezaba a difundirse. Este individuo, cuxo nome se converteu en sinónimo de oposición á verdade, viu como a súa influencia se esborrallaba baixo o peso da revelación divina. Quen era esta alma, cuxo destino estaba selado nas areas dun famoso campo de batalla?",
+  "clues": [
+    "Eu era un xefe entre o meu pobo, coñecido pola miña riqueza e influencia nunha cidade que albergaba un antigo santuario.",
+    "Cando un home da miña tribo comezou a proclamar a mensaxe dun único Deus, ridiculiceino a el e ás súas revelacións, chamándoas meros contos do pasado.",
+    "Enfronteime a ese home mentres rezaba preto da estrutura sagrada, ameazando con interromper o seu culto pola forza se fose necesario.",
+    "Eu estaba entre os líderes que conspiraron para silenciar a nova fe, opoñéndose aos seus seguidores tanto con palabras como con armas.",
+    "Marchei cun exército a un lugar chamado Badr, confiado en que esmagariamos o pequeno grupo de crentes.",
+    "Pero nese campo de batalla, a miña vida chegou ao seu fin, e a miña morte converteuse nunha lección para aqueles que persisten na incredulidade despois de sinais claros."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Impedir que o Profeta rece na Kaaba",
+        "Construíndo a Kaaba",
+        "Escribir o Corán",
+        "Liderando o exército do elefante",
+        "Dividindo a lúa"
+      ],
+      "answer": "Impedir que o Profeta rece na Kaaba"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A Kaaba",
+        "A Arca do Profeta Nuh",
+        "O bastón do profeta Musa",
+        "O Becerro de Ouro",
+        "O trono da raíña de Saba"
+      ],
+      "answer": "A Kaaba"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Morto na batalla de Badr",
+        "Arrepentiuse e converteuse ao musulmán",
+        "Fuxiu a Abisinia",
+        "Morreu no Ano do Elefante",
+        "Converteuse nun compañeiro do Profeta"
+      ],
+      "answer": "Morto na batalla de Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

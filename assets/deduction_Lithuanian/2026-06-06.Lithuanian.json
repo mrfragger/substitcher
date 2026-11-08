@@ -1,0 +1,61 @@
+{
+  "title": "Išaukštintas Alacho tarnas",
+  "intro": "Girdėjote šnabždesius apie senovės asmenybę, Alacho tarną, kuris buvo pakeltas į aukštesnį statusą nei įprastai. Šis asmuo buvo žinomas dėl nepajudinamos kantrybės ir absoliutaus teisingumo ir buvo pasiųstas žmonėms, kurie nusisuko nuo žinios. Kas yra ši išaukštinta siela?",
+  "clues": [
+    "Mane išsirinko Alachas pranašu ir esu paminėtas Šventajame Korane.",
+    "Buvau žinomas dėl savo kantrybės ir sąžiningumo – savybių, kurias giria Alachas.",
+    "Aš pašaukiau savo žmones garbinti Vienintelį Dievą, bet daugelis mane atstūmė.",
+    "Alachas pakėlė mano padėtį ir suteikė man aukštą rangą.",
+    "Esu dažnai minimas kartu su kitais pranašais, tokiais kaip Ismailas ir Dhul-Kifl.",
+    "Alachas apie mane sako: „Ir Mes jį iškėlėme į aukštą padėtį.“ (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Idrisas",
+        "Pranašas Elijas",
+        "Pranašas Dhu al-Kifl",
+        "Pranašas Al-Yasa",
+        "Pranašas Hudas"
+      ],
+      "answer": "Pranašas Idrisas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Kvietė žmones garbinti Alachą",
+        "Pastatė arką",
+        "Kovojo prieš faraoną",
+        "Buvo išbandytas sergant sunkia liga",
+        "Buvo įmestas į ugnį"
+      ],
+      "answer": "Kvietė žmones garbinti Alachą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Aukštas rangas / aukštas postas",
+        "Arka",
+        "Personalas",
+        "Ugnis",
+        "Šulinys"
+      ],
+      "answer": "Aukštas rangas / aukštas postas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pakeltas į aukštą statusą",
+        "Nuskendo potvynyje",
+        "Banginio prarytas",
+        "Išgelbėtas nuo gaisro",
+        "Tapo karaliumi."
+      ],
+      "answer": "Pakeltas į aukštą statusą"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

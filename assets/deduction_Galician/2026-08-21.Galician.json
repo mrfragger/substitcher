@@ -1,0 +1,61 @@
+{
+  "title": "A sombra detrás do trono",
+  "intro": "Atópaste nos tribunais dun poderoso reino antigo, onde un poderoso gobernante se proclamou a si mesmo como un deus sobre todo o pobo. Xunto a este gobernante atópase un servo devoto, ao que se lle encargan as maiores ambicións do reino. Xuntos, conspiran e planean, negándose a escoitar as advertencias dun mensaxeiro enviado para guialos. Podes descubrir quen era este servo leal?",
+  "clues": [
+    "Vivín nun poderoso reino gobernado por unha figura poderosa que afirmaba ser divinda sobre todo o pobo.",
+    "Servín como ministro de confianza deste gobernante, cumprindo todas as súas ambicións e ordes.",
+    "Cando un mensaxeiro de Alá veu á nosa terra chamándonos á verdade, o meu gobernante e eu negámonos a escoitar.",
+    "Ordenáronme que acendese un gran lume e preparase ladrillos de arxila para unha gran construción.",
+    "O meu gobernante quería erixir unha estrutura tan imponente que chegase aos propios ceos.",
+    "Ao final, o meu gobernante, os nosos exércitos e eu fomos arrastrados e afogados nas profundidades do mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Amán",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Amán"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Construíndo unha torre para chegar ao ceo",
+        "Ser lanzado a un lume abrasador",
+        "Despertando a un pobo da adoración de ídolos de pedra",
+        "Dividir a lúa como un signo divino",
+        "Conquistando unha poderosa cidade por orde divina"
+      ],
+      "answer": "Construíndo unha torre para chegar ao ceo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha torre de ladrillos de arxila cocida",
+        "A barriga dunha balea",
+        "Unha fonte sagrada no deserto",
+        "Unha sarza ardente nun monte santo",
+        "Unha arca que leva unha familia escollida"
+      ],
+      "answer": "Unha torre de ladrillos de arxila cocida"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado nas profundidades do mar",
+        "Levantado a un lugar seguro nun magnífico palacio",
+        "Salvado do ventre dun gran peixe",
+        "Honrado con reinado e sabedoría divina",
+        "Converteuse en po por un berro estridente"
+      ],
+      "answer": "Afogado nas profundidades do mar"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

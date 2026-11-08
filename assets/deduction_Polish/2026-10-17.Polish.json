@@ -1,0 +1,61 @@
+{
+  "title": "Tęsknota w Komnacie Świętej",
+  "intro": "Wchodzisz do cichej świątyni i widzisz oddanego sługę Allaha stojącego w modlitwie. Jego ręce są uniesione, oczy wzniesione, a serce skrywa tęsknotę trwającą całe życie. Kim jest ta cierpliwa dusza, której wiara w Allaha nigdy nie zachwiała się?",
+  "clues": [
+    "Długie lata spędziłem na modlitwie i oddawaniu czci Bogu, będąc świadkiem cudów, które wzmocniły moją wiarę.",
+    "Powierzono mi odpowiedzialność za opiekę nad błogosławioną młodą duszą w sanktuarium.",
+    "Gdy się zestarzałem, moim największym zmartwieniem było to, że nie miałem dziecka, gdyż moja żona była bezpłodna, a oboje byliśmy już w podeszłym wieku.",
+    "Modliłem się do Pana o następcę z mojej rodziny, o kogoś, kto kontynuowałby dziedzictwo proroctwa.",
+    "Gdy stałem w niszy modlitewnej, aniołowie zawołali mnie, mówiąc: „Allah zwiastuje ci radosną nowinę”. Ogarnął mnie strach i podziw.",
+    "Powiedziano mi, że będę mieć syna o imieniu Yahya, imienia, którego nikt wcześniej nie otrzymał, i że jako znak nie będę odzywać się do ludzi przez trzy dni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Zachariasz",
+        "Prorok Yahya",
+        "Prorok Isa",
+        "Prorok Dawud",
+        "Luqman Mądry"
+      ],
+      "answer": "Prorok Zachariasz"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Niepłodność i starość przy pragnieniu sprawiedliwego dziedzica",
+        "Wrzucenie do płonącego ognia",
+        "Być połkniętym przez wielką rybę",
+        "Utrata królestwa na rzecz tyrana",
+        "Bycie wygnanym z ojczyzny"
+      ],
+      "answer": "Niepłodność i starość przy pragnieniu sprawiedliwego dziedzica"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Nisza modlitewna (mihrab)",
+        "Wielki statek (Arka)",
+        "Płonący krzew",
+        "Laska, która zamieniła się w węża",
+        "Wielbłądzica Allaha"
+      ],
+      "answer": "Nisza modlitewna (mihrab)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Obdarował sprawiedliwym synem i po trzech dniach milczenia znów przemówił",
+        "Zniszczony przez powódź za niewiarę",
+        "Dano mu rozległe królestwo i kontrolę nad wiatrem",
+        "Wydobyte z brzucha ryby",
+        "Pochłonięty przez ziemię"
+      ],
+      "answer": "Obdarował sprawiedliwym synem i po trzech dniach milczenia znów przemówił"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

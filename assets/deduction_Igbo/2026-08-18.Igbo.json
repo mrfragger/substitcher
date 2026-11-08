@@ -1,0 +1,61 @@
+{
+  "title": "Onye nwetara Surah",
+  "intro": "Chee echiche banyere mkpụrụ obi dị umeala ka ọ na-abịaru otu n'ime ndị ozi Allah nso n'obi jupụtara n'ezi obi na agụụ miri emi ịmụta ihe. Ma n'oge ahụ kpọmkwem, onye nwere akụnụba na ọkwa dọtara uche Onye Ozi ahụ, ihu wee gbawa onye na-achọ ya. Ihe sochiri ya bụ naanị otu isiakwụkwọ zuru oke nke Quran, nke e zigara iji gbazie Onye Ozi ahụ ma sọpụrụ mkpụrụ obi bịara ịchọ ihe.",
+  "clues": [
+    "Abịara m n'ebe onye ozi Allah nọ, obi m meghere emeghe, agụụ miri emi dịkwa m maka nduzi.",
+    "Enweghị m ọkwa ụwa ọ bụla m ga-enye, naanị m bụ onye dị umeala n'obi na-achọ eziokwu.",
+    "Anya anụ ahụ m enweghị ike ịhụ ụzọ, mana ọhụụ ime mmụọ m doro anya",
+    "Abịara m n'oge na-adịghị mma, mgbe Onye Ozi ahụ jupụtara n'onye nwere mmetụta dị ukwuu",
+    "Ihu gbawara m, mana Allah zara ya site n'ịdọzi uche Chineke.",
+    "Abụ m Abdullah ibn Umm Maktum, onye ibe ya nwere ntụkwasị obi nke akụkọ ya kpaliri Surah Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Nnwale / Ihe Omume",
+      "options": [
+        "Onye Amụma jụrụ ya maka onye bara ọgaranya",
+        "Ịbụ onye ndị iro tụbara n'ọkụ na-ere ọkụ",
+        "A na-ere ma na-akpagbu ya dị ka ohu",
+        "Ịbụ onye agha dị ike na-ama aka ịlụ ọgụ",
+        "Ịbụ onye azụ̀ dị egwu loro"
+      ],
+      "answer": "Onye Amụma jụrụ ya maka onye bara ọgaranya"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Isiakwụkwọ nke Quran nke malitere site na ihu iwe (Sura Abasa)",
+        "Ọkụ e mere ka ọ dị jụụ ma dị nchebe",
+        "Mkpanaka nke kewara oké osimiri dị ike",
+        "Ụgbọ e wuru n'elu ugwu dị elu",
+        "Nnụnụ e ji ụrọ siri ike kpụọ"
+      ],
+      "answer": "Isiakwụkwọ nke Quran nke malitere site na ihu iwe (Sura Abasa)"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Allah kpughere sura nke Quran nke na-echebe m",
+        "Allah mere ka ọkụ ahụ dị jụụ ma dị nchebe nye m",
+        "Allah kewara oke osimiri ka ọ zọpụta m n'ịchụso m",
+        "Allah nyere m alaeze na amamihe dị ukwuu",
+        "Allah kpọọrọ m gaa eluigwe n'anwụghị anwụ"
+      ],
+      "answer": "Allah kpughere sura nke Quran nke na-echebe m"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

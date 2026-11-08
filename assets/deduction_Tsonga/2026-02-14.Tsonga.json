@@ -1,0 +1,61 @@
+{
+  "title": "Muaki wa Swihinga",
+  "intro": "Ku tsemakanya matiko lamakulu, munhu wa matimba u sungule nxaxamelo wa maendzo, a nyikiwa vulawuri ni tindlela letikulu swinene. Moya lowu wu hlangane na miganga yo hambana hambana naswona wu langutane na mintlhontlho yo hlawuleka, wu siya mfungho lowu nga heriki eka matimu na ripfumelo hi swiendlo na vutlhari bya vona, hinkwaswo leswi swi ri karhi swi amukela xihlovo xa ntiyiso xa matimba ya vona.",
+  "clues": [
+    "Ndzi nyikiwe matimba ni tindlela eka xin’wana ni xin’wana, naswona ndzi landzele ndlela yo karhi.",
+    "Riendzo ra mina ri ndzi yise endhawini leyi dyambu ri pela, laha ndzi nga kuma vanhu.",
+    "Ndzi hlangane ni vaaki lava a va nga swi twisisi kahle mavulavulelo, lava tshamaka exikarhi ka tintshava timbirhi.",
+    "Ndzi komberiwe ku aka xisirhelelo, ku nga ri ku vuyeriwa, kambe ku sirhelela eka matimba lama onhaka.",
+    "Ndzi tivise leswaku matimba yo aka rirhangu leri lerikulu ma huma eka Allah, naswona ri ta yima ku fikela nkarhi lowu tshembisiweke.",
+    "Vito ra mina, leri hakanyingi ri hundzuluxeriwaka tanihi ‘Loyi a nga ni Timhondzo Mambirhi,’ ri kombisa ku fikelela ka mina emisaveni hinkwayo kumbe kumbexana minkarhi yimbirhi leyi hambaneke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Musa",
+        "Muprofeta Sulayman",
+        "Dhul-Qarnayn hi ku vula ka yena",
+        "Faro",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn hi ku vula ka yena"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku amukela nhlavutelo",
+        "Ku langutana na mufumi wa tihanyi",
+        "Ku aka xikepe lexikulu",
+        "Ku aka xisirhelelo lexikulu",
+        "Ku mitiwa hi nhlampfi"
+      ],
+      "answer": "Ku aka xisirhelelo lexikulu"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Areka",
+        "Vatirhi va kona",
+        "Xisirhelelo xa Nsimbi",
+        "Nambu wa Nayili",
+        "Xiluvelo xa Vuhosi"
+      ],
+      "answer": "Xisirhelelo xa Nsimbi"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku ponisiwa eka ndhambi",
+        "Ku va mfumo lowukulu",
+        "Nsirhelelo wa vanhu",
+        "Ku lovisiwa ka mutshikileri",
+        "Vutlhari lebyi nga heriki"
+      ],
+      "answer": "Nsirhelelo wa vanhu"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Maiestate Paregabearen Hiri Galdua",
+  "intro": "Zibilizazio boteretsu batek lur eremu zabalak menderatu zituen garai batean, zeruraino iristen ziren egitura garaiengatik ospetsua. Hala ere, handitasun horren azpian, ukazio temati bat sortu zen — komunitatearen beraren barnetik bidalitako jainkozko abisuari jaramonik ez egitea. Harrokeriak eta arroganziak laster ekarriko zuten ez lurrak ez zeruak inoiz ikusi ez bezalako zigorra.",
+  "clues": [
+    "Behin lur eremu zabalak gobernatu genituen, beste zibilizazio batek ere parekatu ezin zezakeen indarraz harroputz.",
+    "Gure erreinua lurralde ezagun guztietan paregabeak ziren zutabe indartsuak zituzten egitura garaiengatik zen famatua.",
+    "Gure komunitatetik bertatik abisatzaile bat altxatu zen, bakoitzari Sortzaile Bakarrari men egiteko eskatuz.",
+    "Emandako mezua ukatu genuen eta heredatu genuen bidea alde batera uzteari uko egin genion.",
+    "Haize bortitz eta ulukari bat askatu zen gure aurka, erabat babesgabe utziz.",
+    "Palmondoen enbor hutsak bezala geratu gintuzten, sakabanatuta eta ahaztuta, ondorengo belaunaldi guztientzat ikasgai gisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "A'ad-eko jendea",
+        "Nuh-eko jendea",
+        "Luteko jendea.",
+        "Madyango jendea.",
+        "Tubba'ko jendea"
+      ],
+      "answer": "A'ad-eko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Zigor larriaren haize amorratu etengabea",
+        "Mendi gailur guztiak estali zituen uholde batek",
+        "Goitik erretzen ari den buztinezko harrien euri-jasa",
+        "Zerutik oihu beldurgarri bakarra",
+        "Lurra zatitu zuen lurrikara bortitz batek"
+      ],
+      "answer": "Zigor larriaren haize amorratu etengabea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Iram, zutabe garaien hiria",
+        "Mendi baten gainean eraikitako egurrezko arka erraldoi bat",
+        "Harritik mirari baten moduan atera zen gamelu eme bat",
+        "Sinai mendia, non jainkozko aginduak jaitsi ziren",
+        "Kristalezko eta beira finezko jauregia, ur korronteei begira"
+      ],
+      "answer": "Iram, zutabe garaien hiria"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Palmondoen enbor hutsak bezala utzita, sakabanatuta eta bizigabe",
+        "Uholde handi baten olatu izugarrien azpian itota",
+        "Tximino eta txerrien antzeko izaki bihurtuta",
+        "Buztin gogortuen euripean xehatuta",
+        "Arima zulatu zuen oihu gorgarri bakar batean kontsumitua"
+      ],
+      "answer": "Palmondoen enbor hutsak bezala utzita, sakabanatuta eta bizigabe"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yerning quchog'i",
+  "intro": "Buyuk sinovlar davrida taniqli shaxsga ulkan dunyoviy mo'l-ko'lchilik, minnatdorchilik va kamtarlik sinovi berildi. Bu shaxsning sayohati moddiy boyliklarning o'tkinchi tabiati va takabburlikning oqibatlari haqida chuqur saboq bo'lib xizmat qiladi. Hikoyasi bizning tubimizga singib ketgan bu qalbning kimligini kashf eting.",
+  "clues": [
+    "Men buyuk elchi boshqargan qavm orasida yashadim.",
+    "Alloh menga shunday ulkan boylik ato etdiki, xazinalarning kalitlari ko'plab kuchli insonlar uchun og'ir yuk edi.",
+    "Mening mol-mulkimni bilgan qavmim menga Alloh bergan narsa bilan oxirat diyorini izlashni va dunyodan nasibamni ham unutmaslikni, Alloh menga yaxshilik qilganidek yaxshilik qilishni ham nasihat qilishdi.",
+    "Men mag'rurlik bilan ulkan boyligim faqat o'z bilimim va sa'y-harakatlarim evaziga qo'lga kiritilganini e'lon qildim va har qanday ilohiy marhamatni inkor etdim.",
+    "Allohning ne'matlarini xayriya qilish yoki tan olishni so'rashganda, men mol-mulkim faqat o'zimniki deb ishonib, mag'rurlik bilan rad etdim.",
+    "Mening haddan tashqari takabburligim va zulmim natijasida Alloh yerga meni va uyimni yorib, yutib yuborishni buyurdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avn",
+        "Iblis",
+        "Xomon",
+        "Abu Lahab",
+        "Qorun"
+      ],
+      "answer": "Qorun"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Olovga tashlanmoqda",
+        "Dengizda cho'kish",
+        "Bog'dan quvg'in qilinmoqda",
+        "Maymunga aylanish",
+        "Yer tomonidan yutib yuborilmoqda"
+      ],
+      "answer": "Yer tomonidan yutib yuborilmoqda"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Qudratli kema",
+        "Gapiradigan qush",
+        "Mo''jizaviy tayoq",
+        "Ulkan xazinalar va kalitlar"
+      ],
+      "answer": "Ulkan xazinalar va kalitlar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Buyuk hukmdor bo'lish",
+        "Ilohiy vahiyni qabul qilish",
+        "Osmonlarga ko'tarilish",
+        "Uzoq umr ko'rish, taqvodorlik",
+        "Mag'rurlik tufayli butunlay halokat"
+      ],
+      "answer": "Mag'rurlik tufayli butunlay halokat"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

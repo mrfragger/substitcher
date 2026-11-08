@@ -1,0 +1,61 @@
+{
+  "title": "De Schrei aus der Déift",
+  "intro": "E Knecht vum Barmhäerzegsten huet sech vun enger sturer Natioun midd gemaach a fortgaang, ier d'Erlaabnes accordéiert gouf. Dës Persoun ass op enger Plaz gelant, wou nach ni e Mënsch war, wou de Ruff un d'Göttlechkeet komesch duerch Schichten vun Däischtert widderhallt. Geschwächt awer transforméiert erauskomm, gouf dës Séil zu enger zäitloser Lektioun a Gedold, oprechter Reue an der grenzeloser Barmhäerzegkeet vum Schëpfer. Kënnt Dir de Rätsel entklären?",
+  "clues": [
+    "Ech gouf als Bote fir mäi Vollek geschéckt, awer si hunn all Grenzen an hirem Ongleewe iwwerschratt a refuséiert ze lauschteren.",
+    "Ech gouf rosen iwwer hir Ofleenung a sinn viru mengem Vollek geflücht, ier dem Allah säi Gebot koum.",
+    "Ech sinn u Bord vun engem Schëff gaangen, dat iwwer Bord gelueden war, an do hu mir Loos gezunn, fir ze bestëmmen, wien iwwer Bord gehäit géif ginn.",
+    "Ech gouf an dat rosen Mier gehäit a vun engem grousse Fësch verschléckt.",
+    "Gefaange an dräi Schichten vun Däischtert - dem Bauch, dem déiwe Mier an der Äerd drënner - hunn ech mäin Här aus oprichteger Reue geruff.",
+    "Ech sinn aus dem Fësch op d'oppent Ufer erauskomm, schwaach an midd, an eng Kürbisplanz ass iwwer mech gewuess. Mäi Vollek, honnertdausend oder méi, huet endlech gegleeft."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Yunus",
+        "De Prophet Ayyub",
+        "Prophet Yusuf",
+        "Prophet Musa",
+        "Prophet Sulaiman"
+      ],
+      "answer": "Prophet Yunus"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Vun engem grousse Fësch verschléckt",
+        "An e brennend Feier gehäit",
+        "Um Buedem vun engem Brunn agespaart",
+        "Iwwerwältegt vun enger grousser Iwwerschwemmung",
+        "Ongerechtfäerdegt vun engem Kinnek agespaart"
+      ],
+      "answer": "Vun engem grousse Fësch verschléckt"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "De Bauch vun engem grousse Fësch",
+        "Dat hellegt Dall bei der Kaaba",
+        "Eng Ark déi op engem Bierg läit",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "En Troun vun oniwwertraffer Gréisst"
+      ],
+      "answer": "De Bauch vun engem grousse Fësch"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Säi Vollek, honnertdausend oder méi, hunn gegleeft",
+        "Lieweg an den Himmel erhuewen",
+        "Gouf Herrscher vun engem oniwwertraffene Kinnekräich",
+        "Zerstéiert vun engem duerchdréngenden Himmelsgeschrei",
+        "Duerch e verheerenden Äerdbiewen ëmgekippt"
+      ],
+      "answer": "Säi Vollek, honnertdausend oder méi, hunn gegleeft"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

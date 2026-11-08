@@ -1,0 +1,61 @@
+{
+  "title": "Kibir Diyarında Duyulmayan Çağrı",
+  "intro": "Bir zamanlar büyük bir medeniyetin kalıntıları arasında duruyorsunuz; güç ve gururun sınır tanımadığı bir yer. Aralarında bir elçi dolaşıyor, gerçeğe çağırıyordu, ama kalpleri katılaşmıştı. Uyarı dikkate alınmadı ve gökyüzü bile gazabın bir aracı haline geldi. Bu elçi kimdi ve çağrıyı reddedenlerin başına ne geldi?",
+  "clues": [
+    "Bana, güç bakımından eşsiz olan ve her yüksek yere anıt diken bir halkın emri verildi.",
+    "Halkım kendilerini yenilmez sanıyordu ve 'Güç bakımından bizden daha güçlü kim olabilir?' diyordu.",
+    "Ben onları yalnızca Allah'a ibadet etmeye çağırdım, fakat onlar beni akılsızlık ve yalancılıkla suçladılar.",
+    "Bana, eğer doğruyu söylersem söz verdiğim cezayı uygulamam için meydan okudular.",
+    "Allah onlara, karşılaştığı her şeye acımayan, çorak bir rüzgâr gönderdi.",
+    "Ben ve benimle birlikte iman edenler Allah'ın rahmetiyle kurtulduk, inkârcılar ise tamamen helak oldular."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Hud",
+        "Peygamber Salih",
+        "Peygamber Şuayb",
+        "Peygamber Lut",
+        "Peygamber Nuh"
+      ],
+      "answer": "Peygamber Hud"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Yıkıcı bir rüzgar, inanmayanları yok etti.",
+        "Büyük bir sel, inkârcıları yuttu.",
+        "Taş yağmuru yağdı.",
+        "İnanmayanlar yüksek bir çığlık kopardılar.",
+        "İnanmayanları bir deprem vurdu."
+      ],
+      "answer": "Yıkıcı bir rüzgar, inanmayanları yok etti."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Durmak bilmeyen bir rüzgar",
+        "Ahşap bir gemi",
+        "Dişi bir deve",
+        "Kil taşlarından oluşan bir yağmur.",
+        "Alev alev yanan bir yangın"
+      ],
+      "answer": "Durmak bilmeyen bir rüzgar"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Hud ve müminler kurtarıldı, kâfirler ise helak edildi.",
+        "Hud yüksek bir mevkiye yükseltildi.",
+        "Hud kendi halkı tarafından öldürüldü.",
+        "Hud'un halkı tövbe etti ve bağışlandı.",
+        "Hud, herhangi bir ceza almadan önce halkını terk etti."
+      ],
+      "answer": "Hud ve müminler kurtarıldı, kâfirler ise helak edildi."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

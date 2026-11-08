@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaiwhakaatu o te Ahi",
+  "intro": "He tangata hohonu, i whakatapua ki te hura i te ao tūturu, i tīmata i tētahi haerenga o te kitenga wairua. Nā tō rātou whakapono pumau i ārahi rātou ki te wero i ngā tikanga kua whakatūria, me te aro atu ki ngā whakamātautau nui i whakamātautau i ngā rohe o te whakapono. Ko te kōrero mō tēnei wairua he tohu mō te tiaki me te arataki a te Atua.",
+  "clues": [
+    "I manaakitia ahau ki tētahi taitara ahurei mai i tōku Ariki, e tohu ana i tētahi hononga hōhonu, motuhake hoki.",
+    "I noho tōku tamarikitanga i waenganui i te iwi i piko ki ngā whakapakoko, engari i hiahia nui tōku ngākau ki te Atua Pono Kotahi.",
+    "I mātakitaki ahau i ngā whetu, i te rā, i te marama, me ngā whetū, me te whakaaroaro ki tō rātou putanga mai me tō rātou hinganga, ā, ka whakatau ahau kāore e taea e rātou te noho hei Ariki mōku.",
+    "I roto i taku whakahē i te horapa o te karakia maha, ka tū atu ahau ki ngā atua teka, ka waiho ko ia anake, he nui ake, hei kaiwhakapae puku.",
+    "Nā taku wero ki te karakia whakapakoko i whiua ahau ki te whiu nui, i te mea i whakataua ahau kia maka ki roto i te ahi mura tonu.",
+    "Heoi, nā te whakahau a tōku Kaihanga, ka huri ngā mura ahi hei puna o te mātao me te haumaru, ā, ka ora ai ahau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Mohi",
+        "Poropiti a Noa",
+        "Poropiti Ihāperama",
+        "Poropiti a Ihaia",
+        "Poropiti a Yusuf"
+      ],
+      "answer": "Poropiti Ihāperama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te whiti i te Moana Whero",
+        "Te Waipuke",
+        "Te Patunga Tapu a te Tama",
+        "Te Whakamātautau Ahi",
+        "Te Puku o te Tohorā"
+      ],
+      "answer": "Te Whakamātautau Ahi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Pū",
+        "Te Ahi",
+        "Te Puna"
+      ],
+      "answer": "Te Ahi"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I ārahi i te tangata ki te haumaru",
+        "I riro mai i a ia tētahi rangatiratanga nui",
+        "I horomia e te ika",
+        "I whakaorangia i te tahunga",
+        "I whiwhi i ngā papa"
+      ],
+      "answer": "I whakaorangia i te tahunga"
+    }
+  },
+  "verseRef": "37:97",
+  "arabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَـٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ",
+  "verse": "They said, \"Construct for him a structure [i.e., furnace] and throw him into the burning fire.\" (37:97)"
+}

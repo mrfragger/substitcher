@@ -1,0 +1,61 @@
+{
+  "title": "Vladarjeva velika podreditev",
+  "intro": "Znajdete se v deželi starodavnih čudes in globokih razodetij. Močna vladarica se je soočila z nepričakovanim povabilom in se podala na potovanje, ki bo spremenilo potek njene usode in vero njenega ljudstva. Ali lahko odkrijete identiteto te veličastne figure?",
+  "clues": [
+    "Vladal sem cvetočemu kraljestvu, okrašenemu z neizmernim bogastvom in veličastnim prestolom.",
+    "Moje ljudstvo in jaz smo častili nebesno telo in verjeli, da je naš gospodar, čeprav sem v srcu gojil dvome.",
+    "Nenavaden sel, ptica, mi je dostavil pismo, v katerem je mene in moje ljudstvo pozival k pokornosti Edinemu Bogu.",
+    "Posvetoval sem se s svojimi svetovalci, ki so bili zelo močni, o tem, kako se odzvati na to sporočilo brez primere.",
+    "Odločil sem se, da pošljem dragoceno darilo tistemu, ki je poslal pismo, v upanju, da bom ocenil njegovo moč in namere.",
+    "Ob prihodu me je osupnila palača s steklenimi tlemi, ki so bila videti kot vodni bazen, in takrat sem izjavil svojo podreditev Gospodu vsega stvarstva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Faraon",
+        "Kraljica iz Sabe",
+        "Zhu al-Qarnayn",
+        "Lukman",
+        "Prerok Jusuf"
+      ],
+      "answer": "Kraljica iz Sabe"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Razcep morja",
+        "Velika poplava",
+        "Potovanje na srečanje s prerokom Sulejmanom",
+        "Uničenje Lutovega ljudstva",
+        "Sežig preroka Ibrahima"
+      ],
+      "answer": "Potovanje na srečanje s prerokom Sulejmanom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Osebje",
+        "Prestol",
+        "Gora",
+        "Ogenj"
+      ],
+      "answer": "Prestol"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal je prerok",
+        "Uničil ga je Alah",
+        "Sprejel islam",
+        "Vodila je svoje ljudstvo v vojno",
+        "Zgradil veličasten tempelj"
+      ],
+      "answer": "Sprejel islam"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

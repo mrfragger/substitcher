@@ -1,0 +1,61 @@
+{
+  "title": "Dhamana Iliyokabidhiwa Mto",
+  "intro": "Nafsi ilikabiliwa na amri isiyowezekana, ambapo maisha ya mtoto mchanga yalikuwa yamekwama kwenye mizani. Ikiongozwa na msukumo wa kimungu, amri ya kukata tamaa ilitiiwa, na siri ya thamani iliwekwa kwenye mkondo, lakini ikarudishwa kwa njia isiyotarajiwa.",
+  "clues": [
+    "Niliishi chini ya kivuli cha mtawala mdhalimu aliyeamuru kuuawa kwa watoto wachanga wa kiume.",
+    "Msukumo wa kimungu ulinijia, ukinielekeza kuchukua hatua ya kukata tamaa na yenye kuumiza moyo.",
+    "Nilimweka mtoto wangu mpendwa kwenye sanduku na kumlaza kwenye mto unaotiririka.",
+    "Moyo wangu ukawa mtupu, na karibu nifichue siri hiyo, lakini Mwenyezi Mungu aliimarisha azimio langu.",
+    "Nilimtuma mtu afuate safari ya mtoto huyo kuelekea chini huku mkondo wa maji ukibeba kifua.",
+    "Mtoto huyo alipatikana na familia ya mtawala huyo, na hatimaye, niliungana tena na mtoto wangu na nikawa mlezi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mama wa Nabii Musa",
+        "Asiya (Mke wa Farao)",
+        "Maryam (Mama wa Nabii Isa)",
+        "Mke wa Nabii Lut",
+        "Mama yake Nabii Yahya (mke wa Zakariya)"
+      ],
+      "answer": "Mama wa Nabii Musa"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alimweka mtoto wake kwenye sanduku na kumweka kando ya mto",
+        "Alimficha mtoto wake pangoni",
+        "Alimtelekeza mtoto wake jangwani",
+        "Alimtupa mtoto wake motoni",
+        "Alimwacha mtoto wake mlangoni mwa msikiti"
+      ],
+      "answer": "Alimweka mtoto wake kwenye sanduku na kumweka kando ya mto"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kisanduku kilichowekwa kwenye mto",
+        "Kichaka kinachowaka moto",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Meza iliyopambwa kwa chakula kutoka mbinguni",
+        "Ngamia jike aliyetumwa kama ishara"
+      ],
+      "answer": "Kisanduku kilichowekwa kwenye mto"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aliungana tena na mtoto wake na kumnyonyesha",
+        "Hakumwona tena mtoto wake",
+        "Aliuawa na mtawala wa kiimla",
+        "Akawa malkia huko Misri",
+        "Alihamia nchi nyingine na kuishi uhamishoni"
+      ],
+      "answer": "Aliungana tena na mtoto wake na kumnyonyesha"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

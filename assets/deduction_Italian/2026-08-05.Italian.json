@@ -1,0 +1,61 @@
+{
+  "title": "Il giorno dell'esposizione finale",
+  "intro": "Riuniti per una grandiosa dimostrazione di potere, un gruppo di abili artisti si trovò di fronte a una verità inaspettata che avrebbe cambiato per sempre le loro vite.",
+  "clues": [
+    "Eravamo rinomati per la nostra arte, maestri dell'illusione e dell'inganno.",
+    "Fummo convocati dal sovrano per affrontare uno sfidante che brandiva un semplice bastone.",
+    "Quando abbiamo visto la verità, ci siamo prostrati, professando la nostra fede nel Signore dei mondi.",
+    "Il tiranno ci minacciò di punizioni severe, ma noi non vacillammo.",
+    "Siamo stati tra i primi a credere al messaggio dopo aver assistito al chiaro segnale.",
+    "Siamo stati martirizzati per la nostra fede, ma saremo i primi ad entrare in Paradiso con i giusti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi siamo?",
+      "options": [
+        "I maghi del faraone",
+        "Gli Israeliti",
+        "Il popolo di Thamud",
+        "I discepoli di Isa",
+        "L'esercito di Abraha"
+      ],
+      "answer": "I maghi del faraone"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Gara con il profeta Mosè",
+        "Costruire la torre",
+        "Il grande diluvio",
+        "La piaga delle locuste",
+        "Il mare che si divide"
+      ],
+      "answer": "Gara con il profeta Mosè"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il giorno del festival",
+        "La valle di Tuwa",
+        "La città di Iram",
+        "Il Giardino dell'Eternità",
+        "La pianura di Arafat"
+      ],
+      "answer": "Il giorno del festival"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Furono crocifissi in pubblico",
+        "Sono annegati in mare",
+        "Essi divennero seguaci del profeta",
+        "Furono mandati in esilio",
+        "Furono consumati dal fuoco"
+      ],
+      "answer": "Furono crocifissi in pubblico"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

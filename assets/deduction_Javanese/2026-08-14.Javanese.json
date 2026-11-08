@@ -1,0 +1,61 @@
+{
+  "title": "Tangan-tangan sing Dikutuk",
+  "intro": "Kowé ngadeg ing gang-gang sing muter-muter ing Mekah kuna, ing ngendi jiwa sing duwé pengaruh lan kasugihan tau nyingkiri panggilan bebener. Crita tokoh iki minangka pangeling-eling sing cetha manawa ikatan getih ora bisa ngatasi rante kesombongan. Sapa iki sing jenenge gema karo geni sing nunggu?",
+  "clues": [
+    "Aku mlaku-mlaku ing lurung-lurung Mekah kanthi rasa bangga sing ndadekake aku ora bisa ndeleng bebener, sanajan utusane iku getihku dhewe.",
+    "Bandha-bandhaku pancen akeh banget, nanging dadi kutukan tinimbang tameng.",
+    "Kitab pituduh iki nyritakake babagan karusakanku, nyatakake yen tangan lan awakku bakal sirna.",
+    "Bojoku melu kampanye permusuhanku, nglumpukake eri kanggo disebar ing dalane wong sing nyeluk Allah.",
+    "Ing dina kiamat, aku bakal dicemplungake ing geni murub, lan pasanganku bakal digandheng tali ijuk ing gulu.",
+    "Aku dikenal nganggo jeneng sing tegesé 'bapak geni' — jeneng sing ngramal panggonanku langgeng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahal",
+        "Abu Thalib",
+        "Abu Sufyan",
+        "Al-Walid bin al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Uji Coba utawa Acara Utama",
+      "options": [
+        "Nglawan Kanjeng Nabi lan dikutuk ing Al-Qur'an",
+        "Mimpin pasukan kanggo ngrusak Ka'bah",
+        "Nyoba mateni Nabi nganggo watu",
+        "Ora gelem percaya karo rembulan sing pecah",
+        "Nggawe menara kanggo nggayuh swarga"
+      ],
+      "answer": "Nglawan Kanjeng Nabi lan dikutuk ing Al-Qur'an"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Geni Neraka sing murub",
+        "Staf Musa",
+        "Bahtera Nabi Nuh",
+        "Sumur Zamzam",
+        "Pedhet Emas"
+      ],
+      "answer": "Geni Neraka sing murub"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Dheweke bakal mlebu neraka sing murub, lan bandhane ora bakal migunani kanggone",
+        "Dhèwèké mratobat lan dadi wong sing percaya",
+        "Dheweke diapura sawise mbatalake pandongane",
+        "Dhèwèké tilar donya minangka martir",
+        "Dhèwèké diangkat menyang swarga"
+      ],
+      "answer": "Dheweke bakal mlebu neraka sing murub, lan bandhane ora bakal migunani kanggone"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

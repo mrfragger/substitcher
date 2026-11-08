@@ -1,0 +1,61 @@
+{
+  "title": "Takabburlik saroyidagi alanga",
+  "intro": "Qadimgi dunyoning eng qudratli saroyining ulug'vor devorlari ortida hech bir qirollik farmoni o'chira olmaydigan sirni yashirgan bir shaxs yashar edi. Hamma soxta xudolarga bosh egib turgan bir paytda, bu qalb ichida sokin imonni yondirib turardi. O'sha yurtning hukmdori o'zini ilohiy deb hisoblardi, ammo bu shaxs tasallidan ko'ra haqiqatni va xavfsizlikdan ko'ra sadoqatni afzal ko'rardi. Bugun sizning vazifangiz - bu jasur qalb kimligini kashf etish, uning hikoyasi sobit imonning eng kuchli namunalaridan biri bo'lib qolmoqda.",
+  "clues": [
+    "Men ulkan boylik va mislsiz ulug'vorlikka ega bo'lgan, yer hukmdori hamma narsa ustidan mutlaq hokimiyatga ega bo'lgan joyda yashardim.",
+    "Atrofimdagilar soxta xudolarga sajda qilar ekan, men qalbimda sokin imon nurini saqladim.",
+    "Men bir bolani topdim va asrab oldim, u menga g'ayrioddiy tarzda - tug'ma emas, balki buyuk daryo suvlari orqali ko'rsatildi.",
+    "Men Parvardigorimga ibodat qilib, jannatda Unga yaqin uy va meni o'rab turgan zulmdan najot so'radim.",
+    "Men tarbiyalagan farzand taqdirimni boshqargan hukmdorga qarshi chiqish uchun ulg'aygan va men tahdid ostida bo'lganimga qaramay, imonimda mustahkam turdim.",
+    "Men Qur'onda imon namunasi sifatida ulug'langan odamman va men Fir'avnning saroyida yashaganman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avnning xotini Osiyo",
+        "Iso alayhissalomning onasi Maryam",
+        "Bilqis, Sheba malikasi",
+        "Lut payg'ambarning xotini",
+        "Imronning xotini"
+      ],
+      "answer": "Fir'avnning xotini Osiyo"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buyuk payg'ambarga aylangan tashlandiq go'dakni topish va uni tarbiyalash",
+        "Zolim tomonidan katta olovga tashlanmoqda",
+        "Bir xalqni vayron qilgan buyuk suv toshqiniga guvoh bo'lish",
+        "Xurmo kokteylidan bahramand bo'lish va ovqatlanish",
+        "Yoshi katta bo'lishiga qaramay, o'g'il ko'rish"
+      ],
+      "answer": "Buyuk payg'ambarga aylangan tashlandiq go'dakni topish va uni tarbiyalash"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Misli ko'rilmagan ulug'vorlikdagi qirollik saroyi",
+        "To'fonga bardosh berish uchun qurilgan ajoyib kema",
+        "Tog'larda yashiringan chuqur g'or",
+        "Tog' cho'qqisida yonayotgan olov",
+        "Devorlar bilan o'ralgan bog'"
+      ],
+      "answer": "Misli ko'rilmagan ulug'vorlikdagi qirollik saroyi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Allohning irodasi bilan jannatda uy berildi",
+        "Qadimgi bir xalqning kofirlarini katta to'fon vayron qildi.",
+        "Bu dunyoda ulkan kuch va hokimiyat shohligi berildi",
+        "Qushlar uchib ketayotgan qudratli qo'shinni tarqatib yubordi",
+        "Ilohiylikni da'vo qilgan zolim dengizda cho'kib ketdi"
+      ],
+      "answer": "Allohning irodasi bilan jannatda uy berildi"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den befjädrade spejaren",
+  "intro": "Inom ett kungarike styrt av en som fått herravälde över vindarna, de osynliga varelserna och himlens varelser, försvann en liten och snabb medlem från leden – bara för att återvända med uppenbarelser som skulle omforma en avlägsen nations öde. Denne skarpsynte informant förde sanningen fram i ljuset där okunnigheten hade slagit rot. Vem är jag?",
+  "clues": [
+    "Jag tjänstgjorde vid ett hov där människor, osynliga varelser och himlens varelser svarade inför en enda vis härskare som befallde själva vindarna.",
+    "Jag var frånvarande från min post en tid, och härskarens vrede utlovades om jag inte kunde ange ett tillfredsställande skäl.",
+    "Jag är en liten flygfärdig varelse, känd för skarp syn, och min sort hedrades med direkt namngivning i uppenbarelsens sidor.",
+    "När jag återvände hade jag nyheter om ett avlägset land där folket föll ner inför solen, blinda för Honom som skapat himmel och jord.",
+    "Jag fann en kvinna som regerade över ett stort rike, sittande på en magnifik tron, utan att ha känt sanningen förut.",
+    "Jag är den som upptäckte Sabas rike och bar ett inbjudningsbrev från en profetkung som fick herravälde över vinden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Härfågeln (Hudhud)",
+        "Myran från Sulaimans dal",
+        "Asif ibn Barkhiya",
+        "Ifrit, djinnen",
+        "En tronängel"
+      ],
+      "answer": "Härfågeln (Hudhud)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Expeditionen till kungariket Saba (Sheba)",
+        "Konfrontationen med Faraos trollkarlar",
+        "Profeten Nuhs flod",
+        "Förstörelsen av folket i 'Ad",
+        "Röda havets delning"
+      ],
+      "answer": "Expeditionen till kungariket Saba (Sheba)"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Sabas land (Sheba)",
+        "Sinaiberget",
+        "Profeten Nuhs ark",
+        "Ashab al-Kahfs grotta",
+        "Faraos palats"
+      ],
+      "answer": "Sabas land (Sheba)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bilqis underkastade sig Sulaimans hov",
+        "Farao och hans armé drunknade i havet",
+        "Folket i 'Ad förintades av en våldsam vind",
+        "Faraos trollkarlar trodde på profeten Musa",
+        "En stor översvämning förtärde de icke-troende"
+      ],
+      "answer": "Bilqis underkastade sig Sulaimans hov"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "I ascoltadur del invisibil",
+  "intro": "Oltre el vel del mond visibil, un’assemblea sconduda la s’è radunada in del buio, atirada a un son che sfidava tüt chel che g’havevan cognossü. A i eren vagads per secoi senza una vera guida, fina a quand una vus l’ha traversad el silenzi del so regn invisibel e l’ha s’ciopad vergot ind el lor. Stasira, l’è invità a nà olter l’ombria e a descüvrir l’identidà de chestu grupp misterius, che el sò incunter cunt i paroll divin g’ha purtà indrèe a luur gent cuma avvertidur de una verità che pudeva no vèss cuntenüda.",
+  "clues": [
+    "Num sem di vècc, che esisten tant prima de tanti naziun che g’he l’è stà lett, e ancamò se parla rarament de nun in di stòri del òmm.",
+    "La nòsta natüra l’è diferent de la tò, tessüda de element del invisibil, e g’hem di podè che sfidan l’urdinari.",
+    "Per tanti an, sem stà in gir senza una vera guida, fin quand un son l’è rivà che g’ha slanzà quaicos de denter.",
+    "G’hem sentid una recitazion come nient qe g’hem mai sentid, parolle qe i portaven un pes olter a qualsessia discurs.",
+    "G’hem ciapà denter in segret, g’hem cumandà ai noster de stà mut, e quand che i versi finivan, pudem minga restà ferm.",
+    "Num turnam al noster popul e dichiaram: “O noster popul, g’hem sentid un Liber rivelà dopu Mosé, che cunfermava chel che l’era prima, che guidava a la verità.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "I Hawariyyun (discepol de Isa)",
+        "I Jinn che g’han creduu dopu avegh ascultà el Coran",
+        "I compagn de la caverna",
+        "I angel del ciel püsee bas",
+        "El popul del Faraon che g’ha seguì el sò camin"
+      ],
+      "answer": "I Jinn che g’han creduu dopu avegh ascultà el Coran"
+    },
+    "trial": {
+      "label": "Prova / Event",
+      "options": [
+        "Sun stà cascià fœura perché g’hem refudà de inclinàs davaant a un vesser nöf creà",
+        "Sun stà sigillà en una caverna per tricentnœuf an",
+        "G’hem ricevü el cumand de traversà un mar che se divideva davaant a nun",
+        "Sun stà mandà en una tera de la magia per imparà la stregoneria",
+        "G’hem ascultà una recitaziun en segret e sem stà trasfurmà"
+      ],
+      "answer": "G’hem ascultà una recitaziun en segret e sem stà trasfurmà"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un vitell d’or creà di ornament de un popul",
+        "Una caverna indué el sonn l’è durà per generaziun",
+        "Do angel in Babilonia qe insegnaven el saver proibid",
+        "Un liber rivelà dopu Mosé, che cunfermava la Torah",
+        "Un busc in früsa sü la cima de una montagna santa"
+      ],
+      "answer": "Un liber rivelà dopu Mosé, che cunfermava la Torah"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Num sem stà maledet fin al Dì del Giudizi",
+        "G’hem levà sü cuntra un putent suvran e g’hem costruì una barriera in de la terra",
+        "Sem stad trasfurmà en scimi e en porci",
+        "Tornam al noster popul cuma avvertidur, proclamand la credenza",
+        "Sem stad affogad in del mar insema al noster capo"
+      ],
+      "answer": "Tornam al noster popul cuma avvertidur, proclamand la credenza"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

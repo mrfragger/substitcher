@@ -1,0 +1,61 @@
+{
+  "title": "Ang Paghahari ay Sinubukan ng Isang Ilog",
+  "intro": "Isang pinuno ang tumataas sa pamamagitan ng banal na utos noong sinaunang panahon. Ang paghahari ng pinunong ito ay nagsimula hindi nang may kaluwalhatian kundi sa isang pagsubok sa pamamagitan ng umaagos na tubig. Isang matapang na kaaway ang hahamon sa kanilang hukbo, at ang resulta ay magbabago sa takbo ng kasaysayan. Mahuhulaan mo ba kung sino ang pigurang ito?",
+  "clues": [
+    "Pinili ako upang pamunuan ang isang dakilang bansa, ngunit ang paghirang ay nagmula sa itaas, hindi sa mga tao.",
+    "Isang sagradong bagay ang ibinalik sa aking bayan bilang tanda ng aking pamamahala.",
+    "Sinubukan ko ang aking mga sundalo gamit ang isang ilog — karamihan ay uminom mula rito at nabigo.",
+    "Isang kakila-kilabot na mandirigma na nagngangalang Jalut ang dumating laban sa amin kasama ang isang malaking hukbo.",
+    "Isang binata mula sa aking hanay, na armado lamang ng pananampalataya, ang nagpabagsak kay Jalut.",
+    "Pagkatapos ng ating tagumpay, ang kaharian ay kalaunan ay ipinagkatiwala sa batang kampeong iyon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Talut (Saul)",
+        "Jalut (Goliath)",
+        "Propeta David",
+        "Propeta Musa",
+        "Propeta Harun"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Sinubukan gamit ang isang ilog",
+        "Itinapon sa nagliliyab na apoy",
+        "Inutusang isakripisyo ang isang anak na lalaki",
+        "Inutusang gumawa ng isang malaking arka",
+        "Nilunok ng isang malaking isda"
+      ],
+      "answer": "Sinubukan gamit ang isang ilog"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang Kaban ng Tipan",
+        "Isang tungkod na humahati sa dagat",
+        "Isang lambanog at makinis na mga bato",
+        "Isang ginintuang idolo ng guya",
+        "Isang kahanga-hangang trono"
+      ],
+      "answer": "Ang Kaban ng Tipan"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Inilipat ang Kaharian sa batang kampeon (Dawud)",
+        "Nalunod kasama ang hukbo sa dagat",
+        "Ligtas na nahila mula sa nagliliyab na apoy",
+        "Nilamon ng lupa ng mga kayamanan",
+        "Sinunog nang buhay sa nagliliyab na kanal"
+      ],
+      "answer": "Inilipat ang Kaharian sa batang kampeon (Dawud)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

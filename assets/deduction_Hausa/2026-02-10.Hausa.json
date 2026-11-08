@@ -1,0 +1,60 @@
+{
+  "title": "Barcin Zamani",
+  "intro": "Za ka fara tafiya cikin lokaci, kana fuskantar wani babban sirri na imani da ikon allahntaka. Ka yi tunanin wata ƙungiyar mutane da suka saba wa ƙa'idodin al'ummarsu, suna manne wa tauhidi a cikin duniyar shirka. Labarinsu shaida ne ga ikon Allah na kare bayinsa nagari ta hanyoyi mafi ban mamaki. Za ka iya gano asalin waɗannan mutane masu ban mamaki?",
+  "clues": [
+    "Mu ƙaramin rukuni ne na samari waɗanda suka yi imani da Allah ɗaya, duk da yawan shirkar da mutanenmu ke yi.",
+    "Mun gudu daga wani azzalumi mai mulki wanda ya yi mana barazana saboda imaninmu, yana tsoron tsanantawa da mutuwa.",
+    "Mun nemi mafaka a wani wuri mai keɓancewa, muna fatan rahamar Allah da kariya daga masu zaluntarmu.",
+    "Ubangijinmu ya sa muka yi barci mai zurfi, barci mai ban mamaki wanda ya hana lokaci wucewa.",
+    "Da muka farka, mun yi imani cewa mun huta ne kawai na kwana ɗaya ko wani ɓangare na yini, ba tare da sanin babban lokacin da ya wuce ba.",
+    "Alqur'ani ya ambaci cewa mun zauna a cikin wannan hali namu tsawon shekaru ɗari uku, kuma muka wuce da tara, wanda hakan ya zama alama ga bil'adama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Mutanen Ramin",
+        "Mutanen Samudawa",
+        "Mutanen Kogo",
+        "Mutanen Madyana",
+        "Sahabban Giwa"
+      ],
+      "answer": "Mutanen Kogo"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Fuskantar ambaliyar ruwa mai girma",
+        "Ƙasa ta haɗiye shi",
+        "Dogon barci mai ban mamaki",
+        "Rushewar birninsu",
+        "Rabe-raben teku"
+      ],
+      "answer": "Dogon barci mai ban mamaki"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Daji mai ƙonewa",
+        "Dutsen",
+        "Jirgin ruwa",
+        "Kogo",
+        "Rijiya"
+      ],
+      "answer": "Kogo"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba su dukiya da iko mai yawa",
+        "An rikide su zuwa birai da aladu",
+        "An tashe su daga barci a matsayin babbar alama",
+        "An nutsar da su cikin babban ambaliya",
+        "Sun gina wata babbar masarauta"
+      ],
+      "answer": "An tashe su daga barci a matsayin babbar alama"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

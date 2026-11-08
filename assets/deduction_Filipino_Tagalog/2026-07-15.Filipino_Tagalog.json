@@ -1,0 +1,61 @@
+{
+  "title": "Ang Nag-iisang Retreat",
+  "intro": "Sa mga talaan ng banal na biyaya, mayroong isang kaluluwang may walang kapantay na kadalisayan, na inihiwalay sa kanilang mga tao upang maghanap ng pag-iisa sa isang banal na direksyon. Hindi nila alam na ang pag-iisang ito ay magdudulot ng isang tanda para sa lahat ng mundo, isang pagsubok sa pananampalataya na babanggitin magpakailanman.",
+  "clues": [
+    "Nakatuon ako sa isang buhay na naglilingkod bago pa ako isinilang.",
+    "Ako ay inilagay sa ilalim ng pangangalaga ng isang marangal na propeta.",
+    "Pinalakas ako ng mga panustos mula kay Allah na ikinamangha ng aking tagapag-alaga.",
+    "Umalis ako sa aking pamilya at lumipat sa isang silangang lugar.",
+    "Isang anghel ang nagpakita sa akin sa anyong isang perpektong tao, dala ang balita ng isang dalisay na anak.",
+    "Pagbalik ko dala ang aking bagong silang na sanggol, inakusahan ako ng aking mga kababayan, ngunit ang sanggol ay nagsalita para ipagtanggol ako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiyah (asawa ng Paraon)",
+        "Hajar (ina ni Ismail)",
+        "Sarah (asawa ni Ibrahim)",
+        "Ang ina ni Musa"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Mahimalang paglilihi at pagsilang ng isang anak na lalaki",
+        "Itinapon sa apoy",
+        "Nilunok ng isang higanteng isda",
+        "Paggawa ng isang malaking arka",
+        "Pagtawid sa dagat"
+      ],
+      "answer": "Mahimalang paglilihi at pagsilang ng isang anak na lalaki"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang liblib na lugar sa silangan",
+        "Ang nasusunog na palumpong",
+        "Ang Dagat na Pula",
+        "Ang bato kung saan bumubulwak ang tubig",
+        "Ang balyena"
+      ],
+      "answer": "Isang liblib na lugar sa silangan"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Isang sanggol ang nagsalita bilang pagtatanggol sa isang ina",
+        "Nahati ang dagat",
+        "Ang apoy ay naging malamig at ligtas",
+        "Sumuka ang balyena sa baybayin",
+        "Ang arka ay lumapag sa isang bundok"
+      ],
+      "answer": "Isang sanggol ang nagsalita bilang pagtatanggol sa isang ina"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

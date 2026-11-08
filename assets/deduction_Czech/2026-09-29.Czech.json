@@ -1,0 +1,61 @@
+{
+  "title": "Prorok Vytesaných hor",
+  "intro": "V drsných pouštích starověké Arábie se mezi lidmi proslulými svým mimořádným řemeslným zpracováním vynořila postava. Jejich domy se tyčily z pevné skály, ale jejich srdce byla tvrdší než hory, které vytesali. Boží posel dorazil s jediným zázračným znamením – ale pýcha a vzdor vedly k rychlým a děsivým následkům. Dokážete identifikovat ušlechtilého služebníka, jehož lid dal přednost zkáze před vedením?",
+  "clues": [
+    "Byl jsem poslán jako varovatel svému lidu a vyzýval jsem ho k uctívání Jediného Boha.",
+    "Můj lid žil mezi dramatickými skalními útvary a vytesával si velkolepá obydlí do horských svahů.",
+    "Na mou modlitbu se z pevné skály vynořila zázračná velbloudice, jasné znamení od Všemohoucího.",
+    "Řekl jsem svému lidu, aby se s touto velbloudicí podělili o vodu a neubližovali jí.",
+    "Můj lid zosnoval pikle proti velbloudici a podřízl jí žily, čímž si zpečetil vlastní zkázu.",
+    "Můj lid zasáhlo děsivé zemětřesení a zůstali bez hnutí ve svých obydlích."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Sálih",
+        "Prorok Hud",
+        "Prorok Šu'ajb",
+        "Prorok Nuh",
+        "Prorok Músa"
+      ],
+      "answer": "Prorok Sálih"
+    },
+    "trial": {
+      "label": "Jaký byl rozhodující proces?",
+      "options": [
+        "Podvrtnutí hamstringu zázračné velbloudice",
+        "Stavba velké archy uprostřed posměchu",
+        "Tváří v tvář tyranskému faraonovi",
+        "Být uvržen do planoucího ohně",
+        "Porušení smlouvy o sabatu"
+      ],
+      "answer": "Podvrtnutí hamstringu zázračné velbloudice"
+    },
+    "location": {
+      "label": "Co bylo ústředním prvkem?",
+      "options": [
+        "Velbloudice, která se vynořila ze skály",
+        "Velká dřevěná archa",
+        "Hůl, která rozdělila moře",
+        "Obrovská velryba",
+        "Hora zavěšená nad hlavou"
+      ],
+      "answer": "Velbloudice, která se vynořila ze skály"
+    },
+    "outcome": {
+      "label": "Jaký byl jejich konečný osud?",
+      "options": [
+        "Náhlé zemětřesení z nebes",
+        "Utopený v mohutné povodni",
+        "Jejich města byla zbořena božím rozkazem",
+        "Spálen spalujícím větrem",
+        "Pohlceno zemí"
+      ],
+      "answer": "Náhlé zemětřesení z nebes"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Balss pirms vētras",
+  "intro": "Tuksnesī piecēlās kāda figūra, lai aicinātu varenu tautu atgriezties pie patiesības. Cilvēki bija pazīstami ar savām krāšņajām ēkām un nepārspējamo spēku. Tomēr lepnums viņus apžilbināja, un viņi atteicās klausīties. Galu galā viņus piemeklēja postošs sods, saudzējot tikai nelielu ticīgo grupu.",
+  "clues": [
+    "Mani sūtīja pie vareniem cilvēkiem, kas dzīvoja atklātās zemēs un bija pazīstami ar savu varenību.",
+    "Mana tauta nāca pēc citas lielas tautas, kas bija iznīcināta.",
+    "Viņiem bija krāšņas celtnes un augsti torņi.",
+    "Es aicināju viņus pielūgt Vienu Dievu, bet viņi atteicās pamest savus elkus.",
+    "Viņus piemeklēja nežēlīgs sods, saudzējot tikai tos, kas ticēja kopā ar mani.",
+    "Esmu tas, kas sūtīts pie varenas tautas, kas pazīstama kā Aads."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Huds",
+        "Pravietis Salihs",
+        "Pravietis Šuaibs",
+        "Pravietis Nuhs",
+        "Pravietis Ibrahims"
+      ],
+      "answer": "Pravietis Huds"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lielie plūdi",
+        "Dusmīgs, spēcīgs vējš",
+        "Zemestrīce un šausminošs kliedziens",
+        "Degošu akmeņu lietus",
+        "Debesu uguns no augšas"
+      ],
+      "answer": "Dusmīgs, spēcīgs vējš"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Liels šķirsts, kas uzcelts kalnā",
+        "Unikāla kamieļu mātīte",
+        "Persona, kas pārvērtās par čūsku",
+        "Augstas ēkas un augstceltnes",
+        "Liesmojošs sārts"
+      ],
+      "answer": "Augstas ēkas un augstceltnes"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Visi noslīka lielos plūdos",
+        "Manu tautu iznīcināja spēcīgs vējš, kamēr es tiku izglābts",
+        "Manu tautu skāra zemestrīce un viņi raudāja",
+        "Mani cilvēki apmētāti ar akmeņiem no debesīm",
+        "Mana tauta iemesta liesmojošā ugunī"
+      ],
+      "answer": "Manu tautu iznīcināja spēcīgs vējš, kamēr es tiku izglābts"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

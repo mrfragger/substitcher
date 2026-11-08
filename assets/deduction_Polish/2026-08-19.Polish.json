@@ -1,0 +1,61 @@
+{
+  "title": "Naród, który sprzeciwił się naturalnemu porządkowi",
+  "intro": "W regionie, którego historia echem sięga wieków, społeczność żyła w otwartym buncie przeciwko prawom czystości. Ich czyny były tak bezprecedensowe, że zostały zapamiętane jako przestroga dla całej ludzkości. Kim były te dusze i jaki los je spotkał?",
+  "clues": [
+    "Mieszkaliśmy w krainie, przy której często przemierzali podróżni, ale sprawiliśmy, że ich podróż stała się niebezpieczna.",
+    "Dopuściliśmy się aktów nieprzyzwoitości, jakich nie popełnił nikt przed nami.",
+    "Posłaniec spośród nas wezwał nas do porzucenia naszych dróg, ale odrzuciliśmy go i zażądaliśmy kary, jeśli będzie prawdomówny.",
+    "Kiedy przystojni goście przybywali do naszego miasta, chcieliśmy ich zaatakować, nie wiedząc, że byli posłańcami zniszczenia.",
+    "Ostrzegano nas, że jeśli nie zaprzestaniemy, czeka nas straszna kara, lecz zlekceważyliśmy to ostrzeżenie i trwaliśmy w grzechu.",
+    "Deszcz kamieni z nieba spadł na nas, a nasze domy zostały zburzone, nie pozostawiając po sobie żadnego śladu oprócz znaku dla tych, którzy się zastanawiają."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie Lutu",
+        "Ludzie z Thamud",
+        "Ludzie A'ad",
+        "Ludzie Madyanu",
+        "Ludzie Saby"
+      ],
+      "answer": "Ludzie Lutu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Dopuścił się niespotykanej dotąd niemoralności i zablokował drogi",
+        "Oddawał cześć złotemu cielcowi",
+        "Zabiłem świętą wielbłądzicę",
+        "Oszukano w handlu i oszukano ludzi",
+        "Zbudował wysoką wieżę, by rzucić wyzwanie niebiosom"
+      ],
+      "answer": "Dopuścił się niespotykanej dotąd niemoralności i zablokował drogi"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Aniołowie przebrani za przystojnych gości",
+        "Wielbłądzica wyłaniająca się ze skały",
+        "Laska zmieniająca się w węża",
+        "Łódź zbudowana na górze",
+        "Ogień, który stał się chłodny i spokojny"
+      ],
+      "answer": "Aniołowie przebrani za przystojnych gości"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zniszczony przez deszcz kamieni z nieba",
+        "Pochłonięty przez ziemię",
+        "Utonął w wielkiej powodzi",
+        "Uderzony przez krzykliwy wybuch",
+        "Przemienieni w małpy"
+      ],
+      "answer": "Zniszczony przez deszcz kamieni z nieba"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

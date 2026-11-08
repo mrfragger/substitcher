@@ -1,0 +1,61 @@
+{
+  "title": "Ang Arkitekto sa Bakak nga Ambisyon",
+  "intro": "Usa ka tawo nga adunay dakong awtoridad ang nagserbisyo kaniadto sa usa sa labing bangis nga mga malupigon sa karaang Ehipto. Kini nga indibidwal gisaligan sa usa ka maisog nga sugo — ang pagtukod og usa ka estruktura nga gituyo aron mosukol sa kalangitan. Ang ilang istorya nagbarog sa Quran isip usa ka talagsaong leksyon kon giunsa nga ang buta nga pagsunod sa pagkamapahitas-on mosangpot lamang sa kalaglagan.",
+  "clues": [
+    "Nagserbisyo ako sa mga korte sa usa ka gamhanang magmamando nga nag-angkon nga siya ang may gahom sa pagdumala sa kayutaan.",
+    "Nagkupot kog taas nga posisyon sa ministro, nga nagtambag sa labing arogante nga malupigon sa akong panahon.",
+    "Ang akong magmamando nahurot sa paghagit sa Dios ni Moises, nga ilang gidumilian sa pag-ila.",
+    "Gisugo ako sa pagtukod og tore nga hinimo sa mga tisa nga giluto sa kalayo aron ang akong magmamando makasaka ngadto sa kalangitan.",
+    "Ang tore wala gyud makaabot sa langit, ug ang akong pagkaulipon sa pagkamapahitas-on naghatag kanako og walay katapusan nga kaulawan.",
+    "Namatay ako uban sa usa nga akong gisundan, ug ang akong ngalan nahimong usa ka walay katapusan nga pasidaan batok niadtong mga naghatag og gahum sa mga malupigon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Haman",
+        "Azar (amahan ni Ibrahim)",
+        "Illyas (usa ka propeta)",
+        "Dhu al-Kifl",
+        "Si Harut (usa sa duha ka anghel sa Babilonia)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Gisugo sa pagtukod og habog nga estruktura aron makaabot sa kalangitan",
+        "Gihangyo sa paghubad sa damgo nga gipadala gikan sa diosnon",
+        "Gilabay ngadto sa nagdilaab nga kalayo isip pagsulay sa pagtuo",
+        "Napugos sa pagpili tali sa trono ug kamatuoran",
+        "Gihagit sa usa ka kompetisyon sa salamangka"
+      ],
+      "answer": "Gisugo sa pagtukod og habog nga estruktura aron makaabot sa kalangitan"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka tore sa mga tisa nga giluto sa kalayo",
+        "Usa ka sungkod nga nahimong bitin",
+        "Usa ka barko nga naglawig latas sa dakong baha",
+        "Usa ka tanaman nga gilibutan sa taas nga mga kuta",
+        "Usa ka trono nga gidayandayanan og mga rubi ug bulawan"
+      ],
+      "answer": "Usa ka tore sa mga tisa nga giluto sa kalayo"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Nalumos tupad sa malupigon sa dagat",
+        "Nahimong gamhanang monarko sa halapad nga mga yuta",
+        "Nakalingkawas sa nagdilaab nga kalayo nga wala maunsa",
+        "Nagtukod ug usa ka mauswagon nga gingharian sa kaalam",
+        "Nahiusa pag-usab sa pamilya human sa mga katuigan nga pagkadestiyero"
+      ],
+      "answer": "Nalumos tupad sa malupigon sa dagat"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

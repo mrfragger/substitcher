@@ -1,0 +1,61 @@
+{
+  "title": "Un petit avís abans d'una host en marxa",
+  "intro": "Entra en una vall on s'acosten un poderós governant i una gran multitud, i imagina't un petit viatger donant un avís que salva tota una comunitat. Quan la comunitat amenaçada arriba a refugi, el perill passa. Segueix les pistes per identificar la figura passada per alt darrere d'aquest avís.",
+  "clues": [
+    "Sóc una de les petites criatures associades amb el regne d'un governant.",
+    "La meva comunitat viu en habitatges dins d'una vall, on un de nosaltres pot cridar als altres.",
+    "Ens enfrontem a una amenaça d'aquell governant i dels exèrcits que viatgen amb ell.",
+    "Sóc jo qui crida la meva comunitat a entrar a les seves llars i ens adverteix que no ens deixem aixafar sense saber-ho.",
+    "El governant és Sulayman, i la meva espècie és una de les criatures posades sota el seu comandament.",
+    "Sóc la formiga d'aquella vall; després del meu avís, vam entrar a les nostres llars i vam escapar de l'aixafament que altrament ens hauria agafat desprevinguts."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La formiga de la vall",
+        "La puput",
+        "El corb",
+        "La serp",
+        "La Mula"
+      ],
+      "answer": "La formiga de la vall"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Un avís que va salvar una comunitat de formigues",
+        "Una petició d'un anell d'un peix",
+        "La recerca d'un tron ​​perdut",
+        "El rescat dels ulls robats",
+        "Rebutjar menjar el menjar d'un governant"
+      ],
+      "answer": "Un avís que va salvar una comunitat de formigues"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Vall de les Formigues",
+        "L'anell de segell de Sulayman",
+        "La camisa tacada de sang de Yusuf",
+        "El vedell d'or de l'Èxode",
+        "El bastó de Musa"
+      ],
+      "answer": "La Vall de les Formigues"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La comunitat es va salvar després de refugiar-se",
+        "La comunitat va ser destruïda sense refugiar-se",
+        "La comunitat es va salvar perquè l'exèrcit es va retirar",
+        "La comunitat va ser recompensada amb el control sobre els ocells",
+        "La comunitat va ser portada captiva a la cort reial"
+      ],
+      "answer": "La comunitat es va salvar després de refugiar-se"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

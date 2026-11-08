@@ -1,0 +1,61 @@
+{
+  "title": "məhvə dəvət edən ittifaq",
+  "intro": "Vəhy ilə eyni dam altında sığındığınızı, eyni zamanda fərqli bir sədaqət seçdiyinizi təsəvvür edin. Bu şəxsiyyət həqiqətə və peyğəmbərliyə çox yaxın yaşasa da, onu rədd edənlərə tərəf döndü. Onların hekayəsi, yalnız salehliyə yaxınlığın əmanətə xəyanət edən bir canı xilas edə bilməyəcəyinə dair ciddi bir xəbərdarlıqdır.",
+  "clues": [
+    "Mən Allahın seçdiyi bir peyğəmbərin evində yaşayırdım.",
+    "Ərimin təbliğ etdiyi həqiqəti bilirdim, amma ona həqiqətən inanmırdım.",
+    "Mən onun rədd etdiyi xalqın tərəfini tutub onlara qarşı çıxmaqda kömək etməklə onun etibarını aldatdım.",
+    "Kafirlərə bir nümunə olaraq, mən başqa bir peyğəmbərin xəyanət etmiş həyat yoldaşı ilə birlikdə xatırlanıram.",
+    "Mənim hekayəm \"Təhrim\" surəsində peyğəmbərlərlə qohumluğun heç bir qoruma yaratmadığı barədə xəbərdarlıq kimi nəql olunur.",
+    "Allah Lut qövmünü məhv etdiyi zaman mən də zalımlarla birlikdə həlak oldum. Mən də zalımlarla birlikdə həlak oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Lut peyğəmbərin həyat yoldaşı",
+        "Fironun həyat yoldaşı Asiya",
+        "İmranın həyat yoldaşı",
+        "İbrahim peyğəmbərin həyat yoldaşı Sara",
+        "Əl-Əzizin həyat yoldaşı"
+      ],
+      "answer": "Lut peyğəmbərin həyat yoldaşı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Peyğəmbərə qarşı kafirlərə kömək edərək ona xəyanət etdi",
+        "Körpəni xilas etmək üçün onu səbətə salıb çaya atmaq",
+        "Peyğəmbərin yoxluğunda qızıl buzov düzəldilməsini tələb etdi",
+        "Saleh bir keşişi günahkarlıqda ittiham edib həbs etdi",
+        "Kəbəni dağıtmaq üçün fillərdən ibarət bir orduya rəhbərlik etdi"
+      ],
+      "answer": "Peyğəmbərə qarşı kafirlərə kömək edərək ona xəyanət etdi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Lut qövmünün alt-üst olmuş şəhərləri",
+        "İlahi əmr altında tikilmiş gəmi",
+        "Atəş İbrahimi soyudu",
+        "Yatan gənclər üçün sığınacaq mağarası",
+        "Körpənin səbətinin tapıldığı çay"
+      ],
+      "answer": "Lut qövmünün alt-üst olmuş şəhərləri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Peyğəmbərlə evliliyinə baxmayaraq, kafirlərlə birlikdə həlak oldular.",
+        "Möminlərlə birlikdə xilas oldu və Cənnətə rahatlıqla daxil oldu.",
+        "Sonrakı nəsillər üçün bir işarə olaraq bir sütuna çevrildi",
+        "Yer üzünə böyük xəzinələr ilə birlikdə uduldu",
+        "Qocalıqda möcüzəvi bir uşaq bəxş etdi"
+      ],
+      "answer": "Peyğəmbərlə evliliyinə baxmayaraq, kafirlərlə birlikdə həlak oldular."
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

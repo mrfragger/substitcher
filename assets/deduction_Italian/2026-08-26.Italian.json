@@ -1,0 +1,61 @@
+{
+  "title": "L'invidia che consumava",
+  "intro": "Una storia più antica di qualsiasi regno o scrittura sacra: la prima tragedia umana nata dalla gelosia. Un'anima, la maggiore di due figli nati dai primi genitori, assistette con furia al favore che veniva negato al fratello minore. Ciò che seguì fu la più oscura delle scelte, che lasciò dietro di sé il primo sangue mai versato sulla terra. Riuscirai a svelare l'identità, il processo e l'amaro rimpianto?",
+  "clues": [
+    "Sono nato dalla primissima coppia di esseri umani che ha camminato sulla Terra.",
+    "Una volta feci un'offerta ad Allah, ma non fu accettata da me.",
+    "L'offerta di mio fratello è stata accettata, mentre la mia è stata rifiutata, cosa che non potevo sopportare.",
+    "Ho minacciato mio fratello di morte.",
+    "Sono stato il primo a commettere un omicidio su questa terra, togliendo la vita a mio fratello.",
+    "Allah ha mandato una creatura della terra, un uccello nero che scavava nel terreno, per insegnarmi come nascondere ciò che avevo fatto, e non mi è rimasto altro che rimorso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Qabil (Caino)",
+        "Habil (Abel)",
+        "Profeta Yaqub",
+        "Profeta Mosè",
+        "Profeta Adamo"
+      ],
+      "answer": "Qabil (Caino)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Offerta rigettata da Allah",
+        "Gettato in un grande fuoco",
+        "Abbandonato da neonato in un fiume",
+        "Testato con un immenso regno",
+        "Comandato di sacrificare il proprio figlio"
+      ],
+      "answer": "Offerta rigettata da Allah"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il corvo inviato da Allah",
+        "Il vitello d'oro",
+        "L'arca sulla montagna",
+        "Il roveto ardente",
+        "La cammella scolpita nella roccia"
+      ],
+      "answer": "Il corvo inviato da Allah"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Si riempì di rimpianti e si ritrovò tra i perdenti",
+        "Inghiottito dalla terra insieme ai tesori",
+        "Divenne un nobile messaggero di Allah",
+        "Entrato in Paradiso per divina misericordia",
+        "Governò un regno senza eguali"
+      ],
+      "answer": "Si riempì di rimpianti e si ritrovò tra i perdenti"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

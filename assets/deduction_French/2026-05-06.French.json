@@ -1,0 +1,61 @@
+{
+  "title": "La Voix du Buisson Ardent",
+  "intro": "Découvrez l'identité d'une figure marquante dont le parcours débuta par une rencontre miraculeuse et dont le destin était intimement lié à la libération d'un peuple opprimé. Cet homme fut choisi pour une mission monumentale, confronté à d'immenses défis avec le soutien divin.",
+  "clues": [
+    "Je suis né à une époque de grande oppression, où les nourrissons de mon peuple étaient tués.",
+    "Mon enfance a été marquée par le fait que mes parents m'ont déposé dans une rivière, et pourtant j'ai été trouvé et élevé au sein même de la maison de l'oppresseur de mon peuple.",
+    "J'ai déjà fui une ville après avoir involontairement causé la mort d'une personne lors d'une dispute.",
+    "J'ai reçu un message divin et un bâton miraculeux dans un lieu sacré, où il m'a été ordonné d'affronter un puissant souverain.",
+    "Mon frère a été désigné comme assistant dans ma mission, en raison d'un trouble de la parole perçu chez moi.",
+    "J'ai conduit mon peuple à travers une mer ouverte, échappant à la poursuite d'une armée tyrannique."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Yusuf",
+        "Le prophète Isaïe",
+        "Le prophète Moïse",
+        "Prophète Noé",
+        "Le prophète Ibrahim"
+      ],
+      "answer": "Le prophète Moïse"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Des années de sécheresse persistante",
+        "Construction de l'Arche",
+        "Affronter le pharaon et ses sorciers",
+        "Être jeté dans une fournaise ardente",
+        "La destruction du peuple de Thamud"
+      ],
+      "answer": "Affronter le pharaon et ses sorciers"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La Kaaba",
+        "Le mur de fer",
+        "Le personnel",
+        "Le navire de Noé",
+        "L'Anneau de Sulaiman"
+      ],
+      "answer": "Le personnel"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "La ville de Sodome fut renversée.",
+        "Le peuple fut englouti par la terre",
+        "Le grand déluge a englouti le pays",
+        "Pharaon et son armée se sont noyés.",
+        "Les murs de la ville s'effondrèrent sous un cri"
+      ],
+      "answer": "Pharaon et son armée se sont noyés."
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

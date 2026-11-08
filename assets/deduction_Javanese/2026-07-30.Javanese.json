@@ -1,0 +1,61 @@
+{
+  "title": "Para Pengunjung Aneh saka Kutha Bertembok",
+  "intro": "Sakelompok wong teka ing gapura kutha sing penduduké durung nate ngerti bebener. Dheweke nggawa pesen, nanging para pedunungé malih dadi musuhan, ngancam bakal tumindak kasar. Nanging, saka panggonan sing ora dikarepke, ana swara siji sing muncul kanggo mbela wong-wong liyo kasebut, nyiapake panggung kanggo kedadeyan sing dramatis.",
+  "clues": [
+    "Kita mlebu kutha sing wong-wonge padha kaget banget.",
+    "Wong-wong mau nyawang aku karo curiga lan kandha, 'Kowé mung manungsa biasa kaya aku.'",
+    "Kita wis ngelingake wong-wong mau, nanging wong-wong mau padha ngangkat watu kanggo nglawan kita.",
+    "Ana wong lanang mlayu saka pucuk kutha sing paling adoh kanggo negesake bebener kita.",
+    "Dhèwèké ngendika marang bangsané, 'Yagéné aku ora kudu nyembah Dzat sing nitahaké aku?'",
+    "Penolakan kutha kasebut rampung kanthi sapisan, lan sepi ngereh ing papan sing biyen padha ngece."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Kita?",
+      "options": [
+        "Para Rasul Ya-Sin",
+        "Para Muridé Nabi Isa",
+        "Wong-wong ing Parit",
+        "Para Tukang Sihir Firaun",
+        "Wong sing nganut Ya-Sin"
+      ],
+      "answer": "Para Rasul Ya-Sin"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Penolakan lan ancaman rajam",
+        "Dibuwang menyang geni sing nggegirisi",
+        "Uji sabar karo bocah sing ilang",
+        "Kebon sing ngalami karusakan",
+        "Lelungan ngliwati segara"
+      ],
+      "answer": "Penolakan lan ancaman rajam"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Ujung paling adoh saka kutha",
+        "Segara Abang",
+        "Selokan geni",
+        "Guwa pangungsian",
+        "Penjara Mesir"
+      ],
+      "answer": "Ujung paling adoh saka kutha"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Kutha iki dirusak mung amarga siji swara",
+        "Segara pecah lan nglelebke tentara",
+        "Geni dadi adhem lan aman",
+        "Taman kasebut diobong dening geni swarga",
+        "Paus mau mbalekake wong mau menyang pesisir"
+      ],
+      "answer": "Kutha iki dirusak mung amarga siji swara"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

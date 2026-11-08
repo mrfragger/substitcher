@@ -1,0 +1,61 @@
+{
+  "title": "Vientuļā retrīta vieta",
+  "intro": "Dievišķās labvēlības annālēs ir minēta nepārspējamas šķīstības dvēsele, kas nošķirta no savas tautas, lai meklētu vientulību svētā virzienā. Viņi nemaz nenojauta, ka šī noslēgtība nesīs zīmi visām pasaulēm, ticības pārbaudījumu, par kuru runās mūžīgi.",
+  "clues": [
+    "Pirms dzimšanas es biju veltījis savu dzīvi kalpošanai.",
+    "Mani nodeva cēla pravieša aizbildnībā.",
+    "Mani uzturēja Allāha krājumi, kas pārsteidza manu aizbildni.",
+    "Es attālinājos no ģimenes uz austrumu pusi.",
+    "Man parādījās eņģelis pilnīga cilvēka izskatā, nesot vēsti par šķīstu dēlu.",
+    "Kad es atgriezos ar savu jaundzimušo, mani cilvēki mani apsūdzēja, bet zīdainis runāja manā aizstāvībā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Marija (Marija)",
+        "Asija (faraona sieva)",
+        "Hadžara (Ismaila māte)",
+        "Sāra (Ibrahima sieva)",
+        "Musas māte"
+      ],
+      "answer": "Marija (Marija)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Brīnumaina ieņemšana un dēla piedzimšana",
+        "Tiekot iemests ugunī",
+        "Milzu zivs norīšana",
+        "Liela šķirsta būvēšana",
+        "Jūras šķērsošana"
+      ],
+      "answer": "Brīnumaina ieņemšana un dēla piedzimšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Noslēgta austrumu vieta",
+        "Degošais krūms",
+        "Sarkanā jūra",
+        "Akmens, no kura šļācās ūdens",
+        "Valis"
+      ],
+      "answer": "Noslēgta austrumu vieta"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Zīdainis aizstāvēja māti",
+        "Jūra bija pašķīrusies",
+        "Uguns kļuva vēsa un droša",
+        "Valis izvemās krastā",
+        "Šķirsts piezemējās kalnā"
+      ],
+      "answer": "Zīdainis aizstāvēja māti"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

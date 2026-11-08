@@ -1,0 +1,61 @@
+{
+  "title": "Az időtlen bölcsesség kiosztója",
+  "intro": "Egy tisztelt személyiség, akit mély meglátásairól és bölcs tanácsairól ismertek, egykor olyan tanácsokat adott, amelyek generációkon átívelnek. Szavai, melyeket a szentírások rögzítenek, hálára, türelemre és igazlelkű viselkedésre vezetik az embereket.",
+  "clues": [
+    "Bölcsességgel áldottam meg, nem prófétai mivolttal.",
+    "A legnagyobb bűnre tanácsoltam a gyerekemnek: Allah mellé társakat társítani.",
+    "A tettek súlyáról tanítottam, még egy mustármagnyi értékről is, és arról, hogyan hozza azt elő Allah.",
+    "Hangsúlyoztam az Allah és a szülők iránti hálát, elismerve a gyermekneveléssel járó nehézségeket.",
+    "A tanácsom magában foglalta az ima megkezdését, a jóra való buzdítást, a rossz tiltását, és a minket érő dolgok türelmes elviselését.",
+    "A Koránban egy fejezetet rólam neveztek el, amely a tanításaimat és a megosztott leckéimet tartalmazza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Szulejmán próféta",
+        "Dawud próféta",
+        "Jahja próféta",
+        "Luqman",
+        "Mózes próféta"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Központi téma",
+      "options": [
+        "A Kába építése",
+        "A tenger kettéhasadása",
+        "Bölcsesség adása",
+        "Túlélni egy árvizet",
+        "Egy hal lenyeli"
+      ],
+      "answer": "Bölcsesség adása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A személyzet",
+        "A Tur-hegy",
+        "A fia",
+        "Az aranyborjú"
+      ],
+      "answer": "A fia"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Az ő népét elpusztították",
+        "Bölcsessége kalauzzá vált",
+        "Királyságot adományoztak neki",
+        "A mennyekbe emelték",
+        "Hatalmas vagyont adományoztak neki"
+      ],
+      "answer": "Bölcsessége kalauzzá vált"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

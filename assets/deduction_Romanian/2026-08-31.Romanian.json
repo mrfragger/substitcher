@@ -1,0 +1,61 @@
+{
+  "title": "Vocea Tăcută a Văii",
+  "intro": "Faceți o călătorie în timp, la un popor puternic care a primit odată o minune vie drept test. Aroganța și încăpățânarea le-au pecetluit soarta. Puteți urmări povestea și descoperi ce s-a desfășurat în această cotitură dramatică?",
+  "clues": [
+    "Am fost trimis ca o încercare divină pentru un popor puternic, cunoscut pentru puterea și sfidarea sa.",
+    "Eram o minune unică — nimeni ca mine nu apăruse niciodată printre ei.",
+    "Am împărțit apa potabilă dintr-o fântână cu oamenii mei în zile alternative.",
+    "Au fost avertizați că orice rău împotriva mea va atrage o pedeapsă rapidă.",
+    "Cel mai îndrăzneț dintre ei a ignorat avertismentul și m-a împiedicat.",
+    "După moartea mea, un singur strigăt asurzitor de sus mi-a distrus întregul popor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Cămila lui Salih",
+        "Vaca lui Musa",
+        "Corabia lui Nuh",
+        "Toiagul lui Musa",
+        "Tronul lui Bilqis"
+      ],
+      "answer": "Cămila lui Salih"
+    },
+    "trial": {
+      "label": "Soarta mea",
+      "options": [
+        "Hamstringed și ucis",
+        "Jertfit ca jertfă",
+        "Transformat într-un șarpe",
+        "Păstrat în timpul unei mari inundații",
+        "Adus rapid printr-un regat"
+      ],
+      "answer": "Hamstringed și ucis"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O fântână cu apă",
+        "O tablă de piatră",
+        "Un rug aprins",
+        "O arcă de lemn",
+        "Un tron ​​de aur și argint"
+      ],
+      "answer": "O fântână cu apă"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Distrus de un singur țipăt",
+        "Înecat într-o mare inundație",
+        "Ars de o ploaie de pietre",
+        "Zdrobit de un vânt violent",
+        "Înghițit de pământ"
+      ],
+      "answer": "Distrus de un singur țipăt"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nimetön sielu, joka vastusti epävanhurskasta kansakuntaa",
+  "intro": "Koraanin sivuilla on henkilöitä, joiden nimet on salattu, jotta voisimme pohtia heidän oppituntejaan. Yksi tällainen sielu syntyi kansakunnan keskuudessa, joka oli hylännyt sanansaattajansa, mutta tällä henkilöllä oli salainen usko, joka erotti heidät muista. Kun tuho uhkasi, tämä henkilö pysyi lujana salaisessa uskossaan. Voitko paljastaa tämän salaperäisen hahmon henkilöllisyyden, joka varoittaa kansaansa ennen lopullisen säädöksen langettamista?",
+  "clues": [
+    "Elin kansan keskuudessa, joka oli toistuvasti kieltänyt Allahin heille lähettämät sanansaattajat.",
+    "Toisin kuin kansani, minä tunnistin totuuden, kun lähettiläs saapui selkeiden merkkien kanssa Herraltani.",
+    "Salasin uskoni sortajiltani tietäen, että he vahingoittaisivat minua, jos saisivat uskoni selville.",
+    "Kun rangaistuksen käsky lähestyi, julistin avoimesti uskollisuuteni ja varoitin kansaani pelastamaan itsensä.",
+    "Muistutin heitä, että olen luotettu sanansaattaja, samanlainen kuin aiemmin lähetetyt, ja että heidän ei tulisi palvoa ketään muuta kuin Allahia.",
+    "Kansani syytti minua noituudesta ja hulluudesta, mutta rangaistus, josta heitä varoitettiin, lopulta yllätti heidät."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Hud, Aadin kansan sanansaattaja",
+        "Profeetta Hudin kansasta kotoisin oleva uskova mies, joka kuoli marttyyrikuoleman",
+        "Aadin kansan hallitsija, joka hylkäsi totuuden",
+        "Profeetta Salihin seuralainen, joka epäili jumalallisia merkkejä",
+        "Enkeli lähetettiin tuhoamaan Aadin kansa"
+      ],
+      "answer": "Profeetta Hudin kansasta kotoisin oleva uskova mies, joka kuoli marttyyrikuoleman"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kuivuuden ja nälänhädän koettelemus koetteli heidän kärsivällisyyttään",
+        "Uskontunnustuksen oikeudenkäynti sortavan, epäuskoisen kansakunnan edessä",
+        "Laivan rakentamisen koettelemus suuren tulvan varalta",
+        "Tuleen heittämisen koettelemus uskon vuoksi Allahiin",
+        "Rikkaus ja vauraus koetellaan"
+      ],
+      "answer": "Uskontunnustuksen oikeudenkäynti sortavan, epäuskoisen kansakunnan edessä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Mekan kaupunki, johon pyhä huone rakennettiin",
+        "Kansakunnan autiomaat tasangot, jotka kielsivät sanansaattajansa",
+        "Midianin vuoret, joille profeetta Shu'aib lähetettiin",
+        "Egyptin jokiranta, josta profeetta Musa löydettiin",
+        "Aadin kansan laakso, johon raivoisa tuuli iskee"
+      ],
+      "answer": "Kansakunnan autiomaat tasangot, jotka kielsivät sanansaattajansa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Minut pelastettiin laivalla ja elin, kunnes Allah niin tahtoi",
+        "Kansani uskoi minun jälkeeni ja heidät ohjattiin oikealle tielle",
+        "Kansani tappoi minut, mutta Allahin armo vei sieluni.",
+        "Kaduin koetuksen jälkeen ja Allah hyväksyi katumukseni",
+        "Muutuin kuolemani jälkeen kansani palvomaksi epäjumalaksi"
+      ],
+      "answer": "Kansani tappoi minut, mutta Allahin armo vei sieluni."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

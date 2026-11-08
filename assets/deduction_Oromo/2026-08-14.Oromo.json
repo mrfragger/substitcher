@@ -1,0 +1,61 @@
+{
+  "title": "Harka Abaaramaa",
+  "intro": "Daandiiwwan marsaa Makkaa durii, bakka yeroo tokko lubbuun dhiibbaa fi qabeenya qabdu waamicha dhugaa irraa garagalte keessa dhaabbatta. Seenaan nama kanaa hidhata dhiigaa sansalata of tuulummaa mo’uu akka hin dandeenye yaadachiisa cimaadha. Inni maqaan isaa ibidda eeggachaa jiruun sagalee dhageessisu kun eenyu?",
+  "clues": [
+    "Ergamaan dhiiga koo ta’us, of tuuluun dhugaa na jaamsee daandii Makkaa irra deeme.",
+    "Qabeenyi koo bal’aa ta’us, gaachana osoo hin taane abaarsa ta’e.",
+    "Kitaabni qajeelfamaa waa’ee badiisa koo dubbata, harki koo fi namni koo akka badu labsa.",
+    "Haati manaa koo duula diinummaa kootti makamtee, qoree walitti qabdee karaa nama gara Rabbiitti waame irratti babal’atte.",
+    "Guyyaa firdii ibidda abiddaa boba’aa keessa nan cuuphama, haati manaa koos funyoo fiber meexxii morma ishee ni qabatti.",
+    "Maqaa hiikni isaa ‘abbaa abiddaa’ — maqaa bakka jireenyaa koo isa bara baraa raajii ta’een beekama."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Abuu Lahaab",
+        "Abuu Jahl",
+        "Abuu Xaalib",
+        "Abuu Sufyaan",
+        "Al-Waliid ibnu al-Mughira"
+      ],
+      "answer": "Abuu Lahaab"
+    },
+    "trial": {
+      "label": "Yaali ykn Taatee Ijoo",
+      "options": [
+        "Nabiyyicha mormee Qur'aana keessatti abaaramaa ture",
+        "Waraana Kaaba balleessuuf hooggane",
+        "Dhagaa darbachuun Nabiyyii ajjeesuuf yaalii godhe",
+        "Ji'a addaan ba'uu amanuu dide",
+        "Samii ga'uuf masaraa ijaare"
+      ],
+      "answer": "Nabiyyicha mormee Qur'aana keessatti abaaramaa ture"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Ibidda Jahannam boba'aa jiru",
+        "Ulee Muusaa",
+        "Taabotni Nuh",
+        "Boolla Zamzam",
+        "Re'ee Warqee"
+      ],
+      "answer": "Ibidda Jahannam boba'aa jiru"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Ibidda boba’aa keessa ni seena, qabeenyi isaas isa hin fayyadu",
+        "Towbatee amanticha ta'e",
+        "Erga ofirraa deebisee booda dhiifama argateera",
+        "Wareegama ta'ee du'e",
+        "Gara samiitti ol fudhatame"
+      ],
+      "answer": "Ibidda boba’aa keessa ni seena, qabeenyi isaas isa hin fayyadu"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Klątwa obfitych plonów",
+  "intro": "W starożytnej krainie pewna dusza należała do najbogatszych członków swojej społeczności. Dwukrotnie w ciągu kolejnych lat spłynęły na nich błogosławieństwa ziemi, podwójne żniwo, które powinno napełnić ich serca wdzięcznością. Jednak gdy nadeszła tragedia i wszystko, co posiadali, zostało im odebrane w ciągu jednej nocy, ich reakcja ujawniła prawdziwą naturę ich duszy. Czy potrafisz odkryć tożsamość tej postaci, której historia stanowi przestrogę przed niewiarą w błogosławieństwa Allaha?",
+  "clues": [
+    "Należałem do najszczęśliwszych ludzi w całym kraju, obdarowanych obfitością dóbr.",
+    "W ciągu dwóch lat dwukrotnie udało mi się zebrać plony, jednak serce moje pozostało niewdzięczne wobec mojego Pana.",
+    "Posiadałem wielki ogród z winoroślą, oliwkami i palmami, co było dowodem łaski Allaha.",
+    "Kiedy mój ogród został zniszczony, stałam pośród jego ruin, z rękami wyciągniętymi ku niebu i przeklinając swój los.",
+    "Zaprzeczałem, że Allah mógł spowodować taką stratę, nawet gdy z rozpaczy łamałem dłonie.",
+    "Moją karą nie była tylko utrata ogrodu, ale to, że zostałem zupełnie bezradny w jego ruinach, niezdolny do zwrócenia się o pomoc."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Właściciel ogrodu w Surze 26",
+        "Właściciel dwóch ogrodów z dalekiej krainy",
+        "Bogata dusza z miasta dobrobytu",
+        "Rolnik wspomniany w Sura Al-Kahf",
+        "Właściciel winnicy z czasów proroka Szu’ajba"
+      ],
+      "answer": "Właściciel ogrodu w Surze 26"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Utrata ogrodu zniszczonego w ciągu jednej nocy",
+        "Wielka powódź, która pokryła ziemię",
+        "Poddawanie się próbom z prawdziwymi i fałszywymi prorokami",
+        "Próba wrzucenia w ogień",
+        "Próba pochłonięcia przez ziemię"
+      ],
+      "answer": "Utrata ogrodu zniszczonego w ciągu jednej nocy"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogród z winoroślami, oliwkami i palmami zniszczony przez dwa lata",
+        "Statek zbudowany na wysokiej górze",
+        "Miasto narodu przekraczającego granice",
+        "Studnia w starożytnym Midianie",
+        "Rzeka raju"
+      ],
+      "answer": "Ogród z winoroślami, oliwkami i palmami zniszczony przez dwa lata"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Całkowita bezradność – zniszczenie bez pomocy",
+        "Zmartwychwstanie, aby wejść do raju",
+        "Zostanie prorokiem Allaha",
+        "Przywództwo wielkiego narodu",
+        "Wieczna kara w ogniu"
+      ],
+      "answer": "Całkowita bezradność – zniszczenie bez pomocy"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

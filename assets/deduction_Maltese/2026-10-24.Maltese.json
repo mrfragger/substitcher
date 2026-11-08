@@ -1,0 +1,61 @@
+{
+  "title": "It-Twissija Taħt l-Art",
+  "intro": "Immaġina li tkun wieqaf ħdejn skavar fond hekk kif ilħna jogħlew minn taħt u d-dinja ta’ fuq tiskota. Il-Koran jippreserva din ix-xena bħala twissija: komunità tiċħad dak li jġibu l-messaġġiera, il-kastig joqrob, u anke l-għajta tagħha ssir parti mix-xhieda. Liema kollettiv jitkellem permezz ta’ dawk il-versi?",
+  "clues": [
+    "Fil-Koran niftakru fil-komunità bħala kollettiv definit minn destin wieħed kondiviż aktar milli b'isem individwali.",
+    "Aħna ċħadna l-messaġġ li ġabu l-messaġġiera, avolja dak li qalu kien veru.",
+    "L-identità mfakkra tagħna hija marbuta ma' qasma fonda fl-art, u dik il-karatteristika saret parti minn isimna.",
+    "Fil-jum maħtur, ħarġuna u tkaxkruna lejn in-nar.",
+    "Ma stajniex niddefendu lilna nfusna kontra l-kastig, u ma stajniex nisimgħu l-għajta tiegħu.",
+    "Wiċċna kien ikun imdawwar fin-nar, u konna niġu misjuqa fih; meta mistoqsija, konna ngħidu li konna fost dawk li ma setgħux iwieġbu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Kumpanji tat-Trinka",
+        "Il-Ġens Meħlus mid-Dilluvju l-Kbir",
+        "L-Aduraturi tal-Għoġol tad-Deheb",
+        "Il-Grupp Imkenni Ġewwa l-Għar tal-Muntanja",
+        "Il-Komunità Meħlusa mill-Forn tan-Nar"
+      ],
+      "answer": "Il-Kumpanji tat-Trinka"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Miġbud u mitfugħ fin-Nar",
+        "Meħlus minn forn tan-nar",
+        "Imġarr mingħajr periklu minn għargħar kbir",
+        "Imkenn għal sekli sħaħ ġewwa għar",
+        "Salvat wara li ntefa’ f’bir"
+      ],
+      "answer": "Miġbud u mitfugħ fin-Nar"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Trinka jew ħofra",
+        "Baħar kbir",
+        "Għar tal-muntanji",
+        "Palazz għoli",
+        "Bir tad-deżert"
+      ],
+      "answer": "Trinka jew ħofra"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ma setgħux jiddefendu lilhom infushom u ma setgħux jisimgħu l-għajta tan-Nar",
+        "Salvat u ngħata d-dħul fil-ġonna eterni",
+        "Imwassal mingħajr periklu minn għargħar distruttiv",
+        "Protett minn irqad twil ġewwa għar",
+        "Onorat b’saltna eterna"
+      ],
+      "answer": "Ma setgħux jiddefendu lilhom infushom u ma setgħux jisimgħu l-għajta tan-Nar"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

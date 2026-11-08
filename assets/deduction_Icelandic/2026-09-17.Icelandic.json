@@ -1,0 +1,61 @@
+{
+  "title": "Undir skugga döðlupálma",
+  "intro": "Saga af sál sem var sett í sundur fyrir fæðingu, alin upp innan helgra veggja og valin til að bera tákn sem heimurinn hafði aldrei séð áður. Þegar ásakanir bárust úr öllum áttum barst rödd úr ólíklegustu áttum til að þagga niður í öllum efa. Geturðu uppgötvað hver gekk undir skugga döðlupálmans?",
+  "clues": [
+    "Ég var helgaður þjónustu hins almáttka áður en ég dró fyrsta andann, heit sem sá sem bar mig gaf.",
+    "Ég ólst upp undir vökulum umsjá réttláts verndara innan helgra herbergja tilbeiðslustaðar.",
+    "Alltaf þegar verndari minn kom í herbergi mitt, fann hann hjá mér vistir frá árstíðum, sem ekki áttu að vera til.",
+    "Mér voru gefin gleðifréttir um son, þótt aðstæður mínar gáfu ekki upp á það sem lofað var.",
+    "Ég fór á fjarlægan stað og þar veitti döðlupálmi mér skugga á meðan lækur rann fyrir neðan.",
+    "Þegar ásakanir bárust og spurningar umkringdu mig benti ég á nýfædda barnið mitt – og það talaði frá vöggu til að þagga niður í öllum efasemdum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "María",
+        "Sara",
+        "Hawa",
+        "Umm Musa",
+        "Eiginkona Núhs"
+      ],
+      "answer": "María"
+    },
+    "trial": {
+      "label": "Tilraun / Viðburður",
+      "options": [
+        "Að fæða undraverðan son í einangrun",
+        "Að vera kastað í logandi eld af skurðgoðadýrkendum",
+        "Að lifa af flóðið mikla með fáeinum útvöldum",
+        "Að vera aðskilinn frá ungbarni sem var kastað í ána",
+        "Að takast á við voldugan stjórnanda Egyptalands"
+      ],
+      "answer": "Að fæða undraverðan son í einangrun"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Döðlupálmi og rennandi lækur undir honum",
+        "Voldug örk á turnöldum",
+        "Stafurinn sem klauf stórt haf í tvennt",
+        "Logandi eldur ætlaður til að gleypa trúa sál",
+        "Gullhásæti skreytt með gimsteinum"
+      ],
+      "answer": "Döðlupálmi og rennandi lækur undir honum"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Heiðruð sem sú hæst upphefða allra kvenna",
+        "Sameinuð ástkæru barni eftir langan aðskilnað",
+        "Leiðdi heila þjóð úr fjötrum harðstjórans",
+        "Varaði fólk við sem var týnt í siðleysi",
+        "Veitt yfirráð yfir djinnum, mannkyninu og vindunum"
+      ],
+      "answer": "Heiðruð sem sú hæst upphefða allra kvenna"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

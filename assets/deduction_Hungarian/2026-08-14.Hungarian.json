@@ -1,0 +1,61 @@
+{
+  "title": "Az elátkozott kezek",
+  "intro": "Mekka ősi kanyargós sikátoraiban állsz, ahol egy befolyásos és gazdag lélek elfordult az igazság hívától. Ennek az alaknak a története komoly emlékeztető arra, hogy a vérségi kötelékek nem győzhetik le a büszkeség láncait. Ki ez, akinek a neve visszhangzik a várakozó tűzzel?",
+  "clues": [
+    "Mekka utcáin olyan büszkeséggel jártam, ami elvakított az igazság elől, bár a hírvivő a saját véremből származott.",
+    "Hatalmas vagyonom volt, de inkább átokká, mint pajzsmá vált.",
+    "Az útmutatás könyve az én vesztemről beszél, kijelenti, hogy kezeim és személyem elvesznek.",
+    "A feleségem csatlakozott az ellenségeskedésemhez, töviseket gyűjtött, hogy elszórja azokat annak az útján, aki Allahhoz kiáltott.",
+    "Az ítélet napján lángoló tűzbe vetnek engem, és a feleségem nyaka körül pálmaszálakból készült kötél lesz.",
+    "Egy olyan néven ismernek, aminek a jelentése „láng atyja” – egy név, ami megjövendöli örök hajlékomat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Abu Laháb",
+        "Abu Dzsahl",
+        "Abu Talib",
+        "Abu Szufjan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Laháb"
+    },
+    "trial": {
+      "label": "Kulcsfontosságú próba vagy esemény",
+      "options": [
+        "Szembeszállt a Prófétával, és a Koránban átkozták",
+        "Sereget vezetett a Kába elpusztítására",
+        "Kődobálással próbálta megölni a Prófétát",
+        "Nem hittek a Hold kettéválásában",
+        "Tornyot épített, hogy elérje az eget"
+      ],
+      "answer": "Szembeszállt a Prófétával, és a Koránban átkozták"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A pokol lángoló tüze",
+        "Mózes botja",
+        "Nuh ládája",
+        "A Zamzam kútja",
+        "Az aranyborjú"
+      ],
+      "answer": "A pokol lángoló tüze"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Belép a lángoló Tűzbe, és a vagyona nem használ neki.",
+        "Megbánta bűneit és hívő lett",
+        "Megbocsátást nyert, miután visszavonta a vallomását",
+        "Mártírként halt meg",
+        "Felvitték a mennyekbe"
+      ],
+      "answer": "Belép a lángoló Tűzbe, és a vagyona nem használ neki."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Rongo Harikoa i te Kaumātuatanga",
+  "intro": "Kei te kite koe i tētahi wā e whakaoho ake ana te tumanako. He tokorua, kua roa kē te pakeke hei mātua, ka whiwhi i tētahi kupu whakaari e whakahē ana i ngā ture o te taiao. Kei waenganui i a rāua tētahi tangata e tū ana, ko tōna oranga tonutanga he tohu o te aroha o te Atua—he wairua kua whakaritea hei poropiti, e mau ana i tētahi taonga tuku iho ka horapa ki ngā whakatupuranga. Ko wai tēnei tangata whakamiharo?",
+  "clues": [
+    "I whānau mai ahau ki ngā mātua kua kaumātuatia, ā, kāore ā rāua tamariki.",
+    "Nā ngā anahera i haere mai hei manuhiri ki tōku whānau, i kauwhau i tōku whānau.",
+    "I homai ki ahau te whakaaro nui me te poropititanga, ā, e whakahuatia ana ahau i roto i te hunga manawanui.",
+    "I karangatia tōku matua ko te hoa o Allah, ā, he taonga ahau ki a ia i ōna tau whakamutunga.",
+    "He teina tōku, he poropiti hoki ia, ā, i manaakitia māua tokorua e tō māua Ariki.",
+    "He poropiti anō hoki taku tama, ā, i hoatu ki aku uri te karaipiture me te poropititanga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Ihaka (Ihaka)",
+        "Poropiti a Ihimaera (Ihimaera)",
+        "Poropiti a Hākupa (Hākopa)",
+        "Poropiti a Yahya (Hoani)",
+        "Poropiti Uzair (Etera)"
+      ],
+      "answer": "Poropiti a Ihaka (Ihaka)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whānau mai i ngā mātua kaumātua",
+        "I maka ki roto i te ahi",
+        "I hoatu he rangatiratanga me te taonga",
+        "I arahina e ia tōna iwi i Ihipa",
+        "I hanga e ia he āaka hei whakaora i te hunga whakapono"
+      ],
+      "answer": "I whānau mai i ngā mātua kaumātua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ngā rongopai pai mō tētahi tama",
+        "Te rakau e mura ana",
+        "Te kuao kau koura",
+        "Te aaka o te kawenata",
+        "Te tokotoko o te poropititanga"
+      ],
+      "answer": "Ngā rongopai pai mō tētahi tama"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I riro hei poropiti me te whakapapa o ngā poropiti",
+        "I riro hei kingi whai rawa",
+        "I whakangaromia tōna iwi mō te kore whakapono",
+        "I whakaorangia ia i te ahi",
+        "I whakawhiwhia ia ki te kaha ki te kōrero i a ia e tamariki ana"
+      ],
+      "answer": "I riro hei poropiti me te whakapapa o ngā poropiti"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

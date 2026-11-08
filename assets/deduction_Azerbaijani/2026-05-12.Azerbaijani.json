@@ -1,0 +1,61 @@
+{
+  "title": "Sərbəst Hakimiyyət",
+  "intro": "Qədim torpaqlarda bir vaxtlar güclü bir hakimiyyət hökmranlıq edir, böyük sərvətlərə və saysız-hesabsız insanın həyatına nəzarət edirdi. Aydın əlamətlərə və xəbərdarlıqlara baxmayaraq, bu hökmdar zamanla əks-səda verəcək dərin qarşıdurmaya səbəb olan itaətsizlik yolunu seçdi.",
+  "clues": [
+    "Mən geniş bir ərazi üzərində ali güc və səlahiyyət iddiasında idim.",
+    "Mən bütün aləmlərin Rəbbi tərəfindən göndərilən təvazökar bir elçiyə meydan oxudum.",
+    "Xalqım möhtəşəm tikililərin və sivilizasiyamızı qoruyub saxlayan çayın ustalığı ilə tanınırdı.",
+    "Mən bir çox möcüzəvi əlamətlərə şahid oldum, o cümlədən bir əsanın ilana çevrilməsi və parlaq şəkildə parlayan bir əl.",
+    "İlahi əmrlərə baxmayaraq, bir qrup kölənin torpağımdan çıxmasına icazə vermədim.",
+    "Gedən xalqı təqib etməyim məni və ordumuzu iki yerə bölünmüş bir dənizin içinə apardı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yusif peyğəmbər",
+        "Kral Talut",
+        "Firon (Firon)",
+        "Davud peyğəmbər",
+        "Nəmrud"
+      ],
+      "answer": "Firon (Firon)"
+    },
+    "trial": {
+      "label": "Açar Qarşıdurması",
+      "options": [
+        "Torpağı bürüyən sel",
+        "Dənizin iki yerə bölünməsi",
+        "Yanan kol",
+        "Kəbənin inşası",
+        "Güclü bir külək tərəfindən məhv edilməsi"
+      ],
+      "answer": "Dənizin iki yerə bölünməsi"
+    },
+    "location": {
+      "label": "Aspekti müəyyənləşdirir",
+      "options": [
+        "Danışan heyvan",
+        "Bir əsa və parlaq bir əl",
+        "Möcüzəvi bir doğuş",
+        "Uçan xalça",
+        "Su üzərində əzəmətli bir taxt"
+      ],
+      "answer": "Bir əsa və parlaq bir əl"
+    },
+    "outcome": {
+      "label": "Son Taleyi",
+      "options": [
+        "Göylərə yüksəldi",
+        "Torpaq tərəfindən udulmuş",
+        "Dənizdə boğuldu",
+        "Meymuna çevrilib",
+        "Böyük sərvət və güc verdiyinə görə"
+      ],
+      "answer": "Dənizdə boğuldu"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

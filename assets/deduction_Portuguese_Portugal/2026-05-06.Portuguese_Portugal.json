@@ -1,0 +1,61 @@
+{
+  "title": "A Voz da Sarça Ardente",
+  "intro": "Desvende a identidade de uma figura profunda cuja jornada começou com um encontro milagroso e cujo destino se entrelaçou com a libertação de um povo oprimido. Este indivíduo foi escolhido para uma tarefa monumental, enfrentando imensos desafios com o apoio divino.",
+  "clues": [
+    "Nasci em uma época de grande opressão, onde crianças do meu povo eram mortas.",
+    "Minha infância foi marcada por ter sido jogada em um rio por meus pais, mas fui encontrada e criada na própria casa do opressor do meu povo.",
+    "Certa vez, fugi de uma cidade após causar, sem intenção, a morte de uma pessoa durante uma discussão.",
+    "Recebi uma mensagem divina e um cajado milagroso em um lugar sagrado, onde me foi ordenado que confrontasse um governante poderoso.",
+    "Meu irmão foi designado como meu auxiliar na missão, devido a uma suposta dificuldade na minha fala.",
+    "Conduzi meu povo através de um mar dividido, escapando da perseguição de um exército tirânico."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Profeta Yusuf",
+        "Profeta Isa",
+        "Profeta Moisés",
+        "Profeta Noé",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Profeta Moisés"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Suportando anos de seca",
+        "Construindo a Arca",
+        "Confrontando o Faraó e seus feiticeiros",
+        "Ser atirado em uma fornalha ardente",
+        "A destruição do povo de Thamud"
+      ],
+      "answer": "Confrontando o Faraó e seus feiticeiros"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Caaba",
+        "A Muralha de Ferro",
+        "A equipe",
+        "O Navio de Noé",
+        "O Anel de Sulaiman"
+      ],
+      "answer": "A equipe"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A cidade de Sodoma foi destruída.",
+        "As pessoas foram engolidas pela terra.",
+        "A grande inundação engolfou a terra.",
+        "Faraó e seu exército foram afogados.",
+        "As muralhas da cidade ruíram com um grito."
+      ],
+      "answer": "Faraó e seu exército foram afogados."
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

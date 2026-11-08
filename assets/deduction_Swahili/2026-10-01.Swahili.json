@@ -1,0 +1,61 @@
+{
+  "title": "Kutamkwa Katika Kuwa",
+  "intro": "Mtu anaibuka kutoka katika historia takatifu, akiwa amebeba miujiza iliyopinga utaratibu wa asili. Nafsi hii ilifika kupitia amri moja ya Mungu, ikamlinda mzazi kutokana na mashtaka makubwa, na ikaondoka katika ulimwengu huu kabla ya minyororo ya kidunia kuweza kuwafunga. Hadithi inaanzia utotoni mnyenyekevu hadi mbinguni juu. Huyu angeweza kuwa nani?",
+  "clues": [
+    "Nilitumwa kama ishara na rehema kutoka kwa Mwenyezi Mungu kwa Wana wa Israeli.",
+    "Kufika kwangu kulikuwa tofauti na kwingineko hapo awali — nilizaliwa kwa neno la Mungu 'Kuwa!' bila baba wa kidunia.",
+    "Mzazi wangu alikabiliwa na kashfa kali, lakini ufunuo mtakatifu ulishuka ili kutangaza kutokuwa na hatia na kuinua cheo chao.",
+    "Nikiwa mtoto mchanga, niliwashangaza wale walionizunguka kwa kuzungumza waziwazi tangu utotoni mwangu ili kusafisha jina la mzazi wangu.",
+    "Kwa idhini ya Mwenyezi Mungu, niliumba uhai kutoka kwa udongo usio na uhai, nikawapa vipofu uwezo wa kuona, na nikamponya mwenye ukoma kwa kugusa kwangu.",
+    "Niliinuliwa mbinguni kabla madhara hayajanigusa, nami nitarudi katika ulimwengu huu kabla ya Saa ya mwisho kufika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Isa",
+        "Nabii Musa",
+        "Nabii Ibrahimu",
+        "Nabii Yusufu",
+        "Nabii Daudi"
+      ],
+      "answer": "Nabii Isa"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Akizungumza kutoka utotoni akiwa mtoto mchanga",
+        "Kuishi ndani ya tumbo la samaki mkubwa",
+        "Kutupwa kwenye moto unaowaka",
+        "Kujenga safina kubwa kabla ya gharika",
+        "Kukabiliana na uchawi wa mahakama ya Farao"
+      ],
+      "answer": "Akizungumza kutoka utotoni akiwa mtoto mchanga"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Injili (Injili)",
+        "Tawrah (Torah)",
+        "Zaburi (Zaburi)",
+        "Suhuf (Gombo za Ibrahim)",
+        "Fimbo iliyogawanya bahari"
+      ],
+      "answer": "Injili (Injili)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Ameinuliwa mbinguni, atarudi kabla ya Siku ya Hukumu",
+        "Aliwaongoza Wana wa Israeli kutoka Misri",
+        "Akawa mfalme mwenye mamlaka juu ya majini, wanadamu, na ndege",
+        "Alinusurika mafuriko makubwa pamoja na waumini",
+        "Alijenga nyumba takatifu huko Makka"
+      ],
+      "answer": "Ameinuliwa mbinguni, atarudi kabla ya Siku ya Hukumu"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

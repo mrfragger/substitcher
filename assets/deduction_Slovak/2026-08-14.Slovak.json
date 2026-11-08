@@ -1,0 +1,61 @@
+{
+  "title": "Prekliate ruky",
+  "intro": "Stojíte v kľukatých uličkách starobylej Mekky, kde sa kedysi vplyvná a bohatá duša odvrátila od volania pravdy. Príbeh tejto postavy je drsnou pripomienkou, že krvné putá nedokážu prekonať reťaze pýchy. Kto je ten, koho meno sa ozýva s ohňom, ktorý čaká?",
+  "clues": [
+    "Kráčal som ulicami Mekky s hrdosťou, ktorá ma zaslepovala pred pravdou, hoci posol bol z mojej vlastnej krvi.",
+    "Môj majetok bol obrovský, ale stal sa skôr kliatbou než štítom.",
+    "Kniha vedenia hovorí o mojej skaze a vyhlasuje, že moje ruky a moja osoba zahynú.",
+    "Môj manžel sa pridal k mojej nepriateľskej kampani a zbieral tŕne, aby ich rozšíril na cestu toho, kto volal k Alahovi.",
+    "V deň súdu budem ponorený do plápolajúceho ohňa a môj manžel bude mať okolo krku lano z palmových vlákien.",
+    "Som známy pod menom, ktoré znamená „otec plameňa“ – meno, ktoré predpovedá môj večný príbytok."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Abú Laháb",
+        "Abu Džahl",
+        "Abú Talib",
+        "Abú Sufjan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abú Laháb"
+    },
+    "trial": {
+      "label": "Kľúčový súdny proces alebo udalosť",
+      "options": [
+        "Postavil sa proti Prorokovi a bol prekliaty v Koráne",
+        "Viedol armádu, aby zničila Kaabu",
+        "Pokúsil sa zabiť Proroka hádzaním kameňov",
+        "Odmietol veriť v rozdelenie mesiaca",
+        "Postavil vežu, aby dosiahol do nebies"
+      ],
+      "answer": "Postavil sa proti Prorokovi a bol prekliaty v Koráne"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Planúci oheň pekla",
+        "Zamestnanci Músu",
+        "Archa Nuha",
+        "Studňa Zamzam",
+        "Zlaté teľa"
+      ],
+      "answer": "Planúci oheň pekla"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Vstúpi do plápolajúceho ohňa a jeho bohatstvo mu nebude prospešné.",
+        "Činil pokánie a stal sa veriacim",
+        "Bolo mu odpustené po tom, čo sa odvolal",
+        "Zomrel ako mučeník",
+        "Bol vzatý do nebies"
+      ],
+      "answer": "Vstúpi do plápolajúceho ohňa a jeho bohatstvo mu nebude prospešné."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

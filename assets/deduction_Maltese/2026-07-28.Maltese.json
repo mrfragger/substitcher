@@ -1,0 +1,61 @@
+{
+  "title": "It-Test tal-Kreatura Sagra",
+  "intro": "Intbagħat sinjal lil nazzjon li kien tbiegħed mit-triq it-tajba. F’nofs ħajjithom komda waslet twissija—akkumpanjata minn kreatura notevoli li kienet se ssir it-test aħħari tal-fidi tagħhom. Ir-rispons tagħhom kien se jissiġilla d-destin tagħhom għal dejjem. Tista’ tiskopri min wassal din it-twissija u x’sar minn dawk li ċaħduha?",
+  "clues": [
+    "Konna poplu li konna ġejna ggwidati minn messaġġiera ta’ qabilna.",
+    "Kreatura magnifika ħarġet mill-muntanja, sinjal mingħand Sidna għal dan in-nazzjon.",
+    "Għedtilhom: “Din hija ġemela ta’ Alla, allura ħalluha tiekol mill-art ta’ Alla u tmissuhiex bi ħsara.”",
+    "Imma n-nies qatgħuli l-ġwienaħ tal-ġemela, u sfidaw il-kmand tal-Mulej tagħhom.",
+    "Jiena biss messaġġier mingħand Sidkom, mibgħut bil-verità—jiena profeta u qaddej ta’ min jafdah.",
+    "Fir-rigward ta’ dawk li għamlu l-ħażen, Sidna laqathom b’ħoss qawwi ta’ ragħad, u baqgħu bla ma jiċċaqalqu fi djarhom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Hud tan-nies ta' A'ad",
+        "Il-Profeta Salih tan-nies ta’ Thamud",
+        "Il-Profeta Shu'aib ta' Midjan",
+        "Il-Profeta Lut tan-nies ta’ Sodoma",
+        "Profeta Nuh tal-Arka"
+      ],
+      "answer": "Il-Profeta Salih tan-nies ta’ Thamud"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Id-Dilluvju li għarraq nazzjon li ma jemminx",
+        "It-terremot li qered belt midinba",
+        "Il-ġemela mibgħuta bħala sinjal u prova divina",
+        "It-tempesta li kkastigat lin-nies ta’ Midjan",
+        "Il-qerda tan-nies ta’ Lot bil-ġebel"
+      ],
+      "answer": "Il-ġemela mibgħuta bħala sinjal u prova divina"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-belt ta’ Sodoma fil-Wied tal-Ġordan",
+        "Il-wied ta' Al-Hijr bejn Hijaz u s-Sirja",
+        "L-art antika ta' A'ad fin-nofsinhar tal-Arabja",
+        "Il-foresti ta’ Midjan ħdejn il-Baħar l-Aħmar",
+        "Il-pjanuri tal-Muntanja Judi fil-Mesopotamja"
+      ],
+      "answer": "Il-wied ta' Al-Hijr bejn Hijaz u s-Sirja"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Huma ġew salvati wara li nidmu u emmnu",
+        "Xita ta’ ġebel qerdithom għalkollox",
+        "Ħoss qawwi ħalliehom bla ma jiċċaqalqu",
+        "Inġarrew minn riħ qawwi",
+        "Terremot belagħhom fl-art"
+      ],
+      "answer": "Ħoss qawwi ħalliehom bla ma jiċċaqalqu"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Te Manawanui o te Wairua e Pōuritia ana",
+  "intro": "I roto i ngā pukapuka hītori, kei reira tētahi tangata e hono ana tōna ingoa ki te manawanui. I whakamatautauria tēnei tangata ki te ngaronga o ngā whakamarie katoa o te ao, engari i noho tonu ia hei pononga pono mā te Kaihanga. I roto i ngā tau maha o te uauatanga me te mate tinana, i mau tonu te ngākau o tēnei wairua ki te whakapono, hei tohu mō te tumanako mō te hunga katoa e pāngia ana e te raruraru.",
+  "clues": [
+    "He pononga pono ahau nā Allah, i manaakitia ki te nui o te taonga, ki te tini o ngā tamariki, ā, ki te hauora pai rawa atu.",
+    "I huri tōku ao i te wā i tangohia ai aku taonga me tōku whānau, ā, ko tōku whakapono anake te mea i mahue.",
+    "I pāngia ahau e te mate roa, mamae hoki, i whakamātautau i ngā rohe o te manawanui o te tangata.",
+    "I roto i tōku mamae, i whakakahore ahau ki te amuamu ki tōku Ariki, ahakoa i ngana te hoariri ki te arahi i ahau ki te ngakau pouri.",
+    "I taku karangatanga atu ki tōku Ariki, kāore au i tono taonga, engari i whakaae noa ahau kua pā mai te mamae ki ahau.",
+    "I kīia mai kia patua e ahau te whenua ki tōku waewae, ā, i puta mai i reira he puna wai matao hei whakaora i tōku tinana, hei whakamāmā hoki i tōku matewai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Hākupa",
+        "Poropiti a Ayyub",
+        "Poropiti Hakaraia",
+        "Poropiti a Yahya",
+        "Poropiti Shu'ayb"
+      ],
+      "answer": "Poropiti a Ayyub"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Ngā tau o te mate kino me te ngaronga",
+        "Te maka ki roto i te poka hohonu",
+        "Te horomia e te ika nui",
+        "Te tū atu ki tētahi kaitukino i roto i te ahi",
+        "He haerenga roa ki te rapu kaiako"
+      ],
+      "answer": "Ngā tau o te mate kino me te ngaronga"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He tokotoko i wehe i te moana",
+        "He hāte i kakara kāinga",
+        "He puna wai whakaora",
+        "He maunga i pakaru hei puehu",
+        "He ana moe hōhonu"
+      ],
+      "answer": "He puna wai whakaora"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te noho hei kawana mō tētahi whenua nui",
+        "Te ārahi i tētahi ope taua ki te wikitoria",
+        "Te whakaora i te hauora me te whānau",
+        "Te hanga i tētahi whare tapu mō te karakia",
+        "Te whiwhi i tētahi tēpu i horahia mai i te rangi"
+      ],
+      "answer": "Te whakaora i te hauora me te whānau"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

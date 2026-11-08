@@ -1,0 +1,61 @@
+{
+  "title": "Couronne Oyo E défier Lola",
+  "intro": "Na bacouloirs ya makonzi ya kala, nkombo ya mokonzi moko ekómaki liloba ya nkombo mpo na bokonzi ya mabe mpe ya lolendo. Tango mosali moko ya komikitisa ya Allah akomaki amemi bilembo oyo ekoki koboya te, mokonzi oyo ya nguya aboyaki komitika na bosolo. Lelo oyo, mosala na yo ezali ya koyeba moto oyo ya masapo oyo bokonzi na ye epanzani mpe oyo nsuka na ye ekangamaki na nse ya mbonge.",
+  "clues": [
+    "Nazali mokonzi oyo babangaka mingi oyo nkombo na ye ezali naino koyokana lokola likebisi na boumeli ya bileko.",
+    "Natindaki bato mobimba básala mosala na minyɔlɔlɔ, bátombolaka bamonima oyo ezalaki kosakola nkembo na ngai.",
+    "Tango ntoma moko ya Allah ayaki liboso na ngai na bilembo oyo ekoki koboya te, naboyaki kofukama mpe nabengaki yango kindoki.",
+    "Napesaki mobeko ya koboma bana mibali ya bebe kati na bato oyo bakangami, na elikya ya konyata elimo na bango liboso ete básekwa.",
+    "Natɛlɛmaki liboso ya lopango na ngai mpe nasakolaki ete, ‘Nazali nkolo na yo oyo aleki likoló,’ kosɛngáká losambo lokola nzambe.",
+    "Lokola ministre-mokonzi na ngai azalaki pembeni na ngai, natongaki ndako moko molai oyo ezalaki na mokano ya komata koleka likoló."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Farao (Fir'awn) .",
+        "Namrud, oyo azali",
+        "Hamane",
+        "Abu Lahab azali moto ya mayele",
+        "Al-Walid ibn al-Mughira azali moto ya mayele"
+      ],
+      "answer": "Farao (Fir'awn) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kozinda na mai na Mbu Motane",
+        "Kamela ya mwasi etindamaki epai ya bato ya Tamude",
+        "Mpela monene ya Nuh",
+        "Etumbu ya ba Compagnons ya Fosse",
+        "Kobebisama ya limpinga ya Abraha na bandɛkɛ"
+      ],
+      "answer": "Kozinda na mai na Mbu Motane"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ndako molai oyo etongamaki elongo na Hamane",
+        "Masuwa oyo ezalaki kotambola likoló ya mpela",
+        "Mwana ya ngɔmbɛ ya wolo oyo bato ya Samiri basalaki",
+        "Kiti ya bokonzi ya Bilqis, Mokonzi-mwasi ya Seba",
+        "Libulu ya bilenge oyo balali"
+      ],
+      "answer": "Ndako molai oyo etongamaki elongo na Hamane"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bazindaki na mai na mbu; nzoto oyo ebatelami lokola likebisi",
+        "Bamemaki bango na boombo mpe batindaki ye na makasi ete ayengayenga na esobe",
+        "Babongwanaki na ba singes lokola etumbu",
+        "Abetamaki na koningana ya mabele ya makasi",
+        "Ezikisamaki na mbula ya mabanga oyo euti na likoló"
+      ],
+      "answer": "Bazindaki na mai na mbu; nzoto oyo ebatelami lokola likebisi"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

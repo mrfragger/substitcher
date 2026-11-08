@@ -1,0 +1,61 @@
+{
+  "title": "I Dërguari që u përball me idhujtarët",
+  "intro": "Në një kohë kur përkushtimi ishte larguar, një lajmëtar u ngrit me një thirrje për t'u kthyer në adhurimin e Zotit të botëve. Kjo figurë qëndroi e vendosur kundër një populli të rrënjosur në adhurimin e një hyjnie të rreme, duke u kujtuar atyre Krijuesin e tyre të vërtetë dhe Zotin e paraardhësve të tyre. Megjithatë, njerëzit ishin të pavëmendshëm dhe e hodhën poshtë paralajmërimin, duke vulosur fatin e tyre. Kush ishte ky thirrës i palëkundur?",
+  "clues": [
+    "Unë u dërgova te një popull që ishte larguar nga rruga e Zotit të Vërtetë.",
+    "E pyeta popullin tim: “A nuk do t’i frikësoheni Allahut?”",
+    "Unë i thirra ata të braktisnin adhurimin e tyre ndaj një hyjnie të rreme të quajtur Baal.",
+    "Populli im e refuzoi thirrjen time dhe vazhdoi në idhujtarinë e tij.",
+    "Për shkak të mohimit të tyre, ata me siguri do të nxirren për t’u ndëshkuar.",
+    "Zoti im më dhuroi paqe dhe një kujtim të bekuar midis brezave të ardhshëm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Ilyas",
+        "Profeti Jahja",
+        "Profeti Dhul-Kifl",
+        "Profeti Jusuf",
+        "Profeti Shuajb"
+      ],
+      "answer": "Profeti Ilyas"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "I thirri njerëzit e tij që të braktisnin Baalin",
+        "Ndërtoi një arkë për të shpëtuar besimtarët",
+        "U hodh në zjarr",
+        "Iku nga Faraoni tiran",
+        "Goditi një shkëmb për të nxjerrë ujë"
+      ],
+      "answer": "I thirri njerëzit e tij që të braktisnin Baalin"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Paqja dhe kujtimi i bekuar të dhurohen",
+        "Gëlltitur nga toka",
+        "Shkatërrohet nga një stuhi e dhunshme",
+        "U shndërrua në një gur",
+        "U mbyt në det"
+      ],
+      "answer": "Paqja dhe kujtimi i bekuar të dhurohen"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

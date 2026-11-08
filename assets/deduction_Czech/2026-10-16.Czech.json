@@ -1,0 +1,61 @@
+{
+  "title": "Komunita, která se vzepřela Dni odpočinku",
+  "intro": "Vkročte do pobřežní osady, kde božský příkaz vyhradil jeden den pro uctívání a zdrženlivost. Skupina v této komunitě se rozhodla otestovat meze tohoto příkazu lstivým plánem, který vedl k proměně, jež se bude odrážet napříč věky. Kdo byly tyto duše a co se s nimi stalo?",
+  "clues": [
+    "Bydleli jsme blízko pobřeží, kde nám moře poskytovalo obživu.",
+    "Bylo nám přikázáno ctít jeden den v týdnu a odložit ho stranou od světských starostí.",
+    "Toho dne k nám ryby připluly ve velkém množství, jako by nás pokoušely porušit příkaz.",
+    "Vymysleli jsme plán, jak ryby chytit v předvečer posvátného dne a pak je sebrat, až ten den uplyne.",
+    "Když někteří z nás varovali před tímto podvodem, ignorovali jsme jejich rady a setrvali jsme na svém.",
+    "Za náš přestupek jsme byli proměněni v opice, opovrhováni a odmítnuti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé Sabatu",
+        "Lidé z příkopu",
+        "Lidé z lesa",
+        "Lidé ze zahrady",
+        "Lidé slona"
+      ],
+      "answer": "Lidé Sabatu"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Rybaření v sobotu",
+        "Stavba vznešené věže",
+        "Zabití posvátné velbloudy",
+        "Popírají proroka, který jim byl poslán",
+        "Překročení obchodních vah"
+      ],
+      "answer": "Rybaření v sobotu"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Moře a jeho ryby",
+        "Oheň, který byl ochladl",
+        "Hůl, která se proměnila v hada",
+        "Archa spásy",
+        "Kamenné desky"
+      ],
+      "answer": "Moře a jeho ryby"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Proměněni v opice",
+        "Pohlceno zemí",
+        "Zničeno prudkým větrem",
+        "Utopený v moři",
+        "Zasažen sprškou kamení"
+      ],
+      "answer": "Proměněni v opice"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

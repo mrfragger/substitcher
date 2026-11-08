@@ -1,0 +1,61 @@
+{
+  "title": "A tizenegy meghajló csillag",
+  "intro": "Egy Korán-alak gyermekkorában mély látomást kapott – egy álmot, amelyben égitestek tiszteletteljesen meghajolnak. Évek teltek el árulás, elválás, hamis vádaskodás és bebörtönzés által, mire ez a látomás valóra vált. Ki ez a kitartó lélek, akinek a története a Korán leghosszabb fejezetét foglalja el?",
+  "clues": [
+    "Egykor fiatal voltam, és egy figyelemre méltó álommal áldott meg, amelyet még a saját apám is arra intetett, hogy tartsak magamban.",
+    "Saját testvéreim, akiket elvakított a féltékenység, összeesküdtek ellenem, és egy mély, sötét kútba taszítottak.",
+    "Távoli földre vittek, és eladtak egy nemes tisztviselő házába, ahol kegyben részesültem, és felelősségteljesebbé váltam.",
+    "A hamis vád igazságtalan bebörtönzéshez vezetett, mégis abban a sötét helyen vigaszt találtam az imában és Allah előtti leborulásban.",
+    "Allah megáldott azzal a ritka képességgel, hogy álmokat tudtam megfejteni, ami végül az ország uralkodója elé vitt, és magas bizalmi pozícióba emelt.",
+    "Hosszú évekig tartó különélés után újra találkozhattam szeretett családommal, és végre teljesült gyermekkori álmom a tizenegy csillagról, a Napról és a Holdról, amelyek meghajolnak előttem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Juszuf próféta",
+        "Szálih próféta",
+        "Ilja próféta",
+        "Tubba', az ókori Himyar uralkodója",
+        "Egy alázatos pásztor Palesztina hegyeiről"
+      ],
+      "answer": "Juszuf próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Féltékeny testvérek által egy mély, sötét kútba vetve",
+        "Egy mélytengeri hatalmas teremtmény lenyeli",
+        "Bálványimádók lángoló tűzbe vetik",
+        "Elsodorja őket a pusztítás isteni szele",
+        "Túlélte a nagy árvizet, amely az egész földet ellepte"
+      ],
+      "answer": "Féltékeny testvérek által egy mély, sötét kútba vetve"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy kiszáradt kút a sivatagban, ahol magamra hagytak",
+        "A mélytengerek nagyszerű hala",
+        "Egy hatalmas bárka, amelyet isteni parancsra építettek",
+        "Egy torony, amelyet az égig építettek",
+        "Egy szent tűz, mely nem akart égni"
+      ],
+      "answer": "Egy kiszáradt kút a sivatagban, ahol magamra hagytak"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Évekig tartó különélés után újra találkozott családjával, és megbízható lelkész lett",
+        "Népem nagy kivonulását vezettem át egy kettévált tengeren",
+        "Figyelmeztette nemzetemet a közelgő végzetre, amely elpusztította őket",
+        "Szent házat épített, amely mindenki számára szentély lett",
+        "Három nap után biztonságban kikelt egy hatalmas teremtmény gyomrából"
+      ],
+      "answer": "Évekig tartó különélés után újra találkozott családjával, és megbízható lelkész lett"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

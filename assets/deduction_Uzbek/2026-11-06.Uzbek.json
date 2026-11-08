@@ -1,0 +1,61 @@
+{
+  "title": "Hasad tufayli to'kilgan birinchi qon",
+  "intro": "Insoniyatning ilk kunlarini, butun dunyo bir oila bo'lgan davrni tasavvur qiling. Allohga ikkita qurbonlik qo'yilayotganini ko'rasiz - biri qabul qilinadi, ikkinchisi rad etiladi. Hasad qalbda ildiz otadi va g'azab bilan tahdid pichirlanadi. Keyingi voqealar tarixda abadiy iz qoldiradi va hatto kichik bir qush ham ustozga aylanadi.",
+  "clues": [
+    "Men yer yuzidagi eng birinchi oilaga mansubman.",
+    "Men Allohga qurbonlik keltirdim, lekin meniki qabul qilinmadi, boshqa qurbonligim esa qabul qilindi.",
+    "Men hasad bilan gapirdim va joniga qasd qilish bilan tahdid qildim.",
+    "Men yer yuzidagi birinchi nohaq qotillikni sodir etdim.",
+    "Men qarg'aning jasadni qanday yashirish kerakligini ko'rsatish uchun yerni qashlayotganini ko'rdim.",
+    "Men pushaymon bo'lib qoldim va qo'llarim bilan qilgan ishlarim uchun yutqazganlar qatoriga qo'shildim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Qobil (Qobil), Odam Atoning o'g'li",
+        "Buzoqning yaratuvchisi Samiri",
+        "Ibrohim bilan tortishgan zolim Namrud",
+        "Butlarni yaratuvchi Azar",
+        "Nuhning cho'kib ketgan o'g'li Kan'on"
+      ],
+      "answer": "Qobil (Qobil), Odam Atoning o'g'li"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Rad etilgan qurbonlikdan keyin hasad tufayli aka-uka yoki opa-singilning o'ldirilishi",
+        "Osmonga qarash uchun baland minora qurish",
+        "Ibodat uchun oltin buzoq yasash",
+        "Jannatdan dasturxon yozilishini talab qilish",
+        "Ka'bani vayron qilish uchun fillar qo'shiniga boshchilik qilish"
+      ],
+      "answer": "Rad etilgan qurbonlikdan keyin hasad tufayli aka-uka yoki opa-singilning o'ldirilishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Qarg'a dafn marosimini ko'rsatish uchun yerni qashlamoqda",
+        "Bo'kirgan oltin buzoq",
+        "To'fon suvlari ustida ulkan kema",
+        "Ilonga aylangan tayoq",
+        "Jannatdan tushgan taomlar bilan bezatilgan dasturxon"
+      ],
+      "answer": "Qarg'a dafn marosimini ko'rsatish uchun yerni qashlamoqda"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Vijdon azobiga uchradi va yutqazganlar qatoriga kirdi",
+        "Buyuk suv toshqinida cho'kib ketdi",
+        "Yer xazina bilan yutib yuborildi",
+        "Yetti yil davomida moxov kasalligiga chalingan",
+        "Shamollarni boshqaradigan qirollik berildi"
+      ],
+      "answer": "Vijdon azobiga uchradi va yutqazganlar qatoriga kirdi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

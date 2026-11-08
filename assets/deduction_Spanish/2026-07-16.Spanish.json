@@ -1,0 +1,61 @@
+{
+  "title": "La voz que desafió el reinado de un ídolo",
+  "intro": "Entre los mensajeros del Todopoderoso se encontraba un siervo fiel que surgió de una nación obstinada para proclamar la verdad. Su pueblo había adoptado una deidad inventada, apartándose del Creador de todo lo que existe. Con firme determinación, este individuo los llamó de vuelta, pero el mensaje fue recibido con negación y rechazo. Sigue las pistas para descubrir quién era este devoto siervo.",
+  "clues": [
+    "Me enviaron como mensajero a un pueblo obstinado que se había desviado mucho del camino recto.",
+    "Vine para recordarle a mi nación quién creó todo lo que existe: el mejor de todos los creadores.",
+    "Mi pueblo se había entregado a un falso ídolo al que veneraban e invocaban día y noche.",
+    "Los desafié con valentía, preguntándoles por qué adoraban a una deidad inventada y abandonaban a su verdadero Señor.",
+    "Me negaron, se negaron a escuchar y se aferraron a su falsedad; sin embargo, mi Señor me preservó.",
+    "Yo soy Ilyas, y la paz me fue concedida, y fui contado entre los siervos creyentes del Misericordioso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Ilyas",
+        "Profeta Idris",
+        "Profeta Alyasa",
+        "Profeta Dhul-Kifl",
+        "Profeta Noé"
+      ],
+      "answer": "Profeta Ilyas"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Llamar a un pueblo a abandonar el culto a Baal.",
+        "Enfrentarse a un tirano que se proclamaba dios",
+        "Advirtiendo a la población sobre una inminente inundación.",
+        "Ser arrojado a un gran fuego ardiente",
+        "Liderando un éxodo de la tierra de la esclavitud"
+      ],
+      "answer": "Llamar a un pueblo a abandonar el culto a Baal."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El ídolo llamado Baal",
+        "Una gran arca construida con madera resistente.",
+        "Un bastón que separó un vasto mar",
+        "Una prenda sagrada manchada de sangre.",
+        "Una zarza ardiente en un monte sagrado"
+      ],
+      "answer": "El ídolo llamado Baal"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se le concedió la paz y se le contó entre los siervos escogidos de Alá.",
+        "Conducidos al paraíso mientras todos los demás fueron destruidos",
+        "Rescatada de un gran incendio que luego se enfrió y se volvió segura.",
+        "Se le otorgó dominio sobre los genios, la humanidad y el viento.",
+        "Cuerpo conservado como un testimonio perdurable para la posteridad."
+      ],
+      "answer": "Se le concedió la paz y se le contó entre los siervos escogidos de Alá."
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Anam Cráite an Níle",
+  "intro": "I ré an fhoréigin mhóir, nuair a rialaigh tíoránach an tír le cruálacht iomlán, roghnaigh anam amháin cosán an chreidimh thar chompord an ríchíosa. Bhí an figiúr seo ina chónaí i gcroílár na cumhachta ach fuair sé an fhírinne i dteachtaireacht fáidh umhal. Bheadh ​​a n-aistear ina cheacht gan teorainn i bhfoighne, in íobairt, agus i gciontacht dhochloíte. An féidir leat an duine suntasach seo a aithint a thug rogha dó pléisiúr diaga thar stádas saoghalta?",
+  "clues": [
+    "Bhí cónaí orm i bpálás mórchumhachtach, ach fuair mo chroí an fhírinne i dteachtaireacht umhal.",
+    "Roghnaigh mé treoir Mhúsa a leanúint, agus mé ar an eolas faoi na hiarmhairtí a bheadh ​​​​roimhe.",
+    "Bhí mé pósta leis an tíoránach ba chumhachtaí de mo linne, ach dhiúltaigh mé dá dhéithe bréige.",
+    "Bhí mo fhulaingt dian, mar gur pionósaíodh mé as mo chreideamh san Aon Dia amháin.",
+    "Níor lagaigh mé riamh i mo chreideamh, fiú nuair a bhí an phian ba ghéara romham.",
+    "Bhí mo Thiarna sásta le mo fhoighne agus roghnaigh sé mé le haghaidh áit onórach i bParthas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Máthair an Fháidh Musa",
+        "Bean chéile an Fharó",
+        "Deirfiúr an Fháidh Músa",
+        "Banríon na hÉigipte ársa",
+        "Seirbhíseach de chuid na nIosraeilíteach"
+      ],
+      "answer": "Bean chéile an Fharó"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag troid ar son chúis Allah le harm",
+        "Ag tabhairt aghaidh ar Pharaoh agus ag dearbhú a chreidimh",
+        "Áiteanna adhartha a thógáil san Éigipt",
+        "Ag taisteal trasna na farraige le Musa",
+        "Ag fáil foilsiú ó Allah"
+      ],
+      "answer": "Ag tabhairt aghaidh ar Pharaoh agus ag dearbhú a chreidimh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Fásach Mhidiáin",
+        "Pálás ríoga na hÉigipte",
+        "Bruacha Abhainn na Níle",
+        "Sliabh Shíonáí",
+        "Tír Chanán"
+      ],
+      "answer": "Pálás ríoga na hÉigipte"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh fáidh de tar éis blianta fada",
+        "Threoraigh na hIosraeilítigh amach as an Éigipt",
+        "Tugadh ceannasacht ar an Éigipt dó",
+        "Maraíodh agus tugadh onóir dó ag Allah",
+        "Mhair sé go dtí seanaois go compordach"
+      ],
+      "answer": "Maraíodh agus tugadh onóir dó ag Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

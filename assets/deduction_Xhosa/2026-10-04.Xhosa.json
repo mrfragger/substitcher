@@ -1,0 +1,61 @@
+{
+  "title": "Umthwalo Owazisa Ukuphiliswa",
+  "intro": "Umphefumlo owawuvavanywe ngendlela engaphaya komlinganiselo wawuhluthwe intuthuzelo, amaqabane, namandla omzimba. Ehlala yedwa kwiintlungu ezinzulu, lo mkhonzi ka-Allah wajika waya kuThixo kuphela. Ngomonde ongagungqiyo nomthandazo osuka entliziyweni, kwafika umsinga wenceba owadlula konke okwakulindelwe. Ngubani lo mntu ozinikeleyo wavula ucango lokubuyiselwa?",
+  "clues": [
+    "Ndandingumkhonzi othandekayo ka-Allah, ndinandipha ubutyebi, ikhaya elichumayo, nempilo entle ngemihla yam.",
+    "Emva koko kwavela uvavanyo: ubutyebi bamkile, abathandekayo bamkile, nenyama yam yabethwa yintlungu enkulu.",
+    "Abo babekufutshane nam babengenakukwazi ukunyamezela imeko yam, ndaza ndashiywa ndedwa, umzimba wam uzele ziintlungu.",
+    "Ndabiza iNkosi yam, ndisithi uSathana undichukumisile ngokudinwa nokuhlwaywa.",
+    "Impendulo yeza — umyalelo wokuba ndibethe umhlaba ngonyawo lwam, kwaye kuwo kwaphuma amanzi abandayo ukuze ndiphiliswe.",
+    "INkosi yam isuse ubunzima ngokupheleleyo yaza yandibuyisela usapho lwam, lwanda, njengophawu lwenceba kwabo bacingayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti u-Ayyub",
+        "Umprofeti uMusa",
+        "Umprofeti uYusuf",
+        "Umprofeti uYunus",
+        "Umprofeti uIbrahim"
+      ],
+      "answer": "Umprofeti u-Ayyub"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukugula kakhulu kunye nokulahlekelwa yiyo yonke into",
+        "Ukuphoswa emlilweni ngumyalelo womtyholi",
+        "Uvalelwe emngxunyeni onzulu ngamalungu osapho lwakhe",
+        "Iginywe yintlanzi enkulu elwandle",
+        "Ukuzulazula ekuthinjweni ukusuka kwilizwe lakowabo"
+      ],
+      "answer": "Ukugula kakhulu kunye nokulahlekelwa yiyo yonke into"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umthombo opholileyo owawuphuma emhlabeni",
+        "Umlilo opholileyo nozolileyo",
+        "Umkhombe uphumle phezu kwentaba",
+        "Abasebenzi abahlukanise ulwandle",
+        "Ingobozi edada phezu komlambo"
+      ],
+      "answer": "Umthombo opholileyo owawuphuma emhlabeni"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Usapho neentsikelelo zibuyiselwe, ziphindwe kabini",
+        "Ndasinda emlilweni ovuthayo ndingenzakalanga",
+        "Wavuka waya kwisikhundla esiphezulu sobukumkani",
+        "Waphuma esiswini sentlanzi enkulu waya kwindawo ekhuselekileyo",
+        "Wakhokela abantu elwandle olwahlulwe phakathi"
+      ],
+      "answer": "Usapho neentsikelelo zibuyiselwe, ziphindwe kabini"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

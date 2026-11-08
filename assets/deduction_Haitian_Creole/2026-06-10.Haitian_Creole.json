@@ -1,0 +1,61 @@
+{
+  "title": "Gadyen Jaden yo",
+  "intro": "Nan yon jaden byen vèt, yon kominote te fè yon ve solanèl. Men, detèminasyon yo te pase anba eprèv lè volonte Bondye te entèveni, sa ki te transfòme richès yo an yon tè dezole.",
+  "clues": [
+    "Nou te beni ak yon jaden ki te an abondans, men nou te vin arogan.",
+    "Nou te fè yon plan pou nou rekòlte san nou pa pataje ak pòv yo.",
+    "Nou te pati byen bonè nan maten, nou te gen konfyans nan plan nou an.",
+    "Men, lè nou rive, nou jwenn jaden nou an te detwi pandan lannwit lan.",
+    "Nou te reyalize erè nou an epi nou te kòmanse akize youn lòt.",
+    "Finalman nou te repanti, men nou te aprann leson an twò ta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun nou ye?",
+      "options": [
+        "Moun nan Jaden an",
+        "Moun nan gwòt la",
+        "Moun Elefan yo",
+        "Moun Thamud yo",
+        "Moun nan 'Ad"
+      ],
+      "answer": "Moun nan Jaden an"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Yon jaden tounen sann",
+        "Yon inondasyon ki te detwi tout bagay",
+        "Yon grangou ki te frape peyi a",
+        "Yon lame zwazo k ap atake",
+        "Yon gwo van ki derasinen pyebwa yo"
+      ],
+      "answer": "Yon jaden tounen sann"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon jaden",
+        "Yon gwòt",
+        "Yon bato",
+        "Yon mòn",
+        "Yon palè"
+      ],
+      "answer": "Yon jaden"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Yo te repanti men yo te pèdi jaden yo a",
+        "Yo te detwi nèt",
+        "Yo te transfòme an makak",
+        "Yo te sove grasa lafwa",
+        "Yo te vin chèf"
+      ],
+      "answer": "Yo te repanti men yo te pèdi jaden yo a"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

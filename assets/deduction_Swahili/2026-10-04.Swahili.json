@@ -1,0 +1,61 @@
+{
+  "title": "Mzigo Ulioleta Uponyaji",
+  "intro": "Nafsi iliyojaribiwa kupita kiasi ilinyimwa faraja, masahaba, na nguvu za mwili. Akiwa ametengwa katika mateso makali, mtumishi huyu wa Mwenyezi Mungu alimgeukia Mungu pekee. Kupitia uvumilivu usioyumba na sala ya kutoka moyoni, wimbi la huruma lilifika ambalo lilizidi matarajio yote. Ni nani huyu mtu ambaye kujitolea kwake kulifungua mlango wa urejesho?",
+  "clues": [
+    "Nilikuwa mtumishi aliyependelewa na Mwenyezi Mungu, nikifurahia wingi, familia yenye ustawi, na afya njema katika siku zangu.",
+    "Kisha jaribu likashuka: utajiri uliondoka, wapendwa waliondoka, na mwili wangu mwenyewe ukapigwa na mateso makubwa.",
+    "Wale waliokuwa karibu nami hawakuweza kuvumilia hali yangu, nami niliachwa peke yangu, mwili wangu ukiwa umejaa mateso.",
+    "Nilimwita Bwana wangu, nikitangaza kwamba Shetani alikuwa amenigusa kwa uchovu na adhabu.",
+    "Jibu likaja — amri ya kupiga ardhi kwa mguu wangu, na kutoka humo maji baridi yalitoka kwa ajili ya uponyaji.",
+    "Mola wangu aliondoa shida kabisa na akanirudishia familia yangu, akaongezeka, kama ishara ya rehema kwa wale wanaotafakari."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ayyub",
+        "Nabii Musa",
+        "Nabii Yusufu",
+        "Nabii Yunus",
+        "Nabii Ibrahimu"
+      ],
+      "answer": "Nabii Ayyub"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Ugonjwa mkali na hasara ya wote",
+        "Kutupwa motoni kwa amri ya mtawala wa kiimla",
+        "Amefungwa kwenye shimo refu na jamaa",
+        "Imemezwa na samaki mkubwa baharini",
+        "Kutangatanga uhamishoni kutoka nchi ya asili"
+      ],
+      "answer": "Ugonjwa mkali na hasara ya wote"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Chemchemi ya baridi iliyobubujika kutoka ardhini",
+        "Moto baridi na wa amani",
+        "Safina ikitulia juu ya mlima",
+        "Wafanyakazi waliogawanya bahari",
+        "Kikapu kinachoelea juu ya mto"
+      ],
+      "answer": "Chemchemi ya baridi iliyobubujika kutoka ardhini"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Familia na baraka zimerejeshwa, zimeongezeka maradufu",
+        "Nilitoroka moto unaowaka bila kujeruhiwa",
+        "Alipanda cheo cha juu zaidi cha ufalme",
+        "Nilitoka tumboni mwa samaki mkubwa hadi salama",
+        "Aliwaongoza watu kupitia bahari iliyogawanyika"
+      ],
+      "answer": "Familia na baraka zimerejeshwa, zimeongezeka maradufu"
+    }
+  },
+  "verseRef": "38:43",
+  "arabic": "وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "verse": "And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding. (38:43)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Toscairí na Trócaire agus na Neart",
+  "intro": "Samhlaigh tráthnóna ciúin a chuirtear isteach air le teacht taistealaithe nach bhfuil cur amach acu orthu. Tá cuma ghnáth orthu, ach níl aon chuspóir leo. Tá teachtaireacht dhiaga iontu a athróidh cúrsa dhá náisiún, ag tabhairt gáire do theach lom agus uafáis do chathair pheacach. Cé hiad na cuairteoirí mistéireacha seo?",
+  "clues": [
+    "Cuireadh sinn chuig seirbhíseach dílis de chuid Allah, a bhfuil cáil orthu as a fáilteachas gan teorainn.",
+    "Tháinig muid i riocht strainséirí, ach fós bhraith ár n-óstach rud éigin osnádúrtha faoinár láithreacht.",
+    "Thugamar scéala linn a chuir bean scothaosta ag gáire le hiontas, ag bualadh a haghaidhe féin le hiontas.",
+    "Tugadh an tasc dúinn teaghlach fíréanta a chosaint agus scrios a chur ar chathair a bhí tumtha in éilliú.",
+    "Dhiúltaíomar páirt a ghlacadh sa bhéile a tairgeadh dúinn, rud a rinne ach amhras ár n-óstach a dhoimhniú.",
+    "Níor nochtamar ár bhfíor-nádúr ach sular imigh muid, ag rá, 'Go deimhin, is teachtairí ó bhur dTiarna muid.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Aíonna Abraham",
+        "Deisceabail Íosa",
+        "Compánaigh na hUaimhe",
+        "Arm Abraha",
+        "Teachtairí Ya-Sin"
+      ],
+      "answer": "Aíonna Abraham"
+    },
+    "trial": {
+      "label": "Ár Misean",
+      "options": [
+        "Chun creideamh Abrahám a thástáil maidir lena mhac",
+        "Chun an scrioptúr a sheachadadh d'Abrahám",
+        "Chun breith Íosác agus scrios mhuintir Lót a fhógairt",
+        "Chun Abraham a threorú chuig an Kaaba",
+        "Chun Abraham a tharrtháil ón tine"
+      ],
+      "answer": "Chun breith Íosác agus scrios mhuintir Lót a fhógairt"
+    },
+    "location": {
+      "label": "Áit an Chuma",
+      "options": [
+        "I dtír na hÉigipte",
+        "I gcathair Ur",
+        "I dteach Abrahám",
+        "I ngairdín Éidin",
+        "Ag tobar Zamzam"
+      ],
+      "answer": "I dteach Abrahám"
+    },
+    "outcome": {
+      "label": "An Toradh",
+      "options": [
+        "Rinneadh rí de Abraham",
+        "Thóg Abraham an Kaaba",
+        "Rugadh Íosác do Shárá agus scriosadh muintir Lót.",
+        "D’imigh Abrahám go dtí an Phalaistín",
+        "Sábháladh muintir Abrahám ó thuile mhór"
+      ],
+      "answer": "Rugadh Íosác do Shárá agus scriosadh muintir Lót."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

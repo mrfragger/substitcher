@@ -1,0 +1,61 @@
+{
+  "title": "La voz silenciosa del valle",
+  "intro": "Retrocede en el tiempo hasta un pueblo poderoso que una vez recibió una maravilla viviente como prueba. La arrogancia y la obstinación sellaron su destino. ¿Puedes reconstruir la historia y descubrir qué sucedió en este dramático punto de inflexión?",
+  "clues": [
+    "Fui enviado como una prueba divina a un pueblo poderoso, conocido por su fuerza y ​​rebeldía.",
+    "Yo era una maravilla única; nunca antes había aparecido alguien como yo entre ellos.",
+    "Compartía agua potable de un pozo con mi gente en días alternos.",
+    "Se les advirtió que cualquier daño que se hiciera contra mí acarrearía un castigo inmediato.",
+    "El más osado de ellos ignoró la advertencia y me dejó inmovilizado.",
+    "Tras mi muerte, un único y atronador grito procedente del cielo destruyó a todo mi pueblo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La camella de Salih",
+        "La vaca de Musa",
+        "El barco de Nuh",
+        "El personal de Musa",
+        "El trono de Bilqis"
+      ],
+      "answer": "La camella de Salih"
+    },
+    "trial": {
+      "label": "Mi destino",
+      "options": [
+        "Lisiado y asesinado",
+        "Sacrificado como sacrificio",
+        "Transformado en serpiente",
+        "Preservado a través de una gran inundación",
+        "Transportado rápidamente a través de un reino."
+      ],
+      "answer": "Lisiado y asesinado"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un pozo de agua",
+        "Una tablilla de piedra",
+        "Una zarza ardiente",
+        "Un arca de madera",
+        "Un trono de oro y plata"
+      ],
+      "answer": "Un pozo de agua"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Destruido por un solo grito",
+        "Ahogado en una gran inundación",
+        "Quemado por una lluvia de piedras",
+        "Destrozado por un viento violento",
+        "Engullido por la tierra"
+      ],
+      "answer": "Destruido por un solo grito"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

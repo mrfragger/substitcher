@@ -1,0 +1,61 @@
+{
+  "title": "Mukaddes Odyň Synagy",
+  "intro": "Her öýde oýulan daşa wepalylygyň kök uran gadymy ýurtda bir adam tapawutlanýardy. Ynamdar ynam we ilahi gorag arkaly olar hökman ölüme duçar boldular we sag-aman gitdiler. Bu ajaýyp ruhuň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Men öz elleri bilen oýup ýasan butlaryna sežde edýän we bu zatlaryň ilahi güýje eýedigine ynanýan adamlaryň arasynda ulaldym.",
+    "Men olaryň ynançlaryna şübhelenenimde, ilki meni ret etdiler, ýöne men bilýän hakykatym barada dymyp bilmedim.",
+    "Olar ýygnalan güni Men olaryň butlaryny ýok etdim, diňe iň ulusyna degilmän galdym.",
+    "Olar gaýdyp gelip, meniň näme edendigimi görenlerinde, ýolbaşçylary meni oda taşlamak niýeti bilen uly ojak gurmagy buýurdylar.",
+    "Olar meni ýanyp duran oda taşladylar, ýöne älemleriň Rebbi onuň meniň üçin sowuk we howpsuz bolmagyny buýurdy.",
+    "Men alawdan doly zyýansyz çykdym, maňa garşy dildüwşük guranlar bolsa düýbünden heläkçilige uçradylar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ybraýym pygamber",
+        "Musa pygamber",
+        "Nuh pygamber",
+        "Isa pygamber",
+        "Ýusup pygamber"
+      ],
+      "answer": "Ybraýym pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ýanýan oda taşlanmak",
+        "Uly kit tarapyndan ýuwudylýar",
+        "Beýik silden aman galmak",
+        "Çuň guýa taşlanmak",
+        "Patyşanyň jadygöýleri bilen ýüzbe-ýüz bolmak"
+      ],
+      "answer": "Ýanýan oda taşlanmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýanýan agaçdan ýasalan ägirt uly otly",
+        "Beýik agaçdan ýasalan sandyk",
+        "Altyn göle heýkeli",
+        "Derýanyň üstünde ýüzýän sebet",
+        "Ajaýyp tagt"
+      ],
+      "answer": "Ýanýan agaçdan ýasalan ägirt uly otly"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Allatagala ody sowuk we howpsuz etdi",
+        "Gämi dagyň üstüne sag-aman gondy",
+        "Altyn but olaryň gözleriniň öňünde eredi",
+        "Zalym we onuň goşuny deňizde gark boldy",
+        "Kör adamyň görmegi dikeldildi"
+      ],
+      "answer": "Allatagala ody sowuk we howpsuz etdi"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

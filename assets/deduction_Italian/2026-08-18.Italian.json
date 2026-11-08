@@ -1,0 +1,61 @@
+{
+  "title": "Colui che si è guadagnato una Sura",
+  "intro": "Immaginate un'anima umile che si avvicina a uno dei Messaggeri di Allah con un cuore pieno di sincerità e un profondo desiderio di apprendere. Eppure, in quello stesso istante, una persona ricca e di alto rango cattura l'attenzione del Messaggero, e rivolge un'occhiataccia al cercatore. Ciò che segue è nientemeno che un intero capitolo del Corano, rivelato per correggere il Messaggero e onorare l'anima che era venuta a cercarlo.",
+  "clues": [
+    "Mi sono rivolto a un Messaggero di Allah con il cuore aperto e un profondo desiderio di ricevere guida.",
+    "Non avevo alcun prestigio mondano da offrire, solo un'anima umile in cerca della verità.",
+    "I miei occhi fisici non potevano vedere, ma la mia visione spirituale era chiara.",
+    "Sono arrivato in un momento inopportuno, quando il Messaggero era impegnato con una persona di grande influenza",
+    "Mi rivolse uno sguardo corrucciato, ma Allah rispose con una correzione divina.",
+    "Sono Abdullah ibn Umm Maktum, il devoto compagno la cui storia ha ispirato Surah Abasa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Essere respinto dal Profeta per una persona ricca",
+        "Essere gettati in un fuoco impetuoso dai nemici",
+        "Essere venduto e perseguitato come schiavo",
+        "Essere sfidato a duello da un potente guerriero",
+        "Essere inghiottito da un grande pesce"
+      ],
+      "answer": "Essere respinto dal Profeta per una persona ricca"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un capitolo del Corano che inizia con un'espressione corrucciata (Sura Abasa)",
+        "Un fuoco reso freddo e sicuro",
+        "Un bastone che ha spaccato un mare possente",
+        "Un'arca costruita su un'alta montagna",
+        "Un uccello modellato con argilla indurita"
+      ],
+      "answer": "Un capitolo del Corano che inizia con un'espressione corrucciata (Sura Abasa)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Allah mi ha rivelato una sura coranica che mi difende",
+        "Allah ha reso il fuoco fresco e sicuro per me",
+        "Allah ha diviso il mare per salvarmi dall'inseguimento",
+        "Allah mi ha concesso un grande regno e la saggezza",
+        "Allah mi ha portato in paradiso senza morte"
+      ],
+      "answer": "Allah mi ha rivelato una sura coranica che mi difende"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Muistse oru kiviraidurid",
+  "intro": "Kujutage ette tsivilisatsiooni, mis tekkis Araabia kivistes orgudes ja oli osav mäenõlvadele suurejooneliste kodude nikerdamises. Nad õitsesid jõu ja kunstiga, kuid nende lugu iseloomustab jahmatav jumaliku hoiatuse eiramine. Nende loosse süvenedes avastate rahva, kelle ülbus viis nende täieliku hävinguni. Kes nad olid?",
+  "clues": [
+    "Me pärisime kaljuse tasandike ja kõrguvate kaljudega maa, kuhu ehitasime oma elamud võrratu oskusega.",
+    "Meid tunti selle poolest, et ehitasime mägedesse turvalisi maju, kus tundsime end igasuguse ohu eest kaitstuna.",
+    "Meie endi seast tuli sõnumitooja, kes tuletas meile meelde Allahi soosinguid ja hoiatas meid karistuse eest.",
+    "Me nõudsime märki ja kaljust ilmus imeline kaamel, selge katsumus Allahilt.",
+    "Me eirasime hoiatust ja lõikasime emase kaameli kintsud läbi, pilkates sõnumitoojat ja vaidlustades karistust.",
+    "Üksainus plahvatus tabas meid kodudes ja hommikuks lamasime pikali, nagu poleks me seal kunagi elanudki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Thamudi rahvas",
+        "'Redi inimesed",
+        "Madjani rahvas",
+        "Nuhi rahvas",
+        "Luti rahvas"
+      ],
+      "answer": "Thamudi rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Emakaameli kintsud",
+        "Murdis hingamispäeva",
+        "Kummardas kuldvasikat",
+        "Tapsid neile saadetud prohveti",
+        "Ehitas torni, et taevasse ulatuda"
+      ],
+      "answer": "Emakaameli kintsud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Emane kaamel",
+        "Laegas",
+        "Personal",
+        "Valge käsi",
+        "Manna ja vutid"
+      ],
+      "answer": "Emane kaamel"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Plahvatuses hävinud",
+        "Päästetud hävingust",
+        "Muutusid ahvideks",
+        "Uppus merre",
+        "Maa poolt neelatud"
+      ],
+      "answer": "Plahvatuses hävinud"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

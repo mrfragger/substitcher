@@ -1,0 +1,61 @@
+{
+  "title": "Daryoga ishonib topshirilgan ishonch",
+  "intro": "Bir ruh imkonsiz bir taqdirga duch keldi, bu yerda yangi tug'ilgan chaqaloqning hayoti xavf ostida qoldi. Ilohiy ilhom bilan umidsiz buyruq bajarildi va qimmatbaho sir oqimga tashlandi, ammo kutilmagan tarzda qaytib keldi.",
+  "clues": [
+    "Men yangi tug'ilgan o'g'il bolalarni o'ldirishga buyruq bergan zolimning soyasida yashadim.",
+    "Menga ilohiy ilhom keldi, u menga umidsiz va yurakni ezadigan harakatni amalga oshirishni buyurdi.",
+    "Men aziz go'dakamni sandiqqa solib, oqayotgan daryoga qo'ydim.",
+    "Yuragim bo'shab qoldi va deyarli sirni oshkor qilmoqchi bo'ldim, ammo Alloh qarorimni mustahkamladi.",
+    "Oqim sandiqni olib ketayotgan paytda, bolaning yo'lini kuzatib borish uchun odam yubordim.",
+    "Bola zolimning oilasi tomonidan topildi va oxir-oqibat men bolam bilan yana birlashdim va enaga bo'ldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Muso payg'ambarning onasi",
+        "Osiyo (Fir'avnning xotini)",
+        "Maryam (Iso payg'ambarning onasi)",
+        "Lut payg'ambarning xotini",
+        "Yahyo payg'ambarning onasi (Zakariyoning xotini)"
+      ],
+      "answer": "Muso payg'ambarning onasi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "U bolasini sandiqqa solib, daryoga qo'ydi",
+        "U bolasini g'orga yashirdi",
+        "U bolasini cho'lda tashlab ketdi",
+        "U bolasini olovga tashladi",
+        "U bolasini masjid eshigi oldida qoldirib ketdi"
+      ],
+      "answer": "U bolasini sandiqqa solib, daryoga qo'ydi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Daryo bo'yida suzib yurgan sandiq",
+        "Yonayotgan buta",
+        "Ilonga aylangan tayoq",
+        "Jannatdan tushgan taomlar bilan bezatilgan dasturxon",
+        "Belgi sifatida yuborilgan urg'ochi tuya"
+      ],
+      "answer": "Daryo bo'yida suzib yurgan sandiq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "U bolasi bilan yana uchrashdi va uni emizdi",
+        "U bolasini boshqa ko'rmadi",
+        "U zolim tomonidan qatl etilgan",
+        "U Misrda malika bo'ldi",
+        "U boshqa yurtga ko'chib o'tdi va surgunda yashadi"
+      ],
+      "answer": "U bolasi bilan yana uchrashdi va uni emizdi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

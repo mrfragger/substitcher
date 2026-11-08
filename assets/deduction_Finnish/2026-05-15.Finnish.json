@@ -1,0 +1,61 @@
+{
+  "title": "Jumalallisen merkin vartija",
+  "intro": "Syvällä pyhässä pyhäkössä siunattu sielu sai jumalallisen huolenpidon. Tämän yksilön oli määrä näytellä keskeistä roolia ihmeellisessä tapahtumassa, todistaa Allahin rajatonta voimaa ja viisautta. Heidän matkansa paljasti syvällisen totuuden, kyseenalaisti käsityksiä ja loi ainutlaatuisen merkin koko ihmiskunnalle.",
+  "clues": [
+    "Minut valitsi ja puhdisti Allah kaikkien aikani naisten yläpuolelle.",
+    "Minut asetettiin vanhurskaan profeetan suojelukseen, joka löysi ihmeellisesti elatuksen rukouskammiostani.",
+    "Eristäydyin perheestäni yksityiseen paikkaan palvoakseni Allahia.",
+    "Enkeli ilmestyi minulle täydellisen miehen hahmossa ja toi minulle tiedon puhtaasta pojasta, vaikka en ollut tuntenut ketään miestä.",
+    "Synnytystuskien jälkeen minua neuvottiin ravistelemaan palmun runkoa löytääkseni tuoretta ravintoa.",
+    "Kun palasin kansani luo vastasyntynyttäni kantaen, he kuulustelivat minua, mutta poikavauvani puhui ihmeen kaupalla kehdosta asti puolustukseksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Saara (profeetta Ibrahimin vaimo)",
+        "Hajar (profeetta Ismailin äiti)",
+        "Bilqis (Saban kuningatar)",
+        "Asiya (faraon vaimo)",
+        "Maryam (Maria)"
+      ],
+      "answer": "Maryam (Maria)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuri tulva, joka tuhosi epäuskoisen kansakunnan",
+        "Heitetään liekehtivään tuleen epäjumalien kieltämisen vuoksi",
+        "Lapsen ihmeellinen syntymä ilman isää",
+        "Valaan nielaisuksi joutuminen tehtävän hylkäämisen vuoksi",
+        "Kaupungin tuhoaminen moraalittomien tapojen vuoksi"
+      ],
+      "answer": "Lapsen ihmeellinen syntymä ilman isää"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kultainen vasikka",
+        "Liitonarkki",
+        "Pyhä rukouskammio (Mihrab)",
+        "Puhuva lintu (Hudhud)",
+        "Sauva, joka muuttui käärmeeksi"
+      ],
+      "answer": "Pyhä rukouskammio (Mihrab)"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Upea temppelin rakentaminen",
+        "Meren halkaisu kansan ylitystä varten",
+        "Lapsi, joka puhui kehdosta asti vanhempansa puolesta",
+        "Jumalallisen kirjan ilmestys ihmiskunnan oppaaksi",
+        "Tuulen ja džinnien siunaama valtakunta"
+      ],
+      "answer": "Lapsi, joka puhui kehdosta asti vanhempansa puolesta"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

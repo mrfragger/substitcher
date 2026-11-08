@@ -1,0 +1,61 @@
+{
+  "title": "Benih Perselisihan",
+  "intro": "Sebelum dunia mengenal konflik yang meluas, sebuah ujian iman dan ketaatan yang mendalam terungkap. Narasi ini mengeksplorasi pilihan-pilihan yang dibuat oleh seorang individu, yang tindakannya menjadi teladan bagi generasi mendatang. Bersiaplah untuk mengungkap kisah jiwa yang bergumul dengan kecemburuan yang luar biasa dan konsekuensinya yang menghancurkan.",
+  "clues": [
+    "Aku termasuk di antara keturunan pertama yang berjalan di bumi, anak dari pasangan manusia pertama.",
+    "Aku dan saudaraku diperintahkan untuk mempersembahkan kurban kepada Allah, sebagai ujian ketulusan kami.",
+    "Persembahanku tidak diterima, sedangkan persembahan saudaraku diterima, yang membuat hatiku dipenuhi perasaan yang mengerikan.",
+    "Aku mengucapkan kata-kata ancaman kepada saudaraku, didorong oleh kepahitan karena penolakan.",
+    "Saudaraku menjawab dengan bijaksana dan saleh, mengingatkanku akan keadilan Allah dan rasa takut kepada-Nya.",
+    "Terlepas dari kata-kata lembut saudaraku dan kesediaannya untuk memaafkan, aku telah merenggut nyawa seseorang, dan menjadi salah satu pihak yang kalah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Adam",
+        "Iblis",
+        "Nabi Nuh",
+        "Qabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Banjir besar",
+        "Terbelahnya laut",
+        "Pembangunan Ka'bah",
+        "Persembahan kurban",
+        "Godaan di Taman Eden"
+      ],
+      "answer": "Persembahan kurban"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Bahtera",
+        "Staf",
+        "Gunung Safa",
+        "Pengorbanan",
+        "Semak yang Terbakar"
+      ],
+      "answer": "Pengorbanan"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Menjadi seorang pembawa pesan",
+        "Tenggelam",
+        "Membangun kerajaan besar",
+        "Menjadi contoh penyesalan",
+        "Diberikan kekayaan yang sangat besar"
+      ],
+      "answer": "Menjadi contoh penyesalan"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

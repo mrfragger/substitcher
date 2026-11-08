@@ -1,0 +1,61 @@
+{
+  "title": "Nelokāmie liecinieki",
+  "intro": "Iedomājieties laiku, kad ticība tika pārbaudīta ugunī un nelokāma pārliecība kļuva par galīgo nepakļaušanos. Jums ir uzdevums atklāt grupas identitāti, kuras stāsts ir aprakstīts Korānā – dziļas ticības stāstā pret milzīgo tirāniju. Atklājiet pavedienus, lai atklātu, kas bija šīs dvēseles un ar kādiem ārkārtas apstākļiem tās saskārās.",
+  "clues": [
+    "Mēs stingri turējāmies pie savas pārliecības, neskatoties uz milzīgo spiedienu atteikties no savas ticības.",
+    "Mūs vajāja varens valdnieks, kurš centās apdzēst monoteisma gaismu.",
+    "Mēs bijām liecinieki lielām zīmēm un brīnumiem, tomēr mūsu apspiedēji palika vienaldzīgi.",
+    "Mēs izturējām nežēlīgu vajāšanas metodi, kuras mērķis bija terorizēt citus un piespiest tos pakļauties.",
+    "Mēs tikām iemesti liesmojošā elles liesmās, tomēr mūsu nelokāmība mums nodrošināja augstu stāvokli Allāha acīs.",
+    "Mūsu stāsts ir aprakstīts surā, kas nosaukta debesu zvaigznāju vārdā, brīdinot par to likteni, kas vajā ticīgos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Tamudas ļaudis",
+        "Reklāmas iedzīvotāji",
+        "Grāvja ļaudis",
+        "Midiānas ļaudis",
+        "Ziloņa ļaudis"
+      ],
+      "answer": "Grāvja ļaudis"
+    },
+    "trial": {
+      "label": "Mūsu vajāšana",
+      "options": [
+        "Noslīkšana plūdos",
+        "Aprīts svelmainā vējā",
+        "Tiekot iemests ugunīgā tranšejā",
+        "Tikt norītai zemei",
+        "Pārveidošanās par pērtiķiem"
+      ],
+      "answer": "Tiekot iemests ugunīgā tranšejā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Masveida plūdi",
+        "Liela zemestrīce",
+        "Dziļa, degoša tranšeja",
+        "Spēcīgs elks",
+        "Postošs sausums"
+      ],
+      "answer": "Dziļa, degoša tranšeja"
+    },
+    "outcome": {
+      "label": "Mūsu galīgais liktenis",
+      "options": [
+        "Viņiem tika piešķirta valstība uz zemes.",
+        "Viņus izglāba brīnumaina bēgšana.",
+        "Viņi sasniedza mocekļa nāvi un mūžīgu atlīdzību.",
+        "Viņi tika pārveidoti par citu sugu.",
+        "Viņiem tika piešķirta milzīga bagātība un labklājība."
+      ],
+      "answer": "Viņi sasniedza mocekļa nāvi un mūžīgu atlīdzību."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

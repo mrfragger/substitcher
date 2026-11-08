@@ -1,0 +1,61 @@
+{
+  "title": "Haksız Bir Ulusa Karşı Duran İsimsiz Ruh",
+  "intro": "Kur'an sayfalarında, derslerini düşünmemiz için isimleri gizli tutulan şahsiyetler vardır. Bunlardan biri, peygamberlerini reddeden bir milletin arasında doğmuş, ancak onu diğerlerinden ayıran gizli bir inanca sahip bir kişidir. Yıkım yaklaştığında, bu kişi gizli inancında dimdik durmuştur. Son hüküm gelmeden önce halkını uyaran bu gizemli şahsiyetin kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Ben, Allah'ın kendilerine gönderdiği elçileri defalarca inkar eden bir halkın arasında yaşadım.",
+    "Milletimden farklı olarak, Rabbimden açık işaretler getiren bir elçi geldiğinde gerçeği anladım.",
+    "İnancımı, bana zulmedenlerden gizledim, çünkü inancımı öğrenirlerse bana zarar vereceklerini biliyordum.",
+    "Cezanın emri yaklaştığında, bağlılığımı açıkça ilan ettim ve halkımı kendilerini kurtarmaları konusunda uyardım.",
+    "Onlara, benim güvenilir bir elçi olduğumu, daha önce gönderilenlerden hiçbir farkım olmadığını ve Allah'tan başka hiçbir şeye ibadet etmemeleri gerektiğini hatırlattım.",
+    "Halkım beni büyücülük ve delilikle suçladı, ancak kendilerine önceden bildirilen ceza sonunda onları yakaladı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Âd kavmine gönderilen elçi Peygamber Hud",
+        "Peygamber Hud'un ümmetinden, şehit edilmiş mümin bir adam.",
+        "Aad halkının, gerçeği reddeden yöneticisi",
+        "Peygamber Salih'in, ilahi işaretlerden şüphe eden bir sahabesi.",
+        "Âd halkını yok etmek için gönderilen bir melek"
+      ],
+      "answer": "Peygamber Hud'un ümmetinden, şehit edilmiş mümin bir adam."
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kuraklık ve kıtlık denemesi onların sabrını sınadı.",
+        "Baskıcı ve inançsız bir millet önünde inancını açıklama sınavı",
+        "Büyük bir selden kaçmak için gemi inşa etme denemesi",
+        "Allah'a iman uğruna ateşe atılma imtihanı",
+        "Zenginlik ve refahla sınanma denemesi"
+      ],
+      "answer": "Baskıcı ve inançsız bir millet önünde inancını açıklama sınavı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Kutsal evin inşa edildiği Mekke şehri.",
+        "Elçilerini reddeden ulusun çöl ovaları",
+        "Peygamber Şuayb'ın gönderildiği Midyan dağları.",
+        "Peygamber Musa'nın bulunduğu Mısır'daki nehir kıyısı.",
+        "Aad halkının vadisi, şiddetli bir rüzgarın etkisi altına girdi."
+      ],
+      "answer": "Elçilerini reddeden ulusun çöl ovaları"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bir gemide kurtarıldım ve Allah'ın dilediği zamana kadar yaşadım.",
+        "Halkım benden sonra iman etti ve doğru yola yönlendirildi.",
+        "Halkım tarafından öldürüldüm ama ruhum Allah'ın rahmetiyle alındı.",
+        "Sınandıktan sonra tövbe ettim ve Allah tövbemi kabul etti.",
+        "Ölümümden sonra halkım tarafından tapılan bir puta dönüştürüldüm."
+      ],
+      "answer": "Halkım tarafından öldürüldüm ama ruhum Allah'ın rahmetiyle alındı."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

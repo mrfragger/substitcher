@@ -1,0 +1,61 @@
+{
+  "title": "El marginado de los cielos",
+  "intro": "Un ser misterioso se alza en la encrucijada de la creación y el rechazo. Su historia es de arrogancia sin igual y de desafío absoluto a un mandato divino. Su elección resuena en cada generación, convirtiéndose en una prueba para cada alma nacida en este mundo. ¿Puedes identificar a este eterno adversario?",
+  "clues": [
+    "Estuve presente en un acontecimiento de trascendencia cósmica, cuando un nuevo ser fue formado a partir de arcilla y recibió vida por el Aliento del Misericordioso.",
+    "Yo mismo fui creado a partir de un único elemento ardiente, a diferencia de aquel ser de polvo.",
+    "Se me dio una orden que consideré indigna de mi rango.",
+    "El orgullo me invadió y me negué rotundamente a obedecer esa orden.",
+    "Se me concedió una prórroga hasta un día señalado, para que pudiera llevar a cabo mi propósito declarado de engañar a los demás.",
+    "Soy el enemigo declarado de todos los que caminan sobre la tierra, susurrándoles engaños y apartándolos del camino recto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Iblis (Satanás)",
+        "Faraón (Fir'awn)",
+        "Hamán",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satanás)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Se negó a inclinarse ante Adán.",
+        "Falsamente afirmó ser divino.",
+        "Forjó un becerro de oro para el culto.",
+        "Mató a su hermano por envidia.",
+        "Lideró la oposición politeísta en La Meca."
+      ],
+      "answer": "Se negó a inclinarse ante Adán."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Paraíso (Jannah)",
+        "Palacio del faraón en Egipto",
+        "El valle sagrado de Tuwa",
+        "Las profundidades del mar",
+        "El jardín de Saba"
+      ],
+      "answer": "Paraíso (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se le concede un respiro hasta el Día del Juicio Final.",
+        "Se ahogó junto con el ejército en el mar.",
+        "Engullidos por la tierra junto con sus tesoros.",
+        "Transformados en monos por violar el sábado.",
+        "Quemado por piedras lanzadas desde el cielo"
+      ],
+      "answer": "Se le concede un respiro hasta el Día del Juicio Final."
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

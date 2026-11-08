@@ -1,0 +1,61 @@
+{
+  "title": "Abisu txiki bat martxan dagoen ostalaritza baten aurretik",
+  "intro": "Sartu agintari boteretsu bat eta gudaroste zabal bat hurbiltzen ari diren haran batera, eta imajinatu bidaiari txiki bat komunitate oso bat salbatzen duen abisu bat ematen. Mehatxatutako komunitatea aterpera iristen denean, arriskua pasatzen da. Jarraitu pistak abisu horren atzean dagoen pertsonaia ahaztua identifikatzeko.",
+  "clues": [
+    "Agintari baten erreinuarekin lotutako izaki txikien artean nago.",
+    "Nire komunitatea haran bateko etxebizitzetan bizi da, non batek besteei dei diezaiekeen.",
+    "Agintari horren eta agintariarekin bidaiatzen duten armaden mehatxu bati aurre egin behar diogu.",
+    "Ni naiz nire komunitatea haien etxeetara sartzera deitzen duena eta ohartarazten gaituena ez gaitezen zapaldu nahi gabe.",
+    "Agintaria Sulayman da, eta nire espeziea haren agindupean jarritako izakien artean dago.",
+    "Haran horretako inurria naiz; nire abisuaren ondoren, gure etxeetara sartu eta bestela oharkabean harrapatuko gintuzkeen zapalketatik ihes egin genuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Haraneko Inurria",
+        "Upupa",
+        "Belea",
+        "Sugea",
+        "Mandoa"
+      ],
+      "answer": "Haraneko Inurria"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Inurri komunitate bat salbatu zuen abisua",
+        "Arrain bati eraztun bat eskatzea",
+        "Tronu galdu baten bilaketa",
+        "Begi lapurtuen erreskatea",
+        "Agintari baten janaria jateari uko egitea"
+      ],
+      "answer": "Inurri komunitate bat salbatu zuen abisua"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Inurrien Harana",
+        "Sulaymanen zigilu-eraztuna",
+        "Yusufen odolez zikindutako alkandora",
+        "Exodoko Urrezko Txahala",
+        "Musaren langileak"
+      ],
+      "answer": "Inurrien Harana"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Komunitatea salbatu zen aterpe hartu ondoren",
+        "Komunitatea suntsitu zuten babeslekurik hartu gabe",
+        "Komunitatea salbatu zen armada atzera egin zuelako",
+        "Komunitateak hegaztien gaineko kontrola jaso zuen sari gisa",
+        "Komunitatea errege-gortera eraman zuten preso"
+      ],
+      "answer": "Komunitatea salbatu zen aterpe hartu ondoren"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

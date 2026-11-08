@@ -1,0 +1,61 @@
+{
+  "title": "Tranšėjos sielos",
+  "intro": "Nukeliaujate atgal į epochą, kai negailestingas valdovas reikalavo absoliutaus atsidavimo netikroms dievybėms. Maža atsidavusių sielų bendruomenė atsisakė ir susidūrė su tokia griežta bausme, kad tapo amžinai prakeikta. Jų istorija aidi Korane kaip nepajudinamo tikėjimo liudijimas. Ar galite atpažinti šią tvirtą grupę?",
+  "clues": [
+    "Gyvenome šalyje, kurioje buvo tironija valdovo, reikalavusio garbinti netikras dievybes.",
+    "Mūsų bendruomenė patyrė žiaurų persekiojimą vien dėl tikėjimo Alachu",
+    "Valdovas įsakė iškasti didelį tranšėją ir jį pakurstyti nuožmiomis liepsnomis",
+    "Kadangi atsisakėme išsižadėti savo tikėjimo, vienas po kito buvome įmesti į tą liepsnojančią duobę",
+    "Mūsų istorija tapo Korano dalimi, o tie, kurie mus persekiojo, buvo amžinai prakeikti",
+    "Suras, kurioje užfiksuoti mūsų išbandymai, pavadintas pagal didžiuosius dangaus ženklus"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Tranšėjos palydovai (Ašabas al-Ukhdudas)",
+        "Olos žmonės (Ašabas al-Kahfas)",
+        "Šabo žmonės",
+        "A'ado žmonės",
+        "Tamudo žmonės"
+      ],
+      "answer": "Tranšėjos palydovai (Ašabas al-Ukhdudas)"
+    },
+    "trial": {
+      "label": "Mūsų išbandymas",
+      "options": [
+        "Gyvas deginamas ugnies duobėje",
+        "Daugelį metų uždarytas oloje",
+        "Žvejyba šventąją poilsio dieną",
+        "Sunaikintas siaučiančio vėjo",
+        "Šventosios kupranugario patelės nužudymas"
+      ],
+      "answer": "Gyvas deginamas ugnies duobėje"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Liepsnojanti ugnies tranšėja",
+        "Paslėpta ola su ištikimu šunimi",
+        "Aukšti senovės pasmerkto miesto stulpai",
+        "Kalnų būstai, iškalti akmeninėse uolose",
+        "Atvira lyguma, kurią blaško smarkūs vėjai"
+      ],
+      "answer": "Liepsnojanti ugnies tranšėja"
+    },
+    "outcome": {
+      "label": "Mūsų rezultatas",
+      "options": [
+        "Mes buvome kankiniai, o persekiotojai – amžinai prakeikti",
+        "Pabudome po 309 metų miego",
+        "Už savo prasižengimus buvome paversti beždžionėmis",
+        "Galingas vėjas mus visus sunaikino",
+        "Vienas pražūtingas šauksmas sugriovė mūsų egzistenciją"
+      ],
+      "answer": "Mes buvome kankiniai, o persekiotojai – amžinai prakeikti"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

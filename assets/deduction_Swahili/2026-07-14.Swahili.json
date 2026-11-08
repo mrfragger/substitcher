@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi za Handaki",
+  "intro": "Unarudi kwenye enzi ambapo mtawala mkatili alidai kujitolea kikamilifu kwa miungu ya uongo. Jumuiya ndogo ya roho zilizojitolea zilikataa, na zikakabiliwa na adhabu kali sana kiasi kwamba ikawa laana ya milele. Hadithi yao inarudiwa kupitia Quran kama ushuhuda wa imani isiyoyumba. Je, unaweza kutambua kundi hili thabiti?",
+  "clues": [
+    "Tuliishi katika nchi iliyo chini ya udhalimu wa mtawala aliyedai kuabudiwa kwa miungu ya uongo",
+    "Jumuiya yetu ilikabiliwa na mateso makali kwa sababu tu ya imani yetu kwa Mwenyezi Mungu pekee",
+    "Mtawala aliamuru kuchimbwa handaki kubwa na kuwashwa moto mkali",
+    "Kwa sababu tulikataa kuikana imani yetu, tulitupwa kwenye shimo hilo linalowaka moto mmoja baada ya mwingine.",
+    "Hadithi yetu ikawa sehemu ya Quran, na wale waliotutesa walilaaniwa milele.",
+    "Surah inayorekodi mateso yetu imepewa jina kutokana na ishara kubwa za mbinguni za angani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sisi Ni Nani?",
+      "options": [
+        "Masahaba wa Handaki (Ashab al-Ukhdud)",
+        "Watu wa Pango (Ashab al-Kahf)",
+        "Watu wa Sabato",
+        "Watu wa A'ad",
+        "Watu wa Thamud"
+      ],
+      "answer": "Masahaba wa Handaki (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Jaribio Letu",
+      "options": [
+        "Kuchomwa moto wakiwa hai kwenye shimo la moto",
+        "Kufungwa ndani ya pango kwa miaka mingi",
+        "Uvuvi siku takatifu ya mapumziko",
+        "Kuharibiwa na upepo mkali",
+        "Kuua ngamia jike mtakatifu"
+      ],
+      "answer": "Kuchomwa moto wakiwa hai kwenye shimo la moto"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mfereji wa moto unaowaka",
+        "Pango lililofichwa na mbwa mwaminifu",
+        "Nguzo ndefu za mji wa kale ulioangamia",
+        "Nyumba za milimani zilizochongwa kwenye miamba ya mawe",
+        "Uwanda wazi unaopeperushwa na upepo mkali"
+      ],
+      "answer": "Mfereji wa moto unaowaka"
+    },
+    "outcome": {
+      "label": "Matokeo Yetu",
+      "options": [
+        "Tuliuawa kishahidi na watesaji wakalaaniwa milele",
+        "Tuliamka baada ya kulala kwa miaka 309",
+        "Tulibadilishwa kuwa nyani kwa sababu ya uasi wetu",
+        "Upepo mkali uliovuma ulituangamiza sote",
+        "Kilio kimoja cha kutisha kilivunja uhai wetu"
+      ],
+      "answer": "Tuliuawa kishahidi na watesaji wakalaaniwa milele"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

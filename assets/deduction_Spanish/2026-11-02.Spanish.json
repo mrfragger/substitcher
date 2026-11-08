@@ -1,0 +1,61 @@
+{
+  "title": "El aliado inquebrantable en una prueba de oro",
+  "intro": "A la sombra de un gran profeta, un alma elocuente y de profunda fe fue elegida para colaborar en una misión trascendental. Esta figura se mantuvo firme cuando las masas vacilaron, predicando contra una flagrante transgresión que amenazaba la esencia misma del monoteísmo. Cuando el profeta regresó para presenciar la caída del pueblo, la defensa de esta figura no se basó en la culpa, sino en el deber y el temor a la división. ¿Quién es este devoto siervo de Alá?",
+  "clues": [
+    "Fui elegido por Alá para un deber sagrado junto con otra persona, y mi papel fue de apoyo y proclamación.",
+    "Se me concedió la libertad de expresión y acompañé a un mensajero para enfrentarme a un poderoso opresor.",
+    "Durante un viaje crucial, el mensajero ascendió solo a una montaña, dejándome a cargo de vigilar a la gente.",
+    "En su ausencia, el pueblo creó una imagen dorada, y les rogué que permanecieran fieles, pero rechazaron mi consejo.",
+    "Cuando el mensajero regresó, lleno de ira y tristeza, fui apresado, pero expliqué que me habían vencido y que temía causar discordia entre ellos.",
+    "Yo soy el profeta que estuvo al lado de Musa, mi hermano, compartiendo su carga y manteniéndome firme contra la idolatría."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Harún",
+        "El profeta Musa",
+        "Profeta Isaías",
+        "Profeta Dawud",
+        "Profeta Zacarías"
+      ],
+      "answer": "Profeta Harún"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La gente adoraba a un becerro de oro a pesar de las advertencias.",
+        "Me arrojaron a un fuego ardiente.",
+        "Me tragó un pez enorme.",
+        "Fui encarcelado bajo cargos falsos.",
+        "Fui exiliado de mi ciudad por predicar."
+      ],
+      "answer": "La gente adoraba a un becerro de oro a pesar de las advertencias."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El becerro de oro",
+        "La zarza ardiente",
+        "El bastón que se convirtió en serpiente",
+        "Las Tablas del Pacto",
+        "El Arca de la Alianza"
+      ],
+      "answer": "El becerro de oro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Fui exonerado y continué con mi misión profética.",
+        "Fui castigado por el pecado del pueblo.",
+        "Me dieron una nueva nación para guiar.",
+        "Me llevaron al cielo con vida.",
+        "Me nombraron gobernante de un reino."
+      ],
+      "answer": "Fui exonerado y continué con mi misión profética."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

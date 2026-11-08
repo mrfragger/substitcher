@@ -1,0 +1,61 @@
+{
+  "title": "Yurish qo'shinidan oldin kichik ogohlantirish",
+  "intro": "Qudratli hukmdor va ulkan qo'shin yaqinlashib kelayotgan vodiyga qadam qo'ying va butun jamoani qutqarib qoladigan ogohlantirish berayotgan kichkina sayohatchini tasavvur qiling. Xavf ostida qolgan jamoa boshpana topganida, xavf o'tib ketadi. Ushbu ogohlantirish ortidagi e'tibordan chetda qolgan shaxsni aniqlash uchun ko'rsatmalarga amal qiling.",
+  "clues": [
+    "Men hukmdorning shohligi bilan bog'liq kichik mavjudotlar qatoridaman.",
+    "Mening jamoam vodiy ichidagi uylarda yashaydi, u yerda birimiz boshqamizga qo'ng'iroq qila olamiz.",
+    "Biz o'sha hukmdor va u bilan birga ketayotgan qo'shinlar tomonidan tahdidga duch kelmoqdamiz.",
+    "Men o'z ummatimni o'z uylariga kirishga chaqiradigan va bizni bilmasdan ezilib ketmaslik haqida ogohlantiradigan zotman.",
+    "Hukmdor Sulaymondir va mening zotim uning qo'mondonligi ostidagi maxluqotlar qatoridadir.",
+    "Men o'sha vodiyning chumolisiman; ogohlantirishimdan so'ng, biz uylarimizga kirib, aks holda bizni bexosdan ushlab qolishi mumkin bo'lgan ezilishdan qutuldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Vodiy chumolisi",
+        "Hupoe",
+        "Qarg'a",
+        "Ilon",
+        "Xachir"
+      ],
+      "answer": "Vodiy chumolisi"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Chumolilar jamoasini saqlab qolgan ogohlantirish",
+        "Baliqdan uzuk so'rash",
+        "Yo'qolgan taxtni qidirish",
+        "O'g'irlangan ko'zlarni qutqarish",
+        "Hukmdorning ovqatini yeyishdan bosh tortish"
+      ],
+      "answer": "Chumolilar jamoasini saqlab qolgan ogohlantirish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Chumolilar vodiysi",
+        "Sulaymonning muhr uzugi",
+        "Yusufning qonga bo'yalgan ko'ylagi",
+        "Chiqish davridagi oltin buzoq",
+        "Musoning tayoqchasi"
+      ],
+      "answer": "Chumolilar vodiysi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Jamiyat boshpana olganidan keyin qutqarildi",
+        "Jamiyat boshpana topmasdan vayron qilindi",
+        "Armiya chekingani uchun jamoa omon qoldi",
+        "Jamiyat qushlar ustidan nazorat qilish bilan mukofotlandi",
+        "Jamiyat qirollik saroyiga asirga olindi"
+      ],
+      "answer": "Jamiyat boshpana olganidan keyin qutqarildi"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

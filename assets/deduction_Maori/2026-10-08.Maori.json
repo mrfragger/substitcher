@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaihanga Kōhatu o te Raorao Tawhito",
+  "intro": "Whakaarohia tētahi iwi i ara ake i ngā awaawa toka o Arapia, he tohunga ki te whakairo i ngā whare whakahīhī mai i ngā taha o ngā maunga. I tupu nui rātou me te kaha me te toi, engari ko tō rātou kōrero he whakahē whakamataku ki te whakatūpato a te Atua. I a koe e ruku ana ki roto i tā rātou kōrero, ka hurahia e koe tētahi iwi nā te whakapehapeha i arahi ki te whakangaromanga rawa atu. Ko wai rātou?",
+  "clues": [
+    "I riro mai i a mātou tētahi whenua o ngā mania toka me ngā pari teitei, ā, i reira mātou i hanga ai i ō mātou kāinga me te pūkenga kore e taea te whakataurite.",
+    "I mōhiotia mātou mō te whakairo i ngā kāinga haumaru ki ngā maunga, me te noho haumaru hoki i ngā āhuatanga kino.",
+    "I tae mai tētahi karere ki a mātou i roto i a mātou anō, hei whakamahara mai i ngā manaakitanga a Allah, hei whakatūpato mai hoki i a mātou mō te whiu.",
+    "I tono mātou i tētahi tohu, ā, ka puta mai tētahi kamera uha merekara i roto i te toka, he whakamātautau mārama mai i a Allah.",
+    "I whakakeke mātou ki te whakatūpato, ā, i whakangotehia te kamera uwha, i tawai ki te karere, i werohia hoki te whiu.",
+    "Kotahi te pahūtanga i pā mai ki a mātou i roto i ō mātou kāinga, ā, i te ata ka takoto tapapa mātou, me te mea kāore mātou i noho ki reira."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te iwi o Thamud",
+        "Ngā tāngata o 'Ad",
+        "Ngā tāngata o Madyan",
+        "te iwi o Noa",
+        "Te iwi o Ruta"
+      ],
+      "answer": "Te iwi o Thamud"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakawhāitihia te kamera uha",
+        "I takahia te Hāpati",
+        "I karakia ki te kuao kau koura",
+        "I patua te poropiti i tonoa ki a rātou",
+        "I hanga he pourewa hei eke ki te rangi"
+      ],
+      "answer": "I whakawhāitihia te kamera uha"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te kamera uha",
+        "Te Āraka",
+        "Ngā kaimahi",
+        "Te ringa mā",
+        "Te mana me te koitareke"
+      ],
+      "answer": "Te kamera uha"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakangaromia e te pahūtanga",
+        "I whakaorangia i te whakangaromanga",
+        "Kua hurihia hei makimaki",
+        "I toremi ki te moana",
+        "Horomia e te whenua"
+      ],
+      "answer": "I whakangaromia e te pahūtanga"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

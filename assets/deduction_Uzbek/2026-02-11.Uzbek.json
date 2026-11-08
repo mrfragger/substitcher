@@ -1,0 +1,60 @@
+{
+  "title": "Boylik yuki",
+  "intro": "Siz ulkan boylik haqidagi hikoya, oltin va kuch bilan bezatilgan hayot oldida turibsiz, ammo oxir-oqibat bu dunyoviy ulug'vorlikni izlayotganlar uchun ogohlantiruvchi saboqdir. Hikoyasi vaqt o'tishi bilan aks-sado beradigan, dunyoviy mol-mulkning o'tkinchi tabiatining isboti bo'lgan bu shaxsning kimligini ochib bera olasizmi?",
+  "clues": [
+    "Men buyuk Payg'ambar qavmidan edim, lekin takabburlik va zulm yo'lini tanladim.",
+    "Alloh menga shu qadar ulkan boylik ato etdiki, xazinalarning kalitlari kuchli bir guruh odamlar uchun og'ir yuk edi.",
+    "Qavmim menga boyligim bilan faxrlanmaslikni maslahat berishdi va Alloh maqtanchoqlarni sevmasligini eslatishdi.",
+    "Men mag'rurlik bilan ulkan boyligim Allohning ne'mati emas, balki o'z bilimim va harakatim tufayli ekanligini da'vo qildim.",
+    "Menga buzg'unchilikdan ogohlantirishdi va Alloh menga bergan narsa bilan oxiratni izlashim kerakligi eslatildi, lekin men quloq solishdan bosh tortdim va mag'rurligim bilan davom etdim.",
+    "Oxir-oqibat, Alloh meni va uyimni yerga yutib yubordi va menga Uning taqdiriga qarshi hech qanday yordamchi qoldirmadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avn",
+        "Xomon",
+        "Qorun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qorun"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Dengizning ikkiga bo'linishi",
+        "Nimrodning olovi",
+        "To'fon",
+        "Yer tomonidan yutib yuborilishi",
+        "Chigirtkalar vabosi"
+      ],
+      "answer": "Yer tomonidan yutib yuborilishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Oltin buzoq",
+        "Xazinalar/Kalitlar",
+        "Zamzam qudug'i"
+      ],
+      "answer": "Xazinalar/Kalitlar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Qirollik berilgan",
+        "Vayronagarchilikdan qutqarildi",
+        "Yer tomonidan yutib yuborilgan",
+        "Payg'ambar bo'ldi",
+        "Tinchlik bilan o'ldi"
+      ],
+      "answer": "Yer tomonidan yutib yuborilgan"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

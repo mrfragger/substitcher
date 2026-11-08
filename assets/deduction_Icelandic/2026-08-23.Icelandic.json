@@ -1,0 +1,61 @@
+{
+  "title": "Hinn horfni mannfjöldi",
+  "intro": "Þú stendur frammi fyrir bergmálum samfélags sem sagan er skrifuð í öldurnar. Þessar sálir heyrðu kall, kusu að þrjóskast og stóðu frammi fyrir afleiðingum sem mótuðu jörðina á nýjan leik. Hverjar eru þær og hvað varð úr heimi þeirra?",
+  "clues": [
+    "Við lifðum fyrir löngu síðan, og sendiboði kom til okkar úr okkar hópi.",
+    "Við tilbáðum fimm skurðgoð og neituðum að yfirgefa þau.",
+    "Við hæddumst að sendiboðanum og ásökuðum hann um að fara afvega.",
+    "Við kröfðumst þess að hann yrði refsað ef hann hefði sagt sannleikann.",
+    "Við sáum himininn hella niður regni og jörðina spretta uppsprettur.",
+    "Við klifruðum upp á hæðirnar til að flýja, en öldurnar náðu yfir okkur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hverjir erum við?",
+      "options": [
+        "Fólkið í Nuh",
+        "Fólkið í 'Ad",
+        "Fólkið í Thamud",
+        "Fólkið í Lút",
+        "Fólkið í Madyan"
+      ],
+      "answer": "Fólkið í Nuh"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Við drukknuðum í miklu flóði",
+        "Við vorum eyðilögð af fellibyl",
+        "Við vorum drepin af mikilli sprengingu",
+        "Við vorum gleypt af jörðinni",
+        "Við vorum kastað með steinum úr himninum"
+      ],
+      "answer": "Við drukknuðum í miklu flóði"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Mikil flóð",
+        "Ofsafenginn vindur",
+        "Steinasláttur",
+        "Eldheitur sprenging",
+        "Jarðskjálfti"
+      ],
+      "answer": "Mikil flóð"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Við fórumst öll nema þeir sem trúðu með Nuh",
+        "Við vorum umbreytt í apa",
+        "Við vorum eftir sem rústir fyrir ferðalanga",
+        "Við vorum breytt í salt",
+        "Við fengum hvíld"
+      ],
+      "answer": "Við fórumst öll nema þeir sem trúðu með Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

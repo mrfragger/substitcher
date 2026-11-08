@@ -1,0 +1,61 @@
+{
+  "title": "Solihlarning uyqusi",
+  "intro": "Iymon xavfli bo'lgan va qudratlilar e'tiqodni yo'q qilishga intilgan bir davrda, yosh qalblarning kichik bir guruhi asrlar davomida aks-sado beradigan tanlovni amalga oshirdilar. Ular bilganlaridan qochib, tog'ning yashirin zulmatiga panoh topdilar va butunlay Allohga ishondilar. Keyin sodir bo'lgan voqealar tafakkur qiluvchilar uchun abadiy belgi bo'lib qoladi.",
+  "clues": [
+    "Biz Parvardigorimizga iymon keltirgan bir guruh yoshlar edik va U bizni hidoyatda ziyoda qildi.",
+    "Biz qavmimiz oldida turib, Allohdan boshqa hech qanday xudoga ibodat qilmasligimizni e'lon qildik.",
+    "Biz g'ordan panoh topib: \"Ey Robbimiz, bizga O'z huzuringdan rahmat ato et va ishimizda bizni to'g'ri yo'lga boshla\", dedik.",
+    "Biz juda ko'p yillar uxladik va quyosh g'orimizdan uzoqlashib, bizga tegmasdi.",
+    "Itimiz g'orning og'zida cho'zilib yotar, go'yo bizni qo'riqlayotgandek qo'riqlardi.",
+    "Uyg'onganimizda, qancha vaqt yotganimizni o'yladik va birimizga oziq-ovqat sotib olish uchun kumush tangalar yuborildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "G'or odamlari",
+        "Xandaq odamlari",
+        "Shabbat kuni odamlari",
+        "Fil odamlari",
+        "O'rmon sheriklari"
+      ],
+      "answer": "G'or odamlari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Dini uchun ta'qiblardan qochish uchun g'orga qochib ketishdi",
+        "Kuchli shamol tomonidan vayron qilingan",
+        "Yer tomonidan yutib yuborilgan",
+        "Dengizda cho'kib ketdi",
+        "Tosh bo'roni urdi"
+      ],
+      "answer": "Dini uchun ta'qiblardan qochish uchun g'orga qochib ketishdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "G'or kirishini qo'riqlayotgan it",
+        "Buyuk kema",
+        "Ilonga aylangan tayoq",
+        "Huni qushi",
+        "Oltin buzoq"
+      ],
+      "answer": "G'or kirishini qo'riqlayotgan it"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ular g'orda 309 yil qolishdi va keyin belgi sifatida ko'tarilishdi.",
+        "Ular maymunlarga aylantirildi",
+        "Ular suv toshqini natijasida vayron bo'lgan",
+        "Ular dengizni kesib o'tishga majbur bo'lishdi",
+        "Ularga shohlik berildi"
+      ],
+      "answer": "Ular g'orda 309 yil qolishdi va keyin belgi sifatida ko'tarilishdi."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

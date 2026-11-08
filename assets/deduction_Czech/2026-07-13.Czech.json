@@ -1,0 +1,61 @@
+{
+  "title": "Hlas moudrosti",
+  "intro": "Jemný hlas moudrosti kdysi sdílel rady, které přesahují čas. Tato postava, obdařená hlubokým porozuměním, předala neocenitelné lekce, které zůstávají majákem pro všechny, kdo touží po vedení. Dokážete rozluštit identitu těchto trvalých slov?",
+  "clues": [
+    "Bylo mi od Alláha uděleno hluboké požehnání, dar, který osvítil mé srdce i mysl.",
+    "Obrátila jsem se ke svému milovanému dítěti s touhou podělit se o nejcennější poklad, který jsem vlastnila.",
+    "Varoval jsem, že největší nespravedlností je stavět si partnery s Jediným pravým Bohem.",
+    "Připomněl jsem si, že i váha hořčičného zrnka, ukrytá uvnitř skály nebo pod nebesy, bude před Alláhem povolána k zodpovědnosti.",
+    "Nařídil jsem, abychom byli poslušní vůči rodičům, ačkoli poslušnost je pouze ve věcech spravedlivosti.",
+    "Učil jsem jednoduchému chování: choď po zemi s pokorou a mírni svůj hlas, neboť nejhrubším zvukem je hýkání oslů."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lukmán",
+        "Al-Khidr",
+        "Prorok Sulajmán",
+        "Dhul-Qarnayn",
+        "Uzair"
+      ],
+      "answer": "Lukmán"
+    },
+    "trial": {
+      "label": "Zkušební verze / událost",
+      "options": [
+        "Dává svému dítěti hluboké rady",
+        "Stavba archy pro přežití velké potopy",
+        "Trpělivě snášet těžkou nemoc",
+        "Cesta na konec světa",
+        "Přijímání božských tabulek na hoře"
+      ],
+      "answer": "Dává svému dítěti hluboké rady"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Rada jeho synovi",
+        "Hořící keř",
+        "Zaměstnanci Musy",
+        "Zlaté tele",
+        "Železné brány"
+      ],
+      "answer": "Rada jeho synovi"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Jeho rada byla zvěčněna v božském písmu",
+        "Bylo mu uděleno proroctví a nový zákon",
+        "Stal se mocným vládcem nad rozlehlým královstvím",
+        "Byl vznesen do nebes bez smrti",
+        "Dostal přímé zjevení od anděla"
+      ],
+      "answer": "Jeho rada byla zvěčněna v božském písmu"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

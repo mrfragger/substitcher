@@ -1,0 +1,61 @@
+{
+  "title": "L'anima vigile sulla riva del fiume",
+  "intro": "Un giovane individuo ricevette una missione segreta: osservare da una distanza di sicurezza lo svolgersi del destino sulle acque. Invisibile e insospettabile, questa figura avrebbe giocato un ruolo cruciale nel cambiare il corso della storia di una nazione.",
+  "clues": [
+    "Mia madre mi affidò un compito che richiedeva furtività e vigilanza.",
+    "I miei occhi seguirono una piccola culla che galleggiava nella corrente, il cuore oppresso dalla preoccupazione.",
+    "Quando venne ritrovato da una persona inaspettata, mi avvicinai, pieno di apprensione.",
+    "Ho notato la loro disperazione nel cercare qualcuno che si prendesse cura di loro e ho offerto una soluzione senza rivelare la verità.",
+    "Il mio tempestivo intervento ha riportato un'anima da infermiera a chi ne aveva più bisogno.",
+    "Alle corti dei potenti, ho detto: \"Volete che vi indichi una famiglia che lo nutra e si prenda cura di lui con attenzione?\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "La sorella di Musa",
+        "La madre di Musa",
+        "La moglie del faraone",
+        "Un'ostetrica",
+        "La figlia di Shu'aib"
+      ],
+      "answer": "La sorella di Musa"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il gesto di gettare un bambino nel fiume",
+        "La separazione del mare",
+        "Il rogo del vitello",
+        "La costruzione dell'arca",
+        "La piaga delle locuste"
+      ],
+      "answer": "Il gesto di gettare un bambino nel fiume"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il fiume",
+        "Il deserto",
+        "La montagna",
+        "Il palazzo",
+        "Il fuoco"
+      ],
+      "answer": "Il fiume"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Ha riunito il bambino con la madre.",
+        "Si salvò dai soldati del faraone",
+        "Divenne regina",
+        "È stata punita per spionaggio",
+        "Lei guidò gli Israeliti"
+      ],
+      "answer": "Ha riunito il bambino con la madre."
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A fátyolos összeesküvő",
+  "intro": "Egy hatalmas alakkal találod magad a kinyilatkoztatás korából. Ez a személy intelligenciájáról, gazdagságáról és népe körében betöltött pozíciójáról volt ismert. Amikor egyértelmű jelek jöttek, felismerték a szépséget, mégis a dacot választották az engedelmesség helyett. Mi késztette ezt a lelket arra, hogy sötétben terveket szőjön, és mi lett a végső sorsa?",
+  "clues": [
+    "Bőséges erőforrásokkal és befolyással áldott meg a sors, így a szavam súlyt kapott a gyülekezetekben.",
+    "Amikor az isteni szavait szavalták, nem tagadhattam azok ékesszólását, de büszkeségem nem engedte, hogy megadjam magam.",
+    "Összegyűjtöttem a tanácsadóimat, elszigetelődtem, hogy átgondoljam, hogyan tehetném hiteltelenné az üzenetet.",
+    "Sok gondolkodás után kijelentettem, hogy ez nem más, mint „a múltból örökölt varázslat”, amivel el lehet utasítani az embereket.",
+    "A kinyilatkoztatás ezután közvetlenül nekem szólt: „Hagyj békén azzal, akit én teremtettem.” Kiszemeltek a terveim miatt.",
+    "Hamarosan ugyanaz a tűz fog elragadni a hajamnál fogva, amitől figyelmeztettek, és nem lesz menekvésem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Laháb",
+        "Abu Dzsahl",
+        "Uqbah ibn Abi Mu'ajt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Összeesküdtek a Próféta meggyilkolására",
+        "Bojkottot indított a muszlimok ellen",
+        "Tanácsot gyűjtöttek, hogy a Koránt varázslatnak bélyegezzék",
+        "Összeesküvést szőttek a Próféta Mekkából való kiűzésére",
+        "Nem volt hajlandó megosztani vagyonát az árvákkal"
+      ],
+      "answer": "Tanácsot gyűjtöttek, hogy a Koránt varázslatnak bélyegezzék"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A kinyilatkoztatás",
+        "A Tanács",
+        "A homlokfürt",
+        "A vagyon",
+        "A toll"
+      ],
+      "answer": "A homlokfürt"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megbánta bűneit és átvette az iszlámot",
+        "Abesszíniába vándorolt.",
+        "Halálos betegség sújtotta",
+        "A muszlimok elleni csatában halt meg",
+        "A pokol tüzére ítélték"
+      ],
+      "answer": "A pokol tüzére ítélték"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

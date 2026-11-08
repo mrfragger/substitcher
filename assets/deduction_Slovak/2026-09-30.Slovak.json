@@ -1,0 +1,61 @@
+{
+  "title": "Pacient jedna",
+  "intro": "Kedysi dávno, v najstarších dňoch ľudskej histórie, dve duše stáli pred svojím Stvoriteľom s obeťami. Jedna bola prijatá, druhá nie. To, čo nasledovalo, sa stalo prvou veľkou tragédiou medzi súrodencami - jeden akt trpezlivej zdržanlivosti a jeden akt trpkej pomsty. Vieš odhaliť, kto som?",
+  "clues": [
+    "Narodil som sa v úplne prvých dňoch ľudskej existencie na Zemi",
+    "Bol som dieťaťom úplne prvého páru ľudí, ktorí kedy chodili po tejto zemi",
+    "Kedysi som priniesol obetu z najlepších kusov svojho stáda, aby som sa zapáčil svojmu Stvoriteľovi",
+    "Moja obeta bola prijatá zhora, zatiaľ čo obeta môjho súrodenca bola odmietnutá",
+    "Keď mi hrozila smrť, rozhodol som sa nezdvihnúť ruku na svojho súrodenca",
+    "Stal som sa prvým človekom v celej ľudskej histórii, ktorého neprávom zabil iný človek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Habil (Ábel), syn Adama",
+        "Qabil (Kain), syn Adamov",
+        "Adam, prvý človek",
+        "Nuh (Noe)",
+        "Ibrahim (Abrahám)"
+      ],
+      "answer": "Habil (Ábel), syn Adama"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Prvá vražda v dejinách ľudstva",
+        "Veľká potopa Nuha",
+        "Zničenie Farawnovej armády",
+        "Obetovanie Ismaila Ibrahimom",
+        "Bitka proti Jalut (Goliášovi)"
+      ],
+      "answer": "Prvá vražda v dejinách ľudstva"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Ovca obetovaná ako príjemná obeť",
+        "Veľká drevená archa",
+        "Palica, ktorá sa premenila na hada",
+        "Dudok nesúci kráľovské posolstvo",
+        "Horiaci ohnivý zákop"
+      ],
+      "answer": "Ovca obetovaná ako príjemná obeť"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Stal sa prvou obeťou vraždy v dejinách ľudstva",
+        "Prežil veľkú povodeň vo vnútri drevenej lode",
+        "Žil v bruchu veľkej ryby",
+        "Vládol nad džinmi, ľuďmi a vetrom",
+        "Štyridsať rokov putoval po rozsiahlej púšti"
+      ],
+      "answer": "Stal sa prvou obeťou vraždy v dejinách ľudstva"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

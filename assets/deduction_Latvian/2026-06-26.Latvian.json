@@ -1,0 +1,61 @@
+{
+  "title": "Noraidītas dāvanas nasta",
+  "intro": "Cilvēces vēstures sākumā, kad zeme vēl bija jauna un pasaule aizturēja savu pirmo elpu, dvēsele nostājās Radītāja priekšā ar pazemīgu upuri. Šis upuris tika nosvērts dievišķās pieņemšanas svaros un atzīts par nepietiekamu. Sekoja nevis piedošanas stāsts, bet gan par greizsirdības pārņemtu sirdi, kas noveda pie neatgriezeniska akta, kas atbalsosies visos laikos. Šis ir stāsts par kādu, kura vārds kļuva par sinonīmu pirmajai jebkad pieļautajai nopietnajai netaisnībai.",
+  "clues": [
+    "Es piedzimu kā viens no pašiem pirmajiem bērniem pasaulē, dzimis vecākam, kura stāstu jūs labi zināt.",
+    "Reiz es upurēju Allāham, bet tas no manis netika pieņemts — lai gan mana brāļa vai māsas upuris tika pieņemts ar žēlastību.",
+    "Manā sirdī iesakņojās skaudība un dusmas, un es draudēju atņemt dzīvību saviem radiniekiem.",
+    "Mans brālis vai māsa brīdināja mani bīties Allāha, bet mans lepnums neļāva man klausīt.",
+    "Briesmīga vājuma brīdī es paveicu neaprakstāmu darbu pret savu brāli.",
+    "Pēc tam es pat nezināju, kā noslēpt savu rīcību — līdz brīdim, kad mani mācīja kāda zemes radība."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Kabils (Kains)",
+        "Habils (Ābels)",
+        "Pravieša Nuha dēls",
+        "Pravietis Ismaīls",
+        "Pravietis Jusufs"
+      ],
+      "answer": "Kabils (Kains)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Piedāvājot upuri, kas tika noraidīts, kas noveda pie pirmās slepkavības",
+        "Celt augstu torni, lai sasniegtu debesis",
+        "Tikt iemestam spēcīgā ugunī savas ticības dēļ",
+        "Sava dēla upurēšana, paklausot Allāham",
+        "Tikt norītai lielas zivs dēļ par pienākuma bēgšanu"
+      ],
+      "answer": "Piedāvājot upuri, kas tika noraidīts, kas noveda pie pirmās slepkavības"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Vārna, ko sūtījis Allāhs, lai demonstrētu apbedīšanu",
+        "Lieli plūdi, kas noslīcināja veselu tautu",
+        "Personāla, kas pārvērtās par dzīvu čūsku",
+        "Kamielis, kas iznira no klinšu kalna",
+        "Krāšņs tronis, ko nes varens vējš"
+      ],
+      "answer": "Vārna, ko sūtījis Allāhs, lai demonstrētu apbedīšanu"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Kļuva par nožēlotāju, apgrūtinātu ar pirmo jebkad pastrādāto noziegumu",
+        "Allāhs piedeva un piešķīra mūžīgu Paradīzi",
+        "Tika pacelts augstā pravietojuma un gudrības stāvoklī",
+        "Tika izglābts ar dievišķo žēlastību pēc tam, kad bija saucis no tumsas dzīlēm",
+        "Tika dota vara pār džiniem, vēju un jūrām"
+      ],
+      "answer": "Kļuva par nožēlotāju, apgrūtinātu ar pirmo jebkad pastrādāto noziegumu"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

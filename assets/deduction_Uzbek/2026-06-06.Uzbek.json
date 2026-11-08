@@ -1,0 +1,61 @@
+{
+  "title": "Allohning yuksak bandasi",
+  "intro": "Qadim zamonlardan qolgan, oddiylardan yuqori mavqega ko'tarilgan Allohning xizmatkori bo'lgan shaxsning pichirlashlarini eshitasiz. Bu shaxs sobitqadamligi va mutlaq rostgo'yligi bilan mashhur bo'lib, xabardan yuz o'girgan qavmga yuborilgan edi. Bu yuksak ruh kim o'zi?",
+  "clues": [
+    "Men Alloh tomonidan payg'ambar sifatida tanlanganman va Qur'oni Karimda zikr qilinganman.",
+    "Men sabr-toqatim va rostgo'yligim bilan tanilgan edim, bu fazilatlar Alloh tomonidan ulug'lanadi.",
+    "Men xalqimni yagona Xudoga sig'inishga chaqirdim, lekin ko'pchilik meni rad etdi.",
+    "Alloh tomonidan martabam ko'tarildi va menga yuksak martaba berildi.",
+    "Men ko'pincha Ismoil va Zul-Kifl kabi boshqa payg'ambarlar bilan birga tilga olinadiman.",
+    "Alloh men haqimda shunday deydi: \"Va Biz uni yuksak maqomga ko'tardik\" (19:57)."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Idris payg'ambar",
+        "Payg'ambar Ilyos",
+        "Payg'ambar Zul-Kifl",
+        "Payg'ambar Al-Yasa",
+        "Payg'ambar Hud"
+      ],
+      "answer": "Idris payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Odamlarni Allohga ibodat qilishga chaqirdi",
+        "Kema qurdi",
+        "Fir'avnga qarshi kurashdi",
+        "Og'ir kasallik bilan tekshirildi",
+        "Olovga tashlandi"
+      ],
+      "answer": "Odamlarni Allohga ibodat qilishga chaqirdi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Yuqori martabali/yuqori stansiya",
+        "Kema",
+        "Xodimlar",
+        "Yong'in",
+        "Quduq"
+      ],
+      "answer": "Yuqori martabali/yuqori stansiya"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Yuqori maqomga ko'tarildi",
+        "To'fonda cho'kib ketdi",
+        "Kit tomonidan yutib yuborilgan",
+        "Yong'indan qutqarildi",
+        "Qirol bo'ldi"
+      ],
+      "answer": "Yuqori maqomga ko'tarildi"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

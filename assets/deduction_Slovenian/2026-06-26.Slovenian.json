@@ -1,0 +1,61 @@
+{
+  "title": "Breme zavrnjenega darila",
+  "intro": "Na začetku človeške zgodovine, ko je bila Zemlja še mlada in je svet zadržal prvi dih, je duša stala pred Stvarnikom s ponižno daritvijo. Ta daritev je bila stehtana na tehtnici božanskega sprejemanja – in ugotovljena kot pomanjkljiva. Kar je sledilo, ni bila zgodba o odpuščanju, temveč o srcu, ki ga je prežemala ljubosumnost, kar je vodilo do nepovratnega dejanja, ki bo odmevalo skozi ves čas. To je zgodba o nekom, čigar ime je postalo sinonim za prvo hudo krivico, ki je bila kdaj storjena.",
+  "clues": [
+    "Na svet sem prišel kot eden prvih otrok, rojen staršem, čigar zgodbo dobro poznate.",
+    "Nekoč sem Alahu daroval žrtev, vendar je ni sprejel – čeprav je bila daritev mojega brata ali sestre sprejeta z milostjo.",
+    "Zavist in bes sta se ukoreninili v mojem srcu in grozil sem, da bom končal življenje lastnih sorodnikov.",
+    "Moj brat me je opozoril, naj se bojim Alaha, toda moj ponos mi ni dovolil poslušati.",
+    "V trenutku strašne šibkosti sem nad svojim bratom storil nekaj neizrekljivega.",
+    "Potem sploh nisem vedel, kako naj skrijem, kaj sem storil – dokler ni bilo poslano bitje z zemlje, da bi me naučilo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Sin preroka Nuha",
+        "Prerok Ismail",
+        "Prerok Jusuf"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Daritev žrtve, ki je bila zavrnjena, kar je vodilo do prvega umora",
+        "Gradnja visokega stolpa, ki bo dosegel nebesa",
+        "Biti vržen v divji ogenj zaradi lastne vere",
+        "Žrtvovanje lastnega sina v poslušnosti Alahu",
+        "Biti pogoltnjen s strani velike ribe zaradi pobega od dolžnosti"
+      ],
+      "answer": "Daritev žrtve, ki je bila zavrnjena, kar je vodilo do prvega umora"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrana, ki jo je poslal Alah, da bi prikazala pokop",
+        "Velika poplava, ki je utopila celo ljudstvo",
+        "Palica, ki se je spremenila v živo kačo",
+        "Kamela, ki je prišla iz skalnate gore",
+        "Veličasten prestol, ki ga nosijo mogočni vetrovi"
+      ],
+      "answer": "Vrana, ki jo je poslal Alah, da bi prikazala pokop"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal sem obžalovanja vreden, obremenjen s prvim storjenim zločinom",
+        "Bog mu je odpustil in mu podelil večni raj",
+        "Bil je dvignjen na visok položaj prerokbe in modrosti",
+        "Rešen je bil po božjem usmiljenju, potem ko je poklical iz globin teme",
+        "Dobila je oblast nad džini, vetrom in morji"
+      ],
+      "answer": "Postal sem obžalovanja vreden, obremenjen s prvim storjenim zločinom"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

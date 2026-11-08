@@ -1,0 +1,60 @@
+{
+  "title": "Ar prosez dindan ar gwagennoù",
+  "intro": "Ur profed, karget gant e gefridi, a gemeras un diviz hag a gasas anezhañ pell diouzh e bobl hag en ur prosez dic'hortoz. E veaj a gemeras un dro dramatek, o amprouiñ e feiz hag e basianted en doare pouezusañ. Ha gallout a rit tennañ munudoù an darvoud dreistordinal-se diwar an titouroù roet deoc'h ?",
+  "clues": [
+    "Kaset e voe ur profed d'ur bobl, met mont a reas kuit buan, o santiñ nec'het gant o nac'hadenn.",
+    "E veaj a gasas anezhañ betek ar mor, e-lec'h ma pignas war ul lestr karget-tre o klask tremen.",
+    "Ur barr-avel bras a savas, o lakaat al lestr en arvar, hag e voe divizet teurel un den en tu all d'ar mor evit skañvaat ar bec'h, dre ar sord.",
+    "Lonket e voe gant ur c'hrouadur eus an donder, un darvoud burzhudus gourc'hemennet gant youl Doue.",
+    "E-barzh kof ar c'hrouadur e c'halvas e Aotrou, o keuziñ hag o glorifiañ Allah en deñvalijenn.",
+    "Goude ur prantad a c'houlennoù kreñv e voe taolet war un aod goullo, gwan met bev, ha distreiñ a reas diwezhatoc'h evit kavout e oa bet kredet e dud a-benn ar fin."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profed/Den",
+      "options": [
+        "Profed Nuh",
+        "Ar profed Lut",
+        "Ar profed Musa",
+        "Ar profed Yunus",
+        "Ar profed Yusuf"
+      ],
+      "answer": "Ar profed Yunus"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Liñvadenn Nuh",
+        "Distruj Sodom",
+        "Ar veaj e kof ar pesk bras",
+        "Rannadur ar mor |",
+        "Diskuliadur ar c'hoad o teviñ"
+      ],
+      "answer": "Ar veaj e kof ar pesk bras"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "An Arc'h",
+        "Menez Sinai",
+        "Staff Musa",
+        "Ar pesk bras",
+        "Puñs Yusuf"
+      ],
+      "answer": "Ar pesk bras"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Un emglev nevez gant an denelezh",
+        "Ur ganedigezh burzhudus evit e bobl",
+        "Ur rouantelezh diazezet evit e lignez",
+        "Un distro d'e bobl a gredas neuze",
+        "Un trec'h war ur rener tiran"
+      ],
+      "answer": "Un distro d'e bobl a gredas neuze"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

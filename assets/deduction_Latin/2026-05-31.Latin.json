@@ -1,0 +1,61 @@
+{
+  "title": "Testes Perierunt",
+  "intro": "Aetate longa praeterita, quaedam communitas in bivio inter imperia habitabat. Propheta eorum eos ad viam veritatis vocabat, tamen illi infidelitati et oppressioni adhaeserunt. Haec fabula in ultione divina terminatur. Potesne hanc gentem et fatum eius ex indiciis infra agnoscere?",
+  "clues": [
+    "Populus monitum ab uno ex nuntiis suis allatum reiecit.",
+    "Nuntius nos ad solum Allah colendum vocavit et contra corruptionem monuit.",
+    "Nostra transgressio fuit prophetam cum iustitia inter nos missum repudiare.",
+    "Nuntii auctoritatem dubitavimus et eum fraudis accusavimus.",
+    "Poena nos invasit dum secure in domibus nostris habitabamus.",
+    "Deleti sumus quod prophetam nostrum negavimus et fideles persecutus sumus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Shu'aib",
+        "Ibrahim",
+        "Lut",
+        "Nuh",
+        "Musa"
+      ],
+      "answer": "Shu'aib"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Accipiendo prophetam qui ad iustitiam vocavit",
+        "Fame tentatus",
+        "Interpretatio somnii",
+        "Accipiendo Torah",
+        "Per mare iter faciens"
+      ],
+      "answer": "Accipiendo prophetam qui ad iustitiam vocavit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Madian",
+        "Babylon",
+        "Sodoma",
+        "Mare Rubrum",
+        "Arca"
+      ],
+      "answer": "Madian"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populus propter incredulitatem deletus est",
+        "Populus paenitentiam egit et ductus est",
+        "Populus Paradisum Ingressus est",
+        "Populus supervixit et floruit",
+        "Populus ad novam terram migravit"
+      ],
+      "answer": "Populus propter incredulitatem deletus est"
+    }
+  },
+  "verseRef": "29:36",
+  "arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًۭا فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْـَٔاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+  "verse": "And to Madyan [We sent] their brother Shuʿayb, and he said, \"O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption.\" (29:36)"
+}

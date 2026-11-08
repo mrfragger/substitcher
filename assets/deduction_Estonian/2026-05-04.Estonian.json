@@ -1,0 +1,61 @@
+{
+  "title": "Ülbuse arhitekt",
+  "intro": "Muistsel maal, mida valitses trotslik võim, oli ühel võtmeisikul mõjukas positsioon. See hing mängis olulist rolli valitseja suurtes plaanides, aidates kaasa tema rõhuvale valitsusajale ja seades kahtluse alla jumaliku sõnumi. Nende pärand on läbi põimunud maise võimu taotlemise ja tõe eitamisega.",
+  "clues": [
+    "Ma teenisin aukartustäratavat valitsejat, kes rõhus rahvast põlvkondade vältel.",
+    "Minu nime mainitakse Jumalikus Raamatus selle võimsa juhi kõrval sageli.",
+    "Mulle anti ülesandeks suur ehitusprojekt, kõrguv ehitis, mis pidi ulatuma taevasse.",
+    "Ma andsin oma isandale nõu tappa Iisraeli laste pojad ja jätta nende tütred ellu.",
+    "Olin seotud vandenõudega ja sepitsemistega Allahi võimsa sõnumitooja vastu.",
+    "Minu lõpp saabus koos mu isanda ja tema armeega avara mere vetes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Nimrod",
+        "Aabraham",
+        "Koljat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Tohutu rikkusega proovile pannes",
+        "Armee juhtimine püha koja vastu",
+        "Jumala juurde torni ehitamine",
+        "Oma usu pärast tulle visatud",
+        "Õdede-vendade poolt kaevu heidetud"
+      ],
+      "answer": "Jumala juurde torni ehitamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Mägi",
+        "Torn",
+        "Vaal"
+      ],
+      "answer": "Torn"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Tohutu tarkuse saamine",
+        "Prohvetiks saamine",
+        "Maa alla neelata",
+        "Kuningriigi saamine",
+        "Uppumine meres"
+      ],
+      "answer": "Uppumine meres"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

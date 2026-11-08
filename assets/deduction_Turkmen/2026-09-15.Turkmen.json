@@ -1,0 +1,61 @@
+{
+  "title": "Gorky getiren myhmansöýerlik",
+  "intro": "Zalymlyk bilen doldurylan şäherde, bir gün wepaly hyzmatkär garaşylmadyk myhmanlary kabul etdi. Olaryň howpsuzlygy üçin alada edýän bu adam gorag teklip etdi, ýöne şäheriň halky utançly bir zat talap etdi. Ýakynlaşyp gelýän betbagtçylyk barada duýdurylan hyzmatkär maşgalasy bilen garaňkylygyň aşagynda gaçyp gitdi we weýran bolmak üçin bellenen şäheri galdyrdy. Bu ýalňyz ynanýan kim?",
+  "clues": [
+    "Men utançly işler bilen meşgullanýan bir kowuma ilçi hökmünde iberildim.",
+    "Garaşylmadyk myhmanlar öýüme geldi we men öz öýümden has köp olaryň howpsuzlygy üçin alada edýärdim.",
+    "Meniň halkym ýaman niýet bilen myhmanlarymy görmegi talap etdi, men bolsa olary düşündirmäge synanyşdym.",
+    "Myhmanlarym özlerini perişde hökmünde görkezdiler we maňa maşgala agzalarymy alyp, gije gitmegi tabşyrdylar.",
+    "Aýalym gaçmak baradaky çagyryşa gulak asmady we meniň halkym bilen birmeňzeş heläkçilige duçar boldy.",
+    "Şäherim gatlakly toýun daşlaryndan ýagan ýagyş bilen agdaryldy, onuň iň ýokary bölekleri iň aşaky böleklerini hem öz içine aldy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Lut pygamber",
+        "Musa pygamber",
+        "Ybraýym pygamber",
+        "Nuh pygamber",
+        "Hud pygamber"
+      ],
+      "answer": "Lut pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Meniň halkymyň myhmanlaryma erbetlik bilen ýüzlenmek talaby",
+        "Zalymdan gaçmak üçin deňziň iki bölege bölünmegi",
+        "Gülkünçligiň arasynda uly gäminiň gurulmagy",
+        "Ynanç synagynda oglumyň gurban edilmegi",
+        "Uly balygyň ýuwudylmagynyň tejribesi"
+      ],
+      "answer": "Meniň halkymyň myhmanlaryma erbetlik bilen ýüzlenmek talaby"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Meniň halkymyň agdarylan şäheri",
+        "Men ilahi sözi kabul eden dag",
+        "Uly sil suwunyň arasyndan geçen gämi",
+        "Gaýadan çykan dişi düýe",
+        "Gizlin salyh myhmany bolan bag"
+      ],
+      "answer": "Meniň halkymyň agdarylan şäheri"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Şäherim agdarylmazdan öň maşgalam bilen halas boldum",
+        "Men halkymy deňiziň aňyrsyna azatlyga alyp gitdim",
+        "Men uly gämi gurdum we güýçli silden aman galdym",
+        "Maňa ýelleriň we jynlaryň üstünden höküm berildi",
+        "Men sabyrlylyk bilen ejir çekdim we maşgala bilen sylaglandym"
+      ],
+      "answer": "Şäherim agdarylmazdan öň maşgalam bilen halas boldum"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

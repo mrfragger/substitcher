@@ -1,0 +1,61 @@
+{
+  "title": "Nuolatinės sielos išbandymas",
+  "intro": "Siela išgyvena dieviško išbandymo akimirką, nuolankiai ir atkakliai ieškodama vadovavimo. Tas, kuris žino viską, atstumia šį ieškotoją, tik tam, kad vėliau atskleistų, jog tai buvo širdies išbandymas. Per šį paslaptingą pokalbį apmąstantiems atsiskleidžia pamoka apie dieviškąją išmintį. Ar galite atpažinti šią figūrą iš Korano pasakojimo?",
+  "clues": [
+    "Ieškojau žinių ir patarimų iš mylimo Alacho pasiuntinio",
+    "Atėjau ieškoti tiesos, su nuoširdžiu troškimu kreipdamasis į Pranašą",
+    "Buvau sudrausmintas ir nusisukau, nes Alacho išmintis tą akimirką turėjo kitų planų.",
+    "Vis dėlto nenusiminiau – vietoj to žengiau pirmyn ieškodamas",
+    "Tas, kuris viską žino, pareiškė, kad tai širdies išbandymas ir įspėjimas",
+    "Aš buvau tarp tų, apie kuriuos Koranas sako: „Jis suraukė antakius ir nusisuko, nes pas jį atėjo aklasis“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Veidmainis, ieškantis abejonių",
+        "Aklas tiesos ieškotojas",
+        "Mekos stabmeldys",
+        "Netikintis tyčiojasi iš pranašo",
+        "Keliautojas iš Jemeno"
+      ],
+      "answer": "Aklas tiesos ieškotojas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Pranašo Muhammado priekaištas maldos metu",
+        "Mekoje išbandoma sausra ir badas",
+        "Būti atstumtam prie rojaus vartų",
+        "Būti atstumtam savųjų žmonių dėl tikėjimo",
+        "Išbandomas turtas ir vaikai"
+      ],
+      "answer": "Pranašo Muhammado priekaištas maldos metu"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Kaabos viduje piligrimystės sezono metu",
+        "Pranašo akivaizdoje deklamavimo metu",
+        "Ant Safa kalno rytinėmis valandomis",
+        "Mekos turgaus aikštėje, apsupta netikinčiųjų",
+        "Netoli Zamzamo šulinio Hadžo metu"
+      ],
+      "answer": "Pranašo akivaizdoje deklamavimo metu"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Ieškotojas buvo nužudytas Kurajų už tikėjimą",
+        "Šis incidentas buvo užfiksuotas kaip išbandymas ir pamoka ummai",
+        "Ieškotojas tapo draugu ir lyderiu",
+        "Ieškotojo turtas išaugo dešimteriopai",
+        "Ieškotojas vėl netikėjo"
+      ],
+      "answer": "Šis incidentas buvo užfiksuotas kaip išbandymas ir pamoka ummai"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

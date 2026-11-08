@@ -1,0 +1,61 @@
+{
+  "title": "Te Wairua Mataara i te taha o te awa",
+  "intro": "I tukua he misioni ngaro ki tētahi wairua taitamariki, kia mātakitaki mai i tawhiti i te whanaketanga o te ao i runga i ngā wai. Kāore i kitea, kāore hoki i whakaarohia, ka whai wāhi nui tēnei tangata ki te whakarerekē i te huarahi o te hītori o tētahi iwi.",
+  "clues": [
+    "I homai he mahi ki ahau e tōku whaea, he mahi e hiahia ana kia huna, kia mataara hoki.",
+    "I aru ōku kanohi i tētahi whāriki iti e tere ana i te ia, e taumaha ana tōku ngākau i te manukanuka.",
+    "I te kitenga o tētahi rōpū kāore i te tumanakohia, ka whakatata atu ahau, me te wehi nui.",
+    "I kite ahau i tō rātou hiahia nui ki tētahi kaitiaki, ā, i tukuna atu e ahau he otinga, engari kāore i whakakitea te pono.",
+    "Nā taku wawaotanga i te wā tika i whakahoki mai ai te wairua atawhai ki te hunga i tino matea.",
+    "I roto i ngā marae o te hunga whai mana, i kōrero ahau: 'Me ārahi koe e ahau ki tētahi whānau hei whāngai i a ia, hei tiaki hoki i a ia me te atawhai?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te tuahine o Musa",
+        "Te whaea o Musa",
+        "Te wahine a Parao",
+        "He kaiwhakawhanau",
+        "Te tamahine a Shu'aib"
+      ],
+      "answer": "Te tuahine o Musa"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te maka o te tamaiti ki te awa",
+        "Te wehenga o te moana",
+        "Te tahunga o te kuao kau",
+        "Te hanganga o te āka",
+        "Te mate urutā o ngā mawhitiwhiti"
+      ],
+      "answer": "Te maka o te tamaiti ki te awa"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te awa",
+        "Te koraha",
+        "Te maunga",
+        "Te whare kingi",
+        "Te ahi"
+      ],
+      "answer": "Te awa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tūtaki anō ia i te tamaiti ki tōna whaea",
+        "I whakaorangia e ia i a ia anō i ngā hōia a Parao",
+        "I riro ia hei kuīni",
+        "I whiua ia mō te tutei",
+        "Nāna i ārahi ngā Iharaira"
+      ],
+      "answer": "I tūtaki anō ia i te tamaiti ki tōna whaea"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

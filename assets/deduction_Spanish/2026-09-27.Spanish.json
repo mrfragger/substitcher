@@ -1,0 +1,61 @@
+{
+  "title": "El jardín que desapareció de la noche a la mañana",
+  "intro": "Imagina un jardín exuberante, repleto de fruta madura y rodeado de árboles imponentes. Quienes lo cuidaban se creían muy listos, planeando la cosecha en las horas tranquilas antes del amanecer, lejos de las miradas de los necesitados. Pero Aquel que nunca duerme tenía otros planes para su riqueza oculta. ¿Puedes adivinar quién está detrás de esta historia aleccionadora del Corán?",
+  "clues": [
+    "En otro tiempo, tuvimos un jardín tan exuberante y abundante que se convirtió en la envidia de todos los que pasaban por allí.",
+    "En nuestros preparativos, nos susurramos unos a otros temprano por la mañana, declarando que a ningún alma necesitada se le permitiría entrar ese día.",
+    "Éramos gente adinerada, y nuestros corazones se habían vuelto insensibles a los derechos de los pobres que nos rodeaban.",
+    "Cuando llegó el amanecer de la cosecha que habíamos planeado, nos acercamos a nuestro huerto solo para encontrarlo transformado en una ruina ennegrecida de la noche a la mañana.",
+    "Un decreto devastador arrasó con todo, dejando solo cenizas donde antes colgaban racimos de fruta madura.",
+    "Nuestra historia es una severa advertencia registrada en el Corán, donde se nos conoce como los dueños del jardín que negaron la caridad a los necesitados."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Los dueños del jardín",
+        "La gente de la cueva",
+        "Los discípulos de Isaías",
+        "Los Compañeros del Bosque",
+        "Los huéspedes de Ibrahim"
+      ],
+      "answer": "Los dueños del jardín"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Cosechando fruta en secreto y excluyendo a los pobres.",
+        "Dormir durante siglos dentro de una cueva",
+        "Negarse a producir una camella a partir de piedra.",
+        "Adoración de un becerro de oro en el Monte Sinaí",
+        "Construir una gran arca para escapar de un diluvio."
+      ],
+      "answer": "Cosechando fruta en secreto y excluyendo a los pobres."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un jardín amurallado lleno de palmeras y enredaderas.",
+        "Una oscura caverna en lo profundo de las montañas.",
+        "Una ciudad arrasada por un huracán divino.",
+        "Un valle sagrado cerca de la Casa de Alá.",
+        "Las orillas de un río caudaloso"
+      ],
+      "answer": "Un jardín amurallado lleno de palmeras y enredaderas."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "El jardín fue consumido por un decreto abrasador del cielo.",
+        "Durmieron plácidamente durante 309 años lunares.",
+        "Fueron aplastados por una lluvia de piedras.",
+        "Se ahogaron bajo las olas de una gran inundación.",
+        "Fueron dispersados ​​por una ráfaga de viento frío y furioso."
+      ],
+      "answer": "El jardín fue consumido por un decreto abrasador del cielo."
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

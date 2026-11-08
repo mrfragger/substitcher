@@ -1,0 +1,61 @@
+{
+  "title": "Los Gardians del Jardin",
+  "intro": "Dins un jardin exuberant, una comunautat faguèt un vòt solemne. Mas lor resolucion foguèt testada quand la volontat divina intervenguèt, en transformant lor recompensa en una tèrra èrma.",
+  "clues": [
+    "Èrem benesits d'un jardin abondós, mas venguèrem arrogants.",
+    "Faguèrem un plan per culhir sens lo partejar amb los paures.",
+    "Partiguèrem de matin, segurs de nòstre esquèma.",
+    "Mas quand arribèrem, trobèrem que nòstre jardin èra estat destruch de la nuèch a la jornada.",
+    "Nos avisèrem de nòstra error e comencèrem de nos culpar.",
+    "Fin finala nos repentiguèrem, mas la leiçon foguèt apresa tròp tard."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Gent del Jardin",
+        "Gente de la Caverna",
+        "Gent de l'Elefant",
+        "Pòble de Thamud",
+        "Personas de 'Ad"
+      ],
+      "answer": "Gent del Jardin"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Un jardin convertit en cendres",
+        "Una inondacion que destruguèt tot",
+        "Una famina que tustèt la tèrra",
+        "Una armada d'aucèls atacant",
+        "Un grand vent que desrasiguèt los arbres"
+      ],
+      "answer": "Un jardin convertit en cendres"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un jardin",
+        "Una cauna",
+        "Una nau",
+        "Una montanha",
+        "Un palais"
+      ],
+      "answer": "Un jardin"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Se repentiguèron mas perdèron lor jardin",
+        "Foguèron destruchs completament",
+        "Foguèron convertits en monins",
+        "Foguèron salvats per la fe",
+        "Venguèron de governants"
+      ],
+      "answer": "Se repentiguèron mas perdèron lor jardin"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

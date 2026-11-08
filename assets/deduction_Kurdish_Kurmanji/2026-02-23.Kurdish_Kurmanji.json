@@ -1,0 +1,61 @@
+{
+  "title": "Dengê Baweriya Veşartî",
+  "intro": "Di dilê dadgeheke zalim de, ku nebawerî qanûna welêt bû, giyanek tenê li ser têla bawerî û tirsê dimeşiya. Ev kes, nêzîkî navenda desthilatdariyê, guhdarî kir dema ku peyama pêxemberekî bi tinaz û gefan re rû bi rû ma. Gavek rastiyê hat, ev kes neçar kir ku di navbera ewlehiya bêdeng û gotina rastiyek xeternak de hilbijêre. Hûn dikarin nasnameya vî parêzvanê wêrek eşkere bikin?",
+  "clues": [
+    "Ez di mala zalimekî de dijîm, û bi çavên xwe şahidiya xudperestiya ku nîşanên îlahî red dikir bûm.",
+    "Min baweriya xwe wek nehênî, wek xezîneyeke veşartî di qesreke pûtperestiyê de hişt.",
+    "Min bihîst ku serokê ku ez xizmet dikir, komployê dikir ku pêxemberekî Xwedê, zilamekî bi navê Mûsa, bikuje.",
+    "Min mentiqa wan pirsî, û çarenûsa gelê Nûh, Ad û Semûd bi bîr xist.",
+    "Min pirsek krîtîk ji gelê xwe kir: 'Ger ew derewkar be, derewa wî li ser wî ye; lê ger ew rastgo be, hin ji sozên wî dê li we bixin.'",
+    "Çîroka min wekî mînakek baweriyê di sûreya bi navê \"Bexşkar\" de tê vegotin, ku tê de min gelê xwe li dijî planên serdestan hişyar kir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Bawermendê ji malbata Fîrewn",
+        "Haman",
+        "Sihirbazên Fîrewn",
+        "Qarûn",
+        "Samirî"
+      ],
+      "answer": "Bawermendê ji malbata Fîrewn"
+    },
+    "trial": {
+      "label": "Ceribandina Min Çi Bû?",
+      "options": [
+        "Parastina Pêxember Mûsa di dadgeha zalim de",
+        "Avakirina bircêkî bilind da ku bigihîje ezmanan",
+        "Tê avêtin nav agirê geş",
+        "Ji aliyê masîyekî mezin ve tê daqurtandin",
+        "Windakirina hemû dewlemendî û tenduristiyê"
+      ],
+      "answer": "Parastina Pêxember Mûsa di dadgeha zalim de"
+    },
+    "location": {
+      "label": "Mijara Argumana Min Çi Bû?",
+      "options": [
+        "Encama redkirina peyama pêxemberekî",
+        "Daxwaza nîşanekê ji dareke pîroz",
+        "Çêkirina golikekê ji zêrên heliyayî",
+        "Mucîzeya deveyek ji kevir",
+        "Şîrovekirina xewnên serwerekî"
+      ],
+      "answer": "Encama redkirina peyama pêxemberekî"
+    },
+    "outcome": {
+      "label": "Encam Çi Bû?",
+      "options": [
+        "Xwedê ev kes ji planên wan ên xerab xilas kir",
+        "Tevahiya dadgehê yekser Îslam qebûl kir",
+        "Zalim di kêliya xeniqînê de poşman bû",
+        "Zalim ji aliyê erdê ve hate daqurtandin",
+        "Mirovekî nenas sirgûnî welatekî dûr bû"
+      ],
+      "answer": "Xwedê ev kes ji planên wan ên xerab xilas kir"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

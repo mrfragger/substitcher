@@ -1,0 +1,61 @@
+{
+  "title": "Para Penjaga Kebon",
+  "intro": "Ing taman sing rimbun, sawijining komunitas ngucapake sumpah sing khidmat. Nanging tekad mereka diuji nalika kersane Gusti Allah campur tangan, ngowahi kasugihan mereka dadi tanah gersang.",
+  "clues": [
+    "Kita diparingi kebon sing subur, nanging kita dadi umuk.",
+    "Awaké dhéwé nggawé rencana kanggo panèn tanpa mbagi karo wong miskin.",
+    "Kita budhal esuk-esuk, kanthi yakin karo rencana kita.",
+    "Nanging nalika tekan, kebon kita wis rusak sewengi muput.",
+    "Kita sadhar karo kesalahan kita lan wiwit nyalahke siji lan sijine.",
+    "Akhire kita mratobat, nanging piwulange wis kasep."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Kita?",
+      "options": [
+        "Wong-wong ing Kebon",
+        "Wong-wong ing Gua",
+        "Wong-wong Gajah",
+        "Wong-wong Tsamud",
+        "Wong-wong 'Ad"
+      ],
+      "answer": "Wong-wong ing Kebon"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Kebon dadi awu",
+        "Banjir sing ngrusak kabeh",
+        "Paceklik sing nyerang tanah kasebut",
+        "Pasukan manuk nyerang",
+        "Angin gedhe sing nugel wit-witan"
+      ],
+      "answer": "Kebon dadi awu"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Kebon",
+        "Guwa",
+        "Kapal",
+        "Gunung",
+        "Kraton"
+      ],
+      "answer": "Kebon"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Dheweke mratobat nanging kelangan kebone",
+        "Wong-wong mau dirusak kabeh",
+        "Wong-wong mau malih dadi kethek",
+        "Wong-wong mau dislametake amarga iman",
+        "Dheweke dadi panguwasa"
+      ],
+      "answer": "Dheweke mratobat nanging kelangan kebone"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Püha leegi katsumus",
+  "intro": "Muistsel maal, kus igas kodus oli juurdunud pühendumus kiviraiutamisele, eristus üks inimene. Vankumatu veendumuse ja jumaliku kaitse abil seisid nad silmitsi kindla surmaga – ja lahkusid vigastusteta. Kas suudad selle tähelepanuväärse hinge isikupära avastada?",
+  "clues": [
+    "Kasvasin üles inimeste seas, kes kummardasid oma kätega nikerdatud ebajumalaid, uskudes, et neil esemetel on jumalik vägi.",
+    "Kui ma nende uskumusi kahtluse alla seadsin, siis nad alguses eirasid mind, aga ma ei suutnud vaikida tõest, mida ma teadsin.",
+    "Päeval, mil nad kokku koguti, hävitasin ma nende ebajumalad, jättes puutumata vaid suurima.",
+    "Kui nad tagasi tulid ja nägid, mida ma olin teinud, käskisid nende juhid ehitada suure tuleriida, kavatsusega mind leekidesse visata.",
+    "Nad viskasid mind lõõmavasse tulle, aga maailmade Issand käskis sel jahtuda ja minu jaoks ohutuks muutuda.",
+    "Ma väljusin leekidest täiesti vigastusteta, samas kui need, kes minu vastu vandenõu pidasid, seisid silmitsi täieliku hävinguga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ibrahim",
+        "Prohvet Musa",
+        "Prohvet Noa",
+        "Prohvet Isa",
+        "Prohvet Yusuf"
+      ],
+      "answer": "Prohvet Ibrahim"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Lõõmavasse tulle heidetud",
+        "Suure vaala poolt alla neelatud",
+        "Suure üleujutuse üleelamine",
+        "Sügavasse kaevu visatud",
+        "Kuninga võluritega vastamisi seismine"
+      ],
+      "answer": "Lõõmavasse tulle heidetud"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Tohutu põleva puidu tuleriit",
+        "Suur puust laev",
+        "Kuldse vasika kuju",
+        "Jõel hõljuv korv",
+        "Suurepärane troon"
+      ],
+      "answer": "Tohutu põleva puidu tuleriit"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Allah tegi tule jahedaks ja ohutuks",
+        "Laev maandus turvaliselt mäele",
+        "Kuldne iidol sulas nende silme all",
+        "Türann ja tema armee uppusid merre",
+        "Pimeda mehe nägemine taastati"
+      ],
+      "answer": "Allah tegi tule jahedaks ja ohutuks"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

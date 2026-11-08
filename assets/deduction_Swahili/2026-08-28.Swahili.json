@@ -1,0 +1,61 @@
+{
+  "title": "Kizuizi Katika Nyumba ya Kale",
+  "intro": "Katika jiji takatifu, mtu mwenye nguvu alikasirika sana huku ujumbe mpya ukianza kuenea. Mtu huyu, ambaye jina lake lilikuja kuwa upinzani dhidi ya ukweli, alitazama ushawishi wao ukiporomoka chini ya uzito wa ufunuo wa kimungu. Nafsi hii ilikuwa nani, ambayo hatima yake ilifungwa kwenye mchanga wa uwanja maarufu wa vita?",
+  "clues": [
+    "Nilikuwa mkuu miongoni mwa watu wangu, nikijulikana kwa utajiri na ushawishi wangu katika jiji lililokuwa na hifadhi ya kale.",
+    "Mtu mmoja kutoka kabila langu alipoanza kutangaza ujumbe wa Mungu mmoja, nilimdhihaki yeye na mafunuo yake, nikiyaita hadithi tu za zamani.",
+    "Nilimkabili mtu huyo alipokuwa akisali karibu na jengo takatifu, nikitishia kusimamisha ibada yake kwa nguvu ikiwa ni lazima.",
+    "Nilikuwa miongoni mwa viongozi waliopanga kuinyamazisha imani mpya, wakiwapinga wafuasi wake kwa maneno na silaha.",
+    "Niliandamana na jeshi hadi mahali panapoitwa Badr, nikiwa na uhakika kwamba tungewaangamiza kundi dogo la waumini.",
+    "Lakini katika uwanja huo wa vita, maisha yangu yalifikia kikomo, na kifo changu kikawa fundisho kwa wale wanaoendelea na ukafiri baada ya dalili zilizo wazi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kumzuia Mtume kusali kwenye Kaaba",
+        "Kujenga Kaaba",
+        "Kuandika Quran",
+        "Kuongoza jeshi la tembo",
+        "Kugawanya mwezi"
+      ],
+      "answer": "Kumzuia Mtume kusali kwenye Kaaba"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kaaba",
+        "Sanduku la Nabii Nuh",
+        "Fimbo ya Nabii Musa",
+        "Ndama wa Dhahabu",
+        "Kiti cha Enzi cha Malkia wa Sheba"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Aliuawa katika Vita vya Badr",
+        "Nilitubu na kuwa Muislamu",
+        "Alikimbilia Abyssinia",
+        "Alikufa katika Mwaka wa Tembo",
+        "Akawa sahaba wa Mtume"
+      ],
+      "answer": "Aliuawa katika Vita vya Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

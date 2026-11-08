@@ -1,0 +1,61 @@
+{
+  "title": "Mokopi oa Sehalalelo",
+  "intro": "Lihoreng tse khutsitseng tsa bosiu, moea o inehetseng o ile oa hoeletsa ho Ea Mohau ka hare ho marako a halalelang a sebaka se halalelang. Lilemo tsa tumelo e sa sisinyeheng le mamello li ne li le haufi le ho putsoa ka mohlolo o neng o tla tlisa thabo le lefa la boporofeta.",
+  "clues": [
+    "Ke qetile matsatsi le masiu a ka ke inehetse ka hare ho sehalalelo se halalelang, ke ntse ke rapela Morena oa ka kamehla.",
+    "Ke ile ka tsofala, 'me mosali oa ka e ne e le nyopa, empa ha kea ka ka lahleheloa ke tšepo mohaung oa Allah.",
+    "Ke ile ka fuoa mora, ea bitsoang Yahya, ea ileng a fetoha moprofeta le lebone la ho loka.",
+    "Le 'na ke ne ke le moprofeta, ea rometsoeng ho tataisa Bana ba Iseraele.",
+    "Ke ne ke le setloholo sa Moprofeta Harun mme ke ne ke sebeletsa jwalo ka moprista Tempeleng.",
+    "Ke ile ka fuoa boikarabelo ba ho hlokomela Mariam, 'm'a Isa, 'me ka bona mehlolo ea hae."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Moprofeta Zakaria",
+        "Moprofeta Yahya",
+        "Moprofeta Ilyas",
+        "Moprofeta Ishaq",
+        "Moprofeta Ya'qub"
+      ],
+      "answer": "Moprofeta Zakaria"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O filoe mora botsofaling",
+        "Ke pholositsoe mollong o tukang",
+        "O pholositsoe mpeng ea tlhapi",
+        "O ile a pholoha moroallo o moholo",
+        "O folisitsoe bokuli bo tebileng"
+      ],
+      "answer": "O filoe mora botsofaling"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Mihrab (sebaka sa thapelo)",
+        "Kaaba",
+        "Sehlahla se Chesang",
+        "Areka ea Selekane",
+        "Lehaha la Batho ba Supileng ba Robalang"
+      ],
+      "answer": "Mihrab (sebaka sa thapelo)"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "O filoe mora ea lokileng ea ileng a fetoha moprofeta",
+        "E sentsoe ke sefefo se matla",
+        "Ho khangoa ke metsi leoatleng",
+        "E pholositsoe hore e se ke ea chesoa",
+        "Ba kgutliseditswe ho batho ba bona kamora ho pholoswa tlhaping"
+      ],
+      "answer": "O filoe mora ea lokileng ea ileng a fetoha moprofeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

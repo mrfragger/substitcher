@@ -1,0 +1,61 @@
+{
+  "title": "Te Kōrerorero i te Hau",
+  "intro": "Whakaarohia he ao e hono ana te mea ngaro me te mea e kitea ana, ā, e tū ana koe i mua i tētahi āhua i waenganui o tētahi rangatiratanga rerekē. Kei tēnei wairua te mātauranga e kore e taea te toro atu, e whakahaere ana i ngā mana e kore e taea e ētahi atu te whakaaro noa. Heoi, ahakoa te mea tino kaha ka taea te whakaiti i te mea iti nei, ā, ka huna pea te pono tae noa ki te wā kua whakaritea. Ko wai tēnei āhua e mau tonu ana tōna taonga tuku iho i ngā tau maha?",
+  "clues": [
+    "I homai ki ahau he kingitanga e kore e riro i tetahi i muri i ahau.",
+    "I riro mai i ahau te mātauranga me te whakaaro nui i tētahi mātua aroha.",
+    "I raro i taku mana te hau, i haere i runga i taku whakahau ki ngā wāhi katoa i pai ai ahau.",
+    "I mārama ahau ki te kōrero a ngā manu, ā, i mahi rātou i roto i taku ope taua.",
+    "I tae mai ngā kōrero i tētahi manu iti mō tētahi kuīni i karakia ki te rā.",
+    "I huna tonu tōku matenga tae noa ki te paunga o taku tokotoko e te mea hanga whenua, kātahi anō ka mōhio ngā jinn kāore rātou i te mōhio ki te mea ngaro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Sulaimana (Hōromona)",
+        "Poropiti a Rawiri (David)",
+        "Poropiti a Mohi (Mōhi)",
+        "Poropiti a Ihaia (Ihu)",
+        "Poropiti a Noa (Noa)"
+      ],
+      "answer": "Poropiti a Sulaimana (Hōromona)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te haerenga mai o te Kuīni o Hepa",
+        "Te maka ki roto i te ahi",
+        "Te wehewehe i te moana",
+        "Te hanga i tētahi āka",
+        "Te horomia e te tohorā"
+      ],
+      "answer": "Te haerenga mai o te Kuīni o Hepa"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te tokotoko i kainga e te mea hanga o te whenua",
+        "Te tokotoko i huri hei nakahi",
+        "Te kamera uha",
+        "Te āaka",
+        "Te tohorā"
+      ],
+      "answer": "Ko te tokotoko i kainga e te mea hanga o te whenua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I hunaia tōna matenga i ngā jinn tae noa ki te paunga o tana tokotoko.",
+        "I whakaarahia ora ia ki te rangi",
+        "I whakaorangia ia i te ahi e te whakahau a Allah",
+        "I hoatu ki a ia te Torah",
+        "I whakaorangia ia i te tohorā"
+      ],
+      "answer": "I hunaia tōna matenga i ngā jinn tae noa ki te paunga o tana tokotoko."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

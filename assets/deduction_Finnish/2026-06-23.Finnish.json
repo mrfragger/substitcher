@@ -1,0 +1,61 @@
+{
+  "title": "Vartija joen reunalla",
+  "intro": "Maassa, jossa tyrannin päätös toi surua moniin koteihin, eräs sielu sai sanoman, joka uhmasi kaikkea pelkoa. Luottamuksen täyttämin sydämin he aloittivat uskon teon, joka muuttaisi kansakunnan suunnan. Vesien kuljettaessa kallisarvoista lastia toivo sekoittui virtauksiin.",
+  "clues": [
+    "Elin sorron ja pelon aikana.",
+    "Sain jumalallista inspiraatiota, joka antoi minulle rohkeutta.",
+    "Minua käskettiin olemaan pelkäämättä tai murehtimatta.",
+    "Laitoin lapseni arkkuun ja laskin sen veteen.",
+    "Hallitsijan talouteen kuuluvat löysivät lapseni, mutta toinen lapseni seurasi perässä.",
+    "Minut yhdistettiin lapseni kanssa imettääkseni häntä, aivan kuten Allah oli luvannut."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Mooseksen äiti",
+        "Faaraon vaimo",
+        "Mooseksen sisar",
+        "Jeesuksen äiti",
+        "Saban kuningatar"
+      ],
+      "answer": "Mooseksen äiti"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Inspiraation saaminen lapsen heittämiseen jokeen",
+        "Haasteena taika-kaksintaistelu",
+        "Armeijan takaa-ajo",
+        "Ylittäen meren, joka jakautui",
+        "Pyhän talon rakentaminen"
+      ],
+      "answer": "Inspiraation saaminen lapsen heittämiseen jokeen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Jokeen asetettu arkku",
+        "Palava pensas",
+        "Sauva, joka muuttui käärmeeksi",
+        "Kultainen vasikka",
+        "Valtaistuin"
+      ],
+      "answer": "Jokeen asetettu arkku"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Lapsi palautettiin turvallisesti hoitajan hoitoon",
+        "Lapsi oli kadonnut ikuisiksi ajoiksi",
+        "Lapsi vietiin kaukaiseen maahan",
+        "Lapsesta tuli heti hallitsija",
+        "Lapsen adoptoi varakas kauppias"
+      ],
+      "answer": "Lapsi palautettiin turvallisesti hoitajan hoitoon"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

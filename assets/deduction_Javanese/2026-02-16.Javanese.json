@@ -1,0 +1,61 @@
+{
+  "title": "Klaim Kewenangan Absolut",
+  "intro": "Ing jaman kuna, ana wong sing kuwasa munggah pangkat kanggo nguwasani tanah sing jembar lan para pedununge. Pamrentahan tokoh iki ditandhani karo rasa bangga sing gedhe lan tantangan sing jero marang panguwasa ilahi. Siyap-siyap kanggo nemokake identitas jiwa sing nasibe pungkasane dadi piwulang sing langgeng kanggo kabeh generasi.",
+  "clues": [
+    "Aku nguwasani kerajaan sing gedhe, ing ngendi tembungku minangka hukum.",
+    "Aku nyatakake awake dhewe minangka dewa sing paling dhuwur, nuntut supaya kabeh wong sing ana ing sangisore pamrentahanku disembah.",
+    "Aku nindhes sawijining komunitas tartamtu, ndadekake dheweke budak, lan mrentahake supaya bayi-bayi lanang padha dipateni.",
+    "Aku bola-bali diadhepi utusané Gusti Allah sing andhap asor, sing nindakaké mukjijat-mukjijat sing cetha ana ing ngarepku lan para tukang sihirku.",
+    "Aku kanthi wangkot nolak bebener, nuduh utusan mau nindakake sihir lan ngrancang arep ngrusak dheweke lan para pandhereke.",
+    "Aku lan kabeh tentaraku kecemplung segara nalika kita terus-terusan ngoyak wong-wong sing wis dibebasake saka genggemanku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Nimrod",
+        "Abu Jahal",
+        "Iblis",
+        "Fir'aun",
+        "Haman"
+      ],
+      "answer": "Fir'aun"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Banjir Gedhe",
+        "Geni sing Kobong",
+        "Kelemahan Sang Penindas",
+        "Karusakan dening Angin",
+        "Lindhu Kafir"
+      ],
+      "answer": "Kelemahan Sang Penindas"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Bahtera Nabi Nuh",
+        "Tongkat Nabi Musa",
+        "Berhala Emas",
+        "Sumur Zamzam",
+        "Tahta Bilqis"
+      ],
+      "answer": "Tongkat Nabi Musa"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Diwenehi kerajaan sing jembar",
+        "Awak sing disimpen minangka tandha",
+        "Diapura sawise tobat",
+        "Ditinggikake dadi kenabian",
+        "Wong-wonge dadi wong sing saleh"
+      ],
+      "answer": "Awak sing disimpen minangka tandha"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

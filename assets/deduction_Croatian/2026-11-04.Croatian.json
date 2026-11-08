@@ -1,0 +1,61 @@
+{
+  "title": "blago koje je potonulo pod ponosom",
+  "intro": "Zamislite da stojite pred hrpama bogatstva toliko ogromnim da bi samo nošenje ključeva iscrpilo ​​skupinu snažnih pojedinaca. Oko vas glasovi potiču poniznost i sjećanje, ali ponos je glasniji od zahvalnosti. Što se događa kada obilje postane test, a arogancija zapečati ishod?",
+  "clues": [
+    "Bio sam od Musaovog naroda, ali sam se protiv njih ogriješio.",
+    "Darovana su mi blaga toliko golema da bi ključevi od njih opteretili skupinu snažnih ljudi.",
+    "Moj narod mi je savjetovao da se ne radujem i da tražim zagrobni život, a da ne zaboravim svoj dio ovog svijeta.",
+    "Tvrdio sam da mi je ono što posjedujem dano samo zbog znanja koje imam.",
+    "Paradirao sam pred svojim narodom ukrašen, a oni koji su željeli ovozemaljski život željeli su ono što sam ja imao.",
+    "Zemlja me progutala zajedno s mojim domom i nitko mi nije mogao pomoći, niti sam ja mogao pomoći sebi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Karun",
+        "Namrud",
+        "Džalut",
+        "Azar",
+        "Kabil"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Hvalio se bogatstvom i usprkos savjetu nijekao Allahovu naklonost",
+        "Izazvao je Ibrahima o davanju života i smrti",
+        "Predvodio je vojsku protiv Taluta i Dawuda",
+        "Izrezbareni idoli za štovanje ljudi",
+        "Ubio je brata iz zavisti zbog prinosa."
+      ],
+      "answer": "Hvalio se bogatstvom i usprkos savjetu nijekao Allahovu naklonost"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Ključevi do neizmjernih blaga",
+        "Kovčeg saveza",
+        "Zlatno tele među ukrasima",
+        "Brana između dvije planine",
+        "Jedanaest zvijezda u snu"
+      ],
+      "answer": "Ključevi do neizmjernih blaga"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Progutala ga zemlja s domom i bogatstvom",
+        "Utopio se u moru dok je progonio Musu",
+        "Pogođen kamenom iz Dawudove praćke",
+        "Uništena snažnom eksplozijom zbog ozljede koljena deve",
+        "Pretvoreni u majmune zbog kršenja Sabata"
+      ],
+      "answer": "Progutala ga zemlja s domom i bogatstvom"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

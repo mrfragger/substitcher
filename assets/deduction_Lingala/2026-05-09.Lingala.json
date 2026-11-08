@@ -1,0 +1,61 @@
+{
+  "title": "Ba Jardins ya Prosperité oyo ezali kosila",
+  "intro": "Na mboka oyo epambolamaki na bozwi mingi, lisanga moko ekoli, kofanda na katikati ya bilembo ya ngolu ya bonzambe. Bomengo na bango ezalaki litatoli ya boboto ya Nkolo na bango, likabo oyo esengelaki kofula botondi mpe botosi. Nzokande, atako bilembo ya polele ya mapamboli na bango, mbongwana moko eyaki, oyo etyaki ntembe na botɔndi na bango mpo na liziba ya bozwi mpe libɔndisi na bango monene.",
+  "clues": [
+    "Topambolamaki na bilanga mibale, moko na loboko ya mobali mpe mosusu na loboko ya mwasi, etondi na mbuma.",
+    "Topesamaki mitindo ya kolia uta na bilei ya Nkolo na biso mpe kozala na botondi epai na Ye mpo na mboka malamu mpe Nkolo moko ya kolimbisa.",
+    "Tokolaki na lolendo mpe tobalukaki mosika na nzela ya botondi, komikumisa mpo na bomengo mpe nguya na biso.",
+    "Tosengaki ete Nkolo na biso abakisa ntaka kati na mibembo na biso, kolakisa botyoli mpo na pete oyo Ye apesaki.",
+    "Tokebisamaki na momemi-nsango moko, kasi toboyaki nsango mpe tokobaki na bozangi bokebi na biso.",
+    "Barrage na biso monene, oyo esimbaki bomengo na biso, na nsuka ebukanaki, ememaki na mpela ya kobebisa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Bato ya Thamud",
+        "Bato ya Midian",
+        "Bato ya 'Aad",
+        "Bato ya Lut",
+        "Bato ya Saba"
+      ],
+      "answer": "Bato ya Saba"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Nzala mpe kokauka ya mabelé",
+        "Invasion ya armée moko ya makasi",
+        "Koningana ya mabele oyo ebebisaki mpenza",
+        "Mpela ya kobebisa oyo euti na barrage oyo ebukanaki",
+        "Konyokolama na mokonzi moko ya mobulu"
+      ],
+      "answer": "Mpela ya kobebisa oyo euti na barrage oyo ebukanaki"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Kamela ya mwasi ya likamwisi",
+        "Barrage moko monene",
+        "Ndako moko ya molai",
+        "Libulu ya mozindo"
+      ],
+      "answer": "Barrage moko monene"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Tobongwanaki na ba singes mpe ba ngulu",
+        "Tobikisamaki mpe tokendeki kofanda na mboka ya sika",
+        "Topalanganaki mpe mabele na biso ekómaki mpamba",
+        "Tomataki na likoló",
+        "Totongaki bokonzi ya sika, oyo ezalaki na bozwi mingi"
+      ],
+      "answer": "Topalanganaki mpe mabele na biso ekómaki mpamba"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

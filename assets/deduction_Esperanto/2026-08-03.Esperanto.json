@@ -1,0 +1,61 @@
+{
+  "title": "La Fonto Sub la Sablo",
+  "intro": "En la analoj de la Korano, figuro de grandega pacienco alfrontis provon, kiu rompus eĉ la plej kuraĝajn korojn. Ĉio estis forprenita - riĉeco, familio kaj sano. Tamen el la profundoj de malespero, humila preĝo estis respondita laŭ la plej neatendita maniero. Ĉu vi povas identigi ĉi tiun animon, kies rakonto pri resaniĝo eĥas tra la epokoj?",
+  "clues": [
+    "Mi estis provita per provo tiel severa, ke ĝi estas memorata tra la epokoj.",
+    "Mi perdis ĉion, kio gravis - mian riĉecon, miajn infanojn kaj mian sanon.",
+    "Mia korpo estis kovrita de doloraj ulceretoj, kaj mi estis evitata de ĉiuj.",
+    "En mia malespero, mi vokis Alaho'n, dirante, ke Satano tuŝis min per sufero kaj turmento.",
+    "Alaho respondis al mi kaj ordonis al mi frapi la teron per mia piedo.",
+    "El tiu sama loko, malvarmeta fonto erupciis, kaj Alaho restarigis mian familion kaj duobligis ilin kiel kompaton."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Profeto Ayyub",
+        "Profeto Moseo",
+        "Profeto Ilja",
+        "Profeto Sulajmano",
+        "Profeto Daŭd"
+      ],
+      "answer": "Profeto Ayyub"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Severa malsano kaj perdo de familio kaj riĉeco",
+        "Estante englutita de granda baleno",
+        "Ekzilo el la urbo Mekao",
+        "Malliberigo en profunda puto",
+        "Konfrontiĝo kun aroganta reganto"
+      ],
+      "answer": "Severa malsano kaj perdo de familio kaj riĉeco"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Malvarmeta printempo el la tero",
+        "Boato sur granda inundo",
+        "Bastono kiu fendis la maron",
+        "Levita trono el vitro",
+        "Murita kaverno por dormi"
+      ],
+      "answer": "Malvarmeta printempo el la tero"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Familio kaj riĉeco restarigitaj kaj duobligitaj",
+        "Eliro el la ventro de fiŝo",
+        "Sekura trapaso tra dividitaj akvoj",
+        "Regno donita por regi",
+        "Mirakla naskiĝo de filo en maljuneco"
+      ],
+      "answer": "Familio kaj riĉeco restarigitaj kaj duobligitaj"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

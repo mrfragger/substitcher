@@ -1,0 +1,61 @@
+{
+  "title": "Mukomberi wa Ndhawu yo Kwetsima",
+  "intro": "Hi tiawara to rhula ta vusiku, moya-xiviri lowu tinyiketeleke wu huwelerile eka Mutwana-ntswalo swinene endzeni ka marhangu lama kwetsimisiweke ya ndhawu yo kwetsima. Malembe ya ripfumelo leri nga tsekatsekiki ni ku lehisa mbilu a ma ri kusuhi ni ku hakeriwa hi singita leri a ri ta tisa ntsako ni ndzhaka ya vuprofeta.",
+  "clues": [
+    "Ndzi hete masiku ya mina ni vusiku bya mina ndzi ri eku tinyiketeleni endzeni ka ndhawu yo kwetsima, ndzi tshamela ku kombela Hosi ya mina.",
+    "Ndzi dyuharile, naswona nsati wa mina a a nga ri na ntswamba, hambiswiritano a ndzi nga si tshama ndzi lahlekeriwa hi ntshembo eka tintswalo ta Allah.",
+    "Ndzi nyikiwile n’wana wa mufana, loyi a vuriwaka Yahya, loyi a veke muprofeta ni rivoni ra ku lulama.",
+    "A ndzi ri muprofeta hi ndzexe, loyi a rhumiweke ku ya kongomisa Vana va Israele.",
+    "A ndzi ri ntukulu wa Muprofeta Haruni naswona a ndzi tirha tanihi muprista eTempeleni.",
+    "Ndzi nyikiwe ku khathalela Mariyamu, mana wa Isa, naswona ndzi vone masingita ya yena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Zakariyya",
+        "Muprofeta Yahya",
+        "Muprofeta Ilyas",
+        "Muprofeta Ishaq",
+        "Muprofeta Ya’qub"
+      ],
+      "answer": "Muprofeta Zakariyya"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U nyike n’wana wa jaha loko a dyuharile",
+        "U ponisiwile eka ndzilo lowu pfurhaka",
+        "Ku ponisiwa ekhwirini ra nhlampfi",
+        "U ponile eka ndhambi leyikulu",
+        "Ku horisiwa eka vuvabyi lebyikulu"
+      ],
+      "answer": "U nyike n’wana wa jaha loko a dyuharile"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Mihrab (xikhongelo xa xikhongelo) .",
+        "Va kaaba",
+        "Xihlahla Lexi Hisaka",
+        "Areka ya Ntwanano",
+        "Bako ra Vatli va Nkombo"
+      ],
+      "answer": "Mihrab (xikhongelo xa xikhongelo) ."
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Ku nyikiwa n’wana wo lulama loyi a veke muprofeta",
+        "Ku lovisiwa hi xidzedze xa matimba",
+        "Ku nwela elwandle",
+        "Ku ponisiwa ku hisiwa",
+        "Va tlhelele eka vanhu va vona endzhaku ko ponisiwa eka nhlampfi"
+      ],
+      "answer": "Ku nyikiwa n’wana wo lulama loyi a veke muprofeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

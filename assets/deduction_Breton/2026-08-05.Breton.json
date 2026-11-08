@@ -1,0 +1,61 @@
+{
+  "title": "Devezh an Diskouezadeg Diwezhañ",
+  "intro": "Galvet d'un diskouezadeg vras ​​a c'halloud, ur strollad arzourien barrek a oa dirak ur wirionez dic'hortoz a cheñche o buhez da viken.",
+  "clues": [
+    "Brudet e oamp evit hor micher, mistri war an touelloù hag an touellerezh.",
+    "Galvet omp bet gant ar rener evit en em gavout gant un enebour a zouge ur vazh eeun.",
+    "Pa welomp ar wirionez, e kouezhomp en ur stouiñ, o tisklêriañ e kredomp en Aotrou ar bedoù.",
+    "An tirant a c’hourdrouzas ac’hanomp gant ur c’hastiz garv, met ne baouezas ket.",
+    "E-touez ar re gentañ o krediñ er gemennadenn e oamp goude bezañ gwelet ar sin sklaer.",
+    "Merzeriet omp bet evit hor feiz, mes ni a vezo ar re genta oc’h antreal er Baradoz gant an dud just."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv omp ?",
+      "options": [
+        "Hudourien Faraon",
+        "An Israelited",
+        "Pobl Thamud",
+        "Diskibien Isa",
+        "Arme Abraha"
+      ],
+      "answer": "Hudourien Faraon"
+    },
+    "trial": {
+      "label": "Prosez / Darvoud",
+      "options": [
+        "Kenstrivadeg gant ar profed Musa",
+        "O sevel an tour",
+        "Al liñvadenn vras",
+        "Gwalenn ar c'hrouadur",
+        "Ar mor o rannañ"
+      ],
+      "answer": "Kenstrivadeg gant ar profed Musa"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Devezh ar Gouel",
+        "Traoñienn Tuwa",
+        "Kêr Iram",
+        "Liorzh an Eternite",
+        "Plaenenn Arafat"
+      ],
+      "answer": "Devezh ar Gouel"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Kroazstaget e voent dirak an holl",
+        "Beuzet e voent er mor",
+        "Lakaet e voent da heulierien ar profed",
+        "Kaset e oant bet en harlu",
+        "Devet e voent gant an tan"
+      ],
+      "answer": "Kroazstaget e voent dirak an holl"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Arhitekt arogancije",
+  "intro": "U drevnoj zemlji kojom je vladala prkosna sila, ključna osoba imala je utjecajnu poziciju. Ta je duša bila ključna u velikim planovima vladara, doprinoseći njihovoj tlačiteljskoj vladavini i osporavajući božansku poruku. Njihovo nasljeđe isprepleteno je s težnjom za svjetovnom moći i poricanjem istine.",
+  "clues": [
+    "Služio sam strašnom vladaru koji je generacijama tlačio narod.",
+    "Moje ime se često spominje u Božanskoj Knjizi uz ovog moćnog vođu.",
+    "Bio sam zadužen za grandiozan građevinski projekt, visoku građevinu koja je trebala dosegnuti nebesa.",
+    "Savjetovao sam svom gospodaru da pobije sinove Izraelaca, a poštedi njihove kćeri.",
+    "Bio sam upleten u zavjere i urote protiv moćnog Allahovog poslanika.",
+    "Moj kraj, zajedno s mojim gospodarom i njegovom vojskom, došao je u vodama prostranog mora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Golijat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Biti iskušavan ogromnim bogatstvom",
+        "Predvodeći vojsku protiv svete kuće",
+        "Gradnja tornja da bi se doseglo Boga",
+        "Bacanje u vatru zbog njihove vjere",
+        "Biti bačen u bunar od strane braće i sestara"
+      ],
+      "answer": "Gradnja tornja da bi se doseglo Boga"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Planina",
+        "Toranj",
+        "Kit"
+      ],
+      "answer": "Toranj"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Biti darovan neizmjernoj mudrosti",
+        "Postati prorok",
+        "Biti progutan od zemlje",
+        "Dodijeljeno kraljevstvo",
+        "Utapanje u moru"
+      ],
+      "answer": "Utapanje u moru"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

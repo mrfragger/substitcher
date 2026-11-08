@@ -1,0 +1,61 @@
+{
+  "title": "Paskutinio pasirodymo diena",
+  "intro": "Iškviesta į didingą galios demonstravimą, grupė patyrusių atlikėjų susidūrė su netikėta tiesa, kuri amžiams pakeis jų gyvenimus.",
+  "clues": [
+    "Mes buvome garsūs savo amatu, iliuzijų ir apgaulės meistrais.",
+    "Valdovas mus iškvietė stoti prieš varžovą, kuris naudojo paprastą lazdą.",
+    "Kai pamatėme tiesą, mes parpuolėme kniūbsti, skelbdami tikėjimą pasaulių Viešpačiu.",
+    "Tironas grasino mums griežtomis bausmėmis, bet mes nepasidavėme.",
+    "Mes buvome vieni pirmųjų, kurie patikėjo žinia, pamatę aiškų ženklą.",
+    "Mes buvome kankiniai už savo tikėjimą, bet mes pirmieji pateksime į Rojų su teisiaisiais."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "Faraono magai",
+        "Izraelitai",
+        "Tamudo žmonės",
+        "Izos mokiniai",
+        "Abrahos armija"
+      ],
+      "answer": "Faraono magai"
+    },
+    "trial": {
+      "label": "Bandomasis / Įvykis",
+      "options": [
+        "Konkursas su pranašu Musa",
+        "Bokšto statyba",
+        "Didysis potvynis",
+        "Skėrių maras",
+        "Skyrioji jūra"
+      ],
+      "answer": "Konkursas su pranašu Musa"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Festivalio diena",
+        "Tuvos slėnis",
+        "Iramo miestas",
+        "Amžinybės sodas",
+        "Arafato lyguma"
+      ],
+      "answer": "Festivalio diena"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jie buvo viešai nukryžiuoti",
+        "Jie buvo nuskendę jūroje",
+        "Jie tapo pranašo pasekėjais",
+        "Jie buvo išsiųsti į tremtį",
+        "Juos prarijo ugnis"
+      ],
+      "answer": "Jie buvo viešai nukryžiuoti"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

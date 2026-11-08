@@ -1,0 +1,61 @@
+{
+  "title": "Ekaitzaren aurreko ahotsa",
+  "intro": "Basamortuan figura bat altxatu zen nazio boteretsu bat egiara itzultzeko deitzeko. Jendea eraikin bikainengatik eta paregabeko indarrengatik zen ezaguna. Hala ere, harrotasunak itsutu egin zituen, eta ez zuten entzun nahi izan. Azkenean, zigor suntsitzaile bat jasan zuen, sinestun talde txiki bat bakarrik salbatuz.",
+  "clues": [
+    "Lur zabaletan bizi zen eta bere indarragatik ezaguna zen herri boteretsu batengana bidali ninduten.",
+    "Nire herria suntsitu zuten beste nazio handi baten atzetik etorri zen.",
+    "Eraikin bikainak zituzten eta dorre altuak eraiki zituzten.",
+    "Jainko Bakarra gurtzera deitu nituen, baina ez zuten beren idoloak alde batera utzi nahi izan.",
+    "Zigor bortitz batek jo zituen, nirekin sinetsi zutenak bakarrik salbatuz.",
+    "Ni naiz Aad izeneko herri boteretsu batengana bidalia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Hud profeta",
+        "Salih profeta",
+        "Shu'aib profeta",
+        "Nuh profeta",
+        "Ibrahim profeta"
+      ],
+      "answer": "Hud profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde handia.",
+        "Haize bortitz eta bortitza",
+        "Lurrikara bat eta oihu beldurgarri bat",
+        "Harri erretzen ari den euri-jasa",
+        "Goitik datorren zeruko sua"
+      ],
+      "answer": "Haize bortitz eta bortitza"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Mendi baten gainean eraikitako arka handi bat",
+        "Gamelu eme paregabea",
+        "Suge bihurtu zen makila",
+        "Eraikin altuak eta egitura altuak",
+        "Suzko sugar bat"
+      ],
+      "answer": "Eraikin altuak eta egitura altuak"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Guztiak uholde handi batean itota",
+        "Nire herria haize bortitz batek suntsitu zuen, ni salbatu nintzen bitartean",
+        "Nire herria lurrikara batek jota negarrez",
+        "Nire herria zerutik harriekin jaurti zuten",
+        "Nire herria su bizian botata"
+      ],
+      "answer": "Nire herria haize bortitz batek suntsitu zuen, ni salbatu nintzen bitartean"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

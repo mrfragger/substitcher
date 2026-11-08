@@ -1,0 +1,61 @@
+{
+  "title": "Sudni jim qilgan haqiqat",
+  "intro": "Inkor hukmronlik qilgan va hokimiyat mutlaq bo'lgan saroyda malakali amaliyotchilar to'plami kutilmagan qiyinchilikka duch keldi. Yolg'on va haqiqatning ikki yo'li to'qnashuvga yaqinlashganda, havoda intizorlik bilan kutib olishdi. Yig'ilganlar bu uchrashuv ularning hayotlarini abadiy o'zgartirib, hikoyalarini muqaddas matnga o'yib yozishini bilishmasdi.",
+  "clues": [
+    "Biz xayolot mahoratimiz bilan mashhur edik va kuchli hukmdor tomonidan raqibga qarshi turish uchun to'plandik.",
+    "Vaqt kelganda, biz cholg'ularimizni chalib, mahoratimizga ishonib, natijani kutdik.",
+    "Lekin biz guvoh bo'lgan narsalar o'z qurilmalarimizni shunchaki o'yinchoqlarga o'xshatib qo'ydi va qalbimiz inkor etilmaydigan haqiqatni angladi.",
+    "Biz hukmdorning g'azabiga qaramay, Muso va Horunning Parvardigoriga iymon keltirganimizni e'lon qilib, sajda qilib yerga yiqildik.",
+    "O'sha hukmdor bizni eng shafqatsiz jazo bilan qo'rqitib, bizni xochga mixlashga va oyoq-qo'llarimizni qarama-qarshi tomonga kesishga qasam ichdi.",
+    "Biz sobit turdik, Rabbimizning hukmini har qanday dunyoviy oqibatlardan ustun qo'yganimizni aytdik va imonimiz uchun shahid bo'ldik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avnning sehrgarlari",
+        "G'or ahli",
+        "O'rmon egalari",
+        "Iso payg'ambarning shogirdlari",
+        "Fil xalqi"
+      ],
+      "answer": "Fir'avnning sehrgarlari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Musoga qarshi sehrgarlik musobaqasi",
+        "Ularga olov yog'dirildi",
+        "Ularni cho'ktirgan toshqin",
+        "Qurg'oqchilik va ocharchilik",
+        "Zilzila"
+      ],
+      "answer": "Musoga qarshi sehrgarlik musobaqasi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Ilonlarga aylangan tayoqlar va arqonlar",
+        "Yonayotgan buta",
+        "Urg'ochi tuya",
+        "Yog'ochdan yasalgan sandiq",
+        "Kit"
+      ],
+      "answer": "Ilonlarga aylangan tayoqlar va arqonlar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Iymon uchun qatl qilindi, Jannat va'da qilindi",
+        "Dengizda cho'kib ketdi",
+        "Misr hukmdorlariga aylandi",
+        "Fir'avnning izdoshlari qoldi",
+        "Yerni meros qilib oldi"
+      ],
+      "answer": "Iymon uchun qatl qilindi, Jannat va'da qilindi"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

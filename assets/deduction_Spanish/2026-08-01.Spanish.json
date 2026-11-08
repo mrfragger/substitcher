@@ -1,0 +1,61 @@
+{
+  "title": "El conquistador entre dos horizontes",
+  "intro": "En los anales de la guía divina, una figura destaca como un poderoso gobernante y un humilde siervo de Alá. Este individuo viajó a los confines de la tierra, presenciando el amanecer sobre un pueblo singular y su puesta en un manantial oscuro y turbio. Lo más notable es que a este siervo se le encomendó la tarea de construir una barrera extraordinaria contra una nación de gran maldad. ¿Puedes identificar a esta figura legendaria del Corán?",
+  "clues": [
+    "El Misericordioso me concedió poder e influencia en la tierra.",
+    "Viajé al lugar donde sale el sol y donde se pone.",
+    "Llegué a un pueblo que apenas podía entender una palabra.",
+    "Me ordenaron construir una inmensa barrera usando hierro.",
+    "Sellé el espacio entre dos montañas escarpadas con metal fundido.",
+    "Yo no era ni ángel ni profeta, sino un siervo a quien Alá concedió su favor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Dhu al-Qarnayn (El de los dos cuernos)",
+        "Rey Solimán (Salomón)",
+        "Profeta Dhul-Kifl",
+        "Dhu al-Nun (El compañero pez)",
+        "El Ángel de la Barrera"
+      ],
+      "answer": "Dhu al-Qarnayn (El de los dos cuernos)"
+    },
+    "trial": {
+      "label": "La Gran Tarea",
+      "options": [
+        "Construyendo una torre hacia el cielo",
+        "Construir una enorme barrera de hierro contra Yajuj y Majuj.",
+        "Creando un trono de oro para el juicio",
+        "Cavando un pozo profundo para los justos",
+        "Construir un barco durante una gran inundación"
+      ],
+      "answer": "Construir una enorme barrera de hierro contra Yajuj y Majuj."
+    },
+    "location": {
+      "label": "El escenario",
+      "options": [
+        "La tierra de Uzair entre dos ríos",
+        "El lugar del amanecer y el manantial negro y fangoso",
+        "El valle sagrado de La Meca",
+        "El desierto de Madyan",
+        "La isla de Chipre"
+      ],
+      "answer": "El lugar del amanecer y el manantial negro y fangoso"
+    },
+    "outcome": {
+      "label": "La Promesa Divina",
+      "options": [
+        "Paraíso eterno concedido inmediatamente",
+        "La nación fue destruida por un viento abrasador.",
+        "La barrera durará hasta el Día del Juicio Final.",
+        "Libertad de la muerte para todos los creyentes",
+        "Un reino eterno sin fin"
+      ],
+      "answer": "La barrera durará hasta el Día del Juicio Final."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

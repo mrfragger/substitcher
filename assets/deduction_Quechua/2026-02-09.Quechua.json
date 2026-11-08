@@ -1,0 +1,60 @@
+{
+  "title": "Olakunaq Ukhunpi Prueba",
+  "intro": "Huk profeta, misionninwan llasa q’epichasqa, huk decidiyta ruwarqan, chaymi llaqtanmanta karunchakurqan, mana suyasqan pruebamanpas. Viajenqa huk hatun t’ikrakurqan, iñiyninta pacienciaynintawan aswan ukhumanta pruebaspa. ¿Atiwaqchu kay extraordinario sucesomanta detallekunata chay pistakuna qosqamanta?",
+  "clues": [
+    "Huk profetatan huk llaqtaman kacharqanku, ichaqa usqhayllan ripurqan, mana chaskisqa kasqankumanta hukmanyasqa sientekuspan.",
+    "Chay purisqanmi lamar qochaman aparqan, chaypin sinchi q’epiyoq barcoman seqarqan pasajeta maskhaspa.",
+    "Huk hatun wayra-para hatarirqan, chaymi barcota manchachirqan, chaymi decidikurqan huk runata lamar-qochaman wikch’unankupaq cargata pisiyachinankupaq, chaytaqa sorteowanmi determinarqanku.",
+    "Payqa millp’usqa karqan ukhu pachaq unanchasqan, huk milagro suceso Divina munayninwan kamachisqa.",
+    "Chay kamasqa wiksan ukhupi, Señorninta waqyakurqan, pesapakuspa, tutayaqpi Allahta hatunchaspa.",
+    "Huk tiempo sinchita mañakusqan qhepamanmi mana imayoq qocha pataman wikch’usqa karqan, pisi kallpayoq ichaqa kawsashaq, qhepamantaq kutipurqan llaqtan iñisqankuta."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Runa",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Lut",
+        "Profeta Musa",
+        "Profeta Yunus",
+        "Profeta Yusuf sutiyuq runa"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Nuh llaqtapi unu hunt’aykusqan",
+        "Sodoma llaqta chinkachisqa kasqan",
+        "Hatun challwapa wiksanpi puriy",
+        "Lamar qochapa rakinakuynin",
+        "Ruphashaq sach’a revelacion"
+      ],
+      "answer": "Hatun challwapa wiksanpi puriy"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Arca",
+        "Sinai orqo",
+        "Musapa Personalnin",
+        "Hatun Challwa",
+        "El Pozo de Yusuf"
+      ],
+      "answer": "Hatun Challwa"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Runakunawan musuq rimanakuy",
+        "Llaqtanpaq milagro nacesqan",
+        "Paypa mirayninpaq sayarichisqa qhapaq suyu",
+        "Chaypacha iñiq llaqtanman kutimuy",
+        "Huk tirano kamachikuqta atipay"
+      ],
+      "answer": "Chaypacha iñiq llaqtanman kutimuy"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

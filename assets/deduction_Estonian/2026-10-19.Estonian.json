@@ -1,0 +1,61 @@
+{
+  "title": "Taevaste väljatõugatud",
+  "intro": "Salapärane olend seisab loomise ja hülgamise ristteel. Nende lugu on täis enneolematut ülbust ja jumaliku käsu ülimat eiramist. Nende valik kajab läbi iga põlvkonna, saades proovikiviks igale hingele, kes siia maailma sünnib. Kas suudad selle igavese vastase ära tunda?",
+  "clues": [
+    "Olin kohal kosmilise tähtsusega sündmuse juures, kui savist vormiti uus olend ja talle anti elu Halastaja hingeõhuga.",
+    "Mina ise sündisin ühestainsast lõõmavast algainest, erinevalt sellest, mis on põrm.",
+    "Mulle anti käsk, mida ma oma positsioonist madalamaks pidasin.",
+    "Uhkus paisus minus ja ma keeldusin resoluutselt seda käsku täitmast.",
+    "Mulle anti edasilükkamist määratud päevani, et saaksin jätkata oma kuulutatud eesmärki teisi eksitada.",
+    "Ma olen kõigi maa peal käijate kuulutatud vaenlane, sosistades pettusi ja meelitades neid sirgelt teelt kõrvale."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Iblis (Saatan)",
+        "Vaarao (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Saatan)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Keeldus Adami ees kummardamast",
+        "Väitis jumalikkust valesti",
+        "Sepistas kummardamiseks kuldvasika",
+        "Tappis kadedusest oma venna",
+        "Juhtis Mekas polüteistlikku opositsiooni"
+      ],
+      "answer": "Keeldus Adami ees kummardamast"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Paradiis (Jannah)",
+        "Vaarao palee Egiptuses",
+        "Tuwa püha org",
+        "Mere sügavused",
+        "Seeba aed"
+      ],
+      "answer": "Paradiis (Jannah)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Antud hingetõmbeaeg kuni kohtupäevani",
+        "Uppus koos armeega merre",
+        "Maa neelas alla koos aaretega",
+        "Muutusid ahvideks hingamispäeva rikkumise eest",
+        "Taevast visatud kivide poolt põletatud"
+      ],
+      "answer": "Antud hingetõmbeaeg kuni kohtupäevani"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

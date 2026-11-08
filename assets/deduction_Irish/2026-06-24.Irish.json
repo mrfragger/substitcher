@@ -1,0 +1,61 @@
+{
+  "title": "Fear na Lasrach Do-mhúchta",
+  "intro": "Seasann figiúr ar thairseach na háite is mó eagla san neamhfheicthe, agus dualgas air nach mian le haon chréatúr eile. Nuair a ghlaonn anamacha fulaingthe ar thrócaire, macallaíonn freagra géar trí sheomraí na tine. An féidir leat céannacht an chaomhnóra shíoraí seo a nochtadh?",
+  "clues": [
+    "Seasann mé ag bealach isteach áit uafásach pionóis sa dofheicthe.",
+    "Tine lasrach, do-mhúchta is ea croílár mo dhualgais sollúnta.",
+    "Glaonn anamacha fulaingthe m'ainm, ag impí ar faoiseamh óna bpian gan teorainn.",
+    "Nuair a dhéanann siad achainí, dearbhaím nach n-imeoidh siad, go deo.",
+    "Ní duine mé, ná jinn - is créatúr umhlaíochta íon mé.",
+    "Is mise an príomhaingeal atá ceaptha mar chaomhnóir síoraí Tine Ifrinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mícheál",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Impíonn muintir Ifrinn go gcuirfí deireadh lena bpian",
+        "Séidtear an trumpa chun Lá an Bhreithiúnais a chomhartha",
+        "Nochtadh an Corán do chroí an Fháidh",
+        "Caitear fáidh i dtine mhór ag a muintir",
+        "Tógtar balla cumhachtach chun náisiún truaillithe a choinneáil siar"
+      ],
+      "answer": "Impíonn muintir Ifrinn go gcuirfí deireadh lena bpian"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Tine Ifrinn (Jahannam)",
+        "An Crann Lóite ar theorainn Pharthais",
+        "Trumpa géar",
+        "Foireann a athraíonn ina nathair",
+        "Ríchathaoir dhiaga iontach"
+      ],
+      "answer": "An Tine Ifrinn (Jahannam)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Deirtear le cónaitheoirí Ifrinn go bhfanfaidh siad go deo",
+        "Tá maithiúnas tugtha do chónaitheoirí Ifrinn agus scaoilte saor iad",
+        "Tugtar dara seans creidimh do chónaitheoirí Ifrinn",
+        "Bogtar áitritheoirí Ifrinn go háit fhionnuar",
+        "Scriostar áitritheoirí Ifrinn go hiomlán le tintreach"
+      ],
+      "answer": "Deirtear le cónaitheoirí Ifrinn go bhfanfaidh siad go deo"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

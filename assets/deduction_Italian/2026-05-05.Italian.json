@@ -1,0 +1,61 @@
+{
+  "title": "L'abbraccio della Terra",
+  "intro": "In un periodo di grandi prove, a un individuo di spicco fu concessa un'immensa abbondanza materiale, una prova di gratitudine e umiltà. Il percorso di questa figura rappresenta una profonda lezione sulla natura effimera dei beni materiali e sulle conseguenze dell'arroganza. Scoprite l'identità di quest'anima la cui storia è incisa nella terra stessa sotto i nostri piedi.",
+  "clues": [
+    "Vivevo in mezzo a un popolo guidato da un grande messaggero.",
+    "Allah mi ha concesso ricchezze così immense che persino le chiavi dei miei tesori rappresentavano un fardello troppo pesante per molti individui forti.",
+    "La mia gente, conoscendo le mie ricchezze, mi ha consigliato di cercare la dimora dell'Aldilà con ciò che Allah mi ha donato, di non dimenticare la mia parte in questo mondo e di fare del bene come Allah ha fatto del bene a me.",
+    "Con arroganza dichiarai che la mia immensa ricchezza era stata ottenuta unicamente grazie alla mia conoscenza e al mio impegno, negando qualsiasi favore divino.",
+    "Quando mi è stato chiesto di contribuire o di riconoscere la generosità di Allah, ho orgogliosamente rifiutato, credendo che i miei beni appartenessero esclusivamente a me.",
+    "A causa della mia estrema arroganza e oppressione, Allah ha ordinato alla terra di aprirsi e inghiottire me e la mia dimora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abete",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Essere gettato nel fuoco",
+        "Annegare in mare",
+        "Essere esiliati da un giardino",
+        "Essere trasformato in una scimmia",
+        "Essere inghiottito dalla terra"
+      ],
+      "answer": "Essere inghiottito dalla terra"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un vitello dorato",
+        "Una possente arca",
+        "Un uccello parlante",
+        "Un bastone miracoloso",
+        "Immensi tesori e chiavi"
+      ],
+      "answer": "Immensi tesori e chiavi"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Diventare un grande sovrano",
+        "Ricevere la rivelazione divina",
+        "Ascendendo al cielo",
+        "Vivere una lunga vita di pietà",
+        "Distruzione totale dovuta all'arroganza"
+      ],
+      "answer": "Distruzione totale dovuta all'arroganza"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

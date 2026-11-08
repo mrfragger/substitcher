@@ -1,0 +1,61 @@
+{
+  "title": "Ztracené město bezkonkurenční majestátnosti",
+  "intro": "Mocná civilizace kdysi ovládala rozlehlé oblasti Země, proslulá svými impozantními stavbami sahajícími k nebi. Pod touto vznešeností však rostlo tvrdohlavé popírání – odmítání dbát na božské varování seslané zevnitř samotné komunity. Pýcha a arogance brzy přinesou trest, jaký ani země, ani nebesa nikdy nezažily.",
+  "clues": [
+    "Kdysi jsme vládli rozlehlým územím a chlubili se silou, o které jsme věřili, že se jí žádná jiná civilizace nevyrovná.",
+    "Naše říše byla proslulá tyčícími se stavbami s mohutnými pilíři, které se tyčily bezkonkurenčně v každé známé zemi.",
+    "Z naší vlastní komunity povstal varovný hlasatel a naléhal na každého z nás, abychom se podřídili pouze Jednomu Stvořiteli.",
+    "Popřeli jsme poselství, které nám bylo doručeno, a odmítli jsme opustit cestu, kterou jsme zdědili.",
+    "Zuřivý, vyjící vítr ohromující síly se proti nám uvolnil a nechal nás naprosto bezbranné.",
+    "Zůstali jsme jako duté kmeny palem, roztroušení a zapomenutí, jako ponaučení pro každou další generaci."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z A'adu",
+        "Lidé z Nuha",
+        "Lidé z Lutu",
+        "Lidé z Madyanu",
+        "Lidé z Tubby"
+      ],
+      "answer": "Lidé z A'adu"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Neúprosný zuřivý vítr krutého trestu",
+        "Povodeň, která pokryla každý horský vrchol",
+        "Déšť hořících hliněných kamenů shora",
+        "Jediný děsivý výkřik z nebes",
+        "Silné zemětřesení, které rozdělilo zemi"
+      ],
+      "answer": "Neúprosný zuřivý vítr krutého trestu"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Iram, město vznešených sloupů",
+        "Obrovská dřevěná archa postavená na hoře",
+        "Velbloudice, která se zázračně vynořila z kamene",
+        "Hora Sinaj, kde sestoupila božská přikázání",
+        "Palác z křišťálu a jemného skla s výhledem na tekoucí vody"
+      ],
+      "answer": "Iram, město vznešených sloupů"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zůstaly jako duté kmeny palem, roztroušené a bez života",
+        "Utopeni pod drtivými vlnami velké povodně",
+        "Proměněni v tvory připomínající opice a prasata",
+        "Rozdrceni pod deštěm ztvrdlých jílových kamenů",
+        "Pohlceni jediným ohlušujícím výkřikem, který pronikl duší"
+      ],
+      "answer": "Zůstaly jako duté kmeny palem, roztroušené a bez života"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

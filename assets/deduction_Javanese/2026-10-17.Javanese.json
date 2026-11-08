@@ -1,0 +1,61 @@
+{
+  "title": "Rasa kangen ing Kamar Suci",
+  "intro": "Kowé mlebu ing papan suci sing sepi lan weruh abdiné Allah sing setya ngadeg ndedonga. Tangané diangkat, mripaté diangkat, lan atine nggawa rasa kangen sing wis suwé banget. Sapa jiwa sabar iki sing ora tau goyah kapercayané marang Allah?",
+  "clues": [
+    "Aku ngentèkaké pirang-pirang taun kanggo ibadah lan ndedonga, nyeksèni mukjizat sing nguwataké imanku.",
+    "Aku diwenehi tanggung jawab kanggo ngrawat jiwa enom sing rahayu ing papan suci.",
+    "Nalika aku saya tuwa, kasusahanku sing paling gedhe yaiku aku ora duwe anak, amarga bojoku mandul lan aku lan dheweke wis tuwa.",
+    "Aku ndedonga marang Gustiku supaya ana penerus saka kulawargaku dhewe, wong sing bakal nerusake warisan kenabian.",
+    "Nalika aku ngadeg ing papan sholat, para malaikat nyeluk aku, karo kandha, 'Allah menehi kabar bungah kanggo kowe', lan aku wedi lan gumun.",
+    "Aku dikabari nèk aku bakal duwé anak lanang sing dijenengi Yahya, jeneng sing durung tau diwènèhaké marang sapa waé sadurungé, lan minangka tandha aku ora bakal ngomong karo wong liya sajrone telung dina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Nabi Zakaria",
+        "Nabi Yahya",
+        "Nabi Isa",
+        "Nabi Dawud",
+        "Lukman kang Wicaksana"
+      ],
+      "answer": "Nabi Zakaria"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Mandul lan tuwa nalika kepengin ahli waris sing bener",
+        "Dibuwang menyang geni sing murub",
+        "Diuntal iwak gedhe",
+        "Kelangan kerajaan marang tiran",
+        "Diusir saka tanah kelairane"
+      ],
+      "answer": "Mandul lan tuwa nalika kepengin ahli waris sing bener"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Mihrab (ceruk sholat)",
+        "Kapal gedhe (Ark)",
+        "Grumbul sing kobong",
+        "Teken sing malih dadi ula",
+        "Unta wadon kagungane Allah"
+      ],
+      "answer": "Mihrab (ceruk sholat)"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Diwenehi putra sing soleh lan ngomong maneh sawise telung dina meneng",
+        "Dirusak dening banjir amarga ora percaya",
+        "Diwenehi kerajaan sing jembar lan kendali marang angin",
+        "Digawa saka weteng iwak",
+        "Ditelan bumi"
+      ],
+      "answer": "Diwenehi putra sing soleh lan ngomong maneh sawise telung dina meneng"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

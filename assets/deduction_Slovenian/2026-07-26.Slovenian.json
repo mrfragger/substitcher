@@ -1,0 +1,61 @@
+{
+  "title": "Krona, ki je izzvala nebo",
+  "intro": "V hodnikih starodavnih kraljestev je ime nekega vladarja postalo sinonim za tiranijo in aroganco. Ko je prišel ponižni Alahov služabnik z neizpodbitnimi znamenji, se ta mogočni vladar ni hotel predati resnici. Danes je vaša naloga prepoznati to legendarno osebnost, katere oblast se je zrušila in katere usoda je bila zapečatena pod valovi.",
+  "clues": [
+    "Sem najbolj strah vzbujajoči vladar, čigar ime še vedno odmeva kot opozorilo skozi stoletja.",
+    "Celemu ljudstvu sem ukazal, naj dela v verigah in postavlja spomenike, ki so oznanjali mojo slavo.",
+    "Ko je predme prišel Alahov poslanec z neizpodbitnimi znamenji, se nisem hotel prikloniti in sem to imenoval čarovništvo.",
+    "Odločil sem umor dojenčkov med ujetniškim ljudstvom, v upanju, da bom s tem strl njihov duh, preden se bodo lahko dvignili.",
+    "Stal sem pred svojim dvorom in izjavil: 'Jaz sem vaš najvišji gospodar,' ter zahteval čaščenje kot boga.",
+    "Z mojim glavnim ministrom ob sebi sem zgradil mogočno zgradbo, katere cilj je bil vzpon onkraj nebes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Faraon (Firawn)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Valid ibn al-Mughira"
+      ],
+      "answer": "Faraon (Firawn)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Utapljanje v Rdečem morju",
+        "Kamela, poslana k ljudstvu Thamuda",
+        "Velika poplava Nuha",
+        "Kazen spremljevalcev jarka",
+        "Uničenje Abrahine vojske s strani ptic"
+      ],
+      "answer": "Utapljanje v Rdečem morju"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Stolpnica, zgrajena s Hamanom",
+        "Barka, ki je plula po potopu",
+        "Zlato tele, ki so ga izdelali Samiri",
+        "Prestol Bilkis, kraljice Sabe",
+        "Jama spečih mladeničev"
+      ],
+      "answer": "Stolpnica, zgrajena s Hamanom"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Utopljen v morju; truplo ohranjeno kot opozorilo",
+        "Izgnani in prisiljeni tavati po divjini",
+        "Za kazen so se spremenili v opice",
+        "Prizadel ga je močan potres",
+        "Zgorel od dežja kamenja z neba"
+      ],
+      "answer": "Utopljen v morju; truplo ohranjeno kot opozorilo"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Köne döwürlere gabat gelen çagyryş",
+  "intro": "Bütin bir siwilizasiýanyň garşysyna ýeke özi durup, olary ýalňyşlykdan sapmaga berk karar beren bir jany göz öňüne getiriň. Asyrlarboýy bu habar ret edildi, gülkünç edildi we ret edildi, ýöne tagalla hiç haçan beslenmedi. Ahyrsoňy uly hasap berildi we bu berk jan bilen birlikde diňe birnäçe adam halas boldy. Bu keşbi Gurhandan tanap bilersiňizmi?",
+  "clues": [
+    "Men öz ýollarynda azaşyp ýören kowum üçin duýduryş beriji hökmünde iberildim.",
+    "Men olary günälerinden ötünç soramaga we ýalňyşlyklaryndan ýüz öwürmäge çagyrdym, ýöne olar ýüz öwürdiler.",
+    "Hudaýyň emri bilen, kowumym meni görüp, ýaňsa alyp duran mahaly, men ägirt uly gämi ýasadym.",
+    "Men Rebbime üznüksiz ýalbardym - ahyrsoňy Ol jogap berdi we asmandan suw çaýylyp ýagdy.",
+    "Men suw joşguny ýeriň üstünden göterilende ynanýanlar bilen gäminiň üstüne mündüm.",
+    "Men yzda galan birine daga gaçybatalga tapmagyny haýyş edip gygyrdym, ýöne perman eýýäm çykarylypdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Nuh pygamber",
+        "Ybraýym pygamber",
+        "Musa pygamber",
+        "Hud pygamber",
+        "Salih pygamber"
+      ],
+      "answer": "Nuh pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Beýik gämi gurmak we dünýä silinden aman galmak",
+        "Ýanýan oda taşlanmak",
+        "Zalym we onuň güýçli jadygöýleri bilen ýüzbe-ýüz bolmak",
+        "Uly balyk tarapyndan ýuwutulýar",
+        "Mukaddes düýäniň öldürilmegine şaýat bolmak"
+      ],
+      "answer": "Beýik gämi gurmak we dünýä silinden aman galmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Güýçli sil suwlarynyň üstünde ägirt uly agaç gämi",
+        "Gadymy daş harabalyklary bolan mukaddes jülge",
+        "Asyrlarboýy ýoldaşlarynyň ýatan çuň gowak",
+        "Okeanyň çuňluklaryndaky ägirt kitiň garny",
+        "Çölde beýik daş dagy"
+      ],
+      "answer": "Güýçli sil suwlarynyň üstünde ägirt uly agaç gämi"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Gämidäki imanlylar bilen halas boldy",
+        "Hudaýyň emri bilen otdan sag-aman halas edildi",
+        "Güýçli patyşalykdan uly bir göçüşe ýolbaşçylyk etdi",
+        "Balykdan boş kenara zyňylmak",
+        "Adamlary gudratly alamat arkaly nädogry işlerden daşlaşdyrdy"
+      ],
+      "answer": "Gämidäki imanlylar bilen halas boldy"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

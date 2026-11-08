@@ -1,0 +1,61 @@
+{
+  "title": "Pongi Oyo Eleki Tango",
+  "intro": "Kanisá naino ntango oyo solo ekangamaki monɔkɔ mpe bandimi bazalaki kolukama. Etuluku moke eponaki kozonga nsima na esika ya komitika, kozwaka ekimelo na bisika oyo ekoki kosalema te —esika oyo ekokoma esika na bango ya bopemi mpo na bikeke mingi koleka kotanga. Ntango balamukaki na nsuka, mokili ebongwanaki zingazinga na bango. Milimo wana oyo ezali kolala mpɔngi ezali banani?",
+  "clues": [
+    "Tozalaki bilenge oyo tofandaki na engumba moko ya kala.",
+    "Bato ya mboka na biso bazalaki kosɛnga ete tósambela pembeni na bango, kasi toboyaki.",
+    "Tokimaki engumba mpo na koluka ekimelo epai ya baoyo bazalaki kotɛmɛla bindimeli na biso.",
+    "Moninga moko ya sembo ya makolo minei atikalaki na ekuke ya esika oyo tobombamaki.",
+    "Allah alali biso mbula nkama misato na libwa.",
+    "Ntango tolamukaki nsukansuka, engumba na biso oyo ezalaki konyokola biso, ekómaki kondima kondima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Ashab al-Kahf (Bato ya libulu) .",
+        "Ashab al-Fil (Mampinga ya ngando) .",
+        "Ashab al-Ukhdud (Baninga ya Fosse) .",
+        "Ba Hawariyyun (Bayekoli ya Isa) .",
+        "Yajuj wa Majuj (Goge na Magog) ."
+      ],
+      "answer": "Ashab al-Kahf (Bato ya libulu) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Tozongaki nsima na kati ya libulu moko mpe tolalaki na boumeli ya bikeke mingi",
+        "Tobikisamaki na mɔ́tɔ oyo ezalaki kopela mɔ́tɔ",
+        "Mbisi moko monene emɛlaki biso",
+        "Bamekaki biso na kamela moko ya mwasi oyo asalaki likamwisi",
+        "Bapesaki biso bilembo libwa ya polele"
+      ],
+      "answer": "Tozongaki nsima na kati ya libulu moko mpe tolalaki na boumeli ya bikeke mingi"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Libulu moko ya mozindo na bangomba",
+        "Masuwa moko na mbu ya polele",
+        "Etonga moko molai oyo ekómi tii na likoló",
+        "Elanga oyo ekabolamaki kati na bato mibale oyo bazalaki kowelana",
+        "Epekiseli ya ebende mpe ya kwivre"
+      ],
+      "answer": "Libulu moko ya mozindo na bangomba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Tolamuki mpe tomonaki ete engumba na biso ebalukaki na kondima",
+        "Mɔtɔ moko ya mɔ́tɔ ekómaki malili mpe ya kimya",
+        "Limpinga moko ya banguna ezindaki na mbu",
+        "Bandɛkɛ oyo ememaki mabanga ebebisaki monguna yango",
+        "Mbisi moko monene ebimisaki biso na libongo"
+      ],
+      "answer": "Tolamuki mpe tomonaki ete engumba na biso ebalukaki na kondima"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

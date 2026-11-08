@@ -1,0 +1,61 @@
+{
+  "title": "Qumun Altındakı Bulaq",
+  "intro": "Quran salnamələrində böyük səbir sahibi bir şəxsiyyət ən sərt ürəkləri parçalayacaq bir sınaqla qarşılaşır. Hər şey əlindən alındı ​​- var-dövlət, ailə və sağlamlıq. Lakin ümidsizliyin dərinliklərindən təvazökar bir dua ən gözlənilməz şəkildə cavablandırıldı. Bərpa hekayəsi əsrlər boyu əks-səda verən bu ruhu tanıya bilərsinizmi?",
+  "clues": [
+    "Mən o qədər ağır bir sınaqla qarşılaşdım ki, əsrlər boyu xatırlanır.",
+    "Əhəmiyyətli olan hər şeyi - var-dövlətimi, uşaqlarımı və sağlamlığımı itirdim.",
+    "Bədənim ağrılı yaralarla örtülmüşdü və hamı məndən üz döndərirdi.",
+    "Çarəsizliyim içində Allaha yalvarıb dedim ki, Şeytan mənə çətinlik və əzab verib.",
+    "Allah mənə cavab verdi və ayağımla yerə vurmağımı əmr etdi.",
+    "Elə o yerdən sərin bir bulaq qaynadı və Allah rəhmət olaraq ailəmi bərpa etdi və onları ikiqat artırdı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Peyğəmbər Əyyub",
+        "Musa peyğəmbər",
+        "İlyas peyğəmbər",
+        "Süleyman peyğəmbər",
+        "Davud peyğəmbər"
+      ],
+      "answer": "Peyğəmbər Əyyub"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Ağır xəstəlik və ailə və sərvət itkisi",
+        "Böyük bir balina tərəfindən udulmaq",
+        "Məkkə şəhərindən sürgün",
+        "Dərin quyuda həbs",
+        "Təkəbbürlü bir hökmdarla qarşıdurma"
+      ],
+      "answer": "Ağır xəstəlik və ailə və sərvət itkisi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Yerdən gələn sərin bir bulaq",
+        "Böyük bir daşqının üstündəki bir qayıq",
+        "Dənizi iki yerə bölən bir əsa",
+        "Şüşədən hündür bir taxt",
+        "Yuxu üçün divarla əhatə olunmuş mağara"
+      ],
+      "answer": "Yerdən gələn sərin bir bulaq"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Ailə və sərvət bərpa edildi və ikiqat artdı",
+        "Balığın qarnından çıxmaq",
+        "Bölünmüş sulardan təhlükəsiz keçid",
+        "İdarə etmək üçün verilən bir krallıq",
+        "Qocalıqda möcüzəvi şəkildə bir oğulun doğulması"
+      ],
+      "answer": "Ailə və sərvət bərpa edildi və ikiqat artdı"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

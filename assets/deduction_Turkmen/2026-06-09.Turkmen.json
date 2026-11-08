@@ -1,0 +1,61 @@
+{
+  "title": "Hakykata tarap üýtgewsiz çagyryşçy",
+  "intro": "Bir ilçi inadkär halkyň arasynda ýeke özi durup, olary ýalan butlara baglanyp galýan mahaly, ýeke-täk Hakyky Hudaýa çagyrýar. Bu pygamberiň ady güýçli manyda - \"gorag gözleýän\" - ýaňlanýar, ýöne diňe ret edilmegi we inkär edilmegini alýar. Ýumşak ynandyrmak we berk duýduryş arkaly bu jan älemiň özi ahyrsoňy aklajak ylahy habary alyp barýar. Yslam ýazgylaryndaky iň gadymy rowaýatlaryň birini görkezýän bu berk şahsyýeti tanap bilersiňizmi?",
+  "clues": [
+    "Meniň halkym köp hudaýlara sežde edýärdi, men bolsa olary gökleri we ýeri ýaradan Zata gulluk etmäge çagyrdym.",
+    "Men öz milletimiň öňünde durup, olardan hiç hili sylag gözlemejekdigimi aýtdym - meniň ýeke-täk islegim olaryň dogrulyga ýol görkezmegidi.",
+    "Meniň halkyma ilahi jeza hökmünde güýçli ýel iberildi, bu ýel barada Kuranda hem köplük, hem-de aýal görnüşlerinde aýdylýar.",
+    "Käbir pygamberlerden tapawutlylykda, meniň rowaýatymda agzalýan aýal ýa-da çagalar berilmedi, sebäbi meniň wezipäm diňe halkymy çagyrmakdy.",
+    "Meniň adym çuňňur many berýär — adamyň gözleýän gorag we gaçybatalga düşünjesi bilen baglanyşykly.",
+    "Meniň halkym ýaşaýan jülgesi üçin belli bir geografik adalga bilen tanalýardy we olaryň ýeri ösümlikleriň ýetmezçiligi üçin aýratyn ýigrenç bilen suratlandyrylýardy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Hud pygamber",
+        "Salih pygamber",
+        "Şuaýb pygamber",
+        "Nuh pygamber",
+        "Hudeýb pygamber"
+      ],
+      "answer": "Hud pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Ýer ýüzüniň sil suwy",
+        "Gyzgyn ýel",
+        "Weýrançylyk ýertitremesi",
+        "Gurakçylyk we açlyk",
+        "Deňizde gark bolmak"
+      ],
+      "answer": "Gyzgyn ýel"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýemeniň bereketli jülgesi",
+        "Midýanyň çäge çöli",
+        "Samudyň gaýaly jülgesi",
+        "Ad halkynyň gadymy ýurdy",
+        "Müsüriň kenarýaka sebiti"
+      ],
+      "answer": "Ad halkynyň gadymy ýurdy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Meniň kowumym toba edip, jennete girdi",
+        "Meniň halkymyň hiç biri jezadan aman galmady",
+        "Meni agam Ýunus ýaly diri göterdiler",
+        "Men öz ymmatlarym bilen bereketli ýere göç etdim",
+        "Ýel diňe käfirleri ýok etdi, imanlylar bolsa diri galdy"
+      ],
+      "answer": "Meniň halkymyň hiç biri jezadan aman galmady"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

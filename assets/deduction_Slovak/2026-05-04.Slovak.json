@@ -1,0 +1,61 @@
+{
+  "title": "Architekt arogancie",
+  "intro": "V starobylej krajine ovládanej vzdorovitou mocnosťou zastávala kľúčová osoba vplyvnú pozíciu. Táto duša zohrala kľúčovú úlohu vo veľkolepých plánoch vládcu, prispievala k jeho utláčateľskej vláde a spochybňovala božské posolstvo. Ich odkaz je prepojený s túžbou po svetskej moci a popieraním pravdy.",
+  "clues": [
+    "Slúžil som impozantnému vládcovi, ktorý utláčal ľud celé generácie.",
+    "Moje meno sa v Božej knihe často spomína popri tomto mocnom vodcovi.",
+    "Bol som poverený veľkolepým stavebným projektom, týčiacou sa stavbou, ktorá mala siahať až do nebies.",
+    "Radil som svojmu pánovi, aby zabil synov Izraela a ušetril ich dcéry.",
+    "Bol som zapojený do sprisahaní a konšpirácií proti mocnému poslu Alaha.",
+    "Môj koniec spolu s mojím pánom a jeho armádou prišiel vo vodách rozľahlého mora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliáš",
+        "Iblis",
+        "Háman"
+      ],
+      "answer": "Háman"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Byť skúšaný nesmiernym bohatstvom",
+        "Vedenie armády proti posvätnému domu",
+        "Stavba veže, aby sme dosiahli Boha",
+        "Boli hodení do ohňa za svoju vieru",
+        "Byť hodený do studne súrodencami"
+      ],
+      "answer": "Stavba veže, aby sme dosiahli Boha"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Archa",
+        "Zamestnanci",
+        "Hora",
+        "Veža",
+        "Veľryba"
+      ],
+      "answer": "Veža"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Dostanem nesmiernu múdrosť",
+        "Stať sa prorokom",
+        "Byť pohltený zemou",
+        "Udelenie kráľovstva",
+        "Topenie sa v mori"
+      ],
+      "answer": "Topenie sa v mori"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

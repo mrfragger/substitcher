@@ -1,0 +1,61 @@
+{
+  "title": "La flama que va deixar un llegat",
+  "intro": "En els annals de la resistència, hi ha una figura el nom de la qual es va convertir en un avís per a la fi dels temps. Aquesta persona va triar l'enemistat per sobre del parentiu, el desafiament per sobre de la submissió i es va oposar a una crida a la misericòrdia. Escolteu atentament els ecos d'una antiga proclamació mentre descobrim la identitat d'aquesta ànima notòria.",
+  "clues": [
+    "Vaig néixer al mateix clan que l'últim missatger d'Al·là, i tot i així em vaig oposar a ells a tot moment.",
+    "El meu nom tenia un significat: un nom que significava \"pare de la flama\", un nom que presagiava el meu destí etern.",
+    "Vaig desencadenar el mal contra el portador de la veritat, i fins i tot la meva pròpia llar es va unir a aquesta campanya de crueltat.",
+    "Vaig fer servir la meva riquesa i influència per silenciar la crida a Al·là, creient que els diners podien extingir la llum divina.",
+    "Al·là em va dedicar un capítol sencer, un capítol tan breu que es pot recitar en segons, però que té un pes que roman fins al Dia del Judici.",
+    "El meu company en l'altra vida camina darrere meu, lligat amb una corda de fibra al coll, portant les mateixes espines que solien escampar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definició de la confrontació",
+      "options": [
+        "Liderant l'oposició contra el Profeta a la Meca",
+        "Migració a Abissínia per escapar de la persecució",
+        "Construint la Kaaba amb el profeta Ibrahim",
+        "Acceptar l'Islam al llit de mort",
+        "Forjant el Tractat de Hudaybiyyah"
+      ],
+      "answer": "Liderant l'oposició contra el Profeta a la Meca"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una esposa que portava espines i llenya",
+        "Un bastó que es va transformar en una serp",
+        "Un anell amb el segell de Salomó",
+        "Un vedell d'or adorat pel poble",
+        "Una font que brollava aigua"
+      ],
+      "answer": "Una esposa que portava espines i llenya"
+    },
+    "outcome": {
+      "label": "Recompte final",
+      "options": [
+        "Una sura sencera revela que declara la ruïna total",
+        "Es va convertir en el líder de la comunitat musulmana",
+        "Va rebre el perdó en el moment de la mort",
+        "Va construir una gran mesquita a Medina",
+        "Va ressuscitar entre els justos"
+      ],
+      "answer": "Una sura sencera revela que declara la ruïna total"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

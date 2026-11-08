@@ -1,0 +1,61 @@
+{
+  "title": "Les étranges visiteurs d'une ville fortifiée",
+  "intro": "Un groupe arriva aux portes d'une cité dont les habitants ignoraient tout de la vérité. Ils apportèrent un message, mais les habitants se montrèrent hostiles et menacèrent de violence. Soudain, une voix s'éleva pour défendre les étrangers, annonçant un retournement de situation dramatique.",
+  "clues": [
+    "Nous sommes entrés dans une ville dont les habitants étaient plongés dans l'incrédulité.",
+    "Ils nous ont regardés avec suspicion et ont dit : « Vous n'êtes que des êtres ordinaires comme nous. »",
+    "Nous les avions prévenus, mais ils ont levé des pierres contre nous.",
+    "Un homme est venu en courant du bout de la ville pour confirmer notre vérité.",
+    "Il déclara à son peuple : « Pourquoi ne devrais-je pas adorer Celui qui m'a créé ? »",
+    "Le déni de la ville prit fin dans une unique explosion, et le silence régna là où auparavant ils huaient."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sommes-nous ?",
+      "options": [
+        "Les Messagers de Ya-Sin",
+        "Les disciples d'Isa",
+        "Les gens de la tranchée",
+        "Les Magiciens du Pharaon",
+        "Le croyant de Ya-Sin"
+      ],
+      "answer": "Les Messagers de Ya-Sin"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Rejet et menace de lapidation",
+        "Être jeté dans un feu féroce",
+        "Une épreuve de patience avec un enfant perdu",
+        "Un jardin qui a subi des destructions",
+        "Un voyage à travers la mer"
+      ],
+      "answer": "Rejet et menace de lapidation"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'extrémité la plus reculée de la ville",
+        "La mer Rouge",
+        "Le fossé de feu",
+        "La grotte du refuge",
+        "La prison d'Égypte"
+      ],
+      "answer": "L'extrémité la plus reculée de la ville"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "La ville fut détruite par un seul cri.",
+        "La mer s'est ouverte et a englouti l'armée",
+        "Le feu s'est refroidi et est devenu sûr.",
+        "Le jardin fut consumé par un feu céleste",
+        "La baleine a ramené la personne sur le rivage."
+      ],
+      "answer": "La ville fut détruite par un seul cri."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

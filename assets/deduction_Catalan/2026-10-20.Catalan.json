@@ -1,0 +1,61 @@
+{
+  "title": "L'arquitecte de la falsa ambició",
+  "intro": "Una figura de gran autoritat va servir una vegada a un dels tirans més notoris de la història a l'antic Egipte. Aquest individu va rebre una ordre audaç: construir una estructura destinada a desafiar els cels. La seva història es troba a l'Alcorà com una lliçó sorprenent sobre com l'obediència cega a l'arrogància només porta a la ruïna.",
+  "clues": [
+    "Vaig servir a les corts d'un poderós governant que afirmava ser divin sobre les terres.",
+    "Vaig ocupar un alt càrrec ministerial, assessorant el tirà més arrogant del meu temps.",
+    "El meu governant estava consumit desafiant el Déu de Moisès, a qui es negaven a reconèixer.",
+    "Em van ordenar construir una torre de maons cuits al foc perquè el meu governant pogués ascendir al cel.",
+    "La torre mai va arribar al cel, i la meva servitud a l'arrogància em va valer la desgràcia eterna.",
+    "Vaig perir amb aquell que vaig seguir, i el meu nom es va convertir en un avís durador contra aquells que permeten els tirans."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Aman",
+        "Azar (pare d'Ibrahim)",
+        "Il·lias (un profeta)",
+        "Dhu al-Kifl",
+        "Harut (un dels dos àngels de Babilònia)"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va ser ordenat construir una estructura imponent per arribar al cel",
+        "Se li va demanar que interpretés un somni enviat per la divinitat",
+        "Llançat a un foc ardent com a prova de fe",
+        "Obligats a triar entre el tron ​​i la veritat",
+        "Desafiat en un concurs de bruixeria"
+      ],
+      "answer": "Va ser ordenat construir una estructura imponent per arribar al cel"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una torre de maons cuits al foc",
+        "Un bastó que es va transformar en una serp",
+        "Un vaixell que navega a través d'una gran inundació",
+        "Un jardí tancat per alts murs",
+        "Un tron ​​adornat amb rubins i or"
+      ],
+      "answer": "Una torre de maons cuits al foc"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ofegat al costat de l'opressor al mar",
+        "Es va convertir en un poderós monarca de vastes terres",
+        "Va escapar il·lès d'un incendi ardent",
+        "Va construir un pròsper regne de saviesa",
+        "Es va retrobar amb la família després d'anys d'exili"
+      ],
+      "answer": "Ofegat al costat de l'opressor al mar"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

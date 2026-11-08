@@ -1,0 +1,61 @@
+{
+  "title": "Călătorii câmpului verde",
+  "intro": "Într-o epocă străveche, doi indivizi cultivau pământuri vecine. Căile lor erau împletite, însă inimile lor îi călăuzeau spre destinații complet diferite. Unul a mers pe calea cea dreaptă, în timp ce celălalt a rătăcit în întunericul negării. Poți dezlega misterul acestor doi păstori ai recoltei?",
+  "clues": [
+    "Am avut recolte abundente, recolte luxuriante care orbiu ochii privitorilor.",
+    "Vecinul meu avea o bogăție și mai mare decât mine, totuși eu râvneam la partea lui mai mult decât la a mea.",
+    "Am sugerat să le distrugem complet recoltele, ca să consolidăm totul sub controlul meu.",
+    "Mi-am ruinat și propria recoltă, distrugând totul în planul meu nechibzuit.",
+    "Am stat neajutorat în timp ce recoltele mele se ofiliau și bogăția mea se transforma în praf într-o singură noapte.",
+    "Nu am avut parte de Viața de Apoi, iar ultima mea locuință a devenit o groapă de foc arzător."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Omul care a negat învierea și judecata",
+        "Conducătorul care l-a asuprit pe fermierul drept",
+        "Bogatul proprietar de pământ căruia îi lipsea recunoștința",
+        "Fermierul care a râvnit la pământul vecinului său",
+        "Partenerul trădător care a plănuit distrugerea"
+      ],
+      "answer": "Fermierul care a râvnit la pământul vecinului său"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Testul primirii revelației divine",
+        "Provocarea bogăției și a răbdării",
+        "Ispita de a distruge existența unei persoane drepte",
+        "Porunca de a împărți moștenirea în mod echitabil",
+        "Lupta împotriva opresiunii unui tiran"
+      ],
+      "answer": "Ispita de a distruge existența unei persoane drepte"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Grădinile verzi ale paradisului",
+        "Două câmpuri cultivate vecine",
+        "Munții care au fost martorii distrugerii",
+        "Sanctuarul sacru din Mecca",
+        "Malurile unui pământ binecuvântat"
+      ],
+      "answer": "Două câmpuri cultivate vecine"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Paradisul etern ca recompensă pentru dreptate",
+        "Distrugerea completă a ambelor recolte în această viață",
+        "Exil și rătăcire până la moarte",
+        "Prosperitate temporară urmată de foc veșnic",
+        "O restaurare miraculoasă și o recompensă dublă"
+      ],
+      "answer": "Distrugerea completă a ambelor recolte în această viață"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

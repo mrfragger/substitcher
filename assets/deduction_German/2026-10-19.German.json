@@ -1,0 +1,61 @@
+{
+  "title": "Der Ausgestoßene des Himmels",
+  "intro": "Ein geheimnisvolles Wesen steht am Scheideweg zwischen Schöpfung und Verwerfung. Seine Geschichte ist geprägt von beispielloser Arroganz und dem ultimativen Trotz gegen ein göttliches Gebot. Seine Entscheidung hallt durch jede Generation und wird zur Prüfung für jede Seele, die in diese Welt geboren wird. Kannst du diesen ewigen Widersacher identifizieren?",
+  "clues": [
+    "Ich war Zeuge eines Ereignisses von kosmischer Bedeutung, als aus Lehm ein neues Wesen geformt und durch den Atem des Barmherzigen zum Leben erweckt wurde.",
+    "Ich selbst bin aus einem einzigen gleißenden Element entstanden, im Gegensatz zu jenem Wesen aus Staub.",
+    "Mir wurde ein Befehl erteilt, den ich als unter meiner Stellung liegend empfand.",
+    "Stolz erfüllte mich, und ich weigerte mich entschieden, diesem Befehl Folge zu leisten.",
+    "Mir wurde eine Frist bis zu einem bestimmten Tag gesetzt, damit ich meinem erklärten Ziel, andere irrezuführen, nachgehen konnte.",
+    "Ich bin der erklärte Feind aller, die auf Erden wandeln, ich flüstere Täuschungen ein und locke sie vom geraden Weg ab."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Iblis (Satan)",
+        "Pharao (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Er weigerte sich, sich vor Adam zu verbeugen.",
+        "Behauptete fälschlicherweise Göttlichkeit",
+        "Ein goldenes Kalb wurde zur Anbetung geschmiedet.",
+        "Er tötete seinen Bruder aus Neid.",
+        "Führte die polytheistische Opposition in Mekka an"
+      ],
+      "answer": "Er weigerte sich, sich vor Adam zu verbeugen."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Paradies (Jannah)",
+        "Palast des Pharaos in Ägypten",
+        "Das heilige Tal von Tuwa",
+        "Die Tiefen des Meeres",
+        "Der Garten von Saba"
+      ],
+      "answer": "Paradies (Jannah)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Gewährte Gnadenfrist bis zum Tag des Jüngsten Gerichts",
+        "Ertrunken zusammen mit der Armee im Meer",
+        "Von der Erde verschlungen, zusammen mit Schätzen",
+        "Wegen Verstoßes gegen den Sabbat wurden sie in Affen verwandelt.",
+        "Verbrannt von Steinen, die vom Himmel geschleudert wurden"
+      ],
+      "answer": "Gewährte Gnadenfrist bis zum Tag des Jüngsten Gerichts"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

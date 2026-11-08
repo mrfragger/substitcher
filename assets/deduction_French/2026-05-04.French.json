@@ -1,0 +1,61 @@
+{
+  "title": "L'architecte de l'arrogance",
+  "intro": "Dans une contrée antique dominée par une puissance rebelle, un individu de premier plan exerçait une influence considérable. Cette âme joua un rôle déterminant dans les grands projets du souverain, contribuant à son règne oppressif et contestant le message divin. Son héritage est intimement lié à la quête du pouvoir terrestre et au rejet de la vérité.",
+  "clues": [
+    "J'ai servi un dirigeant redoutable qui a opprimé un peuple pendant des générations.",
+    "Mon nom est fréquemment mentionné dans le Livre Divin aux côtés de celui de ce puissant chef.",
+    "On m'a confié un projet de construction grandiose, une structure gigantesque destinée à atteindre les cieux.",
+    "J'ai conseillé à mon maître de tuer les fils des Enfants d'Israël et d'épargner leurs filles.",
+    "J'ai participé à des complots et des conspirations contre un puissant messager d'Allah.",
+    "Ma fin, ainsi que celle de mon maître et de son armée, survint dans les eaux d'une vaste mer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Nimrod",
+        "Abraham",
+        "Goliath",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Être mis à l'épreuve par une immense richesse",
+        "Mener une armée contre une maison sacrée",
+        "Construire une tour pour atteindre Dieu",
+        "Être jetés au feu pour leur foi",
+        "Être jeté dans un puits par ses frères et sœurs"
+      ],
+      "answer": "Construire une tour pour atteindre Dieu"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "La montagne",
+        "La Tour",
+        "La baleine"
+      ],
+      "answer": "La Tour"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Se voir accorder une immense sagesse",
+        "Devenir prophète",
+        "Être englouti par la terre",
+        "Se voir accorder un royaume",
+        "Se noyer dans la mer"
+      ],
+      "answer": "Se noyer dans la mer"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

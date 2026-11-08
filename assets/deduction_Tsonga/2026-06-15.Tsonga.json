@@ -1,0 +1,61 @@
+{
+  "title": "Vulawuri bya Moya ni Langavi",
+  "intro": "Anakanya hi vulawuri laha moya hi woxe wu hlamulaka mufumi un’we, laha marito ya swivumbiwa leswitsongo swinene a ma rhwala ntiko, ni laha matimba lama nga voniwiki hi mahlo lama tolovelekeke ma khomiweke entirhweni wa vukheta. Xifaniso lexi xi kume ndzhaka ya mfumo lowu nga tolovelekangiki eka mufambisi la rhandzekaka, loyi a a ri ni matimba ehenhla ka swiaki ni majini. Kambe vulawuri lebyikulu byi tile na miringo leyikulu — naswona nkarhi wo hetelela a wu ta paluxa nchumu wo hlamarisa hi muxaka wa vutomi na rifu hi roxe.",
+  "clues": [
+    "Ndzi kume ndzhaka ya mfumo lowukulu eka mutswari la rhandzekaka loyi na yena a a ri muprofeta ni nandza wa Allah.",
+    "Allah u ndzi nyike vulawuri ehenhla ka moya, a wu rhumela eka mintirho ya riendzo ra n’hweti hi mixo wun’we.",
+    "Hambi ku ri swivumbiwa leswitsongo swinene a swi ta vulavula hi ndlela leyi ndzi tshinelaka ha yona, naswona a ndzi yimanyana ndzi hlamarisiwa hi ku lemuka ka swona.",
+    "A ndzi lerisa vuthu lerikulu ra majini, vanhu ni swinyenyana, hinkwaswo swi hlelekile hi ku hleleka emahlweni ka mina.",
+    "Mufumi un’wana wa le kule u tile a ta ndzi ringa hi ntlhontlho wo tika, naswona ndzi endle leswaku xiluvelo xa mufumi yoloye xi tisiwa ehubyeni ya mina muendzi a nga si pfuka hambi ku ri exitshan’weni.",
+    "Ndzi tshamile ndzi yimile, ndzi titshege hi nhonga, ku kondza xivumbiwa lexitsongo xa misava xi yi rhurhumela — naswona hi kona ntsena laha lava a va ndzi rhendzerile va swi xiyeke leswaku ndzi hundzile."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Muprofeta Sulayman (Solomoni) .",
+        "Muprofeta Dawud (David) .",
+        "Muprofeta Isa (Yesu) .",
+        "Muprofeta Muhammad صلى الله عليه وسلم",
+        "Muprofeta Musa (Muxe) ."
+      ],
+      "answer": "Muprofeta Sulayman (Solomoni) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku tisa xiluvelo xa hosi ya xisati xa le kule hi tindlela leti tlulaka ta ntumbuluko",
+        "Ku ehlisiwa exihlobyeni lexi dzikeke loko wa ha ri n’wana",
+        "Ku langutana ni vangoma va mufumi wa tihanyi hi swikombiso swa masingita",
+        "Ku vulavula a ri exibedlhele ku sirhelela ku xiximiwa ka manana",
+        "Ku amukela tsalwa ro hetelela leri paluxiweke entshaveni yo kwetsima"
+      ],
+      "answer": "Ku tisa xiluvelo xa hosi ya xisati xa le kule hi tindlela leti tlulaka ta ntumbuluko"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Nhonga ya mapulanga yi rhurhumerile hi xitsotswana lexi vuriwaka termite",
+        "Ngalava leyikulu leyi akiweke leswaku yi khandziya ndhambi ya misava hinkwayo",
+        "Nhonga leyi hundzukeke nyoka emahlweni ka mufumi wa tihanyi",
+        "Xiphemu xa lapi lexi tirhisiwaka ku horisa lava feke mahlo",
+        "Bako ro kwetsima laha nhlavutelo yi amukeriweke ro sungula"
+      ],
+      "answer": "Nhonga ya mapulanga yi rhurhumerile hi xitsotswana lexi vuriwaka termite"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Mufumi wa xiyimo xa le henhla la endzeleke u amukele ripfumelo endzhaku ko vona swikombiso",
+        "Ndhambi leyikulu yi lovise vanhu hinkwavo handle ka vapfumeri lava a va ri eka ngalava",
+        "Faro ni vuthu rakwe va lovile elwandle",
+        "Munghana wo lulama u tlakusiwile ematilweni",
+        "Hosi ya tihanyi ni muti wa yona va mbundzumuxiwile ivi va lovisiwa"
+      ],
+      "answer": "Mufumi wa xiyimo xa le henhla la endzeleke u amukele ripfumelo endzhaku ko vona swikombiso"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

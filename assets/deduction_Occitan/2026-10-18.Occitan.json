@@ -1,0 +1,61 @@
+{
+  "title": "La bona novèla dins la vièlha edat",
+  "intro": "Assistís a un moment ont l'espèr es reviscolat. Un coble, longtemps passat l'edat de paternitat, receb una promessa que desfís las leis de la natura. Al mitan d'eles se tròba una figura que son existéncia es un signe de misericòrdia divina — una anma destinada a la profecia, portant un legat que s'espandirà sus de generacions. Qual es aquel individú remarcable?",
+  "clues": [
+    "Nasquèri de parents qu'avián atench la vielhesa e avián pas d'enfants.",
+    "Ma naissença foguèt anonciada per d'angèls que venguèron coma convidats a ma familha.",
+    "Me foguèt donada la saviesa e la profecia, e soi mencionat demest los pacients.",
+    "Mon paire èra nomenat l'amic d'Allah, e li èri un present dins sos darrièrs ans.",
+    "Aviái un fraire qu'èra tanben un profèta, e foguèrem totes dos benesits per nòstre Senhor.",
+    "Mon filh èra tanben un profèta, e mos descendents recebèron l'escritura e la profecia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo profèta Isaac (Isaac)",
+        "Lo profèta Ismail (Ishmael)",
+        "Profèta Yaqub (Jacob)",
+        "Profèta Yahya (Joan)",
+        "Lo profèta Uzair (Ezra)"
+      ],
+      "answer": "Lo profèta Isaac (Isaac)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Nascut de parents vièlhs",
+        "Getat dins un fuòc",
+        "Donat un reialme e una riquesa",
+        "Menèt son pòble fòra d'Egipte",
+        "Bastiguèt una arca per salvar los cresents"
+      ],
+      "answer": "Nascut de parents vièlhs"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Las bonas novèlas d'un filh",
+        "L'arbust ardent",
+        "Lo vedèl d'aur",
+        "L'arca de l'aliança",
+        "Lo personal de la profecia"
+      ],
+      "answer": "Las bonas novèlas d'un filh"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Venguèt un profèta amb un linhatge de profètas",
+        "Venguèt un rei ric",
+        "Son pòble foguèt destruch per incredulitat",
+        "Foguèt salvat del fuòc",
+        "Li foguèt donada la capacitat de parlar coma un nenon"
+      ],
+      "answer": "Venguèt un profèta amb un linhatge de profètas"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

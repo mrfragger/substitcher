@@ -1,0 +1,61 @@
+{
+  "title": "An Echo eus ribl ar gêr",
+  "intro": "En ur gêr a zistroas diouzh ar c'helenn doueel, e teuas un den digenvez eus ar maez, o redek gant ur gemennadenn a esperañs hag a evezh. An ene ankounac'haet-se a zeufe da vezañ un arouez peurbadus eus ar feiz start.",
+  "clues": [
+    "Gwelet em eus kannaded o vezañ kaset d'am c'hêr, met ma dud o deus disprizet anezho evel tud ordinal.",
+    "Krediñ a raen en o c'hemennadenn ha santout a raen ar wirionez o skeiñ em c'horf.",
+    "Galvet em eus va fobl da sentiñ ouzh ar gannaded na c'houlennent gopr ebet.",
+    "Tec'het em eus eus penn pellañ kêr, o klask lakaat anezho da welet abeg.",
+    "Va fobl a savas a-enep din, ha me a voe lazhet, met kavet em eus ar peoc'h peurbadus.",
+    "Allah a lavaras din : « Mont e-barzh ar Baradoz », ha c'hoant am boa e c'hallje ma fobl bezañ test eus an enor roet din."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Kredennour Ya-Sin",
+        "Uzair ar Goulennour",
+        "Al-Khidr ar C'helenner",
+        "Kredennour tiegezh Faraon",
+        "Namrud an Tirant"
+      ],
+      "answer": "Kredennour Ya-Sin"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "En em gavout ouzh ur bobl dic'hred en deus e lazhet",
+        "Bezañ taolet en un tan flamm",
+        "Bezañ lonket gant ur pesk bras",
+        "O sevel un arc'h bras-meurbet",
+        "Tec'hout dirak arme un tirant"
+      ],
+      "answer": "En em gavout ouzh ur bobl dic'hred en deus e lazhet"
+    },
+    "location": {
+      "label": "Lec'hiadur alc'hwez",
+      "options": [
+        "Penn pellañ kêr |",
+        "Menez Tur",
+        "Traoñienn ar Merzhed",
+        "Ribloù an Nil",
+        "Kavern ar c'hav"
+      ],
+      "answer": "Penn pellañ kêr |"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Merzerenti ha mont e-barzh diouzhtu er Baradoz",
+        "Tec'hout ha silvidigezh",
+        "Pignad d'an neñvoù",
+        "Beuzet er mor",
+        "O treiñ e maen"
+      ],
+      "answer": "Merzerenti ha mont e-barzh diouzhtu er Baradoz"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

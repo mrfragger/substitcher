@@ -1,0 +1,61 @@
+{
+  "title": "Vocea tăcută din Cameră",
+  "intro": "O rugăciune a răsunat în liniștea unei camere sacre de demult, ridicându-se dintr-un suflet îmbătrânit care tânjea după ceea ce lumea declarase imposibil. Această figură, înaintată în vârstă și împovărată de îngrijorări pentru viitor, s-a îndreptat către Domnul lor cu o implorare personală. Ceea ce a urmat a fost un răspuns divin care a sfidat orice așteptare firească - o dovadă a milei Celui care răspunde chemării disperate.",
+  "clues": [
+    "L-am chemat pe Domnul meu în taină, retrăgându-mă într-o cameră unde m-am dedicat închinării Sale.",
+    "I-am mărturisit Domnului meu că mă temeam pentru cei care aveau să vină după mine, că îmi făceam griji pentru îndrumarea poporului meu odată ce plecasem.",
+    "Bătrânețea mă cuprinsese — oasele îmi slăbiseră și părul alb mi se răspândise pe cap.",
+    "Soția mea fusese stearpă toată viața ei, și totuși i-am cerut Domnului să-mi acorde un moștenitor din prezența Lui.",
+    "Am cerut un semn, iar Domnul meu mi-a răspuns împiedicându-mă să vorbesc cu cineva timp de trei nopți, cât timp am rămas sănătos din punct de vedere fizic.",
+    "Mi s-a promis un fiu al cărui nume va fi Yahya, un nume despre care Domnul meu a declarat că nu mai fusese dat nimănui înainte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Zakariya",
+        "Profetul Nuh",
+        "Profetul Musa",
+        "Profetul Yusuf",
+        "Profetul Dawud"
+      ],
+      "answer": "Profetul Zakariya"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Rugăciune pentru un moștenitor la bătrânețe cu o soție sterilă",
+        "A fi aruncat într-un foc arzător",
+        "Fiind înghițit de un pește mare în întuneric",
+        "Îndurarea pierderii familiei, a averii și a sănătății",
+        "Primind porunca de a construi o arcă mare"
+      ],
+      "answer": "Rugăciune pentru un moștenitor la bătrânețe cu o soție sterilă"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Camera de rugăciune (mihrab)",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O mare arcă de lemn",
+        "O grădină cu un izvor unic",
+        "Un munte unde se adunau păsările"
+      ],
+      "answer": "Camera de rugăciune (mihrab)"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "I s-a acordat un fiu cu un nume miraculos, în ciuda vârstei extreme înaintate",
+        "Salvat dintr-un foc arzător prin poruncă divină",
+        "O mare inundație i-a distrus pe necredincioși",
+        "Restaurat la familie, bogăție și sănătate după răbdare",
+        "Faraonul și armata sa s-au înecat în mare"
+      ],
+      "answer": "I s-a acordat un fiu cu un nume miraculos, în ciuda vârstei extreme înaintate"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

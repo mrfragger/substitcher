@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi ya Subira ya Nyumba Takatifu",
+  "intro": "Katika kurasa za Quran, mtu anajitokeza kutoka kwenye ukoo wa nabii mkuu, aliyepewa kama zawadi katika uzee. Nafsi hii inasifiwa kwa ukweli usioyumba na jukumu kubwa katika kuanzisha patakatifu ambalo lingekuwa taa ya imani. Unaposoma vidokezo, sikiliza kwa makini sauti kutoka zamani, kwani inazungumza katika nafsi ya kwanza.",
+  "clues": [
+    "Nimetajwa katika Quran pamoja na nabii mwingine kama zawadi iliyotolewa kwa mjumbe mzee.",
+    "Nilikuwa mmoja wa watoto wawili waliopewa nabii huyo katika miaka yake ya baadaye.",
+    "Ninasifiwa katika Quran kwa kuwa mwaminifu kwa neno langu.",
+    "Nilikuwa na heshima ya unabii na nilitumwa kama mjumbe.",
+    "Nilijiunga na baba yangu katika kuinua misingi ya Nyumba Takatifu.",
+    "Ninakumbukwa kama mmoja wa wale waliokuwa na subira, na nyumba takatifu tuliyoijenga ikawa mahali pa kurudi na usalama kwa watu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ismail",
+        "Nabii Ishaq",
+        "Nabii Yaqub",
+        "Nabii Zakaria",
+        "Nabii Yahya"
+      ],
+      "answer": "Nabii Ismail"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuinua misingi ya Kaaba na Ibrahim",
+        "Kutupwa motoni",
+        "Kumezwa na nyangumi",
+        "Kuwaongoza Waisraeli kutoka Misri",
+        "Kujenga safina"
+      ],
+      "answer": "Kuinua misingi ya Kaaba na Ibrahim"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kaaba",
+        "Mlima Sinai",
+        "Bahari Nyekundu",
+        "Ndama wa Dhahabu",
+        "Bustani ya Edeni"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Imehesabiwa miongoni mwa wagonjwa",
+        "Kuhesabiwa miongoni mwa wahalifu",
+        "Kuhesabiwa miongoni mwa wachawi",
+        "Kuhesabiwa miongoni mwa wasioamini",
+        "Kuhesabiwa miongoni mwa wanafiki"
+      ],
+      "answer": "Imehesabiwa miongoni mwa wagonjwa"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "An Teachtaire a Thug Aghaidh ar na hÍoladhróirí",
+  "intro": "I ré ina raibh an dílseacht imithe ar seachrán, d’éirigh teachtaire le glaoch chun filleadh ar adhradh Thiarna na saol. Sheas an figiúr seo go daingean in aghaidh daoine a bhí daingnithe in adhradh dia bréagach, ag cur a gCruthaitheoir fíor agus Tiarna a sinsear i gcuimhne dóibh. Ach ní raibh aird ar bith ag na daoine agus dhiúltaigh siad don rabhadh, ag séalú a gcinniúint féin. Cé hé an glaoiteoir neamhchlaonta seo?",
+  "clues": [
+    "Cuireadh mé chuig pobal a bhí tar éis casadh ó chonair an Aon Dé Fíor.",
+    "D’fhiafraigh mé de mo mhuintir, “Nach mbeidh eagla oraibh ar Allah?”",
+    "D’iarr mé orthu a n-adhradh de dhia bréagach darb ainm Baal a thréigean.",
+    "Dhiúltaigh mo mhuintir do mo ghlao agus lean siad orthu lena n-íodaladhradh.",
+    "Mar gheall ar a séanadh, is cinnte go dtabharfar chun cinn iad le haghaidh pionóis.",
+    "Thug mo Thiarna síocháin dom agus cuimhne bheannaithe i measc na nglún ina dhiaidh sin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Ilyas",
+        "An Fáidh Yahya",
+        "Fáidh Dhul-Kifl",
+        "Fáidh Iósaf",
+        "Fáidh Shu'ayb"
+      ],
+      "answer": "An Fáidh Ilyas"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ghlaoigh sé ar a mhuintir Baal a thréigean",
+        "Thóg sé áirc chun na creidmhigh a shábháil",
+        "Caitheadh ​​isteach sa tine é",
+        "Theith sé ón tíoránach Pharao",
+        "Bhuail sé carraig chun uisce a thabhairt amach"
+      ],
+      "answer": "Ghlaoigh sé ar a mhuintir Baal a thréigean"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Deonaíodh síocháin agus cuimhneachán beannaithe",
+        "Slogtha ag an talamh",
+        "Scriosta ag stoirm fhoréigneach",
+        "Iompú ina chloch",
+        "Báite sa bhfarraige"
+      ],
+      "answer": "Deonaíodh síocháin agus cuimhneachán beannaithe"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

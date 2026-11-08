@@ -1,0 +1,61 @@
+{
+  "title": "Müra kohal kuuldud kaebus",
+  "intro": "Sa kuuled häält tõusmas ühiskonnast, kus rõhumine on muutunud rutiiniks. Kaebusele ei vastata võimudemonstratsiooniga; selle asemel jõuab otsene pöördumine Allahini ja vastus tabab jumalateenistuse enda südant. Kes selle kaebuse esitas, milline küsimus järgnes ja millist tõde kinnitati?",
+  "clues": [
+    "Mind hakkas häirima ümbritsevate inimeste rõhumine.",
+    "Esitasin selle kaebuse otse Allahile isiklikus kaebuses.",
+    "Allah kuulis kaebust ja vastas väljakutsega minu enda usu kohta.",
+    "Vastuses küsiti, kuidas ma saan mitte uskuda Allahi, kes on Üks ja Kõrgeim.",
+    "Seejärel küsisin, miks peaks Allah soosima inimesi, kes uskmatud on.",
+    "Mina olen Uzair, keda suuras Az-Zukhruf nimetatakse selleks, kelle kaebust Allah kuulis."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Uzair",
+        "Kaaslane, kes purjetas suurel üleujutusel",
+        "Teener, kes kõndis vee peal",
+        "Magaja oli koopas kaitstud",
+        "Teener, kes tõi jõkke kive"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Allahile rahva rõhumise pärast kaebamine",
+        "Tormi ajal vee peal kõndimine",
+        "Kivide vedamine jõkke, kus puudus vesi",
+        "Purjetades läbi suure üleujutuse Arki pardal",
+        "Tohutu aarde võtme saamine"
+      ],
+      "answer": "Allahile rahva rõhumise pärast kaebamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Otse Allahile adresseeritud kaebus",
+        "Personali, mis muutus maoks",
+        "Ahi, mis on jahe ja rahulik",
+        "Laev hõljub üleujutusvete kohal",
+        "Kala neelas teenija alla"
+      ],
+      "answer": "Otse Allahile adresseeritud kaebus"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Allah kuulis kaebust ja kinnitas jumalikku ühtsust ja kõrgeimat isandat",
+        "Tormi ajal vee peal ohutult kõndimine",
+        "Suure üleujutuse ohutu ületamine Arki pardal",
+        "Nägemise taastamine ülbuse palees",
+        "Idast läände ulatuva võimu saamine"
+      ],
+      "answer": "Allah kuulis kaebust ja kinnitas jumalikku ühtsust ja kõrgeimat isandat"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

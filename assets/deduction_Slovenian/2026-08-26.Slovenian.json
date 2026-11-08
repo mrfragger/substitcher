@@ -1,0 +1,61 @@
+{
+  "title": "Zavist, ki je požrla",
+  "intro": "Zgodba, starejša od katerega koli kraljestva ali svetega pisma – prva človeška tragedija, rojena iz ljubosumja. Ena duša, starejša od dveh otrok, rojenih prvima staršema, je besno opazovala, kako je mlajši brat prejel naklonjenost, ki mu je bila odrečena. Sledila je najtemnejša odločitev, ki je za seboj pustila prvo prelito kri na zemlji. Ali lahko odkrijete identiteto, preizkušnjo in grenko obžalovanje?",
+  "clues": [
+    "Rodil sem se kot prvi par ljudi, ki je hodil po zemlji.",
+    "Nekoč sem Alahu daroval daritev, vendar ni bila sprejeta od mene.",
+    "Dar mojega brata ali sestre je bil sprejet, moj pa zavrnjen – česar nisem mogel prenesti.",
+    "Svojemu bratu sem grozil z uničenjem.",
+    "Postal sem prvi, ki je zagrešil umor na tej zemlji, vzel sem življenje lastnemu bratu ali sestri.",
+    "Alah je poslal bitje zemlje – črno ptico, ki je ropala v zemljo – da bi me naučila, kako skriti, kar sem storil, in ni mi ostalo nič drugega kot obžalovanje."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Kabil (Kain)",
+        "Habil (Abel)",
+        "Prerok Jakub",
+        "Prerok Musa",
+        "Prerok Adam"
+      ],
+      "answer": "Kabil (Kain)"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Daritev, ki jo je Allah zavrnil",
+        "Vrženi v velik ogenj",
+        "Zapuščen kot dojenček v reki",
+        "Preizkušen z neizmernim kraljestvom",
+        "Ukazano žrtvovati sina"
+      ],
+      "answer": "Daritev, ki jo je Allah zavrnil"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vrana, ki jo je poslal Alah",
+        "Zlato tele",
+        "Barka na gori",
+        "Goreči grm",
+        "Kamela, izklesana iz skale"
+      ],
+      "answer": "Vrana, ki jo je poslal Alah"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Postal sem poln obžalovanja in med poraženci",
+        "Pogoltnjena v zemljo skupaj z zakladi",
+        "Postal je plemenit Alahov poslanec",
+        "Vstopil v raj po božjem usmiljenju",
+        "Vladal je neprekosljivemu kraljestvu"
+      ],
+      "answer": "Postal sem poln obžalovanja in med poraženci"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

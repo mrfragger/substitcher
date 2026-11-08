@@ -1,0 +1,61 @@
+{
+  "title": "Małe ostrzeżenie przed maszerującym wojskiem",
+  "intro": "Wejdź do doliny, gdzie zbliża się potężny władca i niezmierzona armia, i wyobraź sobie małego wędrowca, który ostrzega całą społeczność. Gdy zagrożona społeczność znajduje schronienie, niebezpieczeństwo mija. Podążaj za wskazówkami, aby zidentyfikować przeoczoną postać kryjącą się za tym ostrzeżeniem.",
+  "clues": [
+    "Należę do małych stworzeń kojarzonych z królestwem władcy.",
+    "Moja społeczność żyje w domach położonych w dolinie, gdzie każdy z nas może wzywać pozostałych.",
+    "Grozi nam niebezpieczeństwo ze strony władcy i armii, które mu towarzyszą.",
+    "Jestem tym, który wzywa moją społeczność do wejścia do swoich mieszkań i ostrzega nas, abyśmy nie zostali nieświadomie zmiażdżeni.",
+    "Władcą jest Sulayman, a mój gatunek należy do stworzeń podlegających jego dowództwu.",
+    "Jestem mrówką z tej doliny; po moim ostrzeżeniu weszliśmy do naszych mieszkań i uniknęliśmy zmiażdżenia, które w przeciwnym razie zaskoczyłoby nas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Mrówka z Doliny",
+        "Dudek",
+        "Kruk",
+        "Wąż",
+        "Muł"
+      ],
+      "answer": "Mrówka z Doliny"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Ostrzeżenie, które ocaliło społeczność mrówek",
+        "Prośba o pierścionek od ryby",
+        "Poszukiwania zaginionego tronu",
+        "Ratowanie skradzionych oczu",
+        "Odmowa spożycia posiłku władcy"
+      ],
+      "answer": "Ostrzeżenie, które ocaliło społeczność mrówek"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Dolina Mrówek",
+        "Pierścień sygnetowy Sulaymana",
+        "Zakrwawiona koszula Yusufa",
+        "Złoty cielec Exodusu",
+        "Laska Musy"
+      ],
+      "answer": "Dolina Mrówek"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Społeczność została oszczędzona po znalezieniu schronienia",
+        "Społeczność została zniszczona bez schronienia",
+        "Społeczność została oszczędzona, ponieważ armia się wycofała",
+        "Społeczność została nagrodzona kontrolą nad ptakami",
+        "Społeczność została wzięta do niewoli na dwór królewski"
+      ],
+      "answer": "Społeczność została oszczędzona po znalezieniu schronienia"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe la Boammaaruri la Metlha ya Bogologolo",
+  "intro": "Go na le moya mo Quran o kgang ya one e anelwang ka ditemana di le mmalwa fela, le fa go ntse jalo dinonofo tsa one tse di tlotlegang di phatsima ka tlhamalalo e e phatsimang. A akgolwa ke Mothatayotlhe ka ntlha ya bontle jo bo kgethegileng, motlhanka yono wa bogologolo wa Moutlwelobotlhoko o tshotse lefelo mo ditsebeng tsa tshenolo. Tiro ya gago ke go supa palo eno e e gakgamatsang. A o ka fopholetsa gore ke bomang?",
+  "clues": [
+    "Ke moporofeta wa ga Allah yo o neng a tshela mo gare ga dikokomana tsa ntlha tsa batho.",
+    "Allah o ne a nkamaka mo Bukeng ya Gagwe le baporofeti ba bangwe, botlhe ba akgolwa ka ntlha ya bontle jo bo tshwanang jo bo tlotlegang.",
+    "Ke tlhalosiwa ke le monna wa boammaaruri mo Quran.",
+    "Allah o ntsholetse kwa maemong a a kwa godimo a batho ba le mmalwa fela ba a fitlheletseng.",
+    "Leina la me le umakiwa mo go Surah Al-Anbiya, le kopantswe le baporofeti ba bangwe ba babedi ba ba akgolelwang bopelotelele jwa bone.",
+    "Ke nna Idris, moporofeta wa nnete le yo o kwa godimo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Idris",
+        "Moporofeti Nuh",
+        "Moporofeti Ibrahime",
+        "Moporofeti Musa",
+        "Moporofeti Ismail"
+      ],
+      "answer": "Moporofeti Idris"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go nna pelotelele le go bua boammaaruri, morago ga moo a tlhatlosediwa kwa maemong a a kwa godimo .",
+        "Go aga araka e kgolo go boloka badumedi mo morwaleleng o o senyang",
+        "Go latlhelwa mo molelong o o tukang le go tswa o sa gobala gotlhelele",
+        "Go lebana le kgosi e e nonofileng le go fenya mophato wa yone wa maselamotse",
+        "Go tshela mo teng ga mpa ya tlhapi e kgolo kwa botennyeng jwa lewatle"
+      ],
+      "answer": "Go nna pelotelele le go bua boammaaruri, morago ga moo a tlhatlosediwa kwa maemong a a kwa godimo ."
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Seteišene se se kwa godimo le se se godisitsweng ke Allah",
+        "Sekepe se segolo se se agilweng ka mapolanka mme se tshetswe sekontiri",
+        "Molelo o o tukang o o tukang ke baobamedi ba medimo ya disetwa ba kgosi e e boikepo",
+        "Lewatle le legolo le le neng la kgaogana go nna ditselana tse di omileng",
+        "Mpa e ntsho ya leruarua le legolo kwa tlase ga lewatle"
+      ],
+      "answer": "Seteišene se se kwa godimo le se se godisitsweng ke Allah"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O amogetswe mo kutlwelobotlhokong ya ga Allah jaaka mongwe wa basiami",
+        "A pholositswe mmogo le badumedi botlhe mo morwaleleng wa lefatshe ka bophara",
+        "O dule mo dikgabong a sa amiwa ke molelo",
+        "O eteletse Bana ba Iseraele pele ka pabalesego go ya kwa kgololesegong go kgabaganya lewatle",
+        "Ba kopane gape le lelapa la bone le le rategang morago ga dingwaga di le dintsi ba le mo mathateng"
+      ],
+      "answer": "O amogetswe mo kutlwelobotlhokong ya ga Allah jaaka mongwe wa basiami"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

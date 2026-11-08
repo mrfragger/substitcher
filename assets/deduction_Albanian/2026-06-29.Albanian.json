@@ -1,0 +1,61 @@
+{
+  "title": "Shpirti i Duruar",
+  "intro": "Në analet e profetësisë, ekzistonte një shpirt, durimi i të cilit ishte i ngulitur në vetë strukturën e qenies së tij. Përmes lotëve dhe kohës, ata u përmbajtën fort shpresës, duke u bërë një shembull i përjetshëm i besimit në urtësinë hyjnore. A mund ta zbuloni misterin e kësaj figure të palëkundur?",
+  "clues": [
+    "Unë linda në një familje profetësh, megjithatë sprova ime më e madhe erdhi nëpërmjet fëmijës që e doja më shumë.",
+    "Mora një paralajmërim për xhelozi nga një ëndërr që ndau djali im, dhe kisha frikë për sigurinë e tij.",
+    "Sytë e mi u zbardhën nga trishtimi, megjithatë kurrë nuk e humba besimin në mëshirën e Allahut.",
+    "Aroma e fëmijës tim të zhdukur më arriti nga larg, dhe atëherë e dija se ribashkimi ishte afër.",
+    "Familja ime u përkul në shenjë mirënjohjeje kur vizioni i lashtë u përmbush dhe shikimi im u rikthye.",
+    "Unë jam ai që më dhanë një këmishë të njollosur me gjak, vetëm për të marrë më vonë një këmishë që më shëroi shikimin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Ibrahim",
+        "Profeti Is’hak",
+        "Profeti Jakub",
+        "Profeti Jusuf",
+        "Profeti Ejub"
+      ],
+      "answer": "Profeti Jakub"
+    },
+    "trial": {
+      "label": "Gjyqi vendimtar",
+      "options": [
+        "Ndarja nga një fëmijë i dashur dhe humbja e shikimit",
+        "Duke u hedhur në një zjarr të ndezur",
+        "Të gëlltitur nga një peshk i madh",
+        "Durimi i humbjes së pasurisë, fëmijëve dhe shëndetit",
+        "Duke u tradhtuar nga vëllezërit e tij dhe duke u hedhur në një pus"
+      ],
+      "answer": "Ndarja nga një fëmijë i dashur dhe humbja e shikimit"
+    },
+    "location": {
+      "label": "Objekti Simbolik",
+      "options": [
+        "Një bluzë që fillimisht fshehu të vërtetën dhe pastaj e zbuloi atë",
+        "Një shkop që u bë gjarpër",
+        "Një balenë që gëlltiti një profet",
+        "Një zjarr që u bë i ftohtë",
+        "Një palë sandale në shkurren që digjet"
+      ],
+      "answer": "Një bluzë që fillimisht fshehu të vërtetën dhe pastaj e zbuloi atë"
+    },
+    "outcome": {
+      "label": "Vendimi Hyjnor",
+      "options": [
+        "Ribashkim me një të dashur të humbur dhe rikthim i shikimit",
+        "Shpëtimi nga një komb shtypës",
+        "Çlirimi nga barku i një peshku",
+        "Shpëtimi nga një zjarr i ndezur",
+        "Ngjitja në një fron të madh"
+      ],
+      "answer": "Ribashkim me një të dashur të humbur dhe rikthim i shikimit"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Runsaan sadon kirous",
+  "intro": "Muinaisessa maassa eräs sielu oli yhteisönsä rikkaimpien joukossa. Heille oli tullut kaksi kertaa enemmän maan siunauksia peräkkäisinä vuosina, kaksinkertainen sato, jonka olisi pitänyt täyttää heidän sydämensä kiitollisuudella. Mutta kun tragedia iski ja kaikki heidän omaisuutensa vietiin yhdessä yössä, heidän reaktionsa paljasti heidän sielujensa todellisen luonteen. Voitko paljastaa tämän hahmon henkilöllisyyden, jonka tarina toimii varoituksena epäuskosta Allahin siunauksiin?",
+  "clues": [
+    "Olin yksi maan onnekkaimmista sieluista, siunattu runsain elintarvikkein.",
+    "Sato tuli minulle kahdesti kahden vuoden aikana, mutta sydämeni pysyi kiittämättömänä Herraani kohtaan.",
+    "Minulla oli suuri puutarha, jossa kasvoi viiniköynnöksiä, oliiveja ja palmuja – osoitus Allahin suosiosta.",
+    "Kun puutarhani tuhoutui, seisoin sen raunioissa kädet taivasta kohti ojennettuina ja kirosin kohtaloani.",
+    "Kielsin, että Allah olisi voinut aiheuttaa sellaisen menetyksen, vaikka murskasinkin käteni epätoivossa.",
+    "Rangaistukseni ei ollut pelkästään puutarhani menetys, vaan se, että minut jätettiin täysin avuttomaksi sen raunioihin, kykenemättä kutsumaan ketään auttajaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Puutarhan omistaja suurassa 26",
+        "Kahden puutarhan omistaja kaukaisesta maasta",
+        "Varakas sielu vaurauden kaupungista",
+        "Surah Al-Kahfissa mainittu maanviljelijä",
+        "Viinitarhan hoitaja profeetta Shu'aibin ajalta"
+      ],
+      "answer": "Puutarhan omistaja suurassa 26"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Puutarhan menetys tuhoutui yhdessä yössä",
+        "Suuri tulva, joka peitti maan",
+        "Todellisten ja väärien profeettojen koettelu",
+        "Tuleen heittämisen koettelemus",
+        "Maan nielaisemisen koettelemus"
+      ],
+      "answer": "Puutarhan menetys tuhoutui yhdessä yössä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kahden vuoden aikana tuhoutunut puutarha, jossa kasvoi viiniköynnöksiä, oliiveja ja palmuja",
+        "Korkealle vuorelle rakennettu laiva",
+        "Rikkovan kansakunnan kaupunki",
+        "Kaivo muinaisessa Midianissa",
+        "Paratiisin joki"
+      ],
+      "answer": "Kahden vuoden aikana tuhoutunut puutarha, jossa kasvoi viiniköynnöksiä, oliiveja ja palmuja"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Täydellinen avuttomuus – tuhoutunut ilman auttajaa",
+        "Ylösnousemus paratiisiin pääsemiseksi",
+        "Allahin profeetan tuleminen",
+        "Suuren kansakunnan johtajuus",
+        "Ikuinen rangaistus tulessa"
+      ],
+      "answer": "Täydellinen avuttomuus – tuhoutunut ilman auttajaa"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

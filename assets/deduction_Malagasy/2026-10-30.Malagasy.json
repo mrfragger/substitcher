@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fiambenan'ny Ory",
+  "intro": "Hihaona amin'ny fanahy iray izay nosedraina tamin'ny fisarahana lalina indrindra ianao, izay nahafantatra ny fitenin'ny ranomaso ny masony nefa tsy very fanantenana mihitsy ny fony. Tao anatin'ny tantaran'ny fitaka, ny faniriana ary ny fihaonana indray, ity mpanompon'i Allah mendri-kaja ity dia lasa mariky ny faharetana mandrakizay. Iza no niaritra ireo taona maro nisian'ny fanaintainana miafina, nefa nahita indray ny masony sy ny fifaliana tao anatin'ny indray mipi-maso?",
+  "clues": [
+    "Mpaminany aho izay lasa mariky ny faharetana eo anatrehan'ny fahaverezana lehibe ny anarany.",
+    "Notahina tamin'ny zanakalahy maro aho, saingy nisy iray nalain'ny fialonan'ny hafa tamiko.",
+    "Lalina dia lalina ny fitiavako an'io very io ka nivadika fotsy ny masoko noho ny alahelo, nefa tsy mba nitaraina aho afa-tsy tamin'i Allah.",
+    "Nirahiko niverina nitady ilay very tamiko sy ny rahalahiny ireo zanako lahy, sady nampirisika azy ireo mba tsy ho kivy.",
+    "Rehefa tonga ilay nitondra ny vaovao tsara dia nisy lobaka nanarona ny tarehiko, ary tampoka teo dia nazava indray izao tontolo izao.",
+    "Israely no anarako, ary avy amin’ireo zanako lahy roa ambin’ny folo no niavian’ireo foko roa ambin’ny folo an’ny firenena lehibe iray."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Jakoba (Jakoba)",
+        "Mpaminany Yusuf (Josefa)",
+        "Mpaminany Isaka (Isaka)",
+        "Mpaminany Ibrahim (Abrahama)",
+        "Mpaminany Ayyub (Joba)"
+      ],
+      "answer": "Mpaminany Jakoba (Jakoba)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Fisarahana tamin'ny zanaka malala nandritra ny taona maro",
+        "Atsipy ao anaty afo mirehitra",
+        "Natelina trondro lehibe iray",
+        "Voan'ny aretin-koditra mafy",
+        "Tsy manan-janaka mandra-pahantitra"
+      ],
+      "answer": "Fisarahana tamin'ny zanaka malala nandritra ny taona maro"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny lobaka an'i Yusuf",
+        "Ny mpiasan'i Musa",
+        "Ny sambofiaran'i Noa",
+        "Ny ramevavavy an'i Salih",
+        "Ny peratra an'i Sulayman"
+      ],
+      "answer": "Ny lobaka an'i Yusuf"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Naverina tamin'ny laoniny ny fahitana ary nihaona indray tamin'ny zanany lahy",
+        "Nahazo fandresena tamin'ny mpanjaka jadona",
+        "Natsangana velona any an-danitra",
+        "Voatendry ho mpitondra an'i Ejipta",
+        "Fahagagana ny fanomezana zanakalahy rehefa antitra"
+      ],
+      "answer": "Naverina tamin'ny laoniny ny fahitana ary nihaona indray tamin'ny zanany lahy"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

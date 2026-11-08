@@ -1,0 +1,61 @@
+{
+  "title": "Den osläckliga lågans väktare",
+  "intro": "En gestalt står vid tröskeln till den mest fruktade platsen i det osynliga, anförtrodd en plikt som ingen annan varelse önskar. När lidande själar ropar om nåd, ekar ett strängt svar genom eldens kammare. Kan du avslöja identiteten på denne eviga väktare?",
+  "clues": [
+    "Jag står vid ingången till en skrämmande plats av straff i det osynliga.",
+    "En flammande, outsläcklig eld är mittpunkten i min högtidliga plikt.",
+    "Lidande själar ropar mitt namn och ber om lindring från sin oändliga plåga.",
+    "När de vädjar, förklarar jag att de aldrig ska ge sig av.",
+    "Jag är varken människa eller djinn – jag är en skapad varelse av ren lydnad.",
+    "Jag är den överste ängeln som utsetts till Helveteseldens eviga väktare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Helvetets folk vädjar om att deras plåga ska få ett slut",
+        "Trumpeten blåses för att signalera domens dag",
+        "Koranen uppenbarades för profetens hjärta",
+        "En profet kastas i en stor eld av sitt folk",
+        "En mäktig mur byggs för att hålla tillbaka en korrumperad nation"
+      ],
+      "answer": "Helvetets folk vädjar om att deras plåga ska få ett slut"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Helveteselden (Jahannam)",
+        "Loteträdet vid gränsen till paradiset",
+        "En genomträngande trumpet",
+        "En stav som förvandlas till en orm",
+        "En magnifik gudomlig tron"
+      ],
+      "answer": "Helveteselden (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Helvetets invånare får höra att de kommer att förbli för evigt",
+        "Helvetets invånare är förlåtna och befriade",
+        "Helvetets invånare får en andra chans till tro",
+        "Helvetets invånare förflyttas till en plats av svalka",
+        "Helvetets invånare förintas fullständigt av en åskblixt"
+      ],
+      "answer": "Helvetets invånare får höra att de kommer att förbli för evigt"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

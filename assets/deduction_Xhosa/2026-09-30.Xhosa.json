@@ -1,0 +1,61 @@
+{
+  "title": "Isigulane",
+  "intro": "Kudala, ngemihla yokuqala yembali yoluntu, imiphefumlo emibini yayimi phambi koMdali wayo ineminikelo. Omnye wamkelwe, omnye akamkelwa. Okwalandela emva koko kwaba yintlekele yokuqala enkulu phakathi kwabazalwana noodade - isenzo esinye sokuzibamba ngomonde kunye nesenzo esinye sokuziphindezela okukrakra. Ungandityhila ukuba ndingubani?",
+  "clues": [
+    "Ndazalwa kwiintsuku zokuqala zobomi bomntu emhlabeni",
+    "Ndandingumntwana wabantu bokuqala ukuhamba apha emhlabeni",
+    "Ndakha ndanikela umbingelelo kwimfuyo yam eyona ilungileyo ukuze ndikholise uMdali wam",
+    "Umnikelo wam wamkelwa phezulu, ngoxa umnikelo womntakwethu walahlwa",
+    "Xa ndandisongelwa ngokufa, ndakhetha ukungaphakamisi isandla sam nxamnye nomntakwabo",
+    "Ndaba ngumntu wokuqala kwimbali yoluntu ukubulawa ngomnye umntu ngokungekho mthethweni"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UHabil (uAbheli), unyana ka-Adam",
+        "UQabil (uKayin), unyana ka-Adam",
+        "UAdam, umntu wokuqala",
+        "Nuh (uNowa)",
+        "U-Ibrahim (uAbraham)"
+      ],
+      "answer": "UHabil (uAbheli), unyana ka-Adam"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukubulala kokuqala kwimbali yoluntu",
+        "Umkhukula omkhulu kaNuh",
+        "Ukutshatyalaliswa komkhosi kaFirawn",
+        "Umbingelelo ka-Ismail ngu-Ibrahim",
+        "Idabi nxamnye noYaluti (uGoliyati)"
+      ],
+      "answer": "Ukubulala kokuqala kwimbali yoluntu"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Igusha enikelwa njengombingelelo omnandi",
+        "Umkhombe omkhulu womthi",
+        "Intonga eyajika yaba yinyoka",
+        "Intaka ephethe umyalezo wasebukhosini",
+        "Umsele womlilo ovuthayo"
+      ],
+      "answer": "Igusha enikelwa njengombingelelo omnandi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Waba lixhoba lokuqala lokubulawa kwimbali yoluntu",
+        "Wasinda kwisikhukula esikhulu ngaphakathi kwinqanawa eyenziwe ngomthi",
+        "Wayehlala esiswini sentlanzi enkulu",
+        "Walawula iinjin, abantu, nomoya",
+        "Wazulazula iminyaka engamashumi amane entlango enkulu"
+      ],
+      "answer": "Waba lixhoba lokuqala lokubulawa kwimbali yoluntu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

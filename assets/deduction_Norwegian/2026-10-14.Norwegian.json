@@ -1,0 +1,61 @@
+{
+  "title": "De landflyktige paktbryterne",
+  "intro": "I de tidlige dagene til et gryende samfunn bodde en stamme en gang i befestede boliger, bundet av en pakt. Da denne pakten ble forrådt, gjenlød konsekvensene gjennom Koranens sider. Hvem var disse menneskene, og hva skjedde med hjemmene og frukthagene deres?",
+  "clues": [
+    "Vi bodde i festninger som ga oss en falsk følelse av trygghet.",
+    "Vi var Skriftens folk, men vi brøt pakten vår.",
+    "Vi la planer mot sendebudet etter at han kom til oss, men planen vår mislyktes.",
+    "Våre palmer ble hugget ned på Allahs befaling, et tegn på Hans makt.",
+    "Vi ble utvist fra hjemmene våre, for aldri å komme tilbake, som en straff for vår trass.",
+    "Koranen nevner oss i kapittelet om samlingen, og historien vår tjener som en advarsel for de som bryter pakter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Folket i Madyan",
+        "Folket i Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Beleiring og utvisning fra hjemmene deres",
+        "Drukning i havet",
+        "Å bli slukt av jorden",
+        "Ødeleggelse av en storm",
+        "Å bli forvandlet til aper"
+      ],
+      "answer": "Beleiring og utvisning fra hjemmene deres"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Palmer hugget ned",
+        "De ansatte",
+        "Arken",
+        "Vannbrønnen",
+        "Hulen"
+      ],
+      "answer": "Palmer hugget ned"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Forvist og eiendommen deres tatt",
+        "Kom seirende tilbake",
+        "Ble tilgitt og forble",
+        "Gikk umiddelbart inn i paradiset",
+        "Ble rammet av en pest"
+      ],
+      "answer": "Forvist og eiendommen deres tatt"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

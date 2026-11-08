@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fitarainana avy any amin'ny Lalina",
+  "intro": "Leo ny vahoaka mafy loha iray ny mpanompon'Ilay Be Famindrampo ka lasa talohan'ny nahazoana alalana. Niafara tany amin'ny toerana tsy mbola nisy olombelona ity olona ity, izay naneno hafahafa tao anatin'ny haizina ny antson'Andriamanitra. Nipoitra ho osa nefa niova, ity fanahy ity dia lasa lesona tsy manam-potoana momba ny faharetana, ny fibebahana marina ary ny famindram-pon'ny Mpamorona. Azonao ve ny mamaha ny mistery?",
+  "clues": [
+    "Nirahina ho iraka ho an'ny vahoakako aho, saingy nihoatra ny fetrany rehetra izy ireo noho ny tsy finoany ary tsy nety nihaino.",
+    "Tezitra aho noho ny fandavan'izy ireo ka nandositra ny vahoakako talohan'ny nahatongavan'ny didin'i Allah.",
+    "Niakatra sambo feno entana mihoatra noho izay zakany aho, ary nanao antsapaka izahay mba hahitana hoe iza no ho atsipy any an-dranomasina.",
+    "Natsipy tany amin'ny ranomasina nisamboaravoara aho ary natelin'ny trondro goavambe iray.",
+    "Voafandrika tao anatin'ny haizina telo sosona — ny kibo, ny ranomasina lalina ary ny tany ambany — dia niantso ny Tompoko tamim-pibebahana marina aho.",
+    "Nivoaka avy tao anaty trondro aho nankeny amoron-dranomasina, reraka sy reraka, ary nisy voatavo naniry teo amboniko. Nino ihany ny oloko, iray hetsy na mihoatra."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Yunus",
+        "Mpaminany Ayyub",
+        "Mpaminany Yusuf",
+        "Mpaminany Musa",
+        "Mpaminany Solaimana"
+      ],
+      "answer": "Mpaminany Yunus"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Natelina trondro lehibe iray",
+        "Natsipy tao anaty afo mirehitra",
+        "Voafandrika eo am-pototry ny lavadrano",
+        "Tototry ny tondra-drano lehibe",
+        "Nogadrain'ny mpanjaka tsy ara-drariny"
+      ],
+      "answer": "Natelina trondro lehibe iray"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny kibon'ny trondro lehibe iray",
+        "Ny lohasaha masina akaikin'ny Kaaba",
+        "Sambofiara mipetraka eo an-tendrombohitra",
+        "Tehina niova ho menarana",
+        "Seza fiandrianana tsy manan-tsahala"
+      ],
+      "answer": "Ny kibon'ny trondro lehibe iray"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Ny olony, iray hetsy na mihoatra, dia nino",
+        "Natsangana velona ho any an-danitra",
+        "Tonga mpitondra fanjakana tsy manan-tsahala",
+        "Rava noho ny antsoantso mahery avy any an-danitra",
+        "Nirodana noho ny horohoron-tany nandravarava"
+      ],
+      "answer": "Ny olony, iray hetsy na mihoatra, dia nino"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mbegu ya Ugomvi",
+  "intro": "Kabla ya ulimwengu kujua migogoro iliyoenea, jaribio kubwa la imani na utii lilijitokeza. Simulizi hili linachunguza chaguzi zilizofanywa na mtu binafsi, ambaye matendo yake yaliweka mfano kwa vizazi vijavyo. Jitayarishe kufichua hadithi ya roho inayopambana na wivu mkubwa na matokeo yake mabaya.",
+  "clues": [
+    "Nilikuwa miongoni mwa wazao wa kwanza kuishi duniani, mtoto wa wanandoa wa kwanza kabisa wa kibinadamu.",
+    "Mimi na kaka yangu tuliamriwa kumtolea Mwenyezi Mungu kafara, kipimo cha uaminifu wetu.",
+    "Sadaka yangu haikukubaliwa, ilhali ya kaka yangu ilikubaliwa, jambo lililoujaza moyo wangu hisia mbaya.",
+    "Nilimwambia kaka yangu maneno ya vitisho, nikichochewa na uchungu wa kukataliwa.",
+    "Ndugu yangu alijibu kwa hekima na uchamungu, akinikumbusha haki ya Mwenyezi Mungu na hofu yake.",
+    "Licha ya maneno ya upole ya kaka yangu na utayari wake wa kusamehe, nilijiua, nikawa mmoja wa walioshindwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Adamu",
+        "Iblis",
+        "Nabii Nuh",
+        "Qabil (Kaini)",
+        "Firauni"
+      ],
+      "answer": "Qabil (Kaini)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Mafuriko makubwa",
+        "Kugawanyika kwa bahari",
+        "Jengo la Kaaba",
+        "Kutoa dhabihu",
+        "Jaribu katika Bustani"
+      ],
+      "answer": "Kutoa dhabihu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Mlima wa Safa",
+        "Sadaka",
+        "Kichaka Kinachowaka Moto"
+      ],
+      "answer": "Sadaka"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa mjumbe",
+        "Alizama",
+        "Kujengwa ufalme mkubwa",
+        "Ikawa mfano wa majuto",
+        "Alipewa utajiri mkubwa"
+      ],
+      "answer": "Ikawa mfano wa majuto"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

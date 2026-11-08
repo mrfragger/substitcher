@@ -1,0 +1,61 @@
+{
+  "title": "Den orubbliga patienten",
+  "intro": "I den profetiska historiens annaler har få utstått en sådan djup förlust och fysisk lidande med orubblig tro. Denna figurs berättelse är en tidlös lektion i tålamod och tillit till gudomlig visdom. Vem är denna själ?",
+  "clues": [
+    "Jag blev utvald av Allah att framföra ett budskap, men mitt största prövande kom inte genom avslag, utan genom personlig olycka.",
+    "Min rikedom, min boskap och mina barn togs ifrån mig, en efter en.",
+    "Min kropp var täckt av sår, och jag lämnades ensam förutom stödet från min make.",
+    "Jag ropade till min Herre, erkände mitt lidande och sökte Hans nåd.",
+    "Jag fick instruktioner att slå i marken med foten, och en uppfriskande källa vällde fram.",
+    "Allah återställde min hälsa och gav mig en ny familj och ännu mer rikedom än jag hade tidigare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Ayyub",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Isa",
+        "Profeten Nuh"
+      ],
+      "answer": "Profeten Ayyub"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Förlust av förmögenhet och familj",
+        "Att kastas in i en eld",
+        "Att bli uppslukad av en fisk",
+        "Att bli separerad från familjen och såld som slaveri",
+        "Att bli prövad med en guldkalv"
+      ],
+      "answer": "Förlust av förmögenhet och familj"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En källa med vatten",
+        "En stav som förvandlades till en orm",
+        "En ark av trä",
+        "En smält kalv",
+        "En palm"
+      ],
+      "answer": "En källa med vatten"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Återställande av familj och förmögenhet",
+        "Uppstigning till himlen",
+        "Att bli kung",
+        "Att bli räddad från en val",
+        "Att få en son på ålderdom"
+      ],
+      "answer": "Återställande av familj och förmögenhet"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

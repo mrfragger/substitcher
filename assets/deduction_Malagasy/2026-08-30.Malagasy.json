@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanahin'ny Fanambarana Azo Antoka",
+  "intro": "Any amin'ny tontolo tsy hita maso, misy zavamananaina madiodio mihetsika amim-pahamarinana, manatanteraka ny baiko rehetra tsy misy fisalasalana. Io olona io dia niresaka tamin'ireo mpanompo voafidy, nitondra teny fitarihana, ary nahita ny famelabelarana ny didin'Andriamanitra nandritra ny taona maro. Iza moa io fanahy hajaina io?",
+  "clues": [
+    "Zavaboary madio avy amin'ny hazavana aho, noforonina avy amin'ny hazavana, ary tsy mbola nandika ny didin'ny Tompoko mihitsy aho.",
+    "Mivezivezy eo anelanelan'ny lanitra sy ny tany aho, midina miaraka amin'ny didin'ny Ilay Be Famindrampo.",
+    "Nirahina ho any amin'ny virjiny mendri-kaja iray tao amin'ny fitoerana masina aho, nanambara taminy fa hanana zanakalahy madio.",
+    "Izaho no fanahin'ny fahamasinana, ary nanohana mpaminany izay nomena famantarana mazava sy ny Filazantsara aho.",
+    "Tonga tao amin'ny lava-bato iray teny an-tendrombohitra aho mba hanao ny teny voalohany amin'ny fanononana izay hotehirizina mandrakizay.",
+    "Izaho no fanahy azo itokisana, ary Izaho no nampidina ny CORAN tao am-pon'ny iraka farany."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Jibril (Gabriela)",
+        "Mikail (Michael)",
+        "Ny Anjelin'ny Fahafatesana",
+        "Malik (Mpiambina ny Helo)",
+        "Harut (iray amin'ireo anjely roa tao Babylona)"
+      ],
+      "answer": "Jibril (Gabriela)"
+    },
+    "trial": {
+      "label": "Iraka/Andraikitra fototra",
+      "options": [
+        "Fanomezana fanambarana ho an'ny mpaminany",
+        "Fitsofana ny trompetra amin'ny Andro Fitsarana",
+        "Miambina ny vavahadin'ny helo",
+        "Fanoratana ny asan'ny olombelona",
+        "Mahatonga ny orana hilatsaka"
+      ],
+      "answer": "Fanomezana fanambarana ho an'ny mpaminany"
+    },
+    "location": {
+      "label": "Toetra na Lohateny fototra",
+      "options": [
+        "Ny Fanahy Masina (Ruh al-Qudus)",
+        "Ny Fanahin'ny Hery",
+        "Ny Fanahin'ny Famindram-po",
+        "Ny Fanahin'ny Fitarihana",
+        "Ny Fanahin'ny Fahamarinana"
+      ],
+      "answer": "Ny Fanahy Masina (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Vokatry ny iraka",
+      "options": [
+        "Nambara tamin'ny Mpaminany Muhammad ny CORAN",
+        "Notsofina ny trompetra tamin'ny Andro Fitsarana",
+        "Nambenana ny helo ary nohidiana ny vavahadiny",
+        "Natolotra an'i Allah ny Bokin'ny Asa",
+        "Nalefa tamin'ny tany ny orana"
+      ],
+      "answer": "Nambara tamin'ny Mpaminany Muhammad ny CORAN"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

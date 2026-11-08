@@ -1,0 +1,61 @@
+{
+  "title": "Skupnost prvega prestopka",
+  "intro": "V deželi starodavnih mest je nekoč cvetelo ljudstvo. Obiskal jih je sel z jasnim klicem, a so se obrnili stran in sledili poti, po kateri še nihče ni hodil. Njihova zgodba je zgodba o kljubovanju, pokvarjenosti in kazni, ki je zapustila njihovo domovino kot znamenje za vse, ki razmišljajo. Kdo so te duše?",
+  "clues": [
+    "Živeli smo v mestih na ravnini, kjer nas je naš prerok klical k pravičnosti.",
+    "Bili smo prvi, ki smo zagrešili nespodobnost, ki je še nihče na svetu ni storil.",
+    "Preganjali smo popotnike in na svojih zborovanjih odkrito zagrešili hudobijo.",
+    "Zavrnili smo poslanca, ki nam je bil poslan, in zagrozili, da ga bomo izgnali iz naše dežele.",
+    "Stekli smo do njegove hiše in zahtevali, da nam izroči goste.",
+    "Naša kazen je bil dež kamenja in naše mesto se je obrnilo na glavo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo smo?",
+      "options": [
+        "Lutovi ljudje",
+        "Ljudje Nuha",
+        "Ljudje iz 'Ad",
+        "Ljudje iz Thamuda",
+        "Ljudje iz Madyana"
+      ],
+      "answer": "Lutovi ljudje"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Zagrešil prvo dejanje sodomije",
+        "Čaščeni idoli",
+        "Prevarani v trgovini",
+        "Ubili so njihovega preroka",
+        "Niso ubogali staršev"
+      ],
+      "answer": "Zagrešil prvo dejanje sodomije"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Mesto na ravnini",
+        "Mesto vodnjaka",
+        "Mesto jarka",
+        "Mesto slonov",
+        "Mesto vrta"
+      ],
+      "answer": "Mesto na ravnini"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Deževalo je kamenje in se prevrnilo",
+        "Utopila ga je poplava",
+        "Uničeno zaradi močnega vetra",
+        "Požrla ga je zemlja",
+        "Zadela ga je glasna eksplozija"
+      ],
+      "answer": "Deževalo je kamenje in se prevrnilo"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

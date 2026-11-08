@@ -1,0 +1,61 @@
+{
+  "title": "L'eco dai margini della città",
+  "intro": "In una città che si era allontanata dalla guida divina, una figura solitaria emerse dalla periferia, correndo con un messaggio di speranza e di monito. Quest'anima dimenticata sarebbe diventata un simbolo eterno di fede incrollabile.",
+  "clues": [
+    "Ho visto messaggeri essere inviati nella mia città, ma la mia gente li ha liquidati come semplici esseri umani.",
+    "Ho creduto al loro messaggio e ho sentito la verità risuonare dentro di me.",
+    "Ho esortato il mio popolo a obbedire ai messaggeri che non chiedevano alcuna ricompensa.",
+    "Corsi dall'estremità più remota della città, cercando disperatamente di farli ragionare.",
+    "Il mio popolo si ribellò contro di me e fui ucciso, ma io ho trovato la pace eterna.",
+    "Allah mi ha detto: \"Entra in Paradiso\", e ho desiderato che il mio popolo potesse assistere all'onore che mi è stato concesso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il credente di Ya-Sin",
+        "Uzair l'Interrogatore",
+        "Al-Khidr la Guida",
+        "Il credente della famiglia del faraone",
+        "Namrud il Tiranno"
+      ],
+      "answer": "Il credente di Ya-Sin"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Affrontare un popolo incredulo che lo ha ucciso",
+        "Essere gettati in un fuoco ardente",
+        "Essere inghiottito da un grande pesce",
+        "Costruire un'arca gigantesca",
+        "In fuga dall'esercito di un tiranno"
+      ],
+      "answer": "Affrontare un popolo incredulo che lo ha ucciso"
+    },
+    "location": {
+      "label": "Posizione chiave",
+      "options": [
+        "L'estremità più remota della città",
+        "La montagna di Tur",
+        "La valle delle formiche",
+        "Le rive del Nilo",
+        "La caverna della grotta"
+      ],
+      "answer": "L'estremità più remota della città"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Martirio e ingresso immediato in Paradiso",
+        "Fuga e salvezza",
+        "Ascensione al cielo",
+        "Annegare in mare",
+        "Trasformarsi in pietra"
+      ],
+      "answer": "Martirio e ingresso immediato in Paradiso"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

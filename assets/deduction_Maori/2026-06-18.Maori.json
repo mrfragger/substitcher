@@ -1,0 +1,61 @@
+{
+  "title": "Ko te Tuatahi ki te Rapu Murunga",
+  "intro": "Hoki whakamuri ki te wā i mua i te putanga mai o te rā tuatahi, i mua i te haerenga o tētahi tangata ki te whenua. I hangaia tētahi āhua mai i ngā mea tino iti rawa, i whakawhiwhia ki tētahi tūranga i runga ake i ngā anahera, ā, i whakanohoia ki tētahi māra tapu me tētahi whakatūpato mārama. Heoi, i roto i tētahi wā poto, ka mahia he kōwhiringa - he kōwhiringa ka rangona puta noa i te hītori o te tangata. Ko wai tēnei āhua?",
+  "clues": [
+    "I whānau mai ahau i tētahi ara rerekē - i hangaia mai i te puehu o te whenua, ā, i homai he wairua ora ki ahau e te ringa o te Kaihanga.",
+    "I homai ki ahau he mātauranga hohonu rawa, ā, miharo ana ngā anahera o runga ki taua mātauranga.",
+    "I whakahaua te rangi katoa kia piko ki mua i ahau, ā, ka ngohengohe katoa rātou — engari kotahi anake, i whakakahore nā te whakapehapeha.",
+    "I whakanohoia ahau ki tētahi māra tapu, he wāhi e noho ai te whakamarie me te whakarato mutunga kore — engari kotahi te rāhui tino kaha i puritia e au.",
+    "I wareware ahau, i paheke ahau, i kore whakarongo - ā, i tino pā ki ahau te taimaha o taku he.",
+    "I tahuri ahau ki tōku Ariki me ngā kupu o te ngākau, ā, i whakaae mai Ia ki taku ripeneta, ko Ia hoki te Tino Murunga Hara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Arama",
+        "Poropiti a Rawiri",
+        "Poropiti Muhammad",
+        "Iblis",
+        "Poropiti a Hākupa"
+      ],
+      "answer": "Poropiti Arama"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakahaua ngā anahera kia piko ki raro",
+        "I tukuna te Waipuke Nui",
+        "I whakamataohia, i haumaruhia hoki te ahi nui",
+        "I toremi tetahi rangatira whakakake ki te moana",
+        "I whakangaromia te ope taua arewhana"
+      ],
+      "answer": "I whakahaua ngā anahera kia piko ki raro"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Māra o te Harikoa",
+        "Maunga Hinai",
+        "Te Whare Karakia Tapu",
+        "Te awa o te Nile",
+        "Te Ana"
+      ],
+      "answer": "Te Māra o te Harikoa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaaetia te ripeneta e Allah",
+        "I toremi ki te moana",
+        "I horomia e te ika nui",
+        "I pāngia te iwi e te pahūtanga nui",
+        "I tahuna e te hau werawera"
+      ],
+      "answer": "I whakaaetia te ripeneta e Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

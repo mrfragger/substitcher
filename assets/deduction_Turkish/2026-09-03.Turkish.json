@@ -1,0 +1,61 @@
+{
+  "title": "Bir Anda Yolculuk Eden Taht",
+  "intro": "Sayısız zenginliğe sahip bir krallığı, muazzam bir otorite sahibi yönetiyordu. Beklenmedik bir zorluk ortaya çıktığında, bu hükümdar kılıçlarla değil, bilgelik ve inançla sınanacaktı. Yaşananlar, dünyevi gücün zirvesinden kalbin derin bir dönüşümüne yol açacaktı.",
+  "clues": [
+    "Hayal edilemeyecek kadar zenginlik ve refahla dolu bir krallığı yönettim.",
+    "Güçlü bir hükümdardım ve bana boyun eğmemi talep eden cesur bir mektup gönderildi.",
+    "Soylularım bana bu uzaktaki kralla savaşmak mı yoksa barışmak mı gerektiği konusunda tavsiyelerde bulundular.",
+    "Bu uzak kralla bizzat görüşmek üzere muhteşem hediyelerle yola çıktım.",
+    "Kraliyet tahtım, ben geri dönemeden, göz açıp kapayıncaya kadar uzak bir diyara götürüldü.",
+    "Zemini cam gibi pürüzsüz olan bir saraya girdiğimde, nihayet Allah'a teslimiyetimi ilan ettim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Saba Kraliçesi Bilqis",
+        "Firavunun Karısı",
+        "El-Aziz'in Karısı",
+        "İmran'ın kızı Meryem",
+        "Peygamber Lut'un Karısı"
+      ],
+      "answer": "Saba Kraliçesi Bilqis"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Teslim olmayı talep eden kalın harflerle yazılmış bir mektup almak",
+        "Alev alev yanan bir ateşe atılmak",
+        "Büyük bir balık tarafından yutulmak",
+        "Yıllarca süren acı verici hastalık",
+        "Bir halkın sel felaketiyle yok oluşuna tanık olmak"
+      ],
+      "answer": "Teslim olmayı talep eden kalın harflerle yazılmış bir mektup almak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Altın ve mücevherlerle süslü muhteşem bir kraliyet tahtı.",
+        "Denizi ikiye ayıran bir asa",
+        "Bir dağın üzerinde duran bir gemi",
+        "Mekke'de kutsal bir ibadethane.",
+        "Bir halk tarafından tapılan altın buzağı."
+      ],
+      "answer": "Altın ve mücevherlerle süslü muhteşem bir kraliyet tahtı."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Bir peygamberle birlikte Allah'a teslimiyet.",
+        "Düşmanı kovalarken denizde boğulmak",
+        "Alev alev yanan bir yangından mucizevi bir şekilde kurtarılmak",
+        "Ebedi mutluluk bahçesinden sürgün",
+        "Muazzam bir güce sahip bir krallık elde etmek"
+      ],
+      "answer": "Bir peygamberle birlikte Allah'a teslimiyet."
+    }
+  },
+  "verseRef": "27:42",
+  "arabic": "فَلَمَّا جَآءَتْ قِيلَ أَهَـٰكَذَا عَرْشُكِ ۖ قَالَتْ كَأَنَّهُۥ هُوَ ۚ وَأُوتِينَا ٱلْعِلْمَ مِن قَبْلِهَا وَكُنَّا مُسْلِمِينَ",
+  "verse": "So when she arrived, it was said [to her], \"Is your throne like this?\" She said, \"[It is] as though it was it.\" [Solomon said], \"And we were given knowledge before her, and we have been Muslims [in submission to Allāh]. (27:42)"
+}

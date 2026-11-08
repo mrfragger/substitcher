@@ -1,0 +1,61 @@
+{
+  "title": "Ajatu Tarkuse Jagaja",
+  "intro": "Austatud tegelane, keda tunti sügavate taipamiste ja teravmeelsete nõuannete poolest, jagas kunagi nõu, mis ulatub üle põlvkondade. Tema sõnad, mis on kirja pandud pühakirjadesse, juhatavad inimesi tänulikkuse, kannatlikkuse ja õiglase käitumise poole.",
+  "clues": [
+    "Mind õnnistati tarkusega, mitte prohvetiks olemisega.",
+    "Ma nõustasin oma last suurima patu osas: Allahi kõrvale partnerite määramises.",
+    "Ma õpetasin tegude kaalust, isegi sinepiseemne väärtusest, ja kuidas Allah selle esile toob.",
+    "Rõhutasin tänulikkust Allahi ja oma vanemate ees, tunnistades lapse kasvatamisega kaasnevaid raskusi.",
+    "Minu nõuanded hõlmasid palve alustamist, heale käskimist, kurja keelamist ja kannatlikku talumist kõiges, mis ette tuleb.",
+    "Koraanis on üks peatükk, mis on nimetatud minu järgi ja sisaldab minu õpetusi ja õppetunde, mida jagasin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Sulaiman",
+        "Prohvet Dawud",
+        "Prohvet Jahja",
+        "Luqman",
+        "Prohvet Musa"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Keskne teema",
+      "options": [
+        "Kaaba ehitamine",
+        "Mere jagamine",
+        "Tarkuse jagamine",
+        "Üleujutuse üleelamine",
+        "Kala alla neelamine"
+      ],
+      "answer": "Tarkuse jagamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laegas",
+        "Personal",
+        "Turi mägi",
+        "Tema poeg",
+        "Kuldvasikas"
+      ],
+      "answer": "Tema poeg"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Tema rahvas hävitati",
+        "Tema tarkusest sai teejuht",
+        "Talle anti kuningriik",
+        "Ta tõsteti taevasse",
+        "Talle anti tohutu rikkus"
+      ],
+      "answer": "Tema tarkusest sai teejuht"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Y Dref a Gredodd mewn Amser",
+  "intro": "Yn hanes trugaredd dwyfol, mae cymuned y bu ei throbwynt yn foment o sylweddoliad ar y cyd. Rydych chi ar fin datgelu eu stori—stori o rybudd, edifeirwch, a gohiriad a'u gosododd ar wahân i dynged cenhedloedd eraill.",
+  "clues": [
+    "Pobl oeddem ni yr anfonwyd negesydd atynt, a throasom oddi wrth ei alwad ar y dechrau.",
+    "Pan ddaeth arwyddion cosb sydd ar ddod yn amlwg, sylweddolon ni wirionedd ei rybudd.",
+    "Trowyd at ein Harglwydd gydag edifeirwch diffuant, a derbyniwyd ein ffydd.",
+    "Cafodd y gosb a orchmynnwyd arnom ei diddymu oherwydd ein cred.",
+    "Dyfynnir ein stori fel eithriad ymhlith y trefi a gredodd ar ôl gweld y gosb.",
+    "Pobl y proffwyd a lyncwyd gan y morfil oedden ni, ond fe'n hachubwyd rhag dinistr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pobl Yunus",
+        "Pobl Nuh",
+        "Pobl Hud",
+        "Pobl Salih",
+        "Pobl Lut"
+      ],
+      "answer": "Pobl Yunus"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Llifogydd dinistriol",
+        "Storm wynt ddifrifol",
+        "Cosb gwarth sydd ar ddod a gafodd ei hosgoi",
+        "Y ddaear yn eu llyncu",
+        "Glaw o gerrig"
+      ],
+      "answer": "Cosb gwarth sydd ar ddod a gafodd ei hosgoi"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr arch",
+        "Y gamel fenywaidd",
+        "Dinas o gant o filoedd",
+        "Staff Musa",
+        "Helfa Qarun"
+      ],
+      "answer": "Dinas o gant o filoedd"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Fe'u dinistriwyd yn llwyr",
+        "Cawsant fwynhad am gyfnod",
+        "Fe'u trawsnewidiwyd yn epaod",
+        "Boddwyd nhw",
+        "Fe'u llyncwyd gan y ddaear"
+      ],
+      "answer": "Cawsant fwynhad am gyfnod"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

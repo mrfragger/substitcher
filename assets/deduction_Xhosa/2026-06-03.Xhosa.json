@@ -1,0 +1,61 @@
+{
+  "title": "Isizwe Esasichasa Indlu Engcwele",
+  "intro": "Kumaxesha amandulo, isizwe esinamandla sagqiba ekubeni sihlasele indawo engcwele eyayihlonitshwa ngamakholwa. Eli qela lalizizityebi, linamandla, kwaye lizithembile ngamandla alo omkhosi. Bazisa nesidalwa esikhulu esasiza kuba sisixhobo sabo semfazwe. Injongo yabo yayicacile: ukudiliza indlu engcwele nokutyumza ukholo lwabantu bayo. Kodwa ukuzikhukhumeza kwabo kwakusele kuza kudibana nempendulo embi evela phezulu. Esi siganeko sembali saba luphawu nesifundo kubo bonke abalandelayo. Ngaba ungalibona eli qela kwiindlela ezibonisa ukuba likho?",
+  "clues": [
+    "Sasisizwe esisikelelwe ngobutyebi nobuchule bomkhosi.",
+    "Siqokelele imikhosi yethu saza sazisa isilo esikhulu ukuze sisisebenzise kwiphulo lethu.",
+    "Injongo yethu yayiyindawo engcwele esasifuna ukuyitshabalalisa ngokupheleleyo.",
+    "Sasikholelwa ukuba amandla ethu aya kwanela ukoyisa naluphi na ukhuseleko lukaThixo.",
+    "Kodwa iNkosi yasithumela isohlwayo esivela ezulwini esasingasilindelanga.",
+    "Satshatyalaliswa ngephanyazo, sasasazeka njengengca ephukileyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu Bendlovu",
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Amaqabane Omqolomba",
+        "Isizwe soMprofeti uHud"
+      ],
+      "answer": "Abantu Bendlovu"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukuhamba ngendlovu ukuya endlwini engcwele ukuze iyitshabalalise",
+        "Ukwakha inqaba yokufikelela emazulwini",
+        "Ukwakha isithixo segolide sokunqula",
+        "Ukwala ukuphulaphula isithunywa sika-Allah",
+        "Ukumba iqula ukuze kulimaze amakholwa"
+      ],
+      "answer": "Ukuhamba ngendlovu ukuya endlwini engcwele ukuze iyitshabalalise"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Indlovu",
+        "Ithole Legolide",
+        "Abasebenzi bakaMusa",
+        "Intlanzi kaYunus",
+        "Intsimbi kaDawud"
+      ],
+      "answer": "Indlovu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Batshatyalaliswa yimihlambi yeentaka ngamatye",
+        "Batshoniswa ngumkhukula omkhulu",
+        "Baguqulwa baba ziinkawu neehagu",
+        "Bangcwatywa phantsi kwamatye awileyo avela entabeni",
+        "Batshiswe ngumlilo ovela esibhakabhakeni"
+      ],
+      "answer": "Batshatyalaliswa yimihlambi yeentaka ngamatye"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

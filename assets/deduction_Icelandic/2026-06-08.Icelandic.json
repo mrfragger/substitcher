@@ -1,0 +1,61 @@
+{
+  "title": "Beiðandi helgidómsins",
+  "intro": "Á kyrrlátum stundum næturinnar kallaði holl sál til hins miskunnsama innan helgra veggja hins helga staðar. Áralöng óhagganleg trú og þolinmæði áttu eftir að verða umbunuð með kraftaverki sem myndi færa gleði og arfleifð spámanns.",
+  "clues": [
+    "Ég eyddi dögum mínum og nóttum í hollustu í heilögum helgidómi, stöðugt að biðja til Drottins míns.",
+    "Ég varð gamall og kona mín varð ófrjó, en ég missti aldrei vonina á miskunn Allahs.",
+    "Mér var gefinn sonur, sem hét Yahya, sem varð spámaður og fyrirmynd réttlætis.",
+    "Ég var sjálfur spámaður, sendur til að leiða Ísraelsmenn.",
+    "Ég var afkomandi spámannsins Harun og þjónaði sem prestur í musterinu.",
+    "Mér var falið að annast Maríum, móður Ísu, og varð vitni að kraftaverkum hennar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Zakariyya",
+        "Spámaðurinn Yahya",
+        "Spámaðurinn Ilyas",
+        "Spámaðurinn Íshaq",
+        "Spámaðurinn Ya'qub"
+      ],
+      "answer": "Spámaðurinn Zakariyya"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Gaf son í ellinni",
+        "Bjargað úr logandi eldi",
+        "Bjargað úr fiskmaga",
+        "Lifði af miklu flóði",
+        "Læknaður af alvarlegum sjúkdómi"
+      ],
+      "answer": "Gaf son í ellinni"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Mihrab (bænaskáli)",
+        "Kaaba",
+        "Brennandi runninn",
+        "Sáttmálsörkin",
+        "Hellirinn sjö svefnmanna"
+      ],
+      "answer": "Mihrab (bænaskáli)"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Gefinn réttlátur sonur sem varð spámaður",
+        "Eyðilagður af ofsafengnum stormi",
+        "Drukknaði í sjónum",
+        "Hlíft við bruna",
+        "Snéru aftur til fólks síns eftir að hafa verið bjargað úr fiskveiði"
+      ],
+      "answer": "Gefinn réttlátur sonur sem varð spámaður"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Qo'rquvni keltirib chiqargan mehmondo'stlik",
+  "intro": "Yovuzlik hukm surgan shaharda bir kuni sodiq xizmatkor kutilmagan mehmonlarni kutib oldi. Ularning xavfsizligi uchun xavotirlangan bu shaxs himoya taklif qildi, ammo shahar aholisi sharmandali narsani talab qildi. Yaqinlashib kelayotgan halokat haqida ogohlantirilgan xizmatkor oilasi bilan qorong'ulikda qochib ketdi va vayronagarchilikka mo'ljallangan shaharni qoldirib ketdi. Bu yolg'iz mo'min kim?",
+  "clues": [
+    "Men sharmandali ishlar bilan shug'ullangan qavmga elchi qilib yuborildim.",
+    "Kutilmagan mehmonlar uyimga kelishdi va men o'zimnikidan ko'ra ularning xavfsizligi haqida ko'proq tashvishlanardim.",
+    "Xalqim yomon niyat bilan mehmonlarimni ko'rishni talab qilishdi va men ular bilan mulohaza yuritishga harakat qildim.",
+    "Mehmonlarim o'zlarini farishtalar qilib ko'rsatishdi va menga oilamni olib, kechasi ketishimni buyurishdi.",
+    "Xotinim qochish chaqirig'iga quloq solmadi va xalqim bilan bir xil halokatga duch keldi.",
+    "Shaharim qatlamli loy toshlari yomg'iri bilan ag'darildi, uning eng baland qismlari eng past qismini olib keldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Lut payg'ambar",
+        "Muso payg'ambar",
+        "Ibrohim payg'ambar",
+        "Nuh payg'ambar",
+        "Payg'ambar Hud"
+      ],
+      "answer": "Lut payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Xalqimning mehmonlarimga yovuzlik bilan yaqinlashish talabi",
+        "Zolimdan qochish uchun dengizning ikkiga bo'linishi",
+        "Masxara qilish orasida buyuk kemaning qurilishi",
+        "O'g'limning imon sinovida qurbon bo'lishi",
+        "Katta baliq tomonidan yutib yuborilish tajribasi"
+      ],
+      "answer": "Xalqimning mehmonlarimga yovuzlik bilan yaqinlashish talabi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Xalqimning ag'darilgan shahri",
+        "Men ilohiy nutqni qabul qilgan tog'",
+        "Katta to'fondan o'tgan kema",
+        "Toshdan chiqqan urg'ochi tuya",
+        "Yashirin solih mehmoni bo'lgan bog'"
+      ],
+      "answer": "Xalqimning ag'darilgan shahri"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Shaharim ag'darilishidan oldin men oilam bilan qutqarildim",
+        "Men xalqimni dengiz orqali ozodlikka olib bordim",
+        "Men buyuk kema qurdim va kuchli to'fondan omon qoldim",
+        "Menga shamollar va jinlar ustidan hukmronlik berildi.",
+        "Men sabr-toqat bilan azob-uqubatlarga chidadim va oilam bilan mukofotlandim"
+      ],
+      "answer": "Shaharim ag'darilishidan oldin men oilam bilan qutqarildim"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

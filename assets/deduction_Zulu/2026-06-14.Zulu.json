@@ -1,0 +1,61 @@
+{
+  "title": "Ilangabi Elaveza Ifa",
+  "intro": "Ezindabeni zokumelana, kumi umuntu ogama lakhe laba yisixwayiso kuze kube sekupheleni kwesikhathi. Lo muntu wakhetha ubutha kunobuhlobo bomndeni, ukungalaleli kunokuzithoba, futhi wema ephikisana nobizo lwesihe. Lalela ngokucophelela amazwi esimemezelo sasendulo njengoba siveza ukuthi lo mphefumulo ungubani.",
+  "clues": [
+    "Ngazalelwa esizweni esifanayo nesithunywa sokugcina sika-Allah, kodwa ngangimelana nabo kuzo zonke izindlela.",
+    "Igama lami lalinomqondo—igama elisho ‘uyise womlilo,’ igama elalizobikezela ikusasa lami laphakade.",
+    "Ngadala umonakalo kumuntu ophethe iqiniso, ngisho nomndeni wami wahlanganyela kulo mkhankaso wonya.",
+    "Ngasebenzisa ingcebo yami kanye nethonya lami ukuthulisa ukubizwa ku-Allah, ngikholelwa ukuthi imali ingacima ukukhanya kwaphezulu.",
+    "U-Allah wanginika isahluko esiphelele—isahluko esifushane kangangokuthi singafundwa ngemizuzwana, kodwa isisindo saso sihlala kuze kube uSuku Lokwahlulela.",
+    "Umngane wami ku-Hereafter uhamba ngemuva kwami, eboshwe ngentambo yentambo entanyeni, ephethe wona kanye ameva ayevame ukuwasakaza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Abu Lahab",
+        "U-Abu Jahl",
+        "UWaraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ukuchaza Ukubhekana",
+      "options": [
+        "Ukuhola ukuphikiswa koMprofethi eMecca",
+        "Ukuthuthela e-Abyssinia ukuze ubalekele ukushushiswa",
+        "Ukwakha iKaaba noMprofethi u-Ibrahim",
+        "Ukwamukela ubuSulumane embhedeni wokufa",
+        "Ukwakha Isivumelwano sikaHudaybiyyah"
+      ],
+      "answer": "Ukuhola ukuphikiswa koMprofethi eMecca"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umfazi owayephethe ameva nezinkuni",
+        "Intonga eyaphenduka inyoka",
+        "Indandatho enesigxivizo sikaSolomoni",
+        "Ithole legolide elikhonzwa ngabantu",
+        "Umthombo ogobhoza amanzi"
+      ],
+      "answer": "Umfazi owayephethe ameva nezinkuni"
+    },
+    "outcome": {
+      "label": "Ukubala Kokugcina",
+      "options": [
+        "I-surah yonke yembula ukuthi imemezela ukubhujiswa okuphelele",
+        "Waba ngumholi womphakathi wamaSulumane",
+        "Wathola intethelelo ngesikhathi sokufa",
+        "Wakha i-mosque enhle eMedina",
+        "Wavuswa phakathi kwabalungileyo"
+      ],
+      "answer": "I-surah yonke yembula ukuthi imemezela ukubhujiswa okuphelele"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

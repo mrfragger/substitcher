@@ -1,0 +1,61 @@
+{
+  "title": "Ny fanahin'ny lelafo masina nanolo-tena",
+  "intro": "Eo anoloanao dia misy tantara feno herim-po miavaka, izay sahin'ny olona iray nanohitra ny finoana lalina indrindra tao amin'ny sivilizasiona iray manontolo. Araho ireo bitsika avy amin'ny lasa ireo, dia hahita fiainana voamariky ny finoana tsy mety lefy, ny fahavelomana mahagaga, ary ny fametrahana fototra izay hamolavola ny dia ara-panahy an'olona an'arivony tapitrisa ianao. Araho tsara ny fanazavana tsirairay - mbola mahatsiaro ny afo masina.",
+  "clues": [
+    "Teraka tao amin'ny tokantrano iray izay nanaja ireo zavatra eny amin'ny lanitra sy ireo sampy voasokitra aho, nefa nisy zavatra lalina tao anatiko izay nandà izay nivavahan'izy ireo.",
+    "Nijoro nanohitra ny mpanapaka mahery indrindra teo amin'ny taniko aho, nanorotoro ireo sampy izay niankohofan'ny vahoakako, ary nanambara fa ny Mpamorona ny lanitra ihany no mendrika hotompoina.",
+    "Nasaina nandoro fandoroana afo mirehitra tamin'ny anarako aho, kanefa nanambara aho fa Ilay tompoiko irery no hamonjy ahy — ary nodidiana mba ho mangatsiaka sy ho azo antoka ny lelafo.",
+    "Nandao izay rehetra nahazatra ahy aho araka ny baikon'Andriamanitra, nirenireny namaky lohasaha maina niaraka tamin'ny fianakaviako, natoky ny vatsy izay mbola tsy hitako.",
+    "Nijoro teo anilan'ny zanako lahimatoa tao amin'ny lohasaha ngazana izahay, ary nanangana ny fototry ny trano masina iray, toerana masina natokana ho an'izay rehetra manaiky.",
+    "Fantatra amin'ny anarana hoe Khalilullah aho — ilay sakaiza akaiky an'ilay Be Famindrampo — ary ny anarako dia mifamatotra mandrakizay amin'ny finoana ny fanoloran-tena sy ny fanekena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ibrahim (Abrahama)",
+        "Mpaminany Musa (Mosesy)",
+        "Mpaminany Noa (Noa)",
+        "Mpaminany Isa (Jesoa)",
+        "Mpaminany Muhammad ﷺ"
+      ],
+      "answer": "Mpaminany Ibrahim (Abrahama)"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Atsipy ao anaty afo mirehitra ataon'ny mpitondra jadona",
+        "Voatelina ao anaty trondro goavambe any an-dranomasina",
+        "Nampidinina tao anaty lavaka nataon'ireo rahalahy saro-piaro",
+        "Entina miakatra eny ambony zavaboary manana elatra",
+        "Miaritra tondra-drano lehibe ao anaty fitoeran-kazo"
+      ],
+      "answer": "Atsipy ao anaty afo mirehitra ataon'ny mpitondra jadona"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Trano Masina (Kaaba)",
+        "Sambo hazo lehibe iray naorina teo ambony fitoeran-javatra",
+        "Tehina afaka manasaraka ny ranomasina",
+        "Lava-bato fatoriana lava miaraka amin'ny alika mahatoky",
+        "Horonana misy lalàna nambara nomena teo amin'ny tendrombohitra iray"
+      ],
+      "answer": "Ny Trano Masina (Kaaba)"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Lasa fantatra amin'ny anarana hoe Khalilullah, ilay sakaizan'i Allah akaiky",
+        "Nitarika vahoaka hiampita ranomasina nizara ho any amin'ny toerana azo antoka",
+        "Nomena fahefana handresy ny rivotra sy ny hery tsy hita maso",
+        "Lasa mpanasitrana notahina tamin'ny fanasitranana mahagaga",
+        "Nampiray foko roa ambin'ny folo niparitaka teo ambanin'ny fanekena iray"
+      ],
+      "answer": "Lasa fantatra amin'ny anarana hoe Khalilullah, ilay sakaizan'i Allah akaiky"
+    }
+  },
+  "verseRef": "6:79",
+  "arabic": "إِنِّى وَجَّهْتُ وَجْهِىَ لِلَّذِى فَطَرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ حَنِيفًۭا ۖ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+  "verse": "Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh.\" (6:79)"
+}

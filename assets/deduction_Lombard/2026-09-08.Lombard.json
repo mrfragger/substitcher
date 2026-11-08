@@ -1,0 +1,61 @@
+{
+  "title": "El prucess de la flama sacra",
+  "intro": "En una terra vègia indué la devoziun a la pedra scolpida g’haveva mettü radis en tüt i cà, un individuo se distingueva. Travers la convinsiün inflexibil e la proteziün divina, han afruntà quella che duverìa vess la mort certa - e sunt ndad via senza danè. Pœdet descobrir l’identità de chesta anima notevol?",
+  "clues": [
+    "Sun cressü intra gent che se inchinavan ai idol che g’havevan scolpì cunt i propri man, credend che chesti uget g’havevan el podè divin.",
+    "Quand g’ho sfidà i luur convinziun, al principi m’han licenzià, ma pudevi minga restà mut sü la verità che savevi.",
+    "In d’un dì che l’eran radunà, g’ho distrutt i luur idol, lassà sultant chel püsee grand senza vèss tucà.",
+    "Quand che sun turnà e g’han vist chel che g’havevi fà, i luur capi g’han cumandà de costruir una grand pira, cun l’intenziun de bütam in di fœuch.",
+    "M’han slanzà in del fœuch ardent, ma el Signur di mund g’ha cumandà de diventar frècc e sicür per mi.",
+    "L’eri vegnü föra da le flame senza danè, mentre qui che han tramad cuntra de mi han afruntà la ruina."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "El prufeta Ibrahim",
+        "Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Isa",
+        "Profeta Yusuf"
+      ],
+      "answer": "El prufeta Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Vesser butad ind un fœg ardent",
+        "Vesser inglutid da una gran balena",
+        "Soravissü a una grand inondaziun",
+        "Vess butà denter de un pozz prufund",
+        "Affrontar i maghi de un re"
+      ],
+      "answer": "Vesser butad ind un fœg ardent"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una pira masiva de legn brüsant",
+        "Una grand arca de legn",
+        "Una statua de vitell dorà",
+        "Un cesto che gallegia sü un fiümm",
+        "Un tron ​​magnifico"
+      ],
+      "answer": "Una pira masiva de legn brüsant"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Allah l’ha fait fresc e segur el fœg",
+        "L'arca l'è rivada salvament sü una montagna",
+        "L'idol d'or el se fond denanz ai luur œucc",
+        "Un tiranno e el sò esercit sun mort in del mar",
+        "La vista de un òmm òrb l’è stada restaurada"
+      ],
+      "answer": "Allah l’ha fait fresc e segur el fœg"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

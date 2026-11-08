@@ -1,0 +1,61 @@
+{
+  "title": "Opozorilo pod zemljo",
+  "intro": "Predstavljajte si, da stojite ob globokem izkopu, medtem ko se od spodaj dvigajo glasovi in ​​svet zgoraj utihne. Koran ohranja ta prizor kot opozorilo: skupnost zavrača, kar prinašajo poslanci, kazen se bliža in celo njen rjovenje postane del pričevanja. Katera skupina spregovori skozi te verze?",
+  "clues": [
+    "V Koranu se nas spominjajo kot kolektiv, ki ga opredeljuje ena skupna usoda in ne individualno ime.",
+    "Zavrnili smo sporočilo, ki so ga prinesli poslanci, čeprav je bilo to, kar so govorili, resnica.",
+    "Naša spominjana identiteta je povezana z globoko vdolbino v zemlji in ta značilnost je postala del našega imena.",
+    "Na dogovorjeni dan so nas pripeljali ven in odvlekli proti ognju.",
+    "Nismo se mogli braniti pred kaznijo in nismo mogli slišati njenega rjovenja.",
+    "Obrnili bi nas v ogenj in nas pognali vanj; ko bi nas vprašali, bi rekli, da smo med tistimi, ki se ne znajo odzvati."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Spremljevalci jarka",
+        "Narod, rešen iz velikega potopa",
+        "Častilci zlatega teleta",
+        "Skupina, skrita v gorski jami",
+        "Skupnost, rešena iz ognjene peči"
+      ],
+      "answer": "Spremljevalci jarka"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Odvlečeni in vrženi v ogenj",
+        "Rešen iz ognjene peči",
+        "Varno prepeljani skozi veliko poplavo",
+        "Stoletja skrita v jami",
+        "Rešen po tem, ko so ga vrgli v vodnjak"
+      ],
+      "answer": "Odvlečeni in vrženi v ogenj"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Jarek ali jama",
+        "Veliko morje",
+        "Gorska jama",
+        "Visoka palača",
+        "Puščavski vodnjak"
+      ],
+      "answer": "Jarek ali jama"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Ne morejo se braniti in ne morejo slišati rjovenja ognja",
+        "Rešen in dobil vstop v večne vrtove",
+        "Varno dostavljeno skozi uničujočo poplavo",
+        "Zaščiten z dolgim ​​spanjem v jami",
+        "Počaščen z večnim kraljestvom"
+      ],
+      "answer": "Ne morejo se braniti in ne morejo slišati rjovenja ognja"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Încercarea setei",
+  "intro": "O comunitate, tânjind după o conducere care să le apere cauza, a solicitat numirea unui comandant. Când cererea lor a primit răspuns, cel ales a fost întâmpinat cu scepticism, deoarece acest individ nu poseda statutul lumesc la care se așteptau. Înainte de confruntarea finală, acest nou lider avea să testeze însăși disciplina armatei cu o simplă, dar profundă, încercare de reținere.",
+  "clues": [
+    "Am fost numit comandant după ce poporul meu a cerut un lider care să lupte pentru cauza lui Allah.",
+    "Mulți dintre ai mei au pus inițial la îndoială numirea mea, invocând lipsa mea de avere și descendența nobilă.",
+    "Am fost ales pentru că Allah mi-a dăruit o abundență de cunoștințe și o statură fizică puternică.",
+    "Un semn clar al numirii mele divine a fost întoarcerea Chivotului Legământului, purtat de îngeri, care a adus pace în inimile credincioșilor.",
+    "În timp ce mărșăluiam cu soldații mei, am anunțat că vom fi testați lângă un râu.",
+    "Le-am ordonat armatei mele ca oricine bea adânc din râu să nu fie din compania mea, în timp ce cei care luau doar o linguriță în mână să rămână."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Jalut (Goliat)",
+        "Talut (Saul)",
+        "Profetul Dawud",
+        "Dhul-Qarnayn",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Talut (Saul)"
+    },
+    "trial": {
+      "label": "Care a fost principala mea încercare?",
+      "options": [
+        "Construirea unei bariere împotriva lui Gog și Magog",
+        "Înfruntând un gigant în luptă singulară",
+        "Testarea obedienței unei armate la un râu",
+        "Conducând o armată de djini și păsări",
+        "Supraviețuirea aruncării în foc"
+      ],
+      "answer": "Testarea obedienței unei armate la un râu"
+    },
+    "location": {
+      "label": "Care a fost un semn cheie al autorității mele?",
+      "options": [
+        "Un toiag care s-a transformat într-un șarpe",
+        "O cămilă care a ieșit dintr-o stâncă",
+        "O zale făcute din fier înmuiat",
+        "Arca Legământului (At-Tabut)",
+        "O masă cu mâncare din ceruri"
+      ],
+      "answer": "Arca Legământului (At-Tabut)"
+    },
+    "outcome": {
+      "label": "Care a fost rezultatul campaniei mele?",
+      "options": [
+        "Înfrângerea armatei lui Jalut (Goliat)",
+        "Despărțind Marea Roșie pentru a scăpa de un tiran",
+        "Întemeierea unei dinastii de lungă durată în numele meu",
+        "Construirea Kaaba sacră din Mecca",
+        "A fi înălțat la ceruri fără a muri"
+      ],
+      "answer": "Înfrângerea armatei lui Jalut (Goliat)"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

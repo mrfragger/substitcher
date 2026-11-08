@@ -1,0 +1,61 @@
+{
+  "title": "Meros qoldirgan alanga",
+  "intro": "Qarshilik yilnomalarida nomi oxirzamonga ogohlantirishga aylangan bir shaxs bor. Bu shaxs qarindoshlikdan ko'ra adovatni, itoatkorlikdan ko'ra itoatsizlikni tanladi va rahm-shafqat chaqirig'iga qarshi chiqdi. Bu mashhur qalbning kimligini ochib berar ekanmiz, qadimgi e'lonning aks-sadosini diqqat bilan tinglang.",
+  "clues": [
+    "Men Allohning oxirgi elchisi bilan bir qabilada tug'ilganman, ammo har qadamda ularga qarshi turdim.",
+    "Mening ismim ma'noga ega edi — bu ism \"olov otasi\" degan ma'noni anglatadi, bu mening abadiy taqdirimni anglatardi.",
+    "Men haqiqatni yetkazuvchiga qarshi yomonlik qildim va hatto o'z oilam ham bu shafqatsizlik kampaniyasiga qo'shildi.",
+    "Men boyligim va ta'sirimdan foydalanib, Allohga bo'lgan da'vatni o'chirib qo'ydim, chunki pul ilohiy nurni o'chira oladi, deb ishonardim.",
+    "Alloh menga butun bir bobni bag'ishladi — bir necha soniya ichida o'qib bo'ladigan darajada qisqa bob, ammo uning og'irligi Qiyomat kunigacha saqlanib qoladi.",
+    "Oxiratdagi hamrohim orqamdan yuribdi, bo'yniga tolali arqon bog'langan, ilgari yoygan tikanlarni ko'tarib yuribdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Varaqa ibn Navfal",
+        "Umayya ibn Xalaf",
+        "Uqba ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Qarama-qarshilikni aniqlash",
+      "options": [
+        "Makkada Payg'ambarga qarshi muxolifatga boshchilik qilish",
+        "Ta'qiblardan qochish uchun Habashistonga ko'chib o'tish",
+        "Ibrohim payg'ambar bilan Ka'bani qurish",
+        "O'lim to'shagida Islomni qabul qilish",
+        "Hudaybiya shartnomasini tuzish"
+      ],
+      "answer": "Makkada Payg'ambarga qarshi muxolifatga boshchilik qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Tikanlar va o'tin ko'tarib yurgan xotin",
+        "Ilonga aylangan tayoq",
+        "Sulaymonning muhri tushirilgan uzuk",
+        "Xalq sig'inadigan oltin buzoq",
+        "Suv otilib chiqqan buloq"
+      ],
+      "answer": "Tikanlar va o'tin ko'tarib yurgan xotin"
+    },
+    "outcome": {
+      "label": "Yakuniy hisob-kitob",
+      "options": [
+        "Butun sura nozil bo'lib, u butunlay vayron bo'lganini e'lon qiladi",
+        "Musulmon jamoasining yetakchisiga aylandi",
+        "O'lim paytida kechirim oldi",
+        "Madinada buyuk masjid qurdirdi",
+        "Solihlar orasida tirildi"
+      ],
+      "answer": "Butun sura nozil bo'lib, u butunlay vayron bo'lganini e'lon qiladi"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

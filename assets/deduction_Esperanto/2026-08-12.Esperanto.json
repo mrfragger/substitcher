@@ -1,0 +1,61 @@
+{
+  "title": "La Senditoj de Kompato kaj Povo",
+  "intro": "Imagu trankvilan posttagmezon interrompitan de la alveno de nekonataj vojaĝantoj. Ilia aspekto estas ordinara, sed ilia celo estas tute alia. Ili portas dian mesaĝon, kiu ŝanĝos la kurson de du nacioj, alportante ridon al dezerta hejmo kaj teruron al peka urbo. Kiuj estas ĉi tiuj misteraj vizitantoj?",
+  "clues": [
+    "Ni estis senditaj al sindona servisto de Alaho, konata pro sia senlima gastamo.",
+    "Ni alvenis alivestite kiel fremduloj, tamen nia gastiganto sentis ion alimondan pri nia ĉeesto.",
+    "Ni alportis novaĵojn, kiuj igis maljunulinon ridi nekredeme, frapante sian propran vizaĝon pro miro.",
+    "Ni ricevis la taskon protekti justan familion dum pluvigante detruon sur urbon trempitan de korupto.",
+    "Ni rifuzis partopreni la manĝon ofertitan al ni, kio nur pliprofundigis la suspekton de nia gastiganto.",
+    "Ni malkaŝis nian veran naturon nur antaŭ la foriro, dirante: \"Vere, ni estas mesaĝistoj de via Sinjoro.\""
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "La Gastoj de Abraham",
+        "La Disĉiploj de Jesuo",
+        "La Kunuloj de la Kaverno",
+        "La Armeo de Abraha",
+        "La Mesaĝistoj de Ya-Sin"
+      ],
+      "answer": "La Gastoj de Abraham"
+    },
+    "trial": {
+      "label": "Nia Misio",
+      "options": [
+        "Por testi la fidon de Abraham rilate al lia filo",
+        "Por transdoni la skribaĵon al Abraham",
+        "Anonci la naskiĝon de Isaak kaj la detruon de la popolo de Lot",
+        "Gvidi Abrahamon al la Kaaba",
+        "Por savi Abrahamon el la fajro"
+      ],
+      "answer": "Anonci la naskiĝon de Isaak kaj la detruon de la popolo de Lot"
+    },
+    "location": {
+      "label": "Loko de Apero",
+      "options": [
+        "En la lando Egipta",
+        "En la urbo Ur",
+        "Ĉe la hejmo de Abraham",
+        "En la ĝardeno de Edeno",
+        "Ĉe la puto de Zamzam"
+      ],
+      "answer": "Ĉe la hejmo de Abraham"
+    },
+    "outcome": {
+      "label": "La Rezulto",
+      "options": [
+        "Abraham fariĝis reĝo",
+        "Abraham konstruis la Kaaba-on",
+        "Sara naskis Isaakon kaj la popolo de Lot estis detruita",
+        "Abraham migris al Palestino",
+        "La popolo de Abraham estis savita de granda diluvo"
+      ],
+      "answer": "Sara naskis Isaakon kaj la popolo de Lot estis detruita"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

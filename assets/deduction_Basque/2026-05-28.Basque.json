@@ -1,0 +1,61 @@
+{
+  "title": "Paziente Irmoa",
+  "intro": "Historia profetikoen analetan, gutxik jasan dute halako galera sakona eta atsekabe fisikoa fede sendoarekin. Pertsonaia honen istorioa pazientziari eta jainkozko jakindurian konfiantzari buruzko ikasgai betierekoa da. Nor da arima hau?",
+  "clues": [
+    "Alak aukeratu ninduen mezu bat helarazteko, baina nire proba handiena ez zen uko baten bidez etorri, hondamendi pertsonal baten bidez baizik.",
+    "Nire aberastasunak, abereak eta seme-alabak bata bestearen atzetik kendu zizkidaten.",
+    "Gorputza zauriz estalita nuen, eta bakarrik geratu nintzen, nire ezkontidearen laguntza izan ezik.",
+    "Nire Jaunari oihu egin nion, nire sufrimendua aitortuz eta haren errukia bilatuz.",
+    "Lurra oinarekin jotzeko agindu zidaten, eta iturburu freskagarri bat isuri zen.",
+    "Ala-k osasuna berreskuratu zidan eta familia berri bat eta lehen baino aberastasun gehiago eman zidan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ayyub profeta",
+        "Ibrahim profeta",
+        "Musa profeta",
+        "Isa profeta",
+        "Nuh profeta"
+      ],
+      "answer": "Ayyub profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Aberastasunaren eta familiaren galera",
+        "Sutara botata egotea.",
+        "Arrain batek irentsi izana",
+        "Familiatik banandu eta esklabo gisa saldu izana",
+        "Urrezko txahal batekin probatua izatea"
+      ],
+      "answer": "Aberastasunaren eta familiaren galera"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ur iturri bat.",
+        "Suge bihurtu zen makila",
+        "Egurrezko kutxa bat.",
+        "Txahal urtua",
+        "Palmondo bat"
+      ],
+      "answer": "Ur iturri bat."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Familia eta aberastasunaren berreskurapena",
+        "Zerura igotzea",
+        "Errege bihurtzea.",
+        "Balea batetik salbatua izatea",
+        "Zahartzaroan seme bat jasotzea"
+      ],
+      "answer": "Familia eta aberastasunaren berreskurapena"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

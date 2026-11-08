@@ -1,0 +1,61 @@
+{
+  "title": "Mana Murtii Gabroomfataa Keessatti Amanaan Haguugame",
+  "intro": "Galmoota warqee irraa tolfaman bulchaa of tuultuu Qur’aanni beeku keessaa — bakka Waaqa cabsuun labsii hunda ibsu — lubbuun tokko namoota mirga qaban gidduutti deemtee, iccitii balaa guddaa qabu ifatti dhoksiti turte. Namni dhuunfaa kun amantii dallaawwan sana keessaa baayʼee dhorkamee fi argamuun isaa duʼa mirkanaaʼaa taʼe qabateera. Ta’us amantiin akka abidda asheeta jalatti gubatee, yeroon sun yeroo ga’u dhugaan ija jabina bu’uura masaraa abbaa irree sanaa raaseen dhaga’ame.",
+  "clues": [
+    "Geengoo keessaa bulchaa bara kootti humna guddaa qabuu fi of tuultuu taʼe gidduutti, qananii fi dhiibbaadhaan marfamee jiraadha ture.",
+    "Warra gara jabummaa fi cunqursaan bulchan irraa lubbuu kootiif sodaadhee amantii koo isa dhugaa garaa koo keessa gadi fageenyaan dhokse.",
+    "Sabni kiyya yommuu shakku fi dhugaa fuulduratti raafamu, hiree gaddisiisaa saboota ergamtoota Gooftaa isaanii gananii darban mudate isaan akeekkachiisuuf gara fuulduraatti tarkaanfadhe.",
+    "Seenaa dargaggeessa abjuu jaallatamaa fira ofii isaatiin gadi darbatamee garuu biyya fagootti aangoo guddaatti ol ka’e saba koo yaadachiise.",
+    "Sabni koo bulchaa isaan jallisee akka hin ajajamne, kanaa mannaa daandii qajeelummaa fi qajeelfama irratti akka na duukaa bu’an afeereera.",
+    "Hordoftoonni gabroomfataa dhagaadhaan na rukutanii ykn lafa irraa na ari'u jedhanii doorsisanis ifatti dhugaa dubbadhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Amanaa Dhokataa Maatii Fara'oon keessaa",
+        "Paatriyaarkii Obsaan Hanga Ilmi Isaa Deebi'utti Jaamaa Boo'e",
+        "Hojjetaa Amanamaa Dhukkubni Gogaa Isaa Dhumarratti Fayye",
+        "Ilma Cubbamaa Taabota Yaabbachuuf Waamicha Nabiyyii Dide",
+        "Gabroomfataa Gara Laafina Hin Qabne Kan Ofiif Waaqummaa Himatu"
+      ],
+      "answer": "Amanaa Dhokataa Maatii Fara'oon keessaa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Mana murtii abbaa irree keessatti amantii dhoksuu",
+        "Waggoota boo'ichaan jaamummaa rakkachuu",
+        "Maatii dhabuu fi rakkina cimaatiin qoramuu",
+        "Osoo itti qoosamanii doonii guddaa ijaaruu",
+        "Ho'a gubaa ibidda guddaa dandamachuu"
+      ],
+      "answer": "Mana murtii abbaa irree keessatti amantii dhoksuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Masaraa Fara'oon",
+        "Fiixee gaaraa bakka dooniin itti ijaarame",
+        "Gammoojjii qulqulluu gaara Siinaa jala jiru",
+        "Iddoo biqiltuu ajaa'ibaa sulula lama yaa'u qabu",
+        "Teessoo kiristaala laga lafa jalaa olitti argamu"
+      ],
+      "answer": "Masaraa Fara'oon"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Eegumsi Waaqummaa osoo cunqursitoonni badiisa isaanii qunnaman",
+        "Waggoota kurnan lamaan darbaniif addaan ba'anii maatii waliin walitti makame",
+        "Obsa, fayyaa deebi'ee, maatii guddaa argate",
+        "Bidiruu irra taa'ee osoo addunyaan hafe bishaaniin liqimfamte",
+        "Ajaja Rabbiitiin abidda irraa osoo hin miidhamiin baraarame"
+      ],
+      "answer": "Eegumsi Waaqummaa osoo cunqursitoonni badiisa isaanii qunnaman"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

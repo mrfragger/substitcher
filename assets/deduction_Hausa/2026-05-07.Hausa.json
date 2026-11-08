@@ -1,0 +1,61 @@
+{
+  "title": "Mai Kira Daga Zurfi",
+  "intro": "Ka yi tunanin wani rai da aka ba shi amanar saƙon Allah, amma wanda, a cikin gaggawa, ya fita daga mutanensa ba tare da izini ba. Wannan tafiya ta kai su ga wata jarabawa mai ban mamaki, jarabawa mai zurfi ta haƙuri da dogaro ga Maɗaukaki. Wanene wannan mutumin da labarinsa ya koya mana game da tuba da yalwar rahamar Allah?",
+  "clues": [
+    "An aika ni zuwa wata babbar ƙasa, amma ƙin amincewa da su da farko ya sa ni cikin damuwa.",
+    "Na bar mutanena, ina tsammanin aikina ya cika, kafin na sami umarni bayyananne na tafi.",
+    "Na nemi wucewa a cikin jirgin ruwa, amma guguwa mai ƙarfi da kuma jefa ƙuri'a sun haifar da mummunan yanayi.",
+    "An jefa ni cikin teku, sai wani babban halitta daga cikin zurfin teku ya haɗiye ni gaba ɗaya.",
+    "A cikin duhun cikinsa, na yi kira ga Allah, ina amincewa da laifina kuma ina neman gafararSa.",
+    "Allah ya umurci halittar da ta jefa ni a bakin teku, sai na dawo cikin koshin lafiya a ƙarƙashin wata shuka ta musamman."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Yusuf (Annabi Yusuf)",
+        "Annabi Nuhu (Nuhu)",
+        "Annabi Yunus (Annabi Yunus)",
+        "Annabi Sulaiman (Annabi Sulaiman)",
+        "Annabi Ayuba (Ayuba)"
+      ],
+      "answer": "Annabi Yunus (Annabi Yunus)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Rabe-raben teku",
+        "Wutar Nimrod",
+        "Babban kifi ya haɗiye shi",
+        "Ambaliyar ruwa",
+        "Rushewar birni da duwatsu"
+      ],
+      "answer": "Babban kifi ya haɗiye shi"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Akwatin",
+        "Ma'aikatan",
+        "Cikin kifin",
+        "Rijiyar",
+        "Dajin da ke ƙonewa"
+      ],
+      "answer": "Cikin kifin"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Ya zama babban mai mulki",
+        "Gina Ka'aba",
+        "An dawo da shi don ya jagoranci al'umma mai tuba",
+        "An ba shi iko a kan aljanu",
+        "Ya jagoranci mutane a ketaren hamada"
+      ],
+      "answer": "An dawo da shi don ya jagoranci al'umma mai tuba"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

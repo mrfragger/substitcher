@@ -1,0 +1,61 @@
+{
+  "title": "Te Amuamu i Rongohia i Runga Ake i te Haruru",
+  "intro": "Ka rongo koe i tētahi reo e ara ake ana i tētahi hapori kua noho hei tikanga noa te tukino. Kāore he whakaaturanga mana e whakautu ana i te amuamu; engari, ka tae atu he karanga tika ki a Allah, ā, ka pā te whakautu ki te ngākau o te karakia tonu. Nā wai i amuamu, he aha te pātai i whai ake, ā, he aha te pono i whakaūngia?",
+  "clues": [
+    "I pōuri ahau i te tukino a te hunga i tōku taha.",
+    "I whakapuakina e au taua amuamu ki a Allah i roto i tētahi amuamu whaiaro.",
+    "I whakarongo a Allah ki te amuamu, ā, ka whakautu mai ia ki te wero mō taku whakapono.",
+    "I pātai te whakautu, me pēhea rā ahau e kore ai e whakapono ki a Allah, te Kotahi, te Runga Rawa.",
+    "Kātahi ahau ka pātai he aha a Allah me manaaki ai i tētahi iwi kāore e whakapono ana.",
+    "Ko Uzair ahau, e whakahuatia ana i roto i te Surah Az-Zukhruf, ko te tangata i rangona e Allah tāna amuamu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Uzair",
+        "Te hoa i rere i runga i te waipuke nui",
+        "Te pononga i haere i runga i te wai",
+        "Ko te tangata moe e tiakina ana i roto i te ana",
+        "Te pononga nāna i kawe ngā kōhatu ki te awa"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te amuamu ki a Allah mō te tukinotanga o te iwi",
+        "Te hikoi i runga i te wai i te wā o te tupuhi",
+        "Te kawe i ngā kōhatu ki te awa kāore he wai",
+        "Te rere i roto i te waipuke nui i runga i te Āraka",
+        "Te whiwhinga i te kī ki tētahi taonga nui whakaharahara"
+      ],
+      "answer": "Te amuamu ki a Allah mō te tukinotanga o te iwi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He amuamu tika ki a Allah",
+        "He tokotoko i huri hei nakahi",
+        "He oumu i whakamataohia, i rangimārietia",
+        "He āka e mānu ana i runga i ngā wai waipuke",
+        "He ika e horomia ana te pononga"
+      ],
+      "answer": "He amuamu tika ki a Allah"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakarongo a Allah ki te amuamu, ā, i whakaū i te Kotahitanga o te Atua me te Ariki Nui.",
+        "Te hikoi haumaru i runga i te wai i te wā o te tupuhi",
+        "Te whiti haumaru i te waipuke nui i runga i te Āraka",
+        "Te tirohanga anō i roto i te whare rangatira o te whakapehapeha",
+        "Te whiwhi mana mai i te Rawhiti ki te Hauāuru"
+      ],
+      "answer": "I whakarongo a Allah ki te amuamu, ā, i whakaū i te Kotahitanga o te Atua me te Ariki Nui."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

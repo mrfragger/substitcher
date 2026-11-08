@@ -1,0 +1,61 @@
+{
+  "title": "L'esercito che fu affrontato dal piattello volante",
+  "intro": "Nell'era precedente al profeta Maometto, un potente sovrano dello Yemen lanciò una campagna militare con l'obiettivo di distruggere un santuario sacro alla Mecca. Questo nemico guidava un vasto esercito, completo di elefanti da guerra, fiducioso nella propria forza e nel proprio numero. Tuttavia, la loro marcia si concluse bruscamente a causa di un inaspettato intervento divino. Sapreste identificare chi si trovò ad affrontare questa straordinaria resa dei conti?",
+  "clues": [
+    "Marciammo con un esercito imponente e potenti elefanti da guerra verso la casa sacra",
+    "Intendevamo sradicare e distruggere un luogo di culto costruito dai servi del Misericordioso",
+    "Uno stormo di piccoli uccelli fu mandato contro di noi, portando pietre d'argilla nei loro becchi e artigli",
+    "Siamo stati investiti da un suono che ci ha lanciato pietre addosso, trasformandoci in resti calpestati.",
+    "Ero originario della terra dello Yemen e servivo sotto un sovrano che cercava di 挑衅 il santuario sacro",
+    "Siamo stati resi un esempio per coloro che osano sfidare il santuario di Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "L'esercito di Abraha al-Ashram",
+        "Le forze etiopi",
+        "I conquistatori persiani",
+        "Le legioni romane",
+        "I predoni beduini"
+      ],
+      "answer": "L'esercito di Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "L'assedio di una fortezza nel deserto",
+        "Un'invasione del santuario sacro della Mecca",
+        "Una battaglia navale in mare",
+        "Una ribellione contro un re tiranno",
+        "Alla ricerca di un profeta perduto"
+      ],
+      "answer": "Un'invasione del santuario sacro della Mecca"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La valle di Mina vicino alla Mecca",
+        "Il palazzo di Sana'a nello Yemen",
+        "Le montagne di Tihamah",
+        "L'antica città di Gerusalemme",
+        "Le coste del Mar Rosso"
+      ],
+      "answer": "La valle di Mina vicino alla Mecca"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Vittoria e distruzione della casa sacra",
+        "Sconfitta per mano di uccelli che trasportavano pietre d'argilla",
+        "resa pacifica e conversione",
+        "Carestia e disastri naturali",
+        "Ritirata a causa delle forti piogge"
+      ],
+      "answer": "Sconfitta per mano di uccelli che trasportavano pietre d'argilla"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

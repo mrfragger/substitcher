@@ -1,0 +1,61 @@
+{
+  "title": "Uzlecošās saules vārtu sargs",
+  "intro": "Visā Korānā dažas dvēseles ceļo pa zemi, atstājot gudrības un brīnuma pēdas. Viena šāda figūra ceļoja uz radīšanas tālākajiem punktiem — kur saule lec un riet, kur barjera aiztur pašu haosu. Šim Allāha kalpam tika piešķirta valstība, kuru neviens vairs nekad neiegūs. Trīs dažādu ceļojumu laikā šīs personas mērķis kļuva skaidrs. Vai varat atpazīt šo leģendāro klejotāju vēstures ēnās?",
+  "clues": [
+    "Visžēlsirdīgais man piešķīra varu valdīt pār zemi tādā veidā, kā neviens cits nekad nav spējis.",
+    "Es devos rietumu virzienā, līdz sasniedzu vietu, kur riet saule, ieraudzīju to rietam duļķainā pavasara laikā un ieraudzīju tur cilvēkus.",
+    "Es devos ceļojumā uz austrumiem, līdz sasniedzu vietu, kur lec saule, un ieraudzīju to lecot pār ļaudīm, kuriem Mēs nebijām nodrošinājuši no tās nekādu patvērumu.",
+    "Es ceļoju starp šiem diviem galējiem punktiem, līdz nonācu ielejā starp diviem kalniem, kur satiku cilvēkus, kas tik tikko spēja saprast runu.",
+    "Kalnā es atradu divas cietas dzelzs barjeras, kas stiepās pa labi un pa kreisi, un starp tām šauru eju. Šie cilvēki lūdza mani izlauzties cauri barjerai, kas ierobežoja haosu.",
+    "Es paņēmu savu pārtiku un teicu: “Kad barjera pārrausies, šī būs skaidra šķirtība starp mums un šo tautu.” Un, kad pienāca noteiktais laiks, es noskatījos, kā barjera beidzot tika pārrauta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Dhu al-Karnaina",
+        "Pravietis Suleimans",
+        "Pravietis Ibrahims",
+        "Ghassaniyah karalis",
+        "Dhul-Qarnain, klejotājs"
+      ],
+      "answer": "Dhu al-Karnaina"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pārlaužot dzelzs barjeru Jadžujas un Madžujas iedzīvotāju labā",
+        "Kuģa būvēšana pravieša vadībā",
+        "Tempļa celtniecība Jeruzalemē",
+        "Šķērsojot Sarkano jūru kopā ar ticīgajiem cilvēkiem",
+        "Dambja būvniecība, lai aizsargātu taisnīgu tautu"
+      ],
+      "answer": "Pārlaužot dzelzs barjeru Jadžujas un Madžujas iedzīvotāju labā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Dzelzs barjera starp diviem kalniem",
+        "Kuģis noenkurots kalnā",
+        "Svētā pielūgsmes vieta Jeruzalemē",
+        "Upe Ēģiptes zemē",
+        "Svētību aka Madjanā"
+      ],
+      "answer": "Dzelzs barjera starp diviem kalniem"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Noteiktajā laikā barjera tika pārrauta, un sākās haoss.",
+        "Neticīgie tika noslīcināti, kamēr ticīgie tika izglābti",
+        "Taisnīgie tika vadīti uz mūžīgo paradīzi",
+        "Pilsētu iznīcināja spēcīga vēja brāzma",
+        "Elki tika sagrauti, un ļaudis nožēloja grēkus"
+      ],
+      "answer": "Noteiktajā laikā barjera tika pārrauta, un sākās haoss."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ecoul de la marginea orașului",
+  "intro": "Într-un oraș care s-a îndepărtat de îndrumarea divină, o figură solitară a apărut de la periferie, aducând în grabă un mesaj de speranță și avertizare. Acest suflet uitat avea să devină un simbol etern al unei credințe statornice.",
+  "clues": [
+    "Am fost martor la mesageri trimiși în orașul meu, dar poporul meu i-a considerat oameni obișnuiți.",
+    "Am crezut în mesajul lor și am simțit adevărul rezonând în ființa mea.",
+    "Mi-am chemat poporul să asculte de mesagerii care nu au cerut nicio recompensă.",
+    "Am fugit din cel mai îndepărtat capăt al orașului, încercând insistent să-i fac să înțeleagă.",
+    "Poporul meu s-a ridicat împotriva mea și am fost ucis, dar am găsit pacea veșnică.",
+    "Allah mi-a spus: „Intră în Paradis”, și mi-am dorit ca poporul meu să fie martor la onoarea care mi-a fost acordată."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Credinciosul lui Ya-Sin",
+        "Uzair Întrebatorul",
+        "Al-Khidr Ghidul",
+        "Credinciosul familiei faraonului",
+        "Namrud Tiranul"
+      ],
+      "answer": "Credinciosul lui Ya-Sin"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Confruntând un popor necredincios care l-a ucis",
+        "A fi aruncat într-un foc arzător",
+        "Fiind înghițit de un pește mare",
+        "Construirea unei arce masive",
+        "Fugind de armata unui tiran"
+      ],
+      "answer": "Confruntând un popor necredincios care l-a ucis"
+    },
+    "location": {
+      "label": "Locație cheie",
+      "options": [
+        "Capătul cel mai îndepărtat al orașului",
+        "Muntele Turului",
+        "Valea Furnicilor",
+        "Malurile Nilului",
+        "Caverna peșterii"
+      ],
+      "answer": "Capătul cel mai îndepărtat al orașului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Martiriul și intrarea imediată în Paradis",
+        "Evadare și salvare",
+        "Înălțarea la ceruri",
+        "Înecându-se în mare",
+        "Transformându-se în piatră"
+      ],
+      "answer": "Martiriul și intrarea imediată în Paradis"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

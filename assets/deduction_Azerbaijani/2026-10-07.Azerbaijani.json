@@ -1,0 +1,61 @@
+{
+  "title": "Təkəbbür sarayının içindəki alov",
+  "intro": "Qədim dünyanın ən güclü sarayının əzəmətli divarlarının arxasında ürəyində heç bir kral fərmanı susdura bilməyəcəyi bir sirr olan bir şəxsiyyət yaşayırdı. Ətrafdakı hər kəs yalançı tanrılara səcdə edərkən, bu ruh özündə sakit bir imanı yandırırdı. Həmin torpağın hökmdarı özünü ilahi hesab edirdi, lakin bu şəxs rahatlıqdan daha çox həqiqəti, təhlükəsizlikdən daha çox sədaqəti seçirdi. Bu gün sizin vəzifəniz hekayəsi sarsılmaz imanın ən güclü nümunələrindən biri olaraq qalan bu cəsur ruhun kim olduğunu kəşf etməkdir.",
+  "clues": [
+    "Mən böyük sərvət və misilsiz əzəmətə malik bir yerdə yaşayırdım, burada torpaq hökmdarı hər şey üzərində mütləq hakimiyyətə malik idi.",
+    "Ətrafımdakılar yalançı tanrılara səcdə edərkən, mən ürəyimdə sakit bir iman nuru saxlayırdım.",
+    "Mənə qeyri-adi bir şəkildə - doğuşdan deyil, böyük bir çayın suları ilə - gətirilən bir uşağı kəşf etdim və övladlığa götürdüm.",
+    "Rəbbimə dua etdim, cənnətdə Ona yaxın bir məskən və məni əhatə edən zülmdən qurtuluş dilədim.",
+    "Böyüdüyüm uşaq taleyimi idarə edən hökmdara meydan oxuyacaq qədər böyüdü və mən təhdid altında olsam belə, inancımda möhkəm dayandım.",
+    "Mən Quranda adı iman nümunəsi kimi çəkilən şəxsəm və Fironun sarayında yaşamışam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Fironun həyat yoldaşı Asiya",
+        "İsanın anası Məryəm",
+        "Səba kraliçası Bilqis",
+        "Lut peyğəmbərin həyat yoldaşı",
+        "İmranın həyat yoldaşı"
+      ],
+      "answer": "Fironun həyat yoldaşı Asiya"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük peyğəmbər olan tərk edilmiş bir körpəni tapmaq və böyütmək",
+        "Bir zalım tərəfindən böyük bir oda atılmaq",
+        "Bir xalqı məhv edən böyük bir daşqının şahidi olmaq",
+        "Xurma silkələməsinin şahidi olun və qidalandırın",
+        "Yaşının irəliləməsinə baxmayaraq, oğul övladı dünyaya gətirmək"
+      ],
+      "answer": "Böyük peyğəmbər olan tərk edilmiş bir körpəni tapmaq və böyütmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Misilsiz əzəmətə malik kral sarayı",
+        "Daşqına davam gətirmək üçün tikilmiş böyük bir gəmi",
+        "Dağlarda gizlənmiş dərin bir mağara",
+        "Dağın zirvəsində yanan bir alov",
+        "Divarlarla əhatə olunmuş bir bağ"
+      ],
+      "answer": "Misilsiz əzəmətə malik kral sarayı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Allahın izni ilə cənnətdə bir ev verildi",
+        "Böyük bir sel qədim bir xalqın kafirlərini məhv etdi",
+        "Bu dünyada böyük bir güc və səlahiyyət səltənəti verildi",
+        "Qüdrətli bir ordu uçan quşlar tərəfindən dağıldı",
+        "Tanrılıq iddiası edən bir zalım dənizdə boğuldu"
+      ],
+      "answer": "Allahın izni ilə cənnətdə bir ev verildi"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

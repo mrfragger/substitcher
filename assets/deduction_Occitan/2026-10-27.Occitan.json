@@ -1,0 +1,61 @@
+{
+  "title": "Un sètge jos un cèl subte",
+  "intro": "Sètz de pè davant una armada formidabla que s'apròcha d'un santuari venerat, amb tota arma prèsta e la victòria en aparéncia segura. Abans que l'assaut pòsca començar, un poder inesperat apareis al dessús, e lo concors pren un viratge que degun prevesiá pas.",
+  "clues": [
+    "Marchèrem amb una confiéncia que cap de poder terrèstre poiriá trebolar.",
+    "Portèrem d'elefants poderoses, e nòstra fòrça semblava bastida a l'entorn d'eles.",
+    "Èrem venguts demolir un santuari venerat, en cresent que nòstra victòria èra ja segura.",
+    "Quand i arribèrem, un tropèl s'escobèt lo cèl al dessús de nosautres.",
+    "Los aucèls lancèron de pèiras d'argila durcida cap a nòstres guerrièrs.",
+    "Foguèrem vencuts tan completament que nòstra fòrça poderosa s'esfondrèt e s'escampèt coma de cendres."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo Pòble de l'Elefant",
+        "Los Dos Princes",
+        "Los fraires de Josèp",
+        "Lo servidor d'Allah a Dhul-Kifl",
+        "Los companhs de l'òme just"
+      ],
+      "answer": "Lo Pòble de l'Elefant"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "L'assaut menat per d'elefants sus la Kaaba",
+        "La mar se despartissent davant un grop liurat",
+        "La presa de l'Arca per un pòble tiranic",
+        "Lo viatge nocturn entre doas mosquèas",
+        "La sanacion d'un lepros per la poténcia divina"
+      ],
+      "answer": "L'assaut menat per d'elefants sus la Kaaba"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Aucèls que pòrtan de pellets d'argila",
+        "Una arca de gofer",
+        "Un baston transformat en sèrp",
+        "Una pèira sagelada amb un signe",
+        "Un arbust ardent"
+      ],
+      "answer": "Aucèls que pòrtan de pellets d'argila"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Lor fòrça poderosa s'esfondrèt coma de cendres",
+        "Traversèron la mar en seguretat",
+        "Caminèron sens damatge a travèrs un forn ardent",
+        "Dintrèron dins lo Paradís en parelhs",
+        "Dormiguèron dins una cauna pendent 309 ans"
+      ],
+      "answer": "Lor fòrça poderosa s'esfondrèt coma de cendres"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

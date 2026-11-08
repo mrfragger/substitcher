@@ -1,0 +1,61 @@
+{
+  "title": "Los quebrantadores del pacto exiliados",
+  "intro": "En los albores de una comunidad incipiente, una tribu habitaba en viviendas fortificadas, unidas por un pacto. Cuando ese pacto fue traicionado, las consecuencias quedaron plasmadas en las páginas del Corán. ¿Quiénes eran estas personas y qué fue de sus hogares y huertos?",
+  "clues": [
+    "Habitábamos en fortalezas que nos daban una falsa sensación de seguridad.",
+    "Éramos gente de las Escrituras, pero rompimos nuestro pacto.",
+    "Conspiramos contra el mensajero después de que llegó hasta nosotros, pero nuestro plan fracasó.",
+    "Nuestras palmeras fueron taladas por orden de Alá, una señal de Su poder.",
+    "Fuimos expulsados ​​de nuestros hogares, para no volver jamás, como castigo por nuestra rebeldía.",
+    "El Corán nos menciona en el capítulo de la reunión, y nuestra historia sirve de advertencia para quienes rompen los pactos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Pueblo de Madyan",
+        "Gente de Thamud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Asedio y expulsión de sus hogares",
+        "Ahogándose en el mar",
+        "Ser engullido por la tierra",
+        "Destrucción causada por una tormenta",
+        "Ser transformados en simios"
+      ],
+      "answer": "Asedio y expulsión de sus hogares"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Palmeras taladas",
+        "El personal",
+        "El arca",
+        "El pozo de agua",
+        "La cueva"
+      ],
+      "answer": "Palmeras taladas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Exiliados y sus propiedades confiscadas.",
+        "Regresó victorioso",
+        "Fueron perdonados y permanecieron",
+        "Entré al paraíso inmediatamente",
+        "Fueron azotados por una plaga."
+      ],
+      "answer": "Exiliados y sus propiedades confiscadas."
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

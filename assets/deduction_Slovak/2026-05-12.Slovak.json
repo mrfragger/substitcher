@@ -1,0 +1,61 @@
+{
+  "title": "Neústupná autorita",
+  "intro": "V starovekých krajinách kedysi vládla mocná autorita, ktorá spravovala obrovské zdroje a životy nespočetných ľudí. Napriek jasným znameniam a varovaniam si tento vládca zvolil cestu vzdoru, čo viedlo k hlbokej konfrontácii, ktorá sa bude ozývať časom.",
+  "clues": [
+    "Nárokoval som si najvyššiu moc a autoritu nad rozsiahlou doménou.",
+    "Vyzval som pokorného posla, ktorého poslal Pán všetkých ríš.",
+    "Môj ľud bol známy svojím majstrovstvom v oblasti veľkolepých stavieb a rieky, ktorá udržiavala našu civilizáciu nažive.",
+    "Bol som svedkom mnohých zázračných znamení, vrátane palice premenenej na hada a jasne žiariacej ruky.",
+    "Napriek božským príkazom som odmietol dovoliť skupine zotročených ľudí opustiť moju zem.",
+    "Moje prenasledovanie odchádzajúceho ľudu zaviedlo mňa a moje armády do srdca rozdeleného mora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Júsuf",
+        "Kráľ Talut",
+        "Faraón (Fir'awn)",
+        "Prorok Dawud",
+        "Namrud"
+      ],
+      "answer": "Faraón (Fir'awn)"
+    },
+    "trial": {
+      "label": "Kľúčová konfrontácia",
+      "options": [
+        "Povodeň, ktorá zaplavila krajinu",
+        "Rozštiepenie mora",
+        "Horiaci ker",
+        "Stavba Kaaby",
+        "Zničenie silným vetrom"
+      ],
+      "answer": "Rozštiepenie mora"
+    },
+    "location": {
+      "label": "Definujúci aspekt",
+      "options": [
+        "Hovoriace zviera",
+        "Zamestnanec a žiariaca ruka",
+        "Zázračný zrod",
+        "Lietajúci koberec",
+        "Majestátny trón na vode"
+      ],
+      "answer": "Zamestnanec a žiariaca ruka"
+    },
+    "outcome": {
+      "label": "Konečný osud",
+      "options": [
+        "Vystúpil do nebies",
+        "Pohltený zemou",
+        "Utopený v mori",
+        "Premenený na opicu",
+        "Vzhľadom na obrovské bohatstvo a moc"
+      ],
+      "answer": "Utopený v mori"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

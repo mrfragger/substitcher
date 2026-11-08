@@ -1,0 +1,61 @@
+{
+  "title": "La Comunitat de la Primera Transgressió",
+  "intro": "A la terra de les ciutats antigues, un poble va prosperar. Van rebre la visita d'un missatger amb una crida clara, però van girar la vista i van seguir un camí que ningú havia caminat mai. La seva història és de desafiament, depravació i un càstig que va deixar la seva pàtria com un senyal per a tots els que reflexionen. Qui són aquestes ànimes?",
+  "clues": [
+    "Vivíem a les ciutats de la plana, on el nostre profeta ens cridava a la justícia.",
+    "Vam ser els primers a cometre una indecència que ningú en tots els mons havia comès mai abans.",
+    "Atacàvem els viatgers i cometíem el mal obertament a les nostres reunions.",
+    "Vam rebutjar el missatger que ens havia enviat i vam amenaçar de fer-lo fora de la nostra terra.",
+    "Vam córrer a casa seva exigint-li que ens lliurés els seus convidats.",
+    "El nostre càstig va ser una pluja de pedres, i la nostra ciutat va quedar cap per avall."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Gent de Lut",
+        "Gent de Nuh",
+        "Gent d'Ad",
+        "Gent de Thamud",
+        "Gent de Madyan"
+      ],
+      "answer": "Gent de Lut"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va cometre el primer acte de sodomia",
+        "Ídols venerats",
+        "Enganyat en el comerç",
+        "Van matar el seu profeta",
+        "Van desobeir els seus pares"
+      ],
+      "answer": "Va cometre el primer acte de sodomia"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La ciutat de la plana",
+        "La ciutat del pou",
+        "La ciutat de la fossa",
+        "La ciutat de l'elefant",
+        "La ciutat del jardí"
+      ],
+      "answer": "La ciutat de la plana"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Va ploure amb pedres i va bolcar",
+        "Ofegat per una inundació",
+        "Destruït per un vent violent",
+        "Engolit per la terra",
+        "Colpejat per una forta explosió"
+      ],
+      "answer": "Va ploure amb pedres i va bolcar"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Isizwe Esasingayithobeliyo Imithetho Yendalo",
+  "intro": "Kwingingqi apho ibali layo liphindaphindeka khona kwixesha elidlulileyo, uluntu lwaluphila ngokuvukela imithetho yobunyulu. Izenzo zabo zazingazange zibonwe ngaphambili kangangokuba zikhunjulwa njengesilumkiso kubo bonke abantu. Yayingoobani le miphefumlo, kwaye yintoni eyabafikela?",
+  "clues": [
+    "Sasihlala kwilizwe elikufutshane nendlela abahambi ababedla ngokudlula kuyo, kodwa sayenza yaba yingozi indlela yabo.",
+    "Senze izenzo ezingafanelekanga ekungekho mntu wakha wazenza ngaphambili.",
+    "Isithunywa esivela phakathi kwethu sasibiza ukuba sishiye iindlela zethu, kodwa samlahla saza safuna isohlwayo ukuba wayenyanisile.",
+    "Xa iindwendwe ezintle zifika kwisixeko sethu, sazama ukuzihlasela, singazi ukuba zizithunywa zentshabalalo.",
+    "Salunyukiswa ngesohlwayo esibi ukuba asiyi kuyeka, kodwa sahlekisa ngesilumkiso saza sahlala esonweni sethu.",
+    "Imvula yamatye evela ezulwini yasiwela, amakhaya ethu abhukuqwa, akwasala nelimdaka ngaphandle komqondiso kwabo bacingayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu bakaLut",
+        "Abantu baseThamud",
+        "Abantu base-A'ad",
+        "Abantu baseMadyan",
+        "Abantu baseSaba"
+      ],
+      "answer": "Abantu bakaLut"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ndenze ukuziphatha okubi okungazange kwenzeke ngaphambili kwaye ndathintela iindlela",
+        "Wanqula ithole legolide",
+        "Wabulala inkamela engcwele",
+        "Ukuqhathwa kurhwebo kunye nokutshintsha abantu",
+        "Wakha inqaba ephakamileyo ukuze acele umngeni amazulu"
+      ],
+      "answer": "Ndenze ukuziphatha okubi okungazange kwenzeke ngaphambili kwaye ndathintela iindlela"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Iingelosi zizenze ngathi ziindwendwe ezintle",
+        "Inkamela yemazi iphuma eliweni",
+        "Intonga eguquka ibe yinyoka",
+        "Isikhephe esakhiwe entabeni",
+        "Umlilo owaba noxolo nopholileyo"
+      ],
+      "answer": "Iingelosi zizenze ngathi ziindwendwe ezintle"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Itshatyalaliswe yimvula yamatye avela esibhakabhakeni",
+        "Iginywe ngumhlaba",
+        "Nditshonile kumkhukula omkhulu",
+        "Ndibethwe kukuqhushumba okukhulu",
+        "Iguqulwe yaba ziinkawu"
+      ],
+      "answer": "Itshatyalaliswe yimvula yamatye avela esibhakabhakeni"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

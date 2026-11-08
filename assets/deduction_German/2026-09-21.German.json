@@ -1,0 +1,61 @@
+{
+  "title": "Der Schrei aus der Tiefe",
+  "intro": "Ein Diener des Allerbarmers wurde des sturen Volkes überdrüssig und reiste ab, bevor ihm die Erlaubnis erteilt wurde. Er gelangte an einen Ort, den noch nie ein Mensch betreten hatte, wo der Ruf des Göttlichen auf seltsame Weise durch die Dunkelheit hallt. Geschwächt, aber verwandelt, wurde diese Seele zu einer zeitlosen Lektion in Geduld, aufrichtiger Reue und der grenzenlosen Barmherzigkeit des Schöpfers. Können Sie das Geheimnis lüften?",
+  "clues": [
+    "Ich wurde als Bote zu meinem Volk gesandt, aber sie überschritten alle Grenzen des Unglaubens und weigerten sich, zuzuhören.",
+    "Ich wurde wütend über ihre Ablehnung und floh vor meinem Volk, noch bevor Allahs Befehl kam.",
+    "Ich ging an Bord eines Schiffes, das bis zum Anschlag beladen war, und wir losten aus, wer über Bord geworfen werden sollte.",
+    "Ich wurde ins tobende Meer geworfen und von einem riesigen Fisch verschluckt.",
+    "Gefangen in drei Schichten der Dunkelheit – dem Bauch, der Tiefsee und der Erde darunter – rief ich in aufrichtiger Reue zu meinem Herrn.",
+    "Ich stieg aus dem Fisch ans offene Ufer, schwach und erschöpft, und eine Kürbispflanze wuchs über mir. Mein Volk, hunderttausend oder mehr, glaubte schließlich."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Yunus",
+        "Prophet Ayyub",
+        "Prophet Yusuf",
+        "Prophet Musa",
+        "Prophet Sulaiman"
+      ],
+      "answer": "Prophet Yunus"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Verschluckt von einem großen Fisch",
+        "In ein loderndes Feuer geworfen",
+        "Gefangen am Grund eines Brunnens",
+        "Überwältigt von einer großen Flut",
+        "Zu Unrecht von einem König eingekerkert"
+      ],
+      "answer": "Verschluckt von einem großen Fisch"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Bauch eines großen Fisches",
+        "Das heilige Tal in der Nähe der Kaaba",
+        "Eine Arche ruht auf einem Berg",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein Thron von unvergleichlicher Pracht"
+      ],
+      "answer": "Der Bauch eines großen Fisches"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sein Volk, hunderttausend oder mehr, glaubte",
+        "Lebendig in den Himmel erhoben",
+        "Wurde Herrscher eines unvergleichlichen Königreichs",
+        "Zerstört von einem durchdringenden Schrei vom Himmel",
+        "Durch ein verheerendes Erdbeben umgestürzt"
+      ],
+      "answer": "Sein Volk, hunderttausend oder mehr, glaubte"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

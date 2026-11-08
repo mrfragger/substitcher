@@ -1,0 +1,61 @@
+{
+  "title": "Vaaki Va Tijarateni Timbirhi",
+  "intro": "Etikweni leri mikateko a yi khuluka hi xitalo, vaaki va tshame va tiphina hi ku tala ka swirhapa swimbirhi swo hlamarisa. Vutomi bya vona a byi ri vumbhoni bya ku tsakeriwa hi Xikwembu, hambiswiritano xitori xa vona xi teke ku hundzuka loko ku tlangela ku hunguteka, leswi yiseke eka ku hundzuka loku a ku ta va xikombiso lexi nga heriki eka hinkwavo lava anakanyisisaka.",
+  "clues": [
+    "A hi ri vanhu lava katekisiweke hi tiko ro olova ni ro tala.",
+    "Hosi ya hina yi hi nyike tijarateni timbirhi to saseka, leti tlhumeke naswona ti ri ni mihandzu ematlhelo hinkwawo.",
+    "Hi lerisiwe ku tlangela, kambe hi hlawule ku nga nkhensi kutani hi fularhela.",
+    "Damu lerikulu ri sivele mati lama nyikeke vutomi etikweni ra hina.",
+    "Loko hi phikelela eka xiendlo xa hina xo biha, damu ri bulukile naswona mati ya ndhambi ma khukhule.",
+    "Tijarateni ta hina leti khale a ti tlhumeke ti siviwe hi mihandzu yo bava, ti- tamarisk ni mirhi yi nga ri yingani ya lote."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vanhu va le Saba",
+        "Vanhu va le Thamud",
+        "Vanhu va le Madyan",
+        "Vaseketeri va Bako",
+        "Vanhu va Ndlopfu"
+      ],
+      "answer": "Vanhu va le Saba"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Moya wa matimba ku ringana vusiku bya nkombo",
+        "Xidzedze xa maribye lexi humaka exibakabakeni",
+        "Ndhambi leyi onhaka leyi humaka eka damu leri pfurhaka",
+        "Ku huwelela lokukulu loku humaka exibakabakeni",
+        "Ku nwela elwandle"
+      ],
+      "answer": "Ndhambi leyi onhaka leyi humaka eka damu leri pfurhaka"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Damu lerikulu ra Ma'rib",
+        "Nkova wa Wadi al-Qura",
+        "Ntanga wa Iramu",
+        "Xihlovo xa Zamzam",
+        "Ntshava ya Sinayi"
+      ],
+      "answer": "Damu lerikulu ra Ma'rib"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Tijarateni ta hina ti siviwe hi mihandzu yo bava ni mirhi leyi nga nyawuriki",
+        "Hi mitiwe hi misava hi ku tsekatseka ka misava",
+        "Hi hundzuriwile hi va tindlopfu ni tinguluve",
+        "Hi nwile hi ndhambi leyikulu",
+        "Hi lovisiwile hi mpfula ya maribye"
+      ],
+      "answer": "Tijarateni ta hina ti siviwe hi mihandzu yo bava ni mirhi leyi nga nyawuriki"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

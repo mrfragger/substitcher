@@ -1,0 +1,61 @@
+{
+  "title": "A queixa escoitada por riba do ruído",
+  "intro": "Escoitas unha voz que se eleva dunha sociedade onde a opresión se converteu en rutina. Ningunha demostración de poder responde á queixa; en cambio, unha apelación directa chega a Alá, e a resposta golpea o corazón da propia adoración. Quen fixo esa queixa, que pregunta seguiu e que verdade se afirmou?",
+  "clues": [
+    "Preocupoume a opresión da xente que me rodeaba.",
+    "Expreseille esa queixa directamente a Alá nunha queixa persoal.",
+    "Alá escoitou a queixa e respondeu cun desafío sobre a miña propia crenza.",
+    "A resposta preguntábame como podía deixar de crer en Alá, que é Único e Supremo.",
+    "Entón preguntei por que Alá debería favorecer a un pobo que era incrédulo.",
+    "Son Uzair, nomeado na sura Az-Zukhruf como aquel cuxa queixa Alá escoitou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Uzair",
+        "O compañeiro que navegou na gran inundación",
+        "O servo que camiñou sobre a auga",
+        "O durmiente protexido dentro dunha cova",
+        "O criado que trouxo pedras a un río"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Queixándose a Alá pola opresión do pobo",
+        "Camiñando sobre a auga durante unha tormenta",
+        "Levando pedras a un río que carecía de auga",
+        "Navegando a través dunha gran inundación a bordo da Arca",
+        "Recibir a chave dun inmenso tesouro"
+      ],
+      "answer": "Queixándose a Alá pola opresión do pobo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Unha queixa directa dirixida a Alá",
+        "Un bastón que se converteu nunha serpe",
+        "Un forno feita fresca e pacífica",
+        "Unha arca flotando sobre as augas da inundación",
+        "Un peixe tragando un criado"
+      ],
+      "answer": "Unha queixa directa dirixida a Alá"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Alá escoitou a queixa e afirmou a Unidade divina e o Señorío Supremo",
+        "Camiñar con seguridade sobre a auga durante unha tormenta",
+        "Cruzando unha gran inundación con seguridade a bordo da Arca",
+        "Recuperando a vista dentro dun palacio de arrogancia",
+        "Recibir dominio que se estende de leste a oeste"
+      ],
+      "answer": "Alá escoitou a queixa e afirmou a Unidade divina e o Señorío Supremo"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

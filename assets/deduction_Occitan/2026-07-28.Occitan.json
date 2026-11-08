@@ -1,0 +1,61 @@
+{
+  "title": "L'espròva de la creatura sacrada",
+  "intro": "Un panèu foguèt mandat a una nacion que s'èra desviada. Al mitan de lors vidas confortables venguèt un avertiment — acompanhat d'una creatura remarcabla que vendriá l'espròva finala de lor fe. Lor responsa sagellariá lor destin per totjorn. Podètz descobrir qual a prononciat aquel avertiment e çò que se passèt amb los que lo refusèron?",
+  "clues": [
+    "Èrem un pòble qu'èra estat guidat per de messatgièrs precedents abans nosautres.",
+    "Una creatura magnifica sortiguèt de la montanha, un signe de nòstre Senhor per aquela nacion.",
+    "Lor diguèri: 'Aquò's una camèla apartenent a Allah, doncas la daissatz manjar de la tèrra d'Allah e la tocatz pas de mal.'",
+    "Mas lo pòble s'escampèt ma camèla, desfisant lo comandament de son Senhor.",
+    "Soi pas qu'un messatgièr de vòstre Senhor, mandat amb la vertat — soi un profèta e un servicial de fisança.",
+    "Per çò qu'es dels malfactors, nòstre Senhor los tustèt amb un bruch tronós, e venguèron immobils dins lors ostals."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Profèta Hud del pòble d'A'ad",
+        "Profèta Salih del pòble de Thamud",
+        "Profèta Shu'aib de Madian",
+        "Propheta Lut del poble de Sodoma",
+        "Profèta Nuh de l'Arca"
+      ],
+      "answer": "Profèta Salih del pòble de Thamud"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Lo Deluvi qu'afoguèt una nacion incredula",
+        "Lo tèrratrem que destruguèt una vila pecaire",
+        "La camèla mandada coma un signe divin e una pròva",
+        "La tempèsta que castiguèt lo pòble de Madian",
+        "La destruccion del pòble de Lòt amb de pèiras"
+      ],
+      "answer": "La camèla mandada coma un signe divin e una pròva"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La vila de Sodòma dins la val de Jordan",
+        "La val d'Al-Hijr entre Hijaz e Siria",
+        "L'anciana tèrra d'A'ad dins lo sud d'Arabia",
+        "Los bòsques de Madian près de la mar Roja",
+        "Las planas del mont Judi en Mesopotamia"
+      ],
+      "answer": "La val d'Al-Hijr entre Hijaz e Siria"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Foguèron salvats après se repentir e aver cregut",
+        "Una pluèja de pèiras los destruguèt completament",
+        "Un bruch tronós los tustèt immobils",
+        "Foguèron emportats per un vent violent",
+        "Un tèrratrem los engoliguèt dins lo sòl"
+      ],
+      "answer": "Un bruch tronós los tustèt immobils"
+    }
+  },
+  "verseRef": "54:31",
+  "arabic": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+  "verse": "Indeed, We sent upon them one shriek [i.e., blast from the sky], and they became like the dry twig fragments of an [animal] pen. (54:31)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A datolyapálma árnyékában",
+  "intro": "Egy történet bontakozik ki egy lélekről, akit születése előtt elkülönítettek, szent falak között neveltek, és kiválasztottak, hogy egy olyan jelet hordozzon, amelyet a világ még soha nem látott. Amikor minden irányból vádak hangzottak fel, egy hang a legváratlanabb helyről szólt, hogy elhallgattassa a kételyeket. Vajon kideríted, ki járt a datolyapálma árnyékában?",
+  "clues": [
+    "Már az első lélegzetem megszületésem előtt a Mindenható szolgálatára szenteltem magam, ezt a fogadalmat az tette, aki hordozott.",
+    "Egy igazlelkű őr vigyázása alatt nőttem fel egy istentiszteleti hely szent kamráiban.",
+    "Valahányszor a gyámom a szobámba jött, olyan évszakokból származó ellátmányt talált nálam, amelyeknek nem lett volna szabad lenniük.",
+    "Örömhírt kaptam egy fiúról, bár a körülményeim nem hagytak teret az ígéreteknek.",
+    "Egy távoli helyre vonultam vissza, ahol egy datolyapálma árnyékot adott, alattam pedig egy patak csörgedezett.",
+    "Amikor vádak és kérdések özönlöttek elém, rámutattam az újszülött gyermekemre – és ő már a bölcsőtől fogva beszélt hozzám, hogy elhallgattasson minden kétséget."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Mária",
+        "Sára",
+        "Hawwa",
+        "Umm Musa",
+        "Nuh felesége"
+      ],
+      "answer": "Mária"
+    },
+    "trial": {
+      "label": "Próba / Esemény",
+      "options": [
+        "Csodálatos fiúgyermek születése elszigeteltségben",
+        "Bálványimádók lángoló tűzbe vetik",
+        "Túlélni a nagy özönvizet egy kiválasztott kevesekkel",
+        "Elszakítva egy folyóba vetett csecsemőtől",
+        "Szembenézni Egyiptom hatalmas uralkodójával"
+      ],
+      "answer": "Csodálatos fiúgyermek születése elszigeteltségben"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy datolyapálma és alatta egy folyó patak",
+        "Egy hatalmas bárka a magasodó hullámokon",
+        "Egy bot, amely kettéhasított egy nagy tengert",
+        "Egy lángoló tűz, aminek az a célja, hogy felemésszen egy hűséges lelket",
+        "Drágakövekkel díszített arany trón"
+      ],
+      "answer": "Egy datolyapálma és alatta egy folyó patak"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Minden nő közül a legmagasztosabbként tisztelték",
+        "Hosszú különlét után újra találkoztak szeretett gyermekükkel",
+        "Egy egész nemzetet kivezetett egy zsarnok rabságából",
+        "Figyelmeztettek egy erkölcstelenségben elveszett népet",
+        "Uralmat adott a dzsinnek, az emberiség és a szelek felett"
+      ],
+      "answer": "Minden nő közül a legmagasztosabbként tisztelték"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

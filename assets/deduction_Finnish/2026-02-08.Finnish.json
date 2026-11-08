@@ -1,0 +1,60 @@
+{
+  "title": "Kaukaisen valtaistuimen arvoitus",
+  "intro": "Voimakas monarkki, jolla oli poikkeuksellinen valta, kohtasi erikoisen haasteen, johon liittyi kaukaisesta maasta kotoisin oleva kuningatar. Monarkki pyrki osoittamaan jumalallista voimaansa ja viisauttaan käynnistäen uskomattoman tapahtuman, joka uhmasi ajan ja avaruuden lakeja. Voitko päätellä tämän ihmeellisen tapahtuman yksityiskohdat?",
+  "clues": [
+    "Hallitsijalle annettiin valtava valta, mukaan lukien näkymättömien olentojen hallinta ja kyky käskeä tuulia.",
+    "Tämä hallitsija sai tiedon varakkaasta kuningattaresta, joka palvoi aurinkoa, ja päätti kutsua hänet hoviin.",
+    "Ennen kuningattaren saapumista hallitsija ilmaisi halunsa tuoda upean valtaistuimensa kaukaisesta valtakunnastaan.",
+    "Mahtava džinni tarjoutui hakemaan esineen ennen kuin hallitsija ehtisi nousta neuvostostaan.",
+    "Kuitenkin eräs, jolla oli syvällinen tietämys jumalallisista kirjoituksista, tarjosi vielä nopeamman haun, suorittaen tehtävän silmänräpäyksessä.",
+    "Saapuessaan palatsiin hallitsija määräsi esineen muutettavaksi kuningattaren älyn ja havaintokyvyn testaamiseksi."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeetta/Henkilö",
+      "options": [
+        "Profeetta Mooses",
+        "Profeetta Daavid",
+        "Profeetta Ibrahim",
+        "Profeetta Yusuf",
+        "Profeetta Sulayman"
+      ],
+      "answer": "Profeetta Sulayman"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Meren jakautuminen",
+        "Kärsivällisyys vastoinkäymisissä",
+        "Kaaban rakentaminen",
+        "Puutarhojen testi",
+        "Kuningattaren valtaistuimen tuominen"
+      ],
+      "answer": "Kuningattaren valtaistuimen tuominen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Arkki",
+        "Henkilökunta",
+        "Vuori",
+        "Kaivo",
+        "Valtaistuin"
+      ],
+      "answer": "Valtaistuin"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Suuri uhraus",
+        "Perustettu valtakunta",
+        "Ihmiset, joita rangaistaan",
+        "Uusi liitto",
+        "Kuningattaren alistuminen Allahille"
+      ],
+      "answer": "Kuningattaren alistuminen Allahille"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

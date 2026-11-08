@@ -1,0 +1,61 @@
+{
+  "title": "Küla Proovimaastiku kaldal",
+  "intro": "Sa leiad end rannikukülas, kus lainete kohin seguneb unustatud rahva sosinal. Neile anti käsk rahu saada, kuid nende ahnus viis karistuseni, millest siiani vaikivalt räägitakse. Kas suudad avastada, kes nad olid?",
+  "clues": [
+    "Me elasime rannal ja meile anti käsk pidada puhkepäeva.",
+    "Sel päeval tuli meile külluses kala, aga meil oli keelatud seda võtta.",
+    "Mõned meist hoiatasid üleastumise eest, aga teised sepitsesid ikkagi vandenõu kala püüda.",
+    "Me rikkusime püha käsku ja tõime endale kaasa ränga karistuse.",
+    "Meie karistuseks oli muutus, mis meid moonutas ja häbistas.",
+    "Meid muudeti ahvideks, märgiks kõigile, kes pärast meid tulevad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Hingamispäeva inimesed",
+        "Thamudi rahvas",
+        "'Redi inimesed",
+        "Koopa inimesed",
+        "Elevandi rahvas"
+      ],
+      "answer": "Hingamispäeva inimesed"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kalapüük hingamispäeval",
+        "Kuldvasika kummardamine",
+        "Hudi sõnumi eitamine",
+        "Emase kaameli tapmine",
+        "Taevasse torni ehitamine"
+      ],
+      "answer": "Kalapüük hingamispäeval"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kala",
+        "Emane kaamel",
+        "Personal",
+        "Paat",
+        "Aed"
+      ],
+      "answer": "Kala"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Muutusid ahvideks",
+        "Hävis üleujutuses",
+        "Hävis lõõmavas tulekahjus",
+        "Maa poolt neelatud",
+        "Tuule poolt hajutatud"
+      ],
+      "answer": "Muutusid ahvideks"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

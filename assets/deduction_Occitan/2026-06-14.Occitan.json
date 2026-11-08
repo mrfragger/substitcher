@@ -1,0 +1,61 @@
+{
+  "title": "La Flama Que Desvelèt un Legat",
+  "intro": "Dins los annals de la resisténcia, i a una figura que son quite nom venguèt un avertiment fins a la fin dels tempses. Aquesta persona causiguèt l'enemistat per dessús la parentèla, lo desfís per dessús la somission, e s'opausèt a una crida de pietat. Escotatz plan los ressons d'una proclamacion anciana del temps que descobrissèm l'identitat d'aquela anma notòria.",
+  "clues": [
+    "Soi nascut dins lo meteis clan que lo messatgièr final d'Allah, pasmens me pausèri contra eles a cada virada.",
+    "Mon nom portava de significacion — un nom que significava 'paire de flama', un nom que prefigurariá mon destin eternal.",
+    "Desliurèri de mal contra lo portaire de la vertat, e quitament mon pròpri ostal s'inscriguèt dins aquela campanha de crudeltat.",
+    "Utilizèri ma riquesa e ma influéncia per far calar la crida a Allah, en cresent que l'argent podiá apagar la lutz divina.",
+    "Allah me consacrèt un capítol entièr — un capítol tan brèu que se pòt recitar en segondas, e mai son pes demòra fins al Jorn del Jutjament.",
+    "Mon companh dins l'aldilà camina darrièr ieu, ligat per una còrda de fibra a l'entorn del còl, portant las quitas espinas qu'espandissián."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Omayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definir l'afrontament",
+      "options": [
+        "Menant l'oposicion contra lo Profèta a la Meca",
+        "Migrar cap a Abissinia per escapar a la persecucion",
+        "Construccion de la Kaaba amb lo profèta Ibrahim",
+        "Acceptar l'islam sul lièch de la mòrt",
+        "Fargar lo Tractat d'Hudaybiyyah"
+      ],
+      "answer": "Menant l'oposicion contra lo Profèta a la Meca"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una femna que portava d'espinas e de lenha",
+        "Un baston que se transformèt en sèrp",
+        "Un anèl portant lo sagèl de Salomon",
+        "Un vedèl d'aur venerat pel pòble",
+        "Una font que gisclava d'aiga"
+      ],
+      "answer": "Una femna que portava d'espinas e de lenha"
+    },
+    "outcome": {
+      "label": "Compte final",
+      "options": [
+        "Una sura entièra revelada declarant una roïna totala",
+        "Venguèt lo cap de la comunautat musulmana",
+        "Recebut lo perdon al moment de la mòrt",
+        "Bastiguèt una granda mosquèa a Medina",
+        "Fo ressuscitat demest los justs"
+      ],
+      "answer": "Una sura entièra revelada declarant una roïna totala"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

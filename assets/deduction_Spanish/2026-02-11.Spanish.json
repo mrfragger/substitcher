@@ -1,0 +1,60 @@
+{
+  "title": "La carga de la riqueza",
+  "intro": "Te encuentras ante una historia de inmensa fortuna, una vida adornada con oro y poder, pero que, en última instancia, constituye una lección para quienes buscan la grandeza mundana. ¿Podrás desentrañar la identidad de esta figura cuya historia resuena a través del tiempo, testimonio de la naturaleza efímera de las posesiones materiales?",
+  "clues": [
+    "Yo pertenecía al pueblo de un gran Profeta, pero elegí un camino de arrogancia y opresión.",
+    "Allah me concedió una riqueza inmensa, tanta que las llaves de mis tesoros supusieron una pesada carga para un grupo de hombres fuertes.",
+    "Mi gente me aconsejó que no me regodeara en mis riquezas, recordándome que Alá no ama a los que se regodean.",
+    "Afirmé con arrogancia que mi inmensa fortuna se debía a mi propio conocimiento y esfuerzo, y no a una bendición de Alá.",
+    "Me advirtieron sobre la corrupción y me recordaron que buscara la recompensa en el Más Allá con lo que Alá me había dado, pero me negué a escuchar y continué con mi orgullo.",
+    "Finalmente, Alá hizo que la tierra me tragara a mí y a mi morada, dejándome sin nadie que me ayudara a oponerme a Su decreto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "faraón",
+        "Hamán",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La división del mar",
+        "El fuego de Nimrod",
+        "La inundación",
+        "La tierra engullendo",
+        "La plaga de langostas"
+      ],
+      "answer": "La tierra engullendo"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca",
+        "El personal",
+        "El becerro de oro",
+        "Los tesoros/llaves",
+        "El pozo de Zamzam"
+      ],
+      "answer": "Los tesoros/llaves"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se le concedió la realeza",
+        "Salvado de la destrucción",
+        "Engullido por la tierra",
+        "Se convirtió en profeta",
+        "Murió en paz"
+      ],
+      "answer": "Engullido por la tierra"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Balsas senovės smėlynuose",
+  "intro": "Tarp pirmųjų Alacho pasiuntinių buvo vienas, kurio vardas Korane sušvinta trumpai, bet prasmingai. Šis asmuo gyveno ilgai prieš daugelio didžių pranašų pasiuntimą ir buvo žinomas dėl nepajudinamo teisingumo ir kantrybės. Jo istorija trumpa, bet palikimas išlieka amžinuose įrašuose. Kas yra ši kilni siela?",
+  "clues": [
+    "Aš esu vienas iš pirmųjų pasiuntinių, trumpai, bet prasmingai paminėtų Korane.",
+    "Mano charakterį apibrėžė nepajudinamas atsidavimas tiesai.",
+    "Alacho knygoje esu prisimenamas tarp tų, kurie buvo tvirti ir kantrūs.",
+    "Tik kelios trumpos eilutės Korane pasakoja mano istoriją.",
+    "Alachas pagerbė mane tokiu būdu, kuris yra unikalus ir nėra bendrinamas su kitais pranašais.",
+    "Buvau iškeltas į aukštas pareigas – tai išskirtinė garbė Korane."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Idrisas",
+        "Pranašas Ilja",
+        "Dhul-Kifl",
+        "Pranašas Aliasa",
+        "Asifas ibn Barkhiya"
+      ],
+      "answer": "Pranašas Idrisas"
+    },
+    "trial": {
+      "label": "Apibrėžiamas momentas",
+      "options": [
+        "Alachas mane iškėlė į aukštą padėtį",
+        "Aš pastatiau didelę arką, kad išgelbėčiau savo žmones",
+        "Aš mečiau iššūkį faraono burtininkams",
+        "Mane broliai įmetė į duobę",
+        "Praradau regėjimą iš liūdesio dėl sūnaus"
+      ],
+      "answer": "Alachas mane iškėlė į aukštą padėtį"
+    },
+    "location": {
+      "label": "Šventoji nuoroda",
+      "options": [
+        "Sura Al-Anbija",
+        "Sura Al-Kahf",
+        "Sura Taha",
+        "Sura Aš-Šu'ara",
+        "Sura Jasin"
+      ],
+      "answer": "Sura Al-Anbija"
+    },
+    "outcome": {
+      "label": "Dieviškoji garbė",
+      "options": [
+        "Aukšta stotis, nepanaši į jokią kitą",
+        "Džinų ir vėjų viešpatavimas",
+        "Neprilygstamos šlovės karalystė",
+        "Paveldėtojas iš mano senatvės",
+        "Sandora, užantspauduota su Alachu"
+      ],
+      "answer": "Aukšta stotis, nepanaši į jokią kitą"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

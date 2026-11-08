@@ -1,0 +1,61 @@
+{
+  "title": "La verità che ha messo a tacere la corte",
+  "intro": "In un palazzo dove regnava la negazione e il potere era assoluto, un gruppo di abili praticanti si trovava di fronte a una sfida inaspettata. L'aria era carica di tensione mentre i due sentieri della menzogna e della verità stavano per scontrarsi. I presenti non immaginavano che quell'incontro avrebbe trasformato per sempre le loro vite e inciso la loro storia nei testi sacri.",
+  "clues": [
+    "Eravamo rinomati per la nostra abilità nelle illusioni e fummo riuniti da un potente sovrano per affrontare uno sfidante.",
+    "Quando giunse il momento, fondemmo i nostri strumenti e attendemmo l'esito, fiduciosi nella nostra arte.",
+    "Ma ciò a cui abbiamo assistito ha fatto sì che i nostri dispositivi sembrassero semplici giocattoli, e i nostri cuori hanno riconosciuto l'innegabile verità.",
+    "Ci prostrammo a terra, professando la nostra fede nel Signore di Mosè e di Aronne, nonostante l'ira del governatore.",
+    "Quel sovrano ci minacciò con la punizione più brutale, giurando di crocifiggerci e di tagliarci gli arti in direzioni opposte.",
+    "Rimanemmo saldi nella nostra fede, affermando di preferire il giudizio del Signore a qualsiasi conseguenza terrena, e fummo martirizzati per la nostra fede."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Gli stregoni del faraone",
+        "Il popolo della caverna",
+        "I compagni del bosco",
+        "I discepoli di Isa",
+        "Il popolo dell'elefante"
+      ],
+      "answer": "Gli stregoni del faraone"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Una gara di magia contro Musa",
+        "Un fuoco gettato su di loro",
+        "Un'alluvione che li ha sommersi",
+        "Una siccità e una carestia",
+        "Un terremoto"
+      ],
+      "answer": "Una gara di magia contro Musa"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Bastoni e corde che si trasformavano in serpenti",
+        "Un roveto ardente",
+        "Una cammella",
+        "Un'arca di legno",
+        "Una balena"
+      ],
+      "answer": "Bastoni e corde che si trasformavano in serpenti"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Giustiziato per la fede, promesso il Paradiso",
+        "Annegato in mare",
+        "Divennero i governanti dell'Egitto",
+        "Rimasero seguaci del faraone",
+        "Ereditò la terra"
+      ],
+      "answer": "Giustiziato per la fede, promesso il Paradiso"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

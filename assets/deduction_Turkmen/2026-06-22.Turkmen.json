@@ -1,0 +1,61 @@
+{
+  "title": "Gizlin Ynanýan",
+  "intro": "Kufruň we zulumyň höküm sürýän baý häkimiýet zallarynda, garaşylmadyk ýerden hakykatyň ýeke-täk sesi gürledi. Bu şahsyýet hakykaty yglan etmek üçin öz howpsuzlygyny howp astyna goýup, habarçyny goramak ygtyýaryna garşy çykdy.",
+  "clues": [
+    "Men uly zulum ýurdunda ýaşap, hudaýlyk dawasyny edýän hökümdara gulluk edýärdim.",
+    "Men öz hakyky ynançlarymy köp ýyllaryň dowamynda gizledim, olary açmagyň netijelerinden gorkdum.",
+    "Bir pygamber aýdyň alamatlar bilen gelende, men iman getirdim, ýöne meniň kowumym oňa garşy dildüwşük gurdy.",
+    "Men zalymyň we onuň geňeşiniň öňünde durup, olaryň bigünä elçini öldürmeli däldigini öňe sürdüm.",
+    "Men olary Nuh we Ad kowmy ýaly hakykaty inkär eden öňki kowumlaryň jezasy barada duýdurdym.",
+    "Alla meni olaryň ýaman niýetlerinden halas etdi we men zalym režimiň ýok edilişiniň şaýady boldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Fyrownyň maşgalasynyň imanly adamy",
+        "Fyrownyň jadygöýi",
+        "Fyrownyň weziri",
+        "Fyrownyň aýaly",
+        "Fyrownyň hazynaçysy"
+      ],
+      "answer": "Fyrownyň maşgalasynyň imanly adamy"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Pygamberi jezalandyrmakdan goramak",
+        "Jadygöýiň tilsimlerine garşy çykmak",
+        "Asmana ýetmek üçin diň gurmak",
+        "Gaçyp gitmek üçin deňzi bölmek",
+        "Patyşanyň düýşüni ýormak"
+      ],
+      "answer": "Pygamberi jezalandyrmakdan goramak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Fyrownyň köşgi",
+        "Ýanýan gyrymsy agaç",
+        "Altyn göle",
+        "Madýan guýusy",
+        "Nuh pygamberiň gämisi"
+      ],
+      "answer": "Fyrownyň köşgi"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Zalymlar ýok edilende, zyýandan halas boldy",
+        "Güýçli hökümdar boldy",
+        "Oda taşlandy we zyýansyz çykdy",
+        "Ýer tarapyndan ýuwutyldy",
+        "Kyrk ýyllap çölde gezip ýördi"
+      ],
+      "answer": "Zalymlar ýok edilende, zyýandan halas boldy"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

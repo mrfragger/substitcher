@@ -1,0 +1,61 @@
+{
+  "title": "Altın Buzağının Sürgünü",
+  "intro": "Kur'an'da adı geçen bir kişi, yüce bir peygamberin yokluğunda büyük bir kitleyi sapkınlığa sürükledi. Altından yapılmış bir şey, tüm bir milletin kalbini fethetti; ancak bu kişinin hikayesi yalnızlıkla ve garip bir lanetle sona eriyor. Bu dışlanmış kişi kim olabilir?",
+  "clues": [
+    "Ben, ilahi rehberlik almak üzere göğe yükselmiş büyük bir peygamberin yokluğunda ortaya çıktım.",
+    "Kendi ellerimle yarattığım bir şeyle çok büyük bir kalabalığın yoldan çıkmasına sebep oldum.",
+    "Yarattığım altın eser adeta canlıydı ve onu takip edenleri büyüleyen sesler çıkarıyordu.",
+    "Başkalarının algılayamadığı bir şeyi gördüğümü, görünmeyene bir bakış attığımı iddia ettim.",
+    "İlahi elçinin izlerinden bir şeyler çizdim ve onu erimiş metale döktüm.",
+    "Tek başıma dolaşmaya mahkum edildim, tenime kimsenin dokunamayacağı, benim de onların tenine dokunamayacağım eşsiz bir lanetle karşı karşıyaydım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Firavun (Firavun)",
+        "Ebu Lahab",
+        "Peygamber Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Tapınma için altın bir buzağı yapıldı.",
+        "Gökyüzüne uzanan bir kule inşa etti.",
+        "Mısır'ın büyücülerine meydan okudu.",
+        "Uçan yaratıklardan oluşan bir orduya önderlik etti.",
+        "Ay'ı ikiye ayırmak, peygamberliğin kanıtıdır."
+      ],
+      "answer": "Tapınma için altın bir buzağı yapıldı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "altın buzağı",
+        "Yılana dönüşen bir asa",
+        "Dağda yanan bir çalı",
+        "Bir zirvenin üzerinde duran bir gemi.",
+        "Alev alev yanan bir hendek"
+      ],
+      "answer": "altın buzağı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Sürgün edilmiş, dokunulması veya başkalarına dokunması yasaklanmış.",
+        "Orduyla birlikte denizde boğuldu.",
+        "İnancı reddettiği için diri diri yakıldı.",
+        "Şiddetli, kükreyen bir rüzgar tarafından yere serildi",
+        "Affedildiler ve yüksek bir mevkiye yükseltildiler."
+      ],
+      "answer": "Sürgün edilmiş, dokunulması veya başkalarına dokunması yasaklanmış."
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

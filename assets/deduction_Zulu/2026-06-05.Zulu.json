@@ -1,0 +1,61 @@
+{
+  "title": "Abafuna Iqiniso Abathobekile",
+  "intro": "Ezweni lamandla asendulo nobuthakathi, kuvela ukungqubuzana okukhulu. Olunye uhlangothi lusebenzisa igunya lezibonakaliso zaphezulu, kanti olunye luzama ukulingana nokungenakwenzeka. Umphumela uzoshintsha umlando unomphela. Ungambula yini ukuthi bangobani labo ababone iqiniso eliphelele futhi bazithoba phambi kwalo?",
+  "clues": [
+    "Sibone izibonakaliso ezidlulela ngale kwamaqhinga obuthakathi",
+    "Sonke sawa phansi, singakwazi ukuphika iqiniso",
+    "Saqaphela ukuthi lezi zibonakaliso zivela kuNkulunkulu Oyedwa Weqiniso",
+    "Sasingumphakathi wokuqala ukwamukela ukholo ngendlela ephawulekayo kangaka",
+    "Sathenjiswa ipharadesi njengenkokhelo yethu ngenxa yokholo lwethu",
+    "Izintambo zethu nezinduku zethu zaba yizinyoka phambi kwamehlo ethu, kodwa sakhetha ukuzithoba"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Izangoma zikaFaro",
+        "Abantu bomprofethi u-Ibrahim",
+        "Abafuni beqiniso abathobekile",
+        "Abantu Bomhume",
+        "Isizwe seNdlovukazi uBilqis"
+      ],
+      "answer": "Izangoma zikaFaro"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlangana nenduku yoMprofethi uMusa",
+        "Ukuvivinywa komoya woMprofethi uHud",
+        "Inselelo evela ekameleni likaMprofethi uSalih",
+        "Isikhukhula esikhulu esathunyelwa kumprofethi",
+        "Uhambo lomprofethi ngaphakathi komkhomo"
+      ],
+      "answer": "Ukuhlangana nenduku yoMprofethi uMusa"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "IGibhithe lasendulo",
+        "Indlu engcwele eMakkah",
+        "Umuzi wakwaMidiyani",
+        "Ihlane laseThamud",
+        "Umhume wabalele basendulo"
+      ],
+      "answer": "IGibhithe lasendulo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "IPharadesi njengenkokhelo yabo",
+        "Isijeziso ethuneni",
+        "Ukulahlekelwa yizingadi zabo ezicebile",
+        "Ukubhujiswa ukuzamazama komhlaba okungazelelwe",
+        "Ukusindiswa emkhomeni omkhulu"
+      ],
+      "answer": "IPharadesi njengenkokhelo yabo"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

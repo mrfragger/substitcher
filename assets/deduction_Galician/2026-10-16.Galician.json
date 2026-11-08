@@ -1,0 +1,61 @@
+{
+  "title": "A comunidade que desafiou o día de descanso",
+  "intro": "Entra nun asentamento costeiro onde unha orde divina reservou un día para a adoración e a restrición. Un grupo dentro desta comunidade decidiu poñer a proba os límites dese mandato cun plan astuto, o que levaría a unha transformación que tería eco ao longo dos tempos. Quen eran estas almas e que foi delas?",
+  "clues": [
+    "Vivíamos preto da costa, onde o mar nos proporcionaba o sustento.",
+    "Mandáronnos honrar un día da semana, separándoo das actividades mundanas.",
+    "Ese día, os peixes viñeron a nós en gran número, coma se nos tentasen a romper a orde.",
+    "Ideamos un plan para atrapar os peixes na véspera do día sagrado e logo recollelos despois de que pasase.",
+    "Cando algúns de nós nos advertiron contra este engano, ignoramos os seus consellos e persistimos.",
+    "Pola nosa transgresión, fomos transformados en monos, desprezados e rexeitados."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A xente do sábado",
+        "A xente da gabia",
+        "A xente do bosque",
+        "A xente do xardín",
+        "A xente do elefante"
+      ],
+      "answer": "A xente do sábado"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Pesca no sábado",
+        "Construíndo unha torre elevada",
+        "Matando unha cameloa sagrada",
+        "Negando un profeta que lles foi enviado",
+        "Transgresión nos pesos comerciais"
+      ],
+      "answer": "Pesca no sábado"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O mar e os seus peixes",
+        "O lume que se arrefriou",
+        "O bastón que se converteu nunha serpe",
+        "A arca da salvación",
+        "As táboas de pedra"
+      ],
+      "answer": "O mar e os seus peixes"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Transformados en simios",
+        "Tragado pola terra",
+        "Destruído por un vento feroz",
+        "Afogado no mar",
+        "Golpeado por unha chuvia de pedras"
+      ],
+      "answer": "Transformados en simios"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

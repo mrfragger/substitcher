@@ -1,0 +1,61 @@
+{
+  "title": "Sugar Sakratuaren Proba",
+  "intro": "Antzinako lurralde batean, non harri zizelkatuarekiko debozioa etxe guztietan errotuta zegoen, pertsona bat aparte geratu zen. Konbikzio irmoari eta jainkozko babesari esker, heriotza ziurra izan behar zuenari aurre egin zioten, eta kalterik gabe alde egin zuten. Arima bikain honen nortasuna aurki dezakezu?",
+  "clues": [
+    "Eskuz zizelkatutako idoloei makurtzen zitzaien jendearen artean hazi nintzen, objektu horiek jainkozko boterea zutela sinetsita.",
+    "Haien sinesmenak zalantzan jarri nituenean, hasieran baztertu egin ninduten, baina ezin nuen isilik egon banekien egiari buruz.",
+    "Bildu zituzten egunean, haien idoloak suntsitu nituen, handiena bakarrik ukitu gabe utziz.",
+    "Itzuli eta egin nuena ikusi zutenean, haien buruzagiek su handi bat eraikitzeko agindu zuten, ni sutara botatzeko asmoz.",
+    "Su bizian bota ninduten, baina munduen Jaunak agindu zuen fresko eta seguru bihurtzeko niretzat.",
+    "Suetatik guztiz onik irten nintzen, nire aurka konspiratu zutenek, berriz, hondamendi osoa jasan zuten bitartean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ibrahim profeta",
+        "Musa profeta",
+        "Nuh profeta",
+        "Isa profeta",
+        "Yusuf profeta"
+      ],
+      "answer": "Ibrahim profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Su bizian sartuta egotea",
+        "Balea handi batek irentsi izana",
+        "Uholde handi bati bizirautea",
+        "Putzu sakon batera botata izatea",
+        "Erregearen magoei aurre egitea"
+      ],
+      "answer": "Su bizian sartuta egotea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Egur erretzen ari den su erraldoi bat",
+        "Egurrezko kutxa handi bat",
+        "Urrezko txahalaren estatua",
+        "Saski flotatzaile bat ibaian",
+        "Tronu bikaina."
+      ],
+      "answer": "Egur erretzen ari den su erraldoi bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ala-k sua fresko eta seguru egin zuen",
+        "Arka mendi batean lehorreratu zen seguru",
+        "Urrezko idoloa urtu zen haien begien aurrean",
+        "Tirano bat eta bere armada itsasoan ito ziren",
+        "Itsu baten ikusmena berreskuratu zen"
+      ],
+      "answer": "Ala-k sua fresko eta seguru egin zuen"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

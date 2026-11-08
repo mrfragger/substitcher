@@ -1,0 +1,61 @@
+{
+  "title": "Nandza wa Vutlhari lebyi Fihliweke",
+  "intro": "Eka tapestry leyikulu ya switlhokovetselo swa Quranic, ku yime xifaniso lexi nga twisisekiki, nandza wa Allah la khavisiweke hi vutivi bya Xikwembu na tintswalo. Munhu loyi wa xihundla u tsemakanye tindlela na un’wana wa vaprofeta lavakulu, leswi yiseke eka riendzo leri taleke hi swiendlo leswi pfilunganyaka leswi tlhontlha swipimelo swa ku twisisa ka vanhu. Xiendlo xin’wana ni xin’wana, hambileswi a xi vonaka xi nga lulamanga, a xi tumbeta tidyondzo leti dzikeke malunghana ni vumundzuku, ku lehisa mbilu ni vutlhari lebyi nga voniwiki endzhaku ka xileriso xa Xikwembu. I mani xifaniso lexi xa ndzhuti naswona hi yihi mintiyiso leyi va yi paluxeke?",
+  "clues": [
+    "A ndzi ri nandza wa Allah, loyi a hlawuriweke hikwalaho ka vutivi byo hlawuleka ni tintswalo.",
+    "Muprofeta lonkulu u lave ku dyondza eka mina, kutani ndzi pfumerile ehansi ka swiyimo swo tika.",
+    "Hi nkarhi wa nhlangano wa hina, ndzi endle swiendlo swinharhu leswi a swi vonaka swi nga lulamanga eka munghana wa mina.",
+    "Ndzi onhe xikepe xa vanhu lava pfumalaka, hambiswiritano a ku ri tintswalo leti fihliweke.",
+    "Ndzi teke vutomi bya mufana lontsongo, hambi leswi a byi vonaka byi ri bya tihanyi, a ku ri ku ponisa vatswari va yena gome.",
+    "Ndzi pfuxete rirhangu edorobeni leri a ri hi ala ku amukela vaendzi, ndzi paluxa rifuwo ehansi ka rona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Al-Khidr (nandza wo lulama) .",
+        "N’wini wa swirhapa leswimbirhi",
+        "Un’wana wa Vanhu va le Bako",
+        "Hosi leyi a yi kanetana na Ibrahim",
+        "Wanuna loyi a etleleke ku ringana malembe ya 100"
+      ],
+      "answer": "Al-Khidr (nandza wo lulama) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku hlangana na Muprofeta Musa laha ku hlanganaka malwandle mambirhi",
+        "Ku aka xisirhelelo xo lwisana na Gogo na Magogo",
+        "Ku lahleriwa endzilweni lowukulu",
+        "Ku avanyisa lwandle ri va swiphemu swimbirhi",
+        "Ku amukela swiphepherhele swa Torah"
+      ],
+      "answer": "Ku hlangana na Muprofeta Musa laha ku hlanganaka malwandle mambirhi"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ku hlangana ka malwandle lawa mambirhi",
+        "Ntshava ya Sinayi",
+        "Bako ra Thawr",
+        "Nkova wa Tuwa",
+        "Xihlovo xa Zamzam"
+      ],
+      "answer": "Ku hlangana ka malwandle lawa mambirhi"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U hlamusele vutlhari bya Xikwembu endzhaku ka swiendlo swa yena leswi pfilunganyaka kutani a hambana na Musa",
+        "U nyikiwile vuprofeta endzhaku ka riendzo",
+        "Xikepe lexi xi onhiwile hi xidzedze",
+        "Mufana loyi u vuyisiwile evuton’wini",
+        "U ake mosque edorobeni leri nga riki na malwandla"
+      ],
+      "answer": "U hlamusele vutlhari bya Xikwembu endzhaku ka swiendlo swa yena leswi pfilunganyaka kutani a hambana na Musa"
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "il tesoro sprofondato sotto l'orgoglio",
+  "intro": "Immaginate di trovarvi di fronte a cumuli di ricchezze così immensi che il solo trasporto delle chiavi metterebbe a dura prova un gruppo di persone robuste. Intorno a voi, voci esortano all'umiltà e al rispetto, eppure l'orgoglio prevale sulla gratitudine. Cosa accade quando l'abbondanza diventa una prova e l'arroganza ne determina l'esito?",
+  "clues": [
+    "Io ero della tribù di Musa, eppure ho peccato contro di loro.",
+    "Mi furono concessi tesori così immensi che le chiavi per aprirli sarebbero un peso per un gruppo di uomini forti.",
+    "Il mio popolo mi ha consigliato di non esultare e di cercare l'Aldilà senza dimenticare la mia parte in questo mondo.",
+    "Ho affermato che ciò che possedevo mi era stato dato solo grazie alle conoscenze che avevo.",
+    "Sfilavo davanti al mio popolo in tutto il mio splendore, e coloro che desideravano la vita mondana bramavano ciò che io possedevo.",
+    "Fui inghiottito dalla terra insieme alla mia dimora, e nessuno poté aiutarmi, né io potei aiutare me stesso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Qarun",
+        "Namrud",
+        "Jalut",
+        "Azar",
+        "Qabil"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Si vantava della sua ricchezza e negava il favore di Allah nonostante i consigli ricevuti.",
+        "Sfido Ibrahim riguardo al dare la vita e la morte",
+        "Guidò un esercito contro Talut e Dawud",
+        "Idoli scolpiti affinché il popolo li adorasse",
+        "Uccise un fratello per invidia a causa di un'offerta"
+      ],
+      "answer": "Si vantava della sua ricchezza e negava il favore di Allah nonostante i consigli ricevuti."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Chiavi per immensi tesori",
+        "L'Arca dell'Alleanza",
+        "Un vitello d'oro adornato",
+        "Una diga tra due montagne",
+        "Undici stelle in un sogno"
+      ],
+      "answer": "Chiavi per immensi tesori"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Inghiottito dalla terra con dimora e ricchezza",
+        "Annegato in mare mentre inseguiva Musa",
+        "Colpito da una pietra scagliata dalla fionda di Dawud.",
+        "Distrutto da una potente esplosione per aver mutilato una cammella",
+        "Trasformati in scimmie per aver violato il sabato"
+      ],
+      "answer": "Inghiottito dalla terra con dimora e ricchezza"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

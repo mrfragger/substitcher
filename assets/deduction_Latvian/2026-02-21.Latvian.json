@@ -1,0 +1,61 @@
+{
+  "title": "Lielo plūdu vēstnesis",
+  "intro": "Šis cilvēks gadsimtiem ilgi bija izturības balsts, aicinot nepakļāvīgu sabiedrību uz patiesības gaismu, vienlaikus saskaroties ar izsmieklu un noraidījumu. Neskatoties uz milzīgajām grūtībām un vēstījuma svaru, kas sniedzās pāri paaudzēm, šis kalps palika nelokāms savā misijā līdz pat galīgā dekrēta izdošanai.",
+  "clues": [
+    "Es pavadīju deviņsimt piecdesmit gadus, aicinot savu tautu uz taisnības ceļa, dienu un nakti, slepenībā un publiski.",
+    "Es brīdināju savu tautu par sāpīgu sodu, tomēr viņi iebāza pirkstus ausīs un augstprātīgi apsedzās ar savām drēbēm.",
+    "Man pavēlēja uzcelt kaut ko milzīgu mana Kunga modrās acīs, kaut arī ūdens nebija nekur redzams.",
+    "Kamēr es strādāju, manas tautas vadītāji gāja garām un mani izsmēja, bet es viņiem teicu, ka drīz mēs būsim tie, kas viņus izsmies.",
+    "Es lūdzu, lai mana miesa un asinis pievienotos man, bet viņi izvēlējās meklēt patvērumu kalnā, ticot, ka tas viņus glābs no paisuma.",
+    "Mans kuģis beidzot apstājās Džūdi kalnā pēc tam, kad zeme bija aprījusi savu ūdeni un debesis mitējās līt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Huds",
+        "Pravietis Salihs",
+        "Pravietis Nuhs",
+        "Pravietis Lūts",
+        "Pravietis Šuajbs"
+      ],
+      "answer": "Pravietis Nuhs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pārveidojošais personāls",
+        "Lielie plūdi",
+        "Dzesējošā uguns",
+        "Šķelšanās jūra",
+        "Dieva kamielis"
+      ],
+      "answer": "Lielie plūdi"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš",
+        "Personāls",
+        "Krekls",
+        "Arka",
+        "Gredzens"
+      ],
+      "answer": "Arka"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Ieiešana Apsolītajā zemē",
+        "Slīkšana Sarkanajā jūrā",
+        "Atpūta Jūdi kalnā",
+        "Tiekot iemests bedrē",
+        "Augšupceļoties debesīs"
+      ],
+      "answer": "Atpūta Jūdi kalnā"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

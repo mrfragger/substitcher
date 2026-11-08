@@ -1,0 +1,61 @@
+{
+  "title": "Objetí Země",
+  "intro": "V době velkých zkoušek se jedné slavné osobnosti dostalo nesmírné pozemské hojnosti, zkoušky vděčnosti a pokory. Cesta této postavy slouží jako hluboké ponaučení o pomíjivosti hmotného majetku a důsledcích arogance. Odhalte identitu této duše, jejíž příběh je vyryt do samotné země pod námi.",
+  "clues": [
+    "Žil jsem mezi lidmi vedenými velkým poslem.",
+    "Alláh mi udělil takové obrovské bohatství, že i klíče k mým pokladům byly pro mnoho silných jedinců těžkým břemenem.",
+    "Můj lid, znající mé bohatství, mi poradil, abych s tím, co mi Alláh dal, usiloval o příbytek posmrtného života, nezapomínal na svůj podíl na tomto světě a konal dobro, tak jako Alláh prokázal dobro mně.",
+    "Arogantně jsem prohlašoval, že svého nesmírného bohatství jsem získal výhradně vlastními znalostmi a úsilím, a popíral jsem jakoukoli božskou přízeň.",
+    "Když jsem byl požádán, abych přispěl nebo uznál Alláhovu štědrost, hrdě jsem odmítl v domnění, že můj majetek je výhradně můj.",
+    "Kvůli mé extrémní aroganci a útlaku Alláh přikázal zemi, aby se otevřela a pohltila mě i mé obydlí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Faraon",
+        "Iblis",
+        "Haman",
+        "Abú Laháb",
+        "Karun"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Být vhozen do ohně",
+        "Topení v moři",
+        "Vyhnání ze zahrady",
+        "Proměna v opici",
+        "Být pohlcen zemí"
+      ],
+      "answer": "Být pohlcen zemí"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zlaté tele",
+        "Mocná archa",
+        "Mluvící pták",
+        "Zázračná hůl",
+        "Nesmírné poklady a klíče"
+      ],
+      "answer": "Nesmírné poklady a klíče"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Stát se velkým vládcem",
+        "Přijímání božského zjevení",
+        "Vzestupující k nebesům",
+        "Žít dlouhý život v zbožnosti",
+        "Naprostá destrukce kvůli aroganci"
+      ],
+      "answer": "Naprostá destrukce kvůli aroganci"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

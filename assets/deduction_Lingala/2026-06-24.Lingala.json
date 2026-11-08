@@ -1,0 +1,61 @@
+{
+  "title": "Mobateli ya Lolemo oyo ekoki kozimisama te",
+  "intro": "Elilingi moko etelemi na ekuke ya esika oyo babangaka mingi na kati ya biloko oyo emonanaka te, oyo bapesi yango mokumba oyo ekelamu mosusu azali na mposa na yango te. Ntango milimo oyo ezali konyokwama ezali koganga mpo na kosɛnga mawa, eyano moko ya makasi ezongaka na kati ya bashambre ya mɔtɔ. Okoki kobimisa bomoto ya mobateli oyo ya seko?",
+  "clues": [
+    "Natelemi na ekuke ya esika ya nsɔmɔ ya etumbu na esika oyo emonanaka te.",
+    "Mɔtɔ oyo ezali kopela, oyo ekoki kozimisama te ezali likambo ya ntina mingi na mokumba na ngai ya lokumu.",
+    "Milimo oyo ezali konyokwama ezali kobenga nkombo na ngai, kobondelaka mpo na kosilisa mpasi na minyoko na bango oyo ezangi nsuka.",
+    "Ntango bazali kobondela, nasakoli ete bakotika te, ata mokolo moko te.",
+    "Nazali moto te, to jinn te — Nazali ekelamu oyo akelami ya botosi ya peto.",
+    "Nazali anzelu mokonzi oyo aponami lokola mobateli ya seko ya Mɔtɔ ya Lifelo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Malik",
+        "Jibreel, oyo azali",
+        "Mikael",
+        "Harut, oyo",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bato ya Lifelo babondeli ete minyoko na bango esila",
+        "Kelelo ebɛtaka mpo na komonisa Mokolo ya Kosambisama",
+        "Coran ebimi na motema ya Prophète",
+        "Profeta moko abwakami na moto monene na bato na bango",
+        "Efelo moko ya nguya etongami mpo na kokanga ekólo moko oyo ebebi"
+      ],
+      "answer": "Bato ya Lifelo babondeli ete minyoko na bango esila"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mɔtɔ ya Lifelo (Jahannam) .",
+        "Nzete ya Lote oyo ezali na ndelo ya Paladiso",
+        "Kelelo oyo ezali kotɔbɔla",
+        "Nzete oyo ebongwanaka na nyoka",
+        "Kiti ya bokonzi ya bonzambe ya kokamwa"
+      ],
+      "answer": "Mɔtɔ ya Lifelo (Jahannam) ."
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bavandi ya Lifelo bayebisami ete bakotikala libela",
+        "Bato oyo bafandi na Lifelo balimbisami mpe babimisami",
+        "Bavandi ya Lifelo bapesameli libaku ya mibale ya kondima",
+        "Bafandi ya Lifelo bamemaka bango na esika ya malili",
+        "Bavandi ya Lifelo babebisami mobimba na nkake"
+      ],
+      "answer": "Bavandi ya Lifelo bayebisami ete bakotikala libela"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

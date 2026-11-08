@@ -1,0 +1,61 @@
+{
+  "title": "Hääbuvad õitsengu aiad",
+  "intro": "Küllusliku küllusega õnnistatud maal õitses kogukond, elades jumaliku armu märkide keskel. Nende õitseng oli tunnistus Issanda soosingust, kingitus, mis pidi sisendama tänulikkust ja kuulekust. Kuid hoolimata selgetest õnnistuste märkidest saabus pöördepunkt, mis pani proovile nende hinnangu oma tohutu rikkuse ja mugavuse allika vastu.",
+  "clues": [
+    "Meil oli õnnus omada kahte aeda, üks paremal ja teine ​​vasakul, mis olid täis saaki.",
+    "Meile kästi süüa meie Issanda varust ja olla Talle tänulikud hea maa ja andestava Issanda eest.",
+    "Me muutusime ülbeks ja pöördusime tänulikkuse teelt kõrvale, hoobeldes oma rikkuse ja võimuga.",
+    "Me nõudsime, et meie Issand pikendaks meie reiside vahelist vahemaad, näidates üles põlgust kerguse vastu, mida Ta oli pakkunud.",
+    "Sõnumitooja hoiatas meid, aga me lükkasime sõnumi tagasi ja jätkasime oma hoolimatuses.",
+    "Meie suur tamm, mis toetas meie õitsengut, purunes lõpuks, mis viis laastava üleujutuseni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Thamudi rahvas",
+        "Midjani rahvas",
+        "'Aadi rahvas",
+        "Luti rahvas",
+        "Saba rahvas"
+      ],
+      "answer": "Saba rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Nälg ja põud",
+        "Võimsa armee sissetung",
+        "Laastav maavärin",
+        "Purunenud tammist põhjustatud hävitav üleujutus",
+        "Türanliku valitseja rõhumine"
+      ],
+      "answer": "Purunenud tammist põhjustatud hävitav üleujutus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kuldne vasikas",
+        "Imeline emane kaamel",
+        "Suur tamm",
+        "Kõrguv ehitis",
+        "Sügav kaev"
+      ],
+      "answer": "Suur tamm"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Meid muudeti ahvideks ja sigadeks",
+        "Meid päästeti ja kolisime uuele maale",
+        "Meid hajutati ja meie maa muutus viljatuks",
+        "Me tõusime taevasse",
+        "Me ehitasime uue, jõukama kuningriigi"
+      ],
+      "answer": "Meid hajutati ja meie maa muutus viljatuks"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

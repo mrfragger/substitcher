@@ -1,0 +1,61 @@
+{
+  "title": "Ndị Na-ege Ntị Zoro Ezo Ndị Kwere",
+  "intro": "N'ime otu nzukọ dị nsọ dị jụụ, otu nzukọ dị ịrịba ama si n'ebe a na-anaghị ahụ anya bịa. Ha nụrụ olu ihe dị egwu nke ga-emechi ọdịnihu ha ruo mgbe ebighị ebi. Ihe akaebe ha ka bụ otu n'ime ihe pụrụ iche dị n'akwụkwọ nsọ Chineke.",
+  "clues": [
+    "Anyị bụ ihe sitere n'ógbè nke ọtụtụ mmadụ na-ahụghị, anyị wee bịa dịka otu ìgwè.",
+    "Anyị gara ebe anyị zukọrọ ka anyị nụrụ ihe pụrụ iche.",
+    "Mgbe anyị rutere, anyị nụrụ otu okwu nke tụrụ anyị n'anya.",
+    "Anyị kwetara n'ihu ọha na ụfọdụ n'ime anyị bụ ndị ezi omume ebe ụfọdụ abụghị.",
+    "Anyị maara na anyị agaghị agbanahụ iwu Chineke nyere n'ụwa, ma ọ bụ site n'ịgbaga n'eluigwe.",
+    "Mgbe anyị nụrụ nduzi ahụ, anyị kwenyere na ya; onye ọ bụla kwere na Onyenwe ha agaghị atụ egwu mfu ma ọ bụ ibu arọ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Otu ìgwè Jinn",
+        "Ndị Iram",
+        "Ndị Tubba'",
+        "Alaeze Ukwu Rom",
+        "Agbụrụ nke Quraysh"
+      ],
+      "answer": "Otu ìgwè Jinn"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Ige ntị n'ihe dị nsọ na-agụ",
+        "Iwuli ogidi ndị dị elu n'obodo anyị",
+        "Ịchụ nta nne kamel mara mma",
+        "Ịla n'iyi maka igbu ndị amụma anyị",
+        "Ịba ụba akụnụba gabiga ókè"
+      ],
+      "answer": "Ige ntị n'ihe dị nsọ na-agụ"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Nzukọ nke ịgụ ihe dị nsọ",
+        "Obodo nwere ogidi ndị dị elu (Iram)",
+        "Olulu mmiri dị n'ọzara",
+        "Obí ukwu e ji ọlaedo mee",
+        "Ọgba dị nsọ n'ugwu"
+      ],
+      "answer": "Nzukọ nke ịgụ ihe dị nsọ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Anyị kwenyere ma dọọ ndị anyị aka ná ntị",
+        "E bibiri ya site n'oké ifufe si n'eluigwe",
+        "A tara ya ahụhụ site na ifufe na-ekpo ọkụ ma na-ebibi ihe",
+        "E nyere nnukwu akụnụba na ike",
+        "Nọgidesiri ike n'ekweghị m ekwe"
+      ],
+      "answer": "Anyị kwenyere ma dọọ ndị anyị aka ná ntị"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

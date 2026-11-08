@@ -1,0 +1,61 @@
+{
+  "title": "Te Karere o tētahi Hara Kāore i Oti",
+  "intro": "E whakaatu ana ētahi kōrero i roto i te Quran i te hohonutanga o te pirau ka taea e te hapori katoa te taka ki roto. I tū ko ia anake tēnei karere, e inoi ana ki tētahi iwi i toremi i roto i tētahi whanoke kāore anō kia whaia e tētahi iwi i mua i a rātou. Ahakoa ngā tau o te whakatūpato, i mau tonu te pakeketanga o ngā ngākau, ā, i tae mai te ture a te Atua i roto i tētahi huarahi tino whakamataku. Ka taea e koe te tautuhi i tēnei karere rangatira a Allah?",
+  "clues": [
+    "I tonoa ahau hei kaiwhakatūpato ki tētahi iwi kua pau i te whanoke, kāore anō kia mahia e tētahi iwi i mua i a rātou.",
+    "I kīia ahau e tōku iwi he tangata teka, ā, i whakawehi rātou ka pei i ahau me aku akonga i te whenua.",
+    "I haere mai ngā manuhiri honore ki tōku kāinga i roto i te āhua o ngā taitama e patu ana, ā, i tino pouri ahau mō tō rātou haumaru.",
+    "I tono taku iwi kia tukua aku manuhiri ki a rātou, kāore rātou i te mōhio he anahera ēnei manuhiri i tonoa mai e Allah.",
+    "Kāore taku hoa rangatira i whakaae ki taku whakapono, ā, i whiriwhiria e ia kia noho tahi me te hunga e mate ana.",
+    "I te atatu, i te mea ka ua nui ngā kōhatu, ka hurihia ō mātou tāone, i whakaorangia mātou ko aku tamāhine."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Ruta",
+        "Poropiti Shu'aib",
+        "Poropiti a Hūta",
+        "Poropiti a Noa",
+        "Poropiti Salih"
+      ],
+      "answer": "Poropiti Ruta"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "He waipuke nui e taupokina ana te whenua",
+        "Te ngaronga o te tirohanga nā te mamae roa",
+        "He kaitukino e kī ana he atua ia",
+        "Ka makaia ki roto i te ahi mura",
+        "Te tono kia tukuna ngā manuhiri honore"
+      ],
+      "answer": "Te tono kia tukuna ngā manuhiri honore"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He āka nui i hangaia e te ringa",
+        "He tokotoko hei wehewehe i te moana",
+        "He kamera uha whakamiharo",
+        "He ahi mura",
+        "Ngā tāone kua hurihia"
+      ],
+      "answer": "Ngā tāone kua hurihia"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I toremi i a ia e whai ana i te hunga whakapono",
+        "I whakaorangia mai i te oumu ahi, kāore i whara",
+        "I hikitia oratia ki te rangi",
+        "I mate te whānau i roto i te waipuke nui",
+        "I ora te whānau engari ko te wahine tinihanga"
+      ],
+      "answer": "I ora te whānau engari ko te wahine tinihanga"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

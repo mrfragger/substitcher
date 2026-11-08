@@ -1,0 +1,61 @@
+{
+  "title": "Dammaqiinsa Karra Ibiddaa Irratti Taasifamu",
+  "intro": "Tuutni callisaa fi sodaachisaa taʼe, nyaata, dhugaatii ykn boqonnaa gonkumaa hin dhandhamne, balbala sodaachisaa tokkorra dhaabbatee daawwachaa jira. Wanti suphee namaa irraa adda ta’e irraa kan hojjetaman yoo ta’u, kaayyoo sodaachisaa tokko eegu-ajaja Gooftaa isaanii irraa dhufe tokko illee cabsanii hin beekan.",
+  "clues": [
+    "Nuti uumama namaa irraa adda ta’ee, wanta hin nyaanne, hin dhugne, hin dadhabne irraa kan uumamnedha.",
+    "Lakkoofsi keenya sirriin Kitaaba keessatti beekamaa fi bu’eera-nuti lakkoofsa hin qabnes ta’e tuuta hin taane.",
+    "Uumaa keenyaaf ajajamnee hin beeknu, ajajamuu keenya duras hin dubbannu.",
+    "Gaafa Guyyaan gahu kaafiroonni gareen nutti oofan, nutis karra isaaniif banna.",
+    "Isaan ni gaafanna: ‘Ergamtoonni gosa keessan keessaa guyyaa kana isin akeekkachiisan isinitti hin dhufnee?’",
+    "Bakka lubbuun tokkollee gonkumaa keessaa hin baane ni eeganna-kutaa adabbii bara baraa boba’aa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nuti Eenyu?",
+      "options": [
+        "Eegdota Ibidda Jahannam (Zabaniyah) .",
+        "Warra Arshii Rabbii baadhattoota",
+        "Ergamoota Waraabbii (Kiraman Katibin) .",
+        "Ergamoota Du'aa",
+        "Warra Karra Jannataa"
+      ],
+      "answer": "Eegdota Ibidda Jahannam (Zabaniyah) ."
+    },
+    "trial": {
+      "label": "Dirqama Keenya Duraa",
+      "options": [
+        "Karra Ibidda Jahannam eeguu",
+        "Hojii dhala namaa hunda galmeessuu",
+        "Arshii Rabbii baatanii deemuu",
+        "Lubbuu namoota du'anii fudhachuu",
+        "Bubbee fi duumessa ajajuu"
+      ],
+      "answer": "Karra Ibidda Jahannam eeguu"
+    },
+    "location": {
+      "label": "Maal Eeganna?",
+      "options": [
+        "Ibidda Jahannam",
+        "Arshii Rabbii",
+        "Marsaa Hojii",
+        "Laggeen Jannataa",
+        "Gaarreen Lafaa"
+      ],
+      "answer": "Ibidda Jahannam"
+    },
+    "outcome": {
+      "label": "Hiree Warra Domeenii Keenya Keessa Jiran",
+      "options": [
+        "Bara baraan ni hafu malee hin bahan",
+        "Dhuma irratti dhiifamni godhamee ni hiikama",
+        "Yeroo booda ni qulqullaa'u",
+        "Gara bifa biraatti ni jijjiirama",
+        "Jahannam fi Jannata gidduutti wal jijjiiru"
+      ],
+      "answer": "Bara baraan ni hafu malee hin bahan"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

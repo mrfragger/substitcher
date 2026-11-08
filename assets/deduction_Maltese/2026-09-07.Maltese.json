@@ -1,0 +1,61 @@
+{
+  "title": "Il-Kumpann li Dawwar wiċċu",
+  "intro": "Int se tiskopri l-istorja ta’ ruħ li għexet fid-dell tal-profezija iżda għażlet triq li wasslitha għar-rovina. Din il-figura qasmet dar ma’ wieħed mill-messaġġiera magħżula ta’ Alla iżda falliet il-prova tal-fidi. Min hu dan il-ħabib mitluf?",
+  "clues": [
+    "Għext fost nies li ċaħdu s-sejħa għat-tjieba, u ma opponejthomx.",
+    "Kont miżżewġa ma' profeta ta' Alla, imma ma kontx naqsam it-twemmin.",
+    "Meta l-messaġġiera ġew f’dari b’twissija, ma emminthomx.",
+    "Żewġi ġiet ordnata titlaq mill-belt mal-fidili, u jien ma kontx fosthom.",
+    "Il-kastig niżel fuq il-poplu tiegħi, u jien ġejt meqrud flimkien magħhom.",
+    "Jiena msemmi fil-Koran bħala eżempju ta’ nuqqas ta’ twemmin, flimkien mal-mara ta’ Nuh, fis-Surah At-Tahrim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Mart il-Profeta Nuh",
+        "Mart il-Profeta Lut",
+        "Mart il-Profeta Ibrahim",
+        "Mart il-Profeta Musa",
+        "Mart il-Profeta Ayyub"
+      ],
+      "answer": "Mart il-Profeta Lut"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ittradiet lil żewġha billi ma emmnitx",
+        "Ċaħad il-messaġġ tal-Profeta Hud",
+        "Iqimu l-idoli fil-miftuħ fil-Kaaba",
+        "Ippjanat kontra l-missjoni ta’ żewġha",
+        "Irrifjutat li taċċetta l-profezija ta' binha"
+      ],
+      "answer": "Ittradiet lil żewġha billi ma emmnitx"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-belt ta’ Sodoma",
+        "Il-belt ta' Madyan",
+        "Il-belt ta' Iram",
+        "Il-belt ta’ Babilonja",
+        "Il-belt ta’ Ġerusalemm"
+      ],
+      "answer": "Il-belt ta’ Sodoma"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Salvata ma’ żewġha",
+        "Meqrud flimkien ma’ dawk li ma jemmnux",
+        "Eżiljat f'art imbiegħda",
+        "Nidem u ġie maħfur",
+        "Sar jemmen aktar tard"
+      ],
+      "answer": "Meqrud flimkien ma’ dawk li ma jemmnux"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

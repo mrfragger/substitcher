@@ -1,0 +1,61 @@
+{
+  "title": "Arhitekta arogancije",
+  "intro": "U drevnoj zemlji kojom je vladala prkosna sila, ključna osoba je zauzimala utjecajnu poziciju. Ova duša je bila instrumentalna u velikim planovima vladara, doprinoseći njihovoj tlačiteljskoj vladavini i osporavajući božansku poruku. Njihovo naslijeđe isprepleteno je s težnjom za svjetovnom moći i poricanjem istine.",
+  "clues": [
+    "Služio sam strašnom vladaru koji je generacijama tlačio narod.",
+    "Moje ime se često spominje u Božanskoj Knjizi pored ovog moćnog vođe.",
+    "Bio sam zadužen za grandiozni građevinski projekat, izgradnju impozantne građevine koja je trebala dosegnuti nebesa.",
+    "Savjetovao sam svom gospodaru da pobije sinove Izraelovih, a poštedi njihove kćeri.",
+    "Bio sam umiješan u zavjere i planove protiv moćnog Allahovog poslanika.",
+    "Moj kraj, zajedno s mojim gospodarom i njegovom vojskom, došao je u vodama prostranog mora."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Golijat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Biti testiran ogromnim bogatstvom",
+        "Predvođenje vojske protiv svete kuće",
+        "Gradnja tornja da bi se doseglo Boga",
+        "Bacanje u vatru zbog njihovog vjerovanja",
+        "Biti bačen u bunar od strane braće i sestara"
+      ],
+      "answer": "Gradnja tornja da bi se doseglo Boga"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Planina",
+        "Toranj",
+        "Kit"
+      ],
+      "answer": "Toranj"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Biti darovan neizmjernoj mudrosti",
+        "Postati prorok",
+        "Biti progutan od zemlje",
+        "Dodjeljivanje kraljevstva",
+        "Utapanje u moru"
+      ],
+      "answer": "Utapanje u moru"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

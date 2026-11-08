@@ -1,0 +1,61 @@
+{
+  "title": "El voto de los no nacidos",
+  "intro": "Un alma sincera hizo una promesa sagrada antes del nacimiento de un hijo. La historia de esta figura se desarrolla entre los muros de un santuario, donde la devoción se encuentra con la aceptación divina. ¿Quién es este siervo de Alá?",
+  "clues": [
+    "Yo pertenecía a una familia honrada en el Corán.",
+    "Hice un voto solemne de dedicar a mi hijo por nacer al servicio de Alá.",
+    "Cuando di a luz, me sorprendió descubrir que era una niña, aunque yo esperaba un niño.",
+    "Le puse a mi hija el nombre de Maryam, un nombre que refleja devoción y servicio.",
+    "Busqué la protección de Alá para mi hija y sus descendientes contra el maldito Satanás.",
+    "Mi hijo fue aceptado por el Señor y puesto bajo el cuidado del profeta Zacarías en el santuario."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La esposa de Imran (madre de Maryam)",
+        "Asiya, esposa del faraón",
+        "María, madre de Isa",
+        "La madre del profeta Musa",
+        "La reina de Saba"
+      ],
+      "answer": "La esposa de Imran (madre de Maryam)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Prometiendo dedicar a su hijo al templo.",
+        "Ser arrojado al fuego",
+        "Cruzar el mar por tierra firme.",
+        "Construyendo una gran arca",
+        "Ser tragado por un pez grande"
+      ],
+      "answer": "Prometiendo dedicar a su hijo al templo."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El santuario (mihrab) donde fue colocada su hija.",
+        "El arca de la alianza",
+        "El becerro de oro",
+        "El bastón que se convirtió en serpiente",
+        "La palmera datilera bajo la cual descansaba"
+      ],
+      "answer": "El santuario (mihrab) donde fue colocada su hija."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Su hijo fue aceptado y puesto bajo el cuidado del profeta Zakariya.",
+        "Se salvó del castigo de un tirano.",
+        "Le dieron un hijo llamado Yahya.",
+        "Su pueblo fue destruido por una tormenta.",
+        "Se convirtió en reina de un gran reino."
+      ],
+      "answer": "Su hijo fue aceptado y puesto bajo el cuidado del profeta Zakariya."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

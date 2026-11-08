@@ -1,0 +1,61 @@
+{
+  "title": "Təkəbbür diyarında cavabsız çağırış",
+  "intro": "Siz bir vaxtlar böyük bir sivilizasiyanın xarabalıqlarında dayanırsınız, burada güc və qürurun heç bir sərhədi yoxdur. Onların arasında bir elçi gəzirdi, həqiqətə çağırırdı, amma ürəkləri sərtləşmişdi. Xəbərdarlığa məhəl qoyulmadı və səmanın özü qəzəb alətinə çevrildi. Bu elçi kim idi və çağırışı rədd edənlərin aqibəti necə oldu?",
+  "clues": [
+    "Məni tayı-bərabəri olmayan, hər təpəyə bir abidə tikən bir xalqın yanına göndərdilər.",
+    "Xalqım özünü məğlubedilməz hesab etdi və dedi: “Bizdən daha güclü kimdir?”",
+    "Mən onları yalnız Allaha ibadət etməyə çağırdım, amma onlar məni axmaqlıqda və yalan danışmaqda ittiham etdilər.",
+    "Əgər doğru danışıramsa, vəd etdiyim cəzanı verməyim üçün məni çağırdılar.",
+    "Allah onların üstünə heç bir şeyin öhdəsindən gələ bilməyən qısır bir külək göndərdi.",
+    "Mən və mənimlə birlikdə iman gətirənlər Allahın mərhəməti ilə xilas olduq, kafirlər isə tamamilə məhv edildilər."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Hud peyğəmbər",
+        "Peyğəmbər Saleh",
+        "Şuayb peyğəmbər",
+        "Lut peyğəmbər",
+        "Nuh peyğəmbər"
+      ],
+      "answer": "Hud peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Kafirləri məhv edən şiddətli bir külək",
+        "Kafirləri böyük bir sel bürüdü",
+        "Daş yağışı yağdı",
+        "Kafirləri uca bir qışqırıq bürüdü",
+        "Kafirləri zəlzələ bürüdü"
+      ],
+      "answer": "Kafirləri məhv edən şiddətli bir külək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Amansız bir külək",
+        "Taxta sandıq",
+        "Dişi dəvə",
+        "Gil daşlarından ibarət yağış",
+        "Alovlu bir od"
+      ],
+      "answer": "Amansız bir külək"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Hud və möminlər xilas oldular, kafirlər isə məhv edildilər.",
+        "Hud yüksək bir məqama yüksəldildi",
+        "Hud öz xalqı tərəfindən öldürüldü",
+        "Hudun xalqı tövbə etdi və xilas oldu",
+        "Hud öz qövmünü heç bir cəza almadan tərk etdi"
+      ],
+      "answer": "Hud və möminlər xilas oldular, kafirlər isə məhv edildilər."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

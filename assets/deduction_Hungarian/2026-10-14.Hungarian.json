@@ -1,0 +1,61 @@
+{
+  "title": "A száműzött szövetségszegők",
+  "intro": "Egy szárnyait bontogató közösség korai napjaiban egy törzs erődített lakhelyeken élt, egy paktum kötelékében. Amikor ezt a paktumot megszegték, a következmények visszhangoztak a Korán lapjain. Kik voltak ezek az emberek, és mi lett az otthonaik és gyümölcsöseik sorsa?",
+  "clues": [
+    "Erődökben laktunk, amelyek hamis biztonságérzetet adtak nekünk.",
+    "Az Írás népe voltunk, mégis megszegtük a szövetségünket.",
+    "Miután hozzánk jött, összeesküvést szőttünk a követ ellen, de tervünk kudarcot vallott.",
+    "Pálmafáinkat Allah parancsára vágták ki, az Ő hatalmának jeleként.",
+    "Büntetésül a dacoskodásunkért kiűztek minket otthonainkból, hogy soha többé ne térhessünk vissza.",
+    "A Korán megemlít minket az összejövetelről szóló fejezetben, és történetünk figyelmeztetésül szolgál azok számára, akik megszegik a szövetségeket."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Madyan népe",
+        "Thamud népe"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Ostrom és kiűzetés otthonaikból",
+        "Fulladás a tengerben",
+        "Elnyeli a föld",
+        "Vihar okozta pusztítás",
+        "Majmokká változnak"
+      ],
+      "answer": "Ostrom és kiűzetés otthonaikból"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Kivágták a pálmafákat",
+        "A személyzet",
+        "A bárka",
+        "A víz kútja",
+        "A barlang"
+      ],
+      "answer": "Kivágták a pálmafákat"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Száműzetésbe menekültek és elvitték a vagyonukat",
+        "Győztesen tért vissza",
+        "Megbocsátottak és maradtak",
+        "Azonnal beléptek a paradicsomba",
+        "Pestis sújtotta őket"
+      ],
+      "answer": "Száműzetésbe menekültek és elvitték a vagyonukat"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

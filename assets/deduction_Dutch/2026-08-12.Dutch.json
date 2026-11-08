@@ -1,0 +1,61 @@
+{
+  "title": "De gezanten van barmhartigheid en macht",
+  "intro": "Stel je een rustige middag voor, die plotseling wordt onderbroken door de aankomst van onbekende reizigers. Hun uiterlijk is gewoon, maar hun doel is allesbehalve dat. Ze brengen een goddelijke boodschap die de loop van twee naties zal veranderen, vreugde zal brengen in een troosteloos thuis en angst in een zondige stad. Wie zijn deze mysterieuze bezoekers?",
+  "clues": [
+    "We werden naar een toegewijde dienaar van Allah gestuurd, die bekendstaat om zijn grenzeloze gastvrijheid.",
+    "We kwamen aan vermomd als vreemdelingen, en toch voelde onze gastheer dat er iets bovenaards aan onze aanwezigheid was.",
+    "We brachten nieuws dat een bejaarde vrouw ongelovig deed lachen en haar hand voor haar gezicht sloeg van verbazing.",
+    "Onze taak was het beschermen van een rechtschapen gezin, terwijl we tegelijkertijd een stad die doordrenkt was van corruptie, met desastreuze gevolgen bestookten.",
+    "We weigerden de ons aangeboden maaltijd te nuttigen, wat het wantrouwen van onze gastheer alleen maar vergrootte.",
+    "Pas vlak voor ons vertrek onthulden we onze ware aard door te zeggen: 'Voorwaar, wij zijn boodschappers van uw Heer.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie zijn wij?",
+      "options": [
+        "De gasten van Abraham",
+        "De discipelen van Jezus",
+        "De metgezellen van de grot",
+        "Het leger van Abraham",
+        "De boodschappers van Ya-Sin"
+      ],
+      "answer": "De gasten van Abraham"
+    },
+    "trial": {
+      "label": "Onze missie",
+      "options": [
+        "Om Abrahams geloof met betrekking tot zijn zoon te beproeven.",
+        "Om de Schrift aan Abraham te overhandigen",
+        "Om de geboorte van Isaak en de vernietiging van Lots volk aan te kondigen.",
+        "Om Abraham naar de Kaaba te leiden",
+        "Om Abraham uit het vuur te redden"
+      ],
+      "answer": "Om de geboorte van Isaak en de vernietiging van Lots volk aan te kondigen."
+    },
+    "location": {
+      "label": "Plaats van verschijning",
+      "options": [
+        "In het land Egypte",
+        "In de stad Ur",
+        "Bij Abraham thuis",
+        "In de tuin van Eden",
+        "Bij de bron van Zamzam"
+      ],
+      "answer": "Bij Abraham thuis"
+    },
+    "outcome": {
+      "label": "Het resultaat",
+      "options": [
+        "Abraham werd koning.",
+        "Abraham bouwde de Kaaba.",
+        "Sarah baarde Isaak en Lots volk werd vernietigd.",
+        "Abraham emigreerde naar Palestina.",
+        "Abrahams volk werd gered van een grote vloed."
+      ],
+      "answer": "Sarah baarde Isaak en Lots volk werd vernietigd."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

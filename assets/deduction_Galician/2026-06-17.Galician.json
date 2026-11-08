@@ -1,0 +1,61 @@
+{
+  "title": "O eco dende os límites da cidade",
+  "intro": "Nunha cidade que se afastou da guía divina, unha figura solitaria xurdiu das aforas, correndo cunha mensaxe de esperanza e advertencia. Esta alma esquecida converteríase nun símbolo eterno de fe firme.",
+  "clues": [
+    "Vin mensaxeiros enviados á miña cidade, pero a miña xente desestimábaos como humanos comúns.",
+    "Cría na súa mensaxe e sentía a verdade resoando dentro do meu ser.",
+    "Pedín ao meu pobo que obedecese aos mensaxeiros que non pedían recompensa.",
+    "Corrin dende o extremo máis afastado da cidade, intentando con urxencia facerlles entender a razón.",
+    "O meu pobo levantouse contra min, e fun asasinado, pero atopei a paz eterna.",
+    "Alá díxome: \"Entra no Paraíso\", e eu desexei que o meu pobo puidese presenciar a honra que se me concedeu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "O crente de Ya-Sin",
+        "Uzair o Interrogador",
+        "Al-Khidr o Guía",
+        "O crente da familia do faraón",
+        "Namrud o Tirano"
+      ],
+      "answer": "O crente de Ya-Sin"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Enfrontándose a un pobo incrédulo que o asasinou",
+        "Ser lanzado a un lume abrasador",
+        "Ser tragado por un gran peixe",
+        "Construíndo unha arca enorme",
+        "Fuxindo do exército dun tirano"
+      ],
+      "answer": "Enfrontándose a un pobo incrédulo que o asasinou"
+    },
+    "location": {
+      "label": "Localización clave",
+      "options": [
+        "O extremo máis afastado da cidade",
+        "O monte de Tur",
+        "O Val das Formigas",
+        "As beiras do Nilo",
+        "A caverna da cova"
+      ],
+      "answer": "O extremo máis afastado da cidade"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Martirio e entrada inmediata no Paraíso",
+        "Fuga e salvación",
+        "Ascensión aos ceos",
+        "Afogándose no mar",
+        "Convertíndose en pedra"
+      ],
+      "answer": "Martirio e entrada inmediata no Paraíso"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

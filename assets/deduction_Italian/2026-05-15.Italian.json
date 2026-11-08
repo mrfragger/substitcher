@@ -1,0 +1,61 @@
+{
+  "title": "Il Custode di un Segno Divino",
+  "intro": "Nel cuore di un santuario sacro, un'anima benedetta veniva nutrita dalla divina protezione. Questa persona era destinata a svolgere un ruolo cruciale in un evento miracoloso, diventando una testimonianza dell'infinita potenza e saggezza di Allah. Il suo cammino ha svelato una profonda verità, mettendo in discussione le convinzioni e stabilendo un segno unico per tutta l'umanità.",
+  "clues": [
+    "Sono stata scelta e purificata da Allah al di sopra di tutte le donne del mio tempo.",
+    "Fui posto sotto la tutela di un profeta giusto, che trovò sostentamento miracolosamente fornito nella mia stanza di preghiera.",
+    "Mi sono isolato dalla mia famiglia in un luogo privato per adorare Allah.",
+    "Un angelo mi apparve sotto forma di uomo perfetto, annunciandomi la nascita di un figlio puro, sebbene io non avessi mai conosciuto un maschio.",
+    "Dopo i dolori del parto, mi è stato consigliato di scuotere il tronco di una palma per trovare del nutrimento fresco.",
+    "Quando tornai dalla mia gente con il mio neonato in braccio, mi interrogarono, ma miracolosamente mio figlio parlò dalla culla in mia difesa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Sara (moglie del profeta Abramo)",
+        "Hajar (madre del profeta Ismail)",
+        "Bilqis (Regina di Saba)",
+        "Asiya (moglie del faraone)",
+        "Maria (Mary)"
+      ],
+      "answer": "Maria (Mary)"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Un grande diluvio che distrusse una nazione incredula",
+        "Essere gettati in un fuoco ardente per aver rinnegato gli idoli",
+        "La nascita miracolosa di un bambino senza padre",
+        "Essere inghiottito da una balena per aver abbandonato una missione",
+        "La distruzione di una città per pratiche immorali"
+      ],
+      "answer": "La nascita miracolosa di un bambino senza padre"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un vitello dorato",
+        "L'Arca dell'Alleanza",
+        "Una sacra camera di preghiera (Mihrab)",
+        "Un uccello parlante (Hudhud)",
+        "Un bastone che si è trasformato in un serpente"
+      ],
+      "answer": "Una sacra camera di preghiera (Mihrab)"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "La costruzione di un magnifico tempio",
+        "La divisione del mare per permettere a un popolo di attraversarlo",
+        "Un bambino che ha parlato fin dalla culla in difesa dei suoi genitori",
+        "La rivelazione di un libro divino per guidare l'umanità",
+        "Un regno benedetto dal vento e dai jinn"
+      ],
+      "answer": "Un bambino che ha parlato fin dalla culla in difesa dei suoi genitori"
+    }
+  },
+  "verseRef": "3:42",
+  "arabic": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَـٰلَمِينَ",
+  "verse": "And [mention] when the angels said, \"O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds. (3:42)"
+}

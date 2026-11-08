@@ -1,0 +1,61 @@
+{
+  "title": "Lá an Taispeántais Deiridh",
+  "intro": "Nuair a glaodh orthu chuig taispeántas mór cumhachta, fuair grúpa taibheoirí oilte iad féin os comhair fírinne gan choinne a d’athródh a saol go deo.",
+  "clues": [
+    "Bhí clú agus cáil orainn as ár gceardaíocht, máistrí na meabhlaireachta agus na cleasaíochta.",
+    "Ghlaoigh an rialóir orainn chun aghaidh a thabhairt ar dhúshlánóir a raibh slat shimplí ina láimh.",
+    "Nuair a chonaiceamar an fhírinne, thit muid síos i n-umhalacht, ag dearbhú creidimh i dTiarna na cruinne.",
+    "Bhagair an tíoránach pionós dian orainn, ach níor chromamar.",
+    "Bhíomar i measc na chéad daoine a chreid sa teachtaireacht tar éis dúinn an comhartha soiléir a fheiceáil.",
+    "Fuarthas bás dúinn mar gheall ar ár gcreideamh, ach is sinne na chéad daoine a rachaidh isteach i bParthas leis na fíréan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Draíodóirí an Pharaoh",
+        "Na hIosraeilítigh",
+        "Muintir Thamud",
+        "Deisceabail Íosa",
+        "Arm Abraha"
+      ],
+      "answer": "Draíodóirí an Pharaoh"
+    },
+    "trial": {
+      "label": "Triail / Imeacht",
+      "options": [
+        "Comórtas leis an bhFáidh Músa",
+        "Ag Tógáil an Túir",
+        "An Tuilte Mór",
+        "Plá na Locusts",
+        "An Mhuir Scoilte"
+      ],
+      "answer": "Comórtas leis an bhFáidh Músa"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Lá na Féile",
+        "Gleann Tuwa",
+        "Cathair Iram",
+        "Gairdín na Síoraíochta",
+        "Machaire Arafat"
+      ],
+      "answer": "Lá na Féile"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Céasadh iad go poiblí",
+        "Bádh iad sa bhfarraige",
+        "Rinneadh leanúna den fháidh díobh",
+        "Cuireadh ar deoraíocht iad",
+        "Chaith tine iad"
+      ],
+      "answer": "Céasadh iad go poiblí"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

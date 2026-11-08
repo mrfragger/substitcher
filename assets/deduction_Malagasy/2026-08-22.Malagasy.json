@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Tanàna Nino ny Fotoana",
+  "intro": "Ao amin'ny tantaran'ny famindram-pon'Andriamanitra, misy vondrom-piarahamonina iray izay ny fiovana lehibe dia fotoana nahatsapana ny zava-drehetra. Ho hitanao ny tantaran'izy ireo—tantara fampitandremana, fibebahana ary famelan-keloka izay mampiavaka azy ireo amin'ny anjaran'ny firenena hafa.",
+  "clues": [
+    "Vahoaka nirahina ho any amin'ny iraka izahay, ary nanda ny antsony tamin'ny voalohany.",
+    "Rehefa nazava ireo famantarana ny sazy izay efa antomotra, dia tsapanay ny fahamarinan'ny fampitandremany.",
+    "Nitodika tany amin'ny Tompontsika tamin'ny fibebahana marina izahay, ary nekena ny finoanay.",
+    "Nesorina ny sazy izay efa navoaka ho anay noho ny finoanay.",
+    "Voalaza ho toy ny tranga maningana teo amin'ireo tanàna izay nino rehefa avy nahita ny sazy ny tantarantsika.",
+    "Vahoakan'ny mpaminany izay natelin'ny trozona izahay, nefa voavonjy tamin'ny fandringanana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Vahoakan'i Yunus",
+        "Vahoakan'i Noa",
+        "Vahoakan'i Hoda",
+        "Vahoakan'i Salih",
+        "Vahoakan'i Lota"
+      ],
+      "answer": "Vahoakan'i Yunus"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Tondra-drano mahatsiravina",
+        "Rivo-doza mahery vaika",
+        "Sazy tsy nampoizina izay nosorohina",
+        "Ny tany mitelina azy ireo",
+        "Orana vato"
+      ],
+      "answer": "Sazy tsy nampoizina izay nosorohina"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny sambo fiara",
+        "Ny rameva vavy",
+        "Tanàna misy olona an-jatony",
+        "Ny mpiasan'i Musa",
+        "Ny tahirin'i Qarun"
+      ],
+      "answer": "Tanàna misy olona an-jatony"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Ringana tanteraka izy ireo",
+        "Nomena fahafinaretana nandritra ny fotoana kelikely izy ireo",
+        "Niova ho rajako izy ireo",
+        "Maty an-drano izy ireo",
+        "Natelin'ny tany izy ireo"
+      ],
+      "answer": "Nomena fahafinaretana nandritra ny fotoana kelikely izy ireo"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

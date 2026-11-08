@@ -1,0 +1,61 @@
+{
+  "title": "Ohu Allah Dị Elu",
+  "intro": "Ị na-anụ mkpọtụ nke onye dị ndụ n'oge ochie, onye ohu Allah nke e buliri elu n'ọkwa dị elu karịa onye nkịtị. A maara onye a maka ndidi na-adịghị agwụ agwụ na eziokwu zuru oke, e zigakwara ya ndị jụrụ ozi ahụ. Ònye bụ mkpụrụ obi a dị elu?",
+  "clues": [
+    "Allah họpụtara m dịka onye amụma, a kpọkwara m aha ya n'ime Koran Nsọ.",
+    "A maara m maka ndidi na eziokwu m, àgwà ndị Allah na-eto.",
+    "Akpọrọ m ndị m ka ha fee otu Chineke ahụ, mana ọtụtụ jụrụ m.",
+    "Allah buliri ọkwa m elu, e wee nye m ọkwa dị elu.",
+    "A na-akpọkarị m aha ya na ndị amụma ndị ọzọ dịka Ismail na Dhul-Kifl.",
+    "Allah kwuru maka m: 'Anyị wee bulie ya elu n'ọkwa dị elu.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Idris",
+        "Onye Amụma Elias",
+        "Onye Amụma Dhu al-Kifl",
+        "Onye Amụma Al-Yasa",
+        "Onye Amụma Hud"
+      ],
+      "answer": "Onye Amụma Idris"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "A kpọrọ ndị mmadụ ka ha fee Allah",
+        "Wuru ụgbọ ahụ",
+        "Agha megide Fero",
+        "A nwalere ya na ọrịa siri ike",
+        "A tụbara ya n'ọkụ"
+      ],
+      "answer": "A kpọrọ ndị mmadụ ka ha fee Allah"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ọkwa dị elu/ọkwa dị elu",
+        "Ụgbọ ahụ",
+        "Ndị ọrụ ahụ",
+        "Ọkụ ahụ",
+        "Olulu mmiri ahụ"
+      ],
+      "answer": "Ọkwa dị elu/ọkwa dị elu"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "E buliri elu ruo n'ọkwa dị elu",
+        "Mmiri gbawara n'ime idei mmiri",
+        "Azụ whale loro ya",
+        "A zọpụtara ya n'ọkụ",
+        "Aghọrọ m eze"
+      ],
+      "answer": "E buliri elu ruo n'ọkwa dị elu"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

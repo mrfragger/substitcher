@@ -1,0 +1,61 @@
+{
+  "title": "Külalislahkus, mis tekitas hirmu",
+  "intro": "Kurjuse poolt laastatud linnas saabus ustav sulane ühel päeval ootamatuid külalisi. Mure nende turvalisuse pärast pakkus see inimene kaitset, kuid linnaelanikud nõudsid midagi häbiväärset. Läheneva hukatuse eest hoiatatuna põgenes sulane koos perega pimeduse varjus, jättes maha hävitamisele määratud linna. Kes on see üksik usklik?",
+  "clues": [
+    "Mind saadeti sõnumitoojana rahva juurde, kes oli toime pannud häbiväärseid tegusid.",
+    "Mu koju tulid ootamatud külalised ja ma muretsesin rohkem nende kui enda turvalisuse pärast.",
+    "Mu inimesed nõudsid kurjade kavatsustega mu külalistega kohtumist ja ma püüdsin nendega aru pidada.",
+    "Mu külalised ilmusid inglitena ja käskisid mul öösel oma pere kaasa võtta ja lahkuda.",
+    "Mu naine ei võtnud põgenemiskutset kuulda ja seisis silmitsi sama hävinguga nagu minu rahvas.",
+    "Mu linn varises ümber kihiliste savikivide vihmast, selle kõrgeimad kohad toodi madalaimatele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Lut",
+        "Prohvet Musa",
+        "Prohvet Ibrahim",
+        "Prohvet Noa",
+        "Prohvet Hud"
+      ],
+      "answer": "Prohvet Lut"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Mu rahva nõudmine läheneda mu külalistele õelalt",
+        "Mere lõhenemine türanni eest põgenemiseks",
+        "Suure laeva ehitamine pilkamise keskel",
+        "Mu poja ohverdus usu proovilepanekus",
+        "Kogemus suure kala poolt alla neelamisest"
+      ],
+      "answer": "Mu rahva nõudmine läheneda mu külalistele õelalt"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Mu rahva ümberpööratud linn",
+        "Mägi, kus ma sain jumalikku kõnet",
+        "Laev, mis purjetas läbi suure veeuputuse",
+        "Kaljult ilmunud emane kaamel",
+        "Aed koos varjatud õiglase külalisega"
+      ],
+      "answer": "Mu rahva ümberpööratud linn"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Mind päästeti koos perega enne, kui mu linn ümber lükati",
+        "Ma juhtisin oma rahva üle mere vabadusse",
+        "Ma ehitasin suure laeva ja jäin ellu võimsas veeuputuses",
+        "Mulle anti võim tuulte ja džinnide üle",
+        "Talusin kannatlikult kannatusi ja mind tasustatakse perekonnaga"
+      ],
+      "answer": "Mind päästeti koos perega enne, kui mu linn ümber lükati"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

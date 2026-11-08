@@ -1,0 +1,61 @@
+{
+  "title": "De smekeling van het heiligdom",
+  "intro": "In de stille uren van de nacht riep een toegewijde ziel de Meest Barmhartige aan binnen de heilige muren van een heilige plaats. Jaren van onwankelbaar geloof en geduld stonden op het punt beloond te worden met een wonder dat vreugde en een profetische erfenis zou brengen.",
+  "clues": [
+    "Ik bracht mijn dagen en nachten door in devotie in een heilige ruimte, voortdurend smekend tot mijn Heer.",
+    "Ik werd oud en mijn vrouw was onvruchtbaar, maar ik verloor nooit de hoop op Allahs barmhartigheid.",
+    "Mij ​​werd een zoon geschonken, genaamd Yahya, die een profeet en een baken van gerechtigheid werd.",
+    "Ik was zelf een profeet, gezonden om de kinderen van Israël te leiden.",
+    "Ik was een afstammeling van de profeet Harun en diende als priester in de tempel.",
+    "Ik werd toevertrouwd aan de zorg voor Maryam, de moeder van Isa, en was getuige van haar wonderen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wie ben ik?",
+      "options": [
+        "Profeet Zakariyya",
+        "Profeet Yahya",
+        "Profeet Ilja",
+        "Profeet Ishaq",
+        "Profeet Ya'qub"
+      ],
+      "answer": "Profeet Zakariyya"
+    },
+    "trial": {
+      "label": "Proef/Evenement",
+      "options": [
+        "Hij werd op hoge leeftijd een zoon geschonken.",
+        "Gered uit een laaiende brand.",
+        "Gered uit de buik van een vis",
+        "Een grote overstroming overleefd.",
+        "Genezen van een ernstige ziekte"
+      ],
+      "answer": "Hij werd op hoge leeftijd een zoon geschonken."
+    },
+    "location": {
+      "label": "Sleutelelement",
+      "options": [
+        "De mihrab (gebedsnis)",
+        "De Kaaba",
+        "De brandende struik",
+        "De Ark van het Verbond",
+        "De grot van de zeven slapers"
+      ],
+      "answer": "De mihrab (gebedsnis)"
+    },
+    "outcome": {
+      "label": "Resultaat",
+      "options": [
+        "Hij kreeg een rechtvaardige zoon die een profeet werd.",
+        "Verwoest door een hevige storm.",
+        "Verdronken in de zee",
+        "gespaard gebleven van de verbranding.",
+        "Keerden terug naar hun eigen volk nadat ze gered waren van een vis."
+      ],
+      "answer": "Hij kreeg een rechtvaardige zoon die een profeet werd."
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

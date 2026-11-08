@@ -1,0 +1,61 @@
+{
+  "title": "Izopćenik iz vrta",
+  "intro": "Misteriozno biće je nekada obitavalo u najvišim redovima stvaranja, bliže Božanskom nego što su mnogi mogli zamisliti. Ipak, ponos se ukorijenio, i jedan jedini čin prkosa promijenio je tok postojanja. Sada ovo biće luta kao zakleti neprijatelj, šapuće i spletkari dok ne dođe obećani dan. Možete li otkriti identitet ovog palog?",
+  "clues": [
+    "Nekada sam bio među onima koji su najbliži Božanskom prisustvu, uzdignut iznad većeg dijela stvorenja.",
+    "Stvoren sam od užarenog elementa, a ne od zemlje ili gline.",
+    "Kada mi je naređeno da se poklonim pred novim stvorenjem, odbio sam - vođen onim što sam vjerovao da je moja vlastita superiornost.",
+    "Bio sam izgnan i proklet, ali mi je na kraju odobren odgoda do poznatog, određenog vremena.",
+    "Zakleo sam se da ću zavesti što više ljudi, približavajući se Adamovom potomstvu sa svih strana.",
+    "Ja sam otvoreni, proglašeni neprijatelj cijelog čovječanstva, koji neprestano kuje zavjere i šapuće sve do određenog kraja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Poslanik Iljas",
+        "Ebu Lehab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Probno razdoblje / Događaj",
+      "options": [
+        "Odbijanje da se pokloni pred Adamom",
+        "Gradnja zlatnog teleta kojem će se ljudi klanjati",
+        "Podučavanje vračanju naroda Babilona",
+        "Cijepanje mora štapom",
+        "Noseći tron ​​kraljice od Sabe u trenutku"
+      ],
+      "answer": "Odbijanje da se pokloni pred Adamom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Rajski vrt",
+        "Planina Tur",
+        "Bunar Rassa",
+        "Faraonova palača",
+        "Pećina spavača"
+      ],
+      "answer": "Rajski vrt"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Odgoda odobrena do Sudnjeg dana",
+        "Udavljen u moru s vojskom",
+        "Živ sahranjen pod urušavajućom palatom",
+        "Pretvoren u majmuna ili majmuna",
+        "Uzdignut na viši rang"
+      ],
+      "answer": "Odgoda odobrena do Sudnjeg dana"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

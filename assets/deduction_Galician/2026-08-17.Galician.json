@@ -1,0 +1,61 @@
+{
+  "title": "A transgresión pola costa",
+  "intro": "Estás sobre a area dunha costa esquecida, onde as ondas susurran sobre unha comunidade posta a proba por unha orde divina. O aire está cargado coa lembranza dunha violación que levou a unha transformación sorprendente. Quen eran estas almas e cal foi a natureza da súa proba?",
+  "clues": [
+    "Eramos unha comunidade que recibimos un mandamento claro do noso Señor, pero atopamos xeitos de desafialo.",
+    "Vivíamos preto dunha masa de auga e o noso sustento dependía das súas criaturas.",
+    "Unha proba chegou a nós o día en que se nos ordenou absternos das actividades mundanas.",
+    "As criaturas da auga viñeron a nós en gran número ese mesmo día, tentándonos máis alá do que podíamos soportar.",
+    "Ideamos un truco astuto para burlar a orde divina, pensando que poderiamos ser máis listos que o decreto.",
+    "A nosa transgresión levou a unha transformación humillante; convertémonos en monos desprezados por orde de Alá."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "A xente do sábado",
+        "A xente de Rass",
+        "A xente de Tubba",
+        "A xente da cova",
+        "Os compañeiros da gabia"
+      ],
+      "answer": "A xente do sábado"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A aparición de peixes no sábado",
+        "Un ano de seca severa",
+        "Un exército de paxaros enviado contra eles",
+        "Unha inundación que os asolagou",
+        "Un violento terremoto"
+      ],
+      "answer": "A aparición de peixes no sábado"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O mar",
+        "Unha montaña",
+        "Unha cova",
+        "Un val desértico",
+        "Unha cidade fortificada"
+      ],
+      "answer": "O mar"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Convertidos en simios",
+        "Tragado pola terra",
+        "Destruído por un vento berrante",
+        "Afogado no mar",
+        "Golpeado por unha chuvia de pedras"
+      ],
+      "answer": "Convertidos en simios"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

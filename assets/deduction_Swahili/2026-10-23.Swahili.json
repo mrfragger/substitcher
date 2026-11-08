@@ -1,0 +1,61 @@
+{
+  "title": "Misheni katika Jiji la Kale",
+  "intro": "Mji wa kale wenye vumbi, watu wake wamejikita katika kukataa, na onyo la mwisho ambalo halikuzingatiwa. Leo, ingia katika nafasi ya wale waliotumwa na Mwenyezi Mungu kuwasilisha ujumbe kwa watu wakaidi. Hadithi ya kukataliwa, sauti ya imani ya pekee, na mwisho uliofungwa na amri kali. Nani anayezungumza kupitia vidokezo hivi?",
+  "clues": [
+    "Tulitumwa na Mwenyezi Mungu kwenye mji ambao watu wake walikuwa wameacha ukweli.",
+    "Wawili wetu walitangulia, kisha wa tatu walijiunga ili kuimarisha misheni yetu",
+    "Watu wa mjini walitukataa, wakisema sisi si kitu ila wanadamu kama wao",
+    "Mtu mmoja kutoka mwisho wa mbali wa jiji alikimbia kuwaambia watu watufuate",
+    "Tuliwasihi, lakini waliifanya mioyo yao kuwa migumu na kutugeukia",
+    "Katika kilio kimoja cha kutisha kutoka mbinguni, jiji letu lote lilinyamazishwa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Wajumbe wa Mji katika Surah Ya-Sin",
+        "Hawwariyyun (Wanafunzi wa Isa)",
+        "Wachawi wa Baraza la Farao",
+        "Masahaba wa Sabato",
+        "Watu wa Tembo"
+      ],
+      "answer": "Wajumbe wa Mji katika Surah Ya-Sin"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukataliwa na kuitwa waongo na watu wa mjini",
+        "Kuchomwa hai katika moto mkubwa unaowaka",
+        "Imemezwa na samaki mkubwa katika bahari ya kina kirefu",
+        "Kulazimishwa kufanya kazi kwa bidii kujenga nguzo ndefu",
+        "Kuteswa katika mfereji wa moto mkali"
+      ],
+      "answer": "Kukataliwa na kuitwa waongo na watu wa mjini"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Mji wa kale (al-Qaryah)",
+        "Tanuru kubwa inayowaka moto",
+        "Tumbo la samaki mkubwa",
+        "Nguzo ndefu inayogusa anga",
+        "Nyumba Takatifu (Kaaba)"
+      ],
+      "answer": "Mji wa kale (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mji uliharibiwa na kilio kimoja cha uharibifu (Sayha)",
+        "Mtawala huyo na jeshi lake walizama katika bahari iliyogawanyika",
+        "Watu walibadilishwa kuwa nyani na nyani",
+        "Mvua ya mawe kutoka angani iliharibu mji",
+        "Mafuriko makubwa yalifagilia mbali jumuiya nzima"
+      ],
+      "answer": "Mji uliharibiwa na kilio kimoja cha uharibifu (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

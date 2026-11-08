@@ -1,0 +1,61 @@
+{
+  "title": "Umklami Wesifiso Samanga",
+  "intro": "Umuntu owayenegunya elikhulu wake wakhonza omunye wababusi abadumile emlandweni eGibhithe lasendulo. Lo muntu waphathiswa umyalo onesibindi — wokwakha isakhiwo esenzelwe ukuphikisa amazulu. Indaba yabo isemi ku-Quran njengesifundo esiphawulekayo mayelana nokuthi ukulalela ngokungaboni ukuzikhukhumeza kuholela kanjani ekubhujisweni.",
+  "clues": [
+    "Ngakhonza ezinkantolo zombusi onamandla owayethi unguNkulunkulu phezu kwamazwe.",
+    "Bengiphethe isikhundla esiphakeme sokuba ngungqongqoshe, ngiluleka umbusi oqhoshayo kakhulu wesikhathi sami.",
+    "Umbusi wami wayegcwele ukuphikisa uNkulunkulu kaMose, labo abenqaba ukumqaphela.",
+    "Ngayalwa ukuba ngakhe umbhoshongo wezitini ezishiswe ngomlilo ukuze umbusi wami akwazi ukukhuphukela ezulwini.",
+    "Umbhoshongo awuzange ufike esibhakabhakeni, futhi ukugqilazwa kwami ​​​​kokuzikhukhumeza kwangitholela ihlazo laphakade.",
+    "Ngabhubha kanye nalowo engangimlandela, futhi igama lami laba yisixwayiso esihlala njalo kulabo abavumela ababusi abangondlovukayiphikiswa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UHamani",
+        "U-Azar (ubaba ka-Ibrahim)",
+        "U-Illyas (umprofethi)",
+        "I-Dhu al-Kifl",
+        "UHarut (omunye wezingelosi ezimbili eBhabhiloni)"
+      ],
+      "answer": "UHamani"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wayalwa ukuba akhe isakhiwo eside ukuze afinyelele ezulwini",
+        "Ucelwa ukuba achaze iphupho elithunyelwe livela kuNkulunkulu",
+        "Ukuphonswa emlilweni ovuthayo njengovivinyo lokholo",
+        "Kuphoqelekile ukukhetha phakathi kwesihlalo sobukhosi neqiniso",
+        "Uphikisiwe emncintiswaneni wobuthakathi"
+      ],
+      "answer": "Wayalwa ukuba akhe isakhiwo eside ukuze afinyelele ezulwini"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umbhoshongo wezitini ezishiswe ngomlilo",
+        "Intonga eyaphenduka inyoka",
+        "Umkhumbi ohamba phakathi kwesikhukhula esikhulu",
+        "Ingadi ebiyelwe ngodonga olude",
+        "Isihlalo sobukhosi esihlotshiswe ngamarubi negolide"
+      ],
+      "answer": "Umbhoshongo wezitini ezishiswe ngomlilo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ukuminza eceleni komcindezeli olwandle",
+        "Waba yinkosi enamandla yamazwe amakhulu",
+        "Ngiphunyuke emlilweni ovuthayo ngingalimalanga",
+        "Wakha umbuso ochumayo wokuhlakanipha",
+        "Ngahlangana kabusha nomndeni wami ngemuva kweminyaka eminingi yokudingiswa"
+      ],
+      "answer": "Ukuminza eceleni komcindezeli olwandle"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

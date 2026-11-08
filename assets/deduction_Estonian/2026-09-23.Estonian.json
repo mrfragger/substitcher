@@ -1,0 +1,61 @@
+{
+  "title": "Kutse, mis läbi elas ajastuid",
+  "intro": "Kujutage ette hinge, kes seisab üksi terve tsivilisatsiooni vastu, otsustanud nad vankumatu otsusekindlusega eksiteelt tagasi juhtida. Sajandeid lükati sõnum tagasi, pilgati ja põlati seda – ometi ei lakanud pingutused kunagi. Lõpuks saabus suur arveteõiendamine ja vaid vähesed pääsesid selle vankumatu hinge kõrval pääsemisele. Kas suudate selle tegelase Koraanist ära tunda?",
+  "clues": [
+    "Mind saadeti hoiatajana rahvale, kes on oma teedel eksinud.",
+    "Ma kutsusin neid üles andestust otsima ja oma eksimustest taganema, aga nad pöördusid ära.",
+    "Jumaliku käsu all ehitasin ma tohutu laeva, samal ajal kui mu rahvas mind pealt vaatas ja naeruvääristas.",
+    "Ma hüüdsin lakkamatult oma Issandat – lõpuks Ta vastas ja taevast voolas paduvihmadena vett.",
+    "Ma astusin laevale koos nendega, kes uskusid, kui veeuputus maa kohale tõusis.",
+    "Ma hüüdsin ühe maha jäänud poole, paludes tal mäel varjuda, aga otsus oli juba vastu võetud."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Noa",
+        "Prohvet Ibrahim",
+        "Prohvet Musa",
+        "Prohvet Hud",
+        "Prohvet Salih"
+      ],
+      "answer": "Prohvet Noa"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suure laeva ehitamine ja ülemaailmse veeuputuse üleelamine",
+        "Lõõmavasse tulle heidetud",
+        "Türanni ja tema võimsate võluritega silmitsi seismine",
+        "Suure kala poolt alla neelatud",
+        "Püha emase kaameli tapmise tunnistajaks olemine"
+      ],
+      "answer": "Suure laeva ehitamine ja ülemaailmse veeuputuse üleelamine"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Massiivne puidust laev raevukatel üleujutusvetel",
+        "Püha org iidsete kivivaremetega",
+        "Sügav koobas, kus kaaslased sajandeid magasid",
+        "Hiiglasliku vaala kõht ookeani sügavustes",
+        "Kõrguv kivimägi kõnnumaal"
+      ],
+      "answer": "Massiivne puidust laev raevukatel üleujutusvetel"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Päästetud koos laeval viibivate usklikega",
+        "Päästeti jumaliku käsu läbi tulekahjust vigastusteta",
+        "Juhtis suurt väljarännet võimsast kuningriigist",
+        "Viska kalalt viljatule kaldale",
+        "Juhtis inimesi imelise märgi abil valedest tegudest eemale"
+      ],
+      "answer": "Päästetud koos laeval viibivate usklikega"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

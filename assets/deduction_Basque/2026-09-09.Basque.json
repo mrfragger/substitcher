@@ -1,0 +1,61 @@
+{
+  "title": "Zutik jartzen den lehenengo arima",
+  "intro": "Lurrean mezularirik ibili baino askoz lehenago, idatzi santurik agerian geratu baino lehen, beste inongo izaki ezberdin bat sortu zen. Arima hau jainkozko eskuek moldatu zuten, edertasun paregabeko leku bat eman zioten, eta gizateriaren historia osoan oihartzuna izango zuen moduan probatu zuten. Ondoren, ahultasun istorio bat, damu zintzoa eta sorkuntzaren norabidea betiko aldatuko zuen patu bat izan zen. Asmatu al dezakezu nor den?",
+  "clues": [
+    "Errukitsuenaren eskuek lurreko hautsetik moldatu ninduten",
+    "Edertasun paregabeko etxe bat eman zidaten, non ez goseak ez nekeak ukituko ninduen.",
+    "Zuhaitz bakar batera ez hurbiltzeko agindu zidaten, debekatuta baitzegoen",
+    "Nire laguna eta biok engainatu gintuzten eta debekatutako zuhaitzera hurbildu ginen, gure Jaunaren aginduaren aurka.",
+    "Zinez damututa itzuli ginen gure Jaunarengana, eta barkatu egin zitzaizkigun gure bekatuak",
+    "Gugandik, gizateria osoa jaitsi da; ni naiz lur honetan ibili den lehena"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Adam profeta",
+        "Musa profeta",
+        "Nuh profeta",
+        "Yusuf profeta",
+        "Isa profeta"
+      ],
+      "answer": "Adam profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Debekatutako zuhaitzaren tentazioa",
+        "Faraoiarekin izandako liskarra",
+        "Arka Handia eraikitzen",
+        "Maite dugun semearen sakrifizioa",
+        "Su handi batera botata izatea"
+      ],
+      "answer": "Debekatutako zuhaitzaren tentazioa"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Debekatutako Zuhaitza",
+        "Sasi Erretzailea",
+        "Urrezko Langila",
+        "Arka Handia",
+        "Urrezko Txahala"
+      ],
+      "answer": "Debekatutako Zuhaitza"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Lurrera bidalia gizateriaren lehen zaintzaile gisa",
+        "Faraoia eta bere armada itsasoan ito ziren",
+        "Uholde handiak gaiztoak suntsitu zituen",
+        "Sua fresko eta baketsu bihurtu zen",
+        "Egiptoko erreinuaren gaineko agintea eman zioten"
+      ],
+      "answer": "Lurrera bidalia gizateriaren lehen zaintzaile gisa"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

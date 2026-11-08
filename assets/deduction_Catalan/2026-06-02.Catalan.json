@@ -1,0 +1,61 @@
+{
+  "title": "El guardià de la porta del sol naixent",
+  "intro": "Al llarg de l'Alcorà, certes ànimes recorren la terra deixant rastres de saviesa i meravella. Una d'aquestes figures va viatjar als punts més llunyans de la creació, on surt i es pon el sol, on una barrera reté el caos mateix. A aquest servent d'Al·là se li va concedir un regne que ningú tornaria a posseir mai més. A través de tres viatges diferents, el propòsit d'aquest individu va quedar clar. Podeu identificar aquest llegendari rodamón entre les ombres de la història?",
+  "clues": [
+    "El Més Misericordiós em va concedir l'autoritat per governar la terra d'una manera que ningú més ha aconseguit mai.",
+    "Vaig viatjar cap a l'oest fins que vaig arribar al lloc on es pon el sol, trobant-lo ponent-se en una font tèrbola, i vaig veure gent allà.",
+    "Vaig viatjar cap a l'est fins que vaig arribar al lloc on surt el sol, i el vaig trobar sortint sobre un poble a qui no havíem proporcionat cap refugi.",
+    "Vaig viatjar entre aquells dos punts extrems fins que vaig arribar a una vall entre dues muntanyes, on vaig trobar un poble que amb prou feines entenia la parla.",
+    "Vaig trobar a la muntanya dues barreres dures de ferro que s'estenien a dreta i esquerra, i entre elles, un estret passatge. Aquesta gent em va demanar que trenqués la barrera que contenia el caos.",
+    "Vaig agafar les meves provisions i vaig dir: «Quan la barrera es trenqui, hi haurà una separació clara entre nosaltres i aquest poble». I quan va arribar el moment assenyalat, vaig veure com finalment es trencava la barrera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Profeta Sulayman",
+        "Profeta Ibrahim",
+        "El rei de Ghassaniyah",
+        "Dhul-Qarnain el Rodejant"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Trencant la barrera de ferro per a la gent de Yajuj i Majuj",
+        "Construint la nau sota el comandament d'un profeta",
+        "Construcció d'un temple a Jerusalem",
+        "Travessant el Mar Roig amb el poble creient",
+        "Construint una presa per protegir una nació justa"
+      ],
+      "answer": "Trencant la barrera de ferro per a la gent de Yajuj i Majuj"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La barrera de ferro entre dues muntanyes",
+        "El vaixell va ancorar a una muntanya",
+        "El santuari de Jerusalem",
+        "El riu a la terra d'Egipte",
+        "El pou de les benediccions a Madyan"
+      ],
+      "answer": "La barrera de ferro entre dues muntanyes"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La barrera va ser trencada quan va arribar el moment assenyalat, i el caos es va desfermar",
+        "Els incrèduls es van ofegar mentre que els creients es van salvar",
+        "Els justos van ser guiats al paradís etern",
+        "La ciutat va ser destruïda per un vent eixordador",
+        "Els ídols van ser trencats i el poble es va penedir"
+      ],
+      "answer": "La barrera va ser trencada quan va arribar el moment assenyalat, i el caos es va desfermar"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

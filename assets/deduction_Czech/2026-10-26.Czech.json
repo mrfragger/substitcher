@@ -1,0 +1,61 @@
+{
+  "title": "Šepot ve větru",
+  "intro": "Představte si říši, kde se neviditelné a viditelné prolíná, a stojíte před postavou v srdci království, které se nepodobá žádnému jinému. Tato duše disponuje znalostmi, které jsou mimo běžný dosah, ovládá síly, které si ostatní dokážou jen představit. Přesto i ti nejmocnější mohou být pokořeni drobným tvorem a pravda může zůstat skryta až do určeného času. Kdo je tato postava, jejíž odkaz se ozývá věky?",
+  "clues": [
+    "Bylo mi dáno království, které po mně nikdo mít nebude.",
+    "Zdědil jsem znalosti a moudrost po milovaném rodiči.",
+    "Vítr byl pod mým velením a na můj rozkaz se pohyboval, kamkoli jsem si přál.",
+    "Rozuměl jsem řeči ptáků a oni sloužili v mé armádě.",
+    "Dostal jsem zprávu od malého ptáčka o královně, která uctívala slunce.",
+    "Moje smrt zůstala skryta, dokud mi nějaký tvor ze země nepohltil hůl, a teprve tehdy si džinové uvědomili, že neznají neviditelné."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Sulajmán (Šalamoun)",
+        "Prorok Dawud (David)",
+        "Prorok Músa (Mojžíš)",
+        "Prorok Ísa (Ježíš)",
+        "Prorok Nuh (Noe)"
+      ],
+      "answer": "Prorok Sulajmán (Šalamoun)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Návštěva královny ze Sáby",
+        "Být vhozen do ohně",
+        "Rozdělující moře",
+        "Stavba archy",
+        "Být spolknut velrybou"
+      ],
+      "answer": "Návštěva královny ze Sáby"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Hůl pohlcená tvorem země",
+        "Hůl, která se proměnila v hada",
+        "Velbloudice",
+        "Archa",
+        "Velryba"
+      ],
+      "answer": "Hůl pohlcená tvorem země"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Jeho smrt byla před džiny utajena, dokud nebyla jeho hůl snědena",
+        "Byl vznesen k nebi zaživa",
+        "Byl zachráněn z ohně na Alláhův příkaz",
+        "Byla mu dána Tóra",
+        "Byl zachráněn před velrybou"
+      ],
+      "answer": "Jeho smrt byla před džiny utajena, dokud nebyla jeho hůl snědena"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

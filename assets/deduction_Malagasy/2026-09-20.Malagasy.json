@@ -1,0 +1,61 @@
+{
+  "title": "Ny mpino misaron-tava ao amin'ny lapan'ny mpitondra jadona",
+  "intro": "Tao anatin'ireo efitrano volamenan'ilay mpitondra miavonavona indrindra fantatry ny CORAN — izay namaritan'ny didin'Andriamanitra ny fanoherana ny didin'Andriamanitra — dia nisy olona iray nandeha teo anivon'ireo olona ambony, nanafina ny tsiambaratelo mampidi-doza indrindra teo imason'olona. Nitondra finoana voarara tao anatin'ireo rindrina ireo ity olona ity ka ny fahitana azy dia hidika ho fahafatesana azo antoka. Na izany aza, nirehitra toy ny lelafo teo ambanin'ny lavenona ny faharesen-dahatra, ary rehefa tonga ny fotoana, dia naneno tamim-pahasahiana ny fahamarinana izay nanozongozona ny fototry ny lapan'ilay mpitondra jadona.",
+  "clues": [
+    "Niaina teo anivon'ny faribolan'ny mpitondra nahery sy niavonavona indrindra tamin'ny androko aho, voahodidin'ny rendrarendra sy ny fahefana.",
+    "Nafeniko lalina tao am-poko ny finoako marina, natahotra ny amin'ny aiko tamin'ireo izay nitondra tamin-kabibiana sy fampahoriana.",
+    "Rehefa nisalasala sy nisalasala teo anatrehan'ny fahamarinana ny oloko, dia nandroso Aho mba hampitandrina azy ireo ny amin'ny loza mahatsiravina izay nanjo ireo firenena taloha izay nandà ny iraky ny Tompony.",
+    "Nampahatsiahiviko ny oloko ny tantaran'ny tanora mpanonofy malala iray izay noroahin'ny havany ihany nefa niakatra ho amin'ny fahefana lehibe tany an-tany lavitra.",
+    "Nampirisika ny oloko aho mba tsy hankatò ny mpitondra izay nitarika azy ireo ho amin'ny lalan-diso, fa kosa hanasa azy ireo hanaraka Ahy amin'ny lalan'ny fahamarinana sy ny fitarihana.",
+    "Niteny ampahibemaso ny marina aho na dia nandrahona ny hitora-bato ahy na handroaka ahy hiala ny tany aza ireo mpanara-dia ilay mpitondra jadona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ilay mpino miafina avy amin'ny fianakavian'i Farao",
+        "Patriarika iray nanam-paharetana izay nitomany jamba mandra-piverin'ny zanany lahy",
+        "Mpanompo mahatoky izay sitrana tamin'ny aretin-koditra",
+        "Zanakalahy mpanota iray izay nandà ny fanasan'ny mpaminany iray hiditra tao anaty sambofiara",
+        "Mpitondra jadona tsy mifaditrovana izay nilaza ho Andriamanitra ho an'ny tenany"
+      ],
+      "answer": "Ilay mpino miafina avy amin'ny fianakavian'i Farao"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Manafina finoana ao amin'ny lapan'ny mpitondra jadona",
+        "Mijaly amin'ny fahajambana noho ny fitomaniana an-taonany maro",
+        "Voasedra tamin'ny fahaverezan'ny fianakaviana sy ny fahoriana mafy",
+        "Manangana sambo lehibe sady esoina",
+        "Miaritra ny hafanan'ny afobe"
+      ],
+      "answer": "Manafina finoana ao amin'ny lapan'ny mpitondra jadona"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Lapan'i Farao",
+        "Tendrombohitra iray izay nanamboarana sambo fiara",
+        "Lohasaha masina eo ambanin'ny Tendrombohitra Sinay",
+        "Zaridaina mahafinaritra misy renirano roa mikoriana",
+        "Seza fiandrianana kristaly eo ambonin'ny renirano ambanin'ny tany"
+      ],
+      "answer": "Lapan'i Farao"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Fiarovan'Andriamanitra raha iharan'ny fandringanana ireo mpampahory",
+        "Nihaona indray tamin'ny fianakaviana rehefa avy nisaraka am-polony taona maro",
+        "Nomena faharetana, fahasalamana indray, ary fianakaviana lehibe kokoa",
+        "Voavonjy tao anaty sambo raha maty an-drano ny ambin'izao tontolo izao",
+        "Voavonjy tsy naninona tamin'ny lelafo araka ny didin'i Allah"
+      ],
+      "answer": "Fiarovan'Andriamanitra raha iharan'ny fandringanana ireo mpampahory"
+    }
+  },
+  "verseRef": "40:38",
+  "arabic": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ ٱتَّبِعُونِ أَهْدِكُمْ سَبِيلَ ٱلرَّشَادِ",
+  "verse": "And he who believed said, \"O my people, follow me; I will guide you to the way of right conduct. (40:38)"
+}

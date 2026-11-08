@@ -1,0 +1,61 @@
+{
+  "title": "Neimenovana duša, ki se je uprla nepravičnemu narodu",
+  "intro": "Na straneh Korana so osebe, katerih imena so bila zadržana, da bi lahko razmislili o njihovih naukih. Ena takšna duša se je rodila med narodom, ki je zavrnil svoje poslance, a je ta posameznik imel skrito vero, ki jo je ločila od drugih. Ko se je bližalo uničenje, je ta oseba trdno vztrajala pri svojem skrivnem prepričanju. Ali lahko odkrijete identiteto te skrivnostne osebe, ki opozarja svoje ljudstvo, preden se spusti končna sodba?",
+  "clues": [
+    "Živel sem med ljudstvom, ki je vedno znova zanikalo poslance, ki jim jih je poslal Alah.",
+    "Za razliko od mojega naroda sem spoznal resnico, ko je prišel poslanec z jasnimi znamenji mojega Gospodarja.",
+    "Svojo vero sem skrival pred zatiralci, saj sem vedel, da mi bodo škodovali, če bodo odkrili mojo vero.",
+    "Ko se je bližal ukaz o kazni, sem odkrito izjavil svojo zvestobo in opozoril svoje ljudstvo, naj se reši.",
+    "Spomnil sem jih, da sem zaupanja vreden poslanec, ki se ne razlikuje od tistih, ki so bili poslani prej, in da ne smejo častiti nikogar drugega kot Alaha.",
+    "Moje ljudstvo me je obtožilo čarovništva in norosti, a kazen, o kateri so bili opozorjeni, jih je na koncu doletela."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Hud, poslanec ljudstvu Aad",
+        "Vernik iz naroda preroka Huda, ki je bil mučeniško umorjen",
+        "Vladar ljudstva Aad, ki je zavrnil resnico",
+        "Spremljevalec preroka Saliha, ki je dvomil v božanska znamenja",
+        "Angel, poslan, da uniči ljudstvo Aada"
+      ],
+      "answer": "Vernik iz naroda preroka Huda, ki je bil mučeniško umorjen"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Preizkušnja suše in lakote, ki je preizkusila njihovo potrpežljivost",
+        "Sojenje izpovedovanju vere pred zatiralskim nevernim narodom",
+        "Poskus gradnje ladje za pobeg pred veliko poplavo",
+        "Preizkušnja vrženja v ogenj zaradi vere v Alaha",
+        "Preizkušnja bogastva in blaginje"
+      ],
+      "answer": "Sojenje izpovedovanju vere pred zatiralskim nevernim narodom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Mesto Meka, kjer je bila zgrajena sveta hiša",
+        "Puščavske ravnice naroda, ki je zanikal svojega poslanca",
+        "Midjanske gore, kamor je bil poslan prerok Šuajb",
+        "Rečni breg Egipta, kjer so našli preroka Musa",
+        "Dolina ljudstva Aad, ki jo je zadel močan veter"
+      ],
+      "answer": "Puščavske ravnice naroda, ki je zanikal svojega poslanca"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Rešen sem bil na ladji in živel sem, dokler ni Alah hotel",
+        "Moje ljudstvo je po meni verjelo in bilo vodeno na pravo pot.",
+        "Ubili so me moji ljudje, a mojo dušo je vzela Alahova milost.",
+        "Po preizkušnji sem se pokesal in Allah je moje kesanje sprejel",
+        "Po moji smrti sem se spremenil v idola, ki ga častijo moji ljudje."
+      ],
+      "answer": "Ubili so me moji ljudje, a mojo dušo je vzela Alahova milost."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

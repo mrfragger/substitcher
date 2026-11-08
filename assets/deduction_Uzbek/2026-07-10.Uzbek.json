@@ -1,0 +1,61 @@
+{
+  "title": "To'qqizta belgining tashuvchisi",
+  "intro": "Ilohiy iroda bilan yozilgan taqdirga ega bo'lgan eng oddiy boshlanishlardan bir qiyofaga ko'tarildi. Go'dakligida yashirinib, o'z xalqini yo'q qilishga intilgan hukmdorning devorlari ichida tarbiyalangan bu ruh oxir-oqibat buyuk vazifaga chaqirildi. Faqat imon va kamtarona cho'pon tayoqchasi bilan qurollangan ular davrning eng qudratli hukmdori oldida turishdi va qul bo'lganlar uchun ozodlikni talab qilishdi. Dunyoning o'zi ularning buyrug'i bilan harakatlanayotgandek tuyuldi - suvlar ikkiga bo'lindi, osmon gapirdi va shohlik quladi.",
+  "clues": [
+    "Mening ilk kunlarim qo'rquv bilan o'tdi — men kabi go'daklar tug'ilishi bilan kelajakdan qo'rqadigan shafqatsiz hukmdor tomonidan ta'qib qilinardi.",
+    "Meni suv qutqarib qoldi va meni halokatga mahkum etgan hukmdorning saroyida tarbiyaladim.",
+    "To'satdan sodir bo'lgan voqeadan so'ng, men o'z vatanimdan qochib ketdim va uzoq yurtda oddiy cho'ponga aylandim.",
+    "Men o'sha qudratli hukmdorga qarshi oddiy tayoq va aniq xabar bilan xalqimning ozodligini talab qilish uchun qaytib keldim.",
+    "Men orqamdan ergashganlar uchun katta suv havzasini ajratdim va o'sha suvlar dushmanimni butunlay yutib yuborganini tomosha qildim.",
+    "Men Allohdan ilohiy yo'l-yo'riq olish uchun muqaddas toqqa chiqdim va menga haqiqatning isboti sifatida to'qqizta aniq oyat-mo''jiza berildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Muso payg'ambar",
+        "Nuh payg'ambar",
+        "Ibrohim payg'ambar",
+        "Yusuf payg'ambar",
+        "Lut payg'ambar"
+      ],
+      "answer": "Muso payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Fir'avn saroyida uning oldida turish",
+        "Katta to'fondan omon qolish uchun kema qurish",
+        "But yasovchilar tomonidan alangali olovga tashlanish",
+        "Akalarim tomonidan chuqur quduqqa tushirilmoqdaman",
+        "Xalqimni axloqsiz xatti-harakatlardan to'xtatishga harakat qilyapman"
+      ],
+      "answer": "Fir'avn saroyida uning oldida turish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Ilonga aylangan tayoq",
+        "Nuhning kemasi",
+        "Bilqis taxti",
+        "Shamol va jinlarni boshqaradigan halqa",
+        "To'plangan xazinalarning kalitlari juda og'ir"
+      ],
+      "answer": "Ilonga aylangan tayoq"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Xalqimni ikkiga bo'lingan suvlar orqali ozodlikka olib chiqdim",
+        "Kema ichidagi katta suv toshqinidan qutqarildi",
+        "Chuqur azob-uqubatlardan so'ng sog'lig'i va oilasiga qaytdi",
+        "Katta baliqdan tiriklayin chiqarib yuborildi",
+        "Muqaddas Uyning poydevorini qurdi"
+      ],
+      "answer": "Xalqimni ikkiga bo'lingan suvlar orqali ozodlikka olib chiqdim"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

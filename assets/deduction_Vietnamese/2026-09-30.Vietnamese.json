@@ -1,0 +1,61 @@
+{
+  "title": "Bệnh nhân số một",
+  "intro": "Xa xưa, vào những ngày đầu của lịch sử loài người, hai linh hồn đã đứng trước Đấng Tạo Hóa với những lễ vật. Một được chấp nhận, một thì không. Điều xảy ra sau đó đã trở thành bi kịch lớn đầu tiên giữa hai anh em ruột - một hành động kiềm chế kiên nhẫn và một hành động trả thù cay đắng. Bạn có thể khám phá ra tôi là ai không?",
+  "clues": [
+    "Tôi sinh ra vào những ngày đầu tiên của sự tồn tại của loài người trên Trái đất.",
+    "Tôi là con của cặp đôi người đầu tiên từng bước đi trên trái đất này.",
+    "Tôi từng dâng hiến một con vật tốt nhất trong đàn của mình để làm hài lòng Đấng Tạo Hóa.",
+    "Lễ vật của tôi được Thượng Đế chấp nhận, trong khi lễ vật của anh chị em tôi lại bị từ chối.",
+    "Khi bị đe dọa đến tính mạng, tôi đã chọn không ra tay chống lại anh chị em ruột của mình.",
+    "Tôi trở thành người đầu tiên trong toàn bộ lịch sử loài người bị người khác giết hại một cách oan uổng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Habil (Abel), con trai của Adam",
+        "Qabil (Cain), con trai của Adam",
+        "Adam, người đầu tiên",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), con trai của Adam"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Vụ giết người đầu tiên trong lịch sử loài người",
+        "Trận đại hồng thủy của Nuh",
+        "Sự hủy diệt quân đội của Fir'awn",
+        "Sự hy sinh của Ismail bởi Ibrahim",
+        "Trận chiến chống lại Jalut (Goliath)"
+      ],
+      "answer": "Vụ giết người đầu tiên trong lịch sử loài người"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Một con cừu được dâng làm vật tế lễ đẹp lòng người.",
+        "Một chiếc thuyền Noah bằng gỗ lớn",
+        "Một cây gậy biến thành rắn",
+        "Một con chim mào mang theo một thông điệp hoàng gia.",
+        "Một chiến hào rực lửa."
+      ],
+      "answer": "Một con cừu được dâng làm vật tế lễ đẹp lòng người."
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Trở thành nạn nhân đầu tiên của vụ giết người trong lịch sử loài người.",
+        "Sống sót sau trận đại hồng thủy bên trong một con tàu gỗ.",
+        "Sống bên trong bụng một con cá khổng lồ",
+        "Cai trị thần linh, con người và gió.",
+        "Lang thang suốt bốn mươi năm trong một vùng hoang dã rộng lớn."
+      ],
+      "answer": "Trở thành nạn nhân đầu tiên của vụ giết người trong lịch sử loài người."
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

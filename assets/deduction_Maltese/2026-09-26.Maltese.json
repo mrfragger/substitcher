@@ -1,0 +1,61 @@
+{
+  "title": "Iċ-Ċaħda F’Nofs l-Abbundanza",
+  "intro": "Issib ruħek fost poplu li s-swieq tiegħu huma mimlijin kummerċ, iżda l-miżien tagħhom inklinat b’mod diżonest. Messaġġier ġie għandhom bi twissijiet ċari, iżda huma jidħku u jduru ’l bogħod, fiduċjużi fil-prosperità tagħhom. Is-sema jibda jiskura, iżda huma jarawh bħala barka tax-xita. Min huma dawn in-nies?",
+  "clues": [
+    "iffjorixxejna f'artijiet tal-kummerċ u tal-abbundanza, iżda qlubna saru diffiċli.",
+    "Messaġġier ġie għandna b’sinjali mingħand Sidna, imma aħna żżuffjettajna bit-twissijiet tiegħu.",
+    "Konna magħrufin għan-negozju tagħna, imma konna naqsu l-kejl u nqarrqu bin-nies.",
+    "Għexna fost siġar densi u veġetazzjoni lush, imma ħadna l-barkiet tagħna for granted.",
+    "Meta resqet sħaba sewda, ferħna, għax ħsibna li kienet se ġġib ix-xita fuq l-artijiet niexfa tagħna.",
+    "Minflok, dik is-sħaba ħelset kastig qawwi, u aħna nħatfu mit-turment ta’ jum id-dell."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Aħna?",
+      "options": [
+        "Ashab al-Aykah (Il-Kumpanji tal-Bosk)",
+        "Nies ta' Thamud",
+        "Nies ta' 'Ad",
+        "Nies ta' Lut",
+        "Nies ta' Nuh"
+      ],
+      "answer": "Ashab al-Aykah (Il-Kumpanji tal-Bosk)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Huma ċaħdu lill-messaġġier tagħhom u qarrqu fil-kummerċ",
+        "Huma qiemu għoġol tad-deheb u ġew imqarrqa",
+        "Huma pprattikaw is-sodomija u attakkaw lill-vjaġġaturi",
+        "Huma bnew torrijiet għoljin u sfidaw lil Alla",
+        "Huma rrifjutaw li jaqsmu l-ilma u għamlu ħsara lil ġemela"
+      ],
+      "answer": "Huma ċaħdu lill-messaġġier tagħhom u qarrqu fil-kummerċ"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Foresta jew ħaxix dens",
+        "Muntanja mnaqqxa f'djar",
+        "Belt ħdejn il-baħar",
+        "Wied tad-deżert bil-bjar",
+        "Ġnien fertili b'ħafna frott"
+      ],
+      "answer": "Foresta jew ħaxix dens"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Meqrud minn sħaba dellija tan-nar",
+        "Għerqet minn għargħar kbir",
+        "Mibela’ minn terremot",
+        "Milqut minn riħ qawwi",
+        "Mibdul f'ġebla"
+      ],
+      "answer": "Meqrud minn sħaba dellija tan-nar"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

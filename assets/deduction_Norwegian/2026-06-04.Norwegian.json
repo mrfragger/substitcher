@@ -1,0 +1,61 @@
+{
+  "title": "Skiltet blant steinene",
+  "intro": "I et land der fjell var hugget inn i hus, ankom et sendebud med et mirakuløst tegn fra Allah. Folket krevde bevis, og de mottok en skapning fra solid fjell. Men deres arroganse førte til at de trosset advarselen og beseglet dermed deres skjebne.",
+  "clues": [
+    "Jeg ble sendt til et folk som bodde i boliger hogd ut av fjell.",
+    "De utfordret meg til å ta med et skilt, så jeg fant frem en kamel fra en stein.",
+    "Jeg befalte dem å la kamelen drikke fritt og ikke skade den.",
+    "De var ulydige og skar over hasene på kamelen, i motsetning til advarselen min.",
+    "Jeg annonserte at straffen ville komme etter tre dager.",
+    "Om morgenen ble de knust av et kraftig vindkast, men jeg og mine tilhengere ble reddet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Salih",
+        "Profeten Hud",
+        "Profeten Lut",
+        "Profeten Shu'ayb",
+        "Profeten Ibrahim"
+      ],
+      "answer": "Profeten Salih"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Etterspørsel etter en hunnkamel fra en stein",
+        "Etterspørsel etter en gullkalv",
+        "Etterspørselen etter et bord sprer seg fra himmelen",
+        "Etterspørsel etter flom",
+        "Krav om at en stav skal bli til en slange"
+      ],
+      "answer": "Etterspørsel etter en hunnkamel fra en stein"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Hunkamelen og kalven hennes",
+        "Noahs ark",
+        "Moses' stav",
+        "Den gylne kalven",
+        "Ibrahims ild"
+      ],
+      "answer": "Hunkamelen og kalven hennes"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Ødelagt av en kraftig eksplosjon",
+        "Druknet i flommen",
+        "Svelget av jorden",
+        "Forvandlet seg til aper",
+        "Ødelagt av en voldsom vind"
+      ],
+      "answer": "Ødelagt av en kraftig eksplosjon"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

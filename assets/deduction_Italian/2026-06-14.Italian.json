@@ -1,0 +1,61 @@
+{
+  "title": "La fiamma che ha portato un'eredità",
+  "intro": "Negli annali della resistenza, si erge una figura il cui nome stesso è diventato un monito per la fine dei tempi. Questa persona scelse l'inimicizia anziché la fratellanza, la sfida anziché la sottomissione, e si oppose a una chiamata alla misericordia. Ascoltate attentamente gli echi di un'antica proclamazione mentre sveliamo l'identità di quest'anima famigerata.",
+  "clues": [
+    "Sono nato nello stesso clan dell'ultimo messaggero di Allah, eppure mi sono opposto a loro in ogni occasione.",
+    "Il mio nome aveva un significato preciso: un nome che significava \"padre della fiamma\", un nome che avrebbe preannunciato il mio destino eterno.",
+    "Ho scatenato la mia furia contro chi portava la verità, e persino i membri della mia famiglia si sono uniti a questa campagna di crudeltà.",
+    "Ho usato la mia ricchezza e la mia influenza per mettere a tacere la chiamata ad Allah, credendo che il denaro potesse spegnere la luce divina.",
+    "Allah mi ha dedicato un intero capitolo, un capitolo così breve da poter essere recitato in pochi secondi, eppure il suo peso permane fino al Giorno del Giudizio.",
+    "Il mio compagno nell'Aldilà cammina dietro di me, legato al collo da una corda di fibre, portando con sé le stesse spine che un tempo diffondeva."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Definizione di confronto",
+      "options": [
+        "Guidare l'opposizione contro il Profeta alla Mecca",
+        "Emigrare in Abissinia per sfuggire alle persecuzioni",
+        "La costruzione della Kaaba con il profeta Abramo",
+        "Accettare l'Islam sul letto di morte",
+        "La stipula del Trattato di Hudaybiyyah"
+      ],
+      "answer": "Guidare l'opposizione contro il Profeta alla Mecca"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una moglie che portava spine e legna da ardere",
+        "Un bastone che si trasforma in un serpente",
+        "Un anello recante il sigillo di Salomone",
+        "Un vitello d'oro venerato dal popolo",
+        "Una sorgente che sgorgava acqua"
+      ],
+      "answer": "Una moglie che portava spine e legna da ardere"
+    },
+    "outcome": {
+      "label": "Resa dei conti finale",
+      "options": [
+        "Un'intera sura rivelata che dichiara la rovina totale",
+        "Divenne il leader della comunità musulmana",
+        "Ha ricevuto il perdono al momento della morte.",
+        "Costruii una grande moschea a Medina",
+        "Fu risuscitato tra i giusti"
+      ],
+      "answer": "Un'intera sura rivelata che dichiara la rovina totale"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Die Stimme im uralten Sand",
+  "intro": "Unter den ersten Gesandten Allahs gab es einen, dessen Name im Koran kurz, aber bedeutungsvoll erwähnt wird. Dieser Mann lebte lange vor der Entsendung vieler großer Propheten und war für seine unerschütterliche Wahrhaftigkeit und Geduld bekannt. Seine Geschichte ist kurz, doch sein Vermächtnis bleibt in der ewigen Überlieferung bestehen. Wer ist diese edle Seele?",
+  "clues": [
+    "Ich bin einer der ersten Gesandten, die im Koran kurz, aber bedeutungsvoll erwähnt werden.",
+    "Mein Charakter war geprägt von einem unerschütterlichen Bekenntnis zur Wahrheit.",
+    "Ich werde im Buch Allahs unter denen erwähnt, die standhaft und geduldig waren.",
+    "Nur wenige kurze Verse im Koran erzählen meine Geschichte.",
+    "Allah hat mich auf eine Weise geehrt, die einzigartig für mich ist und die ich mit anderen Propheten nicht teile.",
+    "Mir wurde ein hoher Rang zuteil, eine besondere Ehre im Koran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Idris",
+        "Prophet Ilyas",
+        "Dhul-Kifl",
+        "Prophet Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Prophet Idris"
+    },
+    "trial": {
+      "label": "Entscheidender Moment",
+      "options": [
+        "Ich wurde von Allah in eine hohe Position erhoben.",
+        "Ich baute eine große Arche, um mein Volk zu retten.",
+        "Ich forderte die Zauberer des Pharaos heraus.",
+        "Ich wurde von meinen Brüdern in eine Grube geworfen.",
+        "Ich habe vor Kummer über meinen Sohn mein Augenlicht verloren."
+      ],
+      "answer": "Ich wurde von Allah in eine hohe Position erhoben."
+    },
+    "location": {
+      "label": "Heilige Referenz",
+      "options": [
+        "Sure Al-Anbiya",
+        "Sure Al-Kahf",
+        "Sure Taha",
+        "Sure Ash-Shu'ara",
+        "Sure Yasin"
+      ],
+      "answer": "Sure Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Göttliche Ehre",
+      "options": [
+        "Ein hochgelegener Bahnhof, wie er kein anderer ist",
+        "Herrschaft über Dschinn und Winde",
+        "Ein Königreich von unvergleichlichem Ruhm",
+        "Ein Erbe aus meinem Alter",
+        "Ein mit Allah besiegelter Bund"
+      ],
+      "answer": "Ein hochgelegener Bahnhof, wie er kein anderer ist"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Mji Uliopotea wa Ukuu Usio na Kifani",
+  "intro": "Ustaarabu mkubwa hapo awali ulitawala sehemu kubwa za dunia, ukisifiwa kwa majengo marefu yaliyofika angani. Lakini chini ya ukuu huu, kukataa kwa ukaidi kulikua - kukataa kumtii mwonyaji wa kimungu aliyetumwa kutoka ndani ya jamii yenyewe. Kiburi na majivuno hivi karibuni vingeleta adhabu ambayo dunia wala mbingu hazijawahi kuiona.",
+  "clues": [
+    "Tuliwahi kutawala sehemu kubwa za dunia, tukijivunia nguvu ambayo tuliamini hakuna ustaarabu mwingine ungeweza kuifikia.",
+    "Ufalme wetu ulikuwa maarufu kwa majengo marefu yenye nguzo kubwa ambazo hazikuweza kulinganishwa katika kila nchi inayojulikana.",
+    "Mwonyaji kutoka katika jamii yetu alisimama, akituhimiza kila mmoja wetu kumtii Muumba Mmoja pekee.",
+    "Tulikataa ujumbe tuliopewa na tukakataa kuacha njia tuliyoirithi.",
+    "Upepo mkali na mkali wa ukali ulituangukia, na kutuacha bila ulinzi kabisa.",
+    "Tuliachwa kama vigogo vya mitende vilivyopasuka, tukiwa tumetawanyika na kusahaulika, kama fundisho kwa kila kizazi baada ya hapo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa A'ad",
+        "Watu wa Nuh",
+        "Watu wa Lut",
+        "Watu wa Madyan",
+        "Watu wa Tubba'"
+      ],
+      "answer": "Watu wa A'ad"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Upepo mkali usiokoma wa adhabu kali",
+        "Mafuriko yaliyofunika kila kilele cha mlima",
+        "Mvua ya mawe ya udongo yanayowaka kutoka juu",
+        "Kelele moja ya kutisha kutoka mbinguni",
+        "Tetemeko kubwa la ardhi lililogawanya nchi"
+      ],
+      "answer": "Upepo mkali usiokoma wa adhabu kali"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Iramu, mji wa nguzo ndefu",
+        "Sanduku kubwa la mbao lililojengwa juu ya mlima",
+        "Ngamia jike aliyetoka kwenye jiwe kimiujiza",
+        "Mlima Sinai ambapo amri za Mungu zilishuka",
+        "Jumba la kioo na kioo kizuri linaloangalia maji yanayotiririka"
+      ],
+      "answer": "Iramu, mji wa nguzo ndefu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Kuachwa kama vigogo vya mitende vilivyopasuka, vimetawanyika na havina uhai",
+        "Kuzama chini ya mawimbi makubwa ya mafuriko makubwa",
+        "Kubadilishwa kuwa viumbe vinavyofanana na nyani na nguruwe",
+        "Imepondwa chini ya mvua ya mawe ya udongo yaliyokauka",
+        "Alilia kwa sauti moja ya kushtua iliyomchoma roho"
+      ],
+      "answer": "Kuachwa kama vigogo vya mitende vilivyopasuka, vimetawanyika na havina uhai"
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

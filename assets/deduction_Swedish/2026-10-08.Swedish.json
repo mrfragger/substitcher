@@ -1,0 +1,61 @@
+{
+  "title": "Stenhuggarna i den uråldriga dalen",
+  "intro": "Föreställ dig en civilisation som uppstod i Arabiens klippiga dalar, skicklig på att hugga magnifika hus från bergssluttningarna. De blomstrade med styrka och konstnärlighet, men deras historia präglas av ett kyligt trots mot gudomliga varningar. När du fördjupar dig i deras berättelse kommer du att avslöja ett folk vars arrogans ledde till deras fullständiga förintelse. Vilka var de?",
+  "clues": [
+    "Vi ärvde ett land med klippslätter och höga klippor, där vi byggde våra bostäder med oöverträffad skicklighet.",
+    "Vi var kända för att hugga in trygga hem i bergen och känna oss trygga från allt ont.",
+    "En budbärare kom till oss från vår egen krets och påminde oss om Allahs välsignelser och varnade oss för straff.",
+    "Vi krävde ett tecken, och en mirakulös kamelhona kom fram ur klippan, ett tydligt prov från Allah.",
+    "Vi trotsade varningen och lät kamelhonan slängas i höfterna, hånade budbäraren och ifrågasatte straffet.",
+    "En enda vindpust drabbade oss i våra hem, och på morgonen låg vi utsträckta, som om vi aldrig hade bott där."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Folket i Thamud",
+        "Folket i 'Ad",
+        "Människor i Madyan",
+        "Folket i Nuh",
+        "Luts folk"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Hamstrung, kamelhonan",
+        "Bröt sabbaten",
+        "Tillbad guldkalven",
+        "Dödade profeten som sändes till dem",
+        "Byggde ett torn för att nå himlen"
+      ],
+      "answer": "Hamstrung, kamelhonan"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Honkamelen",
+        "Arken",
+        "Personalen",
+        "Den vita handen",
+        "Mannan och vaktlarna"
+      ],
+      "answer": "Honkamelen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förstördes av en explosion",
+        "Räddad från förstörelse",
+        "Förvandlades till apor",
+        "Drunknade i havet",
+        "Slukad av jorden"
+      ],
+      "answer": "Förstördes av en explosion"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

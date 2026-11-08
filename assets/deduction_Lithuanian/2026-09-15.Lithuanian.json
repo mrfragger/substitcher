@@ -1,0 +1,61 @@
+{
+  "title": "Svetingumas, kuris sukėlė baimę",
+  "intro": "Vieną dieną mieste, apimtame blogio, ištikimas tarnas sulaukė netikėtų svečių. Susirūpinęs dėl jų saugumo, šis asmuo pasiūlė apsaugą, tačiau miesto gyventojai pareikalavo kažko gėdingo. Įspėtas apie artėjančią pražūtį, tarnas su šeima pabėgo prisidengęs tamsa, palikdamas sunaikinimui skirtą miestą. Kas yra šis vienišas tikintysis?",
+  "clues": [
+    "Buvau pasiųstas kaip pasiuntinys pas žmones, kurie buvo užsiėmę gėdingais darbais.",
+    "Į mano namus atėjo netikėtų svečių, ir aš labiau nerimavau dėl jų saugumo nei dėl savo.",
+    "Mano žmonės pareikalavo pamatyti mano svečius dėl piktų kėslų, ir aš bandžiau su jais susitarti.",
+    "Mano lankytojai apsireiškė kaip angelai ir įsakė man pasiimti savo šeimą ir naktį išeiti.",
+    "Mano žmona nepaklausė kvietimo pabėgti ir susidūrė su tokiu pat sunaikinimu kaip ir mano tauta.",
+    "Mano miestą apvertė sluoksniuoto molio akmenų lietus, o aukščiausios jo vietos buvo nuleistos į žemiausias."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Lutas",
+        "Pranašas Musa",
+        "Pranašas Ibrahimas",
+        "Pranašas Nuh",
+        "Pranašas Hudas"
+      ],
+      "answer": "Pranašas Lutas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Mano žmonių reikalavimas piktai artintis prie mano svečių",
+        "Jūros perskyrimas, kad pabėgtų nuo tirono",
+        "Didžiosios arkos statyba tarp pajuokos",
+        "Mano sūnaus auka tikėjimo išbandyme",
+        "Patirtis, kai tave praryja didelė žuvis"
+      ],
+      "answer": "Mano žmonių reikalavimas piktai artintis prie mano svečių"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Apverstas mano tautos miestas",
+        "Kalnas, kuriame gavau dievišką kalbą",
+        "Arka, kuri perplaukė didelį potvynį",
+        "Kupranugarė, išnirusi iš uolos",
+        "Sodas su paslėptu teisiu lankytoju"
+      ],
+      "answer": "Apverstas mano tautos miestas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Buvau išgelbėtas su šeima prieš mano miesto nuvertimą",
+        "Aš vedžiau savo žmones į laisvę per jūrą",
+        "Pastačiau didelę arką ir išgyvenau galingą tvaną",
+        "Man buvo duota valdyti vėjus ir džinus",
+        "Kantriai ištvėriau kančias ir buvau apdovanotas šeima"
+      ],
+      "answer": "Buvau išgelbėtas su šeima prieš mano miesto nuvertimą"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

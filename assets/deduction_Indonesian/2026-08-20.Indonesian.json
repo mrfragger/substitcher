@@ -1,0 +1,61 @@
+{
+  "title": "Suara Perlawanan",
+  "intro": "Jauh sebelum manusia pertama berjalan di bumi, sesosok makhluk dengan kekuatan luar biasa berdiri di alam kedamaian sempurna, dikelilingi oleh jiwa-jiwa yang paling taat. Ketika satu perintah diberikan, setiap suara tunduk—tetapi satu suara bangkit menentang, dan penentangan itu akan bergema di setiap zaman hingga Hari Terakhir. Siapakah makhluk yang jatuh ini?",
+  "clues": [
+    "Aku diciptakan dari sesuatu yang bersinar terang, sementara yang lain di sampingku dibentuk dari apa yang mereka injak.",
+    "Aku tinggal di tempat suci di antara makhluk-makhluk yang taat, sampai sebuah perintah tunggal mengubah segalanya menjadi kacau.",
+    "Ketika perintah itu datang, setiap orang membungkuk kecuali aku; penolakanku lahir dari kesombongan.",
+    "Aku diusir dari tempat suci itu, dicap dengan kutukan yang akan bertahan selamanya.",
+    "Aku memohon waktu hingga Hari Kiamat, dan permohonanku dikabulkan. Aku bersumpah untuk mendekati setiap jiwa dan menyesatkan mereka.",
+    "Ketika sangkakala dibunyikan, mereka yang mengikutiku akan mengalami nasib yang sama, bergabung denganku dalam api yang berkobar di mana tak seorang pun penolong dapat menyelamatkan mereka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Iblis",
+        "Firaun (Fir'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (ayah Ibrahim)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Momen yang Menentukan",
+      "options": [
+        "Menolak untuk bersujud di hadapan Adam",
+        "Merebut kekuasaan ilahi atas sebuah kerajaan besar.",
+        "Merencanakan untuk membakar orang yang saleh",
+        "Memimpin suatu bangsa untuk menyembah patung emas.",
+        "Menenggelamkan pasukan besar di laut."
+      ],
+      "answer": "Menolak untuk bersujud di hadapan Adam"
+    },
+    "location": {
+      "label": "Tempat Suci",
+      "options": [
+        "Jannah (Surga)",
+        "Sebuah istana megah di tepi Sungai Nil",
+        "Sebuah menara bata yang menjulang ke langit.",
+        "Anak lembu emas yang terbuat dari ornamen",
+        "Tungku api yang menyala-nyala"
+      ],
+      "answer": "Jannah (Surga)"
+    },
+    "outcome": {
+      "label": "Nasib Akhir",
+      "options": [
+        "Dibuang, dengan penangguhan hingga Hari yang dijanjikan",
+        "Tenggelam bersama pasukan di bawah gelombang",
+        "Hancur tertimpa batu yang dilempari dari langit",
+        "Tercabik-cabik oleh kawanan burung yang sedang terbang",
+        "Hancur lebur oleh satu ledakan dahsyat."
+      ],
+      "answer": "Dibuang, dengan penangguhan hingga Hari yang dijanjikan"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Y Gymuned a Heriodd y Dydd Gorffwys",
+  "intro": "Camwch i mewn i anheddiad arfordirol lle mae gorchymyn dwyfol wedi neilltuo un diwrnod ar gyfer addoli a chyfyngu. Dewisodd grŵp o fewn y gymuned hon brofi terfynau'r gorchymyn hwnnw gyda chynllun cyfrwys, gan arwain at drawsnewidiad a fyddai'n atseinio drwy'r oesoedd. Pwy oedd yr eneidiau hyn, a beth ddaeth ohonynt?",
+  "clues": [
+    "Roedden ni'n byw ger yr arfordir, lle'r oedd y môr yn darparu ein bywoliaeth.",
+    "Gorchmynnwyd inni anrhydeddu un diwrnod o'r wythnos, gan ei roi o'r neilltu oddi wrth weithgareddau bydol.",
+    "Ar y diwrnod hwnnw, daeth y pysgod atom mewn niferoedd mawr, fel pe baent yn ein temtio i dorri'r gorchymyn.",
+    "Fe wnaethon ni lunio cynllun i ddal y pysgod ar drothwy'r diwrnod cysegredig, yna eu casglu ar ôl iddo fynd heibio.",
+    "Pan rybuddiodd rhai yn ein plith rhag y twyll hwn, anwybyddasom eu cyngor a pharhau.",
+    "Am ein camwedd, cawsom ein trawsnewid yn epaod, ein dirmygu a'n gwrthod."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pobl y Saboth",
+        "Pobl y Ffos",
+        "Pobl y Coed",
+        "Pobl yr Ardd",
+        "Pobl yr Eliffant"
+      ],
+      "answer": "Pobl y Saboth"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Pysgota ar y Saboth",
+        "Adeiladu tŵr uchel",
+        "Lladd camel benywaidd sanctaidd",
+        "Gwadu bod proffwyd wedi'i anfon atynt",
+        "Trawsblannu pwysau masnach"
+      ],
+      "answer": "Pysgota ar y Saboth"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y môr a'i bysgod",
+        "Y tân a oerwyd",
+        "Y staff a drodd yn sarff",
+        "Arch yr iachawdwriaeth",
+        "Y tabledi o garreg"
+      ],
+      "answer": "Y môr a'i bysgod"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'u trawsnewid yn epaod",
+        "Wedi'i lyncu gan y ddaear",
+        "Wedi'i ddinistrio gan wynt ffyrnig",
+        "Boddi yn y môr",
+        "Wedi'i daro gan gawod o gerrig"
+      ],
+      "answer": "Wedi'u trawsnewid yn epaod"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

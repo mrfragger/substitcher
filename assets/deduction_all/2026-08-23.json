@@ -1,0 +1,61 @@
+{
+  "title": "The Vanished Multitude",
+  "intro": "You stand before the echoes of a community whose story is written in the waves. These souls heard a call, chose defiance, and faced a consequence that reshaped the earth. Who are they, and what became of their world?",
+  "clues": [
+    "We lived long ago, and a messenger came to us from among ourselves.",
+    "We worshipped five idols and refused to abandon them.",
+    "We mocked the messenger and accused him of being astray.",
+    "We demanded he bring the punishment if he was truthful.",
+    "We saw the skies pour down rain and the earth gush forth springs.",
+    "We climbed to the high places to escape, but the waves overtook us."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "People of Nuh",
+        "People of 'Ad",
+        "People of Thamud",
+        "People of Lut",
+        "People of Madyan"
+      ],
+      "answer": "People of Nuh"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "We were drowned in a great flood",
+        "We were destroyed by a hurricane",
+        "We were killed by a loud blast",
+        "We were swallowed by the earth",
+        "We were pelted with stones from the sky"
+      ],
+      "answer": "We were drowned in a great flood"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A great flood",
+        "A violent wind",
+        "A shower of stones",
+        "A fiery blast",
+        "An earthquake"
+      ],
+      "answer": "A great flood"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "We all perished except the believers with Nuh",
+        "We were transformed into apes",
+        "We were left as ruins for travelers",
+        "We were turned into salt",
+        "We were given respite"
+      ],
+      "answer": "We all perished except the believers with Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

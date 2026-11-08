@@ -1,0 +1,61 @@
+{
+  "title": "Buyuk To'fonning xabarchisi",
+  "intro": "Bu shaxs asrlar davomida chidamlilik ustuni bo'lib, masxara va rad etishga duch kelgan holda, itoatsiz jamiyatni haqiqat nuriga chaqirdi. Katta qiyinchiliklarga va avlodlarga yetib boradigan xabarning og'irligiga qaramay, bu xizmatkor oxirgi farmon chiqarilgunga qadar o'z vazifasida sobit qoldi.",
+  "clues": [
+    "Men to'qqiz yuz ellik yil davomida xalqimni kechayu kunduz, yashirincha va oshkora ravishda to'g'ri yo'lga chaqirdim.",
+    "Men qavmimni alamli azob bilan ogohlantirdim, ular esa barmoqlarini quloqlariga tiqib, kibr-havo bilan kiyimlarini kiydilar.",
+    "Menga, suv ko'rinmasa ham, Parvardigorimning nazorati ostida ulkan bir narsa qurish buyurilgan edi.",
+    "Men ishlayotganimda, xalqimning rahbarlari yonimdan o'tib, meni masxara qilishdi, lekin men ularga tez orada biz ularni masxara qilishimizni aytdim.",
+    "Men o'z qonim va tanamni menga qo'shilishga yolvordim, lekin ular tog' ularni ko'tarilayotgan suv toshqinidan qutqaradi deb o'ylab, boshpana izlashni tanladilar.",
+    "Yer suvini yutib yuborganidan va osmon yomg'irni to'xtatgandan so'ng, kemam nihoyat Judi tog'iga to'xtadi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Hud",
+        "Payg'ambar Solih",
+        "Nuh payg'ambar",
+        "Lut payg'ambar",
+        "Payg'ambar Shu'ayb"
+      ],
+      "answer": "Nuh payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "O'zgaruvchan xodimlar",
+        "Buyuk To'fon",
+        "Sovutuvchi olov",
+        "Yorilayotgan dengiz",
+        "Xudoning tuyasi"
+      ],
+      "answer": "Buyuk To'fon"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq",
+        "Xodimlar",
+        "Ko'ylak",
+        "Kema",
+        "Uzuk"
+      ],
+      "answer": "Kema"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Va'da qilingan yurtga kirish",
+        "Qizil dengizda cho'kish",
+        "Judi tog'ida dam olish",
+        "Chuqurga tashlanmoqda",
+        "Osmonlarga ko'tarilish"
+      ],
+      "answer": "Judi tog'ida dam olish"
+    }
+  },
+  "verseRef": "11:44",
+  "arabic": "وَقِيلَ يَـٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَـٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ ۖ وَقِيلَ بُعْدًۭا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And it was said, \"O earth, swallow your water, and O sky, withhold [your rain].\" And the water subsided, and the matter was accomplished, and it [i.e., the ship] came to rest on the [mountain of] Jūdiyy. And it was said, \"Away with the wrongdoing people.\" (11:44)"
+}

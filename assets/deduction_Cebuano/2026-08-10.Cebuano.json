@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga Tigbantay sa Sekreto nga Pag-ani",
+  "intro": "Sa usa ka lunhaw nga yuta, usa ka grupo sa mga tawo ang naghimo og sekreto nga plano ilalom sa tabon sa kangitngit. Sila adunay parehas nga katuyoan, apan ang ilang tuyo layo sa matarong. Wala sila masayod nga usa ka langitnong kausaban ang naghulat kanila samtang sila natulog.",
+  "clues": [
+    "Naghimo kami og lig-on nga desisyon, naghunahuna nga ang among plano walay sayop.",
+    "Nagplano mi nga mogawas og sayo, sa dili pa gani makalihok ang uban.",
+    "Misugod mi sa usa ka tabunok nga luna, nga masaligon sa among mga pagkaon.",
+    "Pag-abot namo sa among destinasyon, among nakita nga kini awaaw ug awaaw, mao nga naghunahuna kami nga nawala na kami sa among dalan.",
+    "Unya among naamgohan nga mao gyud diay to ang among lugar, ug kami naninggit sa kawalay paglaum, nagbasol sa usag usa sa among kapildihan.",
+    "Nanumpa kami nianang buntaga nga dili namo apilon ang mga kabos sa among ani, apan ang silot ni Allah miabot kanamo samtang kami natulog, nga naghimo sa among tanaman nga nagun-ob."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Kami?",
+      "options": [
+        "Ang mga Tag-iya sa Tanaman sa Surah 68",
+        "Ang mga tawo sa Saba",
+        "Ang mga Kauban sa Langob",
+        "Ang mga Tawo sa Elepante",
+        "Ang mga Tawo sa Trench"
+      ],
+      "answer": "Ang mga Tag-iya sa Tanaman sa Surah 68"
+    },
+    "trial": {
+      "label": "Ang Among Pagsulay",
+      "options": [
+        "Ang among tanaman naguba sa usa ka katalagman gikan sa langit",
+        "Ang among tanaman gianod sa baha",
+        "Nasunog ang among tanaman sa kalayo gikan sa kaaway",
+        "Ang among tanaman napuno sa mga dulon",
+        "Ang among tanaman gilamoy sa linog"
+      ],
+      "answer": "Ang among tanaman naguba sa usa ka katalagman gikan sa langit"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Nanumpa kami nga mamupo sa mga bunga niini sa buntag",
+        "Nagtukod mig dam para patubigan ang among tanaman",
+        "Nangita mig kapasilongan sa usa ka langob alang sa proteksyon",
+        "Nag-andam kami og kasundalohan aron sakupon ang usa ka gingharian",
+        "Naglawig kami og barko aron motabok sa dagat"
+      ],
+      "answer": "Nanumpa kami nga mamupo sa mga bunga niini sa buntag"
+    },
+    "outcome": {
+      "label": "Ang Atong Kapalaran",
+      "options": [
+        "Naghinulsol kami ug naglaum alang sa kalooy gikan sa Allah",
+        "Kami hingpit nga nalaglag ug wala gayud maghinulsol",
+        "Nibiya mi sa yuta ug wala na mibalik",
+        "Nahimo kaming gamhanan ug adunahan pag-usab",
+        "Gisilotan kami pinaagi sa paghimo kanamo nga mga unggoy"
+      ],
+      "answer": "Naghinulsol kami ug naglaum alang sa kalooy gikan sa Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Isiyosikilizwa ya Karne",
+  "intro": "Katika muda mrefu kabla ya miji mikubwa kuibuka, roho moja iliibuka miongoni mwa watu waliokuwa wameacha ukweli. Ukaidi wao ulilingana tu na uvumilivu wa mpigaji huyu mpweke, ambaye aliomba kwa vizazi vingi bila kupoteza azimio. Maonyo yote yalipoachwa bila kusikilizwa, hesabu isiyo na kifani ilibadilisha dunia yenyewe. Leo, mwangwi wa hadithi hiyo bado unasikika katika kila usomaji. Je, unaweza kutambua roho hii thabiti?",
+  "clues": [
+    "Nililelewa miongoni mwa watu walioabudu sanamu za uongo na kupuuza ishara zilizowazunguka, lakini nilichaguliwa kuwaamsha kutoka katika hali yao ya kutojali.",
+    "Niliwaita watu wangu tena na tena, lakini walinituhumu kuwa mimi si kitu ila mtu kama wao, nikidhihaki ujumbe wangu na kuziba masikio yao.",
+    "Usiku na mchana, niliwasihi kwa hekima na vikumbusho vya upole, lakini maneno yangu yalionekana kutoweka hewani, hayakusikilizwa na hayakuzingatiwa.",
+    "Chini ya maelekezo ya Mungu, nilijenga chombo kikubwa cha mbao na mbao kwenye nchi kavu, na watu wangu walinicheka kama mtu aliyepoteza akili.",
+    "Wakati mafuriko makubwa yalipokuja kama ilivyoahidiwa, mwanangu mwenyewe alikataa kupanda chombo pamoja nami, akiamini mlima ungemkinga kutokana na maji yanayoinuka.",
+    "Nikawa baba mkuu wa mwanzo mpya duniani, na hadithi yangu imehifadhiwa katika sura ya Quran yenye jina langu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Nuh",
+        "Nabii Ibrahimu",
+        "Nabii Musa",
+        "Nabii Lut",
+        "Nabii Hud"
+      ],
+      "answer": "Nabii Nuh"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Gharika Kuu iliyoibadilisha dunia",
+        "Kutupwa kwenye moto unaowaka na waabudu masanamu",
+        "Kukabiliana na wachawi wa Farao katika jumba la kifalme",
+        "Uharibifu wa bustani zenye mafanikio kwa dhoruba ya mbinguni",
+        "Kupinduliwa kwa wakazi wa mitaro"
+      ],
+      "answer": "Gharika Kuu iliyoibadilisha dunia"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku lilijengwa kwa mbao na mbao",
+        "Nyumba takatifu iliyojengwa juu ya misingi ya kale",
+        "Fimbo iliyobadilika na kuwa nyoka",
+        "Pango la vijana waliolala",
+        "Kiti cha enzi kilichobebwa na kiumbe mwenye nguvu"
+      ],
+      "answer": "Sanduku lilijengwa kwa mbao na mbao"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Makafiri walizama huku waumini wakiokolewa ndani ya chombo",
+        "Moto ukawa baridi na salama, na mpigaji simu akatoka bila kujeruhiwa",
+        "Wachawi walianguka kifudifudi na kukubali imani",
+        "Bustani ilipewa jirani mwema badala yake",
+        "Waliolala waliamka baada ya karne nyingi, wakabadilishwa"
+      ],
+      "answer": "Makafiri walizama huku waumini wakiokolewa ndani ya chombo"
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

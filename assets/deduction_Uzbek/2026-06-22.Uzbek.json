@@ -1,0 +1,61 @@
+{
+  "title": "Yashirin mo'min",
+  "intro": "Kufr va zulm hukmronlik qilgan hashamatli hokimiyat zallarida kutilmagan joydan yolg'iz haqiqat ovozi gapirdi. Bu shaxs haqiqatni e'lon qilish uchun o'z xavfsizligini xavf ostiga qo'yib, xabarchini himoya qilish vakolatiga qarshi chiqdi.",
+  "clues": [
+    "Men buyuk zulm hukmronlik qilgan yurtda, ilohiylikni da'vo qilgan hukmdorga xizmat qilib yashardim.",
+    "Men o'zimning haqiqiy e'tiqodlarimni ko'p yillar davomida yashirganman, ularni oshkor qilishning oqibatlaridan qo'rqganman.",
+    "Payg'ambar aniq mo''jizalar bilan kelganida, men iymon keltirdim, lekin qavmim unga qarshi fitna uyushtirdi.",
+    "Men zolim va uning kengashi oldida turib, begunoh elchini o'ldirmasliklari kerakligi haqida bahslashdim.",
+    "Men ularni Nuh va Od qavmi kabi haqiqatni inkor etgan o'tmishdagi xalqlarning azobidan ogohlantirdim.",
+    "Alloh meni ularning yovuz hiylalaridan qutqardi va men zolim rejimning vayron bo'lishiga guvoh bo'ldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avn oilasining mo'minlari",
+        "Fir'avnning sehrgari",
+        "Fir'avnning vaziri",
+        "Fir'avnning xotini",
+        "Fir'avnning xazinachisi"
+      ],
+      "answer": "Fir'avn oilasining mo'minlari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Payg'ambarni qatldan himoya qilish",
+        "Sehrgarning hiylalariga qarshi chiqish",
+        "Osmonga chiqish uchun minora qurish",
+        "Qochish uchun dengizni ikkiga bo'lish",
+        "Shohning tushini talqin qilish"
+      ],
+      "answer": "Payg'ambarni qatldan himoya qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Fir'avnning saroyi",
+        "Yonayotgan buta",
+        "Oltin buzoq",
+        "Madyan qudug'i",
+        "Nuh payg'ambarning kemasi"
+      ],
+      "answer": "Fir'avnning saroyi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Zolimlar yo'q qilingan paytda zarardan qutqarildi",
+        "Kuchli hukmdorga aylandi",
+        "Olovga tashlandi va sog'-salomat chiqdi",
+        "Yer tomonidan yutib yuborildi",
+        "Qirq yil davomida sahroda kezib yurdi"
+      ],
+      "answer": "Zolimlar yo'q qilingan paytda zarardan qutqarildi"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

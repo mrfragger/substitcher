@@ -1,0 +1,61 @@
+{
+  "title": "Wajenzi wa Nguzo Zilizoinuka",
+  "intro": "Unasimama mbele ya magofu ya mji mkuu wa kale, nguzo zake ndefu sasa zimeanguka. Upepo unavuma katika mitaa tupu, ukibeba kumbukumbu ya watu hodari waliowahi kutawala nchi hizi. Walikuwa akina nani?",
+  "clues": [
+    "Tulikuwa watu wenye nguvu na ujuzi mwingi, tukijulikana kwa majengo yetu makubwa na ustaarabu wetu ulioendelea.",
+    "Tuliishi katika nchi yenye matuta ya mchanga na vilima vya miamba, na tuliamini hakuna mtu anayeweza kutushinda.",
+    "Mtume alitujia kutoka miongoni mwa jamaa zetu, akituita tumuabudu Mwenyezi Mungu pekee, lakini tulimkataa na kumdhihaki.",
+    "Tulijisifu, ‘Ni nani aliye na nguvu kuliko sisi?’ na tuliendelea na kiburi chetu na ibada yetu ya sanamu.",
+    "Mwenyezi Mungu alituletea upepo mkali uliovuma kwa usiku saba na siku nane, ukiharibu kila kitu.",
+    "Tulikuwa watu wa 'Ad, wajenzi wa Iram, na hatima yetu ikawa onyo kwa wote waliokuja baada yake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa 'Ad",
+        "Watu wa Thamud",
+        "Watu wa Madyan",
+        "Watu wa Tubba'",
+        "Watu wa al-Rass"
+      ],
+      "answer": "Watu wa 'Ad"
+    },
+    "trial": {
+      "label": "Adhabu waliyopewa ilikuwa nini?",
+      "options": [
+        "Upepo unaoharibu",
+        "Mvua ya mawe",
+        "Mlipuko mkubwa",
+        "Kuzama kwa mafuriko",
+        "Imemezwa na ardhi"
+      ],
+      "answer": "Upepo unaoharibu"
+    },
+    "location": {
+      "label": "Jina la mji wao wa hadithi ni lipi?",
+      "options": [
+        "Iramu",
+        "Sodoma",
+        "Midiani",
+        "Babeli",
+        "Petra"
+      ],
+      "answer": "Iramu"
+    },
+    "outcome": {
+      "label": "Hatima yao ya mwisho ilikuwa nini?",
+      "options": [
+        "Waliharibiwa na mabaki yao yakawa funzo",
+        "Walitubu na kuokolewa",
+        "Walibadilishwa kuwa nyani",
+        "Walizama baharini",
+        "Walizikwa chini ya maporomoko ya ardhi"
+      ],
+      "answer": "Waliharibiwa na mabaki yao yakawa funzo"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

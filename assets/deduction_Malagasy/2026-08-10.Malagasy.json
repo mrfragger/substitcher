@@ -1,0 +1,61 @@
+{
+  "title": "Ireo Mpiambina ny Fijinjana Miafina",
+  "intro": "Tao amin'ny tany maitso mavana iray, nisy vondron'olona nanao tetika miafina tao anatin'ny haizina. Nizara tanjona iraisana izy ireo, saingy tsy marina velively ny fikasany. Tsy fantatr'izy ireo akory fa nisy fiovana avy amin'Andriamanitra niandry azy ireo raha mbola natory izy ireo.",
+  "clues": [
+    "Nanao fanapahan-kevitra hentitra izahay, nihevitra fa tsy nisy tsiny ny drafitray.",
+    "Nikasa ny hivoaka aloha kokoa izahay, talohan'ny hahafahan'ny hafa mihetsika akory.",
+    "Nipetraka teo amin'ny tany lonaka izahay, natoky ny vatsyy.",
+    "Rehefa tonga tany amin'ny toerana halehanay izahay dia hitanay fa ngazana sy lao ilay izy, ka noheverinay fa very lalana.",
+    "Dia tsapanay avy eo fa tena toerantsika tokoa izany, ka dia nikiakiaka noho ny fahakiviana izahay sady nifampimenomenona noho ny fahaverezanay.",
+    "Nianiana izahay tamin'io maraina io fa tsy handray ny mahantra amin'ny fijinjanay, saingy nihatra taminay ny famaizan'i Allah raha mbola natory izahay, ka nanimba ny zaridainanay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Ireo Tompon'ny Zaridaina ao amin'ny Sora 68",
+        "Ny vahoakan'i Saba",
+        "Ireo mpiara-dia amin'ny lava-bato",
+        "Ny Vahoakan'ny Elefanta",
+        "Ny Vahoakan'ny Hady"
+      ],
+      "answer": "Ireo Tompon'ny Zaridaina ao amin'ny Sora 68"
+    },
+    "trial": {
+      "label": "Ny Fitsaranay",
+      "options": [
+        "Rava noho ny loza avy any an-danitra ny zaridainanay",
+        "Nofaohin'ny tondra-drano ny zaridainanay",
+        "May noho ny afo avy amin'ny fahavalo ny zaridainanay",
+        "Feno valala ny zaridainanay",
+        "Nodimandry noho ny horohoron-tany ny zaridainanay"
+      ],
+      "answer": "Rava noho ny loza avy any an-danitra ny zaridainanay"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Nianiana izahay fa hioty ny voany amin'ny maraina",
+        "Nanangana tohodrano izahay mba hanondrahana ny zaridainanay",
+        "Nitady fialofana tao anaty lava-bato izahay mba hahazoana fiarovana",
+        "Nanomana tafika izahay mba handresy fanjakana iray",
+        "Nandeha sambo izahay mba hiampita ny ranomasina"
+      ],
+      "answer": "Nianiana izahay fa hioty ny voany amin'ny maraina"
+    },
+    "outcome": {
+      "label": "Ny anjarantsika",
+      "options": [
+        "Nibebaka izahay ary nanantena famindram-po avy amin'i Allah",
+        "Ringana tanteraka izahay ary tsy nibebaka mihitsy",
+        "Nandositra ny tany izahay ary tsy niverina intsony",
+        "Lasa natanjaka sy nanankarena indray izahay",
+        "Nosazina izahay ka novàna ho rajako"
+      ],
+      "answer": "Nibebaka izahay ary nanantena famindram-po avy amin'i Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

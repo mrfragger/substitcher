@@ -1,0 +1,61 @@
+{
+  "title": "The Fiery Adversary",
+  "intro": "In the early days of revelation, a figure emerged as a stubborn opponent of the truth. Blessed with wealth and status, this soul chose pride over guidance, and their story became a stark warning in the final verses of a surah.",
+  "clues": [
+    "I lived in the same city as the Prophet, and I was among the closest of kin to him, yet my pride kept me distant from the truth.",
+    "I possessed great wealth and numerous properties, and I thought my resources would always protect me.",
+    "When the message was revealed, I mocked it openly and turned away, considering myself superior to the believers.",
+    "My enmity was so notorious that a surah of the Quran addressed me directly, calling me by the name others knew me.",
+    "I was warned that my wealth and my earnings would not avail me, and I would be thrown into a blazing fire.",
+    "I am known as the father of the flame, and my wife will carry the firewood with a rope of palm fiber around her neck."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Rejected Islam and openly opposed the Prophet",
+        "Plotted to assassinate the Prophet",
+        "Led a social boycott against Muslims",
+        "Fought in the Battle of Badr",
+        "Tortured Bilal ibn Rabah"
+      ],
+      "answer": "Rejected Islam and openly opposed the Prophet"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A rope of palm fiber",
+        "A sharp sword",
+        "A heavy chain",
+        "A wooden staff",
+        "A leather whip"
+      ],
+      "answer": "A rope of palm fiber"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Will burn in a blazing fire",
+        "Repented and became a companion",
+        "Lost his wealth but died honored",
+        "Fled to Abyssinia",
+        "Drowned in the sea"
+      ],
+      "answer": "Will burn in a blazing fire"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

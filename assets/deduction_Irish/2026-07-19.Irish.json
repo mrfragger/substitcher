@@ -1,0 +1,61 @@
+{
+  "title": "Guth Neamhaird na gCéadta Bliana",
+  "intro": "I bhfad sular tháinig na cathracha móra chun cinn, d’éirigh anam uaigneach i measc daoine a bhí tar éis iompú ón bhfírinne. Ní raibh ach foighne an ghlaoiteora uaigneach seo, a d’impigh trí na glúnta gan a bheith ag cailleadh a ndíograise, ag teacht le chéile lena gceanndán. Nuair a thit gach rabhadh ar chluasa bodhra, athmhúnlaigh cuntas gan fasach an domhan féin. Sa lá atá inniu ann, tá macallaí an scéil sin fós ag teacht trí gach aithris. An féidir leat an t-anam diongbháilte seo a aithint?",
+  "clues": [
+    "Tógadh mé i measc daoine a d’adhraigh íodail bhréagacha agus a rinne neamhaird ar na comharthaí timpeall orthu, ach roghnaíodh mé chun iad a mhúscailt óna n-easpa airde.",
+    "Ghlaoigh mé ar mo mhuintir arís agus arís eile, ach chuir siad ina leith nach raibh ann ach duine cosúil leo féin, ag magadh faoi mo theachtaireacht agus ag clúdach a gcluasa.",
+    "Oíche agus lá, d’impigh mé orthu le heagna agus le meabhrúcháin mhíne, ach is cosúil gur imigh mo chuid focal as radharc, gan éisteacht ná aird a thabhairt orthu.",
+    "Faoi threoir dhiaga, thóg mé soitheach ollmhór adhmaid agus planc ar thalamh tirim, agus rinne mo mhuintir gáire fúm mar dhuine a raibh a réasún caillte aige.",
+    "Nuair a tháinig an tuile mhór mar a gealladh, dhiúltaigh mo mhac féin dul ar bord an tsoithigh liom, ag creidiúint go dtabharfadh sliabh foscadh dó ó na huiscí ag ardú.",
+    "Rinneadh patriarch de thús nua ar an talamh díom, agus tá mo scéal caomhnaithe i gcaibidil den Corán a bhfuil m'ainm féin air."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Nuh",
+        "Fáidh Ibrahim",
+        "an Fáidh Músa",
+        "Fáidh Lút",
+        "Fáidh Hud"
+      ],
+      "answer": "Fáidh Nuh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An Tuilte Mór a d’athmhúnlaigh an domhan",
+        "Á chaitheamh isteach i dtine lasrach ag na hidol-adhróirí",
+        "Agóid le draoithe an Pharaoh ag an bpálás",
+        "Scriosadh na ngairdíní rathúla ag stoirm neamhaí",
+        "Trasnú áitritheoirí na dtrinse"
+      ],
+      "answer": "An Tuilte Mór a d’athmhúnlaigh an domhan"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc tógtha as adhmad agus plancanna",
+        "An teach naofa tógtha ar bhunsraitheanna ársa",
+        "An fhoireann a d’athraigh ina nathair",
+        "Uaimh na n-ógánach ina gcodladh",
+        "An ríchathaoir a iompraíonn créatúr cumhachtach"
+      ],
+      "answer": "An Áirc tógtha as adhmad agus plancanna"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bádh na neamhchreidmhigh agus sábháladh na creidmhigh ar bord na loinge.",
+        "Fuaraigh an tine agus bhí sí sábháilte, agus tháinig an glaoiteoir amach gan dochar.",
+        "Thit na draoithe síos agus ghlac siad le creideamh",
+        "Bronnadh an gairdín ar an gcomharsa fíréanta ina áit",
+        "Dhúisigh na codladóirí tar éis na gcéadta bliain, claochlaithe"
+      ],
+      "answer": "Bádh na neamhchreidmhigh agus sábháladh na creidmhigh ar bord na loinge."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

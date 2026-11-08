@@ -1,0 +1,61 @@
+{
+  "title": "Fáidh na Sléibhte Snoite",
+  "intro": "I bhfásaigh gharbha na hAraibe ársa, tháinig figiúr chun cinn i measc daoine a raibh cáil orthu as a gceardaíocht neamhghnách. D'éirigh a dtithe as carraig sholadach, ach bhí a gcroí níos crua ná na sléibhte a shnoigh siad. Tháinig teachtaire diaga le comhartha míorúilteach amháin - ach bhí iarmhairtí gasta agus scanrúla mar thoradh ar an uabhar agus an dúshlán. An féidir leat an seirbhíseach uasal a aithint ar roghnaigh a mhuintir scrios thar threoir?",
+  "clues": [
+    "Cuireadh mé mar rabhaidh chuig mo mhuintir, ag glaoch orthu adhradh an Aon Dé amháin.",
+    "Bhí mo mhuintir ina gcónaí i measc foirmíochtaí carraige drámatúla, ag snoíodóireacht áitribh iontacha sna taobhanna sléibhe.",
+    "Tháinig camall baineann míorúilteach amach as an gcarraig sholadach ar mo ghuí, comhartha soiléir ón Uilechumhachtach.",
+    "Dúirt mé le mo mhuintir an t-uisce a roinnt leis an gcamall baineann seo agus gan dochar a dhéanamh di.",
+    "Rinne mo mhuintir comhcheilg i gcoinne na camaill baineann agus ghearr siad a bacainní, ag séalú a scriosta féin.",
+    "Bhuail crith talún uafásach mo mhuintir, agus fágadh gan corraí ina n-áiteanna cónaithe iad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Salih",
+        "Fáidh Hud",
+        "Fáidh Shu'ayb",
+        "Fáidh Nuh",
+        "an Fáidh Músa"
+      ],
+      "answer": "Fáidh Salih"
+    },
+    "trial": {
+      "label": "Cad é an triail chinniúnach?",
+      "options": [
+        "Gearradh cnámh droma camaill mhíorúilteach",
+        "Ag tógáil áirc mhóir i measc magadh",
+        "Ag tabhairt aghaidh ar pharaó tíoránta",
+        "Á chaitheamh i dtine lasrach",
+        "Briseadh chonradh na Sabóide"
+      ],
+      "answer": "Gearradh cnámh droma camaill mhíorúilteach"
+    },
+    "location": {
+      "label": "Cad é an ghné lárnach?",
+      "options": [
+        "Camall baineann a tháinig amach as an gcarraig",
+        "Áirc adhmaid mhór",
+        "Foireann a scar an fharraige",
+        "Míol mór ollmhór",
+        "Sliabh crochta os a chionn"
+      ],
+      "answer": "Camall baineann a tháinig amach as an gcarraig"
+    },
+    "outcome": {
+      "label": "Cad a bhí i ndán dóibh sa deireadh?",
+      "options": [
+        "Crith talún tobann ó na flaithis",
+        "Báite i dtuilte ollmhór",
+        "A gcathracha curtha ar ceal le hordú diaga",
+        "Dóite ag gaoth theas",
+        "Slogtha ag an talamh"
+      ],
+      "answer": "Crith talún tobann ó na flaithis"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

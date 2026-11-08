@@ -1,0 +1,61 @@
+{
+  "title": "L'eco a través dels penya-segats",
+  "intro": "Imagineu-vos una vall on les cases estan excavades als penya-segats, i l'aire porta el record d'un avís ignorat. Un poble va prosperar aquí, beneït però desafiant, fins que un senyal va emergir de la mateixa roca en què confiaven.",
+  "clues": [
+    "Érem un poble que va excavar llars segures a les muntanyes, sentint-nos segurs a les nostres habitances rocoses.",
+    "Vivíem en una terra de planes i pedres, beneïda amb jardins i fonts.",
+    "Un missatger d'entre nosaltres va venir, cridant-nos a abandonar els nostres falsos déus i adorar l'Únic Creador veritable.",
+    "Arrogantment, vam establir una condició per a la creença: un signe únic que emergiria de les mateixes roques que vam esculpir.",
+    "Quan la camella promesa va aparèixer de la roca, un senyal clar, la nostra elit encara s'hi va negar i la va paralitzar malgrat l'advertència d'una fatalitat imminent.",
+    "Tres dies després de la nostra acció, una explosió eixordadora va ressonar per la vall, i vam quedar reduïts a runes, les nostres cases, les nostres tombes."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "La gent de ¿Ad",
+        "La gent de Thamud",
+        "El poble de Madyan",
+        "La gent del Bosc",
+        "La gent de la cova"
+      ],
+      "answer": "La gent de Thamud"
+    },
+    "trial": {
+      "label": "El nostre assaig/esdeveniment principal",
+      "options": [
+        "Els isquiotibials de la camella d'Al·là",
+        "L'adoració del vedell d'or",
+        "La ruptura del Sàbat",
+        "La construcció d'una torre al cel",
+        "L'assassinat dels profetes"
+      ],
+      "answer": "Els isquiotibials de la camella d'Al·là"
+    },
+    "location": {
+      "label": "Element clau de la nostra història",
+      "options": [
+        "La camella d'Al·là",
+        "El personal de Musa",
+        "L'arca de Nuh",
+        "La mà blanca de Musa",
+        "L'ocell d'Isa"
+      ],
+      "answer": "La camella d'Al·là"
+    },
+    "outcome": {
+      "label": "El nostre resultat",
+      "options": [
+        "Destrucció per una explosió eixordadora",
+        "Una pluja de pedres del cel",
+        "Una inundació que va cobrir la terra",
+        "Un vent ferotge que ens va arrencar d'arrel",
+        "La terra que ens engoleix"
+      ],
+      "answer": "Destrucció per una explosió eixordadora"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

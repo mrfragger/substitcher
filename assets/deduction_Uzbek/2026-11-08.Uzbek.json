@@ -1,0 +1,61 @@
+{
+  "title": "halokatga chaqirgan ittifoq",
+  "intro": "Vahiy bilan bir tom ostida boshpana topganingizni, ammo boshqa sadoqatni tanlaganingizni tasavvur qiling. Bu shaxs haqiqat va payg'ambarlikka juda yaqin yashagan, ammo uni rad etganlarga yuz o'girgan. Ularning hikoyasi faqat solihlikka yaqinlik ishonchga xiyonat qilgan qalbni qutqara olmasligi haqida jiddiy ogohlantirish bo'lib xizmat qiladi.",
+  "clues": [
+    "Men Alloh tomonidan tanlangan payg'ambarning xonadonida yashardim.",
+    "Men erim va'z qilgan haqiqatni bilardim, lekin unga chin dildan ishonmasdim.",
+    "Men uning ishonchini oqlamadim, chunki u rad etgan odamlarning tarafini olib, ularga qarshi yordam berdim.",
+    "Men kofirlarga ibrat bo'lishi uchun boshqa bir payg'ambarning xiyonat qilgan xotini bilan birga tilga olinyapman.",
+    "Mening hikoyam \"Tahrim\" surasida payg'ambarlar bilan qarindoshlik hech qanday himoya bermasligi haqida ogohlantirish sifatida hikoya qilinadi.",
+    "Alloh Lut qavmini halok qilganida, men ham zolimlar bilan birga halok bo'ldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Lut payg'ambarning xotini",
+        "Fir'avnning xotini Osiyo",
+        "Imronning xotini",
+        "Ibrohim payg'ambarning xotini Sora",
+        "Al-Azizning xotini"
+      ],
+      "answer": "Lut payg'ambarning xotini"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Payg'ambarga qarshi kofirlarga yordam berib, unga xiyonat qildi",
+        "Chaqaloqni qutqarish uchun savatda daryoga tashlang",
+        "Payg'ambar yo'qligida oltin buzoq yasashni talab qildi",
+        "Solih ruhoniyni noto'g'ri ishda ayblab, qamoqqa tashladi",
+        "Ka'bani vayron qilish uchun fillar qo'shiniga boshchilik qildi"
+      ],
+      "answer": "Payg'ambarga qarshi kofirlarga yordam berib, unga xiyonat qildi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Lut qavmining ag'darilgan shaharlari",
+        "Ilohiy amr ostida qurilgan kema",
+        "Olov Ibrohim uchun sovidi",
+        "Uxlab yotgan yoshlar uchun boshpana g'ori",
+        "Chaqaloqning savati topilgan daryo"
+      ],
+      "answer": "Lut qavmining ag'darilgan shaharlari"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Payg'ambarga uylangan bo'lishiga qaramay, kofirlar bilan birga halok bo'ldi",
+        "Mo'minlar bilan birga najot topdi va jannatga tinchlik bilan kirdi",
+        "Keyingi avlodlar uchun belgi sifatida ustunga aylantirildi",
+        "Yer ulkan xazinalar bilan yutib yuborildi",
+        "Qarilikda mo''jizaviy bola berildi"
+      ],
+      "answer": "Payg'ambarga uylangan bo'lishiga qaramay, kofirlar bilan birga halok bo'ldi"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

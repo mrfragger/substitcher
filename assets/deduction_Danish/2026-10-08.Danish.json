@@ -1,0 +1,61 @@
+{
+  "title": "Stenhuggerne i den gamle dal",
+  "intro": "Forestil dig en civilisation, der opstod i Arabiens klippefyldte dale, dygtig til at hugge storslåede huse ud fra bjergsiderne. De blomstrede med styrke og kunstnerisk kunnen, men deres historie er præget af en isnende trodsighed mod guddommelig advarsel. Når du dykker ned i deres fortælling, vil du afdække et folk, hvis arrogance førte til deres fuldstændige udslettelse. Hvem var de?",
+  "clues": [
+    "Vi arvede et land med klippesletter og tårnhøje klipper, hvor vi byggede vores boliger med uovertruffen dygtighed.",
+    "Vi var kendt for at hugge sikre hjem ind i bjergene og føle os trygge mod enhver overlast.",
+    "Et sendebud kom til os fra vores midte og mindede os om Allahs gunst og advarede os om straf.",
+    "Vi krævede et tegn, og en mirakuløs hunkamel dukkede op af klippen, en klar prøve fra Allah.",
+    "Vi trodsede advarslen og skar haserne over hunkamelen, hånede budbringeren og udfordrede straffen.",
+    "Et enkelt brag overmandede os i vores hjem, og om morgenen lå vi lændet ud, som om vi aldrig havde boet der."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i Thamud",
+        "Folk fra 'Ad",
+        "Folk i Madyan",
+        "Folket i Nuh",
+        "Luts folk"
+      ],
+      "answer": "Folket i Thamud"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Hamstrung hunkamelen",
+        "Brød sabbatten",
+        "Tilbad guldkalven",
+        "Dræbte profeten, der blev sendt til dem",
+        "Byggede et tårn for at nå himlen"
+      ],
+      "answer": "Hamstrung hunkamelen"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Hunkamelen",
+        "Arken",
+        "Personalet",
+        "Den hvide hånd",
+        "Mannaen og vagtlerne"
+      ],
+      "answer": "Hunkamelen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ødelagt af en eksplosion",
+        "Reddet fra ødelæggelse",
+        "Forvandlet til aber",
+        "Druknet i havet",
+        "Opslugt af jorden"
+      ],
+      "answer": "Ødelagt af en eksplosion"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

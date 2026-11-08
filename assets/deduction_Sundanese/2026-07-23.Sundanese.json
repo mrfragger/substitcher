@@ -1,0 +1,61 @@
+{
+  "title": "Tentara Anu Ditentang Ku Liat Anu Ngalayang",
+  "intro": "Dina jaman sateuacan Nabi Muhammad, saurang pamingpin anu kuat ti Yaman ngaluncurkeun kampanye militer anu tujuanana ngancurkeun tempat suci di Mekah. Musuh ieu mingpin pasukan anu ageung lengkep sareng gajah perang, anu yakin kana kakuatan sareng jumlahna. Nanging, perjalanan aranjeunna bakal réngsé sacara ujug-ujug nalika aranjeunna mendakan campur tangan ilahi anu teu disangka-sangka. Naha anjeun tiasa ngaidentipikasi saha anu nyanghareupan hisab anu luar biasa ieu?",
+  "clues": [
+    "Kami baris bareng jeung pasukan anu loba pisan sarta gajah perang anu kuat nuju ka imah suci.",
+    "Kami niat ngarubuhkeun sareng ngancurkeun tempat ibadah anu diwangun ku abdi-abdi Nu Maha Welas Asih.",
+    "Sakumpulan manuk leutik dikirim ka urang, mawa batu liat dina pamatuk jeung cakarna",
+    "Kami disambut ku sora anu ngalungkeun batu ka kami, ngarobah kami janten sésa-sésa anu diinjek-ijek",
+    "Abdi asalna ti tanah Yaman sareng ngajabat di handapeun pamingpin anu narékahan pikeun ngalestarikeun tempat suci.",
+    "Kami dijadikeun conto pikeun jalma-jalma anu wani ngarusak tempat suci Allah"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Abdi?",
+      "options": [
+        "Tentara Abraha al-Ashram",
+        "Pasukan Etiopia",
+        "Para Penakluk Persia",
+        "Legiun Romawi",
+        "Para Pejuang Badui"
+      ],
+      "answer": "Tentara Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Pangepungan bénténg gurun",
+        "Serangan ka tempat suci di Mekah",
+        "Perang laut di laut",
+        "Pemberontakan ngalawan raja tiran",
+        "Milarian nabi anu leungit"
+      ],
+      "answer": "Serangan ka tempat suci di Mekah"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Lebak Mina caket Mekah",
+        "Karaton Sana'a di Yaman",
+        "Pagunungan Tihamah",
+        "Kota Yerusalem kuno",
+        "Basisir Laut Beureum"
+      ],
+      "answer": "Lebak Mina caket Mekah"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kameunangan sareng karusakan bumi suci",
+        "Éléh ku manuk nu mawa batu liat",
+        "Pasrah jeung robah pikiran sacara damai",
+        "Paceklik jeung bencana alam",
+        "Mundur kusabab hujan ageung"
+      ],
+      "answer": "Éléh ku manuk nu mawa batu liat"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

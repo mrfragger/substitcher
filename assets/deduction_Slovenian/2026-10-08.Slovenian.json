@@ -1,0 +1,61 @@
+{
+  "title": "Kamnosekarji starodavne doline",
+  "intro": "Predstavljajte si civilizacijo, ki se je dvignila v skalnatih dolinah Arabije, spretno v klesanju veličastnih domov v gorskih pobočjih. Cveteli so z močjo in umetnostjo, a njihovo zgodbo zaznamuje srhljivo kljubovanje božanskim opozorilom. Ko se boste poglobili v njihovo zgodbo, boste odkrili ljudstvo, katerega aroganca jih je pripeljala do popolnega uničenja. Kdo so bili?",
+  "clues": [
+    "Podedovali smo deželo skalnatih ravnic in visokih pečin, kjer smo si z neprimerljivo spretnostjo zgradili bivališča.",
+    "Znani smo bili po tem, da smo si v gore vklesali varne domove in se počutili varne pred vsako nesrečo.",
+    "K nam je prišel poslanec izmed nas samih, ki nas je spomnil na Allahove milosti in nas svaroval pred kaznijo.",
+    "Zahtevali smo znamenje in iz skale se je pojavila čudežna kamela, jasen preizkus od Alaha.",
+    "Uprli smo opozorilu in kameli prerezali žile, se posmehovali glasniku in izpodbijali kazen.",
+    "En sam sunek nas je zadel v naših domovih in do jutra smo ležali na tla, kot da nikoli ne bi živeli tam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz Thamuda",
+        "Ljudje iz 'Ad",
+        "Ljudje iz Madyana",
+        "Ljudje Nuha",
+        "Lutovi ljudje"
+      ],
+      "answer": "Ljudje iz Thamuda"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Ohromil kamelo",
+        "Prelomil je soboto",
+        "Častil je zlato tele",
+        "Ubili so preroka, ki jim je bil poslan",
+        "Zgradil je stolp, da bi dosegel nebo"
+      ],
+      "answer": "Ohromil kamelo"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kamela",
+        "Skrinja",
+        "Osebje",
+        "Bela roka",
+        "Mana in prepelice"
+      ],
+      "answer": "Kamela"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Uničeno zaradi eksplozije",
+        "Rešeno pred uničenjem",
+        "Spremenjeni v opice",
+        "Utopljen v morju",
+        "Požrla ga je zemlja"
+      ],
+      "answer": "Uničeno zaradi eksplozije"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

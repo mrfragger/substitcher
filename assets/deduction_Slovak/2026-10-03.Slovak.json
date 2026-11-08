@@ -1,0 +1,61 @@
+{
+  "title": "Bdenie pri Horiacej bráne",
+  "intro": "Tichý, impozantný dav stojí na stráži na desivom prahu, nikdy neochutná jedlo, nápoj ani odpočinok. Vytvorení z hmoty, ktorá sa nepodobá ľudskej hline, čakajú na jediný strašný cieľ – a nikdy neposlúchli ani jeden príkaz svojho Pána.",
+  "clues": [
+    "Sme bytosti na rozdiel od ľudí, stvorené z látky, ktorá neje, nepije ani sa neunavuje.",
+    "Náš presný počet je známy a zjavený v Knihe – nie sme ani nespočetní, ani zástup.",
+    "Nikdy sme neposlúchli nášho Stvoriteľa, ani nikdy nehovoríme skôr, ako nám niekto prikáže.",
+    "Keď príde Deň, neveriaci budú k nám nahnaní v skupinách a my im otvoríme brány.",
+    "Opýtame sa ich: „Neprišli k vám poslovia z vášho vlastného rodu, ktorí vás varovali pred týmto Dňom?“",
+    "Strážime miesto, z ktorého nikdy nevyjde žiadna duša – horiacu doménu večného trestu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto sme?",
+      "options": [
+        "Strážcovia pekelného ohňa (Zabaniyah)",
+        "Nositelia Alahovho trónu",
+        "The Recording Angels (Kiraman Katibin)",
+        "Anjeli smrti",
+        "Strážcovia raja"
+      ],
+      "answer": "Strážcovia pekelného ohňa (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Naša hlavná povinnosť",
+      "options": [
+        "Strážiac brány pekelného ohňa",
+        "Zaznamenávanie každého ľudského činu",
+        "Nesenie Alahovho trónu",
+        "Berúc si duše zosnulých",
+        "Rozkazujúc vetrom a oblakom"
+      ],
+      "answer": "Strážiac brány pekelného ohňa"
+    },
+    "location": {
+      "label": "Čo strážime?",
+      "options": [
+        "Pekelný oheň",
+        "Alahov trón",
+        "Zvitky listín",
+        "Rieky raja",
+        "Hory Zeme"
+      ],
+      "answer": "Pekelný oheň"
+    },
+    "outcome": {
+      "label": "Osud tých v našej doméne",
+      "options": [
+        "Zostanú navždy a nikdy neodídu",
+        "Nakoniec im bude udelená milosť a prepustení.",
+        "Časom sa očistia",
+        "Budú transformované do iných foriem",
+        "Budú sa striedať medzi peklom a rajom"
+      ],
+      "answer": "Zostanú navždy a nikdy neodídu"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

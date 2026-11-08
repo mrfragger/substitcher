@@ -1,0 +1,61 @@
+{
+  "title": "A vendégszeretet, ami félelmet keltett",
+  "intro": "Egy gonoszságtól emésztett városban egy hűséges szolga váratlan látogatókat kapott. Aggódva a biztonságukért, ez a személy védelmet ajánlott fel, de a város lakói valami szégyenleteset követeltek. A közelgő végzetre figyelmeztetett szolga a sötétség leple alatt elmenekült családjával, maga mögött hagyva a pusztulásra ítélt várost. Ki ez a magányos hívő?",
+  "clues": [
+    "Hírvivőként küldtek egy olyan néphez, amely szégyenletes tetteket követett el.",
+    "Váratlan látogatók érkeztek az otthonomba, és jobban aggódtam az ő biztonságukért, mint a sajátomért.",
+    "Az embereim gonosz szándékokból követelték, hogy láthassam a vendégeimet, én pedig megpróbáltam érvelni velük.",
+    "Látogatóim angyalokként jelentek meg, és azt parancsolták, hogy vigyem magammal a családomat, és menjek el éjszaka.",
+    "A feleségem nem fogadta el a menekülés hívását, és ugyanazzal a pusztulással nézett szembe, mint a népem.",
+    "Városomat réteges agyagkőzápor döntötte romba, legmagasabb pontjai a legalacsonyabbak lettek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Lut próféta",
+        "Mózes próféta",
+        "Ibrahim próféta",
+        "Nuh próféta",
+        "Hud próféta"
+      ],
+      "answer": "Lut próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Az embereim követelése, hogy gonoszul közeledjenek a vendégeimhez",
+        "A tenger kettéválasztása egy zsarnok elől menekülve",
+        "Egy nagy bárka építése gúny közepette",
+        "Fiam feláldozása a hit próbájában",
+        "Az élmény, amikor egy nagy hal lenyelt minket"
+      ],
+      "answer": "Az embereim követelése, hogy gonoszul közeledjenek a vendégeimhez"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Népem feldúlt városa",
+        "A hegy, ahol isteni beszédet kaptam",
+        "A bárka, amely átkelt egy nagy árvízen",
+        "A sziklából előbukkanó nőstény teve",
+        "A kert egy rejtett igaz látogatóval"
+      ],
+      "answer": "Népem feldúlt városa"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megmenekültem a családommal, mielőtt a városomat felborították",
+        "Szabadságba vezettem népemet a tengeren át",
+        "Építettem egy hatalmas bárkát és túléltem egy hatalmas özönvizet",
+        "Uralmat kaptam a szelek és a dzsinnek felett",
+        "Türelmesen elviseltem a szenvedést, és családom lett a jutalmam"
+      ],
+      "answer": "Megmenekültem a családommal, mielőtt a városomat felborították"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

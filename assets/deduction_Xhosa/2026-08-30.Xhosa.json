@@ -1,0 +1,61 @@
+{
+  "title": "Umoya Othembekileyo WeSityhilelo",
+  "intro": "Kwiindawo ezingabonakaliyo, isidalwa esinokukhanya okumsulwa sihamba ngokuchanekileyo, senza yonke imiyalelo ngaphandle kokuthandabuza. Esi sidalwa sithethe nezinceku ezikhethiweyo, sizise amazwi esikhokelo, saza sabona ukutyhilwa kwemimiselo kaThixo kuzo zonke izizukulwana. Ngubani lo mphefumlo uhloniphekileyo?",
+  "clues": [
+    "Ndingumntu onokukhanya okumsulwa, odalwe ngokukhanya, kwaye andikaze ndiwuthobele umyalelo weNkosi yam.",
+    "Ndihamba phakathi kwamazulu nomhlaba, ndihla nemimiselo yoMnininceba.",
+    "Ndathunyelwa kwintombi ehloniphekileyo engcweleni, ndayixelela ngonyana omsulwa.",
+    "Ndingumoya wobungcwele, kwaye ndixhase umprofeti owayenikwe imiqondiso ecacileyo kunye neVangeli.",
+    "Ndifike emqolombeni entabeni ukuze ndithethe amazwi okuqala engoma eyayiza kugcinwa ngonaphakade.",
+    "Ndingumoya othembekileyo, kwaye ndim owayithoba intliziyo yomthunywa wokugqibela iQuran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UJibril (uGabriel)",
+        "UMikail (uMichael)",
+        "Ingelosi Yokufa",
+        "UMalik (uMgcini wesihogo)",
+        "UHarut (enye yeengelosi ezimbini eBhabhiloni)"
+      ],
+      "answer": "UJibril (uGabriel)"
+    },
+    "trial": {
+      "label": "Umsebenzi/Indima Ephambili",
+      "options": [
+        "Ukuhambisa isityhilelo kubaprofeti",
+        "Ukuvuthela ixilongo ngeMini yoMgwebo",
+        "Ukulinda amasango esihogo",
+        "Ukurekhoda izenzo zabantu",
+        "Kubangela ukuba imvula ine"
+      ],
+      "answer": "Ukuhambisa isityhilelo kubaprofeti"
+    },
+    "location": {
+      "label": "Uphawu oluPhambili okanye Isihloko",
+      "options": [
+        "UMoya oyiNgcwele (uRuh al-Qudus)",
+        "UMoya waMandla",
+        "UMoya weNceba",
+        "UMoya Wesikhokelo",
+        "UMoya weNyaniso"
+      ],
+      "answer": "UMoya oyiNgcwele (uRuh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Isiphumo soMsebenzi",
+      "options": [
+        "I-Quran yatyhilwa kuMprofeti uMuhammad",
+        "Ixilongo lavuthelwa ngeMini yoMgwebo",
+        "Isihogo sasilindwe kwaye amasango aso ayevaliwe",
+        "Incwadi yeZenzo yanikelwa kuAllah",
+        "Imvula yathunyelwa emhlabeni"
+      ],
+      "answer": "I-Quran yatyhilwa kuMprofeti uMuhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "O Exilado do Bezerro de Ouro",
+  "intro": "Uma figura mencionada no Alcorão levou uma grande multidão ao desvio durante a ausência de um nobre profeta. Algo feito de ouro cativou os corações de toda uma nação — mas a história desse indivíduo termina em solidão e uma estranha maldição. Quem poderia ser esse pária?",
+  "clues": [
+    "Surgi durante a ausência de um grande profeta que havia ascendido para receber orientação divina.",
+    "Eu causei o desvio de uma grande multidão com algo que criei com minhas próprias mãos.",
+    "A criação dourada que produzi parecia ter vida, emitindo sons que hipnotizavam aqueles que a seguiam.",
+    "Afirmei ter visto o que outros não conseguiam perceber — um vislumbre do invisível.",
+    "Extraí algo dos rastros do mensageiro divino e o fundi em metal derretido.",
+    "Fui condenado a vagar sozinho, com uma maldição singular: ninguém podia tocar minha pele, nem eu a deles."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Faraó (Fir'awn)",
+        "Abu Lahab",
+        "Profeta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Criaram um bezerro de ouro para adoração.",
+        "Construiu uma torre que alcançava os céus",
+        "Desafiaram os feiticeiros do Egito",
+        "Liderou um exército com bestas voadoras",
+        "Dividir a lua como prova de profecia"
+      ],
+      "answer": "Criaram um bezerro de ouro para adoração."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O bezerro de ouro",
+        "Um cajado que se transformou em serpente.",
+        "Uma sarça ardente em uma montanha",
+        "Uma arca repousando sobre um pico",
+        "Uma trincheira cheia de fogo."
+      ],
+      "answer": "O bezerro de ouro"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Exilado, proibido de ser tocado ou de tocar em outros.",
+        "Afogado no mar junto com um exército",
+        "Queimados vivos por rejeitarem a fé",
+        "Derrubado por um vento violento e estrondoso",
+        "Perdoado e elevado a uma posição elevada."
+      ],
+      "answer": "Exilado, proibido de ser tocado ou de tocar em outros."
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

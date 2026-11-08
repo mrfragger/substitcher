@@ -1,0 +1,61 @@
+{
+  "title": "Echo ya Bokosi",
+  "intro": "Bokangami ya bondeko emekamaki na bozindo ya zuwa. Mwango moko ya kobombana esalemaki, mpe ebandaki kosala molɔngɔ ya makambo oyo ekoumelaka bambula mingi mpe ekokatisa ntaka minene. Misala ya etuluku oyo ememaki na bokabwani monene mpe na mawa, kasi lisolo esukaki wana te. Ezali lisapo ya bokosi, mawa, mpe bopanzani ya nsuka ya mwango moko ya bonzambe. Okoki kofungola bomoto ya bato wana oyo maponi na bango eyokanaki na boumeli ya bankola?",
+  "clues": [
+    "Tozalaki kolya na zuwa mpo na bolingo oyo balakisaki moko ya bato na biso moko.",
+    "Na zuwa na biso, tosalaki likita elongo mpe tobwakaki ndeko na biso na molili ya libulu.",
+    "Mpo na kobomba mosala na biso, topesaki tata na biso elamba, oyo ekɔtisamaki na makila ya lokuta.",
+    "Bambula mingi na nsima, nzala makasi etindaki biso tókende na Ezipito mpo na koluka bilei.",
+    "Kuna, toyaki liboso ya guvɛrnɛrɛ moko ya nguya oyo, kozanga koyeba, azalaki ndeko mpenza oyo tosalaki mabe.",
+    "Momekano na biso ya suka ezalaki ya komema leki na biso ya mobali, Binyamin, oyo ememaki na bobimisi ya kala na biso mpe tata na biso kozala Profeta Ya’qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tozali banani?",
+      "options": [
+        "Bana ya Adam (Qabil & Habil) .",
+        "Bayekoli ya Profeta Yis",
+        "Bandeko ya Prophète Yusuf",
+        "Bato ya Madyan",
+        "Ba Magiciens ya Fir'awn"
+      ],
+      "answer": "Bandeko ya Prophète Yusuf"
+    },
+    "trial": {
+      "label": "Mosala mabe na biso ya libosoliboso ezalaki nini?",
+      "options": [
+        "Kotonga mwana ya ngɔmbɛ ya wolo mpo na losambo",
+        "Kosenga komona Allah directement",
+        "Kosɛka mosakoli moko mpo atongaki masuwa",
+        "Kokosa tata na biso pe kosundola ndeko na biso",
+        "Kobuka Sabata na kokanga mbisi"
+      ],
+      "answer": "Kokosa tata na biso pe kosundola ndeko na biso"
+    },
+    "location": {
+      "label": "Eloko nini ezalaki na ntina mingi mpo na bokosi na biso?",
+      "options": [
+        "Ensemble ya bitanda oyo ezali na makomi",
+        "Chemise oyo epanzani na makila ya lokuta",
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Ndɛkɛ moko kitoko (Hoopoe) .",
+        "Nzete oyo ebongwanaki nyoka"
+      ],
+      "answer": "Chemise oyo epanzani na makila ya lokuta"
+    },
+    "outcome": {
+      "label": "Lisolo na biso esukaki na nini?",
+      "options": [
+        "Tobebisamaki na mpela moko ya makasi",
+        "Babongwanaki biso na ba singes",
+        "Tomelisamaki na mabele",
+        "Balimbisamaki mpe tosanganaki lisusu na libota na biso",
+        "Tozindaki na mai monene"
+      ],
+      "answer": "Balimbisamaki mpe tosanganaki lisusu na libota na biso"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

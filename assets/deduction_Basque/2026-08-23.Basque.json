@@ -1,0 +1,61 @@
+{
+  "title": "Jendetza desagertua",
+  "intro": "Olatuetan idatzitako istorioa duen komunitate baten oihartzunen aurrean zaude. Arima hauek dei bat entzun zuten, desafioa aukeratu zuten eta lurra birmoldatu zuen ondorio bati aurre egin zioten. Nor dira, eta zer bihurtu zen haien munduarekin?",
+  "clues": [
+    "Aspaldi bizi izan ginen, eta gure artetik mezulari bat etorri zitzaigun.",
+    "Bost idolo gurtu genituen eta ez genituen utzi nahi izan.",
+    "Mezulariari iseka egin genion eta bide okerretik zebilela leporatu genion.",
+    "Egiazkoa bazen, zigorra ekartzeko eskatu genion.",
+    "Zeruak euria botatzen eta lurrak iturburuak jariatzen ikusi genituen.",
+    "Leku garaietara igo ginen ihes egiteko, baina olatuak harrapatu gintuzten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Nuh-eko jendea",
+        "'Ad-eko jendea",
+        "Thamudeko jendea",
+        "Luteko jendea.",
+        "Madyango jendea."
+      ],
+      "answer": "Nuh-eko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde handi batean ito ginen",
+        "Urakan batek suntsitu gintuen",
+        "Eztanda handi batek hil gintuen",
+        "Lurrak irentsi gintuen",
+        "Harriekin jaurti gintuzten zerutik"
+      ],
+      "answer": "Uholde handi batean ito ginen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Uholde handi bat.",
+        "Haize bortitz bat.",
+        "Harri zaparrada bat",
+        "Suzko eztanda bat.",
+        "Lurrikara bat"
+      ],
+      "answer": "Uholde handi bat."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Guztiok hil ginen, Nuh-eko sinestunak izan ezik.",
+        "Tximino bihurtu ginen",
+        "Bidaiarientzako hondakin gisa utzi gintuzten",
+        "Gatz bihurtu ginen.",
+        "Atsedenaldia eman ziguten."
+      ],
+      "answer": "Guztiok hil ginen, Nuh-eko sinestunak izan ezik."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

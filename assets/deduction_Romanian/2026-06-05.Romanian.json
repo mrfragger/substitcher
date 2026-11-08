@@ -1,0 +1,61 @@
+{
+  "title": "Căutătorii umili ai adevărului",
+  "intro": "Într-un tărâm al puterii și vrăjitoriei străvechi, se desfășoară o mare confruntare. O parte mânuiește autoritatea semnelor divine, în timp ce cealaltă încearcă să egaleze imposibilul. Rezultatul va schimba pentru totdeauna cursul istoriei. Poți descoperi identitatea celor care au fost martori la adevărul suprem și s-au umilit în fața lui?",
+  "clues": [
+    "Am fost martori la semne care au depășit trucurile vrăjitoriei",
+    "Am căzut cu toții în prosternare, incapabili să negăm adevărul",
+    "Am recunoscut că aceste semne au venit de la Singurul Dumnezeu Adevărat",
+    "Am fost prima comunitate care a îmbrățișat credința într-un mod atât de dramatic",
+    "Ni s-a promis paradisul ca răsplată pentru credința noastră",
+    "Frânghiile și toiagurile noastre s-au transformat în șerpi în fața ochilor noștri, totuși am ales supunerea"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Magicienii faraonului",
+        "Oamenii profetului Ibrahim",
+        "Căutătorii umili ai adevărului",
+        "Oamenii din peșteră",
+        "Națiunea reginei Bilqis"
+      ],
+      "answer": "Magicienii faraonului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Întâlnirea cu toiagul profetului Musa",
+        "Încercarea vântului profetului Hud",
+        "Provocarea cămilei profetului Salih",
+        "Marele potop trimis asupra unui profet",
+        "Călătoria unui profet în interiorul unei balene"
+      ],
+      "answer": "Întâlnirea cu toiagul profetului Musa"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Egiptul Antic",
+        "Casa sacră din Mecca",
+        "Orașul Madian",
+        "Deșertul Thamud",
+        "Peștera adormitorilor antici"
+      ],
+      "answer": "Egiptul Antic"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Paradisul ca răsplată a lor",
+        "Pedeapsa în mormânt",
+        "Pierderea grădinilor lor bogate",
+        "Distrugere cauzată de un cutremur brusc",
+        "Salvare de la o balenă uriașă"
+      ],
+      "answer": "Paradisul ca răsplată a lor"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

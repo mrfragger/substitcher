@@ -1,0 +1,61 @@
+{
+  "title": "Makurtu ziren hamaika izar",
+  "intro": "Koraneko pertsonaia bati haurtzaroan ikuspegi sakon bat eman zitzaion: zeruko gorputzak errespetuz makurtzen zirelako ametsa. Urteak igaroko ziren traizioz, banantzez, akusazio faltsuz eta espetxeratzeaz gain, ikuspegi hori egia bihurtu aurretik. Nor da Koraneko kapitulurik luzeena hartzen duen istorioak hartzen duen arima erresiliente hau?",
+  "clues": [
+    "Behin gaztea nintzen, amets harrigarri batekin bedeinkatua, eta nire aitak berak ere pribatuan gordetzeko ohartarazi zidan.",
+    "Nire anaiek, jeloskortasunak itsututa, nire aurka konspiratu eta putzu sakon eta ilun batera bota ninduten.",
+    "Lurralde urrun batera eraman eta funtzionario noble baten etxera saldu ninduten, non faborea aurkitu eta erantzukizunean gora egin nuen.",
+    "Salaketa faltsuak bidegabeko espetxeratzea ekarri zidan, baina leku ilun horretan aurkitu nuen kontsolamendua otoitzean eta Ala-ri ahuspeztzean.",
+    "Alak ametsak interpretatzeko gaitasun arraroarekin bedeinkatu ninduen, eta horrek azkenean lurraldeko agintariaren aurrera eraman ninduen eta konfiantzazko postu altu batera igo ninduen.",
+    "Urte luzez bananduta egon ondoren, maite nuen familiarekin elkartu nintzen berriro, eta hamaika izar, eguzki eta ilargia niri makurtzen zitzaizkidan haurtzaroko ametsa azkenean bete zen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yusuf profeta",
+        "Salih profeta",
+        "Ilyas profeta",
+        "Tubba', antzinako Himyar-eko agintaria",
+        "Palestinako muinoetako artzain xume bat"
+      ],
+      "answer": "Yusuf profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Anaia jeloskorren eskutik putzu sakon eta ilun batera botata",
+        "Itsaso sakonetako izaki handi batek irentsi izana",
+        "Idoloatrak su bizian botata izatea",
+        "Jainkozko suntsipen-haize batek eramanda",
+        "Lurralde osoa estali zuen uholde handi batetik bizirik ateratzea"
+      ],
+      "answer": "Anaia jeloskorren eskutik putzu sakon eta ilun batera botata"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Basamortuko putzu lehor bat, non abandonatu ninduten",
+        "Itsaso sakoneko arrain handi bat",
+        "Jainkozko aginduz eraikitako arka erraldoi bat",
+        "Zerura iristeko eraikitako dorrea",
+        "Erretzeari uko egin zion su sakratu bat"
+      ],
+      "answer": "Basamortuko putzu lehor bat, non abandonatu ninduten"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Urteetako banantzearen ondoren familiarekin elkartu zen eta ministro fidagarri bihurtu zen",
+        "Nire herriaren exodo handi bat gidatu nuen itsaso zatitu batetik zehar",
+        "Nire nazioa ohartarazi zuen hurbileko hondamendiaz, zeinak kontsumituko zituen",
+        "Etxe sakratu bat eraiki zuen, guztiontzako santutegi bihurtu zena",
+        "Hiru egunen buruan izaki handi baten sabeletik onik atera zen"
+      ],
+      "answer": "Urteetako banantzearen ondoren familiarekin elkartu zen eta ministro fidagarri bihurtu zen"
+    }
+  },
+  "verseRef": "12:21",
+  "arabic": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًۭا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+  "verse": "And the one from Egypt who bought him said to his wife, \"Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son.\" And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know. (12:21)"
+}

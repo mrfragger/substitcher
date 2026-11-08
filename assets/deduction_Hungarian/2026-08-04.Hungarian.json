@@ -1,0 +1,61 @@
+{
+  "title": "A visszhang a sziklákon keresztül",
+  "intro": "Képzelj el egy völgyet, ahol sziklákba vájt lakóhelyeket, és a levegő egy meg nem hallatott figyelmeztetés emlékét hordozza. Egy nép valaha virágzott itt, áldott, mégis dacos volt, mígnem egy jel bukkant elő abból a sziklából, amelyben megbíztak.",
+  "clues": [
+    "Olyan nép voltunk, amely biztonságos otthonokat vájt ki a hegyekből, biztonságban érezve magát sziklás hajlékaiban.",
+    "Egy síkságokkal és kövekkel tarkított, kertekkel és forrásokkal megáldott vidéken éltünk.",
+    "Egy közülünk származó hírnök jött, aki arra hívott minket, hogy hagyjuk el hamis isteneinket, és imádjuk az Egyetlen igaz Teremtőt.",
+    "Arrogánsan feltételt szabtunk a hitnek: egy egyedi jel, amely az általunk faragott sziklákból emelkedik ki.",
+    "Amikor a megígért nőstény teve megjelent a sziklából, ami egyértelmű jel volt, az elit csapatunk továbbra is ellenállt, és a közelgő végzetre vonatkozó figyelmeztetés ellenére megbénította.",
+    "Három nappal a tettünk után mennydörgés visszhangzott végig a völgyön, és romhalmazzá váltunk, otthonainkká a sírjainkká."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "¿Ad népe",
+        "Thamud népe",
+        "Madyan népe",
+        "A liget népe",
+        "A barlang népe"
+      ],
+      "answer": "Thamud népe"
+    },
+    "trial": {
+      "label": "Próba/Fő eseményünk",
+      "options": [
+        "Allah tevéjének combhajlító izmai",
+        "Az aranyborjú imádata",
+        "A szombat megtörése",
+        "Egy torony építése az égbe",
+        "A próféták megölése"
+      ],
+      "answer": "Allah tevéjének combhajlító izmai"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem a történetünkben",
+      "options": [
+        "Allah tevéje",
+        "Múza személyzete",
+        "Nú ládája",
+        "Mózes fehér keze",
+        "Az ¿Isa madara"
+      ],
+      "answer": "Allah tevéje"
+    },
+    "outcome": {
+      "label": "Eredményünk",
+      "options": [
+        "Fülsiketítő robbanás pusztítása",
+        "Kőeső az égből",
+        "Egy özönvíz, amely ellepte a földet",
+        "Egy heves szél, ami kitépett minket a földből",
+        "A föld elnyel minket"
+      ],
+      "answer": "Fülsiketítő robbanás pusztítása"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

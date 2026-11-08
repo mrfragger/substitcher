@@ -1,0 +1,61 @@
+{
+  "title": "Sub umbra palmierului de curmal",
+  "intro": "Povestea unui suflet pus deoparte înainte de naștere, hrănit între ziduri sacre și ales să poarte un semn pe care lumea nu-l mai văzuse niciodată. Când acuzațiile au apărut din toate direcțiile, o voce a venit din cel mai improbabil loc pentru a liniști orice îndoială. Poți descoperi cine a pășit sub umbra curmalului?",
+  "clues": [
+    "Eram dedicat slujbei Celui Atotputernic încă dinainte să-mi trag prima suflare, un jurământ făcut de cea care m-a purtat.",
+    "Am crescut sub paza atentă a unui gardian neprihănit, în încăperile sacre ale unui loc de cult.",
+    "Ori de câte ori tutorele meu venea în camera mea, găsea la mine provizii din anotimpuri care n-ar fi trebuit să fie.",
+    "Am primit vestea bună că am un fiu, deși circumstanțele mele nu mi-au lăsat loc pentru ceea ce fusese promis.",
+    "M-am retras într-un loc îndepărtat, iar acolo un curmal mi-a oferit umbră, în timp ce un pârâu curgea pe dedesubt.",
+    "Când au apărut acuzațiile și m-au înconjurat întrebările, am arătat spre copilul meu nou-născut — iar el a vorbit din leagăn pentru a liniști orice îndoială."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Maryam",
+        "Sara",
+        "Hawwa",
+        "Umm Musa",
+        "Soția lui Nuh"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Proces / Eveniment",
+      "options": [
+        "Dând naștere unui fiu miraculos în izolare",
+        "Aruncați într-un foc arzător de către idolatri",
+        "Supraviețuind marelui potop cu doar câțiva aleși",
+        "A fi separat de un bebeluș aruncat în râu",
+        "Confruntarea puternicului conducător al Egiptului"
+      ],
+      "answer": "Dând naștere unui fiu miraculos în izolare"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un curmal și un pârâu curgător sub el",
+        "O arcă puternică pe valuri impunătoare",
+        "Un toiag care a despărțit o mare imensă în două",
+        "Un foc arzător menit să mistuie un suflet credincios",
+        "Un tron ​​de aur împodobit cu pietre prețioase"
+      ],
+      "answer": "Un curmal și un pârâu curgător sub el"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Onorata ca fiind cea mai înălțată dintre toate femeile",
+        "Reîntâlnită cu un copil iubit după o lungă despărțire",
+        "A scos o întreagă națiune din robia unui tiran",
+        "A avertizat un popor pierdut în imoralitate",
+        "A acordat stăpânire asupra djinnilor, omenirii și vânturilor"
+      ],
+      "answer": "Onorata ca fiind cea mai înălțată dintre toate femeile"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

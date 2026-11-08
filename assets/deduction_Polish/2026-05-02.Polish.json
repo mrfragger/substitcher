@@ -1,0 +1,61 @@
+{
+  "title": "Nosiciel poważnego przesłania",
+  "intro": "Prawy duch został posłany, by poprowadzić lud pogrążony w bezprecedensowych grzechach. Ten posłaniec pozostał nieugięty, niosąc surowe ostrzeżenie przed zepsuciem, które przeczy naturalnemu porządkowi. Pomimo usilnych próśb, społeczność pogrążyła się w jeszcze głębszej ciemności, przygotowując grunt pod boski osąd, jakiego nie znali inni. Czy potrafisz rozpoznać tego niezłomnego sługę Allaha?",
+  "clues": [
+    "Byłem krewnym innego wielkiego proroka i wyemigrowałem wraz z nim, pozostawiając naszą ojczyznę.",
+    "Zostałem posłany do ludu, którego niegodziwość była wyjątkowa, którego żadne stworzenie nie popełniło przed nimi.",
+    "W moim domu panował podział; jeden z bliskich członków rodziny potajemnie opowiedział się po stronie niewierzących.",
+    "Aniołowie, pod postacią przystojnych młodych mężczyzn, przychodzili do mojego domu jako goście, sprawiając mi wielki niepokój o ich bezpieczeństwo.",
+    "Oddałem moje córki za żony mojemu ludowi w desperackiej próbie odciągnięcia go od haniebnych czynów.",
+    "Mój lud został wyniszczony przez straszliwy krzyk i deszcz kamieni z wypalonej gliny, podczas gdy ja i moja rodzina, z wyjątkiem jednej osoby, zostaliśmy uratowani dzięki temu, że odeszliśmy w środku nocy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Szuajb",
+        "Prorok Salih",
+        "Prorok Lut",
+        "Prorok Hud",
+        "Prorok Noh"
+      ],
+      "answer": "Prorok Lut"
+    },
+    "trial": {
+      "label": "Jaki był mój główny proces?",
+      "options": [
+        "Przekonanie króla-tyrana, żeby mnie nie spalił.",
+        "Radzenie sobie z zazdrością moich braci i wrzucenie mnie do studni.",
+        "Konfrontacja z ludźmi dopuszczającymi się niespotykanej dotąd niemoralności seksualnej.",
+        "Wyprowadzam mój lud z niewoli potężnego faraona.",
+        "Budowa ogromnego statku w celu uratowania wierzących przed wielkim potopem."
+      ],
+      "answer": "Konfrontacja z ludźmi dopuszczającymi się niespotykanej dotąd niemoralności seksualnej."
+    },
+    "location": {
+      "label": "Gdzie odbywała się moja misja?",
+      "options": [
+        "Miasto Madyan",
+        "Starożytne miasto Iram",
+        "Ziemia Egiptu pod rządami faraona",
+        "Miasta Sodoma i Gomora",
+        "Miasto Niniwa"
+      ],
+      "answer": "Miasta Sodoma i Gomora"
+    },
+    "outcome": {
+      "label": "Jaki był ostateczny wynik?",
+      "options": [
+        "Miasta zostały zniszczone i zasypane kamieniami z wypalonej gliny.",
+        "Mój lud został pochłonięty przez ziemię wraz ze swoim bogatym przywódcą.",
+        "Mój lud został wyniszczony przez gwałtowny wiatr, który wiał przez siedem nocy i osiem dni.",
+        "Mój lud nękały plagi takie jak szarańcza, wszy i żaby.",
+        "Olbrzymia ryba połknęła mnie, gdy porzuciłem swoją misję."
+      ],
+      "answer": "Miasta zostały zniszczone i zasypane kamieniami z wypalonej gliny."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

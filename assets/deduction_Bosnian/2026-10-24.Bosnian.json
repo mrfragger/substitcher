@@ -1,0 +1,61 @@
+{
+  "title": "Upozorenje ispod zemlje",
+  "intro": "Zamislite da stojite pored duboke iskopine dok se glasovi dižu odozdo, a svijet iznad utihne. Kur'an čuva ovu scenu kao upozorenje: zajednica odbacuje ono što donose glasnici, kazna se približava, pa čak i njena rika postaje dio svjedočanstva. Koji kolektiv govori kroz te ajete?",
+  "clues": [
+    "U Kur'anu smo spomenuti kao kolektiv definiran jednom zajedničkom sudbinom, a ne individualnim imenom.",
+    "Odbacili smo poruku koju su donijeli glasnici, iako je ono što su rekli bilo istina.",
+    "Naš identitet koji pamtimo vezan je za duboki usjek u zemlji, a ta karakteristika postala je dio našeg imena.",
+    "Na dogovoreni dan, izveli su nas i odvukli prema vatri.",
+    "Nismo se mogli braniti od kazne, a nismo mogli čuti njen urlik.",
+    "Naša bi lica bila okrenuta u vatru i bili bismo gurnuti u nju; kada bismo bili upitani, rekli bismo da smo među onima koji nisu mogli odgovoriti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Pratitelji rova",
+        "Nacija spašena od Velikog potopa",
+        "Obožavatelji Zlatnog teleta",
+        "Grupa sklonjena u planinskoj pećini",
+        "Zajednica oslobođena iz užarene peći"
+      ],
+      "answer": "Pratitelji rova"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Odvučen i bačen u Vatru",
+        "Izbavljen iz užarene peći",
+        "Bezbjedno nošen kroz veliku poplavu",
+        "Skriveno stoljećima u pećini",
+        "Spašen nakon što je bačen u bunar"
+      ],
+      "answer": "Odvučen i bačen u Vatru"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Rov ili jama",
+        "Veliko more",
+        "Planinska pećina",
+        "Visoka palata",
+        "Pustinjski bunar"
+      ],
+      "answer": "Rov ili jama"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Nesposobni da se brane i nesposobni da čuju urlik Vatre",
+        "Spašen i odobren mu je ulaz u vječne vrtove",
+        "Bezbjedno dostavljeno kroz razornu poplavu",
+        "Zaštićen dugim snom unutar pećine",
+        "Počašćen vječnim kraljevstvom"
+      ],
+      "answer": "Nesposobni da se brane i nesposobni da čuju urlik Vatre"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

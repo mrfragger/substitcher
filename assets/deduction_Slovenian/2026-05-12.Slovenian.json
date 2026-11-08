@@ -1,0 +1,61 @@
+{
+  "title": "Nepopustljiva avtoriteta",
+  "intro": "V starodavnih deželah je nekoč vladala mogočna oblast, ki je poveljevala z ogromnimi viri in življenji neštetih posameznikov. Kljub jasnim znakom in opozorilom se je ta vladar odločil za pot kljubovanja, kar je vodilo do globokega spopada, ki bo odmeval skozi čas.",
+  "clues": [
+    "Zahteval sem končno moč in oblast nad obsežnim področjem.",
+    "Izzval sem ponižnega glasnika, ki ga je poslal Gospod vseh kraljestev.",
+    "Moje ljudstvo je bilo znano po svojem obvladovanju veličastnih struktur in reke, ki je ohranjala našo civilizacijo.",
+    "Bil sem priča mnogim čudežnim znamenjem, vključno s palico, ki se je spremenila v kačo, in roko, ki je močno žarela.",
+    "Kljub božjim zapovedim nisem dovolil skupini sužnjev, da bi zapustila mojo zemljo.",
+    "Moje zasledovanje odhajajočega ljudstva je mene in moje vojske pripeljalo v srce razdeljenega morja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Jusuf",
+        "Kralj Talut",
+        "Faraon (Faraon)",
+        "Prerok Davud",
+        "Namrud"
+      ],
+      "answer": "Faraon (Faraon)"
+    },
+    "trial": {
+      "label": "Ključno soočenje",
+      "options": [
+        "Poplava, ki je zajela deželo",
+        "Razcep morja",
+        "Goreči grm",
+        "Gradnja Kaabe",
+        "Uničenje zaradi močnega vetra"
+      ],
+      "answer": "Razcep morja"
+    },
+    "location": {
+      "label": "Definirajoči vidik",
+      "options": [
+        "Govoreča žival",
+        "Palica in žareča roka",
+        "Čudežno rojstvo",
+        "Leteča preproga",
+        "Veličasten prestol na vodi"
+      ],
+      "answer": "Palica in žareča roka"
+    },
+    "outcome": {
+      "label": "Končna usoda",
+      "options": [
+        "Vzpel se v nebesa",
+        "Požrla ga je zemlja",
+        "Utopljen v morju",
+        "Preoblikovan v opico",
+        "Glede na ogromno bogastvo in moč"
+      ],
+      "answer": "Utopljen v morju"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

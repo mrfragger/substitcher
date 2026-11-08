@@ -1,0 +1,61 @@
+{
+  "title": "Den första själen som står upp",
+  "intro": "Långt innan någon budbärare vandrade på jorden, innan någon skrift uppenbarades, uppstod en varelse olik alla andra. Denna själ formades av gudomliga händer, fick en plats av oöverträffad skönhet och prövades på ett sätt som skulle eka genom hela mänsklighetens historia. Det som följde var en berättelse om svaghet, uppriktig ånger och ett öde som skulle förändra skapelsens gång för alltid. Kan du gissa vem detta är?",
+  "clues": [
+    "Jag formades av den Barmhärtigastes händer från jordens stoft",
+    "Jag fick ett hem av oöverträffad skönhet, där ingen hunger eller trötthet kunde röra mig",
+    "Jag blev beordrad att aldrig närma mig ett enda träd, ty det var förbjudet",
+    "Min följeslagare och jag blev bedragna och närmade oss det förbjudna trädet, mot vår Herres befallning.",
+    "Vi vände oss tillbaka till vår Herre med uppriktig ånger och fick förlåtelse för vår överträdelse",
+    "Från oss härstammar hela mänskligheten; jag är den allra förste som vandrar på denna jord"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Adam",
+        "Profeten Musa",
+        "Profeten Nuh",
+        "Profeten Yusuf",
+        "Profeten Isa"
+      ],
+      "answer": "Profeten Adam"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Frestelsen vid det förbjudna trädet",
+        "Konfrontation med farao",
+        "Bygga den stora arken",
+        "Den älskade sonens offer",
+        "Att kastas in i en stor eld"
+      ],
+      "answer": "Frestelsen vid det förbjudna trädet"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Det förbjudna trädet",
+        "Den brinnande busken",
+        "Den gyllene staven",
+        "Den stora arken",
+        "Guldkalven"
+      ],
+      "answer": "Det förbjudna trädet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Skickas ner till jorden som mänsklighetens första vårdare",
+        "Farao och hans armé drunknade i havet",
+        "Den stora översvämningen förintade de onda",
+        "Elden blev sval och fridfull",
+        "Fick makt över kungariket Egypten"
+      ],
+      "answer": "Skickas ner till jorden som mänsklighetens första vårdare"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

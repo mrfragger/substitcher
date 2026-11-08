@@ -1,0 +1,61 @@
+{
+  "title": "Samfélagið sem óhlýðnaðist hvíldardeginum",
+  "intro": "Stígðu inn í strandbyggð þar sem guðleg skipun setti einn dag til hliðar fyrir tilbeiðslu og aðhald. Hópur innan þessa samfélags kaus að prófa mörk þessarar skipunar með lævísri áætlun, sem leiddi til umbreytinga sem myndu enduróma í gegnum aldirnar. Hverjar voru þessar sálir og hvað varð um þær?",
+  "clues": [
+    "Við bjuggum nálægt ströndinni, þar sem sjórinn sá okkur fyrir lífsviðurværi.",
+    "Okkur var boðið að heiðra einn dag vikunnar og setja hann til hliðar frá veraldlegum iðjum.",
+    "Þann dag komu fiskarnir til okkar í miklum fjölda, eins og þeir væru að freista okkar til að brjóta skipunina.",
+    "Við gerðum áætlun um að veiða fiskinn aðfaranótt hins heilaga dags og safna honum síðan eftir að hann var liðinn.",
+    "Þegar sumir okkar vöruðu við þessum svikum, hunsuðum við ráð þeirra og héldum áfram.",
+    "Vegna misgjörðar okkar vorum við umbreytt í apa, fyrirlitin og útskúfuð."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið á hvíldardeginum",
+        "Fólkið í skurðinum",
+        "Fólkið í skóginum",
+        "Fólkið í garðinum",
+        "Fólkið í Fílnum"
+      ],
+      "answer": "Fólkið á hvíldardeginum"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Veiði á hvíldardegi",
+        "Að byggja háan turn",
+        "Að drepa heilaga úlfalda",
+        "Að afneita spámanni sem sendur var til þeirra",
+        "Brot á viðskiptaþyngd"
+      ],
+      "answer": "Veiði á hvíldardegi"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Hafið og fiskarnir þess",
+        "Eldurinn sem var kólnaður",
+        "Stafur sem varð að höggormi",
+        "Örk hjálpræðisins",
+        "Steintöflurnar"
+      ],
+      "answer": "Hafið og fiskarnir þess"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Umbreyttust í apa",
+        "Gleypt af jörðinni",
+        "Eyðilagður af hvassviðri",
+        "Drukknaði í sjónum",
+        "Lent í steinaskúr"
+      ],
+      "answer": "Umbreyttust í apa"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

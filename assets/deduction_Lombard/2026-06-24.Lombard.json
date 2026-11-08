@@ -1,0 +1,61 @@
+{
+  "title": "El guardian de la flama che se pœu minga estinguir",
+  "intro": "Una figura la se trova a la soglia del post plussee spaventad ind l’invisibel, fidada de un dover qe nissun olter vesser al desidera. Quand che i anim che patisen gridan per pietà, una rispòsta severa la fà eco travers i camber del fœuch. Pœdet descüvrir l’identidà de chestu eterno guardian?",
+  "clues": [
+    "Me mett a l’entrada de un post spaventus de puniziun in del invisibil.",
+    "Un fœg ardent e che se pò minga estinguir l’è el pezz central del me dover solenn.",
+    "I anim che patisen ciaman el me nomm, implorand un sulliev dal luur torment senza fin.",
+    "Quand che suplican, dichiaro che partiran no, mai.",
+    "Son minga uman, né jinn - son un vesser cread de pura ubbidienza.",
+    "Mi sun l’angel capo nominad cuma eterno guardian del Fœuch del Infern."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Malik",
+        "Jibrel",
+        "Michele",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "La gent del Infern la prega che el luur torment l’è finì",
+        "La tromba la se suona per segnalar el Dì del Giudizi",
+        "El Coran l’è rivelà al cœur del Profeta",
+        "Un Profeta l’è butà denter de un grand fœuch dal luur popul",
+        "Un mür putent l’è costruì per cuntener una naziun curruta"
+      ],
+      "answer": "La gent del Infern la prega che el luur torment l’è finì"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "El fœg del infern (Jahannam)",
+        "L'arbor de Lote al confin del Paradis",
+        "Una tromba traforant",
+        "Un bastun che se trasfurma en un serpent",
+        "Un magnifico tron ​​divin"
+      ],
+      "answer": "El fœg del infern (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "A i abitant del Infern se dis che restaràn per semper",
+        "I abitant del Infern sun perdonad e liberà",
+        "A i abitant del Infern g’he dà una segonda ocasiun de fede",
+        "I abitant del Infern sun spustà en un sit de fresc",
+        "I abitant del Infern sun cumpletament distrutt de un fulmin"
+      ],
+      "answer": "A i abitant del Infern se dis che restaràn per semper"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

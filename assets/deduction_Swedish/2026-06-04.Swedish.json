@@ -1,0 +1,61 @@
+{
+  "title": "Skylten bland stenarna",
+  "intro": "I ett land där berg var uthuggna till hus anlände en budbärare med ett mirakulöst tecken från Allah. Folket krävde bevis, och de fick en varelse från fast klippa. Men deras arrogans ledde dem till att trotsa varningen och beseglade sitt öde.",
+  "clues": [
+    "Jag sändes till ett folk som bodde i boningar uthuggna ur berg.",
+    "De utmanade mig att ta med en skylt, så jag tog fram en kamel ur en sten.",
+    "Jag befallde dem att låta kamelen dricka fritt och inte skada den.",
+    "De lydde inte och skar av höfterna på kamelen, trotsande min varning.",
+    "Jag meddelade att straffet skulle komma efter tre dagar.",
+    "På morgonen kom en kraftig vindpust som förintade dem, men jag och mina följeslagare räddades."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Salih",
+        "Profeten Hud",
+        "Profeten Lut",
+        "Profeten Shu'ayb",
+        "Profeten Ibrahim"
+      ],
+      "answer": "Profeten Salih"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Efterfrågan på en honkamel från en klippa",
+        "Efterfrågan på en guldkalv",
+        "Efterfrågan på ett bord spred sig från himlen",
+        "Krav på en översvämning",
+        "Krav på att en stav ska bli en orm"
+      ],
+      "answer": "Efterfrågan på en honkamel från en klippa"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Kamelhonan och hennes kalv",
+        "Noas ark",
+        "Moses stav",
+        "Guldkalven",
+        "Ibrahims eld"
+      ],
+      "answer": "Kamelhonan och hennes kalv"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förstördes av en kraftig explosion",
+        "Drunknade i översvämningen",
+        "Slukad av jorden",
+        "Förvandlades till apor",
+        "Förstört av en hård vind"
+      ],
+      "answer": "Förstördes av en kraftig explosion"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

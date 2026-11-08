@@ -1,0 +1,61 @@
+{
+  "title": "La prova de la roca àrida",
+  "intro": "Una comunitat, hàbil i orgullosa, va gravar el seu llegat a les muntanyes mateixes. Però quan se'ls va enviar un senyal clar, una prova de fe i moderació, la seva arrogància els va conduir per un camí sense retorn. Podeu identificar aquest grup i les conseqüències del seu desafiament?",
+  "clues": [
+    "Érem mestres de la pedra, esculpint magnífiques cases directament als vessants de les muntanyes.",
+    "Un missatger del nostre poble va venir a nosaltres, cridant-nos a adorar l'Únic Déu Veritable.",
+    "Vam exigir un senyal que comprovés les seves paraules, i ens van presentar una criatura única com a prova.",
+    "Ens van donar una ordre senzilla: compartir la nostra font d'aigua amb aquesta criatura, deixant-la beure el dia designat.",
+    "En la nostra arrogància, uns quants de nosaltres vam conspirar i vam desafiar l'advertència, abatent la criatura que havia de ser el nostre senyal.",
+    "Ens van donar tres dies abans de la nostra perdició, i llavors una forta explosió ens va envair a les nostres cases, deixant-nos sense vida i bolcats."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui som?",
+      "options": [
+        "Gent d'Ad",
+        "Gent de Madyan",
+        "Gent de Thamud",
+        "Gent de Saba",
+        "Gent de Lut"
+      ],
+      "answer": "Gent de Thamud"
+    },
+    "trial": {
+      "label": "Quina va ser la nostra prova principal?",
+      "options": [
+        "Construint una arca per sobreviure a un diluvi",
+        "Resistint la temptació de pescar en dissabte",
+        "Abandonar les pràctiques comercials fraudulentes",
+        "Protegint una camella miraculosa",
+        "Suportant una fam de set anys"
+      ],
+      "answer": "Protegint una camella miraculosa"
+    },
+    "location": {
+      "label": "Quin va ser l'element central de la nostra història?",
+      "options": [
+        "El vedell d'or",
+        "La camella",
+        "El bastó del profeta Musa",
+        "La Gran Presa de Ma'rib",
+        "La taula parada des del cel"
+      ],
+      "answer": "La camella"
+    },
+    "outcome": {
+      "label": "Quin va ser el nostre destí final?",
+      "options": [
+        "Ofegat en un gran diluvi",
+        "Convertits en simis i porcs",
+        "Aclaparat per un vent furiós",
+        "Escampat per l'esclat d'una presa",
+        "Destruït per una forta explosió/terratrèmol"
+      ],
+      "answer": "Destruït per una forta explosió/terratrèmol"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

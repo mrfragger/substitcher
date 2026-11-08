@@ -1,0 +1,61 @@
+{
+  "title": "Lo Vilatge sus las Ribèras de Procès",
+  "intro": "Te retrobas dins un vilatge litoral, ont lo bruch de las ondas se mescla amb de murmurs d'un pòble oblidat. Se lor foguèt donat un comandament de repaus, mas lor avarícia menèt a un castig que se ne parla encara amb de tons silenciós. Podètz descobrir qui èran?",
+  "clues": [
+    "Viviam a la riba e nos donèron un comandament d'observar un jorn de repaus.",
+    "Aquel jorn, de peisses nos venián en abondància, mas nos èra enebit de los prene.",
+    "D'unes d'entre nosautres avertiguèron contra la transgression, mas d'autres conspiravan per pescar de tot biais.",
+    "Violèrem lo comandament sacrat e portèrem sus nosautres un castig sevèr.",
+    "Nòstre castig foguèt una transformacion que nos daissèt desfigurats e desgraciats.",
+    "Foguèrem convertits en simis, un signe per totes los que vendrián après."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Gent del sabbat",
+        "Pòble de Thamud",
+        "Personas de 'Ad",
+        "Gente de la Caverna",
+        "Gent de l'Elefant"
+      ],
+      "answer": "Gent del sabbat"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Pesca lo sabbat",
+        "Adorant un vedèl d'aur",
+        "Negant lo messatge de Hud",
+        "Tuar la camèla",
+        "Bastir una torre cap al cèl"
+      ],
+      "answer": "Pesca lo sabbat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo peis",
+        "Una camèla",
+        "Un personal",
+        "Una barca",
+        "Un jardin"
+      ],
+      "answer": "Lo peis"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Convertits en simis",
+        "Destruit per una inondacion",
+        "Destruit per un fuòc ardent",
+        "Engolit per la tèrra",
+        "Escampilhats per un vent"
+      ],
+      "answer": "Convertits en simis"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Vurhongo Bya Malembe",
+  "intro": "U le kusuhi no sungula riendzo ra nkarhi, u hlangana na xihundla lexikulu xa ripfumelo na matimba ya Xikwembu. Anakanya hi ntlawa wa vanhu lava a va kaneta mimpimanyeto ya vaaki va vona, va namarhela vukhongeri bya Xikwembu xin’we emisaveni leyi nga ni vukhongeri byo tala. Mhaka ya vona i vumbhoni bya vuswikoti bya Allah byo sirhelela malandza ya Yena yo lulama hi tindlela leti nga tolovelekangiki swinene. Xana u nga paluxa vumunhu bya vanhu lava vo hlamarisa?",
+  "clues": [
+    "A hi ri ntlawa wutsongo wa majaha lama pfumelaka eka Xikwembu xin’we, ku nga khathariseki vukhongeri bya swikwembu swo tala lebyi hangalakeke bya vanhu va hina.",
+    "Hi balekile eka mufumi wa tihanyi loyi a a hi xungeta hikwalaho ka ripfumelo ra hina, hi ku chava nxaniso ni rifu.",
+    "Hi lave vutumbelo endhawini leyi nga yoxe, hi ri ni ntshembo wa tintswalo ta Allah ni nsirhelelo eka vatshikeleri va hina.",
+    "Hosi ya hina yi hi endle hi etlela vurhongo lebyikulu, vurhongo bya singita lebyi a byi kaneta ku famba ka nkarhi.",
+    "Loko hi pfuka, a hi pfumela leswaku hi wisa siku kumbe xiphemu xa siku ntsena, hi nga tivi nkarhi lowukulu lowu hundzeke hakunene.",
+    "Quran yi boxa leswaku hi tshamile eka xiyimo xa hina ku ringana madzana manharhu ya malembe, naswona hi tlula hi nhungu, hi hundzuka xikombiso eka vanhu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Vanhu va Mugodi",
+        "Vanhu va le Thamud",
+        "Vanhu va le Bako",
+        "Vanhu va le Madyan",
+        "Vaseketeri va Ndlopfu"
+      ],
+      "answer": "Vanhu va le Bako"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku langutana ni ndhambi leyikulu",
+        "Ku mitiwa hi misava",
+        "Vurhongo byo leha bya singita",
+        "Ku lovisiwa ka muti wa vona",
+        "Ku avana ka lwandle"
+      ],
+      "answer": "Vurhongo byo leha bya singita"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xihlahla lexi pfurhaka",
+        "Ntshava",
+        "Xikepe",
+        "Bako ra kona",
+        "Xihlovo"
+      ],
+      "answer": "Bako ra kona"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Va nyikiwe rifuwo lerikulu swinene ni matimba",
+        "Ti hundzuriwe tindlopfu ni tinguluve",
+        "Va pfuxiwile evurhongweni tanihi xikombiso lexi dzikeke",
+        "Va nwile hi ndhambi leyikulu",
+        "Va ake mfumo lowu hlamarisaka"
+      ],
+      "answer": "Va pfuxiwile evurhongweni tanihi xikombiso lexi dzikeke"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

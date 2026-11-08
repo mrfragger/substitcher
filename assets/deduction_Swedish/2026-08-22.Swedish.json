@@ -1,0 +1,61 @@
+{
+  "title": "Staden som trodde på tiden",
+  "intro": "I den gudomliga barmhärtighetens annaler finns det ett samhälle vars vändpunkt var ett ögonblick av kollektiv insikt. Du är på väg att avslöja deras historia – en berättelse om varning, ånger och en respit som skilde dem från andra nationers öde.",
+  "clues": [
+    "Vi var ett folk till vilket en budbärare sändes, och vi vände oss bort från hans kallelse i början.",
+    "När tecknen på ett annalkande straff blev tydliga, insåg vi sanningen i hans varning.",
+    "Vi vände oss till vår Herre med uppriktig ånger, och vår tro blev accepterad.",
+    "Straffet som hade dömts ut över oss upphävdes på grund av vår tro.",
+    "Vår berättelse nämns som ett undantag bland de städer som trodde efter att ha sett straffet.",
+    "Vi var profetens folk som svaldes av valen, men vi räddades från undergång."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Yunus folk",
+        "Folket i Nuh",
+        "Folket i Hud",
+        "Folket i Salih",
+        "Luts folk"
+      ],
+      "answer": "Yunus folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "En förödande översvämning",
+        "En kraftig vindstorm",
+        "Ett förestående skamstraff som avvärjdes",
+        "Jorden som slukar dem",
+        "Ett regn av stenar"
+      ],
+      "answer": "Ett förestående skamstraff som avvärjdes"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken",
+        "Honkamelen",
+        "En stad med hundra tusen",
+        "Musas personal",
+        "Qaruns skatt"
+      ],
+      "answer": "En stad med hundra tusen"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De förstördes fullständigt",
+        "De fick njutning en tid",
+        "De förvandlades till apor",
+        "De drunknade",
+        "De slukades av jorden"
+      ],
+      "answer": "De fick njutning en tid"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Durch das Wort ins Leben gerufen",
+  "intro": "Eine Gestalt aus der heiligen Geschichte erscheint, die Wunder vollbringt, die der natürlichen Ordnung trotzen. Diese Seele kam durch ein einziges göttliches Gebot, verteidigte einen Elternteil gegen schwere Anschuldigungen und verließ diese Welt, bevor irdische Ketten sie fesseln konnten. Die Geschichte reicht von einer bescheidenen Wiege bis hinauf in den Himmel. Wer mag diese Gestalt sein?",
+  "clues": [
+    "Ich wurde als Zeichen und Gnade Allahs an die Kinder Israels gesandt.",
+    "Meine Ankunft war anders als alle vorherigen – ich entstand durch das göttliche Wort „Sei!“ ohne irdischen Vater.",
+    "Meine Eltern wurden grausam verleumdet, doch eine heilige Offenbarung kam herab, um ihre Unschuld zu beweisen und ihren Status zu erhöhen.",
+    "Als Neugeborenes verblüffte ich die Menschen um mich herum, indem ich schon aus meiner Wiege deutlich sprach, um den Namen meiner Eltern reinzuwaschen.",
+    "Mit Allahs Erlaubnis formte ich Leben aus leblosem Lehm, gab Blinden das Augenlicht und heilte Aussätzige durch meine Berührung.",
+    "Ich wurde in den Himmel erhoben, bevor mir etwas zustoßen konnte, und ich werde in diese Welt zurückkehren, bevor die letzte Stunde schlägt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Isa",
+        "Prophet Musa",
+        "Prophet Ibrahim",
+        "Prophet Yusuf",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Isa"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Schon als Säugling sprach er aus der Wiege.",
+        "Das Überleben im Bauch eines großen Fisches",
+        "In ein loderndes Feuer geworfen werden",
+        "Bau einer großen Arche vor einer Flut",
+        "Angesichts der Zauberei am Hof ​​des Pharaos"
+      ],
+      "answer": "Schon als Säugling sprach er aus der Wiege."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Injeel (Evangelium)",
+        "Die Tawrah (Tora)",
+        "Der Zabur (Psalmen)",
+        "Der Suhuf (Schriftrollen von Ibrahim)",
+        "Ein Stab, der das Meer spaltete"
+      ],
+      "answer": "Das Injeel (Evangelium)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie wurden in den Himmel erhoben und werden vor dem Tag des Gerichts zurückkehren.",
+        "Führte die Kinder Israels aus Ägypten",
+        "Wurde zum König mit Herrschaft über Dschinn, Menschen und Vögel",
+        "Überlebte mit den Gläubigen eine gewaltige Flut.",
+        "Errichtete das heilige Haus in Mekka"
+      ],
+      "answer": "Sie wurden in den Himmel erhoben und werden vor dem Tag des Gerichts zurückkehren."
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

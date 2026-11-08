@@ -1,0 +1,61 @@
+{
+  "title": "Ang mga magpapanaw sa lunhaw nga kapatagan",
+  "intro": "Sa karaang panahon, duha ka tawo ang nag-atiman sa silingang mga yuta. Ang ilang mga agianan nagkasumpay, apan ang ilang mga kasingkasing nagdala kanila padulong sa managlahing destinasyon. Ang usa naglakaw sa tul-id nga dalan, samtang ang usa nahisalaag ngadto sa kangitngit sa pagdumili. Mahimo ba nimo nga masulbad ang misteryo niining duha ka magbalantay sa ani?",
+  "clues": [
+    "Daghan ang akong mga ani, maluho nga mga ani nga nakapahingangha sa mga nanan-aw.",
+    "Mas daghan pa gani ang bahandi nga naangkon sa akong silingan kay kanako, apan mas gihidlaw ko pa ang ilang bahin kaysa sa akoa.",
+    "Gisugyot nako nga among gub-on sa hingpit ang ilang mga tanom, aron mahiusa ang tanan ubos sa akong pagkontrol.",
+    "Ako usab ang nagdala ug kadaot sa akong kaugalingong ani, nga naglaglag sa tanan sa akong binuang nga laraw.",
+    "Nagbarog ako nga walay mahimo samtang ang akong mga tanom nangalaya ug ang akong bahandi nahimong abog sa usa lang ka gabii.",
+    "Wala akoy bahin sa Kinabuhing Dayon, ug ang akong kataposang puloy-anan nahimong usa ka gahong sa nagdilaab nga kalayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Ang tawo nga naglimud sa pagkabanhaw ug paghukom",
+        "Ang magmamando nga nagdaugdaug sa matarong nga mag-uuma",
+        "Ang adunahang tag-iya sa yuta nga walay pasalamat",
+        "Ang mag-uuma nga naibog sa yuta sa iyang silingan",
+        "Ang maluibon nga kauban nga nagplano sa kalaglagan"
+      ],
+      "answer": "Ang mag-uuma nga naibog sa yuta sa iyang silingan"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Ang pagsulay sa pagdawat sa balaang pagpadayag",
+        "Ang hagit sa bahandi ug pailub",
+        "Ang tentasyon sa pagguba sa panginabuhian sa usa ka matarong nga tawo",
+        "Ang sugo sa pagbahin sa panulondon nga patas",
+        "Ang pakigbisog batok sa pagpanglupig sa usa ka malupigon"
+      ],
+      "answer": "Ang tentasyon sa pagguba sa panginabuhian sa usa ka matarong nga tawo"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang lunhaw nga mga tanaman sa paraiso",
+        "Duha ka silingang umahan sa mga tanom",
+        "Ang mga bukid nga nakasaksi sa kalaglagan",
+        "Ang sagrado nga santuwaryo sa Makkah",
+        "Ang mga tampi sa suba sa usa ka bulahan nga yuta"
+      ],
+      "answer": "Duha ka silingang umahan sa mga tanom"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Walay kataposang paraiso isip ganti sa pagkamatarong",
+        "Bug-os nga pagkaguba sa duha ka ani niining kinabuhia",
+        "Paglaaglaag ug paglatagaw hangtod sa kamatayon",
+        "Temporaryong kauswagan gisundan sa walay katapusan nga kalayo",
+        "Usa ka milagrosong pagpahiuli ug doble nga kadagaya"
+      ],
+      "answer": "Bug-os nga pagkaguba sa duha ka ani niining kinabuhia"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

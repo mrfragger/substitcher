@@ -1,0 +1,61 @@
+{
+  "title": "Gizli Məhkumluğun Səsi",
+  "intro": "Küfrün qanun olduğu zalım bir sarayın mərkəzində tənha bir ruh iman və qorxu ipi ilə yeriyirdi. Güc mərkəzinə yaxın olan bu şəxs, bir peyğəmbərin mesajının istehza və təhdidlərlə qarşılandığını dinləyirdi. Həqiqət anı gəldi və bu insanı səssiz təhlükəsizlik və təhlükəli bir həqiqəti söyləmək arasında seçim etməyə məcbur etdi. Bu cəsarətli müdafiəçinin kimliyini aşkar edə bilərsinizmi?",
+  "clues": [
+    "Mən bir tiranın evində yaşayırdım və ilahi əlamətləri rədd edən təkəbbürün şahidi olurdum.",
+    "İmanımı gizli saxladım, bütpərəstlik sarayında gizli bir xəzinə.",
+    "Xidmət etdiyim rəhbərin Musa adlı Allahın elçisini öldürmək üçün sui-qəsd hazırladığını eşitdim.",
+    "Mən onların məntiqini sorğu-sual etdim, onlara Nuh, Ad və Səmud qövmünün aqibətini xatırlatdım.",
+    "Mən xalqıma tənqidi bir sual verdim: “Əgər o, yalan danışırsa, yalanı öz başınadır; yox, əgər doğru danışırsa, vədlərinin bir hissəsi sizə dəyəcək”.",
+    "Mənim hekayəm, xalqımı güclülərin hiylələrindən xəbərdar etdiyim \"Bağışlayan\" surəsində iman nümunəsi kimi nəql olunur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Firon ailəsindən olan mömin",
+        "Haman",
+        "Fironun sehrbazları",
+        "Qarun",
+        "Samiri"
+      ],
+      "answer": "Firon ailəsindən olan mömin"
+    },
+    "trial": {
+      "label": "Mənim məhkəməm nə idi?",
+      "options": [
+        "Zalımın sarayında Musa peyğəmbəri müdafiə etmək",
+        "Göylərə çatmaq üçün hündür bir qüllə tikmək",
+        "Alovlu bir oda atılmaq",
+        "Nəhəng bir balıq tərəfindən udulur",
+        "Bütün sərvətini və sağlamlığını itirmək"
+      ],
+      "answer": "Zalımın sarayında Musa peyğəmbəri müdafiə etmək"
+    },
+    "location": {
+      "label": "Mənim mübahisəmin mövzusu nə idi?",
+      "options": [
+        "Peyğəmbərin mesajını rədd etməyin nəticəsi",
+        "Müqəddəs ağacdan bir işarə tələbi",
+        "Əridilmiş zərgərlikdən buzovun yaradılması",
+        "Qayadan çıxan dəvənin möcüzəsi",
+        "Bir hökmdarın yuxularının yozulması"
+      ],
+      "answer": "Peyğəmbərin mesajını rədd etməyin nəticəsi"
+    },
+    "outcome": {
+      "label": "Nəticə Nə Oldu?",
+      "options": [
+        "Allah bu şəxsi onların pis niyyətindən xilas etdi",
+        "Bütün saray dərhal İslamı qəbul etdi",
+        "Zalım boğulmaq anında tövbə etdi",
+        "Zalım yer üzünə uduldu",
+        "Şəxs uzaq bir diyara sürgün edildi"
+      ],
+      "answer": "Allah bu şəxsi onların pis niyyətindən xilas etdi"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

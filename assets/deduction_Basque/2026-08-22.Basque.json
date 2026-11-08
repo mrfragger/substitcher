@@ -1,0 +1,61 @@
+{
+  "title": "Denboran Sinesten Zuen Herria",
+  "intro": "Jainkozko errukiaren analetan, badago komunitate bat zeinaren inflexio-puntua kontzientziazio kolektiboaren une bat izan zen. Haien istorioa deskubritzear zaude: abisu, damu eta beste nazioen patutik bereizi zituen barkamen istorio bat.",
+  "clues": [
+    "Mezulari bat bidali zitzaigun herria ginen, eta hasieran haren deiari bizkarra eman genion.",
+    "Zigorraren hurretako zantzuak argi bihurtu zirenean, bere abisuaren egiazkotasunaz konturatu ginen.",
+    "Zinez damututa gure Jaunarengana jo genuen, eta gure fedea onartua izan zen.",
+    "Gure sinesmenagatik kendu ziguten ezarri zitzaigun zigorra.",
+    "Gure istorioa salbuespen gisa aipatzen da zigorra ikusi ondoren sinetsi zuten herrien artean.",
+    "Baleak irentsi zuen profetaren herria ginen, baina suntsipenetik salbatu gintuzten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Yunusko jendea",
+        "Nuh-eko jendea",
+        "Hudeko jendea",
+        "Salihko jendea.",
+        "Luteko jendea."
+      ],
+      "answer": "Yunusko jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Uholde suntsitzaile bat.",
+        "Haize-ekaitz bortitza.",
+        "Saihestu zen lotsa-zigorra hurbiltzen ari zena",
+        "Lurrak irensten ditu",
+        "Harri-euri bat."
+      ],
+      "answer": "Saihestu zen lotsa-zigorra hurbiltzen ari zena"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arka",
+        "Gamelu emea",
+        "Ehun mila biztanleko hiri bat",
+        "Musaren langileak.",
+        "Qaruneko altxorra."
+      ],
+      "answer": "Ehun mila biztanleko hiri bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Erabat suntsitu zituzten.",
+        "Denbora batez gozamena eman zitzaien",
+        "Tximino bihurtu ziren.",
+        "Ito egin ziren.",
+        "Lurrak irentsi zituen."
+      ],
+      "answer": "Denbora batez gozamena eman zitzaien"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

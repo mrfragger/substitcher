@@ -1,0 +1,61 @@
+{
+  "title": "Den udstødte af guldkalven",
+  "intro": "En figur nævnt i Koranen ledte en stor folkemængde på afveje under en ædel profets fravær. Noget lavet af guld erobrede en hel nations hjerter – men historien om denne person ender i ensomhed og en mærkelig forbandelse. Hvem kunne denne udstødte være?",
+  "clues": [
+    "Jeg fremkom under en stor profets fravær, som var steget op for at modtage guddommelig vejledning.",
+    "Jeg bragte en stor mængde på afveje med noget, jeg selv havde fremstillet.",
+    "Den gyldne kreation, jeg frembragte, syntes at have liv og frembragte lyde, der fascinerede dem, der fulgte den.",
+    "Jeg påstod at have set, hvad andre ikke kunne opfatte – et glimt ind i det usete.",
+    "Jeg trak noget fra den guddommelige budbringers spor og støbte det til smeltet metal.",
+    "Jeg var dømt til at vandre alene, med en enestående forbandelse om, at ingen måtte røre min hud, og jeg måtte heller ikke røre deres."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Farao (Fir'awn)",
+        "Abu Lahab",
+        "Profeten Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Skabte en guldkalv til tilbedelse",
+        "Byggede et tårn, der nåede himlen",
+        "Udfordrede Egyptens troldmænd",
+        "Ledte en hær med flyvende dyr",
+        "Del månen som bevis på profetskab"
+      ],
+      "answer": "Skabte en guldkalv til tilbedelse"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Guldkalven",
+        "En stav der forvandlede sig til en slange",
+        "En brændende busk på et bjerg",
+        "En ark hviler på en top",
+        "En skyttegrav fyldt med flammende ild"
+      ],
+      "answer": "Guldkalven"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Forvist, forbudt at blive berørt eller røre andre",
+        "Druknede i havet sammen med en hær",
+        "Brændt levende for at afvise tro",
+        "Ramt ned af en voldsom, brølende vind",
+        "Tilgivet og ophøjet til en høj stilling"
+      ],
+      "answer": "Forvist, forbudt at blive berørt eller røre andre"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

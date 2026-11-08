@@ -1,0 +1,61 @@
+{
+  "title": "Epekiseli na Ndako ya Kala",
+  "intro": "Na engumba mosantu, moto moko ya nguya atombolaki nkanda ntango nsango ya sika ebandaki kopalangana. Moto oyo, oyo nkombo na ye ekomaki synonyme na botɛmɛli na solo, atalaki bopusi na bango kobukana na nse ya kilo ya emoniseli ya bonzambe. Molimo oyo ezalaki nani, oyo nsuka na ye ekangamaki na zelo ya esika moko ya etumba oyo eyebani mingi?",
+  "clues": [
+    "Nazalaki mokonzi kati na bato na ngai, ayebanaki mpo na bozwi mpe bopusi na ngai na engumba oyo ezalaki na esika mosantu ya kala.",
+    "Ntango mobali moko ya libota na ngai abandaki kosakola nsango ya Nzambe moko, nasekaki ye mpe bimoniseli na ye, kobenga yango kaka masapo ya kala.",
+    "Nakutanaki na mobali wana ntango azalaki kobondela pene na ndako mosantu, kobangisaka ete nakotika losambo na ye na makasi soki esengeli.",
+    "Nazalaki kati na bakambi oyo basalaki mwango mpo na kokanga monɔkɔ ya kondima ya sika, kotɛmɛlaka balandi na yango na maloba mpe na bibundeli.",
+    "Natambolaki elongo na limpinga moko kino na esika moko babengi Badr, na elikya ete tokonyata etuluku moke ya bandimi.",
+    "Kasi na esika wana ya etumba, bomoi na ngai ekómaki na nsuka, mpe liwa na ngai ekómaki liteya mpo na baoyo bazali kotingama na kozanga kondima nsima ya bilembo ya polele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Abu Jahl azali moto ya mayele",
+        "Abu Sufyan ibn Harb azali moto ya mayele",
+        "Al-Nadr ibn al-Harith, oyo azali na mbula 19",
+        "Umayyah ibn Khalaf azali moto ya mayele",
+        "Utbah ibn Rabi’ah, oyo azali na mbula 19"
+      ],
+      "answer": "Abu Jahl azali moto ya mayele"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kopekisa Ntoma kosambela na Kaaba",
+        "Kotonga Kaaba",
+        "Kokoma Coran",
+        "Kokamba mampinga ya ngando",
+        "Kokabola sanza"
+      ],
+      "answer": "Kopekisa Ntoma kosambela na Kaaba"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ba Kaaba",
+        "Sanduku ya Profeta Nuh",
+        "Ba Staff ya Prophète Musa",
+        "Mwana ya Ngombe ya Wolo",
+        "Kiti ya Bokonzi ya Mokonzi-mwasi ya Seba"
+      ],
+      "answer": "Ba Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Babomamaki na etumba ya Badr",
+        "Abongoli motema mpe akomaki musulman",
+        "Akimaki na Abyssinia",
+        "Akufaki na Mobu ya Ngando",
+        "Akomaki moninga ya Ntoma"
+      ],
+      "answer": "Babomamaki na etumba ya Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

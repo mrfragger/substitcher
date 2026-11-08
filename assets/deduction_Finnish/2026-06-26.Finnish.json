@@ -1,0 +1,61 @@
+{
+  "title": "Hylätyn lahjan taakka",
+  "intro": "Ihmiskunnan historian aamunkoitteessa, kun maa oli vielä nuori ja maailma pidätti ensimmäistä henkäystään, sielu seisoi Luojan edessä nöyrä uhri. Tämä uhri punnittiin jumalallisen hyväksynnän vaa'alla – ja todettiin puutteelliseksi. Seurauksena ei ollut anteeksiannon kertomus, vaan kateuden nielaisema sydän, joka johti peruuttamattomaan tekoon, joka kaikuisi läpi aikojen. Tämä on tarina miehestä, jonka nimestä tuli synonyymi ensimmäiselle koskaan tehdylle vakavalle vääryydelle.",
+  "clues": [
+    "Tulin maailmaan yhtenä ensimmäisistä koskaan syntyneistä lapsista, vanhemmalle, jonka tarinan tunnet hyvin.",
+    "Kerran uhrasin uhrin Allahille, mutta sitä ei minulta hyväksytty – vaikka sisarukseni uhri otettiinkin vastaan ​​armollisesti.",
+    "Kateus ja raivo juurtuivat sydämeeni, ja uhkasin lopettaa omien sukulaisteni hengen.",
+    "Sisareni varoitti minua pelkäämään Allahia, mutta ylpeyteni ei antanut minun totella.",
+    "Kauhean heikkouden hetkellä tein sanoinkuvaamattoman teon omalle veljelleni.",
+    "Jälkeenpäin en edes tiennyt, miten salaisin tekoni – kunnes maan olento lähetettiin opettamaan minua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Profeetta Nooan poika",
+        "Profeetta Isma'il",
+        "Profeetta Yusuf"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Uhrin tarjoaminen, joka hylättiin, mikä johti ensimmäiseen murhaan",
+        "Korkean tornin rakentaminen taivaisiin yltääkseen",
+        "Heitetään raivoavaan tuleen uskonsa puolesta",
+        "Oman pojan uhraaminen kuuliaisena Allahille",
+        "Joutua suuren kalan nielaistavaksi velvollisuuksiensa pakenemisen vuoksi"
+      ],
+      "answer": "Uhrin tarjoaminen, joka hylättiin, mikä johti ensimmäiseen murhaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Allahin lähettämä varis hautaamisen demonstroimiseksi",
+        "Suuri tulva, joka hukutti kokonaisen kansan",
+        "Sauva, joka muuttui eläväksi käärmeeksi",
+        "Naaraskameli, joka nousi kalliovuoresta",
+        "Mahtava valtaistuin, jota mahtavat tuulet kantavat"
+      ],
+      "answer": "Allahin lähettämä varis hautaamisen demonstroimiseksi"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Muutuin katuvaksi, ensimmäisen koskaan tehdyn rikoksen taakaksi",
+        "Allah antoi anteeksi ja antoi ikuisen paratiisin",
+        "Nostettiin profetian ja viisauden korkealle asemalle",
+        "Pelastui jumalallisen armon kautta kutsuttuaan pimeyden syvyyksistä",
+        "Sai vallan džinnien, tuulen ja merien yli"
+      ],
+      "answer": "Muutuin katuvaksi, ensimmäisen koskaan tehdyn rikoksen taakaksi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

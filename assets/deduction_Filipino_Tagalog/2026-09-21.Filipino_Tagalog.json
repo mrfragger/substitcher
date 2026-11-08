@@ -1,0 +1,61 @@
+{
+  "title": "Ang Sigaw Mula sa Kalaliman",
+  "intro": "Isang lingkod ng Pinakamaawain ang nagsawa sa isang matigas ang ulong bansa at umalis bago pa man mabigyan ng pahintulot. Ang taong ito ay napunta sa isang lugar na hindi pa napupuntahan ng sinuman, kung saan ang tawag sa Banal ay kakaibang umalingawngaw sa gitna ng kadiliman. Lumalabas na nanghihina ngunit nagbago, ang kaluluwang ito ay naging isang walang-kupas na aral sa pagtitiis, taos-pusong pagsisisi, at sa walang hanggang awa ng Lumikha. Malulutas mo ba ang misteryo?",
+  "clues": [
+    "Ako ay isinugo bilang isang sugo sa aking mga tao, ngunit sila ay lumampas sa lahat ng hangganan sa kanilang kawalan ng paniniwala at tumangging makinig.",
+    "Nagalit ako sa kanilang pagtanggi at tumakas mula sa aking mga kababayan bago pa dumating ang utos ni Allah.",
+    "Sumakay ako sa isang barkong puno ng sobra, at nagpalabunutan kami para malaman kung sino ang itatapon sa dagat.",
+    "Itinapon ako sa nagngangalit na dagat at nilunok ng isang malaking isda.",
+    "Nakulong sa tatlong patong ng kadiliman — ang tiyan, ang malalim na dagat, at ang lupa sa ilalim — ako'y tumawag sa aking Panginoon nang may taos-pusong pagsisisi.",
+    "Lumabas ako mula sa isda patungo sa malawak na dalampasigan, nanghihina at pagod, at isang halaman ng upo ang tumubo sa ibabaw ko. Ang aking mga kababayan, isandaang libo o higit pa, ay sa wakas ay naniwala."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Yunus",
+        "Propeta Ayyub",
+        "Propeta Yusuf",
+        "Propeta Musa",
+        "Propeta Sulaiman"
+      ],
+      "answer": "Propeta Yunus"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Nilunok ng isang malaking isda",
+        "Itinapon sa nagliliyab na apoy",
+        "Nakulong sa ilalim ng balon",
+        "Natabunan ng matinding baha",
+        "Ikinulong nang hindi makatarungan ng isang hari"
+      ],
+      "answer": "Nilunok ng isang malaking isda"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang tiyan ng isang malaking isda",
+        "Ang sagradong lambak malapit sa Kaaba",
+        "Isang arka na nakapatong sa isang bundok",
+        "Isang tungkod na naging ahas",
+        "Isang trono na may walang kapantay na kadakilaan"
+      ],
+      "answer": "Ang tiyan ng isang malaking isda"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ang kanyang mga tao, isandaang libo o higit pa, ay naniwala",
+        "Binuhay na buhay sa kalangitan",
+        "Naging pinuno ng isang walang kapantay na kaharian",
+        "Nawasak ng isang malakas na sigaw mula sa langit",
+        "Binaligtad ng isang mapaminsalang lindol"
+      ],
+      "answer": "Ang kanyang mga tao, isandaang libo o higit pa, ay naniwala"
+    }
+  },
+  "verseRef": "37:147",
+  "arabic": "وَأَرْسَلْنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ",
+  "verse": "And We sent him to [his people of] a hundred thousand or more. (37:147)"
+}

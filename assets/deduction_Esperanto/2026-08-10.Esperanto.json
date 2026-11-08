@@ -1,0 +1,61 @@
+{
+  "title": "La Gardantoj de la Sekreta Rikolto",
+  "intro": "En verda lando, grupo da individuoj faris sekretan planon sub la kovro de mallumo. Ili havis komunan celon, sed ilia intenco estis malproksima de justa. Ili tute ne sciis, ke dia surprizo atendis ilin dum ili dormis.",
+  "clues": [
+    "Ni faris firman decidon, pensante ke nia plano estas perfekta.",
+    "Ni intencis eliri frue, antaŭ ol aliaj eĉ povus moviĝi.",
+    "Ni ekiris sur fekundan terenon, fidante niajn provizojn.",
+    "Kiam ni atingis nian cellokon, ni trovis ĝin dezerta kaj senhoma, do ni pensis, ke ni perdiĝis.",
+    "Tiam ni komprenis, ke ĝi efektive estis nia loko, kaj ni kriis pro malespero, kulpigante unu la alian pro nia perdo.",
+    "Ni ĵuris tiun matenon ekskludi la malriĉulojn de nia rikolto, sed la puno de Alaho venis sur nin dum ni dormis, igante nian ĝardenon ruino."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiuj Ni Estas?",
+      "options": [
+        "La Posedantoj de la Ĝardeno en Surao 68",
+        "La popolo de Saba",
+        "La Kunuloj de la Kaverno",
+        "La Popolo de la Elefanto",
+        "La Homoj de la Tranĉeo"
+      ],
+      "answer": "La Posedantoj de la Ĝardeno en Surao 68"
+    },
+    "trial": {
+      "label": "Nia Testo",
+      "options": [
+        "Nian ĝardenon detruis katastrofo el la ĉielo",
+        "Nian ĝardenon balais inundo",
+        "Nia ĝardeno estis bruligita de fajro de malamiko",
+        "Nia ĝardeno estis plena de akridoj",
+        "Nian ĝardenon englutis tertremo"
+      ],
+      "answer": "Nian ĝardenon detruis katastrofo el la ĉielo"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Ni ĵuris pluki ĝiajn fruktojn matene",
+        "Ni konstruis digon por irigacii nian ĝardenon",
+        "Ni serĉis rifuĝon en kaverno por protekto",
+        "Ni pretigis armeon por konkeri regnon",
+        "Ni velis ŝipon por transiri la maron"
+      ],
+      "answer": "Ni ĵuris pluki ĝiajn fruktojn matene"
+    },
+    "outcome": {
+      "label": "Nia Sorto",
+      "options": [
+        "Ni pentis kaj esperis kompaton de Alaho",
+        "Ni estis tute detruitaj kaj neniam pentis",
+        "Ni fuĝis el la lando kaj neniam revenis",
+        "Ni denove fariĝis potencaj kaj riĉaj",
+        "Ni estis punitaj per transformiĝo en simiojn"
+      ],
+      "answer": "Ni pentis kaj esperis kompaton de Alaho"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A hajthatatlan tekintély",
+  "intro": "Az ősi földeken egykor egy hatalmas hatalom uralkodott, amely hatalmas erőforrások és számtalan ember élete felett rendelkezett. Az egyértelmű jelek és figyelmeztetések ellenére ez az uralkodó a dac útját választotta, ami mély konfrontációhoz vezetett, amely az idők során visszhangra talált.",
+  "clues": [
+    "Végső hatalmat és tekintélyt követeltem egy hatalmas terület felett.",
+    "Kihívtam egy alázatos hírnököt, akit a minden birodalmak Ura küldött.",
+    "Az én népem a grandiózus építmények és a civilizációnkat fenntartó folyó mesteri építéséről volt ismert.",
+    "Sok csodálatos jelnek voltam tanúja, többek között egy botnak, amely kígyóvá változott, és egy kéznek, amely fényesen izzott.",
+    "Nem engedtem, hogy egy csoport rabszolgasorba taszított ember elhagyja a földemet, az isteni parancsok ellenére.",
+    "A távozó nép üldözése engem és seregeimet egy kettéosztott tenger szívébe vezetett."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Juszuf próféta",
+        "Talut király",
+        "Fir'awn (fáraó)",
+        "Dawud próféta",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (fáraó)"
+    },
+    "trial": {
+      "label": "Kulcsfontosságú konfrontáció",
+      "options": [
+        "Az árvíz, amely elöntötte a földet",
+        "A tenger kettéhasadása",
+        "Az égő csipkebokor",
+        "A Kába építése",
+        "A pusztítást egy erős szél okozta"
+      ],
+      "answer": "A tenger kettéhasadása"
+    },
+    "location": {
+      "label": "Meghatározó aspektus",
+      "options": [
+        "Egy beszélő állat",
+        "Egy személyzet és egy izzó kéz",
+        "Egy csodálatos születés",
+        "Egy repülő szőnyeg",
+        "Egy fenséges trón a vízen"
+      ],
+      "answer": "Egy személyzet és egy izzó kéz"
+    },
+    "outcome": {
+      "label": "Végső sors",
+      "options": [
+        "Felszállt a mennyekbe",
+        "Elnyelte a föld",
+        "Megfulladt a tengerben",
+        "Majommá változott",
+        "Hatalmas vagyonnal és hatalommal adva"
+      ],
+      "answer": "Megfulladt a tengerben"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

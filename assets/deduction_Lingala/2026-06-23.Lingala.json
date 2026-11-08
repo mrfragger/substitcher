@@ -1,0 +1,61 @@
+{
+  "title": "Mobateli oyo ezali pembenipembeni ya Ebale",
+  "intro": "Na mboka oyo mobeko ya mokonzi moko ya mobulu ememaki mawa na bandako mingi, molimo moko ezwaki nsango oyo ezalaki koboya bobangi nyonso. Na motema etondi na bondimi, babandaki mosala ya kondima oyo ekobongola nzela ya ekolo. Wana mai ezalaki komema mokumba ya motuya, elikya esanganaki na mipepe.",
+  "clues": [
+    "Nazalaki na eleko ya minyoko mpe ya bobangi.",
+    "Nazwaki bofuli ya bonzambe oyo epesaki ngai mpiko.",
+    "Bapesaki ngai mitindo ete nabanga te to nayoka mawa te.",
+    "Natyaki mwana na ngai na sanduku moko mpe natyaki yango likoló ya mai.",
+    "Mwana na ngai azwamaki na ndako ya mokonzi, kasi mwana na ngai mosusu alandaki.",
+    "Nakutanaki lisusu na mwana na ngai mpo na komɛlisa ye mabɛlɛ, kaka ndenge Allah alakaki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mama ya Moize",
+        "Mwasi ya Farao",
+        "Ndeko mwasi ya Moize",
+        "Mama na Yesu",
+        "Mokonzi-mwasi ya Seba"
+      ],
+      "answer": "Mama ya Moize"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Kozala na bofuli mpo na kobwaka mwana na ebale",
+        "Kozala défi na duel ya magie",
+        "Kolandama na basoda moko",
+        "Kokatisa mbu oyo ekabwanaki",
+        "Kotonga ndako ya bule"
+      ],
+      "answer": "Kozala na bofuli mpo na kobwaka mwana na ebale"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Sanduku oyo batye na ebale",
+        "Nzete moko oyo ezali kozika",
+        "Nzete oyo ebongwanaki nyoka",
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Kiti ya bokonzi"
+      ],
+      "answer": "Sanduku oyo batye na ebale"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bazongisaki mwana yango malamu mpo na komɛlisa mwana mabɛlɛ",
+        "Mwana yango abungaki libela",
+        "Bamemaki mwana yango na mboka moko ya mosika",
+        "Mwana yango akómaki mokonzi mbala moko",
+        "Moto moko ya mombongo oyo azalaki na bozwi mingi azwaki mwana yango lokola mwana na ye"
+      ],
+      "answer": "Bazongisaki mwana yango malamu mpo na komɛlisa mwana mabɛlɛ"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

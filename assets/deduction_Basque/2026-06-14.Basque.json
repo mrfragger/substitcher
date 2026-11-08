@@ -1,0 +1,61 @@
+{
+  "title": "Ondare bat utzi zuen sugarra",
+  "intro": "Erresistentziaren analetan, badago figura bat, zeinaren izena bera denboraren amaierarako abisu bihurtu zen. Pertsona honek etsaitasuna aukeratu zuen ahaidetasunaren gainetik, desafioa men egitearen gainetik, eta errukiaren dei bati aurre egin zion. Entzun arretaz antzinako aldarrikapen baten oihartzunak arima ospetsu honen identitatea aurkitzen dugun bitartean.",
+  "clues": [
+    "Alaren azken mezulariaren klan berean jaio nintzen, baina uneoro haien aurka egin nuen.",
+    "Nire izenak esanahia zuen —'surraren aita' esan nahi zuen izenak, nire betiko patua iragarriko zuen izenak.",
+    "Egiaren eramailearen aurka kaltea askatu nuen, eta nire etxekoek ere bat egin zuten krudelkeria kanpaina honetan.",
+    "Nire aberastasuna eta eragina erabili nituen Ala-ri egindako deia isilarazteko, diruak jainkozko argia itzali zezakeela sinetsita.",
+    "Alak kapitulu oso bat eskaini zidan —hain laburra den kapitulua, non segundotan errezitatu daitekeen, baina bere pisua Judizioaren Egunera arte iraungo duen.",
+    "Nire Laguna Hemendik Atzetik doa, zuntz-soka batez lepoan lotuta, lehen zabaltzen zituzten arantza berberak eramanez."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Konfrontazioa definitzea",
+      "options": [
+        "Profetaren aurkako oposizioa gidatzen Mekan",
+        "Jazarpenetik ihes egiteko Abisiniara migratu",
+        "Kaaba eraikitzen Ibrahim profetarekin",
+        "Islama onartzea heriotza-ohean",
+        "Hudaybiyyahko Ituna landuz"
+      ],
+      "answer": "Profetaren aurkako oposizioa gidatzen Mekan"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Arantzak eta egurra zeramatzan emaztea",
+        "Suge bihurtu zen makila",
+        "Salomonen zigilua duen eraztun bat",
+        "Herriak gurtzen zuen urrezko txahal bat",
+        "Ura jario zuen iturburu bat"
+      ],
+      "answer": "Arantzak eta egurra zeramatzan emaztea"
+    },
+    "outcome": {
+      "label": "Azken Kontua",
+      "options": [
+        "Sura oso batek hondamendi osoa deklaratzen du",
+        "Musulman komunitateko buruzagi bihurtu zen",
+        "Heriotzaren unean barkamena jaso zuen",
+        "Medinan meskita handi bat eraiki zuen",
+        "Zuzenen artean berpiztu zen"
+      ],
+      "answer": "Sura oso batek hondamendi osoa deklaratzen du"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

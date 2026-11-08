@@ -1,0 +1,61 @@
+{
+  "title": "Galma vajāšana",
+  "intro": "Varas gaiteņos kāda augsta statusa persona iemīlējās kalpā, kura skaistums bija pārdabisks. Šī iemīlēšanās noveda pie virknes notikumu, kas pārbaudīja lojalitāti, atklāja slēptas patiesības un galu galā apstiprināja kalpa nevainību.",
+  "clues": [
+    "Es dzīvoju Nīlas zemē, ietekmīgā pilī.",
+    "Manā mājā ienāca jauns vīrietis, un viņa klātbūtne satrauca manu pasauli.",
+    "Es mēģināju viņu pavedināt, bet viņš meklēja patvērumu pie sava Kunga.",
+    "Es saplēsu viņa apģērbu no aizmugures, bet pierādījumi liecināja par manu viltību.",
+    "Lai apklusinātu dižciltīgo sieviešu tenkas, es uzaicināju viņas uz salidojumu un ieliku viņām rokās asus priekšmetus.",
+    "Beigās es publiski atzinos savā vainā, atzīstot patiesību ķēniņa priekšā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Al-Aziza sieva",
+        "Asija (faraona sieva)",
+        "Bilkise (Šebas karaliene)",
+        "Marija (Īsas māte)",
+        "Musas māte"
+      ],
+      "answer": "Al-Aziza sieva"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Viņa mēģināja pavedināt pravieti Jusufu",
+        "Viņa mēģināja nogalināt pravieti Musu",
+        "Viņa apgalvoja, ka ir dieviete",
+        "Viņa uzcēla torni, lai izaicinātu Allāhu",
+        "Viņa vadīja armiju pret Meku"
+      ],
+      "answer": "Viņa mēģināja pavedināt pravieti Jusufu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Krekls saplēsts no muguras",
+        "Zelta teļš",
+        "Personāla, kas pārvērtās par čūsku",
+        "Kamielis-mātīte",
+        "Lampa"
+      ],
+      "answer": "Krekls saplēsts no muguras"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņa atzinās un atzina patiesību",
+        "Viņa noslīka kopā ar savu armiju",
+        "Viņa pārvērtās par sāls stabu",
+        "Viņu aprija zeme",
+        "Viņu iznīcināja kliedzošs vējš"
+      ],
+      "answer": "Viņa atzinās un atzina patiesību"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

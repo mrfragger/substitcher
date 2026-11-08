@@ -1,0 +1,61 @@
+{
+  "title": "Horjumaton totuuden kutsuja",
+  "intro": "Sanansaattaja seisoo yksin itsepäisen kansan keskellä kutsuen heitä Yhden Todellisen Jumalan luo, vaikka he itse pysyvät kiinni väärissä epäjumalissa. Tämän profeetan nimi kaikuu voimakkaalla merkityksellä – \"suojaa etsivä\" – mutta saa osakseen vain torjuntaa ja kieltämistä. Lempeän suostuttelun ja lujan varoituksen kautta tämä sielu kantaa jumalallista viestiä, jonka itse maailmankaikkeus lopulta puolustaa. Voitko tunnistaa tämän järkkymättömän hahmon, joka edustaa yhtä islamilaisten pyhien kirjoitusten vanhimmista kertomuksista?",
+  "clues": [
+    "Kansani palvoi monia jumalia, kun minä kutsuin heidät palvelemaan Häntä, joka loi taivaat ja maan.",
+    "Seisoin kansani edessä ja julistin, etten pyytäisi heiltä mitään palkkiota – ainoa toiveeni oli heidän opastuksensa vanhurskauteen.",
+    "Kansalleni lähetettiin suuri tuuli jumalallisena rangaistuksena, tuuli, josta Koraani puhuu sekä monikossa että feminiinissä.",
+    "Toisin kuin jotkut profeetat, minulle ei annettu kertomuksessani näkyvästi mainittua vaimoa tai lapsia, sillä tehtäväni oli kutsua kansani yksin.",
+    "Nimelläni on syvä merkitys – se liittyy ihmisen etsimän suojelun ja turvapaikan käsitteeseen.",
+    "Kansani tunnettiin tietyllä maantieteellisellä nimellä laakson mukaan, jossa he asuivat, ja heidän maataan kuvailtiin erityisen halveksivasti sen kasvillisuuden puutteen vuoksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Hud",
+        "Profeetta Salih",
+        "Profeetta Shu'aib",
+        "Profeetta Nooa",
+        "Profeetta Hudayb"
+      ],
+      "answer": "Profeetta Hud"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Maan tulva",
+        "Polttava tuuli",
+        "Tuhon maanjäristys",
+        "Kuivuus ja nälänhätä",
+        "Hukkuminen mereen"
+      ],
+      "answer": "Polttava tuuli"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Jemenin hedelmällinen laakso",
+        "Midianin hiekkainen autiomaa",
+        "Thamudin kallioinen laakso",
+        "Ad-kansan muinainen maa",
+        "Egyptin rannikkoalue"
+      ],
+      "answer": "Ad-kansan muinainen maa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Kansani katui ja astui paratiisiin",
+        "Kukaan kansalainenni ei selvinnyt rangaistuksesta",
+        "Minut nostettiin elävältä ylös kuten veljeni Yunus",
+        "Muutin seuraajieni kanssa siunattuun maahan",
+        "Tuuli tuhosi vain uskottomat, uskovat selvisivät"
+      ],
+      "answer": "Kukaan kansalainenni ei selvinnyt rangaistuksesta"
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

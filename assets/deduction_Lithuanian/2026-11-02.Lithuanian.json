@@ -1,0 +1,61 @@
+{
+  "title": "Nepalenkiamas sąjungininkas aukso išbandyme",
+  "intro": "Didžiojo pranašo šešėlyje buvo pasirinkta iškalbinga ir tikinti siela, kuri padėjo atlikti monumentalią misiją. Ši asmenybė tvirtai stovėjo, kai minios svyravo, pamokslaudama prieš akivaizdų nusižengimą, kuris kėlė grėsmę pačiai monoteizmo esmei. Kai pranašas sugrįžo pamatyti žmonių nuopuolio, ši asmenybė gynėsi ne kaltės, o pareigos ir susiskaldymo baimės išraiška. Kas yra šis atsidavęs Alacho tarnas?",
+  "clues": [
+    "Mane Alachas pasirinko šventai pareigai kartu su kita, o mano vaidmuo buvo remti ir skelbti.",
+    "Man buvo suteikta aiški kalba, ir aš lydėjau pasiuntinį, kad susidurčiau su galingu engėju.",
+    "Svarbios kelionės metu pasiuntinys vienas užkopė į kalną, palikdamas mane stebėti žmones.",
+    "Jiems nesant, žmonės nulipdė auksinę statulą, ir aš maldavau jų likti ištikimiems, bet jie atsisakė mano patarimo.",
+    "Kai pasiuntinys grįžo kupinas pykčio ir sielvarto, mane apėmė, bet paaiškinau, kad buvau įveiktas ir bijau sukelti tarp jų nesantaiką.",
+    "Aš esu pranašas, kuris stovėjo šalia savo brolio Mozės, dalindamasis jo našta ir tvirtai priešindamasis stabmeldystei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Harunas",
+        "Pranašas Musa",
+        "Pranašas Isa",
+        "Pranašas Dawudas",
+        "Pranašas Zakarija"
+      ],
+      "answer": "Pranašas Harunas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Žmonės garbino auksinį veršį nepaisydami perspėjimų",
+        "Žmonės įmetė mane į liepsnojančią ugnį",
+        "Mane prarijo didelė žuvis",
+        "Buvau įkalintas dėl melagingų kaltinimų",
+        "Buvau ištremtas iš savo miesto už pamokslavimą"
+      ],
+      "answer": "Žmonės garbino auksinį veršį nepaisydami perspėjimų"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršelis",
+        "Degantis krūmas",
+        "Lazdelė, kuri virto gyvate",
+        "Sandoros lentelės",
+        "Sandoros skrynia"
+      ],
+      "answer": "Auksinis veršelis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Buvau išteisintas ir tęsiau savo pranašišką misiją",
+        "Buvau nubaustas už žmonių nuodėmes",
+        "Man buvo duota nauja tauta vadovauti",
+        "Aš buvau gyvas paimtas į dangų",
+        "Buvau paskirtas karalystės valdovu"
+      ],
+      "answer": "Buvau išteisintas ir tęsiau savo pranašišką misiją"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

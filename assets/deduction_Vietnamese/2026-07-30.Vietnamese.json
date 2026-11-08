@@ -1,0 +1,61 @@
+{
+  "title": "Những vị khách lạ của một thành phố có tường bao quanh",
+  "intro": "Một nhóm người đến cổng thành của một nơi mà cư dân chưa bao giờ biết đến sự thật. Họ mang theo một thông điệp, nhưng cư dân nơi đây trở nên thù địch, đe dọa bạo lực. Tuy nhiên, từ một nơi không ngờ tới, một giọng nói đơn độc vang lên để bảo vệ những người lạ mặt, tạo tiền đề cho một bước ngoặt đầy kịch tính.",
+  "clues": [
+    "Chúng tôi bước vào một thành phố mà người dân đang chìm trong sự ng disbelief.",
+    "Họ nhìn chúng tôi với vẻ nghi ngờ và nói: \"Các anh chỉ là những người bình thường như chúng tôi thôi.\"",
+    "Chúng tôi đã cảnh báo họ, nhưng họ lại ném đá vào chúng tôi.",
+    "Một người đàn ông đã vội vã từ tận cùng thành phố đến để khẳng định sự thật của chúng ta.",
+    "Ông tuyên bố với dân chúng rằng: \"Tại sao tôi không nên thờ phượng Đấng đã tạo ra tôi?\"",
+    "Sự phủ nhận của thành phố kết thúc bằng một tiếng nổ duy nhất, và sự im lặng bao trùm nơi mà trước đây họ từng chế giễu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chúng tôi là ai?",
+      "options": [
+        "Các Sứ giả của Ya-Sin",
+        "Các môn đồ của Isa",
+        "Những người dân của chiến hào",
+        "Các pháp sư của Pharaoh",
+        "Người tin của Ya-Sin"
+      ],
+      "answer": "Các Sứ giả của Ya-Sin"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Từ chối và đe dọa ném đá",
+        "Bị ném vào ngọn lửa dữ dội",
+        "Thử thách lòng kiên nhẫn với một đứa trẻ bị lạc",
+        "Một khu vườn đã bị tàn phá.",
+        "Một cuộc hành trình xuyên biển"
+      ],
+      "answer": "Từ chối và đe dọa ném đá"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Nơi xa nhất của thành phố",
+        "Biển Đỏ",
+        "Con hào lửa",
+        "Hang động trú ẩn",
+        "Nhà tù Ai Cập"
+      ],
+      "answer": "Nơi xa nhất của thành phố"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Thành phố đã bị phá hủy chỉ bằng một tiếng hét.",
+        "Biển rẽ ra và nhấn chìm toàn bộ quân đội.",
+        "Ngọn lửa đã nguội và an toàn.",
+        "Khu vườn bị thiêu rụi bởi một ngọn lửa từ trời.",
+        "Con cá voi đưa người đó trở lại bờ."
+      ],
+      "answer": "Thành phố đã bị phá hủy chỉ bằng một tiếng hét."
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

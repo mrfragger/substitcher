@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Kimya Katika Chumba",
+  "intro": "Sala ilirudiwa katika utulivu wa chumba kitakatifu zamani sana, ikiinuka kutoka kwa roho iliyozeeka ikitamani kile ambacho ulimwengu ulikuwa umekitangaza kuwa hakiwezekani. Mtu huyu, mzee na mwenye mzigo wa wasiwasi kwa ajili ya wakati ujao, alimgeukia Bwana wao kwa dua ya kibinafsi. Kilichofuata kilikuwa jibu la kimungu ambalo lilipinga kila matarajio ya asili—ushuhuda wa rehema ya Yule anayejibu wito wa kukata tamaa.",
+  "clues": [
+    "Nilimwomba Mola wangu faraghani, nikijitenga na chumba ambapo nilijitoa kwa ajili ya ibada Yake.",
+    "Nilikiri kwa Mola wangu kwamba nilikuwa nawaogopa wale watakaokuja baada yangu, nilikuwa na wasiwasi kuhusu mwongozo wa watu wangu mara tu nitakapoondoka.",
+    "Uzee ulikuwa umenishinda—mifupa yangu ilikuwa imedhoofika na nywele nyeupe zilikuwa zimeenea kichwani mwangu.",
+    "Mke wangu alikuwa tasa maisha yake yote, lakini bado nilimwomba Bwana wangu anipe mrithi kutoka uweponi mwake.",
+    "Niliomba ishara, na Bwana wangu akajibu kwa kunizuia kuzungumza na mtu yeyote kwa usiku tatu, huku nikibaki salama kimwili.",
+    "Niliahidiwa mwana ambaye jina lake lingekuwa Yahya, jina ambalo Bwana wangu alitangaza kuwa halijawahi kupewa mtu yeyote hapo awali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Zakaria",
+        "Nabii Nuh",
+        "Nabii Musa",
+        "Nabii Yusufu",
+        "Nabii Daudi"
+      ],
+      "answer": "Nabii Zakaria"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kuomba mrithi katika uzee na mwenzi tasa",
+        "Kutupwa kwenye moto unaowaka",
+        "Kumezwa na samaki mkubwa gizani",
+        "Kuvumilia kupoteza familia, utajiri, na afya",
+        "Kuamriwa kujenga safina kubwa"
+      ],
+      "answer": "Kuomba mrithi katika uzee na mwenzi tasa"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Chumba cha maombi (mihrab)",
+        "Fimbo iliyobadilika na kuwa nyoka",
+        "Sanduku kubwa la mbao",
+        "Bustani yenye chemchemi ya kipekee",
+        "Mlima ambapo ndege hukusanyika"
+      ],
+      "answer": "Chumba cha maombi (mihrab)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Alimpa mtoto wa kiume jina la kimiujiza licha ya uzee wake kupita kiasi",
+        "Kuokolewa kutoka kwa moto unaowaka kwa amri ya Mungu",
+        "Gharika kubwa iliwaangamiza makafiri",
+        "Kurejeshwa kwenye familia, utajiri, na afya baada ya uvumilivu",
+        "Farao na jeshi lake walizama baharini"
+      ],
+      "answer": "Alimpa mtoto wa kiume jina la kimiujiza licha ya uzee wake kupita kiasi"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

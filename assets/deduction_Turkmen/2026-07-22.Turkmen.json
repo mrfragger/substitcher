@@ -1,0 +1,61 @@
+{
+  "title": "Guýunyň çuňluklaryndan",
+  "intro": "Ýaş ruhuň syýahaty asman jisimleriniň hormat bilen baş egýändiginiň güýçli keşbi bilen başlady. Bu şahsyýetiň durmuşy iň ýakyn adamlaryň iň çuňňur dönükligi, ondan soň ýyllarboýy gulçulyk we nähak tussaglyk bilen alamatlandy. Şeýle-de bolsa, berk ynam we ylahy ýol görkezijilik arkaly bu şahsyýet iň aşaky çukurdan beýikleşip, beýik imperiýanyň iň güýçli adamlarynyň birine öwrüldi. Allanyň bu ajaýyp gulunyň kimligini açyp bilersiňizmi?",
+  "clues": [
+    "Maňa on bir ýyldyzyň, günüň we aýyň öňümde sežde edýändigi görkezildi",
+    "Men ene-atamyň iň söýgüli çagasydym, bu bolsa doganlarymyň arasynda göriplik döretdi",
+    "Meni öz doganlarym tutup, eşiklerimi çykaryp, çuň, garaňky guýuya taşladylar",
+    "Meni bazarda haryt hökmünde satdylar we watanymdan uzaklara äkiddiler",
+    "Güýçli bir aýal meniň namysyma degmäge synanyşdy we men onuň tekliplerini ret edendigim üçin türmä basyldym",
+    "Men düýş ýormak sowgady bilen bereketlendim we ýatdan çykarylan tussagdan Müsüriň baş ministri derejesine ýetdim"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ýusup pygamber",
+        "Musa pygamber",
+        "Dawut pygamber",
+        "Eýýup pygamber",
+        "Süleýman pygamber"
+      ],
+      "answer": "Ýusup pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Öz doganlary tarapyndan çuň guýa taşlanmak",
+        "Dünýä boýunça uly sil heläkçiliginden aman galmak",
+        "Ýanýan peje taşlanýar",
+        "Söweş meýdanynda ägirt uly esger bilen söweşmek",
+        "Uly balyk tarapyndan ýuwutulýar"
+      ],
+      "answer": "Öz doganlary tarapyndan çuň guýa taşlanmak"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Çölde çuňňur, gurak guýy",
+        "Dagyň depesinde uly agaç sandyk",
+        "Ýylana öwrülen taýak",
+        "Beýik şöhratly ajaýyp tagt",
+        "Sapan we bäş sany ýumşak daş"
+      ],
+      "answer": "Çölde çuňňur, gurak guýy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Müsüriň baş ministri wezipesine çykdy we söýgüli maşgalasy bilen gaýtadan duşuşdy",
+        "Beýik gämi gurdy we adamlary imana çagyrdy",
+        "Müsürde tutuş bir milleti gulçulykdan çykardy",
+        "Görünmeýän zadyň üstünden patyşalyk we höküm sürmek berildi",
+        "Agyr kesel wagtynda sabyr berildi we sagaldy"
+      ],
+      "answer": "Müsüriň baş ministri wezipesine çykdy we söýgüli maşgalasy bilen gaýtadan duşuşdy"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

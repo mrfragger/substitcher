@@ -1,0 +1,61 @@
+{
+  "title": "Etxe Sakratuaren aurkako erronka egin zuen nazioa",
+  "intro": "Antzinaroan, nazio boteretsu batek sinestunek gurtzen zuten santutegi bat erasotzea erabaki zuen. Talde hau aberatsa, ahaltsua eta bere indar militarrean konfiantza zuena zen. Gerrako arma gisa balioko zien izaki erraldoi bat ekarri zuten eurekin. Haien helburua argia zen: etxe sakratua eraitsi eta bertako herriaren fedea zapaltzea. Baina haien harrokeriak goitik jasoko zuen erantzun suntsitzailea. Gertaera historiko hau seinale eta ikasgai bihurtu zen ondoren etorri ziren guztientzat. Identifikatu al dezakezu talde hau arrastoetatik?",
+  "clues": [
+    "Aberastasunaz eta gaitasun militarrez bedeinkatutako nazioa ginen.",
+    "Gure indarrak bildu eta piztia erraldoi bat ekarri genuen gure kanpainan erabiltzeko.",
+    "Gure helburua erabat suntsitu nahi genuen santutegi sakratu bat zen.",
+    "Gure indarra nahikoa izango zela uste genuen jainkozko babes oro gainditzeko.",
+    "Baina Jaunak espero ez genuen zigorra bidali zigun zerutik.",
+    "Berehala suntsitu gintuzten, lasto hautsia bezala sakabanatuta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Elefantearen Jendea",
+        "Thamudeko jendea",
+        "'Ad-eko jendea",
+        "Kobazuloko Lagunak",
+        "Hud Profetaren Nazioa"
+      ],
+      "answer": "Elefantearen Jendea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Elefante bat etxe sakraturantz eramatea, hura suntsitzeko",
+        "Dorre bat eraikitzen zerura iristeko",
+        "Urrezko idolo bat eraikitzea gurtzarako",
+        "Alaren mezulariari entzuteari uko egitea",
+        "Sinestunei kalte egiteko putzu bat zulatzea"
+      ],
+      "answer": "Elefante bat etxe sakraturantz eramatea, hura suntsitzeko"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Elefantea",
+        "Urrezko Txahala",
+        "Musaren langileak",
+        "Yunusen arraina",
+        "Dawud-en burdina"
+      ],
+      "answer": "Elefantea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Txori-taldeek harriekin suntsitu zituzten",
+        "Uholde handi batean ito ziren",
+        "Tximino eta txerri bihurtu ziren",
+        "Mendi batetik eroritako harrien azpian lurperatu zituzten",
+        "Zerutik etorritako suak erre zituen"
+      ],
+      "answer": "Txori-taldeek harriekin suntsitu zituzten"
+    }
+  },
+  "verseRef": "105:1-5",
+  "arabic": "",
+  "verse": "105:1-5"
+}

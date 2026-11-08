@@ -1,0 +1,61 @@
+{
+  "title": "I giardini della prosperità che svaniscono",
+  "intro": "In una terra benedetta da un'abbondanza di risorse, prosperava una comunità, vivendo tra i segni della grazia divina. La loro prosperità era una testimonianza del favore del Signore, un dono destinato a ispirare gratitudine e obbedienza. Eppure, nonostante le chiare indicazioni delle loro benedizioni, giunse un punto di svolta che mise alla prova la loro gratitudine per la fonte della loro immensa ricchezza e del loro benessere.",
+  "clues": [
+    "Eravamo fortunati ad avere due orti, uno a destra e uno a sinistra, ricchi di prodotti.",
+    "Ci è stato comandato di nutrirci dei doni del nostro Signore e di essergli grati per una terra fertile e un Signore misericordioso.",
+    "Siamo diventati arroganti e ci siamo allontanati dalla via della gratitudine, vantandoci della nostra ricchezza e del nostro potere.",
+    "Abbiamo preteso che il Signore aumentasse la distanza tra i nostri viaggi, mostrando disprezzo per la comodità che ci aveva concesso.",
+    "Fummo avvertiti da un messaggero, ma rifiutammo il messaggio e continuammo nella nostra sconsideratezza.",
+    "La nostra grande diga, che ha garantito la nostra prosperità, alla fine è crollata, provocando un'alluvione devastante."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Popolo di Thamud",
+        "Popolo del Midian",
+        "Popolo di 'Aad",
+        "Popolo di Lutero",
+        "Popolo di Saba"
+      ],
+      "answer": "Popolo di Saba"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Carestia e siccità",
+        "Invasione da parte di un potente esercito",
+        "Un terremoto devastante",
+        "Un'inondazione distruttiva causata dal crollo di una diga",
+        "Oppressione da parte di un sovrano tirannico"
+      ],
+      "answer": "Un'inondazione distruttiva causata dal crollo di una diga"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Un vitello dorato",
+        "Una cammella miracolosa",
+        "Una grande diga",
+        "Un edificio imponente",
+        "Un pozzo profondo"
+      ],
+      "answer": "Una grande diga"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Siamo stati trasformati in scimmie e maiali",
+        "Siamo stati salvati e siamo migrati in una nuova terra",
+        "Eravamo dispersi e la nostra terra divenne sterile",
+        "Siamo ascesi al cielo",
+        "Abbiamo costruito un regno nuovo e più prospero"
+      ],
+      "answer": "Eravamo dispersi e la nostra terra divenne sterile"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

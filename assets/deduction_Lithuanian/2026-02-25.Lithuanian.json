@@ -1,0 +1,61 @@
+{
+  "title": "Nevaisingos uolos išbandymas",
+  "intro": "Įgudusi ir išdidi bendruomenė savo palikimą paliko kalnuose. Tačiau kai jiems buvo pasiųstas aiškus ženklas, tikėjimo ir santūrumo išbandymas, jų arogancija nuvedė juos negrįžtamu keliu. Ar galite atpažinti šią grupę ir jų nepaklusnumo pasekmes?",
+  "clues": [
+    "Mes buvome akmens apdirbimo meistrai, raižę nuostabius būstus tiesiai kalnų šlaituose.",
+    "Pas mus atėjo pasiuntinys iš mūsų tautos, kviesdamas garbinti Vienintelį Tikrąjį Dievą.",
+    "Mes pareikalavome ženklo, patvirtinančio jo žodžius, ir kaip išbandymas mums buvo sukurtas unikalus padaras.",
+    "Mums buvo duota paprasta komanda: pasidalinti vandens šaltiniu su šiuo padaru, leidžiant jam atsigerti nustatytą dieną.",
+    "Apimti savo arogancijos, keli iš mūsų surengė sąmokslą, ir mes nepaisėme perspėjimo, numušdami padarą, kuris turėjo būti mūsų ženklas.",
+    "Mums buvo duotos trys dienos iki mūsų mirties, o tada galingas sprogimas mus užgriuvo namuose, palikdamas be gyvybės ženklų ir pargriautus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mes esame?",
+      "options": [
+        "„Ad“ žmonės",
+        "Madjano žmonės",
+        "Tamudo žmonės",
+        "Sabos žmonės",
+        "Luto žmonės"
+      ],
+      "answer": "Tamudo žmonės"
+    },
+    "trial": {
+      "label": "Koks buvo mūsų pagrindinis testas?",
+      "options": [
+        "Arkos statyba, kad išgyventų potvynį",
+        "Atsispirti pagundai žvejoti per šabą",
+        "Atsisakyti nesąžiningos verslo praktikos",
+        "Saugodama stebuklingą kupranugarę",
+        "Ištverti septynerius metus trukusį badą"
+      ],
+      "answer": "Saugodama stebuklingą kupranugarę"
+    },
+    "location": {
+      "label": "Koks buvo pagrindinis mūsų istorijos elementas?",
+      "options": [
+        "Auksinis veršelis",
+        "Kupranugarė",
+        "Pranašo Mozės lazda",
+        "Didžioji Ma'ribo užtvanka",
+        "Stalas iš dangaus"
+      ],
+      "answer": "Kupranugarė"
+    },
+    "outcome": {
+      "label": "Koks buvo mūsų galutinis likimas?",
+      "options": [
+        "Nuskendo dideliame tvane",
+        "Pavirto beždžionėmis ir kiaulėmis",
+        "Užkluptas smarkaus vėjo",
+        "Išsklaidyti dėl užtvankos griūties",
+        "Sugriautas galingo sprogimo / žemės drebėjimo"
+      ],
+      "answer": "Sugriautas galingo sprogimo / žemės drebėjimo"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

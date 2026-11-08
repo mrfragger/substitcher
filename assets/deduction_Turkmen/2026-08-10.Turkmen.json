@@ -1,0 +1,61 @@
+{
+  "title": "Gizlin hasylyň sakçylary",
+  "intro": "Ýaşyl ýerde, garaňkylygyň aşagynda bir topar adam gizlin meýilnama düzdi. Olaryň umumy maksady bardy, ýöne niýetleri dogruçyl däldi. Olar uklap ýatyrka, özlerini ylahy bir öwrülişigiň garaşýandygyny bilmeýärdiler.",
+  "clues": [
+    "Biz meýilnamamyzyň kemsizdigini pikir edip, berk karara geldik.",
+    "Başgalar heniz gymyldap ýetişmänkä, biz ir çykmagy maksat edinýärdik.",
+    "Biz öz üpjünçiligimize ynanyp, bereketli ýere girdik.",
+    "Biz barmaly ýerimize ýetenimizde, ony çöl we çöl tapdyk, şonuň üçin ýolumyzy ýitirenimizi pikir etdik.",
+    "Soňra biz onuň hakykatdanam biziň ýerimizdigini düşündik we umytsyzlykdan gygyrdyk, ýitgimiz üçin biri-birimizi günäkärledik.",
+    "Biz şol gün irden garyplary hasylymyzdan çykarmaga kasam edendik, ýöne Allanyň jezasy biz uklap ýatyrka üstümize geldi we bagymyz haraba öwrüldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kim?",
+      "options": [
+        "68-nji sürede Bagyň eýeleri",
+        "Saba halky",
+        "Gähriň ýoldaşlary",
+        "Pil halky",
+        "Handak halky"
+      ],
+      "answer": "68-nji sürede Bagyň eýeleri"
+    },
+    "trial": {
+      "label": "Synagymyz",
+      "options": [
+        "Bagymyz gökden gelen betbagtçylyk bilen weýran boldy",
+        "Bagymyz sil suwunyň aşagynda galdy",
+        "Bagymyz duşmanyň otuny bilen ýandy",
+        "Bagymyz çekirgeler bilen doldy",
+        "Bagymyz ýertitremesine uçrady"
+      ],
+      "answer": "Bagymyz gökden gelen betbagtçylyk bilen weýran boldy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Biz onuň miwelerini ertir bilen ýygmaga kasam etdik",
+        "Bagymyzy suwarmak üçin suw bentini gurduk",
+        "Biz gorag üçin gowakda gaçybatalga gözledik",
+        "Biz patyşalygy basyp almak üçin goşun taýýarladyk",
+        "Deňizden geçmek üçin gämi bilen ýüzdik"
+      ],
+      "answer": "Biz onuň miwelerini ertir bilen ýygmaga kasam etdik"
+    },
+    "outcome": {
+      "label": "Biziň ykbalymyz",
+      "options": [
+        "Biz toba etdik we Allanyň rehimini umyt etdik",
+        "Biz düýbünden ýok edildik we hiç haçan toba etmedik",
+        "Biz ýurtdan gaçyp gitdik we hiç haçan gaýdyp gelmedik",
+        "Biz ýene-de güýçli we baý bolduk",
+        "Biz maýmynlara öwrülmek bilen jezalandyryldyk"
+      ],
+      "answer": "Biz toba etdik we Allanyň rehimini umyt etdik"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

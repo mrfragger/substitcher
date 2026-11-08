@@ -1,0 +1,61 @@
+{
+  "title": "Mutlaq hokimiyat da'vosi",
+  "intro": "Qadimgi davrlarda qudratli bir shaxs ulkan yer va uning aholisi ustidan hukmronlik qila boshlagan. Bu shaxsning hukmronligi ulkan mag'rurlik va ilohiy hokimiyatga chuqur qarshilik bilan ajralib turardi. Oxirgi taqdiri barcha avlodlar uchun abadiy saboq bo'lgan ruhning kimligini ochib berishga tayyorlaning.",
+  "clues": [
+    "Men so'zim qonun bo'lgan qudratli imperiya ustidan hukmronlik qildim.",
+    "Men o'zimni oliy xudo deb e'lon qildim va hukmronligim ostidagi barcha odamlardan sajda qilishni talab qildim.",
+    "Men ma'lum bir jamoaga zulm o'tkazdim, ularni qul qildim va ularning go'dak o'g'il bolalarini o'ldirishni buyurdim.",
+    "Men va sehrgarlarim oldida aniq mo''jizalar ko'rsatgan Xudoning kamtar elchisi bilan bir necha bor to'qnash keldim.",
+    "Men o'jarlik bilan haqiqatni rad etdim, xabarchini sehrgarlikda aybladim va uni va uning izdoshlarini yo'q qilish uchun fitna uyushtirdim.",
+    "Qo'limdan ozod bo'lganlarni tinimsiz ta'qib qilar ekanmiz, butun qo'shinim bilan birga dengizga cho'mib ketdik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'avn",
+        "Xomon"
+      ],
+      "answer": "Fir'avn"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buyuk To'fon",
+        "Yonayotgan olov",
+        "Zolimning cho'kishi",
+        "Shamol tomonidan vayron bo'lish",
+        "Kufr zilzilasi"
+      ],
+      "answer": "Zolimning cho'kishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Nuhning kemasi",
+        "Musoning tayoqchasi",
+        "Oltin but",
+        "Zamzam qudug'i",
+        "Bilqis taxti"
+      ],
+      "answer": "Musoning tayoqchasi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Keng qirollik berildi",
+        "Belgi sifatida saqlanib qolgan tana",
+        "Tavba qilgandan keyin kechiriladi",
+        "Payg'ambarlik darajasiga ko'tarildi",
+        "Uning qavmi taqvodor bo'ldi"
+      ],
+      "answer": "Belgi sifatida saqlanib qolgan tana"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

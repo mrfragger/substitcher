@@ -1,0 +1,61 @@
+{
+  "title": "Tiesos sostas",
+  "intro": "Galingas valdovas, žinomas dėl savo didžios išminties ir didingo sosto, gauna paslaptingą žinutę iš nežinomo šaltinio. Ši netikėta žinutė meta iššūkį jų įsitikinimams ir autoritetui, leisdama jiems į diplomatinę kelionę, kuri išbandys jų intelektą ir galiausiai nuves į gilų dvasinį pabudimą. Ar galite atskleisti šio valdovo tapatybę ir įvykius, kurie pakeitė visą jo karalystę?",
+  "clues": [
+    "Mano tauta ir aš garbinome saulę, sekdami savo protėvių keliais.",
+    "Paukštis, kukutis, buvo tas netikėtas pasiuntinys, atnešęs man laišką nuo galingo vadovo.",
+    "Norėdamas patikrinti siuntėjo išmintį, siunčiau vertingas dovanas, bet jos buvo grąžintos, nes siuntėjas turėjo daug didesnius Alacho turtus.",
+    "Dar nespėjus man atvykti į siuntėjo dvarą, mano didingasis sostas stebuklingai buvo ten perkeltas akimirksniu.",
+    "Atvykus manęs paklausė, ar perkeltas sostas yra mano, ir aš atsakiau: „Tarsi jis būtų tas pats.“",
+    "Įėjau į didelę salę, kurios grindis palaikiau vandens telkiniu, ir tą pagarbios pagarbos akimirką kartu su pranašu Suleimanu atsidaviau Alachui, pasaulių Viešpačiui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Šebos karalienė",
+        "Zulaikha (Al-Azizo žmona)",
+        "Asija (faraono žmona)",
+        "Musos motina",
+        "Maryam (Isos motina)"
+      ],
+      "answer": "Šebos karalienė"
+    },
+    "trial": {
+      "label": "Centrinis įvykis",
+      "options": [
+        "Priimant laišką iš pranašo Sulaimano",
+        "Įmetimas į ugnį",
+        "Arkos statyba, kad išgyventų potvynį",
+        "Raudonosios jūros perskyrimas",
+        "Apkaltinamas nekuklumu"
+      ],
+      "answer": "Priimant laišką iš pranašo Sulaimano"
+    },
+    "location": {
+      "label": "Pagrindinis objektas",
+      "options": [
+        "Nuostabus sostas",
+        "Auksinis veršelis",
+        "Daug spalvų paltas",
+        "Lazdelė, kuri virto gyvate",
+        "Laivas, pastatytas iš lentų ir vinių"
+      ],
+      "answer": "Nuostabus sostas"
+    },
+    "outcome": {
+      "label": "Galutinis rezultatas",
+      "options": [
+        "Paklusnumas vienam tikrajam Dievui (Alachui)",
+        "Pavertimas druskos stulpu",
+        "Statant aukštą bokštą, kad pasiektume Dievą",
+        "Praryti didelės žuvies",
+        "Milžiniško turto praradimas kaip bausmė"
+      ],
+      "answer": "Paklusnumas vienam tikrajam Dievui (Alachui)"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

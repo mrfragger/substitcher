@@ -1,0 +1,61 @@
+{
+  "title": "A sereg, amelyet repülő agyag fogadott",
+  "intro": "Mohamed próféta előtti korban egy hatalmas jemeni uralkodó katonai hadjáratot indított, amelynek célja egy mekkai szentély elpusztítása volt. Az ellenség hatalmas sereget vezetett, tele harci elefántokkal, bízva erejükben és létszámukban. Útjuk azonban hirtelen véget ért, mivel váratlan isteni beavatkozással találkoztak. Meg tudod állapítani, kinek kellett szembenéznie ezzel a figyelemre méltó leszámolással?",
+  "clues": [
+    "Hatalmas sereggel és erős harci elefántokkal vonultunk a szent ház felé",
+    "Azt a szándékunkat tűztük ki és romboljuk le, hogy a Legirgalmasabb szolgái által épített imahelyet",
+    "Egy csapat apró madár indult ellenünk, csőrükben és karmaikban agyagköveket cipelve",
+    "Egy hang fogadott minket, ami köveket zúdított ránk, letaposott maradványokká változtatva minket",
+    "Jemen földjéről származom, és egy olyan uralkodó alatt szolgáltam, aki a szentély megmentésére törekedett",
+    "Példaképet állítottak elénk azok számára, akik merészelték meggyalázni Allah szentélyét."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Abraha al-Ashram hadserege",
+        "Az etióp erők",
+        "A perzsa hódítók",
+        "A római légiók",
+        "A beduin fosztogatók"
+      ],
+      "answer": "Abraha al-Ashram hadserege"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy sivatagi erőd ostroma",
+        "A mekkai szentély megtámadása",
+        "Egy tengeri csata",
+        "Lázadás egy zsarnok király ellen",
+        "Egy elveszett próféta keresése"
+      ],
+      "answer": "A mekkai szentély megtámadása"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Mina völgye Mekka közelében",
+        "A jemeni Szanaa palotája",
+        "Tihamah hegyei",
+        "Az ősi Jeruzsálem városa",
+        "A Vörös-tenger partjai"
+      ],
+      "answer": "Mina völgye Mekka közelében"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A szent ház győzelme és pusztulása",
+        "Agyagköveket hordozó madarak veresége",
+        "Békés megadás és megtérés",
+        "Éhínség és természeti katasztrófa",
+        "Visszavonulás heves esőzések miatt"
+      ],
+      "answer": "Agyagköveket hordozó madarak veresége"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

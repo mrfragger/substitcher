@@ -1,0 +1,61 @@
+{
+  "title": "Bawan Allah Mai Girma",
+  "intro": "Kana jin raɗa na wani mutum daga zamanin da, bawan Allah wanda aka ɗaga shi zuwa matsayi mafi girma a kan talakawa. An san wannan mutum da haƙuri mai ƙarfi da gaskiya, kuma an aika shi zuwa ga mutanen da suka juya baya ga saƙon. Wanene wannan ruhi mai ɗaukaka?",
+  "clues": [
+    "Allah ya zaɓe ni a matsayin annabi kuma an ambace ni a cikin Alƙur'ani Mai Tsarki.",
+    "An san ni da haƙuri da gaskiya, halaye da Allah ya yaba.",
+    "Na kira mutanena su bauta wa Allah ɗaya, amma mutane da yawa sun ƙi ni.",
+    "Allah ya ɗaukaka matsayi na, kuma ya ba ni babban matsayi.",
+    "Sau da yawa ana ambace ni tare da sauran annabawa kamar Ismail da Dhul-Kifl.",
+    "Allah yana cewa game da ni: 'Kuma muka ɗaukaka shi zuwa matsayi mai girma.' (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Idris",
+        "Annabi Iliyas",
+        "Annabi Dhu al-Kifl",
+        "Annabi Al-Yasa",
+        "Annabi Hud"
+      ],
+      "answer": "Annabi Idris"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ya kira mutane zuwa ga bauta wa Allah",
+        "Gina jirgin ruwa",
+        "Ya yi yaƙi da Fir'auna",
+        "An gwada shi da rashin lafiya mai tsanani",
+        "An jefa shi cikin wuta"
+      ],
+      "answer": "Ya kira mutane zuwa ga bauta wa Allah"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Matsayi/babban tasha mai tsayi",
+        "Akwatin",
+        "Ma'aikatan",
+        "Wutar",
+        "Rijiyar"
+      ],
+      "answer": "Matsayi/babban tasha mai tsayi"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ɗaukaka zuwa babban matsayi",
+        "Ambaliyar ta nutse cikin ruwa",
+        "Kifin whale ya haɗiye",
+        "An cece shi daga wuta",
+        "Ya zama sarki"
+      ],
+      "answer": "An ɗaukaka zuwa babban matsayi"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

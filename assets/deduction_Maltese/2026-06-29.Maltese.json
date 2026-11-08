@@ -1,0 +1,61 @@
+{
+  "title": "Ir-Ruħ Pazjenta",
+  "intro": "Fl-annali tal-profezija, kien jeżisti ruħ li l-paċenzja tagħha kienet imnaqqxa fl-istess tessut tal-esseri tagħha. Permezz tad-dmugħ u ż-żmien, żammew sod mat-tama, u saru eżempju etern ta’ fiduċja fl-għerf divin. Tista’ tikxef il-misteru ta’ din il-figura soda?",
+  "clues": [
+    "Jiena twilidt f'familja ta' profeti, iżda l-akbar prova tiegħi ġiet permezz tat-tifel li kont inħobb l-aktar.",
+    "Irċevejt twissija ta’ għira minn ħolma li qasam ibni, u bżajt għas-sigurtà tiegħu.",
+    "Għajnejja bajdu bin-niket, iżda qatt ma tlift il-fidi fil-ħniena ta’ Alla.",
+    "Ir-riħa tat-tifel/tifla nieqes/nieqsa laħqitni mill-bogħod, u dak il-ħin indunajt li r-riunjoni kienet qrib.",
+    "Il-familja tiegħi niżlet bi gratitudni meta l-viżjoni tal-qedem twettqet, u l-vista tiegħi ġiet irrestawrata.",
+    "Jiena jien dak li ngħatajt qmis imtebba’ bid-demm, biex aktar tard irċevejt qmis li fejqitni l-vista."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Ibrahim",
+        "Il-Profeta Ishaq",
+        "Profeta Yaqub",
+        "Profeta Yusuf",
+        "Il-Profeta Ayyub"
+      ],
+      "answer": "Profeta Yaqub"
+    },
+    "trial": {
+      "label": "Il-Prova Kruċjali",
+      "options": [
+        "Separazzjoni minn tifel jew tifla maħbuba u telf tal-vista",
+        "Mitfugħ f’nar qawwi",
+        "Nibla’ minn ħuta kbira",
+        "Nissaportu t-telf tal-ġid, tat-tfal, u tas-saħħa",
+        "Ittradut minn ħutu u mitfugħ f’bir"
+      ],
+      "answer": "Separazzjoni minn tifel jew tifla maħbuba u telf tal-vista"
+    },
+    "location": {
+      "label": "L-Oġġett Simboliku",
+      "options": [
+        "Qmis li l-ewwel ħebiet il-verità imbagħad żvelatha",
+        "Bastun li sar serp",
+        "Baliena li belgħet profeta",
+        "Nar li beda jiksaħ",
+        "Par sandli ħdejn l-għollieq jaqbad"
+      ],
+      "answer": "Qmis li l-ewwel ħebiet il-verità imbagħad żvelatha"
+    },
+    "outcome": {
+      "label": "Ir-Riżoluzzjoni Divina",
+      "options": [
+        "Riunjoni ma' xi ħadd maħbub mitluf u r-restawr tal-vista",
+        "Salvataġġ minn nazzjon ta’ oppressjoni",
+        "Ħelsien minn żaqq ħuta",
+        "Salvazzjoni minn nar qawwi",
+        "Tlugħ għal tron ​​kbir"
+      ],
+      "answer": "Riunjoni ma' xi ħadd maħbub mitluf u r-restawr tal-vista"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

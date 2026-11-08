@@ -1,0 +1,61 @@
+{
+  "title": "L'ospitalità che incuteva timore",
+  "intro": "In una città divorata dalla malvagità, un giorno un fedele servitore ricevette la visita inaspettata di alcuni visitatori. Preoccupato per la loro incolumità, offrì loro protezione, ma gli abitanti della città gli chiesero qualcosa di vergognoso. Avvertito di un imminente pericolo, il servitore fuggì con la sua famiglia nell'oscurità, lasciandosi alle spalle una città condannata alla distruzione. Chi è questo solitario credente?",
+  "clues": [
+    "Sono stato inviato come messaggero presso un popolo che si era macchiato di atti vergognosi.",
+    "Ho ricevuto visite inaspettate a casa e la mia preoccupazione maggiore era per la loro incolumità che per la mia.",
+    "I miei uomini pretendevano di vedere i miei ospiti perché sospettavano cattive intenzioni, e io ho cercato di ragionare con loro.",
+    "I miei visitatori si rivelarono come angeli e mi ordinarono di prendere la mia famiglia e partire nella notte.",
+    "Mia moglie non ha dato ascolto all'invito a fuggire e ha affrontato la stessa distruzione del mio popolo.",
+    "La mia città fu sconvolta da una pioggia di pietre di argilla stratificata, le sue parti più elevate furono abbassate."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Lutero",
+        "Profeta Mosè",
+        "Profeta Ibrahim",
+        "Profeta Nuh",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Lutero"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "La richiesta del mio popolo di avvicinare i miei ospiti in modo malvagio",
+        "La separazione del mare per sfuggire a un tiranno",
+        "La costruzione di una grande arca tra le derisioni",
+        "Il sacrificio di mio figlio in una prova di fede",
+        "L'esperienza di essere inghiottiti da un grande pesce"
+      ],
+      "answer": "La richiesta del mio popolo di avvicinare i miei ospiti in modo malvagio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La città rovesciata del mio popolo",
+        "La montagna dove ho ricevuto la parola divina",
+        "L'arca che navigò attraverso un grande diluvio",
+        "La cammella che è emersa dalla roccia",
+        "Il giardino con un visitatore giusto nascosto"
+      ],
+      "answer": "La città rovesciata del mio popolo"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Sono stato salvato insieme alla mia famiglia prima che la mia città venisse rovesciata.",
+        "Ho condotto il mio popolo alla libertà oltre il mare",
+        "Ho costruito una grande arca e sono sopravvissuto a un diluvio tremendo",
+        "Mi fu dato il dominio sui venti e sui jinn",
+        "Ho sopportato pazientemente la sofferenza e sono stato ricompensato con la famiglia"
+      ],
+      "answer": "Sono stato salvato insieme alla mia famiglia prima che la mia città venisse rovesciata."
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

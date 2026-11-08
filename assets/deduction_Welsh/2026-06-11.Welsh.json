@@ -1,0 +1,61 @@
+{
+  "title": "Y Pentref ar Lannau'r Treial",
+  "intro": "Rydych chi mewn pentref arfordirol, lle mae sŵn tonnau’n cymysgu â sibrydion pobl anghofiedig. Rhoddwyd gorchymyn gorffwys iddyn nhw, ond arweiniodd eu trachwant at gosb sy’n dal i gael ei siarad amdani mewn lleisiau tawel. Allwch chi ddatgelu pwy oedden nhw?",
+  "clues": [
+    "Roedden ni'n byw wrth y lan a chawsom orchymyn i gadw diwrnod o orffwys.",
+    "Ar y diwrnod hwnnw, byddai pysgod yn dod atom yn helaeth, ond roeddem wedi ein gwahardd rhag eu cymryd.",
+    "Rhybuddiodd rhai yn ein plith rhag troseddu, ond cynllwyniodd eraill i bysgota beth bynnag.",
+    "Fe wnaethon ni dorri'r gorchymyn cysegredig a dod â chosb lem arnom ein hunain.",
+    "Ein cosb oedd trawsnewidiad a'n gadawodd ni wedi'n hanffurfio a'n gwarth.",
+    "Fe'n trowyd yn epaod, yn arwydd i bawb a fyddai'n dod ar ein hôl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Pobl y Saboth",
+        "Pobl Thamud",
+        "Pobl 'Ad",
+        "Pobl yr Ogof",
+        "Pobl yr Eliffant"
+      ],
+      "answer": "Pobl y Saboth"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Pysgota ar y Saboth",
+        "Addoli llo aur",
+        "Gwadu neges Hud",
+        "Lladd y gamel fenywaidd",
+        "Adeiladu twr i'r nefoedd"
+      ],
+      "answer": "Pysgota ar y Saboth"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y pysgodyn",
+        "Camel benywaidd",
+        "Staff",
+        "Cwch",
+        "Gardd"
+      ],
+      "answer": "Y pysgodyn"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi troi’n epaod",
+        "Wedi'i ddinistrio gan lifogydd",
+        "Wedi'i ddinistrio gan dân fflamadwy",
+        "Wedi'i lyncu gan y ddaear",
+        "Wedi'i wasgaru gan wynt"
+      ],
+      "answer": "Wedi troi’n epaod"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

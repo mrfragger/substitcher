@@ -1,0 +1,61 @@
+{
+  "title": "Neimenovana duša koja se suprotstavila nepravednoj naciji",
+  "intro": "Na stranicama Kur'ana postoje ličnosti čija su imena skrivena kako bismo razmislili o njihovim poukama. Jedna takva duša rođena je među narodom koji je odbacio svoje poslanike, ali je ova osoba posjedovala skrivenu vjeru koja ju je izdvajala. Kada se nadvilo uništenje, ova osoba je čvrsto ostala u svom tajnom uvjerenju. Možete li otkriti identitet ove misteriozne figure koja upozorava svoj narod prije nego što se pojavi konačna odluka?",
+  "clues": [
+    "Živio sam među ljudima koji su više puta poricali poslanike koje im je Allah slao.",
+    "Za razliku od mog naroda, ja sam prepoznao istinu kada je stigao poslanik sa jasnim znacima od Gospodara moga.",
+    "Skrivao sam svoju vjeru od svojih tlačitelja, znajući da će mi nauditi ako otkriju moje uvjerenje.",
+    "Kada se približila naredba o kazni, otvoreno sam izjavio svoju odanost i upozorio svoj narod da se spasi.",
+    "Podsjetio sam ih da sam pouzdani poslanik, ne drugačiji od onih koji su poslani prije njih, i da ne trebaju obožavati nikoga osim Allaha.",
+    "Moj narod me optužio za čarobnjaštvo i ludilo, ali kazna na koju su upozoreni na kraju ih je stigla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Hud, poslanik narodu Ada",
+        "Vjernik iz naroda Poslanika Huda koji je bio šehid",
+        "Vladar naroda Ada koji je odbacio istinu",
+        "Salihov ashab koji je sumnjao u božanske znakove",
+        "Anđeo poslan da uništi narod Aada"
+      ],
+      "answer": "Vjernik iz naroda Poslanika Huda koji je bio šehid"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Suša i glad su testirali njihovo strpljenje",
+        "Suđenje ispovijedanju vjere pred tlačiteljskom nevjerničkom nacijom",
+        "Pokušaj izgradnje broda za izbjegavanje velike poplave",
+        "Kušnja bacanja u vatru zbog vjerovanja u Allaha",
+        "Kušnja iskušenja bogatstvom i prosperitetom"
+      ],
+      "answer": "Suđenje ispovijedanju vjere pred tlačiteljskom nevjerničkom nacijom"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Grad Meka u kojem je izgrađen sveti dom",
+        "Pustinjske ravnice nacije koja je poricala svog glasnika",
+        "Midjanske planine gdje je poslan prorok Šu'aib",
+        "Obala rijeke Egipta gdje je pronađen prorok Musa",
+        "Dolina naroda Aad, pogođena žestokim vjetrom"
+      ],
+      "answer": "Pustinjske ravnice nacije koja je poricala svog glasnika"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Spašen sam u brodu i živio sam dok Allah nije htio",
+        "Moj narod je nakon mene vjerovao i bio je upućen na pravi put.",
+        "Ubio me je moj narod, ali mi je dušu uzela Allahova milost.",
+        "Pokajao sam se nakon što sam bio iskušan i Allah je prihvatio moje pokajanje.",
+        "Nakon moje smrti, pretvoren sam u idola kojeg je obožavao moj narod."
+      ],
+      "answer": "Ubio me je moj narod, ali mi je dušu uzela Allahova milost."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

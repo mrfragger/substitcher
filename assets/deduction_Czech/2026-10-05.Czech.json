@@ -1,0 +1,61 @@
+{
+  "title": "Důvěra svěřená řece",
+  "intro": "Duše čelila nemožnému rozhodnutí, kde na vlásku visel život novorozeněte. Vedena božskou inspirací uposlechla zoufalý rozkaz a drahocenné tajemství bylo ponecháno napospas proudu, jen aby se vrátilo nepředvídaným způsobem.",
+  "clues": [
+    "Žil jsem ve stínu tyrana, který nařizoval zabíjení novorozených chlapců.",
+    "Přišla ke mně božská inspirace, která mi nařídila, abych podnikl zoufalý a srdcervoucí čin.",
+    "Vložila jsem své drahocenné dítě do truhly a položila ho na tekoucí řeku.",
+    "Mé srdce se vyprázdnilo a málem jsem prozradil tajemství, ale Alláh posílil mé odhodlání.",
+    "Poslal jsem někoho, aby sledoval cestu dítěte po proudu, zatímco proud unášel truhlici.",
+    "Dítě našla tyranova domácnost a nakonec jsem se se svým dítětem znovu setkala a stala se jeho chůvou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Matka proroka Musy",
+        "Asiya (manželka faraona)",
+        "Maryam (matka proroka Ísy)",
+        "Manželka proroka Luta",
+        "Matka proroka Yahyi (manželka Zakariyi)"
+      ],
+      "answer": "Matka proroka Musy"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Vložila své dítě do truhly a postavila ji na břeh řeky",
+        "Schovala své dítě v jeskyni",
+        "Opustila své dítě v poušti",
+        "Hodila své dítě do ohně",
+        "Nechala své dítě před dveřmi mešity"
+      ],
+      "answer": "Vložila své dítě do truhly a postavila ji na břeh řeky"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Truhla položená na hladině řeky",
+        "Hořící keř",
+        "Hůl, která se proměnila v hada",
+        "Stůl prostřený jídlem z nebes",
+        "Velbloudice poslána jako znamení"
+      ],
+      "answer": "Truhla položená na hladině řeky"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Znovu se setkala se svým dítětem a kojila ho",
+        "Své dítě už nikdy neviděla",
+        "Byla popravena tyranem",
+        "Stala se královnou v Egyptě",
+        "Odešla do jiné země a žila v exilu."
+      ],
+      "answer": "Znovu se setkala se svým dítětem a kojila ho"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

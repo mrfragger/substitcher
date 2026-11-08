@@ -1,0 +1,61 @@
+{
+  "title": "Utshaba Olunomlilo",
+  "intro": "Kwimihla yokuqala yesityhilelo, kwavela umntu ochasene nenyaniso ngenkani. Esikelelwe ngobutyebi nesikhundla, lo mphefumlo wakhetha ikratshi kunolwalathiso, kwaye ibali labo laba sisilumkiso esiqatha kwiindinyana zokugqibela zesurah.",
+  "clues": [
+    "Ndandihlala kwisixeko esinye noMprofeti, kwaye ndandiphakathi kwezalamane zakhe ezisondeleyo, kodwa ikratshi lam landigcina ndikude nenyaniso.",
+    "Ndandinobutyebi obuninzi kunye nezakhiwo ezininzi, kwaye ndandicinga ukuba ubutyebi bam buya kuhlala bundikhusela.",
+    "Xa esi sigidimi satyhilwa, ndasigculela ekuhleni ndaza ndajika, ndizigqala njengongcono kunamakholwa.",
+    "Ubutshaba bam babudume kakhulu kangangokuba i-surah yeQuran yayithetha nam ngqo, indibiza ngegama endandilaziyo ngabanye.",
+    "Ndalunyukiswa ukuba ubutyebi bam kunye nemali endiyifumeneyo aziyi kundinceda nganto, kwaye ndiza kuphoswa emlilweni ovuthayo.",
+    "Ndibizwa ngokuba nguyise welangatye, kwaye umfazi wam uza kuphatha iinkuni ephethe intambo yesundu entanyeni yakhe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "U-Abu Lahab",
+        "U-Abu Jahl",
+        "U-Abu Sufyan",
+        "U-Al-Walid ibn al-Mughira",
+        "U-Al-As ibn Wail"
+      ],
+      "answer": "U-Abu Lahab"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wayilahla i-Islam waza wamchasa ngokuphandle uMprofeti",
+        "Benzelwe ukubulala uMprofeti",
+        "Bakhokela ukuqhankqalaza kwezentlalo nxamnye namaSilamsi",
+        "Walwa kwiMfazwe yaseBadr",
+        "Wathuthunjiswa uBilal ibn Rabah"
+      ],
+      "answer": "Wayilahla i-Islam waza wamchasa ngokuphandle uMprofeti"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Intambo yefayibha yesundu",
+        "Ikrele elibukhali",
+        "Ikhonkco elinzima",
+        "Intonga yomthi",
+        "Isabhokhwe sesikhumba"
+      ],
+      "answer": "Intambo yefayibha yesundu"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Iza kutsha emlilweni ovuthayo",
+        "Waguquka waza waba liqabane",
+        "Walahlekelwa bubutyebi bakhe kodwa wafa ehloniphekile",
+        "Wabalekela eAbyssinia",
+        "Nditshonile elwandle"
+      ],
+      "answer": "Iza kutsha emlilweni ovuthayo"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

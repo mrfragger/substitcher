@@ -1,0 +1,61 @@
+{
+  "title": "Ukatutako Opari baten Zama",
+  "intro": "Gizateriaren historiaren hasieran, lurra oraindik gaztea zenean eta munduak bere lehen arnasa hartzen zuenean, arima bat Sortzailearen aurrean jarri zen eskaintza xume batekin. Eskaintza hori jainkozko onarpenaren balantzan pisatu zen — eta eskas aurkitu zen. Ondoren etorri zena ez zen barkamenaren istorio bat izan, baizik eta jeloskortasunak kontsumitutako bihotz batena, denbora guztian oihartzuna izango zuen ekintza itzulezin batera eraman zuena. Hau da inoiz egindako lehen injustizia larriaren sinonimo bihurtu zen norbaiten istorioa.",
+  "clues": [
+    "Inoiz jaiotako lehenengo haurretako bat bezala jaio nintzen, ondo ezagutzen duzun istorioa duen guraso baten semea.",
+    "Behin sakrifizio bat eskaini nion Ala-ri, baina ez zidaten onartu — nahiz eta nire anai-arrebaren eskaintza ongietorrizko ohorearekin jaso zuten.",
+    "Inbidia eta amorrua errotu ziren nire bihotzean, eta nire senideen bizitza akabatzeko mehatxua egin nuen.",
+    "Nire anai-arrebak Ala-ren beldur izateko ohartarazi zidan, baina nire harrotasunak ez zidan entzuten utzi.",
+    "Ahultasun izugarrizko une batean, ekintza esanezin bat egin nion nire anaiari.",
+    "Geroago, ez nekien nola ezkutatu ere egin nuena — harik eta lurreko izaki bat bidali zidaten irakasteko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Nuh profetaren semea",
+        "Ismael profeta",
+        "Yusuf profeta"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Baztertutako sakrifizio bat eskainiz, lehenengo hilketa eragin zuen",
+        "Dorre garai bat eraikitzen zerura iristeko",
+        "Norberaren fedeagatik su bizian botata egotea",
+        "Norberaren semea sakrifikatzea Ala-ri obedientziaz",
+        "Norberaren betebeharretik ihes egiteagatik arrain handi batek irentsi izana"
+      ],
+      "answer": "Baztertutako sakrifizio bat eskainiz, lehenengo hilketa eragin zuen"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Alak bidalitako bele bat ehorzketa erakusteko",
+        "Herri oso bat ito zuen uholde handi batek",
+        "Suge bizidun bihurtu zen makila",
+        "Harkaitz mendi batetik atera zen gamelu eme bat",
+        "Haize indartsuek eramandako tronu bikaina"
+      ],
+      "answer": "Alak bidalitako bele bat ehorzketa erakusteko"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Damutu zirenen artean bihurtu zen, inoiz egindako lehen krimenak zamatuta",
+        "Alak barkatu eta betiko Paradisua eman zion",
+        "Profezia eta jakinduriaren maila gorenera igo zen",
+        "Jainkozko errukiak salbatu zuen iluntasunaren sakonetik deitu ondoren",
+        "Jinn, haize eta itsasoen gaineko nagusitasuna eman zitzaion"
+      ],
+      "answer": "Damutu zirenen artean bihurtu zen, inoiz egindako lehen krimenak zamatuta"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

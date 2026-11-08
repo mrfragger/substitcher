@@ -1,0 +1,61 @@
+{
+  "title": "Jiwa-jiwa Parit",
+  "intro": "Anda melakukan perjalanan kembali ke era ketika seorang penguasa kejam menuntut pengabdian mutlak kepada dewa-dewa palsu. Sebuah komunitas kecil yang terdiri dari orang-orang yang taat menolak, dan menghadapi hukuman yang begitu berat sehingga mereka terkutuk selamanya. Kisah mereka bergema di seluruh Al-Quran sebagai bukti iman yang teguh. Dapatkah Anda mengidentifikasi kelompok yang teguh ini?",
+  "clues": [
+    "Kita hidup di negeri yang berada di bawah tirani seorang penguasa yang menuntut penyembahan dewa-dewa palsu.",
+    "Komunitas kami menghadapi penganiayaan berat semata-mata karena keyakinan kami hanya kepada Allah.",
+    "Sang penguasa memerintahkan agar digali parit besar dan dikobarkan dengan api yang dahsyat.",
+    "Karena kami menolak untuk meninggalkan iman kami, kami dilemparkan ke dalam jurang yang menyala-nyala itu satu per satu.",
+    "Kisah kami menjadi bagian dari Al-Quran, dan orang-orang yang menganiaya kami dikutuk selamanya.",
+    "Surah yang mencatat cobaan kita ini dinamai berdasarkan tanda-tanda langit yang agung."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Sahabat-sahabat di Parit (Ashab al-Ukhdud)",
+        "Orang-orang Gua (Ashab al-Kahf)",
+        "Umat ​​Sabat",
+        "Kaum A'ad",
+        "Orang-orang Tsamud"
+      ],
+      "answer": "Sahabat-sahabat di Parit (Ashab al-Ukhdud)"
+    },
+    "trial": {
+      "label": "Percobaan Kami",
+      "options": [
+        "Dibakar hidup-hidup di dalam lubang api",
+        "Terkurung di dalam gua selama bertahun-tahun",
+        "Memancing di hari suci istirahat",
+        "Hancur diterjang angin yang menderu",
+        "Membunuh unta betina suci"
+      ],
+      "answer": "Dibakar hidup-hidup di dalam lubang api"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Parit api yang berkobar",
+        "Gua tersembunyi dengan anjing yang setia.",
+        "Pilar-pilar tinggi dari kota kuno yang ditakdirkan untuk hancur.",
+        "Permukiman pegunungan yang diukir di tebing batu",
+        "Dataran terbuka yang diterpa angin kencang."
+      ],
+      "answer": "Parit api yang berkobar"
+    },
+    "outcome": {
+      "label": "Hasil Kami",
+      "options": [
+        "Kami gugur sebagai martir dan para penganiaya terkutuk selamanya.",
+        "Kami terbangun setelah tidur selama 309 tahun.",
+        "Kita diubah menjadi kera karena pelanggaran kita.",
+        "Angin kencang yang menderu menghancurkan kami semua.",
+        "Satu jeritan yang memekakkan telinga menghancurkan keberadaan kami."
+      ],
+      "answer": "Kami gugur sebagai martir dan para penganiaya terkutuk selamanya."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

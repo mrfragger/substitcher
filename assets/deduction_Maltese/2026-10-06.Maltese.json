@@ -1,0 +1,61 @@
+{
+  "title": "Il-Verità li Sikket lill-Qorti",
+  "intro": "F’palazz fejn kienet tirrenja ċ-ċaħda u l-poter kien assolut, grupp ta’ prattikanti tas-sengħa kienu qagħdu quddiem sfida mhux mistennija. L-arja kienet tqanqal bl-antiċipazzjoni hekk kif iż-żewġ mogħdijiet tal-gidba u l-verità kienu waslu biex jaħbtu ma’ xulxin. Dawk miġbura ma kinux jafu li din il-laqgħa kienet se tittrasforma ħajjithom għal dejjem u tniżżel l-istorja tagħhom fit-test sagru.",
+  "clues": [
+    "Konna magħrufa għall-ħila tagħna fl-illużjonijiet u ġejna miġbura minn ħakkiem qawwi biex niffaċċjaw sfidant.",
+    "Meta wasal il-mument, xeħtu l-istrumenti tagħna u stennejna r-riżultat, kunfidenti fis-sengħa tagħna.",
+    "Imma dak li rajna rajna għamel l-apparati tagħna jidhru sempliċement bħal ġugarelli, u qlubna rrikonoxxew il-verità innegabbli.",
+    "Waqajna mal-art prosternati, niddikjaraw it-twemmin tagħna fil-Mulej ta’ Mosè u Aron, minkejja r-rabja tal-ħakkiem.",
+    "Dak il-ħakkiem heddedna bl-aktar kastig brutali, billi ħalef li jsallabna u jaqtagħna riġlejna f’modi opposti.",
+    "Bqajna sodi, għidna li nippreferu l-ġudizzju ta’ Sidna aktar minn kwalunkwe konsegwenza tad-dinja, u ġejna martri għall-fidi tagħna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Is-Sħaħar tal-Fargħun",
+        "In-Nies tal-Għar",
+        "Il-Kumpanji tal-Injam",
+        "Id-Dixxipli ta’ Isa",
+        "In-Nies tal-Iljunfant"
+      ],
+      "answer": "Is-Sħaħar tal-Fargħun"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Kompetizzjoni tal-maġija kontra Musa",
+        "Nar mitfugħ fuqhom",
+        "Għargħar li għarraqhom",
+        "Nixfa u ġuħ",
+        "Terremot"
+      ],
+      "answer": "Kompetizzjoni tal-maġija kontra Musa"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Bsaten u ħbula li nbidlu fi sriep",
+        "Siġra taqbad",
+        "Ġemela",
+        "Arka tal-injam",
+        "Baliena"
+      ],
+      "answer": "Bsaten u ħbula li nbidlu fi sriep"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Eżegwit għall-fidi, wiegħed il-Ġenna tal-Art",
+        "Għerqet fil-baħar",
+        "Saru ħakkiema tal-Eġittu",
+        "Baqgħu segwaċi tal-Fargħun",
+        "Wiret l-art"
+      ],
+      "answer": "Eżegwit għall-fidi, wiegħed il-Ġenna tal-Art"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

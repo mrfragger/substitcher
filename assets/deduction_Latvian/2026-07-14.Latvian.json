@@ -1,0 +1,61 @@
+{
+  "title": "Tranšejas dvēseles",
+  "intro": "Jūs ceļojat atpakaļ uz laikmetu, kad nežēlīgs valdnieks pieprasīja absolūtu uzticību viltus dievībām. Neliela uzticīgu dvēseļu kopiena atteicās un saskārās ar tik bargu sodu, ka kļuva par mūžīgu nolādējumu. Viņu stāsts atbalsojas Korānā kā liecība par nelokāmu ticību. Vai varat atpazīt šo nelokāmo grupu?",
+  "clues": [
+    "Mēs dzīvojām zemē, kurā valdīja valdnieka tirānija, kurš pieprasīja viltus dievību pielūgšanu",
+    "Mūsu kopiena saskārās ar smagām vajāšanām tikai par ticību tikai Allāham",
+    "Valdnieks pavēlēja izrakt lielu tranšeju un iekurt to ar spēcīgām liesmām.",
+    "Tā kā mēs atteicāmies atteikties no savas ticības, mūs viens pēc otra iemeta tajā liesmojošajā bedrē",
+    "Mūsu stāsts kļuva par daļu no Korāna, un tie, kas mūs vajāja, tika mūžīgi nolādēti",
+    "Sūra, kas apraksta mūsu pārbaudījumus, ir nosaukta debesu lielo zīmju vārdā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Tranšejas pavadoņi (Ašabs al-Uhduds)",
+        "Alas ļaudis (Ašabs al-Kahfs)",
+        "Sabata cilvēki",
+        "A'adas iedzīvotāji",
+        "Tamudas iedzīvotāji"
+      ],
+      "answer": "Tranšejas pavadoņi (Ašabs al-Uhduds)"
+    },
+    "trial": {
+      "label": "Mūsu pārbaudījums",
+      "options": [
+        "Tiekot dzīvam sadedzinātam ugunīgā bedrē",
+        "Daudzus gadus ieslodzīts alā",
+        "Makšķerēšana svētajā atpūtas dienā",
+        "Iznīcināts gaudojoša vēja ietekmē",
+        "Svētās kamieļmātes nogalināšana"
+      ],
+      "answer": "Tiekot dzīvam sadedzinātam ugunīgā bedrē"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Ugunsgrēka liesmojoša tranšeja",
+        "Slēpta ala ar uzticīgu suni",
+        "Senas, lemtas pilsētas augstie pīlāri",
+        "Kalnu mājokļi, kas izcirsti akmens klintīs",
+        "Atklāts līdzenums, ko plosa spēcīgi vēji"
+      ],
+      "answer": "Ugunsgrēka liesmojoša tranšeja"
+    },
+    "outcome": {
+      "label": "Mūsu rezultāts",
+      "options": [
+        "Mēs tikām mocekļi, un vajātāji tika mūžīgi nolādēti",
+        "Mēs pamodāmies pēc 309 gadu miega",
+        "Mēs tikām pārvērsti par pērtiķiem mūsu pārkāpumu dēļ",
+        "Spēcīgs gaudojošs vējš mūs visus iznīcināja",
+        "Viens postošs kliedziens sagrāva mūsu eksistenci"
+      ],
+      "answer": "Mēs tikām mocekļi, un vajātāji tika mūžīgi nolādēti"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

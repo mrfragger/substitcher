@@ -1,0 +1,61 @@
+{
+  "title": "Die wahrhaftige Stimme der Antike",
+  "intro": "Im Koran gibt es eine Person, deren Geschichte nur in wenigen Versen erzählt wird, deren edle Eigenschaften aber in strahlender Klarheit hervortreten. Vom Allmächtigen für eine besondere Tugend gepriesen, nimmt dieser uralte Diener des Allerbarmers einen Platz in den Schriften ein. Deine Aufgabe ist es, diese bemerkenswerte Gestalt zu identifizieren. Kannst du erraten, wer sie ist?",
+  "clues": [
+    "Ich bin ein Prophet Allahs, der unter den ersten Generationen der Menschheit lebte.",
+    "Allah erwähnte mich in Seinem Buch zusammen mit anderen Propheten, die alle für dieselbe edle Tugend gepriesen werden.",
+    "Im Koran werde ich als ein Mann der Wahrheit beschrieben.",
+    "Allah hat mich zu einem hohen Rang erhoben, den nur wenige andere erreicht haben.",
+    "Mein Name wird in der Sure Al-Anbiya erwähnt, zusammen mit zwei anderen Propheten, die für ihre Geduld gepriesen werden.",
+    "Ich bin Idris, der wahrhaftige und erhabene Prophet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Idris",
+        "Prophet Nuh",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Ismail"
+      ],
+      "answer": "Prophet Idris"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Durch Bewahrung von Geduld und Wahrhaftigkeit wurde man in eine hohe Position befördert.",
+        "Der Bau einer großen Arche, um die Gläubigen vor einer verheerenden Flut zu retten.",
+        "In ein loderndes Feuer geworfen zu werden und völlig unversehrt wieder herauszukommen",
+        "Sich einem mächtigen König entgegenstellen und sein Heer von Magiern besiegen",
+        "Das Überleben im Bauch eines großen Fisches in den Tiefen des Meeres"
+      ],
+      "answer": "Durch Bewahrung von Geduld und Wahrhaftigkeit wurde man in eine hohe Position befördert."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein hoher und erhabener Rang bei Allah",
+        "Ein gewaltiges Schiff, gebaut aus Planken und mit Teer bespannt.",
+        "Ein wütendes Feuer, angefacht von den Götzendienern eines bösen Königs",
+        "Ein riesiges Meer, das sich in trockene Pfade teilte",
+        "Der dunkle Bauch eines großen Wals am Meeresgrund"
+      ],
+      "answer": "Ein hoher und erhabener Rang bei Allah"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Als einer der Rechtschaffenen in Allahs Barmherzigkeit aufgenommen.",
+        "Zusammen mit allen Gläubigen vor einer weltweiten Flut gerettet",
+        "Er verließ die Flammen unversehrt.",
+        "Führte die Kinder Israels sicher in die Freiheit über das Meer",
+        "Nach langen Jahren der Entbehrung wieder mit ihrer geliebten Familie vereint"
+      ],
+      "answer": "Als einer der Rechtschaffenen in Allahs Barmherzigkeit aufgenommen."
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

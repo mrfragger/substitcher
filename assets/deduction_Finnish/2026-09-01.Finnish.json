@@ -1,0 +1,61 @@
+{
+  "title": "Ääni laitamilta",
+  "intro": "Seisot kaupungissa, jonne on tullut kolme sanansaattajaa selkeiden merkkien kanssa, mutta ihmiset pilkkaavat heitä ja takertuvat vanhoihin tapoihinsa. Kaupungin kaukaisimmasta kolkasta hahmo juoksee väkijoukkoa kohti, hengästyneenä ja päättäväisenä puhumaan totta torjunnan edessä. Kuka on tämä sielu, joka vaaransi kaikkensa sanoman vuoksi, joka ei ollut heidän omansa?",
+  "clues": [
+    "Elin kansan keskuudessa, joka oli vastaanottanut selkeitä merkkejä tuovia sanansaattajia, mutta he kääntyivät pois ylimielisinä.",
+    "Tulin juosten kaupungin kaukaisimmasta kolkasta, kun kuulin sanansaattajien kutsusta.",
+    "Sanoin kansalleni: \"Oi kansani, seuratkaa sanansaattajia. Seuratkaa niitä, jotka eivät pyydä teiltä palkkiota, sillä he ovat oikealla tiellä.\"",
+    "En ollut profeetta, mutta uskoin sanansaattajiin ja kehotin kansaani tekemään samoin.",
+    "Kansani pilkkasi neuvojani ja syytti minua äärimmäisyydeksi.",
+    "Kun he tappoivat minut, Allah käski minun mennä Paratiisiin, ja toivoin, että kansani tietäisi saamani anteeksiannon ja kunnioituksen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Mies kaupungin kaukaisimmasta osasta (Ya-Sin)",
+        "Yksi kolmesta kaupunkiin lähetetystä sanansaattajasta",
+        "Kaupungin merkittävä kauppias",
+        "Kaupungin hallitsija",
+        "Epäuskoisten johtaja"
+      ],
+      "answer": "Mies kaupungin kaukaisimmasta osasta (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Saarnaten kansalleen, että heidän tulisi seurata sanansaattajia",
+        "Laivan rakentaminen pelastamaan uskovia tulvalta",
+        "Heitetään tuleen uskon tähden",
+        "Valaan nielaiseminen",
+        "Kuningaskunnan ja viisauden saaminen"
+      ],
+      "answer": "Saarnaten kansalleen, että heidän tulisi seurata sanansaattajia"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kaupungin kaukaisin osa",
+        "Arkki",
+        "Kaivo",
+        "Palava pensas",
+        "Luola"
+      ],
+      "answer": "Kaupungin kaukaisin osa"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Astui paratiisiin ja toivoi kansansa tietävän hänen anteeksiantonsa",
+        "Hukkui kansansa kanssa, koska hän hylkäsi sanoman",
+        "Sai ihmeen, naaraskameli",
+        "Tuli hallitsijaksi oikeudenkäynnin jälkeen",
+        "Allah pelasti hänet ja hän pysyi kansansa kanssa"
+      ],
+      "answer": "Astui paratiisiin ja toivoi kansansa tietävän hänen anteeksiantonsa"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

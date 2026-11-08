@@ -1,0 +1,61 @@
+{
+  "title": "Vaevatud hinge kannatlikkus",
+  "intro": "Ajaloo annaalides on tegelane, kelle nimi on sünonüümne vastupidavusega. See inimene pandi proovile igasuguse maise mugavuse kaotamisega, kuid jäi siiski Looja pühendunud teenijaks. Läbi raskuste ja füüsiliste haiguste aastate jäi selle hinge süda usu külge ankurdatuks, pakkudes lootuse majakat kõigile, kes raskustega silmitsi seisavad.",
+  "clues": [
+    "Olin Allahi pühendunud teener, keda õnnistati rikkaliku rikkuse, paljude laste ja suurepärase tervisega.",
+    "Mu elu võttis pöörde, kui mind jäeti ilma rikkusest ja perekonnast ning mulle ei jäänud järele midagi peale usu.",
+    "Mind vaevas pikaajaline ja valulik haigus, mis pani proovile inimliku vastupidavuse piirid.",
+    "Kogu oma kannatuste vältel keeldusin ma oma Issanda üle kurtmast, isegi kui vastane püüdis mind meeleheitesse viia.",
+    "Kui ma lõpuks oma Issanda poole hüüdsin, ei palunud ma rikkust, vaid lihtsalt tunnistasin, et mind oli tabanud häda.",
+    "Mul öeldi, et lööksin jalaga maad ja sealt voolas välja jaheda vee allikas, mis ravis mu keha ja kustutas janu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Yaqub",
+        "Prohvet Ayyub",
+        "Prohvet Zakariyyah",
+        "Prohvet Jahja",
+        "Prohvet Šu'ayb"
+      ],
+      "answer": "Prohvet Ayyub"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Aastaid raskeid haigusi ja kaotusi",
+        "Sügavasse kaevu visatud",
+        "Hiiglasliku kala poolt alla neelamine",
+        "Tulekahjus türanniga silmitsi seismine",
+        "Pikk teekond õpetaja otsinguil"
+      ],
+      "answer": "Aastaid raskeid haigusi ja kaotusi"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Personali, mis mere lahutas",
+        "Särk, mis lõhnas kodu järele",
+        "Tervendav veeallikas",
+        "Mägi, mis tolmuks varises",
+        "Sügava une koobas"
+      ],
+      "answer": "Tervendav veeallikas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Suure maa valitsejaks saamine",
+        "Armee juhtimine võidule",
+        "Tervise ja perekonna taastamine",
+        "Püha kummardamiskoja ehitamine",
+        "Taevast kaetud laua saamine"
+      ],
+      "answer": "Tervise ja perekonna taastamine"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

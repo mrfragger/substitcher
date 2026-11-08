@@ -1,0 +1,61 @@
+{
+  "title": "Die wachsame Seele am Flussufer",
+  "intro": "Einem jungen Menschen wurde eine geheime Mission anvertraut: aus sicherer Entfernung zu beobachten, wie sich das Schicksal auf dem Wasser entfaltete. Ungesehen und unerkannt sollte diese Gestalt eine entscheidende Rolle bei der Veränderung des Laufs der Geschichte einer Nation spielen.",
+  "clues": [
+    "Meine Mutter gab mir eine Aufgabe, die Heimlichkeit und Wachsamkeit erforderte.",
+    "Meine Augen folgten einer kleinen Wiege, die mit der Strömung trieb, mein Herz schwer vor Sorge.",
+    "Als es von einem unerwarteten Dritten gefunden wurde, näherte ich mich voller Besorgnis.",
+    "Ich sah ihre Verzweiflung, einen Betreuer zu finden, und bot ihnen eine Lösung an, ohne die Wahrheit preiszugeben.",
+    "Durch mein rechtzeitiges Eingreifen konnte ich derjenigen, die es am nötigsten hatte, eine Krankenschwester zurückgeben.",
+    "In den Kreisen der Mächtigen sprach ich: „Soll ich Ihnen eine Familie empfehlen, die ihn nährt und sorgsam umsorgt?“"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Schwester von Musa",
+        "Die Mutter von Musa",
+        "Die Frau des Pharaos",
+        "Eine Hebamme",
+        "Die Tochter von Shu'aib"
+      ],
+      "answer": "Die Schwester von Musa"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Das Hineinwerfen eines Kindes in den Fluss",
+        "Die Teilung des Meeres",
+        "Die Verbrennung des Kalbs",
+        "Der Bau der Arche",
+        "Die Heuschreckenplage"
+      ],
+      "answer": "Das Hineinwerfen eines Kindes in den Fluss"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der Fluss",
+        "Die Wüste",
+        "Der Berg",
+        "Der Palast",
+        "Das Feuer"
+      ],
+      "answer": "Der Fluss"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Sie brachte das Kind wieder mit seiner Mutter zusammen.",
+        "Sie rettete sich vor den Soldaten des Pharaos.",
+        "Sie wurde Königin",
+        "Sie wurde wegen Spionage bestraft.",
+        "Sie führte die Israeliten an"
+      ],
+      "answer": "Sie brachte das Kind wieder mit seiner Mutter zusammen."
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

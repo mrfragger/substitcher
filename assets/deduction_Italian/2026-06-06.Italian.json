@@ -1,0 +1,61 @@
+{
+  "title": "Il servo elevato di Allah",
+  "intro": "Si sentono sussurri di una figura dei tempi antichi, un servo di Allah elevato a una posizione superiore a quella comune. Quest'individuo era noto per la sua incrollabile pazienza e la sua assoluta veridicità, e fu inviato a un popolo che si allontanò dal messaggio. Chi è quest'anima elevata?",
+  "clues": [
+    "Sono stato scelto da Allah come profeta e sono menzionato nel Sacro Corano.",
+    "Ero nota per la mia pazienza e la mia onestà, qualità che Allah loda.",
+    "Ho chiamato il mio popolo ad adorare l'unico Dio, ma molti mi hanno respinto.",
+    "La mia posizione è stata elevata da Allah e mi è stato concesso un rango elevato.",
+    "Spesso vengo menzionato insieme ad altri profeti come Ismail e Dhul-Kifl.",
+    "Allah dice di me: \"E lo elevammo a un alto rango.\" (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Idris",
+        "Il profeta Elia",
+        "Profeta Dhu al-Kifl",
+        "Profeta Al-Yasa",
+        "Profeta Hud"
+      ],
+      "answer": "Il profeta Idris"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Ha invitato le persone ad adorare Allah",
+        "Costruirono l'arca",
+        "Combatté contro il faraone",
+        "È stato testato con una grave malattia",
+        "Fu gettato nel fuoco"
+      ],
+      "answer": "Ha invitato le persone ad adorare Allah"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Grado elevato/posizione di alto rango",
+        "L'arca",
+        "Lo staff",
+        "Il fuoco",
+        "Il pozzo"
+      ],
+      "answer": "Grado elevato/posizione di alto rango"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Elevato ad alto rango",
+        "Annegato nell'alluvione",
+        "Inghiottito da una balena",
+        "Salvato dall'incendio",
+        "Divenne re"
+      ],
+      "answer": "Elevato ad alto rango"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

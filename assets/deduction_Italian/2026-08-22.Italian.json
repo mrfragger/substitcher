@@ -1,0 +1,61 @@
+{
+  "title": "La città che credeva nel tempo",
+  "intro": "Negli annali della misericordia divina, esiste una comunità il cui punto di svolta fu un momento di presa di coscienza collettiva. State per scoprire la loro storia: un racconto di ammonimento, pentimento e di grazia che li ha distinti dal destino di altre nazioni.",
+  "clues": [
+    "Eravamo un popolo al quale era stato inviato un messaggero, e dapprima abbiamo respinto la sua chiamata.",
+    "Quando i segni dell'imminente punizione divennero evidenti, comprendemmo la veridicità del suo avvertimento.",
+    "Ci siamo rivolti al Signore con sincero pentimento e la nostra fede è stata accolta.",
+    "La punizione che era stata decretata contro di noi è stata revocata grazie alla nostra fede.",
+    "La nostra storia è citata come un'eccezione tra le città che hanno creduto dopo aver visto la punizione.",
+    "Eravamo il popolo del profeta che fu inghiottito dalla balena, eppure fummo salvati dalla distruzione."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Popolo di Yunus",
+        "Popolo di Nuh",
+        "Popolo di Hud",
+        "Popolo di Salih",
+        "Popolo di Lutero"
+      ],
+      "answer": "Popolo di Yunus"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Un'alluvione devastante",
+        "Una forte tempesta di vento",
+        "Una punizione imminente e vergognosa che è stata scongiurata",
+        "La terra li inghiotte",
+        "Una pioggia di pietre"
+      ],
+      "answer": "Una punizione imminente e vergognosa che è stata scongiurata"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'arca",
+        "La cammella",
+        "Una città di centomila",
+        "Lo staff di Musa",
+        "Il tesoro di Qarun"
+      ],
+      "answer": "Una città di centomila"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Furono completamente distrutti",
+        "Hanno goduto del piacere per un certo periodo",
+        "Furono trasformati in scimmie",
+        "Sono annegati",
+        "Furono inghiottiti dalla terra"
+      ],
+      "answer": "Hanno goduto del piacere per un certo periodo"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Molatlhelwa kwa Magodimong",
+  "intro": "Sebopiwa se se sa itsegeng se eme mo marakanelong a ditsela a popo le go ganwa. Kgang ya bone ke ya boikgogomoso jo bo senang selekanyo le go tlola taelo ya bomodimo kwa bofelong. Tlhopho ya bone e boeletsa mo losikeng longwe le longwe, e nna teko mo moweng mongwe le mongwe o o tsetsweng mo lefatsheng leno. A o ka kgona go lemoga mmaba yono wa bosakhutleng?",
+  "clues": [
+    "Ke ne ke le teng kwa tiragalong ya botlhokwa jwa lobopo, fa setshedi se sesha se ne se bopiwa ka letsopa mme sa newa botshelo ke Mowa wa Moutlwelobotlhoko.",
+    "Nna ka bonna ke ne ka tlholwa go tswa mo elementeng e le nngwe e e tukang, go sa tshwane le setshedi seo sa lerole.",
+    "Ke ne ka ntshiwa taelo e ke neng ke e tsaya e le kafa tlase ga seteishene sa me.",
+    "Boikgogomoso bo ne jwa ruruga mo teng ga me, mme ke ne ka gana ka tlhoafalo go ikobela taelo eo.",
+    "Ke ne ka newa tiego go fitlha ka Letsatsi le le tlhomilweng, gore ke kgone go latelela boikaelelo jwa me jo bo boletsweng jwa go timetsa ba bangwe.",
+    "Ke nna mmaba yo o boletsweng wa botlhe ba ba tsamayang mo lefatsheng, ke ba sebaseba ka tsietso le go ba gogela kgakala le tsela e e tlhamaletseng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Iblise (Satane)",
+        "Faro (Fir'awn)",
+        "Hamane",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblise (Satane)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "A gana go obama fa pele ga ga Adame",
+        "O boletse bomodimo ka maaka",
+        "O ne a betla namane ya gouta gore e obamelwe",
+        "O bolaile morwarraagwe ka ntlha ya lefufa",
+        "O ne a etelela pele kganetso ya medimo e mentsi kwa Makkah"
+      ],
+      "answer": "A gana go obama fa pele ga ga Adame"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Paradaise (Jana)",
+        "Ntlo ya segosi ya ga Faro kwa Egepeto",
+        "Mokgatšha o o boitshepo wa Tuwa",
+        "Boteng jwa lewatle",
+        "Tshingwana ya Sheba"
+      ],
+      "answer": "Paradaise (Jana)"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go newa boikhutso go fitlha ka Letsatsi la Katlholo",
+        "A nwela mmogo le masole mo lewatleng",
+        "E meditswe ke lefatshe mmogo le matlotlo",
+        "Ba fetotswe go nna ditshwene ka ntlha ya go tlola Sabata",
+        "Go fisiwa ke matlapa a a latlhetsweng go tswa kwa loaping"
+      ],
+      "answer": "Go newa boikhutso go fitlha ka Letsatsi la Katlholo"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

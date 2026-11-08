@@ -1,0 +1,61 @@
+{
+  "title": "Yo'q qilgan hasad",
+  "intro": "Har qanday qirollikdan yoki muqaddas yozuvdan ham qadimgi hikoya - rashkdan tug'ilgan birinchi insoniy fojia. Birinchi ota-onadan tug'ilgan ikki farzandning to'ng'ichi bo'lgan bir jon, ukasi rad etilgan mehr-muhabbatga sazovor bo'lganini g'azab bilan kuzatdi. Keyin eng qorong'u tanlov bo'ldi va yer yuzida to'kilgan birinchi qonni qoldirdi. Siz kimlikni, sinovni va achchiq pushaymonlikni ochib bera olasizmi?",
+  "clues": [
+    "Men yer yuzida yurgan birinchi inson juftligidan tug'ilganman.",
+    "Men bir marta Allohga qurbonlik qildim, lekin u mendan qabul qilinmadi.",
+    "Akamning qurbonligi qabul qilindi, meniki esa rad etildi — bunga men chiday olmadim.",
+    "Men o'z akamni halokat bilan qo'rqitdim.",
+    "Men bu yer yuzida birinchi bo'lib qotillik sodir etdim, o'z akamning hayotini oldim.",
+    "Alloh menga qilgan ishimni qanday yashirishni o'rgatish uchun yer yuzidagi bir jonzotni — yerni qazib olayotgan qora qushni yubordi va men faqat pushaymon bo'ldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Qobil (Qobil)",
+        "Hobil (Abel)",
+        "Ya'qub payg'ambar",
+        "Muso payg'ambar",
+        "Payg'ambar Odam"
+      ],
+      "answer": "Qobil (Qobil)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Alloh tomonidan rad etilgan qurbonlik",
+        "Katta olovga tashlandi",
+        "Chaqaloqligida daryoda tashlab ketilgan",
+        "Ulkan qirollik bilan sinovdan o'tgan",
+        "O'g'lini qurbon qilishga buyurildi"
+      ],
+      "answer": "Alloh tomonidan rad etilgan qurbonlik"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Alloh tomonidan yuborilgan qarg'a",
+        "Oltin buzoq",
+        "Tog'dagi kema",
+        "Yonayotgan buta",
+        "Toshdan o'yilgan urg'ochi tuya"
+      ],
+      "answer": "Alloh tomonidan yuborilgan qarg'a"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Afsuslanishga to'ldi va yutqazganlar qatoriga kirdi",
+        "Xazinalar bilan birga yerga yutildi",
+        "Allohning ulug' elchisi bo'ldi",
+        "Ilohiy rahmat bilan jannatga kirdi",
+        "Tengsiz qirollik ustidan hukmronlik qildi"
+      ],
+      "answer": "Afsuslanishga to'ldi va yutqazganlar qatoriga kirdi"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

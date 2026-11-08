@@ -1,0 +1,61 @@
+{
+  "title": "Sebuah Janji yang Diucapkan di Atas Bara Api",
+  "intro": "Anda berdiri di samping api gurun saat bara apinya disebar dengan hati-hati. Para pengunjung datang untuk sebuah pertemuan dalam keheningan, dan sebuah pesan tunggal membuka kisah tentang janji, kejutan, dan masa depan yang belum terwujud.",
+  "clues": [
+    "Kami menempuh jarak yang jauh untuk menjangkau hamba yang setia di padang gurun.",
+    "Kami meminta agar bara api disebar untuk menyiapkan api unggun.",
+    "Kami berbicara dengan seseorang yang meminta pertolongan api untuk kesejukan dan keselamatan.",
+    "Kami menyampaikan kabar kelahiran bayi kepada seseorang yang telah melewati usia memiliki anak.",
+    "Kami menamai anak yang dijanjikan itu Ishak.",
+    "Kami menyampaikan kabar gembira tentang seorang putra kepada Ibrahim, dan kabar yang menakjubkan itu membuat Ibrahim tertawa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Para Malaikat yang Membawa Kabar Gembira tentang Ishak kepada Ibrahim",
+        "Para Malaikat yang Memperingatkan Lutut",
+        "Para Malaikat Pembawa Takhta",
+        "Para Malaikat Neraka",
+        "Para Malaikat yang Diutus kepada Nuh"
+      ],
+      "answer": "Para Malaikat yang Membawa Kabar Gembira tentang Ishak kepada Ibrahim"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Menyampaikan kabar gembira tentang kelahiran Ishak kepada Ibrahim.",
+        "Memberi peringatan kepada Lut sebelum menghukum rakyatnya.",
+        "Mengumumkan kelahiran Yahya kepada Zakariyya",
+        "Memikul Takhta pada Hari Penghakiman",
+        "Mengumumkan kelahiran Isa kepada Maryam"
+      ],
+      "answer": "Menyampaikan kabar gembira tentang kelahiran Ishak kepada Ibrahim."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Api unggun yang dibuat dari bara api yang tersebar",
+        "Sebuah bahtera yang mengapung di atas air banjir.",
+        "Sebuah gua yang tertutup oleh batu yang menggelinding.",
+        "Gunung tanah liat yang mengeras karena air garam",
+        "Sebuah tangga yang menjulang ke langit"
+      ],
+      "answer": "Api unggun yang dibuat dari bara api yang tersebar"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kabar gembira tentang kelahiran seorang putra bernama Ishak.",
+        "Kabar gembira tentang kelahiran seorang putra bernama Yahya",
+        "Pemilihan Talut sebagai penguasa atas Bani Israel",
+        "Sebuah peringatan sebelum hukuman bagi kaum Lut.",
+        "Perintah untuk membangun bahtera sebelum Banjir Besar"
+      ],
+      "answer": "Kabar gembira tentang kelahiran seorang putra bernama Ishak."
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

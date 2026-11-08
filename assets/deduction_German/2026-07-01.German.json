@@ -1,0 +1,61 @@
+{
+  "title": "Die namenlose Seele, die sich gegen eine ungerechte Nation stellte",
+  "intro": "Im Koran finden sich Gestalten, deren Namen uns vorenthalten wurden, damit wir über ihre Lehren nachdenken können. Eine solche Seele wurde in einem Volk geboren, das seine Boten verworfen hatte. Doch dieser Mensch besaß einen verborgenen Glauben, der ihn von anderen unterschied. Als das Verderben drohte, hielt er standhaft an seinem geheimen Glauben fest. Können Sie die Identität dieser mysteriösen Gestalt enthüllen, die ihr Volk vor dem endgültigen Urteil warnt?",
+  "clues": [
+    "Ich lebte unter einem Volk, das die von Allah zu ihnen gesandten Boten immer wieder verleugnet hatte.",
+    "Im Gegensatz zu meinem Volk erkannte ich die Wahrheit erst, als ein Bote mit klaren Zeichen meines Herrn kam.",
+    "Ich verbarg meinen Glauben vor meinen Unterdrückern, da ich wusste, dass sie mir schaden würden, wenn sie meinen Glauben entdeckten.",
+    "Als der Befehl zur Bestrafung näher rückte, bekannte ich mich offen zu meiner Treue und warnte mein Volk, sich selbst zu retten.",
+    "Ich erinnerte sie daran, dass ich ein vertrauenswürdiger Gesandter bin, nicht anders als die, die vor ihnen gesandt wurden, und dass sie niemanden außer Allah anbeten sollen.",
+    "Mein Volk beschuldigte mich der Zauberei und des Wahnsinns, doch die Strafe, vor der sie gewarnt worden waren, ereilte sie schließlich."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Hud, der Gesandte des Volkes von Aad",
+        "Ein gläubiger Mann aus dem Volk des Propheten Hud, der den Märtyrertod erlitt",
+        "Der Herrscher des Volkes von Aad, der die Wahrheit ablehnte",
+        "Ein Gefährte des Propheten Salih, der die göttlichen Zeichen bezweifelte.",
+        "Ein Engel, gesandt, um das Volk von Aad zu vernichten."
+      ],
+      "answer": "Ein gläubiger Mann aus dem Volk des Propheten Hud, der den Märtyrertod erlitt"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Prüfung durch Dürre und Hungersnot, die ihre Geduld auf die Probe stellte",
+        "Die Prüfung, den Glauben vor einer unterdrückenden, ungläubigen Nation zu bekennen",
+        "Der Versuch, ein Schiff zu bauen, um einer großen Flut zu entkommen",
+        "Die Prüfung, wegen des Glaubens an Allah ins Feuer geworfen zu werden.",
+        "Die Prüfung, ob man mit Reichtum und Wohlstand konfrontiert wird"
+      ],
+      "answer": "Die Prüfung, den Glauben vor einer unterdrückenden, ungläubigen Nation zu bekennen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Stadt Mekka, in der das heilige Haus erbaut wurde",
+        "Die Wüstenebenen des Volkes, das seinen Boten verleugnete",
+        "Die Berge von Midian, wohin der Prophet Schu'aib gesandt wurde",
+        "Das Flussufer in Ägypten, an dem der Prophet Musa gefunden wurde",
+        "Das Tal des Volkes von Aad, von einem heftigen Wind getroffen"
+      ],
+      "answer": "Die Wüstenebenen des Volkes, das seinen Boten verleugnete"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ich wurde auf einem Schiff gerettet und lebte bis zu Allahs Willen.",
+        "Mein Volk glaubte nach mir und wurde auf den geraden Weg geführt.",
+        "Ich wurde von meinem eigenen Volk getötet, aber meine Seele wurde von Allahs Gnade aufgenommen.",
+        "Ich bereute nach der Prüfung und Allah nahm meine Reue an.",
+        "Nach meinem Tod wurde ich in ein Götzenbild verwandelt, das von meinem Volk verehrt wird."
+      ],
+      "answer": "Ich wurde von meinem eigenen Volk getötet, aber meine Seele wurde von Allahs Gnade aufgenommen."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

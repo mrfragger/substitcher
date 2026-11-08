@@ -1,0 +1,61 @@
+{
+  "title": "Il messaggero che affrontò gli idolatri",
+  "intro": "In un'epoca in cui la devozione si era allontanata dalla retta via, un messaggero si levò con un appello a tornare al culto del Signore dei mondi. Questa figura si oppose con fermezza a un popolo radicato nel culto di una falsa divinità, ricordando loro il vero Creatore e il Signore dei loro antenati. Eppure il popolo fu indifferente e respinse l'avvertimento, sigillando il proprio destino. Chi era questo inflessibile messaggero?",
+  "clues": [
+    "Sono stato mandato presso un popolo che si era allontanato dalla via dell'Unico Vero Dio.",
+    "Ho chiesto alla mia gente: \"Non temete Allah?\"",
+    "Li ho esortati ad abbandonare il culto di una falsa divinità chiamata Baal.",
+    "Il mio popolo ha respinto il mio appello e ha persistito nella sua idolatria.",
+    "A causa della loro negazione, saranno certamente portati davanti al giudizio per essere puniti.",
+    "Il Signore mi ha concesso la pace e un ricordo benedetto tra le generazioni future."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il profeta Ilia",
+        "Profeta Yahya",
+        "Profeta Dhul-Kifl",
+        "Il profeta Yusuf",
+        "Profeta Shu'ayb"
+      ],
+      "answer": "Il profeta Ilia"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Chiamò il suo popolo ad abbandonare Baal",
+        "Costruirono un'arca per salvare i credenti",
+        "Fu gettato nel fuoco",
+        "Fuggì dal faraone tiranno",
+        "Colpire una roccia per far sgorgare l'acqua"
+      ],
+      "answer": "Chiamò il suo popolo ad abbandonare Baal"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Concedi la pace e un ricordo benedetto",
+        "Inghiottito dalla terra",
+        "Distrutto da una violenta tempesta",
+        "Trasformato in pietra",
+        "Annegato in mare"
+      ],
+      "answer": "Concedi la pace e un ricordo benedetto"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

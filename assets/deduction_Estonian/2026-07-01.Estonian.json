@@ -1,0 +1,61 @@
+{
+  "title": "Nimetu hing, kes seisis vastu ebaõiglasele rahvale",
+  "intro": "Koraani lehekülgedel on tegelasi, kelle nimesid varjati, et saaksime nende õppetundide üle järele mõelda. Üks selline hing sündis rahva seas, kes oli oma sõnumitoojad hüljanud, kuid sellel inimesel oli varjatud usk, mis eristas neid teistest. Kui häving ähvardas, jäi see inimene oma salapärases usus kindlaks. Kas suudad paljastada selle salapärase tegelase identiteedi, kes hoiatab oma rahvast enne viimase otsuse langemist?",
+  "clues": [
+    "Ma elasin rahva seas, kes oli korduvalt eitanud Allahi poolt neile saadetud sõnumitoojaid.",
+    "Erinevalt oma rahvast tundsin mina tõe ära, kui sõnumitooja saabus selgete märkidega mu Issandalt.",
+    "Ma varjasin oma usku rõhujate eest, teades, et nad teevad mulle kahju, kui nad mu usu avastavad.",
+    "Kui karistuskäsk lähenes, kuulutasin avalikult oma truudust ja hoiatasin oma rahvast end päästma.",
+    "Ma tuletasin neile meelde, et olen usaldusväärne sõnumitooja, kes ei erine varem saadetutest, ja et nad ei tohiks kummardada kedagi peale Allahi.",
+    "Mu rahvas süüdistas mind nõiduses ja hullumeelsuses, kuid karistus, mille eest neid hoiatati, tabas neid lõpuks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Hud, Aadi rahva sõnumitooja",
+        "Prohvet Hudi rahvast pärit usklik mees, kes suri märtriks",
+        "Aadi rahva valitseja, kes tõe tagasi lükkas",
+        "Prohvet Salihi kaaslane, kes kahtles jumalikes märkides",
+        "Ingel saadeti Aadi rahvast hävitama"
+      ],
+      "answer": "Prohvet Hudi rahvast pärit usklik mees, kes suri märtriks"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Põua ja näljahäda katsumus, mis pani proovile nende kannatlikkuse",
+        "Usu kuulutamise katsumus rõhuva uskmatu rahva ees",
+        "Laeva ehitamise katsumus suure üleujutuse eest pääsemiseks",
+        "Allahi uskumise eest tulle viskamise katsumus",
+        "Rikkuse ja õitsenguga proovilepaneku katsumus"
+      ],
+      "answer": "Usu kuulutamise katsumus rõhuva uskmatu rahva ees"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Meka linn, kuhu pühakoda ehitati",
+        "Rahva kõrbetasandikud, mis oma sõnumitooja eitas",
+        "Midjani mäed, kuhu prohvet Shu'aib läkitati",
+        "Egiptuse jõekallas, kust leiti prohvet Musa",
+        "Aadi rahva org, mida tabas tugev tuul"
+      ],
+      "answer": "Rahva kõrbetasandikud, mis oma sõnumitooja eitas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Mind päästeti laeval ja elasin kuni Allahi tahtmiseni",
+        "Mu rahvas uskus pärast mind ja juhatati sirgele teele",
+        "Mu rahvas tappis mind, aga Allahi halastus võttis mu hinge.",
+        "Ma kahetsesin pärast katsumust ja Allah võttis mu meeleparanduse vastu",
+        "Pärast surma muutus mind mu rahvas ebajumalaks, keda nad kummardasid"
+      ],
+      "answer": "Mu rahvas tappis mind, aga Allahi halastus võttis mu hinge."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

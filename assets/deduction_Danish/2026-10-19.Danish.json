@@ -1,0 +1,61 @@
+{
+  "title": "De udstødte fra himlen",
+  "intro": "Et mystisk væsen står ved et skillevej mellem skabelse og afvisning. Deres historie er en historie om uovertruffen arrogance og den ultimative trodsighed mod en guddommelig befaling. Deres valg giver genlyd gennem hver generation og bliver en prøve for enhver sjæl, der fødes ind i denne verden. Kan du identificere denne evige modstander?",
+  "clues": [
+    "Jeg var til stede ved en begivenhed af kosmisk betydning, hvor et nyt væsen blev formet af ler og givet liv af den Barmhjertiges åndedrag.",
+    "Jeg selv blev til af et enkelt flammende element, i modsætning til et væsen af ​​støv.",
+    "Jeg fik udstedt en kommando, som jeg anså for at være under min stilling.",
+    "Stolthed svulmede i mig, og jeg nægtede bestemt at adlyde den befaling.",
+    "En udsættelse indtil en fastsat dag blev givet mig, så jeg kunne forfølge mit erklærede formål med at vildlede andre.",
+    "Jeg er den erklærede fjende af alle, der vandrer på jorden, hvisker bedrag og lokker dem væk fra den rette vej."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Iblis (Satan)",
+        "Farao (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satan)"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Nægtede at bøje sig for Adam",
+        "Påstod falsk guddommelighed",
+        "Smedede en guldkalv til tilbedelse",
+        "Dræbte sin bror af misundelse",
+        "Ledede den polyteistiske opposition i Mekka"
+      ],
+      "answer": "Nægtede at bøje sig for Adam"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Paradis (Jannah)",
+        "Faraos palads i Egypten",
+        "Den hellige dal Tuwa",
+        "Havets dybder",
+        "Shebas have"
+      ],
+      "answer": "Paradis (Jannah)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Givet udsættelse indtil dommedag",
+        "Druknede sammen med hæren i havet",
+        "Opslugt af jorden sammen med skatte",
+        "Forvandlet til aber for at bryde sabbatten",
+        "Brændt af sten kastet fra himlen"
+      ],
+      "answer": "Givet udsættelse indtil dommedag"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

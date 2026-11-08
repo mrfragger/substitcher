@@ -1,0 +1,61 @@
+{
+  "title": "Zuzenen loaldia",
+  "intro": "Fedea arriskutsua zen eta boteretsuek sinesmena zapuztu nahi zuten garaian, arima gazte talde txiki batek mendeetan zehar oihartzuna izango zuen aukera bat egin zuen. Ezagutzen zuten guztiari ihes eginez, mendi baten iluntasun ezkutuan babesa bilatu zuten eta Ala-rengan jarri zuten konfiantza osoa. Ondoren gertatu zena seinale iragankor bihurtuko zen hausnartzen dutenentzat.",
+  "clues": [
+    "Gure Jaunarengan sinesten genuen gazte talde bat ginen, eta Hark gidaritza handitu zigun.",
+    "Gure herriaren aurrean zutik jarri ginen eta adierazi genuen ez genuela inoiz Ala ez den beste jainko bati deituko.",
+    "Kobazulo batean babesa bilatu genuen, esanez: «Gure Jauna, eman iezaguzu errukia Zeuregandik eta gidatu gaitzazu zuzen gure gaietan».",
+    "Urte askoan lo egin genuen, eta eguzkia gure kobazulotik urruntzen zen eta ez gintuen ukitzen.",
+    "Gure txakurra kobazuloaren sarreran etzanda zegoen, guri begira balego bezala.",
+    "Esnatu gintuenean, zenbat denbora itxaron genuen galdetu genion geure buruari, eta gutako bat zilarrezko txanponekin bidali zuten janaria erostera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Kobazuloko jendea.",
+        "Lubakiko jendea",
+        "Sabateko jendea.",
+        "Elefantearen jendea.",
+        "Basoko Lagunak."
+      ],
+      "answer": "Kobazuloko jendea."
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Fedeagatik jazarpena saihesteko kobazulo batera ihes egin zuten",
+        "Haize bortitz batek suntsitu zuen",
+        "Lurrak irentsia.",
+        "Itsasoan itota.",
+        "Harri-ekaitz batek jota"
+      ],
+      "answer": "Fedeagatik jazarpena saihesteko kobazulo batera ihes egin zuten"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Txakur bat kobazuloaren sarrera zaintzen",
+        "Arka handi bat.",
+        "Suge bihurtu zen makila",
+        "Upupa txoria",
+        "Urrezko txahal bat"
+      ],
+      "answer": "Txakur bat kobazuloaren sarrera zaintzen"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "309 urtez egon ziren kobazuloan eta gero seinale gisa altxatu zituzten.",
+        "Tximino bihurtu ziren.",
+        "Uholde batek suntsitu zituen.",
+        "Itsasoa zeharkatzera behartu zituzten",
+        "Erreinua eman zitzaien."
+      ],
+      "answer": "309 urtez egon ziren kobazuloan eta gero seinale gisa altxatu zituzten."
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

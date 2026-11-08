@@ -1,0 +1,61 @@
+{
+  "title": "El Retiro Solitario",
+  "intro": "Diospa favorninmanta willakuykunapiqa kanmi mana tupachiy atina ch’uya alma, llaqtankumanta t’aqasqa sapallan kayta maskhanankupaq ch’uya ñanman. Manan yacharqankuchu kay sapanchasqa kayqa llapa pachakunapaq señalta apamunanta, iñiypa pruebanta wiñaypaq rimasqa kananta.",
+  "clues": [
+    "Manaraq naceshaspaymi dedicasqa karqani servicio kawsayman.",
+    "Noble profetapa cuidasqanmi churawaranku.",
+    "Allahmanta mikuykunawanmi yanapawarqaku, chaymi guardiayta admirachirqa.",
+    "Familiaymanta t’aqakurqani inti lloqsimuy ladoman.",
+    "Huk angelmi rikurimuwarqa mana pantaq runaman rikchakuq, chuya churimanta willakuyta apamuwaspan.",
+    "Chayraq naceq wawaywan kutimuptiymi llaqtamasiykuna huchachawarqaku, chay wawachañataqmi defiendekunaypaq rimapayarqa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Maryam (María) .",
+        "Asiyah (Faraonpa warmin) .",
+        "Hajar (Ismailpa maman) .",
+        "Sara (Ibrahimpa warmin) .",
+        "Musa maman"
+      ],
+      "answer": "Maryam (María) ."
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Milagrowan wiksayakuy hinaspa churi nacesqan",
+        "Ninaman wikch’usqa kay",
+        "Hatun challwawan millp’usqa kay",
+        "Hatun arcata ruray",
+        "Lamar qochata chimpaspa"
+      ],
+      "answer": "Milagrowan wiksayakuy hinaspa churi nacesqan"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Inti lluqsimuy ladupi sapanchasqa sitio",
+        "Ruphachkaq sacha",
+        "Puka Qucha",
+        "Maymantachus yaku lluqsirqa chay qaqa",
+        "Chay ballena"
+      ],
+      "answer": "Inti lluqsimuy ladupi sapanchasqa sitio"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Huk wawacham rimarqa huk mamanta defiendenanpaq",
+        "Lamar qochaqa t’aqasqañan kasharqan",
+        "Ninaqa q’uñi, mana imamanta manchachikuqman tukupurqan",
+        "Chay ballenaqa qocha patamanmi vomitaykusqa",
+        "Chay arcaqa huk orqomanmi chayaran"
+      ],
+      "answer": "Huk wawacham rimarqa huk mamanta defiendenanpaq"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

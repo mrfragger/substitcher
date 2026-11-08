@@ -1,0 +1,61 @@
+{
+  "title": "Lentsoe le Khutsitseng la Phula",
+  "intro": "Khutlela morao nakong ho ea ho batho ba matla ba kileng ba fumana mohlolo o phelang e le teko. Boikhohomoso le manganga li ile tsa tiisa qetello ea bona. Na u ka sala pale morao 'me ua fumana se ileng sa etsahala phetohong ena e makatsang?",
+  "clues": [
+    "Ke ile ka romeloa e le teko ea bomolimo ho batho ba matla ba tsejoang ka matla a bona le ho se mamele ha bona.",
+    "Ke ne ke le mohlolo o ikhethang—batho ba kang nna ba ne ba e-so ka ba hlaha har'a bona.",
+    "Ke ile ka arolelana metsi a nooang selibeng le batho ba heso ka matsatsi a fapanyetsanang.",
+    "Ba ile ba lemosoa hore kotsi efe kapa efe khahlanong le 'na e tla tlisa kotlo e potlakileng.",
+    "Ba sebete ka ho fetisisa ho bona ba ile ba hlokomoloha temoso mme ba nthiba.",
+    "Kamora lefu la ka, mohoo o le mong o kang oa sealuma o tsoang holimo o ile oa timetsa batho bohle ba ka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Kamele e Tšehali ea Salih",
+        "Khomo ea Musa",
+        "Sekepe sa Nuh",
+        "Basebetsi ba Musa",
+        "Terone ea Bilqis"
+      ],
+      "answer": "Kamele e Tšehali ea Salih"
+    },
+    "trial": {
+      "label": "Qetello ea Ka",
+      "options": [
+        "O ile a halefa 'me a bolaoa",
+        "E hlajoa e le sehlabelo",
+        "E fetotsoe noha",
+        "E bolokiloe nakong ea moroallo o moholo",
+        "Ho tlisoa kapele 'musong"
+      ],
+      "answer": "O ile a halefa 'me a bolaoa"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Seliba sa metsi",
+        "Letlapa la lejoe",
+        "Sehlahla se tukang",
+        "Areka ea lehong",
+        "Terone ea khauta le silevera"
+      ],
+      "answer": "Seliba sa metsi"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E sentsoe ke mohoo o le mong",
+        "Ho khangoa ke moroallo o moholo",
+        "E chesitsoe ke pula ea majoe",
+        "E thutsoe ke moea o matla",
+        "E metsoa ke lefats'e"
+      ],
+      "answer": "E sentsoe ke mohoo o le mong"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

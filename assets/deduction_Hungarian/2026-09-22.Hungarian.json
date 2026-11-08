@@ -1,0 +1,61 @@
+{
+  "title": "A magas oszlopok építői",
+  "intro": "Egy fenséges, ősi város romjai előtt állsz, magasztos oszlopai immár ledőltek. A szél süvít az üres utcákon, egy hatalmas nép emlékét hordozva, akik egykor uralták ezeket a földeket. Kik voltak ők?",
+  "clues": [
+    "Hatalmas erővel és képességekkel rendelkező nép voltunk, melyet nagyszerű épületeinkről és fejlett civilizációnkról ismertünk.",
+    "Homokdűnék és sziklás dombok vidékén éltünk, és azt hittük, senki sem tud legyőzni minket.",
+    "Egy küldött jött hozzánk a saját rokonaink közül, aki arra hívott minket, hogy egyedül Allahot imádjuk, de mi elutasítottuk és kigúnyoltuk őt.",
+    "Azt dicsekvéskedtünk: „Ki erősebb nálunk?”, és folytattuk gőgünket és bálványimádásunkat.",
+    "Allah heves szelet küldött ránk, amely hét éjjel és nyolc napon át fújt, mindent elpusztítva.",
+    "Mi voltunk Ád népe, Irám építői, és sorsunk intő jel volt mindazok számára, akik utánunk jöttek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "'Ad emberei",
+        "Thamud népe",
+        "Madyan népe",
+        "Tubba népe",
+        "al-Rass népe"
+      ],
+      "answer": "'Ad emberei"
+    },
+    "trial": {
+      "label": "Milyen büntetést szabtak ki rájuk?",
+      "options": [
+        "Egy pusztító szél",
+        "Kőzápor",
+        "Egy hangos robbanás",
+        "Vízbefulladás",
+        "Elnyelte a föld"
+      ],
+      "answer": "Egy pusztító szél"
+    },
+    "location": {
+      "label": "Mi a legendás városuk neve?",
+      "options": [
+        "Irám",
+        "Szodoma",
+        "Midián",
+        "Bábel",
+        "Petra"
+      ],
+      "answer": "Irám"
+    },
+    "outcome": {
+      "label": "Mi volt a végső sorsuk?",
+      "options": [
+        "Elpusztultak, és maradványaik tanulságossá váltak",
+        "Megbánták bűneiket és megmenekültek",
+        "Majmokká változtak át",
+        "A tengerbe fulladtak",
+        "Földcsuszamlás temette el őket"
+      ],
+      "answer": "Elpusztultak, és maradványaik tanulságossá váltak"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

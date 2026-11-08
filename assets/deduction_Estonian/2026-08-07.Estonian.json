@@ -1,0 +1,61 @@
+{
+  "title": "Usk trooni taga",
+  "intro": "Mõnda hinge ei pane proovile mitte tuli ega veeuputus, vaid türanni palees elamise aeglane surve. See kuju seisis valitseja kõrval, kes väitis end oma rahva üle jumalikuks olevat, kuid klammerdus salaja usu külge ühte ja samasse tõelisse Jumalasse. Kui nende pühendumus avastati, saabusid kannatused – aga ka jumalik lubadus. Kas oskad arvata, kes see on?",
+  "clues": [
+    "Ma elasin oma maa võimsaima valitseja katuse all, olukorras, mida vähesed oleksid osanud ette kujutada.",
+    "Mu abikaasa seisis rahva ees ja kuulutas end jumalaks – aga minu süda kuulus Ainsale Tõelisele Issandale.",
+    "Sosistasin salaja palveid, kartes karistust, mis tabas kõiki, kes mu abikaasale vastu astusid.",
+    "Kui mu usk paljastati, haarati mind kinni ja piinati – ometi ei lausunud mu keel kunagi uskmatust.",
+    "Ma valasin oma südame Issanda ette, paludes kodu paradiisis, kaugel kõigist ülekohtutegudest.",
+    "Mina olen Asiya bint Muzahim – vaarao naine, kes oli Musa ja Haruni vastu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Asiya bint Muzahim (vaarao naine)",
+        "Hawwa (Eeva), esimene naine",
+        "Saara, Ibrahimi esimene naine",
+        "Haagar, Isma'ili ema",
+        "Maryami (Imrani naise) ema"
+      ],
+      "answer": "Asiya bint Muzahim (vaarao naine)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Piinamise talumine usust loobumisest keeldumise pärast",
+        "Ellujäämine suure kala kõhus",
+        "Hiiglasliku laeva ehitamine üleujutuse eest pääsemiseks",
+        "Lõõmavasse tulle heidetud",
+        "Suure mere lahknemise tunnistajaks"
+      ],
+      "answer": "Piinamise talumine usust loobumisest keeldumise pärast"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Paradiisis neile ehitatud maja",
+        "Personali, mis muutus maoks",
+        "Laev, mis kannab paariti iga olendit",
+        "Kuldvasikas, keda rahvas kummardas",
+        "Hiiglasliku sõdalase alistamiseks kasutatav ling"
+      ],
+      "answer": "Paradiisis neile ehitatud maja"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Austatud elukohaga paradiisis koos õigete inimestega",
+        "Uppusid koos oma armeega lainete alla",
+        "Põles leekides, kuid päästeti jumaliku sekkumise abil",
+        "Suur olend neelas ta alla ja heitis siis kaldale",
+        "Sai oma aja rikkaimaks inimeseks"
+      ],
+      "answer": "Austatud elukohaga paradiisis koos õigete inimestega"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

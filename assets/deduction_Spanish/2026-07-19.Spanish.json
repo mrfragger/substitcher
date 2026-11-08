@@ -1,0 +1,61 @@
+{
+  "title": "La voz desatendida de siglos",
+  "intro": "Mucho antes de que surgieran las grandes ciudades, un alma solitaria se alzó entre un pueblo que se había alejado de la verdad. Su obstinación solo era comparable a la paciencia de este solitario predicador, que imploró durante generaciones sin perder la fe. Cuando todas las advertencias cayeron en saco roto, un ajuste de cuentas sin precedentes transformó la tierra misma. Hoy, los ecos de esa historia aún resuenan en cada relato. ¿Puedes identificar a esta alma resuelta?",
+  "clues": [
+    "Me crié entre un pueblo que adoraba ídolos falsos e ignoraba las señales que les rodeaban, pero fui elegido para despertarlos de su negligencia.",
+    "Una y otra vez llamé a mi gente, pero me acusaron de ser uno más de ellos, se burlaron de mi mensaje y se taparon los oídos.",
+    "Día y noche, les imploré sabiduría y amables recordatorios, pero mis palabras parecieron desvanecerse en el aire, sin ser escuchadas ni tenidas en cuenta.",
+    "Siguiendo instrucciones divinas, construí una enorme embarcación de madera y tablones en tierra firme, y mi gente se rió de mí como si hubiera perdido la razón.",
+    "Cuando llegó la gran inundación, tal como se había anunciado, mi propio hijo se negó a subir al barco conmigo, creyendo que una montaña lo protegería de la crecida de las aguas.",
+    "Me convertí en el patriarca de un nuevo comienzo sobre la tierra, y mi historia se conserva en un capítulo del Corán que lleva mi nombre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Noé",
+        "Profeta Ibrahim",
+        "El profeta Musa",
+        "Profeta Lut",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Noé"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El Gran Diluvio que transformó la Tierra",
+        "Ser arrojado a un fuego ardiente por los idólatras",
+        "Enfrentamiento con los magos del faraón en el palacio.",
+        "La destrucción de los prósperos jardines por una tormenta celestial",
+        "El derribo de los habitantes de las trincheras"
+      ],
+      "answer": "El Gran Diluvio que transformó la Tierra"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El Arca construida con madera y tablones.",
+        "La casa sagrada construida sobre cimientos antiguos.",
+        "El bastón que se transformó en serpiente",
+        "La cueva de los jóvenes durmientes",
+        "El trono llevado por una criatura poderosa"
+      ],
+      "answer": "El Arca construida con madera y tablones."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Los incrédulos se ahogaron mientras que los creyentes fueron salvados a bordo del barco.",
+        "El fuego se extinguió y se volvió seguro, y la persona que llamó salió ilesa.",
+        "Los magos cayeron postrados y abrazaron la fe.",
+        "El jardín fue concedido al vecino justo en su lugar.",
+        "Los durmientes despertaron después de siglos, transformados."
+      ],
+      "answer": "Los incrédulos se ahogaron mientras que los creyentes fueron salvados a bordo del barco."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

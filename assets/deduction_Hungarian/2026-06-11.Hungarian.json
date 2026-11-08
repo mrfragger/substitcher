@@ -1,0 +1,61 @@
+{
+  "title": "A falu a próba partján",
+  "intro": "Egy tengerparti faluban találod magad, ahol a hullámok morajlása keveredik egy elfeledett nép suttogásával. Parancsot kaptak a nyugalomra, de kapzsiságuk büntetéshez vezetett, amelyről még mindig csak halkan beszélnek. Vajon kideríted, kik voltak ők?",
+  "clues": [
+    "A parton laktunk, és parancsot kaptunk, hogy tartsunk egy pihenőnapot.",
+    "Azon a napon rengeteg hal jött hozzánk, de tilos volt elvinnünk őket.",
+    "Néhányan közülünk óva intettek a kihágástól, de mások mégis összeesküdtek a halászatra.",
+    "Megszegtük a szent parancsot, és súlyos büntetést hoztunk magunkra.",
+    "A büntetésünk egy átalakulás volt, amely eltorzított és megszégyenített minket.",
+    "Majmokká változtunk, jelként mindazoknak, akik utánunk jönnek."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A szombat népe",
+        "Thamud népe",
+        "'Ad emberei",
+        "A barlang népe",
+        "Az elefánt népe"
+      ],
+      "answer": "A szombat népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Horgászat szombaton",
+        "Aranyborjú imádása",
+        "Hud üzenetének megtagadása",
+        "A nőstény teve megölése",
+        "Égbe vezető tornyot építve"
+      ],
+      "answer": "Horgászat szombaton"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A hal",
+        "Egy nőstény teve",
+        "Egy személyzet",
+        "Egy hajó",
+        "Egy kert"
+      ],
+      "answer": "A hal"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Majmokká változtak",
+        "Árvíz pusztította el",
+        "Lángoló tűz pusztította el",
+        "Elnyelte a föld",
+        "Szél szórta szét"
+      ],
+      "answer": "Majmokká változtak"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

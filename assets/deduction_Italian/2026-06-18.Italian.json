@@ -1,0 +1,61 @@
+{
+  "title": "Il primo a chiedere perdono",
+  "intro": "Torniamo indietro nel tempo, prima della prima alba, prima che qualsiasi mortale camminasse sulla Terra. Una figura fu plasmata dai materiali più umili, le fu conferito un rango superiore a quello degli angeli e fu collocata in un giardino sacro con un chiaro avvertimento. Eppure, in un singolo istante, fu fatta una scelta, una scelta che avrebbe riecheggiato per tutta la storia dell'umanità. Chi è questa figura?",
+  "clues": [
+    "Sono venuto all'esistenza in un modo unico, plasmato dalla polvere della terra e dotato di un'anima vivente per mano del Creatore.",
+    "Mi è stata concessa una conoscenza così profonda che persino gli angeli lassù ne rimasero meravigliati.",
+    "Fu ordinato a tutto il cielo di inchinarsi davanti a me, e tutti si sottomisero, tranne uno, che si rifiutò per orgoglio.",
+    "Fui collocato in un giardino sacro, un luogo di eterno conforto e provvidenza, ma con un divieto assoluto.",
+    "Ho dimenticato, ho commesso un errore e ho disobbedito, e ho sentito profondamente il peso del mio sbaglio.",
+    "Mi sono rivolto al Signore con parole sincere, ed Egli ha accettato il mio pentimento, perché Egli è il Perdonatore per eccellenza."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Adamo",
+        "Profeta Dawud",
+        "Profeta Maometto",
+        "Iblis",
+        "Profeta Yaqub"
+      ],
+      "answer": "Profeta Adamo"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Agli angeli fu comandato di prostrarsi",
+        "Il grande diluvio fu inviato",
+        "Un grande fuoco è stato reso freddo e sicuro",
+        "Un sovrano arrogante annegò in mare",
+        "Un esercito di elefanti è stato distrutto"
+      ],
+      "answer": "Agli angeli fu comandato di prostrarsi"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il Giardino della Beatitudine",
+        "Monte Sinai",
+        "La Sacra Moschea",
+        "Il fiume Nilo",
+        "La grotta"
+      ],
+      "answer": "Il Giardino della Beatitudine"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il pentimento è stato accettato da Allah.",
+        "Annegato in mare",
+        "Inghiottito da un grande pesce",
+        "La nazione è stata colpita da una potente esplosione",
+        "Bruciato da un vento rovente"
+      ],
+      "answer": "Il pentimento è stato accettato da Allah."
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

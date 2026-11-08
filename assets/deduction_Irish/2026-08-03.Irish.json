@@ -1,0 +1,61 @@
+{
+  "title": "An tEarrach Faoin nGaineamh",
+  "intro": "In annálacha an Choráin, bhí duine foighneach thar a bheith foighneach os comhair triail a bhrisfeadh na croíthe ba mhó a raibh ann. Baineadh gach rud díobh - saibhreas, teaghlach, agus sláinte. Ach ó dhoimhneacht an éadóchais, freagraíodh paidir umhal ar an mbealach is gan choinne. An féidir leat an t-anam seo a aithint a bhfuil a scéal athchóirithe ag macalla trí na haoiseanna?",
+  "clues": [
+    "Cuireadh tástáil chomh dian sin orm go gcuimhneofar uirthi ó thús na haoiseanna.",
+    "Chaill mé gach rud a bhí tábhachtach - mo shaibhreas, mo pháistí, agus mo shláinte.",
+    "Bhí mo chorp clúdaithe le créachta pianmhara, agus sheachnaigh cách mé.",
+    "I mo dhíomá, ghlaoigh mé ar Allah, ag rá gur bhain Sátan liom le cruatan agus le céasadh.",
+    "D’fhreagair Allah mé agus d’ordaigh sé dom an talamh a bhualadh le mo chos.",
+    "As an áit sin féin, phléasc earrach fionnuar amach, agus d’athbhunaigh Allah mo theaghlach agus rinne sé trócaire orthu faoi dhó."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Ayyub",
+        "an Fáidh Músa",
+        "An Fáidh Ilyas",
+        "Fáidh Sulayman",
+        "Fáidh Dawud"
+      ],
+      "answer": "Fáidh Ayyub"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Tinneas tromchúiseach agus cailliúint teaghlaigh agus saibhris",
+        "Á shlogadh ag míol mór mór",
+        "Deoraíocht ó chathair Mecca",
+        "Príosúnacht i dtobar domhain",
+        "Aghaidh a thabhairt ar rialóir sotalach"
+      ],
+      "answer": "Tinneas tromchúiseach agus cailliúint teaghlaigh agus saibhris"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Earrach fionnuar ón talamh",
+        "Bád ar thuile mhór",
+        "Foireann a scoilt an fharraige",
+        "Ríchathaoir ardaithe gloine",
+        "Uaimh bhallaithe le haghaidh codlata"
+      ],
+      "answer": "Earrach fionnuar ón talamh"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Teaghlach agus saibhreas athchóirithe agus dúbailte",
+        "Slí amach as bolg éisc",
+        "Pasáiste sábháilte trí uiscí scartha",
+        "Ríocht tugtha chun rialú",
+        "Breith mhíorúilteach mic i seanaois"
+      ],
+      "answer": "Teaghlach agus saibhreas athchóirithe agus dúbailte"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

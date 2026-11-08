@@ -1,0 +1,61 @@
+{
+  "title": "Nafsi Iliyoteswa ya Mto Nile",
+  "intro": "Katika enzi ya ukandamizaji mkubwa, wakati mtawala wa kiimla alipotawala nchi kwa ukatili mkubwa, mtu mmoja alichagua njia ya imani badala ya starehe ya kifalme. Mtu huyu aliishi katika moyo wa mamlaka lakini akapata ukweli katika ujumbe wa nabii mnyenyekevu. Safari yao ingekuwa somo lisilo na kikomo katika uvumilivu, kujitolea, na kusadikika kusikoyumba. Je, unaweza kumtambua mtu huyu wa ajabu aliyependelea radhi ya kimungu kuliko hadhi ya kidunia?",
+  "clues": [
+    "Niliishi katika jumba lenye nguvu nyingi, lakini moyo wangu ulipata ukweli katika ujumbe mnyenyekevu.",
+    "Nilichagua kufuata mwongozo wa Musa, nikijua matokeo ambayo ningekabiliana nayo.",
+    "Niliolewa na mtawala mwenye nguvu zaidi wa wakati wangu, lakini nilikataa miungu yake ya uwongo.",
+    "Mateso yangu yalikuwa makali, kwani niliadhibiwa kwa imani yangu katika Mungu Mmoja.",
+    "Sikuwahi kuyumba katika imani yangu, hata nilipokabiliwa na mateso makali zaidi.",
+    "Mola wangu alifurahishwa na uvumilivu wangu na akanichagua kwa ajili ya mahali pa heshima Peponi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mama yake Nabii Musa",
+        "Mke wa Farao",
+        "Dada yake Nabii Musa",
+        "Malkia wa Misri ya kale",
+        "Mtumishi wa Waisraeli"
+      ],
+      "answer": "Mke wa Farao"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kupigana katika njia ya Mwenyezi Mungu na jeshi",
+        "Kukabiliana na Farao na kutangaza imani",
+        "Kujenga sehemu za ibada nchini Misri",
+        "Kusafiri kuvuka bahari na Musa",
+        "Kupokea ufunuo kutoka kwa Mwenyezi Mungu"
+      ],
+      "answer": "Kukabiliana na Farao na kutangaza imani"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Jangwa la Midiani",
+        "Jumba la kifalme la Misri",
+        "Kingo za Mto Nile",
+        "Mlima wa Sinai",
+        "Nchi ya Kanaani"
+      ],
+      "answer": "Jumba la kifalme la Misri"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa nabii baada ya miaka mingi",
+        "Aliwaongoza Waisraeli kutoka Misri",
+        "Alipewa mamlaka juu ya Misri",
+        "Aliuawa shahidi na kuheshimiwa na Mwenyezi Mungu",
+        "Aliishi hadi uzee kwa raha"
+      ],
+      "answer": "Aliuawa shahidi na kuheshimiwa na Mwenyezi Mungu"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

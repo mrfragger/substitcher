@@ -1,0 +1,61 @@
+{
+  "title": "la melodia de les muntanyes al capvespre",
+  "intro": "Escolta com les valls ressonen amb lloances al costat d'un servent escollit d'Al·là. Una veu dotada de melodia, un judici buscat pels disputants a la cambra i un metall suavitzat per ordre diví esperen ser descoberts. Quina figura de culte i govern just parla a través d'aquests signes?",
+  "clues": [
+    "Vaig ser beneït per Al·là amb munificència i una veu melodiosa de lloança.",
+    "Al·là em va ensenyar a entendre el llenguatge del judici just entre els disputants.",
+    "Em vaig enfrontar a un poderós guerrer gegant en batalla i, per la voluntat d'Al·là, el vaig vèncer.",
+    "Em van donar saviesa, autoritat i una escriptura revelada de salms d'Al·là.",
+    "Les muntanyes i els ocells em van unir per glorificar Al·là amb mi al vespre i a la sortida del sol.",
+    "Al·là em va ensenyar a fer cotes de malla amb ferro que es va suavitzar per a mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Dawud (David)",
+        "Profeta Ismael (Ismael)",
+        "Profeta Yahya (Joan)",
+        "Dhul-Kifl",
+        "Profeta Al-Yasa (Eliseu)"
+      ],
+      "answer": "Profeta Dawud (David)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va derrotar Jalut (Goliat) en batalla per la voluntat d'Al·là",
+        "Va construir l'Arca per sobreviure al gran diluvi",
+        "Va ser llançat a un foc que Al·là va refredar",
+        "Va ser engolit per un gran peix al mar",
+        "Va ser elevat als cels sense tastar la mort"
+      ],
+      "answer": "Va derrotar Jalut (Goliat) en batalla per la voluntat d'Al·là"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Muntanyes i ocells unint-se en lloança a Al·là",
+        "Un bastó que es va convertir en una serp",
+        "Un foc que es va tornar fresc i pacífic",
+        "Una camella enviada com a senyal a la gent",
+        "Una arca de fusta descansant al mont Judi"
+      ],
+      "answer": "Muntanyes i ocells unint-se en lloança a Al·là"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Se li va concedir la reialesa, la saviesa i el Zabur (Salms)",
+        "Concedit un fill a la vellesa després d'una oració fervent",
+        "Seguretat garantida a la cova durant molts anys",
+        "Concedida una font de Zamzam al desert",
+        "Ofegament concedit de l'exèrcit al mar"
+      ],
+      "answer": "Se li va concedir la reialesa, la saviesa i el Zabur (Salms)"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

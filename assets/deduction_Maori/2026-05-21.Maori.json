@@ -1,0 +1,61 @@
+{
+  "title": "Te Haerenga a te Wairua Whāngai",
+  "intro": "I te wā i mana ai ngā tikanga pāpori, i pāngia tētahi tangata ahurei e tētahi panonitanga nui i roto i tētahi whare manaaki. Ko tā rāua kōrero, i tohuhia e te here o te aroha me te ture a te Atua, e whakaatu ana i te pakaru o ngā tikanga tawhito me te whakatūnga o ngā mātāpono hou, tika. E whakaatu ana tēnei kōrero i te hiranga o te pono i runga ake i ngā tikanga me te whakaaro nui kei muri i ngā whakahau a Allah.",
+  "clues": [
+    "I hereherea ahau i mua, engari nā te whakaritenga a te Atua, i kitea e au he kāinga hou me he whānau hou.",
+    "Nui atu tōku aroha ki a ia, ā, i te wā i tukuna mai ai he kōwhiringa i waenga i tōku whānau tupu me tōku kaitiaki whāngai, i whiriwhiria e au te noho ki te whānau tuarua.",
+    "I mua i honoa tōku ingoa ki te kaitiaki whāngai mōku, he tikanga tēnei i roto i tōku hapori.",
+    "Ko au anake te hoa o te Poropiti whakamutunga kua whakahuatia māramatia tōna ingoa e Allah i roto i te Quran.",
+    "I moe ahau i tētahi wahine rangatira, he whanaunga nō te Poropiti, engari kāore i roa tō māua marena.",
+    "I muri i taku whakarere, nā Allah tonu i whakatau kia marena taku wahine o mua ki te Poropiti, ā, nā reira i whakakorea ai te tikanga tawhito mō te whāngai tamariki."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Bilal ibn Rabah",
+        "Hāmana al-Farsi",
+        "Āpu Pākaru as-Siddiq",
+        "Zayd ibn Harithah",
+        "Usama ibn Zayd"
+      ],
+      "answer": "Zayd ibn Harithah"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te ārahi i tētahi ope taua i te wā taitamariki",
+        "Te manawanui ki te whakamamae mō te whakapono",
+        "Te Pakanga o te Āwhata",
+        "Te ture a te Atua mō taku marena me taku whakarere",
+        "Te hekenga ki Āpihia"
+      ],
+      "answer": "Te ture a te Atua mō taku marena me taku whakarere"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te mahi whakatupu moni tārewa",
+        "Te karakia ki ngā whakapakoko",
+        "Te tikanga o te whāngai tamariki me ōna pānga",
+        "Te aukati i te waipiro",
+        "Te maimoatanga o ngā pani"
+      ],
+      "answer": "Te tikanga o te whāngai tamariki me ōna pānga"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te noho hei muezzin tuatahi o te Ihirama",
+        "Te whakatūnga o te Kaaba",
+        "Te whakakorenga o te tikanga i mua i te taenga mai o te Ihirama, arā, 'te karanga i ngā tama whāngai he tama tūturu'",
+        "Ko te whakakitenga o Surah Al-Fatiha",
+        "Te whakatūnga o tētahi whakakapi mō te Poropiti"
+      ],
+      "answer": "Te whakakorenga o te tikanga i mua i te taenga mai o te Ihirama, arā, 'te karanga i ngā tama whāngai he tama tūturu'"
+    }
+  },
+  "verseRef": "33:37",
+  "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+  "verse": "And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, \"Keep your wife and fear Allāh,\" while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished. (33:37)"
+}

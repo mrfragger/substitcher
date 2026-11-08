@@ -1,0 +1,61 @@
+{
+  "title": "A föld alatti figyelmeztetés",
+  "intro": "Képzeljük el, hogy egy mély ásatás mellett állunk, miközben hangok hallatszanak alulról, és a felettünk lévő világ elcsendesedik. A Korán figyelmeztetésként őrzi ezt a jelenetet: egy közösség elutasítja, amit a küldöttek hoznak, a büntetés közeledik, és még annak ordítása is a tanúságtétel részévé válik. Melyik közösség szólal meg ezeken a verseken keresztül?",
+  "clues": [
+    "A Koránban egy közösségként emlékeznek ránk, akiket egy közös sors határoz meg, nem pedig egyéni név.",
+    "Elutasítottuk a küldöttek által hozott üzenetet, pedig igazat mondtak.",
+    "Emlékezetünkben élő identitásunk egy mély földbe ásott területhez kötődik, és ez a vonás a nevünk részévé vált.",
+    "A megbeszélt napon kivezettek minket, és a tűz felé vonszoltak.",
+    "Nem tudtunk védekezni a büntetés ellen, és nem hallhattuk a dübörgését.",
+    "Arccal a tűz felé fordultunk, és beleűztek minket; amikor kérdezősködtünk, azt mondtuk, hogy azok közé tartozunk, akik nem tudnak válaszolni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Az árok társai",
+        "A nagy özönvízből megszabadult nemzet",
+        "Az aranyborjú imádói",
+        "A csoport a hegyi barlangban menedéket talált",
+        "A tüzes kemencéből megszabadult közösség"
+      ],
+      "answer": "Az árok társai"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A tűzbe húzva és vetve",
+        "Tüzes kemencéből szabadulva",
+        "Biztonságban átvezettek egy nagy árvízen",
+        "Évszázadokig egy barlangban rejtőzködött",
+        "Megmentették, miután kútba vetették"
+      ],
+      "answer": "A tűzbe húzva és vetve"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Árok vagy gödör",
+        "Egy nagyszerű tenger",
+        "Egy hegyi barlang",
+        "Egy magas palota",
+        "Egy sivatagi kút"
+      ],
+      "answer": "Árok vagy gödör"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Képtelenek megvédeni magukat és képtelenek hallani a Tűz üvöltését",
+        "Megmentve és belépést kapva az örök kertekbe",
+        "Biztonságosan átjutott egy pusztító árvízen",
+        "Hosszú alvás védte egy barlangban",
+        "Örökkévaló királysággal tisztelték meg"
+      ],
+      "answer": "Képtelenek megvédeni magukat és képtelenek hallani a Tűz üvöltését"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

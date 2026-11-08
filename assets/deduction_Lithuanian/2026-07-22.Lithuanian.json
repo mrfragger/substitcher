@@ -1,0 +1,61 @@
+{
+  "title": "Iš šulinio gelmių",
+  "intro": "Jaunos sielos kelionė prasidėjo nuo galingos vizijos, kurioje dangaus kūnai pagarbiai nusilenkia. Šio žmogaus gyvenimą paženklino didžiausia artimiausių žmonių išdavystė, po kurios sekė vergijos ir neteisėto įkalinimo metai. Tačiau dėl nepajudinamo tikėjimo ir dieviško vadovavimo ši asmenybė pakilo iš žemiausios duobės ir tapo viena galingiausių žmonių didžioje imperijoje. Ar galite atskleisti šio nepaprasto Alacho tarno tapatybę?",
+  "clues": [
+    "Man buvo parodyta vizija: vienuolika žvaigždžių, saulė ir mėnulis, besilenkiantys priešais mane",
+    "Buvau be galo mylimas savo tėvų vaikas, ir tai sukėlė pavydą tarp mano brolių.",
+    "Mane pagriebė mano paties broliai, nuplėšė man drabužius ir įmetė į gilų, tamsų šulinį",
+    "Buvau parduotas turguje kaip prekė ir išvežtas toli iš tėvynės",
+    "Galinga moteris bandė pažeisti mano garbę, ir aš buvau įmestas į kalėjimą už tai, kad atsisakiau jos priekabiavimo.",
+    "Man buvo suteikta sapnų aiškinimo dovana, ir iš užmiršto kalinio tapau Egipto vyriausiuoju ministru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Jusufas",
+        "Pranašas Musa",
+        "Pranašas Dawudas",
+        "Pranašas Ayyubas",
+        "Pranašas Suleimanas"
+      ],
+      "answer": "Pranašas Jusufas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įmestas į gilų šulinį savo brolių",
+        "Išgyvenant didelį pasaulinį tvaną",
+        "Įmetimas į liepsnojančią krosnį",
+        "Kova su milžinišku kariu mūšio lauke",
+        "Praryti didelės žuvies"
+      ],
+      "answer": "Įmestas į gilų šulinį savo brolių"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Gilus, sausas šulinys dykumoje",
+        "Didelė medinė arka kalno viršūnėje",
+        "Lazdelė, kuri virto gyvate",
+        "Nuostabus, didingas sostas",
+        "Svaidyklė ir penki lygūs akmenys"
+      ],
+      "answer": "Gilus, sausas šulinys dykumoje"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Rose paskirta Egipto ministre ir vėl susitiko su mylima šeima",
+        "Pastatė didingą laivą ir pašaukė žmones į tikėjimą",
+        "Išvedė visą tautą iš Egipto vergijos",
+        "Jam buvo suteikta karalystė ir valdžia virš nematomos visatos",
+        "Buvo suteikta kantrybės sunkios ligos metu ir išgydytas"
+      ],
+      "answer": "Rose paskirta Egipto ministre ir vėl susitiko su mylima šeima"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

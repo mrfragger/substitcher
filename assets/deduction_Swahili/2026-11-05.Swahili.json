@@ -1,0 +1,61 @@
+{
+  "title": "wimbo wa milima wakati wa machweo",
+  "intro": "Sikiliza huku mabonde yakirudia sifa pamoja na mtumishi mteule wa Mwenyezi Mungu. Sauti yenye kipaji cha muziki, hukumu inayotafutwa na wagombanao chumbani, na chuma kilicholainishwa na amri ya Mungu kinasubiri ugunduzi. Ni mfano gani wa ibada na utawala wa haki unaozungumza kupitia ishara hizi?",
+  "clues": [
+    "Nilibarikiwa na Mwenyezi Mungu kwa ukarimu na sauti tamu ya sifa.",
+    "Nilifundishwa na Mwenyezi Mungu kuelewa lugha ya hukumu ya haki kati ya wagombanao.",
+    "Nilikabiliana na mpiganaji mkubwa vitani na kwa mapenzi ya Mwenyezi Mungu niliwashinda.",
+    "Nilipewa hekima, mamlaka na andiko la Zaburi lililofunuliwa kutoka kwa Mwenyezi Mungu.",
+    "Niliungana na milima na ndege katika kumtukuza Mwenyezi Mungu pamoja nami jioni na wakati wa kuchomoza kwa jua.",
+    "Nilifundishwa na Mwenyezi Mungu kutengeneza makoti ya chuma yaliyolainishwa kwa ajili yangu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Dawud (Daudi)",
+        "Nabii Ismail (Ishmaeli)",
+        "Nabii Yahya (Yohana)",
+        "Dhul-Kifl",
+        "Nabii Al-Yasa (Elisha)"
+      ],
+      "answer": "Nabii Dawud (Daudi)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alimshinda Jalut (Goliath) vitani kwa mapenzi ya Mwenyezi Mungu",
+        "Alijenga Safina ili kuokoka gharika kuu",
+        "Alitupwa kwenye moto ambao Mwenyezi Mungu aliufanya upoe",
+        "Alimezwa na samaki mkubwa baharini",
+        "Alifufuliwa mbinguni bila kuonja kifo"
+      ],
+      "answer": "Alimshinda Jalut (Goliath) vitani kwa mapenzi ya Mwenyezi Mungu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Milima na ndege wakiungana katika kumsifu Mwenyezi Mungu",
+        "Fimbo iliyogeuka kuwa nyoka",
+        "Moto uliokuwa baridi na wa amani",
+        "Ngamia jike aliyetumwa kama ishara kwa watu",
+        "Sanduku la mbao likiwa limeegeshwa kwenye Mlima Judi"
+      ],
+      "answer": "Milima na ndege wakiungana katika kumsifu Mwenyezi Mungu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Utawala, hekima, na Zaburi (Zaburi) zilizotolewa",
+        "Alipewa mwana katika uzee baada ya maombi ya dhati",
+        "Alitoa usalama ndani ya pango kwa miaka mingi",
+        "Alitoa chemchemi ya Zamzam jangwani",
+        "Kuruhusiwa kuzama kwa jeshi baharini"
+      ],
+      "answer": "Utawala, hekima, na Zaburi (Zaburi) zilizotolewa"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

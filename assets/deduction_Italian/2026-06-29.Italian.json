@@ -1,0 +1,61 @@
+{
+  "title": "L'anima paziente",
+  "intro": "Negli annali della profezia, visse un'anima la cui pazienza era impressa nella trama stessa del suo essere. Attraverso lacrime e il passare del tempo, si aggrappò alla speranza, diventando un esempio senza tempo di fiducia nella saggezza divina. Riuscirai a svelare il mistero di questa figura incrollabile?",
+  "clues": [
+    "Sono nato in una famiglia di profeti, eppure la mia prova più grande è arrivata attraverso il figlio che amavo di più.",
+    "Ho ricevuto un avvertimento di gelosia da un sogno che mi ha raccontato mio figlio, e ho temuto per la sua incolumità.",
+    "I miei occhi si sono imbiancati per il dolore, eppure non ho mai perso la fede nella misericordia di Allah.",
+    "L'odore del mio bambino scomparso mi giunse da lontano, e allora seppi che il ricongiungimento era vicino.",
+    "La mia famiglia si è inchinata in segno di gratitudine quando l'antica visione si è avverata e ho riacquistato la vista.",
+    "Sono io quello a cui è stata consegnata una camicia macchiata di sangue, per poi riceverne un'altra che mi ha restituito la vista."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Ibrahim",
+        "Profeta Isacco",
+        "Profeta Yaqub",
+        "Il profeta Yusuf",
+        "Profeta Ayyub"
+      ],
+      "answer": "Profeta Yaqub"
+    },
+    "trial": {
+      "label": "La prova cruciale",
+      "options": [
+        "Separazione da un figlio amato e perdita della vista",
+        "Essere gettati in un fuoco ardente",
+        "Essere inghiottito da un grande pesce",
+        "Sopportare la perdita di ricchezza, figli e salute",
+        "Tradito dai suoi fratelli e gettato in un pozzo"
+      ],
+      "answer": "Separazione da un figlio amato e perdita della vista"
+    },
+    "location": {
+      "label": "L'oggetto simbolico",
+      "options": [
+        "Una maglietta che prima nascondeva la verità e poi la rivelava",
+        "Un bastone che si trasformò in un serpente",
+        "Una balena che inghiottì un profeta",
+        "Un fuoco che si è raffreddato",
+        "Un paio di sandali al roveto ardente"
+      ],
+      "answer": "Una maglietta che prima nascondeva la verità e poi la rivelava"
+    },
+    "outcome": {
+      "label": "La Risoluzione Divina",
+      "options": [
+        "Ricongiungimento con una persona cara scomparsa e recupero della vista.",
+        "Salvezza da una nazione oppressa",
+        "Liberazione dal ventre di un pesce",
+        "Salvezza da un incendio divampante",
+        "Ascesa a un grande trono"
+      ],
+      "answer": "Ricongiungimento con una persona cara scomparsa e recupero della vista."
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

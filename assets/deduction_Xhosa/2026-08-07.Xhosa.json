@@ -1,0 +1,61 @@
+{
+  "title": "Ukholo Olungasemva Kwetrone",
+  "intro": "Eminye imiphefumlo ayivavanywa ngumlilo okanye ngumphunga, kodwa luxinzelelo olucothayo lokuhlala ngaphakathi kwibhotwe lomtyholi. Lo mntu wayemi ecaleni komlawuli owayesithi unguThixo phezu kwabantu bakhe, kodwa ebambelele ngasese elukholweni kuThixo Omnye Wenyaniso. Xa ukuzinikela kwabo kwafunyanwa, kwafika ukubandezeleka - kodwa kwabakho nesithembiso sikaThixo. Ungaqikelela ukuba ngubani lo?",
+  "clues": [
+    "Bendihlala phantsi kophahla lomlawuli onamandla kakhulu kwilizwe lam, kwimeko abantu abambalwa abanokuyicinga.",
+    "Iqabane lam lema phambi kwabantu laza lazibiza ngokuba lithixo — kodwa intliziyo yam yayiyeyeNkosi yoNyaniso eNye.",
+    "Ndathandaza ngasese ndihlebela, ndisoyika isohlwayo esiza kufikela bonke abo bangamthobeliyo umlingane wam.",
+    "Xa ukholo lwam lwatyhilwa, ndabanjwa ndaza ndahlushwa — kodwa ulwimi lwam aluzange luthethe nelimdaka ilizwi lokungakholwa.",
+    "Ndayiphalaza intliziyo yam eNkosini yam, ndicela indlu eParadesi, kude nazo zonke izenzo ezimbi.",
+    "Ndingu-Asiya bint Muzahim — umfazi kaFaro owayechasa uMusa noHarun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "UAsiya bint Muzahim (Umfazi kaFaro)",
+        "UHawwa (uEva), umfazi wokuqala",
+        "USarah, umfazi wokuqala ka-Ibrahim",
+        "UHagare, unina kaIshmayeli",
+        "Umama kaMaryam (umfazi kaImran)"
+      ],
+      "answer": "UAsiya bint Muzahim (Umfazi kaFaro)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Ukunyamezela ukuhlushwa ngenxa yokwala ukulahla ukholo",
+        "Ukusinda ngaphakathi esiswini sentlanzi enkulu",
+        "Ukwakha umkhombe omkhulu ukuze ubalekele umkhukula",
+        "Ukuphoswa emlilweni ovuthayo",
+        "Ukubona ukwahlulwa kolwandle olukhulu"
+      ],
+      "answer": "Ukunyamezela ukuhlushwa ngenxa yokwala ukulahla ukholo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Indlu eyakhelwe bona eParadesi",
+        "Intonga eyaguquka yaba yinyoka",
+        "Umkhombe othwele izibini zazo zonke izidalwa",
+        "Ithole legolide elinqulwa sisizwe",
+        "Isilingi esisetyenziselwa ukoyisa iqhawe elikhulu"
+      ],
+      "answer": "Indlu eyakhelwe bona eParadesi"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Uhlonitshwe ngokuhlala eParadesi kunye namalungisa",
+        "Batshoniswe phantsi kwamaza kunye nomkhosi wabo",
+        "Watshiswa ngamalangatye kodwa wasindiswa kukungenelela kukaThixo",
+        "Iginywe sisidalwa esikhulu yaza yaphoswa elunxwemeni",
+        "Waba ngumntu osisityebi kakhulu ngexesha labo"
+      ],
+      "answer": "Uhlonitshwe ngokuhlala eParadesi kunye namalungisa"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

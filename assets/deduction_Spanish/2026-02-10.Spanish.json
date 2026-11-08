@@ -1,0 +1,60 @@
+{
+  "title": "El sueño de las edades",
+  "intro": "Estás a punto de embarcarte en un viaje a través del tiempo, donde descubrirás un profundo misterio de fe y poder divino. Imagina a un grupo de personas que desafiaron las normas de su sociedad, aferrándose al monoteísmo en un mundo politeísta. Su historia es un testimonio de la capacidad de Alá para proteger a sus siervos justos de las maneras más extraordinarias. ¿Podrás descifrar la identidad de estas figuras excepcionales?",
+  "clues": [
+    "Éramos un pequeño grupo de jóvenes que creíamos en un solo Dios, a pesar del politeísmo generalizado entre nuestro pueblo.",
+    "Huimos de un gobernante tiránico que nos amenazaba por nuestra fe, temiendo la persecución y la muerte.",
+    "Buscamos refugio en un lugar apartado, esperando la misericordia de Alá y su protección contra nuestros opresores.",
+    "Nuestro Señor nos hizo caer en un sueño profundo, un sueño milagroso que desafió el paso del tiempo.",
+    "Al despertar, creíamos que solo habíamos descansado un día o parte de un día, sin ser conscientes del vasto período que realmente había transcurrido.",
+    "El Corán menciona que permanecimos en nuestro estado durante trescientos años, y que sobrepasamos ese límite en nueve, convirtiéndonos en una señal para la humanidad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "La gente de la zanja",
+        "El pueblo de Thamud",
+        "La gente de la cueva",
+        "El pueblo de Madyan",
+        "Los compañeros del elefante"
+      ],
+      "answer": "La gente de la cueva"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Ante una gran inundación",
+        "Ser engullido por la tierra",
+        "El largo y milagroso sueño",
+        "La destrucción de su ciudad",
+        "La división del mar"
+      ],
+      "answer": "El largo y milagroso sueño"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una zarza ardiente",
+        "Una montaña",
+        "Un barco",
+        "Una cueva",
+        "Un pozo"
+      ],
+      "answer": "Una cueva"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se les concedió una inmensa riqueza y poder.",
+        "Se transformaron en monos y cerdos.",
+        "Fueron despertados del sueño como una señal profunda",
+        "Se ahogaron en un gran diluvio.",
+        "Construyeron un reino magnífico."
+      ],
+      "answer": "Fueron despertados del sueño como una señal profunda"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

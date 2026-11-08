@@ -1,0 +1,61 @@
+{
+  "title": "Nuntius Qui Idolatras Obstitit",
+  "intro": "Tempore quo devotio aberraverat, nuntius surrexit cum vocatione ad cultum Domini mundorum revertendum. Haec figura firma stetit contra populum in cultu falsae divinitatis infixum, verum Creatorem suum et Dominum maiorum admonens. Attamen populus incautus erat et monitionem repudiavit, fatum suum signans. Quis erat hic clamator constans?",
+  "clues": [
+    "Missus sum ad populum qui a via Unius Dei Veri aversatus erat.",
+    "Rogavi populum meum, \"Nonne timebitis Deum?\"",
+    "Vocavi eos ut cultum falsi dei nomine Baal relinquerent.",
+    "Populus meus vocationem meam reppulit et in idololatria sua perseveravit.",
+    "Propter negationem eorum, certe ad poenam producentur.",
+    "Dominus meus mihi pacem et beatam memoriam inter generationes posteriores dedit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Ilyas",
+        "Propheta Yahya",
+        "Propheta Dhul-Kifl",
+        "Propheta Iosue",
+        "Propheta Shu'ayb"
+      ],
+      "answer": "Propheta Ilyas"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Populum suum vocavit ut Baal relinquerent",
+        "Arcam aedificavit ad fideles servandos",
+        "In ignem coniectus est",
+        "A tyranno Pharaonis fugit",
+        "Petram percussit ut aquam produceret"
+      ],
+      "answer": "Populum suum vocavit ut Baal relinquerent"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Pax et memoria beata concessa",
+        "A terra absorptus",
+        "Violenta tempestate vastatus",
+        "In lapidem conversus",
+        "In mari submersus"
+      ],
+      "answer": "Pax et memoria beata concessa"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

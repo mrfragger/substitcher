@@ -1,0 +1,61 @@
+{
+  "title": "Serapa se Ileng sa Nyamela Bosiu",
+  "intro": "Nahana ka serapa se setle, se tletseng litholoana tse butsoitseng 'me se pota-potiloe ke lifate tse telele. Ba neng ba se hlokomela ba ne ba nahana hore ba bohlale, ba rera kotulo ea bona lihoreng tse khutsitseng pele mafube a hlaha, hole le mahlo a ba hlokang. Empa Ea sa robaleng o ne a e-na le merero e meng bakeng sa melemo ea bona e patiloeng. Na u ka nahana hore na ke mang ea emeng ka mor'a pale ena ea temoso ho tsoa ho Quran?",
+  "clues": [
+    "Re kile ra ba le serapa se setle le se nang le dimela tse ngata hoo se ileng sa honohela bohle ba fetang ka tsela.",
+    "Ha re ntse re rera, re ile ra hoeshetsana hoseng haholo, ra phatlalatsa hore ha ho motho ea hlokang ea tla lumelloa ho kena letsatsing leo.",
+    "Re ne re le batho ba ruileng, 'me lipelo tsa rona li ne li se li foufetse ho se bone litokelo tsa mafutsana a re potileng.",
+    "Ha mafube a kotulo eo re neng re e rerile a fihla, re ile ra atamela serapa sa rona mme ra fumana se fetohile lesupi le letšo bosiung boo.",
+    "Taelo e senyang e ile ea feta, ea siea molora feela moo lihlopha tsa litholoana tse butsoitseng li kileng tsa leketla teng.",
+    "Pale ea rona ke temoso e matla e tlalehiloeng ho Quran, moo re tsejoang re le beng ba serapa ba hanelang ba hlokang thuso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Beng ba Serapa",
+        "Batho ba Lehaheng",
+        "Barutuoa ba Isa",
+        "Metsoalle ea Moru",
+        "Baeti ba Ibrahim"
+      ],
+      "answer": "Beng ba Serapa"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "Ho kotula litholoana ka sekhukhu le ho thibela mafutsana",
+        "Ho robala ka makholo a lilemo ka har'a lehaha",
+        "Ho hana ho hlahisa kamele e tšehali e tsoang lejoeng",
+        "Ho rapela namane ea khauta Thabeng ea Sinai",
+        "Ho haha ​​​​areka e kholo ho phonyoha moroallo"
+      ],
+      "answer": "Ho kotula litholoana ka sekhukhu le ho thibela mafutsana"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Serapa se pota-potiloeng ke lerako se tletseng lifate tsa palema le lifate tsa morara",
+        "Lehaha le lefifi le tebileng lithabeng",
+        "Motse o hlōtsoeng ke sefefo se matla",
+        "Phula e halalelang e haufi le Ntlo ea Allah",
+        "Mabopo a noka e phallang"
+      ],
+      "answer": "Serapa se pota-potiloeng ke lerako se tletseng lifate tsa palema le lifate tsa morara"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "Serapa se ile sa jeoa ke taelo e chesang e tsoang leholimong",
+        "Ba robetse ka khotso ka lilemo tse 309 tsa khoeli",
+        "Ba ile ba sithabetsoa ke pula ea majoe",
+        "Ba ile ba khangoa ke maqhubu a moroallo o moholo",
+        "Ba ne ba hasantsoe ke moea o batang, o matla"
+      ],
+      "answer": "Serapa se ile sa jeoa ke taelo e chesang e tsoang leholimong"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

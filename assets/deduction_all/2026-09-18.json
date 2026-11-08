@@ -1,0 +1,61 @@
+{
+  "title": "The Call from the Sacred Valley",
+  "intro": "Beyond the pages of history lies the story of a soul who stood between a powerful ruler and an entire enslaved people. This individual was called upon to deliver a nation from tyranny, performing wonders that defied every natural law. From a sacred mount to a miracle upon the waters, this servant of Allah witnessed signs that would echo through the ages. Your task today is to identify this remarkable figure whose legacy shaped the course of human history.",
+  "clues": [
+    "I was born during a time when my people faced a deadly decree, and my family placed me in the waters to save my life.",
+    "I was found and raised in the very household of the ruler who had ordered the deaths of my kind.",
+    "I fled to a sacred mount where I saw fire upon a tree that was not consumed, and a voice spoke to me from it.",
+    "I was sent back to that very ruler with miracles, demanding the freedom of my enslaved people.",
+    "I struck the sea with my staff, and it parted into dry paths, swallowing the pursuers who followed my people.",
+    "I communed with my Lord on a mount for forty nights, and was granted tablets of divine guidance."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Prophet Musa",
+        "Prophet Harun",
+        "Prophet Ibrahim",
+        "Prophet Yusuf",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Musa"
+    },
+    "trial": {
+      "label": "My Defining Trial",
+      "options": [
+        "The Parting of the Sea",
+        "Building the Great Ark",
+        "Trial by a Blazing Fire",
+        "Confinement in a Whale's Belly",
+        "Imprisonment by an Egyptian Official"
+      ],
+      "answer": "The Parting of the Sea"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A Shepherd's Staff",
+        "A Great Wooden Ark",
+        "A Cave Where Time Slept",
+        "A Garden with Two Springs",
+        "A Throne Adorned with Gold"
+      ],
+      "answer": "A Shepherd's Staff"
+    },
+    "outcome": {
+      "label": "The Outcome",
+      "options": [
+        "My People Crossed the Sea to Safety",
+        "A Great Flood Destroyed the Disbelievers",
+        "A Tyrant's Fire Became Cool and Peaceful",
+        "The Sea Cast Its Captive onto the Shore",
+        "The Captive Became the Treasurer of Egypt"
+      ],
+      "answer": "My People Crossed the Sea to Safety"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

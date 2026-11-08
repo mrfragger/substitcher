@@ -1,0 +1,61 @@
+{
+  "title": "Hembêza Erdê",
+  "intro": "Di demek ceribandinên mezin de, kesekî navdar ji dewlemendiya dinyayê ya bêdawî, ceribandinek spasdarî û dilnizmiyê wergirt. Rêwîtiya vê kesayetiyê wekî dersek kûr li ser xwezaya demkî ya milkên madî û encamên xudperestiyê xizmet dike. Nasnameya vê giyanê ku çîroka wî di bin erdê de hatiye kolandin eşkere bikin.",
+  "clues": [
+    "Ez di nav gelek kesan de jiyam ku ji hêla peyamberekî mezin ve dihatin rêberîkirin.",
+    "Xwedê ewqas dewlemendî da min ku mifteyên xezîneyên min ji bo gelek kesên bihêz bûn barekî giran.",
+    "Gelê min, ji ber ku hay ji dewlemendiya min hebûn, şîret li min kirin ku ez bi tiştên ku Xwedê daye min, cîhê axretê bigerim û para xwe ya dinyayê ji bîr nekim û çawa ku Xwedê qencî li min kiriye, ez jî qenciyê bikim.",
+    "Min bi serbilindî îlan kir ku dewlemendiya min a mezin bi tenê bi zanîn û hewldana min bi dest xistiye, û min her cûre kerema îlahî înkar kir.",
+    "Dema ku ji min hat xwestin ku ez beşdar bibim an jî nîmetên Xwedê qebûl bikim, min bi serbilindî red kir, ji ber ku min bawer dikir ku milkên min bi tevahî yên min in.",
+    "Ji ber xudperestî û zilm û zordariya min a zêde, Xwedê ferman da erd ku vebe û min û xanîya min daqurtîne."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Fîrewn",
+        "Îblîs",
+        "Haman",
+        "Ebû Leheb",
+        "Qarûn"
+      ],
+      "answer": "Qarûn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Tê avêtin nav agir",
+        "Di deryayê de dixeniqe",
+        "Ji baxçeyekî hatin sirgûnkirin",
+        "Veguherî bo meymûnekî",
+        "Ji aliyê erdê ve tê daqurtandin"
+      ],
+      "answer": "Ji aliyê erdê ve tê daqurtandin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Golikê zêrîn",
+        "Keştiyeke bi hêz",
+        "Çûkekî diaxive",
+        "Karmendek mûcîzeyî",
+        "Xezîne û mifteyên mezin"
+      ],
+      "answer": "Xezîne û mifteyên mezin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bibe serwerekî mezin",
+        "Wergirtina wehya îlahî",
+        "Hildikişe ber bi asîmanan",
+        "Jiyanek dirêj di xwedatiyê de",
+        "Wêraniyeke tam ji ber şekirbaziyê"
+      ],
+      "answer": "Wêraniyeke tam ji ber şekirbaziyê"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

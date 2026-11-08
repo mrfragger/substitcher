@@ -1,0 +1,61 @@
+{
+  "title": "Nexweşê",
+  "intro": "Demek dirêj berê, di rojên herî pêşîn ên dîroka mirovahiyê de, du giyan bi pêşkêşan li ber Afirînerê xwe rawestiyan. Yek hat qebûlkirin, yek nehat qebûlkirin. Tiştê ku piştre pêk hat, dê bibe trajediya mezin a yekem di navbera xwişk û birayan de - kiryarek sebir û kiryarek tolhildana tal. Hûn dikarin eşkere bikin ka ez kî me?",
+  "clues": [
+    "Ez di rojên herî pêşîn ên hebûna mirovahiyê li ser rûyê erdê de ji dayik bûm",
+    "Ez zarokê yekem cotê mirovan bûm ku li ser vê erdê meşiyan",
+    "Carekê min ji baştirîn keriyê xwe qurbanek pêşkêş kir da ku Afirînerê xwe razî bikim",
+    "Pêşkêşa min ji jor ve hate qebûlkirin, lê pêşkêşa birayê min hate redkirin.",
+    "Dema ku min gef li kuştinê xwar, min biryar da ku destê xwe li ser xwişk û birayê xwe ranekim",
+    "Ez bûm yekem kes di dîroka mirovahiyê de ku bi neheqî ji aliyê kesekî din ve hatim kuştin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Habîl (Habîl), kurê Adem",
+        "Qabîl (Qabîl), kurê Adem",
+        "Adem, mirovê yekem",
+        "Nûh (Nûh)",
+        "Îbrahîm (Birahîm)"
+      ],
+      "answer": "Habîl (Habîl), kurê Adem"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Yekem kuştin di dîroka mirovahiyê de",
+        "Tofana mezin a Nûh",
+        "Wêrankirina artêşa Fîrewn",
+        "Qurbankirina Îsmaîl ji aliyê Îbrahîm ve",
+        "Şerê li dijî Jalût (Goliath)"
+      ],
+      "answer": "Yekem kuştin di dîroka mirovahiyê de"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Berxek wek qurbaneke xweş tê pêşkêşkirin",
+        "Keştiyek darîn a mezin",
+        "Dara ku veguherî mar",
+        "Çûkekî hoopoe peyamek şahane hildigire",
+        "Xendekeke agirîn"
+      ],
+      "answer": "Berxek wek qurbaneke xweş tê pêşkêşkirin"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bû qurbanê yekem ê kuştinê di dîroka mirovahiyê de",
+        "Di hundirê keştiyeke darîn de ji lehiyê mezin rizgar bû",
+        "Di zikê masiyek mezin de jiya",
+        "Hukum li ser cin, mirovan û bayê kir",
+        "Çil salan li çolêke fireh geriyam"
+      ],
+      "answer": "Bû qurbanê yekem ê kuştinê di dîroka mirovahiyê de"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

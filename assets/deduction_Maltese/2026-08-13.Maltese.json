@@ -1,0 +1,61 @@
+{
+  "title": "Ir-Ruħ Paċenzjuża tad-Dar Sagra",
+  "intro": "Fil-paġni tal-Koran, figura toħroġ mil-linjaġġ ta’ profeta kbir, mogħti bħala rigal fix-xjuħija. Din ir-ruħ hija ċċelebrata għall-verità soda tagħha u rwol profond fit-twaqqif ta’ santwarju li kellu jsir fanal tal-fidi. Hekk kif taqra l-ħjiel, isma’ sew il-vuċi mill-passat, għax titkellem fl-ewwel persuna.",
+  "clues": [
+    "Jiena msemmi fil-Koran flimkien ma' profeta ieħor bħala rigal mogħti lil messaġġier anzjan.",
+    "Jiena kont wieħed minn żewġ ulied mogħtija lil dak il-profeta fi sninu aktar tard.",
+    "Jiena mfaħħar fil-Koran talli nżomm kelmti.",
+    "Jiena ġorrt l-unur tal-profezija u ntbgħatt bħala messaġġier.",
+    "Ingħaqadt ma' missieri fit-twaqqif tal-pedamenti tad-Dar Sagra.",
+    "Nibqa' mfakkar bħala wieħed mill-paċenzjużi, u d-dar sagra li bnejna saret post ta' ritorn u sigurtà għan-nies."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Ismail",
+        "Il-Profeta Ishaq",
+        "Profeta Yaqub",
+        "Profeta Żakkarija",
+        "Profeta Yahya"
+      ],
+      "answer": "Il-Profeta Ismail"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ngħollu l-pedamenti tal-Kaaba ma' Ibrahim",
+        "Li tintrema fin-nar",
+        "Nibla’ minn baliena",
+        "Mexxew lill-Iżraelin 'il barra mill-Eġittu",
+        "Il-bini ta’ arka"
+      ],
+      "answer": "Ngħollu l-pedamenti tal-Kaaba ma' Ibrahim"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-Kaaba",
+        "il-Muntanja Sinaj",
+        "Il-Baħar l-Aħmar",
+        "L-Għoġol tad-Deheb",
+        "Il-Ġnien tal-Eden"
+      ],
+      "answer": "Il-Kaaba"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Magħdud fost il-pazjenti",
+        "Magħdud fost dawk li jagħmlu l-ħażen",
+        "Magħdud fost il-maġi",
+        "Magħdud fost dawk li ma jemmnux",
+        "Magħdud fost l-ipokriti"
+      ],
+      "answer": "Magħdud fost il-pazjenti"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

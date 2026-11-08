@@ -1,0 +1,61 @@
+{
+  "title": "Ukulala Ngaphandle Kwexesha",
+  "intro": "Khawucinge ngexesha apho inyaniso yayithuliswa kwaye amakholwa ezingelwa. Iqela elincinci lakhetha ukuphumla endaweni yokuzinikela, lifumana indawo yokukhosela kwiindawo ezingalindelekanga - indawo eyayiza kuba yindawo yabo yokuphumla kangangeenkulungwane ezingenakubalwa. Ekugqibeleni bakuba bevukile, ihlabathi lalitshintshile libajikelezile. Ngoobani aba bantu baleleyo?",
+  "clues": [
+    "Sasingabantu abaselula ababehlala kwisixeko samandulo.",
+    "Uluntu lwethu lwafuna ukuba sinqule kunye nabo, kodwa sala.",
+    "Sabaleka kwisixeko sifuna indawo yokusabela kwabo babechasa iinkolelo zethu.",
+    "Iqabane elithembekileyo elinemilenze emine lahlala emnyango wendawo yethu yokuzimela.",
+    "U-Allah wasenza salala iminyaka engamakhulu amathathu anesithoba.",
+    "Ekugqibeleni xa savukayo, isixeko sethu esasikade sitshutshiswa samkela ukholo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singoobani?",
+      "options": [
+        "UAshab al-Kahf (Abantu boMqolomba)",
+        "UAshab al-Fil (uMkhosi weNdlovu)",
+        "UAshab al-Ukhdud (Amaqabane eMseleni)",
+        "IHawariyyun (Abafundi bakaIsa)",
+        "UYajuj waMajuj (uGogi noMagogi)"
+      ],
+      "answer": "UAshab al-Kahf (Abantu boMqolomba)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Sabuyela emqolombeni saza salala kangangeenkulungwane",
+        "Sasindiswa emlilweni ovuthayo",
+        "Saginywa yintlanzi enkulu",
+        "Savavanywa ngenkamela yemazi engummangaliso",
+        "Sinikwe imiqondiso ecacileyo elithoba"
+      ],
+      "answer": "Sabuyela emqolombeni saza salala kangangeenkulungwane"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Umqolomba onzulu ezintabeni",
+        "Inqanawa elwandle oluvulekileyo",
+        "Isakhiwo esiphakamileyo esifikelela esibhakabhakeni",
+        "Igadi eyahlulwe phakathi kwabachasi ababini",
+        "Umqobo wesinyithi nobhedu"
+      ],
+      "answer": "Umqolomba onzulu ezintabeni"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Savuka safumanisa ukuba isixeko sethu siguqukele elukholweni",
+        "Umlilo ovuthayo waba noxolo kwaye wapholile",
+        "Umkhosi wotshaba watshoniswa elwandle",
+        "Iintaka ezithwele amatye zatshabalalisa utshaba",
+        "Intlanzi enkulu yasikhulula saya elunxwemeni"
+      ],
+      "answer": "Savuka safumanisa ukuba isixeko sethu siguqukele elukholweni"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "The Shadow Behind the Throne",
+  "intro": "You stand within the courts of a mighty ancient kingdom, where a powerful ruler has proclaimed themselves as a god over all the people. Beside this ruler stands a devoted servant, entrusted with the kingdom's grandest ambitions. Together, they plot and plan, refusing to heed the warnings of a messenger sent to guide them. Can you uncover who this loyal servant was?",
+  "clues": [
+    "I lived in a mighty kingdom ruled by a powerful figure who claimed divinity over all the people.",
+    "I served as a trusted minister of this ruler, carrying out their every ambition and command.",
+    "When a messenger of Allah came to our land calling us to truth, my ruler and I refused to listen.",
+    "I was commanded to kindle a great fire and prepare bricks of clay for a grand construction.",
+    "My ruler wanted to erect a towering structure so high that it would reach the heavens themselves.",
+    "In the end, my ruler, our armies, and I were swept away and drowned in the depths of the sea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Building a tower to reach the heavens",
+        "Being cast into a blazing fire",
+        "Awakening a people from worship of stone idols",
+        "Splitting the moon as a divine sign",
+        "Conquering a mighty city by divine command"
+      ],
+      "answer": "Building a tower to reach the heavens"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A tower of baked clay bricks",
+        "A whale's belly",
+        "A sacred spring in the desert",
+        "A burning bush on a holy mountain",
+        "An ark carrying a chosen family"
+      ],
+      "answer": "A tower of baked clay bricks"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Drowned in the depths of the sea",
+        "Lifted to safety in a magnificent palace",
+        "Saved from the belly of a great fish",
+        "Honored with kingship and divine wisdom",
+        "Turned to dust by a piercing cry"
+      ],
+      "answer": "Drowned in the depths of the sea"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

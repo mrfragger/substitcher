@@ -1,0 +1,61 @@
+{
+  "title": "Hilobiko mezu baten eramailea",
+  "intro": "Arima zuzen bat bidali zuten aurrekaririk gabeko transgresioetan galdutako herri bat gidatzeko. Mezulari honek tinko eutsi zion, ordena naturala desafiatzen zuen ustelkeriaren aurkako abisu zorrotza emanez. Erregu sutsuak izan arren, komunitatea iluntasunean sakonago murgildu zen, beste inongo jainkozko kontu-ematearen eszenatokia prestatuz. Identifika al dezakezu Alaren zerbitzari leial hau?",
+  "clues": [
+    "Beste profeta handi baten senidea nintzen, eta harekin batera migratu nuen, gure aberria atzean utzita.",
+    "Gaiztakeria paregabea zuen herri batera bidali ninduten, haien aurretik inork egin ez zuen transgresio bat.",
+    "Nire etxea zatituta zegoen; senide hurbil batek isilpean sinestunen alde egin zuen.",
+    "Aingeruak, mutil gazte ederren itxuran, gonbidatu gisa etorri ziren nire etxera, haien segurtasunagatik atsekabe handia eraginez.",
+    "Nire alabak ezkontzan eskaini nizkion nire herriari, beren ekintza lotsagarrietatik aldentzeko ahalegin etsian.",
+    "Nire herria oihu ikaragarri batek eta buztin egosizko harri-euri batek suntsitu zuten, ni eta nire familia, bat izan ezik, gauaren iluntasunean alde eginez salbatu ginen bitartean."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Shu'ayb profeta",
+        "Salih profeta",
+        "Lut profeta",
+        "Hud profeta",
+        "Nuh profeta"
+      ],
+      "answer": "Lut profeta"
+    },
+    "trial": {
+      "label": "Zein izan zen nire lehen proba?",
+      "options": [
+        "Errege tirano bat konbentzitzen ni sutan ez erretzeko.",
+        "Nire anaien jeloskortasunari aurre egitea eta putzu batera botatzea.",
+        "Aurrekaririk gabeko sexu-immoralitatean murgilduta dagoen herri bati aurre egitea.",
+        "Nire herria faraoi boteretsu baten menpekotasunetik ateratzen.",
+        "Uholde handi batetik sinestunak salbatzeko itsasontzi erraldoi bat eraikitzea."
+      ],
+      "answer": "Aurrekaririk gabeko sexu-immoralitatean murgilduta dagoen herri bati aurre egitea."
+    },
+    "location": {
+      "label": "Zein izan zen nire misioaren kokapena?",
+      "options": [
+        "Madyan hiria.",
+        "Antzinako Iram hiria",
+        "Egiptoko lurraldea Faraoiaren menpe",
+        "Sodoma eta Gomorra hiriak",
+        "Ninive hiria."
+      ],
+      "answer": "Sodoma eta Gomorra hiriak"
+    },
+    "outcome": {
+      "label": "Zein izan zen azken emaitza?",
+      "options": [
+        "Hiriak irauli eta buztin egosizko harriz estali zituzten.",
+        "Nire herria lurrak irentsi zuen, haien buruzagi aberatsarekin batera.",
+        "Nire herria zazpi gau eta zortzi egunez haize bortitz batek suntsitu zuen.",
+        "Nire herria izurriteek jota zegoen, hala nola matxinsaltoek, zorriek eta igelek.",
+        "Arrain erraldoi batek irentsi ninduen nire misioa utzi ondoren."
+      ],
+      "answer": "Hiriak irauli eta buztin egosizko harriz estali zituzten."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

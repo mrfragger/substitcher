@@ -1,0 +1,61 @@
+{
+  "title": "Zëri i Bindjes së Fshehur",
+  "intro": "Në zemër të një oborri tiranik, ku mosbesimi ishte ligji i vendit, një shpirt i vetmuar ecte në një litar të tendosur besimi dhe frike. Ky individ, afër qendrës së pushtetit, dëgjoi ndërsa mesazhi i një profeti u prit me përbuzje dhe kërcënime. Një moment i së vërtetës erdhi, duke e detyruar këtë person të zgjidhte midis sigurisë së heshtur dhe thënies së një të vërtete të rrezikshme. A mund ta zbuloni identitetin e këtij avokati të guximshëm?",
+  "clues": [
+    "Jetoja në shtëpinë e një tirani, duke qenë dëshmitar i drejtpërdrejtë i arrogancës që hidhte poshtë shenjat hyjnore.",
+    "E mbajta besimin tim sekret, një thesar të fshehur në një pallat idhujtarie.",
+    "E dëgjova udhëheqësin që i shërbeva duke komplotuar për të vrarë një të dërguar të Allahut, një burrë me emrin Musa.",
+    "Unë e vura në dyshim logjikën e tyre, duke u kujtuar fatin e popullit të Nuhut, Adit dhe Themudit.",
+    "Unë i bëra një pyetje kritike popullit tim: “Nëse ai është gënjeshtar, gënjeshtra e tij është mbi të; por nëse është i sinqertë, disa nga premtimet e tij do t’ju ​​godasin.”",
+    "Historia ime tregohet si një shembull besimi në suren e quajtur \"Falësi\", ku unë i paralajmërova njerëzit e mi kundër skemave të të fuqishmëve."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Besimtari nga familja e faraonit",
+        "Haman",
+        "Magjistarët e Faraonit",
+        "Karun",
+        "Samiri"
+      ],
+      "answer": "Besimtari nga familja e faraonit"
+    },
+    "trial": {
+      "label": "Cila ishte sprova ime?",
+      "options": [
+        "Mbrojtja e Profetit Musa në oborrin e tiranit",
+        "Ndërtimi i një kulle të lartë për të arritur qiellin",
+        "Duke u hedhur në një zjarr të ndezur",
+        "Gëlltitja nga një peshk gjigant",
+        "Humbja e gjithë pasurisë dhe shëndetit"
+      ],
+      "answer": "Mbrojtja e Profetit Musa në oborrin e tiranit"
+    },
+    "location": {
+      "label": "Cila ishte tema e argumentit tim?",
+      "options": [
+        "Pasoja e refuzimit të mesazhit të një profeti",
+        "Kërkesa për një shenjë nga një pemë e shenjtë",
+        "Krijimi i një viçi nga bizhuteri të shkrirë",
+        "Mrekullia e një deveje nga shkëmbi",
+        "Interpretimi i ëndrrave të një sundimtari"
+      ],
+      "answer": "Pasoja e refuzimit të mesazhit të një profeti"
+    },
+    "outcome": {
+      "label": "Cili ishte rezultati?",
+      "options": [
+        "Allahu e shpëtoi këtë individ nga komploti i tyre i lig",
+        "I gjithë oborri menjëherë e pranoi Islamin",
+        "Tirani u pendua në momentin e mbytjes",
+        "Tirani u gëlltit nga toka",
+        "Personi u internua në një vend të largët"
+      ],
+      "answer": "Allahu e shpëtoi këtë individ nga komploti i tyre i lig"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

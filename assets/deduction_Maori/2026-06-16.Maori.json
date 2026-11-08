@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i Karanga ki te Tika",
+  "intro": "I te whenua tawhito o Miriana, i te wāhi i tupu ai te hokohoko, i haereere ai ngā tira haereere i roto i ngā koraha whānui, ka ara ake tētahi poropiti a Allah i roto i te iwi kua kotiti ke i te ara o te tika. I tonoa tēnei pononga a Allah me tētahi misioni atua hei whakamātautau i te whakapono o tētahi hapori katoa. I roto i ngā whakamātautau o te manawanui me te manawanui, i tū pakari tēnei wairua ki te tuku i tētahi whakatūpato ka rangona puta noa i te hītori. Ka taea e koe te wetewete i te mea ngaro o tēnei karere u?",
+  "clues": [
+    "I whiriwhiria ahau e Allah hei arahi i tētahi iwi kua wareware ki ngā mātāpono o te tika me te pono i roto i ā rātou mahi.",
+    "I tuku karere ahau e karanga ana i tōku hapori kia kaua e karakia ki tetahi atu engari ki a Allah, kia kōrero pono hoki i ngā mea katoa.",
+    "I whakatūpato ahau mō te mahi pirau o te kai taonga mā ngā huarahi turekore, ā, i whakanui hoki i te hiranga o ngā pauna me ngā mehua tika.",
+    "I whakautu mai tōku iwi ki aku whakatūpato me te tawai, me te whakawehi ka pei i ahau i tō rātou whenua mēnā ka haere tonu taku karere.",
+    "Ahakoa tō rātou mauahara, i u tonu ahau ki taku kaupapa, me te kī ko Allah anake te utu mōku.",
+    "I hopukia tōku iwi e te whiu nui, ko ahau ia i whakaorangia e te aroha noa o tōku Ariki, i te mea kua oti taku misioni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Shu'aib",
+        "Poropiti a Hūta",
+        "Poropiti Salih",
+        "Poropiti Ruta",
+        "Poropiti Muhammad ﷺ"
+      ],
+      "answer": "Poropiti Shu'aib"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te anga atu ki tētahi iwi i whakakahore i te pono, i whakawehi hoki i te whiu mō te kawe i te karere a Allah",
+        "Te kitenga i te Waipuke Nui i whakangaro i te hunga whakaponokore o tētahi iwi",
+        "Te whiwhi i te whakakitenga i a koe e haere ana i roto i te awaawa o",
+        "Te whakamātautau i te whakapono i te wā i ngana ai te rangatira tukino ki te whakamutu i te karanga ki te whakapono kotahi",
+        "He iwi e tono ana kia ua i te wā o te tauraki nui i muri i ngā tau maha o te kore whakarongo"
+      ],
+      "answer": "Te anga atu ki tētahi iwi i whakakahore i te pono, i whakawehi hoki i te whiu mō te kawe i te karere a Allah"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te whenua o Miriana, te wāhi i hokohoko ai taku iwi, i hokohoko ai",
+        "Ko te papa o tētahi kaipuke nui i whakaora i te hunga whakapono i tētahi waipuke nui",
+        "He ana i roto i te maunga toka i rapu piringa ai ngā taiohi tokowhitu i te whakatoi",
+        "Te tāone tapu o Hiruharama i haria ai ahau mō tētahi haerenga pō",
+        "He whare rangatira i Hepa i reira tētahi kingitanga nui i whakarite ai ki te kite i tētahi tohu atua"
+      ],
+      "answer": "Ko te whenua o Miriana, te wāhi i hokohoko ai taku iwi, i hokohoko ai"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I hopukia tōku iwi e te whiu kino, i ahau e whakaorangia ana, nā te mea kua tutuki i ahau taku kawenga ki a Allah.",
+        "I hurihia te hunga whakateka hei makimaki i a rātou e takahi ana i ngā rohe tapu o Allah.",
+        "I awhi ōku hoariri i te whakapono i muri i te kitenga i tētahi panonitanga whakamiharo",
+        "I manaakitia te whenua ki te ua nui me te rawa i muri i te ripeneta o te iwi",
+        "I whakamatea ahau e tōku ake iwi mō te kore e whakarērea taku misioni"
+      ],
+      "answer": "I hopukia tōku iwi e te whiu kino, i ahau e whakaorangia ana, nā te mea kua tutuki i ahau taku kawenga ki a Allah."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

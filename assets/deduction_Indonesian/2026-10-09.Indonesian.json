@@ -1,0 +1,61 @@
+{
+  "title": "Seruan yang Tak Dihiraukan di Negeri Kesombongan",
+  "intro": "Kau berdiri di reruntuhan peradaban yang pernah agung, tempat kekuasaan dan kesombongan tak mengenal batas. Seorang utusan berjalan di antara mereka, menyerukan kebenaran, tetapi hati mereka telah mengeras. Peringatan itu diabaikan, dan langit itu sendiri menjadi instrumen murka. Siapakah utusan ini, dan apa yang terjadi pada mereka yang menolak seruan itu?",
+  "clues": [
+    "Aku diutus kepada suatu bangsa yang tak tertandingi kekuatannya dan yang membangun monumen di setiap tempat yang tinggi.",
+    "Umatku menganggap diri mereka tak terkalahkan dan berkata, 'Siapa yang lebih perkasa dari kita?'",
+    "Aku menyeru mereka untuk menyembah Allah semata, tetapi mereka menuduhku bodoh dan berbohong.",
+    "Mereka menantangku untuk memberikan hukuman yang telah kujanjikan jika aku jujur.",
+    "Allah menurunkan kepada mereka angin tandus yang tidak menyisakan apa pun yang ditimpanya.",
+    "Aku dan orang-orang yang beriman bersamaku diselamatkan oleh rahmat Allah, sedangkan orang-orang kafir binasa sepenuhnya."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Hud",
+        "Nabi Salih",
+        "Nabi Shuaib",
+        "Nabi Lut",
+        "Nabi Nuh"
+      ],
+      "answer": "Nabi Hud"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Angin dahsyat menghancurkan orang-orang kafir.",
+        "Banjir besar menelan orang-orang kafir.",
+        "Hujan batu berjatuhan",
+        "Jeritan keras mengejutkan orang-orang kafir.",
+        "Gempa bumi melanda orang-orang kafir"
+      ],
+      "answer": "Angin dahsyat menghancurkan orang-orang kafir."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Angin yang tak henti-hentinya",
+        "Bahtera kayu",
+        "Seekor unta betina",
+        "Hujan batu tanah liat",
+        "Api yang berkobar"
+      ],
+      "answer": "Angin yang tak henti-hentinya"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Hud dan orang-orang beriman diselamatkan, dan orang-orang kafir dimusnahkan.",
+        "Hud diangkat ke posisi tinggi.",
+        "Hud dibunuh oleh kaumnya sendiri",
+        "Kaum Hud bertobat dan diselamatkan.",
+        "Hud meninggalkan kaumnya sebelum hukuman dijatuhkan."
+      ],
+      "answer": "Hud dan orang-orang beriman diselamatkan, dan orang-orang kafir dimusnahkan."
+    }
+  },
+  "verseRef": "7:72",
+  "arabic": "فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ",
+  "verse": "So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers. (7:72)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Kredent Moħbi",
+  "intro": "Fis-swali opulenti tal-poter, fejn kienu jirrenjaw in-nuqqas ta’ twemmin u t-tirannija, leħen waħdieni tal-verità tkellem minn post mhux mistenni. Din il-figura sfidat l-awtorità biex tipproteġi messaġġier, filwaqt li rriskjat is-sigurtà tagħha stess biex tipproklama l-verità.",
+  "clues": [
+    "Għext f'art ta' tiranija kbira, naqdi ħakkiem li kien isostni d-divinità.",
+    "Żammejt it-twemmin veru tiegħi moħbi għal ħafna snin, bil-biża’ tal-konsegwenzi li kieku żvelajtu.",
+    "Meta ġie messaġġier b’sinjali ċari, jien emmint, imma n-nies tiegħi kkonfoffaw kontrih.",
+    "Qgħadt quddiem it-tirann u l-kunsill tiegħu, nargumenta li m'għandhomx joqtlu messaġġier innoċenti.",
+    "Wissejthom dwar il-kastig ta’ ġnus tal-passat li ċaħdu l-verità, bħan-nies ta’ Noè u ‘Ad.",
+    "Alla salvani mill-pjanijiet ħżiena tagħhom, u jien xhud tal-qerda tar-reġim oppressiv."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Kredent tal-Familja tal-Fargħun",
+        "Il-Maġiku tal-Fargħun",
+        "Il-Viżier tal-Fargħun",
+        "Il-Mara tal-Fargħun",
+        "It-Teżorier tal-Fargħun"
+      ],
+      "answer": "Il-Kredent tal-Familja tal-Fargħun"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Difiża ta’ profeta kontra l-eżekuzzjoni",
+        "Sfida t-tricks ta' maġiku",
+        "Nibnu torri biex nilħqu s-sema",
+        "Niftaħ il-baħar għall-ħarba",
+        "Interpretazzjoni tal-ħolma ta’ sultan"
+      ],
+      "answer": "Difiża ta’ profeta kontra l-eżekuzzjoni"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-qorti tal-Fargħun",
+        "L-għollieq jaqbad",
+        "L-għoġol tad-deheb",
+        "Il-bir ta' Madyan",
+        "L-arka tal-Profeta Nuh"
+      ],
+      "answer": "Il-qorti tal-Fargħun"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Salvat mill-ħsara waqt li l-oppressuri ġew meqruda",
+        "Sar ħakkiem qawwi",
+        "Intefa’ fin-nar u ħareġ bla ħsara",
+        "Inbela’ mill-art",
+        "Għadda erbgħin sena fid-deżert"
+      ],
+      "answer": "Salvat mill-ħsara waqt li l-oppressuri ġew meqruda"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

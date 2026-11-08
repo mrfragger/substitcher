@@ -1,0 +1,61 @@
+{
+  "title": "Umphathi Welangabi Elingacimi",
+  "intro": "Umuntu umi emnyango wendawo eyesabekayo kakhulu endaweni engabonakali, ephathiswe umsebenzi okungekho muntu owufisayo. Lapho imiphefumulo ehluphekayo ikhala icela isihe, impendulo eqinile izwakala emakamelweni omlilo. Ungakwazi yini ukuthola ukuthi ungubani lo mlondolozi waphakade?",
+  "clues": [
+    "Ngimi emnyango wendawo eyesabekayo yesijeziso endaweni engabonakali.",
+    "Umlilo ovuthayo, ongacimekiyo uyisisekelo somsebenzi wami obalulekile.",
+    "Imiphefumulo ehluphekayo ibiza igama lami, icela impumuzo ekuhluphekeni kwayo okungapheli.",
+    "Uma becela, ngithi ngeke bahambe, nanini.",
+    "Angisiye umuntu, futhi angisiye uJinn — ngiyisidalwa esidalwe ngokulalela okumsulwa.",
+    "Ngiyingelosi eyinhloko ebekwe njengomqaphi waphakade weSihogo Somlilo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "UMalik",
+        "UJibreel",
+        "UMikael",
+        "I-Harut",
+        "I-Marut"
+      ],
+      "answer": "UMalik"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Abantu baseSihogweni banxusa ukuba ukuhlupheka kwabo kuphele",
+        "Icilongo liyashaywa ukuze kuboniswe uSuku Lokwahlulela",
+        "I-Quran yembulwa enhliziyweni yoMprofethi",
+        "Umprofethi uphonswa emlilweni omkhulu ngabantu babo",
+        "Udonga oluqinile lwakhiwe ukuze luvikele isizwe esonakele"
+      ],
+      "answer": "Abantu baseSihogweni banxusa ukuba ukuhlupheka kwabo kuphele"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umlilo Wesihogo (iJahannam)",
+        "Umuthi weLote emngceleni wePharadesi",
+        "Icilongo elihlabayo",
+        "Intonga eguquka ibe yinyoka",
+        "Isihlalo sobukhosi saphezulu esihle kakhulu"
+      ],
+      "answer": "Umlilo Wesihogo (iJahannam)"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Abantu abahlala esihogweni batshelwa ukuthi bazohlala phakade",
+        "Abahlali baseSihogweni bathethelelwa futhi bakhululwa",
+        "Abahlali baseSihogweni banikezwa ithuba lesibili lokukholwa",
+        "Izakhamuzi zaseSihogweni zithuthelwa endaweni epholile",
+        "Izakhamuzi zaseSihogweni zibhujiswa ngokuphelele yizulu"
+      ],
+      "answer": "Abantu abahlala esihogweni batshelwa ukuthi bazohlala phakade"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

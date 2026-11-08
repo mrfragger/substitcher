@@ -1,0 +1,61 @@
+{
+  "title": "Butning orqasidagi ruh",
+  "intro": "Zulmdan buyuk chiqish soyasida, bu sirli shaxs cho'lda kutib turardi. Tanlangan xalqning rahbari ilohiy birlik uchun muqaddas toqqa ko'tarilayotganda, ortda qolganlarga katta sinov tushdi. Bu shaxs butun jamoaning e'tiqodlarini qayta shakllantirish uchun fursatdan foydalandi. Rahbar haqiqat bilan qaytib kelganida, noyob va abadiy jazo tayinlandi. Bu bahsli va ayyor qalb kimligini aniqlay olasizmi?",
+  "clues": [
+    "Men mo''jizaviy alomatlar orqali kuchli zolimning qo'lidan ozod bo'lgan xalq bilan sayohat qildim.",
+    "Ularning yetakchisi yo'l-yo'riq olish uchun toqqa chiqqanida, men ortda qolganlar orasida kutdim.",
+    "Men ularning bezaklaridan qimmatbaho metallarni yig'ib, uni tovush chiqaradigan narsaga aylantirdim.",
+    "Bu yaratilish orqali men butun bir avlodni o'z xudolarini sahroda topganliklariga ishontirdim.",
+    "Rahbar qaytib kelganida, mendan alohida ajralib turishdi va meni bunday aldovga nima undaganini so'rashdi.",
+    "Bu dunyodagi jazom shu ediki, hech kim menga tegmasdi yoki yaqinlashmasdi, bu abadiy uyat belgisidir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Samiri",
+        "Muso payg'ambar",
+        "Fir'avnning sehrgarlari",
+        "Fir'avnning vaziri Homon",
+        "Rad etilgan Iblis"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Oltin buzoqning yaratilishi",
+        "Fir'avn bilan to'qnashuv",
+        "Buyuk kemaning qurilishi",
+        "Odam Ato oldida bosh egishdan bosh tortish",
+        "Lut shaharlarining vayron bo'lishi"
+      ],
+      "answer": "Oltin buzoqning yaratilishi"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Oltin buzoq buti",
+        "Ilonga aylangan tayoq",
+        "Toshdan chiqqan urg'ochi tuya",
+        "Tog' ustiga qurilgan kema",
+        "Shamolda ko'tarilgan taxt"
+      ],
+      "answer": "Oltin buzoq buti"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Daxlsiz bo'lishga mahkum, abadiy \"aloqa yo'q\" deyish",
+        "Zolim va uning qo'shini bilan birga cho'kib ketdi",
+        "Salqin va osoyishta bo'lgan olovga tashlang",
+        "Haqiqatni rad etgani uchun ko'rlikdan aziyat chekdi",
+        "Rashkchi qarindoshlar tomonidan chuqurga tashlab ketilgan"
+      ],
+      "answer": "Daxlsiz bo'lishga mahkum, abadiy \"aloqa yo'q\" deyish"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

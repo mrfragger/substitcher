@@ -1,0 +1,61 @@
+{
+  "title": "Skriveni vjernik",
+  "intro": "U raskošnim dvoranama moći, gdje su vladali nevjerica i tiranija, usamljeni glas istine progovorio je s neočekivanog mjesta. Ova je figura izazvala autoritet da zaštiti glasnika, riskirajući vlastitu sigurnost kako bi proglasila istinu.",
+  "clues": [
+    "Živio sam u zemlji velike tiranije, služeći vladaru koji je tvrdio da je božanski.",
+    "Godinama sam skrivao svoja prava uvjerenja, bojeći se posljedica njihovog otkrivanja.",
+    "Kad je došao poslanik s jasnim znakovima, ja sam povjerovao, ali se moj narod protiv njega urotio.",
+    "Stajao sam pred tiraninom i njegovim vijećem, tvrdeći da ne smiju ubiti nevinog glasnika.",
+    "Upozorio sam ih na kaznu prošlih naroda koji su odbacili istinu, poput naroda Nuha i Ada.",
+    "Allah me spasio od njihovih zlih spletki i svjedočio sam uništenju tlačiteljskog režima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Vjernik faraonove obitelji",
+        "Faraonov čarobnjak",
+        "Vezir faraona",
+        "Faraonova žena",
+        "Faraonov blagajnik"
+      ],
+      "answer": "Vjernik faraonove obitelji"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Braneći proroka od pogubljenja",
+        "Izazivanje mađioničarskih trikova",
+        "Gradnja tornja koji će dosegnuti nebo",
+        "Razdvajanje mora za bijeg",
+        "Tumačenje kraljevog sna"
+      ],
+      "answer": "Braneći proroka od pogubljenja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Faraonov dvor",
+        "Gorući grm",
+        "Zlatno tele",
+        "Madjanski bunar",
+        "Kovčeg proroka Nuha"
+      ],
+      "answer": "Faraonov dvor"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Spašen od zla dok su tlačitelji bili uništeni",
+        "Postao je moćan vladar",
+        "Bačen je u vatru i izašao neozlijeđen",
+        "Progutala ga je zemlja",
+        "Lutao je pustinjom četrdeset godina"
+      ],
+      "answer": "Spašen od zla dok su tlačitelji bili uništeni"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Odjek kroz litice",
+  "intro": "Zamislite dolinu u kojoj su nastambe isklesane iz litica, a zrak nosi sjećanje na zanemareno upozorenje. Narod je nekada ovdje napredovao, blagoslovljen, ali i prkosan, sve dok se znak nije pojavio iz same stijene kojoj su vjerovali.",
+  "clues": [
+    "Bili smo narod koji je izgradio sigurne domove u planinama, osjećajući se sigurno u svojim kamenitim nastambama.",
+    "Živjeli smo u zemlji ravnica i kamena, blagoslovljenoj vrtovima i izvorima.",
+    "Došao je glasnik između nas, pozivajući nas da napustimo naše lažne bogove i obožavamo Jednog istinskog Stvoritelja.",
+    "Arogantno smo postavili uslov za vjerovanje: jedinstveni znak koji bi se pojavio iz samih stijena koje smo isklesali.",
+    "Kada se obećana deva pojavila iz stijene, jasan znak, naša elita je i dalje odbila i oštetila joj noge uprkos upozorenju o nadolazećoj propasti.",
+    "Tri dana nakon našeg djela, grmljavinska eksplozija odjeknula je dolinom, a mi smo svedeni na ruševine, naši domovi naši grobovi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko smo mi?",
+      "options": [
+        "Ljudi iz ¿Ad",
+        "Narod Semuda",
+        "Ljudi iz Madyana",
+        "Ljudi iz Grovea",
+        "Ljudi iz pećine"
+      ],
+      "answer": "Narod Semuda"
+    },
+    "trial": {
+      "label": "Naš probni/glavni događaj",
+      "options": [
+        "Povreda tetive koljena Allahove deve",
+        "Obožavanje zlatnog teleta",
+        "Kršenje subote",
+        "Izgradnja tornja do neba",
+        "Ubijanje proroka"
+      ],
+      "answer": "Povreda tetive koljena Allahove deve"
+    },
+    "location": {
+      "label": "Ključni element naše priče",
+      "options": [
+        "Allahova kamila",
+        "Musino osoblje",
+        "Nuhov kovčeg",
+        "Bijela Musina ruka",
+        "Ptica Ise"
+      ],
+      "answer": "Allahova kamila"
+    },
+    "outcome": {
+      "label": "Naš ishod",
+      "options": [
+        "Uništenje zaglušujućom eksplozijom",
+        "Kiša kamenja s neba",
+        "Poplava koja je prekrila Zemlju",
+        "Žestoki vjetar koji nas je iščupao iz korijena",
+        "Zemlja nas guta"
+      ],
+      "answer": "Uništenje zaglušujućom eksplozijom"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

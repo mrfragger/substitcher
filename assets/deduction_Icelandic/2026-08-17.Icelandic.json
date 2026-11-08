@@ -1,0 +1,61 @@
+{
+  "title": "Brotið við ströndina",
+  "intro": "Þú stendur á sandi gleymdrar strandar, þar sem öldurnar hvísla um samfélag sem hefur verið reynt af guðlegri skipun. Loftið er þungt af minningunni um brot sem leiddi til óvæntrar umbreytingar. Hverjar voru þessar sálir og hvers eðlis voru raunir þeirra?",
+  "clues": [
+    "Við vorum samfélag sem fékk skýr boðorð frá Drottni okkar, en samt fundum við leiðir til að óhlýðnast því.",
+    "Við bjuggum nálægt vatni og lífsviðurværi okkar var háð dýrunum þar.",
+    "Við mættum prófraun þann dag sem okkur var fyrirskipað að forðast veraldlega iðju.",
+    "Verur vatnsins komu til okkar í miklum fjölda þennan sama dag og freistuðu okkar meira en þær gátu þolað.",
+    "Við fundum upp slæga brögð til að komast hjá guðlegri skipun, í þeirri hugsun að við gætum verið klárir í að yfirbuga hana.",
+    "Brot okkar leiddi til auðmýkjandi umbreytingar; við urðum að fyrirlitnum öpum að skipun Allahs."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Fólkið á hvíldardeginum",
+        "Fólkið í Rass",
+        "Fólkið í Tubba",
+        "Fólkið í hellinum",
+        "Félagar skurðarins"
+      ],
+      "answer": "Fólkið á hvíldardeginum"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Útlit fisksins á hvíldardeginum",
+        "Ár mikilla þurrka",
+        "Her fugla sendur gegn þeim",
+        "Flóð sem yfirbugaði þá",
+        "Öflugur jarðskjálfti"
+      ],
+      "answer": "Útlit fisksins á hvíldardeginum"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Sjórinn",
+        "Fjall",
+        "Hellir",
+        "Eyðimerkurdalur",
+        "Víggirt borg"
+      ],
+      "answer": "Sjórinn"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Breyttust í apa",
+        "Gleypt af jörðinni",
+        "Eyðilagður af öskrandi vindi",
+        "Drukknaði í sjónum",
+        "Lent í steinaskúr"
+      ],
+      "answer": "Breyttust í apa"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

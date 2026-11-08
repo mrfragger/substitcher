@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaitiaki o te Māra",
+  "intro": "I roto i tētahi māra matomato, i oati tetahi hapori i tētahi mea tapu. Engari i whakamatautauria tō rātou whakatau i te wā i uru mai ai te whakaaro o te Atua, ā, i hurihia ō rātou hua hei whenua pakoko.",
+  "clues": [
+    "I manaakitia mātou ki tētahi māra momona, engari i whakakake mātou.",
+    "I whakatakoto mātou i tētahi mahere hei hauhake, engari kāore i tua atu ki te hunga rawakore.",
+    "I haere wawe mātou i te atatu, me te whakapono ki tā mātou mahere.",
+    "I tō mātou taenga atu, i kitea kua whakangaromia tā mātou māra i te pō kotahi.",
+    "I kite māua i tā māua hapa, ā, ka tīmata māua te whakapae tetahi i tetahi.",
+    "I ripeneta mātou i te mutunga, engari kua roa rawa te wā i akohia ai te akoranga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā tāngata o te māra",
+        "Ngā tāngata o te ana",
+        "Ngā tāngata o te arewhana",
+        "Te iwi o Thamud",
+        "Ngā tāngata o 'Ad"
+      ],
+      "answer": "Ngā tāngata o te māra"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "He māra kua huri hei pungarehu",
+        "He waipuke i whakangaro i ngā mea katoa",
+        "I pā te matekai ki te whenua",
+        "He ope manu e whakaeke ana",
+        "He hau nui i hutia ngā rākau"
+      ],
+      "answer": "He māra kua huri hei pungarehu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He māra",
+        "He ana",
+        "He kaipuke",
+        "He maunga",
+        "He whare rangatira"
+      ],
+      "answer": "He māra"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I ripeneta rātou engari i ngaro tā rātou māra",
+        "I whakangaromia rawatia rātou",
+        "I hurihia rātou hei makimaki",
+        "I whakaorangia rātou e te whakapono",
+        "I riro rātou hei rangatira"
+      ],
+      "answer": "I ripeneta rātou engari i ngaro tā rātou māra"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

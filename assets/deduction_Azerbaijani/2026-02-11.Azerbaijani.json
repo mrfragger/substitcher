@@ -1,0 +1,60 @@
+{
+  "title": "Sərvət Yükü",
+  "intro": "Siz böyük bir sərvət hekayəsi, qızıl və güclə bəzədilmiş bir həyatla qarşılaşırsınız, lakin nəticədə dünyəvi əzəmət axtaran hər kəs üçün bir xəbərdarlıq dərsi. Hekayəsi zamanla əks-səda verən, dünyəvi var-dövlətin keçici təbiətinin sübutu olan bu şəxsiyyətin kimliyini aça bilərsinizmi?",
+  "clues": [
+    "Mən böyük bir Peyğəmbərin ümmətindən idim, amma təkəbbür və zülm yolunu seçdim.",
+    "Allah mənə o qədər böyük sərvət bəxş etdi ki, xəzinələrimin açarları güclü bir qrup insan üçün ağır bir yük idi.",
+    "Qövmüm mənə var-dövlətimlə öyünməməyi tövsiyə etdi və Allahın öyünənləri sevmədiyini xatırlatdı.",
+    "Mən təkəbbürlə iddia etdim ki, böyük sərvətim Allahın neməti deyil, öz biliyim və səylərim sayəsindədir.",
+    "Mənə fəsaddan çəkinmək barədə xəbərdarlıq edildi və Allahın mənə verdiyi şeylərlə axirət həyatını axtarmağım xatırladıldı, amma mən qulaq asmaqdan imtina etdim və təkəbbürümü davam etdirdim.",
+    "Nəhayət, Allah məni və evimi yerə batırdı və Öz hökmünə qarşı mənə heç bir köməkçi qoymadı."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Firon",
+        "Haman",
+        "Qarun",
+        "Əbu Ləhəb",
+        "Nəmrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Dənizin iki yerə bölünməsi",
+        "Nəmrudun atəşi",
+        "Daşqın",
+        "Yer tərəfindən udulması",
+        "Çəyirtkələrin vəbası"
+      ],
+      "answer": "Yer tərəfindən udulması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Gəmi",
+        "Heyət",
+        "Qızıl buzov",
+        "Xəzinələr/Açarlar",
+        "Zəmzəm Quyusu"
+      ],
+      "answer": "Xəzinələr/Açarlar"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Padşahlıq verildi",
+        "Məhv olmaqdan xilas oldu",
+        "Torpaq tərəfindən udulmuş",
+        "Peyğəmbər oldu",
+        "Dinc şəkildə öldü"
+      ],
+      "answer": "Torpaq tərəfindən udulmuş"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

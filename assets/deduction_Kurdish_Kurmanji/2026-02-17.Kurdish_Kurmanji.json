@@ -1,0 +1,61 @@
+{
+  "title": "Tovê Nakokiyê",
+  "intro": "Berî ku cîhan şerekî berfireh bizanibe, ceribandinek kûr a bawerî û îtaetê derket holê. Ev çîrok hilbijartinên ku ji hêla kesekî ve hatine kirin vedikole, ku kiryarên wî ji bo nifşên pêşerojê mînakek danîne. Xwe amade bikin ku çîroka giyanekî ku bi çavnebariya mezin û encamên wê yên wêranker re têdikoşe, eşkere bikin.",
+  "clues": [
+    "Ez di nav zarokên pêşîn de bûm ku li ser rûyê erdê meşiyan, zarokê cotek mirovan a pêşîn.",
+    "Ez û birayê min hatin fermankirin ku em ji Xwedê re qurbanekê pêşkêş bikin, da ku em ji bo ceribandina dilsoziya xwe qurbanê bidin.",
+    "Pêşkêşa min nehat qebûlkirin, lê ya birayê min hat qebûlkirin, ku ev yek dilê min bi hestek tirsnak tijî kir.",
+    "Min ji ber tehliya redkirinê gotinên tehdîdkar ji birayê xwe re gotin.",
+    "Birayê min bi aqil û xwedaparêzî bersiv da, edaleta Xwedê û tirsa wî anî bîra min.",
+    "Tevî gotinên nerm ên birayê min û amadebûna wî ya bexşandinê, min jiyana xwe ji dest da û bûm yek ji yên ku winda kirin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Adem",
+        "Îblîs",
+        "Pêxember Nûh",
+        "Qabîl (Qabîl)",
+        "Fîrewn"
+      ],
+      "answer": "Qabîl (Qabîl)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Lehiya mezin",
+        "Parçekirina deryayê",
+        "Avakirina Kebeyê",
+        "Pêşkêşkirina qurbanan",
+        "Ceribandina li Baxçeyê"
+      ],
+      "answer": "Pêşkêşkirina qurbanan"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keşti",
+        "Karmend",
+        "Çiyayê Sefa",
+        "Qurban",
+        "Dara Dişewite"
+      ],
+      "answer": "Qurban"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bû peyamnêrek",
+        "Binav bû",
+        "Padîşahiyek mezin ava kir",
+        "Bûye mînaka xemgîniyê",
+        "Dewlemendiyeke mezin dan"
+      ],
+      "answer": "Bûye mînaka xemgîniyê"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

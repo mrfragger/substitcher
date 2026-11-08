@@ -1,0 +1,61 @@
+{
+  "title": "Ang Dili Matarog nga Pasyente",
+  "intro": "Sa mga talaan sa matagnaong kasaysayan, pipila ra ang nakaagom sa ingon ka dakong kapildihan ug pisikal nga kasakit nga adunay dili matarog nga pagtuo. Ang istorya niining tawhana usa ka walay katapusan nga leksyon sa pailub ug pagsalig sa diosnon nga kaalam. Kinsa kining kalag?",
+  "clues": [
+    "Gipili ako ni Allah aron sa paghatud sa usa ka mensahe, apan ang akong pinakadako nga pagsulay wala moabut pinaagi sa pagsalikway, apan pinaagi sa personal nga katalagman.",
+    "Ang akong bahandi, ang akong mga kahayopan, ug ang akong mga anak gikuha gikan kanako, usa-usa.",
+    "Napuno sa mga samad ang akong lawas, ug ako na lang ang nahibilin gawas sa suporta sa akong kapikas.",
+    "Nagtuaw ko sa akong Ginoo, giangkon ang akong pag-antos ug nangayo sa Iyang kalooy.",
+    "Gisugo ako sa pag-igo sa yuta gamit ang akong tiil, ug usa ka makaparepresko nga tubod ang mibuhagay.",
+    "Gipahiuli sa Allah ang akong kahimsog ug gihatagan ako ug bag-ong pamilya ug mas daghang bahandi kaysa kaniadto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Propeta Ayyub",
+        "Propeta Ibrahim",
+        "Propeta Musa",
+        "Propeta Isa",
+        "Propeta Nuh"
+      ],
+      "answer": "Propeta Ayyub"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Pagkawala sa bahandi ug pamilya",
+        "Gilabay ngadto sa kalayo",
+        "Gitulon sa isda",
+        "Nahimulag gikan sa pamilya ug gibaligya ngadto sa pagkaulipon",
+        "Gisulayan gamit ang bulawan nga nating baka"
+      ],
+      "answer": "Pagkawala sa bahandi ug pamilya"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Usa ka tubod sa tubig",
+        "Usa ka sungkod nga nahimo nga bitin",
+        "Usa ka arka nga kahoy",
+        "Usa ka tinunaw nga nating baka",
+        "Usa ka kahoy nga palma"
+      ],
+      "answer": "Usa ka tubod sa tubig"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pagpahiuli sa pamilya ug bahandi",
+        "Pagsaka sa langit",
+        "Pagkahimong hari",
+        "Naluwas gikan sa usa ka balyena",
+        "Pagdawat og anak nga lalaki sa pagkatigulang"
+      ],
+      "answer": "Pagpahiuli sa pamilya ug bahandi"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

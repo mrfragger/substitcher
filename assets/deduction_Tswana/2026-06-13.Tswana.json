@@ -1,0 +1,61 @@
+{
+  "title": "Batho ba ba Boammaaruri ba Makkah",
+  "intro": "Mo malatsing a ntlha a tshenolo, fa molaetsa wa boammaaruri o ne o lebane le kganetso e e bogale, mewa e e rileng e ne ya ema e sa reketle mo go tlhomamiseng ga yone. Badumedi bano ba ne ba lebana le bosetlhogo jo bo neng bo sa akanngwe go tswa mo go ba ba neng ba batla go tima lesedi la tumelo. Pogiso ya bone e ne e le botlhoko thata, pogiso ya bone e ne e le kgolo thata—le fa go ntse jalo diteme tsa bone ga di ise di ko di kgaotse go bolela Bongwefela jwa ga Allah. Le fa ba ne ba latlhelwa mo botennyeng jwa go itlhoboga, tshireletso ya selegodimo e ne ya ba dikologa, ya fetola teko ya bone go nna testamente e e sa khutleng ya tumelo. A re sekasekeng loeto lwa mewa eno e e gakgamatsang.",
+  "clues": [
+    "Re ne ra lekwa ka kotlhao e e botlhoko ka ntlha ya go gana go tlogela tumelo ya rona mo Modimong a le Mongwe .",
+    "Batho ba rona ba ne ba sa kgone go roba tshwetso ya rona, le fa bosetlhogo jwa bone bo ne bo ka nna jwa boitlhamedi jo bo kana kang",
+    "Re ne re kalediwa mo sedibeng motshegare, le fa go ntse jalo thuso ya bomodimo e ne e nna e le gaufi .",
+    "Tsela e re neng re nitame ka yone e ne ya gakgamatsa tota le batho ba ba neng ba bona boitshoko jwa rona",
+    "Ba le bantsi kwa Makkah ba ne ba batla go re pateletsa go boela morago, mme re ne ra nna re tlhomame .",
+    "Fa dilo tsotlhe di ne di lebega di latlhegile, kgololesego ya rona e ne ya goroga ka go tsereganya ga Modimo ka tsela e e gakgamatsang ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar ngwana Yasir",
+        "Miqdad ibn al-Aswad",
+        "Khabbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Ntwa kgatlhanong le Moporofeti",
+        "Go bogisiwa ka ntlha ya go gana go obamela medingwana",
+        "Teko ya tumelo malebana le tiragalo ya molelo",
+        "Teko ya loeto lwa bosigo jo bo kgaoganeng",
+        "Teko ya tshenyo ya tshingwana"
+      ],
+      "answer": "Go bogisiwa ka ntlha ya go gana go obamela medingwana"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Thaba ya Uhud",
+        "Lefelo le le boitshepo la Kabah",
+        "Sediba sa ga Abu Sufyan",
+        "Ntlo ya segosi ya Ba-Quraysh",
+        "Motse wa Madina"
+      ],
+      "answer": "Sediba sa ga Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Phenyo mo ntweng e kgolo",
+        "Kgololesego ka tsereganyo ya bomodimo",
+        "Boswelatumelo mo tseleng ya ga Allah",
+        "Go amogelwa mo paradaiseng ka tlhamalalo",
+        "Go fudugela kwa lefatsheng le le segofaditsweng"
+      ],
+      "answer": "Kgololesego ka tsereganyo ya bomodimo"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

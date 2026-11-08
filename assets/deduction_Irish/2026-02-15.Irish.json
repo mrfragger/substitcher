@@ -1,0 +1,61 @@
+{
+  "title": "Guth na Seasmhachta",
+  "intro": "Cuimhnítear ar an duine seo as a eagna agus a threoir dhomhain, ag tairiscint comhairle a sháraíonn glúnta. Is fianaise ar an gcráifeacht a gcuid focal agus ar an tábhacht a bhaineann le beannachtaí agus trialacha an Diaga a aithint. Nochtaigh céannacht an anama urramaigh seo.",
+  "clues": [
+    "Ní raibh mé i mo fháidh, ach tá mo chuid eagna neamhbhásmhar i Scrioptúr Dhiaga.",
+    "Leag mo chomhairle do mo leanbh béim ar bhuíochas le Allah agus ar shirk a sheachaint.",
+    "Mhúin mé faoi thábhacht na paidreoireachta, faoi mhaith a ordú, agus olc a thoirmeasc.",
+    "Thug mé rabhadh i gcoinne uabhar agus siúl le míshuaimhneas ar talamh.",
+    "Tugtar m'ainm do chaibidil iomlán sa Choran, ag béim ar mo theagasc.",
+    "Áiríodh ar mo chomhairle foighne in aimsir anásta, óir is amhlaidh a thagann sin ó na cúrsaí is diongbháilte."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Idris",
+        "An Fáidh Yahya",
+        "Luqman",
+        "Imran",
+        "Fáidh Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Príomh-Theagasc/Treoir",
+      "options": [
+        "Ag tógáil áirce",
+        "Ag tabhairt aghaidh ar arm cumhachtach",
+        "Ag dáileadh eagna agus comhairle mhorálta",
+        "Ag léirmhíniú aislingí",
+        "Ag treorú náisiúin chun bua"
+      ],
+      "answer": "Ag dáileadh eagna agus comhairle mhorálta"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tor dóite",
+        "Iasc mór",
+        "Sliabh ar leith",
+        "Comhairle críonna do shliocht",
+        "Pálás mór"
+      ],
+      "answer": "Comhairle críonna do shliocht"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Rinneadh rí de",
+        "Bronnadh fáidh air",
+        "Taifeadadh a eagna sa Qur'an",
+        "Threoraigh sé a mhuintir go tír nua",
+        "Bronnadh saibhreas ollmhór air"
+      ],
+      "answer": "Taifeadadh a eagna sa Qur'an"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

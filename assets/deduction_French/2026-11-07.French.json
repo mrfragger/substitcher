@@ -1,0 +1,61 @@
+{
+  "title": "la quête étoilée de la certitude",
+  "intro": "Imaginez-vous sous un vaste ciel nocturne, observant les lumières éclatantes apparaître puis disparaître, tout en cherchant ce qui mérite véritablement votre dévotion. Autour de vous, des images sculptées et silencieuses reçoivent louanges et offrandes, mais la raison lucide interroge leur pouvoir. Une voix courageuse s'apprête à défier la tradition ancestrale et à désigner le Créateur des cieux et de la terre.",
+  "clues": [
+    "J'ai regardé les étoiles, la lune et le soleil, et j'ai conclu qu'ils ne pouvaient pas être mon Seigneur car ils se couchent et disparaissent.",
+    "J'ai ouvertement désavoué ce que mon peuple adorait en dehors d'Allah et je l'ai appelé à adorer le Créateur seul.",
+    "J'ai débattu avec un souverain vantard qui prétendait donner la vie et la mort, et je lui ai répondu en mentionnant Allah faisant lever le soleil depuis l'est.",
+    "J'ai frappé les idoles et je les ai brisées, ne laissant que la plus grande d'entre elles afin que le peuple puisse y retourner.",
+    "J'ai été saisi et condamné par mon peuple, qui a ordonné de construire un édifice et de me jeter dans le feu ardent.",
+    "J'ai été sauvé quand Allah a ordonné que le feu soit pour moi source de fraîcheur et de sécurité."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ibrahim (Abraham)",
+        "Prophète Yahya (Jean)",
+        "Prophète Al-Yasa (Élisée)",
+        "Le Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Le prophète Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il s'est opposé au culte des idoles et a débattu de la signification des corps célestes.",
+        "Il fut avalé par un grand poisson après être parti en colère.",
+        "conduit les disciples à travers une mer séparée par Allah",
+        "Il fut élevé vivant au ciel sans connaître la mort",
+        "J'ai dormi dans une grotte avec des compagnons pendant de nombreuses années."
+      ],
+      "answer": "Il s'est opposé au culte des idoles et a débattu de la signification des corps célestes."
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un feu ardent rendu froid et sûr par Allah",
+        "L'arche qui a transporté les croyants à travers le déluge",
+        "Le bâton qui se transforma en serpent",
+        "La table s'étendit du ciel",
+        "La chamelle envoyée comme signe"
+      ],
+      "answer": "Un feu ardent rendu froid et sûr par Allah"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Protégés du feu et bénéficiant d'une descendance juste",
+        "Noyés par les négationnistes lors d'une grande inondation",
+        "Transformé pour avoir violé le sabbat",
+        "Détruit par des oiseaux transportant des pierres d'argile",
+        "Englouti par la terre avec ses trésors"
+      ],
+      "answer": "Protégés du feu et bénéficiant d'une descendance juste"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

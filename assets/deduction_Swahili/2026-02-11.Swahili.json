@@ -1,0 +1,60 @@
+{
+  "title": "Mzigo wa Utajiri",
+  "intro": "Unasimama mbele ya hadithi ya utajiri mkubwa, maisha yaliyopambwa kwa dhahabu na nguvu, lakini hatimaye ni somo la tahadhari kwa wote wanaotafuta ukuu wa kidunia. Je, unaweza kufichua utambulisho wa mtu huyu ambaye hadithi yake inarudiwa kwa wakati, ushuhuda wa asili ya kupita ya mali za kidunia?",
+  "clues": [
+    "Nilikuwa miongoni mwa watu wa Nabii mkuu, lakini nilichagua njia ya kiburi na uonevu.",
+    "Mwenyezi Mungu alinipa utajiri mwingi, kiasi kwamba funguo za hazina zangu zilikuwa mzigo mzito kwa kundi lenye nguvu la watu.",
+    "Watu wangu walinishauri nisifurahie utajiri wangu, wakinikumbusha kwamba Mwenyezi Mungu hampendi anayejisifu.",
+    "Kwa kiburi nilidai kwamba utajiri wangu mkubwa ulitokana na ujuzi na juhudi zangu mwenyewe, si baraka kutoka kwa Mwenyezi Mungu.",
+    "Nilionywa dhidi ya ufisadi na kukumbushwa kutafuta Akhera kwa kile ambacho Mwenyezi Mungu amenipa, lakini nilikataa kusikiliza na niliendelea na kiburi changu.",
+    "Hatimaye, Mwenyezi Mungu aliifanya ardhi inimeze mimi na makao yangu, akiniacha bila wasaidizi dhidi ya amri Yake."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Farao",
+        "Hamani",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kugawanyika kwa bahari",
+        "Moto wa Nimrodi",
+        "Mafuriko",
+        "Kumezwa na ardhi",
+        "Pigo la nzige"
+      ],
+      "answer": "Kumezwa na ardhi"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Ndama wa Dhahabu",
+        "Hazina/Funguo",
+        "Kisima cha Zamzam"
+      ],
+      "answer": "Hazina/Funguo"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Utawala uliopewa",
+        "Imeokolewa kutokana na uharibifu",
+        "Imemezwa na ardhi",
+        "Akawa nabii",
+        "Alikufa kwa amani"
+      ],
+      "answer": "Imemezwa na ardhi"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

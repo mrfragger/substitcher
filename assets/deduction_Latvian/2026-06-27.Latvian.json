@@ -1,0 +1,61 @@
+{
+  "title": "Svētā prombūtne",
+  "intro": "Aiz laika kāpām slēpjas stāsts par nelokāmu uzticību un tik smagu uzticību, ka dvēsele, kas to nesa, varēja salūzt. Brīdī, kad cilvēki pievērsās muļķībai un zeltam, viena figūra stingri turējās – saucot viņus atpakaļ, lūdzot pacietību un nesot svēta solījuma nastu. Šis ir stāsts par kādu, kurš tika izvēlēts par palīgu, vezīru un ticības aizbildni svētas prombūtnes laikā. Vai vari atklāt šīs nelokāmās dvēseles identitāti?",
+  "clues": [
+    "Es dalos ar dižena pravieša asinīm, kurš tika izvēlēts, lai runātu ar Allāhu tieši uz svēta kalna.",
+    "Mans brālis/māsa reiz lūdza Allāham palīdzību, lai skaidri runātu ar lielu apspiedēju.",
+    "Allāhs mani izvēlējās stāvēt blakus savam brālim/māsai kā palīgs un vezīrs.",
+    "Kopā mēs stājāmies pretī tirāniskam valdniekam, kurš pieprasīja tikt saukts par augstāko no dieviem.",
+    "Kamēr mans brālis/māsa kalnā sarunājās ar Allāhu, mūsu ļaudis no sava zelta sev izgatavoja elku.",
+    "Esmu Mozus brālis, kuru Allāhs iecēla par savu vezīru, un kura vārds ir pieminēts Korānā."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Haruns (Ārons)",
+        "Pravietis Musa",
+        "Pravietis Davuds",
+        "Pravietis Jakubs",
+        "Pravietis Išaks"
+      ],
+      "answer": "Pravietis Haruns (Ārons)"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Teļa pielūgsmes krīze",
+        "Lielie Nū plūdi",
+        "Badras kauja",
+        "Tamuda iznīcināšana",
+        "Sodomas iznīcināšana"
+      ],
+      "answer": "Teļa pielūgsmes krīze"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Zelta teļš",
+        "Noasa šķirsts",
+        "Degošais krūms",
+        "Hiras ala",
+        "Šebas tronis"
+      ],
+      "answer": "Zelta teļš"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Nevainību apstiprinājis Allāhs",
+        "Faraona noslīkšana",
+        "Kaabas celtniecība",
+        "Droša jūras šķērsošana",
+        "Debesbraukšana debesīs"
+      ],
+      "answer": "Nevainību apstiprinājis Allāhs"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

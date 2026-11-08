@@ -1,0 +1,61 @@
+{
+  "title": "Onyinyo dị n'azụ ocheeze ahụ",
+  "intro": "I guzo n'ime ogige nke alaeze ochie dị ike, ebe onye ọchịchị dị ike akpọọla onwe ya dị ka chi n'elu mmadụ niile. N'akụkụ onye ọchịchị a ka otu ohu raara onwe ya nye, onye e nyere ikike ibuli elu nke alaeze ahụ. Ha niile na-akpa nkata ma na-eme atụmatụ, na-ajụ ịṅa ntị n'ịdọ aka ná ntị nke onye ozi e zigara iduzi ha. Ị̀ pụrụ ịchọpụta onye ohu a kwesịrị ntụkwasị obi bụ?",
+  "clues": [
+    "Ebi m n'alaeze dị ike nke otu onye dị ike nke na-ekwu na ọ bụ chi karịa mmadụ niile na-achị.",
+    "Ejere m ozi dị ka onye ozi a tụkwasịrị obi nke onye ọchịchị a, na-emezu ihe niile ha chọrọ ime na iwu ha.",
+    "Mgbe onye ozi Allah bịara n'ala anyị na-akpọ anyị ka anyị bịa n'eziokwu, mụ na onye ọchịchị m jụrụ ige ntị.",
+    "E nyere m iwu ka m gbaa nnukwu ọkụ ma kwadebe brik ụrọ maka nnukwu ihe owuwu.",
+    "Onye ọchịchị m chọrọ iwuli ụlọ dị elu nke ga-eru eluigwe.",
+    "N'ikpeazụ, onye na-achị m, ndị agha anyị, na mụ onwe m, e wee wụfuo ha n'ime mmiri dị omimi nke oké osimiri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikaịl",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Iwu ụlọ elu iji ruo eluigwe",
+        "Ịtụba n'ime ọkụ na-ere ọkụ",
+        "Ịkpọte ndị mmadụ n'ofufe arụsị nkume",
+        "Ịkewa ọnwa dị ka ihe ịrịba ama Chineke",
+        "Imeri nnukwu obodo site n'iwu Chineke"
+      ],
+      "answer": "Iwu ụlọ elu iji ruo eluigwe"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ụlọ elu nke brik ụrọ e ji ụrọ mee",
+        "Afọ whale",
+        "Isi iyi dị nsọ n'ọzara",
+        "Osisi na-ere ọkụ n'ugwu nsọ",
+        "Ụgbọ mmiri nke nwere ezinụlọ ahọpụtara"
+      ],
+      "answer": "Ụlọ elu nke brik ụrọ e ji ụrọ mee"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Mmiri mikpuru n'ime omimi nke oké osimiri",
+        "E buliri ya n'ebe dị nchebe n'obí ukwu mara mma",
+        "A zọpụtara ya n'afọ nnukwu azụ̀",
+        "A na-asọpụrụ ya site n'ịbụ eze na amamihe Chineke",
+        "Mkpu gbara ya gburugburu mere ka ọ ghọọ uzuzu"
+      ],
+      "answer": "Mmiri mikpuru n'ime omimi nke oké osimiri"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

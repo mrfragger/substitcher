@@ -1,0 +1,60 @@
+{
+  "title": "Spánek věků",
+  "intro": "Chystáte se vydat na cestu časem, kde se setkáte s hlubokým tajemstvím víry a božské moci. Představte si skupinu jednotlivců, kteří se vzepřeli normám své společnosti a lpěli na monoteismu ve světě polyteismu. Jejich příběh je důkazem Alláhovy schopnosti chránit své spravedlivé služebníky těmi nejneobyčejnějšími způsoby. Dokážete rozluštit identitu těchto pozoruhodných postav?",
+  "clues": [
+    "Byli jsme malá skupina mladých mužů, kteří věřili v jednoho Boha, navzdory rozšířenému polyteismu našeho lidu.",
+    "Uprchli jsme před tyranským vládcem, který nám vyhrožoval pro naši víru, protože jsme se báli pronásledování a smrti.",
+    "Hledali jsme útočiště na odlehlém místě a doufali v Alláhovo milosrdenství a ochranu před našimi utlačovateli.",
+    "Náš Pán nás uvrhl do hlubokého spánku, zázračného spánku, který vzdoroval plynutí času.",
+    "Když jsme se probudili, mysleli jsme si, že jsme odpočívali jen den nebo část dne, aniž bychom si uvědomovali, jak obrovské období skutečně uplynulo.",
+    "Korán zmiňuje, že jsme v našem stavu zůstali tři sta let a překročili jsme ho o devět let, což se stalo znamením pro lidstvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z příkopu",
+        "Lidé z Thamudu",
+        "Lidé z jeskyně",
+        "Lidé z Madyanu",
+        "Společníci slona"
+      ],
+      "answer": "Lidé z jeskyně"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Tváří v tvář velké povodni",
+        "Být pohlcen zemí",
+        "Dlouhý zázračný spánek",
+        "Zničení jejich města",
+        "Rozdělení moře"
+      ],
+      "answer": "Dlouhý zázračný spánek"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Hořící keř",
+        "Hora",
+        "Loď",
+        "Jeskyně",
+        "Studna"
+      ],
+      "answer": "Jeskyně"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Bylo jim uděleno obrovské bohatství a moc",
+        "Byli proměněni v opice a prasata",
+        "Byli vzkříšeni ze spánku jako hluboké znamení",
+        "Utopili se ve velké potopě",
+        "Vybudovali velkolepé království"
+      ],
+      "answer": "Byli vzkříšeni ze spánku jako hluboké znamení"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

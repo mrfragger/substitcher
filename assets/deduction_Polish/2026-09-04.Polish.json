@@ -1,0 +1,61 @@
+{
+  "title": "Melodia, która poruszyła góry",
+  "intro": "Odkryjesz historię niezwykłego sługi Allaha. W krainie posłańców i władców, postać ta została obdarzona boską księgą, potężnym głosem i siłą przewyższającą żelazo. Czytając wskazówki, czy potrafisz rozpoznać, kim ona może być?",
+  "clues": [
+    "Byłem sługą Allaha, któremu dano szczególną księgę.",
+    "Miałem piękny głos, a moje pochwały były tak lubiane, że nawet wzgórza i ptaki przyłączały się do mnie.",
+    "W słynnej bitwie stanąłem twarzą w twarz z potężnym przeciwnikiem i pomimo tego, że byłem mniejszy, zwyciężyłem.",
+    "Żelazo stało się dla mnie podatne, co pozwoliło mi na własnoręczne wykonanie zbroi.",
+    "Zostałem ustanowiony władcą wielkiego narodu, a moja mądrość w sądzeniu stała się sławna.",
+    "Mojemu synowi, który również był prorokiem, powierzono władzę nad wiatrem i dżinami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Dawud (Dawid)",
+        "Prorok Sulaiman (Salomon)",
+        "Prorok Musa (Mojżesz)",
+        "Prorok Harun (Aaron)",
+        "Prorok Ilyas (Eliasz)"
+      ],
+      "answer": "Prorok Dawud (Dawid)"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Pokonany Goliat (Dżalut)",
+        "Rozstąpiło się morze",
+        "Przeżył wieloryba",
+        "Został wrzucony do ognia",
+        "Zbudował Arkę"
+      ],
+      "answer": "Pokonany Goliat (Dżalut)"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Zabur (Psalmy)",
+        "Tora (Tawrat)",
+        "Ewangelia (Injil)",
+        "Zwoje Ibrahima",
+        "Koran"
+      ],
+      "answer": "Zabur (Psalmy)"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Został prorokiem i królem Izraela",
+        "Został władcą Egiptu",
+        "Został podniesiony do nieba",
+        "Został zniszczony przez burzę",
+        "Został towarzyszem jaskini"
+      ],
+      "answer": "Został prorokiem i królem Izraela"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

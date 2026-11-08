@@ -1,0 +1,61 @@
+{
+  "title": "Slēptais ticīgais",
+  "intro": "Greznajās varas zālēs, kur valdīja neticība un tirānija, no negaidītas vietas atskanēja vientuļa patiesības balss. Šī persona izaicināja varu aizsargāt vēstnesi, riskējot ar savu drošību, lai pasludinātu patiesību.",
+  "clues": [
+    "Es dzīvoju lielas tirānijas zemē, kalpojot valdniekam, kurš apgalvoja, ka ir dievišķs.",
+    "Daudzus gadus es slēpu savus patiesos uzskatus, baidoties no sekām, kas varētu rasties to atklāšanas gadījumā.",
+    "Kad vēstnesis ieradās ar skaidrām zīmēm, es ticēju, bet mani ļaudis sazvērējās pret viņu.",
+    "Es stāvēju tirāna un viņa padomes priekšā, apgalvojot, ka viņiem nevajadzētu nogalināt nevainīgu vēstnesi.",
+    "Es viņus brīdināju par sodu, ko saņems pagātnes tautas, kuras noraidīja patiesību, tāpat kā Noasa un Mēkaba ​​laika ļaudis.",
+    "Allāhs mani izglāba no viņu ļaunajiem nodomiem, un es biju liecinieks represīvā režīma iznīcināšanai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Faraona ģimenes ticīgais",
+        "Faraona burvis",
+        "Faraona vezīrs",
+        "Faraona sieva",
+        "Faraona mantzinis"
+      ],
+      "answer": "Faraona ģimenes ticīgais"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Pravieša aizstāvēšana pret nāvessodu",
+        "Burvju mākslinieka triku izaicināšana",
+        "Torņa celtniecība, lai sasniegtu debesis",
+        "Šķirt jūru, lai aizbēgtu",
+        "Karaļa sapņa interpretācija"
+      ],
+      "answer": "Pravieša aizstāvēšana pret nāvessodu"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Faraona galms",
+        "Degošais krūms",
+        "Zelta teļš",
+        "Madjanas aka",
+        "Pravieša Nuha šķirsts"
+      ],
+      "answer": "Faraona galms"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Glābts no ļaunuma, kamēr apspiedēji tika iznīcināti",
+        "Kļuva par spēcīgu valdnieku",
+        "Tika iemests ugunī un izkļuvis neskarts",
+        "Tika aprīta zeme",
+        "Četrdesmit gadus klejoja tuksnesī"
+      ],
+      "answer": "Glābts no ļaunuma, kamēr apspiedēji tika iznīcināti"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

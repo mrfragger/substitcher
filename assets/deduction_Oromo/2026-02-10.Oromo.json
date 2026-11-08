@@ -1,0 +1,60 @@
+{
+  "title": "Hirriba Barootaa",
+  "intro": "Iccitii amantii fi humna waaqummaa gadi fagoo ta’een wal qunnamuudhaan imala yeroo jalqabuuf jirta. Mee garee namoota dhuunfaa seera hawaasa isaanii cabsanii, addunyaa shirkii keessatti tokkichatti maxxanan yaadi. Seenaan isaanii kun dandeettii Rabbiin gabroota Isaa qajeelota karaa adda ta’een tiksuu akka danda’u ragaadha. Eenyummaa namoota dinqisiisoo kanaa hiikuu dandeessaa?",
+  "clues": [
+    "Nuti gartuu xiqqaa dargaggoota Waaqa tokkichatti amannu turre, shirkii ummanni keenya bal’inaan qabaatus.",
+    "Ari’atamaa fi du’a sodaannee bulchaa garboomfataa amantii keenyaaf nu doorsisu jalaa baqanne.",
+    "Rahmata Rabbii fi eegumsa cunqursitoota keenya irraa abdannee bakka dhokataa ta’etti maganfanne.",
+    "Gooftaan keenya hirriba cimaa, hirriba dinqii yeroo darbuu mormu keessa akka kufnu nu taasise.",
+    "Yeroo dammaqnu, yeroo bal’aa dhuguma darbe sana osoo hin beekin guyyaa tokkoof ykn guyyaa tokko keessaa muraasa qofa boqonne jennee amanne.",
+    "Waggaa dhibba sadiif haala keenya keessa turre, sagal caalnee, ilma namaatiif mallattoo ta’uu keenya Qur’aanni ni eereera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Ummata Boollaa",
+        "Ummata Thamud",
+        "Ummata Holqa",
+        "Uummata Madyan",
+        "Sahaabonni Qeerroo"
+      ],
+      "answer": "Ummata Holqa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Lolaa guddaa fuulduratti",
+        "Lafaan liqimfamuu",
+        "Hirriba dinqii dheeraa",
+        "Diigamuun magaalaa isaanii",
+        "Gargar bahuun galaanaa"
+      ],
+      "answer": "Hirriba dinqii dheeraa"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Bosona gubaa jiru",
+        "Gaara tokko",
+        "Doonii tokko",
+        "Holqa tokko",
+        "Boolla bishaanii"
+      ],
+      "answer": "Holqa tokko"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Qabeenyi fi aangoo hammana hin jedhamne isaaniif kenname",
+        "Isaanis gara hantuutaa fi allaattii jijjiiraman",
+        "Akka mallattoo gadi fagootti hirriba keessaa kaafaman",
+        "Bishaan lolaa guddaa keessa liqimfaman",
+        "Mootummaa dinqisiisaa ijaaran"
+      ],
+      "answer": "Akka mallattoo gadi fagootti hirriba keessaa kaafaman"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

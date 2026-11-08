@@ -1,0 +1,61 @@
+{
+  "title": "Tårnbyggerne",
+  "intro": "I en lang svunden tid opstod en mægtig civilisation, der var kendetegnet ved imponerende konstruktionsbedrifter og formidabel styrke. Denne kollektive enhed fik tildelt rigelige ressourcer og fysisk dygtighed, men de valgte en trodsig vej mod det guddommelige budskab, der var sendt for at vejlede dem. Deres historie tjener som en dyb lektie i historiens annaler, et vidnesbyrd om konsekvenserne af at afvise sandheden.",
+  "clues": [
+    "Vi blev givet enorm fysisk styrke og statur, i modsætning til alle andre folkeslag på vores tid.",
+    "Vi var kendt for at bygge store bygninger og høje søjler på alle høje steder, i den tro, at vi ville leve evigt.",
+    "En budbringer fra vores midte blev sendt for at advare os og opfordrede os til at tilbede Allah alene og opgive vores afguder.",
+    "Vi spurgte arrogant vores sendebud og spurgte, om de kun var kommet til os for at få os til at tilbede Allah og opgive det, vores forfædre tilbad.",
+    "Vores land var velsignet med haver, kilder og frugtbare marker, men vi tilskrev vores velstand vores egen styrke, ikke vores Skaber.",
+    "På grund af vores vedvarende vantro og hån blev vi i sidste ende udslettet af en skræmmende, voldsom vind, der rasede i mange dage og nætter."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Folket i Thamud",
+        "Folket i Fir'aun",
+        "Folket i Nuh",
+        "Folk i Madyan",
+        "Folk fra 'Ad"
+      ],
+      "answer": "Folk fra 'Ad"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "At blive bedt om at ofre en bestemt kamel",
+        "Udfordret til at producere ti suraer ligesom Koranen",
+        "At blive vist havets deling",
+        "Advarsel fra en profet om den forestående oversvømmelse",
+        "At afvise en profet, der advarede mod at bygge overdrevent og tilbede afguder"
+      ],
+      "answer": "At afvise en profet, der advarede mod at bygge overdrevent og tilbede afguder"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Arken",
+        "Personalet",
+        "Ilden",
+        "Sodomas by",
+        "Høje søjler og stærke boliger"
+      ],
+      "answer": "Høje søjler og stærke boliger"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Druknet i en stor oversvømmelse",
+        "Opslugt af jorden",
+        "Forvandlet til aber og svin",
+        "Ødelagt af et voldsomt brag",
+        "Udslettet af en voldsom, ødelæggende vind"
+      ],
+      "answer": "Udslettet af en voldsom, ødelæggende vind"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

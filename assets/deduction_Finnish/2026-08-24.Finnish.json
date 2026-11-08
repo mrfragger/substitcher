@@ -1,0 +1,61 @@
+{
+  "title": "Kätketyt kuuntelijat, jotka uskoivat",
+  "intro": "Pyhän kokoontumisen hiljaisuudessa saapui merkittävä joukko näkymättömästä valtakunnasta. Ihmeellisen kuiskauksen vetämällä he kuuntelivat lausuntaa, joka sinetöisi heidän kohtalonsa ikuisiksi ajoiksi. Heidän todistuksensa on edelleen yksi ainutlaatuisimmista jumalallisissa kirjoituksissa.",
+  "clues": [
+    "Olemme olentoja useimmille näkymättömästä maailmasta, ja tulimme ryhmänä.",
+    "Matkasimme kohti kokoontumista kuullaksemme jotakin merkittävää.",
+    "Saapuessamme kuuntelimme lausuntaa, joka jätti meidät hämmästyneiksi.",
+    "Tunnustimme avoimesti, että jotkut meistä ovat vanhurskaita ja jotkut eivät.",
+    "Tiesimme, ettemme voisi paeta jumalallista säädöstä maan päällä emmekä lentämällä taivaalle.",
+    "Kun kuulimme johdatuksen, me uskoimme siihen; se, joka uskoo Herraansa, ei pelkää menetystä eikä taakkaa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Jinnin ryhmä",
+        "Iramin kansa",
+        "Tubban kansa",
+        "Rooman valtakunta",
+        "Quraishin heimo"
+      ],
+      "answer": "Jinnin ryhmä"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Pyhän lausunnon kuunteleminen",
+        "Rakennamme korkeita pilareita kaupungissamme",
+        "Metsästämässä upeaa naaraskamelia",
+        "Tuhotaan profeettojemme tappamisen vuoksi",
+        "Varallisuuden moninkertaistaminen mittaamattomasti"
+      ],
+      "answer": "Pyhän lausunnon kuunteleminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Pyhän lausunnan kokoontuminen",
+        "Korkeiden pylväiden kaupunki (Iram)",
+        "Kaivo autiomaassa",
+        "Suuri kultainen palatsi",
+        "Pyhä luola vuorilla"
+      ],
+      "answer": "Pyhän lausunnan kokoontuminen"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Uskoimme ja varoitimme kansaamme",
+        "Tuhoutui mahtavan taivaanräjähdyksen seurauksena",
+        "Paahtavan, tuhoisan tuulen rankaisemana",
+        "Myönsi valtavasti vaurautta ja valtaa",
+        "Pysyi järkkymättömänä epäuskossa"
+      ],
+      "answer": "Uskoimme ja varoitimme kansaamme"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

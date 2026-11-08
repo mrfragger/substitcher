@@ -1,0 +1,61 @@
+{
+  "title": "L-Arkitett tal-Ambizzjoni Falza",
+  "intro": "Figura ta’ awtorità kbira darba serviet lil wieħed mit-tiranni l-aktar notorji tal-istorja fl-Eġittu tal-qedem. Dan l-individwu ġie fdat b’kmand awdaċi — li ​​jibni struttura maħsuba biex tisfida s-smewwiet. L-istorja tagħhom tinsab fil-Koran bħala lezzjoni impressjonanti dwar kif l-ubbidjenza għamja għall-arroganza twassal biss għar-rovina.",
+  "clues": [
+    "Jiena servejt fil-qrati ta' ħakkiem qawwi li kien jiddikjara li kien divin fuq l-artijiet.",
+    "Kelli pożizzjoni ministerjali għolja, fejn kont nagħti pariri lill-aktar tirann arroganti ta’ żmieni.",
+    "Il-ħakkiem tiegħi kien imħasseb jisfida lill-Alla ta’ Mosè, li huma rrifjutaw li jagħrfuh.",
+    "Ġejt ordnat nibni torri minn briks moħmija fin-nar sabiex il-ħakkiem tiegħi jkun jista' jitla' s-smewwiet.",
+    "It-torri qatt ma laħaq is-sema, u s-sagrifiċċju tiegħi għall-arroganza kisbitli diżgrazzja eterna.",
+    "Mitlejt ma’ dak li segwejt, u ismi sar twissija dejjiema kontra dawk li jippermettu lit-tiranni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Ħaman",
+        "Azar (missier Ibrahim)",
+        "Ilja (profeta)",
+        "Dhu al-Kifl",
+        "Harut (wieħed miż-żewġ anġli f'Babilonja)"
+      ],
+      "answer": "Ħaman"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Ordnat biex jibni struttura għolja biex jilħaq is-smewwiet",
+        "Mitlub jinterpreta ħolma mibgħuta mid-divin",
+        "Mitfugħ f’nar jaħraq bħala prova tal-fidi",
+        "Imġiegħel jagħżel bejn it-tron u l-verità",
+        "Sfidat f'kompetizzjoni tas-seħer"
+      ],
+      "answer": "Ordnat biex jibni struttura għolja biex jilħaq is-smewwiet"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Torri ta’ briks moħmija bin-nar",
+        "Bastun li ttrasforma f'serp",
+        "Bastiment li jbaħħar minn ġo dilluvju kbir",
+        "Ġnien magħluq b'ħitan għoljin",
+        "Tron imżejjen bir-rubini u d-deheb"
+      ],
+      "answer": "Torri ta’ briks moħmija bin-nar"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Għerqet flimkien mal-oppressur fil-baħar",
+        "Sar monarka qawwi ta’ artijiet vasti",
+        "Ħarab minn nar qawwi bla ħsara",
+        "Bnejt saltna prospera ta’ għerf",
+        "Ingħaqad mal-familja wara snin ta’ eżilju"
+      ],
+      "answer": "Għerqet flimkien mal-oppressur fil-baħar"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

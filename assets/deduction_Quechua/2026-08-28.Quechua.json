@@ -1,0 +1,61 @@
+{
+  "title": "Ñawpa Wasipi Hark’ay",
+  "intro": "Chay sagrado llaqtapin huk atiyniyoq runa phiñakuywan t’oqyachirqan, mosoq willakuy mast’arikuyta qallariqtin. Kay sapan runaqa, sutinmi cheqaq kaqpa contranpi churakuywan tuparqan, qhawarqanmi Diospa revelacionninpa llasayninwan influencianku thuñikushaqta. ¿Pitaq kay alma karqan, destinon sellasqa karqan huk reqsisqa maqanakuy pampaq rit’inpi?",
+  "clues": [
+    "Llaqtaykuna ukhupi umalliqmi karqani, ñawpaq santuario nisqa llaqtapi qhapaq kasqayrayku, atiyniyoq kasqayrayku ima reqsisqa karqani.",
+    "Aylluymanta huk runa huk Diospa willakuyninta willayta qallariqtinmi, paymanta, revelacionninkunamantawan burlakurqani, ñawpaq cuentokunalla nispa.",
+    "Chay runawanmi tuparqani sagrado wasipa hichpanpi mañakuchkaptin, amenazarqanim necesario kaptinqa kallpawan yupaychayninta saqinaypaq.",
+    "Ñuqaqa karqani chay mosoq iñiyta upallachinankupaq yuyaykuq umalliqkuna ukhupin, qatikuqninkunaq contranpi rimaspa, armakunawan ima.",
+    "Huk ejercitowanmi purirqani Badr sutiyoq cheqasman, confiaspaymi chay huch’uy t’aqa iñiqkunata ñut’uykusaqku.",
+    "Ichaqa chay maqanakuy pampapin kawsayniy tukukurqan, wañuyniytaqmi huk yachachikuyman tukupurqan sut’i señalkuna qhepaman mana iñiypi hinalla kaqkunapaq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Abu Jahl sutiyuq runa",
+        "Abu Sufyan ibn Harb sutiyuq runam",
+        "Al-Nadr ibn al-Harith sutiyuq runam",
+        "Umayyah ibn Khalaf sutiyuq runa",
+        "Utbah ibn Rabi'ah sutiyuq runa"
+      ],
+      "answer": "Abu Jahl sutiyuq runa"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Profeta Kaabapi mañakunanta hark’aspa",
+        "Kaaba llaqtata hatarichiy",
+        "Quran qillqay",
+        "Elefantepa ejercitonta umallispa",
+        "Killa rakiy"
+      ],
+      "answer": "Profeta Kaabapi mañakunanta hark’aspa"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Chay Kaaba",
+        "Profeta Nuhpa Arcan",
+        "Profeta Musapa Varachan",
+        "Quri Waqacha",
+        "Seba llaqtapi Reinapa kamachikuy tiyanan"
+      ],
+      "answer": "Chay Kaaba"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Badr maqanakuypi wañusqa",
+        "Perepentikuspa musulman kapurqan",
+        "Abisinia llaqtaman ayqekurqan",
+        "Wañusqa Elefante Watapi",
+        "Profetaq compañeron kapurqan"
+      ],
+      "answer": "Badr maqanakuypi wañusqa"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La diga qe la g’ha ruinad un regn",
+  "intro": "Una terra de fiumm che scorren, dü giardin verd e una prosperità senza pari, ma i sò abitant g’han minga pensà a chel che g’ha benedì. Quand i ricurd rivavan a ciamàl indrè, i se sun voltà indrè. Quel che l’è vegnuu dopu l’è stà una puniziun che la fà ancamò eco cuma un avvertiment. Chi l’era chesta vègia comunità?",
+  "clues": [
+    "Vivem in una terra inscì benedeta che la noster cà l’era intra dü giardin verd.",
+    "G’hem piasü i fiumm che currevan travers i noster terr e i tanti raccolt che impienivan i noster cà.",
+    "Eppur quand che sem stà ciamà vers la gratitudin e l’ubbidienza al noster Signur, sem stà voltà via cun orgœuj.",
+    "La nostra richeza e la nostra facilità g’han fatt desmentegà quel che g’haveva cuncess tüt.",
+    "Poeu l’è rivà un torrent impruvis che g’ha traversà la grand barriera sü la qual serem afidà.",
+    "A sem la jent de Saba', e la sœ terra ‘l ira cognossuda par la granda diga de Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "Gent de Saba",
+        "Gent de la fossa",
+        "Compagn del Pozz",
+        "Gent de Tubba'",
+        "Popol de Midian"
+      ],
+      "answer": "Gent de Saba"
+    },
+    "trial": {
+      "label": "La nostra caduta",
+      "options": [
+        "Inondaziun de una diga che scuppia",
+        "Un vent viulent del ciel",
+        "Brüsar en una fossa de fœuch",
+        "Un grand terremot",
+        "Anegare in una gran inondazione"
+      ],
+      "answer": "Inondaziun de una diga che scuppia"
+    },
+    "location": {
+      "label": "Posiziun chiave",
+      "options": [
+        "La diga de Ma'rib",
+        "El Monte Sinai",
+        "La Grotta dei Set Dormitori",
+        "El busc brüsant",
+        "La scissiun del mar"
+      ],
+      "answer": "La diga de Ma'rib"
+    },
+    "outcome": {
+      "label": "El noster destin",
+      "options": [
+        "Dü giardin amar g’han sostituì quei lüssuregh",
+        "I noster giardin sun diventà ancamò püsee lüssuregh",
+        "La terra la s’è affondada sotta el mar",
+        "Sem stad sepelì in de la cendra vulcanica",
+        "La noster naziun la s’è divisa en dòdes tribù"
+      ],
+      "answer": "Dü giardin amar g’han sostituì quei lüssuregh"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

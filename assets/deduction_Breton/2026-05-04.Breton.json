@@ -1,0 +1,61 @@
+{
+  "title": "Saver an lorc'h",
+  "intro": "En ur vro gozh renet gant ur galloud a-enep, e oa un den pennañ en ur garg a levezon. An ene-se a oa pouezus e raktresoù bras ar rener, o kemer perzh en o ren gwaskerezh hag o lakaat ar gemennadenn doueel da dalvezout. O hêrezh a zo liammet gant klask galloud ar bed ha nac'hañ ar wirionez.",
+  "clues": [
+    "Servijet em eus ur rener spontus en deus gwasket ur bobl e-pad rummadoù.",
+    "Alies e vez meneget ma anv el Levr Doue e-kichen ar penn galloudus-se.",
+    "Karget e oa bet din ur raktres sevel bras, ur savadur uhel a oa sañset tizhout an neñvoù.",
+    "Aliet em eus da'm mestr lazhañ mibien mibien Israel ha espern o merc'hed.",
+    "Kemeret em eus perzh e iriennoù ha iriennoù a-enep ur c'hannad galloudus eus Allah.",
+    "Va fin, a-gevret gant va mestr hag e arme, a erruas e doureier ur mor divent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliath",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Bezañ amprouet gant pinvidigezh divent",
+        "Kas un arme a-enep un ti sakr",
+        "Sevel un tour evit tizhout Doue",
+        "Bezañ taolet en tan abalamour d'o c'hredenn",
+        "Bezañ taolet en ur puñs gant breudeur ha c'hoarezed"
+      ],
+      "answer": "Sevel un tour evit tizhout Doue"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "An Arc'h",
+        "Ar skipailh",
+        "Ar Menez",
+        "An tour",
+        "Ar Balum"
+      ],
+      "answer": "An tour"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Bezañ roet ur furnez divent",
+        "Dont da vezañ profed",
+        "Bezañ lonket gant an douar",
+        "Bezañ roet dezhañ ur rouantelezh",
+        "Beuzet er mor"
+      ],
+      "answer": "Beuzet er mor"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

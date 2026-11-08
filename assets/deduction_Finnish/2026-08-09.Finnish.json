@@ -1,0 +1,61 @@
+{
+  "title": "Muinaisten aikojen totuudenmukainen ääni",
+  "intro": "Koraanissa on sielu, jonka tarina kerrotaan vain muutamassa jakeessa, mutta hänen jalolaatuiset ominaisuutensa loistavat läpi loistavalla selkeydellä. Kaikkivaltiaan ylistämä erityinen hyve, tämä Armollisimman muinainen palvelija pitää paikkansa ilmestysten sivuilla. Tehtäväsi on tunnistaa tämä merkittävä hahmo. Osaatko arvata, keitä hän on?",
+  "clues": [
+    "Olen Allahin profeetta, joka eli ihmiskunnan varhaisten sukupolvien keskuudessa.",
+    "Allah mainitsi minut Kirjassaan muiden profeettojen kanssa, ja kaikkia ylistettiin samasta jalosta hyveestä.",
+    "Minua kuvaillaan totuuden miehenä Koraanissa.",
+    "Allah nosti minut korkealle asemalle, jonka harvat muut ovat saavuttaneet.",
+    "Nimeni mainitaan suurassa Al-Anbiya yhdessä kahden muun kärsivällisyydestään ylistetyn profeetan kanssa.",
+    "Minä olen Idris, totuudenmukainen ja ylevä profeetta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Idris",
+        "Profeetta Nooa",
+        "Profeetta Ibrahim",
+        "Profeetta Musa",
+        "Profeetta Ismail"
+      ],
+      "answer": "Profeetta Idris"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Säilytti kärsivällisyyden ja totuudenmukaisuuden, sitten nousi korkeaan asemaan",
+        "Suuren arkin rakentaminen pelastaakseen uskovat tuhoisalta tulvalta",
+        "Heitetään liekehtivään tuleen ja sieltä noustaan ​​täysin vahingoittumattomana",
+        "Kohtaamassa mahtavan kuninkaan ja voittamalla hänen velhojen armeijansa",
+        "Selviytyminen suuren kalan vatsassa meren syvyyksissä"
+      ],
+      "answer": "Säilytti kärsivällisyyden ja totuudenmukaisuuden, sitten nousi korkeaan asemaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Korkea ja ylevä asema Allahin taholta",
+        "Massiivinen laiva, joka on rakennettu lankuista ja tervalla täytetty",
+        "Pahan kuninkaan epäjumalanpalvelijoiden ruokkima raivoisa tuli",
+        "Laaja meri, joka jakautui kuiviksi poluiksi",
+        "Suuren valaan tumma vatsa meren pohjassa"
+      ],
+      "answer": "Korkea ja ylevä asema Allahin taholta"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hyväksytty Allahin armoon yhtenä vanhurskaista",
+        "Pelastui kaikkien uskovien kanssa maailmanlaajuisesta vedenpaisumuksesta",
+        "Kävelin ulos liekeistä tulen koskematta",
+        "Johti Israelin lapset turvallisesti vapauteen meren yli",
+        "Yhteen rakkaan perheensä kanssa pitkien vaikeuksien vuosien jälkeen"
+      ],
+      "answer": "Hyväksytty Allahin armoon yhtenä vanhurskaista"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Plameň v paláci arogancie",
+  "intro": "Za majestátnymi múrmi najmocnejšieho paláca starovekého sveta žila postava, ktorej srdce nieslo tajomstvo, ktoré žiadny kráľovský dekrét nemohol umlčať. Zatiaľ čo sa všetci okolo klaňali falošným bohom, táto duša v sebe uchovávala tichú vieru. Vládca tejto krajiny sa považoval za božského, no tento jedinec si vybral pravdu pred pohodlím a oddanosť pred bezpečím. Dnes je vašou úlohou zistiť, kto bola táto odvážna duša, ktorej príbeh zostáva jedným z najsilnejších príkladov neochvejnej viery.",
+  "clues": [
+    "Žil som na mieste nesmierneho bohatstva a bezkonkurenčnej vznešenosti, kde vládca krajiny mal absolútnu moc nad všetkým.",
+    "Zatiaľ čo sa ľudia okolo mňa klaňali falošným bohom, ja som si v srdci uchovával tiché svetlo viery.",
+    "Objavil som a adoptoval som dieťa, ktoré mi prišlo na svet nezvyčajným spôsobom – nie narodením, ale vodami veľkej rieky.",
+    "Modlil som sa k svojmu Pánovi a prosil som ho o domov v Jeho blízkosti v raji a o spasenie pred tyraniou, ktorá ma obklopovala.",
+    "Dieťa, ktoré som vychoval, vyrástlo tak, aby sa postavilo samotnému vládcovi, ktorý riadil môj osud, a ja som pevne stál vo svojej viere, aj keď mi hrozilo nebezpečenstvo.",
+    "Ja som ten, koho meno je v Koráne uctievané ako vzor viery a žil som v paláci samotného faraóna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Asija, manželka faraóna",
+        "Maryam, matka Isaa",
+        "Bilqis, kráľovná zo Sáby",
+        "Manželka proroka Luta",
+        "Imranova manželka"
+      ],
+      "answer": "Asija, manželka faraóna"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Objavenie a výchova opusteného dieťaťa, ktoré sa stalo veľkým prorokom",
+        "Byť uvrhnutý do veľkého ohňa tyranom",
+        "Svedkom veľkej potopy, ktorá zničila ľud",
+        "Svedkovia trasenia datľovou palmou a poskytovania výživy",
+        "Počatie syna napriek pokročilému veku"
+      ],
+      "answer": "Objavenie a výchova opusteného dieťaťa, ktoré sa stalo veľkým prorokom"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Kráľovský palác bezkonkurenčnej nádhery",
+        "Skvelá loď postavená tak, aby odolala povodniam",
+        "Hlboká jaskyňa ukrytá v horách",
+        "Horiaci oheň založený na vrchole hory",
+        "Záhrada ohradená múrmi"
+      ],
+      "answer": "Kráľovský palác bezkonkurenčnej nádhery"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Domov v raji bol udelený z vôle Alaha",
+        "Veľká potopa zničila neveriacich starovekého národa",
+        "Na tomto svete bolo udelené kráľovstvo nesmiernej moci a autority",
+        "Mocnú armádu rozptýlili vtáky za letu",
+        "Tyran, ktorý tvrdil, že je božský, sa utopil v mori"
+      ],
+      "answer": "Domov v raji bol udelený z vôle Alaha"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

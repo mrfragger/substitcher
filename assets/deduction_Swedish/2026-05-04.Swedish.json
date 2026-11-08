@@ -1,0 +1,61 @@
+{
+  "title": "Arrogansens arkitekt",
+  "intro": "I ett forntida land styrt av en trotsig makt innehade en nyckelperson en inflytelserik position. Denna själ var avgörande för härskarens storslagna planer, bidrog till deras förtryckande styre och utmanade det gudomliga budskapet. Deras arv är sammanflätat med en strävan efter världslig makt och ett förnekande av sanningen.",
+  "clues": [
+    "Jag tjänade en formidabel härskare som förtryckte ett folk i generationer.",
+    "Mitt namn nämns ofta i den Gudomliga Boken tillsammans med denne mäktige ledare.",
+    "Jag fick i uppdrag att genomföra ett storslaget byggprojekt, en hög byggnad avsedd att nå himlen.",
+    "Jag rådde min herre att döda Israels barns söner och skona deras döttrar.",
+    "Jag var inblandad i komplotter och konspirationer mot en mäktig budbärare från Allah.",
+    "Mitt slut, tillsammans med min herre och hans här, kom i ett stort havs vatten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Nimrod",
+        "Abraha",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att prövas med enorm rikedom",
+        "Att leda en armé mot ett heligt hus",
+        "Att bygga ett torn för att nå Gud",
+        "Att kastas i eld för sin tro",
+        "Att bli kastad i en brunn av syskon"
+      ],
+      "answer": "Att bygga ett torn för att nå Gud"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Arken",
+        "Personalen",
+        "Berget",
+        "Tornet",
+        "Valen"
+      ],
+      "answer": "Tornet"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Att få enorm visdom",
+        "Att bli en profet",
+        "Att bli uppslukad av jorden",
+        "Att få ett kungarike",
+        "Drunkning i havet"
+      ],
+      "answer": "Drunkning i havet"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

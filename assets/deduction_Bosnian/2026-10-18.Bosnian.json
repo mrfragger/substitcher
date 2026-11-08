@@ -1,0 +1,61 @@
+{
+  "title": "Radosna vijest u starosti",
+  "intro": "Svjedočite trenutku u kojem se nada ponovo budi. Par, odavno prešavši dob roditeljstva, prima obećanje koje prkosi zakonima prirode. Među njima stoji figura čije je samo postojanje znak božanske milosti - duša predodređena za proročanstvo, koja nosi naslijeđe koje će se protezati generacijama. Ko je ova izvanredna osoba?",
+  "clues": [
+    "Rođen sam od roditelja koji su dostigli starost i nisu imali djece.",
+    "Moje rođenje su objavili anđeli koji su došli kao gosti mojoj porodici.",
+    "Data mi je mudrost i proročanstvo, i spomenut sam među strpljivima.",
+    "Mog oca su nazivali Allahovim prijateljem, a ja sam mu bio poklon u kasnijim godinama.",
+    "Imao sam brata koji je također bio prorok, i obojica smo bili blagoslovljeni od našeg Gospoda.",
+    "Moj sin je također bio prorok, a mojim potomcima su date knjige i proročanstvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Poslanik Ishak (Izak)",
+        "Poslanik Ismail (Išmael)",
+        "Poslanik Jakub (Jakub)",
+        "Poslanik Jahja (Ivan)",
+        "Poslanik Uzair (Ezra)"
+      ],
+      "answer": "Poslanik Ishak (Izak)"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Rođen od starijih roditelja",
+        "Bačen u vatru",
+        "Dato mu je kraljevstvo i bogatstvo",
+        "Izveo je svoj narod iz Egipta",
+        "Izgradio je arku da spasi vjernike"
+      ],
+      "answer": "Rođen od starijih roditelja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Radosna vijest o sinu",
+        "Gorući grm",
+        "Zlatno tele",
+        "Kovčeg saveza",
+        "Štap prorokovanja"
+      ],
+      "answer": "Radosna vijest o sinu"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postao je prorok s lozom proroka",
+        "Postao je bogati kralj",
+        "Njegov narod je uništen zbog nevjerovanja",
+        "Spašen je od požara",
+        "Dobio je sposobnost govora kao beba"
+      ],
+      "answer": "Postao je prorok s lozom proroka"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

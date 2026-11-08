@@ -1,0 +1,61 @@
+{
+  "title": "Batatoli ya molende",
+  "intro": "Kanisa ntango moko oyo kondima emekamaki na mɔ́tɔ, mpe kondima oyo etɛngamá te ekómaki koboya ya nsuka. Ozali na mokumba ya kobimisa bomoto ya etuluku oyo lisolo na yango elobelami na Coran, lisolo ya kondima mozindo mpo na kotɛmɛla bokonzi ya mabe oyo eleki makasi. Bofungola bilembo mpo na koyeba nani milimo wana ezalaki, mpe makambo ya kokamwa oyo bakutanaki na yango.",
+  "clues": [
+    "Totelemaki ngwi na bondimi na biso, atako bopusi monene mpo na kotika kondima na biso.",
+    "Mokonzi moko ya nguya oyo alukaki koboma pole ya losambo ya Nzambe kaka moko alukaki biso.",
+    "Tomonaki bilembo minene mpe makamwisi, nzokande banyokoli na biso batikalaki kozanga likebi.",
+    "Toyikaki mpiko na lolenge moko ya nsɔmɔ ya minyoko oyo ebongisamaki mpo na kobangisa basusu mpo bátosa bango.",
+    "Tobwakama na lifelo moko ya mɔ́tɔ, nzokande bokasi na biso epesaki biso esika ya lokumu epai ya Allah.",
+    "Lisolo na biso elobelami na Surah moko oyo ezwaki nkombo ya minzoto ya likoló, oyo ezali kokebisa na ntina ya nsuka ya baoyo bazali konyokola bandimi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Bato ya Thamud",
+        "Bato ya 'Ad",
+        "Bato ya Fosse",
+        "Bato ya Midian",
+        "Bato ya Nkoi"
+      ],
+      "answer": "Bato ya Fosse"
+    },
+    "trial": {
+      "label": "Minyoko na biso",
+      "options": [
+        "Kozinda na mpela",
+        "Kosilisa mopɛpɛ oyo ezali kozika",
+        "Kobwakama na libulu ya mɔ́tɔ",
+        "Komelama na mabele",
+        "Kobongwana na ba singes"
+      ],
+      "answer": "Kobwakama na libulu ya mɔ́tɔ"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mpela moko monene",
+        "Koningana ya mabele monene",
+        "Fosse moko ya mozindo mpe oyo ezali kozika",
+        "Ekeko moko ya nguya",
+        "Kokauka ya mabele oyo ebebisaki mpenza"
+      ],
+      "answer": "Fosse moko ya mozindo mpe oyo ezali kozika"
+    },
+    "outcome": {
+      "label": "Destin na biso ya suka",
+      "options": [
+        "Bapesaki bango bokonzi na mabele.",
+        "Babikisamaki na nzela ya kokima ya likamwisi.",
+        "Bazwaki martiru mpe mbano ya seko.",
+        "Babongwanaki yango na lolenge mosusu ya banyama.",
+        "Bapesaki bango bozwi mpe bozwi mingi mpenza."
+      ],
+      "answer": "Bazwaki martiru mpe mbano ya seko."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

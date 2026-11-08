@@ -1,0 +1,61 @@
+{
+  "title": "Kallet från den heliga dalen",
+  "intro": "Bortom historiens sidor finns berättelsen om en själ som stod mellan en mäktig härskare och ett helt förslavat folk. Denna individ kallades att befria en nation från tyranni och utförde underverk som trotsade varje naturlag. Från ett heligt berg till ett mirakel på vattnet bevittnade denne Allahs tjänare tecken som skulle eka genom tiderna. Din uppgift idag är att identifiera denna anmärkningsvärda figur vars arv formade mänsklighetens historia.",
+  "clues": [
+    "Jag föddes under en tid då mitt folk stod inför ett dödligt påbud, och min familj satte mig i vattnet för att rädda mitt liv.",
+    "Jag hittades och uppfostrades i just den härskarens hushåll som hade beordrat min sorts död.",
+    "Jag flydde till ett heligt berg där jag såg eld på ett träd som inte förtärdes, och en röst talade till mig därifrån.",
+    "Jag skickades tillbaka till just den härskaren med mirakel och krävde mitt förslavade folks frihet.",
+    "Jag slog havet med min stav, och det delade upp stigar och slukade förföljarna som följde mitt folk.",
+    "Jag umgicks med min Herre på ett berg i fyrtio nätter och fick tavlor med gudomlig vägledning."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Musa",
+        "Profeten Harun",
+        "Profeten Ibrahim",
+        "Profeten Yusuf",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Musa"
+    },
+    "trial": {
+      "label": "Min avgörande prövning",
+      "options": [
+        "Havets delning",
+        "Bygga den stora arken",
+        "Rättegång i en flammande eld",
+        "Instängd i en vals mage",
+        "Fängslad av en egyptisk tjänsteman"
+      ],
+      "answer": "Havets delning"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En herdestav",
+        "En stor träark",
+        "En grotta där tiden sov",
+        "En trädgård med två källor",
+        "En tron ​​prydd med guld"
+      ],
+      "answer": "En herdestav"
+    },
+    "outcome": {
+      "label": "Resultatet",
+      "options": [
+        "Mitt folk korsade havet i säkerhet",
+        "En stor översvämning förintade de icke-troende",
+        "En tyranns eld blev sval och fridfull",
+        "Havet kastade sin fånge på stranden",
+        "Fången blev Egyptens skattmästare"
+      ],
+      "answer": "Mitt folk korsade havet i säkerhet"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

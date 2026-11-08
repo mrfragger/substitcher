@@ -1,0 +1,61 @@
+{
+  "title": "O sono dos xustos",
+  "intro": "Nunha época na que a fe era perigosa e os poderosos buscaban esmagar a crenza, un pequeno grupo de almas novas tomou unha decisión que resoaría ao longo dos séculos. Fuxindo de todo o que coñecían, buscaron refuxio na escuridade agochada dunha montaña e depositaron a súa confianza por completo en Alá. O que aconteceu despois converteríase nun sinal atemporal para aqueles que reflexionan.",
+  "clues": [
+    "Éramos un grupo de mozos que críamos no noso Señor, e El aumentounos na nosa guía.",
+    "Presentamonos ante o noso pobo e declaramos que nunca invocaríamos a ningunha deidade ademais de Alá.",
+    "Buscamos refuxio nunha cova, dicindo: \"Señor noso, concédenos misericordia túa e guíanos rectamente nos nosos asuntos\".",
+    "Durmimos durante un gran número de anos, e o sol afastábase da nosa cova e non nos tocaba.",
+    "O noso can estaba deitado na entrada da cova, vixilandonos coma se estivese de vixilancia.",
+    "Cando espertamos, preguntámonos canto tempo tardaramos, e enviaron a un de nós con moedas de prata para mercar comida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Xente da Cova",
+        "Xente da trincheira",
+        "Xente do sábado",
+        "Xente do elefante",
+        "Compañeiros do Bosque"
+      ],
+      "answer": "Xente da Cova"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Fuxiron a unha cova para escapar da persecución pola súa fe",
+        "Destruído por un vento violento",
+        "Tragado pola terra",
+        "Afogado no mar",
+        "Golpeado por unha tormenta de pedras"
+      ],
+      "answer": "Fuxiron a unha cova para escapar da persecución pola súa fe"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Un can vixía a entrada da cova",
+        "Unha gran arca",
+        "Un bastón que se converteu nunha serpe",
+        "Unha ave pupa",
+        "Un becerro de ouro"
+      ],
+      "answer": "Un can vixía a entrada da cova"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Permaneceron na cova durante 309 anos e despois foron criados como sinal",
+        "Foron convertidos en simios",
+        "Foron destruídos por unha inundación",
+        "Foron obrigados a cruzar o mar",
+        "Déronlles un reino"
+      ],
+      "answer": "Permaneceron na cova durante 309 anos e despois foron criados como sinal"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

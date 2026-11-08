@@ -1,0 +1,61 @@
+{
+  "title": "Te Kāinga i te Takutai o te Whakamātautau",
+  "intro": "Kei tētahi kāinga takutai moana koe, e whakaranua ana te haruru o ngā ngaru ki ngā kōrero hāhā a te iwi kua warewarehia. I whakahaua rātou kia okioki, engari nā tō rātou apo i arahi ki tētahi whiu e kōrerotia tonutia ana i roto i ngā reo mārie. Ka taea e koe te hura ko wai rātou?",
+  "clues": [
+    "I noho mātou i te taha o te takutai, ā, i whakahaua mātou kia whakaritea he rā okiokinga.",
+    "I taua rā, ka tae mai te ika ki a mātou me te nui, engari i rāhuitia mātou kia kaua e hopukia.",
+    "I whakatūpato ētahi o mātou kia kaua e takahi i te ture, engari i whakatakoto whakaaro ētahi kia hī ika tonu.",
+    "I takahia e tātou te ture tapu, ā, i tau mai ki a tātou anō he whiu nui.",
+    "Ko tā mātou whiu he whakaputa ketanga i waiho ai mātou kia hē, kia whakama.",
+    "I meinga mātou hei makimaki, hei tohu mō te hunga katoa e whai ake nei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Ngā tāngata o te Hāpati",
+        "Te iwi o Thamud",
+        "Ngā tāngata o 'Ad",
+        "Ngā tāngata o te ana",
+        "Ngā tāngata o te arewhana"
+      ],
+      "answer": "Ngā tāngata o te Hāpati"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te hī ika i te Rāhoroi",
+        "Te karakia ki tētahi kuao kau koura",
+        "Te whakakahore i te karere a Hūta",
+        "Te patu i te kamera uha",
+        "Te hanga i tētahi pourewa ki te rangi"
+      ],
+      "answer": "Te hī ika i te Rāhoroi"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te ika",
+        "He kamera uha",
+        "He kaimahi",
+        "He poti",
+        "He māra"
+      ],
+      "answer": "Te ika"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kua hurihia hei makimaki",
+        "I whakangaromia e te waipuke",
+        "I whakangaromia e te ahi mura",
+        "Horomia e te whenua",
+        "I mararahia e te hau"
+      ],
+      "answer": "Kua hurihia hei makimaki"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

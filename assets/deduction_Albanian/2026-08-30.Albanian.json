@@ -1,0 +1,61 @@
+{
+  "title": "Fryma e Besuar e Zbulesës",
+  "intro": "Në mbretëritë e padukshme, një qenie me dritë të pastër lëviz me saktësi, duke ekzekutuar çdo urdhër pa hezitim. Kjo figurë u ka folur shërbëtorëve të zgjedhur, ka sjellë fjalë udhëzimi dhe ka qenë dëshmitare e shpalosjes së dekreteve hyjnore nëpër shekuj. Kush është ky shpirt i nderuar?",
+  "clues": [
+    "Unë jam një qenie e dritës së pastër, e krijuar nga drita, dhe kurrë nuk kam shkelur asnjë urdhër të Zotit tim.",
+    "Unë lëviz midis qiejve dhe tokës, duke zbritur me urdhërat e të Gjithëmëshirshmit.",
+    "U dërgova te një virgjëreshë fisnike në shenjtërore, duke i njoftuar asaj një bir të pastër.",
+    "Unë jam fryma e shenjtërisë dhe mbështeta një profet të cilit iu dhanë shenja të qarta dhe Ungjilli.",
+    "Erdha në një shpellë në një mal për të thënë fjalët e para të një recitimi që do të ruhej përgjithmonë.",
+    "Unë jam shpirti i besueshëm dhe isha unë që e zbrita Kuranin në zemrën e të dërguarit të fundit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Xhibrili (Gabrieli)",
+        "Mikail (Michael)",
+        "Engjëlli i Vdekjes",
+        "Malik (Roja e Ferrit)",
+        "Haruti (një nga dy engjëjt në Babiloni)"
+      ],
+      "answer": "Xhibrili (Gabrieli)"
+    },
+    "trial": {
+      "label": "Misioni/Roli Kryesor",
+      "options": [
+        "Dhënia e zbulesës profetëve",
+        "Duke i fryrë borisë në Ditën e Gjykimit",
+        "Duke ruajtur portat e Ferrit",
+        "Regjistrimi i veprave të njerëzve",
+        "Duke shkaktuar rënien e shiut"
+      ],
+      "answer": "Dhënia e zbulesës profetëve"
+    },
+    "location": {
+      "label": "Atributi ose Titulli Kryesor",
+      "options": [
+        "Fryma e Shenjtë (Ruh al-Qudus)",
+        "Shpirti i Fuqisë",
+        "Fryma e Mëshirës",
+        "Fryma e Udhërrëfimit",
+        "Fryma e së Vërtetës"
+      ],
+      "answer": "Fryma e Shenjtë (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Rezultati i Misionit",
+      "options": [
+        "Kurani iu shpall Profetit Muhamed",
+        "I ra trombës në Ditën e Gjykimit",
+        "Ferri ishte i ruajtur dhe portat e tij ishin të mbyllura",
+        "Libri i Veprave iu paraqit Allahut",
+        "Shiu u dërgua në tokë"
+      ],
+      "answer": "Kurani iu shpall Profetit Muhamed"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

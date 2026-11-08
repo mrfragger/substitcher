@@ -1,0 +1,61 @@
+{
+  "title": "Muryar Shiru a Ɗakin",
+  "intro": "Addu'a ta yi ta maimaitawa a cikin shiru na wani ɗaki mai tsarki tun da daɗewa, tana tasowa daga ruhin tsufa da ke sha'awar abin da duniya ta ayyana ba zai yiwu ba. Wannan mutum, wanda ya tsufa kuma ya damu da makomarsa, ya koma ga Ubangijinsu da addu'a ta kansa. Abin da ya biyo baya shi ne amsawar Allah wadda ta ƙi kowane tsammani na halitta - shaida ga rahamar Wanda ke amsa kiran da ba shi da bege.",
+  "clues": [
+    "Na kira Ubangijina a ɓoye, na koma ɗaki inda na sadaukar da kaina ga bautarsa.",
+    "Na yarda wa Ubangijina cewa ina jin tsoron waɗanda za su zo bayana, ina damuwa da shiryar da mutanena idan na tafi.",
+    "Tsufa ta mamaye ni—ƙasusuwana sun yi rauni kuma farin gashi ya bazu a kaina.",
+    "Matata ta kasance bakararriya a duk tsawon rayuwarta, duk da haka na roƙi Ubangijina ya ba ni magaji daga wurinsa.",
+    "Na nemi wata alama, Ubangijina ya amsa mini ta hanyar hana ni yin magana da kowa na tsawon dare uku, yayin da nake cikin koshin lafiya.",
+    "An yi mini alƙawarin ɗa wanda sunansa zai kasance Yahya, sunan da Ubangijina ya ayyana wanda ba a taɓa ba wa wani ba a da."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Zakariyya",
+        "Annabi Nuhu",
+        "Annabi Musa",
+        "Annabi Yusufu",
+        "Annabi Dawuda"
+      ],
+      "answer": "Annabi Zakariyya"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Addu'a ga magaji a tsufa tare da matar aure mara haihuwa",
+        "Ana jefa shi cikin wuta mai zafi",
+        "Babban kifi ya haɗiye shi cikin duhu",
+        "Jure asarar iyali, dukiya, da lafiya",
+        "Ana umurtan a gina babban jirgi"
+      ],
+      "answer": "Addu'a ga magaji a tsufa tare da matar aure mara haihuwa"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ɗakin addu'a (mihrab)",
+        "Sanda wadda ta rikide ta zama maciji",
+        "Babban akwatin katako",
+        "Lambun da ke da maɓuɓɓugar ruwa ta musamman",
+        "Dutsen da tsuntsaye suka taru"
+      ],
+      "answer": "Ɗakin addu'a (mihrab)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ba shi ɗa mai suna ta hanyar mu'ujiza duk da tsufa mai tsanani",
+        "An cece shi daga wuta mai ci da wuta ta hanyar umarnin Allah",
+        "Ambaliyar ruwa mai girma ta halaka kafirai",
+        "An dawo da shi cikin iyali, arziki, da lafiya bayan haƙuri",
+        "Fir'auna da rundunarsa sun nutse a cikin teku"
+      ],
+      "answer": "An ba shi ɗa mai suna ta hanyar mu'ujiza duk da tsufa mai tsanani"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

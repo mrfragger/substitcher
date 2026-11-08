@@ -1,0 +1,61 @@
+{
+  "title": "Un assedio sotto un cielo improvviso",
+  "intro": "Vi trovate di fronte a un formidabile esercito che si avvicina a un santuario venerato, con tutte le armi pronte e la vittoria apparentemente certa. Prima che l'assalto possa iniziare, un potere inaspettato appare sopra di voi e la battaglia prende una piega che nessuno aveva previsto.",
+  "clues": [
+    "Abbiamo marciato con una fiducia che nessuna potenza terrena avrebbe potuto scalfire.",
+    "Abbiamo portato con noi elefanti possenti, e la nostra forza sembrava essere costruita attorno a loro.",
+    "Eravamo venuti per abbattere un santuario venerato, convinti che la nostra vittoria fosse già certa.",
+    "Quando lo raggiungemmo, uno stormo di uccelli attraversò il cielo sopra di noi.",
+    "Gli uccelli scagliavano pietre di argilla indurita contro i nostri guerrieri.",
+    "Siamo stati sconfitti in modo così completo che la nostra possente forza si è sgretolata e dispersa come cenere."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Il popolo dell'elefante",
+        "I due principi",
+        "Fratelli di Giuseppe",
+        "Il servo di Allah a Dhul-Kifl",
+        "I compagni dell'uomo giusto"
+      ],
+      "answer": "Il popolo dell'elefante"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "L'assalto alla Kaaba guidato dagli elefanti",
+        "Il mare si apre davanti a un gruppo consegnato",
+        "La presa dell'Arca da parte di un popolo tirannico",
+        "Il viaggio notturno tra due moschee",
+        "La guarigione di un lebbroso per opera divina"
+      ],
+      "answer": "L'assalto alla Kaaba guidato dagli elefanti"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Uccelli che trasportano palline di argilla",
+        "Un'arca di legno di cipresso",
+        "Un bastone si trasformò in un serpente",
+        "Una pietra sigillata con un segno",
+        "Un roveto ardente"
+      ],
+      "answer": "Uccelli che trasportano palline di argilla"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "La loro possente forza si sbriciolò come cenere",
+        "Hanno attraversato il mare sani e salvi",
+        "Attraversarono illesi una fornace ardente.",
+        "Entrarono in Paradiso a coppie",
+        "Hanno dormito in una grotta per 309 anni"
+      ],
+      "answer": "La loro possente forza si sbriciolò come cenere"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A Alma Vigilante às Margens do Rio",
+  "intro": "A uma alma jovem foi confiada uma missão secreta: observar, a uma distância segura, o desenrolar do destino nas águas. Invisível e despercebida, essa figura desempenharia um papel crucial na alteração do curso da história de uma nação.",
+  "clues": [
+    "Minha mãe me deu uma tarefa que exigia discrição e vigilância.",
+    "Meus olhos seguiram um pequeno berço à deriva na correnteza, meu coração pesado de preocupação.",
+    "Quando foi encontrado por alguém que não o conhecia, aproximei-me, tomado pela apreensão.",
+    "Percebi o desespero deles por um cuidador e ofereci uma solução sem revelar a verdade.",
+    "Minha intervenção oportuna trouxe de volta a alma que cuidava de quem mais precisava.",
+    "Nas cortes dos poderosos, eu disse: 'Devo indicar-lhes uma família que o nutrirá e cuidará dele com carinho?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A irmã de Musa",
+        "A mãe de Musa",
+        "A esposa do Faraó",
+        "Uma parteira",
+        "A filha de Shu'aib"
+      ],
+      "answer": "A irmã de Musa"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O ato de atirar uma criança no rio",
+        "A separação do mar",
+        "A queima do bezerro",
+        "A construção da arca",
+        "A praga de gafanhotos"
+      ],
+      "answer": "O ato de atirar uma criança no rio"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O rio",
+        "O deserto",
+        "A montanha",
+        "O palácio",
+        "O fogo"
+      ],
+      "answer": "O rio"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Ela reuniu a criança com sua mãe.",
+        "Ela se salvou dos soldados do faraó.",
+        "Ela se tornou uma rainha.",
+        "Ela foi punida por espionagem.",
+        "Ela liderou os israelitas"
+      ],
+      "answer": "Ela reuniu a criança com sua mãe."
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

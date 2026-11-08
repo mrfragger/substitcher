@@ -1,0 +1,61 @@
+{
+  "title": "Il-Prova tal-Fjamma Sagra",
+  "intro": "F’art antika fejn id-devozzjoni lejn il-ġebel imnaqqax kienet ħadet l-għeruq f’kull dar, individwu wieħed kien waħdu. Permezz ta’ konvinzjoni soda u protezzjoni divina, huma ffaċċjaw dak li suppost kellha tkun mewt ċerta — u telqu bla ħsara. Tista’ tiskopri l-identità ta’ din ir-ruħ straordinarja?",
+  "clues": [
+    "Trabbejt fost nies li kienu jmilu quddiem idoli li kienu skolpixxew b’idejhom stess, għax emmnu li dawn l-oġġetti kellhom qawwa divina.",
+    "Meta sfidajt it-twemmin tagħhom, għall-ewwel injorawni, imma ma stajtx nibqa’ sieket dwar il-verità li kont naf.",
+    "F’jum li nġabru, qridt l-idoli tagħhom, u ħallejt biss l-akbar wieħed intatt.",
+    "Meta reġgħu lura u raw x’kont għamilt, il-mexxejja tagħhom ordnaw li tinbena pira kbira, bil-ħsieb li jitfgħuni fin-nar.",
+    "Tefgħuni fin-nar jaqbad, imma l-Mulej tad-dinjiet ordna li jiksaħ u jsir sigur għalija.",
+    "Ħriġt min-nirien kompletament bla ħsara, filwaqt li dawk li kkonfoffaw kontrija ffaċċjaw rovina totali."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Ibrahim",
+        "Il-Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Isa",
+        "Profeta Yusuf"
+      ],
+      "answer": "Profeta Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Mitfugħ f’nar qawwi",
+        "Nibla’ minn baliena kbira",
+        "Is-sopravivenza minn għargħar kbir",
+        "Li tintrema f'bir fond",
+        "Konfrontazzjoni mal-maġi ta’ sultan"
+      ],
+      "answer": "Mitfugħ f’nar qawwi"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Pira enormi ta’ injam jaqbad",
+        "Arka kbira tal-injam",
+        "Statwa ta’ għoġol tad-deheb",
+        "Qoffa f'wiċċ l-ilma fuq xmara",
+        "Tron magnífico"
+      ],
+      "answer": "Pira enormi ta’ injam jaqbad"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Alla għamel in-nar frisk u sigur",
+        "L-arka niżlet fis-sigurtà fuq muntanja",
+        "L-idolu tad-deheb idub quddiem għajnejhom",
+        "Tirann u l-armata tiegħu għerqu fil-baħar",
+        "Raġel agħma reġa’ kiseb id-dawl tiegħu"
+      ],
+      "answer": "Alla għamel in-nar frisk u sigur"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pirmā dvēsele, kas stāvēs",
+  "intro": "Ilgi pirms jebkāds vēstnesis staigāja pa zemi, pirms tika atklāti jebkādi svētie raksti, radās būtne, kas nav līdzīga nevienai citai. Šo dvēseli veidoja dievišķas rokas, tai tika dota nepārspējami skaista vieta un pārbaudīta veidā, kas atbalsosies visā cilvēces vēsturē. Sekoja stāsts par vājumu, patiesu grēku nožēlu un likteni, kas uz visiem laikiem mainīs radīšanas gaitu. Vai vari uzminēt, kas tas ir?",
+  "clues": [
+    "Mani veidoja Visžēlīgākā rokas no pašiem zemes pīšļiem",
+    "Man tika dotas nepārspējami skaistas mājas, kur mani nevarēja skart ne izsalkums, ne nogurums.",
+    "Man pavēlēja nekad netuvoties nevienam kokam, jo ​​tas bija aizliegts",
+    "Mans biedrs un es tikām pievilti un tuvojāmies aizliegtajam kokam, pretēji mūsu Kunga pavēlei",
+    "Mēs atgriezāmies pie sava Kunga ar patiesu nožēlu, un mūsu pārkāpumi tika piedoti",
+    "No mums cēlusies visa cilvēce; Es esmu pats pirmais, kas staigā pa šo zemi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Ādams",
+        "Pravietis Musa",
+        "Pravietis Nuhs",
+        "Pravietis Jusufs",
+        "Pravietis Isa"
+      ],
+      "answer": "Pravietis Ādams"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Kārdinājums pie aizliegtā koka",
+        "Konfrontācija ar faraonu",
+        "Lielā šķirsta būvniecība",
+        "Mīļotā dēla upuris",
+        "Tiekot iemests lielā ugunī"
+      ],
+      "answer": "Kārdinājums pie aizliegtā koka"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Aizliegtais koks",
+        "Degošais krūms",
+        "Zelta nūja",
+        "Lielais šķirsts",
+        "Zelta teļš"
+      ],
+      "answer": "Aizliegtais koks"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Sūtīts uz zemes kā pirmais cilvēces aprūpētājs",
+        "Faraons un viņa armija noslīka jūrā",
+        "Lielie plūdi iznīcināja ļaunos",
+        "Uguns kļuva vēsa un mierīga",
+        "Tika piešķirta vara pār Ēģiptes valstību"
+      ],
+      "answer": "Sūtīts uz zemes kā pirmais cilvēces aprūpētājs"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

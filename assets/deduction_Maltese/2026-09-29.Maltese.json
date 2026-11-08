@@ -1,0 +1,61 @@
+{
+  "title": "Il-Profeta tal-Muntanji Mnaqqxa",
+  "intro": "Fid-deżerti ħorox tal-Arabja tal-qedem, ħarġet figura fost nies magħrufa għas-sengħa straordinarja tagħhom. Djarhom telgħu minn blat solidu, iżda qlubhom kienu aktar iebsa mill-muntanji li skolpixxew. Messaġġier divin wasal b'sinjal wieħed u mirakoluż — iżda l-kburija u d-diffikultà wasslu għal konsegwenzi veloċi u tal-biża'. Tista' tidentifika l-qaddej nobbli li n-nies tiegħu għażlu l-qerda aktar milli l-gwida?",
+  "clues": [
+    "Jiena ntbgħatt bħala twissija lill-poplu tiegħi, u sejjaħthom għall-qima ta' Alla l-Wieħed.",
+    "In-nies tiegħi għexu fost formazzjonijiet tal-blat drammatiċi, u ħaffru djar magnífico fil-ġnub tal-muntanji.",
+    "Kamella mara mirakoluża ħarġet minn blata solida waqt it-talba tiegħi, sinjal ċar mingħand Alla li Jista’ Kollox.",
+    "Għedt lin-nies tiegħi biex jaqsmu l-ilma ma' din il-kamela u biex ma jagħmlulhiex ħsara.",
+    "In-nies tiegħi kkonfoffaw kontra l-ġemela u qatgħulha l-ġnub tal-ġenbejn, u b'hekk issiġillaw il-qerda tagħhom stess.",
+    "Terremot tal-biża’ laqat lill-poplu tiegħi, u tħallew bla ma jiċċaqalqu f’djarhom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Salih",
+        "Profeta Hud",
+        "Il-Profeta Shu'ayb",
+        "Profeta Nuh",
+        "Il-Profeta Musa"
+      ],
+      "answer": "Il-Profeta Salih"
+    },
+    "trial": {
+      "label": "X'kienet il-prova li ddefinixxiet l-argument?",
+      "options": [
+        "Il-hamstrings ta' ġemela mirakoluża",
+        "Nibnu arka kbira fost it-twaqqigħ għaċ-ċajt",
+        "Konfrontazzjoni ma' faraon tirann",
+        "Mitfugħ f’nar qawwi",
+        "Il-ksur tal-patt tas-Sabat"
+      ],
+      "answer": "Il-hamstrings ta' ġemela mirakoluża"
+    },
+    "location": {
+      "label": "X'kien l-element ċentrali?",
+      "options": [
+        "Ġemela li ħarġet mill-blat",
+        "Arka kbira tal-injam",
+        "Bastun li fetaħ il-baħar",
+        "Baliena enormi",
+        "Muntanja mdendla 'l fuq minn rasek"
+      ],
+      "answer": "Ġemela li ħarġet mill-blat"
+    },
+    "outcome": {
+      "label": "X’kien id-destin aħħari tagħhom?",
+      "options": [
+        "Terremot f'daqqa mis-smewwiet",
+        "Għerqet f'għargħar qawwi",
+        "Il-bliet tagħhom inqalbu b’kmand divin",
+        "Maħruq minn riħ qawwi",
+        "Mibela’ mill-art"
+      ],
+      "answer": "Terremot f'daqqa mis-smewwiet"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

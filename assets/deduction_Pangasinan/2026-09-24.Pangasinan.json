@@ -1,0 +1,61 @@
+{
+  "title": "Say Soberano ya Kinmerew na Inka-Dios",
+  "intro": "Sakey a makapanyari tan mapaatagey a manuley so manisia ya anggapoy makatalindeg ed trono ra. Inusilan da so ombabatik a grupo diad malaknab a danum, balet diad makapabiglan anggaan. Say istorya na sayan soberano et narerengel ed dakel a bersikulo na Quran, ya manseserbin pasakbay ed amin.",
+  "clues": [
+    "Sakey ak a makapanyarin manuley ya manisia ya anggapoy autoridad ya onlampas ed siak diad saray bansan uuleyan ko.",
+    "Walay sakey a napanmatalkan kon vizier a manngaran na Haman ya tinmulong ed siak a manggawa na angkakabaleg iran proyekto ed arkitektura.",
+    "Impatawag ko ray sankamaongan a managsalamangka ed bansak pian labanan da ray tanda na sakey a mensahero ya onsusumpad siak.",
+    "Agko inabuloyan ya ontaynan iray totoon naaripen ed loob na nanarian ko, anggaman ed saray salot tan malinew iran pasakbay.",
+    "Inosilan ko rad maawang a dayat a kaibak so intiron sondalok tan saray karwahi.",
+    "Saman a mismon dayat so nansara ed siak tan saray puersa ko, ya amalereg ed sikami ya amin, legan iran maligen a binmaliw."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Fir'awn (Pharaon)",
+        "Namrud",
+        "Abu Lahab",
+        "Haman",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Pharaon)"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Saray salot tan pidedeneng ed si Musa (Moses)",
+        "Manggagawa na biong sakbay na baleg a delap",
+        "Labanan sumpad Jalut diad lawak",
+        "Say inakmon na balyena",
+        "Idepensa iray matuan belat na panaglakoan"
+      ],
+      "answer": "Saray salot tan pidedeneng ed si Musa (Moses)"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Atagey iran tori tan istaka",
+        "Sakey a baleg a biong a gawad kiew",
+        "Sakey a balitok a kilaw a baka",
+        "Sakey a baston ya nagmaliw ya uleg",
+        "Sakey a baleg a balyena"
+      ],
+      "answer": "Atagey iran tori tan istaka"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Nalner ed dayat kaiba so armada",
+        "Nilaban lapud panangasi tan anos nen Allah et nagunggonaan",
+        "Akapiulop lamet ed pamilya kayari na dakel a taon ya kairapan",
+        "Inakmon na dalin",
+        "Apoolan ed apoy"
+      ],
+      "answer": "Nalner ed dayat kaiba so armada"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

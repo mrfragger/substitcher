@@ -1,0 +1,61 @@
+{
+  "title": "Surevien valppaus",
+  "intro": "Olet kohtaamassa sielun, jota on koetellut syvin ero, jonka silmät osasivat kyynelten kielen, mutta jonka sydän ei koskaan menettänyt toivoa. Petoksen, kaipauksen ja lopulta jälleennäkemisen tarinassa tästä Allahin jalosta palvelijasta tuli kärsivällisyyden symboli ikuisiksi ajoiksi. Kuka kesti piilossa olevan tuskan vuodet, vain saadakseen näkönsä ja ilonsa takaisin yhdessä hetkessä?",
+  "clues": [
+    "Olen profeetta, jonka nimestä tuli kärsivällisyyden symboli suuren menetyksen edessä.",
+    "Minut siunattiin monella pojalla, mutta yhden vei minulta muiden kateus.",
+    "Rakkauteni tuota kadotettua kohtaan oli niin syvää, että silmäni muuttuivat surusta kalpeiksi, mutta en koskaan valittanut muille kuin Allahille.",
+    "Lähetin poikani takaisin etsimään kadottamaani poikaa ja hänen veljeään ja kehotin heitä olemaan menettämättä toivoa.",
+    "Kun ilosanoman tuoja saapui, kasvoilleni heitettiin paita, ja yhtäkkiä maailma kirkastui jälleen.",
+    "Minut tunnetaan Israelina, ja kahdestatoista pojastani polveutuvat suuren kansan kaksitoista heimoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Ya'qub (Jaakob)",
+        "Profeetta Yusuf (Joosef)",
+        "Profeetta Ishaq (Iisak)",
+        "Profeetta Ibrahim (Abraham)",
+        "Profeetta Ayyub (Job)"
+      ],
+      "answer": "Profeetta Ya'qub (Jaakob)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Ero rakkaasta pojasta monien vuosien ajan",
+        "Heitetään liekehtivään tuleen",
+        "Suuri kala nielaisi",
+        "Vaikea ihosairaus vaivasi",
+        "Lapseton vanhuuteen asti"
+      ],
+      "answer": "Ero rakkaasta pojasta monien vuosien ajan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Yusufin paita",
+        "Musan henkilökunta",
+        "Nuhan arkki",
+        "Salihin naaraskameli",
+        "Sulaymanin sormus"
+      ],
+      "answer": "Yusufin paita"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Näkö palautui ja tapasi poikansa uudelleen",
+        "Myönnettiin voitto tyrannikuninkaasta",
+        "Nostettu elossa taivaisiin",
+        "Nimitettiin Egyptin hallitsijaksi",
+        "Annettu pojan ihmeenä vanhalla iällä"
+      ],
+      "answer": "Näkö palautui ja tapasi poikansa uudelleen"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

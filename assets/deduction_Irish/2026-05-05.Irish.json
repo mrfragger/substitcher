@@ -1,0 +1,61 @@
+{
+  "title": "Glacadh na Cruinne",
+  "intro": "I ré na dtrialacha móra, bronnadh flúirse ollmhór domhanda ar dhuine cáiliúil, tástáil ar bhuíochas agus ar umhlaíocht. Feidhmíonn turas an fhigiúir seo mar cheacht domhain ar nádúr gearrthéarmach na seilbhe ábhartha agus ar iarmhairtí na huaillmhéine. Nochtaigh céannacht an anama seo a bhfuil a scéal greanta sa talamh faoinár mbun.",
+  "clues": [
+    "Bhí cónaí orm i measc pobail a raibh teachtaire mór á threorú acu.",
+    "Bhronn Allah saibhreas chomh mór sin orm gur ualach trom a bhí sna heochracha chuig mo chuid seoda ar go leor daoine láidre.",
+    "Agus eolas acu ar mo shaibhreas, chomhairligh mo mhuintir dom áit chónaithe an tsaoil eile a lorg leis an méid a thug Allah dom agus gan dearmad a dhéanamh ar mo sciar den domhan, agus an mhaith a dhéanamh mar a rinne Allah an mhaith domsa.",
+    "D’fhógair mé go sotalach gur trí mo chuid eolais agus iarrachta féin amháin a baineadh amach mo shaibhreas ollmhór, ag diúltú d’aon fhabhar diaga.",
+    "Nuair a iarradh orm ranníocaíocht a thabhairt nó flaithiúlacht Allah a admháil, dhiúltaigh mé go bródúil, agus chreid mé gur liomsa amháin mo chuid maoine.",
+    "Mar thoradh ar mo uabhar agus mo leatrom mhór, d’ordaigh Allah don domhan oscailt agus mé féin agus mo theach cónaithe a shlogadh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Haman",
+        "Abu Lahab",
+        "Qarún"
+      ],
+      "answer": "Qarún"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á chaitheamh isteach sa tine",
+        "Báthadh sa bhfarraige",
+        "A bheith díbeartha ón ngairdín",
+        "Á chlaochlú ina apa",
+        "Á shlogadh ag an talamh"
+      ],
+      "answer": "Á shlogadh ag an talamh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Lao órga",
+        "Áirc chumhachtach",
+        "Éan ag caint",
+        "Foireann mhíorúilteach",
+        "Seoda agus eochracha ollmhóra"
+      ],
+      "answer": "Seoda agus eochracha ollmhóra"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ag éirí i do rialóir mór",
+        "Ag fáil nochtadh diaga",
+        "Ag dul suas go dtí na flaithis",
+        "Saol fada cráifeachta a chaitheamh",
+        "Scriosadh iomlán mar gheall ar uabhar"
+      ],
+      "answer": "Scriosadh iomlán mar gheall ar uabhar"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Petoksen kaiku",
+  "intro": "Kateuden aalto koetteli sukulaisuussuhdetta. Salainen suunnitelma kehiteltiin, ja se käynnisti tapahtumaketjun, joka kestäisi vuosia ja ylittäisi valtavia etäisyyksiä. Ryhmän teot johtivat syvään eroon ja suruun, mutta tarina ei päättynyt siihen. Se on kertomus petoksesta, katumuksesta ja jumalallisen suunnitelman lopullisesta toteutumisesta. Pystytkö selvittämään näiden yksilöiden identiteetin, joiden valinnat kaikuivat läpi sukupolvien?",
+  "clues": [
+    "Meidät valtasi mustasukkaisuus yhdelle omaisillemme osoitetusta kiintymyksestä.",
+    "Kateudessamme juonittelimme yhdessä ja heitimme veljemme kaivon pimeyteen.",
+    "Salataksemme tekomme annoimme isällemme vaatteen, joka oli tahrattu väärällä verellä.",
+    "Vuosia myöhemmin ankara nälänhätä pakotti meidät matkustamaan Egyptiin etsimään elintarvikkeita.",
+    "Siellä meidät esitti vaikutusvaltainen kuvernööri, joka meille tietämättämme oli juuri se sisarus, jolle olimme tehneet vääryyttä.",
+    "Viimeinen testimme oli tuoda nuorin veljemme Binyamin, mikä paljasti menneisyytemme ja isämme profeetta Ya'qubiksi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Keitä me olemme?",
+      "options": [
+        "Aadamin pojat (Qabil ja Habil)",
+        "Profeetta Isaan opetuslapset",
+        "Profeetta Yusufin veljet",
+        "Madyanin kansa",
+        "Fir'awnin maagit"
+      ],
+      "answer": "Profeetta Yusufin veljet"
+    },
+    "trial": {
+      "label": "Mikä oli ensisijainen väärintekomme?",
+      "options": [
+        "Kultaisen vasikan rakentaminen palvontaa varten",
+        "Vaatimus nähdä Allah suoraan",
+        "Profeetan pilkkaaminen arkin rakentamisesta",
+        "Isämme pettäminen ja veljemme hylkääminen",
+        "Sapatin rikkominen kalastamalla"
+      ],
+      "answer": "Isämme pettäminen ja veljemme hylkääminen"
+    },
+    "location": {
+      "label": "Mikä oli keskeinen asia petoksessamme?",
+      "options": [
+        "Sarja kaiverrettuja tauluja",
+        "Väärällä verellä tahrattu paita",
+        "Kultainen vasikka",
+        "Kaunis lintu (harjalintu)",
+        "Sauva, joka muuttui käärmeeksi"
+      ],
+      "answer": "Väärällä verellä tahrattu paita"
+    },
+    "outcome": {
+      "label": "Mikä oli tarinamme lopullinen lopputulos?",
+      "options": [
+        "Meidät tuhosi valtava tulva",
+        "Meidät muutettiin apinoiksi",
+        "Maa nielaisi meidät",
+        "Meille annettiin anteeksi ja yhdistyimme perheemme kanssa",
+        "Meidät hukutettiin mereen"
+      ],
+      "answer": "Meille annettiin anteeksi ja yhdistyimme perheemme kanssa"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

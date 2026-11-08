@@ -1,0 +1,61 @@
+{
+  "title": "An hini kentañ o c'houlenn pardon",
+  "intro": "Distreiñ d'ur mare a-raok ar sav-heol kentañ, a-raok ma vije bet un den marvel o kerzhout war an douar. Ur skeudenn a voe savet diwar an danvezioù izelañ, roet dezhi ur staliadur a-us d'an aeled, ha lakaet en ul liorzh sakr gant ur c'hemenn sklaer. Koulskoude, en ur vunutenn hepken, e voe graet un dibab — unan a voe klevet dre istor mab-den a-bezh. Piv eo ar skeudenn-se ?",
+  "clues": [
+    "Savet on bet en un doare disheñvel diouzh hini ebet all — savet diwar poultr an douar ha roet din un ene bev gant dorn ar C'hrouer.",
+    "Roet e voe din ur ouiziegezh ken don ma voe souezhet an aeled a-us ganti.",
+    "Gourc’hemennet e oa bet d’an holl neñvoù plegañ dirazon, hag e oant holl o plediñ — nemet unan, a nac’has dre lorc’h.",
+    "Lakaet e oan bet en ul liorzh sakr, ul lec'h a frealzded hag a broviñs peurbadus — met gant ur c'hendiviz strizh.",
+    "Ankounac'haet em eus, kouezhet em eus, ha disentiñ a ran — ha santet em eus pouez ma fazi don.",
+    "Distreiñ a ran ouzh va Aotrou gant gerioù kalonek, hag eñ en deus degemeret ma keuz, rak Eñ eo an hini a bardon ar muiañ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Adam",
+        "Ar profed Dawud",
+        "Ar profed Mohammed",
+        "Iblis",
+        "Ar profed Yaqub"
+      ],
+      "answer": "Ar profed Adam"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "Gourc’hemennet e voe d’an aeled en em stouiñ",
+        "Kaset e voe an Diluch Bras",
+        "Un tan bras a voe graet fresk ha sur",
+        "Ur rener lorc'hus a voe beuzet er mor",
+        "Un armead olifanted a voe distrujet"
+      ],
+      "answer": "Gourc’hemennet e voe d’an aeled en em stouiñ"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Liorzh ar blijadur",
+        "Menez Sinai",
+        "Ar Moskeenn Sakr",
+        "Ar stêr Nil",
+        "Ar C'hev"
+      ],
+      "answer": "Liorzh ar blijadur"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Degemeret eo bet ar geuzidigezh gant Allah",
+        "Beuzet er mor",
+        "Lonket gant ur pesk bras",
+        "Skoet e voe ar vroad gant un darzhadenn greñv",
+        "Devet gant un avel tev"
+      ],
+      "answer": "Degemeret eo bet ar geuzidigezh gant Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

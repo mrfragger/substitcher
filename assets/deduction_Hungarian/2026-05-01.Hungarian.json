@@ -1,0 +1,61 @@
+{
+  "title": "Az Igazság Trónja",
+  "intro": "Egy hatalmas uralkodó, aki nagy bölcsességéről és fenséges trónjáról ismert, rejtélyes üzenetet kap egy ismeretlen forrásból. Ez a váratlan közlés megkérdőjelezi hitét és tekintélyét, diplomáciai útra indítva őket, amely próbára teszi intellektusukat, és végül mély spirituális ébredéshez vezet. Vajon fel tudod fedezni az uralkodó kilétét és azokat az eseményeket, amelyek átalakították egész királyságát?",
+  "clues": [
+    "A népemmel együtt a napot imádtuk, őseink szokásait követve.",
+    "Egy madár, egy búbos banka, volt a valószínűtlen hírnök, amely levelet hozott nekem egy hatalmas vezetőtől.",
+    "Hogy próbára tegyem a küldő bölcsességét, értékes ajándékokat küldtem, de azok visszakerültek, mivel a küldő sokkal nagyobb vagyonnal rendelkezett Allahtól.",
+    "Mielőtt még megérkeztem volna a feladó udvarába, csodálatos módon egy szempillantás alatt odaszállították pompás trónom.",
+    "Érkezésemkor megkérdezték, hogy az elszállított trón az enyém-e, mire azt válaszoltam: „Mintha az lenne az igazi.”",
+    "Beléptem egy hatalmas csarnokba, melynek padlóját vízmedencének hittem, és abban a csodálattal teli pillanatban Szulejmán prófétával együtt meghajoltam Allah, a világok Ura előtt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Sába királynője",
+        "Zulaikha (Al-Aziz felesége)",
+        "Asija (a fáraó felesége)",
+        "Mózes anyja",
+        "Maryam (Isa anyja)"
+      ],
+      "answer": "Sába királynője"
+    },
+    "trial": {
+      "label": "A központi esemény",
+      "options": [
+        "Levelet kapok Szulejmán prófétától",
+        "Tűzbe dobva",
+        "Bárkaépítés az özönvíz túlélésére",
+        "A Vörös-tenger kettéválasztása",
+        "Szerénytelenséggel vádolják"
+      ],
+      "answer": "Levelet kapok Szulejmán prófétától"
+    },
+    "location": {
+      "label": "A kulcsobjektum",
+      "options": [
+        "Egy csodálatos trón",
+        "Egy aranyborjú",
+        "Sokszínű kabát",
+        "Egy kígyóvá változott személyzet",
+        "Deszkákból és szögekből készült hajó"
+      ],
+      "answer": "Egy csodálatos trón"
+    },
+    "outcome": {
+      "label": "A végső eredmény",
+      "options": [
+        "Az egyetlen igaz Istennek (Allahnak) való alávetettség",
+        "Sóoszloppá változva",
+        "Magas tornyot építeni, hogy elérjük Istent",
+        "Egy nagy hal lenyelte",
+        "Hatalmas vagyon elvesztése büntetésként"
+      ],
+      "answer": "Az egyetlen igaz Istennek (Allahnak) való alávetettség"
+    }
+  },
+  "verseRef": "27:44",
+  "arabic": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةًۭ وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُۥ صَرْحٌۭ مُّمَرَّدٌۭ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَـٰنَ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "verse": "She was told, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, \"Indeed, it is a palace [whose floor is] made smooth with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds.\" (27:44)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Los Testimònis Ferms",
+  "intro": "Imaginatz un temps ont la cresença foguèt testada pel fuòc, e la conviccion inflexibla venguèt lo desfís final. Sètz encargat de descobrir l'identitat d'un grop que son istòria es contada dins l'Alcoran, una narracion de fe prigonda contra la tirania aclaparanta. Descobrir los indicis per descobrir qual èran aquelas anmas, e las circonstàncias extraordinàrias qu'afrontèron.",
+  "clues": [
+    "Demorèrem ferms dins nòstra conviccion, malgrat una pression immensa per renonciar a nòstra fe.",
+    "Èrem ciblats per un governant poderós que cercava d'apagar la lutz del monoteïsme.",
+    "Assistiguèrem de grands signes e miracles, pasmens nòstres opressors demorèron desconscients.",
+    "Suportèrem un metòde de persecucion horrible pensat per terrorizar los autres per se sometre.",
+    "Foguèrem getats dins un infèrn ardent, pasmens nòstra fermetat nos valguèt una estacion nauta amb Allah.",
+    "Nòstra istòria es contada dins una Soura nomenada après de constellacions celèstas, avertissent del destin d'aqueles que perseguisson los cresents."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sèm?",
+      "options": [
+        "Lo pòble de Thamud",
+        "La Gente de 'Ad",
+        "La Gent de la Fossa",
+        "Lo Pòble de Madian",
+        "Lo Pòble de l'Elefant"
+      ],
+      "answer": "La Gent de la Fossa"
+    },
+    "trial": {
+      "label": "Nòstra persecucion",
+      "options": [
+        "Èsser afogat dins una inondacion",
+        "Èsser consumit per un vent ardent",
+        "Èsser getat dins una trincheta ardenta",
+        "Èsser engolit per la tèrra",
+        "Èsser transformat en simis"
+      ],
+      "answer": "Èsser getat dins una trincheta ardenta"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Una inondacion massissa",
+        "Un grand tèrratrem",
+        "Una trincheta prigonda e ardenta",
+        "Una idòla poderosa",
+        "Una secada devastanta"
+      ],
+      "answer": "Una trincheta prigonda e ardenta"
+    },
+    "outcome": {
+      "label": "Nòstre destin final",
+      "options": [
+        "Foguèron concedits un reialme sus tèrra.",
+        "Foguèron salvats per una escapada miraculosa.",
+        "Capitèron lo martiri e la recompensa eternala.",
+        "Foguèron transformats en una espècia diferenta.",
+        "Foguèron donadas una riquesa e una prosperitat immensas."
+      ],
+      "answer": "Capitèron lo martiri e la recompensa eternala."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

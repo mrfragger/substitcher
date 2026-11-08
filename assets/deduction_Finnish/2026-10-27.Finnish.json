@@ -1,0 +1,61 @@
+{
+  "title": "Piiritys äkillisen taivaan alla",
+  "intro": "Seisot mahtavan armeijan edessä, joka lähestyy kunnioitettua pyhäkköä, kaikki aseet valmiina ja voitto näyttää varmalta. Ennen kuin hyökkäys voi alkaa, odottamaton voima ilmestyy yläpuolelle, ja taistelu saa käänteen, jota kukaan ei osannut ennakoida.",
+  "clues": [
+    "Marssimme itsevarmasti, jota mikään maallinen voima ei voinut horjuttaa.",
+    "Toimme mukanamme mahtavia norsuja, ja joukkomme näytti olevan rakennettu niiden ympärille.",
+    "Olimme tulleet purkamaan kunnioitetun pyhäkön uskoen voittomme olevan jo varma.",
+    "Kun saavutimme perille, parvi pyyhkäisi taivaalla yläpuolellamme.",
+    "Linnut heittivät kovettuneita savikiviä sotureidemme päälle.",
+    "Meidät lyötiin niin täydellisesti, että mahtava joukkomme mureni ja hajosi kuin tuhka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Norsun kansa",
+        "Kaksi prinssiä",
+        "Joosefin veljet",
+        "Allahin palvelija Dhul-Kiflissä",
+        "Vanhurskaan miehen seuralaiset"
+      ],
+      "answer": "Norsun kansa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Norsujen johtama hyökkäys Kaabaan",
+        "Meri jakautuu vapautetun ryhmän edessä",
+        "Arkin takavarikointi tyrannimaisen kansan toimesta",
+        "Yöllinen matka kahden moskeijan välillä",
+        "Spitaalista kärsivän parantaminen jumalallisen voiman avulla"
+      ],
+      "answer": "Norsujen johtama hyökkäys Kaabaan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Linnut kantavat savipellettejä",
+        "Goferpuusta tehty arkki",
+        "Sauva muuttui käärmeeksi",
+        "Merkillä sinetöity kivi",
+        "Palava pensas"
+      ],
+      "answer": "Linnut kantavat savipellettejä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Heidän mahtava voimansa mureni kuin tuhka",
+        "He ylittivät meren turvallisesti",
+        "He kävelivät vahingoittumattomina roihuavan pätsin läpi",
+        "He astuivat pareittain pareittain paratiisiin",
+        "He nukkuivat luolassa 309 vuotta"
+      ],
+      "answer": "Heidän mahtava voimansa mureni kuin tuhka"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

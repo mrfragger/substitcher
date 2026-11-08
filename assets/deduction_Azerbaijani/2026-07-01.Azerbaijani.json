@@ -1,0 +1,61 @@
+{
+  "title": "Saleh olmayan bir millətə qarşı duran adsız ruh",
+  "intro": "Quran səhifələrində adları çəkilməyən, dərslərini düşünməyimiz üçün şəxsiyyətlər var. Belə bir ruh elçilərini rədd edən bir xalq arasında doğulmuşdu, lakin bu şəxs onları fərqləndirən gizli bir inanca sahib idi. Məhv yaxınlaşanda bu şəxs gizli inancında möhkəm dayandı. Son hökm gəlməzdən əvvəl xalqını xəbərdar edən bu sirli şəxsiyyətin kimliyini aşkar edə bilərsinizmi?",
+  "clues": [
+    "Mən Allahın onlara göndərdiyi elçiləri dəfələrlə təkzib edən bir qövm arasında yaşayırdım.",
+    "Ümmətimdən fərqli olaraq, mən Rəbbimdən açıq-aydın dəlillərlə gələn bir elçi ilə həqiqəti tanıdım.",
+    "İmanımı zülmkarlardan gizlətdim, çünki bilirdim ki, əgər onlar mənim inancımı kəşf etsələr, mənə zərər verəcəklər.",
+    "Cəza əmri yaxınlaşanda mən açıq şəkildə sədaqətimi bildirdim və xalqımı özlərini xilas etmələri üçün xəbərdar etdim.",
+    "Onlara xatırlatdım ki, mən etibarlı bir elçiyəm, əvvəllər göndərilənlərdən heç bir fərqi yoxdur və onlar yalnız Allaha ibadət etməlidirlər.",
+    "Xalqım məni sehrbazlıqda və dəlilikdə ittiham etdi, amma xəbərdar edilən cəza nəticədə onları bürüdü."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Ad qövmünə elçi göndərən Hud peyğəmbər",
+        "Şəhid olan Hud peyğəmbərin ümmətindən olan mömin bir kişi",
+        "Haqqı inkar edən Ad qövmünün hökmdarı",
+        "İlahi ayələrə şübhə edən Saleh peyğəmbərin səhabəsi",
+        "Ad qövmünü məhv etmək üçün göndərilən bir mələk"
+      ],
+      "answer": "Şəhid olan Hud peyğəmbərin ümmətindən olan mömin bir kişi"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Onların səbrini sınayan quraqlıq və aclıq sınağı",
+        "Zülmkar kafir qövm qarşısında iman gətirmənin sınağı",
+        "Böyük daşqından qaçmaq üçün gəmi tikmək sınağı",
+        "Allaha iman gətirdiyinə görə oda atılma sınağı",
+        "Sərvət və firavanlıqla imtahan olunmaq sınağı"
+      ],
+      "answer": "Zülmkar kafir qövm qarşısında iman gətirmənin sınağı"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Müqəddəs evin tikildiyi Məkkə şəhəri",
+        "Elçilərini inkar edən millətin səhra düzənlikləri",
+        "Şüeyb peyğəmbərin göndərildiyi Mədyən dağları",
+        "Musa peyğəmbərin tapıldığı Misir çayının sahili",
+        "Şiddətli küləklə vurulan Ad qövmünün vadisi"
+      ],
+      "answer": "Elçilərini inkar edən millətin səhra düzənlikləri"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Mən gəmidə xilas oldum və Allah istəyənə qədər yaşadım.",
+        "Məndən sonra qövmüm iman gətirdi və doğru yola yönəldildi.",
+        "Məni qövmüm öldürdü, amma ruhum Allahın rəhməti ilə alındı.",
+        "Sınaqdan sonra tövbə etdim və Allah tövbəmi qəbul etdi",
+        "Ölümümdən sonra xalqımın ibadət etdiyi bir bütə çevrildim"
+      ],
+      "answer": "Məni qövmüm öldürdü, amma ruhum Allahın rəhməti ilə alındı."
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

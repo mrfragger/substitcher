@@ -1,0 +1,61 @@
+{
+  "title": "La bona nova a la vellesa",
+  "intro": "Esteu presenciant un moment en què l'esperança es revifa. Una parella, que ha superat l'edat de la paternitat o la paternitat, rep una promesa que desafia les lleis de la natura. Entre ells hi ha una figura l'existència de la qual és un signe de la misericòrdia divina: una ànima destinada a la profecia, portadora d'un llegat que abastarà generacions. Qui és aquesta persona extraordinària?",
+  "clues": [
+    "Vaig néixer de pares que havien arribat a la vellesa i no tenien fills.",
+    "El meu naixement va ser anunciat per àngels que van venir com a convidats a la meva família.",
+    "Em van donar saviesa i profecia, i sóc esmentat entre els pacients.",
+    "El meu pare era anomenat l'amic d'Al·là, i jo vaig ser un regal per a ell durant els seus últims anys.",
+    "Tenia un germà que també era profeta, i tots dos vam ser beneïts pel nostre Senyor.",
+    "El meu fill també va ser profeta, i els meus descendents van rebre les escriptures i la profecia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Ishaq (Isaac)",
+        "Profeta Ismael (Ismael)",
+        "Profeta Yaqub (Jacob)",
+        "Profeta Yahya (Joan)",
+        "Profeta Uzair (Esdres)"
+      ],
+      "answer": "Profeta Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Nascut de pares grans",
+        "Llançat al foc",
+        "Donat un regne i riquesa",
+        "Va treure el seu poble d'Egipte",
+        "Va construir una arca per salvar els creients"
+      ],
+      "answer": "Nascut de pares grans"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La bona nova d'un fill",
+        "L'arbust ardent",
+        "El vedell d'or",
+        "L'arca de l'aliança",
+        "El bastó de la profecia"
+      ],
+      "answer": "La bona nova d'un fill"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va convertir en un profeta amb un llinatge de profetes",
+        "Es va convertir en un rei ric",
+        "El seu poble va ser destruït per la seva incredulitat",
+        "Es va salvar del foc",
+        "Se li va donar la capacitat de parlar quan era un nadó"
+      ],
+      "answer": "Es va convertir en un profeta amb un llinatge de profetes"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

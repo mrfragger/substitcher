@@ -1,0 +1,61 @@
+{
+  "title": "Laakson hiljainen ääni",
+  "intro": "Astu ajassa taaksepäin mahtavan kansan luo, joka sai aikoinaan elävän ihmeen koetukseksi. Ylimielisyys ja itsepäisyys sinetöivät heidän kohtalonsa. Pystytkö jäljittämään tarinan ja selvittämään, mitä tässä dramaattisessa käännekohdassa tapahtui?",
+  "clues": [
+    "Minut lähetettiin jumalallisena koetuksena mahtavalle kansalle, joka tunnettiin vahvuudestaan ​​ja uhmakkuudestaan.",
+    "Olin ainutlaatuinen ihme – kaltaisiani ei ollut koskaan heidän joukossaan esiintynyt.",
+    "Jaoin juomavettä kaivosta perheeni kanssa joka toinen päivä.",
+    "Heitä varoitettiin, että kaikki minulle tehty paha johtaisi nopeaan rangaistukseen.",
+    "Rohkeimmat heistä jättivät varoituksen huomiotta ja hamstrasivat minut.",
+    "Kuolemani jälkeen yksi ainoa ukkosenjyrinä ylhäältä tuhosi koko kansani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Salihin naaraskameli",
+        "Musan lehmä",
+        "Nuhin laiva",
+        "Musan sauva",
+        "Bilqisin valtaistuin"
+      ],
+      "answer": "Salihin naaraskameli"
+    },
+    "trial": {
+      "label": "Minun kohtaloni",
+      "options": [
+        "Takareisi katkaistu ja tapettu",
+        "Teurastettu uhrina",
+        "Muuttunut käärmeeksi",
+        "Säilynyt suuren tulvan läpi",
+        "Nopeasti valtakunnan halki tuotu"
+      ],
+      "answer": "Takareisi katkaistu ja tapettu"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kaivo vettä",
+        "Kivitaulu",
+        "Palava pensas",
+        "Puinen arkki",
+        "Kultainen ja hopeinen valtaistuin"
+      ],
+      "answer": "Kaivo vettä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Yhden kirkaisun tuhoama",
+        "Hukkui suureen tulvaan",
+        "Kivisade poltti",
+        "Raju tuuli murskasi",
+        "Maan nielaisema"
+      ],
+      "answer": "Yhden kirkaisun tuhoama"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

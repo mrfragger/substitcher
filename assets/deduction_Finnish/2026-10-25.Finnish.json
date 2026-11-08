@@ -1,0 +1,61 @@
+{
+  "title": "Valitus kuultiin melun yläpuolelta",
+  "intro": "Kuulet äänen nousevan yhteiskunnasta, jossa sorrosta on tullut rutiinia. Mikään vallannäyttö ei vastaa valitukseen; sen sijaan suora vetoomus saavuttaa Allahin, ja vastaus iskee itse palvonnan ytimeen. Kuka esitti valituksen, mikä kysymys seurasi, ja mikä totuus vahvistettiin?",
+  "clues": [
+    "Minua alkoi vaivata ympärilläni olevien ihmisten sorto.",
+    "Esitin valituksen suoraan Allahille henkilökohtaisessa viestissä.",
+    "Allah kuuli valituksen ja vastasi kyseenalaistamalla oman uskoni.",
+    "Vastauksessa kysyttiin, kuinka voisin olla uskomatta Allahiin, joka on Yksi ja Korkein.",
+    "Sitten kysyin, miksi Allahin pitäisi suosia ihmisiä, jotka eivät usko.",
+    "Olen Uzair, suurassa Az-Zukhruf nimettynä henkilönä, jonka valituksen Allah kuuli."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Uzair",
+        "Seuralainen, joka purjehti suuren tulvan päällä",
+        "Palvelija, joka käveli veden päällä",
+        "Nukkuja suojassa luolassa",
+        "Palvelija, joka toi kiviä jokeen"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Valitus Allahille ihmisten sorrosta",
+        "Kävely veden päällä myrskyn aikana",
+        "Kivien kantaminen jokeen, jossa ei ollut vettä",
+        "Purjehdus suuren tulvan läpi Ark-laivalla",
+        "Avaimen vastaanottaminen valtavaan aarteeseen"
+      ],
+      "answer": "Valitus Allahille ihmisten sorrosta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Suora valitus Allahille",
+        "Sauva, josta tuli käärme",
+        "Viileäksi ja rauhalliseksi tehty uuni",
+        "Arkki kelluu tulvavesien yllä",
+        "Kala nielee palvelijan"
+      ],
+      "answer": "Suora valitus Allahille"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Allah kuuli valituksen ja vahvisti jumalallisen Ykseyden ja Korkeimman Herruuden",
+        "Turvallinen kävely veden päällä myrskyn aikana",
+        "Ylittämässä suuren tulvan turvallisesti Ark-laivalla",
+        "Näön takaisin saaminen ylimielisyyden palatsissa",
+        "Idästä länteen ulottuvan vallan vastaanottaminen"
+      ],
+      "answer": "Allah kuuli valituksen ja vahvisti jumalallisen Ykseyden ja Korkeimman Herruuden"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

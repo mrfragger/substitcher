@@ -1,0 +1,61 @@
+{
+  "title": "En liten varning inför en marscherande värd",
+  "intro": "Kliv in i en dal där en mäktig härskare och en enorm här närmar sig, och föreställ dig en liten resenär som ger en varning som räddar ett helt samhälle. När det hotade samhället når skydd, är faran över. Följ ledtrådarna för att identifiera den förbisedda figuren bakom varningen.",
+  "clues": [
+    "Jag är bland de små varelser som förknippas med en härskares rike.",
+    "Mitt samhälle bor i bostäder inne i en dal, där en av oss kan ringa till de andra.",
+    "Vi står inför ett hot från den härskaren och de arméer som reser med härskaren.",
+    "Jag är den som kallar mitt samhälle att gå in i sina boningar och varnar oss för att omedvetet krossas.",
+    "Härskaren är Sulayman, och min art är bland de varelser som står under hans befäl.",
+    "Jag är myran i den dalen; efter min varning gick vi in ​​i våra boningar och undkom den förtryck som annars skulle ha överrumplat oss."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Dalens myra",
+        "Härfågeln",
+        "Kråkan",
+        "Ormen",
+        "Mulan"
+      ],
+      "answer": "Dalens myra"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "En varning som skonade ett myrsamhälle",
+        "En begäran om en ring från en fisk",
+        "En jakt på en försvunnen tron",
+        "Räddningen av stulna ögon",
+        "En vägran att äta en härskares mat"
+      ],
+      "answer": "En varning som skonade ett myrsamhälle"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Myrornas dal",
+        "Sulaymans signetring",
+        "Yusufs blodfläckade skjorta",
+        "Exodus guldkalven",
+        "Musas personal"
+      ],
+      "answer": "Myrornas dal"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Samhället skonades efter att ha tagit skydd",
+        "Samhället förstördes utan att man sökte skydd",
+        "Samhället skonades eftersom armén retirerade",
+        "Samhället belönades med kontroll över fåglarna",
+        "Samhället fördes till fånga vid det kungliga hovet"
+      ],
+      "answer": "Samhället skonades efter att ha tagit skydd"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

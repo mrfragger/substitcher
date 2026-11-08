@@ -1,0 +1,61 @@
+{
+  "title": "Byen der troede på tiden",
+  "intro": "I den guddommelige barmhjertigheds annaler findes et samfund, hvis vendepunkt var et øjeblik med kollektiv erkendelse. Du er ved at afdække deres historie – en fortælling om advarsel, omvendelse og en udsættelse, der adskilte dem fra andre nationers skæbne.",
+  "clues": [
+    "Vi var et folk, til hvem et budbringer blev sendt, og vi vendte os bort fra hans kald i starten.",
+    "Da tegnene på forestående straf blev tydelige, indså vi sandheden i hans advarsel.",
+    "Vi vendte os til vor Herre med oprigtig anger, og vores tro blev accepteret.",
+    "Den straf, der var blevet idømt os, blev ophævet på grund af vores tro.",
+    "Vores historie nævnes som en undtagelse blandt de byer, der troede efter at have set straffen.",
+    "Vi var profetens folk, som blev opslugt af hvalen, men vi blev reddet fra ødelæggelse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Yunus' folk",
+        "Folket i Nuh",
+        "Folket i Hud",
+        "Salihs folk",
+        "Luts folk"
+      ],
+      "answer": "Yunus' folk"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "En ødelæggende oversvømmelse",
+        "En voldsom vindstorm",
+        "En forestående vanære, der blev afværget",
+        "Jorden sluger dem",
+        "En regn af sten"
+      ],
+      "answer": "En forestående vanære, der blev afværget"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Arken",
+        "Hunkamelen",
+        "En by med hundrede tusinde",
+        "Musas personale",
+        "Qaruns skat"
+      ],
+      "answer": "En by med hundrede tusinde"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "De blev fuldstændig ødelagt",
+        "De fik fornøjelse i en periode",
+        "De blev forvandlet til aber",
+        "De druknede",
+        "De blev opslugt af jorden"
+      ],
+      "answer": "De fik fornøjelse i en periode"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

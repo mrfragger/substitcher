@@ -1,0 +1,61 @@
+{
+  "title": "Bevardė siela, kuri stojo prieš neteisią tautą",
+  "intro": "Korano puslapiuose yra asmenybių, kurių vardai buvo nuslėpti, kad galėtume apmąstyti jų pamokas. Viena tokia siela gimė tautoje, kuri atmetė savo pasiuntinius, tačiau šis asmuo turėjo paslėptą tikėjimą, kuris juos išskyrė. Kai artėjo sunaikinimas, šis asmuo tvirtai laikėsi savo slapto įsitikinimo. Ar galite atskleisti šios paslaptingos figūros, kuri perspėja savo žmones prieš ateinant galutiniam nuosprendžiui, tapatybę?",
+  "clues": [
+    "Gyvenau tarp žmonių, kurie ne kartą neigė Alacho jiems siųstus pasiuntinius.",
+    "Kitaip nei mano tauta, aš atpažinau tiesą, kai atvyko pasiuntinys su aiškiais mano Viešpaties ženklais.",
+    "Slėpiau savo tikėjimą nuo engėjų, žinodamas, kad jie man pakenks, jei sužinos apie mano įsitikinimą.",
+    "Artėjant bausmės įsakymui, aš atvirai paskelbiau savo ištikimybę ir perspėjau savo žmones gelbėtis.",
+    "Priminiau jiems, kad esu patikimas pasiuntinys, niekuo nesiskiriantis nuo anksčiau siųstų, ir kad jie neturėtų garbinti nieko kito, išskyrus Alachą.",
+    "Mano žmonės kaltino mane burtininkavimu ir beprotybe, tačiau bausmė, apie kurią jie buvo įspėti, galiausiai juos užklupo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Hudas, Aado žmonių pasiuntinys",
+        "Tikintis vyras iš pranašo Hudo tautos, kuris buvo kankinys",
+        "Aado žmonių valdovas, kuris atmetė tiesą",
+        "Pranašo Saleho palydovas, kuris abejojo ​​dieviškais ženklais",
+        "Angelas, pasiųstas sunaikinti Aado žmones"
+      ],
+      "answer": "Tikintis vyras iš pranašo Hudo tautos, kuris buvo kankinys"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Sausros ir bado išbandymas, išbandęs jų kantrybę",
+        "Tikėjimo išpažinimo teismas prieš engiančią netikinčią tautą",
+        "Laivo statybos išbandymas, siekiant išvengti didelio potvynio",
+        "Išbandymas būti įmestam į ugnį už tikėjimą Alachu",
+        "Išbandymas turtais ir klestėjimu"
+      ],
+      "answer": "Tikėjimo išpažinimo teismas prieš engiančią netikinčią tautą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Mekos miestas, kuriame buvo pastatyti šventieji namai",
+        "Tautos, kuri neigė savo pasiuntinį, dykumos lygumos",
+        "Midjano kalnai, į kuriuos buvo pasiųstas pranašas Šuaibas",
+        "Egipto upės krantas, kur buvo rastas pranašas Mozė",
+        "Aado žmonių slėnis, siautėjantis smarkaus vėjo"
+      ],
+      "answer": "Tautos, kuri neigė savo pasiuntinį, dykumos lygumos"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Buvau išgelbėtas laive ir gyvenau, kol Alachas panorėjo",
+        "Mano žmonės po manęs tikėjo ir buvo vedami tiesiu keliu",
+        "Mane nužudė mano žmonės, bet mano sielą pasiėmė Alacho gailestingumas",
+        "Atgailavau po išbandymo, ir Alachas priėmė mano atgailą",
+        "Po mirties buvau paverstas stabu, kurį garbino mano žmonės"
+      ],
+      "answer": "Mane nužudė mano žmonės, bet mano sielą pasiėmė Alacho gailestingumas"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

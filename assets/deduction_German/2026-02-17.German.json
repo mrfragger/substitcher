@@ -1,0 +1,61 @@
+{
+  "title": "Der Samen des Streits",
+  "intro": "Bevor die Welt von weitreichenden Konflikten heimgesucht wurde, entfaltete sich eine tiefgreifende Prüfung des Glaubens und des Gehorsams. Diese Erzählung beleuchtet die Entscheidungen eines Einzelnen, dessen Handlungen für zukünftige Generationen prägend sind. Tauchen Sie ein in die Geschichte einer Seele, die mit immenser Eifersucht und ihren verheerenden Folgen ringt.",
+  "clues": [
+    "Ich gehörte zu den ersten Nachkommen, die die Erde bevölkerten, ich war ein Kind des allerersten Menschenpaares.",
+    "Meinem Bruder und mir wurde befohlen, Allah ein Opfer darzubringen, eine Prüfung unserer Aufrichtigkeit.",
+    "Mein Opfer wurde nicht angenommen, das meines Bruders hingegen schon, was mein Herz mit einem schrecklichen Gefühl erfüllte.",
+    "Ich sprach drohende Worte zu meinem Bruder, angetrieben von der Bitterkeit der Zurückweisung.",
+    "Mein Bruder antwortete mit Weisheit und Frömmigkeit und erinnerte mich an Allahs Gerechtigkeit und die Ehrfurcht vor Ihm.",
+    "Trotz der sanften Worte meines Bruders und seiner Bereitschaft zu vergeben, habe ich ein Leben genommen und bin damit zu einem der Verlierer geworden."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Adam",
+        "Iblis",
+        "Prophet Nuh",
+        "Qabil (Kain)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die große Flut",
+        "Die Spaltung des Meeres",
+        "Der Bau der Kaaba",
+        "Das Darbringen von Opfern",
+        "Die Versuchung im Garten"
+      ],
+      "answer": "Das Darbringen von Opfern"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Arche",
+        "Die Mitarbeiter",
+        "Der Berg Safa",
+        "Das Opfer",
+        "Der brennende Busch"
+      ],
+      "answer": "Das Opfer"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wurde zum Boten",
+        "Ertrunken",
+        "Er baute ein großes Königreich auf",
+        "Wurde zu einem Beispiel für Bedauern",
+        "Ihm wurde immenser Reichtum zuteil."
+      ],
+      "answer": "Wurde zu einem Beispiel für Bedauern"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

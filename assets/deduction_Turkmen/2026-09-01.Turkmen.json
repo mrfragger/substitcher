@@ -1,0 +1,61 @@
+{
+  "title": "Daşarky etekden gelýän ses",
+  "intro": "Siz üç ilçiniň aýdyň alamatlar bilen gelen şäherinde durýarsyňyz, ýöne halk olaryň üstünden gülýär we köne ýollaryna ýapyşýar. Şäheriň iň çetki böleginden ret edilýänleriň öňünde hakykaty aýtmak üçin dem alyşy kyn we tutanýerli bir adam märekä tarap ylgaýar. Öz habary bolmadyk habar üçin ähli zady howp astyna salan bu jan kim?",
+  "clues": [
+    "Men aýdyň alamatlar bilen pygamberler gelen, emma olar tekepbirlik bilen ýüz öwüren bir kowumyň arasynda ýaşadym.",
+    "Men çaparlaryň çagyryşyny eşidenimde şäheriň iň çetki ýerinden ylgap geldim.",
+    "Men kowumyma: \"Eý, kowumym, pygamberlere eýeriň. Sizden hak soramaýanlara eýeriň, sebäbi olar dogry ýoldadyrlar\" diýdim.",
+    "Men pygamber däldim, ýöne ilçilere ynanýardym we kowumyma hem şeýle etmäge çagyrýardym.",
+    "Adamlarym meniň maslahatlarymy ýaňsa alyp, meni ekstremist bolmakda aýypladylar.",
+    "Olar meni öldürende, Allatagala maňa Jennete girmegi tabşyrdy we men kowumymyň maňa berlen bagyşlanmany we hormaty bilmegini isledim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Şäheriň iň çetki ýerinden gelen adam (Ýa-Sin)",
+        "Şähere iberilen üç elçiniň biri",
+        "Şäheriň meşhur söwdagäri",
+        "Şäheriň hökümdary",
+        "Kapyrlaryň ýolbaşçysy"
+      ],
+      "answer": "Şäheriň iň çetki ýerinden gelen adam (Ýa-Sin)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Öz halkyna ilçileriň yzyna düşmegi wagyz edýär",
+        "Ynanýanlary silden halas etmek üçin gämi gurmak",
+        "Ynanç üçin oda taşlanmak",
+        "Kit tarapyndan ýuwutulmak",
+        "Patyşalyk we akyldarlyk berildi"
+      ],
+      "answer": "Öz halkyna ilçileriň yzyna düşmegi wagyz edýär"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Şäheriň iň çetki bölegi",
+        "Gämi",
+        "Guýy",
+        "Ýanýan gyrymsy agaç",
+        "Magara"
+      ],
+      "answer": "Şäheriň iň çetki bölegi"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Jennete girdi we öz halkynyň onuň bagyşlamasyny bilmegini isledi",
+        "Habary ret edendigi üçin öz halky bilen gark boldy",
+        "Düýäniň gudraty berildi",
+        "Sud edilenden soň hökümdar boldy",
+        "Alla tarapyndan halas edildi we öz halky bilen galdy"
+      ],
+      "answer": "Jennete girdi we öz halkynyň onuň bagyşlamasyny bilmegini isledi"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La foliá de la granda ambicion",
+  "intro": "Embarcatz-vos dins un viatge per descobrir l'identitat d'una entitat collectiva que sos plans audaciós atenguèron una fin inesperada e poderosa. Aquesta narracion servís de rapèl prigond de la poténcia divina e de la fragilitat del poder mondan quand s'opausa al sacrat. Desvelhatz lo mistèri d'aquel grop, que son istòria es gravada dins l'Alcoran coma un avertiment per totes los que cèrcan de transgredir.",
+  "clues": [
+    "Avèm aculhit una granda ambicion, cresent que nòstra fòrça èra incomparabla, e partiguèrem per un viatge amb un objectiu clar e destructor.",
+    "Nòstre cap, plen d'arrogància, cerquèt de contaminar una Ostal sacrada venerada per fòrça, amb l'objectiu de desviar lo pelegrinatge cap a una estructura bastida per nosautres.",
+    "D'una tèrra luènha, marchèrem amb una fòrça massissa, segurs de nòstra capacitat de desmantelar l'edifici ancian dins la Vila Santa.",
+    "Nòstra armada èra formidabla, menada per de creaturas magnificas, un espectacle rarament, se jamai, vist dins una tala campanha pels abitants de la tèrra qu'envasiguèrem.",
+    "Quan arribèrem ara nòsta destinacion, se produsic ua intervencion divina; de pichonas creaturas aladas apareguèron, nos lançant de pèiras d'argila copada.",
+    "Nòstra expedicion entièra s'acabèt a una fin devastatritz, daissant nòstra fòrça formidabla completament aniquilada, coma de palha mastegada, nòstre grand plan redusit a polvera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Pòble de Thamud",
+        "Personas de 'Ad",
+        "Pòble de Sodoma",
+        "Gent de l'Elefant",
+        "Gent del Jardin"
+      ],
+      "answer": "Gent de l'Elefant"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Lo Grand Diluvi",
+        "La Campanha contra la Kaaba",
+        "La Destruccion de las Idolas",
+        "La Fendidura de la Mar",
+        "Lo tèrratrem de Midian"
+      ],
+      "answer": "La Campanha contra la Kaaba"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "Lo personal",
+        "La Kaaba",
+        "Lo vedèl d'aur",
+        "Lo fuòc"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "La salvacion divina",
+        "Un long periòde de prosperitat",
+        "Conversion a l'islam",
+        "Destruccion totala",
+        "Exili de lor tèrra"
+      ],
+      "answer": "Destruccion totala"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

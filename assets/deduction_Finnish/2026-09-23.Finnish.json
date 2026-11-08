@@ -1,0 +1,61 @@
+{
+  "title": "Kutsu, joka kesti ikiajoja",
+  "intro": "Kuvittele sielu, joka seisoo yksin kokonaista sivilisaatiota vastaan, päättäväisenä ohjaamaan heidät takaisin harhaanjohduksesta horjumattomalla päättäväisyydellä. Vuosisatojen ajan viesti torjuttiin, pilkattiin ja sivuutettiin – mutta ponnistelut eivät koskaan lakanneet. Lopulta koitti suuri tilinteko, ja vain harvat pääsivät pelastukseen tämän horjumattoman sielun rinnalla. Voitko tunnistaa tämän hahmon Koraanista?",
+  "clues": [
+    "Minut lähetettiin varoittajaksi kansalle, joka on eksyksissä omilla teillään.",
+    "Kehotin heitä pyytämään anteeksiantoa ja kääntymään pois vääristä teoistaan, mutta he kääntyivät pois.",
+    "Jumalallisesta käskystä rakensin valtavan aluksen kansani katsellessa ja pilkatessa minua.",
+    "Huusin Herraani lakkaamatta – lopulta Hän vastasi, ja taivaasta virtasi vettä ryöppynä.",
+    "Nousin laivaan uskovien kanssa, kun tulvavedet nousivat maan ylle.",
+    "Huusin yhdelle jäljelle jääneelle ja pyysin heitä turvautumaan vuorelle, mutta päätös oli jo annettu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Nooa",
+        "Profeetta Ibrahim",
+        "Profeetta Musa",
+        "Profeetta Hud",
+        "Profeetta Salih"
+      ],
+      "answer": "Profeetta Nooa"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Suuren arkin rakentaminen ja selviytyminen maailmanlaajuisesta vedenpaisumuksesta",
+        "Heitetään liekehtivään tuleen",
+        "Kohtaamassa tyrannin ja hänen voimakkaiden velhojensa",
+        "Suuren kalan nielaisemaksi joutuminen",
+        "Pyhän naaraskamelin tappamisen todistajana"
+      ],
+      "answer": "Suuren arkin rakentaminen ja selviytyminen maailmanlaajuisesta vedenpaisumuksesta"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Massiivinen puinen arkki raivoavilla tulvavesillä",
+        "Pyhä laakso, jossa on muinaisia ​​kiviraunioita",
+        "Syvä luola, jossa toverit nukkuivat vuosisatoja",
+        "Jättiläisvalaan vatsa meren syvyyksissä",
+        "Kohoava kivinen vuori erämaassa"
+      ],
+      "answer": "Massiivinen puinen arkki raivoavilla tulvavesillä"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Pelastuivat uskovien kanssa laivalla",
+        "Pelastettiin vahingoittumattomana tulesta jumalallisen käskyn kautta",
+        "Johti suuren muuttoliikkeen pois mahtavasta valtakunnasta",
+        "Heitä kalasta karulle rannalle",
+        "Johti ihmisiä pois väärinteosta ihmeellisen merkin avulla"
+      ],
+      "answer": "Pelastuivat uskovien kanssa laivalla"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

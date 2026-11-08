@@ -1,0 +1,61 @@
+{
+  "title": "Tallasqa Urqukunamanta Profeta",
+  "intro": "Ñawpa Arabia nacionpi sinchi ch’inneqkunapin huk runa rikhurimurqan, paykunan reqsirqanku mana hayk’aq rikusqa artesanía ruwasqankuwan. Wasinkuqa allin takyasqa qaqamantam hatarirqa, chaywanpas sunqunkuqa aswan rumiraqmi karqa tallasqanku urqukunamantaqa. Huk hanaq pacha willakuqmi chayamurqa huklla, milagro hina señalwan — ichaqa hatunchakuywan desafiowanmi utqaylla hinaspa manchakuypaq consecuenciakunaman aparqa. ¿Reqsiwaqchu piqpa allin qhawarisqa kamachinta, piqpa llaqtanmi pusaymantaqa ch’usaqyachiyta akllarqan?",
+  "clues": [
+    "Llaqtayman willakuq hina kachamuwarqan, huk Diosta yupaychanankupaq waqyaspa.",
+    "Llaqtayqa admirakuypaq qaqakunapa chawpinpim yacharqaku, orqokunapa patankunapim sumaq wasikunata tallarqaku.",
+    "Mañakuyniypim takyasqa qaqamanta milagro ruwaq warmi camello lluqsirqa, chaymi tukuy atiyniyuq Diospa sutilla señalnin.",
+    "Llaqtayta nirqani kay warmi camellowan unuta rakinakunankupaq, ama ima dañanankupaqpas.",
+    "Llaqtayqa camello warmi contran yuyaykurqanku, hinaspan wasanpi watarqanku, kikinku chinkachiyninkuta sellaspa.",
+    "Llaqtayta manchay pacha chhaphchiymi chayamurqan, chaymi tiyasqankupi mana kuyurispa urmaykurqanku."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Salih sutiyuq runa",
+        "Profeta Hud",
+        "Profeta Shu'ayb sutiyuq runa",
+        "Profeta Nuh",
+        "Profeta Musa"
+      ],
+      "answer": "Profeta Salih sutiyuq runa"
+    },
+    "trial": {
+      "label": "¿Imataq karqan chay juicio definiq?",
+      "options": [
+        "Milagro ruwaq warmi camelloq wasanpi wasan",
+        "Asichikuy chawpipi hatun arcata ruway",
+        "Tirano faraonwan tupaspa",
+        "Nina rawraq ninaman wikch’usqa kay",
+        "Samana p'unchawpi rimanakuy p'akisqa kasqan"
+      ],
+      "answer": "Milagro ruwaq warmi camelloq wasanpi wasan"
+    },
+    "location": {
+      "label": "¿Imataq karqan chay elemento central?",
+      "options": [
+        "Qaqamanta lluqsimuq warmi camello",
+        "Hatun k’aspimanta arca",
+        "Lamar qochata t’aqaq k’aspi",
+        "Huk hatun ballena",
+        "Uma patapi warkusqa urqu"
+      ],
+      "answer": "Qaqamanta lluqsimuq warmi camello"
+    },
+    "outcome": {
+      "label": "¿Imataq paykunapa tukupay destinon karqa?",
+      "options": [
+        "Hanaq pachamanta qunqayllamanta pacha kuyuy",
+        "Ancha unuwan unupi chinkaykuspa",
+        "Llaqtankupas Diospa kamachisqanman hinan t’ikrakurqan",
+        "Ruphasqa wayrawan ruphasqa",
+        "Allpawan millp’usqa"
+      ],
+      "answer": "Hanaq pachamanta qunqayllamanta pacha kuyuy"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

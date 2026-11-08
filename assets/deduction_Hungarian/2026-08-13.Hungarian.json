@@ -1,0 +1,61 @@
+{
+  "title": "A Szent Ház türelmes lelke",
+  "intro": "A Korán lapjain egy nagy próféta leszármazottja tűnik fel, akit idős korában ajándékba kapott. Ezt a lelket rendíthetetlen igazmondásáért és egy olyan szentély létrehozásában játszott mélyreható szerepéért ünneplik, amely a hit jelzőfényévé vált. Miközben a nyomokat olvasod, figyelj a múltból származó hangra, mert az első személyben szól.",
+  "clues": [
+    "A Koránban egy másik próféta mellett említenek engem, mint ajándékot, amelyet egy idős küldöttnek adtak.",
+    "Én voltam az egyik a két utód közül, akiket a próféta idősebb korában kapott.",
+    "A Koránban azért dicsérnek, mert hű vagyok a szavamhoz.",
+    "A prófétaság megtiszteltetését hordoztam, és hírvivőként küldtek.",
+    "Csatlakoztam apámhoz a Szent Ház alapjainak lerakásában.",
+    "A türelmesek közé tartozom, és a szent ház, amit építettünk, a visszatérés és a biztonság helyévé vált az emberek számára."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Iszmáil próféta",
+        "Izsák próféta",
+        "Jakub próféta",
+        "Zakariya próféta",
+        "Jahja próféta"
+      ],
+      "answer": "Iszmáil próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A Kába alapjainak megemelése Ibrahimmal",
+        "Tűzbe dobva",
+        "Egy bálna lenyelése",
+        "Az izraeliták kivezetése Egyiptomból",
+        "Bárkaépítés"
+      ],
+      "answer": "A Kába alapjainak megemelése Ibrahimmal"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A Kába",
+        "Sínai-hegy",
+        "A Vörös-tenger",
+        "Az aranyborjú",
+        "Az Édenkert"
+      ],
+      "answer": "A Kába"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "A betegek közé sorolták",
+        "A bűnösök közé sorolták",
+        "A mágusok közé sorolták",
+        "A hitetlenek közé sorolták",
+        "A képmutatók közé sorolták"
+      ],
+      "answer": "A betegek közé sorolták"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

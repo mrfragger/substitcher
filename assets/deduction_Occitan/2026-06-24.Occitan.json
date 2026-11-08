@@ -1,0 +1,61 @@
+{
+  "title": "Lo Gardian de la Flama Inapagabla",
+  "intro": "Una figura se tròba al lindal del luòc mai temut dins l'invisible, confiada d'un dever que cap d'autre èsser desira pas. Quand las anmas que patisson cridan de pietat, una responsa severa fa resson dins las cambras de fuòc. Podètz descobrir l'identitat d'aquel gardian etèrne?",
+  "clues": [
+    "Me pausi a l'intrada d'un luòc espaventós de castig dins l'invisible.",
+    "Un fuòc ardent e inextinable es la pèça centrala de mon dever solemne.",
+    "Las anmas que patisson cridan mon nom, en pregant de soslèu de lor torment sens fin.",
+    "Quand suplican, declari que partiràn pas, jamai.",
+    "Soi pas uman, ni jinn — soi un èsser creat de pura obediéncia.",
+    "Soi l'angèl cap nomenat coma lo gardian eternal del fuòc de l'infèrn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Malik",
+        "Jibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Lo pòble de l'Infèrn suplican que lor torment siá acabat",
+        "La trompeta es sonada per senhalar lo jorn del jutjament",
+        "L'Alcoran es revelat al còr del Profèta",
+        "Un profèta es getat dins un grand fuòc per son pòble",
+        "Un poderós mur es bastit per conténer una nacion corrompuda"
+      ],
+      "answer": "Lo pòble de l'Infèrn suplican que lor torment siá acabat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo fuòc de l'infèrn (Jahannam)",
+        "L'arbre de lòte al limit del Paradís",
+        "Una trompeta traucaira",
+        "Un baston que se transforma en sèrp",
+        "Un tròn divin magnific"
+      ],
+      "answer": "Lo fuòc de l'infèrn (Jahannam)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Los abitants de l'Infèrn son dichs que demoraràn eternalament",
+        "Los abitants de l'infèrn son perdonats e liberats",
+        "Los abitants de l'Infèrn an una segonda escasença de fe",
+        "Los abitants de l'infèrn son desplaçats dins un luòc de frescor",
+        "Los abitants de l'Infèrn son completament destruits per un tron"
+      ],
+      "answer": "Los abitants de l'Infèrn son dichs que demoraràn eternalament"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

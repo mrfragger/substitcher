@@ -1,0 +1,61 @@
+{
+  "title": "Ar vouezh mut er gambr",
+  "intro": "Ur bedenn a gleve e sioulded ur gambr sakr pell zo, o sevel diwar un ene kozh o c'hoantaat ar pezh en doa disklêriet ar bed dibosupl. An den-se, kozh en oad ha karget gant prederioù evit an amzer da zont, a droas ouzh o Aotrou gant ur bedenn bersonel. Ar pezh a heulias a oa ur respont doueel a oa a-enep pep gortoz naturel — un testeni eus trugarez an Hini a respont d'ar galv dic'hortoz.",
+  "clues": [
+    "Galvet em eus va Aotrou en un doare prevez, o tistreiñ d'ur gambr ma'm eus en em ouestlet d'e azeuliñ.",
+    "Anzavet em eus d'am Aotrou e oan aon rak ar re a zeufe war va lerc'h, nec'het gant skoazell va fobl ur wech ma'z afen kuit.",
+    "Ar gozhni en doa tapet ac'hanon — ma eskern a oa deuet da vezañ gwan ha ma blev gwenn a oa strewet war ma fenn.",
+    "Ma wreg a oa bet difrouezh he buhez a-bezh, met goulenn a ran c'hoazh digant ma Aotrou reiñ din un hêr eus e brezegenn e-unan.",
+    "Goulenn a ran ur sin, ha respont a reas va Aotrou en ur virout ouzhin da gomz ouzh den ebet e-pad teir nozvezh, e-keit ma chomen yac'h.",
+    "Prometet e oa bet din ur mab a vefe anvet Yahya, un anv ne oa ket bet roet da zen ebet a-raok, hervez ma Aotrou."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Piv on-me ?",
+      "options": [
+        "Ar profed Zakariya",
+        "Profed Nuh",
+        "Ar profed Musa",
+        "Ar profed Yusuf",
+        "Ar profed Dawud"
+      ],
+      "answer": "Ar profed Zakariya"
+    },
+    "trial": {
+      "label": "Prouenn/Darvoud",
+      "options": [
+        "O pediñ evit un hêr en oad kozh gant ur pried difrouezh",
+        "Bezañ taolet en un tan flamm",
+        "Bezañ lonket gant ur pesk bras en deñvalijenn",
+        "Gouzañv koll ar familh, ar pinvidigezh hag ar yec'hed",
+        "Beza gourc’hemennet sevel eun arc’h braz"
+      ],
+      "answer": "O pediñ evit un hêr en oad kozh gant ur pried difrouezh"
+    },
+    "location": {
+      "label": "Elfenn bennañ",
+      "options": [
+        "Ar gambr-pediñ (mihrab)",
+        "Ur vazh a dreuzfurmas en un naer",
+        "Un arc'h koad bras",
+        "Ul liorzh gant ur feunteun dibar",
+        "Ur menez ma veze bodet al laboused"
+      ],
+      "answer": "Ar gambr-pediñ (mihrab)"
+    },
+    "outcome": {
+      "label": "Disoc'h",
+      "options": [
+        "Roet dezhañ ur mab anvet dre vurzhud daoust d'e gozhni bras",
+        "Saveteet diouzh un tan-gwall dre urzh doueel",
+        "Eul liñvadenn vras ​​a zistrujas an dud diskred",
+        "Adkavet e familh, pinvidigezh ha yec'hed goude pasianted",
+        "Faraon hag e arme beuzet er mor"
+      ],
+      "answer": "Roet dezhañ ur mab anvet dre vurzhud daoust d'e gozhni bras"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

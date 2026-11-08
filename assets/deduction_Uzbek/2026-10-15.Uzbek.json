@@ -1,0 +1,61 @@
+{
+  "title": "Savdogarlar orasida adolat",
+  "intro": "Foyda olish istagiga berilib ketgan xalq oldida bir shaxs turib, ularni ishlarida halollik va adolatga chaqirdi. Allohning bu xizmatkori o'lchovni kam qilish va tarozini buzishdan ogohlantirdi. Xalq quloq solishdan bosh tortdi va bu shaxsni o'z yurtidan haydab chiqarish bilan tahdid qildi. Yerning o'zi ularga qarshi hukm chiqarish uchun ko'tariladi. Savdogarlar orasida adolatni himoya qilgan bu shaxs kim edi?",
+  "clues": [
+    "Men savdo va tijoratga chuqur sho'ng'ib ketgan qavmga elchi sifatida yuborildim.",
+    "Mening qavmim boshqalar uchun mol tortganda, o'lchovni qisqartirdi.",
+    "Agar ularni iymonga chaqirishda davom etsam, meni bu yerdan haydab chiqarish bilan tahdid qilishdi.",
+    "Men payg'ambarlar orasida eng notiq notiq sifatida esda qolganman.",
+    "Mening xalqim kuchli zilzila tufayli uylarida jonsiz qoldi.",
+    "Meni Hijozning shimolidagi Madyan xalqiga yubordilar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Shu'ayb",
+        "Payg'ambar Ishoq",
+        "Payg'ambar Ismoil",
+        "Zakariyo payg'ambar",
+        "Yahyo payg'ambar"
+      ],
+      "answer": "Payg'ambar Shu'ayb"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Yerdan haydalish bilan tahdid qilingan",
+        "Xalqim tomonidan alangali olovga tashlangan",
+        "Qudratli fir'avnning sehrgarlariga duch keldi",
+        "Toshdan urg'ochi tuya yasash talabiga duch keldi",
+        "Shaharimning farishtalar qo'shinlari tomonidan vayron qilinganiga guvoh bo'ldim"
+      ],
+      "answer": "Yerdan haydalish bilan tahdid qilingan"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Madyan yurti",
+        "Misr yeri",
+        "Sinay tog'i",
+        "Sodom shahri",
+        "Kan'on yurti"
+      ],
+      "answer": "Madyan yurti"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Mening xalqimni kuchli zilzila qamrab oldi",
+        "Mening xalqim katta suv toshqinida cho'kib ketdi",
+        "Mening xalqim maymunlarga aylandi",
+        "Mening xalqim qichqiriq shamol bilan tarqab ketdi",
+        "Men katta baliqning qornida bo'lganimda najot topdim"
+      ],
+      "answer": "Mening xalqimni kuchli zilzila qamrab oldi"
+    }
+  },
+  "verseRef": "11:87",
+  "arabic": "قَالُوا۟ يَـٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَـٰٓؤُا۟ ۖ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+  "verse": "They said, \"O Shuʿayb, does your prayer [i.e., religion] command you that we should leave what our fathers worship or not do with our wealth what we please? Indeed, you are the forbearing, the discerning!\" (11:87)"
+}

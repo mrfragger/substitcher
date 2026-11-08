@@ -1,0 +1,61 @@
+{
+  "title": "Vladar, ki je prepotoval konce sveta",
+  "intro": "Predstavljajte si mogočnega vladarja, ki mu je bila dana moč in oblast nad deželo. Ta oseba se je podala na izjemna potovanja, dosegla kraj, kjer sonce zahaja in kjer vzhaja, srečala čudna ljudstva in se soočila z velikim izzivom dveh pokvarjenih narodov. Kdo je ta skrivnostni voditelj?",
+  "clues": [
+    "Bil sem vladar, ki mu je bila dana oblast in sredstva, da dosežem najbolj oddaljene kotičke sveta.",
+    "Odpotoval sem proti zahodu in bil priča sončnemu zahodu v motni pomladi.",
+    "Blizu vzhajajočega sonca sem srečal ljudi, ki niso imeli zavetja pred njegovo vročino.",
+    "Druga skupnost me je prosila za pomoč proti dvema pokvarjenima narodoma, znanima kot Gog in Magog.",
+    "Zgradil sem pregrado iz železa in staljenega bakra, da bi jih zadržal.",
+    "Izjavil sem, da je ta ovira milost mojega Gospoda in da bo ostala do določenega časa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Zul-Karnajn",
+        "Prerok Sulejman",
+        "Karun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Zul-Karnajn"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Gradnja pregrade proti Gogu in Magogu",
+        "Preživetje velike poplave",
+        "Biti vržen v ogenj",
+        "Prečkanje morja",
+        "Boj z velikanom"
+      ],
+      "answer": "Gradnja pregrade proti Gogu in Magogu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Pregrada iz železa in bakra",
+        "Palica, ki se je spremenila v kačo",
+        "Ladja iz lesa",
+        "Steklena palača",
+        "Vrt datljevih palm"
+      ],
+      "answer": "Pregrada iz železa in bakra"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Gog in Magog sta bila zadržana do določenega časa",
+        "Postal je prerok",
+        "Kaznovali so ga zaradi arogance",
+        "Osvojil je ves svet",
+        "Živel je večno"
+      ],
+      "answer": "Gog in Magog sta bila zadržana do določenega časa"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

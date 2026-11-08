@@ -1,0 +1,61 @@
+{
+  "title": "D'Verleugnung an der Mëtt vun der Iwwerfloss",
+  "intro": "Dir fannt Iech ënner engem Vollek, deem seng Mäert vum Handel brummen, awer hir Won onéierlech kippen. E Bot ass bei si komm mat kloere Warnungen, awer si laachen a dréie sech ewech, zouversiichtlech op hire Wuelstand. Den Himmel fänkt un ze däischteren, awer si gesinn et als e Segen vum Reen. Wien sinn dës Leit?",
+  "clues": [
+    "Mir hunn a Länner vum Handel a vum Räichtum gebléit, awer eis Häerzer sinn haart ginn.",
+    "E Bote koum mat Zeeche vun eisem Här bei eis, awer mir hunn seng Warnungen verspott.",
+    "Mir ware bekannt fir eist Handwierk, awer mir hunn ze wéineg Mooss ginn an d'Leit bedrunn.",
+    "Mir hunn tëscht dichten Beem a üppeger Vegetatioun gelieft, awer mir hunn eis Segen als selbstverständlech ugesinn.",
+    "Wéi eng däischter Wollek koum, hu mir eis gefreet, well mir geduecht hunn, si géif Reen an eis dréchent Lännereien bréngen.",
+    "Amplaz huet déi Wollek eng brennend Strof lassgelooss, an eis goufe vun der Qual vum Dag vum Schiet gegraff."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "Ashab al-Aykah (D'Begleeder vum Bësch)",
+        "Leit vun Thamud",
+        "Leit vun 'Ad",
+        "Leit vu Lut",
+        "D'Leit vun Nuh"
+      ],
+      "answer": "Ashab al-Aykah (D'Begleeder vum Bësch)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Si hunn hire Messenger refuséiert a beim Handel bedrunn",
+        "Si hunn e gëllene Kalb ugebiet a goufen op eng falsch Manéier gefouert",
+        "Si hunn Sodomie praktizéiert an Reesender attackéiert",
+        "Si hunn héich Tierm gebaut a Gott erausgefuerdert",
+        "Si hunn refuséiert Waasser ze deelen a verletzt eng Kamellfra"
+      ],
+      "answer": "Si hunn hire Messenger refuséiert a beim Handel bedrunn"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "En dichten Bësch oder Déckt",
+        "E Bierg, deen a Wunnengen agegruewen ass",
+        "Eng Stad um Mier",
+        "En Wüstendall mat Quellen",
+        "E fruchtbare Gaart mat ville Friichten"
+      ],
+      "answer": "En dichten Bësch oder Déckt"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Zerstéiert vun enger Schiedwollek vu Feier",
+        "Erdronk vun enger grousser Iwwerschwemmung",
+        "Vun engem Äerdbiewen iwwerwältegt",
+        "Vun engem heftege Wand getraff",
+        "Zu Steen verwandelt"
+      ],
+      "answer": "Zerstéiert vun enger Schiedwollek vu Feier"
+    }
+  },
+  "verseRef": "15:79",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍۢ مُّبِينٍۢ",
+  "verse": "So We took retribution from them, and indeed, both [cities] are on a clear highway. (15:79)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "El inquebrantable llamado a la verdad",
+  "intro": "Un mensajero se alza solitario entre un pueblo obstinado, llamándolos hacia el Único Dios Verdadero mientras permanecen aferrados a falsos ídolos. Este profeta lleva un nombre que resuena con un poderoso significado: «el que busca protección», pero solo recibe rechazo y negación. Mediante la persuasión amable y la advertencia firme, esta alma lleva un mensaje divino que el universo mismo reivindicará. ¿Puedes identificar a esta figura inquebrantable que representa una de las narrativas más antiguas de las escrituras islámicas?",
+  "clues": [
+    "Mi pueblo adoraba a muchas deidades, mientras yo los llamaba a servir a Aquel que creó los cielos y la tierra.",
+    "Me presenté ante mi nación y declaré que no buscaría recompensa alguna de ellos; mi único deseo era que me guiaran por el camino de la rectitud.",
+    "Un fuerte viento fue enviado sobre mi pueblo como castigo divino, un viento del que el Corán habla tanto en plural como en femenino.",
+    "A diferencia de otros profetas, no se me concedió una esposa ni hijos mencionados de forma destacada en mi relato, pues mi misión era llamar a mi pueblo únicamente.",
+    "Mi nombre tiene un profundo significado, relacionado con el concepto de protección y refugio que uno busca.",
+    "Mi pueblo era conocido por un término geográfico específico para el valle que habitaban, y su tierra era descrita con particular desdén por su falta de vegetación."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Shu'aib",
+        "Profeta Noé",
+        "Profeta Hudayb"
+      ],
+      "answer": "Profeta Hud"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "El diluvio de la tierra",
+        "El viento abrasador",
+        "El terremoto de la destrucción",
+        "La sequía y la hambruna",
+        "El ahogamiento en el mar"
+      ],
+      "answer": "El viento abrasador"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El fértil valle de Yemen",
+        "El desierto arenoso de Madián",
+        "El valle rocoso del Thamud",
+        "La antigua tierra del pueblo 'Ad'",
+        "La región costera de Egipto"
+      ],
+      "answer": "La antigua tierra del pueblo 'Ad'"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Mi pueblo se arrepintió y entró en el paraíso.",
+        "Ninguno de los míos sobrevivió al castigo.",
+        "Me capturaron con vida, al igual que a mi hermano Yunus.",
+        "Emigré con mis seguidores a una tierra bendita.",
+        "El viento destruyó solo a los incrédulos, mientras que los creyentes sobrevivieron."
+      ],
+      "answer": "Ninguno de los míos sobrevivió al castigo."
+    }
+  },
+  "verseRef": "54:18",
+  "arabic": "كَذَّبَتْ عَادٌۭ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+  "verse": "ʿAad denied; and how [severe] were My punishment and warning. (54:18)"
+}

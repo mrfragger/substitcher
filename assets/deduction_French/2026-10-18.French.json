@@ -1,0 +1,61 @@
+{
+  "title": "La bonne nouvelle de la vieillesse",
+  "intro": "Vous assistez à un moment où l'espoir renaît. Un couple, bien au-delà de l'âge d'avoir des enfants, reçoit une promesse qui défie les lois de la nature. Au milieu d'eux se tient une figure dont l'existence même est un signe de la miséricorde divine : une âme destinée à la prophétie, porteuse d'un héritage qui traversera les générations. Qui est cet être remarquable ?",
+  "clues": [
+    "Je suis né de parents âgés qui n'avaient pas d'enfants.",
+    "Ma naissance a été annoncée par des anges venus rendre visite à ma famille.",
+    "J'ai reçu la sagesse et le don de prophétie, et mon nom figure parmi les malades.",
+    "Mon père était appelé l'ami d'Allah, et j'étais un cadeau pour lui dans ses dernières années.",
+    "J'avais un frère qui était lui aussi prophète, et nous avons tous deux été bénis par notre Seigneur.",
+    "Mon fils était lui aussi prophète, et mes descendants ont reçu l'Écriture et la prophétie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Ishaq (Isaac)",
+        "Le prophète Ismaël",
+        "Le prophète Yaqub (Jacob)",
+        "Prophète Yahya (Jean)",
+        "Le prophète Uzair (Ezra)"
+      ],
+      "answer": "Le prophète Ishaq (Isaac)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Né de parents âgés",
+        "Jeté dans le feu",
+        "Étant donné un royaume et une richesse",
+        "Il a fait sortir son peuple d'Égypte",
+        "Ils ont construit une arche pour sauver les croyants"
+      ],
+      "answer": "Né de parents âgés"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La bonne nouvelle de la naissance d'un fils",
+        "Le buisson ardent",
+        "Le veau d'or",
+        "L'arche de l'alliance",
+        "Le bâton de la prophétie"
+      ],
+      "answer": "La bonne nouvelle de la naissance d'un fils"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Il devint prophète, issu d'une lignée de prophètes.",
+        "Il devint un roi riche",
+        "Son peuple a été détruit pour son incrédulité.",
+        "Il a été sauvé du feu",
+        "Il a acquis la parole dès son plus jeune âge."
+      ],
+      "answer": "Il devint prophète, issu d'une lignée de prophètes."
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

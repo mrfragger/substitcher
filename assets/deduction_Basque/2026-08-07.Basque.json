@@ -1,0 +1,61 @@
+{
+  "title": "Tronuaren atzean dagoen fedea",
+  "intro": "Arima batzuk ez dira suaren edo uholdearen bidez probatzen, baizik eta tirano baten jauregiaren barruan bizitzearen presio motelaren bidez. Figura hau bere herriaren gainean jainkotasuna aldarrikatzen zuen agintari baten ondoan zegoen, baina isilpean Jainko Egiazko Bakarrean fedeari eusten zion. Haien debozioa aurkitu zutenean, sufrimendua etorri zen, baina baita jainkozko promesa bat ere. Asmatzen al duzu nor den?",
+  "clues": [
+    "Nire herrialdeko agintari boteretsuenaren teilatupean bizi nintzen, gutxik imajina zezaketen posizio batean.",
+    "Nire ezkontidea jendearen aurrean zutik jarri eta jainkotzat jo zuen bere burua — baina nire bihotza Jaun Egiazko Bakarrarena zen.",
+    "Isilpean otoitzak xuxurlatzen nituen, nire ezkontideari desafio egiten zioten guztiei zegokien zigorraren beldur.",
+    "Nire fedea agerian utzi zutenean, atxilotu eta torturatu egin ninduten — hala ere, nire mihiak ez zuen inoiz sinesgaiztasun hitzik esan.",
+    "Nire bihotza Jaunari ireki nion, Paradisuan etxe bat eskatuz, gaiztakeria guztietatik urrun.",
+    "Asiya bint Muzahim naiz — Musa eta Harunen aurka egin zuen faraoiaren emaztea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Asiya bint Muzahim (Faraoiaren emaztea)",
+        "Hawwa (Eva), lehen emakumea",
+        "Sara, Ibrahim-en lehen emaztea",
+        "Agar, Ismaelen ama",
+        "Maryamen ama (Imranen emaztea)"
+      ],
+      "answer": "Asiya bint Muzahim (Faraoiaren emaztea)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Fedea ukatzeari uko egiteagatik tortura jasan",
+        "Arrain handi baten sabelean bizirautea",
+        "Uholde batetik ihes egiteko arka erraldoi bat eraikitzea",
+        "Su bizian sartuta egotea",
+        "Itsaso handi baten banaketaren lekuko"
+      ],
+      "answer": "Fedea ukatzeari uko egiteagatik tortura jasan"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Paradisuan haientzat eraikitako etxea",
+        "Suge bihurtu zen makila",
+        "Izaki guztietako bikoteak zeramatzan arka bat",
+        "Nazio batek gurtzen duen urrezko txahal bat",
+        "Gerlari erraldoi bat garaitzeko erabilitako tira bat"
+      ],
+      "answer": "Paradisuan haientzat eraikitako etxea"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Paradisuan bizitzeaz ohoratua, zintzoekin batera",
+        "Olatuen azpian itota, beren armadarekin batera",
+        "Sutan erreta baina jainkozko esku-hartzeari esker salbatua",
+        "Izaki handi batek irentsi eta gero kostaldera botata",
+        "Bere garaiko pertsona aberatsena bihurtu zen"
+      ],
+      "answer": "Paradisuan bizitzeaz ohoratua, zintzoekin batera"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

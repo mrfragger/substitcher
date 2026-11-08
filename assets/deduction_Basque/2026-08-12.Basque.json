@@ -1,0 +1,61 @@
+{
+  "title": "Errukiaren eta Indarraren Bidaliak",
+  "intro": "Imajinatu arratsalde lasai bat bidaiari ezezagunen etorrerak eteten duena. Itxura arrunta dute, baina helburua ez da batere ohikoa. Bi nazioen norabidea aldatuko duen mezu jainkotiar bat daramate, etxe antzu bati barrea eta hiri bekatari bati izua ekarriz. Nor dira bisitari misteriotsu hauek?",
+  "clues": [
+    "Alaren zerbitzari deboto batengana bidali gintuzten, bere adeitasun mugagabeagatik ezaguna zena.",
+    "Ezezagunen itxurarekin iritsi ginen, eta hala ere, gure ostalariak beste munduko zerbait sumatu zuen gure presentzian.",
+    "Berri bat ekarri genuen, eta emakume adineko bati sinesgaitz barre eginarazi zion, harriduraz aurpegia joz.",
+    "Familia zuzen bat babesteko zeregina eman ziguten, ustelkeriaz jositako hiri baten gainean suntsipena ekartzen zuen bitartean.",
+    "Eskaintzen ziguten otorduan parte hartzeari uko egin genion, eta horrek gure ostalariaren susmoa areagotu besterik ez zuen egin.",
+    "Gure benetako izaera alde egin aurretik bakarrik agertu genuen, esanez: \"Egia esan, zure Jaunaren mezulariak gara\"."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Abrahamen gonbidatuak.",
+        "Jesusen dizipuluak",
+        "Kobazuloko Lagunak",
+        "Abraharen Armada.",
+        "Ya-Sin-en mezulariak"
+      ],
+      "answer": "Abrahamen gonbidatuak."
+    },
+    "trial": {
+      "label": "Gure Misioa",
+      "options": [
+        "Abrahamen semearekiko fedea probatzeko",
+        "Abrahami idatzia emateko",
+        "Isaaken jaiotza eta Loten herriaren suntsipena iragartzeko",
+        "Abraham Kaabaraino gidatzeko",
+        "Abraham sutetik erreskatatzeko"
+      ],
+      "answer": "Isaaken jaiotza eta Loten herriaren suntsipena iragartzeko"
+    },
+    "location": {
+      "label": "Agerraldiaren lekua",
+      "options": [
+        "Egiptoko lurraldean.",
+        "Ur hirian.",
+        "Abrahamen etxean.",
+        "Eden lorategian.",
+        "Zamzam-en putzuan."
+      ],
+      "answer": "Abrahamen etxean."
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Abraham errege bihurtu zen",
+        "Abrahamek Kaaba eraiki zuen",
+        "Sarak Isaak erditu zuen eta Loten herria suntsitu zuten",
+        "Abraham Palestinara emigratu zuen",
+        "Abrahamen herria uholde handi batetik salbatu zen"
+      ],
+      "answer": "Sarak Isaak erditu zuen eta Loten herria suntsitu zuten"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

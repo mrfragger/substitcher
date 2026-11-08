@@ -1,0 +1,61 @@
+{
+  "title": "Te Kaitiaki o te Kūaha o te Rā e Puta Ana",
+  "intro": "I roto i te Quran, ka haereere ētahi wairua i te ao, ka waiho ngā ara o te whakaaro nui me te miharo. I haere tētahi o aua tangata ki ngā wāhi tawhiti rawa o te hanganga—te wāhi e whiti ai, e tō ai te rā, te wāhi e ārai ana i te pōrearea. I whakawhiwhia tēnei pononga a Allah ki tētahi rangatiratanga e kore e riro i tētahi atu. Nā roto i ngā haerenga motuhake e toru, i mārama ai te kaupapa o tēnei tangata. Ka taea e koe te tautuhi i tēnei tangata haereere rongonui i roto i ngā atarangi o te hītori?",
+  "clues": [
+    "I homai ki ahau te mana e te Atua Aroha rawa kia whakahaere i te whenua i tētahi ara kāore anō kia tutuki i tētahi atu.",
+    "I haere ahau ki te hauauru tae noa ki te wāhi e torengi ai te rā, ā, i kite ahau e torengi ana i roto i te puna pouri, ā, i kite ahau i tētahi iwi i reira.",
+    "I haere ahau ki te rawhiti tae noa ki te wāhi e whiti ana te rā, e kite ana ahau e whiti ana ki runga i tētahi iwi kāore mātou i whakarato i tētahi piringa mō rātou i reira.",
+    "I haere ahau i waenganui i aua pito e rua tae noa ki te taenga atu ki tētahi awaawa i waenganui i ngā maunga e rua, ā, ka kitea e au tētahi iwi kāore i te tino mārama ki te kōrero.",
+    "I kitea e au i runga i te maunga e rua ngā arai rino mārō e toro atu ana ki te taha matau, ki te taha maui, ā, i waenganui i a rāua, he ara whaiti. I tono mai ēnei tāngata kia wahia e au te arai e pupuri ana i te ngangau.",
+    "I tangohia e au taku kai, ā, ka mea atu ahau: 'Ina pakaru te arai, ka mārama te wehenga i waenganui i a tātou ko tēnei iwi.' Ā, i te taenga mai o te wā i whakaritea, ka mātakitaki ahau i te pakarutanga o te arai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Poropiti a Sulaimana",
+        "Poropiti Ihāperama",
+        "Te Kīngi o Ghassaniyah",
+        "Dhul-Qarnain te Kaihaerere"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te pakaru i te arai rino mō te iwi o Yajuj me Majuj",
+        "Te hanga i te kaipuke i raro i te whakahau a te poropiti",
+        "Te hanga i tētahi temepara i Hiruharama",
+        "Te whiti i te Moana Whero me te iwi whakapono",
+        "Te hanga i tētahi tāhuna hei tiaki i tētahi iwi tika"
+      ],
+      "answer": "Te pakaru i te arai rino mō te iwi o Yajuj me Majuj"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te arai rino i waenganui i ngā maunga e rua",
+        "I tau te kaipuke ki runga i te maunga",
+        "Te whare karakia tapu i Hiruharama",
+        "Te awa i te whenua o Ihipa",
+        "Te puna o ngā manaakitanga i Madyan"
+      ],
+      "answer": "Te arai rino i waenganui i ngā maunga e rua"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I pakaru te arai i te taenga mai o te wā i whakaritea, ā, ka ringihia mai te ngangau",
+        "I toremi te hunga whakaponokore, i whakaorangia te hunga whakapono",
+        "I arahina te hunga tika ki te pararaiha mutungakore",
+        "I whakangaromia te tāone e te hau nui",
+        "I pakaru ngā whakapakoko, ā, i ripeneta te iwi"
+      ],
+      "answer": "I pakaru te arai i te taenga mai o te wā i whakaritea, ā, ka ringihia mai te ngangau"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

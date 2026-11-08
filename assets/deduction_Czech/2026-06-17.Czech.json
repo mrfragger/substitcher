@@ -1,0 +1,61 @@
+{
+  "title": "Ozvěna z okraje města",
+  "intro": "Ve městě, které se odvrátilo od božského vedení, se z okraje vynořila osamělá postava, která přinesla poselství naděje a varování. Tato zapomenutá duše se stala věčným symbolem neochvějné víry.",
+  "clues": [
+    "Byl jsem svědkem toho, jak byli do mého města vysíláni poslové, ale můj lid je považoval za obyčejné lidi.",
+    "Věřil jsem jejich poselství a cítil jsem, jak pravda rezonuje ve mně.",
+    "Vyzval jsem svůj lid, aby poslechl posly, kteří nežádali žádnou odměnu.",
+    "Běžel jsem z nejzazšího konce města a naléhavě jsem se snažil je přimět k rozumu.",
+    "Můj lid povstal proti mně a já byl zabit, ale nalezl jsem věčný pokoj.",
+    "Alláh mi řekl: „Vstup do ráje,“ a já si přál, aby můj lid mohl být svědkem pocty, která mi byla prokázána."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Věřící Ya-Sin",
+        "Uzair Tazatel",
+        "Průvodce Al-Khidr",
+        "Věřící z faraonovy rodiny",
+        "Namrud Tyran"
+      ],
+      "answer": "Věřící Ya-Sin"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Tváří v tvář nevěřícímu lidu, který ho zabil",
+        "Být vhozen do planoucího ohně",
+        "Být spolknut velkou rybou",
+        "Stavba masivní archy",
+        "Útěk před armádou tyrana"
+      ],
+      "answer": "Tváří v tvář nevěřícímu lidu, který ho zabil"
+    },
+    "location": {
+      "label": "Klíčové umístění",
+      "options": [
+        "Nejvzdálenější konec města",
+        "Hora Tur",
+        "Údolí mravenců",
+        "Břehy Nilu",
+        "Jeskyně jeskyně"
+      ],
+      "answer": "Nejvzdálenější konec města"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Mučednictví a okamžitý vstup do ráje",
+        "Útěk a spása",
+        "Nanebevstoupení",
+        "Topení v moři",
+        "Proměňuje se v kámen"
+      ],
+      "answer": "Mučednictví a okamžitý vstup do ráje"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Orang Pertama yang Memohon Pengampunan",
+  "intro": "Mari kita kembali ke masa sebelum matahari terbit pertama, sebelum manusia fana berjalan di bumi. Sebuah patung dibuat dari bahan yang paling sederhana, diberi kedudukan di atas para malaikat, dan ditempatkan di taman suci dengan peringatan yang jelas. Namun dalam sekejap, sebuah pilihan dibuat—pilihan yang akan bergema sepanjang sejarah manusia. Siapakah sosok ini?",
+  "clues": [
+    "Aku diciptakan dengan cara yang tak tertandingi — dibentuk dari debu bumi dan diberi jiwa oleh tangan Sang Pencipta.",
+    "Aku dianugerahi pengetahuan yang begitu mendalam sehingga para malaikat di atas pun takjub karenanya.",
+    "Seluruh langit diperintahkan untuk bersujud di hadapan-Ku, dan mereka semua menuruti perintah itu—kecuali satu orang yang menolak karena kesombongan.",
+    "Aku ditempatkan di taman suci, tempat kenyamanan dan perbekalan abadi — tetapi dengan satu larangan keras.",
+    "Aku lupa, aku terpeleset, dan aku tidak taat — dan aku merasakan beban kesalahanku dengan sangat dalam.",
+    "Aku berpaling kepada Tuhanku dengan kata-kata yang tulus, dan Dia menerima pertobatanku, karena Dia Maha Pengampun."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Adam",
+        "Nabi Dawud",
+        "Nabi Muhammad",
+        "Iblis",
+        "Nabi Yaqub"
+      ],
+      "answer": "Nabi Adam"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Para malaikat diperintahkan untuk bersujud",
+        "Banjir Besar dikirim",
+        "Api besar berhasil dipadamkan dan dibuat aman.",
+        "Seorang penguasa yang arogan tenggelam di laut.",
+        "Pasukan gajah telah dihancurkan."
+      ],
+      "answer": "Para malaikat diperintahkan untuk bersujud"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Taman Kebahagiaan",
+        "Gunung Sinai",
+        "Masjid Suci",
+        "Sungai Nil",
+        "Gua"
+      ],
+      "answer": "Taman Kebahagiaan"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Taubat diterima oleh Allah.",
+        "Tenggelam di laut",
+        "Ditelan oleh ikan besar",
+        "Negara itu dilanda ledakan dahsyat.",
+        "Terbakar oleh angin yang menyengat"
+      ],
+      "answer": "Taubat diterima oleh Allah."
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

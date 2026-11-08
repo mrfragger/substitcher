@@ -1,0 +1,61 @@
+{
+  "title": "Satul de pe țărmurile încercării",
+  "intro": "Te afli într-un sat de coastă, unde sunetul valurilor se amestecă cu șoaptele unui popor uitat. Li s-a dat porunca de odihnă, dar lăcomia lor a dus la o pedeapsă despre care se vorbește și astăzi în șoaptă. Poți descoperi cine erau?",
+  "clues": [
+    "Am locuit lângă țărm și ni s-a dat porunca să ținem o zi de odihnă.",
+    "În ziua aceea, aveam să prindem pește din abundență, dar ne era interzis să-l luăm.",
+    "Unii dintre noi ne-au avertizat împotriva încălcării legii, dar alții au conspirat oricum să pescuiască.",
+    "Am încălcat porunca sacră și ne-am asumat o pedeapsă aspră.",
+    "Pedeapsa noastră a fost o transformare care ne-a lăsat desfigurați și dezonorați.",
+    "Am fost transformați în maimuțe, un semn pentru toți cei care aveau să vină după noi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Oamenii Sabatului",
+        "Oamenii din Thamud",
+        "Oamenii din 'Ad",
+        "Oamenii din peșteră",
+        "Oamenii elefantului"
+      ],
+      "answer": "Oamenii Sabatului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Pescuitul în Sabat",
+        "Închinarea la un vițel de aur",
+        "Negarea mesajului lui Hud",
+        "Uciderea cămilei",
+        "Construirea unui turn spre cer"
+      ],
+      "answer": "Pescuitul în Sabat"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Peștele",
+        "O cămilă",
+        "Un personal",
+        "O barcă",
+        "O grădină"
+      ],
+      "answer": "Peștele"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Transformați în maimuțe",
+        "Distrus de o inundație",
+        "Distrus de un incendiu arzător",
+        "Înghițit de pământ",
+        "Împrăștiat de vânt"
+      ],
+      "answer": "Transformați în maimuțe"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

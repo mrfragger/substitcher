@@ -1,0 +1,61 @@
+{
+  "title": "Waamicha barootaaf haala qilleensaa keessa darbe",
+  "intro": "Lubbuu qaroomina guutuu tokko qofa dura dhaabbattee, murtoo hin sochooneen karaa dogoggoraa irraa isaan deebisuuf murteessite tokko yaadi. Jaarraa hedduudhaaf ergaan sun fudhatama dhabee, itti qoosamee fi tuffatamaa ture—taʼus carraaqqiin godhamu gonkumaa hin dhaabbanne. Dhuma irrattis herregni guddaan dhufe, muraasni qofti lubbuu jabaatte kana cinatti fayyina yaabbatan. Lakkoofsa kana Qur'aana irraa adda baasuu dandeessaa?",
+  "clues": [
+    "Ummata karaa ofiitiin badeef akeekkachiisaa ta'ee ergame.",
+    "Dhiifama akka barbaadanii fi badii isaanii irraa akka duubatti deebi’an isaan afeere, isaan garuu ofirraa deebi’an.",
+    "Ajaja waaqaa jalatti sabni koo osoo na ilaalanii fi natti qoosanii meeshaa guddaa tokkon ijaare.",
+    "Gooftaa koo osoo addaan hin kutin waammadhe-dhuma irrattis deebii kenne, bishaan samii irraa dhangala’ee dhangala’e.",
+    "Bishaan lolaa lafaa ol ka'u warra amanan waliin doonii sana yaabbadhe.",
+    "Gaara tokkotti akka kooluu galfatan tokko isa duubatti hafe tokkotti iyye, garuu labsiin sun duraan darbee ture."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Nuh",
+        "Nabi Ibraahim",
+        "Nabi Muusaa",
+        "Nabi Hud",
+        "Nabi Saalih"
+      ],
+      "answer": "Nabi Nuh"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Doonii guddaa ijaaruu fi lolaa addunyaa maraa irraa hafuu",
+        "Ibidda boba’aa keessa darbatamuu",
+        "Gabroomfataa fi falfaltoota isaa humna guddaa qaban waliin wal dura dhaabbachuu",
+        "Qurxummii guddaa tokkoon liqimfamuu",
+        "Ajjeefamuu gaala dubaraa qulqulluu dhugaa ba'uu"
+      ],
+      "answer": "Doonii guddaa ijaaruu fi lolaa addunyaa maraa irraa hafuu"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Taabotni mukaa guddaa bishaan lolaa cimaa irra jiru",
+        "Gammoojjii qulqulluu diigama dhagaa durii qabu",
+        "Holqa gadi fagoo hiriyyoonni jaarraa hedduuf itti rafan",
+        "Garaan qurxummii galaanaa guddaa gadi fageenya galaanaa keessa jiru",
+        "Gaara dhagaa ol ka'aa lafa onaa keessa jiru"
+      ],
+      "answer": "Taabotni mukaa guddaa bishaan lolaa cimaa irra jiru"
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Amantoota doonii sana keessa jiran waliin fayye",
+        "Ajaja waaqaatiin ibidda irraa osoo hin miidhamiin baraarame",
+        "Mootummaa humna guddaa qabu keessaa ba’iinsa guddaa geggeesse",
+        "Qurxummii irraa gara qarqara galaanaa gogaa taʼetti darbadhaa",
+        "Mallattoo dinqiitiin namoota badii irraa akka fagaatan geggeesse"
+      ],
+      "answer": "Amantoota doonii sana keessa jiran waliin fayye"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

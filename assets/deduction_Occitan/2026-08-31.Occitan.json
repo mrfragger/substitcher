@@ -1,0 +1,61 @@
+{
+  "title": "La Votz Silenciosa de la Val",
+  "intro": "Tornatz enrè dins lo temps cap a un pòble poderós qu'un còp recebèt una meravilha viva coma espròva. L'arrogància e la testarditge tanquèron lor destin. Podètz traçar l'istòria e descobrir çò que se debanèt dins aquel viratge dramatic?",
+  "clues": [
+    "Foguèri mandat coma un jutjament divin a un pòble poderós conegut per sa fòrça e sa desfís.",
+    "Èri una meravilha unica — los coma ieu èran pas jamai apareguts demest eles.",
+    "Partejava l'aiga potabla d'un potz amb mon pòble de jorns alternats.",
+    "Foguèron avertits que tot mal contra ieu portariá una punicion rapida.",
+    "Lo mai audaciós d'eles ignorèt l'avertiment e me tustèt.",
+    "Après ma mòrt, un sol crit tronós de naut destruguèt mon pòble entièr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "La camèla de Salih",
+        "La Vaca de Musa",
+        "La Nau de Nuh",
+        "L'Estat Major de Musa",
+        "Lo Tròn de Bilqis"
+      ],
+      "answer": "La camèla de Salih"
+    },
+    "trial": {
+      "label": "Mon destin",
+      "options": [
+        "Isquiotibial e tuat",
+        "Tuat coma un sacrifici",
+        "Transformat en sèrp",
+        "Preservat a travèrs d'una granda inondacion",
+        "Portat rapidament a travèrs un reialme"
+      ],
+      "answer": "Isquiotibial e tuat"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un potz d'aiga",
+        "Una tauleta de pèira",
+        "Un arbust ardent",
+        "Una arca de fusta",
+        "Un tròn d'aur e d'argent"
+      ],
+      "answer": "Un potz d'aiga"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Destruch per un sol crit",
+        "Afogats dins una granda inondacion",
+        "Cremat per una pluèja de pèiras",
+        "Esclafat per un vent violent",
+        "Engolit per la tèrra"
+      ],
+      "answer": "Destruch per un sol crit"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "The Steadfast Witnesses",
+  "intro": "Imagine a time when belief was tested by fire, and unwavering conviction became the ultimate defiance. You are tasked with uncovering the identity of a group whose story is recounted in the Quran, a narrative of profound faith against overwhelming tyranny. Unravel the clues to discover who these souls were, and the extraordinary circumstances they faced.",
+  "clues": [
+    "We stood firm in our conviction, despite immense pressure to renounce our faith.",
+    "We were targeted by a powerful ruler who sought to extinguish the light of monotheism.",
+    "We witnessed great signs and miracles, yet our oppressors remained heedless.",
+    "We endured a gruesome method of persecution designed to terrorize others into submission.",
+    "We were cast into a blazing inferno, yet our steadfastness earned us a lofty station with Allah.",
+    "Our story is recounted in a Surah named after celestial constellations, warning of the fate of those who persecute believers."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Are We?",
+      "options": [
+        "The People of Thamud",
+        "The People of 'Ad",
+        "The People of the Ditch",
+        "The People of Midian",
+        "The People of the Elephant"
+      ],
+      "answer": "The People of the Ditch"
+    },
+    "trial": {
+      "label": "Our Persecution",
+      "options": [
+        "Being drowned in a flood",
+        "Being consumed by a scorching wind",
+        "Being cast into a fiery trench",
+        "Being swallowed by the earth",
+        "Being transformed into apes"
+      ],
+      "answer": "Being cast into a fiery trench"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "A massive flood",
+        "A great earthquake",
+        "A deep, burning trench",
+        "A powerful idol",
+        "A devastating drought"
+      ],
+      "answer": "A deep, burning trench"
+    },
+    "outcome": {
+      "label": "Our Ultimate Fate",
+      "options": [
+        "They were granted a kingdom on earth.",
+        "They were saved by a miraculous escape.",
+        "They achieved martyrdom and eternal reward.",
+        "They were transformed into a different species.",
+        "They were given immense wealth and prosperity."
+      ],
+      "answer": "They achieved martyrdom and eternal reward."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

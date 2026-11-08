@@ -1,0 +1,61 @@
+{
+  "title": "La voce inascoltata dei secoli",
+  "intro": "In un'epoca ben precedente alla nascita delle grandi città, un'anima solitaria si levò tra un popolo che si era allontanato dalla verità. La loro ostinazione era pari solo alla pazienza di questo solitario predicatore, che implorò attraverso le generazioni senza mai perdere la sua determinazione. Quando ogni avvertimento cadde nel vuoto, una resa dei conti senza precedenti rimodellò la terra stessa. Ancora oggi, l'eco di quella storia risuona in ogni racconto. Sapete identificare quest'anima risoluta?",
+  "clues": [
+    "Sono cresciuto in mezzo a un popolo che adorava falsi idoli e ignorava i segni che lo circondavano, eppure sono stato scelto per risvegliarlo dalla sua indifferenza.",
+    "Ho chiamato ripetutamente la mia gente, ma mi hanno accusato di essere nient'altro che una persona come loro, deridendo il mio messaggio e tappandosi le orecchie.",
+    "Giorno e notte li imploravo con saggezza e gentili richiami, ma le mie parole sembravano svanire nell'aria, inascoltate e inascoltate.",
+    "Per volere divino, costruii un'enorme imbarcazione di legno e assi sulla terraferma, e il mio popolo si fece beffe di me, considerandomi un pazzo.",
+    "Quando, come predetto, arrivò il grande diluvio, mio ​​figlio si rifiutò di salire a bordo con me, convinto che una montagna lo avrebbe protetto dalle acque in piena.",
+    "Sono diventato il patriarca di un nuovo inizio sulla terra e la mia storia è custodita in un capitolo del Corano che porta il mio stesso nome."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Ibrahim",
+        "Profeta Mosè",
+        "Profeta Lutero",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Nuh"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il grande diluvio che ha rimodellato la terra",
+        "Essere gettati in un fuoco ardente dagli idolatri",
+        "Scontro con i maghi del faraone a palazzo",
+        "La distruzione dei rigogliosi giardini da parte di una tempesta celeste",
+        "Il rovesciamento degli abitanti delle trincee"
+      ],
+      "answer": "Il grande diluvio che ha rimodellato la terra"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Arca costruita con legno e assi",
+        "La casa sacra costruita su antiche fondamenta",
+        "Il bastone che si trasformò in un serpente",
+        "La grotta dei giovani dormienti",
+        "Il trono portato da una possente creatura"
+      ],
+      "answer": "L'Arca costruita con legno e assi"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "I miscredenti annegarono, mentre i credenti furono salvati a bordo dell'imbarcazione.",
+        "Il fuoco si è raffreddato ed è diventato innocuo, e chi ha chiamato è uscito illeso.",
+        "I maghi si prostrarono e abbracciarono la fede",
+        "Il giardino fu concesso al vicino giusto al suo posto",
+        "I dormienti si sono svegliati dopo secoli, trasformati"
+      ],
+      "answer": "I miscredenti annegarono, mentre i credenti furono salvati a bordo dell'imbarcazione."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

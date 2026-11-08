@@ -1,0 +1,61 @@
+{
+  "title": "Społeczność, która sprzeciwiła się Dniu Odpoczynku",
+  "intro": "Wkrocz do nadmorskiej osady, gdzie boski nakaz wyznaczył jeden dzień na modlitwę i powściągliwość. Grupa członków tej społeczności postanowiła sprawdzić granice tego nakazu, realizując przebiegły plan, co doprowadziło do transformacji, która miała odbić się echem na przestrzeni wieków. Kim były te dusze i co się z nimi stało?",
+  "clues": [
+    "Mieszkaliśmy blisko wybrzeża, gdzie morze zapewniało nam utrzymanie.",
+    "Nakazano nam czcić jeden dzień w tygodniu, oddzielając go od zajęć świeckich.",
+    "Tego dnia ryby podpłynęły do ​​nas w ogromnych ilościach, jakby kusząc nas, żebyśmy złamali rozkaz.",
+    "Wymyśliliśmy plan, aby złapać ryby w przeddzień świętego dnia, a następnie zebrać je po jego upływie.",
+    "Kiedy niektórzy z nas ostrzegali przed tym oszustwem, zignorowaliśmy ich rady i trwaliśmy w swoim postanowieniu.",
+    "Za nasze przewinienia zostaliśmy przemienieni w małpy, wzgardzeni i odrzuceni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie szabatu",
+        "Ludzie z rowu",
+        "Ludzie z Lasu",
+        "Ludzie Ogrodu",
+        "Ludzie Słonia"
+      ],
+      "answer": "Ludzie szabatu"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Wędkowanie w szabat",
+        "Budowanie wysokiej wieży",
+        "Zabicie świętej wielbłądzicy",
+        "Zaprzeczając posłanemu do nich prorokowi",
+        "Przekroczenie wag handlowych"
+      ],
+      "answer": "Wędkowanie w szabat"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Morze i jego ryby",
+        "Ogień, który został schłodzony",
+        "Laska, która stała się wężem",
+        "Arka zbawienia",
+        "Tablice kamienne"
+      ],
+      "answer": "Morze i jego ryby"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Przemienieni w małpy",
+        "Pochłonięty przez ziemię",
+        "Zniszczony przez gwałtowny wiatr",
+        "Utonął w morzu",
+        "Uderzony gradem kamieni"
+      ],
+      "answer": "Przemienieni w małpy"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

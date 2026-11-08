@@ -1,0 +1,61 @@
+{
+  "title": "El suplicante del santuario",
+  "intro": "En la quietud de la noche, un alma devota clamó al Misericordioso entre los muros sagrados de un lugar santo. Años de fe inquebrantable y paciencia estaban a punto de ser recompensados ​​con un milagro que traería alegría y un legado profético.",
+  "clues": [
+    "Pasé mis días y noches en devoción dentro de un santuario sagrado, suplicando constantemente a mi Señor.",
+    "Envejecí y mi esposa era estéril, pero nunca perdí la esperanza en la misericordia de Alá.",
+    "Me fue concedido un hijo, llamado Yahya, que llegó a ser profeta y faro de rectitud.",
+    "Yo mismo fui un profeta, enviado para guiar a los hijos de Israel.",
+    "Yo era descendiente del profeta Harún y serví como sacerdote en el Templo.",
+    "Se me confió el cuidado de Maryam, la madre de Isa, y fui testigo de sus milagros."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Zacarías",
+        "Profeta Yahya",
+        "Profeta Ilyas",
+        "Profeta Ishaq",
+        "Profeta Ya'qub"
+      ],
+      "answer": "Profeta Zacarías"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Le fue concedido un hijo en su vejez.",
+        "Salvado de un incendio voraz",
+        "Rescatado del vientre de un pez",
+        "Sobrevivió a una gran inundación.",
+        "Curado de una enfermedad grave"
+      ],
+      "answer": "Le fue concedido un hijo en su vejez."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "El mihrab (nicho de oración)",
+        "La Kaaba",
+        "La zarza ardiente",
+        "El Arca de la Alianza",
+        "La cueva de los siete durmientes"
+      ],
+      "answer": "El mihrab (nicho de oración)"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se le concedió un hijo justo que se convirtió en profeta.",
+        "Destruido por una violenta tormenta.",
+        "Ahogado en el mar",
+        "Se salvó de ser quemado",
+        "Regresaron con su gente después de ser salvados de un pez."
+      ],
+      "answer": "Se le concedió un hijo justo que se convirtió en profeta."
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

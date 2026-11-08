@@ -1,0 +1,61 @@
+{
+  "title": "Lələkli Skaut",
+  "intro": "Küləklər, görünməyən varlıqlar və səmadakı məxluqlar üzərində hökmranlıq hüququ olan birinin idarə etdiyi bir krallıqda kiçik və sürətli bir üzv sıralardan yoxa çıxdı - yalnız uzaq bir millətin taleyini dəyişdirəcək vəhylərlə geri döndü. Bu iti gözlü xəbərçi cəhalətin kök saldığı yerdə həqiqəti işıqlandırdı. Mən kiməm?",
+  "clues": [
+    "Mən elə bir sarayda xidmət edirdim ki, orada insanlar, görünməyən varlıqlar və səmadakı məxluqlar küləklərə əmr edən tək bir müdrik hökmdara tabe olurdular.",
+    "Bir müddət vəzifəmdə olmadım və əgər qənaətbəxş bir səbəb göstərməsəm, hökmdarın qəzəbini çəkəcəyim vəd edilmişdi.",
+    "Mən kiçik, iti görmə qabiliyyətimlə tanınan, uçuş qabiliyyətinə malik bir məxluqam və mənim növümə vəhy səhifələrində birbaşa ad verilməsi şərəfi verilib.",
+    "Qayıdanda uzaq bir diyardan xəbər gətirdim. Orada insanlar günəşə səcdə edir, göyləri və yeri yaradana kor-koranə baxırdılar.",
+    "Mən böyük bir səltənətə hökmranlıq edən, əzəmətli bir taxtda oturan və əvvəllər heç vaxt həqiqəti bilməyən bir qadın gördüm.",
+    "Mən Səba aləmini kəşf edən və külək üzərində hökmranlıq edən bir peyğəmbər-padşahın dəvət məktubunu gətirən şəxsəm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Hudhud (Hüdhüd)",
+        "Süleyman Vadisindən Qarışqa",
+        "Asif ibn Bərxiya",
+        "İfrit Cin",
+        "Ərşin Mələyi"
+      ],
+      "answer": "Hudhud (Hüdhüd)"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Səba (Şəba) Krallığına səfər",
+        "Fironun sehrbazları ilə qarşıdurma",
+        "Nuh peyğəmbərin tufanı",
+        "Ad xalqının məhvi",
+        "Qırmızı dənizin iki yerə bölünməsi"
+      ],
+      "answer": "Səba (Şəba) Krallığına səfər"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Səba (Şəba) diyarı",
+        "Sina dağı",
+        "Nuh peyğəmbərin gəmisi",
+        "Əshab əl-Kəhf Mağarası",
+        "Fironun Sarayı"
+      ],
+      "answer": "Səba (Şəba) diyarı"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bilqis Süleymanın sarayına tabe oldu",
+        "Firon və ordusu dənizdə boğuldu",
+        "Ad qövmü şiddətli bir küləklə məhv edildi.",
+        "Fironun sehrbazları Musa peyğəmbərə inanırdılar",
+        "Kafirləri böyük bir sel bürüdü"
+      ],
+      "answer": "Bilqis Süleymanın sarayına tabe oldu"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Leħen mill-Għollieq Jaħraq",
+  "intro": "Skopri l-identità ta’ figura profonda li l-vjaġġ tagħha beda b’laqgħa mirakoluża u li d-destin tagħha kien marbut mal-liberazzjoni ta’ poplu maħqur. Dan l-individwu ntgħażel għal kompitu monumentali, fejn iffaċċja sfidi immensi b’appoġġ divin.",
+  "clues": [
+    "Jiena twilidt fi żmien ta’ oppressjoni kbira, fejn it-trabi tal-poplu tiegħi kienu qed jinqatlu.",
+    "Tfuliti tpoġġa f'xmara mill-ġenituri tiegħi, iżda nstabt u trabbejt fid-dar stess tal-oppressur tal-poplu tiegħi.",
+    "Darba ħrabt minn belt wara li bla intenzjoni kkawżajt il-mewt ta' individwu waqt tilwima.",
+    "Irċevejt messaġġ divin u bastun mirakoluż f'post sagru, fejn ġejt ordnat niffaċċja ħakkiem setgħan.",
+    "Ħija nħatar bħala għajnuna għalija fil-missjoni tiegħi, minħabba impediment li deher fid-diskors tiegħi.",
+    "Mexxejt lin-nies tiegħi minn naħa għal oħra ta' baħar miftuħ, naħarbu mill-insegwiment ta' armata tiranna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Yusuf",
+        "Profeta Isa",
+        "Il-Profeta Musa",
+        "Profeta Nuh",
+        "Profeta Ibrahim"
+      ],
+      "answer": "Il-Profeta Musa"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Snin ta’ nixfa li jdumu",
+        "Il-Bini tal-Arka",
+        "Jikkonfronta lill-Fargħun u s-sħaħar tiegħu",
+        "Mitfugħ f’forn tan-nar",
+        "Il-qerda tan-nies ta’ Thamud"
+      ],
+      "answer": "Jikkonfronta lill-Fargħun u s-sħaħar tiegħu"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-Kaaba",
+        "Il-Ħajt tal-Ħadid",
+        "L-Istaff",
+        "Il-Vapur ta’ Nuh",
+        "Iċ-Ċirku ta' Sulaiman"
+      ],
+      "answer": "L-Istaff"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-belt ta’ Sodoma ġiet imwaqqfa",
+        "In-nies inbelgħu mill-art",
+        "L-għargħar kbir ħakem l-art",
+        "Il-Fargħun u l-armata tiegħu għerqu",
+        "Is-swar tal-belt waqgħu minn għajta"
+      ],
+      "answer": "Il-Fargħun u l-armata tiegħu għerqu"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

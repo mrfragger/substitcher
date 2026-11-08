@@ -1,0 +1,61 @@
+{
+  "title": "Quyunun dərinliklərindən",
+  "intro": "Gənc bir ruhun səyahəti səma cisimlərinin ehtiramla baş əydiyini göstərən güclü bir görüntü ilə başladı. Bu fərdin həyatı ən yaxınlarının ən dərin xəyanəti, ardınca illərlə köləlik və haqsız yerə həbslə yadda qaldı. Lakin sarsılmaz iman və ilahi rəhbərlik sayəsində bu şəxsiyyət ən dərin çuxurdan yüksələrək böyük bir imperiyanın ən güclü insanlarından birinə çevrildi. Allahın bu əlamətdar qulunun kimliyini kəşf edə bilərsinizmi?",
+  "clues": [
+    "Mənə on bir ulduz, günəş və ayın qarşımda səcdə etdiyi görüntü göstərildi.",
+    "Mən valideynlərimin çox sevdiyi övlad idim və bu da qardaşlarımda qısqanclıq yaradırdı.",
+    "Məni öz qardaşlarım tutdular, paltarımı soyundurdular və dərin, qaranlıq bir quyuya atdılar.",
+    "Məni bazarda mal kimi satdılar və vətənimdən uzaqlara apardılar.",
+    "Güclü bir qadın şərəfimi alçaltmağa çalışdı və mən onun təkliflərini rədd etdiyim üçün həbsxanaya atıldım",
+    "Mən yuxu yozmaq qabiliyyəti ilə mübarək oldum və unudulmuş bir məhbusdan Misirin baş nazirinə yüksəldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Yusif peyğəmbər",
+        "Musa peyğəmbər",
+        "Davud peyğəmbər",
+        "Peyğəmbər Əyyub",
+        "Süleyman peyğəmbər"
+      ],
+      "answer": "Yusif peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Öz qardaşları tərəfindən dərin bir quyuya atılmaq",
+        "Dünya miqyasında böyük bir daşqından sağ çıxmaq",
+        "Alovlu sobaya atılır",
+        "Döyüş meydanında nəhəng bir döyüşçü ilə döyüşmək",
+        "Böyük bir balığın udması"
+      ],
+      "answer": "Öz qardaşları tərəfindən dərin bir quyuya atılmaq"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Səhrada dərin, quru bir quyu",
+        "Dağın zirvəsindəki böyük bir taxta gəmi",
+        "İlana çevrilən bir əsa",
+        "Böyük əzəmətə malik möhtəşəm bir taxt",
+        "Bir sapand və beş hamar daş"
+      ],
+      "answer": "Səhrada dərin, quru bir quyu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Misirin baş naziri vəzifəsinə yüksəldi və sevimli ailəsi ilə yenidən qovuşdu",
+        "Böyük bir gəmi tikdi və insanları imana çağırdı",
+        "Bütün bir milləti Misir əsarətindən qurtardı",
+        "Görünməyənlər üzərində bir padşahlıq və hökmranlıq verildi",
+        "Ağır xəstəlik zamanı səbir verildi və sağaldı"
+      ],
+      "answer": "Misirin baş naziri vəzifəsinə yüksəldi və sevimli ailəsi ilə yenidən qovuşdu"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

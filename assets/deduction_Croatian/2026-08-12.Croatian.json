@@ -1,0 +1,61 @@
+{
+  "title": "Izaslanici milosrđa i moći",
+  "intro": "Zamislite tiho poslijepodne koje prekida dolazak nepoznatih putnika. Njihov izgled je običan, ali njihova svrha je sve samo ne to. Nose božansku poruku koja će promijeniti tijek dvaju naroda, donoseći smijeh u neplodni dom i teror u grešni grad. Tko su ti tajanstveni posjetitelji?",
+  "clues": [
+    "Poslani smo odanom Allahovom slugi, poznatom po svom bezgraničnom gostoprimstvu.",
+    "Stigli smo prerušeni u strance, a ipak je naš domaćin osjetio nešto nadzemaljsko u našoj prisutnosti.",
+    "Donijeli smo vijesti koje su nasmijale jednu stariju ženu u nevjerici, udarajući se u lice od čuđenja.",
+    "Imali smo zadatak zaštititi pravednu obitelj dok istovremeno uništavamo grad ogrezlog u korupciji.",
+    "Odbili smo sudjelovati u ponuđenom obroku, što je samo produbilo sumnju našeg domaćina.",
+    "Tek prije odlaska otkrili smo svoju pravu prirodu, rekavši: 'Mi smo, zaista, poslanici Gospodara tvoga.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko smo mi?",
+      "options": [
+        "Abrahamovi gosti",
+        "Isusovi učenici",
+        "Pratitelji iz pećine",
+        "Abrahina vojska",
+        "Glasnici Ya-Sina"
+      ],
+      "answer": "Abrahamovi gosti"
+    },
+    "trial": {
+      "label": "Naša misija",
+      "options": [
+        "Da bi se iskušala Abrahamova vjera u vezi s njegovim sinom",
+        "Da bi Abrahamu dostavio Sveto pismo",
+        "Da objavi rođenje Izaka i uništenje Lotovog naroda",
+        "Da vodi Abrahama do Kabe",
+        "Da spasi Abrahama iz vatre"
+      ],
+      "answer": "Da objavi rođenje Izaka i uništenje Lotovog naroda"
+    },
+    "location": {
+      "label": "Mjesto pojavljivanja",
+      "options": [
+        "U zemlji Egiptu",
+        "U gradu Uru",
+        "U Abrahamovom domu",
+        "U rajskom vrtu",
+        "Na bunaru Zemzam"
+      ],
+      "answer": "U Abrahamovom domu"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Abraham je postao kralj",
+        "Abraham je sagradio Kabu",
+        "Sara je rodila Izaka, a Lotov narod je uništen",
+        "Abraham je migrirao u Palestinu",
+        "Abrahamov narod je spašen od velike poplave"
+      ],
+      "answer": "Sara je rodila Izaka, a Lotov narod je uništen"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

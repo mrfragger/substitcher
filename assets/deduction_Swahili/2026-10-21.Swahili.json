@@ -1,0 +1,61 @@
+{
+  "title": "Mjumbe Aliyewakabili Waabudu Masanamu",
+  "intro": "Katika wakati ambapo ibada ilikuwa imepotea, mjumbe alisimama na wito wa kurudi kwenye ibada ya Mola wa walimwengu. Mtu huyu alisimama imara dhidi ya watu waliojikita katika ibada ya mungu wa uongo, akiwakumbusha Muumba wao wa kweli na Mola wa mababu zao. Lakini watu hawakujali na walikataa onyo, wakifunga hatima yao wenyewe. Ni nani huyu mwitaji asiyeyumbayumba?",
+  "clues": [
+    "Nilitumwa kwa watu waliokuwa wameiacha njia ya Mungu Mmoja wa Kweli.",
+    "Niliwauliza watu wangu, \"Je, hamtamwogopa Mwenyezi Mungu?\"",
+    "Niliwaagiza waache ibada yao ya mungu wa uongo anayeitwa Baali.",
+    "Watu wangu walikataa wito wangu na wakaendelea na ibada yao ya sanamu.",
+    "Kwa sababu ya kukataa kwao, hakika wataletwa kwa ajili ya adhabu.",
+    "Mola wangu Mlezi alinipa amani na ukumbusho uliobarikiwa miongoni mwa vizazi vilivyokuja baadaye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ilyas",
+        "Nabii Yahya",
+        "Nabii Dhul-Kifl",
+        "Nabii Yusufu",
+        "Nabii Shu'ayb"
+      ],
+      "answer": "Nabii Ilyas"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Aliwaalika watu wake kumwacha Baali",
+        "Alijenga safina ili kuwaokoa waumini",
+        "Alitupwa motoni",
+        "Alimkimbia Farao mdhalimu",
+        "Nilipiga mwamba ili kutoa maji"
+      ],
+      "answer": "Aliwaalika watu wake kumwacha Baali"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Baali",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baali"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Amani na ukumbusho wenye baraka",
+        "Imemezwa na ardhi",
+        "Imeharibiwa na dhoruba kali",
+        "Imegeuka kuwa jiwe",
+        "Kuzama baharini"
+      ],
+      "answer": "Amani na ukumbusho wenye baraka"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Eşi Benzeri Olmayan Bir Günahın Habercisi",
+  "intro": "Kur'an'daki bazı kıssalar, bir toplumun ne kadar yozlaşmış bir hale gelebileceğini ortaya koymaktadır. Bu elçi, daha önce hiçbir milletin girmediği bir sapkınlığa batmış bir halka yalvararak yalnız başına durdu. Yıllarca süren uyarılara rağmen, kalpler katılaşmış kaldı ve ilahi hüküm en korkunç şekilde geldi. Allah'ın bu yüce elçisini tanıyabilir misiniz?",
+  "clues": [
+    "Ben, daha önce hiçbir milletin işlemediği bir sapkınlığın pençesinde olan bir halka uyarıcı olarak gönderildim.",
+    "Halkım bana yalancı dedi ve beni ve takipçilerimi ülkeden kovmakla tehdit etti.",
+    "Evime seçkin genç erkekler geldi ve onların güvenliği konusunda derin bir endişe duydum.",
+    "Halkım, misafirlerimi onlara teslim etmemi istedi; oysa bu ziyaretçilerin Allah tarafından gönderilmiş melekler olduğundan habersizdiler.",
+    "Eşim benim inancımı paylaşmadı ve mahkumların yanında kalmayı tercih etti.",
+    "Şehirlerimiz yerle bir olurken, yıkıcı bir taş yağmuru yağdığı sırada kızlarımla birlikte şafak vakti kurtarıldım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Lut",
+        "Peygamber Şuayb",
+        "Peygamber Hud",
+        "Peygamber Nuh",
+        "Peygamber Salih"
+      ],
+      "answer": "Peygamber Lut"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Dünyayı yutan büyük bir tufan.",
+        "Uzun süreli rahatsızlıktan kaynaklanan görme kaybı",
+        "Tanrı olduğunu iddia eden bir tiran",
+        "Alev alev yanan bir ateşe atılmak",
+        "Saygıdeğer konukları teslim etmeye zorlanmak"
+      ],
+      "answer": "Saygıdeğer konukları teslim etmeye zorlanmak"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Elle inşa edilmiş büyük bir gemi.",
+        "Denizi ikiye ayıran bir asa",
+        "Mucizevi bir dişi deve",
+        "Alev alev yanan bir yangın",
+        "Devrilmiş şehirler"
+      ],
+      "answer": "Devrilmiş şehirler"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "İnananları kovalarken boğuldu.",
+        "Ateş fırınından yara almadan kurtuldu",
+        "Canlı olarak göklere yükseltildi",
+        "Aile büyük selde hayatını kaybetti.",
+        "Sadakatsiz bir eş dışında aile kurtarıldı."
+      ],
+      "answer": "Sadakatsiz bir eş dışında aile kurtarıldı."
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

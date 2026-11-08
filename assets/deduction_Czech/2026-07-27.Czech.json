@@ -1,0 +1,61 @@
+{
+  "title": "Oběť, která změnila osud",
+  "intro": "V raných dobách lidstva nabízela duše dar s čistými úmysly. Přesto se ve stínu přijetí skrývala závist. Objevte příběh této postavy, jejíž zbožnost a tragický konec jsou zvěčněny v božském zjevení.",
+  "clues": [
+    "Patřil jsem k úplně prvním generacím lidstva.",
+    "Předložil jsem svému Pánu oběť a ta byla přijata s přízní.",
+    "Oběť mého bratra byla odmítnuta a závist zatemnila jeho srdce.",
+    "Řekl jsem mu: „Jestliže po mně vztáhneš ruku, abys mě zabil, já ji po tobě nezabiju. Vždyť se bojím Alláha, Pána světů.“",
+    "Stal jsem se obětí první vraždy na zemi.",
+    "Má krev křičela a já jsem byl prvním mučedníkem nevinnosti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Habil (Ábel)",
+        "Qabil (Kain)",
+        "Muž z Ya-Sinu",
+        "Samiři",
+        "Lukmán"
+      ],
+      "answer": "Habil (Ábel)"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Jeho oběť byla přijata, což způsobilo závist jeho bratra a jeho vraždu.",
+        "Byl vhozen do rozpálené pece, ale vyšel z ní bez úhony",
+        "Pod božským vedením postavil mohutnou loď",
+        "Spolkla ho velká ryba a zůstal ve tmě.",
+        "Vedl svůj lid rozděleným mořem"
+      ],
+      "answer": "Jeho oběť byla přijata, což způsobilo závist jeho bratra a jeho vraždu."
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Přijatá nabídka",
+        "Hůl proměňující se v hada",
+        "Velbloudice jako božské znamení",
+        "Dudek přináší zprávy",
+        "Uctívané zlaté tele"
+      ],
+      "answer": "Přijatá nabídka"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "První vražda v historii; jeho bratr byl odsouzen",
+        "Pohlcen zemí spolu s jeho bohatstvím",
+        "Proměněni v opice kvůli přestupku",
+        "Zničen prudkým, ledovým větrem",
+        "Utopen ve velké povodni jako trest"
+      ],
+      "answer": "První vražda v historii; jeho bratr byl odsouzen"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

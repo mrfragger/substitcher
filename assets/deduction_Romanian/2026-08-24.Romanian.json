@@ -1,0 +1,61 @@
+{
+  "title": "Ascultătorii ascunși care au crezut",
+  "intro": "În liniștea unei adunări sacre, o adunare remarcabilă a sosit dintr-un tărâm nevăzut. Atrași de șoapte despre ceva minunat, au ascultat recitarea care avea să le pecetluiască soarta pentru totdeauna. Mărturia lor rămâne una dintre cele mai unice din scriptura divină.",
+  "clues": [
+    "Suntem ființe dintr-un tărâm nevăzut de majoritatea și am venit ca grup.",
+    "Ne-am îndreptat spre o adunare pentru a auzi ceva remarcabil.",
+    "Când am ajuns, am ascultat o recitare care ne-a lăsat uimiți.",
+    "Am recunoscut deschis că unii dintre noi sunt drepți și alții nu.",
+    "Știam că nu putem scăpa de hotărârea divină pe pământ, nici prin zbor spre cer.",
+    "Când am auzit îndrumarea, am crezut în ea; cine crede în Domnul său nu se va teme de pierdere sau povară."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Un grup de djini",
+        "Oamenii din Iram",
+        "Oamenii din Tubba'",
+        "Imperiul Roman",
+        "Tribul Quraysh"
+      ],
+      "answer": "Un grup de djini"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Ascultând o recitare sacră",
+        "Construind piloni semeți în orașul nostru",
+        "Vânând o cămilă magnifică",
+        "Fiind distruși pentru că ne-am ucis profeții",
+        "Înmulțirea bogăției peste măsură"
+      ],
+      "answer": "Ascultând o recitare sacră"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O adunare de recitare sacră",
+        "Un oraș cu stâlpi înalți (Iram)",
+        "O fântână în deșert",
+        "Un palat grandios de aur",
+        "O peșteră sacră în munți"
+      ],
+      "answer": "O adunare de recitare sacră"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Am crezut și ne-am avertizat poporul",
+        "Distrus de o explozie puternică din cer",
+        "Pedepsit de un vânt arzător și distructiv",
+        "I s-a acordat o imensă bogăție și putere",
+        "A rămas neclintit în necredință"
+      ],
+      "answer": "Am crezut și ne-am avertizat poporul"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

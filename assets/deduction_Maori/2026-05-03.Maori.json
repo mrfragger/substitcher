@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kairangahau e Moe Ana i te Pono",
+  "intro": "Whakaarohia tētahi wā i whakahēngia ai te whakapono, ā, i whiriwhiria e tētahi rōpū wairua te whakapono pumau, kaua te whakamarie o te ao. I te aroaro o tētahi kōwhiringa whakamataku, ka rapu piringa rātou, ka tīmata i tētahi haerenga i arahi atu ai ki tētahi moe tino whakamīharo. Ko tā rātou kōrero he tohu mō te tiakitanga atua me te mana o te whakapono ki te tukino. Ka taea e koe te kite i te tuakiri o ēnei tāngata whakamiharo?",
+  "clues": [
+    "He whakaminenga iti mātou, i honoa e te whakapono hohonu ki te Kaihanga Kotahi.",
+    "I ora tātou i te wā i tono ai tetahi rangatira kaha kia karakiahia tētahi atu mea i tua atu i a Allah.",
+    "Hei tiaki i tō mātou whakapono, i whakatau mātou ki te whakarērea ō mātou kāinga, ka rere atu i te tukino.",
+    "I haere tahi mātou i tā mātou haerenga me tētahi hoa pono, he mea hanga nō te whenua.",
+    "I kitea e mātou he piringa i tētahi wāhi mokemoke, ā, i reira ka meinga mātou e Atua kia moe roa, kia hohonu.",
+    "I tō mātou oho ake, i whakapono mātou he rā, he wāhanga rānei o te rā kua pahemo, engari kua tino pahemo ngā rautau."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te Iwi o te Waikeri",
+        "Te Iwi o Thamud",
+        "Te Iwi o Saba'",
+        "Te Iwi o te Ana",
+        "Te Iwi o Madyan"
+      ],
+      "answer": "Te Iwi o te Ana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "E whakamatautauria ana ki te whenua pakoko",
+        "Te tūtaki ki tētahi waipuke nui",
+        "Te rapu piringa mai i tētahi rangatira nanakia",
+        "Te maka ki roto i te ahi e mura ana",
+        "Te wero i te makutu a te tohunga makutu"
+      ],
+      "answer": "Te rapu piringa mai i tētahi rangatira nanakia"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He whare rangatira nui",
+        "He kaipuke/āraka",
+        "He puna hohonu",
+        "He ana",
+        "He maunga teitei"
+      ],
+      "answer": "He ana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te whakawhiwhinga i tētahi rangatiratanga",
+        "He moe whakamiharo mō ngā rautau",
+        "Te horomia e te whenua",
+        "Te whakaoranga mai i te tupuhi whakangaro",
+        "Te whakarato i tētahi tēpu rangi"
+      ],
+      "answer": "He moe whakamiharo mō ngā rautau"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

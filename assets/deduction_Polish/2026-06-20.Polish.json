@@ -1,0 +1,61 @@
+{
+  "title": "Wygnaniec z ogrodu",
+  "intro": "Tajemnicza istota niegdyś zamieszkiwała najwyższe rzędy stworzenia, bliżej Boskości, niż wielu mogłoby pojąć. Jednak pycha zapuściła korzenie, a jeden akt buntu zmienił bieg istnienia. Teraz ta istota błąka się jak zaprzysiężony wróg, szepcząc i knując, aż nadejdzie obiecany dzień. Czy potrafisz odkryć tożsamość tej upadłej istoty?",
+  "clues": [
+    "Kiedyś należałem do tych, którzy są najbliżej obecności Boga, wywyższeni ponad większość stworzenia.",
+    "Zostałem stworzony z gorącego żywiołu, nie z ziemi czy gliny.",
+    "Gdy nakazano mi pokłonić się nowemu stworzeniu, odmówiłem — powodowany tym, co uważałem za moją wyższość.",
+    "Zostałem wygnany i przeklęty, ale ostatecznie udzielono mi odroczenia wykonania wyroku do wyznaczonego, znanego czasu.",
+    "Przyrzekłem sobie, że zwiedzę tylu, ilu tylko zdołam, atakując potomstwo Adama ze wszystkich stron.",
+    "Jestem jawnym, zadeklarowanym wrogiem całej ludzkości, zawsze knującym i szepczącym, aż do wyznaczonego końca."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Prorok Ilyas",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Próba / Wydarzenie",
+      "options": [
+        "Odmowa oddania pokłonu Adamowi",
+        "Zbudowanie złotego cielca, którego ludzie będą czcić",
+        "Nauczanie czarów ludu Babilonu",
+        "Rozdzielenie morza laską",
+        "W mgnieniu oka niosąc tron ​​Królowej Saby"
+      ],
+      "answer": "Odmowa oddania pokłonu Adamowi"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Ogród Eden",
+        "Góra Tur",
+        "Studnia Rassa",
+        "Pałac Faraona",
+        "Jaskinia Śpiących"
+      ],
+      "answer": "Ogród Eden"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Odroczenie udzielone do Dnia Sądu",
+        "Utonął w morzu z armią",
+        "Pochowany żywcem pod walącym się pałacem",
+        "Przekształcony w małpę lub małpę",
+        "Podniesiony do wyższej rangi"
+      ],
+      "answer": "Odroczenie udzielone do Dnia Sądu"
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

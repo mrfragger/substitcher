@@ -1,0 +1,61 @@
+{
+  "title": "El servent elevat d'Al·là",
+  "intro": "Sents rumors d'una figura de l'antiguitat, un servent d'Al·là que va ser elevat a una posició per sobre del que era ordinari. Aquest individu era conegut per la seva paciència inquebrantable i la seva veracitat absoluta, i va ser enviat a un poble que s'havia allunyat del missatge. Qui és aquesta ànima exaltada?",
+  "clues": [
+    "Vaig ser escollit per Al·là com a profeta i sóc esmentat a l'Alcorà.",
+    "Era conegut per la meva paciència i sinceritat, qualitats que Al·là lloa.",
+    "Vaig cridar el meu poble a adorar l'Únic Déu, però molts em van rebutjar.",
+    "Al·là va elevar la meva posició i em va ser concedit un rang elevat.",
+    "Sovint se'm menciona juntament amb altres profetes com Ismail i Dhul-Kifl.",
+    "Al·là diu de mi: «I el vam elevar a una posició elevada.» (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Idris",
+        "Profeta Elies",
+        "Profeta Dhu al-Kifl",
+        "Profeta Al-Yasa",
+        "Profeta Hud"
+      ],
+      "answer": "Profeta Idris"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va cridar a la gent a adorar Al·là",
+        "Va construir l'arca",
+        "Va lluitar contra el faraó",
+        "Va ser provat amb malaltia greu",
+        "Va ser llançat al foc"
+      ],
+      "answer": "Va cridar a la gent a adorar Al·là"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Rang elevat/estació elevada",
+        "L'arca",
+        "El personal",
+        "El foc",
+        "El pou"
+      ],
+      "answer": "Rang elevat/estació elevada"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Elevat a un alt estatus",
+        "Ofegat a la inundació",
+        "Engolit per una balena",
+        "Salvat del foc",
+        "Es va convertir en rei"
+      ],
+      "answer": "Elevat a un alt estatus"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

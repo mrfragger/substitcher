@@ -1,0 +1,61 @@
+{
+  "title": "L'escartat del vedèl d'aur",
+  "intro": "Una figura mencionada dins l'Alcoran menèt una granda multitud a la desviacion pendent l'abséncia d'un nòble profèta. Quicòm fabricat d'aur capturèt los còrs d'una nacion entièra — mas l'istòria d'aquel individú s'acaba dins la solitud e una estranha malediccion. Qual poiriá èsser aquel escartat?",
+  "clues": [
+    "Emergiguèri pendent l'abséncia d'un grand profèta qu'èra montat per recebre l'orientacion divina.",
+    "Faguèri una granda multitud s'escartar amb quicòm que faguèri amb mas pròprias mans.",
+    "La creacion daurada que produsiguèri semblava aver de vida, en produsent de sons que fascinavan los que la seguissián.",
+    "Afirmèri d'aver vist çò que los autres podián pas percebre — un agach dins l'invisible.",
+    "Tirèri quicòm de las pistas del messatgièr divin e lo getèri dins de metal fondut.",
+    "Èri condemnat a errar sol, amb una malediccion unica que cap podiá tocar ma pèl ni ieu tocar la lor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Samiri",
+        "Aman",
+        "Faraon (Fir'awn)",
+        "Abu Lahab",
+        "Profèta Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Creèt un vedèl d'aur per l'adoracion",
+        "Bastiguèt una torre atenhent los cèls",
+        "Los mascièrs d'Egipte desafiats",
+        "Menèt una armada amb de bèstias volantas",
+        "Fendir la luna coma pròva de profecia"
+      ],
+      "answer": "Creèt un vedèl d'aur per l'adoracion"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Lo vedèl d'aur",
+        "Un baston que se transformèt en sèrp",
+        "Un arbust ardent sus una montanha",
+        "Una arca pausada sus un puèg",
+        "Una trincheta emplida de fuòc ardent"
+      ],
+      "answer": "Lo vedèl d'aur"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Exiliat, enebit d'èsser tocat o de tocar los autres",
+        "Afogat dins la mar amassa amb una armada",
+        "Cremat viu per aver refusat la fe",
+        "Tustat per un vent violent e rugissent",
+        "Perdonat e elevat a una estacion nauta"
+      ],
+      "answer": "Exiliat, enebit d'èsser tocat o de tocar los autres"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

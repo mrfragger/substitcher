@@ -1,0 +1,61 @@
+{
+  "title": "Il tenace cercatore della verità",
+  "intro": "In un'epoca avvolta dall'ignoranza e dal culto di false divinità, si è dispiegato un profondo cammino di fede. Quest'individuo ha sfidato le norme della sua società, cercando l'Unico Vero Creatore con incrollabile convinzione. Preparatevi a scoprire l'identità di un'anima la cui eredità continua a ispirare milioni di persone.",
+  "clues": [
+    "Ho interrogato i corpi celesti, cercando il vero Signore che crea e sostiene ogni cosa.",
+    "Mi fu comandato di lasciare la mia patria, per intraprendere un viaggio verso una terra benedetta da Allah.",
+    "Ho sfidato gli idoli del mio popolo, affrontando direttamente la loro futilità distruggendoli.",
+    "Sono stato gettato in un fuoco ardente dal mio popolo, eppure per ordine di Allah è diventato fresco e pacifico per me.",
+    "Sono stato messo alla prova con l'ordine di sacrificare il mio amato primogenito, una prova di sottomissione assoluta.",
+    "Io, insieme a mio figlio, abbiamo posto le fondamenta della prima Casa di Culto sulla Terra, un santuario per tutta l'umanità."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Nuh",
+        "Il profeta Yusuf",
+        "Profeta Salih",
+        "Profeta Ibrahim",
+        "Profeta Isa"
+      ],
+      "answer": "Profeta Ibrahim"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Il grande diluvio",
+        "La divisione del mare",
+        "La distruzione di Thamud",
+        "Il comando di sacrificare un figlio",
+        "Il viaggio attraverso il deserto con l'Arca"
+      ],
+      "answer": "Il comando di sacrificare un figlio"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Lo staff",
+        "La montagna di Tur",
+        "L'Arca",
+        "La Kaaba",
+        "Il vitello d'oro"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Divenne sovrano dell'Egitto",
+        "Il suo popolo annegò",
+        "Gli fu concessa la saggezza e una stirpe retta.",
+        "È stato inghiottito da una balena",
+        "La sua città fu rovesciata"
+      ],
+      "answer": "Gli fu concessa la saggezza e una stirpe retta."
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "L'énigme du trône lointain",
+  "intro": "Un monarque puissant, doté d'un pouvoir extraordinaire, dut faire face à une épreuve singulière impliquant une reine venue d'une contrée lointaine. Cherchant à manifester sa puissance et sa sagesse divines, il déclencha un événement incroyable qui défia les lois du temps et de l'espace. Saurez-vous reconstituer les détails de ce miracle ?",
+  "clues": [
+    "Un souverain se voyait octroyer un pouvoir immense, incluant le contrôle des êtres invisibles et la capacité de commander aux vents.",
+    "Ce souverain apprit l'existence d'une reine riche qui vénérait le soleil et décida de l'inviter à la cour.",
+    "Avant l'arrivée de la reine, le souverain avait exprimé le désir de faire venir son magnifique siège du pouvoir de son lointain royaume.",
+    "Un puissant djinn proposa de récupérer l'objet avant que le souverain ne puisse se lever de son conseil.",
+    "Cependant, une personne possédant une connaissance approfondie des Saintes Écritures proposa une récupération encore plus rapide, accomplissant la tâche en un clin d'œil.",
+    "À son arrivée, le souverain ordonna que l'objet soit modifié afin de tester l'intellect et la perception de la reine lorsqu'elle atteindrait enfin le palais."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Prophète/Personne",
+      "options": [
+        "Le prophète Moïse",
+        "Prophète David",
+        "Le prophète Ibrahim",
+        "Prophète Yusuf",
+        "Le prophète Sulayman"
+      ],
+      "answer": "Le prophète Sulayman"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "La séparation de la mer",
+        "La patience dans l'adversité",
+        "La construction de la Kaaba",
+        "L'épreuve des jardins",
+        "Amener le trône de la reine"
+      ],
+      "answer": "Amener le trône de la reine"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "L'Arche",
+        "Le personnel",
+        "La montagne",
+        "Le puits",
+        "Le Trône"
+      ],
+      "answer": "Le Trône"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Un grand sacrifice",
+        "Un royaume établi",
+        "Un peuple puni",
+        "Une nouvelle alliance",
+        "La soumission de la Reine à Allah"
+      ],
+      "answer": "La soumission de la Reine à Allah"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

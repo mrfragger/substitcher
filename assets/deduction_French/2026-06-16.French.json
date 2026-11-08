@@ -1,0 +1,61 @@
+{
+  "title": "La voix qui appelait à la justice",
+  "intro": "Dans l'antique contrée de Madian, où le commerce prospérait et où les caravanes sillonnaient les vastes déserts, un prophète d'Allah se leva parmi un peuple égaré du droit chemin. Ce serviteur d'Allah fut envoyé avec une mission divine qui mettrait à l'épreuve la foi de toute une communauté. À travers les épreuves de patience et de persévérance, cette âme demeura inébranlable, délivrant un avertissement qui résonnerait à travers l'histoire. Saurez-vous percer le mystère de ce messager inébranlable ?",
+  "clues": [
+    "J'ai été choisi par Allah pour guider un peuple qui avait oublié les principes d'équité et d'honnêteté dans ses relations.",
+    "J'ai délivré un message appelant ma communauté à n'adorer que Dieu et à dire la vérité en toutes circonstances.",
+    "J'ai notamment mis en garde contre la pratique corrompue consistant à consommer des richesses par des moyens illégaux et j'ai souligné l'importance de systèmes de poids et mesures justes.",
+    "Mon peuple a répondu à mes avertissements par des moqueries, menaçant de m'expulser de leurs terres si je persistais dans mon message.",
+    "Malgré leur hostilité, je suis resté résolu dans ma mission, déclarant que ma récompense ne dépend que d'Allah.",
+    "Mon peuple fut frappé par un châtiment dévastateur tandis que j'étais sauvé par la miséricorde de mon Seigneur, ma mission étant accomplie."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Prophète Shu'aib",
+        "Prophète Hud",
+        "Prophète Salih",
+        "Le prophète Lout",
+        "Le prophète Muhammad ﷺ"
+      ],
+      "answer": "Prophète Shu'aib"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Se retrouver face à un peuple qui rejetait la vérité et menaçait de châtier quiconque transmettait le message d'Allah",
+        "Être témoin du Grand Déluge qui a détruit les incrédules d'une nation",
+        "Recevoir une révélation en traversant la vallée de 笃",
+        "L'épreuve de la foi lorsqu'un dirigeant oppressif a tenté de faire taire l'appel au monothéisme",
+        "Une nation implore la pluie en pleine sécheresse après des années de désobéissance"
+      ],
+      "answer": "Se retrouver face à un peuple qui rejetait la vérité et menaçait de châtier quiconque transmettait le message d'Allah"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le pays de Madian, où mon peuple pratiquait le commerce.",
+        "Le pont d'un grand navire qui a sauvé les croyants d'une inondation catastrophique",
+        "Une grotte dans une montagne rocheuse où sept jeunes gens ont cherché refuge pour échapper à la persécution",
+        "La ville sainte de Jérusalem où j'étais emmené pour un voyage nocturne",
+        "Un palais à Saba où un grand royaume se préparait à être témoin d'un signe divin"
+      ],
+      "answer": "Le pays de Madian, où mon peuple pratiquait le commerce."
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Mon peuple fut frappé d'un châtiment terrible tandis que j'étais sauvé, car j'avais accompli mon devoir envers Allah.",
+        "Les mécréants furent transformés en singes pour avoir violé les limites sacrées d'Allah.",
+        "Mes ennemis se sont convertis à la foi après avoir été témoins d'une transformation miraculeuse.",
+        "La terre fut bénie de pluies abondantes et de prospérité après que le peuple se fut repenti.",
+        "J'ai été martyrisé par mon propre peuple pour avoir refusé d'abandonner ma mission"
+      ],
+      "answer": "Mon peuple fut frappé d'un châtiment terrible tandis que j'étais sauvé, car j'avais accompli mon devoir envers Allah."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

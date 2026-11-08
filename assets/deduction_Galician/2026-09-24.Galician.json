@@ -1,0 +1,61 @@
+{
+  "title": "O soberano que esixiu a divindade",
+  "intro": "Un gobernante poderoso e arrogante cría que ninguén estaba por riba do seu trono. Perseguiron un grupo que fuxía a través dunha vasta masa de auga, só para atopar un final dramático. A historia deste soberano resoa en moitas pasaxes do Corán, servindo de advertencia para todos.",
+  "clues": [
+    "Eu era un gobernante poderoso que cría que ningunha autoridade superaba a miña nas terras que gobernaba.",
+    "Tiña un visir de confianza chamado Amán que me axudou a levar a cabo grandes proxectos arquitectónicos.",
+    "Convoquei os mellores magos da miña terra para desafiar os sinais dun mensaxeiro que se opuxo a min.",
+    "Negueime a deixar marchar un pobo escravizado dentro do meu reino, a pesar das pragas e as claras advertencias.",
+    "Perseguínos a través dun vasto mar con todo o meu exército e os meus carros.",
+    "Ese mesmo mar pechouse sobre min e as miñas forzas, afogándonos a todos mentres cruzaban a salvo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Fir'awn (Faraón)",
+        "Namrud",
+        "Abu Lahab",
+        "Amán",
+        "Abu Jahl"
+      ],
+      "answer": "Fir'awn (Faraón)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Pragas e enfrontamento con Musa (Moisés)",
+        "Construíndo unha arca antes dun gran diluvio",
+        "Batalla contra Jalut no val",
+        "Ser tragado por unha balea",
+        "Defendendo os pesos do comercio xusto"
+      ],
+      "answer": "Pragas e enfrontamento con Musa (Moisés)"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Torres e estacas altas",
+        "Unha gran arca de madeira",
+        "Un becerro de ouro",
+        "Un bastón que se converteu nunha serpe",
+        "Unha balea enorme"
+      ],
+      "answer": "Torres e estacas altas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado no mar co exército",
+        "Salvados pola misericordia e paciencia de Alá recompensados",
+        "Reunidos coa familia despois de anos de dificultades",
+        "Tragado pola terra",
+        "Queimado nun incendio"
+      ],
+      "answer": "Afogado no mar co exército"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

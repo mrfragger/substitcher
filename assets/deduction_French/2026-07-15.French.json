@@ -1,0 +1,61 @@
+{
+  "title": "La retraite solitaire",
+  "intro": "Dans les annales de la grâce divine figure une âme d'une pureté incomparable, mise à l'écart des siens pour chercher la solitude dans une voie sacrée. Ils ignoraient que cette retraite engendrerait un signe pour tous les mondes, une épreuve de foi dont on parlerait pour l'éternité.",
+  "clues": [
+    "Avant même ma naissance, j'étais voué à une vie au service des autres.",
+    "J'ai été placé sous la tutelle d'un noble prophète.",
+    "J'ai été nourri par des dons d'Allah qui ont émerveillé mon tuteur.",
+    "Je me suis retiré de ma famille pour me réfugier dans un lieu à l'est.",
+    "Un ange m'est apparu sous la forme d'un homme parfait, m'annonçant la naissance d'un fils pur.",
+    "À mon retour avec mon nouveau-né, mon peuple m'accusa, mais le nourrisson prit ma défense."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Marie (Marie)",
+        "Asiyah (épouse du Pharaon)",
+        "Hajar (mère d'Ismaïl)",
+        "Sarah (épouse d'Ibrahim)",
+        "La mère de Moussa"
+      ],
+      "answer": "Marie (Marie)"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Conception et naissance miraculeuses d'un fils",
+        "Être jeté dans le feu",
+        "Être avalé par un poisson géant",
+        "Construire une grande arche",
+        "Traverser la mer"
+      ],
+      "answer": "Conception et naissance miraculeuses d'un fils"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Un lieu isolé à l'est",
+        "Le buisson ardent",
+        "La mer Rouge",
+        "Le rocher d'où jaillissait l'eau",
+        "La baleine"
+      ],
+      "answer": "Un lieu isolé à l'est"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Un nourrisson a pris la défense de sa mère.",
+        "La mer s'est séparée",
+        "Le feu s'est refroidi et est devenu sûr.",
+        "La baleine a vomi sur le rivage",
+        "L'arche s'est posée sur une montagne"
+      ],
+      "answer": "Un nourrisson a pris la défense de sa mère."
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

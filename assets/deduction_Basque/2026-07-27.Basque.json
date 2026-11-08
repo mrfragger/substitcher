@@ -1,0 +1,61 @@
+{
+  "title": "Patua Aldatu Zuen Eskaintza",
+  "intro": "Gizateriaren lehen egunetan, arima batek asmo garbiekin opari bat eskaintzen zuen. Hala ere, inbidia ezkutatzen zen onarpenaren itzalean. Ezagutu jainkozko errebelazioan hilezkortu diren jainkozaletasuna eta amaiera tragikoa dituen pertsonaia honen istorioa.",
+  "clues": [
+    "Gizateriaren lehenengo belaunaldien artean egon nintzen.",
+    "Eskaintza bat aurkeztu nion nire Jaunari, eta faborez onartua izan zen.",
+    "Nire anaiaren eskaintza baztertu egin zuten, eta inbidiak ilundu egin zion bihotza.",
+    "Esan nion: «Hiltzeko eskua luzatzen badidazu, ez dut eskua luzatuko zu hiltzeko; egia esan, Ala beldur naiz, munduen Jauna».",
+    "Lurreko lehen hilketa ekintzaren biktima bihurtu nintzen.",
+    "Nire odolak oihu egin zuen, eta ni izan nintzen errugabetasunaren lehen martiria."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Kain)",
+        "Ya-Sineko gizona",
+        "Samiriarrak",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Bere eskaintza onartu zuten, anaiaren inbidia eraginez eta hil egin zuten.",
+        "Labe sutan sartu zuten, baina kalterik gabe atera zen",
+        "Jainkozko gidaritzapean itsasontzi erraldoi bat eraiki zuen",
+        "Arrain handi batek irentsi zuen eta iluntasunean geratu zen",
+        "Itsaso zatitu batetik gidatu zuen bere herria"
+      ],
+      "answer": "Bere eskaintza onartu zuten, anaiaren inbidia eraginez eta hil egin zuten."
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Onartutako eskaintza bat",
+        "Suge bihurtzen den makila",
+        "Gamelu eme bat jainkozko seinale gisa",
+        "Upupa berriak ekartzen",
+        "Urrezko txahal bat gurtzen"
+      ],
+      "answer": "Onartutako eskaintza bat"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Historiako lehen hilketa; bere anaia kondenatu zuten",
+        "Lurrak irentsi zuen bere aberastasunarekin batera",
+        "Tximino bihurtu ziren transgresioagatik",
+        "Haize izoztu eta bortitz batek suntsitu zuen",
+        "Zigor gisa uholde handi batean itota"
+      ],
+      "answer": "Historiako lehen hilketa; bere anaia kondenatu zuten"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

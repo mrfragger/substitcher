@@ -1,0 +1,61 @@
+{
+  "title": "Corona Quae Caelos Provocavit",
+  "intro": "In porticibus regnorum antiquorum, nomen unius rectoris factum est symbolum tyrannidis et arrogantiae. Cum humilis servus Dei advenisset signa indubitabilia ferens, hic potens princeps veritati se dedere recusavit. Hodie, munus vestrum est hunc personam legendariam, cuius dominium corruit et cuius fatum sub undis signatum est, identificare.",
+  "clues": [
+    "Ego sum princeps metuendissimus, cuius nomen adhuc per saecula resonat tamquam admonitio.",
+    "Toti populo imperavi ut in vinculis laborarent, monumenta erigerent quae gloriam meam praedicarent.",
+    "Cum nuntius Dei coram me venit cum signis indubitabilibus, recusavi me inclinare et id magiam appellavi.",
+    "Decrevi necem infantium filiorum inter populum captivum, sperans eorum spiritus conterere antequam surgere possent.",
+    "Ante aulam meam steti et, \"Ego sum summus dominus vester,\" declaravi, adorationem tamquam deum postulans.",
+    "Ministro meo primo iuxta me, structuram altissimam construxi, quae ultra caelos ascendere destinata erat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Pharao (Fire)",
+        "Namrud",
+        "Aman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Pharao (Fire)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Submersio in Mari Rubro",
+        "Camella ad populum Thamud missa",
+        "Magnum diluvium Nuh",
+        "Poena Sociorum Fossae",
+        "Destructio exercitus Abrahae ab avibus"
+      ],
+      "answer": "Submersio in Mari Rubro"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Structura turris cum Haman aedificata",
+        "Arca quae super diluvium navigavit",
+        "Vitulus aureus a Samiri factus",
+        "Solium Bilqis, reginae Sabae",
+        "Spelunca iuvenum dormientium"
+      ],
+      "answer": "Structura turris cum Haman aedificata"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "In mari submersus; corpus ad monitionem servatum",
+        "Exsul et coactus per deserta vagari",
+        "In simias transformati poenae causa",
+        "Vehementi terrae motu percussus",
+        "Pluvia lapidum e caelo adusta"
+      ],
+      "answer": "In mari submersus; corpus ad monitionem servatum"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

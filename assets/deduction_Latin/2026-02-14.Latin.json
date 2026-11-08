@@ -1,0 +1,61 @@
+{
+  "title": "Constructor Obiectorum",
+  "intro": "Per vastas terras, vir potens seriem expeditionum suscepit, immensa auctoritate et opibus donatus. Haec anima communitatibus variis occurrit et singularibus difficultatibus obstitit, vestigium perpetuum in historia et fide per actiones et sapientiam relinquens, dum veram originem virium suarum agnoscit.",
+  "clues": [
+    "Potestas mihi et facultates super omnia datae sunt, et viam secutus sum.",
+    "Iter meum me ad locum solis occidentem duxit, ubi populum inveni.",
+    "Inveni communitatem quae vix sermonem intellegere poterat, inter duos montes habitantem.",
+    "Rogatus sum ut munimentum construerem, non lucri personalis causa, sed ad me contra vim destructivam protegendum.",
+    "Declaravi vim ad hunc ingens murum construendum ab Allah venisse, et eum usque ad tempus promissum stare.",
+    "Nomen meum, saepe 'Bicornis' interpretatum, potestatem meam per terram vel fortasse duas distinctas aetates significat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Musa",
+        "Propheta Sulayman",
+        "Dhul-Qarnayn",
+        "Pharao",
+        "Luqman"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Revelationem accipiens",
+        "Tyranno obviam",
+        "Navem magnam aedificans",
+        "Aedificatio magnae munitionis",
+        "A pisce deglutiri"
+      ],
+      "answer": "Aedificatio magnae munitionis"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca",
+        "Officium",
+        "Ferrea Claustra",
+        "Nilus flumen",
+        "Thronus"
+      ],
+      "answer": "Ferrea Claustra"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Salus a diluvio",
+        "Magnum regnum fieri",
+        "Protectio populo",
+        "Destructio oppressoris",
+        "Sapientia perennis"
+      ],
+      "answer": "Protectio populo"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

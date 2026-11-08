@@ -1,0 +1,61 @@
+{
+  "title": "Buyuk ambitsiyaning ahmoqligi",
+  "intro": "Jasur rejalari kutilmagan va kuchli yakun topgan jamoaviy mavjudotning kimligini kashf etish uchun sayohatga chiqing. Ushbu rivoyat ilohiy qudrat va muqaddas narsaga qarshi chiqqanda dunyoviy kuchning zaifligini chuqur eslatadi. Qur'onda tajovuzkorlikni istaganlar uchun ogohlantirish sifatida hikoya qilingan bu guruhning sirini oching.",
+  "clues": [
+    "Biz o'z kuchimiz tengsiz deb ishonib, ulkan ambitsiyalarni jamlagan edik va aniq, halokatli maqsad bilan safarga chiqdik.",
+    "Bizning takabburlikka to'la rahbarimiz ko'pchilik hurmat qiladigan muqaddas Uyni bulg'ashga urindi, ziyoratni biz qurgan inshootga yo'naltirishni maqsad qildi.",
+    "Uzoq yurtdan biz Muqaddas Shahardagi qadimiy binoni buzib tashlash qobiliyatimizga ishongan holda ulkan kuch bilan yurish qildik.",
+    "Bizning qo'shinimiz juda kuchli edi, uning boshchiligida ulug'vor jonzotlar bor edi, biz bostirib kirgan yer aholisi bunday yurishda kamdan-kam hollarda ko'rgan bo'lsa kerak.",
+    "Manzilimizga yetib borganimizda, ilohiy aralashuv yuz berdi; mayda, qanotli jonzotlar paydo bo'lib, bizni pishgan loydan yasalgan toshlar bilan uloqtirishdi.",
+    "Bizning butun ekspeditsiyamiz halokatli yakun topdi, ulkan kuchimiz chaynalgan somon kabi butunlay yo'q qilindi, buyuk rejamiz esa changga aylandi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Samud qavmi",
+        "Ad qavmi",
+        "Sodom aholisi",
+        "Fil odamlari",
+        "Bog' ahli"
+      ],
+      "answer": "Fil odamlari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Buyuk To'fon",
+        "Ka'baga qarshi kampaniya",
+        "Butlarning yo'q qilinishi",
+        "Dengizning ikkiga bo'linishi",
+        "Midiyon zilzilasi"
+      ],
+      "answer": "Ka'baga qarshi kampaniya"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Ka'ba",
+        "Oltin buzoq",
+        "Olov"
+      ],
+      "answer": "Ka'ba"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Ilohiy najot",
+        "Uzoq muddatli farovonlik davri",
+        "Islomni qabul qilish",
+        "Butunlay vayronagarchilik",
+        "O'z yurtlaridan surgun qilish"
+      ],
+      "answer": "Butunlay vayronagarchilik"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tahimik na Tinig sa Silid",
+  "intro": "Isang panalangin ang umalingawngaw sa katahimikan ng isang sagradong silid noong unang panahon, na nagmumula sa isang tumatandang kaluluwa na nananabik sa kung ano ang idineklarang imposible ng mundo. Ang pigurang ito, na matanda na at nabibigatan ng pag-aalala para sa hinaharap, ay bumaling sa kanilang Panginoon na may personal na pagsusumamo. Ang sumunod ay isang banal na tugon na sumalungat sa bawat natural na inaasahan—isang patunay ng awa ng Isa na tumutugon sa desperadong tawag.",
+  "clues": [
+    "Nanawagan ako sa aking Panginoon nang pribado, at nagtungo sa isang silid kung saan inialay ko ang aking sarili sa pagsamba sa Kanya.",
+    "Inamin ko sa aking Panginoon na ako ay natatakot para sa mga susunod sa akin, nag-aalala para sa patnubay ng aking mga tao kapag ako ay lumisan.",
+    "Tinamaan na ako ng katandaan—nanghina na ang aking mga buto at kumalat na ang puting buhok sa aking ulo.",
+    "Baog ang aking asawa sa buong buhay niya, ngunit hiniling ko pa rin sa aking Panginoon na pagkalooban ako ng tagapagmana mula sa Kanyang piling.",
+    "Humingi ako ng tanda, at sumagot ang aking Panginoon sa pamamagitan ng pagpigil sa akin na makipag-usap kaninuman sa loob ng tatlong gabi, habang ako ay nanatiling malusog.",
+    "Pinangakuan ako ng isang anak na lalaki na ang magiging pangalan ay Yahya, isang pangalang ipinahayag ng aking Panginoon na hindi pa kailanman naibigay sa sinuman noon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Propeta Zakaria",
+        "Propeta Noah",
+        "Propeta Musa",
+        "Propeta Yusuf",
+        "Propeta David"
+      ],
+      "answer": "Propeta Zakaria"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagdarasal para sa isang tagapagmana sa katandaan na may baog na asawa",
+        "Itinapon sa nagliliyab na apoy",
+        "Nilunok ng isang malaking isda sa kadiliman",
+        "Pagtitiis sa pagkawala ng pamilya, kayamanan, at kalusugan",
+        "Inutusang gumawa ng isang malaking arka"
+      ],
+      "answer": "Pagdarasal para sa isang tagapagmana sa katandaan na may baog na asawa"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang silid-dalanginan (mihrab)",
+        "Isang tungkod na naging ahas",
+        "Isang malaking arkang gawa sa kahoy",
+        "Isang hardin na may kakaibang tagsibol",
+        "Isang bundok kung saan nagtitipon ang mga ibon"
+      ],
+      "answer": "Ang silid-dalanginan (mihrab)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Pinagkalooban ng mahimalang pinangalanang anak sa kabila ng matinding katandaan",
+        "Iniligtas mula sa nagliliyab na apoy sa pamamagitan ng banal na utos",
+        "Isang malaking baha ang sumira sa mga hindi naniniwala",
+        "Ibinalik sa pamilya, kayamanan, at kalusugan pagkatapos ng pagtitiis",
+        "Nalunod sa dagat ang Paraon at ang kanyang hukbo"
+      ],
+      "answer": "Pinagkalooban ng mahimalang pinangalanang anak sa kabila ng matinding katandaan"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

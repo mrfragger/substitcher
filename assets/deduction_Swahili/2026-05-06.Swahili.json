@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Kutoka Kwenye Kichaka Kinachowaka Moto",
+  "intro": "Fumbua utambulisho wa mtu mwenye kina ambaye safari yake ilianza na mkutano wa kimiujiza na ambaye hatima yake iliunganishwa na ukombozi wa watu waliokandamizwa. Mtu huyu alichaguliwa kwa kazi kubwa, akikabiliwa na changamoto kubwa kwa msaada wa Mungu.",
+  "clues": [
+    "Nilizaliwa katika wakati wa ukandamizaji mkubwa, ambapo watoto wachanga wa watu wangu walikuwa wakiuawa.",
+    "Maisha yangu ya awali yalihusisha kuwekwa mtoni na mzazi wangu, lakini nilipatikana na kukulia katika nyumba ya mnyanyasaji wa watu wangu.",
+    "Niliwahi kukimbia mji baada ya kusababisha kifo cha mtu bila kukusudia wakati wa mzozo.",
+    "Nilipokea ujumbe mtakatifu na fimbo ya miujiza mahali patakatifu, ambapo niliamriwa kumkabili mtawala mwenye nguvu.",
+    "Kaka yangu aliteuliwa kuwa msaidizi wangu katika misheni yangu, kutokana na kikwazo nilichokiona katika usemi wangu.",
+    "Niliwaongoza watu wangu kuvuka bahari iliyogawanyika, nikitoroka kufukuzwa na jeshi la kidhalimu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Yusufu",
+        "Nabii Isa",
+        "Nabii Musa",
+        "Nabii Nuh",
+        "Nabii Ibrahimu"
+      ],
+      "answer": "Nabii Musa"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Miaka ya ukame inayodumu",
+        "Kujenga Safina",
+        "Kukabiliana na Farao na wachawi wake",
+        "Kutupwa katika tanuru ya moto",
+        "Kuangamizwa kwa watu wa Thamud"
+      ],
+      "answer": "Kukabiliana na Farao na wachawi wake"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Kaaba",
+        "Ukuta wa Chuma",
+        "Wafanyakazi",
+        "Meli ya Nuh",
+        "Pete ya Sulaiman"
+      ],
+      "answer": "Wafanyakazi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Mji wa Sodoma ulipinduliwa",
+        "Watu walimezwa na ardhi",
+        "Gharika kubwa iliifunika nchi",
+        "Farao na jeshi lake walikufa maji",
+        "Kuta za jiji zilianguka kutokana na kilio"
+      ],
+      "answer": "Farao na jeshi lake walikufa maji"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

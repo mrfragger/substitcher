@@ -1,0 +1,61 @@
+{
+  "title": "Les premiers à demander pardon",
+  "intro": "Remontons le temps jusqu'à une époque antérieure à l'aube, avant même que le premier mortel ne foule la terre. Une figure fut façonnée à partir des matériaux les plus humbles, placée au-dessus des anges, et déposée dans un jardin sacré, porteuse d'un avertissement clair. Pourtant, en un instant, un choix fut fait – un choix dont les répercussions se feraient sentir à travers toute l'histoire de l'humanité. Qui est cette figure ?",
+  "clues": [
+    "J'ai été créé d'une manière unique en son genre — façonné à partir de la poussière de la terre et doté d'une âme vivante par la main du Créateur.",
+    "J'ai reçu une connaissance si profonde que même les anges là-haut en furent émerveillés.",
+    "Tout le ciel reçut l'ordre de se prosterner devant moi, et tous s'y soumirent — sauf un, qui refusa par orgueil.",
+    "J'ai été placé dans un jardin sacré, un lieu de réconfort et de subsistance éternels — mais avec une interdiction stricte.",
+    "J'ai oublié, j'ai dérapé, j'ai désobéi — et j'ai profondément ressenti le poids de mon erreur.",
+    "Je me suis tournée vers mon Seigneur avec des paroles sincères, et Il a accepté mon repentir, car Il est le Très Pardonneur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Adam",
+        "Prophète Dawud",
+        "Le prophète Mahomet",
+        "Iblis",
+        "Prophète Yaqub"
+      ],
+      "answer": "Le prophète Adam"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Les anges reçurent l'ordre de se prosterner",
+        "Le Grand Déluge fut envoyé",
+        "Un grand feu a été refroidi et mis en sécurité",
+        "Un souverain arrogant s'est noyé dans la mer",
+        "Une armée d'éléphants a été détruite"
+      ],
+      "answer": "Les anges reçurent l'ordre de se prosterner"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le Jardin du Bonheur",
+        "Mont Sinaï",
+        "La Mosquée sacrée",
+        "Le Nil",
+        "La grotte"
+      ],
+      "answer": "Le Jardin du Bonheur"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Le repentir a été accepté par Allah",
+        "Noyé dans la mer",
+        "Avalé par un gros poisson",
+        "Le pays a été frappé par une puissante explosion",
+        "Brûlé par un vent brûlant"
+      ],
+      "answer": "Le repentir a été accepté par Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

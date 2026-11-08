@@ -1,0 +1,61 @@
+{
+  "title": "Isifungo Sabangakazalwa",
+  "intro": "Umphefumulo oqotho wenza isithembiso esingcwele ngaphambi kokufika komntwana. Indaba yalomuntu ivele ngaphakathi kwezindonga zendlu engcwele, lapho ukuzinikela kuhlangana khona nokwamukelwa kwaphezulu. Ungubani lo mkhonzi ka-Allah?",
+  "clues": [
+    "Bengingowomndeni ohlonishwayo yiQuran.",
+    "Ngenze isifungo esiqinile sokunikela ingane yami engakazalwa enkonzweni ka-Allah.",
+    "Ngesikhathi ngibeletha, ngamangala ukuthola ukuthi kwakuyindodakazi, yize ngangilindele indodana.",
+    "Ngaqamba ingane yami ngokuthi uMaryam, igama elibonisa ukuzinikela kanye nenkonzo.",
+    "Ngacela isivikelo sika-Allah sengane yami kanye nenzalo yayo kuSathane oqalekisiwe.",
+    "Ingane yami yamukelwa yiNkosi futhi yabekwa ngaphansi kokunakekelwa nguMprofethi uZakariya endaweni engcwele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umka-Imran (uMama kaMaryam)",
+        "U-Asiya, umkaFaro",
+        "UMaryam, unina ka-Isa",
+        "Umama woMprofethi uMusa",
+        "INdlovukazi yaseSheba"
+      ],
+      "answer": "Umka-Imran (uMama kaMaryam)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Efunga ukunikela ingane yakhe ethempelini",
+        "Ukuphonswa emlilweni",
+        "Ukuwela ulwandle emhlabathini owomile",
+        "Ukwakha umkhumbi omkhulu",
+        "Ukugwinywa yinhlanzi enkulu"
+      ],
+      "answer": "Efunga ukunikela ingane yakhe ethempelini"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Indawo engcwele (i-mihrab) lapho umntwana wakhe abekwa khona",
+        "Umphongolo wesivumelwano",
+        "Ithole legolide",
+        "Induku eyaphenduka inyoka",
+        "Isundu lesundu ayephumule ngaphansi kwalo"
+      ],
+      "answer": "Indawo engcwele (i-mihrab) lapho umntwana wakhe abekwa khona"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ingane yakhe yamukelwa futhi yabekwa ngaphansi kokunakekelwa koMprofethi uZakariya",
+        "Wasindiswa esijezisweni sombusi oyisihluku",
+        "Wanikwa indodana egama linguYahya",
+        "Abantu balo babhujiswa yisiphepho",
+        "Waba yindlovukazi phezu kombuso omkhulu"
+      ],
+      "answer": "Ingane yakhe yamukelwa futhi yabekwa ngaphansi kokunakekelwa koMprofethi uZakariya"
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

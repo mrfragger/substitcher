@@ -1,0 +1,61 @@
+{
+  "title": "Posłańcy Miłosierdzia i Mocy",
+  "intro": "Wyobraź sobie spokojne popołudnie przerwane przybyciem nieznajomych przybyszów. Wyglądają zwyczajnie, ale ich cel jest zupełnie inny. Niosą boskie przesłanie, które zmieni losy dwóch narodów, przynosząc śmiech jałowej ojczyźnie i grozę grzesznemu miastu. Kim są ci tajemniczy przybysze?",
+  "clues": [
+    "Zostaliśmy wysłani do oddanego sługi Allaha, znanego ze swojej bezgranicznej gościnności.",
+    "Przybyliśmy jako obcy ludzie, a jednak nasz gospodarz wyczuł w naszej obecności coś nie z tego świata.",
+    "Przynieśliśmy wieści, które wywołały u starszej kobiety śmiech z niedowierzania, która ze zdumienia uderzyła się w twarz.",
+    "Naszym zadaniem było chronić prawą rodzinę, jednocześnie sprowadzając zniszczenie na miasto pogrążone w korupcji.",
+    "Odmówiliśmy spożycia zaproponowanego nam posiłku, co tylko pogłębiło podejrzenia naszego gospodarza.",
+    "Ujawniliśmy naszą prawdziwą naturę dopiero przed odejściem, mówiąc: „Zaprawdę, jesteśmy posłańcami waszego Pana”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Goście Abrahama",
+        "Uczniowie Jezusa",
+        "Towarzysze jaskini",
+        "Armia Abrahy",
+        "Posłańcy Jasina"
+      ],
+      "answer": "Goście Abrahama"
+    },
+    "trial": {
+      "label": "Nasza misja",
+      "options": [
+        "Aby sprawdzić wiarę Abrahama w stosunku do jego syna",
+        "Dostarczyć Pismo Abrahamowi",
+        "Aby ogłosić narodziny Izaaka i zagładę ludu Lota",
+        "Aby poprowadzić Abrahama do Kaaby",
+        "Aby uratować Abrahama z ognia"
+      ],
+      "answer": "Aby ogłosić narodziny Izaaka i zagładę ludu Lota"
+    },
+    "location": {
+      "label": "Miejsce pojawienia się",
+      "options": [
+        "W krainie Egiptu",
+        "W mieście Ur",
+        "W domu Abrahama",
+        "W ogrodzie Eden",
+        "Przy studni Zamzam"
+      ],
+      "answer": "W domu Abrahama"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Abraham został królem",
+        "Abraham zbudował Kaabę",
+        "Sara urodziła Izaaka, a lud Lota został zniszczony",
+        "Abraham wyemigrował do Palestyny",
+        "Lud Abrahama został uratowany przed wielkim potopem"
+      ],
+      "answer": "Sara urodziła Izaaka, a lud Lota został zniszczony"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

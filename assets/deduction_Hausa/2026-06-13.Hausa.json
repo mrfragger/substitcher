@@ -1,0 +1,61 @@
+{
+  "title": "Masu Gaskiya a Makkah",
+  "intro": "A farkon zamanin wahayi, lokacin da saƙon gaskiya ya fuskanci adawa mai tsanani, wasu rayuka sun tsaya cak a cikin imaninsu. Waɗannan masu bi sun fuskanci zalunci mara misaltuwa daga waɗanda suka nemi kashe hasken imani. Azabarsu ta yi tsanani, wahalarsu ta yi yawa—duk da haka harsunansu ba su daina shelar kaɗaita Allah ba. Ko da aka jefa su cikin zurfin yanke ƙauna, kariyar Allah ta kewaye su, ta mayar da jarabawarsu zuwa wasiyyar imani ta har abada. Bari mu bincika tafiyar waɗannan rayuka masu ban mamaki.",
+  "clues": [
+    "An jarabce mu da azaba mai tsanani saboda ƙin barin imaninmu ga Allah Ɗaya",
+    "Mutanenmu ba za su iya karya ƙudurinmu ba, komai yadda muguntarsu ta zama mai ƙirƙira",
+    "An dakatar da mu daga rijiya kowace rana, duk da haka taimakon Allah yana kusa koyaushe",
+    "Haƙurinmu ya ba wa waɗanda suka shaida juriyarmu mamaki har ma da waɗanda suka shaida juriyarmu",
+    "Mutane da yawa a Makkah sun nemi tilasta mana mu janye, amma mun ci gaba da jajircewa.",
+    "Lokacin da komai ya yi kamar an ɓata mana rai, 'yancinmu ya zo ta hanyar shiga tsakani na allahntaka ta hanyar mu'ujiza"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Bilal al-Habashi",
+        "Ammar bin Yasir",
+        "Miqdad bin al-Aswad",
+        "Khabbab bin al-Arat",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habashi"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Yaƙi da Annabi",
+        "Tsanantawa saboda ƙin bauta wa gumaka",
+        "Gwajin imani game da lamarin gobarar",
+        "Gwajin tafiyar dare da aka raba",
+        "Gwajin lalata lambun"
+      ],
+      "answer": "Tsanantawa saboda ƙin bauta wa gumaka"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Dutsen Uhud",
+        "Masallacin Ka'aba mai tsarki",
+        "Rijiyar Abu Sufyan",
+        "Fadar Quraysh",
+        "Birnin Madinah"
+      ],
+      "answer": "Rijiyar Abu Sufyan"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Nasara a cikin babban yaƙi",
+        "'Yanci ta hanyar shiga tsakani na Allah",
+        "Shahada a tafarkin Allah",
+        "Karɓar shiga aljanna kai tsaye",
+        "Hijira zuwa ƙasa mai albarka"
+      ],
+      "answer": "'Yanci ta hanyar shiga tsakani na Allah"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

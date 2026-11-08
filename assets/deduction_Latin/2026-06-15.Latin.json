@@ -1,0 +1,61 @@
+{
+  "title": "Dominium Venti et Flammae",
+  "intro": "Finge imperium ubi ventus ipse uni rectori respondebat, ubi voces minimarum creaturarum pondus ferebant, et ubi vires oculis communibus invisibiles diligenter serviebant. Hic figura regnum extraordinarium a dilecto praedecessore hereditavit, potestatem super elementa et jinn gerens. Sed magna auctoritas cum magnis probationibus venit — et momentum extremum aliquid mirabile de natura vitae et mortis ipsa revelaret.",
+  "clues": [
+    "Magnum regnum hereditate accepi a dilecto parente qui etiam propheta et servus Dei erat.",
+    "Allah mihi potestatem dedit super ventum, eum in negotia itineris mensis unius uno mane mittens.",
+    "Etiam minimae creaturae de adventu meo loquerentur, et ego paulisper paulisper mirabar eorum conscientiam.",
+    "Exercitui ingenti jinn, hominum, et avium praefui, omnibus ante me ordine dispositis.",
+    "Princeps quidam longinquus venit ut me difficili certamine tentaret, et thronum illius principis ad aulam meam adferri curavi antequam hospes e sede etiam surgere posset.",
+    "Stans mansi, baculo innixus, donec parva bestia terrae id perrodit — et tum demum qui circum me erant intellexerunt me praeterisse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Sulayman (Salomon)",
+        "Propheta Daud (David)",
+        "Propheta Isaiae (Iesus)",
+        "Propheta Muhammadus (pax)",
+        "Propheta Musa (Moses)"
+      ],
+      "answer": "Propheta Sulayman (Salomon)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Solium reginae longinquae modis supernaturalibus adferens",
+        "Puer in puteum profundum demissus",
+        "Magos tyranni miraculis signis oppugnans",
+        "A cunis loquens ad honorem matris defendendum",
+        "Accipiendo ultimam scripturam revelatam in monte sancto"
+      ],
+      "answer": "Solium reginae longinquae modis supernaturalibus adferens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Baculus ligneus a termite rossus",
+        "Arca magna constructa ad diluvium universale superandum",
+        "Virga quae in serpentem transformata est coram tyranno",
+        "Frustum panni ad caecos sanandos adhibitum",
+        "Spelunca sacra ubi revelatio primum accepta est"
+      ],
+      "answer": "Baculus ligneus a termite rossus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Nobilis princeps visitans fidem amplexus est postquam signa vidit.",
+        "Magnum diluvium omnes praeter fideles in arca delevit",
+        "Pharao et exercitus eius in mari perierunt",
+        "Iustus comes ad caelum sublatus est",
+        "Rex tyrannus et urbs eius eversi et deleta sunt"
+      ],
+      "answer": "Nobilis princeps visitans fidem amplexus est postquam signa vidit."
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

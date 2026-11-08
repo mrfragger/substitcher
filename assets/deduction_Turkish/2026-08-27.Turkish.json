@@ -1,0 +1,61 @@
+{
+  "title": "Konuşkan Seçilmiş Kişi",
+  "intro": "İlahi sözlerin indiği bir dağın gölgesinde, bir halkın inancı altın parıltısı altında sarsılıyordu. Belagatle donanmış bir ruh, daha büyük bir misyona destek olmak için duruyordu, ancak derin bir sınav anıyla karşı karşıyaydı. Seçilmiş elçi kutsal bir göreve yükselirken, bu figür geride kaldı ve huzursuz bir millete yalvardı. Putperestliğe karşı sesini yükselten bu sarsılmaz ruh kimdir?",
+  "clues": [
+    "Allah tarafından peygamber olarak seçildim, ancak hikâyem genellikle başka bir hikâyeyle birlikte anlatılır.",
+    "Beni zalim bir hükümdarın yanına gönderdiler, ancak görevim liderlik etmek değil, destek olmaktı.",
+    "Ben hitabet yeteneğiyle donanmıştım ve sözlerim kalpleri yumuşatmak içindi.",
+    "Arkadaşım kutsal bir görev için ayrıldığında, huzursuz bir halka rehberlik etme görevi bana kaldı.",
+    "Sabırsızlıklarından dolayı süslerinden bir put yaptılar ve ben de onlardan Allah'a sadık kalmalarını rica ettim.",
+    "Arkadaşım geri döndü ve beni yakaladı, ama ben halkın beni alt ettiğini ve neredeyse öldürdüğünü, suçlular arasında olmadığımı açıkladım."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Musa",
+        "Peygamber Harun",
+        "Peygamber İsa",
+        "Peygamber Yahya",
+        "Peygamber Zekeriya"
+      ],
+      "answer": "Peygamber Harun"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "ateşe atılmak",
+        "kuyuya atılmak",
+        "Altın buzağı olayıyla yüzleşmek",
+        "Ağır bir hastalığın testi",
+        "Servet ve çocuk kaybetme sınavı"
+      ],
+      "answer": "Altın buzağı olayıyla yüzleşmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "altın buzağı",
+        "Personel",
+        "Ahd Sandığı",
+        "Tabletler",
+        "Yanan çalı"
+      ],
+      "answer": "altın buzağı"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Ağır şekilde cezalandırıldı",
+        "Affedildiler ve aklandılar",
+        "Kral yaptı",
+        "Cennete götürüldü",
+        "Yeni bir kutsal metin verildiğinde"
+      ],
+      "answer": "Affedildiler ve aklandılar"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

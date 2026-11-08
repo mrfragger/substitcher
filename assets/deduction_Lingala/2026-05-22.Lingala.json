@@ -1,0 +1,61 @@
+{
+  "title": "Bomati ya Molɔti",
+  "intro": "Molimo oyo esengelaki kozala monene, nzokande emekamaki na mimekano makasi, ebandaki mobembo moko ya kokamwa. Nzela ya moto oyo ezalaki na zuwa, bokabwani, mpe mpasi ya kozanga bosembo, kaka mpo na kosuka na esika ya mokumba monene mpe bokutani ya mozindo. Okoki koyeba motángo yango ya kokamwa oyo euti na Coran?",
+  "clues": [
+    "Mokolo moko, bato oyo bazalaki penepene na ngai bazalaki kolula ngai, mpe yango esalaki ete nakabwana mpenza na moboti na ngai mpe na ndako na ngai.",
+    "Nakutanaki na eleko moko ya mpasi mingi, ata mpe ete bato oyo bazalaki kosala mibembo bazalaki kotɛka ngai na ntalo moke.",
+    "Bafundaki ngai na ndenge ya kozanga bosembo ete nasalaki mabe mpe nalekisaki bambula mingi na bolɔkɔ, nzokande kondima na ngai etikalaki kotɛngatɛnga te.",
+    "Bapesaki ngai likoki moko oyo ekokani na mosusu te ya kolimbola bimonaneli ya mindɔndɔmindɔndɔ, oyo emonanaki ete esalisaki ngai na nzela na ngai ya bonsomi.",
+    "Nsukansuka, bwanya mpe bosembo na ngai ememaki ngai na esika ya bokonzi monene mpe kotyela ngai motema na mboka mopaya.",
+    "Na nzela ya makambo oyo esalemaki na molɔngɔ, nakutanaki lisusu na moboti na ngai mpe bandeko na ngai oyo bakómaki mibange nsima ya kozanga ntango molai mpe ya mpasi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Sulaiman",
+        "Mosakoli Yis",
+        "Mosakoli Yusuf",
+        "Mosakoli Dawud",
+        "Mosakoli Yahya"
+      ],
+      "answer": "Mosakoli Yusuf"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Komelama na mbisi moko ya monene",
+        "Kotonga Sanduku mpo na kobikisa bozalisi",
+        "Koyika mpiko na bifundeli ya lokuta mpe kokangama na bolɔkɔ",
+        "Kokutana na mokonzi moko ya mobulu na makamwisi",
+        "Komekama na bokono makasi mpe kobungisa"
+      ],
+      "answer": "Koyika mpiko na bifundeli ya lokuta mpe kokangama na bolɔkɔ"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Nzete moko oyo ezali kozika",
+        "Ndɛkɛ oyo elobaka",
+        "Libulu moko ya mai",
+        "Likonzí oyo ezali kobongwana nyoka",
+        "Kamela ya mwasi lokola elembo"
+      ],
+      "answer": "Libulu moko ya mai"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Kokamba migration na mboka ya elaka",
+        "Kokóma ministre ya nguya na Ezipito",
+        "Kozwa etumbu ya bonzambe likolo ya bato ya lolendo",
+        "Koyangela bokonzi monene na bwanya mpe bosembo",
+        "Komata na likoló"
+      ],
+      "answer": "Kokóma ministre ya nguya na Ezipito"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

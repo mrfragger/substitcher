@@ -1,0 +1,61 @@
+{
+  "title": "Sabyrly Biri",
+  "intro": "Köp wagt mundan ozal, adamzat taryhynyň ilkinji günlerinde iki jan öz Ýaradyjysynyň öňünde sadakalar bilen durdy. Biri kabul edildi, biri kabul edilmedi. Soňraky zat doganlaryň arasyndaky ilkinji uly betbagtçylyga öwrüldi - bir sabyrly özüňi saklamak we bir ajy öç almak. Meniň kimdigimi açyp bilersiňizmi?",
+  "clues": [
+    "Men ýer ýüzünde adamyň ýaşaýşynyň ilkinji günlerinde doguldym",
+    "Men bu ýer ýüzünde ýören ilkinji adamlaryň jübütiniň çagasydym",
+    "Men bir gezek Ýaradyjymy razy etmek üçin sürimiň iň gowularyndan gurbanlyk berdim",
+    "Meniň sadakam ýokardan kabul edildi, doganymyň sadakasam bolsa ret edildi",
+    "Ölüm howpy abananda, men doganyma el galdyrmazlygy saýladym",
+    "Men bütin adamzat taryhynda başga biri tarapyndan nähak öldürilen ilkinji adam boldum"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Adam ogly Habil (Habil)",
+        "Adamyň ogly Kabil (Kaýil)",
+        "Ilkinji ynsan bolan Adam",
+        "Nuh (Nuh)",
+        "Ybraýym (Abraham)"
+      ],
+      "answer": "Adam ogly Habil (Habil)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Adamzat taryhynda ilkinji ganhorluk",
+        "Nuh pygamberiň uly sili",
+        "Fyrgawnyň goşunynyň ýok edilmegi",
+        "Ybrahymyň Ismaili gurban etmegi",
+        "Jalut (Golýat) bilen söweş"
+      ],
+      "answer": "Adamzat taryhynda ilkinji ganhorluk"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Ýagşy gurbanlyk hökmünde berlen goýun",
+        "Beýik agaçdan ýasalan sandyk",
+        "Ýylana öwrülen taýajyk",
+        "Şa habaryny alyp barýan şapak guş",
+        "Ýalpyldap duran ot hendek"
+      ],
+      "answer": "Ýagşy gurbanlyk hökmünde berlen goýun"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Adamzat taryhynda ilkinji gezek ganhorlugyň pidasy boldy",
+        "Agaç gabyň içinde uly suw joşmasyndan aman galdy",
+        "Uly balygyň garnynda ýaşaýardy",
+        "Jynlara, adamlara we ýele höküm sürdi",
+        "Giň çölde kyrk ýyllap gezdi"
+      ],
+      "answer": "Adamzat taryhynda ilkinji gezek ganhorlugyň pidasy boldy"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

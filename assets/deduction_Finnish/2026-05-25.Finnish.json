@@ -1,0 +1,61 @@
+{
+  "title": "Nimitetty seuraaja",
+  "intro": "Menneiden aikojen hahmo seisoo valmiina astumaan historiaan. Kun polku tuntui epäselvältä ja epäilys levisi kansan keskuuteen, tämä palvelija valittiin ottamaan ohjauksen viitta. Pyhän tehtävän paino harteillaan he astuivat esiin johtamaan sinne, missä muut epäröivät seurata.",
+  "clues": [
+    "Minut valittiin profeetan seuraajaksi ja opin heidän viisaudestaan",
+    "Seisoin arkin edessä, kun Ylläpitäjämme lupaus lähestyi, ja näin ihmisten alkavan epäillä",
+    "Minut pakotettiin seisomaan luvatun rajalla, kun johtajamme surisi ja rukoili Allahia puolestamme",
+    "Minut määrättiin jatkamaan tehtävää, joka oli annettu toiselle ennen minua",
+    "Minulle annettiin jumalallinen valtuus johdattaa ihmisiä heidän määränpäähänsä",
+    "Onnistuin saattamaan loppuun sen, mikä oli aloitettu ennen minua, ja sain ihmisten vahvistuksen ohjaukselleni"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Yusha ibn Nun",
+        "Kaleb, Jefunnen poika",
+        "Eldad ja Medad",
+        "Profeetta Hesekiel (Hizqiyyal)",
+        "Profeetta Harun (Aaron)"
+      ],
+      "answer": "Yusha ibn Nun"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kieltäytyminen astumasta luvattuun Pyhään maahan",
+        "Faaraon armeijat ajavat meitä takaa meren halki",
+        "Kultaisen vasikan palvonta",
+        "Epäily kuultuaan Tooran käskyn",
+        "Daatanin ja Abiramin kapina"
+      ],
+      "answer": "Kieltäytyminen astumasta luvattuun Pyhään maahan"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Moosekselle annettu Tooran kirjakäärö",
+        "Liitonarkki taistelussa",
+        "Jordan-joen ylityspaikka",
+        "Neljänkymmenen vuoden aavikko",
+        "Siinainvuoren ilmestys"
+      ],
+      "answer": "Moosekselle annettu Tooran kirjakäärö"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Luvattuun Pyhään Maahan saapuminen",
+        "Suojamuurin rakentaminen tunkeilijoita vastaan",
+        "Pyhän palvontapaikan rakentaminen",
+        "Hukkuen niiden perässä, jotka kielsivät totuuden",
+        "Turmeltuneiden ihmisten epäjumalien murskaaminen"
+      ],
+      "answer": "Luvattuun Pyhään Maahan saapuminen"
+    }
+  },
+  "verseRef": "5:21",
+  "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+  "verse": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" (5:21)"
+}

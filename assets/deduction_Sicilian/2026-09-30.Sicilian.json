@@ -1,0 +1,61 @@
+{
+  "title": "Lu pazienti",
+  "intro": "Assai tempu fa, nnî primi jorna dâ storia umana, du’ ànimi s’arristaru davanti ô so’ Criatura cu l’offerti. Unu fu accittatu, unu no. Chiḍḍu ca vinni doppu addivintàu la prima granni traggedia tra li frati, n'attu di moderazzioni pazienti e n'attu di vindetta amara. Riusci a scopriri chi sugnu?",
+  "clues": [
+    "Nasciu ntê primi jorna di l'esistenza umana ntâ terra",
+    "Ero nu picciriddu dâ prima coppia di umani ca caminaru nnâ sta terra",
+    "Uffrìi na vota nu sacrificiu dû megghiu dû me greggiu pi fari piaciri ô me Criatura",
+    "La me uffruta fu accittata di supra, mentri chidda di me frati fu rifiutata",
+    "Quannu fui minazzatu di morti, scigghiù di non alzari la manu contra me frati",
+    "Addivintau la prima pirsuna di tutta la storia umana a èssiri ammazzata pi sbagghiu di n'àutru"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sugnu iu?",
+      "options": [
+        "Habil (Abel), figghiu di Adamu",
+        "Qabil (Cain), figghiu di Adamu",
+        "Adamu, lu primu omu",
+        "Nuh (Nòè)",
+        "Ibrahim (Ibrahim)"
+      ],
+      "answer": "Habil (Abel), figghiu di Adamu"
+    },
+    "trial": {
+      "label": "Pruva/Eventu",
+      "options": [
+        "Lu primu omicidiu dâ storia umana",
+        "Lu granni diluviu di Nuh",
+        "La distruzzioni di l'asèrcitu di Fir'awn",
+        "Lu sacrificiu di Ismail di Ibrahim",
+        "La battagghia contra Jalut (Goliat)"
+      ],
+      "answer": "Lu primu omicidiu dâ storia umana"
+    },
+    "location": {
+      "label": "Elementu chiavi",
+      "options": [
+        "Na pècura uffruta comu nu sacrificiu piacèvuli",
+        "Na granni arca di lignu",
+        "Nu bastonu ca si trasfurmò 'n sirpenti",
+        "N'aceddu ca porta nu missaggiu riali",
+        "Na fussa di focu ardenti"
+      ],
+      "answer": "Na pècura uffruta comu nu sacrificiu piacèvuli"
+    },
+    "outcome": {
+      "label": "Risurtatu",
+      "options": [
+        "Addivintau la prima vittima di ammazzatina ntâ storia umana",
+        "Supravvissutu a na granni allagamentu dintra na vasca di lignu",
+        "Campava dintra la panza d'un pisci granni",
+        "Guvirnau supra li jinni, l'umani e lu ventu",
+        "Vargava pi quarant'anni nta nu vastu disertu"
+      ],
+      "answer": "Addivintau la prima vittima di ammazzatina ntâ storia umana"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

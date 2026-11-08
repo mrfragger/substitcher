@@ -1,0 +1,61 @@
+{
+  "title": "Socius Incertus in Auri Experimento",
+  "intro": "Sub umbra magni prophetae, anima eloquentiae et fidei praedita electa est ad auxilium in missione ingenti. Haec persona firma stetit cum plebs vacillaret, praedicans contra manifestam transgressionem quae ipsum monotheismi cor minabatur. Cum propheta rediit ut lapsum populi videret, haec persona non culpae sed officii et timoris divisionis defensio erat. Quis est hic devotus servus Allah?",
+  "clues": [
+    "Ab Allah ad officium sacrum una cum alio electus sum, et munus meum erat sustinendi et proclamandi.",
+    "Claritas dicendi mihi concessa est, et nuntium comitatus sum ut potentem oppressorem aggrediar.",
+    "Per iter difficile, nuntius montem solus ascendit, me relinquens ut populum custodiam.",
+    "Absentibus eis, populus imaginem auream fabricavit, et eos rogavi ut fideles manerent, sed consilium meum recusaverunt.",
+    "Nuntio, ira et dolore pleno, redito, comprehensus sum, sed explicavi me superatum esse et timere ne discordiam inter eos excitarem.",
+    "Ego sum propheta qui iuxta Musam, fratrem meum, steti, onus eius participans et contra idololatriam firmus permanens."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Harun",
+        "Propheta Musa",
+        "Propheta Isaias",
+        "Propheta Dawud",
+        "Propheta Zacharias"
+      ],
+      "answer": "Propheta Harun"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Homines vitulum aureum adoraverunt, monitis non obstantibus.",
+        "Homines me in ignem ardentem coniecerunt",
+        "A magno pisce devoratus sum",
+        "Falsis criminibus incarceratus sum",
+        "Ex urbe mea propter praedicationem exulatus sum"
+      ],
+      "answer": "Homines vitulum aureum adoraverunt, monitis non obstantibus."
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus Aureus",
+        "Rubus Ardens",
+        "Baculus qui in serpentem conversus est",
+        "Tabulae Foederis",
+        "Arca Foederis"
+      ],
+      "answer": "Vitulus Aureus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Reus factus sum et munus propheticum meum continuavi.",
+        "Pro peccato populi punitus sum",
+        "Nova gens mihi data est ad ducendum",
+        "Vivus in caelum assumptus sum",
+        "Regni princeps factus sum"
+      ],
+      "answer": "Reus factus sum et munus propheticum meum continuavi."
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

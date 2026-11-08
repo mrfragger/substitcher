@@ -1,0 +1,60 @@
+{
+  "title": "Tolimojo sosto mįslė",
+  "intro": "Galingas monarchas, apdovanotas nepaprasta valdžia, susidūrė su savotišku iššūkiu, susijusiu su karaliene iš tolimos šalies. Monarchas siekė pademonstruoti dieviškąją galią ir išmintį, pradėdamas neįtikėtiną įvykį, nepaklususį laiko ir erdvės dėsniams. Ar galite atskleisti šio stebuklingo įvykio detales?",
+  "clues": [
+    "Valdovui buvo suteikta didžiulė galia, įskaitant nematomų būtybių valdymą ir gebėjimą valdyti vėjus.",
+    "Šis valdovas gavo žinią apie turtingą karalienę, kuri garbino saulę, ir nusprendė pakviesti ją į dvarą.",
+    "Prieš karalienės atvykimą valdovas pareiškė norą atsivežti savo didingą valdžios sostą iš tolimos karalystės.",
+    "Galingas džinas pasisiūlė paimti daiktą, kol valdovas nespės pakilti iš savo tarybos.",
+    "Tačiau tas, kuris giliai išmanė Dieviškuosius Raštus, pasiūlė dar greitesnį atgaminimą, akimirksniu atlikdamas užduotį.",
+    "Jam atvykus, valdovas įsakė, kad objektas būtų pakeistas, siekiant patikrinti karalienės intelektą ir suvokimą, kai ji pagaliau pasieks rūmus."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Pranašas/Asmuo",
+      "options": [
+        "Pranašas Mozė",
+        "Pranašas Dovydas",
+        "Pranašas Ibrahimas",
+        "Pranašas Jusufas",
+        "Pranašas Suleimanas"
+      ],
+      "answer": "Pranašas Suleimanas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Jūros padalijimas",
+        "Kantrybė sunkumų metu",
+        "Kaabos pastatas",
+        "Sodų išbandymas",
+        "Karalienės sosto įžengimas"
+      ],
+      "answer": "Karalienės sosto įžengimas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Kalnas",
+        "Šulinys",
+        "Sostas"
+      ],
+      "answer": "Sostas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Didelė auka",
+        "Įkurta karalystė",
+        "Nubausta tauta",
+        "Nauja sandora",
+        "Karalienės paklusnumas Alachui"
+      ],
+      "answer": "Karalienės paklusnumas Alachui"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

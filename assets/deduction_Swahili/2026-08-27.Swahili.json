@@ -1,0 +1,61 @@
+{
+  "title": "Aliyechaguliwa kwa Ufasaha",
+  "intro": "Katika kivuli cha mlima ambapo maneno ya Mungu yalishuka, imani ya watu iliyumba chini ya mng'ao wa dhahabu. Nafsi moja, yenye kipaji cha ufasaha, ilisimama kama msaada kwa misheni kubwa zaidi, lakini ilikabiliwa na wakati wa majaribu makubwa. Mjumbe mteule alipopanda hadi kwenye miadi takatifu, mtu huyu alibaki nyuma, akiomba kwa taifa lisilotulia. Nani huyu nafsi imara ambaye sauti yake ilipanda dhidi ya ibada ya sanamu?",
+  "clues": [
+    "Nilichaguliwa na Mwenyezi Mungu kuwa nabii, ingawa hadithi yangu mara nyingi husimuliwa pamoja na nyingine.",
+    "Nilitumwa kwa mtawala dhalimu, lakini jukumu langu lilikuwa kuunga mkono, si kuongoza.",
+    "Nilikuwa na kipawa cha ufasaha, na maneno yangu yalikusudiwa kulainisha mioyo.",
+    "Mwenzangu alipoondoka kwa ajili ya miadi takatifu, niliachwa niwaongoze watu wasiotulia.",
+    "Kwa kukosa subira, walitengeneza sanamu kutokana na mapambo yao, nami niliwasihi wabaki waaminifu kwa Mwenyezi Mungu.",
+    "Mwenzangu alirudi na kunikamata, lakini nilieleza kwamba watu walinizidi nguvu na karibu waniue; sikuwa miongoni mwa wahalifu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Musa",
+        "Nabii Harun",
+        "Nabii Isa",
+        "Nabii Yahya",
+        "Nabii Zakaria"
+      ],
+      "answer": "Nabii Harun"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kutupwa motoni",
+        "Kutupwa kwenye kisima",
+        "Kukabiliana na tukio la ndama wa dhahabu",
+        "Mtihani wa ugonjwa mbaya",
+        "Mtihani wa kupoteza utajiri na watoto"
+      ],
+      "answer": "Kukabiliana na tukio la ndama wa dhahabu"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Ndama wa dhahabu",
+        "Wafanyakazi",
+        "Sanduku la Agano",
+        "Vidonge",
+        "Kichaka kinachowaka moto"
+      ],
+      "answer": "Ndama wa dhahabu"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Adhabu kali",
+        "Kusamehewa na kusamehewa",
+        "Alifanya mfalme",
+        "Kuchukuliwa mbinguni",
+        "Kupewa andiko jipya"
+      ],
+      "answer": "Kusamehewa na kusamehewa"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

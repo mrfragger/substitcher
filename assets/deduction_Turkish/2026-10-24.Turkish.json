@@ -1,0 +1,61 @@
+{
+  "title": "Yeraltındaki Uyarı",
+  "intro": "Derin bir kazı alanının yanında durduğunuzu, aşağıdan seslerin yükseldiğini ve yukarıdaki dünyanın sessizliğe büründüğünü hayal edin. Kur'an bu sahneyi bir uyarı olarak koruyor: Bir topluluk, elçilerin getirdiklerini reddeder, ceza yaklaşır ve hatta kükremesi bile şahitliğin bir parçası olur. Bu ayetlerde hangi topluluk konuşuyor?",
+  "clues": [
+    "Kur'an'da bizler, bireysel isimlerimizle değil, ortak bir kaderle tanımlanan bir topluluk olarak hatırlanıyoruz.",
+    "Elçilerin getirdiği mesajı, söyledikleri doğru olsa bile, reddettik.",
+    "Hatırlanan kimliğimiz, yeryüzündeki derin bir oyuğa bağlıdır ve bu özellik ismimizin bir parçası haline gelmiştir.",
+    "Belirlenen günde, dışarı çıkarıldık ve ateşe doğru sürüklendik.",
+    "Cezaya karşı kendimizi savunamadık ve onun kükremesini duyamadık.",
+    "Yüzlerimiz ateşe dönük olacak ve ateşe doğru sürüklenecektik; sorgulandığımızda ise cevap veremeyenler arasında olduğumuzu söyleyecektik."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Siper Yoldaşları",
+        "Ulus Büyük Selden Kurtarıldı",
+        "Altın Buzağıya Tapanlar",
+        "Grup Dağ Mağarasının İçinde Barındı",
+        "Topluluk Ateşli Fırından Kurtarıldı"
+      ],
+      "answer": "Siper Yoldaşları"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Sürüklenip ateşe atıldı",
+        "Alevli bir fırından teslim edildi",
+        "Büyük bir selin içinden güvenle taşındılar.",
+        "Yüzyıllarca bir mağaranın içinde saklandı.",
+        "Kuyuya atıldıktan sonra kurtarıldı."
+      ],
+      "answer": "Sürüklenip ateşe atıldı"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Bir hendek veya çukur",
+        "Büyük bir deniz",
+        "Bir dağ mağarası",
+        "Yüksek bir saray",
+        "Çöl kuyusu"
+      ],
+      "answer": "Bir hendek veya çukur"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Kendilerini savunamaz halde ve yangının kükremesini duyamaz haldeydiler.",
+        "Kurtarıldılar ve sonsuz bahçelere girişlerine izin verildi.",
+        "Yıkıcı bir sel felaketinden sağ salim kurtularak teslim edildi.",
+        "Bir mağaranın içinde uzun bir uykuyla korunmuş",
+        "Sonsuza dek sürecek bir krallıkla onurlandırıldı."
+      ],
+      "answer": "Kendilerini savunamaz halde ve yangının kükremesini duyamaz haldeydiler."
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

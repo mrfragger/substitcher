@@ -1,0 +1,61 @@
+{
+  "title": "Görünməyənlərdən gələn dinləyicilər",
+  "intro": "Görünən dünyanın pərdəsinin arxasında, qaranlıqda gizli bir topluluq toplaşdı və bildikləri hər şeyə meydan oxuyan bir səsə cəlb edildi. Onlar əsrlər boyu həqiqi rəhbərlik olmadan gəzib dolaşmışdılar, ta ki bir səs görünməyən aləmlərinin sükutunu deşib dərin bir şey oyandırdı. Bu gecə siz kölgələrdən kənara çıxmağa və ilahi sözlərlə qarşılaşmaları onları öz xalqlarına qaytaran bu sirli qrupun kimliyini aşkar etməyə dəvətlisiniz. Bu qrupun kimliyi onları əhatə edə bilməyən bir həqiqətin xəbərdarlıqçıları kimi geri qaytardı.",
+  "clues": [
+    "Biz qədim varlıqlarıq, oxuduğunuz bir çox millətdən çox əvvəl mövcud olmuşuq, lakin insan nağıllarında nadir hallarda xatırlanırıq.",
+    "Bizim təbiətimiz sizinkindən fərqlidir, görünməyən elementlərdən toxunmuşdur və adi şeylərə meydan oxuyan güclərə malikik.",
+    "Əsrlər boyu həqiqi rəhbərlik olmadan gəzdik, ta ki içimizdə dərin bir şeyləri oyandıran bir səs eşidilənə qədər.",
+    "İndiyə qədər eşitmədiyimiz, heç bir nitqdən daha ağır bir söz daşıyan bir qiraət eşitdik.",
+    "Gizlicə yaxınlaşdıq, öz aramıza susmağı əmr etdik və ayələr bitəndə sakit qala bilmədik.",
+    "Biz öz qövmümüzün yanına qayıdıb dedik: “Ey qövmümüz, biz Musadan sonra nazil edilmiş, özündən əvvəlkiləri təsdiqləyən və haqqa yönəldən bir kitab eşitdik”."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Həvariyyun (İsanın şagirdləri)",
+        "Quranı eşitdikdən sonra iman gətirən cinlər",
+        "Mağara Əhli",
+        "Ən aşağı səmanın mələkləri",
+        "Fironun yolunu izləyən qövm"
+      ],
+      "answer": "Quranı eşitdikdən sonra iman gətirən cinlər"
+    },
+    "trial": {
+      "label": "Sınaq / Tədbir",
+      "options": [
+        "Yeni yaradılmış bir varlığa baş əyməkdən imtina etdiyimiz üçün qovulduq",
+        "Biz üç yüz doqquz il mağarada möhürlənmişdik",
+        "Bizə qarşımızda yarılan bir dənizi keçmək əmri verildi",
+        "Biz sehr öyrənmək üçün sehr diyarına göndərildik",
+        "Gizlicə bir qiraət dinlədik və onun təsiri ilə dəyişdik"
+      ],
+      "answer": "Gizlicə bir qiraət dinlədik və onun təsiri ilə dəyişdik"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Bir xalqın bəzəklərindən düzəldilmiş qızıl buzov",
+        "Nəsillər boyu yuxunun davam etdiyi bir mağara",
+        "Babildə qadağan olunmuş bilikləri öyrədən iki mələk",
+        "Musadan sonra nazil olan və Tövratı təsdiqləyən bir kitab",
+        "Müqəddəs dağın başında yanan bir kol"
+      ],
+      "answer": "Musadan sonra nazil olan və Tövratı təsdiqləyən bir kitab"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Qiyamət gününə qədər lənətlənmişdik",
+        "Biz qüdrətli bir hökmdara qarşı üsyan etdik və yer üzündə bir sədd qurduq",
+        "Biz meymunlara və donuzlara çevrildik",
+        "Biz qövmümüzün yanına qorxudan və iman gətirən kimi qayıtdıq.",
+        "Liderimizlə birlikdə dənizdə boğulduq"
+      ],
+      "answer": "Biz qövmümüzün yanına qorxudan və iman gətirən kimi qayıtdıq."
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Karimcin da ya kawo tsoro",
+  "intro": "A cikin birnin da mugunta ta mamaye, wani amintaccen bawa ya sami baƙi da ba a zata ba wata rana. Saboda damuwa da lafiyarsu, wannan mutumin ya ba da kariya, amma mutanen birnin sun nemi wani abin kunya. An yi musu gargaɗi game da wata babbar masifa da ke tafe, bawan ya gudu da iyalinsa a cikin duhu, ya bar birnin da aka yi wa alama don halaka. Wanene wannan mumini shi kaɗai?",
+  "clues": [
+    "An aiko ni a matsayin manzo ga mutanen da suka aikata ayyukan kunya.",
+    "Baƙi da ba a zata ba sun zo gidana, kuma na fi damuwa da tsaron lafiyarsu fiye da nawa.",
+    "Mutanena sun nemi ganin baƙi na saboda munanan manufofi, sai na yi ƙoƙarin yin musu bayani.",
+    "Baƙina sun bayyana kansu a matsayin mala'iku kuma suka umarce ni da in ɗauki iyalina mu tafi da dare.",
+    "Matata ba ta saurari kiran tserewa ba kuma ta fuskanci irin halakar da mutanena suka yi.",
+    "An kife birnina da ruwan sama mai duwatsu masu laka, mafi girman sassansa sun kai ƙasa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Lutu",
+        "Annabi Musa",
+        "Annabi Ibrahim",
+        "Annabi Nuhu",
+        "Annabi Hud"
+      ],
+      "answer": "Annabi Lutu"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Bukatar mutanena su kusanci baƙina da mugunta",
+        "Raba teku don tserewa daga azzalumi",
+        "Gina babban jirgi a tsakiyar izgili",
+        "Hadayar ɗana a cikin gwajin bangaskiya",
+        "Kwarewar hadiye babban kifi"
+      ],
+      "answer": "Bukatar mutanena su kusanci baƙina da mugunta"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Birni da aka juye na mutanena",
+        "Dutsen da na karɓi jawabin allahntaka",
+        "Jirgin da ya ratsa cikin babban ambaliyar ruwa",
+        "Raƙumin da ya fito daga dutsen",
+        "Lambun da ke da baƙo mai adalci da aka ɓoye"
+      ],
+      "answer": "Birni da aka juye na mutanena"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An cece ni tare da iyalina kafin a kifar da birnina",
+        "Na jagoranci mutanena zuwa ga 'yanci a ketaren teku",
+        "Na gina babban jirgi kuma na tsira daga ambaliyar ruwa mai tsanani",
+        "An ba ni iko a kan iskoki da aljanu",
+        "Na jure wa wahala cikin haƙuri kuma an saka mini da iyali"
+      ],
+      "answer": "An cece ni tare da iyalina kafin a kifar da birnina"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

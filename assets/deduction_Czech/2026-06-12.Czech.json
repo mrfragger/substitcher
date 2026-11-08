@@ -1,0 +1,61 @@
+{
+  "title": "Ochotná oběť",
+  "intro": "V době božských zkoušek byla duše povolána k nejvyššímu aktu podrobení se. Tato postava, vychovaná v neúrodné zemi, se stala ztělesněním víry a trpělivosti. Když vidění vyžadovalo oběť, nezaváhala. Jejich příběh je základním kamenem oddanosti.",
+  "clues": [
+    "Byl jsem odpovědí na dlouho očekávanou modlitbu velkého proroka.",
+    "S matkou jsme zůstali v opuštěném údolí jen se zásobami datlí a vody.",
+    "Vyrostl jsem v proroka známého pro svou pravdomluvnost a trpělivost.",
+    "Pomohl jsem otci postavit základy posvátného domu zasvěceného Alláhovi.",
+    "Když mi otec vyprávěl o snu, že mě má obětovat, odpověděl jsem: „Udělej, co ti bylo přikázáno.“",
+    "Alláh uctil mou podřízenost tím, že z nebe seslal berana, aby mě vykoupil."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Ismá'il",
+        "Prorok Ishák",
+        "Prorok Jakub",
+        "Prorok Ibráhím",
+        "Prorok Jusuf"
+      ],
+      "answer": "Prorok Ismá'il"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Ochotně se podrobuje obětování",
+        "Být vhozen do planoucího ohně",
+        "Být spolknut velkou rybou",
+        "Prodej do otroctví",
+        "Být testován s těžkou nemocí"
+      ],
+      "answer": "Ochotně se podrobuje obětování"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Studna Zamzam",
+        "Archa Noe",
+        "Oheň Nimroda",
+        "Zlaté tele",
+        "Musova hůl"
+      ],
+      "answer": "Studna Zamzam"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byl vykoupen velkým beranem",
+        "Byl zachráněn před požárem",
+        "Byl zachráněn před povodní",
+        "Byl vytažen z velryby",
+        "Bylo mu dáno království a moudrost"
+      ],
+      "answer": "Byl vykoupen velkým beranem"
+    }
+  },
+  "verseRef": "37:102",
+  "arabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when he reached with him [the age of] exertion, he said, \"O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.\" He said, \"O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast.\" (37:102)"
+}

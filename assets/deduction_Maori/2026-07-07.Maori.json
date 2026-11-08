@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i te Āpiti",
+  "intro": "Kei roto i te Quran te kōrero mō te manawanui me te aroha mutunga kore o te Atua. I tonoa he karere ki tētahi tāone nui, engari i whakakahoretia e tōna iwi te whakatūpato, ā, i whakakahoretia te pono. I roto i te pouri, ka wehe atu tēnei wairua - ā, ka whakamatautauria e te moana e ngaru ana, ka horomia ki roto i ngā hohonutanga pōuri. Mai i te puku o te pōuri, ka puta he inoi whakaiti, ā, ka whakautu mai te Tino Atawhai. Ko wai tēnei wairua i puta mai kua hurihia, ko tōna iwi ka whakapono i roto i te neke atu i te kotahi rau mano?",
+  "clues": [
+    "I tonoa ahau hei kaiwhakatūpato ki tētahi tāone nui kua kotiti ke nei ōna tāngata i te ara o te whakapono.",
+    "I karanga ahau i taku iwi ki te pono i ngā wā katoa, heoi i tawai mai rātou, i whakakahore mai hoki ki taku karere.",
+    "I mua i te whakaaetanga, ka wehe atu ahau i a rātou me te pouri, ka anga atu ahau ki te moana nui.",
+    "Ka puta he awha nui, ka whiua ahau ki te moana — kātahi ka horomia katoatia ahau e tetahi mea hanga moana nui.",
+    "I roto i ngā paparanga o te pōuri — ngā hohonutanga o te moana, te puku o te mea hanga, me te papa hohonu o te moana — i karanga ahau: 'Kāore he atua i tua atu i a Koe; kia whakakorōriatia Koe; i roto ahau i te hunga hara.'",
+    "Nā Allah ahau i whakaora i te hohonutanga, ā, i taku hokinga atu, neke atu i te kotahi rau mano o tōku iwi kua awhi i te pono."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Yunus (Hona)",
+        "Poropiti a Mohi (Mōhi)",
+        "Poropiti a Āperahama (Aperahama)",
+        "Poropiti a Hakaraia (Zakaria)",
+        "Poropiti a Idris (Enoka)"
+      ],
+      "answer": "Poropiti a Yunus (Hona)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te horomia e tētahi mea hanga moana nui",
+        "Te tū atu ki tētahi kaitukino me āna tohunga makutu",
+        "Te maka ki roto i te ahi mura e te kingi riri",
+        "Te rongonga i ngā rongo pai mō tētahi tama i a ia e koroheke ana, ā, e kore e taea te mahi",
+        "Te mātakitaki i tētahi iwi i whakangaromia e te waipuke nui"
+      ],
+      "answer": "Te horomia e tētahi mea hanga moana nui"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te puku o tētahi mea hanga moana nui i te hohonutanga o te moana",
+        "He whare tapu e karapotia ana e ngā maunga i roto i te awaawa pakoko",
+        "He ahi mura i whakamatao, i rangimārie",
+        "He māra ataahua me ngā awa e rere ana me te atarangi",
+        "He āaka nui e takoto ana i runga i te tihi o te maunga"
+      ],
+      "answer": "Te puku o tētahi mea hanga moana nui i te hohonutanga o te moana"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I whakaorangia i te pōuri; he nui te mano i whakapono",
+        "Kua wetekina i te mura ahi, kua mātao haere ngā mura",
+        "I noho hei rangatira mō tētahi iwi kaha, ā, i whakaorangia rātou i te tukino",
+        "I homai he tamaiti i te koroheketanga i muri i ngā tau o te inoi",
+        "I homai he whakaaro nui, he rangatiratanga, me te mana whakahaere i ngā hau me ngā jinn"
+      ],
+      "answer": "I whakaorangia i te pōuri; he nui te mano i whakapono"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

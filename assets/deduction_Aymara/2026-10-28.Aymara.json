@@ -1,0 +1,61 @@
+{
+  "title": "Mä Promesa Embers ukan arsutapa",
+  "intro": "Wasar nina jakʼan saytʼatätawa, kunattejj uka ninajj wali amuyumpiw chʼalljjtayasi. Uñt’irinakax amukt’añan jikisiñatakiw puripxi, ukatx mä sapa yatiyawiw arsuwi, muspharkañ ukat jutïr jan phuqhat sarnaqäw jist’araraki.",
+  "clues": [
+    "Wasaran taqe chuyma servirir puriñatakejj jaya cheqaruw pasapjjta.",
+    "Nina wakicht’añatakix nina naktäwinak ch’allt’asipxañapatakiw mayipxta.",
+    "Maynimpiw parltʼapjjayäta, jupajj thaya ukat jan kuna jan waltʼäwin uñjasiñapatakiw nina naktäwir jawsäna.",
+    "Mä jichhak yurir wawat yatiyawinak apanipxta, khititix wawanïñ marat pasawayki ukaru.",
+    "Uka arsut wawarux Isaac sutimpiw sutichapxta.",
+    "Ibrahim jilataruw mä yuqall wawat kusiskañ yatiyäwinak apanipxta, ukat uka muspharkañ yatiyäwix Ibrahim jilataruw larusiñatak jaytawayi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Khitis nayajja?",
+      "options": [
+        "Ibrahimar Isaacat kusiskañ yatiyäwinak apanipkäna uka Angelanaka",
+        "Lut sat chachar yatiyapkäna uka Angelanaka",
+        "Trono aptʼat Angelanaka",
+        "Infiernonkir Angelanaka",
+        "Noé ukar khithatäpkäna uka Angelanaka"
+      ],
+      "answer": "Ibrahimar Isaacat kusiskañ yatiyäwinak apanipkäna uka Angelanaka"
+    },
+    "trial": {
+      "label": "Yant’awi/Evento",
+      "options": [
+        "Ibrahim chachar Isaacan yurïwipat kusisit yatiyäwinak apaniña",
+        "Lut-ar janïr markapar mutuyatäkasax iwxt’aña",
+        "Yahya yurïwipat Zakariyya ukar yatiyasa",
+        "Taripäwi Urun Trono aptʼasiña",
+        "Isa yurïwipat Maryam ukar yatiyasa"
+      ],
+      "answer": "Ibrahim chachar Isaacan yurïwipat kusisit yatiyäwinak apaniña"
+    },
+    "location": {
+      "label": "Elemento Clave ukax mä juk’a pachanakanwa",
+      "options": [
+        "Mä nina wakicht’ata ch’iqiyata nina nakhantata",
+        "Uma jalsu uma patjjan mä arcajj jalnaqaski",
+        "Mä pʼiyajj mä rollo qalampi sellatawa",
+        "Salmuerampi chʼamañchtʼat laqʼa qollu",
+        "Alaxpachar jalnaqir mä escalera"
+      ],
+      "answer": "Mä nina wakicht’ata ch’iqiyata nina nakhantata"
+    },
+    "outcome": {
+      "label": "Utjiri",
+      "options": [
+        "Isaac sat mä yoqapat wali kusiskañ yatiyäwi",
+        "Yahya sutini mä yuqall wawat kusisiñ yatiyäwi",
+        "Talut chachan Israel Wawanakar apnaqañapatak ajllitapa",
+        "Mä iwxt’awi janïr Lut markar mutuyañkama",
+        "Uma Juicio janïr purinkipan mä arca lurañataki mä kamachi"
+      ],
+      "answer": "Isaac sat mä yoqapat wali kusiskañ yatiyäwi"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

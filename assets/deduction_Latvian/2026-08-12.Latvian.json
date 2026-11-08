@@ -1,0 +1,61 @@
+{
+  "title": "Žēlsirdības un Varenības sūtņi",
+  "intro": "Iedomājieties klusu pēcpusdienu, ko pārtrauc nepazīstamu ceļotāju ierašanās. Viņu izskats ir parasts, bet viņu mērķis ir viss citādi. Viņi nes dievišķu vēstījumu, kas mainīs divu tautu likteni, ienesot smieklus neauglīgās mājās un šausmas grēcīgā pilsētā. Kas ir šie noslēpumainie viesi?",
+  "clues": [
+    "Mūs aizsūtīja pie uzticīga Allāha kalpa, kas bija pazīstams ar savu bezgalīgo viesmīlību.",
+    "Mēs ieradāmies svešinieku izskatā, un tomēr mūsu saimnieks mūsu klātbūtnē sajuta kaut ko pārdabisku.",
+    "Mēs atnesām ziņas, kas lika kādai vecāka gadagājuma sievietei neticīgi smieties, pārsteigumā sitot sev pa seju.",
+    "Mums tika uzdots aizsargāt taisnīgu ģimeni, vienlaikus iznīcinot pilsētu, kas bija pārņemta korupcijas.",
+    "Mēs atteicāmies no mums piedāvātās maltītes, kas tikai pastiprināja mūsu saimnieka aizdomas.",
+    "Mēs atklājām savu patieso dabu tikai pirms aiziešanas, sakot: “Patiesi, mēs esam jūsu Kunga vēstneši.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas mēs esam?",
+      "options": [
+        "Ābrahāma viesi",
+        "Jēzus mācekļi",
+        "Alas pavadoņi",
+        "Abrahas armija",
+        "Ja-Sinas vēstneši"
+      ],
+      "answer": "Ābrahāma viesi"
+    },
+    "trial": {
+      "label": "Mūsu misija",
+      "options": [
+        "Lai pārbaudītu Ābrahāma ticību attiecībā uz savu dēlu",
+        "Lai nodotu Rakstus Ābrahāmam",
+        "Lai paziņotu par Īzāka dzimšanu un Lota tautas iznīcināšanu",
+        "Lai aizvestu Ābrahāmu uz Kaabu",
+        "Lai glābtu Ābrahāmu no uguns"
+      ],
+      "answer": "Lai paziņotu par Īzāka dzimšanu un Lota tautas iznīcināšanu"
+    },
+    "location": {
+      "label": "Parādīšanās vieta",
+      "options": [
+        "Ēģiptes zemē",
+        "Ūras pilsētā",
+        "Ābrahāma mājās",
+        "Ēdenes dārzā",
+        "Pie Zamzama akas"
+      ],
+      "answer": "Ābrahāma mājās"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Ābrahāms kļuva par ķēniņu",
+        "Ābrahāms uzcēla Kaabu",
+        "Sāra dzemdēja Īzāku, un Lota tauta tika iznīcināta",
+        "Ābrahāms emigrēja uz Palestīnu",
+        "Ābrahāma tauta tika izglābta no lieliem plūdiem"
+      ],
+      "answer": "Sāra dzemdēja Īzāku, un Lota tauta tika iznīcināta"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

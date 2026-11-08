@@ -1,0 +1,61 @@
+{
+  "title": "Suara dari Semak yang Terbakar",
+  "intro": "Ungkap identitas sosok penting yang perjalanannya dimulai dengan pertemuan ajaib dan takdirnya terjalin dengan pembebasan rakyat yang tertindas. Individu ini dipilih untuk tugas monumental, menghadapi tantangan besar dengan dukungan ilahi.",
+  "clues": [
+    "Saya lahir di masa penindasan yang hebat, di mana bayi-bayi dari kaum saya dibunuh.",
+    "Kehidupan awal saya dimulai dengan dibuang ke sungai oleh orang tua saya, namun saya ditemukan dan dibesarkan di rumah penindas kaum saya sendiri.",
+    "Saya pernah melarikan diri dari sebuah kota setelah tanpa sengaja menyebabkan kematian seseorang selama suatu perselisihan.",
+    "Saya menerima pesan ilahi dan tongkat ajaib di tempat suci, di mana saya diperintahkan untuk menghadapi penguasa yang kuat.",
+    "Saudara laki-laki saya ditunjuk sebagai pembantu saya dalam misi saya, karena adanya kendala dalam kemampuan berbicara saya.",
+    "Aku memimpin rakyatku menyeberangi laut yang terbelah, melarikan diri dari kejaran pasukan tirani."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Yusuf",
+        "Nabi Isa",
+        "Nabi Musa",
+        "Nabi Nuh",
+        "Nabi Ibrahim"
+      ],
+      "answer": "Nabi Musa"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Menjalani kekeringan selama bertahun-tahun",
+        "Membangun Bahtera",
+        "Menghadapi Firaun dan para penyihirnya",
+        "Dilemparkan ke dalam tungku api",
+        "Kehancuran kaum Tsamud"
+      ],
+      "answer": "Menghadapi Firaun dan para penyihirnya"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Ka'bah",
+        "Tembok Besi",
+        "Staf",
+        "Kapal Nuh",
+        "Cincin Sulaiman"
+      ],
+      "answer": "Staf"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Kota Sodom telah digulingkan",
+        "Orang-orang itu ditelan oleh bumi.",
+        "Banjir besar menelan seluruh negeri.",
+        "Firaun dan pasukannya tenggelam.",
+        "Tembok kota runtuh akibat teriakan."
+      ],
+      "answer": "Firaun dan pasukannya tenggelam."
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

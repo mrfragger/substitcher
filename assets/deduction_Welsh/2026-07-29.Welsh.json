@@ -1,0 +1,61 @@
+{
+  "title": "Yr Ymlid Llysol",
+  "intro": "Yng nghoridorau pŵer, daeth ffigwr o statws uchel mewn cariad â gwas yr oedd ei harddwch yn rhywbeth arallfydol. Arweiniodd y cariad hwn at gyfres o ddigwyddiadau a fyddai’n profi teyrngarwch, yn datgelu gwirioneddau cudd, ac yn y pen draw yn cadarnhau diniweidrwydd y gwas.",
+  "clues": [
+    "Roeddwn i'n byw yng ngwlad y Nîl, mewn palas o ddylanwad mawr.",
+    "Daeth dyn ifanc i mewn i'm cartref, ac fe wnaeth ei bresenoldeb aflonyddu ar fy myd.",
+    "Ceisiais ei hudo, ond ceisiodd loches yn ei Arglwydd.",
+    "Rhwygais ei wisg o'r tu ôl, ond roedd y dystiolaeth yn awgrymu fy nhwyllo.",
+    "I dawelu clecs y boneddigion, gwahoddais nhw i gynulliad a rhoi gwrthrychau miniog yn eu dwylo.",
+    "Yn y diwedd, cyffesais yn gyhoeddus fy mai, gan gydnabod y gwir gerbron y brenin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Gwraig Al-Aziz",
+        "Asiya (Gwraig y Pharo)",
+        "Bilqis (Brenhines Sheba)",
+        "Maryam (Mam Isa)",
+        "Mam Musa"
+      ],
+      "answer": "Gwraig Al-Aziz"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Ceisiodd hi hudo’r Proffwyd Yusuf",
+        "Ceisiodd ladd y Proffwyd Musa",
+        "Honnodd ei bod yn dduwies",
+        "Adeiladodd dŵr i herio Allah",
+        "Arweiniodd fyddin yn erbyn Makkah"
+      ],
+      "answer": "Ceisiodd hi hudo’r Proffwyd Yusuf"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Crys wedi'i rhwygo o'r cefn",
+        "Llo aur",
+        "Staff a drodd yn sarff",
+        "Camel benywaidd",
+        "Lamp"
+      ],
+      "answer": "Crys wedi'i rhwygo o'r cefn"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cyffesodd a chydnabu'r gwir",
+        "Boddwyd hi gyda'i byddin",
+        "Trodd hi'n golofn o halen",
+        "Cafodd ei llyncu gan y ddaear",
+        "Cafodd ei dinistrio gan wynt sgrechian"
+      ],
+      "answer": "Cyffesodd a chydnabu'r gwir"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

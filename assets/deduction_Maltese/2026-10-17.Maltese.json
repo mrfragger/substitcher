@@ -1,0 +1,61 @@
+{
+  "title": "Ix-Xewqa fil-Kamra Sagra",
+  "intro": "Tidħol fis-santwarju kwiet u tara qaddej devot ta’ Alla wieqaf jitlob. Idejhom merfugħa ’l fuq, għajnejhom imtellgħin ’il fuq, u qalbhom iġġorr xewqa li ilha għaddejja ħajjitha kollha. Min hi din ir-ruħ paċenzjuża li l-fiduċja tagħha f’Alla qatt ma tbandlet?",
+  "clues": [
+    "Qattajt snin twal fil-qima u t-talb, fejn rajt mirakli li saħħew il-fidi tiegħi.",
+    "Ġejt mogħti r-responsabbiltà li nieħu ħsieb ruħ żagħżugħa mbierka fis-santwarju.",
+    "Hekk kif xjieħt, l-akbar niket tiegħi kien li ma kellix tfal, għax marti kienet sterili u t-tnejn li aħna konna avvanzati fl-età.",
+    "Tlabt lill-Mulej tiegħi għal suċċessur mill-familja tiegħi stess, xi ħadd li jkompli l-wirt tal-profezija.",
+    "Waqt li kont wieqaf fin-niċċa tat-talb, l-anġli sejħuli u qaluli, 'Alla jagħtik l-aħbar it-tajba', u ħassejtni milqut mill-biża' u l-istħir.",
+    "Qaluli li se jkolli tifel jismu Yahya, isem li qatt ma kien ingħata lil ħadd qabel, u bħala sinjal ma kontx se nkellem lin-nies għal tlett ijiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Żakkarija",
+        "Profeta Yahya",
+        "Profeta Isa",
+        "Il-Profeta Dawud",
+        "Luqman l-Għaref"
+      ],
+      "answer": "Profeta Żakkarija"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Sterilità u xjuħija waqt li tixtieq werriet ġust",
+        "Li tintrema f’nar qawwi",
+        "Nibla’ minn ħuta kbira",
+        "It-telf ta’ saltna minħabba tirann",
+        "Li tkun eżiljat minn art twelidek"
+      ],
+      "answer": "Sterilità u xjuħija waqt li tixtieq werriet ġust"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "In-niċċa tat-talb (mihrab)",
+        "Il-vapur il-kbir (l-Arka)",
+        "L-għollieq jaqbad",
+        "Il-bastun li nbidel f’serp",
+        "Il-ġemela ta’ Alla"
+      ],
+      "answer": "In-niċċa tat-talb (mihrab)"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Ingħata iben ġust u tkellem mill-ġdid wara tlett ijiem ta’ silenzju",
+        "Meqrud minn għargħar minħabba n-nuqqas ta’ twemmin",
+        "Ingħata saltna vasta u kontroll fuq ir-riħ",
+        "Meħlus minn żaqq ħuta",
+        "Mibela’ mill-art"
+      ],
+      "answer": "Ingħata iben ġust u tkellem mill-ġdid wara tlett ijiem ta’ silenzju"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

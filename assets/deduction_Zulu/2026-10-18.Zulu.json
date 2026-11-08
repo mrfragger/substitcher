@@ -1,0 +1,61 @@
+{
+  "title": "Izindaba Ezijabulisayo Ebudaleni",
+  "intro": "Ubona umzuzu lapho ithemba livuselelwa khona. Umbhangqwana, osedlule isikhathi eside sobuzali, uthola isithembiso esiphikisana nemithetho yemvelo. Phakathi kwawo kumi umuntu okhona uqobo lwakhe oluwuphawu lwesihe saphezulu—umphefumulo omiselwe ukuba umprofethi, ophethe ifa elizohlala izizukulwane ngezizukulwane. Ungubani lo muntu ophawulekayo?",
+  "clues": [
+    "Ngazalelwa abazali ababesekhulile futhi bengenabantwana.",
+    "Ukuzalwa kwami ​​kwamenyezelwa yizingelosi ezafika njengezivakashi emndenini wami.",
+    "Nganikwa ukuhlakanipha nobuprofethi, futhi ngikhulunywa phakathi kweziguli.",
+    "Ubaba wayebizwa ngokuthi umngane ka-Allah, futhi mina ngangiyisipho kuye eminyakeni yakhe yokugcina.",
+    "Benginomfowethu owayengumprofethi naye, futhi sobabili sabusiswa yiNkosi yethu.",
+    "Indodana yami nayo yayingumprofethi, futhi inzalo yami yanikwa umbhalo kanye nobuprofethi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Ishaq (u-Isaka)",
+        "Umprofethi u-Ismail (u-Ishmael)",
+        "Umprofethi uYaqub (uJakobe)",
+        "Umprofethi uYahya (uJohane)",
+        "Umprofethi u-Uzair (u-Ezra)"
+      ],
+      "answer": "Umprofethi u-Ishaq (u-Isaka)"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Wazalelwa abazali asebekhulile",
+        "Kuphonswe emlilweni",
+        "Unikezwe umbuso nengcebo",
+        "Wahola abantu bakhe baphuma eGibhithe",
+        "Wakha umkhumbi ukuze asindise abakholwayo"
+      ],
+      "answer": "Wazalelwa abazali asebekhulile"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Izindaba ezimnandi zendodana",
+        "Isihlahla esivuthayo",
+        "Ithole legolide",
+        "Umphongolo wesivumelwano",
+        "Intonga yobuprofethi"
+      ],
+      "answer": "Izindaba ezimnandi zendodana"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Waba umprofethi onozalo lwabaprofethi",
+        "Waba yinkosi ecebile",
+        "Abantu bakhe babhujiswa ngenxa yokungakholwa",
+        "Wasindiswa emlilweni",
+        "Wanikwa ikhono lokukhuluma esengumntwana"
+      ],
+      "answer": "Waba umprofethi onozalo lwabaprofethi"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

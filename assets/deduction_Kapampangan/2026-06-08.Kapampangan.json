@@ -1,0 +1,61 @@
+{
+  "title": "Ing Talapag-ayunu ning Santuario",
+  "intro": "keng tahimik a oras ning bengi, ing metung a debotung kaladwa inaus ne ing mapaglunus kilub ning banal a pader ning metung a sagradung lugal. Deng banuang alang patugut a kasalpantayanan at kapibabatan malapit na lang ablasan king metung a milagru a magdalang tula at pamana ning pangapropeta.",
+  "clues": [
+    "Gagamitan ku ing aldo at bengi ku king pamagdebosyon kilub ning metung a banal a santuaryu, parati kung manalangin king kanakung Ginu.",
+    "Meging matua ku, at ing asawa ku baug ya, oneng e ku mewalan kapanayan king pakalulu ning Allah.",
+    "Mirinan kung metung a anak a lalaki, a milagyuan Yahya, a meging propeta at metung a sulu ning katuliran.",
+    "metung kung propeta, mitubud para gabayan la reng anak ning Israel.",
+    "Ibat ku king lahi nang Propeta Harun at migsilbi kung pari king Templo.",
+    "Mipagkatiwalan kanaku ing pamaglingap kang Maryam, ing ima nang Isa, at asaksyan ku ing keyang milagru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ninu Aku?",
+      "options": [
+        "Propeta Zakariyya",
+        "Propeta Yahya",
+        "Propeta Ilyas",
+        "Propeta Ishaq",
+        "Propeta Ya'qub"
+      ],
+      "answer": "Propeta Zakariyya"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Mipagkalub yang anak a lalaki king pangamatua na",
+        "Miligtas ya keng milalablab a api",
+        "Meligtas ya keng atian ning asan",
+        "Mekaligtas ya keng maragul a albug",
+        "Kinayap ya keng mabayat a sakit"
+      ],
+      "answer": "Mipagkalub yang anak a lalaki king pangamatua na"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "Ing Mihrab (prayer niche)",
+        "Ing Kaaba",
+        "Ing Masilab a Dikut",
+        "Ing Kaban ning Kasunduan",
+        "Ing Kueba da ring Pitung Matudtud"
+      ],
+      "answer": "Ing Mihrab (prayer niche)"
+    },
+    "outcome": {
+      "label": "Kelabasan",
+      "options": [
+        "Mipagkalub yang metung a matulid a anak a meging propeta",
+        "mesira ya keng masikan a bagyu",
+        "Linud king dagat",
+        "Miligtas ya keng pangasira",
+        "Mibalik la kareng karelang tau kaybat dang miligtas keng metung a asan"
+      ],
+      "answer": "Mipagkalub yang metung a matulid a anak a meging propeta"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

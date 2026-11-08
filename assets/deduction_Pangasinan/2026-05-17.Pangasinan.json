@@ -1,0 +1,61 @@
+{
+  "title": "Saray Arkitekto na Bato",
+  "intro": "Isipen pa so sakey a makapanyarin sibilisasyon, ya walaan na biskeg tan dunong, ya manguukit na angkakabaleg iran ayaman ed gilig na palandey. Sayan grupo et walaan na baleg ya inkaaligwas tan nikadkaduman inkadunong ed panagpaalagey. Balet, anggaman akaawat ira na malinew iran pasakbay, pinili ra so dalan ya mangitonton ed makapabigla tan agnalinglingwanan a konklusyon. Nabidbir mo kasi iyan grupo ya say istorya ra et manserbin baleg a leksion parad amin ya mannononot?",
+  "clues": [
+    "Naikdan kami na biskeg tan dunong, kanian akagawa kami na mararakep iran kaabungan ya direkta ed kapalandeyan.",
+    "Naikdan kami na malinew a tanda manlapud si Allah, sakey a nikadkaduman pinalsa ya nepeg ya paulyanan ya anggapoy guloen pian manpastol.",
+    "Nagmaliw ya mapaatagey so komunidad mi, ya isusuppiat da so madibinon mensahe ya inawit na sakey a mensahero a nanlapud limog mi.",
+    "Nankokomplot kami pian sakitan so mamilagron tanda, anggaman ed saray pasakbay na graben dusa.",
+    "Inunor mi so ganggan ya abuloyan so espisyal a pinalsa ya oninum ed bobon mi diad nanduruman agew.",
+    "Makapasinagem so anggaan mi, ya atumba ed sakey a makapataktakot ya insabog kayari na ginawa min impakasumlang."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa Sikatayo?",
+      "options": [
+        "Saray totoo na 'Ad",
+        "Saray totoo ed Midian",
+        "Saray totoo na Elepante",
+        "Saray totoo ed Thamud",
+        "Saray totoo ed Lut"
+      ],
+      "answer": "Saray totoo ed Thamud"
+    },
+    "trial": {
+      "label": "Say Baleg ya Subok/Event Mi",
+      "options": [
+        "Say delap ya amaknol ed dalin",
+        "Say inkaapag na dayat",
+        "Say inkaderal na sakey a sabog/eyag",
+        "Say panagpoolan na sakey a syudad",
+        "Say pagmaliw a dabok na palandey"
+      ],
+      "answer": "Say inkaderal na sakey a sabog/eyag"
+    },
+    "location": {
+      "label": "Sakey a Manunan Elemento ed Istorya Tayo",
+      "options": [
+        "Sakey a balitok a kilaw a baka",
+        "Sakey a mamilagron kabatyan a kamelyo",
+        "Sakey a manpopoolan a kakiewan",
+        "Sakey a mansasalita a manok",
+        "Sakey a makapadinayew a trono"
+      ],
+      "answer": "Sakey a mamilagron kabatyan a kamelyo"
+    },
+    "outcome": {
+      "label": "Say Sankatageyan ya Pansumpalan tayo",
+      "options": [
+        "Niiter so baleg a kayamanan tan pakayari",
+        "Intagey ed inkapropeta",
+        "Sigpot a kadederal panamegley na madibinon dusa",
+        "Naperdona kayari na masimoon a panagbabawi",
+        "Nitaytayak ed interon dalin pian manliber-liber"
+      ],
+      "answer": "Sigpot a kadederal panamegley na madibinon dusa"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

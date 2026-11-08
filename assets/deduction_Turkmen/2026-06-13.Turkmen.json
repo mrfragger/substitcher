@@ -1,0 +1,61 @@
+{
+  "title": "Mekkäniň Dogruçyllary",
+  "intro": "Wahyýyň ilkinji günlerinde, hakykat habary berk garşylyklara duçar bolanda, käbir ruhlar öz ynamlarynda berk durdular. Bu imanlylar iman nuruny söndürmek isleýänlerden akyl ýetirip bolmajak zalymlyga duçar boldular. Olaryň jebir-jepasy agyr, jebir-jepasy örän uludy, ýöne dilleri hiç haçan Allanyň ýeke-täkligini yglan etmekden ýüz öwürmedi. Ümitsizligiň çuňlugyna düşenlerinde-de, olary ylahy gorag gurşap aldy we synaglaryny imanyň ebedi subutnamasyna öwürdi. Geliň, bu ajaýyp ruhlaryň ýoluny öwreneliň.",
+  "clues": [
+    "Biz ýeke-täk Hudaýa bolan ynanjymyzy taşlamakdan boýun gaçyranymyz üçin agyr jeza bilen synag edildik",
+    "Zalymlygy nähili döredijilikli bolsa-da, halkymyz biziň yhlaslylygymyzy bozup bilmedi",
+    "Bizi gündiz guýudan asyp goýýardylar, ýöne ilahi kömek hemişe ýakyndady",
+    "Biziň çydamlylygymyz hatda çydamlylygymyzyň şaýady bolanlary hem haýran galdyrdy",
+    "Mekkede köp adam bizi öz ynanjymyzdan ýüz öwürmäge mejbur etmäge synanyşdy, ýöne biz berk durduk",
+    "Hemme zat ýitirilen ýaly bolanda, biziň azatlygymyz gudratly ilahi aralaşma arkaly geldi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Bilal al-Habaşi",
+        "Ammar ibn Ýasir",
+        "Mikdad ibn al-Eswed",
+        "Habbab ibn al-Aratt",
+        "Salman al-Farsi"
+      ],
+      "answer": "Bilal al-Habaşi"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Pygambere garşy söweş",
+        "Butlara sežde etmekden boýun gaçyrandygy üçin yzarlanma",
+        "Ýangyn hadysasy bilen baglanyşykly ynam synagy",
+        "Bölünen gijeki syýahatyň synagy",
+        "Bagyň ýok edilmeginiň synagy"
+      ],
+      "answer": "Butlara sežde etmekden boýun gaçyrandygy üçin yzarlanma"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Uhud dagy",
+        "Käbäniň mukaddes ýeri",
+        "Abu Sufýanyň guýusy",
+        "Kuraýşyň köşgi",
+        "Medine şäheri"
+      ],
+      "answer": "Abu Sufýanyň guýusy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Beýik söweşde ýeňiş",
+        "Hudaýyň aralaşmagy arkaly azatlyga çykmak",
+        "Allanyň ýolunda şehitlik",
+        "Jennete gönüden kabul edilmek",
+        "Mübärek ýere göçmek"
+      ],
+      "answer": "Hudaýyň aralaşmagy arkaly azatlyga çykmak"
+    }
+  },
+  "verseRef": "85:4-6",
+  "arabic": "",
+  "verse": "85:4-6"
+}

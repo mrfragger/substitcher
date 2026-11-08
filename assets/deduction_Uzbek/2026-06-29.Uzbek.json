@@ -1,0 +1,61 @@
+{
+  "title": "Bemor ruhi",
+  "intro": "Payg'ambarlik yilnomalarida sabr-toqati borliqlarining tubiga singib ketgan bir qalb bor edi. Ko'z yoshlari va vaqt o'tishi bilan ular umidga sodiq qolishdi va ilohiy donolikka ishonishning abadiy namunasiga aylanishdi. Bu o'zgarmas shaxsning sirini ochib bera olasizmi?",
+  "clues": [
+    "Men payg'ambarlar oilasida tug'ilganman, ammo eng katta sinovim eng sevgan farzandim orqali bo'ldi.",
+    "O'g'lim ko'rgan tushdan rashk haqida ogohlantirish oldim va uning xavfsizligi uchun qo'rqdim.",
+    "Ko'zlarim g'amdan oqarib ketdi, lekin men hech qachon Allohning rahmatiga bo'lgan ishonchimni yo'qotmadim.",
+    "Yo'qolgan bolamning hidi menga uzoqdan yetib keldi va men o'shanda uchrashuv yaqinligini bilardim.",
+    "Qadimgi vahiy amalga oshganida va ko'rish qobiliyatim tiklanganida, oilam minnatdorchilik bilan ta'zim qildi.",
+    "Menga qonga belangan ko'ylak sovg'a qilingan edi, keyinchalik esa ko'rish qobiliyatimga davo bo'lgan ko'ylakni oldim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Ibrohim payg'ambar",
+        "Payg'ambar Ishoq",
+        "Ya'qub payg'ambar",
+        "Yusuf payg'ambar",
+        "Payg'ambar Ayyub"
+      ],
+      "answer": "Ya'qub payg'ambar"
+    },
+    "trial": {
+      "label": "Muhim sinov",
+      "options": [
+        "Sevimli farzandidan ajralish va ko'rish qobiliyatini yo'qotish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Katta baliq tomonidan yutib yuborilmoqda",
+        "Boylik, bolalar va sog'lig'ini yo'qotishda davom etish",
+        "Akalari tomonidan xiyonat qilinib, quduqqa tashlanmoqda"
+      ],
+      "answer": "Sevimli farzandidan ajralish va ko'rish qobiliyatini yo'qotish"
+    },
+    "location": {
+      "label": "Ramziy obyekt",
+      "options": [
+        "Avval haqiqatni yashirgan, keyin esa uni fosh qilgan ko'ylak",
+        "Ilonga aylangan tayoq",
+        "Payg'ambarni yutib yuborgan kit",
+        "Sovugan olov",
+        "Yonayotgan buta yonida bir juft sandal"
+      ],
+      "answer": "Avval haqiqatni yashirgan, keyin esa uni fosh qilgan ko'ylak"
+    },
+    "outcome": {
+      "label": "Ilohiy qaror",
+      "options": [
+        "Yo'qolgan yaqiningiz bilan uchrashuv va ko'rish qobiliyatini tiklash",
+        "Zulm ostidagi xalqdan qutqarilish",
+        "Baliq qornidan qutulish",
+        "Yonayotgan olovdan najot",
+        "Buyuk taxtga ko'tarilish"
+      ],
+      "answer": "Yo'qolgan yaqiningiz bilan uchrashuv va ko'rish qobiliyatini tiklash"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

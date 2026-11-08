@@ -1,0 +1,61 @@
+{
+  "title": "An t-anam taobh thiar den Idol",
+  "intro": "I scáth eacsadóis mhóir ón tíorántacht, d’fhan an figiúr mistéireach seo san fhásach. Agus ceannaire pobail roghnaithe ag dreapadh sliabh naofa le haghaidh comaoineach diaga, tháinig triail mhór orthu siúd a fágadh ina ndiaidh. Thapaigh an duine seo an deis chun creidimh phobail iomláin a athmhúnlú. Nuair a d’fhill an ceannaire leis an bhfírinne, forordaíodh pionós uathúil agus síoraí. An féidir leat a réiteach cé hé an t-anam conspóideach agus glic seo?",
+  "clues": [
+    "Thaistil mé le pobal a bhí saor ó ghreim an fhir a bhí faoi chois cumhachtach trí chomharthaí míorúilteacha.",
+    "Nuair a chuaigh a gceannaire suas an sliabh chun treoir a fháil, d’fhan mé i measc na ndaoine a d’fhan taobh thiar.",
+    "Bhailigh mé miotal luachmhar óna n-ornáidí agus rinne mé rud éigin de a tháirg fuaim.",
+    "Tríd an gcruthú seo, chuir mé ina luí ar ghlúin iomlán go raibh a ndia aimsithe acu san fhásach.",
+    "Nuair a d’fhill an ceannaire, roghnaíodh mé go sonrach agus fiafraíodh díom cad a spreag mé chun an mheabhlaireacht sin a dhéanamh.",
+    "Ba é mo phionós ar an saol seo nach mbainfeadh aon duine liom ná nach dtiocfadh sé i ngar dom, comhartha náire a mhairfidh mé go deo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Samiri",
+        "an Fáidh Músa",
+        "Draíodóirí an Pharaoh",
+        "Haman, aire Pharaoh",
+        "Iblis, an duine diúltaithe"
+      ],
+      "answer": "An Samiri"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Déanamh an lao órga",
+        "An comhrac le Pharaoh",
+        "Tógáil áirc mhóir",
+        "An diúltú umhlú os comhair Ádhaimh",
+        "Scriosadh chathracha Lut"
+      ],
+      "answer": "Déanamh an lao órga"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Íol lao órga",
+        "Bata a d’iompaigh ina nathair",
+        "Camall baineann a tháinig amach as an gcarraig",
+        "Áirc tógtha ar shliabh",
+        "Ríchathaoir á iompar ar an ngaoth"
+      ],
+      "answer": "Íol lao órga"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Daoradh a bheith dothuigthe, ag rá 'gan teagmháil' i gcónaí",
+        "Báite taobh leis an tíoránach agus a arm",
+        "Caitheadh ​​isteach i dtine a d’éirigh fionnuar agus síochánta",
+        "Buailte le dall as an bhfírinne a dhiúltú",
+        "Tréigthe i bpoll ag gaolta éadmhara"
+      ],
+      "answer": "Daoradh a bheith dothuigthe, ag rá 'gan teagmháil' i gcónaí"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

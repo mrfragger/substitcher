@@ -1,0 +1,61 @@
+{
+  "title": "Propheta Montium Sculptorum",
+  "intro": "In asperis desertis antiquae Arabiae, figura quaedam inter homines arti extraordinaria praeclari emersit. Domus eorum ex solida rupe surrexerunt, attamen corda eorum duriora erant quam montes quos sculpserunt. Nuntius divinus cum uno signo mirabili advenit — sed superbia et contumacia ad celeres et terrificas consequentias duxerunt. Potesne nobilem servum agnoscere cuius populus exitium prae ductu elegit?",
+  "clues": [
+    "Missus sum ut monens ad populum meum, eos ad cultum unius Dei vocans.",
+    "Meus populus inter saxa insignes habitabat, domos magnificas in lateribus montium sculpens.",
+    "Camelus mirabilis e solida petra ad preces meas emersit, signum manifestum ab Omnipotente.",
+    "Dixi meis hominibus ut aquam cum hac camelā communicarent et ne ei nocerent.",
+    "Populus meus contra camelam coniuravit et ei vincula vulneraverunt, suam ipsam exitium signans.",
+    "Terrae motus terribilis populum meum percussit, et in habitaculis suis immobiliter prostrati sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Salih",
+        "Propheta Hud",
+        "Propheta Shu'ayb",
+        "Propheta Nuh",
+        "Propheta Musa"
+      ],
+      "answer": "Propheta Salih"
+    },
+    "trial": {
+      "label": "Quod fuit iudicium definitorium?",
+      "options": [
+        "Fractura camelæ mirabilis",
+        "Arcam magnam inter derisum aedificans",
+        "Pharaoni tyrannico obviam",
+        "In ignem ardentem coniectus",
+        "Ruptura foederis Sabbati"
+      ],
+      "answer": "Fractura camelæ mirabilis"
+    },
+    "location": {
+      "label": "Quod erat elementum principale?",
+      "options": [
+        "Camelus e rupe emersit",
+        "Arca lignea magna",
+        "Baculus qui mare divisit",
+        "Balaena ingens",
+        "Mons supra pendens"
+      ],
+      "answer": "Camelus e rupe emersit"
+    },
+    "outcome": {
+      "label": "Quod erat eorum fatum ultimum?",
+      "options": [
+        "Subitus terrae motus de caelis",
+        "Ingenti diluvio submersi",
+        "Urbes eorum divino iussu eversae",
+        "Vento ardenti adustus",
+        "A terra absorptus"
+      ],
+      "answer": "Subitus terrae motus de caelis"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

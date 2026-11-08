@@ -1,0 +1,61 @@
+{
+  "title": "Electus Articulatus",
+  "intro": "In umbra montis, ubi verba divina descendebant, fides populi sub fulgore auri vacillabat. Anima quaedam, eloquentia praedita, maiori missioni quasi adiumentum praebuit, tamen momentum profundae probationis subiit. Cum nuntius electus ad sacrum munus ascendit, haec persona remansit, gentem inquietam implorans. Quis est haec anima constans cuius vox contra idololatriam surrexit?",
+  "clues": [
+    "Ab Allah electus sum ut propheta essem, quamquam mea historia saepe cum alia narratur.",
+    "Ad principem tyrannum missus sum, sed munus meum erat adiuvare, non ducere.",
+    "Eloquentia mihi donatum erat, et verba mea corda mollire destinata erant.",
+    "Cum comes meus ad sacrum conventum discessisset, ego relictus sum ad populum inquietum ducendum.",
+    "Impatientia eorum, ex ornamentis suis imaginem finxerunt, et ego eos rogavi ut Allah fideles manerent.",
+    "Comes meus rediit et me comprehendit, sed ego explicavi populum me superasse et paene necavisse; non enim inter nocentes fui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Musa",
+        "Propheta Harun",
+        "Propheta Isaias",
+        "Propheta Yahya",
+        "Propheta Zacharias"
+      ],
+      "answer": "Propheta Harun"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "In ignem coniectus",
+        "In puteum coniectus",
+        "Casum vituli aurei affrontans",
+        "Examen morbi gravis",
+        "Experimentum amittendi divitias et liberos"
+      ],
+      "answer": "Casum vituli aurei affrontans"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Vitulus aureus",
+        "Ministri",
+        "Arca Foederis",
+        "Tabulae",
+        "Rubus ardens"
+      ],
+      "answer": "Vitulus aureus"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Gravissime punitus",
+        "Ignositus et absolvitus",
+        "Rex factus",
+        "In caelum sublatus",
+        "Nova scriptura data"
+      ],
+      "answer": "Ignositus et absolvitus"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Dzień ostatecznego pokazu",
+  "intro": "Wezwani na wielki pokaz siły, grupa utalentowanych artystów stanęła w obliczu nieoczekiwanej prawdy, która miała zmienić ich życie na zawsze.",
+  "clues": [
+    "Słynęliśmy ze swojego rzemiosła, byliśmy mistrzami iluzji i sztuczek.",
+    "Zostaliśmy wezwani przez władcę, aby stawić czoła przeciwnikowi, który władał prostym laską.",
+    "Gdy ujrzeliśmy prawdę, padliśmy na twarz i wyznaliśmy wiarę w Pana światów.",
+    "Tyran groził nam surową karą, ale nie wahaliśmy się.",
+    "Byliśmy jednymi z pierwszych, którzy uwierzyli w przesłanie po zobaczeniu wyraźnego znaku.",
+    "Zostaliśmy zamęczeni za wiarę, ale będziemy pierwszymi, którzy wejdą do Raju ze sprawiedliwymi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jesteśmy?",
+      "options": [
+        "Magowie Faraona",
+        "Izraelici",
+        "Ludzie z Thamud",
+        "Uczniowie Izajasza",
+        "Armia Abrahy"
+      ],
+      "answer": "Magowie Faraona"
+    },
+    "trial": {
+      "label": "Próba / Wydarzenie",
+      "options": [
+        "Konkurs z prorokiem Musą",
+        "Budowanie wieży",
+        "Wielka Powódź",
+        "Plaga szarańczy",
+        "Morze Rozdzielające"
+      ],
+      "answer": "Konkurs z prorokiem Musą"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Dzień Festiwalu",
+        "Dolina Tuwa",
+        "Miasto Iram",
+        "Ogród Wieczności",
+        "Równina Arafat"
+      ],
+      "answer": "Dzień Festiwalu"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zostali ukrzyżowani publicznie",
+        "Utonęli w morzu",
+        "Stali się naśladowcami proroka",
+        "Zostali wysłani na wygnanie",
+        "Zostali strawieni przez ogień"
+      ],
+      "answer": "Zostali ukrzyżowani publicznie"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Örtülü Komplocu",
+  "intro": "Kendinizi, vahiy günlerinden kalma güçlü bir figürün huzurunda buluyorsunuz. Bu kişi, zekası, zenginliği ve halkı arasındaki statüsüyle tanınıyordu. Açık işaretler geldiğinde, güzelliği fark etti ancak teslimiyet yerine meydan okumayı seçti. Bu ruhu karanlıkta planlar kurmaya iten neydi ve nihai kaderi ne oldu?",
+  "clues": [
+    "Bol kaynaklara ve nüfuza sahip olduğum için sözüm meclislerde etkili oldu.",
+    "Tanrı'nın sözleri okunduğunda, onların etkileyiciliğini inkar edemezdim, fakat gururum boyun eğmeme izin vermedi.",
+    "Danışmanlarımı topladım ve mesajı itibarsızlaştırmanın bir yolunu düşünmek için kendimi izole ettim.",
+    "Uzun uzun düşündükten sonra, bunun insanları uzaklaştırmak için geçmişten gelen bir sihirden başka bir şey olmadığına karar verdim.",
+    "Ardından gelen vahiy doğrudan bana hitap etti: 'Yarattığım kişiyi yalnız bırakın.' Entrikalarım yüzünden özellikle hedef alınmıştım.",
+    "Çok geçmeden, bana önceden uyarılan o ateş beni alnımdan yakalayacak ve kaçış yolum kalmayacak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "El-Valid ibn el-Muğira",
+        "Ebu Lahab",
+        "Ebu Cehl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "El-Valid ibn el-Muğira"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Peygamberi öldürmek için komplo kurdular",
+        "Müslümanlara karşı boykot başlattı.",
+        "Kuran'ı sihir olarak nitelendirmek için bir konsey toplandı.",
+        "Peygamberi Mekke'den kovmak için komplo kurdular.",
+        "Servetini yetimlerle paylaşmayı reddetti."
+      ],
+      "answer": "Kuran'ı sihir olarak nitelendirmek için bir konsey toplandı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Vahiy",
+        "Konsey",
+        "Alnındaki Saçak",
+        "Servet",
+        "Kalem"
+      ],
+      "answer": "Alnındaki Saçak"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Tövbe etti ve İslam'ı kabul etti.",
+        "Habeşistan'a göç etti.",
+        "Ölümcül bir hastalığa yakalandı.",
+        "Müslümanlara karşı yapılan savaşta öldü.",
+        "O, cehennem ateşine mahkum edildi."
+      ],
+      "answer": "O, cehennem ateşine mahkum edildi."
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

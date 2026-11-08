@@ -1,0 +1,61 @@
+{
+  "title": "Moagi wa Boikgogomoso",
+  "intro": "Mo lefatsheng la bogologolo le le neng le busiwa ke mmuso o o neng o ganetsa, motho mongwe wa botlhokwa o ne a na le maemo a a tlhotlheletsang. Moya ono o ne o thusa thata mo maanong a magolo a mmusi, o thusa mo pusong ya bone e e gatelelang le go gwetlha molaetsa wa bomodimo. Boswa jwa bone bo lomagane le go latelela maatla a lefatshe le go itatola boammaaruri.",
+  "clues": [
+    "Ke ne ke direla mmusi yo o boitshegang yo o neng a gatelela batho ka dikokomana.",
+    "Leina la me le umakiwa gangwe le gape mo Bukeng ya Bomodimo go bapa le moeteledipele yono yo o maatla.",
+    "Ke ne ka newa tiro ya go aga tiro e kgolo, e leng kago e e kwa godimo e e neng e diretswe go fitlha kwa magodimong.",
+    "Ke gakolotse mong wa me gore a bolaye barwa ba Bana ba Iseraele mme a boloke bomorwadie.",
+    "Ke ne ke amega mo maanong le mo dithulaganyong tsa bolotsana kgatlhanong le morongwa yo o nonofileng wa ga Allah.",
+    "Bokhutlo jwa me, mmogo le mong wa me le mophato wa gagwe, bo ne jwa tla mo metsing a lewatle le legolo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Nimerode",
+        "Aberaha",
+        "Goliathe",
+        "Iblis",
+        "Hamane"
+      ],
+      "answer": "Hamane"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go lekwa ka khumo e e seng kana ka sepe",
+        "Go etelela pele mophato kgatlhanong le ntlo e e boitshepo",
+        "Go aga tora go fitlhelela Modimo",
+        "Go latlhelwa mo molelong ka ntlha ya tumelo ya bone",
+        "Go latlhelwa mo sedibeng ke bana ba motho"
+      ],
+      "answer": "Go aga tora go fitlhelela Modimo"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Areka",
+        "Badiri",
+        "Thaba",
+        "Tora",
+        "Leruarua"
+      ],
+      "answer": "Tora"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "Go newa botlhale jo bogolo",
+        "Go nna moporofeti",
+        "Go komediwa ke lefatshe",
+        "Go newa bogosi",
+        "Go nwela mo lewatleng"
+      ],
+      "answer": "Go nwela mo lewatleng"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

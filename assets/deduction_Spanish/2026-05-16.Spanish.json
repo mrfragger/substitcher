@@ -1,0 +1,61 @@
+{
+  "title": "El firme constructor de la salvación",
+  "intro": "Figura de inmensa paciencia y convicción inquebrantable, este individuo dedicó incontables años a una misión divina, enfrentándose a un desprecio y rechazo implacables. Su historia es un poderoso testimonio de fe frente a la incredulidad abrumadora, que culminó en un acontecimiento trascendental que transformó el mundo.",
+  "clues": [
+    "Dediqué un período increíblemente largo de mi vida a llamar a mi pueblo a la adoración de Alá.",
+    "Mi gente se burlaba de mí y me acusaba de un error manifiesto y de locura.",
+    "Me ordenaron construir algo que parecía inusual para mi comunidad, que no tiene acceso al mar.",
+    "Solo unos pocos creyeron en mí y se unieron a mi familia y a mí en esta singular construcción.",
+    "Llevé a bordo parejas de cada criatura viviente, tal como me lo ordenó Alá.",
+    "Un gran diluvio arrasó la tierra, salvando solo a quienes estaban conmigo en mi embarcación, mientras que mi propio hijo pereció por su incredulidad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Salih",
+        "Profeta Hud",
+        "Profeta Noé",
+        "Profeta Dawud",
+        "Profeta Sulayman"
+      ],
+      "answer": "Profeta Noé"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "La destrucción causada por un terremoto",
+        "La división del mar",
+        "El gran diluvio",
+        "El fuego de Nimrod",
+        "La plaga de ranas"
+      ],
+      "answer": "El gran diluvio"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La zarza ardiente",
+        "El arca",
+        "El pozo de agua",
+        "El becerro de oro",
+        "La montaña de Tur"
+      ],
+      "answer": "El arca"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Recibió un reino",
+        "Su pueblo se transformó en simios.",
+        "Su pueblo fue salvado por un milagro.",
+        "Su pueblo se ahogó.",
+        "Su pueblo fue alcanzado por un rayo."
+      ],
+      "answer": "Su pueblo se ahogó."
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

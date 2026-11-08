@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo i Wero i te Mana o tētahi Idol",
+  "intro": "I roto i ngā karere a te Atua Kaha Rawa tētahi pononga pono i whakatika i roto i tētahi iwi pakeke ki te kawe i te pono. Kua tangohia e tō rātou iwi tētahi atua tito, kua tahuri ke atu i te Kaihanga o ngā mea katoa. Me te ngākau pono, ka karangahia rātou e tēnei tangata kia hoki mai - engari i whakahēngia, i whakakahoretia hoki te karere. Haere mā roto i ngā tohu kia kitea ai ko wai tēnei pononga pono.",
+  "clues": [
+    "I tonoa ahau hei karere ki tētahi iwi pakeke kua he kē nei i te ara tika.",
+    "I haere mai ahau ki te whakamahara i tōku iwi ki te Kaihanga o ngā mea katoa - ko ia te mea pai rawa atu o ngā kaihanga katoa.",
+    "Kua tahuri taku iwi ki tētahi whakapakoko teka i karakiatia e rātou, i karangahia hoki i te ao, i te pō.",
+    "I wero māia atu ahau i a rātou, me te pātai he aha rātou ka karakia ai ki tētahi atua hanga noa, ka whakarērea ai tō rātou Ariki pono.",
+    "I whakakahoretia ahau e rātou, i whakakahore ki te whakarongo, ā, i piri tonu ki tā rātou teka - heoi i tiaki ahau e tōku Ariki.",
+    "Ko Ilyas ahau — ā, i homai te rangimārie ki ahau, ā, i taua ahau i roto i ngā pononga whakapono a te Atua Aroha."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Iria",
+        "Poropiti Idris",
+        "Poropiti Alyasa",
+        "Poropiti a Dhul-Kifl",
+        "Poropiti a Noa"
+      ],
+      "answer": "Poropiti a Iria"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te karanga i te iwi kia mawehe atu i te karakia ki a Paara",
+        "Te tū atu ki tētahi kaitukino i kī he atua ia",
+        "He whakatūpato i te iwi mō te waipuke e tata mai ana",
+        "Ka makaia ki roto i te ahi nui e mura ana",
+        "Te ārahi i te wehenga atu i te whenua herehere"
+      ],
+      "answer": "Te karanga i te iwi kia mawehe atu i te karakia ki a Paara"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Ko te whakapakoko ko Paara te ingoa",
+        "He āka nui i hangaia ki te rakau pakari",
+        "He tokotoko i wehe i te moana nui",
+        "He kākahu tapu kua poke i te toto",
+        "He rakau e mura ana i runga i te maunga tapu"
+      ],
+      "answer": "Ko te whakapakoko ko Paara te ingoa"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tukuna te rangimārie, ā, i uru ki roto i ngā pononga whiriwhiri a Allah",
+        "I arahina ki te pararaiha i te mea kua whakangaromia katoatia ētahi atu",
+        "I whakaorangia mai i te ahi nui i whakamatao, i haumaru hoki",
+        "I whakawhiwhia ki te mana whakahaere i runga i ngā jinn, i te tangata, me te hau",
+        "He tohu pumau mō ngā tau maha te tiaki i te tinana"
+      ],
+      "answer": "I tukuna te rangimārie, ā, i uru ki roto i ngā pononga whiriwhiri a Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

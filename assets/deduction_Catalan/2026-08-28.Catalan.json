@@ -1,0 +1,61 @@
+{
+  "title": "L'obstacle a la casa antiga",
+  "intro": "A la ciutat sagrada, una figura poderosa bullia de ràbia quan un nou missatge va començar a difondre's. Aquest individu, el nom del qual es va convertir en sinònim d'oposició a la veritat, va veure com la seva influència s'esfondrava sota el pes de la revelació divina. Qui era aquesta ànima, el destí de la qual estava segellat a les sorres d'un famós camp de batalla?",
+  "clues": [
+    "Jo era un cap entre el meu poble, conegut per la meva riquesa i influència en una ciutat que albergava un antic santuari.",
+    "Quan un home de la meva tribu va començar a proclamar el missatge d'un únic Déu, el vaig ridiculitzar a ell i a les seves revelacions, anomenant-les meres històries del passat.",
+    "Vaig encarar aquell home mentre pregava prop de l'estructura sagrada, amenaçant d'aturar el seu culte per la força si calia.",
+    "Vaig ser un dels líders que van conspirar per silenciar la nova fe, oposant-se als seus seguidors tant amb paraules com amb armes.",
+    "Vaig marxar amb un exèrcit cap a un lloc anomenat Badr, convençut que aixafaríem el petit grup de creients.",
+    "Però en aquell camp de batalla, la meva vida va arribar a la seva fi, i la meva mort es va convertir en una lliçó per a aquells que persisteixen en la incredulitat després de signes clars."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Impedir que el profeta resi a la Kaaba",
+        "Construint la Kaaba",
+        "Escriure l'Alcorà",
+        "Liderant l'exèrcit de l'elefant",
+        "Dividint la lluna"
+      ],
+      "answer": "Impedir que el profeta resi a la Kaaba"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Kaaba",
+        "L'Arca del Profeta Nuh",
+        "El bastó del profeta Musa",
+        "El vedell d'or",
+        "El tron ​​de la reina de Saba"
+      ],
+      "answer": "La Kaaba"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mort a la batalla de Badr",
+        "Es va penedir i es va fer musulmà",
+        "Va fugir a Abissínia",
+        "Va morir l'any de l'elefant",
+        "Es va convertir en company del Profeta"
+      ],
+      "answer": "Mort a la batalla de Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

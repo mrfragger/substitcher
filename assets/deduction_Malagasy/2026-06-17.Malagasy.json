@@ -1,0 +1,61 @@
+{
+  "title": "Ny Echo avy any amin'ny sisin'ny tanàna",
+  "intro": "Tao amin'ny tanàna iray izay niala tamin'ny fitarihan'Andriamanitra, dia nisy olona iray irery nipoitra avy any amin'ny sisiny, nihazakazaka nitondra hafatra fanantenana sy fampitandremana. Io fanahy hadino io dia ho lasa mariky ny finoana tsy miovaova mandrakizay.",
+  "clues": [
+    "Nahita iraka nalefa tany amin'ny tanànako aho, saingy nolavin'ny oloko ho olombelona tsotra izy ireo.",
+    "Nino ny hafatr'izy ireo aho ary tsapako fa nanakoako tao anatiko ny fahamarinana.",
+    "Niantso ny oloko aho mba hankatò ireo iraka izay tsy nangataka valisoa.",
+    "Nihazakazaka avy tany amin'ny faran'ny tanàna aho, niezaka maika hampita izany amin'izy ireo.",
+    "Nitsangana hanohitra ahy ny oloko, ary novonoina aho, nefa nahita fiadanana mandrakizay aho.",
+    "Hoy Allah tamiko: 'Midira any amin'ny Paradisa', ary naniry aho raha mba afaka nahita ny voninahitra nomena ahy ny vahoakako."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny mpino an'i Ya-Sin",
+        "Uzair ilay Mpanontany",
+        "Al-Khidr ilay Mpitarika",
+        "Ny mpino ny fianakavian'i Farao",
+        "Namrud ilay Mpandringana"
+      ],
+      "answer": "Ny mpino an'i Ya-Sin"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Niatrika vahoaka tsy nino izay namono azy",
+        "Atsipy ao anaty afo mirehitra",
+        "Voatelina trondro lehibe",
+        "Fanamboarana sambo fiara goavana",
+        "Mandositra ny tafiky ny mpitondra jadona"
+      ],
+      "answer": "Niatrika vahoaka tsy nino izay namono azy"
+    },
+    "location": {
+      "label": "Toerana manan-danja",
+      "options": [
+        "Ny farany lavitra indrindra amin'ny tanàna",
+        "Tendrombohitra Tur",
+        "Ny Lohasahan'ny Vitsika",
+        "Ny moron'i Nil",
+        "Ny lava-bato ao amin'ny lava-bato"
+      ],
+      "answer": "Ny farany lavitra indrindra amin'ny tanàna"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Fahafatesana ho maritiora sy fidirana avy hatrany any amin'ny Paradisa",
+        "Fandosirana sy famonjena",
+        "Fiakarana any an-danitra",
+        "Maty an-drano any an-dranomasina",
+        "Miova ho vato"
+      ],
+      "answer": "Fahafatesana ho maritiora sy fidirana avy hatrany any amin'ny Paradisa"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Prvá krv preliata zo závisti",
+  "intro": "Predstavte si najranejšie dni ľudstva, keď bol celý svet jednou rodinou. Sledujete, ako sú pred Alaha predložené dve obety – jedna prijatá, druhá odmietnutá. V srdci sa zakorení závisť a v hneve sa zašepká hrozba. To, čo nasleduje, zanechá navždy stopu v dejinách a aj malý vtáčik sa stane učiteľom.",
+  "clues": [
+    "Patrím do úplne prvej rodiny na zemi.",
+    "Predložil som Alahovi obetu, ale moja nebola prijatá, zatiaľ čo druhá obeta áno.",
+    "Prehovoril som zo závisti a vyhrážal som sa, že si vezmem život.",
+    "Spáchal som prvú nespravodlivú vraždu na zemi.",
+    "Videl som vranu, ako škriabe po zemi, aby mi ukázala, ako skryť telo.",
+    "Zostal som plný ľútosti a stal som sa jedným z porazených za to, čo moje ruky spôsobili."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Qabil (Kain), syn Adamov",
+        "Samiri, tvorca teľaťa",
+        "Namrud, tyran, ktorý sa hádal s Ibrahimom",
+        "Azar, tvorca modiel",
+        "Kan'an, utopený syn Nuha"
+      ],
+      "answer": "Qabil (Kain), syn Adamov"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Vražda súrodenca zo závisti po odmietnutí ponuky",
+        "Stavba vznešenej veže, aby sme mohli pozerať na nebesia",
+        "Vytvorenie zlatého teľaťa na uctievanie",
+        "Žiadajúc stôl prestretý z neba",
+        "Vedenie armády slonov, aby zničili Kaabu"
+      ],
+      "answer": "Vražda súrodenca zo závisti po odmietnutí ponuky"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Vrana škriabe zem, aby ukázala pohreb",
+        "Zlaté teľa, ktoré bučalo",
+        "Veľká archa na potopných vodách",
+        "Palica, ktorá sa premenila na hada",
+        "Stôl prestretý jedlom z neba"
+      ],
+      "answer": "Vrana škriabe zem, aby ukázala pohreb"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Stal sa ľútostivým a medzi porazenými",
+        "Utopil sa vo veľkej povodni",
+        "Bol pohltený zemou s pokladom",
+        "Bol sedem rokov postihnutý malomocenstvom",
+        "Bolo mu udelené kráľovstvo s kontrolou vetrov"
+      ],
+      "answer": "Stal sa ľútostivým a medzi porazenými"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

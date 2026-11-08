@@ -1,0 +1,61 @@
+{
+  "title": "Mesto, ki je verjelo v čas",
+  "intro": "V analih božjega usmiljenja obstaja skupnost, katere prelomnica je bil trenutek kolektivnega spoznanja. Kmalu boste odkrili njihovo zgodbo – zgodbo o opozorilu, kesanju in odlašanju, ki jih je ločila od usode drugih narodov.",
+  "clues": [
+    "Bili smo ljudstvo, h kateremu je bil poslan poslanec, in sprva smo se obrnili stran od njegovega klica.",
+    "Ko so postali jasni znaki bližajoče se kazni, smo spoznali resničnost njegovega opozorila.",
+    "Z iskrenim kesanjem smo se obrnili k našemu Gospodu in naša vera je bila sprejeta.",
+    "Kazen, ki nam je bila izrečena, je bila odpravljena zaradi naše vere.",
+    "Naša zgodba je navedena kot izjema med mesti, ki so verjela po tem, ko so videla kazen.",
+    "Bili smo ljudstvo preroka, ki ga je pogoltnil kit, a smo bili rešeni pred uničenjem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Ljudje iz Junusa",
+        "Ljudje Nuha",
+        "Ljudje iz Huda",
+        "Ljudje iz Saliha",
+        "Lutovi ljudje"
+      ],
+      "answer": "Ljudje iz Junusa"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Uničujoča poplava",
+        "Močan veter",
+        "Bližajoča se kazen sramote, ki je bila preprečena",
+        "Zemlja jih požira",
+        "Dež kamenja"
+      ],
+      "answer": "Bližajoča se kazen sramote, ki je bila preprečena"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Kamela",
+        "Mesto s sto tisoč prebivalci",
+        "Musajevo osebje",
+        "Zaklad Karuna"
+      ],
+      "answer": "Mesto s sto tisoč prebivalci"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Bili so popolnoma uničeni",
+        "Za nekaj časa so jim dali užitek",
+        "Spremenili so se v opice",
+        "Utopili so se",
+        "Požrla jih je zemlja"
+      ],
+      "answer": "Za nekaj časa so jim dali užitek"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Le mani maledette",
+  "intro": "Ti trovi tra i tortuosi vicoli dell'antica Mecca, dove un'anima influente e ricca si allontanò dalla chiamata della verità. La storia di questa figura è un crudo monito che i legami di sangue non possono vincere le catene dell'orgoglio. Chi è costui il cui nome risuona con il fuoco che lo attende?",
+  "clues": [
+    "Percorrevo le strade della Mecca con un orgoglio che mi accecava e mi impediva di vedere la verità, sebbene il messaggero fosse del mio stesso sangue.",
+    "I miei averi erano ingenti, ma si rivelarono una maledizione anziché uno scudo.",
+    "Il libro di guida parla della mia rovina, dichiarando che le mie mani e il mio corpo periranno.",
+    "Il mio coniuge si è unito alla mia campagna di inimicizia, raccogliendo spine da spargere sul cammino di colui che ha invocato Allah.",
+    "Nel giorno del giudizio, sarò gettato in un fuoco di fiamme ardenti e la mia sposa avrà una corda di fibra di palma intorno al collo.",
+    "Sono conosciuto con un nome che significa \"padre della fiamma\", un nome che preannuncia la mia dimora eterna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova o evento chiave",
+      "options": [
+        "Si oppose al Profeta e fu maledetto nel Corano",
+        "Ha guidato un esercito per distruggere la Kaaba",
+        "Tentò di uccidere il Profeta lanciando pietre.",
+        "Si rifiutò di credere alla divisione della luna",
+        "Costruire una torre per raggiungere il cielo"
+      ],
+      "answer": "Si oppose al Profeta e fu maledetto nel Corano"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il fuoco ardente dell'inferno",
+        "Lo staff di Musa",
+        "L'Arca di Nuh",
+        "Il pozzo di Zamzam",
+        "Il vitello d'oro"
+      ],
+      "answer": "Il fuoco ardente dell'inferno"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Egli entrerà nel fuoco ardente e le sue ricchezze non gli serviranno a nulla.",
+        "Si pentì e divenne un credente",
+        "Fu perdonato dopo aver ritrattato",
+        "Morì da martire.",
+        "Fu portato in cielo"
+      ],
+      "answer": "Egli entrerà nel fuoco ardente e le sue ricchezze non gli serviranno a nulla."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

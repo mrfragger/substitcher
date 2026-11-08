@@ -1,0 +1,61 @@
+{
+  "title": "Le village sur les rives du procès",
+  "intro": "Vous vous retrouvez dans un village côtier, où le bruit des vagues se mêle aux murmures d'un peuple oublié. On leur avait ordonné de se reposer, mais leur cupidité leur valut un châtiment dont on parle encore à voix basse. Parviendrez-vous à découvrir qui ils étaient ?",
+  "clues": [
+    "Nous vivions au bord de l'eau et on nous a ordonné d'observer un jour de repos.",
+    "Ce jour-là, les poissons affluaient vers nous, mais il nous était interdit de les prendre.",
+    "Certains parmi nous ont mis en garde contre la transgression, mais d'autres ont conspiré pour pêcher malgré tout.",
+    "Nous avons transgressé le commandement sacré et nous nous sommes attirés un châtiment sévère.",
+    "Notre châtiment fut une transformation qui nous laissa défigurés et déshonorés.",
+    "Nous avons été transformés en singes, un signe pour tous ceux qui viendraient après."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Peuple du sabbat",
+        "Peuple de Thamud",
+        "Les gens de 'Ad",
+        "Les gens de la grotte",
+        "Le peuple de l'éléphant"
+      ],
+      "answer": "Peuple du sabbat"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Pêcher le jour du sabbat",
+        "Adorer un veau d'or",
+        "Nier le message de Hud",
+        "Tuer la chamelle",
+        "Construire une tour jusqu'au ciel"
+      ],
+      "answer": "Pêcher le jour du sabbat"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "Le poisson",
+        "Une chamelle",
+        "Un personnel",
+        "Un bateau",
+        "Un jardin"
+      ],
+      "answer": "Le poisson"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Transformés en singes",
+        "Détruit par une inondation",
+        "Détruit par un incendie dévastateur",
+        "Englouti par la terre",
+        "Dispersés par le vent"
+      ],
+      "answer": "Transformés en singes"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

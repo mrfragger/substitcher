@@ -1,0 +1,61 @@
+{
+  "title": "Šnabždesys vėjyje",
+  "intro": "Įsivaizduokite karalystę, kurioje nematomas ir matomas susipina, ir jūs stovite priešais figūrą, esančią karalystės širdyje, nepanašią į jokią kitą. Ši siela turi žinias, pranokstančias įprastai pasiekiamas, vadovaujanti jėgoms, kurias kiti gali tik įsivaizduoti. Tačiau net ir galingiausius gali pažeminti maža būtybė, o tiesa gali likti paslėpta iki nustatyto laiko. Kas yra ši figūra, kurios palikimas aidi per amžius?",
+  "clues": [
+    "Man buvo duota karalystė, kurios niekas po manęs neturėjo.",
+    "Iš mylimų tėvų paveldėjau žinias ir išmintį.",
+    "Vėjas buvo mano kontroliuojamas, jis keliavo mano įsakymu kur tik panorėjau.",
+    "Aš galėjau suprasti paukščių kalbą, ir jie tarnavo mano armijoje.",
+    "Gavau žinią iš mažo paukščio apie motinėlę, kuri garbino saulę.",
+    "Mano mirtis liko paslėpta, kol žemės padaras prarijo mano lazdą, ir tik tada džinai suprato, kad jie nepažįsta nematomo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Suleimanas (Saliamonas)",
+        "Pranašas Dawudas (Dovydas)",
+        "Pranašas Mozė (Mozė)",
+        "Pranašas Isa (Jėzus)",
+        "Pranašas Nuh (Nojus)"
+      ],
+      "answer": "Pranašas Suleimanas (Saliamonas)"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Šebos karalienės vizitas",
+        "Įmetimas į ugnį",
+        "Perskiriant jūrą",
+        "Arkos statyba",
+        "Banginio prarytas"
+      ],
+      "answer": "Šebos karalienės vizitas"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Žemės padaro suvalgyta lazda",
+        "Personalas, kuris virto gyvate",
+        "Kupranugarė",
+        "Arka",
+        "Banginis"
+      ],
+      "answer": "Žemės padaro suvalgyta lazda"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Jo mirtis buvo slepiama nuo džinų, kol jo lazda nebuvo suvalgyta.",
+        "Jis buvo gyvas pakeltas į dangų",
+        "Alacho įsakymu jis buvo išgelbėtas nuo ugnies",
+        "Jam buvo duota Tora",
+        "Jis buvo išgelbėtas nuo banginio"
+      ],
+      "answer": "Jo mirtis buvo slepiama nuo džinų, kol jo lazda nebuvo suvalgyta."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

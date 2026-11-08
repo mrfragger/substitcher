@@ -1,0 +1,61 @@
+{
+  "title": "Il Prescelto Eloquente",
+  "intro": "All'ombra di una montagna dove discendevano parole divine, la fede di un popolo vacillava sotto il luccichio dell'oro. Un'anima, dotata di eloquenza, si ergeva a sostegno di una missione più grande, ma si trovò ad affrontare un momento di profonda prova. Mentre il messaggero eletto ascendeva a un sacro appuntamento, questa figura rimase indietro, implorando una nazione inquieta. Chi è quest'anima salda la cui voce si levò contro l'idolatria?",
+  "clues": [
+    "Sono stato scelto da Allah per essere un profeta, sebbene la mia storia venga spesso raccontata insieme a quella di un altro.",
+    "Sono stato inviato presso un tiranno, ma il mio ruolo era quello di supportare, non di comandare.",
+    "Ero dotata di eloquenza e le mie parole erano destinate ad intenerire i cuori.",
+    "Quando il mio compagno partì per un appuntamento sacro, rimasi solo a guidare un popolo inquieto.",
+    "Nella loro impazienza, forgiarono un'immagine con i loro ornamenti, e io li supplicai di rimanere fedeli ad Allah.",
+    "Il mio compagno tornò e mi afferrò, ma spiegai che la folla mi aveva sopraffatto e quasi ucciso; io non ero tra i malfattori."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Mosè",
+        "Profeta Harun",
+        "Profeta Isa",
+        "Profeta Yahya",
+        "Profeta Zakariya"
+      ],
+      "answer": "Profeta Harun"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Essere gettato nel fuoco",
+        "Essere gettato in un pozzo",
+        "Di fronte all'incidente del vitello d'oro",
+        "Il test di una malattia grave",
+        "La prova della perdita di ricchezza e figli"
+      ],
+      "answer": "Di fronte all'incidente del vitello d'oro"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il vitello d'oro",
+        "Lo staff",
+        "L'Arca dell'Alleanza",
+        "I tablet",
+        "Il roveto ardente"
+      ],
+      "answer": "Il vitello d'oro"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Punito severamente",
+        "Perdonato e assolto",
+        "Ha fatto un re",
+        "Portato in cielo",
+        "Dato un nuovo scritto"
+      ],
+      "answer": "Perdonato e assolto"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

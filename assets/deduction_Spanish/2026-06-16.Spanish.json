@@ -1,0 +1,61 @@
+{
+  "title": "La voz que llamó a la justicia",
+  "intro": "En la antigua tierra de Madián, donde florecía el comercio y las caravanas surcaban vastos desiertos, surgió un profeta de Alá entre quienes se habían desviado del camino de la justicia. Este siervo de Alá fue enviado con una misión divina que pondría a prueba la fe de toda una comunidad. A través de pruebas de paciencia y perseverancia, esta alma se mantuvo firme al transmitir una advertencia que resonaría a lo largo de la historia. ¿Podrás desentrañar el misterio de este mensajero inquebrantable?",
+  "clues": [
+    "Fui elegido por Alá para guiar a un pueblo que había olvidado los principios de justicia y honestidad en sus tratos.",
+    "Transmití un mensaje exhortando a mi comunidad a adorar únicamente a Alá y a hablar con la verdad en todos los asuntos.",
+    "Advertí específicamente contra la práctica corrupta de consumir riqueza por medios ilícitos e hice hincapié en la importancia de utilizar pesos y medidas justos.",
+    "Mi gente respondió a mis advertencias con burlas, amenazando con expulsarme de sus tierras si continuaba con mi mensaje.",
+    "Me mantuve firme en mi misión a pesar de su hostilidad, declarando que mi recompensa está solo en manos de Alá.",
+    "Mi pueblo fue azotado por un castigo devastador, mientras que yo fui salvado por la misericordia de mi Señor, pues mi misión se había cumplido."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Shu'aib",
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Lut",
+        "Profeta Muhammad ﷺ"
+      ],
+      "answer": "Profeta Shu'aib"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Frente a un pueblo que rechazaba la verdad y amenazaba con castigo por transmitir el mensaje de Alá.",
+        "Ser testigo del Gran Diluvio que destruyó a los incrédulos de una nación.",
+        "Recibiendo revelación mientras viajaba por el valle de 笃",
+        "La prueba de fe cuando un gobernante opresor intentó silenciar el llamado al monoteísmo.",
+        "Una nación pide lluvia durante una grave sequía tras años de desobediencia."
+      ],
+      "answer": "Frente a un pueblo que rechazaba la verdad y amenazaba con castigo por transmitir el mensaje de Alá."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La tierra de Madián, donde mi pueblo realizaba su comercio.",
+        "La cubierta de un gran barco que salvó a los creyentes de una inundación catastrófica.",
+        "Una cueva en una montaña rocosa donde siete jóvenes buscaron refugio de la persecución.",
+        "La ciudad sagrada de Jerusalén, donde me llevaban en un viaje nocturno.",
+        "Un palacio en Saba donde un gran reino se preparaba para presenciar una señal divina."
+      ],
+      "answer": "La tierra de Madián, donde mi pueblo realizaba su comercio."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Mi pueblo fue azotado por un castigo terrible, mientras que yo fui salvado, pues cumplí con mi deber para con Alá.",
+        "Los incrédulos se convirtieron en monos al violar los límites sagrados de Alá.",
+        "Mis enemigos abrazaron la fe tras presenciar una transformación milagrosa.",
+        "La tierra fue bendecida con abundantes lluvias y prosperidad después de que el pueblo se arrepintiera.",
+        "Fui martirizado por mi propio pueblo por negarme a abandonar mi misión."
+      ],
+      "answer": "Mi pueblo fue azotado por un castigo terrible, mientras que yo fui salvado, pues cumplí con mi deber para con Alá."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

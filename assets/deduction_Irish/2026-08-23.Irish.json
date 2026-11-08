@@ -1,0 +1,61 @@
+{
+  "title": "An Slua Imithe",
+  "intro": "Seasann tú os comhair macallaí pobail a bhfuil a scéal scríofa sna tonnta. Chuala na hanamacha seo glaoch, roghnaigh siad dúshlán, agus d’aghaidh siad ar iarmhairt a mhúnlaigh an domhan arís. Cé hiad, agus cad a tharla dá ndomhan?",
+  "clues": [
+    "Bhíomar beo fadó, agus tháinig teachtaire chugainn ónár measc féin.",
+    "D’adhraíomar cúig íol agus dhiúltaíomar iad a thréigean.",
+    "Rinneamar ceap magaidh den teachtaire agus chuireamar ina leith go raibh sé ar strae.",
+    "D’éilíomar air an pionós a ghearradh dá mbeadh sé fírinneach.",
+    "Chonaiceamar na spéartha ag stealladh báistí agus an talamh ag scaoileadh tobair amach.",
+    "Dhreapamar suas go dtí na háiteanna arda le héalú, ach rug na tonnta orainn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Muintir Nuh",
+        "Muintir 'Ad",
+        "Muintir Thamud",
+        "Muintir Lut",
+        "Muintir Madyan"
+      ],
+      "answer": "Muintir Nuh"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Bádh muid i dtuilte móra",
+        "Scriosadh sinn le hairicín",
+        "Maraíodh sinn le pléascadh mór",
+        "Slogadh an talamh sinn",
+        "Caitheadh ​​clocha ón spéir orainn"
+      ],
+      "answer": "Bádh muid i dtuilte móra"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tuile mhór",
+        "Gaoth fhoréigneach",
+        "Cith cloch",
+        "Pléasc tine",
+        "Crith talún"
+      ],
+      "answer": "Tuile mhór"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Chuaigh muid uile amú ach amháin na creidmhigh le Nuh.",
+        "Rinneadh apaí dínn",
+        "Fágadh sinn mar fhothracha do thaistealaithe",
+        "Rinneadh salann dínn",
+        "Tugadh faoiseamh dúinn"
+      ],
+      "answer": "Chuaigh muid uile amú ach amháin na creidmhigh le Nuh."
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

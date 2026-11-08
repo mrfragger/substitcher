@@ -1,0 +1,61 @@
+{
+  "title": "Nehire Emanet Edilen Güven",
+  "intro": "Bir ruh, yeni doğmuş bir bebeğin hayatının tehlikede olduğu imkansız bir kararla karşı karşıya kaldı. İlahi ilhamla yönlendirilen ruh, umutsuz bir emre itaat etti ve kıymetli bir sır, beklenmedik bir şekilde geri dönmek üzere akıntıya bırakıldı.",
+  "clues": [
+    "Yeni doğan erkek bebeklerin öldürülmesini emreden bir tiranın gölgesinde yaşadım.",
+    "Bana ilahi bir ilham geldi ve beni umutsuz ve yürek burkan bir eyleme yönlendirdi.",
+    "Kıymetli bebeğimi bir sandığa koyup akan nehrin kenarına bıraktım.",
+    "Kalbim bomboştu ve neredeyse sırrı açığa vuracaktım, ama Allah azmimi güçlendirdi.",
+    "Sandığı akıntı sürüklerken, çocuğun izini sürmesi için birini görevlendirdim.",
+    "Çocuk, zalim hükümdarın ev halkı tarafından bulundu ve sonunda çocuğumla yeniden bir araya geldim ve dadı oldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Hz. Musa'nın annesi",
+        "Asiya (Firavunun karısı)",
+        "Meryem (Peygamber İsa'nın annesi)",
+        "Peygamber Lut'un karısı",
+        "Peygamber Yahya'nın annesi (Zakariya'nın eşi)"
+      ],
+      "answer": "Hz. Musa'nın annesi"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Çocuğunu bir sandığa koyup nehre bıraktı.",
+        "Çocuğunu bir mağaraya sakladı.",
+        "Çocuğunu çölde terk etti.",
+        "Çocuğunu ateşe attı.",
+        "Çocuğunu caminin kapısına bıraktı."
+      ],
+      "answer": "Çocuğunu bir sandığa koyup nehre bıraktı."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Nehirde yüzen bir sandık.",
+        "Yanan bir çalı",
+        "Yılana dönüşen bir asa",
+        "Cennetten gelen yiyeceklerle donatılmış bir sofra.",
+        "İşaret olarak gönderilen dişi bir deve"
+      ],
+      "answer": "Nehirde yüzen bir sandık."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Çocuğuyla yeniden bir araya geldi ve onu emzirdi.",
+        "Çocuğunu bir daha hiç görmedi.",
+        "O, zalim hükümdar tarafından idam edildi.",
+        "Mısır'da kraliçe oldu.",
+        "Başka bir ülkeye göç etti ve sürgünde yaşadı."
+      ],
+      "answer": "Çocuğuyla yeniden bir araya geldi ve onu emzirdi."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

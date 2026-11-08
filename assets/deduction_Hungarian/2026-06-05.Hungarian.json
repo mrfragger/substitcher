@@ -1,0 +1,61 @@
+{
+  "title": "Az alázatos igazságkeresők",
+  "intro": "Egy ősi hatalom és varázslat földjén hatalmas összecsapás bontakozik ki. Az egyik oldal isteni jelek hatalmával rendelkezik, míg a másik a lehetetlent próbálja felülmúlni. Az eredmény örökre megváltoztatja a történelem menetét. Vajon fel tudod fedezni azok kilétét, akik tanúi voltak a végső igazságnak, és megalázkodtak előtte?",
+  "clues": [
+    "Olyan jeleknek voltunk tanúi, amelyek túlmutattak a varázslat trükkjein",
+    "Mindannyian leborultunk, képtelenek voltunk tagadni az igazságot",
+    "Felismertük, hogy ezek a jelek az Egy Igaz Istentől származnak",
+    "Mi voltunk az első közösség, amely ilyen drámai módon fogadta el a hitet",
+    "Paradicsomot ígértek nekünk a hitünkért viszonzásul",
+    "Köteleink és botjaink kígyókká váltak a szemünk láttára, mégis az engedelmességet választottuk"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A fáraó mágusai",
+        "Ibrahim próféta népe",
+        "Az alázatos igazságkeresők",
+        "A barlang népe",
+        "Bilqis királynő nemzete"
+      ],
+      "answer": "A fáraó mágusai"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A találkozás Mózes próféta személyzetével",
+        "Hud próféta szelének próbája",
+        "Szálih próféta tevéjének kihívása",
+        "A nagy özönvíz egy prófétára küldött",
+        "Egy próféta utazása egy bálna belsejében"
+      ],
+      "answer": "A találkozás Mózes próféta személyzetével"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Ókori Egyiptom",
+        "A mekkai szent ház",
+        "Midián városa",
+        "A Thamud-sivatag",
+        "Az ősi alvók barlangja"
+      ],
+      "answer": "Ókori Egyiptom"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Paradicsom, mint jutalmuk",
+        "Büntetés a sírban",
+        "Bőséges kertjeik elvesztése",
+        "Hirtelen földrengés okozta pusztítás",
+        "Mentés egy hatalmas bálnától"
+      ],
+      "answer": "Paradicsom, mint jutalmuk"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

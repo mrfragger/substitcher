@@ -1,0 +1,61 @@
+{
+  "title": "Na Finnéithe Seasmhacha",
+  "intro": "Samhlaigh am nuair a cuireadh an creideamh faoi thástáil tine, agus nuair a tháinig an diongbháilteacht dhochloíte chun bheith ina dúshlán deiridh. Tá sé de chúram ort céannacht grúpa a nochtadh a bhfuil a scéal insithe sa Chorán, insint faoi chreideamh domhain i gcoinne tíorántachta ollmhór. Faigh amach na leideanna chun a fháil amach cé hiad na hanamacha seo, agus na cúinsí neamhghnácha a raibh aghaidh acu orthu.",
+  "clues": [
+    "Sheasamar go daingean inár ndearcadh, in ainneoin brú ollmhór ár gcreideamh a thréigean.",
+    "Bhí rialóir cumhachtach ina sprioc dúinn a bhí ag iarraidh solas an aondiachais a mhúchadh.",
+    "Chonaiceamar comharthaí agus míorúiltí móra, ach d’fhan ár bhforchuradóirí neamhshuimiúil.",
+    "D’fhulaing muid modh gránna géarleanúna a bhí ceaptha chun daoine eile a sceimhliú agus iad a géilleadh.",
+    "Caitheadh ​​isteach i n-inferno lasrach muid, ach thuill ár ndíograis stádas ard dúinn le Allah.",
+    "Insítear ár scéal i Surah ainmnithe i ndiaidh réaltbhuíonta neamhaí, ag tabhairt rabhaidh faoi chinniúint na ndaoine a dhéanann géarleanúint ar chreidmhigh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Sinn Féin?",
+      "options": [
+        "Muintir Thamud",
+        "Muintir 'Ad",
+        "Muintir na Díge",
+        "Muintir Mhidiáin",
+        "Muintir an Eilifint"
+      ],
+      "answer": "Muintir na Díge"
+    },
+    "trial": {
+      "label": "Ár nGéarleanúint",
+      "options": [
+        "A bheith báite i dtuilte",
+        "Á ithe ag gaoth loiscneach",
+        "Á chaitheamh isteach i dtrinse tine",
+        "Á shlogadh ag an talamh",
+        "Á gclaochlú ina apaí"
+      ],
+      "answer": "Á chaitheamh isteach i dtrinse tine"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tuile ollmhór",
+        "Crith talún mór",
+        "Trinse dhomhain, dhóite",
+        "Idol cumhachtach",
+        "Triomach tubaisteach"
+      ],
+      "answer": "Trinse dhomhain, dhóite"
+    },
+    "outcome": {
+      "label": "Ár gCinniúint Deiridh",
+      "options": [
+        "Bronnadh ríocht ar talamh orthu.",
+        "Sábháladh iad le héalú míorúilteach.",
+        "Bhain siad amach mairtíreach agus luach saothair shíoraí.",
+        "Claochlaíodh iad ina speiceas difriúil.",
+        "Bronnadh saibhreas agus rathúnas ollmhór orthu."
+      ],
+      "answer": "Bhain siad amach mairtíreach agus luach saothair shíoraí."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

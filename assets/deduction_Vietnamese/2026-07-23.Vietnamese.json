@@ -1,0 +1,61 @@
+{
+  "title": "Đội quân bị tấn công bằng đạn bay.",
+  "intro": "Trước thời kỳ Tiên tri Muhammad, một vị vua hùng mạnh đến từ Yemen đã phát động một chiến dịch quân sự nhằm phá hủy một thánh địa ở Mecca. Kẻ thù này dẫn đầu một đội quân hùng hậu với cả voi chiến, tự tin vào sức mạnh và số lượng của mình. Tuy nhiên, hành trình của họ đã kết thúc đột ngột khi gặp phải sự can thiệp bất ngờ của thần thánh. Bạn có thể xác định được ai là người đã phải đối mặt với thử thách đáng chú ý này không?",
+  "clues": [
+    "Chúng tôi hành quân với một đội quân hùng mạnh và những con voi chiến dũng mãnh tiến về phía ngôi nhà linh thiêng.",
+    "Chúng tôi dự định nhổ bỏ và phá hủy một nơi thờ cúng được xây dựng bởi những người tôi tớ của Đấng Nhân Từ Nhất.",
+    "Một đàn chim nhỏ được phái đến tấn công chúng tôi, chúng mang theo những viên đá đất sét trong mỏ và móng vuốt.",
+    "Chúng tôi bị tấn công bằng một âm thanh như thể bị ném đá, biến thành những mảnh vụn bị giẫm đạp.",
+    "Tôi đến từ đất nước Yemen và phục vụ dưới quyền một vị vua muốn chiếm đoạt thánh địa.",
+    "Chúng tôi đã trở thành tấm gương răn đe cho những kẻ dám thách thức thánh địa của Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Đội quân của Abraha al-Ashram",
+        "Lực lượng Ethiopia",
+        "Những kẻ chinh phục Ba Tư",
+        "Các quân đoàn La Mã",
+        "Những kẻ cướp biển Bedouin"
+      ],
+      "answer": "Đội quân của Abraha al-Ashram"
+    },
+    "trial": {
+      "label": "Thử nghiệm/Sự kiện",
+      "options": [
+        "Cuộc vây hãm một pháo đài sa mạc",
+        "Cuộc xâm lược thánh địa ở Mecca",
+        "Một trận hải chiến trên biển",
+        "Một cuộc nổi dậy chống lại một vị vua bạo chúa",
+        "Cuộc tìm kiếm một nhà tiên tri thất lạc"
+      ],
+      "answer": "Cuộc xâm lược thánh địa ở Mecca"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Thung lũng Mina gần Mecca",
+        "Cung điện Sana'a ở Yemen",
+        "Dãy núi Tihamah",
+        "Thành phố cổ Jerusalem",
+        "Bờ biển Biển Đỏ"
+      ],
+      "answer": "Thung lũng Mina gần Mecca"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Chiến thắng và sự hủy diệt ngôi nhà thiêng liêng",
+        "Thất bại trước những con chim mang đá đất sét",
+        "Đầu hàng và cải đạo trong hòa bình",
+        "Nạn đói và thiên tai",
+        "Rút lui do mưa lớn"
+      ],
+      "answer": "Thất bại trước những con chim mang đá đất sét"
+    }
+  },
+  "verseRef": "105:2-4",
+  "verse": "Did He not make their plan into misguidance? (105:2-4)",
+  "arabic": ""
+}

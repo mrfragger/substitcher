@@ -1,0 +1,61 @@
+{
+  "title": "A Alma Atormentada do Nilo",
+  "intro": "Em uma época de grande opressão, quando um tirano governava a terra com crueldade absoluta, uma alma escolheu o caminho da fé em vez do conforto da realeza. Essa figura habitava o coração do poder, mas encontrou a verdade na mensagem de um profeta humilde. Sua jornada se tornaria uma lição atemporal de paciência, sacrifício e convicção inabalável. Você consegue identificar esse indivíduo notável que preferiu o prazer divino ao status mundano?",
+  "clues": [
+    "Vivi em um palácio de grande poder, mas meu coração encontrou a verdade em uma mensagem humilde.",
+    "Optei por seguir a orientação de Musa, ciente das consequências que enfrentaria.",
+    "Eu era casada com o tirano mais poderoso da minha época, mas rejeitei seus falsos deuses.",
+    "Meu sofrimento foi severo, pois fui punido por minha crença em um Deus único.",
+    "Nunca vacilei na minha fé, mesmo diante do tormento mais cruel.",
+    "Meu Senhor ficou satisfeito com a minha paciência e me escolheu para um lugar de honra no Paraíso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "A mãe do Profeta Moisés",
+        "A esposa do Faraó",
+        "A irmã do Profeta Moisés",
+        "Uma rainha do antigo Egito",
+        "Um servo dos israelitas"
+      ],
+      "answer": "A esposa do Faraó"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Lutar pela causa de Alá com um exército",
+        "Confrontando o Faraó e declarando fé.",
+        "Construção de locais de culto no Egito",
+        "Viajando pelo mar com Musa",
+        "Receber revelação de Alá"
+      ],
+      "answer": "Confrontando o Faraó e declarando fé."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "O deserto de Midiã",
+        "O palácio real do Egito",
+        "As margens do rio Nilo",
+        "O monte Sinai",
+        "A terra de Canaã"
+      ],
+      "answer": "O palácio real do Egito"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Tornou-se profeta depois de muitos anos.",
+        "Liderou os israelitas para fora do Egito.",
+        "Foi-lhe concedida a soberania sobre o Egito.",
+        "Foi martirizado e honrado por Alá.",
+        "Viveu até a velhice com conforto."
+      ],
+      "answer": "Foi martirizado e honrado por Alá."
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

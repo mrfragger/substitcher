@@ -1,0 +1,61 @@
+{
+  "title": "Rawa a Iska",
+  "intro": "Ka yi tunanin wani daula inda gaibi da wanda ake gani suka haɗu, kuma ka tsaya a gaban wani mutum a tsakiyar mulki ba kamar kowa ba. Wannan rai yana da ilimi fiye da yadda aka saba, yana jagorantar rundunonin da wasu za su iya tunanin su kawai. Duk da haka, har ma mafi ƙarfi za a iya ƙasƙantar da su ta hanyar ƙaramin halitta, kuma gaskiya na iya kasancewa a ɓoye har zuwa lokacin da aka ƙayyade. Wanene wannan mutum wanda gadonsa ke bayyana tsawon shekaru?",
+  "clues": [
+    "An ba ni mulki wanda babu wanda zai yi bayana.",
+    "Na gaji ilimi da hikima daga iyaye ƙaunatattu.",
+    "Iska tana ƙarƙashin umarnina, tana tafiya bisa ga umarnina duk inda na ga dama.",
+    "Na fahimci maganar tsuntsaye, kuma sun yi aiki a rundunar soja na.",
+    "Na sami labari daga wata ƙaramar tsuntsu game da sarauniya da ke bauta wa rana.",
+    "Mutuwata ta kasance a ɓoye har sai da wata halitta ta duniya ta cinye sandar da nake, kuma sai a lokacin ne aljanu suka gane cewa ba su san gaibi ba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Sulaiman (Annabi Sulaiman)",
+        "Annabi Dawud (Dauda)",
+        "Annabi Musa (Annabi Musa)",
+        "Annabi Isa (Jesus)",
+        "Annabi Nuhu (Nuhu)"
+      ],
+      "answer": "Annabi Sulaiman (Annabi Sulaiman)"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Ziyarar Sarauniyar Sheba",
+        "Ana jefa shi cikin wuta",
+        "Raba teku",
+        "Gina jirgin ruwa",
+        "Kifin whale ya haɗiye shi"
+      ],
+      "answer": "Ziyarar Sarauniyar Sheba"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Sanda da wani dabba na duniya ya cinye",
+        "Sanda da ta zama maciji",
+        "Raƙumar",
+        "Akwatin",
+        "Kifin whale"
+      ],
+      "answer": "Sanda da wani dabba na duniya ya cinye"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ɓoye mutuwarsa daga aljanu har sai da aka cinye sandarsa",
+        "An tashe shi zuwa sama da rai",
+        "An ceto shi daga wuta da umarnin Allah.",
+        "An ba shi Attaura",
+        "An cece shi daga kifin whale"
+      ],
+      "answer": "An ɓoye mutuwarsa daga aljanu har sai da aka cinye sandarsa"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Osvajač između dva horizonta",
+  "intro": "U analima božanskog vodstva, jedna se figura ističe kao moćni vladar i ponizni Allahov sluga. Ova je osoba putovala do najudaljenijih krajeva zemlje, svjedočeći izlasku sunca nad neobičnim narodom i zalasku u crnom, mutnom izvoru. Najznačajnije je to što je ovaj sluga dobio zadatak izgraditi izvanrednu barijeru protiv naroda velikog nereda. Možete li prepoznati ovu legendarnu figuru iz Kur'ana?",
+  "clues": [
+    "Najmilostiviji mi je podario moć i utjecaj na Zemlji",
+    "Putovao sam do mjesta gdje sunce izlazi i gdje zalazi",
+    "Došao sam do ljudi koji jedva da su razumjeli i riječ",
+    "Dobio sam naredbu da izgradim ogromnu barijeru koristeći željezo",
+    "Zatvorio sam prostor između dvije strme planine rastaljenim metalom",
+    "Nisam bio ni anđeo ni prorok, već sluga kojemu je Allah darovao milost."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Zu-l-Karnajn (Onaj s dva roga)",
+        "Kralj Sulejman (Solomon)",
+        "Poslanik Zul-Kifl",
+        "Zunun (Riblji pratilac)",
+        "Anđeo s barijere"
+      ],
+      "answer": "Zu-l-Karnajn (Onaj s dva roga)"
+    },
+    "trial": {
+      "label": "Veliki zadatak",
+      "options": [
+        "Gradnja tornja do neba",
+        "Izgradnja masivne željezne barijere protiv Yajuja i Madžuja",
+        "Stvaranje zlatnog prijestolja za sud",
+        "Kopanje dubokog bunara za pravednike",
+        "Gradnja broda tijekom velike poplave"
+      ],
+      "answer": "Izgradnja masivne željezne barijere protiv Yajuja i Madžuja"
+    },
+    "location": {
+      "label": "Okruženje",
+      "options": [
+        "Zemlja Uzair između dvije rijeke",
+        "Mjesto izlaska sunca i crnog blatnog izvora",
+        "Sveta dolina Meke",
+        "Pustinja Madyan",
+        "Otok Cipar"
+      ],
+      "answer": "Mjesto izlaska sunca i crnog blatnog izvora"
+    },
+    "outcome": {
+      "label": "Božansko obećanje",
+      "options": [
+        "Vječni raj odmah dodijeljen",
+        "Naciju je uništio vrući vjetar",
+        "Pregrada će trajati do Sudnjeg dana",
+        "Oslobođenje od smrti za sve vjernike",
+        "Vječno kraljevstvo bez kraja"
+      ],
+      "answer": "Pregrada će trajati do Sudnjeg dana"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

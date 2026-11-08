@@ -1,0 +1,61 @@
+{
+  "title": "Poslanec, ki se je soočil z malikovalci",
+  "intro": "V času, ko je predanost zašla na slabše, se je dvignil glasnik s pozivom k vrnitvi k čaščenju Gospodarja svetov. Ta osebnost je neomajno stala proti ljudstvu, zakoreninjenemu v čaščenju lažnega božanstva, in jih spominjala na njihovega pravega Stvarnika in Gospodarja njihovih prednikov. Vendar so bili ljudje brezbrižni in so zavrnili opozorilo ter si s tem zapečatili usodo. Kdo je bil ta neomajni klicatel?",
+  "clues": [
+    "Poslan sem bil k ljudstvu, ki se je odvrnilo od poti Edinega Pravega Boga.",
+    "Vprašal sem svoje ljudstvo: \"Ali se ne boste bali Alaha?\"",
+    "Pozval sem jih, naj opustijo čaščenje lažnega božanstva po imenu Baal.",
+    "Moje ljudstvo je zavrnilo moj klic in vztrajalo v svojem malikovanju.",
+    "Zaradi njihovega zanikanja bodo zagotovo privedeni za kazen.",
+    "Moj Gospod mi je dal mir in blagoslovljen spomin med poznejšimi generacijami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Iljas",
+        "Prerok Jahja",
+        "Prerok Zul-Kifl",
+        "Prerok Jusuf",
+        "Prerok Šuajb"
+      ],
+      "answer": "Prerok Iljas"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Poklical je svoje ljudstvo, naj opusti Baala",
+        "Zgradil je barko, da bi rešil vernike",
+        "Vrgli so ga v ogenj",
+        "Pobegnil pred tiraninom faraonom",
+        "Udaril je ob skalo, da bi pritekla voda"
+      ],
+      "answer": "Poklical je svoje ljudstvo, naj opusti Baala"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Podarjen mir in blagoslovljen spomin",
+        "Požrla ga je zemlja",
+        "Uničeno zaradi silovite nevihte",
+        "Spremenjen v kamen",
+        "Utopljen v morju"
+      ],
+      "answer": "Podarjen mir in blagoslovljen spomin"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

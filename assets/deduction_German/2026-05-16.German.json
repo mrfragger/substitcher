@@ -1,0 +1,61 @@
+{
+  "title": "Der standhafte Erbauer des Heils",
+  "intro": "Diese Person, von immenser Geduld und unerschütterlicher Überzeugung, widmete unzählige Jahre einer göttlichen Mission und sah sich dabei unerbittlichem Spott und Ablehnung ausgesetzt. Ihre Geschichte ist ein eindrucksvolles Zeugnis des Glaubens angesichts überwältigenden Unglaubens und gipfelte in einem folgenreichen Ereignis, das die Welt veränderte.",
+  "clues": [
+    "Ich habe einen unglaublich langen Zeitraum meines Lebens dem Aufruf an mein Volk zur Anbetung Allahs gewidmet.",
+    "Mein Volk verspottete mich und beschuldigte mich offenkundiger Irrtümer und Wahnsinn.",
+    "Ich erhielt den Auftrag, etwas zu bauen, das für meine vom Meer abgeschnittene Gemeinde ungewöhnlich erschien.",
+    "Nur wenige glaubten daran und schlossen sich mir und meiner Familie bei diesem einzigartigen Bauvorhaben an.",
+    "Ich hatte, wie von Allah befohlen, von jeder lebenden Kreatur ein Paar an Bord.",
+    "Eine gewaltige Flut überschwemmte die Erde und rettete nur diejenigen, die mit mir in meinem Schiff waren, während mein eigener Sohn wegen seines Unglaubens umkam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Salih",
+        "Prophet Hud",
+        "Prophet Nuh",
+        "Prophet Dawud",
+        "Prophet Sulayman"
+      ],
+      "answer": "Prophet Nuh"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Zerstörung durch ein Erdbeben",
+        "Die Spaltung des Meeres",
+        "Die große Flut",
+        "Das Feuer Nimrods",
+        "Die Froschplage"
+      ],
+      "answer": "Die große Flut"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der brennende Dornbusch",
+        "Die Arche",
+        "Der Brunnen",
+        "Das goldene Kalb",
+        "Der Berg Tur"
+      ],
+      "answer": "Die Arche"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Erhielt ein Königreich",
+        "Sein Volk wurde in Affen verwandelt.",
+        "Sein Volk wurde durch ein Wunder gerettet.",
+        "Sein Volk ertrank.",
+        "Sein Volk wurde vom Blitz getroffen."
+      ],
+      "answer": "Sein Volk ertrank."
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

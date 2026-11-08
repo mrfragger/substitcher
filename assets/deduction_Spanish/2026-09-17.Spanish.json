@@ -1,0 +1,61 @@
+{
+  "title": "Bajo la sombra de la palmera datilera",
+  "intro": "Se despliega la historia de un alma apartada desde antes de nacer, criada entre muros sagrados y elegida para portar un símbolo que el mundo jamás había visto. Cuando las acusaciones surgieron por doquier, una voz del lugar más inesperado acalló toda duda. ¿Podrás descubrir quién caminaba bajo la sombra de la palmera datilera?",
+  "clues": [
+    "Estuve consagrado al servicio del Todopoderoso incluso antes de dar mi primer aliento, una promesa hecha por quien me trajo en el vientre.",
+    "Crecí bajo el atento cuidado de un guardián justo dentro de las cámaras sagradas de un lugar de culto.",
+    "Siempre que mi guardián venía a mi habitación, encontraba conmigo provisiones de épocas que no deberían haber sido.",
+    "Me dieron la buena noticia de que iba a tener un hijo, aunque mis circunstancias no dejaban lugar a lo prometido.",
+    "Me retiré a un lugar apartado, y allí una palmera datilera me ofrecía sombra mientras un arroyo fluía por debajo.",
+    "Cuando llegaron las acusaciones y me rodearon las preguntas, señalé a mi hijo recién nacido, y él habló desde la cuna para acallar todas las dudas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "María",
+        "Sarah",
+        "Hawwa",
+        "Umm Musa",
+        "La esposa de Nuh"
+      ],
+      "answer": "María"
+    },
+    "trial": {
+      "label": "Prueba / Evento",
+      "options": [
+        "Dar a luz a un hijo milagroso en aislamiento",
+        "Ser arrojado a un fuego ardiente por idólatras",
+        "Sobrevivir al gran diluvio con unos pocos elegidos",
+        "Separado de un bebé arrojado al río",
+        "Enfrentándose al poderoso gobernante de Egipto"
+      ],
+      "answer": "Dar a luz a un hijo milagroso en aislamiento"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una palmera datilera y un arroyo que fluye a sus pies.",
+        "Una poderosa arca sobre olas imponentes",
+        "Un bastón que dividió un gran mar en dos",
+        "Un fuego abrasador destinado a consumir un alma fiel.",
+        "Un trono dorado adornado con piedras preciosas."
+      ],
+      "answer": "Una palmera datilera y un arroyo que fluye a sus pies."
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Honrada como la más excelsa de todas las mujeres.",
+        "Reunida con un hijo querido tras una larga separación.",
+        "Lideró a toda una nación para liberarla de la esclavitud de un tirano.",
+        "Advirtió a un pueblo perdido en la inmoralidad",
+        "Se le concedió dominio sobre los genios, la humanidad y los vientos."
+      ],
+      "answer": "Honrada como la más excelsa de todas las mujeres."
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

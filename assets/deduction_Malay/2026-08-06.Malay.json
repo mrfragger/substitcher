@@ -1,0 +1,61 @@
+{
+  "title": "Jiwa yang Berjaga-jaga di Tebing Sungai",
+  "intro": "Seorang jiwa muda telah diamanahkan dengan misi rahsia, untuk memerhati dari jarak yang selamat ketika takdir berlaku di atas air. Tidak kelihatan dan tidak disangka-sangka, tokoh ini akan memainkan peranan penting dalam mengubah perjalanan sejarah sesebuah negara.",
+  "clues": [
+    "Saya telah diberikan satu tugasan oleh ibu saya, satu tugasan yang memerlukan kewaspadaan dan ketangkasan.",
+    "Mataku mengekori buaian kecil yang hanyut mengikut arus, hatiku sarat dengan kebimbangan.",
+    "Apabila ia ditemui oleh pihak yang tidak dijangka, aku menghampirinya, penuh dengan kebimbangan.",
+    "Saya nampak keputusasaan mereka untuk mendapatkan penjaga dan menawarkan penyelesaian tanpa mendedahkan kebenaran.",
+    "Campur tangan saya yang tepat pada masanya telah mengembalikan jiwa yang penyayang kepada mereka yang paling memerlukannya.",
+    "Di istana orang-orang yang berkuasa, aku berkata: 'Mahukah aku menunjukkan kepadamu sebuah keluarga yang akan memelihara dan menjaganya dengan baik?'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Adik perempuan Musa",
+        "Ibu Musa",
+        "Isteri Firaun",
+        "Seorang bidan",
+        "Anak perempuan Syu'aib"
+      ],
+      "answer": "Adik perempuan Musa"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Membuang kanak-kanak ke dalam sungai",
+        "Pembelahan laut",
+        "Pembakaran anak lembu",
+        "Pembinaan bahtera itu",
+        "Wabak belalang"
+      ],
+      "answer": "Membuang kanak-kanak ke dalam sungai"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Sungai itu",
+        "Gurun",
+        "Gunung itu",
+        "Istana itu",
+        "Api itu"
+      ],
+      "answer": "Sungai itu"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dia menyatukan semula anak itu dengan ibunya",
+        "Dia menyelamatkan dirinya daripada tentera Firaun",
+        "Dia menjadi seorang ratu",
+        "Dia dihukum kerana mengintip",
+        "Dia memimpin orang Israel"
+      ],
+      "answer": "Dia menyatukan semula anak itu dengan ibunya"
+    }
+  },
+  "verseRef": "28:12",
+  "arabic": "۞ وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍۢ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَـٰصِحُونَ",
+  "verse": "And We had prevented from him [all] wet nurses before, so she said, \"Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?\" (28:12)"
+}

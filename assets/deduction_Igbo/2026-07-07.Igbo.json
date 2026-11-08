@@ -1,0 +1,61 @@
+{
+  "title": "Olu sitere na Abyss",
+  "intro": "Akụkọ banyere ndidi na ebere Chineke na-enweghị njedebe pụtara ìhè n'ime Quran. E zigara onye ozi n'obodo ukwu, mana ndị ha jụrụ ịdọ aka ná ntị ahụ ma jụ eziokwu ahụ. N'iwe, mkpụrụ obi a pụrụ - naanị ka oké osimiri na-efe efe nwalee ya ma loda ya n'ime ọchịchịrị kachasị njọ. Site n'afọ ọchịchịrị, arịrịọ dị umeala n'obi biliri, Onye Kasị Ebere zara. Ònye bụ mkpụrụ obi a nke gbanwere agbanwe, onye ndị ya ga-aghọ ndị kwere ekwe karịrị otu narị puku?",
+  "clues": [
+    "E zigara m dịka onye ịdọ aka ná ntị n'obodo ukwu nke ndị bi na ya si n'ụzọ okwukwe kpafuo.",
+    "Akpọrọ m ndị m òkù ka ha bịa n'eziokwu ugboro ugboro, mana ha kwara ozi m emo ma jụ ya.",
+    "M hapụrụ ha n'iwe tupu e nye m ikike, wee gawa n'oké osimiri.",
+    "Oké ifufe malitere, e wee tụba m n'ime mmiri — wee loda m kpamkpam site n'oké osimiri.",
+    "N'ime ọchịchịrị — omimi nke oké osimiri, afọ nke ihe e kere eke, na ala oké osimiri miri emi — ka m tiri mkpu sị: 'Ọ dịghị chi ọzọ ma e wezụga Gị; otuto dịrị Gị; anọ m n'etiti ndị na-eme ihe ọjọọ.'",
+    "Allah napụtara m n'ime omimi, mgbe m lọtara, ihe karịrị otu narị puku ndị m nabatara eziokwu ahụ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Onye Amụma Yunus (Jona)",
+        "Onye Amụma Mozis (Moses)",
+        "Onye Amụma Ibrahim (Abraham)",
+        "Onye Amụma Zakariyya (Zekaraya)",
+        "Onye Amụma Idris (Ịnọk)"
+      ],
+      "answer": "Onye Amụma Yunus (Jona)"
+    },
+    "trial": {
+      "label": "Nnwale/Ihe Omume",
+      "options": [
+        "Nnukwu anụ mmiri loro ya",
+        "Izute onye ọchịchị aka ike na ndị dibịa anwansi ya",
+        "Eze iwe ji tụba ya n'ọkụ na-ere ọkụ",
+        "Ịnụ ozi ọma gbasara nwa nwoke mgbe ọ dị agadi ma na-enweghị ike",
+        "Ịhụ mba nke idei mmiri bibiri"
+      ],
+      "answer": "Nnukwu anụ mmiri loro ya"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Afọ nke nnukwu anụ mmiri dị n'ime omimi nke oke osimiri",
+        "Ụlọ nsọ gbara ugwu gbara gburugburu n'ime ndagwurugwu tọgbọrọ chakoo",
+        "Ọkụ na-ere ọkụ nke e mere ka ọ dị jụụ ma dị jụụ",
+        "Ubi mara mma nke nwere osimiri na ndò na-asọ asọ",
+        "Ụgbọ buru ibu nke dị n'elu ugwu"
+      ],
+      "answer": "Afọ nke nnukwu anụ mmiri dị n'ime omimi nke oke osimiri"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "A napụtara ya n'ọchịchịrị; ìgwè mmadụ kwere",
+        "A tọhapụrụ anyị n'ọkụ na-ere ọkụ, ire ọkụ na-ajụkwa oyi",
+        "Aghọrọ onye ndu nke mba dị ike ma napụta ha n'aka mmegbu",
+        "E nyere nwatakịrị mgbe o mere agadi mgbe ọtụtụ afọ nke ekpere gasịrị",
+        "E nyere ya amamihe dị ukwuu, alaeze, na ọchịchị n'elu ifufe na jinn"
+      ],
+      "answer": "A napụtara ya n'ọchịchịrị; ìgwè mmadụ kwere"
+    }
+  },
+  "verseRef": "10:98",
+  "arabic": "فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَـٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time. (10:98)"
+}

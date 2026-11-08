@@ -1,0 +1,61 @@
+{
+  "title": "Den ensamma reträtten",
+  "intro": "I den gudomliga ynnestens annaler existerar en själ av oöverträffad renhet, avskild från sitt folk för att söka ensamhet i en helig riktning. Föga anade de att denna avskildhet skulle frambringa ett tecken för alla världar, en trosprövning som skulle omtalas i evighet.",
+  "clues": [
+    "Jag var hängiven ett liv i tjänst före min födelse.",
+    "Jag ställdes under en ädel profets förmynderskap.",
+    "Jag fick stöd av förnödenheter från Allah som förvånade min beskyddare.",
+    "Jag drog mig tillbaka från min familj till en plats i östern.",
+    "En ängel uppenbarade sig för mig i en fullkomlig mans skepnad och kom med nyheter om en ren son.",
+    "När jag kom tillbaka med mitt nyfödda barn anklagade mitt folk mig, men spädbarnet talade till mitt försvar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Maryam (Mary)",
+        "Asiyah (faraos hustru)",
+        "Hajar (Ismails mor)",
+        "Sara (Ibrahims hustru)",
+        "Musas mor"
+      ],
+      "answer": "Maryam (Mary)"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Mirakulös befruktning och sonens födelse",
+        "Att kastas in i en eld",
+        "Att bli uppslukad av en jättefisk",
+        "Att bygga en stor ark",
+        "Att korsa havet"
+      ],
+      "answer": "Mirakulös befruktning och sonens födelse"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En avskild plats i östra USA",
+        "Den brinnande busken",
+        "Röda havet",
+        "Stenen från vilken vatten forsade",
+        "Valen"
+      ],
+      "answer": "En avskild plats i östra USA"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ett spädbarn talade till försvar för en mor",
+        "Havet delade sig",
+        "Elden blev sval och trygg",
+        "Valen kräktes upp på stranden",
+        "Arken landade på ett berg"
+      ],
+      "answer": "Ett spädbarn talade till försvar för en mor"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

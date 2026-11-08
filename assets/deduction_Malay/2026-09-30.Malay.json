@@ -1,0 +1,61 @@
+{
+  "title": "Si Pesakit",
+  "intro": "Dahulu kala, pada zaman awal sejarah manusia, dua jiwa berdiri di hadapan Pencipta mereka dengan persembahan. Seorang diterima, seorang lagi tidak. Apa yang berlaku selepas itu akan menjadi tragedi besar pertama antara adik-beradik - satu tindakan menahan diri dengan sabar dan satu tindakan dendam yang pahit. Bolehkah anda mendedahkan siapa saya?",
+  "clues": [
+    "Aku dilahirkan pada hari-hari pertama kewujudan manusia di bumi",
+    "Saya adalah anak kepada pasangan manusia pertama yang pernah berjalan di bumi ini",
+    "Aku pernah mempersembahkan korban daripada ternakanku yang terbaik untuk menyenangkan hati Penciptaku",
+    "Persembahan saya diterima dari atas, manakala persembahan adik-beradik saya ditolak.",
+    "Apabila diancam dengan kematian, saya memilih untuk tidak mengangkat tangan saya terhadap adik saya",
+    "Saya menjadi orang pertama dalam sejarah manusia yang dibunuh secara salah oleh orang lain"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Habil (Habil), anak Adam",
+        "Qabil (Kain), anak Adam",
+        "Adam, manusia pertama",
+        "Nuh (Nuh)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Habil), anak Adam"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Pembunuhan pertama dalam sejarah manusia",
+        "Banjir besar Nabi Nuh",
+        "Kemusnahan tentera Fir'aun",
+        "Pengorbanan Nabi Ismail oleh Nabi Ibrahim",
+        "Pertempuran melawan Jalut (Goliat)"
+      ],
+      "answer": "Pembunuhan pertama dalam sejarah manusia"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Seekor domba yang dipersembahkan sebagai korban yang menyenangkan hati",
+        "Sebuah bahtera kayu yang besar",
+        "Tongkat yang bertukar menjadi ular",
+        "Burung hud-hud membawa amanat diraja",
+        "Parit api yang menyala-nyala"
+      ],
+      "answer": "Seekor domba yang dipersembahkan sebagai korban yang menyenangkan hati"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Menjadi mangsa pembunuhan pertama dalam sejarah manusia",
+        "Terselamat daripada banjir besar di dalam sebuah kapal kayu",
+        "Tinggal di dalam perut ikan besar",
+        "Menguasai jin, manusia, dan angin",
+        "Mengembara selama empat puluh tahun di padang gurun yang luas"
+      ],
+      "answer": "Menjadi mangsa pembunuhan pertama dalam sejarah manusia"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

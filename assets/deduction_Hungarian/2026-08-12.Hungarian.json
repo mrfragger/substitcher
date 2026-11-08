@@ -1,0 +1,61 @@
+{
+  "title": "Az Irgalom és Hatalom Követei",
+  "intro": "Képzelj el egy csendes délutánt, melyet ismeretlen utazók érkezése szakít félbe. Megjelenésük hétköznapi, de céljuk korántsem az. Isteni üzenetet hordoznak, amely megváltoztatja két nemzet sorsát, nevetést hozva egy kopár otthonba és rettegést egy bűnös városba. Kik ezek a titokzatos látogatók?",
+  "clues": [
+    "Allah egy odaadó szolgájához küldtek minket, aki határtalan vendégszeretetéről volt ismert.",
+    "Idegenek álarcában érkeztünk, mégis a házigazdánk valami földöntúliat érzett a jelenlétünkben.",
+    "Olyan híreket hoztunk, hogy egy idős asszony hitetlenkedve felnevetett, és a saját arcát is megütötte ámulatában.",
+    "Az volt a feladatunk, hogy megvédjünk egy igaz családot, miközben pusztítást zúdítunk egy korrupcióval átitatott városra.",
+    "Nem voltunk hajlandóak részt venni a felkínált étkezésben, ami csak fokozta a házigazdánk gyanúját.",
+    "Csak távozásunk előtt tártuk fel valódi természetünket, mondván: „Bizony, mi Uratok küldöttei vagyunk.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Ábrahám vendégei",
+        "Jézus tanítványai",
+        "A barlang társai",
+        "Az Abraha hadserege",
+        "Ya-Sin hírnökei"
+      ],
+      "answer": "Ábrahám vendégei"
+    },
+    "trial": {
+      "label": "Küldetésünk",
+      "options": [
+        "Hogy próbára tegye Ábrahám hitét a fiába vetett hitében",
+        "Hogy átadja az Írást Ábrahámnak",
+        "Hogy bejelentse Izsák születését és Lót népének pusztulását",
+        "Hogy Ábrahámot a Kába hegyéhez vezesse",
+        "Hogy megmentsék Ábrahámot a tűzből"
+      ],
+      "answer": "Hogy bejelentse Izsák születését és Lót népének pusztulását"
+    },
+    "location": {
+      "label": "Megjelenés helye",
+      "options": [
+        "Egyiptom földjén",
+        "Ur városában",
+        "Ábrahám házában",
+        "Az Édenkertben",
+        "A Zamzam kútjánál"
+      ],
+      "answer": "Ábrahám házában"
+    },
+    "outcome": {
+      "label": "Az eredmény",
+      "options": [
+        "Ábrahám király lett",
+        "Ábrahám építette a Kábát",
+        "Sára szülte Izsákot, Lót népe pedig elpusztult",
+        "Ábrahám Palesztinába vándorolt",
+        "Ábrahám népe megmenekült egy nagy özönvíztől"
+      ],
+      "answer": "Sára szülte Izsákot, Lót népe pedig elpusztult"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

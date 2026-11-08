@@ -1,0 +1,61 @@
+{
+  "title": "Onus Doni Recusati",
+  "intro": "Ineunte historia humana, cum terra adhuc iuvenis esset et mundus primum spiritum retineret, anima quaedam coram Creatore stetit cum humili oblatione. Illa oblatio in statera divinae acceptationis pensata est — et inventa deficiens. Quod secutum est non fuit fabula veniae, sed cordis zelotypia consumpti, ducentis ad actum irrevocabilem qui per omne tempus resonaret. Haec est fabula alicuius cuius nomen synonymum factum est cum prima gravi iniustitia umquam commissa.",
+  "clues": [
+    "In exstare coepi ut unus ex primis umquam natis liberis, natus parente cuius historiam bene nostis.",
+    "Olim sacrificium Deo obtuli, sed a me non acceptum est — quamquam oblatio fratris mei cum gratia accepta est.",
+    "Invidia et ira in corde meo radices egerunt, et minabar vitam meorum cognatorum finire.",
+    "Frater meus me monuit ut Deum timerem, sed superbia mea me audire non sivit.",
+    "In momento terribilis infirmitatis, facinus nefandum in fratrem meum ipsum perfeci.",
+    "Postea, ne scivi quidem quomodo celarem quae feceram — donec creatura quaedam terrae missa est ut me doceret."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Qabil (Cain)",
+        "Habil (Abel)",
+        "Filius prophetae Nuh",
+        "Propheta Ismael",
+        "Propheta Iosue"
+      ],
+      "answer": "Qabil (Cain)"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Sacrificium reiectum offerens, ad primum homicidium ducens",
+        "Turrim excelsam aedificans ut ad caelum perveniat",
+        "In ignem furentem pro fide propria conici",
+        "Filium proprium immolare in oboedientia Allah",
+        "Ab magno pisce deglutiri propter officii fugam"
+      ],
+      "answer": "Sacrificium reiectum offerens, ad primum homicidium ducens"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Corvus ab Allah missus ad sepulturam demonstrandam",
+        "Magnum diluvium quod totum populum submersit",
+        "Baculus qui in serpentem vivum conversus est",
+        "Camelus qui e monte saxoso emersit",
+        "Solius magnificus a ventis validis portatus"
+      ],
+      "answer": "Corvus ab Allah missus ad sepulturam demonstrandam"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Factus est ex paenitentibus, oneratus primo scelere umquam commisso",
+        "Ignositus ab Allah et concessus est Paradiso aeternum",
+        "Ad altum prophetiae et sapientiae gradum evectus est",
+        "Divina misericordia servatus est postquam e profundis tenebrarum clamavit",
+        "Datum est ei dominium super jinn, ventum, et maria"
+      ],
+      "answer": "Factus est ex paenitentibus, oneratus primo scelere umquam commisso"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

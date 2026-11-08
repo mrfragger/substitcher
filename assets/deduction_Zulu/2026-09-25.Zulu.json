@@ -1,0 +1,61 @@
+{
+  "title": "Idamu Elaphula Umbuso",
+  "intro": "Izwe elinemifula egelezayo, izingadi ezimbili eziluhlaza, kanye nokuchuma okungenakuqhathaniswa — kodwa izakhamuzi zalo zaqala ukungamnaki Lowo owababusisa. Lapho kufika izikhumbuzo ezibabizayo, baphenduka. Okwalandela kwaba isijeziso esisazwakala njengesixwayiso. Yayingubani le miphakathi yasendulo?",
+  "clues": [
+    "Sasihlala ezweni elibusiswe kakhulu kangangokuthi ikhaya lethu laliphakathi kwezingadi ezimbili eziluhlaza.",
+    "Sajabulela imifula egeleza emasimini ethu kanye nesivuno esiningi esigcwalisa amakhaya ethu.",
+    "Kodwa lapho sibizelwa ekubongeni nasekulaleleni iNkosi yethu, saphenduka ngokuziqhenya.",
+    "Ingcebo yethu kanye nokunethezeka kwethu kwasenza sakhohlwa Lowo owasinika konke.",
+    "Kwabe sekufika isikhukhula esingazelelwe esadabula isithiyo esikhulu esasithembele kuso.",
+    "Singabantu baseSaba', izwe labo elalaziwa ngeDamu elikhulu laseMa'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Abantu baseSaba",
+        "Abantu baseMfuleni",
+        "Abangane Bomthombo",
+        "Abantu baseTubba'",
+        "Abantu bakwaMidiyani"
+      ],
+      "answer": "Abantu baseSaba"
+    },
+    "trial": {
+      "label": "Ukuwa Kwethu",
+      "options": [
+        "Isikhukhula esivela edamini eliqhumayo",
+        "Umoya onamandla ovela esibhakabhakeni",
+        "Ukusha emseleni womlilo",
+        "Ukuzamazama komhlaba okukhulu",
+        "Ukuminza esikhukhuleni esikhulu"
+      ],
+      "answer": "Isikhukhula esivela edamini eliqhumayo"
+    },
+    "location": {
+      "label": "Indawo Eyinhloko",
+      "options": [
+        "Idamu laseMa'rib",
+        "INtaba iSinayi",
+        "Umhume Wabalele Abayisikhombisa",
+        "Isihlahla Esivuthayo",
+        "Ukuqhekeka Kolwandle"
+      ],
+      "answer": "Idamu laseMa'rib"
+    },
+    "outcome": {
+      "label": "Isiphetho Sethu",
+      "options": [
+        "Izingadi ezimbili ezibabayo zathatha indawo yezimila zethu ezinhle",
+        "Izingadi zethu zakhula zaba ziningi kakhulu",
+        "Izwe lacwila ngaphansi kolwandle",
+        "Sangcwatshwa emlotheni wentaba-mlilo",
+        "Isizwe sethu sahlukana saba izizwe eziyishumi nambili"
+      ],
+      "answer": "Izingadi ezimbili ezibabayo zathatha indawo yezimila zethu ezinhle"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

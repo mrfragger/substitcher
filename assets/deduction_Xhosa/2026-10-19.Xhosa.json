@@ -1,0 +1,61 @@
+{
+  "title": "Umgxothwa wamazulu",
+  "intro": "Isidalwa esingaqondakaliyo simi kwindawo edibanisa indalo kunye nokwaliwa. Ibali labo libonisa ukuzikhukhumeza okungenakuthelekiswa nanto kunye nokungawuthobeli ngokupheleleyo umyalelo kaThixo. Ukhetho lwabo luvakala kuzo zonke izizukulwana, lube luvavanyo kuwo wonke umphefumlo ozelwe kweli hlabathi. Ungamchonga lo mchasi ungunaphakade?",
+  "clues": [
+    "Ndandikho kwisiganeko esibalulekileyo kwihlabathi liphela, xa kwadalwa isidalwa esitsha ngodongwe saza sanikwa ubomi nguMoya woMnininceba.",
+    "Mna ngokwam ndadalwa kwinto enye evuthayo, ngokungafaniyo neyothuli.",
+    "Ndanikwa umyalelo endandiwubona ungaphantsi kwesikhundla sam.",
+    "Ikratshi landa ngaphakathi kum, ndaza ndala ngamandla ukuthobela loo myalelo.",
+    "Ndanikwa ukulibaziseka de kube nguMhla omiselweyo, ukuze ndikwazi ukufezekisa injongo yam yokukhohlisa abanye.",
+    "Ndingutshaba olubhengezwe njengolwabo bonke abahamba emhlabeni, ndihleba iinkohliso kwaye ndibatsalela kude nendlela ethe tye."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "U-Iblis (uSathana)",
+        "UFaro (uFir'awn)",
+        "UHaman",
+        "U-Abu Jahl",
+        "IsiSamiri"
+      ],
+      "answer": "U-Iblis (uSathana)"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Wala ukuqubuda phambi koAdam",
+        "Ubuxoki obuthi unguThixo",
+        "Wenza ithole legolide ukuze linqulwe",
+        "Wabulala umntakwabo ngenxa yomona",
+        "Bakhokela iqela eliphikisayo labahedeni eMakkah"
+      ],
+      "answer": "Wala ukuqubuda phambi koAdam"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "IParadesi (iJannah)",
+        "Ibhotwe likaFaro eYiputa",
+        "Intlambo engcwele yaseTuwa",
+        "Ubunzulu bolwandle",
+        "Umyezo waseShebha"
+      ],
+      "answer": "IParadesi (iJannah)"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Inikwe ikhefu kude kube yiMini yoMgwebo",
+        "Nditshonile kunye nomkhosi elwandle",
+        "Iginywe ngumhlaba kunye nobutyebi",
+        "Waguquka waba yinkawu ngenxa yokwaphula iSabatha",
+        "Utshiswe ngamatye aphoswe esibhakabhakeni"
+      ],
+      "answer": "Inikwe ikhefu kude kube yiMini yoMgwebo"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

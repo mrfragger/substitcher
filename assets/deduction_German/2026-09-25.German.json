@@ -1,0 +1,61 @@
+{
+  "title": "Der Damm, der ein Königreich zerbrach",
+  "intro": "Ein Land mit fließenden Flüssen, zwei grünen Gärten und unvergleichlichem Wohlstand – doch seine Bewohner vergaßen den Einen, der sie gesegnet hatte. Als Mahnungen sie zurückriefen, wandten sie sich ab. Was folgte, war eine Strafe, die noch heute als Warnung nachhallt. Wer war diese alte Gemeinschaft?",
+  "clues": [
+    "Wir lebten in einem so gesegneten Land, dass unser Zuhause zwischen zwei üppigen Gärten lag.",
+    "Wir erfreuten uns an Flüssen, die durch unser Land flossen, und an reichen Ernten, die unsere Häuser füllten.",
+    "Doch als wir zur Dankbarkeit und zum Gehorsam gegenüber unserem Herrn aufgerufen wurden, wandten wir uns aus Stolz ab.",
+    "Unser Reichtum und unser Wohlstand ließen uns denjenigen vergessen, der uns all dies gewährt hatte.",
+    "Dann kam ein plötzlicher Wolkenbruch, der die große Barriere durchbrach, auf die wir uns verlassen hatten.",
+    "Wir sind das Volk von Saba', dessen Land für den großen Ma'rib-Staudamm bekannt war."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer sind wir?",
+      "options": [
+        "Die Bevölkerung von Saba",
+        "Menschen des Schützengrabens",
+        "Gefährten des Brunnens",
+        "Leute von Tubba",
+        "Menschen von Midian"
+      ],
+      "answer": "Die Bevölkerung von Saba"
+    },
+    "trial": {
+      "label": "Unser Untergang",
+      "options": [
+        "Überschwemmung durch einen Dammbruch",
+        "Ein heftiger Wind vom Himmel",
+        "Brennend in einem Feuergraben",
+        "Ein gewaltiges Erdbeben",
+        "Ertrinken in einer großen Flut"
+      ],
+      "answer": "Überschwemmung durch einen Dammbruch"
+    },
+    "location": {
+      "label": "Schlüsselposition",
+      "options": [
+        "Der Ma'rib-Damm",
+        "Berg Sinai",
+        "Die Höhle der Sieben Schläfer",
+        "Der brennende Busch",
+        "Die Spaltung des Meeres"
+      ],
+      "answer": "Der Ma'rib-Damm"
+    },
+    "outcome": {
+      "label": "Unser Schicksal",
+      "options": [
+        "Zwei karge Gärten ersetzten unsere üppigen.",
+        "Unsere Gärten wurden noch üppiger.",
+        "Das Land versank im Meer",
+        "Wir wurden unter Vulkanasche begraben.",
+        "Unsere Nation spaltete sich in zwölf Stämme."
+      ],
+      "answer": "Zwei karge Gärten ersetzten unsere üppigen."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

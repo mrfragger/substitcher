@@ -1,0 +1,61 @@
+{
+  "title": "Didysis valdovo paklusnumas",
+  "intro": "Atsidūrėte senovės stebuklų ir gilių apreiškimų šalyje. Galinga valdovė, susidūrusi su netikėtu kvietimu, leidosi į kelionę, kuri pakeis jos likimą ir jos žmonių tikėjimą. Ar galite atskleisti šios didingos asmenybės tapatybę?",
+  "clues": [
+    "Aš valdžiau klestinčią karalystę, papuoštą didžiuliais turtais ir didingu sostu.",
+    "Mano žmonės ir aš garbinome dangaus kūną, tikėdami, kad tai mūsų viešpats, nors širdyje puoselėjau abejones.",
+    "Keistas pasiuntinys, paukštis, atnešė man laišką, kuriame mane ir mano žmones ragino paklusti Vienam Dievui.",
+    "Pasitariau su savo galingais patarėjais, kaip reaguoti į šią precedento neturinčią žinią.",
+    "Nusprendžiau nusiųsti vertingą dovaną laiško siuntėjui, tikėdamasis įvertinti jo galią ir ketinimus.",
+    "Atvykęs mane nustebino rūmai su stiklinėmis grindimis, atrodančiomis kaip vandens telkinys, ir tada aš pareiškiau savo paklusnumą visos kūrinijos Viešpačiui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Faraonas",
+        "Šebos karalienė",
+        "Dhu al-Qarnayn",
+        "Lukmanas",
+        "Pranašas Jusufas"
+      ],
+      "answer": "Šebos karalienė"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Jūros padalijimas",
+        "Didysis potvynis",
+        "Kelionė susitikti su pranašu Sulaymanu",
+        "Luto žmonių sunaikinimas",
+        "Pranašo Ibrahimo sudeginimas"
+      ],
+      "answer": "Kelionė susitikti su pranašu Sulaymanu"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Arka",
+        "Personalas",
+        "Sostas",
+        "Kalnas",
+        "Ugnis"
+      ],
+      "answer": "Sostas"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Tapo pranašu.",
+        "Buvo sunaikintas Alachu",
+        "Priėmė islamą",
+        "Vedė savo žmones į karą",
+        "Pastatė didingą šventyklą"
+      ],
+      "answer": "Priėmė islamą"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

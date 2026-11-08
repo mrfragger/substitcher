@@ -1,0 +1,61 @@
+{
+  "title": "E Verspriechen iwwer Glühwäin",
+  "intro": "Dir stinn nieft engem Wüstefeier, wéi seng Glüh virsiichteg verdeelt ginn. Visiteure kommen fir eng Begegnung an der Rou, an eng eenzeg Botschaft mécht eng Geschicht vu Verspriechen, Iwwerraschung an enger nach net erfëllter Zukunft op.",
+  "clues": [
+    "Mir hunn d'Distanz iwwerschratt fir bei engem treie Knecht an der Wüst ze kommen.",
+    "Mir hunn gefrot, datt Gluten verdeelt solle ginn, fir e Feier virzebereeden.",
+    "Mir hunn mat engem geschwat, deen no enger Flam fir Killheet a Sécherheet geruff hat.",
+    "Mir hunn engem, deen d'Alter fir Kanner ze kréien iwwerschratt hat, d'Noriicht vun engem Neigebuerenen bruecht.",
+    "Mir hunn dem versprachene Kand Isaak genannt.",
+    "Mir hunn dem Ibrahim déi gutt Noriicht vun engem Jong bruecht, an déi iwwerraschend Noriicht huet den Ibrahim zum Laache bruecht."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Engelen, déi dem Ibrahim déi gutt Noriicht vum Isaak bruecht hunn",
+        "D'Engelen, déi de Lut gewarnt hunn",
+        "Déi Troundroend Engelen",
+        "D'Engelen vun der Häll",
+        "D'Engelen, déi dem Noah geschéckt goufen"
+      ],
+      "answer": "D'Engelen, déi dem Ibrahim déi gutt Noriicht vum Isaak bruecht hunn"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "D'Freed Noriicht vun der Gebuert vum Isaak zum Ibrahim bréngen",
+        "De Lut warnen virun der Strof vu sengem Vollek",
+        "D'Gebuert vum Yahya gëtt dem Zakariyya bekannt ginn",
+        "Den Troun um Dag vum Uerteel droen",
+        "D'Gebuert vun der Isa un d'Maryam bekannt ginn"
+      ],
+      "answer": "D'Freed Noriicht vun der Gebuert vum Isaak zum Ibrahim bréngen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Feier, dat aus verbreetenen Glühbirnen virbereet gouf",
+        "Eng Ark, déi um Flutwaasser schwëmmt",
+        "Eng Höhl, déi vun engem Rollsteen zougemaach gouf",
+        "E Bierg aus Leem, deen duerch Salzlake gehärtet gouf",
+        "Eng Leeder déi sech an den Himmel erstreckt"
+      ],
+      "answer": "E Feier, dat aus verbreetenen Glühbirnen virbereet gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Gudde Neiegkeeten vun engem Jong mam Numm Isaac",
+        "Eng gutt Noriicht vun engem Jong mam Numm Yahya",
+        "D'Auswiel vum Talut als Herrscher iwwer d'Kanner vun Israel",
+        "Eng Warnung virun der Strof vum Lut sengem Vollek",
+        "E Befehl fir eng Ark virun der Iwwerschwemmung ze bauen"
+      ],
+      "answer": "Gudde Neiegkeeten vun engem Jong mam Numm Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

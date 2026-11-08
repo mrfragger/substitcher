@@ -1,0 +1,60 @@
+{
+  "title": "Barra e Pasurisë",
+  "intro": "Ju qëndroni përpara një historie pasurie të pamasë, një jete të stolisur me ar dhe pushtet, por në fund të fundit një mësim paralajmërues për të gjithë ata që kërkojnë madhështinë e kësaj bote. A mund ta zbuloni identitetin e kësaj figure, historia e së cilës jehon në kohë, një dëshmi e natyrës kalimtare të pasurive të kësaj bote?",
+  "clues": [
+    "Unë isha nga populli i një Profeti të madh, por zgjodha rrugën e arrogancës dhe shtypjes.",
+    "Allahu më dhuroi pasuri të jashtëzakonshme, aq shumë sa çelësat e thesareve të mia u bënë një barrë e rëndë për një grup të fortë burrash.",
+    "Populli im më këshilloi të mos ngazëllohem me pasurinë time, duke më kujtuar se Allahu nuk i do ata që ngazëllohen.",
+    "Me arrogancë pretendova se pasuria ime e madhe ishte falë dijes dhe përpjekjeve të mia, jo një bekimi nga Allahu.",
+    "Më paralajmëruan kundër korrupsionit dhe më kujtuan të kërkoja botën tjetër me atë që më kishte dhënë Allahu, por unë refuzova të dëgjoja dhe vazhdova me krenarinë time.",
+    "Përfundimisht, Allahu bëri që toka të më përpijë mua dhe banesën time, duke më lënë pa ndihmës kundër caktimit të Tij."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Faraoni",
+        "Haman",
+        "Karun",
+        "Ebu Leheb",
+        "Nemrud"
+      ],
+      "answer": "Karun"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ndarja e detit",
+        "Zjarri i Nimrodit",
+        "Përmbytja",
+        "Gëlltitja nga toka",
+        "Murtaja e karkalecave"
+      ],
+      "answer": "Gëlltitja nga toka"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Arka",
+        "Stafi",
+        "Viçi i Artë",
+        "Thesaret/Çelësat",
+        "Pusi i Zemzemit"
+      ],
+      "answer": "Thesaret/Çelësat"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "I është dhënë mbretëria",
+        "I shpëtuar nga shkatërrimi",
+        "Gëlltitur nga toka",
+        "U bë profet",
+        "Vdiq në paqe"
+      ],
+      "answer": "Gëlltitur nga toka"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

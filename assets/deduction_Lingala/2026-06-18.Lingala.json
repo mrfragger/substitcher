@@ -1,0 +1,61 @@
+{
+  "title": "Moto ya liboso oyo alukaka bolimbisi",
+  "intro": "Zongela ntango moko yambo ya kobima ya moi ya yambo, yambo moto moko ya kufa atambola na mabele. Bazalaki kosala elilingi moko na biloko oyo eleki komikitisa, bapesaki yango esika moko likoló ya baanzelu, mpe batyaki yango na elanga moko mosantu oyo ezalaki na likebisi ya polele. Nzokande na ngonga moko, boponi esalemaki —oyo ekozongela na lisolo mobimba ya bato. Motángo oyo ezali nani?",
+  "clues": [
+    "Namemamaki na bozali na lolenge ekeseni na mosusu —nasalamaki uta na mputulu ya mabele mpe napesamaki molimo ya bomoi na loboko ya Mozalisi.",
+    "Bapesaki ngai boyebi ya mozindo mpenza na boye ete ata baanzelu oyo bazalaki likoló bakamwaki na yango.",
+    "Bato banso ba lola bapesamaki mitindo ya kofukama liboso na ngai, mpe bango banso bamikitisi — longola se moko, oyo aboyaki mpo na lolendo.",
+    "Natiamaki na elanga ya bule, esika ya libondisi ya seko mpe ya bopesi —kasi na epekiseli moko ya makasi.",
+    "Nabosanaki, na glisser, pe natosaki te —mpe nayokaki kilo ya libunga na ngai na mozindo.",
+    "Nabalukaki epai ya Nkolo na ngai na maloba ya motema, mpe andimaki boyamboli na ngai, mpo ete Ye azali Molimbisi koleka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Mosakoli Adama",
+        "Mosakoli Dawud",
+        "Mosakoli Muhammad",
+        "Iblis, oyo azali",
+        "Mosakoli Yaqub"
+      ],
+      "answer": "Mosakoli Adama"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bapesaki baanzelu mitindo ete báfukama",
+        "Mpela Monene etindamaki",
+        "Mɔtɔ monene esalemaki malili mpe ezalaki na likama te",
+        "Mokonzi moko ya lolendo azindaki na mbu",
+        "Limpinga moko ya bangando ebebisamaki"
+      ],
+      "answer": "Bapesaki baanzelu mitindo ete báfukama"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Elanga ya Esengo",
+        "Ngomba Sinai",
+        "Mosquée sacrée",
+        "Ebale Nil",
+        "Libulu ya Libulu"
+      ],
+      "answer": "Elanga ya Esengo"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Koyambola endimami na Allah",
+        "Bazindaki na mai na mbu",
+        "Emelamaki na mbisi moko monene",
+        "Ekólo yango ebɛtamaki na mopɛpɛ makasi",
+        "Ezikisamaki na mopɛpɛ makasi"
+      ],
+      "answer": "Koyambola endimami na Allah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

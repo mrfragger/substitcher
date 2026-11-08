@@ -1,0 +1,61 @@
+{
+  "title": "A trón mögötti hit",
+  "intro": "Vannak lelkek, akiket nem tűz vagy özönvíz tesz próbára, hanem egy zsarnok palotájában élés lassú nyomása. Ez az alak egy olyan uralkodó mellett állt, aki isteninek vallotta magát népe felett, mégis titokban ragaszkodott az Egy Igaz Istenbe vetett hithez. Amikor felfedezték odaadásukat, szenvedés jött – de egy isteni ígéret is. Kitalálod, ki ez?",
+  "clues": [
+    "Országom leghatalmasabb uralkodójának a házában éltem, olyan helyzetben, amit kevesen tudnának elképzelni.",
+    "A házastársam az emberek elé állt, és istennek kiáltotta ki magát – de az én szívem az Egy Igaz Úré volt.",
+    "Titokban imádkoztam, félve a büntetéstől, amely mindazokra várt, akik szembeszálltak a házastársammal.",
+    "Amikor a hitem lelepleződött, megragadtak és megkínoztak – mégis a nyelvem soha egyetlen hitetlenkedő szót sem ejtett ki.",
+    "Kiöntöttem szívemet Uramnak, és egy Paradicsomi házat kértem, távol minden gonoszságtól.",
+    "Én Asiya bint Muzahim vagyok – a fáraó felesége, aki szembeszállt Mózessel és Hárunnal."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Asiya bint Muzahim (a fáraó felesége)",
+        "Hawwa (Éva), az első nő",
+        "Sára, Ibrahim első felesége",
+        "Hágár, Izmáil anyja",
+        "Maryam (Imran felesége) anyja"
+      ],
+      "answer": "Asiya bint Muzahim (a fáraó felesége)"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Kínzást kell elviselni a hit megtagadásának elutasítása miatt",
+        "Túlélés egy nagy hal gyomrában",
+        "Egy hatalmas bárka építése az árvíz elkerülésére",
+        "Lángoló tűzbe vetve",
+        "Egy nagy tenger kettéválásának tanúja"
+      ],
+      "answer": "Kínzást kell elviselni a hit megtagadásának elutasítása miatt"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy ház, amit nekik építettek a Paradicsomban",
+        "Egy kígyóvá változott személyzet",
+        "Egy bárka, amely mindenféle teremtményből párokat szállít",
+        "Egy nemzet által imádott aranyborjú",
+        "Parittya, amellyel legyőztek egy óriás harcost"
+      ],
+      "answer": "Egy ház, amit nekik építettek a Paradicsomban"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Megtisztelve azzal, hogy a Paradicsomban lakhatott az igazak mellett",
+        "A hullámok alá fulladtak seregükkel együtt",
+        "Lángokban égett, de isteni beavatkozásnak köszönhetően megmentették",
+        "Egy hatalmas teremtmény lenyelte, majd partra vetette",
+        "Koruk leggazdagabb emberévé váltak"
+      ],
+      "answer": "Megtisztelve azzal, hogy a Paradicsomban lakhatott az igazak mellett"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

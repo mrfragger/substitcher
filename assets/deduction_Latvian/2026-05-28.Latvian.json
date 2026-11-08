@@ -1,0 +1,61 @@
+{
+  "title": "Nelokāmais pacients",
+  "intro": "Pravietiskās vēstures annālēs tikai retais ir pārcietis tik dziļus zaudējumus un fiziskas ciešanas ar nesatricināmu ticību. Šīs personas stāsts ir mūžīga mācība par pacietību un uzticēšanos dievišķajai gudrībai. Kas ir šī dvēsele?",
+  "clues": [
+    "Allāhs mani izvēlējās, lai nodotu vēstījumu, bet manu lielāko pārbaudījumu nepiemeklēja noraidījums, bet gan personīga nelaime.",
+    "Mana bagātība, mani lopi un mani bērni man tika atņemti, viens pēc otra.",
+    "Mans ķermenis bija klāts ar čūlām, un es biju atstāts viens, izņemot sava dzīvesbiedra atbalstu.",
+    "Es saucu pie sava Kunga, atzīstot savas ciešanas un meklējot Viņa žēlastību.",
+    "Man pavēlēja ar kāju sist pa zemi, un no tās izšāvās atsvaidzinošs avots.",
+    "Allāhs atjaunoja manu veselību un deva man jaunu ģimeni un vēl lielāku bagātību nekā man bija iepriekš."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravietis Ajūbs",
+        "Pravietis Ibrahims",
+        "Pravietis Musa",
+        "Pravietis Isa",
+        "Pravietis Nuhs"
+      ],
+      "answer": "Pravietis Ajūbs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Bagātības un ģimenes zaudēšana",
+        "Tiekot iemests ugunī",
+        "Zivs norīšana",
+        "Atdalīšana no ģimenes un pārdošana verdzībā",
+        "Tiekot pārbaudīts ar zelta teļu"
+      ],
+      "answer": "Bagātības un ģimenes zaudēšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Ūdens avots",
+        "Personāla, kas pārvērtās par čūsku",
+        "Koka šķirsts",
+        "Izkusis teļš",
+        "Palma"
+      ],
+      "answer": "Ūdens avots"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Ģimenes un bagātības atjaunošana",
+        "Debesbraukšana debesīs",
+        "Kļūstot par karali",
+        "Glābšana no vaļa",
+        "Dēla piedzimšana vecumdienās"
+      ],
+      "answer": "Ģimenes un bagātības atjaunošana"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

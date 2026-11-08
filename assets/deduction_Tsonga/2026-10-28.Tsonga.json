@@ -1,0 +1,61 @@
+{
+  "title": "Xitshembiso Lexi Vuriweke Ehenhla Ka Embers",
+  "intro": "U yima etlhelo ka ndzilo wa mananga loko madzovo ya wona ma hangalasiwa hi vukheta. Vaendzi va fika va ta hlangana eka ku miyela, naswona rungula rin’we ri pfula xitori xa xitshembiso, ku hlamala ni vumundzuku lebyi nga si hetisekaka.",
+  "clues": [
+    "Hi tsemakanye mpfhuka leswaku hi ya fika eka nandza wo tshembeka emananga.",
+    "Hi kombele leswaku ku hangalasiwa swibalesa leswaku ku lunghiseleriwa ndzilo.",
+    "Hi vulavule ni un’wana loyi a a huwelerile langavi leswaku a titimela ni ku hlayiseka.",
+    "Hi tise mahungu ya n’wana loyi a ha ku velekiwaka eka munhu loyi a hundzeke malembe ya ku va ni vana.",
+    "Hi thye n’wana loyi a tshembisiweke vito ra Isaka.",
+    "Hi tise mahungu yo tsakisa ya n’wana wa mufana eka Ibrahim, naswona mahungu yo hlamarisa ma siye Ibrahim a hleka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Tintsumi Leti Tiseke Mahungu Yo Tsakisa Ya Isaka eka Ibrahim",
+        "Tintsumi Leti Lemukiseke Lut",
+        "Tintsumi Leti Rhwaleke Swiluvelo",
+        "Tintsumi ta Tihele",
+        "Tintsumi Leti Rhumeriweke eka Nowa"
+      ],
+      "answer": "Tintsumi Leti Tiseke Mahungu Yo Tsakisa Ya Isaka eka Ibrahim"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ku tisa mahungu yo tsakisa ya ku velekiwa ka Isaka eka Ibrahim",
+        "Ku tsundzuxa Luti emahlweni ka ku xupuriwa ka vanhu va yena",
+        "Ku tivisa ku velekiwa ka Yahya eka Zakariyya",
+        "Ku rhwala Xiluvelo hi Siku ra Vuavanyisi",
+        "Ku tivisa ku velekiwa ka Isa eka Maryam"
+      ],
+      "answer": "Ku tisa mahungu yo tsakisa ya ku velekiwa ka Isaka eka Ibrahim"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Ndzilo lowu lunghiseleriweke hi ndzilo lowu hangalakeke",
+        "Ngalava leyi papamalaka ehenhla ka mati ya ndhambi",
+        "Bako leri pfaleriweke hi ribye leri rhendzelekaka",
+        "Ntshava ya vumba leyi nonon’hwisiweke hi brine",
+        "Xitepisi lexi hangalakeke xi ya exibakabakeni"
+      ],
+      "answer": "Ndzilo lowu lunghiseleriweke hi swibalesa leswi hangalakeke"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Mahungu lama tsakisaka ya n’wana la vuriwaka Isaka",
+        "Mahungu yo tsakisa ya n’wana wa mufana loyi a vuriwaka Yahya",
+        "Ku hlawuriwa ka Talut tanihi mufumi ehenhla ka Vana va Israyele",
+        "Xilemukiso xa le mahlweni ka ku xupuriwa ka vanhu va Lut",
+        "Xileriso xo aka ngalava emahlweni ka Ndhambi"
+      ],
+      "answer": "Mahungu lama tsakisaka ya n’wana la vuriwaka Isaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ugunīgais pretinieks",
+  "intro": "Atklāsmes agrīnajās dienās parādījās kāda figūra, kas spītīgi pretojās patiesībai. Apveltīta ar bagātību un statusu, šī dvēsele izvēlējās lepnumu, nevis vadību, un viņu stāsts kļuva par skarbu brīdinājumu kādas suras pēdējos pantos.",
+  "clues": [
+    "Es dzīvoju tajā pašā pilsētā, kur pravietis, un biju viens no viņa tuvākajiem radiniekiem, tomēr mans lepnums mani attālināja no patiesības.",
+    "Man piederēja liela bagātība un daudz īpašumu, un es domāju, ka mani resursi mani vienmēr pasargās.",
+    "Kad vēsts tika atklāta, es to atklāti izsmēju un novērsos, uzskatot sevi par pārāku par ticīgajiem.",
+    "Mans naidīgums bija tik bēdīgi slavens, ka kāda Korāna sura uzrunāja mani tieši, saucot mani vārdā, kādā mani pazina citi.",
+    "Mani brīdināja, ka mana bagātība un ienākumi man nelīdzēs un es tikšu iemests liesmojošā ugunī.",
+    "Esmu pazīstams kā liesmas tēvs, un mana sieva nesīs malku ar palmu šķiedras virvi ap kaklu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Abu Lahābs",
+        "Abu Džahls",
+        "Abu Sufjans",
+        "Al-Valīds ibn al-Mughira",
+        "Al-As ibn Vails"
+      ],
+      "answer": "Abu Lahābs"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Noraidīja islāmu un atklāti iebilda pret pravieti",
+        "Sazvērējās nogalināt pravieti",
+        "Vadīja sociālu boikotu pret musulmaņiem",
+        "Cīnījās Badras kaujā",
+        "Spīdzinātais Bilals ibn Rabahs"
+      ],
+      "answer": "Noraidīja islāmu un atklāti iebilda pret pravieti"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Palmu šķiedras virve",
+        "Ass zobens",
+        "Smaga ķēde",
+        "Koka personāls",
+        "Ādas pātaga"
+      ],
+      "answer": "Palmu šķiedras virve"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Sadegs liesmojošā ugunī",
+        "Nožēloja grēkus un kļuva par biedru",
+        "Zaudēja savu bagātību, bet nomira godināts",
+        "Aizbēga uz Abesīniju",
+        "Noslīcis jūrā"
+      ],
+      "answer": "Sadegs liesmojošā ugunī"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

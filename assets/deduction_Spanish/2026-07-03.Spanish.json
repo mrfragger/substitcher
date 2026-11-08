@@ -1,0 +1,61 @@
+{
+  "title": "El heraldo de un pecado sin precedentes",
+  "intro": "Algunas historias del Corán revelan la profunda corrupción en la que puede caer una sociedad entera. Este mensajero se mantuvo firme, implorando a un pueblo sumido en una perversión que ninguna nación anterior había experimentado. A pesar de años de advertencias, los corazones permanecieron endurecidos, y el decreto divino llegó de la manera más aterradora. ¿Puedes identificar a este noble mensajero de Alá?",
+  "clues": [
+    "Me enviaron como mensajero a un pueblo consumido por una perversión que ninguna nación anterior había cometido.",
+    "Mi gente me llamó mentiroso y amenazó con expulsarme a mí y a mis seguidores de la tierra.",
+    "Recibí visitas de honor en mi casa de jóvenes apuestos, y sentí una profunda preocupación por su seguridad.",
+    "Mi gente me exigió que les entregara a mis huéspedes, sin saber que estos visitantes eran ángeles enviados por Alá.",
+    "Mi propio cónyuge no compartía mi fe y prefirió quedarse atrás con los condenados.",
+    "Me salvé junto con mis hijas al amanecer, cuando una devastadora lluvia de piedras cayó y nuestras ciudades quedaron arrasadas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Profeta Lut",
+        "Profeta Shu'aib",
+        "Profeta Hud",
+        "Profeta Noé",
+        "Profeta Salih"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Un gran diluvio que engulló la tierra",
+        "Pérdida de la vista por sufrimiento prolongado",
+        "Un tirano que se proclama divino",
+        "Ser arrojado a un fuego ardiente",
+        "Se les exige que entreguen a los invitados de honor."
+      ],
+      "answer": "Se les exige que entreguen a los invitados de honor."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Una gran arca construida a mano",
+        "Un bastón que partió el mar",
+        "Una camella milagrosa",
+        "Un fuego abrasador",
+        "Ciudades derribadas"
+      ],
+      "answer": "Ciudades derribadas"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Se ahogó mientras perseguía a los creyentes.",
+        "Salvado ileso de un horno de fuego",
+        "Elevado vivo al cielo",
+        "Una familia pereció en una gran inundación.",
+        "La familia se salvó, excepto por una esposa infiel."
+      ],
+      "answer": "La familia se salvó, excepto por una esposa infiel."
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

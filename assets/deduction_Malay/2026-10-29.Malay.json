@@ -1,0 +1,61 @@
+{
+  "title": "Amaran Kecil Di Hadapan Pasukan Berbaris",
+  "intro": "Langkahkan kaki ke sebuah lembah di mana seorang pemerintah yang perkasa dan sekumpulan besar tentera sedang menghampiri, dan bayangkan seorang pengembara kecil yang memberi amaran yang menyelamatkan seluruh komuniti. Apabila komuniti yang terancam itu sampai ke tempat perlindungan, bahaya itu berlalu. Ikuti petunjuk untuk mengenal pasti figura yang diabaikan di sebalik amaran itu.",
+  "clues": [
+    "Aku antara makhluk kecil yang dikaitkan dengan kerajaan pemerintah.",
+    "Komuniti saya tinggal di kediaman di dalam lembah, di mana salah seorang daripada kami boleh berseru kepada yang lain.",
+    "Kita menghadapi ancaman daripada pemerintah itu dan tentera yang bergerak bersama pemerintah itu.",
+    "Akulah yang menyeru umatku untuk memasuki kediaman mereka dan memberi amaran kepada kita agar tidak ditindas tanpa disedari.",
+    "Pemerintahnya ialah Sulaiman, dan golonganku termasuk makhluk yang diletakkan di bawah pemerintahannya.",
+    "Akulah semut di lembah itu; setelah aku memberi amaran, kami memasuki tempat tinggal kami dan terlepas dari rempuhan yang jika tidak, pasti akan mengejutkan kami."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Semut Lembah",
+        "Burung Hud",
+        "Gagak",
+        "Ular itu",
+        "Baghal"
+      ],
+      "answer": "Semut Lembah"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Amaran yang menyelamatkan komuniti semut",
+        "Permintaan cincin daripada seekor ikan",
+        "Pencarian takhta yang hilang",
+        "Penyelamatan mata yang dicuri",
+        "Keengganan untuk makan makanan pemerintah"
+      ],
+      "answer": "Amaran yang menyelamatkan komuniti semut"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Lembah Semut",
+        "Cincin Mohor Sulaiman",
+        "Baju Yusuf yang Berlumuran Darah",
+        "Anak Lembu Emas semasa Eksodus",
+        "Tongkat Musa"
+      ],
+      "answer": "Lembah Semut"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Komuniti itu terselamat selepas berlindung",
+        "Komuniti itu musnah tanpa berlindung",
+        "Komuniti itu terselamat kerana tentera berundur",
+        "Komuniti itu diberi ganjaran dengan kawalan ke atas burung-burung",
+        "Komuniti itu telah ditawan ke istana diraja"
+      ],
+      "answer": "Komuniti itu terselamat selepas berlindung"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

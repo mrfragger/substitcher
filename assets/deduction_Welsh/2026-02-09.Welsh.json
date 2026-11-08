@@ -1,0 +1,60 @@
+{
+  "title": "Y Treial Dan y Tonnau",
+  "intro": "Gwnaeth proffwyd, dan faich ei genhadaeth, benderfyniad a’i harweiniodd ymhell oddi wrth ei bobl ac i dreial annisgwyl. Cymerodd ei daith dro dramatig, gan brofi ei ffydd a’i amynedd yn y ffordd fwyaf dwys. A allwch chi gasglu manylion y digwyddiad rhyfeddol hwn o’r cliwiau a ddarparwyd?",
+  "clues": [
+    "Anfonwyd proffwyd at bobl, ond gadawodd ar frys, gan deimlo rhwystredigaeth oherwydd eu gwrthodiad.",
+    "Arweiniodd ei daith ef i'r môr, lle aeth ar fwrdd llong â llwyth trwm yn chwilio am daith.",
+    "Cododd storm fawr, gan fygwth y llong, a gwnaed penderfyniad i daflu un person dros y bwrdd i ysgafnhau'r llwyth, a benderfynwyd trwy goelbren.",
+    "Cafodd ei lyncu gan greadur o'r dyfnder, digwyddiad gwyrthiol a orchmynnwyd gan ewyllys Dwyfol.",
+    "O fewn cyfyngiadau bol y creadur, galwodd ar ei Arglwydd, gan edifarhau a gogoneddu Allah yn y tywyllwch.",
+    "Ar ôl cyfnod o ddeisyfiad dwys, cafodd ei daflu ar lan ddiffrwyth, yn wan ond yn fyw, ac yn ddiweddarach dychwelodd i ddarganfod bod ei bobl o'r diwedd wedi credu."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Proffwyd/Person",
+      "options": [
+        "Proffwyd Nuh",
+        "Proffwyd Lut",
+        "Proffwyd Musa",
+        "Proffwyd Yunus",
+        "Proffwyd Yusuf"
+      ],
+      "answer": "Proffwyd Yunus"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Dilyw Nuh",
+        "Dinistr Sodom",
+        "Y daith ym mol y pysgodyn mawr",
+        "Hollti'r môr",
+        "Datguddiad y berth llosgi"
+      ],
+      "answer": "Y daith ym mol y pysgodyn mawr"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr Arch",
+        "Mynydd Sinai",
+        "Staff Musa",
+        "Y Pysgodyn Mawr",
+        "Ffynnon Yusuf"
+      ],
+      "answer": "Y Pysgodyn Mawr"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cyfamod newydd â dynoliaeth",
+        "Genedigaeth ryfeddol i'w bobl",
+        "Teyrnas a sefydlwyd ar gyfer ei linach",
+        "Dychweliad at ei bobl a gredai bryd hynny",
+        "Buddugoliaeth dros reolwr gormesol"
+      ],
+      "answer": "Dychweliad at ei bobl a gredai bryd hynny"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

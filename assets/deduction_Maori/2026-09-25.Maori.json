@@ -1,0 +1,61 @@
+{
+  "title": "Te Pā i Wāwāhi i te Kīngitanga",
+  "intro": "He whenua e rere ana ngā awa, e rua ngā māra matomato, me te whai rawa kore - engari i wareware ōna tāngata ki te Mea nāna rātou i manaaki. I te taenga mai o ngā whakamaharatanga ki te karanga i a rātou kia hoki mai, ka tahuri ke atu rātou. Ko te mea i whai ake ko te whiu e mau tonu ana hei whakatūpato. Ko wai tēnei hapori tawhito?",
+  "clues": [
+    "I noho mātou i tētahi whenua manaakitanga, i waenganui i ngā māra matomato e rua tō mātou kāinga.",
+    "I pai mātou ki ngā awa e rere ana i roto i ō mātou whenua, me ngā hua nui e whakakī ana i ō mātou kāinga.",
+    "Heoi i te wā i karangatia ai tātou kia whakawhetai, kia ngohengohe hoki ki tō tātou Ariki, ka tahuri ke atu tātou i runga i te whakapehapeha.",
+    "Nā ō mātou taonga me ō mātou wātea i wareware ai mātou ki te Atua nāna nei i homai te katoa.",
+    "Kātahi ka puta whakarere mai he waipuke, ā, pakaru ana i te ārai nui i whakawhirinaki atu ai mātou.",
+    "Ko mātou te iwi o Saba', i mōhiotia tō mātou whenua mō te pā wai nui o Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā tāngata o Saba",
+        "Ngā tāngata o te awaawa",
+        "Ngā Hoa o te Puna",
+        "Ngā tāngata o Tubba'",
+        "Ngā tāngata o Miriana"
+      ],
+      "answer": "Ngā tāngata o Saba"
+    },
+    "trial": {
+      "label": "Tō tātou hinganga",
+      "options": [
+        "Waipuke mai i te pāhūtanga o te tāhuna",
+        "He hau kaha mai i te rangi",
+        "Te tahunga i roto i te awaawa ahi",
+        "He rū whenua nui",
+        "Te toremitanga i roto i te waipuke nui"
+      ],
+      "answer": "Waipuke mai i te pāhūtanga o te tāhuna"
+    },
+    "location": {
+      "label": "Tauwāhi Matua",
+      "options": [
+        "Te Pā o Ma'rib",
+        "Maunga Hinai",
+        "Te Ana o ngā Moe Tokowhitu",
+        "Te Rakau e Mura Ana",
+        "Te Wehenga o te Moana"
+      ],
+      "answer": "Te Pā o Ma'rib"
+    },
+    "outcome": {
+      "label": "Tō tātou aituā",
+      "options": [
+        "E rua ngā māra kawa i whakakapi i ā mātou māra matomato",
+        "I nui haere ake te ataahua o ā mātou māra",
+        "I totohu te whenua i raro i te moana",
+        "I tanumia mātou ki roto i te pungarehu puia",
+        "Tekau mā rua ngā iwi i wehea ai tō tātou iwi"
+      ],
+      "answer": "E rua ngā māra kawa i whakakapi i ā mātou māra matomato"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

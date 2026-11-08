@@ -1,0 +1,61 @@
+{
+  "title": "Obléhání pod náhlou oblohou",
+  "intro": "Stojíte před impozantní armádou blížící se k uctívané svatyni, s připravenými zbraněmi a zdánlivě jistým vítězstvím. Než útok začne, objeví se nad vámi nečekaná síla a souboj nabere směr, který nikdo nepředvídal.",
+  "clues": [
+    "Pochodovali jsme s jistotou, kterou žádná pozemská moc nemohla otřást.",
+    "Přivedli jsme mocné slony a zdálo se, že naše síla je postavena kolem nich.",
+    "Přišli jsme zbořit uctívanou svatyni v domnění, že naše vítězství je již jisté.",
+    "Když jsme tam dorazili, nad námi se po obloze přehnalo hejno.",
+    "Ptáci házeli po našich bojovnících kameny ze ztvrdlé hlíny.",
+    "Byli jsme tak dokonale poraženi, že se naše mocná síla rozpadla a rozptýlila jako popel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé slona",
+        "Dva princové",
+        "Josefovi bratři",
+        "Služebník Alláha v Dhul-Kifl",
+        "Společníci spravedlivého muže"
+      ],
+      "answer": "Lidé slona"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Útok na Kaabu vedený slony",
+        "Moře se dělí před vysvobozenou skupinou",
+        "Zabavení Archy tyranským lidem",
+        "Noční cesta mezi dvěma mešitami",
+        "Uzdravení malomocného božskou mocí"
+      ],
+      "answer": "Útok na Kaabu vedený slony"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Ptáci nesoucí hliněné pelety",
+        "Archa z goferového dřeva",
+        "Hůl se proměnila v hada",
+        "Kámen zapečetěný znamením",
+        "Hořící keř"
+      ],
+      "answer": "Ptáci nesoucí hliněné pelety"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Jejich mocná síla se rozpadla jako popel",
+        "Bezpečně překročili moře",
+        "Prošli bez úhony plápolající pecí",
+        "Vstoupili do ráje ve dvojicích",
+        "Spali v jeskyni 309 let"
+      ],
+      "answer": "Jejich mocná síla se rozpadla jako popel"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

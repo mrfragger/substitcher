@@ -1,0 +1,61 @@
+{
+  "title": "Adversarul înflăcărat",
+  "intro": "În primele zile ale revelației, o figură a apărut ca un adversar încăpățânat al adevărului. Binecuvântat cu bogăție și statut social, acest suflet a ales mândria în locul îndrumării, iar povestea sa a devenit un avertisment dur în versetele finale ale unei sure.",
+  "clues": [
+    "Am locuit în același oraș cu Profetul și eram printre cele mai apropiate rude ale lui, totuși mândria mea m-a ținut departe de adevăr.",
+    "Posedam mari bogății și numeroase proprietăți și credeam că resursele mele mă vor proteja întotdeauna.",
+    "Când mesajul a fost revelat, l-am batjocorit pe față și m-am întors, considerându-mă superior credincioșilor.",
+    "Vrăjmășia mea era atât de notorie încât o sură din Coran mi s-a adresat direct, numindu-mă pe numele pe care alții mă cunoșteau.",
+    "Am fost avertizat că averea și câștigurile mele nu-mi vor fi de niciun folos și că voi fi aruncat într-un foc arzător.",
+    "Sunt cunoscut ca tatăl flăcării, iar soția mea va căra lemnele de foc cu o frânghie din fibră de palmier în jurul gâtului."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "A respins Islamul și s-a opus deschis Profetului",
+        "A complotat asasinarea Profetului",
+        "A condus un boicot social împotriva musulmanilor",
+        "A luptat în bătălia de la Badr",
+        "Bilal ibn Rabah l-a torturat"
+      ],
+      "answer": "A respins Islamul și s-a opus deschis Profetului"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O frânghie din fibră de palmier",
+        "O sabie ascuțită",
+        "Un lanț greu",
+        "Un toiag de lemn",
+        "Un bici de piele"
+      ],
+      "answer": "O frânghie din fibră de palmier"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Va arde într-un foc arzător",
+        "S-a pocăit și a devenit un tovarăș",
+        "Și-a pierdut averea, dar a murit onorat",
+        "A fugit în Abisinia",
+        "Înecat în mare"
+      ],
+      "answer": "Va arde într-un foc arzător"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

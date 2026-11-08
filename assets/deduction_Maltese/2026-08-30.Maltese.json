@@ -1,0 +1,61 @@
+{
+  "title": "L-Ispirtu Fdat tar-Rivelazzjoni",
+  "intro": "Fir-renji inviżibbli, esseri ta’ dawl pur jiċċaqlaq bi preċiżjoni, u jesegwixxi kull kmand mingħajr eżitazzjoni. Din il-figura tkellmet ma’ qaddejja magħżula, ġabet kliem ta’ gwida, u rat l-iżvolġiment ta’ digrieti divini matul iż-żminijiet. Min hi din ir-ruħ onorata?",
+  "clues": [
+    "Jiena esseri ta’ dawl pur, maħluq mid-dawl, u qatt ma obdejt kmand wieħed tal-Mulej tiegħi.",
+    "Nimxi bejn is-smewwiet u l-art, ninżel bid-digrieti tal-Aktar Ħanin.",
+    "Intbgħatt għand verġni nobbli fis-santwarju, u ħabbartilha iben safi.",
+    "Jiena l-ispirtu tal-qdusija, u appoġġjajt profeta li ngħata sinjali ċari u l-Evanġelju.",
+    "Wasalt f'għar fuq muntanja biex ngħid l-ewwel kliem ta' reċitazzjoni li kienet se tibqa' ppreservata għal dejjem.",
+    "Jiena l-ispirtu ta’ min jafdah, u kont jien li niżżilt il-Koran fuq qalb l-aħħar messaġġier."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Jibril (Gabrijel)",
+        "Mikail (Michael)",
+        "L-Anġlu tal-Mewt",
+        "Malik (Gwardjan tal-Infern)",
+        "Harut (wieħed miż-żewġ anġli f'Babilonja)"
+      ],
+      "answer": "Jibril (Gabrijel)"
+    },
+    "trial": {
+      "label": "Missjoni/Rwol Ewlieni",
+      "options": [
+        "Twassil ta’ rivelazzjoni lill-profeti",
+        "Daqq it-tromba f’Jum il-Ġudizzju",
+        "Ngħassu l-bibien tal-Infern",
+        "Ir-reġistrazzjoni tal-għemejjel tal-bnedmin",
+        "Jikkawża li tinżel ix-xita"
+      ],
+      "answer": "Twassil ta’ rivelazzjoni lill-profeti"
+    },
+    "location": {
+      "label": "Attribut jew Titlu Ewlieni",
+      "options": [
+        "L-Ispirtu s-Santu (Ruh al-Qudus)",
+        "L-Ispirtu tal-Qawwa",
+        "L-Ispirtu tal-Ħniena",
+        "L-Ispirtu ta’ Gwida",
+        "L-Ispirtu tal-Verità"
+      ],
+      "answer": "L-Ispirtu s-Santu (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Riżultat tal-Missjoni",
+      "options": [
+        "Il-Koran ġie żvelat lill-Profeta Muhammad",
+        "It-tromba ntlaqtet f’Jum il-Ġudizzju",
+        "L-infern kien imħares u l-bibien tiegħu kienu magħluqa",
+        "Il-Ktieb tal-Għemejjel ġie ppreżentat lil Alla",
+        "Ix-xita ntbagħtet lejn l-art"
+      ],
+      "answer": "Il-Koran ġie żvelat lill-Profeta Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Nakatagong Mananampalataya",
+  "intro": "Sa marangyang bulwagan ng kapangyarihan, kung saan naghahari ang kawalan ng paniniwala at paniniil, isang nag-iisang tinig ng katotohanan ang nagsalita mula sa hindi inaasahang lugar. Hinamon ng pigurang ito ang awtoridad na protektahan ang isang mensahero, isinasapanganib ang sarili nilang seguridad upang ipahayag ang katotohanan.",
+  "clues": [
+    "Nabuhay ako sa isang lupain ng matinding paniniil, naglilingkod sa isang pinunong nag-aangkin ng pagka-diyos.",
+    "Itinago ko ang aking tunay na paniniwala sa loob ng maraming taon, dahil sa takot sa mga kahihinatnan ng pagbubunyag ng mga ito.",
+    "Nang dumating ang isang sugo na may dalang malinaw na mga tanda, ako ay naniwala, ngunit ang aking mga tao ay nagsabwatan laban sa kanya.",
+    "Tumayo ako sa harap ng mapang-api at ng kanyang konseho, na nangangatwiran na hindi nila dapat patayin ang isang inosenteng mensahero.",
+    "Binalaan ko sila tungkol sa parusa ng mga nakaraang bansa na tumanggi sa katotohanan, tulad ng mga tao nina Noah at 'Ad.",
+    "Iniligtas ako ng Allah mula sa kanilang masasamang balak, at nasaksihan ko ang pagkawasak ng mapang-aping rehimen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang Mananampalataya sa Pamilya ni Paraon",
+        "Ang Salamangkero ng Paraon",
+        "Ang Vizier ng Paraon",
+        "Ang Asawa ni Paraon",
+        "Ang Ingat-yaman ng Paraon"
+      ],
+      "answer": "Ang Mananampalataya sa Pamilya ni Paraon"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Pagtatanggol sa isang propeta laban sa pagbitay",
+        "Paghamon sa mga panlilinlang ng isang salamangkero",
+        "Paggawa ng tore para maabot ang langit",
+        "Paghahati ng dagat para sa pagtakas",
+        "Pagbibigay-kahulugan sa panaginip ng isang hari"
+      ],
+      "answer": "Pagtatanggol sa isang propeta laban sa pagbitay"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang korte ng Paraon",
+        "Ang nasusunog na palumpong",
+        "Ang ginintuang guya",
+        "Ang balon ng Madyan",
+        "Ang kaban ni Propeta Noah"
+      ],
+      "answer": "Ang korte ng Paraon"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Iniligtas mula sa kapahamakan habang ang mga mapang-api ay nalipol",
+        "Naging isang makapangyarihang pinuno",
+        "Itinapon sa apoy at lumabas na hindi nasaktan",
+        "Nilamon ng lupa",
+        "Nagpagala-gala sa ilang sa loob ng apatnapung taon"
+      ],
+      "answer": "Iniligtas mula sa kapahamakan habang ang mga mapang-api ay nalipol"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

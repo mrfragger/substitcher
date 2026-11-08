@@ -1,0 +1,61 @@
+{
+  "title": "Preklete roke",
+  "intro": "Stojiš v vijugastih ulicah starodavne Meke, kjer se je nekoč vplivna in bogata duša obrnila proti klicu resnice. Zgodba te osebe je oster opomin, da krvne vezi ne morejo premagati verig ponosa. Kdo je ta, čigar ime odmeva z ognjem, ki čaka?",
+  "clues": [
+    "Po ulicah Meke sem hodil s ponosom, ki me je zaslepil za resnico, čeprav je bil glasnik moje lastne krvi.",
+    "Moje imetje je bilo ogromno, a je postalo prej prekletstvo kot ščit.",
+    "Knjiga navodil govori o mojem propadu in oznanja, da bodo moje roke in moje telo propadle.",
+    "Moj zakonec se je pridružil mojemu sovražnemu pohodu in nabiral trnje, da bi ga razprostrl po poti tistega, ki je klical k Alahu.",
+    "Na sodni dan bom pahnjen v plameneč ogenj, moj zakonec pa bo imel okoli vratu vrv iz palmovih vlaken.",
+    "Znan sem po imenu, ki pomeni 'oče plamena' – ime, ki napoveduje moje večno prebivališče."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Abu Lahab",
+        "Abu Džahl",
+        "Abu Talib",
+        "Abu Sufjan",
+        "Al-Valid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Ključni preizkus ali dogodek",
+      "options": [
+        "Nasprotoval je preroku in bil preklet v Koranu",
+        "Vodil je vojsko, da bi uničila Kaabo",
+        "Poskušal ubiti preroka z metanjem kamenja",
+        "Ni verjel v razcep lune",
+        "Zgradil je stolp, da bi dosegel nebesa"
+      ],
+      "answer": "Nasprotoval je preroku in bil preklet v Koranu"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Plameneči ogenj pekla",
+        "Musajevo osebje",
+        "Nuhova skrinja",
+        "Vodnjak Zamzam",
+        "Zlato tele"
+      ],
+      "answer": "Plameneči ogenj pekla"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Vstopil bo v plameneči ogenj in njegovo bogastvo mu ne bo koristilo.",
+        "Pokesal se je in postal veren",
+        "Odpuščeno mu je bilo po preklicu",
+        "Umrl je kot mučenik",
+        "Vzdignjen je bil v nebesa"
+      ],
+      "answer": "Vstopil bo v plameneči ogenj in njegovo bogastvo mu ne bo koristilo."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'ombra derè del tron",
+  "intro": "Te ste denter di cort de un potent vècc regn, indué un pudent suvran s’è proclamad cuma un dé sü tüt el popul. Insema a chestu suvran g’he un servitur devot, fidà di püsee grand ambiziun del regn. Insema, traman e pianifican, refudant de tegnir cunt di avvertiment de un messagger mandà per guidar-i. Pœdet descüvrir chi l’era chestu servitur leal?",
+  "clues": [
+    "Vivi in ​​ün regn putent guvernad da una figura pudend che la rivendicava la divinità sü tüt el popul.",
+    "Ho servì come ministro de fiducia de quest suvran, e mi faseva tutt i luur ambiziün e cumand.",
+    "Quand un messagger de Allah l’è rivà in de la noster terra ciamand a la verità, el me suvran e mi g’hem refudà de ascultar.",
+    "G’ho ricevü el cumand de pizzar un grand fööch e de preparà di matun de argila per una grand costruziun.",
+    "El me suvran vureeva tirà sü una strütüra inscì volta che la rivava al ciel stess.",
+    "A la fin, el me suvran, i noster esercit e mi sem stà scovà via e affogà in del mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Aman",
+        "Zul-Kifl",
+        "Jibrel",
+        "Micail",
+        "Harut"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Costruir una torr per rivà in del ciel",
+        "Vesser butad ind un fœg ardent",
+        "Desveglià un popul dal cult di idol de pedra",
+        "Spartir la lüna cuma segn divin",
+        "Conquistar una cità putent per comand divin"
+      ],
+      "answer": "Costruir una torr per rivà in del ciel"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una torr de madun de argila cotta",
+        "Panza de una balena",
+        "Una surgent sacra in del desert",
+        "Un busc ardent sü una muntagna santa",
+        "Un'arca che purtava una famiglia scelta"
+      ],
+      "answer": "Una torr de madun de argila cotta"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Affogato in profondità del mar",
+        "Alzà a la sicureza en un magnifich palazz",
+        "Salvà dal panza de un grand pess",
+        "Unorad con regn e savieza divina",
+        "Trasfurmà en polvar da un grid traforant"
+      ],
+      "answer": "Affogato in profondità del mar"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Lentswe la Tumelo e e Fitlhegileng",
+  "intro": "Mo gare ga kgotlatshekelo ya bogateledi, koo go sa dumele e neng e le molao wa naga, moya o o nosi o ne o tsamaya mo thapong e e gagametseng ya tumelo le poifo. Motho yono, yo o neng a le gaufi le bogare jwa maatla, o ne a reetsa fa molaetsa wa moporofeti o ne o amogelwa ka lenyatso le matshosetsi. Motsotso wa boammaaruri o ne wa goroga, wa pateletsa motho yono go tlhopha fa gare ga pabalesego e e didimetseng le go bua boammaaruri jo bo kotsi. A o ka ribolola gore mmueledi yono yo o pelokgale ke mang?",
+  "clues": [
+    "Ke ne ke nna mo teng ga lelapa la mmusaesi mongwe, ke iponela ka matlho boikgogomoso jo bo neng bo gana ditshupo tsa bomodimo.",
+    "Ke ne ka boloka tumelo ya me e le sephiri, e le letlotlo le le fitlhegileng mo ntlong ya segosi ya kobamelo ya medingwana.",
+    "Ke utlwile moeteledipele yo ke neng ke mo direla a loga leano la go bolaya morongwa wa ga Allah, monna yo o bidiwang Musa.",
+    "Ke ne ka belaela tlhaloganyo ya bone, ke ba gakolola ka phelelo ya batho ba Nuh, ‘Ad le Thamud.",
+    "Ke ne ka botsa batho ba gaetsho potso e e botlhokwa thata: ‘Fa e le moaki, maaka a gagwe a mo go ene; mme fa a bua boammaaruri, dingwe tsa dilo tse a di solofetsang di tla go itaya.’",
+    "Kgang ya me e anelwa jaaka sekai sa tumelo mo surah e e bidiwang ‘Moitshwaredi,’ mo ke neng ka tlhagisa batho ba me kgatlhanong le maano a batho ba ba maatla."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Modumedi go tswa mo Lelapeng la ga Fir'awn",
+        "Hamane",
+        "Maselamotse a Fir'awn",
+        "Qarun",
+        "Basamari"
+      ],
+      "answer": "Modumedi go tswa mo Lelapeng la ga Fir'awn"
+    },
+    "trial": {
+      "label": "Teko ya me e ne e le eng?",
+      "options": [
+        "Go sireletsa Moporofeti Musa kwa kgotlatshekelong ya mogateledi",
+        "Go aga tora e e kwa godimo go fitlha kwa magodimong",
+        "Go latlhelwa mo molelong o o tukang",
+        "Go mediwa ke tlhapi e kgolo",
+        "Go latlhegelwa ke dikhumo tsotlhe le boitekanelo"
+      ],
+      "answer": "Go sireletsa Moporofeti Musa kwa kgotlatshekelong ya mogateledi"
+    },
+    "location": {
+      "label": "Setlhogo sa Ngangisano ya Me e ne e le eng?",
+      "options": [
+        "Ditlamorago tsa go gana molaetsa wa moporofeti",
+        "Go batliwa ga letshwao go tswa mo setlhareng se se boitshepo",
+        "Go tlhamiwa ga namane go tswa mo dibenyaneng tse di thetsweng",
+        "Kgakgamatso ya kamela go tswa mo lefikeng",
+        "Tlhaloso ya ditoro tsa mmusi"
+      ],
+      "answer": "Ditlamorago tsa go gana molaetsa wa moporofeti"
+    },
+    "outcome": {
+      "label": "Phelelo e ne ya nna eng?",
+      "options": [
+        "Allah o pholositse motho yono mo leanong la bone le le bosula",
+        "Kgotlatshekelo yotlhe e ne ya amogela Boiselamo ka bonako",
+        "Mogateledi o ne a ikwatlhaya ka nako ya fa a nwela",
+        "Mogateledi o ne a mediwa ke lefatshe",
+        "Motho yono o ne a isiwa botshwarwa kwa nageng e e kgakala"
+      ],
+      "answer": "Allah o pholositse motho yono mo leanong la bone le le bosula"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

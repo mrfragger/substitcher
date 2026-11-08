@@ -1,0 +1,61 @@
+{
+  "title": "Pettuse kaja",
+  "intro": "Sugulusside pani proovile kadedusepuhang. Sepitseti salaplaan, mis pani aluse sündmusteahelale, mis hõlmas aastaid ja läbis tohutuid vahemaid. Selle grupi teod viisid sügava lahkumineku ja kurbuseni, kuid lugu sellega ei lõppenud. See on lugu pettusest, kahetsusest ja jumaliku plaani lõplikust avaldumisest. Kas suudad lahti harutada nende inimeste identiteedi, kelle valikud kajasid läbi põlvkondade?",
+  "clues": [
+    "Meid haaras armukadedus ühele oma seast üles näidatud kiindumuse pärast.",
+    "Kadeduses sepitsesime vandenõu ja viskasime oma õe-venna kaevu pimedusse.",
+    "Oma teo varjamiseks kinkisime isale võltsverega määritud rõiva.",
+    "Aastaid hiljem sundis ränk näljahäda meid reisima Egiptusesse toiduvarusid otsima.",
+    "Seal astusime võimsa kuberneri ette, kes oli meile tundmatu seesama õde-vend, kellele olime ülekohut teinud.",
+    "Meie viimane katsumus oli tuua kaasa oma noorim vend Binyamin, mis viis meie mineviku paljastamiseni ja selleni, et meie isa oli prohvet Ya'qub."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Aadama pojad (Qabil ja Habil)",
+        "Prohvet Isa jüngrid",
+        "Prohvet Yusufi vennad",
+        "Madjani rahvas",
+        "Fir'awni võlurid"
+      ],
+      "answer": "Prohvet Yusufi vennad"
+    },
+    "trial": {
+      "label": "Mis oli meie peamine süütegu?",
+      "options": [
+        "Kuldvasika ehitamine jumalateenistuseks",
+        "Nõudmine näha Allahi otse",
+        "Prohveti pilkamine laeva ehitamise pärast",
+        "Isa petmine ja venna hülgamine",
+        "Sabati rikkumine kalapüügiga"
+      ],
+      "answer": "Isa petmine ja venna hülgamine"
+    },
+    "location": {
+      "label": "Mis objekt oli meie pettuse keskmes?",
+      "options": [
+        "Komplekt graveeritud tahvleid",
+        "Valeverega määrdunud särk",
+        "Kuldne vasikas",
+        "Ilus lind (kägulind)",
+        "Personali, mis muutus maoks"
+      ],
+      "answer": "Valeverega määrdunud särk"
+    },
+    "outcome": {
+      "label": "Mis oli meie loo lõpptulemus?",
+      "options": [
+        "Meid hävitas võimas üleujutus",
+        "Meid muudeti ahvideks",
+        "Maa neelas meid alla",
+        "Meile andestati ja me taasühinenud oma perega",
+        "Me uppusime merre"
+      ],
+      "answer": "Meile andestati ja me taasühinenud oma perega"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

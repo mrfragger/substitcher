@@ -1,0 +1,61 @@
+{
+  "title": "Die Bewohner der zwei Gärten",
+  "intro": "In einem Land, in dem Segen im Überfluss vorhanden war, erfreute sich einst eine Gemeinschaft an der Fülle zweier prächtiger Gärten. Ihr Leben zeugte von göttlicher Gunst, doch ihre Geschichte nahm eine Wendung, als die Dankbarkeit nachließ. Dies führte zu einer Wandlung, die für alle, die darüber nachdenken, zu einem bleibenden Zeichen werden sollte.",
+  "clues": [
+    "Wir waren ein Volk, das mit einem Land des Wohlstands und der Fülle gesegnet war.",
+    "Unser Herr schenkte uns zwei prächtige Gärten, üppig und fruchtbar auf allen Seiten.",
+    "Uns wurde geboten, dankbar zu sein, aber wir entschieden uns für Undankbarkeit und wandten uns ab.",
+    "Ein gewaltiger Staudamm hielt die Wasser zurück, die unserem Land Leben schenkten.",
+    "Als wir unser Fehlverhalten fortsetzten, brach der Damm und die Fluten strömten herein.",
+    "Unsere einst üppigen Gärten wurden durch Bitterobst, Tamarisken und einige wenige Lote-Bäume ersetzt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Die Menschen von Saba",
+        "Das Volk von Thamud",
+        "Das Volk von Madyan",
+        "Die Gefährten der Höhle",
+        "Das Volk des Elefanten"
+      ],
+      "answer": "Die Menschen von Saba"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Sieben Nächte lang ein heftiger Wind.",
+        "Ein Steinhagel vom Himmel",
+        "Eine verheerende Flut nach einem Dammbruch",
+        "Ein lauter Schrei vom Himmel",
+        "Ertrinken im Meer"
+      ],
+      "answer": "Eine verheerende Flut nach einem Dammbruch"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Der große Damm von Ma'rib",
+        "Das Tal von Wadi al-Qura",
+        "Der Garten von Iram",
+        "Der Zamzam-Brunnen",
+        "Der Berg Sinai"
+      ],
+      "answer": "Der große Damm von Ma'rib"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Unsere Gärten wurden durch bittere Früchte und spärliche Bäume ersetzt.",
+        "Wir wurden von der Erde in einem Erdbeben verschluckt",
+        "Wir wurden in Affen und Schweine verwandelt.",
+        "Wir ertranken in einer großen Flut.",
+        "Wir wurden von einem Steinhagel vernichtet"
+      ],
+      "answer": "Unsere Gärten wurden durch bittere Früchte und spärliche Bäume ersetzt."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

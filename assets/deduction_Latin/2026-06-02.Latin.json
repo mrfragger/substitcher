@@ -1,0 +1,61 @@
+{
+  "title": "Custos Portae Solis Oriens",
+  "intro": "Per Coranum, animae quaedam terram peragrant, vestigia sapientiae et miraculi relinquentes. Una talis persona ad ultima creationis loca iter fecit — ubi sol oritur et occidit, ubi obstaculum ipsum chaos reprimit. Huic servo Dei regnum concessum est quod nemo umquam iterum possidebit. Per tria itinera distincta, propositum huius hominis clarum factum est. Potesne hunc vagabundum legendarium ex umbris historiae agnoscere?",
+  "clues": [
+    "A Misericordissimo mihi concessa est auctoritas ut terram regerem modo quem nemo alius umquam consecutus est.",
+    "Ad occidentem iter feci donec ad locum ubi sol occidit perveni, eum in fonte caliginoso occidentem inveniens, et populum ibi conspexi.",
+    "Ad orientem iter feci, donec ad locum ubi sol oritur perveni, inveniens eum orientem super populum cui nullum ab eo refugium praebueramus.",
+    "Inter illa duo extrema loca iter feci, donec ad vallem inter duos montes perveni, ubi populum inveni qui vix sermonem intellegere poterat.",
+    "In monte duas ferreas clavas, dextra sinistraque extensas, inveni, et inter eas angustum transitum. Hi homines me rogaverunt ut per clavas, chaos coercentes, erumperem.",
+    "Cum commeatum meum accepi et dixi: \"Cum haec septa perrumpet, haec erit manifesta separatio inter nos et hunc populum.\" Et cum tempus constitutum advenisset, observavi dum septa tandem perrumpitur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Dhu al-Qarnayn",
+        "Propheta Sulayman",
+        "Propheta Ibrahim",
+        "Rex Ghassaniyae",
+        "Dhul-Qarnain Vagans"
+      ],
+      "answer": "Dhu al-Qarnayn"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Perrumpens ferreum claustrum pro incolis Yajuj et Majuj",
+        "Navis aedificanda sub imperio prophetae",
+        "Aedificatio templi Hierosolymis",
+        "Transitus Maris Rubri cum populo credente",
+        "Aggerem construere ad gentem iustam protegendam"
+      ],
+      "answer": "Perrumpens ferreum claustrum pro incolis Yajuj et Majuj"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Ferrea valla inter duos montes",
+        "Navis in monte ancorata est",
+        "Sacra domus cultus Hierosolymis",
+        "Flumen in terra Aegypti",
+        "Fons benedictionum in Madyan"
+      ],
+      "answer": "Ferrea valla inter duos montes"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Tempus constitutum advenit, saepta ruperunt, et chaos effuderunt.",
+        "Increduli submersi sunt, fideles autem servati sunt.",
+        "Iusti ad paradisum aeternum ducti sunt",
+        "Urbs vento stridente vastata est",
+        "Idola fracta sunt et populus paenitentiam egit"
+      ],
+      "answer": "Tempus constitutum advenit, saepta ruperunt, et chaos effuderunt."
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

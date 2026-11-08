@@ -1,0 +1,60 @@
+{
+  "title": "Say Subok ed Silong na Daluyon",
+  "intro": "Sakey a propeta, a nabebelatan ed misyon to, so nanggawa na desisyon ya angitonton ed sikaton arawi ed totoo to tan diad ag-iilaloan a subok. Say biahe to so walaan na dramatikon pananguman, ya anubok ed pananisia tan anos to diad sankarakpan a paraan. Sarag mo kasin naamtaan iray detalye na sayan nikadkaduman ebento manlapud saray niiter a pakapatnagan?",
+  "clues": [
+    "Walay sakey a propeta ya imbaki ed sakey a totoo, balet ta sikatoy tinmaynan a tampol, lapud sikatoy adismaya ed impangipulisay ed sikara.",
+    "Say biahe to so angitonton ed sikato ed dayat, a diman et linmugan ed sakey a barkon ambelat so karga to pian manaanap na dalanan.",
+    "Sinmabi so maksil a bagyo, a mamepeligro ed barko, tan nandesisyon a mangipelag na sakey a too pian onlemewan so awit, a nadetermina ed panamegley na pampapalaranan.",
+    "Sikatoy inakmon na sakey a pinalsa ed kaaralman, sakey a mamilagron ebento ya ingganggan na Madibinon linawa.",
+    "Diad loob na eges na pinalsa, sikatoy tinmawag ed Katawan to, a nagbabawi tan inggloria toy Allah diad kabilungetan.",
+    "Kayari na sakey a panaon na masimoon a pikakasi, sikatoy imbantak ed sakey ya ag-ontutubo a gilig na dayat, makapuy balet ta mabilay, tan diad saginonor et pinmawil tan aromog ton anisia la ray totoo to."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Propeta/Too",
+      "options": [
+        "Propeta Nuh",
+        "Propeta Lut",
+        "Propeta Musa",
+        "Propeta Yunus",
+        "Propeta Yusuf"
+      ],
+      "answer": "Propeta Yunus"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Say delap na Nuh",
+        "Say inkaderal na Sodoma",
+        "Say biahe ed eges na baleg a sira",
+        "Say inkaapag na dayat",
+        "Say manpopoolan a kiew a panangiparungtal"
+      ],
+      "answer": "Say biahe ed eges na baleg a sira"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Say Kaban",
+        "Palandey Sinai",
+        "Say Staff nen Musa",
+        "Say Baleg a Sira",
+        "Say Bobon nen Yusuf"
+      ],
+      "answer": "Say Baleg a Sira"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Sakey a balon sipanan ed katooan",
+        "Sakey a mamilagron inkianak parad totoo to",
+        "Sakey a panarian ya inletneg parad poli to",
+        "Say ipawil tod saray totoo to ya anisia nen saman",
+        "Sakey a pananalo ed sakey a mapangtan manuley"
+      ],
+      "answer": "Say ipawil tod saray totoo to ya anisia nen saman"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

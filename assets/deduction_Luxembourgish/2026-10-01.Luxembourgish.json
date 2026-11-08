@@ -1,0 +1,61 @@
+{
+  "title": "An d'Wiesen geschwat",
+  "intro": "Eng Figur kënnt aus der helleger Geschicht eraus, déi Wonner mat sech bréngt, déi der natierlecher Uerdnung widdersprach hunn. Dës Séil kënnt duerch een eenzege göttleche Kommando, huet en Elterendeel viru schwéiere Virwërf verdeedegt a verlooss dës Welt, ier ierdesch Ketten se konnten bannen. D'Geschicht geet vun enger bescheidener Wieg bis zum Himmel uewen. Wien kéint dat sinn?",
+  "clues": [
+    "Ech gouf als Zeeche a Barmhäerzegkeet vun Allah un d'Kanner vun Israel geschéckt.",
+    "Meng Arrivée war anescht wéi all virdrun - ech sinn duerch dat göttlecht Wuert 'Sinn!' ouni ierdesche Papp entstanen.",
+    "Meng Elteren hunn mat grausamer Verleumdung konfrontéiert ginn, awer helleg Offenbarunge koumen erof, fir hir Onschold ze erklären an hire Status ze erhéijen.",
+    "Als neigebuerene Puppelchen hunn ech déi ronderëm mech erstaunt, andeems ech vu menger Wieg aus kloer geschwat hunn, fir den Numm vu menge Elteren ze reinigen.",
+    "Mat der Erlaabnes vun Allah hunn ech Liewen aus liewlosem Lehm geformt, de Blannen d'Siicht ginn an de Leprakranken mat menger Beréierung geheelt.",
+    "Ech gouf an den Himmel opgehuewen, ier mech eppes Schlechtes beréiere konnt, an ech kommen op dës Welt zréck, ier déi lescht Stonn kënnt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Prophet Isa",
+        "Prophet Musa",
+        "Prophet Ibrahim",
+        "Prophet Yusuf",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Isa"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Schwätzen vun der Wieg aus als Puppelchen",
+        "Iwwerliewen am Bauch vun engem grousse Fësch",
+        "An e brennend Feier gehäit ginn",
+        "Eng grouss Ark virun enger Iwwerschwemmung bauen",
+        "Konfrontatioun mat der Zaubererei vum Haff vum Pharao"
+      ],
+      "answer": "Schwätzen vun der Wieg aus als Puppelchen"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Den Injeel (Evangelium)",
+        "D'Tawrah (Tora)",
+        "Den Zabur (Psalmen)",
+        "The Suhuf (Scrolls of Ibrahim)",
+        "E Staf, deen d'Mier gespléckt huet"
+      ],
+      "answer": "Den Injeel (Evangelium)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "An den Himmel erhuewen, wäert virum Uerteelsdag zréckkommen",
+        "D'Kanner vun Israel aus Ägypten erausgefouert",
+        "Gëtt e Kinnek mat Herrschaft iwwer Djinn, Mënschen a Vigel",
+        "Iwwerlieft eng massiv Iwwerschwemmung mat de Gleewegen",
+        "Dat hellegt Haus zu Mekka gebaut"
+      ],
+      "answer": "An den Himmel erhuewen, wäert virum Uerteelsdag zréckkommen"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

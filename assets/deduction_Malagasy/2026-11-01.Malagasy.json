@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Feo Nandà ny Famoizam-po",
+  "intro": "Midira ao amin'ny tokantrano iray izay misy fatiantoka manaraka ny fatiantoka, nefa misy feo tony iray mandà ny fahakiviana. Antso iray monja ao amin'ny CORAN no mamadika ny faharetana ho teboka fiovana; azonao arahina ve ny fanoroana ny olona ao ambadiky izany feo izany?",
+  "clues": [
+    "Izaho no feon'ny faharetana tao anatin'ny tokantrano iray izay nisedrana ny fitahiana tamin'ny loza.",
+    "Nijanona tao amin'ny tokantrano foana aho noho ny fahaverezan'ny harena sy ny zanaka.",
+    "Fantatro fa namely an'io namana io koa ny aretina, izay narary ny vatany.",
+    "Rehefa nihamafy ny fahoriana dia niantsoantso aho sady nampahatsiahy an'i Allah.",
+    "Nanao fanambarana iray aho: Allah no Fahamarinana, koa manàna faharetana.",
+    "Niantso an'i Ayyub tamin'ny anarany aho; taorian'izay, dia nesorin'Andriamanitra ny fahoriana ary naveriny tamin'ny laoniny ny fianakaviana."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Ny vadin'ny Mpaminany Ayyub",
+        "Ny vadin'ny Mpaminany Noa",
+        "Ny vadin'ny Mpaminany Ibrahim",
+        "Ny vadin'ny Mpaminany Jakoba",
+        "Ny Zanakavavin'i Farao"
+      ],
+      "answer": "Ny vadin'ny Mpaminany Ayyub"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Mijanona miaraka amin'i Ayyub amin'ny fahaverezana sy ny aretina, avy eo miantso faharetana",
+        "Fampitandremana ny iraka marina iray mba handao ny vondrom-piarahamonina simba",
+        "Mivavaka ho an'ny fahaterahan'ny taranaka ho avy",
+        "Fandikana nofy ao anatin'ny fonjan'ny mpanjaka",
+        "Nahita zaza natokisana teo amoron'ny renirano"
+      ],
+      "answer": "Mijanona miaraka amin'i Ayyub amin'ny fahaverezana sy ny aretina, avy eo miantso faharetana"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny fanambarana fa i Allah no Fahamarinana ary ilaina ny faharetana",
+        "Hazo palmie eo akaikin'ny loharano",
+        "Antso hanamboatra sambo lavitry ny onja",
+        "Nofy kintana iraika ambin'ny folo sy masoandro miposaka",
+        "Harona nentina nanaraka ny Reniranon'i Neily"
+      ],
+      "answer": "Ny fanambarana fa i Allah no Fahamarinana ary ilaina ny faharetana"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nesorina ny fahorian'i Ayyub ary tafaverina tamin'ny laoniny ny fianakaviany",
+        "Nomena zaza iray nandrasana hatry ny ela taorian'ny vavaka tsy nahavokatra",
+        "Nandika ny fito taona feno harena sy tsy fahampiana ny mpitondra tanora iray",
+        "Ankizy iray natokisana no voavonjy avy tao anaty rano mikoriana",
+        "Nisy fampitandremana talohan'ny tondra-drano nandravarava"
+      ],
+      "answer": "Nesorina ny fahorian'i Ayyub ary tafaverina tamin'ny laoniny ny fianakaviany"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ny Vahoaka Maro Nanjavona",
+  "intro": "Mijoro eo anoloan'ny akon'ny vondrom-piarahamonina iray izay voasoratra ao anatin'ny onja ny tantarany ianao. Ireo fanahy ireo dia nandre antso, nifidy ny hanohitra, ary niatrika vokany izay nanova ny tany. Iza moa izy ireo, ary inona no nitranga tamin'izao tontolo izaony?",
+  "clues": [
+    "Efa ela be no niainantsika, ary nisy iraka tonga avy tamintsika.",
+    "Nivavaka tamin'ny sampy dimy izahay ary tsy nety nandao azy ireo.",
+    "Naneso ilay iraka izahay ary niampanga azy ho nania.",
+    "Nangataka azy izahay mba hanasaziana azy raha nilaza ny marina izy.",
+    "Nahita ny lanitra nandatsaka orana ary ny tany namoaka loharano izahay.",
+    "Niakatra tany amin'ny toerana avo izahay mba handosirana, kanjo tratran'ny onja izahay."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa isika?",
+      "options": [
+        "Vahoakan'i Noa",
+        "Vahoakan'i 'Ad",
+        "Vahoakan'ny Thamoud",
+        "Vahoakan'i Lota",
+        "Vahoakan'i Madyana"
+      ],
+      "answer": "Vahoakan'i Noa"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Safotry ny rano be izahay",
+        "Ravan'ny rivo-doza izahay",
+        "Maty tamin'ny fipoahana mafy izahay",
+        "Natelin'ny tany izahay",
+        "Notoraham-bato avy any an-danitra izahay"
+      ],
+      "answer": "Safotry ny rano be izahay"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Tondra-drano lehibe",
+        "Rivotra mahery vaika",
+        "Oram-bato mirotsaka",
+        "Fipoahana mirehitra",
+        "Horohoron-tany"
+      ],
+      "answer": "Tondra-drano lehibe"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Maty avokoa isika rehetra afa-tsy ireo mpino niaraka tamin'i Noa",
+        "Niova ho rajako izahay",
+        "Navela ho rava ho an'ny mpandeha izahay",
+        "Novaina ho sira izahay",
+        "Nomena fialan-tsasatra izahay"
+      ],
+      "answer": "Maty avokoa isika rehetra afa-tsy ireo mpino niaraka tamin'i Noa"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

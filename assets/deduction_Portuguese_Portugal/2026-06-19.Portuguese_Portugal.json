@@ -1,0 +1,61 @@
+{
+  "title": "A Prova da Alma Persistente",
+  "intro": "Uma alma se encontra em um momento de provação divina, buscando orientação com humilde persistência. Aquele que tudo sabe rejeita esse buscador, apenas para revelar mais tarde que se tratava de uma provação do coração. Através dessa troca misteriosa, uma lição sobre a sabedoria divina se desdobra diante daqueles que refletem. Você consegue identificar essa figura na narrativa do Alcorão?",
+  "clues": [
+    "Busquei conhecimento e orientação do amado mensageiro de Allah.",
+    "Vim em busca da verdade, invocando o Profeta com sincero desejo.",
+    "Fui repreendido e afastado, pois a sabedoria de Alá tinha outros planos para aquele momento.",
+    "Contudo, não me desesperei; em vez disso, prossegui na minha busca.",
+    "Aquele que tudo sabe declarou que isto era uma provação do coração e uma advertência.",
+    "Eu estava entre aqueles sobre os quais o Alcorão revela: 'Ele franziu a testa e se afastou, porque o cego veio até ele'."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O hipócrita que busca a dúvida",
+        "O Buscador Cego da Verdade",
+        "O adorador de ídolos de Meca",
+        "O incrédulo zombando do profeta",
+        "O Viajante do Iêmen"
+      ],
+      "answer": "O Buscador Cego da Verdade"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Ser repreendido pelo Profeta Muhammad durante a oração.",
+        "Sendo testado pela seca e pela fome em Meca",
+        "Ser rejeitado nos portões do paraíso",
+        "Ser rejeitado pelo próprio povo por causa da fé.",
+        "Sendo testado com riqueza e filhos"
+      ],
+      "answer": "Ser repreendido pelo Profeta Muhammad durante a oração."
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Dentro da Caaba durante a temporada de peregrinação",
+        "Na presença do Profeta durante a recitação",
+        "No topo do Monte Safa durante as horas da manhã",
+        "Na praça do mercado de Meca, cercado por descrentes.",
+        "Perto do poço de Zamzam durante o Hajj"
+      ],
+      "answer": "Na presença do Profeta durante a recitação"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O buscador foi martirizado pelos coraixitas por causa de sua fé.",
+        "O incidente foi registrado como um julgamento e uma lição para a Ummah.",
+        "O buscador tornou-se um companheiro e líder.",
+        "A riqueza do buscador foi multiplicada por dez.",
+        "O buscador retornou à descrença."
+      ],
+      "answer": "O incidente foi registrado como um julgamento e uma lição para a Ummah."
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

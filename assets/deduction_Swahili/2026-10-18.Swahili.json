@@ -1,0 +1,61 @@
+{
+  "title": "Habari Njema Katika Uzee",
+  "intro": "Unashuhudia wakati ambapo tumaini linafufuliwa. Wanandoa, waliopita umri wa uzazi kwa muda mrefu, wanapokea ahadi inayopinga sheria za asili. Kati yao anasimama mtu ambaye uwepo wake ni ishara ya rehema ya Mungu—roho iliyokusudiwa unabii, yenye urithi utakaodumu vizazi vingi. Mtu huyu wa ajabu ni nani?",
+  "clues": [
+    "Nilizaliwa na wazazi ambao walikuwa wamefikia umri wa uzee na hawakuwa na watoto.",
+    "Kuzaliwa kwangu kulitangazwa na malaika waliokuja kama wageni kwa familia yangu.",
+    "Nilipewa hekima na unabii, na nimetajwa miongoni mwa wenye subira.",
+    "Baba yangu aliitwa rafiki wa Mwenyezi Mungu, na mimi nilikuwa zawadi kwake katika miaka yake ya baadaye.",
+    "Nilikuwa na kaka ambaye pia alikuwa nabii, na sote tulibarikiwa na Bwana wetu.",
+    "Mwanangu pia alikuwa nabii, na wazao wangu walipewa kitabu na unabii."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Nabii Ishaq (Isaka)",
+        "Nabii Ismail (Ishmaeli)",
+        "Nabii Yaqub (Yakobo)",
+        "Nabii Yahya (Yohana)",
+        "Nabii Uzair (Ezra)"
+      ],
+      "answer": "Nabii Ishaq (Isaka)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Alizaliwa kwa wazazi wazee",
+        "Kutupwa motoni",
+        "Umepewa ufalme na utajiri",
+        "Aliwaongoza watu wake kutoka Misri",
+        "Alijenga safina ili kuwaokoa waumini"
+      ],
+      "answer": "Alizaliwa kwa wazazi wazee"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Habari njema ya mwana",
+        "Kichaka kinachowaka moto",
+        "Ndama wa dhahabu",
+        "Sanduku la agano",
+        "Fimbo ya unabii"
+      ],
+      "answer": "Habari njema ya mwana"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Akawa nabii mwenye ukoo wa manabii",
+        "Akawa mfalme tajiri",
+        "Watu wake waliangamizwa kwa sababu ya kutoamini",
+        "Aliokolewa kutoka kwenye moto",
+        "Alipewa uwezo wa kuzungumza akiwa mtoto mchanga"
+      ],
+      "answer": "Akawa nabii mwenye ukoo wa manabii"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

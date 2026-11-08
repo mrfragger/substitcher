@@ -1,0 +1,61 @@
+{
+  "title": "Ngā Kaihoahoa Kōhatu",
+  "intro": "Whakaarohia tētahi iwi kaha, he iwi i whakawhiwhia ki te kaha me te pūkenga, e whakairo ana i ngā whare nunui ki ngā taha maunga. He nui te whai rawa o tēnei rōpū, ā, he pūkenga hanga ahurei hoki. Heoi, ahakoa ngā whakatūpato mārama i tae mai, i whiriwhiria e rātou tētahi ara e arahi atu ai ki tētahi mutunga whakamiharo, e kore e warewaretia. Ka taea e koe te tautuhi i tēnei rōpū, ko tāna kōrero he akoranga hohonu mō te hunga katoa e whakaaroaro ana?",
+  "clues": [
+    "I homai he kaha me he pūkenga ki a mātou, ā, i taea ai e mātou te whakairo i ngā whare whakahīhī ki roto tonu i ngā maunga.",
+    "I homai e Allah tētahi tohu mārama ki a mātou, he mea hanga ahurei i waiho kia kore e whakararuraruhia kia kai.",
+    "I whakakake tō mātou hapori, i wero i te karere atua i kawea mai e te karere i waenganui i a mātou.",
+    "I whakatakoto whakaaro mātou ki te whakakino i te tohu merekara, ahakoa ngā whakatūpato mō te whiu nui.",
+    "I whakakeke mātou ki te whakahau kia tukua te mea hanga motuhake kia inu i te puna i ngā rā e rua.",
+    "I tūtaki mātou ki te mutunga whakamataku, i patua mātou e te pahūtanga whakamataku kotahi i muri i tā mātou mahi hara."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā tāngata o 'Ad",
+        "Ngā tāngata o Miriana",
+        "Ngā tāngata o te arewhana",
+        "Te iwi o Thamud",
+        "Te iwi o Ruta"
+      ],
+      "answer": "Te iwi o Thamud"
+    },
+    "trial": {
+      "label": "Tā Mātou Whakamātautau/Takahanga Nui",
+      "options": [
+        "Te waipuke i horomia ai te whenua",
+        "Te wehenga o te moana",
+        "Ko te whakangaromanga i te pahūtanga kotahi/te hamama",
+        "Te tahunga o tētahi tāone",
+        "Te hurihanga o te maunga hei puehu"
+      ],
+      "answer": "Ko te whakangaromanga i te pahūtanga kotahi/te hamama"
+    },
+    "location": {
+      "label": "He Huānga Matua i roto i tā Mātou Kōrero",
+      "options": [
+        "He kuao kau koura",
+        "He kamera uha whakamiharo",
+        "He rakau e mura ana",
+        "He manu kōrero",
+        "He torona rangatira"
+      ],
+      "answer": "He kamera uha whakamiharo"
+    },
+    "outcome": {
+      "label": "Tō Mātou Huanga Whakamutunga",
+      "options": [
+        "I whakawhiwhia ki te taonga nui me te mana nui",
+        "Kua whakanuia ki te poropititanga",
+        "Te whakangaromanga rawa i te whiu a te Atua",
+        "Murua i muri i te ripeneta pono",
+        "I marara noa atu ki te whenua hei kopikopiko"
+      ],
+      "answer": "Te whakangaromanga rawa i te whiu a te Atua"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

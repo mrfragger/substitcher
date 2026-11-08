@@ -1,0 +1,61 @@
+{
+  "title": "Kärsivällisyys, joka kesti surun yli",
+  "intro": "Vanhin, jonka kärsivällisyydestä tuli legendaarinen, jonka näkökyky hiipui surun myötä, mutta jonka usko jumalalliseen suunnitelmaan ei koskaan horjunut. Tämä henkilö näki kahdentoista pojan kasvavan heimojen perustuksiksi, kärsi rakkaimman lapsen tuskallisen menetyksen ja hänestä tuli ajaton kauniin kärsivällisyyden symboli musertavan surun edessä. Kunnioitettu sielu, jonka tarina kerrotaan ilmestysten sivuilla. Voitko tunnistaa tämän hahmon Koraanista?",
+  "clues": [
+    "Olin profeetta, jonka tarina kerrotaan yksityiskohtaisesti Koraanin suuressa suurassa.",
+    "Minulla oli kaksitoista poikaa, joista tuli Israelin banilaisten heimojen isiä.",
+    "Käskin poikiani menemään sisään eri porteista, ettei heitä tunnistettaisi yhdeksi kansaksi.",
+    "Silmäni valkenivat lakkaamattomasta itkusta rakkaan lapseni johdosta, joka minulta vietiin.",
+    "Kieltäydyin vaipumasta epätoivoon, vaikka muut poikani kehottivat minua siihen sanoen, että valitan vain Allahille.",
+    "Olen profeetta Yusufin isä, jonka nimi tarkoittaa arabiaksi 'suurentajaa'."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Yaqub (Jaakob)",
+        "Profeetta Yusuf",
+        "Profeetta Ibrahim",
+        "Profeetta Musa",
+        "Profeetta Daavid"
+      ],
+      "answer": "Profeetta Yaqub (Jaakob)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Rakkaan pojan menetys kaivolle",
+        "Suuri tulva, joka hukutti kokonaisen kansan",
+        "Muutto tulenpalvovasta valtakunnasta",
+        "Yhteenotto mahtavan Egyptin tyrannin kanssa",
+        "Karkotus valaan vatsaan"
+      ],
+      "answer": "Rakkaan pojan menetys kaivolle"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Väärällä verellä tahrattu paita",
+        "Sauva, joka muuttui käärmeeksi",
+        "Vuorelle rakennettu arkki",
+        "Kalliosta veistetty naaraskameli",
+        "Kultainen vasikka"
+      ],
+      "answer": "Väärällä verellä tahrattu paita"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Näkö palautui, kun rakkaan pojan paita laitettiin kasvoille",
+        "Pelastus sen jälkeen, kun hänet heitettiin suuren kalan vatsaan",
+        "Khalilullah-arvonimen saaminen Allahilta",
+        "Meren ylitys orjuudesta vapautettujen ihmisten kanssa",
+        "Sateenkaari ilmestyy toivon merkkinä vedenpaisumuksen jälkeen"
+      ],
+      "answer": "Näkö palautui, kun rakkaan pojan paita laitettiin kasvoille"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

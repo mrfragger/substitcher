@@ -1,0 +1,61 @@
+{
+  "title": "Padîşahiya ku dawiya serwer nedîtî ma",
+  "intro": "Dîrokê her cûre serwer nas kiriye, lê hindik kes serweriya axek mîna vê kirine. Li cihê ku ba bi xwe fermana wan dida û karkerên ku tu çavekî mirovekî nedidît ku di bêdengiyê de dixebitin, ev serwerî ne wekî yên berî û piştî wê bû. Lê tewra padîşahiyên herî mezin jî divê bi dawî bibin - û dema ku ev yek bi dawî bû, rastî ji çavkaniyek ewqas dilnizm derket holê ku kesî guman nedikir.",
+  "clues": [
+    "Xudanê min padîşahiyek berfireh da min, ku li ser rûpelên pîroz behskirî ye.",
+    "Min şehrezayî û desthilatdariyeke mezin ji dêûbavekî ku bi fedakarî beriya min meşiya mîras girt.",
+    "Min ferman da bayê, û ew ji bo armancên min dûr çû.",
+    "Heyînên ku ji çavên asayî nayên dîtin, di bin desthilata min de xebitîn û ecêbên bêhempa ava kirin.",
+    "Kaniyên sifirê heliyayî ji bo min herikîn, nîmetek bêhempa di nav yên ku Xwedê hilbijartiye de.",
+    "Dema ku ez ji vê dinyayê çûm, laşê min li hember darekê sekinî ma. Tenê dema ku afirîdeke biçûk a erdê ew dar xwar, yên li dora min fêm kirin ku ez çûm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Suleyman (Silêman)",
+        "Pêxember Dawud (Dawid)",
+        "Pêxember Mûsa (Mûsa)",
+        "Pêxember Yûsif (Yûsif)",
+        "Pêxember Îsa (Îsa)"
+      ],
+      "answer": "Pêxember Suleyman (Silêman)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Mirin ji aliyê afirîdekî ve ku ji nav daran min dixwe hat eşkerekirin",
+        "Tofana mezin ku gelê min wêran kir",
+        "Tê avêtin nav agirê geş",
+        "Sirgûnî bi rêya deryaya perçebûyî",
+        "Qurbaniya kurê min ê herî delal"
+      ],
+      "answer": "Mirin ji aliyê afirîdekî ve ku ji nav daran min dixwe hat eşkerekirin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Kaniyên sifirê heliyayî",
+        "Sindoqa peymanê",
+        "Karmendek ku avê parçe kir",
+        "Dareke dişewite",
+        "Golika zêrîn"
+      ],
+      "answer": "Kaniyên sifirê heliyayî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Cin berdewam kir heta ku karmend hatin xwarin.",
+        "Gelê min li ser keştiyek mezin xilas bû",
+        "Zalimek di deryayê de xeniqî",
+        "Miletekî bi hêz ji aliyê bayekî tirsnak ve hate wêrankirin",
+        "Ez zindî ber bi ezmanan ve hatim rakirin"
+      ],
+      "answer": "Cin berdewam kir heta ku karmend hatin xwarin."
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

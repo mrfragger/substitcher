@@ -1,0 +1,61 @@
+{
+  "title": "A város, amely hitt az időben",
+  "intro": "Az isteni irgalom krónikáiban van egy közösség, amelynek fordulópontja a kollektív felismerés pillanata volt. Hamarosan feltárul a történetük – a figyelmeztetés, a bűnbánat és a feloldozás története, amely megkülönböztette őket más nemzetek sorsától.",
+  "clues": [
+    "Olyan nép voltunk, akikhez küldött egy hírvivő, és mi először elfordultunk a hívására.",
+    "Amikor a közelgő büntetés jelei világossá váltak, rájöttünk figyelmeztetésének igazságára.",
+    "Őszinte bűnbánattal fordultunk Urunkhoz, és hitünket elfogadta.",
+    "A ránk kiszabott büntetést hitünk miatt feloldották.",
+    "Történetünket kivételként emlegetik azon városok között, amelyek a büntetés láttán hittek.",
+    "Mi voltunk annak a prófétának a népe, akit elnyelt a bálna, mégis megmenekültünk a pusztulástól."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Yunus népe",
+        "Nuh népe",
+        "Hud népe",
+        "Salih népe",
+        "Lut népe"
+      ],
+      "answer": "Yunus népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Egy pusztító árvíz",
+        "Egy heves szélvihar",
+        "Egy elkerült, szégyennel járó büntetés",
+        "A föld elnyeli őket",
+        "Kőeső"
+      ],
+      "answer": "Egy elkerült, szégyennel járó büntetés"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A bárka",
+        "A nőstény teve",
+        "Egy százezer lakosú város",
+        "Múza személyzete",
+        "A Qarun kincse"
+      ],
+      "answer": "Egy százezer lakosú város"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Teljesen elpusztultak",
+        "Egy ideig élvezték őket",
+        "Majmokká változtak át",
+        "Megfulladtak",
+        "Elnyelte őket a föld"
+      ],
+      "answer": "Egy ideig élvezték őket"
+    }
+  },
+  "verseRef": "37:148",
+  "arabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍۢ",
+  "verse": "And they believed, so We gave them enjoyment [of life] for a time. (37:148)"
+}

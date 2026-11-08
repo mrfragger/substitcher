@@ -1,0 +1,61 @@
+{
+  "title": "Duše za idolem",
+  "intro": "Ve stínu velkého exodu z tyranie čekala v poušti tato záhadná postava. Zatímco vůdce vyvoleného lidu vystupoval na posvátnou horu k božskému přijímání, na ty, kteří zůstali, dopadla velká zkouška. Tento jedinec využil okamžiku k přetvoření víry celé komunity. Když se vůdce vrátil s pravdou, byl vynesen jedinečný a věčný trest. Dokážete rozluštit, kdo byla tato kontroverzní a lstivá duše?",
+  "clues": [
+    "Cestoval jsem s lidem, který byl zázračnými znameními osvobozen ze sevření mocného utlačovatele.",
+    "Když jejich vůdce vystoupil na horu, aby se dozvěděl rady, čekal jsem mezi těmi, kdo zůstali.",
+    "Sbíral jsem drahé kovy z jejich ozdob a vytvářel z nich něco, co vydávalo zvuk.",
+    "Tímto výtvorem jsem přesvědčil celou generaci, že našla svého boha v divočině.",
+    "Když se vůdce vrátil, vybrali mě a zeptali se mě, co mě k takovému podvodu vedlo.",
+    "Mým trestem na tomto světě bylo, že se mě nikdo nedotkl ani se ke mně nepřiblížil, což je znamení hanby, které si ponesu navždy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Samiři",
+        "Prorok Músa",
+        "Faraonovi kouzelníci",
+        "Haman, faraonský ministr",
+        "Iblis, odmítnutý"
+      ],
+      "answer": "Samiři"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Výroba zlatého telete",
+        "Střet s faraonem",
+        "Stavba velké archy",
+        "Odmítnutí sklonit se před Adamem",
+        "Zničení měst Lut"
+      ],
+      "answer": "Výroba zlatého telete"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Zlatý idol telete",
+        "Hůl, která se proměnila v hada",
+        "Velbloudice, která se vynořila ze skály",
+        "Archa postavená na hoře",
+        "Trůn nesený větrem"
+      ],
+      "answer": "Zlatý idol telete"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Odsouzeni k nedotknutelnosti, věčně říkajíc „žádný kontakt“",
+        "Utopen po boku tyrana a jeho armády",
+        "Vhozen do ohně, který se stal chladným a mírumilovným",
+        "Zasažen slepotou za odmítání pravdy",
+        "Opuštěn v jámě žárlivými příbuznými"
+      ],
+      "answer": "Odsouzeni k nedotknutelnosti, věčně říkajíc „žádný kontakt“"
+    }
+  },
+  "verseRef": "20:97",
+  "arabic": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًۭا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًۭا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+  "verse": "[Moses] said, \"Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast. (20:97)"
+}

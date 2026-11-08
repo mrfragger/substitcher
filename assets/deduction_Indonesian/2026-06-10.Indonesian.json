@@ -1,0 +1,61 @@
+{
+  "title": "Para Penjaga Taman",
+  "intro": "Di sebuah taman yang rimbun, sebuah komunitas mengucapkan sumpah suci. Namun tekad mereka diuji ketika kehendak ilahi campur tangan, mengubah kelimpahan mereka menjadi tanah tandus.",
+  "clues": [
+    "Kami diberkahi dengan kebun yang melimpah, tetapi kami menjadi sombong.",
+    "Kami membuat rencana untuk memanen tanpa berbagi dengan orang miskin.",
+    "Kami berangkat pagi-pagi sekali, penuh keyakinan dengan rencana kami.",
+    "Namun ketika kami tiba, kami mendapati kebun kami telah hancur dalam semalam.",
+    "Kami menyadari kesalahan kami dan mulai saling menyalahkan.",
+    "Kami akhirnya bertobat, tetapi pelajaran itu didapat terlalu terlambat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Kami?",
+      "options": [
+        "Orang-orang di Taman",
+        "Orang-orang Gua",
+        "Orang-orang Gajah",
+        "Orang-orang Tsamud",
+        "Orang-orang 'Ad"
+      ],
+      "answer": "Orang-orang di Taman"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Sebuah taman yang berubah menjadi abu",
+        "Banjir yang menghancurkan segalanya",
+        "Kelaparan yang melanda negeri itu",
+        "Sekumpulan burung menyerang",
+        "Angin kencang yang mencabuti pepohonan."
+      ],
+      "answer": "Sebuah taman yang berubah menjadi abu"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Sebuah taman",
+        "Sebuah gua",
+        "Sebuah kapal",
+        "Sebuah gunung",
+        "Sebuah istana"
+      ],
+      "answer": "Sebuah taman"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Mereka bertobat tetapi kehilangan kebun mereka.",
+        "Mereka hancur total.",
+        "Mereka diubah menjadi kera",
+        "Mereka diselamatkan oleh iman.",
+        "Mereka menjadi penguasa"
+      ],
+      "answer": "Mereka bertobat tetapi kehilangan kebun mereka."
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

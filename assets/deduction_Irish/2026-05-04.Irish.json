@@ -1,0 +1,61 @@
+{
+  "title": "Ailtire na hArdúlachta",
+  "intro": "I dtír ársa faoi rialú cumhachta dúshlánaí, bhí ról tionchair ag duine tábhachtach. Bhí an t-anam seo ina uirlis i scéimeanna móra an rialóra, ag cur lena réimeas leatromach agus ag cur dúshlán na teachtaireachta diaga. Tá a n-oidhreacht fite fuaite le tóir ar chumhacht an tsaoil agus séanadh na fírinne.",
+  "clues": [
+    "D’fhóin mé do rialóir cumhachtach a chuir cosc ​​ar phobal ar feadh na nglún.",
+    "Is minic a luaitear m'ainm sa Leabhar Diaga in éineacht leis an gceannaire cumhachtach seo.",
+    "Tugadh de chúram dom tionscadal mór tógála a dhéanamh, struchtúr ard a bhí ceaptha na flaithis a bhaint amach.",
+    "Chomhairligh mé do mo mháistir mic Chlann Iosrael a mharú agus a n-iníonacha a shábháil.",
+    "Bhí mé páirteach i bploig agus i gcomhcheilgeanna i gcoinne teachtaire cumhachtach Allah.",
+    "Tháinig mo dheireadh, mar aon le mo mháistir agus a arm, in uiscí farraige fairsinge."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Nimrod",
+        "Abrahá",
+        "Goliat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Á thástáil le saibhreas ollmhór",
+        "Ag treorú arm i gcoinne tí naofa",
+        "Ag tógáil túir chun teacht ar Dhia",
+        "A bheith caite isteach sa tine ar son a gcreidimh",
+        "Á chaitheamh isteach i dtobar ag siblíní"
+      ],
+      "answer": "Ag tógáil túir chun teacht ar Dhia"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An Áirc",
+        "An Fhoireann",
+        "An Sliabh",
+        "An Túr",
+        "An Míol Mór"
+      ],
+      "answer": "An Túr"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bronnadh eagna ollmhór air",
+        "Ag éirí ina fháidh",
+        "Á shlogadh ag an talamh",
+        "Ríocht a bhronnadh",
+        "Báthadh sa bhfarraige"
+      ],
+      "answer": "Báthadh sa bhfarraige"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

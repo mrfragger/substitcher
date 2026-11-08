@@ -1,0 +1,61 @@
+{
+  "title": "Ang Apoy na Nagbunyag ng Isang Pamana",
+  "intro": "Sa mga talaan ng paglaban, may nakatayong isang pigura na ang mismong pangalan ay naging babala hanggang sa katapusan ng panahon. Pinili ng taong ito ang poot kaysa sa pagkakamag-anak, ang pagsuway kaysa sa pagpapasakop, at sumalungat sa panawagan ng awa. Pakinggan nating mabuti ang mga alingawngaw ng isang sinaunang proklamasyon habang ating inaalam ang pagkakakilanlan ng kilalang-kilalang kaluluwang ito.",
+  "clues": [
+    "Ipinanganak ako sa parehong angkan ng huling sugo ng Allah, ngunit nanindigan ako laban sa kanila sa bawat pagkakataon.",
+    "Ang pangalan ko ay may kahulugan—isang pangalang nangangahulugang 'ama ng apoy,' isang pangalang magbabala sa aking walang hanggang kapalaran.",
+    "Nagpakawala ako ng pinsala laban sa tagapagdala ng katotohanan, at maging ang sarili kong sambahayan ay nakiisa sa kampanyang ito ng kalupitan.",
+    "Ginamit ko ang aking kayamanan at impluwensya upang patahimikin ang panawagan kay Allah, sa paniniwalang kayang patayin ng pera ang banal na liwanag.",
+    "Inialay sa akin ni Allah ang isang buong kabanata—isang kabanatang napakaikli na kayang bigkasin sa loob lamang ng ilang segundo, ngunit ang bigat nito ay mananatili hanggang sa Araw ng Paghuhukom.",
+    "Ang aking kasama sa Kabilang Buhay ay sumusunod sa akin, nakatali sa leeg gamit ang lubid na hibla, dala-dala ang mga tinik na kanilang ikinakalat noon."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Waraqah ibn Nawfal",
+        "Umayyah ibn Khalaf",
+        "Uqbah ibn Abi Mu'ayt"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Pagbibigay-kahulugan sa Paghaharap",
+      "options": [
+        "Nangunguna sa oposisyon laban sa Propeta sa Mecca",
+        "Lumipat sa Abyssinia upang makatakas sa pag-uusig",
+        "Pagtatayo ng Kaaba kasama si Propeta Ibrahim",
+        "Pagtanggap sa Islam sa bingit ng kamatayan",
+        "Pagpapatibay ng Kasunduan sa Hudaybiyyah"
+      ],
+      "answer": "Nangunguna sa oposisyon laban sa Propeta sa Mecca"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang asawang may dalang mga tinik at panggatong",
+        "Isang tungkod na naging ahas",
+        "Isang singsing na may tatak ni Solomon",
+        "Isang ginintuang guya na sinasamba ng mga tao",
+        "Isang bukal na bumubulwak ng tubig"
+      ],
+      "answer": "Isang asawang may dalang mga tinik at panggatong"
+    },
+    "outcome": {
+      "label": "Pangwakas na Pagtutuos",
+      "options": [
+        "Isang buong surah ang ipinahayag na nagdedeklara ng ganap na pagkawasak",
+        "Naging pinuno ng komunidad ng mga Muslim",
+        "Nakatanggap ng kapatawaran sa sandali ng kamatayan",
+        "Nagtayo ng isang malaking moske sa Medina",
+        "Nabuhay na mag-uli kasama ng mga matuwid"
+      ],
+      "answer": "Isang buong surah ang ipinahayag na nagdedeklara ng ganap na pagkawasak"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

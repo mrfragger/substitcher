@@ -1,0 +1,61 @@
+{
+  "title": "Le Serviteur Élevé d'Allah",
+  "intro": "On entend murmurer le nom d'une figure des temps anciens, un serviteur d'Allah élevé à un rang supérieur à l'ordinaire. Cet homme était réputé pour sa patience inébranlable et sa sincérité absolue, et fut envoyé à un peuple qui s'était détourné du message. Qui est cette âme sublime ?",
+  "clues": [
+    "J'ai été choisi par Allah comme prophète et je suis mentionné dans le Saint Coran.",
+    "J'étais connue pour ma patience et ma sincérité, qualités qu'Allah loue.",
+    "J'ai appelé mon peuple à adorer le Dieu unique, mais beaucoup m'ont rejeté.",
+    "Ma condition a été élevée par Allah, et un rang élevé m'a été accordé.",
+    "On me cite souvent aux côtés d'autres prophètes tels qu'Ismaïl et Dhul-Kifl.",
+    "Allah dit à mon sujet : « Et Nous l’avons élevé à un rang élevé. » (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "Le prophète Idris",
+        "Prophète Élie",
+        "Prophète Dhu al-Kifl",
+        "Prophète Al-Yasa",
+        "Prophète Hud"
+      ],
+      "answer": "Le prophète Idris"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Il a appelé les gens à adorer Allah",
+        "L'arche a été construite",
+        "Il a combattu le pharaon",
+        "A été testé positif à une maladie grave",
+        "A été jeté dans le feu"
+      ],
+      "answer": "Il a appelé les gens à adorer Allah"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "rang élevé/poste élevé",
+        "L'arche",
+        "Le personnel",
+        "Le feu",
+        "Le puits"
+      ],
+      "answer": "rang élevé/poste élevé"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Élevé à un statut élevé",
+        "Noyés dans les inondations",
+        "Avalé par une baleine",
+        "Sauvé des flammes",
+        "Il devint roi"
+      ],
+      "answer": "Élevé à un statut élevé"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

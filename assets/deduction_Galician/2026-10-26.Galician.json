@@ -1,0 +1,61 @@
+{
+  "title": "O susurro no vento",
+  "intro": "Imaxina un reino onde o invisible e o visible se entrelazan, e estás diante dunha figura no corazón dun reino diferente a calquera outro. Esta alma posúe un coñecemento máis alá do alcance ordinario, comandando forzas que outros só poderían imaxinar. Con todo, mesmo os máis poderosos poden ser humillados por unha pequena criatura, e a verdade pode permanecer oculta ata o momento sinalado. Quen é esta figura cuxo legado resoa ao longo dos tempos?",
+  "clues": [
+    "Déronme un reino que ninguén despois de min tería.",
+    "Herdei coñecemento e sabedoría dun pai querido.",
+    "O vento estaba baixo o meu dominio, viaxando polas miñas ordes a onde eu quixese.",
+    "Eu podía entender a fala dos paxaros, e eles serviron no meu exército.",
+    "Recibín novas dun paxariño sobre unha raíña que adoraba o sol.",
+    "A miña morte permaneceu oculta ata que unha criatura da terra devorou ​​o meu bastón, e só entón os djinn decatáronse de que descoñecían o invisible."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Sulayman (Salomón)",
+        "Profeta Dawud (David)",
+        "Profeta Musa (Moisés)",
+        "Profeta Isa (Xesús)",
+        "Profeta Nuh (Noé)"
+      ],
+      "answer": "Profeta Sulayman (Salomón)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "A visita da raíña de Saba",
+        "Ser lanzado a un lume",
+        "Separando o mar",
+        "Construíndo unha arca",
+        "Ser tragado por unha balea"
+      ],
+      "answer": "A visita da raíña de Saba"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "O bastón consumido por unha criatura da terra",
+        "O bastón que se converteu nunha serpe",
+        "A cameloa",
+        "A arca",
+        "A balea"
+      ],
+      "answer": "O bastón consumido por unha criatura da terra"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "A súa morte foi ocultada aos xenios ata que o seu bastón foi devorado",
+        "Foi elevado aos ceos vivo",
+        "Foi salvado do lume pola orde de Alá",
+        "Déronlle a Torá",
+        "Foi salvado da balea"
+      ],
+      "answer": "A súa morte foi ocultada aos xenios ata que o seu bastón foi devorado"
+    }
+  },
+  "verseRef": "34:14",
+  "arabic": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ ۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+  "verse": "And when We decreed for him [i.e., Solomon] death, nothing indicated to them [i.e., the jinn] his death except a creature of the earth eating his staff. But when he fell, it became clear to the jinn that if they had known the unseen, they would not have remained in humiliating punishment. (34:14)"
+}

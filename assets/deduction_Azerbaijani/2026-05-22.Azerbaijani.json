@@ -1,0 +1,61 @@
+{
+  "title": "Xəyalpərəstin Yüksəlişi",
+  "intro": "Böyüklüyə can atan, lakin ağır sınaqlarla sınanan bir ruh fövqəladə bir səyahətə çıxdı. Bu fərdin yolu qısqanclıq, ayrılıq və ədalətsiz əzablarla əlamətdar oldu və sonda böyük məsuliyyət və dərin birləşmə mövqeyi ilə sona çatdı. Qurandakı bu əlamətdar şəxsiyyəti tanıya bilərsinizmi?",
+  "clues": [
+    "Bir vaxtlar ən yaxınlarım mənə həsəd aparırdılar və bu da valideynlərimdən və evimdən dərin bir ayrılığa səbəb oldu.",
+    "Səyahətçilər tərəfindən cüzi bir qiymətə satılmaq da daxil olmaqla, böyük çətinliklər dövrü yaşadım.",
+    "Mən haqsız yerə qanunsuz əməllərdə ittiham olundum və illərlə həbsdə qaldım, amma imanım sarsılmaz qaldı.",
+    "Mənə mürəkkəb görüntüləri şərh etmək üçün unikal bir qabiliyyət verildi və bu, azadlığa gedən yolumda mühüm rol oynadı.",
+    "Müdrikliyim və dürüstlüyüm nəticədə məni xarici bir ölkədə böyük bir səlahiyyətə və etibara layiq bir mövqeyə gətirib çıxardı.",
+    "Uzun və ağrılı bir yoxluqdan sonra bir sıra tədbirlər sayəsində yaşlı valideynlərim və bacı-qardaşlarımla yenidən qovuşdum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Süleyman peyğəmbər",
+        "İsa peyğəmbər",
+        "Yusif peyğəmbər",
+        "Davud peyğəmbər",
+        "Yəhya peyğəmbər"
+      ],
+      "answer": "Yusif peyğəmbər"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Böyük bir balıq tərəfindən udulur",
+        "Yaradılışı xilas etmək üçün bir gəmi tikmək",
+        "Yalan ittihamlara və həbsə dözmək",
+        "Zalım bir hökmdarla möcüzələrlə qarşılaşmaq",
+        "Ağır xəstəlik və itki ilə sınaqdan keçirilir"
+      ],
+      "answer": "Yalan ittihamlara və həbsə dözmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Yanan bir kol",
+        "Danışan quş",
+        "Bir quyu",
+        "Bir əsa ilana çevrilir",
+        "Bir əlamət olaraq dişi dəvə"
+      ],
+      "answer": "Bir quyu"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Vəd edilmiş bir diyara köçə rəhbərlik etmək",
+        "Misirdə güclü bir nazir olmaq",
+        "Təkəbbürlü xalq üzərində ilahi hökmün alınması",
+        "Geniş bir səltənəti müdriklik və ədalətlə idarə etmək",
+        "Göylərə qalxmaq"
+      ],
+      "answer": "Misirdə güclü bir nazir olmaq"
+    }
+  },
+  "verseRef": "12:4",
+  "arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ",
+  "verse": "[Of these stories mention] when Joseph said to his father, \"O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me.\" (12:4)"
+}

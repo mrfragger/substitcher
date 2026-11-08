@@ -1,0 +1,61 @@
+{
+  "title": "Durnukly Ruhuň Synagy",
+  "intro": "Bir ruh ylahy synagyň pursatynda durup, pesgöwünlilik bilen ýol görkezmegi gözleýär. Hemme zady bilýän Zat bu gözlegçini yzyna gaýtarýar, ýöne soňra munuň ýüregiň synagydygyny aýan edýär. Bu syrly söhbetdeşlik arkaly oýlanýanlaryň öňünde ylahy paýhas barada sapak açylýar. Bu keşbi Gurhan rowaýatyndan kesgitläp bilersiňizmi?",
+  "clues": [
+    "Men Allanyň söýgüli elçisinden ylym we ýol görkezme isledim",
+    "Men hakykaty gözläp geldim, Pygambere çyn ýürekden ýüzlendim",
+    "Men käýinç aldym we yzyna gaýtaryldym, sebäbi Allanyň akyldarlygynyň şol pursat üçin başga meýilnamalary bardy.",
+    "Ýöne men umytsyzlanmadym - tersine, gözlegimde öňe ymtyldym",
+    "Hemme zady bilýän Biri munuň ýüregiň synagy we duýduryşdygyny yglan etdi",
+    "Men Kuranda şeýle aýdylýanlaryň arasyndadym: \"Ol gamgyn boldy we ýüz öwürdi, sebäbi oňa kör adam geldi\"."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Şübhe gözleýän ikiýüzlü adam",
+        "Hakykatyň kör gözleýjisi",
+        "Mekkäniň butparaz adamy",
+        "Pygamberi masgara edýän käfir",
+        "Ýemenden gelen syýahatçy"
+      ],
+      "answer": "Hakykatyň kör gözleýjisi"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Namaz wagtynda Muhammet pygamberiň käýinç almagy",
+        "Mekkede gurakçylyk we açlyk bilen synag edilýär",
+        "Jennetiň derwezelerinde yzyna gaýtarylmak",
+        "Öz halky tarapyndan imany üçin ret edilmek",
+        "Baýlyk we çagalar bilen synag edilýär"
+      ],
+      "answer": "Namaz wagtynda Muhammet pygamberiň käýinç almagy"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Zyýarat möwsüminde Käbäniň içinde",
+        "Pygamberiň ýanynda okalanda",
+        "Irden Safa dagynyň depesinde",
+        "Mekke bazarynda, müşrikler tarapyndan gurşalan",
+        "Haj wagtynda Zemzem guýusynyň golaýynda"
+      ],
+      "answer": "Pygamberiň ýanynda okalanda"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Islegçi imany üçin Kuraýş tarapyndan şehit edildi",
+        "Bu waka ümmet üçin synag we sapak hökmünde ýazgy edildi",
+        "Gözlegçi ýoldaş we lider boldy",
+        "Gözleýäniň baýlygy on esse köpeldi",
+        "Gözleýji ynanmazlyga gaýdyp geldi"
+      ],
+      "answer": "Bu waka ümmet üçin synag we sapak hökmünde ýazgy edildi"
+    }
+  },
+  "verseRef": "80:1-2",
+  "arabic": "",
+  "verse": "80:1-2"
+}

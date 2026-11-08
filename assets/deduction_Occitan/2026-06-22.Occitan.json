@@ -1,0 +1,61 @@
+{
+  "title": "Lo Cresent Amagat",
+  "intro": "Dins las salas opulentas del poder, ont regnavan l'incredulitat e la tirania, una votz sola de vertat parlava d'un luòc inesperat. Aquela figura desfisava l'autoritat de protegir un messatgièr, en riscant sa pròpria seguretat per proclamar la vertat.",
+  "clues": [
+    "Visquèri dins una tèrra de granda tirania, en servissent un governant que revendicava la divinitat.",
+    "Gardèri mas cresenças vertadièras amagadas pendent fòrça ans, en cresent las consequéncias de las revelar.",
+    "Quand un messatgièr venguèt amb de signes clars, cresiái, mas mon pòble conspirèt contra el.",
+    "Me pausèri davant lo tiran e son conselh, en argumentant que deurián pas tuar un messatgièr innocent.",
+    "Los avertiguèri del castig de las nacions passadas que refusèron la vertat, coma lo pòble de Noè e 'Ad.",
+    "Allah me salvèt de lors complòts marrits, e foguèri testimòni de la destruccion del regim opressiu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo cresent de la familha del faraon",
+        "Lo Mag de Faraon",
+        "Lo Vizir de Faraon",
+        "La femna de faraon",
+        "Lo tresorièr de faraon"
+      ],
+      "answer": "Lo cresent de la familha del faraon"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Defendre un profèta contra l'execucion",
+        "Desfisar los trucs d'un magician",
+        "Bastir una torre per aténher lo cèl",
+        "Despartir la mar per s'escapar",
+        "Interpretar lo sòmi d'un rei"
+      ],
+      "answer": "Defendre un profèta contra l'execucion"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La cort de faraon",
+        "L'arbust ardent",
+        "Lo vedèl d'aur",
+        "Lo potz de Madyan",
+        "L'arca del profèta Nuh"
+      ],
+      "answer": "La cort de faraon"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Salvat del mal del temps que los opressors èran destruits",
+        "Venguèt un sobeiran poderós",
+        "Foguèt getat dins un fuòc e sortiguèt ilesa",
+        "Foguèt engolida per la tèrra",
+        "Errèt dins lo desèrt pendent quaranta ans"
+      ],
+      "answer": "Salvat del mal del temps que los opressors èran destruits"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

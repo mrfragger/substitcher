@@ -1,0 +1,61 @@
+{
+  "title": "Suara Sejati Zaman Purba",
+  "intro": "Terdapat satu jiwa dalam Al-Quran yang kisahnya diceritakan hanya dalam beberapa ayat, namun sifat-sifat mulia mereka terserlah dengan jelas. Dipuji oleh Yang Maha Kuasa atas akhlak yang istimewa, hamba Tuhan Yang Maha Pemurah ini memegang tempat dalam lembaran wahyu. Tugas anda adalah untuk mengenal pasti tokoh yang luar biasa ini. Bolehkah anda meneka siapa mereka?",
+  "clues": [
+    "Aku seorang nabi Allah yang hidup di antara generasi awal manusia.",
+    "Allah menyebutku dalam Kitab-Nya bersama para nabi yang lain, semuanya dipuji atas akhlak mulia yang sama.",
+    "Aku digambarkan sebagai seorang yang benar dalam Al-Quran.",
+    "Allah telah mengangkatku ke martabat yang jarang dicapai oleh orang lain.",
+    "Nama saya disebut dalam Surah Al-Anbiya, dikumpulkan bersama dua nabi lain yang dipuji kerana kesabaran mereka.",
+    "Akulah Idris, nabi yang benar dan mulia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Idris",
+        "Nabi Nuh",
+        "Nabi Ibrahim",
+        "Nabi Musa",
+        "Nabi Ismail"
+      ],
+      "answer": "Nabi Idris"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Mengekalkan kesabaran dan kejujuran, kemudian diangkat ke martabat yang tinggi",
+        "Membina bahtera besar untuk menyelamatkan orang-orang beriman daripada banjir yang dahsyat",
+        "Dicampakkan ke dalam api yang marak dan keluar tanpa sebarang kecederaan",
+        "Menghadapi raja yang perkasa dan mengalahkan tentera ahli sihirnya",
+        "Bertahan di dalam perut ikan besar di dasar laut"
+      ],
+      "answer": "Mengekalkan kesabaran dan kejujuran, kemudian diangkat ke martabat yang tinggi"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Maqam yang tinggi dan mulia di sisi Allah",
+        "Sebuah kapal besar yang dibina daripada papan dan disalut dengan tar",
+        "Api yang marak yang dicetuskan oleh penyembah berhala raja yang jahat",
+        "Lautan luas yang terbelah menjadi laluan kering",
+        "Perut gelap ikan paus besar di dasar lautan"
+      ],
+      "answer": "Maqam yang tinggi dan mulia di sisi Allah"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dimasukkan ke dalam rahmat Allah sebagai salah seorang daripada orang yang soleh",
+        "Diselamatkan bersama semua orang percaya dari banjir besar di seluruh dunia",
+        "Keluar dari api tanpa disentuh api",
+        "Memimpin Bani Israel dengan selamat menuju kebebasan melintasi laut",
+        "Bersatu semula dengan keluarga tercinta selepas bertahun-tahun menempuhi kesusahan"
+      ],
+      "answer": "Dimasukkan ke dalam rahmat Allah sebagai salah seorang daripada orang yang soleh"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

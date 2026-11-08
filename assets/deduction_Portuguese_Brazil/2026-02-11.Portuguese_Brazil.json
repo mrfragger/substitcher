@@ -1,0 +1,60 @@
+{
+  "title": "O Fardo das Riquezas",
+  "intro": "Você está diante de uma história de imensa fortuna, uma vida adornada com ouro e poder, mas que, em última análise, serve como uma lição de advertência para todos aqueles que buscam a grandeza mundana. Você conseguirá desvendar a identidade dessa figura cuja história ecoa através dos tempos, um testemunho da natureza efêmera dos bens materiais?",
+  "clues": [
+    "Eu era do povo de um grande Profeta, mas escolhi um caminho de arrogância e opressão.",
+    "Alá me concedeu imensa riqueza, tanta que as chaves dos meus tesouros eram um fardo pesado até mesmo para um grupo numeroso de homens.",
+    "Meu povo me aconselhou a não me vangloriar das minhas riquezas, lembrando-me de que Alá não ama os que se vangloriam.",
+    "Afirmei arrogantemente que minha vasta fortuna era fruto do meu próprio conhecimento e esforço, e não uma bênção de Alá.",
+    "Fui advertido contra a corrupção e lembrado de buscar a vida após a morte com o que Alá me deu, mas recusei-me a ouvir e continuei em meu orgulho.",
+    "Por fim, Alá fez com que a terra me engolisse, juntamente com a minha morada, deixando-me sem ninguém para me ajudar, contrariando o Seu decreto."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "faraó",
+        "Haman",
+        "Qarun",
+        "Abu Lahab",
+        "Namrud"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "A divisão do mar",
+        "O fogo de Ninrode",
+        "A inundação",
+        "A engolida pela terra",
+        "A praga de gafanhotos"
+      ],
+      "answer": "A engolida pela terra"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "A Arca",
+        "A equipe",
+        "O Bezerro de Ouro",
+        "Os Tesouros/Chaves",
+        "O Poço de Zamzam"
+      ],
+      "answer": "Os Tesouros/Chaves"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Concedido o título de rei",
+        "Salvo da destruição",
+        "Engolido pela terra",
+        "Tornou-se um profeta",
+        "Faleceu em paz"
+      ],
+      "answer": "Engolido pela terra"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

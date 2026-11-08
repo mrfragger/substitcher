@@ -1,0 +1,61 @@
+{
+  "title": "Baqapi ba Majoe",
+  "intro": "Ak'u nahane ka tsoelo-pele e matla, e nang le matla le tsebo, e betlang matlo a maholo lithabeng. Sehlopha sena se ne se e-na le katleho e kholo le bokhoni bo ikhethang ba ho haha. Leha ho le joalo, ho sa tsotellehe ho fumana litemoso tse hlakileng, ba ile ba khetha tsela e neng e tla lebisa qetong e tsotehang le e sa lebaleheng. Na u ka khetholla sehlopha sena seo pale ea sona e leng thuto e tebileng ho bohle ba nahanang?",
+  "clues": [
+    "Re ile ra fuoa matla le tsebo, e leng se ileng sa re nolofalletsa ho betla matlo a matle ka ho toba lithabeng.",
+    "Re filoe pontšo e hlakileng e tsoang ho Allah, sebopuoa se ikhethang se neng se lokela ho siuoa se sa tšoenyehe hore se fula.",
+    "Sechaba sa rona se ile sa ikhohomosa, sa phephetsa molaetsa oa bomolimo o tlisitsoeng ke lenģosa le tsoang har'a rona.",
+    "Re ile ra rera ho senya pontšo ea mohlolo, ho sa tsotellehe litemoso tsa kotlo e matla.",
+    "Re ile ra lahla taelo ea ho lumella sebopuoa se khethehileng ho noa selibeng sa rona ka matsatsi a fapaneng.",
+    "Re ile ra kopana le qetello e bohloko, ra otloa ke ho phatloha ho le hong ho tšosang kamora ketso ea rona ea tlōlo ea molao."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bo-mang?",
+      "options": [
+        "Batho ba 'Ad",
+        "Batho ba Midiane",
+        "Batho ba Tlou",
+        "Batho ba Thamud",
+        "Batho ba Lute"
+      ],
+      "answer": "Batho ba Thamud"
+    },
+    "trial": {
+      "label": "Teko/Ketsahalo ea Rona e Kholo",
+      "options": [
+        "Moroallo o ileng oa koahela naha",
+        "Ho aroloa ha leoatle",
+        "Tšenyo ka ho phatloha ha lerata/mohoo o le mong",
+        "Ho chesoa ha motse",
+        "Ho fetola thaba lerole"
+      ],
+      "answer": "Tšenyo ka ho phatloha ha lerata/mohoo o le mong"
+    },
+    "location": {
+      "label": "Ntlha ea Bohlokoa Paleng ea Rona",
+      "options": [
+        "Namane ea khauta",
+        "Kamele e tšehali e makatsang",
+        "Sehlahla se tukang",
+        "Nonyana e buang",
+        "Terone e kgolo"
+      ],
+      "answer": "Kamele e tšehali e makatsang"
+    },
+    "outcome": {
+      "label": "Sephetho sa Rona sa ho Qetela",
+      "options": [
+        "E fuoe leruo le matla a maholo",
+        "Ho phahamisetsoa boprofeteng",
+        "Timetso e feletseng ka kotlo ea bomolimo",
+        "Ho tšoareloa kamora pako ea 'nete",
+        "E hasane lefatšeng ho lelera"
+      ],
+      "answer": "Timetso e feletseng ka kotlo ea bomolimo"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Rösten före stormen",
+  "intro": "En gestalt i öknen reste sig för att kalla en mäktig nation tillbaka till sanningen. Folket var känt för sina magnifika byggnader och oöverträffade styrka. Ändå förblindade deras stolthet dem, och de vägrade att lyssna. Så småningom drabbades de av ett förödande straff som skonade endast en liten grupp troende.",
+  "clues": [
+    "Jag sändes till ett mäktigt folk som bodde i det öppna territoriet och var känt för sin makt.",
+    "Mitt folk kom efter en annan stor nation som hade blivit förstörd.",
+    "De hade magnifika byggnader och byggde höga torn.",
+    "Jag kallade dem att dyrka en enda Gud, men de vägrade att överge sina avgudar.",
+    "Ett våldsamt straff drabbade dem, och endast de som trodde med mig skonades.",
+    "Jag är den som är sänd till ett mäktigt folk känt som Aad."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Hud",
+        "Profeten Salih",
+        "Profeten Shu'aib",
+        "Profeten Nuh",
+        "Profeten Ibrahim"
+      ],
+      "answer": "Profeten Hud"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Den stora översvämningen",
+        "En våldsam rytande vind",
+        "En jordbävning och ett skrämmande skrik",
+        "Ett regn av brinnande stenar",
+        "Himmelsk eld från ovan"
+      ],
+      "answer": "En våldsam rytande vind"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "En stor ark byggd på ett berg",
+        "En unik kamelhona",
+        "En stav som förvandlades till en orm",
+        "Höga byggnader och anslående strukturer",
+        "En flammande bål"
+      ],
+      "answer": "Höga byggnader och anslående strukturer"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Alla drunknade i en stor översvämning",
+        "Mitt folk förintades av en våldsam vind, medan jag blev räddad",
+        "Mitt folk drabbas av jordbävning och gråter",
+        "Mitt folk kastades med stenar från himlen",
+        "Mitt folk kastas i en flammande eld"
+      ],
+      "answer": "Mitt folk förintades av en våldsam vind, medan jag blev räddad"
+    }
+  },
+  "verseRef": "7:69",
+  "arabic": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌۭ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍۢ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍۢ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةًۭ ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+  "verse": "Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed.\" (7:69)"
+}

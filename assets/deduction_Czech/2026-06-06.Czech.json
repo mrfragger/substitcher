@@ -1,0 +1,61 @@
+{
+  "title": "Vznešený služebník Alláha",
+  "intro": "Slyšíte šeptání o postavě ze starověku, služebníkovi Alláha, který byl povýšen na postavení nad všednost. Tento jedinec byl známý neochvějnou trpělivostí a absolutní pravdomluvností a byl poslán k lidu, který se odvrátil od poselství. Kdo je tato vznešená duše?",
+  "clues": [
+    "Byl jsem vyvolen Alláhem jako prorok a jsem zmíněn ve svatém Koránu.",
+    "Byl jsem známý svou trpělivostí a pravdomluvností, vlastnostmi, které Alláh chválí.",
+    "Vyzval jsem svůj lid k uctívání Jediného Boha, ale mnozí mě odmítli.",
+    "Alláh povýšil mé postavení a byla mi udělena vysoká hodnost.",
+    "Často jsem zmiňován spolu s dalšími proroky, jako jsou Ismail a Dhul-Kifl.",
+    "Alláh o mně říká: „A povýšili jsme ho na vysoké postavení.“ (19:57)"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Idrís",
+        "Prorok Eliáš",
+        "Prorok Dhu al-Kifl",
+        "Prorok Al-Yása",
+        "Prorok Hud"
+      ],
+      "answer": "Prorok Idrís"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Vyzýval lidi k uctívání Alláha",
+        "Postavil archu",
+        "Bojoval proti faraonovi",
+        "Byl testován s těžkou nemocí",
+        "Byl vhozen do ohně"
+      ],
+      "answer": "Vyzýval lidi k uctívání Alláha"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Vznešená hodnost/vysoké postavení",
+        "Archa",
+        "Zaměstnanci",
+        "Oheň",
+        "Studna"
+      ],
+      "answer": "Vznešená hodnost/vysoké postavení"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Povýšen na vysoký status",
+        "Utopený v povodni",
+        "Spolknuto velrybou",
+        "Zachráněn před ohněm",
+        "Stal se králem"
+      ],
+      "answer": "Povýšen na vysoký status"
+    }
+  },
+  "verseRef": "19:57",
+  "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
+  "verse": "And We raised him to a high station. (19:57)"
+}

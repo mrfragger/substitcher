@@ -1,0 +1,61 @@
+{
+  "title": "Ny Fanahin'ny Fahari-po ao amin'ny Trano Masina",
+  "intro": "Ao amin'ny pejin'ny CORAN, misy olona iray mipoitra avy amin'ny taranaky ny mpaminany lehibe iray, izay nomena ho fanomezana rehefa antitra. Ankalazaina noho ny fahamarinana tsy azo hozongozonina sy ny anjara toerana lehibe amin'ny fananganana toeram-piarovana izay ho lasa fanilon'ny finoana io fanahy io. Rehefa mamaky ireo fanoroana ianao dia henoy tsara ny feo avy amin'ny lasa, satria miteny amin'ny maha-olona voalohany azy izy.",
+  "clues": [
+    "Voatonona miaraka amin'ny mpaminany iray hafa ao amin'ny CORAN aho ho toy ny fanomezana nomena iraka zokiolona.",
+    "Iray tamin'ireo taranaka roa nomena an'io mpaminany io aho tamin'ny faramparan'ny androny.",
+    "Deraina ao amin'ny CORAN aho noho ny fahatokiako ny teniko.",
+    "Nitondra ny voninahitry ny mpaminany aho ary nirahina ho iraka.",
+    "Niaraka tamin'ny raiko aho tamin'ny fananganana ny fototry ny Trano Masina.",
+    "Tsaroana ho iray amin'ireo olona nanam-paharetana aho, ary ny trano masina izay naorinay dia lasa toerana fiverenana sy fiarovana ho an'ny olona."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ismail",
+        "Mpaminany Isaka",
+        "Mpaminany Jakoba",
+        "Mpaminany Zakaria",
+        "Mpaminany Yahya"
+      ],
+      "answer": "Mpaminany Ismail"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Fananganana ny fototry ny Kaaba miaraka amin'i Ibrahim",
+        "Atsipy ao anaty afo",
+        "Voatelina trozona",
+        "Nitarika ny Isiraelita hivoaka an'i Ejipta",
+        "Fanamboarana sambo fiara"
+      ],
+      "answer": "Fananganana ny fototry ny Kaaba miaraka amin'i Ibrahim"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "Ny Kaaba",
+        "Tendrombohitra Sinay",
+        "Ny Ranomasina Mena",
+        "Ilay Ombilahy Kely Volamena",
+        "Ny Saha Edena"
+      ],
+      "answer": "Ny Kaaba"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Voaisa ho isan'ny marary",
+        "Anisan'ireo mpanao ratsy",
+        "Anisan'ireo mpanao majika",
+        "Anisan'ireo tsy mpino",
+        "Anisan'ny mpihatsaravelatsihy"
+      ],
+      "answer": "Voaisa ho isan'ny marary"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

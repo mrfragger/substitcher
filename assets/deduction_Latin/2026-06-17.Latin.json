@@ -1,0 +1,61 @@
+{
+  "title": "Echo ab Urbe Margine",
+  "intro": "In urbe quae a divina gubernatione aversabatur, solitaria figura e suburbiis emersit, nuntium spei et admonitionis cum cursu ferens. Haec anima oblita aeternum symbolum firmae fidei fieret.",
+  "clues": [
+    "Nuntios ad urbem meam missos vidi, sed mei eos tamquam homines ordinarios spreverunt.",
+    "Nuntio eorum credidi et veritatem intra meum animum resonare sensi.",
+    "Populum meum hortatus sum ut nuntiis qui nullam mercedem postulaverunt pareant.",
+    "Ab extremo urbis fine aufugi, instanter conans eos rationem facere.",
+    "Populus meus contra me surrexit, et occisus sum, sed pacem aeternam inveni.",
+    "Dixit mihi Deus, \"Intra Paradisum,\" et optavi ut populus meus videre posset honorem mihi tributum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Fidelis Ya-Sin",
+        "Uzair Interrogator",
+        "Al-Khidr Dux",
+        "Fidelis Familiae Pharaonis",
+        "Namrud Tyrannus"
+      ],
+      "answer": "Fidelis Ya-Sin"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Adversus populum infidelem qui eum necavit",
+        "In ignem ardentem coniectus",
+        "Ab magno pisce deglutitus",
+        "Arcae ingentis constructio",
+        "Fugiens ab exercitu tyranni"
+      ],
+      "answer": "Adversus populum infidelem qui eum necavit"
+    },
+    "location": {
+      "label": "Locus Clavis",
+      "options": [
+        "Extremus urbis finis",
+        "Mons Tur",
+        "Vallis Formicarum",
+        "Ripae Nili",
+        "Speluncae speluncae"
+      ],
+      "answer": "Extremus urbis finis"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Martyrium et ingressus immediatus in Paradisum",
+        "Fuga et salus",
+        "Ascensio ad caelos",
+        "Submersus in mari",
+        "In lapidem convertens"
+      ],
+      "answer": "Martyrium et ingressus immediatus in Paradisum"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

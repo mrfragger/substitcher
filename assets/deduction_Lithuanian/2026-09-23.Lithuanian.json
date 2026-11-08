@@ -1,0 +1,61 @@
+{
+  "title": "Skambutis, kuris atlaikė amžius",
+  "intro": "Įsivaizduokite sielą, kuri viena stojo prieš visą civilizaciją, pasiryžusi nepajudinamu ryžtu vesti juos atgal iš klaidingo kelio. Šimtmečius žinia buvo atmetama, išjuokiama ir ignoruojama, tačiau pastangos niekada nesiliovė. Galiausiai atėjo didysis atsiskaitymas ir tik nedaugelis pasiekė išsigelbėjimą kartu su šia tvirta siela. Ar galite atpažinti šią figūrą iš Korano?",
+  "clues": [
+    "Buvau pasiųstas kaip perspėtojas žmonėms, pasiklydusiems savo keliuose.",
+    "Aš juos kviečiau prašyti atleidimo ir atsigręžti nuo savo klaidų, bet jie nusisuko.",
+    "Dievo įsakymu pastačiau didžiulį laivą, o mano žmonės stebėjo ir iš manęs tyčiojosi.",
+    "Be paliovos šaukiausi savo Viešpaties – galiausiai Jis atsiliepė, ir iš dangaus pasipylė sraunūs vanduo.",
+    "Įlipau į laivą su tais, kurie tikėjo, kai tvano vandenys pakilo virš žemės.",
+    "Šaukiausi vieno, kuris buvo pasilikęs, prašydamas pasislėpti kalne, bet nutarimas jau buvo priimtas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Nuh",
+        "Pranašas Ibrahimas",
+        "Pranašas Musa",
+        "Pranašas Hudas",
+        "Pranašas Salihas"
+      ],
+      "answer": "Pranašas Nuh"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Didžiojo laivo statyba ir išgyvenimas per pasaulinį tvaną",
+        "Įmestas į liepsnojančią ugnį",
+        "Susidūrimas su tironu ir jo galingais magais",
+        "Praryti didelės žuvies",
+        "Šventosios kupranugario patelės nužudymo liudininkas"
+      ],
+      "answer": "Didžiojo laivo statyba ir išgyvenimas per pasaulinį tvaną"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Masyvi medinė arka ant siaučiančių potvynio vandenų",
+        "Šventas slėnis su senoviniais akmeniniais griuvėsiais",
+        "Gilus urvas, kuriame šimtmečius miegojo draugai",
+        "Milžiniško banginio pilvas vandenyno gelmėse",
+        "Dykumoje iškilęs akmeninis kalnas"
+      ],
+      "answer": "Masyvi medinė arka ant siaučiančių potvynio vandenų"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Išgelbėti su tikinčiaisiais laive",
+        "Dievo įsakymu išgelbėtas nenukentėjęs nuo ugnies",
+        "Vedė didžiulį išėjimą iš galingos karalystės",
+        "Išmestas iš žuvies į nevaisingą krantą",
+        "Stebuklingu ženklu atitraukė žmones nuo blogo elgesio"
+      ],
+      "answer": "Išgelbėti su tikinčiaisiais laive"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Pravda, která umlčela soud",
+  "intro": "V paláci, kde vládlo popírání a moc byla absolutní, stálo shromáždění zkušených praktiků před nečekanou výzvou. Vzduch praskal očekáváním, když se dvě cesty lži a pravdy měly střetnout. Shromáždění netušili, že toto setkání navždy změní jejich životy a vryje jejich příběh do posvátného textu.",
+  "clues": [
+    "Byli jsme proslulí svými iluzorními schopnostmi a shromáždil nás mocný vládce, abychom se postavili vyzyvateli.",
+    "Když přišla ta chvíle, odhodili jsme nástroje a s jistotou ve své řemeslo očekávali výsledek.",
+    "Ale to, čeho jsme byli svědky, způsobilo, že se naše vlastní nástroje jevily jako pouhé hračky a naše srdce rozpoznala nepopiratelnou pravdu.",
+    "Padli jsme na zem v klanění a prohlašovali jsme svou víru v Pána Mojžíše a Árona, navzdory hněvu vládce.",
+    "Ten vládce nám vyhrožoval nejbrutálnějším trestem a přísahal, že nás ukřižuje a podřeže nám končetiny opačnými směry.",
+    "Zůstali jsme neochvějní a říkali jsme, že dáváme přednost soudu našeho Pána před jakýmikoli světskými důsledky, a byli jsme umučeni pro naši víru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Faraonovi čarodějové",
+        "Lidé z jeskyně",
+        "Společníci lesa",
+        "Učedníci Izáše",
+        "Lidé slona"
+      ],
+      "answer": "Faraonovi čarodějové"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Kouzelnická soutěž proti Musovi",
+        "Oheň vržený na ně",
+        "Povodeň, která je utopila",
+        "Sucho a hladomor",
+        "Zemětřesení"
+      ],
+      "answer": "Kouzelnická soutěž proti Musovi"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Hole a lana, které se proměnily v hady",
+        "Hořící keř",
+        "Velbloudice",
+        "Dřevěná archa",
+        "Velryba"
+      ],
+      "answer": "Hole a lana, které se proměnily v hady"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Popraveni pro víru, slíbený ráj",
+        "Utopený v moři",
+        "Stali se vládci Egypta",
+        "Zůstali následovníci faraona",
+        "Zdědil zemi"
+      ],
+      "answer": "Popraveni pro víru, slíbený ráj"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

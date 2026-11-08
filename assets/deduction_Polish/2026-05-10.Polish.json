@@ -1,0 +1,61 @@
+{
+  "title": "Budowniczowie wież",
+  "intro": "W zamierzchłej przeszłości narodziła się potężna cywilizacja, wyróżniająca się imponującymi osiągnięciami budowlanymi i potężną siłą. Ten zbiorowy byt otrzymał obfite zasoby i siłę fizyczną, a jednak wybrał drogę buntu przeciwko boskiemu przesłaniu, które miało go prowadzić. Ich historia stanowi głęboką lekcję w annałach historii, świadectwo konsekwencji odrzucenia prawdy.",
+  "clues": [
+    "Obdarzono nas ogromną siłą fizyczną i posturą, jakiej nie posiadali inni ludzie naszych czasów.",
+    "Słynęliśmy z tego, że budowaliśmy wspaniałe budowle i wysokie kolumny w każdym wysokim miejscu, wierząc, że będziemy żyć wiecznie.",
+    "Spośród nas został wysłany posłaniec, aby nas ostrzec, wzywając nas do czczenia wyłącznie Allaha i porzucenia naszych bożków.",
+    "Arogancko zapytaliśmy naszego posłańca, czy przybyli do nas tylko po to, aby zmusić nas do oddawania czci Allahowi i porzucenia tego, co czcili nasi przodkowie.",
+    "Nasza ziemia została obdarzona ogrodami, źródłami i żyznymi polami, ale przypisaliśmy nasz dobrobyt naszej własnej sile, nie naszemu Stwórcy.",
+    "Za naszą nieustającą niewiarę i drwiny zostaliśmy ostatecznie unicestwieni przez przerażający, wściekły wiatr, który szalał przez wiele dni i nocy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Ludzie z Thamud",
+        "Ludzie Fir'aunu",
+        "Ludzie Nuh",
+        "Ludzie Madyanu",
+        "Ludzie z „Ad”"
+      ],
+      "answer": "Ludzie z „Ad”"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Prośba o poświęcenie konkretnego wielbłąda",
+        "Stając przed wyzwaniem stworzenia dziesięciu sur podobnych do Koranu",
+        "Pokazano rozdzielenie się morza",
+        "Otrzymanie ostrzeżenia od proroka o nadchodzącym potopie",
+        "Odrzucenie proroka, który ostrzegał przed nadmiernym budowaniem i oddawaniem czci bożkom"
+      ],
+      "answer": "Odrzucenie proroka, który ostrzegał przed nadmiernym budowaniem i oddawaniem czci bożkom"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Arka",
+        "Personel",
+        "Ogień",
+        "Miasto Sodoma",
+        "Wysokie kolumny i solidne domy"
+      ],
+      "answer": "Wysokie kolumny i solidne domy"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Utonął w wielkiej powodzi",
+        "Pochłonięty przez ziemię",
+        "Przemienieni w małpy i świnie",
+        "Zniszczony przez potężny wybuch",
+        "Zniszczony przez wściekły, niszczycielski wiatr"
+      ],
+      "answer": "Zniszczony przez wściekły, niszczycielski wiatr"
+    }
+  },
+  "verseRef": "41:15",
+  "arabic": "فَأَمَّا عَادٌۭ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةًۭ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
+  "verse": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs. (41:15)"
+}

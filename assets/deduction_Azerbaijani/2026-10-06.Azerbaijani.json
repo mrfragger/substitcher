@@ -1,0 +1,61 @@
+{
+  "title": "Məhkəməni susduran həqiqət",
+  "intro": "İnkarın hökm sürdüyü və gücün mütləq olduğu bir sarayda bacarıqlı təcrübəçilər toplusu gözlənilməz bir çətinlik qarşısında dayanmışdı. Yalan və həqiqətin iki yolu toqquşmaq üzrəykən havada gözləntilər guruldayırdı. Toplaşanlar bu görüşün onların həyatlarını əbədi olaraq dəyişdirəcəyini və hekayələrini müqəddəs mətnə ​​həkk edəcəyini bilmirdilər.",
+  "clues": [
+    "Biz illüziyalardakı bacarığımızla məşhur idik və güclü bir hökmdar tərəfindən rəqiblə qarşılaşmaq üçün toplanmışdıq.",
+    "Vaxt gələndə alətlərimizi səsləndirdik və sənətimizə inamla nəticəni gözlədik.",
+    "Amma şahidi olduğumuz şeylər öz cihazlarımızı sadəcə oyuncaq kimi göstərdi və qəlblərimiz danılmaz həqiqəti dərk etdi.",
+    "Hökmdarın qəzəbinə baxmayaraq, Musa və Harunun Rəbbinə iman gətirdiyimizi bəyan edərək səcdəyə düşdük.",
+    "Həmin hökmdar bizi ən amansız cəza ilə hədələdi, çarmıxa çəkəcəyimizə və bədən üzvlərimizi əks istiqamətdə kəsəcəyimizə and içdi.",
+    "Biz möhkəm dayandıq, Rəbbimizin hökmünü hər hansı dünyəvi nəticədən üstün tutduğumuzu dedik və imanımız uğrunda şəhid olduq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Fironun sehrbazları",
+        "Mağara Əhli",
+        "Meşə Əhli",
+        "İsanın şagirdləri",
+        "Fil xalqı"
+      ],
+      "answer": "Fironun sehrbazları"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Musaya qarşı sehr yarışması",
+        "Onların üzərinə atılan od",
+        "Onları boğan bir sel",
+        "Quraqlıq və aclıq",
+        "Zəlzələ"
+      ],
+      "answer": "Musaya qarşı sehr yarışması"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "İlanlara çevrilən çubuqlar və iplər",
+        "Yanan bir kol",
+        "Dişi dəvə",
+        "Taxta sandıq",
+        "Balina"
+      ],
+      "answer": "İlanlara çevrilən çubuqlar və iplər"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "İman üçün edam edildi, Cənnət vəd edildi",
+        "Dənizdə boğuldu",
+        "Misirin hökmdarları oldu",
+        "Fironun davamçıları qaldılar",
+        "Torpağı miras aldı"
+      ],
+      "answer": "İman üçün edam edildi, Cənnət vəd edildi"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

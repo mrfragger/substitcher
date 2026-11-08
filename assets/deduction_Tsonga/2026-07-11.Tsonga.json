@@ -1,0 +1,61 @@
+{
+  "title": "Vafambi va nsimu leyi nga ni rihlaza",
+  "intro": "Enkarhini wa khale, vanhu vambirhi a va hlayisa matiko lama nga ekusuhi. Tindlela ta vona a ti hlanganisiwe, hambiswiritano timbilu ta vona ti va yise etindhawini leti hambaneke swinene. Un’wana u fambe endleleni yo kongoma, kasi un’wana u hambukile emunyameni wa ku landzula. Xana u nga paluxa xihundla xa vahlayisi lava vambirhi va ntshovelo?",
+  "clues": [
+    "A ndzi ri ni swibyariwa swo tala, ntshovelo wo saseka lowu a wu pfilunganya mahlo ya vahlaleri.",
+    "Muakelani wa mina a a ri ni nyiko leyikulu swinene ku tlula mina, hambiswiritano a ndzi navela xiphemu xa vona ku tlula xa mina.",
+    "Ndzi ringanyete leswaku hi herisa swibyariwa swa vona hi ku helela, leswaku hi hlanganisa hinkwaswo leswi nga ehansi ka vulawuri bya mina.",
+    "Ndzi tise ku onhaka eka ntshovelo wa mina na wona, ndzi lovisa hinkwaswo eka makungu ya mina ya vuphukuphuku.",
+    "Ndzi yime ndzi nga pfuni nchumu loko swibyariwa swa mina swi ri karhi swi oma naswona rifuwo ra mina ri hundzuka ntshuri hi vusiku byin’we.",
+    "A ndzi nga ri na xiphemu eka Vuavanyisi, naswona vutshamo bya mina byo hetelela byi hundzuke mugodi wa ndzilo lowu pfurhaka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Wanuna loyi a aleke ku pfuka ni ku avanyisa",
+        "Mufumi loyi a a tshikilela murimi wo lulama",
+        "N’wini wa misava la fuweke loyi a a pfumala ku tlangela",
+        "Murimi loyi a a navela misava ya muakelani wa vona",
+        "Munghana wa vukanganyisi loyi a endleke rhengu ro lovisa"
+      ],
+      "answer": "Murimi loyi a a navela misava ya muakelani wa vona"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Ndzingo wa ku amukela nhlavutelo ya Xikwembu",
+        "Ntlhontlho wa rifuwo ni ku lehisa mbilu",
+        "Ndzingo wo onha vutomi bya munhu wo lulama",
+        "Xileriso xo avanyisa ndzhaka hi ndlela leyinene",
+        "Ku lwisana ni ku tshikileriwa ka mufumi wa tihanyi"
+      ],
+      "answer": "Ndzingo wo onha vutomi bya munhu wo lulama"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Tijarateni ta rihlaza ta paradeyisi",
+        "Masimu mambirhi lama nga ekusuhi ya swibyariwa",
+        "Tintshava leti voneke ku lovisiwa",
+        "Ndhawu yo kwetsima yo kwetsima ya Makkah",
+        "Matlhelo ya milambu ya tiko leri katekisiweke"
+      ],
+      "answer": "Masimu mambirhi lama nga ekusuhi ya swibyariwa"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Paradeyisi leyi nga heriki tanihi hakelo ya ku lulama",
+        "Ku lovisiwa loku heleleke ka ntshovelo lowumbirhi evuton’wini lebyi",
+        "Ku hlongoriwa ni ku famba-famba ku fikela eku feni",
+        "Ku humelela ka xinkarhana loku landzeriwaka hi ndzilo lowu nga heriki",
+        "Ku vuyeteriwa ka singita ni ku nyikiwa ka nyiko kambirhi"
+      ],
+      "answer": "Ku lovisiwa loku heleleke ka ntshovelo lowumbirhi evuton’wini lebyi"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

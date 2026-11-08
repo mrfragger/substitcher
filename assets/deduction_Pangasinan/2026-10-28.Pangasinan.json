@@ -1,0 +1,61 @@
+{
+  "title": "Sakey a sipan ya imbaga ed tapew na apoy",
+  "intro": "Manalalagey ka ed abay na apoy ed desierto legan ya maalwar ya ibubuntok iray ngalab to. Saray bisita et onsabi parad sakey a pantitipon ed kareenan, tan sakey a mensahe so mangilukas na istorya na sipan, pankelaw, tan arapen ya agni nasumpal.",
+  "clues": [
+    "Binmaliw kami ed arawi pian makasabi ed sakey a matoor a lingkor diad desierto.",
+    "Kinerew mi ya ikayat iray ngalab pian makapanparaan na apoy.",
+    "Akatongtong mi so sakey ya tinmawag ed ngalab parad kaligenan tan kaligenan.",
+    "Inawit mi so balita nipaakar ed sakey a kapangiyanak ed sakey a toon linmampas la ed edad na pananak.",
+    "Inngaran mi na insipan ya ugaw ya Isaac.",
+    "Angitarok kami na maliket a balita nipaakar ed sakey ya anak a laki ed si Ibrahim, tan say makapakelkelaw a balita so amaliket ed si Ibrahim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siopa ak?",
+      "options": [
+        "Saray Anghel ya Angitarok na Maliket a Balita nipaakar ed si Isaac ed si Ibrahim",
+        "Saray Anghel ya Angipasakbay ed si Lut",
+        "Saray Anghel ya Man-awit na Trono",
+        "Saray Anghel na Impierno",
+        "Saray Anghel ya Imbaki ed si Noe"
+      ],
+      "answer": "Saray Anghel ya Angitarok na Maliket a Balita nipaakar ed si Isaac ed si Ibrahim"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Angitarok na maliket a balita nipaakar ed inkianak nen Isaac ed si Ibrahim",
+        "Pasakbay ed si Lut sakbay na dusa ed saray totoo to",
+        "Ipapaamta so inkianak nen Yahya ed si Zakariyya",
+        "Man-awit na Trono ed Agew na Panangukom",
+        "Ipapaamta so inkianak nen Isa ed si Maryam"
+      ],
+      "answer": "Angitarok na maliket a balita nipaakar ed inkianak nen Isaac ed si Ibrahim"
+    },
+    "location": {
+      "label": "Manunan Elemento",
+      "options": [
+        "Sakey ya apoy ya imparaan manlapud nitaytayak iran apoy",
+        "Sakey a biong ya onleletaw ed delap",
+        "Sakey ya ungib ya asaraan na sakey a manbabaroy a bato",
+        "Sakey a palandey na pitek ya pinaawet na asin",
+        "Sakey a takayan ya onnatnat ed tawen"
+      ],
+      "answer": "Sakey ya apoy ya imparaan manlapud nitaytayak iran apoy"
+    },
+    "outcome": {
+      "label": "Pansumpalan",
+      "options": [
+        "Maliket a balita nipaakar ed sakey ya anak a manngaran na Isaac",
+        "Maliket a balita nipaakar ed sakey ya anak a laki ya manngaran na Yahya",
+        "Say impamili ed si Talut bilang manuley ed saray Anak na Israel",
+        "Sakey a pasakbay antis na dusa ed saray totoo nen Lut",
+        "Ganggan ya manggaway biong antis na Delap"
+      ],
+      "answer": "Maliket a balita nipaakar ed sakey ya anak a manngaran na Isaac"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

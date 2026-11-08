@@ -1,0 +1,61 @@
+{
+  "title": "Nënshtrimi i Madh i Sovranit",
+  "intro": "E gjen veten në një vend mrekullish të lashta dhe zbulesash të thella. Një sundimtare e fuqishme, e përballur me një ftesë të papritur, nis një udhëtim që do të ndryshonte rrjedhën e fatit të saj dhe besimin e popullit të saj. A mund ta zbulosh identitetin e kësaj figure madhështore?",
+  "clues": [
+    "Unë sundova mbi një mbretëri të begatë, të stolisur me pasuri të jashtëzakonshme dhe një fron madhështor.",
+    "Unë dhe populli im adhuronim një trup qiellor, duke besuar se ishte Zoti ynë, megjithëse unë mbaja dyshime në zemrën time.",
+    "Një lajmëtar i veçantë, një zog, më solli një letër, duke më thirrur mua dhe popullin tim që t’i nënshtrohemi një Zoti të Vetëm.",
+    "U konsultova me këshilltarët e mi, të cilët ishin të fuqishëm, se si t'i përgjigjesha këtij mesazhi të paprecedentë.",
+    "Vendosa t’i dërgoja një dhuratë të vlefshme atij që më dërgoi letrën, duke shpresuar të vlerësoja fuqinë dhe qëllimet e tij.",
+    "Me të mbërritur, u habita nga një pallat me dysheme prej qelqi, që dukej si një pellg uji, dhe pikërisht atëherë shpalla nënshtrimin tim ndaj Zotit të gjithë krijimit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Faraoni",
+        "Mbretëresha e Shebës",
+        "Dhu al-Qarnayn",
+        "Luqman",
+        "Profeti Jusuf"
+      ],
+      "answer": "Mbretëresha e Shebës"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Ndarja e detit",
+        "Përmbytja e madhe",
+        "Udhëtimi për të takuar Profetin Sulejman",
+        "Shkatërrimi i popullit të Lutit",
+        "Djegia e Profetit Ibrahim"
+      ],
+      "answer": "Udhëtimi për të takuar Profetin Sulejman"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Arka",
+        "Stafi",
+        "Froni",
+        "Mali",
+        "Zjarri"
+      ],
+      "answer": "Froni"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U bë profet",
+        "U shkatërrua nga Allahu",
+        "Përqafoi Islamin",
+        "I çoi njerëzit e saj në luftë",
+        "Ndërtoi një tempull madhështor"
+      ],
+      "answer": "Përqafoi Islamin"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

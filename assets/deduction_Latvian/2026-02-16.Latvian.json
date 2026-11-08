@@ -1,0 +1,61 @@
+{
+  "title": "Absolūtās autoritātes apgalvojums",
+  "intro": "Senatnē kāda varena persona ieguva varu pār plašu zemi un tās iedzīvotājiem. Šīs personas valdīšanas laiku iezīmēja milzīgs lepnums un dziļa dievišķās autoritātes izaicināšana. Sagatavojieties atklāt dvēseles identitāti, kuras galīgais liktenis kļuva par paliekošu mācību visām paaudzēm.",
+  "clues": [
+    "Es valdīju pār varenu impēriju, kur mans vārds bija likums.",
+    "Es pasludināju sevi par augstāko dievību, pieprasot pielūgsmi no visiem man pakļautajiem.",
+    "Es apspiedu noteiktu kopienu, paverdzinot to un pavēlot nogalināt viņu zīdaiņus zēnus.",
+    "Mani atkārtoti konfrontēja pazemīgs Dieva vēstnesis, kurš manā un manu burvju priekšā veica nepārprotamus brīnumus.",
+    "Es spītīgi noraidīju patiesību, apsūdzot vēstnesi burvestībās un plānojot viņu un viņa sekotājus iznīcināt.",
+    "Visa mana armija un es bijām jūras iegrimuši, kamēr mēs nenogurstoši vajājām tos, kas bija atbrīvoti no manas tvēriena."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Nimrods",
+        "Abu Džahls",
+        "Iblis",
+        "Fir'awn",
+        "Hamans"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Lielie plūdi",
+        "Degošā uguns",
+        "Apspiedēja noslīkšana",
+        "Vēja iznīcināšana",
+        "Neticības zemestrīce"
+      ],
+      "answer": "Apspiedēja noslīkšana"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Noasa šķirsts",
+        "Mozus spieķis",
+        "Zelta elks",
+        "Zamzama aka",
+        "Bilkiša tronis"
+      ],
+      "answer": "Mozus spieķis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Piešķirta plaša valstība",
+        "Ķermenis saglabāts kā zīme",
+        "Piedots pēc grēku nožēlas",
+        "Pacelts pravieša amatā",
+        "Viņa ļaudis kļuva dievbijīgi"
+      ],
+      "answer": "Ķermenis saglabāts kā zīme"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Qui Suram Meruit",
+  "intro": "Finge animam humilem ad unum ex Nuntiis Dei accedentem corde pleno sinceritate et profundo desiderio discendi. Attamen eo ipso momento, homo dives et status attentionem Nuntii cepit, et frontem contraxit quaerentem. Quod secutum est nihil minus quam totum caput Corani, missum ad corrigendum Nuntium et honorandam animam quae quaerebat.",
+  "clues": [
+    "Ad Nuntium Dei veni corde aperto et profundo desiderio ducendi.",
+    "Nullum statum mundanum offerre poteram, sed animam humilem veritatem quaerentem.",
+    "Oculi mei corporales videre non poterant, sed visio mea spiritualis clara erat",
+    "Incommodo tempore adveni, cum Nuntius viro magnae auctoritatis occupatus esset.",
+    "Frontem torvum ad me verti, sed Deus divina correctione respondit.",
+    "Ego sum Abdullah ibn Umm Maktum, comes devotus, cuius fabulam Surah Abasa inspiravit"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rabah",
+        "Mu'adh ibn Jabal",
+        "Zayd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Iudicium / Eventum",
+      "options": [
+        "A Propheta propter divitem repudiatus",
+        "Ab inimicis in ignem furentem conici",
+        "Venditus et persecutus ut servus",
+        "Ad duellos a forti bellatore provocatus",
+        "Ab magno pisce deglutitus"
+      ],
+      "answer": "A Propheta propter divitem repudiatus"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Caput Coranicum incipiens fronte corrugata (Surah Abasa)",
+        "Ignis refrigeratus et tutus factus",
+        "Baculus qui magnum mare scindit",
+        "Arca super montem excelsum aedificata",
+        "Avis ex argilla indurata formata"
+      ],
+      "answer": "Caput Coranicum incipiens fronte corrugata (Surah Abasa)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Deus suram Coranicam me defendentem revelavit.",
+        "Deus ignem mihi frigidum et tutum reddidit.",
+        "Deus mare divisit ut me a persecutione servaret",
+        "Deus mihi regnum magnum et sapientiam dedit.",
+        "Deus me sine morte in caelum duxit"
+      ],
+      "answer": "Deus suram Coranicam me defendentem revelavit."
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

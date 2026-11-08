@@ -1,0 +1,61 @@
+{
+  "title": "O aviso sob a terra",
+  "intro": "Imagine-se ao lado de uma escavação profunda enquanto vozes se elevam de baixo e o mundo acima silencia. O Alcorão preserva essa cena como um aviso: uma comunidade rejeita o que os mensageiros trazem, o castigo se aproxima, e até mesmo o seu clamor se torna parte do testemunho. Que coletivo se manifesta através desses versículos?",
+  "clues": [
+    "No Alcorão, somos lembrados como um coletivo definido por um destino comum, e não por um nome individual.",
+    "Rejeitamos a mensagem trazida pelos mensageiros, embora o que eles disseram fosse verdade.",
+    "Nossa identidade, que lembramos, está ligada a um profundo corte na terra, e essa característica se tornou parte do nosso nome.",
+    "No dia marcado, fomos trazidos para fora e arrastados em direção ao fogo.",
+    "Não pudemos nos defender da punição, e não pudemos ouvir seu rugido.",
+    "Nossos rostos seriam voltados para o fogo, e seríamos impelidos a entrar nele; quando questionados, diríamos que estávamos entre aqueles que não podiam responder."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Os Companheiros da Trincheira",
+        "A Nação Libertada do Grande Dilúvio",
+        "Os adoradores do bezerro de ouro",
+        "O grupo abrigou-se dentro da caverna da montanha.",
+        "A comunidade libertada da fornalha ardente"
+      ],
+      "answer": "Os Companheiros da Trincheira"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Arrastado e lançado ao fogo",
+        "Trazido de uma fornalha ardente",
+        "Transportados em segurança através de uma grande inundação",
+        "Protegido durante séculos dentro de uma caverna",
+        "Resgatado após ser jogado em um poço"
+      ],
+      "answer": "Arrastado e lançado ao fogo"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma trincheira ou fosso",
+        "Um grande mar",
+        "Uma caverna na montanha",
+        "Um palácio imponente",
+        "Um poço no deserto"
+      ],
+      "answer": "Uma trincheira ou fosso"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Incapazes de se defender e incapazes de ouvir o rugido do fogo.",
+        "Resgatado e admitido nos jardins eternos",
+        "Entregue em segurança, mesmo em meio a uma enchente devastadora.",
+        "Protegido por um longo sono dentro de uma caverna",
+        "Honrado com um reino eterno"
+      ],
+      "answer": "Incapazes de se defender e incapazes de ouvir o rugido do fogo."
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

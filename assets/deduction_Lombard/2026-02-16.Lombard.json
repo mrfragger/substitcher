@@ -1,0 +1,61 @@
+{
+  "title": "La rivendicaziun de autorità assoluta",
+  "intro": "In di temp vècc, un individuo pudent l’è saltà sü per dominar una vasta terra e süi sò abitant. El regn de chesta figüra l’è stà segnà de un immens orgœuj e de una prufunda sfida a l’autorità divina. Preparass a descüvrir l’identidà de un’anema che el sò destin l’è diventà una leziun che dura per tüt i generaziun.",
+  "clues": [
+    "Ho tegnü el puder sü ün impero putent, indue la me parola l’era la legg.",
+    "Me son dichiarad la divinitaa suprema, domandand el cult de tuts qe sota el me domini.",
+    "Ho oppress una comunità specifica, e ho fad diventad schiavi e ho urdinad de copà i sò neonat.",
+    "Sun stà afruntà püsee volt de un umil messagger de Dio, che g’ha fatt di miracul ciar davaant a mi e ai me magh.",
+    "Ho refudad la verità, acusand el messagger de stregoneria e tramand per destrugar lü e i sò seguiti.",
+    "Tut el me esercit e mi serem stad inglutì del mar mentre seguivom senza pietà quei che l’eran stad liberà da la mia presa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Nimrod",
+        "Abu Jahl",
+        "Iblis",
+        "Fir'awn",
+        "Aman"
+      ],
+      "answer": "Fir'awn"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "El Grand Diluvio",
+        "El fœg brüsant",
+        "L'annegament de l'opressur",
+        "La distruziun del vent",
+        "El terremot de la incredulità"
+      ],
+      "answer": "L'annegament de l'opressur"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "L'Arca de Noè",
+        "El Baston de Mosé",
+        "L'Idol d'Or",
+        "El pozz de Zamzam",
+        "El Tron de Bilqis"
+      ],
+      "answer": "El Baston de Mosé"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Concedü un vast regn",
+        "Corp cunservà cuma segn",
+        "Perdunà dopu el pentiment",
+        "Elevà a la profezia",
+        "El sò popul l’è diventà pia"
+      ],
+      "answer": "Corp cunservà cuma segn"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

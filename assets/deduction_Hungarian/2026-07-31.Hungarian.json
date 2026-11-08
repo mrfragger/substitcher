@@ -1,0 +1,61 @@
+{
+  "title": "A trónhoz érő visszhang",
+  "intro": "Egy megterhelt alak közeledett az igazságszolgáltatás székéhez, hangja nem félelemtől, hanem reménytől remegett. Az ügy személyes volt, de a megoldása idővel visszhangozni fog, lerombolva egy elnyomó hagyományt. Ki volt ez a lélek, akinek a panasza a csillagokon túl is hallatszott?",
+  "clues": [
+    "Nehéz szívvel jöttem, igazságot keresve egy olyan ügyben, ami megbénította a nyelvemet.",
+    "A könyörgésem nemcsak egy hírnökhöz szólt; felemelkedett azon túlra, Ahhoz, aki mindent hall.",
+    "Az ellenem kimondott szavak olyanok voltak, mint a régmúlt láncai.",
+    "Könnyekkel és logikával érveltem és érveltem a méltóságomért.",
+    "Egy kinyilatkoztatás szállt alá, elnémítva a régi szokásokat és elismerve a fájdalmamat.",
+    "Engem hívtak annak, aki vitatkozott a férjemről, és a nevem egyet jelentett azzal a fejezettel, amely felszabadított."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Imran felesége (Maryam anyja)",
+        "A nő, aki vitatkozott a férjéről (Khawla bint Tha'laba)",
+        "Sába királynője (Bilkisz)",
+        "Mózes anyja",
+        "A fáraó felesége (Ászija)"
+      ],
+      "answer": "A nő, aki vitatkozott a férjéről (Khawla bint Tha'laba)"
+    },
+    "trial": {
+      "label": "A próba vagy esemény",
+      "options": [
+        "Hamisan vádolták erkölcstelenséggel",
+        "Meddő volt és gyermekre vágyott",
+        "Nyomasztó válási szokással nézett szembe",
+        "Királynő volt, aki egy prófétával tárgyalt",
+        "Elrejtette gyermekét egy zsarnok elől"
+      ],
+      "answer": "Nyomasztó válási szokással nézett szembe"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy aranyborjú",
+        "Egy csodálatos trón",
+        "A Zihar gyakorlata",
+        "Egy kosár a folyóban",
+        "Szent odaadási fogadalom"
+      ],
+      "answer": "A Zihar gyakorlata"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Idős korában gyermekkel áldotta meg",
+        "Megmentették a fulladástól",
+        "Isteni kinyilatkoztatást kapott, amely eltörölte a szokást",
+        "Egy próba után királynő lett",
+        "Fiút kapott, aki próféta lett"
+      ],
+      "answer": "Isteni kinyilatkoztatást kapott, amely eltörölte a szokást"
+    }
+  },
+  "verseRef": "58:1",
+  "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+  "verse": "Certainly has Allāh heard the speech of the one who argues [i.e., pleads] with you, [O Muḥammad], concerning her husband and directs her complaint to Allāh. And Allāh hears your dialogue; indeed, Allāh is Hearing and Seeing. (58:1)"
+}

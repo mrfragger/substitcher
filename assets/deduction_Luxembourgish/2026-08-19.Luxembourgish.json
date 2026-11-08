@@ -1,0 +1,61 @@
+{
+  "title": "D'Natioun, déi der natierlecher Uerdnung trotzgeschloen huet",
+  "intro": "An enger Regioun, där hir Geschicht duerch d'Jore widderhallt, huet eng Gemeinschaft an oppener Rebellioun géint d'Gesetzer vun der Rengheet gelieft. Hir Dote ware sou ongehéiert, datt se als Warnung fir déi ganz Mënschheet an Erënnerung bleiwen. Wien waren dës Séilen, a wéi e Schicksal huet se iwwerholl?",
+  "clues": [
+    "Mir hunn an engem Land gewunnt, deen op enger Streck läit, déi Reesender dacks duerchgaange sinn, awer mir hunn hir Rees geféierlech gemaach.",
+    "Mir hunn sou Akte vun Onanstännegkeet begaangen, déi nach keen op der Welt jee virdru gemaach hat.",
+    "E Bote vun eis huet eis geruff, eis Weeër opzeginn, awer mir hunn hien ofgeleent a gefuerdert, datt mir eis bestrooft hätten, wann hie wouer wier.",
+    "Wéi schéin Gäscht an eis Stad koumen, hu mir probéiert se unzegräifen, ouni ze wëssen, datt si Bote vun der Zerstéierung waren.",
+    "Mir goufe virun enger schrecklecher Strof gewarnt, wa mir net ophalen, awer mir hunn d'Warnung verspott a sinn an eiser Sënn bliwwen.",
+    "E Reen vu Steng vum Himmel ass op eis gefall, an eis Haiser goufen ëmgekippt, ouni eng Spuer ze hannerloossen ausser engem Zeechen fir déi, déi nodenken."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Leit vu Lut",
+        "Leit vun Thamud",
+        "D'Leit vun A'ad",
+        "D'Leit vu Madyan",
+        "D'Leit vu Saba"
+      ],
+      "answer": "Leit vu Lut"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Hunn ongehéiert Onmoral begaangen a Stroossen verstoppt",
+        "Huet e gëllene Kalb veréiert",
+        "Huet dat hellegt Kamel ëmbruecht",
+        "Am Handel bedrunn an d'Leit verknallt",
+        "En héijen Tuerm gebaut fir den Himmel erauszefuerderen"
+      ],
+      "answer": "Hunn ongehéiert Onmoral begaangen a Stroossen verstoppt"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Engelen verkleet als schéin Gäscht",
+        "E Kamel, dat aus engem Fiels erauskënnt",
+        "E Staff, deen sech an eng Schlaang verwandelt",
+        "E Boot, dat op engem Bierg gebaut gouf",
+        "E Feier, dat kill a friddlech gouf"
+      ],
+      "answer": "Engelen verkleet als schéin Gäscht"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Zerstéiert vun engem Reen vu Steng vum Himmel",
+        "Vun der Äerd verschléckt",
+        "An enger grousser Iwwerschwemmung erdronk",
+        "Vun engem schreienden Explosioun getraff",
+        "An Affen transforméiert"
+      ],
+      "answer": "Zerstéiert vun engem Reen vu Steng vum Himmel"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

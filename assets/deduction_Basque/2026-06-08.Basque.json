@@ -1,0 +1,61 @@
+{
+  "title": "Santutegiko Erregutzailea",
+  "intro": "Gaueko ordu lasaietan, arima deboto batek Errukitsuenari dei egin zion leku sakratu bateko horma santuen barruan. Urteetako fede eta pazientzia irmoak poza eta profeta izateko ondarea ekarriko zuen mirari batekin sarituko ziren.",
+  "clues": [
+    "Santutegi santu batean debozioan eman nituen egunak eta gauak, etengabe Jaunari otoitz eginez.",
+    "Zahartu nintzen, eta nire emaztea antzua zen, baina ez nuen inoiz galdu Allahren errukian itxaropena.",
+    "Yahya izeneko seme bat eman zidaten, profeta eta zuzentasunaren itsasargi bihurtu zena.",
+    "Ni neu profeta nintzen, Israelgo seme-alabak gidatzeko bidalia.",
+    "Harun profetaren ondorengoa nintzen eta tenpluan apaiz gisa zerbitzatu nuen.",
+    "Maryam, Isaren ama, zaintzeaz arduratu nintzen eta haren mirarien lekuko izan nintzen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Zakariyya profeta",
+        "Yahya profeta",
+        "Ilyas profeta",
+        "Ishaq profeta",
+        "Ya'qub profeta"
+      ],
+      "answer": "Zakariyya profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Zahartzaroan seme bat eman zion",
+        "Sute bizitik salbatua",
+        "Arrain baten sabeletik erreskatatua",
+        "Uholde handi batetik bizirik atera zen",
+        "Gaixotasun larri batetik sendatuta."
+      ],
+      "answer": "Zahartzaroan seme bat eman zion"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Mihraba (otoitz-nitxoa)",
+        "Kaaba",
+        "Sasi Erretzailea",
+        "Itunaren Arka",
+        "Zazpi Lotiren Kobazuloa"
+      ],
+      "answer": "Mihraba (otoitz-nitxoa)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Profeta bihurtu zen seme zuzen bat eman zitzaion",
+        "Ekaitz bortitz batek suntsitu zuen",
+        "Itsasoan itota.",
+        "Erretzetik salbatua.",
+        "Arrain batetik salbatu ondoren, beren herrira itzuli ziren"
+      ],
+      "answer": "Profeta bihurtu zen seme zuzen bat eman zitzaion"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

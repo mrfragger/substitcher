@@ -1,0 +1,61 @@
+{
+  "title": "Melodie bi yëngal tundu yi",
+  "intro": "Danga bëgga fësal jaar-jaaru benn jaamu Yàlla bu yéeme. Ci réewu ndaw yi ak njiit yi, nit ki dañu ko barkeel ci téere bu Yàlla jox, baat bu am doole, ak doole ju ëpp wen. Sooy jàng tegtal yi, ndax mën nga xam kan lay wax?",
+  "clues": [
+    "Jaamu Yàlla laa woon ñu jox téere bu amul fenn.",
+    "Amoon naa baat bu neex, te sama gëdd neexoon na lool ba sax tundu yi ak picc yi ànd ak man.",
+    "Dama jànkoonte ak noon bu mag ci xare bu siiw, te doonte maa ngi gëna ndaw, maa daan.",
+    "Dañu defar wen wu yomb, loolu tax ma mëna defar ay gànnaay ak samay loxo.",
+    "Ñu def ma kilifag réew mu mag, te sama xam-xam ci àtte siiw na.",
+    "Sama doom, moom itam yonent la, ñu may ko mu yor ngelaw li ak jinn yi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Dawud (Dawuda)",
+        "Suleymaan (Sulaymaan)",
+        "Yonent bi Musa (Musaa)",
+        "Harun (Aaron)",
+        "Ilyas (Iliyas)"
+      ],
+      "answer": "Dawud (Dawuda)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Jalut",
+        "Xaajale géej gi",
+        "Mucc na ci baleine bi",
+        "Dañu ko sànni ci safara",
+        "Tabax nañu gaal gi"
+      ],
+      "answer": "Jalut"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Zabur (Psaume)",
+        "Tawrat (Tawrat)",
+        "Xebaar bu baax bi (Injil)",
+        "Rolo de Ibrahim",
+        "Al Qur'an"
+      ],
+      "answer": "Zabur (Psaume)"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Nekk na yonent ak buur ci Israyil",
+        "Nekk na njiitu Egypt",
+        "Ñu yéegal ko ci asamaan si",
+        "Dafa yàqu ci taw",
+        "Nekk na àndadoo ci grotte"
+      ],
+      "answer": "Nekk na yonent ak buur ci Israyil"
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

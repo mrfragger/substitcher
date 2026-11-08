@@ -1,0 +1,61 @@
+{
+  "title": "Yashirin donolikning xizmatkori",
+  "intro": "Qur'on rivoyatlarining ulkan gobelenlarida sirli bir shaxs, ilohiy bilim va rahm-shafqat bilan baraka topgan Allohning bandasi turibdi. Bu sirli shaxs eng buyuk payg'ambarlardan biri bilan uchrashib, inson tushunchasi chegaralarini shubha ostiga qo'yadigan hayratlanarli harakatlarga to'la sayohatga olib bordi. Har bir harakat, adolatsiz ko'rinsa-da, taqdir, sabr-toqat va ilohiy taqdir ortidagi ko'rinmas donolik haqida chuqur saboqlarni yashirgan edi. Bu soyali shaxs kim va ular qanday haqiqatlarni ochib berishdi?",
+  "clues": [
+    "Men Allohning maxsus ilm va rahm-shafqat uchun tanlangan bandasi edim.",
+    "Buyuk payg'ambar mendan saboq olishga harakat qildi va men qat'iy shartlar ostida rozi bo'ldim.",
+    "Uchrashuvimiz davomida men sherigimga adolatsiz tuyulgan uchta harakatni qildim.",
+    "Men kambag'allarga tegishli qayiqqa zarar yetkazdim, ammo bu yashirin rahm-shafqat edi.",
+    "Men yosh bolaning hayotini oldim, garchi bu shafqatsiz bo'lib tuyulsa-da, ota-onasining qayg'usidan qutulish uchun edi.",
+    "Bizni mehmondo'stlikdan mahrum qilgan shaharda devorni qayta qurdim va uning tagida xazina borligini ko'rsatdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Xizr (solih banda)",
+        "Ikki bog'ning egasi",
+        "G'or ahlidan biri",
+        "Ibrohim bilan bahslashgan podshoh",
+        "100 yil uxlagan odam"
+      ],
+      "answer": "Xizr (solih banda)"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Ikki dengiz tutashgan joyda Muso payg'ambar bilan uchrashish",
+        "Ya'juj va Ma'jujga qarshi to'siq qurish",
+        "Katta olovga tashlanmoqda",
+        "Dengizni ikkiga bo'lish",
+        "Tavrot lavhalarini qabul qilish"
+      ],
+      "answer": "Ikki dengiz tutashgan joyda Muso payg'ambar bilan uchrashish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Ikki dengizning tutashgan joyi",
+        "Sinay tog'i",
+        "Savr g'ori",
+        "Tuva vodiysi",
+        "Zamzam qudug'i"
+      ],
+      "answer": "Ikki dengizning tutashgan joyi"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "U o'zining jumboqli harakatlari ortidagi ilohiy donolikni tushuntirdi va Muso bilan yo'llarini ajrashdi.",
+        "Unga safardan keyin payg'ambarlik berildi.",
+        "Qayiq bo'ron tufayli vayron bo'lgan",
+        "Bola hayotga qaytarildi",
+        "U noqulay shaharda masjid qurdi"
+      ],
+      "answer": "U o'zining jumboqli harakatlari ortidagi ilohiy donolikni tushuntirdi va Muso bilan yo'llarini ajrashdi."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

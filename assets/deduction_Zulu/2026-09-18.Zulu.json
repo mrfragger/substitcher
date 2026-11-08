@@ -1,0 +1,61 @@
+{
+  "title": "Ubizo oluvela eSigodini Esingcwele",
+  "intro": "Ngale kwamakhasi omlando kukhona indaba yomphefumulo owama phakathi kombusi onamandla nabantu bonke abagqilaziwe. Lo muntu wabizwa ukuba akhulule isizwe ebudloveni, enza izimangaliso ezaziphikisana nayo yonke imithetho yemvelo. Kusukela entabeni engcwele kuya esimangalisweni phezu kwamanzi, le nceku ka-Allah yabona izibonakaliso ezazizozwakala phakathi neminyaka. Umsebenzi wakho namuhla ukuhlonza lo muntu ophawulekayo onefa lakhe elakha inkambo yomlando wesintu.",
+  "clues": [
+    "Ngazalwa ngesikhathi lapho abantu bakithi bebhekene nesinqumo esibulalayo, futhi umndeni wami wangifaka emanzini ukuze usindise impilo yami.",
+    "Ngatholakala futhi ngakhulela endlini yombusi owayeyale ukuba kubulawe abantu bohlobo lwami.",
+    "Ngabalekela entabeni engcwele lapho ngabona khona umlilo phezu kwesihlahla esingashiswanga, futhi izwi lakhuluma kimi livela kuyo.",
+    "Ngabuyiselwa kulowo mbusi kanye nezimangaliso, ngifuna inkululeko yabantu bami abagqilaziwe.",
+    "Ngashaya ulwandle ngenduku yami, lwahlukana lwaba yizindlela ezomile, lwagwinya abaxoshayo ababelandela abantu bami.",
+    "Ngakhuluma neNkosi yami entabeni ubusuku obungamashumi amane, futhi ngaphiwa izibhebhe zesiqondiso saphezulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi uMusa",
+        "Umprofethi uHarun",
+        "Umprofethi u-Ibrahim",
+        "Umprofethi uYusuf",
+        "Umprofethi uDawud"
+      ],
+      "answer": "Umprofethi uMusa"
+    },
+    "trial": {
+      "label": "Isivivinyo Sami Esichazayo",
+      "options": [
+        "Ukuhlukaniswa Kolwandle",
+        "Ukwakha Umkhumbi Omkhulu",
+        "Ukuvivinywa Ngumlilo Ovuthayo",
+        "Ukuvalelwa Esiswini Somkhomo",
+        "Ukuboshwa Yisikhulu SaseGibhithe"
+      ],
+      "answer": "Ukuhlukaniswa Kolwandle"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Intonga Yomalusi",
+        "Umkhumbi Omkhulu Wokhuni",
+        "Umhume Lapho Isikhathi Silele Khona",
+        "Ingadi Eneziphethu Ezimbili",
+        "Isihlalo Sobukhosi Esihlotshiswe Ngegolide"
+      ],
+      "answer": "Intonga Yomalusi"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Abantu Bami Bawela Ulwandle Baya Ekuphepheni",
+        "UZamcolo Omkhulu Wabhubhisa Abangakholwa",
+        "Umlilo Womuntu Oyisitha Waphola Futhi Wathula",
+        "Ulwandle Luphonsa Abathunjwa Balo Ogwini",
+        "Isithunjwa Saba Umgcini-zimali waseGibhithe"
+      ],
+      "answer": "Abantu Bami Bawela Ulwandle Baya Ekuphepheni"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

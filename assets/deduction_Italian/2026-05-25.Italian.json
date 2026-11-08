@@ -1,0 +1,61 @@
+{
+  "title": "Il successore designato",
+  "intro": "Una figura di tempi remoti si prepara a entrare nella storia. Quando il cammino sembrava incerto e il dubbio si diffondeva tra il popolo, questo servitore fu scelto per assumere il ruolo di guida. Con il peso di una sacra missione sulle spalle, si fece avanti per condurre laddove altri esitavano a seguire.",
+  "clues": [
+    "Sono stato scelto per accompagnare un profeta e ho imparato dalla sua saggezza",
+    "Mi trovavo davanti all'Arca quando la promessa del nostro Sostenitore si avvicinava, e vidi la gente iniziare a dubitare",
+    "Mi hanno fatto stare in piedi sul confine di ciò che era stato promesso, mentre il nostro leader si addolorava e implorava Allah per noi.",
+    "Sono stato incaricato di continuare una missione che era stata affidata a un altro prima di me.",
+    "Mi è stata concessa l'autorità divina per condurre il popolo a destinazione",
+    "Sono riuscito a portare a termine ciò che era stato iniziato prima di me e ho ricevuto la conferma del popolo per la mia guida."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Yusha ibn Nun",
+        "Caleb figlio di Yefunneh",
+        "Eldad e Medad",
+        "Profeta Ezechiele (Hizqiyyal)",
+        "Profeta Harun (Aaron)"
+      ],
+      "answer": "Yusha ibn Nun"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Rifiutarsi di entrare nella Terra Santa promessa",
+        "Gli eserciti del faraone ci inseguono attraverso il mare",
+        "Il culto del vitello d'oro",
+        "Dubbio all'udire il comando della Torah",
+        "La ribellione di Dathan e Abiram"
+      ],
+      "answer": "Rifiutarsi di entrare nella Terra Santa promessa"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Il rotolo della Torah dato a Mosè",
+        "L'Arca dell'Alleanza in battaglia",
+        "L'attraversamento del fiume Giordano",
+        "Il deserto dei quarant'anni",
+        "La rivelazione del Monte Sinai"
+      ],
+      "answer": "Il rotolo della Torah dato a Mosè"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Entrare nella Terra Santa promessa",
+        "Costruire un muro di protezione contro gli invasori",
+        "Costruire un luogo sacro di culto",
+        "Annegare nell'inseguimento di coloro che negavano la verità",
+        "Distruggere gli idoli di un popolo corrotto"
+      ],
+      "answer": "Entrare nella Terra Santa promessa"
+    }
+  },
+  "verseRef": "5:21",
+  "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+  "verse": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" (5:21)"
+}

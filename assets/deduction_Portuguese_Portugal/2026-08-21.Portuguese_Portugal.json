@@ -1,0 +1,61 @@
+{
+  "title": "A Sombra por Trás do Trono",
+  "intro": "Você se encontra nos tribunais de um antigo e poderoso reino, onde um governante imponente se proclamou um deus sobre todo o povo. Ao lado desse governante está um servo devotado, encarregado das maiores ambições do reino. Juntos, eles tramam e planejam, ignorando os avisos de um mensageiro enviado para guiá-los. Você conseguirá descobrir quem era esse servo leal?",
+  "clues": [
+    "Eu vivia em um reino poderoso governado por uma figura imponente que se declarava divina sobre todo o povo.",
+    "Eu servi como ministro de confiança deste governante, executando todas as suas ambições e ordens.",
+    "Quando um mensageiro de Alá chegou à nossa terra chamando-nos à verdade, meu governante e eu nos recusamos a ouvi-lo.",
+    "Recebi a ordem de acender uma grande fogueira e preparar tijolos de barro para uma grande construção.",
+    "Meu governante queria erguer uma estrutura tão imponente que alcançasse os próprios céus.",
+    "No fim, meu governante, nossos exércitos e eu fomos arrastados e afogados nas profundezas do mar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "Haman",
+        "Dhul-Kifl",
+        "Jibreel",
+        "Mikail",
+        "Harut"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "Construindo uma torre para alcançar os céus",
+        "Ser lançado em um fogo ardente",
+        "Despertar um povo da adoração de ídolos de pedra",
+        "A divisão da lua como um sinal divino",
+        "Conquistar uma cidade poderosa por ordem divina."
+      ],
+      "answer": "Construindo uma torre para alcançar os céus"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Uma torre de tijolos de barro cozido",
+        "A barriga de uma baleia",
+        "Uma fonte sagrada no deserto",
+        "Uma sarça ardente em uma montanha sagrada",
+        "Uma arca carregando uma família escolhida"
+      ],
+      "answer": "Uma torre de tijolos de barro cozido"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado nas profundezas do mar",
+        "Levado em segurança para um palácio magnífico.",
+        "Resgatado da barriga de um grande peixe",
+        "Honrado com realeza e sabedoria divina",
+        "Reduzido a pó por um grito lancinante"
+      ],
+      "answer": "Afogado nas profundezas do mar"
+    }
+  },
+  "verseRef": "40:37",
+  "arabic": "أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًۭا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍۢ",
+  "verse": "The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar.\" And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin. (40:37)"
+}

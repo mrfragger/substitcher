@@ -1,0 +1,61 @@
+{
+  "title": "Bol Məhsulun Lənəti",
+  "intro": "Qədim bir diyarda müəyyən bir ruh onların icmasının ən varlıları arasında yer alırdı. Yer üzünün ikiqat neməti onlara ardıcıl illər ərzində gəlmişdi, ikiqat məhsul isə onların qəlbini minnətdarlıqla doldurmalı idi. Lakin faciə baş verdikdə və sahib olduqları hər şey bir gecədə əllərindən alındıqda, onların reaksiyası ruhlarının əsl mahiyyətini ortaya qoydu. Allahın nemətlərinə inamsızlığa qarşı bir xəbərdarlıq olan bu şəxsiyyətin kimliyini aşkar edə bilərsinizmi?",
+  "clues": [
+    "Mən bütün ölkədə ən bəxtiyar insanlardan biri idim, bol-bol ruzi ilə mübarək idim.",
+    "İki il ərzində iki dəfə məhsul götürdüm, amma ürəyim Rəbbimə qarşı nankorluq etdi.",
+    "Mənim üzüm, zeytun və xurma ağacları olan böyük bir bağım var idi ki, bu da Allahın lütfünün sübutu idi.",
+    "Bağım dağılanda əllərimi göylərə açıb xarabalıqlarında dayanıb taleyimə lənət oxudum.",
+    "Ümidsizlikdən əllərimi əzsəm də, Allahın belə bir itkiyə səbəb ola biləcəyini inkar edirdim.",
+    "Mənim cəzam sadəcə bağçamın itirilməsi deyil, həm də onun xarabalıqları arasında tamamilə çarəsiz qalıb heç bir köməkçi çağıra bilməməyim idi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "26-cı surədə bağ sahibi",
+        "Uzaq bir diyardan gələn iki bağın sahibi",
+        "Rifah şəhərindən varlı bir ruh",
+        "Kəhf surəsində adı çəkilən əkinçi",
+        "Şüeyb peyğəmbərin dövründən üzümçü"
+      ],
+      "answer": "26-cı surədə bağ sahibi"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Bir gecədə məhv edilmiş bir bağın itirilməsi",
+        "Yer üzünü bürüyən böyük daşqın",
+        "Həqiqi və yalançı peyğəmbərlərlə sınaqdan keçirilir",
+        "Oda atılmanın sınaq müddəti",
+        "Torpaq tərəfindən udulmağın sınağı"
+      ],
+      "answer": "Bir gecədə məhv edilmiş bir bağın itirilməsi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "İki il ərzində üzüm, zeytun və xurma ağacları məhv edilmiş bağ",
+        "Yüksək bir dağın üzərində tikilmiş gəmi",
+        "Azğın bir qövmün şəhəri",
+        "Qədim Midiyadakı bir quyu",
+        "Cənnət çayı"
+      ],
+      "answer": "İki il ərzində üzüm, zeytun və xurma ağacları məhv edilmiş bağ"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Tamamilə çarəsizlik — köməkçi olmadan məhv olmuş",
+        "Cənnətə girmək üçün dirilmə",
+        "Allahın peyğəmbəri olmaq",
+        "Böyük bir millətin liderliyi",
+        "Atəşdə əbədi cəza"
+      ],
+      "answer": "Tamamilə çarəsizlik — köməkçi olmadan məhv olmuş"
+    }
+  },
+  "verseRef": "26:42-44",
+  "verse": "He said, \"Yes, and indeed, you will then be of those near [to me].\" (26:42-44)",
+  "arabic": ""
+}

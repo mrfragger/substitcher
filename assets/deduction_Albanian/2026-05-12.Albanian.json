@@ -1,0 +1,61 @@
+{
+  "title": "Autoriteti i Paepur",
+  "intro": "Nëpër tokat e lashta, dikur një autoritet i fuqishëm sundonte, duke komanduar burime të mëdha dhe jetën e individëve të panumërt. Pavarësisht shenjave dhe paralajmërimeve të qarta, ky sundimtar zgjodhi rrugën e sfidës, duke çuar në një përballje të thellë që do të jehonte në kohë.",
+  "clues": [
+    "Unë pretendova pushtet dhe autoritet përfundimtar mbi një territor të gjerë.",
+    "Unë sfidova një lajmëtar të përulur të dërguar nga Zoti i të gjitha mbretërive.",
+    "Populli im ishte i njohur për mjeshtërinë e tij në ndërtimin e strukturave madhështore dhe për lumin që mbështeti qytetërimin tonë.",
+    "Isha dëshmitar i shumë shenjave të mrekullueshme, duke përfshirë një shkop që u shndërrua në gjarpër dhe një dorë që shkëlqente fort.",
+    "Unë refuzova të lejoja një grup skllevërish të largoheshin nga toka ime, pavarësisht urdhrave hyjnorë.",
+    "Ndjekja ime e popullit që po largohej më çoi mua dhe ushtritë e mia në zemër të një deti të ndarë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Jusuf",
+        "Mbreti Talut",
+        "Faraoni",
+        "Profeti Davud",
+        "Nemrud"
+      ],
+      "answer": "Faraoni"
+    },
+    "trial": {
+      "label": "Përballje kyçe",
+      "options": [
+        "Përmbytja që përfshiu tokën",
+        "Ndarja e detit",
+        "Shkurre që digjet",
+        "Ndërtimi i Qabes",
+        "Shkatërrimi nga një erë e fuqishme"
+      ],
+      "answer": "Ndarja e detit"
+    },
+    "location": {
+      "label": "Aspekti Përcaktues",
+      "options": [
+        "Një kafshë që flet",
+        "Një shkop dhe një dorë që shkëlqen",
+        "Një lindje e mrekullueshme",
+        "Një qilim fluturues",
+        "Një fron madhështor mbi ujë"
+      ],
+      "answer": "Një shkop dhe një dorë që shkëlqen"
+    },
+    "outcome": {
+      "label": "Fati i Fundit",
+      "options": [
+        "U ngjit në qiell",
+        "Gëlltitur nga toka",
+        "U mbyt në det",
+        "I transformuar në një majmun",
+        "Duke pasur parasysh pasurinë dhe pushtetin e jashtëzakonshëm"
+      ],
+      "answer": "U mbyt në det"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

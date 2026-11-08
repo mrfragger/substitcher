@@ -1,0 +1,61 @@
+{
+  "title": "Batlhokomedi ba Thobo ya Sephiri",
+  "intro": "Mo lefatsheng le letala, setlhopha sa batho se ne sa dira leano la sephiri se bipilwe ke lefifi. Ba ne ba na le boikaelelo bo le bongwe, mme boikaelelo jwa bone bo ne bo se tshiamo kgakala. Ba ne ba sa itse gore go ne go ba emetse go sokama ga bomodimo fa ba ntse ba robetse.",
+  "clues": [
+    "Re ne ra dira tshwetso e e tlhomameng, re akanya gore thulaganyo ya rona ga e na selabe.",
+    "Re ne re ikaeletse go tswa go sa le gale, pele ga ba bangwe ba ka tlhotlhorega.",
+    "Re ne ra tlhoma setsha se se nonneng, re tlhomamisegile ka dijo tsa rona.",
+    "Fa re fitlha kwa re neng re ya gone, re ne ra fitlhela go se na sepe e bile go se na sepe, ka jalo re ne ra akanya gore re latlhegetswe ke tsela.",
+    "Ke gone re neng ra lemoga gore eleruri ke lefelo la rona, mme re ne ra lela ka go itlhoboga, re pegana molato wa go latlhegelwa ke rona.",
+    "Re ne re ikanne mosong oo go kgaphela bahumanegi kwa thoko mo thobong ya rona, mme kotlhao ya ga Allah e ne ya re wela fa re robetse, ya fetola tshingwana ya rona go nna tshenyo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Re Bomang?",
+      "options": [
+        "Beng ba Tshingwana mo go Surah 68",
+        "Batho ba Saba",
+        "Batsala ba Logaga",
+        "Batho ba Tlou",
+        "Batho ba Mosele"
+      ],
+      "answer": "Beng ba Tshingwana mo go Surah 68"
+    },
+    "trial": {
+      "label": "Teko ya Rona",
+      "options": [
+        "Tshingwana ya rona e ne ya senngwa ke masetlapelo a a tswang kwa loaping",
+        "Tshingwana ya rona e ne ya gogolwa ke morwalela",
+        "Tshingwana ya rona e ne ya fisiwa ke molelo wa mmaba",
+        "Tshingwana ya rona e ne e tletse tsie .",
+        "Tshingwana ya rona e ne ya mediwa ke thoromo ya lefatshe"
+      ],
+      "answer": "Tshingwana ya rona e ne ya senngwa ke masetlapelo a a tswang kwa loaping"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Re ne ra ikana gore re tla kgetla maungo a yone mo mosong",
+        "Re ne ra aga letamo go nosetsa tshingwana ya rona",
+        "Re ne ra batla botshabelo mo logageng gore re itshireletse",
+        "Re ne ra baakanyetsa mophato wa masole go gapa bogosi bongwe",
+        "Re ne ra tsamaisa sekepe go kgabaganya lewatle"
+      ],
+      "answer": "Re ne ra ikana gore re tla kgetla maungo a yone mo mosong"
+    },
+    "outcome": {
+      "label": "Phelelo ya Rona",
+      "options": [
+        "Re ne ra ikwatlhaya mme ra solofela kutlwelobotlhoko go tswa go Allah",
+        "Re ne ra senyega gotlhelele mme ra se ka ra ikwatlhaya",
+        "Re ne ra tshaba mo nageng mme ra se ka ra tlhola re boa",
+        "Re ne ra nna maatla le go huma gape",
+        "Re ne ra otlhaiwa ka go fetolwa ditshwene ."
+      ],
+      "answer": "Re ne ra ikwatlhaya mme ra solofela kutlwelobotlhoko go tswa go Allah"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

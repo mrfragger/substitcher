@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tinig ng Pagsuway",
+  "intro": "Matagal bago pa man lumakad ang unang tao sa mundo, isang nilalang na may napakalaking kapangyarihan ang nakatayo sa isang kaharian ng perpektong kapayapaan, na napapalibutan ng mga pinakamatapat na kaluluwa. Kapag ang isang utos ay ibinigay, bawat tinig ay yumuyuko bilang pagsuko—ngunit isang tinig ang tumataas bilang pagsuway, at ang pagsuway na iyon ay aalingawngaw sa bawat panahon hanggang sa huling Araw. Sino ang nahulog na nilalang na ito?",
+  "clues": [
+    "Ako ay nilikha mula sa isang bagay na nagliliyab nang maliwanag, habang ang iba sa tabi ko ay nabuo mula sa kanilang nilakaran.",
+    "Ako'y nanirahan sa isang sagradong lugar kasama ng mga deboto, hanggang sa isang utos lamang ang nagpabaligtad sa lahat.",
+    "Nang dumating ang utos, bawat kaluluwa ay yumuko maliban sa akin; ang aking pagtanggi ay bunga ng pagmamataas.",
+    "Ako ay pinalayas mula sa sagradong lugar na iyon, minarkahan ng isang sumpa na mananatili magpakailanman.",
+    "Humingi ako ng panahon hanggang sa Araw ng Pagkabuhay na Mag-uli, at ito ay ipinagkaloob. Sumumpa akong lalapit sa bawat kaluluwa at iligaw sila.",
+    "Kapag tumunog ang trumpeta, ang mga sumunod sa akin ay makakasama ko sa aking kapalaran, sasama sa akin sa nagliliyab na apoy kung saan walang tutulong sa kanila na makapagliligtas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Iblis",
+        "Paraon (Fir'awn)",
+        "Namrud",
+        "Abu Lahab",
+        "Azar (ang ama ni Ibrahim)"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Ang Huling Sandali",
+      "options": [
+        "Ang pagtangging magpatirapa sa harap ni Adan",
+        "Pag-agaw ng kabanalan sa isang dakilang imperyo",
+        "Nagbabalak na ihagis sa apoy ang isang matuwid",
+        "Pag-akay sa mga tao na sumamba sa isang ginintuang imahen",
+        "Paglunod sa isang malaking hukbo sa dagat"
+      ],
+      "answer": "Ang pagtangging magpatirapa sa harap ni Adan"
+    },
+    "location": {
+      "label": "Ang Sagradong Lugar",
+      "options": [
+        "Jannah (Paraiso)",
+        "Isang kahanga-hangang palasyo sa Nile",
+        "Isang tore ng mga ladrilyo na umaabot patungo sa langit",
+        "Isang ginintuang guya na hinulma mula sa mga palamuti",
+        "Isang pugon ng nagliliyab na apoy"
+      ],
+      "answer": "Jannah (Paraiso)"
+    },
+    "outcome": {
+      "label": "Ang Pangwakas na Kapalaran",
+      "options": [
+        "Itinaboy, may pahinga hanggang sa ipinangakong Araw",
+        "Nalunod kasama ang mga hukbo sa ilalim ng mga alon",
+        "Dinurog ng mga batong ibinato mula sa langit",
+        "Pinunit ng mga kuyog ng mga ibong lumilipad",
+        "Nilamon ng isang malakas na pagsabog"
+      ],
+      "answer": "Itinaboy, may pahinga hanggang sa ipinangakong Araw"
+    }
+  },
+  "verseRef": "17:62",
+  "arabic": "قَالَ أَرَءَيْتَكَ هَـٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًۭا",
+  "verse": "[Iblees] said, \"Do You see this one whom You have honored above me? If You delay me [i.e., my death] until the Day of Resurrection, I will surely destroy his descendants, except for a few.\" (17:62)"
+}

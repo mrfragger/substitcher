@@ -1,0 +1,61 @@
+{
+  "title": "Aus den Tiefen des Brunnens",
+  "intro": "Die Reise einer jungen Seele begann mit einer eindrucksvollen Vision von Himmelskörpern, die sich ehrfürchtig verneigten. Das Leben dieses Menschen war geprägt von tiefstem Verrat durch seine Nächsten, gefolgt von Jahren der Versklavung und unrechtmäßigen Gefangenschaft. Doch durch unerschütterlichen Glauben und göttliche Führung stieg diese Gestalt aus tiefster Verzweiflung zu einer der mächtigsten Persönlichkeiten eines großen Reiches auf. Können Sie die Identität dieses außergewöhnlichen Dieners Allahs enthüllen?",
+  "clues": [
+    "Mir wurde eine Vision von elf Sternen, der Sonne und dem Mond gezeigt, die sich vor mir verneigten.",
+    "Ich war das über alles geliebte Kind meiner Eltern, was bei meinen Brüdern Neid hervorrief.",
+    "Ich wurde von meinen eigenen Brüdern ergriffen, meines Gewandes beraubt und in einen tiefen, dunklen Brunnen geworfen.",
+    "Ich wurde wie eine Ware auf einem Marktplatz verkauft und weit weg von meiner Heimat verschleppt.",
+    "Eine einflussreiche Frau versuchte, meine Ehre zu verletzen, und ich wurde ins Gefängnis geworfen, weil ich ihre Annäherungsversuche zurückwies.",
+    "Ich war mit der Gabe der Traumdeutung gesegnet und stieg vom vergessenen Gefangenen zum obersten Minister Ägyptens auf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Yusuf",
+        "Prophet Musa",
+        "Prophet Dawud",
+        "Prophet Ayyub",
+        "Prophet Sulayman"
+      ],
+      "answer": "Prophet Yusuf"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Von den eigenen Brüdern in einen tiefen Brunnen geworfen werden",
+        "Das Überleben einer großen weltweiten Flut",
+        "In einen lodernden Ofen geworfen werden",
+        "Im Kampf gegen einen riesigen Krieger auf dem Schlachtfeld",
+        "Von einem großen Fisch verschluckt werden"
+      ],
+      "answer": "Von den eigenen Brüdern in einen tiefen Brunnen geworfen werden"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein tiefer, trockener Brunnen in der Wildnis",
+        "Eine große Holzarche auf einem Berg",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein prächtiger Thron von großer Pracht",
+        "Eine Schleuder und fünf glatte Steine"
+      ],
+      "answer": "Ein tiefer, trockener Brunnen in der Wildnis"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Aufstieg zum obersten Minister Ägyptens und Wiedervereinigung mit der geliebten Familie",
+        "Er baute ein großartiges Schiff und rief die Menschen zum Glauben auf",
+        "Führte eine ganze Nation aus der Knechtschaft in Ägypten",
+        "Ihm wurde ein Königreich und Herrschaft über das Unsichtbare gewährt.",
+        "Er wurde während einer schweren Krankheit geduldig behandelt und geheilt."
+      ],
+      "answer": "Aufstieg zum obersten Minister Ägyptens und Wiedervereinigung mit der geliebten Familie"
+    }
+  },
+  "verseRef": "40:34",
+  "arabic": "وَلَقَدْ جَآءَكُمْ يُوسُفُ مِن قَبْلُ بِٱلْبَيِّنَـٰتِ فَمَا زِلْتُمْ فِى شَكٍّۢ مِّمَّا جَآءَكُم بِهِۦ ۖ حَتَّىٰٓ إِذَا هَلَكَ قُلْتُمْ لَن يَبْعَثَ ٱللَّهُ مِنۢ بَعْدِهِۦ رَسُولًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَنْ هُوَ مُسْرِفٌۭ مُّرْتَابٌ",
+  "verse": "And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic.\" (40:34)"
+}

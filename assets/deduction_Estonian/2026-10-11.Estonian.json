@@ -1,0 +1,61 @@
+{
+  "title": "Hääl iidsetes liivades",
+  "intro": "Allahi varaseimate sõnumitoojate seas oli üks, kelle nimi Koraanis lühidalt, kuid tähendusrikkalt särab. See inimene elas ammu enne paljude suurte prohvetite saatmist ning oli tuntud oma vankumatu tõe ja kannatlikkuse poolest. Tema lugu on lühike, kuid tema pärand jääb igavesse kroonikasse. Kes on see üllas hing?",
+  "clues": [
+    "Ma olen üks esimesi sõnumitoojaid, kellest on Koraanis lühidalt, kuid tähendusrikkalt juttu.",
+    "Minu iseloomu iseloomustas vankumatu pühendumus tõele.",
+    "Mind mäletatakse Allahi raamatus nende seas, kes olid vankumatud ja kannatlikud.",
+    "Vaid mõned lühikesed salmid Koraanis jutustavad minu lugu.",
+    "Allah austas mind viisil, mis on ainuomane mulle ja mida pole jagatud teiste prohvetitega.",
+    "Mind ülendati kõrgele positsioonile, mis on Koraanis ainulaadne au."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Idris",
+        "Prohvet Ilja",
+        "Dhul-Kifl",
+        "Prohvet Alyasa",
+        "Asif ibn Barkhiya"
+      ],
+      "answer": "Prohvet Idris"
+    },
+    "trial": {
+      "label": "Määrav hetk",
+      "options": [
+        "Allah tõstis mind kõrgele seisusele",
+        "Ma ehitasin suure laeva, et päästa oma rahvast",
+        "Ma esitasin väljakutse vaarao nõidadele",
+        "Mu vennad viskasid mind auku",
+        "Ma kaotasin oma poja pärast kurvastades nägemise"
+      ],
+      "answer": "Allah tõstis mind kõrgele seisusele"
+    },
+    "location": {
+      "label": "Püha viide",
+      "options": [
+        "Suura Al-Anbiya",
+        "Suura Al-Kahf",
+        "Suura Taha",
+        "Suura Ash-Shu'ara",
+        "Suura Yasin"
+      ],
+      "answer": "Suura Al-Anbiya"
+    },
+    "outcome": {
+      "label": "Jumalik au",
+      "options": [
+        "Kõrge jaam, mis erineb kõigist teistest",
+        "Džinnide ja tuulte üle valitsemine",
+        "Võrratu hiilguse kuningriik",
+        "Pärija minu vanast east",
+        "Allahiga pitseeritud leping"
+      ],
+      "answer": "Kõrge jaam, mis erineb kõigist teistest"
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

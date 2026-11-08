@@ -1,0 +1,61 @@
+{
+  "title": "Järeleandmatu autoriteet",
+  "intro": "Muistsetel maadel valitses kunagi võimas võim, kelle käsutuses olid tohutud ressursid ja lugematute inimeste elud. Vaatamata selgetele märkidele ja hoiatustele valis see valitseja vastupanu tee, mis viis sügava vastasseisuni, mis kajas läbi aegade.",
+  "clues": [
+    "Ma nõudsin endale ülima võimu ja autoriteedi tohutu valduse üle.",
+    "Ma esitasin väljakutse alandlikule sõnumitoojale, kelle oli saatnud kõikide maailmade Isand.",
+    "Minu rahvas oli tuntud oma meisterlikkuse poolest suurte ehitiste ja meie tsivilisatsiooni ülal hoidnud jõe ehitamise poolest.",
+    "Ma olin tunnistajaks paljudele imelistele märkidele, sealhulgas kepile, mis muutus maoks, ja käele, mis eredalt hõõgus.",
+    "Ma keeldusin laskmast orjastatud inimeste rühmal oma maalt lahkuda, hoolimata jumalikest käskudest.",
+    "Lahkuvate inimeste jälitamine viis mind ja mu armeed lõhestatud mere südamesse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Yusuf",
+        "Kuningas Talut",
+        "Fir'awn (vaarao)",
+        "Prohvet Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (vaarao)"
+    },
+    "trial": {
+      "label": "Peamine vastasseis",
+      "options": [
+        "Üleujutus, mis maad haaras",
+        "Mere lõhenemine",
+        "Põlev põõsas",
+        "Kaaba ehitamine",
+        "Võimsa tuule häving"
+      ],
+      "answer": "Mere lõhenemine"
+    },
+    "location": {
+      "label": "Aspekti määratlemine",
+      "options": [
+        "Rääkiv loom",
+        "Personal ja hõõguv käsi",
+        "Imeline sünd",
+        "Lendav vaip",
+        "Majesteetlik troon vee peal"
+      ],
+      "answer": "Personal ja hõõguv käsi"
+    },
+    "outcome": {
+      "label": "Ülim saatus",
+      "options": [
+        "Tõusis taevasse",
+        "Maa poolt neelatud",
+        "Uppus merre",
+        "Muutus ahviks",
+        "Arvestades tohutut rikkust ja võimu"
+      ],
+      "answer": "Uppus merre"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Il-Ħaral ta’ Dnub Bla Preċedent",
+  "intro": "Xi stejjer fil-Koran juru l-fond tal-korruzzjoni li soċjetà sħiħa tista’ taqa’ fiha. Dan il-messaġġier kien waħdu, jitlob lil poplu mgħarraq f’perverżjoni li l-ebda nazzjon qabilhom qatt ma kien segwiet. Minkejja snin ta’ twissija, il-qlub baqgħu mwebbsa, u d-digriet divin wasal b’mod mill-aktar tal-biża’. Tista’ tidentifika lil dan il-messaġġier nobbli ta’ Alla?",
+  "clues": [
+    "Jiena ntbgħatt bħala twissija lil poplu maħkum minn perversjoni li l-ebda nazzjon qablu qatt ma kien għamel.",
+    "In-nies tiegħi sejħuli giddieb u heddew li jkeċċu lili u lis-segwaċi tiegħi minn art twelidi.",
+    "Viżitaturi onorati ġew f’dari fil-forma ta’ rġiel żgħażagħ li kienu qed jistrajkjaw, u ħassejt niket kbir għas-sigurtà tagħhom.",
+    "In-nies tiegħi talbuni nċedi l-mistednin tiegħi f'idejhom, mingħajr ma konxji li dawn il-viżitaturi kienu anġli mibgħuta minn Alla.",
+    "Marti stess ma kellhiex sehem fl-istess fidi tiegħi u għażlet li tibqa' mal-kundannati.",
+    "Jiena ġejt salvata flimkien ma’ wliedi bniet mas-sebħ, hekk kif niżlet xita qerrieda ta’ ġebel u l-bliet tagħna nqalbu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Lut",
+        "Il-Profeta Shu'aib",
+        "Profeta Hud",
+        "Profeta Nuh",
+        "Il-Profeta Salih"
+      ],
+      "answer": "Profeta Lut"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Dilluvju kbir li ħakem l-art",
+        "Telf tal-vista minn tbatija twila",
+        "Tirann li jsostni d-divinità",
+        "Li tintrema f’nar qawwi",
+        "Li jintalab iċedi mistednin onorati"
+      ],
+      "answer": "Li jintalab iċedi mistednin onorati"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Arka kbira mibnija bl-idejn",
+        "Bastun li qassam il-baħar",
+        "Ġemela mirakoluża",
+        "Nar qawwi",
+        "Bliet maqluba"
+      ],
+      "answer": "Bliet maqluba"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Għerqet waqt li kienet qed issegwi lill-fidili",
+        "Salvat minn forn tan-nar bla ħsara",
+        "Imtella’ ħaj lejn is-smewwiet",
+        "Familja mietet f’għargħar kbir",
+        "Familja salvata ħlief għal mara infidel"
+      ],
+      "answer": "Familja salvata ħlief għal mara infidel"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

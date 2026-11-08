@@ -1,0 +1,61 @@
+{
+  "title": "Nacija koja je prkosila prirodnom poretku",
+  "intro": "U regiji čija se priča proteže kroz vijekove, jedna zajednica je živjela u otvorenoj pobuni protiv zakona čistoće. Njihova djela su bila toliko neviđena da se pamte kao upozorenje cijelom čovječanstvu. Ko su bile te duše i kakva ih je sudbina zadesila?",
+  "clues": [
+    "Živjeli smo u zemlji pored puta kojim su putnici često prolazili, ali smo njihovo putovanje učinili opasnim.",
+    "Počinili smo takva djela nepristojnosti kakva niko na svijetu nikada prije nije počinio.",
+    "Poslanik između nas nas je pozvao da napustimo naše puteve, ali mi smo ga odbili i zahtijevali kaznu ako je istinit.",
+    "Kada su lijepi gosti došli u naš grad, pokušali smo ih napasti, ne znajući da su glasnici uništenja.",
+    "Bili smo upozoreni na strašnu kaznu ako ne odustanemo, ali smo se rugali upozorenju i ostali u svom grijehu.",
+    "Kiša kamenja s neba pala je na nas, a naše kuće su srušene, ne ostavljajući traga osim znaka za one koji razmišljaju."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Ljudi Luta",
+        "Ljudi iz Semuda",
+        "Ljudi iz A'ada",
+        "Ljudi iz Madjana",
+        "Ljudi iz Sabe"
+      ],
+      "answer": "Ljudi Luta"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Počinio neviđenu nemoralnost i blokirao puteve",
+        "Obožavao zlatno tele",
+        "Ubio je svetu kamilu",
+        "Varali su u trgovini i podcijenili ljude",
+        "Izgradio je uzvišeni toranj da izazove nebesa"
+      ],
+      "answer": "Počinio neviđenu nemoralnost i blokirao puteve"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Anđeli prerušeni u zgodne goste",
+        "Kamila izlazi iz stijene",
+        "Štap koji se pretvara u zmiju",
+        "Brod izgrađen na planini",
+        "Vatra koja je postala hladna i mirna"
+      ],
+      "answer": "Anđeli prerušeni u zgodne goste"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Uništeno kišom kamenja s neba",
+        "Progutala zemlja",
+        "Utopljen u velikoj poplavi",
+        "Pogođena prodornom eksplozijom",
+        "Pretvoreni u majmune"
+      ],
+      "answer": "Uništeno kišom kamenja s neba"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

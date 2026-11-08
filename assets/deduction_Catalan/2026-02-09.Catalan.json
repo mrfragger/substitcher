@@ -1,0 +1,60 @@
+{
+  "title": "El judici sota les ones",
+  "intro": "Un profeta, carregat per la seva missió, va prendre una decisió que el va portar lluny del seu poble i a una prova inesperada. El seu viatge va fer un gir dramàtic, posant a prova la seva fe i paciència de la manera més profunda. Podeu deduir els detalls d'aquest esdeveniment extraordinari a partir de les pistes proporcionades?",
+  "clues": [
+    "Un profeta va ser enviat a un poble, però va marxar a corre-cuita, frustrat pel seu rebuig.",
+    "El seu viatge el va portar al mar, on va pujar a un vaixell carregat a la recerca de passatge.",
+    "Es va aixecar una gran tempesta que amenaçava el vaixell, i es va decidir llançar una persona per la borda per alleugerir la càrrega, determinat per sorteig.",
+    "Va ser engolit per una criatura de les profunditats, un esdeveniment miraculós decretat per la voluntat divina.",
+    "Dins dels confins del ventre de la criatura, va invocar el seu Senyor, penedint-se i glorificant Al·là en la foscor.",
+    "Després d'un període d'intensa súplica, va ser llançat a una costa àrida, feble però viu, i més tard va tornar per descobrir que el seu poble finalment havia cregut."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Profeta/Persona",
+      "options": [
+        "Profeta Nuh",
+        "Profeta Lut",
+        "Profeta Musa",
+        "Profeta Yunus",
+        "Profeta Iússuf"
+      ],
+      "answer": "Profeta Yunus"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "El diluvi de Nuh",
+        "La destrucció de Sodoma",
+        "El viatge al ventre del gran peix",
+        "La divisió del mar",
+        "La revelació de l'arbust ardent"
+      ],
+      "answer": "El viatge al ventre del gran peix"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "Mont Sinaí",
+        "El bastó de Musa",
+        "El Gran Peix",
+        "El Pou de Yusuf"
+      ],
+      "answer": "El Gran Peix"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Una nova aliança amb la humanitat",
+        "Un naixement miraculós per al seu poble",
+        "Un regne establert pel seu llinatge",
+        "Un retorn al seu poble que llavors creia",
+        "Una victòria sobre un governant tirànic"
+      ],
+      "answer": "Un retorn al seu poble que llavors creia"
+    }
+  },
+  "verse": "And [mention] Dhun-Nun, when he went off in anger and thought that We would not decree [anything] upon him. But he called out within the darknesses, 'There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.' (Al-Anbiya 21:87)",
+  "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ"
+}

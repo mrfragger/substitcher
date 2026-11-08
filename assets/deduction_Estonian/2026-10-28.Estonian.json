@@ -1,0 +1,61 @@
+{
+  "title": "Söe kohal lausutud lubadus",
+  "intro": "Sa seisad kõrbetule ääres, kui selle söed hoolikalt laiali laotatakse. Külalised saabuvad kohtuma vaikuses ja üksainus sõnum avab loo lubadusest, üllatusest ja veel täitumata tulevikust.",
+  "clues": [
+    "Me ületasime vahemaa, et jõuda kõrbes ustava sulase juurde.",
+    "Palusime, et lõkke tegemiseks söed laiali laotataks.",
+    "Me rääkisime ühega, kes oli leekide poole jahedust ja ohutust palunud.",
+    "Viisime teate vastsündinust kellelegi, kes oli juba ületanud laste saamise ea.",
+    "Me panime tõotatud lapsele nimeks Iisak.",
+    "Me tõime Ibrahimile rõõmusõnumi poja sünnist ja see hämmastav uudis ajas Ibrahimi naerma."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Inglid, kes tõid Ibrahimile rõõmusõnumi Iisakist",
+        "Inglid, kes hoiatasid Luti",
+        "Troonikandvad inglid",
+        "Põrgu inglid",
+        "Noale saadetud inglid"
+      ],
+      "answer": "Inglid, kes tõid Ibrahimile rõõmusõnumi Iisakist"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Ibrahimile rõõmusõnumi toomine Iisaki sünnist",
+        "Hoiatus Lut'ile enne tema rahva karistamist",
+        "Kuulutades Zakariyyale Yahya sündi",
+        "Trooni kandmine kohtupäeval",
+        "Isa sünni kuulutamine Maryamile"
+      ],
+      "answer": "Ibrahimile rõõmusõnumi toomine Iisaki sünnist"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Laialivalgunud sütest valmistatud lõke",
+        "Üleujutusveel hõljuv laev",
+        "Veereva kiviga suletud koobas",
+        "Soolveega kõvastunud savimägi",
+        "Taevasse ulatuv redel"
+      ],
+      "answer": "Laialivalgunud sütest valmistatud lõke"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Rõõmsad uudised pojast nimega Iisak",
+        "Rõõmsad uudised pojast nimega Yahya",
+        "Taluti valimine Iisraeli laste valitsejaks",
+        "Hoiatus enne Luti rahva karistamist",
+        "Käsk ehitada laev enne veeuputust"
+      ],
+      "answer": "Rõõmsad uudised pojast nimega Iisak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "La Humilaj Veroserĉantoj",
+  "intro": "En lando de antikva potenco kaj sorĉado, granda konflikto disvolviĝas. Unu flanko uzas la aŭtoritaton de diaj signoj, dum la alia provas egali la neeblan. La rezulto por ĉiam ŝanĝos la kurson de la historio. Ĉu vi povas malkovri la identecon de tiuj, kiuj atestis la finfinan veron kaj humiligis sin antaŭ ĝi?",
+  "clues": [
+    "Ni atestis signojn, kiuj iris preter la trukoj de sorĉado",
+    "Ni ĉiuj falis en prosterniĝon, nekapablaj nei la veron",
+    "Ni rekonis, ke ĉi tiuj signoj venis de la Unu Vera Dio",
+    "Ni estis la unua komunumo kiu ampleksis fidon tiel dramece",
+    "Oni promesis al ni paradizon kiel rekompencon pro nia kredo",
+    "Niaj ŝnuroj kaj bastonoj fariĝis serpentoj antaŭ niaj okuloj, tamen ni elektis submetiĝon"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "La magiistoj de Faraono",
+        "La popolo de la profeto Ibrahim",
+        "La humilaj veroserĉantoj",
+        "La Homoj de la Kaverno",
+        "La nacio de Reĝino Bilqis"
+      ],
+      "answer": "La magiistoj de Faraono"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "La renkonto kun la stabo de la profeto Moŝa",
+        "La provo de la vento de la profeto Hud",
+        "La defio de la kamelo de la profeto Salih",
+        "La granda diluvo sendita sur profeton",
+        "La vojaĝo de profeto ene de baleno"
+      ],
+      "answer": "La renkonto kun la stabo de la profeto Moŝa"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Antikva Egiptio",
+        "La sankta domo en Mekko",
+        "La urbo Midjan",
+        "La dezerto de Tamud",
+        "La kaverno de antikvaj dormantoj"
+      ],
+      "answer": "Antikva Egiptio"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Paradizo kiel ilia rekompenco",
+        "Puno en la tombo",
+        "Perdo de iliaj abundaj ĝardenoj",
+        "Detruo per subita tertremo",
+        "Savo de granda baleno"
+      ],
+      "answer": "Paradizo kiel ilia rekompenco"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Die Geduld, die den Kummer überdauerte.",
+  "intro": "Ein Ältester, dessen Geduld legendär wurde, dessen Sehvermögen durch Trauer getrübt war, dessen Glaube an den göttlichen Plan aber unerschütterlich blieb. Er sah zwölf Söhne heranwachsen, die zu den Stammesführern ganzer Stämme wurden, erlitt den schmerzlichen Verlust eines geliebten Kindes und wurde zu einem zeitlosen Symbol bewundernswerter Geduld angesichts überwältigenden Leids. Eine verehrte Seele, deren Geschichte in den heiligen Schriften des Korans erzählt wird. Können Sie diese Gestalt aus dem Koran identifizieren?",
+  "clues": [
+    "Ich war ein Prophet, dessen Geschichte in einer der wichtigsten Suren des Korans ausführlich erzählt wird.",
+    "Ich hatte zwölf Söhne, die die Stammväter der Stämme Bani Israel wurden.",
+    "Ich habe meinen Söhnen gesagt, sie sollen durch verschiedene Tore gehen, damit sie nicht als eine einzige Person erkannt werden.",
+    "Meine Augen wurden weiß vom unaufhörlichen Weinen über mein geliebtes Kind, das mir genommen wurde.",
+    "Ich weigerte mich zu verzweifeln, selbst als meine anderen Söhne mich dazu drängten und sagten, ich klage nur Allah an.",
+    "Ich bin der Vater des Propheten Yusuf, dessen Name auf Arabisch „der Vermehrer“ bedeutet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Yaqub (Jakob)",
+        "Prophet Yusuf",
+        "Prophet Ibrahim",
+        "Prophet Musa",
+        "Prophet Dawud"
+      ],
+      "answer": "Prophet Yaqub (Jakob)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Verlust eines geliebten Sohnes an einen Brunnen",
+        "Die große Flut, die ein ganzes Volk verschlang",
+        "Die Migration aus einem feueranbetenden Königreich",
+        "Die Konfrontation mit einem mächtigen Tyrannen Ägyptens",
+        "Die Verbannung in den Bauch eines Wals"
+      ],
+      "answer": "Verlust eines geliebten Sohnes an einen Brunnen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Ein mit Kunstblut beflecktes Hemd",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Eine Arche, gebaut auf einem Berg",
+        "Eine aus Fels gehauene Kamelstute.",
+        "Ein goldenes Kalb"
+      ],
+      "answer": "Ein mit Kunstblut beflecktes Hemd"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Das Sehvermögen wurde wiederhergestellt, als das Hemd eines geliebten Sohnes über das Gesicht gelegt wurde.",
+        "Rettung, nachdem man in den Bauch eines großen Fisches geworfen wurde",
+        "Den Titel Khalilullah von Allah erhalten",
+        "Die Überfahrt mit einem aus der Sklaverei befreiten Volk",
+        "Ein Regenbogen erscheint als Zeichen der Hoffnung nach der Flut"
+      ],
+      "answer": "Das Sehvermögen wurde wiederhergestellt, als das Hemd eines geliebten Sohnes über das Gesicht gelegt wurde."
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

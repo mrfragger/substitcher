@@ -1,0 +1,60 @@
+{
+  "title": "Te pikaunga o ngā taonga",
+  "intro": "Kei mua koe i tētahi kōrero mō te taonga nui, he oranga kua whakapaipaihia ki te koura me te mana, engari i te mutunga he akoranga whakatūpato mō te hunga katoa e rapu ana i te mana o te ao. Ka taea e koe te wetewete i te tuakiri o tēnei tangata e pāorooro tonu ana tana kōrero i roto i te wā, he tohu mō te āhua poto o ngā taonga o te ao?",
+  "clues": [
+    "Nō te iwi ahau o tētahi Poropiti nui, engari i whiriwhiria e au te ara o te whakapehapeha me te tukino.",
+    "I homai e Allah ki ahau he taonga nui, ā, he taimaha rawa ngā kī o aku taonga mō tētahi rōpū tangata kaha.",
+    "I tohutohu mai tōku iwi kia kaua ahau e whakamanamana ki aku taonga, me te whakamahara mai kāore a Allah e aroha ki te hunga e whakamanamana ana.",
+    "I whakapehapeha ahau i mea ko taku taonga nui nā tōku ake mōhiotanga me tōku kaha, ehara i te manaakitanga nā Allah.",
+    "I whakatūpatohia ahau mō te pirau, i whakamaharatia hoki kia rapu i te ao ā muri ake nei me ngā mea kua homai e Allah ki ahau, engari i whakakahore ahau ki te whakarongo, ā, i mau tonu taku whakapehapeha.",
+    "I te mutunga, ka mea a Atua kia horomia ahau me tōku whare e te whenua, ā, kāore he kaiawhina mōku i roto i tana ture."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Parao",
+        "Hāmana",
+        "Karauna",
+        "Āpu Rāhapi",
+        "Namrud"
+      ],
+      "answer": "Karauna"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te wehenga o te moana",
+        "Te ahi a Nimirota",
+        "Te waipuke",
+        "Te horomia e te whenua",
+        "Te mate urutā o ngā mawhitiwhiti"
+      ],
+      "answer": "Te horomia e te whenua"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Kuao Kau Koura",
+        "Ngā Taonga/Ngā Kī",
+        "Te Puna o Zamzam"
+      ],
+      "answer": "Ngā Taonga/Ngā Kī"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Te rangatiratanga i whakawhiwhia",
+        "I whakaorangia i te whakangaromanga",
+        "Horomia e te whenua",
+        "I riro hei poropiti",
+        "I mate marie"
+      ],
+      "answer": "Horomia e te whenua"
+    }
+  },
+  "verse": "So We caused the earth to swallow him and his home. And there was for him no body of supporters to aid him other than Allah, nor was he of those who could defend themselves. (Al-Qasas 28:81)",
+  "arabic": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِن فِئَةٍ يَنصُرُونَهُ مِن دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنتَصِرِينَ"
+}

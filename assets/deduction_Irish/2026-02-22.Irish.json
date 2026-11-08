@@ -1,0 +1,61 @@
+{
+  "title": "Foighne an Anama Chráitigh",
+  "intro": "I stair na staire, tá figiúr ann a bhfuil a ainm comhchiallach le seasmhacht. Cuireadh tástáil ar an duine seo le cailliúint gach sóláis saoghalta, ach d'fhan sé ina sheirbhíseach dílis don Chruthaitheoir. Le blianta cruatain agus tinnis choirp, d'fhan croí an anama seo ancaire sa chreideamh, ag soláthar rabhchán dóchais do gach duine a bhíonn ag tabhairt aghaidh ar anró.",
+  "clues": [
+    "Bhí mé i mo sheirbhíseach dílis d'Allah, beannaithe le saibhreas flúirseach, go leor páistí, agus sláinte den scoth.",
+    "Tháinig casadh ar mo shaol nuair a baineadh mo shaibhreas agus mo theaghlach díom, agus gan aon rud fágtha agam ach mo chreideamh.",
+    "Bhí mé buailte ag galar fadtéarmach agus pianmhar a chuir tástáil ar theorainneacha seasmhachta an duine.",
+    "Le linn mo fhulaingthe, dhiúltaigh mé gearán a dhéanamh i gcoinne mo Thiarna, fiú nuair a rinne an namhaid iarracht mé a threorú chun éadóchais.",
+    "Nuair a ghlaoigh mé ar mo Thiarna sa deireadh, níor iarr mé saibhreas, ach d’admhaigh mé go raibh anacair orm.",
+    "Dúradh liom an talamh a bhualadh le mo chos, agus as sin tháinig tobar uisce fionnuar chun mo chorp a leigheas agus mo tart a mhúchadh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "an Fáidh Yaqub",
+        "Fáidh Ayyub",
+        "An Fáidh Zakariyyah",
+        "An Fáidh Yahya",
+        "Fáidh Shu'ayb"
+      ],
+      "answer": "Fáidh Ayyub"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Blianta de bhreoiteacht agus de chaillteanas trom",
+        "Á chaitheamh isteach i dtobar domhain",
+        "Á shlogadh ag iasc ollmhór",
+        "Ag tabhairt aghaidh ar tíoránach i dtine",
+        "Turas fada ag cuardach múinteora"
+      ],
+      "answer": "Blianta de bhreoiteacht agus de chaillteanas trom"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Foireann a scar an fharraige",
+        "Léine a raibh boladh an bhaile uirthi",
+        "Tobar uisce cneasaithe",
+        "Sliabh a bhris síos ina dheannach",
+        "Uaimh codlata domhain"
+      ],
+      "answer": "Tobar uisce cneasaithe"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ag éirí i do ghobharnóir ar thír mhór",
+        "Ag treorú arm chun bua",
+        "Athchóiriú sláinte agus teaghlaigh",
+        "Teach adhartha naofa a thógáil",
+        "Ag fáil tábla curtha ó neamh"
+      ],
+      "answer": "Athchóiriú sláinte agus teaghlaigh"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "De Patient Een",
+  "intro": "Viru laanger Zäit, an den éischten Deeg vun der mënschlecher Geschicht, stoungen zwou Séilen virun hirem Schëpfer mat Offeren. Eng gouf ugeholl, eng net. Wat duerno koum, sollt déi éischt grouss Tragödie tëscht Geschwëster ginn - een Akt vu gedëlleger Réckhaltung an een Akt vu batterer Rache. Kënnt Dir erausfannen, wien ech sinn?",
+  "clues": [
+    "Ech sinn an den éischten Deeg vun der mënschlecher Existenz op der Äerd gebuer",
+    "Ech war e Kand vum alleréischte Mënschepaar, dat jee op dëser Äerd gelieft huet",
+    "Ech hunn emol en Affer aus dem Beschte vu menger Trapp bruecht, fir mengem Schëpfer ze gefalen",
+    "Mäi Gebot gouf vun uewen ugeholl, während d'Gebot vu mengem Geschwëster refuséiert gouf.",
+    "Wéi ech mam Doud bedroht sinn, hunn ech decidéiert, meng Hand net géint mäi Geschwëster ze hiewen",
+    "Ech sinn déi éischt Persoun an der ganzer mënschlecher Geschicht ginn, déi ongerechtfäerdegt vun engem aneren ëmbruecht gouf."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Habil (Abel), Jong vum Adam",
+        "Qabil (Kain), Jong vum Adam",
+        "Adam, den éischte Mënsch",
+        "Nuh (Noah)",
+        "Ibrahim (Abraham)"
+      ],
+      "answer": "Habil (Abel), Jong vum Adam"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Den éischte Mord an der Mënschheetsgeschicht",
+        "Déi grouss Iwwerschwemmung vun Nuh",
+        "D'Zerstéierung vun der Arméi vum Fir'awn",
+        "D'Affer vum Ismail vum Ibrahim",
+        "De Kampf géint Jalut (Goliath)"
+      ],
+      "answer": "Den éischte Mord an der Mënschheetsgeschicht"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "E Schof, dat als e gefällegt Affer ugebuede gëtt",
+        "Eng grouss Holzark",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "E Hoopoe-Vugel, deen eng kinneklech Botschaft dréit",
+        "E brennende Feiergruef"
+      ],
+      "answer": "E Schof, dat als e gefällegt Affer ugebuede gëtt"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ass dat éischt Mordopfer an der Mënschheetsgeschicht ginn",
+        "Iwwerlieft eng grouss Iwwerschwemmung an engem hëlzene Schëff",
+        "Huet am Bauch vun engem grousse Fësch gelieft",
+        "Herrscht iwwer Djinn, Mënschen an de Wand",
+        "Véierzeg Joer laang an enger grousser Wüst gewandert"
+      ],
+      "answer": "Ass dat éischt Mordopfer an der Mënschheetsgeschicht ginn"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

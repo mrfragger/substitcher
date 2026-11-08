@@ -1,0 +1,61 @@
+{
+  "title": "Iyyataa Mana Qulqullummaa",
+  "intro": "Halkan sa’aatii tasgabbaa’aa ta’etti lubbuun of kennite tokko dallaa qulqullaa’aa iddoo qulqulluu tokkoo keessaa gara Rahmatamaan waamte. Waggootaaf amantii fi obsi hin raafamne dinqii gammachuu fi hambaa raajii fiduun badhaafamuuf ture.",
+  "clues": [
+    "Guyyaa fi halkan koo bakka qulqulluu qulqulluu tokko keessatti of kennuudhaan dabarseera, yeroo hunda Gooftaa koo kadhachaa ture.",
+    "Ani dulloome, haati manaa koos dhaltuu turte, ta’us garuu rahmata Rabbii irraa abdii dhabee hin beeku.",
+    "Ilmi, Yahya jedhamu, raajii fi ibsaa qajeelummaa ta’e naaf kenname.",
+    "Ani mataan koo raajii, Ijoollee Israa'el akkan qajeelchu ergame ture.",
+    "Ani sanyii Raajii Haaruun waanan ta'eef Mana Qulqullummaa keessatti luba ta'ee tajaajilaa ture.",
+    "Maariyaam haadha Isaa kunuunsuuf imaanaa naaf kennamee dinqii isheen argeera."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ani Eenyu?",
+      "options": [
+        "Nabi Zakaariyaa",
+        "Nabi Yahyaa",
+        "Nabi Ilyaas",
+        "Nabi Ishaaq",
+        "Nabi Ya'qub"
+      ],
+      "answer": "Nabi Zakaariyaa"
+    },
+    "trial": {
+      "label": "Yaali/Taatee",
+      "options": [
+        "Dulluma keessatti ilma kenne",
+        "Ibidda boba'aa irraa baraarame",
+        "Garaa qurxummii keessaa baraarame",
+        "Lolaa guddaa irraa hafe",
+        "Dhukkuba cimaa irraa fayye"
+      ],
+      "answer": "Dulluma keessatti ilma kenne"
+    },
+    "location": {
+      "label": "Qaama Ijoo",
+      "options": [
+        "Mihrab (niche kadhannaa) .",
+        "Kaabaa",
+        "Bosona Gubaa jiru",
+        "Taabota Kakuu",
+        "Holqa Raftoota Torba"
+      ],
+      "answer": "Mihrab (niche kadhannaa) ."
+    },
+    "outcome": {
+      "label": "Bu'aa",
+      "options": [
+        "Ilma qajeelaa raajii ta'e kennameef",
+        "Obomboleettii hamaadhaan barbadaa'e",
+        "Galaana keessatti liqimfame",
+        "Gubachuu irraa kan hafe",
+        "Qurxummii tokko jalaa baraaramanii gara ummata isaaniitti deebi'an"
+      ],
+      "answer": "Ilma qajeelaa raajii ta'e kennameef"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

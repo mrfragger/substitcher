@@ -1,0 +1,61 @@
+{
+  "title": "Il cospiratore velato",
+  "intro": "Vi trovate al cospetto di una figura potente dei tempi dell'Apocalisse. Quest'individuo era noto per la sua intelligenza, la sua ricchezza e il suo prestigio tra il suo popolo. Quando giunsero i segni inequivocabili, ne riconobbe la bellezza, ma scelse la ribellione anziché la sottomissione. Cosa spinse quest'anima a tramare nell'oscurità, e quale fu il suo destino finale?",
+  "clues": [
+    "Ho avuto la fortuna di godere di abbondanti risorse e di una grande influenza, il che ha fatto sì che la mia parola avesse un peso considerevole nelle assemblee.",
+    "Quando vennero recitate le parole del divino, non potei negarne l'eloquenza, ma il mio orgoglio non mi permise di sottomettermi.",
+    "Ho riunito i miei consiglieri, isolandomi per riflettere su un modo per screditare il messaggio.",
+    "Dopo averci riflettuto a lungo, ho concluso che si trattava semplicemente di \"magia tramandata dal passato\" per allontanare le persone.",
+    "La rivelazione si rivolse quindi direttamente a me: \"Lasciami sola con colui che ho creato\". Ero stato scelto per i miei intrighi.",
+    "Presto, proprio quel fuoco di cui mi avevano parlato mi afferrerà per la fronte e non avrò scampo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Al-Walid ibn al-Mughira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Uqbah ibn Abi Mu'ayt",
+        "Al-Nadr ibn al-Harith"
+      ],
+      "answer": "Al-Walid ibn al-Mughira"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Cospirarono per assassinare il Profeta",
+        "Ha guidato un boicottaggio contro i musulmani",
+        "Hanno riunito un consiglio per etichettare il Corano come magico",
+        "Cospirazione per espellere il Profeta dalla Mecca",
+        "Si rifiutò di condividere la sua ricchezza con gli orfani"
+      ],
+      "answer": "Hanno riunito un consiglio per etichettare il Corano come magico"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "L'Apocalisse",
+        "Il Consiglio",
+        "Il ciuffo",
+        "La ricchezza",
+        "La penna"
+      ],
+      "answer": "Il ciuffo"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Si pentì e abbracciò l'Islam.",
+        "Emigrò in Abissinia",
+        "Fu colpito da una malattia mortale",
+        "Morì in battaglia contro i musulmani",
+        "Fu condannato al fuoco dell'inferno"
+      ],
+      "answer": "Fu condannato al fuoco dell'inferno"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

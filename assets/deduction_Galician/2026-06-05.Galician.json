@@ -1,0 +1,61 @@
+{
+  "title": "Os humildes buscadores da verdade",
+  "intro": "Nunha terra de poder e bruxería antigos, desenvólvese un gran enfrontamento. Un bando exerce a autoridade dos signos divinos, mentres que o outro intenta igualar o imposible. O resultado cambiará para sempre o curso da historia. Poderás descubrir a identidade daqueles que presenciaron a verdade definitiva e se humillaron ante ela?",
+  "clues": [
+    "Vimos sinais que ían máis alá dos trucos da bruxería",
+    "Todos caemos prostrados, incapaces de negar a verdade",
+    "Recoñecemos que estes sinais proviñan do único Deus Verdadeiro",
+    "Fomos a primeira comunidade en abrazar a fe dun xeito tan dramático",
+    "Prometéronnos o paraíso como recompensa pola nosa fe",
+    "As nosas cordas e os nosos bastóns convertéronse en serpes diante dos nosos ollos, pero escollemos a submisión"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Magos do faraón",
+        "A xente do profeta Ibrahim",
+        "Os humildes buscadores da verdade",
+        "A xente da cova",
+        "A nación da raíña Bilqis"
+      ],
+      "answer": "Magos do faraón"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "O encontro co bastón do profeta Musa",
+        "A proba do vento do profeta Hud",
+        "O desafío da camelo do profeta Salih",
+        "O gran diluvio enviado sobre un profeta",
+        "A viaxe dun profeta dentro dunha balea"
+      ],
+      "answer": "O encontro co bastón do profeta Musa"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "Exipto antigo",
+        "A casa sagrada na Meca",
+        "A cidade de Madián",
+        "O deserto de Thamud",
+        "A cova dos antigos durmientes"
+      ],
+      "answer": "Exipto antigo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "O paraíso como a súa recompensa",
+        "Castigo na tumba",
+        "Perda dos seus frondosos xardíns",
+        "Destrución por un terremoto repentino",
+        "Rescate dunha gran balea"
+      ],
+      "answer": "O paraíso como a súa recompensa"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

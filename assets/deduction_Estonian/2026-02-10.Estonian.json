@@ -1,0 +1,60 @@
+{
+  "title": "Ajastute uni",
+  "intro": "Oled asumas ajarännakule, kus puutud kokku usu ja jumaliku väe sügava müsteeriumiga. Kujuta ette rühma inimesi, kes trotsisid oma ühiskonna norme, klammerdudes monoteismi külge polüteismi maailmas. Nende lugu on tunnistus Allahi võimest kaitsta oma õiglaseid teenijaid kõige erakordsematel viisidel. Kas suudad nende tähelepanuväärsete tegelaste identiteedi lahti harutada?",
+  "clues": [
+    "Me olime väike grupp noori mehi, kes uskusid ühte Jumalasse, hoolimata meie rahva seas laialt levinud polüteismist.",
+    "Me põgenesime türanliku valitseja eest, kes ähvardas meid meie usu pärast, kartes tagakiusamist ja surma.",
+    "Otsisime varjupaika eraldatud paigas, lootes Allahi halastuse ja kaitse peale meie rõhujate eest.",
+    "Meie Issand pani meid langema sügavasse unne, imelisse unne, mis trotsis aja möödumist.",
+    "Ärgates uskusime, et olime puhanud vaid päeva või osa päevast, teadmata sellest tohutust ajast, mis oli tegelikult möödunud.",
+    "Koraan mainib, et me püsisime oma seisundis kolmsada aastat ja ületasime seda üheksa aasta võrra, saades inimkonnale märgiks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Kraavi rahvas",
+        "Thamudi rahvas",
+        "Koopa rahvas",
+        "Madjani rahvas",
+        "Elevandi kaaslased"
+      ],
+      "answer": "Koopa rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Suure üleujutusega silmitsi seistes",
+        "Maa alla neelata",
+        "Pikk imeline uni",
+        "Nende linna hävitamine",
+        "Mere lõhenemine"
+      ],
+      "answer": "Pikk imeline uni"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Põlev põõsas",
+        "Mägi",
+        "Paat",
+        "Koobas",
+        "Kaev"
+      ],
+      "answer": "Koobas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Neile anti tohutu rikkus ja võim",
+        "Nad muudeti ahvideks ja sigadeks",
+        "Nad äratati unest üles sügava märgina",
+        "Nad uppusid suures veeuputuses",
+        "Nad ehitasid suurejoonelise kuningriigi"
+      ],
+      "answer": "Nad äratati unest üles sügava märgina"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

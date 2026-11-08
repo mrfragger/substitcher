@@ -1,0 +1,61 @@
+{
+  "title": "Te Kākano o te Taupatupatu",
+  "intro": "I mua i te mōhio o te ao ki te pakanga whānui, ka puta he whakamātautau nui o te whakapono me te ngohengohe. Ka tūhuratia e tēnei kōrero ngā kōwhiringa a tētahi tangata, ā, ko āna mahi he tauira mō ngā whakatipuranga o muri mai. Kia rite ki te wetewete i te kōrero mō tētahi wairua e raru ana i te hae nui me ōna hua kino.",
+  "clues": [
+    "Ko au tētahi o ngā uri tuatahi i haere i te whenua, he tama nā te tokorua tuatahi.",
+    "I whakahaua māua ko tōku tuakana kia tapae patunga tapu ki a Allah, hei whakamātautau i tō māua pono.",
+    "Kāore taku whakahere i manakohia, engari ko tā tōku tuakana i manakohia, ā, i whakakīia tōku ngākau e te kare ā-roto kino.",
+    "I kōrero ahau i ngā kupu whakawehi ki tōku tuakana, i te kawa o te whakakorenga.",
+    "I whakautu mai tōku tungāne me te whakaaro nui me te karakia, hei whakamahara mai i te tika o Allah me te wehi ki a Ia.",
+    "Ahakoa ngā kupu māhaki a tōku tungāne me tōna hiahia ki te muru hara, i whakamatea e au tētahi tangata, ā, ka noho ko tētahi o te hunga i hinga."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti Arama",
+        "Iblis",
+        "Poropiti a Noa",
+        "Qabil (Kaina)",
+        "Fir'awn"
+      ],
+      "answer": "Qabil (Kaina)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te waipuke nui",
+        "Te wehenga o te moana",
+        "Te hanganga o te Kaaba",
+        "Te whakahere patunga tapu",
+        "Te whakamatautauranga i roto i te Māra"
+      ],
+      "answer": "Te whakahere patunga tapu"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Maunga o Safa",
+        "Te Patunga Tapu",
+        "Te Rakau e Mura Ana"
+      ],
+      "answer": "Te Patunga Tapu"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I riro hei karere",
+        "I toremi",
+        "I hanga he kingitanga nui",
+        "Kua waiho hei tauira o te pouri",
+        "I whakawhiwhia ki te taonga nui"
+      ],
+      "answer": "Kua waiho hei tauira o te pouri"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

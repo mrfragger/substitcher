@@ -1,0 +1,61 @@
+{
+  "title": "Strpljenje napaćene duše",
+  "intro": "U analima povijesti postoji lik čije je ime sinonim za izdržljivost. Ova je osoba bila iskušana gubitkom svake svjetovne udobnosti, ali je ipak ostala odani sluga Stvoritelja. Kroz godine teškoća i fizičkih bolesti, srce ove duše ostalo je usidreno u vjeri, pružajući svjetionik nade svima koji se suočavaju s nedaćama.",
+  "clues": [
+    "Bio sam odani Allahov rob, blagoslovljen obilnim bogatstvom, mnogo djece i izvrsnim zdravljem.",
+    "Moj život se preokrenuo kada sam ostao bez bogatstva i obitelji, ostavivši mi samo vjeru.",
+    "Bolovao sam od dugotrajne i bolne bolesti koja je testirala same granice ljudske izdržljivosti.",
+    "Kroz cijelu svoju patnju, odbijao sam se žaliti na svog Gospodina, čak i kada me protivnik pokušavao dovesti do očaja.",
+    "Kad sam konačno zazvao svoga Gospodara, nisam tražio bogatstvo, već sam jednostavno priznao da me je pogodila nevolja.",
+    "Rečeno mi je da udarim nogom o zemlju, i iz nje je potjecao izvor hladne vode koji će mi izliječiti tijelo i ugasiti žeđ."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Prorok Jakub",
+        "Poslanik Ajjub",
+        "Poslanik Zekarija",
+        "Poslanik Jahja",
+        "Poslanik Šu'ajb"
+      ],
+      "answer": "Poslanik Ajjub"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Godine teške bolesti i gubitka",
+        "Biti bačen u duboki bunar",
+        "Biti progutan od strane divovske ribe",
+        "Suočavanje s tiranom u požaru",
+        "Dugo putovanje u potrazi za učiteljem"
+      ],
+      "answer": "Godine teške bolesti i gubitka"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Štap koji je razdvojio more",
+        "Majica koja je mirisala na dom",
+        "Ljekoviti izvor vode",
+        "Planina koja se raspala u prah",
+        "Pećina dubokog sna"
+      ],
+      "answer": "Ljekoviti izvor vode"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Postati guverner velike zemlje",
+        "Vođenje vojske do pobjede",
+        "Obnova zdravlja i obitelji",
+        "Izgradnja svetog hrama bogoslužja",
+        "Primanje stola postavljenog s neba"
+      ],
+      "answer": "Obnova zdravlja i obitelji"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

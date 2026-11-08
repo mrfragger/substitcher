@@ -1,0 +1,61 @@
+{
+  "title": "A gyászolók virrasztása",
+  "intro": "Egy olyan lélekkel fogsz találkozni, akit a legmélyebb elválás próbára tett, akinek a szeme ismerte a könnyek nyelvét, mégis akinek a szíve soha nem veszítette el a reményt. Egy megtévesztés, vágyakozás és végül újraegyesülés történetében Allah e nemes szolgája az idők végezetéig tartó türelem szimbólumává vált. Ki bírta ki a rejtett fájdalom éveit, hogy aztán egyetlen pillanat alatt visszanyerje látását és örömét?",
+  "clues": [
+    "Egy próféta vagyok, akinek a neve a türelem szimbólumává vált a nagy veszteséggel szembenézve.",
+    "Sok fiúval áldott meg a sors, de az egyiket mások féltékenysége elragadta tőlem.",
+    "Olyan mély volt a szeretetem az elveszett iránt, hogy a szemem kifehéredett a bánattól, mégis soha nem panaszkodtam, csak Allahnak.",
+    "Visszaküldtem a fiaimat, hogy keressék meg az elveszett fiamat és a testvérét, és arra kértem őket, hogy ne adják fel a reményt.",
+    "Amikor megérkezett a jó hír hozója, egy inget húztak az arcomra, és hirtelen újra kitisztult a világ.",
+    "Engem Izraelként ismernek, és tizenkét fiamtól származik egy nagy nemzet tizenkét törzse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Ja'qub (Jákob) próféta",
+        "Juszuf (József) próféta",
+        "Izsák próféta",
+        "Ibrahim (Ábrahám) próféta",
+        "Ayyub (Jób) próféta"
+      ],
+      "answer": "Ja'qub (Jákob) próféta"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Sok éven át tartó elszakadás szeretett fiától",
+        "Lángoló tűzbe vetve",
+        "Egy nagy hal lenyelte",
+        "Súlyos bőrbetegségben szenvedett",
+        "Gyermektelennek lenni idős koráig"
+      ],
+      "answer": "Sok éven át tartó elszakadás szeretett fiától"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Juszuf inge",
+        "Múza személyzete",
+        "Nú ládája",
+        "Salih teve",
+        "Szulejmán gyűrűje"
+      ],
+      "answer": "Juszuf inge"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Látása helyreállt, és újra találkozhatott fiával",
+        "Győzelmet aratott egy zsarnok király felett",
+        "Élve a mennyekbe emelve",
+        "Egyiptom uralkodójává nevezték ki",
+        "Csodaként fiút kaptak idős korukban"
+      ],
+      "answer": "Látása helyreállt, és újra találkozhatott fiával"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

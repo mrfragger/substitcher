@@ -1,0 +1,61 @@
+{
+  "title": "The Stone-Carvers of the Ancient Valley",
+  "intro": "Imagine a civilization that rose in the rocky valleys of Arabia, skilled in carving magnificent homes from the mountainsides. They flourished with strength and artistry, yet their story is marked by a chilling defiance of divine warning. As you delve into their tale, you will uncover a people whose arrogance led to their utter annihilation. Who were they?",
+  "clues": [
+    "We inherited a land of rocky plains and towering cliffs, where we built our dwellings with unmatched skill.",
+    "We were known for carving secure homes into the mountains, feeling safe from any harm.",
+    "A messenger came to us from among ourselves, reminding us of Allah's favors and warning us of punishment.",
+    "We demanded a sign, and a miraculous she-camel emerged from the rock, a clear test from Allah.",
+    "We defied the warning and hamstrung the she-camel, mocking the messenger and challenging the punishment.",
+    "A single blast overtook us in our homes, and by morning we lay prostrate, as if we had never lived there."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Who Am I?",
+      "options": [
+        "People of Thamud",
+        "People of 'Ad",
+        "People of Madyan",
+        "People of Nuh",
+        "People of Lut"
+      ],
+      "answer": "People of Thamud"
+    },
+    "trial": {
+      "label": "Trial/Event",
+      "options": [
+        "Hamstrung the she-camel",
+        "Broke the Sabbath",
+        "Worshiped the golden calf",
+        "Killed the prophet sent to them",
+        "Built a tower to reach the sky"
+      ],
+      "answer": "Hamstrung the she-camel"
+    },
+    "location": {
+      "label": "Key Element",
+      "options": [
+        "The she-camel",
+        "The Ark",
+        "The staff",
+        "The white hand",
+        "The manna and quails"
+      ],
+      "answer": "The she-camel"
+    },
+    "outcome": {
+      "label": "Outcome",
+      "options": [
+        "Destroyed by a blast",
+        "Saved from destruction",
+        "Turned into apes",
+        "Drowned in the sea",
+        "Swallowed by the earth"
+      ],
+      "answer": "Destroyed by a blast"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

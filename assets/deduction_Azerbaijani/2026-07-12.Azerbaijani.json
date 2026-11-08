@@ -1,0 +1,61 @@
+{
+  "title": "Misilsiz Əlahəzrətin İtirilmiş Şəhəri",
+  "intro": "Bir vaxtlar göylərə qədər uzanan uca tikililəri ilə məşhur olan qüdrətli bir sivilizasiya yer üzünün geniş ərazilərinə hakim idi. Lakin bu əzəmətin altında inadkar bir inkar - cəmiyyətin öz daxilindən göndərilən ilahi xəbərdarlıqlara qulaq asmaqdan imtina artdı. Təkəbbür və təkəbbür tezliklə nə yerin, nə də göyün heç vaxt görmədiyi bir cəzaya səbəb olacaqdı.",
+  "clues": [
+    "Biz bir vaxtlar yer üzünün geniş ərazilərinə hökmranlıq etmiş, başqa heç bir sivilizasiyanın müqayisə edə bilməyəcəyinə inandığımız bir güclə öyünmüşdük.",
+    "Bizim ərazimiz bütün məlum torpaqlarda misilsiz şəkildə ucalmış qüdrətli sütunları olan uca tikililəri ilə məşhur idi.",
+    "Öz ümmətimizdən bir xəbərdarlıqçı ayağa qalxdı və hər birimizi yalnız Tək Yaradana təslim olmağa çağırdı.",
+    "Bizə çatdırılan mesajı inkar etdik və miras aldığımız yoldan imtina etməkdən imtina etdik.",
+    "Bizə qarşı şiddətli, ulayan bir külək əsdi və bizi tamamilə müdafiəsiz qoydu.",
+    "Biz hər nəsil üçün bir ibrət olsun deyə, içi boş xurma ağacları kimi dağınıq və unudulmuş halda qaldıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Ad xalqı",
+        "Nuh qövmü",
+        "Lut qövmü",
+        "Mədyən xalqı",
+        "Tubba xalqı"
+      ],
+      "answer": "Ad xalqı"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Şiddətli cəzanın amansız coşğun küləyi",
+        "Hər dağ zirvəsini bürüyən bir sel",
+        "Yuxarıdan yanan gil daşlarından ibarət yağış",
+        "Göylərdən tək bir dəhşətli qışqırıq",
+        "Torpağı iki yerə bölən şiddətli zəlzələ"
+      ],
+      "answer": "Şiddətli cəzanın amansız coşğun küləyi"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Uca sütunlar şəhəri olan İrəm",
+        "Dağın üzərində tikilmiş nəhəng ağacdan hazırlanmış bir gəmi",
+        "Möcüzəvi şəkildə daşdan çıxan dişi dəvə",
+        "İlahi əmrlərin nazil olduğu Sina dağı",
+        "Axan sulara baxan büllur və incə şüşədən ibarət bir saray"
+      ],
+      "answer": "Uca sütunlar şəhəri olan İrəm"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "xurma ağaclarının içi boş gövdələri kimi dağınıq və cansız qalacaqlar.",
+        "Böyük bir daşqının böyük dalğaları altında boğuldu",
+        "Meymun və donuza bənzər canlılara çevrildi",
+        "Bərkimiş gil daşlarının yağışı altında əzilib",
+        "Ruhu deşən tək bir kar edən bir fəryadda məhv oldu"
+      ],
+      "answer": "xurma ağaclarının içi boş gövdələri kimi dağınıq və cansız qalacaqlar."
+    }
+  },
+  "verseRef": "89:7",
+  "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "verse": "[With] Iram - who had lofty pillars, (89:7)"
+}

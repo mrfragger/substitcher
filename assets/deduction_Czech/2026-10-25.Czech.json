@@ -1,0 +1,61 @@
+{
+  "title": "Stížnost slyšet přes hluk",
+  "intro": "Slyšíte hlas stoupající ze společnosti, kde se útlak stal rutinou. Žádná demonstrace moci neodpovídá na stížnost; místo toho se k Alláhovi dostane přímá výzva a reakce zasahuje samotné jádro uctívání. Kdo vznesl tuto stížnost, jaká otázka následovala a jaká pravda byla potvrzena?",
+  "clues": [
+    "Začal mě trápit útlak lidí kolem mě.",
+    "Tuto stížnost jsem vyjádřil přímo Alláhovi v osobní stížnosti.",
+    "Alláh vyslyšel stížnost a odpověděl výzvou ohledně mé vlastní víry.",
+    "Odpověď zněla, jak jsem mohl nevěřit v Alláha, který je Jeden a Nejvyšší.",
+    "Pak jsem se zeptal, proč by Alláh měl upřednostňovat lidi, kteří nevěří.",
+    "Já jsem Uzair, jmenovaný v súře Az-Zuchruf jako ten, jehož stížnost Alláh vyslyšel."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Uzair",
+        "Společník, který se plavil za velké povodně",
+        "Služebník, který kráčel po vodě",
+        "Spící chráněný v jeskyni",
+        "Sluha, který přinesl kameny k řece"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Stěžování si Alláhovi na útlak lidí",
+        "Chůze po vodě během bouře",
+        "Nošení kamenů k řece, které chyběla voda",
+        "Plavba velkou povodní na palubě archy",
+        "Získání klíče k nesmírnému pokladu"
+      ],
+      "answer": "Stěžování si Alláhovi na útlak lidí"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Přímá stížnost adresovaná Alláhovi",
+        "Hůl, která se proměnila v hada",
+        "Pec chladná a klidná",
+        "Archa plující nad potopou",
+        "Ryba polykající sluhu"
+      ],
+      "answer": "Přímá stížnost adresovaná Alláhovi"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Alláh vyslyšel stížnost a potvrdil božskou Jednotu a Nejvyšší Pána",
+        "Bezpečná chůze po vodě během bouře",
+        "Bezpečný přejezd velké povodně na palubě archy",
+        "Znovuzískání zraku v paláci arogance",
+        "Získávání nadvlády táhnoucí se od východu na západ"
+      ],
+      "answer": "Alláh vyslyšel stížnost a potvrdil božskou Jednotu a Nejvyšší Pána"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nosiciel Dziewięciu Znaków",
+  "intro": "Postać zrodziła się z najskromniejszych początków, z przeznaczeniem zapisanym w boskiej woli. Ukryta w dzieciństwie i wychowana w murach tego samego władcy, który pragnął zniszczyć ich lud, dusza ta została ostatecznie powołana do potężnej misji. Wyposażeni jedynie w wiarę i pokorną pasterską laskę, stanęli przed najpotężniejszym władcą epoki i zażądali wolności dla zniewolonych. Świat zdawał się poruszać na ich rozkaz – wody się rozstąpiły, niebiosa przemówiły, a królestwo upadło.",
+  "clues": [
+    "Moje pierwsze dni były naznaczone strachem — niemowlęta takie jak ja były ścigane zaraz po narodzinach przez bezlitosnego władcę, który bał się przyszłości.",
+    "Zostałem uratowany przez wodę i wychowany w pałacu tego samego władcy, który pragnął mojego zniszczenia.",
+    "Po niespodziewanym incydencie opuściłem ojczyznę i zostałem skromnym pasterzem w odległym kraju.",
+    "Wróciłem, by stawić czoła temu potężnemu władcy z prostą laską i jasnym przesłaniem, domagając się wolności mojego ludu.",
+    "Rozdzieliłem wielki zbiornik wodny przed tymi, którzy szli za mną, i patrzyłem, jak woda ta pochłonęła mojego wroga w całości.",
+    "Wspiąłem się na świętą górę, aby otrzymać boskie wskazówki od Allaha i otrzymałem dziewięć wyraźnych znaków jako dowód prawdy."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Musa",
+        "Prorok Noh",
+        "Prorok Ibrahim",
+        "Prorok Yusuf",
+        "Prorok Lut"
+      ],
+      "answer": "Prorok Musa"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Konfrontacja z faraonem na jego dworze",
+        "Budowa Arki, która przetrwała wielką powódź",
+        "Wrzucenie w płonący ogień przez twórców bożków",
+        "Bycie spuszczanym do głębokiej studni przez moich braci",
+        "Próbuję powstrzymać mój lud przed niemoralnym postępowaniem"
+      ],
+      "answer": "Konfrontacja z faraonem na jego dworze"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Laska, która zamieniła się w węża",
+        "Arka Noego",
+        "Tron Bilqis",
+        "Pierścień kontrolujący wiatr i dżiny",
+        "Klucze do zgromadzonych skarbów są tak ciężkie"
+      ],
+      "answer": "Laska, która zamieniła się w węża"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Poprowadziłem mój lud przez rozdarte wody ku wolności",
+        "Został uratowany z wielkiej powodzi w Arce",
+        "Powrócił do zdrowia i rodziny po głębokim cierpieniu",
+        "Został wyrzucony żywy z wielkiej ryby",
+        "Zbudował fundamenty Domu Świętego"
+      ],
+      "answer": "Poprowadziłem mój lud przez rozdarte wody ku wolności"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ceannaire Ceaptha Náisiúin",
+  "intro": "I ré dúshláin agus éadóchais mhóir do phobal, rinneadh ceapachán diaga. Roghnaigh Allah an duine seo, a raibh neamhaird déanta aige ar dtús ag go leor, chun náisiún a threorú i gcoinne namhaid uafásach. Is fianaise ar chumhacht an chreidimh agus ar an eagna atá taobh thiar de fhoraithne dhiaga a scéal, rud a léiríonn nach mbíonn fíorcheannaireacht le fáil i gcónaí sna háiteanna a bhfuiltear ag súil leo.",
+  "clues": [
+    "Roghnaigh Allah mé le bheith i mo cheannaire ar mo mhuintir nuair a bhí siad ag lorg rialóir le troid ar a shon.",
+    "Chuir mo mhuintir ceist ar mo cheapachán ar dtús, agus mhothaigh siad go raibh daoine eile níos tuillte aige mar gheall ar a saibhreas nó a sinsearacht.",
+    "Comhartha ar mo cheannaireacht cheart ab ea filleadh cófra naofa, ina raibh iarsmaí ó fháithe roimhe seo, rud a thug suaimhneas dom.",
+    "Threoraigh mé mo arm chuig abhainn, áit ar thástáil mé a n-umhlaíocht trí thoirmeasc a chur orthu níos mó ná scúp amháin uisce a ól.",
+    "In ainneoin an líon beag díobh siúd a d’fhan daingean i ndiaidh na tástála, bhíomar os comhair laoch cumhachtach agus a n-arm.",
+    "Faoi mo cheannas, thug duine óg ó m'arm, nach raibh ina throdaire clúiteach, aghaidh go cróga ar churadh uafásach an namhad agus bhuaigh sé air."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Fáidh Iósaf",
+        "an Fáidh Músa",
+        "Fáidh Dawud",
+        "Fáidh Sulaiman",
+        "Talút"
+      ],
+      "answer": "Talút"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Scoilteadh na farraige",
+        "Dúshlán na ndraoithe",
+        "An ceapachán mar cheannaire i gcoinne fathaigh",
+        "An tuile a shlog an talamh",
+        "Foirgneamh an Kaaba"
+      ],
+      "answer": "An ceapachán mar cheannaire i gcoinne fathaigh"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "An tor dóite",
+        "An Áirc (Tabut)",
+        "An fhoireann (foireann)",
+        "An lao órga",
+        "Tobar Zamzam"
+      ],
+      "answer": "An Áirc (Tabut)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bunaíodh ríocht a raibh saibhreas agus cumhacht ollmhór aici.",
+        "Báthadh na daoine i dtuilte móra.",
+        "Buaileadh curadh an namhad, agus bhronn Allah an bua.",
+        "Bhí triomach mór ag cur as don tír ar feadh na mblianta.",
+        "Slogadh an ceannaire ag créatúr mór."
+      ],
+      "answer": "Buaileadh curadh an namhad, agus bhronn Allah an bua."
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

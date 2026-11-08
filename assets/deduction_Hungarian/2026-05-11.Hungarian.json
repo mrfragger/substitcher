@@ -1,0 +1,61 @@
+{
+  "title": "Az állhatatos Tanúk",
+  "intro": "Képzelj el egy olyan kort, amikor a hitet tűz próbára tette, és a rendíthetetlen meggyőződés a végső ellenállássá vált. Feladatod egy olyan csoport kilétének feltárása, amelynek történetét a Korán meséli el, amely a mély hitről szól a mindent elsöprő zsarnokság ellen. Fejtsd meg a nyomokat, hogy megtudd, kik voltak ezek a lelkek, és milyen rendkívüli körülményekkel néztek szembe.",
+  "clues": [
+    "Szilárdan kitartottunk meggyőződésünk mellett, annak ellenére, hogy hatalmas nyomás nehezedett ránk, hogy megtagadjuk hitünket.",
+    "Egy hatalmas uralkodó célba vett minket, aki el akarta oltani a monoteizmus fényét.",
+    "Nagy jeleknek és csodáknak voltunk tanúi, elnyomóink mégis közömbösek maradtak.",
+    "Egy szörnyű üldöztetési módszert kellett elviselnünk, amelynek célja másokat terrorizálni és engedelmességre kényszeríteni.",
+    "Lángoló pokolba vetettek minket, de kitartásunkkal magas rangot szereztünk magunknak Allah előtt.",
+    "Történetünket egy égi csillagképekről elnevezett szúrában mesélik el, amely a hívőket üldözők sorsára figyelmeztet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kik vagyunk mi?",
+      "options": [
+        "Thamud népe",
+        "Az 'Ad népe",
+        "Az árok népe",
+        "Midián népe",
+        "Az elefánt népe"
+      ],
+      "answer": "Az árok népe"
+    },
+    "trial": {
+      "label": "Üldöztetésünk",
+      "options": [
+        "Árvízbe fulladni",
+        "Perzselő szél emészti el",
+        "Tüzes árokba vetve",
+        "Elnyeli a föld",
+        "Majmokká alakulnak"
+      ],
+      "answer": "Tüzes árokba vetve"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy hatalmas árvíz",
+        "Egy hatalmas földrengés",
+        "Egy mély, égő árok",
+        "Egy hatalmas bálvány",
+        "Pusztító aszály"
+      ],
+      "answer": "Egy mély, égő árok"
+    },
+    "outcome": {
+      "label": "Végső sorsunk",
+      "options": [
+        "Királyságot kaptak a földön.",
+        "Egy csodálatos menekülés mentette meg őket.",
+        "Elérték a vértanúságot és az örök jutalmat.",
+        "Egy másik fajjá alakultak át.",
+        "Hatalmas vagyont és jólétet adományoztak nekik."
+      ],
+      "answer": "Elérték a vértanúságot és az örök jutalmat."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

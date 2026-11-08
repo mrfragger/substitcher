@@ -1,0 +1,61 @@
+{
+  "title": "I Guardian del Giardin",
+  "intro": "In d’un giardin lüssuregh, una comunità g’ha fatt un vù solenn. Ma la sò risoluziun l’è stada metüda a la prœuva quand che la voluntà divina l’è intervenuda, trasfurmand luur generosità en una terra steril.",
+  "clues": [
+    "Sun stà benedì cunt un giardin ricco, ma sem diventà arruganti.",
+    "G’hem fad un pian per racoglier senza condivider cunt i puaret.",
+    "Partìm la matina bonora, sicür del noster pian.",
+    "Ma quand sem rivà, g’hem truvà che el noster giardin l’era stà distrutt durant la nott.",
+    "G’hem capì el noster errur e g’hem cumincià a dar la colpa l’un a l’olter.",
+    "Finalment se sem pentì, ma la leziun l’è stada imparada trop tard."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "Gent del giardin",
+        "Gent de la Caverna",
+        "La gent del elefant",
+        "Popol de Thamud",
+        "Gent de 'Ad"
+      ],
+      "answer": "Gent del giardin"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Un giardin trasfurmà en ceneri",
+        "Un diluvio che g’ha distrutt tüt",
+        "Una carestia che l’ha colpì la terra",
+        "Un esercit de œsèi che ataca",
+        "Un vent grand che g’ha desradicà i alber"
+      ],
+      "answer": "Un giardin trasfurmà en ceneri"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Un giardin",
+        "Una caverna",
+        "Una barca",
+        "Una muntagna",
+        "Un palazz"
+      ],
+      "answer": "Un giardin"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Se sun pentì ma g’han perdü el luur giardin",
+        "Sun stà distrutt cumpletament",
+        "Sun stà trasfurmà en simi",
+        "Sun stà salvà per la fed",
+        "Sun diventà guvernant"
+      ],
+      "answer": "Se sun pentì ma g’han perdü el luur giardin"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

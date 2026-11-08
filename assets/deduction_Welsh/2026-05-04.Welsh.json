@@ -1,0 +1,61 @@
+{
+  "title": "Pensaer y Balchder",
+  "intro": "Mewn tir hynafol a oedd yn cael ei reoli gan rym herfeiddiol, roedd unigolyn allweddol mewn safle dylanwadol. Roedd yr enaid hwn yn allweddol yng nghynlluniau mawreddog y llywodraethwr, gan gyfrannu at eu teyrnasiad gormesol a herio'r neges ddwyfol. Mae eu hetifeddiaeth wedi'i chydblethu â mynd ar drywydd grym bydol a gwadu gwirionedd.",
+  "clues": [
+    "Gwasanaethais reolwr aruthrol a orthrymai pobl am genedlaethau.",
+    "Mae fy enw i'n cael ei grybwyll yn aml yn y Llyfr Dwyfol ochr yn ochr â'r arweinydd pwerus hwn.",
+    "Cefais y dasg o brosiect adeiladu mawreddog, strwythur uchel a oedd i fod i gyrraedd y nefoedd.",
+    "Cynghorais fy meistr i ladd meibion ​​​​Meibion ​​​​Israel ac arbed eu merched.",
+    "Roeddwn i'n rhan o gynllwynion a chynlluniau yn erbyn negesydd nerthol Allah.",
+    "Daeth fy niwedd, ynghyd â'm meistr a'i fyddin, yn nyfroedd môr mawr."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goliath",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Cael eich profi gyda chyfoeth aruthrol",
+        "Arwain byddin yn erbyn tŷ cysegredig",
+        "Adeiladu tŵr i gyrraedd Duw",
+        "Cael eu taflu i'r tân am eu cred",
+        "Cael eich bwrw i ffynnon gan frodyr a chwiorydd"
+      ],
+      "answer": "Adeiladu tŵr i gyrraedd Duw"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Yr Arch",
+        "Y Staff",
+        "Y Mynydd",
+        "Y Tŵr",
+        "Y Morfil"
+      ],
+      "answer": "Y Tŵr"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cael doethineb aruthrol",
+        "Dod yn broffwyd",
+        "Cael ei lyncu gan y ddaear",
+        "Cael teyrnas",
+        "Boddi yn y môr"
+      ],
+      "answer": "Boddi yn y môr"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

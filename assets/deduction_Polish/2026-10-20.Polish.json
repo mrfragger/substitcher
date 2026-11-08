@@ -1,0 +1,61 @@
+{
+  "title": "Architekt fałszywej ambicji",
+  "intro": "Postać o wielkim autorytecie służyła niegdyś jednemu z najsłynniejszych tyranów w historii starożytnego Egiptu. Temu człowiekowi powierzono zuchwałe zadanie – zbudowanie budowli, która miała przeciwstawić się niebiosom. Jego historia jest w Koranie poruszającą lekcją, jak ślepe posłuszeństwo arogancji prowadzi jedynie do zguby.",
+  "clues": [
+    "Służyłem na dworze potężnego władcy, który twierdził, że jest bogiem sprawującym władzę nad tymi ziemiami.",
+    "Zajmowałem wysokie stanowisko ministerialne, będąc doradcą najbardziej aroganckiego tyrana moich czasów.",
+    "Mój władca był pochłonięty rzucaniem wyzwania Bogu Mojżesza, którego nie chciał uznać.",
+    "Kazano mi zbudować wieżę z wypalanych w ogniu cegieł, aby mój władca mógł wstąpić do nieba.",
+    "Wieża nigdy nie sięgnęła nieba, a moja uległość wobec arogancji przyniosła mi wieczną hańbę.",
+    "Zginąłem wraz z tym, za którym podążałem, a imię moje stało się wiecznym ostrzeżeniem przed tymi, którzy wspierają tyranów."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Haman",
+        "Azar (ojciec Ibrahima)",
+        "Illyas (prorok)",
+        "Dhu al-Kifl",
+        "Harut (jeden z dwóch aniołów w Babilonie)"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Rozkazano mi zbudować wysoką konstrukcję, która sięgnie nieba",
+        "Poproszono mnie o zinterpretowanie snu zesłanego przez Boga",
+        "Wrzucony w płonący ogień jako próba wiary",
+        "Zmuszony do wyboru między tronem a prawdą",
+        "Wyzwany w konkursie czarów"
+      ],
+      "answer": "Rozkazano mi zbudować wysoką konstrukcję, która sięgnie nieba"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Wieża z wypalanych ogniem cegieł",
+        "Laska, która przemieniła się w węża",
+        "Statek płynący przez wielką powódź",
+        "Ogród otoczony wysokimi murami",
+        "Tron ozdobiony rubinami i złotem"
+      ],
+      "answer": "Wieża z wypalanych ogniem cegieł"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Utonął obok ciemiężcy w morzu",
+        "Stał się potężnym monarchą rozległych ziem",
+        "Uciekł z płonącego pożaru bez szwanku",
+        "Zbudował prosperujące królestwo mądrości",
+        "Po latach wygnania spotkał się ponownie z rodziną"
+      ],
+      "answer": "Utonął obok ciemiężcy w morzu"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

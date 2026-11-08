@@ -1,0 +1,61 @@
+{
+  "title": "Daxwaza Desthilata Mutleq",
+  "intro": "Di demên kevnar de, kesekî bi hêz li ser axeke berfireh û niştecihên wê serdest bû. Serdestiya vê kesayetiyê bi serbilindiyeke mezin û dijberiyeke kûr a li hember desthilatdariya îlahî hate nîşankirin. Xwe amade bikin ku nasnameya giyanekî eşkere bikin ku çarenûsa wî ya dawîn ji bo hemû nifşan bûye derseke mayînde.",
+  "clues": [
+    "Min li ser împaratoriyeke mezin hukum dikir, ku peyva min tê de qanûn bû.",
+    "Min xwe wek xwedayê herî mezin îlan kir, û ji hemû kesên di bin hukumdariya min de daxwaza perestinê kir.",
+    "Min li ser civatek diyarkirî zordarî kir, ew kirin kole û fermana kuştina pitikên wan ên kur da.",
+    "Ez gelek caran bi peyamberekî dilnizm ê Xwedê re rû bi rû mam, ku li ber min û sêrbazên min mûcîzeyên eşkere pêk anîn.",
+    "Min bi serhişkî rastî red kir, peyamber bi sêrbaziyê tawanbar kir û komployek çêkir da ku wî û şagirtên wî tune bikim.",
+    "Ez û hemû artêşa min di nav deryayê de man dema ku me bê westan li dû wan kesên ku ji destê min hatibûn rizgarkirin diçûn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Nemrûd",
+        "Ebû Cehl",
+        "Îblîs",
+        "Fîrewn",
+        "Haman"
+      ],
+      "answer": "Fîrewn"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Tofana Mezin",
+        "Agirê Dişewite",
+        "Xeniqîna Zordar",
+        "Wêrankirina ji ber Bayê",
+        "Erdheja Bêbaweriyê"
+      ],
+      "answer": "Xeniqîna Zordar"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keştiya Nûh",
+        "Çapa Mûsa",
+        "Îdolê Zêrîn",
+        "Kaniya Zemzemê",
+        "Textê Bilqisê"
+      ],
+      "answer": "Çapa Mûsa"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Padîşahiyek mezin daye",
+        "Laş wekî nîşanek tê parastin",
+        "Piştî tobekirinê hat bexşandin",
+        "Bi pêxemberîtiyê bilind bûye",
+        "Gelê wî bûne dîwanekar"
+      ],
+      "answer": "Laş wekî nîşanek tê parastin"
+    }
+  },
+  "verseRef": "20:78",
+  "arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ",
+  "verse": "So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them, (20:78)"
+}

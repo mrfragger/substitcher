@@ -1,0 +1,60 @@
+{
+  "title": "Gadsimtu miegs",
+  "intro": "Jūs gatavojaties doties ceļojumā cauri laikam, sastopot dziļu ticības un dievišķā spēka noslēpumu. Iedomājieties cilvēku grupu, kas nepakļāvās savas sabiedrības normām, turoties pie monoteisma politeisma pasaulē. Viņu stāsts ir apliecinājums Allāha spējai aizsargāt Savus taisnīgos kalpus visneparastākajos veidos. Vai varat atklāt šo ievērojamo personu identitāti?",
+  "clues": [
+    "Mēs bijām neliela jaunu vīriešu grupa, kas ticēja vienam Dievam, neskatoties uz mūsu tautā plaši izplatīto politeismu.",
+    "Mēs bēgām no tirāniska valdnieka, kurš mums draudēja mūsu ticības dēļ, baidoties no vajāšanas un nāves.",
+    "Mēs meklējām patvērumu nomaļā vietā, cerot uz Allāha žēlastību un aizsardzību no mūsu apspiedējiem.",
+    "Mūsu Kungs lika mums iegrimt dziļā miegā, brīnumainā miegā, kas nepakļāvās laika ritējumam.",
+    "Kad pamodāmies, mēs domājām, ka esam atpūtušies tikai dienu vai dienas daļu, neapzinoties, cik plašs laika posms patiesībā bija pagājis.",
+    "Korāns min, ka mēs palikām savā stāvoklī trīssimt gadus un pārsniedzām to par deviņiem gadiem, kļūstot par zīmi cilvēcei."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Grāvja ļaudis",
+        "Tamudas ļaudis",
+        "Alas ļaudis",
+        "Madjanas iedzīvotāji",
+        "Ziloņa pavadoņi"
+      ],
+      "answer": "Alas ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Saskaroties ar lieliem plūdiem",
+        "Tikt norītai zemei",
+        "Ilgais brīnumainais miegs",
+        "Viņu pilsētas iznīcināšana",
+        "Jūras sadalīšana"
+      ],
+      "answer": "Ilgais brīnumainais miegs"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Degošs krūms",
+        "Kalns",
+        "Laiva",
+        "Ala",
+        "Aka"
+      ],
+      "answer": "Ala"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Viņiem tika piešķirta milzīga bagātība un vara",
+        "Viņi tika pārvērsti par pērtiķiem un cūkām",
+        "Viņi tika piecelti no miega kā dziļa zīme",
+        "Viņi noslīka lielos plūdos",
+        "Viņi uzcēla krāšņu valstību"
+      ],
+      "answer": "Viņi tika piecelti no miega kā dziļa zīme"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Neochvejný staviteľ spásy",
+  "intro": "Táto postava nesmiernej trpezlivosti a neochvejného presvedčenia zasvätila nespočetné roky božskému poslaniu a čelila neúprosnému pohŕdaniu a odmietnutiu. Ich príbeh je silným dôkazom viery tvárou v tvár ohromujúcej nedôvere, ktorá vyvrcholila významnou udalosťou, ktorá zmenila svet.",
+  "clues": [
+    "Neuveriteľne dlhé obdobie svojho života som venoval volaniu svojich ľudí k uctievaniu Alaha.",
+    "Moji ľudia sa mi vysmievali a obviňovali ma z očividnej chyby a šialenstva.",
+    "Bolo mi prikázané postaviť niečo, čo sa zdalo nezvyčajné pre moju vnútrozemskú komunitu.",
+    "Len málokto uveril a pridal sa ku mne a mojej rodine na tejto jedinečnej stavbe.",
+    "Na palube som niesol po pároch od každého živého tvora, ako mi prikázal Alah.",
+    "Zem zaplavila veľká potopa, ktorá zachránila iba tých, ktorí boli so mnou v mojej lodi, zatiaľ čo môj vlastný syn zahynul pre svoju neveru."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Sálih",
+        "Prorok Hud",
+        "Prorok Nuh",
+        "Prorok Dawud",
+        "Prorok Sulajmán"
+      ],
+      "answer": "Prorok Nuh"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Zničenie zemetrasením",
+        "Rozštiepenie mora",
+        "Veľká povodeň",
+        "Oheň Nimroda",
+        "Mor žiab"
+      ],
+      "answer": "Veľká povodeň"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Horiaci ker",
+        "Archa",
+        "Studňa vody",
+        "Zlaté teľa",
+        "Hora Tur"
+      ],
+      "answer": "Archa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Dostal kráľovstvo",
+        "Jeho ľudia sa premenili na opice",
+        "Jeho ľud bol zachránený zázrakom",
+        "Jeho ľudia sa utopili",
+        "Jeho ľud zasiahol blesk"
+      ],
+      "answer": "Jeho ľudia sa utopili"
+    }
+  },
+  "verseRef": "71:25",
+  "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا",
+  "verse": "Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers. (71:25)"
+}

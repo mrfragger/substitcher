@@ -1,0 +1,61 @@
+{
+  "title": "Niezachwiany sojusznik w próbie złota",
+  "intro": "W cieniu wielkiego proroka, dusza elokwencji i wiary została wybrana, by pomóc w monumentalnej misji. Ta postać pozostała niewzruszona, gdy masy się zachwiały, głosząc rażące wykroczenie, które zagrażało samej istocie monoteizmu. Kiedy prorok powrócił, by zobaczyć upadek ludu, jej obrona nie opierała się na winie, lecz na obowiązku i lęku przed podziałami. Kim jest ten oddany sługa Allaha?",
+  "clues": [
+    "Zostałem wybrany przez Allaha do pełnienia świętego obowiązku, obok innego, a moja rola polegała na wspieraniu i głoszeniu.",
+    "Obdarzono mnie jasnością mowy i towarzyszyłem posłańcowi, aby stawić czoła potężnemu ciemiężycielowi.",
+    "Podczas ważnej podróży posłaniec samotnie wspiął się na górę, zostawiając mnie z zadaniem pilnowania ludzi.",
+    "Pod ich nieobecność ludzie sporządzili złoty posąg, a ja błagałem ich, aby pozostali wierni, lecz odrzucili moją radę.",
+    "Kiedy posłaniec powrócił, pełen gniewu i żalu, zostałem schwytany, ale wyjaśniłem, że zostałem obezwładniony i obawiam się, że wywołam wśród nich niezgodę.",
+    "Jestem prorokiem, który stał u boku Mojżesza, mojego brata, dzieląc z nim brzemię i pozostając stanowczym wobec bałwochwalstwa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Harun",
+        "Prorok Musa",
+        "Prorok Isa",
+        "Prorok Dawud",
+        "Prorok Zachariasz"
+      ],
+      "answer": "Prorok Harun"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Ludzie czcili złotego cielca pomimo ostrzeżeń",
+        "Ludzie wrzucili mnie w płonący ogień",
+        "Zostałem połknięty przez wielką rybę",
+        "Zostałem uwięziony na podstawie fałszywych zarzutów",
+        "Zostałem wygnany z mojego miasta za głoszenie kazań"
+      ],
+      "answer": "Ludzie czcili złotego cielca pomimo ostrzeżeń"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Złoty cielec",
+        "Płonący krzew",
+        "Laska, która zamieniła się w węża",
+        "Tablice Przymierza",
+        "Arka Przymierza"
+      ],
+      "answer": "Złoty cielec"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Zostałem oczyszczony z zarzutów i kontynuowałem swoją misję prorocką",
+        "Zostałem ukarany za grzechy ludzi",
+        "Dano mi nowy naród do prowadzenia",
+        "Zostałem wzięty żywy do nieba",
+        "Zostałem władcą królestwa"
+      ],
+      "answer": "Zostałem oczyszczony z zarzutów i kontynuowałem swoją misję prorocką"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

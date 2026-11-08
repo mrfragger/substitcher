@@ -1,0 +1,61 @@
+{
+  "title": "la recerca estel·lar de la certesa",
+  "intro": "Imagineu-vos sota un vast cel nocturn, observant com les llums brillants s'eleven i s'esvaeixen mentre busqueu allò que realment mereix devoció. Al vostre voltant, les imatges tallades silencioses reben lloances i ofrenes, però la raó clara qüestiona el seu poder. Una veu valenta està a punt de desafiar la tradició heretada i assenyalar el Creador del cel i la terra.",
+  "clues": [
+    "Vaig mirar les estrelles, la lluna i el sol, i vaig raonar que no podien ser el meu Senyor perquè es ponen i desapareixen.",
+    "Vaig repudiar obertament allò que el meu poble adorava a més d'Al·là i els vaig cridar a adorar només el Creador.",
+    "Vaig debatre amb un governant fanfarró que afirmava donar la vida i la mort, i vaig respondre esmentant que Al·là feia venir el sol des de l'est.",
+    "Vaig colpejar els ídols i els vaig esmicolar, deixant només els més grans perquè el poble hi pogués tornar.",
+    "Vaig ser capturat i condemnat pel meu poble, que em va dir que construís una estructura i em llencés al foc ardent.",
+    "Vaig ser salvat quan Al·là va ordenar que el foc fos frescor i seguretat per a mi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Ibrahim (Abraham)",
+        "Profeta Yahya (Joan)",
+        "Profeta Al-Yasa (Eliseu)",
+        "El Samiri",
+        "Namrud (Nimrod)"
+      ],
+      "answer": "Profeta Ibrahim (Abraham)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Va enfrontar-se a l'adoració d'ídols i va debatre el significat dels cossos celestes",
+        "Va ser engolit per un gran peix després de marxar enfadat",
+        "Va guiar els seus seguidors a través d'un mar dividit per Al·là",
+        "Va ser ressuscitat viu als cels sense tastar la mort",
+        "Va dormir en una cova amb companys durant molts anys"
+      ],
+      "answer": "Va enfrontar-se a l'adoració d'ídols i va debatre el significat dels cossos celestes"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un foc ardent fet fresc i segur per Al·là",
+        "L'arca que va portar els creients a través del diluvi",
+        "El bastó que es va convertir en una serp",
+        "La taula parada des del cel",
+        "La camella enviada com a senyal"
+      ],
+      "answer": "Un foc ardent fet fresc i segur per Al·là"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Protegit del foc i amb descendents justos",
+        "Ofegat amb negacionistes en una gran inundació",
+        "Transformat per violar el Sàbat",
+        "Destruït per ocells que portaven pedres d'argila",
+        "Engolit per la terra amb tresors"
+      ],
+      "answer": "Protegit del foc i amb descendents justos"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

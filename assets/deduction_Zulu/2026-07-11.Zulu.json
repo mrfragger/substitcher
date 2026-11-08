@@ -1,0 +1,61 @@
+{
+  "title": "Abahambi basensimini eluhlaza",
+  "intro": "Endulo, abantu ababili babenakekela amazwe angomakhelwane. Izindlela zabo zazihlangene, kodwa izinhliziyo zabo zabaholela ezindaweni ezihlukene kakhulu. Omunye wahamba ngendlela eqondile, kanti omunye waphambukela ebumnyameni bokuphika. Ungakwazi yini ukuxazulula imfihlakalo yalaba ababili abagcina isivuno?",
+  "clues": [
+    "Nganginezivuno eziningi, isivuno esihle esasikhanga amehlo abantu ababebukele.",
+    "Umakhelwane wami wayenenani elikhulu kunami, kodwa ngangifisa isabelo sakhe ngaphezu kwesami.",
+    "Ngiphakamise ukuthi sibhubhise izitshalo zabo ngokuphelele, ukuze sihlanganise konke okungaphansi kolawulo lwami.",
+    "Ngizilethele incithakalo nesivuno sami, ngabhubhisa yonke into ngecebo lami lobuwula.",
+    "Ngema ngingenamandla njengoba izitshalo zami zibuna futhi ingcebo yami iphenduka uthuli ngobusuku obubodwa.",
+    "Angizange ngibe nesabelo ku-Here End, futhi indawo yami yokugcina yaba umgodi womlilo ovuthayo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Indoda eyaphika uvuko nokwahlulelwa",
+        "Umbusi owacindezela umlimi olungileyo",
+        "Umninimhlaba ocebile owayengenakho ukubonga",
+        "Umlimi owayefisa umhlaba womakhelwane wakhe",
+        "Umlingani okhohlisayo owaceba ukubhubhisa"
+      ],
+      "answer": "Umlimi owayefisa umhlaba womakhelwane wakhe"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuhlolwa kokuthola isambulo saphezulu",
+        "Inselele yengcebo nokubekezela",
+        "Isilingo sokubhubhisa indlela yokuphila yomuntu olungileyo",
+        "Umyalo wokuhlukanisa ifa ngendlela efanele",
+        "Umzabalazo wokulwa nokucindezelwa kombusi"
+      ],
+      "answer": "Isilingo sokubhubhisa indlela yokuphila yomuntu olungileyo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Izingadi eziluhlaza zepharadesi",
+        "Amasimu amabili aseduze ezitshalo",
+        "Izintaba ezabona ukubhujiswa",
+        "Indawo engcwele yaseMakkah",
+        "Ugu lomfula wezwe elibusisiwe"
+      ],
+      "answer": "Amasimu amabili aseduze ezitshalo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Ipharadesi laphakade njengomvuzo wokulunga",
+        "Ukubhujiswa okuphelele kwazo zombili izivuno kulempilo",
+        "Ukudingiswa nokuzulazula kuze kube sekufeni",
+        "Ukuchuma kwesikhashana kulandelwa umlilo waphakade",
+        "Ukubuyiselwa okuyisimangaliso kanye nenala ephindwe kabili"
+      ],
+      "answer": "Ukubhujiswa okuphelele kwazo zombili izivuno kulempilo"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

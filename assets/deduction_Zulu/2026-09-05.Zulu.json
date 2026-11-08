@@ -1,0 +1,61 @@
+{
+  "title": "Ubuhle Obacwila",
+  "intro": "Cabanga ngalokhu: umphefumulo ogqoke izingubo ezinhle futhi uzungezwe ingcebo engaphezu kokucatshangwa. Lo muntu wayekholelwa ukuthi ingcebo yakhe itholakala ngobuhlakani bakhe, engazange aqaphele umthombo wokudla kwangempela. Ehamba phakathi kwabalandeli bomprofethi onamandla, lo muntu wenqaba zonke izibizo zokuthobeka. Namuhla, sithola ukuthi ungubani umuntu onenhlanhla enkulu eyaba yindawo yakhe yokugcina yokuphumula.",
+  "clues": [
+    "Ngaphila ngesikhathi somprofethi owabiza isizwe esinobugovu ukuba siqonde iqiniso.",
+    "Bengiyingxenye yomphakathi okhethiwe, kodwa inhliziyo yami yafulathela isigijimi.",
+    "Igolide nesiliva kwangikhanga ngaphezu kwanoma yimuphi umyalo kaNkulunkulu.",
+    "Izindawo zami zokugcina ingcebo zanda kakhulu kangangokuthi iqembu elinamandla lamadoda lalingasakwazi ukuphakamisa okhiye.",
+    "Ngazigqaja ngokuthi ingcebo yami ngiyinikwe ngenxa yolwazi lwami.",
+    "Ekugcineni, mina kanye nendawo yami yonke yokuhlala sagwinywa umhlaba njengesixwayiso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "I-Qarun",
+        "UHamani",
+        "IsiSamiri",
+        "AmaBilqis",
+        "UTalut (uSawulu)"
+      ],
+      "answer": "I-Qarun"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuzikhukhumeza ngenxa yengcebo nokwenqaba usizo",
+        "Ukwakha isithombe segolide ngezinto zokuhloba ezincibilikisiwe",
+        "Ukumemezela ubuNkulunkulu phezu kombuso onamandla",
+        "Ukushushisa amakholwa okuqala eMakkah",
+        "Ukuhola umkhankaso wokubhubhisa iNdlu Engcwele"
+      ],
+      "answer": "Ukuzikhukhumeza ngenxa yengcebo nokwenqaba usizo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Ingcebo okhiye bayo babethwele amadoda amaningi anamandla",
+        "Ithole legolide eliveza umsindo",
+        "Isihlalo sobukhosi esikhazimulayo esivela ezweni elikude",
+        "Umsele ogcwele umlilo ovuthayo",
+        "Ibutho elinamandla lezindlovu zempi"
+      ],
+      "answer": "Ingcebo okhiye bayo babethwele amadoda amaningi anamandla"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "Kugwinywe umhlaba kanye nendawo yokuhlala",
+        "Ngicwile olwandle nebutho",
+        "Washiswa ephila emgodini womlilo",
+        "Wabhujiswa umoya ovunguzayo novunguzayo",
+        "Washaywa phansi ngokuqhuma okukodwa okunamandla"
+      ],
+      "answer": "Kugwinywe umhlaba kanye nendawo yokuhlala"
+    }
+  },
+  "verseRef": "28:79",
+  "arabic": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ ۖ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَـٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍۢ",
+  "verse": "So he came out before his people in his adornment. Those who desired the worldly life said, \"Oh, would that we had like what was given to Qārūn. Indeed, he is one of great fortune.\" (28:79)"
+}

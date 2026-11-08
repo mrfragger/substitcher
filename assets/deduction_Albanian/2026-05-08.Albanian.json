@@ -1,0 +1,61 @@
+{
+  "title": "Kërkuesi i Patundur i së Vërtetës",
+  "intro": "Në një kohë të mbuluar nga injoranca dhe adhurimi i hyjnive të rreme, u shpalos një udhëtim i thellë besimi. Ky individ sfidoi normat e shoqërisë së tij, duke kërkuar Krijuesin e Vërtetë me bindje të palëkundur. Përgatituni të zbuloni identitetin e një shpirti, trashëgimia e të cilit vazhdon të frymëzojë miliona njerëz.",
+  "clues": [
+    "Unë i vura në dyshim trupat qiellorë, duke kërkuar Zotin e vërtetë që krijon dhe mbështet gjithçka.",
+    "Më urdhëruan të largohesha nga atdheu im, duke udhëtuar drejt një toke të bekuar nga Allahu.",
+    "Unë sfidova idhujt e popullit tim, duke u përballur drejtpërdrejt me kotësinë e tyre duke i thyer ato.",
+    "U hodha në një zjarr të tërbuar nga populli im, megjithatë, me urdhrin e Allahut, u bë e freskët dhe paqësore për mua.",
+    "U sprovova me urdhrin për të sakrifikuar birin tim të dashur të parëlindur, një sprovë nënshtrimi përfundimtar.",
+    "Unë, së bashku me djalin tim, ngritëm themelet e Shtëpisë së parë të Adhurimit në Tokë, një strehë për të gjithë njerëzimin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Nuh",
+        "Profeti Jusuf",
+        "Profeti Salih",
+        "Profeti Ibrahim",
+        "Profeti Isa"
+      ],
+      "answer": "Profeti Ibrahim"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Përmbytja e madhe",
+        "Ndarja e detit",
+        "Shkatërrimi i Themudit",
+        "Urdhri për të sakrifikuar një bir",
+        "Udhëtimi nëpër shkretëtirë me Arkën"
+      ],
+      "answer": "Urdhri për të sakrifikuar një bir"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Stafi",
+        "Mali i Turit",
+        "Arka",
+        "Qabja",
+        "Viçi i Artë"
+      ],
+      "answer": "Qabja"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "U bë sundimtar i Egjiptit",
+        "Populli i tij u mbytën",
+        "iu dha mençuria dhe një prejardhje e drejtë",
+        "U gëlltit nga një balenë",
+        "Qyteti i tij u përmbys"
+      ],
+      "answer": "iu dha mençuria dhe një prejardhje e drejtë"
+    }
+  },
+  "verseRef": "21:69",
+  "arabic": "قُلْنَا يَـٰنَارُ كُونِى بَرْدًۭا وَسَلَـٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+  "verse": "We [i.e., Allāh] said, \"O fire, be coolness and safety upon Abraham.\" (21:69)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Nöyrät totuudenetsijät",
+  "intro": "Muinaisen vallan ja noituuden maassa alkaa suuri yhteenotto. Toinen osapuoli käyttää jumalallisten merkkien auktoriteettia, kun taas toinen yrittää tehdä mahdottoman. Lopputulos muuttaa historian kulun ikuisiksi ajoiksi. Pystytkö paljastamaan niiden henkilöllisyyden, jotka todistivat perimmäistä totuutta ja nöyrtyivät sen edessä?",
+  "clues": [
+    "Näimme merkkejä, jotka ylittivät noituuden temput",
+    "Me kaikki lankesimme maahan, kykenemättä kieltämään totuutta",
+    "Me tunnistimme, että nämä merkit tulivat Yhdeltä Tosi Jumalalta",
+    "Olimme ensimmäinen yhteisö, joka omaksui uskon näin dramaattisella tavalla",
+    "Meille luvattiin paratiisi korvaukseksi uskostamme",
+    "Köydet ja sauvat muuttuivat käärmeiksi silmiemme edessä, mutta me valitsimme alistumisen"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Faaraon taikurit",
+        "Profeetta Ibrahimin kansa",
+        "Nöyrät totuudenetsijät",
+        "Luolan ihmiset",
+        "Kuningatar Bilqisin kansakunta"
+      ],
+      "answer": "Faaraon taikurit"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kohtaaminen profeetta Mooseksen sauvan kanssa",
+        "Profeetta Hudin tuulen koettelemus",
+        "Profeetta Salihin naaraskameli haaste",
+        "Suuri tulva lähetettiin profeetan ylle",
+        "Profeetan matka valaan sisällä"
+      ],
+      "answer": "Kohtaaminen profeetta Mooseksen sauvan kanssa"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Muinainen Egypti",
+        "Mekan pyhä huone",
+        "Midianin kaupunki",
+        "Thamudin autiomaa",
+        "Muinaisten nukkujien luola"
+      ],
+      "answer": "Muinainen Egypti"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Paratiisi heidän palkkanaan",
+        "Rangaistus haudassa",
+        "Heidän runsaasta puutarhastaan ​​menettäminen",
+        "Äkillisen maanjäristyksen aiheuttama tuho",
+        "Pelastus suurelta valaalta"
+      ],
+      "answer": "Paratiisi heidän palkkanaan"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

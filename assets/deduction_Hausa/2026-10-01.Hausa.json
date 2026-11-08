@@ -1,0 +1,61 @@
+{
+  "title": "Magana Zuwa Zama",
+  "intro": "Wani mutum ya fito daga tarihi mai tsarki, yana ɗauke da mu'ujizai waɗanda suka saba wa tsarin halitta. Wannan rai ya zo ta hanyar umarni ɗaya tilo na allahntaka, ya kare iyaye daga manyan zarge-zarge, kuma ya bar wannan duniyar kafin sarƙoƙin duniya su ɗaure su. Labarin ya ta'allaka ne daga ƙaramin jariri zuwa sama. Wanene wannan?",
+  "clues": [
+    "An aiko ni a matsayin alama da rahama daga Allah ga Bani Isra'ila.",
+    "Zuwana bai yi kama da na da ba — na kasance ta wurin kalmar Allah 'Ka kasance!' ba tare da uba na duniya ba.",
+    "Iyayena sun fuskanci mummunan zagi, amma wahayi mai tsarki ya sauko don bayyana rashin laifinsu da kuma ɗaukaka matsayinsu.",
+    "A lokacin da nake jariri, na ba wa waɗanda ke kewaye da ni mamaki ta hanyar yin magana a sarari tun daga lokacin da nake jariri don in wanke sunan iyayena.",
+    "Da izinin Allah, na tsara rayuwa daga yumbu marar rai, na ba makaho gani, kuma na warkar da kuturu da taɓawa ta.",
+    "An ɗaga ni zuwa sama kafin cuta ta taɓa ni, kuma zan koma wannan duniya kafin Sa'a ta ƙarshe ta zo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Annabi Isa",
+        "Annabi Musa",
+        "Annabi Ibrahim",
+        "Annabi Yusufu",
+        "Annabi Dawuda"
+      ],
+      "answer": "Annabi Isa"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Yana magana daga gadon jariri tun yana jariri",
+        "Rayuwa a cikin cikin babban kifi",
+        "Ana jefa shi cikin wuta mai ƙuna",
+        "Gina babban jirgi kafin ambaliyar ruwa",
+        "Fuskantar sihirin kotun Fir'auna"
+      ],
+      "answer": "Yana magana daga gadon jariri tun yana jariri"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Linjila (Linjila)",
+        "Tawrah (Attaura)",
+        "Zabur (Zabura)",
+        "Suhuf (Littafin Ibrahim)",
+        "Sanda da ta raba teku"
+      ],
+      "answer": "Linjila (Linjila)"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "An ɗaga shi zuwa sama, zai dawo kafin Ranar Hisabi",
+        "Ya fitar da Bani Isra'ila daga Masar",
+        "Ya zama sarki mai iko akan aljanu, mutane, da tsuntsaye",
+        "Na tsira daga ambaliyar ruwa mai yawa tare da masu aminci",
+        "An gina gidan alfarma a Makka"
+      ],
+      "answer": "An ɗaga shi zuwa sama, zai dawo kafin Ranar Hisabi"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

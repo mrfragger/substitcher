@@ -1,0 +1,61 @@
+{
+  "title": "Strážci tajné sklizně",
+  "intro": "V zelené zemi skupina lidí pod rouškou tmy tajně skovala plán. Sdíleli společný cíl, ale jejich úmysly byly daleko od spravedlivých. Netušili, že je ve spánku čeká božský zvrat.",
+  "clues": [
+    "Učinili jsme pevné rozhodnutí v domnění, že náš plán je bezchybný.",
+    "Měli jsme v úmyslu vyrazit brzy, než se ostatní vůbec stihnou pohnout.",
+    "Vsadili jsme se na úrodný pozemek, důvěřujíc si svými zásobami.",
+    "Když jsme dorazili do cíle, zjistili jsme, že je pustý a pustý, takže jsme si mysleli, že jsme se ztratili.",
+    "Pak jsme si uvědomili, že je to skutečně naše místo, a zoufale jsme křičeli a navzájem se vinili za naši ztrátu.",
+    "Toho rána jsme přísahali, že chudé vyloučíme z naší úrody, ale Alláhův trest na nás přišel, zatímco jsme spali, a proměnil naši zahradu v trosky."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsme?",
+      "options": [
+        "Majitelé zahrady v súře 68",
+        "Lidé ze Saby",
+        "Společníci jeskyně",
+        "Lidé slona",
+        "Lidé z příkopu"
+      ],
+      "answer": "Majitelé zahrady v súře 68"
+    },
+    "trial": {
+      "label": "Naše zkouška",
+      "options": [
+        "Naši zahradu zničila pohroma z nebes",
+        "Naši zahradu zaplavila povodeň",
+        "Naše zahrada byla spálena požárem od nepřítele",
+        "Naše zahrada byla plná kobylek",
+        "Naši zahradu pohltilo zemětřesení"
+      ],
+      "answer": "Naši zahradu zničila pohroma z nebes"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Přísahali jsme, že ráno sklidíme jeho plody",
+        "Postavili jsme přehradu pro zavlažování naší zahrady",
+        "Hledali jsme útočiště v jeskyni, abychom se chránili",
+        "Připravili jsme armádu k dobytí království",
+        "Pluli jsme lodí, abychom překročili moře"
+      ],
+      "answer": "Přísahali jsme, že ráno sklidíme jeho plody"
+    },
+    "outcome": {
+      "label": "Náš osud",
+      "options": [
+        "Činili jsme pokání a doufali v milost od Alláha",
+        "Byli jsme úplně zničeni a nikdy jsme nelitovali",
+        "Uprchli jsme ze země a už se nikdy nevrátili",
+        "Stali jsme se opět mocnými a bohatými",
+        "Byli jsme potrestáni tím, že jsme se proměnili v opice"
+      ],
+      "answer": "Činili jsme pokání a doufali v milost od Alláha"
+    }
+  },
+  "verseRef": "68:17",
+  "arabic": "إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+  "verse": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning (68:17)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A coroa que desafiou os ceos",
+  "intro": "Nos corredores dos antigos reinos, o nome dun gobernante converteuse en sinónimo de tiranía e arrogancia. Cando un humilde servo de Alá chegou con sinais innegables, este poderoso soberano negouse a renderse á verdade. Hoxe, a túa tarefa é identificar esta figura lendaria cuxo dominio se desmoronou e cuxo destino foi selado baixo as ondas.",
+  "clues": [
+    "Son o gobernante máis temido, cuxo nome aínda resoa como unha advertencia a través dos tempos.",
+    "Ordenei a todo un pobo que traballase encadeado, erixindo monumentos que proclamaban a miña gloria.",
+    "Cando un mensaxeiro de Alá se presentou diante de min con sinais innegables, negueime a inclinarme e chameino bruxería.",
+    "Decretei o asasinato de fillos pequenos entre un pobo cativo, coa esperanza de esmagar o seu espírito antes de que puidesen levantarse.",
+    "Paréime diante da miña corte e declarei: \"Son o voso señor supremo\", esixindo adoración como a un deus.",
+    "Co meu ministro principal ao meu carón, construín unha estrutura imponente destinada a ascender máis alá dos ceos."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Faraón (Fir'awn)",
+        "Namrud",
+        "Amán",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Faraón (Fir'awn)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "O afogamento no Mar Vermello",
+        "A cameloa enviada á xente de Thamud",
+        "O gran diluvio de Nuh",
+        "O castigo dos Compañeiros da Trincheira",
+        "A destrución do exército de Abraha por paxaros"
+      ],
+      "answer": "O afogamento no Mar Vermello"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A imponente estrutura construída con Hamán",
+        "A arca que navegou sobre o diluvio",
+        "O becerro de ouro feito polos samirís",
+        "O trono de Bilqis, raíña de Saba",
+        "A cova dos mozos durmidos"
+      ],
+      "answer": "A imponente estrutura construída con Hamán"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Afogado no mar; o corpo consérvase como advertencia",
+        "Exiliado e obrigado a vagar polo deserto",
+        "Transformados en simios como castigo",
+        "Asolagado por un violento terremoto",
+        "Queimado por unha choiva de pedras do ceo"
+      ],
+      "answer": "Afogado no mar; o corpo consérvase como advertencia"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

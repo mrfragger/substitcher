@@ -1,0 +1,61 @@
+{
+  "title": "Te Tangata i Peia atu i te Rangi",
+  "intro": "Kei te tū tetahi mea ngaro i te huarahi o te hanganga me te whakakorenga. Ko tā rātou kōrero he kōrero whakapehapeha kāore i rite, me te whakahē nui ki te whakahau a te Atua. Ka pāorooro tā rātou kōwhiringa puta noa i ia whakatipuranga, ka noho hei whakamātautau mō ia wairua i whānau mai ki tēnei ao. Ka taea e koe te tautuhi i tēnei hoariri mutunga kore?",
+  "clues": [
+    "I reira ahau i tētahi huihuinga nui whakaharahara nō te ao tūroa, i te wā i hangaia ai tētahi mea hou i te paru, ā, i homai he ora ki a ia e te Manawa o te Atawhai.",
+    "I hangaia ahau i roto i te mea kotahi e mura ana, he rerekē ki te mea puehu.",
+    "I tukuna mai he whakahau ki ahau, ā, i kiia e ahau kei raro iho i taku tūranga.",
+    "Ua î roa te teoteo i roto ia’u, e ua patoi u‘ana vau i te pee i taua ture ra.",
+    "I tukua mai ki ahau he whakaroa kia tae rā anō ki te Rā kua whakaritea, kia taea ai e au te whai i taku i kī ai, arā, te whakapohehe i ētahi atu.",
+    "Ko ahau te hoariri kua whakapuakina mō te hunga katoa e hīkoi ana i te whenua, e kōrero pōhewa ana mō ngā tinihanga, e kukume ana i a rātou kia mawehe atu i te ara tika."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Iblis (Hātana)",
+        "Parao (Fir'awn)",
+        "Hāmana",
+        "Āpu Jahl",
+        "Hāmiri"
+      ],
+      "answer": "Iblis (Hātana)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I whakakahore ki te piko ki mua i a Ātama",
+        "Te kī teka i te atuatanga",
+        "I hanga he kuao kau koura hei karakia",
+        "I patua e ia tōna teina i te hae",
+        "I ārahi i te hunga whakapono ki ngā atua i Makkah"
+      ],
+      "answer": "I whakakahore ki te piko ki mua i a Ātama"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Pararaiha (Jannah)",
+        "Te whare o Parao i Ihipa",
+        "Te awaawa tapu o Tūwa",
+        "Ngā hōhonutanga o te moana",
+        "Te māra o Hepa"
+      ],
+      "answer": "Pararaiha (Jannah)"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I tukuna he okiokinga tae noa ki te Rā Whakawa",
+        "I toremi tahi me te ope taua i te moana",
+        "Horomia e te whenua me ngā taonga",
+        "I hurihia hei makimaki mō te takahi i te Hāpati",
+        "I tahuna e ngā kōhatu i whiua mai i te rangi"
+      ],
+      "answer": "I tukuna he okiokinga tae noa ki te Rā Whakawa"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

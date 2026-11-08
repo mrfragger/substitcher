@@ -1,0 +1,61 @@
+{
+  "title": "Der gefiederte Pfadfinder",
+  "intro": "In einem Königreich, dessen Herrscher über die Winde, die unsichtbaren Wesen und die Geschöpfe des Himmels herrschte, verschwand ein kleines, flinkes Mitglied spurlos – nur um mit Offenbarungen zurückzukehren, die das Schicksal eines fernen Volkes verändern sollten. Dieser scharfsinnige Informant brachte die Wahrheit ans Licht, wo Unwissenheit gedieh. Wer bin ich?",
+  "clues": [
+    "Ich diente an einem Hofstaat, wo Menschen, unsichtbare Wesen und Geschöpfe des Himmels einem einzigen weisen Herrscher unterstanden, der über die Winde selbst herrschte.",
+    "Ich war eine Zeitlang von meinem Posten abwesend, und mir wurde der Zorn des Herrschers angedroht, sollte ich keinen zufriedenstellenden Grund dafür liefern können.",
+    "Ich bin ein kleines fliegendes Wesen, bekannt für mein scharfes Sehvermögen, und meiner Art wurde die Ehre zuteil, in den Seiten der Offenbarung direkt namentlich erwähnt zu werden.",
+    "Als ich zurückkehrte, brachte ich die Nachricht von einem fernen Land, dessen Bewohner sich vor der Sonne niederwarfen und blind waren für den, der Himmel und Erde erschaffen hatte.",
+    "Ich fand eine Frau vor, die über ein großes Königreich herrschte, auf einem prächtigen Thron saß und die Wahrheit zuvor nie gekannt hatte.",
+    "Ich bin es, der das Reich Saba' entdeckte und einen Einladungsbrief eines Prophetenkönigs bei sich trug, dem die Herrschaft über den Wind gegeben wurde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Der Wiedehopf (Hudhud)",
+        "Die Ameise aus dem Tal von Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit der Dschinn",
+        "Ein Engel des Thrones"
+      ],
+      "answer": "Der Wiedehopf (Hudhud)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Die Expedition ins Königreich Saba (Sheba)",
+        "Die Konfrontation mit den Zauberern des Pharaos",
+        "Die Sintflut des Propheten Nuh",
+        "Die Vernichtung des Volkes von 'Ad",
+        "Die Spaltung des Roten Meeres"
+      ],
+      "answer": "Die Expedition ins Königreich Saba (Sheba)"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Das Land Saba (Sheba)",
+        "Berg Sinai",
+        "Die Arche des Propheten Noah",
+        "Die Höhle von Ashab al-Kahf",
+        "Der Palast des Pharaos"
+      ],
+      "answer": "Das Land Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Bilqis unterwarf sich dem Hof ​​von Sulaiman.",
+        "Pharao und sein Heer ertranken im Meer",
+        "Die Bewohner von 'Ad wurden von einem heftigen Wind vernichtet",
+        "Die Zauberer des Pharaos glaubten an den Propheten Musa.",
+        "Eine große Flut vernichtete die Ungläubigen."
+      ],
+      "answer": "Bilqis unterwarf sich dem Hof ​​von Sulaiman."
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

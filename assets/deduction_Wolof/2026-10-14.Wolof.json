@@ -1,0 +1,61 @@
+{
+  "title": "Ñi dàq kóllóre",
+  "intro": "Bi askan wi di sooga tàmbali, amoon na benn nit bu dëkkoon ci dëkkuwaay yu am kaaraange, ñu boole seen doole ci déggoob. Bi ñu xañ déggoob boobu, jafe-jafe yi mu jur dañu feeñ ci xëti Al Quran. Kan ñooy nit ñooñu, te lan moo xewoon ci seeni kër ak seeni tool?",
+  "clues": [
+    "Danu dëkkoon ci barab yu am doole yu nu doon yëg ni amul benn sikk.",
+    "Nun nit ñu topp Mbind mi lanu woon, waaye nu bàyyi sunu kóllóre.",
+    "Ginaaw bi ndaw si ñëwee ci nun, nu daal di teg ay pexe, waaye sunu pexe daa lajj.",
+    "Sunu garabi palm yi dañu leen dagg ci ndigalu Yàlla, muy màndargaal dooleem.",
+    "Ñu dàq nu ci sunuy kër, nu baña dellusi, ngir yar nu ci sunu déggal.",
+    "Al Quran daf nu wax ci chapitre biy wax ci ndaje mi, te sunu jaar-jaar dafay àrtu ñiy bañ déggoo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Banu Nadir",
+        "Banu Qurayza",
+        "Banu Qaynuqa",
+        "Waa Madyan",
+        "Waa Samud"
+      ],
+      "answer": "Banu Nadir"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Ñu tëj leen, dàq leen ci seeni kër",
+        "Di féey ci géej gi",
+        "Suuf si wann leen",
+        "Yaxxum ci taw bu metti",
+        "ñu soppi leen ñu nekk maymu"
+      ],
+      "answer": "Ñu tëj leen, dàq leen ci seeni kër"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Dagg garabi palme",
+        "Ndaw yi",
+        "gaal gi",
+        "Teenu ndox mi",
+        "Grotte bi"
+      ],
+      "answer": "Dagg garabi palme"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Ñu dàq leen, jël seen moomeel",
+        "Dellu ak ndam",
+        "Baal nañu leen, ñu des",
+        "Dugg ci aljana ci saasi",
+        "Mbas mi daf leen jàpp"
+      ],
+      "answer": "Ñu dàq leen, jël seen moomeel"
+    }
+  },
+  "verseRef": "59:5",
+  "arabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+  "verse": "Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient. (59:5)"
+}

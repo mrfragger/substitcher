@@ -1,0 +1,61 @@
+{
+  "title": "Tiarnas na Gaoithe agus na Lasrach",
+  "intro": "Samhlaigh tiarnas ina mbeadh an ghaoth féin ag freagairt do rialóir aonair, áit a raibh meáchan á iompar ag guthanna na gcréatúr is lú, agus áit a raibh fórsaí nach bhfeictear do shúile gnáth á gcoinneáil i seirbhís chúramach. Fuair ​​an figiúr seo ríocht neamhghnách mar oidhreacht ó réamhtheachtaí a raibh grá aige di, ag feidhmiú cumhachta thar na dúile agus na jinn. Ach tháinig tástálacha móra le húdarás mór - agus nochtfadh nóiméad deireanach rud éigin iontach faoi nádúr na beatha agus an bháis féin.",
+  "clues": [
+    "Fuair ​​mé ríocht mhór mar oidhreacht ó thuismitheoir grámhar a bhí ina fháidh agus ina sheirbhíseach de chuid Allah freisin.",
+    "Thug Allah údarás dom thar an ghaoth, á seoladh ar thurais míosa in aon mhaidin amháin.",
+    "Labhródh fiú na créatúir is lú faoi mo chur chuige, agus stadfainn le hiontas a dhéanamh ar a dtuiscint.",
+    "Bhí mé i gceannas ar arm ollmhór jinn, daoine agus éan, iad uile eagraithe in ord romham.",
+    "Tháinig rialóir i bhfad i gcéin chun tástáil dheacair a chur orm, agus thug mé ríchathaoir an rialóra sin chuig mo chúirt sularbh fhéidir leis an gcuairteoir éirí as suíochán fiú.",
+    "D’fhan mé i mo sheasamh, ag leanacht ar bhata, go dtí gur chnagadh créatúr beag den talamh tríd — agus ansin amháin a thuig na daoine mórthimpeall orm go raibh mé imithe tharainn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Fáidh Sulayman (Solamh)",
+        "An Fáidh Dawud (Dáiví)",
+        "An Fáidh Íosa (Íosa)",
+        "An Fáidh Muhammad ﷺ",
+        "An Fáidh Músa (Maois)"
+      ],
+      "answer": "An Fáidh Sulayman (Solamh)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ríchathaoir banríona i bhfad i gcéin a thabhairt ar bhealaí osnádúrtha",
+        "Á ísliú i dtobar domhain mar leanbh",
+        "Ag tabhairt aghaidh ar dhraoithe tíoránaigh le comharthaí míorúilteacha",
+        "Ag labhairt ón gcliabhán chun onóir máthar a chosaint",
+        "Ag fáil an scrioptúir nochtaithe dheireanaigh ar shliabh naofa"
+      ],
+      "answer": "Ríchathaoir banríona i bhfad i gcéin a thabhairt ar bhealaí osnádúrtha"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Bata adhmaid a chreimigh teirmít tríd",
+        "Áirc mhór tógtha chun dul i ngleic le tuile dhomhanda",
+        "Slat a d’athraigh ina nathair os comhair tíoránaigh",
+        "Píosa éadaigh a úsáidtear chun an dall a leigheas",
+        "Uaimh naofa inar fuarthas nochtadh den chéad uair"
+      ],
+      "answer": "Bata adhmaid a chreimigh teirmít tríd"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Ghlac rialóir uasal ar cuairt le creideamh tar éis dó comharthaí a fheiceáil",
+        "Scrios tuile mhór gach duine ach na dílse ar áirc",
+        "Fuair ​​​​Faraó agus a arm bás sa bhfarraige",
+        "Tógadh compánach fíréanta suas go dtí na flaithis",
+        "Cuireadh rí tíoránach agus a chathair ar ceal agus scriosadh iad"
+      ],
+      "answer": "Ghlac rialóir uasal ar cuairt le creideamh tar éis dó comharthaí a fheiceáil"
+    }
+  },
+  "verseRef": "21:81",
+  "arabic": "وَلِسُلَيْمَـٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَـٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَـٰلِمِينَ",
+  "verse": "And to Solomon [We subjected] the wind, blowing forcefully, proceeding by his command toward the land which We had blessed. And We are ever, of all things, Knowing. (21:81)"
+}

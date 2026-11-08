@@ -1,0 +1,61 @@
+{
+  "title": "Glas koji je odbijao očaj",
+  "intro": "Zakoračite u kućanstvo gdje gubitak slijedi gubitak, a ipak jedan smiren glas odbija očaj. Jedan jedini poziv u Kur'anu pretvara strpljenje u prekretnicu; možete li pratiti tragove do osobe koja stoji iza tog glasa?",
+  "clues": [
+    "Bio sam glas strpljenja u kućanstvu gdje su blagoslovi bili iskušavani nesrećom.",
+    "Ostala sam u kućanstvu ispražnjenom gubitkom bogatstva i djece.",
+    "Znao sam da je bolest pogodila i tog suputnika, čije je tijelo bilo ranjeno.",
+    "Kad je nevolja postala jaka, pozvao sam podsjećajući Allaha.",
+    "Ponudio sam jednu izjavu: Allah je Istina, zato budi strpljiv.",
+    "Pozvao sam Ejjuba po imenu; nakon toga je Allah uklonio nevolju i obnovio obitelj."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Žena proroka Ejjuba",
+        "Žena Poslanika Nuha",
+        "Žena proroka Ibrahima",
+        "Žena proroka Jakuba",
+        "Faraonova kći"
+      ],
+      "answer": "Žena proroka Ejjuba"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Ostati uz Ayyuba kroz gubitak i bolest, a zatim pozivati ​​na strpljenje",
+        "Upozorenje pravednog poslanika da napusti korumpiranu zajednicu",
+        "Molitva za rođenje buduće loze",
+        "Tumačenje snova u kraljevskom zatvoru",
+        "Pronalaženje povjerenog djeteta pokraj rijeke"
+      ],
+      "answer": "Ostati uz Ayyuba kroz gubitak i bolest, a zatim pozivati ​​na strpljenje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Izjava da je Allah Istina i strpljenje su neophodni",
+        "Palma pored izvora",
+        "Poziv za izgradnju broda daleko od valova",
+        "San o jedanaest zvijezda i izlazećem suncu",
+        "Košara nošena niz Nil"
+      ],
+      "answer": "Izjava da je Allah Istina i strpljenje su neophodni"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Ajjubova bolest je uklonjena i njegova obitelj je obnovljena",
+        "Dugo očekivano dijete je darovano nakon neplodne molitve",
+        "Mladi vladar protumačio je sedam godina obilja i oskudice",
+        "Povjereno dijete spašeno je iz tekuće vode",
+        "Upozorenje je prethodilo razornoj poplavi"
+      ],
+      "answer": "Ajjubova bolest je uklonjena i njegova obitelj je obnovljena"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

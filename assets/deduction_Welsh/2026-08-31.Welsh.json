@@ -1,0 +1,61 @@
+{
+  "title": "Llais Tawel y Dyffryn",
+  "intro": "Camwch yn ôl mewn amser i bobl nerthol a dderbyniodd ryfeddod byw fel prawf ar un adeg. Seliodd balchder a styfnigrwydd eu tynged. Allwch chi olrhain y stori a darganfod beth ddigwyddodd yn y trobwynt dramatig hwn?",
+  "clues": [
+    "Cefais fy anfon fel treial dwyfol at bobl gadarn a adnabyddir am eu cryfder a'u herfeiddiad.",
+    "Roeddwn i'n rhyfeddod unigryw—doedd neb fel fi erioed wedi ymddangos yn eu plith.",
+    "Rhannais ddŵr yfed o ffynnon gyda fy mhobl bob yn ail ddiwrnod.",
+    "Cawsant eu rhybuddio y byddai unrhyw niwed i'm herbyn yn arwain at gosb gyflym.",
+    "Anwybyddodd y mwyaf beiddgar ohonyn nhw'r rhybudd a'm rhwystro.",
+    "Ar ôl fy marwolaeth, dinistriodd un waedd daranllyd o'r uchod fy holl bobl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Camel Benywaidd Salih",
+        "Buwch Musa",
+        "Llong Nuh",
+        "Staff Musa",
+        "Gorsedd Bilqis"
+      ],
+      "answer": "Camel Benywaidd Salih"
+    },
+    "trial": {
+      "label": "Fy Nhynged",
+      "options": [
+        "Wedi'i hamstrwng a'i ladd",
+        "Wedi'i ladd fel aberth",
+        "Wedi'i drawsnewid yn sarff",
+        "Wedi'i gadw trwy lifogydd mawr",
+        "Wedi'i ddwyn yn gyflym ar draws teyrnas"
+      ],
+      "answer": "Wedi'i hamstrwng a'i ladd"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Ffynnon o ddŵr",
+        "Tabled o garreg",
+        "Llwyn yn llosgi",
+        "Arch o bren",
+        "Gorsedd o aur ac arian"
+      ],
+      "answer": "Ffynnon o ddŵr"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Wedi'i ddinistrio gan un sgrech",
+        "Boddi mewn llifogydd mawr",
+        "Wedi'i llosgi gan gawod o gerrig",
+        "Wedi'i chwalu gan wynt treisgar",
+        "Wedi'i lyncu gan y ddaear"
+      ],
+      "answer": "Wedi'i ddinistrio gan un sgrech"
+    }
+  },
+  "verseRef": "54:29",
+  "arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+  "verse": "But they called their companion, and he dared and hamstrung [her]. (54:29)"
+}

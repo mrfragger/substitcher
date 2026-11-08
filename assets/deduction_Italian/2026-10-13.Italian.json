@@ -1,0 +1,61 @@
+{
+  "title": "L'avversario infuocato",
+  "intro": "Agli albori della rivelazione, emerse una figura che si oppose strenuamente alla verità. Ricca di beni e prestigio, quest'anima scelse l'orgoglio anziché la retta via, e la sua storia divenne un severo monito negli ultimi versi di una sura.",
+  "clues": [
+    "Vivevo nella stessa città del Profeta ed ero tra i suoi parenti più prossimi, eppure il mio orgoglio mi ha tenuto lontano dalla verità.",
+    "Possedevo una grande ricchezza e numerose proprietà, e pensavo che le mie risorse mi avrebbero sempre protetto.",
+    "Quando il messaggio fu rivelato, lo derisi apertamente e mi voltai dall'altra parte, ritenendomi superiore ai credenti.",
+    "La mia inimicizia era così nota che una sura del Corano si rivolgeva direttamente a me, chiamandomi con il nome con cui gli altri mi conoscevano.",
+    "Mi era stato detto che la mia ricchezza e i miei guadagni non mi sarebbero serviti a nulla e che sarei stato gettato in un fuoco ardente.",
+    "Sono conosciuto come il padre della fiamma, e mia moglie porterà la legna da ardere con una corda di fibra di palma intorno al collo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Rifiutò l'Islam e si oppose apertamente al Profeta",
+        "Cospirarono per assassinare il Profeta",
+        "Ha guidato un boicottaggio sociale contro i musulmani",
+        "Combatté nella battaglia di Badr",
+        "Bilal ibn Rabah torturato"
+      ],
+      "answer": "Rifiutò l'Islam e si oppose apertamente al Profeta"
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "Una corda di fibra di palma",
+        "Una spada affilata",
+        "Una catena pesante",
+        "Un bastone di legno",
+        "Una frusta di cuoio"
+      ],
+      "answer": "Una corda di fibra di palma"
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Brucerà in un fuoco ardente",
+        "Si pentì e divenne un compagno",
+        "Perse le sue ricchezze ma morì onorato",
+        "Fuggì in Abissinia",
+        "Annegato in mare"
+      ],
+      "answer": "Brucerà in un fuoco ardente"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

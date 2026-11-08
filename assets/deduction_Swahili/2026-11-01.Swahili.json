@@ -1,0 +1,61 @@
+{
+  "title": "Sauti Iliyokataa Kukata Tamaa",
+  "intro": "Ingia katika nyumba ambayo hasara hufuata hasara, lakini sauti moja tulivu hukataa kukata tamaa. Wito mmoja katika Qur'an hubadilisha uvumilivu kuwa hatua ya mabadiliko; je, unaweza kufuatilia dalili kwa mtu aliye nyuma ya sauti hiyo?",
+  "clues": [
+    "Nilikuwa sauti ya uvumilivu ndani ya nyumba ambapo baraka zilijaribiwa kwa msiba.",
+    "Nilibaki katika nyumba tupu kutokana na kupoteza utajiri na watoto.",
+    "Nilijua kwamba ugonjwa pia ulikuwa umempata yule mwenzake, ambaye mwili wake ulikuwa umeteseka.",
+    "Wakati dhiki ilipozidi kuwa kali, niliita kwa ukumbusho wa Mwenyezi Mungu.",
+    "Nilitoa tamko moja: Mwenyezi Mungu ndiye Ukweli, kwa hivyo endelea kuwa na subira.",
+    "Nilimwita Ayyub kwa jina; baada ya hapo, Mwenyezi Mungu aliondoa mateso na kurejesha familia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Mke wa Nabii Ayyub",
+        "Mke wa Nabii Nuh",
+        "Mke wa Nabii Ibrahim",
+        "Mke wa Nabii Ya'qub",
+        "Binti wa Farao"
+      ],
+      "answer": "Mke wa Nabii Ayyub"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kukaa na Ayyub wakati wa hasara na ugonjwa, kisha kuomba subira",
+        "Onyo kwa mjumbe mwadilifu kuachana na jamii iliyopotoka",
+        "Kuomba kuzaliwa kwa ukoo wa baadaye",
+        "Kutafsiri ndoto ndani ya gereza la kifalme",
+        "Kumpata mtoto aliyeaminiwa kando ya mto"
+      ],
+      "answer": "Kukaa na Ayyub wakati wa hasara na ugonjwa, kisha kuomba subira"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Tamko kwamba Mwenyezi Mungu ndiye Ukweli na uvumilivu unahitajika",
+        "Mtende kando ya chemchemi",
+        "Wito wa kujenga chombo mbali na mawimbi",
+        "Ndoto ya nyota kumi na moja na jua linalochomoza",
+        "Kikapu kilichobebwa kando ya Mto Nile"
+      ],
+      "answer": "Tamko kwamba Mwenyezi Mungu ndiye Ukweli na uvumilivu unahitajika"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Taabu ya Ayyub iliondolewa na familia yake ikapona.",
+        "Mtoto aliyekuwa akisubiriwa kwa muda mrefu alipewa baada ya maombi tasa",
+        "Mtawala kijana alitafsiri miaka saba ya wingi na uhaba",
+        "Mtoto aliyeaminiwa aliokolewa kutoka kwenye maji yanayotiririka",
+        "Onyo lilitolewa kabla ya mafuriko yenye uharibifu"
+      ],
+      "answer": "Taabu ya Ayyub iliondolewa na familia yake ikapona."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

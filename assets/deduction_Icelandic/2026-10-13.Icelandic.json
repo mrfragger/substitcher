@@ -1,0 +1,61 @@
+{
+  "title": "Hinn brennandi andstæðingur",
+  "intro": "Á fyrstu dögum opinberunarinnar kom fram persóna sem þrjóskur andstæðingur sannleikans. Þessi sál, sem var blessuð með auð og stöðu, kaus hroka fram yfir leiðsögn og saga þeirra varð hörð viðvörun í lokaversum súru.",
+  "clues": [
+    "Ég bjó í sömu borg og spámaðurinn og var meðal nánustu ættingja hans, en stolt mitt hélt mér fjarri sannleikanum.",
+    "Ég átti mikinn auð og fjölmargar eignir og ég hélt að auðlindir mínar myndu alltaf vernda mig.",
+    "Þegar boðskapurinn var opinberaður hæddist ég við hann opinberlega og sneri mér undan, þar sem ég taldi mig fremri en trúaða.",
+    "Fjandskapur minn var svo alræmdur að súra í Kóraninum ávarpaði mig beint og kallaði mig með nafni sem aðrir þekktu mig.",
+    "Mér var varað við því að auður minn og tekjur myndu ekki koma mér að gagni og að ég yrði kastað í logandi eld.",
+    "Ég er þekktur sem faðir logans og konan mín ber eldiviðinn með reipi úr pálmaþráðum um hálsinn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Abú Lahab",
+        "Abú Jahl",
+        "Abú Súfjan",
+        "Al-Walid ibn al-Mughira",
+        "Al-As ibn Wail"
+      ],
+      "answer": "Abú Lahab"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Hafnaði íslam og andmælti spámanninum opinberlega",
+        "Samsæri um að myrða spámanninn",
+        "Leið félagslega sniðgöngu gegn múslimum",
+        "Barðist í orrustunni við Badr",
+        "Píntaði Bilal ibn Rabah"
+      ],
+      "answer": "Hafnaði íslam og andmælti spámanninum opinberlega"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Reipi úr pálmaþráðum",
+        "Beitt sverð",
+        "Þung keðja",
+        "Tréstafur",
+        "Leðursvip"
+      ],
+      "answer": "Reipi úr pálmaþráðum"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Mun brenna í logandi eldi",
+        "Iðraði sig og varð félagi",
+        "Missti auð sinn en dó með heiðri",
+        "Flótti til Abessiníu",
+        "Drukknaði í sjónum"
+      ],
+      "answer": "Mun brenna í logandi eldi"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

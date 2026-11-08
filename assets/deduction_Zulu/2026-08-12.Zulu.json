@@ -1,0 +1,61 @@
+{
+  "title": "Izithunywa Zomusa Namandla",
+  "intro": "Cabanga ntambama ethule ephazanyiswa ukufika kwabahambi ongabazi. Ukubukeka kwabo kuyinto evamile, kodwa injongo yabo ayifani nhlobo. Baphethe umyalezo waphezulu ozoshintsha indlela yezizwe ezimbili, ulethe uhleko ekhaya elingenalutho kanye nokwesaba emzini onesono. Bangobani laba zivakashi eziyimfihlakalo?",
+  "clues": [
+    "Sathunyelwa encekwini ka-Allah ezinikele, eyaziwa ngokungenisa izihambi okungenamkhawulo.",
+    "Safika sisesimweni sabantu esingabazi, kodwa umninikhaya wethu wezwa okuthile okuhlukile ngokuba khona kwethu.",
+    "Silethe izindaba ezenza owesifazane osekhulile wahleka ngokungakholwa, ezishaya ubuso bakhe ngokumangala.",
+    "Sasinikwe umsebenzi wokuvikela umndeni olungile ngenkathi siletha inhlekelele edolobheni eligcwele inkohlakalo.",
+    "Senqaba ukudla esikunikezwe, okwakhulisa ukusola komnikazi wethu.",
+    "Saveza ubunjalo bethu bangempela ngaphambi kokuhamba, sithi, 'Ngempela, siyizithunywa zeNkosi yakho.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Singobani?",
+      "options": [
+        "Izivakashi Zika-Abrahama",
+        "Abafundi bakaJesu",
+        "Abangane Bomhume",
+        "Ibutho lika-Abraha",
+        "Izithunywa zikaYa-Sin"
+      ],
+      "answer": "Izivakashi Zika-Abrahama"
+    },
+    "trial": {
+      "label": "Umsebenzi Wethu",
+      "options": [
+        "Ukuhlola ukholo luka-Abrahama mayelana nendodana yakhe",
+        "Ukuletha umbhalo ku-Abrahama",
+        "Ukumemezela ukuzalwa kuka-Isaka nokubhujiswa kwabantu bakaLoti",
+        "Ukuqondisa u-Abrahama eKaaba",
+        "Ukusindisa u-Abrahama emlilweni"
+      ],
+      "answer": "Ukumemezela ukuzalwa kuka-Isaka nokubhujiswa kwabantu bakaLoti"
+    },
+    "location": {
+      "label": "Indawo Yokubonakala",
+      "options": [
+        "Ezweni laseGibhithe",
+        "Edolobheni lase-Uri",
+        "Ekhaya lika-Abrahama",
+        "Ensimini yase-Edene",
+        "Emthonjeni waseZamzam"
+      ],
+      "answer": "Ekhaya lika-Abrahama"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "U-Abrahama waba yinkosi",
+        "U-Abrahama wakha iKaaba",
+        "USara wazala u-Isaka futhi abantu bakaLoti babhujiswa",
+        "U-Abrahama wathuthela ePalestina",
+        "Abantu baka-Abrahama basindiswa esikhukhuleni esikhulu"
+      ],
+      "answer": "USara wazala u-Isaka futhi abantu bakaLoti babhujiswa"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

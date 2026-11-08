@@ -1,0 +1,61 @@
+{
+  "title": "Te Tukunga Nui a te Ariki",
+  "intro": "Ka kitea koe i tētahi whenua o ngā mea whakamiharo onamata me ngā whakakitenga hohonu. I tūtaki tētahi rangatira mana nui ki tētahi pōwhiri ohorere, ā, ka tīmata ia i tētahi haerenga ka huri i te huarahi o tōna aituā me te whakapono o tōna iwi. Ka taea e koe te hura i te tuakiri o tēnei tangata rangatira?",
+  "clues": [
+    "I kingi ahau i runga i tētahi kingitanga whai rawa, he taonga nui, he torona whakahīhī hoki.",
+    "I karakia mātou ko tōku iwi ki tētahi tinana o te rangi, i te whakapono ko ia tō mātou ariki, ahakoa i ruarua ahau i roto i tōku ngākau.",
+    "I homai e tētahi karere rerekē, he manu, tētahi reta ki ahau, e karanga ana i ahau me tōku iwi kia ngohengohe ki te Atua Kotahi.",
+    "I kōrero ahau ki aku kaitohutohu, he hunga kaha rawa, mō te āhua o te whakautu ki tēnei karere kāore i kitea i mua.",
+    "I whakatau ahau ki te tuku atu i tētahi koha tino nui ki te tangata nāna i tuku mai te reta, me te tumanako ka taea e au te aromatawai i tōna mana me āna whakaaro.",
+    "I taku taenga atu, i miharo ahau ki tētahi whare rangatira, he papa karāhe tōna, he rite ki tētahi puna wai, ā, i taua wā ka whakapuaki ahau i taku ngohengohe ki te Ariki o ngā mea hanga katoa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Parao",
+        "Kuīni o Sheba",
+        "Dhu al-Qarnayn",
+        "Lukmana",
+        "Poropiti a Yusuf"
+      ],
+      "answer": "Kuīni o Sheba"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te wehenga o te moana",
+        "Te waipuke nui",
+        "Te haerenga ki te tūtaki ki te Poropiti a Sulaimana",
+        "Te whakangaromanga o te iwi o Ruta",
+        "Te tahunga o te Poropiti a Ihāperahama"
+      ],
+      "answer": "Te haerenga ki te tūtaki ki te Poropiti a Sulaimana"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Torona",
+        "Te Maunga",
+        "Te Ahi"
+      ],
+      "answer": "Te Torona"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "I riro hei poropiti",
+        "I whakangaromia e Allah",
+        "I awhi i te Ihirama",
+        "I ārahi i tōna iwi ki te pakanga",
+        "I hanga he temepara nui"
+      ],
+      "answer": "I awhi i te Ihirama"
+    }
+  },
+  "verseRef": "27:23",
+  "arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةًۭ تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍۢ وَلَهَا عَرْشٌ عَظِيمٌۭ",
+  "verse": "Indeed, I found a woman ruling them and she has been given of every thing and for her (is) a throne great (23) (27:23)"
+}

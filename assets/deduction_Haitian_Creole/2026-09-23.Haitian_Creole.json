@@ -1,0 +1,61 @@
+{
+  "title": "Apèl ki te pase nan laj",
+  "intro": "Imajine yon nanm ki kanpe poukont li kont yon sivilizasyon antye, detèmine pou gide yo soti nan erè avèk yon detèminasyon san fay. Pandan plizyè syèk, yo te rejte mesaj la, yo te pase l nan betiz, epi yo te rejte l—men efò a pa t janm sispann. Finalman, yon gwo jijman te rive, epi se sèlman kèk moun ki te monte delivrans lan ansanm ak nanm fèm sa a. Èske ou ka idantifye pèsonaj sa a nan Koran an?",
+  "clues": [
+    "Yo voye m' kòm yon avètisman pou yon pèp ki pèdi nan pwòp chemen yo.",
+    "Mwen te envite yo pou yo chèche padon epi pou yo vire do bay fot yo, men yo te vire do ban mwen.",
+    "Anba lòd diven, mwen te konstwi yon gwo veso pandan pèp mwen an t ap gade epi yo t ap pase m nan rizib.",
+    "Mwen te priye Senyè mwen an san rete—finalman Li te reponn, epi dlo te vide soti nan syèl la an gwo kouran.",
+    "Mwen te monte abò bato a avèk moun ki te kwè yo lè dlo delij la te monte anlè tè a.",
+    "Mwen te rele youn nan moun ki te rete yo, mwen te mande l pou l al pran refij sou yon mòn, men lòd la te gen tan pase."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Nouh",
+        "Pwofèt Ibrahim",
+        "Pwofèt Moïse",
+        "Pwofèt Hud",
+        "Pwofèt Salih"
+      ],
+      "answer": "Pwofèt Nouh"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Konstwi yon gwo lach epi siviv yon delij mondyal",
+        "Yo jete yo nan yon gwo dife",
+        "Konfwonte yon tiran ak majisyen pwisan li yo",
+        "Yon gwo pwason vale l",
+        "Temwen touye yon chamo sakre"
+      ],
+      "answer": "Konstwi yon gwo lach epi siviv yon delij mondyal"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon gwo lach an bwa sou gwo inondasyon",
+        "Yon vale sakre ak ansyen ruin wòch",
+        "Yon gwòt byen fon kote konpayon yo te dòmi pandan plizyè syèk",
+        "Vant yon gwo balèn nan fon lanmè a",
+        "Yon mòn wòch byen wo nan dezè a"
+      ],
+      "answer": "Yon gwo lach an bwa sou gwo inondasyon"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Sove avèk kwayan yo abò bato a",
+        "Sove san blese anba dife a grasa lòd diven",
+        "Li te mennen yon gwo egzòd soti nan yon wayòm pwisan",
+        "Jete soti nan pwason an sou yon rivaj dezole",
+        "Li te mennen moun lwen move zak grasa yon siy mirakile."
+      ],
+      "answer": "Sove avèk kwayan yo abò bato a"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Pinahihirapan na Kaluluwa ng Nilo",
+  "intro": "Sa panahon ng matinding pang-aapi, nang ang isang malupit na pinuno ay namuno sa lupain nang may lubos na kalupitan, isang kaluluwa ang pumili ng landas ng pananampalataya kaysa sa kaginhawahan ng pagiging maharlika. Ang pigurang ito ay nanirahan sa puso ng kapangyarihan ngunit natagpuan ang katotohanan sa mensahe ng isang mapagpakumbabang propeta. Ang kanilang paglalakbay ay magiging isang walang-kupas na aral sa pagtitiis, sakripisyo, at matibay na paniniwala. Makikilala mo ba ang kahanga-hangang indibidwal na ito na mas pinili ang banal na kasiyahan kaysa sa makamundong katayuan?",
+  "clues": [
+    "Nabuhay ako sa isang palasyo na may dakilang kapangyarihan, ngunit natagpuan ng aking puso ang katotohanan sa isang mapagpakumbabang mensahe.",
+    "Pinili kong sundin ang patnubay ni Musa, alam ko ang mga kahihinatnan na aking haharapin.",
+    "Ikinasal ako sa pinakamakapangyarihang mapang-api noong aking panahon, ngunit tinanggihan ko ang kaniyang mga huwad na diyos.",
+    "Matindi ang aking pagdurusa, dahil pinarusahan ako dahil sa aking paniniwala sa Iisang Diyos.",
+    "Hindi ako kailanman nanghina sa aking pananampalataya, kahit na naharap sa pinakamatinding paghihirap.",
+    "Natuwa ang aking Panginoon sa aking pagtitiis at pinili Niya ako para sa isang marangal na lugar sa Paraiso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang ina ni Propeta Musa",
+        "Ang asawa ni Paraon",
+        "Ang kapatid na babae ni Propeta Musa",
+        "Isang reyna ng sinaunang Ehipto",
+        "Isang lingkod ng mga Israelita"
+      ],
+      "answer": "Ang asawa ni Paraon"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Nakikipaglaban sa landas ni Allah kasama ang isang hukbo",
+        "Pagharap kay Paraon at pagpapahayag ng pananampalataya",
+        "Pagtatayo ng mga lugar ng pagsamba sa Ehipto",
+        "Naglalakbay sa kabila ng dagat kasama si Musa",
+        "Pagtanggap ng rebelasyon mula kay Allah"
+      ],
+      "answer": "Pagharap kay Paraon at pagpapahayag ng pananampalataya"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Ang ilang ng Midian",
+        "Ang palasyo ng hari ng Ehipto",
+        "Ang mga pampang ng Ilog Nilo",
+        "Ang bundok ng Sinai",
+        "Ang lupain ng Canaan"
+      ],
+      "answer": "Ang palasyo ng hari ng Ehipto"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Naging propeta pagkatapos ng maraming taon",
+        "Pinangunahan ang mga Israelita palabas ng Ehipto",
+        "Binigyan ng soberanya sa Ehipto",
+        "Namatay bilang martir at pinarangalan ni Allah",
+        "Nabuhay hanggang sa pagtanda nang may ginhawa"
+      ],
+      "answer": "Namatay bilang martir at pinarangalan ni Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

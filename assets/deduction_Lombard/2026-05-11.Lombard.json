@@ -1,0 +1,61 @@
+{
+  "title": "I testimoni ferm",
+  "intro": "Figürate un temp induè la credenza l’è stada metüda a la prœuva del fœuch e la convinziun inflexibil l’è diventada la sfida ultima. Te g’he l’incarico de scoprir l’identità de un grupp che la sò storia l’è cuntada in del Coran, una narrativa de prufunda fed cuntra la tirania travolgent. Desfà i indizi per descuvrir chi l’eran chesti anim e i circustanz straordinari che g’havevan de afruntà.",
+  "clues": [
+    "G’hem restà ferm in de la noster convinziun, anca se g’hem avü tanta presiun per renuncià a la noster fed.",
+    "A sem staits mirads de un governant potent qe al cercava de spegner la lux del monoteism.",
+    "G’hem vist grandi segn e miracol, ma i noster opressur sun restà indiferent.",
+    "G’hem suportad ün metodo teribil de persecuziün pensad per terrorizà i olter fin a sottometter.",
+    "Sem stad butà denter de un infern ardent, e ancamò la noster fermezza g’ha guadagnà una staziun volta cun Allah.",
+    "La nòsta storia l’è cuntada en una Sura che g’ha el nomm di costelaziun celest, che l’avvertiss del destin di quei che perseguitan i credent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "El popul de Thamud",
+        "La gent de 'Ad",
+        "La gent del foss",
+        "El popul de Madian",
+        "El popul del elefant"
+      ],
+      "answer": "La gent del foss"
+    },
+    "trial": {
+      "label": "La nostra persecuzion",
+      "options": [
+        "Vesser affogad ind un'inondazion",
+        "Vesser consumads de un vent brusant",
+        "Vesser butad ind una fossa de fœg",
+        "Vesser inglutid de la terra",
+        "Vesser trasformads in simie"
+      ],
+      "answer": "Vesser butad ind una fossa de fœg"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una grand inondaziun",
+        "Un grand terremot",
+        "Una fossa prufunda e brusant",
+        "Un idolo potent",
+        "Una siccità devastante"
+      ],
+      "answer": "Una fossa prufunda e brusant"
+    },
+    "outcome": {
+      "label": "El noster destin ultim",
+      "options": [
+        "G’han ricevü un regn sü la terra.",
+        "Sun stà salvà de una fuga miraculosa.",
+        "G’han otegnü el martirio e la ricumpensa eterna.",
+        "Sun stà trasfurmà en una specie diferent.",
+        "Lür han dad una gran richezza e prosperità."
+      ],
+      "answer": "G’han otegnü el martirio e la ricumpensa eterna."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

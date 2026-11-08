@@ -1,0 +1,61 @@
+{
+  "title": "Teithwyr y maes gwyrddlas",
+  "intro": "Yn yr hen amser, roedd dau unigolyn yn gofalu am diroedd cyfagos. Roedd eu llwybrau wedi'u cydblethu, ond eto roedd eu calonnau'n eu harwain at gyrchfannau gwahanol iawn. Cerddodd un y llwybr syth, tra bod y llall wedi crwydro i dywyllwch gwadu. Allwch chi ddatrys dirgelwch y ddau geidwad hyn o'r cynhaeaf?",
+  "clues": [
+    "Cefais gnydau toreithiog, cynaeafau moethus a syfrdanodd llygaid y gwylwyr.",
+    "Roedd gan fy nghymydog hyd yn oed fwy o haelioni nag oedd gen i, ond roeddwn i'n chwennych eu cyfran nhw yn fwy na fy rhan fy hun.",
+    "Awgrymais ein bod yn dinistrio eu cnydau'n llwyr, er mwyn cydgrynhoi popeth dan fy rheolaeth.",
+    "Dygais ddinistr ar fy nghynhaeaf fy hun hefyd, gan ddinistrio popeth yn fy nghynllwyn ffôl.",
+    "Safais yn ddiymadferth wrth i'm cnydau wywo a'm cyfoeth droi'n llwch mewn un noson.",
+    "Doedd gen i ddim cyfran yn y Byd a Ddaw, a daeth fy nghartref olaf yn bwll o dân llachar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Y dyn a wadodd yr atgyfodiad a'r farn",
+        "Y llywodraethwr a orthrymai'r ffermwr cyfiawn",
+        "Y tirfeddiannwr cyfoethog oedd yn brin o ddiolchgarwch",
+        "Y ffermwr a chwenychodd dir ei gymydog",
+        "Y partner bradwrus a gynllwyniodd ddinistr"
+      ],
+      "answer": "Y ffermwr a chwenychodd dir ei gymydog"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Prawf derbyn datguddiad dwyfol",
+        "Her cyfoeth ac amynedd",
+        "Y demtasiwn i ddinistrio bywoliaeth person cyfiawn",
+        "Y gorchymyn i rannu etifeddiaeth yn deg",
+        "Y frwydr yn erbyn gormes y teyrn"
+      ],
+      "answer": "Y demtasiwn i ddinistrio bywoliaeth person cyfiawn"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Gerddi gwyrddlas paradwys",
+        "Dau gae cnydau cyfagos",
+        "Y mynyddoedd a welodd ddinistr",
+        "Cysegr sanctaidd Makkah",
+        "Glannau afonydd gwlad fendigedig"
+      ],
+      "answer": "Dau gae cnydau cyfagos"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Paradwys tragwyddol fel gwobr am gyfiawnder",
+        "Dinistr llwyr y ddau gynhaeaf yn y bywyd hwn",
+        "Alltudiaeth a chrwydro hyd farwolaeth",
+        "Ffyniant dros dro ac yna tân tragwyddol",
+        "Adferiad rhyfeddol a gwobr ddwbl"
+      ],
+      "answer": "Dinistr llwyr y ddau gynhaeaf yn y bywyd hwn"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

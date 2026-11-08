@@ -1,0 +1,61 @@
+{
+  "title": "Sebuah Peringatan Kecil Sebelum Pasukan Berbaris",
+  "intro": "Masuki sebuah lembah tempat seorang penguasa perkasa dan pasukan besar mendekat, dan bayangkan seorang pengembara kecil memberikan peringatan yang menyelamatkan seluruh komunitas. Saat komunitas yang terancam mencapai tempat berlindung, bahaya pun berlalu. Ikuti petunjuk untuk mengidentifikasi sosok yang terabaikan di balik peringatan itu.",
+  "clues": [
+    "Aku termasuk di antara makhluk-makhluk kecil yang terkait dengan kerajaan seorang penguasa.",
+    "Komunitas saya tinggal di dalam sebuah lembah, di mana salah satu dari kami dapat memanggil yang lain.",
+    "Kita menghadapi ancaman dari penguasa itu dan pasukan yang menyertainya.",
+    "Sayalah yang menyeru komunitas saya untuk memasuki tempat tinggal mereka dan memperingatkan kita agar tidak tertindas tanpa disadari.",
+    "Penguasanya adalah Sulaiman, dan spesiesku termasuk di antara makhluk-makhluk yang berada di bawah perintahnya.",
+    "Akulah semut di lembah itu; setelah peringatanku, kami memasuki tempat tinggal kami dan lolos dari kehancuran yang seharusnya menimpa kami tanpa peringatan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Semut Lembah",
+        "Burung Hoopoe",
+        "Burung Gagak",
+        "Ular",
+        "Keledai"
+      ],
+      "answer": "Semut Lembah"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Sebuah peringatan yang menyelamatkan komunitas semut.",
+        "Permintaan cincin dari seekor ikan",
+        "Pencarian tahta yang hilang",
+        "Penyelamatan mata yang dicuri",
+        "Penolakan untuk memakan makanan penguasa"
+      ],
+      "answer": "Sebuah peringatan yang menyelamatkan komunitas semut."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Lembah Semut",
+        "Cincin Meterai Sulayman",
+        "Baju Yusuf yang Berlumuran Darah",
+        "Anak Lembu Emas dalam Kisah Keluaran",
+        "Tongkat Musa"
+      ],
+      "answer": "Lembah Semut"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Masyarakat tersebut selamat setelah berlindung di tempat yang aman.",
+        "Komunitas itu hancur tanpa sempat berlindung.",
+        "Masyarakat tersebut selamat karena tentara mundur.",
+        "Masyarakat tersebut diberi imbalan berupa kendali atas burung-burung itu.",
+        "Masyarakat tersebut ditawan dan dibawa ke istana kerajaan."
+      ],
+      "answer": "Masyarakat tersebut selamat setelah berlindung di tempat yang aman."
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

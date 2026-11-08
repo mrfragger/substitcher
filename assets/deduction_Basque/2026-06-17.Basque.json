@@ -1,0 +1,61 @@
+{
+  "title": "Hiriaren ertzetik datorren oihartzuna",
+  "intro": "Jainkozko gidaritzatik aldendu zen hiri batean, irudi bakarti bat agertu zen kanpoaldetik, itxaropen eta abisu mezu batekin lasterka. Ahaztutako arima hau fede sendoaren betiko sinbolo bihurtuko zen.",
+  "clues": [
+    "Mezulariak nire hirira bidaltzen ikusi nituen, baina nire jendeak gizaki arrunt gisa baztertu zituen.",
+    "Haien mezuan sinetsi nuen eta egia nire baitan oihartzuna sentitzen nuen.",
+    "Saririk eskatu ez zuten mezulariei obeditzeko dei egin nien nire herriari.",
+    "Hiriko muturretik korrika egin nuen, premiazko ahaleginean arrazoia emanaraziz.",
+    "Nire herria nire aurka altxatu zen, eta hil egin ninduten, baina betiko bakea aurkitu nuen.",
+    "Ala-k esan zidan: «Sartu Paradisura», eta nahi nuen nire herriak niri emandako ohorea ikusi ahal izatea."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ya-Sin-eko sinestuna",
+        "Uzair Galdetzailea",
+        "Al-Khidr Gidaria",
+        "Faraoiaren familiako sinestuna",
+        "Namrud tiranoa"
+      ],
+      "answer": "Ya-Sin-eko sinestuna"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Hil zuten sinesgabeko jende bati aurre egitea",
+        "Su bizian botata egotea",
+        "Arrain handi batek irentsi izana",
+        "Arka erraldoi bat eraikitzea",
+        "Tirano baten armadatik ihesi"
+      ],
+      "answer": "Hil zuten sinesgabeko jende bati aurre egitea"
+    },
+    "location": {
+      "label": "Kokapen nagusia",
+      "options": [
+        "Hiriko muturrik urrunena",
+        "Tur mendia.",
+        "Inurrien Harana",
+        "Nilo ibaiaren ertzak.",
+        "Kobazuloaren kobazuloa."
+      ],
+      "answer": "Hiriko muturrik urrunena"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Martirioa eta berehalako Paradisura sartzea",
+        "Ihesaldia eta salbazioa",
+        "Zeruetara igotzea",
+        "Itsasoan itotzea.",
+        "Harri bihurtzen."
+      ],
+      "answer": "Martirioa eta berehalako Paradisura sartzea"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

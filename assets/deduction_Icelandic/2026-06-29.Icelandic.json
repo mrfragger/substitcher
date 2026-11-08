@@ -1,0 +1,61 @@
+{
+  "title": "Þolinmóð sál",
+  "intro": "Í spádómssögum var til sál sem þolinmæði var grafin í djúpa veru hennar. Í gegnum tár og tíma héldu þau fast í vonina og urðu tímalaust dæmi um traust á guðlega visku. Geturðu leyst leyndardóm þessarar óhagganlegu persónu?",
+  "clues": [
+    "Ég fæddist í spámannafjölskyldu, en stærsta prófraun mín kom í gegnum barnið sem ég elskaði mest.",
+    "Ég fékk viðvörun um öfund í draumi sem sonur minn deildi með mér og ég óttaðist um öryggi hans.",
+    "Augun mín hvítnuðu af sorg, en ég missti aldrei trúna á miskunn Allahs.",
+    "Ilmurinn af týnda barninu mínu barst til mín úr fjarlægð og ég vissi þá að endurfundur væri í nánd.",
+    "Fjölskylda mín laut í þakklæti þegar sýnin frá fortíðinni rættist og sjónin mín endurheimtist.",
+    "Það var ég sem fékk blóðuga skyrtu gefin, en síðar fékk ég skyrtu sem læknaði sjónina mína."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Spámaðurinn Íbrahim",
+        "Spámaðurinn Íshaq",
+        "Spámaðurinn Yaqub",
+        "Spámaðurinn Jósef",
+        "Spámaðurinn Ayyub"
+      ],
+      "answer": "Spámaðurinn Yaqub"
+    },
+    "trial": {
+      "label": "Hin mikilvæga réttarhöld",
+      "options": [
+        "Aðskilnaður frá ástkæru barni og sjónmissir",
+        "Að vera kastað í logandi eld",
+        "Að vera gleyptur af stórum fiski",
+        "Að þola að missa auð, börn og heilsu",
+        "Að vera svikinn af bræðrum sínum og kastað í brunn"
+      ],
+      "answer": "Aðskilnaður frá ástkæru barni og sjónmissir"
+    },
+    "location": {
+      "label": "Táknræni hluturinn",
+      "options": [
+        "Skyrta sem fyrst faldi sannleikann og síðan afhjúpaði hann",
+        "Stafurinn sem varð að höggormi",
+        "Hvalur sem gleypti spámann",
+        "Eldur sem kólnaði",
+        "Par af sandölum við brennandi runna"
+      ],
+      "answer": "Skyrta sem fyrst faldi sannleikann og síðan afhjúpaði hann"
+    },
+    "outcome": {
+      "label": "Guðdómlega ályktunin",
+      "options": [
+        "Endurfundur með látnum ástvini og endurheimt sjónarinnar",
+        "Björgun frá kúgunarþjóð",
+        "Frelsun úr fiskmaga",
+        "Björgun úr logandi eldi",
+        "Uppstigning til mikils hásætis"
+      ],
+      "answer": "Endurfundur með látnum ástvini og endurheimt sjónarinnar"
+    }
+  },
+  "verseRef": "12:86",
+  "arabic": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "He said, \"I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know. (12:86)"
+}

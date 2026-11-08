@@ -1,0 +1,61 @@
+{
+  "title": "Ang Sinalikway sa Langit",
+  "intro": "Usa ka misteryosong binuhat ang nagbarog sa kinasang-an sa paglalang ug pagsalikway. Ang ilang istorya usa ka istorya sa walay kapantay nga pagkamapahitas-on ug ang katapusang pagsupak sa usa ka balaan nga sugo. Ang ilang pagpili naglanog sa matag henerasyon, nga nahimong usa ka pagsulay alang sa matag kalag nga natawo niining kalibutana. Makaila ka ba niining walay katapusan nga kaaway?",
+  "clues": [
+    "Naa ko sa usa ka panghitabo nga may kosmikong kahulogan, sa dihang usa ka bag-ong binuhat ang giumol gikan sa lapok ug gihatagan og kinabuhi pinaagi sa Gininhawa sa Maloloy-on.",
+    "Ako mismo gilalang gikan sa usa ka nagdilaab nga elemento, dili sama sa binuhat nga hinimo sa abog.",
+    "Usa ka sugo ang gihatag kanako nga akong giisip nga ubos sa akong katungdanan.",
+    "Midako ang akong garbo, ug hugot akong midumili sa pagtuman niana nga sugo.",
+    "Gihatag kanako ang usa ka paglangan hangtod sa gitakdang Adlaw, aron akong mapadayon ang akong gipahayag nga katuyoan sa pagpahisalaag sa uban.",
+    "Ako ang gipahayag nga kaaway sa tanan nga naglakaw sa yuta, nga naghunghong ug mga limbong ug nagdani kanila palayo sa tul-id nga dalan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Iblis (Satanas)",
+        "Paraon (Fir'awn)",
+        "Haman",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satanas)"
+    },
+    "trial": {
+      "label": "Pagsulay/Hingpit",
+      "options": [
+        "Nagdumili sa pagyukbo sa atubangan ni Adan",
+        "Nag-angkon nga bakak ang pagka-Diyos",
+        "Naghimo og bulawan nga nating baka alang sa pagsimba",
+        "Gipatay ang iyang igsoon tungod sa kasina",
+        "Nangulo sa oposisyon sa mga politeista sa Makkah"
+      ],
+      "answer": "Nagdumili sa pagyukbo sa atubangan ni Adan"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Paraiso (Jannah)",
+        "Palasyo sa Paraon sa Ehipto",
+        "Ang sagrado nga walog sa Tuwa",
+        "Ang giladmon sa dagat",
+        "Ang tanaman sa Sheba"
+      ],
+      "answer": "Paraiso (Jannah)"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Gihatagan og pahulay hangtod sa Adlaw sa Paghukom",
+        "Nalumos uban sa kasundalohan sa dagat",
+        "Gilamoy sa yuta uban sa mga bahandi",
+        "Nahimong mga unggoy tungod sa paglapas sa Adlawng Igpapahulay",
+        "Gisunog sa mga bato nga gilabay gikan sa langit"
+      ],
+      "answer": "Gihatagan og pahulay hangtod sa Adlaw sa Paghukom"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

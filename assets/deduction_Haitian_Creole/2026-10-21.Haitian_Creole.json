@@ -1,0 +1,61 @@
+{
+  "title": "Mesaje ki te konfwonte zidòlat yo",
+  "intro": "Nan yon epòk kote devosyon te pèdi chemen l, yon mesaje te leve kanpe ak yon apèl pou retounen nan adorasyon Senyè mond yo. Figi sa a te kanpe fèm kont yon pèp ki te anrasinen nan adorasyon yon fo dye, li te fè yo sonje vrè Kreyatè yo a ak Senyè zansèt yo. Men, pèp la te neglije epi yo te rejte avètisman an, sa ki te sele pwòp sò yo. Ki moun ki te moun ki t ap rele san ezitasyon sa a?",
+  "clues": [
+    "Yo te voye m' bò kote yon pèp ki te vire do bay chemen sèl Vrè Bondye a.",
+    "Mwen te mande pèp mwen an: “Èske nou p ap gen krentif pou Bondye?”",
+    "Mwen te rele yo pou yo sispann adore yon fo dye yo rele Baal.",
+    "Pèp mwen an te rejte apèl mwen an epi yo te pèsiste nan idolatri yo a.",
+    "Akòz refi yo a, yo pral sètènman mennen devan pou pini.",
+    "Senyè mwen an te ban mwen lapè ak yon souvni beni pami jenerasyon ki vin apre yo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Ilyas",
+        "Pwofèt Yahya",
+        "Pwofèt Dhul-Kifl",
+        "Pwofèt Youssouf",
+        "Pwofèt Chou'ayb"
+      ],
+      "answer": "Pwofèt Ilyas"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Li rele pèp li a pou yo abandone Baal",
+        "Yo te bati yon lach pou sove kwayan yo",
+        "Yo te jete l nan dife",
+        "Kouri pou Farawon an, yon tiran",
+        "Li frape yon wòch pou fè dlo soti"
+      ],
+      "answer": "Li rele pèp li a pou yo abandone Baal"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Baal",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "Baal"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Yo te ba li lapè ak yon souvni beni",
+        "Latè vale l",
+        "Detwi pa yon gwo tanpèt",
+        "Transfòme an wòch",
+        "Nwaye nan lanmè a"
+      ],
+      "answer": "Yo te ba li lapè ak yon souvni beni"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

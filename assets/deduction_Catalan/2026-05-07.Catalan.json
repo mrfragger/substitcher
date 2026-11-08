@@ -1,0 +1,61 @@
+{
+  "title": "El que crida des de les profunditats",
+  "intro": "Imagineu-vos una ànima a qui se li ha confiat un missatge diví, però que, en un moment de pressa, ha abandonat el seu poble sense permís explícit. Aquest viatge els ha portat a una prova extraordinària, una profunda prova de paciència i confiança en l'Altíssim. Qui és aquest individu la història del qual ens ensenya sobre el penediment i la immensitat de la misericòrdia d'Al·là?",
+  "clues": [
+    "Em van enviar a una gran nació, però el seu rebuig inicial em va causar angoixa.",
+    "Vaig deixar la meva gent, creient que la meva missió havia completat, abans de rebre una ordre clara de marxar.",
+    "Vaig buscar passatge en un vaixell, però una forta tempesta i un sorteig van portar a una situació greu.",
+    "Em van llançar al mar, i una criatura poderosa de les profunditats em va engolir sencer.",
+    "Dins de la foscor del seu ventre, vaig invocar Al·là, admetent el meu error i demanant el seu perdó.",
+    "Al·là va ordenar a la criatura que em llencés a la riba, i vaig recuperar la salut sota una planta única."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Yusuf (Joseph)",
+        "Profeta Nuh (Noè)",
+        "Profeta Yunus (Jonàs)",
+        "Profeta Sulaiman (Salomó)",
+        "Profeta Ayyub (Job)"
+      ],
+      "answer": "Profeta Yunus (Jonàs)"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "La divisió del mar",
+        "El foc de Nimrod",
+        "Ser engolit per un gran peix",
+        "La inundació",
+        "La destrucció d'una ciutat per pedres"
+      ],
+      "answer": "Ser engolit per un gran peix"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "El personal",
+        "El ventre del peix",
+        "El pou",
+        "L'arbust ardent"
+      ],
+      "answer": "El ventre del peix"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Es va convertir en un gran governant",
+        "Va construir la Kaaba",
+        "Va tornar per guiar una nació penedida",
+        "Se li va donar domini sobre els djinn",
+        "Va guiar la gent a través del desert"
+      ],
+      "answer": "Va tornar per guiar una nació penedida"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Déi verstoppte Lauschterer, déi gegleeft hunn",
+  "intro": "An der Rou vun enger helleger Versammlung ass eng bemierkenswäert Versammlung aus engem onsichtbare Räich ukomm. Ugezunn vun de Geflüster vun eppes Wonnerbares, hunn si enger Rezitatioun gelauschtert, déi hiert Schicksal fir ëmmer versiegelt huet. Hir Zeienausso bleift ee vun de eenzegaartegsten an der gëttlecher Schrëft.",
+  "clues": [
+    "Mir sinn Wesen aus engem Räich, dat vun de meeschte gesi gëtt, a mir koumen als Grupp.",
+    "Mir sinn op eng Versammlung gereest fir eppes Bemierkenswäertes ze héieren.",
+    "Wéi mir ukomm sinn, hu mir enger Rezitatioun gelauschtert, déi eis beandrockt huet.",
+    "Mir hunn ëffentlech zouginn, datt e puer vun eis gerecht sinn an e puer net.",
+    "Mir woussten, datt mir dem göttleche Dekret op der Äerd weder entkomme konnten, nach duerch Fluch an den Himmel.",
+    "Wéi mir d'Leedung héieren hunn, hu mir drun gegleeft; wien u säin Här gleeft, wäert keng Angscht viru Verloscht oder Laascht hunn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Eng Grupp vu Djinn",
+        "D'Leit vun Iram",
+        "D'Leit vun Tubba'",
+        "D'Réimescht Räich",
+        "Den Stamm vun de Quraysh"
+      ],
+      "answer": "Eng Grupp vu Djinn"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Lauschtert op eng sakral Rezitatioun",
+        "Héich Piliere bauen an eiser Stad",
+        "Juegd op eng prächteg Kamellfra",
+        "Zerstéiert ze ginn, well mir eis Prophéiten ëmbruecht hunn",
+        "Räichtum iwwer all Mooss multiplizéieren"
+      ],
+      "answer": "Lauschtert op eng sakral Rezitatioun"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng Versammlung vun der sakraler Rezitatioun",
+        "Eng Stad mat héije Säilen (Iram)",
+        "E Brunn an der Wüst",
+        "E grousse Palais aus Gold",
+        "Eng helleg Höhl an de Bierger"
+      ],
+      "answer": "Eng Versammlung vun der sakraler Rezitatioun"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Mir hunn eis Leit gegleeft a gewarnt",
+        "Zerstéiert duerch e mächtege Stuerm vum Himmel",
+        "Bestrooft vun engem brennenden, zerstéierende Wand",
+        "Immense Räichtum a Muecht geschenkt",
+        "Am Ongleewe bliwwen"
+      ],
+      "answer": "Mir hunn eis Leit gegleeft a gewarnt"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

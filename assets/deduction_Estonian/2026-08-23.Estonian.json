@@ -1,0 +1,61 @@
+{
+  "title": "Kadunud hulk",
+  "intro": "Sa seisad kogukonna kajade ees, kelle lugu on kirjutatud lainetesse. Need hinged kuulsid kutset, valisid vastuhaku ja seisid silmitsi tagajärjega, mis muutis maakera. Kes nad on ja mis sai nende maailmast?",
+  "clues": [
+    "Me elasime ammu aega tagasi ja meie endi seast tuli sõnumitooja.",
+    "Me kummardasime viit ebajumalat ja keeldusime neid hülgamast.",
+    "Me pilkasime sõnumitoojat ja süüdistasime teda eksimises.",
+    "Me nõudsime, et ta kannaks karistuse, kui ta on aus.",
+    "Me nägime, kuidas taevas vihma kallas ja maast allikad voolasid.",
+    "Me ronisime kõrgematele kohtadele põgenema, aga lained tabasid meid."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Nuhi rahvas",
+        "'Redi inimesed",
+        "Thamudi rahvas",
+        "Luti rahvas",
+        "Madjani rahvas"
+      ],
+      "answer": "Nuhi rahvas"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Meid uppus suur üleujutus",
+        "Meid hävitas orkaan",
+        "Meid tappis vali plahvatus",
+        "Maa neelas meid alla",
+        "Meid loobiti taevast kividega"
+      ],
+      "answer": "Meid uppus suur üleujutus"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Suur üleujutus",
+        "Äge tuul",
+        "Kivide sadam",
+        "Tuline plahvatus",
+        "Maavärin"
+      ],
+      "answer": "Suur üleujutus"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Me kõik hukkusime, välja arvatud usklikud koos Nuhiga",
+        "Meid muudeti ahvideks",
+        "Meist jäid varemed ränduritele",
+        "Meist sai sool",
+        "Meile anti hingetõmbeaega"
+      ],
+      "answer": "Me kõik hukkusime, välja arvatud usklikud koos Nuhiga"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

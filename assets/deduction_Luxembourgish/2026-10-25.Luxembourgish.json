@@ -1,0 +1,61 @@
+{
+  "title": "D'Plainte, déi iwwer dem Kaméidi héieren gouf",
+  "intro": "Dir héiert eng Stëmm aus enger Gesellschaft, wou Ënnerdréckung zur Routine ginn ass. Keng Demonstratioun vu Muecht äntwert op d'Kloe; amplaz erreecht en direkten Appel Allah, an d'Äntwert trëfft am Häerz vum Gottesdéngscht selwer. Wien huet déi Plainte gemaach, wéi eng Fro ass gefollegt, a wéi eng Wourecht gouf bestätegt?",
+  "clues": [
+    "Ech hunn mech vun der Ënnerdréckung vun de Leit ronderëm mech gestéiert.",
+    "Ech hunn dës Reklamatioun direkt beim Allah an enger perséinlecher Plainte geäussert.",
+    "Allah huet d'Plainte héieren an huet mat enger Erausfuerderung iwwer mäin eegene Glawen geäntwert.",
+    "D'Äntwert huet gefrot, wéi ech net un Allah gleewen konnt, deen Eenzegen an Allmächtegen ass.",
+    "Dunn hunn ech gefrot, firwat Allah e Vollek favoriséiere soll, dat net gleeweg ass.",
+    "Ech sinn den Uzair, deen an der Surah Az-Zukhruf als deen genannt gëtt, deem seng Plainte Allah héieren huet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Uzair",
+        "De Begleeder, deen op der grousser Iwwerschwemmung gesegelt ass",
+        "De Knecht, deen op Waasser gaangen ass",
+        "De Schlofer, deen an enger Höhl geschützt ass",
+        "De Knecht, deen Steng an e Floss bruecht huet"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Beschwerde bei Allah iwwer d'Ënnerdréckung vum Vollek",
+        "Op Waasser goen wärend engem Stuerm",
+        "Steng an e Floss droen, deen kee Waasser méi hat",
+        "Segelen duerch eng grouss Iwwerschwemmung u Bord vun der Ark",
+        "De Schlëssel zu engem risege Schatz kréien"
+      ],
+      "answer": "Beschwerde bei Allah iwwer d'Ënnerdréckung vum Vollek"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng direkt Plainte un den Allah geriicht",
+        "E Staff, deen zu enger Schlaang gouf",
+        "En Uewen, deen kill a friddlech gemaach gouf",
+        "Eng Ark, déi iwwer Iwwerschwemmungswaasser schwëmmt",
+        "E Fësch, deen e Knecht verschléckt"
+      ],
+      "answer": "Eng direkt Plainte un den Allah geriicht"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Allah huet d'Plainte héieren an huet d'göttlech Eenheet an déi iewescht Herrschaft bestätegt",
+        "Sécher um Waasser wärend engem Stuerm goen",
+        "Sécher iwwer eng grouss Iwwerschwemmung u Bord vun der Ark",
+        "D'Siicht erëm an engem Palais vun Arroganz kréien",
+        "Herrschaft kréien, déi sech vum Osten bis zum Westen erstreckt"
+      ],
+      "answer": "Allah huet d'Plainte héieren an huet d'göttlech Eenheet an déi iewescht Herrschaft bestätegt"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

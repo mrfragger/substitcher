@@ -1,0 +1,61 @@
+{
+  "title": "A hódító két horizont között",
+  "intro": "Az isteni útmutatás krónikáiban egy személy kiemelkedik, mint hatalmas uralkodó és Allah alázatos szolgája. Ez a személy a föld legtávolabbi pontjaira utazott, és tanúja volt a napfelkeltének egy szokatlan nép felett, majd lenyugvásának egy fekete, zavaros tavaszban. A legfigyelemreméltóbb, hogy ennek a szolgának az volt a feladata, hogy rendkívüli védőfalat építsen egy nagy gonoszsággal teli nemzet ellen. Felismered ezt a legendás alakot a Koránból?",
+  "clues": [
+    "A Legirgalmasabb hatalmat és befolyást adott nekem a földön",
+    "Elutaztam oda, ahol a nap felkel és ahol lenyugszik",
+    "Olyan emberekhez értem, akik alig értettek egy szót sem",
+    "Azt a parancsot kaptam, hogy építsek egy hatalmas gátat vasból",
+    "Olvadt fémmel lezártam a két meredek hegy közötti teret",
+    "Sem angyal, sem próféta nem voltam, hanem egy szolga, akire Allah kegyet adott"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Dhu al-Qarnayn (A kétszarvú)",
+        "Szulejmán király (Salamon)",
+        "Dhul-Kifl próféta",
+        "Dhu al-Nun (A halak társának)",
+        "A Gát Angyala"
+      ],
+      "answer": "Dhu al-Qarnayn (A kétszarvú)"
+    },
+    "trial": {
+      "label": "A nagy feladat",
+      "options": [
+        "Égbe vezető tornyot építve",
+        "Egy hatalmas vasgát építése Jadzsudzs és Madzsudzs ellen",
+        "Arany trónt teremtve az ítéletre",
+        "Mély kutat ásva az igazaknak",
+        "Hajóépítés egy nagy árvíz idején"
+      ],
+      "answer": "Egy hatalmas vasgát építése Jadzsudzs és Madzsudzs ellen"
+    },
+    "location": {
+      "label": "A környezet",
+      "options": [
+        "Uzair földje két folyó között",
+        "A napfelkelte és a fekete, sáros forrás helye",
+        "Mekka szent völgye",
+        "A Madyan sivatag",
+        "Ciprus szigete"
+      ],
+      "answer": "A napfelkelte és a fekete, sáros forrás helye"
+    },
+    "outcome": {
+      "label": "Az isteni ígéret",
+      "options": [
+        "Azonnal megadják az örök paradicsomot",
+        "Forró szél pusztította el az országot",
+        "A korlát az ítélet napjáig tart",
+        "Szabadulás a haláltól minden hívő számára",
+        "Egy örök királyság, vég nélkül"
+      ],
+      "answer": "A korlát az ítélet napjáig tart"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

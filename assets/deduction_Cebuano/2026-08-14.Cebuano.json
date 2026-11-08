@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tinunglong mga Kamot",
+  "intro": "Nagbarog ka sa nagliko-liko nga mga eskinita sa karaang Makkah, diin ang usa ka kalag nga may impluwensya ug bahandi kaniadto mitalikod sa tawag sa kamatuoran. Ang istorya niining tawhana usa ka klaro nga pahinumdom nga ang mga bugkos sa dugo dili makabuntog sa mga kadena sa garbo. Kinsa kining tawhana kansang ngalan naglanog sa kalayo nga naghulat?",
+  "clues": [
+    "Naglakaw ako sa kadalanan sa Makkah nga may garbo nga nagbuta kanako sa kamatuoran, bisan tuod ang mensahero gikan sa akong kaugalingong dugo.",
+    "Daghan kaayo ang akong mga kabtangan, apan nahimo kining tunglo imbes nga taming.",
+    "Ang basahon sa giya naghisgot mahitungod sa akong kalaglagan, nga nagpahayag nga ang akong mga kamot ug ang akong pagkatawo mahanaw.",
+    "Ang akong kapikas miapil sa akong kampanya sa pagdumot, nanguha og mga tunok aron isabwag sa dalan sa usa nga nanawag kang Allah.",
+    "Sa adlaw sa paghukom, ituslob ako ngadto sa nagdilaab nga kalayo, ug ang akong kapikas magbitay ug pisi nga hinimo sa lanot sa palma sa liog.",
+    "Nailhan ako sa ngalan nga nagkahulogang 'amahan sa siga' — usa ka ngalan nga nagtagna sa akong walay kataposang puloy-anan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kinsa Ako?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Pangunang Pagsulay o Panghitabo",
+      "options": [
+        "Misupak sa Propeta ug gitunglo sa Quran",
+        "Nangulo sa usa ka kasundalohan aron gub-on ang Kaaba",
+        "Misulay sa pagpatay sa Propeta pinaagi sa paglabay og mga bato",
+        "Nagdumili sa pagtuo sa pagkabahin sa bulan",
+        "Nagtukod og tore aron makaabot sa langit"
+      ],
+      "answer": "Misupak sa Propeta ug gitunglo sa Quran"
+    },
+    "location": {
+      "label": "Pangunang Elemento",
+      "options": [
+        "Ang nagdilaab nga Kalayo sa Impyerno",
+        "Ang mga Sungkod ni Musa",
+        "Ang Arka ni Nuh",
+        "Ang Atabay sa Zamzam",
+        "Ang Bulawanong Baka"
+      ],
+      "answer": "Ang nagdilaab nga Kalayo sa Impyerno"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Siya mosulod sa nagdilaab nga Kalayo, ug ang iyang bahandi dili makaayo kaniya",
+        "Naghinulsol siya ug nahimong usa ka magtutuo",
+        "Gipasaylo siya human sa iyang pag-uli sa sala",
+        "Namatay siya isip usa ka martir",
+        "Gidala siya pataas sa langit"
+      ],
+      "answer": "Siya mosulod sa nagdilaab nga Kalayo, ug ang iyang bahandi dili makaayo kaniya"
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

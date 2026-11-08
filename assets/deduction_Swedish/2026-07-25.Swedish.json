@@ -1,0 +1,61 @@
+{
+  "title": "Invånarna i de två trädgårdarna",
+  "intro": "I ett land där välsignelser flödade rikligt, åtnjöt en gång ett samhälle överflöd av två magnifika trädgårdar. Deras liv var ett bevis på gudomlig ynnest, men deras historia tog en vändning när tacksamheten avtog, vilket ledde till en förvandling som skulle bli ett bestående tecken för alla som reflekterar.",
+  "clues": [
+    "Vi var ett folk välsignat med ett land av bekvämlighet och överflöd.",
+    "Vår Herre gav oss två ståtliga trädgårdar, frodiga och fruktbara på alla sidor.",
+    "Vi blev befallda att vara tacksamma, men vi valde otacksamhet och vände oss bort.",
+    "En stor damm höll tillbaka vattnet som gav liv åt vårt land.",
+    "När vi envisades med våra felaktiga handlingar, brast dammen och flodvattnet svepte igenom.",
+    "Våra en gång frodiga trädgårdar ersattes av bitter frukt, tamarisker och några lotusträd."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Sabas folk",
+        "Folket i Thamud",
+        "Madyans folk",
+        "Grottans följeslagare",
+        "Elefantens folk"
+      ],
+      "answer": "Sabas folk"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "En våldsam vind i sju nätter",
+        "En dusch av stenar från himlen",
+        "En förödande översvämning från en sprängande damm",
+        "Ett högt skrik från himlen",
+        "Drunkning i havet"
+      ],
+      "answer": "En förödande översvämning från en sprängande damm"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Den stora dammen i Ma'rib",
+        "Wadi al-Quras dal",
+        "Irams trädgård",
+        "Zamzams brunn",
+        "Sinaiberget"
+      ],
+      "answer": "Den stora dammen i Ma'rib"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Våra trädgårdar ersattes med bitter frukt och glesa träd",
+        "Vi slukades av jorden i en jordbävning",
+        "Vi förvandlades till apor och grisar",
+        "Vi drunknade i en stor översvämning",
+        "Vi blev förstörda av en stenregn"
+      ],
+      "answer": "Våra trädgårdar ersattes med bitter frukt och glesa träd"
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

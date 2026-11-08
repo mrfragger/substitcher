@@ -1,0 +1,61 @@
+{
+  "title": "Kopiena, kas nepakļāvās atpūtas dienai",
+  "intro": "Ieejiet piekrastes apmetnē, kur dievišķa pavēle ​​vienu dienu atvēlēja pielūgsmei un savaldībai. Kāda šīs kopienas grupa nolēma pārbaudīt šīs pavēles robežas ar viltīgu plānu, kas novedīs pie pārvērtībām, kas atbalsosies cauri gadsimtiem. Kas bija šīs dvēseles un kas ar viņām notika?",
+  "clues": [
+    "Mēs dzīvojām netālu no piekrastes, kur jūra nodrošināja mums iztiku.",
+    "Mums tika pavēlēts godāt vienu nedēļas dienu, atvēlot to malā no pasaulīgām nodarbēm.",
+    "Tajā dienā zivis pie mums nāca lielā skaitā, it kā kārdinot mūs pārkāpt pavēli.",
+    "Mēs izstrādājām plānu noķert zivis svētās dienas priekšvakarā un pēc tam tās savākt.",
+    "Kad daži no mums brīdināja par šo viltību, mēs ignorējām viņu padomu un neatlaidāmies.",
+    "Mūsu pārkāpumu dēļ mēs tikām pārvērsti par pērtiķiem, nicināti un atraidīti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Sabata ļaudis",
+        "Grāvja ļaudis",
+        "Meža ļaudis",
+        "Dārza ļaudis",
+        "Ziloņa ļaudis"
+      ],
+      "answer": "Sabata ļaudis"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Makšķerēšana sabatā",
+        "Augsta torņa celtniecība",
+        "Svētās kamieļmātes nogalināšana",
+        "Noliedzot viņiem sūtīto pravieti",
+        "Tirdzniecības svaru pārkāpšana"
+      ],
+      "answer": "Makšķerēšana sabatā"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Jūra un tās zivis",
+        "Uguns, kas tika atdzesēta",
+        "Personāla daļa, kas pārvērtās par čūsku",
+        "Pestīšanas šķirsts",
+        "Akmens plāksnes"
+      ],
+      "answer": "Jūra un tās zivis"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Pārveidojušies par pērtiķiem",
+        "Zeme norīja",
+        "Iznīcinājis spēcīgs vējš",
+        "Noslīcis jūrā",
+        "Saskārusi akmeņu lietusgāze"
+      ],
+      "answer": "Pārveidojušies par pērtiķiem"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

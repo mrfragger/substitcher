@@ -1,0 +1,61 @@
+{
+  "title": "Dengê ku bêhêvîtiyê red kir",
+  "intro": "Bikevin nav malekê ku tê de windahî li dû windabûnê tê, lê dengekî aram bêhêvîtiyê red dike. Bangek tenê di Quranê de sebirê vediguherîne xalek werçerxê; hûn dikarin nîşanên kesê li pişt wî dengî bişopînin?",
+  "clues": [
+    "Ez dengê sebrê bûm di malbatekê de ku bereket bi karesatan dihatin ceribandin.",
+    "Ez di malbatekê de mam ku ji ber windakirina dewlemendî û zarokan vala bû.",
+    "Min dizanibû ku nexweşî li wî hevalî jî xistibû, ku laşê wî jî êş kişandibû.",
+    "Dema ku tengasî giran bû, min bi bîranîna Xwedê gazî kir.",
+    "Min daxuyaniyek pêşkêş kir: Xwedê rastî ye, ji ber vê yekê sebir bikin.",
+    "Min bi navê Eyûb gazî kir; piştre Xwedê êş ji min rakir û malbat sererast kir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Jina Pêxember Eyûb",
+        "Jina Pêxember Nûh",
+        "Jina Pêxember Îbrahîm",
+        "Jina Pêxember Yaqûb",
+        "Keça Fir'ewn"
+      ],
+      "answer": "Jina Pêxember Eyûb"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Bi Eyûb re mayîn di dema windakirin û nexweşiyê de, dû re banga sebrê",
+        "Hişyarkirina peyamberekî salih ji bo terkkirina civatek gendel",
+        "Dua ji bo jidayikbûna nifşek pêşerojê",
+        "Şîrovekirina xewnan di zindaneke şahane de",
+        "Dîtina zarokekî emanetkirî li kêleka çem"
+      ],
+      "answer": "Bi Eyûb re mayîn di dema windakirin û nexweşiyê de, dû re banga sebrê"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Daxuyaniya ku Xwedê Rastî ye û sebir pêwîst e",
+        "Dareke xurmê li kêleka kaniyê",
+        "Bangek ji bo avakirina keştiyek dûrî pêlan",
+        "Xewnek ji yanzdeh stêrkan û rojek hiltê",
+        "Sepetek ku li kêleka Nîlê dihat hilgirtin"
+      ],
+      "answer": "Daxuyaniya ku Xwedê Rastî ye û sebir pêwîst e"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Nexweşiya Eyûb hat rakirin û malbata wî hate sererastkirin.",
+        "Zarokek ku demek dirêj li bendê bû piştî nimêjek bêberhem hat dayîn",
+        "Serwerekî ciwan heft salên firehî û kêmasiyê şîrove kir",
+        "Zarokekî pêbawer ji ava herikî hat rizgarkirin",
+        "Hişyariyek beriya lehiyê wêranker hebû"
+      ],
+      "answer": "Nexweşiya Eyûb hat rakirin û malbata wî hate sererastkirin."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

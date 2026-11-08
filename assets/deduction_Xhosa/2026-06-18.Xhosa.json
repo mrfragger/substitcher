@@ -1,0 +1,61 @@
+{
+  "title": "Abokuqala Ukufuna Uxolelo",
+  "intro": "Buyela emva kwixesha elingaphambi kokuphuma kwelanga lokuqala, ngaphambi kokuba kubekho umntu emhlabeni. Umfanekiso wenziwa ngezinto eziphantsi, wabekwa kwindawo ephakamileyo ngaphezu kweengelosi, waza wabekwa emyezweni ongcwele ngesilumkiso esicacileyo. Kodwa ngephanyazo nje, kwenziwa ukhetho - oluya kuphinda lubonakale kuyo yonke imbali yoluntu. Ngubani lo mfanekiso?",
+  "clues": [
+    "Ndenziwe ngendlela engafaniyo nezinye — ndenziwe ngothuli lomhlaba ndaza ndanikwa umphefumlo ophilayo ngesandla soMdali.",
+    "Ndanikwa ulwazi olunzulu kangangokuba neengelosi eziphezulu zamangaliswa lulo.",
+    "Lonke izulu layalelwa ukuba liqubude phambi kwam, kwaye bonke bathobela—ngaphandle komnye, owala ngenxa yekratshi.",
+    "Ndabekwa emyezweni ongcwele, indawo yentuthuzelo nesondlo esingunaphakade — kodwa ndathintelwa ngokungqongqo.",
+    "Ndilibele, ndatyibilika, kwaye andizange ndithobele — kwaye ndaziva ubunzima besiphoso sam nzulu.",
+    "Ndajika ndaya eNkosini yam ngamazwi asuka entliziyweni, yaza yamkela inguquko yam, kuba inguYena oxolela kakhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Umprofeti uAdam",
+        "Umprofeti uDawud",
+        "Umprofeti uMuhammad",
+        "I-Iblis",
+        "Umprofeti uYaqub"
+      ],
+      "answer": "Umprofeti uAdam"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "Iingelosi zayalelwa ukuba ziqubude",
+        "UMkhukula Omkhulu wathunyelwa",
+        "Umlilo omkhulu wenziwe waphola kwaye wakhuseleka",
+        "Umlawuli onekratshi watshoniswa elwandle",
+        "Umkhosi weendlovu watshatyalaliswa"
+      ],
+      "answer": "Iingelosi zayalelwa ukuba ziqubude"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Igadi yoLonwabo",
+        "INtaba yeSinayi",
+        "I-Mosque Engcwele",
+        "UMlambo iNayile",
+        "Umqolomba"
+      ],
+      "answer": "Igadi yoLonwabo"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Inguquko yamkelwa nguAllah",
+        "Nditshonile elwandle",
+        "Iginywe yintlanzi enkulu",
+        "Isizwe sabethwa kukuqhuma okukhulu",
+        "Itshiswe ngumoya otshisayo"
+      ],
+      "answer": "Inguquko yamkelwa nguAllah"
+    }
+  },
+  "verseRef": "2:37",
+  "arabic": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍۢ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "verse": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful. (2:37)"
+}

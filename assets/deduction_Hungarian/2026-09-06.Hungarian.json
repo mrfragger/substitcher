@@ -1,0 +1,61 @@
+{
+  "title": "Az aranyborjú kitaszítottja",
+  "intro": "Egy, a Koránban említett személy egy nemes próféta távollétében nagy tömeget vezetett eltévelyedésbe. Valami aranyból készült tárgy rabul ejtette egy egész nemzet szívét – de ennek a személynek a története magányban és egy furcsa átokban végződik. Ki lehet ez a kitaszított?",
+  "clues": [
+    "Egy nagy próféta távollétében bukkantam fel, aki azért emelkedett fel, hogy isteni útmutatást kapjon.",
+    "Nagy tömegeket vezettem félre valamivel, amit a saját kezemmel készítettem.",
+    "Az általam létrehozott arany alkotás élettel telinek tűnt, olyan hangokat kiadva, amelyek lenyűgözték azokat, akik követték.",
+    "Azt állítottam, hogy láttam azt, amit mások nem láthattak – bepillantást nyerhettem a láthatatlanba.",
+    "Kihúztam valamit az isteni hírnök nyomaiból, és olvadt fémbe öntöttem.",
+    "Arra voltam kárhoztatva, hogy egyedül bolyongjak, egy különleges átok sújtotta, hogy senki sem érhette meg a bőrömet, én pedig az övékét."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Szamiri",
+        "Hámán",
+        "Fáraó (Fir'awn)",
+        "Abu Laháb",
+        "Szálih próféta"
+      ],
+      "answer": "Szamiri"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "Aranyborjút teremtett imádatra",
+        "Égbe nyúló tornyot épített",
+        "Kihívta Egyiptom varázslóit",
+        "Repülő állatokból álló sereget vezetett",
+        "A Hold kettéhasítása a prófétaság bizonyítékaként"
+      ],
+      "answer": "Aranyborjút teremtett imádatra"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Az aranyborjú",
+        "Egy kígyóvá változott személyzet",
+        "Egy égő csipkebokor a hegyen",
+        "Egy bárka egy csúcson pihen",
+        "Lángoló tűzzel teli árok"
+      ],
+      "answer": "Az aranyborjú"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Száműzetésbe küldték, tilos megérinteni vagy másokat megérinteni",
+        "Tengerbe fulladt egy sereggel együtt",
+        "Élve elégették, mert elutasította a hitét",
+        "Egy heves, tomboló szél csapott le rám",
+        "Megbocsátva és magas rangra emelve"
+      ],
+      "answer": "Száműzetésbe küldték, tilos megérinteni vagy másokat megérinteni"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Novem Signorum Baiulus",
+  "intro": "Ex humilissimis initiis figura orta est, fato in divina voluntate scripto. Infantia abdita et intra muros ipsius rectoris qui populum suum delere conabatur educata, haec anima tandem ad magnum munus vocata est. Nihil nisi fide et humili baculo pastorali instructa, coram potentissimo illius aetatis rectore steterunt et libertatem pro servitute captis postulaverunt. Mundus ipse ad eorum nutum moveri videbatur — aquae divisae sunt, caeli locuti sunt, et regnum collapsum est.",
+  "clues": [
+    "Prima mea aetate metu notata sunt — infantes similes mihi a nativitate a principe immiti qui futurum timebat venabamur.",
+    "Aqua servatus sum et intra palatium eiusdem rectoris qui meam exitium quaesivit, educatus.",
+    "Post repentinum casum patriam fugi, pastor humilis in terra longinqua factus.",
+    "Reversus sum ut illum potentem principem aggrediar, simplici baculo et claro nuntio, libertatem populi mei postulans.",
+    "Magnum aquarum corpus iis qui me sequebantur divisi, et observavi dum aquae illae hostem meum integrum devorabant.",
+    "Montem sacrum ascendi ut divinam ab Allah gubernationem acciperem, et novem signa manifesta mihi concessa sunt ut veritatis probationem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Musa",
+        "Propheta Nuh",
+        "Propheta Ibrahim",
+        "Propheta Iosue",
+        "Propheta Lut"
+      ],
+      "answer": "Propheta Musa"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Pharaonem in aula eius confrontans",
+        "Arca aedificanda ut diluvium magnum superviveret",
+        "In ignem ardentem a fabricatoribus idolorum coniectus",
+        "A fratribus meis in puteum profundum demissus",
+        "Conor populum meum a moribus immoralibus impedire"
+      ],
+      "answer": "Pharaonem in aula eius confrontans"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Baculus qui in serpentem conversus est",
+        "Arca Nuh",
+        "Thronus Bilqis",
+        "Anulus qui ventum et jinn regebat",
+        "Claves ad thesauros tam graves conditos"
+      ],
+      "answer": "Baculus qui in serpentem conversus est"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Populum meum trans aquas divisas ad libertatem duxi",
+        "A magno diluvio intra arcam servatus est",
+        "Post graves dolores, valetudini et familiae restitutus est",
+        "Ex magno pisce vivus eiectus est",
+        "Fundamenta Sacrae Domus aedificavit"
+      ],
+      "answer": "Populum meum trans aquas divisas ad libertatem duxi"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

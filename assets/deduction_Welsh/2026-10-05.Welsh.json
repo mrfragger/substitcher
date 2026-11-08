@@ -1,0 +1,61 @@
+{
+  "title": "Yr Ymddiriedolaeth a Ymddiriedwyd i'r Afon",
+  "intro": "Wynebodd enaid orchymyn amhosibl, lle'r oedd bywyd newydd-anedig yn y fantol. Dan arweiniad ysbrydoliaeth ddwyfol, ufuddhawyd i orchymyn anobeithiol, a gollyngwyd cyfrinach werthfawr ar y llif, dim ond i gael ei dychwelyd mewn ffordd annisgwyl.",
+  "clues": [
+    "Roeddwn i'n byw dan gysgod teyrn a orchmynnodd ladd gwrywod newydd-anedig.",
+    "Daeth ysbrydoliaeth ddwyfol ataf, gan fy nghyfarwyddo i gymryd camau anobeithiol a thorcalonnus.",
+    "Rhoddais fy maban gwerthfawr mewn cist a'i osod ar yr afon lifog.",
+    "Daeth fy nghalon yn wag, a bron i mi ddatgelu'r gyfrinach, ond cryfhaodd Allah fy mhenderfyniad.",
+    "Anfonais rywun i ddilyn taith y plentyn i lawr yr afon wrth i'r cerrynt gario'r frest i ffwrdd.",
+    "Cafwyd hyd i'r plentyn gan deulu'r teyrn, ac yn y pen draw, cefais fy ailymuno â'm plentyn a dod yn forwyn feithrin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Mam y Proffwyd Musa",
+        "Asiya (Gwraig y Pharo)",
+        "Maryam (Mam y Proffwyd Isa)",
+        "Gwraig y Proffwyd Lut",
+        "Mam y Proffwyd Yahya (gwraig Zakariya)"
+      ],
+      "answer": "Mam y Proffwyd Musa"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Rhoddodd ei phlentyn mewn cist a'i osod ar yr afon",
+        "Cuddiodd ei phlentyn mewn ogof",
+        "Gadawodd ei phlentyn yn yr anialwch",
+        "Taflodd ei phlentyn i'r tân",
+        "Gadawodd ei phlentyn wrth ddrws mosg"
+      ],
+      "answer": "Rhoddodd ei phlentyn mewn cist a'i osod ar yr afon"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Cist wedi'i gosod ar arnofio ar yr afon",
+        "Llwyn yn llosgi",
+        "Staff a drodd yn neidr",
+        "Bwrdd wedi'i osod â bwyd o'r nefoedd",
+        "Camel benywaidd a anfonwyd fel arwydd"
+      ],
+      "answer": "Cist wedi'i gosod ar arnofio ar yr afon"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Cafodd ei hailuno â'i phlentyn a'i fwydo ar y fron",
+        "Ni welodd ei phlentyn byth eto",
+        "Cafodd ei dienyddio gan y teyrn",
+        "Daeth hi'n frenhines yn yr Aifft",
+        "Ymfudodd i wlad arall a bu’n byw mewn alltudiaeth"
+      ],
+      "answer": "Cafodd ei hailuno â'i phlentyn a'i fwydo ar y fron"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

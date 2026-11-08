@@ -1,0 +1,61 @@
+{
+  "title": "Den utstötta av den gyllene kalven",
+  "intro": "En figur som nämns i Koranen ledde en stor folkmassa på avvikelse under en ädel profets frånvaro. Något tillverkat av guld erövrade en hel nations hjärtan – men berättelsen om denna individ slutar i ensamhet och en märklig förbannelse. Vem kunde denne utstötte vara?",
+  "clues": [
+    "Jag framträdde under frånvaron av en stor profet som hade stigit upp för att ta emot gudomlig vägledning.",
+    "Jag förledde en stor skara att gå vilse med något jag tillverkat med mina egna händer.",
+    "Den gyllene skapelse jag producerade verkade ha liv och producerade ljud som fascinerade de som följde den.",
+    "Jag påstod mig ha sett det som andra inte kunde uppfatta – en glimt in i det osynliga.",
+    "Jag drog något från den gudomliga budbärarens spår och göt det till smält metall.",
+    "Jag var dömd att vandra ensam, med en unik förbannelse att ingen fick röra min hud och inte heller jag deras."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Samiri",
+        "Haman",
+        "Farao (Fir'awn)",
+        "Abu Lahab",
+        "Profeten Salih"
+      ],
+      "answer": "Samiri"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Skapade en gyllene kalv för tillbedjan",
+        "Byggde ett torn som nådde himlen",
+        "Utmanade Egyptens trollkarlar",
+        "Ledde en armé med flygande bestar",
+        "Dela månen som bevis på profetskap"
+      ],
+      "answer": "Skapade en gyllene kalv för tillbedjan"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Guldkalven",
+        "En stav som förvandlades till en orm",
+        "En brinnande buske på ett berg",
+        "En ark som vilar på en topp",
+        "En dike fylld med flammande eld"
+      ],
+      "answer": "Guldkalven"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Förvisad, förbjuden att vidröras eller röra vid andra",
+        "Drunknade i havet tillsammans med en armé",
+        "Brändes levande för att ha förkastat tron",
+        "Slås ner av en våldsam, dånande vind",
+        "Förlåten och upphöjd till en hög ställning"
+      ],
+      "answer": "Förvisad, förbjuden att vidröras eller röra vid andra"
+    }
+  },
+  "verseRef": "20:85",
+  "arabic": "قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ",
+  "verse": "[Allāh] said, \"But indeed, We have tried your people after you [departed], and the Sāmirī has led them astray.\" (20:85)"
+}

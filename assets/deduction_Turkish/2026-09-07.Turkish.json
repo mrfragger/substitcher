@@ -1,0 +1,61 @@
+{
+  "title": "Yüzünü Çeviren Arkadaş",
+  "intro": "Peygamberliğin gölgesinde yaşamış, ancak yıkıma götüren bir yolu seçmiş bir ruhun hikâyesini keşfetmek üzeresiniz. Bu kişi, Allah'ın seçilmiş elçilerinden biriyle aynı evi paylaşmış, ancak iman sınavından geçememiştir. Bu kayıp dost kimdir?",
+  "clues": [
+    "Doğruluk çağrısını reddeden insanların arasında yaşadım ve onlara karşı çıkmadım.",
+    "Allah'ın bir peygamberiyle evliydim, ancak onun inancını paylaşmıyordum.",
+    "Haberciler uyarı için evime geldiklerinde onlara inanmadım.",
+    "Eşim, müminlerle birlikte şehri terk etmesi emredildi ve ben onların arasında değildim.",
+    "Ceza halkımın başına geldi ve ben de onlarla birlikte yok oldum.",
+    "Kur'an'da Tahrim Suresi'nde Nuh'un karısıyla birlikte küfür örneği olarak anılıyorum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber Nuh'un karısı",
+        "Peygamber Lut'un karısı",
+        "Hz. İbrahim'in eşi",
+        "Hz. Musa'nın eşi",
+        "Peygamber Eyyub'un eşi"
+      ],
+      "answer": "Peygamber Lut'un karısı"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kocasına inanmayarak ona ihanet etti.",
+        "Hud Peygamberinin mesajını reddetti.",
+        "Kabe'de putlara açıkça tapınıldı.",
+        "Kocasının misyonuna karşı komplo kurdu.",
+        "Oğlunun peygamberliğini kabul etmeyi reddetti."
+      ],
+      "answer": "Kocasına inanmayarak ona ihanet etti."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Sodom şehri",
+        "Madyan şehri",
+        "İran şehri",
+        "Babil şehri",
+        "Kudüs şehri"
+      ],
+      "answer": "Sodom şehri"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Kocasıyla birlikte kurtarıldı.",
+        "Kâfirlerle birlikte yok edildi",
+        "Uzak bir ülkeye sürgün edildi",
+        "Tövbe etti ve affedildi.",
+        "Sonradan inançlı oldu."
+      ],
+      "answer": "Kâfirlerle birlikte yok edildi"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

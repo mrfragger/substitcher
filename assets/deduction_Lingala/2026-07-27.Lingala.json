@@ -1,0 +1,61 @@
+{
+  "title": "Libonza oyo Ebongoli Destin",
+  "intro": "Na mikolo ya ebandeli ya bomoto, molimo moko ezalaki kopesa likabo na mikano ya peto. Kasi, zuwa ezalaki kolala na elili ya kondimama. Boyeba lisolo ya moto oyo oyo ezaleli na ye ya kobanga Nzambe mpe nsuka na ye ya mawa ekufaka te na emoniseli ya bonzambe.",
+  "clues": [
+    "Nazalaki kati na bankola ya liboso mpenza ya bato.",
+    "Napesaki likabo epai ya Nkolo na ngai, mpe eyambamaki na boboto.",
+    "Libonza ya ndeko na ngai ya mobali eboyamaki, mpe zuwa ekómisaki motema na ye molili.",
+    "Nayebisaki ye ete, ‘Soki osembola lobɔkɔ na yo epai na ngai mpo na koboma ngai, ngai nakosembola lobɔkɔ na ngai te mpo na koboma yo; ya solo nazali kobanga Allah, Nkolo ya mokili.’",
+    "Nakómaki mobɛti ya likambo ya liboso ya koboma bato awa na mabele.",
+    "Makila na ngai egangaki, mpe nazalaki martiru ya liboso ya kozanga mbeba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Habil (Abele) .",
+        "Kabil (Kaina) .",
+        "Moto oyo autaki na Ya-Sin",
+        "Ba Samiri",
+        "Luqman, azali moto ya mayele"
+      ],
+      "answer": "Habil (Abele) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Bandimaki likabo na ye, yango esalaki ete ndeko na ye ayokela ye zuwa mpe babomaki ye",
+        "Babwakaki ye na litumbu oyo ezalaki kopela mɔtɔ kasi abimaki mpe azokaki te",
+        "Atongaki masuwa moko monene na litambwisi ya Nzambe",
+        "Mbisi moko monene ememaki ye mpe atikalaki na molili",
+        "Akambaki bato na ye na mbu oyo ekabwani"
+      ],
+      "answer": "Bandimaki likabo na ye, yango esalaki ete ndeko na ye ayokela ye zuwa mpe babomaki ye"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Likabo oyo endimami",
+        "Nzete moko oyo ezali kobongwana nyoka",
+        "Kamela ya mwasi lokola elembo ya bonzambe",
+        "Hoopoe moko ememi sango",
+        "Mwana ya ngɔmbɛ ya wolo oyo bazalaki kosambela"
+      ],
+      "answer": "Likabo oyo endimami"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bobomi ya liboso na lisolo ya bato; ndeko na ye ya mobali azwaki etumbu",
+        "Amelima na mabele elongo na bomengo na ye",
+        "Ebongwanaki na ba singes mpo na transgression",
+        "Ebebisamaki na mopɛpɛ makasi mpe ya zɛlo",
+        "Bazindaki na mpela monene lokola etumbu"
+      ],
+      "answer": "Bobomi ya liboso na lisolo ya bato; ndeko na ye ya mobali azwaki etumbu"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

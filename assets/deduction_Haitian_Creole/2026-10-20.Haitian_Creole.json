@@ -1,0 +1,61 @@
+{
+  "title": "Achitèk Fo Anbisyon an",
+  "intro": "Yon figi ki te gen anpil otorite te sèvi youn nan tiran ki pi notwa nan listwa nan ansyen peyi Lejip. Yo te konfye moun sa a yon lòd odasye - pou l konstwi yon estrikti ki te sipoze defye syèl la. Istwa yo rete nan Koran an kòm yon leson frapan sou kijan obeyisans avèg devan awogans mennen sèlman nan destriksyon.",
+  "clues": [
+    "Mwen te sèvi nan tribinal yon dirijan pwisan ki te pretann li se divinite sou tè yo.",
+    "Mwen te okipe yon gwo pozisyon ministeryèl, mwen te konseye tiran ki pi arogan nan epòk mwen an.",
+    "Chèf mwen an te boule nan tèt li ap defye Bondye Moyiz la, yon Bondye yo te refize rekonèt.",
+    "Yo te bay lòd pou m konstwi yon gwo kay won ak brik kuit nan dife pou chèf mwen an te ka monte nan syèl la.",
+    "Tou a pa t janm rive nan syèl la, e esklavaj arogan mwen an te fè m tonbe nan yon wont etènèl.",
+    "Mwen peri ansanm ak moun mwen t ap swiv la, epi non mwen vin tounen yon avètisman pou tout tan kont moun ki pèmèt tiran yo gouvènen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Aman",
+        "Azar (papa Ibrahim)",
+        "Ilyas (yon pwofèt)",
+        "Dhu al-Kifl",
+        "Harout (youn nan de zanj ki nan Babilòn yo)"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Yo te bay lòd pou konstwi yon estrikti ki wo anpil pou rive nan syèl la",
+        "Yo mande l pou l entèprete yon rèv Bondye voye ba yo.",
+        "Jete nan yon gwo dife kòm yon tès lafwa",
+        "Bliye pou chwazi ant twòn ak verite a",
+        "Defi nan yon konkou maji"
+      ],
+      "answer": "Yo te bay lòd pou konstwi yon estrikti ki wo anpil pou rive nan syèl la"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Yon gwo kay won an brik kuit nan dife",
+        "Yon baton ki te transfòme an sèpan",
+        "Yon bato k ap navige nan yon gwo inondasyon",
+        "Yon jaden ki antoure pa gwo miray",
+        "Yon twòn dekore avèk ribi ak lò"
+      ],
+      "answer": "Yon gwo kay won an brik kuit nan dife"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Nwaye bò kote opresè a nan lanmè a",
+        "Li te vin tounen yon monak pwisan nan gwo tè",
+        "Chape anba yon gwo dife san okenn domaj",
+        "Bati yon wayòm sajès ki pwospere",
+        "Te reyini ak fanmi li apre plizyè ane ekzil"
+      ],
+      "answer": "Nwaye bò kote opresè a nan lanmè a"
+    }
+  },
+  "verseRef": "40:23",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (40:23)"
+}

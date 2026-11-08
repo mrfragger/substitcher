@@ -1,0 +1,61 @@
+{
+  "title": "La Dormo de la Justuloj",
+  "intro": "En tempo kiam fido estis danĝera kaj la potenculoj celis dispremi kredon, malgranda grupo de junaj animoj faris elekton kiu eĥos tra epokoj. Fuĝante de ĉio kion ili sciis, ili serĉis rifuĝon en la kaŝita mallumo de monto kaj metis sian tutan fidon en Alaho. Kio okazis poste fariĝus sentempa signo por tiuj, kiuj pripensas.",
+  "clues": [
+    "Ni estis grupo de junuloj, kiuj kredis je nia Sinjoro, kaj Li plifortigis nian gvidadon.",
+    "Ni staris antaŭ nia popolo kaj deklaris, ke ni neniam alvokos ian ajn diaĵon krom Alaho.",
+    "Ni serĉis rifuĝon en kaverno, dirante: \"Nia Sinjoro, donu al ni kompaton de Via flanko kaj gvidu nin ĝuste en nia afero.\"",
+    "Ni dormis dum granda nombro da jaroj, kaj la suno kliniĝus for de nia kaverno kaj ne tuŝus nin.",
+    "Nia hundo kuŝis etendita ĉe la enirejo de la kaverno, gardante nin kvazaŭ gardostarante.",
+    "Kiam ni vekiĝis, ni scivolis kiom longe ni atendis, kaj unu el ni estis sendita kun arĝentaj moneroj por aĉeti manĝaĵojn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kiu Mi Estas?",
+      "options": [
+        "Homoj de la Kaverno",
+        "Homoj de la Tranĉeo",
+        "Homoj de la Ŝabato",
+        "Homoj de la Elefanto",
+        "Kunuloj de la Arbaro"
+      ],
+      "answer": "Homoj de la Kaverno"
+    },
+    "trial": {
+      "label": "Testo/Okazaĵo",
+      "options": [
+        "Fuĝis al kaverno por eviti persekuton pro sia kredo",
+        "Detruita de furioza vento",
+        "Englutita de la tero",
+        "Dronis en la maro",
+        "Frapita de ŝtormo de ŝtonoj"
+      ],
+      "answer": "Fuĝis al kaverno por eviti persekuton pro sia kredo"
+    },
+    "location": {
+      "label": "Ŝlosila Elemento",
+      "options": [
+        "Hundo gardanta la kavernan enirejon",
+        "Granda arkeo",
+        "Bastono kiu fariĝis serpento",
+        "Upupa birdo",
+        "Ora bovido"
+      ],
+      "answer": "Hundo gardanta la kavernan enirejon"
+    },
+    "outcome": {
+      "label": "Rezulto",
+      "options": [
+        "Ili restis en la kaverno dum 309 jaroj kaj poste estis levitaj kiel signo",
+        "Ili estis transformitaj en simiojn",
+        "Ili estis detruitaj de inundo",
+        "Ili estis devigitaj transiri la maron",
+        "Ili ricevis regnon"
+      ],
+      "answer": "Ili restis en la kaverno dum 309 jaroj kaj poste estis levitaj kiel signo"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

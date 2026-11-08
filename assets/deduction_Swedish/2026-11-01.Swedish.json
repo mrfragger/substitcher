@@ -1,0 +1,61 @@
+{
+  "title": "Rösten som vägrade förtvivlan",
+  "intro": "Kliv in i ett hushåll där förlust följer på förlust, men där en lugn röst vägrar förtvivlan. En enda uppmaning i Koranen förvandlar tålamod till en vändpunkt; kan du spåra ledtrådarna till personen bakom den rösten?",
+  "clues": [
+    "Jag var tålamodets röst i ett hushåll där välsignelser prövades av olyckor.",
+    "Jag stannade kvar i ett hushåll som tömts av förlusten av förmögenhet och barn.",
+    "Jag visste att sjukdomen också hade drabbat den följeslagaren, vars kropp var plågad.",
+    "När nöden blev svår, ropade jag ut med en påminnelse till Allah.",
+    "Jag erbjöd ett uttalande: Allah är Sanningen, så förbliv tålmodig.",
+    "Jag ropade på Ayyub vid namn; därefter tog Allah bort plågan och återställde familjen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Vem är jag?",
+      "options": [
+        "Profeten Ayyubs hustru",
+        "Profeten Nuhs hustru",
+        "Profeten Ibrahims hustru",
+        "Profeten Ya'qubs hustru",
+        "Faraos dotter"
+      ],
+      "answer": "Profeten Ayyubs hustru"
+    },
+    "trial": {
+      "label": "Test/Evenemang",
+      "options": [
+        "Att stanna kvar hos Ayyub genom förlust och sjukdom, och sedan be om tålamod",
+        "Varnar en rättfärdig budbärare att överge ett korrupt samhälle",
+        "Be för födelsen av en framtida släktlinje",
+        "Drömtydning i ett kungligt fängelse",
+        "Att hitta ett anförtrott barn vid en flod"
+      ],
+      "answer": "Att stanna kvar hos Ayyub genom förlust och sjukdom, och sedan be om tålamod"
+    },
+    "location": {
+      "label": "Nyckelelement",
+      "options": [
+        "Förklaringen att Allah är Sanningen och tålamod krävs",
+        "En palm bredvid en källa",
+        "En uppmaning att bygga ett fartyg långt från vågorna",
+        "En dröm om elva stjärnor och en uppgående sol",
+        "En korg som bars längs Nilen"
+      ],
+      "answer": "Förklaringen att Allah är Sanningen och tålamod krävs"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Ayyubs plåga togs bort och hans familj återställdes",
+        "Ett länge efterlängtat barn beviljades efter en ofruktsam bön",
+        "En ung härskare tolkade sju år av överflöd och knapphet",
+        "Ett anförtrott barn räddades från rinnande vatten",
+        "En varning föregick en förödande översvämning"
+      ],
+      "answer": "Ayyubs plåga togs bort och hans familj återställdes"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

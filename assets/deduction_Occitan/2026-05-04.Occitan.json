@@ -1,0 +1,61 @@
+{
+  "title": "L'arquitècte de l'arrogància",
+  "intro": "Dins una tèrra anciana governada per un poder desfisent, un individú clau teniá una posicion d'influéncia. Aquela anma foguèt instrumentala dins los grands plans del sobeiran, contribuissent a lor règne opressiu e contestant lo messatge divin. Lor legat es entrelaçat amb una recèrca de la poténcia mondana e una negacion de la vertat.",
+  "clues": [
+    "Serviguèri un regent formidable qu'oprimiguèt un pòble pendent de generacions.",
+    "Mon nom es sovent mencionat dins lo Libre Divin al costat d'aquel cap poderós.",
+    "Èri encargat d'un grand projècte de construccion, una estructura imponenta destinada a aténher los cèls.",
+    "Conselhèri a mon mèstre de tuar los filhs dels Filhs d'Israèl e d'esparnhar lors filhas.",
+    "Èri implicat dins de complòts e de conspiracions contra un poderós messatgièr d'Allah.",
+    "Ma fin, amb mon mèstre e son armada, arribèt dins las aigas d'una mar vasta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Nimròd",
+        "Abrahah",
+        "Goliat",
+        "Iblis",
+        "Aman"
+      ],
+      "answer": "Aman"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Èsser testat amb una riquesa immensa",
+        "Menant una armada contra un ostal sacrat",
+        "Bastir una torre per aténher Dieu",
+        "Èsser getat dins un fuòc per lor cresença",
+        "Èsser getat dins un potz per de fraires e sòrres"
+      ],
+      "answer": "Bastir una torre per aténher Dieu"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "L'Arca",
+        "Lo personal",
+        "La Montanha",
+        "La Tor",
+        "La balena"
+      ],
+      "answer": "La Tor"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Èsser concedit una saviesa immensa",
+        "Venir un profèta",
+        "Èsser engolit per la tèrra",
+        "Èsser concedit un reialme",
+        "Afogar dins la mar"
+      ],
+      "answer": "Afogar dins la mar"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

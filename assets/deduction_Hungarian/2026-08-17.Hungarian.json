@@ -1,0 +1,61 @@
+{
+  "title": "A part menti vétség",
+  "intro": "Egy elfeledett part homokján állsz, ahol a hullámok egy isteni parancs által próbára tett közösségről suttognak. A levegő nehéz egy megszegés emlékétől, amely megdöbbentő átalakuláshoz vezetett. Kik voltak ezek a lelkek, és milyen megpróbáltatásban volt részük?",
+  "clues": [
+    "Olyan közösség voltunk, amely világos parancsolatot kapott az Úrtól, mégis találtunk módokat arra, hogy dacoljunk vele.",
+    "Egy víz közelében éltünk, és a megélhetésünk a víz élőlényeitől függött.",
+    "Próba ért minket azon a napon, amikor megparancsolták nekünk, hogy tartózkodjunk a világi törekvésektől.",
+    "A vízi állatok nagy számban jöttek hozzánk azon a napon, és elviselhetetlenül megkísértettek minket.",
+    "Ravasz trükköt eszeltünk ki, hogy megkerüljük az isteni parancsot, azt gondolva, hogy túljárhatunk a rendelet eszén.",
+    "Vétkünk megalázó átalakuláshoz vezetett; Allah parancsára megvetett majmokká váltunk."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "A szombat népe",
+        "Rass népe",
+        "Tubba népe",
+        "A barlang népe",
+        "Az árok társai"
+      ],
+      "answer": "A szombat népe"
+    },
+    "trial": {
+      "label": "Próba/Esemény",
+      "options": [
+        "A halak megjelenése szombaton",
+        "Egy súlyos aszály éve",
+        "Madárhadsereget küldtek ellenük",
+        "Egy árvíz, amely elöntötte őket",
+        "Egy heves földrengés"
+      ],
+      "answer": "A halak megjelenése szombaton"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "A tenger",
+        "Egy hegy",
+        "Egy barlang",
+        "Egy sivatagi völgy",
+        "Egy erődített város"
+      ],
+      "answer": "A tenger"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Majmokká változtak",
+        "Elnyelte a föld",
+        "Egy sikoltozó szél pusztított el",
+        "Megfulladt a tengerben",
+        "Kőzápor csapta el"
+      ],
+      "answer": "Majmokká változtak"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

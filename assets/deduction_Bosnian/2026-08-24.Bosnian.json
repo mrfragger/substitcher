@@ -1,0 +1,61 @@
+{
+  "title": "Skriveni slušaoci koji su vjerovali",
+  "intro": "U tišini svetog okupljanja, izvanredna skupština stigla je iz nevidljivog carstva. Privučeni šapatom nečeg čudesnog, slušali su recitacije koje će zauvijek zapečatiti njihovu sudbinu. Njihovo svjedočanstvo ostaje jedno od najunikatnijih u božanskim spisima.",
+  "clues": [
+    "Mi smo bića iz područja koje većina ne vidi, i došli smo kao grupa.",
+    "Krenuli smo prema okupljanju da čujemo nešto izuzetno.",
+    "Kad smo stigli, slušali smo recitaciju koja nas je ostavila oduševljene.",
+    "Otvoreno smo priznali da su neki među nama pravedni, a neki nisu.",
+    "Znali smo da ne možemo izbjeći božansku odluku na zemlji, niti letom u nebo.",
+    "Kad smo čuli uputu, povjerovali smo u nju; ko vjeruje u Gospodara svoga neće se bojati ni gubitka ni tereta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko sam ja?",
+      "options": [
+        "Grupa džina",
+        "Narod Irama",
+        "Ljudi iz Tubbe",
+        "Rimsko Carstvo",
+        "Pleme Kurejšija"
+      ],
+      "answer": "Grupa džina"
+    },
+    "trial": {
+      "label": "Proba/Događaj",
+      "options": [
+        "Slušanje svetog recitiranja",
+        "Izgradnja uzvišenih stubova u našem gradu",
+        "Lov na veličanstvenu devu",
+        "Biti uništen zbog ubijanja naših proroka",
+        "Umnožavanje bogatstva preko svake mjere"
+      ],
+      "answer": "Slušanje svetog recitiranja"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Okupljanje svetog recitiranja",
+        "Grad visokih stubova (Iram)",
+        "Bunar u pustinji",
+        "Veličanstvena zlatna palata",
+        "Sveta pećina u planinama"
+      ],
+      "answer": "Okupljanje svetog recitiranja"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Vjerovali smo i upozoravali naš narod",
+        "Uništeno snažnim udarom s neba",
+        "Kažnjen užarenim, razornim vjetrom",
+        "Dodijeljeno mu je ogromno bogatstvo i moć",
+        "Ostao nepokolebljiv u nevjerici"
+      ],
+      "answer": "Vjerovali smo i upozoravali naš narod"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

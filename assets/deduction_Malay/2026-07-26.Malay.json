@@ -1,0 +1,61 @@
+{
+  "title": "Mahkota Yang Mencabar Langit",
+  "intro": "Di koridor kerajaan-kerajaan kuno, nama seorang pemerintah menjadi sebutan untuk kezaliman dan keangkuhan. Apabila seorang hamba Allah yang rendah hati tiba dengan membawa tanda-tanda yang tidak dapat dinafikan, pemerintah yang perkasa ini enggan menyerah kepada kebenaran. Hari ini, tugas anda adalah untuk mengenal pasti tokoh legenda ini yang kekuasaannya runtuh dan nasibnya telah dimeteraikan di bawah ombak.",
+  "clues": [
+    "Akulah pemerintah yang paling digeruni yang namanya masih bergema sebagai amaran sepanjang zaman.",
+    "Aku memerintahkan seluruh rakyat untuk bekerja dirantai, mendirikan monumen-monumen yang mengisytiharkan kemuliaan-Ku.",
+    "Ketika seorang utusan Allah datang kepadaku dengan membawa tanda-tanda yang tidak dapat disangkal, aku enggan tunduk dan menganggapnya sebagai sihir.",
+    "Aku telah menetapkan pembunuhan anak-anak lelaki di kalangan orang-orang tawanan, dengan harapan dapat menghancurkan semangat mereka sebelum mereka dapat bangkit.",
+    "Aku berdiri di hadapan istanaku dan menyatakan, 'Akulah tuan tertinggimu,' menuntut penyembahan sebagai dewa.",
+    "Dengan ketua menteri saya di sisi saya, saya membina sebuah struktur yang menjulang tinggi yang bertujuan untuk memanjat melampaui langit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Firaun (Fir'aun)",
+        "Namrud",
+        "Haman",
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Firaun (Fir'aun)"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Lemas di Laut Merah",
+        "Unta betina yang diutus kepada kaum Tsamud",
+        "Banjir besar Nabi Nuh",
+        "Hukuman ke atas Ahli Khandaqah",
+        "Kemusnahan tentera Abrahah oleh burung"
+      ],
+      "answer": "Lemas di Laut Merah"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Struktur menjulang tinggi yang dibina bersama Haman",
+        "Bahtera yang belayar di atas banjir",
+        "Anak lembu emas yang dibentuk oleh Samiri",
+        "Takhta Bilqis, Ratu Sheba",
+        "Gua pemuda yang sedang tidur"
+      ],
+      "answer": "Struktur menjulang tinggi yang dibina bersama Haman"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Lemas di laut; mayat diawet sebagai amaran",
+        "Dibuang dan terpaksa mengembara di padang gurun",
+        "Berubah menjadi beruk sebagai hukuman",
+        "Dilanda gempa bumi yang dahsyat",
+        "Dibakar oleh hujan batu dari langit"
+      ],
+      "answer": "Lemas di laut; mayat diawet sebagai amaran"
+    }
+  },
+  "verseRef": "79:17",
+  "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+  "verse": "\"Go to Pharaoh. Indeed, he has transgressed. (79:17)"
+}

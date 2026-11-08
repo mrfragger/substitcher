@@ -1,0 +1,61 @@
+{
+  "title": "渴的试炼",
+  "intro": "一个渴望领袖捍卫自身权益的社群，请求任命一位统帅。当他们的请求得到回应时，被选中的人却遭到了质疑，因为此人并不具备他们所预期的世俗地位。在最终决战之前，这位新领袖将以一场简单却意义深远的考验，来检验军队的纪律性。",
+  "clues": [
+    "我的人民要求有一位领袖为真主而战，于是我被任命为指挥官。",
+    "起初，我的许多部下都对我的任命提出质疑，理由是我既没有财富也没有贵族血统。",
+    "我被选中是因为真主赐予我渊博的知识和强健的体魄。",
+    "我蒙神任命的一个明显标志是约柜由天使抬着归来，这给信徒们的心灵带来了平安。",
+    "当我率领士兵们向前行进时，我宣布我们将经受河流的考验。",
+    "我命令我的军队，凡是畅饮河水的人都不能成为我的一员，而那些只用手舀了一勺水的人则可以留下。"
+  ],
+  "categories": {
+    "identity": {
+      "label": "我是谁？",
+      "options": [
+        "贾鲁特（歌利亚）",
+        "塔卢特（扫罗）",
+        "先知达乌德",
+        "祖勒盖尔奈因",
+        "纳姆鲁德（尼姆罗德）"
+      ],
+      "answer": "塔卢特（扫罗）"
+    },
+    "trial": {
+      "label": "我的主要审判是什么？",
+      "options": [
+        "筑起屏障，抵御歌革和玛各。",
+        "在单挑中面对巨人",
+        "在河边测试军队的服从性",
+        "率领一支由精灵和鸟类组成的军队",
+        "从火中幸存"
+      ],
+      "answer": "在河边测试军队的服从性"
+    },
+    "location": {
+      "label": "我权威的关键标志是什么？",
+      "options": [
+        "一根变成蛇的杖",
+        "一头从岩石中走出来的骆驼",
+        "一件用软铁制成的锁子甲",
+        "约柜（At-Tabut）",
+        "一桌来自天堂的食物"
+      ],
+      "answer": "约柜（At-Tabut）"
+    },
+    "outcome": {
+      "label": "我的竞选结果如何？",
+      "options": [
+        "击败贾鲁特（歌利亚）的军队",
+        "分开红海以逃离暴君",
+        "以我的名义建立一个长久的王朝",
+        "在麦加建造神圣的克尔白",
+        "升天而不死"
+      ],
+      "answer": "击败贾鲁特（歌利亚）的军队"
+    }
+  },
+  "verseRef": "2:249",
+  "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+  "verse": "And when Saul went forth with the soldiers, he said, \"Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand.\" But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, \"There is no power for us today against Goliath and his soldiers.\" But those who were certain that they would meet Allāh said, \"How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient.\" (2:249)"
+}

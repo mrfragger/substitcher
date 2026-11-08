@@ -1,0 +1,61 @@
+{
+  "title": "Bangkerê ji Kûrahiyê",
+  "intro": "Xeyal bike ku giyanekî ku peyameke îlahî lê hatiye spartin, lê di çirkeyekê de bêyî destûra eşkere ji gelê xwe veqetiyaye. Ev rêwîtî wan bir ceribandineke bêhempa, ceribandineke kûr a sebir û baweriya bi Xwedayê herî bilind. Ev kesê ku çîroka wî ji me re li ser tobe û berfirehiya dilovaniya Xwedê fêr dike kî ye?",
+  "clues": [
+    "Ez ji miletekî mezin re hatim şandin, lê redkirina wan a destpêkê min xemgîn kir.",
+    "Min gelê xwe hişt, bi baweriya ku mîsyona min temam bûye, berî ku fermanek zelal ji bo çûnê bistînim.",
+    "Min li keştiyekê geriya ku rêwîtiyek bikim, lê bahozeke dijwar û pişk avêtinê rê li ber rewşeke dijwar vekir.",
+    "Ez hatim avêtin nav deryayê, û afirîdekî mezin ê kûrahiyê ez bi tevahî daqurtand.",
+    "Di tariya zikê wê de, min gazî Xwedê kir, gunehên xwe qebûl kir û lêborîna wî xwest.",
+    "Xwedê ferman da mexlûqê ku min bavêje peravê, û ez di bin nebatek bêhempa de saxlem bûm."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Yûsif (Yûsif)",
+        "Pêxember Nûh (Nûh)",
+        "Pêxember Yunus (Yûnis)",
+        "Pêxember Suleyman (Silêman)",
+        "Pêxember Eyûb (Eyûb)"
+      ],
+      "answer": "Pêxember Yunus (Yûnis)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Parçekirina deryayê",
+        "Agirê Nemrod",
+        "Ji aliyê masiyek mezin ve tê daqurtandin",
+        "Lehiyê",
+        "Wêrankirina bajarekî bi keviran"
+      ],
+      "answer": "Ji aliyê masiyek mezin ve tê daqurtandin"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Keşti",
+        "Karmend",
+        "Zikê masiyê",
+        "Bîra",
+        "Dara şewitî"
+      ],
+      "answer": "Zikê masiyê"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bû serwerekî mezin",
+        "Kabe ava kir",
+        "Vegeriya da ku rêberiya miletekî tobekar bike",
+        "Serwerî li ser cin hat dayîn",
+        "Xelk li seranserê çolê birin"
+      ],
+      "answer": "Vegeriya da ku rêberiya miletekî tobekar bike"
+    }
+  },
+  "verseRef": "37:142",
+  "arabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ",
+  "verse": "Then the fish swallowed him, while he was blameworthy. (37:142)"
+}

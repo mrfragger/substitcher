@@ -1,0 +1,61 @@
+{
+  "title": "Den Dénger vun der verstoppter Wäisheet",
+  "intro": "An der riseger Wandteppech vun den narrativen Erzielungen aus dem Koran steet eng rätselhaft Figur, en Dénger vun Allah, dee mat göttlechem Wëssen a Barmhäerzegkeet begéint ass. Dës mysteriéis Persoun huet sech mat engem vun de gréisste Prophéiten getraff, wat zu enger Rees voller verwirrender Handlungen gefouert huet, déi d'Grenze vum mënschleche Verständnis a Fro gestallt hunn. All Handlung, obwuel se ongerecht schéngt, huet déifgräifend Lektioune iwwer Schicksal, Gedold an déi onsichtbar Wäisheet hannert dem göttleche Dekret verstoppt. Wien ass dës schatteg Figur, a wéi eng Wourechten hunn se opgedeckt?",
+  "clues": [
+    "Ech war e Knecht vun Allah, ausgewielt fir besonnescht Wëssen a Barmhäerzegkeet.",
+    "E grousse Prophet wollt vu mir léieren, an ech hunn ënner strenge Konditioune zougestëmmt.",
+    "Wärend eiser Versammlung hunn ech dräi Aktiounen duerchgefouert, déi mengem Begleeder ongerecht virkomm sinn.",
+    "Ech hunn e Boot beschiedegt, dat aarme Leit gehéiert huet, awer et war eng verstoppte Barmhäerzegkeet.",
+    "Ech hunn engem jonke Jong d'Liewe geholl, och wann et grausam ausgesinn huet, war et fir senge Elteren dem Leed ze erspueren.",
+    "Ech hunn eng Mauer an enger Stad nei opgebaut, déi eis d'Gastfrëndlechkeet verweigert huet, an hunn e Schatz drënner opgedeckt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "Al-Khidr (de gerechte Knecht)",
+        "De Besëtzer vun den zwou Gäert",
+        "Ee vun de Leit vun der Höhl",
+        "De Kinnek, deen mam Ibrahim gestridden huet",
+        "De Mann, deen 100 Joer geschlof huet"
+      ],
+      "answer": "Al-Khidr (de gerechte Knecht)"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Treffen mam Prophet Musa um Kräizungspunkt vun den zwou Mierer",
+        "Eng Barrière géint Gog a Magog bauen",
+        "An e grousst Feier gehäit ginn",
+        "D'Mier an zwou Hälften opdeelen",
+        "Empfang vun den Tafele vun der Tora"
+      ],
+      "answer": "Treffen mam Prophet Musa um Kräizungspunkt vun den zwou Mierer"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "D'Kräizung vun den zwou Mierer",
+        "Bierg Sinai",
+        "D'Höhl vum Thawr",
+        "D'Dall vun Tuwa",
+        "De Brunn vum Zamzam"
+      ],
+      "answer": "D'Kräizung vun den zwou Mierer"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Hien huet déi göttlech Wäisheet hannert senge rätselhafte Handlungen erkläert a sech vum Musa getrennt.",
+        "Hie krut d'Prophéitschaft no der Rees",
+        "D'Boot gouf duerch e Stuerm zerstéiert",
+        "De Jong gouf erëm zum Liewen erweckt",
+        "Hien huet eng Moschee an der ongästlecher Stad gebaut"
+      ],
+      "answer": "Hien huet déi göttlech Wäisheet hannert senge rätselhafte Handlungen erkläert a sech vum Musa getrennt."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

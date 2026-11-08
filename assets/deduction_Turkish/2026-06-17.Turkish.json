@@ -1,0 +1,61 @@
+{
+  "title": "Şehrin Kenarından Gelen Yankı",
+  "intro": "İlahi rehberliği reddeden bir şehirde, kenar mahallelerden yalnız bir figür ortaya çıktı ve umut ve uyarı mesajıyla koştu. Bu unutulmuş ruh, sarsılmaz inancın ebedi bir sembolü olacaktı.",
+  "clues": [
+    "Şehrime elçiler gönderildiğine şahit oldum, ancak halkım onları sıradan insanlar olarak gördü.",
+    "Onların mesajına inandım ve gerçeğin içimde yankılandığını hissettim.",
+    "Halkımı, karşılık beklemeden elçilere itaat etmeye çağırdım.",
+    "Şehrin en uzak ucundan koşarak geldim, onları mantıklı düşünmeye ikna etmeye çalışıyordum.",
+    "Halkım bana karşı ayaklandı ve öldürüldüm, ama sonsuz huzura kavuştum.",
+    "Allah bana, 'Cennete gir' dedi ve ben de halkımın bana bahşedilen bu şerefe şahit olmasını diledim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Ya-Sin'in Mümini",
+        "Soru Soran Uzair",
+        "El-Hızır Rehber",
+        "Firavun Ailesinden İnanan",
+        "Tiran Namrud"
+      ],
+      "answer": "Ya-Sin'in Mümini"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Kendisini öldüren ve buna inanmayan insanlarla yüzleşmek",
+        "Alev alev yanan bir ateşe atılmak",
+        "Büyük bir balık tarafından yutulmak",
+        "Devasa bir Nuh'un Gemisi inşa etmek",
+        "Bir tiranın ordusundan kaçmak"
+      ],
+      "answer": "Kendisini öldüren ve buna inanmayan insanlarla yüzleşmek"
+    },
+    "location": {
+      "label": "Ana Konum",
+      "options": [
+        "Şehrin en uzak ucu",
+        "Tur Dağı",
+        "Karıncalar Vadisi",
+        "Nil nehrinin kıyıları",
+        "Mağaranın mağarası"
+      ],
+      "answer": "Şehrin en uzak ucu"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Şehitlik ve doğrudan cennete giriş",
+        "Kaçış ve kurtuluş",
+        "Göğe yükseliş",
+        "Denizde boğulmak",
+        "Taşa dönüşmek"
+      ],
+      "answer": "Şehitlik ve doğrudan cennete giriş"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

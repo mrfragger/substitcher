@@ -1,0 +1,61 @@
+{
+  "title": "Pengejaran yang Sopan",
+  "intro": "Di lingkungan kekuasaan, seorang tokoh berstatus tinggi jatuh cinta pada seorang pelayan yang kecantikannya luar biasa. Ketertarikan ini memicu serangkaian peristiwa yang akan menguji kesetiaan, mengungkap kebenaran tersembunyi, dan pada akhirnya menegaskan ketidakbersalahan sang pelayan.",
+  "clues": [
+    "Aku tinggal di negeri Sungai Nil, di sebuah istana yang sangat berpengaruh.",
+    "Seorang pemuda datang ke rumahku, dan kehadirannya mengguncang duniaku.",
+    "Aku mencoba merayunya, tetapi dia berlindung kepada Tuhannya.",
+    "Aku merobek pakaiannya dari belakang, tetapi bukti-bukti menunjukkan bahwa aku telah berbohong.",
+    "Untuk membungkam gosip para wanita bangsawan, saya mengundang mereka ke sebuah pertemuan dan menaruh benda-benda tajam di tangan mereka.",
+    "Pada akhirnya, saya mengakui kesalahan saya di depan umum, mengakui kebenaran di hadapan raja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Istri Al-Aziz",
+        "Asiya (Istri Firaun)",
+        "Bilqis (Ratu Sheba)",
+        "Maryam (Ibu Isa)",
+        "Ibu Musa"
+      ],
+      "answer": "Istri Al-Aziz"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Dia berusaha merayu Nabi Yusuf.",
+        "Dia mencoba membunuh Nabi Musa.",
+        "Dia mengaku sebagai seorang dewi.",
+        "Dia membangun sebuah menara untuk menantang Allah.",
+        "Dia memimpin pasukan melawan Mekah."
+      ],
+      "answer": "Dia berusaha merayu Nabi Yusuf."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Kemeja yang robek di bagian belakang.",
+        "Anak lembu emas",
+        "Tongkat yang berubah menjadi ular",
+        "Seekor unta betina",
+        "Sebuah lampu"
+      ],
+      "answer": "Kemeja yang robek di bagian belakang."
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Dia mengaku dan mengakui kebenaran.",
+        "Dia tenggelam bersama pasukannya.",
+        "Dia berubah menjadi pilar garam.",
+        "Dia ditelan oleh bumi.",
+        "Dia hancur oleh angin yang menderu"
+      ],
+      "answer": "Dia mengaku dan mengakui kebenaran."
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

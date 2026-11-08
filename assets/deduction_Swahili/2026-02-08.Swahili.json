@@ -1,0 +1,60 @@
+{
+  "title": "Fumbo la Kiti cha Enzi cha Mbali",
+  "intro": "Mfalme mwenye nguvu, aliyebarikiwa na utawala wa ajabu, alikabiliwa na changamoto ya kipekee iliyomhusisha malkia kutoka nchi ya mbali. Mfalme alitaka kuonyesha nguvu na hekima ya Mungu, akianzisha tukio la ajabu ambalo lilipinga sheria za wakati na nafasi. Je, unaweza kubaini maelezo ya tukio hili la kimiujiza?",
+  "clues": [
+    "Mtawala alipewa mamlaka makubwa, ikiwa ni pamoja na udhibiti wa viumbe visivyoonekana na uwezo wa kuamuru upepo.",
+    "Mtawala huyu alipokea habari za malkia tajiri aliyeabudu jua, na akaamua kumwalika kwenye mahakama.",
+    "Kabla ya kuwasili kwa malkia, mtawala huyo alionyesha hamu ya kumletea kiti chake cha enzi cha fahari kutoka ufalme wake wa mbali.",
+    "Jini mwenye nguvu alijitolea kukichukua kitu hicho kabla mtawala hajainuka kutoka kwenye baraza lake.",
+    "Hata hivyo, mtu mwenye ujuzi wa kina wa Maandiko Matakatifu alitoa urejeshaji wa haraka zaidi, akikamilisha kazi hiyo kwa kufumba na kufumbua jicho.",
+    "Baada ya kufika, mtawala aliamuru kitu hicho kibadilishwe ili kujaribu akili na utambuzi wa malkia atakapofika hatimaye kwenye jumba la kifalme."
+  ],
+  "categories": {
+    "prophet": {
+      "label": "Nabii/Mtu",
+      "options": [
+        "Nabii Musa",
+        "Nabii Daudi",
+        "Nabii Ibrahimu",
+        "Nabii Yusufu",
+        "Nabii Sulayman"
+      ],
+      "answer": "Nabii Sulayman"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Kupasuka kwa Bahari",
+        "Uvumilivu Katika Shida",
+        "Ujenzi wa Kaaba",
+        "Jaribio la Bustani",
+        "Kuleta Kiti cha Enzi cha Malkia"
+      ],
+      "answer": "Kuleta Kiti cha Enzi cha Malkia"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Mlima",
+        "Kisima",
+        "Kiti cha Enzi"
+      ],
+      "answer": "Kiti cha Enzi"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Sadaka kubwa",
+        "Ufalme umeanzishwa",
+        "Watu walioadhibiwa",
+        "Agano jipya",
+        "Utii wa Malkia kwa Mwenyezi Mungu"
+      ],
+      "answer": "Utii wa Malkia kwa Mwenyezi Mungu"
+    }
+  },
+  "verse": "It was said to her, \"Enter the palace.\" But when she saw it, she thought it was a body of water and uncovered her shins. He said, \"Indeed, it is a palace paved with glass.\" She said, \"My Lord, indeed I have wronged myself, and I submit with Solomon to Allah, Lord of the worlds.\" (An-Naml 27:44)",
+  "arabic": "قِيلَ لَهَا ادْخُلِي الصَّرْحَ ۖ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا ۚ قَالَ إِنَّهُ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ ۗ قَالَتْ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي وَأَسْلَمْتُ مَعَ سُلَيْمَانَ لِلَّهِ رَبِّ الْعَالَمِينَ"
+}

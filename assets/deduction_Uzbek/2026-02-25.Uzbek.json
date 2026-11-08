@@ -1,0 +1,61 @@
+{
+  "title": "Qumloq Qoyaning Sinovi",
+  "intro": "Mohir va mag'rur jamoa o'z merosini tog'larga o'yib tashladi. Ammo ularga aniq bir belgi, imon va vazminlik sinovi yuborilganda, ularning takabburligi ularni qaytarib bo'lmaydigan yo'lga olib bordi. Siz bu guruhni va ularning itoatsizligining oqibatlarini aniqlay olasizmi?",
+  "clues": [
+    "Biz tosh ustalari edik, tog' yonbag'irlariga ajoyib uylar o'yib yasardik.",
+    "O'z qavmimizdan bir elchi bizga kelib, bizni yagona Haq Xudoga ibodat qilishga chaqirdi.",
+    "Biz uning so'zlarini isbotlash uchun bir belgi talab qildik va biz uchun sinov sifatida noyob bir mavjudot keltirildi.",
+    "Bizga oddiy buyruq berildi: suv manbamizni bu jonzot bilan baham ko'rish va belgilangan kuni uni ichishga qo'yish.",
+    "O'zimizning takabburligimiz tufayli oramizdagi bir nechta odam fitna uyushtirdi va biz ogohlantirishga quloq solmay, bizning belgimiz bo'lishi kerak bo'lgan mavjudotni yo'q qildik.",
+    "Bizga halokatimizdan uch kun oldin berilgan edi, keyin uylarimizda kuchli bir olov bizni ushlab oldi, bizni jonsiz va ag'dar-to'ntar qilib qo'ydi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biz kimmiz?",
+      "options": [
+        "Ad qavmi",
+        "Madyan xalqi",
+        "Samud qavmi",
+        "Saba xalqi",
+        "Lut qavmi"
+      ],
+      "answer": "Samud qavmi"
+    },
+    "trial": {
+      "label": "Bizning asosiy testimiz nima edi?",
+      "options": [
+        "To'fondan omon qolish uchun kema qurish",
+        "Shanba kuni baliq ovlash istagiga qarshi turish",
+        "Firibgarlik biznes amaliyotlaridan voz kechish",
+        "Mo''jizaviy urg'ochi tuyani himoya qilish",
+        "Yetti yillik ocharchilikni boshdan kechirish"
+      ],
+      "answer": "Mo''jizaviy urg'ochi tuyani himoya qilish"
+    },
+    "location": {
+      "label": "Hikoyamizning markaziy elementi nima edi?",
+      "options": [
+        "Oltin buzoq",
+        "Urg'ochi tuya",
+        "Muso payg'ambarning tayoqchasi",
+        "Ma'ribning buyuk to'g'oni",
+        "Osmondan yoyilgan dasturxon"
+      ],
+      "answer": "Urg'ochi tuya"
+    },
+    "outcome": {
+      "label": "Bizning yakuniy taqdirimiz nima edi?",
+      "options": [
+        "Katta to'fonda cho'kib ketdi",
+        "Maymun va cho'chqaga aylangan",
+        "Kuchli shamoldan larzaga kelgan",
+        "To'g'onning yorilishi bilan sochilib ketgan",
+        "Kuchli portlash/zilzila natijasida vayron bo'lgan"
+      ],
+      "answer": "Kuchli portlash/zilzila natijasida vayron bo'lgan"
+    }
+  },
+  "verseRef": "7:77",
+  "arabic": "فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "So they hamstrung the she-camel and were insolent toward the command of their Lord and said, \"O Ṣāliḥ, bring us what you promise us, if you should be of the messengers.\" (7:77)"
+}

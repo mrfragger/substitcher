@@ -1,0 +1,61 @@
+{
+  "title": "Başarnyksyz Sabyrly",
+  "intro": "Pygamberlik taryhynyň ýyl ýazgylarynda şeýle çuňňur ýitgini we fiziki ejir çekişleri sarsmaz ynam bilen başdan geçirenler az. Bu şahsyýetiň hekaýasy sabyrlylygyň we ilahi akyldarlyga ynanmagyň ebedi sapagydyr. Bu jan kim?",
+  "clues": [
+    "Men Alla tarapyndan habary ýetirmek üçin saýlandym, ýöne meniň iň uly synagym ret edilmek bilen däl-de, şahsy betbagtçylyk bilen boldy.",
+    "Baýlygym, mal-garam we çagalarym birin-birin elimden alyndy.",
+    "Bedenim ýaralar bilen örtülipdi we aýalymyň goldawyndan başga ýeke galdym.",
+    "Men çeken jebirlerimi boýun alyp, Onuň rehimini diläp, Rebbime ýalbardym.",
+    "Maňa aýagym bilen ýere urmagy tabşyrdylar we täze çeşme atylyp çykdy.",
+    "Alla meniň saglygymy dikeltdi, maňa täze maşgala we öňküden hem has köp baýlyk berdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Eýýup pygamber",
+        "Ybraýym pygamber",
+        "Musa pygamber",
+        "Isa pygamber",
+        "Nuh pygamber"
+      ],
+      "answer": "Eýýup pygamber"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Baýlygyň we maşgalanyň ýitgisi",
+        "Oda taşlanmak",
+        "Balyk tarapyndan ýuwutulmak",
+        "Maşgalasyndan aýrylyp, gulçulyga satylýar",
+        "Altyn göle bilen synagdan geçirilýär"
+      ],
+      "answer": "Baýlygyň we maşgalanyň ýitgisi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Suw çeşmesi",
+        "Ýylana öwrülen taýajyk",
+        "Agaçdan ýasalan sandyk",
+        "Erimiş göle",
+        "Palma agajy"
+      ],
+      "answer": "Suw çeşmesi"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Maşgala we baýlygyň dikeldilmegi",
+        "Göge göteriliş",
+        "Patyşa bolmak",
+        "Kitden halas bolmak",
+        "Garrylykda ogul almak"
+      ],
+      "answer": "Maşgala we baýlygyň dikeldilmegi"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

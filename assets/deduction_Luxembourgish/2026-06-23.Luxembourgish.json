@@ -1,0 +1,61 @@
+{
+  "title": "De Wuechter um Ufer vum Floss",
+  "intro": "An engem Land, wou en Dekret vun engem Tyrann vill Stéit Trauer bruecht huet, krut eng Séil eng Botschaft, déi all Angscht iwwerwonnen huet. Mat engem Häerz voller Vertrauen hunn si sech un en Akt vum Glawen bedeelegt, deen de Kurs vun enger Natioun verännere géif. Wéi d'Waasser eng wäertvoll Laascht gedroen hunn, huet sech d'Hoffnung mat de Stréimunge vermëscht.",
+  "clues": [
+    "Ech hunn an enger Zäit vun Ënnerdréckung an Angscht gelieft.",
+    "Ech krut göttlech Inspiratioun, déi mir Courage ginn huet.",
+    "Mir gouf gebueden, keng Angscht ze hunn oder ze traueren.",
+    "Ech hunn mäi Kand an eng Këscht geluecht an et op d'Waasser gesat.",
+    "Mäi Kand gouf vum Haushalt vum Herrscher fonnt, mä mäin anert Kand ass nokomm.",
+    "Ech gouf mat mengem Kand erëm vereenegt fir et ze stëllen, genee wéi Allah et versprach huet."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn ech?",
+      "options": [
+        "D'Mamm vum Moses",
+        "D'Fra vum Pharao",
+        "D'Schwëster vum Moses",
+        "D'Mamm vum Jesus",
+        "D'Kinnigin vu Scheba"
+      ],
+      "answer": "D'Mamm vum Moses"
+    },
+    "trial": {
+      "label": "Prozess/Evenement",
+      "options": [
+        "Inspiratioun fir e Kand an e Floss ze geheien",
+        "Zu engem Duell vun der Magie erausgefuerdert ginn",
+        "Vun enger Arméi verfollegt ginn",
+        "Iwwer e Mier, dat sech getrennt huet",
+        "E hellegt Haus bauen"
+      ],
+      "answer": "Inspiratioun fir e Kand an e Floss ze geheien"
+    },
+    "location": {
+      "label": "Schlësselelement",
+      "options": [
+        "Eng Këscht, déi am Floss geluecht gouf",
+        "E brennende Busch",
+        "E Staff, deen sech an eng Schlaang verwandelt huet",
+        "E gëllent Kalb",
+        "En Troun"
+      ],
+      "answer": "Eng Këscht, déi am Floss geluecht gouf"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "D'Kand gouf sécher bei d'Krankeschwëster zréckbruecht",
+        "D'Kand war fir ëmmer verluer",
+        "D'Kand gouf an e wäit Land bruecht",
+        "D'Kand gouf direkt Herrscher",
+        "D'Kand gouf vun engem räiche Händler adoptéiert"
+      ],
+      "answer": "D'Kand gouf sécher bei d'Krankeschwëster zréckbruecht"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

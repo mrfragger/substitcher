@@ -1,0 +1,61 @@
+{
+  "title": "Primul sânge vărsat din invidie",
+  "intro": "Imaginează-ți primele zile ale umanității, când întreaga lume era o singură familie. Privești cum două ofrande sunt aduse înaintea lui Allah - una acceptată, cealaltă respinsă. Invidia prinde rădăcini într-o inimă, iar o amenințare este șoptită cu mânie. Ceea ce urmează va lăsa o amprentă asupra istoriei pentru totdeauna și chiar și o pasăre mică va deveni un învățător.",
+  "clues": [
+    "Aparțin primei familii de pe pământ.",
+    "Am adus o ofrandă lui Allah, dar a mea nu a fost acceptată, în timp ce cealaltă ofrandă a fost.",
+    "Am vorbit cu invidie și am amenințat că voi lua o viață.",
+    "Am comis prima crimă nedreaptă de pe pământ.",
+    "Am văzut o cioară zgâriind pământul ca să-mi arate cum să ascund un cadavru.",
+    "Am rămas plin de regret și am ajuns printre cei care au pierdut pentru ceea ce făcuseră mâinile mele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Qabil (Cain), fiul lui Adam",
+        "Samiri, făuritorul vițelului",
+        "Namrud, tiranul care s-a certat cu Ibrahim",
+        "Azar, făuritorul de idoli",
+        "Kan'an, fiul înecat al lui Nuh"
+      ],
+      "answer": "Qabil (Cain), fiul lui Adam"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Uciderea unui frate din invidie după ce a fost respinsă o ofertă",
+        "Construind un turn înalt ca să privească cerul",
+        "Făcând un vițel de aur pentru închinare",
+        "Cerând o masă pregătită din ceruri",
+        "Conducând o armată de elefanți pentru a distruge Kaaba"
+      ],
+      "answer": "Uciderea unui frate din invidie după ce a fost respinsă o ofertă"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "O cioară zgârie pământul pentru a arăta înmormântarea",
+        "Un vițel de aur care a mugit",
+        "O arcă mare peste apele potopului",
+        "Un toiag care s-a transformat într-un șarpe",
+        "O masă pregătită cu mâncare din ceruri"
+      ],
+      "answer": "O cioară zgârie pământul pentru a arăta înmormântarea"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A devenit plin de remușcări și printre cei învinși",
+        "A fost înecat în marea inundație",
+        "A fost înghițit de pământ cu comori",
+        "A fost lovit de lepră timp de șapte ani",
+        "I s-a acordat un regat cu control asupra vânturilor"
+      ],
+      "answer": "A devenit plin de remușcări și printre cei învinși"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

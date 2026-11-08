@@ -1,0 +1,61 @@
+{
+  "title": "Aki kiérdemelt egy szúrát",
+  "intro": "Képzelj el egy alázatos lelket, aki őszinte szívvel és mély tanulási vággyal közeledik Allah egyik Küldöttéhez. Mégis abban a pillanatban egy gazdag és rangú személy vonta magára a Küldött figyelmét, és a keresőre rosszallóan nézett. Ami ezután következett, az nem volt kevesebb, mint a Korán egy teljes fejezete, amelyet azért küldtek, hogy helyreigazítsa a Küldöttet és tiszteletet adjon a kereső léleknek.",
+  "clues": [
+    "Nyitott szívvel és mély útmutatás utáni vággyal fordultam Allah egyik Küldöttéhez",
+    "Nem volt világi rangom, amit felajánlhattam volna, csak egy alázatos lélek, aki az igazságot kereste",
+    "A fizikai szemeimmel nem láttam, de a lelki látásom tiszta volt",
+    "Kényelmetlen pillanatban érkeztem, amikor a Hírvivő egy nagy befolyású személlyel volt elfoglalva.",
+    "Szemlélődő pillantást vetett rám, de Allah isteni helyreigazítással válaszolt",
+    "Abdullah ibn Umm Maktum vagyok, az odaadó társa, akinek története ihlette Surah Abasát"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Abdullah ibn Umm Maktum",
+        "Bilal ibn Rábah",
+        "Mu'adh ibn Dzsabal",
+        "Zajd ibn Thabit",
+        "Salman al-Farisi"
+      ],
+      "answer": "Abdullah ibn Umm Maktum"
+    },
+    "trial": {
+      "label": "Próba / Esemény",
+      "options": [
+        "A Próféta elfordította a szívét egy gazdag emberért",
+        "Az ellenségek tomboló tűzbe vetik",
+        "Rabszolgaként eladva és üldözve",
+        "Egy hatalmas harcos párbajra hív ki",
+        "Egy nagy hal lenyelte"
+      ],
+      "answer": "A Próféta elfordította a szívét egy gazdag emberért"
+    },
+    "location": {
+      "label": "Kulcsfontosságú elem",
+      "options": [
+        "Egy Korán-fejezet, amely homlokráncolással kezdődik (Abasa szúra)",
+        "Hűvös és biztonságos tűz",
+        "Egy bot, mely kettéhasított egy hatalmas tengert",
+        "Egy magas hegyre épített bárka",
+        "Egy megkeményedett agyagból formált madár"
+      ],
+      "answer": "Egy Korán-fejezet, amely homlokráncolással kezdődik (Abasa szúra)"
+    },
+    "outcome": {
+      "label": "Eredmény",
+      "options": [
+        "Allah kinyilatkoztatott egy Korán-szúrát, amely megvéd engem",
+        "Allah hűvössé és biztonságossá tette a tüzet számomra",
+        "Allah kettéválasztotta a tengert, hogy megmentsen az üldözéstől",
+        "Allah nagy királyságot és bölcsességet adott nekem",
+        "Allah halál nélkül vitt a mennybe"
+      ],
+      "answer": "Allah kinyilatkoztatott egy Korán-szúrát, amely megvéd engem"
+    }
+  },
+  "verseRef": "80:2",
+  "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "verse": "Because there came to him the blind man, [interrupting]. (80:2)"
+}

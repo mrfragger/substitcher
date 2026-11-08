@@ -1,0 +1,61 @@
+{
+  "title": "Vankumatu liitlane kulla katsumuses",
+  "intro": "Suure prohveti varjus valiti monumentaalse missiooni abistamiseks kõneosavusest ja usust tulvil hing. See tegelane seisis kindlalt, kui massid kõikusid, jutlustades räige üleastumise vastu, mis ohustas monoteismi tuuma. Kui prohvet naasis rahva langemist tunnistama, ei kaitsenud teda süü, vaid kohustus ja lõhenemise kartus. Kes on see pühendunud Allahi teener?",
+  "clues": [
+    "Allah valis mind püha kohustuse täitmiseks teise kõrval ning minu roll oli toetada ja kuulutada.",
+    "Mulle anti selge kõne ja ma saatsin käskjalga, et astuda vastu võimsale rõhujale.",
+    "Kriitilise teekonna ajal ronis sõnumitooja üksi mäele, jättes mind inimeste järele valvama.",
+    "Nende äraolekul meisterdas rahvas kuldse kuju ja ma anusin neid jääma ustavaks, aga nad keeldusid minu nõu kuulda võtmast.",
+    "Kui sõnumitooja viha ja leina täis naasis, haaras mind valdus, aga ma selgitasin, et olin alistatud ja kartsin nende vahel tüli tekitada.",
+    "Mina olen prohvet, kes seisis oma venna Mooses kõrval, jagas tema koormat ja jäi kindlaks ebajumalakummardamisele."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Harun",
+        "Prohvet Musa",
+        "Prohvet Isa",
+        "Prohvet Dawud",
+        "Prohvet Zakariyya"
+      ],
+      "answer": "Prohvet Harun"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Inimesed kummardasid kuldvasikat hoiatustest hoolimata",
+        "Inimesed viskasid mind lõõmavasse tulle",
+        "Mind neelas alla suur kala",
+        "Mind vangistati valesüüdistuste alusel",
+        "Mind saadeti jutlustamise pärast oma linnast välja"
+      ],
+      "answer": "Inimesed kummardasid kuldvasikat hoiatustest hoolimata"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Kuldvasikas",
+        "Põlev põõsas",
+        "Sai, mis muutus maoks",
+        "Lepingutahvlid",
+        "Lepingulaegas"
+      ],
+      "answer": "Kuldvasikas"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Mind vabastati süüst ja ma jätkasin oma prohvetlikku missiooni",
+        "Mind karistati rahva pattude eest",
+        "Mulle anti uus rahvas juhatada",
+        "Mind viidi elusalt taevasse",
+        "Mind pandi kuningriigi valitsejaks"
+      ],
+      "answer": "Mind vabastati süüst ja ma jätkasin oma prohvetlikku missiooni"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

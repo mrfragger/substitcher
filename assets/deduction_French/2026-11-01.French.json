@@ -1,0 +1,61 @@
+{
+  "title": "La voix qui a refusé le désespoir",
+  "intro": "Pénétrez dans un foyer où les épreuves s'enchaînent, mais où une voix sereine refuse de sombrer dans le désespoir. Un simple verset du Coran transforme la patience en un tournant décisif ; saurez-vous déchiffrer les indices menant à la personne qui se cache derrière cette voix ?",
+  "clues": [
+    "J'étais la voix de la patience au sein d'un foyer où les bénédictions étaient mises à l'épreuve par les calamités.",
+    "Je suis restée dans un foyer vidé par la perte de richesse et d'enfants.",
+    "Je savais que la maladie avait également frappé ce compagnon, dont le corps était affligé.",
+    "Lorsque la détresse est devenue intense, j'ai invoqué Allah.",
+    "J'ai fait une seule déclaration : Allah est la Vérité, alors restez patients.",
+    "J'ai appelé Ayyub par son nom ; ensuite, Allah a dissipé le mal et a rétabli la famille."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui suis-je ?",
+      "options": [
+        "L'épouse du prophète Ayyub",
+        "L'épouse du prophète Noé",
+        "L'épouse du prophète Ibrahim",
+        "L'épouse du prophète Ya'qub",
+        "La fille du pharaon"
+      ],
+      "answer": "L'épouse du prophète Ayyub"
+    },
+    "trial": {
+      "label": "Essai/Événement",
+      "options": [
+        "Rester auprès d'Ayyub dans l'épreuve du deuil et de la maladie, puis appeler à la patience",
+        "Avertir un messager vertueux d'abandonner une communauté corrompue",
+        "Je prie pour la naissance d'une future lignée",
+        "Interpréter les rêves dans une prison royale",
+        "Retrouver un enfant confié à sa garde au bord d'une rivière"
+      ],
+      "answer": "Rester auprès d'Ayyub dans l'épreuve du deuil et de la maladie, puis appeler à la patience"
+    },
+    "location": {
+      "label": "Élément clé",
+      "options": [
+        "La déclaration qu'Allah est la Vérité et la patience sont requises",
+        "Un palmier près d'une source",
+        "Un appel à construire un navire loin des vagues",
+        "Un rêve de onze étoiles et d'un soleil levant",
+        "Un panier transporté le long du Nil"
+      ],
+      "answer": "La déclaration qu'Allah est la Vérité et la patience sont requises"
+    },
+    "outcome": {
+      "label": "Résultat",
+      "options": [
+        "Le mal d'Ayyub fut guéri et sa famille rétablie.",
+        "Un enfant tant attendu a été accordé après une prière en cas de stérilité",
+        "Un jeune souverain a interprété sept années d'abondance et de pénurie",
+        "Un enfant confié à la garde d'un proche a été sauvé des eaux en mouvement",
+        "Une alerte a précédé une inondation dévastatrice"
+      ],
+      "answer": "Le mal d'Ayyub fut guéri et sa famille rétablie."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Yer bilan osmon o'rtasida",
+  "intro": "Sizni ilohiy tarixning muqaddas sahifalarida asrlar davomida aks-sado beradigan alomatlar va mo''jizalarni olib yuradigan sirli ruh kutmoqda. Izohlar izidan borganingizda, mo''jizalar bilan ajralib turadigan hikoya bo'ylab sayohat qilasiz - mo''jizaviy boshlanishdan osmondan nariga ko'tarilishgacha. Oxirgi izdan oldin bu muborak xizmatkorni aniqlay olasizmi?",
+  "clues": [
+    "Men Isroil avlodiga rahmat va nur haqida xabar beruvchi elchi sifatida yuborildim.",
+    "Mening tug'ilishim mo''jizaviy belgi edi — men bu dunyoga Qodir Tangrining amri bilan otasiz keldim.",
+    "Men hali go'dakligimda onamning sharafini xalqining ayblovlaridan himoya qilib gapirdim.",
+    "Allohning izni bilan men loydan qushlar yasab, ularga jon pufladim — ular tomosha qilayotganlarning ko'zi oldida uchib ketishdi.",
+    "Men tug'ma ko'rlarni davoladim, moxovlarni davoladim va hatto o'liklarni tiriltirdim - ammo har bir mo''jiza Allohning izni bilan edi, mening iznim bilan emas.",
+    "Dushmanlarim meni yo'q qilish uchun fitna uyushtirishganda, Alloh meni osmonga ko'tardi va qiyomat kunidan oldin qaytishimni va'da qildi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Iso (Iso)",
+        "Muso payg'ambar (Muso)",
+        "Payg'ambar Ibrohim (Ibrohim)",
+        "Payg'ambar Muhammad",
+        "Yusuf payg'ambar (Yusuf)"
+      ],
+      "answer": "Payg'ambar Iso (Iso)"
+    },
+    "trial": {
+      "label": "Aniqlovchi moment",
+      "options": [
+        "Men osmonga ko'tarildim",
+        "Meni alangali olovga tashlashdi",
+        "Men Fir'avnning qudratli qo'shiniga duch keldim",
+        "Meni katta kit yutib yubordi",
+        "Men tog'da kema qurdim"
+      ],
+      "answer": "Men osmonga ko'tarildim"
+    },
+    "location": {
+      "label": "Muqaddas belgi bajarildi",
+      "options": [
+        "Men qushlarni loydan yasadim",
+        "Men tayoqni ilonga aylantirdim",
+        "Men oyni ikkiga bo'ldim",
+        "Men shamol va jinlarga buyruq berdim",
+        "Men toshdan urg'ochi tuya chiqardim"
+      ],
+      "answer": "Men qushlarni loydan yasadim"
+    },
+    "outcome": {
+      "label": "Menga nima bo'ldi",
+      "options": [
+        "Osmonga ko'tarildi; qaytishga va'da berildi",
+        "Imperiyaning buyuk hukmdoriga aylandi",
+        "Xalqimni asirlikdan olib chiqdim",
+        "Yer yuzida mislsiz boylik berildi",
+        "Uzoq ajralishdan keyin oilam bilan yana birlashdim"
+      ],
+      "answer": "Osmonga ko'tarildi; qaytishga va'da berildi"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

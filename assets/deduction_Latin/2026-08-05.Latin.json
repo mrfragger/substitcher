@@ -1,0 +1,61 @@
+{
+  "title": "Dies Ultimae Exhibitionis",
+  "intro": "Ad magnam potentiae ostentationem vocati, cohors histrionum peritorum se inopinatae veritati obviam invenerunt quae vitas eorum in perpetuum mutaret.",
+  "clues": [
+    "Arte nostra clari eramus, illusionis et fraudis magistri.",
+    "A rectore vocati sumus ut provocatorem, qui simplicem baculum gerebat, aggrediaremur.",
+    "Veritatem visam, prostrati sumus, fidem in Dominum mundorum profitentes.",
+    "Tyrannus nos gravissimam poenam minatus est, sed non vacillavimus.",
+    "Inter primos fuimus qui nuntium credidimus postquam manifestum signum vidimus.",
+    "Pro fide nostra martyres passi sumus, sed primi cum iustis Paradisum intrabimus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui Sumus?",
+      "options": [
+        "Magi Pharaonis",
+        "Israelitae",
+        "Populus Thamud",
+        "Discipuli Isae",
+        "Exercitus Abrahae"
+      ],
+      "answer": "Magi Pharaonis"
+    },
+    "trial": {
+      "label": "Iudicium / Eventum",
+      "options": [
+        "Certamen cum Propheta Musa",
+        "Turris Aedificatio",
+        "Magnum Diluvium",
+        "Pestis Locustarum",
+        "Mare Scindens"
+      ],
+      "answer": "Certamen cum Propheta Musa"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Dies Festi",
+        "Vallis Tuwae",
+        "Urbs Iram",
+        "Hortus Aeternitatis",
+        "Planities Arafat"
+      ],
+      "answer": "Dies Festi"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Publice crucifixi sunt",
+        "In mari submersi sunt",
+        "Prophetae sectatores facti sunt",
+        "In exsilium missi sunt",
+        "Igne consumpti sunt"
+      ],
+      "answer": "Publice crucifixi sunt"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

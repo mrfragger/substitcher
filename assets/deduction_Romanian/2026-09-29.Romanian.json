@@ -1,0 +1,61 @@
+{
+  "title": "Profetul Munților Sculptați",
+  "intro": "În deșerturile aspre ale Arabiei antice, o figură a apărut printre oamenii renumiți pentru măiestria lor extraordinară. Casele lor se înălțau din stânci solide, însă inimile lor erau mai împietrite decât munții pe care îi sculptau. Un mesager divin a sosit cu un singur semn miraculos - dar mândria și sfidarea au dus la consecințe rapide și terifiante. Poți identifica nobilul slujitor al cărui popor a ales distrugerea în locul îndrumării?",
+  "clues": [
+    "Am fost trimis ca avertizor pentru poporul meu, chemându-l la venerarea Unicului Dumnezeu.",
+    "Poporul meu trăia printre formațiuni stâncoase dramatice, săpând locuințe magnifice în versanții munților.",
+    "O cămilă miraculoasă a ieșit din stâncă solidă la rugăciunea mea, un semn clar de la Cel Atotputernic.",
+    "Le-am spus oamenilor mei să împartă apa cu această cămilă și să nu-i facă rău.",
+    "Poporul meu a complotat împotriva cămilei și i-a tăiat tibiile, pecetluind propria lor distrugere.",
+    "Un cutremur înfricoșător a lovit poporul meu și au rămas nemișcați în locuințele lor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Salih",
+        "Profetul Hud",
+        "Profetul Șu'ayb",
+        "Profetul Nuh",
+        "Profetul Musa"
+      ],
+      "answer": "Profetul Salih"
+    },
+    "trial": {
+      "label": "Care a fost procesul definitoriu?",
+      "options": [
+        "Tensiogramele unei cămile miraculoase",
+        "Construirea unei mari arce în mijlocul batjocurii",
+        "Confruntarea cu un faraon tiran",
+        "Fiind aruncat într-un foc arzător",
+        "Încălcarea legământului Sabatului"
+      ],
+      "answer": "Tensiogramele unei cămile miraculoase"
+    },
+    "location": {
+      "label": "Care a fost elementul central?",
+      "options": [
+        "O cămilă care a ieșit din stâncă",
+        "O mare arcă de lemn",
+        "Un toiag care a despărțit marea",
+        "O balenă enormă",
+        "Un munte suspendat deasupra"
+      ],
+      "answer": "O cămilă care a ieșit din stâncă"
+    },
+    "outcome": {
+      "label": "Care a fost soarta lor finală?",
+      "options": [
+        "Un cutremur brusc din ceruri",
+        "Înecat într-o inundație puternică",
+        "Orașele lor răsturnate prin poruncă divină",
+        "Ars de un vânt arzător",
+        "Înghițit de pământ"
+      ],
+      "answer": "Un cutremur brusc din ceruri"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

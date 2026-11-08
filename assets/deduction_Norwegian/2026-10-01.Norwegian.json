@@ -1,0 +1,61 @@
+{
+  "title": "Talt til væren",
+  "intro": "En skikkelse dukker opp fra den hellige historien, bærende på mirakler som trosset den naturlige orden. Denne sjelen ankom gjennom en enkelt guddommelig befaling, forsvarte en forelder mot alvorlige anklager og forlot denne verden før jordiske lenker kunne binde dem. Historien spenner fra en ydmyk vugge til himmelen over. Hvem kunne dette være?",
+  "clues": [
+    "Jeg ble sendt som et tegn og en nåde fra Allah til Israels barn.",
+    "Min ankomst var ulik noen gang før – jeg ble til ved det guddommelige ordet «Vær!» uten en jordisk far.",
+    "Mine foreldre møtte grusom bakvaskelse, men hellig åpenbaring kom for å erklære deres uskyld og heve deres stilling.",
+    "Som nyfødt spedbarn forbløffet jeg de rundt meg ved å snakke tydelig fra vuggen for å renvaske foreldrenes navn.",
+    "Med Allahs tillatelse formet jeg liv av livløs leire, ga syn til blinde og helbredet spedalske med min berøring.",
+    "Jeg ble løftet opp til himmelen før ulykken kunne ramme meg, og jeg skal vende tilbake til denne verden før den siste timen kommer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Isa",
+        "Profeten Musa",
+        "Profeten Ibrahim",
+        "Profeten Yusuf",
+        "Profeten Dawud"
+      ],
+      "answer": "Profeten Isa"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Å snakke fra vuggen som spedbarn",
+        "Overlevelse i magen til en stor fisk",
+        "Å bli kastet inn i en flammende ild",
+        "Å bygge en stor ark før en flom",
+        "Å møte trolldommen til faraos hoff"
+      ],
+      "answer": "Å snakke fra vuggen som spedbarn"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Injeel (evangeliet)",
+        "Toraen (Tawrah)",
+        "Zabur (Salmene)",
+        "The Suhuf (Ibrahims ruller)",
+        "En stav som kløyvde havet"
+      ],
+      "answer": "Injeel (evangeliet)"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Oppreist til himmelen, vil vende tilbake før dommedag",
+        "Ledet Israels barn ut av Egypt",
+        "Ble konge med herredømme over djinner, mennesker og fugler",
+        "Overlevde en massiv flom med de troende",
+        "Bygget det hellige huset i Mekka"
+      ],
+      "answer": "Oppreist til himmelen, vil vende tilbake før dommedag"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sönmeyen Alevin Muhafızı",
+  "intro": "Görünmeyen dünyanın en korkulan yerinin eşiğinde, başka hiçbir varlığın arzu etmediği bir görevle görevlendirilmiş bir figür duruyor. Acı çeken ruhlar merhamet için feryat ettiğinde, ateş odalarında sert bir yanıt yankılanıyor. Bu ebedi koruyucunun kimliğini ortaya çıkarabilir misiniz?",
+  "clues": [
+    "Görünmeyen alemdeki korkunç bir cezalandırma yerinin girişinde duruyorum.",
+    "Sönmeyen, alev alev yanan bir ateş, kutsal görevimin merkezinde yer alıyor.",
+    "Acı çeken ruhlar adımı haykırıyor, bitmek bilmeyen işkencelerinden kurtulmak için yalvarıyorlar.",
+    "Yalvardıklarında, asla buradan ayrılmayacaklarını ilan ediyorum.",
+    "Ben ne insanım ne de cinim; ben tamamen itaatkâr, yaratılmış bir varlığım.",
+    "Ben, cehennem ateşinin ebedi koruyucusu olarak atanmış baş meleğim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Malik",
+        "Cibril",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Cehennemdekiler azaplarının sona ermesi için yalvarıyorlar.",
+        "Kıyamet Günü'nün geldiğini işaret etmek için borazan çalınır.",
+        "Kur'an, Peygamberin kalbine vahyedilmiştir.",
+        "Bir peygamber, halkı tarafından büyük bir ateşe atılır.",
+        "Yozlaşmış bir ulusu çevrelemek için devasa bir duvar inşa edildi."
+      ],
+      "answer": "Cehennemdekiler azaplarının sona ermesi için yalvarıyorlar."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Cehennem Ateşi (Cehennem)",
+        "Cennetin sınırındaki Sidre Ağacı",
+        "Keskin bir trompet",
+        "Yılana dönüşen bir asa",
+        "Muhteşem bir ilahi taht"
+      ],
+      "answer": "Cehennem Ateşi (Cehennem)"
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Cehennem sakinlerine sonsuza dek orada kalacakları söylenir.",
+        "Cehennem sakinleri affedildi ve serbest bırakıldı.",
+        "Cehennem sakinlerine inanç konusunda ikinci bir şans verilir.",
+        "Cehennem sakinleri serin bir yere taşınır.",
+        "Cehennem sakinleri bir yıldırım çarpmasıyla tamamen yok edilir."
+      ],
+      "answer": "Cehennem sakinlerine sonsuza dek orada kalacakları söylenir."
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

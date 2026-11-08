@@ -1,0 +1,61 @@
+{
+  "title": "Yonayotgan butaning ovozi",
+  "intro": "Mo''jizaviy uchrashuv bilan boshlangan va taqdiri ezilgan xalqning ozodligi bilan chambarchas bog'liq bo'lgan chuqur shaxsning shaxsini ochib bering. Bu shaxs ilohiy ko'magi bilan ulkan qiyinchiliklarga duch kelgan ulkan vazifa uchun tanlangan.",
+  "clues": [
+    "Men xalqimning go'daklari qatl qilinayotgan, buyuk zulm davrida tug'ilganman.",
+    "Mening yoshligim ota-onam tomonidan daryoga tashlangan paytlar bilan bog'liq edi, ammo men xalqimning zulmi ostida topilib, o'sganman.",
+    "Bir safar men nizo paytida tasodifan bir kishining o'limiga sabab bo'lganimdan keyin shahardan qochib ketdim.",
+    "Men muqaddas joyda ilohiy xabar va mo''jizaviy tayoq oldim, u yerda menga qudratli hukmdor bilan to'qnashish buyurilgan edi.",
+    "Nutqimdagi nuqson tufayli akam menga vazifamda yordamchi etib tayinlandi.",
+    "Men xalqimni zolim qo'shinning ta'qibidan qochib, ikkiga bo'lingan dengizdan o'tkazdim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yusuf payg'ambar",
+        "Payg'ambar Iso",
+        "Muso payg'ambar",
+        "Nuh payg'ambar",
+        "Ibrohim payg'ambar"
+      ],
+      "answer": "Muso payg'ambar"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Uzoq davom etgan qurg'oqchilik yillari",
+        "Kema qurish",
+        "Fir'avn va uning sehrgarlariga qarshi turish",
+        "Olovli pechga tashlanmoqda",
+        "Samud qavmining vayron bo'lishi"
+      ],
+      "answer": "Fir'avn va uning sehrgarlariga qarshi turish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Ka'ba",
+        "Temir devor",
+        "Xodimlar",
+        "Nuh kemasi",
+        "Sulaymonning halqasi"
+      ],
+      "answer": "Xodimlar"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Sodom shahri ag'darildi",
+        "Odamlar yer tomonidan yutib yuborildi",
+        "Buyuk suv toshqini yer yuzini qamrab oldi",
+        "Fir'avn va uning qo'shini cho'kib ketdilar",
+        "Shahar devorlari qichqiriqdan qulab tushdi"
+      ],
+      "answer": "Fir'avn va uning qo'shini cho'kib ketdilar"
+    }
+  },
+  "verseRef": "20:77",
+  "arabic": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًۭا فِى ٱلْبَحْرِ يَبَسًۭا لَّا تَخَـٰفُ دَرَكًۭا وَلَا تَخْشَىٰ",
+  "verse": "And We had inspired to Moses, \"Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning].\" (20:77)"
+}

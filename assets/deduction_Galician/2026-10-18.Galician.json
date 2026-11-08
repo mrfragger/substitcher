@@ -1,0 +1,61 @@
+{
+  "title": "A boa nova na vellez",
+  "intro": "Estades a presenciar un momento no que a esperanza se reavivou. Unha parella, que xa pasou a idade da paternidade/maternidade, recibe unha promesa que desafía as leis da natureza. No medio deles atópase unha figura cuxa propia existencia é un sinal da misericordia divina: unha alma destinada á profecía, portadora dun legado que percorrerá xeracións. Quen é esta persoa extraordinaria?",
+  "clues": [
+    "Nacín de pais que chegaran á vellez e non tiñan fillos.",
+    "O meu nacemento foi anunciado por anxos que viñeron como hóspedes á miña familia.",
+    "Déronme sabedoría e profecía, e son mencionado entre os pacientes.",
+    "Ao meu pai chamábanlle o amigo de Alá, e eu fun un agasallo para el nos seus últimos anos.",
+    "Tiña un irmán que tamén era profeta, e ambos fomos bendicidos polo noso Señor.",
+    "O meu fillo tamén foi profeta, e os meus descendentes recibiron as escrituras e a profecía."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen son eu?",
+      "options": [
+        "Profeta Isaac (Isaac)",
+        "Profeta Ismael (Ismael)",
+        "Profeta Yaqub (Xacob)",
+        "Profeta Yahya (Xoán)",
+        "Profeta Uzair (Esdras)"
+      ],
+      "answer": "Profeta Isaac (Isaac)"
+    },
+    "trial": {
+      "label": "Proba/Evento",
+      "options": [
+        "Nacido de pais maiores",
+        "Botado ao lume",
+        "Dado un reino e riqueza",
+        "Sacou o seu pobo de Exipto",
+        "Construíu unha arca para salvar aos crentes"
+      ],
+      "answer": "Nacido de pais maiores"
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "A boa nova dun fillo",
+        "A sarza ardente",
+        "O becerro de ouro",
+        "A arca da alianza",
+        "O bastón da profecía"
+      ],
+      "answer": "A boa nova dun fillo"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Converteuse nun profeta cunha liñaxe de profetas",
+        "Converteuse nun rei rico",
+        "O seu pobo foi destruído pola súa incredulidade",
+        "Salvouse do incendio",
+        "Déronlle a capacidade de falar de neno"
+      ],
+      "answer": "Converteuse nun profeta cunha liñaxe de profetas"
+    }
+  },
+  "verseRef": "14:39",
+  "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+  "verse": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication. (14:39)"
+}

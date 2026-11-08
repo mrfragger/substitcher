@@ -1,0 +1,61 @@
+{
+  "title": "Pengejaran Mahkamah",
+  "intro": "Di koridor kuasa, seorang tokoh berstatus tinggi tergila-gila dengan seorang hamba yang kecantikannya luar biasa. Kegilaan ini membawa kepada satu siri peristiwa yang akan menguji kesetiaan, mendedahkan kebenaran tersembunyi, dan akhirnya mengesahkan kepolosan hamba itu.",
+  "clues": [
+    "Aku tinggal di tanah Sungai Nil, di sebuah istana yang berpengaruh besar.",
+    "Seorang pemuda datang ke rumah saya, dan kehadirannya mengganggu dunia saya.",
+    "Aku cuba menggodanya, tetapi dia meminta perlindungan kepada Tuhannya.",
+    "Aku mengoyakkan pakaiannya dari belakang, tetapi buktinya menunjukkan penipuanku.",
+    "Untuk membungkam gosip wanita bangsawan, aku mengajak mereka ke satu majlis dan meletakkan benda tajam di tangan mereka.",
+    "Akhirnya, aku mengaku kesalahanku secara terbuka, mengakui kebenaran di hadapan raja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Isteri Al-Aziz",
+        "Asiya (Isteri Firaun)",
+        "Bilqis (Ratu Sheba)",
+        "Maryam (Ibu Isa)",
+        "Ibu Musa"
+      ],
+      "answer": "Isteri Al-Aziz"
+    },
+    "trial": {
+      "label": "Percubaan/Acara",
+      "options": [
+        "Dia cuba menggoda Nabi Yusuf",
+        "Dia cuba membunuh Nabi Musa",
+        "Dia mengaku sebagai dewi",
+        "Dia membina menara untuk mencabar Allah",
+        "Dia memimpin tentera menentang Mekah"
+      ],
+      "answer": "Dia cuba menggoda Nabi Yusuf"
+    },
+    "location": {
+      "label": "Elemen Utama",
+      "options": [
+        "Baju koyak dari belakang",
+        "Anak lembu emas",
+        "Tongkat yang bertukar menjadi ular",
+        "Seekor unta betina",
+        "Sebuah lampu"
+      ],
+      "answer": "Baju koyak dari belakang"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Dia mengaku dan mengakui kebenaran",
+        "Dia lemas bersama tenteranya",
+        "Dia berubah menjadi tiang garam",
+        "Dia ditelan bumi",
+        "Dia musnah ditiup angin kencang"
+      ],
+      "answer": "Dia mengaku dan mengakui kebenaran"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

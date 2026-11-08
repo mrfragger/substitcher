@@ -1,0 +1,61 @@
+{
+  "title": "La Comunità de la Prima Transgresiun",
+  "intro": "In de la terra di cità vècc, ün popul l’era prusperà. Sun stà visità de un messagger cunt una ciamada ciara, e ancamò se sun voltà e segutan un sentier che nissun g’haveva mai camminà. La sò storia l’è una de sfida, depravaziun e una puniziun che g’ha lassà la sò patria cuma segn per tüt quei che pensan. Chi sun chesti anim?",
+  "clues": [
+    "Vivem in di cità de la pianura, indué el noster prufet g’ha ciamà a la giüstizia.",
+    "Num sem stad i primi a commett una indecenza che nissun in tüt i mund g’haveva mai fatt prima.",
+    "Num g’hem s’ciopà i viagiatur e g’hem fad el mal avertament in di noster radun.",
+    "Num g’hem refudad el messagger mandà a nun e g’hem minaciad de cacial fœra de la nostra terra.",
+    "Num serem cors a cà sò e g’hem dumandà de cunsegnà i sò ospit a noi.",
+    "La noster puniziun l’è stada una piœuva de sass, e la noster cità l’è stada girada a testa in giò."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "Gent de Lut",
+        "Gent de Nuh",
+        "Gent de 'Ad",
+        "Popol de Thamud",
+        "La gent de Madyan"
+      ],
+      "answer": "Gent de Lut"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Comess el prim att de sodomia",
+        "Idol venerà",
+        "Ingannà in del cumercio",
+        "G’han copà el luur profet",
+        "G’han minga ubbidii ai luur genitur"
+      ],
+      "answer": "Comess el prim att de sodomia"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La citaa de la pianura",
+        "La cità del pozz",
+        "La cità del fossà",
+        "La cità del elefant",
+        "La cità del giardin"
+      ],
+      "answer": "La citaa de la pianura"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Piovè cun di sass e s’è ribaltà",
+        "Anegad da un'alluvion",
+        "Distrutt de un vent viulent",
+        "Inglutì de la terra",
+        "Colpì de un esplusiun fort"
+      ],
+      "answer": "Piovè cun di sass e s’è ribaltà"
+    }
+  },
+  "verseRef": "26:162",
+  "arabic": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌۭ",
+  "verse": "Indeed, I am to you a trustworthy messenger. (26:162)"
+}

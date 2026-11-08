@@ -1,0 +1,61 @@
+{
+  "title": "Mokonzi Oyo Asɛngaki Bonzambe",
+  "intro": "Mokonzi moko ya nguya mpe ya lolendo andimaki ete moko te atɛlɛmaki likoló ya kiti na bango ya bokonzi. Balandaki etuluku moko oyo bazalaki kokima na kati ya mai monene, kaka mpo na kokutana na nsuka moko ya kokamwa. Lisolo ya mokonzi oyo ezongeli na mikapo mingi ya Coran, kosala lokola likebisi mpo na bato banso.",
+  "clues": [
+    "Nazalaki mokonzi moko ya nguya oyo andimaki ete bokonzi moko te elekaki oyo ya ngai na mikili oyo nazalaki koyangela.",
+    "Nazalaki na vizier moko oyo natyelaka motema na nkombo Haman oyo asalisaki ngai nasala misala minene ya kotonga bandako.",
+    "Nabengaki banganga-nkisi ya malamu koleka ya mboka na ngai mpo na kotya ntembe na bilembo ya momemi-nsango moko oyo azalaki kotɛmɛla ngai.",
+    "Naboyaki kotika bato oyo bazalaki baombo na kati ya bokonzi na ngai bálongwa, atako malɔzi mpe makebisi ya polele.",
+    "Nalandaki bango na ngambo mosusu ya mbu monene elongo na limpinga na ngai mobimba mpe makalo na ngai.",
+    "Mbu wana mpenza ekangamaki likolo na ngai mpe mampinga na ngai, ezindisaki biso banso, ntango bakatisaki na kimia."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Fir’awn (Farao) .",
+        "Namrud, oyo azali",
+        "Abu Lahab azali moto ya mayele",
+        "Hamane",
+        "Abu Jahl azali moto ya mayele"
+      ],
+      "answer": "Fir’awn (Farao) ."
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Ba peste na confrontation na Musa (Moise) .",
+        "Kotonga masuwa liboso ya mpela monene",
+        "Etumba na Jalut na lobwaku",
+        "Komelama na baleine",
+        "Ko défendre ba poids ya commerce ya bosembo"
+      ],
+      "answer": "Ba peste na confrontation na Musa (Moise) ."
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Ba tours milai mpe ba enjeux",
+        "Sanduku moko monene ya mabaya",
+        "Mwana ya ngɔmbɛ ya wolo",
+        "Nzete oyo ebongwanaki nyoka",
+        "Baleine moko monene mpenza"
+      ],
+      "answer": "Ba tours milai mpe ba enjeux"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bazindaki na mbu elongo na basoda",
+        "Abikisami na ngolu ya Allah pe motema molai efutami",
+        "Bakutanaki lisusu na libota nsima ya bambula mingi ya mpasi",
+        "Emelami na mabele",
+        "Ezikisamaki na mɔtɔ"
+      ],
+      "answer": "Bazindaki na mbu elongo na basoda"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

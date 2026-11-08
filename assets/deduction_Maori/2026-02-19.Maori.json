@@ -1,0 +1,61 @@
+{
+  "title": "Te wairangi o te wawata nui",
+  "intro": "Tīmatahia he haerenga ki te hura i te tuakiri o tētahi rōpū i tutuki ai ā rātou mahere maia ki tētahi mutunga ohorere, kaha hoki. He whakamahara hohonu tēnei kōrero mō te mana atua me te ngoikore o te mana o te ao ina whakahē ana i te tapu. Wetekina te mea ngaro o tēnei rōpū, ko tana kōrero kua whakairohia i roto i te Quran hei whakatūpato mō te hunga katoa e whai ana ki te takahi i te ture.",
+  "clues": [
+    "I puritia e mātou he wawata nui, me te whakapono kāore he rite o tō mātou kaha, ā, ka tīmata mātou i tētahi haerenga me tētahi whāinga mārama, whakangaro hoki.",
+    "I te whakapehapeha, i whai tō mātou rangatira ki te whakapoke i tētahi Whare tapu e whakanuia ana e te tini, me te whai kia tahuri te haerenga mai ki tētahi whare i hangaia e mātou.",
+    "Mai i tawhiti, i haere tahi mātou me tētahi ope nui, me te whakapono ki tō mātou kaha ki te whakahoro i te whare tawhito i te Tāone Tapu.",
+    "He tino kaha tō mātou ope taua, he mea ārahi e ngā mea whakamiharo, he mea onge, mēnā kāore anō kia kitea, i roto i tētahi pakanga pēnei e ngā tāngata o te whenua i whakaekea e mātou.",
+    "I tō mātou taenga ki tō mātou ūnga, ka puta mai te awhina a te Atua; ka puta mai ngā mea ririki whai parirau, e whiu ana i a mātou ki ngā kōhatu paru tunua.",
+    "I mutu kino rawa tā mātou haerenga katoa, ā, i ngaro rawa atu tō mātou ope nui, pērā i te kakau witi e ngaungauhia ana, ā, i memeha haere tā mātou mahere nui."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Te iwi o Thamud",
+        "Ngā tāngata o 'Ad",
+        "Ngā tāngata o Horoma",
+        "Ngā tāngata o te arewhana",
+        "Ngā tāngata o te māra"
+      ],
+      "answer": "Ngā tāngata o te arewhana"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "Te Waipuke Nui",
+        "Te Pakanga ki te Kaaba",
+        "Te Whakangaromanga o ngā Whakapakoko",
+        "Te Wehenga o te Moana",
+        "Te Rū o Miriana"
+      ],
+      "answer": "Te Pakanga ki te Kaaba"
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "Te Āraka",
+        "Ngā Kaimahi",
+        "Te Kaaba",
+        "Te Kuao Kau Koura",
+        "Te Ahi"
+      ],
+      "answer": "Te Kaaba"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Whakaoranga atua",
+        "He wā roa o te oranga",
+        "Te tahuritanga ki te Ihirama",
+        "Te whakangaromanga rawa",
+        "Te whakaraunga atu i tō rātou whenua"
+      ],
+      "answer": "Te whakangaromanga rawa"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

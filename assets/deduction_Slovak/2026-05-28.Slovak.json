@@ -1,0 +1,61 @@
+{
+  "title": "Neochvejný trpezlivý",
+  "intro": "V análoch prorockej histórie len málo ľudí prežilo takú hlbokú stratu a fyzické utrpenie s neotrasiteľnou vierou. Príbeh tejto postavy je nadčasovou lekciou o trpezlivosti a dôvere v božskú múdrosť. Kto je táto duša?",
+  "clues": [
+    "Bol som vyvolený Alahom, aby som odovzdal posolstvo, ale mojou najväčšou skúškou nebolo odmietnutie, ale osobné nešťastie.",
+    "Moje bohatstvo, môj dobytok a moje deti mi boli odobraté jedno po druhom.",
+    "Moje telo bolo pokryté vredmi a zostal som sám, okrem podpory môjho manžela/manželky.",
+    "Volal som k svojmu Pánovi, uznávajúc svoje utrpenie a hľadajúc Jeho milosrdenstvo.",
+    "Dostal som pokyn udrieť nohou o zem a vytryskol osviežujúci prameň.",
+    "Alah mi obnovil zdravie a dal mi novú rodinu a ešte viac bohatstva, než som mal predtým."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Prorok Ayyub",
+        "Prorok Ibrahim",
+        "Prorok Músa",
+        "Prorok Isa",
+        "Prorok Nuh"
+      ],
+      "answer": "Prorok Ayyub"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Strata bohatstva a rodiny",
+        "Byť hodený do ohňa",
+        "Byť prehltnutý rybou",
+        "Oddelenie od rodiny a predaj do otroctva",
+        "Byť skúšaný zlatým teľaťom"
+      ],
+      "answer": "Strata bohatstva a rodiny"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Prameň vody",
+        "Palica, ktorá sa premenila na hada",
+        "Drevená archa",
+        "Roztavené teľa",
+        "Palma"
+      ],
+      "answer": "Prameň vody"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Obnova rodiny a bohatstva",
+        "Nanebovstúpenie",
+        "Stať sa kráľom",
+        "Zachránený pred veľrybou",
+        "Prijatie syna v starobe"
+      ],
+      "answer": "Obnova rodiny a bohatstva"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Ang Mapagkakatiwalaang Espiritu ng Paghahayag",
+  "intro": "Sa mga di-nakikitang kaharian, isang nilalang na may dalisay na liwanag ang gumagalaw nang may katumpakan, isinasagawa ang bawat utos nang walang pag-aalinlangan. Ang pigurang ito ay nagsalita sa mga piling lingkod, nagdala ng mga salita ng patnubay, at nasaksihan ang paglalahad ng mga banal na utos sa paglipas ng mga panahon. Sino ang pinarangalang kaluluwang ito?",
+  "clues": [
+    "Ako ay isang nilalang na may dalisay na liwanag, nilikha mula sa liwanag, at hindi ako kailanman sumuway sa kahit isang utos ng aking Panginoon.",
+    "Ako'y gumagalaw sa pagitan ng langit at lupa, bumababa dala ang mga utos ng Pinakamaawain.",
+    "Isinugo ako sa isang marangal na birhen sa santuwaryo, na ipinapahayag sa kanya ang isang dalisay na anak na lalaki.",
+    "Ako ang espiritu ng kabanalan, at sinuportahan ko ang isang propeta na binigyan ng malinaw na mga tanda at ng Ebanghelyo.",
+    "Pumunta ako sa isang kuweba sa bundok upang bigkasin ang mga unang salita ng isang pagbigkas na iingatan magpakailanman.",
+    "Ako ang mapagkakatiwalaang espiritu, at ako ang nagdala ng Quran sa puso ng huling sugo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "Ang Anghel ng Kamatayan",
+        "Malik (Tagapangalaga ng Impiyerno)",
+        "Harut (isa sa dalawang anghel sa Babilonia)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Pangunahing Misyon/Tungkulin",
+      "options": [
+        "Paghahatid ng paghahayag sa mga propeta",
+        "Paghihip ng trumpeta sa Araw ng Paghuhukom",
+        "Pagbabantay sa mga pintuan ng Impiyerno",
+        "Pagtatala ng mga gawa ng tao",
+        "Nagdudulot ng pagbuhos ng ulan"
+      ],
+      "answer": "Paghahatid ng paghahayag sa mga propeta"
+    },
+    "location": {
+      "label": "Pangunahing Katangian o Pamagat",
+      "options": [
+        "Ang Banal na Espiritu (Ruh al-Qudus)",
+        "Ang Espiritu ng Kapangyarihan",
+        "Ang Espiritu ng Awa",
+        "Ang Espiritu ng Patnubay",
+        "Ang Espiritu ng Katotohanan"
+      ],
+      "answer": "Ang Banal na Espiritu (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Bunga ng Misyon",
+      "options": [
+        "Ang Quran ay ipinahayag kay Propeta Muhammad",
+        "Ang trumpeta ay hinipan sa Araw ng Paghuhukom",
+        "Binantayan ang impyerno at isinara ang mga pintuan nito",
+        "Ang Aklat ng mga Gawa ay iniharap kay Allah",
+        "Ang ulan ay ipinadala pababa sa lupa"
+      ],
+      "answer": "Ang Quran ay ipinahayag kay Propeta Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

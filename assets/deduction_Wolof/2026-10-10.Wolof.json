@@ -1,0 +1,61 @@
+{
+  "title": "Scout bu am dunqu",
+  "intro": "Ci biir benn buur bu am nguur guñu jox nguur gi yor ngelaw li, mbindéef yiñ dul gis, ak mbindéef yi ci asamaan, benn ci ndaw yu ndaw te gaaw dafa réer ci rang yi — ngir dellusi ak feeñu yuy soppi ëlëgu réew mu sori. Joxe xibaar bu am bët yu ñaw yooyu, dafa wane dëgg ci barab bi ñàkk xam-xam jëlee reenam. Man Kan laa?",
+  "clues": [
+    "Maa ngi liggéey ci barabu buur bu nit ñi, mbindéef yiñ dul gis, ak mbindéef yi ci asamaan, di tontu benn njiit bu am xel, di digal ngelaw li.",
+    "Maa ngi nekkoon ci sama liggéey ab diir, ñu ni su ma joxeewul sabab bu mat sëkk, dina ñu merloo njiit li.",
+    "Man mbindéef bu ndaw laa buy daw, ñu xamee ma ci gis-gis bu ñaw, te sama xeetu mbindéef dañu ko sargal ci tuddee ko ci xëti feeñu.",
+    "Bi ma dellusee, indi naa xibaar ci réew mu sori, fu nit ñi di sujjoot ci jant bi, gumba ci Ki sàkk asamaan ak suuf.",
+    "Ma gis fa benn jigéen bu yor réew mu mag, toog ci jal bu mag, te musul xam dëgg gi.",
+    "Man maa gis réewum Saba', ma yóbbaale bataaxal woote bu jóge ci benn yonent-buur buñu jox nguur ci ngelaw li."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Hudhud",
+        "Fourmi bu bawoo ci valé Sulaiman",
+        "Asif ben barkhiya",
+        "Ifrit Jinne yi",
+        "Malaakal buur bi"
+      ],
+      "answer": "Hudhud"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Expédition à la Royaume de Saba' (Séba)",
+        "Xeex bi ak luxuskat yu Firawna",
+        "Mbëndu Yonent Nuh",
+        "Nit ñi 'Ad yàq leen.",
+        "Xaajaloo gi am ci géej gu xonk gi"
+      ],
+      "answer": "Expédition à la Royaume de Saba' (Séba)"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Réewum Saba' (Séba)",
+        "Tundu Sinai",
+        "Arche de prophète Nuh",
+        "Grotte de Ashab al-Kahf",
+        "Palais bu Firawna"
+      ],
+      "answer": "Réewum Saba' (Séba)"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Bilqis dafa ñëw ngir déggal Sulaiman",
+        "Firawna ak ay soldaaram daanu ci géej gi",
+        "Ngelaw lu metti yàq na waa Ad",
+        "Luxus Firawna gëmoon nañu Yonent-Yàlla Musaa",
+        "Mbënd mu réy lakk na weddikat yi"
+      ],
+      "answer": "Bilqis dafa ñëw ngir déggal Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

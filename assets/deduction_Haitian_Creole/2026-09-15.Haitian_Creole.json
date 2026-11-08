@@ -1,0 +1,61 @@
+{
+  "title": "Ospitalite ki te pote laperèz la",
+  "intro": "Nan yon vil ki te ravaje pa mechanste, yon sèvitè fidèl te resevwa vizitè sanzatann yon jou. Enkye pou sekirite yo, moun sa a te ofri pwoteksyon, men pèp la nan vil la te mande yon bagay ki fè wont. Lè yo te avèti sèvitè a sou yon malè ki t ap vini, li te sove ak fanmi li anba pwoteksyon fènwa, li kite dèyè yon vil ki te make pou destriksyon. Kiyès ki sèl kwayan sa a?",
+  "clues": [
+    "Yo te voye m' kòm yon mesaje bò kote yon pèp ki te komèt zak wont.",
+    "Te gen vizitè sanzatann ki te vin lakay mwen, epi mwen te plis enkyete pou sekirite yo pase pou sekirite pa m.",
+    "Pèp mwen an te egzije pou yo wè envite m yo pou move entansyon, epi mwen te eseye rezone avèk yo.",
+    "Vizitè m yo te revele tèt yo kòm zanj epi yo te bay lòd pou m pran fanmi mwen epi ale nan mitan lannwit.",
+    "Madanm mwen pa t koute apèl pou l sove a epi li te fè fas ak menm destriksyon ak pèp mwen an.",
+    "Lapli wòch fèt ak ajil te ranvèse vil mwen an, pati ki pi wo yo te desann pi ba."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki moun mwen ye?",
+      "options": [
+        "Pwofèt Lout",
+        "Pwofèt Moïse",
+        "Pwofèt Ibrahim",
+        "Pwofèt Nouh",
+        "Pwofèt Hud"
+      ],
+      "answer": "Pwofèt Lout"
+    },
+    "trial": {
+      "label": "Pwosè/Evènman",
+      "options": [
+        "Egzijans pèp mwen an pou yo apwoche envite mwen yo avèk mechanste",
+        "Separe lanmè a pou chape anba yon tiran",
+        "Konstriksyon yon gwo lach nan mitan mokriz",
+        "Sakrifis pitit gason m nan yon tès lafwa",
+        "Eksperyans lè yon gwo pwason vale w"
+      ],
+      "answer": "Egzijans pèp mwen an pou yo apwoche envite mwen yo avèk mechanste"
+    },
+    "location": {
+      "label": "Eleman kle",
+      "options": [
+        "Vil pèp mwen an ki te ranvèse a",
+        "Mòn kote mwen te resevwa pawòl diven an",
+        "Lach ki te navige nan yon gwo delij",
+        "Chamo ki te soti nan wòch la",
+        "Jaden an ak yon vizitè jis kache"
+      ],
+      "answer": "Vil pèp mwen an ki te ranvèse a"
+    },
+    "outcome": {
+      "label": "Rezilta",
+      "options": [
+        "Mwen te sove ak fanmi mwen anvan yo te ranvèse vil mwen an",
+        "Mwen mennen pèp mwen an nan libète lòt bò lanmè a",
+        "Mwen te bati yon gwo lach epi mwen te siviv yon gwo inondasyon",
+        "Yo te ban mwen pouvwa sou van yo ak djinn yo",
+        "Mwen te sipòte soufrans avèk pasyans epi mwen te resevwa yon fanmi kòm rekonpans."
+      ],
+      "answer": "Mwen te sove ak fanmi mwen anvan yo te ranvèse vil mwen an"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

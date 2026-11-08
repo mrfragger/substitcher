@@ -1,0 +1,61 @@
+{
+  "title": "Y Llais o'r Cyrion",
+  "intro": "Rydych chi'n sefyll mewn dinas lle mae tri negesydd wedi dod gydag arwyddion clir, ond mae'r bobl yn eu gwawdio ac yn glynu wrth eu hen ffyrdd. O ben pellaf y ddinas, mae ffigur yn sbrintio tuag at y dorf, yn fyr ei anadl ac yn benderfynol, i ddweud y gwir yng ngwyneb gwrthod. Pwy yw'r enaid hwn a risgiodd bopeth er mwyn neges nad oedd yn eiddo iddo'i hun?",
+  "clues": [
+    "Roeddwn i'n byw ymhlith pobl a oedd wedi derbyn negeswyr ag arwyddion clir, ond eto fe wnaethon nhw droi cefn mewn balchder.",
+    "Deuthum yn rhedeg o ben pellaf y ddinas pan glywais am alwad y negeswyr.",
+    "Dywedais wrth fy mhobl, ‘O fy mhobl, dilynwch y negeswyr. Dilynwch y rhai nad ydynt yn gofyn am wobr gennych, oherwydd y maent wedi’u harwain yn gywir.’",
+    "Doeddwn i ddim yn broffwyd, ond roeddwn i'n credu yn y negeswyr ac yn annog fy mhobl i wneud yr un peth.",
+    "Gwnaeth fy mhobl watwar fy nghyngor a'm cyhuddo o fod yn eithafwr.",
+    "Pan wnaethon nhw fy lladd, dywedodd Allah wrthyf am fynd i mewn i Baradwys, a dymunais y gallai fy mhobl wybod y maddeuant a'r anrhydedd a gefais."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Y dyn o ran bellaf y ddinas (Ya-Sin)",
+        "Un o'r tri negesydd a anfonwyd i'r ddinas",
+        "Masnachwr amlwg y ddinas",
+        "Rheolwr y ddinas",
+        "Arweinydd yr anghredinwyr"
+      ],
+      "answer": "Y dyn o ran bellaf y ddinas (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Treial/Digwyddiad",
+      "options": [
+        "Yn pregethu i'w bobl i ddilyn y negeswyr",
+        "Adeiladu llong i achub credinwyr rhag llifogydd",
+        "Cael eich taflu i'r tân dros ffydd",
+        "Cael eich llyncu gan forfil",
+        "Cael teyrnas a doethineb"
+      ],
+      "answer": "Yn pregethu i'w bobl i ddilyn y negeswyr"
+    },
+    "location": {
+      "label": "Elfen Allweddol",
+      "options": [
+        "Y rhan bellaf o'r ddinas",
+        "Yr arch",
+        "Y ffynnon",
+        "Y llwyn llosgi",
+        "Yr ogof"
+      ],
+      "answer": "Y rhan bellaf o'r ddinas"
+    },
+    "outcome": {
+      "label": "Canlyniad",
+      "options": [
+        "Aeth i mewn i Baradwys a dymuno y gallai ei bobl wybod ei faddeuant",
+        "Boddi gyda'i bobl am wrthod y neges",
+        "Rhoddwyd gwyrth y gamel fenywaidd",
+        "Daeth yn rheolwr ar ôl ei brawf",
+        "Cafodd ei achub gan Allah ac arhosodd gyda'i bobl"
+      ],
+      "answer": "Aeth i mewn i Baradwys a dymuno y gallai ei bobl wybod ei faddeuant"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

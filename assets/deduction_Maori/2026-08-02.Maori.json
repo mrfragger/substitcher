@@ -1,0 +1,61 @@
+{
+  "title": "I waenganui i te Ao me te Rangi",
+  "intro": "Kei te tatari mai tētahi wairua ngaro ki a koe i roto i ngā whārangi tapu o te hītori atua, e mau ana i ngā tohu me ngā merekara e tangi tonu ana i roto i ngā tau. I a koe e whai ana i te ara o ngā tohu, ka haere koe i roto i tētahi kōrero kua tohua ki ngā merekara - mai i tētahi tīmatanga merekara ki tētahi pikinga ki tua atu o te rangi. Ka taea e koe te tautuhi i tēnei pononga manaaki i mua i te tohu whakamutunga?",
+  "clues": [
+    "I tonoa ahau hei karere ki ngā tamariki a Iharaira me te kawe i ngā rongo o te aroha me te māramatanga.",
+    "He tohu merekara tōku whānautanga — i haere mai ahau ki tēnei ao, kāore he matua, nā te whakahau a te Kaha Rawa.",
+    "I ahau e tamariki ana, i kōrero ahau, e tiaki ana i te honore o tōku whaea i ngā whakapae a tōna iwi.",
+    "Nā te whakaaetanga a Allah, i hanga e ahau ngā manu i te paru, ā, i whakahaea e ahau te ora ki roto i a rātou — ā, rere atu ana rātou i mua i ngā kanohi o te hunga e mātakitaki ana.",
+    "I whakaorangia e au te hunga i whānau matapo, i whakaorangia te repera, ā, i whakaarahia anō hoki te hunga mate - heoi nā Allah ia merekara i hanga, ehara i te mea nāku ake.",
+    "I te wā i whakatakoto whakaaro ai ōku hoariri ki te whakangaro i ahau, ka whakaarahia ahau e Allah ki te rangi, ā, ka oati mai ka hoki mai ahau i mua i te Rā Whakawa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Poropiti a Ihaia (Ihu)",
+        "Poropiti a Mohi (Mōhi)",
+        "Poropiti a Āperahama (Aperahama)",
+        "Poropiti Muhammad",
+        "Poropiti a Hohepa (Yusup)"
+      ],
+      "answer": "Poropiti a Ihaia (Ihu)"
+    },
+    "trial": {
+      "label": "Te Wā Whakahirahira",
+      "options": [
+        "I whakaarahia ahau ki te rangi",
+        "I maka ahau ki roto i te ahi mura",
+        "I tūtaki ahau ki te ope taua nui a Parao",
+        "I horomia ahau e te tohorā nui",
+        "I hanga e au he āka ki runga i te maunga"
+      ],
+      "answer": "I whakaarahia ahau ki te rangi"
+    },
+    "location": {
+      "label": "Te Tohu Tapu i Whakaarihia",
+      "options": [
+        "I hanga manu e au i te uku",
+        "I hurihia e au te tokotoko hei nakahi",
+        "I wahia e au te marama kia rua",
+        "I whakahau ahau i te hau me te jinn",
+        "I whakaputaina mai e au he kamera uha i roto i te toka"
+      ],
+      "answer": "I hanga manu e au i te uku"
+    },
+    "outcome": {
+      "label": "He aha te mea i pā ki ahau",
+      "options": [
+        "I ara ake ki te rangi; i oati kia hoki mai",
+        "I noho hei rangatira nui o tētahi emepaea",
+        "I arahi ahau i taku iwi i te whakarau",
+        "I hoatu ki a ia te taonga o te ao kāore e rite",
+        "I tūtaki anō ahau ki tōku whānau i muri i te wehenga roa"
+      ],
+      "answer": "I ara ake ki te rangi; i oati kia hoki mai"
+    }
+  },
+  "verseRef": "43:59",
+  "arabic": "إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَـٰهُ مَثَلًۭا لِّبَنِىٓ إِسْرَٰٓءِيلَ",
+  "verse": "He [i.e., Jesus] was not but a servant upon whom We bestowed favor, and We made him an example for the Children of Israel. (43:59)"
+}

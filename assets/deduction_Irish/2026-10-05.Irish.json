@@ -1,0 +1,61 @@
+{
+  "title": "An tIontaobhas a Cuireadh ar Iontaoibh na hAbhann",
+  "intro": "Bhí anam os comhair foraithne dodhéanta, áit a raibh saol nuabheirthe i mbaol. Treoraithe ag inspioráid dhiaga, géilleadh d’ordú éadóchasach, agus cuireadh rún luachmhar ar seachrán ar an sruth, ach tugadh ar ais é ar bhealach gan choinne.",
+  "clues": [
+    "Bhí cónaí orm faoi scáth tíoránaigh a d'ordaigh marú na bhfireannach nuabheirthe.",
+    "Tháinig inspioráid dhiaga chugam, ag treorú dom gníomh éadóchasach agus croíbhriste a dhéanamh.",
+    "Chuir mé mo naíonán luachmhar i gcófra agus leag mé ar an abhainn ag sileadh é.",
+    "D’éirigh mo chroí folamh, agus beagnach gur nocht mé an rún, ach neartaigh Allah mo dhiongbháilteacht.",
+    "Chuir mé duine éigin chun aistear an linbh a leanúint síos an abhainn agus an sruth ag iompar an chliabhrach ar shiúl.",
+    "Fuair ​​teaghlach an tíoránaigh an páiste, agus sa deireadh, athaontaíodh mise le mo pháiste agus rinneadh banaltra díom."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Máthair an Fháidh Musa",
+        "Ásiya (Bean chéile an Fharó)",
+        "Muiream (Máthair an Fháidh Íosa)",
+        "Bean chéile an Fháidh Lut",
+        "Máthair an Fháidh Yahya (bean chéile Zakariya)"
+      ],
+      "answer": "Máthair an Fháidh Musa"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Chuir sí a leanbh i gcófra agus leag sí ar an abhainn é",
+        "Chuir sí a leanbh i bhfolach i bpluais",
+        "Thréig sí a leanbh sa bhfásach",
+        "Chaith sí a leanbh isteach sa tine",
+        "D’fhág sí a leanbh ag doras mosc"
+      ],
+      "answer": "Chuir sí a leanbh i gcófra agus leag sí ar an abhainn é"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Cófra ar snámh ar an abhainn",
+        "Tor dóite",
+        "Sloinne a d’iompaigh ina nathair",
+        "Bord lán le bia ó neamh",
+        "Camall baineann a seoladh mar chomhartha"
+      ],
+      "answer": "Cófra ar snámh ar an abhainn"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Athcheangail sí lena leanbh agus thug sí altranas dó.",
+        "Ní fhaca sí a leanbh arís riamh",
+        "Cuireadh chun báis í ag an tíoránach",
+        "Rinneadh banríon di san Éigipt",
+        "D’imigh sí go tír eile agus mhair sí ar deoraíocht"
+      ],
+      "answer": "Athcheangail sí lena leanbh agus thug sí altranas dó."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

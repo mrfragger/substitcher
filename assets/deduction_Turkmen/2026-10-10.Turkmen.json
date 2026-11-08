@@ -1,0 +1,61 @@
+{
+  "title": "Ýüňlü Skaut",
+  "intro": "Ýelleriň, görünmeýän jandarlaryň we asman jandarlarynyň üstünden höküm süren bir adamyň dolandyrýan patyşalygynda kiçijik we çalt bir agza hatardan ýitip gitdi - diňe uzakdaky milletiň ykbalyny täzeden şekillendirjek açyşlar bilen gaýdyp geldi. Bu ýiti gözli maglumatçy nadanlygyň kök uran ýerinde hakykaty ýagtylyga çykardy. Men kim?",
+  "clues": [
+    "Men adamlaryň, görünmeýän jandarlaryň we asman jandarlarynyň ýellere höküm sürýän ýeke-täk akylly hökümdara jogap berýän köşgünde gulluk etdim.",
+    "Men birnäçe wagtlap wezipesimde bolmadym we eger men kanagatlanarly sebäp görkezmesem, hökümdaryň gazabyna uçrajakdygym wada berildi.",
+    "Men uçup bilýän kiçijik bir jandar, ýiti görýänligim bilen tanalýaryn we meniň görnüşim wahy sahypalarynda gönüden-göni at bilen hormatlanyldy.",
+    "Men gaýdyp gelenimde, adamlaryň gökleri we ýeri ýaradan Zata gözlerini dikip, güne sežde edýän uzak ýurt barada habar getirdim.",
+    "Men beýik patyşalygyň hökümdary bolan, ajaýyp tagtda oturan, öň hiç haçan hakykaty bilmeýän bir aýaly gördüm.",
+    "Men Saba ülkesini açan we ýeliň üstünden höküm sürmek hukugy berlen pygamber-patyşanyň çakylyk hatyny getiren adam."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Hupu (Hudhud)",
+        "Süleýmanyň jülgesinden gelen garynja",
+        "Asif ibn Barhiýa",
+        "Ifrit Jin",
+        "Tagtyň Perişdesi"
+      ],
+      "answer": "Hupu (Hudhud)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Saba (Şeba) Patyşalygyna ekspedisiýa",
+        "Fyrownyň jadygöýleri bilen bolan çaknyşyk",
+        "Nuh pygamberiň sili",
+        "Ad kowumynyň ýok edilmegi",
+        "Gyzyl deňziň bölünmegi"
+      ],
+      "answer": "Saba (Şeba) Patyşalygyna ekspedisiýa"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Saba (Şeba) ýurdy",
+        "Sinaý dagy",
+        "Nuh pygamberiň gämisi",
+        "Ashab al-Kahfyň gowagy",
+        "Fyrownyň köşgi"
+      ],
+      "answer": "Saba (Şeba) ýurdy"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Bilkis Süleýmanyň köşgüne boýun egdi",
+        "Fyrown we onuň goşuny deňizde gark boldular",
+        "Ad kowmy güýçli ýel bilen ýok edildi",
+        "Fyrownyň jadygöýleri Musa pygambere ynanýardylar",
+        "Kafirleri uly bir sil heläk etdi"
+      ],
+      "answer": "Bilkis Süleýmanyň köşgüne boýun egdi"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

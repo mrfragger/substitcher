@@ -1,0 +1,61 @@
+{
+  "title": "L'Esperit de Fisança de la Revelacion",
+  "intro": "Dins los reialmes invisibles, un èsser de lutz pura se desplaça amb precision, executant cada comandament sens esitacion. Aquesta figura a parlat a de servicials causits, a portat de paraulas d'orientacion, e a assistit al desvolopament dels decrèts divins a travèrs los sègles. Qual es aquela anma onorada?",
+  "clues": [
+    "Soi un èsser de lutz pura, creat de lutz, e ai pas jamai desobeït un sol comandament de mon Senhor.",
+    "Me movi entre los cèls e la tèrra, davalant amb los decrets del Misericordiós.",
+    "Foguèri mandat a una nòbla verge dins lo santuari, li anonciant un filh pur.",
+    "Soi l'esperit de santetat, e sostenguèri un profèta que recebèt de signes clars e l'Evangèli.",
+    "Venguèri dins una cauna sus una montanha per liurar los primièrs mots d'una recitacion que seriá conservada per totjorn.",
+    "Soi l'esperit de fisança, e foguèri ieu que faguèri davalar l'Alcoran sul còr del messatgièr final."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Jibril (Gabriel)",
+        "Mikail (Michael)",
+        "L'Àngel de la Mòrt",
+        "Malik (Gardian de l'Infèrn)",
+        "Harut (un dels dos angèls de Babilònia)"
+      ],
+      "answer": "Jibril (Gabriel)"
+    },
+    "trial": {
+      "label": "Mission/Ròtle clau",
+      "options": [
+        "En liurant la revelacion als profètas",
+        "Sonant la trompeta lo jorn del jutjament",
+        "Gardant las pòrtas de l'Infèrn",
+        "Enregistrar las gestas dels umans",
+        "Fasent tombar la pluèja"
+      ],
+      "answer": "En liurant la revelacion als profètas"
+    },
+    "location": {
+      "label": "Atribut clau o títol",
+      "options": [
+        "L'Esperit Sant (Ruh al-Qudus)",
+        "L'Esperit del Poder",
+        "L'Esperit de Misericòrdia",
+        "L'Esperit de l'Orientacion",
+        "L'Esperit de la Vertat"
+      ],
+      "answer": "L'Esperit Sant (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "Resultat de la Mission",
+      "options": [
+        "L'Alcoran foguèt revelat al profèta Maomet",
+        "La trompeta foguèt sonada lo jorn del jutjament",
+        "L'infèrn èra gardat e sas pòrtas èran barradas",
+        "Lo Libre de las Accions foguèt presentat a Allah",
+        "La pluèja foguèt lançada sus la tèrra"
+      ],
+      "answer": "L'Alcoran foguèt revelat al profèta Maomet"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

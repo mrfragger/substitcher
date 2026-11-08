@@ -1,0 +1,61 @@
+{
+  "title": "A kinyilatkoztatás megbízható szelleme",
+  "intro": "A láthatatlan birodalmakban egy tiszta fényből álló lény mozog precízen, minden parancsot habozás nélkül végrehajt. Ez az alak beszélt a kiválasztott szolgákhoz, útmutatást hozott, és tanúja volt az isteni rendeletek kibontakozásának a korokon át. Ki ez a tisztelt lélek?",
+  "clues": [
+    "Tiszta fényből való lény vagyok, fényből teremtve, és soha nem szegtem meg Uram egyetlen parancsát sem.",
+    "Az ég és a föld között mozgok, a Legirgalmasabb rendeleteivel szállok alá.",
+    "Elküldtek egy nemes szűzhöz a szentélybe, hogy tiszta fiút jelentsek neki.",
+    "Én vagyok a szentség lelke, és támogattam egy prófétát, aki világos jeleket és az evangéliumot kapta.",
+    "Egy hegyi barlanghoz értem, hogy elmondjam egy szavalat első szavait, melyek örökre megmaradnak.",
+    "Én vagyok a hűséges lélek, és én voltam az, aki lehoztam a Koránt az utolsó küldött szívébe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ki vagyok én?",
+      "options": [
+        "Dzsibril (Gábriel)",
+        "Mikail (Michael)",
+        "A halál angyala",
+        "Malik (a pokol őrzője)",
+        "Hárut (a két babiloni angyal egyike)"
+      ],
+      "answer": "Dzsibril (Gábriel)"
+    },
+    "trial": {
+      "label": "Fő küldetés/szerepkör",
+      "options": [
+        "Kinyilatkoztatást ad a prófétáknak",
+        "A trombita megfújása az ítélet napján",
+        "A pokol kapuinak őrzése",
+        "Az emberek tetteinek feljegyzése",
+        "Az eső esését okozza"
+      ],
+      "answer": "Kinyilatkoztatást ad a prófétáknak"
+    },
+    "location": {
+      "label": "Kulcsattribútum vagy cím",
+      "options": [
+        "A Szentlélek (Ruh al-Qudus)",
+        "A hatalom szelleme",
+        "Az Irgalmasság Lelke",
+        "Az Útmutatás Szelleme",
+        "Az Igazság Lelke"
+      ],
+      "answer": "A Szentlélek (Ruh al-Qudus)"
+    },
+    "outcome": {
+      "label": "A misszió eredménye",
+      "options": [
+        "A Koránt Mohamed prófétának kinyilatkoztatták",
+        "Az ítélet napján megfújták a trombitát",
+        "A poklot őrizték, kapuit zárva tartották",
+        "A Cselekedeteinek Könyvét Allahnak adták át",
+        "Az esőt a földre küldték"
+      ],
+      "answer": "A Koránt Mohamed prófétának kinyilatkoztatták"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

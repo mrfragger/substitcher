@@ -1,0 +1,61 @@
+{
+  "title": "Yashirin e'tiqod ovozi",
+  "intro": "Kufr qonuni bo'lgan zolim sudning markazida yolg'iz bir qalb imon va qo'rquv arqonida yurar edi. Hokimiyat markaziga yaqin bo'lgan bu shaxs payg'ambarning xabari nafrat va tahdidlar bilan kutib olinganini tinglardi. Haqiqat lahzasi yetib keldi va bu odamni jimgina xavfsizlik va xavfli haqiqatni gapirish o'rtasida tanlov qilishga majbur qildi. Bu jasur himoyachining kimligini ochib bera olasizmi?",
+  "clues": [
+    "Men zolimning xonadonida yashadim va ilohiy alomatlarni rad etgan takabburlikni o'z ko'zim bilan ko'rdim.",
+    "Men imonimni sir tutdim, butparastlik saroyida yashiringan xazina bo'lib.",
+    "Men xizmat qilgan rahbarning Muso ismli Allohning elchisini o'ldirish uchun fitna uyushtirganini eshitdim.",
+    "Men ularning mantig'iga shubha bilan qaradim va ularga Nuh, Od va Samud qavmlarining taqdirini eslatdim.",
+    "Men xalqimga tanqidiy savol berdim: “Agar u yolg‘onchi bo‘lsa, yolg‘oni o‘z zimmasida; agar rostgo‘y bo‘lsa, u va’da qilgan ba’zi narsalar sizga ham tegadi”.",
+    "Mening hikoyam \"Kechiruvchi\" surasida imon namunasi sifatida hikoya qilinadi, u yerda men xalqimni qudratlilarning hiylalaridan ogohlantirgan edim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Fir'avn oilasidan bo'lgan mo'min",
+        "Xomon",
+        "Fir'avn sehrgarlari",
+        "Qorun",
+        "Samiri"
+      ],
+      "answer": "Fir'avn oilasidan bo'lgan mo'min"
+    },
+    "trial": {
+      "label": "Mening sinovim nima edi?",
+      "options": [
+        "Zolim saroyida Muso payg'ambarni himoya qilish",
+        "Osmonga yetib borish uchun baland minora qurish",
+        "Yonayotgan olovga tashlanmoqda",
+        "Gigant baliq tomonidan yutib yuborilmoqda",
+        "Barcha boylik va sog'lig'ini yo'qotish"
+      ],
+      "answer": "Zolim saroyida Muso payg'ambarni himoya qilish"
+    },
+    "location": {
+      "label": "Mening argumentimning mavzusi nima edi?",
+      "options": [
+        "Payg'ambarning xabarini rad etishning oqibati",
+        "Muqaddas daraxtdan belgi talab qilish",
+        "Eritilgan zargarlik buyumlaridan buzoqning yaratilishi",
+        "Toshdan tuyaning mo''jizasi",
+        "Hukmdorning tushlarining ta'biri"
+      ],
+      "answer": "Payg'ambarning xabarini rad etishning oqibati"
+    },
+    "outcome": {
+      "label": "Natija qanday bo'ldi?",
+      "options": [
+        "Alloh bu bandani ularning yomon hiylalaridan qutqardi",
+        "Butun sud darhol Islomni qabul qildi",
+        "Zolim cho'kib ketayotgan paytda tavba qildi",
+        "Zolim yer tomonidan yutib yuborildi",
+        "Shaxs uzoq yurtga surgun qilindi"
+      ],
+      "answer": "Alloh bu bandani ularning yomon hiylalaridan qutqardi"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

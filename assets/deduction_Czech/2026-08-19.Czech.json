@@ -1,0 +1,61 @@
+{
+  "title": "Národ, který se vzepřel přirozenému řádu",
+  "intro": "V regionu, jehož příběh se ozývá věky, žila komunita v otevřené vzpouře proti zákonům čistoty. Jejich činy byly tak bezprecedentní, že jsou připomínány jako varování pro celé lidstvo. Kdo byly tyto duše a jaký osud je potkal?",
+  "clues": [
+    "Bydleli jsme v zemi podél cesty, kterou cestovatelé často procházeli, ale my jsme jejich cestu učinili nebezpečnou.",
+    "Dopustili jsme se takových obscénností, jakých se nikdo na světě nikdy předtím nedopustil.",
+    "Jeden z nás nás vyzval k opuštění našich cest, ale my jsme ho odmítli a požadovali trest, pokud byl pravdomluvný.",
+    "Když do našeho města přijeli pohlední hosté, snažili jsme se je napadnout, aniž bychom věděli, že jsou posly zkázy.",
+    "Byli jsme varováni před hrozným trestem, pokud nepřestaneme, ale my jsme se varování vysmívali a zůstali jsme ve svém hříchu.",
+    "Z nebe na nás padal déšť kamení a naše domy se zřítily, nezanechávaje po sobě žádnou stopu kromě znamení pro ty, kdo přemýšlejí."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Lidé z Lutu",
+        "Lidé z Thamudu",
+        "Lidé z A'adu",
+        "Lidé z Madyanu",
+        "Lidé ze Saby"
+      ],
+      "answer": "Lidé z Lutu"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Dopustil se nebývalé nemravnosti a zablokoval silnice",
+        "Uctíval zlaté tele",
+        "Zabil posvátnou velbloudičku",
+        "Podváděli v obchodě a okrádali lidi",
+        "Postavil vznešenou věž, aby vyzval nebesa"
+      ],
+      "answer": "Dopustil se nebývalé nemravnosti a zablokoval silnice"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Andělé převlečení za pohledné hosty",
+        "Velbloudice vycházející ze skály",
+        "Hůl proměňující se v hada",
+        "Loď postavená na hoře",
+        "Oheň, který se stal chladným a mírumilovným"
+      ],
+      "answer": "Andělé převlečení za pohledné hosty"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Zničen deštěm kamení z nebe",
+        "Pohlceno zemí",
+        "Utopil se ve velké povodni",
+        "Zasažen křičícím výbuchem",
+        "Proměněni v opice"
+      ],
+      "answer": "Zničen deštěm kamení z nebe"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

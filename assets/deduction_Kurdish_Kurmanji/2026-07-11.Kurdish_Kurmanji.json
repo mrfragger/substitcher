@@ -1,0 +1,61 @@
+{
+  "title": "Rêwiyên zeviya kesk",
+  "intro": "Di serdemeke kevnar de, du kesan li welatên cîran xwedî derketin. Riyên wan bi hev ve girêdayî bûn, lê dilên wan wan ber bi cihên pir cuda ve birin. Yek di rêya rast de meşiya, lê yê din di tariya înkarê de winda bû. Ma hûn dikarin sirra van herdu parêzvanên berhemê eşkere bikin?",
+  "clues": [
+    "Min berhemên zêde hebûn, berhemên geş ku çavên temaşevanan matmayî dihiştin.",
+    "Cîranê min ji min jî mezintir xwedî bereket bû, lê min ji para xwe bêtir para wan dixwest.",
+    "Min pêşniyar kir ku em berhemên wan bi tevahî tune bikin, da ku her tiştî di bin kontrola min de bikin.",
+    "Min dexlê xwe jî wêran kir, bi plana xwe ya bêaqil her tişt wêran kir.",
+    "Dema ku berhemên min hişk dibûn û dewlemendiya min di şevekê de bû toz, ez bêçare mam.",
+    "Min di axretê de tu parek tunebû, û cihê min ê dawîn bû çalek ji agirê geş."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Ew mirovê ku vejîn û darizandin înkar kir",
+        "Serwerê ku cotkarê rastdar zilm kir",
+        "Xwediyê erdê yê dewlemend ê ku bê spasdar bû",
+        "Cotkarê ku erdê cîranê xwe dixwest",
+        "Hevkarê xayîn ê ku plana wêrankirinê kiribû"
+      ],
+      "answer": "Cotkarê ku erdê cîranê xwe dixwest"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ceribandina wergirtina wehya îlahî",
+        "Pirsgirêka dewlemendî û sebirê",
+        "Ceribandina wêrankirina debara mirovekî rast",
+        "Fermana dabeşkirina mîratê bi dadperwerî",
+        "Têkoşîna li dijî zilma dagirkeran"
+      ],
+      "answer": "Ceribandina wêrankirina debara mirovekî rast"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Baxçeyên kesk ên bihuştê",
+        "Du zeviyên çandiniyê yên cîran",
+        "Çiyayên ku şahidê wêranbûnê bûn",
+        "Cihê pîroz ê Mekkeyê",
+        "Qeraxên çemê welatekî pîroz"
+      ],
+      "answer": "Du zeviyên çandiniyê yên cîran"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bihuşta herheyî wek xelata rastdariyê",
+        "Wêrankirina tevahî ya her du berheman di vê jiyanê de",
+        "Sirgûn û gerokî heta mirinê",
+        "Zewqiya demkî û dû re agirê herheyî",
+        "Vegerandinek mûcîzeyî û xelatek duqat"
+      ],
+      "answer": "Wêrankirina tevahî ya her du berheman di vê jiyanê de"
+    }
+  },
+  "verseRef": "68:30",
+  "arabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَـٰوَمُونَ",
+  "verse": "Then they approached one another, blaming each other. (68:30)"
+}

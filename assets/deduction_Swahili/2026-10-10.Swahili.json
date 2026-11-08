@@ -1,0 +1,61 @@
+{
+  "title": "Skauti Mwenye Manyoya",
+  "intro": "Ndani ya ufalme uliotawaliwa na mtu aliyepewa mamlaka juu ya upepo, viumbe visivyoonekana, na viumbe vya angani, mshiriki mmoja mdogo na mwepesi alitoweka kutoka kwenye safu - na kurudi na mafunuo ambayo yangebadilisha hatima ya taifa la mbali. Mtoa habari huyu mwenye macho makini alileta ukweli kwenye mwanga ambapo ujinga ulikuwa umeota mizizi. Mimi ni Nani?",
+  "clues": [
+    "Nilihudumu katika mahakama ambapo wanadamu, viumbe visivyoonekana, na viumbe vya angani viliitikia mtawala mmoja mwenye busara aliyeamuru upepo wenyewe.",
+    "Nilikaa mbali na wadhifa wangu kwa muda, na ghadhabu ya mtawala iliahidiwa iwapo ningeshindwa kutoa sababu ya kuridhisha.",
+    "Mimi ni kiumbe mdogo anayeruka, anayejulikana kwa kuona kwa kasi, na aina yangu iliheshimiwa kwa kutajwa moja kwa moja katika kurasa za ufunuo.",
+    "Niliporudi, nilileta habari za nchi ya mbali ambapo watu walisujudu jua, wakiwa vipofu kwa Yule aliyeumba mbingu na dunia.",
+    "Nilimkuta mwanamke akitawala ufalme mkubwa, ameketi kwenye kiti cha enzi kizuri, ambaye hakuwahi kujua ukweli hapo awali.",
+    "Mimi ndiye niliyegundua ufalme wa Saba' na kubeba barua ya mwaliko kutoka kwa nabii-mfalme aliyepewa mamlaka juu ya upepo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Hudihudi (Hudhud)",
+        "Chungu kutoka Bonde la Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit the Jinn",
+        "Malaika wa Kiti cha Enzi"
+      ],
+      "answer": "Hudihudi (Hudhud)"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Safari ya kwenda Ufalme wa Saba (Sheba)",
+        "Mzozo na wachawi wa Farao",
+        "Mafuriko ya Nabii Nuh",
+        "Kuangamizwa kwa Watu wa 'Ad",
+        "Kugawanyika kwa Bahari Nyekundu"
+      ],
+      "answer": "Safari ya kwenda Ufalme wa Saba (Sheba)"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Nchi ya Saba (Sheba)",
+        "Mlima Sinai",
+        "Sanduku la Nabii Nuh",
+        "Pango la Ashab al-Kahf",
+        "Jumba la Farao"
+      ],
+      "answer": "Nchi ya Saba (Sheba)"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Bilqis alijisalimisha kwa mahakama ya Sulaiman",
+        "Farao na jeshi lake walizama baharini",
+        "Watu wa 'Ad waliangamizwa na upepo mkali",
+        "Wachawi wa Farao walimwamini Nabii Musa",
+        "Gharika kubwa iliwaangamiza makafiri"
+      ],
+      "answer": "Bilqis alijisalimisha kwa mahakama ya Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

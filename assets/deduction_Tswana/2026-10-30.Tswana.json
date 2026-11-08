@@ -1,0 +1,61 @@
+{
+  "title": "Go Tlhokomela ga Batho ba ba Hlofetsweng",
+  "intro": "O tloga o kopana le mowa o o lekilweng ke kgaogano e e tseneletseng, o matlho a one a neng a itse puo ya dikeledi le fa go ntse jalo pelo ya one e sa latlhegelwe ke tsholofelo. Mo kgannyeng ya tsietso, go tlhologelelwa, le go kopana gape kwa bofelong, motlhanka yono yo o tlotlegang wa ga Allah o ne a nna letshwao la bopelotelele ka metlha. Ke mang yo o neng a itshokela dingwaga tsa botlhoko jo bo fitlhegileng, mme a bo a bona le go itumela gape mo motsotsong o le mongwe fela?",
+  "clues": [
+    "Ke moporofeti yo leina la gagwe le neng la nna letshwao la bopelotelele mo sefatlhegong sa tatlhegelo e kgolo.",
+    "Ke ne ke segofaditswe ka barwa ba le bantsi, mme mongwe o ne a tsewa mo go nna ke lefufa la batho ba bangwe.",
+    "Lorato lwa me mo go yo o latlhegileng yoo lo ne lo le boteng thata mo matlho a me a neng a fetoga masweu ka ntlha ya kutlobotlhoko, le fa go ntse jalo ga ke ise ke ko ke ngongorege fa e se kwa go Allah fela.",
+    "Ke ne ka romela bomorwaake gape go ya go batla yo ke neng ke latlhegetswe le morwarraagwe, ke ba rotloetsa gore ba se ka ba latlhegelwa ke tsholofelo.",
+    "Fa motshodi wa dikgang tse di molemo a goroga, ke ne ka latlhelwa hempe mo sefatlhegong sa me, mme ka tshoganyetso fela lefatshe le ne la tlhapa gape.",
+    "Ke itsege jaaka Iseraele, mme mo go bomorwaake ba ba lesome le bobedi go ne ga tswa merafe e le lesome le bobedi ya setšhaba se segolo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke Mang?",
+      "options": [
+        "Moporofeti Ya'qub (Jakobe)",
+        "Moporofeti Yusuf (Josefa)",
+        "Moporofeta Ishaq (Isaka)",
+        "Moporofeti Ibrahime (Aborahame)",
+        "Moporofeti Ayyub (Jobe)"
+      ],
+      "answer": "Moporofeti Ya'qub (Jakobe)"
+    },
+    "trial": {
+      "label": "Teko/Tiragalo",
+      "options": [
+        "Go kgaogana le morwa yo o rategang ka dingwaga di le dintsi",
+        "Go latlhelwa mo molelong o o tukang",
+        "E meditswe ke tlhapi e kgolo",
+        "O tshwerwe ke bolwetse jo bo masisi jwa letlalo",
+        "Go tlhoka ngwana go fitlha o tsofala"
+      ],
+      "answer": "Go kgaogana le morwa yo o rategang ka dingwaga di le dintsi"
+    },
+    "location": {
+      "label": "Elemente ya Botlhokwa",
+      "options": [
+        "Hempe ya ga Yusuf",
+        "Badiri ba Musa",
+        "Letlole la ga Nuhe",
+        "Kamela e namagadi ya ga Salih",
+        "Palamonwana ya ga Sulayman"
+      ],
+      "answer": "Hempe ya ga Yusuf"
+    },
+    "outcome": {
+      "label": "Botso",
+      "options": [
+        "O ne a kgona go bona gape mme a kopana gape le morwawe",
+        "Go newa phenyo mo kgosing ya bogateledi",
+        "Go tlhatlosediwa kwa magodimong a tshela",
+        "A tlhomiwa go nna mmusi wa Egepeto",
+        "Go fiwa ngwana wa mosimane mo botsofeng e le kgakgamatso"
+      ],
+      "answer": "O ne a kgona go bona gape mme a kopana gape le morwawe"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

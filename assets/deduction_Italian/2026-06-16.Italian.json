@@ -1,0 +1,61 @@
+{
+  "title": "La voce che chiamava alla giustizia",
+  "intro": "Nell'antica terra di Madian, dove fiorivano i commerci e le carovane attraversavano vasti deserti, un profeta di Allah si levò tra coloro che si erano allontanati dalla retta via. Questo servo di Allah fu inviato con una missione divina che avrebbe messo alla prova la fede di un'intera comunità. Attraverso prove di pazienza e perseveranza, quest'anima rimase salda nel trasmettere un avvertimento che avrebbe riecheggiato nella storia. Riuscirai a svelare il mistero di questo messaggero incrollabile?",
+  "clues": [
+    "Sono stato scelto da Allah per guidare un popolo che aveva dimenticato i principi di equità e onestà nei propri rapporti.",
+    "Ho pronunciato un messaggio in cui esortavo la mia comunità ad adorare solo Allah e a parlare con sincerità in ogni circostanza.",
+    "Ho messo in guardia in particolare contro la pratica corrotta di consumare ricchezza con mezzi illeciti e ho sottolineato l'importanza di pesi e misure giusti.",
+    "La mia gente ha reagito ai miei avvertimenti con scherno, minacciando di cacciarmi dalla loro terra se avessi continuato a diffondere il mio messaggio.",
+    "Nonostante la loro ostilità, sono rimasto fermo nella mia missione, dichiarando che la mia ricompensa appartiene solo ad Allah.",
+    "Il mio popolo fu colpito da una punizione devastante, mentre io fui salvato dalla misericordia del mio Signore, e la mia missione fu compiuta."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sono io?",
+      "options": [
+        "Profeta Shu'aib",
+        "Profeta Hud",
+        "Profeta Salih",
+        "Profeta Lutero",
+        "Profeta Muhammad ﷺ"
+      ],
+      "answer": "Profeta Shu'aib"
+    },
+    "trial": {
+      "label": "Prova/Evento",
+      "options": [
+        "Di fronte a un popolo che rifiutava la verità e minacciava punizioni per aver diffuso il messaggio di Allah.",
+        "Assistere al Grande Diluvio che distrusse gli increduli di una nazione",
+        "Ricevere la rivelazione mentre si viaggia attraverso la valle di 笃",
+        "La prova di fede quando un sovrano oppressivo tentò di mettere a tacere la chiamata al monoteismo",
+        "Una nazione che chiede la pioggia durante una grave siccità dopo anni di disobbedienza"
+      ],
+      "answer": "Di fronte a un popolo che rifiutava la verità e minacciava punizioni per aver diffuso il messaggio di Allah."
+    },
+    "location": {
+      "label": "Elemento chiave",
+      "options": [
+        "La terra di Madian, dove il mio popolo svolgeva i suoi commerci e scambi.",
+        "Il ponte di una grande nave che salvò i credenti da un'alluvione catastrofica",
+        "Una grotta in una montagna rocciosa dove sette giovani cercarono rifugio dalle persecuzioni",
+        "La città sacra di Gerusalemme, dove venivo condotto per un viaggio notturno",
+        "Un palazzo nella Saba dove un grande regno si preparava ad assistere a un segno divino"
+      ],
+      "answer": "La terra di Madian, dove il mio popolo svolgeva i suoi commerci e scambi."
+    },
+    "outcome": {
+      "label": "Risultato",
+      "options": [
+        "Il mio popolo fu colpito da un castigo terribile, mentre io fui salvato, perché avevo adempiuto al mio dovere verso Allah.",
+        "I miscredenti furono trasformati in scimmie poiché violarono i confini sacri di Allah",
+        "I miei nemici hanno abbracciato la fede dopo aver assistito a una trasformazione miracolosa",
+        "La terra fu benedetta da piogge abbondanti e prosperità dopo che il popolo si pentì",
+        "Sono stato martirizzato dal mio stesso popolo per essermi rifiutato di abbandonare la mia missione."
+      ],
+      "answer": "Il mio popolo fu colpito da un castigo terribile, mentre io fui salvato, perché avevo adempiuto al mio dovere verso Allah."
+    }
+  },
+  "verseRef": "26:177",
+  "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "verse": "When Shuʿayb said to them, \"Will you not fear Allāh? (26:177)"
+}

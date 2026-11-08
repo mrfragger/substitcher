@@ -1,0 +1,61 @@
+{
+  "title": "Kätketyn viisauden palvelija",
+  "intro": "Koraanin kertomusten valtavassa kudelmassa seisoo arvoituksellinen hahmo, Allahin palvelija, jota on armostettu jumalallisella tiedolla ja armolla. Tämä salaperäinen henkilö kohtasi yhden suurimmista profeetoista, mikä johti matkaan, joka oli täynnä hämmentäviä tekoja, jotka kyseenalaistivat ihmisen ymmärryksen rajat. Jokainen teko, vaikka se näytti epäoikeudenmukaiselta, kätki syvällisiä opetuksia kohtalosta, kärsivällisyydestä ja jumalallisen säädöksen taustalla olevasta näkymättömästä viisaudesta. Kuka tämä varjoisa hahmo on, ja mitä totuuksia hän paljasti?",
+  "clues": [
+    "Olin Allahin palvelija, valittu erityistä tietoa ja armoa varten.",
+    "Suuri profeetta halusi oppia minulta, ja suostuin tiukoin ehdoin.",
+    "Tapaamisemme aikana tein kolme tekoa, jotka tuntuivat toveristani epäoikeudenmukaisilta.",
+    "Vaurioin köyhien ihmisten veneen, mutta se oli kätkettyä armoa.",
+    "Riistin nuoren pojan hengen, vaikka se vaikutti julmalta, tein sen säästääkseni hänen vanhempansa surulta.",
+    "Rakensin uudelleen muurin kaupunkiin, joka ei tarjonnut meille vieraanvaraisuutta, ja paljastin sen alta aarteen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Al-Khidr (vanhurskas palvelija)",
+        "Kahden puutarhan omistaja",
+        "Yksi luolan ihmisistä",
+        "Kuningas, joka väitteli Ibrahimin kanssa",
+        "Mies joka nukkui sata vuotta"
+      ],
+      "answer": "Al-Khidr (vanhurskas palvelija)"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Profeetta Musan kohtaaminen kahden meren risteyksessä",
+        "Esteen rakentaminen Gogia ja Magogia vastaan",
+        "Heitetään suureen tuleen",
+        "Meren jakaminen kahteen puoliskoon",
+        "Tooran taulujen vastaanottaminen"
+      ],
+      "answer": "Profeetta Musan kohtaaminen kahden meren risteyksessä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kahden meren risteyskohta",
+        "Siinainvuori",
+        "Thawrin luola",
+        "Tuwan laakso",
+        "Zamzamin kaivo"
+      ],
+      "answer": "Kahden meren risteyskohta"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Hän selitti hämmentävien tekojensa taustalla olevan jumalallisen viisauden ja erosi Mooseksen kanssa",
+        "Hänelle myönnettiin profeetan arvo matkan jälkeen",
+        "Vene tuhoutui myrskyssä",
+        "Poika herätettiin henkiin",
+        "Hän rakensi moskeijan karuun kaupunkiin"
+      ],
+      "answer": "Hän selitti hämmentävien tekojensa taustalla olevan jumalallisen viisauden ja erosi Mooseksen kanssa"
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

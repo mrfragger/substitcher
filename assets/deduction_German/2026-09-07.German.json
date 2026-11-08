@@ -1,0 +1,61 @@
+{
+  "title": "Der Begleiter, der sich abwandte",
+  "intro": "Sie werden nun die Geschichte einer Seele enthüllen, die im Schatten des Prophetentums lebte und doch einen Weg wählte, der ins Verderben führte. Diese Gestalt teilte ein Haus mit einem der auserwählten Gesandten Allahs, fiel aber in der Glaubensprüfung durch. Wer ist dieser verlorene Gefährte?",
+  "clues": [
+    "Ich lebte unter Menschen, die den Ruf zur Gerechtigkeit ablehnten, und ich widersetzte mich ihnen nicht.",
+    "Ich war mit einem Propheten Allahs verheiratet, teilte aber seinen Glauben nicht.",
+    "Als die Boten mit einer Warnung zu mir nach Hause kamen, glaubte ich ihnen nicht.",
+    "Mein Ehepartner wurde angewiesen, die Stadt mit den Gläubigen zu verlassen, und ich war nicht unter ihnen.",
+    "Die Strafe traf mein Volk, und ich wurde zusammen mit ihnen vernichtet.",
+    "Im Koran werde ich zusammen mit der Frau von Nuh in der Sure At-Tahrim als Beispiel für Unglauben erwähnt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Ehefrau des Propheten Nuh",
+        "Ehefrau des Propheten Lut",
+        "Ehefrau des Propheten Ibrahim",
+        "Ehefrau des Propheten Musa",
+        "Ehefrau des Propheten Ayyub"
+      ],
+      "answer": "Ehefrau des Propheten Lut"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Sie betrog ihren Mann, indem sie ihm nicht glaubte.",
+        "Sie lehnten die Botschaft des Propheten Hud ab.",
+        "Sie verehrten Götzenbilder offen in der Kaaba",
+        "Sie plante gegen die Mission ihres Mannes.",
+        "Sie weigerte sich, die Prophetenschaft ihres Sohnes anzuerkennen."
+      ],
+      "answer": "Sie betrog ihren Mann, indem sie ihm nicht glaubte."
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Die Stadt Sodom",
+        "Die Stadt Madyan",
+        "Die Stadt Iram",
+        "Die Stadt Babylon",
+        "Die Stadt Jerusalem"
+      ],
+      "answer": "Die Stadt Sodom"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Gerettet mit ihrem Ehemann",
+        "Mit den Ungläubigen vernichtet",
+        "Verbannt in ein fernes Land",
+        "Er bereute und ihm wurde vergeben.",
+        "Wurde später gläubig"
+      ],
+      "answer": "Mit den Ungläubigen vernichtet"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

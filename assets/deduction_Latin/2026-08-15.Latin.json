@@ -1,0 +1,61 @@
+{
+  "title": "Vox Contra Falsa Pondera",
+  "intro": "Anima fidelis inter negotiatores et mercatores, in terra ubi staterae inclinatae et mensurae breviores erant, elevata est. Hic homo solus contra fraudulentiam totius gentis stetit, eos ad aequitatem et cultum Unius Dei Veri vocans. Quamquam nuntius clarus erat et vocatio iusta, populus audire recusavit et fato vastanti obstiterunt. Potesne hunc nobilem nuntium ex Corano agnoscere?",
+  "clues": [
+    "Nuntius missus sum ad populum cuius vita circa commercium et mercaturam vertebatur.",
+    "Populus meus notus est per totam terram ob mensuram breviorem et fraudem in ponderibus.",
+    "Viatores quoque in via terrebant et corruptionem per totam terram disseminabant.",
+    "Hortatus sum eos ut solum Allah colerent et in agendis suis cum aliis omnino honesti essent.",
+    "Sermonem meum reppulerunt et minati sunt se me et eos qui mecum crediderunt de terra expellere.",
+    "Deus me et sectatores meos misericordia Sua servavit, dum iniquos poena gravissima correpti sunt."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Shuaib",
+        "Propheta Lut",
+        "Propheta Hud",
+        "Propheta Salih",
+        "Propheta Nuh"
+      ],
+      "answer": "Propheta Shuaib"
+    },
+    "trial": {
+      "label": "Peccatum Populi Mei",
+      "options": [
+        "Fraus in ponderibus et mensuris",
+        "Turrim altam contra caelum aedificans",
+        "Camelam a rupe postulans",
+        "Prophetas ad eos missis percutiens",
+        "Infantes puellas vivas sepelire"
+      ],
+      "answer": "Fraus in ponderibus et mensuris"
+    },
+    "location": {
+      "label": "Populus Meus",
+      "options": [
+        "Populus Madyani",
+        "Populus 'Aad",
+        "Populus Thamud",
+        "Populus Pharaonis",
+        "Populus Sabbati"
+      ],
+      "answer": "Populus Madyani"
+    },
+    "outcome": {
+      "label": "Finis Eorum",
+      "options": [
+        "Clamor acutus eos nocte cepit",
+        "Ingens diluvium omnes submersit",
+        "Ventus frigidus et vehemens eos delevit",
+        "Lapides ex argilla cocta super eos pluerunt",
+        "In columnas lapideas conversae sunt"
+      ],
+      "answer": "Clamor acutus eos nocte cepit"
+    }
+  },
+  "verseRef": "11:94",
+  "arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًۭا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍۢ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ",
+  "verse": "And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone (11:94)"
+}

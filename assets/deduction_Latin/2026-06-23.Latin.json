@@ -1,0 +1,61 @@
+{
+  "title": "Custos ad Oram Fluminis",
+  "intro": "In terra ubi decretum tyranni multas domos dolorem attulit, anima quaedam nuntium accepit quod omnem metum superavit. Corde fiducia pleno, actum fidei susceperunt qui cursum gentis mutaret. Dum aquae pretiosum onus ferebant, spes cum fluctibus miscebatur.",
+  "clues": [
+    "Tempore oppressionis et timoris vixi.",
+    "Divinam inspirationem accepi quae mihi animum dedit.",
+    "Praeceptum mihi est ne timerem neque dolerem.",
+    "Filium meum in arca posui et super aquam posui.",
+    "Filius meus a familia principis inventus est, sed alter filius meus secutus est.",
+    "Cum filio meo denuo coniuncta sum ut eum lactarem, sicut Deus promisit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Mater Moysis",
+        "Uxor Pharaonis",
+        "Soror Mosis",
+        "Mater Iesu",
+        "Regina Sabae"
+      ],
+      "answer": "Mater Moysis"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Inspiratus ad proiiciendum puerum in flumen",
+        "Ad certamen magicum provocatus",
+        "Ab exercitu persecutus",
+        "Trans mare quod divisum est",
+        "Domum sacram aedificans"
+      ],
+      "answer": "Inspiratus ad proiiciendum puerum in flumen"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca in flumine posita",
+        "Rubus ardens",
+        "Baculus qui in serpentem conversus est",
+        "Vitulus aureus",
+        "Thronus"
+      ],
+      "answer": "Arca in flumine posita"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Puer tuto ad nutricem redditus est",
+        "Puer in perpetuum amissus est",
+        "Puer in terram longinquam ductus est",
+        "Puer statim princeps factus est",
+        "Puer a mercatore divite adoptatus est"
+      ],
+      "answer": "Puer tuto ad nutricem redditus est"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

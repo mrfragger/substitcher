@@ -1,0 +1,61 @@
+{
+  "title": "Hin hirðlega eftirför",
+  "intro": "Í valdagöngum varð háttsettur maður hugfanginn af þjóni sem var eins og fegurð hans. Þessi ástfangin leiddi til atburða sem reyndu á hollustu hans, afhjúpuðu falinn sannleika og staðfestu að lokum sakleysi þjónsins.",
+  "clues": [
+    "Ég bjó í landi Nílar, í áhrifamiklu höll.",
+    "Ungur maður kom inn á heimili mitt og nærvera hans óróaði heiminn minn.",
+    "Ég reyndi að tæla hann, en hann leitaði hælis hjá Drottni sínum.",
+    "Ég reif klæði hans að aftan, en sönnunargögnin bentu til sviksemi minnar.",
+    "Til að þagga niður í slúðri aðalskvennanna bauð ég þeim til samkomu og lagði hvassa hluti í hendur þeirra.",
+    "Að lokum játaði ég opinberlega sekt mína og viðurkenndi sannleikann fyrir konungi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hver er ég?",
+      "options": [
+        "Eiginkona Al-Aziz",
+        "Asía (eiginkona Faraós)",
+        "Bilqis (drottning Saba)",
+        "María (móðir Ísa)",
+        "Móðir Músa"
+      ],
+      "answer": "Eiginkona Al-Aziz"
+    },
+    "trial": {
+      "label": "Tilraun/Viðburður",
+      "options": [
+        "Hún reyndi að tæla spámanninn Jósef",
+        "Hún reyndi að drepa spámanninn Músa",
+        "Hún hélt því fram að hún væri gyðja",
+        "Hún byggði turn til að ögra Allah",
+        "Hún leiddi her gegn Mekka"
+      ],
+      "answer": "Hún reyndi að tæla spámanninn Jósef"
+    },
+    "location": {
+      "label": "Lykilatriði",
+      "options": [
+        "Skyrta rifin að aftan",
+        "Gullkálfur",
+        "Stafurinn sem breyttist í höggorm",
+        "Úlfaldakven",
+        "Lampi"
+      ],
+      "answer": "Skyrta rifin að aftan"
+    },
+    "outcome": {
+      "label": "Niðurstaða",
+      "options": [
+        "Hún játaði og viðurkenndi sannleikann",
+        "Hún drukknaði með her sínum",
+        "Hún breyttist í saltstólpa",
+        "Hún var gleypt af jörðinni",
+        "Hún var eyðilögð af öskrandi vindi"
+      ],
+      "answer": "Hún játaði og viðurkenndi sannleikann"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

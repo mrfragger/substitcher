@@ -1,0 +1,61 @@
+{
+  "title": "Ruhê Yekem ku Raweste",
+  "intro": "Demek dirêj berî ku her peyamberek li ser rûyê erdê bimeşe, berî ku her nivîsarek were eşkerekirin, hebûnek mîna her kesî çêbû. Ev giyan ji hêla destên îlahî ve hate şekildan, cihekî bedewiyek bêhempa lê hate dayîn û bi awayekî hate ceribandin ku dê di tevahiya dîroka mirovahiyê de deng vede. Ya ku piştre hat çîrokek qelsiyê, tobeya dilsoz û çarenûsek bû ku dê rêça afirandinê her û her biguherîne. Hûn dikarin texmîn bikin ev kî ye?",
+  "clues": [
+    "Ez ji destê Xwedayê herî dilovan ji toza erdê hatim afirandin",
+    "Malek bi bedewiyeke bêhempa dan min, ku ne birçîbûn û ne jî westîn nikaribûn min bigirta",
+    "Ji min re hatibû gotin ku ez qet nêzîkî darekê nebim, ji ber ku qedexe bû",
+    "Ez û hevalê min hatin xapandin û li dijî fermana Xwedayê me, em nêzîkî dara qedexe bûn.",
+    "Em bi tobeyeke dilsoz vegeriyan cem Xwedayê xwe û gunehên me ji me re hatin bexşandin",
+    "Ji me, hemû mirovahî daketiye; Ez yekem kes im ku li ser vê erdê meşiyam"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Adem",
+        "Pêxember Mûsa",
+        "Pêxember Nûh",
+        "Pêxember Yûsif",
+        "Pêxember Îsa"
+      ],
+      "answer": "Pêxember Adem"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Ceribandina bi dara qedexekirî",
+        "Rûbirûbûna bi Fir'ewn re",
+        "Avakirina Keştiya Mezin",
+        "Qurbaniya kurê delal",
+        "Tê avêtin nav agirê mezin"
+      ],
+      "answer": "Ceribandina bi dara qedexekirî"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Dara Qedexekirî",
+        "Dara Dişewite",
+        "Karmendê Zêrîn",
+        "Keştiya Mezin",
+        "Golika Zêrîn"
+      ],
+      "answer": "Dara Qedexekirî"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Wekî yekem xwedîderê mirovahiyê hat şandin ser rûyê erdê",
+        "Fîrewn û artêşa wî di deryayê de xeniqîn",
+        "Tofana mezin xeraban wêran kir",
+        "Agir sar û aram bû",
+        "desthilatdarî li ser padîşahiya Misrê hat dayîn"
+      ],
+      "answer": "Wekî yekem xwedîderê mirovahiyê hat şandin ser rûyê erdê"
+    }
+  },
+  "verseRef": "7:23",
+  "arabic": "قَالَا رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "They said, \"Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.\" (7:23)"
+}

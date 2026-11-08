@@ -1,0 +1,61 @@
+{
+  "title": "ýyldyzly ýagtylykda ynamlylygyň gözlegi",
+  "intro": "Giň gijeki asmanyň aşagynda durup, hakykatdanam wepalylyga mynasyp zatlary gözläp, ýagty çyralaryň galyp, soňra öçýändigini synlap durkaň, göz öňüne getir. Siziň töweregiňizde sessiz oýma şekiller öwgülere we sowgatlara mynasyp bolýar, ýöne aýdyň sebäp olaryň güýjüni sorag astyna alýar. Gorkusyz ses miras galan däp-dessurlara garşy çykyp, gökleriň we ýeriň Ýaradyjysyna tarap gönükdirjek bolýar.",
+  "clues": [
+    "Men ýyldyzlara, aýa we güne seretdim we olaryň batyp, ýitip gitýändigi üçin meniň Rebim bolup bilmejekdigini pikir etdim.",
+    "Men kowumymyň Allahdan başga ybadat edýän zatlaryny açykdan-açyk inkär etdim we olary diňe Ýaradana ybadat etmäge çagyrdym.",
+    "Men diriltme we ölüme sebäp bolýandygyny öňe sürýän öwünýän hökümdar bilen jedelleşdim we Allanyň Güni gündogardan getirýändigini agzap jogap berdim.",
+    "Men butlary urdum we olary döwdüm, diňe iň ulularyny galdyrdym, şonuň üçin adamlar oňa gaýdyp gelsinler.",
+    "Meni halkym tutup, ýazgardy, olar meni bina gurup, ýanyp duran oda taşlaň diýdiler.",
+    "Allatagala odyň meniň üçin sowuk we howpsuz bolmagyny buýranda, men halas boldum."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Ybraýym pygamber (Abraham)",
+        "Ýahýa pygamber (Ýahýa)",
+        "Pygamber Al-Ýasa (Elişa)",
+        "Samiri",
+        "Namrud (Nimrud)"
+      ],
+      "answer": "Ybraýym pygamber (Abraham)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Butparazlyga garşy çykdy we asman jisimleriniň manysy barada jedelleşdi",
+        "Gahar bilen gideninden soň, uly balyk tarapyndan ýuwudyldy",
+        "Alla tarapyndan bölünen deňizden yzarlaýjylary alyp gitdiler",
+        "Ölüm dadyp görmezden, diri göklere göterildi",
+        "Köp ýyllap ýoldaşlary bilen bir gowakda ýatdy"
+      ],
+      "answer": "Butparazlyga garşy çykdy we asman jisimleriniň manysy barada jedelleşdi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Alla tarapyndan sowuk we howpsuz edilen ýanýan ot",
+        "Ynanýanlary silden geçiren gämi",
+        "Ýylana öwrülen taýak",
+        "Behiştden düşen stol",
+        "Yşarat hökmünde iberilen düýe"
+      ],
+      "answer": "Alla tarapyndan sowuk we howpsuz edilen ýanýan ot"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Otdan gorady we salyh nesilleri berdi",
+        "Uly silde inkär edijiler bilen gark boldy",
+        "Sabat günini bozandygy üçin özgerdildi",
+        "Toýun daşlaryny daşaýan guşlar tarapyndan ýok edildi",
+        "Ýer hazynalar bilen ýuwudyldy"
+      ],
+      "answer": "Otdan gorady we salyh nesilleri berdi"
+    }
+  },
+  "verseRef": "6:75",
+  "arabic": "وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ",
+  "verse": "And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]. (6:75)"
+}

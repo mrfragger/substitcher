@@ -1,0 +1,61 @@
+{
+  "title": "La moltitudin scumparsa",
+  "intro": "Te ste davaant ai eco de una comunità che la sò storia l’è scrivuuda in di onde. Chesti anim g’han ascultà una ciamada, g’han scernì la sfida e g’han afruntà una conseguenza che g’ha rifurmà la terra. Chi sun luur, e cosa l’è diventà del luur mund?",
+  "clues": [
+    "Num vivem tant temp fà, e un messagger l’è vegnuu da noialter.",
+    "Num veneravim cinq idol e serem refudad de bandonài.",
+    "G’hem ciapà in gir el messagger e g’hem acusà de vèss sbaglià.",
+    "G’hem dumandà de purtà la puniziun se l’era verità.",
+    "G’hem vist el ciel che pioveva e la terra che s’ciopava di surgent.",
+    "Sem salì in di sit püsee volt per scapà, ma i onde g’han sorpassà."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi semm?",
+      "options": [
+        "Gent de Nuh",
+        "Gent de 'Ad",
+        "Popol de Thamud",
+        "Gent de Lut",
+        "La gent de Madyan"
+      ],
+      "answer": "Gent de Nuh"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Sem stad affogad in d'una grand inondaziun",
+        "Sun stà distrutt de un uragan",
+        "Sun stà copà de un esplusiun fort",
+        "Sem stad inglutì de la terra",
+        "Sun stà slanzà cun di sass del ciel"
+      ],
+      "answer": "Sem stad affogad in d'una grand inondaziun"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "Una grand inondaziun",
+        "Un vent viulent",
+        "Una dova de sass",
+        "Una esplusiun de fœuch",
+        "Un terremot"
+      ],
+      "answer": "Una grand inondaziun"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Num sem mort tüt senza i credent cun Nuh",
+        "Sem stad trasfurmà en scimie",
+        "Sem stad lassà cuma di rovin per i viagiatur",
+        "Sem stad trasfurmà en sal",
+        "G’hem ricevü una riposa"
+      ],
+      "answer": "Num sem mort tüt senza i credent cun Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Glasnik brez primere greha",
+  "intro": "Nekatere zgodbe v Koranu razkrivajo globino korupcije, v katero lahko zapade celotna družba. Ta poslanec je stal sam in prosil ljudstvo, utapljano v perverziji, ki je še noben narod pred njimi ni zasledoval. Kljub letom opozoril so srca ostala otrdela in božja odredba je prišla na najbolj grozljiv način. Ali lahko prepoznate tega plemenitega Alahovega poslanca?",
+  "clues": [
+    "Poslan sem bil kot svarilec ljudstvu, ki ga je preganjala perverznost, kakršne še noben narod pred njimi ni zagrešil.",
+    "Moji ljudje so me označili za lažnivca in grozili, da bodo mene in moje privržence izgnali iz dežele.",
+    "Častni obiskovalci so prihajali k meni domov v podobi mladih moških, ki so bili presenetljivi, in čutil sem globoko stisko za njihovo varnost.",
+    "Moji ljudje so zahtevali, da jim izročim svoje goste, ne da bi vedeli, da so ti obiskovalci angeli, ki jih je poslal Alah.",
+    "Moj zakonec ni delil moje vere in se je odločil ostati z obsojenimi.",
+    "Ob zori so me rešili z mojimi hčerkami, ko je padal uničujoč kamenski dež in so se naša mesta porušila."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Prerok Lut",
+        "Prerok Šu'aib",
+        "Prerok Hud",
+        "Prerok Nuh",
+        "Prerok Salih"
+      ],
+      "answer": "Prerok Lut"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Velika poplava, ki je zajela zemljo",
+        "Izguba vida zaradi dolgotrajnega trpljenja",
+        "Tiran, ki trdi, da je božanski",
+        "Biti vržen v plameneči ogenj",
+        "Zahtevajo, da se izročijo častni gostje"
+      ],
+      "answer": "Zahtevajo, da se izročijo častni gostje"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Velika barka, zgrajena ročno",
+        "Palica, ki je razcepila morje",
+        "Čudežna kamela",
+        "Plameneči ogenj",
+        "Prevrnjena mesta"
+      ],
+      "answer": "Prevrnjena mesta"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Utopil se je med zasledovanjem vernikov",
+        "Rešen iz ognjene peči nepoškodovan",
+        "Živ dvignjen v nebesa",
+        "Družina je umrla v veliki poplavi",
+        "Družina rešena, razen nezveste žene"
+      ],
+      "answer": "Družina rešena, razen nezveste žene"
+    }
+  },
+  "verseRef": "51:36",
+  "arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍۢ مِّنَ ٱلْمُسْلِمِينَ",
+  "verse": "And We found not within them other than a [single] house of Muslims. (51:36)"
+}

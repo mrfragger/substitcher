@@ -1,0 +1,61 @@
+{
+  "title": "Ýekelikde dynç alyş",
+  "intro": "Hudaýyň merhemetiniň ýyl ýazgylarynda mukaddes ugurda ýalňyzlygy gözlemek üçin öz halkyndan bölünip alnan deňsiz-taýsyz arassa ruh bar. Olar bu ýalňyzlygyň ähli dünýäler üçin alamat, ebedilik aýdyljak iman synagyny döretjekdigini bilmeýärdiler.",
+  "clues": [
+    "Men dünýä inmezden öň gulluk durmuşyna bagyşlandym.",
+    "Men beýik bir pygamberiň gözegçiligi astyna alyndym.",
+    "Meni Allatagaladan howandarymy haýran galdyrýan rysgal-berek bilen rysgallandyrdylar.",
+    "Men maşgalamdan gündogara gitdim.",
+    "Maňa kämil ynsan keşbinde bir perişde peýda bolup, arassa ogul barada habar getirdi.",
+    "Täze doglan çagam bilen gaýdyp gelenimde, adamlarym meni aýypladylar, ýöne bäbek meni gorap gepledi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Merýem (Merýem)",
+        "Aziýa (Farownyň aýaly)",
+        "Hajar (Ysmaýylyň ejesi)",
+        "Sara (Ybraýymyň aýaly)",
+        "Musanyň ejesi"
+      ],
+      "answer": "Merýem (Merýem)"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Möjüzeli göwrelilik we ogul dünýä inmegi",
+        "Oda taşlanmak",
+        "Äpet balyk tarapyndan ýuwutulýar",
+        "Beýik gämi gurmak",
+        "Deňizden geçmek"
+      ],
+      "answer": "Möjüzeli göwrelilik we ogul dünýä inmegi"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Gündogaryň daş-töweregindäki bir ýer",
+        "Ýanýan gyrymsy agaç",
+        "Gyzyl deňiz",
+        "Suwuň çüwdürilip çykan gaýasy",
+        "Kit"
+      ],
+      "answer": "Gündogaryň daş-töweregindäki bir ýer"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Bir bäbek enäni gorap gürledi",
+        "Deňiz iki bölege bölündi",
+        "Ot sowuk we howpsuz boldy",
+        "Kit kenara kusdy",
+        "Gämi dagyň üstüne gondy"
+      ],
+      "answer": "Bir bäbek enäni gorap gürledi"
+    }
+  },
+  "verseRef": "19:16",
+  "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مَرْيَمَ إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَانًۭا شَرْقِيًّۭا",
+  "verse": "And mention, [O Muḥammad], in the Book [the story of] Mary, when she withdrew from her family to a place toward the east. (19:16)"
+}

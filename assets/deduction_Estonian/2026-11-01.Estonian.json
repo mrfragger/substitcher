@@ -1,0 +1,61 @@
+{
+  "title": "Hääl, mis keeldus meeleheitest",
+  "intro": "Astu koju, kus kaotus järgneb kaotusele, kuid üks rahulik hääl keeldub meeleheitest. Üksainus hüüd Koraanis muudab kannatlikkuse pöördepunktiks; kas suudad leida vihjeid selle hääle taga peituva inimeseni?",
+  "clues": [
+    "Olin kannatlikkuse hääl majapidamises, kus õnnistusi pandi proovile õnnetuse läbi.",
+    "Jäin elama majja, mis oli rikkuse ja laste kaotuse tõttu tühjenenud.",
+    "Ma teadsin, et haigus oli tabanud ka seda kaaslast, kelle keha oli vaevatud.",
+    "Kui häda läks tõsiseks, hüüdsin ma appi, et meenutada Allahi.",
+    "Ma kuulutasin välja ühe asja: Allah on Tõde, seega olge kannatlikud.",
+    "Ma hüüdsin Ayyubi nimepidi; pärast seda kõrvaldas Allah kannatused ja taastas perekonna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Prohvet Ayyubi naine",
+        "Prohvet Noa naine",
+        "Prohvet Ibrahimi naine",
+        "Prohvet Ya'qubi naine",
+        "Vaarao tütar"
+      ],
+      "answer": "Prohvet Ayyubi naine"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Jäädes Ayyubi juurde kaotuse ja haiguse ajal, kutsudes seejärel üles kannatlikkusele",
+        "Hoiatus õiglasele sõnumitoojale, et ta hülgaks korrumpeerunud kogukonna",
+        "Palvetades tulevase sugupuu sünni eest",
+        "Unenägude tõlgendamine kuninglikus vanglas",
+        "Usaldatud lapse leidmine jõe äärest"
+      ],
+      "answer": "Jäädes Ayyubi juurde kaotuse ja haiguse ajal, kutsudes seejärel üles kannatlikkusele"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Vaja on kuulutada, et Allah on Tõde, ja kannatlikkust",
+        "Palmipuu allika kõrval",
+        "Üleskutse ehitada laev lainetest kaugele",
+        "Unistus üheteistkümnest tähest ja tõusvast päikesest",
+        "Korv, mida kanti mööda Niilust"
+      ],
+      "answer": "Vaja on kuulutada, et Allah on Tõde, ja kannatlikkust"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Ayyubi kannatus kõrvaldati ja tema perekond taastati",
+        "Kauaoodatud laps sündis pärast viljatut palvet",
+        "Noor valitseja tõlgendas seitset külluse ja nappuse aastat",
+        "Usaldatud laps päästeti voolavast veest",
+        "Hävitavale üleujutusele eelnes hoiatus"
+      ],
+      "answer": "Ayyubi kannatus kõrvaldati ja tema perekond taastati"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Wyznaczony następca",
+  "intro": "Postać z minionych wieków stoi gotowa, by wkroczyć w historię. Gdy ścieżka wydawała się niejasna, a wśród ludzi szerzyły się wątpliwości, ten sługa został wybrany, by przejąć rolę przewodnika. Z ciężarem świętej misji na ramionach, wystąpili naprzód, by przewodzić tam, gdzie inni wahali się pójść.",
+  "clues": [
+    "Zostałem wybrany, aby towarzyszyć prorokowi i uczyłem się od niego mądrości",
+    "Stanąłem przed Arką, gdy zbliżała się obietnica naszego Opiekuna i zobaczyłem, że ludzie zaczynają wątpić",
+    "Zostałem zmuszony stanąć na krawędzi tego, co zostało obiecane, podczas gdy nasz przywódca smucił się i błagał Allaha o naszą opiekę",
+    "Zostałem wyznaczony do kontynuowania misji powierzonej komuś innemu przede mną",
+    "Otrzymałem boską władzę, aby prowadzić ludzi do ich celu",
+    "Udało mi się dokończyć to, co zacząłem, i otrzymałem od ludzi potwierdzenie mojego przewodnictwa"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Jusza ibn Nun",
+        "Caleb syn Jefunneha",
+        "Eldad i Medad",
+        "Prorok Ezechiel (Hizqiyyal)",
+        "Prorok Harun (Aaron)"
+      ],
+      "answer": "Jusza ibn Nun"
+    },
+    "trial": {
+      "label": "Próba/Wydarzenie",
+      "options": [
+        "Odmowa wejścia do obiecanej Ziemi Świętej",
+        "Wojska faraona ścigają nas przez morze",
+        "Kult złotego cielca",
+        "Wątpliwości po usłyszeniu nakazu Tory",
+        "Bunt Datana i Abirama"
+      ],
+      "answer": "Odmowa wejścia do obiecanej Ziemi Świętej"
+    },
+    "location": {
+      "label": "Kluczowy element",
+      "options": [
+        "Zwój Tory dany Mojżeszowi",
+        "Arka Przymierza w bitwie",
+        "Przejście przez rzekę Jordan",
+        "Pustynia czterdziestu lat",
+        "Objawienie Góry Synaj"
+      ],
+      "answer": "Zwój Tory dany Mojżeszowi"
+    },
+    "outcome": {
+      "label": "Wynik",
+      "options": [
+        "Wejście do obiecanej Ziemi Świętej",
+        "Budowanie muru ochronnego przed najeźdźcami",
+        "Budowa świętego domu kultu",
+        "Tonąc w pogoni za tymi, którzy zaprzeczali prawdzie",
+        "Złamanie bożków skorumpowanego ludu"
+      ],
+      "answer": "Wejście do obiecanej Ziemi Świętej"
+    }
+  },
+  "verseRef": "5:21",
+  "arabic": "يَـٰقَوْمِ ٱدْخُلُوا۟ ٱلْأَرْضَ ٱلْمُقَدَّسَةَ ٱلَّتِى كَتَبَ ٱللَّهُ لَكُمْ وَلَا تَرْتَدُّوا۟ عَلَىٰٓ أَدْبَارِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ",
+  "verse": "O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers.\" (5:21)"
+}

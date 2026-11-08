@@ -1,0 +1,61 @@
+{
+  "title": "Suzko Atearen Zaintza",
+  "intro": "Jendetza isil eta ikaragarri bat zain dago atarian, janaririk, edaririk edo atsedenik hartu gabe. Giza buztina ez den substantzia batez eginda, helburu beldurgarri bakarraren zain daude, eta ez dute inoiz beren Jaunaren agindu bakar bat ere desobeditu.",
+  "clues": [
+    "Gizakiok ez bezalako izakiak gara, jaten, edaten edo nekatzen ez den substantzia batetik sortuak.",
+    "Gure kopuru zehatza ezagutzen eta Liburuan agerian dago: ez gara kontaezin edo jendetza bat.",
+    "Inoiz ez diogu gure Sortzaileari desobeditu, ezta agindurik jaso aurretik hitz egiten ere.",
+    "Eguna iristen denean, sinestun ez direnak taldeka eramango ditugu guregana, eta ateak irekiko dizkiegu.",
+    "Galdetuko diegu: «Ez al ziren zuen espezieko mezulariak etorri Egun honen berri emanez?»",
+    "Arimarik inoiz ateratzen ez den leku bat zaintzen dugu —betiereko zigorraren erresuma sutsua."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor Gara Gu?",
+      "options": [
+        "Infernuko Suaren Zaindariak (Zabaniyah)",
+        "Ala-ren Tronuaren Eramaileak",
+        "The Recording Angels (Kiraman Katibin)",
+        "Heriotzaren Aingeruak",
+        "Paradisuko atezainak"
+      ],
+      "answer": "Infernuko Suaren Zaindariak (Zabaniyah)"
+    },
+    "trial": {
+      "label": "Gure Lehen Betebeharra",
+      "options": [
+        "Infernuko Suaren ateak zaintzen",
+        "Giza ekintza guztiak erregistratzea",
+        "Alaren tronua eramatea",
+        "Hildakoen arimak hartzea.",
+        "Haizeei eta hodeiei aginduz"
+      ],
+      "answer": "Infernuko Suaren ateak zaintzen"
+    },
+    "location": {
+      "label": "Zer Zaintzen Dugu?",
+      "options": [
+        "Infernuko Sua",
+        "Alaren Tronua",
+        "Eskrituren Pergaminoak",
+        "Paradisuko ibaiak.",
+        "Lurraren mendiak."
+      ],
+      "answer": "Infernuko Sua"
+    },
+    "outcome": {
+      "label": "Gure domeinuan daudenen patua",
+      "options": [
+        "Betiko geratuko dira eta ez dira inoiz joango",
+        "Azkenean barkatuko eta askatuko dituzte",
+        "Denborarekin purifikatuko dira",
+        "Beste forma batzuetara eraldatuko dira",
+        "Infernua eta Paradisua txandakatuko dituzte"
+      ],
+      "answer": "Betiko geratuko dira eta ez dira inoiz joango"
+    }
+  },
+  "verseRef": "74:30",
+  "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+  "verse": "Over it are nineteen [angels]. (74:30)"
+}

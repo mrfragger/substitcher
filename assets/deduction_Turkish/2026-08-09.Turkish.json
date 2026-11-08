@@ -1,0 +1,61 @@
+{
+  "title": "Eski Zamanların Gerçekçi Sesi",
+  "intro": "Kur'an'da, hikâyesi sadece birkaç ayette anlatılan, ancak asil nitelikleri parlak bir açıklıkla ortaya çıkan bir ruh vardır. Yüce Allah tarafından özel bir erdemi nedeniyle övülen bu eski kul, vahiy sayfalarında özel bir yere sahiptir. Sizin göreviniz bu olağanüstü şahsiyeti belirlemektir. Kim olduğunu tahmin edebilir misiniz?",
+  "clues": [
+    "Ben, insanlığın ilk nesilleri arasında yaşamış olan Allah'ın bir peygamberiyim.",
+    "Allah, Kitabında beni diğer peygamberlerle birlikte zikretmiş ve hepsini aynı yüce erdemden dolayı övmüştür.",
+    "Kur'an'da ben, doğru sözlü bir insan olarak tanımlanıyorum.",
+    "Allah beni, başkalarının pek azının ulaşabildiği yüksek bir makama yükseltti.",
+    "Adım, sabırları nedeniyle övülen diğer iki peygamberle birlikte Enbiya Suresi'nde geçmektedir.",
+    "Ben İdris, doğru sözlü ve yüce peygamberim."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Peygamber İdris",
+        "Peygamber Nuh",
+        "Peygamber İbrahim",
+        "Peygamber Musa",
+        "Peygamber İsmail"
+      ],
+      "answer": "Peygamber İdris"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "Sabırlı ve dürüst olmak, daha sonra yüksek bir mevkiye yükselmeyi sağlar.",
+        "İnananları yıkıcı bir tufandan kurtarmak için büyük bir gemi inşa etmek.",
+        "Alev alev yanan bir ateşe atılıp tamamen yara almadan çıkmak",
+        "Kudretli bir kralla yüzleşmek ve onun büyücülerden oluşan ordusunu yenmek",
+        "Denizin derinliklerinde, büyük bir balığın karnının içinde hayatta kalmak"
+      ],
+      "answer": "Sabırlı ve dürüst olmak, daha sonra yüksek bir mevkiye yükselmeyi sağlar."
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Allah tarafından yüce ve yüksek bir makam.",
+        "Tahtalardan inşa edilmiş ve katranla kaplanmış devasa bir gemi.",
+        "Kötü bir kralın putperestleri tarafından körüklenen azgın bir yangın.",
+        "Kuru yollara ayrılan uçsuz bucaksız bir deniz",
+        "Okyanusun dibinde, büyük bir balinanın karanlık karnı."
+      ],
+      "answer": "Allah tarafından yüce ve yüksek bir makam."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Allah'ın rahmetine kavuşmuş salihlerden biri olarak kabul edildi.",
+        "Tüm inananlarla birlikte dünya çapında bir tufandan kurtarıldılar.",
+        "Alevlerin arasından yangından etkilenmeden çıktı.",
+        "İsrailoğullarını denizin ötesine, özgürlüğe güvenli bir şekilde götürdü.",
+        "Uzun yıllar süren zorlukların ardından sevgili aileleriyle yeniden bir araya geldiler."
+      ],
+      "answer": "Allah'ın rahmetine kavuşmuş salihlerden biri olarak kabul edildi."
+    }
+  },
+  "verseRef": "21:85",
+  "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰبِرِينَ",
+  "verse": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient. (21:85)"
+}

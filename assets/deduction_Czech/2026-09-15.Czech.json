@@ -1,0 +1,61 @@
+{
+  "title": "Pohostinnost, která přinesla strach",
+  "intro": "Ve městě pohlceném zlovolností jednoho dne přijal věrný služebník nečekané návštěvníky. Z obavy o jejich bezpečnost jim nabídl ochranu, ale obyvatelé města požadovali něco hanebného. Sluha, varován před blížící se zkázou, uprchl s rodinou pod rouškou tmy a zanechal za sebou město určené ke zkáze. Kdo je tento osamělý věřící?",
+  "clues": [
+    "Byl jsem vyslán jako posel k lidu, který se dopustil hanebných činů.",
+    "Do mého domu přišli nečekaní návštěvníci a já se o jejich bezpečnost bál víc než o svou vlastní.",
+    "Moji lidé požadovali, aby mohli vidět mé hosty kvůli zlým úmyslům, a já se je snažil přesvědčit.",
+    "Moji návštěvníci se zjevili jako andělé a přikázali mi, abych v noci vzal svou rodinu a odešel.",
+    "Moje žena nedbala výzvy k útěku a čelila stejné zkáze jako můj lid.",
+    "Mé město bylo převráceno deštěm kamení z vrstev hlíny, jeho nejvyšší části byly převráceny na ty nejnižší."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Lut",
+        "Prorok Músa",
+        "Prorok Ibráhím",
+        "Prorok Nuh",
+        "Prorok Hud"
+      ],
+      "answer": "Prorok Lut"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Požadavek mého lidu, aby se k mým hostům přibližoval zlomyslně",
+        "Rozdělení moře k útěku před tyranem",
+        "Stavba velké archy uprostřed posměchu",
+        "Oběť mého syna ve zkoušce víry",
+        "Zážitek z požití velkou rybou"
+      ],
+      "answer": "Požadavek mého lidu, aby se k mým hostům přibližoval zlomyslně"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Převrácené město mého lidu",
+        "Hora, kde jsem přijal božskou řeč",
+        "Archa, která proplula velkou potopou",
+        "Velbloudice, která vylezla ze skály",
+        "Zahrada se skrytým spravedlivým návštěvníkem"
+      ],
+      "answer": "Převrácené město mého lidu"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byl jsem zachráněn se svou rodinou, než se mé město zvrhlo",
+        "Vedl jsem svůj lid k svobodě přes moře",
+        "Postavil jsem velkou archu a přežil jsem mohutnou potopu",
+        "Byla mi dána vláda nad větry a džiny",
+        "Trpělivě jsem snášel utrpení a byl jsem odměněn rodinou"
+      ],
+      "answer": "Byl jsem zachráněn se svou rodinou, než se mé město zvrhlo"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Upumbavu wa Tamaa Kubwa",
+  "intro": "Anza safari ya kufichua utambulisho wa kiumbe wa pamoja ambaye mipango yake ya ujasiri ilifikia mwisho usiotarajiwa na wenye nguvu. Simulizi hii hutumika kama ukumbusho mkubwa wa nguvu za kimungu na udhaifu wa nguvu za kidunia zinapopingana na vitu vitakatifu. Fumbua fumbo la kundi hili, ambalo hadithi yake imechorwa katika Quran kama onyo kwa wote wanaotaka kuasi.",
+  "clues": [
+    "Tulikuwa na tamaa kubwa, tukiamini kwamba nguvu zetu haziwezi kulinganishwa, na tukaanza safari tukiwa na lengo dhahiri na la uharibifu.",
+    "Kiongozi wetu, akiwa amejaa kiburi, alitaka kuinajisi Nyumba takatifu inayoheshimiwa na wengi, akilenga kugeuza hija hadi kwenye jengo lililojengwa na sisi.",
+    "Kutoka nchi ya mbali, tuliandamana na jeshi kubwa, tukiwa na uhakika katika uwezo wetu wa kubomoa jengo la kale katika Jiji Takatifu.",
+    "Jeshi letu lilikuwa la kutisha, likiongozwa na viumbe wa ajabu, jambo ambalo mara chache, kama lilitokea, halikushuhudiwa katika kampeni kama hiyo na wakazi wa nchi tuliyoivamia.",
+    "Tulipofika mahali tulipokwenda, Mungu aliingilia kati; viumbe wadogo wenye mabawa walitokea, wakitupiga mawe ya udongo uliookwa.",
+    "Msafara wetu wote ulifikia mwisho mbaya, ukiacha jeshi letu kubwa likiwa limeangamizwa kabisa, kama majani yaliyotafunwa, mpango wetu mkuu ukiwa vumbi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mimi ni Nani?",
+      "options": [
+        "Watu wa Thamud",
+        "Watu wa 'Ad",
+        "Watu wa Sodoma",
+        "Watu wa Tembo",
+        "Watu wa Bustani"
+      ],
+      "answer": "Watu wa Tembo"
+    },
+    "trial": {
+      "label": "Jaribio/Tukio",
+      "options": [
+        "Gharika Kuu",
+        "Kampeni dhidi ya Kaaba",
+        "Kuharibiwa kwa Sanamu",
+        "Kupasuka kwa Bahari",
+        "Tetemeko la Ardhi la Midiani"
+      ],
+      "answer": "Kampeni dhidi ya Kaaba"
+    },
+    "location": {
+      "label": "Kipengele Muhimu",
+      "options": [
+        "Sanduku",
+        "Wafanyakazi",
+        "Kaaba",
+        "Ndama wa Dhahabu",
+        "Moto"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Matokeo",
+      "options": [
+        "Wokovu wa kimungu",
+        "Kipindi kirefu cha ustawi",
+        "Kusilimu",
+        "Uharibifu kamili",
+        "Uhamisho kutoka nchi yao"
+      ],
+      "answer": "Uharibifu kamili"
+    }
+  },
+  "verseRef": "105:1",
+  "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+  "verse": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant? (105:1)"
+}

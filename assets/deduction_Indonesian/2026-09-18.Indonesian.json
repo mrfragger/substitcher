@@ -1,0 +1,61 @@
+{
+  "title": "Panggilan dari Lembah Suci",
+  "intro": "Di balik lembaran sejarah terbentang kisah seorang jiwa yang berdiri di antara penguasa yang kuat dan seluruh rakyat yang diperbudak. Individu ini dipanggil untuk membebaskan suatu bangsa dari tirani, melakukan keajaiban yang menentang setiap hukum alam. Dari gunung suci hingga mukjizat di atas air, hamba Allah ini menyaksikan tanda-tanda yang akan bergema sepanjang zaman. Tugas Anda hari ini adalah mengidentifikasi tokoh luar biasa ini yang warisannya membentuk perjalanan sejarah manusia.",
+  "clues": [
+    "Aku lahir pada masa ketika bangsaku menghadapi dekrit yang mematikan, dan keluargaku menempatkanku di dalam air untuk menyelamatkan nyawaku.",
+    "Aku ditemukan dan dibesarkan di rumah penguasa yang telah memerintahkan pembunuhan terhadap kaumku.",
+    "Aku berlari ke sebuah gunung suci di mana aku melihat api di atas pohon yang tidak hangus, dan sebuah suara berbicara kepadaku dari sana.",
+    "Aku dikirim kembali kepada penguasa itu dengan membawa mukjizat, menuntut kebebasan rakyatku yang diperbudak.",
+    "Aku memukul laut dengan tongkatku, dan laut itu terbelah menjadi jalan-jalan kering, menelan para pengejar yang mengikuti kaumku.",
+    "Aku berkomunikasi dengan Tuhanku di sebuah gunung selama empat puluh malam, dan diberi loh-loh petunjuk ilahi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Nabi Musa",
+        "Nabi Harun",
+        "Nabi Ibrahim",
+        "Nabi Yusuf",
+        "Nabi Dawud"
+      ],
+      "answer": "Nabi Musa"
+    },
+    "trial": {
+      "label": "Persidangan yang Menentukan Hidupku",
+      "options": [
+        "Terbelahnya Laut",
+        "Membangun Bahtera Agung",
+        "Pengadilan Melalui Api yang Berkobar",
+        "Terkurung di dalam Perut Paus",
+        "Dipenjara oleh Pejabat Mesir"
+      ],
+      "answer": "Terbelahnya Laut"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Tongkat Gembala",
+        "Bahtera Kayu yang Agung",
+        "Gua Tempat Waktu Tertidur",
+        "Sebuah Taman dengan Dua Mata Air",
+        "Singgasana yang Dihiasi Emas"
+      ],
+      "answer": "Tongkat Gembala"
+    },
+    "outcome": {
+      "label": "Hasilnya",
+      "options": [
+        "Umatku Menyeberangi Lautan Menuju Tempat Aman",
+        "Banjir Besar Membinasakan Orang-orang Kafir",
+        "Api Sang Tirani Berubah Menjadi Sejuk dan Damai",
+        "Laut Melempar Tawanannya ke Pantai",
+        "Tawanan Itu Menjadi Bendahara Mesir"
+      ],
+      "answer": "Umatku Menyeberangi Lautan Menuju Tempat Aman"
+    }
+  },
+  "verseRef": "26:10",
+  "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+  "verse": "And [mention] when your Lord called Moses, [saying], \"Go to the wrongdoing people - (26:10)"
+}

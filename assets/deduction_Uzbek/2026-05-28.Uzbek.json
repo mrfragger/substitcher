@@ -1,0 +1,61 @@
+{
+  "title": "Qat'iy sabrli",
+  "intro": "Payg'ambarlik tarixining yilnomalarida bunday chuqur yo'qotish va jismoniy azob-uqubatlarga sobit ishonch bilan chidaganlar kam. Bu shaxsning hikoyasi sabr-toqat va ilohiy donolikka ishonishning abadiy saboqidir. Bu ruh kim?",
+  "clues": [
+    "Men Alloh tomonidan xabar yetkazish uchun tanlanganman, ammo mening eng katta sinovim rad etish emas, balki shaxsiy baxtsizliklarim orqali bo'ldi.",
+    "Mol-mulkim, chorva mollarim va bolalarim birin-ketin mendan tortib olindi.",
+    "Tanam yaralar bilan qoplangan edi va turmush o'rtog'imning yordamisiz yolg'iz qoldim.",
+    "Men azob-uqubatlarni tan olib, Uning marhamatini so'rab, Rabbimga iltijo qildim.",
+    "Menga oyog'im bilan yerga urish buyurilgan edi, shunda tetiklantiruvchi buloq otilib chiqdi.",
+    "Alloh sog'lig'imni tikladi, menga yangi oila va avvalgidan ham ko'proq boylik ato etdi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Ayyub",
+        "Ibrohim payg'ambar",
+        "Muso payg'ambar",
+        "Payg'ambar Iso",
+        "Nuh payg'ambar"
+      ],
+      "answer": "Payg'ambar Ayyub"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Boylik va oilani yo'qotish",
+        "Olovga tashlanmoqda",
+        "Baliq tomonidan yutib yuborilmoqda",
+        "Oilasidan ajralib, qullikka sotilish",
+        "Oltin buzoq bilan sinovdan o'tkazilmoqda"
+      ],
+      "answer": "Boylik va oilani yo'qotish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Suv bulog'i",
+        "Ilonga aylangan tayoq",
+        "Yog'ochdan yasalgan kema",
+        "Eritilgan buzoq",
+        "Palma daraxti"
+      ],
+      "answer": "Suv bulog'i"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Oila va boylikni tiklash",
+        "Osmonga ko'tarilish",
+        "Qirol bo'lish",
+        "Kitdan qutqarilish",
+        "Qarilikda o'g'il ko'rish"
+      ],
+      "answer": "Oila va boylikni tiklash"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

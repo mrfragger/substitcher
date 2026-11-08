@@ -1,0 +1,61 @@
+{
+  "title": "Slēptie klausītāji, kas ticēja",
+  "intro": "Svētas sapulces klusumā no neredzamas valstības ieradās ievērojama sapulce. Brīnumainas čukstu vilināti, viņi klausījās deklamācijā, kas uz visiem laikiem apzīmogotu viņu likteni. Viņu liecība joprojām ir viena no unikālākajām dievišķajos rakstos.",
+  "clues": [
+    "Mēs esam būtnes no valstības, ko lielākā daļa neredz, un mēs ieradāmies kā grupa.",
+    "Mēs devāmies uz kādu sapulci, lai dzirdētu kaut ko ievērojamu.",
+    "Kad ieradāmies, mēs noklausījāmies deklamāciju, kas mūs pārsteidza.",
+    "Mēs atklāti atzinām, ka daži no mums ir taisnīgi, bet citi nav.",
+    "Mēs zinājām, ka nevaram izvairīties no dievišķā likuma ne uz zemes, ne arī lidojot debesīs.",
+    "Kad mēs dzirdējām vadību, mēs tai ticējām; kas tic savam Kungam, nebaidīsies no zaudējuma vai nastas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Džinu grupa",
+        "Iramas tauta",
+        "Tubbas iedzīvotāji",
+        "Romas impērija",
+        "Kuraišu cilts"
+      ],
+      "answer": "Džinu grupa"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Svētās deklamācijas klausīšanās",
+        "Celt augstus pīlārus mūsu pilsētā",
+        "Medījot krāšņu kamieli",
+        "Tiek iznīcināti par mūsu praviešu nogalināšanu",
+        "Bagātības vairošana bez mēra"
+      ],
+      "answer": "Svētās deklamācijas klausīšanās"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Svētās deklamācijas sapulce",
+        "Augstu pīlāru pilsēta (Irama)",
+        "Aka tuksnesī",
+        "Grandioza zelta pils",
+        "Svēta ala kalnos"
+      ],
+      "answer": "Svētās deklamācijas sapulce"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Mēs ticējām un brīdinājām savu tautu",
+        "Iznīcināts ar spēcīgu sprādzienu no debesīm",
+        "Sodīts ar dedzinošu, postošu vēju",
+        "Piešķirta milzīga bagātība un vara",
+        "Palika nelokāms neticībā"
+      ],
+      "answer": "Mēs ticējām un brīdinājām savu tautu"
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

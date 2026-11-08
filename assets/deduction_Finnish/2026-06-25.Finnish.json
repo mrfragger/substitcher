@@ -1,0 +1,61 @@
+{
+  "title": "Kuuntelijat näkymättömästä",
+  "intro": "Näkyvän maailman verhon takana pimeyteen kokoontui piilotettu joukko, jota veti puoleensa ääni, joka uhmasi kaikkea heidän tuntemaansa. He olivat vaeltaneet iät ja ajat ilman todellista opastusta, kunnes ääni lävisti heidän näkymättömän valtakuntansa hiljaisuuden ja herätti liikkeen syvällä sisimmässään. Tänä iltana sinut kutsutaan astumaan varjojen ulkopuolelle ja paljastamaan tämän salaperäisen ryhmän identiteetti, jonka kohtaaminen jumalallisten sanojen kanssa johdatti heidät takaisin kansansa luo varoittajina totuudesta, jota ei voitu pitää sisällään.",
+  "clues": [
+    "Olemme muinaisia ​​olentoja, eläneet kauan ennen monia kansoja, joista olet lukenut, mutta meistä puhutaan harvoin ihmisten tarinoissa.",
+    "Luontomme on erilainen kuin sinun, kudottu näkymättömien elementeistä, ja meillä on voimia, jotka uhmaavat tavallisuutta.",
+    "Ikuisuuden ajan vaelsimme ilman todellista opastusta, kunnes ääni saavutti meidät ja herätti liikkeen syvällä sisimmässämme.",
+    "Kuulimme lausunnan, jollaista emme olleet koskaan ennen kuulleet, sanoja, joilla oli enemmän painoarvoa kuin millään puheella.",
+    "Ahtauduimme salaa lähemmäs käskien omiamme olemaan hiljaa, emmekä pystyneet pysymään paikoillamme, kun säkeet päättyivät.",
+    "Palasimme kansamme luo ja julistimme: ”Oi kansamme, me olemme kuulleet Kirjan, joka on lähetetty Mooseksen jälkeen. Se vahvistaa sen, mikä oli ennen sitä, ja ohjaa totuuteen.”"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Hawariyyun (Isan opetuslapset)",
+        "Dzinni, joka uskoi kuultuaan Koraanin",
+        "Luolan seuralaiset",
+        "Alimman taivaan enkelit",
+        "Faaraon kansa, joka seurasi hänen polkuaan"
+      ],
+      "answer": "Dzinni, joka uskoi kuultuaan Koraanin"
+    },
+    "trial": {
+      "label": "Koe / Tapahtuma",
+      "options": [
+        "Meidät karkotettiin, koska kieltäydyimme kumartamasta vasta luodun olennon edessä",
+        "Meidät suljettiin luolaan kolmesataayhdeksän vuotta",
+        "Meidät käskettiin ylittämään meri, joka jakautui edessämme",
+        "Meidät lähetettiin taikamaahan oppimaan noituutta",
+        "Kuuntelimme salaa lausuntaa ja se muutti meitä"
+      ],
+      "answer": "Kuuntelimme salaa lausuntaa ja se muutti meitä"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kultainen vasikka, joka on muotoiltu kansan koruista",
+        "Luola, jossa uni kesti sukupolvien ajan",
+        "Kaksi enkeliä Babylonissa, jotka opettivat kiellettyä tietoa",
+        "Mooseksen jälkeen ilmoitettu kirja, joka vahvistaa Tooran",
+        "Palava pensas pyhän vuoren huipulla"
+      ],
+      "answer": "Mooseksen jälkeen ilmoitettu kirja, joka vahvistaa Tooran"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Meidät kirottiin tuomiopäivään asti",
+        "Nousimme mahtavaa hallitsijaa vastaan ​​ja rakensimme muurin maahan",
+        "Meidät muutettiin apinoiksi ja sioiksi",
+        "Palasimme kansamme luo varoittajina, julistaen uskoa",
+        "Meidät hukutettiin mereen johtajamme rinnalla"
+      ],
+      "answer": "Palasimme kansamme luo varoittajina, julistaen uskoa"
+    }
+  },
+  "verseRef": "72:2",
+  "arabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا",
+  "verse": "It guides to the right course, and we have believed in it. And we will never associate with our Lord anyone. (72:2)"
+}

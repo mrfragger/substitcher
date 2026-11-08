@@ -1,0 +1,61 @@
+{
+  "title": "Ku Hlongorisa eHubyeni",
+  "intro": "Eka tiphaseji ta matimba, munhu wa xiyimo xa le henhla u sungule ku navela nandza loyi ku saseka ka yena a ku ri ka misava yin’wana. Ku navela loku ku yise eka nxaxamelo wa swiendlakalo leswi a swi ta ringa vutshembeki, swi paluxa mintiyiso leyi fihliweke, naswona eku heteleleni swi tiyisekisa ku pfumala nandzu ka nandza.",
+  "clues": [
+    "A ndzi tshama etikweni ra Nayili, exigodlhweni lexi nga ni nkucetelo lowukulu.",
+    "Jaha rin’wana ri nghene endlwini ya mina, kutani vukona bya rona byi pfilunganye misava ya mina.",
+    "Ndzi ringetile ku n’wi kanganyisa, kambe yena u lave vutumbelo eka Hosi ya yena.",
+    "Ndzi handzule nguvu ya yena endzhaku, kambe vumbhoni byi kombetela eka vuxisi bya mina.",
+    "Leswaku ndzi miyeta ku hleva ka vavasati va xiyimo xa le henhla, ndzi va rhambile enhlengeletanweni kutani ndzi va veka swilo leswi karihaka emavokweni ya vona.",
+    "Eku heteleleni, ndzi pfumerile xihoxo xa mina erivaleni, ndzi pfumela ntiyiso emahlweni ka hosi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Xana Ndzi mani?",
+      "options": [
+        "Nsati wa Al-Aziz",
+        "Asiya (Nsati wa Faro) .",
+        "Bilqis (Hosi ya Xisati ya Xeba) .",
+        "Maryam (Manana wa Isa) .",
+        "Manana wa Musa"
+      ],
+      "answer": "Nsati wa Al-Aziz"
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "U ringete ku kanganyisa Muprofeta Yusuf",
+        "U ringetile ku dlaya Muprofeta Musa",
+        "A a tivula xikwembu xa xisati",
+        "U ake xihondzo leswaku a tlhontlha Allah",
+        "U rhangele vuthu ro lwisana na Makkah"
+      ],
+      "answer": "U ringete ku kanganyisa Muprofeta Yusuf"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Xikipa lexi handzuriweke ku suka endzhaku",
+        "Rhole ra nsuku",
+        "Nhonga leyi hundzukeke nyoka",
+        "Kamela ya xisati",
+        "Rivoni ra rivoni"
+      ],
+      "answer": "Xikipa lexi handzuriweke ku suka endzhaku"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "U pfumerile a tlhela a pfumela ntiyiso",
+        "U nwile ni vuthu rakwe",
+        "U hundzuke phuphu ya munyu",
+        "U mitiwe hi misava",
+        "U lovisiwile hi moya lowu huwelelaka"
+      ],
+      "answer": "U pfumerile a tlhela a pfumela ntiyiso"
+    }
+  },
+  "verseRef": "12:51",
+  "arabic": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍۢ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ",
+  "verse": "Said [the king to the women], \"What was your condition when you sought to seduce Joseph?\" They said, \"Perfect is Allāh! We know about him no evil.\" The wife of al-ʿAzeez said, \"Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful. (12:51)"
+}

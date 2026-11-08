@@ -1,0 +1,61 @@
+{
+  "title": "Desesperación mana munakuq kunka",
+  "intro": "Huk wasiman yaykuy, maypichus chinkachiyqa chinkachiy qatin, chaywanpas huk thak kunka mana munanchu hukmanyayta. Qur'anpi huklla waqyakuymi pacienciata huk tikrayman tikran; ¿chay kunkapa qipanpi kaq runaman chay pistakunata qatipayta atiwaqchu?",
+  "clues": [
+    "Ñuqaqa karqani pacienciapa kunkanmi huk wasi ukupi, maypim saminchakuna pruebasqa karqa sasachakuywan.",
+    "Qhapaq kay, wawakuna chinkachisqa kaspa ch’usaq wasipi qhepakurqani.",
+    "Yacharqanim chay compañerotapas unquy hapirusqanmanta, cuerponpas ñakarichisqam karqa.",
+    "Chay llakikuy sinchita tukuqtinmi qaparirqani Allahta yuyarichispa.",
+    "Huk declaraciontan haywarirqani: Allahmi Cheqaq kaq, chaymi pacienciakuy.",
+    "Ayyub llaqtata sutiymanta waqyarqani; chay qhepamanmi Allahqa chay ñak’ariyta horqorqan, ayllutapas kutichipurqan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Pitaq kani?",
+      "options": [
+        "Profeta Ayyabpa warmin",
+        "Profeta Nuhpa Warmin",
+        "Profeta Ibrahimpa Warmin",
+        "Profeta Ya'qubpa warmin",
+        "Faraonpa ususin"
+      ],
+      "answer": "Profeta Ayyabpa warmin"
+    },
+    "trial": {
+      "label": "Prueba/Evento nisqa",
+      "options": [
+        "Ayyubwan qhipakuy chinkachiywan, unquywan ima, chaymantataq pacienciata waqyaspa",
+        "Chanin willakuqta anyay, waqlliq llaqtata saqepunanpaq",
+        "Hamuq miray nacenanpaq mañakuy",
+        "Reypa carcel ukupi musquykunata t’ikray",
+        "Mayu patapi encargasqa wawata tariy"
+      ],
+      "answer": "Ayyubwan qhipakuy chinkachiywan, unquywan ima, chaymantataq pacienciata waqyaspa"
+    },
+    "location": {
+      "label": "Elemento Clave nisqa",
+      "options": [
+        "Allah Cheqaq kasqanmanta willakuy, paciencia ima necesitakun",
+        "Pukyupa waqtanpi palmera sacha",
+        "Olakunamanta karunchakuq buqueta ruwanankupaq waqyakuy",
+        "Chunka hukniyuq quyllurkuna, inti lluqsimuq musquy",
+        "Nilo mayu patanta apasqa canasta"
+      ],
+      "answer": "Allah Cheqaq kasqanmanta willakuy, paciencia ima necesitakun"
+    },
+    "outcome": {
+      "label": "Tukusqa",
+      "options": [
+        "Ayyubpa ñak’ariyninmi chinkachisqa karqan, ayllunpas kutichisqa karqan",
+        "Unay suyasqa wawamanmi mana wawayoq mañakuy qhepaman qorqanku",
+        "Huk wayna kamachikuqmi qanchis wata askha kasqanmanta, pisi kasqanmantawan t’ikrarqan",
+        "Huk encargasqa wawatam qispichirqaku mayu puriq yakumanta",
+        "Huk advertencian karqan manaraq thuñichiq unu hunt’ay kashaqtin"
+      ],
+      "answer": "Ayyubpa ñak’ariyninmi chinkachisqa karqan, ayllunpas kutichisqa karqan"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

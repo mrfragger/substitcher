@@ -1,0 +1,61 @@
+{
+  "title": "Ba Lelekiloeng ba Maholimo",
+  "intro": "Sebopuoa se makatsang se eme moo pōpo le ho lahloa ho kopanang teng. Pale ea bona ke ea boikhohomoso bo sa bapisoeng le ho hanyetsa taelo ea bomolimo ka ho feletseng. Khetho ea bona e utloahala molokong o mong le o mong, e fetoha teko bakeng sa moea o mong le o mong o tsoaletsoeng lefatšeng lena. Na u ka tseba sera sena sa ka ho sa feleng?",
+  "clues": [
+    "Ke ne ke le teng ketsahalong ea bohlokoa ba bokahohle, ha sebopuoa se secha se ne se etsoa ka letsopa 'me se fuoa bophelo ke Moea oa Mohau.",
+    "Nna ka bonna ke bōpiloe ho tsoa nthong e le 'ngoe e tukang, ho fapana le ntho eo ea lerōle.",
+    "Ke ile ka fuoa taelo eo ke neng ke e nka e le ka tlas'a boemo ba ka.",
+    "Boikhohomoso bo ile ba eketseha ka hare ho 'na, 'me ka hana ka tieo ho latela taelo eo.",
+    "Ke ile ka fuoa tieho ho fihlela Letsatsi le behiloeng, e le hore nka phehella morero oa ka o phatlalalitsoeng oa ho khelosa ba bang.",
+    "Ke 'na sera se phatlalalitsoeng sa bohle ba tsamaeang lefatšeng, ke hoeshetsa mashano le ho ba hohela hole le tsela e otlolohileng."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ke mang?",
+      "options": [
+        "Iblis (Satane)",
+        "Faro (Firawn)",
+        "Hamane",
+        "Abu Jahl",
+        "Samiri"
+      ],
+      "answer": "Iblis (Satane)"
+    },
+    "trial": {
+      "label": "Nyeoe/Ketsahalo",
+      "options": [
+        "O ile a hana ho inama ka pel'a Adama",
+        "Ho ipolela hore ke Molimo ka bohata",
+        "O entse namane ea khauta bakeng sa borapeli",
+        "O bolaile moena oa hae ka lebaka la mohono",
+        "O ile a etella pele khanyetso ea melimo e mengata Makkah"
+      ],
+      "answer": "O ile a hana ho inama ka pel'a Adama"
+    },
+    "location": {
+      "label": "Karolo ea Bohlokoa",
+      "options": [
+        "Paradeise (Jannah)",
+        "Ntlo ea borena ea Faro Egepeta",
+        "Phula e halalelang ea Tuwa",
+        "Botebo ba leoatle",
+        "Serapa sa Sheba"
+      ],
+      "answer": "Paradeise (Jannah)"
+    },
+    "outcome": {
+      "label": "Sephetho",
+      "options": [
+        "E fuoe phomolo ho fihlela Letsatsi la Kahlolo",
+        "Ba khangoa ke metsi hammoho le lebotho leoatleng",
+        "E metsoa ke lefats'e hammoho le matlotlo",
+        "O fetohile litšoene ka lebaka la ho tlōla Sabatha",
+        "Ho chesoa ke majoe a lahleloang leholimong"
+      ],
+      "answer": "E fuoe phomolo ho fihlela Letsatsi la Kahlolo"
+    }
+  },
+  "verseRef": "16:99",
+  "arabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "verse": "Indeed, there is for him no authority over those who have believed and rely upon their Lord. (16:99)"
+}

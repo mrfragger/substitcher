@@ -1,0 +1,61 @@
+{
+  "title": "El Guardià a la Vora del Riu",
+  "intro": "En una terra on el decret d'un tirà va portar dolor a moltes llars, una ànima va rebre un missatge que va desafiar tota por. Amb un cor ple de confiança, es van embarcar en un acte de fe que canviaria el curs d'una nació. Mentre les aigües transportaven una preciosa càrrega, l'esperança es barrejava amb els corrents.",
+  "clues": [
+    "Vaig viure en una època d'opressió i por.",
+    "Vaig rebre una inspiració divina que em va donar coratge.",
+    "Em van ordenar que no tingués por ni afligir-me.",
+    "Vaig posar el meu fill en un cofre i el vaig deixar sobre l'aigua.",
+    "El meu fill va ser trobat per la casa del governant, però l'altre fill el va seguir.",
+    "Em vaig retrobar amb el meu fill per alletar-lo, tal com Al·là va prometre."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La mare de Moisès",
+        "L'esposa del faraó",
+        "La germana de Moisès",
+        "La Mare de Jesús",
+        "La reina de Saba"
+      ],
+      "answer": "La mare de Moisès"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Inspirat per llançar un nen al riu",
+        "Ser desafiat a un duel de màgia",
+        "Perseguit per un exèrcit",
+        "Travessant un mar que s'ha obert",
+        "Construint una casa sagrada"
+      ],
+      "answer": "Inspirat per llançar un nen al riu"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un cofre dipositat al riu",
+        "Un arbust ardent",
+        "Un bastó que es va convertir en una serp",
+        "Un vedell d'or",
+        "Un tron"
+      ],
+      "answer": "Un cofre dipositat al riu"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "El nen va ser retornat a la infermera sa i estalvi",
+        "El nen es va perdre per sempre",
+        "El nen va ser portat a una terra llunyana",
+        "El nen es va convertir immediatament en governant",
+        "El nen va ser adoptat per un ric comerciant"
+      ],
+      "answer": "El nen va ser retornat a la infermera sa i estalvi"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

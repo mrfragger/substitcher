@@ -1,0 +1,61 @@
+{
+  "title": "Balss, kas atteicās no izmisuma",
+  "intro": "Ieejiet mājās, kur zaudējums seko zaudējumam, tomēr viena mierīga balss atsakās no izmisuma. Viens vienīgs aicinājums Korānā pacietību pārvērš pagrieziena punktā; vai varat izsekot pavedienus līdz personai, kas slēpjas aiz šīs balss?",
+  "clues": [
+    "Es biju pacietības balss ģimenē, kur svētības tika pārbaudītas ar nelaimēm.",
+    "Es paliku ģimenē, kas bija iztukšota bagātības un bērnu zaudējuma dēļ.",
+    "Es zināju, ka slimība bija piemeklējusi arī šo biedru, kura ķermenis bija cietis.",
+    "Kad ciešanas kļuva nopietnas, es piesaucu Allāhu, atgādinot viņam.",
+    "Es piedāvāju vienu paziņojumu: Allāhs ir Patiesība, tāpēc esiet pacietīgi.",
+    "Es saucu Ajūbu vārdā; pēc tam Allāhs novērsa ciešanas un atjaunoja ģimeni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Pravieša Ajūba sieva",
+        "Pravieša Nuha sieva",
+        "Pravieša Ibrahima sieva",
+        "Pravieša Jakuba sieva",
+        "Faraona meita"
+      ],
+      "answer": "Pravieša Ajūba sieva"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Palikt kopā ar Ajūbu zaudējuma un slimības laikā, pēc tam aicinot uz pacietību",
+        "Brīdinājums taisnīgam vēstnesim pamest samaitātu kopienu",
+        "Lūgšana par nākotnes dzimtas dzimšanu",
+        "Sapņu interpretācija karaliskajā cietumā",
+        "Atrast uzticēto bērnu upes krastā"
+      ],
+      "answer": "Palikt kopā ar Ajūbu zaudējuma un slimības laikā, pēc tam aicinot uz pacietību"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Nepieciešama deklarācija, ka Allāhs ir Patiesība, un pacietība",
+        "Palma blakus avotam",
+        "Aicinājums būvēt kuģi tālu no viļņiem",
+        "Sapnis par vienpadsmit zvaigznēm un uzlecošu sauli",
+        "Grozs, ko nests pa Nīlu"
+      ],
+      "answer": "Nepieciešama deklarācija, ka Allāhs ir Patiesība, un pacietība"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Ajūba ciešanas tika atvieglotas, un viņa ģimene tika atjaunota.",
+        "Pēc neauglīgas lūgšanas tika piešķirts ilgi gaidīts bērns",
+        "Jauns valdnieks interpretēja septiņus pārpilnības un trūkuma gadus",
+        "Uzticēts bērns tika izglābts no tekoša ūdens",
+        "Pirms postošiem plūdiem tika izdots brīdinājums"
+      ],
+      "answer": "Ajūba ciešanas tika atvieglotas, un viņa ģimene tika atjaunota."
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

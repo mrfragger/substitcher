@@ -1,0 +1,61 @@
+{
+  "title": "Serwerê ku Xwedatiyê Daxwaz Dikir",
+  "intro": "Hukumdarekî bihêz û xudperest bawer dikir ku kes ji textê wan bilindtir nîne. Wan komeke ku direviya li ser çemeke mezin a avê şopand, lê bi dawîyek dramatîk re rû bi rû man. Çîroka vî hukumdarî di gelek beşên Quranê de deng vedide û ji bo her kesî hişyariyek e.",
+  "clues": [
+    "Ez hikumdarekî bihêz bûm ku bawer nedikir ku li welatên ku min hukum dikir, ti desthilatdarî ji ya min çêtir nîne.",
+    "Wezîrêkî min ê pêbawer bi navê Haman hebû ku di pêkanîna projeyên mîmarî yên mezin de alîkariya min dikir.",
+    "Min sêrbazên herî baş ên welatê xwe gazî kirin da ku nîşanên peyamberekî ku dijberiya min dikir, red bikim.",
+    "Min red kir ku ez rê bidim gelek kole di welatê min de biçin, tevî bela û hişyariyên zelal.",
+    "Min bi hemû artêş û erebeyên xwe li ser deryayeke fireh li pey wan çûm.",
+    "Ew derya li ser min û hêzên min girt, me hemûyan xeniqand, dema ku ew bi ewlehî derbas bûn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Fîrewn (Firewn)",
+        "Nemrûd",
+        "Ebû Leheb",
+        "Haman",
+        "Ebû Cehl"
+      ],
+      "answer": "Fîrewn (Firewn)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Nexweşî û rûbirûbûna bi Mûsa re (Mûsa)",
+        "Avakirina keştiyekê berî lehiyê mezin",
+        "Şerê li dijî Calut li geliyê",
+        "Ji aliyê balîneyekê ve tê daqurtandin",
+        "Parastina giraniya bazirganiyê ya rast"
+      ],
+      "answer": "Nexweşî û rûbirûbûna bi Mûsa re (Mûsa)"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Birc û stûnên bilind",
+        "Keştiyek darîn a mezin",
+        "Golikê zêrîn",
+        "Dara ku veguherî mar",
+        "Balînayek mezin"
+      ],
+      "answer": "Birc û stûnên bilind"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bi artêşê re di deryayê de xeniqî",
+        "Bi rehma Xwedê û sebira wî hat xelatkirin",
+        "Piştî salên zehmetiyê dîsa gihîştin malbata xwe",
+        "Ji aliyê erdê ve hatiye daqurtandin",
+        "Di agir de şewitî"
+      ],
+      "answer": "Bi artêşê re di deryayê de xeniqî"
+    }
+  },
+  "verseRef": "51:40",
+  "arabic": "فَأَخَذْنَـٰهُ وَجُنُودَهُۥ فَنَبَذْنَـٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌۭ",
+  "verse": "So We took him and his soldiers and cast them into the sea, and he was blameworthy. (51:40)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vocea care a contestat domnia unui idol",
+  "intro": "Printre mesagerii Celui Atotputernic s-a aflat un slujitor statornic care s-a ridicat în mijlocul unei națiuni încăpățânate pentru a transmite adevărul. Poporul lor adoptase o zeitate născocită, întorcându-se de Creatorul a tot ceea ce există. Cu o hotărâre neclintită, acest individ i-a chemat înapoi - dar mesajul a fost întâmpinat cu negare și respingere. Parcurgeți indiciile pentru a descoperi cine a fost acest slujitor devotat.",
+  "clues": [
+    "Am fost trimis ca mesager la un popor încăpățânat care se abătuse departe de calea cea dreaptă.",
+    "Am venit să-i reamintesc națiunii mele de Cel care a creat tot ce există - cel mai bun dintre toți creatorii.",
+    "Poporul meu se îndreptase către un idol fals pe care îl venerau și îl chemau zi și noapte.",
+    "I-am provocat cu îndrăzneală, întrebându-i de ce s-ar închina unei zeități născocite și L-ar abandona pe adevăratul lor Domn.",
+    "M-au tăgăduit, au refuzat să asculte și s-au agățat de necredința lor - totuși Domnul meu m-a păzit.",
+    "Eu sunt Ilyas — și pacea mi-a fost dată și am fost numărat printre slujitorii credincioși ai Celui Prea Milostiv."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Profetul Ilia",
+        "Profetul Idris",
+        "Profetul Alisa",
+        "Profetul Dhul-Kifl",
+        "Profetul Nuh"
+      ],
+      "answer": "Profetul Ilia"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Chemarea unui popor de la închinarea la Ba'al",
+        "Confruntarea unui tiran care pretindea a fi zeu",
+        "Avertizând un popor cu privire la o inundație iminentă",
+        "Fiind aruncat într-un foc mare și arzător",
+        "Conducând un exod din țara robiei"
+      ],
+      "answer": "Chemarea unui popor de la închinarea la Ba'al"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Idolul numit Ba'al",
+        "O arcă mare construită din lemn rezistent",
+        "Un toiag care a despărțit o mare vastă",
+        "Un veșmânt sacru pătat cu sânge",
+        "Un rug aprins pe un munte sfânt"
+      ],
+      "answer": "Idolul numit Ba'al"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "I s-a acordat pacea și a fost numărat printre slujitorii aleși ai lui Allah",
+        "Condus în paradis în timp ce toate celelalte au fost distruse",
+        "Salvat dintr-un incendiu puternic, care a devenit răcoros și în siguranță",
+        "I s-a dat stăpânire asupra djinnilor, umanității și vântului",
+        "Corpul păstrat ca un semn durabil pentru veacuri"
+      ],
+      "answer": "I s-a acordat pacea și a fost numărat printre slujitorii aleși ai lui Allah"
+    }
+  },
+  "verseRef": "37:130",
+  "arabic": "سَلَـٰمٌ عَلَىٰٓ إِلْ يَاسِينَ",
+  "verse": "\"Peace upon Elias.\" (37:130)"
+}

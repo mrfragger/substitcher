@@ -1,0 +1,61 @@
+{
+  "title": "El Servidor de la Sabiduría Oculta",
+  "intro": "En el vasto tapiz de las narraciones coránicas, se alza una figura enigmática, un siervo de Alá dotado de conocimiento y misericordia divinos. Este misterioso individuo se cruzó con uno de los más grandes profetas, dando inicio a un viaje lleno de acciones desconcertantes que desafiaron los límites de la comprensión humana. Cada acto, aunque aparentemente injusto, ocultaba profundas lecciones sobre el destino, la paciencia y la sabiduría invisible que subyace al decreto divino. ¿Quién es esta figura misteriosa y qué verdades reveló?",
+  "clues": [
+    "Yo era un siervo de Alá, elegido para recibir un conocimiento y una misericordia especiales.",
+    "Un gran profeta quiso aprender de mí, y yo acepté bajo estrictas condiciones.",
+    "Durante nuestra reunión, realicé tres acciones que le parecieron injustas a mi compañero.",
+    "Dañé un barco que pertenecía a gente pobre, pero fue un acto de misericordia encubierto.",
+    "Le quité la vida a un niño pequeño; aunque parezca cruel, lo hice para evitarles el sufrimiento a sus padres.",
+    "Reconstruí un muro en un pueblo que nos negó hospitalidad, y debajo de él descubrí un tesoro."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quién soy yo?",
+      "options": [
+        "Al-Khidr (el siervo justo)",
+        "El dueño de los dos jardines",
+        "Uno de los habitantes de la cueva",
+        "El rey que discutió con Ibrahim",
+        "El hombre que durmió durante 100 años"
+      ],
+      "answer": "Al-Khidr (el siervo justo)"
+    },
+    "trial": {
+      "label": "Prueba/Evento",
+      "options": [
+        "Encuentro con el profeta Musa en la confluencia de los dos mares.",
+        "Construyendo una barrera contra Gog y Magog.",
+        "Ser arrojado a un gran fuego",
+        "Dividiendo el mar en dos mitades",
+        "Recibir las tablas de la Torá"
+      ],
+      "answer": "Encuentro con el profeta Musa en la confluencia de los dos mares."
+    },
+    "location": {
+      "label": "Elemento clave",
+      "options": [
+        "La confluencia de los dos mares",
+        "Monte Sinaí",
+        "La cueva de Thawr",
+        "El valle de Tuwa",
+        "El pozo de Zamzam"
+      ],
+      "answer": "La confluencia de los dos mares"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Explicó la sabiduría divina detrás de sus desconcertantes acciones y se separó de Musa.",
+        "Tras el viaje, se le concedió la profecía.",
+        "El barco fue destruido por una tormenta.",
+        "El niño fue devuelto a la vida.",
+        "Construyó una mezquita en la inhóspita ciudad."
+      ],
+      "answer": "Explicó la sabiduría divina detrás de sus desconcertantes acciones y se separó de Musa."
+    }
+  },
+  "verseRef": "18:65",
+  "arabic": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَـٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَـٰهُ مِن لَّدُنَّا عِلْمًۭا",
+  "verse": "And they found a servant from among Our servants [i.e., al-Khiḍr] to whom We had given mercy from Us and had taught him from Us a [certain] knowledge. (18:65)"
+}

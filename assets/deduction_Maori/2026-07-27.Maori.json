@@ -1,0 +1,61 @@
+{
+  "title": "Te Tuku i Whakarerekē i te Ao Tūturu",
+  "intro": "I ngā rā tōmua o te tangata, i tuku te wairua i tētahi koha me ngā whakaaro parakore. Heoi, i noho puku te hae i roto i te atarangi o te manako. Tirohia te kōrero mō tēnei tangata, ko tōna karakia me tōna mutunga pōuri kua whakatōkia tonutia i roto i te whakakitenga atua.",
+  "clues": [
+    "Ko ahau tētahi o ngā whakatipuranga tuatahi o te tangata.",
+    "I tuku atu ahau i tētahi whakahere ki tōku Ariki, ā, i manakohia mai.",
+    "I whakakahoretia te whakahere a tōku tuakana, ā, i pōuri te ngākau o te hae.",
+    "Ka mea atu ahau ki a ia, 'Ki te totoro mai tō ringa ki ahau hei patu i ahau, e kore ahau e totoro atu i tōku ringa ki te patu i a koe; he pono e wehi ana ahau i a Allah, i te Ariki o ngā ao.'",
+    "I riro ahau hei patunga mō te mahi kohuru tuatahi i runga i te whenua.",
+    "I karanga mai ōku toto, ā, ko ahau te mātāra tuatahi o te harakore."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai ahau?",
+      "options": [
+        "Hāpiri (Āpera)",
+        "Qabil (Kaina)",
+        "Te Tangata nō Ya-Sin",
+        "Te Hāmiri",
+        "Lukmana"
+      ],
+      "answer": "Hāpiri (Āpera)"
+    },
+    "trial": {
+      "label": "Whakamātautau/Takahanga",
+      "options": [
+        "I manakohia tana whakahere, ā, ka hae tōna tuakana, ka kohurutia ia.",
+        "I makaia ia ki roto i te oumu mura, engari i puta mai ia, kāore i whara",
+        "I hanga e ia tētahi kaipuke nui i raro i te arataki a te Atua",
+        "I horomia ia e te ika nui, ā, noho tonu i te pōuri",
+        "I ārahi ia i tōna iwi i roto i te moana pakarukaru"
+      ],
+      "answer": "I manakohia tana whakahere, ā, ka hae tōna tuakana, ka kohurutia ia."
+    },
+    "location": {
+      "label": "Huānga Matua",
+      "options": [
+        "He whakahere kua whakaaetia",
+        "He tokotoko e huri ana hei nakahi",
+        "He kamera uha hei tohu atua",
+        "He hūpō e kawe mai ana i ngā rongo",
+        "He kuao kau koura i karakiatia"
+      ],
+      "answer": "He whakahere kua whakaaetia"
+    },
+    "outcome": {
+      "label": "Hua",
+      "options": [
+        "Kohuru tuatahi i roto i te hītori; i whakataua tōna teina",
+        "Horomia ana e te whenua me ōna taonga",
+        "I hurihia hei makimaki nā te takahi ture",
+        "I whakangaromia e te hau nui, te hau hukapapa",
+        "I toremi i roto i te waipuke nui hei whiu"
+      ],
+      "answer": "Kohuru tuatahi i roto i te hītori; i whakataua tōna teina"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

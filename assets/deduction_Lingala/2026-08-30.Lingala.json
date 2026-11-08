@@ -1,0 +1,61 @@
+{
+  "title": "Molimo ya Emoniseli oyo batye motema",
+  "intro": "Na bisika oyo emonanaka te, ekelamu ya pole ya pɛto etambolaka na bosikisiki, ezali kokokisa etinda nyonso kozanga kokakatana. Motángo oyo elobelaki basaleli oyo baponami, amemi maloba ya bokambi, mpe amonaki ndenge mibeko ya Nzambe ezalaki kobima na boumeli ya bileko. Molimo oyo ya lokumu ezali nani?",
+  "clues": [
+    "Nazali ekelamu ya pole ya peto, ekelamaki uta na pole, mpe natosi ata moke te etinda moko ya Nkolo na ngai.",
+    "Nazali kotambola kati na lola mpe mabele, kokita na mibeko ya Mozwi-ya-Mawa mingi.",
+    "Natindamaki epai ya ngɔndɔ moko ya lokumu na esika mosantu, kosakola epai na ye mwana mobali ya pɛto.",
+    "Nazali molimo ya bosantu, mpe nasungaki profeta moko oyo apesamaki bilembo ya polele mpe Nsango Elamu.",
+    "Nayaki na libulu moko na ngomba mpo na kopesa maloba ya yambo ya botangi oyo ekobatelama libela.",
+    "Nazali molimo ya kotyela motema, mpe ezalaki ngai nde nakitisaki Coran likolo ya motema ya momemi-nsango ya nsuka."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nazali Nani?",
+      "options": [
+        "Jibril (Gabriel) mpe azali",
+        "Mikail (Michael) mpe azali",
+        "Anzelu ya Liwa",
+        "Malik (Mobateli ya Lifelo) .",
+        "Harut (moko ya baanzelu mibale na Babilone) ."
+      ],
+      "answer": "Jibril (Gabriel) mpe azali"
+    },
+    "trial": {
+      "label": "Mission/Role ya ntina",
+      "options": [
+        "Kopesa emoniseli epai ya basakoli",
+        "Kobɛta kelelo na Mokolo ya Kosambisama",
+        "Kobatela baporte ya Lifelo",
+        "Kokoma misala ya bato",
+        "Kosala ete mbula ebɛta"
+      ],
+      "answer": "Kopesa emoniseli epai ya basakoli"
+    },
+    "location": {
+      "label": "Attribut ya ntina to Titre",
+      "options": [
+        "Molimo Mosantu (Ruh al-Qudus) .",
+        "Molimo ya Nguya",
+        "Molimo ya Mawa",
+        "Molimo ya Botambwisi",
+        "Molimo ya Solo"
+      ],
+      "answer": "Molimo Mosantu (Ruh al-Qudus) ."
+    },
+    "outcome": {
+      "label": "Litomba ya Mission",
+      "options": [
+        "Coran ebimisamaki na Prophète Muhammad",
+        "Kelelo ebɛtaki na Mokolo ya Kosambisama",
+        "Lifelo ebatelamaki mpe baporte na yango ekangamaki",
+        "Buku ya Misala epesamaki na Allah",
+        "Mbula ekitisaki na mabele"
+      ],
+      "answer": "Coran ebimisamaki na Prophète Muhammad"
+    }
+  },
+  "verseRef": "81:19",
+  "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+  "verse": "[That] indeed, it [i.e., the Qur’ān] is a word [conveyed by] a noble messenger [i.e., Gabriel] (81:19)"
+}

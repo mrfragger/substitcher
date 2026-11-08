@@ -1,0 +1,61 @@
+{
+  "title": "Guth an Chiontaithe Cheilte",
+  "intro": "I gcroílár cúirte tíoránta, áit a raibh an easpa creidimh ina dhlí sa tír, shiúil anam uaigneach ar rópa teann creidimh agus eagla. D’éist an duine seo, gar do lár na cumhachta, agus teachtaireacht fáidh á glacadh le magadh agus bagairtí. Tháinig nóiméad na fírinne, rud a chuir iallach ar an duine seo rogha a dhéanamh idir sábháilteacht chiúin agus fírinne chontúirteach a labhairt. An féidir leat céannacht an abhcóide cróga seo a nochtadh?",
+  "clues": [
+    "Bhí cónaí orm i dteaghlach tíoránaigh féin, ag feiceáil go pearsanta an t-uabhar a dhiúltaigh do chomharthaí diaga.",
+    "Choinnigh mé mo chreideamh ina rún, seod i bhfolach i bpálás íoladhradh.",
+    "Chuala mé an ceannaire a raibh mé ag fónamh dó ag pleanáil teachtaire Allah, fear darbh ainm Músa, a mharú.",
+    "Chuir mé ceist ar a loighic, ag cur cinniúint mhuintir Nuh, 'Ad, agus Thamud i gcuimhne dóibh.",
+    "Chuir mé ceist chriticiúil ar mo mhuintir: ‘Más bréagadóir é, is air atá a bhréag; ach má tá an fhírinne ann, beidh cuid dá ghealltanais buailte oraibh.’",
+    "Insítear mo scéal mar shampla de chreideamh sa surah dar teideal 'An Maithitheoir,' áit a thug mé rabhadh do mo mhuintir i gcoinne scéimeanna na ndaoine cumhachtach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Creidmheach ó Theaghlach Fir'awn",
+        "Haman",
+        "Draíodóirí Fir'awn",
+        "Qarún",
+        "An Samiri"
+      ],
+      "answer": "An Creidmheach ó Theaghlach Fir'awn"
+    },
+    "trial": {
+      "label": "Cad a bhí i mo thriail?",
+      "options": [
+        "Ag cosaint an Fháidh Músa i gcúirt an tíoránaigh",
+        "Ag tógáil túir ard chun na flaithis a bhaint amach",
+        "Á chaitheamh i dtine lasrach",
+        "Á shlogadh ag iasc ollmhór",
+        "Cailliúint gach saibhreas agus sláinte"
+      ],
+      "answer": "Ag cosaint an Fháidh Músa i gcúirt an tíoránaigh"
+    },
+    "location": {
+      "label": "Cad é Téama mo Argóinte?",
+      "options": [
+        "Iarmhairt dhiúltú theachtaireacht fáidh",
+        "An t-éileamh ar chomhartha ó chrann naofa",
+        "Cruthú lao as seodra leáite",
+        "Míorúilt camaill ón gcarraig",
+        "Léirmhíniú aislingí rialóra"
+      ],
+      "answer": "Iarmhairt dhiúltú theachtaireacht fáidh"
+    },
+    "outcome": {
+      "label": "Cad a Bhí mar Thoradh?",
+      "options": [
+        "Shábháil Allah an duine seo óna bplota olc",
+        "Ghlac an chúirt ar fad leis an Ioslam láithreach.",
+        "Rinne an tíoránach aithrí nuair a bádh sé",
+        "Slogadh an talamh an tíoránach",
+        "Díbríodh an duine go tír i bhfad i gcéin"
+      ],
+      "answer": "Shábháil Allah an duine seo óna bplota olc"
+    }
+  },
+  "verseRef": "40:45",
+  "arabic": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "verse": "So Allāh protected him from the evils they plotted, and the people of Pharaoh were enveloped by the worst of punishment - (40:45)"
+}

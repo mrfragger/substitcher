@@ -1,0 +1,61 @@
+{
+  "title": "An Gasóg Cleiteach",
+  "intro": "Laistigh de ríocht a raibh smacht air ar na gaotha, na créatúir dofheicthe, agus créatúir na spéire, d’imigh ball beag gasta amháin as na ranganna – ach d’fhill sé le nochtuithe a athmhúnlódh cinniúint náisiúin i bhfad i gcéin. Thug an t-eolasóir géarchúiseach seo an fhírinne chun solais san áit a raibh aineolas fréamhaithe. Cé Mise?",
+  "clues": [
+    "D'fhóin mé i gcúirt inar fhreagair daoine, créatúir dofheicthe, agus créatúir na spéire do rialóir críonna aonair a bhí i gceannas ar na gaotha féin.",
+    "Bhí mé as láthair ó mo phost ar feadh tamaill, agus gealladh fearg an rialóra mura dtabharfainn cúis shásúil.",
+    "Is créatúr beag eitilte mé, ar a dtugtar radharc géar, agus tugadh onóir do mo chineál ainmniú díreach i leathanaigh an nochta.",
+    "Nuair a d’fhill mé, thug mé scéala liom faoi thír i bhfad i gcéin inar chrom na daoine faoin ngrian, dall ar an té a chruthaigh na flaithis agus an talamh.",
+    "Fuair ​​mé bean i ríocht mhór, ina suí ar ríchathaoir iontach, gan an fhírinne ar eolas aici riamh roimhe.",
+    "Is mise an té a d'aimsigh ríocht Shaba agus a d'iompair litir chuireadh ó rí-fháidh a tugadh smacht dó ar an ngaoth."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "An Hoopoe (Hudhud)",
+        "An Seangán ó Ghleann Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit an Jinn",
+        "Aingeal na Ríchathaoir"
+      ],
+      "answer": "An Hoopoe (Hudhud)"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "An turas go Ríocht Shaba (Sheba)",
+        "An comhrac le draoithe an Pharaoh",
+        "Tuile an Fháidh Nuh",
+        "Scriosadh Mhuintir 'Ad",
+        "Scoilteadh na Mara Rua"
+      ],
+      "answer": "An turas go Ríocht Shaba (Sheba)"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tír Shíba (Séba)",
+        "Sliabh Shíonáí",
+        "Áirc an Fháidh Nuh",
+        "Uaimh Ashab al-Kahf",
+        "Pálás an Fharó"
+      ],
+      "answer": "Tír Shíba (Séba)"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Tháinig Bilqis faoi bhráid chúirt Sulaiman",
+        "Bádh Faraó agus a arm sa bhfarraige",
+        "Scriosadh muintir 'Ad le gaoth fhoréigneach",
+        "Chreid draoithe an Pharaoh sa Fháidh Músa",
+        "D'ith tuile mhór na neamhchreidmhigh"
+      ],
+      "answer": "Tháinig Bilqis faoi bhráid chúirt Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

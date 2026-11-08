@@ -1,0 +1,61 @@
+{
+  "title": "Kẻ bị ruồng bỏ khỏi Vườn Địa Đàng",
+  "intro": "Một sinh vật bí ẩn từng ngự trị ở những tầng bậc cao nhất của tạo hóa, gần gũi với Thần thánh hơn nhiều người có thể tưởng tượng. Nhưng sự kiêu ngạo đã bén rễ, và một hành động bất tuân duy nhất đã thay đổi vận mệnh. Giờ đây, sinh vật này lang thang như một kẻ thù không đội trời chung, thì thầm và mưu mô cho đến ngày đã định. Liệu bạn có thể khám phá ra danh tính của kẻ sa ngã này?",
+  "clues": [
+    "Tôi từng là một trong những người gần gũi nhất với sự hiện diện thiêng liêng, được nâng cao hơn phần lớn tạo vật.",
+    "Tôi được tạo ra từ một nguyên tố nóng bỏng, chứ không phải từ đất hay bùn.",
+    "Khi bị ra lệnh phải cúi đầu trước một tạo vật mới, tôi đã từ chối — xuất phát từ niềm tin vào sự ưu việt của bản thân.",
+    "Tôi bị đuổi khỏi nhà và bị nguyền rủa, nhưng cuối cùng được ân xá cho đến một thời điểm đã được định trước.",
+    "Tôi thề sẽ lừa dối càng nhiều người càng tốt, tiếp cận con cháu Adam từ mọi hướng.",
+    "Ta là kẻ thù công khai, không che giấu của toàn nhân loại, luôn âm mưu và thì thầm cho đến khi kết thúc đã được định sẵn."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tôi là ai?",
+      "options": [
+        "Iblis",
+        "Harut",
+        "Samiri",
+        "Tiên tri Ilyas",
+        "Abu Lahab"
+      ],
+      "answer": "Iblis"
+    },
+    "trial": {
+      "label": "Thử nghiệm / Sự kiện",
+      "options": [
+        "Từ chối phủ phục trước Adam",
+        "Xây dựng tượng con bê vàng để dân chúng thờ cúng.",
+        "Dạy thuật phù thủy cho người dân Babylon",
+        "Chia đôi biển bằng một cây gậy",
+        "Mang ngai vàng của Nữ hoàng Sheba trong nháy mắt"
+      ],
+      "answer": "Từ chối phủ phục trước Adam"
+    },
+    "location": {
+      "label": "Yếu tố chính",
+      "options": [
+        "Vườn Địa Đàng",
+        "Ngọn núi Tur",
+        "Giếng Rass",
+        "Cung điện của Pharaoh",
+        "Hang động của những người ngủ say"
+      ],
+      "answer": "Vườn Địa Đàng"
+    },
+    "outcome": {
+      "label": "Kết quả",
+      "options": [
+        "Thời gian tạm hoãn được ban cho đến Ngày Phán Xét.",
+        "Chết đuối trên biển cùng với một đội quân",
+        "Bị chôn sống dưới một cung điện đang sụp đổ",
+        "Biến thành vượn hoặc khỉ",
+        "Được thăng cấp lên bậc cao hơn"
+      ],
+      "answer": "Thời gian tạm hoãn được ban cho đến Ngày Phán Xét."
+    }
+  },
+  "verseRef": "15:39",
+  "arabic": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+  "verse": "[Iblees] said, \"My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all (15:39)"
+}

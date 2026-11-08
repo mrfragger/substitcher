@@ -1,0 +1,61 @@
+{
+  "title": "Vieraanvaraisuus, joka toi pelkoa",
+  "intro": "Pahuuden riivaamassa kaupungissa uskollinen palvelija sai eräänä päivänä odottamattomia vieraita. Heidän turvallisuudestaan ​​huolissaan tämä henkilö tarjosi suojelusta, mutta kaupungin asukkaat vaativat jotakin häpeällistä. Lähestyvästä tuomiosta varoitettuna palvelija pakeni perheineen pimeyden turvin jättäen taakseen tuhoon merkityn kaupungin. Kuka on tämä yksinäinen uskova?",
+  "clues": [
+    "Minut lähetettiin sanansaattajaksi kansan luo, joka oli syyllistynyt häpeällisiin tekoihin.",
+    "Odottamattomia vieraita tuli kotiini, ja olin enemmän huolissani heidän kuin omasta turvallisuudestani.",
+    "Ihmiset vaativat nähdä vieraani pahojen aikomusten vuoksi, ja yritin puhua heille järkeä.",
+    "Vierailijani paljastuivat enkeleiksi ja käskivät minua ottamaan perheeni ja lähtemään yöllä.",
+    "Vaimoni ei kuunnellut pakokehotusta ja kohtasi saman tuhon kuin kansani.",
+    "Kaupunkini kukistui kerrostetun saven kivisateella, sen korkeimmat kohdat tuotu alhaisimpiin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Lut",
+        "Profeetta Musa",
+        "Profeetta Ibrahim",
+        "Profeetta Nooa",
+        "Profeetta Hud"
+      ],
+      "answer": "Profeetta Lut"
+    },
+    "trial": {
+      "label": "Koe/Tapahtuma",
+      "options": [
+        "Kansani vaatimus lähestyä vieraitani ilkeästi",
+        "Meren jakautuminen tyrannin paetakseen",
+        "Suuren arkin rakentaminen pilkan keskellä",
+        "Poikani uhrautuminen uskon koetuksessa",
+        "Kokemus siitä, kun suuri kala nielaisee sinut"
+      ],
+      "answer": "Kansani vaatimus lähestyä vieraitani ilkeästi"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Kansani kukistunut kaupunki",
+        "Vuori, jolla sain jumalallisen puheen",
+        "Arkki, joka purjehti suuren tulvan läpi",
+        "Kalliosta noussut naaraskameli",
+        "Puutarha, jossa piileskelee vanhurskas vierailija"
+      ],
+      "answer": "Kansani kukistunut kaupunki"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Minut pelastettiin perheeni kanssa ennen kuin kaupunkini kukistettiin",
+        "Johdin kansani vapauteen meren yli",
+        "Rakensin suuren arkin ja selvisin valtavasta tulvasta",
+        "Minulle annettiin valta tuulien ja džinnien yli",
+        "Kestäin kärsimyksen kärsivällisesti ja minut palkittiin perheenä"
+      ],
+      "answer": "Minut pelastettiin perheeni kanssa ennen kuin kaupunkini kukistettiin"
+    }
+  },
+  "verseRef": "11:80",
+  "arabic": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+  "verse": "He said, \"If only I had against you some power or could take refuge in a strong support.\" (11:80)"
+}

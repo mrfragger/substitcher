@@ -1,0 +1,61 @@
+{
+  "title": "La transgressió a la vora de la costa",
+  "intro": "Ets a la sorra d'una costa oblidada, on les onades xiuxiuegen sobre una comunitat posada a prova per un manament diví. L'aire és carregat amb el record d'una violació que va conduir a una transformació sorprenent. Qui eren aquestes ànimes i quina va ser la naturalesa de la seva prova?",
+  "clues": [
+    "Érem una comunitat que vam rebre un manament clar del nostre Senyor, però vam trobar maneres de desafiar-lo.",
+    "Vivíem a prop d'una massa d'aigua, i la nostra subsistència depenia de les seves criatures.",
+    "Ens va venir una prova el dia que se'ns va ordenar abstenir-nos de les activitats mundanes.",
+    "Les criatures de l'aigua van venir a nosaltres en gran nombre aquell mateix dia, temptant-nos més enllà de tota resistència.",
+    "Vam idear un truc astut per eludir l'ordre diví, pensant que podíem ser més llestos que el decret.",
+    "La nostra transgressió va conduir a una transformació humiliant; ens vam convertir en simis menyspreats per ordre d'Al·là."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "La gent del Sàbat",
+        "La gent de Rass",
+        "La gent de Tubba",
+        "La gent de la cova",
+        "Els companys de la fossa"
+      ],
+      "answer": "La gent del Sàbat"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "L'aparició de peixos el dissabte",
+        "Un any de sequera severa",
+        "Un exèrcit d'ocells enviat contra ells",
+        "Una inundació que els va aclaparar",
+        "Un terratrèmol violent"
+      ],
+      "answer": "L'aparició de peixos el dissabte"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El mar",
+        "Una muntanya",
+        "Una cova",
+        "Una vall desèrtica",
+        "Una ciutat fortificada"
+      ],
+      "answer": "El mar"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Convertits en simis",
+        "Engolit per la terra",
+        "Destruït per un vent cridaner",
+        "Ofegat al mar",
+        "Colpejat per una pluja de pedres"
+      ],
+      "answer": "Convertits en simis"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

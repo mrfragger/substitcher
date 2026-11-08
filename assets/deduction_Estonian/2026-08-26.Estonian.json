@@ -1,0 +1,61 @@
+{
+  "title": "Kadedus, mis neelas",
+  "intro": "Lugu, mis on vanem kui ükski kuningriik või pühakiri – esimene armukadedusest sündinud inimtragöödia. Üks hing, kahest esimestele vanematele sündinud lapsest vanem, vaatas raevukalt pealt, kuidas noorem õde-vend sai osaks soosingust, mis talle tagasi lükati. Järgnes kõige süngem valik, mis jättis maha esimese verevalamise maa peale. Kas suudad paljastada identiteedi, katsumuse ja kibeda kahetsuse?",
+  "clues": [
+    "Ma sündisin esimesest inimpaarist, kes maa peal kõndis.",
+    "Kord tegin Allahile ohvri, aga seda ei võetud minult vastu.",
+    "Mu õe-venna pakkumine võeti vastu, minu oma aga lükati tagasi – midagi, mida ma ei suutnud taluda.",
+    "Ma ähvardasin oma venda hävitamisega.",
+    "Minust sai esimene, kes pani siin maa peal toime mõrva, võttes omaenda õe või venna elu.",
+    "Allah saatis maapealse olendi – musta linnu, kes maasse kaevas – õpetama mulle, kuidas varjata oma tegu, ja mulle ei jäänud muud üle kui kahetsus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Qabil (Kain)",
+        "Habil (Abel)",
+        "Prohvet Yaqub",
+        "Prohvet Musa",
+        "Prohvet Aadam"
+      ],
+      "answer": "Qabil (Kain)"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Allah lükkas ohvri tagasi",
+        "Visatud suurde tulle",
+        "Jõkke jäetud imikuna",
+        "Proovitud tohutu kuningriigiga",
+        "Käskis oma poeg ohverdada"
+      ],
+      "answer": "Allah lükkas ohvri tagasi"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Allahi saadetud vares",
+        "Kuldvasikas",
+        "Laev mäel",
+        "Põlev põõsas",
+        "Kaljust raiutud emane kaamel"
+      ],
+      "answer": "Allahi saadetud vares"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Sai täis kahetsust ja kaotajate hulka",
+        "Maa alla neelatud koos aaretega",
+        "Sai Allahi üllaseks sõnumitoojaks",
+        "Sisenes paradiisi jumaliku halastuse läbi",
+        "Valitses võrratut kuningriiki"
+      ],
+      "answer": "Sai täis kahetsust ja kaotajate hulka"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

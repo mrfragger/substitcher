@@ -1,0 +1,61 @@
+{
+  "title": "Nebûna Pîroz",
+  "intro": "Li pişt qûntarên demê, çîrokeke dilsoziya bêdawî û baweriyeke ewqas giran heye ku giyanê ku wê hildigirt dikaribû bişkê. Di kêliyekê de ku mirov ber bi bêaqilî û zêr ve çûn, kesayetiyek bi israr sekinî - gazî wan kir, ji bo sebirê lava kir û giraniya sozek pîroz hilgirt. Ev çîroka kesekî ye ku di nebûna pîroz de wekî alîkar, wezîr û parêzvanê baweriyê hatiye hilbijartin. Hûn dikarin nasnameya vî giyanê bêwest eşkere bikin?",
+  "clues": [
+    "Ez xwîna pêxemberekî mezin parve dikim ku hatiye hilbijartin ku rasterast bi Xwedê re li ser çiyayekî pîroz biaxive.",
+    "Carekê birayê min ji Xwedê lava kir ku bi awayekî zelal bi zalimekî mezin re biaxive û alîkariya wî bike.",
+    "Xwedê ez hilbijartim ku li kêleka birayê xwe wek alîkar û wezîrê karên xwe bisekinim.",
+    "Em bi hev re rûbirûyî hukumdarekî zalim bûn ku daxwaz dikir ku jê re wekî xwedayê herî bilind were gotin.",
+    "Dema ku birayê min li ser çiyê bi Xwedê re diaxivî, gelê me ji zêrên xwe ji xwe re pûtek çêkirin.",
+    "Ez birayê Mûsa me, ku Xwedê wek wezîrê xwe tayîn kiriye, û navê min di Quranê de jî derbas dibe."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Pêxember Harûn (Haaron)",
+        "Pêxember Mûsa",
+        "Pêxember Dawud",
+        "Pêxember Yaqûb",
+        "Pêxember Îshaq"
+      ],
+      "answer": "Pêxember Harûn (Haaron)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Krîza Perestina Golikan",
+        "Tofana Mezin a Nûh",
+        "Şerê Bedrê",
+        "Wêrankirina Semudê",
+        "Wêrankirina Sodomê"
+      ],
+      "answer": "Krîza Perestina Golikan"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Golika Zêrîn",
+        "Keştiya Nûh",
+        "Dara Dişewite",
+        "Şikefta Hîra",
+        "Textê Şebayê"
+      ],
+      "answer": "Golika Zêrîn"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bêgunehî ji hêla Xwedê ve hatîye piştrastkirin",
+        "Xeniqîna Fîrewn",
+        "Avakirina Kebeyê",
+        "Derbasbûna bi Ewle ya Deryayê",
+        "Hilkişîna ber bi Ezmanan"
+      ],
+      "answer": "Bêgunehî ji hêla Xwedê ve hatîye piştrastkirin"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

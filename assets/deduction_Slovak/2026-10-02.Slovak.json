@@ -1,0 +1,61 @@
+{
+  "title": "Panovník, ktorý prešiel až na kraj sveta",
+  "intro": "Predstavte si mocného vládcu, ktorému bola udelená sila a autorita nad krajinou. Táto postava sa vydala na mimoriadne cesty, dosiahla miesto, kde slnko zapadá aj miesto, kde vychádza, stretla sa s cudzími ľuďmi a čelila veľkej výzve dvoch skazených národov. Kto je tento záhadný vodca?",
+  "clues": [
+    "Bol som vládcom, ktorému bola udelená autorita a prostriedky na dosiahnutie najvzdialenejších kútov zeme.",
+    "Cestoval som na západ a bol som svedkom západu slnka v kalnej jari.",
+    "Stretol som ľudí blízko vychádzajúceho slnka, ktorí nemali žiadny úkryt pred jeho horúčavou.",
+    "Ďalšia komunita ma požiadala o pomoc proti dvom skazeným národom známym ako Góg a Magóg.",
+    "Postavil som bariéru zo železa a roztavenej medi, aby som ich zadržal.",
+    "Vyhlásil som, že táto bariéra je milosrdenstvom od môjho Pána a zostane tam až do určeného času."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Dhul-Qarnayn",
+        "Prorok Sulajmán",
+        "Qarun",
+        "Talut",
+        "Namrud"
+      ],
+      "answer": "Dhul-Qarnayn"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Stavba bariéry proti Gógovi a Magógovi",
+        "Prežitie veľkej povodne",
+        "Byť hodený do ohňa",
+        "Prechod cez more",
+        "Boj s obrom"
+      ],
+      "answer": "Stavba bariéry proti Gógovi a Magógovi"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Bariéra zo železa a medi",
+        "Zamestnanec, ktorý sa stal hadom",
+        "Loď z dreva",
+        "Palác zo skla",
+        "Záhrada datľových paliem"
+      ],
+      "answer": "Bariéra zo železa a medi"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Góg a Magóg boli zadržaní až do určeného času",
+        "Stal sa prorokom",
+        "Bol potrestaný za aroganciu",
+        "Dobyl celý svet",
+        "Žil večne"
+      ],
+      "answer": "Góg a Magóg boli zadržaní až do určeného času"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

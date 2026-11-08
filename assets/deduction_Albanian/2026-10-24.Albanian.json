@@ -1,0 +1,61 @@
+{
+  "title": "Paralajmërimi nën tokë",
+  "intro": "Imagjinoni të qëndroni pranë një gërmimi të thellë ndërsa zëra ngrihen nga poshtë dhe bota sipër hesht. Kurani e ruan këtë skenë si një paralajmërim: një komunitet refuzon atë që sjellin të dërguarit, ndëshkimi afrohet dhe madje edhe ulërima e tij bëhet pjesë e dëshmisë. Cili kolektiv flet përmes këtyre vargjeve?",
+  "clues": [
+    "Ne kujtohemi në Kuran si një kolektiv i përcaktuar nga një fat i përbashkët dhe jo nga një emër individual.",
+    "Ne e refuzuam mesazhin e sjellë nga të dërguarit, edhe pse ajo që thoshin ishte e vërtetë.",
+    "Identiteti ynë i kujtuar është i lidhur me një prerje të thellë në tokë, dhe kjo veçori u bë pjesë e emrit tonë.",
+    "Ditën e caktuar, na nxorën jashtë dhe na tërhoqën zvarrë drejt zjarrit.",
+    "Ne nuk mund të mbroheshim kundër ndëshkimit dhe nuk mund ta dëgjonim gjëmimin e tij.",
+    "Fytyrat tona do të ktheheshin në zjarr dhe do të shtyheshim drejt tij; kur të na pyesnin, thoshim se ishim midis atyre që nuk mund të përgjigjeshin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Shokët e Hendekut",
+        "Kombi i Çliruar nga Përmbytja e Madhe",
+        "Adhuruesit e Viçit të Artë",
+        "Grupi i strehuar brenda shpellës malore",
+        "Komuniteti i Çliruar nga Furra e Zjarrtë"
+      ],
+      "answer": "Shokët e Hendekut"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Të zvarritur dhe të hedhur në zjarr",
+        "I çliruar nga një furrë e zjarrtë",
+        "U transportua i sigurt përmes një përmbytjeje të madhe",
+        "I strehuar për shekuj me radhë brenda një shpelle",
+        "Shpëtuar pasi u hodh në një pus"
+      ],
+      "answer": "Të zvarritur dhe të hedhur në zjarr"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Një hendek ose gropë",
+        "Një det i madh",
+        "Një shpellë malore",
+        "Një pallat i lartë",
+        "Një pus shkretëtire"
+      ],
+      "answer": "Një hendek ose gropë"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Të paaftë për të mbrojtur veten dhe të paaftë për të dëgjuar gjëmimin e Zjarrit",
+        "Shpëtuar dhe iu dha hyrja në kopshtet e përjetshme",
+        "I dorëzuar në mënyrë të sigurt përmes një përmbytjeje shkatërruese",
+        "I mbrojtur nga një gjumë i gjatë brenda një shpelle",
+        "I nderuar me një mbretëri të përjetshme"
+      ],
+      "answer": "Të paaftë për të mbrojtur veten dhe të paaftë për të dëgjuar gjëmimin e Zjarrit"
+    }
+  },
+  "verseRef": "85:16",
+  "arabic": "فَعَّالٌۭ لِّمَا يُرِيدُ",
+  "verse": "Effecter of what He intends. (85:16)"
+}

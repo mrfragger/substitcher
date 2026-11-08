@@ -1,0 +1,61 @@
+{
+  "title": "I scultur de la pedra de la vègia vall",
+  "intro": "Figürate una civiltà che l’è nassuda in di vall roccius de l’Arabia, brava a scolpir di bei cà süi montagn. L’eren fiurid cun forza e arte, e anca se la sò storia l’è segnada da una sfida frizzant a l’avvertiment divin. Mentre te approfondi in de la sò storia, te descoverzi un popul che la sò arroganza g’ha purtà a luur total annientament. Chi eren?",
+  "clues": [
+    "G’hem eredità una terra de pianur roccius e di scùgli volt, indué g’hem costruì i noster cà cunt un’abilità inigualabl.",
+    "Erüm famus per avegh sculpì di cà sicür in di muntagn, per sentim al sicür di qual-sa-vöör dann.",
+    "Un messagger l’è vegnuu da nun de intra de nun, regordand i favor de Allah e avvertend de la puniziun.",
+    "G’hem domandad un segn e una miracolosa camel l’è vegnuda fœra de la roca, una prova ciara de Allah.",
+    "G’hem sfidad l’avvertiment e g’hem sgrifonad la camel, ciapand in gir el messagger e sfidand la puniziun.",
+    "Una sola esplusiun la g’ha sorpassà in di noster cà e la matina sem stà prostrat, cuma se g’hevem mai vissuu lì."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Chi sun mi?",
+      "options": [
+        "Popol de Thamud",
+        "Gent de 'Ad",
+        "La gent de Madyan",
+        "Gent de Nuh",
+        "Gent de Lut"
+      ],
+      "answer": "Popol de Thamud"
+    },
+    "trial": {
+      "label": "Prova/Event",
+      "options": [
+        "Sciocch la camel",
+        "Romp el Sabat",
+        "Adorava el vitell d'or",
+        "Copà el prufeta mandà a lor",
+        "Costruì una torr per rivà in del ciel"
+      ],
+      "answer": "Sciocch la camel"
+    },
+    "location": {
+      "label": "Element chiave",
+      "options": [
+        "La camel",
+        "L'Arca",
+        "El personal",
+        "La man bianca",
+        "La manna e i codorni"
+      ],
+      "answer": "La camel"
+    },
+    "outcome": {
+      "label": "Resultad",
+      "options": [
+        "Distrutt de un'esplosiun",
+        "Salvà de la distruziun",
+        "Trasfurmà en scimi",
+        "Anegato in del mar",
+        "Inglutì de la terra"
+      ],
+      "answer": "Distrutt de un'esplosiun"
+    }
+  },
+  "verseRef": "69:5",
+  "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+  "verse": "So as for Thamūd, they were destroyed by the overpowering [blast]. (69:5)"
+}

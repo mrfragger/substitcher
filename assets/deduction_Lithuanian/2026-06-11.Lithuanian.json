@@ -1,0 +1,61 @@
+{
+  "title": "Kaimas ant išbandymo kranto",
+  "intro": "Atsidūrėte pakrantės kaimelyje, kur bangų ošimas susimaišo su užmirštos tautos šnabždesiu. Jiems buvo duotas įsakymas pailsėti, tačiau jų godumas atvedė prie bausmės, apie kurią vis dar kalbama tyliai. Ar galite atskleisti, kas jie buvo?",
+  "clues": [
+    "Mes gyvenome prie kranto ir mums buvo įsakyta švęsti poilsio dieną.",
+    "Tą dieną žuvų pas mus ateidavo gausybė, bet mums buvo uždrausta jas imti.",
+    "Kai kurie iš mūsų perspėjo dėl nusižengimų, bet kiti vis tiek susitarė žvejoti.",
+    "Mes pažeidėme šventą įsakymą ir užsitraukėme griežtą bausmę.",
+    "Mūsų bausmė buvo transformacija, kuri mus subjaurojo ir pažemino.",
+    "Mes buvome paversti beždžionėmis – ženklu visiems, kurie ateis po mūsų."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Šabo žmonės",
+        "Tamudo žmonės",
+        "„Ad“ žmonės",
+        "Olos žmonės",
+        "Dramblio žmonės"
+      ],
+      "answer": "Šabo žmonės"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Žvejyba per šabą",
+        "Garbinant auksinį veršį",
+        "Hudo žinios neigimas",
+        "Kupranugarės nužudymas",
+        "Statant bokštą į dangų"
+      ],
+      "answer": "Žvejyba per šabą"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Žuvis",
+        "Kupranugarė",
+        "Personalas",
+        "Valtis",
+        "Sodas"
+      ],
+      "answer": "Žuvis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Pavirto į beždžiones",
+        "Sugriautas potvynio",
+        "Sunaikintas liepsnojančio gaisro",
+        "Prarytas žemės",
+        "Išblaškytas vėjo"
+      ],
+      "answer": "Pavirto į beždžiones"
+    }
+  },
+  "verseRef": "7:163",
+  "arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًۭا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient. (7:163)"
+}

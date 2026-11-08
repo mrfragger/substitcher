@@ -1,0 +1,61 @@
+{
+  "title": "Vaqtsiz donolik tarqatuvchisi",
+  "intro": "Chuqur tushunchalari va dono maslahatlari bilan tanilgan hurmatli shaxs bir vaqtlar avlodlardan avlodga o'tib ketadigan maslahatlarni bergan. Ularning muqaddas yozuvlarda qayd etilgan so'zlari odamlarni minnatdorchilik, sabr-toqat va solih xulq-atvorga yo'naltiradi.",
+  "clues": [
+    "Menga payg'ambarlik emas, balki donolik ato etilgan edi.",
+    "Men farzandimga eng katta gunohlar haqida nasihat qildim: Allohga shirk keltirish.",
+    "Men amallarning og'irligi, hatto xantal urug'ining qiymati va Alloh uni qanday qaytarishini o'rgatdim.",
+    "Men Allohga va ota-onaga minnatdorchilikni ta'kidladim, farzandni tarbiyalashdagi qiyinchiliklarni e'tirof etdim.",
+    "Mening nasihatlarim namozni to'liq ado etish, yaxshilikka buyurish, yomonlikdan qaytarish va boshga tushadigan musibatlarga sabr qilishdan iborat edi.",
+    "Qur'ondagi bir sura mening nomim bilan atalgan bo'lib, unda mening ta'limotlarim va men baham ko'rgan saboqlarim bor."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Payg'ambar Sulaymon",
+        "Payg'ambar Dovud",
+        "Yahyo payg'ambar",
+        "Luqmon",
+        "Muso payg'ambar"
+      ],
+      "answer": "Luqmon"
+    },
+    "trial": {
+      "label": "Markaziy mavzu",
+      "options": [
+        "Ka'bani qurish",
+        "Dengizni ikkiga bo'lish",
+        "Donolikni ulashish",
+        "To'fondan omon qolish",
+        "Baliq tomonidan yutib yuborilmoqda"
+      ],
+      "answer": "Donolikni ulashish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Kema",
+        "Xodimlar",
+        "Tur tog'i",
+        "Uning O'g'li",
+        "Oltin buzoq"
+      ],
+      "answer": "Uning O'g'li"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Uning xalqi vayron qilindi",
+        "Uning donoligi yo'lboshchiga aylandi",
+        "Unga shohlik berildi",
+        "U osmonga ko'tarildi",
+        "Unga ulkan boylik berilgan edi"
+      ],
+      "answer": "Uning donoligi yo'lboshchiga aylandi"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

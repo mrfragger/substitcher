@@ -1,0 +1,61 @@
+{
+  "title": "Aka Ndị A Na-akọcha",
+  "intro": "I guzo n'okporo ụzọ gbagọrọ agbagọ nke Makkah oge ochie, ebe mkpụrụ obi nwere mmetụta na akụnụba gbagọrọ n'oge gara aga pụọ ​​n'oku eziokwu. Akụkọ onye a bụ ihe ncheta doro anya na njikọ ọbara enweghị ike imeri agbụ nke mpako. Ònye bụ onye a aha ya na-ada ụda na ọkụ na-echere?",
+  "clues": [
+    "M gara n'okporo ámá nke Makkah na mpako nke mere ka m ghara ịhụ eziokwu ahụ, ọ bụ ezie na onye ozi ahụ sitere n'ọbara m.",
+    "Ihe onwunwe m buru ibu, mana ha ghọrọ nkọcha kama ịbụ ọta.",
+    "Akwụkwọ nduzi na-ekwu maka mbibi m, na-ekwupụta na aka m na ahụ m ga-ala n'iyi.",
+    "Di m ma ọ bụ nwunye m sonyeere m n'ịkpọsa iro, na-achịkọta ogwu iji gbasaa n'ụzọ nke onye kpọrọ Allah.",
+    "N'ụbọchị ikpe, a ga-atụba m n'ọkụ nke na-ere ọkụ, di m ga-etinyekwa eriri nkwụ n'olu.",
+    "Aha m pụtara 'nna nke ire ọkụ' - aha nke na-ebu amụma ebe obibi m ruo mgbe ebighị ebi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ònye ka m bụ?",
+      "options": [
+        "Abu Lahab",
+        "Abu Jahl",
+        "Abu Talib",
+        "Abu Sufyan",
+        "Al-Walid ibn al-Mughira"
+      ],
+      "answer": "Abu Lahab"
+    },
+    "trial": {
+      "label": "Nnwale Isi ma ọ bụ Ihe Omume",
+      "options": [
+        "Ọ megidere onye amụma ahụ, a kọchaa ya n'ime Quran",
+        "Duru ndị agha ibibi Kaaba",
+        "Mgbalị igbu onye amụma site n'ịtụ nkume",
+        "Jụrụ ikwere na ọnwa ga-ekewa",
+        "Wuru ụlọ elu iji ruo eluigwe"
+      ],
+      "answer": "Ọ megidere onye amụma ahụ, a kọchaa ya n'ime Quran"
+    },
+    "location": {
+      "label": "Isi Ihe",
+      "options": [
+        "Ọkụ Hel na-ere ọkụ",
+        "Ndị Ọrụ nke Moses",
+        "Ụgbọ Noa",
+        "Olulu Mmiri Zamzam",
+        "Nwa Ehi Ọlaedo ahụ"
+      ],
+      "answer": "Ọkụ Hel na-ere ọkụ"
+    },
+    "outcome": {
+      "label": "Nsonaazụ",
+      "options": [
+        "Ọ ga-abanye n'ọkụ na-ere ọkụ, akụnụba ya agaghịkwa abara ya uru.",
+        "O chegharịrị wee ghọọ onye kwere ekwe",
+        "A gbaghaara ya mgbe ọ gbasịrị akwụkwọ",
+        "Ọ nwụrụ dị ka onye nwụrụ n'ihi okwukwe ya",
+        "E weliri ya elu n’eluigwe"
+      ],
+      "answer": "Ọ ga-abanye n'ọkụ na-ere ọkụ, akụnụba ya agaghịkwa abara ya uru."
+    }
+  },
+  "verseRef": "111:2",
+  "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+  "verse": "His wealth will not avail him or that which he gained. (111:2)"
+}

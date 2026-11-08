@@ -1,0 +1,61 @@
+{
+  "title": "Shaidun da Suka Dage",
+  "intro": "Ka yi tunanin lokacin da aka gwada imani da wuta, kuma imani mara misaltuwa ya zama babban rashin amincewa. An ba ka aikin gano asalin wata ƙungiya wadda aka ba da labarinta a cikin Alƙur'ani, labarin imani mai zurfi game da zalunci mai tsanani. Bayyana alamun don gano su wanene waɗannan rayuka, da kuma yanayin da suka fuskanta na ban mamaki.",
+  "clues": [
+    "Mun tsaya tsayin daka a kan yakininmu, duk da matsin lamba mai yawa na yin watsi da imaninmu.",
+    "Mun fuskanci wani babban mai mulki wanda ya nemi ya kashe hasken tauhidi.",
+    "Mun shaida manyan alamu da mu'ujizai, duk da haka masu zaluntarmu sun kasance ba su kula ba.",
+    "Mun jure wata mummunar hanya ta tsanantawa da aka tsara don tsoratar da wasu su miƙa wuya.",
+    "An jefa mu cikin wata mummunar wuta, duk da haka dagewarmu ta samar mana da matsayi mai girma a wurin Allah.",
+    "An ba da labarinmu a cikin Sura mai suna bayan taurarin sama, tana gargaɗi game da makomar waɗanda ke tsananta wa muminai."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Mutanen Samudawa",
+        "Mutanen 'Ad",
+        "Mutanen Ramin",
+        "Mutanen Madyana",
+        "Mutanen Giwa"
+      ],
+      "answer": "Mutanen Ramin"
+    },
+    "trial": {
+      "label": "Tsanantawarmu",
+      "options": [
+        "Nutsewa cikin ambaliyar ruwa",
+        "Iska mai zafi ta cinye shi",
+        "A jefa shi cikin rami mai wuta",
+        "Ƙasa ta haɗiye shi",
+        "Zama birrai"
+      ],
+      "answer": "A jefa shi cikin rami mai wuta"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Ambaliyar ruwa mai yawa",
+        "Babban girgizar ƙasa",
+        "Wata rami mai zurfi mai ƙonewa",
+        "Gumi mai ƙarfi",
+        "Fari mai muni"
+      ],
+      "answer": "Wata rami mai zurfi mai ƙonewa"
+    },
+    "outcome": {
+      "label": "Makomarmu ta Ƙarshe",
+      "options": [
+        "An ba su mulki a duniya.",
+        "An ceto su ta hanyar tserewa mai ban mamaki.",
+        "Sun sami shahada da lada mai ɗorewa.",
+        "An canza su zuwa wani nau'in halitta daban.",
+        "An ba su dukiya da wadata mai yawa."
+      ],
+      "answer": "Sun sami shahada da lada mai ɗorewa."
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

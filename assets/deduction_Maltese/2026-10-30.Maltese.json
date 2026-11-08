@@ -1,0 +1,61 @@
+{
+  "title": "Il-Vġili tal-Imnikktin",
+  "intro": "Int se tiltaqa' ma' ruħ ittestjata mill-aktar separazzjoni profonda, li għajnejha kienu jafu l-lingwa tad-dmugħ iżda li qalbha qatt ma tilfet it-tama. Fi storja ta' qerq, xewqa, u eventwalment riunifikazzjoni, dan il-qaddej nobbli ta' Alla sar simbolu ta' paċenzja għal dejjem. Min issaporta s-snin ta' wġigħ moħbi, biss biex reġa' kiseb id-dawl u l-ferħ f'mument wieħed?",
+  "clues": [
+    "Jiena profeta li ismu sar simbolu ta’ paċenzja quddiem telf kbir.",
+    "Jiena ġejt imbierek b’ħafna subien, imma wieħed ittieħedli mill-għira ta’ ħaddieħor.",
+    "L-imħabba tiegħi għal dak il-mitluf kienet tant profonda li għajnejja bjodu bin-niket, iżda qatt ma lmentajt ħlief ma' Alla.",
+    "Bgħatt lil uliedi subien lura biex ifittxu lil dak li kont tlift u lil ħuh, u ħeġġiġthom biex ma jaqtgħux qalbhom.",
+    "Meta wasal min iwassal l-aħbar it-tajba, għattet wiċċi b’qmis, u f’daqqa waħda d-dinja reġgħet dehret ċara.",
+    "Jiena magħruf bħala Iżrael, u mit-tnax-il uliedi ħarġu t-tnax-il tribù ta’ ġens kbir."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Il-Profeta Ya'qub (Ġakobb)",
+        "Profeta Yusuf (Ġużeppi)",
+        "Il-Profeta Iżakk (Isaak)",
+        "Il-Profeta Ibrahim (Abraham)",
+        "Il-Profeta Ayyub (Ġob)"
+      ],
+      "answer": "Il-Profeta Ya'qub (Ġakobb)"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Separazzjoni minn iben maħbub għal ħafna snin",
+        "Li tintrema f’nar qawwi",
+        "Mibela’ minn ħuta kbira",
+        "Imdejjaq b'marda severa tal-ġilda",
+        "Li tkun bla tfal sa xjuħithom"
+      ],
+      "answer": "Separazzjoni minn iben maħbub għal ħafna snin"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Il-qmis ta' Yusuf",
+        "L-istaff ta’ Musa",
+        "L-arka ta’ Nuh",
+        "Il-ġemela ta’ Salih",
+        "Iċ-ċirku ta' Sulayman"
+      ],
+      "answer": "Il-qmis ta' Yusuf"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Il-vista rkuprat u reġa’ ngħaqad ma’ ibnu",
+        "Ingħata rebħa fuq sultan tirann",
+        "Imtella’ ħaj fis-smewwiet",
+        "Maħtur bħala ħakkiem fuq l-Eġittu",
+        "Mogħti iben fix-xjuħija bħala miraklu"
+      ],
+      "answer": "Il-vista rkuprat u reġa’ ngħaqad ma’ ibnu"
+    }
+  },
+  "verseRef": "12:96",
+  "arabic": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًۭا ۖ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+  "verse": "And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, \"Did I not tell you that I know from Allāh that which you do not know?\" (12:96)"
+}

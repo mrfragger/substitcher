@@ -1,0 +1,61 @@
+{
+  "title": "Ištartasis išrinktasis",
+  "intro": "Kalno šešėlyje, kur leidosi dieviški žodžiai, žmonių tikėjimas susvyravo po aukso spindesiu. Viena siela, apdovanota iškalba, stovėjo kaip didesnės misijos atrama, tačiau susidūrė su didelių išbandymų akimirka. Kai išrinktasis pasiuntinys pakilo į šventą užduotį, ši figūra liko, maldaudama neramios tautos. Kas yra ši tvirta siela, kurios balsas pakilo prieš stabmeldystę?",
+  "clues": [
+    "Mane Alachas išsirinko būti pranašu, nors mano istorija dažnai pasakojama kartu su kita.",
+    "Buvau pasiųstas pas tironą valdovą, bet mano vaidmuo buvo jį remti, o ne vadovauti.",
+    "Buvau apdovanotas iškalba, o mano žodžiai buvo skirti suminkštinti širdis.",
+    "Kai mano porininkas išvyko į šventą susitikimą, aš likau vadovauti neramiems žmonėms.",
+    "Nekantrumo apimti jie iš savo papuošalų nulipdė atvaizdą, o aš maldavau jų likti ištikimiems Alachui.",
+    "Mano draugas sugrįžo ir mane sučiupo, bet aš paaiškinau, kad žmonės mane nugalėjo ir vos nenužudė; aš nebuvau tarp nusikaltėlių."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Musa",
+        "Pranašas Harunas",
+        "Pranašas Isa",
+        "Pranašas Jahja",
+        "Pranašas Zakarija"
+      ],
+      "answer": "Pranašas Harunas"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Įmetimas į ugnį",
+        "Įmetimas į šulinį",
+        "Susidūrus su auksinio veršio incidentu",
+        "Sunkios ligos išbandymas",
+        "Turto ir vaikų praradimo išbandymas"
+      ],
+      "answer": "Susidūrus su auksinio veršio incidentu"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Auksinis veršis",
+        "Personalas",
+        "Sandoros skrynia",
+        "Tabletės",
+        "Degantis krūmas"
+      ],
+      "answer": "Auksinis veršis"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Griežtai nubaustas",
+        "Atleistas ir išteisintas",
+        "Padarė karaliumi",
+        "Paimtas į dangų",
+        "Duotas naujas raštas"
+      ],
+      "answer": "Atleistas ir išteisintas"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Komunitas yang Menentang Hari Istirahat",
+  "intro": "Masuki sebuah pemukiman pesisir di mana perintah ilahi menetapkan satu hari untuk beribadah dan menahan diri. Sekelompok orang dalam komunitas ini memilih untuk menguji batas-batas perintah itu dengan rencana yang licik, yang mengarah pada transformasi yang akan bergema sepanjang zaman. Siapakah jiwa-jiwa ini, dan apa yang terjadi pada mereka?",
+  "clues": [
+    "Kami tinggal di dekat pantai, di mana laut menjadi sumber penghidupan kami.",
+    "Kita diperintahkan untuk menghormati satu hari dalam seminggu, mengkhususkannya dari urusan duniawi.",
+    "Pada hari itu, ikan-ikan datang kepada kami dalam jumlah besar, seolah-olah menggoda kami untuk melanggar perintah.",
+    "Kami menyusun rencana untuk menjebak ikan pada malam sebelum hari suci itu, lalu mengumpulkannya setelah hari itu berlalu.",
+    "Ketika sebagian dari kami memperingatkan terhadap tipu daya ini, kami mengabaikan nasihat mereka dan tetap bersikeras.",
+    "Karena pelanggaran kami, kami diubah menjadi kera, dihina dan ditolak."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Umat ​​Sabat",
+        "Orang-orang di Parit",
+        "Orang-orang Hutan",
+        "Orang-orang di Taman",
+        "Orang-orang Gajah"
+      ],
+      "answer": "Umat ​​Sabat"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Memancing di hari Sabat",
+        "Membangun menara yang menjulang tinggi",
+        "Membunuh unta betina suci",
+        "Mengingkari seorang nabi yang diutus kepada mereka",
+        "Melanggar aturan berat perdagangan"
+      ],
+      "answer": "Memancing di hari Sabat"
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Laut dan ikannya",
+        "Api yang telah dipadamkan",
+        "Tongkat yang berubah menjadi ular",
+        "Bahtera keselamatan",
+        "Lempengan batu"
+      ],
+      "answer": "Laut dan ikannya"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Berubah menjadi kera",
+        "Ditelan oleh bumi",
+        "Hancur diterjang angin kencang.",
+        "Tenggelam di laut",
+        "Terkena hujan batu"
+      ],
+      "answer": "Berubah menjadi kera"
+    }
+  },
+  "verseRef": "2:65",
+  "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلَّذِينَ ٱعْتَدَوْا۟ مِنكُمْ فِى ٱلسَّبْتِ فَقُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ",
+  "verse": "And you had already known about those who transgressed among you concerning the sabbath, and We said to them, \"Be apes, despised.\" (2:65)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Flacăra din palatul aroganței",
+  "intro": "În spatele zidurilor grandioase ale celui mai puternic palat al lumii antice trăia o figură a cărei inimă purta un secret pe care niciun decret regal nu-l putea reduce la tăcere. În timp ce toți cei din jur se închinau zeilor falși, acest suflet păstra o credință tăcută aprinsă în interior. Conducătorul acelei țări se credea divin, totuși acest individ a ales adevărul în locul confortului și devotamentul în locul siguranței. Astăzi, sarcina ta este să descoperi cine a fost acest suflet curajos, a cărui poveste rămâne unul dintre cele mai puternice exemple de credință neclintită.",
+  "clues": [
+    "Am trăit într-un loc de o bogăție imensă și o grandoare de neegalat, unde conducătorul țării deținea puterea absolută asupra a tot.",
+    "În timp ce cei din jurul meu se închinau zeilor falși, eu păstram o lumină liniștită a credinței în inima mea.",
+    "Am descoperit și adoptat un copil care mi-a fost adus într-un mod neobișnuit - nu prin naștere, ci prin apele unui mare râu.",
+    "M-am rugat Domnului meu, cerând o casă lângă El în Paradis și mântuire de tirania care mă înconjura.",
+    "Copilul pe care l-am crescut a crescut pentru a-l înfrunta chiar pe conducătorul care îmi controla soarta, iar eu am rămas ferm în credința mea chiar și atunci când am fost amenințat.",
+    "Eu sunt cel al cărui nume este onorat în Coran ca model de credință și am locuit în palatul faraonului însuși."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Asiya, soția faraonului",
+        "Maryam, mama lui Isa",
+        "Bilqis, regina din Saba",
+        "Soția profetului Lut",
+        "Soția lui Imran"
+      ],
+      "answer": "Asiya, soția faraonului"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Descoperirea și creșterea unui copil abandonat care a devenit un mare profet",
+        "Aruncat într-un foc mare de către un tiran",
+        "Martori la o mare inundație care a distrus un popor",
+        "Martori la scuturarea unui palmier curmal și la oferirea de hrană",
+        "Conceperea unui fiu în ciuda vârstei înaintate"
+      ],
+      "answer": "Descoperirea și creșterea unui copil abandonat care a devenit un mare profet"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Un palat regal de o splendoare inegalabilă",
+        "O navă mare construită să reziste unei inundații",
+        "O peșteră adâncă ascunsă în munți",
+        "Un foc arzător construit pe vârful unui munte",
+        "O grădină împrejmuită de ziduri"
+      ],
+      "answer": "Un palat regal de o splendoare inegalabilă"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "O casă a fost acordată în Paradis prin voința lui Allah",
+        "Un mare potop i-a distrus pe necredincioșii unei națiuni antice",
+        "O împărăție cu o putere și o autoritate imense a fost acordată în această lume",
+        "O armată puternică a fost împrăștiată de păsările în zbor",
+        "Un tiran care se pretindea divin a fost înecat în mare"
+      ],
+      "answer": "O casă a fost acordată în Paradis prin voința lui Allah"
+    }
+  },
+  "verseRef": "66:11",
+  "arabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًۭا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "verse": "And Allāh presents an example of those who believed: the wife of Pharaoh, when she said, \"My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.\" (66:11)"
+}

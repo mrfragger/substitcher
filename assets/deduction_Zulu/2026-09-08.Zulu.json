@@ -1,0 +1,61 @@
+{
+  "title": "Icala Lomlilo Ongcwele",
+  "intro": "Ezweni lasendulo lapho ukuzinikela etsheni eliqoshiwe kwakugxile khona kuzo zonke izindlu, umuntu oyedwa wayema ​​ehlukile. Ngokuqiniseka okungenakunyakaziswa kanye nesivikelo saphezulu, babhekana nokufa okwakufanele kube yiqiniso - futhi bahamba bengenamyocu. Ungakwazi yini ukuthola ukuthi ungubani lo mphefumulo omangalisayo?",
+  "clues": [
+    "Ngakhulela phakathi kwabantu ababekhothamela izithombe ababeziqophe ngezandla zabo, bekholelwa ukuthi lezi zinto zinamandla aphezulu.",
+    "Lapho ngiphikisa izinkolelo zabo, baqale bangilahla, kodwa angikwazanga ukuthula ngeqiniso engangilazi.",
+    "Ngosuku lapho bebuthene khona, ngabhubhisa izithombe zabo, ngashiya esikhulu kunazo zonke kuphela esingathintekile.",
+    "Lapho bebuya bebona engangikwenzile, abaholi babo bayala ukuba kwakhiwe i-firere enkulu, behlose ukungiphonsa emlilweni.",
+    "Bangiphonsa emlilweni ovuthayo, kodwa iNkosi yamazwe yayala ukuba kuphole futhi kuphephe kimi.",
+    "Ngaphuma elangabini ngingalimalanga nhlobo, kuyilapho labo ababengiceba bebhekene nokubhujiswa okukhulu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ngingubani mina?",
+      "options": [
+        "Umprofethi u-Ibrahim",
+        "Umprofethi uMusa",
+        "Umprofethi uNuh",
+        "Umprofethi u-Isa",
+        "Umprofethi uYusuf"
+      ],
+      "answer": "Umprofethi u-Ibrahim"
+    },
+    "trial": {
+      "label": "Isivivinyo/Umcimbi",
+      "options": [
+        "Ukuphonswa emlilweni ovuthayo",
+        "Ukugwinywa umkhomo omkhulu",
+        "Ukusinda kuzamcolo omkhulu",
+        "Ukuphonswa emthonjeni ojulile",
+        "Ukubhekana nezangoma zenkosi"
+      ],
+      "answer": "Ukuphonswa emlilweni ovuthayo"
+    },
+    "location": {
+      "label": "Isici Esiyinhloko",
+      "options": [
+        "Umlotha omkhulu wezinkuni ezivuthayo",
+        "Umkhumbi omkhulu wokhuni",
+        "Isithombe sethole legolide",
+        "Ibhasikidi elintantayo emfuleni",
+        "Isihlalo sobukhosi esihle kakhulu"
+      ],
+      "answer": "Umlotha omkhulu wezinkuni ezivuthayo"
+    },
+    "outcome": {
+      "label": "Umphumela",
+      "options": [
+        "U-Allah wenza umlilo waphola futhi waphephile",
+        "Umkhumbi wafika ngokuphepha entabeni",
+        "Isithixo segolide sancibilika phambi kwamehlo abo",
+        "Umashiqela nebutho lakhe baminza olwandle",
+        "Ukubona kwendoda eyimpumputhe kwavuselelwa"
+      ],
+      "answer": "U-Allah wenza umlilo waphola futhi waphephile"
+    }
+  },
+  "verseRef": "21:68",
+  "arabic": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَـٰعِلِينَ",
+  "verse": "They said, \"Burn him and support your gods - if you are to act.\" (21:68)"
+}

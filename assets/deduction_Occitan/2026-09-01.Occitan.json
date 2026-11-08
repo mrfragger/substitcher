@@ -1,0 +1,61 @@
+{
+  "title": "La votz de las periferias",
+  "intro": "Te pausas dins una vila ont son venguts tres messatgièrs amb de senhals clars, mas lo pòble se trufa d'eles e s'agarra a lors vièlhs biaisses. Dempuèi la partida mai luènha de la vila, una figura corre cap a la fola, sens buf e determinada, a dire la vertat fàcia al refús. Qual es aquela anma que risquèt tot per un messatge pas lo sieu?",
+  "clues": [
+    "Viviái demest un pòble qu'aviá recebut de messatgièrs amb de signes clars, e mai se desvièron amb arrogància.",
+    "Venguèri en corrent de la partida mai luènha de la vila quand ausiguèri la crida dels messatgièrs.",
+    "Diguèri a mon pòble: 'O mon pòble, seguissètz los messatgièrs. Seguissètz los que vos demandan pas de recompensa, perque son guidats justament.'",
+    "Èri pas un profèta, mas cresiái als messatgièrs e incitavi mon pòble a far parièr.",
+    "Mon pòble se trufèt de mon conselh e m'acusèt d'èsser un extremista.",
+    "Quand me tuèron, Allah me diguèt d'intrar dins lo Paradís, e desiravi que mon pòble poguèsse conéisser lo perdon e l'onor que recebèri."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "L'òme de la partida mai luènha de la vila (Ya-Sin)",
+        "Un dels tres messatgiers mandat a la ciutat .",
+        "Un marchand destacat de la vila",
+        "Un regent de la vila",
+        "Lo cap dels increduls"
+      ],
+      "answer": "L'òme de la partida mai luènha de la vila (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "Predicant a son pòble de seguir los messatgiers",
+        "Bastir una nau per salvar los cresents d'una inondacion",
+        "Èsser getat dins un fuòc per la fe",
+        "Èsser engolit per una balena",
+        "Essent donat un regne e la saviesa"
+      ],
+      "answer": "Predicant a son pòble de seguir los messatgiers"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La partida mai luènha de la vila",
+        "L'arca",
+        "Lo potz",
+        "L'arbust ardent",
+        "La cauna"
+      ],
+      "answer": "La partida mai luènha de la vila"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Dintrèt dins lo Paradís e desirava que son pòble poguèsse conéisser son perdon",
+        "Afogat amb son pòble per aver refusat lo messatge",
+        "Foguèt donat un miracle de la camèla",
+        "Venguèt un regent après son jutjament",
+        "Foguèt salvat per Allah e demorèt amb son pòble"
+      ],
+      "answer": "Dintrèt dins lo Paradís e desirava que son pòble poguèsse conéisser son perdon"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

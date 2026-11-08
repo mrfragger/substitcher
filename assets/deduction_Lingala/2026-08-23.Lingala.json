@@ -1,0 +1,61 @@
+{
+  "title": "Ebele ya bato oyo basili kolimwa",
+  "intro": "Otelemi liboso ya ba échos ya communauté oyo lisolo na yango ekomami na mbonge. Milimo wana eyokaki libiangi, eponaki koboya, mpe ekutanaki na mbano oyo ebongisaki lisusu mabele. Bazali banani, mpe mokili na bango ekómaki nini?",
+  "clues": [
+    "Tozalaki na bomoi kala, mpe momemi-nsango moko ayaki epai na biso uta na kati na biso.",
+    "Tosambelaki bikeko mitano mpe toboyaki kotika yango.",
+    "Tosɛkaki momemi-nsango yango mpe tofundaki ye ete abungaki nzela.",
+    "Tosengaki amema etumbu soki azali na bosolo.",
+    "Tomonaki likoló esopani mbula mpe mabele ezali kosopana na maziba.",
+    "Tomataki na bisika ya likoló mpo na kokima, kasi mbonge elekaki biso."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Biso Tozali Banani?",
+      "options": [
+        "Bato ya Nuh",
+        "Bato ya 'Ad",
+        "Bato ya Thamud",
+        "Bato ya Lut",
+        "Bato ya Madyan"
+      ],
+      "answer": "Bato ya Nuh"
+    },
+    "trial": {
+      "label": "Momekano/Evenement",
+      "options": [
+        "Tozindaki na mpela moko monene",
+        "Tobebisamaki na mopɛpɛ makasi",
+        "Tobomamaki na mopɛpɛ moko ya makasi",
+        "Tomelisamaki na mabele",
+        "Babɛtaki biso mabanga oyo eutaki na likoló"
+      ],
+      "answer": "Tozindaki na mpela moko monene"
+    },
+    "location": {
+      "label": "Elemento ya ntina",
+      "options": [
+        "Mpela moko monene",
+        "Mopɛpɛ moko ya mobulu",
+        "Mbula ya mabanga",
+        "Kopanzana ya mɔ́tɔ",
+        "Koningana ya mabele"
+      ],
+      "answer": "Mpela moko monene"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Biso banso tokufaki longola se bandimi na Nuh",
+        "Tobongwanaki na ba singes",
+        "Totikalaki lokola bitika mpo na bato oyo bazalaki kosala mibembo",
+        "Babongwanaki biso na mungwa",
+        "Bapesaki biso mwa ntango ya kopema"
+      ],
+      "answer": "Biso banso tokufaki longola se bandimi na Nuh"
+    }
+  },
+  "verseRef": "71:21",
+  "arabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا",
+  "verse": "Noah said, \"My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss. (71:21)"
+}

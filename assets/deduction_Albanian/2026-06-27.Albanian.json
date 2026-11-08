@@ -1,0 +1,61 @@
+{
+  "title": "Mungesa e Shenjtë",
+  "intro": "Përtej dunave të kohës, shtrihet një rrëfim përkushtimi të palëkundur dhe një besimi aq të rëndë sa shpirti që e mbante mund të ishte thyer. Në një moment kur njerëzit u kthyen drejt marrëzisë dhe arit, një figurë qëndroi e vendosur - duke i thirrur ata të ktheheshin, duke u lutur për durim dhe duke mbajtur peshën e një premtimi të shenjtë. Kjo është historia e dikujt që u zgjodh si ndihmës, vezir dhe mbrojtës i besimit gjatë një mungese të shenjtë. A mund ta zbuloni identitetin e këtij shpirti të palëkundur?",
+  "clues": [
+    "Unë ndaj gjakun e një profeti të madh i cili u zgjodh për të folur me Allahun drejtpërdrejt në një mal të shenjtë.",
+    "Vëllai/motra ime dikur iu lut Allahut për ndihmë që t’i fliste qartë një shtypësi të madh.",
+    "Unë u zgjodha nga Allahu për të qëndruar pranë vëllait tim si ndihmës dhe vezir.",
+    "Së bashku u përballëm me një sundimtar tiranik që kërkonte të quhej më i larti i perëndive.",
+    "Ndërsa vëllai im po bisedonte me Allahun në mal, populli ynë krijoi për vete një idhull nga ari i tyre.",
+    "Unë jam vëllai i Moisiut, i emëruar nga Allahu si vezir i tij, i përmendur me emër në Kuran."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Profeti Harun (Aaron)",
+        "Profeti Musa",
+        "Profeti Davud",
+        "Profeti Jakub",
+        "Profeti Is’hak"
+      ],
+      "answer": "Profeti Harun (Aaron)"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Kriza e Adhurimit të Viçit",
+        "Përmbytja e Madhe e Nuhut",
+        "Beteja e Bedrit",
+        "Shkatërrimi i Themudit",
+        "Shkatërrimi i Sodomës"
+      ],
+      "answer": "Kriza e Adhurimit të Viçit"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Viçi i Artë",
+        "Arka e Noeut",
+        "Shkurre që digjet",
+        "Shpella e Hirës",
+        "Froni i Shebës"
+      ],
+      "answer": "Viçi i Artë"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Pafajësia e konfirmuar nga Allahu",
+        "Mbytja e Faraonit",
+        "Ndërtimi i Qabes",
+        "Kalimi i sigurt i detit",
+        "Ngjitja në Qiej"
+      ],
+      "answer": "Pafajësia e konfirmuar nga Allahu"
+    }
+  },
+  "verseRef": "25:35",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًۭا",
+  "verse": "And We had certainly given Moses the Scripture and appointed with him his brother Aaron as an assistant. (25:35)"
+}

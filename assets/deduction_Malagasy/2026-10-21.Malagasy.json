@@ -1,0 +1,61 @@
+{
+  "title": "Ilay Iraka Niatrika ny Mpanompo Sampy",
+  "intro": "Tao anatin'ny fotoana nialan'ny fanoloran-tena, dia nisy iraka iray nitsangana nitondra antso hiverina amin'ny fanompoam-pivavahana amin'ny Tompon'izao tontolo izao. Nijoro mafy nanohitra ny vahoaka izay niorim-paka tamin'ny fanompoam-pivavahana diso io olona io, nampahatsiahy azy ireo ny tena Mpamorona azy ireo sy ny Tompon'ny razambeny. Kanefa tsy niraharaha ny vahoaka ary nandà ny fampitandremana, ka nanisy tombo-kase ny anjarany. Iza moa io mpiantso tsy azo hozongozonina io?",
+  "clues": [
+    "Nirahina ho any amin'ny vahoaka izay niala tamin'ny lalan'Andriamanitra Tokana sy Marina aho.",
+    "Nanontany ny oloko aho hoe: \"Tsy matahotra an'i Allah ve ianareo?\"",
+    "Niantso azy ireo Aho mba handao ny fanompoany an'i Bala, andriamani-diso.",
+    "Nandà ny antsoko ny oloko ary nanohy ny fanompoan-tsampy nataony.",
+    "Noho ny fandavany dia azo antoka fa hoentina hosazina izy ireo.",
+    "Nanome ahy fiadanana sy fahatsiarovana voatahy ho an'ny taranaka aty aoriana ny Tompoko."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Iza moa aho?",
+      "options": [
+        "Mpaminany Ilyas",
+        "Mpaminany Yahya",
+        "Mpaminany Dhul-Kifl",
+        "Mpaminany Yusuf",
+        "Mpaminany Shu'ayb"
+      ],
+      "answer": "Mpaminany Ilyas"
+    },
+    "trial": {
+      "label": "Fitsapana/Hetsika",
+      "options": [
+        "Niantso ny olony handao an'i Bala",
+        "Nanangana sambo fiara hamonjy ny mpino",
+        "Natsipy tao anaty afo",
+        "Nandositra an'i Farao mpanao jadona",
+        "Nikapoka vatolampy mba hamoaka rano"
+      ],
+      "answer": "Niantso ny olony handao an'i Bala"
+    },
+    "location": {
+      "label": "Singa fototra",
+      "options": [
+        "BALA",
+        "Al-Lat",
+        "Al-Uzza",
+        "Manat",
+        "Hubal"
+      ],
+      "answer": "BALA"
+    },
+    "outcome": {
+      "label": "vokatra",
+      "options": [
+        "Nomena fiadanana sy fahatsiarovana voatahy",
+        "Voatelin'ny tany",
+        "Rava noho ny tafio-drivotra mahery vaika",
+        "Niova ho vato",
+        "Nilentika tao an-dranomasina"
+      ],
+      "answer": "Nomena fiadanana sy fahatsiarovana voatahy"
+    }
+  },
+  "verseRef": "37:123",
+  "arabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And indeed, Elias was from among the messengers, (37:123)"
+}

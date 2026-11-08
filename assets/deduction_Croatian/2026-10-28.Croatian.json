@@ -1,0 +1,61 @@
+{
+  "title": "Obećanje izgovoreno iznad žeravice",
+  "intro": "Stojite pokraj pustinjske vatre dok se žar pažljivo raširi. Posjetitelji dolaze na susret u tišini, a jedna poruka otvara priču o obećanju, iznenađenju i budućnosti koja još nije ispunjena.",
+  "clues": [
+    "Prešli smo udaljenost kako bismo stigli do vjernog sluge u pustinji.",
+    "Zamolili smo da se raširi žeravica kako bi se pripremila vatra.",
+    "Razgovarali smo s jednim koji je dozivao plamen tražeći hladnoću i sigurnost.",
+    "Donijeli smo vijest o novorođenčetu nekome tko je prešao dob za rađanje djece.",
+    "Obećanom djetetu dali smo ime Izak.",
+    "Donijeli smo Ibrahimu radosnu vijest o sinu, a zapanjujuća vijest nasmijala je Ibrahima."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Anđeli koji su Ibrahimu donijeli radosnu vijest o Isaku",
+        "Anđeli koji su upozorili Luta",
+        "Anđeli koji nose prijestolje",
+        "Anđeli pakla",
+        "Anđeli poslani Noi"
+      ],
+      "answer": "Anđeli koji su Ibrahimu donijeli radosnu vijest o Isaku"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Donoseći Ibrahimu radosnu vijest o Izakovom rođenju",
+        "Upozorenje Luta prije kažnjavanja njegovog naroda",
+        "Objavljivanje rođenja Yahye Zakariyyi",
+        "Nošenje Prijestolja na Sudnji dan",
+        "Objavljivanje Isaovog rođenja Merjem"
+      ],
+      "answer": "Donoseći Ibrahimu radosnu vijest o Izakovom rođenju"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Vatra pripremljena od raširenog žara",
+        "Arka pluta na poplavnoj vodi",
+        "Špilja zapečaćena kotrljajućim kamenom",
+        "Planina gline otvrdnuta slanom vodom",
+        "Ljestve koje se protežu u nebo"
+      ],
+      "answer": "Vatra pripremljena od raširenog žara"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Radosna vijest o sinu po imenu Izak",
+        "Radosna vijest o sinu po imenu Yahya",
+        "Izbor Taluta za vladara nad djecom Izraelovom",
+        "Upozorenje prije kazne Lutovog naroda",
+        "Zapovijed za izgradnju arke prije Potopa"
+      ],
+      "answer": "Radosna vijest o sinu po imenu Izak"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

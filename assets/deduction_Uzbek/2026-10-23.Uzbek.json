@@ -1,0 +1,61 @@
+{
+  "title": "Qadimgi shahardagi missiya",
+  "intro": "Chang bosgan qadimiy shahar, uning aholisi inkorga berilib ketgan va e'tiborga olinmagan oxirgi ogohlantirish. Bugun Alloh tomonidan o'jar xalqqa xabar yetkazish uchun yuborilganlarning roliga qo'shiling. Rad etish hikoyasi, yakka imon ovozi va halokatli farmon bilan muhrlangan yakun. Bu ishoralar orqali kim gapiradi?",
+  "clues": [
+    "Bizni Alloh odamlari haqiqatdan yuz o'girgan bir shaharga yubordi.",
+    "Ikkimiz birinchi bo'lib keldik, keyin uchinchisi missiyamizni kuchaytirish uchun qo'shildik",
+    "Shahar aholisi bizni rad etib, biz ularga o'xshagan odamlardan boshqa hech narsa emasligimizni aytishdi",
+    "Shaharning eng chekkasidan bir jon odamlarga bizni ta'qib qilishni aytish uchun yugurib keldi",
+    "Biz ularga yolvordik, lekin ular qalblarini tosh qilib, bizga qarshi chiqishdi.",
+    "Osmondan bir dahshatli qichqiriqda butun shahrimiz jim bo'lib qoldi"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Yasin surasidagi shahar elchilari",
+        "Havvoriyyun (Iso alayhissalomning shogirdlari)",
+        "Fir'avn saroyining sehrgarlari",
+        "Shabbat kunining sahobalari",
+        "Fil xalqi"
+      ],
+      "answer": "Yasin surasidagi shahar elchilari"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Shahar aholisi tomonidan rad etilgan va yolg'onchi deb atalgan",
+        "Katta alangali olovda tiriklayin yonib ketdi",
+        "Chuqur dengizda ulkan baliq tomonidan yutib yuborilgan",
+        "Baland ustun qurishda mehnat qilishga majbur bo'ldi",
+        "Qattiq olov xandaqida qiynoqqa solingan"
+      ],
+      "answer": "Shahar aholisi tomonidan rad etilgan va yolg'onchi deb atalgan"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Qadimgi shahar (al-Qaryah)",
+        "Ajoyib yonayotgan pech",
+        "Katta baliqning qorni",
+        "Osmonga tegib turgan baland ustun",
+        "Muqaddas Uy (Ka'ba)"
+      ],
+      "answer": "Qadimgi shahar (al-Qaryah)"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Shahar bitta vayronkor qichqiriq bilan vayron bo'ldi (Sayha)",
+        "Zolim va uning qo'shini ikkiga bo'lingan dengizda cho'kib ketishdi",
+        "Odamlar maymun va maymunlarga aylantirildi",
+        "Osmondan yog'ayotgan tosh yomg'iri shaharni vayron qildi",
+        "Shiddatli suv toshqini butun jamoani suv bosdi"
+      ],
+      "answer": "Shahar bitta vayronkor qichqiriq bilan vayron bo'ldi (Sayha)"
+    }
+  },
+  "verseRef": "36:14",
+  "arabic": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+  "verse": "When We sent to them two but they denied them, so We strengthened [them] with a third, and they said, \"Indeed, we are messengers to you.\" (36:14)"
+}

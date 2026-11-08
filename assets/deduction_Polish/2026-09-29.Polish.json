@@ -1,0 +1,61 @@
+{
+  "title": "Prorok Rzeźbionych Gór",
+  "intro": "Na surowych pustyniach starożytnej Arabii, wśród ludów słynących z niezwykłego kunsztu, wyłoniła się postać. Ich domy wznosiły się z litej skały, lecz ich serca były twardsze niż góry, które wyrzeźbili. Boski posłaniec przybył z jednym, cudownym znakiem – ale pycha i bunt doprowadziły do ​​szybkich i przerażających konsekwencji. Czy potrafisz rozpoznać szlachetnego sługę, którego lud wybrał zniszczenie zamiast przewodnictwa?",
+  "clues": [
+    "Zostałem posłany jako ostrzegający do mojego ludu, wzywając go do oddawania czci Jednemu Bogu.",
+    "Mój lud żył wśród malowniczych formacji skalnych, rzeźbiąc wspaniałe domy w zboczach gór.",
+    "Na moją modlitwę z litej skały wyłoniła się cudowna wielbłądzica – jasny znak od Wszechmogącego.",
+    "Powiedziałem mojemu ludowi, żeby podzielił się wodą z tą wielbłądzicą i nie zrobił jej krzywdy.",
+    "Mój lud uknuł spisek przeciwko wielbłądzicy i podciął jej ścięgna, przypieczętowując własną zgubę.",
+    "Straszliwe trzęsienie ziemi nawiedziło mój lud, w wyniku czego wszyscy pozostali bez ruchu w swoich domach."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kim jestem?",
+      "options": [
+        "Prorok Salih",
+        "Prorok Hud",
+        "Prorok Szuajb",
+        "Prorok Noh",
+        "Prorok Musa"
+      ],
+      "answer": "Prorok Salih"
+    },
+    "trial": {
+      "label": "Które badanie było decydujące?",
+      "options": [
+        "Zerwanie ścięgna u cudownej wielbłądzicy",
+        "Budowanie wielkiej arki pośród szyderstw",
+        "Konfrontacja z tyranicznym faraonem",
+        "Wrzucenie w płonący ogień",
+        "Złamanie przymierza szabatowego"
+      ],
+      "answer": "Zerwanie ścięgna u cudownej wielbłądzicy"
+    },
+    "location": {
+      "label": "Jaki był element centralny?",
+      "options": [
+        "Wielbłądzica, która wyłoniła się ze skały",
+        "Wielka drewniana arka",
+        "Laska, która rozdzieliła morze",
+        "Ogromny wieloryb",
+        "Góra zawieszona nad głową"
+      ],
+      "answer": "Wielbłądzica, która wyłoniła się ze skały"
+    },
+    "outcome": {
+      "label": "Jaki był ich ostateczny los?",
+      "options": [
+        "Nagłe trzęsienie ziemi z nieba",
+        "Utonął w potężnej powodzi",
+        "Ich miasta zostały zburzone z boskiego rozkazu",
+        "Spalony przez palący wiatr",
+        "Pochłonięty przez ziemię"
+      ],
+      "answer": "Nagłe trzęsienie ziemi z nieba"
+    }
+  },
+  "verseRef": "22:42",
+  "arabic": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَعَادٌۭ وَثَمُودُ",
+  "verse": "And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets], (22:42)"
+}

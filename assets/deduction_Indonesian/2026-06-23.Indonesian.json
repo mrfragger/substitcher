@@ -1,0 +1,61 @@
+{
+  "title": "Penjaga di Tepi Sungai",
+  "intro": "Di negeri di mana dekrit seorang tiran membawa kesedihan ke banyak rumah, sebuah jiwa menerima pesan yang menentang semua ketakutan. Dengan hati yang penuh kepercayaan, mereka memulai tindakan iman yang akan mengubah arah bangsa. Saat air membawa muatan berharga, harapan bercampur dengan arus.",
+  "clues": [
+    "Saya hidup di masa penindasan dan ketakutan.",
+    "Saya menerima ilham ilahi yang memberi saya keberanian.",
+    "Aku diperintahkan untuk tidak takut atau berduka.",
+    "Aku menempatkan anakku di dalam peti dan meletakkannya di atas air.",
+    "Anakku ditemukan oleh keluarga penguasa, tetapi anakku yang lain mengikuti.",
+    "Aku dipertemukan kembali dengan anakku untuk menyusuinya, sebagaimana yang telah Allah janjikan."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Siapakah Saya?",
+      "options": [
+        "Ibu Musa",
+        "Istri Firaun",
+        "Saudari Musa",
+        "Bunda Yesus",
+        "Ratu Sheba"
+      ],
+      "answer": "Ibu Musa"
+    },
+    "trial": {
+      "label": "Percobaan/Acara",
+      "options": [
+        "Terinspirasi untuk melemparkan seorang anak ke sungai.",
+        "Ditantang untuk berduel sihir",
+        "Dikejar oleh pasukan",
+        "Menyeberangi laut yang terbelah",
+        "Membangun rumah suci"
+      ],
+      "answer": "Terinspirasi untuk melemparkan seorang anak ke sungai."
+    },
+    "location": {
+      "label": "Elemen Kunci",
+      "options": [
+        "Sebuah peti diletakkan di sungai.",
+        "Semak yang terbakar",
+        "Tongkat yang berubah menjadi ular",
+        "Anak lembu emas",
+        "Sebuah takhta"
+      ],
+      "answer": "Sebuah peti diletakkan di sungai."
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Anak tersebut telah dikembalikan dengan selamat kepada perawat.",
+        "Anak itu hilang selamanya.",
+        "Anak itu dibawa ke negeri yang jauh.",
+        "Anak itu langsung menjadi penguasa.",
+        "Anak itu diadopsi oleh seorang pedagang kaya."
+      ],
+      "answer": "Anak tersebut telah dikembalikan dengan selamat kepada perawat."
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

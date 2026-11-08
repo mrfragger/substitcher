@@ -1,0 +1,61 @@
+{
+  "title": "Bi Horizonteen arteko Konkistatzailea",
+  "intro": "Jainkozko gidaritzapean, pertsonaia bat nabarmentzen da agintari boteretsu eta Alaren zerbitzari apal gisa. Pertsona honek lurraren muturreraino bidaiatu zuen, eguzkia herri ezohiko baten gainean irteten eta iturburu ilun eta beltz batean sartzen ikusiz. Harrigarriena, zerbitzari honi gaiztakeria handiko nazio baten aurkako hesi aparteko bat eraikitzeko ardura eman zioten. Identifika al dezakezu pertsonaia mitiko hau Koranetik?",
+  "clues": [
+    "Errukitsuenak eman zizkidan boterea eta eragina lurrean",
+    "Eguzkia irteten eta sartzen den lekura joan nintzen",
+    "Hitz bat ere ulertzen ez zuen jende batengana iritsi nintzen",
+    "Burdina erabiliz hesi erraldoi bat eraikitzeko agindu zidaten",
+    "Bi mendi malkartsuen arteko espazioa metal urtuarekin zigilatu nuen",
+    "Ez nintzen aingeru ez profeta bat, baizik eta Ala-k mesedea eman zion zerbitzari bat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Dhu al-Qarnayn (Bi adar dituena)",
+        "Suleiman erregea (Salomon)",
+        "Dhul-Kifl profeta",
+        "Dhu al-Nun (Arrain Laguna)",
+        "Hesiaren Aingerua"
+      ],
+      "answer": "Dhu al-Qarnayn (Bi adar dituena)"
+    },
+    "trial": {
+      "label": "Zeregin Handia",
+      "options": [
+        "Zeruraino dorre bat eraikitzen",
+        "Yajuj eta Majuj-en aurka burdinazko hesi erraldoi bat eraikitzea",
+        "Urrezko tronu bat sortzea epaiketarako",
+        "Putzu sakon bat zulatzen zintzoentzat",
+        "Uholde handi batean itsasontzi bat eraikitzea"
+      ],
+      "answer": "Yajuj eta Majuj-en aurka burdinazko hesi erraldoi bat eraikitzea"
+    },
+    "location": {
+      "label": "Giroa",
+      "options": [
+        "Uzair lurraldea bi ibaien artean",
+        "Egunsentiaren eta iturburu beltz lokaztuaren lekua",
+        "Meka haran sakratua",
+        "Madyan basamortua.",
+        "Zipreko uhartea."
+      ],
+      "answer": "Egunsentiaren eta iturburu beltz lokaztuaren lekua"
+    },
+    "outcome": {
+      "label": "Jainkozko Promesa",
+      "options": [
+        "Berehala emaniko betiko paradisua",
+        "Nazioa haize bero batek suntsitu zuen",
+        "Hesia Judizioaren Egunera arte iraungo du",
+        "Heriotzatik askatasuna sinestun guztientzat",
+        "Amaierarik gabeko betiko erreinua"
+      ],
+      "answer": "Hesia Judizioaren Egunera arte iraungo du"
+    }
+  },
+  "verseRef": "18:94",
+  "arabic": "قَالُوا۟ يَـٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّۭا",
+  "verse": "They said, \"O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?\" (18:94)"
+}

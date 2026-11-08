@@ -1,0 +1,61 @@
+{
+  "title": "Yr Awdurdod An-ildio",
+  "intro": "Ar draws tiroedd hynafol, roedd awdurdod pwerus ar un adeg yn rheoli, gan reoli adnoddau aruthrol a bywydau nifer dirifedi o unigolion. Er gwaethaf arwyddion a rhybuddion clir, dewisodd y llywodraethwr hwn lwybr herfeiddiol, gan arwain at wrthdaro dwys a fyddai'n atseinio drwy amser.",
+  "clues": [
+    "Hawliais y pŵer a'r awdurdod eithaf dros barth helaeth.",
+    "Heriais negesydd gostyngedig a anfonwyd gan Arglwydd yr holl deyrnasoedd.",
+    "Roedd fy mhobl yn adnabyddus am eu meistrolaeth ar strwythurau mawreddog a'r afon a gynhaliodd ein gwareiddiad.",
+    "Roeddwn i'n dyst i lawer o arwyddion gwyrthiol, gan gynnwys ffon yn troi'n sarff a llaw yn tywynnu'n llachar.",
+    "Gwrthodais adael i grŵp o bobl gaethweision adael fy nhir, er gwaethaf gorchmynion dwyfol.",
+    "Arweiniodd fy erlid o'r bobl oedd yn ymadael fi a'm byddinoedd i galon môr wedi'i rannu."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy ydw i?",
+      "options": [
+        "Proffwyd Yusuf",
+        "Brenin Talut",
+        "Fir'awn (Pharo)",
+        "Proffwyd Dawud",
+        "Namrud"
+      ],
+      "answer": "Fir'awn (Pharo)"
+    },
+    "trial": {
+      "label": "Gwrthdaro Allweddol",
+      "options": [
+        "Y llifogydd a orlifodd y tir",
+        "Hollti'r môr",
+        "Y llwyn llosgi",
+        "Adeiladu'r Kaaba",
+        "Y dinistr gan wynt nerthol"
+      ],
+      "answer": "Hollti'r môr"
+    },
+    "location": {
+      "label": "Agwedd Diffiniol",
+      "options": [
+        "Anifail sy'n siarad",
+        "Staff a llaw sy'n disgleirio",
+        "Genedigaeth wyrthiol",
+        "Carped hedfan",
+        "Gorsedd fawreddog ar ddŵr"
+      ],
+      "answer": "Staff a llaw sy'n disgleirio"
+    },
+    "outcome": {
+      "label": "Tynged Eithaf",
+      "options": [
+        "Esgynnodd i'r nefoedd",
+        "Wedi'i lyncu gan y ddaear",
+        "Boddi yn y môr",
+        "Wedi'i drawsnewid yn epa",
+        "O ystyried cyfoeth a phŵer aruthrol"
+      ],
+      "answer": "Boddi yn y môr"
+    }
+  },
+  "verseRef": "7:136",
+  "arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَـٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ",
+  "verse": "So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them. (7:136)"
+}

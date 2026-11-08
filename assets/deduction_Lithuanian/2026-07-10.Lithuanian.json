@@ -1,0 +1,61 @@
+{
+  "title": "Devynių ženklų nešėjas",
+  "intro": "Iš pačių kukliausių pradžių iškilo figūra, kurios likimas buvo įrašytas dieviškoje valioje. Kūdikystėje paslėpta ir užaugusi to paties valdovo, kuris siekė sunaikinti jų tautą, sienose, ši siela galiausiai buvo pašaukta galingai misijai. Apsiginklavę tik tikėjimu ir nuolankia piemens lazda, jie stojo prieš galingiausią epochos valdovą ir reikalavo laisvės pavergtiesiems. Atrodė, kad pats pasaulis pajudėjo jų įsakymu – vandenys prasiskyrė, dangūs prabilo ir griuvo karalystė.",
+  "clues": [
+    "Mano ankstyviausias dienas lydėjo baimė – tokius kūdikius kaip aš vos gimęs medžiojo negailestingas valdovas, bijantis ateities.",
+    "Mane išgelbėjo vanduo ir užaugau to paties valdovo, kuris siekė mano sunaikinimo, rūmuose.",
+    "Po staigaus įvykio pabėgau iš tėvynės, tapdamas nuolankiu piemeniu tolimoje šalyje.",
+    "Grįžau, kad stočiau akis į akį su tuo galingu valdovu su paprasta lazda ir aiškia žinia, reikalaudamas savo tautos laisvės.",
+    "Aš praskyriau didelį vandens telkinį tiems, kurie sekė mane, ir stebėjau, kaip tas vanduo visą prarijo mano priešą.",
+    "Užkopiau į šventą kalną, kad gaučiau dievišką Alacho vadovavimą, ir man buvo duoti devyni aiškūs ženklai kaip tiesos įrodymas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas aš esu?",
+      "options": [
+        "Pranašas Musa",
+        "Pranašas Nuh",
+        "Pranašas Ibrahimas",
+        "Pranašas Jusufas",
+        "Pranašas Lutas"
+      ],
+      "answer": "Pranašas Musa"
+    },
+    "trial": {
+      "label": "Bandomasis/renginys",
+      "options": [
+        "Susidūrimas su faraonu jo dvare",
+        "Arkos statyba, kad ji išgyventų didelį tvaną",
+        "Būti įmestam į liepsnojančią ugnį stabų kūrėjų",
+        "Brolių mane nuleidžia į gilų šulinį",
+        "Bandau sustabdyti savo žmones nuo amoralaus elgesio"
+      ],
+      "answer": "Susidūrimas su faraonu jo dvare"
+    },
+    "location": {
+      "label": "Pagrindinis elementas",
+      "options": [
+        "Lazdelė, kuri virto gyvate",
+        "Nuho arka",
+        "Bilqio sostas",
+        "Žiedas, kuris valdė vėją ir džinus",
+        "Raktai nuo sukauptų lobių tokie sunkūs"
+      ],
+      "answer": "Lazdelė, kuri virto gyvate"
+    },
+    "outcome": {
+      "label": "Rezultatas",
+      "options": [
+        "Vedė mano žmones per išsiskyrusius vandenis į laisvę",
+        "Buvo išgelbėtas nuo didelio potvynio arkos viduje",
+        "Po didelių kančių atgavo sveikatą ir šeimą",
+        "Buvo gyvas išmestas iš didelės žuvies",
+        "Pastatė Šventųjų Namų pamatus"
+      ],
+      "answer": "Vedė mano žmones per išsiskyrusius vandenis į laisvę"
+    }
+  },
+  "verseRef": "17:101",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَـٰتٍۭ بَيِّنَـٰتٍۢ ۖ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَـٰمُوسَىٰ مَسْحُورًۭا",
+  "verse": "And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, \"Indeed I think, O Moses, that you are affected by magic.\" (17:101)"
+}

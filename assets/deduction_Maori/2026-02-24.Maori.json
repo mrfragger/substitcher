@@ -1,0 +1,61 @@
+{
+  "title": "Te Reo o te Tinihanga",
+  "intro": "I whakamatautauria te hononga whanaungatanga e te ngaru o te hae. I hangaia he mahere huna, i tīmata ai he mekameka o ngā kaupapa ka roa, ka whiti i ngā tawhiti nui. Nā ngā mahi a tēnei rōpū i arahi ki te wehenga nui me te pouri, engari kāore i mutu te kōrero i reira. He kōrero mō te tinihanga, te pouri, me te huraina whakamutunga o te mahere atua. Ka taea e koe te wetewete i te tuakiri o ēnei tāngata, ā, ko ā rātou whiringa i rangona i roto i ngā whakatipuranga?",
+  "clues": [
+    "I horomia mātou e te hae mō te aroha i whakaaturia ki tētahi o ō mātou whanaunga.",
+    "I roto i tō māua hae, ka whakatakoto whakaaro māua, ka maka i tō māua teina ki te pōuri o te poka.",
+    "Hei huna i tā mātou mahi, i hoatu e mātou he kākahu ki tō mātou matua, he mea poke i te toto rūpahu.",
+    "I ngā tau i muri mai, ka akiakihia mātou e te matekai nui ki te haere ki Ihipa ki te rapu kai.",
+    "I reira, ka tū mātou ki mua i tētahi kāwana whai mana, kāore mātou i te mōhio, ko ia tonu te teina me te tuakana i hara ai mātou.",
+    "Ko tā mātou whakamātautau whakamutunga he kawe mai i tō mātou teina whakaotinga, a Pineamine, ā, i puta ai te whakakitenga mai o tō mātou hītori me tō mātou matua, ko te Poropiti a Hākupa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ko wai tātou?",
+      "options": [
+        "Ngā Tama a Ātama (Qabil rāua ko Habil)",
+        "Ngā Ākonga a te Poropiti a Ihaia",
+        "Ngā tuakana o te Poropiti a Hohepa",
+        "Te Iwi o Madyan",
+        "Ngā Tohunga Makutu o Fir'awn"
+      ],
+      "answer": "Ngā tuakana o te Poropiti a Hohepa"
+    },
+    "trial": {
+      "label": "He aha tā tātou mahi hē matua?",
+      "options": [
+        "Te hanga i tētahi kuao kau koura hei karakia",
+        "Te tono kia kite tika i a Allah",
+        "Te tawai i tētahi poropiti mō te hanga i tētahi āka",
+        "Te tinihanga i tō mātou matua, te whakarērea i tō mātou teina",
+        "Te takahi i te Hāpati mā te hī ika"
+      ],
+      "answer": "Te tinihanga i tō mātou matua, te whakarērea i tō mātou teina"
+    },
+    "location": {
+      "label": "He aha te mea i tino pūtake ai tā tātou tinihanga?",
+      "options": [
+        "He huinga papa tuhituhi",
+        "He hāte kua poke i te toto rūpahu",
+        "He kuao kau koura",
+        "He manu ataahua (te Hupa)",
+        "He tokotoko i huri hei nakahi"
+      ],
+      "answer": "He hāte kua poke i te toto rūpahu"
+    },
+    "outcome": {
+      "label": "He aha te mutunga iho o tā tātou kōrero?",
+      "options": [
+        "I whakangaromia mātou e te waipuke nui",
+        "I hurihia mātou hei makimaki",
+        "I horomia mātou e te whenua",
+        "I murua ō mātou hara, ā, i huihui anō mātou ki tō mātou whānau",
+        "I toremi mātou ki te moana"
+      ],
+      "answer": "I murua ō mātou hara, ā, i huihui anō mātou ki tō mātou whānau"
+    }
+  },
+  "verseRef": "12:91",
+  "arabic": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ",
+  "verse": "They said, \"By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners.\" (12:91)"
+}

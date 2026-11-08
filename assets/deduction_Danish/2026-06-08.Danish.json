@@ -1,0 +1,61 @@
+{
+  "title": "Helligdommens bedende",
+  "intro": "I nattens stille timer råbte en hengiven sjæl til den Barmhjertige inden for de hellige mure på et helligt sted. År med urokkelig tro og tålmodighed skulle snart belønnes med et mirakel, der ville bringe glæde og en arv af profetskab.",
+  "clues": [
+    "Jeg tilbragte mine dage og nætter i hengivenhed i et helligt tempel, hvor jeg konstant bønfaldt min Herre.",
+    "Jeg blev gammel, og min kone var ufrugtbar, men jeg mistede aldrig håbet om Allahs barmhjertighed.",
+    "Jeg fik en søn ved navn Yahya, som blev en profet og et fyrtårn for retfærdighed.",
+    "Jeg var selv profet, sendt for at vejlede Israels børn.",
+    "Jeg var en efterkommer af profeten Harun og tjente som præst i templet.",
+    "Jeg blev betroet omsorgen for Maryam, Isas mor, og var vidne til hendes mirakler."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Zakariyya",
+        "Profeten Yahya",
+        "Profeten Ilyas",
+        "Profeten Ishaq",
+        "Profeten Ya'qub"
+      ],
+      "answer": "Profeten Zakariyya"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Skænkede en søn i alderdommen",
+        "Reddet fra en voldsom brand",
+        "Reddet fra en fiskes mave",
+        "Overlevede en stor oversvømmelse",
+        "Helbredt for en alvorlig sygdom"
+      ],
+      "answer": "Skænkede en søn i alderdommen"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "Mihrab (bønneniche)",
+        "Kaabaen",
+        "Den brændende busk",
+        "Pagtens Ark",
+        "De Syv Sovendes Hule"
+      ],
+      "answer": "Mihrab (bønneniche)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Fik en retfærdig søn, som blev profet",
+        "Ødelagt af en voldsom storm",
+        "Druknet i havet",
+        "Skånet for at blive forbrændt",
+        "Vendte tilbage til deres folk efter at være blevet reddet fra en fisk"
+      ],
+      "answer": "Fik en retfærdig søn, som blev profet"
+    }
+  },
+  "verseRef": "6:85",
+  "arabic": "وَزَكَرِيَّا وَيَحْيَىٰ وَعِيسَىٰ وَإِلْيَاسَ ۖ كُلٌّۭ مِّنَ ٱلصَّـٰلِحِينَ",
+  "verse": "And Zechariah and John and Jesus and Elias - and all were of the righteous. (6:85)"
+}

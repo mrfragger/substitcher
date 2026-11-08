@@ -1,0 +1,61 @@
+{
+  "title": "Datlipalmi varjus",
+  "intro": "Lugu hingest, kes enne sündi eraldati, keda kasvatati pühade müüride vahel ja kes valiti kandma märki, mida maailm polnud kunagi näinud. Kui süüdistused kerkisid igast suunast, kostis kõige ebatõenäolisemast kohast hääl, mis vaigistas kõik kahtlused. Kas suudad avastada, kes datlipalmi varjus kõndis?",
+  "clues": [
+    "Olin pühendunud Kõigeväelisema teenistusse juba enne, kui ma esimest hingetõmmet tegin – selle tõotuse andis see, kes mind kandis.",
+    "Ma kasvasin üles õiglase eestkostja valvsa hoole all kummardamispaiga pühades kambrites.",
+    "Alati, kui mu eestkostja mu kambrisse tuli, leidis ta minult toiduvarusid aastaaegadest, mil poleks tohtinud olla.",
+    "Mulle teatati rõõmusõnumit poja sünnist, kuigi minu olud ei jätnud lubatu täitmiseks ruumi.",
+    "Ma tõmbusin kaugesse paika ja seal pakkus datlipalm mulle varju, samal ajal kui all voolas oja.",
+    "Kui süüdistused ja küsimused mind ümbritsesid, osutasin oma vastsündinud lapsele – ja ta rääkis hällist alates, vaigistades kõik kahtlused."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Maryam",
+        "Saara",
+        "Hawwa",
+        "Umm Musa",
+        "Nuhi naine"
+      ],
+      "answer": "Maryam"
+    },
+    "trial": {
+      "label": "Prooviversioon / üritus",
+      "options": [
+        "Imelise poja sünnitamine üksinda",
+        "Ebajumalakummardajate poolt lõõmavasse tulle heidetud",
+        "Suure veeuputuse üleelamine väheste väljavalitutega",
+        "Jõkke heidetud imikust eraldatuna",
+        "Vastamisi Egiptuse vägeva valitsejaga"
+      ],
+      "answer": "Imelise poja sünnitamine üksinda"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Datlipalm ja selle all voolav oja",
+        "Võimas laev kõrguvate lainete peal",
+        "Sapp, mis jagas suure mere pooleks",
+        "Leekiv tuli, mis on mõeldud ustava hinge hävitamiseks",
+        "Kuldne troon, mis on kaunistatud vääriskividega"
+      ],
+      "answer": "Datlipalm ja selle all voolav oja"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Austatud kui kõige ülevam kõigist naistest",
+        "Pärast pikka lahusolekut taasühines ta armastatud lapsega",
+        "Juhtis terve rahva türanni orjusest välja",
+        "Hoiatas ebamoraalsuses kadunud rahvast",
+        "Andis võimu džinnide, inimkonna ja tuulte üle"
+      ],
+      "answer": "Austatud kui kõige ülevam kõigist naistest"
+    }
+  },
+  "verseRef": "19:24",
+  "arabic": "فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّۭا",
+  "verse": "But he called her from below her, \"Do not grieve; your Lord has provided beneath you a stream. (19:24)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Den Echo duerch d'Fielsen",
+  "intro": "Stellt Iech en Dall vir, wou Wunnengen aus Fielsen gehaag sinn, an d'Loft d'Erënnerung un eng Warnung dréit, déi net berécksiichtegt gouf. E Vollek huet fréier hei gebléit, geseent awer trotzdeeglech, bis en Zeeche just aus deem Fiels erauskoum, op deen se vertraut hunn.",
+  "clues": [
+    "Mir waren e Vollek, dat sech sécher Haiser aus de Bierger gehäit huet a sech an eise felsegen Wunnengen sécher gefillt huet.",
+    "Mir hunn an engem Land vu Flaachen a Steng gelieft, geseent mat Gäert a Quellen.",
+    "E Bote vun eis koum an huet eis opgeruff, eis falsch Götter opzeginn an den eenzege richtege Schëpfer ze veréieren.",
+    "Mir hunn arrogant eng Bedingung fir de Glawen gesat: en eenzegaartegt Zeechen, dat aus deene Fielsen, déi mir gehaasst hunn, erauskomme géif.",
+    "Wéi déi versprach Kamellfra aus dem Fiels opgedaucht ass, e kloert Zeechen, huet eis Elite ëmmer nach refuséiert an hatt trotz der Warnung virun engem drohenden Ënnergang festgehalen.",
+    "Dräi Deeg no eiser Dot huet en donnernden Explosioun duerch d'Dall geklongen, an mir goufen zu zesummegefallene Schutt verwandelt, eis Haiser eis Griewer."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wien sinn mir?",
+      "options": [
+        "D'Leit vun ¿Ad",
+        "D'Leit vun Thamud",
+        "D'Leit vu Madyan",
+        "D'Leit vum Grove",
+        "D'Leit vun der Höhl"
+      ],
+      "answer": "D'Leit vun Thamud"
+    },
+    "trial": {
+      "label": "Eis Test-/Haaptevenement",
+      "options": [
+        "D'Verletzung vun der Hamstring vum Allah sengem Kamel",
+        "D'Veréierung vum gëllene Kalb",
+        "D'Brech vum Sabbat",
+        "De Bau vun engem Tuerm an den Himmel",
+        "D'Ermuerdung vun de Prophéiten"
+      ],
+      "answer": "D'Verletzung vun der Hamstring vum Allah sengem Kamel"
+    },
+    "location": {
+      "label": "Schlësselelement an eiser Geschicht",
+      "options": [
+        "D'Kamelfra vun Allah",
+        "D'Mataarbechter vum Musa",
+        "D'Ark vum Nuh",
+        "Déi wäiss Hand vum Musa",
+        "De Vugel vum Isa"
+      ],
+      "answer": "D'Kamelfra vun Allah"
+    },
+    "outcome": {
+      "label": "Eist Resultat",
+      "options": [
+        "Zerstéierung duerch en daafenden Explosioun",
+        "E Reen vu Steng vum Himmel",
+        "Eng Iwwerschwemmung, déi d'Äerd bedeckt huet",
+        "E staarke Wand, deen eis erausgerappt huet",
+        "D'Äerd verschléckt eis"
+      ],
+      "answer": "Zerstéierung duerch en daafenden Explosioun"
+    }
+  },
+  "verseRef": "27:45",
+  "arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+  "verse": "And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], \"Worship Allāh,\" and at once they were two parties conflicting. (27:45)"
+}

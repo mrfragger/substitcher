@@ -1,0 +1,61 @@
+{
+  "title": "En beleiring under en plutselig himmel",
+  "intro": "Du står foran en formidabel hær som nærmer seg et æret fristed, med alle våpnene klare og seieren tilsynelatende sikker. Før angrepet kan begynne, dukker en uventet makt opp over deg, og kampen tar en vending ingen forutså.",
+  "clues": [
+    "Vi marsjerte med en tillit som ingen jordisk makt kunne rokke.",
+    "Vi hadde med oss ​​mektige elefanter, og det virket som om styrkene våre var bygget rundt dem.",
+    "Vi hadde kommet for å rive ned et æret helligdom, i den tro at seieren vår allerede var sikker.",
+    "Da vi nådde dit, feide en flokk over himmelen over oss.",
+    "Fuglene kastet steiner av herdet leire mot krigerne våre.",
+    "Vi ble beseiret så fullstendig at vår mektige styrke smuldret opp og spredte seg som aske."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Elefantfolket",
+        "De to prinsene",
+        "Josefs brødre",
+        "Allahs tjener i Dhul-Kifl",
+        "Den rettferdige mannens følgesvenner"
+      ],
+      "answer": "Elefantfolket"
+    },
+    "trial": {
+      "label": "Prøve/arrangement",
+      "options": [
+        "Det elefantledede angrepet på Kaaba",
+        "Havet som deles foran en levert gruppe",
+        "Arkens beslagleggelse av et tyrannisk folk",
+        "Nattreisen mellom to moskeer",
+        "Helbredelsen av en spedalsk ved guddommelig kraft"
+      ],
+      "answer": "Det elefantledede angrepet på Kaaba"
+    },
+    "location": {
+      "label": "Nøkkelelement",
+      "options": [
+        "Fugler som bærer leirepellets",
+        "En ark av gopherwood",
+        "En stav forvandlet seg til en slange",
+        "En stein forseglet med et skilt",
+        "En brennende busk"
+      ],
+      "answer": "Fugler som bærer leirepellets"
+    },
+    "outcome": {
+      "label": "Utfall",
+      "options": [
+        "Deres mektige styrke smuldret opp som aske",
+        "De krysset havet trygt",
+        "De gikk uskadd gjennom en flammende ovn",
+        "De gikk inn i paradiset to og to",
+        "De sov i en hule i 309 år"
+      ],
+      "answer": "Deres mektige styrke smuldret opp som aske"
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

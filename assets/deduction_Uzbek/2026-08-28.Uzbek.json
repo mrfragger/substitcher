@@ -1,0 +1,61 @@
+{
+  "title": "Qadimgi Uydagi To'siq",
+  "intro": "Muqaddas shaharda yangi xabar tarqala boshlaganida, qudratli bir shaxs g'azabdan qaynab ketdi. Ismi haqiqatga qarshilik bilan sinonimga aylangan bu shaxs, ularning ta'siri ilohiy vahiyning og'irligi ostida qulab tushayotganini kuzatdi. Taqdiri mashhur jang maydonining qumlarida muhrlangan bu jon kim edi?",
+  "clues": [
+    "Men qadimiy muqaddas joy joylashgan shaharda boyligim va ta'sirim bilan tanilgan xalqim orasida boshlig'i edim.",
+    "Mening qabilamdan bir kishi bitta Xudoning xabarini e'lon qila boshlaganida, men uni va uning vahiylarini masxara qildim, ularni shunchaki o'tmishdagi ertaklar deb atadim.",
+    "Men o'sha odam muqaddas inshoot yonida ibodat qilayotganida unga duch keldim va agar kerak bo'lsa, uning ibodatini kuch bilan to'xtatish bilan tahdid qildim.",
+    "Men yangi dinni ovozini o'chirish uchun fitna uyushtirgan, uning izdoshlariga ham so'z, ham qurol bilan qarshilik ko'rsatgan yetakchilar orasida edim.",
+    "Men qo'shin bilan Badr degan joyga yo'l oldim, mo'minlarning kichik guruhini tor-mor qilishimizga amin edim.",
+    "Lekin o'sha jang maydonida mening hayotim tugadi va o'limim aniq alomatlardan keyin ham kufrda davom etganlar uchun saboq bo'ldi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kimman?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyon ibn Harb",
+        "Nadr ibn al-Horis",
+        "Umayya ibn Xalaf",
+        "Utba ibn Rabi'a"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Sinov/Tadbir",
+      "options": [
+        "Payg'ambarning Ka'bada namoz o'qishiga to'sqinlik qilish",
+        "Ka'bani qurish",
+        "Qur'onni yozish",
+        "Fil qo'shiniga boshchilik qilish",
+        "Oyni ikkiga bo'lish"
+      ],
+      "answer": "Payg'ambarning Ka'bada namoz o'qishiga to'sqinlik qilish"
+    },
+    "location": {
+      "label": "Asosiy element",
+      "options": [
+        "Ka'ba",
+        "Nuh payg'ambarning kemasi",
+        "Muso payg'ambarning tayoqchasi",
+        "Oltin buzoq",
+        "Sheba malikasining taxti"
+      ],
+      "answer": "Ka'ba"
+    },
+    "outcome": {
+      "label": "Natija",
+      "options": [
+        "Badr jangida halok bo'lgan",
+        "Tavba qildi va musulmon bo'ldi",
+        "Habashistonga qochib ketdi",
+        "Fil yilida vafot etdi",
+        "Payg'ambarning hamrohi bo'ldi"
+      ],
+      "answer": "Badr jangida halok bo'lgan"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hitz eginda izatera",
+  "intro": "Figura bat historia sakratutik ateratzen da, ordena naturala desafiatzen duten mirariak dakartzana. Arima hau jainkozko agindu bakar baten bidez iritsi zen, guraso bat salaketa larrietatik defendatu zuen, eta mundu hau utzi zuen lurreko kateek lotu aurretik. Istorioa sehaska xume batetik zeruraino doa. Nor izan liteke hau?",
+  "clues": [
+    "Allah-en seinale eta erruki gisa bidali ninduten Israelgo seme-alabentzat.",
+    "Nire etorrera aurreko inoren ezberdina izan zen — jainkozko 'Izan!' hitzaren bidez sortu nintzen, lurreko aitarik gabe.",
+    "Nire gurasoak kalumnia krudelak jasan zituen, baina errebelazio sakratua jaitsi zen haien errugabetasuna aldarrikatzera eta haien maila igotzera.",
+    "Jaioberri nintzela, ingurukoak harritu nituen sehaskatik argi hitz eginez, nire gurasoen izena garbitzeko.",
+    "Alaren baimenarekin, bizitza moldatu nuen buztin bizigabetik, itsuei ikusmena eman nien eta legenarduna sendatu nuen nire ukituarekin.",
+    "Kalterik ukitu baino lehen zeruetara igo nintzen, eta azken Ordua iritsi baino lehen mundu honetara itzuliko naiz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Isa profeta",
+        "Musa profeta",
+        "Ibrahim profeta",
+        "Yusuf profeta",
+        "Dawud profeta"
+      ],
+      "answer": "Isa profeta"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Haurtzarotik sehaskatik hitz egiten",
+        "Arrain handi baten sabelean bizirautea",
+        "Su bizian sartuta egotea",
+        "Uholde baten aurretik arka handi bat eraikitzea",
+        "Faraoiaren gorteko sorginkeriari aurre eginez"
+      ],
+      "answer": "Haurtzarotik sehaskatik hitz egiten"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ebanjelioa (Injeel)",
+        "Tawrah (Torah)",
+        "Zabur (Salmoak)",
+        "Suhuf (Ibrahim-en korrituak)",
+        "Itsasoa zatitu zuen makila bat"
+      ],
+      "answer": "Ebanjelioa (Injeel)"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Zeruetara igoa, Judizio Eguna baino lehen itzuliko da",
+        "Israelgo seme-alabak Egiptotik atera zituen",
+        "Jinn, gizaki eta hegaztien gaineko nagusitasuna zuen errege bihurtu zen",
+        "Uholde handi bati bizirik iraun zion fededunekin batera",
+        "Meka-n etxe sakratua eraiki zuen"
+      ],
+      "answer": "Zeruetara igoa, Judizio Eguna baino lehen itzuliko da"
+    }
+  },
+  "verseRef": "23:50",
+  "arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةًۭ وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍۢ ذَاتِ قَرَارٍۢ وَمَعِينٍۢ",
+  "verse": "And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water. (23:50)"
+}

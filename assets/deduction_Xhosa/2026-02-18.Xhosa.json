@@ -1,0 +1,61 @@
+{
+  "title": "Ubungqina Obuqinileyo",
+  "intro": "Ibali elinzulu liyavela, lityhila ukuzimisela okungagungqiyo koluntu xa lujamelene nogonyamelo olukhulu. Ibali labo lisebenza njengobungqina bokholo, nangona lujongene nombingelelo omkhulu. Le ngxelo isikhumbuza ngamandla okukholelwa nxamnye noxinzelelo olukhulu.",
+  "clues": [
+    "Sasiliqela elalibaliswa kwi-surah emfutshane nenamandla, ilumkisa ngentshutshiso.",
+    "Sajongana nomlawuli owayefuna ukuphelisa ukukholelwa kwethu kuThixo omnye, iNkosi yeTrone, uMdumisi.",
+    "Safumana uvavanyo olubi kakhulu olubandakanya umngxuma omkhulu owembiwe emhlabeni.",
+    "Sabukela njengoko amakholwa, kuquka neentsana, ephoswa esihogweni esivuthayo ngaphakathi kuloo mngxuma.",
+    "Abathuthumbisi bethu baqalekiswa ngenxa yezenzo zabo, ngoxa thina sathenjiswa umvuzo omkhulu ngokunyamezela kwethu.",
+    "Imizamo yomlawuli yokucima ukholo lwethu yaqinisa indawo yethu njengabafeli-nkolo phambi kuka-Allah, ongungqina wezinto zonke."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ndingubani?",
+      "options": [
+        "Abantu baseThamud",
+        "Abantu be-'Ad",
+        "Abantu baseMgxobhozweni",
+        "Abantu bakaLut",
+        "Abantu beNdlovu"
+      ],
+      "answer": "Abantu baseMgxobhozweni"
+    },
+    "trial": {
+      "label": "Uvavanyo/Isiganeko",
+      "options": [
+        "UMkhukula Omkhulu",
+        "Isihlahla Esitshayo",
+        "Ukuntywiliselwa eLwandle",
+        "Umngxuma Womlilo",
+        "Inyikima"
+      ],
+      "answer": "Umngxuma Womlilo"
+    },
+    "location": {
+      "label": "Into ephambili",
+      "options": [
+        "Ityeya",
+        "Abasebenzi",
+        "Umngxuma",
+        "Intaba",
+        "Umthombo"
+      ],
+      "answer": "Umngxuma"
+    },
+    "outcome": {
+      "label": "Isiphumo",
+      "options": [
+        "Banikwe ubukumkani",
+        "Sasindiswa ngummangaliso",
+        "Wafeza ukufela ukholo kunye neParadesi",
+        "Zazisasazeke kumazwe ngamazwe",
+        "Banikwa ubutyebi obukhulu"
+      ],
+      "answer": "Wafeza ukufela ukholo kunye neParadesi"
+    }
+  },
+  "verseRef": "85:8",
+  "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+  "verse": "And they resented them not except because they believed in Allāh, the Exalted in Might, the Praiseworthy, (85:8)"
+}

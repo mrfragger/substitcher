@@ -1,0 +1,61 @@
+{
+  "title": "Manzannin Rahama da Iko",
+  "intro": "Ka yi tunanin rana mai natsuwa da isowar matafiya da ba a saba gani ba ta katse su. Kallonsu abu ne na yau da kullun, amma manufarsu ba komai ba ce. Suna ɗauke da saƙon allahntaka wanda zai canza al'amuran al'umma biyu, yana kawo dariya ga gida mara amfani da kuma tsoro ga birni mai zunubi. Su waye waɗannan baƙi masu ban mamaki?",
+  "clues": [
+    "An aiko mu zuwa ga wani bawan Allah mai ibada, wanda aka san shi da karimcinsa mara iyaka.",
+    "Mun isa kamar baƙi, amma duk da haka mai masaukinmu ya ji wani abu daban game da kasancewarmu.",
+    "Mun kawo labarin da ya sa wata tsohuwa ta yi dariya cikin rashin yarda, tana dukan fuskarta cikin mamaki.",
+    "An ba mu aikin kare iyali nagari yayin da muke zubar da halaka a kan birnin da ke cike da cin hanci da rashawa.",
+    "Mun ƙi cin abincin da aka ba mu, wanda hakan ya ƙara tsananta zargin mai masaukinmu.",
+    "Mun bayyana ainihin halinmu ne kawai kafin mu tafi, muna cewa, 'Hakika, mu manzanni ne na Ubangijinka.'"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Su waye Mu?",
+      "options": [
+        "Baƙin Ibrahim",
+        "Almajiran Yesu",
+        "Ma'abota Kogo",
+        "Rundunar Abraha",
+        "Manzannin Ya-Sin"
+      ],
+      "answer": "Baƙin Ibrahim"
+    },
+    "trial": {
+      "label": "Manufarmu",
+      "options": [
+        "Domin a gwada bangaskiyar Ibrahim game da ɗansa",
+        "Domin isar da littafi ga Ibrahim",
+        "Domin sanar da haihuwar Ishaku da kuma halakar mutanen Lutu",
+        "Don shiryar da Ibrahim zuwa Ka'aba",
+        "Domin ceto Ibrahim daga wuta"
+      ],
+      "answer": "Domin sanar da haihuwar Ishaku da kuma halakar mutanen Lutu"
+    },
+    "location": {
+      "label": "Wurin Bayyana",
+      "options": [
+        "A ƙasar Masar",
+        "A birnin Ur",
+        "A gidan Ibrahim",
+        "A cikin lambun Adnin",
+        "A rijiyar Zamzam"
+      ],
+      "answer": "A gidan Ibrahim"
+    },
+    "outcome": {
+      "label": "Sakamakon",
+      "options": [
+        "Ibrahim ya zama sarki",
+        "Ibrahim ya gina Ka'aba",
+        "Saratu ta haifi Ishaku kuma mutanen Lutu suka halaka",
+        "Ibrahim ya yi hijira zuwa Falasdinu",
+        "An ceci mutanen Ibrahim daga babban ambaliyar ruwa"
+      ],
+      "answer": "Saratu ta haifi Ishaku kuma mutanen Lutu suka halaka"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Vox Saeculorum Neglecta",
+  "intro": "Multo ante magnas urbes exortas, anima sola ex populo qui a veritate aversatus erat surrexit. Pertinaciae eorum sola patientia huius solitarii clamantis, qui per generationes implorabat sine amissione constantiae, aequabatur. Cum omnia admonitiones in aures surdas cecidissent, inaudita ratiocinatio ipsam terram transformavit. Hodie, illius historiae echo adhuc per quamque recitationem resonat. Potesne hanc animam constantem agnoscere?",
+  "clues": [
+    "Inter populum qui falsa idola colebat et signa circumstantia neglegebat educatus sum, tamen electus sum ut eos ab incuria sua excitarem.",
+    "Iterum atque iterum populum meum clamavi, sed illi me accusabant nihil esse nisi hominem similem illis, sermonem meum deridentes et aures suas obturantes.",
+    "Nocte dieque eos sapientia et lenibus admonitionibus obsecravi, sed verba mea in aera evanescere visa sunt, inaudita et neglecta.",
+    "Divina iussu, navem ingentem ex ligno et tabulis in sicca terra construxi, et populus meus me quasi rationem amissam derisit.",
+    "Cum magnum diluvium, ut promissum est, advenit, filius meus navem mecum conscendere recusavit, credens montem se ab aquis crescentibus protecturum esse.",
+    "Patriarcha novi initii in terra factus sum, et historia mea in capitulo Alcorani quod nomen meum ipsum fert conservatur."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Nuh",
+        "Propheta Ibrahim",
+        "Propheta Musa",
+        "Propheta Lut",
+        "Propheta Hud"
+      ],
+      "answer": "Propheta Nuh"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Magnum Diluvium quod terram reformavit",
+        "Ab idololatris in ignem ardentem coniectus",
+        "Conflictus cum magis Pharaonis in palatio",
+        "Destructio hortorum prosperorum tempestate caelesti",
+        "Eversio incolarum fossae"
+      ],
+      "answer": "Magnum Diluvium quod terram reformavit"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Arca ex ligno et tabulis constructa",
+        "Domus sacra super fundamenta antiqua aedificata",
+        "Baculus qui in serpentem transformatus est",
+        "Spelunca iuvenum dormientium",
+        "Thronus a bestia potenti portatus"
+      ],
+      "answer": "Arca ex ligno et tabulis constructa"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Increduli submersi sunt, fideles autem in navi servati sunt.",
+        "Ignis frigidus et tutus factus est, et vocans incolumis evasit.",
+        "Magi prostrati fidem amplexi sunt",
+        "Hortus pro eo vicino iusto concessus est",
+        "Dormientes post saecula expergefacti, transformati"
+      ],
+      "answer": "Increduli submersi sunt, fideles autem in navi servati sunt."
+    }
+  },
+  "verseRef": "71:5",
+  "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا",
+  "verse": "He said, \"My Lord, indeed I invited my people [to truth] night and day. (71:5)"
+}

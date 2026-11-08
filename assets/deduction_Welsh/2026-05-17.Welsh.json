@@ -1,0 +1,61 @@
+{
+  "title": "Penseiri'r Cerrig",
+  "intro": "Dychmygwch wareiddiad pwerus, wedi'i ddawnsio â chryfder a sgiliau, yn cerfio anheddau mawreddog i lethrau mynyddoedd. Roedd gan y grŵp hwn ffyniant aruthrol a dawn bensaernïol unigryw. Eto, er gwaethaf derbyn rhybuddion clir, fe ddewison nhw lwybr a fyddai'n arwain at gasgliad dramatig ac anghofiadwy. A allwch chi adnabod y grŵp hwn y mae ei stori'n gwasanaethu fel gwers ddofn i bawb sy'n myfyrio?",
+  "clues": [
+    "Rhoddwyd cryfder a sgiliau inni, a oedd yn ein galluogi i gerfio cartrefi godidog yn uniongyrchol i'r mynyddoedd.",
+    "Cawsom arwydd clir gan Allah, creadur unigryw a oedd i'w adael heb ei darfu i bori.",
+    "Daeth ein cymuned yn drahaus, gan herio'r neges ddwyfol a ddygwyd gan negesydd o'n plith.",
+    "Fe wnaethon ni gynllwynio i niweidio'r arwydd gwyrthiol, er gwaethaf y rhybuddion o gosb lem.",
+    "Fe wnaethon ni herio'r gorchymyn i adael i'r creadur arbennig yfed o'n ffynnon ni bob yn ail ddiwrnod.",
+    "Daeth diwedd dinistriol arnom, wedi ein taro i lawr gan un ffrwydrad, dychrynllyd ar ôl ein gweithred o drosedd."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Pwy Ydym Ni?",
+      "options": [
+        "Pobl 'Ad",
+        "Pobl Midian",
+        "Pobl yr Eliffant",
+        "Pobl Thamud",
+        "Pobl Lut"
+      ],
+      "answer": "Pobl Thamud"
+    },
+    "trial": {
+      "label": "Ein Treial/Digwyddiad Mawr",
+      "options": [
+        "Y llifogydd a orlifodd y tir",
+        "Hollti'r môr",
+        "Y dinistr gan un ffrwydrad/gweiddi",
+        "Llosgi dinas",
+        "Troi mynydd yn llwch"
+      ],
+      "answer": "Y dinistr gan un ffrwydrad/gweiddi"
+    },
+    "location": {
+      "label": "Elfen Allweddol yn Ein Stori",
+      "options": [
+        "Llo aur",
+        "Camel benywaidd rhyfeddol",
+        "Llwyn yn llosgi",
+        "Aderyn sy'n siarad",
+        "Gorsedd fawreddog"
+      ],
+      "answer": "Camel benywaidd rhyfeddol"
+    },
+    "outcome": {
+      "label": "Ein Canlyniad Terfynol",
+      "options": [
+        "Wedi cael cyfoeth a phŵer aruthrol",
+        "Wedi'i ddyrchafu i broffwydiaeth",
+        "Dinistr llwyr gan gosb ddwyfol",
+        "Wedi'i faddau ar ôl edifeirwch diffuant",
+        "Wedi'u gwasgaru ar draws y ddaear i grwydro"
+      ],
+      "answer": "Dinistr llwyr gan gosb ddwyfol"
+    }
+  },
+  "verseRef": "26:158",
+  "arabic": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+  "verse": "And the punishment seized them. Indeed in that is a sign, but most of them were not to be believers. (26:158)"
+}

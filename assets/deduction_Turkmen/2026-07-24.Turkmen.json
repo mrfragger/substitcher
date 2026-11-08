@@ -1,0 +1,61 @@
+{
+  "title": "Ýapyk dildüwşükçi",
+  "intro": "Siz özüňizi wahy döwründen bäri güýçli şahsyýetiň öňünde tapýarsyňyz. Bu şahsyýet akyly, baýlygy we halkynyň arasyndaky derejesi bilen tanalýardy. Aýdyň alamatlar gelende, olar gözelligi tanaýardylar, ýöne boýun egmegiň ýerine garşylygy saýladylar. Bu jany garaňkylykda mekirlik etmäge näme iterdi we olaryň soňky ykbaly nähili boldy?",
+  "clues": [
+    "Maňa köp serişde we täsir berildi, şonuň üçin ýygnaklarda sözümi agyrlaşdyrdym.",
+    "Ylahynyň sözleri aýdylanda, men olaryň çeper sözleýiş ussatlygyny inkär edip bilmedim, ýöne buýsanjym maňa boýun egmäge rugsat bermedi.",
+    "Men maslahatçylarymy ýygnadym, habary ýamanlaşdyrmagyň ýoluny tapmak üçin özümi ýeke sakladym.",
+    "Köp pikir edenden soň, men muny adamlary menden sowmak üçin diňe \"geçmişden miras galan jadygöýlik\" diýip yglan etdim.",
+    "Soňra wahy maňa gönüden-göni ýüzlendi: \"Meni ýaradanym bilen ýeke goýuň\". Men mekirligim üçin saýlandym.",
+    "Tizden maňa duýduryş berlen ot meni alnymdan tutar we meniň gaçyp gutulmagym mümkin bolmaz."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Men kim?",
+      "options": [
+        "Al-Walid ibn al-Mugira",
+        "Abu Lahab",
+        "Abu Jahl",
+        "Ukba ibn Ebi Muaýt",
+        "Al-Nadr ibn al-Haris"
+      ],
+      "answer": "Al-Walid ibn al-Mugira"
+    },
+    "trial": {
+      "label": "Synag/Waka",
+      "options": [
+        "Pygamberi öldürmek üçin dildüwşük gurnady",
+        "Musulmanlara garşy boýkot geçirdi",
+        "Gurhany jadygöýlik hökmünde tanatmak üçin geňeş ýygnady",
+        "Pygamberi Mekkeden çykarmak üçin dildüwşük gurnaldy",
+        "Baýlygyny ýetimler bilen paýlaşmakdan ýüz öwürdi"
+      ],
+      "answer": "Gurhany jadygöýlik hökmünde tanatmak üçin geňeş ýygnady"
+    },
+    "location": {
+      "label": "Esasy element",
+      "options": [
+        "Wahy",
+        "Geňeş",
+        "Al saç",
+        "Baýlyk",
+        "Ruçka"
+      ],
+      "answer": "Al saç"
+    },
+    "outcome": {
+      "label": "Netije",
+      "options": [
+        "Ol toba etdi we yslam dinini kabul etdi",
+        "Ol Hebeşistana göçdi",
+        "Ol ölüm howply kesele duçar boldy",
+        "Ol musulmanlara garşy söweşde öldi",
+        "Ol dowzah oduna höküm edildi"
+      ],
+      "answer": "Ol dowzah oduna höküm edildi"
+    }
+  },
+  "verseRef": "74:18",
+  "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+  "verse": "Indeed, he thought and deliberated. (74:18)"
+}

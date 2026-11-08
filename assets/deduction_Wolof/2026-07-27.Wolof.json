@@ -1,0 +1,61 @@
+{
+  "title": "Offer bi soppi ëlëg",
+  "intro": "Bi nit ñi di sooga xew, ruuh dafa daan joxe kado ak yéene yu sell. Waaye, ci ñeel gi nekkoon ci lëndëmu nangu gi. Gis leen jaar-jaaru nit kii nga xamni njubteem ak njeexte lu tiis la, te Yàlla feeñal ko ba fàww.",
+  "clues": [
+    "Man bokk naa ci ñi njëkka am àdduna.",
+    "Ma jébbal sama Boroom sarax, mu nangu ko ci ngërëm.",
+    "Saraxu sama rak, ñu bañ ko, kiñaan lëndëm xolam.",
+    "Ma ne ko, 'Soo tàllalee sa loxo ci man ngir ray ma, duma tàllal sama loxo ngir ray la; Maa ngi ragal Yàlla, boroom àdduna.»",
+    "Mooy ki ñu njëkka ray ci àdduna bi.",
+    "Sama deret di yuuxu, man maa njëkka ñàkk seen bakkan ndax amul benn bàkkaar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Man Kan laa?",
+      "options": [
+        "Habil (Abel)",
+        "Qabil (Kayin)",
+        "Ku góor ki bawoo Ya-Sin",
+        "Saamiri yi",
+        "Luqman"
+      ],
+      "answer": "Habil (Abel)"
+    },
+    "trial": {
+      "label": "Jàngat/Xew-xew",
+      "options": [
+        "Ñu nangu saraxam, moo waral rakkam ci ñee, ray ko",
+        "Ñu sànni ko ci fuur bu tàng waaye génn ci dara",
+        "Tabax na gaal gu rëy ci ndigalu Yàlla",
+        "Jën wu mag wann ko, mu des ci lëndëm",
+        "Yobbu na askanam ci géej gu xaajaloo"
+      ],
+      "answer": "Ñu nangu saraxam, moo waral rakkam ci ñee, ray ko"
+    },
+    "location": {
+      "label": "Ëlëm bu am solo",
+      "options": [
+        "Sarax buñu nangu",
+        "Baton buy soppiku nekk jaan",
+        "Gaam bu jigéen biy màndargaal Yàlla",
+        "Hoopoe di indaale xibaar",
+        "ñu jaamu naat bu wurus"
+      ],
+      "answer": "Sarax buñu nangu"
+    },
+    "outcome": {
+      "label": "Njureef",
+      "options": [
+        "Faat bu njëkk ci taarix; rakkam daañu ko daan",
+        "Suuf si wann ko ak alal jimu am",
+        "soppiku nekk goor ndax njuumte",
+        "Ngelaw lu metti, melni glaas moo ko yàq",
+        "Ñu daanu ci mbënd mu mag ngir yar leen"
+      ],
+      "answer": "Faat bu njëkk ci taarix; rakkam daañu ko daan"
+    }
+  },
+  "verseRef": "5:27",
+  "arabic": "۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًۭا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْـَٔاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+  "verse": "And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], \"I will surely kill you.\" Said [the former], \"Indeed, Allāh only accepts from the righteous [who fear Him]. (5:27)"
+}

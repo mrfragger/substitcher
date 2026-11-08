@@ -1,0 +1,61 @@
+{
+  "title": "Musim Semi Ing Ngisor Pasir",
+  "intro": "Ing cathetan Al-Qur'an, ana tokoh sing sabar banget ngadhepi pacoban sing bakal ngremuk ati sing paling kuwat. Kabeh wis dirampas - kasugihan, kulawarga, lan kesehatan. Nanging saka jerone rasa putus asa, pandonga sing andhap asor dijawab kanthi cara sing paling ora dikarepke. Apa sampeyan bisa ngenali jiwa iki sing critane pemulihan isih ana ing jaman biyen?",
+  "clues": [
+    "Aku diuji nganggo pacoban sing abot banget nganti ora bakal ilang nganti tekan selawase.",
+    "Aku kelangan kabeh sing penting - bandhaku, anak-anakku, lan kesehatanku.",
+    "Awakku kebak tatu sing nglarani, lan aku disingkiri dening kabeh wong.",
+    "Ing sajroning rasa putus asa, aku nyebut marang Allah, ngucap menawa Iblis wis ndemek aku kanthi kasangsaran lan siksaan.",
+    "Allah paring wangsulan lan dhawuh supaya aku nggebug lemah nganggo sikilku.",
+    "Saka panggonan kuwi, sumber banyu sing adhem metu, lan Allah mulihake kulawargaku lan nggandakake dheweke minangka rahmat."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sapa Aku?",
+      "options": [
+        "Nabi Ayyub",
+        "Nabi Musa",
+        "Nabi Ilyas",
+        "Nabi Sulaiman",
+        "Nabi Dawud"
+      ],
+      "answer": "Nabi Ayyub"
+    },
+    "trial": {
+      "label": "Uji Coba/Acara",
+      "options": [
+        "Penyakit parah lan kelangan kulawarga lan bandha",
+        "Diuntal dening paus gedhe",
+        "Pangasingan saka kutha Mekah",
+        "Dikunjara ing sumur sing jero",
+        "Konfrontasi karo penguasa sing sombong"
+      ],
+      "answer": "Penyakit parah lan kelangan kulawarga lan bandha"
+    },
+    "location": {
+      "label": "Unsur Kunci",
+      "options": [
+        "Sumber banyu sing adhem saka bumi",
+        "Prau nalika banjir gedhe",
+        "Staf sing misahake segara",
+        "Tahta kaca sing dhuwur",
+        "Guwa sing dipageri tembok kanggo turu"
+      ],
+      "answer": "Sumber banyu sing adhem saka bumi"
+    },
+    "outcome": {
+      "label": "Asil",
+      "options": [
+        "Kulawarga lan kasugihan dipulihake lan digandakake",
+        "Metu saka weteng iwak",
+        "Liwat banyu sing misah kanthi aman",
+        "Kraton sing diwenehake kanggo mrentah",
+        "Kelahiran putra sing ajaib nalika wis tuwa"
+      ],
+      "answer": "Kulawarga lan kasugihan dipulihake lan digandakake"
+    }
+  },
+  "verseRef": "38:41",
+  "arabic": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَـٰنُ بِنُصْبٍۢ وَعَذَابٍ",
+  "verse": "And remember Our servant Job, when he called to his Lord, \"Indeed, Satan has touched me with hardship and torment.\" (38:41)"
+}

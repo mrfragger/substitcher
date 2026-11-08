@@ -1,0 +1,61 @@
+{
+  "title": "Nepojmenovaná duše, která se postavila proti nespravedlivému národu",
+  "intro": "Na stránkách Koránu se nacházejí postavy, jejichž jména byla pro nás zatajena, abychom se mohli zamyslet nad jejich ponaučeními. Jedna taková duše se narodila uprostřed národa, který odmítl své posly, přesto tato osoba měla skrytou víru, která ji odlišovala. Když se blížila zkáza, tato osoba pevně stála ve své tajné víře. Dokážete odhalit identitu této tajemné postavy, která varuje svůj lid před konečným rozhodnutím?",
+  "clues": [
+    "Žil jsem mezi lidmi, kteří opakovaně popírali posly, které k nim poslal Alláh.",
+    "Na rozdíl od mého národa jsem poznal pravdu, když přišel posel s jasnými znameními od mého Pána.",
+    "Tajil jsem svou víru před utlačovateli, protože jsem věděl, že mi ublíží, pokud ji odhalí.",
+    "Když se blížil rozkaz trestu, otevřeně jsem prohlásil svou věrnost a varoval svůj lid, aby se zachránil.",
+    "Připomněl jsem jim, že jsem důvěryhodný posel, nelišící se od těch, kteří byli vysláni před nimi, a že by neměli uctívat nikoho jiného než Alláha.",
+    "Můj lid mě obvinil z čarodějnictví a šílenství, ale trest, před kterým byli varováni, je nakonec stihl."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Prorok Hud, posel lidu Aad",
+        "Věřící muž z národa proroka Huda, který byl umučen",
+        "Vládce lidu Aad, který odmítl pravdu",
+        "Společník proroka Sáliha, který pochyboval o božských znameních",
+        "Anděl poslán, aby zničil lid Aad"
+      ],
+      "answer": "Věřící muž z národa proroka Huda, který byl umučen"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Zkouška sucha a hladomoru, která prověřila jejich trpělivost",
+        "Soud s vyznáním víry před utlačujícím nevěřícím národem",
+        "Zkouška stavby lodi, která by unikla velké povodni",
+        "Zkouška vhozením do ohně za víru v Alláha",
+        "Zkouška bohatství a prosperity"
+      ],
+      "answer": "Soud s vyznáním víry před utlačujícím nevěřícím národem"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Město Mekka, kde byl postaven posvátný dům",
+        "Pouštní pláně národa, který popřel svého posla",
+        "Midjánské hory, kam byl poslán prorok Šuajb",
+        "Břeh řeky Egypta, kde byl nalezen prorok Músa",
+        "Údolí lidu Aad, zasažené prudkým větrem"
+      ],
+      "answer": "Pouštní pláně národa, který popřel svého posla"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Byl jsem zachráněn na lodi a žil jsem, dokud Alláh nechtěl",
+        "Můj lid po mně uvěřil a byl veden na přímou cestu",
+        "Byl jsem zabit svým lidem, ale mou duši si vzalo Alláhovo milosrdenství",
+        "Po zkoušce jsem činil pokání a Alláh mé pokání přijal",
+        "Po mé smrti jsem se proměnil v idol uctívaný mým lidem"
+      ],
+      "answer": "Byl jsem zabit svým lidem, ale mou duši si vzalo Alláhovo milosrdenství"
+    }
+  },
+  "verseRef": "11:96",
+  "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍۢ مُّبِينٍ",
+  "verse": "And We did certainly send Moses with Our signs and a clear authority (11:96)"
+}

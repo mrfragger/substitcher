@@ -1,0 +1,61 @@
+{
+  "title": "Arhitekt arogance",
+  "intro": "V starodavni deželi, ki ji je vladala kljubovalna sila, je ključna oseba zasedala vpliven položaj. Ta duša je bila ključna pri vladarjevih velikih načrtih, prispevala je k njihovi zatiralski vladavini in izpodbijala božansko sporočilo. Njihova zapuščina je prepletena s prizadevanjem za posvetno močjo in zanikanjem resnice.",
+  "clues": [
+    "Služil sem mogočnemu vladarju, ki je zatiral ljudstvo več generacij.",
+    "Moje ime je v Božji knjigi pogosto omenjeno skupaj s tem mogočnim voditeljem.",
+    "Zadolžen sem bil za veličasten gradbeni projekt, stolpnico, ki naj bi segala do nebes.",
+    "Gospodarju sem svetoval, naj pobije sinove Izraelovih otrok in prizanese njihovim hčeram.",
+    "Bil sem vpleten v zarote in načrte proti mogočnemu Alahovemu poslancu.",
+    "Moj konec, skupaj z mojim gospodarjem in njegovo vojsko, je prišel v vodah prostranega morja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo sem jaz?",
+      "options": [
+        "Nimrod",
+        "Abrahah",
+        "Goljat",
+        "Iblis",
+        "Haman"
+      ],
+      "answer": "Haman"
+    },
+    "trial": {
+      "label": "Preizkus/dogodek",
+      "options": [
+        "Preizkušnja z neizmernim bogastvom",
+        "Vodenje vojske proti sveti hiši",
+        "Gradnja stolpa za dosego Boga",
+        "Zaradi vere so bili vrženi v ogenj",
+        "To, da so ga bratje in sestre vrgli v vodnjak"
+      ],
+      "answer": "Gradnja stolpa za dosego Boga"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Skrinja",
+        "Osebje",
+        "Gora",
+        "Stolp",
+        "Kit"
+      ],
+      "answer": "Stolp"
+    },
+    "outcome": {
+      "label": "Izid",
+      "options": [
+        "Biti deležen neizmerne modrosti",
+        "Postati prerok",
+        "Biti pogoltnjen od zemlje",
+        "Biti podeljeno kraljestvo",
+        "Utapljanje v morju"
+      ],
+      "answer": "Utapljanje v morju"
+    }
+  },
+  "verseRef": "40:36-37",
+  "arabic": "",
+  "verse": "40:36-37"
+}

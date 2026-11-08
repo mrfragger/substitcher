@@ -1,0 +1,61 @@
+{
+  "title": "Sľub nenarodených",
+  "intro": "Úprimná duša dala posvätný sľub pred príchodom dieťaťa. Príbeh tejto postavy sa odohráva v múroch svätyne, kde sa oddanosť stretáva s božským prijatím. Kto je tento služobník Alaha?",
+  "clues": [
+    "Patril som do rodiny uctievanej v Koráne.",
+    "Slávnostne som sľúbila, že svoje nenarodené dieťa zasvätím službe Alahovi.",
+    "Keď som porodila, prekvapilo ma, že je to dcéra, hoci som čakala syna.",
+    "Svoje dieťa som pomenovala Maryam, meno, ktoré odráža oddanosť a službu.",
+    "Prosila som Alaha o ochranu pre moje dieťa a jej potomkov pred prekliatym Satanom.",
+    "Moje dieťa bolo prijaté Pánom a zverené do starostlivosti proroka Zakariyu v svätyni."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kto som?",
+      "options": [
+        "Manželka Imrana (matka Maryam)",
+        "Ásia, manželka faraóna",
+        "Maryam, matka Isu",
+        "Matka proroka Musu",
+        "Kráľovná zo Sáby"
+      ],
+      "answer": "Manželka Imrana (matka Maryam)"
+    },
+    "trial": {
+      "label": "Skúšobná verzia/udalosť",
+      "options": [
+        "Sľubuje, že zasvätí svoje dieťa chrámu",
+        "Byť hodený do ohňa",
+        "Prechod cez more po suchej zemi",
+        "Stavba veľkej archy",
+        "Byť prehltnutý veľkou rybou"
+      ],
+      "answer": "Sľubuje, že zasvätí svoje dieťa chrámu"
+    },
+    "location": {
+      "label": "Kľúčový prvok",
+      "options": [
+        "Svätyňa (mihrab), kde bolo umiestnené jej dieťa",
+        "Archa zmluvy",
+        "Zlaté teľa",
+        "Zamestnanec, ktorý sa premenil na hada",
+        "Datľová palma, pod ktorou odpočívala"
+      ],
+      "answer": "Svätyňa (mihrab), kde bolo umiestnené jej dieťa"
+    },
+    "outcome": {
+      "label": "Výsledok",
+      "options": [
+        "Jej dieťa bolo prijaté a zverené do starostlivosti proroka Zakariyu.",
+        "Bola zachránená pred trestom tyrana",
+        "Dostala syna menom Yahya",
+        "Jej ľud zničila búrka",
+        "Stala sa kráľovnou nad veľkým kráľovstvom"
+      ],
+      "answer": "Jej dieťa bolo prijaté a zverené do starostlivosti proroka Zakariyu."
+    }
+  },
+  "verseRef": "3:35",
+  "arabic": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًۭا فَتَقَبَّلْ مِنِّىٓ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+  "verse": "[Mention, O Muḥammad], when the wife of ʿImrān said, \"My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing.\" (3:35)"
+}

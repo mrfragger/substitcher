@@ -1,0 +1,61 @@
+{
+  "title": "Die verborgenen Zuhörer, die glaubten",
+  "intro": "In der Stille einer heiligen Versammlung erschien eine bemerkenswerte Gruppe aus einer unsichtbaren Welt. Vom Flüstern eines Wundersamen angelockt, lauschten sie einer Rezitation, die ihr Schicksal für immer besiegeln sollte. Ihr Zeugnis zählt zu den einzigartigsten in der Heiligen Schrift.",
+  "clues": [
+    "Wir sind Wesen aus einer den meisten verborgenen Welt, und wir kamen als Gruppe.",
+    "Wir machten uns auf den Weg zu einer Versammlung, um etwas Außergewöhnliches zu hören.",
+    "Bei unserer Ankunft hörten wir eine Rezitation, die uns in Staunen versetzte.",
+    "Wir haben offen eingestanden, dass einige unter uns rechtschaffen sind und einige nicht.",
+    "Wir wussten, dass wir dem göttlichen Erlass weder auf Erden noch durch eine Flucht in den Himmel entkommen konnten.",
+    "Als wir die Weisung hörten, glaubten wir ihr; wer an seinen Herrn glaubt, wird weder Verlust noch Last fürchten."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Eine Gruppe von Dschinn",
+        "Das Volk von Iram",
+        "Das Volk von Tubba",
+        "Das Römische Reich",
+        "Der Stamm der Quraisch"
+      ],
+      "answer": "Eine Gruppe von Dschinn"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "einer heiligen Rezitation zuhören",
+        "Errichtung von hohen Säulen in unserer Stadt",
+        "Jagd auf eine prächtige Kamelstute",
+        "Vernichtet zu werden, weil wir unsere Propheten getötet haben.",
+        "Unermessliche Vermehrung des Reichtums"
+      ],
+      "answer": "einer heiligen Rezitation zuhören"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Eine Versammlung heiliger Rezitationen",
+        "Eine Stadt der hohen Säulen (Iram)",
+        "Ein Brunnen in der Wüste",
+        "Ein prächtiger Palast aus Gold",
+        "Eine heilige Höhle in den Bergen"
+      ],
+      "answer": "Eine Versammlung heiliger Rezitationen"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Wir haben geglaubt und unser Volk gewarnt.",
+        "Zerstört durch eine gewaltige Explosion vom Himmel",
+        "Bestraft von einem sengenden, zerstörerischen Wind",
+        "Ihm wurden immenser Reichtum und Macht verliehen",
+        "Er blieb standhaft im Unglauben."
+      ],
+      "answer": "Wir haben geglaubt und unser Volk gewarnt."
+    }
+  },
+  "verseRef": "72:11",
+  "arabic": "وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا",
+  "verse": "And among us are the righteous, and among us are [others] not so; we were [of] divided ways. (72:11)"
+}

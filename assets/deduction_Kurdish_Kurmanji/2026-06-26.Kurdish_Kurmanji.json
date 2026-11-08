@@ -1,0 +1,61 @@
+{
+  "title": "Barê Diyariyek Redkirî",
+  "intro": "Di destpêka dîroka mirovahiyê de, dema ku erd hîn ciwan bû û cîhan bêhna xwe ya yekem girt, giyanek bi pêşkêşiyek dilnizm li ber Afirîner rawestiya. Ew pêşkêş di terazûya qebûlkirina îlahî de hate pîvandin - û kêmasî dît. Tiştê ku li pey hat ne çîroka bexşandinê bû, lê belê çîroka dilê ku bi çavnebariyê hatibû xwarê bû, ku rê li ber kiryarek bêveger vekir ku dê di tevahiya demê de deng vede. Ev çîroka kesekî ye ku navê wî bi neheqiya yekem a giran a ku hatiye kirin re hevwate bû.",
+  "clues": [
+    "Ez wek yek ji wan zarokên herî pêşîn hatim dinyayê ku ji dayik û bavê ku hûn çîroka wî baş dizanin çêbûm.",
+    "Carekê min qurbanek ji Xwedê re pêşkêş kir, lê ew ji min nehat qebûlkirin - her çend pêşkêşa birayê min bi kerema xwe hat qebûlkirin.",
+    "Çavnebarî û hêrs di dilê min de kok girtin, û min gef xwar ku ez ê jiyana xizmên xwe bi dawî bikim.",
+    "Birayê min ji min re hişyar kir ku ez ji Xwedê bitirsim, lê serbilindiya min nehişt ku ez guh bidim wî.",
+    "Di çirkeyek lawaziya tirsnak de, min kiryarek bêhempa li dijî birayê xwe kir.",
+    "Piştî wê, min nizanibû çawa tiştê ku min kiribû veşêrim - heta ku mexlûqek ji erdê ji bo fêrkirina min nehat şandin."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ez kî me?",
+      "options": [
+        "Qabîl (Qabîl)",
+        "Habîl (Habîl)",
+        "Kurê Pêxember Nûh",
+        "Pêxember Îsmaîl",
+        "Pêxember Yûsif"
+      ],
+      "answer": "Qabîl (Qabîl)"
+    },
+    "trial": {
+      "label": "Ceribandin/Bûyer",
+      "options": [
+        "Pêşkêşkirina qurbaniyek ku hat redkirin, ku bû sedema kuştina yekem",
+        "Avakirina bircêkî bilind da ku bigihîje ezmanan",
+        "Ji bo baweriya xwe, avêtina nav agirê gurr",
+        "Qurbankirina kurê xwe ji bo îtaetkirina Xwedê",
+        "Ji ber reviyana ji erkê, ji aliyê masiyek mezin ve tê daqurtandin"
+      ],
+      "answer": "Pêşkêşkirina qurbaniyek ku hat redkirin, ku bû sedema kuştina yekem"
+    },
+    "location": {
+      "label": "Hêmana Sereke",
+      "options": [
+        "Qijikek ku Xwedê şandiye da ku definkirinê nîşan bide",
+        "Lehiyeke mezin ku tevahiya milletekî xeniqand",
+        "Darek ku veguherî marê zindî",
+        "Deveyekî ku ji çiyayekî kevirî derket",
+        "Textekî mezin ku ji aliyê bayên bihêz ve tê hilgirtin"
+      ],
+      "answer": "Qijikek ku Xwedê şandiye da ku definkirinê nîşan bide"
+    },
+    "outcome": {
+      "label": "Netîce",
+      "options": [
+        "Bûm poşman, barê min bi sûcê yekem ê ku hatiye kirin giran bû",
+        "Xwedê lêborîn wergirt û bihuşta herheyî da wî",
+        "Gihiştiye astek bilind a pêxemberîtî û şehrezayiyê",
+        "Piştî ku ji kûrahiya tariyê gazî kir, bi dilovaniya Xwedê xilas bû",
+        "Serwerî li ser cin, ba û deryayan hat dayîn"
+      ],
+      "answer": "Bûm poşman, barê min bi sûcê yekem ê ku hatiye kirin giran bû"
+    }
+  },
+  "verseRef": "5:30",
+  "arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَـٰسِرِينَ",
+  "verse": "And his soul permitted to him the murder of his brother, so he killed him and became among the losers. (5:30)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Gürültünün Üzerinden Duyulan Şikayet",
+  "intro": "Zulmün rutin hale geldiği bir toplumdan yükselen bir ses duyuyorsunuz. Hiçbir güç gösterisi şikayete cevap vermiyor; bunun yerine, doğrudan Allah'a bir yakarış ulaşıyor ve cevap, ibadetin özüne dokunuyor. Bu şikayeti kim yaptı, ardından hangi soru geldi ve hangi hakikat doğrulandı?",
+  "clues": [
+    "Çevremdeki insanların maruz kaldığı baskı beni rahatsız etmeye başladı.",
+    "Bu şikayetimi doğrudan Allah'a şahsen ilettim.",
+    "Allah şikayeti işitti ve benim inancım hakkında bir meydan okumayla cevap verdi.",
+    "Verilen cevapta, bir ve yüce olan Allah'a nasıl inanmadığım soruldu.",
+    "Sonra ben de Allah'ın neden inkâr eden bir kavmi kayırdığını sordum.",
+    "Ben, Zühruf Suresi'nde Allah'ın şikayetini işittiği kişi olarak adı geçen Uzeyr'im."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Ben kimim?",
+      "options": [
+        "Uzair",
+        "Büyük tufanda yolculuk eden yoldaş",
+        "Su üzerinde yürüyen hizmetkar",
+        "Mağara içinde korunan uyuyan kişi",
+        "Nehre taş getiren hizmetçi"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Deneme/Etkinlik",
+      "options": [
+        "İnsanların gördüğü zulümden Allah'a şikayet etmek",
+        "Fırtına sırasında su üzerinde yürümek",
+        "Suyu olmayan bir nehre taş taşımak",
+        "Nuh'un Gemisi'nde büyük bir selin içinden geçmek",
+        "Muazzam bir hazinenin anahtarını almak"
+      ],
+      "answer": "İnsanların gördüğü zulümden Allah'a şikayet etmek"
+    },
+    "location": {
+      "label": "Temel Unsur",
+      "options": [
+        "Allah'a yöneltilmiş doğrudan bir şikayet.",
+        "Yılana dönüşen bir asa",
+        "Serin ve huzurlu bir fırın",
+        "Sel sularının üzerinde yüzen bir gemi",
+        "Bir hizmetçiyi yutan balık"
+      ],
+      "answer": "Allah'a yöneltilmiş doğrudan bir şikayet."
+    },
+    "outcome": {
+      "label": "Sonuç",
+      "options": [
+        "Allah şikayeti işitti ve ilahi birliğini ve yüce egemenliğini tasdik etti.",
+        "Fırtına sırasında su üzerinde güvenli bir şekilde yürümek",
+        "Nuh'un Gemisi'nde büyük bir sel felaketini güvenle atlatmak",
+        "Kibir sarayının içinde yeniden görüş kazanmak",
+        "Doğudan batıya uzanan bir egemenlik alanı elde etmek"
+      ],
+      "answer": "Allah şikayeti işitti ve ilahi birliğini ve yüce egemenliğini tasdik etti."
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "L'escota plumada",
+  "intro": "Dins un reialme governat per un domeni concedit suls vents, los èssers invisibles, e las creaturas del cèl, un membre pichon e rapid s'esvaniguèt dels rengs — sonque per tornar amb de revelacions que remodelarián lo destin d'una nacion luènha. Aquel informator d'uèlhs aguts portèt la vertat a la lutz ont l'ignorança s'èra enrasigada. Qui soi ieu?",
+  "clues": [
+    "Serviguèri dins una cort ont d'umans, d'èssers invisibles, e de creaturas del cèl respondián a un sol regent savi que comandava los quites vents.",
+    "Èri absent de mon pòste pendent un moment, e la colèra del governant èra promesa se mancavi de provesir una rason satisfasenta.",
+    "Soi una pichona creatura de vòl, coneguda per sa vista aguda, e ma mena foguèt onorada amb un nomenatge dirècte dins las paginas de la revelacion.",
+    "Quand tornèri, portèri de novèlas d'una tèrra luènha ont lo pòble se prostrava al solelh, òrb a aquel que creèt los cèls e la tèrra.",
+    "Trobèri una femna que governava un grand reialme, assetada sus un tròn magnific, avent pas jamai conegut la vertat abans.",
+    "Soi ieu que descobriguèt lo reialme de Saba' e portèt una letra d'invitacion d'un profèta-rei que foguèt donat lo domeni sul vent."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Lo Hoopoe (Hudhud)",
+        "La Formiga de la Val de Sulaiman",
+        "Asif ibn Barkhiya",
+        "Ifrit lo Jinn",
+        "Un Àngel del Tròn"
+      ],
+      "answer": "Lo Hoopoe (Hudhud)"
+    },
+    "trial": {
+      "label": "Ensag/Eveniment",
+      "options": [
+        "L'expedicion al Reialme de Saba' (Sheba)",
+        "L'afrontament amb los bruèches de faraon",
+        "L'inondacion del profèta Nuh",
+        "La destruccion del Pueblo de 'Ad",
+        "La scission de la Mar Roja"
+      ],
+      "answer": "L'expedicion al Reialme de Saba' (Sheba)"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "La Tèrra de Saba' (Sheba)",
+        "Mont Sinai",
+        "L'Arca del profèta Nuh",
+        "La Cauna d'Ashab al-Kahf",
+        "Lo Palais de Faraon"
+      ],
+      "answer": "La Tèrra de Saba' (Sheba)"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Bilqis venguèt en somission a la cort de Sulaiman",
+        "Lo faraon e son armada foguèron afogats dins la mar",
+        "Lo Pòble d'Ad foguèt destruch per un vent violent",
+        "Los mascièrs del faraon cresián al profèta Musa",
+        "Una granda diluvi consumèt los descresents"
+      ],
+      "answer": "Bilqis venguèt en somission a la cort de Sulaiman"
+    }
+  },
+  "verseRef": "27:27",
+  "arabic": "۞ قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَـٰذِبِينَ",
+  "verse": "[Solomon] said, \"We will see whether you were truthful or were of the liars. (27:27)"
+}

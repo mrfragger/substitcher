@@ -1,0 +1,61 @@
+{
+  "title": "die Melodie der Berge in der Abenddämmerung",
+  "intro": "Lausche, wie Täler im Lobgesang an der Seite eines auserwählten Dieners Allahs widerhallen. Eine Stimme voller Melodie, ein von Streitenden im Gerichtssaal ersehntes Urteil und von göttlichem Gebot erweichtes Metall warten darauf, entdeckt zu werden. Welche Gestalt der Anbetung und gerechten Herrschaft spricht durch diese Zeichen?",
+  "clues": [
+    "Ich wurde von Allah mit Fülle und einer melodischen Lobgesangsstimme gesegnet.",
+    "Ich wurde von Allah gelehrt, die Sprache der gerechten Urteilsfindung zwischen Streitenden zu verstehen.",
+    "Ich stand einem mächtigen Riesenkrieger im Kampf gegenüber und durch Allahs Willen habe ich ihn besiegt.",
+    "Mir wurden Weisheit, Autorität und eine offenbarte Schrift mit Psalmen von Allah zuteil.",
+    "Am Abend und bei Sonnenaufgang schlossen sich mir die Berge und die Vögel an, um mit mir Allah zu preisen.",
+    "Ich wurde von Allah gelehrt, Kettenhemden aus Eisen herzustellen, das für mich weich gemacht wurde."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wer bin ich?",
+      "options": [
+        "Prophet Dawud (David)",
+        "Prophet Ismail (Ismael)",
+        "Prophet Yahya (Johannes)",
+        "Dhul-Kifl",
+        "Prophet Al-Yasa (Elisha)"
+      ],
+      "answer": "Prophet Dawud (David)"
+    },
+    "trial": {
+      "label": "Prozess/Veranstaltung",
+      "options": [
+        "Besiegte Jalut (Goliath) in der Schlacht durch Allahs Willen",
+        "Die Arche wurde gebaut, um die große Flut zu überstehen.",
+        "Er wurde in ein Feuer geworfen, das Allah kühlte",
+        "Wurde von einem großen Fisch im Meer verschluckt",
+        "Wurde in den Himmel erhoben, ohne den Tod zu kosten"
+      ],
+      "answer": "Besiegte Jalut (Goliath) in der Schlacht durch Allahs Willen"
+    },
+    "location": {
+      "label": "Schlüsselelement",
+      "options": [
+        "Berge und Vögel preisen gemeinsam Allah",
+        "Ein Stab, der sich in eine Schlange verwandelte",
+        "Ein Feuer, das erkaltet und friedlich geworden war",
+        "Eine Kamelstute wurde als Zeichen an das Volk gesandt.",
+        "Eine hölzerne Arche ruht auf dem Berg Judi"
+      ],
+      "answer": "Berge und Vögel preisen gemeinsam Allah"
+    },
+    "outcome": {
+      "label": "Ergebnis",
+      "options": [
+        "Ihm wurden Königtum, Weisheit und die Zabur (Psalmen) verliehen.",
+        "Nach inständigem Gebet wurde ihm im hohen Alter ein Sohn geschenkt.",
+        "Die Sicherheit in der Höhle wurde für viele Jahre gewährleistet.",
+        "Eine Zamzam-Quelle in der Wüste wurde geschaffen",
+        "Gewährte das Ertrinken der Armee im Meer"
+      ],
+      "answer": "Ihm wurden Königtum, Weisheit und die Zabur (Psalmen) verliehen."
+    }
+  },
+  "verseRef": "38:18",
+  "arabic": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+  "verse": "Indeed, We subjected the mountains [to praise] with him, exalting [Allāh] in the [late] afternoon and [after] sunrise. (38:18)"
+}

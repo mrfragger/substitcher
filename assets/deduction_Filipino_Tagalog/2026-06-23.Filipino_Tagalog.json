@@ -1,0 +1,61 @@
+{
+  "title": "Ang Tagapangalaga sa Tabi ng Ilog",
+  "intro": "Sa isang lupain kung saan ang utos ng isang malupit na pinuno ay nagdulot ng kalungkutan sa maraming tahanan, isang kaluluwa ang nakatanggap ng isang mensahe na sumalungat sa lahat ng takot. Taglay ang pusong puno ng tiwala, sinimulan nila ang isang gawa ng pananampalataya na magbabago sa takbo ng isang bansa. Habang ang tubig ay nagdadala ng isang mahalagang kargamento, ang pag-asa ay humahalo sa mga agos.",
+  "clues": [
+    "Nabuhay ako sa panahon ng pang-aapi at takot.",
+    "Nakatanggap ako ng banal na inspirasyon na nagbigay sa akin ng lakas ng loob.",
+    "Inutusan akong huwag matakot o magdalamhati.",
+    "Inilagay ko ang anak ko sa isang baul at inilapag ito sa ibabaw ng tubig.",
+    "Natagpuan ang anak ko sa sambahayan ng pinuno, ngunit sumunod ang isa ko pang anak.",
+    "Nakasama ko muli ang aking anak upang alagaan siya, gaya ng ipinangako ng Allah."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Sino Ako?",
+      "options": [
+        "Ang Ina ni Moises",
+        "Ang Asawa ni Paraon",
+        "Ang Kapatid na Babae ni Moises",
+        "Ang Ina ni Hesus",
+        "Ang Reyna ng Sheba"
+      ],
+      "answer": "Ang Ina ni Moises"
+    },
+    "trial": {
+      "label": "Pagsubok/Kaganapan",
+      "options": [
+        "Na-inspire na ihagis ang isang bata sa ilog",
+        "Hinahamon sa isang tunggalian ng mahika",
+        "Hinahabol ng isang hukbo",
+        "Pagtawid sa dagat na naghati",
+        "Pagtatayo ng isang sagradong bahay"
+      ],
+      "answer": "Na-inspire na ihagis ang isang bata sa ilog"
+    },
+    "location": {
+      "label": "Pangunahing Elemento",
+      "options": [
+        "Isang baul na inilagay sa ilog",
+        "Isang nasusunog na palumpong",
+        "Isang tungkod na naging ahas",
+        "Isang ginintuang guya",
+        "Isang trono"
+      ],
+      "answer": "Isang baul na inilagay sa ilog"
+    },
+    "outcome": {
+      "label": "Resulta",
+      "options": [
+        "Ligtas na naibalik ang bata sa nars",
+        "Ang bata ay nawala magpakailanman",
+        "Dinala ang bata sa isang malayong lupain",
+        "Ang bata ay agad na naging pinuno",
+        "Ang bata ay inampon ng isang mayamang mangangalakal"
+      ],
+      "answer": "Ligtas na naibalik ang bata sa nars"
+    }
+  },
+  "verseRef": "28:7",
+  "arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ ۖ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+  "verse": "And We inspired to the mother of Moses, \"Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers.\" (28:7)"
+}

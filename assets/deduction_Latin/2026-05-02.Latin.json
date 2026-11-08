@@ -1,0 +1,61 @@
+{
+  "title": "Nuntius Gravis Baiulus",
+  "intro": "Anima iusta missa est ad populum ducendum in inauditis delictis amissum. Hic nuntius firmus stetit, acrem admonitionem protulit contra corruptionem quae ordinem naturalem spreverat. Precibus fervidis non obstantibus, communitas in tenebras altius mersa est, scaenam parans ad iudicium divinum nulli alii simile. Potesne hunc servum fidelem Dei agnoscere?",
+  "clues": [
+    "Aliud magni prophetae cognatus eram, et cum eo migravi, patriam nostram relinquens.",
+    "Missus sum ad populum cuius impietas singularis erat, delictum quod nulla creatura ante eos commiserat.",
+    "Familia mea divisa erat; quidam familiaris propinquus clam cum infidelibus favebat.",
+    "Angeli, in forma iuvenum formosorum, ad domum meam venerunt ut hospites, magnum mihi dolorem pro eorum salute afferentes.",
+    "Filias meas populo meo in matrimonium obtuli, desperato conatu ut eos a turpibus suis facinoribus averterem.",
+    "Meus populus clamore terribili et pluvia lapidum e luto cocto contectus est, dum ego et familia mea, uno excepto, discessu in media nocte servati sumus."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Shu'ayb",
+        "Propheta Salih",
+        "Propheta Lut",
+        "Propheta Hud",
+        "Propheta Nuh"
+      ],
+      "answer": "Propheta Lut"
+    },
+    "trial": {
+      "label": "Quod erat meum experimentum primum?",
+      "options": [
+        "Regem tyrannum persuadens ne me igne combureret.",
+        "Invidiam fratrum meorum tolerare et in puteum conjectum esse.",
+        "Populum in inaudita fornicatione sexuali versatum oppugnare.",
+        "Populum meum e vinculis sub potente pharaone educens.",
+        "Navem ingentem construens ad fideles a diluvio magno servandos."
+      ],
+      "answer": "Populum in inaudita fornicatione sexuali versatum oppugnare."
+    },
+    "location": {
+      "label": "Ubi erat locus missionis meae?",
+      "options": [
+        "Urbs Madyan",
+        "Urbs antiqua Iram",
+        "Terra Aegypti sub Pharaone",
+        "Urbes Sodomae et Gomorrhae",
+        "Urbs Nineve"
+      ],
+      "answer": "Urbes Sodomae et Gomorrhae"
+    },
+    "outcome": {
+      "label": "Quid fuit exitus ultimus?",
+      "options": [
+        "Urbes eversae et lapidibus e luto cocto perfusae sunt.",
+        "Populus meus a terra absorptus est una cum duce suo diviti.",
+        "Populus meus vento vehementi septem noctes et octo dies vastatus est.",
+        "Populus meus a plagis afflictus est ut locustae, pediculi et ranae.",
+        "Ingens piscis me devoravit postquam munus meum deserui."
+      ],
+      "answer": "Urbes eversae et lapidibus e luto cocto perfusae sunt."
+    }
+  },
+  "verseRef": "11:82",
+  "arabic": "فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَـٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةًۭ مِّن سِجِّيلٍۢ مَّنضُودٍۢ",
+  "verse": "So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] (11:82)"
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Väljavalitute reetjad",
+  "intro": "Läbi ajaloo on inimkonna seas kõndinud jumalikud sõnumitoojad ja mõned neile lähedasemad ei suutnud valgust ära tunda. See lugu keerleb kahe hinge ümber, kelle lähedus prohvetiks olemisele sai nende proovikiviks ja nende pärand ajatuks õppetunniks.",
+  "clues": [
+    "Me elasime suurte prohvetite ajal, kuid meie silmad jäid kinni tõe ees, mida nad tõid.",
+    "Meie kodud olid täis jumalikku ilmutust, aga meie südamed olid paadunud.",
+    "Me olime abielus meestega, kes valiti oma rahvast hoiatama.",
+    "Kui karistus saabus, ei otsinud me varju laevast ega põgenenud kõrvetava vihma eest, sest me pilkasime hoiatusi.",
+    "Koraanis mainitakse meid eeskujuna neile, kes ei usu, näidates, et isegi lähedane suhe prohvetiga ei päästa.",
+    "Me oleme Nuhi ja Luti naised, kes nad reetsid ja seetõttu hukka mõisteti."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes me oleme?",
+      "options": [
+        "Nuu ja Luti naised",
+        "Ibrahimi ja Isma'ili naised",
+        "Musa ja Haruni naised",
+        "Dawudi ja Sulaymani naised",
+        "Ayyubi ja Yunuse naised"
+      ],
+      "answer": "Nuu ja Luti naised"
+    },
+    "trial": {
+      "label": "Milline oli nende kohtuprotsess?",
+      "options": [
+        "Nad olid abielus prohvetitega, aga ei uskunud",
+        "Nad olid viljatud ja süüdistasid prohveteid",
+        "Nad olid rikkad ja ülbed",
+        "Iblis ahvatles neid kodudest lahkuma",
+        "Nad kummardasid kuldvasikat"
+      ],
+      "answer": "Nad olid abielus prohvetitega, aga ei uskunud"
+    },
+    "location": {
+      "label": "Millega oli nende saatus seotud?",
+      "options": [
+        "Üleujutus ja kivivihm",
+        "Tugev tuul",
+        "Maavärin",
+        "Rohutirtsukate nuhtlus",
+        "Mere lõhenemine"
+      ],
+      "answer": "Üleujutus ja kivivihm"
+    },
+    "outcome": {
+      "label": "Mis oli nende lõpp?",
+      "options": [
+        "Nad hukkusid koos uskmatutega",
+        "Nad parandasid meelt ja said päästetud",
+        "Nad jäid lastetuks",
+        "Nad olid igaveseks pagendatud",
+        "Nad muudeti ahvideks ja sigadeks"
+      ],
+      "answer": "Nad hukkusid koos uskmatutega"
+    }
+  },
+  "verseRef": "66:10",
+  "arabic": "ضَرَبَ ٱللَّهُ مَثَلًۭا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍۢ وَٱمْرَأَتَ لُوطٍۢ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًۭٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+  "verse": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\" (66:10)"
+}

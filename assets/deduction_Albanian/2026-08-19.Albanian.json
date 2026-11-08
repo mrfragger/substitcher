@@ -1,0 +1,61 @@
+{
+  "title": "Kombi që sfidoi rendin natyror",
+  "intro": "Në një rajon, historia e të cilit jehon nëpër shekuj, një komunitet jetonte në rebelim të hapur kundër ligjeve të pastërtisë. Veprat e tyre ishin aq të pashembullta saqë mbahen mend si një paralajmërim për të gjithë njerëzimin. Kush ishin këta shpirtra dhe çfarë fati i zuri?",
+  "clues": [
+    "Ne banonim në një vend përgjatë një rruge që udhëtarët e kalonin shpesh, por ne ua bëmë udhëtimin e tyre të rrezikshëm.",
+    "Ne kryem akte të tilla të pahijshme që askush në botë nuk i kishte bërë më parë.",
+    "Një i dërguar nga mesi ynë na thirri të braktisnim rrugët tona, por ne e refuzuam dhe kërkuam ndëshkimin nëse ai ishte i sinqertë.",
+    "Kur mysafirë të pashëm vinin në qytetin tonë, ne kërkuam t'i sulmonim, pa e ditur se ishin lajmëtarë të shkatërrimit.",
+    "Na u paralajmërua një ndëshkim i tmerrshëm nëse nuk do të hiqnim dorë, por ne e tallëm paralajmërimin dhe mbetëm në mëkatin tonë.",
+    "Një shi gurësh nga qielli ra mbi ne dhe shtëpitë tona u përmbysën, duke mos lënë asnjë gjurmë përveç një shenje për ata që mendojnë."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kush jam unë?",
+      "options": [
+        "Populli i Lutit",
+        "Populli i Themudit",
+        "Njerëzit e Aadit",
+        "Njerëzit e Medjenit",
+        "Njerëzit e Sabasë"
+      ],
+      "answer": "Populli i Lutit"
+    },
+    "trial": {
+      "label": "Provë/Ngjarje",
+      "options": [
+        "Kryen imoralitet të paparë dhe bllokuan rrugët",
+        "Adhuroi një viç të artë",
+        "Vrau devenë e shenjtë",
+        "Mashtruan në tregti dhe i lanë njerëzit në baltë",
+        "Ndërtuan një kullë të lartë për të sfiduar qiejt"
+      ],
+      "answer": "Kryen imoralitet të paparë dhe bllokuan rrugët"
+    },
+    "location": {
+      "label": "Elementi kyç",
+      "options": [
+        "Engjëj të maskuar si mysafirë të pashëm",
+        "Një deve që del nga një shkëmb",
+        "Një shkop që shndërrohet në gjarpër",
+        "Një varkë e ndërtuar në një mal",
+        "Një zjarr që u bë i freskët dhe i qetë"
+      ],
+      "answer": "Engjëj të maskuar si mysafirë të pashëm"
+    },
+    "outcome": {
+      "label": "Rezultati",
+      "options": [
+        "Shkatërrohet nga një shi gurësh nga qielli",
+        "Gëlltitur nga toka",
+        "U mbyt në një përmbytje të madhe",
+        "I goditur nga një shpërthim ulëritës",
+        "Të transformuar në majmunë"
+      ],
+      "answer": "Shkatërrohet nga një shi gurësh nga qielli"
+    }
+  },
+  "verseRef": "29:34",
+  "arabic": "إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًۭا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ",
+  "verse": "Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient.\" (29:34)"
+}

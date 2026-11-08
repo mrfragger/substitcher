@@ -1,0 +1,61 @@
+{
+  "title": "Etsipenari Uko Egiteko Ahotsa",
+  "intro": "Sartu etxe batean non galerak galera baten atzetik datozen, baina ahots lasai batek etsipena ukatzen duen. Koraneko dei bakar batek pazientzia inflexio-puntu bihurtzen du; ahots horren atzean dagoen pertsonaren arrastoak aurki ditzakezu?",
+  "clues": [
+    "Pazientziaren ahotsa nintzen etxe batean, non bedeinkapenak hondamendiak proban jartzen zituen.",
+    "Aberastasuna eta seme-alabak galtzeak hustutako etxe batean geratu nintzen.",
+    "Bazekien gaixotasunak lagun hura ere jo zuela, zeinaren gorputza kaltetuta baitzegoen.",
+    "Larritasuna larria bihurtu zenean, Ala gogoraraziz oihu egin nuen.",
+    "Adierazpen bat egin nuen: Ala da Egia, beraz, izan pazientzia.",
+    "Ayyub-i izenez deitu nion; ondoren, Alak-ek atsekabea kendu eta familia berreskuratu zuen."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Nor naiz ni?",
+      "options": [
+        "Ayyub profetaren emaztea",
+        "Nuh profetaren emaztea",
+        "Ibrahim profetaren emaztea",
+        "Ya'qub profetaren emaztea",
+        "Faraoiaren alaba."
+      ],
+      "answer": "Ayyub profetaren emaztea"
+    },
+    "trial": {
+      "label": "Proba/Ekitaldia",
+      "options": [
+        "Ayyubi jarraitzea galera eta gaixotasunean zehar, eta gero pazientzia eskatzea",
+        "Mezulari zuzen bati komunitate ustel bat uzteko abisua",
+        "Etorkizuneko leinu baten jaiotzaren alde otoitz egitea",
+        "Ametsak interpretatzea errege-kartzela batean",
+        "Ibaiaren ondoan konfiantzazko haur bat aurkitzea"
+      ],
+      "answer": "Ayyubi jarraitzea galera eta gaixotasunean zehar, eta gero pazientzia eskatzea"
+    },
+    "location": {
+      "label": "Elementu nagusia",
+      "options": [
+        "Ala Egia dela dioen adierazpena eta pazientzia beharrezkoa da",
+        "Palmondo bat iturri baten ondoan",
+        "Olatuetatik urrun ontzi bat eraikitzeko deia",
+        "Hamaika izarren eta egunsentiko eguzki baten ametsa",
+        "Nilo ibaian zehar eramandako saski bat"
+      ],
+      "answer": "Ala Egia dela dioen adierazpena eta pazientzia beharrezkoa da"
+    },
+    "outcome": {
+      "label": "Emaitza",
+      "options": [
+        "Ayyuben gaitza kendu eta bere familia berreskuratu zuten",
+        "Otoitz antzu baten ondoren, aspalditik itxaroten zen haurra eman zioten",
+        "Agintari gazte batek zazpi urte ugaritasun eta urritasun interpretatu zituen",
+        "Haur bat ur korronteetatik erreskatatu zuten",
+        "Uholde suntsitzaile baten aurretik abisua jaso zen"
+      ],
+      "answer": "Ayyuben gaitza kendu eta bere familia berreskuratu zuten"
+    }
+  },
+  "verseRef": "83:16",
+  "arabic": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+  "verse": "Then indeed, they will [enter and] burn in Hellfire. (83:16)"
+}

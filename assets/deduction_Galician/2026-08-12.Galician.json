@@ -1,0 +1,61 @@
+{
+  "title": "Os Enviados da Misericordia e do Poder",
+  "intro": "Imaxina unha tarde tranquila interrompida pola chegada de viaxeiros descoñecidos. A súa aparencia é ordinaria, pero o seu propósito é todo o contrario. Levan unha mensaxe divina que alterará o curso de dúas nacións, traendo risas a un fogar estéril e terror a unha cidade pecadora. Quen son estes visitantes misteriosos?",
+  "clues": [
+    "Enviáronnos a un devoto servo de Alá, coñecido pola súa hospitalidade ilimitada.",
+    "Chegamos disfrazados de descoñecidos, e porén o noso anfitrión percibiu algo doutro mundo na nosa presenza.",
+    "Trouxemos novas que fixeron rir incrédula a unha anciá e golpearse a cara con asombro.",
+    "Encargáronnos protexer unha familia xusta mentres facía chover destrución sobre unha cidade asolagada pola corrupción.",
+    "Negámonos a participar na comida que nos ofreceron, o que só agravou as sospeitas do noso anfitrión.",
+    "Só revelamos a nosa verdadeira natureza antes de partir, dicindo: \"En realidade, somos mensaxeiros do teu Señor\"."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quen somos nós?",
+      "options": [
+        "Os convidados de Abraham",
+        "Os discípulos de Xesús",
+        "Os compañeiros da cova",
+        "O exército de Abraha",
+        "Os Mensaxeiros de Ya-Sin"
+      ],
+      "answer": "Os convidados de Abraham"
+    },
+    "trial": {
+      "label": "A nosa misión",
+      "options": [
+        "Para probar a fe de Abraham con respecto ao seu fillo",
+        "Para entregarlle a escritura a Abraham",
+        "Para anunciar o nacemento de Isaac e a destrución do pobo de Lot",
+        "Para guiar a Abraham á Kaaba",
+        "Para rescatar a Abraham do lume"
+      ],
+      "answer": "Para anunciar o nacemento de Isaac e a destrución do pobo de Lot"
+    },
+    "location": {
+      "label": "Lugar de aparición",
+      "options": [
+        "Na terra de Exipto",
+        "Na cidade de Ur",
+        "Na casa de Abraham",
+        "No xardín do Edén",
+        "No pozo de Zamzam"
+      ],
+      "answer": "Na casa de Abraham"
+    },
+    "outcome": {
+      "label": "O resultado",
+      "options": [
+        "Abraham converteuse en rei",
+        "Abraham construíu a Kaaba",
+        "Sara deu a luz a Isaac e o pobo de Lot foi destruído",
+        "Abraham emigrou a Palestina",
+        "O pobo de Abraham salvouse dun gran diluvio"
+      ],
+      "answer": "Sara deu a luz a Isaac e o pobo de Lot foi destruído"
+    }
+  },
+  "verseRef": "15:51",
+  "arabic": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+  "verse": "And inform them about the guests of Abraham, (15:51)"
+}

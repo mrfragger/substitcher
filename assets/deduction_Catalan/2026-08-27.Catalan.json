@@ -1,0 +1,61 @@
+{
+  "title": "L'Escollit Articulat",
+  "intro": "A l'ombra d'una muntanya on descendien paraules divines, la fe d'un poble va vacil·lar sota la brillantor de l'or. Una ànima, dotada d'eloqüència, es va alçar com a suport per a una missió més gran, però va afrontar un moment de profunda prova. Quan el missatger escollit va ascendir a una cita sagrada, aquesta figura es va quedar enrere, suplicant a una nació inquieta. Qui és aquesta ànima ferma la veu de la qual es va aixecar contra la idolatria?",
+  "clues": [
+    "Al·là em va escollir per ser profeta, tot i que la meva història sovint es narra juntament amb una altra.",
+    "Em van enviar a un governant tirà, però el meu paper era donar suport, no liderar.",
+    "Estava dotat d'eloqüència, i les meves paraules tenien com a objectiu estovar els cors.",
+    "Quan el meu company va marxar per una cita sagrada, em vaig quedar per guiar un poble inquiet.",
+    "En la seva impaciència, van forjar una imatge amb els seus ornaments, i els vaig suplicar que romanguessin fidels a Al·là.",
+    "El meu company va tornar i em va agafar, però li vaig explicar que la gent em va dominar i gairebé em va matar; jo no era entre els malfactors."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Profeta Musa",
+        "Profeta Harun",
+        "Profeta Isa",
+        "Profeta Yahya",
+        "Profeta Zacaries"
+      ],
+      "answer": "Profeta Harun"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ser llançat al foc",
+        "Ser llançat a un pou",
+        "Afrontant l'incident del vedell d'or",
+        "La prova d'una malaltia greu",
+        "La prova de perdre riquesa i fills"
+      ],
+      "answer": "Afrontant l'incident del vedell d'or"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "El vedell d'or",
+        "El personal",
+        "L'Arca de l'Aliança",
+        "Les tauletes",
+        "L'arbust ardent"
+      ],
+      "answer": "El vedell d'or"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Castigat severament",
+        "Perdonat i exonerat",
+        "Fet rei",
+        "Portat al cel",
+        "Donat un nou escrit"
+      ],
+      "answer": "Perdonat i exonerat"
+    }
+  },
+  "verseRef": "10:75",
+  "arabic": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَـٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَـٰتِنَا فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًۭا مُّجْرِمِينَ",
+  "verse": "Then We sent after them Moses and Aaron to Pharaoh and his establishment with Our signs, but they behaved arrogantly and were a criminal people. (10:75)"
+}

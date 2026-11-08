@@ -1,0 +1,61 @@
+{
+  "title": "Um Cerco Sob um Céu Repentino",
+  "intro": "Você está diante de um exército formidável que se aproxima de um santuário venerado, com todas as armas prontas e a vitória aparentemente certa. Antes que o ataque possa começar, um poder inesperado surge acima de você, e o confronto toma um rumo que ninguém previu.",
+  "clues": [
+    "Marchamos com uma confiança que nenhum poder terreno poderia abalar.",
+    "Trouxemos elefantes poderosos, e nossa força parecia ter sido construída em torno deles.",
+    "Tínhamos vindo para demolir um santuário venerado, acreditando que nossa vitória já era certa.",
+    "Quando chegamos lá, um bando cruzou o céu acima de nós.",
+    "Os pássaros atiraram pedras de barro endurecido contra nossos guerreiros.",
+    "Fomos derrotados de forma tão completa que nossa poderosa força desmoronou e se espalhou como cinzas."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quem sou eu?",
+      "options": [
+        "O Povo do Elefante",
+        "Os Dois Príncipes",
+        "Irmãos de José",
+        "O Servo de Alá em Dhul-Kifl",
+        "Os Companheiros do Homem Justo"
+      ],
+      "answer": "O Povo do Elefante"
+    },
+    "trial": {
+      "label": "Teste/Evento",
+      "options": [
+        "O ataque à Caaba liderado por elefantes",
+        "O mar se abrindo diante de um grupo entregue",
+        "A tomada da Arca por um povo tirano.",
+        "A viagem noturna entre duas mesquitas",
+        "A cura de um leproso pelo poder divino"
+      ],
+      "answer": "O ataque à Caaba liderado por elefantes"
+    },
+    "location": {
+      "label": "Elemento chave",
+      "options": [
+        "Pássaros carregando pelotas de argila",
+        "Uma arca de madeira de gofer",
+        "Um cajado se transformou em serpente.",
+        "Uma pedra selada com um sinal",
+        "Uma sarça ardente"
+      ],
+      "answer": "Pássaros carregando pelotas de argila"
+    },
+    "outcome": {
+      "label": "Resultado",
+      "options": [
+        "Sua força poderosa desmoronou como cinzas.",
+        "Eles atravessaram o mar em segurança.",
+        "Eles atravessaram ilesos uma fornalha em chamas.",
+        "Eles entraram no Paraíso aos pares.",
+        "Eles dormiram em uma caverna por 309 anos."
+      ],
+      "answer": "Sua força poderosa desmoronou como cinzas."
+    }
+  },
+  "verseRef": "105:8",
+  "arabic": "",
+  "verse": "105:8"
+}

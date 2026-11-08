@@ -1,0 +1,61 @@
+{
+  "title": "Bir Gecədə Yoxa Çıxan Bağ",
+  "intro": "Yetişmiş meyvələrlə dolu və hündür ağaclarla əhatə olunmuş sulu bir bağ təsəvvür edin. Ona qulluq edənlər özlərini ağıllı hesab edir, məhsullarını ehtiyacı olanların gözündən uzaq, sübh tezdən planlaşdırırdılar. Amma heç vaxt yatmayan Allahın onların gizli nemətləri üçün başqa planları var idi. Qurandakı bu xəbərdarlıq hekayəsinin arxasında kimin dayandığını təxmin edə bilərsinizmi?",
+  "clues": [
+    "Bir vaxtlar bizim o qədər sulu və bol bir bağımız var idi ki, oradan keçən hər kəsin paxıllığını çəkirdi.",
+    "Planlaşdırma zamanı səhər tezdən bir-birimizlə pıçıldaşaraq bildirdik ki, həmin gün heç bir ehtiyacı olan insanın içəri girməsinə icazə verilməyəcək.",
+    "Biz varlı insanlar idik və qəlblərimiz ətrafımızdakı kasıbların hüquqlarına qarşı kor olmuşdu.",
+    "Nəzərdə tutduğumuz məhsulun səhəri çatanda bağçamıza yaxınlaşdıq və bir gecədə onun qaralmış xarabalığa çevrildiyini gördük.",
+    "Dağıdıcı bir fərman ətrafı bürüdü və yetişmiş meyvə salxımlarının bir vaxtlar asıldığı yerdə yalnız kül qaldı.",
+    "Bizim hekayəmiz Quranda qeyd olunan sərt bir xəbərdarlıqdır və biz orada ehtiyacı olanlara sədəqə verən bağ sahibləri kimi tanınırıq."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Mən kiməm?",
+      "options": [
+        "Bağ sahibləri",
+        "Mağara Əhli",
+        "İsanın şagirdləri",
+        "Meşə Əhli",
+        "İbrahimin qonaqları"
+      ],
+      "answer": "Bağ sahibləri"
+    },
+    "trial": {
+      "label": "Sınaq/Tədbir",
+      "options": [
+        "Gizli şəkildə meyvə yığmaq və kasıbları qadağan etmək",
+        "Əsrlər boyu bir mağaranın içində yatmaq",
+        "Daşdan dişi dəvə düzəltməkdən imtina etmək",
+        "Sina dağında qızıl buzova ibadət etmək",
+        "Daşqından qaçmaq üçün böyük bir gəmi tikmək"
+      ],
+      "answer": "Gizli şəkildə meyvə yığmaq və kasıbları qadağan etmək"
+    },
+    "location": {
+      "label": "Əsas element",
+      "options": [
+        "Xurma və üzüm ağacları ilə dolu divarlı bir bağ",
+        "Dağların dərinliyində qaranlıq bir mağara",
+        "İlahi qasırğanın əsir aldığı bir şəhər",
+        "Allah evinin yaxınlığındakı müqəddəs bir vadi",
+        "Axan çayın sahilləri"
+      ],
+      "answer": "Xurma və üzüm ağacları ilə dolu divarlı bir bağ"
+    },
+    "outcome": {
+      "label": "Nəticə",
+      "options": [
+        "Bağ göydən gələn qızmar bir fərmanla məhv edildi",
+        "Onlar 309 ay ili ərzində dinc şəkildə yatdılar",
+        "Onlar daş yağışı ilə əzildilər",
+        "Onlar böyük bir daşqının dalğaları altında boğuldular",
+        "Onlar soyuq, şiddətli bir külək tərəfindən dağıldılar"
+      ],
+      "answer": "Bağ göydən gələn qızmar bir fərmanla məhv edildi"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

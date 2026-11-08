@@ -1,0 +1,61 @@
+{
+  "title": "Kaldet, der modstod evigheder",
+  "intro": "Forestil dig en sjæl, der stod alene mod en hel civilisation, fast besluttet på at lede dem tilbage fra vildfarelse med urokkelig beslutsomhed. I århundreder blev budskabet afvist, hånet og afvist – men indsatsen ophørte aldrig. Til sidst kom en stor afregning, og kun få nåede frelsen ved siden af ​​denne standhaftige sjæl. Kan du identificere denne figur fra Koranen?",
+  "clues": [
+    "Jeg blev sendt som en advarer til et folk, der var faret vild på deres egne veje.",
+    "Jeg opfordrede dem til at søge tilgivelse og vende om fra deres fejl, men de vendte sig væk.",
+    "Under guddommelig befaling konstruerede jeg et massivt fartøj, mens mit folk så på og latterliggjorde mig.",
+    "Jeg påkaldte min Herre uophørligt – til sidst svarede Han, og vand strømmede fra himlen i strømme.",
+    "Jeg gik om bord på skibet med dem, der troede, da vandstanden steg over land.",
+    "Jeg råbte til en af ​​dem, der var blevet tilbage, og bad dem søge tilflugt på et bjerg, men dekretet var allerede vedtaget."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hvem er jeg?",
+      "options": [
+        "Profeten Nuh",
+        "Profeten Ibrahim",
+        "Profeten Musa",
+        "Profeten Hud",
+        "Profeten Salih"
+      ],
+      "answer": "Profeten Nuh"
+    },
+    "trial": {
+      "label": "Prøve/begivenhed",
+      "options": [
+        "Bygge en stor ark og overleve en verdensomspændende oversvømmelse",
+        "At blive kastet ind i en flammende ild",
+        "Konfrontation med en tyran og hans magtfulde magikere",
+        "At blive slugt af en stor fisk",
+        "Vidne til drabet på en hellig hunkamel"
+      ],
+      "answer": "Bygge en stor ark og overleve en verdensomspændende oversvømmelse"
+    },
+    "location": {
+      "label": "Nøgleelement",
+      "options": [
+        "En massiv træark på et voldsomt oversvømmelsesvand",
+        "En hellig dal med gamle stenruiner",
+        "En dyb hule hvor ledsagere sov i århundreder",
+        "Maven på en kæmpehval i havets dyb",
+        "Et tårnhøjt bjerg af sten i vildmarken"
+      ],
+      "answer": "En massiv træark på et voldsomt oversvømmelsesvand"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Frelset med de troende ombord på skibet",
+        "Reddet uskadt fra ilden ved guddommelig befaling",
+        "Ledte en stor udvandring fra et magtfuldt kongerige",
+        "Kastet ud fra fisken på en gold kyst",
+        "Ledte folk væk fra uretfærdighed gennem et mirakuløst tegn"
+      ],
+      "answer": "Frelset med de troende ombord på skibet"
+    }
+  },
+  "verseRef": "71:2",
+  "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ",
+  "verse": "He said, \"O my people, indeed I am to you a clear warner - (71:2)"
+}

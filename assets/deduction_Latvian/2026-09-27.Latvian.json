@@ -1,0 +1,61 @@
+{
+  "title": "Dārzs, kas pazuda vienas nakts laikā",
+  "intro": "Iztēlojieties sulīgu dārzu, pilnu ar nogatavojošiem augļiem un ieskautu ar augstiem kokiem. Tie, kas par to rūpējās, uzskatīja sevi par gudriem, plānojot ražu klusās stundās pirms rītausmas, prom no trūkumcietēju acīm. Bet Tam, kurš nekad neguļ, bija citi plāni viņu apslēptajai bagātībai. Vai varat uzminēt, kas stāv aiz šī brīdinošā stāsta no Korāna?",
+  "clues": [
+    "Mums reiz piederēja tik sulīgs un bagātīgs dārzs, ka tas kļuva par visu garāmgājēju skaudības objektu.",
+    "Plānojot notikumus, mēs agri no rīta čukstus paziņojām, ka nevienai trūcīgai dvēselei tajā dienā netiks ļauts ienākt.",
+    "Mēs bijām bagāti cilvēki, un mūsu sirdis bija kļuvušas aklas pret apkārtējo nabadzīgo tiesībām.",
+    "Kad pienāca mūsu paredzētās ražas rītausma, mēs tuvojāmies savam dārzam, tikai lai redzētu, ka tas vienas nakts laikā ir pārvērties melnās drupās.",
+    "Postošs dekrēts pārņēma visu, atstājot tikai pelnus tur, kur kādreiz karājās gatavu augļu ķekari.",
+    "Mūsu stāsts ir bargs brīdinājums, kas ierakstīts Korānā, kur mēs esam pazīstami kā dārza īpašnieki, kas atturējās no žēlastības trūcīgajiem."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kas es esmu?",
+      "options": [
+        "Dārza īpašnieki",
+        "Alas ļaudis",
+        "Isas mācekļi",
+        "Meža biedri",
+        "Ibrahima viesi"
+      ],
+      "answer": "Dārza īpašnieki"
+    },
+    "trial": {
+      "label": "Izmēģinājums/pasākums",
+      "options": [
+        "Slepeni novācot augļus un liedzot ieeju nabadzīgajiem",
+        "Gulēšana gadsimtiem ilgi alā",
+        "Atteikšanās radīt kamieli no akmens",
+        "Zelta teļa pielūgšana Sinaja kalnā",
+        "Liela šķirsta būvēšana, lai izvairītos no plūdiem"
+      ],
+      "answer": "Slepeni novācot augļus un liedzot ieeju nabadzīgajiem"
+    },
+    "location": {
+      "label": "Galvenais elements",
+      "options": [
+        "Ar sienām ieskauts dārzs, kas pilns ar palmām un vīnogulājiem",
+        "Tumša ala dziļi kalnos",
+        "Pilsētu pārņēmusi dievišķa viesuļvētra",
+        "Svēta ieleja netālu no Allāha nama",
+        "Plūstošas ​​upes krasti"
+      ],
+      "answer": "Ar sienām ieskauts dārzs, kas pilns ar palmām un vīnogulājiem"
+    },
+    "outcome": {
+      "label": "Rezultāts",
+      "options": [
+        "Dārzu aprija dedzinošs debesu spriedums",
+        "Viņi mierīgi gulēja 309 Mēness gadus",
+        "Viņus saspieda akmeņu lietus",
+        "Viņi noslīka zem lielu plūdu viļņiem",
+        "Viņus izklīdināja auksts, nikns vējš"
+      ],
+      "answer": "Dārzu aprija dedzinošs debesu spriedums"
+    }
+  },
+  "verseRef": "68:33",
+  "arabic": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+  "verse": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew. (68:33)"
+}

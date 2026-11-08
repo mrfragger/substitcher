@@ -1,0 +1,61 @@
+{
+  "title": "La presa que destruyó un reino",
+  "intro": "Una tierra de ríos caudalosos, dos jardines exuberantes y una prosperidad sin igual; sin embargo, sus habitantes se volvieron indiferentes a Aquel que los bendijo. Cuando se les recordó que debían regresar, se apartaron. Lo que siguió fue un castigo que aún resuena como advertencia. ¿Quién era esta antigua comunidad?",
+  "clues": [
+    "Vivíamos en una tierra tan bendecida que nuestra casa se encontraba entre dos jardines exuberantes.",
+    "Disfrutábamos de los ríos que fluían por nuestras tierras y de las abundantes cosechas que llenaban nuestros hogares.",
+    "Sin embargo, cuando fuimos llamados a la gratitud y la obediencia a nuestro Señor, nos apartamos con orgullo.",
+    "Nuestra riqueza y comodidad nos hicieron olvidar a Aquel que nos lo había concedido todo.",
+    "Entonces llegó un torrente repentino que rompió la gran barrera en la que habíamos confiado.",
+    "Somos el pueblo de Saba', cuya tierra era conocida por la gran presa de Ma'rib."
+  ],
+  "categories": {
+    "identity": {
+      "label": "¿Quiénes somos?",
+      "options": [
+        "Gente de Saba",
+        "Gente de la trinchera",
+        "Compañeros del pozo",
+        "Gente de Tubba'",
+        "Pueblo de Madián"
+      ],
+      "answer": "Gente de Saba"
+    },
+    "trial": {
+      "label": "Nuestra perdición",
+      "options": [
+        "Inundación provocada por la rotura de una presa.",
+        "Un viento violento del cielo",
+        "Ardiendo en una trinchera de fuego",
+        "Un terremoto masivo",
+        "Ahogándose en una gran inundación"
+      ],
+      "answer": "Inundación provocada por la rotura de una presa."
+    },
+    "location": {
+      "label": "Ubicación clave",
+      "options": [
+        "La presa de Ma'rib",
+        "Monte Sinaí",
+        "La cueva de los siete durmientes",
+        "La zarza ardiente",
+        "La división del mar"
+      ],
+      "answer": "La presa de Ma'rib"
+    },
+    "outcome": {
+      "label": "Nuestro destino",
+      "options": [
+        "Dos jardines amargos reemplazaron a nuestros exuberantes jardines.",
+        "Nuestros jardines se volvieron aún más exuberantes.",
+        "La tierra se hundió bajo el mar.",
+        "Estábamos sepultados bajo ceniza volcánica.",
+        "Nuestra nación se dividió en doce tribus."
+      ],
+      "answer": "Dos jardines amargos reemplazaron a nuestros exuberantes jardines."
+    }
+  },
+  "verseRef": "34:16",
+  "arabic": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَـٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍۢ وَأَثْلٍۢ وَشَىْءٍۢ مِّن سِدْرٍۢ قَلِيلٍۢ",
+  "verse": "But they turned away [refusing], so We sent upon them the flood of the dam, and We replaced their two [fields of] gardens with gardens of bitter fruit, tamarisks and something of sparse lote trees. (34:16)"
+}

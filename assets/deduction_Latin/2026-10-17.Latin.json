@@ -1,0 +1,61 @@
+{
+  "title": "Desiderium in Sacra Camera",
+  "intro": "Ingressus in sanctuarium quietum vides et devotum servum Dei in oratione stantem vides. Manus eorum sublatae sunt, oculi sublimes, et cor eorum desiderium per totam vitam fert. Quis est haec anima patiens cuius fiducia in Deum numquam vacillavit?",
+  "clues": [
+    "Longos annos in cultu et precibus exegi, miracula visa quae fidem meam corroboraverunt.",
+    "Mihi datum est officium curandi animam iuvenem benedictam in sanctuario.",
+    "Cum senescerem, maximum mihi dolor erat quod liberos non haberem, uxor enim mea sterilis erat, ambo autem eramus provecti aetate.",
+    "Dominum meum precatus sum ut successor ex familia mea, aliquis qui hereditatem prophetiae continuaret.",
+    "Dum in precationis loculo stabam, angeli me vocaverunt, dicentes, \"Allah tibi nuntium bonum adfert,\" et timore ac reverentia percussus sum.",
+    "Dictum mihi est me filium nomine Yahya habiturum esse, nomen quod numquam antea nemini datum erat, et in signum me per tres dies cum hominibus non locuturum esse."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Quis sum ego?",
+      "options": [
+        "Propheta Zacharias",
+        "Propheta Yahya",
+        "Propheta Isaias",
+        "Propheta Dawud",
+        "Luqmanus Sapiens"
+      ],
+      "answer": "Propheta Zacharias"
+    },
+    "trial": {
+      "label": "Iudicium/Eventum",
+      "options": [
+        "Sterilitas et senectus dum iustum haeredem desideras",
+        "In ignem ardentem coniectus",
+        "Ab magno pisce deglutitus",
+        "Regnum tyranno amittere",
+        "Ex patria exsul esse"
+      ],
+      "answer": "Sterilitas et senectus dum iustum haeredem desideras"
+    },
+    "location": {
+      "label": "Elementum Clave",
+      "options": [
+        "Locus precum (mihrab)",
+        "Magna navis (Arca)",
+        "Rubus ardens",
+        "Baculus qui in serpentem conversus est",
+        "Camelus Dei"
+      ],
+      "answer": "Locus precum (mihrab)"
+    },
+    "outcome": {
+      "label": "Exitus",
+      "options": [
+        "Filium iustum accepit et post tres dies silentii iterum locutus est",
+        "Diluvio ob incredulitatem deleta",
+        "Datum regno vasto et potestate in vento",
+        "E ventre piscis liberatus",
+        "A terra absorptus"
+      ],
+      "answer": "Filium iustum accepit et post tres dies silentii iterum locutus est"
+    }
+  },
+  "verseRef": "19:5",
+  "arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًۭا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّۭا",
+  "verse": "And indeed, I fear the successors after me, and my wife has been barren, so give me from Yourself an heir (19:5)"
+}

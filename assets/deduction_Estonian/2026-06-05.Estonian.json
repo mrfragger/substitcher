@@ -1,0 +1,61 @@
+{
+  "title": "Alandlikud tõeotsijad",
+  "intro": "Muistse võimu ja nõiduse maal puhkeb suur vastasseis. Üks pool omab jumalike märkide autoriteeti, teine ​​aga üritab ületada võimatut. Tulemus muudab igaveseks ajaloo kulgu. Kas suudad paljastada nende identiteedi, kes olid tunnistajaks ülimale tõele ja alandasid end selle ees?",
+  "clues": [
+    "Me olime tunnistajaks märkidele, mis ulatusid nõiduse nippidest kaugemale",
+    "Me kõik langesime kummardusesse, suutmata tõde eitada",
+    "Me tundsime ära, et need märgid tulid ühelt tõeliselt Jumalalt",
+    "Me olime esimene kogukond, kes võttis usu omaks nii dramaatilisel viisil.",
+    "Meile lubati paradiisi tasuks meie usu eest",
+    "Meie köied ja kepid muutusid meie silme all madudeks, ometi valisime alistumise"
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Vaarao võlurid",
+        "Prohvet Ibrahimi rahvas",
+        "Alandlikud tõeotsijad",
+        "Koopa rahvas",
+        "Kuninganna Bilqise rahvas"
+      ],
+      "answer": "Vaarao võlurid"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Kohtumine prohvet Musa kaaskonnaga",
+        "Prohvet Hudi tuule katsumus",
+        "Prohvet Salihi emase kaameli väljakutse",
+        "Suur veeuputus saadeti prohveti peale",
+        "Prohveti teekond vaala sees"
+      ],
+      "answer": "Kohtumine prohvet Musa kaaskonnaga"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Vana-Egiptus",
+        "Püha maja Mekas",
+        "Midjani linn",
+        "Thamudi kõrb",
+        "Muistsete magajate koobas"
+      ],
+      "answer": "Vana-Egiptus"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Paradiis kui nende tasu",
+        "Karistus hauas",
+        "Nende külluslike aedade kaotus",
+        "Häving ootamatu maavärina tagajärjel",
+        "Päästmine suure vaala käest"
+      ],
+      "answer": "Paradiis kui nende tasu"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

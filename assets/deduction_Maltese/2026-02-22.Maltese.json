@@ -1,0 +1,61 @@
+{
+  "title": "Il-Paċenzja tar-Ruħ Imnikkta",
+  "intro": "Fl-annali tal-istorja, hemm figura li isimha huwa sinonimu mar-reżistenza. Dan l-individwu ġie ttestjat bit-telf ta’ kull kumdità tad-dinja, iżda baqa’ qaddej devot tal-Ħallieq. Matul snin ta’ tbatija u mard fiżiku, qalb din ir-ruħ baqgħet ankrata fil-fidi, u pprovdiet fanal ta’ tama għal dawk kollha li jiffaċċjaw l-avversità.",
+  "clues": [
+    "Jiena kont qaddej devot ta' Alla, imbierek b'ġid abbundanti, ħafna tfal, u saħħa eċċellenti.",
+    "Ħajti ħadet bidla meta tneżżagħni mill-ġid tiegħi u mill-familja tiegħi, u ma ħallejtni b’xejn ħlief il-fidi tiegħi.",
+    "Kont milqut minn marda fit-tul u ta’ wġigħ li tttestjat il-limiti stess tar-reżistenza umana.",
+    "Matul it-tbatija tiegħi, irrifjutajt li nilmenta kontra l-Mulej tiegħi, anke meta l-avversarju pprova jwassalni għad-disperazzjoni.",
+    "Meta fl-aħħar għajjatt lill-Mulej tiegħi, ma tlabtx għall-ġid, imma sempliċement ammettejt li n-niket kien laqatni.",
+    "Qaluli biex nolqot l-art b’sieqi, u minnha ħarġet għajn ta’ ilma frisk biex ifejjaqli ġismi u jaqta’ l-għatx tiegħi."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Min Jien?",
+      "options": [
+        "Profeta Yaqub",
+        "Il-Profeta Ayyub",
+        "Profeta Żakkarija",
+        "Profeta Yahya",
+        "Il-Profeta Shu'ayb"
+      ],
+      "answer": "Il-Profeta Ayyub"
+    },
+    "trial": {
+      "label": "Prova/Avveniment",
+      "options": [
+        "Snin ta’ mard sever u telf",
+        "Li tintrema f'bir fond",
+        "Jinbela’ minn ħuta ġganteska",
+        "Niffaċċjaw tirann fin-nar",
+        "Vjaġġ twil fit-tfittxija ta’ għalliem"
+      ],
+      "answer": "Snin ta’ mard sever u telf"
+    },
+    "location": {
+      "label": "Element Ewlieni",
+      "options": [
+        "Bastun li fetaħ il-baħar",
+        "Qmis li kellha riħa ta’ dar",
+        "Għajn ta’ ilma li jfejjaq",
+        "Muntanja li tfarrket fi trab",
+        "Għar ta’ rqad fil-fond"
+      ],
+      "answer": "Għajn ta’ ilma li jfejjaq"
+    },
+    "outcome": {
+      "label": "Riżultat",
+      "options": [
+        "Issir il-gvernatur ta’ art kbira",
+        "Tmexxija ta' armata għar-rebħa",
+        "Ir-restawr tas-saħħa u l-familja",
+        "Il-bini ta’ dar sagra ta’ qima",
+        "Nirċievu mejda mifruxa mis-sema"
+      ],
+      "answer": "Ir-restawr tas-saħħa u l-familja"
+    }
+  },
+  "verseRef": "38:42",
+  "arabic": "ٱرْكُضْ بِرِجْلِكَ ۖ هَـٰذَا مُغْتَسَلٌۢ بَارِدٌۭ وَشَرَابٌۭ",
+  "verse": "[So he was told], \"Strike [the ground] with your foot; this is a [spring for a] cool bath and drink.\" (38:42)"
+}

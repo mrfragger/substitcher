@@ -1,0 +1,61 @@
+{
+  "title": "Koke-koken da aka Ji Sama da Hayaniyar",
+  "intro": "Kana jin murya tana tashi daga cikin al'umma inda zalunci ya zama ruwan dare. Babu wani nuna iko da zai amsa korafin; maimakon haka, kira kai tsaye ya isa ga Allah, kuma martanin ya isa zuciyar ibadar kanta. Wa ya yi wannan korafin, wace tambaya ce ta biyo baya, kuma wace gaskiya aka tabbatar?",
+  "clues": [
+    "Na shiga damuwa da zaluncin da mutanen da ke kewaye da ni ke yi mini.",
+    "Na furta wannan korafin kai tsaye ga Allah a cikin korafin kaina.",
+    "Allah ya ji ƙarar kuma ya amsa da ƙalubale game da imanina.",
+    "Amsar ta yi tambaya ta yaya zan iya kasa yin imani da Allah, wanda Shi kaɗai ne kuma Maɗaukaki.",
+    "Sai na tambaye shi dalilin da yasa Allah zai fifita mutanen da suke kafirta.",
+    "Ni ne Uzair, an ambace ni a cikin Suratul Az-Zukhruf a matsayin wanda Allah ya ji ƙararsa."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Wanene Ni?",
+      "options": [
+        "Uzair",
+        "Abokin tafiyar da ya yi tafiya a kan babban ambaliyar ruwa",
+        "Bawan da ya yi tafiya a kan ruwa",
+        "Mai barcin ya kare a cikin kogo",
+        "Bawan da ya kawo duwatsu zuwa kogi"
+      ],
+      "answer": "Uzair"
+    },
+    "trial": {
+      "label": "Gwaji/Taron",
+      "options": [
+        "Korafe-korafe ga Allah game da zaluncin da ake yi wa mutane",
+        "Tafiya a kan ruwa yayin guguwa",
+        "Ɗauki duwatsu zuwa kogi wanda babu ruwa",
+        "Tafiya cikin babban ambaliyar ruwa a cikin Jirgin",
+        "Samun mabuɗin babban taska"
+      ],
+      "answer": "Korafe-korafe ga Allah game da zaluncin da ake yi wa mutane"
+    },
+    "location": {
+      "label": "Babban Sinadari",
+      "options": [
+        "Koke kai tsaye da aka kai wa Allah",
+        "Sanda wadda ta zama maciji",
+        "An yi tanda mai sanyi da kwanciyar hankali",
+        "Jirgin ruwa yana shawagi a kan ruwan ambaliya",
+        "Kifi ya haɗiye bawa"
+      ],
+      "answer": "Koke kai tsaye da aka kai wa Allah"
+    },
+    "outcome": {
+      "label": "Sakamako",
+      "options": [
+        "Allah ya ji ƙarar kuma ya tabbatar da kaɗaitakar Allah da kuma Ubangijin da ya fi girma",
+        "Tafiya cikin aminci a kan ruwa yayin guguwa",
+        "Ketare babban ambaliyar ruwa lafiya a cikin jirgin",
+        "Sake samun gani a cikin fadar girman kai",
+        "Karɓar mulki daga Gabas zuwa Yamma"
+      ],
+      "answer": "Allah ya ji ƙarar kuma ya tabbatar da kaɗaitakar Allah da kuma Ubangijin da ya fi girma"
+    }
+  },
+  "verseRef": "43:7",
+  "arabic": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "verse": "But there would not come to them a prophet except that they used to ridicule him. (43:7)"
+}

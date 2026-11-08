@@ -1,0 +1,61 @@
+{
+  "title": "Vocea de la periferie",
+  "intro": "Te afli într-un oraș în care trei mesageri au venit cu semne clare, dar oamenii îi batjocoresc și se agață de vechile lor obiceiuri. Din cea mai îndepărtată parte a orașului, o siluetă aleargă spre mulțime, fără suflare și hotărâtă, să spună adevărul în fața respingerii. Cine este acest suflet care a riscat totul pentru un mesaj care nu este al său?",
+  "clues": [
+    "Am trăit printre un popor care primise mesageri cu semne clare, dar care se întoarseră cu aroganță.",
+    "Am venit în fugă din cea mai îndepărtată parte a orașului când am auzit de chemarea mesagerilor.",
+    "Le-am spus poporului meu: «O, poporul meu, urmați-i pe mesageri! Urmați-i pe cei care nu vă cer răsplată, căci ei sunt călăuziți drept!»",
+    "Nu eram profet, dar am crezut în mesageri și mi-am îndemnat poporul să facă la fel.",
+    "Oamenii mei mi-au batjocorit sfaturile și m-au acuzat că sunt extremist.",
+    "Când m-au ucis, Allah mi-a spus să intru în Paradis și mi-am dorit ca poporul meu să poată cunoaște iertarea și onoarea pe care le-am primit."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Bărbatul din cea mai îndepărtată parte a orașului (Ya-Sin)",
+        "Unul dintre cei trei mesageri trimiși în oraș",
+        "Un comerciant proeminent al orașului",
+        "Un conducător al orașului",
+        "Liderul necredincioșilor"
+      ],
+      "answer": "Bărbatul din cea mai îndepărtată parte a orașului (Ya-Sin)"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Predicându-și poporul să-i urmeze pe mesageri",
+        "Construirea unei corăbii pentru a salva credincioșii de la potop",
+        "Aruncat în foc pentru credință",
+        "Înghițit de o balenă",
+        "I se dă o împărăție și înțelepciune"
+      ],
+      "answer": "Predicându-și poporul să-i urmeze pe mesageri"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Cea mai îndepărtată parte a orașului",
+        "Arca",
+        "Fântâna",
+        "Rugul aprins",
+        "Peștera"
+      ],
+      "answer": "Cea mai îndepărtată parte a orașului"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "A intrat în Paradis și și-a dorit ca poporul său să-i cunoască iertarea",
+        "Înecat alături de poporul său pentru că a respins mesajul",
+        "I s-a dat o minune cu cămila",
+        "A devenit conducător după procesul său",
+        "A fost salvat de Allah și a rămas alături de poporul său"
+      ],
+      "answer": "A intrat în Paradis și și-a dorit ca poporul său să-i cunoască iertarea"
+    }
+  },
+  "verseRef": "36:26",
+  "arabic": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَـٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+  "verse": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know (36:26)"
+}

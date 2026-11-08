@@ -1,0 +1,61 @@
+{
+  "title": "Poé Pintonan Pamungkas",
+  "intro": "Dipanggil pikeun mintonkeun kakawasaan anu ageung, sakelompok pamaén anu terampil mendakan diri nyanghareupan bebeneran anu teu kaduga anu bakal ngarobih kahirupan aranjeunna salamina.",
+  "clues": [
+    "Kami kawéntar ku karajinan kami, ahli ilusi sareng tipu daya.",
+    "Kami ditimbalan ku pamingpin pikeun ngalawan hiji panantang anu ngagunakeun iteuk basajan.",
+    "Nalika kami ningali bebeneran, kami sujud, nyatakeun iman ka Pangéran alam semesta.",
+    "Eta tiran ngancam urang ku hukuman anu beurat, tapi urang teu goyah.",
+    "Kami kalebet jalmi-jalmi anu mimiti percanten kana éta pesen saatos nyaksian tanda anu jelas.",
+    "Urang syahid kusabab kaimanan urang, tapi urang bakal janten anu mimiti lebet ka Surga sareng jalma-jalma anu soleh."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Saha Urang?",
+      "options": [
+        "Para Tukang Sihir Firaun",
+        "Urang Israil",
+        "Kaom Tsamud",
+        "Murid-murid Isa",
+        "Tentara Abrahah"
+      ],
+      "answer": "Para Tukang Sihir Firaun"
+    },
+    "trial": {
+      "label": "Uji Coba / Acara",
+      "options": [
+        "Tanding jeung Nabi Musa",
+        "Ngawangun Menara",
+        "Banjir Ageung",
+        "Wabah Belalang",
+        "Laut Beulah"
+      ],
+      "answer": "Tanding jeung Nabi Musa"
+    },
+    "location": {
+      "label": "Unsur konci",
+      "options": [
+        "Poé Festival",
+        "Lebak Tuwa",
+        "Kota Iram",
+        "Kebon Kalanggengan",
+        "Dataran Arafah"
+      ],
+      "answer": "Poé Festival"
+    },
+    "outcome": {
+      "label": "Hasil",
+      "options": [
+        "Aranjeunna disalib di tempat umum",
+        "Aranjeunna tilelep di laut",
+        "Aranjeunna dijadikeun pengikut nabi",
+        "Aranjeunna dikirim ka pangasingan",
+        "Aranjeunna dibeuleum ku seuneu"
+      ],
+      "answer": "Aranjeunna disalib di tempat umum"
+    }
+  },
+  "verseRef": "20:70",
+  "arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًۭا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَـٰرُونَ وَمُوسَىٰ",
+  "verse": "So the magicians fell down in prostration. They said, \"We have believed in the Lord of Aaron and Moses.\" (20:70)"
+}

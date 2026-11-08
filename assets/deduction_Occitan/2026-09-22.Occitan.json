@@ -1,0 +1,61 @@
+{
+  "title": "Los Constructors dels Pilars Nauts",
+  "intro": "Te pausas davant las roïnas d'una vila antica majestuosa, sos pilars elevats ara tombats. Lo vent udola dins las carrièras vuèjas, portant la memòria d'un pòble poderós que governava un còp èra aquelas tèrras. Qui èran?",
+  "clues": [
+    "Èrem un pòble de fòrça e destresa immensas, conegut per nòstres grands bastiments e nòstra civilizacion avançada.",
+    "Viviam dins una tèrra de dunas de sabla e de tucs rocoses, e cresiam que degun nos podiá subrepoderar.",
+    "Un messatgièr nos venguèt d'entre nòstres pròpris parents, nos cridant a adorar Allah sol, mas lo refusèrem e lo trufèrem.",
+    "Nos vantavam, 'Qual es mai fòrt que nosautres?' e contunhèrem dins nòstra arrogància e nòstre culte d'idòlas.",
+    "Allah nos mandèt un vent furiós que bufèt pendent sèt nuèches e uèch jorns, en destrusent tot.",
+    "Èrem lo pòble d'Ad, los bastidors d'Iram, e nòstre destin venguèt un avertiment per totes los que venguèron après."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui soi ieu?",
+      "options": [
+        "Personas de 'Ad",
+        "Pòble de Thamud",
+        "Gent de Madyan",
+        "Gent de Tubba'.",
+        "Gent d'al-Rass"
+      ],
+      "answer": "Personas de 'Ad"
+    },
+    "trial": {
+      "label": "Quin foguèt lo castig que lor foguèt mandat?",
+      "options": [
+        "Un vent devastator",
+        "Una pluèja de pèiras",
+        "Un còp fòrt",
+        "Afogament per l'inondacion",
+        "Engolit per la tèrra"
+      ],
+      "answer": "Un vent devastator"
+    },
+    "location": {
+      "label": "Coma se sona lor vila legendària?",
+      "options": [
+        "Iram",
+        "Sodòma",
+        "Madian",
+        "Babèl",
+        "Petra"
+      ],
+      "answer": "Iram"
+    },
+    "outcome": {
+      "label": "Quin foguèt lor destin final?",
+      "options": [
+        "Foguèron destruchs e lors rèstas venguèron una leiçon",
+        "Se repentiguèron e foguèron salvats",
+        "Foguèron transformats en monins",
+        "Foguèron afogats dins la mar",
+        "Foguèron enterrats jos una escorreguda de tèrra"
+      ],
+      "answer": "Foguèron destruchs e lors rèstas venguèron una leiçon"
+    }
+  },
+  "verseRef": "46:25",
+  "arabic": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَـٰكِنُهُمْ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+  "verse": "Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people. (46:25)"
+}

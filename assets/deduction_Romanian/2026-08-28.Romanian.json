@@ -1,0 +1,61 @@
+{
+  "title": "Impedimentul de la Casa Antică",
+  "intro": "În orașul sacru, o figură puternică fierbea de furie pe măsură ce un nou mesaj începea să se răspândească. Această persoană, al cărei nume a devenit sinonim cu opoziția față de adevăr, și-a văzut influența spulberându-se sub greutatea revelației divine. Cine era acest suflet, a cărui soartă a fost pecetluită în nisipurile unui celebru câmp de luptă?",
+  "clues": [
+    "Eram un șef printre poporul meu, cunoscut pentru bogăția și influența mea într-un oraș care adăpostea un sanctuar antic.",
+    "Când un om din tribul meu a început să proclame mesajul unui singur Dumnezeu, l-am ridiculizat pe el și revelațiile sale, numindu-le simple povești ale trecutului.",
+    "L-am confruntat pe acel bărbat în timp ce se ruga lângă structura sacră, amenințându-l că îi voi opri slujirea cu forța, dacă va fi necesar.",
+    "M-am numărat printre liderii care au complotat să reducă la tăcere noua credință, opunându-se adepților acesteia atât cu cuvinte, cât și cu arme.",
+    "Am mărșăluit cu o armată spre un loc numit Badr, încrezător că vom zdrobi micul grup de credincioși.",
+    "Dar pe acel câmp de luptă, viața mea a luat sfârșit, iar moartea mea a devenit o lecție pentru cei care persistă în necredință după semne clare."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cine sunt eu?",
+      "options": [
+        "Abu Jahl",
+        "Abu Sufyan ibn Harb",
+        "Al-Nadr ibn al-Harith",
+        "Umayyah ibn Khalaf",
+        "Utbah ibn Rabi'ah"
+      ],
+      "answer": "Abu Jahl"
+    },
+    "trial": {
+      "label": "Proces/Eveniment",
+      "options": [
+        "Împiedicarea Profetului de a se ruga la Kaaba",
+        "Construirea Kaaba",
+        "Scrierea Coranului",
+        "Conducând armata elefantului",
+        "Despicarea lunii"
+      ],
+      "answer": "Împiedicarea Profetului de a se ruga la Kaaba"
+    },
+    "location": {
+      "label": "Element cheie",
+      "options": [
+        "Kaaba",
+        "Arca profetului Nuh",
+        "Toiagul profetului Musa",
+        "Vițelul de Aur",
+        "Tronul Reginei din Saba"
+      ],
+      "answer": "Kaaba"
+    },
+    "outcome": {
+      "label": "Rezultat",
+      "options": [
+        "Ucis în bătălia de la Badr",
+        "S-a pocăit și a devenit musulman",
+        "A fugit în Abisinia",
+        "A murit în Anul Elefantului",
+        "A devenit un tovarăș al Profetului"
+      ],
+      "answer": "Ucis în bătălia de la Badr"
+    }
+  },
+  "verseRef": "96:9",
+  "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+  "verse": "Have you seen the one who forbids (96:9)"
+}

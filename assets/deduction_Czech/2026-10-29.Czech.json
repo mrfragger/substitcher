@@ -1,0 +1,61 @@
+{
+  "title": "Malé varování před pochodujícím zástupem",
+  "intro": "Vstupte do údolí, kudy se blíží mocný vládce a jeho obrovské vojsko, a představte si malého poutníka, který dává varování, jež zachrání celou komunitu. Jakmile se ohrožená komunita dostane do úkrytu, nebezpečí pomine. Sledujte stopy, abyste identifikovali přehlédnutou postavu skrytou za tímto varováním.",
+  "clues": [
+    "Patřím mezi malé tvory spojené s královstvím vládce.",
+    "Moje komunita žije v obydlích v údolí, kde jeden z nás může volat ostatním.",
+    "Čelíme hrozbě ze strany tohoto vládce a armád cestujících s vládcem.",
+    "Já jsem ten, kdo volá svou komunitu, aby vstoupila do svých obydlí, a varuje nás, abychom nebyli nevědomky rozdrceni.",
+    "Vládcem je Sulajmán a můj druh patří mezi tvory, kteří jsou pod jeho velením.",
+    "Jsem mravenec onoho údolí; po mém varování jsme vstoupili do svých obydlí a unikli rozdrcení, které by nás jinak zastihlo nepřipravené."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kdo jsem?",
+      "options": [
+        "Mravenec z údolí",
+        "Dudek obecný",
+        "Vrána",
+        "Had",
+        "Mula"
+      ],
+      "answer": "Mravenec z údolí"
+    },
+    "trial": {
+      "label": "Zkušební verze/událost",
+      "options": [
+        "Varování, které ušetřilo mravenčí komunitu",
+        "Žádost o prsten od ryby",
+        "Hledání ztraceného trůnu",
+        "Záchrana ukradených očí",
+        "Odmítnutí jíst jídlo vládce"
+      ],
+      "answer": "Varování, které ušetřilo mravenčí komunitu"
+    },
+    "location": {
+      "label": "Klíčový prvek",
+      "options": [
+        "Údolí mravenců",
+        "Sulajmánův pečetní prsten",
+        "Krví potřísněná košile Jusufa",
+        "Zlaté tele z Exodu",
+        "Musova hůl"
+      ],
+      "answer": "Údolí mravenců"
+    },
+    "outcome": {
+      "label": "Výsledek",
+      "options": [
+        "Komunita byla ušetřena poté, co se ukryla",
+        "Komunita byla zničena bez nutnosti útočiště",
+        "Komunita byla ušetřena, protože armáda ustoupila",
+        "Komunita byla odměněna kontrolou nad ptáky",
+        "Komunita byla odvedena do zajetí a odvedena ke královskému dvoru"
+      ],
+      "answer": "Komunita byla ušetřena poté, co se ukryla"
+    }
+  },
+  "verseRef": "29:48",
+  "arabic": "وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَـٰبٍۢ وَلَا تَخُطُّهُۥ بِيَمِينِكَ ۖ إِذًۭا لَّٱرْتَابَ ٱلْمُبْطِلُونَ",
+  "verse": "And you did not recite before it any scripture, nor did you inscribe one with your right hand. Then [i.e., otherwise] the falsifiers would have had [cause for] doubt. (29:48)"
+}

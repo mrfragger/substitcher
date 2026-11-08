@@ -1,0 +1,61 @@
+{
+  "title": "L'abraçada de la Terra",
+  "intro": "En una època de grans proves, a un individu de renom se li va concedir una immensa abundància mundana, una prova de gratitud i humilitat. El viatge d'aquesta figura serveix com una profunda lliçó sobre la naturalesa fugaç de les possessions materials i les conseqüències de l'arrogància. Descobreix la identitat d'aquesta ànima, la història de la qual està gravada a la mateixa terra sota nostre.",
+  "clues": [
+    "Vaig viure entre un poble guiat per un gran missatger.",
+    "Al·là em va atorgar tantes riqueses que les claus dels meus tresors eren una pesada càrrega per a moltes persones fortes.",
+    "El meu poble, coneixent la meva riquesa, em va aconsellar que busqués la residència de l'altra vida amb allò que Al·là m'havia donat i que no oblidés la meva part del món, i que fes el bé com Al·là m'havia fet el bé.",
+    "Vaig declarar arrogantment que la meva immensa riquesa l'havia aconseguit únicament gràcies al meu propi coneixement i esforç, negant qualsevol favor diví.",
+    "Quan em van demanar que contribuís o que reconegués la munificència d'Al·là, m'hi vaig negar amb orgull, creient que les meves possessions eren exclusivament meves.",
+    "Com a resultat de la meva extrema arrogància i opressió, Al·là va ordenar a la terra que s'obrís i m'empassés a mi i la meva llar."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Qui sóc jo?",
+      "options": [
+        "Fir'awn",
+        "Iblis",
+        "Aman",
+        "Abu Lahab",
+        "Qarun"
+      ],
+      "answer": "Qarun"
+    },
+    "trial": {
+      "label": "Prova/Esdeveniment",
+      "options": [
+        "Ser llançat al foc",
+        "Ofegant-se al mar",
+        "Ser exiliat d'un jardí",
+        "Transformar-se en un simi",
+        "Ser engolit per la terra"
+      ],
+      "answer": "Ser engolit per la terra"
+    },
+    "location": {
+      "label": "Element clau",
+      "options": [
+        "Un vedell d'or",
+        "Una arca poderosa",
+        "Un ocell parlant",
+        "Un bastó miraculós",
+        "Tresors i claus immensos"
+      ],
+      "answer": "Tresors i claus immensos"
+    },
+    "outcome": {
+      "label": "Resultat",
+      "options": [
+        "Convertir-se en un gran governant",
+        "Rebre la revelació divina",
+        "Ascendent als cels",
+        "Viure una llarga vida de pietat",
+        "Destrucció absoluta a causa de l'arrogància"
+      ],
+      "answer": "Destrucció absoluta a causa de l'arrogància"
+    }
+  },
+  "verseRef": "28:81",
+  "arabic": "فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍۢ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ",
+  "verse": "And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves. (28:81)"
+}

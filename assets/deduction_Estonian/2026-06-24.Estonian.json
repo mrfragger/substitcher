@@ -1,0 +1,61 @@
+{
+  "title": "Kustutamatu leegi valvur",
+  "intro": "Nähtamatu maailma kõige kardetuma paiga lävel seisab kuju, kellele on usaldatud kohustus, mida ükski teine ​​olend ei ihalda. Kui kannatavad hinged halastust hüüavad, kajab tulekambrites karm vastus. Kas suudad selle igavese kaitsja isiku välja selgitada?",
+  "clues": [
+    "Ma seisan hirmuäratava karistuspaiga uksel nähtamatus kohas.",
+    "Leekiv, kustutamatu tuli on minu pühaliku kohuse keskpunkt.",
+    "Kannatavad hinged hüüavad mu nime, anudes leevendust oma lõpututele piinadele.",
+    "Kui nad anuvad, kuulutan ma, et nad ei lahku kunagi.",
+    "Ma ei ole inimene ega džinn – ma olen puhta kuulekuse loodud olend.",
+    "Mina olen peaingel, kes on määratud Põrgutule igaveseks kaitsjaks."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kes ma olen?",
+      "options": [
+        "Malik",
+        "Džibreel",
+        "Mikael",
+        "Harut",
+        "Marut"
+      ],
+      "answer": "Malik"
+    },
+    "trial": {
+      "label": "Katse/üritus",
+      "options": [
+        "Põrgu rahvas palub oma piinade lõpetamist",
+        "Kohtupäeva tähistamiseks puhutakse trompetit",
+        "Koraan ilmutatakse prohveti südamesse",
+        "Prohvet heidetakse oma rahva poolt suurde tulle",
+        "Võimas müür ehitatakse korrumpeerunud rahva ohjeldamiseks"
+      ],
+      "answer": "Põrgu rahvas palub oma piinade lõpetamist"
+    },
+    "location": {
+      "label": "Põhielement",
+      "options": [
+        "Põrgutuli (Jahannam)",
+        "Lootospuu paradiisi piiril",
+        "Läbistav trompet",
+        "Personal, mis muutub maoks",
+        "Suurepärane jumalik troon"
+      ],
+      "answer": "Põrgutuli (Jahannam)"
+    },
+    "outcome": {
+      "label": "Tulemus",
+      "options": [
+        "Põrgu elanikele öeldakse, et nad jäävad sinna igaveseks",
+        "Põrgu elanikud on andestatud ja vabastatud",
+        "Põrgu elanikele antakse teine ​​võimalus usuks",
+        "Põrgu elanikud viiakse jahedasse paika",
+        "Põrgu elanikud hävitatakse täielikult äikeselöögi tagajärjel"
+      ],
+      "answer": "Põrgu elanikele öeldakse, et nad jäävad sinna igaveseks"
+    }
+  },
+  "verseRef": "43:77",
+  "arabic": "وَنَادَوْا۟ يَـٰمَـٰلِكُ لِيَقْضِ عَلَيْنَا رَبُّكَ ۖ قَالَ إِنَّكُم مَّـٰكِثُونَ",
+  "verse": "And they will call, \"O Mālik, let your Lord put an end to us!\" He will say, \"Indeed, you will remain.\" (43:77)"
+}

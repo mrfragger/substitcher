@@ -1,0 +1,61 @@
+{
+  "title": "Graditelj barijera",
+  "intro": "Preko prostranih zemalja, moćna osoba krenula je na niz ekspedicija, dodijeljenih golemim autoritetom i sredstvima. Ta se duša susrela s raznolikim zajednicama i suočila s jedinstvenim izazovima, ostavljajući trajan trag u povijesti i vjeri svojim djelima i mudrošću, a sve to uz priznavanje pravog izvora svoje snage.",
+  "clues": [
+    "Bila mi je dana moć i sredstva nad svime, i slijedio sam put.",
+    "Moje putovanje me odvelo do mjesta zalaska sunca, gdje sam našao narod.",
+    "Susreo sam zajednicu koja je jedva razumjela govor, a živjela je između dvije planine.",
+    "Zamolili su me da izgradim barijeru, ne radi osobne koristi, već radi zaštite od destruktivne sile.",
+    "Izjavio sam da snaga za izgradnju ovog masivnog zida dolazi od Allaha i da će stajati do obećanog vremena.",
+    "Moje ime, često prevedeno kao 'Dvorogi', označava moj doseg diljem zemlje ili možda dva različita razdoblja."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Tko sam ja?",
+      "options": [
+        "Poslanik Musa",
+        "Poslanik Sulejman",
+        "Zul-Karnajn",
+        "faraon",
+        "Lukman"
+      ],
+      "answer": "Zul-Karnajn"
+    },
+    "trial": {
+      "label": "Suđenje/Događaj",
+      "options": [
+        "Primanje objave",
+        "Suočavanje s tiranom",
+        "Izgradnja velikog broda",
+        "Izgradnja moćne barijere",
+        "Biti progutan od strane ribe"
+      ],
+      "answer": "Izgradnja moćne barijere"
+    },
+    "location": {
+      "label": "Ključni element",
+      "options": [
+        "Kovčeg",
+        "Osoblje",
+        "Željezna barijera",
+        "Rijeka Nil",
+        "Prijestolje"
+      ],
+      "answer": "Željezna barijera"
+    },
+    "outcome": {
+      "label": "Ishod",
+      "options": [
+        "Spas od poplave",
+        "Postati veliko kraljevstvo",
+        "Zaštita za narod",
+        "Uništenje tlačitelja",
+        "Trajna mudrost"
+      ],
+      "answer": "Zaštita za narod"
+    }
+  },
+  "verseRef": "18:95",
+  "arabic": "قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌۭ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا",
+  "verse": "He said, \"That in which my Lord has established me is better [than what you offer], but assist me with strength [i.e., manpower]; I will make between you and them a dam. (18:95)"
+}

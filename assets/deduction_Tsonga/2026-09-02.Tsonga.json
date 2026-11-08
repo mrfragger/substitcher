@@ -1,0 +1,61 @@
+{
+  "title": "Vurhongo Bya Ku Tlula Nkarhi",
+  "intro": "Anakanya hi nkarhi lowu ntiyiso wu nga miyetiwa ni vapfumeri va hlotiwa. Ntlawa lowuntsongo wu hlawurile ku tlhelela endzhaku ku tlula ku tinyiketa, wu kuma vutumbelo eka tindhawu leti nga languteriwangiki ngopfu — ndzhawu leyi a yi ta va ndhawu ya vona yo wisa eka malembe xidzana yo tala ku tlula ku hlayiwa. Loko va hetelela va pfukile, misava a yi hundzukile leyi va rhendzeleke. I vamani mimoya-xiviri leyi yi etleleke?",
+  "clues": [
+    "A hi ri vantshwa lava a hi tshama edorobeni ra khale.",
+    "Vaaki va ka hina a va lava leswaku hi gandzela swin’we na vona, kambe hi arile.",
+    "Hi balekile emutini hi lava vutumbelo eka lava a va kaneta ripfumelo ra hina.",
+    "Munghana la tshembekaka wa milenge ya mune u tshame enyangweni wa ndhawu leyi a hi tumbela eka yona.",
+    "Allah u hi etlerile ku ringana madzana manharhu na nhungu wa malembe.",
+    "Loko hi hetelela hi pfukile, muti wa hina lowu tshameke wu xanisa a wu amukele ripfumelo."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Hi Vamani Hina?",
+      "options": [
+        "Ashab al-Kahf (Vanhu Va Bako) .",
+        "Ashab al-Fil (Vuthu ra Ndlopfu) .",
+        "Ashab al-Ukhdud (Vaseketeri va Mugodi) .",
+        "Va Hawariyyun (Vadyondzisiwa va Isa) .",
+        "Yajuj wa Majuj (Gogo na Magogo) ."
+      ],
+      "answer": "Ashab al-Kahf (Vanhu Va Bako) ."
+    },
+    "trial": {
+      "label": "Xikambelo/Xiendlakalo",
+      "options": [
+        "Hi tlhelele endzhaku hi nghena ebakweni kutani hi etlela malembe-xidzana yo tala",
+        "Hi ponisiwile eka ndzilo lowu pfurhaka",
+        "Hi mitiwe hi nhlampfi leyikulu",
+        "Hi ringetiwile hi kamela ya xisati ya singita",
+        "Hi nyikiwe swikombiso swa nhungu leswi nga erivaleni"
+      ],
+      "answer": "Hi tlhelele endzhaku hi nghena ebakweni kutani hi etlela malembe-xidzana yo tala"
+    },
+    "location": {
+      "label": "Xiphemu xa Nkoka",
+      "options": [
+        "Bako leri dzikeke etintshaveni",
+        "Xikepe lexi nga elwandle leri pfulekeke",
+        "Xivumbeko lexi tlakukeke lexi fikaka ematilweni",
+        "Ntanga lowu avaneke exikarhi ka vaphikizani vambirhi",
+        "Xisirhelelo xa nsimbi ni koporo"
+      ],
+      "answer": "Bako leri dzikeke etintshaveni"
+    },
+    "outcome": {
+      "label": "Mbuyelo",
+      "options": [
+        "Hi pfukile hi kuma muti wa hina wu hundzukile eripfumelweni",
+        "Ndzilo lowu pfurhaka wu hundzuke ku kufumela ni ku rhula",
+        "Vuthu ra valala ri nwile elwandle",
+        "Tinyenyana leti rhwaleke maribye ti lovise nala loyi",
+        "Nhlampfi leyikulu yi hi ntshunxile hi ya eribuweni"
+      ],
+      "answer": "Hi pfukile hi kuma muti wa hina wu hundzukile eripfumelweni"
+    }
+  },
+  "verseRef": "18:25",
+  "arabic": "وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍۢ سِنِينَ وَٱزْدَادُوا۟ تِسْعًۭا",
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (18:25)"
+}

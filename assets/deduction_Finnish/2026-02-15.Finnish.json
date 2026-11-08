@@ -1,0 +1,61 @@
+{
+  "title": "Lujuuden ääni",
+  "intro": "Tämä henkilö muistetaan syvällisestä viisaudesta ja opastuksesta, jonka neuvot ulottuvat sukupolvien taakse. Hänen sanansa ovat osoitus hurskaudesta ja siitä, kuinka tärkeää on tunnistaa jumalalliset siunaukset ja koettelemukset. Paljasta tämän kunnioitetun sielun henkilöllisyys.",
+  "clues": [
+    "En ollut profeetta, mutta viisauteni on ikuistettu jumalallisessa Raamatussa.",
+    "Neuvoin lastani korostamaan kiitollisuutta Allahia kohtaan ja shirkin välttämistä.",
+    "Opetin rukouksen tärkeydestä, hyvän tekemisen kehottamisesta ja pahan kieltämisestä.",
+    "Varoitin ylimielisyydestä ja röyhkeästä vaeltamisesta maan päällä.",
+    "Nimeni on annettu kokonaiselle Koraanin luvulle, joka korostaa opetuksiani.",
+    "Neuvoni sisälsi kärsivällisyyden vastoinkäymisten aikana, sillä se todellakin on lähtöisin päättäväisimmistä asioista."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Kuka minä olen?",
+      "options": [
+        "Profeetta Idris",
+        "Profeetta Jahja",
+        "Luqman",
+        "Imran",
+        "Profeetta Hud"
+      ],
+      "answer": "Luqman"
+    },
+    "trial": {
+      "label": "Keskeinen opetus/ohjaus",
+      "options": [
+        "Arkin rakentaminen",
+        "Mahtavan armeijan edessä",
+        "Viisauden ja moraalisten neuvojen jakaminen",
+        "Unien tulkinta",
+        "Kansakunnan johtaminen voittoon"
+      ],
+      "answer": "Viisauden ja moraalisten neuvojen jakaminen"
+    },
+    "location": {
+      "label": "Keskeinen elementti",
+      "options": [
+        "Palava pensas",
+        "Suuri kala",
+        "Tietty vuori",
+        "Viisas neuvo jälkeläiselle",
+        "Suuri palatsi"
+      ],
+      "answer": "Viisas neuvo jälkeläiselle"
+    },
+    "outcome": {
+      "label": "Tulokset",
+      "options": [
+        "Tuli kuninkaaksi",
+        "Sai profeetan aseman",
+        "Hänen viisautensa on tallennettu Koraaniin",
+        "johdatti kansansa uuteen maahan",
+        "Annettiin valtava rikkaus"
+      ],
+      "answer": "Hänen viisautensa on tallennettu Koraaniin"
+    }
+  },
+  "verseRef": "31:12",
+  "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌۭ",
+  "verse": "And We had certainly given Luqmān wisdom [and said], \"Be grateful to Allāh.\" And whoever is grateful is grateful for [the benefit of] himself. And whoever denies [His favor] - then indeed, Allāh is Free of need and Praiseworthy. (31:12)"
+}

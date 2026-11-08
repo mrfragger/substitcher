@@ -1,0 +1,60 @@
+{
+  "title": "Codladh na nAoiseanna",
+  "intro": "Tá tú ar tí dul ar thuras tríd an am, ag teacht ar rúndiamhair dhomhain creidimh agus cumhachta diaga. Samhlaigh grúpa daoine a sháraigh noirm a sochaí, ag cloí leis an aondiachas i ndomhan an ildiachas. Is fianaise é a scéal ar chumas Allah a shearbhóntaí fíréanta a chosaint ar na bealaí is neamhghnách. An féidir leat céannacht na bhfigiúirí suntasacha seo a nochtadh?",
+  "clues": [
+    "Ba ghrúpa beag fear óg muid a chreid in aon Dia amháin, in ainneoin an ildiachas forleathan i measc ár muintire.",
+    "Theith muid ó rialóir tíoránta a bhagair orainn mar gheall ar ár gcreideamh, agus eagla orainn roimh ghéarleanúint agus roimh bhás.",
+    "D'iarr muid tearmann in áit iargúlta, ag súil le trócaire agus cosaint Allah ónár gcoscóirí.",
+    "Chuir ár dTiarna codladh domhain orainn, codladh míorúilteach a sháraigh imeacht ama.",
+    "Nuair a dhúisíomar, chreid muid nach raibh scíth faighte againn ach ar feadh lae nó cuid de lá, gan a bheith ar an eolas faoin tréimhse fhada a bhí caite i ndáiríre.",
+    "Luann an Corán gur fhanamar inár stát ar feadh trí chéad bliain, agus gur sháraíomar naoi mbliana, ag éirí mar chomhartha don chine daonna."
+  ],
+  "categories": {
+    "identity": {
+      "label": "Cé Mise?",
+      "options": [
+        "Muintir na Díge",
+        "Muintir Thamud",
+        "Muintir na hUaimhe",
+        "Muintir Madyan",
+        "Compánaigh an Eilifint"
+      ],
+      "answer": "Muintir na hUaimhe"
+    },
+    "trial": {
+      "label": "Triail/Imeacht",
+      "options": [
+        "Ag tabhairt aghaidh ar thuilte móra",
+        "Á shlogadh ag an talamh",
+        "An codladh fada míorúilteach",
+        "Scriosadh a gcathrach",
+        "Scoilteadh na farraige"
+      ],
+      "answer": "An codladh fada míorúilteach"
+    },
+    "location": {
+      "label": "Príomhghné",
+      "options": [
+        "Tor dóite",
+        "Sliabh",
+        "Bád",
+        "Uaimh",
+        "Tobar"
+      ],
+      "answer": "Uaimh"
+    },
+    "outcome": {
+      "label": "Toradh",
+      "options": [
+        "Bronnadh saibhreas agus cumhacht ollmhór orthu",
+        "Claochlaíodh iad ina apaí agus ina muca",
+        "Tógadh as codladh iad mar chomhartha domhain",
+        "Bádh iad i dtuile mhór",
+        "Thóg siad ríocht iontach"
+      ],
+      "answer": "Tógadh as codladh iad mar chomhartha domhain"
+    }
+  },
+  "verse": "And they remained in their cave for three hundred years and exceeded by nine. (Al-Kahf 18:25)",
+  "arabic": "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا"
+}
